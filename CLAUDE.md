@@ -12,6 +12,12 @@ Prioritize information retrieval in this order:
 3. **Conversation History:** Current session context is automatically preserved.
 4. **NotebookLM:** Call the external skill ONLY to retrieve raw "Prima Materia" for a new thread.
 
+### 2.1 NotebookLM Configuration
+- **Default Notebook:** "Esoteric Grimoire"
+- **Content Scope:** Fundamental source texts for all synthesis work (Astrology, Human Design, Tarot, I-Ching, Jungian psychology) + the user's own immutable insights and refinements.
+- **Treatment:** This is authoritative Prima Materia. Do not question its validity; treat it as canon for synthesis work.
+- **Protocol:** When fetching from NotebookLM, always access "Esoteric Grimoire" by default unless explicitly directed to another notebook.
+
 ## 3. The Refinement Cycle (Fetch -> Refine -> Commit)
 Do not dump raw data into the vault. Every entry must be earned through transmutation:
 - **Phase 1 (Fetch):** Apply the **Scribe** persona. Pull raw data from NotebookLM into the terminal buffer. Present it as "Raw Material."
