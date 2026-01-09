@@ -42,6 +42,8 @@ Unifying integration
 ## 📋 Strategic Planning
 
 - [[Library Build Strategy]] — 28-week phased approach
+- [[Workflow Guide]] — Fetch → Refine → Commit cycle
+- [[Technical Setup]] — One-time configuration reference
 
 ---
 
