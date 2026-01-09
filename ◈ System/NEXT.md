@@ -16,6 +16,10 @@
 
 ## Next Steps
 
+### Priority 1: Create Library-Wide Quality Rubric
+Adapt the Minor Arcana revision rubric (`RUBRIC - Minor Arcana Revision Template.md`) into a general quality standard for ALL library content across all seven phases. This becomes the authoritative template for comprehensive/research-grade entries.
+
+### Priority 2: Continue Wands Revision
 1. Revise Eight of Wands to comprehensive template standard
 2. Assess/revise Nine and Ten of Wands
 3. Assess/revise Court cards (Page, Knight, Queen, King)
