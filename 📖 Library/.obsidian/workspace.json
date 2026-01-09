@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "788bb061692b2d6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "da06b2cc2f6f9ab9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb1faeea7a0f74ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Core Foundations/Inner Authority and Strategy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Inner Authority and Strategy"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f0ed204f84d2f6e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d945008642a9a140",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8635849c76cb2fa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "46c0a1c467ffae4a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6490bda37392bddc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eccbf583bad43587",
+    "type": "split",
+    "children": [
+      {
+        "id": "c7f6a2d7f905a245",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "138d876eed0c8599",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Start Here.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Start Here"
+            }
+          },
+          {
+            "id": "0cf966bebf7cad9a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Start Here.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Start Here"
+            }
+          },
+          {
+            "id": "973a712148f3abd3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ef059e34f0564a7e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0bb2527b7d730e89",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Start Here.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Start Here"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "cb1faeea7a0f74ff",
+  "lastOpenFiles": [
+    "Core Foundations/Seven-Coordinate Navigation.md",
+    "Core Foundations/Techgnosis - Spiritual Knowledge Through Technology.md",
+    "Core Foundations/The Blueprint - 444 Architecture.md",
+    "Core Foundations/Anima et Algorithm.md",
+    "Start Here.md",
+    "Human Design/Centers/Sacral.md",
+    "Human Design/Strategy and Authority/Emotional Authority.md",
+    "Human Design/Profiles/6-3 Role Model Martyr.md",
+    "Human Design/Profiles/6-3 Role Model Martyr.md.tmp.187517.1767899983801",
+    "Human Design/Profiles/6-2 Role Model Hermit.md",
+    "Human Design/Profiles/6-2 Role Model Hermit.md.tmp.187517.1767899983693",
+    "Human Design/Profiles/5-2 Heretic Hermit.md",
+    "Human Design/Profiles/5-2 Heretic Hermit.md.tmp.187517.1767899894709",
+    "Human Design/Profiles/5-1 Heretic Investigator.md",
+    "Human Design/Profiles/5-1 Heretic Investigator.md.tmp.187517.1767899894599",
+    "Human Design/Profiles/4-1 Opportunist Investigator.md",
+    "Human Design/Profiles/4-1 Opportunist Investigator.md.tmp.187517.1767899818698",
+    "Human Design/Profiles/4-6 Opportunist Role Model.md",
+    "Human Design/Profiles/4-6 Opportunist Role Model.md.tmp.187517.1767899818600",
+    "Human Design/Profiles/3-6 Martyr Role Model.md",
+    "Human Design/Profiles/3-6 Martyr Role Model.md.tmp.187517.1767899744311",
+    "Human Design/Profiles/3-5 Martyr Heretic.md",
+    "Human Design/Profiles/3-5 Martyr Heretic.md.tmp.187517.1767899744206",
+    "Human Design/Profiles/2-5 Hermit Heretic.md",
+    "Human Design/Profiles/2-5 Hermit Heretic.md.tmp.187517.1767899666092",
+    "Human Design/Profiles/2-4 Hermit Opportunist.md",
+    "Human Design/Profiles/2-4 Hermit Opportunist.md.tmp.187517.1767899665978",
+    "Human Design/Profiles/1-4 Investigator Opportunist.md",
+    "Human Design/Profiles/1-3 Investigator Martyr.md",
+    "Human Design/Centers/Root.md",
+    "Human Design/Centers/Spleen.md",
+    "Human Design/Centers/Solar Plexus.md",
+    "Human Design/Centers/Heart.md",
+    "Human Design/Centers/G Center.md",
+    "Human Design/Centers/Throat.md",
+    "Human Design/Centers/Ajna.md"
+  ]
+}

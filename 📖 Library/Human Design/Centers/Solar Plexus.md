@@ -1,0 +1,165 @@
+---
+tags: [#human-design, #center, #solar-plexus, #emotional, #awareness, #motor, #wave, #archetypal]
+system: Human Design
+center_type: Awareness and Motor
+biological_correlation: Kidney, Bladder, Pancreas, Lungs, Nervous System
+defined_percentage: ~50%
+undefined_percentage: ~50%
+date_created: 2026-01-08
+---
+
+# Solar Plexus: The Emotional Wave
+
+## Biological Correlation
+
+The **Solar Plexus Center** corresponds to:
+- **Kidney and bladder** — Fluid regulation and filtration
+- **Pancreas** — Blood sugar balance and insulin production
+- **Lungs** — Breath and oxygenation
+- **Nervous system** — Emotional and stress response
+
+These systems govern **biochemical oscillation, emotional processing, and the body's wave-like rhythms**.
+
+---
+
+## Definition
+
+The Solar Plexus is both an **awareness center** and a **motor center**. It governs:
+- **Emotional intelligence** — Spirit awareness through feeling
+- **The emotional wave** — Biochemical oscillation between hope and pain
+- **Cyclic experience** — The rhythm of human emotion and relationship
+
+- **~50% of people** have a defined Solar Plexus (consistent emotional wave)
+- **~50% of people** have an undefined Solar Plexus (absorb and amplify emotions)
+
+---
+
+## Themes & Functions
+
+The Solar Plexus governs:
+- **Emotional awareness** — Feeling as intelligence
+- **The wave** — Oscillation between hope and pain, expansion and contraction
+- **Relationships** — Intimacy, bonding, and emotional exchange
+- **Spirit consciousness** — The youngest awareness center, still evolving
+
+The Solar Plexus is the **emotional engine** of human experience—the wave that moves us through connection, intimacy, and transformation.
+
+---
+
+## Defined Solar Plexus: Riding the Wave
+
+### Mechanics
+
+When the Solar Plexus is defined:
+- The emotional wave is **consistent and personal**
+- The individual experiences a **biochemical oscillation** of hope and pain
+- Emotions are **internally generated**, not dependent on environment
+
+### Gifts
+
+- **Emotional depth** — Capacity to feel the full spectrum of human emotion
+- **Intimacy** — Ability to connect deeply through shared emotional experience
+- **Wisdom through the wave** — Clarity emerges after riding emotional cycles
+
+### Challenges
+
+- **No truth in the now** — Cannot trust emotional clarity in the moment
+- **Wave distortion** — Making decisions on the high (hope) or low (pain)
+- **Emotional overwhelm** — The wave can feel relentless
+
+---
+
+## Undefined Solar Plexus: Emotional Receptivity
+
+### Mechanics
+
+When the Solar Plexus is undefined:
+- Emotions are **inconsistent** and absorbed from the environment
+- The individual **amplifies** others' emotions
+- They can experience intense feelings that are not their own
+
+### Gifts
+
+- **Emotional sensitivity** — Can sense the emotional climate of a room
+- **Amplification** — Can intensify and clarify others' emotional experiences
+- **Potential for emotional wisdom** — Can become skilled at reading emotional fields
+
+### Challenges
+
+- **Absorbing others' emotions** — Taking on feelings that do not belong to them
+- **Avoiding confrontation** — Not-Self conditioning to avoid emotional intensity
+- **Mistaking amplified emotions for truth** — Believing intense feelings are "theirs"
+
+---
+
+## Not-Self Theme: Avoiding Confrontation and Truth
+
+The **Not-Self** expression of the undefined Solar Plexus is:
+- **Avoiding conflict** — Staying away from emotional intensity
+- **Avoiding truth** — Not speaking or facing uncomfortable realities
+- **People-pleasing** — Suppressing needs to maintain "peace"
+
+The undefined Solar Plexus must learn that **emotional intensity is not theirs** and that confrontation, when necessary, is not violence.
+
+---
+
+## The Solar Plexus as Motor
+
+The Solar Plexus is one of four motors:
+1. **[[Sacral]]** — Sustainable life force
+2. **Solar Plexus** — Emotional wave energy
+3. **[[Heart]]** — Willpower and commitment
+4. **[[Root]]** — Adrenaline and pressure
+
+The Solar Plexus motor is **not sustainable**—it oscillates. When connected to the [[Throat]], it can manifest, but the wave must be honored.
+
+---
+
+## Relationship to Type & Authority
+
+The Solar Plexus is the **highest Authority** in Human Design. If the Solar Plexus is defined, the individual has **[[Emotional Authority]]**, regardless of what other centers are active.
+
+Emotional Authority appears in:
+- **[[Manifestor]]s**
+- **[[Generator]]s** (both Pure and Manifesting)
+- **[[Projector]]s**
+
+**[[Reflector]]s** cannot have Emotional Authority (they have no defined centers).
+
+For those with Emotional Authority:
+- **There is no truth in the now**
+- Decisions must be made **over time**, riding the wave to stillness
+- Clarity emerges in the **plateau**, not the high or low
+
+---
+
+## Cross-References
+
+- **Emotional Authority:** See [[Emotional Authority]] for decision-making through the wave
+- **Motor Centers:** See [[Sacral]], [[Heart]], [[Root]] for the other motors
+- **Jungian Parallel:** The [[Shadow]] (the wave reveals what is hidden) and [[Descent]] (katabasis)
+- **Tarot:** [[The Moon]] (emotional cycles), [[Death]] (transformation through endings)
+
+---
+
+## Practical Guidance
+
+### For Those with a Defined Solar Plexus
+
+1. **Never decide in the moment.** The wave distorts clarity—wait for stillness.
+2. **Ride the wave without attachment.** Hope and pain are both temporary.
+3. **Track your patterns.** Notice your emotional rhythms—are you high, low, or calm?
+4. **Wait for the plateau.** Clarity feels neutral, not dramatic.
+5. **Communicate your process.** Let others know you need time to achieve emotional clarity.
+
+### For Those with an Undefined Solar Plexus
+
+1. **Release others' emotions.** Intense feelings you absorb are not yours.
+2. **Do not avoid confrontation.** Emotional intensity is not dangerous; avoidance creates suffering.
+3. **Speak your truth.** Do not suppress your needs to maintain false peace.
+4. **Protect your emotional field.** Choose environments and relationships that honor emotional health.
+5. **Trust your amplification.** You can feel emotions deeply without owning them.
+
+---
+
+*The Solar Plexus is the wave—the oscillating rhythm of hope and pain, expansion and contraction, intimacy and solitude. For some, the wave is internal and consistent, a biochemical tide that must be ridden to stillness. For others, the wave is external and amplified, a sensitivity to the emotional climate that reveals what others cannot see. To honor the Solar Plexus is to recognize that emotion is intelligence, not chaos, and that clarity is found not in the drama of the wave but in the calm that follows.*
