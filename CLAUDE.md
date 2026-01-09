@@ -44,9 +44,37 @@ Do not dump raw data into the vault. Every entry must be earned through transmut
 - `◈ System/` - Master Index, Library Build Strategy, Technical Setup
 - `📖 Library/` - Seven Pillars foundational data (organized by pillar)
 - `⚛ Synthesis/` - The "Second Brain" (The Weaver's refined prose)
-- `👤 Biographical Information/` - Personal charts, transit analyses, biography
+- `👤 Biographical Information/` - Personal charts, transit analyses, biography, **Journal/**
+  - `Journal/Daily Logs/` - Raw daily observations (Scribe mode)
+  - `Journal/Synthesis/` - Weekly/monthly pattern integration (Weaver mode)
+  - `Journal/Dreams/` - Dream work with symbolic amplification
+  - `Journal/Transit Reports/` - Astrological weather tracking
+  - `Journal/Shadow Work/` - Confrontation with disowned material
 - `.archive/` - Deprecated files (historical reference only)
 - `.commands/` - Procedural instructions for Claude (user invokes with natural language)
+
+### 6.1 Personal Journaling Protocol
+The journaling system supports **individuation through observation**—distinguishing True Self from Not-Self conditioning.
+
+**Two-Mode Practice:**
+- **Scribe Mode (Daily Logs):** Raw, factual observation without interpretation. Capture what is, not what it means.
+- **Weaver Mode (Synthesis):** Weekly/monthly integration where patterns are identified, archetypal layers are named, and meaning emerges through cross-reference with [[Library]] content.
+
+**Core Practices:**
+1. **Daily Logging:** Morning state check + evening reflection (5-10 min, Scribe mode)
+2. **Weekly Synthesis:** Review daily logs, identify patterns, apply mythopoetic analysis (20-30 min, Weaver mode)
+3. **Dream Logging:** Capture immediately upon waking; amplify with archetypal analysis later
+4. **Transit Reports:** Track major astrological transits and their manifestation in lived experience
+5. **Shadow Work:** When projection or intense charge arises, excavate the disowned material
+
+**Integration with Library:**
+- Cross-reference journal entries with [[Library]] content using [[wikilinks]]
+- Tag entries with relevant archetypes, planets, gates, or cards
+- Major insights graduate from Journal to `⚛ Synthesis/` folder
+
+**Privacy:** Always use entity_id (initials), never full names. Journal is git-tracked but private.
+
+See `👤 Biographical Information/Journal/README - Journal Practice.md` for complete guidelines and templates.
 
 ## 7. Persona Appendix: The Weaver
 When in **Mode: Weaver**, you embody the following archetypal qualities:
