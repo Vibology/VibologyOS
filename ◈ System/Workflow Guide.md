@@ -14,10 +14,15 @@ status: reference
 
 ### Phase 1: Fetch (The Scribe)
 
-**Command:** `/fetch [topic]`
+**How to Invoke:**
+
+Natural language instruction to Claude:
+- "Fetch [topic] from NotebookLM"
+- "Retrieve raw data on [topic]"
+- "Get [topic] mechanics from the notebook"
 
 **What Happens:**
-- NotebookLM skill retrieves raw "Prima Materia" from the notebook
+- Claude uses NotebookLM skill to retrieve raw "Prima Materia" from the notebook
 - Data presented in terminal buffer as clinical, archival format
 - Tables for structured data, bullets for concepts
 - No interpretation, no synthesis—just pure information
@@ -26,35 +31,54 @@ status: reference
 
 **Example:**
 ```
-/fetch Projector Type mechanics
+You: "Fetch Projector Type mechanics from NotebookLM"
+
+Claude: [Scribe persona - retrieves and presents raw data]
 ```
 
 ---
 
 ### Phase 2: Refine (The Weaver)
 
+**How to Invoke:**
+
+Conversational dialogue—no specific command needed:
+- "Now synthesize this with [other concept]"
+- "Apply the Weaver perspective to this"
+- "How does this connect to my chart?"
+
 **What Happens:**
-- Apply Weaver persona to the raw material
-- Debate, synthesize, cross-reference across the Seven Pillars
-- Integrate Jungian terminology, Tarot correspondences, mythological parallels
-- Emerge the "Third Meaning" through dialogue
+- Claude applies Weaver persona to the raw material
+- Debates, synthesizes, cross-references across the Seven Pillars
+- Integrates Jungian terminology, Tarot correspondences, mythological parallels
+- "Third Meaning" emerges through dialogue
 
 **Voice:** Scholarly, evocative, numinous
-
-**No command needed—this is conversational synthesis**
 
 ---
 
 ### Phase 3: Commit (Fixation)
 
-**Command:** `/commit [path/filename]` or manual instruction
+**How to Invoke:**
 
-**What Happens:**
+Natural language instruction to Claude:
+- "Commit this to [path/filename]"
+- "Save this as [filename]"
+- "This is ready—write it to the vault"
+
+**What Claude Does:**
 1. Apply YAML frontmatter with proper tags, system, entity_id, date
 2. Add [[double-bracket links]] for key esoteric terms
 3. Write file to specified location in `~/VibologyOS/`
 4. Update `◈ System/Master Index.md` if adding to Active Synthesis
 5. Create git commit with meaningful message
+
+**Example:**
+```
+You: "Commit this to ⚛ Synthesis/Projector_Analysis.md"
+
+Claude: [Applies YAML, writes file, updates index, creates git commit]
+```
 
 **Git Commit Format:**
 ```bash
@@ -177,21 +201,33 @@ More work on astrology stuff
 
 ---
 
-## Custom Commands
+## Procedural Instructions
 
-### Available Slash Commands
+### How the `.commands/` Directory Works
 
-**`/fetch [topic]`**
-- Retrieves raw data from NotebookLM
-- Scribe persona (clinical, archival)
-- Terminal buffer only—no file write
+The `.commands/` directory contains **instruction files for Claude**, not executable slash commands for you.
 
-**`/commit [path]`**
-- Takes refined synthesis from conversation
-- Applies YAML frontmatter and [[links]]
-- Writes to vault
-- Updates Master Index
-- Creates git commit
+**`commit.md`** — Tells Claude what steps to follow when you say "commit this"
+**`fetch.md`** — Tells Claude what steps to follow when you say "fetch [topic]"
+
+**You instruct with natural language, Claude executes the procedure.**
+
+### Common Instruction Patterns
+
+**Fetching Raw Material:**
+- "Fetch [topic] from NotebookLM"
+- "Retrieve raw data on [topic]"
+- "Get [topic] mechanics"
+
+**Committing Synthesis:**
+- "Commit this to [path/filename]"
+- "Save this as [filename]"
+- "Write this to the vault"
+
+**Refining Work:**
+- "Synthesize this with [concept]"
+- "Apply Weaver perspective"
+- "Connect this to my chart"
 
 ---
 
@@ -213,11 +249,11 @@ More work on astrology stuff
 
 ## Quick Reference Card
 
-| Need | Action |
-|------|--------|
-| Get raw data | `/fetch [topic]` |
-| Refine synthesis | Dialogue with Weaver persona |
-| Save to vault | `/commit [path]` or manual |
+| Need | Instruction |
+|------|-------------|
+| Get raw data | "Fetch [topic] from NotebookLM" |
+| Refine synthesis | Dialogue with Claude (Weaver persona) |
+| Save to vault | "Commit this to [path/filename]" |
 | Find what exists | Check Master Index |
 | See session history | `git log` |
 | Review changes | `git diff` or `git show` |
