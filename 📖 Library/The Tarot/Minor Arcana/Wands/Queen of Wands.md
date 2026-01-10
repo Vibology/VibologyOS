@@ -3,11 +3,9 @@ tags: [#tarot, #minor-arcana, #wands, #fire, #court, #water-of-fire, #queen, #so
 system: Tarot
 date_created: 2026-01-09
 suit: Wands
-element: Fire
-court_rank: Queen
-element_primary: Water (Queen rank)
-element_secondary: Fire (Wands suit)
-elemental_formula: Water of Fire
+rank: Queen
+element_primary: Water
+element_secondary: Fire
 title: Queen of the Thrones of Flame
 ---
 

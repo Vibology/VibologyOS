@@ -3,11 +3,9 @@ tags: [#tarot, #minor-arcana, #wands, #fire, #court, #air-of-fire, #knight, #que
 system: Tarot
 date_created: 2026-01-09
 suit: Wands
-element: Fire
-court_rank: Knight
-element_primary: Air (Knight rank)
-element_secondary: Fire (Wands suit)
-elemental_formula: Air of Fire
+rank: Knight
+element_primary: Air
+element_secondary: Fire
 title: Prince of the Chariot of Fire, Lord of Flame and Lightning
 ---
 

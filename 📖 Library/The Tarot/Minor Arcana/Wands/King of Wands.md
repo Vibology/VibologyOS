@@ -3,11 +3,9 @@ tags: [#tarot, #minor-arcana, #wands, #fire, #court, #fire-of-fire, #king, #sove
 system: Tarot
 date_created: 2026-01-09
 suit: Wands
-element: Fire
-court_rank: King
-element_primary: Fire (King rank)
-element_secondary: Fire (Wands suit)
-elemental_formula: Fire of Fire
+rank: King
+element_primary: Fire
+element_secondary: Fire
 title: King of the Flame and the Lightning, Lord of the Flame and the Lightning
 ---
 

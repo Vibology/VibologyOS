@@ -3,11 +3,9 @@ tags: [#tarot, #minor-arcana, #wands, #fire, #court, #earth-of-fire, #page, #mes
 system: Tarot
 date_created: 2026-01-09
 suit: Wands
-element: Fire
-court_rank: Page
-element_primary: Earth (Page rank)
-element_secondary: Fire (Wands suit)
-elemental_formula: Earth of Fire
+rank: Page
+element_primary: Earth
+element_secondary: Fire
 title: Princess of the Shining Flame, Rose of the Palace of Fire
 ---
 
