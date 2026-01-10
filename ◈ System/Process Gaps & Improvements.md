@@ -1,0 +1,238 @@
+---
+tags: [system, process, meta, workflow]
+date_created: 2026-01-10
+date_updated: 2026-01-10
+---
+
+# VibologyOS Process Gaps & Improvements
+
+This document tracks identified gaps in our workflow and documents progress toward addressing them. Review this at session start to ensure the system evolves toward completeness.
+
+---
+
+## Status Legend
+- 🔴 **Not Started** - Identified but not yet addressed
+- 🟡 **In Progress** - Work has begun
+- 🟢 **Complete** - Implemented and documented
+
+---
+
+## High-Priority Gaps
+
+### 1. Cross-System Synthesis Protocol 🔴
+**Status:** Not Started
+**Priority:** High
+**Description:**
+Individual system rubrics exist (Tarot, Human Design, Astrology, etc.), but there's no documented methodology for **synthesizing across systems**. How do we weave Tarot + HD + Astrology into unified insight? Where do these pieces live? What's the template/standard?
+
+**Impact:**
+Cross-system synthesis is the heart of the work. Without systematic protocol, it remains intuitive rather than replicable.
+
+**Next Steps:**
+- Draft cross-system synthesis rubric
+- Define output standards and templates
+- Establish location (⚛ Synthesis/ vs. Library/)
+- Document process in CLAUDE.md
+
+**Date Completed:** N/A
+
+---
+
+### 2. Search & Navigation Strategy 🔴
+**Status:** Not Started
+**Priority:** High
+**Description:**
+As library grows (78 Tarot cards + 64 HD gates + planets + aspects...), finding content becomes critical. Current instruction is "use grep/find" but there's no documented search methodology, index files, tag taxonomy, or cross-reference maps.
+
+**Impact:**
+Without navigation infrastructure, the library becomes a maze. Knowledge exists but can't be efficiently accessed.
+
+**Next Steps:**
+- Create master index files for each pillar
+- Document tag taxonomy and conventions
+- Establish cross-reference mapping system
+- Define search protocols for common queries
+
+**Date Completed:** N/A
+
+---
+
+### 3. Backup & Preservation Protocol 🔴
+**Status:** Not Started
+**Priority:** High
+**Description:**
+Git is the single source of truth, but it's all local. No remote repository, backup schedule, or disaster recovery plan documented. What happens if the machine dies?
+
+**Impact:**
+Years of synthesis work could be lost. No redundancy = existential risk.
+
+**Next Steps:**
+- Establish remote git repository (GitHub private, GitLab, or similar)
+- Document backup schedule
+- Create disaster recovery protocol
+- Test restoration process
+
+**Date Completed:** N/A
+
+---
+
+### 4. Library Maintenance Cycles 🔴
+**Status:** Not Started
+**Priority:** High
+**Description:**
+Journal has hierarchical reviews, but **library has no audit cycle**. No protocol for checking dead links, updating outdated synthesis, identifying incomplete stubs, or "spring cleaning."
+
+**Impact:**
+Library quality degrades over time without systematic maintenance. Dead links, outdated info, and incomplete stubs accumulate.
+
+**Next Steps:**
+- Define quarterly library audit protocol
+- Create checklist: dead links, incomplete entries, outdated synthesis
+- Document link verification process
+- Establish deprecation/archival standards
+
+**Date Completed:** N/A
+
+---
+
+## Medium-Priority Gaps
+
+### 5. Client Work Protocol 🔴
+**Status:** Not Started
+**Priority:** Medium
+**Description:**
+CLAUDE.md mentions entity_id for client work, but there's no documented workflow for: chart storage, reading structure, delivery format, confidentiality beyond initials, or file organization.
+
+**Impact:**
+If client work becomes part of practice, lack of protocol creates inconsistency and potential privacy issues.
+
+**Next Steps:**
+- Document chart storage conventions
+- Define reading structure/template
+- Establish delivery format standards
+- Create privacy/confidentiality protocol
+- Design file organization system
+
+**Date Completed:** N/A
+
+---
+
+### 6. Synthesis Templates & Standards 🔴
+**Status:** Not Started
+**Priority:** Medium
+**Description:**
+Journal has templates (`_TEMPLATE - Dream Log.md`, etc.), but ⚛ Synthesis/ folder has no templates or structural standards. What does a "mature synthesis piece" look like?
+
+**Impact:**
+Synthesis quality varies. Without templates, output lacks consistency and completeness.
+
+**Next Steps:**
+- Create synthesis templates for common types
+- Define quality standards (depth, cross-references, length)
+- Document when to graduate from Journal to Synthesis
+- Establish naming conventions
+
+**Date Completed:** N/A
+
+---
+
+### 7. Quality Verification Protocol 🔴
+**Status:** Not Started
+**Priority:** Medium
+**Description:**
+"Do not hallucinate chart data" is stated, but there's no verification checklist. How to handle uncertain information? What's the process for correcting errors discovered later?
+
+**Impact:**
+Errors compound over time. Without verification protocol, library credibility degrades.
+
+**Next Steps:**
+- Create verification checklist for chart data
+- Document uncertainty handling (mark as [uncertain], cite sources)
+- Establish error correction protocol
+- Define source citation standards
+
+**Date Completed:** N/A
+
+---
+
+## Lower-Priority Gaps
+
+### 8. Insight Evolution Protocol 🔴
+**Status:** Not Started
+**Priority:** Low
+**Description:**
+As understanding deepens, old synthesis may become outdated. No documented approach for: archive vs. revise vs. deprecate. How do we handle evolution of understanding?
+
+**Impact:**
+Old insights linger without clear status. Readers don't know if content is current or superseded.
+
+**Next Steps:**
+- Define versioning strategy for evolving insights
+- Document archive/revise/deprecate criteria
+- Create "superseded by" linking protocol
+- Establish changelog conventions
+
+**Date Completed:** N/A
+
+---
+
+### 9. Export & Presentation Layer 🔴
+**Status:** Not Started
+**Priority:** Low
+**Description:**
+Everything is markdown for Obsidian. No protocol for client-facing PDFs, print-friendly formats, or presentation exports.
+
+**Impact:**
+Content is locked in Obsidian format. Sharing requires manual reformatting.
+
+**Next Steps:**
+- Document PDF export workflow
+- Create print-friendly templates
+- Define presentation format standards
+- Establish delivery protocols
+
+**Date Completed:** N/A
+
+---
+
+## Completed Improvements
+
+### ✓ Hierarchical Journal Review System 🟢
+**Status:** Complete
+**Date Completed:** 2026-01-10
+**Description:**
+Implemented systematic review cycles for Daily Logs, Dreams, and Shadow Work with weekly/monthly/quarterly/annual tiers. Reviews are automatically prompted at session start.
+
+**Commit:** `98c769b` - Implement hierarchical journal review system
+
+---
+
+### ✓ Universal Library Content Standard 🟢
+**Status:** Complete
+**Date Completed:** 2026-01-09
+**Description:**
+Created comprehensive RUBRIC - Library Content Standard.md with detailed guidance for all Seven Pillars (Tarot, Human Design, Astrology, Qabalah, I-Ching, Folklore/Jungian, Angelology). Includes YAML schemas, synthesis requirements, and 900-1100+ word examples.
+
+**Commit:** `b45352b` - Universal Rubric: Expand all 7 system appendices to comprehensive depth
+
+---
+
+## Review Schedule
+
+This document should be reviewed:
+- **At every session start** (automatic prompt via CLAUDE.md)
+- **Quarterly** during library maintenance cycles (once implemented)
+- **When new gaps are identified** (add immediately with status 🔴)
+
+---
+
+## Notes
+
+- Gaps are prioritized based on impact and urgency
+- Priority levels may shift as system matures
+- Completed items move to "Completed Improvements" section with commit reference
+- This is a living document—new gaps will be discovered as the system evolves
+
+---
+
+*"The map is not the territory, but without a map, the territory remains wilderness."*
