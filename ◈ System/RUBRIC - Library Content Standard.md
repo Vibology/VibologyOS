@@ -494,8 +494,10 @@ This appendix covers all 78 Tarot cards: 22 Major Arcana, 56 Minor Arcana (40 pi
 
 ## YAML Frontmatter
 
+**CRITICAL: Tags in YAML must NOT include the `#` symbol. The `#` is only used when referencing tags in the body text.**
+
 ```yaml
-tags: [#tarot, #{major-arcana OR minor-arcana}, #{suit}, #{element}, #{sephirah}]
+tags: [tarot, major-arcana, element-name, sephirah-name]
 system: Tarot
 date_created: YYYY-MM-DD
 
@@ -519,9 +521,19 @@ title: {Golden Dawn title - e.g., "Lord of Defeat"}
 # For Court Cards
 suit: {Wands/Cups/Swords/Pentacles}
 rank: {King/Queen/Knight/Page}
-element_primary: {Fire/Water/Air/Earth of rank}
-element_secondary: {Fire/Water/Air/Earth of suit}
+element_primary: {Fire/Water/Air/Earth}
+element_secondary: {Fire/Water/Air/Earth}
 title: {Golden Dawn title - e.g., "Prince of the Chariot of Fire"}
+```
+
+**Example (Correct):**
+```yaml
+tags: [tarot, minor-arcana, wands, fire, court, page]
+```
+
+**Example (WRONG - will cause errors):**
+```yaml
+tags: [#tarot, #minor-arcana, #wands, #fire]  # ❌ Invalid!
 ```
 
 ## Section 1: Foundational Material - Tarot
@@ -719,8 +731,10 @@ Human Design entries cover: 4 Types, 9 Centers, 64 Gates, 36 Channels, 12 Profil
 
 ## YAML Frontmatter
 
+**CRITICAL: Tags in YAML must NOT include the `#` symbol. The `#` is only used when referencing tags in the body text.**
+
 ```yaml
-tags: [#human-design, #{category}, #{specific-tags}]
+tags: [human-design, category-name, specific-tags]
 system: Human Design
 date_created: YYYY-MM-DD
 category: {Type/Center/Gate/Channel/Profile/Authority/Variable/etc.}
@@ -1065,8 +1079,10 @@ Astrology entries cover: 10 Planets (+ Lunar Nodes, Chiron, major asteroids), 12
 
 ## YAML Frontmatter
 
+**CRITICAL: Tags in YAML must NOT include the `#` symbol. The `#` is only used when referencing tags in the body text.**
+
 ```yaml
-tags: [#astrology, #{planets/signs/houses/aspects}, #{specific-tags}]
+tags: [astrology, category-name, specific-tags]
 system: Astrology
 date_created: YYYY-MM-DD
 category: {Planet/Sign/House/Aspect/Transit/etc.}
@@ -1458,8 +1474,10 @@ Folklore and Jungian content covers: Universal Archetypes (Hero, Shadow, Anima/A
 
 ## YAML Frontmatter
 
+**CRITICAL: Tags in YAML must NOT include the `#` symbol. The `#` is only used when referencing tags in the body text.**
+
 ```yaml
-tags: [#folklore, #jungian, #archetype, #{specific-archetype}]
+tags: [folklore, jungian, archetype, specific-archetype-name]
 system: Folklore
 date_created: YYYY-MM-DD
 category: {Archetype/Myth/Hero-Journey-Stage/Alchemical-Stage/Fairy-Tale}
@@ -1772,8 +1790,10 @@ Angelology entries cover: Nine Angelic Orders (Seraphim, Cherubim, Thrones, Domi
 
 ## YAML Frontmatter
 
+**CRITICAL: Tags in YAML must NOT include the `#` symbol. The `#` is only used when referencing tags in the body text.**
+
 ```yaml
-tags: [#angelology, #hierarchy, #{order}, #{archangel-name}]
+tags: [angelology, hierarchy, order-name, archangel-name]
 system: Angelology
 date_created: YYYY-MM-DD
 category: {Angelic Order/Individual Archangel/Concept}
