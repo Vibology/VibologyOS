@@ -1,5 +1,5 @@
 ---
-tags: [#tarot, #major-arcana, #archetypal, #aries, #mars]
+tags: [tarot, major-arcana, archetypal, aries, mars]
 system: Tarot
 date_created: 2026-01-08
 number: 4
@@ -7,8 +7,6 @@ hebrew_letter: Heh (ה)
 qabalistic_path: 15 (Chokmah → Tiphareth)
 astrological: Aries / Mars
 ---
-
-# The Emperor
 *The Sun of the Morning, Chief Among the Mighty*
 
 ---

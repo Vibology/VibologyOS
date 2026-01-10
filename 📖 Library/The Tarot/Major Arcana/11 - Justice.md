@@ -1,5 +1,5 @@
 ---
-tags: [#tarot, #major-arcana, #archetypal, #libra]
+tags: [tarot, major-arcana, archetypal, libra]
 system: Tarot
 date_created: 2026-01-08
 number: 11
@@ -7,8 +7,6 @@ hebrew_letter: Lamed (ל)
 qabalistic_path: 22 (Geburah → Tiphareth)
 astrological: Libra
 ---
-
-# Justice
 *The Daughter of the Lords of Truth, The Ruler of Balance*
 
 ---

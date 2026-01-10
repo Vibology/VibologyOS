@@ -1,5 +1,5 @@
 ---
-tags: [#tarot, #major-arcana, #archetypal, #taurus]
+tags: [tarot, major-arcana, archetypal, taurus]
 system: Tarot
 date_created: 2026-01-08
 number: 5
@@ -7,8 +7,6 @@ hebrew_letter: Vau (ו)
 qabalistic_path: 16 (Chokmah → Chesed)
 astrological: Taurus
 ---
-
-# The Hierophant
 *The Magus of the Eternal*
 
 ---

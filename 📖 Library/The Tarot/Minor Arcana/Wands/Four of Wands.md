@@ -10,8 +10,6 @@ planetary: Venus in Aries
 decan: Aries 20°-30° (3rd Decan)
 title: Lord of Perfected Work
 ---
-
-# Four of Wands
 *The Lord of Perfected Work*
 
 ---

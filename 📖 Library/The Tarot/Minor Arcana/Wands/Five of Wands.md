@@ -10,8 +10,6 @@ planetary: Saturn in Leo
 decan: Leo 0°-10° (1st Decan)
 title: Lord of Strife
 ---
-
-# Five of Wands
 *The Lord of Strife*
 
 ---

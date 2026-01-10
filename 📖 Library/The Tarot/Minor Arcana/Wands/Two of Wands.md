@@ -10,8 +10,6 @@ planetary: Mars in Aries
 decan: Aries 0°-10° (1st Decan)
 title: Lord of Dominion
 ---
-
-# Two of Wands
 *The Lord of Dominion*
 
 ---

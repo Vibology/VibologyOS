@@ -1,5 +1,5 @@
 ---
-tags: [#tarot, #major-arcana, #archetypal, #sagittarius, #mutable-fire]
+tags: [tarot, major-arcana, archetypal, sagittarius, mutable-fire]
 system: Tarot
 date_created: 2026-01-08
 number: 14
@@ -7,8 +7,6 @@ hebrew_letter: Samekh (ס)
 qabalistic_path: 25 (Yesod → Tiphareth)
 astrological: Sagittarius
 ---
-
-# Temperance
 *The Daughter of the Reconcilers / The Bringer Forth of Life*
 
 ---

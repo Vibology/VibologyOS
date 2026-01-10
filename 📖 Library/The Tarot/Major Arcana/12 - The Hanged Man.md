@@ -1,5 +1,5 @@
 ---
-tags: [#tarot, #major-arcana, #archetypal, #water, #neptune]
+tags: [tarot, major-arcana, archetypal, water, neptune]
 system: Tarot
 date_created: 2026-01-08
 number: 12
@@ -7,8 +7,6 @@ hebrew_letter: Mem (מ)
 qabalistic_path: 23 (Geburah → Hod)
 astrological: Water / Neptune
 ---
-
-# The Hanged Man
 *The Spirit of the Mighty Waters*
 
 ---

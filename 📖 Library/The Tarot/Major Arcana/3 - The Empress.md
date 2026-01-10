@@ -1,5 +1,5 @@
 ---
-tags: [#tarot, #major-arcana, #archetypal, #venus]
+tags: [tarot, major-arcana, archetypal, venus]
 system: Tarot
 date_created: 2026-01-08
 number: 3
@@ -7,8 +7,6 @@ hebrew_letter: Daleth (ד)
 qabalistic_path: 14 (Chokmah → Binah)
 astrological: Venus
 ---
-
-# The Empress
 *The Daughter of the Mighty Ones*
 
 ---

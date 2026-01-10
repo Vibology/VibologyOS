@@ -1,5 +1,5 @@
 ---
-tags: [#tarot, #major-arcana, #archetypal, #air]
+tags: [tarot, major-arcana, archetypal, air]
 system: Tarot
 date_created: 2026-01-08
 number: 0
@@ -7,8 +7,6 @@ hebrew_letter: Aleph (א)
 qabalistic_path: 11 (Kether → Chokmah)
 astrological: Air / Uranus
 ---
-
-# The Fool
 *The Spirit of Aether*
 
 ---

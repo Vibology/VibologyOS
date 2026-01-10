@@ -1,5 +1,5 @@
 ---
-tags: [#tarot, #major-arcana, #archetypal, #moon]
+tags: [tarot, major-arcana, archetypal, moon]
 system: Tarot
 date_created: 2026-01-08
 number: 2
@@ -7,8 +7,6 @@ hebrew_letter: Gimel (ג)
 qabalistic_path: 13 (Kether → Tiphareth)
 astrological: Moon
 ---
-
-# The High Priestess
 *The Priestess of the Silver Star*
 
 ---

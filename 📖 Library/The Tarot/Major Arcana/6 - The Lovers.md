@@ -1,5 +1,5 @@
 ---
-tags: [#tarot, #major-arcana, #archetypal, #gemini]
+tags: [tarot, major-arcana, archetypal, gemini]
 system: Tarot
 date_created: 2026-01-08
 number: 6
@@ -7,8 +7,6 @@ hebrew_letter: Zain (ז)
 qabalistic_path: 17 (Binah → Tiphareth)
 astrological: Gemini
 ---
-
-# The Lovers
 *The Children of the Voice*
 
 ---

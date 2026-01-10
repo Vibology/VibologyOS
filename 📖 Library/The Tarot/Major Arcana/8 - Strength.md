@@ -1,5 +1,5 @@
 ---
-tags: [#tarot, #major-arcana, #archetypal, #leo]
+tags: [tarot, major-arcana, archetypal, leo]
 system: Tarot
 date_created: 2026-01-08
 number: 8
@@ -7,8 +7,6 @@ hebrew_letter: Teth (ט)
 qabalistic_path: 19 (Chesed → Geburah)
 astrological: Leo
 ---
-
-# Strength
 *The Daughter of the Flaming Sword*
 
 ---

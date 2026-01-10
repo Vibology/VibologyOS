@@ -9,8 +9,6 @@ sephirah: Yesod
 planetary: Moon in Sagittarius
 title: Lord of Great Strength
 ---
-
-# Nine of Wands
 *Lord of Great Strength*
 
 ---

@@ -1,5 +1,5 @@
 ---
-tags: [#tarot, #major-arcana, #archetypal, #pisces, #mutable-water]
+tags: [tarot, major-arcana, archetypal, pisces, mutable-water]
 system: Tarot
 date_created: 2026-01-08
 number: 18
@@ -7,8 +7,6 @@ hebrew_letter: Qoph (ק)
 qabalistic_path: 29 (Netzach → Malkuth)
 astrological: Pisces
 ---
-
-# The Moon
 *The Ruler of Flux and Reflux / The Child of the Sons of the Mighty*
 
 ---

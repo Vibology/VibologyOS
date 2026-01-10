@@ -8,8 +8,6 @@ element_primary: Air
 element_secondary: Fire
 title: Prince of the Chariot of Fire, Lord of Flame and Lightning
 ---
-
-# Knight of Wands
 *Prince of the Chariot of Fire, Lord of Flame and Lightning*
 
 ---

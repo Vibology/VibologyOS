@@ -8,8 +8,6 @@ element_primary: Water
 element_secondary: Fire
 title: Queen of the Thrones of Flame
 ---
-
-# Queen of Wands
 *Queen of the Thrones of Flame*
 
 ---

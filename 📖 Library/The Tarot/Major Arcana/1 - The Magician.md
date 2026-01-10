@@ -1,5 +1,5 @@
 ---
-tags: [#tarot, #major-arcana, #archetypal, #mercury]
+tags: [tarot, major-arcana, archetypal, mercury]
 system: Tarot
 date_created: 2026-01-08
 number: 1
@@ -7,8 +7,6 @@ hebrew_letter: Beth (ב)
 qabalistic_path: 12 (Kether → Binah)
 astrological: Mercury
 ---
-
-# The Magician
 *The Magus of Power*
 
 ---

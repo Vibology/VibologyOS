@@ -8,8 +8,6 @@ qabalistic_world: Atziluth (Pure Spirit)
 sephirah: Kether
 title: Root of the Powers of Fire
 ---
-
-# Ace of Wands
 *The Root of the Powers of Fire*
 
 ---

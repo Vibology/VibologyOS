@@ -1,5 +1,5 @@
 ---
-tags: [#tarot, #major-arcana, #archetypal, #scorpio, #fixed-water]
+tags: [tarot, major-arcana, archetypal, scorpio, fixed-water]
 system: Tarot
 date_created: 2026-01-08
 number: 13
@@ -7,8 +7,6 @@ hebrew_letter: Nun (נ)
 qabalistic_path: 24 (Netzach → Tiphareth)
 astrological: Scorpio
 ---
-
-# Death
 *The Child of the Great Transformers / The Lord of the Gate of Death*
 
 ---

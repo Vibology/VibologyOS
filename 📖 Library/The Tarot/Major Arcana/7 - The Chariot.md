@@ -1,5 +1,5 @@
 ---
-tags: [#tarot, #major-arcana, #archetypal, #cancer]
+tags: [tarot, major-arcana, archetypal, cancer]
 system: Tarot
 date_created: 2026-01-08
 number: 7
@@ -7,8 +7,6 @@ hebrew_letter: Cheth (ח)
 qabalistic_path: 18 (Binah → Geburah)
 astrological: Cancer / Moon
 ---
-
-# The Chariot
 *The Lord of the Triumph of Light*
 
 ---

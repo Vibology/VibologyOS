@@ -10,8 +10,6 @@ planetary: Sun in Aries
 decan: Aries 10°-20° (2nd Decan)
 title: Lord of Established Strength
 ---
-
-# Three of Wands
 *The Lord of Established Strength*
 
 ---

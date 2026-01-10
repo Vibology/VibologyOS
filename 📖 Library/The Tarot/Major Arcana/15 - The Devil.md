@@ -1,5 +1,5 @@
 ---
-tags: [#tarot, #major-arcana, #archetypal, #capricorn, #cardinal-earth]
+tags: [tarot, major-arcana, archetypal, capricorn, cardinal-earth]
 system: Tarot
 date_created: 2026-01-08
 number: 15
@@ -7,8 +7,6 @@ hebrew_letter: Ayin (ע)
 qabalistic_path: 26 (Tiphareth → Hod)
 astrological: Capricorn
 ---
-
-# The Devil
 *The Lord of the Gates of Matter / The Child of the Forces of Time*
 
 ---

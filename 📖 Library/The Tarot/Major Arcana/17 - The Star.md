@@ -1,5 +1,5 @@
 ---
-tags: [#tarot, #major-arcana, #archetypal, #aquarius, #fixed-air]
+tags: [tarot, major-arcana, archetypal, aquarius, fixed-air]
 system: Tarot
 date_created: 2026-01-08
 number: 17
@@ -7,8 +7,6 @@ hebrew_letter: Tzaddi (צ)
 qabalistic_path: 28 (Netzach → Yesod)
 astrological: Aquarius
 ---
-
-# The Star
 *The Daughter of the Firmament / The Dweller Between the Waters*
 
 ---

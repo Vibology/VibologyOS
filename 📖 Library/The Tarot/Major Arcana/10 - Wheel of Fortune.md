@@ -1,5 +1,5 @@
 ---
-tags: [#tarot, #major-arcana, #archetypal, #jupiter]
+tags: [tarot, major-arcana, archetypal, jupiter]
 system: Tarot
 date_created: 2026-01-08
 number: 10
@@ -7,8 +7,6 @@ hebrew_letter: Caph (כ)
 qabalistic_path: 21 (Chesed → Netzach)
 astrological: Jupiter
 ---
-
-# Wheel of Fortune
 *The Lord of the Forces of Life*
 
 ---

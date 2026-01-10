@@ -8,8 +8,6 @@ element_primary: Earth
 element_secondary: Fire
 title: Princess of the Shining Flame, Rose of the Palace of Fire
 ---
-
-# Page of Wands
 *Princess of the Shining Flame, Rose of the Palace of Fire*
 
 ---

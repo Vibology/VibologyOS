@@ -1,5 +1,5 @@
 ---
-tags: [#tarot, #major-arcana, #archetypal, #mars]
+tags: [tarot, major-arcana, archetypal, mars]
 system: Tarot
 date_created: 2026-01-08
 number: 16
@@ -7,8 +7,6 @@ hebrew_letter: Peh (פ)
 qabalistic_path: 27 (Netzach → Hod)
 astrological: Mars
 ---
-
-# The Tower
 *The Lord of the Hosts of the Mighty / The House of God*
 
 ---

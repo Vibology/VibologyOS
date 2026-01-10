@@ -1,5 +1,5 @@
 ---
-tags: [#tarot, #major-arcana, #archetypal, #fire, #pluto]
+tags: [tarot, major-arcana, archetypal, fire, pluto]
 system: Tarot
 date_created: 2026-01-08
 number: 20
@@ -7,8 +7,6 @@ hebrew_letter: Shin (ש)
 qabalistic_path: 31 (Malkuth → Hod)
 astrological: Fire / Pluto
 ---
-
-# Judgement
 *The Spirit of the Primal Fire*
 
 ---

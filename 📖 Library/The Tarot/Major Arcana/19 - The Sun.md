@@ -1,5 +1,5 @@
 ---
-tags: [#tarot, #major-arcana, #archetypal, #sun, #solar]
+tags: [tarot, major-arcana, archetypal, sun, solar]
 system: Tarot
 date_created: 2026-01-08
 number: 19
@@ -7,8 +7,6 @@ hebrew_letter: Resh (ר)
 qabalistic_path: 30 (Hod → Yesod)
 astrological: Sun
 ---
-
-# The Sun
 *The Lord of the Fire of the World*
 
 ---

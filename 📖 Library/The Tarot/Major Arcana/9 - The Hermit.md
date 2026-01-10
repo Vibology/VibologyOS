@@ -1,5 +1,5 @@
 ---
-tags: [#tarot, #major-arcana, #archetypal, #virgo]
+tags: [tarot, major-arcana, archetypal, virgo]
 system: Tarot
 date_created: 2026-01-08
 number: 9
@@ -7,8 +7,6 @@ hebrew_letter: Yod (י)
 qabalistic_path: 20 (Chesed → Tiphareth)
 astrological: Virgo
 ---
-
-# The Hermit
 *The Prophet of the Eternal, Magus of the Voice of Power*
 
 ---

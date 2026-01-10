@@ -1,5 +1,5 @@
 ---
-tags: [#tarot, #major-arcana, #archetypal, #saturn, #earth]
+tags: [tarot, major-arcana, archetypal, saturn, earth]
 system: Tarot
 date_created: 2026-01-08
 number: 21
@@ -7,8 +7,6 @@ hebrew_letter: Tau (ת)
 qabalistic_path: 32 (Yesod → Malkuth)
 astrological: Saturn
 ---
-
-# The World
 *The Great One of the Night of Time*
 
 ---
