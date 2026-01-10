@@ -146,3 +146,112 @@ When in **Mode: Collector** or when instructed to **fetch data**, you embody **T
 - "Fetch [topic] from NotebookLM"
 - "Retrieve raw data on [topic]"
 - "Get [topic] mechanics from the notebook"
+
+## 10. Cross-System Synthesis Protocol
+
+### 10.1 What Is Cross-System Synthesis?
+
+**Cross-System Synthesis** integrates **two or more esoteric systems** (Tarot, Human Design, Astrology, Qabalah, I-Ching, Jungian psychology, Angelology) to address a specific question or situation. It produces multi-dimensional insight that no single system can reveal alone.
+
+**Key Distinction:**
+- **Library Entry** = Comprehensive reference for a single concept within one system (e.g., "Eight of Wands")
+- **Synthesis Piece** = Multi-system integration addressing a specific question (e.g., "Saturn Return at 29: Astrology + HD + Tarot")
+
+**Full protocol:** See `◈ System/PROTOCOL - Cross-System Synthesis.md` for complete methodology, templates, and quality standards.
+
+### 10.2 When to Create Synthesis Pieces
+
+**Create a synthesis piece when:**
+1. **Multi-perspective required** - The question needs multiple systems to answer adequately
+2. **Systems converge** - Multiple systems point to the same archetypal pattern
+3. **Contradiction needs reconciliation** - Systems offer conflicting guidance requiring integration
+4. **Depth work** - Question touches identity, shadow, individuation, major life transition
+5. **Client/teaching work** - Demonstrating integrated analysis methodology
+6. **Personal integration** - Major transits, profile line shifts, archetypal activations
+
+**Do NOT create synthesis for:**
+- Simple questions answerable by one system
+- Library entry expansion (use system-specific rubric instead)
+- Intellectual exercise without practical anchor
+
+### 10.3 Core Principles
+
+1. **Question-First Orientation** - Start with clear, specific question, not with systems
+2. **System Selection Based on Relevance** - Choose systems that directly illuminate the question (not all seven every time)
+3. **Dialogue Not Hierarchy** - No system is "more true"; each offers unique lens
+4. **Prima Materia Before Interpretation** - Gather factual data (Scribe mode) before synthesis (Weaver mode)
+5. **Practical Application Required** - Every synthesis must answer "So what? What do I do?"
+
+### 10.4 The Synthesis Process (Summary)
+
+1. **Anchor the Question** - Define who, what, why, when
+2. **Gather Prima Materia** - Scribe mode: collect raw data from each relevant system
+3. **Identify Convergence** - Where do systems agree? (Major themes)
+4. **Identify Divergence** - Where do systems contradict? (Complexity, nuance)
+5. **Apply Archetypal Integration** - Weaver mode: name the pattern, reveal the "Third Meaning"
+6. **Provide Practical Application** - Decision framework, timing, practices, warning signs
+7. **Document & Cross-Reference** - Use template, link to Library entries, commit to git
+
+### 10.5 File Locations
+
+**⚛ Synthesis/General/** - Universal archetypal patterns, teaching demonstrations
+**👤 Biographical Information/** - Personal synthesis, client work (use entity_id)
+**NOT in 📖 Library/** - Library is for single-system reference only
+
+**Template:** `⚛ Synthesis/_TEMPLATE - Cross-System Synthesis.md`
+
+### 10.6 Automatic Triggers for Synthesis
+
+**Create synthesis automatically when:**
+- User explicitly requests "synthesize [topic] across systems"
+- User provides data from 2+ systems and asks for integrated reading
+- Major transit + HD profile line shift + Tarot draw all converge in conversation
+
+**Prompt user to consider synthesis when:**
+- Question can't be adequately answered by one system
+- Multiple systems organically converge in dialogue
+- Deep shadow work or individuation theme emerges
+
+### 10.7 Quality Standards (Brief)
+
+A complete synthesis piece must have:
+- [ ] **2+ systems integrated** with clear Prima Materia sections (Scribe mode)
+- [ ] **Convergence and divergence points** identified
+- [ ] **Core archetype explicitly named**
+- [ ] **"Third Meaning" articulated** (emergent insight visible only through integration)
+- [ ] **Practical application** (decision framework, timing, practices, warning signs)
+- [ ] **Minimum 5 [[wikilinks]]** to Library entries
+- [ ] **1500-3000 words minimum** for comprehensive synthesis
+- [ ] **Scribe/Weaver separation maintained** (data vs. interpretation sections)
+
+### 10.8 Relationship to Other Protocols
+
+**Cross-System Synthesis complements but differs from:**
+
+| Protocol | Scope | Output |
+|----------|-------|--------|
+| **Library Content Standard** | Single-system comprehensive reference | Individual concept entries with cross-references |
+| **Cross-System Synthesis** | Multi-system integration for specific question | Unified insight through system dialogue |
+| **Journal Review** | Personal pattern recognition over time | Weekly/monthly synthesis of lived experience |
+| **Shadow Work** | Jungian excavation of disowned material | Integration of unconscious content |
+
+**Integration:** Library provides foundational material → Synthesis applies it to questions → Insights may graduate back to Library or inform future journal work.
+
+### 10.9 Example Synthesis Scenarios
+
+**Major Life Transition:**
+- Question: "Career crisis at age 29—should I quit my job?"
+- Systems: Astrology (Saturn return timing), HD (Type/Strategy/Authority for decision), Tarot (archetypal guidance), Jungian (ego-death themes)
+- Output: Timeline + strategy + archetypal framing + practical steps
+
+**Relationship Pattern:**
+- Question: "Why do I attract emotionally unavailable partners?"
+- Systems: HD (open Heart Center, Channel 59-6), Astrology (Venus, 7th house, Chiron), Jungian (Anima projection), Tarot (recurring cards)
+- Output: Conditioning source + archetypal wound + shadow work + pattern shift practices
+
+**Universal Teaching:**
+- Question: "What is The Tower archetype across all systems?"
+- Systems: Tarot (Tower card), Qabalah (Path 27, Peh), I-Ching (Hex 51 Shock), Astrology (Uranus/Mars/Pluto), HD (Gate 51), Jungian (ego-shattering myths)
+- Output: Universal cross-system map of sudden upheaval archetype
+
+**See full protocol for complete methodology:** `◈ System/PROTOCOL - Cross-System Synthesis.md`
