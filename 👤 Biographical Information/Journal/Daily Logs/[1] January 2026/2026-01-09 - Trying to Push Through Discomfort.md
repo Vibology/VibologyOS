@@ -1,6 +1,6 @@
 ---
 date: 2026-01-09
-entity_id: JW
+entity_id: MJL
 tags: [#daily-log, #observation]
 ---
 

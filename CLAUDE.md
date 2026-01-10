@@ -86,6 +86,9 @@ Do not dump raw data into the vault. Every entry must be earned through transmut
   - entity_id: [Unique ID or Initials]
   - date_created: YYYY-MM-DD
 - **Privacy:** Use `entity_id` for client work; never use full names in tags or file titles.
+- **Entity ID Reference:**
+  - **User (Joe Lewis):** MJL
+  - **Clients:** Use initials (e.g., SW for Szilvia Williams)
 
 ## 6. Maintenance & Git Protocol
 - **Git Commits:** After writing synthesis files, commit to git with meaningful messages (what + why). Git log serves as the authoritative session history.

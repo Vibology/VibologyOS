@@ -1,7 +1,7 @@
 ---
 tags: [#esoteric, #synthesis, #archetypal, #astrology, #transits]
 system: [Astrology, Human Design]
-entity_id: JL
+entity_id: MJL
 date_created: 2026-01-08
 date_range: 2026-01-01 to 2026-02-28
 transit_focus: Aquarius Stellium, 1st House Activation, Saturn-Neptune Conjunction
