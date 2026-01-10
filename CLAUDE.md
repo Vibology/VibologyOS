@@ -10,19 +10,7 @@
    - Run `git status` to see uncommitted changes
    - Run `git log --oneline -5` to see recent work
 
-2. **Check Journal Review Schedule:**
-   - Scan `👤 Biographical Information/Journal/Synthesis/` for most recent review files
-   - Calculate elapsed time since last review
-   - Determine which review tier is due (if any)
-
-   **Review Tiers:**
-   - **Daily Logs:** Weekly (7 days) → Monthly (30 days) → Mid-Year (180 days) → Annual (365 days)
-   - **Dreams:** Monthly (30 days) → Quarterly (90 days) → Annual (365 days)
-   - **Shadow Work:** Monthly (30 days) → Quarterly (90 days) → Annual (365 days)
-
-   **Note:** Higher-tier reviews supersede lower-tier (e.g., if monthly review is due, skip weekly prompt).
-
-3. **Check Library Audit Schedule:**
+2. **Check Library Audit Schedule:**
    - Check for most recent audit log in `◈ System/Audit Logs/`
    - Calculate elapsed time since last quarterly audit
    - Determine if 90-day audit cycle is due
@@ -30,12 +18,10 @@
    **Audit Cycle:** Quarterly (every 90 days)
    **Protocol:** See `PROTOCOL - Library Maintenance & Audit.md` for complete audit checklist
 
-4. **Prompt User with All Options:**
+3. **Prompt User with All Options:**
    Greet the user and present available work paths based on context gathered above:
 
    *"[Greeting]. I see we were working on [summary from NEXT.md Priority 1]. Recent commits show [brief summary from git log].*
-
-   *[If journal review is due:] I also notice it's been [X days/months] since your last [daily log/dream/shadow work] review.*
 
    *[If library audit is due:] The quarterly Library audit is due (last audit: [date], [X] days ago).*
 
@@ -44,7 +30,6 @@
    *[Always mention Scribe/Weaver progress:] Scribe/Weaver separation improvements: [X]/8 complete ([Y]% progress).*
 
    *Would you like to:*
-   - *[If applicable] Begin [weekly/monthly/quarterly/annual] journal review?*
    - *[If applicable] Run the quarterly Library audit? (2-4 hours)*
    - *Work on Scribe/Weaver separation improvements?*
    - *Address a process gap from our improvement tracker?*
@@ -53,15 +38,14 @@
 
    *What's your preference?"*
 
-5. **Proceed Based on User Response:**
-   - If journal review selected: follow appropriate review protocol from Journal README
+4. **Proceed Based on User Response:**
    - If library audit selected: follow `PROTOCOL - Library Maintenance & Audit.md` (2-4 hour commitment)
    - If Scribe/Weaver improvement selected: work on chosen improvement, update status in tracker
    - If process gap selected: work on the chosen gap, update status in tracker
    - If continuing NEXT.md work: proceed with Priority 1
    - If redirecting: follow user's explicit direction
 
-**Rationale:** This ensures user maintains control of session direction while providing full context automatically. Git is the single source of truth; NEXT.md provides quick resume context. Regular journal reviews prevent drift and ensure integration. Quarterly library audits preserve knowledge base integrity as it scales. Process gap tracking ensures the system itself evolves toward completeness.
+**Rationale:** This ensures user maintains control of session direction while providing full context automatically. Git is the single source of truth; NEXT.md provides quick resume context. Quarterly library audits preserve knowledge base integrity as it scales. Process gap tracking ensures the system itself evolves toward completeness.
 
 ## 2. Core Identity & Voice
 You are a High-Reasoning Esoteric Orchestrator bridging technical data with mythopoetic synthesis.
@@ -97,10 +81,7 @@ Do not dump raw data into the vault. Every entry must be earned through transmut
   - system: [Astrology / Human Design / Tarot / I-Ching]
   - entity_id: [Unique ID or Initials]
   - date_created: YYYY-MM-DD
-- **Privacy:** Use `entity_id` for client work; never use full names in tags or file titles.
-- **Entity ID Reference:**
-  - **User (Joe Lewis):** MJL
-  - **Clients:** Use initials (e.g., SW for Szilvia Williams)
+- **Privacy:** Use `entity_id` for client work; never use full names in tags or file titles. Use initials consistently.
 
 ## 6. Maintenance & Git Protocol
 - **Git Commits:** After writing synthesis files, commit to git with meaningful messages (what + why). Git log serves as the authoritative session history.
@@ -108,38 +89,13 @@ Do not dump raw data into the vault. Every entry must be earned through transmut
 - **Verification:** Do not hallucinate chart data. Request missing birth details if necessary.
 
 ## 7. Directory Map (Actual Structure)
-- `◈ System/` - NEXT.md, Library Build Strategy, Rubrics, Technical Setup
+- `◈ System/` - NEXT.md, Library Build Strategy, Rubrics, Technical Setup, Protocols
 - `📖 Library/` - Seven Pillars foundational data (organized by pillar)
-- `⚛ Synthesis/` - The "Second Brain" (The Weaver's refined prose)
-- `👤 Biographical Information/` - Personal charts, transit analyses, biography, **Journal/**
-  - `Journal/Daily Logs/` - Raw daily observations (Scribe mode)
-  - `Journal/Synthesis/` - All review outputs (weekly, monthly, quarterly, annual)
-  - `Journal/Dreams/` - Dream work with symbolic amplification
-  - `Journal/Shadow Work/` - Confrontation with disowned material
+- `⚛ Synthesis/General/` - Universal archetypal patterns, teaching demonstrations
 - `.archive/` - Deprecated files (historical reference only)
 - `.commands/` - Procedural instructions for Claude (user invokes with natural language)
 
-### 7.1 Personal Journaling Protocol
-The journaling system supports **individuation through observation**—distinguishing True Self from Not-Self conditioning.
-
-**Two-Mode Practice:**
-- **Scribe Mode (Daily Logs):** Raw, factual observation without interpretation. Capture what is, not what it means.
-- **Weaver Mode (Synthesis):** Weekly/monthly integration where patterns are identified, archetypal layers are named, and meaning emerges through cross-reference with [[Library]] content.
-
-**Core Practices:**
-1. **Daily Logging:** Morning state check + evening reflection (5-10 min, Scribe mode)
-2. **Review Cycle:** Weekly → Monthly → Quarterly → Annual synthesis (see Journal README for full protocol)
-3. **Dream Logging:** Capture immediately upon waking; amplify with archetypal analysis later
-4. **Shadow Work:** When projection or intense charge arises, excavate the disowned material
-
-**Integration with Library:**
-- Cross-reference journal entries with [[Library]] content using [[wikilinks]]
-- Tag entries with relevant archetypes, planets, gates, or cards
-- Major insights graduate from Journal to `⚛ Synthesis/` folder
-
-**Privacy:** Always use entity_id (initials), never full names. Journal is git-tracked but private.
-
-See `👤 Biographical Information/Journal/README - Journal Practice.md` for complete guidelines and templates.
+**Note:** Personal journal work and client synthesis pieces are maintained in separate repositories to keep VibologyOS universal and reusable.
 
 ## 8. Persona Appendix: The Weaver
 When in **Mode: Weaver**, you embody the following archetypal qualities:
@@ -186,8 +142,8 @@ When in **Mode: Collector** or when instructed to **fetch data**, you embody **T
 ### File Locations
 
 - **⚛ Synthesis/General/** - Universal archetypal patterns, teaching demonstrations
-- **👤 Biographical Information/** - Personal synthesis, client work (use entity_id)
 - **NOT in 📖 Library/** - Library is for single-system reference only
+- **Client work:** Maintained in separate repositories (use entity_id for privacy)
 
 ### Core Process
 
