@@ -164,276 +164,89 @@ When in **Mode: Collector** or when instructed to **fetch data**, you embody **T
 
 ## 10. Cross-System Synthesis Protocol
 
-### 10.1 What Is Cross-System Synthesis?
-
-**Cross-System Synthesis** integrates **two or more esoteric systems** (Tarot, Human Design, Astrology, Qabalah, I-Ching, Jungian psychology, Angelology) to address a specific question or situation. It produces multi-dimensional insight that no single system can reveal alone.
+**Cross-System Synthesis** integrates **two or more esoteric systems** (Tarot, Human Design, Astrology, Qabalah, I-Ching, Jungian psychology, Angelology) to address a specific question. It produces multi-dimensional insight that no single system can reveal alone.
 
 **Key Distinction:**
-- **Library Entry** = Comprehensive reference for a single concept within one system (e.g., "Eight of Wands")
-- **Synthesis Piece** = Multi-system integration addressing a specific question (e.g., "Saturn Return at 29: Astrology + HD + Tarot")
+- **Library Entry** = Single-system reference (e.g., "Eight of Wands")
+- **Synthesis Piece** = Multi-system integration for specific question (e.g., "Saturn Return at 29: Astrology + HD + Tarot")
 
-**Full protocol:** See `◈ System/PROTOCOL - Cross-System Synthesis.md` for complete methodology, templates, and quality standards.
+### When to Create Synthesis Pieces
 
-### 10.2 When to Create Synthesis Pieces
-
-**Create a synthesis piece when:**
-1. **Multi-perspective required** - The question needs multiple systems to answer adequately
-2. **Systems converge** - Multiple systems point to the same archetypal pattern
-3. **Contradiction needs reconciliation** - Systems offer conflicting guidance requiring integration
-4. **Depth work** - Question touches identity, shadow, individuation, major life transition
-5. **Client/teaching work** - Demonstrating integrated analysis methodology
-6. **Personal integration** - Major transits, profile line shifts, archetypal activations
+**Create synthesis automatically when:**
+- User explicitly requests "synthesize [topic] across systems"
+- User provides data from 2+ systems and asks for integrated reading
+- Multiple systems organically converge in dialogue around specific question
+- Deep shadow work, individuation, or major life transition theme emerges
 
 **Do NOT create synthesis for:**
 - Simple questions answerable by one system
 - Library entry expansion (use system-specific rubric instead)
 - Intellectual exercise without practical anchor
 
-### 10.3 Core Principles
+### File Locations
 
-1. **Question-First Orientation** - Start with clear, specific question, not with systems
-2. **System Selection Based on Relevance** - Choose systems that directly illuminate the question (not all seven every time)
-3. **Dialogue Not Hierarchy** - No system is "more true"; each offers unique lens
-4. **Prima Materia Before Interpretation** - Gather factual data (Scribe mode) before synthesis (Weaver mode)
-5. **Practical Application Required** - Every synthesis must answer "So what? What do I do?"
+- **⚛ Synthesis/General/** - Universal archetypal patterns, teaching demonstrations
+- **👤 Biographical Information/** - Personal synthesis, client work (use entity_id)
+- **NOT in 📖 Library/** - Library is for single-system reference only
 
-### 10.4 The Synthesis Process (Summary)
+### Core Process
 
-1. **Anchor the Question** - Define who, what, why, when
-2. **Gather Prima Materia** - Scribe mode: collect raw data from each relevant system
-3. **Identify Convergence** - Where do systems agree? (Major themes)
-4. **Identify Divergence** - Where do systems contradict? (Complexity, nuance)
-5. **Apply Archetypal Integration** - Weaver mode: name the pattern, reveal the "Third Meaning"
-6. **Provide Practical Application** - Decision framework, timing, practices, warning signs
-7. **Document & Cross-Reference** - Use template, link to Library entries, commit to git
-
-### 10.5 File Locations
-
-**⚛ Synthesis/General/** - Universal archetypal patterns, teaching demonstrations
-**👤 Biographical Information/** - Personal synthesis, client work (use entity_id)
-**NOT in 📖 Library/** - Library is for single-system reference only
+1. Scribe mode: Gather Prima Materia from each system
+2. Weaver mode: Identify convergence/divergence, name archetype, reveal "Third Meaning"
+3. Practical application: Decision framework, timing, practices, warning signs
+4. Document with template, link to Library entries, commit to git
 
 **Template:** `⚛ Synthesis/_TEMPLATE - Cross-System Synthesis.md`
-
-### 10.6 Automatic Triggers for Synthesis
-
-**Create synthesis automatically when:**
-- User explicitly requests "synthesize [topic] across systems"
-- User provides data from 2+ systems and asks for integrated reading
-- Major transit + HD profile line shift + Tarot draw all converge in conversation
-
-**Prompt user to consider synthesis when:**
-- Question can't be adequately answered by one system
-- Multiple systems organically converge in dialogue
-- Deep shadow work or individuation theme emerges
-
-### 10.7 Quality Standards (Brief)
-
-A complete synthesis piece must have:
-- [ ] **2+ systems integrated** with clear Prima Materia sections (Scribe mode)
-- [ ] **Convergence and divergence points** identified
-- [ ] **Core archetype explicitly named**
-- [ ] **"Third Meaning" articulated** (emergent insight visible only through integration)
-- [ ] **Practical application** (decision framework, timing, practices, warning signs)
-- [ ] **Minimum 5 [[wikilinks]]** to Library entries
-- [ ] **1500-3000 words minimum** for comprehensive synthesis
-- [ ] **Scribe/Weaver separation maintained** (data vs. interpretation sections)
-
-### 10.8 Relationship to Other Protocols
-
-**Cross-System Synthesis complements but differs from:**
-
-| Protocol | Scope | Output |
-|----------|-------|--------|
-| **Library Content Standard** | Single-system comprehensive reference | Individual concept entries with cross-references |
-| **Cross-System Synthesis** | Multi-system integration for specific question | Unified insight through system dialogue |
-| **Journal Review** | Personal pattern recognition over time | Weekly/monthly synthesis of lived experience |
-| **Shadow Work** | Jungian excavation of disowned material | Integration of unconscious content |
-
-**Integration:** Library provides foundational material → Synthesis applies it to questions → Insights may graduate back to Library or inform future journal work.
-
-### 10.9 Example Synthesis Scenarios
-
-**Major Life Transition:**
-- Question: "Career crisis at age 29—should I quit my job?"
-- Systems: Astrology (Saturn return timing), HD (Type/Strategy/Authority for decision), Tarot (archetypal guidance), Jungian (ego-death themes)
-- Output: Timeline + strategy + archetypal framing + practical steps
-
-**Relationship Pattern:**
-- Question: "Why do I attract emotionally unavailable partners?"
-- Systems: HD (open Heart Center, Channel 59-6), Astrology (Venus, 7th house, Chiron), Jungian (Anima projection), Tarot (recurring cards)
-- Output: Conditioning source + archetypal wound + shadow work + pattern shift practices
-
-**Universal Teaching:**
-- Question: "What is The Tower archetype across all systems?"
-- Systems: Tarot (Tower card), Qabalah (Path 27, Peh), I-Ching (Hex 51 Shock), Astrology (Uranus/Mars/Pluto), HD (Gate 51), Jungian (ego-shattering myths)
-- Output: Universal cross-system map of sudden upheaval archetype
-
-**See full protocol for complete methodology:** `◈ System/PROTOCOL - Cross-System Synthesis.md`
+**Full protocol:** `◈ System/PROTOCOL - Cross-System Synthesis.md` (complete methodology, quality standards, examples)
 
 ## 11. Search & Navigation Protocol
 
-### 11.1 Library Scale & Organization
+**Library size:** 159 files across 7 pillars (expanding toward 500+)
+**Cross-reference density:** 97% of files contain [[wikilinks]]
+**Structure:** `📖 Library/{System}/{Category}/{Entry}.md`
 
-**Current Size:** 159 files across 7 pillars (expanding toward 500+)
-**Cross-Reference Density:** 97% of files contain [[wikilinks]]
-**Systems:** Tarot (79 files), Astrology (~30), Human Design (~15), Qabalah/Window, Folklore/Jungian, Angelology, Core Foundations
+### Tag Taxonomy (Required for All Files)
 
-**Directory structure is hierarchical by system:**
-```
-📖 Library/{System}/{Category}/{Entry}.md
-```
-
-**Full protocol:** See `◈ System/PROTOCOL - Search and Navigation.md` for complete search methodology, tag taxonomy, and index system.
-
-### 11.2 Tag Taxonomy (Standardized Conventions)
-
-**Format:** Use hashtags for all tags in YAML frontmatter
-
+**Format:** Use hashtags in YAML frontmatter
 ```yaml
 tags: [#system, #category, #specific-descriptor, #archetypal-theme]
 ```
 
-**Examples:**
-- `tags: [#tarot, #major-arcana, #fire, #transformation]`
-- `tags: [#astrology, #planets, #saturnian, #authority]`
-- `tags: [#human-design, #type, #generator, #sacral]`
-
 **Tag Hierarchy:**
 1. **System tag** (required): `#tarot`, `#astrology`, `#human-design`, `#qabalah`, `#jungian`, `#angelology`, `#synthesis`, `#system`
 2. **Category tag** (required): `#major-arcana`, `#planets`, `#type`, `#centers`, `#gates`, etc.
-3. **Specific descriptors** (optional): `#fire`, `#saturnian`, `#kether`, `#shadow`, `#initiation`
-4. **Archetypal themes** (optional): `#transformation`, `#authority`, `#death-rebirth`, `#integration`
+3. **Specific descriptors** (optional): `#fire`, `#saturnian`, `#shadow`, `#initiation`
+4. **Archetypal themes** (optional): `#transformation`, `#authority`, `#death-rebirth`
 
-**Tag rules:**
+**Tag Rules:**
 - Lowercase only: `#tarot` not `#Tarot`
 - Hyphens for multi-word: `#major-arcana` not `#MajorArcana`
-- Singular form: `#planet` not `#planets` (except when referring to category)
+- Singular form: `#planet` not `#planets` (except category tags)
 
-### 11.3 Search Protocols for Claude
+### Search Priority Order
 
-**Priority order when searching:**
-1. **Index files** (fastest)—`📖 Library/{System}/INDEX - {System} Master List.md`
-2. **Grep by tag** (precise)—`grep -l "#tag-name" "📖 Library" -r`
-3. **Grep by wikilink** (finds cross-references)—`grep -l "\[\[Concept\]\]" "📖 Library" -r`
-4. **Grep by content** (broadest)—`grep -l "search term" "📖 Library" -r`
-5. **Fallback to NotebookLM** (if local search fails)
+1. **Index files** (fastest) - `📖 Library/{System}/INDEX - {System} Master List.md`
+2. **Grep by tag** (precise) - `grep -l "#tag-name" "📖 Library" -r`
+3. **Grep by wikilink** (cross-references) - `grep -l "\[\[Concept\]\]" "📖 Library" -r`
+4. **Grep by content** (broadest) - `grep -l "search term" "📖 Library" -r`
+5. **NotebookLM** (if local search fails)
 
-**Common search patterns:**
+### Index Files (Master Lists)
 
-**Find file by name:**
-```bash
-find "📖 Library" -name "*keyword*"
-```
+**Existing:**
+- `📖 Library/The Tarot/INDEX - Tarot Master List.md` (all 78 cards tracked)
 
-**Find files by tag:**
-```bash
-grep -l "#tag-name" "📖 Library" -r --include="*.md"
-```
+**Planned:**
+- Astrology, Human Design, Window, Folklore/Jungian, Angelology
 
-**Find files by wikilink (backlinks):**
-```bash
-grep -l "\[\[Concept\]\]" "📖 Library" -r --include="*.md"
-```
+**Status Markers:** ✅ Complete (Tier 3), 🟡 Partial (Tier 1-2), ⚪ Planned
 
-**Find cross-system connections:**
-```bash
-# Example: Find all Tarot entries referencing Saturn
-grep -l "\[\[Saturn\]\]" "📖 Library/The Tarot" -r --include="*.md"
-```
+**Maintenance:** Update index when creating new entries (same commit). Review during quarterly Library audits.
 
-**Find stub entries needing expansion:**
-```bash
-# Files marked TBD or <2KB file size
-grep -l "TBD" "📖 Library" -r
-find "📖 Library" -type f -name "*.md" -size -2k
-```
+### Required Sections
 
-### 11.4 Index Files (Master Lists)
+**Every Library entry must include:**
+- YAML frontmatter with tags (per taxonomy above)
+- "Internal Links" section with cross-references (3+ [[wikilinks]] minimum)
 
-**One index per major pillar:**
-- `📖 Library/Astrology/INDEX - Astrology Master List.md`
-- `📖 Library/Human Design/INDEX - Human Design Master List.md`
-- `📖 Library/The Tarot/INDEX - Tarot Master List.md` ⭐ (exists, example)
-- `📖 Library/The Window/INDEX - The Window Master List.md`
-- `📖 Library/Folklore/INDEX - Folklore & Jungian Master List.md`
-- `📖 Library/Angelology/INDEX - Angelology Master List.md`
-
-**Index files provide:**
-- At-a-glance navigation (all entries in one place)
-- Status indicators: ✅ Complete (Tier 3), 🟡 Partial (Tier 1-2), ⚪ Planned (not yet created)
-- Completion statistics per category
-- Direct [[wikilinks]] to all entries
-- Cross-system reference notes
-
-**Maintenance:**
-- Update index when creating new Library entries (same commit or immediately after)
-- Review during quarterly Library Maintenance Cycles (once protocol exists)
-
-### 11.5 Cross-Reference System
-
-**Wikilink density: 97% of Library files contain [[wikilinks]]—excellent cross-reference foundation!**
-
-**Every Library entry must include "Internal Links" section:**
-```markdown
-## Internal Links
-
-**Cross-System References:**
-- [[Entry from other system]] - Brief note on connection
-- [[Another entry]] - Why it's relevant
-
-**Within-System References:**
-- [[Related entry in same system]] - Relationship
-
-**Synthesis Pieces Referencing This Entry:**
-- [[Synthesis piece]] - How it uses this entry
-```
-
-**Find backlinks (what references this entry):**
-```bash
-grep -r "\[\[Entry Name\]\]" "📖 Library" --include="*.md"
-```
-
-### 11.6 When Claude Needs to Find Content
-
-**User asks about a concept Claude hasn't seen recently:**
-
-1. **Check if file exists:** `find "📖 Library" -name "*keyword*"`
-2. **If found, read it:** Use Read tool
-3. **If not found, search broader:** `grep -r "keyword" "📖 Library"`
-4. **If still not found:** Notify user, offer to fetch from NotebookLM or create stub
-
-**User asks for cross-system synthesis:**
-
-1. **Find relevant entries** from each system (use Index or grep)
-2. **Read all relevant entries**
-3. **Check Internal Links sections** to see if they already cross-reference each other
-4. **Proceed with synthesis** using Cross-System Synthesis Protocol
-
-**User asks "What do we have on [topic]?":**
-
-1. **Search by tag:** `grep -l "#tag" "📖 Library" -r`
-2. **Search by wikilink:** `grep -l "\[\[Topic\]\]" "📖 Library" -r`
-3. **Search by content:** `grep -l "topic" "📖 Library" -r`
-4. **Report findings** with file paths
-5. **Offer to read specific entries** if user wants details
-
-**Best practice:**
-- Use multiple search methods in parallel when unsure
-- Report what was searched and what was found/not found
-- Prioritize Index files when they exist (fastest, most accurate)
-
-### 11.7 Maintenance Tasks
-
-**When creating new Library entries (always):**
-- Apply correct tag taxonomy per Section 11.2
-- Include Internal Links section with cross-references
-- Update relevant Index file to include new entry
-- Git commit includes both entry and updated Index
-
-**Tag migration (gradual):**
-- Current inconsistency: Tarot lacks hashtags, others have them
-- Fix tags when files are touched for content updates (no bulk tag-only commits)
-- Eventually all files will use standardized hashtag taxonomy
-
-**See full protocol for:** Tag format rules, tag evolution process, index scalability, cross-reference mapping details, and complete search command reference.
+**Full protocol:** `◈ System/PROTOCOL - Search and Navigation.md` (complete search patterns, tag evolution, cross-reference mapping)
