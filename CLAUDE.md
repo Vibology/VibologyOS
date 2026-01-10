@@ -255,3 +255,170 @@ A complete synthesis piece must have:
 - Output: Universal cross-system map of sudden upheaval archetype
 
 **See full protocol for complete methodology:** `◈ System/PROTOCOL - Cross-System Synthesis.md`
+
+## 11. Search & Navigation Protocol
+
+### 11.1 Library Scale & Organization
+
+**Current Size:** 159 files across 7 pillars (expanding toward 500+)
+**Cross-Reference Density:** 97% of files contain [[wikilinks]]
+**Systems:** Tarot (79 files), Astrology (~30), Human Design (~15), Qabalah/Window, Folklore/Jungian, Angelology, Core Foundations
+
+**Directory structure is hierarchical by system:**
+```
+📖 Library/{System}/{Category}/{Entry}.md
+```
+
+**Full protocol:** See `◈ System/PROTOCOL - Search and Navigation.md` for complete search methodology, tag taxonomy, and index system.
+
+### 11.2 Tag Taxonomy (Standardized Conventions)
+
+**Format:** Use hashtags for all tags in YAML frontmatter
+
+```yaml
+tags: [#system, #category, #specific-descriptor, #archetypal-theme]
+```
+
+**Examples:**
+- `tags: [#tarot, #major-arcana, #fire, #transformation]`
+- `tags: [#astrology, #planets, #saturnian, #authority]`
+- `tags: [#human-design, #type, #generator, #sacral]`
+
+**Tag Hierarchy:**
+1. **System tag** (required): `#tarot`, `#astrology`, `#human-design`, `#qabalah`, `#jungian`, `#angelology`, `#synthesis`, `#system`
+2. **Category tag** (required): `#major-arcana`, `#planets`, `#type`, `#centers`, `#gates`, etc.
+3. **Specific descriptors** (optional): `#fire`, `#saturnian`, `#kether`, `#shadow`, `#initiation`
+4. **Archetypal themes** (optional): `#transformation`, `#authority`, `#death-rebirth`, `#integration`
+
+**Tag rules:**
+- Lowercase only: `#tarot` not `#Tarot`
+- Hyphens for multi-word: `#major-arcana` not `#MajorArcana`
+- Singular form: `#planet` not `#planets` (except when referring to category)
+
+### 11.3 Search Protocols for Claude
+
+**Priority order when searching:**
+1. **Index files** (fastest)—`📖 Library/{System}/INDEX - {System} Master List.md`
+2. **Grep by tag** (precise)—`grep -l "#tag-name" "📖 Library" -r`
+3. **Grep by wikilink** (finds cross-references)—`grep -l "\[\[Concept\]\]" "📖 Library" -r`
+4. **Grep by content** (broadest)—`grep -l "search term" "📖 Library" -r`
+5. **Fallback to NotebookLM** (if local search fails)
+
+**Common search patterns:**
+
+**Find file by name:**
+```bash
+find "📖 Library" -name "*keyword*"
+```
+
+**Find files by tag:**
+```bash
+grep -l "#tag-name" "📖 Library" -r --include="*.md"
+```
+
+**Find files by wikilink (backlinks):**
+```bash
+grep -l "\[\[Concept\]\]" "📖 Library" -r --include="*.md"
+```
+
+**Find cross-system connections:**
+```bash
+# Example: Find all Tarot entries referencing Saturn
+grep -l "\[\[Saturn\]\]" "📖 Library/The Tarot" -r --include="*.md"
+```
+
+**Find stub entries needing expansion:**
+```bash
+# Files marked TBD or <2KB file size
+grep -l "TBD" "📖 Library" -r
+find "📖 Library" -type f -name "*.md" -size -2k
+```
+
+### 11.4 Index Files (Master Lists)
+
+**One index per major pillar:**
+- `📖 Library/Astrology/INDEX - Astrology Master List.md`
+- `📖 Library/Human Design/INDEX - Human Design Master List.md`
+- `📖 Library/The Tarot/INDEX - Tarot Master List.md` ⭐ (exists, example)
+- `📖 Library/The Window/INDEX - The Window Master List.md`
+- `📖 Library/Folklore/INDEX - Folklore & Jungian Master List.md`
+- `📖 Library/Angelology/INDEX - Angelology Master List.md`
+
+**Index files provide:**
+- At-a-glance navigation (all entries in one place)
+- Status indicators: ✅ Complete (Tier 3), 🟡 Partial (Tier 1-2), ⚪ Planned (not yet created)
+- Completion statistics per category
+- Direct [[wikilinks]] to all entries
+- Cross-system reference notes
+
+**Maintenance:**
+- Update index when creating new Library entries (same commit or immediately after)
+- Review during quarterly Library Maintenance Cycles (once protocol exists)
+
+### 11.5 Cross-Reference System
+
+**Wikilink density: 97% of Library files contain [[wikilinks]]—excellent cross-reference foundation!**
+
+**Every Library entry must include "Internal Links" section:**
+```markdown
+## Internal Links
+
+**Cross-System References:**
+- [[Entry from other system]] - Brief note on connection
+- [[Another entry]] - Why it's relevant
+
+**Within-System References:**
+- [[Related entry in same system]] - Relationship
+
+**Synthesis Pieces Referencing This Entry:**
+- [[Synthesis piece]] - How it uses this entry
+```
+
+**Find backlinks (what references this entry):**
+```bash
+grep -r "\[\[Entry Name\]\]" "📖 Library" --include="*.md"
+```
+
+### 11.6 When Claude Needs to Find Content
+
+**User asks about a concept Claude hasn't seen recently:**
+
+1. **Check if file exists:** `find "📖 Library" -name "*keyword*"`
+2. **If found, read it:** Use Read tool
+3. **If not found, search broader:** `grep -r "keyword" "📖 Library"`
+4. **If still not found:** Notify user, offer to fetch from NotebookLM or create stub
+
+**User asks for cross-system synthesis:**
+
+1. **Find relevant entries** from each system (use Index or grep)
+2. **Read all relevant entries**
+3. **Check Internal Links sections** to see if they already cross-reference each other
+4. **Proceed with synthesis** using Cross-System Synthesis Protocol
+
+**User asks "What do we have on [topic]?":**
+
+1. **Search by tag:** `grep -l "#tag" "📖 Library" -r`
+2. **Search by wikilink:** `grep -l "\[\[Topic\]\]" "📖 Library" -r`
+3. **Search by content:** `grep -l "topic" "📖 Library" -r`
+4. **Report findings** with file paths
+5. **Offer to read specific entries** if user wants details
+
+**Best practice:**
+- Use multiple search methods in parallel when unsure
+- Report what was searched and what was found/not found
+- Prioritize Index files when they exist (fastest, most accurate)
+
+### 11.7 Maintenance Tasks
+
+**When creating new Library entries (always):**
+- Apply correct tag taxonomy per Section 11.2
+- Include Internal Links section with cross-references
+- Update relevant Index file to include new entry
+- Git commit includes both entry and updated Index
+
+**Tag migration (gradual):**
+- Current inconsistency: Tarot lacks hashtags, others have them
+- Fix tags when files are touched for content updates (no bulk tag-only commits)
+- Eventually all files will use standardized hashtag taxonomy
+
+**See full protocol for:** Tag format rules, tag evolution process, index scalability, cross-reference mapping details, and complete search command reference.
