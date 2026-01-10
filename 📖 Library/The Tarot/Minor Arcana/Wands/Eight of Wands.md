@@ -10,7 +10,8 @@ planetary: Mercury in Sagittarius
 title: Lord of Swiftness
 ---
 
-# Eight of Wands: Lord of Swiftness
+# Eight of Wands
+*Lord of Swiftness*
 
 ---
 

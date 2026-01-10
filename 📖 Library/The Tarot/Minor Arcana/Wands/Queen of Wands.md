@@ -11,7 +11,8 @@ elemental_formula: Water of Fire
 title: Queen of the Thrones of Flame
 ---
 
-# Queen of Wands: Queen of the Thrones of Flame
+# Queen of Wands
+*Queen of the Thrones of Flame*
 
 ---
 

@@ -11,7 +11,8 @@ elemental_formula: Air of Fire
 title: Prince of the Chariot of Fire, Lord of Flame and Lightning
 ---
 
-# Knight of Wands: Prince of the Chariot of Fire
+# Knight of Wands
+*Prince of the Chariot of Fire, Lord of Flame and Lightning*
 
 ---
 

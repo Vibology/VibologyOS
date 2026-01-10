@@ -11,7 +11,8 @@ elemental_formula: Fire of Fire
 title: King of the Flame and the Lightning, Lord of the Flame and the Lightning
 ---
 
-# King of Wands: King of the Flame and the Lightning
+# King of Wands
+*King of the Flame and the Lightning, Lord of the Flame and the Lightning*
 
 ---
 

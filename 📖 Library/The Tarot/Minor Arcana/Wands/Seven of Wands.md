@@ -10,7 +10,8 @@ planetary: Mars in Leo
 title: Lord of Valour
 ---
 
-# Seven of Wands: Lord of Valour
+# Seven of Wands
+*Lord of Valour*
 
 ---
 

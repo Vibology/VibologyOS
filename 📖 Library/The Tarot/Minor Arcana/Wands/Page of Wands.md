@@ -11,7 +11,8 @@ elemental_formula: Earth of Fire
 title: Princess of the Shining Flame, Rose of the Palace of Fire
 ---
 
-# Page of Wands: Princess of the Shining Flame
+# Page of Wands
+*Princess of the Shining Flame, Rose of the Palace of Fire*
 
 ---
 
