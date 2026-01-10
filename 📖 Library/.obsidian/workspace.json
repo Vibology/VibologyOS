@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "da06b2cc2f6f9ab9",
+        "id": "e0daec93942bec71",
         "type": "tabs",
         "children": [
           {
-            "id": "cb1faeea7a0f74ff",
+            "id": "7132180cd9e2ca85",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core Foundations/Inner Authority and Strategy.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Inner Authority and Strategy"
+              "title": "New tab"
             }
           }
         ]
@@ -183,43 +179,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "cb1faeea7a0f74ff",
+  "active": "c8635849c76cb2fa",
   "lastOpenFiles": [
-    "Core Foundations/Seven-Coordinate Navigation.md",
-    "Core Foundations/Techgnosis - Spiritual Knowledge Through Technology.md",
-    "Core Foundations/The Blueprint - 444 Architecture.md",
-    "Core Foundations/Anima et Algorithm.md",
-    "Start Here.md",
-    "Human Design/Centers/Sacral.md",
-    "Human Design/Strategy and Authority/Emotional Authority.md",
-    "Human Design/Profiles/6-3 Role Model Martyr.md",
-    "Human Design/Profiles/6-3 Role Model Martyr.md.tmp.187517.1767899983801",
-    "Human Design/Profiles/6-2 Role Model Hermit.md",
-    "Human Design/Profiles/6-2 Role Model Hermit.md.tmp.187517.1767899983693",
-    "Human Design/Profiles/5-2 Heretic Hermit.md",
-    "Human Design/Profiles/5-2 Heretic Hermit.md.tmp.187517.1767899894709",
-    "Human Design/Profiles/5-1 Heretic Investigator.md",
-    "Human Design/Profiles/5-1 Heretic Investigator.md.tmp.187517.1767899894599",
-    "Human Design/Profiles/4-1 Opportunist Investigator.md",
-    "Human Design/Profiles/4-1 Opportunist Investigator.md.tmp.187517.1767899818698",
-    "Human Design/Profiles/4-6 Opportunist Role Model.md",
-    "Human Design/Profiles/4-6 Opportunist Role Model.md.tmp.187517.1767899818600",
-    "Human Design/Profiles/3-6 Martyr Role Model.md",
-    "Human Design/Profiles/3-6 Martyr Role Model.md.tmp.187517.1767899744311",
-    "Human Design/Profiles/3-5 Martyr Heretic.md",
-    "Human Design/Profiles/3-5 Martyr Heretic.md.tmp.187517.1767899744206",
-    "Human Design/Profiles/2-5 Hermit Heretic.md",
-    "Human Design/Profiles/2-5 Hermit Heretic.md.tmp.187517.1767899666092",
-    "Human Design/Profiles/2-4 Hermit Opportunist.md",
-    "Human Design/Profiles/2-4 Hermit Opportunist.md.tmp.187517.1767899665978",
-    "Human Design/Profiles/1-4 Investigator Opportunist.md",
-    "Human Design/Profiles/1-3 Investigator Martyr.md",
-    "Human Design/Centers/Root.md",
-    "Human Design/Centers/Spleen.md",
-    "Human Design/Centers/Solar Plexus.md",
-    "Human Design/Centers/Heart.md",
-    "Human Design/Centers/G Center.md",
-    "Human Design/Centers/Throat.md",
-    "Human Design/Centers/Ajna.md"
+    "The Tarot/Major Arcana/20 - Judgement.md",
+    "The Tarot/Major Arcana/19 - The Sun.md",
+    "The Tarot/Major Arcana/18 - The Moon.md",
+    "The Tarot/Major Arcana/17 - The Star.md",
+    "The Tarot/Major Arcana/16 - The Tower.md",
+    "The Tarot/Major Arcana/15 - The Devil.md",
+    "The Tarot/Major Arcana/14 - Temperance.md",
+    "The Tarot/Major Arcana/13 - Death.md",
+    "The Tarot/Major Arcana/12 - The Hanged Man.md",
+    "The Tarot/Major Arcana/11 - Justice.md",
+    "The Tarot/Major Arcana/10 - Wheel of Fortune.md",
+    "The Tarot/Major Arcana/9 - The Hermit.md",
+    "The Tarot/Major Arcana/8 - Strength.md",
+    "The Tarot/Major Arcana/7 - The Chariot.md",
+    "The Tarot/Major Arcana/6 - The Lovers.md",
+    "The Tarot/Major Arcana/5 - The Hierophant.md",
+    "The Tarot/Major Arcana/4 - The Emperor.md",
+    "The Tarot/Major Arcana/3 - The Empress.md",
+    "The Tarot/Major Arcana/2 - The High Priestess.md",
+    "The Tarot/Major Arcana/1 - The Magician.md",
+    "The Tarot/Major Arcana/0 - The Fool.md",
+    "The Tarot/Minor Arcana/Wands/Two of Wands.md",
+    "The Tarot/Minor Arcana/Wands/Three of Wands.md",
+    "The Tarot/Minor Arcana/Wands/Ten of Wands.md",
+    "The Tarot/Minor Arcana/Wands/Six of Wands.md",
+    "The Tarot/Minor Arcana/Wands/Seven of Wands.md",
+    "The Tarot/Minor Arcana/Wands/King of Wands.md.tmp.96298.1768017755516",
+    "The Tarot/Minor Arcana/Wands/Queen of Wands.md.tmp.96298.1768017755098",
+    "The Tarot/Minor Arcana/Wands/Knight of Wands.md.tmp.96298.1768017754693",
+    "The Tarot/Minor Arcana/Wands/Page of Wands.md.tmp.96298.1768017754310",
+    "The Tarot/Minor Arcana/Wands/Ten of Wands.md.tmp.96298.1768017753933",
+    "The Tarot/Minor Arcana/Wands/Nine of Wands.md.tmp.96298.1768017753589",
+    "The Tarot/Minor Arcana/Wands/Eight of Wands.md.tmp.96298.1768017753503",
+    "The Tarot/Minor Arcana/Wands/Seven of Wands.md.tmp.96298.1768017753417",
+    "The Tarot/Minor Arcana/Wands/Six of Wands.md.tmp.96298.1768017753341",
+    "The Tarot/Minor Arcana/Wands/Five of Wands.md.tmp.96298.1768017725799"
   ]
 }

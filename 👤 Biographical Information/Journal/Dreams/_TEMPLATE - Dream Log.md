@@ -41,18 +41,4 @@ lunar_phase: [If tracking - New/Waxing/Full/Waning]
 
 ---
 
-## Amplification (Weaver Mode)
-[What archetypal layer is active? Apply Jungian lens:]
-
-**Possible Archetypes:**
-- [[Relevant Tarot card]]
-- [[Jungian archetype]]
-- [[Mythological parallel]]
-
-**The Message:**
-[What is the unconscious trying to bring to consciousness?]
-
----
-
-## Integration
-[How does this dream relate to waking life? What wants attention?]
+## Final Thoughts
