@@ -1,5 +1,5 @@
 ---
-tags: [#tarot, #minor-arcana, #wands, #fire, #chokmah, #mars, #aries]
+tags: [tarot, minor-arcana, wands, fire, chokmah, mars, aries]
 system: Tarot
 date_created: 2026-01-09
 suit: Wands

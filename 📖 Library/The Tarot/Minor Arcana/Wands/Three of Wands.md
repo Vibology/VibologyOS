@@ -1,5 +1,5 @@
 ---
-tags: [#tarot, #minor-arcana, #wands, #fire, #binah, #sun, #aries]
+tags: [tarot, minor-arcana, wands, fire, binah, sun, aries]
 system: Tarot
 date_created: 2026-01-09
 suit: Wands

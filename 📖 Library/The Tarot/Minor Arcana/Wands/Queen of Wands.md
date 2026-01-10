@@ -1,5 +1,5 @@
 ---
-tags: [#tarot, #minor-arcana, #wands, #fire, #court, #water-of-fire, #queen, #sovereignty]
+tags: [tarot, minor-arcana, wands, fire, court, water-of-fire, queen, sovereignty]
 system: Tarot
 date_created: 2026-01-09
 suit: Wands

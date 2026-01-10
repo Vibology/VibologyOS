@@ -1,5 +1,5 @@
 ---
-tags: [#tarot, #minor-arcana, #wands, #fire, #court, #air-of-fire, #knight, #quest]
+tags: [tarot, minor-arcana, wands, fire, court, air-of-fire, knight, quest]
 system: Tarot
 date_created: 2026-01-09
 suit: Wands

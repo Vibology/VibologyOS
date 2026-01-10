@@ -1,5 +1,5 @@
 ---
-tags: [#tarot, #minor-arcana, #wands, #fire, #geburah, #saturn, #leo]
+tags: [tarot, minor-arcana, wands, fire, geburah, saturn, leo]
 system: Tarot
 date_created: 2026-01-09
 suit: Wands

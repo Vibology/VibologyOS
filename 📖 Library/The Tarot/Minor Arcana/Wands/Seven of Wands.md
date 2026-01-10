@@ -1,5 +1,5 @@
 ---
-tags: [#tarot, #minor-arcana, #wands, #fire, #netzach, #atziluth]
+tags: [tarot, minor-arcana, wands, fire, netzach, atziluth]
 system: Tarot
 date_created: 2026-01-09
 suit: Wands

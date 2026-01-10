@@ -1,5 +1,5 @@
 ---
-tags: [#tarot, #minor-arcana, #wands, #fire, #court, #earth-of-fire, #page, #messenger]
+tags: [tarot, minor-arcana, wands, fire, court, earth-of-fire, page, messenger]
 system: Tarot
 date_created: 2026-01-09
 suit: Wands
