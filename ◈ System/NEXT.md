@@ -16,16 +16,18 @@ Created comprehensive quality rubric (`RUBRIC - Library Content Standard.md`) th
 ### Minor Arcana: Wands (14 cards)
 - ✅ Ace-Five: Revised (commit: 0b21b77)
 - ✅ Six-Seven: Revised (commit: ac9fa57)
-- ⚠️ **Eight: NEEDS REVISION** (exists but missing template sections)
-- ❓ Nine-Ten + Court: Not yet assessed
+- ✅ Eight-Nine-Ten: Revised to comprehensive Tier 3 standard (commits: 960e22a, 768e91d, 352da48)
+  - Eight of Wands: 84→498 lines (Mercury in Sagittarius, swiftness, velocity)
+  - Nine of Wands: 86→472 lines (Moon in Sagittarius, wounded defender, resilience)
+  - Ten of Wands: 88→445 lines (Saturn in Sagittarius, oppression, burden)
+- ❓ Court cards: Not yet assessed (Page, Knight, Queen, King)
 
 ## Next Steps
 
-### Priority 1: Continue Wands Revision
-1. Revise Eight of Wands to comprehensive template standard
-2. Assess/revise Nine and Ten of Wands
-3. Assess/revise Court cards (Page, Knight, Queen, King)
-4. Move to next suit (Cups, Swords, or Pentacles)
+### Priority 1: Complete Wands Revision
+1. Assess/revise Wands Court cards (Page, Knight, Queen, King of Wands)
+2. Move to next suit (Cups, Swords, or Pentacles)
+3. Continue Minor Arcana systematic expansion
 
 ### Priority 2: Apply Universal Rubric to Non-Tarot Content
 Consider revising existing Tier 1 entries in Human Design or Astrology to Tier 3 (comprehensive) using the new universal rubric.
