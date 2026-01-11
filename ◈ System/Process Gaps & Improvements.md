@@ -19,6 +19,54 @@ This document tracks identified gaps in our workflow and documents progress towa
 
 ## High-Priority Gaps
 
+### 1. Chart Data Integrity & Automated Acquisition 🔴
+**Status:** Not Started (Research Complete, Implementation Pending)
+**Priority:** CRITICAL
+**Description:**
+Chart data (Astrology & Human Design) is currently manually entered or calculated during synthesis, leading to errors and hallucinations. The Szilvia Williams synthesis (2026-01-10) contained multiple critical errors:
+- **Human Design:** Contradictory center definitions (Defined/Undefined flipped)
+- **Astrology:** Saturn timing off by 1 year, North Node axis completely wrong (Aquarius/Leo vs Aries/Libra), house placements inconsistent
+- **Root Cause:** No verification step between data gathering and synthesis. Chart data trusted from memory/calculation instead of authoritative sources.
+
+**Impact:**
+Synthesis pieces are invalidated by incorrect source data. Cross-system convergence analysis becomes meaningless when underlying data is wrong. Client work credibility compromised. This is a **data integrity crisis**.
+
+**Solution (Researched, Ready to Implement):**
+1. **Astrology:** pyswisseph (Swiss Ephemeris) via Kerykeion wrapper
+   - Installation: `pip install kerykeion`
+   - Precision: NASA JPL-derived calculations
+   - Features: Automatic aspects, house calculations, timezone handling
+   - Data files: 3 files (~2MB) for 1800-2399 AD range
+
+2. **Human Design:** humandesignapi.nl API integration (requires API key purchase)
+   - Authoritative HD chart data
+   - Eliminates gate/center/channel calculation errors
+
+3. **Protocol:** Data acquisition before synthesis (Scribe mode enhancement)
+   - User provides birth data (name, date, time, location, timezone)
+   - Run `get_astro_data.py` → structured output (JSON)
+   - Run `get_hd_data.py` → structured output (JSON)
+   - Present raw data to user for spot-check verification
+   - Save data files with synthesis piece
+   - Weaver mode proceeds ONLY after data verification
+   - Cache chart data for future synthesis on same person
+
+**Implementation Plan:**
+- Create `◈ System/Data/Swiss_Ephemeris/` directory
+- Download .se1 files from http://www.astro.com/ftp/swisseph/ephe/
+- Create `◈ System/Scripts/get_astro_data.py` (Kerykeion-based)
+- Create `◈ System/Scripts/get_hd_data.py` (API integration)
+- Create `PROTOCOL - Chart Data Acquisition.md`
+- Update `PROTOCOL - Cross-System Synthesis.md` to mandate data acquisition phase
+- Test with Szilvia Williams birth data, verify against known correct chart
+- Re-synthesize Szilvia Williams reading with correct data
+
+**Research Completed:** 2026-01-10 (pyswisseph implementation research via Task agent)
+**Implementation Date:** Pending subscription renewal (low usage remaining)
+**Date Completed:** N/A
+
+---
+
 ### 3. Backup & Preservation Protocol 🟡
 **Status:** In Progress (Daily Manual Backup Active)
 **Priority:** High
