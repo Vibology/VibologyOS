@@ -1,7 +1,7 @@
 ---
 tags: [system, process, meta, workflow]
 date_created: 2026-01-10
-date_updated: 2026-01-10
+date_updated: 2026-01-11
 ---
 
 # VibologyOS Process Gaps & Improvements
@@ -57,6 +57,37 @@ Synthesis pieces are invalidated by incorrect source data. Cross-system converge
    - Weaver mode proceeds ONLY after data verification
    - Cache chart data for future synthesis on same person
 
+4. **Error Handling Methodology:** (to be documented in PROTOCOL - Chart Data Acquisition.md)
+   - **API Failure Handling:**
+     - Check service availability before calculation (ping test)
+     - Graceful degradation if HD API is down (complete Astrology portion, flag HD as incomplete)
+     - Retry logic with exponential backoff for transient failures
+     - Clear error messages to user with troubleshooting steps
+   - **Data Validation:**
+     - Verify birth date is valid and within ephemeris range (1800-2399 AD for Swiss Ephemeris)
+     - Validate coordinates are within valid ranges (latitude: -90 to +90, longitude: -180 to +180)
+     - Check timezone format and DST rules for historical dates
+     - Flag impossible combinations (e.g., Dec 32, invalid city/coordinates mismatch)
+   - **Edge Case Handling:**
+     - DST transition ambiguity: Present both possible charts, ask user to verify
+     - Historical timezone changes: Use IANA timezone database, document assumptions
+     - Coordinate precision: Default to city center if exact coordinates unavailable
+     - Missing birth time: Generate chart with Sun position only, clearly mark time-sensitive data as unavailable (Moon, houses, Ascendant, HD gates)
+   - **Correction Protocol:**
+     - If error discovered post-synthesis: Create dated correction log entry
+     - Move incorrect synthesis to `.archive/` with `superseded_by:` link to corrected version
+     - Re-run chart acquisition with corrected data
+     - Compare old vs. new charts, document what changed and why
+     - Re-synthesize from scratch with correct data (do not patch incorrect synthesis)
+   - **Conflicting Data Scenarios:**
+     - New calculation conflicts with cached chart: Flag discrepancy, ask user to verify birth data
+     - Cross-check critical points between systems (e.g., Sun position in Astrology vs. HD Personality Sun gate)
+     - Document calculation method and ephemeris version in chart metadata for reproducibility
+   - **Source Verification:**
+     - Save raw API responses with timestamps for audit trail
+     - Include calculation metadata (Kerykeion version, HD API version, ephemeris files used)
+     - Enable future re-calculation if algorithms/ephemeris are updated
+
 **Implementation Plan:**
 1. **Astrology Setup:**
    - Create `◈ System/Data/Swiss_Ephemeris/` directory
@@ -71,9 +102,10 @@ Synthesis pieces are invalidated by incorrect source data. Cross-system converge
    - Create `◈ System/Scripts/get_hd_data.py` (REST API client for localhost:9021)
 
 3. **Protocol & Testing:**
-   - Create `PROTOCOL - Chart Data Acquisition.md`
+   - Create `PROTOCOL - Chart Data Acquisition.md` (comprehensive workflow including all error handling methodology above)
    - Update `PROTOCOL - Cross-System Synthesis.md` to mandate data acquisition phase
    - Test with Szilvia Williams birth data, verify against known correct chart
+   - Test error handling scenarios (missing time, API failure, conflicting data, DST ambiguity)
    - Re-synthesize Szilvia Williams reading with correct data
 
 **Total Cost:** $0 (both solutions are free, open-source, self-hosted)
@@ -166,28 +198,9 @@ Synthesis quality varies. Without templates, output lacks consistency and comple
 
 ---
 
-### 7. Quality Verification Protocol 🔴
-**Status:** Not Started
-**Priority:** Medium
-**Description:**
-"Do not hallucinate chart data" is stated, but there's no verification checklist. How to handle uncertain information? What's the process for correcting errors discovered later?
-
-**Impact:**
-Errors compound over time. Without verification protocol, library credibility degrades.
-
-**Next Steps:**
-- Create verification checklist for chart data
-- Document uncertainty handling (mark as [uncertain], cite sources)
-- Establish error correction protocol
-- Define source citation standards
-
-**Date Completed:** N/A
-
----
-
 ## Lower-Priority Gaps
 
-### 8. Insight Evolution Protocol 🔴
+### 7. Insight Evolution Protocol 🔴
 **Status:** Not Started
 **Priority:** Low
 **Description:**
@@ -206,7 +219,7 @@ Old insights linger without clear status. Readers don't know if content is curre
 
 ---
 
-### 9. Export & Presentation Layer 🔴
+### 8. Export & Presentation Layer 🔴
 **Status:** Not Started
 **Priority:** Low
 **Description:**
