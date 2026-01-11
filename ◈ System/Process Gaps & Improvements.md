@@ -37,31 +37,48 @@ Synthesis pieces are invalidated by incorrect source data. Cross-system converge
    - Precision: NASA JPL-derived calculations
    - Features: Automatic aspects, house calculations, timezone handling
    - Data files: 3 files (~2MB) for 1800-2399 AD range
+   - Cost: Free (open-source)
 
-2. **Human Design:** humandesignapi.nl API integration (requires API key purchase)
-   - Authoritative HD chart data
-   - Eliminates gate/center/channel calculation errors
+2. **Human Design:** dturkuler/humandesign_api (self-hosted Python FastAPI)
+   - Repository: https://github.com/dturkuler/humandesign_api
+   - Deployment: Docker/Docker Compose (localhost:9021)
+   - License: GPL-3.0 (free for personal/research use)
+   - Status: Production-ready (v1.7.1, updated Jan 3, 2026)
+   - Features: Complete HD calculations (type, profile, gates, channels, incarnation cross, variables), bodygraph visualization, relationship/composite charts, transit analysis
+   - Cost: Free (self-hosted, no API fees)
+   - Advantages over commercial APIs: Full privacy (data stays local), no rate limits, no subscription costs, Python-native integration
 
 3. **Protocol:** Data acquisition before synthesis (Scribe mode enhancement)
    - User provides birth data (name, date, time, location, timezone)
-   - Run `get_astro_data.py` → structured output (JSON)
-   - Run `get_hd_data.py` → structured output (JSON)
+   - Run `get_astro_data.py` (calls Kerykeion) → structured output (JSON)
+   - Run `get_hd_data.py` (calls localhost:9021 API) → structured output (JSON)
    - Present raw data to user for spot-check verification
    - Save data files with synthesis piece
    - Weaver mode proceeds ONLY after data verification
    - Cache chart data for future synthesis on same person
 
 **Implementation Plan:**
-- Create `◈ System/Data/Swiss_Ephemeris/` directory
-- Download .se1 files from http://www.astro.com/ftp/swisseph/ephe/
-- Create `◈ System/Scripts/get_astro_data.py` (Kerykeion-based)
-- Create `◈ System/Scripts/get_hd_data.py` (API integration)
-- Create `PROTOCOL - Chart Data Acquisition.md`
-- Update `PROTOCOL - Cross-System Synthesis.md` to mandate data acquisition phase
-- Test with Szilvia Williams birth data, verify against known correct chart
-- Re-synthesize Szilvia Williams reading with correct data
+1. **Astrology Setup:**
+   - Create `◈ System/Data/Swiss_Ephemeris/` directory
+   - Download .se1 files from http://www.astro.com/ftp/swisseph/ephe/
+   - Install Kerykeion: `pip install kerykeion`
+   - Create `◈ System/Scripts/get_astro_data.py` (Kerykeion-based)
 
-**Research Completed:** 2026-01-10 (pyswisseph implementation research via Task agent)
+2. **Human Design Setup:**
+   - Clone repository: `git clone https://github.com/dturkuler/humandesign_api`
+   - Configure `.env` file with HD_API_TOKEN
+   - Deploy via Docker Compose: `docker-compose up --build -d`
+   - Create `◈ System/Scripts/get_hd_data.py` (REST API client for localhost:9021)
+
+3. **Protocol & Testing:**
+   - Create `PROTOCOL - Chart Data Acquisition.md`
+   - Update `PROTOCOL - Cross-System Synthesis.md` to mandate data acquisition phase
+   - Test with Szilvia Williams birth data, verify against known correct chart
+   - Re-synthesize Szilvia Williams reading with correct data
+
+**Total Cost:** $0 (both solutions are free, open-source, self-hosted)
+
+**Research Completed:** 2026-01-10 (pyswisseph + HD alternatives research via Task agent)
 **Implementation Date:** Pending subscription renewal (low usage remaining)
 **Date Completed:** N/A
 
