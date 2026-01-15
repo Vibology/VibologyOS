@@ -793,20 +793,6 @@ date_updated: YYYY-MM-DD
 - Consider whether insights should graduate back to Library
 - Update [[wikilinks]] to point to synthesis piece if appropriate
 
-### Relationship to Journal Review
-
-**Journal Review** operates on personal daily/weekly/monthly logs.
-**Library Audit** operates on foundational reference material.
-
-**Different cadences:**
-- Journal: Daily→Weekly→Monthly→Quarterly→Annual
-- Library: Quarterly only (less frequent)
-
-**Shared principles:**
-- Both use Scribe/Weaver separation
-- Both have quality standards
-- Both track what's complete vs. incomplete
-
 ---
 
 ## VIII. Audit Log Template

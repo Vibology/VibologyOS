@@ -6,7 +6,6 @@
 1. **Check Context Silently:**
    - Read `◈ System/NEXT.md` to see current priorities
    - Read `◈ System/Process Gaps & Improvements.md` to check workflow status
-   - Read `◈ System/Scribe and Weaver Separation Improvements.md` to check mode integrity progress
    - Run `git status` to see uncommitted changes
    - Run `git log --oneline -5` to see recent work
 
@@ -27,11 +26,8 @@
 
    *[Always mention process gaps:] We currently have [X] process gaps remaining ([Y] high-priority, [Z] medium-priority).*
 
-   *[Always mention Scribe/Weaver progress:] Scribe/Weaver separation improvements: [X]/8 complete ([Y]% progress).*
-
    *Would you like to:*
    - *[If applicable] Run the quarterly Library audit? (2-4 hours)*
-   - *Work on Scribe/Weaver separation improvements?*
    - *Address a process gap from our improvement tracker?*
    - *Continue where we left off ([NEXT.md Priority 1 task])?*
    - *Work on something else?*
@@ -40,7 +36,6 @@
 
 4. **Proceed Based on User Response:**
    - If library audit selected: follow `PROTOCOL - Library Maintenance & Audit.md` (2-4 hour commitment)
-   - If Scribe/Weaver improvement selected: work on chosen improvement, update status in tracker
    - If process gap selected: work on the chosen gap, update status in tracker
    - If continuing NEXT.md work: proceed with Priority 1
    - If redirecting: follow user's explicit direction

@@ -109,64 +109,7 @@ git commit -m "Add [synthesis piece name]
 - `◈ System/[Document Name].md`
 - Examples: Master Index, Library Build Strategy, Technical Setup
 
-**Personal Journal** (deconditioning & integration):
-- `👤 Biographical Information/Journal/Daily Logs/` - Raw daily observations
-- `👤 Biographical Information/Journal/Synthesis/` - Weekly/monthly pattern integration
-- `👤 Biographical Information/Journal/Dreams/` - Dream work with amplification
-- `👤 Biographical Information/Journal/Transit Reports/` - Astrological weather tracking
-- `👤 Biographical Information/Journal/Shadow Work/` - Disowned material excavation
-
----
-
-## Personal Journaling Workflow
-
-### Purpose
-The journal supports **individuation through observation**—distinguishing True Self from Not-Self conditioning through systematic tracking and synthesis.
-
-### Two-Mode Practice
-
-**Scribe Mode (Daily):**
-- Raw observation without interpretation
-- Morning state + evening reflection (5-10 min)
-- Capture what *is*, not what it *means*
-- Template: `Journal/Daily Logs/_TEMPLATE - Daily Log.md`
-
-**Weaver Mode (Weekly):**
-- Review week's logs for patterns
-- Apply mythopoetic analysis and archetypal naming
-- Cross-reference with [[Library]] content (20-30 min)
-- Template: `Journal/Synthesis/_TEMPLATE - Weekly Synthesis.md`
-
-### Additional Practices
-
-**Dreams:** Capture immediately upon waking (raw), amplify later (archetypal)
-**Transit Reports:** Track major transits and their manifestation in experience
-**Shadow Work:** When projection/charge arises, excavate the disowned material
-
-### Integration with Synthesis
-
-Major insights from journal work can graduate to `⚛ Synthesis/` folder:
-1. Weekly synthesis reveals significant pattern
-2. Apply deeper Weaver analysis
-3. Cross-reference extensively with Library
-4. Commit to `⚛ Synthesis/[Topic].md`
-5. Update Master Index
-
-### Git Workflow for Journal
-
-**Daily (optional, can batch):**
-```bash
-git add "👤 Biographical Information/Journal/Daily Logs/"
-git commit -m "Daily logs: YYYY-MM-DD to YYYY-MM-DD"
-```
-
-**Weekly (recommended):**
-```bash
-git add "👤 Biographical Information/Journal/"
-git commit -m "Weekly synthesis: [Date range] - [Theme]"
-```
-
-**See:** `👤 Biographical Information/Journal/README - Journal Practice.md` for complete templates and guidelines.
+**Note:** Personal journal work (daily logs, dream journals, shadow work) is maintained in a separate repository to keep VibologyOS focused on universal Library content and synthesis framework.
 
 ---
 
@@ -317,12 +260,7 @@ The `.commands/` directory contains **instruction files for Claude**, not execut
 | See session history | `git log` |
 | Review changes | `git diff` or `git show` |
 | Navigate content | Start at `📖 Library/Start Here.md` |
-| Daily journaling | Use `_TEMPLATE - Daily Log.md` (Scribe mode) |
-| Weekly synthesis | Use `_TEMPLATE - Weekly Synthesis.md` (Weaver mode) |
-| Log dreams | Use `_TEMPLATE - Dream Log.md` (capture immediately) |
-| Track transits | Use `_TEMPLATE - Transit Report.md` |
-| Shadow work | Use `_TEMPLATE - Shadow Work.md` (when triggered) |
 
 ---
 
-*Workflow established: 2026-01-08 | Journaling system added: 2026-01-08 | Optimized for solo practitioner efficiency*
+*Workflow established: 2026-01-08 | Optimized for Library building and synthesis framework development*
