@@ -1,0 +1,25 @@
+# Python virtual environments
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# API tokens and secrets
+.env
+
+# Consultation files (kept in separate private repo)
+# These should not be committed to VibologyOS
+🤝 Consultations/
+
+# Large cache files
+*.cache
+cache/
