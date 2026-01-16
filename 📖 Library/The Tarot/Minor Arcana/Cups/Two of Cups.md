@@ -2,6 +2,7 @@
 tags: [#tarot, #minor-arcana, #cups, #water, #chokmah, #venus, #cancer]
 system: Tarot
 date_created: 2026-01-09
+date_revised: 2026-01-15
 suit: Cups
 element: Water
 qabalistic_world: Briah (Creative World)
