@@ -11,8 +11,6 @@ decan: Third decan of Gemini (20-30 degrees)
 title: Lord of Ruin
 ---
 
-# Ten of Swords: Lord of Ruin
-
 *Lord of Ruin*
 
 ---

@@ -8,8 +8,6 @@ court_rank: Page
 elemental_formula: Earth of Air
 ---
 
-# Page of Swords: Earth of Air
-
 *The Throne of the Ace of Air*
 
 ---

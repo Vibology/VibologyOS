@@ -11,8 +11,6 @@ decan: First decan of Aquarius (0-10 degrees)
 title: Lord of Defeat
 ---
 
-# Five of Swords: Lord of Defeat
-
 *Lord of Defeat*
 
 ---

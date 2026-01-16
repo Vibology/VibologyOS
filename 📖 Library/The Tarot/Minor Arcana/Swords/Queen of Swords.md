@@ -8,8 +8,6 @@ court_rank: Queen
 elemental_formula: Water of Air
 ---
 
-# Queen of Swords: Water of Air
-
 *The Throne of the Widow*
 
 ---

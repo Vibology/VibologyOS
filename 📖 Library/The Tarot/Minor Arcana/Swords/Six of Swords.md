@@ -11,8 +11,6 @@ decan: Second decan of Aquarius (10-20 degrees)
 title: Lord of Earned Success
 ---
 
-# Six of Swords: Lord of Earned Success
-
 *Lord of Earned Success*
 
 ---

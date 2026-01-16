@@ -11,8 +11,6 @@ decan: Second decan of Libra (10-20 degrees)
 title: Lord of Sorrow
 ---
 
-# Three of Swords: Lord of Sorrow
-
 *Lord of Sorrow*
 
 ---

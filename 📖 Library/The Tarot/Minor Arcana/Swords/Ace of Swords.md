@@ -9,8 +9,6 @@ sephirah: Kether
 title: Root of the Powers of Air
 ---
 
-# Ace of Swords: Root of the Powers of Air
-
 *The Root of the Powers of Air*
 
 ---

@@ -11,8 +11,6 @@ decan: Second decan of Gemini (10-20 degrees)
 title: Lord of Despair and Cruelty
 ---
 
-# Nine of Swords: Lord of Despair and Cruelty
-
 *Lord of Despair and Cruelty*
 
 ---
