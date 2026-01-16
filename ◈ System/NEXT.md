@@ -1,9 +1,28 @@
 # Current Work Context
 
-**Last Session:** 2026-01-15
-**Current Focus:** Chart Data Acquisition Complete + Tarot Minor Arcana
+**Last Session:** 2026-01-16
+**Current Focus:** Data Integrity Infrastructure Complete + Tarot Minor Arcana
 
 ## Recent Completions
+
+### ✅ 2026-01-16: Transit Calculation & Geolocation Verification Infrastructure
+Audit of Szilvia Williams synthesis revealed transit data was hallucinated (not calculated). Built complete infrastructure to prevent this:
+
+**New Tools:**
+- `get_transit_data.py`: Calculates planetary ingresses, returns, and transits using Swiss Ephemeris. Includes HD gate mapping. Finds exact dates (e.g., "Saturn enters Aries Feb 14, 2026").
+- `verify_geolocation.py`: Geocoding with historical timezone/DST verification using Nominatim + pytz. Handles pre-1970 DST variations (e.g., Hungary had no DST 1957-1979).
+
+**New Templates:**
+- `_TEMPLATE - Synthesis Verification Checklist.md`: Mandatory checklist ensuring all synthesis claims are traceable to calculated source files.
+
+**Protocol Updates:**
+- Phase 1b: Mandatory geolocation verification before any chart calculation
+- Phase 2b: Mandatory transit calculation for any timing questions
+- Updated file organization: natal data (`astrology.json`, `humandesign.json`) in client folder, synthesis-specific data (transits, verification) in dated subfolders
+
+**Core Principle:** NEVER hallucinate astronomical data. Every planetary position and transit date MUST be calculated and traceable to a JSON source file.
+
+**Commit:** 46a32a9
 
 ### ✅ 2026-01-15: Chart Data Acquisition Infrastructure (PROCESS GAP #1 COMPLETE - CRITICAL DATA INTEGRITY RESOLVED!)
 Implemented local, free, self-hosted chart calculation tools:
