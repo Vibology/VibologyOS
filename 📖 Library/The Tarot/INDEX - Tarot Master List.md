@@ -8,8 +8,8 @@ date_updated: 2026-01-15
 
 **Purpose:** At-a-glance navigation for all Tarot Library entries
 
-**Last Updated:** 2026-01-15
-**Completion Status:** 78/78 cards exist (100% coverage), 44/78 comprehensive (56% Tier 3)
+**Last Updated:** 2026-01-16
+**Completion Status:** 78/78 cards exist (100% coverage), 64/78 comprehensive (82% Tier 3)
 
 ---
 
@@ -19,10 +19,10 @@ date_updated: 2026-01-15
 |----------|-------------------|---------------------|-------|
 | **Major Arcana** | 22 | 0 | 22 |
 | **Minor: Wands** | 14 | 0 | 14 |
-| **Minor: Cups** | 8 | 6 | 14 |
-| **Minor: Swords** | 0 | 14 | 14 |
+| **Minor: Cups** | 14 | 0 | 14 |
+| **Minor: Swords** | 14 | 0 | 14 |
 | **Minor: Pentacles** | 0 | 14 | 14 |
-| **TOTAL** | 44 (56%) | 34 (44%) | 78 (100%) |
+| **TOTAL** | 64 (82%) | 14 (18%) | 78 (100%) |
 
 ---
 
@@ -101,7 +101,7 @@ date_updated: 2026-01-15
 ## Minor Arcana: Cups (14 cards)
 
 **Suit Element:** Water
-**Completion:** 8/14 comprehensive (Ace-Eight Tier 3, Nine-Ten and Courts pending)
+**Completion:** 14/14 (100%) - All cards comprehensive Tier 3 standard
 
 ### Pips (Ace-Ten)
 
@@ -115,55 +115,56 @@ date_updated: 2026-01-15
 | Six | Six of Cups | Sun in Scorpio (Pleasure) | ✅ Complete | [[Six of Cups]] |
 | Seven | Seven of Cups | Venus in Scorpio (Illusory Success) | ✅ Complete | [[Seven of Cups]] |
 | Eight | Eight of Cups | Saturn in Pisces (Abandoned Success) | ✅ Complete | [[Eight of Cups]] |
-| Nine | Nine of Cups | Jupiter in Pisces (Happiness) | 🟡 Partial | [[Nine of Cups]] |
-| Ten | Ten of Cups | Mars in Pisces (Satiety) | 🟡 Partial | [[Ten of Cups]] |
+| Nine | Nine of Cups | Jupiter in Pisces (Happiness) | ✅ Complete | [[Nine of Cups]] |
+| Ten | Ten of Cups | Mars in Pisces (Satiety) | ✅ Complete | [[Ten of Cups]] |
 
 ### Court Cards
 
 | Rank | Card | Element | Status | Link |
 |------|------|---------|--------|------|
-| Page | Page of Cups | Earth of Water | 🟡 Partial | [[Page of Cups]] |
-| Knight | Knight of Cups | Air of Water | 🟡 Partial | [[Knight of Cups]] |
-| Queen | Queen of Cups | Water of Water | 🟡 Partial | [[Queen of Cups]] |
-| King | King of Cups | Fire of Water | 🟡 Partial | [[King of Cups]] |
+| Page | Page of Cups | Earth of Water | ✅ Complete | [[Page of Cups]] |
+| Knight | Knight of Cups | Air of Water | ✅ Complete | [[Knight of Cups]] |
+| Queen | Queen of Cups | Water of Water | ✅ Complete | [[Queen of Cups]] |
+| King | King of Cups | Fire of Water | ✅ Complete | [[King of Cups]] |
 
 **Reference Commits:**
 - a50ecde - Cups Ace-Three comprehensive revision
 - 98aeab7 - Cups Four-Seven comprehensive revision
-- (pending) - Cups Eight comprehensive revision
-
-**Next Priority:** Complete remaining 6 Cups cards (Nine-Ten + Courts)
+- 4788038 - Cups Nine-Ten and Courts comprehensive revision
 
 ---
 
 ## Minor Arcana: Swords (14 cards)
 
 **Suit Element:** Air
-**Completion:** 0/14 comprehensive (files exist, need revision to Tier 3)
+**Completion:** 14/14 (100%) - All cards comprehensive Tier 3 standard
 
 ### Pips (Ace-Ten)
 
 | Number | Card | Decan/Planet | Status | Link |
 |--------|------|--------------|--------|------|
-| Ace | Ace of Swords | Root of Air (Kether) | 🟡 Partial | [[Ace of Swords]] |
-| Two | Two of Swords | Moon in Libra (Peace) | 🟡 Partial | [[Two of Swords]] |
-| Three | Three of Swords | Saturn in Libra (Sorrow) | 🟡 Partial | [[Three of Swords]] |
-| Four | Four of Swords | Jupiter in Libra (Truce) | 🟡 Partial | [[Four of Swords]] |
-| Five | Five of Swords | Venus in Aquarius (Defeat) | 🟡 Partial | [[Five of Swords]] |
-| Six | Six of Swords | Mercury in Aquarius (Science) | 🟡 Partial | [[Six of Swords]] |
-| Seven | Seven of Swords | Moon in Aquarius (Futility) | 🟡 Partial | [[Seven of Swords]] |
-| Eight | Eight of Swords | Jupiter in Gemini (Interference) | 🟡 Partial | [[Eight of Swords]] |
-| Nine | Nine of Swords | Mars in Gemini (Cruelty) | 🟡 Partial | [[Nine of Swords]] |
-| Ten | Ten of Swords | Sun in Gemini (Ruin) | 🟡 Partial | [[Ten of Swords]] |
+| Ace | Ace of Swords | Root of Air (Kether) | ✅ Complete | [[Ace of Swords]] |
+| Two | Two of Swords | Moon in Libra (Peace) | ✅ Complete | [[Two of Swords]] |
+| Three | Three of Swords | Saturn in Libra (Sorrow) | ✅ Complete | [[Three of Swords]] |
+| Four | Four of Swords | Jupiter in Libra (Truce) | ✅ Complete | [[Four of Swords]] |
+| Five | Five of Swords | Venus in Aquarius (Defeat) | ✅ Complete | [[Five of Swords]] |
+| Six | Six of Swords | Mercury in Aquarius (Science) | ✅ Complete | [[Six of Swords]] |
+| Seven | Seven of Swords | Moon in Aquarius (Futility) | ✅ Complete | [[Seven of Swords]] |
+| Eight | Eight of Swords | Jupiter in Gemini (Interference) | ✅ Complete | [[Eight of Swords]] |
+| Nine | Nine of Swords | Mars in Gemini (Cruelty) | ✅ Complete | [[Nine of Swords]] |
+| Ten | Ten of Swords | Sun in Gemini (Ruin) | ✅ Complete | [[Ten of Swords]] |
 
 ### Court Cards
 
 | Rank | Card | Element | Status | Link |
 |------|------|---------|--------|------|
-| Page | Page of Swords | Earth of Air | 🟡 Partial | [[Page of Swords]] |
-| Knight | Knight of Swords | Air of Air | 🟡 Partial | [[Knight of Swords]] |
-| Queen | Queen of Swords | Water of Air | 🟡 Partial | [[Queen of Swords]] |
-| King | King of Swords | Fire of Air | 🟡 Partial | [[King of Swords]] |
+| Page | Page of Swords | Earth of Air | ✅ Complete | [[Page of Swords]] |
+| Knight | Knight of Swords | Air of Air | ✅ Complete | [[Knight of Swords]] |
+| Queen | Queen of Swords | Water of Air | ✅ Complete | [[Queen of Swords]] |
+| King | King of Swords | Fire of Air | ✅ Complete | [[King of Swords]] |
+
+**Reference Commits:**
+- e43d94b - Swords suit comprehensive revision (all 14 cards)
 
 ---
 
@@ -250,23 +251,26 @@ date_updated: 2026-01-15
 **Completed:**
 - ✅ Major Arcana (22/22) - All Tier 3
 - ✅ Minor Arcana: Wands (14/14) - All Tier 3
+- ✅ Minor Arcana: Cups (14/14) - All Tier 3
+- ✅ Minor Arcana: Swords (14/14) - All Tier 3
 
 **In Progress:**
-- 🔶 Minor Arcana: Cups (8/14 Tier 3) - **ACTIVE** (Ace-Eight complete, Nine-Ten + Courts remaining)
-- 🟡 Minor Arcana: Swords (0/14 Tier 3)
-- 🟡 Minor Arcana: Pentacles (0/14 Tier 3)
+- 🔶 Minor Arcana: Pentacles (0/14 Tier 3) - **ACTIVE**
 
 **Estimated Completion:**
-- Remaining: 34 cards (6 Cups + 14 Swords + 14 Pentacles)
-- At current pace (~5-7 cards per session): ~5-6 more sessions
-- Target: All 78 cards Tier 3 by end of January 2026
+- Remaining: 14 cards (Pentacles only)
+- At current pace (~5-7 cards per session): ~2-3 more sessions
+- Target: All 78 cards Tier 3 complete by end of January 2026
 
 ---
 
 ## Changelog
 
-- **2026-01-15:** Cups Eight expanded to Tier 3 (44/78 complete, 56%)
-- **2026-01-15:** Cups Four-Seven expanded to Tier 3 (43/78 complete, 55%)
+- **2026-01-16:** INDEX updated to reflect Swords and Cups completion (64/78 complete, 82%)
+- **2026-01-16:** Swords suit expanded to Tier 3 (all 14 cards, commit e43d94b)
+- **2026-01-16:** Cups Nine-Ten and Courts expanded to Tier 3 (commit 4788038)
+- **2026-01-15:** Cups Eight expanded to Tier 3
+- **2026-01-15:** Cups Four-Seven expanded to Tier 3
 - **2026-01-15:** Cups Ace-Three expanded to Tier 3
 - **2026-01-10:** Index created with complete card listing and status tracking
 
