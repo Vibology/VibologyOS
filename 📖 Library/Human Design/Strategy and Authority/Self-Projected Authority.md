@@ -1,5 +1,5 @@
 ---
-tags: [#human-design, #authority, #self-projected, #g-center, #identity, #voice, #archetypal]
+tags: [human-design, authority, self-projected, g-center, identity, voice, archetypal]
 system: Human Design
 authority_type: Self-Projected
 compatible_types: [Projector]

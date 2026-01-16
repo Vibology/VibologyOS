@@ -1,5 +1,5 @@
 ---
-tags: [#vibology, #angelology, #overview]
+tags: [vibology, angelology, overview]
 system: [Angelology]
 date_created: 2026-01-08
 ---

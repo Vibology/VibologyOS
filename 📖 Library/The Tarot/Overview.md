@@ -1,5 +1,5 @@
 ---
-tags: [#vibology, #tarot, #overview, #qabalah]
+tags: [vibology, tarot, overview, qabalah]
 system: [Tarot, Qabalah]
 date_created: 2026-01-08
 ---

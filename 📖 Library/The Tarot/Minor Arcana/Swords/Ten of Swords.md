@@ -1,5 +1,5 @@
 ---
-tags: [#tarot, #minor-arcana, #swords, #air, #malkuth, #gemini]
+tags: [tarot, minor-arcana, swords, air, malkuth, gemini]
 system: Tarot
 date_created: 2026-01-09
 suit: Swords

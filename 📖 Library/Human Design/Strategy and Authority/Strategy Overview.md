@@ -1,5 +1,5 @@
 ---
-tags: [#human-design, #strategy, #decision-making, #mechanics, #archetypal]
+tags: [human-design, strategy, decision-making, mechanics, archetypal]
 system: Human Design
 date_created: 2026-01-08
 ---

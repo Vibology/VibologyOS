@@ -1,5 +1,5 @@
 ---
-tags: [#astrology, #zodiac, #archetypal, #fire, #fixed]
+tags: [astrology, zodiac, archetypal, fire, fixed]
 system: Astrology
 date_created: 2026-01-08
 glyph: ♌

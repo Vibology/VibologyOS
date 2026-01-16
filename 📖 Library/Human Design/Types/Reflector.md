@@ -1,5 +1,5 @@
 ---
-tags: [#human-design, #type, #reflector, #lunar-cycle, #mirroring, #archetypal]
+tags: [human-design, type, reflector, lunar-cycle, mirroring, archetypal]
 system: Human Design
 type: Reflector
 population: 1%

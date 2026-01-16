@@ -1,5 +1,5 @@
 ---
-tags: [#human-design, #type, #generator, #manifesting-generator, #sacral, #archetypal]
+tags: [human-design, type, generator, manifesting-generator, sacral, archetypal]
 system: Human Design
 type: Generator (Pure & Manifesting)
 population: 70% (37% Pure, 33% Manifesting)

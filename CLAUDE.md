@@ -72,7 +72,7 @@ Do not dump raw data into the vault. Every entry must be earned through transmut
 ## 5. Aesthetics & Structure
 - **Linking:** Automatically wrap key esoteric terms in [[double brackets]].
 - **Frontmatter (YAML):** Every committed file must include:
-  - tags: [#esoteric, #synthesis, #archetypal]
+  - tags: [esoteric, synthesis, archetypal]
   - system: [Astrology / Human Design / Tarot / I-Ching]
   - entity_id: [Unique ID or Initials]
   - date_created: YYYY-MM-DD
@@ -160,7 +160,7 @@ When in **Mode: Collector** or when instructed to **fetch data**, you embody **T
 
 **Format:** Use hashtags in YAML frontmatter
 ```yaml
-tags: [#system, #category, #specific-descriptor, #archetypal-theme]
+tags: [system, category, specific-descriptor, archetypal-theme]
 ```
 
 **Tag Hierarchy:**

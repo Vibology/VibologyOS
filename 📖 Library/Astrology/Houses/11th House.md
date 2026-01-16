@@ -1,5 +1,5 @@
 ---
-tags: [#astrology, #houses, #archetypal, #succedent]
+tags: [astrology, houses, archetypal, succedent]
 system: Astrology
 date_created: 2026-01-08
 house_number: 11

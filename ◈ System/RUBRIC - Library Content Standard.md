@@ -1,5 +1,5 @@
 ---
-tags: [#system, #template, #rubric, #quality-standard]
+tags: [system, template, rubric, quality-standard]
 date_created: 2026-01-09
 purpose: Universal quality standard for all VibologyOS Library content
 applies_to: [Angelology, Astrology, Folklore, Human Design, The Magdalene Path, The Tarot, The Window]
@@ -22,7 +22,7 @@ This rubric establishes the quality standard for **all comprehensive library ent
 
 ```markdown
 ---
-tags: [#{system}, #{category}, #{specific-tags}]
+tags: [{system}, {category}, {specific-tags}]
 system: {Human Design / Astrology / Tarot / Qabalah / etc.}
 date_created: YYYY-MM-DD
 {system-specific YAML fields - see System Guidelines appendix}
@@ -533,7 +533,7 @@ tags: [tarot, minor-arcana, wands, fire, court, page]
 
 **Example (WRONG - will cause errors):**
 ```yaml
-tags: [#tarot, #minor-arcana, #wands, #fire]  # ❌ Invalid!
+tags: [tarot, minor-arcana, wands, fire]  # ❌ Invalid!
 ```
 
 ## Section 1: Foundational Material - Tarot
@@ -2129,7 +2129,7 @@ The Window covers: 64 Contemporary Patterns (modern archetypal names for the 64 
 ## YAML Frontmatter
 
 ```yaml
-tags: [#the-window, #contemporary-pattern, #{archetype}, #{house}]
+tags: [the-window, contemporary-pattern, {archetype}, {house}]
 system: The Window
 date_created: YYYY-MM-DD
 category: {Pattern/Archetype/House/Portal}
@@ -2381,7 +2381,7 @@ The Magdalene Path covers: The Vertical Soul Ascent (from material density to sa
 ## YAML Frontmatter
 
 ```yaml
-tags: [#magdalene-path, #vertical-ascent, #integration, #sacred-purpose]
+tags: [magdalene-path, vertical-ascent, integration, sacred-purpose]
 system: The Magdalene Path
 date_created: YYYY-MM-DD
 category: {Vertical Ascent/Sacred Principle/Integration Teaching/Seed of Life Structure}

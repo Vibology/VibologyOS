@@ -1,5 +1,5 @@
 ---
-tags: [#human-design, #authority, #mental, #environmental, #projector, #no-inner-authority, #archetypal]
+tags: [human-design, authority, mental, environmental, projector, no-inner-authority, archetypal]
 system: Human Design
 authority_type: Mental (Environmental)
 compatible_types: [Projector]

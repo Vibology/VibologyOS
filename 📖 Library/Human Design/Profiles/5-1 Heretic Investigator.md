@@ -1,5 +1,5 @@
 ---
-tags: [#human-design, #profile, #5-1, #heretic, #investigator, #left-angle, #trans-personal, #archetypal]
+tags: [human-design, profile, 5-1, heretic, investigator, left-angle, trans-personal, archetypal]
 system: Human Design
 profile: 5/1 Heretic Investigator
 angle: Left Angle (Trans-personal Karma)

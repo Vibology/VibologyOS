@@ -1,5 +1,5 @@
 ---
-tags: [#vibology, #the-window, #overview]
+tags: [vibology, the-window, overview]
 system: [The Window]
 date_created: 2026-01-08
 ---

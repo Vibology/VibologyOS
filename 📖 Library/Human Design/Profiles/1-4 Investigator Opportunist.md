@@ -1,5 +1,5 @@
 ---
-tags: [#human-design, #profile, #1-4, #investigator, #opportunist, #right-angle, #archetypal]
+tags: [human-design, profile, 1-4, investigator, opportunist, right-angle, archetypal]
 system: Human Design
 profile: 1/4 Investigator Opportunist
 angle: Right Angle (Personal Destiny)

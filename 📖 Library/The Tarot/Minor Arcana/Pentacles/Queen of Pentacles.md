@@ -1,5 +1,5 @@
 ---
-tags: [#tarot, #minor-arcana, #pentacles, #earth, #court, #queen, #water-of-earth, #nurturing, #abundance]
+tags: [tarot, minor-arcana, pentacles, earth, court, queen, water-of-earth, nurturing, abundance]
 system: Tarot
 date_created: 2026-01-09
 date_updated: 2026-01-16

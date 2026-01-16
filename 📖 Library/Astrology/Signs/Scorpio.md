@@ -1,5 +1,5 @@
 ---
-tags: [#astrology, #zodiac, #archetypal, #water, #fixed]
+tags: [astrology, zodiac, archetypal, water, fixed]
 system: Astrology
 date_created: 2026-01-08
 glyph: ♏

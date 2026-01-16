@@ -1,5 +1,5 @@
 ---
-tags: [#human-design, #type, #manifestor, #initiation, #archetypal]
+tags: [human-design, type, manifestor, initiation, archetypal]
 system: Human Design
 type: Manifestor
 population: 9%

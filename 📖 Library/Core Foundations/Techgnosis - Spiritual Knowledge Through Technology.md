@@ -1,5 +1,5 @@
 ---
-tags: [#vibology, #core, #techgnosis]
+tags: [vibology, core, techgnosis]
 date_created: 2026-01-08
 ---
 

@@ -1,5 +1,5 @@
 ---
-tags: [#human-design, #center, #head, #pressure, #inspiration, #archetypal]
+tags: [human-design, center, head, pressure, inspiration, archetypal]
 system: Human Design
 center_type: Pressure
 biological_correlation: Pineal Gland

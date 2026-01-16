@@ -1,5 +1,5 @@
 ---
-tags: [#human-design, #profile, #6-2, #role-model, #hermit, #left-angle, #trans-personal, #archetypal]
+tags: [human-design, profile, 6-2, role-model, hermit, left-angle, trans-personal, archetypal]
 system: Human Design
 profile: 6/2 Role Model Hermit
 angle: Left Angle (Trans-personal Karma)

@@ -1,5 +1,5 @@
 ---
-tags: [#human-design, #profile, #4-6, #opportunist, #role-model, #right-angle, #archetypal]
+tags: [human-design, profile, 4-6, opportunist, role-model, right-angle, archetypal]
 system: Human Design
 profile: 4/6 Opportunist Role Model
 angle: Right Angle (Personal Destiny)

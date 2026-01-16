@@ -1,5 +1,5 @@
 ---
-tags: [#astrology, #zodiac, #archetypal, #air, #fixed]
+tags: [astrology, zodiac, archetypal, air, fixed]
 system: Astrology
 date_created: 2026-01-08
 glyph: ♒

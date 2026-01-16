@@ -1,5 +1,5 @@
 ---
-tags: [#vibology, #human-design, #overview]
+tags: [vibology, human-design, overview]
 system: [Human Design]
 date_created: 2026-01-08
 ---

@@ -1,5 +1,5 @@
 ---
-tags: [#human-design, #profile, #2-5, #hermit, #heretic, #right-angle, #archetypal]
+tags: [human-design, profile, 2-5, hermit, heretic, right-angle, archetypal]
 system: Human Design
 profile: 2/5 Hermit Heretic
 angle: Right Angle (Personal Destiny)

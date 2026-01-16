@@ -1,5 +1,5 @@
 ---
-tags: [#tarot, #minor-arcana, #swords, #air, #chokmah, #libra]
+tags: [tarot, minor-arcana, swords, air, chokmah, libra]
 system: Tarot
 date_created: 2026-01-09
 suit: Swords

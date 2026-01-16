@@ -1,5 +1,5 @@
 ---
-tags: [#human-design, #center, #g-center, #identity, #self, #love, #direction, #archetypal]
+tags: [human-design, center, g-center, identity, self, love, direction, archetypal]
 system: Human Design
 center_type: Identity
 biological_correlation: Liver and Blood

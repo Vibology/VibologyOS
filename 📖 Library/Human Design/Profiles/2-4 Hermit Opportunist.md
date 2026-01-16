@@ -1,5 +1,5 @@
 ---
-tags: [#human-design, #profile, #2-4, #hermit, #opportunist, #right-angle, #archetypal]
+tags: [human-design, profile, 2-4, hermit, opportunist, right-angle, archetypal]
 system: Human Design
 profile: 2/4 Hermit Opportunist
 angle: Right Angle (Personal Destiny)

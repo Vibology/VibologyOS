@@ -1,5 +1,5 @@
 ---
-tags: [#astrology, #planets, #archetypal, #plutonian]
+tags: [astrology, planets, archetypal, plutonian]
 system: Astrology
 date_created: 2026-01-08
 glyph: ♇

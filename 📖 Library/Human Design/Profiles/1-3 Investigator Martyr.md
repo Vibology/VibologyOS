@@ -1,5 +1,5 @@
 ---
-tags: [#human-design, #profile, #1-3, #investigator, #martyr, #right-angle, #archetypal]
+tags: [human-design, profile, 1-3, investigator, martyr, right-angle, archetypal]
 system: Human Design
 profile: 1/3 Investigator Martyr
 angle: Right Angle (Personal Destiny)

@@ -1,5 +1,5 @@
 ---
-tags: [#human-design, #authority, #sacral, #response, #generator, #archetypal]
+tags: [human-design, authority, sacral, response, generator, archetypal]
 system: Human Design
 authority_type: Sacral
 compatible_types: [Generator, Manifesting Generator]

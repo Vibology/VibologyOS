@@ -1,5 +1,5 @@
 ---
-tags: [#human-design, #authority, #ego, #heart, #willpower, #commitment, #archetypal]
+tags: [human-design, authority, ego, heart, willpower, commitment, archetypal]
 system: Human Design
 authority_type: Ego (Heart)
 compatible_types: [Manifestor, Projector]

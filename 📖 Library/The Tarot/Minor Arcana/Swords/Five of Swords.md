@@ -1,5 +1,5 @@
 ---
-tags: [#tarot, #minor-arcana, #swords, #air, #geburah, #aquarius]
+tags: [tarot, minor-arcana, swords, air, geburah, aquarius]
 system: Tarot
 date_created: 2026-01-09
 suit: Swords

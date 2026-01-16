@@ -1,5 +1,5 @@
 ---
-tags: [#vibology, #core, #blueprint, #444]
+tags: [vibology, core, blueprint, 444]
 date_created: 2026-01-08
 ---
 

@@ -1,5 +1,5 @@
 ---
-tags: [#human-design, #profile, #5-2, #heretic, #hermit, #left-angle, #trans-personal, #archetypal]
+tags: [human-design, profile, 5-2, heretic, hermit, left-angle, trans-personal, archetypal]
 system: Human Design
 profile: 5/2 Heretic Hermit
 angle: Left Angle (Trans-personal Karma)

@@ -1,5 +1,5 @@
 ---
-tags: [#tarot, #minor-arcana, #pentacles, #earth, #court, #knight, #air-of-earth, #reliability, #persistence]
+tags: [tarot, minor-arcana, pentacles, earth, court, knight, air-of-earth, reliability, persistence]
 system: Tarot
 date_created: 2026-01-09
 date_updated: 2026-01-16

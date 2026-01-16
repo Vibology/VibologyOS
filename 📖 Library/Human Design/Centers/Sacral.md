@@ -1,5 +1,5 @@
 ---
-tags: [#human-design, #center, #sacral, #motor, #life-force, #generator, #response, #archetypal]
+tags: [human-design, center, sacral, motor, life-force, generator, response, archetypal]
 system: Human Design
 center_type: Motor
 biological_correlation: Ovaries and Testes

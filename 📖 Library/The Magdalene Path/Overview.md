@@ -1,5 +1,5 @@
 ---
-tags: [#vibology, #magdalene-path, #overview]
+tags: [vibology, magdalene-path, overview]
 system: [The Magdalene Path]
 date_created: 2026-01-08
 ---

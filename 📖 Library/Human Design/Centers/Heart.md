@@ -1,5 +1,5 @@
 ---
-tags: [#human-design, #center, #heart, #ego, #will, #motor, #commitment, #archetypal]
+tags: [human-design, center, heart, ego, will, motor, commitment, archetypal]
 system: Human Design
 center_type: Motor
 biological_correlation: Heart, Stomach, Thymus Gland, Gall Bladder

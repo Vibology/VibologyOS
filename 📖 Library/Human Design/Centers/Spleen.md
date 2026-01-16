@@ -1,5 +1,5 @@
 ---
-tags: [#human-design, #center, #spleen, #awareness, #survival, #instinct, #health, #archetypal]
+tags: [human-design, center, spleen, awareness, survival, instinct, health, archetypal]
 system: Human Design
 center_type: Awareness
 biological_correlation: Lymphatic System, Spleen, T-Cells

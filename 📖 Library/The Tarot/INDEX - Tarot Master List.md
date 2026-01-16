@@ -1,5 +1,5 @@
 ---
-tags: [#index, #tarot, #navigation]
+tags: [index, tarot, navigation]
 date_created: 2026-01-10
 date_updated: 2026-01-15
 ---

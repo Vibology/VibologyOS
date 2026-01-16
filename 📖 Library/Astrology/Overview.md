@@ -1,5 +1,5 @@
 ---
-tags: [#vibology, #astrology, #overview]
+tags: [vibology, astrology, overview]
 system: [Astrology]
 date_created: 2026-01-08
 ---

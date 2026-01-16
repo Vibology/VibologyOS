@@ -1,5 +1,5 @@
 ---
-tags: [#astrology, #transits, #timing, #individuation, #deconditioning]
+tags: [astrology, transits, timing, individuation, deconditioning]
 system: Astrology
 date_created: 2026-01-08
 ---

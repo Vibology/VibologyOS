@@ -1,5 +1,5 @@
 ---
-tags: [#astrology, #houses, #archetypal, #angular]
+tags: [astrology, houses, archetypal, angular]
 system: Astrology
 date_created: 2026-01-08
 house_number: 10

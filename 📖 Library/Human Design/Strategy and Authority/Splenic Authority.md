@@ -1,5 +1,5 @@
 ---
-tags: [#human-design, #authority, #splenic, #instinct, #survival, #archetypal]
+tags: [human-design, authority, splenic, instinct, survival, archetypal]
 system: Human Design
 authority_type: Splenic
 compatible_types: [Manifestor, Projector]

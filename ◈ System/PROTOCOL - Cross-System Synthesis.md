@@ -1,5 +1,5 @@
 ---
-tags: [#system, #protocol, #synthesis, #cross-system, #methodology]
+tags: [system, protocol, synthesis, cross-system, methodology]
 date_created: 2026-01-10
 version: 1.0
 status: Active
@@ -259,7 +259,7 @@ Write the synthesis piece using the template (see Section IV).
 
 ```markdown
 ---
-tags: [#synthesis, #cross-system, {#system-tags}, {#archetypal-themes}]
+tags: [synthesis, cross-system, {#system-tags}, {#archetypal-themes}]
 systems_integrated: [{List of systems used}]
 entity_id: {JW / Client initials / "Universal" if archetypal teaching}
 date_created: YYYY-MM-DD

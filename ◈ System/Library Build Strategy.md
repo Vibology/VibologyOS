@@ -1,5 +1,5 @@
 ---
-tags: [#vibology, #strategy, #planning, #library]
+tags: [vibology, strategy, planning, library]
 date_created: 2026-01-08
 status: active
 ---

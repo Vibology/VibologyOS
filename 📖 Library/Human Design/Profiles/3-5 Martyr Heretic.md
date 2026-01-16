@@ -1,5 +1,5 @@
 ---
-tags: [#human-design, #profile, #3-5, #martyr, #heretic, #right-angle, #archetypal]
+tags: [human-design, profile, 3-5, martyr, heretic, right-angle, archetypal]
 system: Human Design
 profile: 3/5 Martyr Heretic
 angle: Right Angle (Personal Destiny)

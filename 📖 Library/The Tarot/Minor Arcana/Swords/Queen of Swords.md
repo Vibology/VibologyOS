@@ -1,5 +1,5 @@
 ---
-tags: [#tarot, #minor-arcana, #swords, #air, #court, #water-of-air]
+tags: [tarot, minor-arcana, swords, air, court, water-of-air]
 system: Tarot
 date_created: 2026-01-09
 suit: Swords

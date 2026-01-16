@@ -1,5 +1,5 @@
 ---
-tags: [#tarot, #minor-arcana, #swords, #air, #netzach, #aquarius]
+tags: [tarot, minor-arcana, swords, air, netzach, aquarius]
 system: Tarot
 date_created: 2026-01-09
 suit: Swords

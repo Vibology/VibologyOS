@@ -1,5 +1,5 @@
 ---
-tags: [#tarot, #minor-arcana, #swords, #air, #binah, #libra]
+tags: [tarot, minor-arcana, swords, air, binah, libra]
 system: Tarot
 date_created: 2026-01-09
 suit: Swords

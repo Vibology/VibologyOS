@@ -1,5 +1,5 @@
 ---
-tags: [#vibology, #folklore, #overview, #jungian]
+tags: [vibology, folklore, overview, jungian]
 system: [Folklore, Jungian Psychology]
 date_created: 2026-01-08
 ---

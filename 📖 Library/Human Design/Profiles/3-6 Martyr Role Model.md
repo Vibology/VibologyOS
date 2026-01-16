@@ -1,5 +1,5 @@
 ---
-tags: [#human-design, #profile, #3-6, #martyr, #role-model, #right-angle, #archetypal]
+tags: [human-design, profile, 3-6, martyr, role-model, right-angle, archetypal]
 system: Human Design
 profile: 3/6 Martyr Role Model
 angle: Right Angle (Personal Destiny)

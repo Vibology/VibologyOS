@@ -1,5 +1,5 @@
 ---
-tags: [#astrology, #planets, #archetypal, #venusian]
+tags: [astrology, planets, archetypal, venusian]
 system: Astrology
 date_created: 2026-01-08
 glyph: ♀

@@ -1,5 +1,5 @@
 ---
-tags: [#tarot, #minor-arcana, #pentacles, #earth, #malkuth, #mercury, #virgo, #legacy, #family]
+tags: [tarot, minor-arcana, pentacles, earth, malkuth, mercury, virgo, legacy, family]
 system: Tarot
 date_created: 2026-01-09
 date_updated: 2026-01-16

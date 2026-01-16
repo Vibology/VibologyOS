@@ -1,5 +1,5 @@
 ---
-tags: [#system, #configuration, #technical]
+tags: [system, configuration, technical]
 date_created: 2026-01-08
 status: reference
 ---

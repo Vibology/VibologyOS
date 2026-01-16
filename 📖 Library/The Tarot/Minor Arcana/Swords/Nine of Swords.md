@@ -1,5 +1,5 @@
 ---
-tags: [#tarot, #minor-arcana, #swords, #air, #yesod, #gemini]
+tags: [tarot, minor-arcana, swords, air, yesod, gemini]
 system: Tarot
 date_created: 2026-01-09
 suit: Swords

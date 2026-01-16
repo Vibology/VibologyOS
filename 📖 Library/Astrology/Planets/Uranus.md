@@ -1,5 +1,5 @@
 ---
-tags: [#astrology, #planets, #archetypal, #uranian]
+tags: [astrology, planets, archetypal, uranian]
 system: Astrology
 date_created: 2026-01-08
 glyph: ♅

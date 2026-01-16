@@ -1,5 +1,5 @@
 ---
-tags: [#astrology, #planets, #archetypal, #martial]
+tags: [astrology, planets, archetypal, martial]
 system: Astrology
 date_created: 2026-01-08
 glyph: ♂

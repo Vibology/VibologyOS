@@ -1,5 +1,5 @@
 ---
-tags: [#astrology, #planets, #archetypal, #saturnian]
+tags: [astrology, planets, archetypal, saturnian]
 system: Astrology
 date_created: 2026-01-08
 glyph: ♄

@@ -1,5 +1,5 @@
 ---
-tags: [#human-design, #profile, #6-3, #role-model, #martyr, #left-angle, #trans-personal, #archetypal]
+tags: [human-design, profile, 6-3, role-model, martyr, left-angle, trans-personal, archetypal]
 system: Human Design
 profile: 6/3 Role Model Martyr
 angle: Left Angle (Trans-personal Karma)

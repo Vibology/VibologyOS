@@ -1,5 +1,5 @@
 ---
-tags: [#human-design, #center, #root, #pressure, #motor, #adrenaline, #stress, #archetypal]
+tags: [human-design, center, root, pressure, motor, adrenaline, stress, archetypal]
 system: Human Design
 center_type: Pressure and Motor
 biological_correlation: Adrenal System and Stress Hormones

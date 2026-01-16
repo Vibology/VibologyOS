@@ -1,5 +1,5 @@
 ---
-tags: [#vibology, #core, #authority, #strategy]
+tags: [vibology, core, authority, strategy]
 date_created: 2026-01-08
 ---
 

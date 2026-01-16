@@ -1,5 +1,5 @@
 ---
-tags: [#vibology, #core, #navigation]
+tags: [vibology, core, navigation]
 date_created: 2026-01-08
 ---
 

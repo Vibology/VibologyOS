@@ -1,5 +1,5 @@
 ---
-tags: [#astrology, #planets, #archetypal, #mercurial]
+tags: [astrology, planets, archetypal, mercurial]
 system: Astrology
 date_created: 2026-01-08
 glyph: ☿

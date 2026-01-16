@@ -1,5 +1,5 @@
 ---
-tags: [#astrology, #planets, #archetypal, #solar]
+tags: [astrology, planets, archetypal, solar]
 system: Astrology
 date_created: 2026-01-08
 glyph: ☉

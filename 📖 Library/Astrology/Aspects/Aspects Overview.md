@@ -1,5 +1,5 @@
 ---
-tags: [#astrology, #aspects, #archetypal, #synthesis]
+tags: [astrology, aspects, archetypal, synthesis]
 system: Astrology
 date_created: 2026-01-08
 ---

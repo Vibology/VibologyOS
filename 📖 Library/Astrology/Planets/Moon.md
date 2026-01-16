@@ -1,5 +1,5 @@
 ---
-tags: [#astrology, #planets, #archetypal, #lunar]
+tags: [astrology, planets, archetypal, lunar]
 system: Astrology
 date_created: 2026-01-08
 glyph: ☽

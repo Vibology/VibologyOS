@@ -1,5 +1,5 @@
 ---
-tags: [#astrology, #zodiac, #archetypal, #earth, #mutable]
+tags: [astrology, zodiac, archetypal, earth, mutable]
 system: Astrology
 date_created: 2026-01-08
 glyph: ♍

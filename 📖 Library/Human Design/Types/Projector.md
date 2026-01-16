@@ -1,5 +1,5 @@
 ---
-tags: [#human-design, #type, #projector, #invitation, #recognition, #archetypal]
+tags: [human-design, type, projector, invitation, recognition, archetypal]
 system: Human Design
 type: Projector
 population: 21%

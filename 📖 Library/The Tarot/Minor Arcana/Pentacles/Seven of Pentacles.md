@@ -1,5 +1,5 @@
 ---
-tags: [#tarot, #minor-arcana, #pentacles, #earth, #netzach, #saturn, #taurus, #patience, #assessment]
+tags: [tarot, minor-arcana, pentacles, earth, netzach, saturn, taurus, patience, assessment]
 system: Tarot
 date_created: 2026-01-09
 date_updated: 2026-01-16

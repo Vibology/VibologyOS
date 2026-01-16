@@ -1,5 +1,5 @@
 ---
-tags: [#human-design, #center, #ajna, #mind, #awareness, #conceptualization, #archetypal]
+tags: [human-design, center, ajna, mind, awareness, conceptualization, archetypal]
 system: Human Design
 center_type: Awareness
 biological_correlation: Anterior and Posterior Pituitary Glands

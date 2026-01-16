@@ -1,5 +1,5 @@
 ---
-tags: [#astrology, #houses, #archetypal, #cadent]
+tags: [astrology, houses, archetypal, cadent]
 system: Astrology
 date_created: 2026-01-08
 house_number: 9

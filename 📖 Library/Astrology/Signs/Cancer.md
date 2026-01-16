@@ -1,5 +1,5 @@
 ---
-tags: [#astrology, #zodiac, #archetypal, #water, #cardinal]
+tags: [astrology, zodiac, archetypal, water, cardinal]
 system: Astrology
 date_created: 2026-01-08
 glyph: ♋

@@ -1,5 +1,5 @@
 ---
-tags: [#astrology, #zodiac, #archetypal, #air, #cardinal]
+tags: [astrology, zodiac, archetypal, air, cardinal]
 system: Astrology
 date_created: 2026-01-08
 glyph: ♎

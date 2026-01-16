@@ -1,5 +1,5 @@
 ---
-tags: [#human-design, #authority, #emotional, #solar-plexus, #wave, #archetypal]
+tags: [human-design, authority, emotional, solar-plexus, wave, archetypal]
 system: Human Design
 authority_type: Emotional (Solar Plexus)
 compatible_types: [Manifestor, Generator, Projector]

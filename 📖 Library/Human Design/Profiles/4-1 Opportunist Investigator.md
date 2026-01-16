@@ -1,5 +1,5 @@
 ---
-tags: [#human-design, #profile, #4-1, #opportunist, #investigator, #juxtaposition, #fixed-fate, #archetypal]
+tags: [human-design, profile, 4-1, opportunist, investigator, juxtaposition, fixed-fate, archetypal]
 system: Human Design
 profile: 4/1 Opportunist Investigator
 angle: Juxtaposition (Fixed Fate)

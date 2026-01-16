@@ -1,5 +1,5 @@
 ---
-tags: [#system, #protocol, #search, #navigation, #taxonomy]
+tags: [system, protocol, search, navigation, taxonomy]
 date_created: 2026-01-10
 version: 1.0
 status: Active
@@ -75,7 +75,7 @@ As the Library grows (currently 159 files across 7 pillars, expanding toward 500
 
 1. **Tag Inconsistency**
    - Tarot uses tags without hashtags: `[tarot, major-arcana, archetypal]`
-   - Astrology/HD use hashtags: `[#astrology, #planets, #archetypal]`
+   - Astrology/HD use hashtags: `[#astrology, planets, archetypal]`
    - No documented taxonomy or conventions
 
 2. **No Index System**
@@ -103,13 +103,13 @@ As the Library grows (currently 159 files across 7 pillars, expanding toward 500
 **Format:** Use hashtags for all tags in YAML frontmatter (Obsidian best practice)
 
 ```yaml
-tags: [#system, #category, #specific-descriptor, #archetypal-theme]
+tags: [system, category, specific-descriptor, archetypal-theme]
 ```
 
 **Examples:**
-- `tags: [#tarot, #major-arcana, #archetypal, #mercury]`
-- `tags: [#astrology, #planets, #archetypal, #saturnian]`
-- `tags: [#human-design, #type, #generator, #sacral]`
+- `tags: [tarot, major-arcana, archetypal, mercury]`
+- `tags: [astrology, planets, archetypal, saturnian]`
+- `tags: [human-design, type, generator, sacral]`
 
 ### Tag Hierarchy (Four Levels)
 
@@ -219,7 +219,7 @@ High-level archetypal themes that span multiple systems. Use sparingly for major
 - Don't use spaces: `#human design` → `#human-design`
 - Don't use underscores: `#major_arcana` → `#major-arcana`
 - Don't use camelCase: `#MajorArcana` → `#major-arcana`
-- Don't create redundant tags: `[#tarot, #tarot-cards]` → just `[#tarot]`
+- Don't create redundant tags: `[#tarot, tarot-cards]` → just `[#tarot]`
 
 ### Migration Plan for Existing Files
 
@@ -411,7 +411,7 @@ Index files provide **at-a-glance navigation** for each pillar, showing:
 
 ```markdown
 ---
-tags: [#index, #{system}, #navigation]
+tags: [index, {system}, navigation]
 date_created: YYYY-MM-DD
 date_updated: YYYY-MM-DD
 ---
@@ -650,13 +650,13 @@ grep -r "\[\[.*\]\]" "📖 Library/The Tarot" --include="*.md" | grep -i "saturn
 
 ```yaml
 # Template
-tags: [#system, #category, #specific-descriptor, #archetypal-theme]
+tags: [system, category, specific-descriptor, archetypal-theme]
 
 # Examples
-tags: [#tarot, #major-arcana, #fire, #transformation]
-tags: [#astrology, #planets, #saturnian, #authority]
-tags: [#human-design, #type, #generator, #sacral]
-tags: [#synthesis, #cross-system, #death-rebirth]
+tags: [tarot, major-arcana, fire, transformation]
+tags: [astrology, planets, saturnian, authority]
+tags: [human-design, type, generator, sacral]
+tags: [synthesis, cross-system, death-rebirth]
 ```
 
 ### Common Search Commands

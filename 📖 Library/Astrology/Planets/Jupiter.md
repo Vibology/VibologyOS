@@ -1,5 +1,5 @@
 ---
-tags: [#astrology, #planets, #archetypal, #jovian]
+tags: [astrology, planets, archetypal, jovian]
 system: Astrology
 date_created: 2026-01-08
 glyph: ♃

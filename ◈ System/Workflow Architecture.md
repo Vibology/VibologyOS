@@ -1,5 +1,5 @@
 ---
-tags: [#system, #architecture, #workflow, #technical-documentation]
+tags: [system, architecture, workflow, technical-documentation]
 date_created: 2026-01-09
 purpose: Technical documentation of VibologyOS workflow architecture and orchestration patterns
 audience: External (portfolio, hiring managers, technical evaluation)
@@ -699,7 +699,7 @@ Step 5: Commit
 
 **Tarot Major Arcana:**
 ```yaml
-tags: [#tarot, #major-arcana, #{hebrew-letter}, #{path}]
+tags: [tarot, major-arcana, {hebrew-letter}, {path}]
 system: Tarot
 date_created: YYYY-MM-DD
 number: {0-21}

@@ -11,10 +11,14 @@
             "id": "7132180cd9e2ca85",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "The Tarot/Minor Arcana/Cups/Ace of Cups.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Ace of Cups"
             }
           }
         ]
@@ -179,8 +183,31 @@
       "bases:Create new base": false
     }
   },
-  "active": "c8635849c76cb2fa",
+  "active": "7132180cd9e2ca85",
   "lastOpenFiles": [
+    "The Tarot/sedav7fIQ",
+    "The Tarot/Minor Arcana/Swords/sedJWOGpM",
+    "The Tarot/Minor Arcana/Swords/sedX5YA7D",
+    "The Tarot/Minor Arcana/Swords/sedBukdrz",
+    "The Tarot/Minor Arcana/Swords/sedEWq7iR",
+    "The Tarot/Minor Arcana/Swords/sedFMlqhQ",
+    "The Tarot/Minor Arcana/Swords/sedL7JqEn",
+    "The Tarot/Minor Arcana/Swords/sedlEXsL0",
+    "Human Design/Centers/sedpBHsbW",
+    "Folklore/sed56KGUb",
+    "Astrology/Houses/sedYYEGTm",
+    "The Tarot/Minor Arcana/Cups/Two of Cups.md",
+    "The Tarot/Minor Arcana/Cups/Ten of Cups.md",
+    "The Tarot/Minor Arcana/Cups/Six of Cups.md",
+    "The Tarot/Minor Arcana/Cups/Queen of Cups.md",
+    "The Tarot/Minor Arcana/Cups/Knight of Cups.md",
+    "The Tarot/Minor Arcana/Cups/Four of Cups.md",
+    "The Tarot/Minor Arcana/Cups/Eight of Cups.md",
+    "The Tarot/Minor Arcana/Cups/Ace of Cups.md",
+    "The Tarot/Minor Arcana/Pentacles/Knight of Pentacles.md",
+    "The Tarot/Major Arcana/0 - The Fool.md",
+    "The Tarot/INDEX - Tarot Master List.md",
+    "The Tarot/Overview.md",
     "The Tarot/Major Arcana/20 - Judgement.md",
     "The Tarot/Major Arcana/19 - The Sun.md",
     "The Tarot/Major Arcana/18 - The Moon.md",
@@ -193,29 +220,6 @@
     "The Tarot/Major Arcana/11 - Justice.md",
     "The Tarot/Major Arcana/10 - Wheel of Fortune.md",
     "The Tarot/Major Arcana/9 - The Hermit.md",
-    "The Tarot/Major Arcana/8 - Strength.md",
-    "The Tarot/Major Arcana/7 - The Chariot.md",
-    "The Tarot/Major Arcana/6 - The Lovers.md",
-    "The Tarot/Major Arcana/5 - The Hierophant.md",
-    "The Tarot/Major Arcana/4 - The Emperor.md",
-    "The Tarot/Major Arcana/3 - The Empress.md",
-    "The Tarot/Major Arcana/2 - The High Priestess.md",
-    "The Tarot/Major Arcana/1 - The Magician.md",
-    "The Tarot/Major Arcana/0 - The Fool.md",
-    "The Tarot/Minor Arcana/Wands/Two of Wands.md",
-    "The Tarot/Minor Arcana/Wands/Three of Wands.md",
-    "The Tarot/Minor Arcana/Wands/Ten of Wands.md",
-    "The Tarot/Minor Arcana/Wands/Six of Wands.md",
-    "The Tarot/Minor Arcana/Wands/Seven of Wands.md",
-    "The Tarot/Minor Arcana/Wands/King of Wands.md.tmp.96298.1768017755516",
-    "The Tarot/Minor Arcana/Wands/Queen of Wands.md.tmp.96298.1768017755098",
-    "The Tarot/Minor Arcana/Wands/Knight of Wands.md.tmp.96298.1768017754693",
-    "The Tarot/Minor Arcana/Wands/Page of Wands.md.tmp.96298.1768017754310",
-    "The Tarot/Minor Arcana/Wands/Ten of Wands.md.tmp.96298.1768017753933",
-    "The Tarot/Minor Arcana/Wands/Nine of Wands.md.tmp.96298.1768017753589",
-    "The Tarot/Minor Arcana/Wands/Eight of Wands.md.tmp.96298.1768017753503",
-    "The Tarot/Minor Arcana/Wands/Seven of Wands.md.tmp.96298.1768017753417",
-    "The Tarot/Minor Arcana/Wands/Six of Wands.md.tmp.96298.1768017753341",
-    "The Tarot/Minor Arcana/Wands/Five of Wands.md.tmp.96298.1768017725799"
+    "The Tarot/Major Arcana/8 - Strength.md"
   ]
 }

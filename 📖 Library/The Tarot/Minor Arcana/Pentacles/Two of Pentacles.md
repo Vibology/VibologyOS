@@ -1,5 +1,5 @@
 ---
-tags: [#tarot, #minor-arcana, #pentacles, #earth, #chokmah, #jupiter, #capricorn]
+tags: [tarot, minor-arcana, pentacles, earth, chokmah, jupiter, capricorn]
 system: Tarot
 date_created: 2026-01-09
 date_updated: 2026-01-16

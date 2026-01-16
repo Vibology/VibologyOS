@@ -1,5 +1,5 @@
 ---
-tags: [#system, #workflow, #guide]
+tags: [system, workflow, guide]
 date_created: 2026-01-08
 status: reference
 ---

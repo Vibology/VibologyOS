@@ -1,5 +1,5 @@
 ---
-tags: [#human-design, #center, #solar-plexus, #emotional, #awareness, #motor, #wave, #archetypal]
+tags: [human-design, center, solar-plexus, emotional, awareness, motor, wave, archetypal]
 system: Human Design
 center_type: Awareness and Motor
 biological_correlation: Kidney, Bladder, Pancreas, Lungs, Nervous System

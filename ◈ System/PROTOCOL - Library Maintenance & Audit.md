@@ -1,5 +1,5 @@
 ---
-tags: [#system, #protocol, #maintenance, #audit, #library-quality]
+tags: [system, protocol, maintenance, audit, library-quality]
 date_created: 2026-01-10
 version: 1.0
 status: Active
@@ -532,7 +532,7 @@ reason: [Brief explanation]
 #### Step 2: Update YAML Frontmatter
 
 ```yaml
-tags: [#deprecated, #archived, #original-tags]
+tags: [deprecated, archived, original-tags]
 status: deprecated
 date_deprecated: 2026-01-10
 superseded_by: "[[New Entry]]"
@@ -685,7 +685,7 @@ Index files provide:
 
 ```markdown
 ---
-tags: [#index, #master-list, #[system]]
+tags: [index, master-list, [system]]
 date_created: YYYY-MM-DD
 date_updated: YYYY-MM-DD
 ---
@@ -801,7 +801,7 @@ Create new file for each audit: `◈ System/Audit Logs/YYYY-MM-DD - Q[X] Library
 
 ```markdown
 ---
-tags: [#audit, #maintenance, #library-quality]
+tags: [audit, maintenance, library-quality]
 date: YYYY-MM-DD
 quarter: Q[X] YYYY
 auditor: [Your entity_id or "System"]

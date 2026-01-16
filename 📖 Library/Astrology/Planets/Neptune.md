@@ -1,5 +1,5 @@
 ---
-tags: [#astrology, #planets, #archetypal, #neptunian]
+tags: [astrology, planets, archetypal, neptunian]
 system: Astrology
 date_created: 2026-01-08
 glyph: ♆

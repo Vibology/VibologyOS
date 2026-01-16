@@ -1,5 +1,5 @@
 ---
-tags: [#human-design, #center, #throat, #manifestation, #communication, #voice, #archetypal]
+tags: [human-design, center, throat, manifestation, communication, voice, archetypal]
 system: Human Design
 center_type: Manifestation
 biological_correlation: Thyroid and Parathyroid Glands
