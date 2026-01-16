@@ -11,7 +11,7 @@ date_created: 2026-01-08
 
 ## Definition
 
-**Sacral Authority** is defined by a **defined [[Sacral Center]]** *without* a defined [[Solar Plexus]]. If the Solar Plexus is defined, it overrides the Sacral, and the person has [[Emotional Authority]] instead.
+**Sacral Authority** is defined by a **defined [[Sacral]]** *without* a defined [[Solar Plexus]]. If the Solar Plexus is defined, it overrides the Sacral, and the person has [[Emotional Authority]] instead.
 
 Sacral Authority is the exclusive domain of **[[Generator]]s** (both Pure and Manifesting Generators)—the only Types with a defined Sacral Center.
 
@@ -143,7 +143,7 @@ Generators with Sacral Authority bring:
 
 ## Cross-References
 
-- **Sacral Center:** See [[Sacral Center]] for the mechanical basis of Sacral Authority
+- **Sacral Center:** See [[Sacral]] for the mechanical basis of Sacral Authority
 - **Generator Strategy:** See [[Generator#Strategy: To Wait to Respond]]
 - **Other Authorities:** See [[Emotional Authority]], [[Splenic Authority]], [[Ego Authority]], [[Self-Projected Authority]], [[Mental Authority]]
 - **Jungian Parallel:** The [[Body]] as oracle—soma over psyche

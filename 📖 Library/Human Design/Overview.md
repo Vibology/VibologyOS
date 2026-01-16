@@ -4,7 +4,6 @@ system: Human Design
 date_created: 2026-01-08
 date_updated: 2026-01-16
 ---
-
 # Human Design: The Mechanics of Differentiation
 
 **Pillar 4 of 7** — Individual genetic imprinting and mechanical navigation.
@@ -43,7 +42,7 @@ Human Design operates through seven interrelated mechanical layers:
 
 ### 1. The Four Types
 
-The **Type** is determined by the configuration of defined Centers, specifically the presence or absence of the [[Sacral Center]] and motor-to-[[Throat Center]] connections. Type reveals *how* you are designed to engage with life:
+The **Type** is determined by the configuration of defined Centers, specifically the presence or absence of the [[Sacral]] and motor-to-[[Throat]] connections. Type reveals *how* you are designed to engage with life:
 
 - **[[Manifestor]]** (~9%) — Motor to Throat, no Sacral. Designed to **initiate**. Strategy: To Inform.
 - **[[Generator]]** (~70% total: 37% Pure, 33% Manifesting) — Defined Sacral. Designed to **respond** and sustain. Strategy: To Wait to Respond.

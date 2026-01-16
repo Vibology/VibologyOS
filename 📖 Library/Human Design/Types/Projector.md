@@ -15,8 +15,8 @@ date_created: 2026-01-08
 ## Definition
 
 The Projector is defined by two absences:
-1. **Undefined [[Sacral Center]]** — No sustainable life force motor
-2. **No motor connection to the [[Throat Center]]** — No inherent capacity to initiate or manifest energy into action
+1. **Undefined [[Sacral]]** — No sustainable life force motor
+2. **No motor connection to the [[Throat]]** — No inherent capacity to initiate or manifest energy into action
 
 This double absence is not deficit but **specialization**: the Projector is designed to *see* and *guide* energy, not to generate or initiate it. They are the wisdom-keepers, the administrators, and the mediators of the emerging order.
 

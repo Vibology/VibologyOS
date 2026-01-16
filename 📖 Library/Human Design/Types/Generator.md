@@ -14,12 +14,12 @@ date_created: 2026-01-08
 
 ## Definition
 
-Generators are defined by a **defined [[Sacral Center]]**—the motor of sustainable life force energy. This single mechanical feature distinguishes them as the energetic majority of humanity, the builders and sustainers of civilization.
+Generators are defined by a **defined [[Sacral]]**—the motor of sustainable life force energy. This single mechanical feature distinguishes them as the energetic majority of humanity, the builders and sustainers of civilization.
 
 ### Two Subtypes
 
 **Pure Generator:**
-Defined Sacral Center without a direct motor connection to the [[Throat Center]].
+Defined Sacral Center without a direct motor connection to the [[Throat]].
 
 **Manifesting Generator:**
 Defined Sacral motor connected **directly** to the Throat Center, creating a hybrid expression that blends Generator response with Manifestor-like speed and multi-tasking capacity.

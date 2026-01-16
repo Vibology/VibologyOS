@@ -14,7 +14,7 @@ date_created: 2026-01-08
 
 ## Definition
 
-The Manifestor possesses a **direct or indirect connection** between the [[Throat Center]] and one or more of the three motor centers ([[Heart]], [[Solar Plexus]], or [[Root]]), while conspicuously **lacking Sacral definition**. This mechanical configuration creates the only "pure doer" in the Human Design system—a being designed to initiate action without requiring external permission or response.
+The Manifestor possesses a **direct or indirect connection** between the [[Throat]] and one or more of the three motor centers ([[Heart]], [[Solar Plexus]], or [[Root]]), while conspicuously **lacking Sacral definition**. This mechanical configuration creates the only "pure doer" in the Human Design system—a being designed to initiate action without requiring external permission or response.
 
 ---
 

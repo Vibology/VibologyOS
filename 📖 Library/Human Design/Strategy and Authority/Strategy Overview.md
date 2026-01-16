@@ -2,6 +2,7 @@
 tags: [human-design, strategy, decision-making, mechanics, archetypal]
 system: Human Design
 date_created: 2026-01-08
+date_updated: 2026-01-16
 ---
 
 # Strategy: The Geometry of Correct Movement
@@ -24,6 +25,62 @@ Each [[Type]] has a unique Strategy:
 | [[Generator]] | To Wait to Respond | Magnetize correct opportunities through Sacral response |
 | [[Projector]] | To Wait for the Invitation | Access empowerment through formal recognition |
 | [[Reflector]] | To Wait a Full Lunar Cycle | Achieve clarity by sampling all perspectives over 28 days |
+
+---
+
+## The Mechanics of Each Strategy
+
+### To Inform (Manifestor)
+
+The [[Manifestor]]'s closed and repelling aura creates unconscious resistance in others. **To Inform** transforms this resistance into transparency. Informing is not asking permission—it is **declaration**: "I am doing this."
+
+When the Manifestor informs:
+- Others feel included rather than controlled
+- The aura becomes transparent, reducing resistance
+- The Manifestor's impact is amplified rather than obstructed
+- Peace replaces anger
+
+Informing is the Manifestor's recognition that power without communication becomes tyranny, and autonomy without transparency becomes isolation.
+
+### To Wait to Respond (Generator)
+
+The [[Generator]]'s open and enveloping aura draws life toward them. **To Wait to Respond** means allowing opportunities to arrive rather than initiating from the mind. The Sacral responds with guttural sounds ("uh-huh" / "uhn-un") or body knowing (expansion/contraction).
+
+When the Generator responds:
+- The Sacral reveals what it has energy for
+- Correct work magnetizes to them
+- Frustration dissolves (the signal of incorrect initiation)
+- Satisfaction emerges through mastery of what they love
+
+The Generator's gift is not forcing but **magnetizing**—their aura attracts what is correct when they wait to respond.
+
+### To Wait for the Invitation (Projector)
+
+The [[Projector]]'s focused and penetrating aura reads others with surgical precision, but without invitation, this penetration feels invasive. **To Wait for the Invitation** means being recognized and formally invited into arenas that matter: work, love, partnership, major life decisions.
+
+A correct invitation contains:
+1. **Recognition** — The inviter sees the Projector's unique gifts
+2. **Empowerment** — The invitation grants access to energy/resources the Projector lacks
+3. **Formality** — The invitation is explicit ("I would like your guidance on...")
+
+When the Projector waits for invitation:
+- Their wisdom is valued and empowered
+- Bitterness (the signal of offering unsolicited guidance) dissolves
+- Success emerges—recognition, compensation, correct use of gifts
+
+The Projector's challenge is **sacred passivity**: seeing solutions everywhere but remaining silent until invited to speak.
+
+### To Wait a Full Lunar Cycle (Reflector)
+
+The [[Reflector]]'s completely undefined chart means they have no fixed decision-making center. **To Wait a Full Lunar Cycle** (28 days) allows them to sample every possible energetic configuration as the Moon transits all 64 gates.
+
+When the Reflector waits 28 days:
+- They experience the decision from every perspective
+- Patterns emerge that cannot be seen in a single moment
+- Clarity arrives through stillness, not force
+- Surprise (the signal of authenticity) becomes their compass
+
+The Reflector's gift is **lunar objectivity**—they are not invested in a fixed outcome, so they can see what is truly correct without bias.
 
 ---
 
@@ -83,6 +140,43 @@ Each Type's **Not-Self Theme** is the somatic alarm that Strategy has been aband
 - **Reflector:** Disappointment (when deciding too quickly or remaining in unhealthy environments)
 
 The Not-Self Theme is not failure—it is **feedback**, a signal to return to Strategy and Authority.
+
+---
+
+## Strategy and Conditioning
+
+**Conditioning** is the process by which the mind learns to override the body's intelligence. From birth, the world teaches us to:
+- **Initiate** (don't wait, make things happen)
+- **Be certain** (don't admit uncertainty)
+- **Prove ourselves** (external validation determines worth)
+- **Move fast** (productivity equals value)
+
+These are the strategies of a Generator-majority world conditioned by capitalist urgency and Manifestor-idealized independence. They are **not universally correct**.
+
+### The 7-Year Deconditioning Process
+
+Ra Uru Hu taught that full deconditioning requires **7 years**—one complete cellular regeneration cycle. This is not metaphor; it is biology. Every cell in your body (except neurons and some heart cells) replaces itself over approximately seven years.
+
+**Year 1-2:** Mental resistance and doubt. The mind objects to Strategy's "illogical" mechanics.
+
+**Year 3-4:** Experiential validation. The body begins to recognize the difference between Strategy (resonance) and Not-Self (resistance).
+
+**Year 5-6:** Cellular integration. Strategy becomes instinctual rather than conscious practice.
+
+**Year 7+:** Embodied alignment. The Signature emerges naturally; the Not-Self Theme fades.
+
+Deconditioning is not linear. You will abandon Strategy repeatedly. The practice is **noticing when you have abandoned it** and returning, again and again, until the body remembers.
+
+### Strategy vs. Societal Programming
+
+Each Strategy contradicts societal conditioning:
+
+- **To Inform** contradicts "Just do it" and "It's easier to ask forgiveness than permission."
+- **To Wait to Respond** contradicts "Be proactive" and "Go after what you want."
+- **To Wait for the Invitation** contradicts "Put yourself out there" and "Create your own opportunities."
+- **To Wait 28 Days** contradicts "Decide now" and "Seize the moment."
+
+Strategy is not moral; it is **mechanical**. The world's strategies work for some designs and fail for others. The question is not "Which strategy is better?" but "Which strategy is correct *for this vehicle*?"
 
 ---
 
