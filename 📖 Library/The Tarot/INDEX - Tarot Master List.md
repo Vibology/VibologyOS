@@ -9,7 +9,7 @@ date_updated: 2026-01-15
 **Purpose:** At-a-glance navigation for all Tarot Library entries
 
 **Last Updated:** 2026-01-15
-**Completion Status:** 78/78 cards exist (100% coverage), 43/78 comprehensive (55% Tier 3)
+**Completion Status:** 78/78 cards exist (100% coverage), 44/78 comprehensive (56% Tier 3)
 
 ---
 
@@ -19,10 +19,10 @@ date_updated: 2026-01-15
 |----------|-------------------|---------------------|-------|
 | **Major Arcana** | 22 | 0 | 22 |
 | **Minor: Wands** | 14 | 0 | 14 |
-| **Minor: Cups** | 7 | 7 | 14 |
+| **Minor: Cups** | 8 | 6 | 14 |
 | **Minor: Swords** | 0 | 14 | 14 |
 | **Minor: Pentacles** | 0 | 14 | 14 |
-| **TOTAL** | 43 (55%) | 35 (45%) | 78 (100%) |
+| **TOTAL** | 44 (56%) | 34 (44%) | 78 (100%) |
 
 ---
 
@@ -101,7 +101,7 @@ date_updated: 2026-01-15
 ## Minor Arcana: Cups (14 cards)
 
 **Suit Element:** Water
-**Completion:** 7/14 comprehensive (Ace-Seven Tier 3, Eight-Ten and Courts pending)
+**Completion:** 8/14 comprehensive (Ace-Eight Tier 3, Nine-Ten and Courts pending)
 
 ### Pips (Ace-Ten)
 
@@ -114,7 +114,7 @@ date_updated: 2026-01-15
 | Five | Five of Cups | Mars in Scorpio (Loss in Pleasure) | ✅ Complete | [[Five of Cups]] |
 | Six | Six of Cups | Sun in Scorpio (Pleasure) | ✅ Complete | [[Six of Cups]] |
 | Seven | Seven of Cups | Venus in Scorpio (Illusory Success) | ✅ Complete | [[Seven of Cups]] |
-| Eight | Eight of Cups | Saturn in Pisces (Indolence) | 🟡 Partial | [[Eight of Cups]] |
+| Eight | Eight of Cups | Saturn in Pisces (Abandoned Success) | ✅ Complete | [[Eight of Cups]] |
 | Nine | Nine of Cups | Jupiter in Pisces (Happiness) | 🟡 Partial | [[Nine of Cups]] |
 | Ten | Ten of Cups | Mars in Pisces (Satiety) | 🟡 Partial | [[Ten of Cups]] |
 
@@ -129,9 +129,10 @@ date_updated: 2026-01-15
 
 **Reference Commits:**
 - a50ecde - Cups Ace-Three comprehensive revision
-- (pending) - Cups Four-Seven comprehensive revision
+- 98aeab7 - Cups Four-Seven comprehensive revision
+- (pending) - Cups Eight comprehensive revision
 
-**Next Priority:** Complete remaining 7 Cups cards (Eight-Ten + Courts)
+**Next Priority:** Complete remaining 6 Cups cards (Nine-Ten + Courts)
 
 ---
 
@@ -251,19 +252,20 @@ date_updated: 2026-01-15
 - ✅ Minor Arcana: Wands (14/14) - All Tier 3
 
 **In Progress:**
-- 🔶 Minor Arcana: Cups (7/14 Tier 3) - **ACTIVE** (Ace-Seven complete, Eight-Ten + Courts remaining)
+- 🔶 Minor Arcana: Cups (8/14 Tier 3) - **ACTIVE** (Ace-Eight complete, Nine-Ten + Courts remaining)
 - 🟡 Minor Arcana: Swords (0/14 Tier 3)
 - 🟡 Minor Arcana: Pentacles (0/14 Tier 3)
 
 **Estimated Completion:**
-- Remaining: 35 cards (7 Cups + 14 Swords + 14 Pentacles)
-- At current pace (~7 cards per session): ~5 more sessions
+- Remaining: 34 cards (6 Cups + 14 Swords + 14 Pentacles)
+- At current pace (~5-7 cards per session): ~5-6 more sessions
 - Target: All 78 cards Tier 3 by end of January 2026
 
 ---
 
 ## Changelog
 
+- **2026-01-15:** Cups Eight expanded to Tier 3 (44/78 complete, 56%)
 - **2026-01-15:** Cups Four-Seven expanded to Tier 3 (43/78 complete, 55%)
 - **2026-01-15:** Cups Ace-Three expanded to Tier 3
 - **2026-01-10:** Index created with complete card listing and status tracking
