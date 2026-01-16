@@ -1,33 +1,40 @@
 ---
 tags: [system, protocol, data-integrity, astrology, human-design]
 date_created: 2026-01-15
+date_updated: 2026-01-16
 ---
 
 # Protocol: Chart Data Acquisition
 
-This protocol ensures **chart data integrity** for all synthesis work involving Astrology and Human Design. It addresses Process Gap #1 (critical data integrity issues identified in the Szilvia Williams synthesis).
+This protocol ensures **chart data integrity** for all synthesis work involving Astrology and Human Design. It addresses Process Gap #1 (critical data integrity issues) and incorporates lessons learned from the Szilvia Williams synthesis audit.
+
+## Core Principle
+
+**NEVER hallucinate or infer astronomical data.** Every planetary position, every transit date, every timing claim MUST be calculated using verified tools and traceable to a source JSON file.
 
 ## Problem Statement
 
-Chart data manually entered or calculated during synthesis leads to errors:
+Chart data manually entered or inferred during synthesis leads to errors:
 - Contradictory center definitions (Defined/Undefined flipped)
-- Saturn timing errors
-- North Node axis completely wrong
-- House placements inconsistent
+- Saturn timing errors (off by 12+ months)
+- North Node axis completely wrong (wrong sign entirely)
+- Transit dates inferred instead of calculated
 
-**Root Cause:** No verification step between data gathering and synthesis. Chart data trusted from memory/calculation instead of authoritative sources.
+**Root Cause:** No verification step between data gathering and synthesis. Transit data trusted from memory/inference instead of calculated from ephemeris.
 
 ## Solution Architecture
 
-Two local, free, self-hosted tools provide precise calculations:
+Three local, free, self-hosted tools provide precise calculations:
 
-| System | Tool | Engine | Accuracy |
-|--------|------|--------|----------|
-| Astrology | Kerykeion | Swiss Ephemeris (NASA JPL-derived) | Sub-arcsecond precision |
-| Human Design | humandesign_api | Swiss Ephemeris + HD formulas | Production-grade calculations |
+| System | Tool | Script | Engine |
+|--------|------|--------|--------|
+| Geolocation | Nominatim + timezonefinder | `verify_geolocation.py` | OpenStreetMap + pytz |
+| Astrology (Natal) | Kerykeion | `get_astro_data.py` | Swiss Ephemeris |
+| Astrology (Transits) | Kerykeion | `get_transit_data.py` | Swiss Ephemeris |
+| Human Design | humandesign_api | `get_hd_data.py` | Swiss Ephemeris + HD formulas |
 
-**Cost:** $0 (both are open-source)
-**Data Privacy:** All calculations run locally (no external API calls)
+**Cost:** $0 (all open-source)
+**Data Privacy:** All calculations run locally (no external API calls for chart data)
 
 ---
 
@@ -44,6 +51,8 @@ source .venv/bin/activate
 
 # Verify installations
 python -c "from kerykeion import AstrologicalSubject; print('Kerykeion OK')"
+python -c "from geopy.geocoders import Nominatim; print('Geopy OK')"
+python -c "from timezonefinder import TimezoneFinder; print('TimezoneFinder OK')"
 python get_hd_data.py --check
 ```
 
@@ -60,8 +69,6 @@ uvicorn humandesign.api:app --host 127.0.0.1 --port 9021 &
 # Verify it's running
 curl -s http://127.0.0.1:9021/health | python3 -m json.tool
 ```
-
-The server can run in the background during your session. Stop it with `pkill -f "uvicorn humandesign"`.
 
 ---
 
@@ -80,24 +87,55 @@ Required information from user:
 - Human Design: Cannot calculate accurately (Type, Profile, Gates depend on precise time)
 - **Action:** Flag as "time-sensitive data unavailable" in synthesis
 
-### Phase 2: Calculate Charts
+### Phase 1b: Geolocation Verification (MANDATORY)
 
-#### Astrology Chart
+**ALWAYS run geolocation verification before chart calculation:**
 
 ```bash
 cd "◈ System/Scripts"
 source .venv/bin/activate
 
+python verify_geolocation.py \
+  --place "Kaposvar, Hungary" \
+  --birth-date 1976-05-17 \
+  --output location_verification.json \
+  --pretty
+```
+
+**The script will:**
+1. Geocode the place name to coordinates
+2. Determine the correct IANA timezone
+3. Calculate UTC offset for the birth date (with historical DST awareness)
+4. Present results for user verification
+5. Allow manual corrections if needed
+
+**Output includes:**
+- Resolved latitude/longitude
+- Timezone (e.g., "Europe/Budapest")
+- UTC offset at birth date
+- DST status (important: rules vary by era!)
+- Verification status
+
+**CRITICAL:** Do NOT proceed to chart calculation until geolocation is verified. Historical DST rules differ from modern rules (e.g., Hungary had no DST from 1957-1979).
+
+### Phase 2: Calculate Natal Charts
+
+Use the **verified coordinates and timezone** from Phase 1b.
+
+#### Astrology Natal Chart
+
+```bash
 python get_astro_data.py \
   --name "Subject Name" \
-  --year 1990 \
-  --month 6 \
-  --day 15 \
-  --hour 12 \
-  --minute 0 \
-  --lat 40.7128 \
-  --lng -74.0060 \
-  --pretty > astro_output.json
+  --year 1976 \
+  --month 5 \
+  --day 17 \
+  --hour 4 \
+  --minute 4 \
+  --lat 46.356469 \
+  --lng 17.788689 \
+  --timezone "Europe/Budapest" \
+  --pretty > astrology.json
 ```
 
 **Output includes:**
@@ -105,73 +143,131 @@ python get_astro_data.py \
 - House cusps (Placidus)
 - Ascendant and Midheaven
 - Retrograde status
-- Lunar phase
+- Absolute zodiac positions (for transit calculations)
 
-#### Human Design Chart
+#### Human Design Natal Chart
 
 ```bash
 python get_hd_data.py \
   --name "Subject Name" \
-  --year 1990 \
-  --month 6 \
-  --day 15 \
-  --hour 12 \
-  --minute 0 \
-  --place "New York, USA" \
-  --pretty > hd_output.json
+  --year 1976 \
+  --month 5 \
+  --day 17 \
+  --hour 4 \
+  --minute 4 \
+  --place "Kaposvar, Hungary" \
+  --pretty > humandesign.json
 ```
 
 **Output includes:**
 - Energy Type, Strategy, Signature, Not-Self
 - Inner Authority
-- Profile (e.g., "2/4: Hermit Opportunist")
+- Profile
 - Incarnation Cross
 - Definition Type
 - Defined/Undefined Centers
 - Channels and Gates
-- Variables (Determination, Motivation, etc.)
-- Personality and Design planet positions
+- Variables
+
+### Phase 2b: Calculate Transits (MANDATORY for Timing Questions)
+
+**If the synthesis involves ANY timing questions, transit predictions, or life cycle analysis:**
+
+```bash
+python get_transit_data.py \
+  --start-date 2026-01-01 \
+  --end-date 2028-12-31 \
+  --natal-file astrology.json \
+  --pretty > transits.json
+```
+
+**Output includes:**
+- Current planetary positions (with HD gate context)
+- All sign ingresses in date range (exact dates)
+- Planetary returns (Saturn return, Chiron return, etc.)
+- Multiple passes noted for retrograde periods
+
+**Example: Find specific ingress dates:**
+```bash
+# When does Saturn enter Aries?
+python get_transit_data.py --ingress-planet saturn --start-date 2025-01-01 --end-date 2030-01-01 --pretty
+
+# When is the Chiron return for natal Chiron at 29.40°?
+python get_transit_data.py --return-planet chiron --natal-position 29.40 --start-date 2025-01-01 --end-date 2028-01-01 --pretty
+```
+
+**CRITICAL:**
+- NEVER state a transit date without calculating it first
+- NEVER infer when a planet enters a sign - calculate it
+- NEVER assume modern DST rules for historical dates
+- ALL dates in synthesis MUST be traceable to `transits.json`
 
 ### Phase 3: Verification (Critical)
 
 **Present raw data to user for spot-check:**
 
-1. **Astrology Quick Check:**
+1. **Geolocation Check:**
+   - Coordinates look reasonable for the city?
+   - Timezone matches expected region?
+   - DST status correct for that era?
+
+2. **Astrology Quick Check:**
    - Sun sign matches expected?
    - Moon sign reasonable for date?
    - Saturn position consistent with known Saturn return timing?
 
-2. **Human Design Quick Check:**
+3. **Human Design Quick Check:**
    - Type makes sense for the person?
    - Defined centers list is consistent (no contradictions)?
    - Profile feels accurate?
 
+4. **Transit Quick Check (if applicable):**
+   - Ingress dates match astronomical almanacs?
+   - Return dates are within expected age ranges?
+
 **If discrepancies found:**
 - Re-verify birth data with user
-- Re-run calculation
+- Re-run geolocation verification
+- Re-run calculations
 - Document any corrections
 
 ### Phase 4: Save Data Files
 
-Save chart data files alongside synthesis pieces:
-
-```
-⚛ Synthesis/
-└── Subject_Name_2026-01-15/
-    ├── astro_data.json          # Raw astrology output
-    ├── hd_data.json             # Raw HD output
-    └── Synthesis.md             # The actual synthesis piece
-```
-
-Or for client work (using entity_id):
+**File Organization:**
 
 ```
 🤝 Consultations/
-└── SW/
-    ├── 2026-01-15_astro_data.json
-    ├── 2026-01-15_hd_data.json
-    └── 2026-01-15_Reading.md
+└── [Client Name or Entity ID]/
+    ├── astrology.json              # Natal chart (PERMANENT)
+    ├── humandesign.json            # HD bodygraph (PERMANENT)
+    ├── [Reference PDFs]            # External reference docs
+    └── YYYY-MM-DD_[Synthesis_Name]/
+        ├── location_verification.json   # Geolocation verification
+        ├── transits.json                # Calculated transit data
+        ├── Verification_Checklist.md    # Completed checklist
+        └── Synthesis.md                 # Final synthesis output
 ```
+
+**Rationale:**
+- `astrology.json` and `humandesign.json` are **permanent** natal data - always relevant
+- Transit data is **synthesis-specific** - calculated for the questions asked
+- Each synthesis gets its own subfolder with all supporting calculations
+- Verification checklist ensures traceability
+
+---
+
+## Verification Checklist
+
+**MANDATORY:** Complete the verification checklist before finalizing any synthesis.
+
+Template location: `◈ System/Templates/_TEMPLATE - Synthesis Verification Checklist.md`
+
+Copy this template to the synthesis subfolder and complete all items:
+- [ ] Geolocation verified
+- [ ] Natal charts calculated (not inferred)
+- [ ] Transits calculated (not inferred)
+- [ ] All claims traceable to source files
+- [ ] No vague timing language without bounds
 
 ---
 
@@ -193,17 +289,23 @@ uvicorn humandesign.api:app --host 127.0.0.1 --port 9021 &
 
 **Graceful Degradation:** If HD API cannot be started, complete Astrology portion and flag HD data as incomplete.
 
-### Data Validation
+### Geocoding Failure Handling
 
-**Automatic checks in scripts:**
-- Birth year within valid range (1800-2399)
-- Coordinates within valid ranges (lat: -90 to +90, lng: -180 to +180)
-- Month/day validity
+If geocoding fails:
+1. Try alternative place name formats (e.g., "Kaposvár" vs "Kaposvar")
+2. Use manual coordinates from Google Maps
+3. Manually specify timezone if known
 
-**Edge cases requiring manual handling:**
-- **DST Transition Ambiguity:** If birth time falls during DST transition, calculate both possibilities and ask user to verify
-- **Historical Timezone Changes:** Document assumptions for dates before standardized timezones
-- **Coordinate Precision:** If exact birth location unknown, use city center coordinates
+```bash
+# Manual coordinate entry
+python verify_geolocation.py --lat 46.3594 --lng 17.7968 --birth-date 1976-05-17
+```
+
+### Historical Timezone Considerations
+
+- **Pre-1970:** Many regions had different timezone rules
+- **DST variations:** Rules changed frequently (Hungary: no DST 1957-1979)
+- **Action:** Always verify with `verify_geolocation.py` which uses pytz historical data
 
 ### Missing Birth Time Protocol
 
@@ -223,7 +325,7 @@ If errors discovered after synthesis is complete:
 
 1. Create dated correction log entry
 2. Move incorrect synthesis to `.archive/` with `superseded_by:` link
-3. Re-run chart acquisition with corrected birth data
+3. Re-run ALL acquisition phases with corrected data
 4. Compare old vs. new charts, document what changed
 5. Re-synthesize from scratch (do not patch incorrect synthesis)
 
@@ -231,35 +333,55 @@ If errors discovered after synthesis is complete:
 
 ## Integration with Synthesis Protocol
 
-**Mandatory:** Data acquisition MUST complete before Weaver mode begins.
+**Mandatory sequence:**
 
-Update to `PROTOCOL - Cross-System Synthesis.md`:
+1. **Phase 0:** Gather birth data from user
+2. **Phase 1b:** Verify geolocation (BEFORE any calculations)
+3. **Phase 2:** Calculate natal charts
+4. **Phase 2b:** Calculate transits (if timing questions exist)
+5. **Phase 3:** User verification
+6. **Phase 4:** Save data files
+7. **THEN:** Begin Weaver mode / synthesis
 
-> **Step 0 (NEW): Data Acquisition**
-> Before gathering Prima Materia from any system, run the chart acquisition scripts for both Astrology and Human Design. Present raw data for user verification. Only proceed to Step 1 (Gather Prima Materia) after data is verified.
+**Rule:** Do NOT enter synthesis mode until all data acquisition phases are complete and verified.
 
 ---
 
 ## Quick Reference
 
-### Start HD API Server
+### Verify Geolocation
 ```bash
-cd "◈ System/humandesign_api" && source "../Scripts/.venv/bin/activate" && uvicorn humandesign.api:app --host 127.0.0.1 --port 9021 &
+cd "◈ System/Scripts" && source .venv/bin/activate && python verify_geolocation.py --place "City, Country" --birth-date YYYY-MM-DD --pretty
 ```
 
-### Calculate Astrology Chart
+### Calculate Astrology Natal Chart
 ```bash
-cd "◈ System/Scripts" && source .venv/bin/activate && python get_astro_data.py --name "Name" --year YYYY --month M --day D --hour H --minute M --lat LAT --lng LNG --pretty
+cd "◈ System/Scripts" && source .venv/bin/activate && python get_astro_data.py --name "Name" --year YYYY --month M --day D --hour H --minute M --lat LAT --lng LNG --timezone "IANA/Timezone" --pretty
 ```
 
-### Calculate HD Chart
+### Calculate HD Natal Chart
 ```bash
 cd "◈ System/Scripts" && source .venv/bin/activate && python get_hd_data.py --name "Name" --year YYYY --month M --day D --hour H --minute M --place "City, Country" --pretty
 ```
 
-### Check HD API Status
+### Calculate Transits
 ```bash
-python get_hd_data.py --check
+cd "◈ System/Scripts" && source .venv/bin/activate && python get_transit_data.py --start-date YYYY-MM-DD --end-date YYYY-MM-DD --natal-file astrology.json --pretty
+```
+
+### Find Ingress Dates
+```bash
+python get_transit_data.py --ingress-planet saturn --start-date YYYY-MM-DD --end-date YYYY-MM-DD --pretty
+```
+
+### Find Return Dates
+```bash
+python get_transit_data.py --return-planet chiron --natal-position 29.40 --start-date YYYY-MM-DD --end-date YYYY-MM-DD --pretty
+```
+
+### Start HD API Server
+```bash
+cd "◈ System/humandesign_api" && source "../Scripts/.venv/bin/activate" && uvicorn humandesign.api:app --host 127.0.0.1 --port 9021 &
 ```
 
 ### Stop HD API Server
@@ -269,16 +391,7 @@ pkill -f "uvicorn humandesign"
 
 ---
 
-## Geocoding Note
-
-The scripts accept either:
-- **Place name** (e.g., `--place "New York, USA"`) - uses geocoding service
-- **Coordinates** (e.g., `--lat 40.7128 --lng -74.0060`) - bypasses geocoding
-
-For precise work, prefer coordinates. Use online tools like Google Maps to find exact birth location coordinates.
-
----
-
 ## Version History
 
+- **2026-01-16:** Major revision. Added geolocation verification (`verify_geolocation.py`), transit calculation (`get_transit_data.py`), verification checklist template, updated file organization. Response to transit data hallucination issue in Szilvia Williams synthesis.
 - **2026-01-15:** Initial protocol created. Kerykeion v5.6.1 + humandesign_api v1.7.2 installed.
