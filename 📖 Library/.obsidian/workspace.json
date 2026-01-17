@@ -11,10 +11,14 @@
             "id": "537850c22d4ae0a3",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Start Here.md",
+                "mode": "preview",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Start Here"
             }
           }
         ]
@@ -74,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 266.703125
   },
   "right": {
     "id": "eccbf583bad43587",
@@ -170,6 +174,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "hide-folders:Show hidden folders": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -179,43 +184,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "c8635849c76cb2fa",
+  "active": "537850c22d4ae0a3",
   "lastOpenFiles": [
-    "The Tarot/Minor Arcana/Pentacles/Three of Pentacles.md",
-    "The Tarot/Minor Arcana/Pentacles/Ten of Pentacles.md",
-    "The Tarot/Minor Arcana/Pentacles/Six of Pentacles.md",
-    "The Tarot/Minor Arcana/Pentacles/Seven of Pentacles.md",
-    "The Tarot/Minor Arcana/Pentacles/Queen of Pentacles.md",
-    "The Tarot/Minor Arcana/Pentacles/Page of Pentacles.md",
-    "The Tarot/Minor Arcana/Pentacles/Nine of Pentacles.md",
-    "The Tarot/Minor Arcana/Pentacles/Knight of Pentacles.md",
-    "The Tarot/Minor Arcana/Pentacles/King of Pentacles.md",
-    "The Tarot/Minor Arcana/Pentacles/Four of Pentacles.md",
-    "The Tarot/Minor Arcana/Pentacles/Eight of Pentacles.md",
-    "The Tarot/Minor Arcana/Pentacles/Ace of Pentacles.md",
-    "The Tarot/Minor Arcana/Cups/Ace of Cups.md",
-    "The Tarot/sedav7fIQ",
-    "The Tarot/Minor Arcana/Swords/sedJWOGpM",
-    "The Tarot/Minor Arcana/Swords/sedX5YA7D",
-    "The Tarot/Minor Arcana/Swords/sedBukdrz",
-    "The Tarot/Minor Arcana/Swords/sedEWq7iR",
-    "The Tarot/Minor Arcana/Swords/sedFMlqhQ",
-    "The Tarot/Minor Arcana/Swords/sedL7JqEn",
-    "The Tarot/Minor Arcana/Swords/sedlEXsL0",
-    "Human Design/Centers/sedpBHsbW",
-    "Folklore/sed56KGUb",
-    "The Tarot/Minor Arcana/Cups/Two of Cups.md",
-    "The Tarot/Minor Arcana/Cups/Ten of Cups.md",
-    "The Tarot/Minor Arcana/Cups/Six of Cups.md",
-    "The Tarot/Minor Arcana/Cups/Queen of Cups.md",
-    "The Tarot/Minor Arcana/Cups/Knight of Cups.md",
-    "The Tarot/Minor Arcana/Cups/Four of Cups.md",
-    "The Tarot/Minor Arcana/Cups/Eight of Cups.md",
-    "The Tarot/Major Arcana/0 - The Fool.md",
-    "The Tarot/INDEX - Tarot Master List.md",
-    "The Tarot/Overview.md",
-    "The Tarot/Major Arcana/20 - Judgement.md",
-    "The Tarot/Major Arcana/19 - The Sun.md",
-    "The Tarot/Major Arcana/18 - The Moon.md"
+    "Angelology/Orders/Virtues.md",
+    "Angelology/Orders/Virtues.md.tmp.1968174.1768677989275",
+    "Angelology/Angelology and Human Design Integration.md.tmp.1968174.1768677987205",
+    "Angelology/Angelology and Human Design Integration.md.tmp.1968174.1768677983095",
+    "Angelology/Overview.md.tmp.1968174.1768677952574",
+    "Angelology/Overview.md.tmp.1968174.1768677952247",
+    "Angelology/The Three Triads.md.tmp.1968174.1768677938048",
+    "Angelology/Orders/Powers.md",
+    "Angelology/Orders/Powers.md.tmp.1968174.1768677929523",
+    "Angelology/Orders/Dominations.md",
+    "Angelology/Orders/Dominations.md.tmp.1968174.1768677911906",
+    "Angelology/Orders/Cherubim.md",
+    "Angelology/Orders/Cherubim.md.tmp.1968174.1768677529488",
+    "Angelology/Orders/Seraphim.md",
+    "Angelology/Orders/Seraphim.md.tmp.1968174.1768677493069",
+    "Angelology/Orders/Thrones.md",
+    "Angelology/Angelology and Human Design Integration.md",
+    "Angelology/The Three Triads.md",
+    "Astrology/Houses/1st House.md",
+    "Astrology/Aspects/Aspects Overview.md",
+    "Human Design/INDEX - Human Design Master List.md",
+    "Human Design/Channels/Channel 20-57 - The Brainwave.md",
+    "Human Design/Channels/Channel 20-34 - Charisma.md",
+    "Human Design/Channels/Channel 6-59 - Intimacy.md",
+    "Human Design/Channels/Channel 24-61 - Awareness.md",
+    "Human Design/Channels/Channel 23-43 - Structuring.md",
+    "Human Design/Channels/Channel 21-45 - Money.md",
+    "Human Design/Channels/Channel 19-49 - Synthesis.md",
+    "Human Design/Channels/Channel 18-58 - Judgment.md",
+    "Human Design/Channels/Channel 17-62 - Acceptance.md",
+    "Human Design/Channels/Channel 16-48 - Wavelength.md",
+    "Human Design/Channels/Channel 11-56 - The Searcher.md",
+    "Human Design/Channels/Channel 10-57 - Survival.md",
+    "Human Design/Channels/Channel 10-34 - Exploration.md",
+    "Human Design/Channels/Channel 10-20 - Awakening.md",
+    "Human Design/Channels/Channel 47-64 - Abstraction.md"
   ]
 }
