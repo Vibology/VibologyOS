@@ -12,6 +12,30 @@ This protocol ensures **chart data integrity** for all synthesis work involving 
 
 **NEVER hallucinate or infer astronomical data.** Every planetary position, every transit date, every timing claim MUST be calculated using verified tools and traceable to a source JSON file.
 
+### THE CARDINAL RULE: ALWAYS CALCULATE TRANSITS
+
+**IF THE CLIENT ASKS ANYTHING INVOLVING TIMING, YOU CALCULATE TRANSITS. PERIOD.**
+
+Questions that REQUIRE transit calculation:
+- "When will X happen?"
+- "What are the prospects in the next N years?"
+- "Is this a good time for Y?"
+- "When should I Z?"
+- Any question involving future timing, windows, or opportunities
+
+**There is NO EXCUSE for vague timing language.**
+
+❌ **WRONG:** "Transits matter. I can't predict exact timing without running transits, but here's what I know..."
+✅ **CORRECT:** Run `get_transit_data.py`, calculate the transits, provide exact dates.
+
+❌ **WRONG:** "Jupiter will expand things when it transits your 7th House (probably in a few years)."
+✅ **CORRECT:** "Jupiter enters Virgo (your 7th House) on July 26, 2027 and transits through August 24, 2028."
+
+❌ **WRONG:** "The next 5 years are a transitional window."
+✅ **CORRECT:** "Saturn transits your 2nd House Feb 2026-Apr 2028. Jupiter transits your 7th House July 2027-Aug 2028. Here's what each means..."
+
+**This is not optional. This is the entire point of having calculation tools.**
+
 ## Problem Statement
 
 Chart data manually entered or inferred during synthesis leads to errors:
@@ -214,9 +238,20 @@ python get_hd_data.py \
 - Channels and Gates
 - Variables
 
-### Phase 2b: Calculate Transits (MANDATORY for Timing Questions)
+### Phase 2b: Calculate Transits (MANDATORY for ANY Timing-Related Questions)
 
-**If the synthesis involves ANY timing questions, transit predictions, or life cycle analysis:**
+**THIS PHASE IS NON-NEGOTIABLE IF THE CLIENT ASKS ABOUT TIMING.**
+
+If the synthesis involves:
+- Future opportunities or challenges ("What are my prospects for X?")
+- Timing windows ("When will Y happen?" or "What about the next Z years?")
+- Life transitions or thresholds ("What happens at age 50?")
+- Career or relationship timing ("Can I make a living doing this?" "Will I find love?")
+- ANY question that could involve "when" or "in the next N years"
+
+**YOU MUST CALCULATE TRANSITS BEFORE WRITING THE SYNTHESIS.**
+
+Do not write vague statements like "transits matter but I can't predict timing." That is a violation of this protocol. The entire point of having `get_transit_data.py` is to provide EXACT TIMING.
 
 ```bash
 python get_transit_data.py \
@@ -497,6 +532,7 @@ pkill -f "uvicorn humandesign"
 
 ## Version History
 
+- **2026-01-17:** **CRITICAL UPDATE - Transit Calculation Requirement Emphasized.** Added "THE CARDINAL RULE: ALWAYS CALCULATE TRANSITS" section with explicit examples of wrong vs. correct approach. Updated Phase 2b language to make transit calculation NON-NEGOTIABLE for any timing-related questions. This update addresses a protocol violation in the initial Joe Lewis synthesis where vague timing language was used instead of calculated transits. ALL FUTURE SYNTHESIS WORK MUST CALCULATE TRANSITS WHEN TIMING IS INVOLVED.
 - **2026-01-17:** Virtual environment setup. Created `.venv/` in VibologyOS root, `requirements.txt` for dependency management, `calculate_chart.sh` wrapper script for automatic venv activation. Updated all Quick Reference examples. Addresses dependency persistence issues after system updates (PEP 668 compliance).
 - **2026-01-16:** Major revision. Added geolocation verification (`verify_geolocation.py`), transit calculation (`get_transit_data.py`), verification checklist template, updated file organization. Response to transit data hallucination issue in Szilvia Williams synthesis.
 - **2026-01-15:** Initial protocol created. Kerykeion v5.6.1 + humandesign_api v1.7.2 installed.
