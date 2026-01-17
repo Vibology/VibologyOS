@@ -41,7 +41,7 @@ The Folklore pillar provides the **mythopoetic dimension** of VibologyOS—trans
    - Rejected/repressed aspects of personality
    - Personal vs. collective shadow
    - Integration as individuation gateway
-   - Cross-cultural: Set, Loki, Kali, the Trickster's dark aspect
+   - Cross-cultural: Set, Loki, Kali, the Joker's dark aspect
    - Tarot: The Devil, The Moon, Five of Swords
    - Astrology: Pluto, 8th House, Scorpio
 
@@ -76,7 +76,7 @@ The Folklore pillar provides the **mythopoetic dimension** of VibologyOS—trans
    - Astrology: Saturn, Jupiter (wisdom), Capricorn
    - HD: Projector Type (guide/advisor)
 
-7. **The Trickster** (~600-800 lines)
+7. **The Joker** (~600-800 lines)
    - Chaos agent, rule-breaker, boundary-crosser
    - Disrupts ego rigidity, forces adaptation
    - Cross-cultural: Hermes, Loki, Coyote, Anansi, Raven, Eshu
@@ -312,7 +312,7 @@ The Folklore pillar provides the **mythopoetic dimension** of VibologyOS—trans
 #### Indigenous & Other Traditions
 9. **Native American** - Overview (~600-800 lines)
    - Diversity caveat (hundreds of distinct nations)
-   - Common themes: Trickster (Coyote, Raven), Spider Woman, vision quest
+   - Common themes: Joker (Coyote, Raven), Spider Woman, vision quest
    - Emphasis on respect, attribution, avoiding appropriation
 
 10. **African Diaspora** - Overview (~600-800 lines)
@@ -441,7 +441,7 @@ The Folklore pillar provides the **mythopoetic dimension** of VibologyOS—trans
 4. The Animus (~700 lines)
 5. The Great Mother (~700 lines)
 6. The Wise Old Man (~700 lines)
-7. The Trickster (~700 lines)
+7. The Joker (~700 lines)
 
 **Outcome:** Enables Jungian synthesis in client work and cross-system pieces
 
@@ -591,7 +591,7 @@ The Folklore pillar provides the **mythopoetic dimension** of VibologyOS—trans
 - Mars as Warrior/Hero
 - Jupiter as King/Benefactor
 - Moon as Great Mother
-- Mercury as Trickster
+- Mercury as Joker
 - Pluto as Shadow/Underworld
 
 **Note:** This may belong in Astrology pillar, not Folklore

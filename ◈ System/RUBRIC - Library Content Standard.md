@@ -1486,7 +1486,7 @@ Scholarly, citing traditional sources. "According to Lilly..." / "The Hellenisti
 # APPENDIX D: FOLKLORE & JUNGIAN ARCHETYPES
 
 ## Scope
-Folklore and Jungian content covers: Universal Archetypes (Hero, Shadow, Anima/Animus, Wise Old Man, Great Mother, Trickster, Self), Myths and Mythological Themes, Stages of the Hero's Journey, Individuation Process, Alchemical Stages, Fairy Tales and Symbolic Narratives.
+Folklore and Jungian content covers: Universal Archetypes (Hero, Shadow, Anima/Animus, Wise Old Man, Great Mother, Joker, Self), Myths and Mythological Themes, Stages of the Hero's Journey, Individuation Process, Alchemical Stages, Fairy Tales and Symbolic Narratives.
 
 ## Canonical Sources
 - **Primary:** C.G. Jung (*Collected Works*, especially *Archetypes and the Collective Unconscious*, *Man and His Symbols*, *Psychology and Alchemy*)
@@ -1507,7 +1507,7 @@ date_created: YYYY-MM-DD
 category: {Archetype/Myth/Hero-Journey-Stage/Alchemical-Stage/Fairy-Tale}
 
 # For Archetypes
-archetype_name: {Hero/Shadow/Anima/Animus/Wise Old Man/Great Mother/Trickster/Self/etc.}
+archetype_name: {Hero/Shadow/Anima/Animus/Wise Old Man/Great Mother/Joker/Self/etc.}
 jungian_function: {Which psychic function or structure}
 developmental_stage: {When this archetype constellates in life}
 collective_unconscious: {Universal pattern description}
@@ -2283,7 +2283,7 @@ Evocative, culturally grounded, visceral. "The Window calls this..." / "In 1980s
 4. **Archetypal Analysis** (REQUIRED)
    - Which of the Twelve Archetypes?
    - Archetypal function and psychological role
-   - Jungian parallels (Hero, Shadow, Anima/Animus, Trickster, etc.)
+   - Jungian parallels (Hero, Shadow, Anima/Animus, Joker, etc.)
 
 5. **House Placement** (REQUIRED)
    - Which of the Six Lower Houses?

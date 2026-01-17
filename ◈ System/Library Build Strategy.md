@@ -164,7 +164,7 @@ The most immediately actionable pillar for consultations.
 
 **Build Order:**
 1. **Jungian Archetypes/**
-   - Hero, Shadow, Anima/Animus, Great Mother, Wise Old Man, Trickster, Self
+   - Hero, Shadow, Anima/Animus, Great Mother, Wise Old Man, Joker, Self
    - Integration with Personal Myth framework
 
 2. **Folklore Core:**
