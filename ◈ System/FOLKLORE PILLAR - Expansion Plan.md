@@ -28,16 +28,16 @@ The Folklore pillar provides the **mythopoetic dimension** of VibologyOS—trans
 
 **Scope:** The 12 primary archetypes from Jung's depth psychology
 
-#### A. Personal Archetypes (7 entries)
-1. **The Hero** (~600-800 lines)
-   - Ego development, quest for identity, confronting trials
-   - Campbell's Hero's Journey integration
-   - Developmental: adolescence to young adulthood
-   - Cross-cultural: Gilgamesh, Odysseus, Arjuna, Buddha, Indigenous vision quest
-   - Tarot: The Fool's Journey, The Chariot, Strength
-   - HD: Manifestor energy (initiating), Splenic authority (courage)
+#### A. Personal Archetypes (8 entries)
+1. **The Persona** (~600-800 lines)
+   - Social mask, adaptation, public self vs private self
+   - Persona-Shadow polarity ("light brother" and "dark brother")
+   - Persona identification dangers
+   - Cross-cultural: masks in ritual, social roles, theatrical personas
+   - Tarot: The Magician (skillful presentation), court cards (social roles)
+   - HD: Personality (conscious design) vs Design (unconscious)
 
-2. **The Shadow** (~600-800 lines) [HIGHEST PRIORITY]
+2. **The Shadow** (~600-800 lines) [GATEWAY ARCHETYPE]
    - Rejected/repressed aspects of personality
    - Personal vs. collective shadow
    - Integration as individuation gateway
@@ -45,7 +45,15 @@ The Folklore pillar provides the **mythopoetic dimension** of VibologyOS—trans
    - Tarot: The Devil, The Moon, Five of Swords
    - Astrology: Pluto, 8th House, Scorpio
 
-3. **The Anima** (feminine in men) (~600-800 lines)
+3. **The Hero** (~600-800 lines)
+   - Ego development, quest for identity, confronting trials
+   - Campbell's Hero's Journey integration (17-stage monomyth)
+   - Developmental: adolescence to young adulthood
+   - Cross-cultural: Gilgamesh, Odysseus, Arjuna, Buddha, Indigenous vision quest
+   - Tarot: The Fool's Journey, The Chariot, Strength
+   - HD: Manifestor energy (initiating), Splenic authority (courage)
+
+4. **The Anima** (feminine in men) (~600-800 lines)
    - Soul-image, inner guide, muse, emotional depth
    - Four stages: Hawa (Eve), Helen, Mary, Sophia
    - Projection in relationships
@@ -53,14 +61,14 @@ The Folklore pillar provides the **mythopoetic dimension** of VibologyOS—trans
    - Tarot: The High Priestess, The Empress, The Star
    - Astrology: Moon, Venus (in men's charts)
 
-4. **The Animus** (masculine in women) (~600-800 lines)
+5. **The Animus** (masculine in women) (~600-800 lines)
    - Logos principle, inner authority, creative power
    - Four stages: Physical power, Romantic hero, Professor/guide, Spiritual meaning
    - Cross-cultural: Shiva, Merlin, the Divine Lover
    - Tarot: The Magician, The Emperor, The Hierophant
    - Astrology: Sun, Mars (in women's charts)
 
-5. **The Great Mother** (~600-800 lines)
+6. **The Great Mother** (~600-800 lines)
    - Dual nature: nurturing vs. devouring
    - Archetypal feminine: birth, nourishment, death
    - Mother complex in men and women
@@ -68,7 +76,7 @@ The Folklore pillar provides the **mythopoetic dimension** of VibologyOS—trans
    - Tarot: The Empress, The Moon, Queen of Pentacles
    - Astrology: Moon, Cancer, 4th House
 
-6. **The Wise Old Man/Woman** (Senex) (~600-800 lines)
+7. **The Wise Old Man/Woman** (Senex) (~600-800 lines)
    - Authority, wisdom, mentor, guide
    - Positive: sage, teacher / Negative: tyrant, dogmatist
    - Cross-cultural: Merlin, Odin, Hecate, Baba Yaga, Gandalf
@@ -76,7 +84,7 @@ The Folklore pillar provides the **mythopoetic dimension** of VibologyOS—trans
    - Astrology: Saturn, Jupiter (wisdom), Capricorn
    - HD: Projector Type (guide/advisor)
 
-7. **The Joker** (~600-800 lines)
+8. **The Joker** (~600-800 lines)
    - Chaos agent, rule-breaker, boundary-crosser
    - Disrupts ego rigidity, forces adaptation
    - Cross-cultural: Hermes, Loki, Coyote, Anansi, Raven, Eshu
@@ -84,8 +92,8 @@ The Folklore pillar provides the **mythopoetic dimension** of VibologyOS—trans
    - Astrology: Mercury (trickster), Uranus (chaos)
    - HD: Individual Circuit (mutation)
 
-#### B. Transpersonal Archetypes (5 entries)
-8. **The Self** (~800-1000 lines) [CAPSTONE]
+#### B. Transpersonal Archetypes (4 entries)
+9. **The Self** (~800-1000 lines) [CAPSTONE]
    - Jung's central archetype: totality, wholeness
    - God-image within the psyche
    - Distinct from ego—the center that transcends ego
@@ -94,19 +102,12 @@ The Folklore pillar provides the **mythopoetic dimension** of VibologyOS—trans
    - Tarot: The World, The Sun (Self realized)
    - Astrology: The chart as a whole (all parts integrated)
 
-9. **The Divine Child** (Puer/Puella Aeternus) (~600-800 lines)
-   - Innocence, spontaneity, new beginnings
-   - Shadow: eternal youth, refusal to mature
-   - Rebirth archetype
-   - Cross-cultural: Horus, Krishna, the Christ child, Dionysus
-   - Tarot: The Sun, Ace cards, The Fool
-
-10. **The Syzygy** (Sacred Marriage) (~600-800 lines)
-    - Union of opposites (masculine/feminine, conscious/unconscious)
-    - Hieros gamos (sacred marriage)
-    - Alchemical *coniunctio*
-    - Cross-cultural: Shiva-Shakti, Isis-Osiris, Alchemy (King-Queen)
-    - Tarot: The Lovers, Temperance, Two of Cups
+10. **The Divine Child** (Puer/Puella Aeternus) (~600-800 lines)
+    - Innocence, spontaneity, new beginnings
+    - Shadow: eternal youth, refusal to mature
+    - Rebirth archetype
+    - Cross-cultural: Horus, Krishna, the Christ child, Dionysus
+    - Tarot: The Sun, Ace cards, The Fool
 
 11. **The Threshold Guardian** (~600-800 lines)
     - Protector of boundaries, tester of readiness
@@ -429,37 +430,38 @@ The Folklore pillar provides the **mythopoetic dimension** of VibologyOS—trans
 
 ## III. Suggested Build Sequence
 
-### Phase 1: Foundational Archetypes (Priority 1)
+### Phase 1: Foundational Archetypes (Priority 1) - ✅ COMPLETE!
+**Status:** ✅ **100% COMPLETE** (8/8 entries at Tier 3)
 **Goal:** Core psychological framework for synthesis work
-**Files:** 7 entries
-**Est. Lines:** ~4,500-5,600
+**Actual Delivery:** 8 entries, 6,539 lines (avg 817 lines/entry)
+**Completed:** 2026-01-17
 
-**Build Order:**
-1. The Shadow (~800 lines) - CRITICAL GATEWAY
-2. The Hero (~700 lines)
-3. The Anima (~700 lines)
-4. The Animus (~700 lines)
-5. The Great Mother (~700 lines)
-6. The Wise Old Man (~700 lines)
-7. The Joker (~700 lines)
+**Build Order (as executed):**
+1. ✅ The Persona (802 lines) - Social mask, persona-shadow polarity
+2. ✅ The Shadow (740 lines) - GATEWAY ARCHETYPE (manual pilot/exemplar)
+3. ✅ The Hero (781 lines) - Campbell's 17-stage monomyth
+4. ✅ The Anima (933 lines) - Four stages: Eve→Helen→Mary→Sophia
+5. ✅ The Animus (829 lines) - Four stages: Tarzan→Romantic→Professor→Hermes
+6. ✅ The Great Mother (787 lines) - Dual nature, mother complex, Uroboros
+7. ✅ The Wise Old Man (802 lines) - Meaning/Spirit, Puer-Senex polarity
+8. ✅ The Joker (865 lines) - Boundary-crosser, transformation agent (renamed from "Trickster")
 
-**Outcome:** Enables Jungian synthesis in client work and cross-system pieces
+**Outcome Achieved:** ✅ Complete personal archetypal framework for cross-system synthesis work. Jungian psychological dimension now integrated with all Seven Pillars. Foundation established for transpersonal archetypes (Phase 2).
 
 ---
 
 ### Phase 2: Transpersonal & Threshold Archetypes (Priority 2)
 **Goal:** Complete archetypal map
-**Files:** 5 entries
-**Est. Lines:** ~3,500-4,400
+**Files:** 4 entries
+**Est. Lines:** ~2,800-3,700
 
 **Build Order:**
-1. The Self (~1000 lines) - CAPSTONE
-2. The Divine Child (~700 lines)
-3. The Syzygy (~700 lines)
-4. The Threshold Guardian (~700 lines)
-5. The Shapeshifter (~700 lines)
+1. The Self (~1000 lines) - CAPSTONE (totality, wholeness, mandala)
+2. The Divine Child (~700 lines) - Puer/Puella, rebirth, innocence
+3. The Threshold Guardian (~700 lines) - Boundary protector, tester of readiness
+4. The Shapeshifter (~700 lines) - Change, ambiguity, illusion
 
-**Outcome:** All 12 primary archetypes complete at Tier 3
+**Outcome:** All 12 primary archetypes complete at Tier 3 (8 personal + 4 transpersonal)
 
 ---
 
