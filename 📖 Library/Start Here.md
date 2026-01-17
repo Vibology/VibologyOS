@@ -15,7 +15,7 @@ Begin here to understand the foundational paradigm:
 - [[The Blueprint - 444 Architecture]]
 - [[Seven-Coordinate Navigation]]
 - [[Inner Authority and Strategy]]
-- [[Techgnosis - Spiritual Knowledge Through Technology]]
+- [[Techgnosis]]
 
 ### The Seven Pillars
 

@@ -23,3 +23,6 @@ Thumbs.db
 # Large cache files
 *.cache
 cache/
+
+# Obsidian vault settings (UI layer, not content)
+📖 Library/.obsidian/
