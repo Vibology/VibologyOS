@@ -541,7 +541,7 @@ The refusal to be a **victim**. The recognition that *I have power, I have agenc
 
 [[Haniel]] at Netzach is love, beauty, desire. Kamael's severity *protects* Haniel's softness—without Geburah, Netzach becomes hedonism, seduction, addiction. Kamael is the boundary that allows love to flourish safely.
 
-## XVII. Kamael in the Seven Pillars: Cross-System Synthesis
+## XVII. Cross-System Correspondences
 
 ### Astrology: Mars and the First House
 

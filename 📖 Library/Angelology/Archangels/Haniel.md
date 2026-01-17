@@ -446,7 +446,7 @@ The shift from **desire as grasping** to **desire as devotion**. The lover who l
 
 [[Gabriel]] at Yesod receives Haniel's **beauty and desire** and translates them into **dreams, images, and visions**. Where Haniel offers the *experience* of love, Gabriel offers the *vision* of what that love might become. Haniel feels; Gabriel reveals.
 
-## XVI. Haniel in the Seven Pillars: Cross-System Synthesis
+## XVI. Cross-System Correspondences
 
 ### Astrology: Venus, Taurus, Libra, and the 7th House
 

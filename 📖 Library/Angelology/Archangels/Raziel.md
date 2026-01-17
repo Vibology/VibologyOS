@@ -369,7 +369,7 @@ Not fortune-telling, but the capacity to speak the **pattern** that is unfolding
 
 [[Gabriel]] at Yesod receives the wisdom of Raziel (filtered through the Sephiroth) and translates it into *images, dreams, and symbols*—the language of the unconscious. Where Raziel speaks in archetypal patterns, Gabriel speaks in personal revelation.
 
-## XVII. Raziel in the Seven Pillars: Cross-System Synthesis
+## XVII. Cross-System Correspondences
 
 ### Astrology: The Sphere of the Fixed Stars
 

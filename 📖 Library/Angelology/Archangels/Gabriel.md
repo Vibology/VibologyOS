@@ -636,7 +636,7 @@ The gift of **navigating liminal spaces** without fear—the capacity to stand a
 
 [[Sandalphon]] at Malkuth receives the prayers of humanity and weaves them into a garment for the Shekhina. Gabriel delivers the **answers** to those prayers—the visions, the messages, the revelations that guide the soul forward.
 
-## XVII. Gabriel in the Seven Pillars: Cross-System Synthesis
+## XVII. Cross-System Correspondences
 
 ### Astrology: The Moon, Cancer, and the 4th House
 
