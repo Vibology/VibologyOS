@@ -432,7 +432,7 @@ Each entry: ~240 lines following RUBRIC Appendix E template
 4. **Esoteric/Modern:** Rudolph Steiner (*Spiritual Hierarchies*), Dion Fortune, Gustav Davidson (*A Dictionary of Angels*)
 5. **Scriptural:** Torah (Isaiah, Ezekiel, Daniel), Gospels (Luke), Revelation, Apocrypha (Tobit, Enoch, 2 Esdras)
 
-All material retrieved from NotebookLM "Vibrology: Seven Pillars Framework" notebook, which contains these canonical sources.
+All material retrieved from NotebookLM "Vibology: Seven Pillars Framework" notebook, which contains these canonical sources.
 
 ---
 

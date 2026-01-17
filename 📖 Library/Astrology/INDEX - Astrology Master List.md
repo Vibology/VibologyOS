@@ -42,7 +42,7 @@ Overview is comprehensive and well-developed:
 - ✅ Traditional vs. Modern approaches
 - ✅ Logic of Correspondences (planets, signs, houses, aspects)
 - ✅ Temporal Frameworks (transits, progressions, profections, returns)
-- ✅ Role in Vibrology (cross-system integration)
+- ✅ Role in Vibology (cross-system integration)
 - ✅ Historical Development (Mesopotamia → Hellenistic → Medieval → Modern)
 - ✅ House Systems (Whole Sign rationale)
 - ✅ Timing Techniques (comprehensive overview)
