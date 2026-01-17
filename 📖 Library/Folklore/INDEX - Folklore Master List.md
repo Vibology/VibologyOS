@@ -54,7 +54,7 @@ date_updated: 2026-01-17
 | Entry | Status | Actual Lines | Themes | Link |
 |-------|--------|--------------|--------|------|
 | The Persona | ✅ Complete | 802 | Social mask, adaptation, role vs. self, persona-shadow polarity | [[The Persona]] |
-| The Shadow | ✅ Complete | 740 | Repressed self, projection, integration, nigredo, dark brother | [[The Shadow]] |
+| The Shadow | ✅ Complete | 840 | Repressed self, projection, integration, personal vs collective distinction | [[The Shadow]] |
 | The Hero | ✅ Complete | 781 | Quest, trials, ego development, monomyth, initiation | [[The Hero]] |
 | The Anima | ✅ Complete | 933 | Feminine in men, soul-guide, four stages, eros, projection | [[The Anima]] |
 | The Animus | ✅ Complete | 829 | Masculine in women, logos, opinions, authority, creative power | [[The Animus]] |
@@ -62,7 +62,7 @@ date_updated: 2026-01-17
 | The Wise Old Man | ✅ Complete | 802 | Senex, mentor, wisdom, spirit vs. matter, puer-senex polarity | [[The Wise Old Man]] |
 | The Joker | ✅ Complete | 865 | Chaos, boundary-crossing, sacred fool, trickster, disruption | [[The Joker]] |
 
-**Total:** 6,539 lines (avg 817 lines/entry, exceeds 700+ target)
+**Total:** 6,639 lines (avg 830 lines/entry, exceeds 700+ target)
 
 ### B. Transpersonal Archetypes (4 entries) - Phase 2
 
@@ -430,7 +430,7 @@ date_updated: 2026-01-17
 
 **Build Order:**
 1. ✅ The Persona (802 lines) - Social mask, light brother to Shadow
-2. ✅ The Shadow (740 lines) - GATEWAY ARCHETYPE, dark brother, repressed self
+2. ✅ The Shadow (840 lines) - GATEWAY ARCHETYPE, personal vs collective shadow distinction
 3. ✅ The Hero (781 lines) - Ego development, monomyth, quest
 4. ✅ The Anima (933 lines) - Feminine soul-image in men, four stages
 5. ✅ The Animus (829 lines) - Masculine soul-image in women, logos
@@ -438,7 +438,7 @@ date_updated: 2026-01-17
 7. ✅ The Wise Old Man (802 lines) - Senex, spirit, puer-senex polarity
 8. ✅ The Joker (865 lines) - Boundary-crosser, sacred fool, trickster
 
-**Total Delivered:** 6,539 lines (avg 817 lines/entry)
+**Total Delivered:** 6,639 lines (avg 830 lines/entry)
 **Outcome Achieved:** Complete personal archetypal framework for cross-system synthesis work. All entries at Tier 3 research-grade quality with full cross-references, Weaver voice, and comprehensive Prima Materia integration.
 
 ---
