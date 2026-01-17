@@ -378,7 +378,7 @@ These are the only channels that don't belong to a traditional circuit. They con
 | 20-57 | The Brainwave | 20-57 | Throat ↔ Spleen | Projected | ✅ Complete | [[Channel 20-57 - The Brainwave]] |
 | 34-57 | Power | 34-57 | Sacral ↔ Spleen | Projected | ✅ Complete | [[Channel 34-57 - Power]] |
 
-### Individual Knowing Circuit (9 channels)
+### Individual Knowing Circuit (8 channels)
 
 The circuit of mutation, empowerment, and melancholy. These channels carry unique knowing and creative expression.
 
@@ -392,7 +392,6 @@ The circuit of mutation, empowerment, and melancholy. These channels carry uniqu
 | 28-38 | The Fighter | 28-38 | Spleen ↔ Root | Projected | ✅ Complete | [[Channel 28-38 - The Fighter]] |
 | 35-36 | Transitoriness | 35-36 | Solar Plexus ↔ Throat | Manifesting | ✅ Complete | [[Channel 35-36 - Transitoriness]] |
 | 39-55 | Moodiness | 39-55 | Root ↔ Solar Plexus | Manifesting | ✅ Complete | [[Channel 39-55 - Moodiness]] |
-| 60-3 | Mutation | 60-3 | Root ↔ Sacral | Manifesting | ✅ Complete | [[Channel 3-60 - Mutation]] |
 
 ### Individual Centering Circuit (2 channels)
 
@@ -403,7 +402,7 @@ The circuit of empowerment through the Ego/Heart Center. These are the only Indi
 | 25-51 | Initiation | 25-51 | G ↔ Heart | Manifesting | ✅ Complete | [[Channel 25-51 - Initiation]] |
 | 29-46 | Discovery | 29-46 | Sacral ↔ G | Manifesting | ✅ Complete | [[Channel 29-46 - Discovery]] |
 
-### Collective Logic Circuit (9 channels)
+### Collective Logic Circuit (7 channels)
 
 The circuit of understanding through patterns and logic. These channels share proven knowledge and mastery.
 
@@ -416,10 +415,8 @@ The circuit of understanding through patterns and logic. These channels share pr
 | 16-48 | Wavelength | 16-48 | Throat ↔ Spleen | Projected | ✅ Complete | [[Channel 16-48 - Wavelength]] |
 | 17-62 | Acceptance | 17-62 | Ajna ↔ Throat | Projected | ✅ Complete | [[Channel 17-62 - Acceptance]] |
 | 18-58 | Judgment | 18-58 | Root ↔ Spleen | Projected | ✅ Complete | [[Channel 18-58 - Judgment]] |
-| 62-17 | Acceptance | 62-17 | Ajna ↔ Throat | Projected | ✅ Complete | [[Channel 17-62 - Acceptance]] |
-| 63-4 | Logic | 63-4 | Head ↔ Ajna | Projected | ✅ Complete | [[Channel 4-63 - Logic]] |
 
-### Collective Abstract Circuit (5 channels)
+### Collective Abstract Circuit (6 channels)
 
 The circuit of sensing and sharing experience. These channels process and share emotional and experiential wisdom.
 
@@ -432,7 +429,7 @@ The circuit of sensing and sharing experience. These channels process and share 
 | 42-53 | Maturation | 42-53 | Root ↔ Sacral | Manifesting | ✅ Complete | [[Channel 42-53 - Maturation]] |
 | 47-64 | Abstraction | 47-64 | Head ↔ Ajna | Projected | ✅ Complete | [[Channel 47-64 - Abstraction]] |
 
-### Tribal Ego Circuit (5 channels)
+### Tribal Ego Circuit (4 channels)
 
 The circuit of support and material resources. These channels ensure tribal survival through willpower and bargaining.
 
@@ -442,9 +439,8 @@ The circuit of support and material resources. These channels ensure tribal surv
 | 21-45 | Money | 21-45 | Heart ↔ Throat | Manifesting | ✅ Complete | [[Channel 21-45 - Money]] |
 | 26-44 | Surrender | 26-44 | Heart ↔ Spleen | Projected | ✅ Complete | [[Channel 26-44 - Surrender]] |
 | 37-40 | Community | 37-40 | Solar Plexus ↔ Heart | Projected | ✅ Complete | [[Channel 37-40 - Community]] |
-| 40-37 | Community | 40-37 | Heart ↔ Solar Plexus | Projected | ✅ Complete | [[Channel 37-40 - Community]] |
 
-### Tribal Defense Circuit (4 channels)
+### Tribal Defense Circuit (3 channels)
 
 The circuit of caring and nourishment. These channels protect and nurture the tribe.
 
@@ -453,17 +449,16 @@ The circuit of caring and nourishment. These channels protect and nurture the tr
 | 6-59 | Intimacy | 6-59 | Solar Plexus ↔ Sacral | Manifesting | ✅ Complete | [[Channel 6-59 - Intimacy]] |
 | 27-50 | Preservation | 27-50 | Sacral ↔ Spleen | Projected | ✅ Complete | [[Channel 27-50 - Preservation]] |
 | 32-54 | Transformation | 32-54 | Root ↔ Spleen | Projected | ✅ Complete | [[Channel 32-54 - Transformation]] |
-| 50-27 | Preservation | 50-27 | Spleen ↔ Sacral | Projected | ✅ Complete | [[Channel 27-50 - Preservation]] |
 
 **Channel Totals by Circuit:**
 - Integration: 6 channels
-- Individual Knowing: 9 channels
+- Individual Knowing: 8 channels
 - Individual Centering: 2 channels
-- Collective Logic: 9 channels
-- Collective Abstract: 5 channels (note: 6th channel is 53-42, duplicate of 42-53)
-- Tribal Ego: 5 channels
-- Tribal Defense: 4 channels
-- **Total: 36 unique channels** (some listed bidirectionally above for navigation)
+- Collective Logic: 7 channels
+- Collective Abstract: 6 channels
+- Tribal Ego: 4 channels
+- Tribal Defense: 3 channels
+- **Total: 36 unique channels**
 
 **Reference Commits:**
 - Channels 1-12 expansion (2026-01-17): agent ac44836
