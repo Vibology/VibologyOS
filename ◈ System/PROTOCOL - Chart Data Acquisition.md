@@ -1,7 +1,7 @@
 ---
 tags: [system, protocol, data-integrity, astrology, human-design]
 date_created: 2026-01-15
-date_updated: 2026-01-16
+date_updated: 2026-01-17
 ---
 
 # Protocol: Chart Data Acquisition
@@ -42,19 +42,64 @@ Three local, free, self-hosted tools provide precise calculations:
 
 ### Environment Setup (One-Time)
 
-The tools are installed in `◈ System/Scripts/.venv/`:
+VibologyOS uses a **virtual environment** to isolate Python dependencies and prevent conflicts with system packages. This protects against dependencies being removed during system updates.
+
+**Location:** `.venv/` (in VibologyOS root directory)
+**Dependencies:** Managed via `◈ System/Scripts/requirements.txt`
+
+#### Initial Setup
 
 ```bash
-# Activate the virtual environment
-cd "◈ System/Scripts"
+# Navigate to VibologyOS root
+cd ~/VibologyOS
+
+# Create virtual environment (if it doesn't exist)
+python3 -m venv .venv
+
+# Activate virtual environment
 source .venv/bin/activate
+
+# Install required dependencies
+pip install -r "◈ System/Scripts/requirements.txt"
 
 # Verify installations
 python -c "from kerykeion import AstrologicalSubject; print('Kerykeion OK')"
-python -c "from geopy.geocoders import Nominatim; print('Geopy OK')"
-python -c "from timezonefinder import TimezoneFinder; print('TimezoneFinder OK')"
-python get_hd_data.py --check
+python -c "import httpx; print('HTTPX OK')"
+
+# Test scripts
+"◈ System/Scripts/calculate_chart.sh" astrology --help
+"◈ System/Scripts/calculate_chart.sh" humandesign --help
 ```
+
+#### Reinstalling After System Updates
+
+If system updates remove dependencies or break the virtual environment:
+
+```bash
+cd ~/VibologyOS
+
+# Option 1: Reinstall dependencies (usually sufficient)
+source .venv/bin/activate
+pip install -r "◈ System/Scripts/requirements.txt"
+
+# Option 2: Rebuild virtual environment from scratch (if corrupted)
+rm -rf .venv
+python3 -m venv .venv
+source .venv/bin/activate
+pip install -r "◈ System/Scripts/requirements.txt"
+```
+
+#### Dependencies List
+
+**Core (required):**
+- `kerykeion` - Astrology calculations via Swiss Ephemeris
+- `httpx` - Human Design API client
+
+**Optional (geolocation verification):**
+- `geopy` - Geocoding (install system-wide: `sudo apt install python3-geopy`)
+- `timezonefinder` - Timezone from coordinates (install via pip if needed)
+
+**Note:** The wrapper script `calculate_chart.sh` automatically activates the virtual environment, so you don't need to manually activate it for chart calculations.
 
 ### Human Design API Server
 
@@ -349,34 +394,93 @@ If errors discovered after synthesis is complete:
 
 ## Quick Reference
 
-### Verify Geolocation
+### Using the Wrapper Script (Recommended)
+
+The `calculate_chart.sh` wrapper script automatically activates the virtual environment:
+
 ```bash
-cd "◈ System/Scripts" && source .venv/bin/activate && python verify_geolocation.py --place "City, Country" --birth-date YYYY-MM-DD --pretty
+# Calculate Astrology Natal Chart
+"◈ System/Scripts/calculate_chart.sh" astrology \
+  --name "Name" \
+  --year YYYY --month M --day D \
+  --hour H --minute M \
+  --lat LAT --lng LNG \
+  --timezone "IANA/Timezone" \
+  --pretty > astrology.json
+
+# Calculate Human Design Natal Chart
+"◈ System/Scripts/calculate_chart.sh" humandesign \
+  --name "Name" \
+  --year YYYY --month M --day D \
+  --hour H --minute M \
+  --lat LAT --lng LNG \
+  --pretty > humandesign.json
+
+# Example: Full calculation for Joe Lewis
+cd "🤝 Consultations/Joe Lewis"
+
+"../../◈ System/Scripts/calculate_chart.sh" astrology \
+  --name "Joe Lewis" \
+  --year 1978 --month 9 --day 18 \
+  --hour 17 --minute 34 \
+  --lat 37.6706 --lng -82.2807 \
+  --timezone "America/New_York" \
+  --pretty > astrology.json
+
+"../../◈ System/Scripts/calculate_chart.sh" humandesign \
+  --name "Joe Lewis" \
+  --year 1978 --month 9 --day 18 \
+  --hour 17 --minute 34 \
+  --lat 37.6706 --lng -82.2807 \
+  --pretty > humandesign.json
 ```
 
-### Calculate Astrology Natal Chart
-```bash
-cd "◈ System/Scripts" && source .venv/bin/activate && python get_astro_data.py --name "Name" --year YYYY --month M --day D --hour H --minute M --lat LAT --lng LNG --timezone "IANA/Timezone" --pretty
-```
+### Direct Script Usage (Manual venv activation)
 
-### Calculate HD Natal Chart
-```bash
-cd "◈ System/Scripts" && source .venv/bin/activate && python get_hd_data.py --name "Name" --year YYYY --month M --day D --hour H --minute M --place "City, Country" --pretty
-```
+If you need to use scripts directly without the wrapper:
 
-### Calculate Transits
 ```bash
-cd "◈ System/Scripts" && source .venv/bin/activate && python get_transit_data.py --start-date YYYY-MM-DD --end-date YYYY-MM-DD --natal-file astrology.json --pretty
-```
+cd ~/VibologyOS
+source .venv/bin/activate
 
-### Find Ingress Dates
-```bash
-python get_transit_data.py --ingress-planet saturn --start-date YYYY-MM-DD --end-date YYYY-MM-DD --pretty
-```
+# Calculate Astrology Natal Chart
+python3 "◈ System/Scripts/get_astro_data.py" \
+  --name "Name" \
+  --year YYYY --month M --day D \
+  --hour H --minute M \
+  --lat LAT --lng LNG \
+  --timezone "IANA/Timezone" \
+  --pretty
 
-### Find Return Dates
-```bash
-python get_transit_data.py --return-planet chiron --natal-position 29.40 --start-date YYYY-MM-DD --end-date YYYY-MM-DD --pretty
+# Calculate HD Natal Chart
+python3 "◈ System/Scripts/get_hd_data.py" \
+  --name "Name" \
+  --year YYYY --month M --day D \
+  --hour H --minute M \
+  --lat LAT --lng LNG \
+  --pretty
+
+# Calculate Transits
+python3 "◈ System/Scripts/get_transit_data.py" \
+  --start-date YYYY-MM-DD \
+  --end-date YYYY-MM-DD \
+  --natal-file astrology.json \
+  --pretty
+
+# Find Ingress Dates
+python3 "◈ System/Scripts/get_transit_data.py" \
+  --ingress-planet saturn \
+  --start-date YYYY-MM-DD \
+  --end-date YYYY-MM-DD \
+  --pretty
+
+# Find Return Dates
+python3 "◈ System/Scripts/get_transit_data.py" \
+  --return-planet chiron \
+  --natal-position 29.40 \
+  --start-date YYYY-MM-DD \
+  --end-date YYYY-MM-DD \
+  --pretty
 ```
 
 ### Start HD API Server
@@ -393,5 +497,6 @@ pkill -f "uvicorn humandesign"
 
 ## Version History
 
+- **2026-01-17:** Virtual environment setup. Created `.venv/` in VibologyOS root, `requirements.txt` for dependency management, `calculate_chart.sh` wrapper script for automatic venv activation. Updated all Quick Reference examples. Addresses dependency persistence issues after system updates (PEP 668 compliance).
 - **2026-01-16:** Major revision. Added geolocation verification (`verify_geolocation.py`), transit calculation (`get_transit_data.py`), verification checklist template, updated file organization. Response to transit data hallucination issue in Szilvia Williams synthesis.
 - **2026-01-15:** Initial protocol created. Kerykeion v5.6.1 + humandesign_api v1.7.2 installed.

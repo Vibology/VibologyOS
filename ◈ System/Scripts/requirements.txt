@@ -1,0 +1,20 @@
+# VibologyOS Chart Calculation Dependencies
+# Install with: pip install -r requirements.txt
+
+# Astrology Chart Calculation (Swiss Ephemeris)
+kerykeion>=4.0.0
+
+# Human Design API Client
+httpx>=0.24.0
+
+# Location/Timezone Verification (optional - for verify_geolocation.py)
+# Note: geopy and timezonefinder are only needed if running verify_geolocation.py
+# For basic chart calculation, coordinates can be provided manually
+# geopy>=2.3.0
+# timezonefinder>=6.0.0
+
+# Standard library dependencies (already included in Python 3.12+)
+# - json
+# - datetime
+# - argparse
+# - sys
