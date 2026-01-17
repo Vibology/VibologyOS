@@ -108,6 +108,7 @@ date_updated: 2026-01-17
 | 2/5 | Hermit/Heretic | Reclusive Universalizer | ✅ Complete | [[2-5 Hermit Heretic]] |
 | 3/5 | Martyr/Heretic | The Great Fixer | ✅ Complete | [[3-5 Martyr Heretic]] |
 | 3/6 | Martyr/Role Model | Experimental Sage | ✅ Complete | [[3-6 Martyr Role Model]] |
+| 4/6 | Opportunist/Role Model | Modeling Uniqueness Through Network | ✅ Complete | [[4-6 Opportunist Role Model]] |
 
 ### Juxtaposition Profiles (Fixed Fate)
 
@@ -119,16 +120,15 @@ date_updated: 2026-01-17
 
 | Profile | Conscious/Unconscious | Life Theme | Status | Link |
 |---------|----------------------|------------|--------|------|
-| 4/6 | Opportunist/Role Model | Trans-personal Networker | ✅ Complete | [[4-6 Opportunist Role Model]] |
 | 5/1 | Heretic/Investigator | Universal Researcher | ✅ Complete | [[5-1 Heretic Investigator]] |
 | 5/2 | Heretic/Hermit | Universal Recluse | ✅ Complete | [[5-2 Heretic Hermit]] |
 | 6/2 | Role Model/Hermit | Objective Wise Observer | ✅ Complete | [[6-2 Role Model Hermit]] |
 | 6/3 | Role Model/Martyr | Optimistic Experimenter | ✅ Complete | [[6-3 Role Model Martyr]] |
 
 **Profile Angles:**
-- **Right Angle (Personal):** 1/3, 1/4, 2/4, 2/5, 3/5, 3/6
+- **Right Angle (Personal):** 1/3, 1/4, 2/4, 2/5, 3/5, 3/6, 4/6
 - **Juxtaposition (Fixed):** 4/1
-- **Left Angle (Trans-personal):** 4/6, 5/1, 5/2, 6/2, 6/3
+- **Left Angle (Trans-personal):** 5/1, 5/2, 6/2, 6/3
 
 **Reference Commits:**
 - Initial HD pillar build (2026-01-08)
