@@ -26,7 +26,7 @@ As the Library grows (currently 159 files across 7 pillars, expanding toward 500
 
 **Total Files:** 159 markdown entries
 **Cross-Reference Density:** 97% of files contain [[wikilinks]]
-**Systems Represented:** 7 pillars (Tarot, Astrology, Human Design, Qabalah/Window, Folklore/Jungian, Angelology, Core Foundations)
+**Systems Represented:** 7 pillars (Angelology, Astrology, Folklore, Human Design, The Magdalene Path, The Tarot, The Window)
 
 **System Breakdown:**
 - **Tarot:** 79 files (22 Major Arcana + 56 Minor Arcana + spreads/structures) → Most developed

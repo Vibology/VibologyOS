@@ -232,13 +232,13 @@ The following advanced content is **NOT required** for pillar completion but cou
 ## Cross-References
 
 ### Other VibologyOS Pillars
-- **[[The Tarot]]** — 78/78 entries ✅ Tier 3 Complete
-- **[[Astrology]]** — 37/37 entries ✅ Tier 3 Complete
-- **[[Human Design]]** — 133/133 entries ✅ Tier 3 Complete
-- **[[Angelology]]** — 23/23 entries ✅ Tier 3 Complete
-- **[[Qabalah]]** — In development
-- **[[The Window]]** — Planned
-- **[[The Magdalene Path]]** — Planned
+- **[[The Tarot]]** — 78/78 entries ✅ Tier 3 Complete (Qabalistic pathways)
+- **[[Astrology]]** — 37/37 entries ✅ Tier 3 Complete (Planetary timing)
+- **[[Human Design]]** — 133/133 entries ✅ Tier 3 Complete (Individual genetic imprinting)
+- **[[Angelology]]** — 23/23 entries ✅ Tier 3 Complete (Hierarchical consciousness)
+- **[[Folklore]]** — INDEX created, expansion planned (Cultural archetypes, Jungian psychology)
+- **[[The Window]]** — Planned (Contemporary archetypal resonance, I-Ching framework)
+- **[[The Magdalene Path]]** — Planned (Unifying core, vertical soul ascent)
 
 ### Key Integration Documents
 - [[◈ System/NEXT.md]] — Current priorities and recent work

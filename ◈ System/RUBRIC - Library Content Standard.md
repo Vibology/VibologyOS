@@ -3,7 +3,8 @@ tags: [system, template, rubric, quality-standard]
 date_created: 2026-01-09
 purpose: Universal quality standard for all VibologyOS Library content
 applies_to: [Angelology, Astrology, Folklore, Human Design, The Magdalene Path, The Tarot, The Window]
-version: 2.0
+version: 2.1
+date_updated: 2026-01-17
 ---
 
 # VibologyOS Library Content Standard (Universal Rubric)
@@ -18,12 +19,35 @@ This rubric establishes the quality standard for **all comprehensive library ent
 
 ---
 
+## The Seven Pillars (Canonical Reference)
+
+**CRITICAL:** The `applies_to` field above lists the ONLY valid pillars. Never reference pillars not in this list.
+
+**The Seven Pillars of VibologyOS:**
+1. **Angelology** - Hierarchical consciousness patterns
+2. **Astrology** - Planetary timing and cosmic positioning
+3. **Folklore** - Cultural archetypal encoding (includes Jungian psychology)
+4. **Human Design** - Individual genetic imprinting
+5. **The Magdalene Path** - Unifying core; vertical soul ascent
+6. **Tarot** - Qabalistic pathways (includes Qabalah framework)
+7. **The Window** - Contemporary archetypal resonance (includes I-Ching framework)
+
+**What is NOT a separate pillar:**
+- Qabalah = Framework within Tarot and Angelology
+- I-Ching = Framework within The Window
+- Gene Keys = Related system within Human Design
+- Jungian Psychology = Core content within Folklore
+
+**When writing system-specific appendices or pillar content:** Only reference the seven pillars listed above.
+
+---
+
 ## File Structure Template
 
 ```markdown
 ---
 tags: [{system}, {category}, {specific-tags}]
-system: {Human Design / Astrology / Tarot / Qabalah / etc.}
+system: {One of the Seven Pillars: Angelology / Astrology / Folklore / Human Design / The Magdalene Path / The Tarot / The Window}
 date_created: YYYY-MM-DD
 {system-specific YAML fields - see System Guidelines appendix}
 ---
