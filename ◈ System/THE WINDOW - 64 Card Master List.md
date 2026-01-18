@@ -23,9 +23,9 @@ status: Active - Card Assignment in Progress
 | 3 | The Shapeshifter | The Thing | Gemini | 53 | 53 (Development) | 53 | 🟡 |
 | 4 | The Divine Child | E.T. | Cancer | 37 | 37 (The Family) | 37 | 🟡 |
 | 5 | The Persona | Ziggy Stardust | Leo | 41 | 41 (Decrease) | 41 | 🟡 |
-| 6 | The Wise Old Man | Mr. Miyagi | Virgo | 40 | 40 (Deliverance) | 40 | 🟡 |
+| 6 | The Wise Man | Mr. Miyagi | Virgo | 40 | 40 (Deliverance) | 40 | 🟡 |
 | 7 | The Anima | Robert Smith | Libra | 46 | 46 (Pushing Upward) | 46 | 🟡 |
-| 8 | The Shadow | Michael Myers | Scorpio | 44 | 44 (Coming to Meet) | 44 | 🟡 |
+| 8 | The Shape | Michael Myers | Scorpio | 44 | 44 (Coming to Meet) | 44 | 🟡 |
 | 9 | The Joker | The Joker | Sagittarius | 35 | 35 (Progress) | 35 | 🟡 |
 | 10 | The Animus | Madonna | Capricorn | 31 | 31 (Influence) | 31 | 🟡 |
 | 11 | The Self | Prince | Aquarius | 43 | 43 (Breakthrough) | 43 | 🟡 |
@@ -203,11 +203,11 @@ status: Active - Card Assignment in Progress
 - Gate 37 → The Divine Child (Archetype)
 - Gate 38 → Perseverance (House of Stars)
 - Gate 39 → The Threshold Guardian (Archetype)
-- Gate 40 → The Wise Old Man (Archetype)
+- Gate 40 → The Wise Man (Archetype)
 - Gate 41 → The Persona (Archetype)
 - Gate 42 → Consecration (Portal)
 - Gate 43 → The Self (Archetype)
-- Gate 44 → The Shadow (Archetype)
+- Gate 44 → The Shape (Archetype)
 - Gate 45 → Domination (House of Spirit)
 - Gate 46 → The Anima (Archetype)
 - Gate 47 → Despair (House of Chronicle)

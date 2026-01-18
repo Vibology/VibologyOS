@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0f21b193d3b9a9ee",
+        "id": "7b38973974abb849",
         "type": "tabs",
         "children": [
           {
-            "id": "537850c22d4ae0a3",
+            "id": "88ad5f9f06b7e17a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Start Here.md",
-                "mode": "preview",
+                "file": "The Window/Twelve Archetypes/The Hero.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Start Here"
+              "title": "The Hero"
             }
           }
         ]
@@ -184,43 +184,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "537850c22d4ae0a3",
+  "active": "88ad5f9f06b7e17a",
   "lastOpenFiles": [
-    "Angelology/INDEX - Angelology Master List.md",
-    "Angelology/INDEX - Angelology Master List.md.tmp.1968174.1768680704525",
-    "Angelology/Archangels/Raphael.md",
-    "Angelology/Archangels/Raphael.md.tmp.1968174.1768680534292",
-    "Angelology/Archangels/Michael.md",
-    "Angelology/Archangels/Michael.md.tmp.1968174.1768680434985",
-    "Angelology/Archangels/Uriel.md",
-    "Angelology/Archangels/Uriel.md.tmp.1968174.1768680423706",
-    "Angelology/Archangels/Gabriel.md",
-    "Angelology/Archangels/Gabriel.md.tmp.1968174.1768680380168",
-    "Angelology/Archangels/Tzadkiel.md",
-    "Angelology/Archangels/Tzadkiel.md.tmp.1968174.1768679838729",
-    "Angelology/Archangels/Kamael.md",
-    "Angelology/Archangels/Kamael.md.tmp.1968174.1768679719171",
-    "Angelology/Archangels/Haniel.md",
-    "Angelology/Archangels/Haniel.md.tmp.1968174.1768679711777",
-    "Angelology/Archangels/Raziel.md",
-    "Angelology/Archangels/Raziel.md.tmp.1968174.1768679312707",
-    "Angelology/Archangels/Tzaphkiel.md",
-    "Angelology/Archangels/Tzaphkiel.md.tmp.1968174.1768679039149",
-    "Angelology/Archangels/Metatron.md",
-    "Angelology/Archangels/Sandalphon.md",
-    "Angelology/Orders/Principalities.md",
-    "Angelology/Orders/Angels.md",
-    "Angelology/Orders/Archangels.md",
-    "Angelology/Orders/Virtues.md",
-    "Angelology/Orders/Powers.md",
-    "Angelology/Orders/Dominations.md",
-    "Angelology/Orders/Cherubim.md",
-    "Angelology/Orders/Seraphim.md",
-    "Angelology/Orders/Thrones.md",
-    "Angelology/Angelology and Human Design Integration.md",
-    "Angelology/The Three Triads.md",
-    "Astrology/Houses/1st House.md",
-    "Astrology/Aspects/Aspects Overview.md",
-    "Human Design/INDEX - Human Design Master List.md"
+    "Folklore/INDEX - Folklore Master List.md",
+    "Core Foundations/Anima et Algorithm.md",
+    "Folklore/INDEX - Folklore Master List.md.tmp.1968174.1768695416119",
+    "Folklore/INDEX - Folklore Master List.md.tmp.1968174.1768695398432",
+    "Folklore/INDEX - Folklore Master List.md.tmp.1968174.1768695355281",
+    "Folklore/INDEX - Folklore Master List.md.tmp.1968174.1768695343469",
+    "Folklore/Hero's Journey/Return with the Elixir.md",
+    "Folklore/Hero's Journey/Return with the Elixir.md.tmp.1968174.1768695236497",
+    "Folklore/Hero's Journey/The Road Back.md",
+    "Folklore/Hero's Journey/The Road Back.md.tmp.1968174.1768694870881",
+    "Folklore/Hero's Journey/Approach to the Inmost Cave.md",
+    "Folklore/Hero's Journey/Approach to the Inmost Cave.md.tmp.1968174.1768694850349",
+    "Folklore/Hero's Journey/Meeting the Mentor.md",
+    "Folklore/Hero's Journey/Meeting the Mentor.md.tmp.1968174.1768694848628",
+    "Folklore/Hero's Journey/The Resurrection.md",
+    "Folklore/Hero's Journey/The Resurrection.md.tmp.1968174.1768694840497",
+    "Folklore/Hero's Journey/Refusal of the Call.md",
+    "Folklore/Hero's Journey/Refusal of the Call.md.tmp.1968174.1768694832713",
+    "Folklore/Hero's Journey/Tests, Allies, and Enemies.md",
+    "Folklore/Hero's Journey/The Call to Adventure.md",
+    "Folklore/Hero's Journey/The Ordinary World.md",
+    "Folklore/Hero's Journey/Crossing the First Threshold.md",
+    "Folklore/Hero's Journey/The Reward.md",
+    "Core Foundations/Inner Authority and Strategy.md",
+    "Core Foundations/Seven-Coordinate Navigation.md",
+    "Core Foundations/Techgnosis.md",
+    "Core Foundations/The Blueprint - 444 Architecture.md",
+    "Folklore/Hero's Journey/The Ordeal.md",
+    "Folklore/Jungian Archetypes/The Threshold Guardian.md",
+    "Folklore/Jungian Archetypes/The Joker.md",
+    "Folklore/Jungian Archetypes/The Shadow.md",
+    "Folklore/Jungian Archetypes/The Wise Old Man.md",
+    "Folklore/Jungian Archetypes/The Persona.md",
+    "Folklore/Jungian Archetypes/The Hero.md",
+    "Folklore/Jungian Archetypes/The Great Mother.md",
+    "Folklore/Jungian Archetypes/The Animus.md"
   ]
 }
