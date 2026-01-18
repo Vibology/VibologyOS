@@ -94,6 +94,43 @@ When the [[Moon ☽]] is in the 4th House (its natural home), **emotional securi
 **Challenge:** Clinging to past, inability to leave home (physically or psychologically)
 
 ---
+
+### Mercury in the 4th House
+
+When [[Mercury  ☿]] is in the 4th House, **the mind processes ancestry and emotional foundation**. Thought is private, interior, focused on family narratives and psychological roots. These individuals think about home, analyze family dynamics, and articulate the unspoken.
+
+**Gift:** Psychological insight into family, articulate about emotions, intellectual roots
+**Challenge:** Overthinking family history, difficulty leaving the past mentally
+
+---
+
+### Venus in the 4th House
+
+When [[Venus ♀]] is in the 4th House, **love and beauty are rooted in home, family, and private sanctuary**. These individuals create beauty in domestic spaces; values are inherited from lineage. Home becomes aesthetic refuge and site of nurturance.
+
+**Gift:** Beautiful home, family harmony, inherited aesthetic values, domestic grace
+**Challenge:** Over-attachment to family approval, valuing comfort over growth
+
+---
+
+### Mars in the 4th House
+
+When [[Mars ♂]] is in the 4th House, **there is conflict in the home or warrior lineage**. Drive to defend family; the private space as battleground. These individuals may inherit ancestral rage or experience domestic tension that forges strength.
+
+**Gift:** Courage to confront family truth, protective instinct, earned emotional strength
+**Challenge:** Domestic violence, ancestral rage, inability to find peace at home
+
+---
+
+### Jupiter in the 4th House
+
+When [[Jupiter ♃]] is in the 4th House, **expansion is rooted in home, family, and emotional foundation**. These individuals experience protection and nourishment from lineage—large family, generous parents, or home as sanctuary of abundance.
+
+**Gift:** Emotional generosity, family blessing, abundant home life, inherited wisdom
+**Challenge:** Entitlement, taking emotional support for granted, difficulty leaving comfort
+
+---
+
 ### Saturn in the 4th House
 
 When [[Saturn ♄]] is in the 4th House, **the foundation is tested**. These individuals often experience harsh upbringing, absent father, or emotional coldness at the root. Over time, Saturn builds **earned sanctuary**—home as refuge they create themselves.
@@ -102,6 +139,25 @@ When [[Saturn ♄]] is in the 4th House, **the foundation is tested**. These ind
 **Challenge:** Homelessness (literal or psychological), difficulty feeling safe
 
 ---
+
+### Uranus in the 4th House
+
+When [[Uranus ♅]] is in the 4th House, **there is rupture in the home or unconventional family structure**. Nomadic or unstable roots; the private life as experiment. These individuals may experience sudden moves, unusual family dynamics, or emotional rebellion against tradition.
+
+**Gift:** Freedom from ancestral conditioning, innovative home life, independence from roots
+**Challenge:** Homelessness (literal or symbolic), inability to establish emotional foundation
+
+---
+
+### Neptune in the 4th House
+
+When [[Neptune ♆]] is in the 4th House, **the family of origin is shrouded in mystery, idealization, or dysfunction**. The native may have grown up with a martyr parent, addict, or mystic. Home is sanctuary or prison—boundaries dissolved at the root.
+
+**Gift:** Spiritual home life, compassionate family service, mystical ancestry
+**Challenge:** Ancestral addiction or mental illness, family secrets, inability to feel safe
+
+---
+
 ### Pluto in the 4th House
 
 When [[Pluto ♇]] is in the 4th House, **the roots are toxic**. These individuals inherit family trauma—abuse, secrets, power dynamics buried in the basement. The work is to **excavate and transmute** what was hidden.
