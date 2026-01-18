@@ -11,18 +11,21 @@ decan_rulers: [Jupiter, Mars, Sun]
 ---
 *The Messenger and the Dance of Duality*
 
+---
 ## Archetypal Essence
 
 Gemini is **The Messenger**—the principle of **exchange**, the swift movement between opposites that creates relationship. Where [[Taurus ♉]] consolidates, Gemini **distributes**—scattering information, connecting nodes, revealing that meaning exists not in objects but in the *space between* them.
 
 In the esoteric tradition, Gemini is **The Shape**—the archetype that shifts form to match context, that knows identity is performance and plays all roles with equal facility. The Twins are not duplicity but *multiplicity*: the recognition that consciousness is never singular.
 
+---
 ## Glyph & Symbolism
 
 **♊** — The Twins, two vertical pillars connected by horizontal lines.
 
 The pillars represent the **duality** that structures perception: light/dark, self/other, this/that. The horizontal connections signify the **network**: the web of communication that binds separate nodes into system. In esoteric physiology, Gemini governs the **sense of Smell**: the capacity to detect invisible currents, to navigate by trace and signal.
 
+---
 ## Mythology: Castor and Pollux, the Dioscuri
 
 Gemini inherits its symbolism from the Greek myth of **Castor and Pollux**, the twin sons of Leda—one mortal, one divine. Leda, Queen of Sparta, was visited by **Zeus** in the form of a swan; on the same night, she lay with her mortal husband, King Tyndareus. From this union came two sets of twins: **Pollux** (immortal, son of Zeus) and **Helen** (later Helen of Troy), and **Castor** (mortal, son of Tyndareus) and **Clytemnestra**.
@@ -31,24 +34,28 @@ Castor and Pollux were inseparable—warriors, horsemen, protectors of sailors. 
 
 The myth encodes Gemini's core archetype: **duality as relationship, not opposition**. The twins are not rivals but complements; they do not compete, they **complete**. Castor is the mortal intellect, grounded in the world of sensation and experience. Pollux is the divine spark, the intuition that transcends logic. Gemini teaches that wholeness requires **both**—and that the self is never singular.
 
+---
 ## Element & Modality
 
 **Air** (thought, communication, abstraction) | **Mutable** (adapting, distributing)
 
 Gemini is **Mutable Air**—the breeze that carries pollen, the rumor that spreads through the marketplace, the joke that punctures pretension. Mutable signs *distribute* what Fixed signs consolidate. Air signs *conceptualize* what Fire signs initiate. Gemini is the idea freed from its original container, mutating as it travels.
 
+---
 ## Planetary Ruler
 
 **[[Astrology/Planets/Mercury # ☿]]** — The swift-footed messenger, the psychopomp who crosses all boundaries.
 
 Mercury in Gemini is in his **domicile**—pure communication, unencumbered by judgment (Virgo) or grand narrative (Sagittarius). This is Mercury as **trickster**: playful, amoral, interested not in truth but in *transmission*. Did the message arrive? Then the work is done.
 
+---
 ## Seasonal Context: Late Spring (May 21 - June 20)
 
 Gemini season arrives in **late spring**, after the earth has solidified ([[Taurus ♉]]) and just before the summer heat ([[Cancer ♋]]). This is the season of **pollination**—when pollen scatters on the wind, when birds migrate and carry seeds, when information (genetic, ecological, cultural) **disperses** across networks.
 
 The natural world is in conversation: flowers signal to bees, trees communicate through mycorrhizal networks, animals establish territories through sound and scent. Gemini is the principle of **cross-pollination**—the recognition that nothing evolves in isolation. Ideas, like seeds, must travel to take root elsewhere.
 
+---
 ## Decan Analysis: The Three Faces of Gemini
 
 Each sign divides into three **decans** (10° segments), each ruled by a different planet. The decans reveal how the archetype modulates across its span.
@@ -68,6 +75,7 @@ Each sign divides into three **decans** (10° segments), each ruled by a differe
 - Expression: Gemini as artist—using multiplicity to *perform* identity rather than fragment it. The Sun adds warmth and coherence; the mind becomes a stage. The actor, the teacher, the one who synthesizes disparate threads into narrative.
 - Shadow: Performance without authenticity; the shape-shifter who forgets which mask is theirs.
 
+---
 ## Polarity Axis: Gemini-Sagittarius
 
 Gemini and [[Sagittarius ♐]] form the **axis of meaning-making**—the tension between data and narrative, analysis and synthesis, the particular and the universal.
@@ -78,6 +86,7 @@ Gemini and [[Sagittarius ♐]] form the **axis of meaning-making**—the tension
 
 The axis teaches: **Gemini gathers the data; Sagittarius interprets it.** Both are necessary. Without Gemini, Sagittarius becomes rigid dogma. Without Sagittarius, Gemini drowns in information without meaning.
 
+---
 ## Planets Through Gemini
 
 Gemini **colors** the expression of any planet placed within it, orienting the planet's energy toward communication, multiplicity, and exchange.
@@ -93,6 +102,7 @@ Gemini **colors** the expression of any planet placed within it, orienting the p
 - **Neptune in Gemini:** Mysticism through language, poetry as spiritual transmission. The channel, the medium, the one who speaks what they do not fully understand. Shadow: confusion, lies, propaganda, the dissolution of meaning.
 - **Pluto in Gemini (last transit: 1882-1914):** Transformation through communication. The printing press, the telegraph, the explosion of information that destroys old hierarchies. Shadow: information as control, surveillance, propaganda as weapon.
 
+---
 ## House Affinity: The 3rd House
 
 Gemini is the natural ruler of the **[[3rd House]]**—the domain of **communication, learning, siblings, and the immediate environment**.
@@ -106,6 +116,7 @@ The 3rd House governs:
 
 Where the **[[9th House]]** (Sagittarius) seeks distant horizons and grand meaning, the 3rd House explores the **near and the particular**. The question is not "What is the ultimate truth?" but "What is happening *here*, in this conversation, right now?"
 
+---
 ## Psychological & Jungian Depth
 
 Gemini represents **cognitive flexibility**—the capacity to hold multiple perspectives simultaneously without collapsing into one. In Jungian terms, Gemini is the **[[Trickster]]**: the archetype that destabilizes fixed meanings, that reveals the arbitrary nature of all categories.
@@ -124,6 +135,7 @@ The **Gemini wound** is the terror of stillness—the fear that if you stop movi
 
 **Integration:** The mature Gemini learns that **connection is not the same as depth**—that eventually, you must stop sampling and *commit* to one thread long enough to follow it to its root. The Twins must occasionally choose which pole to embody ([[Sagittarius ♐]]), even at the cost of multiplicity.
 
+---
 ## Medical and Physical Correlations
 
 In traditional medical astrology, Gemini governs the **respiratory system and nervous network**:
@@ -137,6 +149,7 @@ In traditional medical astrology, Gemini governs the **respiratory system and ne
 
 **Remediation:** Deep breathing practices (pranayama, breath-work), grounding exercises (to calm the nervous system), hand/arm stretching (yoga, Tai Chi), and practices that slow the mind (meditation, journaling, single-tasking).
 
+---
 ## Esoteric Significance
 
 **Polarity:** [[Sagittarius ♐]] (the synthesis to Gemini's analysis, meaning to data)
@@ -147,6 +160,7 @@ In the [[Human Design]] system, Gemini corresponds to the **Ajna Center**: the c
 
 In esoteric anatomy, Gemini governs the **lungs** (breath, the exchange between inner and outer), the **arms and hands** (reach, manipulation, gesture), and the **nervous system** (network, signal transmission).
 
+---
 ## Shadow Expressions and the Gemini Wound
 
 Gemini's shadow is **scatteredness without coherence**—the collector of fragments who never assembles them into whole, the conversationalist who never listens, the shapeshifter who forgets which face is theirs.
@@ -161,6 +175,7 @@ Gemini's shadow is **scatteredness without coherence**—the collector of fragme
 
 **Integration:** The mature Gemini knows that **multiplicity is a gift, not a curse**—but only when the Twins remain in dialogue with each other. The goal is not to collapse into singularity but to allow the dance between poles to generate something new: the [[Transcendent Function]].
 
+---
 ## Cross-System Resonances
 
 - **[[Tarot]]:** The Lovers (Key VI) — Choice, duality, the union of opposites
@@ -168,6 +183,7 @@ Gemini's shadow is **scatteredness without coherence**—the collector of fragme
 - **[[Jungian Archetypes]]:** The Trickster, the Herald
 - **[[Human Design]]:** Ajna Center (conceptualization, mental pattern-making)
 
+---
 ## Invitation for Contemplation
 
 How many versions of yourself do you perform—and which one is real? Gemini teaches that the question is misplaced: there is no "real" self beneath the masks. **You are the act of performance itself.**

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Astrology/Signs/Gemini ♊.md",
+                "file": "Astrology/Signs/Leo ♌.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gemini ♊"
+              "title": "Leo ♌"
             }
           }
         ]
@@ -187,6 +187,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Astrology/Signs/Gemini ♊.md",
+    "Folklore/INDEX - Folklore Master List.md.tmp.2189450.1768774923153",
+    "Folklore/INDEX - Folklore Master List.md.tmp.2189450.1768774903990",
+    "Folklore/INDEX - Folklore Master List.md.tmp.2189450.1768774887685",
+    "Folklore/Folklore.md.tmp.2189450.1768774866909",
     "Astrology/Signs/Capricorn ♑.md",
     "Astrology/Signs/Cancer ♋.md",
     "Folklore/INDEX - Folklore Master List.md.tmp.2189450.1768774280630",
@@ -202,7 +207,6 @@
     "Astrology/Signs/Pisces ♓.md",
     "Astrology/Signs/Libra ♎.md",
     "Astrology/Signs/Leo ♌.md",
-    "Astrology/Signs/Gemini ♊.md",
     "Astrology/Planets/Venus ♀.md",
     "Astrology/Planets/Uranus ♅.md",
     "Astrology/Planets/Sun ☉.md",
@@ -217,10 +221,6 @@
     "Astrology/Houses/12th House.md",
     "Astrology/Houses/11th House.md",
     "Folklore/Fairy Tales/Rapunzel.md.tmp.2189450.1768766095691",
-    "Folklore/Fairy Tales/Cinderella.md.tmp.2189450.1768766087965",
-    "Folklore/Fairy Tales/The Two Brothers.md.tmp.2189450.1768766071545",
-    "Folklore/Fairy Tales/Snow White.md.tmp.2189450.1768766025674",
-    "Folklore/Fairy Tales/Bluebeard.md.tmp.2189450.1768766013843",
-    "Folklore/Fairy Tales/Hansel and Gretel.md.tmp.2189450.1768766010497"
+    "Folklore/Fairy Tales/Cinderella.md.tmp.2189450.1768766087965"
   ]
 }
