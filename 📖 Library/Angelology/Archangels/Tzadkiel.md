@@ -22,7 +22,7 @@ function: Mercy, beneficence, divine justice
 **Title:** Prince of Mercy and Beneficence
 **Sephirah:** [[Chesed]] (Mercy, 4th emanation)
 **Order Governed:** [[Dominations]] (*Chashmalim* - "Shining Ones")
-**Planetary Sphere:** [[Jupiter]] (Tzedek)
+**Planetary Sphere:** [[Jupiter ♃]] (Tzedek)
 **Element:** Water (flow, abundance, grace)
 **Day:** Thursday (Jupiterian rulership)
 **Color:** Deep Blue (Atziluth), Violet (Briah)
@@ -59,7 +59,7 @@ To encounter Tzadkiel is to meet **the overwhelming generosity of the cosmos**�
 | **Sephirah Overseen** | [[Chesed]] (Mercy, 4th emanation) |
 | **Order Commanded** | [[Dominations]] (*Chashmalim* - "Shining Ones" or "Brilliant Ones") |
 | **Triad** | [[The Three Triads\|Second Triad]] (Governors) |
-| **Planetary Sphere** | [[Jupiter]] (Tzedek) - expansion, beneficence, abundance, sovereignty |
+| **Planetary Sphere** | [[Jupiter ♃]] (Tzedek) - expansion, beneficence, abundance, sovereignty |
 | **Element** | Water (flow, receptivity, nourishment, abundance) |
 | **Direction** | South (traditional Jupiter attribution in some systems) |
 | **Day of Week** | Thursday (Jupiter's day - Thor's day, Zeus's day) |
@@ -73,7 +73,7 @@ To encounter Tzadkiel is to meet **the overwhelming generosity of the cosmos**�
 | **Tarot (Minor)** | All Fours (Chesed's number - stability, foundation, structure of mercy) |
 | **I-Ching** | Hexagram 14 (Ta Yu/Possession in Great Measure) - abundance, sovereignty |
 | **Human Design** | [[Heart Center]] (will, sovereignty, self-worth, material mastery) |
-| **Astrological** | [[Jupiter]] (planet), [[Sagittarius]] (mutable fire, expansion, wisdom) |
+| **Astrological** | [[Jupiter ♃]] (planet), [[Sagittarius ♐]] (mutable fire, expansion, wisdom) |
 | **Metal** | Tin (Jupiter's metal - abundant, malleable, non-toxic) |
 | **Gemstone** | Amethyst, sapphire, lapis lazuli (Jupiter stones of wisdom and sovereignty) |
 | **Incense** | Cedar, hyssop, sage (expansive, purifying, abundant) |
@@ -306,7 +306,7 @@ These are all **Chesed/Tzadkiel functions**. Where Saturn (Binah/Tzaphkiel) cont
 
 ### Astrological Implications: Jupiter Transits
 
-In astrology, [[Jupiter]] transits mark moments when **Tzadkiel's presence is most intensely felt**:
+In astrology, [[Jupiter ♃]] transits mark moments when **Tzadkiel's presence is most intensely felt**:
 
 **Jupiter Return (every ~12 years, ages 12, 24, 36, 48, 60, 72, 84, 96):**
 The moment when Jupiter returns to its natal position, opening a new cycle of expansion, blessing, and growth. This is the **Tzadkiel initiation**—the call to step into greater sovereignty, to receive the blessing you've been preparing for, to expand beyond your previous limits.
@@ -888,9 +888,9 @@ To integrate Tzadkiel is to become the **generous king**—the one who blesses, 
 
 ### Astrology
 
-- **[[Jupiter]]** — Planet of expansion, abundance, wisdom, sovereignty (Tzadkiel's planetary correspondence)
-- **[[Sagittarius]]** — Mutable fire, the seeker of wisdom, the generous philosopher
-- **[[Pisces]]** — Mutable water, boundless compassion, universal mercy (Jupiter's ancient rulership)
+- **[[Jupiter ♃]]** — Planet of expansion, abundance, wisdom, sovereignty (Tzadkiel's planetary correspondence)
+- **[[Sagittarius ♐]]** — Mutable fire, the seeker of wisdom, the generous philosopher
+- **[[Pisces ♓]]** — Mutable water, boundless compassion, universal mercy (Jupiter's ancient rulership)
 - **9th House** — Jupiter's natural house, higher learning, philosophy, expansion of worldview
 - **[[Jupiter Return]]** (every ~12 years) — Tzadkiel initiation, the opening of a new cycle of blessing
 
@@ -908,7 +908,7 @@ To integrate Tzadkiel is to become the **generous king**—the one who blesses, 
 - **[[Tree of Life]]** — The map of divine emanation; Chesed is the fourth sphere
 - **[[Pillar of Mercy]]** — Right-hand pillar: Chokmah-Chesed-Netzach
 - **[[Dominations]]** — Angelic order of Chesed, commanded by Tzadkiel
-- **[[Jupiter]]** — Planetary attribution of Chesed
+- **[[Jupiter ♃]]** — Planetary attribution of Chesed
 - **[[Qlippoth]]** — Gha'agsheblah (the shadow of Chesed, the Disturbers)
 - **El** — Divine name of Chesed
 
@@ -920,13 +920,13 @@ To integrate Tzadkiel is to become the **generous king**—the one who blesses, 
 ### Jungian Psychology
 
 - **[[The King/Queen]]** — Archetypal sovereign, ruler of the psyche, benevolent authority
-- **[[The Self]]** — The totality of the psyche, the sovereign center (accessed through Chesed/Tzadkiel)
+- **[[Folklore/Jungian Archetypes/The Self]]** — The totality of the psyche, the sovereign center (accessed through Chesed/Tzadkiel)
 - **[[Individuation]]** — The process of becoming sovereign, claiming the Inner Throne
 
 ### Cross-Tradition Deities
 
 - **[[Zeus]]** (Greek) — King of gods, wielder of lightning, sovereign authority
-- **[[Jupiter]]** (Roman) — God of sky and thunder, the Great Benefic
+- **[[Jupiter ♃]]** (Roman) — God of sky and thunder, the Great Benefic
 - **[[Osiris]]** (Egyptian) — Benevolent king, teacher of civilization, just judge
 - **[[Vishnu]]** (Hindu) — The Preserver, maintainer of cosmic order
 - **[[Lakshmi]]** (Hindu) — Goddess of abundance, wealth, prosperity
@@ -967,14 +967,14 @@ To integrate Tzadkiel is to become the **generous king**—the one who blesses, 
 - [[Binah]] — Third Sephira, Understanding, Tzaphkiel's realm
 - [[Geburah]] — Fifth Sephira, Strength, Kamael's realm (Tzadkiel's cosmic opposite)
 - [[Pillar of Mercy]] — Right-hand pillar: Chokmah-Chesed-Netzach
-- [[Jupiter]] — Chesed's planetary sphere
+- [[Jupiter ♃]] — Chesed's planetary sphere
 - [[Qlippoth]] — Shadow Tree; Gha'agsheblah is Chesed's shadow
 
 ### Astrology
-- [[Jupiter]] — Tzadkiel's planet
+- [[Jupiter ♃]] — Tzadkiel's planet
 - [[Jupiter Return]] — The Tzadkiel initiation (every ~12 years)
-- [[Sagittarius]] — Jupiter-ruled sign, expansion through wisdom
-- [[Pisces]] — Jupiter's ancient rulership, boundless compassion
+- [[Sagittarius ♐]] — Jupiter-ruled sign, expansion through wisdom
+- [[Pisces ♓]] — Jupiter's ancient rulership, boundless compassion
 
 ### Human Design
 - [[Heart Center]] — Sovereignty center, Tzadkiel embodied
@@ -988,7 +988,7 @@ To integrate Tzadkiel is to become the **generous king**—the one who blesses, 
 
 ### Jungian Psychology
 - [[The King/Queen]] — Tzadkiel as archetype
-- [[The Self]] — Sovereign center of the psyche
+- [[Folklore/Jungian Archetypes/The Self]] — Sovereign center of the psyche
 - [[Individuation]] — Process of claiming the Inner Throne
 
 ### Synthesis Pieces

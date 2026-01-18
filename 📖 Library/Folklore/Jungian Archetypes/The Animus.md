@@ -15,7 +15,7 @@ collective_unconscious: Universal pattern of the inner masculine as guide, adver
 
 ### Jung's Definition
 
-The Animus is Jung's term for the **masculine soul-image in women**—the contrasexual archetype that mediates between the conscious mind and the deeper layers of the unconscious. Where the [[The Anima|Anima]] in men appears as mood and relatedness, the Animus in women manifests as **opinion, conviction, and the capacity for Logos** (meaning-making through word and spirit).
+The Animus is Jung's term for the **masculine soul-image in women**—the contrasexual archetype that mediates between the conscious mind and the deeper layers of the unconscious. Where the [[Folklore/Jungian Archetypes/The Anima|Anima]] in men appears as mood and relatedness, the Animus in women manifests as **opinion, conviction, and the capacity for Logos** (meaning-making through word and spirit).
 
 In *Aion* (CW 9ii, par. 28), Jung writes:
 
@@ -717,7 +717,7 @@ The Animus interacts dynamically with other archetypal structures:
 - Integration requires **reclaiming what was denied** by culture, not by nature.
 
 **In Men (for context):**
-- Men do **not have an Animus**—they have an [[The Anima|Anima]] (feminine soul-image).
+- Men do **not have an Animus**—they have an [[Folklore/Jungian Archetypes/The Anima|Anima]] (feminine soul-image).
 - The Anima in men produces **moods** (emotional flooding), while the Animus in women produces **opinions** (dogmatic conviction).
 - Men's work: Integrating the Anima (developing Eros, feeling, relationship) after Shadow work.
 
@@ -726,16 +726,16 @@ The Animus interacts dynamically with other archetypal structures:
 ## Section 6: Cross-References
 
 ### Jungian Archetypes
-- [[The Anima]] — Feminine soul-image in men; mirror of the Animus
+- [[Folklore/Jungian Archetypes/The Anima]] — Feminine soul-image in men; mirror of the Animus
 - [[The Shadow]] — Prerequisite for Animus work; the apprentice-piece
-- [[The Self]] — Totality that contains the Animus; union of Eros and Logos
-- [[The Great Mother]] — Animus helps differentiate from maternal matrix
+- [[Folklore/Jungian Archetypes/The Self]] — Totality that contains the Animus; union of Eros and Logos
+- [[Folklore/Jungian Archetypes/The Great Mother]] — Animus helps differentiate from maternal matrix
 - [[The Wise Old Man]] — Positive Animus in highest form; sage and guide
-- [[The Hero]] — The Animus often appears as guide or adversary in the heroine's journey
-- [[The Divine Child]] — Emerges from union of Animus (Logos) and feminine ego (Eros)
-- [[The Persona]] — Animus is what the feminine Persona suppresses
+- [[Folklore/Jungian Archetypes/The Hero]] — The Animus often appears as guide or adversary in the heroine's journey
+- [[Folklore/Jungian Archetypes/The Divine Child]] — Emerges from union of Animus (Logos) and feminine ego (Eros)
+- [[Folklore/Jungian Archetypes/The Persona]] — Animus is what the feminine Persona suppresses
 - [[The Syzygy]] — Sacred marriage of Animus and feminine consciousness
-- [[The Joker]] — Mercurial Animus as trickster (Loki, Hermes)
+- [[Folklore/Jungian Archetypes/The Joker]] — Mercurial Animus as trickster (Loki, Hermes)
 
 ### Hero's Journey Stages (Heroine's Journey)
 - [[The Call to Adventure]] — Often comes through the Animus (dream, vision, guide)
@@ -771,14 +771,14 @@ The Animus interacts dynamically with other archetypal structures:
 - [[Judgement]] — The trumpet call (Animus as awakener)
 
 ### Astrology
-- [[Sun]] — Core identity, authority, spirit (Animus as solar principle)
-- [[Mars]] — Drive, assertion, warrior energy (Animus as action)
-- [[Mercury]] — Communication, Logos, the messenger (Animus as Word)
-- [[Saturn]] — Structure, discipline, judgment (Animus as lawgiver)
-- [[Jupiter]] — Philosophy, meaning-making, expansion (Animus as teacher)
+- [[Sun ☉]] — Core identity, authority, spirit (Animus as solar principle)
+- [[Mars ♂]] — Drive, assertion, warrior energy (Animus as action)
+- [[Astrology/Planets/Mercury # ☿]] — Communication, Logos, the messenger (Animus as Word)
+- [[Saturn ♄]] — Structure, discipline, judgment (Animus as lawgiver)
+- [[Jupiter ♃]] — Philosophy, meaning-making, expansion (Animus as teacher)
 - [[9th House]] — Philosophy, higher mind, quest for truth (Animus realm)
-- [[Sagittarius]] — The archer, seeker of truth (Animus as philosopher)
-- [[Capricorn]] — Authority, discipline, mastery (Animus as structure)
+- [[Sagittarius ♐]] — The archer, seeker of truth (Animus as philosopher)
+- [[Capricorn ♑]] — Authority, discipline, mastery (Animus as structure)
 
 ### Human Design
 - [[Manifestor]] — Initiating energy, independent authority (Animus type)

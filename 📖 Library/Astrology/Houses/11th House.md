@@ -9,9 +9,9 @@ natural_sign: Aquarius
 planetary_joy: Jupiter
 theme: Friendship, Hope, Community, Future Vision
 ---
+*Friendship, Hope, and the Collective Vision*
 
-# 11th House: Friendship, Hope, and the Collective Vision
-
+---
 ## Archetypal Theme
 
 The **11th House** governs **friendship** and **collective belonging**—not tribe (4th House) or contract (7th House), but **chosen community**. This is the house of hope, future vision, and the networks that transcend individual ego. It is **Aquarius's domain**: the recognition that individuality serves the whole.
@@ -19,7 +19,6 @@ The **11th House** governs **friendship** and **collective belonging**—not tri
 Where the 10th House achieves public authority, the 11th House **distributes that achievement** to the collective. Where the 5th House creates for personal joy, the 11th House **offers that creation to the community**. The 11th House is not solitary; it is collaborative, networked, future-oriented.
 
 ---
-
 ## Succedent House Significance
 
 The 11th House is **Succedent**—one of the four houses that **sustain and consolidate** what Angular houses initiate. Succedent houses (2nd, 5th, 8th, 11th) correspond to Fixed signs:
@@ -32,7 +31,6 @@ The 11th House is **Succedent**—one of the four houses that **sustain and cons
 The 11th House specifically governs **social capital**—the networks, friendships, and collective resources that sustain individual achievement (10th House public authority becomes 11th House community support).
 
 ---
-
 ## Life Domain
 
 The 11th House governs:
@@ -45,17 +43,15 @@ The 11th House governs:
 This is not the 7th House's intimate partnership or the 4th House's blood family—it is **chosen association**, the people who share your vision.
 
 ---
-
 ## Natural Correspondence
 
-**[[Aquarius]]** and **[[Uranus]]** (modern) / **[[Saturn]]** (traditional) — The humanitarian, the revolutionary architect.
+**[[Aquarius ♒]]** and **[[Uranus ♅]]** (modern) / **[[Saturn ♄]]** (traditional) — The humanitarian, the revolutionary architect.
 
 Aquarius is the fixed air sign that does not adapt (Gemini) or balance (Libra) but **holds the vision**—the future that does not yet exist but must. Uranus governs the 11th House as the principle of **liberation and innovation**—the force that breaks old structures to birth new forms. Saturn (traditional ruler) provides the **structure** that makes revolutionary vision sustainable.
 
-**Planetary Joy:** [[Jupiter]] — Jupiter "rejoices" in the 11th House as faith, benevolence, and the trust that collective effort yields abundance.
+**Planetary Joy:** [[Jupiter ♃]] — Jupiter "rejoices" in the 11th House as faith, benevolence, and the trust that collective effort yields abundance.
 
 ---
-
 ## The 11th House Ruler
 
 The **ruler of the 11th House** (the planet ruling the sign on the 11th House cusp) reveals *how* you build community and what you hope for.
@@ -68,45 +64,40 @@ The **ruler of the 11th House** (the planet ruling the sign on the 11th House cu
 The 11th House ruler's **sign, house, and aspects** show your relationship to collective belonging.
 
 ---
-
 ## Planets Through the 11th House
 
 ### Sun in the 11th House
 
-When the [[Sun]] is in the 11th House, **identity is collective**. These individuals find themselves through community; they are natural networkers, organizers, visionaries for the group.
+When the [[Sun ☉]] is in the 11th House, **identity is collective**. These individuals find themselves through community; they are natural networkers, organizers, visionaries for the group.
 
 **Gift:** Social leadership, ability to inspire collective action, visionary ideals
 **Challenge:** Identity lost in the group; becoming the vision at the expense of self
 
 ---
-
 ### Moon in the 11th House
 
-When the [[Moon]] is in the 11th House, **emotion requires community**. These individuals process feeling through friendship; their moods are shaped by the collective. They nurture the group.
+When the [[Moon ☽]] is in the 11th House, **emotion requires community**. These individuals process feeling through friendship; their moods are shaped by the collective. They nurture the group.
 
 **Gift:** Emotional attunement to collective needs, nurturing friendships, instinctive networking
 **Challenge:** Emotional dependency on community, moods dictated by group dynamics
 
 ---
-
 ### Saturn in the 11th House
 
-When [[Saturn]] is in the 11th House (traditional ruler), **community is tested**. These individuals struggle with belonging, fear rejection, or build walls against friendship. Over time, Saturn builds **earned community**—friendships forged through loyalty and time.
+When [[Saturn ♄]] is in the 11th House (traditional ruler), **community is tested**. These individuals struggle with belonging, fear rejection, or build walls against friendship. Over time, Saturn builds **earned community**—friendships forged through loyalty and time.
 
 **Gift:** Enduring friendships, disciplined collective work, mature vision
 **Challenge:** Isolation, fear of groups, cynicism about humanity
 
 ---
-
 ### Uranus in the 11th House
 
-When [[Uranus]] is in the 11th House (its natural home), **revolution is destiny**. These individuals are the disruptors, the ones who envision futures no one else can see. They gather the avant-garde.
+When [[Uranus ♅]] is in the 11th House (its natural home), **revolution is destiny**. These individuals are the disruptors, the ones who envision futures no one else can see. They gather the avant-garde.
 
 **Gift:** Visionary ideals, revolutionary leadership, capacity to innovate
 **Challenge:** Alienation from community, friendships that explode suddenly
 
 ---
-
 ## Psychological & Jungian Depth
 
 The 11th House represents the **Collective Unconscious**—the shared dreams, hopes, and ideals of humanity. In Jungian terms, this is the **Social Self**: the part of identity that exists only in relation to the group.
@@ -126,7 +117,6 @@ The 11th House represents the **Collective Unconscious**—the shared dreams, ho
 The 11th House challenge is to recognize that **you serve the collective, but you are not the collective**—individuality and community are not opposed but interdependent.
 
 ---
-
 ## Esoteric Significance
 
 In esoteric astrology, the 11th House governs the **soul's contribution to the collective**—the gift the individual brings to humanity.
@@ -136,7 +126,6 @@ In [[Human Design]], the 11th House corresponds to the **Throat Center** (manife
 In Qabalistic terms, the 11th House corresponds to **Chokmah** (Wisdom)—the sphere of vision, the masculine principle that sees the pattern before it manifests.
 
 ---
-
 ## Evolved vs. Unevolved Expression
 
 **Unevolved 11th House:**
@@ -152,7 +141,6 @@ In Qabalistic terms, the 11th House corresponds to **Chokmah** (Wisdom)—the sp
 The evolution of the 11th House is learning that **hope is not naivety**—it is the refusal to accept the present as inevitable.
 
 ---
-
 ## The 5th/11th House Axis: Personal vs. Collective
 
 The **5th House** governs personal creativity; the **11th House** governs collective contribution. Together, they form the axis of **creation and distribution**.
@@ -174,7 +162,6 @@ The **5th House** governs personal creativity; the **11th House** governs collec
 The integration is to **create personally (5th), then offer it collectively (11th)**—to recognize that personal joy becomes meaningful when shared.
 
 ---
-
 ## Friendship vs. Partnership: The 11th/7th Distinction
 
 The **7th House** governs partnership (romantic, business, contractual). The **11th House** governs friendship (chosen, lateral, non-hierarchical).
@@ -198,7 +185,6 @@ The **7th House** governs partnership (romantic, business, contractual). The **1
 The integration is to **honor the difference**—friends are not "lesser partners," and partners are not "best friends." Each serves a distinct function.
 
 ---
-
 ## Hope and Futurity: The 11th House as Future-Oriented
 
 The 11th House governs **hope**—not wishful thinking but **active orientation toward the future**.
@@ -221,7 +207,6 @@ The 11th House governs **hope**—not wishful thinking but **active orientation 
 The 11th House challenge is to recognize that **hope is not passive**—it is the strategy of refusing to accept the present as final.
 
 ---
-
 ## Community and Collective Vision
 
 The 11th House governs **community**—not tribe (4th House) or partnership (7th House) but **chosen association**.
@@ -245,7 +230,6 @@ The 11th House governs **community**—not tribe (4th House) or partnership (7th
 The 11th House challenge is to **build community consciously**—to recognize that the collective is only as healthy as its individuals.
 
 ---
-
 ## Practical Guidance
 
 ### For Those with a Strong 11th House (Planets in 11th)
@@ -269,14 +253,13 @@ The 11th House challenge is to **build community consciously**—to recognize th
 - **Collective projects** (working with others toward shared goals)
 
 ---
-
 ## Cross-References
 
 ### Within Astrology
-- **[[Aquarius]]:** Natural ruler of the 11th House
-- **[[Uranus]]:** Modern planetary ruler—revolution, liberation, innovation
-- **[[Saturn]]:** Traditional ruler—structure, endurance, discipline
-- **[[Jupiter]]:** Planetary joy in 11th House—faith, benevolence, expansion
+- **[[Aquarius ♒]]:** Natural ruler of the 11th House
+- **[[Uranus ♅]]:** Modern planetary ruler—revolution, liberation, innovation
+- **[[Saturn ♄]]:** Traditional ruler—structure, endurance, discipline
+- **[[Jupiter ♃]]:** Planetary joy in 11th House—faith, benevolence, expansion
 - **5th House:** Personal creativity (5th) becomes collective contribution (11th)
 - **7th House:** Partnership (7th) vs. friendship (11th)
 

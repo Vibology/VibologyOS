@@ -112,8 +112,8 @@ The shadow is perfectionism (work without completion) or workaholism (craft as e
 - [[Eights of the Tarot]] - All four Eights as expressions of Hod
 
 ### Planetary and Astrological
-- [[Sun]] - The planet of vitality, mastery, creative self-expression
-- [[Virgo]] - The sign of precision, analysis, service, perfection
+- [[Sun ☉]] - The planet of vitality, mastery, creative self-expression
+- [[Virgo ♍]] - The sign of precision, analysis, service, perfection
 - [[Sun in Virgo]] - Creative force channeled into meticulous craft
 - [[First Decan of Virgo]] - The beginning of harvest season, work perfected
 

@@ -628,9 +628,9 @@ When the opposites unite—when the ego surrenders to partnership with the contr
 - [[The Hierophant]] - The one who officiates the sacred marriage (Major Arcana)
 
 ### Related Astrology
-- [[Venus]] - Planet of love, union, harmony, and attraction
+- [[Venus ♀]] - Planet of love, union, harmony, and attraction
 - [[7th House]] - House of marriage, partnership, and the other
-- [[Libra]] - Sign of balance, the scales weighing opposites
+- [[Libra ♎]] - Sign of balance, the scales weighing opposites
 - [[Conjunctions]] (aspect) - Planets united in the same degree (literal coniunctio)
 - [[Nodes]] - North and South Node as the union of fate and will
 

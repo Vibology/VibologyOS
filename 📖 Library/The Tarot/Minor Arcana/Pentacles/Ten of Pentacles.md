@@ -179,8 +179,8 @@ The teaching: True dynasty is not control but covenant. You build not to possess
 - [[Tens of the Tarot]] - All four Tens as expressions of Malkuth
 
 ### Planetary and Astrological
-- [[Mercury]] - The planet of commerce, communication, systems
-- [[Virgo]] - The sign of precision, service, material mastery
+- [[Astrology/Planets/Mercury # ☿]] - The planet of commerce, communication, systems
+- [[Virgo ♍]] - The sign of precision, service, material mastery
 - [[Mercury in Virgo]] - Commerce perfected, systems at peak efficiency
 - [[Third Decan of Virgo]] - The culmination of the Virgo journey
 

@@ -114,7 +114,7 @@ Traditional cultures mark the passage from childhood to adulthood with **initiat
 The ego encounters Guardians in the form of **job interviews**, **graduate exams**, **relationship commitments**. These are tests of **competence** and **readiness** for adult responsibilities. Failure to pass these Guardians (inability to secure stable work, fear of commitment) indicates psychological **unreadiness**—the ego has not yet solidified. The Guardian asks: *"Are you capable of sustaining this responsibility?"*
 
 **Midlife Crisis (35-50): The Guardian as the Dweller on the Threshold**
-At midlife, the Guardian takes a darker form: the **"Dweller on the Threshold"** (a term from esoteric astrology linked to Saturn). This is the confrontation with **all that was unlived**—the repressed shadow, the neglected anima/animus, the abandoned dreams. The Dweller is the **sum of all past failures, regrets, and fears**. It manifests as depression, anxiety, existential dread, or physical illness. The Dweller asks: *"Are you willing to face what you have avoided your entire life?"* To pass this Guardian is to **die to the ego's dominance** and be reborn in service to the [[The Self|Self]].
+At midlife, the Guardian takes a darker form: the **"Dweller on the Threshold"** (a term from esoteric astrology linked to Saturn). This is the confrontation with **all that was unlived**—the repressed shadow, the neglected anima/animus, the abandoned dreams. The Dweller is the **sum of all past failures, regrets, and fears**. It manifests as depression, anxiety, existential dread, or physical illness. The Dweller asks: *"Are you willing to face what you have avoided your entire life?"* To pass this Guardian is to **die to the ego's dominance** and be reborn in service to the [[Folklore/Jungian Archetypes/The Self|Self]].
 
 **Elderhood (50+): The Guardian as Death**
 The final Threshold Guardian is **death itself**—the ultimate boundary. The elder who has integrated the Self faces death with **equanimity**, recognizing it as transformation rather than annihilation. The elder who has failed to individuate faces death with **terror**, clinging to ego and raging against the inevitable. The Guardian asks: *"Have you lived fully? Can you surrender?"*
@@ -514,10 +514,10 @@ The second threshold is **confrontation with the personal shadow**—the repress
 The Guardian asks: *"Can you bear to see who you truly are?"*
 
 **Stage 3: Anima/Animus Encounter (Midlife)**
-The third threshold is **engagement with the contrasexual archetype**. For men, this is the [[The Anima|Anima]] (the feminine soul-image); for women, the [[The Animus|Animus]] (the masculine soul-image). The Guardian is **fear of vulnerability** (for men) and **fear of power** (for women). The ego must surrender control and enter into **relationship with the unconscious**.
+The third threshold is **engagement with the contrasexual archetype**. For men, this is the [[Folklore/Jungian Archetypes/The Anima|Anima]] (the feminine soul-image); for women, the [[Folklore/Jungian Archetypes/The Animus|Animus]] (the masculine soul-image). The Guardian is **fear of vulnerability** (for men) and **fear of power** (for women). The ego must surrender control and enter into **relationship with the unconscious**.
 
 **Stage 4: Confrontation with the Self (Midlife to Elderhood)**
-The final threshold is **encounter with the [[The Self|Self]]**—the transpersonal center of the psyche. The Guardian is **the Dweller on the Threshold**—the sum of all unlived life, all failures, all fears. Jung writes:
+The final threshold is **encounter with the [[Folklore/Jungian Archetypes/The Self|Self]]**—the transpersonal center of the psyche. The Guardian is **the Dweller on the Threshold**—the sum of all unlived life, all failures, all fears. Jung writes:
 
 > "The self is our life's goal, for it is the completest expression of that fateful combination we call individuality."
 
@@ -682,7 +682,7 @@ The Shadow is the **repressed, rejected contents** of the personality. The Thres
 
 Integration requires **passing the Guardian** (overcoming the resistance) to **meet the Shadow** (the repressed material). Without passing the Guardian, the Shadow remains unconscious and destructive.
 
-**The Guardian and the [[The Hero|Hero]]:**
+**The Guardian and the [[Folklore/Jungian Archetypes/The Hero|Hero]]:**
 
 The Hero is the **ego's vehicle**—the conscious will that embarks on the quest. The Guardian is the **first test** of the Hero's courage and competence. Campbell writes:
 
@@ -699,13 +699,13 @@ The Mentor **prepares the Hero** to face the Guardian. The Mentor provides:
 
 The Guardian and the Mentor are **complementary**: the Mentor facilitates passage; the Guardian tests whether the Hero has internalized the Mentor's teachings.
 
-**The Guardian and the [[The Anima|Anima]]/[[The Animus|Animus]]:**
+**The Guardian and the [[Folklore/Jungian Archetypes/The Anima|Anima]]/[[Folklore/Jungian Archetypes/The Animus|Animus]]:**
 
 The Anima (in men) and Animus (in women) act as **psychopomps**—guides to the unconscious. The Threshold Guardian often appears **before** the Anima/Animus is encountered. The Guardian asks: *"Are you ready to meet the contrasexual soul-image?"*
 
 If the Guardian is not passed, the Anima/Animus remains unconscious and is projected onto romantic partners, leading to **destructive entanglements**.
 
-**The Guardian and the [[The Self|Self]]:**
+**The Guardian and the [[Folklore/Jungian Archetypes/The Self|Self]]:**
 
 The Self is the **goal of individuation**—the transpersonal center of the psyche. The **Dweller on the Threshold** (the most formidable Guardian) appears at midlife, guarding the passage to the Self. The Dweller is the **sum of all unlived life, all failures, all fears**. To pass the Dweller is to **die to the ego's dominance** and be reborn in service to the Self.
 
@@ -776,7 +776,7 @@ For men, the Threshold Guardian often appears as the **stern father** or **patri
 Men are often conditioned to **suppress emotion and vulnerability**. The Threshold Guardian for men frequently appears as the **fear of appearing weak**:
 - *"Real men don't cry. Real men don't ask for help. Real men don't admit fear."*
 
-Passing this Guardian requires **courage to be vulnerable**—to integrate the [[The Anima|Anima]] (the feminine soul-image) and access feeling, intuition, and relatedness.
+Passing this Guardian requires **courage to be vulnerable**—to integrate the [[Folklore/Jungian Archetypes/The Anima|Anima]] (the feminine soul-image) and access feeling, intuition, and relatedness.
 
 **The Guardian as Career/Status Gatekeeper:**
 In patriarchal cultures, men's worth is often measured by **achievement, status, and provision**. The Guardian appears as:
@@ -801,7 +801,7 @@ For women, the Threshold Guardian often appears as the **devouring mother**—th
 Women are often conditioned to **suppress authority, ambition, and anger**. The Threshold Guardian for women frequently appears as the **fear of being too much**:
 - *"Don't be aggressive. Don't be bossy. Don't take up space."*
 
-Passing this Guardian requires **courage to claim power**—to integrate the [[The Animus|Animus]] (the masculine soul-image) and access logos, creative authority, and assertiveness.
+Passing this Guardian requires **courage to claim power**—to integrate the [[Folklore/Jungian Archetypes/The Animus|Animus]] (the masculine soul-image) and access logos, creative authority, and assertiveness.
 
 **The Guardian as Protector of "Purity":**
 In patriarchal cultures, women's worth is often measured by **chastity, obedience, and selflessness**. The Guardian appears as:
@@ -824,14 +824,14 @@ Passing this Guardian requires **courage to embody complexity**—to refuse fals
 ### Jungian Archetypes
 
 - [[The Shadow]] - What the Guardian prevents the ego from confronting
-- [[The Hero]] - The ego's vehicle; must pass the Guardian to begin the journey
-- [[The Anima]] - In men, the bridge to the unconscious; accessed after passing the Guardian
-- [[The Animus]] - In women, the source of authority to confront the Guardian
-- [[The Self]] - The ultimate goal; the Dweller on the Threshold guards passage to the Self
+- [[Folklore/Jungian Archetypes/The Hero]] - The ego's vehicle; must pass the Guardian to begin the journey
+- [[Folklore/Jungian Archetypes/The Anima]] - In men, the bridge to the unconscious; accessed after passing the Guardian
+- [[Folklore/Jungian Archetypes/The Animus]] - In women, the source of authority to confront the Guardian
+- [[Folklore/Jungian Archetypes/The Self]] - The ultimate goal; the Dweller on the Threshold guards passage to the Self
 - [[The Wise Old Man]] - The Mentor who prepares the Hero to face the Guardian
-- [[The Great Mother]] - In her devouring aspect, she is a Guardian preventing individuation
+- [[Folklore/Jungian Archetypes/The Great Mother]] - In her devouring aspect, she is a Guardian preventing individuation
 - [[The Trickster]] - Often uses cunning to bypass the Guardian (Orpheus, Odysseus)
-- [[The Persona]] - The social mask; the Guardian protects the Persona from exposure
+- [[Folklore/Jungian Archetypes/The Persona]] - The social mask; the Guardian protects the Persona from exposure
 
 ### Hero's Journey Stages
 
@@ -869,8 +869,8 @@ Passing this Guardian requires **courage to embody complexity**—to refuse fals
 
 ### Astrology
 
-- [[Saturn]] - The Dweller on the Threshold; the taskmaster who tests readiness
-- [[Pluto]] - The Guardian of the underworld; death and transformation
+- [[Saturn ♄]] - The Dweller on the Threshold; the taskmaster who tests readiness
+- [[Pluto ♇]] - The Guardian of the underworld; death and transformation
 - [[Chiron]] - The wounded healer; the Guardian as initiation wound
 - [[The Fourth House]] - The Guardian as ancestral conditioning and family inheritance
 - [[The Eighth House]] - The Guardian at the threshold of death, sex, and the occult

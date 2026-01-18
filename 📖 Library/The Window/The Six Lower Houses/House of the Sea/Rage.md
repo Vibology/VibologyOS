@@ -87,7 +87,7 @@ The path through Rage requires returning to **Compassion**—not abandoning ange
 
 ## Internal Links
 
-- [[Sea]] - The House of emotional depth and relational encounter
+- [[House of the Sea]] - The House of emotional depth and relational encounter
 - [[Gate 06]] - Conflict / Friction (Solar Plexus Center)
 - [[Hexagram 06]] - Conflict (I-Ching)
 - [[Gene Keys - Shadow: Conflict, Gift: Diplomacy, Siddhi: Peace]]

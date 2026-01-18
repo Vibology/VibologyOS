@@ -88,7 +88,7 @@ Fragility is also illuminated by its polarity with **Integrity** (Gate 18)—whe
 
 ## Internal Links
 
-- [[Land]] - The House of embodied foundation and material grounding
+- [[House of the Land]] - The House of embodied foundation and material grounding
 - [[Gate 57]] - The Gentle / Intuitive Clarity (Spleen Center)
 - [[Hexagram 57]] - The Gentle (I-Ching)
 - [[Gene Keys - Shadow: Unease, Gift: Intuition, Siddhi: Clarity]]

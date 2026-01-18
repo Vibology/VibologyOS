@@ -122,12 +122,12 @@ Psychologically, The Road Back corresponds to:
 | **System** | **Primary Correspondence** | **Symbolic Resonance** | **Psychological Function** |
 |------------|---------------------------|------------------------|----------------------------|
 | **Tarot** | [[The Chariot (VII)]]<br>[[Six of Swords]]<br>[[Ten of Wands]] | Chariot: Willful movement, control over opposing forces, triumph through discipline<br>Six of Swords: Transition away from difficulty, carrying knowledge forward<br>Ten of Wands: Burden of the boon, weight of responsibility | The hero must **direct the return**, control opposing forces (temptation to stay, forces pursuing). The boon is heavy; responsibility is burden before it is blessing |
-| **Astrology** | **9th/3rd House Axis**<br>[[Mercury]]<br>[[Saturn]]<br>**Mercury Retrograde** | 9th House: Far journey, higher learning, foreign lands<br>3rd House: Local environment, communication, integration into community<br>Mercury: Messenger, guide between worlds<br>Saturn: Commitment, responsibility, accountability<br>Retrograde: Review, integration, returning over ground already crossed | The Road Back is the axis from distant wisdom (9th) to local embodiment (3rd). Mercury carries the message; Saturn demands accountability. Retrograde motion mirrors the return—revisiting, integrating, ensuring nothing is left unfinished |
+| **Astrology** | **9th/3rd House Axis**<br>[[Astrology/Planets/Mercury # ☿]]<br>[[Saturn ♄]]<br>**Mercury Retrograde** | 9th House: Far journey, higher learning, foreign lands<br>3rd House: Local environment, communication, integration into community<br>Mercury: Messenger, guide between worlds<br>Saturn: Commitment, responsibility, accountability<br>Retrograde: Review, integration, returning over ground already crossed | The Road Back is the axis from distant wisdom (9th) to local embodiment (3rd). Mercury carries the message; Saturn demands accountability. Retrograde motion mirrors the return—revisiting, integrating, ensuring nothing is left unfinished |
 | **Human Design** | **Generator Sacral Response**<br>**Projector Post-Recognition**<br>**Manifestor Informing** | Generator: Returning to correct Sacral response after special world deviation<br>Projector: Can they sustain recognition/success upon return?<br>Manifestor: Must inform before initiating return (respect the threshold) | The Road Back tests whether the transformation aligns with **Strategy and Authority**. Can the person return to correct operation, or does the old world pull them back into Not-Self? |
 | **I-Ching** | **Hexagram 24 (Fu / Return)**<br>**Hexagram 63 (Ji Ji / After Completion)**<br>**Hexagram 56 (Lu / The Wanderer)** | Fu: The turning point, return of light after darkness<br>Ji Ji: After completion—careful, success is fragile<br>Lu: The wanderer, transient, not yet home | The I-Ching warns: the return is **delicate**. Success breeds complacency. The boon is won but not yet integrated. The hero is still wanderer, not yet home |
 | **Qabalah** | **Descending the Tree**<br>**Return from Kether to Malkuth**<br>**Tiphereth as Midpoint** | The hero ascended to Kether (Crown, divine union) and must now descend back to Malkuth (Kingdom, material reality), bringing divine light to Earth. Tiphereth (Beauty, Heart) is the integration point—where heaven and earth meet | The Road Back is the descent of the Lightning Flash in reverse—grounding divine insight into embodied action. The danger: getting stuck in Daath (Abyss), lost between transcendence and embodiment |
 | **Angelology** | [[Sandalphon]]<br>[[Michael]]<br>[[Metatron]] | Sandalphon: Angel of grounding, roots to Earth, embodiment<br>Michael: Warrior protector, defends against pursuit<br>Metatron: Bridge between divine and human, the transformed guide | Sandalphon grounds the return; Michael protects the boon from reclamation; Metatron (the transformed Enoch) models the possibility of bringing heaven to earth |
-| **Jungian Archetypes** | [[The Psychopomp]]<br>[[The Trickster]]<br>[[The Self]] | Psychopomp: Guide between worlds (Hermes, Charon, shamanic spirits)<br>Trickster: If fleeing requires deception, cunning, or rule-breaking<br>Self: The deeper intelligence calling the hero back to service rather than transcendent escape | The Psychopomp assists boundary-crossing; the Trickster aids escape (Prometheus, Loki); the Self insists on embodiment and service over spiritual bypass |
+| **Jungian Archetypes** | [[The Psychopomp]]<br>[[The Trickster]]<br>[[Folklore/Jungian Archetypes/The Self]] | Psychopomp: Guide between worlds (Hermes, Charon, shamanic spirits)<br>Trickster: If fleeing requires deception, cunning, or rule-breaking<br>Self: The deeper intelligence calling the hero back to service rather than transcendent escape | The Psychopomp assists boundary-crossing; the Trickster aids escape (Prometheus, Loki); the Self insists on embodiment and service over spiritual bypass |
 
 ## 3. Practical Application
 
@@ -504,7 +504,7 @@ For non-binary and transgender individuals, The Road Back centers on **identity 
 
 **Psychological Function**: The Road Back for trans/non-binary individuals is **both** active and receptive—**defending** the authentic self **and** relying on allies (medical providers, chosen family, supportive communities). The journey requires **fierce boundaries** and **radical interdependence**.
 
-**Archetypal Resonance**: [[The Shapeshifter]], [[Hermes]]/[[Mercury]] (boundary-crosser, guide between worlds), [[Dionysus]] (androgyny, fluidity, transgression of binaries).
+**Archetypal Resonance**: [[Folklore/Jungian Archetypes/The Shapeshifter]], [[Hermes]]/[[Astrology/Planets/Mercury # ☿]] (boundary-crosser, guide between worlds), [[Dionysus]] (androgyny, fluidity, transgression of binaries).
 
 ### Cultural Context
 
@@ -519,7 +519,7 @@ The mature psyche requires **integration of both**:
 
 ### Jungian Archetypes
 - [[The Shadow]]: On The Road Back, shadow contents the hero believed integrated may resurface—old patterns pursuing, demanding continued work. The return tests whether shadow integration holds under pressure.
-- [[The Self]]: The Self calls the hero back to service, refusing the ego's temptation to remain in transcendent bliss. The Road Back is the Self's insistence on **embodiment over escape**.
+- [[Folklore/Jungian Archetypes/The Self]]: The Self calls the hero back to service, refusing the ego's temptation to remain in transcendent bliss. The Road Back is the Self's insistence on **embodiment over escape**.
 - [[The Psychopomp]]: Hermes, Charon, shamanic guides—the archetypes that assist boundary-crossing between worlds. The Psychopomp does not make the journey for the hero but **witnesses and supports** the crossing.
 - [[The Trickster]]: If the return requires cunning, deception, or rule-breaking (Jason, Prometheus, Anansi), the Trickster archetype activates. The Trickster aids escape when conventional heroism fails.
 - [[The Wise Old Man]]: The mentor's final teaching echoes through The Road Back—internalized wisdom sustains the hero when external guidance is absent.
@@ -540,12 +540,12 @@ The mature psyche requires **integration of both**:
 - [[Judgment (XX)]]: The call to return—the angel's trumpet summons the dead (the transformed hero) to rise and re-enter the world. The Road Back as resurrection in motion.
 
 ### Astrology
-- [[Mercury]]: The messenger god, guide between worlds, psychopomp. Mercury governs The Road Back—communication, translation, boundary-crossing. Mercury retrograde echoes the return journey—reviewing, integrating, revisiting.
-- [[Saturn]]: The planet of commitment, responsibility, accountability. Saturn governs the burden of the boon—the hero must **honor the obligation** to return and serve.
+- [[Astrology/Planets/Mercury # ☿]]: The messenger god, guide between worlds, psychopomp. Mercury governs The Road Back—communication, translation, boundary-crossing. Mercury retrograde echoes the return journey—reviewing, integrating, revisiting.
+- [[Saturn ♄]]: The planet of commitment, responsibility, accountability. Saturn governs the burden of the boon—the hero must **honor the obligation** to return and serve.
 - **9th House**: The far journey, foreign lands, higher learning—where the hero has been (the Special World).
 - **3rd House**: The local environment, daily communication, integration into ordinary life—where the hero must return.
 - **9th/3rd House Axis**: The Road Back is the journey from distant wisdom (9th) to local embodiment (3rd)—bringing the teaching home.
-- [[Jupiter]]: Expansion, meaning-making, faith in the journey. Jupiter supports The Road Back—trust that the return serves a higher purpose.
+- [[Jupiter ♃]]: Expansion, meaning-making, faith in the journey. Jupiter supports The Road Back—trust that the return serves a higher purpose.
 
 ### Human Design
 - **Generator Sacral Response**: The Road Back tests whether the Generator returns to **correct Sacral response**—waiting to respond rather than initiating from the mind. The old world tempts deviation from Strategy.
@@ -575,9 +575,9 @@ The mature psyche requires **integration of both**:
 
 ### Folklore and Mythology
 - [[The Psychopomp]]: Hermes (Greek), Charon (ferryman of the dead), Anubis (Egyptian), shamanic spirit guides—the figures who assist crossing between worlds. The Psychopomp does not make the journey for the hero but **witnesses the crossing**.
-- [[The Threshold Guardian]]: On the return journey, new guardians may appear—testing whether the hero has earned the right to bring the boon back. Only those who can answer the riddle, pay the toll, or prove their worthiness may pass.
+- [[Folklore/Jungian Archetypes/The Threshold Guardian]]: On the return journey, new guardians may appear—testing whether the hero has earned the right to bring the boon back. Only those who can answer the riddle, pay the toll, or prove their worthiness may pass.
 - [[The Trickster]]: Loki, Anansi, Coyote, Prometheus—the cunning figures who aid the Magic Flight. When the hero is pursued, the Trickster provides deception, distraction, or escape routes.
-- [[The Great Mother]]: The devouring aspect (pursuing to reclaim the child who individuated) and the nurturing aspect (welcoming the hero home). The Road Back navigates both.
+- [[Folklore/Jungian Archetypes/The Great Mother]]: The devouring aspect (pursuing to reclaim the child who individuated) and the nurturing aspect (welcoming the hero home). The Road Back navigates both.
 
 ### Alchemy
 - [[Citrinitas]] (Yellowing): The dawning solar consciousness, the first light after the Albedo (whitening/purification). The Road Back as the yellowing—integration beginning, meaning emerging.

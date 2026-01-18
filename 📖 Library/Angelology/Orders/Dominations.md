@@ -19,7 +19,7 @@ hd_center: G-Center
 **Hebrew Name:** *Chashmalim* ("Brilliant Ones" or "Gleaming Ones")
 **Sephira:** [[Chesed]] (Mercy, Loving-kindness)
 **Triad:** [[The Three Triads|Second Triad]] — The Governors
-**Planetary Sphere:** [[Jupiter]]
+**Planetary Sphere:** [[Jupiter ♃]]
 **Function:** Regulation of angelic duties, divine sovereignty, expansion, benevolent governance
 **Human Design Center:** [[G-Center]]
 **Element:** Fire/Water (Expansive passion and flow)
@@ -51,7 +51,7 @@ To encounter Domination consciousness is to experience **benevolent authority**�
 | **Hebrew Name**        | *Chashmalim* ("Brilliant Ones")                      |
 | **Triad**              | Second Triad (The Governors)                         |
 | **Sephira**            | [[Chesed]] (Mercy)                                   |
-| **Planetary Sphere**   | [[Jupiter]]                                          |
+| **Planetary Sphere**   | [[Jupiter ♃]]                                          |
 | **Divine Function**    | Regulation of angelic duties, sovereignty, expansion |
 | **Iconography**        | Scepter and orb, crowned figures, radiant glory      |
 | **Human Faculty**      | Sovereignty over one's own life, self-governance     |
@@ -324,7 +324,7 @@ The G-Center is the **human microcosm of Domination function**—the seat of sov
 
 ## Planetary Correspondence: Jupiter
 
-The Dominations are associated with **[[Jupiter]]**, the planet of expansion, benevolence, sovereignty, and abundance.
+The Dominations are associated with **[[Jupiter ♃]]**, the planet of expansion, benevolence, sovereignty, and abundance.
 
 ### Jupiter as the Great Benefic
 
@@ -347,7 +347,7 @@ These are all Domination functions. The Dominations uphold cosmic sovereignty (J
 
 ### Astrological Implications
 
-In astrology, [[Jupiter]] governs:
+In astrology, [[Jupiter ♃]] governs:
 - **Sagittarius** (mutable fire) — The philosopher-king, the seeker of truth and meaning
 - **Pisces** (mutable water, traditional co-rulership) — The mystic-king, the dissolver of boundaries through compassion
 - **9th House** — Higher education, philosophy, long journeys, the expansion of worldview
@@ -620,11 +620,11 @@ To integrate the Dominations is to become the **inner king/queen**—the soverei
 - [[Divine Names]] — YHVH Elohim (Binah), El (Chesed), Eloah (Geburah)
 
 ### Astrological Correspondences
-- [[Jupiter]] — Planet of expansion, benevolence, sovereignty (Domination planet)
-- [[Sagittarius]] — Jupiter-ruled sign, embodying the philosopher-king
-- [[Pisces]] — Jupiter's traditional co-rulership, embodying compassion and dissolution
+- [[Jupiter ♃]] — Planet of expansion, benevolence, sovereignty (Domination planet)
+- [[Sagittarius ♐]] — Jupiter-ruled sign, embodying the philosopher-king
+- [[Pisces ♓]] — Jupiter's traditional co-rulership, embodying compassion and dissolution
 - [[9th House]] — House of higher learning, expansion, philosophy (Jupiter's natural house)
-- [[Saturn]] — Balances Jupiter; where Jupiter expands, Saturn contracts (Thrones/Dominations tension)
+- [[Saturn ♄]] — Balances Jupiter; where Jupiter expands, Saturn contracts (Thrones/Dominations tension)
 
 ### Human Design System
 - [[G-Center]] — Identity, Love, Direction center (the human microcosm of Domination function)
@@ -647,13 +647,13 @@ To integrate the Dominations is to become the **inner king/queen**—the soverei
 ### Jungian Psychology
 - [[The Sovereign]] — Archetypal king/queen, the ordering principle of the psyche
 - [[The Wise Father]] — The benevolent, expansive father (Chesed archetype)
-- [[The Self]] — The center around which the psyche orbits (like the G-Center, like Domination sovereignty)
+- [[Folklore/Jungian Archetypes/The Self]] — The center around which the psyche orbits (like the G-Center, like Domination sovereignty)
 - [[Shadow]] — The tyrannical sovereign, the inflated ego (Domination shadow)
 - [[Individuation]] — The process of becoming sovereign over one's own life
 
 ### Mythological Parallels
 - [[Zeus]] (Greek) — King of the Olympians, sovereign of gods and mortals
-- [[Jupiter]] (Roman) — Protector of the state, embodiment of sovereignty and good faith
+- [[Jupiter ♃]] (Roman) — Protector of the state, embodiment of sovereignty and good faith
 - [[Amun-Ra]] (Egyptian) — Hidden king, regulator of cosmic order
 - [[Indra]] (Hindu) — King of the devas, wielder of the vajra, commander of the heavens
 

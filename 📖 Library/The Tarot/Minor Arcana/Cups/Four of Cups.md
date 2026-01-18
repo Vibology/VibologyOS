@@ -339,8 +339,8 @@ The Lord of Blended Pleasure is waiting for you to taste the fourth cup—the on
 - [[Cards of Chesed]] - All Fours across the suits
 
 ### Planetary and Astrological
-- [[Moon]] - The luminary: emotion, cycles, reflection, the unconscious
-- [[Cancer]] - The Crab: home, security, emotional depth, the shell
+- [[Moon ☽]] - The luminary: emotion, cycles, reflection, the unconscious
+- [[Cancer ♋]] - The Crab: home, security, emotional depth, the shell
 - [[Moon in Cancer]] - Emotional depth in its home sign, maximum interiority
 - [[Third Decan of Cancer]] - Cancer culminating, preparing for Leo
 

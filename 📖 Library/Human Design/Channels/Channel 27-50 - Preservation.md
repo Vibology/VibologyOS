@@ -415,7 +415,7 @@ This is the essence of the Tribal Defense Circuit: **protecting the tribe's futu
 
 ### Archetypal and Mythological
 - [[The Caregiver Archetype]] — The nurturer who sustains life
-- [[The Great Mother]] — Demeter, Isis—archetypal mothers and protectors
+- [[Folklore/Jungian Archetypes/The Great Mother]] — Demeter, Isis—archetypal mothers and protectors
 - [[The Moon (Astrology)]] — Planetary archetype of nurturing and mothering
 - [[Saturn (Astrology)]] — Planetary archetype of structure and boundaries
 

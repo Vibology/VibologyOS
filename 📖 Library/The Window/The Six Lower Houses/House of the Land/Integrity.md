@@ -89,7 +89,7 @@ Integrity stands in direct opposition to **Corruption** (Gate 50 shadow)—the d
 
 ## Internal Links
 
-- [[Land]] - The House of embodied foundation and material grounding
+- [[House of the Land]] - The House of embodied foundation and material grounding
 - [[Gate 18]] - Work on What Has Been Spoilt / Correction (Spleen Center)
 - [[Hexagram 18]] - Work on What Has Been Spoilt (I-Ching)
 - [[Gene Keys - Shadow: Judgement, Gift: Integrity, Siddhi: Perfection]]

@@ -686,15 +686,15 @@ The Great Mother interacts dynamically with other archetypal structures:
 
 ### Jungian Archetypes
 - [[The Shadow]] — The Terrible Mother merges with shadow material (rejected rage, dependency)
-- [[The Anima]] — Men must differentiate Mother from Anima to avoid contaminated projections
-- [[The Animus]] — Women integrate Mother and Animus (receptive and assertive)
-- [[The Self]] — The Mother is the matrix of the Self (the Great Round, totality)
-- [[The Hero]] — The hero must leave the Mother to individuate (slay the dragon)
+- [[Folklore/Jungian Archetypes/The Anima]] — Men must differentiate Mother from Anima to avoid contaminated projections
+- [[Folklore/Jungian Archetypes/The Animus]] — Women integrate Mother and Animus (receptive and assertive)
+- [[Folklore/Jungian Archetypes/The Self]] — The Mother is the matrix of the Self (the Great Round, totality)
+- [[Folklore/Jungian Archetypes/The Hero]] — The hero must leave the Mother to individuate (slay the dragon)
 - [[The Wise Old Man]] — The Crone (third aspect: Maiden, Mother, Crone) as initiator
-- [[The Joker]] — Disrupts the Mother's order, aids escape from possession
-- [[The Divine Child]] — The Mother births the Divine Child (new consciousness)
+- [[Folklore/Jungian Archetypes/The Joker]] — Disrupts the Mother's order, aids escape from possession
+- [[Folklore/Jungian Archetypes/The Divine Child]] — The Mother births the Divine Child (new consciousness)
 - [[The Syzygy]] — Sacred marriage requires Mother integration first
-- [[The Threshold Guardian]] — The Mother's realm is the first threshold
+- [[Folklore/Jungian Archetypes/The Threshold Guardian]] — The Mother's realm is the first threshold
 
 ### Hero's Journey Stages
 - [[The Ordinary World]] — The Mother's realm (home, safety, containment)
@@ -732,12 +732,12 @@ The Great Mother interacts dynamically with other archetypal structures:
 - [[The World]] — The Great Round (completion, the Mother's cosmic dance)
 
 ### Astrology
-- [[Moon]] — The personal mother, emotional matrix, instinctual responses
-- [[Cancer]] — The sign of the Mother (home, family, womb)
+- [[Moon ☽]] — The personal mother, emotional matrix, instinctual responses
+- [[Cancer ♋]] — The sign of the Mother (home, family, womb)
 - [[4th House]] — Roots, family of origin, the ancestral Mother
-- [[Pluto]] — The Terrible Mother (death, transformation, underworld)
-- [[Scorpio]] — The death-rebirth Mother (intensity, shadow, regeneration)
-- [[Venus]] — The nurturing, relational feminine (Good Mother in relationships)
+- [[Pluto ♇]] — The Terrible Mother (death, transformation, underworld)
+- [[Scorpio ♏]] — The death-rebirth Mother (intensity, shadow, regeneration)
+- [[Venus ♀]] — The nurturing, relational feminine (Good Mother in relationships)
 - [[Ceres (asteroid)]] — The grain goddess, nourishment, mother-child bond
 - [[Black Moon Lilith]] — The rejected, wild feminine (shadow Mother)
 

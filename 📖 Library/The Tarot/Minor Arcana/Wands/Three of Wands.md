@@ -365,8 +365,8 @@ The Sun does not force the plants to grow. It simply shines, day after day, with
 - [[Cards of Binah]] - All Threes across the suits
 
 ### Planetary and Astrological
-- [[Sun]] - The life-giver: vitality, confidence, self-expression
-- [[Aries]] - The Ram: pioneer, initiator, cardinal fire
+- [[Sun ☉]] - The life-giver: vitality, confidence, self-expression
+- [[Aries ♈]] - The Ram: pioneer, initiator, cardinal fire
 - [[Sun in Aries]] - Solar vitality in pioneering action
 - [[Second Decan of Aries]] - Aries tempered by Sun's steady light
 

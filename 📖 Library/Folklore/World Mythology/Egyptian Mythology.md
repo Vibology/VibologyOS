@@ -1053,13 +1053,13 @@ Death is transformation, not annihilation. The Self (Ra, Osiris, Akh) is indestr
 - [[The World]] (Akh, wholeness, completion of the journey)
 
 ### Astrology
-- [[Sun]] (Ra, solar Self, consciousness)
-- [[Moon]] (Thoth as moon god, Isis as lunar feminine)
-- [[Mars]] (Set, aggression, violence in service to order)
-- [[Jupiter]] (Osiris as benevolent king, restoration of order)
-- [[Saturn]] (Anubis, death, threshold, time)
-- [[Pluto]] (Osiris, death and resurrection, underworld transformation)
-- [[Neptune]] (Nun, primordial waters, dissolution)
+- [[Sun ☉]] (Ra, solar Self, consciousness)
+- [[Moon ☽]] (Thoth as moon god, Isis as lunar feminine)
+- [[Mars ♂]] (Set, aggression, violence in service to order)
+- [[Jupiter ♃]] (Osiris as benevolent king, restoration of order)
+- [[Saturn ♄]] (Anubis, death, threshold, time)
+- [[Pluto ♇]] (Osiris, death and resurrection, underworld transformation)
+- [[Neptune ♆]] (Nun, primordial waters, dissolution)
 
 ### Qabalah
 - [[Kether]] (Nun, primordial undifferentiated source)

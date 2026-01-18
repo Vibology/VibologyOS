@@ -10,13 +10,9 @@ house: House of Chronicle
 card_name: Faith
 aspect: positive
 ---
-
-# Faith
-
 *The enduring belief that some things are worth preserving*
 
 ---
-
 ## Card Symbolism & Meaning
 
 Faith represents the gift of **trust in continuity despite the fear of failure**—the capacity to believe that what matters will endure, that the narrative can continue, that preservation serves meaning. This is the positive pole of Chronicle's spectrum, where metanarrative becomes sustaining rather than brittle, where the virtue of faith transforms **conservative wisdom into veneration of what lasts**.
@@ -26,7 +22,6 @@ In The Window system, Faith is the archetype of enduring trust built from surviv
 The card draws from Gate 32's mechanical function—the Spleen Center's fear of failure—and elevates it within Chronicle's domain. Where Gate 32 in its shadow questions whether anything can last, **Faith speaks Chronicle's gift**: "I will preserve this story. I will protect this value. I trust that what matters will endure through my commitment to continuity."
 
 ---
-
 ## The Gate Within the House
 
 **Gate 32: Duration (Continuity)**
@@ -42,7 +37,6 @@ Chronicle governs metanarrative—the virtues and stories that shape meaning. Ga
 The biological correspondence to immune system reveals Faith's protective mechanism: just as immunity preserves the body's identity across time, faith preserves the narrative's identity across change. Those with embodied Faith do not abandon values when challenged—they **protect what matters through sustained commitment**.
 
 ---
-
 ## Gene Keys in House Context
 
 **Shadow: Failure**
@@ -55,7 +49,6 @@ The gift frequency of Faith expresses as **the wise commitment to what endures**
 At the transcendent level, Faith becomes **Veneration**—the sacred recognition that some values are eternal, that certain narratives transcend individual lives. This is the Siddhi of Gate 32 contextualized in Chronicle: the individual whose faith becomes devotion to what is timeless, whose preservation serves not survival but reverence.
 
 ---
-
 ## Divination Meanings
 
 **When this card appears:**
@@ -71,7 +64,6 @@ When Faith expresses its gift, you embody **discerning preservation**. Your comm
 In its highest expression, Faith becomes **Veneration**—devotion to eternal values, sacred commitment to narratives that transcend time. This is faith as spiritual practice, preservation as act of reverence. Those who touch this frequency become living bridges between generations, whose commitment ensures that **what is timeless endures**.
 
 ---
-
 ## House Integration
 
 Faith represents the **positive pole of Chronicle's continuity**: narrative as enduring wisdom rather than rigid tradition, preservation as veneration rather than fear. Where the shadow attributes of Chronicle (Bitterness, Despair, Hatred) reveal what happens when narrative breaks or hardens, Faith demonstrates **Chronicle's gift of sacred continuity**.
@@ -84,7 +76,6 @@ This card integrates with the other positive Chronicle cards:
 Together, these four cards form the **healthy expression of the House of Chronicle**: enduring commitment (Faith), sustained desire (Hope), inclusive compassion (Love), and visionary ideals (Memory).
 
 ---
-
 ## Internal Links
 
 - [[House of Chronicle]] - The domain of metanarrative and meaning-shaping virtues

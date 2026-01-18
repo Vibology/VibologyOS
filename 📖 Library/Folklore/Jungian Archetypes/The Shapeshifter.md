@@ -17,7 +17,7 @@ collective_unconscious: Universal pattern of mutability, liminality, and the dis
 
 The Shapeshifter is the archetype of **mutability**, **ambiguity**, and **transformation**. Unlike other archetypes that represent relatively stable psychological patterns, the Shapeshifter embodies **instability itself**—the refusal to remain fixed, the capacity to change form, and the deliberate cultivation of uncertainty.
 
-Jung did not formulate the Shapeshifter as a discrete archetype in the way he systematized [[The Shadow]], [[The Anima]], or [[The Self]]. Rather, it emerges from his broader work on **transformation**, **trickster dynamics**, and the **mercurial** quality of the psyche. In *Symbols of Transformation* (CW 5), Jung explores how mythological figures shift between forms, genders, and moral alignments—revealing that **identity is not fixed** but fluid, context-dependent, and subject to sudden reversals.
+Jung did not formulate the Shapeshifter as a discrete archetype in the way he systematized [[The Shadow]], [[Folklore/Jungian Archetypes/The Anima]], or [[Folklore/Jungian Archetypes/The Self]]. Rather, it emerges from his broader work on **transformation**, **trickster dynamics**, and the **mercurial** quality of the psyche. In *Symbols of Transformation* (CW 5), Jung explores how mythological figures shift between forms, genders, and moral alignments—revealing that **identity is not fixed** but fluid, context-dependent, and subject to sudden reversals.
 
 The Shapeshifter's psychological function is to **destabilize the status quo**. It creates **doubt** where there was certainty, **ambiguity** where there was clarity, and **transformation** where there was stagnation. In dreams and myths, the Shapeshifter appears as a figure who **cannot be trusted**—not because they are inherently evil, but because their nature is **to change**.
 
@@ -74,7 +74,7 @@ The Shapeshifter is the psychopomp of this chaos.
 
 **Betrayal:** The Shapeshifter often appears in myths and fairy tales as the **figure who betrays the Hero's trust**. The guide who leads into danger. The lover who turns enemy. This betrayal is not random—it reveals the Hero's **naive projection** and forces them to develop discernment.
 
-**The Femme Fatale / The Seducer:** The Shapeshifter as erotic betrayer. In men's dreams and mythology, this is often the **Femme Fatale**—the beautiful woman who lures the Hero to destruction (Circe, the Sirens, Lilith). In women's dreams, this is the **Seductive Betrayer**—the charming man who promises everything and delivers nothing. Both are projections of the contrasexual soul-image ([[The Anima]] or [[The Animus]]) in its most treacherous form.
+**The Femme Fatale / The Seducer:** The Shapeshifter as erotic betrayer. In men's dreams and mythology, this is often the **Femme Fatale**—the beautiful woman who lures the Hero to destruction (Circe, the Sirens, Lilith). In women's dreams, this is the **Seductive Betrayer**—the charming man who promises everything and delivers nothing. Both are projections of the contrasexual soul-image ([[Folklore/Jungian Archetypes/The Anima]] or [[Folklore/Jungian Archetypes/The Animus]]) in its most treacherous form.
 
 **Refusal to Commit:** The shadow Shapeshifter refuses to be pinned down—to any relationship, any identity, any responsibility. This is **flight from incarnation**, the rejection of embodiment in favor of endless possibility.
 
@@ -105,7 +105,7 @@ The Skinwalker myth warns: **Shapeshifting without moral grounding becomes black
 **Selkie (Celtic):**
 The Selkie is a seal who sheds its skin to become human. In the classic tale, a man steals the Selkie's skin, trapping her in human form as his wife. Years later, she finds the skin, returns to the sea, and abandons her human family. The Selkie embodies **the call of the unlived life**—the wild, oceanic self that refuses domestication.
 
-Psychologically, the Selkie represents the **trapped soul-image** ([[The Anima]] or [[The Self]]) that longs to return to its true nature. The ego's attempt to "possess" the Shapeshifter always fails—it cannot be held.
+Psychologically, the Selkie represents the **trapped soul-image** ([[Folklore/Jungian Archetypes/The Anima]] or [[Folklore/Jungian Archetypes/The Self]]) that longs to return to its true nature. The ego's attempt to "possess" the Shapeshifter always fails—it cannot be held.
 
 **Kitsune (Japanese):**
 The fox spirit who can assume human form—most often as a beautiful woman. The Kitsune is both **benevolent and malevolent**: some foxes protect and guide humans; others deceive and destroy. The Kitsune tests **discernment**—can you tell the true from the false? The nine-tailed fox (kyūbi no kitsune) represents mastery of transformation, having lived long enough to transcend simple morality.
@@ -117,7 +117,7 @@ The Kitsune is the Shapeshifter as **initiation**: if you pass the test, you gai
 Fairy tales encode the Shapeshifter archetype in specific narrative patterns.
 
 **The Frog King / The Frog Prince:**
-The repulsive frog transforms into the handsome prince. This is **transformation through acceptance**—the princess must accept (or violently confront) the shadow-figure before it reveals its true form. The Shapeshifter here is the **contrasexual soul-image** ([[The Animus]]) disguised as the rejected instinctual self. Only when the ego stops resisting does the transformation occur.
+The repulsive frog transforms into the handsome prince. This is **transformation through acceptance**—the princess must accept (or violently confront) the shadow-figure before it reveals its true form. The Shapeshifter here is the **contrasexual soul-image** ([[Folklore/Jungian Archetypes/The Animus]]) disguised as the rejected instinctual self. Only when the ego stops resisting does the transformation occur.
 
 Jung's interpretation: The frog is the **undeveloped masculine** in the woman's psyche. It is cold-blooded, lives between worlds (water and land), and demands acceptance before it becomes the integrated Animus.
 
@@ -383,7 +383,7 @@ The alchemists knew: **You cannot force Mercurius into a container. It will esca
 Both tales encode the Shapeshifter's psychological function: **transformation through relationship with the rejected other.**
 
 **The Frog King:**
-The princess loses her golden ball (symbol of [[The Self]], wholeness) in the well (the unconscious). The repulsive Frog offers to retrieve it—but only if she promises to let him eat from her plate, drink from her cup, and sleep in her bed.
+The princess loses her golden ball (symbol of [[Folklore/Jungian Archetypes/The Self]], wholeness) in the well (the unconscious). The repulsive Frog offers to retrieve it—but only if she promises to let him eat from her plate, drink from her cup, and sleep in her bed.
 
 She agrees—but when the Frog comes to claim his reward, she is **repulsed**. He is cold, slimy, ugly—everything the princess rejects.
 
@@ -627,7 +627,7 @@ The Shapeshifter is the **primary quality** of the projected soul-image. Before 
 After integration, the shapeshifting stabilizes—the soul-image becomes a **conscious guide** rather than an unconscious trickster.
 
 **The Shapeshifter and The Trickster:**
-The Trickster ([[The Joker]]) and the Shapeshifter overlap significantly—both disrupt, deceive, and transform. The distinction:
+The Trickster ([[Folklore/Jungian Archetypes/The Joker]]) and the Shapeshifter overlap significantly—both disrupt, deceive, and transform. The distinction:
 - The **Trickster** uses chaos to **reveal hidden truths** (the sacred clown, the holy fool).
 - The **Shapeshifter** uses ambiguity to **test discernment** (the ally-who-betrays, the guide-who-misleads).
 
@@ -714,13 +714,13 @@ The alchemical **Rebis** (the hermaphrodite, the two-in-one) is the ultimate sym
 ### Jungian Archetypes
 
 - [[The Shadow]] - The Shapeshifter often carries projected shadow content; what seems to "change" in others is often our own rejected parts
-- [[The Anima]] - The feminine soul-image in men; shapeshifts between mother, maiden, muse, and witch before integration
-- [[The Animus]] - The masculine soul-image in women; shapeshifts between hero, tyrant, lover, and judge before integration
+- [[Folklore/Jungian Archetypes/The Anima]] - The feminine soul-image in men; shapeshifts between mother, maiden, muse, and witch before integration
+- [[Folklore/Jungian Archetypes/The Animus]] - The masculine soul-image in women; shapeshifts between hero, tyrant, lover, and judge before integration
 - [[The Trickster]] - Closely related; both disrupt and transform, but Trickster is more playful, Shapeshifter more intimate
-- [[The Hero]] - The ego-consciousness tested by the Shapeshifter's ambiguity; must develop discernment
-- [[The Self]] - The stable center that integrates the Shapeshifter's flux into coherent transformation
+- [[Folklore/Jungian Archetypes/The Hero]] - The ego-consciousness tested by the Shapeshifter's ambiguity; must develop discernment
+- [[Folklore/Jungian Archetypes/The Self]] - The stable center that integrates the Shapeshifter's flux into coherent transformation
 - [[The Wise Old Man]] - Can appear as a Shapeshifter-guide (Merlin, Proteus) who tests through ambiguity
-- [[The Great Mother]] - In her dual aspect (nourishing/devouring), she shapeshifts based on the ego's relationship to her
+- [[Folklore/Jungian Archetypes/The Great Mother]] - In her dual aspect (nourishing/devouring), she shapeshifts based on the ego's relationship to her
 
 ### Hero's Journey Stages
 
@@ -757,13 +757,13 @@ The alchemical **Rebis** (the hermaphrodite, the two-in-one) is the ultimate sym
 
 ### Astrology
 
-- [[Neptune]] - Dissolution, illusion, the oceanic flux that dissolves boundaries
-- [[Pluto]] - Transformation through death and rebirth; the shapeshifting of the self
-- [[Mercury]] - The trickster; communication and adaptability; the messenger between worlds
-- [[Gemini]] - Mutable air; the sign of duality, communication, and shapeshifting perspective
-- [[Virgo]] - Mutable earth; adaptability through analysis and refinement
-- [[Sagittarius]] - Mutable fire; shapeshifting through philosophy and expansion
-- [[Pisces]] - Mutable water; the sign of dissolution, empathy, and boundary-lessness
+- [[Neptune ♆]] - Dissolution, illusion, the oceanic flux that dissolves boundaries
+- [[Pluto ♇]] - Transformation through death and rebirth; the shapeshifting of the self
+- [[Astrology/Planets/Mercury # ☿]] - The trickster; communication and adaptability; the messenger between worlds
+- [[Gemini ♊]] - Mutable air; the sign of duality, communication, and shapeshifting perspective
+- [[Virgo ♍]] - Mutable earth; adaptability through analysis and refinement
+- [[Sagittarius ♐]] - Mutable fire; shapeshifting through philosophy and expansion
+- [[Pisces ♓]] - Mutable water; the sign of dissolution, empathy, and boundary-lessness
 - [[The Moon]] (Luminary) - Emotional flux; the shapeshifting of mood and perception
 
 ### Human Design

@@ -156,9 +156,9 @@ The teaching: Mastery is not the end of learning but its intensification. The tr
 ### Elemental Correspondences
 - [[Earth Element]] - Manifestation, stability, practicality, embodiment
 - [[Earth of Earth]] - The densest materiality, grounded presence
-- [[Taurus]] - Fixed earth, sensual embodiment, patient accumulation
-- [[Virgo]] - Mutable earth, analytical precision, practical service
-- [[Capricorn]] - Cardinal earth, structured ambition, mastery through discipline
+- [[Taurus ♉]] - Fixed earth, sensual embodiment, patient accumulation
+- [[Virgo ♍]] - Mutable earth, analytical precision, practical service
+- [[Capricorn ♑]] - Cardinal earth, structured ambition, mastery through discipline
 
 ### Thematic Groupings
 - [[Cards of Learning]] - Study, apprenticeship, skill development

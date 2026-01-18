@@ -297,7 +297,7 @@ The knight who cannot stop is either a hero or a casualty—and often, he is bot
 - [[The Knights]] - All four Knights as active expressions of their elements
 
 ### Archetypal and Developmental
-- [[The Hero]] - The archetype of the one who conquers
+- [[Folklore/Jungian Archetypes/The Hero]] - The archetype of the one who conquers
 - [[The Warrior]] - The one trained for battle
 - [[Mushin]] - No-mind: action without hesitation
 - [[The Charging Bull]] - Momentum that cannot be easily stopped

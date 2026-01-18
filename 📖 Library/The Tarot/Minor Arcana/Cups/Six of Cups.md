@@ -352,7 +352,7 @@ The Lord of Pleasure is the pleasure of remembering well—neither clinging nor 
 
 ### Planetary and Astrological
 - [[The Sun]] - The luminary: consciousness, vitality, illumination
-- [[Scorpio]] - The Scorpion: depth, transformation, the underworld
+- [[Scorpio ♏]] - The Scorpion: depth, transformation, the underworld
 - [[Sun in Scorpio]] - Light descending into depth, consciousness in shadow
 - [[Second Decan of Scorpio]] - The middle passage through Scorpionic territory
 

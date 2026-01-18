@@ -623,10 +623,10 @@ Psychologically: **The Self (the Grail) is not conquered but revealed. It appear
 - [[The Tarot/Major Arcana/21 - The World|The World]] – The ultimate Quest Object; wholeness, the mandala, the Self achieved
 
 ### Astrology
-- [[Astrology/Planets/Sun|Sun]] – The golden ball, the solar treasure; ego-consciousness seeking the Self
-- [[Astrology/Planets/Jupiter|Jupiter]] – The quest, expansion, the boon; the planet of the Grail journey
-- [[Astrology/Planets/Neptune|Neptune]] – The mystical treasure, the Grail, the Water of Life; dissolution and divine union
-- [[Astrology/Planets/Pluto|Pluto]] – The treasure buried in the underworld; death, transformation, the dragon's hoard
+- [[Sun ☉|Sun]] – The golden ball, the solar treasure; ego-consciousness seeking the Self
+- [[Jupiter ♃|Jupiter]] – The quest, expansion, the boon; the planet of the Grail journey
+- [[Neptune ♆|Neptune]] – The mystical treasure, the Grail, the Water of Life; dissolution and divine union
+- [[Pluto ♇|Pluto]] – The treasure buried in the underworld; death, transformation, the dragon's hoard
 - [[Astrology/Houses/2nd House|2nd House]] – Material treasure, values, what you possess vs. what possesses you
 - [[Astrology/Houses/8th House|8th House]] – The treasure in the shadow, death and rebirth, inheritance from the unconscious
 - [[Astrology/Houses/9th House|9th House]] – The quest for meaning, the Grail journey, the search for truth

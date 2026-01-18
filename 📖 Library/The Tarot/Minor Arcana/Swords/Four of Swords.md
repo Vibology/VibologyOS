@@ -309,8 +309,8 @@ The rest is not the end. It is the preparation for what comes next.
 - [[Fours of the Tarot]] - All four Fours as expressions of Chesed
 
 ### Planetary and Zodiacal
-- [[Jupiter]] - The planet of expansion, wisdom, and benevolence
-- [[Libra]] - The sign of balance, harmony, and peace
+- [[Jupiter ♃]] - The planet of expansion, wisdom, and benevolence
+- [[Libra ♎]] - The sign of balance, harmony, and peace
 - [[Jupiter in Libra]] - The specific combination of these energies
 
 ### Elemental and Suit

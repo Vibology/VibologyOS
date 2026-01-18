@@ -16,9 +16,9 @@ In [[Human Design]], transits are described as "local programming agents": they 
 
 Transiting planets act as **teachers**; natal positions (especially undefined centers in Human Design) act as the **school**. When a transiting planet aspects a natal planet or crosses a sensitive degree, it triggers a specific archetypal theme:
 
-- **Transiting [[Jupiter]]** to natal [[Sun]]:** Expansion of identity, confidence, success
-- **Transiting [[Saturn]]** to natal [[Moon]]:** Emotional restriction, the test of endurance
-- **Transiting [[Uranus]]** to natal [[Venus]]:** Disruption of values, sudden shifts in relationship
+- **Transiting [[Jupiter ♃]]** to natal [[Sun ☉]]:** Expansion of identity, confidence, success
+- **Transiting [[Saturn ♄]]** to natal [[Moon ☽]]:** Emotional restriction, the test of endurance
+- **Transiting [[Uranus ♅]]** to natal [[Venus ♀]]:** Disruption of values, sudden shifts in relationship
 
 The quality of the transit depends on:
 1. **The transiting planet** (which archetype is "teaching")
@@ -33,7 +33,7 @@ The quality of the transit depends on:
 
 **Archetype:** The Judge, the Initiator
 
-The **Saturn Return** occurs when transiting [[Saturn]] completes its 29.5-year orbit and returns to its natal position. This is the first major **ego death**—the moment when the false structures of youth collapse, and the soul is forced to claim its own authority.
+The **Saturn Return** occurs when transiting [[Saturn ♄]] completes its 29.5-year orbit and returns to its natal position. This is the first major **ego death**—the moment when the false structures of youth collapse, and the soul is forced to claim its own authority.
 
 Psychologically, the Saturn Return is experienced as:
 - **Disillusionment** (the dreams of youth prove inadequate)
@@ -97,9 +97,9 @@ The goal is not to escape transits but to **use them consciously**: to recognize
 
 When a planet goes **retrograde**, its motion appears to reverse from Earth's perspective. Esoterically, retrogrades are **review cycles**—periods when the planet's themes move *inward* rather than outward.
 
-- **[[Mercury]] Retrograde:** Review of communication, contracts, mental patterns
-- **[[Venus]] Retrograde:** Review of values, relationships, self-worth
-- **[[Mars]] Retrograde:** Review of desire, action, anger
+- **[[Astrology/Planets/Mercury # ☿]] Retrograde:** Review of communication, contracts, mental patterns
+- **[[Venus ♀]] Retrograde:** Review of values, relationships, self-worth
+- **[[Mars ♂]] Retrograde:** Review of desire, action, anger
 
 Retrogrades do not "break" things—they **reveal** what was already fragile.
 

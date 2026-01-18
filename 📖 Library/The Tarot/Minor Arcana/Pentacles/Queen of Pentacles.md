@@ -173,9 +173,9 @@ The teaching: Hoarding creates scarcity. Generosity creates abundance. When you 
 - [[Water Element]] - Emotion, nurturing, intuition, flow
 - [[Earth Element]] - Manifestation, resources, body, practicality
 - [[Water of Earth]] - Emotion nurturing matter, love made tangible
-- [[Taurus]] - Fixed earth, sensual abundance, fertile ground
-- [[Virgo]] - Mutable earth, practical care, service through tending
-- [[Capricorn]] - Cardinal earth, structured provision, mastery of resources
+- [[Taurus ♉]] - Fixed earth, sensual abundance, fertile ground
+- [[Virgo ♍]] - Mutable earth, practical care, service through tending
+- [[Capricorn ♑]] - Cardinal earth, structured provision, mastery of resources
 
 ### Thematic Groupings
 - [[Cards of Nurturing]] - Care, provision, creating conditions for growth
@@ -186,7 +186,7 @@ The teaching: Hoarding creates scarcity. Generosity creates abundance. When you 
 ### Cross-System References
 - [[Demeter]] - Greek goddess of harvest and grain
 - [[The Alchemical Garden]] - Soul cultivation through attentive labor
-- [[The Great Mother]] - Jung's archetype of nourishing and devouring feminine
+- [[Folklore/Jungian Archetypes/The Great Mother]] - Jung's archetype of nourishing and devouring feminine
 - [[Generosity as Spiritual Practice]] - Giving as path to abundance
 
 ### Psychological

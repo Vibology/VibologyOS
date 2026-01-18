@@ -340,8 +340,8 @@ The Lord of Illusory Success becomes the lord of *actual* success when the dream
 - [[Cards of Netzach]] - All Sevens across the suits
 
 ### Planetary and Astrological
-- [[Venus]] - The planet: love, beauty, desire, attraction
-- [[Scorpio]] - The Scorpion: depth, intensity, obsession
+- [[Venus ♀]] - The planet: love, beauty, desire, attraction
+- [[Scorpio ♏]] - The Scorpion: depth, intensity, obsession
 - [[Venus in Scorpio]] - Desire intensified, beauty in shadow
 - [[Third Decan of Scorpio]] - The final passage, preparing for emergence
 

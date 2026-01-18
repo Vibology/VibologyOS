@@ -9,9 +9,9 @@ natural_sign: Capricorn
 cosignificator: Mars
 theme: Vocation, Public Authority, Reputation, The MC
 ---
+*Vocation and the Peak of Worldly Estimation*
 
-# 10th House: Vocation and the Peak of Worldly Estimation
-
+---
 ## Archetypal Theme
 
 The **10th House** is the **Midheaven** (MC)—the highest point in the chart, visible to all. This is the house of **vocation**: not career (that's 6th House), but *calling*—the work the world recognizes as yours. It governs reputation, public authority, achievement, and the legacy you leave when the Sun sets on your life.
@@ -19,7 +19,6 @@ The **10th House** is the **Midheaven** (MC)—the highest point in the chart, v
 Where the 4th House (IC) is the hidden root, the 10th House is the **visible crown**. Where the 4th House is private sanctuary, the 10th House is **public performance**. What you are at the IC (foundation) determines what you can become at the MC (peak).
 
 ---
-
 ## Angular House Significance
 
 The 10th House is **Angular**—one of the four pillars that structure the chart. Angular houses (1st, 4th, 7th, 10th) mark critical transitions:
@@ -32,7 +31,6 @@ The 10th House is **Angular**—one of the four pillars that structure the chart
 The 10th House specifically governs **public authority**—the capacity to rise, to lead, to contribute something recognized by the collective.
 
 ---
-
 ## Life Domain
 
 The 10th House governs:
@@ -45,17 +43,15 @@ The 10th House governs:
 This is not the 6th House's daily labor or the 2nd House's income—it is **contribution, achievement, and the mark you leave on the world**.
 
 ---
-
 ## Natural Correspondence
 
-**[[Capricorn]]** and **[[Saturn]]** — The elder, the principle of mastery through sustained effort.
+**[[Capricorn ♑]]** and **[[Saturn ♄]]** — The elder, the principle of mastery through sustained effort.
 
 Capricorn is the cardinal earth sign that climbs—not impulsively (Aries) but strategically, step by step, through discipline. Saturn governs the 10th House as the principle of **earned authority**—power that is not given but built through competence and time.
 
-**Cosignificator:** [[Mars]] — The drive to achieve, the ambition to ascend. Mars provides the *will* to climb; Saturn provides the *structure*.
+**Cosignificator:** [[Mars ♂]] — The drive to achieve, the ambition to ascend. Mars provides the *will* to climb; Saturn provides the *structure*.
 
 ---
-
 ## The Midheaven (MC): The Public Face
 
 The **Midheaven** (MC) is the cusp of the 10th House—the highest point in the chart, the degree of the zodiac culminating at the southern meridian at birth.
@@ -73,7 +69,6 @@ The **Midheaven** (MC) is the cusp of the 10th House—the highest point in the 
 The Ascendant is "Who are you?"; the MC is "What have you built?"
 
 ---
-
 ## The 10th House Ruler
 
 The **ruler of the 10th House** (the planet ruling the MC sign) reveals *how* you achieve and what your vocation requires.
@@ -86,45 +81,40 @@ The **ruler of the 10th House** (the planet ruling the MC sign) reveals *how* yo
 The 10th House ruler's **sign, house, and aspects** show the path to your peak.
 
 ---
-
 ## Planets Through the 10th House
 
 ### Sun in the 10th House
 
-When the [[Sun]] is in the 10th House, **identity is public achievement**. These individuals are born to lead, to be seen, to contribute visibly. They cannot hide; their work defines them.
+When the [[Sun ☉]] is in the 10th House, **identity is public achievement**. These individuals are born to lead, to be seen, to contribute visibly. They cannot hide; their work defines them.
 
 **Gift:** Natural authority, leadership, public recognition
 **Challenge:** Identity dependent on achievement; collapse if reputation fails
 
 ---
-
 ### Moon in the 10th House
 
-When the [[Moon]] is in the 10th House, **emotion is public**. These individuals are nurturers in the public eye; their private self becomes their work. They are known for care, empathy, responsiveness.
+When the [[Moon ☽]] is in the 10th House, **emotion is public**. These individuals are nurturers in the public eye; their private self becomes their work. They are known for care, empathy, responsiveness.
 
 **Gift:** Emotional leadership, public nurturance, reputation for empathy
 **Challenge:** Private life exposed, emotional vulnerability weaponized
 
 ---
-
 ### Saturn in the 10th House
 
-When [[Saturn]] is in the 10th House (its natural home), **mastery is destiny**. These individuals are born to authority but must earn it through decades of discipline. They are the elders, the ones who endure.
+When [[Saturn ♄]] is in the 10th House (its natural home), **mastery is destiny**. These individuals are born to authority but must earn it through decades of discipline. They are the elders, the ones who endure.
 
 **Gift:** Earned authority, longevity, legacy that survives death
 **Challenge:** Heavy responsibility, isolation at the top, fear of failure
 
 ---
-
 ### Pluto in the 10th House
 
-When [[Pluto]] is in the 10th House, **power is destiny**. These individuals rise through crisis, destroy old structures, and remake authority. They are feared, respected, or both.
+When [[Pluto ♇]] is in the 10th House, **power is destiny**. These individuals rise through crisis, destroy old structures, and remake authority. They are feared, respected, or both.
 
 **Gift:** Transformative leadership, capacity to destroy and rebuild systems
 **Challenge:** Power struggles, public destruction, obsession with control
 
 ---
-
 ## Psychological & Jungian Depth
 
 The 10th House represents the **Social Persona**—the public role, the mask worn in service to the collective. In Jungian terms, this is the **Senex** (Wise Elder) archetype: earned authority, the one who has climbed and now guides others.
@@ -144,7 +134,6 @@ The 10th House represents the **Social Persona**—the public role, the mask wor
 The 10th House challenge is to recognize that **authority is not dominance**—it is service. True leadership empowers others.
 
 ---
-
 ## Esoteric Significance
 
 In esoteric astrology, the 10th House governs the **soul's purpose**—the work the soul came to do in this incarnation, visible to all.
@@ -154,7 +143,6 @@ In [[Human Design]], the 10th House corresponds to the **Throat Center** (manife
 In Qabalistic terms, the 10th House corresponds to **Binah** (Understanding)—the sphere of form, structure, and the Great Mother who births all manifestation.
 
 ---
-
 ## Evolved vs. Unevolved Expression
 
 **Unevolved 10th House:**
@@ -170,7 +158,6 @@ In Qabalistic terms, the 10th House corresponds to **Binah** (Understanding)—t
 The evolution of the 10th House is learning that **true authority is given, not taken**—the world recognizes mastery when it sees it.
 
 ---
-
 ## The MC/IC Axis: Roots and Peak
 
 The **4th House (IC)** and **10th House (MC)** form the vertical axis of the chart—the foundation and the crown.
@@ -193,7 +180,6 @@ The **4th House (IC)** and **10th House (MC)** form the vertical axis of the cha
 The challenge is to **honor both**—to build from the foundation (IC) to the peak (MC), not to sacrifice one for the other.
 
 ---
-
 ## Vocation vs. Employment: The 10th/6th Distinction
 
 The **6th House** governs employment—the work you do to maintain life. The **10th House** governs vocation—the work you do to fulfill purpose.
@@ -214,7 +200,6 @@ You may work a 6th House job (employment) while building a 10th House vocation (
 The challenge is to **not confuse the two**—employment is not vocation unless it serves your calling.
 
 ---
-
 ## Public Authority and Reputation
 
 The 10th House governs **reputation**—not what you think of yourself (1st House) but what the collective thinks of you.
@@ -237,7 +222,6 @@ The 10th House governs **reputation**—not what you think of yourself (1st Hous
 The 10th House challenge is to recognize that **reputation is earned, not managed**—you cannot fake mastery.
 
 ---
-
 ## Mother vs. Father: The 10th/4th Parental Debate
 
 Traditional astrology assigns the **10th House to the mother** and the **4th House to the father**. Modern astrology often reverses this.
@@ -253,7 +237,6 @@ Traditional astrology assigns the **10th House to the mother** and the **4th Hou
 Both interpretations recognize that the 10th House represents **the authoritative parent**—the one who shows you how to navigate the public world.
 
 ---
-
 ## Practical Guidance
 
 ### For Those with a Strong 10th House (Planets in 10th)
@@ -277,13 +260,12 @@ Both interpretations recognize that the 10th House represents **the authoritativ
 - **Legacy planning** (what will survive your death?)
 
 ---
-
 ## Cross-References
 
 ### Within Astrology
-- **[[Capricorn]]:** Natural ruler of the 10th House
-- **[[Saturn]]:** Planetary ruler of Capricorn and significator of authority, mastery
-- **[[Mars]]:** Cosignificator—ambition, drive to achieve
+- **[[Capricorn ♑]]:** Natural ruler of the 10th House
+- **[[Saturn ♄]]:** Planetary ruler of Capricorn and significator of authority, mastery
+- **[[Mars ♂]]:** Cosignificator—ambition, drive to achieve
 - **4th House:** Roots (IC) vs. peak (MC)—the vertical axis
 - **6th House:** Employment (6th) vs. vocation (10th)
 

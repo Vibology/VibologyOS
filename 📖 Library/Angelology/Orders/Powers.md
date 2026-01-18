@@ -19,7 +19,7 @@ hd_center: Heart (Ego) Center
 **Hebrew Name:** *Elohim* ("Gods" or "Divine Ones")
 **Sephira:** [[Geburah]] (Strength/Severity)
 **Triad:** [[The Three Triads|Second Triad]] — The Governors
-**Planetary Sphere:** [[Mars]]
+**Planetary Sphere:** [[Mars ♂]]
 **Function:** Warriors of cosmic order, opposition to chaos, strength and judgment
 **Human Design Center:** [[Heart Center|Heart (Ego) Center]]
 **Element:** Fire (martial, discriminating)
@@ -55,7 +55,7 @@ To encounter Power consciousness is to meet the **unyielding strength of cosmic 
 | **Hebrew Name**        | *Elohim* ("Gods" or "Divine Ones")                   |
 | **Triad**              | Second Triad (The Governors)                         |
 | **Sephira**            | [[Geburah]] (Strength/Severity)                      |
-| **Planetary Sphere**   | [[Mars]]                                             |
+| **Planetary Sphere**   | [[Mars ♂]]                                             |
 | **Divine Function**    | Combat chaos, enforce cosmic law, discrimination     |
 | **Iconography**        | Armored warriors, flaming swords, defenders          |
 | **Human Faculty**      | Courage, discrimination, strength, capacity to say no|
@@ -334,7 +334,7 @@ The Heart Center is the **human microcosm of Power function**—the capacity to 
 
 ## Planetary Correspondence: Mars
 
-The Powers are associated with **[[Mars]]**, the planet of **strength, combat, courage, and discrimination**.
+The Powers are associated with **[[Mars ♂]]**, the planet of **strength, combat, courage, and discrimination**.
 
 ### Mars as the Warrior
 
@@ -357,7 +357,7 @@ These are all Power functions. The Powers combat chaos (Mars as warrior), discri
 
 ### Astrological Implications
 
-In astrology, [[Mars]] placements and transits indicate:
+In astrology, [[Mars ♂]] placements and transits indicate:
 - **Mars in natal chart** — Where and how you assert yourself, what you are willing to fight for
 - **Mars transits** — Periods of increased energy, conflict, and the need to defend boundaries
 - **Mars retrograde** — Internalization of martial energy, reviewing commitments and boundaries
@@ -640,9 +640,9 @@ To integrate the Powers is to become the **sacred warrior**—the one who defend
 - [[Qlippoth]] — The shadow side of the Sephiroth; Asmodeus as fallen Power
 
 ### Astrological Correspondences
-- [[Mars]] — Planet of strength, combat, courage, discrimination (Power planet)
-- [[Aries]] — Mars-ruled sign, embodying assertion and initiation
-- [[Scorpio]] — Mars's traditional co-rulership (modern Pluto), embodying transformation through destruction
+- [[Mars ♂]] — Planet of strength, combat, courage, discrimination (Power planet)
+- [[Aries ♈]] — Mars-ruled sign, embodying assertion and initiation
+- [[Scorpio ♏]] — Mars's traditional co-rulership (modern Pluto), embodying transformation through destruction
 - [[Mars transits]] — Periods of increased energy, conflict, and boundary work
 
 ### Human Design System
@@ -666,7 +666,7 @@ To integrate the Powers is to become the **sacred warrior**—the one who defend
 ### Jungian Psychology
 - [[The Sword Archetype]] — The capacity to cut, sever, discriminate
 - [[The Warrior Archetype]] — The defender of boundaries and sacred order
-- [[The Animus]] — Masculine aspect of the psyche, often appearing as sword-bearer
+- [[Folklore/Jungian Archetypes/The Animus]] — Masculine aspect of the psyche, often appearing as sword-bearer
 - [[Shadow]] — Repressed strength and anger requiring integration
 - [[Individuation]] — The process requiring discrimination (cutting away what is not-Self)
 

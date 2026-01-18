@@ -80,7 +80,7 @@ Mercury (Hod) is the trickster, the magician, the one who knows that words creat
 
 ### Astrological Attribution: Capricorn – Cardinal Earth
 
-The Devil is attributed to **[[Capricorn]]**, the sign of Cardinal Earth. Capricorn is the mountain goat, the climber, the one who ascends to the peak through discipline, ambition, and mastery of the material world. Capricorn is structure, hierarchy, achievement.
+The Devil is attributed to **[[Capricorn ♑]]**, the sign of Cardinal Earth. Capricorn is the mountain goat, the climber, the one who ascends to the peak through discipline, ambition, and mastery of the material world. Capricorn is structure, hierarchy, achievement.
 
 Capricorn is ruled by **Saturn**, the planet of limitation, time, boundaries, and form. Saturn is the great teacher, the lord of karma, the principle that says: *Reality has consequences. You reap what you sow.* Saturn is not evil—it is *structure*. But structure can become prison.
 
@@ -196,8 +196,8 @@ The gift of integration: **The Devil is redeemed when he is *seen***. Not conque
 ## Internal Links
 
 - **Adjacent Major Arcana**: [[14 - Temperance]] ← → [[16 - The Tower]]
-- **Element/Modality**: [[Capricorn]] | [[Cardinal Earth]]
-- **Planetary**: [[Saturn]] (ruler) | [[Mars]] (exalted)
+- **Element/Modality**: [[Capricorn ♑]] | [[Cardinal Earth]]
+- **Planetary**: [[Saturn ♄]] (ruler) | [[Mars ♂]] (exalted)
 - **Path**: [[Path 26 - Tiphareth to Hod]]
 - **Hebrew Letter**: [[Ayin]]
 - **Thematic Groupings**: [[The Shadow Cards]] | [[Bondage and Liberation]] | [[Material vs. Spiritual]]

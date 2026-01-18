@@ -741,15 +741,15 @@ The Shadow interacts dynamically with other archetypal structures:
 ## Section 6: Cross-References
 
 ### Jungian Archetypes
-- [[The Hero]] — The shadow is the hero's primary adversary and teacher
-- [[The Anima]] — Feminine soul-image; shadow work is prerequisite
-- [[The Animus]] — Masculine soul-image; contaminated by unintegrated shadow
-- [[The Self]] — Totality that embraces both ego and shadow
-- [[The Great Mother]] — Shadow merges with the Terrible Mother (devouring aspect)
+- [[Folklore/Jungian Archetypes/The Hero]] — The shadow is the hero's primary adversary and teacher
+- [[Folklore/Jungian Archetypes/The Anima]] — Feminine soul-image; shadow work is prerequisite
+- [[Folklore/Jungian Archetypes/The Animus]] — Masculine soul-image; contaminated by unintegrated shadow
+- [[Folklore/Jungian Archetypes/The Self]] — Totality that embraces both ego and shadow
+- [[Folklore/Jungian Archetypes/The Great Mother]] — Shadow merges with the Terrible Mother (devouring aspect)
 - [[The Wise Old Man]] — Guide through shadow work; or shadow Senex (tyrant)
-- [[The Joker]] — Shadow's shape-shifting, boundary-crossing energy
-- [[The Divine Child]] — Innocence that shadow threatens or protects
-- [[The Persona]] — Social mask; shadow is what the mask hides
+- [[Folklore/Jungian Archetypes/The Joker]] — Shadow's shape-shifting, boundary-crossing energy
+- [[Folklore/Jungian Archetypes/The Divine Child]] — Innocence that shadow threatens or protects
+- [[Folklore/Jungian Archetypes/The Persona]] — Social mask; shadow is what the mask hides
 - [[The Syzygy]] — Sacred marriage requires shadow integration first
 
 ### Hero's Journey Stages
@@ -787,10 +787,10 @@ The Shadow interacts dynamically with other archetypal structures:
 - [[Judgement]] — Resurrection after shadow integration
 
 ### Astrology
-- [[Pluto]] — Lord of the underworld; death/rebirth; shadow material
+- [[Pluto ♇]] — Lord of the underworld; death/rebirth; shadow material
 - [[8th House]] — Death, regeneration, family fate, shadow inheritance
-- [[Saturn]] — Guardian of the Threshold; limitation and test
-- [[Scorpio]] — Descent into shadow; intensity, sexuality, transformation
+- [[Saturn ♄]] — Guardian of the Threshold; limitation and test
+- [[Scorpio ♏]] — Descent into shadow; intensity, sexuality, transformation
 - [[12th House]] — Hidden enemies, unconscious, shadow realm
 - [[Chiron]] — The wounded healer; shadow wound that becomes gift
 - [[South Node]] — Past-life shadow; karmic material to integrate

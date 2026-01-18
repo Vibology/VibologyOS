@@ -367,8 +367,8 @@ The Five of Wands is the test: *Can you tell the difference?*
 - [[Cards of Geburah]] - All Fives across the suits
 
 ### Planetary and Astrological
-- [[Saturn]] - The taskmaster: limitation, discipline, time, maturation
-- [[Leo]] - The Lion: creativity, pride, self-expression, leadership
+- [[Saturn ♄]] - The taskmaster: limitation, discipline, time, maturation
+- [[Leo ♌]] - The Lion: creativity, pride, self-expression, leadership
 - [[Saturn in Leo]] - Restriction blocking exuberance, pressure building
 - [[First Decan of Leo]] - The purest Leo energy, most eager to shine
 

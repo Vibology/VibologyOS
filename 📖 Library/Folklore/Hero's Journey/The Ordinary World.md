@@ -99,12 +99,12 @@ Psychologically, the Ordinary World corresponds to developmental stages where id
 | **System** | **Primary Correspondence** | **Symbolic Resonance** | **Psychological Function** |
 |------------|---------------------------|------------------------|----------------------------|
 | **Tarot** | [[The Fool (0)]]<br>[[Page of Pentacles]]<br>[[Four of Cups]]<br>[[Ten of Pentacles]] | Fool: Innocence at the cliff's edge, unaware of danger<br>Page of Pentacles: Apprentice, student of mundane skills<br>Four of Cups: Apathy, dissatisfaction, taking for granted<br>Ten of Pentacles: Material success, family tradition, established legacy | The Ordinary World as either naïve potential (Fool, Page) or stagnant fulfillment (Four/Ten)—both require disruption to catalyze growth |
-| **Astrology** | [[1st House]]<br>[[Sun]]<br>[[Moon in Cancer]]<br>[[Taurus]]<br>[[2nd House]] | 1st House: The persona, how one is perceived<br>Sun: Conscious ego, identity<br>Moon in Cancer: Domesticity, the womb, the familiar<br>Taurus: Stability, routine, resistance to change<br>2nd House: Material resources, values, possessions | Astrological signatures of comfort, identity, and the status quo—planets transiting these placements will trigger the Call |
+| **Astrology** | [[1st House]]<br>[[Sun ☉]]<br>[[Moon in Cancer]]<br>[[Taurus ♉]]<br>[[2nd House]] | 1st House: The persona, how one is perceived<br>Sun: Conscious ego, identity<br>Moon in Cancer: Domesticity, the womb, the familiar<br>Taurus: Stability, routine, resistance to change<br>2nd House: Material resources, values, possessions | Astrological signatures of comfort, identity, and the status quo—planets transiting these placements will trigger the Call |
 | **Human Design** | **Sacral Center** (satisfied/dissatisfied)<br>**Gate 2** (The Receptive - Higher Self/Direction)<br>**Gate 14** (Possession in Great Measure - Power Skills/Keeper of Keys)<br>**Not-Self Theme** (living out conditioning) | Sacral satisfaction = Ordinary World equilibrium<br>Gate 2: Waiting for direction, receptive but not yet activated<br>Gate 14: Holding keys but not yet using them<br>Not-Self: The false life lived according to others' designs | The Ordinary World in HD is often the Not-Self—Generator dissatisfaction, Projector bitterness, Manifestor anger, Reflector disappointment—signals that one is living out of alignment |
 | **I-Ching** | **Hexagram 2 (K'un / The Receptive)**<br>**Hexagram 3 (Chun / Difficulty at the Beginning)**<br>**Hexagram 12 (P'i / Standstill/Stagnation)**<br>**Hexagram 61 (Chung Fu / Inner Truth)** | K'un: Pure yin, potential awaiting yang activation<br>Chun: Seedling struggling to emerge, birth pangs<br>P'i: Heaven and Earth separated, stagnation<br>Chung Fu: Inner knowing not yet expressed | The Ordinary World as pregnant pause—potential exists but has not yet manifested. Stagnation signals the need for movement |
 | **Qabalah** | **Malkuth (The Kingdom)**<br>**The Four Tens** (completion/stagnation)<br>**Assiah (Material World)** | Malkuth: The final Sephirah, the material plane, spirit crystallized into matter<br>Tens: Completion of cycles, but also inertia<br>Assiah: The world of action, the densest realm | Malkuth is where the journey begins—spirit must descend fully into matter before it can consciously ascend. The Ordinary World is the Kingdom, waiting for the king to awaken |
 | **Angelology** | **Guardian Angels** (present but unacknowledged)<br>[[Sandalphon]] (Rooted in Earth/Malkuth)<br>**Archangel [[Gabriel]]** (The Announcer - will bring the Call) | Guardian Angels: Ever-present, but the ego is too loud to hear<br>Sandalphon: Twin of Metatron, anchors prayers in physical reality<br>Gabriel: Messenger who will shatter the Ordinary World with the Call | Angels attend the Ordinary World silently—the psyche is not yet attuned to subtle guidance. Gabriel waits to deliver the message that will disrupt equilibrium |
-| **Jungian Archetypes** | [[The Persona]]<br>[[The Ego]]<br>[[The Innocent]]<br>**The Unconscious Shadow** | Persona: Social mask identified as self<br>Ego: Believes it is in control, sovereign<br>Innocent: Pre-lapsarian, untested<br>Shadow: Unconscious, projected outward, not yet recognized | The Ordinary World is the Persona's domain—life lived on the surface, the Shadow denied, the Self calling from beneath but not yet heard |
+| **Jungian Archetypes** | [[Folklore/Jungian Archetypes/The Persona]]<br>[[The Ego]]<br>[[The Innocent]]<br>**The Unconscious Shadow** | Persona: Social mask identified as self<br>Ego: Believes it is in control, sovereign<br>Innocent: Pre-lapsarian, untested<br>Shadow: Unconscious, projected outward, not yet recognized | The Ordinary World is the Persona's domain—life lived on the surface, the Shadow denied, the Self calling from beneath but not yet heard |
 
 ## 3. Practical Application
 
@@ -485,7 +485,7 @@ For non-binary and transgender individuals, the Ordinary World is often experien
 - The Call to depart is often **internal**—the body's insistence, the psyche's refusal to continue the charade.
 
 **Archetypal Resonance**:
-- [[The Shapeshifter]], [[Loki]] (trickster who changes form and gender), [[Tiresias]] (prophet who lived as both man and woman).
+- [[Folklore/Jungian Archetypes/The Shapeshifter]], [[Loki]] (trickster who changes form and gender), [[Tiresias]] (prophet who lived as both man and woman).
 - The Ordinary World is the prison of **binary**; the journey is the claiming of **fluidity, multiplicity, authenticity**.
 
 ### Cultural Context
@@ -499,11 +499,11 @@ The future of the Ordinary World archetype may be **gender-integrative**—honor
 ## 6. Cross-References
 
 ### Jungian Archetypes
-- [[The Persona]]: The Ordinary World is the Persona's kingdom—the social mask believed to be the totality of self. The Call will demand its dissolution.
+- [[Folklore/Jungian Archetypes/The Persona]]: The Ordinary World is the Persona's kingdom—the social mask believed to be the totality of self. The Call will demand its dissolution.
 - [[The Ego]]: In the Ordinary World, the Ego believes it is sovereign—in control, autonomous. The journey will humble this illusion.
 - [[The Shadow]]: In the Ordinary World, the Shadow is unconscious—projected onto others, denied, feared. The adventure will force confrontation.
 - [[The Innocent]]: The Ordinary World often embodies the Innocent archetype—untested, naïve, pre-lapsarian. The journey is the loss of innocence.
-- [[The Self]]: The Self calls from beneath the Ordinary World's surface—restlessness, dreams, synchronicities. It will not be silenced indefinitely.
+- [[Folklore/Jungian Archetypes/The Self]]: The Self calls from beneath the Ordinary World's surface—restlessness, dreams, synchronicities. It will not be silenced indefinitely.
 
 ### Hero's Journey Stages
 - [[The Call to Adventure]]: The Call **disrupts** the Ordinary World—a messenger arrives, a crisis erupts, a vision appears. The Ordinary World is the status quo the Call shatters.
@@ -525,12 +525,12 @@ The future of the Ordinary World archetype may be **gender-integrative**—honor
 
 ### Astrology
 - [[1st House]]: The Ascendant, the Persona, the mask shown to the world. The Ordinary World is the 1st House life—how you are perceived, your baseline identity.
-- [[Sun]]: Conscious ego, core identity. The Ordinary World is the Sun's current expression—but transits (especially outer planets) will Call the ego to evolve.
-- [[Moon]]: Emotional security, the familiar, the mother, the womb. The Moon rules the Ordinary World's **comfort**—home, routine, known relationships.
-- [[Taurus]]: Fixed earth—stability, pleasure, resistance to change. Taurus energy is the Ordinary World's gravitational pull.
-- [[Cancer]]: Cardinal water—home, family, nurturing. Cancer's Ordinary World is the **hearth**, the nest, the clan.
+- [[Sun ☉]]: Conscious ego, core identity. The Ordinary World is the Sun's current expression—but transits (especially outer planets) will Call the ego to evolve.
+- [[Moon ☽]]: Emotional security, the familiar, the mother, the womb. The Moon rules the Ordinary World's **comfort**—home, routine, known relationships.
+- [[Taurus ♉]]: Fixed earth—stability, pleasure, resistance to change. Taurus energy is the Ordinary World's gravitational pull.
+- [[Cancer ♋]]: Cardinal water—home, family, nurturing. Cancer's Ordinary World is the **hearth**, the nest, the clan.
 - [[2nd House]]: Material resources, possessions, values. The Ordinary World's economy—what you own, what you value, your sense of security.
-- [[Saturn]]: Limitation, structure, time. Saturn **is** the Ordinary World's boundaries—what you are allowed, what is forbidden, the laws you internalize.
+- [[Saturn ♄]]: Limitation, structure, time. Saturn **is** the Ordinary World's boundaries—what you are allowed, what is forbidden, the laws you internalize.
 
 ### Human Design
 - **Sacral Center (Defined)**: Generators and Manifesting Generators—Sacral satisfaction or dissatisfaction is the Ordinary World's compass. Dissatisfaction signals the Call.

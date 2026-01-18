@@ -694,8 +694,8 @@ This is the Seraphim's gift: the **dissolution of the illusion of separation**.
 
 ### Astrology
 - [[Primum Mobile]] (The First Motion, beyond the planets)
-- [[Uranus]] (sudden awakening, lightning-strike illumination)
-- [[Pluto]] (death and rebirth, the burning coal)
+- [[Uranus ♅]] (sudden awakening, lightning-strike illumination)
+- [[Pluto ♇]] (death and rebirth, the burning coal)
 - [[Fixed Stars]] (the eternal, unchanging cosmic order)
 
 ### Human Design
@@ -706,7 +706,7 @@ This is the Seraphim's gift: the **dissolution of the illusion of separation**.
 - [[Undefined Head Center]] (receptivity to Seraphic inspiration)
 
 ### Jungian Psychology
-- [[The Self]] (the God-image, the totality of the psyche)
+- [[Folklore/Jungian Archetypes/The Self]] (the God-image, the totality of the psyche)
 - [[Imago Dei]] (the image of God within the human soul)
 - [[Numinous Experience]] (mysterium tremendum et fascinans)
 - [[Psychoid Archetype]] (structures at the boundary of psyche and matter)

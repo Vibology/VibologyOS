@@ -19,7 +19,7 @@ hd_center: Throat Center
 **Hebrew Name:** *Aralim* ("Mighty Ones" or "Strong Ones")
 **Sephira:** [[Binah]] (Understanding)
 **Triad:** [[The Three Triads|First Triad]] — The Counselors
-**Planetary Sphere:** [[Saturn]]
+**Planetary Sphere:** [[Saturn ♄]]
 **Function:** Divine justice, steadfastness, form-giving, upholding cosmic law
 **Human Design Center:** [[Throat Center]]
 **Element:** Earth/Water
@@ -55,7 +55,7 @@ To encounter Throne consciousness is to meet the **unyielding stability of divin
 | **Hebrew Name**        | *Aralim* ("Mighty Ones")                             |
 | **Triad**              | First Triad (The Counselors)                         |
 | **Sephira**            | [[Binah]] (Understanding)                            |
-| **Planetary Sphere**   | [[Saturn]]                                           |
+| **Planetary Sphere**   | [[Saturn ♄]]                                           |
 | **Divine Function**    | Form-giving, justice, steadfastness, upholding law   |
 | **Iconography**        | Many-eyed thrones, wheels of fire, seats of God      |
 | **Human Faculty**      | Manifestation, capacity for form-giving, justice     |
@@ -314,7 +314,7 @@ The Throat Center is the **human microcosm of Throne function**—the capacity t
 
 ## Planetary Correspondence: Saturn
 
-The Thrones are associated with **[[Saturn]]**, the planet of structure, time, limitation, and karma.
+The Thrones are associated with **[[Saturn ♄]]**, the planet of structure, time, limitation, and karma.
 
 ### Saturn as the Great Taskmaster
 
@@ -337,7 +337,7 @@ These are all Throne functions. The Thrones uphold cosmic law (karma), give form
 
 ### Astrological Implications
 
-In astrology, [[Saturn]] transits mark:
+In astrology, [[Saturn ♄]] transits mark:
 - **Saturn Return** (ages ~29, 58, 87) — The reckoning with cosmic law, the confrontation with Throne consciousness
 - **Saturn Oppositions/Squares** — Moments when structure must be reinforced or dismantled
 - **Saturn Conjunctions** — The granting of form to long-gestating potential
@@ -594,10 +594,10 @@ To integrate the Thrones is to become the **sacred container**—the womb, the t
 - [[Qlippoth]] — The shadow side of the Sephiroth; Beelzebub as fallen Throne
 
 ### Astrological Correspondences
-- [[Saturn]] — Planet of structure, time, limitation, karma (Throne planet)
+- [[Saturn ♄]] — Planet of structure, time, limitation, karma (Throne planet)
 - [[Saturn Return]] — The confrontation with Throne consciousness at ages ~29, 58, 87
-- [[Capricorn]] — Saturn-ruled sign, embodying structure and authority
-- [[Aquarius]] — Saturn's traditional co-rulership, embodying cosmic law
+- [[Capricorn ♑]] — Saturn-ruled sign, embodying structure and authority
+- [[Aquarius ♒]] — Saturn's traditional co-rulership, embodying cosmic law
 
 ### Human Design System
 - [[Throat Center]] — Manifestation center, the human microcosm of Throne function
@@ -615,7 +615,7 @@ To integrate the Thrones is to become the **sacred container**—the womb, the t
 - [[Hexagram 2 - K'un (The Receptive)]] — Pure yin, the Earth principle, receptive form-giving (Throne function)
 
 ### Jungian Psychology
-- [[The Great Mother]] — Archetypal womb, container, form-giver
+- [[Folklore/Jungian Archetypes/The Great Mother]] — Archetypal womb, container, form-giver
 - [[The Superego]] — Internalized law and authority (Throne function in psyche)
 - [[Shadow]] — Unconscious material requiring Throne-consciousness accountability to integrate
 - [[Individuation]] — The process of giving form to the Self, requiring Throne stability

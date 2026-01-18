@@ -173,9 +173,9 @@ The teaching: Most people quit not because the work is hard but because they can
 - [[Air Element]] - Intellect, planning, movement, strategy
 - [[Earth Element]] - Manifestation, stability, practicality, labor
 - [[Air of Earth]] - Intellect directing matter, systematic action
-- [[Taurus]] - Fixed earth, persistent embodiment, unstoppable endurance
-- [[Virgo]] - Mutable earth, methodical precision, work as service
-- [[Capricorn]] - Cardinal earth, disciplined ambition, climbing the mountain
+- [[Taurus ♉]] - Fixed earth, persistent embodiment, unstoppable endurance
+- [[Virgo ♍]] - Mutable earth, methodical precision, work as service
+- [[Capricorn ♑]] - Cardinal earth, disciplined ambition, climbing the mountain
 
 ### Thematic Groupings
 - [[Cards of Persistence]] - Sustained effort, endurance, commitment

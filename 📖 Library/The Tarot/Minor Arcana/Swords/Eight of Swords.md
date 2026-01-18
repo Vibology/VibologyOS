@@ -319,8 +319,8 @@ But the lock—the lock may be open.
 - [[Eights of the Tarot]] - All four Eights as expressions of Hod
 
 ### Planetary and Zodiacal
-- [[Jupiter]] - The planet of expansion, possibility, and abundance
-- [[Gemini]] - The sign of duality, communication, and mental agility
+- [[Jupiter ♃]] - The planet of expansion, possibility, and abundance
+- [[Gemini ♊]] - The sign of duality, communication, and mental agility
 - [[Jupiter in Gemini]] - The specific combination of these energies (detriment)
 
 ### Elemental and Suit

@@ -115,12 +115,12 @@ Psychologically, the Mentor corresponds to:
 | **System** | **Primary Correspondence** | **Symbolic Resonance** | **Psychological Function** |
 |------------|---------------------------|------------------------|----------------------------|
 | **Tarot** | [[The Hierophant (V)]]<br>[[The Hermit (IX)]]<br>[[Temperance (XIV)]] | Hierophant: Tradition, teaching, initiation<br>Hermit: Solitary wisdom, inner light<br>Temperance: Alchemical guidance, balance | The Hierophant transmits lineage knowledge; the Hermit models self-reliance; Temperance teaches integration of opposites |
-| **Astrology** | [[Jupiter]]<br>[[Chiron]]<br>[[9th House]]<br>[[Sagittarius]] | Jupiter: Benevolent teacher, expansion, philosophy<br>Chiron: Wounded healer, teaching through suffering<br>9th House: Higher learning, gurus, pilgrimages<br>Sagittarius: Quest for meaning, archery toward truth | Jupiter expands the hero's worldview; Chiron teaches that wounds become medicine; 9th House draws the seeker toward wisdom; Sagittarius aims at the distant target |
+| **Astrology** | [[Jupiter ♃]]<br>[[Chiron]]<br>[[9th House]]<br>[[Sagittarius ♐]] | Jupiter: Benevolent teacher, expansion, philosophy<br>Chiron: Wounded healer, teaching through suffering<br>9th House: Higher learning, gurus, pilgrimages<br>Sagittarius: Quest for meaning, archery toward truth | Jupiter expands the hero's worldview; Chiron teaches that wounds become medicine; 9th House draws the seeker toward wisdom; Sagittarius aims at the distant target |
 | **Human Design** | **Projector Type**<br>**Gate 50 (The Cauldron)**<br>**Gate 4 (Youthful Folly)**<br>**Defined Ajna Center** | Projector: Natural guide, sees others deeply<br>Gate 50: Values, elders, laws forged in crisis<br>Gate 4: Answering questions, not giving unsolicited advice<br>Ajna: Mental clarity, conceptual wisdom | Projectors guide without forcing; Gate 50 transmits ancestral/cultural values; Gate 4 teaches through inquiry; Ajna provides conceptual frameworks |
 | **I-Ching** | **Hexagram 4 (Meng / Youthful Folly)**<br>**Hexagram 20 (Guan / Contemplation)**<br>**Hexagram 26 (Ta Ch'u / The Taming Power of the Great)** | Hex 4: Student seeking teacher, teacher requiring sincerity<br>Hex 20: The sage observing, presence as teaching<br>Hex 26: Accumulation of wisdom, restraint before release | The I-Ching teaches: true Mentors do not impose but *respond* to genuine seeking; wisdom is transmitted through presence as much as words |
 | **Qabalah** | **Chokmah (Wisdom)**<br>**Chesed (Mercy)**<br>**Path 12 (The Magician)**<br>**Da'at (Knowledge)** | Chokmah: Primordial wisdom, the Wise Father<br>Chesed: Jupiter-ruled mercy, benevolent teacher<br>Magician: Transmission of hermetic secrets<br>Da'at: Hidden knowledge, the Abyss crossed | Chokmah is the cosmic Mentor (wisdom beyond ego); Chesed gives freely; the Magician initiates into mysteries; Da'at represents gnosis earned through descent |
 | **Angelology** | [[Metatron]]<br>[[Raziel]]<br>**Holy Guardian Angel**<br>[[Sandalphon]] | Metatron: Scribe, teacher of humanity, transformed Enoch<br>Raziel: Angel of mysteries, keeper of secrets<br>HGA: Personal guide in Thelemic tradition<br>Sandalphon: Brother of Metatron, prayers carried upward | These angels serve as intermediaries between human and divine—Metatron teaches cosmic law; Raziel imparts hidden knowledge; the HGA guides the individual's unique path |
-| **Jungian Archetypes** | [[The Wise Old Man]]<br>[[The Wise Old Woman]]<br>[[The Sage]]<br>[[The Self]] (projected) | Wise Old Man: Merlin, Gandalf, Obi-Wan<br>Wise Old Woman: Baba Yaga, Fairy Godmother, Hecate<br>Sage: The philosopher, hermit, elder<br>Self: The Mentor as external manifestation of inner totality | The Mentor is the [[Self]] projected outward before it can be integrated inward. The hero must eventually *become* their own Mentor |
+| **Jungian Archetypes** | [[The Wise Old Man]]<br>[[The Wise Old Woman]]<br>[[The Sage]]<br>[[Folklore/Jungian Archetypes/The Self]] (projected) | Wise Old Man: Merlin, Gandalf, Obi-Wan<br>Wise Old Woman: Baba Yaga, Fairy Godmother, Hecate<br>Sage: The philosopher, hermit, elder<br>Self: The Mentor as external manifestation of inner totality | The Mentor is the [[Self]] projected outward before it can be integrated inward. The hero must eventually *become* their own Mentor |
 
 ## 3. Practical Application
 
@@ -592,7 +592,7 @@ Western heroic narratives privilege the **masculine Mentor** (Obi-Wan, Gandalf).
 - [[The Wise Old Man]]: The archetypal Mentor—Merlin, Gandalf, Obi-Wan. Represents wisdom, reflection, insight that transcends the ego's limited perspective.
 - [[The Wise Old Woman]]: Baba Yaga, Fairy Godmother, Hecate. The feminine form of archetypal wisdom—intuitive, cyclical, connected to earth and ancestors.
 - [[The Sage]]: The philosopher, hermit, elder. The Mentor in contemplative mode—teaching through presence and reflection rather than action.
-- [[The Self]]: The Mentor is the [[Self]] projected outward before the ego can access it directly. As the hero matures, the Mentor is internalized.
+- [[Folklore/Jungian Archetypes/The Self]]: The Mentor is the [[Self]] projected outward before the ego can access it directly. As the hero matures, the Mentor is internalized.
 - [[The Senex]]: The shadow of the Wise Old Man—rigid, dogmatic, life-denying. The Mentor who no longer serves growth but enforces stagnation.
 - [[The Crone]]: The post-menopausal woman who no longer serves reproductive function and thus gains power, wisdom, and freedom. The Mentor as liberated elder.
 - [[The Magician]]: The archetype of knowledge, initiation, and transformation. The Mentor who teaches not only skills but **mysteries**.
@@ -617,11 +617,11 @@ Western heroic narratives privilege the **masculine Mentor** (Obi-Wan, Gandalf).
 - [[The High Priestess (II)]]: The guardian of hidden knowledge. The Mentor who teaches through silence, dreams, and the unseen.
 
 ### Astrology
-- [[Jupiter]]: The planet of expansion, philosophy, and benevolent teaching. Jupiter transits often bring Mentors into one's life.
+- [[Jupiter ♃]]: The planet of expansion, philosophy, and benevolent teaching. Jupiter transits often bring Mentors into one's life.
 - [[Chiron]]: The wounded healer. Chiron transits and the Chiron Return (age 50-51) activate both wounding and the capacity to mentor others from that wound.
 - [[9th House]]: The house of higher learning, pilgrimage, gurus, and foreign travel. Planets in the 9th indicate the seeker's relationship to Mentors and teachings.
-- [[Sagittarius]]: The sign of the quest for meaning, ruled by Jupiter. Sagittarius energy seeks Mentors, philosophies, and truths "beyond the horizon."
-- [[Saturn]]: The Mentor as taskmaster and initiator. Saturn teaches through limitation, discipline, and accountability—wisdom earned through constraint.
+- [[Sagittarius ♐]]: The sign of the quest for meaning, ruled by Jupiter. Sagittarius energy seeks Mentors, philosophies, and truths "beyond the horizon."
+- [[Saturn ♄]]: The Mentor as taskmaster and initiator. Saturn teaches through limitation, discipline, and accountability—wisdom earned through constraint.
 - [[3rd House]]: The house of learning, communication, and early education. Contrasts with 9th (higher learning)—3rd is primary school, 9th is university/guru.
 
 ### Human Design
@@ -653,9 +653,9 @@ Western heroic narratives privilege the **masculine Mentor** (Obi-Wan, Gandalf).
 - [[Michael]]: The warrior archangel. Michael mentors through courage, protection, and the will to stand against darkness.
 
 ### Folklore and Mythology
-- [[The Threshold Guardian]]: Often confused with the Mentor, but distinct—the Guardian *tests* before the threshold; the Mentor *prepares* for what lies beyond.
+- [[Folklore/Jungian Archetypes/The Threshold Guardian]]: Often confused with the Mentor, but distinct—the Guardian *tests* before the threshold; the Mentor *prepares* for what lies beyond.
 - [[The Trickster]]: Sometimes the Trickster (Loki, Coyote, Hermes) serves as a chaotic Mentor—teaching through disruption, paradox, and rule-breaking.
-- [[The Shapeshifter]]: The Mentor who appears in many forms—animal, human, god. Teaches that reality is fluid, not fixed.
+- [[Folklore/Jungian Archetypes/The Shapeshifter]]: The Mentor who appears in many forms—animal, human, god. Teaches that reality is fluid, not fixed.
 - [[The Herald]]: Announces the Call; sometimes overlaps with the Mentor if the Herald also provides guidance (Obi-Wan as both Herald and Mentor to Luke).
 - [[The Underworld]]: Some Mentors (Hecate, Persephone as Queen) guide heroes through descent—teaching that death is not the end but a passage.
 

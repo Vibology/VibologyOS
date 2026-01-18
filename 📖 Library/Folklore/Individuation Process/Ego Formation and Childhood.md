@@ -259,10 +259,10 @@ A **coherent Ego** capable of observing the world without being overwhelmed by i
 ## V. Cross-References
 
 **Jungian Archetypes:**
-- [[The Divine Child]] (primary identification of this stage)
-- [[The Great Mother]] (primary environment and constellation)
-- [[The Hero]] (nascent drive to overcome and separate)
-- [[The Self]] (the totality from which the ego emerges)
+- [[Folklore/Jungian Archetypes/The Divine Child]] (primary identification of this stage)
+- [[Folklore/Jungian Archetypes/The Great Mother]] (primary environment and constellation)
+- [[Folklore/Jungian Archetypes/The Hero]] (nascent drive to overcome and separate)
+- [[Folklore/Jungian Archetypes/The Self]] (the totality from which the ego emerges)
 - [[The Shadow]] (begins forming as "bad" impulses are repressed)
 
 **Hero's Journey:**
@@ -285,8 +285,8 @@ A **coherent Ego** capable of observing the world without being overwhelmed by i
 - [[XVIII - The Moon]] (unconscious, the night-sea journey)
 
 **Astrology:**
-- [[Moon]] (mother, unconscious, emotional foundation)
-- [[Cancer]] (home, womb, security needs)
+- [[Moon ☽]] (mother, unconscious, emotional foundation)
+- [[Cancer ♋]] (home, womb, security needs)
 - [[1st House]] (ego emergence, self-awareness, "I am")
 - [[4th House]] (roots, family, foundation)
 

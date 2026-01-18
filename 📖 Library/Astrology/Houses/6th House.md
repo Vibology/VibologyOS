@@ -9,9 +9,9 @@ natural_sign: Virgo
 planetary_joy: Mars
 theme: Service, Health, Daily Work
 ---
+*Service and the Sacred in the Mundane*
 
-# 6th House: Service and the Sacred in the Mundane
-
+---
 ## Archetypal Theme
 
 The **6th House** governs **daily work**—not vocation (10th House), but the unglamorous labor of maintenance. This is the house of health, routines, service, and the discipline of showing up when inspiration has fled. It is **Virgo's domain**: refinement through repetition, the sacred found in the smallest details.
@@ -19,7 +19,6 @@ The **6th House** governs **daily work**—not vocation (10th House), but the un
 Where the 5th House is play and creative joy, the 6th House is **labor**—the work that sustains life but does not announce itself. It is the house of servants, employees, pets, and the body's demands for care. The 6th House does not seek recognition; it seeks **precision**.
 
 ---
-
 ## Cadent House Significance
 
 The 6th House is **Cadent**—one of the four houses that **prepare for transition**. Cadent houses (3rd, 6th, 9th, 12th) correspond to Mutable signs:
@@ -32,7 +31,6 @@ The 6th House is **Cadent**—one of the four houses that **prepare for transiti
 The 6th House specifically governs **daily maintenance**—the refinement of self (5th House creative expression) before relational mirroring (7th House partnership).
 
 ---
-
 ## Life Domain
 
 The 6th House governs:
@@ -45,17 +43,15 @@ The 6th House governs:
 This is not the 10th House's public vocation or the 2nd House's financial work—it is **maintenance labor**, the work that keeps systems functioning.
 
 ---
-
 ## Natural Correspondence
 
-**[[Virgo]]** and **[[Mercury]]** — The investigator, the principle of discernment and analysis.
+**[[Virgo ♍]]** and **[[Astrology/Planets/Mercury # ☿]]** — The investigator, the principle of discernment and analysis.
 
 Virgo is the mutable earth sign that refines, edits, and perfects. Mercury, as ruler of Virgo, governs the 6th House as the **discriminating mind**—the faculty that separates wheat from chaff, health from illness, useful from wasteful.
 
-**Planetary Joy:** [[Mars]] — Mars "rejoices" in the 6th House as the warrior refined into **craftsman**. Here, aggression becomes precision; violence becomes surgery.
+**Planetary Joy:** [[Mars ♂]] — Mars "rejoices" in the 6th House as the warrior refined into **craftsman**. Here, aggression becomes precision; violence becomes surgery.
 
 ---
-
 ## The 6th House Ruler
 
 The **ruler of the 6th House** (the planet ruling the sign on the 6th House cusp) reveals *how* you approach daily work, health, and service.
@@ -68,45 +64,40 @@ The **ruler of the 6th House** (the planet ruling the sign on the 6th House cusp
 The 6th House ruler's **sign, house, and aspects** show your relationship to labor and the body.
 
 ---
-
 ## Planets Through the 6th House
 
 ### Sun in the 6th House
 
-When the [[Sun]] is in the 6th House, **identity is expressed through service**. These individuals find purpose in daily work; their sense of self emerges through competence and usefulness. They cannot be idle—they must *do*.
+When the [[Sun ☉]] is in the 6th House, **identity is expressed through service**. These individuals find purpose in daily work; their sense of self emerges through competence and usefulness. They cannot be idle—they must *do*.
 
 **Gift:** Dedication, reliability, service as sacred practice
 **Challenge:** Identity crisis if unable to work; self-worth tied to productivity
 
 ---
-
 ### Moon in the 6th House
 
-When the [[Moon]] is in the 6th House, **emotion requires routine**. These individuals process feeling through work; emotional security depends on structured days. Health fluctuates with mood.
+When the [[Moon ☽]] is in the 6th House, **emotion requires routine**. These individuals process feeling through work; emotional security depends on structured days. Health fluctuates with mood.
 
 **Gift:** Nurturing through service, emotional attunement to body's needs
 **Challenge:** Psychosomatic illness, emotional overwhelm manifesting as physical symptoms
 
 ---
-
 ### Saturn in the 6th House
 
-When [[Saturn]] is in the 6th House, **work is burden and test**. These individuals often experience chronic health issues or demanding labor early in life. Over time, Saturn builds **earned mastery**—health through discipline, work as spiritual practice.
+When [[Saturn ♄]] is in the 6th House, **work is burden and test**. These individuals often experience chronic health issues or demanding labor early in life. Over time, Saturn builds **earned mastery**—health through discipline, work as spiritual practice.
 
 **Gift:** Endurance, mastery of craft, health wisdom earned through suffering
 **Challenge:** Workaholism, chronic illness, joyless labor
 
 ---
-
 ### Neptune in the 6th House
 
-When [[Neptune]] is in the 6th House, **boundaries dissolve in service**. These individuals struggle with martyrdom—sacrificing health for others, losing themselves in work. The body is hypersensitive; illness is often mysterious.
+When [[Neptune ♆]] is in the 6th House, **boundaries dissolve in service**. These individuals struggle with martyrdom—sacrificing health for others, losing themselves in work. The body is hypersensitive; illness is often mysterious.
 
 **Gift:** Compassionate service, healing gifts, transcendent experience through labor
 **Challenge:** Martyrdom, unclear health diagnoses, escapism through work
 
 ---
-
 ## Psychological & Jungian Depth
 
 The 6th House represents the **disciplined ego**—the part of the psyche that organizes, maintains, and serves. In Jungian terms, this is the **adaptive function**: the capacity to subordinate desire (5th House) to necessity.
@@ -126,7 +117,6 @@ The 6th House represents the **disciplined ego**—the part of the psyche that o
 The 6th House challenge is to recognize that **service is not self-negation**—true service flows from wholeness, not depletion.
 
 ---
-
 ## Esoteric Significance
 
 In esoteric astrology, the 6th House governs the **purification process**—the refinement required before spiritual initiation (12th House).
@@ -136,7 +126,6 @@ In [[Human Design]], the 6th House corresponds to the **Spleen Center** (health,
 In Qabalistic terms, the 6th House corresponds to **Tiphareth** (Beauty)—not as aesthetic but as **harmony achieved through discipline**. The 6th House is the daily practice that maintains solar center.
 
 ---
-
 ## Evolved vs. Unevolved Expression
 
 **Unevolved 6th House:**
@@ -152,7 +141,6 @@ In Qabalistic terms, the 6th House corresponds to **Tiphareth** (Beauty)—not a
 The evolution of the 6th House is learning that **the sacred is in the daily**—that maintenance is not mundane but the foundation of all higher work.
 
 ---
-
 ## Work vs. Vocation: The 6th/10th Distinction
 
 The 6th House governs **employment**—the work you do to maintain life. The 10th House governs **vocation**—the work you do to fulfill purpose.
@@ -172,7 +160,6 @@ The 6th House governs **employment**—the work you do to maintain life. The 10t
 The challenge is to **not confuse the two**—you may work a 6th House job while building a 10th House vocation. The 6th House sustains; the 10th House fulfills.
 
 ---
-
 ## Health as Mirror: The Body as Diagnostic Tool
 
 The 6th House governs **health**—not just physical symptoms but the body as feedback system.
@@ -192,7 +179,6 @@ The 6th House governs **health**—not just physical symptoms but the body as fe
 The 6th House challenge is to **listen to the body before it screams**—to treat illness as teacher, not enemy.
 
 ---
-
 ## Practical Guidance
 
 ### For Those with a Strong 6th House (Planets in 6th)
@@ -216,13 +202,12 @@ The 6th House challenge is to **listen to the body before it screams**—to trea
 - **Skill-building** (mastery through repetition, craftsmanship)
 
 ---
-
 ## Cross-References
 
 ### Within Astrology
-- **[[Virgo]]:** Natural ruler of the 6th House
-- **[[Mercury]]:** Planetary ruler of Virgo and significator of analysis, discernment
-- **[[Mars]]:** Planetary joy in 6th House—the warrior as craftsman
+- **[[Virgo ♍]]:** Natural ruler of the 6th House
+- **[[Astrology/Planets/Mercury # ☿]]:** Planetary ruler of Virgo and significator of analysis, discernment
+- **[[Mars ♂]]:** Planetary joy in 6th House—the warrior as craftsman
 - **5th House:** Creative joy transitions to disciplined labor (5th to 6th)
 - **10th House:** Employment (6th) vs. vocation (10th)
 

@@ -631,9 +631,9 @@ In **[[Jungian psychology]]**, Kamael is the **Warrior archetype** and the **int
 - [[Five of Pentacles]] — Material trouble, abandonment in Earth
 
 ### Astrological Correspondences
-- [[Mars]] — The Red Planet, god of war and strength
-- [[Aries]] — Cardinal Fire, the warrior sign
-- [[Scorpio]] — Fixed Water, death and transformation
+- [[Mars ♂]] — The Red Planet, god of war and strength
+- [[Aries ♈]] — Cardinal Fire, the warrior sign
+- [[Scorpio ♏]] — Fixed Water, death and transformation
 - [[First House]] — The house of self and identity
 
 ### Jungian and Archetypal

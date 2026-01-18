@@ -89,7 +89,7 @@ Confidence stands in contrast to the negative Land cards, particularly **Insecur
 
 ## Internal Links
 
-- [[Land]] - The House of embodied foundation and material grounding
+- [[House of the Land]] - The House of embodied foundation and material grounding
 - [[Gate 08]] - Holding Together / Contribution (Throat Center)
 - [[Hexagram 08]] - Holding Together (I-Ching)
 - [[Gene Keys - Shadow: Mediocrity, Gift: Style, Siddhi: Exquisiteness]]

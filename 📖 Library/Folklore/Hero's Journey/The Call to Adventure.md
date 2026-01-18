@@ -98,12 +98,12 @@ Psychologically, the Call corresponds to:
 | **System** | **Primary Correspondence** | **Symbolic Resonance** | **Psychological Function** |
 |------------|---------------------------|------------------------|----------------------------|
 | **Tarot** | [[The Fool (0)]]<br>[[The Magician (I)]]<br>[[Wheel of Fortune (X)]]<br>[[Judgment (XX)]] | Fool: Leap into unknown, divine madness<br>Magician: Willful initiation, "As above, so below"<br>Wheel: Fate turns, cycle begins anew<br>Judgment: Angelic summons, resurrection call | The Call activates potentiality (Fool), conscious will (Magician), or undeniable destiny (Wheel). Judgment represents the Call to final transformation—death/rebirth at cosmic scale |
-| **Astrology** | [[Uranus]]<br>[[North Node]]<br>[[1st House]]<br>[[Aries]]<br>[[Jupiter]] | Uranus: Sudden awakening, lightning disruption<br>North Node: Destiny, evolutionary direction<br>1st House: Identity emergence, self-assertion<br>Aries: Initiation, primal thrust forward<br>Jupiter: Expansion, quest, meaning-seeking | Uranus transits often trigger Calls via sudden disruption. North Node reveals the soul's intended direction. Aries initiates action; Jupiter seeks the adventure beyond the known |
+| **Astrology** | [[Uranus ♅]]<br>[[North Node]]<br>[[1st House]]<br>[[Aries ♈]]<br>[[Jupiter ♃]] | Uranus: Sudden awakening, lightning disruption<br>North Node: Destiny, evolutionary direction<br>1st House: Identity emergence, self-assertion<br>Aries: Initiation, primal thrust forward<br>Jupiter: Expansion, quest, meaning-seeking | Uranus transits often trigger Calls via sudden disruption. North Node reveals the soul's intended direction. Aries initiates action; Jupiter seeks the adventure beyond the known |
 | **Human Design** | **Sacral Center** (Generators - response as Call)<br>**Gate 1** (The Creative - self-expression)<br>**Gate 51** (Shock - initiation via crisis)<br>**Solar Plexus** (emotional wave as Call) | Gate 1: "I am" - individuality demands expression<br>Gate 51: Thunder, awakening shock<br>Sacral Response: Life-force says "yes" or "no"<br>Emotional Wave: Clarity emerges through time | For Generators, the Call is Sacral response—gut knowing. For Manifestors, the Call is the urge to initiate. Projectors wait for the Call (invitation). Reflectors sample the Call over lunar cycle |
 | **I-Ching** | **Hexagram 1 (Ch'ien / The Creative)**<br>**Hexagram 51 (Chên / The Arousing/Shock)**<br>**Hexagram 24 (Fu / Return)**<br>**Hexagram 3 (Chun / Difficulty at the Beginning)** | Ch'ien: Pure yang, creative impulse<br>Chên: Thunder repeated, shocking awakening<br>Fu: Return of light after darkness<br>Chun: Chaos of inception, struggle to birth | The Creative represents the primal Call—yang emerging. Shock is the traumatic Call. Return is the Call after completion of a cycle. Difficulty at Beginning warns: the Call initiates chaos before order |
 | **Qabalah** | **Kether (Crown)**<br>**Path 11 (The Fool - Aleph)**<br>**Lightning Flash** (divine descent) | Kether: First emanation, the I AM<br>Aleph (Fool): Breath, spirit, the zero point<br>Lightning Flash: Divine impulse descending Tree of Life | The Call is Kether's impulse—Ain Soph Aur (limitless light) condensing into manifestation. The Lightning Flash is the Call as **descent of divinity** into matter, demanding the ascent of consciousness |
 | **Angelology** | [[Gabriel]] (Messenger, Annunciation)<br>[[Metatron]] (Voice of God)<br>**Personal Daimon/Guardian Angel** | Gabriel: Herald of transformation, births announcements<br>Metatron: Transformed human (Enoch), bridge to divine<br>Guardian Angel: Individual destiny's voice | Gabriel announces Calls (Mary's annunciation, Muhammad's revelation). The Guardian Angel whispers the soul's purpose—often ignored until crisis forces listening |
-| **Jungian Archetypes** | [[The Self]]<br>[[The Herald]]<br>[[The Shadow]]<br>[[Anima and Animus]] | Self: Orchestrator demanding individuation<br>Herald: Messenger archetype, summons to quest<br>Shadow: Call via projection/crisis<br>Anima/Animus: Call via romantic obsession | The Self initiates the Call when the ego has become too rigid. The Herald delivers the message. Sometimes the Call arrives as [[Shadow]] eruption (addiction, rage, breakdown) or Anima/Animus projection (falling in love as catalyst) |
+| **Jungian Archetypes** | [[Folklore/Jungian Archetypes/The Self]]<br>[[The Herald]]<br>[[The Shadow]]<br>[[Anima and Animus]] | Self: Orchestrator demanding individuation<br>Herald: Messenger archetype, summons to quest<br>Shadow: Call via projection/crisis<br>Anima/Animus: Call via romantic obsession | The Self initiates the Call when the ego has become too rigid. The Herald delivers the message. Sometimes the Call arrives as [[Shadow]] eruption (addiction, rage, breakdown) or Anima/Animus projection (falling in love as catalyst) |
 
 ## 3. Practical Application
 
@@ -505,7 +505,7 @@ For non-binary and transgender individuals, the Call often centers on **identity
 
 **Psychological Function**: The Call is to **embody the Self** against societal conditioning. The teaching: *"I am the authority on who I am."*
 
-**Archetypal Resonance**: [[Hermes]]/[[Mercury]] (boundary-crosser, androgyny), [[Dionysus]] (fluidity, ecstatic dissolution of categories), [[The Shapeshifter]] (multiform identity).
+**Archetypal Resonance**: [[Hermes]]/[[Astrology/Planets/Mercury # ☿]] (boundary-crosser, androgyny), [[Dionysus]] (fluidity, ecstatic dissolution of categories), [[Folklore/Jungian Archetypes/The Shapeshifter]] (multiform identity).
 
 ### Cultural Context
 
@@ -518,11 +518,11 @@ The future of the Call archetype may be **gender-integrative**—recognizing tha
 ## 6. Cross-References
 
 ### Jungian Archetypes
-- [[The Self]]: The orchestrator of the Call—the suprapersonal psyche demanding individuation. The Call is the [[Self]]'s first conscious communication to the ego.
+- [[Folklore/Jungian Archetypes/The Self]]: The orchestrator of the Call—the suprapersonal psyche demanding individuation. The Call is the [[Self]]'s first conscious communication to the ego.
 - [[The Shadow]]: Sometimes the Call arrives as Shadow eruption—addiction, rage, breakdown—forcing the ego to confront what it has denied.
 - [[The Anima and Animus]]: Romantic obsession as Call—falling in love catalyzes transformation (projection of contrasexual archetype onto another person). The work: retrieve the projection, integrate the inner beloved.
 - [[The Herald]]: The messenger archetype—person, event, or vision that delivers the Call. May be benevolent (Gandalf) or threatening (diagnosis, disaster).
-- [[The Persona]]: The social mask the Call threatens. Heeding the Call often requires shedding persona—becoming authentic, not approved.
+- [[Folklore/Jungian Archetypes/The Persona]]: The social mask the Call threatens. Heeding the Call often requires shedding persona—becoming authentic, not approved.
 - [[The Devouring Mother]]: The Call may be to **escape** engulfment by the maternal (literal mother or collective). Separation individuation.
 - [[The Terrible Father]]: The Call may be to **defy** paternal law (literal father, patriarchy, tradition). Claiming autonomy.
 
@@ -545,13 +545,13 @@ The future of the Call archetype may be **gender-integrative**—recognizing tha
 - [[Judgment (XX)]]: The angelic trumpet—resurrection, final Call to awakening, the dead rising from graves. The Call at cosmic scale.
 
 ### Astrology
-- [[Uranus]]: The Great Awakener—sudden disruption, lightning strike Call. Uranus transits often trigger undeniable summons to change.
-- [[Jupiter]]: Expansion, quest, meaning-seeking—the Call to adventure, travel, philosophy, higher learning.
+- [[Uranus ♅]]: The Great Awakener—sudden disruption, lightning strike Call. Uranus transits often trigger undeniable summons to change.
+- [[Jupiter ♃]]: Expansion, quest, meaning-seeking—the Call to adventure, travel, philosophy, higher learning.
 - [[North Node]]: Destiny point—the soul's evolutionary direction. The Call toward growth, away from South Node comfort.
 - [[1st House]]: Identity, self-assertion—transits here Call forth new self-expression.
-- [[Aries]]: Initiation, primal thrust—the Call as *"GO NOW."* Mars-ruled courage to begin.
+- [[Aries ♈]]: Initiation, primal thrust—the Call as *"GO NOW."* Mars-ruled courage to begin.
 - [[9th House]]: Higher mind, distant lands, philosophy—the Call to expand beyond the known.
-- [[Saturn]]: The taskmaster—Saturn Return (ages 28-30) often manifests as Call to maturity, accountability, limitation embraced.
+- [[Saturn ♄]]: The taskmaster—Saturn Return (ages 28-30) often manifests as Call to maturity, accountability, limitation embraced.
 
 ### Human Design
 - **Sacral Center (Generators)**: The Call is Sacral response—gut says "uh-huh" (yes) or "uhn-uhn" (no). Life-force alignment.

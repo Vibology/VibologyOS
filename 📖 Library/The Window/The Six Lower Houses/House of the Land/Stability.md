@@ -89,7 +89,7 @@ The negative cards (Insecurity, Fragility, Corruption) show what emerges when La
 
 ## Internal Links
 
-- [[Land]] - The House of embodied foundation and material grounding
+- [[House of the Land]] - The House of embodied foundation and material grounding
 - [[Gate 20]] - Contemplation / The Now (Throat Center)
 - [[Hexagram 20]] - Contemplation (I-Ching)
 - [[Gene Keys - Shadow: Superficiality, Gift: Self Assurance, Siddhi: Presence]]

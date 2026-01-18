@@ -91,7 +91,7 @@ Psychologically, the Approach corresponds to:
 | **System** | **Primary Correspondence** | **Symbolic Resonance** | **Psychological Function** |
 |------------|---------------------------|------------------------|----------------------------|
 | **Tarot** | [[The Moon (XVIII)]]<br>[[Eight of Swords]]<br>[[The Hermit (IX)]] | Moon: Illusion, fear, the unconscious path<br>Eight of Swords: Trapped, decision required, self-imposed bondage<br>Hermit: Solitary preparation, inner guidance | The psyche navigates by moonlight—intuition, fear, and the unknown. Eight of Swords shows the bondage that must be consciously broken. The Hermit provides the lantern for the dark descent |
-| **Astrology** | [[8th House]]<br>[[Pluto]] transits<br>[[Saturn]] transits<br>[[Scorpio]] | 8th House: Death, transformation, inheritance<br>Pluto: Approaching crisis, underworld descent<br>Saturn: Reckoning, test, limitation<br>Scorpio: Descent into shadow, stinger poised | Planetary transits create the pressure—Pluto tears down what must die, Saturn demands accountability. The Approach is recognizing the transit's inevitability and preparing for impact |
+| **Astrology** | [[8th House]]<br>[[Pluto ♇]] transits<br>[[Saturn ♄]] transits<br>[[Scorpio ♏]] | 8th House: Death, transformation, inheritance<br>Pluto: Approaching crisis, underworld descent<br>Saturn: Reckoning, test, limitation<br>Scorpio: Descent into shadow, stinger poised | Planetary transits create the pressure—Pluto tears down what must die, Saturn demands accountability. The Approach is recognizing the transit's inevitability and preparing for impact |
 | **Human Design** | **Undefined Spleen** (fear amplified)<br>**Gate 52** (Stillness/Meditation)<br>**Emotional Wave** (low point before crisis) | Undefined Spleen: Primal fear magnified by collective anxiety<br>Gate 52: The discipline of stillness before action, mountain meditation<br>Emotional Wave: The trough before the crest—clarity comes from waiting | The biological systems activate—undefined Spleen amplifies survival terror; Gate 52 teaches preparation through stillness rather than panic. Emotional beings must wait for clarity before entering the Cave |
 | **I-Ching** | **Hexagram 5 (Hsü / Waiting)**<br>**Hexagram 29 (K'an / The Abysmal)**<br>**Hexagram 61 (Chung Fu / Inner Truth)** | Hsü: Nourishment while pausing, patience before the inevitable<br>K'an: Recognizing danger, the abyss visible ahead<br>Chung Fu: Preparation through meditation, centering in truth | The I-Ching counsels: *"Wait with sincerity. Nourish yourself in the pause."* The Approach requires recognition of danger (K'an) and centering in truth (Chung Fu) before proceeding |
 | **Qabalah** | **Approaching Daath** (The Abyss)<br>**Veil of Paroketh** (crossing from personal to transpersonal)<br>**Path to Geburah** (severity approaching) | Daath: The non-Sephirah, the rupture ahead<br>Paroketh: The veil between Tiphareth (Beauty/Self) and higher consciousness<br>Geburah: Mars-ruled severity, pruning, sacrifice | The magician stands before the Abyss, knowing all attainment must be relinquished. Crossing Paroketh requires ego-death; approaching Geburah means facing divine severity without comfort |
@@ -583,7 +583,7 @@ For non-binary and transgender individuals, the Approach often centers on **cros
 
 **Psychological Function**: The Approach is the liminal space itself—no longer the old self, not yet fully the new. The teaching: *"I am becoming. The discomfort is proof of movement."*
 
-**Archetypal Resonance**: [[The Shapeshifter]], [[Hermes]]/[[Mercury]] (boundary-crosser), [[The Hanged Man (XII)]] (suspension between states).
+**Archetypal Resonance**: [[Folklore/Jungian Archetypes/The Shapeshifter]], [[Hermes]]/[[Astrology/Planets/Mercury # ☿]] (boundary-crosser), [[The Hanged Man (XII)]] (suspension between states).
 
 ### Cultural Context
 
@@ -598,10 +598,10 @@ The future of the Approach archetype is **gender-integrative**—honoring both t
 
 ### Jungian Archetypes
 - [[The Shadow]]: The Approach is the growing awareness of the Shadow's presence. The hero senses what waits in the Cave—the disowned, the denied, the projected. Naming the Shadow is half the Approach.
-- [[The Self]]: The Approach is the ego recognizing it walks toward a confrontation orchestrated by the [[Self]]. The hero does not control the journey; the Self does. The Approach is trusting the Self's wisdom even when it demands the ego's death.
+- [[Folklore/Jungian Archetypes/The Self]]: The Approach is the ego recognizing it walks toward a confrontation orchestrated by the [[Self]]. The hero does not control the journey; the Self does. The Approach is trusting the Self's wisdom even when it demands the ego's death.
 - [[The Devouring Mother]]: The Cave as womb/tomb—the Approach involves recognizing the pull to regress (return to dependency, avoid autonomy). Entering requires differentiation from the mother complex.
 - [[The Terrible Father]]: The Cave as judgment chamber—the Approach involves recognizing the internalized critic, the impossibility of meeting paternal standards. Entering requires self-forgiveness or defiance.
-- [[The Threshold Guardian]]: These guardians test whether the hero is ready for the [[The Ordeal|Ordeal]]. Unlike earlier Threshold Guardians (Stage 5), these are more formidable—Cerberus, the Sphinx, the Dark Doppelgänger.
+- [[Folklore/Jungian Archetypes/The Threshold Guardian]]: These guardians test whether the hero is ready for the [[The Ordeal|Ordeal]]. Unlike earlier Threshold Guardians (Stage 5), these are more formidable—Cerberus, the Sphinx, the Dark Doppelgänger.
 
 ### Hero's Journey Stages
 - [[The Call to Adventure]]: The initial wound/lack that sets the journey in motion will often be confronted in the Cave. The Call foreshadows; the Approach delivers.
@@ -621,9 +621,9 @@ The future of the Approach archetype is **gender-integrative**—honoring both t
 
 ### Astrology
 - [[8th House]]: House of death, transformation, inheritance. When planets transit the 8th House, the Approach begins—you sense the coming crisis, prepare psychologically, gather resources.
-- [[Pluto]]: Approaching crisis, underworld descent. Pluto transits catalyze the Approach—relationships, careers, identities begin to crumble before the final collapse (the [[The Ordeal|Ordeal]]).
-- [[Saturn]]: Reckoning, test, limitation. [[Saturn Return|Saturn Return]] (ages 28-30, 58-60) is a prolonged Approach—years of mounting pressure before the breaking point.
-- [[Scorpio]]: Sign of death/rebirth, ruled by Mars and Pluto. Scorpio energy *is* the Approach—descending into shadow, stinger poised, transformation imminent.
+- [[Pluto ♇]]: Approaching crisis, underworld descent. Pluto transits catalyze the Approach—relationships, careers, identities begin to crumble before the final collapse (the [[The Ordeal|Ordeal]]).
+- [[Saturn ♄]]: Reckoning, test, limitation. [[Saturn Return|Saturn Return]] (ages 28-30, 58-60) is a prolonged Approach—years of mounting pressure before the breaking point.
+- [[Scorpio ♏]]: Sign of death/rebirth, ruled by Mars and Pluto. Scorpio energy *is* the Approach—descending into shadow, stinger poised, transformation imminent.
 - [[12th House]]: House of dissolution, isolation, the unconscious. Transits through the 12th are the Approach to spiritual death-rebirth—hospitalization, retreat, mystical crisis.
 
 ### Human Design

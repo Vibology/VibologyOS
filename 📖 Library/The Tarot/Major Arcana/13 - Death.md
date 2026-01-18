@@ -86,7 +86,7 @@ Venus (Netzach) is love as *possession*. The Sun (Tiphareth) is love as *being*.
 
 ### Astrological Attribution: Scorpio – Fixed Water
 
-Death is attributed to **[[Scorpio]]**, the sign of Fixed Water. Scorpio is the swamp, the compost heap, the place where organic matter decays and regenerates. It is the sign of **death and rebirth**, of sex and transformation, of the relentless excavation of hidden truth.
+Death is attributed to **[[Scorpio ♏]]**, the sign of Fixed Water. Scorpio is the swamp, the compost heap, the place where organic matter decays and regenerates. It is the sign of **death and rebirth**, of sex and transformation, of the relentless excavation of hidden truth.
 
 Scorpio is ruled by **Mars** (traditional) and **Pluto** (modern):
 - **Mars** is the warrior, the blade, the cutting force. Death wields Mars' scythe—she cuts down what must fall.
@@ -190,8 +190,8 @@ The gift of integration: **Learning to let go with grace**. Death teaches that *
 ## Internal Links
 
 - **Adjacent Major Arcana**: [[12 - The Hanged Man]] ← → [[14 - Temperance]]
-- **Element/Modality**: [[Scorpio]] | [[Fixed Water]]
-- **Planetary**: [[Mars]] | [[Pluto]]
+- **Element/Modality**: [[Scorpio ♏]] | [[Fixed Water]]
+- **Planetary**: [[Mars ♂]] | [[Pluto ♇]]
 - **Path**: [[Path 24 - Netzach to Tiphareth]]
 - **Hebrew Letter**: [[Nun]]
 - **Thematic Groupings**: [[The Transformation Cards]] | [[Death and Rebirth]] | [[The Alchemical Path]]

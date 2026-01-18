@@ -188,7 +188,7 @@ The gift of integration: **The capacity to review your life with compassion and 
 
 - **Adjacent Major Arcana**: [[19 - The Sun]] ← → [[21 - The World]]
 - **Element**: [[Fire]]
-- **Planetary**: [[Pluto]]
+- **Planetary**: [[Pluto ♇]]
 - **Path**: [[Path 31 - Malkuth to Hod]]
 - **Hebrew Letter**: [[Shin]]
 - **Thematic Groupings**: [[Resurrection and Rebirth]] | [[The Final Reckoning]] | [[Integration of the Self]]

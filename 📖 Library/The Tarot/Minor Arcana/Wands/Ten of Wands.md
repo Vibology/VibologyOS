@@ -395,8 +395,8 @@ The teaching: **Completion is not the goal. Liberation is.** If you complete the
 - [[The Four Worlds]] - Atziluth (spirit) manifesting in Malkuth (matter) creates paradox
 
 ### Planetary and Astrological
-- [[Saturn]] - The planet of limitation, restriction, duty, burden, time, the Taskmaster
-- [[Sagittarius]] - The mutable fire sign: freedom, quest, expansion, vision
+- [[Saturn ♄]] - The planet of limitation, restriction, duty, burden, time, the Taskmaster
+- [[Sagittarius ♐]] - The mutable fire sign: freedom, quest, expansion, vision
 - [[Saturn in Sagittarius]] - Restriction crushing freedom, duty oppressing the quest
 - [[First Decan of Capricorn]] - Alternate attribution, emphasizing Saturn's domicile
 

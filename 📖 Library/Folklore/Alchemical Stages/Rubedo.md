@@ -688,10 +688,10 @@ The Rubedo is the lived experience of the Self—the center and the circumferenc
 - [[Strength]] - Integration of instinct and spirit (Rubedo as tamed fire)
 
 ### Related Astrology
-- [[Sun]] - The Rubedo planet: life, vitality, consciousness, Self
-- [[Jupiter]] - Expansion, wisdom, benevolence, the Rubedo king
-- [[Leo]] - The solar sign: regal, creative, radiant (Rubedo embodied)
-- [[Sagittarius]] - Wisdom, philosophy, teaching (Rubedo as service)
+- [[Sun ☉]] - The Rubedo planet: life, vitality, consciousness, Self
+- [[Jupiter ♃]] - Expansion, wisdom, benevolence, the Rubedo king
+- [[Leo ♌]] - The solar sign: regal, creative, radiant (Rubedo embodied)
+- [[Sagittarius ♐]] - Wisdom, philosophy, teaching (Rubedo as service)
 - [[9th House]] - Wisdom, philosophy, meaning (Rubedo consciousness)
 - [[10th House]] - Mastery, authority, public service (Rubedo embodied in world)
 - [[Chiron]] - The wounded healer (shadow integrated, Rubedo compassion)

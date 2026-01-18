@@ -83,12 +83,12 @@ Psychologically, the Resurrection corresponds to:
 | **System** | **Primary Correspondence** | **Symbolic Resonance** | **Psychological Function** |
 |------------|---------------------------|------------------------|----------------------------|
 | **Tarot** | [[Judgment (XX)]]<br>[[The World (XXI)]]<br>[[The Sun (XIX)]] | Judgment: Resurrection, the angel's call, rising from the grave<br>World: Completion, integration, Master of Two Worlds<br>Sun: Vitality, rebirth, new life radiating outward | The final integration—answering the call to rise, embodying wholeness, radiating the transformation publicly |
-| **Astrology** | **0° Aries (Spring Equinox)**<br>[[Pluto]] completing cycle<br>[[Jupiter]] return (12-year)<br>[[Chiron]] return (50-year) | Aries: Rebirth, new cycle, emergence from winter death<br>Pluto: Completion of death/rebirth, full integration<br>Jupiter: Expansion after completion of cycle<br>Chiron: The Wounded Healer returns, ready to serve from the wound | Astrological returns mark Resurrection moments—proof the cycle completed, transformation locked in, new phase begins |
+| **Astrology** | **0° Aries (Spring Equinox)**<br>[[Pluto ♇]] completing cycle<br>[[Jupiter ♃]] return (12-year)<br>[[Chiron]] return (50-year) | Aries: Rebirth, new cycle, emergence from winter death<br>Pluto: Completion of death/rebirth, full integration<br>Jupiter: Expansion after completion of cycle<br>Chiron: The Wounded Healer returns, ready to serve from the wound | Astrological returns mark Resurrection moments—proof the cycle completed, transformation locked in, new phase begins |
 | **Human Design** | **Living as True Self**<br>**Deconditioning Complete**<br>**Gate 63** (After Completion)<br>**Gate 24** (Rationalization/Return) | True Self: Aligned with Type/Strategy/Authority permanently<br>Deconditioning: No longer reactive to old patterns<br>Gate 63: After completion, careful maintenance<br>Gate 24: Return to the beginning with wisdom | The Resurrection in HD terms is **embodied design**—no longer experimenting but **being** your Type consistently, even under pressure |
 | **I-Ching** | **Hexagram 24 (Fu / Return)**<br>**Hexagram 63 (Chi Chi / After Completion)**<br>**Hexagram 11 (T'ai / Peace)** | Fu: The turning point solidifies, light returns after darkness<br>After Completion: Vigilance after success—maintain transformation<br>Peace: Heaven and Earth in harmony, integration complete | The I-Ching warns: Resurrection is not the end but a **new beginning**. What is won must be carefully tended or it will slip away |
 | **Qabalah** | **Tiphareth (Beauty)**<br>**Kether (Crown) reflecting in Malkuth (Earth)**<br>Path 26 (The Devil to Tiphareth) | Tiphareth: The Reborn Self, Christ consciousness, harmonized center<br>Kether → Malkuth: Divine light fully grounded in matter<br>Path 26: Liberation from bondage, ascent to Beauty | The Resurrection is **Tiphareth consciousness**—the ego aligned with the Higher Self, functioning in the world as integrated being |
 | **Angelology** | [[Metatron]] (The Transformed Human)<br>[[Sandalphon]] (Grounding Divine Light)<br>[[Michael]] (Victory) | Metatron: Enoch became Metatron—human transformed into angel, proof transformation is possible<br>Sandalphon: Brings heaven to earth, embodies prayer<br>Michael: Victory over the dragon, triumphant return | Metatron is the archetypal Resurrection—the human who crossed to divinity and remained. Michael is the warrior's return, victorious |
-| **Jungian Archetypes** | [[The Self]] (Fully Conscious)<br>[[The Reborn God]]<br>[[The Individuated Self]]<br>[[The Master of Two Worlds]] | Self: Ego and unconscious in dialogue, not war<br>Reborn God: Osiris, Christ, Dionysus—death overcome<br>Individuated Self: Wholeness embodied, no longer split<br>Master of Two Worlds: Can navigate ordinary and extraordinary | The Resurrection is **individuation proven**. The Self is no longer theoretical; it is lived, embodied, stable even under duress |
+| **Jungian Archetypes** | [[Folklore/Jungian Archetypes/The Self]] (Fully Conscious)<br>[[The Reborn God]]<br>[[The Individuated Self]]<br>[[The Master of Two Worlds]] | Self: Ego and unconscious in dialogue, not war<br>Reborn God: Osiris, Christ, Dionysus—death overcome<br>Individuated Self: Wholeness embodied, no longer split<br>Master of Two Worlds: Can navigate ordinary and extraordinary | The Resurrection is **individuation proven**. The Self is no longer theoretical; it is lived, embodied, stable even under duress |
 
 ## 3. Practical Application
 
@@ -461,7 +461,7 @@ For non-binary and transgender individuals, the Resurrection often centers on **
 
 **Psychological Function**: The Resurrection is the **threshold between private and public**—the transformation is no longer secret. The test: *"Can I be fully myself in the world, or only in protected spaces?"*
 
-**Archetypal Resonance**: [[Dionysus]] (androgyny, boundary dissolution, ecstatic rebirth), [[Metatron]] (transformed human), [[The Shapeshifter]] (fluid identity).
+**Archetypal Resonance**: [[Dionysus]] (androgyny, boundary dissolution, ecstatic rebirth), [[Metatron]] (transformed human), [[Folklore/Jungian Archetypes/The Shapeshifter]] (fluid identity).
 
 ### Cultural Context
 
@@ -474,7 +474,7 @@ The future of the Resurrection archetype may be **gender-integrative**—recogni
 ## 6. Cross-References
 
 ### Jungian Archetypes
-- [[The Self]]: The Resurrection is the Self made **manifest**—no longer theoretical but embodied, functional, stable. The ego serves the Self; the Self guides the ego.
+- [[Folklore/Jungian Archetypes/The Self]]: The Resurrection is the Self made **manifest**—no longer theoretical but embodied, functional, stable. The ego serves the Self; the Self guides the ego.
 - [[The Reborn God]]: Osiris, Christ, Dionysus—gods who die and return. The Resurrection archetype is the Reborn God incarnate in the human psyche.
 - [[The Individuated Self]]: Jung's term for wholeness achieved. The Resurrection is individuation **proven**—the integration holds under pressure.
 - [[The Master of Two Worlds]]: Campbell's term, Jung's equivalent is the individual who can navigate **conscious and unconscious** without losing balance.
@@ -498,9 +498,9 @@ The future of the Resurrection archetype may be **gender-integrative**—recogni
 - [[Temperance (XIV)]]: Alchemical mixing, integration. The Resurrection is Temperance achieved—opposites balanced, elixir prepared.
 
 ### Astrology
-- [[Pluto]]: Lord of death/rebirth. Pluto transits often trigger Ordeals; Pluto **completing** its cycle is Resurrection—transformation locked in.
-- [[Saturn]]: Taskmaster, test-giver. Saturn Return (ages 28-30, 58-60) often includes Resurrection moments—proof you've matured, integrated the lessons.
-- [[Jupiter]]: Expansion, beneficence. Jupiter return (every 12 years) can mark Resurrection—rewards after long effort, blessings after trials.
+- [[Pluto ♇]]: Lord of death/rebirth. Pluto transits often trigger Ordeals; Pluto **completing** its cycle is Resurrection—transformation locked in.
+- [[Saturn ♄]]: Taskmaster, test-giver. Saturn Return (ages 28-30, 58-60) often includes Resurrection moments—proof you've matured, integrated the lessons.
+- [[Jupiter ♃]]: Expansion, beneficence. Jupiter return (every 12 years) can mark Resurrection—rewards after long effort, blessings after trials.
 - [[Chiron]]: The Wounded Healer. Chiron return (age 50) is often a Resurrection—the wound becomes medicine, service begins.
 - **0° Aries (Spring Equinox)**: The Sun's Resurrection—light returns, new cycle, emergence from winter death. The astrological template for all Resurrections.
 - [[8th House]]: House of death/rebirth. Planets transiting out of the 8th often signal Resurrection—integration complete, new life phase.

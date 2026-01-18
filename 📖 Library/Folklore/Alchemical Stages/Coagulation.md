@@ -640,12 +640,12 @@ Coagulation is the realization of this totality—*lived*, not theorized.
 - [[Ten of Pentacles]] - Legacy, wealth embodied, the stone passed down
 
 ### Related Astrology
-- [[Saturn]] - The stone, the foundation, structure made permanent
-- [[Venus]] - Beauty embodied, love made manifest (especially Venus in Taurus)
-- [[Jupiter]] - Wisdom, benevolence, the philosopher king
-- [[Taurus]] - Fixed Earth—stability, embodiment, matter honored
-- [[Capricorn]] - Cardinal Earth—mastery, achievement, legacy
-- [[Virgo]] - Mutable Earth—service, practical wisdom, sacred mundane
+- [[Saturn ♄]] - The stone, the foundation, structure made permanent
+- [[Venus ♀]] - Beauty embodied, love made manifest (especially Venus in Taurus)
+- [[Jupiter ♃]] - Wisdom, benevolence, the philosopher king
+- [[Taurus ♉]] - Fixed Earth—stability, embodiment, matter honored
+- [[Capricorn ♑]] - Cardinal Earth—mastery, achievement, legacy
+- [[Virgo ♍]] - Mutable Earth—service, practical wisdom, sacred mundane
 - [[2nd House]] - House of embodiment, resources, the body as temple
 - [[10th House]] - House of legacy, public embodiment of authority
 

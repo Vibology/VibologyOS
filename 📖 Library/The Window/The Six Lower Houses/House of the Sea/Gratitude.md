@@ -84,7 +84,7 @@ Gratitude is the antidote to **Envy** (Gate 54 shadow)—because when you apprec
 
 ## Internal Links
 
-- [[Sea]] - The House of emotional depth and relational encounter
+- [[House of the Sea]] - The House of emotional depth and relational encounter
 - [[Gate 22]] - Grace / Openness (Solar Plexus Center)
 - [[Hexagram 22]] - Grace (I-Ching)
 - [[Gene Keys - Shadow: Dishonour, Gift: Graciousness, Siddhi: Grace]]

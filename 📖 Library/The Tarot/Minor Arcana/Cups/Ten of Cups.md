@@ -221,8 +221,8 @@ When the Ten of Cups emerges in reading or contemplation, consider:
 
 ## Internal Links
 
-- [[Mars]] - The planet of will and assertion, working through Pisces
-- [[Pisces]] - The mutable water sign, realm of dissolution and unity
+- [[Mars ♂]] - The planet of will and assertion, working through Pisces
+- [[Pisces ♓]] - The mutable water sign, realm of dissolution and unity
 - [[Malkuth]] - The tenth Sephirah, Kingdom, final manifestation
 - [[Nine of Cups]] - The personal satisfaction that precedes shared fulfillment
 - [[Ace of Cups]] - The new beginning seeded by the Ten's completion

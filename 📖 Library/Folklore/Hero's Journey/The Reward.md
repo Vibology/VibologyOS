@@ -76,12 +76,12 @@ Psychologically, the Reward corresponds to:
 | **System** | **Primary Correspondence** | **Symbolic Resonance** | **Psychological Function** |
 |------------|---------------------------|------------------------|----------------------------|
 | **Tarot** | [[The Star (XVII)]]<br>[[Temperance (XIV)]]<br>[[The Sun (XIX)]] | Star: Hope after devastation, healing<br>Temperance: Integration, alchemy, balance<br>Sun: Joy, vitality, success after trial | The Reward as light after darkness—healing begins, integration is possible, the psyche tastes wholeness for the first time since the Ordeal |
-| **Astrology** | [[Jupiter]]<br>[[Venus]]<br>[[5th House]]<br>Trine aspects | Jupiter: Expansion, gifts, blessing, fortune<br>Venus: Love, beauty, union, harmony<br>5th House: Creative expression, joy, play<br>Trines: Ease, flow, grace | Planetary energies shift from Saturnian (limitation, test) and Plutonian (death, underworld) to Jupiterian (abundance) and Venusian (love). The cosmos grants ease after trial |
+| **Astrology** | [[Jupiter ♃]]<br>[[Venus ♀]]<br>[[5th House]]<br>Trine aspects | Jupiter: Expansion, gifts, blessing, fortune<br>Venus: Love, beauty, union, harmony<br>5th House: Creative expression, joy, play<br>Trines: Ease, flow, grace | Planetary energies shift from Saturnian (limitation, test) and Plutonian (death, underworld) to Jupiterian (abundance) and Venusian (love). The cosmos grants ease after trial |
 | **Human Design** | **Defined Sacral**<br>**Manifestor** (post-initiation)<br>**Open Root** (pressure released) | Defined Sacral: Sustainable energy reward<br>Manifestor: Initiation completed, power claimed<br>Open Root: The urgency lifts; rest becomes possible | The biological and energetic body *feels* different post-Ordeal. Energy returns, pressure releases, the system knows: "I survived." |
 | **I-Ching** | **Hexagram 11 (T'ai / Peace)**<br>**Hexagram 14 (Ta Yu / Possession in Great Measure)**<br>**Hexagram 46 (Sheng / Pushing Upward)** | Peace: Heaven and earth in harmony, spring arrives<br>Great Possession: Abundance, treasures amassed<br>Pushing Upward: Progress, ascent after descent | The I-Ching's counsel for the Reward: *"The time of darkness has passed. Light returns. All things flourish."* The cycle turns from winter to spring |
 | **Qabalah** | **Tiphareth (Beauty)**<br>**Chesed (Mercy)**<br>**Middle Pillar** (equilibrium) | Tiphareth: The harmonized Self, the heart center<br>Chesed: Abundance, grace, divine generosity<br>Middle Pillar: Balance between severity and mercy | The Reward often involves ascending to Tiphareth—the Self as integrated beauty, the heart opened after the Ordeal's contraction |
 | **Angelology** | [[Raphael]] (Healing)<br>[[Haniel]] (Grace, Venus)<br>**Holy Guardian Angel** (conscious contact) | Raphael: Integration, mending, restoration<br>Haniel: Beauty, love, venusian blessings<br>HGA: The angel appears after the abyss is crossed | Angels of healing and grace replace angels of severity. [[Raphael]] stitches the psyche back together; [[Haniel]] restores beauty and love |
-| **Jungian Archetypes** | [[The Self]]<br>[[The Anima and Animus]]<br>[[The Divine Child]]<br>[[The Treasure Hard to Attain]] | Self: Wholeness glimpsed, integration begun<br>Anima/Animus: Sacred marriage, inner union<br>Divine Child: Rebirth, innocence restored<br>Treasure: The goal of individuation made conscious | The Reward is often the *first conscious encounter with the Self*—not as annihilating totality (the Ordeal) but as benevolent wholeness |
+| **Jungian Archetypes** | [[Folklore/Jungian Archetypes/The Self]]<br>[[The Anima and Animus]]<br>[[Folklore/Jungian Archetypes/The Divine Child]]<br>[[The Treasure Hard to Attain]] | Self: Wholeness glimpsed, integration begun<br>Anima/Animus: Sacred marriage, inner union<br>Divine Child: Rebirth, innocence restored<br>Treasure: The goal of individuation made conscious | The Reward is often the *first conscious encounter with the Self*—not as annihilating totality (the Ordeal) but as benevolent wholeness |
 
 ## 3. Practical Application
 
@@ -480,7 +480,7 @@ For non-binary, transgender, and queer individuals, the Reward often centers on 
 
 **Psychological Function**: The Reward is **alignment**—the outer life matching the inner truth. The teaching: *"I am who I am. I no longer hide."*
 
-**Archetypal Resonance**: [[The Shapeshifter]], [[Hermes]]/[[Mercury]] (fluidity, boundary-crossing), [[Dionysus]] (androgyny, liberation from rigid categories).
+**Archetypal Resonance**: [[Folklore/Jungian Archetypes/The Shapeshifter]], [[Hermes]]/[[Astrology/Planets/Mercury # ☿]] (fluidity, boundary-crossing), [[Dionysus]] (androgyny, liberation from rigid categories).
 
 ### Integrated Approach
 
@@ -493,12 +493,12 @@ The future of the Reward archetype is **gender-integrative**—honoring both con
 ## 6. Cross-References
 
 ### Jungian Archetypes
-- [[The Self]]: The Reward is often the first conscious encounter with the Self as benevolent wholeness (not the annihilating totality of the Ordeal).
+- [[Folklore/Jungian Archetypes/The Self]]: The Reward is often the first conscious encounter with the Self as benevolent wholeness (not the annihilating totality of the Ordeal).
 - [[The Anima and Animus]]: Sacred marriage as Reward—inner union of masculine and feminine, conscious and unconscious.
-- [[The Divine Child]]: The Reward constellates rebirth—innocence restored, new life emerging from the Ordeal's death.
+- [[Folklore/Jungian Archetypes/The Divine Child]]: The Reward constellates rebirth—innocence restored, new life emerging from the Ordeal's death.
 - [[The Treasure Hard to Attain]]: Jung's term for the Self as goal of individuation. The Reward is the first glimpse of this treasure.
 - [[The Shadow]]: The Reward may involve integrating shadow material—reclaiming disowned strength, creativity, or power.
-- [[The Wise Old Man]] / [[The Great Mother]]: These archetypes may bestow the Reward—the elder handing the hero a gift, the goddess granting a boon.
+- [[The Wise Old Man]] / [[Folklore/Jungian Archetypes/The Great Mother]]: These archetypes may bestow the Reward—the elder handing the hero a gift, the goddess granting a boon.
 
 ### Hero's Journey Stages
 - [[The Call to Adventure]]: The Reward fulfills what the Call promised. The initial lack or wound is now compensated.
@@ -520,12 +520,12 @@ The future of the Reward archetype is **gender-integrative**—honoring both con
 - [[Strength (VIII)]]: The power to endure. The Reward may be this strength, claimed through the Ordeal's trial.
 
 ### Astrology
-- [[Jupiter]]: Expansion, gifts, fortune. Jupiter transits often correlate with Rewards—opportunities, recognition, abundance.
-- [[Venus]]: Love, beauty, harmony. The Reward as relational restoration or aesthetic/creative breakthrough.
+- [[Jupiter ♃]]: Expansion, gifts, fortune. Jupiter transits often correlate with Rewards—opportunities, recognition, abundance.
+- [[Venus ♀]]: Love, beauty, harmony. The Reward as relational restoration or aesthetic/creative breakthrough.
 - [[5th House]]: Creative expression, joy, play. The Reward as return of life-force after depression or burnout.
 - [[11th House]]: Community, hopes, dreams. The Reward as social recognition or collective victory.
 - Trine aspects: Ease, flow, grace. The Reward feels **Jupiterian**—unearned blessing, synchronistic luck.
-- [[Sun]]: Vitality, identity, core self. The Reward often involves solar themes—recognition, clarity, self-actualization.
+- [[Sun ☉]]: Vitality, identity, core self. The Reward often involves solar themes—recognition, clarity, self-actualization.
 
 ### Human Design
 - **Defined Sacral**: Sustainable energy. The Reward is the return of energy after the Ordeal's depletion.

@@ -544,12 +544,12 @@ Calcination is the fire that makes the darkness conscious. It is disagreeable. I
 - [[Ten of Wands]] - Burnout, carrying too much (fire exhausted)
 
 ### Related Astrology
-- [[Mars]] - Planet of fire, anger, and action
-- [[Pluto]] - Transformational fire, death and rebirth
-- [[Saturn]] - Fire of restriction, discipline, and humiliation
-- [[Aries]] - Cardinal fire sign (initiating fire)
-- [[Leo]] - Fixed fire sign (sustained fire)
-- [[Sagittarius]] - Mutable fire sign (spiritual fire)
+- [[Mars ♂]] - Planet of fire, anger, and action
+- [[Pluto ♇]] - Transformational fire, death and rebirth
+- [[Saturn ♄]] - Fire of restriction, discipline, and humiliation
+- [[Aries ♈]] - Cardinal fire sign (initiating fire)
+- [[Leo ♌]] - Fixed fire sign (sustained fire)
+- [[Sagittarius ♐]] - Mutable fire sign (spiritual fire)
 - [[8th House]] - House of death, transformation, and crisis
 
 ### Related Human Design

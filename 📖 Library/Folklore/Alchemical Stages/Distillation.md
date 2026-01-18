@@ -585,11 +585,11 @@ When the psyche embraces the work of circulation—when insights are patiently b
 - [[Two of Pentacles]] - Juggling, balancing, circulation of resources and energy
 
 ### Related Astrology
-- [[Mercury]] - Planet of communication, circulation, the psychopomp
-- [[Moon]] - Cycles, tides, dew, the circulation of light (waxing/waning)
-- [[Neptune]] - Spirit, vapor, dissolution into the transcendent (must be distilled back to earth)
-- [[Gemini]] - Mercury-ruled, sign of duality, circulation between opposites
-- [[Virgo]] - Mercury-ruled, sign of refinement, purification, practical application
+- [[Astrology/Planets/Mercury # ☿]] - Planet of communication, circulation, the psychopomp
+- [[Moon ☽]] - Cycles, tides, dew, the circulation of light (waxing/waning)
+- [[Neptune ♆]] - Spirit, vapor, dissolution into the transcendent (must be distilled back to earth)
+- [[Gemini ♊]] - Mercury-ruled, sign of duality, circulation between opposites
+- [[Virgo ♍]] - Mercury-ruled, sign of refinement, purification, practical application
 - [[3rd House]] - House of communication, circulation of information, learning cycles
 - [[12th House]] - House of withdrawal, meditation, spiritual refinement (ascent before descent)
 

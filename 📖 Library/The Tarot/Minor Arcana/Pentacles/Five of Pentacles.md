@@ -299,8 +299,8 @@ The invitation of the Five is to *turn around*, to *knock*, to *ask*. The door m
 - [[Fives of the Tarot]] - All four Fives as expressions of Geburah
 
 ### Planetary and Astrological
-- [[Mercury]] - The planet of communication, commerce, movement, the mind
-- [[Taurus]] - The sign of stability, security, material comfort, the body
+- [[Astrology/Planets/Mercury # ☿]] - The planet of communication, commerce, movement, the mind
+- [[Taurus ♉]] - The sign of stability, security, material comfort, the body
 - [[Mercury in Taurus]] - Disruption of stability through restless change
 - [[First Decan of Taurus]] - The promise of spring abundance disrupted
 

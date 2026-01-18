@@ -93,12 +93,12 @@ Psychologically, the Refusal corresponds to:
 | **System** | **Primary Correspondence** | **Symbolic Resonance** | **Psychological Function** |
 |------------|---------------------------|------------------------|----------------------------|
 | **Tarot** | [[The Hanged Man (XII)]]<br>[[Four of Cups]]<br>[[Eight of Swords]] | Hanged Man: Stuck in suspension, unable to choose<br>Four of Cups: Apathy, ignoring offered gifts<br>Eight of Swords: Self-imposed bondage, mental prison | The ego paralyzed by fear; opportunities visible but rejected; the mind constructing its own cage to avoid the risk of freedom |
-| **Astrology** | [[Saturn]]<br>[[Chiron]]<br>[[12th House]]<br>[[Neptune]] | Saturn: Fear, limitation, "not good enough"<br>Chiron: The wound that blocks forward movement<br>12th House: Self-undoing, avoidance, unconscious sabotage<br>Neptune: Escapism, illusion, numbing | Saturn's restrictive voice (*"You'll fail"*), Chiron's unhealed wound as excuse, 12th House fog obscuring the path, Neptune's siren song of fantasy over reality |
+| **Astrology** | [[Saturn ♄]]<br>[[Chiron]]<br>[[12th House]]<br>[[Neptune ♆]] | Saturn: Fear, limitation, "not good enough"<br>Chiron: The wound that blocks forward movement<br>12th House: Self-undoing, avoidance, unconscious sabotage<br>Neptune: Escapism, illusion, numbing | Saturn's restrictive voice (*"You'll fail"*), Chiron's unhealed wound as excuse, 12th House fog obscuring the path, Neptune's siren song of fantasy over reality |
 | **Human Design** | **Not-Self Theme**<br>**Open Head/Ajna Centers**<br>**Gate 47** (Oppression/Realization)<br>**Undefined Root** | Not-Self: Living by conditioning rather than authentic authority<br>Open Head/Ajna: Mental pressure, overthinking the Call<br>Gate 47: Feeling oppressed, stuck, unable to see way forward<br>Undefined Root: Rushing or procrastinating under pressure | The mind overriding the body's wisdom; living according to false authority; the pressure to act *now* or *never* creating paralysis; the Refusal as misalignment with Strategy/Authority |
 | **I-Ching** | **Hexagram 12 (Standstill/Stagnation)**<br>**Hexagram 4 (Youthful Folly)**<br>**Hexagram 52 (Keeping Still)** | Hex 12: Heaven and Earth separated, no communication<br>Hex 4: Inexperience, not knowing how to proceed<br>Hex 52: Stillness—but is it wisdom or fear? | The I-Ching's counsel for Refusal: Standstill reveals misalignment; Folly reveals unreadiness; Keeping Still can be either preparation or avoidance. Discernment required |
 | **Qabalah** | **Malkuth** (Kingdom, Material Realm)<br>**Path 32 (The World - Saturn/Tau)**<br>**Binah** (Understanding as Limitation) | Malkuth: Clinging to the physical, the known<br>Path 32: The final path before ascent begins—fear of leaving Earth<br>Binah: The Great Mother holding back, protective restriction | The soul's attachment to matter; the refusal to begin the ascent of the Tree; Binah as the Mother who *nourishes but also imprisons*—comfort becomes cage |
 | **Angelology** | **Absence of [[Michael]]** (Courage)<br>**[[Raphael]]** (Healing not yet accepted)<br>**[[Chamuel]]** (Inability to see love/purpose) | Michael: The warrior angel's sword not yet grasped<br>Raphael: The healing offered but not received<br>Chamuel: The inability to perceive divine purpose | The angelic presences *available* but not invoked; the hero has access to courage, healing, and purpose but refuses to call upon them; the Refusal as spiritual isolation |
-| **Jungian Archetypes** | [[The Shadow]]<br>[[The Ego]]<br>[[The Devouring Mother]]<br>[[The Terrible Father]]<br>[[The Persona]] | Shadow: Fear of what journey will force you to confront<br>Ego: Clinging to control, refusing surrender<br>Devouring Mother: Safety as suffocation<br>Terrible Father: Internalized judgment (*"You're not worthy"*)<br>Persona: Social mask too rigid to risk | The Refusal is the ego's defense mechanism; the Shadow whispers *"You're not ready"*; the internalized parental voices say *"Stay safe" / "You'll fail"*; the Persona insists *"What will people think?"* |
+| **Jungian Archetypes** | [[The Shadow]]<br>[[The Ego]]<br>[[The Devouring Mother]]<br>[[The Terrible Father]]<br>[[Folklore/Jungian Archetypes/The Persona]] | Shadow: Fear of what journey will force you to confront<br>Ego: Clinging to control, refusing surrender<br>Devouring Mother: Safety as suffocation<br>Terrible Father: Internalized judgment (*"You're not worthy"*)<br>Persona: Social mask too rigid to risk | The Refusal is the ego's defense mechanism; the Shadow whispers *"You're not ready"*; the internalized parental voices say *"Stay safe" / "You'll fail"*; the Persona insists *"What will people think?"* |
 
 ## 3. Practical Application
 
@@ -513,7 +513,7 @@ For non-binary and transgender individuals, the Refusal often centers on **exist
 
 **Shadow**: The Refusal as **survival mechanism**—closeting is not always cowardice; it is sometimes the only way to stay alive. The tragedy: when survival-based Refusal becomes permanent, the person lives but the **soul withers**.
 
-**Archetypal Resonance**: [[The Shapeshifter]], [[Hermes]]/[[Mercury]] (boundary-crosser, thief of fire), [[Dionysus]] (androgynous god of ecstatic transformation).
+**Archetypal Resonance**: [[Folklore/Jungian Archetypes/The Shapeshifter]], [[Hermes]]/[[Astrology/Planets/Mercury # ☿]] (boundary-crosser, thief of fire), [[Dionysus]] (androgynous god of ecstatic transformation).
 
 **Integration**: The Refusal breaks when the pain of hiding exceeds the pain of exposure. The gift post-Refusal: **radical authenticity**—the person who has overcome existential terror to live truthfully gains unshakable self-knowledge.
 
@@ -531,10 +531,10 @@ The future of the Refusal archetype is **gender-integrative**—honoring that ev
 ### Jungian Archetypes
 - [[The Shadow]]: The Refusal is often rooted in fear of confronting the Shadow—what the journey will force you to see about yourself. The unlived life becomes Shadow material, haunting the psyche.
 - [[The Ego]]: The Refusal is the ego's primary defense mechanism—clinging to coherence, control, and continuity rather than risking transformation.
-- [[The Persona]]: The social mask that the Refusal protects. *"What will people think if I quit my job/leave my marriage/pursue my art?"* The Refusal keeps the Persona intact.
+- [[Folklore/Jungian Archetypes/The Persona]]: The social mask that the Refusal protects. *"What will people think if I quit my job/leave my marriage/pursue my art?"* The Refusal keeps the Persona intact.
 - [[The Devouring Mother]]: The internalized voice that says *"Stay safe, don't risk, the world is dangerous."* The Refusal as maternal overprotection turned self-imprisonment.
 - [[The Terrible Father]]: The internalized voice that says *"You're not good enough, you'll fail, don't even try."* The Refusal as internalized paternal judgment.
-- [[The Self]]: The Call originates from the Self (the totality); the Refusal originates from the ego (the fragment). The tension between them creates the crisis.
+- [[Folklore/Jungian Archetypes/The Self]]: The Call originates from the Self (the totality); the Refusal originates from the ego (the fragment). The tension between them creates the crisis.
 
 ### Hero's Journey Stages
 - [[The Call to Adventure]]: The summons that the Refusal resists. The Call is the invitation; the Refusal is the "no thank you."
@@ -553,11 +553,11 @@ The future of the Refusal archetype is **gender-integrative**—honoring that ev
 - [[Judgment (XX)]]: The Call sounding (the angel's trumpet). Those who refuse are not resurrected—they remain in the graves.
 
 ### Astrology
-- [[Saturn]]: The planet of limitation, fear, and *"not good enough."* Saturn transits often trigger Refusals—the fear overwhelms the Call.
+- [[Saturn ♄]]: The planet of limitation, fear, and *"not good enough."* Saturn transits often trigger Refusals—the fear overwhelms the Call.
 - [[Chiron]]: The wounded healer. The unhealed wound becomes the reason for Refusal: *"I can't pursue that because of what happened to me."*
 - [[12th House]]: The house of self-undoing, unconscious sabotage, and avoidance. Planets transiting the 12th often catalyze Refusals—the hero hides, numbs, escapes.
-- [[Neptune]]: The planet of illusion, escapism, fantasy. Neptune can enable the Refusal by offering numbing (addiction, fantasy, spiritual bypassing) as alternative to the Call.
-- [[Mars]]: The planet of action and courage. A weak or afflicted Mars in the natal chart can manifest as difficulty initiating, acting decisively, overcoming fear.
+- [[Neptune ♆]]: The planet of illusion, escapism, fantasy. Neptune can enable the Refusal by offering numbing (addiction, fantasy, spiritual bypassing) as alternative to the Call.
+- [[Mars ♂]]: The planet of action and courage. A weak or afflicted Mars in the natal chart can manifest as difficulty initiating, acting decisively, overcoming fear.
 
 ### Human Design
 - **Not-Self Theme**: Living by conditioning rather than authentic Strategy/Authority. The Refusal as **misalignment**—the mind refusing what the body knows is correct.

@@ -650,15 +650,15 @@ The Eleusinian grain = the Philosopher's Stone—the simple, eternal truth revea
 - [[The World]] (Completion of the journey, Psyche's immortality)
 
 ### Astrology
-- [[Zeus]] as [[Jupiter]] (expansion, sovereignty, spirit)
-- [[Apollo]] as [[Sun]] (consciousness, ego, light)
-- [[Artemis]] as [[Moon]] (unconscious, instinct, maiden)
-- [[Aphrodite]] as [[Venus]] (love, beauty, eros)
-- [[Ares]] as [[Mars]] (aggression, warfare, drive)
-- [[Hermes]] as [[Mercury]] (communication, trickster, psychopomp)
-- [[Cronus]] as [[Saturn]] (time, limitation, senex)
-- [[Hades]] as [[Pluto]] (underworld, transformation, death/rebirth)
-- [[Poseidon]] as [[Neptune]] (ocean, dissolution, unconscious depths)
+- [[Zeus]] as [[Jupiter ♃]] (expansion, sovereignty, spirit)
+- [[Apollo]] as [[Sun ☉]] (consciousness, ego, light)
+- [[Artemis]] as [[Moon ☽]] (unconscious, instinct, maiden)
+- [[Aphrodite]] as [[Venus ♀]] (love, beauty, eros)
+- [[Ares]] as [[Mars ♂]] (aggression, warfare, drive)
+- [[Hermes]] as [[Astrology/Planets/Mercury # ☿]] (communication, trickster, psychopomp)
+- [[Cronus]] as [[Saturn ♄]] (time, limitation, senex)
+- [[Hades]] as [[Pluto ♇]] (underworld, transformation, death/rebirth)
+- [[Poseidon]] as [[Neptune ♆]] (ocean, dissolution, unconscious depths)
 
 ### Human Design
 - [[Gate 51]] (The Arousing/Shock) = Zeus's thunderbolt, initiation

@@ -279,8 +279,8 @@ The Seven asks: **Can you be patient without being passive? Can you trust withou
 - [[Sevens of the Tarot]] - All four Sevens as expressions of Netzach
 
 ### Planetary and Astrological
-- [[Saturn]] - The planet of time, discipline, limitation, the slow teacher
-- [[Taurus]] - The sign of material growth, patience, fruition
+- [[Saturn ♄]] - The planet of time, discipline, limitation, the slow teacher
+- [[Taurus ♉]] - The sign of material growth, patience, fruition
 - [[Saturn in Taurus]] - Disciplined cultivation, slow reliable growth
 - [[Third Decan of Taurus]] - Late spring, harvest approaching but not yet arrived
 

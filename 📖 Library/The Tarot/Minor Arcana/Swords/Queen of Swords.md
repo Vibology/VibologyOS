@@ -342,7 +342,7 @@ The sword liberates when it is wielded with wisdom. The Queen who has lost every
 - [[The Widow Archetype]] - Loss as portal to perception
 
 ### Psychological
-- [[The Animus]] - Jung's concept of logos in the feminine
+- [[Folklore/Jungian Archetypes/The Animus]] - Jung's concept of logos in the feminine
 - [[Emotional Intelligence]] - Thinking and feeling united
 - [[Grief as Teacher]] - Loss that clarifies rather than embitters
 - [[The Therapist Archetype]] - The one who helps others see clearly

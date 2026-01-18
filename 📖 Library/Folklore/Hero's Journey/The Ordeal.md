@@ -95,12 +95,12 @@ Psychologically, the Ordeal corresponds to:
 | **System** | **Primary Correspondence** | **Symbolic Resonance** | **Psychological Function** |
 |------------|---------------------------|------------------------|----------------------------|
 | **Tarot** | [[Death (XIII)]]<br>[[The Tower (XVI)]]<br>[[The Hanged Man (XII)]] | Death: Ego dissolution, transformation<br>Tower: Sudden collapse of false structures<br>Hanged Man: Willing suspension, surrender | Forced confrontation with impermanence; the psyche stripped of illusions; radical reorientation through crisis |
-| **Astrology** | [[Pluto]]<br>[[Saturn]]<br>[[8th House]]<br>[[Scorpio]] | Pluto: Death/rebirth, underworld descent<br>Saturn: Limitation, test, karmic reckoning<br>8th House: Transformation, inheritance from death<br>Scorpio: Stinger in darkness, phoenix rising | Planetary transits force the Ordeal—Pluto tears down, Saturn demands accountability, 8th House inheritance requires confronting what was hidden |
+| **Astrology** | [[Pluto ♇]]<br>[[Saturn ♄]]<br>[[8th House]]<br>[[Scorpio ♏]] | Pluto: Death/rebirth, underworld descent<br>Saturn: Limitation, test, karmic reckoning<br>8th House: Transformation, inheritance from death<br>Scorpio: Stinger in darkness, phoenix rising | Planetary transits force the Ordeal—Pluto tears down, Saturn demands accountability, 8th House inheritance requires confronting what was hidden |
 | **Human Design** | **Spleen Center** (survival instinct)<br>**Gate 28** (The Game Player - Preponderance of the Great)<br>**Gate 50** (The Cauldron - Values/Laws) | Gate 28: Risk for meaning, struggle unto death<br>Gate 50: Trial by fire, laws forged in crisis<br>Spleen: Primal fear, survival at stake | The biological imperative activated—fight, flight, freeze, or transcend. The Ordeal reveals whether one's strategy/authority holds under existential threat |
 | **I-Ching** | **Hexagram 29 (K'an / The Abysmal Water)**<br>**Hexagram 47 (K'un / Oppression/Exhaustion)**<br>**Hexagram 5 (Hsü / Waiting)** | K'an: The abyss doubled, danger upon danger<br>K'un: Exhaustion, trapped, no way forward<br>Hsü: Patience in the face of the inevitable | The I-Ching's counsel for the Ordeal: *"If you are sincere, you have success in your heart, and whatever you do succeeds."* Truth alone survives the abyss |
 | **Qabalah** | **Daath (The Abyss)**<br>**Path 24 (Death - Nun)**<br>**Geburah (Severity)** | Daath: The non-Sephirah, the rupture in the Tree<br>Nun (Death): The fish, depths, dissolution<br>Geburah: Mars-ruled severity, pruning, sacrifice | Crossing the Abyss requires relinquishing all attainment—the magician becomes the Babe of the Abyss, naked before the infinite |
 | **Angelology** | **Azrael** (Angel of Death)<br>**Samael** (Severity, Accuser)<br>**Metatron** (Transformation) | Azrael: Gentle escort to the afterlife<br>Samael: The poison of God, left-hand severity<br>Metatron: The transformed Enoch, bridge between worlds | Angels of the Ordeal do not rescue—they witness. Azrael ensures the death is complete; Metatron awaits on the far side |
-| **Jungian Archetypes** | [[The Shadow]]<br>[[The Devouring Mother]]<br>[[The Terrible Father]]<br>[[The Self]] (as annihilating totality) | Shadow: Confronting the disowned<br>Devouring Mother: Engulfment, regression<br>Terrible Father: Judgment, castration, law<br>Self: The death required for wholeness | The Ordeal is the Shadow made flesh—what was projected must be integrated. The hero discovers: *"I am the monster I sought to slay"* |
+| **Jungian Archetypes** | [[The Shadow]]<br>[[The Devouring Mother]]<br>[[The Terrible Father]]<br>[[Folklore/Jungian Archetypes/The Self]] (as annihilating totality) | Shadow: Confronting the disowned<br>Devouring Mother: Engulfment, regression<br>Terrible Father: Judgment, castration, law<br>Self: The death required for wholeness | The Ordeal is the Shadow made flesh—what was projected must be integrated. The hero discovers: *"I am the monster I sought to slay"* |
 
 ## 3. Practical Application
 
@@ -461,7 +461,7 @@ For non-binary and transgender individuals, the Ordeal often centers on **identi
 
 **Psychological Function**: The Ordeal is the **threshold** itself—inhabiting the liminal space between categories (male/female, gay/straight, old self/new self). The teaching: *"I am the bridge. I contain multitudes."*
 
-**Archetypal Resonance**: [[The Shapeshifter]], [[Hermes]]/[[Mercury]] (boundary-crosser), [[Dionysus]] (androgyny, ecstatic dissolution).
+**Archetypal Resonance**: [[Folklore/Jungian Archetypes/The Shapeshifter]], [[Hermes]]/[[Astrology/Planets/Mercury # ☿]] (boundary-crosser), [[Dionysus]] (androgyny, ecstatic dissolution).
 
 ### Cultural Context
 
@@ -475,11 +475,11 @@ The future of the Ordeal archetype may be **gender-integrative**—recognizing t
 
 ### Jungian Archetypes
 - [[The Shadow]]: The Ordeal often manifests as confrontation with the Shadow—what was denied, disowned, or projected must be faced. The monster in the cave is the hero's own darkness made external.
-- [[The Self]]: The Ordeal is the ego's encounter with the suprapersonal Self—the realization that the ego is not sovereign. The death required is the ego's inflation; the resurrection is right relationship to the totality.
+- [[Folklore/Jungian Archetypes/The Self]]: The Ordeal is the ego's encounter with the suprapersonal Self—the realization that the ego is not sovereign. The death required is the ego's inflation; the resurrection is right relationship to the totality.
 - [[The Anima and Animus]]: For men, the Ordeal may involve Anima possession (overwhelm by emotion, chaos). For women, the Animus may impose impossible standards (perfectionism unto death). Integration requires recognizing these contrasexual forces as inner guides, not tyrants.
 - [[The Devouring Mother]]: The Ordeal as engulfment—loss of autonomy, regression to infantile dependency. The resurrection is separation, claiming selfhood.
 - [[The Terrible Father]]: The Ordeal as judgment—failure to meet impossible standards, castration (literal or symbolic). The resurrection is self-forgiveness, release from paternal law.
-- [[The Threshold Guardian]]: This archetype *precedes* the Ordeal, testing readiness. If the hero bypasses the Guardian, the Ordeal will be harsher.
+- [[Folklore/Jungian Archetypes/The Threshold Guardian]]: This archetype *precedes* the Ordeal, testing readiness. If the hero bypasses the Guardian, the Ordeal will be harsher.
 
 ### Hero's Journey Stages
 - [[The Call to Adventure]]: The initial wound/lack that sets the journey in motion will often become the content of the Ordeal. (Simba's guilt over Mufasa's death → facing Scar in the Pride Lands.)
@@ -502,10 +502,10 @@ The future of the Ordeal archetype may be **gender-integrative**—recognizing t
 - [[Judgment (XX)]]: The resurrection card—rising from the grave, called by the angel. The Ordeal's culmination: rebirth into new life.
 
 ### Astrology
-- [[Pluto]]: Lord of the Underworld, planet of death/rebirth. Pluto transits often trigger Ordeals—death of relationships, careers, identities. The Ordeal is Plutonian by nature.
-- [[Saturn]]: Taskmaster, karmic reckoner. Saturn Return (ages 28-30, 58-60) often manifests as Ordeal—test of maturity, accountability, limitation.
+- [[Pluto ♇]]: Lord of the Underworld, planet of death/rebirth. Pluto transits often trigger Ordeals—death of relationships, careers, identities. The Ordeal is Plutonian by nature.
+- [[Saturn ♄]]: Taskmaster, karmic reckoner. Saturn Return (ages 28-30, 58-60) often manifests as Ordeal—test of maturity, accountability, limitation.
 - [[8th House]]: House of death, sex, transformation, inheritance. Planets transiting the 8th often catalyze Ordeals—confronting mortality, shadow, shared resources.
-- [[Scorpio]]: Sign of death/rebirth, ruled by Mars (traditional) and Pluto (modern). Scorpio energy is Ordeal energy—descend into darkness, emerge transformed.
+- [[Scorpio ♏]]: Sign of death/rebirth, ruled by Mars (traditional) and Pluto (modern). Scorpio energy is Ordeal energy—descend into darkness, emerge transformed.
 - [[12th House]]: House of dissolution, isolation, the unconscious. The Ordeal often occurs in 12th House transits—hospitalization, retreat, spiritual crisis.
 
 ### Human Design

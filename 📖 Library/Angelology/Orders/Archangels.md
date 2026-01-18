@@ -484,11 +484,11 @@ The individual becomes a **channel** through which divine will flows into the wo
 - [[Angelology and Human Design Integration]]
 
 ### Cross-System Integration
-- **Qabalah:** [[Hod]] | [[Tree of Life]] | [[Elohim Tzabaoth]] | [[Mercury]] | [[Sephiroth]]
+- **Qabalah:** [[Hod]] | [[Tree of Life]] | [[Elohim Tzabaoth]] | [[Astrology/Planets/Mercury # ☿]] | [[Sephiroth]]
 - **Tarot:** [[The Lovers]] | [[Temperance]] | [[Judgment]]
-- **Astrology:** [[Mercury]] | [[Gemini]] | [[Virgo]]
+- **Astrology:** [[Astrology/Planets/Mercury # ☿]] | [[Gemini ♊]] | [[Virgo ♍]]
 - **Human Design:** [[Sacral Center]] | [[Gate 5]] | [[Gate 14]] | [[Gate 29]] | [[Generator]] | [[Manifesting Generator]]
-- **Jungian Psychology:** [[Vocation]] | [[Individuation]] | [[The Self]] | [[The Voice]] | [[Numinous Encounter]]
+- **Jungian Psychology:** [[Vocation]] | [[Individuation]] | [[Folklore/Jungian Archetypes/The Self]] | [[The Voice]] | [[Numinous Encounter]]
 
 ---
 

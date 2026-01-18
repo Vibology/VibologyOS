@@ -303,8 +303,8 @@ The invitation is to *loosen the grip*—not to abandon security, but to hold it
 - [[Fours of the Tarot]] - All four Fours as expressions of Chesed
 
 ### Planetary and Astrological
-- [[Sun]] - The planet of vitality, sovereignty, and self-expression
-- [[Capricorn]] - The sign of structure, authority, and material mastery
+- [[Sun ☉]] - The planet of vitality, sovereignty, and self-expression
+- [[Capricorn ♑]] - The sign of structure, authority, and material mastery
 - [[Sun in Capricorn]] - Creative force solidified into established authority
 - [[Third Decan of Capricorn]] - The summit, the throne secured
 

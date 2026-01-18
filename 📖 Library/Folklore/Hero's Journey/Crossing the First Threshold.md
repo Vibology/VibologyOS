@@ -128,7 +128,7 @@ Psychologically, Crossing the First Threshold corresponds to:
 | **I-Ching** | **Hexagram 3 (Difficulty at Beginning)**<br>**Hexagram 29 (The Abysmal)**<br>**Hexagram 51 (Shock)** | Hex 3: Chaos of initiation, struggling forward through resistance<br>Hex 29: Entering danger, learning by plunging into abyss<br>Hex 51: Thunder, sudden disruption forcing movement | The I-Ching emphasizes **difficulty** at the threshold—it is never easy, never comfortable. Courage and sincerity are required |
 | **Qabalah** | **Crossing the Veil (Paroketh)**<br>**Malkuth to Yesod**<br>**Path 32 (The World / Tau)** | Paroketh: Veil separating material (Malkuth) from astral (Yesod)<br>Malkuth to Yesod: Earth to Moon, solidity to flux, waking to dreaming<br>Path 32: The final/first path, Saturn's crystallization giving way to lunar tides | Kabbalistic threshold is **ontological**—crossing from material to subtle, from form to formlessness. The magician enters the astral, confronts spirits and illusions |
 | **Angelology** | **[[Sandalphon]]** (Earth angel, guards threshold)<br>**[[Gabriel]]** (Annunciation, messages of transformation)<br>**Lesser Spirits/Tests** | Sandalphon: Rooted in Malkuth, hears prayers, guards boundary between human and divine<br>Gabriel: Herald of change, announces thresholds (Mary's conception, Muhammad's revelation)<br>Lesser Spirits: Demons, elementals, trials before higher contact | Angels of the threshold either **permit** passage (if sincere) or **test** (if unprepared). The crossing is witnessed by invisible forces |
-| **Jungian Archetypes** | [[The Threshold Guardian]]<br>[[The Shadow]]<br>[[The Child]] (dying to birth the Hero) | Threshold Guardian: Tests readiness, embodies fear<br>Shadow: First confrontation with disowned self<br>Child: Innocence sacrificed to enter adulthood | The psychological threshold is **differentiation**—separating from the maternal container, from the tribe, from the persona. The hero individuates by crossing |
+| **Jungian Archetypes** | [[Folklore/Jungian Archetypes/The Threshold Guardian]]<br>[[The Shadow]]<br>[[The Child]] (dying to birth the Hero) | Threshold Guardian: Tests readiness, embodies fear<br>Shadow: First confrontation with disowned self<br>Child: Innocence sacrificed to enter adulthood | The psychological threshold is **differentiation**—separating from the maternal container, from the tribe, from the persona. The hero individuates by crossing |
 
 ## 3. Practical Application
 
@@ -163,7 +163,7 @@ Unlike later stages requiring surrender or endurance, the threshold demands **de
 - Invoke archetypal support:
   - **[[Gabriel]]** (announcer of transformation)
   - **[[The Chariot]]** (willpower to proceed)
-  - **[[Hermes]]/[[Mercury]]** (guide of souls across boundaries)
+  - **[[Hermes]]/[[Astrology/Planets/Mercury # ☿]]** (guide of souls across boundaries)
 - Prayer: *"I commit to this journey. I release my grip on safety. I trust what calls me forward."*
 
 **4. Accept the Belly of the Whale**
@@ -246,7 +246,7 @@ In *The Archetypes and the Collective Unconscious*, Jung writes:
 
 > "Crossing the threshold means passing from the daylight world of consciousness into the twilight world of the unconscious. The threshold is guarded by the Shadow, which must be integrated before deeper work can proceed."
 
-**The Shadow as Threshold Guardian**: The first figure the hero meets upon crossing is often the [[Shadow]]—the disowned, rejected, or unacknowledged aspects of the self. Until the Shadow is faced, the deeper archetypes ([[Anima and Animus]], [[The Self]]) remain inaccessible.
+**The Shadow as Threshold Guardian**: The first figure the hero meets upon crossing is often the [[Shadow]]—the disowned, rejected, or unacknowledged aspects of the self. Until the Shadow is faced, the deeper archetypes ([[Anima and Animus]], [[Folklore/Jungian Archetypes/The Self]]) remain inaccessible.
 
 **Individuation and the Threshold**: Individuation—Jung's term for the lifelong process of becoming whole—requires **repeated threshold crossings**:
 1. **Adolescence**: Crossing from parental container to autonomy
@@ -522,7 +522,7 @@ For non-binary and transgender individuals, the threshold often centers on **she
 
 **Psychological Function**: The threshold is **self-determination**—"I cross from who they said I was to who I know I am." The teaching: *"I am the only authority on my identity."*
 
-**Archetypal Resonance**: [[The Shapeshifter]], [[Hermes]]/[[Mercury]] (boundary-crosser, hermaphrodite), [[Dionysus]] (androgyny, fluidity, ecstatic dissolution of categories).
+**Archetypal Resonance**: [[Folklore/Jungian Archetypes/The Shapeshifter]], [[Hermes]]/[[Astrology/Planets/Mercury # ☿]] (boundary-crosser, hermaphrodite), [[Dionysus]] (androgyny, fluidity, ecstatic dissolution of categories).
 
 ### Cultural Context
 
@@ -535,10 +535,10 @@ The future of the threshold archetype may be **integrative**—recognizing that 
 ## 6. Cross-References
 
 ### Jungian Archetypes
-- [[The Threshold Guardian]]: The archetypal figure who tests readiness before the crossing. May be external (Cerberus, Sphinx) or internal ([[Shadow]], fear, doubt). Integration rather than conquest is the mature approach.
+- [[Folklore/Jungian Archetypes/The Threshold Guardian]]: The archetypal figure who tests readiness before the crossing. May be external (Cerberus, Sphinx) or internal ([[Shadow]], fear, doubt). Integration rather than conquest is the mature approach.
 - [[The Shadow]]: The first confrontation with the Shadow often occurs at the threshold—the Guardian is frequently a projection of the hero's disowned darkness. Crossing requires acknowledging: *"This fear, this monster—it is mine."*
 - [[The Child]]: The threshold marks the death of childhood innocence, security, dependency. The hero crosses alone, without parental protection—the Child archetype is sacrificed to birth the Hero.
-- [[The Self]]: The Call emanates from the Self; crossing the threshold is the ego's **obedience** to the Self's summons. Pre-threshold, the ego resists; post-threshold, the ego submits to the transformative process.
+- [[Folklore/Jungian Archetypes/The Self]]: The Call emanates from the Self; crossing the threshold is the ego's **obedience** to the Self's summons. Pre-threshold, the ego resists; post-threshold, the ego submits to the transformative process.
 - [[The Mentor]]: Prepares the hero for the crossing but cannot cross with them. The Mentor's final gift (talisman, teaching, blessing) sustains the hero during the Belly of the Whale.
 
 ### Hero's Journey Stages
@@ -563,9 +563,9 @@ The future of the threshold archetype may be **integrative**—recognizing that 
 ### Astrology
 - [[Ascendant]]/[[Descendant]] Axis: The horizon line—self (Ascendant) crossing into other (Descendant). Relationships as thresholds.
 - [[4th House]]/[[10th House]] Axis: Private to public, roots to vocation, inner to outer. Career changes, public visibility as thresholds.
-- **[[Saturn]] Return** (ages 28-30, 58-60): The quintessential astrological threshold—Saturn demands accountability, maturity, commitment. The First Return marks adulthood; the Second marks elderhood.
-- **[[Uranus]] Opposition** (age 40-42): Midlife crisis as threshold—the old life no longer fits; the new life is uncertain. Crossing requires radical honesty.
-- **[[Pluto]] Transits**: Death/rebirth thresholds—Pluto destroys what is outgrown, forces descent into the underworld (psychological, relational, vocational).
+- **[[Saturn ♄]] Return** (ages 28-30, 58-60): The quintessential astrological threshold—Saturn demands accountability, maturity, commitment. The First Return marks adulthood; the Second marks elderhood.
+- **[[Uranus ♅]] Opposition** (age 40-42): Midlife crisis as threshold—the old life no longer fits; the new life is uncertain. Crossing requires radical honesty.
+- **[[Pluto ♇]] Transits**: Death/rebirth thresholds—Pluto destroys what is outgrown, forces descent into the underworld (psychological, relational, vocational).
 - **Eclipses**: Cosmic thresholds—North Node (evolutionary path forward) vs. South Node (karmic past). Eclipses force crossings—new chapters begin, old chapters close.
 
 ### Human Design

@@ -362,8 +362,8 @@ The Lord of Loss in Pleasure is also the lord of what survives loss. The two cup
 - [[Cards of Geburah]] - All Fives across the suits
 
 ### Planetary and Astrological
-- [[Mars]] - The planet: aggression, will, the cutting force
-- [[Scorpio]] - The Scorpion: depth, transformation, the underworld
+- [[Mars ♂]] - The planet: aggression, will, the cutting force
+- [[Scorpio ♏]] - The Scorpion: depth, transformation, the underworld
 - [[Mars in Scorpio]] - Martial energy at maximum depth, the penetrating wound
 - [[First Decan of Scorpio]] - The initial descent into Scorpionic territory
 

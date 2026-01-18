@@ -775,8 +775,8 @@ The Virtues teach the middle way:
 - [[The Chariot]] (VII) — mastery through integration, solar will
 
 ### Astrology
-- [[Sun]] (☉) — vitality, identity, the Higher Self, the source of light
-- [[Leo]] — courage, generosity, solar heart, the royal sign
+- [[Sun ☉]] (☉) — vitality, identity, the Higher Self, the source of light
+- [[Leo ♌]] — courage, generosity, solar heart, the royal sign
 - [[Sixth House]] — health, service, daily work, the integration of spirit into matter
 
 ### Human Design
@@ -792,7 +792,7 @@ The Virtues teach the middle way:
 ### Jungian Psychology
 - [[Transcendent Function]] (the reconciliation of opposites)
 - [[Coniunctio]] (the alchemical marriage, the union of polarities)
-- [[The Self]] (the totality of the psyche, manifesting through the heart)
+- [[Folklore/Jungian Archetypes/The Self]] (the totality of the psyche, manifesting through the heart)
 - [[Individuation]] (the journey to wholeness)
 - [[Integration]] (making the unconscious conscious)
 

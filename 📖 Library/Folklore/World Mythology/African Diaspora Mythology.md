@@ -905,14 +905,14 @@ The **Middle Passage as Alchemical Vessel:** Slavery was horrific—but the trad
 - [[The World]] (Wholeness through survival, embodied spirituality)
 
 ### Astrology
-- [[Mercury]] (Eshu/Legba as messenger, trickster, psychopomp)
-- [[Venus]] (Oshun as love, beauty, rivers, eros)
-- [[Mars]] (Ogun as iron/war, Shango as fiery will)
-- [[Jupiter]] (Shango as king/sovereignty)
-- [[Saturn]] (Ancestors, time, lineage, karmic patterns)
-- [[Uranus]] (Eshu as chaos, revolution, Petro lwa)
-- [[Neptune]] (Yemoja as ocean, dissolution, ancestral waters)
-- [[Pluto]] (Oya as death/transformation, underworld, shadow)
+- [[Astrology/Planets/Mercury # ☿]] (Eshu/Legba as messenger, trickster, psychopomp)
+- [[Venus ♀]] (Oshun as love, beauty, rivers, eros)
+- [[Mars ♂]] (Ogun as iron/war, Shango as fiery will)
+- [[Jupiter ♃]] (Shango as king/sovereignty)
+- [[Saturn ♄]] (Ancestors, time, lineage, karmic patterns)
+- [[Uranus ♅]] (Eshu as chaos, revolution, Petro lwa)
+- [[Neptune ♆]] (Yemoja as ocean, dissolution, ancestral waters)
+- [[Pluto ♇]] (Oya as death/transformation, underworld, shadow)
 
 ### Human Design
 - [[Gate 21]] (Control/Treasurer) — Shango's sovereignty

@@ -88,7 +88,7 @@ Heartbreak's gift lies in its eventual transformation: the broken heart that rem
 
 ## Internal Links
 
-- [[Sea]] - The House of emotional depth and relational encounter
+- [[House of the Sea]] - The House of emotional depth and relational encounter
 - [[Gate 36]] - Darkening of the Light / Crisis (Solar Plexus Center)
 - [[Hexagram 36]] - Darkening of the Light (I-Ching)
 - [[Gene Keys - Shadow: Turbulence, Gift: Humanity, Siddhi: Compassion]]

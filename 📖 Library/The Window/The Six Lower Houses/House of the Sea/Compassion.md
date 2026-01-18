@@ -87,7 +87,7 @@ Compassion is the antidote to **Rage** (Gate 6 shadow)—because empathic witnes
 
 ## Internal Links
 
-- [[Sea]] - The House of emotional depth and relational encounter
+- [[House of the Sea]] - The House of emotional depth and relational encounter
 - [[Gate 13]] - The Fellowship of Man / The Listener (G Center)
 - [[Hexagram 13]] - The Fellowship of Man (I-Ching)
 - [[Gene Keys - Shadow: Discord, Gift: Discernment, Siddhi: Empathy]]

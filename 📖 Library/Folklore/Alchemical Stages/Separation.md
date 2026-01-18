@@ -638,13 +638,13 @@ Separation is differentiation. Without it, there is only unconscious fusion (par
 - [[King of Swords]] - Mastery of intellectual discrimination, fair judgment
 
 ### Related Astrology
-- [[Mercury]] - Planet of intellect, communication, and discrimination
-- [[Saturn]] - Planet of boundaries, structure, and separation
-- [[Uranus]] - Sudden clarity, breakthrough insight, cutting away the old
-- [[Gemini]] - Sign of mental discrimination, duality, sorting
-- [[Virgo]] - Sign of analytical separation, purification, discernment
-- [[Libra]] - Sign of balanced judgment, weighing, fair discrimination
-- [[Aquarius]] - Sign of detached observation, objectivity
+- [[Astrology/Planets/Mercury # ☿]] - Planet of intellect, communication, and discrimination
+- [[Saturn ♄]] - Planet of boundaries, structure, and separation
+- [[Uranus ♅]] - Sudden clarity, breakthrough insight, cutting away the old
+- [[Gemini ♊]] - Sign of mental discrimination, duality, sorting
+- [[Virgo ♍]] - Sign of analytical separation, purification, discernment
+- [[Libra ♎]] - Sign of balanced judgment, weighing, fair discrimination
+- [[Aquarius ♒]] - Sign of detached observation, objectivity
 - [[3rd House]] - House of mind, communication, local discrimination
 - [[6th House]] - House of work, service, analytical refinement
 

@@ -182,8 +182,8 @@ The teaching: True abundance is internal. The garden is a *reflection* of your c
 - [[Nines of the Tarot]] - All four Nines as expressions of Yesod
 
 ### Planetary and Astrological
-- [[Venus]] - The planet of beauty, pleasure, refinement, attraction
-- [[Virgo]] - The sign of discernment, discipline, practical service
+- [[Venus ♀]] - The planet of beauty, pleasure, refinement, attraction
+- [[Virgo ♍]] - The sign of discernment, discipline, practical service
 - [[Venus in Virgo]] - Refinement earned through discipline
 - [[Second Decan of Virgo]] - Beauty perfected through attention to detail
 

@@ -235,7 +235,7 @@ When the Knight of Cups emerges in reading or contemplation, consider:
 - [[Knight of Wands]] - The fire-Knight, the Knight of adventure and will
 - [[Knight of Swords]] - The air-Knight, the Knight of truth and intellect
 - [[Courtly Love]] - The medieval tradition the Knight embodies
-- [[Mercury]] - The messenger god whose wings adorn the Knight's helm
+- [[Astrology/Planets/Mercury # ☿]] - The messenger god whose wings adorn the Knight's helm
 
 ---
 

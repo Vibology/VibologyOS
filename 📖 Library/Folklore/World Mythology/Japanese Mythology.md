@@ -899,14 +899,14 @@ Shinto cosmology maps the **individuation process** with precision:
 - [[The World]] (Three Sacred Treasures integrated, wholeness achieved)
 
 ### Astrology
-- [[Sun]] (Amaterasu, solar consciousness, original radiance)
-- [[Moon]] (Tsukuyomi, unconscious cycles, hidden tides)
-- [[Mars]] (Susanoo, Yamato Takeru, warrior energy, instinctual drive)
-- [[Venus]] (Uzume, erotic dance, embodied beauty, relational healing)
-- [[Saturn]] (Yomi, death's realm, boundaries, mortality accepted)
-- [[Pluto]] (Izanami as death queen, underworld transformation, decomposition)
-- [[Neptune]] (Ame-tsuchi chaos, oceanic unconscious, dissolution)
-- [[Uranus]] (Susanoo's lightning disruption, sudden change, revolution)
+- [[Sun ☉]] (Amaterasu, solar consciousness, original radiance)
+- [[Moon ☽]] (Tsukuyomi, unconscious cycles, hidden tides)
+- [[Mars ♂]] (Susanoo, Yamato Takeru, warrior energy, instinctual drive)
+- [[Venus ♀]] (Uzume, erotic dance, embodied beauty, relational healing)
+- [[Saturn ♄]] (Yomi, death's realm, boundaries, mortality accepted)
+- [[Pluto ♇]] (Izanami as death queen, underworld transformation, decomposition)
+- [[Neptune ♆]] (Ame-tsuchi chaos, oceanic unconscious, dissolution)
+- [[Uranus ♅]] (Susanoo's lightning disruption, sudden change, revolution)
 
 ### Human Design
 - [[Gate 51]] (The Arousing/Shock) = Susanoo's storm, initiation through chaos

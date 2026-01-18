@@ -82,7 +82,7 @@ The path connects **Netzach (Victory, Venus, desire, love)** to **Yesod (Foundat
 
 ### Astrological Attribution: Aquarius – The Water-Bearer
 
-The Star is attributed to **[[Aquarius]]**, the sign of Fixed Air. Aquarius is the **Water-Bearer**, the one who pours the waters of consciousness onto humanity. But despite the name, Aquarius is an *air* sign—this is not emotional water (Cancer) or deep unconscious water (Pisces) but **intellectual, collective, universal water**: the water of *ideas*, of *vision*, of *future possibilities*.
+The Star is attributed to **[[Aquarius ♒]]**, the sign of Fixed Air. Aquarius is the **Water-Bearer**, the one who pours the waters of consciousness onto humanity. But despite the name, Aquarius is an *air* sign—this is not emotional water (Cancer) or deep unconscious water (Pisces) but **intellectual, collective, universal water**: the water of *ideas*, of *vision*, of *future possibilities*.
 
 Aquarius is ruled by **Saturn** (traditional) and **Uranus** (modern):
 - **Saturn** is structure, limitation, discipline—the container that holds the water so it can be poured precisely rather than spilled.
@@ -214,8 +214,8 @@ The gift of integration: **Faith as openness**. The integrated Star recognizes t
 ## Internal Links
 
 - **Adjacent Major Arcana**: [[16 - The Tower]] ← → [[18 - The Moon]]
-- **Element/Modality**: [[Aquarius]] | [[Fixed Air]]
-- **Planetary**: [[Saturn]] (traditional ruler) | [[Uranus]] (modern ruler) | [[Venus]] (as the Star itself)
+- **Element/Modality**: [[Aquarius ♒]] | [[Fixed Air]]
+- **Planetary**: [[Saturn ♄]] (traditional ruler) | [[Uranus ♅]] (modern ruler) | [[Venus ♀]] (as the Star itself)
 - **Path**: [[Path 28 - Netzach to Yesod]]
 - **Hebrew Letter**: [[Tzaddi]]
 - **Thematic Groupings**: [[Hope and Renewal]] | [[Post-Traumatic Growth]] | [[The Waters of Life]]

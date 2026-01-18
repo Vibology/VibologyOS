@@ -315,8 +315,8 @@ The Two of Swords is not the answer. It is the space in which the answer might b
 - [[Twos of the Tarot]] - All four Twos as expressions of Chokmah
 
 ### Planetary and Zodiacal
-- [[Moon]] - The emotional, instinctual, unconscious nature
-- [[Libra]] - The sign of balance, justice, relationship
+- [[Moon ☽]] - The emotional, instinctual, unconscious nature
+- [[Libra ♎]] - The sign of balance, justice, relationship
 - [[Moon in Libra]] - The specific combination of these energies
 
 ### Elemental and Suit

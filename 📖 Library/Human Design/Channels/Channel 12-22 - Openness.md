@@ -427,11 +427,11 @@ When the individual honors the wave, waits for clarity, and speaks only what is 
 - [[Gene Key 22 - Dishonour to Grace]]
 
 **Astrology:**
-- [[Venus]] (beauty, grace, emotional truth)
-- [[Mercury]] (communication, voice, articulation)
+- [[Venus ♀]] (beauty, grace, emotional truth)
+- [[Astrology/Planets/Mercury # ☿]] (communication, voice, articulation)
 - [[Moon in 3rd House]] (emotional communication)
-- [[Pisces]] (emotional openness)
-- [[Gemini]] (articulation, duality)
+- [[Pisces ♓]] (emotional openness)
+- [[Gemini ♊]] (articulation, duality)
 
 **Tarot:**
 - [[The High Priestess (II)]] (silent wisdom, discernment)

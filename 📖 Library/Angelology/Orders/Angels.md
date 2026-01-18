@@ -743,7 +743,7 @@ Listen.
 - [[Malkuth]] (Kingdom, the tenth Sephira, physical world)
 - [[Shaddai El Chai]] (Divine Name of Yesod)
 - [[Four Worlds]] (Atziluth, Briah, Yetzirah, Assiah)
-- [[Moon]] (planetary sphere of Yesod)
+- [[Moon ☽]] (planetary sphere of Yesod)
 
 ### Tarot
 - [[The High Priestess]] (II) — the veil, the threshold, the guardian of secrets
@@ -751,9 +751,9 @@ Listen.
 - [[The World]] (XXI) — the 32nd Path, crossing from Yesod to Malkuth
 
 ### Astrology
-- [[Moon]] (☽) — emotions, unconscious, cycles, receptivity
+- [[Moon ☽]] (☽) — emotions, unconscious, cycles, receptivity
 - [[4th House]] (home, roots, foundation, the private self)
-- [[Cancer]] (Moon-ruled sign, the mother, the nurturer, the intimate)
+- [[Cancer ♋]] (Moon-ruled sign, the mother, the nurturer, the intimate)
 
 ### Human Design
 - [[Root Center]] (pressure, momentum, drive, stress, adrenaline)
@@ -761,7 +761,7 @@ Listen.
 - [[Sacral Center]] (life force, generative power—linked to Yesod's fertility)
 
 ### Jungian Psychology
-- [[The Self]] (the God-image, the transpersonal center)
+- [[Folklore/Jungian Archetypes/The Self]] (the God-image, the transpersonal center)
 - [[Psychoid Archetype]] (structures at the boundary of psyche and matter)
 - [[Intuition]] (the subtle knowing, the guardian angel's voice)
 - [[Shadow]] (the rejected, the repressed—the Angels illuminate it)

@@ -326,8 +326,8 @@ Trust the passage.
 - [[Sixes of the Tarot]] - All four Sixes as expressions of Tiphareth
 
 ### Planetary and Zodiacal
-- [[Mercury]] - The planet of communication, travel, and guidance
-- [[Aquarius]] - The sign of detachment, vision, and the future
+- [[Astrology/Planets/Mercury # ☿]] - The planet of communication, travel, and guidance
+- [[Aquarius ♒]] - The sign of detachment, vision, and the future
 - [[Mercury in Aquarius]] - The specific combination of these energies
 
 ### Elemental and Suit

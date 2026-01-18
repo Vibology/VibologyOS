@@ -63,31 +63,31 @@ Overview is comprehensive and well-developed:
 
 | Planet | Glyph | Alchemical | Rulership | Status | Link |
 |--------|-------|------------|-----------|--------|------|
-| Sun | ☉ | Gold, Vital Spirit | Leo | ✅ Complete (Tier 3, 174 lines) | [[Sun]] |
-| Moon | ☽ | Silver, Soul | Cancer | ✅ Complete (Tier 3, 187 lines) | [[Moon]] |
+| Sun | ☉ | Gold, Vital Spirit | Leo | ✅ Complete (Tier 3, 174 lines) | [[Sun ☉]] |
+| Moon | ☽ | Silver, Soul | Cancer | ✅ Complete (Tier 3, 187 lines) | [[Moon ☽]] |
 
 ### Personal Planets (3 entries)
 
 | Planet | Glyph | Alchemical | Rulership | Status | Link |
 |--------|-------|------------|-----------|--------|------|
-| Mercury | ☿ | Quicksilver | Gemini, Virgo | ✅ Complete (Tier 3, 216 lines) | [[Mercury]] |
-| Venus | ♀ | Copper | Taurus, Libra | ✅ Complete (Tier 3, 213 lines) | [[Venus]] |
-| Mars | ♂ | Iron | Aries, Scorpio (traditional) | ✅ Complete (Tier 3, 209 lines) | [[Mars]] |
+| Mercury | ☿ | Quicksilver | Gemini, Virgo | ✅ Complete (Tier 3, 216 lines) | [[Astrology/Planets/Mercury # ☿]] |
+| Venus | ♀ | Copper | Taurus, Libra | ✅ Complete (Tier 3, 213 lines) | [[Venus ♀]] |
+| Mars | ♂ | Iron | Aries, Scorpio (traditional) | ✅ Complete (Tier 3, 209 lines) | [[Mars ♂]] |
 
 ### Social Planets (2 entries)
 
 | Planet | Glyph | Alchemical | Rulership | Status | Link |
 |--------|-------|------------|-----------|--------|------|
-| Jupiter | ♃ | Tin | Sagittarius, Pisces (traditional) | ✅ Complete (Tier 3, 220 lines) | [[Jupiter]] |
-| Saturn | ♄ | Lead | Capricorn, Aquarius (traditional) | ✅ Complete (Tier 3, 213 lines) | [[Saturn]] |
+| Jupiter | ♃ | Tin | Sagittarius, Pisces (traditional) | ✅ Complete (Tier 3, 220 lines) | [[Jupiter ♃]] |
+| Saturn | ♄ | Lead | Capricorn, Aquarius (traditional) | ✅ Complete (Tier 3, 213 lines) | [[Saturn ♄]] |
 
 ### Outer/Transpersonal Planets (3 entries)
 
 | Planet | Glyph | Discovery | Rulership | Status | Link |
 |--------|-------|-----------|-----------|--------|------|
-| Uranus | ♅ | 1781 | Aquarius (modern) | ✅ Complete (Tier 3, 208 lines) | [[Uranus]] |
-| Neptune | ♆ | 1846 | Pisces (modern) | ✅ Complete (Tier 3, 219 lines) | [[Neptune]] |
-| Pluto | ♇ | 1930 | Scorpio (modern) | ✅ Complete (Tier 3, 217 lines) | [[Pluto]] |
+| Uranus | ♅ | 1781 | Aquarius (modern) | ✅ Complete (Tier 3, 208 lines) | [[Uranus ♅]] |
+| Neptune | ♆ | 1846 | Pisces (modern) | ✅ Complete (Tier 3, 219 lines) | [[Neptune ♆]] |
+| Pluto | ♇ | 1930 | Scorpio (modern) | ✅ Complete (Tier 3, 217 lines) | [[Pluto ♇]] |
 
 **Planetary Categories:**
 - **Luminaries (2):** Sun, Moon — Primary life force and emotional body
@@ -127,33 +127,33 @@ All Planet entries are comprehensive Tier 3 (174-220 lines, avg 207.6 lines). Ea
 
 | Sign | Glyph | Modality | Element | Ruler | Status | Link |
 |------|-------|----------|---------|-------|--------|------|
-| Aries | ♈ | Cardinal | Fire | Mars | ✅ Complete (Tier 3, 220 lines) | [[Aries]] |
-| Leo | ♌ | Fixed | Fire | Sun | ✅ Complete (Tier 3, 220 lines) | [[Leo]] |
-| Sagittarius | ♐ | Mutable | Fire | Jupiter | ✅ Complete (Tier 3, 220 lines) | [[Sagittarius]] |
+| Aries | ♈ | Cardinal | Fire | Mars | ✅ Complete (Tier 3, 220 lines) | [[Aries ♈]] |
+| Leo | ♌ | Fixed | Fire | Sun | ✅ Complete (Tier 3, 220 lines) | [[Leo ♌]] |
+| Sagittarius | ♐ | Mutable | Fire | Jupiter | ✅ Complete (Tier 3, 220 lines) | [[Sagittarius ♐]] |
 
 ### Earth Signs (3 entries)
 
 | Sign | Glyph | Modality | Element | Ruler | Status | Link |
 |------|-------|----------|---------|-------|--------|------|
-| Taurus | ♉ | Fixed | Earth | Venus | ✅ Complete (Tier 3, 201 lines) | [[Taurus]] |
-| Virgo | ♍ | Mutable | Earth | Mercury | ✅ Complete (Tier 3, 198 lines) | [[Virgo]] |
-| Capricorn | ♑ | Cardinal | Earth | Saturn | ✅ Complete (Tier 3, 200 lines) | [[Capricorn]] |
+| Taurus | ♉ | Fixed | Earth | Venus | ✅ Complete (Tier 3, 201 lines) | [[Taurus ♉]] |
+| Virgo | ♍ | Mutable | Earth | Mercury | ✅ Complete (Tier 3, 198 lines) | [[Virgo ♍]] |
+| Capricorn | ♑ | Cardinal | Earth | Saturn | ✅ Complete (Tier 3, 200 lines) | [[Capricorn ♑]] |
 
 ### Air Signs (3 entries)
 
 | Sign | Glyph | Modality | Element | Ruler | Status | Link |
 |------|-------|----------|---------|-------|--------|------|
-| Gemini | ♊ | Mutable | Air | Mercury | ✅ Complete (Tier 3, 193 lines) | [[Gemini]] |
-| Libra | ♎ | Cardinal | Air | Venus | ✅ Complete (Tier 3, 196 lines) | [[Libra]] |
-| Aquarius | ♒ | Fixed | Air | Saturn (trad.), Uranus (mod.) | ✅ Complete (Tier 3, 198 lines) | [[Aquarius]] |
+| Gemini | ♊ | Mutable | Air | Mercury | ✅ Complete (Tier 3, 193 lines) | [[Gemini ♊]] |
+| Libra | ♎ | Cardinal | Air | Venus | ✅ Complete (Tier 3, 196 lines) | [[Libra ♎]] |
+| Aquarius | ♒ | Fixed | Air | Saturn (trad.), Uranus (mod.) | ✅ Complete (Tier 3, 198 lines) | [[Aquarius ♒]] |
 
 ### Water Signs (3 entries)
 
 | Sign | Glyph | Modality | Element | Ruler | Status | Link |
 |------|-------|----------|---------|-------|--------|------|
-| Cancer | ♋ | Cardinal | Water | Moon | ✅ Complete (Tier 3, 215 lines) | [[Cancer]] |
-| Scorpio | ♏ | Fixed | Water | Mars (trad.), Pluto (mod.) | ✅ Complete (Tier 3, 216 lines) | [[Scorpio]] |
-| Pisces | ♓ | Mutable | Water | Jupiter (trad.), Neptune (mod.) | ✅ Complete (Tier 3, 217 lines) | [[Pisces]] |
+| Cancer | ♋ | Cardinal | Water | Moon | ✅ Complete (Tier 3, 215 lines) | [[Cancer ♋]] |
+| Scorpio | ♏ | Fixed | Water | Mars (trad.), Pluto (mod.) | ✅ Complete (Tier 3, 216 lines) | [[Scorpio ♏]] |
+| Pisces | ♓ | Mutable | Water | Jupiter (trad.), Neptune (mod.) | ✅ Complete (Tier 3, 217 lines) | [[Pisces ♓]] |
 
 **Sign Categories:**
 - **Cardinal Signs (4):** Aries, Cancer, Libra, Capricorn — Initiating, season-starting
@@ -400,7 +400,7 @@ Transits and Timing is comprehensive and well-developed:
 ### The Window (Qabalah / I-Ching)
 - **Tree of Life planetary correspondences**
   - Seven classical planets = Seven lower Sephiroth
-  - [[Saturn]] = Binah, [[Jupiter]] = Chesed, [[Mars]] = Geburah, [[Sun]] = Tiphareth, [[Venus]] = Netzach, [[Mercury]] = Hod, [[Moon]] = Yesod
+  - [[Saturn ♄]] = Binah, [[Jupiter ♃]] = Chesed, [[Mars ♂]] = Geburah, [[Sun ☉]] = Tiphareth, [[Venus ♀]] = Netzach, [[Astrology/Planets/Mercury # ☿]] = Hod, [[Moon ☽]] = Yesod
   - See `📖 Library/The Window/` for Qabalistic framework
 - **Zodiac and Paths**
   - Twelve zodiac signs = Twelve simple letters = Twelve paths on Tree of Life
@@ -411,7 +411,7 @@ Transits and Timing is comprehensive and well-developed:
 ### Jungian Psychology
 - **Planets as Archetypes**
   - Each planet embodies a Jungian archetypal function
-  - [[Saturn]] = Senex (Wise Old Man), [[Jupiter]] = Puer (Divine Child), [[Venus]] = Anima, [[Mars]] = Shadow-warrior
+  - [[Saturn ♄]] = Senex (Wise Old Man), [[Jupiter ♃]] = Puer (Divine Child), [[Venus ♀]] = Anima, [[Mars ♂]] = Shadow-warrior
   - See `📖 Library/Folklore/Jungian Psychology/` for archetypal analysis
 - **Transits as Individuation process**
   - Major transits (Saturn Return, Uranus Opposition, Chiron Return) mark Individuation milestones
@@ -424,7 +424,7 @@ Transits and Timing is comprehensive and well-developed:
 ### Angelology
 - **Planetary Angels (Archangels)**
   - Each planet corresponds to an archangelic intelligence
-  - [[Saturn]] = Cassiel, [[Jupiter]] = Sachiel, [[Mars]] = Samael, [[Sun]] = Michael, [[Venus]] = Anael, [[Mercury]] = Raphael, [[Moon]] = Gabriel
+  - [[Saturn ♄]] = Cassiel, [[Jupiter ♃]] = Sachiel, [[Mars ♂]] = Samael, [[Sun ☉]] = Michael, [[Venus ♀]] = Anael, [[Astrology/Planets/Mercury # ☿]] = Raphael, [[Moon ☽]] = Gabriel
   - See `📖 Library/Angelology/` for planetary-angelic correspondences
 - **Zodiacal Angels**
   - Each sign corresponds to angelic guardians and decanal angels

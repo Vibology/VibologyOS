@@ -304,8 +304,8 @@ The question is not whether you will be wounded—openness to life guarantees wo
 - [[Threes of the Tarot]] - All four Threes as expressions of Binah
 
 ### Planetary and Zodiacal
-- [[Saturn]] - The planet of limitation, time, karma, and hard lessons
-- [[Libra]] - The sign of relationship, balance, partnership
+- [[Saturn ♄]] - The planet of limitation, time, karma, and hard lessons
+- [[Libra ♎]] - The sign of relationship, balance, partnership
 - [[Saturn in Libra]] - The specific combination of these energies (Saturn exalted)
 
 ### Elemental and Suit

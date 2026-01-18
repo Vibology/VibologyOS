@@ -315,8 +315,8 @@ Lie down. Let the swords finish their work. The night is almost over.
 - [[Tens of the Tarot]] - All four Tens as expressions of Malkuth
 
 ### Planetary and Zodiacal
-- [[Sun]] - The principle of vitality, consciousness, and illumination
-- [[Gemini]] - The sign of duality, communication, and fragmentation
+- [[Sun ☉]] - The principle of vitality, consciousness, and illumination
+- [[Gemini ♊]] - The sign of duality, communication, and fragmentation
 - [[Sun in Gemini]] - The specific combination of these energies
 
 ### Elemental and Suit

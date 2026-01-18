@@ -83,13 +83,13 @@ The fall is from Netzach to Hod—from the realm of *desire* into the realm of *
 
 ### Planetary Attribution: Mars – The Warrior-Liberator
 
-The Tower is attributed to **[[Mars]]**, the red planet, the god of war, destruction, force, conquest, and—crucially—**fertility**. Mars is not merely destructive; Mars is the force that *breaks open the seed* so the sprout can emerge. Mars tears down the old to make room for the new.
+The Tower is attributed to **[[Mars ♂]]**, the red planet, the god of war, destruction, force, conquest, and—crucially—**fertility**. Mars is not merely destructive; Mars is the force that *breaks open the seed* so the sprout can emerge. Mars tears down the old to make room for the new.
 
 Mars is the blade, the lightning bolt, the battering ram. Mars is **sudden, violent, irresistible force**. Where Saturn (associated with [[The Devil]]) is slow constriction and crystallization, Mars is explosive rupture. Mars does not negotiate—Mars *acts*.
 
 In Roman mythology, Mars is both the god of war and the god of agriculture, protector of the fields. This dual nature is crucial: **destruction and fertility are inseparable**. The old growth must be cut down for the new crop to flourish. The Tower is Mars as sacred warrior, demolishing what must fall so life can continue.
 
-Mars is exalted in [[Capricorn]] (the Devil's sign) and rules [[Aries]] and [[Scorpio]]. The Tower is Mars *acting against* the Capricornian structures of the Devil—the rigid forms, the material obsessions, the ego-monuments. Mars is the liberator who smashes the chains that Saturn forged.
+Mars is exalted in [[Capricorn ♑]] (the Devil's sign) and rules [[Aries ♈]] and [[Scorpio ♏]]. The Tower is Mars *acting against* the Capricornian structures of the Devil—the rigid forms, the material obsessions, the ego-monuments. Mars is the liberator who smashes the chains that Saturn forged.
 
 ### The Rider-Waite Symbolism: A Symbol-by-Symbol Analysis
 
@@ -198,7 +198,7 @@ The gift of integration: **Trusting the process of destruction**. The integrated
 ## Internal Links
 
 - **Adjacent Major Arcana**: [[15 - The Devil]] ← → [[17 - The Star]]
-- **Planetary**: [[Mars]]
+- **Planetary**: [[Mars ♂]]
 - **Path**: [[Path 27 - Netzach to Hod]]
 - **Hebrew Letter**: [[Peh]]
 - **Thematic Groupings**: [[The Destruction Cards]] | [[Ego-Shattering]] | [[Liberation through Catastrophe]]

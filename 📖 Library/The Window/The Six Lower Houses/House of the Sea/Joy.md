@@ -89,7 +89,7 @@ Joy is the antidote to Sea's shadow states—particularly numbness and dissatisf
 
 ## Internal Links
 
-- [[Sea]] - The House of emotional depth and relational encounter
+- [[House of the Sea]] - The House of emotional depth and relational encounter
 - [[Gate 58]] - The Joyous / Vitality (Root Center)
 - [[Hexagram 58]] - The Joyous (I-Ching)
 - [[Gene Keys - Shadow: Dissatisfaction, Gift: Vitality, Siddhi: Bliss]]

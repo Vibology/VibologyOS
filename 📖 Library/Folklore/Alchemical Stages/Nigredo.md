@@ -626,12 +626,12 @@ The Nigredo is the making of the darkness conscious. It is painful. It is unavoi
 - [[The Hanged Man]] - Suspension, sacrifice, waiting in Nigredo
 
 ### Related Astrology
-- [[Saturn]] - Lord of Nigredo, restriction, time, death
-- [[Pluto]] - Death and rebirth, transformation through crisis
+- [[Saturn ♄]] - Lord of Nigredo, restriction, time, death
+- [[Pluto ♇]] - Death and rebirth, transformation through crisis
 - [[8th House]] - Death, crisis, transformation, shared resources
 - [[12th House]] - Dissolution, isolation, hospital/prison, mystical death
-- [[Scorpio]] - Death, transformation, shadow work
-- [[Capricorn]] - Saturn's domain, restriction, mortality
+- [[Scorpio ♏]] - Death, transformation, shadow work
+- [[Capricorn ♑]] - Saturn's domain, restriction, mortality
 
 ### Related Human Design
 - [[Emotional Solar Plexus]] - Emotional waves as Nigredo experience

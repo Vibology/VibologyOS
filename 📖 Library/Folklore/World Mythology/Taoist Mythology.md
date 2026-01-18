@@ -846,11 +846,11 @@ Jung: *"The alchemical vessel is the psyche itself. The fire is suffering. The w
 - [[The World]] (Return to Tao, wholeness embodied, circulation complete)
 
 ### Astrology
-- [[Moon]] (Yin principle, receptivity, unconscious flow)
-- [[Sun]] (Yang principle, consciousness, vital force)
-- [[Jupiter]] (Expansion, Jade Emperor's celestial order)
-- [[Saturn]] (Contraction, Yin's restraint, elder wisdom)
-- [[Neptune]] (Dissolution, Tao as oceanic unconscious)
+- [[Moon ☽]] (Yin principle, receptivity, unconscious flow)
+- [[Sun ☉]] (Yang principle, consciousness, vital force)
+- [[Jupiter ♃]] (Expansion, Jade Emperor's celestial order)
+- [[Saturn ♄]] (Contraction, Yin's restraint, elder wisdom)
+- [[Neptune ♆]] (Dissolution, Tao as oceanic unconscious)
 
 ### Human Design
 - [[Gate 2]] (Receptivity, Yin, allowing vs. forcing)

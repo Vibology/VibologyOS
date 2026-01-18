@@ -809,9 +809,9 @@ To integrate the Principalities is to become the **conscious participant in coll
 - [[Four Worlds]] — Atziluth, Briah, Yetzirah, Assiah
 
 ### Astrological Correspondences
-- [[Venus]] — Planet of love, beauty, desire, values, relationship, social cohesion
-- [[Libra]] — Venus-ruled sign, balance, partnership, social harmony
-- [[Taurus]] — Venus-ruled sign, security, belonging, fertility
+- [[Venus ♀]] — Planet of love, beauty, desire, values, relationship, social cohesion
+- [[Libra ♎]] — Venus-ruled sign, balance, partnership, social harmony
+- [[Taurus ♉]] — Venus-ruled sign, security, belonging, fertility
 - [[Seventh House]] — Partnerships, relationships, social contracts
 
 ### Human Design System

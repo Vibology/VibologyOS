@@ -1117,10 +1117,10 @@ The **grain of wheat** in the Eleusinian mysteries = the **lotus in the mud** in
 - [[The World]] (Nirvana, completion, the unconditioned)
 
 ### Astrology
-- [[Jupiter]] (Expansive wisdom, Dharma teachings)
-- [[Saturn]] (Karma, discipline, the Middle Way's structure)
-- [[Neptune]] (Dissolution, formless realms, the oceanic Deva state)
-- [[Pluto]] (Ego death, Bardo, transformation through crisis)
+- [[Jupiter ♃]] (Expansive wisdom, Dharma teachings)
+- [[Saturn ♄]] (Karma, discipline, the Middle Way's structure)
+- [[Neptune ♆]] (Dissolution, formless realms, the oceanic Deva state)
+- [[Pluto ♇]] (Ego death, Bardo, transformation through crisis)
 - [[Chiron]] (The wounded healer, the Buddha recognizing suffering)
 
 ### Human Design

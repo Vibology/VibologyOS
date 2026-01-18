@@ -312,8 +312,8 @@ The question the Three asks is not "How can I skip to mastery?" but "Am I willin
 - [[Threes of the Tarot]] - All four Threes as expressions of Binah
 
 ### Planetary and Astrological
-- [[Mars]] - The planet of energy, action, and disciplined force
-- [[Capricorn]] - The sign of structure, ambition, and enduring achievement
+- [[Mars ♂]] - The planet of energy, action, and disciplined force
+- [[Capricorn ♑]] - The sign of structure, ambition, and enduring achievement
 - [[Mars in Capricorn]] - Constructive force, energy yoked to structure
 - [[Second Decan of Capricorn]] - The middle phase of the climb
 

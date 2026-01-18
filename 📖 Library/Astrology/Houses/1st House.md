@@ -9,17 +9,16 @@ natural_sign: Aries
 planetary_joy: Mercury
 theme: Identity, The Ascendant
 ---
-
-# 1st House: Identity and the Mask of Incarnation
-
-## Archetypal Theme
-
-The **1st House** is the **Ascendant**—the eastern horizon at the moment of birth, the point where spirit descends into matter. This is the house of **core identity**: not the inner self ([[Sun]]), but the **presentation** of self, the costume worn in this incarnation. It is the "I am" before any qualification.
-
-The Ascendant is the **rising sign**—the zodiacal degree ascending on the eastern horizon at birth. It is the first breath, the first cry, the first gesture of embodied consciousness. Where the [[Sun]] represents essence, the Ascendant represents **emergence**—how that essence takes form and meets the world.
+*Identity and the Mask of Incarnation*
 
 ---
+## Archetypal Theme
 
+The **1st House** is the **Ascendant**—the eastern horizon at the moment of birth, the point where spirit descends into matter. This is the house of **core identity**: not the inner self ([[Sun ☉]]), but the **presentation** of self, the costume worn in this incarnation. It is the "I am" before any qualification.
+
+The Ascendant is the **rising sign**—the zodiacal degree ascending on the eastern horizon at birth. It is the first breath, the first cry, the first gesture of embodied consciousness. Where the [[Sun ☉]] represents essence, the Ascendant represents **emergence**—how that essence takes form and meets the world.
+
+---
 ## Angular House Significance
 
 The 1st House is **Angular**—one of the four pillars that structure the chart. Angular houses (1st, 4th, 7th, 10th) correspond to the cardinal points of the compass and mark critical life areas:
@@ -32,7 +31,6 @@ The 1st House is **Angular**—one of the four pillars that structure the chart.
 The 1st House specifically governs **identity and self-direction**—the capacity to initiate one's own trajectory rather than being carried by circumstance.
 
 ---
-
 ## Life Domain
 
 The 1st House governs:
@@ -40,30 +38,27 @@ The 1st House governs:
 - **Personality presentation** and first impressions (the "vibe" you emanate)
 - **Life approach** and instinctive response patterns (fight, flight, engage, withdraw)
 - **Vitality** and constitutional strength (health, resilience, life force)
-- **The ego-vehicle** — The mask through which the [[Sun]]'s light shines
+- **The ego-vehicle** — The mask through which the [[Sun ☉]]'s light shines
 
 This is the threshold between inner and outer, the interface through which the soul meets the world. The 1st House is not *who you are* but **how you are**—the medium, not the message.
 
 ---
-
 ## Natural Correspondence
 
-**[[Aries]]** and **[[Mars]]** — The initiator, the warrior, the raw thrust of life force into embodied form.
+**[[Aries ♈]]** and **[[Mars ♂]]** — The initiator, the warrior, the raw thrust of life force into embodied form.
 
 Aries is the first sign, the cardinal fire that erupts at the vernal equinox. It does not strategize or reflect; it **acts**. The 1st House shares this quality: it is the impulse to *be*, to assert, to claim space in the world.
 
 Mars, as ruler of Aries, governs the 1st House naturally. Mars is the principle of **individuation through action**—the courage to separate from the collective and say "I am distinct."
 
 ---
-
 ## Planetary Joy
 
-**[[Mercury]]** joys in the 1st House as "significator of the tongue and fancy"—the mind that names the self, the voice that declares "I am this."
+**[[Astrology/Planets/Mercury # ☿]]** joys in the 1st House as "significator of the tongue and fancy"—the mind that names the self, the voice that declares "I am this."
 
 In traditional astrology, Mercury "rejoices" here because the 1st House is where consciousness **articulates itself**. Identity is not silent; it must be spoken, gestured, embodied. Mercury provides the language through which the self announces its presence.
 
 ---
-
 ## The Chart Ruler
 
 The **ruler of the 1st House** (the planet ruling the Ascendant sign) is called the **chart ruler**. This planet shows *how* the life unfolds—the primary avenue through which the incarnation manifests its purpose.
@@ -76,21 +71,19 @@ The **ruler of the 1st House** (the planet ruling the Ascendant sign) is called 
 The chart ruler's **sign, house, and aspects** reveal the soul's primary operating system in this lifetime.
 
 ---
-
 ## Planets Through the 1st House
 
 ### Sun in the 1st House
 
-When the [[Sun]] is in the 1st House, **identity and essence merge**. There is no gap between who they are and how they present. These individuals radiate solar confidence, but they can struggle with self-absorption—the ego-mask becomes rigid, mistaking presentation for depth.
+When the [[Sun ☉]] is in the 1st House, **identity and essence merge**. There is no gap between who they are and how they present. These individuals radiate solar confidence, but they can struggle with self-absorption—the ego-mask becomes rigid, mistaking presentation for depth.
 
 **Gift:** Charisma, natural leadership, unshakeable sense of self
 **Challenge:** Difficulty seeing others as separate; narcissism
 
 ---
-
 ### Moon in the 1st House
 
-When the [[Moon]] is in the 1st House, **emotion is the primary identity**. These individuals wear their feelings on the surface; their moods shape their entire presentation. They are deeply empathic but can be overwhelmed by emotional reactivity.
+When the [[Moon ☽]] is in the 1st House, **emotion is the primary identity**. These individuals wear their feelings on the surface; their moods shape their entire presentation. They are deeply empathic but can be overwhelmed by emotional reactivity.
 
 **Gift:** Emotional transparency, nurturance, receptivity
 **Challenge:** Mood-driven identity; difficulty maintaining boundaries
@@ -99,7 +92,7 @@ When the [[Moon]] is in the 1st House, **emotion is the primary identity**. Thes
 
 ### Saturn in the 1st House
 
-When [[Saturn]] is in the 1st House, **identity is tested by limitation**. These individuals often feel the weight of existence early in life—chronic illness, parental severity, or an internalized sense of inadequacy. Over time, Saturn here builds **earned authority**: the self forged through endurance.
+When [[Saturn ♄]] is in the 1st House, **identity is tested by limitation**. These individuals often feel the weight of existence early in life—chronic illness, parental severity, or an internalized sense of inadequacy. Over time, Saturn here builds **earned authority**: the self forged through endurance.
 
 **Gift:** Maturity, resilience, gravitas
 **Challenge:** Self-negation, rigidity, fear of visibility
@@ -108,7 +101,7 @@ When [[Saturn]] is in the 1st House, **identity is tested by limitation**. These
 
 ### Uranus in the 1st House
 
-When [[Uranus]] is in the 1st House, **identity is revolutionary**. These individuals cannot conform; their presence disrupts norms. They are the "strange ones," the mutants, the ones who embody the future before others are ready.
+When [[Uranus ♅]] is in the 1st House, **identity is revolutionary**. These individuals cannot conform; their presence disrupts norms. They are the "strange ones," the mutants, the ones who embody the future before others are ready.
 
 **Gift:** Originality, innovation, freedom
 **Challenge:** Alienation, instability, inability to integrate
@@ -188,9 +181,9 @@ The evolution of the 1st House is learning that **identity is not fixed**—the 
 
 ### Within Astrology
 - **Chart Ruler:** The planet ruling your Ascendant sign reveals how life unfolds
-- **[[Aries]]:** Natural ruler of the 1st House
-- **[[Mars]]:** Planetary ruler of Aries and natural significator of the 1st House
-- **[[Sun]]:** Essence and identity (contrasted with 1st House presentation)
+- **[[Aries ♈]]:** Natural ruler of the 1st House
+- **[[Mars ♂]]:** Planetary ruler of Aries and natural significator of the 1st House
+- **[[Sun ☉]]:** Essence and identity (contrasted with 1st House presentation)
 - **7th House:** The Descendant—the mirror opposite, revealing what you project onto others
 
 ### Cross-System Integration

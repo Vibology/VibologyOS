@@ -82,7 +82,7 @@ The frustration of lack of progress is itself a major test. Temperance asks: *Ca
 
 ### Astrological Attribution: Sagittarius – Mutable Fire
 
-Temperance is attributed to **[[Sagittarius]]**, the sign of Mutable Fire. Sagittarius is the centaur-archer, half-animal and half-human, aiming an arrow at a distant target. This is the principle of **synthesis**—the integration of instinct and intellect, body and spirit, earthly and celestial.
+Temperance is attributed to **[[Sagittarius ♐]]**, the sign of Mutable Fire. Sagittarius is the centaur-archer, half-animal and half-human, aiming an arrow at a distant target. This is the principle of **synthesis**—the integration of instinct and intellect, body and spirit, earthly and celestial.
 
 Sagittarius is ruled by **Jupiter**, the planet of expansion, philosophy, optimism, and higher learning. Jupiter seeks meaning, quests for truth, synthesizes disparate knowledge into coherent wisdom. Temperance embodies Jupiter's expansive yet disciplined energy: not the reckless leap but the *aimed shot*.
 
@@ -191,8 +191,8 @@ The gift of integration: **Learning when to act and when to wait**. Temperance d
 ## Internal Links
 
 - **Adjacent Major Arcana**: [[13 - Death]] ← → [[15 - The Devil]]
-- **Element/Modality**: [[Sagittarius]] | [[Mutable Fire]]
-- **Planetary**: [[Jupiter]]
+- **Element/Modality**: [[Sagittarius ♐]] | [[Mutable Fire]]
+- **Planetary**: [[Jupiter ♃]]
 - **Path**: [[Path 25 - Yesod to Tiphareth]]
 - **Hebrew Letter**: [[Samekh]]
 - **Thematic Groupings**: [[The Alchemical Path]] | [[Balance and Integration]] | [[The Dark Night]]

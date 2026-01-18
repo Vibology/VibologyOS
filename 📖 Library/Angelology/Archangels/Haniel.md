@@ -505,7 +505,7 @@ In **[[Jungian psychology]]**, Haniel is the **Anima**—the soul-image of beaut
 
 - [[Netzach]] — Haniel's Sephirah, the sphere of Victory and the Life Force
 - [[Principalities]] — Angelic order governed by Haniel
-- [[Venus]] — Planetary sphere of love, beauty, harmony
+- [[Venus ♀]] — Planetary sphere of love, beauty, harmony
 - [[The Empress]] — Tarot Trump III, the archetype of fertility and beauty
 - [[Sevens]] — Tarot cards of endurance and persistence (Haniel's domain)
 - [[Metatron]] — Archangel of Kether, the Crown

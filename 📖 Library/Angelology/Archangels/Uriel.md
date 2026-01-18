@@ -765,7 +765,7 @@ Uriel, as the **Archangel of Earth**, embodies this teaching: **the material wor
 ### Cross-System Integration
 - **Qabalah:** [[Malkuth]] | [[Daath]] | [[Tree of Life]] | [[Adonai ha-Aretz]] | [[The Shekinah]] | [[Qlippoth]] (shadow of Malkuth)
 - **Tarot:** [[The World]] | [[The Hierophant]] | [[The Devil]] | [[Ace of Pentacles]] | [[Pentacles Suit]]
-- **Astrology:** [[Saturn]] (rulership of Saturday, earth, time, karma) | [[Capricorn]] (earth sign, Saturn-ruled) | [[Taurus]] (fixed earth, embodiment)
+- **Astrology:** [[Saturn ♄]] (rulership of Saturday, earth, time, karma) | [[Capricorn ♑]] (earth sign, Saturn-ruled) | [[Taurus ♉]] (fixed earth, embodiment)
 - **Human Design:** [[Root Center]] (pressure, stress, adrenaline) | [[Gate 58]] (Vitality, Joy of Mastery)
 - **Jungian Psychology:** [[The Shadow]] | [[Katabasis]] (descent archetype) | [[Imago Dei]] (God-image in matter) | [[Coniunctio]] (sacred marriage of opposites)
 - **Alchemy:** [[Nigredo]] (blackening, putrefaction) | [[Coagulation]] (final solidification) | [[The Philosopher's Stone]]

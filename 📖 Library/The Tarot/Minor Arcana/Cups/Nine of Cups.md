@@ -205,8 +205,8 @@ When the Nine of Cups emerges in reading or contemplation, consider:
 
 ## Internal Links
 
-- [[Jupiter]] - The great benefic, ruler of the Nine of Cups through Pisces
-- [[Pisces]] - The mutable water sign, Jupiter's ancient domicile
+- [[Jupiter ♃]] - The great benefic, ruler of the Nine of Cups through Pisces
+- [[Pisces ♓]] - The mutable water sign, Jupiter's ancient domicile
 - [[Yesod]] - The ninth Sephirah, Foundation, Moon's sphere
 - [[Eight of Cups]] - The departure that precedes the Nine's arrival
 - [[Ten of Cups]] - The completion that follows the Nine's fulfillment

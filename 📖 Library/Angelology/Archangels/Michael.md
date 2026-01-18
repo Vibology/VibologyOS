@@ -24,7 +24,7 @@ invocation: St. Michael Prayer, LBRP
 **Title:** Prince of the Presence, Commander of the Heavenly Hosts, Defender of the Faith, Angel of the Sun
 **Sephirah:** [[Tiphareth]] (Beauty, 6th emanation)
 **Order Governed:** [[Virtues]] (*Malachim* - "Kings")
-**Planetary Sphere:** [[Sun]] (Shemesh)
+**Planetary Sphere:** [[Sun ☉]] (Shemesh)
 **Element:** Fire (solar radiance, purifying flame, discriminating sword)
 **Direction:** South (solar zenith, Fire quarter in LBRP)
 **Day:** Sunday (Day of the Sun)
@@ -64,7 +64,7 @@ To encounter Michael is to meet **the demand for spiritual integrity**. He does 
 | **Sephirah Overseen** | [[Tiphareth]] (Beauty, Harmony, the Higher Self, 6th emanation) |
 | **Order Commanded** | [[Virtues]] (*Malachim* - "Kings" or "Angelic Kings") |
 | **Triad** | [[The Three Triads\|Second Triad]] (Governors of cosmic forces) |
-| **Planetary Sphere** | [[Sun]] (Shemesh) - radiance, vitality, center, Higher Self |
+| **Planetary Sphere** | [[Sun ☉]] (Shemesh) - radiance, vitality, center, Higher Self |
 | **Element** | Fire (purifying flame, solar radiance, the sword's heat) |
 | **Direction** | South (zenith, height of the sun, Fire quarter) |
 | **Day of Week** | Sunday (Dies Solis, the Sun's day) |
@@ -78,7 +78,7 @@ To encounter Michael is to meet **the demand for spiritual integrity**. He does 
 | **Tarot (Minor)** | All Sixes (Tiphareth's number - harmony, integration, the centered heart), especially [[Six of Wands]] (victory, the solar hero crowned) |
 | **I-Ching** | Hexagram 1 (Ch'ien/The Creative) - pure yang, solar force, heaven's will |
 | **Human Design** | [[G-Center]] (Identity, Love, Direction - the Self's seat) |
-| **Astrological** | [[Sun]] (luminary, vital center, core identity, will to individuate) |
+| **Astrological** | [[Sun ☉]] (luminary, vital center, core identity, will to individuate) |
 | **Metal** | Gold (incorruptible, solar, the king of metals) |
 | **Gemstone** | Topaz, amber, citrine, tiger's eye (solar stones of clarity and courage) |
 | **Incense** | Frankincense, copal, benzoin, olibanum (solar resins of purification and sanctification) |
@@ -946,7 +946,7 @@ This is **Michael's teaching**—humility (recognizing you are not God) and purp
 - [[Tiphareth]] — The Sephira Michael oversees
 - [[Virtues]] — The angelic order Michael commands (Malachim)
 - [[The Three Triads]] — Michael's place in the Second Triad (Governors)
-- [[Sun]] — Michael's planetary sphere
+- [[Sun ☉]] — Michael's planetary sphere
 - [[Chesed]] — The Sephira of Mercy (right hand, balances Michael's solar center)
 - [[Geburah]] — The Sephira of Severity (left hand, balances Michael's solar center)
 
@@ -969,8 +969,8 @@ This is **Michael's teaching**—humility (recognizing you are not God) and purp
 - [[Ace of Swords]] — The flaming sword, discrimination, truth
 
 ### Astrological and Planetary
-- [[Sun]] — Michael's luminary, vitality, Higher Self
-- [[Leo]] — The Sun's rulership, solar sovereignty, the lion-hearted
+- [[Sun ☉]] — Michael's luminary, vitality, Higher Self
+- [[Leo ♌]] — The Sun's rulership, solar sovereignty, the lion-hearted
 - [[Solar Return]] — Annual chart marking the Sun's return to natal position
 - [[Fifth House]] — House of the Sun, creativity, self-expression
 
@@ -980,8 +980,8 @@ This is **Michael's teaching**—humility (recognizing you are not God) and purp
 - [[Undefined G-Center]] — Fluid identity, sampling others' direction
 
 ### Jungian and Archetypal
-- [[The Self]] — The Higher Self, the imago Dei, the solar logos
-- [[The Hero]] — The solar hero, dragon-slayer, individuation journey
+- [[Folklore/Jungian Archetypes/The Self]] — The Higher Self, the imago Dei, the solar logos
+- [[Folklore/Jungian Archetypes/The Hero]] — The solar hero, dragon-slayer, individuation journey
 - [[The Shadow]] — The dragon, what is denied, must be integrated
 - [[Individuation]] — The process Michael facilitates through discrimination
 - [[The Transcendent Function]] — Holding opposites until the third emerges

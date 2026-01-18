@@ -175,9 +175,9 @@ The teaching: The King who hoards is not king at all—he is prisoner of his hoa
 - [[Fire Element]] - Will, creativity, sovereignty, active force
 - [[Earth Element]] - Manifestation, resources, structure, endurance
 - [[Fire of Earth]] - Will manifesting as tangible structure
-- [[Taurus]] - Fixed earth, immovable strength, patient accumulation
-- [[Virgo]] - Mutable earth, intelligent organization, practical mastery
-- [[Capricorn]] - Cardinal earth, executive power, disciplined sovereignty
+- [[Taurus ♉]] - Fixed earth, immovable strength, patient accumulation
+- [[Virgo ♍]] - Mutable earth, intelligent organization, practical mastery
+- [[Capricorn ♑]] - Cardinal earth, executive power, disciplined sovereignty
 
 ### Thematic Groupings
 - [[Cards of Mastery]] - Excellence, sovereignty, competence

@@ -439,8 +439,8 @@ The Seven of Wands teaches: **Sometimes the greatest victory is simply not yield
 - [[The Astral Triangle]] - Netzach, Hod, Yesod: the realm of Personality
 
 ### Planetary and Astrological
-- [[Mars]] - The warrior planet: aggression, assertion, will, courage, conflict
-- [[Leo]] - The fixed fire sign: courage, pride, sovereignty, creative mastery
+- [[Mars ♂]] - The warrior planet: aggression, assertion, will, courage, conflict
+- [[Leo ♌]] - The fixed fire sign: courage, pride, sovereignty, creative mastery
 - [[Mars in Leo]] - Strategic courage, leonine pride, holding ground with dignity
 - [[First Decan of Leo]] - The specific zodiacal section (00°-10° Leo)
 

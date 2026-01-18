@@ -301,8 +301,8 @@ The invitation is to give freely and receive gratefully, to recognize interdepen
 - [[Sixes of the Tarot]] - All four Sixes as expressions of Tiphareth
 
 ### Planetary and Astrological
-- [[Moon]] - The planet of cycles, intuition, nurturance, emotion
-- [[Taurus]] - The sign of material stability, abundance, sensory pleasure
+- [[Moon ☽]] - The planet of cycles, intuition, nurturance, emotion
+- [[Taurus ♉]] - The sign of material stability, abundance, sensory pleasure
 - [[Moon in Taurus]] - Intuitive generosity grounded in material abundance
 - [[Second Decan of Taurus]] - The heart of spring abundance
 

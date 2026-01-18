@@ -201,7 +201,7 @@ The gift of integration: **Standing in your own light without apology—and with
 - **Path**: [[Path 30 - Hod to Yesod]]
 - **Hebrew Letter**: [[Resh]]
 - **Thematic Groupings**: [[The Solar Path]] | [[Integration and Wholeness]] | [[Return to Innocence]]
-- **Cross-References**: [[Apollo]], [[Ra]], [[Helios]], [[The Divine Child]], [[Alchemical Gold]], [[The Fool]]
+- **Cross-References**: [[Apollo]], [[Ra]], [[Helios]], [[Folklore/Jungian Archetypes/The Divine Child]], [[Alchemical Gold]], [[The Fool]]
 
 ---
 

@@ -221,7 +221,7 @@ date_updated: 2026-01-15
 
 ### Jungian Psychology
 - **Archetypes:** Major Arcana embody Jungian archetypes
-  - [[The Shadow]] (Devil, Moon), [[Anima/Animus]] (High Priestess/Emperor), [[The Self]] (World)
+  - [[The Shadow]] (Devil, Moon), [[Anima/Animus]] (High Priestess/Emperor), [[Folklore/Jungian Archetypes/The Self]] (World)
   - See [[Folklore]] for Jungian archetypal analysis
 
 ### Human Design

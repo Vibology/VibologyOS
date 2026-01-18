@@ -80,7 +80,7 @@ Netzach is the realm of *desire*—"I want, I love, I feel." Malkuth is the real
 
 ### Astrological Attribution: Pisces – Mutable Water
 
-The Moon is attributed to **[[Pisces]]**, the sign of Mutable Water. Pisces is the **ocean**, the boundless, formless, all-dissolving medium. Pisces is compassion (the capacity to *feel with* another, to lose the boundary between self and other) and also delusion (the inability to distinguish self from other, the drowning in undifferentiated emotion).
+The Moon is attributed to **[[Pisces ♓]]**, the sign of Mutable Water. Pisces is the **ocean**, the boundless, formless, all-dissolving medium. Pisces is compassion (the capacity to *feel with* another, to lose the boundary between self and other) and also delusion (the inability to distinguish self from other, the drowning in undifferentiated emotion).
 
 Pisces is ruled by **Jupiter** (traditional) and **Neptune** (modern):
 - **Jupiter** is expansion, faith, meaning-making—Pisces seeks the *universal*, the transcendent, the all-encompassing.
@@ -214,8 +214,8 @@ The Moon is also the recognition that **not all knowledge is conscious**. The bo
 ## Internal Links
 
 - **Adjacent Major Arcana**: [[17 - The Star]] ← → [[19 - The Sun]]
-- **Element/Modality**: [[Pisces]] | [[Mutable Water]]
-- **Planetary**: [[Jupiter]] (traditional ruler) | [[Neptune]] (modern ruler)
+- **Element/Modality**: [[Pisces ♓]] | [[Mutable Water]]
+- **Planetary**: [[Jupiter ♃]] (traditional ruler) | [[Neptune ♆]] (modern ruler)
 - **Path**: [[Path 29 - Netzach to Malkuth]]
 - **Hebrew Letter**: [[Qoph]]
 - **Thematic Groupings**: [[The Unconscious]] | [[The Dark Night]] | [[Illusion and Projection]]

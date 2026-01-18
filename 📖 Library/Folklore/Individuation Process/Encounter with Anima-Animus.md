@@ -304,13 +304,13 @@ A **soul-connected individual** who has built the bridge between ego and unconsc
 ## V. Cross-References
 
 **Jungian Archetypes:**
-- [[The Anima]] (primary archetype of this stage for men)
-- [[The Animus]] (primary archetype of this stage for women)
+- [[Folklore/Jungian Archetypes/The Anima]] (primary archetype of this stage for men)
+- [[Folklore/Jungian Archetypes/The Animus]] (primary archetype of this stage for women)
 - [[The Shadow]] (must be integrated before Anima/Animus work)
-- [[The Self]] (the Anima/Animus is the bridge to the Self)
-- [[The Divine Child]] (product of the sacred marriage)
+- [[Folklore/Jungian Archetypes/The Self]] (the Anima/Animus is the bridge to the Self)
+- [[Folklore/Jungian Archetypes/The Divine Child]] (product of the sacred marriage)
 - [[The Wise Old Man]] (mature Animus)
-- [[The Great Mother]] (contains the Anima)
+- [[Folklore/Jungian Archetypes/The Great Mother]] (contains the Anima)
 
 **Hero's Journey:**
 - [[The Reward]] (claiming the bride, the sacred marriage)
@@ -335,10 +335,10 @@ A **soul-connected individual** who has built the bridge between ego and unconsc
 - [[XVII - The Star]] (Anima as muse, hope, inspiration)
 
 **Astrology:**
-- [[Venus]] (Anima—desire, beauty, eros, attraction)
-- [[Mars]] (Animus—assertion, action, logos, will)
-- [[Moon]] (soul, emotional depth, receptivity)
-- [[Neptune]] (mystical union, dissolution of boundaries)
+- [[Venus ♀]] (Anima—desire, beauty, eros, attraction)
+- [[Mars ♂]] (Animus—assertion, action, logos, will)
+- [[Moon ☽]] (soul, emotional depth, receptivity)
+- [[Neptune ♆]] (mystical union, dissolution of boundaries)
 - [[7th House]] (partnerships, projection, the other as mirror)
 
 **Human Design:**

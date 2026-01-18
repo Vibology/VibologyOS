@@ -602,11 +602,11 @@ Fermentation is dangerous. The unconscious, stirred, can overwhelm the ego (psyc
 - [[Hexagram 48 - The Well]] - Drawing spirit from the depths, the hidden ferment
 
 ### Related Astrology
-- [[Neptune]] - Planet of dissolution, intoxication, spirit, divine madness
-- [[Pluto]] - Planet of death, rot, transformation, resurrection
-- [[Saturn]] - Planet of the tomb, restriction, the Dark Night, testing
-- [[Pisces]] - Sign of dissolution, fermentation, spiritual gestation
-- [[Scorpio]] - Sign of death, putrefaction, transformation
+- [[Neptune ♆]] - Planet of dissolution, intoxication, spirit, divine madness
+- [[Pluto ♇]] - Planet of death, rot, transformation, resurrection
+- [[Saturn ♄]] - Planet of the tomb, restriction, the Dark Night, testing
+- [[Pisces ♓]] - Sign of dissolution, fermentation, spiritual gestation
+- [[Scorpio ♏]] - Sign of death, putrefaction, transformation
 - [[8th House]] - House of death, sex, transformation, the fermentation crisis
 - [[12th House]] - House of the tomb, the Dark Night, hidden gestation
 

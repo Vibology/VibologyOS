@@ -386,8 +386,8 @@ The card does not answer this question. It simply presents the figure on the bat
 - [[Cards of Chokmah]] - All Twos across the suits
 
 ### Planetary and Astrological
-- [[Mars]] - The warrior god: action, aggression, courage
-- [[Aries]] - The Ram: pioneer, initiator, cardinal fire
+- [[Mars ♂]] - The warrior god: action, aggression, courage
+- [[Aries ♈]] - The Ram: pioneer, initiator, cardinal fire
 - [[Mars in Aries]] - The warrior in his native sign, pure initiative
 - [[First Decan of Aries]] - The purest expression of Aries energy
 

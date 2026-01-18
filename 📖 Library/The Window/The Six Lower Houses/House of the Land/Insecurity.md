@@ -88,7 +88,7 @@ Insecurity is particularly challenged by **Ambition** (Gate 16)—because master
 
 ## Internal Links
 
-- [[Land]] - The House of embodied foundation and material grounding
+- [[House of the Land]] - The House of embodied foundation and material grounding
 - [[Gate 48]] - The Well / Depth (Spleen Center)
 - [[Hexagram 48]] - The Well (I-Ching)
 - [[Gene Keys - Shadow: Inadequacy, Gift: Resourcefulness, Siddhi: Wisdom]]

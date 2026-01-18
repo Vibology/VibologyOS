@@ -447,8 +447,8 @@ The Eight of Wands teaches: **There are moments when you must release control an
 - [[The Astral Triangle]] - Netzach, Hod, Yesod: the realm of Personality
 
 ### Planetary and Astrological
-- [[Mercury]] - The messenger planet: communication, speed, intellect, travel, trickster
-- [[Sagittarius]] - The mutable fire sign: the quest, the arrow, philosophy, far-ranging thought
+- [[Astrology/Planets/Mercury # ☿]] - The messenger planet: communication, speed, intellect, travel, trickster
+- [[Sagittarius ♐]] - The mutable fire sign: the quest, the arrow, philosophy, far-ranging thought
 - [[Mercury in Sagittarius]] - Restless intellect, intuitive leaps, communication across distance, bluntness
 - [[Second Decan of Sagittarius]] - The specific zodiacal section (10°-20° Sagittarius)
 

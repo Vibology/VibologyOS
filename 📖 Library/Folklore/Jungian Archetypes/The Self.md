@@ -596,14 +596,14 @@ The Self, as the **union of opposites**, inherently transcends binary gender cat
 ### Jungian Archetypes
 
 - [[The Shadow]] - The "apprentice-piece" of individuation; must be integrated before the Self can emerge
-- [[The Anima]] - The bridge to the Self in men; the feminine soul-guide
-- [[The Animus]] - The bridge to the Self in women; the masculine logos-principle
-- [[The Hero]] - The ego's vehicle; must surrender dominance to serve the Self
-- [[The Persona]] - The social mask; must be relativized for the Self to emerge
+- [[Folklore/Jungian Archetypes/The Anima]] - The bridge to the Self in men; the feminine soul-guide
+- [[Folklore/Jungian Archetypes/The Animus]] - The bridge to the Self in women; the masculine logos-principle
+- [[Folklore/Jungian Archetypes/The Hero]] - The ego's vehicle; must surrender dominance to serve the Self
+- [[Folklore/Jungian Archetypes/The Persona]] - The social mask; must be relativized for the Self to emerge
 - [[The Wise Old Man]] - A manifestation of the Self as superior insight and spirit
-- [[The Divine Child]] - A manifestation of the Self as futurity and rebirth
-- [[The Great Mother]] - The Self in its nourishing and devouring totality
-- [[The Joker]] - The disruptor that forces ego-death and rebirth of the Self
+- [[Folklore/Jungian Archetypes/The Divine Child]] - A manifestation of the Self as futurity and rebirth
+- [[Folklore/Jungian Archetypes/The Great Mother]] - The Self in its nourishing and devouring totality
+- [[Folklore/Jungian Archetypes/The Joker]] - The disruptor that forces ego-death and rebirth of the Self
 
 ### Hero's Journey Stages
 
@@ -640,7 +640,7 @@ The Self, as the **union of opposites**, inherently transcends binary gender cat
 ### Astrology
 
 - [[The Sun]] - Core identity and life force; the "Self" in natal astrology
-- [[Aquarius]] - The Water Bearer; symbol of the coming Aeon and the Self
+- [[Aquarius ♒]] - The Water Bearer; symbol of the coming Aeon and the Self
 - [[The Whole Chart]] - The Self as the totality of the natal pattern
 - [[Midheaven]] - The Self's calling and public expression
 - [[Ascendant]] - The Self's embodiment and appearance

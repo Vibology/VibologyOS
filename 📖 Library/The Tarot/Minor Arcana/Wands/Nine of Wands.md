@@ -421,8 +421,8 @@ The Nine of Wands teaches: **Your scars are not proof of weakness. They are proo
 - [[The Astral Triangle]] - Netzach, Hod, Yesod: the realm of Personality
 
 ### Planetary and Astrological
-- [[Moon]] - The luminary of emotion, memory, protection, cycles, the unconscious
-- [[Sagittarius]] - The mutable fire sign: the quest, the arrow, philosophy, the far horizon
+- [[Moon ☽]] - The luminary of emotion, memory, protection, cycles, the unconscious
+- [[Sagittarius ♐]] - The mutable fire sign: the quest, the arrow, philosophy, the far horizon
 - [[Moon in Sagittarius]] - Emotional restlessness, questing for security, optimism scarred by experience
 - [[Third Decan of Sagittarius]] - The specific zodiacal section (20°-30° Sagittarius)
 

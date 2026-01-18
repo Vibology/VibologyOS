@@ -77,7 +77,7 @@ Yesod is the realm of images, dreams, the etheric blueprint. Malkuth is the real
 
 ### Planetary Attribution: Saturn – The Lord of Time
 
-The World is attributed to **[[Saturn]]**—the planet of time, structure, boundaries, limits, discipline, and earned authority. This may seem paradoxical for a card depicting liberation and completion, but Saturn is not the enemy—Saturn is the **teacher**, the one who sets the conditions for mastery.
+The World is attributed to **[[Saturn ♄]]**—the planet of time, structure, boundaries, limits, discipline, and earned authority. This may seem paradoxical for a card depicting liberation and completion, but Saturn is not the enemy—Saturn is the **teacher**, the one who sets the conditions for mastery.
 
 Saturn is the "Great Tester"—the force that says, "Prove it. Show me. Earn it." Saturn does not give gifts; Saturn gives *consequences*. What you sow, you reap. What you build, you inhabit. Saturn is the principle of **karma** (in its original sense: action and its fruits), of **responsibility**, of **maturity**.
 
@@ -193,7 +193,7 @@ The gift of integration: **The capacity to celebrate completion while remaining 
 ## Internal Links
 
 - **Adjacent Major Arcana**: [[20 - Judgement]] ← → [[0 - The Fool]] (the return to beginning)
-- **Planetary**: [[Saturn]]
+- **Planetary**: [[Saturn ♄]]
 - **Path**: [[Path 32 - Yesod to Malkuth]]
 - **Hebrew Letter**: [[Tau]]
 - **Thematic Groupings**: [[Completion and Synthesis]] | [[The Dance of Creation]] | [[The Mandala of the Self]]

@@ -543,7 +543,7 @@ The psyche's response: **Anxiety, depression, addiction**—the return of the re
 [[Sacral Center]] • [[Emotional Authority]] • [[Splenic Authority]] • [[Tribal Circuitry]] • [[Individual Circuitry]] • [[Gate 50 - Values]] • [[Channel 27-50 - Preservation]]
 
 **Astrological Correspondences:**
-[[Saturn]] • [[Pluto]] • [[Chiron]] • [[The Twelfth House]] • [[The Eighth House]] • [[Saturn Return]] • [[Pluto Transits]]
+[[Saturn ♄]] • [[Pluto ♇]] • [[Chiron]] • [[The Twelfth House]] • [[The Eighth House]] • [[Saturn Return]] • [[Pluto Transits]]
 
 **World Mythology:**
 [[Greek Mythology]] • [[Norse Mythology]] • [[Egyptian Mythology]] • [[Mesopotamian Mythology]] • [[Hindu Mythology]] • [[Buddhist Cosmology]]

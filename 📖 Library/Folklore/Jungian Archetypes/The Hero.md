@@ -752,13 +752,13 @@ The Hero interacts dynamically with other archetypal structures:
 
 ### Jungian Archetypes
 - [[The Shadow]] — The hero's primary adversary and teacher; must be integrated, not destroyed
-- [[The Anima]] — The feminine soul-image; the maiden the hero rescues (must be internalized, not projected)
-- [[The Animus]] — The masculine soul-image; the heroine's inner warrior and guide
-- [[The Self]] — The goal of the hero's journey; the Grail, the treasure, the boon
-- [[The Great Mother]] — Both ally (Good Mother) and adversary (Terrible Mother/dragon)
+- [[Folklore/Jungian Archetypes/The Anima]] — The feminine soul-image; the maiden the hero rescues (must be internalized, not projected)
+- [[Folklore/Jungian Archetypes/The Animus]] — The masculine soul-image; the heroine's inner warrior and guide
+- [[Folklore/Jungian Archetypes/The Self]] — The goal of the hero's journey; the Grail, the treasure, the boon
+- [[Folklore/Jungian Archetypes/The Great Mother]] — Both ally (Good Mother) and adversary (Terrible Mother/dragon)
 - [[The Wise Old Man]] — The mentor who provides supernatural aid; guide through the ordeal
-- [[The Divine Child]] — The hero's origin; innocence and potential before the journey begins
-- [[The Persona]] — The social mask the hero must shed to individuate
+- [[Folklore/Jungian Archetypes/The Divine Child]] — The hero's origin; innocence and potential before the journey begins
+- [[Folklore/Jungian Archetypes/The Persona]] — The social mask the hero must shed to individuate
 - [[The Trickster]] — The chaotic helper/saboteur who teaches the hero flexibility
 - [[The Wounded Healer]] — The hero transformed by wounding; Chiron, Amfortas, the Fisher King
 
@@ -811,13 +811,13 @@ The Hero interacts dynamically with other archetypal structures:
 - [[Judgement]] — Resurrection; the hero reborn and called to serve
 
 ### Astrology
-- [[Sun]] — Ego, vitality, heroic will, self-expression
-- [[Mars]] — Warrior energy, conquest, courage, assertion
-- [[Jupiter]] — The quest, expansion, the boon, generosity
-- [[Saturn]] — The trial, limitation, the test that proves the hero
-- [[Aries]] — Initiatory fire, individuation, pioneering spirit
-- [[Leo]] — Solar kingship, creative self-expression, nobility
-- [[Sagittarius]] — The quest for meaning, the archer's aim, adventure
+- [[Sun ☉]] — Ego, vitality, heroic will, self-expression
+- [[Mars ♂]] — Warrior energy, conquest, courage, assertion
+- [[Jupiter ♃]] — The quest, expansion, the boon, generosity
+- [[Saturn ♄]] — The trial, limitation, the test that proves the hero
+- [[Aries ♈]] — Initiatory fire, individuation, pioneering spirit
+- [[Leo ♌]] — Solar kingship, creative self-expression, nobility
+- [[Sagittarius ♐]] — The quest for meaning, the archer's aim, adventure
 - [[1st House]] — Self-assertion, identity, the hero's emergence
 - [[5th House]] — Creative self-expression, risk-taking, joy
 - [[9th House]] — The quest for truth, philosophy, long journeys

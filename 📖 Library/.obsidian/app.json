@@ -1,3 +1,5 @@
 {
-  "propertiesInDocument": "hidden"
+  "propertiesInDocument": "hidden",
+  "alwaysUpdateLinks": true,
+  "openBehavior": ""
 }

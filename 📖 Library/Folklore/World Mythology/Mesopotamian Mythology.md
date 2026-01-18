@@ -793,13 +793,13 @@ Mesopotamian mythology dramatizes the **Ego's violent emergence from the Uroboro
 - [[The World]] (Completion of journey, wholeness through ordeal)
 
 ### Astrology
-- [[Mars]] (Marduk's violence, heroic ego, warrior energy)
-- [[Venus]] (Inanna/Ishtar as love and war, dual anima)
-- [[Saturn]] (Enlil as negative senex, time, death, limitation)
-- [[Neptune]] (Tiamat as oceanic unconscious, Apsu as primordial waters)
-- [[Pluto]] (Ereshkigal as underworld queen, death/rebirth, shadow)
-- [[Jupiter]] (Anu as sky father, sovereign authority)
-- [[Mercury]] (Ea as trickster, messenger, cunning intelligence)
+- [[Mars ♂]] (Marduk's violence, heroic ego, warrior energy)
+- [[Venus ♀]] (Inanna/Ishtar as love and war, dual anima)
+- [[Saturn ♄]] (Enlil as negative senex, time, death, limitation)
+- [[Neptune ♆]] (Tiamat as oceanic unconscious, Apsu as primordial waters)
+- [[Pluto ♇]] (Ereshkigal as underworld queen, death/rebirth, shadow)
+- [[Jupiter ♃]] (Anu as sky father, sovereign authority)
+- [[Astrology/Planets/Mercury # ☿]] (Ea as trickster, messenger, cunning intelligence)
 
 ### Human Design
 - [[Gate 51]] (The Arousing/Shock) = Marduk's violent separation, initiation through ordeal

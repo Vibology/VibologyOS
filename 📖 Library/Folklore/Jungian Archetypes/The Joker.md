@@ -768,14 +768,14 @@ The Trickster appears in dreams with specific motifs:
 
 ### Jungian Archetypes
 - [[The Shadow]] — The Trickster mediates shadow material; brings the repressed to light
-- [[The Hero]] — The Trickster is the hero's saboteur, teacher, and necessary complement
-- [[The Anima]] — Often merges with Trickster energy (femme fatale, muse, witch)
-- [[The Animus]] — Appears as the clever magician, Hermes-guide, trickster-intellect
-- [[The Self]] — The Self contains the Trickster; wholeness embraces chaos
+- [[Folklore/Jungian Archetypes/The Hero]] — The Trickster is the hero's saboteur, teacher, and necessary complement
+- [[Folklore/Jungian Archetypes/The Anima]] — Often merges with Trickster energy (femme fatale, muse, witch)
+- [[Folklore/Jungian Archetypes/The Animus]] — Appears as the clever magician, Hermes-guide, trickster-intellect
+- [[Folklore/Jungian Archetypes/The Self]] — The Self contains the Trickster; wholeness embraces chaos
 - [[The Wise Old Man]] — The integrated Trickster becomes the Sacred Fool; the rigid Senex is deflated by Trickster
-- [[The Great Mother]] — The Trickster violates the Mother's law (taboo-breaker) yet is also culture hero
-- [[The Divine Child]] — Shares pre-moral innocence but Trickster adds cunning and disruption
-- [[The Persona]] — The Trickster disrupts rigid persona; forces authenticity
+- [[Folklore/Jungian Archetypes/The Great Mother]] — The Trickster violates the Mother's law (taboo-breaker) yet is also culture hero
+- [[Folklore/Jungian Archetypes/The Divine Child]] — Shares pre-moral innocence but Trickster adds cunning and disruption
+- [[Folklore/Jungian Archetypes/The Persona]] — The Trickster disrupts rigid persona; forces authenticity
 
 ### Hero's Journey Stages
 - [[The Call to Adventure]] — The Trickster as herald, disrupting the ordinary world
@@ -811,10 +811,10 @@ The Trickster appears in dreams with specific motifs:
 - [[The Wheel of Fortune]] — Fate as cosmic joke, the Trickster's unpredictability
 
 ### Astrology
-- [[Mercury]] — Messenger, psychopomp, cunning, crossroads, shapeshifting
-- [[Uranus]] — Revolutionary chaos, sudden disruption, lightning bolt, paradigm shift
-- [[Gemini]] — Duality, fluidity, multiplicity, the twins (light and dark)
-- [[Sagittarius]] — The holy fool, the questing wanderer, philosophical humor
+- [[Astrology/Planets/Mercury # ☿]] — Messenger, psychopomp, cunning, crossroads, shapeshifting
+- [[Uranus ♅]] — Revolutionary chaos, sudden disruption, lightning bolt, paradigm shift
+- [[Gemini ♊]] — Duality, fluidity, multiplicity, the twins (light and dark)
+- [[Sagittarius ♐]] — The holy fool, the questing wanderer, philosophical humor
 - [[3rd House]] — Communication, trickery, siblings, mercurial energy
 - [[11th House]] — Revolution, disruption of social order, collective chaos
 

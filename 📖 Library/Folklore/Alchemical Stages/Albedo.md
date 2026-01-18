@@ -639,13 +639,13 @@ The Albedo is the stage of objective cognition. Without it, the final union (Rub
 - [[The Lovers]] - Choice, discrimination, Anima/Animus projection (Albedo relationship)
 
 ### Related Astrology
-- [[Moon]] (when created) - The Albedo planet (soul, reflection, cycles)
-- [[Venus]] (when created) - Anima, beauty, love (Albedo feminine)
-- [[Neptune]] (when created) - Dissolution into spirit, mystical clarity
+- [[Moon ☽]] (when created) - The Albedo planet (soul, reflection, cycles)
+- [[Venus ♀]] (when created) - Anima, beauty, love (Albedo feminine)
+- [[Neptune ♆]] (when created) - Dissolution into spirit, mystical clarity
 - [[7th House]] (when created) - Partnership, projection of Anima/Animus
 - [[12th House]] (when created) - Spiritual purification, dissolution, mystical insight
-- [[Cancer]] (when created) - Moon's domain, soul, nurturing
-- [[Libra]] (when created) - Balance, objectivity, differentiation
+- [[Cancer ♋]] (when created) - Moon's domain, soul, nurturing
+- [[Libra ♎]] (when created) - Balance, objectivity, differentiation
 
 ### Related Human Design
 - [[Sacral Center]] (when created) - Life force purified and clarified

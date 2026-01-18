@@ -75,7 +75,7 @@ The path connects **Geburah (Severity, Mars, the cutting force)** to **Hod (Sple
 
 The Hanged Man's primary attribution is the element **Water**—not the flowing rivers of [[The Star]] or the still pools of [[The High Priestess]], but the *abyssal waters*: the oceanic depths where light does not penetrate, where boundaries dissolve entirely.
 
-Modern occultism associates The Hanged Man with **[[Neptune]]**, the planet of mysticism, dissolution, surrender, and transcendence. Neptune erases edges. It is the fog that obscures, the drug that induces trance, the mystical state that obliterates the ego. The Hanged Man is **Neptunian ordeal**: you cannot move, you cannot act—so you must *allow*.
+Modern occultism associates The Hanged Man with **[[Neptune ♆]]**, the planet of mysticism, dissolution, surrender, and transcendence. Neptune erases edges. It is the fog that obscures, the drug that induces trance, the mystical state that obliterates the ego. The Hanged Man is **Neptunian ordeal**: you cannot move, you cannot act—so you must *allow*.
 
 Neptune is also illusion, delusion, escapism. The shadow Hanged Man mistakes passivity for surrender, paralysis for patience, victimhood for sacrifice. This is the peril of the path: **not all suspension is sacred**.
 
@@ -161,7 +161,7 @@ The gift of integration: **Learning when to act and when to yield**. The Hanged 
 
 - **Adjacent Major Arcana**: [[11 - Justice]] ← → [[13 - Death]]
 - **Element**: [[Water]] | [[The Suit of Cups]]
-- **Planetary**: [[Neptune]]
+- **Planetary**: [[Neptune ♆]]
 - **Path**: [[Path 23 - Geburah to Hod]]
 - **Hebrew Letter**: [[Mem]]
 - **Thematic Groupings**: [[The Ordeal Cards]] | [[Sacrifice and Surrender]] | [[The Mystical Path]]

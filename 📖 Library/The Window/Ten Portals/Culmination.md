@@ -97,7 +97,7 @@ When Culmination appears in a reading, the querent is being asked: what cycle ar
 
 ## Internal Links
 
-- [[The Self]] - Integration as culmination of individuation
+- [[Folklore/Jungian Archetypes/The Self]] - Integration as culmination of individuation
 - [[Gate 24 - The Return]]
 - [[Gene Key 24 - Addiction to Silence]]
 - [[Hexagram 24 - The Return]]

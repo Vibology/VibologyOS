@@ -317,8 +317,8 @@ The paradox: to truly celebrate with others, you must first know who you are cel
 - [[Cards of Binah]] - All Threes across the suits
 
 ### Planetary and Astrological
-- [[Mercury]] - The planet of communication and connection
-- [[Cancer]] - The sign of home, nurturing, and belonging
+- [[Astrology/Planets/Mercury # ☿]] - The planet of communication and connection
+- [[Cancer ♋]] - The sign of home, nurturing, and belonging
 - [[Mercury in Cancer]] - Communication that nurtures and includes
 - [[Second Decan of Cancer]] - The most sociable expression of the sign
 

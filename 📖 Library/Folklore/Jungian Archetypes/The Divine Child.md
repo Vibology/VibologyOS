@@ -15,7 +15,7 @@ collective_unconscious: Universal pattern of renewal, innocence, and the unborn 
 
 ### Jung's Definition
 
-The Divine Child is an archetype of **futurity**, **rebirth**, and **the Self in potentia**—the promise of wholeness not yet realized. Unlike [[The Self]], which represents the goal of [[Individuation]], the Divine Child embodies the **journey toward** that goal, the perpetual renewal that makes individuation possible.
+The Divine Child is an archetype of **futurity**, **rebirth**, and **the Self in potentia**—the promise of wholeness not yet realized. Unlike [[Folklore/Jungian Archetypes/The Self]], which represents the goal of [[Individuation]], the Divine Child embodies the **journey toward** that goal, the perpetual renewal that makes individuation possible.
 
 In *Psychology and Alchemy* (CW 12, par. 73), Jung writes:
 
@@ -281,7 +281,7 @@ Teachers, therapists, and mentors often project the Divine Child onto students�
 
 **The Divine Child as Archetype of the Self:**
 
-Jung understood the Divine Child as a **manifestation of [[The Self]]**—specifically, the Self as **futurity and potential**. While the Self represents the totality of the psyche (both realized and unrealized), the Divine Child represents the **dynamic movement** toward that totality.
+Jung understood the Divine Child as a **manifestation of [[Folklore/Jungian Archetypes/The Self]]**—specifically, the Self as **futurity and potential**. While the Self represents the totality of the psyche (both realized and unrealized), the Divine Child represents the **dynamic movement** toward that totality.
 
 In *The Archetypes and the Collective Unconscious* (CW 9i, par. 271), Jung writes:
 
@@ -669,9 +669,9 @@ The Divine Child appears in dreams through specific recurring symbols that signa
 
 ### 11. Relationship to Other Archetypes
 
-**The Divine Child and [[The Self]]:**
+**The Divine Child and [[Folklore/Jungian Archetypes/The Self]]:**
 
-The Divine Child is a **manifestation of the Self**—specifically, the Self as **futurity and potential**. [[The Self]] is the totality (center and circumference, beginning and end). The Divine Child is the **dynamic movement** toward that totality, the promise of wholeness not yet realized.
+The Divine Child is a **manifestation of the Self**—specifically, the Self as **futurity and potential**. [[Folklore/Jungian Archetypes/The Self]] is the totality (center and circumference, beginning and end). The Divine Child is the **dynamic movement** toward that totality, the promise of wholeness not yet realized.
 
 Jung writes: *"The child is potential future... The child paves the way for a future change of personality."*
 
@@ -681,19 +681,19 @@ The Shadow is what we **reject and repress**. For many adults, the Divine Child 
 
 Integrating the Shadow often involves **retrieving the Divine Child**—reclaiming the innocence and creativity sacrificed for social acceptance. Conversely, when the Divine Child is **not integrated** but **identified with** (Puer/Puella pathology), it **becomes** the Shadow—the refused adult responsibility, the refusal to grow up.
 
-**The Divine Child and [[The Great Mother]]:**
+**The Divine Child and [[Folklore/Jungian Archetypes/The Great Mother]]:**
 
 The Great Mother is the **womb** from which the Divine Child is born. She is both **nurturing** (protecting the vulnerable Child) and **devouring** (refusing to let the Child grow and separate).
 
 Mythological examples: Isis protects Horus in the marshes (nurturing Mother); the witch locks Rapunzel in the tower (devouring Mother). The Child's task is to **accept the Mother's care** (without which the Child dies) while eventually **separating** from her (without which the Child never individuates).
 
-**The Divine Child and [[The Anima]]/[[The Animus]]:**
+**The Divine Child and [[Folklore/Jungian Archetypes/The Anima]]/[[Folklore/Jungian Archetypes/The Animus]]:**
 
 In alchemy, the **sacred marriage** (*coniunctio*) of King and Queen, Sun and Moon, masculine and feminine **births the divine child**. The Child is the **synthesis** that emerges from the union of opposites.
 
 Psychologically: Integrating the Anima (in men) or Animus (in women) is a prerequisite for the Divine Child's emergence. Without this integration, the contrasexual archetype remains projected outward, and the inner Child cannot be born.
 
-**The Divine Child and [[The Hero]]:**
+**The Divine Child and [[Folklore/Jungian Archetypes/The Hero]]:**
 
 The Hero is the **ego's vehicle**—the conscious will that embarks on the quest. The Divine Child is the **goal** of the Hero's journey—the treasure retrieved from the depths, the new Self born from the death of the old self.
 
@@ -709,7 +709,7 @@ The Wise Old Man and the Divine Child are **two faces of the Self**:
 
 In fairy tales, the Wise Old Man often **protects** or **guides** the Divine Child (Merlin and Arthur, Gandalf and Frodo, Obi-Wan and Luke). Psychologically, the Senex (elder) must **serve** the Puer (child), and the Puer must **honor** the Senex. This is the **puer-senex synthesis**—wisdom and wonder united.
 
-**The Divine Child and [[The Joker]]/[[The Trickster]]:**
+**The Divine Child and [[Folklore/Jungian Archetypes/The Joker]]/[[The Trickster]]:**
 
 The Trickster (Hermes, Loki, Coyote, Mercurius) is the Divine Child in its most **disruptive** form. The Trickster is amoral, playful, boundary-crossing—breaking through rigid structures to allow renewal.
 
@@ -809,16 +809,16 @@ For those who do not identify within the gender binary, the Divine Child may man
 
 ### Jungian Archetypes
 
-- [[The Self]] - The Divine Child as manifestation of the Self's futurity and potential
+- [[Folklore/Jungian Archetypes/The Self]] - The Divine Child as manifestation of the Self's futurity and potential
 - [[The Shadow]] - The repressed Child (spontaneity, play, vulnerability) or the identified Child (Puer/Puella pathology)
-- [[The Anima]] - In men, the nurturer and protector of the Divine Child
-- [[The Animus]] - In women, the guardian and defender of the Divine Child
-- [[The Hero]] - The ego's vehicle; must die so the Divine Child can be born
-- [[The Great Mother]] - The womb from which the Child emerges; both nurturing and devouring
+- [[Folklore/Jungian Archetypes/The Anima]] - In men, the nurturer and protector of the Divine Child
+- [[Folklore/Jungian Archetypes/The Animus]] - In women, the guardian and defender of the Divine Child
+- [[Folklore/Jungian Archetypes/The Hero]] - The ego's vehicle; must die so the Divine Child can be born
+- [[Folklore/Jungian Archetypes/The Great Mother]] - The womb from which the Child emerges; both nurturing and devouring
 - [[The Wise Old Man]] - The puer-senex synthesis: Child and Elder united
 - [[The Wise Old Woman]] - The Crone who has returned to conscious innocence
-- [[The Joker]] - The Divine Child as trickster and disruptor
-- [[The Persona]] - The social mask that often buries the Divine Child in the Shadow
+- [[Folklore/Jungian Archetypes/The Joker]] - The Divine Child as trickster and disruptor
+- [[Folklore/Jungian Archetypes/The Persona]] - The social mask that often buries the Divine Child in the Shadow
 
 ### Hero's Journey Stages
 
@@ -855,12 +855,12 @@ For those who do not identify within the gender binary, the Divine Child may man
 ### Astrology
 
 - [[The Sun]] - Core vitality, creative expression, the divine child's radiance
-- [[Leo]] - Playfulness, creative joy, the sovereign child
-- [[Mercury]] - The trickster-child, curiosity, quick-witted Hermes
-- [[Sagittarius]] - The eternal student, quest for meaning, optimistic futurity
+- [[Leo ♌]] - Playfulness, creative joy, the sovereign child
+- [[Astrology/Planets/Mercury # ☿]] - The trickster-child, curiosity, quick-witted Hermes
+- [[Sagittarius ♐]] - The eternal student, quest for meaning, optimistic futurity
 - [[The Moon]] - The child in the womb of the unconscious, gestation
-- [[Neptune]] - The mystical child, dissolution of boundaries, return to oceanic unity
-- [[Jupiter]] - Optimism, expansion, the child's faith in the future
+- [[Neptune ♆]] - The mystical child, dissolution of boundaries, return to oceanic unity
+- [[Jupiter ♃]] - Optimism, expansion, the child's faith in the future
 
 ### Human Design
 

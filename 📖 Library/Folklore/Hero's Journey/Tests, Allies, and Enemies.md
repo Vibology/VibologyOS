@@ -135,12 +135,12 @@ Psychologically, this stage corresponds to:
 | **System** | **Primary Correspondence** | **Symbolic Resonance** | **Psychological Function** |
 |------------|---------------------------|------------------------|----------------------------|
 | **Tarot** | [[Seven of Wands]]<br>[[Three of Cups]]<br>[[Five of Swords]]<br>[[Seven of Cups]] | Seven of Wands: Defense, standing ground against challengers<br>Three of Cups: Celebration, allies gathering<br>Five of Swords: Conflict, enemies defeated but at cost<br>Seven of Cups: Illusions, shapeshifters, choices unclear | Tests reveal character under pressure; Allies provide support/community; Enemies force differentiation; Shapeshifters reveal projection's limits |
-| **Astrology** | [[Mars]]<br>[[Venus]]<br>[[Saturn]]<br>[[Gemini]]/[[Mercury]] | Mars: Combat, tests of courage, enemies as adversaries<br>Venus: Attraction, allies drawn by affinity<br>Saturn: Endurance trials, long-term testing<br>Gemini/Mercury: Tricksters, shapeshifters, communication tests | Mars activates the warrior (tests faced directly); Venus attracts allies through magnetism; Saturn imposes trials of patience; Mercury reveals nothing is as it seems |
+| **Astrology** | [[Mars ♂]]<br>[[Venus ♀]]<br>[[Saturn ♄]]<br>[[Gemini ♊]]/[[Astrology/Planets/Mercury # ☿]] | Mars: Combat, tests of courage, enemies as adversaries<br>Venus: Attraction, allies drawn by affinity<br>Saturn: Endurance trials, long-term testing<br>Gemini/Mercury: Tricksters, shapeshifters, communication tests | Mars activates the warrior (tests faced directly); Venus attracts allies through magnetism; Saturn imposes trials of patience; Mercury reveals nothing is as it seems |
 | **Human Design** | **Channels** (connections/alliances)<br>**Open Centers** (tests via conditioning)<br>**Defined Centers** (reliable resources) | Channels: Stable ally-ship, consistent gifts<br>Open Centers: Where one is tested by others' energy, vulnerable to conditioning<br>Defined Centers: Reliable inner allies, consistent strengths | Tests occur in open centers (where we're inconsistent); Allies resonate through channels; Enemies trigger not-self themes |
 | **I-Ching** | **Hexagram 7 (Shih / The Army)**<br>**Hexagram 8 (Pi / Holding Together)** | Hexagram 7: Organization of forces, strategy, discipline in conflict<br>Hexagram 8: Alliance, unity, choosing companions wisely | The I-Ching's counsel: victory requires organization (allies aligned) and discernment (enemies identified). Cohesion is survival |
 | **Qabalah** | **Netzach (Victory)**<br>**Geburah (Severity)**<br>**Hod (Glory)** | Netzach: Victory through allies, love, perseverance<br>Geburah: Severity, enemies as pruning force, tests as refinement<br>Hod: Strategy, intellect, tactical planning | Netzach magnetizes allies through beauty/emotion; Geburah tests through conflict/limitation; Hod navigates tests through cunning |
 | **Angelology** | [[Michael]] (Ally, Warrior Protector)<br>**Adversarial Spirits** (Tests, Resistance)<br>[[Raphael]] (Healing Ally) | Michael: The defender, ally against darkness<br>Testing Spirits: Not evil, but oppositional—force growth<br>Raphael: The healer, ally in recovery from tests | Angels as allies witness and protect; adversarial forces test sincerity; healing presences restore after trials |
-| **Jungian Archetypes** | **Allies as Inner Resources**<br>**Enemies as [[Shadow]] Projections**<br>**[[The Shapeshifter]]** | Allies: Differentiated aspects of Self<br>Enemies: Disowned rage/fear/power<br>Shapeshifter: [[Anima]]/[[Animus]], projection | The psyche externalizes its structure—we meet our allies and enemies in the world, but they are **us** |
+| **Jungian Archetypes** | **Allies as Inner Resources**<br>**Enemies as [[Shadow]] Projections**<br>**[[Folklore/Jungian Archetypes/The Shapeshifter]]** | Allies: Differentiated aspects of Self<br>Enemies: Disowned rage/fear/power<br>Shapeshifter: [[Anima]]/[[Animus]], projection | The psyche externalizes its structure—we meet our allies and enemies in the world, but they are **us** |
 
 ## 3. Practical Application
 
@@ -536,11 +536,11 @@ The future of this archetype may be **gender-integrative**—recognizing that te
 
 ### Jungian Archetypes
 - [[The Shadow]]: Enemies often embody the Shadow—disowned rage, fear, hunger for power. The test: withdraw the projection, integrate what was denied.
-- [[The Self]]: Allies represent differentiated aspects of the Self—courage, wisdom, compassion. The fellowship is the psyche made manifest.
+- [[Folklore/Jungian Archetypes/The Self]]: Allies represent differentiated aspects of the Self—courage, wisdom, compassion. The fellowship is the psyche made manifest.
 - [[The Anima and Animus]]: Shapeshifters often represent the Anima/Animus—seductive, elusive, catalyst for transformation or destruction.
 - [[The Trickster]]: Some allies are tricksters (Loki, Hermes)—they destabilize, mock, subvert. Their function: prevent ego inflation, keep the hero flexible.
 - [[The Mentor]]: The Mentor prepares the hero for tests but does not accompany them. The tests prove whether the teaching was internalized.
-- [[The Threshold Guardian]]: Often appears as the first "enemy"—testing readiness. Once passed, may become ally or neutral presence.
+- [[Folklore/Jungian Archetypes/The Threshold Guardian]]: Often appears as the first "enemy"—testing readiness. Once passed, may become ally or neutral presence.
 
 ### Hero's Journey Stages
 - [[The Call to Adventure]]: The Call initiates the journey; tests, allies, and enemies reveal whether the hero is equal to it.
@@ -564,11 +564,11 @@ The future of this archetype may be **gender-integrative**—recognizing that te
 - [[Knight of Swords]]: The charging ally—impulsive, brave, sometimes reckless. Allies bring their own flaws.
 
 ### Astrology
-- [[Mars]]: The warrior planet—tests of courage, combat, boundary defense. Mars activates when enemies appear.
-- [[Venus]]: Magnetism, attraction—allies are drawn by Venusian resonance. Love, beauty, shared values.
-- [[Saturn]]: Endurance trials, long-term testing. Saturn does not give quick victories; it demands **mastery through time**.
-- [[Gemini]]/[[Mercury]]: Tricksters, shapeshifters, communication tests. Mercury reveals: nothing is as it seems.
-- [[Scorpio]]: Intensity, betrayal, Shadow work. Scorpio transits often bring shapeshifters—those who shift from ally to enemy.
+- [[Mars ♂]]: The warrior planet—tests of courage, combat, boundary defense. Mars activates when enemies appear.
+- [[Venus ♀]]: Magnetism, attraction—allies are drawn by Venusian resonance. Love, beauty, shared values.
+- [[Saturn ♄]]: Endurance trials, long-term testing. Saturn does not give quick victories; it demands **mastery through time**.
+- [[Gemini ♊]]/[[Astrology/Planets/Mercury # ☿]]: Tricksters, shapeshifters, communication tests. Mercury reveals: nothing is as it seems.
+- [[Scorpio ♏]]: Intensity, betrayal, Shadow work. Scorpio transits often bring shapeshifters—those who shift from ally to enemy.
 - [[11th House]]: House of friends, allies, community. Planets here indicate the nature of one's fellowship.
 
 ### Human Design

@@ -224,7 +224,7 @@ Dissolution feels like drowning, but it can also feel like release:
    - Dissolution requires a container—a therapist, a journal, a ritual space. Without a vessel, the waters spill everywhere and flood your life. Create the container first.
 
 5. **Invoke the Moon:**
-   - The [[Moon]] governs tides—the ebb and flow. Dissolution is not permanent. The waters rise, and they recede. Trust the lunar rhythm.
+   - The [[Moon ☽]] governs tides—the ebb and flow. Dissolution is not permanent. The waters rise, and they recede. Trust the lunar rhythm.
 
 ### In Relationships and Projection
 
@@ -606,11 +606,11 @@ Dissolution *is* making the darkness conscious. The waters are dark, cold, terri
 - [[Queen of Cups]] - Emotional depth, the one who holds the waters
 
 ### Related Astrology
-- [[Moon]] - Emotional tides, tears, the maternal waters
-- [[Neptune]] - Dissolution of boundaries, oceanic unity, mystical immersion
-- [[Pisces]] - Mutable water sign, boundless, dissolving into the All
-- [[Cancer]] - Cardinal water sign, the womb, maternal protection and drowning
-- [[Scorpio]] - Fixed water sign, stagnant or transformational depths
+- [[Moon ☽]] - Emotional tides, tears, the maternal waters
+- [[Neptune ♆]] - Dissolution of boundaries, oceanic unity, mystical immersion
+- [[Pisces ♓]] - Mutable water sign, boundless, dissolving into the All
+- [[Cancer ♋]] - Cardinal water sign, the womb, maternal protection and drowning
+- [[Scorpio ♏]] - Fixed water sign, stagnant or transformational depths
 - [[12th House]] - House of dissolution, the unconscious, loss of ego
 
 ### Related Human Design

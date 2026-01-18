@@ -932,14 +932,14 @@ Jung: *"Odin is the god of poets, the dead, and the hanged—those who have pass
 - [[The World]] (Yggdrasil, post-Ragnarök completion)
 
 ### Astrology
-- [[Jupiter]] as Odin/Thor (expansion, sovereignty, thunder)
-- [[Saturn]] as Norns/Wyrd (fate, limitation, time)
-- [[Mars]] as Thor/Tyr (warrior energy, courage, conflict)
-- [[Venus]] as Freyja (love, beauty, erotic power)
-- [[Mercury]] as Loki (trickster, messenger, shapeshifter)
-- [[Pluto]] as Hel/Ragnarök (death, transformation, underworld)
-- [[Neptune]] as Yggdrasil/Mimir's well (cosmic ocean, gnosis, dissolution)
-- [[Uranus]] as Ragnarök/Loki (disruption, revolution, chaos)
+- [[Jupiter ♃]] as Odin/Thor (expansion, sovereignty, thunder)
+- [[Saturn ♄]] as Norns/Wyrd (fate, limitation, time)
+- [[Mars ♂]] as Thor/Tyr (warrior energy, courage, conflict)
+- [[Venus ♀]] as Freyja (love, beauty, erotic power)
+- [[Astrology/Planets/Mercury # ☿]] as Loki (trickster, messenger, shapeshifter)
+- [[Pluto ♇]] as Hel/Ragnarök (death, transformation, underworld)
+- [[Neptune ♆]] as Yggdrasil/Mimir's well (cosmic ocean, gnosis, dissolution)
+- [[Uranus ♅]] as Ragnarök/Loki (disruption, revolution, chaos)
 - [[Chiron]] as Tyr's wound (sacrificial wound, teaching through suffering)
 
 ### Human Design

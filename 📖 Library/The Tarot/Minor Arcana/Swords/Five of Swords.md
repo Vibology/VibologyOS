@@ -295,8 +295,8 @@ The truly wise know that some swords should be dropped. Some arguments should be
 - [[Fives of the Tarot]] - All four Fives as expressions of Geburah
 
 ### Planetary and Zodiacal
-- [[Venus]] - The planet of love, harmony, and relationship
-- [[Aquarius]] - The sign of detachment, intellect, and the collective
+- [[Venus ♀]] - The planet of love, harmony, and relationship
+- [[Aquarius ♒]] - The sign of detachment, intellect, and the collective
 - [[Venus in Aquarius]] - The specific combination of these energies (detriment)
 
 ### Elemental and Suit

@@ -22,7 +22,7 @@ function: Spiritual strife against evil, form-giver, contemplation
 **Title:** Prince of Spiritual Strife Against Evil
 **Sephirah:** [[Binah]] (Understanding, 3rd emanation)
 **Order Governed:** [[Thrones]] (*Aralim* - "Mighty Ones")
-**Planetary Sphere:** [[Saturn]] (Shabbatai)
+**Planetary Sphere:** [[Saturn ♄]] (Shabbatai)
 **Element:** Water (Great Sea) / Earth (Form)
 **Day:** Saturday (Saturnian rulership)
 **Color:** Black (infinite potential), Crimson (divine passion)
@@ -59,7 +59,7 @@ To encounter Tzaphkiel is to meet the **cosmic pressure of form-giving**—the s
 | **Sephirah Overseen** | [[Binah]] (Understanding, 3rd emanation) |
 | **Order Commanded** | [[Thrones]] (*Aralim* - "Mighty Ones") |
 | **Triad** | [[The Three Triads\|First Triad]] (Counselors) |
-| **Planetary Sphere** | [[Saturn]] (Shabbatai) - limitation, time, karma, structure |
+| **Planetary Sphere** | [[Saturn ♄]] (Shabbatai) - limitation, time, karma, structure |
 | **Element** | Water (Great Sea, womb) / Earth (form, stability) |
 | **Direction** | North (traditional Saturn attribution) |
 | **Day of Week** | Saturday (Saturn's day) |
@@ -73,7 +73,7 @@ To encounter Tzaphkiel is to meet the **cosmic pressure of form-giving**—the s
 | **Tarot (Minor)** | All Threes (Binah's number), all Queens (Mother aspect) |
 | **I-Ching** | Hexagram 2 (K'un/The Receptive) - Pure yin, Earth |
 | **Human Design** | [[Throat Center]] (manifestation, form-giving) |
-| **Astrological** | [[Saturn]] (planet), [[Capricorn]] (cardinal earth) |
+| **Astrological** | [[Saturn ♄]] (planet), [[Capricorn ♑]] (cardinal earth) |
 | **Metal** | Lead (Saturn's metal - dense, enduring, grounding) |
 | **Gemstone** | Onyx, obsidian, jet (black stones of containment) |
 | **Incense** | Myrrh, cypress, patchouli (Saturnian scents) |
@@ -279,7 +279,7 @@ These are all **Binah/Tzaphkiel functions**. Where Jupiter (Chesed) expands, Sat
 
 ### Astrological Implications: Saturn Transits
 
-In astrology, [[Saturn]] transits mark moments when **Tzaphkiel's presence is most intensely felt**:
+In astrology, [[Saturn ♄]] transits mark moments when **Tzaphkiel's presence is most intensely felt**:
 
 **Saturn Return (ages ~29, 58, 87):**
 The moment when Saturn returns to its natal position, confronting the individual with cosmic law, demanding accountability, stripping away illusions, and rebuilding life on a foundation of truth. This is the **Tzaphkiel initiation**—the call to mature, to accept limitation, to give form to one's purpose.
@@ -844,11 +844,11 @@ To integrate Tzaphkiel is to become the **sacred womb**—the one who holds, wit
 
 ### Astrology
 
-- **[[Saturn]]** — Planet of structure, limitation, time, karma, cosmic law (Tzaphkiel's planetary correspondence)
-- **[[Capricorn]]** — Cardinal Earth, the builder, the manifestor of form through discipline
+- **[[Saturn ♄]]** — Planet of structure, limitation, time, karma, cosmic law (Tzaphkiel's planetary correspondence)
+- **[[Capricorn ♑]]** — Cardinal Earth, the builder, the manifestor of form through discipline
 - **[[Saturn Return]]** (ages ~29, 58, 87) — Tzaphkiel initiation, confrontation with cosmic law
 - **10th House** — Saturn's natural house, authority, structure, public form
-- **[[Aquarius]]** (traditional Saturn co-ruler) — Cosmic law, detachment, higher order
+- **[[Aquarius ♒]]** (traditional Saturn co-ruler) — Cosmic law, detachment, higher order
 
 ### Human Design
 
@@ -864,7 +864,7 @@ To integrate Tzaphkiel is to become the **sacred womb**—the one who holds, wit
 - **[[Tree of Life]]** — The map of divine emanation; Binah is the third sphere
 - **[[Supernal Triangle]]** — Kether-Chokmah-Binah, the realm above the Abyss
 - **[[Thrones]]** — Angelic order of Binah, commanded by Tzaphkiel
-- **[[Saturn]]** — Planetary attribution of Binah
+- **[[Saturn ♄]]** — Planetary attribution of Binah
 - **[[Qlippoth]]** — Sathariel (the shadow of Binah, the Concealers)
 - **YHVH Elohim** — Divine name of Binah
 - **Da'ath** — The Abyss, guarded by Tzaphkiel
@@ -876,8 +876,8 @@ To integrate Tzaphkiel is to become the **sacred womb**—the one who holds, wit
 
 ### Jungian Psychology
 
-- **[[The Great Mother]]** — Archetypal womb, container, form-giver, both creative and devouring
-- **[[The Self]]** — The totality of the psyche, the God-image within (encountered through Binah/Tzaphkiel)
+- **[[Folklore/Jungian Archetypes/The Great Mother]]** — Archetypal womb, container, form-giver, both creative and devouring
+- **[[Folklore/Jungian Archetypes/The Self]]** — The totality of the psyche, the God-image within (encountered through Binah/Tzaphkiel)
 - **[[The Abyss]]** (Dark Night) — The threshold between ego and Self, guarded by Tzaphkiel
 - **[[Shadow]]** — Unconscious material requiring Tzaphkiel's witnessing to integrate
 - **[[Individuation]]** — The process of giving form to the Self, requiring Tzaphkiel's form-giving capacity
@@ -922,13 +922,13 @@ To integrate Tzaphkiel is to become the **sacred womb**—the one who holds, wit
 - [[Chokmah]] — Second Sephira, Wisdom, Raziel's realm
 - [[Supernal Triangle]] — Kether-Chokmah-Binah, the First Triad's domain
 - [[Da'ath]] — The Abyss, the threshold Tzaphkiel guards
-- [[Saturn]] — Binah's planetary sphere
+- [[Saturn ♄]] — Binah's planetary sphere
 - [[Qlippoth]] — Shadow Tree; Sathariel is Binah's shadow
 
 ### Astrology
-- [[Saturn]] — Tzaphkiel's planet
+- [[Saturn ♄]] — Tzaphkiel's planet
 - [[Saturn Return]] — The Tzaphkiel initiation
-- [[Capricorn]] — Saturn-ruled sign, form-giving through discipline
+- [[Capricorn ♑]] — Saturn-ruled sign, form-giving through discipline
 
 ### Human Design
 - [[Throat Center]] — Manifestation center, Tzaphkiel embodied
@@ -942,7 +942,7 @@ To integrate Tzaphkiel is to become the **sacred womb**—the one who holds, wit
 - [[The World]] — Saturn's completion, manifestation achieved
 
 ### Jungian Psychology
-- [[The Great Mother]] — Tzaphkiel as archetype
+- [[Folklore/Jungian Archetypes/The Great Mother]] — Tzaphkiel as archetype
 - [[The Abyss]] — Dark Night of the Soul, Tzaphkiel's threshold
 - [[Shadow]] — Material requiring Tzaphkiel's witnessing
 - [[Individuation]] — Process requiring Tzaphkiel's form-giving

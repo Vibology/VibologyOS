@@ -301,11 +301,11 @@ A **completed human being** who has lived the full arc from birth to death **con
 ## V. Cross-References
 
 **Jungian Archetypes:**
-- [[The Self]] (fully realized, embodied, transparent)
+- [[Folklore/Jungian Archetypes/The Self]] (fully realized, embodied, transparent)
 - [[The Wise Old Man]] (elder as mentor, guide, meaning-giver)
 - [[The Wise Old Woman]] (crone, wisdom-keeper, death-midwife)
 - [[The Shadow]] (fully integrated, acknowledged without shame)
-- [[The Joker]] (cosmic humor, the final laugh)
+- [[Folklore/Jungian Archetypes/The Joker]] (cosmic humor, the final laugh)
 - [[The Ancestor]] (mediator between living and dead)
 
 **Hero's Journey:**
@@ -329,9 +329,9 @@ A **completed human being** who has lived the full arc from birth to death **con
 - [[IV - The Emperor]] (structure, authority, legacy, the built kingdom)
 
 **Astrology:**
-- [[Saturn]] (time, mortality, mastery, the great teacher)
-- [[Jupiter]] (wisdom, meaning, generosity, expansion)
-- [[Pluto]] (death, regeneration, the immortal Self)
+- [[Saturn ♄]] (time, mortality, mastery, the great teacher)
+- [[Jupiter ♃]] (wisdom, meaning, generosity, expansion)
+- [[Pluto ♇]] (death, regeneration, the immortal Self)
 - [[12th House]] (dissolution, mysticism, preparation for death, the womb and tomb)
 
 **Human Design:**

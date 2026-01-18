@@ -89,7 +89,7 @@ Recovery from Corruption requires more than correction—it demands **complete r
 
 ## Internal Links
 
-- [[Land]] - The House of embodied foundation and material grounding
+- [[House of the Land]] - The House of embodied foundation and material grounding
 - [[Gate 50]] - The Cauldron / Values (Spleen Center)
 - [[Hexagram 50]] - The Cauldron (I-Ching)
 - [[Gene Keys - Shadow: Corruption, Gift: Equilibrium, Siddhi: Harmony]]

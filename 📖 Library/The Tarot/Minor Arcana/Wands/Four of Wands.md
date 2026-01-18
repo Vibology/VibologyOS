@@ -365,8 +365,8 @@ Perfected work is not the end. It is the foundation for the next ascent.
 - [[Cards of Chesed]] - All Fours across the suits
 
 ### Planetary and Astrological
-- [[Venus]] - The goddess: love, beauty, harmony, pleasure
-- [[Aries]] - The Ram: pioneer, initiator, cardinal fire
+- [[Venus ♀]] - The goddess: love, beauty, harmony, pleasure
+- [[Aries ♈]] - The Ram: pioneer, initiator, cardinal fire
 - [[Venus in Aries]] - Passionate harmony, energized beauty
 - [[Third Decan of Aries]] - Aries yielding to Taurus, fire to earth
 

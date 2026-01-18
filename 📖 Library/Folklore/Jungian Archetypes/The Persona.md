@@ -702,13 +702,13 @@ The Persona interacts dynamically with other archetypal structures:
 
 ### Jungian Archetypes
 - [[The Shadow]] — The dark brother to the Persona's light brother
-- [[The Anima]] — Feminine soul-image; challenges masculine Persona
-- [[The Animus]] — Masculine soul-image; challenges feminine Persona
-- [[The Self]] — Totality beyond all Personas
-- [[The Hero]] — Must leave Persona to begin journey, return with new Persona
+- [[Folklore/Jungian Archetypes/The Anima]] — Feminine soul-image; challenges masculine Persona
+- [[Folklore/Jungian Archetypes/The Animus]] — Masculine soul-image; challenges feminine Persona
+- [[Folklore/Jungian Archetypes/The Self]] — Totality beyond all Personas
+- [[Folklore/Jungian Archetypes/The Hero]] — Must leave Persona to begin journey, return with new Persona
 - [[The Wise Old Man]] — Has transcended Persona rigidity
-- [[The Divine Child]] — Spontaneity and authenticity repressed by Persona
-- [[The Great Mother]] — Can become rigid Persona (nothing but mother)
+- [[Folklore/Jungian Archetypes/The Divine Child]] — Spontaneity and authenticity repressed by Persona
+- [[Folklore/Jungian Archetypes/The Great Mother]] — Can become rigid Persona (nothing but mother)
 - [[The Syzygy]] — Sacred marriage requires Persona permeability
 
 ### Hero's Journey Stages
@@ -745,10 +745,10 @@ The Persona interacts dynamically with other archetypal structures:
 
 ### Astrology
 - [[Ascendant (Rising Sign)]] — The Persona presented to the world
-- [[Saturn]] — Structure, duty, social role, Persona rigidity
+- [[Saturn ♄]] — Structure, duty, social role, Persona rigidity
 - [[10th House (Midheaven)]] — Career, public reputation, legacy
-- [[Libra]] — Social adaptation, relationship Personas
-- [[Capricorn]] — Professionalization, achievement Persona
+- [[Libra ♎]] — Social adaptation, relationship Personas
+- [[Capricorn ♑]] — Professionalization, achievement Persona
 - [[Sun Sign]] — Core identity often conflated with Persona
 
 ### Human Design

@@ -610,12 +610,12 @@ The Citrinitas is the making of the Self conscious. It is the ripening of wisdom
 - [[Wheel of Fortune]] - Jupiter/expansion (philosophical attitude)
 
 ### Related Astrology
-- [[Sun]] - The solar principle (consciousness, identity, purpose)
-- [[Jupiter]] - Wisdom, philosophy, expansion, higher meaning
+- [[Sun ☉]] - The solar principle (consciousness, identity, purpose)
+- [[Jupiter ♃]] - Wisdom, philosophy, expansion, higher meaning
 - [[9th House]] - Philosophy, wisdom traditions, meaning-making
-- [[Sagittarius]] - The philosopher, the seeker, the arrow aimed at meaning
-- [[Leo]] - Solar consciousness, creative expression, heart wisdom
-- [[Saturn]] (positive aspect) - The wise elder (not the restrictor, but the teacher)
+- [[Sagittarius ♐]] - The philosopher, the seeker, the arrow aimed at meaning
+- [[Leo ♌]] - Solar consciousness, creative expression, heart wisdom
+- [[Saturn ♄]] (positive aspect) - The wise elder (not the restrictor, but the teacher)
 
 ### Related Human Design
 - [[G-Center]] - Identity, direction, higher purpose (the golden center)

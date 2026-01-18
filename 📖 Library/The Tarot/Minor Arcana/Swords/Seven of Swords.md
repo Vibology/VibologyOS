@@ -311,8 +311,8 @@ The effort is unstable. The question is whether you're using instability strateg
 - [[Sevens of the Tarot]] - All four Sevens as expressions of Netzach
 
 ### Planetary and Zodiacal
-- [[Moon]] - The emotional, instinctual, fluctuating nature
-- [[Aquarius]] - The sign of detachment, intellect, and unconventionality
+- [[Moon ☽]] - The emotional, instinctual, fluctuating nature
+- [[Aquarius ♒]] - The sign of detachment, intellect, and unconventionality
 - [[Moon in Aquarius]] - The specific combination of these energies
 
 ### Elemental and Suit

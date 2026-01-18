@@ -281,8 +281,8 @@ The question the Two asks is not "How can I make everything stop moving?" but "H
 - [[Twos of the Tarot]] - All four Twos as expressions of Chokmah
 
 ### Planetary and Astrological
-- [[Jupiter]] - The planet of expansion, optimism, and abundance
-- [[Capricorn]] - The sign of structure, ambition, and mastery
+- [[Jupiter ♃]] - The planet of expansion, optimism, and abundance
+- [[Capricorn ♑]] - The sign of structure, ambition, and mastery
 - [[Jupiter in Capricorn]] - Expansion through structure, sustainable growth
 - [[First Decan of Capricorn]] - The initiatory phase of the climb
 

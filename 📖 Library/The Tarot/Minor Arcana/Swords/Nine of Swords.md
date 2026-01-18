@@ -308,8 +308,8 @@ This is not easy to believe in the middle of the night. But it may be true.
 - [[Nines of the Tarot]] - All four Nines as expressions of Yesod
 
 ### Planetary and Zodiacal
-- [[Mars]] - The planet of aggression, war, and drive
-- [[Gemini]] - The sign of duality, thought, and communication
+- [[Mars ♂]] - The planet of aggression, war, and drive
+- [[Gemini ♊]] - The sign of duality, thought, and communication
 - [[Mars in Gemini]] - The specific combination of these energies
 
 ### Elemental and Suit

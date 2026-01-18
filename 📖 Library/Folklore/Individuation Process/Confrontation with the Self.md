@@ -301,11 +301,11 @@ A **whole human being** who has shifted the center of gravity from ego to Self, 
 ## V. Cross-References
 
 **Jungian Archetypes:**
-- [[The Self]] (primary archetype of this stage—totality, wholeness, God-image)
+- [[Folklore/Jungian Archetypes/The Self]] (primary archetype of this stage—totality, wholeness, God-image)
 - [[The Shadow]] (integrated into the Self)
-- [[The Anima]] (united with Animus in the Self)
-- [[The Animus]] (united with Anima in the Self)
-- [[The Divine Child]] (product of the Coniunctio, the realized Self)
+- [[Folklore/Jungian Archetypes/The Anima]] (united with Animus in the Self)
+- [[Folklore/Jungian Archetypes/The Animus]] (united with Anima in the Self)
+- [[Folklore/Jungian Archetypes/The Divine Child]] (product of the Coniunctio, the realized Self)
 - [[The Wise Old Man]] (projection of the Self as guide)
 
 **Hero's Journey:**
@@ -330,10 +330,10 @@ A **whole human being** who has shifted the center of gravity from ego to Self, 
 - [[0 - The Fool]] (return to innocence at higher octave)
 
 **Astrology:**
-- [[Sun]] (center, Self, conscious identity reconciled with totality)
-- [[Jupiter]] (expansion, wisdom, meaning, beneficence)
-- [[Pluto]] (transformation, death-rebirth, the Self's power)
-- [[Uranus]] (individuation crisis, sudden awakening to Self)
+- [[Sun ☉]] (center, Self, conscious identity reconciled with totality)
+- [[Jupiter ♃]] (expansion, wisdom, meaning, beneficence)
+- [[Pluto ♇]] (transformation, death-rebirth, the Self's power)
+- [[Uranus ♅]] (individuation crisis, sudden awakening to Self)
 
 **Human Design:**
 - [[G-Center]] (Self, direction, love, identity—the magnetic monopole)

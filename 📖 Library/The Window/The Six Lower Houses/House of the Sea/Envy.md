@@ -87,7 +87,7 @@ The antidote to Envy is **Gratitude**—returning to appreciation for your actua
 
 ## Internal Links
 
-- [[Sea]] - The House of emotional depth and relational encounter
+- [[House of the Sea]] - The House of emotional depth and relational encounter
 - [[Gate 54]] - The Marrying Maiden / Drive (Root Center)
 - [[Hexagram 54]] - The Marrying Maiden (I-Ching)
 - [[Gene Keys - Shadow: Greed, Gift: Aspiration, Siddhi: Ascension]]

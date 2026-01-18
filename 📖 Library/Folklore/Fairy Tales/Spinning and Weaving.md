@@ -386,9 +386,9 @@ The **Bean Nighe** (Washer Woman) appears at rivers, washing the bloodstained cl
 - [[Gate 50]] – Values and the cauldron, what is preserved and passed down
 
 **Astrology:**
-- [[Saturn]] – The cosmic weaver, karmic patterns, time's threads
-- [[Moon]] – The cyclic spinner, the wheel of emotional tides
-- [[Virgo]] – The discriminating hand that cards wool, sorts threads
+- [[Saturn ♄]] – The cosmic weaver, karmic patterns, time's threads
+- [[Moon ☽]] – The cyclic spinner, the wheel of emotional tides
+- [[Virgo ♍]] – The discriminating hand that cards wool, sorts threads
 
 **Esoteric Concepts:**
 - [[Manifestation]] – Spinning fantasy into reality, fixing the volatile

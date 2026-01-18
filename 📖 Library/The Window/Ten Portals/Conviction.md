@@ -97,7 +97,7 @@ When Conviction appears in a reading, the querent is being asked: what is your S
 
 ## Internal Links
 
-- [[The Hero]] - Journey requiring conviction
+- [[Folklore/Jungian Archetypes/The Hero]] - Journey requiring conviction
 - [[Gate 29 - The Abysmal]]
 - [[Gene Key 29 - Half-Heartedness to Devotion]]
 - [[Hexagram 29 - The Abysmal]]

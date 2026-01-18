@@ -855,7 +855,7 @@ For those who consciously align with Cherubic intelligence, a vow may be taken (
 
 ### Astrology
 - [[The Zodiac]] (Masloth, the twelve archetypal patterns)
-- [[Uranus]] (Sudden illumination, awakening, pattern-breaking insight)
+- [[Uranus ♅]] (Sudden illumination, awakening, pattern-breaking insight)
 - [[Fixed Signs]] (Aquarius, Leo, Taurus, Scorpio—the four faces)
 - [[Precession of the Equinoxes]] (The great wheel, ages, cosmic cycles)
 
@@ -869,7 +869,7 @@ For those who consciously align with Cherubic intelligence, a vow may be taken (
 ### Jungian Psychology
 - [[Archetypes]]
 - [[The Wise Old Man]]
-- [[The Self]] (Organizing intelligence, totality)
+- [[Folklore/Jungian Archetypes/The Self]] (Organizing intelligence, totality)
 - [[Psychoid Archetype]] (Threshold between psyche and matter)
 - [[Individuation]] (Integration of unconscious contents)
 - [[Shadow]] (The inflated intellect, Leviathan)

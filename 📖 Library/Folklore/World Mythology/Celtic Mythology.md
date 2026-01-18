@@ -902,12 +902,12 @@ The **Grail/Cauldron** is the **alembic**—the vessel where all operations occu
 - [[King of Cups]] (Grail King, Fisher King healed)
 
 ### Astrology
-- [[Sun]] (Lugh the solar hero, consciousness)
-- [[Moon]] (Otherworld, Morrigan, time distortion)
-- [[Jupiter]] (Dagda the benevolent, expansion, abundance)
-- [[Saturn]] (Balor the senex, time, limitation, death)
-- [[Neptune]] (Otherworld, Avalon, dissolution of boundaries)
-- [[Pluto]] (Morrigan, death/rebirth, Samhain, underworld)
+- [[Sun ☉]] (Lugh the solar hero, consciousness)
+- [[Moon ☽]] (Otherworld, Morrigan, time distortion)
+- [[Jupiter ♃]] (Dagda the benevolent, expansion, abundance)
+- [[Saturn ♄]] (Balor the senex, time, limitation, death)
+- [[Neptune ♆]] (Otherworld, Avalon, dissolution of boundaries)
+- [[Pluto ♇]] (Morrigan, death/rebirth, Samhain, underworld)
 - [[Chiron]] (Wounded King, wounded healer)
 
 ### Human Design

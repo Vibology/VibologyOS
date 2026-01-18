@@ -1013,15 +1013,15 @@ This is controversial but psychologically valid: individuation in the West requi
 - [[The World]] (Atman-Brahman unity, wholeness)
 
 ### Astrology
-- [[Jupiter]] (Vishnu as expansion, dharma, grace)
-- [[Saturn]] (Shiva as time, limitation, destruction-transformation)
-- [[Venus]] (Lakshmi, Radha as beauty, love, abundance)
-- [[Mars]] (Durga, Hanuman as warrior energy)
-- [[Mercury]] (Krishna as trickster, teacher, communicator)
-- [[Moon]] (Shakti, the feminine, the unconscious)
-- [[Sun]] (Rama as solar hero, consciousness, dharma)
-- [[Pluto]] (Kali as death, transformation, underworld)
-- [[Neptune]] (Maya, illusion, dissolution into Brahman)
+- [[Jupiter ♃]] (Vishnu as expansion, dharma, grace)
+- [[Saturn ♄]] (Shiva as time, limitation, destruction-transformation)
+- [[Venus ♀]] (Lakshmi, Radha as beauty, love, abundance)
+- [[Mars ♂]] (Durga, Hanuman as warrior energy)
+- [[Astrology/Planets/Mercury # ☿]] (Krishna as trickster, teacher, communicator)
+- [[Moon ☽]] (Shakti, the feminine, the unconscious)
+- [[Sun ☉]] (Rama as solar hero, consciousness, dharma)
+- [[Pluto ♇]] (Kali as death, transformation, underworld)
+- [[Neptune ♆]] (Maya, illusion, dissolution into Brahman)
 
 ### Human Design
 - [[Gate 2]] (Direction of the Self) = Atman seeking Brahman

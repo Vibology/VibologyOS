@@ -294,11 +294,11 @@ A **real person** who has descended into their own underworld and returned with 
 
 **Jungian Archetypes:**
 - [[The Shadow]] (primary archetype of this stage—complete entry with personal vs collective distinction)
-- [[The Hero]] (must "die" in the Ordeal to be reborn)
-- [[The Persona]] (relativized, revealed as partial truth)
-- [[The Anima]] (contaminated by shadow until integration occurs)
-- [[The Animus]] (contaminated by shadow until integration occurs)
-- [[The Great Mother]] (terrible aspect—devouring, death-dealing)
+- [[Folklore/Jungian Archetypes/The Hero]] (must "die" in the Ordeal to be reborn)
+- [[Folklore/Jungian Archetypes/The Persona]] (relativized, revealed as partial truth)
+- [[Folklore/Jungian Archetypes/The Anima]] (contaminated by shadow until integration occurs)
+- [[Folklore/Jungian Archetypes/The Animus]] (contaminated by shadow until integration occurs)
+- [[Folklore/Jungian Archetypes/The Great Mother]] (terrible aspect—devouring, death-dealing)
 
 **Hero's Journey:**
 - [[The Ordeal]] (central crisis, ego-death, supreme test)
@@ -322,10 +322,10 @@ A **real person** who has descended into their own underworld and returned with 
 - [[XVI - The Tower]] (shattering of Persona, violent revelation)
 
 **Astrology:**
-- [[Pluto]] (death, rebirth, shadow, transformation, underworld)
-- [[Saturn]] (time, limitation, mortality awareness)
+- [[Pluto ♇]] (death, rebirth, shadow, transformation, underworld)
+- [[Saturn ♄]] (time, limitation, mortality awareness)
 - [[8th House]] (crisis, shared resources, death, regeneration)
-- [[Scorpio]] (depth, intensity, shadow work, transformation)
+- [[Scorpio ♏]] (depth, intensity, shadow work, transformation)
 - **Saturn Opposite Saturn** (age 44—midlife crisis transit)
 - [[Pluto Square Pluto]] (age 40-42—generational crisis)
 

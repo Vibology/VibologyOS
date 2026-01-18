@@ -833,15 +833,15 @@ The Anima interacts dynamically with other archetypal structures:
 
 ### Jungian Archetypes
 - [[The Shadow]] — Must be integrated before Anima work; Anima often contaminated by Shadow
-- [[The Animus]] — Feminine soul-image's masculine counterpart; logos-bearer in women
-- [[The Self]] — Anima is psychopomp leading ego to the Self
-- [[The Great Mother]] — Anima can merge with mother-image (Eve stage)
+- [[Folklore/Jungian Archetypes/The Animus]] — Feminine soul-image's masculine counterpart; logos-bearer in women
+- [[Folklore/Jungian Archetypes/The Self]] — Anima is psychopomp leading ego to the Self
+- [[Folklore/Jungian Archetypes/The Great Mother]] — Anima can merge with mother-image (Eve stage)
 - [[The Wise Old Man]] — Masculine parallel to Sophia Anima; guides wisdom
-- [[The Hero]] — Anima is the beloved and goal of the hero's journey
-- [[The Divine Child]] — Product of the Coniunctio (sacred marriage)
-- [[The Persona]] — Outward mask; Anima is the inward bridge
+- [[Folklore/Jungian Archetypes/The Hero]] — Anima is the beloved and goal of the hero's journey
+- [[Folklore/Jungian Archetypes/The Divine Child]] — Product of the Coniunctio (sacred marriage)
+- [[Folklore/Jungian Archetypes/The Persona]] — Outward mask; Anima is the inward bridge
 - [[The Syzygy]] — Sacred marriage of opposites; union of Anima and ego
-- [[The Joker]] — Shape-shifting, boundary-crossing energy of the unconscious
+- [[Folklore/Jungian Archetypes/The Joker]] — Shape-shifting, boundary-crossing energy of the unconscious
 
 ### Hero's Journey Stages
 - [[Supernatural Aid]] — Anima as fairy godmother or wise woman
@@ -877,12 +877,12 @@ The Anima interacts dynamically with other archetypal structures:
 
 ### Astrology
 - [[The Moon]] — Emotional nature, fluctuations, mother-image
-- [[Venus]] — Erotic Anima, attraction, beauty, aesthetic
-- [[Neptune]] — Divine longing, dissolution, mystical union
+- [[Venus ♀]] — Erotic Anima, attraction, beauty, aesthetic
+- [[Neptune ♆]] — Divine longing, dissolution, mystical union
 - [[7th House]] — Relationships, projection, the "other"
 - [[12th House]] — Unconscious, hidden realm, dissolution
-- [[Pisces]] — Boundless, compassionate, mystical feminine
-- [[Libra]] — Relational, aesthetic, harmonizing Anima
+- [[Pisces ♓]] — Boundless, compassionate, mystical feminine
+- [[Libra ♎]] — Relational, aesthetic, harmonizing Anima
 
 ### Human Design
 - [[Gate 59 - Sexuality]] — The "Aura Breaker"; drive for intimacy and union

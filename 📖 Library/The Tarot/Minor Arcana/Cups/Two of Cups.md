@@ -336,8 +336,8 @@ The Two of Cups does not promise that love is easy. It promises that love is *po
 - [[Cards of Chokmah]] - All Twos across the suits
 
 ### Planetary and Astrological
-- [[Venus]] - The planet of love, beauty, and relationship
-- [[Cancer]] - The sign of home, nurturing, and emotional depth
+- [[Venus ♀]] - The planet of love, beauty, and relationship
+- [[Cancer ♋]] - The sign of home, nurturing, and emotional depth
 - [[Venus in Cancer]] - Love seeking shelter and emotional safety
 - [[First Decan of Cancer]] - The most tender expression of the sign
 

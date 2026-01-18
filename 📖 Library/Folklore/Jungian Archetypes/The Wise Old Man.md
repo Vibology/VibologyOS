@@ -787,15 +787,15 @@ The Wise Old Man interacts dynamically with other archetypal structures:
 ## Section 6: Cross-References
 
 ### Jungian Archetypes
-- [[The Hero]] — The Senex is the mentor and guide; the Hero must claim Senex authority
+- [[Folklore/Jungian Archetypes/The Hero]] — The Senex is the mentor and guide; the Hero must claim Senex authority
 - [[The Shadow]] — The Senex provides wisdom for shadow integration; shadow Senex is the tyrant
-- [[The Anima]] — Feminine soul-image; Senex and Anima appear together (logos and eros)
-- [[The Animus]] — In women, often appears as Senex (council of wise men, inner voice)
-- [[The Self]] — The Senex is a partial manifestation of the Self (logos/spirit aspect)
-- [[The Great Mother]] — Senex (spirit/logos) vs. Mother (matter/eros)—complementary opposites
-- [[The Divine Child]] — The Senex protects and mentors the Child; shadow Senex devours the Child
+- [[Folklore/Jungian Archetypes/The Anima]] — Feminine soul-image; Senex and Anima appear together (logos and eros)
+- [[Folklore/Jungian Archetypes/The Animus]] — In women, often appears as Senex (council of wise men, inner voice)
+- [[Folklore/Jungian Archetypes/The Self]] — The Senex is a partial manifestation of the Self (logos/spirit aspect)
+- [[Folklore/Jungian Archetypes/The Great Mother]] — Senex (spirit/logos) vs. Mother (matter/eros)—complementary opposites
+- [[Folklore/Jungian Archetypes/The Divine Child]] — The Senex protects and mentors the Child; shadow Senex devours the Child
 - [[The Trickster]] — The Senex's playful shadow; shatters rigidity
-- [[The Persona]] — The Senex provides wisdom to balance Persona inflation
+- [[Folklore/Jungian Archetypes/The Persona]] — The Senex provides wisdom to balance Persona inflation
 - [[The Syzygy]] — The sacred marriage requires the Senex's blessing
 
 ### Puer-Senex Polarity
@@ -838,12 +838,12 @@ The Wise Old Man interacts dynamically with other archetypal structures:
 - [[The World]] — Completion of the cycle; the integrated Senex
 
 ### Astrology
-- [[Saturn]] — The Senex planet; structure, time, limitation, wisdom, test
-- [[Capricorn]] — The Senex sign; mastery, authority, discipline, legacy
+- [[Saturn ♄]] — The Senex planet; structure, time, limitation, wisdom, test
+- [[Capricorn ♑]] — The Senex sign; mastery, authority, discipline, legacy
 - [[10th House]] — Vocation, public authority, legacy
 - [[Saturn Return]] — Ages 28-30 and 58-60; Senex initiations
 - [[Chiron]] — The wounded healer; the Senex who teaches from his own wound
-- [[Jupiter]] — The benevolent Senex (wisdom, expansion) vs. Saturn (limitation, discipline)
+- [[Jupiter ♃]] — The benevolent Senex (wisdom, expansion) vs. Saturn (limitation, discipline)
 
 ### Human Design
 - [[Gate 61 - Inner Truth]] — Penetrating knowing, inspiration from within (Senex wisdom)

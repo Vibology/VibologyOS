@@ -406,8 +406,8 @@ The integrated Six knows: *I am not the laurel wreath. I am the one who was wort
 - [[Sixes of the Tarot]] - The six as number of harmony and integration
 
 ### Planetary and Astrological
-- [[Jupiter]] - The Greater Benefic: expansion, benevolence, wisdom, good fortune
-- [[Leo]] - The fixed fire sign: royalty, creativity, pride, generosity
+- [[Jupiter ♃]] - The Greater Benefic: expansion, benevolence, wisdom, good fortune
+- [[Leo ♌]] - The fixed fire sign: royalty, creativity, pride, generosity
 - [[Jupiter in Leo]] - Radiant success, natural authority, leadership through inspiration
 - [[Third Decan of Leo]] - The specific zodiacal section (20°-30° Leo)
 

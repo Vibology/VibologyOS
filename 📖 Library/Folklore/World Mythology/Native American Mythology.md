@@ -810,12 +810,12 @@ Jung: *"The Indian's relationship to his gods is not one of belief but of experi
 - [[The World]] (Sacred Hoop complete, Web-of-All-Relations, wholeness)
 
 ### Astrology
-- [[Jupiter]] (Expansion, vision, abundance—Buffalo medicine)
-- [[Saturn]] (Elderhood, ancestors, North direction)
-- [[Uranus]] (Trickster disruption, Coyote/Raven chaos)
-- [[Neptune]] (West/Water, dreams, dissolution into the Web)
-- [[Pluto]] (Vision quest, underworld descent, transformation)
-- [[Moon]] (Changing Woman, cyclical time, feminine wisdom)
+- [[Jupiter ♃]] (Expansion, vision, abundance—Buffalo medicine)
+- [[Saturn ♄]] (Elderhood, ancestors, North direction)
+- [[Uranus ♅]] (Trickster disruption, Coyote/Raven chaos)
+- [[Neptune ♆]] (West/Water, dreams, dissolution into the Web)
+- [[Pluto ♇]] (Vision quest, underworld descent, transformation)
+- [[Moon ☽]] (Changing Woman, cyclical time, feminine wisdom)
 
 ### Human Design
 - [[Gate 25]] (Innocence) = Coyote's foolishness, Trickster teaching

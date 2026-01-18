@@ -359,8 +359,8 @@ The Lord of Abandoned Success knows that some successes must be abandoned for gr
 - [[Cards of Hod]] - All Eights across the suits
 
 ### Planetary and Astrological
-- [[Saturn]] - The planet: limitation, time, discipline, renunciation
-- [[Pisces]] - The Fish: dissolution, transcendence, the ocean
+- [[Saturn ♄]] - The planet: limitation, time, discipline, renunciation
+- [[Pisces ♓]] - The Fish: dissolution, transcendence, the ocean
 - [[Saturn in Pisces]] - Structured dissolution, wise withdrawal
 - [[First Decan of Pisces]] - The initial entry into Piscean waters
 

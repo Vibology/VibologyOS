@@ -87,7 +87,7 @@ Longing stands in opposition to **Envy** (Gate 54 shadow)—because honest desir
 
 ## Internal Links
 
-- [[Sea]] - The House of emotional depth and relational encounter
+- [[House of the Sea]] - The House of emotional depth and relational encounter
 - [[Gate 19]] - Approach / Wanting (Root Center)
 - [[Hexagram 19]] - Approach (I-Ching)
 - [[Gene Keys - Shadow: Co-dependence, Gift: Sensitivity, Siddhi: Sacrifice]]

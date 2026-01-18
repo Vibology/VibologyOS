@@ -92,12 +92,12 @@ Psychologically, the Return with the Elixir corresponds to:
 | **System** | **Primary Correspondence** | **Symbolic Resonance** | **Psychological Function** |
 |------------|---------------------------|------------------------|----------------------------|
 | **Tarot** | [[The World (XXI)]]<br>[[Temperance (XIV)]]<br>[[The Empress (III)]]<br>[[The Star (XVII)]] | The World: Completion, cosmic dance, mastery<br>Temperance: Alchemy, blending opposites, moderation<br>Empress: Abundance, nourishment, sharing resources<br>Star: Hope after devastation, healing waters poured | The journey complete, the soul fulfilled; what was earned is now given; the ego serves the [[Self]]'s purpose of interconnection |
-| **Astrology** | [[Jupiter]]<br>[[10th House]]<br>[[11th House]]<br>[[Venus]] | Jupiter: Expansion, teaching, generosity, wisdom shared<br>10th House: Public contribution, legacy, visible achievement<br>11th House: Community, collective benefit, hopes fulfilled<br>Venus: Relationship, beauty, what we value and offer | Planetary energies of abundance and relationship activated—the individual's transformation becomes collective gift |
+| **Astrology** | [[Jupiter ♃]]<br>[[10th House]]<br>[[11th House]]<br>[[Venus ♀]] | Jupiter: Expansion, teaching, generosity, wisdom shared<br>10th House: Public contribution, legacy, visible achievement<br>11th House: Community, collective benefit, hopes fulfilled<br>Venus: Relationship, beauty, what we value and offer | Planetary energies of abundance and relationship activated—the individual's transformation becomes collective gift |
 | **Human Design** | **Generator Sacral** (sustainable sharing)<br>**Manifestor Informing** (initiating for others)<br>**Projector Guiding** (recognition-based wisdom)<br>**Reflector** (lunar wisdom shared) | Generator: Magnetic pull brings those who need your energy<br>Manifestor: Your initiation becomes template<br>Projector: You guide only when invited, wisdom honored<br>Reflector: Your sampling of collective becomes mirror for community | Each type's strategy ensures the Elixir is shared *correctly*—not forced, not hoarded, but offered when aligned |
 | **I-Ching** | **Hexagram 14 (Ta Yu / Possession in Great Measure)**<br>**Hexagram 11 (T'ai / Peace)**<br>**Hexagram 50 (Ting / The Cauldron)** | Ta Yu: Supreme abundance, wealth shared generously<br>T'ai: Heaven and Earth in harmony, peace established<br>Ting: The sacrificial vessel, nourishment for the multitude | The I-Ching's counsel: *"The superior person curbs evil and furthers good, in obedience to the benevolent will of heaven."* Abundance is for service |
 | **Qabalah** | **Chesed (Mercy)**<br>**Tiphareth (Beauty)**<br>**Malkuth (Kingdom)** | Chesed: Jupiter-ruled generosity, expansive love, the giving hand<br>Tiphareth: Harmonized self at heart-center, Christ-consciousness, sacrificial service<br>Malkuth: Manifestation in matter, the Kingdom realized | The Lightning Flash descended; now the path ascends—wisdom brought back **down** the Tree to Malkuth, grounding the divine in the world |
 | **Angelology** | [[Tzadkiel]] (Chesed's angel)<br>[[Raphael]] (Healing)<br>[[Sandalphon]] (Prayers ascending) | Tzadkiel: Benevolence, mercy, abundance without condition<br>Raphael: The healer, medicine distributed, restoration<br>Sandalphon: The bridge—human prayers rise, divine grace descends | Angels of service, healing, and transmission—the Elixir is **theirs** to dispense through you; you are the vessel |
-| **Jungian Archetypes** | [[The Self]] (individuation complete)<br>[[The Wise Old Man]]<br>[[The Wise Old Woman]]<br>[[The Redeemer]] | Self: Wholeness achieved, ego/Self axis harmonized<br>Wise Old Man/Woman: Mentor, sage, the one who has crossed<br>Redeemer: Christ, Prometheus—self-sacrifice for collective liberation | The hero has **become** the archetype they once projected onto others; the wounded healer heals |
+| **Jungian Archetypes** | [[Folklore/Jungian Archetypes/The Self]] (individuation complete)<br>[[The Wise Old Man]]<br>[[The Wise Old Woman]]<br>[[The Redeemer]] | Self: Wholeness achieved, ego/Self axis harmonized<br>Wise Old Man/Woman: Mentor, sage, the one who has crossed<br>Redeemer: Christ, Prometheus—self-sacrifice for collective liberation | The hero has **become** the archetype they once projected onto others; the wounded healer heals |
 
 ## 3. Practical Application
 
@@ -632,7 +632,7 @@ For non-binary and transgender individuals, the Elixir often centers on **living
 
 **Psychological Function**: The Elixir is **presence**—simply existing as who you are challenges collective assumptions. The teaching: *"I am the bridge. I contain multitudes. So can you."*
 
-**Archetypal Resonance**: [[Hermes]]/[[Mercury]] (messenger, boundary-crosser), [[Dionysus]] (androgyny, ecstatic dissolution), the **Two-Spirit** tradition (Indigenous cultures honoring those who hold both/neither gender).
+**Archetypal Resonance**: [[Hermes]]/[[Astrology/Planets/Mercury # ☿]] (messenger, boundary-crosser), [[Dionysus]] (androgyny, ecstatic dissolution), the **Two-Spirit** tradition (Indigenous cultures honoring those who hold both/neither gender).
 
 ### Cultural Context
 
@@ -644,12 +644,12 @@ The **future of the Elixir archetype** may be **gender-integrative**:
 ## 6. Cross-References
 
 ### Jungian Archetypes
-- [[The Self]]: The Elixir is the Self's **gift** to the collective through the individuated ego. The hero has become **conscious vessel** for the Self's purpose.
+- [[Folklore/Jungian Archetypes/The Self]]: The Elixir is the Self's **gift** to the collective through the individuated ego. The hero has become **conscious vessel** for the Self's purpose.
 - [[The Wise Old Man]] / [[The Wise Old Woman]]: The hero has become the archetype they once projected onto mentors. Now they are the crone, the sage, the elder.
 - [[The Redeemer]]: Christ archetype—self-sacrifice for collective liberation. The Elixir is **redemptive suffering** transmuted into healing.
 - [[The Wounded Healer]]: The hero's wound, metabolized, becomes their **medicine**. Physician, heal thyself—then heal others.
 - [[Psychopomp]]: The hero who has crossed between life and death, conscious and unconscious, now **guides others** across thresholds.
-- [[The Divine Child]]: The Elixir often manifests as **new life**—literal children, creative projects, movements. The future is birthed through the hero's service.
+- [[Folklore/Jungian Archetypes/The Divine Child]]: The Elixir often manifests as **new life**—literal children, creative projects, movements. The future is birthed through the hero's service.
 
 ### Hero's Journey Stages
 - [[The Call to Adventure]]: The wound/lack that began the journey is now the **content** of the Elixir. Your abandonment becomes your capacity to parent the orphaned.
@@ -673,13 +673,13 @@ The **future of the Elixir archetype** may be **gender-integrative**:
 - [[Judgment (XX)]]: Resurrection, the call to rise. The Elixir is what **responds** to the angel's trumpet—the reborn self in service.
 
 ### Astrology
-- [[Jupiter]]: Expansion, teaching, generosity, benevolence. Jupiter's energy is **Elixir energy**—giving freely, trusting abundance.
+- [[Jupiter ♃]]: Expansion, teaching, generosity, benevolence. Jupiter's energy is **Elixir energy**—giving freely, trusting abundance.
 - [[10th House]]: Public contribution, career, legacy. The Elixir manifests in **visible service**, work that outlasts you.
 - [[11th House]]: Community, collective benefit, hopes and wishes. The Elixir serves the **many**, not just the individual.
-- [[Venus]]: Relationship, beauty, value. The Elixir as **gift of relationship**—healing marriages, friendships, communities.
-- [[Saturn]]: Karmic completion, responsibility, mastery. The Elixir as **mature service**—earned authority, not inflated claims.
+- [[Venus ♀]]: Relationship, beauty, value. The Elixir as **gift of relationship**—healing marriages, friendships, communities.
+- [[Saturn ♄]]: Karmic completion, responsibility, mastery. The Elixir as **mature service**—earned authority, not inflated claims.
 - [[9th House]]: Teaching, philosophy, long journeys. The Elixir as **wisdom shared**, the travelogue that guides others.
-- [[Sun]]: Identity, vitality, purpose. The Elixir is the **radiance** of the individuated self—you become what you are meant to be, and others warm themselves by your light.
+- [[Sun ☉]]: Identity, vitality, purpose. The Elixir is the **radiance** of the individuated self—you become what you are meant to be, and others warm themselves by your light.
 
 ### Human Design
 - **Generator Sacral Sharing**: Your sustainable life-force becomes **magnetic**—those who need your Elixir are drawn to your energy.

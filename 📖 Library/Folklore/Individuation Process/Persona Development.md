@@ -273,12 +273,12 @@ A **functional Persona** that serves the Self's aims—a mask that can be worn w
 ## V. Cross-References
 
 **Jungian Archetypes:**
-- [[The Persona]] (primary archetype of this stage)
-- [[The Hero]] (drive for achievement and conquest)
+- [[Folklore/Jungian Archetypes/The Persona]] (primary archetype of this stage)
+- [[Folklore/Jungian Archetypes/The Hero]] (drive for achievement and conquest)
 - [[The Shadow]] (begins forming from repressed authentic self)
 - [[The Wise Old Man]] (projected onto mentors and authority figures)
-- [[The Anima]] (projected onto women by men seeking completion)
-- [[The Animus]] (projected onto men by women seeking meaning)
+- [[Folklore/Jungian Archetypes/The Anima]] (projected onto women by men seeking completion)
+- [[Folklore/Jungian Archetypes/The Animus]] (projected onto men by women seeking meaning)
 
 **Hero's Journey:**
 - [[Tests, Allies, and Enemies]] (skill acquisition, social navigation)
@@ -303,10 +303,10 @@ A **functional Persona** that serves the Self's aims—a mask that can be worn w
 - [[XVI - The Tower]] (shattering of Persona in midlife crisis)
 
 **Astrology:**
-- [[Saturn]] (structure, discipline, mastery, time)
-- [[Sun]] (ego, conscious identity, heroic will)
+- [[Saturn ♄]] (structure, discipline, mastery, time)
+- [[Sun ☉]] (ego, conscious identity, heroic will)
 - [[10th House]] (career, public role, authority, reputation)
-- [[Capricorn]] (ambition, achievement, social climbing)
+- [[Capricorn ♑]] (ambition, achievement, social climbing)
 - [[Saturn Return]] (age 29—testing of Persona, first crisis)
 
 **Human Design:**

@@ -9,9 +9,9 @@ natural_sign: Taurus
 cosignificator: Jupiter
 theme: Resources, Values, Material Foundation
 ---
+*Resources and the Ground of Value*
 
-# 2nd House: Resources and the Ground of Value
-
+---
 ## Archetypal Theme
 
 The **2nd House** governs **resources and values**—not just money, but everything that sustains life: food, shelter, possessions, and the **sense of worth** that allows one to claim material security. This is the house of **having**: what you own, what you value, and whether you believe you deserve it.
@@ -19,7 +19,6 @@ The **2nd House** governs **resources and values**—not just money, but everyth
 Where the 1st House is **being** ("I am"), the 2nd House is **grounding** ("I have"). It answers the question: What supports my existence, and do I trust that it will continue?
 
 ---
-
 ## Succedent House Significance
 
 The 2nd House is **Succedent**—one of the four houses that **sustain and consolidate** what Angular houses initiate. Succedent houses (2nd, 5th, 8th, 11th) correspond to Fixed signs and represent:
@@ -32,7 +31,6 @@ The 2nd House is **Succedent**—one of the four houses that **sustain and conso
 The 2nd House specifically governs **material foundation**—the resources required to sustain the identity initiated in the 1st House.
 
 ---
-
 ## Life Domain
 
 The 2nd House governs:
@@ -45,17 +43,15 @@ The 2nd House governs:
 This is not just wealth but **relationship to wealth**—whether you hoard, share, squander, or trust that there is enough.
 
 ---
-
 ## Natural Correspondence
 
-**[[Taurus]]** and **[[Venus]]** — The principle of consolidation, pleasure, and material beauty.
+**[[Taurus ♉]]** and **[[Venus ♀]]** — The principle of consolidation, pleasure, and material beauty.
 
 Taurus is the fixed earth sign that gathers, holds, and builds. It does not rush; it **accumulates**. Venus, as ruler of Taurus, governs the 2nd House naturally. Venus is the principle of **attraction and value**—what you draw to yourself reflects what you believe you deserve.
 
-**Cosignificator:** [[Jupiter]] — Expansion, benevolence, and the trust that there is enough.
+**Cosignificator:** [[Jupiter ♃]] — Expansion, benevolence, and the trust that there is enough.
 
 ---
-
 ## The 2nd House Ruler
 
 The **ruler of the 2nd House** (the planet ruling the sign on the 2nd House cusp) reveals *how* you acquire resources and what you truly value.
@@ -68,45 +64,40 @@ The **ruler of the 2nd House** (the planet ruling the sign on the 2nd House cusp
 The 2nd House ruler's **sign, house, and aspects** show where and how you build material foundation.
 
 ---
-
 ## Planets Through the 2nd House
 
 ### Sun in the 2nd House
 
-When the [[Sun]] is in the 2nd House, **identity is tied to resources**. Self-worth depends on material success; the ego needs tangible proof of value. These individuals are natural wealth-builders, but they must learn that *having* does not equal *being*.
+When the [[Sun ☉]] is in the 2nd House, **identity is tied to resources**. Self-worth depends on material success; the ego needs tangible proof of value. These individuals are natural wealth-builders, but they must learn that *having* does not equal *being*.
 
 **Gift:** Confidence in earning, financial stability, generosity
 **Challenge:** Self-worth tied to net worth; identity crisis if finances collapse
 
 ---
-
 ### Moon in the 2nd House
 
-When the [[Moon]] is in the 2nd House, **emotional security requires material stability**. These individuals hoard resources as protection against emotional vulnerability. Money = safety.
+When the [[Moon ☽]] is in the 2nd House, **emotional security requires material stability**. These individuals hoard resources as protection against emotional vulnerability. Money = safety.
 
 **Gift:** Instinctive financial sense, emotional grounding through tangible assets
 **Challenge:** Clinging to possessions, inability to trust flow
 
 ---
-
 ### Jupiter in the 2nd House
 
-When [[Jupiter]] is in the 2nd House, **resources expand naturally**. These individuals attract wealth through optimism and generosity. Money flows to them because they believe in abundance.
+When [[Jupiter ♃]] is in the 2nd House, **resources expand naturally**. These individuals attract wealth through optimism and generosity. Money flows to them because they believe in abundance.
 
 **Gift:** Financial luck, generosity, trust in provision
 **Challenge:** Overextension, wastefulness, taking abundance for granted
 
 ---
-
 ### Saturn in the 2nd House
 
-When [[Saturn]] is in the 2nd House, **resources are earned through struggle**. These individuals fear scarcity and must learn to trust that they are worthy of having. Saturn here teaches that **value is built, not given**.
+When [[Saturn ♄]] is in the 2nd House, **resources are earned through struggle**. These individuals fear scarcity and must learn to trust that they are worthy of having. Saturn here teaches that **value is built, not given**.
 
 **Gift:** Financial discipline, long-term wealth building, mastery of resources
 **Challenge:** Poverty consciousness, hoarding, inability to enjoy what is earned
 
 ---
-
 ## Psychological & Jungian Depth
 
 The 2nd House represents **self-worth and deservingness**—the unconscious belief about whether you are entitled to exist, to have, to take up space.
@@ -126,7 +117,6 @@ The 2nd House represents **self-worth and deservingness**—the unconscious beli
 The 2nd House challenge is to recognize that **value is intrinsic, not conditional**—you are worthy of having before you prove it through accumulation.
 
 ---
-
 ## Esoteric Significance
 
 In esoteric astrology, the 2nd House governs the **etheric body**—the energetic foundation that sustains physical incarnation. It is the **vitality** that allows consciousness to remain embodied.
@@ -136,7 +126,6 @@ In [[Human Design]], the 2nd House corresponds to the **Sacral Center** (sustain
 In Qabalistic terms, the 2nd House corresponds to **Yesod** (Foundation)—the sphere that gathers and stabilizes energy before it manifests in Malkuth (physical reality).
 
 ---
-
 ## Evolved vs. Unevolved Expression
 
 **Unevolved 2nd House:**
@@ -152,7 +141,6 @@ In Qabalistic terms, the 2nd House corresponds to **Yesod** (Foundation)—the s
 The evolution of the 2nd House is learning that **security is not scarcity management**—it is trust in the body's capacity to attract what it needs.
 
 ---
-
 ## Derivative Houses: 2nd from Each House
 
 The **2nd House principle** (resources, values) applies to every house through **derivative house analysis**:
@@ -164,7 +152,6 @@ The **2nd House principle** (resources, values) applies to every house through *
 Derivative houses reveal how the 2nd House theme manifests in different life domains.
 
 ---
-
 ## Practical Guidance
 
 ### For Those with a Strong 2nd House (Planets in 2nd)
@@ -188,15 +175,14 @@ Derivative houses reveal how the 2nd House theme manifests in different life dom
 - **Generosity experiments** (Giving to test your trust in abundance)
 
 ---
-
 ## Cross-References
 
 ### Within Astrology
-- **[[Taurus]]:** Natural ruler of the 2nd House
-- **[[Venus]]:** Planetary ruler of Taurus and significator of value, beauty, resources
-- **[[Jupiter]]:** Cosignificator—expansion, benevolence, abundance
+- **[[Taurus ♉]]:** Natural ruler of the 2nd House
+- **[[Venus ♀]]:** Planetary ruler of Taurus and significator of value, beauty, resources
+- **[[Jupiter ♃]]:** Cosignificator—expansion, benevolence, abundance
 - **8th House:** Shared resources, partner's money, inheritance (2nd from 7th)
-- **[[Saturn]]:** Lessons of scarcity, discipline, earned value
+- **[[Saturn ♄]]:** Lessons of scarcity, discipline, earned value
 
 ### Cross-System Integration
 - **[[Human Design]]:** Sacral Center (sustainable life force), Root Center (material pressure)

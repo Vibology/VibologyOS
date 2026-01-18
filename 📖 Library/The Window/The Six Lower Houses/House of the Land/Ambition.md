@@ -89,7 +89,7 @@ Ambition stands in contrast to the negative Land cards, particularly **Fragility
 
 ## Internal Links
 
-- [[Land]] - The House of embodied foundation and material grounding
+- [[House of the Land]] - The House of embodied foundation and material grounding
 - [[Gate 16]] - Enthusiasm / Skills (Throat Center)
 - [[Hexagram 16]] - Enthusiasm (I-Ching)
 - [[Gene Keys - Shadow: Indifference, Gift: Versatility, Siddhi: Mastery]]
