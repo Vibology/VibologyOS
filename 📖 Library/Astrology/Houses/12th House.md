@@ -83,6 +83,42 @@ When the [[Moon ☽]] is in the 12th House, **emotion is unconscious**. These in
 **Challenge:** Emotional overwhelm, absorption of others' pain, boundary dissolution
 
 ---
+
+### Mercury in the 12th House
+
+When [[Mercury  ☿]] is in the 12th House, **the mind dissolves into the transpersonal**. Thought is intuitive, non-linear, often unconscious. These individuals communicate the symbolic and mystical, accessing knowledge from the collective unconscious.
+
+**Gift:** Intuitive intelligence, symbolic thinking, capacity to articulate the ineffable, mystical communication
+**Challenge:** Scattered thinking, difficulty with linear logic, unconscious mental patterns, communication breakdowns
+
+---
+
+### Venus in the 12th House
+
+When [[Venus ♀]] is in the 12th House, **love dissolves into the transpersonal**. Love becomes compassion; beauty becomes sacrifice. These individuals may love in secret, serve through art, or carry the wound of unrequited devotion.
+
+**Gift:** Compassionate love, artistic inspiration from Source, capacity for selfless service, spiritual beauty
+**Challenge:** Secret love affairs, self-sacrifice in relationships, unreciprocated devotion, loss through love
+
+---
+
+### Mars in the 12th House
+
+When [[Mars ♂]] is in the 12th House, **there is hidden aggression or spiritual warrior work**. The fight turns inward; enemies are unseen. These individuals repress anger or transform it into spiritual practice.
+
+**Gift:** Spiritual warriorship, capacity to transmute aggression into service, hidden strength, unconscious courage
+**Challenge:** Self-sabotage, repressed anger erupting destructively, martyrdom, unconscious rage
+
+---
+
+### Jupiter in the 12th House
+
+When [[Jupiter ♃]] is in the 12th House, **expansion occurs into the transpersonal, the hidden, the mystical**. These individuals find wisdom through solitude, retreat, or spiritual practice. Faith operates invisibly.
+
+**Gift:** Spiritual wisdom, growth through solitude, mystical expansion, invisible protection
+**Challenge:** Escapism, spiritual inflation, guru who hides from accountability, isolation disguised as retreat
+
+---
 ### Saturn in the 12th House
 
 When [[Saturn ♄]] is in the 12th House (its natural joy), **suffering is teacher**. These individuals experience isolation, chronic illness, or institutional confinement. Over time, Saturn builds **earned transcendence**—wisdom forged in solitude.
@@ -91,12 +127,30 @@ When [[Saturn ♄]] is in the 12th House (its natural joy), **suffering is teach
 **Challenge:** Loneliness, paranoia, self-imposed exile
 
 ---
+
+### Uranus in the 12th House
+
+When [[Uranus ♅]] is in the 12th House, **there is hidden genius or unconscious rebellion**. These individuals experience sudden spiritual awakenings or breakdowns. They are mystics operating outside consensus reality.
+
+**Gift:** Breakthrough spiritual insights, liberation through dissolution, innovative mysticism, visionary access
+**Challenge:** Psychosis, exile from reality, sudden breakdowns, inability to integrate the vision
+
+---
 ### Neptune in the 12th House
 
 When [[Neptune ♆]] is in the 12th House (its natural home), **dissolution is destiny**. These individuals are mystics, artists, healers—or addicts, escapists, victims. The veil is thin; they live between worlds.
 
 **Gift:** Mystical vision, healing gifts, artistic inspiration from Source
 **Challenge:** Addiction, delusion, inability to function in material reality
+
+---
+
+### Pluto in the 12th House
+
+When [[Pluto ♇]] is in the 12th House, **the underworld is home**. These individuals possess hidden power and unconscious mastery. They experience spiritual initiation through dissolution and confront the collective shadow.
+
+**Gift:** Profound spiritual transformation, mastery of unconscious forces, depth psychology gifts, shamanic power
+**Challenge:** Self-destruction, addiction, institutionalization, inability to surface from the depths
 
 ---
 ## Psychological & Jungian Depth

@@ -82,6 +82,42 @@ When the [[Moon ☽]] is in the 9th House, **emotion requires meaning**. These i
 **Challenge:** Emotional dogmatism, mood-dependent beliefs, restlessness
 
 ---
+
+### Mercury in the 9th House
+
+When [[Mercury  ☿]] is in the 9th House, **the mind seeks meaning and expansion**. Thought is philosophical, synthesizing, concerned with belief systems and long-range vision. These individuals are natural teachers and scholars who translate complex ideas into accessible language.
+
+**Gift:** Philosophical intelligence, teaching skill, capacity to synthesize diverse ideas, intellectual curiosity
+**Challenge:** Intellectual arrogance, scattered focus across too many philosophies, difficulty committing to one truth
+
+---
+
+### Venus in the 9th House
+
+When [[Venus ♀]] is in the 9th House, **beauty is sought in philosophy, travel, and meaning-making**. These individuals love through expansion, teaching, and the quest for truth. Aesthetic intelligence is applied to worldviews—they create beautiful philosophies.
+
+**Gift:** Graceful teaching, love of learning and travel, aesthetic approach to wisdom, cross-cultural appreciation
+**Challenge:** Superficial philosophy, romanticizing foreign cultures, avoiding depth through perpetual seeking
+
+---
+
+### Mars in the 9th House
+
+When [[Mars ♂]] is in the 9th House, **there are ideological battles and crusading energy**. These individuals are warrior-philosophers who drive to defend truth or impose belief. They fight for what they believe in with passionate conviction.
+
+**Gift:** Courageous truth-seeking, intellectual combativeness, capacity to defend beliefs, missionary zeal
+**Challenge:** Fanaticism, righteous violence, forcing beliefs on others, ideological warfare
+
+---
+
+### Jupiter in the 9th House
+
+When [[Jupiter ♃]] is in the 9th House (Jupiter's natural rulership—Sagittarius rules 9th), **the native is the eternal student, traveler, and philosopher**. Meaning is discovered through questing. Higher education, foreign lands, and spiritual seeking are primary life themes.
+
+**Gift:** Natural wisdom, love of learning, successful teaching and publishing, blessed travel experiences
+**Challenge:** Dogmatism, belief that one's truth is universal, over-expansion through ideology
+
+---
 ### Saturn in the 9th House
 
 When [[Saturn ♄]] is in the 9th House, **meaning is tested by limitation**. These individuals struggle with faith, doubt their beliefs, or experience restrictions in higher education. Over time, Saturn builds **earned philosophy**—wisdom forged through questioning.
@@ -90,12 +126,30 @@ When [[Saturn ♄]] is in the 9th House, **meaning is tested by limitation**. Th
 **Challenge:** Dogmatic rigidity, atheism as defense, fear of expansion
 
 ---
+
+### Uranus in the 9th House
+
+When [[Uranus ♅]] is in the 9th House, **there is revolutionary philosophy and deviation from inherited belief systems**. These individuals experience sudden insights into meaning. They are heretics and iconoclasts who challenge conventional wisdom.
+
+**Gift:** Original thinking, paradigm-shifting philosophy, liberation through truth, innovative teaching methods
+**Challenge:** Ideological extremism, exile from one's culture, inability to commit to any belief system
+
+---
 ### Neptune in the 9th House
 
 When [[Neptune ♆]] is in the 9th House, **meaning dissolves into mystery**. These individuals are mystics, dreamers, believers in what cannot be proven. Philosophy is not logic but **transcendence**.
 
 **Gift:** Spiritual vision, mystical experience, teaching through inspiration
 **Challenge:** Delusion, escapism through belief, inability to ground vision
+
+---
+
+### Pluto in the 9th House
+
+When [[Pluto ♇]] is in the 9th House, **transformation occurs through belief systems**. These individuals experience philosophical death and rebirth. They are seekers who destroy old meaning to find truth, diving deep into the underworld of ideology.
+
+**Gift:** Profound philosophical insight, transformative teaching, capacity to deconstruct false beliefs
+**Challenge:** Fanatical beliefs, destruction of faith, obsessive search for ultimate truth
 
 ---
 ## Psychological & Jungian Depth

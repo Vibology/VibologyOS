@@ -99,12 +99,66 @@ When the [[Moon ☽]] is in the 10th House, **emotion is public**. These individ
 **Challenge:** Private life exposed, emotional vulnerability weaponized
 
 ---
+
+### Mercury in the 10th House
+
+When [[Mercury  ☿]] is in the 10th House, **the mind serves public role**. Thought is strategic, professional, focused on reputation and authority. These individuals build careers through communication, writing, teaching, or intellectual leadership.
+
+**Gift:** Strategic thinking, professional communication, reputation for intelligence, teaching authority
+**Challenge:** Reputation dependent on intellectual performance, overthinking public image, analysis paralysis in leadership
+
+---
+
+### Venus in the 10th House
+
+When [[Venus ♀]] is in the 10th House, **love and beauty are expressed publicly**. These individuals build vocations involving aesthetics, diplomacy, or relational harmony. Their reputation is tied to grace, attractiveness, and creating beauty in the world.
+
+**Gift:** Graceful leadership, aesthetic vocation, public popularity, diplomatic authority
+**Challenge:** Superficial public image, reputation dependent on appearance, avoiding difficult decisions to maintain harmony
+
+---
+
+### Mars in the 10th House
+
+When [[Mars ♂]] is in the 10th House, **there is ambition and public assertion**. These individuals drive for authority and build reputation through action. The career becomes campaign; success requires competitive edge and courage.
+
+**Gift:** Dynamic leadership, competitive success, courage in public sphere, action-oriented authority
+**Challenge:** Ruthless careerism, public conflict, reputation damaged through aggression, burnout from overwork
+
+---
+
+### Jupiter in the 10th House
+
+When [[Jupiter ♃]] is in the 10th House, **there is public recognition and vocational expansion**. These individuals build careers involving teaching, law, philosophy, or leadership. Reputation is built on integrity, wisdom, and generous contribution.
+
+**Gift:** Successful career, public recognition, teaching authority, reputation for wisdom and generosity
+**Challenge:** Inflation of status, guru complex, over-expansion in vocation
+
+---
 ### Saturn in the 10th House
 
 When [[Saturn ♄]] is in the 10th House (its natural home), **mastery is destiny**. These individuals are born to authority but must earn it through decades of discipline. They are the elders, the ones who endure.
 
 **Gift:** Earned authority, longevity, legacy that survives death
 **Challenge:** Heavy responsibility, isolation at the top, fear of failure
+
+---
+
+### Uranus in the 10th House
+
+When [[Uranus ♅]] is in the 10th House, **there is unconventional career and sudden shifts in public reputation**. These individuals are mavericks in the professional sphere, innovators who disrupt traditional authority structures.
+
+**Gift:** Revolutionary leadership, innovative career paths, liberation through public work, visionary authority
+**Challenge:** Instability in vocation, public scandal, inability to sustain traditional career structures
+
+---
+
+### Neptune in the 10th House
+
+When [[Neptune ♆]] is in the 10th House, **public role is artistic, spiritual, or compassionate**—or the native is scapegoated, idealized, or unseen. Career must serve a higher purpose or the soul rebels. Boundaries dissolve at the peak.
+
+**Gift:** Spiritual or artistic vocation, compassionate leadership, inspired public service, capacity to channel collective dreams
+**Challenge:** Public scandal, loss of reputation through deception, guru complex, celebrity worshipped but not known
 
 ---
 ### Pluto in the 10th House

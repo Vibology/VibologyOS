@@ -82,6 +82,42 @@ When the [[Moon ☽]] is in the 11th House, **emotion requires community**. Thes
 **Challenge:** Emotional dependency on community, moods dictated by group dynamics
 
 ---
+
+### Mercury in the 11th House
+
+When [[Mercury  ☿]] is in the 11th House, **the mind networks and collaborates**. Thought is collective, innovative, concerned with future possibilities and group ideals. These individuals connect ideas across communities and translate visions into shared language.
+
+**Gift:** Networking intelligence, collaborative thinking, capacity to articulate collective vision, innovative communication
+**Challenge:** Scattered across too many networks, intellectual dilettantism, inability to commit to one community
+
+---
+
+### Venus in the 11th House
+
+When [[Venus ♀]] is in the 11th House, **there is love for community, friendship, and collective ideals**. These individuals value social justice and attract through shared vision. They create beauty within groups and harmonize collective efforts.
+
+**Gift:** Graceful friendships, aesthetic contribution to community, social justice values, attracting aligned networks
+**Challenge:** Superficial group connections, valuing popularity over depth, difficulty with individual intimacy
+
+---
+
+### Mars in the 11th House
+
+When [[Mars ♂]] is in the 11th House, **there is drive to lead communities and revolutionary energy**. These individuals are warriors for collective causes, fighting for group ideals with passionate conviction.
+
+**Gift:** Activist energy, courage to fight for collective vision, dynamic community leadership, revolutionary drive
+**Challenge:** Ideological extremism, betrayal within groups, combative alliances, burnout from activism
+
+---
+
+### Jupiter in the 11th House
+
+When [[Jupiter ♃]] is in the 11th House (traditional ruler), **fortune comes through community, friendship, and collective vision**. These individuals attract allies easily and benefit from networks. Expansion occurs through group participation.
+
+**Gift:** Blessed friendships, beneficial networks, philosophical community, collective generosity
+**Challenge:** Over-reliance on collective, loss of personal authority, idealistic utopianism
+
+---
 ### Saturn in the 11th House
 
 When [[Saturn ♄]] is in the 11th House (traditional ruler), **community is tested**. These individuals struggle with belonging, fear rejection, or build walls against friendship. Over time, Saturn builds **earned community**—friendships forged through loyalty and time.
@@ -96,6 +132,24 @@ When [[Uranus ♅]] is in the 11th House (its natural home), **revolution is des
 
 **Gift:** Visionary ideals, revolutionary leadership, capacity to innovate
 **Challenge:** Alienation from community, friendships that explode suddenly
+
+---
+
+### Neptune in the 11th House
+
+When [[Neptune ♆]] is in the 11th House, **community is idealized or dissolved**. These individuals seek utopian collectives or spiritual groups. Friendship is compassionate but boundaryless. They dream of collective transcendence.
+
+**Gift:** Compassionate community service, spiritual groups, artistic collectives, visionary idealism
+**Challenge:** Cults, group delusion, collective martyrdom, disillusionment with humanity, exile romanticizing belonging
+
+---
+
+### Pluto in the 11th House
+
+When [[Pluto ♇]] is in the 11th House, **transformation occurs through community**. These individuals experience revolutionary collectives or power dynamics within groups. Friendships die and regenerate through crisis.
+
+**Gift:** Transformative community leadership, capacity to revolutionize groups, depth in collective work
+**Challenge:** Cult dynamics, manipulation within communities, obsessive ideological allegiance, power struggles in groups
 
 ---
 ## Psychological & Jungian Depth
