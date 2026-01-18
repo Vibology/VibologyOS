@@ -9,7 +9,7 @@ date_updated: 2026-01-17
 **Purpose:** At-a-glance navigation for all Folklore pillar entries
 
 **Last Updated:** 2026-01-18
-**Completion Status:** 42/77 entries (54.5%) - Archetypes, Hero's Journey, Individuation & ALL Alchemical Stages Complete!
+**Completion Status:** 44/77 entries (57.1%) - Archetypes, Hero's Journey, Individuation, Alchemical Stages, Greek + Buddhist Mythology Complete!
 
 ---
 
@@ -22,10 +22,10 @@ date_updated: 2026-01-17
 | **Hero's Journey** | 12 | 0 | 0 | 12 | ~6,000-8,500 |
 | **Individuation Process** | 6 | 0 | 0 | 6 | ~3,500-4,600 |
 | **Alchemical Stages** | 11 | 0 | 0 | 11 | ~5,000-6,200 |
-| **World Mythology** | 0 | 0 | 11 | 11 | ~7,000-9,000 |
+| **World Mythology** | 2 | 0 | 9 | 11 | ~7,000-9,000 |
 | **Fairy Tales** | 0 | 0 | 20 | 20 | ~6,000-8,000 |
 | **Esoteric Evolution** | 0 | 0 | 4 | 4 | ~2,100-2,600 |
-| **TOTAL** | **42 (54.5%)** | **1 (1.3%)** | **34 (44.2%)** | **77** | **~37,600-49,900** |
+| **TOTAL** | **44 (57.1%)** | **1 (1.3%)** | **32 (41.6%)** | **77** | **~37,600-49,900** |
 
 **Status Markers:**
 - ✅ Complete (Tier 3) - Research-grade comprehensive entry
@@ -329,24 +329,24 @@ date_updated: 2026-01-17
 
 ## Category 5: World Mythology (11 traditions)
 
-**Completion:** 0/11 (0%) - All traditions planned
+**Completion:** 2/11 (18.2%) - Greek (Tier 3) + Buddhist (Tier 3) complete
 **Priority:** MEDIUM-HIGH (cross-cultural archetypal depth)
 
 ### Western Traditions
 
-| Tradition | Status | Est. Lines | Key Themes | Link |
-|-----------|--------|------------|------------|------|
-| Greek Mythology | ⚪ Planned | 600-800 | Olympians, tragic hero, Persephone, Psyche & Eros | [[Greek Mythology]] |
+| Tradition | Status | Actual/Est. Lines | Key Themes | Link |
+|-----------|--------|-------------------|------------|------|
+| Greek Mythology | ✅ Complete | 672 | Olympians, tragic hero, Persephone, Psyche & Eros, hubris/nemesis | [[Greek Mythology]] |
 | Norse Mythology | ⚪ Planned | 600-800 | Aesir/Vanir, Ragnarök, Odin's sacrifice, fate | [[Norse Mythology]] |
 | Celtic Mythology | ⚪ Planned | 600-800 | Arthurian legend, Grail quest, Otherworld | [[Celtic Mythology]] |
 | Egyptian Mythology | ⚪ Planned | 600-800 | Osiris-Isis-Horus, Ma'at, Duat, death/rebirth | [[Egyptian Mythology]] |
 
 ### Eastern Traditions
 
-| Tradition | Status | Est. Lines | Key Themes | Link |
-|-----------|--------|------------|------------|------|
+| Tradition | Status | Actual/Est. Lines | Key Themes | Link |
+|-----------|--------|-------------------|------------|------|
 | Hindu Mythology | ⚪ Planned | 600-800 | Trimurti, Ramayana, Mahabharata, Shakti/Maya | [[Hindu Mythology]] |
-| Buddhist Cosmology | ⚪ Planned | 600-800 | Wheel of Life, Six Realms, Bodhisattva path | [[Buddhist Cosmology]] |
+| Buddhist Cosmology | ✅ Complete | 810 | Wheel of Life, Six Realms, Bodhisattva path, Mara, Buddha's journey, Bardo states | [[Buddhist Cosmology]] |
 | Taoist Mythology | ⚪ Planned | 600-800 | Yin-Yang, Wu Wei, Eight Immortals, inner alchemy | [[Taoist Mythology]] |
 | Japanese Mythology | ⚪ Planned | 600-800 | Shinto kami, Amaterasu, Susanoo, yokai | [[Japanese Mythology]] |
 
@@ -357,6 +357,8 @@ date_updated: 2026-01-17
 | Native American | ⚪ Planned | 600-800 | Trickster (Coyote/Raven), Spider Woman, vision quest | [[Native American Mythology]] |
 | African Diaspora | ⚪ Planned | 600-800 | Yoruba Orishas, Anansi, Mami Wata, Vodou | [[African Diaspora Mythology]] |
 | Mesopotamian | ⚪ Planned | 600-800 | Gilgamesh, Inanna's Descent, flood myths | [[Mesopotamian Mythology]] |
+
+**Status:** Greek Mythology (manual pilot, 672 lines) and Buddhist Cosmology (810 lines) now complete at Tier 3. Both entries serve as templates for remaining mythology entries.
 
 **CRITICAL NOTES:**
 - **Cultural Sensitivity:** Indigenous traditions require extreme respect, proper attribution, acknowledgment of closed/sacred knowledge
