@@ -132,7 +132,7 @@ Coagulation is the *rarest* alchemical operation because it requires *all prior 
    - Example: The meditator who no longer sits formally because mindfulness has coagulated into every action.
 
 4. **Rare Early Coagulation (童子, "Divine Child"):**
-   - Some individuals seem to be "born wise"—the [[The Divine Child]] archetype. They exhibit integrated selfhood unusually early. This is either reincarnational memory (esoteric view) or genetic/environmental precocity (psychological view). Regardless, it is Coagulation manifesting young.
+   - Some individuals seem to be "born wise"—the [[Folklore/Jungian Archetypes/The Divine Child]] archetype. They exhibit integrated selfhood unusually early. This is either reincarnational memory (esoteric view) or genetic/environmental precocity (psychological view). Regardless, it is Coagulation manifesting young.
 
 **Key Point:** Coagulation is not "achieved" through effort. It *happens* when the psyche has completed its work. It is grace, not willpower.
 
@@ -346,7 +346,7 @@ Coagulation is the *final stage* of psychological development—the realization 
   - True Coagulation is extremely rare in youth because the ego is still forming. However, certain children exhibit "old soul" qualities—precocious wisdom, embodied compassion. This may be:
     - **Genetic/Environmental:** Secure attachment, wise parenting, early exposure to depth.
     - **Reincarnational (Esoteric View):** The soul carries wisdom from prior lives, coagulated from previous individuation.
-  - Example: [[The Divine Child]] archetype—the Buddha as a child, pointing to heaven and earth, declaring "I alone am the world-honored one."
+  - Example: [[Folklore/Jungian Archetypes/The Divine Child]] archetype—the Buddha as a child, pointing to heaven and earth, declaring "I alone am the world-honored one."
 
 - **Young Adulthood (20-40) - Partial Coagulation:**
   - Some aspects of the Self may coagulate early (e.g., a career calling becomes fixed, a life purpose clarifies, a committed relationship solidifies). But *full* Coagulation (the entire Self realized) is rare before midlife.
@@ -561,9 +561,9 @@ Common dream motifs:
 **Archetypal Constellation:**
 
 When Coagulation is active, the following archetypes are often present:
-- **[[The Self]]** - The center and circumference realized
-- **[[The Wise Old Man]]** or **[[The Great Mother]]** - The elder wisdom now embodied in the individual
-- **[[The Divine Child]]** - New life born from the union
+- **[[Folklore/Jungian Archetypes/The Self]]** - The center and circumference realized
+- **[[The Wise Old Man]]** or **[[Folklore/Jungian Archetypes/The Great Mother]]** - The elder wisdom now embodied in the individual
+- **[[Folklore/Jungian Archetypes/The Divine Child]]** - New life born from the union
 - **[[The Hermaphrodite]]** - Masculine and feminine integrated (the stone)
 
 ### 12. The Gift of Integration
@@ -609,10 +609,10 @@ Coagulation is the realization of this totality—*lived*, not theorized.
 ## Cross-References
 
 ### Related Archetypes
-- [[The Self]] - The center and circumference, fully realized in Coagulation
+- [[Folklore/Jungian Archetypes/The Self]] - The center and circumference, fully realized in Coagulation
 - [[The Wise Old Man]] - The elder who has embodied wisdom (coagulated knowledge)
-- [[The Great Mother]] - Earth as the womb where spirit solidifies
-- [[The Divine Child]] - New life born from the union of opposites
+- [[Folklore/Jungian Archetypes/The Great Mother]] - Earth as the womb where spirit solidifies
+- [[Folklore/Jungian Archetypes/The Divine Child]] - New life born from the union of opposites
 - [[The Hermaphrodite]] - Masculine and feminine integrated (the stone)
 
 ### Related Alchemical Operations
@@ -661,7 +661,7 @@ Coagulation is the realization of this totality—*lived*, not theorized.
 - [[Thrones]] - The order that stabilizes divine will in the cosmos
 
 ### Related Folklore & Mythology
-- [[The Divine Child]] - Born wisdom (Coagulation manifesting young)
+- [[Folklore/Jungian Archetypes/The Divine Child]] - Born wisdom (Coagulation manifesting young)
 - [[The Philosopher's Stone]] (when created) - The goal of all alchemy
 - [[The Hieros Gamos]] (when created) - Sacred marriage made flesh
 - [[The Unus Mundus]] (when created) - One World, spirit and matter unified

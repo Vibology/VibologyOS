@@ -106,7 +106,7 @@ The death-and-resurrection motif, central to Fermentation, appears in every myth
 
 4. **The Frog Prince:**
    - The prince is cursed to live as a frog (putrefaction—a low, slimy, "rotting" form). Only the princess's kiss (or, in older versions, throwing him against the wall in disgust) breaks the curse (fermentation). The frog must be "killed" (thrown) to become human again.
-   - **Psychological Reading:** The masculine principle ([[The Animus]]) is in a degraded, unrecognizable form. The feminine must accept the rot (the repulsive frog) before spirit (the prince) can emerge.
+   - **Psychological Reading:** The masculine principle ([[Folklore/Jungian Archetypes/The Animus]]) is in a degraded, unrecognizable form. The feminine must accept the rot (the repulsive frog) before spirit (the prince) can emerge.
 
 ### Developmental Context
 
@@ -302,7 +302,7 @@ Fermentation is the operation that frees the spirit from the chains of matter (e
 - **Putrefactio:** Aurora's sleep is not true death, but a death-like suspension—putrefaction. She is in the tomb (the tower). Her body does not rot, but she is lifeless. The kingdom also sleeps—collective putrefaction.
 - **The Thorns:** The thorns that surround the castle are the protective barrier around the fermentation vessel. Premature awakening would kill her; she must gestate in darkness for the full term (a hundred years = symbolic completion).
 - **Fermentatio:** The prince's arrival (new consciousness, the masculine principle) catalyzes the resurrection. Aurora awakens—not as the child she was, but as the woman she has become. The sleep was gestation; the awakening is birth of spirit.
-- **Psychological Insight:** The feminine self (Aurora) must "die" to her innocent, childlike identity (the prick of the spindle = initiation, first blood, sexuality). She enters the Dark Night (sleep) where the unconscious ferments her into mature consciousness. The prince represents the [[The Animus|Animus]]—the inner masculine that awakens the fermented feminine. The kingdom's awakening is the collective psyche resurrecting with her.
+- **Psychological Insight:** The feminine self (Aurora) must "die" to her innocent, childlike identity (the prick of the spindle = initiation, first blood, sexuality). She enters the Dark Night (sleep) where the unconscious ferments her into mature consciousness. The prince represents the [[Folklore/Jungian Archetypes/The Animus|Animus]]—the inner masculine that awakens the fermented feminine. The kingdom's awakening is the collective psyche resurrecting with her.
 
 **Shadow Element:** If the prince arrives too early (before the hundred years), he is torn apart by the thorns. This is the danger of rushing Fermentation—the spirit is not ready. Forced resurrection is death.
 
@@ -500,7 +500,7 @@ Common dream motifs:
 - **[[The Transcendent Function]]:**
   - Fermentation *is* the operation where the Transcendent Function emerges. The conscious and unconscious, having united in Conjunction, now "die" together (putrefaction) and are reborn as a third thing—spirit, inspiration, gnosis.
 
-- **[[The Self]]:**
+- **[[Folklore/Jungian Archetypes/The Self]]:**
   - Fermentation is the operation where the Self announces its sovereignty. The ego, in the tomb, realizes it is not the master. The Self is the ferment—the hidden life that causes resurrection.
 
 - **[[Conjunction]] (Previous Operation):**
@@ -517,8 +517,8 @@ When Fermentation is active, the following archetypes are often present:
 - **[[The Hanged Man]]** (Tarot) - Suspended, waiting, fermenting
 - **[[Death]]** (Tarot) - Putrefaction, the necessary ending
 - **[[Temperance]]** (Tarot) - The alchemical mixing, the fermentation vessel
-- **[[The Divine Child]]** - The new life born from the rot
-- **[[The Wise Old Man]]** / **[[The Great Mother]]** - The one who has fermented, the elder, the crone
+- **[[Folklore/Jungian Archetypes/The Divine Child]]** - The new life born from the rot
+- **[[The Wise Old Man]]** / **[[Folklore/Jungian Archetypes/The Great Mother]]** - The one who has fermented, the elder, the crone
 
 ### 12. The Gift of Integration
 
@@ -564,12 +564,12 @@ Fermentation is dangerous. The unconscious, stirred, can overwhelm the ego (psyc
 ### Related Archetypes
 - [[The Shadow]] - The compost, the rejected material that feeds fermentation
 - [[The Transcendent Function]] - The "third thing" born from Fermentation
-- [[The Self]] - The ferment, the hidden life that causes resurrection
-- [[The Divine Child]] - The new life born from putrefaction
+- [[Folklore/Jungian Archetypes/The Self]] - The ferment, the hidden life that causes resurrection
+- [[Folklore/Jungian Archetypes/The Divine Child]] - The new life born from putrefaction
 - [[The Wise Old Man]] - The fermented elder, the one who has endured the tomb
-- [[The Great Mother]] - The womb-tomb, the vessel of fermentation
-- [[The Anima]] - The soul-guide through the Dark Night (for men)
-- [[The Animus]] - The awakening force, the prince who breaks the spell (for women)
+- [[Folklore/Jungian Archetypes/The Great Mother]] - The womb-tomb, the vessel of fermentation
+- [[Folklore/Jungian Archetypes/The Anima]] - The soul-guide through the Dark Night (for men)
+- [[Folklore/Jungian Archetypes/The Animus]] - The awakening force, the prince who breaks the spell (for women)
 
 ### Related Alchemical Operations
 - [[Conjunction]] - The previous operation; the sacred marriage that must "die" in Fermentation

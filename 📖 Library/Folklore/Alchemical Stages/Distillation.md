@@ -559,8 +559,8 @@ When the psyche embraces the work of circulation—when insights are patiently b
 - [[Hermes]] (when created) - The psychopomp, messenger, agent of circulation
 - [[The Hermit]] - Withdrawal for refinement, then return with distilled wisdom
 - [[Temperance]] (see Tarot entry) - The card of mixing, circulation, and balance
-- [[The Anima]] - Projection and withdrawal as circulation
-- [[The Animus]] - Same dynamic in reverse
+- [[Folklore/Jungian Archetypes/The Anima]] - Projection and withdrawal as circulation
+- [[Folklore/Jungian Archetypes/The Animus]] - Same dynamic in reverse
 - [[The Wise Old Man]] - The one who has distilled a lifetime into essential teaching
 
 ### Related Alchemical Operations

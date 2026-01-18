@@ -110,7 +110,7 @@ Water as dissolution, death, and rebirth appears across all mythologies:
 Dissolution follows [[Calcination]]—it is the release that comes after the burning. While Calcination can be sudden and violent, Dissolution is often slower, deeper, more oceanic. It is the *aftermath* of crisis.
 
 1. **Early Childhood (0-7):**
-   - The infant lives in a dissolved state—no firm ego boundaries, merged with the mother. [[The Great Mother]]'s waters are both womb and ocean. Separation from this state is traumatic (birth, weaning, individuation). Early Dissolution is the natural state.
+   - The infant lives in a dissolved state—no firm ego boundaries, merged with the mother. [[Folklore/Jungian Archetypes/The Great Mother]]'s waters are both womb and ocean. Separation from this state is traumatic (birth, weaning, individuation). Early Dissolution is the natural state.
    - **Trauma:** If the child is flooded with overwhelming emotion (neglect, abuse, loss), they may remain stuck in Dissolution, unable to form a stable ego.
 
 2. **Adolescence (12-18):**
@@ -519,7 +519,7 @@ Common dream motifs:
   - Dissolution releases Shadow material—repressed grief, rage, shame, longing. The tears are the Shadow's voice. Crying is the Shadow's prayer.
 
 - **The Great Mother:**
-  - [[The Great Mother]] is the archetype of the waters—womb and tomb, nourishing and devouring. Dissolution is return to the Mother. This can be healing (renewal) or deadly (drowning, regression).
+  - [[Folklore/Jungian Archetypes/The Great Mother]] is the archetype of the waters—womb and tomb, nourishing and devouring. Dissolution is return to the Mother. This can be healing (renewal) or deadly (drowning, regression).
 
 - **The Anima/Animus:**
   - The soul-image often appears as a water figure—mermaid, sea god, Lady of the Lake. Falling in love is Dissolution into the Anima/Animus. Tears of longing, tears of union.
@@ -577,10 +577,10 @@ Dissolution *is* making the darkness conscious. The waters are dark, cold, terri
 
 ### Related Archetypes
 - [[The Shadow]] - Repressed grief and emotion surfacing through tears
-- [[The Great Mother]] - Womb and tomb, nourishing and devouring waters
-- [[The Anima]] - Soul-image as water figure (mermaid, Lady of the Lake)
-- [[The Animus]] - Soul-image as sea god, flood, or ocean
-- [[The Divine Child]] - The infant in the womb (natural Dissolution state)
+- [[Folklore/Jungian Archetypes/The Great Mother]] - Womb and tomb, nourishing and devouring waters
+- [[Folklore/Jungian Archetypes/The Anima]] - Soul-image as water figure (mermaid, Lady of the Lake)
+- [[Folklore/Jungian Archetypes/The Animus]] - Soul-image as sea god, flood, or ocean
+- [[Folklore/Jungian Archetypes/The Divine Child]] - The infant in the womb (natural Dissolution state)
 - [[The Wise Old Man]] - The one who has survived the flood (Noah, Utnapishtim)
 
 ### Related Alchemical Operations

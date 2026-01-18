@@ -610,9 +610,9 @@ Separation is differentiation. Without it, there is only unconscious fusion (par
 ### Related Archetypes
 - [[The Wise Old Man]] - The discriminating elder who separates truth from illusion
 - [[The Shadow]] - What must be separated from projection and integrated
-- [[The Anima]] - Inner feminine often projected; Separation withdraws the projection
-- [[The Animus]] - Inner masculine often projected; requires discrimination to integrate
-- [[The Hero]] - Must learn to discriminate ally from enemy (Tests stage)
+- [[Folklore/Jungian Archetypes/The Anima]] - Inner feminine often projected; Separation withdraws the projection
+- [[Folklore/Jungian Archetypes/The Animus]] - Inner masculine often projected; requires discrimination to integrate
+- [[Folklore/Jungian Archetypes/The Hero]] - Must learn to discriminate ally from enemy (Tests stage)
 - [[Persona Development]] - What Separation distinguishes from the true Self
 
 ### Related Alchemical Operations

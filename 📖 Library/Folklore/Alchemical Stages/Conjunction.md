@@ -599,11 +599,11 @@ When the opposites unite—when the ego surrenders to partnership with the contr
 ## Cross-References
 
 ### Related Archetypes
-- [[The Anima]] - The man's unconscious feminine, the primary partner in coniunctio
-- [[The Animus]] - The woman's unconscious masculine, the primary partner in coniunctio
-- [[The Divine Child]] - The product of coniunctio (creativity, new life, the Philosopher's Stone)
+- [[Folklore/Jungian Archetypes/The Anima]] - The man's unconscious feminine, the primary partner in coniunctio
+- [[Folklore/Jungian Archetypes/The Animus]] - The woman's unconscious masculine, the primary partner in coniunctio
+- [[Folklore/Jungian Archetypes/The Divine Child]] - The product of coniunctio (creativity, new life, the Philosopher's Stone)
 - [[The Lover]] - The archetype driving toward union and relationship
-- [[The Self]] - The ultimate coniunctio is between ego and Self
+- [[Folklore/Jungian Archetypes/The Self]] - The ultimate coniunctio is between ego and Self
 - [[Persona Development]] - What must be removed for authentic coniunctio (see Individuation Process)
 - [[The Syzygy]] - Jung's term for the integrated Anima-Animus pair
 

@@ -521,9 +521,9 @@ Calcination is the fire that makes the darkness conscious. It is disagreeable. I
 
 ### Related Archetypes
 - [[The Shadow]] - The repressed material that erupts as fire
-- [[The Hero]] - The one who must endure the Ordeal (Calcination)
+- [[Folklore/Jungian Archetypes/The Hero]] - The one who must endure the Ordeal (Calcination)
 - [[The Wise Old Man]] - The one who has survived the fire and guides others
-- [[The Phoenix]] (see [[The Divine Child]] for rebirth motif)
+- [[The Phoenix]] (see [[Folklore/Jungian Archetypes/The Divine Child]] for rebirth motif)
 - [[Persona Development]] - What Calcination destroys (see Individuation Process)
 
 ### Related Alchemical Operations
