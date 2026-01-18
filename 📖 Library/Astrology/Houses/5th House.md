@@ -82,6 +82,16 @@ When the [[Moon ☽]] is in the 5th House, **emotion seeks creative outlet**. Th
 **Challenge:** Mood-dependent creativity; emotional overwhelm blocks expression
 
 ---
+
+### Mercury in the 5th House
+
+When [[Mercury  ☿]] is in the 5th House, **the mind expresses creatively**. Thought becomes art, play, and storytelling. Communication equals performance, teaching, and joy. These individuals create through language, wit, and intellectual playfulness.
+
+**Gift:** Creative writing, teaching through play, intellectual creativity, wit
+**Challenge:** Mental performance anxiety, creativity dependent on cleverness
+
+---
+
 ### Venus in the 5th House
 
 When [[Venus ♀]] is in the 5th House (its planetary joy), **pleasure is effortless**. These individuals are natural hedonists, lovers, connoisseurs of beauty. They attract romance and creative opportunity with ease.
@@ -90,6 +100,25 @@ When [[Venus ♀]] is in the 5th House (its planetary joy), **pleasure is effort
 **Challenge:** Superficiality, vanity, inability to commit (pleasure-seeking without depth)
 
 ---
+
+### Mars in the 5th House
+
+When [[Mars ♂]] is in the 5th House, **there is creative assertion and sexual vitality**. Competitive play; life as conquest, romance as pursuit. These individuals create through action, physical expression, and the courage to risk.
+
+**Gift:** Bold creativity, sexual vitality, competitive spirit, courage in expression
+**Challenge:** Risk-taking without consequence, ego-driven creativity, combative romance
+
+---
+
+### Jupiter in the 5th House
+
+When [[Jupiter ♃]] is in the 5th House (exalted in creative expression), **the native loves through play, teaching, and joy of creation**. Life is abundant, children are blessed, pleasure comes naturally. Natural teachers who create through generosity and enthusiasm.
+
+**Gift:** Creative abundance, joyful teaching, blessed children, optimistic romance
+**Challenge:** Hedonism, excess in pleasure-seeking, overindulgence
+
+---
+
 ### Saturn in the 5th House
 
 When [[Saturn ♄]] is in the 5th House, **joy is restricted**. These individuals struggle to play, to create spontaneously, to believe they deserve pleasure. Over time, Saturn builds **earned joy**—creativity forged through discipline.
@@ -98,6 +127,34 @@ When [[Saturn ♄]] is in the 5th House, **joy is restricted**. These individual
 **Challenge:** Joylessness, inability to play, creative blocks from self-judgment
 
 ---
+
+### Uranus in the 5th House
+
+When [[Uranus ♅]] is in the 5th House, **there is creative genius or creative chaos**. Unusual romantic patterns; unconventional approach to pleasure and self-expression. These individuals create breakthrough art or disruptive performances—innovation through play.
+
+**Gift:** Creative genius, original expression, revolutionary art, freedom in romance
+**Challenge:** Erratic creativity, inability to sustain romantic connection, chaotic creative output
+
+---
+
+### Neptune in the 5th House
+
+When [[Neptune ♆]] is in the 5th House, **creativity is channeled from the transpersonal**. The native creates not from ego but from inspiration. Romance is idealized, children are spiritualized—art as communion with the divine.
+
+**Gift:** Transcendent creativity, spiritual art, inspired expression, mystical romance
+**Challenge:** Creative blockage without "the muse," idealizing lovers, martyrdom in parenthood
+
+---
+
+### Pluto in the 5th House
+
+When [[Pluto ♇]] is in the 5th House, **there is creative intensity and transformative romance**. Children as agents of rebirth; art as exorcism, love as underworld descent. Creation born from depth, power, and psychological excavation.
+
+**Gift:** Profound creativity, transformative art, depth in romance, powerful creative drive
+**Challenge:** Destructive love affairs, creative obsession, controlling relationships with children
+
+---
+
 ## Psychological & Jungian Depth
 
 The 5th House represents the **Inner Child**—the part of the psyche that plays, creates, and delights without needing justification. In Jungian terms, this is the **Puer/Puella** (eternal youth) that refuses to grow old, that demands joy as birthright.

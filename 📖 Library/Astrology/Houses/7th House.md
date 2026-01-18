@@ -94,6 +94,43 @@ When the [[Moon ☽]] is in the 7th House, **emotional security requires partner
 **Challenge:** Emotional dependency, fusion, inability to be alone
 
 ---
+
+### Mercury in the 7th House
+
+When [[Mercury  ☿]] is in the 7th House, **the mind knows itself through dialogue**. Thought is relational; understanding emerges in conversation, negotiation, and partnership. These individuals think best when engaging with another mind.
+
+**Gift:** Relational intelligence, mediation skills, clarity through dialogue
+**Challenge:** Mental dependency on others, inability to think alone, argumentative partnerships
+
+---
+
+### Venus in the 7th House
+
+When [[Venus ♀]] is in the 7th House (Venus in her natural rulership—Libra rules 7th), **identity is discovered through partnership**. These individuals attract significant relationships easily but must avoid losing self in the Other. Natural diplomats and lovers.
+
+**Gift:** Grace in relationship, attracting harmonious partnerships, relational beauty
+**Challenge:** Self-erasure in partnership, dependency on being partnered, avoiding conflict
+
+---
+
+### Mars in the 7th House
+
+When [[Mars ♂]] is in the 7th House, **there is conflict in partnership**. Attraction to warriors or rivals; the Other as sparring partner. These individuals experience passion through friction and must learn that conflict can be creative.
+
+**Gift:** Passionate relationships, courage in partnership, dynamic relating
+**Challenge:** Combative relationships, attraction to danger, power struggles with partners
+
+---
+
+### Jupiter in the 7th House
+
+When [[Jupiter ♃]] is in the 7th House, **fortune comes through partnership and relational expansion**. These individuals attract generous, wise, or foreign partners. Marriage expands worldview; relationships bring growth and opportunity.
+
+**Gift:** Blessed partnerships, growth through relationship, optimistic relating
+**Challenge:** Idealization of the Other, partner as guru rather than equal, overextension in relationships
+
+---
+
 ### Saturn in the 7th House
 
 When [[Saturn ♄]] is in the 7th House, **partnership is tested by fear**. These individuals fear commitment, rejection, or loss of autonomy. Over time, Saturn builds **earned partnership**—relationships forged through discipline, not infatuation.
@@ -102,6 +139,25 @@ When [[Saturn ♄]] is in the 7th House, **partnership is tested by fear**. Thes
 **Challenge:** Fear of intimacy, delay in marriage, coldness in relationship
 
 ---
+
+### Uranus in the 7th House
+
+When [[Uranus ♅]] is in the 7th House, **there is attraction to unusual partners and sudden relationship shifts**. Marriages and divorces occur unexpectedly; partnerships serve as catalysts for liberation. These individuals resist conventional commitment.
+
+**Gift:** Freedom in relationship, revolutionary partnerships, awakening through the Other
+**Challenge:** Inability to commit, serial ruptures in relationship, chaos in partnerships
+
+---
+
+### Neptune in the 7th House
+
+When [[Neptune ♆]] is in the 7th House, **partnership is mystical union or total dissolution**. These individuals attract partners who need saving—or who dissolve their boundaries. Relationships become spiritual mirrors reflecting the transpersonal.
+
+**Gift:** Spiritual partnership, compassionate relating, transcendent love
+**Challenge:** Codependency, rescuer/rescued dynamics, idealizing the Other until they become unreal
+
+---
+
 ### Pluto in the 7th House
 
 When [[Pluto ♇]] is in the 7th House, **partnership is transformation**. These individuals attract intense, power-dynamic relationships that destroy and remake identity. The other is not comfort but **crucible**.

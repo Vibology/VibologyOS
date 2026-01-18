@@ -83,6 +83,15 @@ When the [[Moon ☽]] is in the 8th House, **emotion is volcanic**. These indivi
 **Challenge:** Emotional overwhelm, inheritance of family trauma, difficulty with trust
 
 ---
+
+### Mercury in the 8th House
+
+When [[Mercury  ☿]] is in the 8th House, **the mind investigates the hidden**. Thought is psychological, occult, focused on depth and transformation. These individuals analyze shadow, research taboo subjects, and communicate the unspoken. The mind probes beneath surface reality to uncover buried truth.
+
+**Gift:** Psychological insight, investigative intelligence, capacity to articulate the unconscious, research skill
+**Challenge:** Obsessive thinking, paranoia, mental fixation on death or trauma, difficulty with lighthearted communication
+
+---
 ### Venus in the 8th House
 
 When [[Venus ♀]] is in the 8th House, **love is transformation**. These individuals do not want romance (5th House) or partnership (7th House)—they want **merger**. Relationships are crucibles.
@@ -91,12 +100,57 @@ When [[Venus ♀]] is in the 8th House, **love is transformation**. These indivi
 **Challenge:** Obsessive love, power dynamics, loss of self in merger
 
 ---
+
+### Mars in the 8th House
+
+When [[Mars ♂]] is in the 8th House (Mars rules Scorpio, the 8th's natural sign), **there is drive toward transformation, sexual intensity, and confrontation with death**. These individuals wield power through crisis, face danger without fear, and transform aggression into regenerative force. Sexuality is primal and transformative.
+
+**Gift:** Courage in crisis, sexual vitality, capacity to destroy what no longer serves, warrior in the underworld
+**Challenge:** Violence, sexual aggression, attraction to danger, destructive impulses, death-wish
+
+---
 ### Saturn in the 8th House
 
 When [[Saturn ♄]] is in the 8th House, **death is teacher**. These individuals fear loss, intimacy, and surrender of control. Over time, Saturn builds **earned wisdom**—transformation through discipline, power reclaimed from the underworld.
 
 **Gift:** Mastery of shadow, longevity, wisdom earned through suffering
 **Challenge:** Fear of death, sexual repression, karmic debt
+
+---
+
+### Jupiter in the 8th House
+
+When [[Jupiter ♃]] is in the 8th House, **expansion occurs through crisis, transformation, and shared resources**. These individuals receive inheritance (material or spiritual), benefit from others' wealth, or experience regeneration through depth work. Transformation brings growth; death becomes teacher.
+
+**Gift:** Inheritance and windfalls, growth through crisis, philosophical approach to death, spiritual regeneration
+**Challenge:** Recklessness in risk-taking, spiritual bypassing of shadow, excessive optimism about danger
+
+---
+
+### Uranus in the 8th House
+
+When [[Uranus ♅]] is in the 8th House, **there are sudden transformations, unconventional sexuality, and rupture around shared resources**. Death/rebirth cycles occur unexpectedly. These individuals experience breakthrough or breakdown in matters of intimacy, inheritance, and power.
+
+**Gift:** Revolutionary transformation, liberation through crisis, awakening via the underworld, innovative approaches to taboo
+**Challenge:** Trauma, sudden financial loss, chaotic sexuality, obsession with the taboo, inability to integrate shadow
+
+---
+
+### Neptune in the 8th House
+
+When [[Neptune ♆]] is in the 8th House, **transformation occurs through surrender, death, and the occult**. These individuals experience mystical regeneration or dissolution in the underworld. Inheritance may be spiritual rather than material. Boundaries dissolve at the edge of death.
+
+**Gift:** Spiritual regeneration, mystical union through intimacy, compassionate approach to death, mediumship
+**Challenge:** Spiritual crisis, addiction as escape from shadow, financial loss through deception, inability to close the psychic channel
+
+---
+
+### Pluto in the 8th House
+
+When [[Pluto ♇]] is in the 8th House (Pluto's natural domain), **this is mastery over death, sex, transformation, and shared resources**. These individuals are born to the underworld. They wield immense power through crisis and regenerate repeatedly. The 8th House themes are primary life focus.
+
+**Gift:** Profound transformative capacity, mastery of shadow work, regenerative power, depth psychology expertise
+**Challenge:** Obsession with death or power, compulsive cycles, inability to surface, destructive use of power
 
 ---
 ## Psychological & Jungian Depth

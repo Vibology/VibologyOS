@@ -82,6 +82,43 @@ When the [[Moon ☽]] is in the 6th House, **emotion requires routine**. These i
 **Challenge:** Psychosomatic illness, emotional overwhelm manifesting as physical symptoms
 
 ---
+
+### Mercury in the 6th House
+
+When [[Mercury  ☿]] is in the 6th House (Mercury's second domicile), **the mind refines through repetition**. Thought is analytical, detail-oriented, focused on craft and service. These individuals perfect through mental precision and systematic work.
+
+**Gift:** Analytical excellence, attention to detail, mastery through practice
+**Challenge:** Overthinking health, mental exhaustion from perfectionism
+
+---
+
+### Venus in the 6th House
+
+When [[Venus ♀]] is in the 6th House, **beauty is found in service, craft, and daily ritual**. These individuals love through acts of care and refinement of skill. Work must be beautiful; health practices emphasize grace and pleasure.
+
+**Gift:** Service through beauty, finding pleasure in routine, healing through aesthetics
+**Challenge:** Difficulty with "dirty" work, health issues from indulgence
+
+---
+
+### Mars in the 6th House
+
+When [[Mars ♂]] is in the 6th House, **there is drive toward work, service, and physical discipline**. The body honed through routine; health as daily battle. These individuals work with intensity and competitive edge.
+
+**Gift:** Tireless work ethic, physical discipline, courage in service
+**Challenge:** Workaholism, injury through overexertion, combative workplace dynamics
+
+---
+
+### Jupiter in the 6th House
+
+When [[Jupiter ♃]] is in the 6th House, **growth occurs through service, craft, and daily ritual**. The native finds meaning in work and expands through disciplined practice. Health benefits from optimism and faith in the body's wisdom.
+
+**Gift:** Meaningful work, optimistic health practices, service with joy
+**Challenge:** Overwork disguised as mission, martyr complex, excessive optimism about health
+
+---
+
 ### Saturn in the 6th House
 
 When [[Saturn ♄]] is in the 6th House, **work is burden and test**. These individuals often experience chronic health issues or demanding labor early in life. Over time, Saturn builds **earned mastery**—health through discipline, work as spiritual practice.
@@ -90,6 +127,16 @@ When [[Saturn ♄]] is in the 6th House, **work is burden and test**. These indi
 **Challenge:** Workaholism, chronic illness, joyless labor
 
 ---
+
+### Uranus in the 6th House
+
+When [[Uranus ♅]] is in the 6th House, **there is disruption in work and health routines**. Sudden health crises or breakthroughs; unconventional healing modalities. These individuals resist conventional labor and experiment with body-mind practices.
+
+**Gift:** Innovative health approaches, freedom in work, breakthrough healing
+**Challenge:** Chronic instability in daily life, nervous system disorders, erratic work patterns
+
+---
+
 ### Neptune in the 6th House
 
 When [[Neptune ♆]] is in the 6th House, **boundaries dissolve in service**. These individuals struggle with martyrdom—sacrificing health for others, losing themselves in work. The body is hypersensitive; illness is often mysterious.
@@ -98,6 +145,16 @@ When [[Neptune ♆]] is in the 6th House, **boundaries dissolve in service**. Th
 **Challenge:** Martyrdom, unclear health diagnoses, escapism through work
 
 ---
+
+### Pluto in the 6th House
+
+When [[Pluto ♇]] is in the 6th House, **work becomes ritual death and rebirth**. Health crises that transform; the body purged and regenerated through discipline. These individuals experience power through mastery of craft and intense commitment to labor.
+
+**Gift:** Transformative work, profound healing through crisis, regenerative health practices
+**Challenge:** Compulsive labor, chronic illness as initiation, power struggles in service roles
+
+---
+
 ## Psychological & Jungian Depth
 
 The 6th House represents the **disciplined ego**—the part of the psyche that organizes, maintains, and serves. In Jungian terms, this is the **adaptive function**: the capacity to subordinate desire (5th House) to necessity.
