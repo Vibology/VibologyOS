@@ -98,9 +98,9 @@ When The Self appears in a reading, the querent is being tested: will you trust 
 
 ## Internal Links
 
-- [[The Persona]] - Constructed mask vs integrated totality
-- [[The Anima]] - Soul-image integrated into Self
-- [[The Animus]] - Spirit-force integrated into Self
+- [[The Window/Twelve Archetypes/The Persona]] - Constructed mask vs integrated totality
+- [[The Window/Twelve Archetypes/The Anima]] - Soul-image integrated into Self
+- [[The Window/Twelve Archetypes/The Animus]] - Spirit-force integrated into Self
 - [[The Shape]] - Shadow integrated into Self
 - [[Gate 43 - Breakthrough]]
 - [[Gene Key 43 - Deafness to Epiphany]]

@@ -98,9 +98,9 @@ When The Threshold Guardian appears in a reading, the querent is being tested: w
 
 ## Internal Links
 
-- [[The Hero]] - Journey tested by guardian
+- [[The Window/Twelve Archetypes/The Hero]] - Journey tested by guardian
 - [[The Shape]] - Shadow patterns guarding threshold
-- [[The Self]] - Integration that allows passage
+- [[The Window/Twelve Archetypes/The Self]] - Integration that allows passage
 - [[Gate 39 - Obstruction]]
 - [[Gene Key 39 - Provocation to Liberation]]
 - [[Pisces - The Mystic]]

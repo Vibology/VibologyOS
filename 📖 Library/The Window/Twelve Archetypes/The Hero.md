@@ -96,9 +96,9 @@ When The Hero appears in a reading, the querent is being tested: do you have the
 
 ## Internal Links
 
-- [[The Persona]] - Masks of power vs authentic strength
+- [[The Window/Twelve Archetypes/The Persona]] - Masks of power vs authentic strength
 - [[The Shape]] - Power's dark reflection
-- [[The Self]] - Integration of all power expressions
+- [[The Window/Twelve Archetypes/The Self]] - Integration of all power expressions
 - [[Gate 34 - The Power of the Great]]
 - [[Gene Key 34 - Force to Majesty]]
 - [[Aries - The Pioneer]]

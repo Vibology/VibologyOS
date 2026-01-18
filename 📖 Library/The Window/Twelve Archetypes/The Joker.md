@@ -98,9 +98,9 @@ When The Joker appears in a reading, the querent is being tested: will you honor
 
 ## Internal Links
 
-- [[The Hero]] - Order vs chaos
+- [[The Window/Twelve Archetypes/The Hero]] - Order vs chaos
 - [[The Shape]] - Pattern that returns vs chaos that destroys
-- [[The Self]] - Integration beyond disruption
+- [[The Window/Twelve Archetypes/The Self]] - Integration beyond disruption
 - [[Gate 35 - Progress]]
 - [[Gene Key 35 - Hunger to Boundlessness]]
 - [[Sagittarius - The Archer]]

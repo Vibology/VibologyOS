@@ -98,9 +98,9 @@ When The Shape appears in a reading, the querent is being tested: will you recog
 
 ## Internal Links
 
-- [[The Hero]] - Conscious light vs unconscious shadow
-- [[The Threshold Guardian]] - Guardian tested by what returns
-- [[The Self]] - Integration of shadow into wholeness
+- [[The Window/Twelve Archetypes/The Hero]] - Conscious light vs unconscious shadow
+- [[The Window/Twelve Archetypes/The Threshold Guardian]] - Guardian tested by what returns
+- [[The Window/Twelve Archetypes/The Self]] - Integration of shadow into wholeness
 - [[Gate 44 - Coming to Meet]]
 - [[Gene Key 44 - Interference to Synarchy]]
 - [[Scorpio - The Transformer]]

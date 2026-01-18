@@ -98,9 +98,9 @@ When The Wise Man appears in a reading, the querent is being tested: will you ho
 
 ## Internal Links
 
-- [[The Hero]] - Power in action vs will in provision
-- [[The Divine Child]] - What the Wise Man teaches
-- [[The Great Mother]] - Nourishment vs provision
+- [[The Window/Twelve Archetypes/The Hero]] - Power in action vs will in provision
+- [[The Window/Twelve Archetypes/The Divine Child]] - What the Wise Man teaches
+- [[The Window/Twelve Archetypes/The Great Mother]] - Nourishment vs provision
 - [[Gate 40 - Deliverance]]
 - [[Gene Key 40 - Exhaustion to Divine Will]]
 - [[Virgo - The Perfectionist]]

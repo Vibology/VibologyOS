@@ -98,9 +98,9 @@ When The Persona appears in a reading, the querent is being tested: can you with
 
 ## Internal Links
 
-- [[The Hero]] - Authentic power vs performed power
-- [[The Shapeshifter]] - Fluid forms vs constructed masks
-- [[The Self]] - Integration beyond performance
+- [[The Window/Twelve Archetypes/The Hero]] - Authentic power vs performed power
+- [[The Window/Twelve Archetypes/The Shapeshifter]] - Fluid forms vs constructed masks
+- [[The Window/Twelve Archetypes/The Self]] - Integration beyond performance
 - [[Gate 41 - Decrease]]
 - [[Gene Key 41 - Expectation to Ecstasy]]
 - [[Leo - The Performer]]

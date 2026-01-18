@@ -98,9 +98,9 @@ When The Divine Child appears in a reading, the querent is being tested: will yo
 
 ## Internal Links
 
-- [[The Great Mother]] - The one who protects the Divine Child
-- [[The Hero]] - The defender of innocence
-- [[The Threshold Guardian]] - The test the child must pass
+- [[The Window/Twelve Archetypes/The Great Mother]] - The one who protects the Divine Child
+- [[The Window/Twelve Archetypes/The Hero]] - The defender of innocence
+- [[The Window/Twelve Archetypes/The Threshold Guardian]] - The test the child must pass
 - [[Gate 37 - The Family]]
 - [[Gene Key 37 - Weakness to Tenderness]]
 - [[Cancer - The Nurturer]]

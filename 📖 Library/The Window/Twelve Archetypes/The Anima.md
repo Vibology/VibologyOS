@@ -98,9 +98,9 @@ When The Anima appears in a reading, the querent is being tested: will you love 
 
 ## Internal Links
 
-- [[The Animus]] - Feminine soul-image vs masculine spirit-force
-- [[The Persona]] - Performed identity vs embodied soul
-- [[The Self]] - Integration of anima and animus
+- [[The Window/Twelve Archetypes/The Animus]] - Feminine soul-image vs masculine spirit-force
+- [[The Window/Twelve Archetypes/The Persona]] - Performed identity vs embodied soul
+- [[The Window/Twelve Archetypes/The Self]] - Integration of anima and animus
 - [[Gate 46 - Pushing Upward]]
 - [[Gene Key 46 - Seriousness to Ecstasy]]
 - [[Libra - The Harmonizer]]

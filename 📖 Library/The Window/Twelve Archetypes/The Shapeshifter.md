@@ -98,9 +98,9 @@ When The Shapeshifter appears in a reading, the querent is being tested: can you
 
 ## Internal Links
 
-- [[The Persona]] - Constructed masks vs fluid forms
-- [[The Self]] - Integration beyond shifting
-- [[The Divine Child]] - Innocent beginning vs perpetual beginning
+- [[The Window/Twelve Archetypes/The Persona]] - Constructed masks vs fluid forms
+- [[The Window/Twelve Archetypes/The Self]] - Integration beyond shifting
+- [[The Window/Twelve Archetypes/The Divine Child]] - Innocent beginning vs perpetual beginning
 - [[Gate 53 - Development]]
 - [[Gene Key 53 - Immaturity to Superabundance]]
 - [[Gemini - The Twins]]

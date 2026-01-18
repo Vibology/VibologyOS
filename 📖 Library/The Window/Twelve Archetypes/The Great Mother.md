@@ -98,8 +98,8 @@ When The Great Mother appears in a reading, the querent is being tested: will yo
 
 ## Internal Links
 
-- [[The Hero]] - Power in service
-- [[The Divine Child]] - What the Great Mother protects
+- [[The Window/Twelve Archetypes/The Hero]] - Power in service
+- [[The Window/Twelve Archetypes/The Divine Child]] - What the Great Mother protects
 - [[The Wise Man]] - Mentor who guides without consuming
 - [[Gate 27 - Nourishment]]
 - [[Gene Key 27 - Selfishness to Selflessness]]

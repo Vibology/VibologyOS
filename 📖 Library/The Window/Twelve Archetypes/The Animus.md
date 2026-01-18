@@ -98,9 +98,9 @@ When The Animus appears in a reading, the querent is being tested: will you clai
 
 ## Internal Links
 
-- [[The Anima]] - Feminine soul-image vs masculine spirit-force
-- [[The Hero]] - Power in action vs authority through pattern
-- [[The Self]] - Integration of anima and animus
+- [[The Window/Twelve Archetypes/The Anima]] - Feminine soul-image vs masculine spirit-force
+- [[The Window/Twelve Archetypes/The Hero]] - Power in action vs authority through pattern
+- [[The Window/Twelve Archetypes/The Self]] - Integration of anima and animus
 - [[Gate 31 - Influence]]
 - [[Gene Key 31 - Arrogance to Humility]]
 - [[Capricorn - The Achiever]]
