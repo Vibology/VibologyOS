@@ -82,6 +82,34 @@ When the [[Moon ☽]] is in the 2nd House, **emotional security requires materia
 **Challenge:** Clinging to possessions, inability to trust flow
 
 ---
+
+### Mercury in the 2nd House
+
+When [[Mercury  ☿]] is in the 2nd House, **the mind organizes resources**. Thought is practical, focused on value, security, and skill acquisition. These individuals earn through communication, intellect, and commercial savvy—communication equals commerce.
+
+**Gift:** Financial intelligence, practical thinking, skill monetization, commercial acumen
+**Challenge:** Over-intellectualizing worth; restless pursuit of financial security
+
+---
+
+### Venus in the 2nd House
+
+When [[Venus ♀]] is in the 2nd House (Venus's natural joy), **value equals material resources, sensory pleasure, and self-worth through possession**. These individuals attract wealth and beauty through embodied presence—naturally skilled at creating comfort, luxury, and aesthetic value.
+
+**Gift:** Attracts resources easily, appreciation of beauty, pleasure in possessions
+**Challenge:** Materialism, over-attachment to luxury, self-worth tied to aesthetics
+
+---
+
+### Mars in the 2nd House
+
+When [[Mars ♂]] is in the 2nd House, **there is drive to accumulate resources and defend possessions**. Desire for financial independence; aggression in pursuit of security. These individuals earn through courage, action, and competitive drive.
+
+**Gift:** Entrepreneurial drive, financial courage, ability to fight for resources
+**Challenge:** Greed, material conflict, exhaustion from constant financial striving
+
+---
+
 ### Jupiter in the 2nd House
 
 When [[Jupiter ♃]] is in the 2nd House, **resources expand naturally**. These individuals attract wealth through optimism and generosity. Money flows to them because they believe in abundance.
@@ -98,6 +126,34 @@ When [[Saturn ♄]] is in the 2nd House, **resources are earned through struggle
 **Challenge:** Poverty consciousness, hoarding, inability to enjoy what is earned
 
 ---
+
+### Uranus in the 2nd House
+
+When [[Uranus ♅]] is in the 2nd House, **resources are unstable—sudden financial gains or losses**. Unconventional relationship to money and possessions; values that deviate from societal norms. These individuals earn through innovation, technology, or disruption.
+
+**Gift:** Financial innovation, freedom from material attachment, unconventional income
+**Challenge:** Financial chaos, difficulty accumulating security, erratic income
+
+---
+
+### Neptune in the 2nd House
+
+When [[Neptune ♆]] is in the 2nd House, **resources and self-worth dissolve**. The native struggles with material attachment—money comes and goes like the tide. Values are spiritual, not material. These individuals may earn through art, healing, or service.
+
+**Gift:** Spiritual relationship to money, generosity, trust in divine provision
+**Challenge:** Financial chaos, inability to ground abundance, poverty consciousness disguised as spirituality
+
+---
+
+### Pluto in the 2nd House
+
+When [[Pluto ♇]] is in the 2nd House, **death and rebirth occur around resources, possessions, and self-worth**. Drive to control material security; fear of loss. These individuals accumulate or destroy wealth compulsively—financial transformation through crisis.
+
+**Gift:** Power to create wealth from nothing, financial regeneration, resourcefulness
+**Challenge:** Greed, obsession with financial power, inability to release possessions
+
+---
+
 ## Psychological & Jungian Depth
 
 The 2nd House represents **self-worth and deservingness**—the unconscious belief about whether you are entitled to exist, to have, to take up space.

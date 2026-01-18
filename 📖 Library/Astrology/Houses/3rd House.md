@@ -74,6 +74,16 @@ When the [[Sun ☉]] is in the 3rd House, **identity is expressed through commun
 **Challenge:** Over-identification with ideas; ego-investment in being "right"
 
 ---
+
+### Moon in the 3rd House
+
+When the [[Moon ☽]] is in the 3rd House (the Moon's traditional joy), **emotions are processed through communication, local movement, and sibling bonds**. The body becomes messenger; feelings must be articulated to be understood. These individuals think emotionally and feel intellectually.
+
+**Gift:** Emotional intelligence in communication, empathic listening, intuitive understanding
+**Challenge:** Mood-driven thinking, emotional reactivity in speech, difficulty with objectivity
+
+---
+
 ### Mercury in the 3rd House
 
 When [[Astrology/Planets/Mercury # ☿]] is in the 3rd House (its natural home), **communication is effortless**. These individuals process information rapidly, adapt easily, and translate complex ideas into accessible language.
@@ -82,6 +92,34 @@ When [[Astrology/Planets/Mercury # ☿]] is in the 3rd House (its natural home),
 **Challenge:** Superficiality, scattered focus, difficulty with depth
 
 ---
+
+### Venus in the 3rd House
+
+When [[Venus ♀]] is in the 3rd House, **beauty is expressed through communication, wit, and social grace**. These individuals love learning, conversation, and local connections—possessing aesthetic intelligence in language. They charm through words and create beauty in dialogue.
+
+**Gift:** Diplomatic communication, poetic expression, social intelligence, charm
+**Challenge:** Superficial pleasantness, avoidance of difficult conversations, passive-aggressive speech
+
+---
+
+### Mars in the 3rd House
+
+When [[Mars ♂]] is in the 3rd House, **communication is assertive and the intellect is sharp**. Competitive sibling dynamics; the mind as blade, words as weapons. These individuals argue, debate, and cut through pretense with direct speech.
+
+**Gift:** Courageous speech, intellectual combativeness, mental sharpness, debate skill
+**Challenge:** Argumentativeness, verbal aggression, impulsive speech, sibling conflict
+
+---
+
+### Jupiter in the 3rd House
+
+When [[Jupiter ♃]] is in the 3rd House, **wisdom is expressed through communication, teaching, and local connections**. These individuals love learning, sharing knowledge, and expanding the mind through intellectual generosity. Natural teachers and storytellers.
+
+**Gift:** Expansive thinking, teaching ability, optimistic communication, philosophical mind
+**Challenge:** Verbosity, exaggeration, intellectual overconfidence, difficulty being concise
+
+---
+
 ### Saturn in the 3rd House
 
 When [[Saturn ♄]] is in the 3rd House, **communication is restricted**. These individuals may struggle with early learning, sibling rivalry, or social anxiety. Over time, Saturn builds **earned mastery** of language and thought.
@@ -98,6 +136,25 @@ When [[Uranus ♅]] is in the 3rd House, **communication is revolutionary**. The
 **Challenge:** Alienation through communication, inability to connect casually
 
 ---
+
+### Neptune in the 3rd House
+
+When [[Neptune ♆]] is in the 3rd House, **communication and perception are veiled**. These individuals speak in metaphor, poetry, or silence. Early education may have been confusing or disrupted. Words are spells; the mind is a dreamscape through which symbols flow.
+
+**Gift:** Poetic expression, psychic communication, symbolic thinking, artistic language
+**Challenge:** Lying, deception, inability to discern fact from fantasy, lost sibling dynamics
+
+---
+
+### Pluto in the 3rd House
+
+When [[Pluto ♇]] is in the 3rd House, **communication becomes weapon or excavation tool**. Intensity in learning; sibling dynamics marked by power struggles. The mind that penetrates beneath surface meaning, excavating truth through psychological investigation.
+
+**Gift:** Penetrating insight, transformative speech, psychological depth in thinking
+**Challenge:** Manipulative speech, obsessive thinking, psychological warfare through words
+
+---
+
 ## Psychological & Jungian Depth
 
 The 3rd House represents **the cognitive substrate**—the unconscious patterns of thought that shape how you perceive reality. In Jungian terms, this is the **thinking function** (not philosophical thinking, but associative, networked cognition).

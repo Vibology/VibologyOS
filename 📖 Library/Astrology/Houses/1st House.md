@@ -81,12 +81,49 @@ When the [[Sun ☉]] is in the 1st House, **identity and essence merge**. There 
 **Challenge:** Difficulty seeing others as separate; narcissism
 
 ---
+
 ### Moon in the 1st House
 
 When the [[Moon ☽]] is in the 1st House, **emotion is the primary identity**. These individuals wear their feelings on the surface; their moods shape their entire presentation. They are deeply empathic but can be overwhelmed by emotional reactivity.
 
 **Gift:** Emotional transparency, nurturance, receptivity
 **Challenge:** Mood-driven identity; difficulty maintaining boundaries
+
+---
+
+### Mercury in the 1st House
+
+When [[Mercury  ☿]] is in the 1st House, **the mind is the self**. Identity equals thought, speech, and constant mental movement. These individuals talk, write, and think their way into existence—articulating themselves through language, wit, and intellectual agility. They are naturally curious, quick-witted, and communicative.
+
+**Gift:** Mental agility, eloquence, adaptability, youthful energy
+**Challenge:** Identity dependent on intellectual performance; restlessness; scattered focus
+
+---
+
+### Venus in the 1st House
+
+When [[Venus ♀]] is in the 1st House, **beauty and charm radiate through physical presence**. Identity equals attractiveness, grace, and aesthetic refinement. The body becomes an aesthetic object; these individuals are naturally diplomatic, often physically beautiful or stylish, and possess magnetic social appeal.
+
+**Gift:** Natural charm, beauty, social grace, harmonizing presence
+**Challenge:** Over-identification with appearance; vanity; identity dependent on being liked
+
+---
+
+### Mars in the 1st House
+
+When [[Mars ♂]] is in the 1st House (Mars's natural joy), **identity equals the body as weapon and the self as warrior**. These individuals are immediate, direct, and physically vital—radiating raw life force and courage. They move through the world with assertive momentum, claiming space instinctively.
+
+**Gift:** Courage, vitality, decisive action, physical strength
+**Challenge:** Impulsive aggression, accidents, the body as battlefield, inability to rest
+
+---
+
+### Jupiter in the 1st House
+
+When [[Jupiter ♃]] is in the 1st House, **optimism and largesse radiate through physical presence**. Identity equals the teacher, philosopher, or generous spirit. These individuals are naturally confident, often physically large or commanding, and approach life with expansive enthusiasm and faith.
+
+**Gift:** Natural confidence, generosity, wisdom, inspiring presence
+**Challenge:** Excess (weight, overconfidence), entitlement, difficulty with limitation
 
 ---
 
@@ -105,6 +142,24 @@ When [[Uranus ♅]] is in the 1st House, **identity is revolutionary**. These in
 
 **Gift:** Originality, innovation, freedom
 **Challenge:** Alienation, instability, inability to integrate
+
+---
+
+### Neptune in the 1st House
+
+When [[Neptune ♆]] is in the 1st House, **identity itself is fluid and boundary-dissolving**. These individuals appear otherworldly, ethereal, difficult to pin down—natural empaths, psychics, or artists. The self becomes a vessel for the transpersonal, reflecting others' projections like a mystical mirror.
+
+**Gift:** Psychic sensitivity, artistic gift, spiritual receptivity, compassion
+**Challenge:** Loss of identity, confusion about self versus projection, the chameleon with no core
+
+---
+
+### Pluto in the 1st House
+
+When [[Pluto ♇]] is in the 1st House, **identity is forged through crisis**. The body becomes a site of transformation; the self emerges as phoenix from its own ashes. These individuals possess magnetic presence, penetrating gaze, and intensity that cannot be hidden—radiating power and depth.
+
+**Gift:** Transformative power, psychological depth, regeneration, magnetic presence
+**Challenge:** Obsessive self-transformation, compulsive rebirth, identity built on trauma
 
 ---
 

@@ -5,7 +5,6 @@ date_created: 2026-01-08
 date_updated: 2026-01-18
 status: tier-3-complete
 ---
-
 # Personal Mythos & Jungian Psychology: The Mythic Coordinate
 
 *"The privilege of a lifetime is to become who you truly are."* — C.G. Jung
