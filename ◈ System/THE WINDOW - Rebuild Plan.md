@@ -88,7 +88,7 @@ status: Active Planning
 - Shadow Expression (negative manifestation)
 - Integration Gift (positive manifestation)
 - Which Patterns use this Archetype (list of gates/hexagrams)
-- Cross-References to Folklore Library entries
+- Cross-References to Personal Mythos Library entries
 - Divinatory Meaning (when drawn in reading)
 
 ---
@@ -312,7 +312,7 @@ date_created: YYYY-MM-DD
    - Define quality standards for Archetypes, Houses, Portals, Patterns
    - Establish required sections, cross-references, voice
 2. ⚪ Document 12 Archetypes (parallel agents)
-   - Use Folklore Jungian archetype entries as foundation
+   - Use Personal Mythos Jungian archetype entries as foundation
    - Add pop-culture icon analysis
    - Add 1980s cultural context
    - ~400-500 lines each × 12 = ~4,800-6,000 lines
@@ -495,7 +495,7 @@ D. Hybrid (mix formats for variety)
 - Paths = Patterns?
 - Tree structure informs hierarchical relationships
 
-**Jungian/Folklore:**
+**Jungian/Personal Mythos:**
 - 12 Archetypes directly map to Jungian Library entries
 - Hero's Journey stages inform Portal meanings
 - Individuation process informs Pattern progression
@@ -556,7 +556,7 @@ D. Hybrid (mix formats for variety)
 - **Outcome:** Complete blueprint for documentation phase
 
 **Option C: Document 12 Archetypes First (6-8 hours)**
-- Leverage existing Folklore Jungian entries
+- Leverage existing Personal Mythos Jungian entries
 - Add pop-culture analysis
 - Establish category documentation quality
 - **Outcome:** 1/3 of categories complete, pattern for others
@@ -577,7 +577,7 @@ This ensures we're building on solid architectural ground rather than refactorin
 - ✅ I-Ching hexagram meanings (available via NotebookLM or Library research)
 - ✅ Human Design gate mechanics (📖 Library/Human Design/Gates/)
 - ✅ Gene Keys Shadow→Gift→Siddhi (need to source or fetch from NotebookLM)
-- ✅ Jungian archetypes (📖 Library/Folklore/Jungian Archetypes/)
+- ✅ Jungian archetypes (📖 Library/Personal Mythos/Jungian Archetypes/)
 - ⚠️ 1980s pop-culture references (need to research/verify for each icon)
 
 ### Tools
@@ -635,4 +635,4 @@ Before proceeding, need clarity on:
 - Answers to open questions
 - Collaborative design session for Houses architecture
 
-Once Houses are clarified, we can proceed rapidly through mapping and documentation phases using proven Folklore/Angelology parallel agent methodology.
+Once Houses are clarified, we can proceed rapidly through mapping and documentation phases using proven Personal Mythos/Angelology parallel agent methodology.

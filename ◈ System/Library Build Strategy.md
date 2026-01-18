@@ -167,7 +167,7 @@ The most immediately actionable pillar for consultations.
    - Hero, Shadow, Anima/Animus, Great Mother, Wise Old Man, Joker, Self
    - Integration with Personal Myth framework
 
-2. **Folklore Core:**
+2. **Personal Mythos Core:**
    - The Personal Myth (expanded)
    - Individuation Process (detailed)
    - Three Aeons of Evolution
@@ -221,7 +221,7 @@ The most immediately actionable pillar for consultations.
 2. **Cross-Pillar Synthesis Documents:**
    - Gate-to-Tarot Path Correspondences
    - Angelic Center Activations in Natal Charts
-   - Window Archetypes in Folklore Myths
+   - Window Archetypes in Personal Mythos Myths
    - Blueprint 444 Integration Map
 
 3. **Consultation Templates:**
@@ -242,7 +242,7 @@ The most immediately actionable pillar for consultations.
 | 3 | Tarot (Full 78-Card System) | Tier 2+ (Full Tarot) | ✅ Complete |
 | 3b | Tree of Life & Qabalah | Tier 2+ (Pathworking) | Pending |
 | 4 | The Window + Gates | Tier 2+ (Actor Below Line) | Pending |
-| 5 | Folklore + Angelology | Tier 3 (Mythic Synthesis) | Pending |
+| 5 | Personal Mythos + Angelology | Tier 3 (Mythic Synthesis) | Pending |
 | 6 | HD Advanced | Tier 3 (Professional) | Pending |
 | 7 | Magdalene Path | Tier 3+ (Syn-Gnosis) | Pending |
 
@@ -271,7 +271,7 @@ The most immediately actionable pillar for consultations.
 ## DECISIONS CONFIRMED (2026-01-08)
 
 1. ✅ **Approach:** Completion-based phasing (no arbitrary timelines)
-2. ✅ **Priority Order:** HD → Astro → Tarot (Major + Minor) → Tree of Life → Window → Folklore → Advanced → Magdalene
+2. ✅ **Priority Order:** HD → Astro → Tarot (Major + Minor) → Tree of Life → Window → Personal Mythos → Advanced → Magdalene
 3. ✅ **Phase 4 Scope:** All 64 gates (not partial set)
 4. ✅ **Content Voice:** Weaver persona with user review/edit
 5. ✅ **Case Studies:** Defer to appropriate time in build cycle

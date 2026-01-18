@@ -12,7 +12,7 @@ status: Complete
 
 The Window is a **64-card oracle deck** that translates the timeless 64-fold architecture (I-Ching hexagrams / Human Design gates / Gene Keys) into contemporary 1980s cultural encoding. It provides a divination system grounded in ancient wisdom while speaking through modern archetypal imagery—pop culture icons, catalytic life events, and parallel domains of human experience.
 
-The Window bridges **[[Human Design]]'s mechanical precision**, **[[I-Ching]]'s wisdom**, **[[Gene Keys]]' transformative arc**, and **[[Folklore]]'s mythic resonance** into a coherent oracle system accessible to contemporary consciousness.
+The Window bridges **[[Human Design]]'s mechanical precision**, **[[I-Ching]]'s wisdom**, **[[Gene Keys]]' transformative arc**, and **[[Personal Mythos]]'s mythic resonance** into a coherent oracle system accessible to contemporary consciousness.
 
 ---
 ## The Three Parallel Categorical Domains
@@ -155,7 +155,7 @@ Ancient 64-fold architecture (I-Ching/HD/Gene Keys) becomes accessible through 1
 Practical oracle system for daily guidance, shadow work, and transformation tracking. The Window makes esoteric knowledge actionable.
 
 **3. Cultural Bridge**
-Links [[Human Design]]'s mechanical precision + [[I-Ching]]'s timeless wisdom + [[Folklore]]'s mythic depth through contemporary imagery. The Window is where ancient meets modern.
+Links [[Human Design]]'s mechanical precision + [[I-Ching]]'s timeless wisdom + [[Personal Mythos]]'s mythic depth through contemporary imagery. The Window is where ancient meets modern.
 
 ---
 ## Related Systems
@@ -163,7 +163,7 @@ Links [[Human Design]]'s mechanical precision + [[I-Ching]]'s timeless wisdom + 
 - **[[Human Design]]** - Mechanical foundation (64 gates, centers, circuits)
 - **[[I-Ching]]** - Ancient wisdom (64 hexagrams, judgments, images)
 - **[[Gene Keys]]** - Transformation framework (Shadow → Gift → Siddhi)
-- **[[Folklore]]** - Jungian archetypes (12 archetypes directly mapped)
+- **[[Personal Mythos]]** - Jungian archetypes (12 archetypes directly mapped)
 - **[[The Tarot]]** - Western divination tradition (structural parallels)
 - **[[Astrology]]** - Zodiac wheel (12 archetypes mapped to signs)
 - **[[Qabalah]]** - Vertical hierarchy (Houses relate to Sephiroth)

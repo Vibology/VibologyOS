@@ -15,7 +15,7 @@ audience: External (portfolio, hiring managers, technical evaluation)
 
 ## Executive Summary
 
-VibologyOS is a multi-domain knowledge management system demonstrating custom AI orchestration, RAG (Retrieval-Augmented Generation) pipeline design, metadata governance, and quality assurance automation. The system manages seven interconnected knowledge domains (Tarot, Astrology, Human Design, Folklore, Angelology, The Window, The Magdalene Path) with rigorous cross-referencing, version control, and content quality standards.
+VibologyOS is a multi-domain knowledge management system demonstrating custom AI orchestration, RAG (Retrieval-Augmented Generation) pipeline design, metadata governance, and quality assurance automation. The system manages seven interconnected knowledge domains (Tarot, Astrology, Human Design, Personal Mythos, Angelology, The Window, The Magdalene Path) with rigorous cross-referencing, version control, and content quality standards.
 
 **Key Technical Achievements:**
 - Custom RAG pipeline bypassing standard token limits via NotebookLM integration
@@ -318,7 +318,7 @@ integrated subsystems within Tarot and Human Design respectively.
 CORRECT SEVEN PILLARS (per user clarification):
 1. Angelology
 2. Astrology
-3. Folklore
+3. Personal Mythos
 4. Human Design
 5. The Magdalene Path
 6. The Tarot

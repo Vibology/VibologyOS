@@ -236,7 +236,7 @@ The following advanced content is **NOT required** for pillar completion but cou
 - **[[Astrology]]** — 37/37 entries ✅ Tier 3 Complete (Planetary timing)
 - **[[Human Design]]** — 133/133 entries ✅ Tier 3 Complete (Individual genetic imprinting)
 - **[[Angelology]]** — 23/23 entries ✅ Tier 3 Complete (Hierarchical consciousness)
-- **[[Folklore]]** — INDEX created, expansion planned (Cultural archetypes, Jungian psychology)
+- **[[Personal Mythos]]** — INDEX created, expansion planned (Cultural archetypes, Jungian psychology)
 - **[[The Window]]** — Planned (Contemporary archetypal resonance, I-Ching framework)
 - **[[The Magdalene Path]]** — Planned (Unifying core, vertical soul ascent)
 

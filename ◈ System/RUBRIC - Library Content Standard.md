@@ -2,7 +2,7 @@
 tags: [system, template, rubric, quality-standard]
 date_created: 2026-01-09
 purpose: Universal quality standard for all VibologyOS Library content
-applies_to: [Angelology, Astrology, Folklore, Human Design, The Magdalene Path, The Tarot, The Window]
+applies_to: [Angelology, Astrology, Personal Mythos, Human Design, The Magdalene Path, The Tarot, The Window]
 version: 2.1
 date_updated: 2026-01-17
 ---
@@ -26,7 +26,7 @@ This rubric establishes the quality standard for **all comprehensive library ent
 **The Seven Pillars of VibologyOS:**
 1. **Angelology** - Hierarchical consciousness patterns
 2. **Astrology** - Planetary timing and cosmic positioning
-3. **Folklore** - Cultural archetypal encoding (includes Jungian psychology)
+3. **Personal Mythos** - Cultural archetypal encoding (includes Jungian psychology)
 4. **Human Design** - Individual genetic imprinting
 5. **The Magdalene Path** - Unifying core; vertical soul ascent
 6. **Tarot** - Qabalistic pathways (includes Qabalah framework)
@@ -36,7 +36,7 @@ This rubric establishes the quality standard for **all comprehensive library ent
 - Qabalah = Framework within Tarot and Angelology
 - I-Ching = Framework within The Window
 - Gene Keys = Related system within Human Design
-- Jungian Psychology = Core content within Folklore
+- Jungian Psychology = Core content within Personal Mythos
 
 **When writing system-specific appendices or pillar content:** Only reference the seven pillars listed above.
 
@@ -47,7 +47,7 @@ This rubric establishes the quality standard for **all comprehensive library ent
 ```markdown
 ---
 tags: [{system}, {category}, {specific-tags}]
-system: {One of the Seven Pillars: Angelology / Astrology / Folklore / Human Design / The Magdalene Path / The Tarot / The Window}
+system: {One of the Seven Pillars: Angelology / Astrology / Personal Mythos / Human Design / The Magdalene Path / The Tarot / The Window}
 date_created: YYYY-MM-DD
 {system-specific YAML fields - see System Guidelines appendix}
 ---
@@ -1486,7 +1486,7 @@ Scholarly, citing traditional sources. "According to Lilly..." / "The Hellenisti
 # APPENDIX D: FOLKLORE & JUNGIAN ARCHETYPES
 
 ## Scope
-Folklore and Jungian content covers: Universal Archetypes (Hero, Shadow, Anima/Animus, Wise Old Man, Great Mother, Joker, Self), Myths and Mythological Themes, Stages of the Hero's Journey, Individuation Process, Alchemical Stages, Fairy Tales and Symbolic Narratives.
+Personal Mythos and Jungian content covers: Universal Archetypes (Hero, Shadow, Anima/Animus, Wise Old Man, Great Mother, Joker, Self), Myths and Mythological Themes, Stages of the Hero's Journey, Individuation Process, Alchemical Stages, Fairy Tales and Symbolic Narratives.
 
 ## Canonical Sources
 - **Primary:** C.G. Jung (*Collected Works*, especially *Archetypes and the Collective Unconscious*, *Man and His Symbols*, *Psychology and Alchemy*)
@@ -1494,7 +1494,7 @@ Folklore and Jungian content covers: Universal Archetypes (Hero, Shadow, Anima/A
 - **Analytical:** James Hillman (*Re-Visioning Psychology*), Erich Neumann (*The Origins and History of Consciousness*, *The Great Mother*)
 - **Mythological:** Mircea Eliade (*The Sacred and the Profane*), Robert Graves (*The White Goddess*), comparative mythology texts
 
-**CRITICAL:** Folklore and archetypes are **living patterns**, not fixed categories. Approach with psychological depth, not reductive labeling.
+**CRITICAL:** Personal Mythos and archetypes are **living patterns**, not fixed categories. Approach with psychological depth, not reductive labeling.
 
 ## YAML Frontmatter
 
@@ -1502,7 +1502,7 @@ Folklore and Jungian content covers: Universal Archetypes (Hero, Shadow, Anima/A
 
 ```yaml
 tags: [folklore, jungian, archetype, specific-archetype-name]
-system: Folklore
+system: Personal Mythos
 date_created: YYYY-MM-DD
 category: {Archetype/Myth/Hero-Journey-Stage/Alchemical-Stage/Fairy-Tale}
 
@@ -1528,7 +1528,7 @@ central_figures: {Key characters/deities}
 core_theme: {Primary symbolic teaching}
 ```
 
-## Section 1: Foundational Material - Folklore/Jungian
+## Section 1: Foundational Material - Personal Mythos/Jungian
 
 ### Content Requirements
 
@@ -1542,7 +1542,7 @@ core_theme: {Primary symbolic teaching}
    - Greek, Norse, Egyptian, Hindu, Buddhist, Indigenous traditions
    - What are the common themes and variations?
 
-3. **Fairy Tale and Folklore Examples** (REQUIRED)
+3. **Fairy Tale and Personal Mythos Examples** (REQUIRED)
    - Which fairy tales embody this pattern?
    - Grimm, Anderson, global folklore
    - Symbol-by-symbol analysis
@@ -1560,7 +1560,7 @@ core_theme: {Primary symbolic teaching}
 ### Voice
 Evocative, psychologically sophisticated, mythologically grounded. "Jung writes..." / "In the Greek tradition..." / "The fairy tale reveals..."
 
-## Section 2: Core Correspondences - Folklore/Jungian
+## Section 2: Core Correspondences - Personal Mythos/Jungian
 
 ### Table Format (Example: Archetype)
 
@@ -1579,7 +1579,7 @@ Evocative, psychologically sophisticated, mythologically grounded. "Jung writes.
 | **I-Ching Hexagram** | {If there's a clear parallel} |
 | **Astrological** | {Planets/signs embodying this archetype} |
 
-## Section 3: Practical Application - Folklore/Jungian
+## Section 3: Practical Application - Personal Mythos/Jungian
 
 ### Content Requirements
 
@@ -1606,7 +1606,7 @@ Evocative, psychologically sophisticated, mythologically grounded. "Jung writes.
 5. **Keywords and Themes**
    {5-10 keywords for quick reference}
 
-## Section 4: Synthesis Notes - REQUIRED Subsections for Folklore/Jungian
+## Section 4: Synthesis Notes - REQUIRED Subsections for Personal Mythos/Jungian
 
 ### Universal Requirements:
 
@@ -1709,7 +1709,7 @@ Evocative, psychologically sophisticated, mythologically grounded. "Jung writes.
   - Psychological equivalent
   - Sexual and spiritual dimensions
 
-## Minimal vs. Exemplary - Folklore/Jungian
+## Minimal vs. Exemplary - Personal Mythos/Jungian
 
 ### MINIMAL (FAILS)
 > "The Shadow is the dark side of the personality. It's all the things we don't like about ourselves that we project onto others. To integrate the shadow, you need to accept your flaws."
@@ -2575,7 +2575,7 @@ Reverent, mystical, integrative. "The Gospel of Mary teaches..." / "In the Magda
     - **Astrology:** Timing, transits, cosmic cycles supporting the ascent
     - **Human Design:** Strategy and Authority as sacred listening
     - **The Window:** Contemporary encoding making ancient wisdom accessible
-    - **Folklore:** Universal archetypes as stages of the journey
+    - **Personal Mythos:** Universal archetypes as stages of the journey
     - **Angelology:** Angelic hierarchies as intelligences supporting ascent
 
 11. **The Magdalene Lineage** (REQUIRED)
@@ -2630,7 +2630,7 @@ Reverent, mystical, integrative. "The Gospel of Mary teaches..." / "In the Magda
 > 2. Astrology (cosmic timing and transits)
 > 3. Human Design (strategy and inner authority)
 > 4. The Window (contemporary archetypal encoding)
-> 5. Folklore (universal mythic patterns)
+> 5. Personal Mythos (universal mythic patterns)
 > 6. Angelology (hierarchies of consciousness)
 >
 > And at the center: **The Magdalene Path**, the unifying purpose. Without it, the six systems remain tools. With it, they become a **single spiritual technology** for the vertical ascent.

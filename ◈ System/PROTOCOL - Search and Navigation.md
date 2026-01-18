@@ -26,13 +26,13 @@ As the Library grows (currently 159 files across 7 pillars, expanding toward 500
 
 **Total Files:** 159 markdown entries
 **Cross-Reference Density:** 97% of files contain [[wikilinks]]
-**Systems Represented:** 7 pillars (Angelology, Astrology, Folklore, Human Design, The Magdalene Path, The Tarot, The Window)
+**Systems Represented:** 7 pillars (Angelology, Astrology, Personal Mythos, Human Design, The Magdalene Path, The Tarot, The Window)
 
 **System Breakdown:**
 - **Tarot:** 79 files (22 Major Arcana + 56 Minor Arcana + spreads/structures) → Most developed
 - **Astrology:** ~30 files (planets, signs, houses, aspects)
 - **Human Design:** ~15 files (types, centers, channels, gates, profiles)
-- **Other Systems:** ~35 files (Qabalah, Folklore, Angelology, Core Foundations)
+- **Other Systems:** ~35 files (Qabalah, Personal Mythos, Angelology, Core Foundations)
 
 **Directory Structure:**
 ```
@@ -44,7 +44,7 @@ As the Library grows (currently 159 files across 7 pillars, expanding toward 500
 │   ├── Houses/
 │   └── Aspects/
 ├── Core Foundations/
-├── Folklore/
+├── Personal Mythos/
 │   └── Jungian Archetypes/
 ├── Human Design/
 │   ├── Types/
@@ -397,7 +397,7 @@ Index files provide **at-a-glance navigation** for each pillar, showing:
 📖 Library/Human Design/INDEX - Human Design Master List.md
 📖 Library/The Tarot/INDEX - Tarot Master List.md
 📖 Library/The Window/INDEX - The Window Master List.md
-📖 Library/Folklore/INDEX - Folklore & Jungian Master List.md
+📖 Library/Personal Mythos/INDEX - Personal Mythos & Jungian Master List.md
 📖 Library/Angelology/INDEX - Angelology Master List.md
 📖 Library/Core Foundations/INDEX - Core Foundations Master List.md
 ```
@@ -690,7 +690,7 @@ find "📖 Library" -type f -name "*.md" | wc -l
 - `📖 Library/Human Design/INDEX - Human Design Master List.md`
 - `📖 Library/The Tarot/INDEX - Tarot Master List.md`
 - `📖 Library/The Window/INDEX - The Window Master List.md`
-- `📖 Library/Folklore/INDEX - Folklore & Jungian Master List.md`
+- `📖 Library/Personal Mythos/INDEX - Personal Mythos & Jungian Master List.md`
 - `📖 Library/Angelology/INDEX - Angelology Master List.md`
 
 ---

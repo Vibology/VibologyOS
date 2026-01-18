@@ -9,7 +9,7 @@ status: Active
 
 ## Purpose
 
-This protocol defines the methodology for **synthesizing across esoteric systems** (Tarot, Human Design, Astrology, Qabalah, I-Ching, Folklore/Jungian, Angelology) to create unified, multi-dimensional insight.
+This protocol defines the methodology for **synthesizing across esoteric systems** (Tarot, Human Design, Astrology, Qabalah, I-Ching, Personal Mythos/Jungian, Angelology) to create unified, multi-dimensional insight.
 
 **Core Principle:** The whole is greater than the sum of its parts. When multiple systems are held in dynamic tension around a specific question or situation, a "Third Meaning" emerges that no single system can reveal alone.
 
@@ -81,7 +81,7 @@ Choose systems that **directly illuminate the question**. Not every synthesis ne
 - **Tarot** - For archetypal narrative, symbolic amplification, divinatory insight
 - **Qabalah** - For structural framework, cosmology, pathworking
 - **I-Ching** - For change dynamics, hexagram wisdom, oracular guidance
-- **Jungian/Folklore** - For shadow work, archetypal psychology, mythic patterns
+- **Jungian/Personal Mythos** - For shadow work, archetypal psychology, mythic patterns
 - **Angelology** - For spiritual hierarchy, planetary intelligence, sacred geometry
 
 **Typical combinations:**
@@ -173,7 +173,7 @@ For each relevant system, collect **raw data** without interpretation:
 - Transformed hexagram
 - Judgment and Image text
 
-**Jungian/Folklore:**
+**Jungian/Personal Mythos:**
 - Relevant archetypes (Shadow, Anima/Animus, Self, etc.)
 - Mythic parallels
 - Fairy tale motifs

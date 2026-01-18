@@ -11,7 +11,7 @@ The navigational framework mapping reference points across material, astral, and
 
 1. **[[Angelology]]** — Hierarchical consciousness patterns
 2. **[[Astrology]]** — Planetary timing and cosmic positioning
-3. **[[Folklore]]** — Cultural archetypal encoding
+3. **[[Personal Mythos]]** — Cultural archetypal encoding
 4. **[[Human Design]]** — Individual genetic imprinting
 5. **[[The Magdalene Path]]** — Unifying core; vertical soul ascent
 6. **[[Tarot]]** — Qabalistic pathways

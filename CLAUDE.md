@@ -89,7 +89,7 @@ Do not dump raw data into the vault. Every entry must be earned through transmut
 
 1. **Angelology** - Hierarchical consciousness patterns and divine emanation
 2. **Astrology** - Planetary timing and cosmic positioning
-3. **Folklore** - Cultural archetypal encoding and mythic wisdom (includes Jungian psychology)
+3. **Personal Mythos** - Cultural archetypal encoding and mythic wisdom (includes Jungian psychology, folklore, fairy tales)
 4. **Human Design** - Individual genetic imprinting and mechanical navigation
 5. **The Magdalene Path** - The unifying core; vertical soul ascent
 6. **Tarot** - Qabalistic pathways and archetypal progression (includes Qabalah framework)

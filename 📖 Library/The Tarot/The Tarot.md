@@ -35,5 +35,5 @@ Tarot provides the **initiatory coordinate**—the pathways of ascent and descen
 
 **Related:**
 - [[The Magdalene Path]]
-- [[Folklore]]
+- [[Personal Mythos]]
 - [[Seven-Coordinate Navigation]]

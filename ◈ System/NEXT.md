@@ -1,15 +1,15 @@
 # Current Work Context
 
 **Last Session:** 2026-01-18
-**Current Focus:** Folklore pillar expansion - 🎉 ALCHEMICAL STAGES 100% COMPLETE! 🎉
+**Current Focus:** Personal Mythos pillar expansion - 🎉 ALCHEMICAL STAGES 100% COMPLETE! 🎉
 
 ## IMMEDIATE NEXT TASK
 
 No tasks pending. All recent priorities complete.
 
 **Available work paths:**
-- Continue Folklore pillar: World Mythology (11 traditions - cross-cultural archetypal mapping)
-- Continue Folklore pillar: Fairy Tales (20 entries - 8 tales + 12 motifs)
+- Continue Personal Mythos pillar: World Mythology (11 traditions - cross-cultural archetypal mapping)
+- Continue Personal Mythos pillar: Fairy Tales (20 entries - 8 tales + 12 motifs)
 - Create first cross-system synthesis piece (Tower archetype, Saturn Return, Gate 51/Shock)
 - Address medium-priority process gaps (Client Work Protocol, Synthesis Templates)
 - Quarterly Library audit (not due yet - protocol established 2026-01-10)
@@ -84,7 +84,7 @@ No tasks pending. All recent priorities complete.
 - **Alchemical Stages:** 7/11 → 11/11 (100% COMPLETE!)
 - **Total alchemical content:** 7,275 lines (4,527 Operations + 2,748 Colors)
 - **Average line count:** 661 lines/entry
-- **Folklore pillar:** 49.4% → 54.5% (38/77 → 42/77 entries at Tier 3)
+- **Personal Mythos pillar:** 49.4% → 54.5% (38/77 → 42/77 entries at Tier 3)
 - **Complete psychological transformation framework** now available
 - **Dual frameworks:** Operations (sequential process) + Colors (developmental stages)
 - **Practical tool** for crisis mapping, individuation work, client consultation
@@ -263,7 +263,7 @@ No tasks pending. All recent priorities complete.
 - Marie-Louise von Franz, *Individuation in Fairy Tales*
 
 **Impact:**
-- Folklore pillar progress: 32.5% → 40.3% (25/77 → 31/77 entries at Tier 3)
+- Personal Mythos pillar progress: 32.5% → 40.3% (25/77 → 31/77 entries at Tier 3)
 - Complete developmental framework birth to death now available
 - Practical tool for mapping life transitions and psychological crises
 - Context for when specific archetypes activate in life cycle
@@ -579,7 +579,7 @@ No tasks pending. All recent priorities complete.
 - Template-driven consistency: All entries match identical RUBRIC Appendix D structure
 
 **Impact:**
-- Folklore pillar progress: 16.9% → 32.5% (13/77 → 25/77 entries)
+- Personal Mythos pillar progress: 16.9% → 32.5% (13/77 → 25/77 entries)
 - Complete Hero's Journey framework for crisis mapping, life transitions, individuation work
 - Practical narrative structure for tracking personal transformations
 - All stages cross-referenced to Jungian archetypes, alchemical operations, Tarot Major Arcana
@@ -590,7 +590,7 @@ No tasks pending. All recent priorities complete.
 - feee6e9: Folklore INDEX update (Hero's Journey 100% complete)
 - [11 agent commits for remaining stages]
 
-**Status:** Folklore pillar now has complete 12-archetype framework (Phase 2: 9,966 lines) PLUS complete 12-stage Hero's Journey (Phase 3: 7,429 lines) = **24/77 entries at Tier 3 (31.2%)**. Next: Individuation Process (Phase 4) or Mythology/Fairy Tales (Phase 5).
+**Status:** Personal Mythos pillar now has complete 12-archetype framework (Phase 2: 9,966 lines) PLUS complete 12-stage Hero's Journey (Phase 3: 7,429 lines) = **24/77 entries at Tier 3 (31.2%)**. Next: Individuation Process (Phase 4) or Mythology/Fairy Tales (Phase 5).
 
 ---
 
@@ -606,7 +606,7 @@ No tasks pending. All recent priorities complete.
 
 **Quality:** All Tier 3 research-grade, 12 synthesis subsections, 40+ wikilinks, Gender Dynamics, complete cross-system correspondences
 
-**Impact:** Complete archetypal framework (12/12 archetypes, 9,966 total lines). Folklore pillar: 1.3% → 16.9% (1/77 → 13/77 entries)
+**Impact:** Complete archetypal framework (12/12 archetypes, 9,966 total lines). Personal Mythos pillar: 1.3% → 16.9% (1/77 → 13/77 entries)
 
 **Commits:** [Phase 2 session commits for all 4 archetypes]
 
@@ -687,7 +687,7 @@ No tasks pending. All recent priorities complete.
 
 **System Updates:**
 - Renamed "The Trickster" to "The Joker" across all documentation (RUBRIC, Expansion Plan, Library Build Strategy, INDEX)
-- Updated Folklore INDEX to reflect 8/12 archetypes complete (67% personal archetypes, 10.4% overall Folklore pillar)
+- Updated Folklore INDEX to reflect 8/12 archetypes complete (67% personal archetypes, 10.4% overall Personal Mythos pillar)
 - Reordered archetypes: Persona first, Shadow second (persona as "light brother" to shadow's "dark brother")
 - Removed "The Syzygy/Sacred Marriage" from transpersonal list (12 archetypes total: 8 personal + 4 transpersonal)
 
@@ -698,7 +698,7 @@ No tasks pending. All recent priorities complete.
 - Template-driven consistency: All entries match identical RUBRIC structure
 
 **Impact:**
-- Folklore pillar progress: 1/77 → 9/77 entries (1.3% → 11.7% overall, 0% → 67% personal archetypes)
+- Personal Mythos pillar progress: 1/77 → 9/77 entries (1.3% → 11.7% overall, 0% → 67% personal archetypes)
 - Complete personal archetypal framework for cross-system synthesis work
 - Jungian psychological dimension now available for integration with Tarot, HD, Astrology
 - Foundation for Phase 2 (transpersonal archetypes: Self, Divine Child, Threshold Guardian, Shapeshifter)
@@ -708,7 +708,7 @@ No tasks pending. All recent priorities complete.
 - ed627cf: The Anima (agent commit during parallel expansion)
 - 30fe35d: The Great Mother (agent commit during parallel expansion)
 
-**Status:** Folklore pillar now has complete foundational personal archetypal framework at research-grade Tier 3. Phase 2 (4 transpersonal archetypes) remains for full archetypal system completion.
+**Status:** Personal Mythos pillar now has complete foundational personal archetypal framework at research-grade Tier 3. Phase 2 (4 transpersonal archetypes) remains for full archetypal system completion.
 
 ---
 
