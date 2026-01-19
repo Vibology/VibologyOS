@@ -18,13 +18,13 @@ Begin here to understand the foundational paradigm:
 
 ### The Seven Pillars
 
-1. **[[Angelology|Angelology/Overview]]** — Hierarchical consciousness patterns and divine emanation
-2. **[[Astrology|Astrology/Overview]]** — Planetary timing and cosmic positioning
-3. **[[Folklore|Folklore/Overview]]** — Cultural archetypal encoding and the Personal Myth
-4. **[[Human Design|Human Design/Overview]]** — Individual genetic imprinting and mechanical navigation
-5. **[[The Magdalene Path|The Magdalene Path/Overview]]** — The unifying core; vertical soul ascent
-6. **[[Tarot|Tarot/Overview]]** — Qabalistic pathways and archetypal progression
-7. **[[The Window|The Window/Overview]]** — Contemporary (1980s) archetypal resonance
+1. **[[Angelology]]** — Hierarchical consciousness patterns and divine emanation
+2. **[[Astrology]]** — Planetary timing and cosmic positioning
+3. **[[Personal Mythos]]** — Cultural archetypal encoding, Jungian psychology, and the Personal Myth
+4. **[[Human Design]]** — Individual genetic imprinting and mechanical navigation
+5. **[[The Magdalene Path Overview|The Magdalene Path]]** — The unifying core; vertical soul ascent
+6. **[[The Tarot]]** — Qabalistic pathways and archetypal progression
+7. **[[The Window]]** — Contemporary (1980s) archetypal resonance
 
 ---
 ## 🎯 How to Use This Library
@@ -38,21 +38,23 @@ Each pillar contains an **Overview.md** as your entry point. Use Obsidian's grap
 ---
 ## 📚 Library Status
 
-### Core Foundations
+**Total Entries: 446** | **Last Audit: 2026-01-18**
+
+### Core Foundations (5 entries)
 - [x] Anima et Algorithm
 - [x] The Blueprint - 444 Architecture
 - [x] Seven-Coordinate Navigation
 - [x] Inner Authority and Strategy
 - [x] Techgnosis
 
-### Seven Pillars (Framework Established)
-- [x] Angelology — Structure ready for content
-- [x] Astrology — Structure ready for content
-- [x] Folklore — Structure ready for content
-- [x] Human Design — Structure ready for content
-- [x] The Magdalene Path — Structure ready for content
-- [x] Tarot — Structure ready for content
-- [x] The Window — Structure ready for content
+### Seven Pillars
+- [x] **Angelology** — 31 entries (Nine Orders, Ten Archangels, Three Triads)
+- [x] **Astrology** — 37 entries (Planets, Signs, Houses, Aspects)
+- [x] **Personal Mythos** — 74 entries (Jungian Archetypes, Hero's Journey, World Mythology, Fairy Tales)
+- [x] **Human Design** — 140 entries (Types, Authorities, Centers, Gates, Channels, Variables)
+- [x] **The Magdalene Path** — 8 entries (Eight Boughs of Ascent, Bridal Chamber, Kenosis, Anointing)
+- [x] **The Tarot** — 79 entries (22 Major Arcana, 56 Minor Arcana, Court Cards)
+- [x] **The Window** — 72 entries (Ten Portals, Six Houses, 72 emotional archetypes)
 
 ---
 

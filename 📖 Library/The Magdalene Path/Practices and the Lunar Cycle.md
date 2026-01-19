@@ -59,7 +59,7 @@ The lunar cycle is still valuable but operates differently:
 **Energy:** Seed planting, potential, darkness before emergence
 
 **Practice:**
-- **Morning:** Set intention for the lunar cycle—what question is alive in you? What stage of [[The Six Stages of Ascent|ascent]] are you navigating?
+- **Morning:** Set intention for the lunar cycle—what question is alive in you? What stage of [[The Eight Boughs of Ascent|ascent]] are you navigating?
 - **Evening:** Light a candle and sit in silence—receive what the darkness reveals
 - **Shadow Work:** What am I gripping? What must be released this cycle? (See [[Kenosis - The Path of Self-Emptying|Kenosis]])
 
@@ -141,7 +141,7 @@ The lunar cycle is still valuable but operates differently:
 **Practice (5-15 minutes):**
 
 1. **Stillness:** Sit or lie in silence—feel the body, notice the breath
-2. **Intention:** Recall where you are on [[The Six Stages of Ascent|the path]]—what stage are you navigating?
+2. **Intention:** Recall where you are on [[The Eight Boughs of Ascent|the path]]—what stage are you navigating?
 3. **Prayer/Invocation:** Your own words or traditional:
    > *"I release my grip on outcomes. I open my hands to receive what is given. I consecrate this day."*
 4. **Anointing (Optional):** Touch forehead with oil or water—seal the intention
@@ -190,7 +190,7 @@ The lunar cycle is still valuable but operates differently:
 
 **Time:** During sleep (passive practice)
 
-**The Teaching:** Dreams are the **language of the unconscious**—on the Magdalene Path, they reveal where you are on [[The Six Stages of Ascent|the ascent]].
+**The Teaching:** Dreams are the **language of the unconscious**—on the Magdalene Path, they reveal where you are on [[The Eight Boughs of Ascent|the ascent]].
 
 **Practice:**
 
@@ -409,7 +409,7 @@ Those with **undefined Head and Ajna** are naturally lunar researchers—they ex
 
 ### Astrology: The Moon's Nodes
 
-The **North and South Nodes** of the Moon (Rahu and Ketu in Vedic astrology) represent the soul's karmic journey—the South Node is what must be released ([[Kenosis - The Path of Self-Emptying|Kenosis]]), the North Node is what must be integrated ([[The Six Stages of Ascent|Ascent]]).
+The **North and South Nodes** of the Moon (Rahu and Ketu in Vedic astrology) represent the soul's karmic journey—the South Node is what must be released ([[Kenosis - The Path of Self-Emptying|Kenosis]]), the North Node is what must be integrated ([[The Eight Boughs of Ascent|Ascent]]).
 
 ### Jungian Psychology: Active Imagination
 

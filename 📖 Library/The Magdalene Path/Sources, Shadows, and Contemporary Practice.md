@@ -93,7 +93,7 @@ The **Nag Hammadi Library** (discovered 1945 in Egypt) preserves early Christian
 
 **The Lost Teaching:**
 - Most of the text is **missing**—we have only fragments
-- The central section (pages 11-14) describes **ascent through seven powers**—parallel to [[The Six Stages of Ascent|The Six Stages of Ascent]]
+- The central section (pages 11-14) describes **ascent through seven powers**—parallel to [[The Eight Boughs of Ascent|The Six Stages of Ascent]]
 - The soul must pass through **hostile archons** (powers of wrath, ignorance, desire, fear)—these are the **seven demons** cast out of Mary
 
 **What It Reveals:**
@@ -149,7 +149,7 @@ Even after the Wisdom gospels were suppressed, the **Magdalene current** persist
 
 **Teresa of Ávila (1515-1582):**
 - Spanish Carmelite mystic
-- Described **Interior Castle** with seven mansions—parallel to [[The Six Stages of Ascent|Six Stages]]
+- Described **Interior Castle** with seven mansions—parallel to [[The Eight Boughs of Ascent|Six Stages]]
 - Achieved mystical union (**spiritual marriage**) after years of purgation
 
 **John of the Cross (1542-1591):**
