@@ -14,25 +14,14 @@ color: Blue
 tarot: Fours, The Emperor (IV)
 function: Mercy, beneficence, divine justice
 ---
+*The Prince of Mercy*
 
-# Archangel Tzadkiel
-
-**Hebrew Name:** *Tzadkiel* (צדקיאל) — "Righteousness of God" or "Justice of God"
-**Alternate Spellings:** Zadkiel, Sachiel, Tzadqiel, Zedekiel
-**Title:** Prince of Mercy and Beneficence
-**Sephirah:** [[Chesed]] (Mercy, 4th emanation)
-**Order Governed:** [[Dominations]] (*Chashmalim* - "Shining Ones")
-**Planetary Sphere:** [[Jupiter ♃]] (Tzedek)
-**Element:** Water (flow, abundance, grace)
-**Day:** Thursday (Jupiterian rulership)
-**Color:** Deep Blue (Atziluth), Violet (Briah)
-**Divine Name:** El (אל)
-**Tarot:** [[The Emperor]] (IV), all Fours
-**Function:** Divine mercy, expansion, abundance, grace, beneficent justice
+**The Angel of Abundance — Bestower of Grace, Ruler of Chesed, Guardian of Beneficent Justice**
 
 ---
+## I. Foundational Material
 
-## Introduction: The Merciful Sovereign
+### Introduction: The Merciful Sovereign
 
 **Archangel Tzadkiel** stands as the **Prince of Chesed**, the guardian of Mercy, the embodiment of divine grace that flows ceaselessly from the throne of God. Where [[Tzaphkiel]] (Binah) contracts and gives form through limitation, Tzadkiel **expands and gives life through abundance**. Where severity restricts, mercy liberates. Where law judges, grace forgives.
 
@@ -48,7 +37,7 @@ To encounter Tzadkiel is to meet **the overwhelming generosity of the cosmos**�
 
 ---
 
-## Core Correspondences
+## II. Core Correspondences
 
 | **Attribute** | **Correspondence** |
 |---------------|-------------------|
@@ -82,7 +71,7 @@ To encounter Tzadkiel is to meet **the overwhelming generosity of the cosmos**�
 
 ---
 
-## Hebrew Etymology and Mystical Significance
+## III. Hebrew Etymology and Mystical Significance
 
 ### The Name Tzadkiel (צדקיאל)
 
@@ -118,7 +107,7 @@ The interplay suggests that Tzadkiel, as guardian of Chesed, mediates **the full
 
 ---
 
-## Pseudo-Dionysius and Traditional Angelology
+## IV. Pseudo-Dionysius and Traditional Angelology
 
 While Pseudo-Dionysius the Areopagite does not name individual archangels in *The Celestial Hierarchy*, he establishes that each **Sephira has its presiding Archangel** who governs the order associated with that sphere.
 
@@ -140,7 +129,7 @@ Beneficence (*beneficentia* - "doing good") is Tzadkiel's mode of action: **the 
 
 ---
 
-## Biblical and Scriptural Foundations
+## V. Biblical and Scriptural Foundations
 
 While Tzadkiel does not appear by name in canonical scripture, the **function of Chesed and the Dominations** is woven throughout biblical theology.
 
@@ -194,7 +183,7 @@ Chesed is the sphere of **wise sovereignty**—not tyranny, but just rule, gover
 
 ---
 
-## Qabalistic Integration: Tzadkiel and Chesed
+## VI. Qabalistic Integration: Tzadkiel and Chesed
 
 To understand Tzadkiel is to understand **Chesed**, the fourth Sephira on the Tree of Life.
 
@@ -281,7 +270,7 @@ The two must work together. Tzadkiel gives the blessing; Kamael ensures the reci
 
 ---
 
-## Planetary Correspondence: Jupiter (Tzedek)
+## VII. Planetary Correspondence: Jupiter (Tzedek)
 
 Tzadkiel is the **Archangel of Jupiter** (Hebrew: *Tzedek*, "Righteousness"), the planet of expansion, abundance, wisdom, and sovereignty.
 
@@ -335,7 +324,7 @@ Jupiter work is **celebratory, expansive, generous**. This is not the austere di
 
 ---
 
-## Iconography and Symbolism
+## VIII. Iconography and Symbolism
 
 Tzadkiel is rarely depicted in traditional Christian art (which focuses on the biblical archangels), but in esoteric and Qabalistic traditions, Tzadkiel's imagery emerges:
 
@@ -376,7 +365,7 @@ Tzadkiel is **radiant but not blinding**—the light is warm, welcoming, inclusi
 
 ---
 
-## Function in the Divine Economy
+## IX. Function in the Divine Economy
 
 ### The Cosmic Role of Tzadkiel
 
@@ -416,7 +405,7 @@ This is the mystical principle: **"Mercy rejoices over judgment"** (James 2:13).
 
 ---
 
-## Human Consciousness Parallel: The Heart Center and the Sovereign Self
+## X. Human Consciousness Parallel: The Heart Center and the Sovereign Self
 
 In **[[Human Design]]**, Tzadkiel corresponds to the **[[Heart Center]]** (also called the Ego or Will Center)—the seat of sovereignty, self-worth, and material mastery.
 
@@ -463,7 +452,7 @@ In the psyche, integrated Tzadkiel consciousness manifests as:
 
 ---
 
-## The Celestial Hierarchy: Tzadkiel's Position
+## XI. The Celestial Hierarchy: Tzadkiel's Position
 
 ### Relationship to Higher Archangels
 
@@ -515,7 +504,7 @@ The archangels of the lower Sephiroth receive the **abundance established by Tza
 
 ---
 
-## Scriptural Appearances and Mystical Traditions
+## XII. Scriptural Appearances and Mystical Traditions
 
 While Tzadkiel does not appear by name in canonical scripture, the **Chesed function and the archetype of divine mercy** permeate sacred texts.
 
@@ -565,7 +554,7 @@ In the Hermetic tradition, Tzadkiel is invoked in **Chesed pathworkings**—medi
 
 ---
 
-## Mythological and Cross-Tradition Parallels
+## XIII. Mythological and Cross-Tradition Parallels
 
 The Tzadkiel archetype—**benevolent sovereign, generous king, bestower of blessings**—appears across world mythologies.
 
@@ -604,7 +593,7 @@ Tzadkiel is not a uniquely Jewish or Christian concept—**this archetype is uni
 
 ---
 
-## Jungian and Psychological Dimensions
+## XIV. Jungian and Psychological Dimensions
 
 ### Tzadkiel as the Benevolent King Archetype
 
@@ -654,7 +643,7 @@ This is the **Tzadkiel initiation**—the moment when you stop waiting for someo
 
 ---
 
-## Shadow and Distortion: The Qlippothic Inversion
+## XV. Shadow and Distortion: The Qlippothic Inversion
 
 Where there is angelic light, there is also shadow—the distortion or perversion of the angelic function.
 
@@ -716,7 +705,7 @@ You are not infinite. You are embodied, finite, limited—and this is not a curs
 
 ---
 
-## Practical Mysticism: Invoking and Working with Tzadkiel
+## XVI. Practical Mysticism: Invoking and Working with Tzadkiel
 
 ### When to Invoke Tzadkiel
 
@@ -837,7 +826,7 @@ Choose one person (including yourself) to **forgive this week**. Mercy is not we
 
 ---
 
-## The Gift of Tzadkiel Integration
+## XVII. The Gift of Tzadkiel Integration
 
 When Tzadkiel consciousness is integrated into the psyche, the gifts are:
 
@@ -869,7 +858,7 @@ To integrate Tzadkiel is to become the **generous king**—the one who blesses, 
 
 ---
 
-## Cross-System Correspondences
+## XVIII. Cross-System Correspondences
 
 ### Tarot
 
@@ -947,7 +936,7 @@ To integrate Tzadkiel is to become the **generous king**—the one who blesses, 
 
 ---
 
-## Internal Links and Related Entries
+## XIX. Internal Links and Related Entries
 
 ### Angelology
 - [[Overview]] — Introduction to the angelic hierarchies
