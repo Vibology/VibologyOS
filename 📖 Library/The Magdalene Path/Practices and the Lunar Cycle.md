@@ -63,7 +63,7 @@ The lunar cycle is still valuable but operates differently:
 - **Evening:** Light a candle and sit in silence—receive what the darkness reveals
 - **Shadow Work:** What am I gripping? What must be released this cycle? (See [[Kenosis - The Path of Self-Emptying|Kenosis]])
 
-**Correspondence:** [[The Six Stages of Ascent#Stage I: Base (Material Density)|The Base]]—grounding in the physical, setting foundation
+**Correspondence:** [[The Eight Boughs of Ascent#First Bough: The Foundation|The Base]]—grounding in the physical, setting foundation
 
 ---
 
@@ -78,7 +78,7 @@ The lunar cycle is still valuable but operates differently:
 
 **Relationship Practice:** Share your growing insights with your partner/friend—practice **transparency** ([[The Bridal Chamber and Sacred Union#Transparency and Vulnerability|Bridal Chamber practice]])
 
-**Correspondence:** [[The Six Stages of Ascent#Stage II: The Gate (Initiation)|The Gate]] and [[The Six Stages of Ascent#Stage III: Lower Astral (Transformation)|Lower Astral]]—crossing thresholds, purification
+**Correspondence:** [[The Eight Boughs of Ascent#Second Bough: The Mind|The Gate]] and [[The Eight Boughs of Ascent#Third Bough: The Ego/Self|Lower Astral]]—crossing thresholds, purification
 
 ---
 
@@ -93,7 +93,7 @@ The lunar cycle is still valuable but operates differently:
 
 **Shadow Watch:** The Full Moon can trigger **spiritual bypassing**—believing the insight is the same as embodiment. You must **live** the realization, not just "have" it.
 
-**Correspondence:** [[The Six Stages of Ascent#Stage IV: The Pivot (The Abyss)|The Abyss]] and [[The Six Stages of Ascent#Stage V: Higher Astral (Clarification)|Higher Astral]]—the crossing, clarity emerging from chaos
+**Correspondence:** [[The Eight Boughs of Ascent#Fourth Bough: The Flesh|The Abyss]] and [[The Eight Boughs of Ascent#Fifth Bough: The Awakening|Higher Astral]]—the crossing, clarity emerging from chaos
 
 ---
 
@@ -108,7 +108,7 @@ The lunar cycle is still valuable but operates differently:
 
 **The Teaching:** The Dark Moon is as sacred as the Full Moon. **Emptiness** is not failure—it is preparation for the next cycle.
 
-**Correspondence:** [[The Six Stages of Ascent#Stage VI: Zenith (Sanctification)|The Zenith]]—resting in the void, wholeness in emptiness
+**Correspondence:** [[The Eight Boughs of Ascent#Eighth Bough: The Apex|The Zenith]]—resting in the void, wholeness in emptiness
 
 ---
 
@@ -200,11 +200,11 @@ The lunar cycle is still valuable but operates differently:
 
 **Dream Markers by Stage:**
 
-- **[[The Six Stages of Ascent#Stage I: Base (Material Density)|Base]]:** Dreams of survival—being chased, falling, material lack
-- **[[The Six Stages of Ascent#Stage III: Lower Astral (Transformation)|Lower Astral]]:** Dreams of death, decay, dismemberment—the false self dying
-- **[[The Six Stages of Ascent#Stage IV: The Pivot (The Abyss)|Abyss]]:** Dreams of the void—falling into blackness, ego dissolution
-- **[[The Six Stages of Ascent#Stage V: Higher Astral (Clarification)|Higher Astral]]:** Dreams of light, guides, celestial beings
-- **[[The Six Stages of Ascent#Stage VI: Zenith (Sanctification)|Zenith]]:** Dreams cease or become lucid—the boundary between waking/sleeping dissolves
+- **[[The Eight Boughs of Ascent#First Bough: The Foundation|Base]]:** Dreams of survival—being chased, falling, material lack
+- **[[The Eight Boughs of Ascent#Third Bough: The Ego/Self|Lower Astral]]:** Dreams of death, decay, dismemberment—the false self dying
+- **[[The Eight Boughs of Ascent#Fourth Bough: The Flesh|Abyss]]:** Dreams of the void—falling into blackness, ego dissolution
+- **[[The Eight Boughs of Ascent#Fifth Bough: The Awakening|Higher Astral]]:** Dreams of light, guides, celestial beings
+- **[[The Eight Boughs of Ascent#Eighth Bough: The Apex|Zenith]]:** Dreams cease or become lucid—the boundary between waking/sleeping dissolves
 
 ---
 
@@ -354,7 +354,7 @@ The lunar cycle is still valuable but operates differently:
 
 ### For Parents: Holding the Post for Children
 
-**The Teaching:** Children are constantly crossing thresholds—each developmental stage is a mini-[[The Six Stages of Ascent#Stage IV: The Pivot (The Abyss)|Abyss]]. Parents practice [[Anointing and Substituted Love#Substituted Love: Holding the Post|Substituted Love]] by holding steady while the child transforms.
+**The Teaching:** Children are constantly crossing thresholds—each developmental stage is a mini-[[The Eight Boughs of Ascent#Fourth Bough: The Flesh|Abyss]]. Parents practice [[Anointing and Substituted Love#Substituted Love: Holding the Post|Substituted Love]] by holding steady while the child transforms.
 
 **Daily Practice:**
 - **Morning:** Before engaging with the child, ground yourself—"I am whole. I do not need them to behave a certain way to validate my worth."
@@ -377,9 +377,9 @@ While the Magdalene Path is **lunar** (receptive, cyclical), it honors the **sol
 
 **Winter Solstice (December 21):** Darkest night—practice [[Kenosis - The Path of Self-Emptying#The Abyss: Total Surrender|Abyss meditation]], honor the void
 
-**Spring Equinox (March 20):** Balance—practice [[The Six Stages of Ascent#Stage II: The Gate (Initiation)|Gate crossing]], initiate new commitments
+**Spring Equinox (March 20):** Balance—practice [[The Eight Boughs of Ascent#Second Bough: The Mind|Gate crossing]], initiate new commitments
 
-**Summer Solstice (June 21):** Brightest day—practice [[The Six Stages of Ascent#Stage VI: Zenith (Sanctification)|Zenith celebration]], honor fullness
+**Summer Solstice (June 21):** Brightest day—practice [[The Eight Boughs of Ascent#Eighth Bough: The Apex|Zenith celebration]], honor fullness
 
 **Autumn Equinox (September 22):** Balance—practice [[Kenosis - The Path of Self-Emptying#Kenosis at Each Stage of Ascent|harvest and release]]
 
@@ -428,7 +428,7 @@ Jung's practice of **Active Imagination** (dialoguing with the unconscious) para
 ### Core Magdalene Path Entries
 - [[The Magdalene Path Overview]] - Overview of the Fifth Way
 - [[Mary Magdalene - Apostle and Beloved]] - The archetype and model
-- [[The Six Stages of Ascent]] - Framework for the vertical journey
+- [[The Eight Boughs of Ascent]] - Framework for the vertical journey
 - [[The Bridal Chamber and Sacred Union]] - Partnership practices
 - [[Kenosis - The Path of Self-Emptying]] - Core practice of release
 - [[Anointing and Substituted Love]] - Holding the post, sacred touch

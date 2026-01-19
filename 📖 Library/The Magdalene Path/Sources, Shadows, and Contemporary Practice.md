@@ -282,7 +282,7 @@ Even the **authentic** Magdalene Path carries shadows—ways the teaching can be
 
 ### Shadow 3: Premature Abyss Crossing
 
-**The Distortion:** Trying to leap to [[The Six Stages of Ascent#Stage IV: The Pivot (The Abyss)|the Abyss]] without doing the preparatory work at [[The Six Stages of Ascent#Stage III: Lower Astral (Transformation)|the Lower Astral]].
+**The Distortion:** Trying to leap to [[The Eight Boughs of Ascent#Fourth Bough: The Flesh|the Abyss]] without doing the preparatory work at [[The Eight Boughs of Ascent#Third Bough: The Ego/Self|the Lower Astral]].
 
 **Example:**
 - Taking psychedelics or engaging in extreme practices to "force" ego death
@@ -295,7 +295,7 @@ Even the **authentic** Magdalene Path carries shadows—ways the teaching can be
 - You cannot let go of what you haven't yet **inhabited**
 
 **Antidote:**
-- If you're at [[The Six Stages of Ascent#Stage I: Base (Material Density)|the Base]] or [[The Six Stages of Ascent#Stage II: The Gate (Initiation)|the Gate]], do that work **fully**
+- If you're at [[The Eight Boughs of Ascent#First Bough: The Foundation|the Base]] or [[The Eight Boughs of Ascent#Second Bough: The Mind|the Gate]], do that work **fully**
 - The Abyss will come when you're ready—forcing it is ego trying to control the path
 
 ---
@@ -311,7 +311,7 @@ Even the **authentic** Magdalene Path carries shadows—ways the teaching can be
 **Reality:**
 - The path is not a **status**—it is a **practice**
 - If it makes you **arrogant**, you have left the path
-- [[The Six Stages of Ascent#Stage VI: Zenith (Sanctification)|The Zenith]] is characterized by **humility**, not superiority
+- [[The Eight Boughs of Ascent#Eighth Bough: The Apex|The Zenith]] is characterized by **humility**, not superiority
 
 **Antidote:**
 - The teaching is for **service**, not self-aggrandizement
@@ -418,7 +418,7 @@ Bourgeault **synthesizes**:
 
 4. **Shadow Work** (Jungian integration)
    - Identifying and integrating rejected parts of the psyche
-   - Required at [[The Six Stages of Ascent#Stage III: Lower Astral (Transformation)|the Lower Astral]]
+   - Required at [[The Eight Boughs of Ascent#Third Bough: The Ego/Self|the Lower Astral]]
 
 ---
 
@@ -485,7 +485,7 @@ Those with **[[Emotional Authority]]** (Solar Plexus defined) must **wait throug
 ### Core Magdalene Path Entries
 - [[The Magdalene Path Overview]] - Overview of the Fifth Way
 - [[Mary Magdalene - Apostle and Beloved]] - The archetype and historical figure
-- [[The Six Stages of Ascent]] - The vertical journey
+- [[The Eight Boughs of Ascent]] - The vertical journey
 - [[The Bridal Chamber and Sacred Union]] - Sacred partnership and union
 - [[Kenosis - The Path of Self-Emptying]] - Core practice of release
 - [[Anointing and Substituted Love]] - Holding the post, sacred touch

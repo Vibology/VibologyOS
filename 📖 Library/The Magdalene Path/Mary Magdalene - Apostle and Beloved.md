@@ -82,7 +82,7 @@ Mary Magdalene is first introduced as:
 6. **Foolishness** (acting without wisdom)
 7. **Wisdom Perverted** (spiritual bypassing, using truth to avoid truth)
 
-**The Teaching:** Mary Magdalene underwent a **radical purification**—the stripping away of the egoic "garments" that obscure the true self. This is the work of [[The Six Stages of Ascent#Stage III: Lower Astral (Transformation)|the Lower Astral]]—confronting and releasing the False Self before crossing [[The Six Stages of Ascent#Stage IV: The Pivot (The Abyss)|the Abyss]].
+**The Teaching:** Mary Magdalene underwent a **radical purification**—the stripping away of the egoic "garments" that obscure the true self. This is the work of [[The Eight Boughs of Ascent#Third Bough: The Ego/Self|the Lower Astral]]—confronting and releasing the False Self before crossing [[The Eight Boughs of Ascent#Fourth Bough: The Flesh|the Abyss]].
 
 **Result:** She emerged **Single** (ihidaya)—whole, undivided, internally integrated. This qualified her for what came next.
 
@@ -98,7 +98,7 @@ While the male disciples fled, **Mary Magdalene stood at the cross**:
 
 Jesus' crucifixion is the ultimate **kenosis** (self-emptying)—the total surrender of egoic will, physical form, and attachment to life. Mary's presence is the **feminine mirroring** of this kenosis—she empties herself of the need for control, safety, or understanding. She simply **is there**.
 
-**Parallel:** This is the practice required at [[The Six Stages of Ascent#Stage IV: The Pivot (The Abyss)|The Abyss]]—the capacity to witness the death of everything you thought was real without fleeing into distraction or denial.
+**Parallel:** This is the practice required at [[The Eight Boughs of Ascent#Fourth Bough: The Flesh|The Abyss]]—the capacity to witness the death of everything you thought was real without fleeing into distraction or denial.
 
 ### The Burial: Anointing and Vigil (Mark 15:47, John 19:39-42)
 
@@ -141,7 +141,7 @@ Mary is commissioned to **announce the Good News** to the apostles—thus earnin
 2. **Non-clinging** - "Do not hold on to me" is the teaching of kenosis—even the Risen Christ must be released
 3. **Proclamation** - True gnosis is not hoarded but **shared**—Mary runs to tell the others
 
-**Parallel:** This is [[The Six Stages of Ascent#Stage VI: Zenith (Sanctification)|the Zenith]]—the resurrection into the Primal State, followed by the return to ordinary life to serve.
+**Parallel:** This is [[The Eight Boughs of Ascent#Eighth Bough: The Apex|the Zenith]]—the resurrection into the Primal State, followed by the return to ordinary life to serve.
 
 ---
 
@@ -177,7 +177,7 @@ Levi (Matthew) defends her:
 
 Mary recounts a vision Jesus gave her about the **soul's ascent through the seven powers** (the False Self system). The soul must **strip away** the garments (egoic identifications) to pass through each realm.
 
-**The Teaching:** This is the map of [[The Six Stages of Ascent#Stage III: Lower Astral (Transformation)|the Lower Astral]]—confronting and releasing the seven demons (powers of wrath) before crossing the Abyss.
+**The Teaching:** This is the map of [[The Eight Boughs of Ascent#Third Bough: The Ego/Self|the Lower Astral]]—confronting and releasing the seven demons (powers of wrath) before crossing the Abyss.
 
 ### The Gospel of Philip (3rd Century, Nag Hammadi)
 
@@ -353,7 +353,7 @@ Mary is the **model of the path**:
 
 ### Core Magdalene Path Entries
 - [[The Magdalene Path Overview]] - Complete introduction to the path
-- [[The Six Stages of Ascent]] - Mary's journey through the stages
+- [[The Eight Boughs of Ascent]] - Mary's journey through the stages
 - [[The Bridal Chamber and Sacred Union]] - Mary as model of sacred partnership
 - [[Kenosis - The Path of Self-Emptying]] - Witnessing the crucifixion without fleeing
 - [[Anointing and Substituted Love]] - Mary's central practice

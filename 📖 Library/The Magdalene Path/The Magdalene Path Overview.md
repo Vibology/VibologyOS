@@ -143,76 +143,59 @@ The horizontal systems **describe** what you're experiencing. The Magdalene Path
 
 ---
 
-## The Six Stages of Ascent
+## The Eight Boughs of Ascent
 
-The Magdalene Path maps the soul's ascent through **six stages**, corresponding to the **30 Enochian Aethyrs** (heavens) and the **six subtle bodies** taught in esoteric traditions. Each stage has:
-- **Aethyr Range** (Enochian cosmology)
-- **Corresponding Tarot Key**
-- **Transformation** (which body/layer is being refined)
-- **Challenge** (what must be confronted or released)
-- **Practice** (the specific work of that stage)
+The Magdalene Path presents the soul's ascent as **climbing the Great Tree**, a vision taught by [[Mary Magdalene - Apostle and Beloved|Mary Magdalene]] in **The Gospel of the Beloved Companion**. The tree has **eight great boughs**, each bearing specific "fruit" (virtue) that must be eaten in fullness. Between each bough stands a **guardian** (shadow/power) who challenges the soul.
 
-### Stage I: Base (Material Density)
+**The Structure:**
+- **The Fruit** - Virtue to be integrated
+- **The Shadow** - What blocks ascent
+- **The Guardian** - The power confronted at the gate
+- **The Practice** - Apophatic denial: *"I deny you. You have no part in me."*
 
-**Aethyrs:** 28-30 (TEX, RII, BAG)
-**Tarot:** The Devil (XV)
-**Transformation:** Mastering the Physical Body
-**Challenge:** Confronting the "Tyrant-Monster" or "Holdfast" archetypes—survival fears, material attachment, victimhood
-**Practice:** Grounding in the body, recognizing the bondage of materialism
+### The Eight Boughs (Summary):
 
-**The Teaching:** You cannot transcend what you have not embodied. The Base stage requires **full incarnation**—accepting the physical world as the starting point, not an obstacle.
+**First Bough: The Foundation**
+- Fruit: Love and Compassion
+- Shadow: Judgment and Wrath
+- Guardian: The Lord of Wrath
 
-### Stage II: The Gate (Guidance)
+**Second Bough: The Mind**
+- Fruit: Wisdom and Understanding
+- Shadow: Ignorance and Intolerance
+- Guardian: The Voice of Ignorance
 
-**Aethyrs:** 25-27 (UTI, ZAA)
-**Tarot:** The Star (XVII)
-**Transformation:** Awakening the Astral Body
-**Challenge:** Seeking guidance beyond the egoic self—learning to listen, to wait, to trust
-**Practice:** Silence, receptivity, prayer, asking for direction
+**Third Bough: The Ego/Self**
+- Fruit: Honor and Humility
+- Shadow: Duplicity and Arrogance
+- Guardian: Arrogance (who shouts "You are not worthy!")
 
-**The Teaching:** The Gate marks the threshold where you recognize you cannot navigate alone. You must **receive** guidance—from teachers, from the Divine, from the deep self.
+**Fourth Bough: The Flesh** (The Abyss)
+- Fruit: Strength and Courage
+- Shadow: Weakness of the flesh and the illusion of Fear
+- Guardian: The Master of the World (The Deceiver)
+- **The Crossing:** Passing through the "hardness of flesh"—the soul knows itself as "child of the living Spirit"
 
-### Stage III: Lower Astral (Transformation)
+**Fifth Bough: The Awakening**
+- Fruit: Clarity and Truth
+- Transformation: The soul knows itself for the first time; the voice of the world becomes **Silence**
 
-**Aethyrs:** 11-24 (ICH to LIN)
-**Tarot:** Death (XIII)
-**Transformation:** Refining the Mental and Causal Bodies
-**Challenge:** Confronting the **Seven Demons** or **Seven Powers of Wrath**—the False Self system (craving, ignorance, wrath, fear, desire, foolishness, wisdom perverted). This is the **purgative stage** or the **Dark Night of the Soul**.
-**Practice:** Stripping away the "garments" of egoic identity, facing shadow, purification through fire
+**Sixth Bough: Healing**
+- Fruit: Power and Healing
+- Function: Healing your own soul, making it ready for the final ascent
 
-**The Teaching:** Death to the false self is required before resurrection. This is the longest and most demanding stage—the soul must be **emptied** of all that is not essential.
+**Seventh Bough: Illumination**
+- Fruit: Light and Goodness
+- Transformation: The soul turns to **fire** and flies upward in flames
 
-### Stage IV: The Pivot (The Abyss)
+**Eighth Bough: The Apex**
+- Fruit: Grace and Beauty of the Spirit
+- Vision: The soul is embraced by the Spirit (Wisdom/Sophia) and realizes: **"I AM"**
+- The Endpoint: *"Now you have become the completion of completions"*—silent restfulness in the Eternity of time
 
-**Aethyr:** 10 (ZAX)
-**Tarot:** Temperance (XIV)
-**Transformation:** Entering the Buddhic Body (Universal Love)
-**Challenge:** Crossing **Choronzon**—the guardian of the Abyss, the force of dispersion and chaos. This is the **ultimate ego death**, the dissolution of the separate self.
-**Practice:** The leap of faith, total surrender, the dark night deepens to annihilation
+**The Seven Powers of Wrath** (from The Gospel of Mary): The guardians are not external demons but the **False Self System**—craving, ignorance, wrath, craving for death, enslavement to the flesh, foolish wisdom, and wrathful wisdom. These must be denied through **apophasis** (negation) at each bough.
 
-**The Teaching:** The Abyss cannot be "crossed" through effort or strategy. It requires **falling**—letting go so completely that the ego structure dissolves. Only then can you be reconstituted on the other side.
-
-### Stage V: Higher Astral (Idealism)
-
-**Aethyrs:** 4-9 (ZIP to PAZ)
-**Tarot:** Wheel of Fortune (X)
-**Transformation:** Stabilizing the Atmic Body (Christ Consciousness)
-**Challenge:** Operating with **singleness** (inner wholeness) and **bounteousness** (abundance, generosity). No longer driven by lack or fear.
-**Practice:** Seeing with the "eye of the heart" (nous), resting in clarity, serving from overflow
-
-**The Teaching:** After crossing the Abyss, the soul is **reborn**—operating from a fundamentally different center. The Higher Astral is the realm of vision, clarity, and creative power.
-
-### Stage VI: Zenith (Sanctification)
-
-**Aethyrs:** 1-3 (ZOM, ARN, LIL)
-**Tarot:** The Universe (XXI)
-**Transformation:** Realizing the Monadic Body (Divine Will)
-**Challenge:** None—this is the **Primal State** of unity with the Divine. The soul is "clothed in light," fully sanctified.
-**Practice:** Resting in union, preparing for the Bridal Chamber, offering oneself in Cosmic Service
-
-**The Teaching:** The Zenith is not an escape from the world but a **return to the world** as a Completed Being. The soul, now whole and radiant, re-enters ordinary life as an **instrument of the Divine**.
-
-**See:** [[The Six Stages of Ascent]] for complete treatment.
+**See:** [[The Eight Boughs of Ascent]] for complete treatment.
 
 ---
 
@@ -372,7 +355,7 @@ For those with **undefined Head and Ajna centers** (particularly [[Reflector|Ref
 
 ### Core Magdalene Path Entries
 - [[Mary Magdalene - Apostle and Beloved]] - The archetype and historical figure
-- [[The Six Stages of Ascent]] - Complete mapping of Base to Zenith with Aethyrs and Tarot
+- [[The Eight Boughs of Ascent]] - Mary's teaching of the Great Tree and soul ascent
 - [[The Bridal Chamber and Sacred Union]] - Sacred partnership and the Wedding Garment
 - [[Kenosis - The Path of Self-Emptying]] - Letting go practice and abundance
 - [[Anointing and Substituted Love]] - The central sacrament and holding the post

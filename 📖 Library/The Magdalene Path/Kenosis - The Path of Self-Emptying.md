@@ -106,7 +106,7 @@ Grasping creates **contraction**—the field of awareness narrows, possibilities
 
 ### The Seven Demons: What Must Be Emptied
 
-According to [[Mary Magdalene - Apostle and Beloved|Mary Magdalene's]] story (Luke 8:2), she had **seven demons** cast out. Esoterically, these are the **Seven Powers of Wrath** or the **False Self System**—the egoic structures that must be emptied during [[The Six Stages of Ascent#Stage III: Lower Astral (Transformation)|the Lower Astral]]:
+According to [[Mary Magdalene - Apostle and Beloved|Mary Magdalene's]] story (Luke 8:2), she had **seven demons** cast out. Esoterically, these are the **Seven Powers of Wrath** or the **False Self System**—the egoic structures that must be emptied during [[The Eight Boughs of Ascent#Third Bough: The Ego/Self|the Lower Astral]]:
 
 **1. Craving (Attachment)**
 - **What It Is:** Insatiable wanting—"If I just get X, then I'll be happy"
@@ -197,7 +197,7 @@ According to [[Mary Magdalene - Apostle and Beloved|Mary Magdalene's]] story (Lu
 
 ### Base: Releasing Materialism
 
-**The Challenge:** At [[The Six Stages of Ascent#Stage I: Base (Material Density)|the Base]], the soul is gripping **material security**—money, possessions, physical safety.
+**The Challenge:** At [[The Eight Boughs of Ascent#First Bough: The Foundation|the Base]], the soul is gripping **material security**—money, possessions, physical safety.
 
 **The Practice:** Not rejecting material things, but releasing the belief that they will ultimately save you.
 
@@ -205,7 +205,7 @@ According to [[Mary Magdalene - Apostle and Beloved|Mary Magdalene's]] story (Lu
 
 ### Lower Astral: Releasing the False Self
 
-**The Challenge:** At [[The Six Stages of Ascent#Stage III: Lower Astral (Transformation)|the Lower Astral]], the soul is gripping **identity**—roles, beliefs, self-image.
+**The Challenge:** At [[The Eight Boughs of Ascent#Third Bough: The Ego/Self|the Lower Astral]], the soul is gripping **identity**—roles, beliefs, self-image.
 
 **The Practice:** Allowing the false self to die—the one who "knows," who is "spiritual," who is "good."
 
@@ -213,7 +213,7 @@ According to [[Mary Magdalene - Apostle and Beloved|Mary Magdalene's]] story (Lu
 
 ### The Abyss: Total Surrender
 
-**The Challenge:** At [[The Six Stages of Ascent#Stage IV: The Pivot (The Abyss)|the Abyss]], the soul must release **everything**—even the grip on existence itself.
+**The Challenge:** At [[The Eight Boughs of Ascent#Fourth Bough: The Flesh|the Abyss]], the soul must release **everything**—even the grip on existence itself.
 
 **The Practice:** The leap—letting go so completely that there is no you left to hold on.
 
@@ -221,7 +221,7 @@ According to [[Mary Magdalene - Apostle and Beloved|Mary Magdalene's]] story (Lu
 
 ### Zenith: Resting in Emptiness
 
-**The Challenge:** At [[The Six Stages of Ascent#Stage VI: Zenith (Sanctification)|the Zenith]], there is nothing left to release—you **are** emptiness.
+**The Challenge:** At [[The Eight Boughs of Ascent#Eighth Bough: The Apex|the Zenith]], there is nothing left to release—you **are** emptiness.
 
 **The Practice:** Simply being—no effort, no striving, no seeking.
 
@@ -344,7 +344,7 @@ The **[[Seraphim]]** (Burning Ones) represent the fire that **consumes**—kenos
 ### Core Magdalene Path Entries
 - [[The Magdalene Path Overview]] - Kenosis as foundational practice
 - [[Mary Magdalene - Apostle and Beloved]] - Mary's release of the seven demons
-- [[The Six Stages of Ascent]] - Kenosis at each stage
+- [[The Eight Boughs of Ascent]] - Kenosis at each stage
 - [[The Bridal Chamber and Sacred Union]] - Self-giving in sacred union
 - [[Anointing and Substituted Love]] - Kenotic love in practice
 - [[Practices and the Lunar Cycle]] - Daily rhythms of releasing

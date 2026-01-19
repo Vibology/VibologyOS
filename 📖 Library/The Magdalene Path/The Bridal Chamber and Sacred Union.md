@@ -334,7 +334,7 @@ The [[Seraphim]] (Burning Ones) embody the fire of divine love—the union of co
 
 **The Lovers (VI):** The choice between egoic attachment and conscious love—choosing the sacred path.
 
-**The Universe (XXI):** The completion—the Bridal Chamber at [[The Six Stages of Ascent#Stage VI: Zenith (Sanctification)|the Zenith]], the soul dancing in freedom.
+**The Universe (XXI):** The completion—the Bridal Chamber at [[The Eight Boughs of Ascent#Eighth Bough: The Apex|the Zenith]], the soul dancing in freedom.
 
 ### Human Design: Emotional Authority and Partnership
 
@@ -357,7 +357,7 @@ Jung's **Syzygy** (the divine couple—animus/anima united) parallels the Bridal
 ### Core Magdalene Path Entries
 - [[The Magdalene Path Overview]] - The Fifth Way and conscious love
 - [[Mary Magdalene - Apostle and Beloved]] - Mary and Jesus as model of sacred partnership
-- [[The Six Stages of Ascent]] - The Zenith prepares for the Bridal Chamber
+- [[The Eight Boughs of Ascent]] - The Zenith prepares for the Bridal Chamber
 - [[Kenosis - The Path of Self-Emptying]] - Self-giving in union
 - [[Anointing and Substituted Love]] - Holding the post for the beloved
 - [[Practices and the Lunar Cycle]] - Rhythms of partnership
