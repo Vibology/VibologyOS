@@ -7,15 +7,11 @@ defined_percentage: ~72%
 undefined_percentage: ~28%
 date_created: 2026-01-08
 ---
-
-# Throat Center: The Town Square
-
 ## Biological Correlation
 
 The **Throat Center** corresponds to the **thyroid and parathyroid glands**, which regulate metabolism, energy, and communication at the cellular level. The thyroid governs how the body *speaks* its needs through biochemical signaling.
 
 ---
-
 ## Definition
 
 The Throat Center is the **manifestation center**—the place where all energy in the BodyGraph moves to be **expressed, communicated, and brought into form**.
@@ -24,7 +20,6 @@ The Throat Center is the **manifestation center**—the place where all energy i
 - **~28% of people** have an undefined Throat (inconsistent voice and manifestation)
 
 ---
-
 ## Themes & Functions
 
 The Throat Center governs:
@@ -36,7 +31,6 @@ The Throat Center governs:
 The Throat is called **"The Town Square"**—all energy from the other eight centers moves through the Throat to be expressed in the world.
 
 ---
-
 ## Defined Throat: Consistent Voice
 
 ### Mechanics
@@ -59,7 +53,6 @@ When the Throat is defined:
 - **Overuse** — Talking or manifesting excessively can lead to burnout (especially without motor connection)
 
 ---
-
 ## Undefined Throat: Borrowed Voices
 
 ### Mechanics
@@ -82,7 +75,6 @@ When the Throat is undefined:
 - **Inconsistent manifestation** — Difficulty bringing energy into form without external influence
 
 ---
-
 ## Not-Self Theme: Attracting Attention
 
 The **Not-Self** expression of the undefined Throat is:
@@ -93,14 +85,13 @@ The **Not-Self** expression of the undefined Throat is:
 The undefined Throat must learn to **speak only when there is something to say**, not to prove they exist.
 
 ---
-
 ## The Throat and Manifestation
 
 Manifestation requires **motor energy** connected to the Throat. The four motors are:
-1. **[[Sacral]]** — Sustainable life force (Generator manifestation)
-2. **[[Solar Plexus]]** — Emotional wave energy
-3. **[[Heart]]** — Willpower and ego strength
-4. **[[Root]]** — Adrenaline and pressure
+- **[[Sacral]]** — Sustainable life force (Generator manifestation)
+- **[[Solar Plexus]]** — Emotional wave energy
+- **[[Heart]]** — Willpower and ego strength
+- **[[Root]]** — Adrenaline and pressure
 
 ### Motor-Connected Throat
 
@@ -117,7 +108,6 @@ When the Throat has no motor connection:
 - They must wait for external energy (invitation, lunar cycle) to manifest
 
 ---
-
 ## Relationship to Type & Authority
 
 The Throat Center determines **how** energy is expressed, but not **what** is correct to express. That is the role of [[Authority]].
@@ -128,13 +118,11 @@ The Throat Center determines **how** energy is expressed, but not **what** is co
 - **Reflectors:** No definition; sample environment through lunar cycle (Strategy: Wait 28 Days)
 
 ---
-
 ## The Eleven Gates of the Throat
 
 The Throat has **eleven gates**, more than any other center. Each gate represents a unique way of communicating or manifesting.
 
 ---
-
 ## Cross-References
 
 - **Motor Centers:** See [[Sacral]], [[Solar Plexus]], [[Heart]], [[Root]] for the sources of manifestation energy
@@ -143,7 +131,6 @@ The Throat has **eleven gates**, more than any other center. Each gate represent
 - **Tarot:** [[The Magician]] (manifestation), [[The Hierophant]] (speaking truth)
 
 ---
-
 ## Practical Guidance
 
 ### For Those with a Defined Throat

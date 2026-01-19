@@ -7,9 +7,6 @@ defined_percentage: 37%
 undefined_percentage: 63%
 date_created: 2026-01-08
 ---
-
-# Heart Center: The Will to Commit
-
 ## Biological Correlation
 
 The **Heart Center** (also called the Ego or Will Center) corresponds to:
@@ -21,7 +18,6 @@ The **Heart Center** (also called the Ego or Will Center) corresponds to:
 These organs govern **material survival, willpower, and the body's capacity to commit**.
 
 ---
-
 ## Definition
 
 The Heart Center is a **motor center** (one of four) that governs:
@@ -34,7 +30,6 @@ The Heart Center is a **motor center** (one of four) that governs:
 - **63% of people** have an undefined Heart (inconsistent will and struggles with worthiness)
 
 ---
-
 ## Themes & Functions
 
 The Heart Center governs:
@@ -46,7 +41,6 @@ The Heart Center governs:
 The Heart is the **engine of commitment**—the motor that drives promises, agreements, and the will to succeed.
 
 ---
-
 ## Defined Heart: Consistent Willpower
 
 ### Mechanics
@@ -70,7 +64,6 @@ When the Heart is defined:
 - **Burnout** — The Heart motor is powerful but not endless (not like the [[Sacral]])
 
 ---
-
 ## Undefined Heart: Inconsistent Will
 
 ### Mechanics
@@ -93,7 +86,6 @@ When the Heart is undefined:
 - **Not-Self conditioning** — "I need to prove I am valuable" or "I need to be better"
 
 ---
-
 ## Not-Self Theme: Proving or Improving
 
 The **Not-Self** expression of the undefined Heart is:
@@ -104,14 +96,13 @@ The **Not-Self** expression of the undefined Heart is:
 The undefined Heart must learn that **worth is not earned through proof**—it is intrinsic, even when the ego cannot feel it consistently.
 
 ---
-
 ## The Heart as a Motor
 
 The Heart is one of four motors in the BodyGraph:
-1. **[[Sacral]]** — Sustainable life force (Generator)
-2. **[[Solar Plexus]]** — Emotional wave energy
-3. **Heart (Ego/Will)** — Commitment and willpower
-4. **[[Root]]** — Adrenaline and pressure
+- **[[Sacral]]** — Sustainable life force (Generator)
+- **[[Solar Plexus]]** — Emotional wave energy
+- **Heart (Ego/Will)** — Commitment and willpower
+- **[[Root]]** — Adrenaline and pressure
 
 The Heart motor is **not sustainable** like the Sacral. It requires:
 - **Deep rest** between commitments
@@ -119,7 +110,6 @@ The Heart motor is **not sustainable** like the Sacral. It requires:
 - **Honoring limits** (the will can exhaust)
 
 ---
-
 ## Relationship to Type & Authority
 
 The Heart Center is the source of **[[Ego Authority]]** (for [[Manifestor]]s and [[Projector]]s):
@@ -131,7 +121,6 @@ For all Types, the Heart:
 - **Does not guarantee worth**—worth is intrinsic, not determined by definition
 
 ---
-
 ## Cross-References
 
 - **Ego Authority:** See [[Ego Authority]] for decision-making through willpower
@@ -140,7 +129,6 @@ For all Types, the Heart:
 - **Tarot:** [[The Emperor]] (willful sovereignty), [[Strength]] (taming the ego)
 
 ---
-
 ## Practical Guidance
 
 ### For Those with a Defined Heart

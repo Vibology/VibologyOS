@@ -7,15 +7,11 @@ defined_percentage: ~60%
 undefined_percentage: ~40%
 date_created: 2026-01-08
 ---
-
-# G Center: The Seat of the Self
-
 ## Biological Correlation
 
 The **G Center** corresponds to the **liver and blood**, the organs responsible for detoxification, life-sustaining circulation, and maintaining the body's chemical identity. The liver processes and integrates; the blood carries identity throughout the system.
 
 ---
-
 ## Definition
 
 The G Center is the **identity center**—the seat of:
@@ -27,7 +23,6 @@ The G Center is the **identity center**—the seat of:
 - **~40% of people** have an undefined G Center (fluid identity and adaptable direction)
 
 ---
-
 ## Themes & Functions
 
 The G Center governs:
@@ -39,7 +34,6 @@ The G Center governs:
 The G Center is the **home of the Self**—not the ego (which resides in the [[Heart]]), but the deeper, archetypal identity.
 
 ---
-
 ## Defined G Center: Fixed Identity
 
 ### Mechanics
@@ -62,7 +56,6 @@ When the G Center is defined:
 - **Pressure to explain** — The defined G may struggle to articulate *why* they know who they are
 
 ---
-
 ## Undefined G Center: Fluid Identity
 
 ### Mechanics
@@ -85,7 +78,6 @@ When the G Center is undefined:
 - **Not-Self conditioning** — Trying to "find themselves" when they are designed to be fluid
 
 ---
-
 ## Not-Self Theme: Chasing Direction and Love
 
 The **Not-Self** expression of the undefined G Center is:
@@ -96,7 +88,6 @@ The **Not-Self** expression of the undefined G Center is:
 The undefined G must learn that **fluidity is not deficiency**—they are designed to sample many identities, not fixate on one.
 
 ---
-
 ## The Magnetic Monopole
 
 The G Center is the **home of the Magnetic Monopole**, a geometric force that:
@@ -107,7 +98,6 @@ The G Center is the **home of the Magnetic Monopole**, a geometric force that:
 The Magnetic Monopole is the invisible hand guiding your movement through life. You cannot control it; you can only align with it through [[Strategy]] and [[Authority]].
 
 ---
-
 ## Relationship to Type & Authority
 
 The G Center is the source of **[[Self-Projected Authority]]** (exclusive to [[Projector]]s):
@@ -119,7 +109,6 @@ For all other Types, the G Center:
 - **Provides a sense of self and direction** that informs but does not dictate
 
 ---
-
 ## Cross-References
 
 - **Self-Projected Authority:** See [[Self-Projected Authority]] for Projectors with G-to-Throat connection
@@ -128,7 +117,6 @@ For all other Types, the G Center:
 - **Tarot:** [[The Lovers]] (identity through relationship), [[The World]] (completion of self)
 
 ---
-
 ## Practical Guidance
 
 ### For Those with a Defined G Center

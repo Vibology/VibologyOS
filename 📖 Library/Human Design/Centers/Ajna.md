@@ -7,15 +7,11 @@ defined_percentage: ~47%
 undefined_percentage: ~53%
 date_created: 2026-01-08
 ---
-
-# Ajna Center: The Mind's Eye
-
 ## Biological Correlation
 
 The **Ajna Center** corresponds to the **anterior and posterior pituitary glands**, the "master glands" that regulate hormonal balance and biological rhythms. The pituitary is the physical seat of mental processing and conceptualization.
 
 ---
-
 ## Definition
 
 The Ajna Center is an **awareness center**—it processes mental pressure from the [[Head]] and conceptualizes ideas, theories, and opinions.
@@ -24,7 +20,6 @@ The Ajna Center is an **awareness center**—it processes mental pressure from t
 - **~53% of people** have an undefined Ajna (flexible mental processing)
 
 ---
-
 ## Themes & Functions
 
 The Ajna Center governs:
@@ -36,7 +31,6 @@ The Ajna Center governs:
 The Ajna is the **mind's processing center**, where inspiration becomes thought.
 
 ---
-
 ## Defined Ajna: Fixed Conceptualization
 
 ### Mechanics
@@ -59,7 +53,6 @@ When the Ajna is defined:
 - **Difficulty changing perspectives** — The defined Ajna resists new conceptual frameworks
 
 ---
-
 ## Undefined Ajna: Flexible Conceptualization
 
 ### Mechanics
@@ -82,7 +75,6 @@ When the Ajna is undefined:
 - **Not-Self conditioning** — Pretending to be certain to avoid appearing "stupid" or wrong
 
 ---
-
 ## Not-Self Theme: Pretending to Be Mentally Certain
 
 The **Not-Self** expression of the undefined Ajna is:
@@ -93,7 +85,6 @@ The **Not-Self** expression of the undefined Ajna is:
 The undefined Ajna must learn to **honor uncertainty** as wisdom, not weakness.
 
 ---
-
 ## The Ajna is NOT an Authority
 
 **Critical distinction:** The Ajna is an **awareness center**, not an **authority**.
@@ -113,7 +104,6 @@ Trusting the Ajna to make decisions is the root of mental suffering. The mind is
 It is **not** designed to decide what is correct for your life. That is the role of [[Authority]].
 
 ---
-
 ## Relationship to Type & Authority
 
 The Ajna:
@@ -124,7 +114,6 @@ The Ajna:
 All Types must learn to **trust their Authority**, not their Ajna, for decision-making.
 
 ---
-
 ## Cross-References
 
 - **Head Center:** See [[Head]] for the source of mental pressure
@@ -134,7 +123,6 @@ All Types must learn to **trust their Authority**, not their Ajna, for decision-
 - **Tarot:** [[The High Priestess]] (mental awareness), [[The Magician]] (conceptualization)
 
 ---
-
 ## Practical Guidance
 
 ### For Those with a Defined Ajna

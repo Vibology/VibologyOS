@@ -7,15 +7,11 @@ defined_percentage: 30%
 undefined_percentage: 70%
 date_created: 2026-01-08
 ---
-
-# Head Center: The Pressure to Think
-
 ## Biological Correlation
 
 The **Head Center** corresponds to the **pineal gland**, the ancient "third eye" of esoteric tradition. This gland regulates circadian rhythms and melatonin production, linking the Head to cycles of inspiration and mental pressure.
 
 ---
-
 ## Definition
 
 The Head Center is a **pressure center**—it does not process or decide, but generates **mental pressure** that drives the search for understanding.
@@ -24,7 +20,6 @@ The Head Center is a **pressure center**—it does not process or decide, but ge
 - **70% of people** have an undefined Head (receptive to external mental pressure)
 
 ---
-
 ## Themes & Functions
 
 The Head Center governs:
@@ -37,7 +32,6 @@ The Head asks: *Why? What does this mean? What is the answer?*
 It does not *answer* these questions—it generates the **pressure to seek answers**, which flows to the [[Ajna]] for conceptualization.
 
 ---
-
 ## Defined Head: Fixed Mental Pressure
 
 ### Mechanics
@@ -60,7 +54,6 @@ When the Head is defined:
 - **Isolation** — Others may not share their consistent mental preoccupations
 
 ---
-
 ## Undefined Head: Receptive to Mental Pressure
 
 ### Mechanics
@@ -83,7 +76,6 @@ When the Head is undefined:
 - **Not-Self conditioning** — "I need to answer this question" (when it is not their question to answer)
 
 ---
-
 ## Not-Self Theme: Thinking About Things That Don't Matter
 
 The **Not-Self** expression of the undefined Head is:
@@ -94,7 +86,6 @@ The **Not-Self** expression of the undefined Head is:
 The undefined Head must learn to **discern which questions are theirs** and release mental pressure that does not serve them.
 
 ---
-
 ## Relationship to Type & Authority
 
 The Head Center is a **pressure source**, not a motor. It:
@@ -105,7 +96,6 @@ The Head Center is a **pressure source**, not a motor. It:
 The Head is the **beginning of the mental process**, but not the end. It inspires thought, which the Ajna conceptualizes, and the [[Throat]] articulates.
 
 ---
-
 ## The Three Gates of the Head
 
 The Head has three gates, each with a distinct flavor of mental pressure:
@@ -115,7 +105,6 @@ The Head has three gates, each with a distinct flavor of mental pressure:
 3. **Gate 63** — Pressure to question and doubt (logic seeking proof)
 
 ---
-
 ## Cross-References
 
 - **Ajna Center:** See [[Ajna]] for where Head pressure is conceptualized
@@ -124,7 +113,6 @@ The Head has three gates, each with a distinct flavor of mental pressure:
 - **Tarot:** [[The Hermit]] (seeking understanding in solitude), [[The Star]] (inspiration from above)
 
 ---
-
 ## Practical Guidance
 
 ### For Those with a Defined Head

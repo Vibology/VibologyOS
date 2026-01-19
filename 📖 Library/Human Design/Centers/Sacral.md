@@ -7,15 +7,11 @@ defined_percentage: 70%
 undefined_percentage: 30%
 date_created: 2026-01-08
 ---
-
-# Sacral Center: The Life Force
-
 ## Biological Correlation
 
 The **Sacral Center** corresponds to the **ovaries and testes**, the organs of reproduction and generative power. This is the biological seat of **sustainable life force energy**, the capacity to create, sustain, and build.
 
 ---
-
 ## Definition
 
 The Sacral Center is the **only sustainable motor** in the BodyGraph. It governs:
@@ -28,7 +24,6 @@ The Sacral Center is the **only sustainable motor** in the BodyGraph. It governs
 - **30% of people** have an undefined Sacral ([[Manifestor]]s, [[Projector]]s, [[Reflector]]s)
 
 ---
-
 ## Themes & Functions
 
 The Sacral Center governs:
@@ -40,7 +35,6 @@ The Sacral Center governs:
 The Sacral is the **heartbeat of humanity**—the sustainable motor that powers civilization.
 
 ---
-
 ## Defined Sacral: Generators and Life Force
 
 ### Mechanics
@@ -65,7 +59,6 @@ When the Sacral is defined:
 - **Over-commitment** — Saying "yes" to everything because the energy is available
 
 ---
-
 ## Undefined Sacral: Non-Energy Types
 
 ### Mechanics
@@ -89,7 +82,6 @@ When the Sacral is undefined:
 - **Not-Self conditioning** — "I should be able to work as much as they do"
 
 ---
-
 ## Not-Self Theme: Not Knowing When Enough is Enough
 
 The **Not-Self** expression of the undefined Sacral is:
@@ -100,19 +92,15 @@ The **Not-Self** expression of the undefined Sacral is:
 The undefined Sacral must learn to **rest before exhaustion**, not after collapse.
 
 ---
-
 ## The Sacral as the Only Sustainable Motor
 
-The Sacral is unique among the four motors:
-1. **Sacral** — Sustainable, renewable life force
-2. **[[Solar Plexus]]** — Emotional wave energy (not sustainable)
-3. **[[Heart]]** — Willpower and commitment (not sustainable)
-4. **[[Root]]** — Adrenaline and pressure (not sustainable)
-
-Only the Sacral regenerates daily through sleep. All other motors require deep rest and selective engagement.
+The Sacral is one of four motors:
+- **Sacral** — Sustainable life force
+- **[[Solar Plexus]]** — Emotional wave energy
+- **[[Heart]]** — Willpower and commitment
+- **[[Root]]** — Adrenaline and pressure
 
 ---
-
 ## Relationship to Type & Authority
 
 The Sacral is the **defining feature** of [[Generator]]s:
@@ -123,7 +111,6 @@ The Sacral is also the source of **[[Sacral Authority]]** (for Generators withou
 - Decision-making through immediate gut response ("uh-huh" / "uhn-un")
 
 ---
-
 ## Cross-References
 
 - **Generator Type:** See [[Generator]] for the mechanics of Sacral life force
@@ -133,7 +120,6 @@ The Sacral is also the source of **[[Sacral Authority]]** (for Generators withou
 - **Tarot:** [[The Empress]] (fertile abundance), [[Strength]] (sustained engagement)
 
 ---
-
 ## Practical Guidance
 
 ### For Those with a Defined Sacral (Generators)

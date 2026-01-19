@@ -7,9 +7,6 @@ defined_percentage: ~60%
 undefined_percentage: ~40%
 date_created: 2026-01-08
 ---
-
-# Root Center: The Pressure to Move
-
 ## Biological Correlation
 
 The **Root Center** corresponds to the **adrenal system** and **stress hormones** (cortisol, adrenaline). This is the biological source of:
@@ -20,7 +17,6 @@ The **Root Center** corresponds to the **adrenal system** and **stress hormones*
 The Root is the body's **pressure valve**, creating urgency and propulsion.
 
 ---
-
 ## Definition
 
 The Root is both a **pressure center** and a **motor center**. It governs:
@@ -32,7 +28,6 @@ The Root is both a **pressure center** and a **motor center**. It governs:
 - **~40% of people** have an undefined Root (amplified stress and urgency)
 
 ---
-
 ## Themes & Functions
 
 The Root Center governs:
@@ -44,7 +39,6 @@ The Root Center governs:
 The Root is the **engine of urgency**—the pressure that propels humanity forward.
 
 ---
-
 ## Defined Root: Fixed Pressure
 
 ### Mechanics
@@ -67,7 +61,6 @@ When the Root is defined:
 - **Burnout** — Adrenaline is not sustainable long-term
 
 ---
-
 ## Undefined Root: Amplified Urgency
 
 ### Mechanics
@@ -90,7 +83,6 @@ When the Root is undefined:
 - **Not-Self conditioning** — "Always in a hurry to be free of pressure"
 
 ---
-
 ## Not-Self Theme: Always in a Hurry
 
 The **Not-Self** expression of the undefined Root is:
@@ -101,19 +93,17 @@ The **Not-Self** expression of the undefined Root is:
 The undefined Root must learn that **pressure is not theirs** and that rushing does not create freedom.
 
 ---
-
 ## The Root as Motor
 
 The Root is one of four motors:
-1. **[[Sacral]]** — Sustainable life force
-2. **[[Solar Plexus]]** — Emotional wave energy
-3. **[[Heart]]** — Willpower and commitment
-4. **Root** — Adrenaline and pressure
+- **[[Sacral]]** — Sustainable life force
+- **[[Solar Plexus]]** — Emotional wave energy
+- **[[Heart]]** — Willpower and commitment
+- **Root** — Adrenaline and pressure
 
 The Root motor is **not sustainable**—it is adrenaline-based, designed for bursts, not marathons.
 
 ---
-
 ## The Nine Gates of the Root
 
 The Root has **nine gates**, each representing a unique evolutionary pressure:
@@ -131,7 +121,6 @@ The Root has **nine gates**, each representing a unique evolutionary pressure:
 Each gate creates a distinct flavor of urgency and momentum.
 
 ---
-
 ## Relationship to Type & Authority
 
 The Root:
@@ -140,7 +129,6 @@ The Root:
 - **Fuels nine different life processes** — Each gate's pressure drives a unique evolutionary theme
 
 ---
-
 ## Cross-References
 
 - **Motor Centers:** See [[Sacral]], [[Solar Plexus]], [[Heart]] for the other motors
@@ -149,7 +137,6 @@ The Root:
 - **Tarot:** [[The Devil]] (bondage to urgency), [[The Tower]] (pressure that breaks structures)
 
 ---
-
 ## Practical Guidance
 
 ### For Those with a Defined Root
