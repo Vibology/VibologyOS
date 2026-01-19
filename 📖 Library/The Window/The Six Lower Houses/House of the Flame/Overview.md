@@ -7,7 +7,7 @@ element: Fire
 domain: Vital/Instinctual Action
 ---
 
-# House of Flame
+# House of the Flame
 
 *Fire Domain - The Raw Life Force*
 
@@ -15,7 +15,7 @@ domain: Vital/Instinctual Action
 
 ## House Symbolism & Meaning
 
-The House of Flame represents the **fire domain of vital instinct**—the realm where raw life force ignites, where action precedes thought, where survival and aliveness converge in the immediacy of movement. This is the domain of **courage, passion, risk, and primal engagement with existence**. Flame is not refinement but **combustion**—the spark that animates, the heat that drives, the wildness that refuses domestication.
+The House of the Flame represents the **fire domain of vital instinct**—the realm where raw life force ignites, where action precedes thought, where survival and aliveness converge in the immediacy of movement. This is the domain of **courage, passion, risk, and primal engagement with existence**. Flame is not refinement but **combustion**—the spark that animates, the heat that drives, the wildness that refuses domestication.
 
 Flame governs the spectrum from survival instinct to reckless abandon, from courage that faces danger to violence that destroys, from passion that enlivens to aggression that consumes. This House asks: **Can you honor your animal nature without being consumed by it?** Can you act from instinct without losing discernment? Can you burn brightly without burning out or burning others?
 
@@ -31,7 +31,7 @@ Flame corresponds to the classical element of **Fire**—transformative, consumi
 
 **Cosmic Principle:** Movement as Existence
 
-The House of Flame embodies the cosmic principle articulated by Heraclitus: **"All things are in flux; nothing stands still."** To be alive is to move, to act, to engage. Stasis is death; motion is being. Flame teaches that **existence requires risk**—the willingness to step into the unknown, to face danger, to let the fire consume what no longer serves.
+The House of the Flame embodies the cosmic principle articulated by Heraclitus: **"All things are in flux; nothing stands still."** To be alive is to move, to act, to engage. Stasis is death; motion is being. Flame teaches that **existence requires risk**—the willingness to step into the unknown, to face danger, to let the fire consume what no longer serves.
 
 **Seasonal Resonance:** Summer (Peak Vitality, Outward Expression)
 
@@ -128,7 +128,7 @@ Gate 5 (Fixed Rhythms) and Gate 61 (Inner Truth) reveal Flame's paradox: **actio
 
 ## Divinatory Meaning
 
-**When cards from the House of Flame appear:**
+**When cards from the House of the Flame appear:**
 
 You are being called to **act, move, engage**. This is not the time for emotional processing (Sea), intellectual narrative (Chronicle), or spiritual contemplation (Spirit). The moment demands **instinctual response, courageous action, vital engagement**. Trust your animal knowing. Step into the fire. Let passion guide you.
 

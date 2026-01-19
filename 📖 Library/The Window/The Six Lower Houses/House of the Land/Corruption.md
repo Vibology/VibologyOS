@@ -6,7 +6,7 @@ tier: House Card
 gate: 50
 hexagram: 50 (The Cauldron)
 gene_keys: Corruption → Equilibrium → Harmony
-house: House of Land
+house: House of the Land
 card_name: Corruption
 aspect: negative
 ---
@@ -35,7 +35,7 @@ The card draws from Gate 50's shadow frequency—the corruption of tribal values
 - **Keynote:** Values, tribal law, and responsibility for collective well-being
 - **Biology:** Immune system, instinctual values, protective response
 
-Within the House of Land, Gate 50's shadow becomes **instinctual knowing of corruption**—the Spleen's awareness that values have degraded, that what was meant to protect has become poisonous, that the vessel entrusted to one's care has been compromised. While the gate mechanically carries responsibility for tribal law and values, in shadow it manifests as **betrayal of that responsibility**: laws maintained in form but not spirit, values spoken but not embodied, custodianship abandoned.
+Within the House of the Land, Gate 50's shadow becomes **instinctual knowing of corruption**—the Spleen's awareness that values have degraded, that what was meant to protect has become poisonous, that the vessel entrusted to one's care has been compromised. While the gate mechanically carries responsibility for tribal law and values, in shadow it manifests as **betrayal of that responsibility**: laws maintained in form but not spirit, values spoken but not embodied, custodianship abandoned.
 
 Land requires **values as foundation**—principles that guide what is built, what is maintained, what is allowed to decay. Gate 50 in gift frequency upholds those values through dedicated custodianship. In shadow, Corruption is what emerges when **responsibility is abdicated**: the immune system that turns against the body (auto-immunity), the guardian who becomes predator, the vessel meant to nourish that instead poisons.
 
@@ -46,7 +46,7 @@ The biological correspondence to immune system reveals Corruption's mechanism: t
 ## Gene Keys in House Context
 
 **Shadow: Corruption**
-This is the card's full expression—the knowing that **values have been compromised, integrity abandoned, foundation poisoned**. In the House of Land, corruption manifests not as dramatic betrayal but as **slow rot**: small compromises accumulating, minor abandonments compounding, until what was meant to support life becomes threat. This shadow recognizes the decay but feels powerless to address it, complicit in the degradation, or so accustomed to toxicity that it seems normal.
+This is the card's full expression—the knowing that **values have been compromised, integrity abandoned, foundation poisoned**. In the House of the Land, corruption manifests not as dramatic betrayal but as **slow rot**: small compromises accumulating, minor abandonments compounding, until what was meant to support life becomes threat. This shadow recognizes the decay but feels powerless to address it, complicit in the degradation, or so accustomed to toxicity that it seems normal.
 
 **Gift: Equilibrium**
 When Corruption shifts from shadow to gift, awareness of decay transforms into **committed restoration of balance**—the capacity to recognize when values have been compromised and to work toward their rehabilitation. Equilibrium does not deny that corruption occurred; it addresses the rot systematically, restoring what can be saved and releasing what is too degraded. In Land's context, this means **reclaiming responsibility for the vessel**: cleaning the cauldron, purifying values, re-establishing principles that preserve foundation.
@@ -93,9 +93,9 @@ Recovery from Corruption requires more than correction—it demands **complete r
 - [[Gate 50]] - The Cauldron / Values (Spleen Center)
 - [[Hexagram 50]] - The Cauldron (I-Ching)
 - [[Gene Keys - Shadow: Corruption, Gift: Equilibrium, Siddhi: Harmony]]
-- [[Integrity]] - Gate 18 in House of Land (opposite pole and antidote)
-- [[Insecurity]] - Gate 48 shadow in House of Land
-- [[Fragility]] - Gate 57 shadow in House of Land
-- [[Stability]] - Gate 20 in House of Land (opposite pole)
+- [[Integrity]] - Gate 18 in House of the Land (opposite pole and antidote)
+- [[Insecurity]] - Gate 48 shadow in House of the Land
+- [[Fragility]] - Gate 57 shadow in House of the Land
+- [[Stability]] - Gate 20 in House of the Land (opposite pole)
 - [[Spleen Center]] - Instinctual values and protective awareness
 - [[Tribal Ego Circuit]] - Defense and custodial responsibility

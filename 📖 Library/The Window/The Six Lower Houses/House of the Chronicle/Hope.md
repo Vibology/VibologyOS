@@ -6,7 +6,7 @@ tier: House Card
 gate: 30
 hexagram: 30 (The Clinging Fire)
 gene_keys: Desire → Lightness → Rapture
-house: House of Chronicle
+house: House of the Chronicle
 card_name: Hope
 aspect: positive
 ---
@@ -35,7 +35,7 @@ The card draws from Gate 30's mechanical function—the Solar Plexus Center's cl
 - **Keynote:** Feelings; desire as fate; clinging to emotional experience
 - **Biology:** Kidneys, pancreas, emotional waves and desire
 
-Within the House of Chronicle, Gate 30 becomes the **emotional fire that illuminates the narrative**. While the gate mechanically represents Solar Plexus clinging to experience, in Chronicle's domain it expresses as **hope that sustains commitment to the story**. This is the desire that keeps us engaged with meaning despite knowing we are not free.
+Within the House of the Chronicle, Gate 30 becomes the **emotional fire that illuminates the narrative**. While the gate mechanically represents Solar Plexus clinging to experience, in Chronicle's domain it expresses as **hope that sustains commitment to the story**. This is the desire that keeps us engaged with meaning despite knowing we are not free.
 
 Chronicle governs metanarrative—the virtues that shape meaning. Gate 30 in the Solar Plexus provides the **emotional fuel to continue the story**, the desire that makes us care. Hope is what emerges when we accept limitation yet still cling to the narrative with lightness.
 
@@ -46,10 +46,10 @@ The biological correspondence to kidneys (emotional processing) reveals Hope's p
 ## Gene Keys in House Context
 
 **Shadow: Desire**
-When Hope collapses into shadow within the House of Chronicle, it becomes **compulsive clinging without lightness**—desire that entraps rather than illuminates, emotional investment that breeds suffering. In Chronicle's context, the desire shadow manifests as **desperate attachment to narratives that no longer serve**: clinging to meaning that has become prison, hoping for outcomes that perpetuate limitation.
+When Hope collapses into shadow within the House of the Chronicle, it becomes **compulsive clinging without lightness**—desire that entraps rather than illuminates, emotional investment that breeds suffering. In Chronicle's context, the desire shadow manifests as **desperate attachment to narratives that no longer serve**: clinging to meaning that has become prison, hoping for outcomes that perpetuate limitation.
 
 **Gift: Lightness**
-The gift frequency of Hope expresses as **graceful emotional engagement with the story**. This is not detachment but light-hearted participation—clinging with awareness, desiring without desperation. In the House of Chronicle, lightness means your hope serves the narrative's beauty—you **invest emotionally while accepting limitation as fate**.
+The gift frequency of Hope expresses as **graceful emotional engagement with the story**. This is not detachment but light-hearted participation—clinging with awareness, desiring without desperation. In the House of the Chronicle, lightness means your hope serves the narrative's beauty—you **invest emotionally while accepting limitation as fate**.
 
 **Siddhi: Rapture**
 At the transcendent level, Hope becomes **Rapture**—the ecstatic recognition that limitation itself is the source of beauty, that clinging to the narrative is participation in divine play. This is the Siddhi of Gate 30 contextualized in Chronicle: the individual whose hope has become mystical joy in fate's design.
@@ -81,18 +81,18 @@ This card integrates with the other positive Chronicle cards:
 - **Love** (Gate 15) ensures Hope's clinging includes all human patterns
 - **Memory** (Gate 11) gives Hope the ideational content worth desiring
 
-Together, these four cards form the **healthy expression of the House of Chronicle**: enduring commitment (Faith), sustained desire (Hope), inclusive compassion (Love), and visionary ideals (Memory).
+Together, these four cards form the **healthy expression of the House of the Chronicle**: enduring commitment (Faith), sustained desire (Hope), inclusive compassion (Love), and visionary ideals (Memory).
 
 ---
 
 ## Internal Links
 
-- [[House of Chronicle]] - The domain of metanarrative and meaning-shaping virtues
+- [[House of the Chronicle]] - The domain of metanarrative and meaning-shaping virtues
 - [[Gate 30]] - The Clinging Fire / Feelings (Solar Plexus Center)
 - [[Hexagram 30]] - The Clinging Fire (I-Ching)
 - [[Gene Keys - Shadow: Desire, Gift: Lightness, Siddhi: Rapture]]
-- [[Faith]] - Gate 32 in House of Chronicle
-- [[Love]] - Gate 15 in House of Chronicle
+- [[Faith]] - Gate 32 in House of the Chronicle
+- [[Love]] - Gate 15 in House of the Chronicle
 - [[The Star]] - Tarot correspondence to hope and sustained desire
 - [[Solar Plexus Center]] - Emotional awareness and sensitivity
 - [[Sensing Circuit]] - Collective experience and wisdom

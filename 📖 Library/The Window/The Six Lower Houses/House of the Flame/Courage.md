@@ -6,7 +6,7 @@ tier: House Card
 gate: 21
 hexagram: 21 (Biting Through)
 gene_keys: Control → Authority → Valour
-house: House of Flame
+house: House of the Flame
 card_name: Courage
 aspect: positive
 ---
@@ -35,7 +35,7 @@ The card draws from Gate 21's mechanical function—the Heart Center's tribal co
 - **Keynote:** Control; justified use of power to overcome interference
 - **Biology:** Heart, thymus, stomach (willpower and material resources)
 
-Within the House of Flame, Gate 21 becomes the **ignition point of decisive action**. While the gate mechanically represents tribal control over resources, in Flame's domain it expresses as **courage through willpower**. This is the fire that says "I will go, I will hunt, I will remove what blocks the flow of life force."
+Within the House of the Flame, Gate 21 becomes the **ignition point of decisive action**. While the gate mechanically represents tribal control over resources, in Flame's domain it expresses as **courage through willpower**. This is the fire that says "I will go, I will hunt, I will remove what blocks the flow of life force."
 
 Flame governs the vital/instinctual realm—action, movement, survival. Gate 21 in the Heart Center provides the **ego strength to act when fear or hesitation would mean death**. Courage is what emerges when willpower aligns with tribal necessity, when control is exercised not for domination but for life.
 
@@ -46,10 +46,10 @@ The biological correspondence to heart, thymus, and stomach reveals Courage's vi
 ## Gene Keys in House Context
 
 **Shadow: Control**
-When Courage collapses into shadow within the House of Flame, it becomes **tyrannical control**—power exercised for ego gratification rather than tribal necessity. This is the Hunter who kills beyond need, the Enforcer who punishes to dominate rather than protect. In Flame's context, the control shadow manifests as **violence disguised as strength**: aggression without justification, boundaries enforced through fear rather than authority, willpower that consumes rather than sustains.
+When Courage collapses into shadow within the House of the Flame, it becomes **tyrannical control**—power exercised for ego gratification rather than tribal necessity. This is the Hunter who kills beyond need, the Enforcer who punishes to dominate rather than protect. In Flame's context, the control shadow manifests as **violence disguised as strength**: aggression without justification, boundaries enforced through fear rather than authority, willpower that consumes rather than sustains.
 
 **Gift: Authority**
-The gift frequency of Courage expresses as **legitimate power recognized by the tribe**. This is not authority claimed but authority earned through demonstrated willingness to act when others cannot. In the House of Flame, authority means your control is trusted because it serves collective survival—you bite through obstacles not for personal gain but because **the tribe's vitality requires decisive action**. This is courage that empowers the collective.
+The gift frequency of Courage expresses as **legitimate power recognized by the tribe**. This is not authority claimed but authority earned through demonstrated willingness to act when others cannot. In the House of the Flame, authority means your control is trusted because it serves collective survival—you bite through obstacles not for personal gain but because **the tribe's vitality requires decisive action**. This is courage that empowers the collective.
 
 **Siddhi: Valour**
 At the transcendent level, Courage becomes **Valour**—action so aligned with necessity that personal fear dissolves into service. This is the Siddhi of Gate 21 contextualized in Flame: the individual who acts with total courage because they have transcended ego's need to control outcomes. In sacred traditions, this is the spiritual warrior whose bravery serves not ambition but dharma, whose enforcement of boundaries is an expression of cosmic justice.
@@ -81,7 +81,7 @@ This card integrates with the other positive Flame cards:
 - **Passion** (Gate 25) ensures Courage serves the spirit's innocent love of existence
 - **Survival** (Gate 26) grounds Courage in the memory of what has worked to sustain life
 
-Together, these four cards form the **healthy expression of the House of Flame**: justified action (Courage), meaningful risk (Adventure), innocent vitality (Passion), and strategic resource management (Survival).
+Together, these four cards form the **healthy expression of the House of the Flame**: justified action (Courage), meaningful risk (Adventure), innocent vitality (Passion), and strategic resource management (Survival).
 
 The negative cards (Aggression, Recklessness, Violence) show what emerges when Flame's fire becomes destructive rather than generative. Courage is the ideal—**the return to justified force** that allows instinctual power to serve life rather than destroy it.
 
@@ -89,12 +89,12 @@ The negative cards (Aggression, Recklessness, Violence) show what emerges when F
 
 ## Internal Links
 
-- [[House of Flame]] - The domain of vital/instinctual action and movement
+- [[House of the Flame]] - The domain of vital/instinctual action and movement
 - [[Gate 21]] - Biting Through / The Hunter (Heart Center)
 - [[Hexagram 21]] - Biting Through (I-Ching)
 - [[Gene Keys - Shadow: Control, Gift: Authority, Siddhi: Valour]]
-- [[Adventure]] - Gate 28 in House of Flame
-- [[Passion]] - Gate 25 in House of Flame
+- [[Adventure]] - Gate 28 in House of the Flame
+- [[Passion]] - Gate 25 in House of the Flame
 - [[The Emperor]] - Tarot correspondence to justified authority
 - [[Heart Center]] - Willpower and material resources
 - [[Tribal Circuit]] - Support, loyalty, and collective survival

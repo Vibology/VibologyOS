@@ -6,7 +6,7 @@ tier: House Card
 gate: 19
 hexagram: 19 (Approach)
 gene_keys: Co-dependence → Sensitivity → Sacrifice
-house: House of Sea
+house: House of the Sea
 card_name: Longing
 aspect: positive
 ---
@@ -35,7 +35,7 @@ The card draws from Gate 19's mechanical function—the Root pressure to approac
 - **Keynote:** All things are interrelated; pressure to approach and be needed
 - **Biology:** Adrenal glands, stress hormones, pressure to act
 
-Within the House of Sea, Gate 19 becomes **pressure toward emotional connection**—the Root's drive applied to intimacy rather than material resources. While the gate mechanically represents sensitivity to tribal needs and resource exchange, in Sea's domain it manifests as **longing for relational presence**: wanting to be needed, desiring to matter, the ache for emotional belonging.
+Within the House of the Sea, Gate 19 becomes **pressure toward emotional connection**—the Root's drive applied to intimacy rather than material resources. While the gate mechanically represents sensitivity to tribal needs and resource exchange, in Sea's domain it manifests as **longing for relational presence**: wanting to be needed, desiring to matter, the ache for emotional belonging.
 
 Sea's emotional gates create waves of feeling; Gate 19 as Longing **pressurizes connection**—the drive to approach, to reach out, to risk vulnerability for the sake of intimacy. This is not weakness but courage: acknowledging need, revealing desire, allowing the heart to be hungry rather than defended.
 
@@ -46,10 +46,10 @@ The biological correspondence to adrenal glands reveals Longing's foundation: ap
 ## Gene Keys in House Context
 
 **Shadow: Co-dependence**
-When Longing collapses into shadow within the House of Sea, it becomes **co-dependent grasping**—need so desperate it suffocates connection, hunger so ravenous it consumes rather than nourishes. This is longing that has lost boundaries, desire that demands rather than invites. In Sea's context, co-dependence manifests as **emotional enmeshment**: needing the other to complete you, making their emotional state your responsibility, losing yourself in the hunger to be needed.
+When Longing collapses into shadow within the House of the Sea, it becomes **co-dependent grasping**—need so desperate it suffocates connection, hunger so ravenous it consumes rather than nourishes. This is longing that has lost boundaries, desire that demands rather than invites. In Sea's context, co-dependence manifests as **emotional enmeshment**: needing the other to complete you, making their emotional state your responsibility, losing yourself in the hunger to be needed.
 
 **Gift: Sensitivity**
-The gift frequency of Longing expresses as **sensitivity to relational needs**—yours and others'—without collapse into merger. In the House of Sea, sensitivity means **attuned desire**: you know what you long for, you sense what another needs, and you approach with honesty about both. This is longing that creates connection because it honors **mutual need** rather than one-sided demand.
+The gift frequency of Longing expresses as **sensitivity to relational needs**—yours and others'—without collapse into merger. In the House of the Sea, sensitivity means **attuned desire**: you know what you long for, you sense what another needs, and you approach with honesty about both. This is longing that creates connection because it honors **mutual need** rather than one-sided demand.
 
 **Siddhi: Sacrifice**
 At the transcendent level, Longing becomes **Sacrifice**—not self-abnegation but the recognition that **true intimacy requires offering yourself without guarantee of return**. This is the Siddhi of Gate 19 contextualized in Sea: understanding that longing is sacred precisely because it makes you vulnerable, that desire is holy because it requires courage, that the willingness to need another is **gift offered to the altar of relationship**. In sacred traditions, this is divine yearning—God longing for creation, creation longing for God, the ache that generates all existence.
@@ -91,9 +91,9 @@ Longing stands in opposition to **Envy** (Gate 54 shadow)—because honest desir
 - [[Gate 19]] - Approach / Wanting (Root Center)
 - [[Hexagram 19]] - Approach (I-Ching)
 - [[Gene Keys - Shadow: Co-dependence, Gift: Sensitivity, Siddhi: Sacrifice]]
-- [[Joy]] - Gate 58 in House of Sea
-- [[Gratitude]] - Gate 22 in House of Sea
-- [[Compassion]] - Gate 13 in House of Sea
-- [[Envy]] - Gate 54 shadow in House of Sea (opposite pole)
+- [[Joy]] - Gate 58 in House of the Sea
+- [[Gratitude]] - Gate 22 in House of the Sea
+- [[Compassion]] - Gate 13 in House of the Sea
+- [[Envy]] - Gate 54 shadow in House of the Sea (opposite pole)
 - [[Root Center]] - Pressure toward connection
 - [[Tribal Ego Circuit]] - Support through mutual need

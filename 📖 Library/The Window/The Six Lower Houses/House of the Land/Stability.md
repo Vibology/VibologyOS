@@ -6,7 +6,7 @@ tier: House Card
 gate: 20
 hexagram: 20 (Contemplation)
 gene_keys: Superficiality → Self Assurance → Presence
-house: House of Land
+house: House of the Land
 card_name: Stability
 aspect: positive
 ---
@@ -35,7 +35,7 @@ The card draws from Gate 20's mechanical function—the Throat Center's expressi
 - **Keynote:** Awareness and recognition in the now; existential action
 - **Biology:** Thyroid, parathyroid, metabolic expression
 
-Within the House of Land, Gate 20 becomes the **anchor of grounded presence**. While the gate mechanically represents Throat manifestation of Integration awareness, in Land's domain it expresses as **stability through embodied recognition**. This is the voice that says "I see what's happening right now" and the body that feels solid because consciousness is not fragmented across time.
+Within the House of the Land, Gate 20 becomes the **anchor of grounded presence**. While the gate mechanically represents Throat manifestation of Integration awareness, in Land's domain it expresses as **stability through embodied recognition**. This is the voice that says "I see what's happening right now" and the body that feels solid because consciousness is not fragmented across time.
 
 Land's four Spleen gates (48, 57, 50, 18) provide instinctual knowing, but Gate 20 in the Throat **articulates that knowing into present reality**. Stability is what emerges when awareness is anchored in the body, when contemplation does not float into abstraction but manifests as **grounded self-assurance in material existence**.
 
@@ -46,10 +46,10 @@ The biological correspondence to thyroid and metabolic expression reveals Stabil
 ## Gene Keys in House Context
 
 **Shadow: Superficiality**
-When Stability collapses into shadow within the House of Land, it becomes **superficial presence**—the appearance of groundedness without actual embodiment. This is the person who performs mindfulness, who speaks the language of "being present" while consciousness remains scattered. In Land's context, superficiality manifests as **unstable foundation disguised as stability**: routines performed mechanically, physical rituals executed without awareness, embodiment as concept rather than lived reality.
+When Stability collapses into shadow within the House of the Land, it becomes **superficial presence**—the appearance of groundedness without actual embodiment. This is the person who performs mindfulness, who speaks the language of "being present" while consciousness remains scattered. In Land's context, superficiality manifests as **unstable foundation disguised as stability**: routines performed mechanically, physical rituals executed without awareness, embodiment as concept rather than lived reality.
 
 **Gift: Self Assurance**
-The gift frequency of Stability expresses as **confidence born from knowing you are here**. This is not arrogance or inflated self-image, but the quiet self-assurance that comes from recognizing your presence in material reality. In the House of Land, self-assurance means trusting your physical foundation—your body's instincts (Spleen gates), your capacity to act (Throat gates), your right to occupy space. This is stability that empowers without rigidity.
+The gift frequency of Stability expresses as **confidence born from knowing you are here**. This is not arrogance or inflated self-image, but the quiet self-assurance that comes from recognizing your presence in material reality. In the House of the Land, self-assurance means trusting your physical foundation—your body's instincts (Spleen gates), your capacity to act (Throat gates), your right to occupy space. This is stability that empowers without rigidity.
 
 **Siddhi: Presence**
 At the transcendent level, Stability becomes **pure Presence**—consciousness so fully embodied in the now that past and future dissolve into immediacy. This is the Siddhi of Gate 20 contextualized in Land: the individual who is **completely here**, whose physical existence is not burden but blessing, whose groundedness is so total that they become **portal to the eternal present**. In sacred traditions, this is the realized master who walks the earth fully awake, whose every gesture manifests contemplation.
@@ -81,7 +81,7 @@ This card integrates with the other positive Land cards:
 - **Integrity** (Gate 18) ensures Stability is maintained through correction of what's spoiled
 - **Ambition** (Gate 16) channels Stability into skillful mastery through disciplined practice
 
-Together, these four cards form the **healthy expression of the House of Land**: present-moment awareness (Stability), authentic creative service (Confidence), structural integrity through vigilance (Integrity), and excellence through repetition (Ambition).
+Together, these four cards form the **healthy expression of the House of the Land**: present-moment awareness (Stability), authentic creative service (Confidence), structural integrity through vigilance (Integrity), and excellence through repetition (Ambition).
 
 The negative cards (Insecurity, Fragility, Corruption) show what emerges when Land's foundation becomes unstable, brittle, or decayed. Stability is the antidote and the ideal—**the return to grounded presence** that allows the other gifts to flourish.
 
@@ -93,8 +93,8 @@ The negative cards (Insecurity, Fragility, Corruption) show what emerges when La
 - [[Gate 20]] - Contemplation / The Now (Throat Center)
 - [[Hexagram 20]] - Contemplation (I-Ching)
 - [[Gene Keys - Shadow: Superficiality, Gift: Self Assurance, Siddhi: Presence]]
-- [[Confidence]] - Gate 8 in House of Land
-- [[Integrity]] - Gate 18 in House of Land
+- [[Confidence]] - Gate 8 in House of the Land
+- [[Integrity]] - Gate 18 in House of the Land
 - [[The Empress]] - Tarot correspondence to Land's nourishing presence
 - [[Throat Center]] - Expression and manifestation in present reality
 - [[Integration Circuit]] - Individual empowerment through awareness

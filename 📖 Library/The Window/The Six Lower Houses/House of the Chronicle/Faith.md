@@ -6,7 +6,7 @@ tier: House Card
 gate: 32
 hexagram: 32 (Duration)
 gene_keys: Failure → Preservation → Veneration
-house: House of Chronicle
+house: House of the Chronicle
 card_name: Faith
 aspect: positive
 ---
@@ -30,7 +30,7 @@ The card draws from Gate 32's mechanical function—the Spleen Center's fear of 
 - **Keynote:** The only thing which endures is change; fear of failure
 - **Biology:** Lymphatic system, immune response, survival vigilance
 
-Within the House of Chronicle, Gate 32 becomes the **anchor of narrative continuity**. While the gate mechanically represents splenic fear of failure in tribal survival, in Chronicle's domain it expresses as **faith in the enduring story**. This is the belief that some narratives matter enough to preserve across generations.
+Within the House of the Chronicle, Gate 32 becomes the **anchor of narrative continuity**. While the gate mechanically represents splenic fear of failure in tribal survival, in Chronicle's domain it expresses as **faith in the enduring story**. This is the belief that some narratives matter enough to preserve across generations.
 
 Chronicle governs metanarrative—the virtues and stories that shape meaning. Gate 32 in the Spleen provides the **instinctual sense of what is worth preserving**, what values will endure. Faith is what emerges when survival wisdom recognizes that **continuity requires commitment despite the possibility of failure**.
 
@@ -40,10 +40,10 @@ The biological correspondence to immune system reveals Faith's protective mechan
 ## Gene Keys in House Context
 
 **Shadow: Failure**
-When Faith collapses into shadow within the House of Chronicle, it becomes **the fear that nothing will last**—the paralysis that prevents preservation, the anxiety that undermines continuity. In Chronicle's context, the failure shadow manifests as **inability to commit to any narrative**: abandoning stories before they mature, rejecting values before they're tested, losing faith that meaning can endure.
+When Faith collapses into shadow within the House of the Chronicle, it becomes **the fear that nothing will last**—the paralysis that prevents preservation, the anxiety that undermines continuity. In Chronicle's context, the failure shadow manifests as **inability to commit to any narrative**: abandoning stories before they mature, rejecting values before they're tested, losing faith that meaning can endure.
 
 **Gift: Preservation**
-The gift frequency of Faith expresses as **the wise commitment to what endures**. This is not rigid conservatism but discerning preservation—knowing what values are worth protecting, what stories deserve continuation. In the House of Chronicle, preservation means your faith serves the narrative's longevity—you **invest in continuity not from fear but from veneration of what matters**.
+The gift frequency of Faith expresses as **the wise commitment to what endures**. This is not rigid conservatism but discerning preservation—knowing what values are worth protecting, what stories deserve continuation. In the House of the Chronicle, preservation means your faith serves the narrative's longevity—you **invest in continuity not from fear but from veneration of what matters**.
 
 **Siddhi: Veneration**
 At the transcendent level, Faith becomes **Veneration**—the sacred recognition that some values are eternal, that certain narratives transcend individual lives. This is the Siddhi of Gate 32 contextualized in Chronicle: the individual whose faith becomes devotion to what is timeless, whose preservation serves not survival but reverence.
@@ -73,17 +73,17 @@ This card integrates with the other positive Chronicle cards:
 - **Love** (Gate 15) ensures Faith's continuity includes all human patterns in the story
 - **Memory** (Gate 11) provides Faith with the ideational content worth preserving
 
-Together, these four cards form the **healthy expression of the House of Chronicle**: enduring commitment (Faith), sustained desire (Hope), inclusive compassion (Love), and visionary ideals (Memory).
+Together, these four cards form the **healthy expression of the House of the Chronicle**: enduring commitment (Faith), sustained desire (Hope), inclusive compassion (Love), and visionary ideals (Memory).
 
 ---
 ## Internal Links
 
-- [[House of Chronicle]] - The domain of metanarrative and meaning-shaping virtues
+- [[House of the Chronicle]] - The domain of metanarrative and meaning-shaping virtues
 - [[Gate 32]] - Duration / Continuity (Spleen Center)
 - [[Hexagram 32]] - Duration (I-Ching)
 - [[Gene Keys - Shadow: Failure, Gift: Preservation, Siddhi: Veneration]]
-- [[Hope]] - Gate 30 in House of Chronicle
-- [[Love]] - Gate 15 in House of Chronicle
+- [[Hope]] - Gate 30 in House of the Chronicle
+- [[Love]] - Gate 15 in House of the Chronicle
 - [[The Hierophant]] - Tarot correspondence to preserved tradition and faith
 - [[Spleen Center]] - Survival, intuition, and health
 - [[Tribal Circuit]] - Support, loyalty, and collective preservation

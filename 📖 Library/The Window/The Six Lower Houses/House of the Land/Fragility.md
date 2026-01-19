@@ -6,7 +6,7 @@ tier: House Card
 gate: 57
 hexagram: 57 (The Gentle)
 gene_keys: Unease → Intuition → Clarity
-house: House of Land
+house: House of the Land
 card_name: Fragility
 aspect: negative
 ---
@@ -35,7 +35,7 @@ The card draws from Gate 57's shadow frequency—the unease that precedes intuit
 - **Keynote:** Acoustic intuition; penetrating clarity in the now; fear of tomorrow
 - **Biology:** Immune system, lymphatic system, intuitive awareness
 
-Within the House of Land, Gate 57's shadow becomes **somatic brittleness born from chronic fear**. While the gate mechanically provides instantaneous intuitive awareness in the present, in shadow it manifests as **anxiety about future threat that prevents present-moment flexibility**. The Spleen's healthy function is to alert to danger *now*; in shadow, it projects danger onto every moment, creating defensive rigidity.
+Within the House of the Land, Gate 57's shadow becomes **somatic brittleness born from chronic fear**. While the gate mechanically provides instantaneous intuitive awareness in the present, in shadow it manifests as **anxiety about future threat that prevents present-moment flexibility**. The Spleen's healthy function is to alert to danger *now*; in shadow, it projects danger onto every moment, creating defensive rigidity.
 
 Land requires both stability and adaptability—roots that anchor but also flex in wind. Fragility is what emerges when the fear of collapse (tomorrow's imagined threat) creates **defensive hardening**: the body tenses against anticipated pain, the foundation reinforces against imagined pressure, and in doing so becomes **more vulnerable to actual stress** because it has lost the capacity to yield.
 
@@ -46,7 +46,7 @@ The biological correspondence to immune system and lymphatic function reveals Fr
 ## Gene Keys in House Context
 
 **Shadow: Unease**
-This is Fragility's root—the chronic anxiety that **something will go wrong, foundation will fail, collapse is imminent**. In the House of Land, unease manifests as **inability to trust present-moment stability** because fear projects catastrophe onto the future. This creates defensive hardening: you brace against anticipated pain, reinforce against imagined threat, and in doing so sacrifice the flexibility that allows structures to survive actual stress. Unease makes you fragile because it prevents the gentle yielding (The Gentle) that preserves integrity.
+This is Fragility's root—the chronic anxiety that **something will go wrong, foundation will fail, collapse is imminent**. In the House of the Land, unease manifests as **inability to trust present-moment stability** because fear projects catastrophe onto the future. This creates defensive hardening: you brace against anticipated pain, reinforce against imagined threat, and in doing so sacrifice the flexibility that allows structures to survive actual stress. Unease makes you fragile because it prevents the gentle yielding (The Gentle) that preserves integrity.
 
 **Gift: Intuition**
 When Fragility shifts from shadow to gift, chronic unease transforms into **acoustic intuition**—the capacity to hear what is actually dangerous *now* rather than projecting fear onto imagined futures. Intuition is precise, immediate, present-tense. In Land's context, this means **trusting the body's instinctual knowing in each moment** rather than living in defensive anticipation. The intuitive body remains flexible because it does not waste energy bracing against phantoms—it responds to actual threat with appropriate action and relaxes when threat passes.
@@ -92,9 +92,9 @@ Fragility is also illuminated by its polarity with **Integrity** (Gate 18)—whe
 - [[Gate 57]] - The Gentle / Intuitive Clarity (Spleen Center)
 - [[Hexagram 57]] - The Gentle (I-Ching)
 - [[Gene Keys - Shadow: Unease, Gift: Intuition, Siddhi: Clarity]]
-- [[Stability]] - Gate 20 in House of Land (antidote through presence)
-- [[Insecurity]] - Gate 48 shadow in House of Land
-- [[Corruption]] - Gate 50 shadow in House of Land
-- [[Integrity]] - Gate 18 in House of Land (opposite pole)
+- [[Stability]] - Gate 20 in House of the Land (antidote through presence)
+- [[Insecurity]] - Gate 48 shadow in House of the Land
+- [[Corruption]] - Gate 50 shadow in House of the Land
+- [[Integrity]] - Gate 18 in House of the Land (opposite pole)
 - [[Spleen Center]] - Instinctual awareness and survival fear
 - [[Individual Knowing Circuit]] - Mutative intuition

@@ -6,7 +6,7 @@ tier: House Card
 gate: 47
 hexagram: 47 (Oppression)
 gene_keys: Oppression → Transmutation → Transfiguration
-house: House of Chronicle
+house: House of the Chronicle
 card_name: Despair
 aspect: negative
 ---
@@ -35,7 +35,7 @@ The card draws from Gate 47's mechanical function—the Ajna Center's mental pre
 - **Keynote:** Mental pressure and realization; making sense of experience
 - **Biology:** Cognitive processing, mental pressure
 
-Within the House of Chronicle, Gate 47's shadow becomes the **narrative oppressed by meaninglessness**. While the gate mechanically represents Ajna's pressure to realize understanding, in Chronicle's shadow it expresses as **despair when no meaning can be found**. This is the metanarrative that has exhausted all frameworks and found the story incomprehensible.
+Within the House of the Chronicle, Gate 47's shadow becomes the **narrative oppressed by meaninglessness**. While the gate mechanically represents Ajna's pressure to realize understanding, in Chronicle's shadow it expresses as **despair when no meaning can be found**. This is the metanarrative that has exhausted all frameworks and found the story incomprehensible.
 
 Chronicle governs metanarrative—the virtues and meanings that shape story. When Gate 47 in the Ajna becomes shadow, Despair emerges: **mental pressure that cannot resolve into meaning**, contemplation that leads only to exhaustion. This is the mind under such oppression to make sense that it collapses into hopelessness.
 
@@ -46,7 +46,7 @@ The biological correspondence to mental pressure reveals Despair's cognitive mec
 ## Gene Keys in House Context
 
 **Shadow: Oppression**
-In the House of Chronicle, oppression manifests as **narrative crushed by meaninglessness**. This is the metanarrative under such mental pressure to cohere that it exhausts into despair, the story that finds no framework adequate to its pain. Despair is what happens when Chronicle's meaning-making capacity fails—contemplation yields only emptiness, mental pressure produces only exhaustion.
+In the House of the Chronicle, oppression manifests as **narrative crushed by meaninglessness**. This is the metanarrative under such mental pressure to cohere that it exhausts into despair, the story that finds no framework adequate to its pain. Despair is what happens when Chronicle's meaning-making capacity fails—contemplation yields only emptiness, mental pressure produces only exhaustion.
 
 **Gift: Transmutation**
 The pathway out of Despair leads through **transmutation**—the alchemical process where mental oppression transforms into realization. In Chronicle's context, transmutation means allowing mental pressure to build until breakthrough occurs, trusting that contemplation will eventually resolve. This is the recognition that **oppression precedes realization**.
@@ -65,7 +65,7 @@ Despair signals that **mental pressure has exhausted meaning**. You are being wa
 You are caught in **mental oppression**—no framework makes the story meaningful, all contemplation leads to exhaustion. The shadow manifests as hopelessness that has replaced the search for meaning: narrative that cannot cohere, metanarrative crushed under the weight of incomprehensibility. Your mental pressure has exhausted into despair that sees no resolution.
 
 **Gift Aspect:**
-The path forward requires **trusting transmutation**—allowing mental oppression to build until it transforms into realization. In the House of Chronicle, this means continuing to contemplate even when meaning seems impossible, trusting that pressure will eventually resolve. Transmutation transforms despair into breakthrough understanding.
+The path forward requires **trusting transmutation**—allowing mental oppression to build until it transforms into realization. In the House of the Chronicle, this means continuing to contemplate even when meaning seems impossible, trusting that pressure will eventually resolve. Transmutation transforms despair into breakthrough understanding.
 
 **Siddhi/Transcendent Aspect:**
 In its highest healing, Despair dissolves into **Transfiguration**—the recognition that some narratives transcend comprehension, that meaning beyond meaning exists. This is the mystical resolution where the story becomes sacred mystery rather than exhausting puzzle. Those who heal this shadow discover that **despair can birth transcendent understanding**.
@@ -76,7 +76,7 @@ In its highest healing, Despair dissolves into **Transfiguration**—the recogni
 
 Despair represents the **negative pole of Chronicle's mental exhaustion**: narrative oppressed by meaninglessness rather than illuminated by understanding, metanarrative that collapses rather than cohere. Where the positive attributes of Chronicle demonstrate healthy meaning-making, Despair reveals **what happens when the story exhausts mental resources**.
 
-This card warns against shadow patterns in the House of Chronicle:
+This card warns against shadow patterns in the House of the Chronicle:
 - Unlike **Faith** (Gate 32), which preserves what endures, Despair sees no continuity worth maintaining
 - Unlike **Hope** (Gate 30), which desires with lightness, Despair has abandoned emotional engagement
 - Unlike **Love** (Gate 15), which includes all patterns, Despair finds all patterns meaningless
@@ -88,12 +88,12 @@ Together with **Bitterness** (Gate 52) and **Hatred** (Gate 4), Despair forms th
 
 ## Internal Links
 
-- [[House of Chronicle]] - The domain of metanarrative and meaning-shaping virtues
+- [[House of the Chronicle]] - The domain of metanarrative and meaning-shaping virtues
 - [[Gate 47]] - Oppression / Realizing (Ajna Center)
 - [[Hexagram 47]] - Oppression (I-Ching)
 - [[Gene Keys - Shadow: Oppression, Gift: Transmutation, Siddhi: Transfiguration]]
 - [[Memory]] - The positive alternative to Despair's meaninglessness
-- [[Bitterness]] - Gate 52 shadow in House of Chronicle
+- [[Bitterness]] - Gate 52 shadow in House of the Chronicle
 - [[Three of Swords]] - Tarot correspondence to heartbreak and despair
 - [[Ajna Center]] - Mental awareness and conceptualization
 - [[Understanding Circuit]] - Collective pattern recognition through logic

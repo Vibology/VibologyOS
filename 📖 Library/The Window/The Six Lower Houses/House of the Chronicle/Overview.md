@@ -7,7 +7,7 @@ element: None (Narrative/Metanarrative)
 domain: Story & Meaning Across Time
 ---
 
-# House of Chronicle
+# House of the Chronicle
 
 *Narrative Domain - The Virtues That Shape Meaning*
 
@@ -15,7 +15,7 @@ domain: Story & Meaning Across Time
 
 ## House Symbolism & Meaning
 
-The House of Chronicle represents the **domain of narrative and metanarrative**—the realm where human experience becomes story, where meaning emerges through how we tell what happened, where virtues and vices shape the arc of understanding across time. This is not elemental (earth, water, fire, air) but **narratival**—the frame through which all experience is interpreted, the lens that transforms events into meaning.
+The House of the Chronicle represents the **domain of narrative and metanarrative**—the realm where human experience becomes story, where meaning emerges through how we tell what happened, where virtues and vices shape the arc of understanding across time. This is not elemental (earth, water, fire, air) but **narratival**—the frame through which all experience is interpreted, the lens that transforms events into meaning.
 
 Chronicle governs the spectrum from faith that sustains through uncertainty to despair that collapses meaning, from hope that orients toward future to bitterness that poisons memory, from love that unifies to hatred that fractures. This House asks: **What story are you telling about your life?** Which virtues shape your narrative? Which vices corrupt the telling? Can you hold memory without being imprisoned by it?
 
@@ -31,7 +31,7 @@ Chronicle does **not correspond to a classical element**. Where Land is earth, S
 
 **Cosmic Principle:** Meaning Through Narrative
 
-The House of Chronicle embodies the principle articulated by Paul Ricoeur and Jerome Bruner: **we are fundamentally storytelling beings**. Experience becomes comprehensible only when organized into narrative. The same event, told differently, creates different meaning. Chronicle teaches that **reality is inseparable from the story we tell about it**.
+The House of the Chronicle embodies the principle articulated by Paul Ricoeur and Jerome Bruner: **we are fundamentally storytelling beings**. Experience becomes comprehensible only when organized into narrative. The same event, told differently, creates different meaning. Chronicle teaches that **reality is inseparable from the story we tell about it**.
 
 **Temporal Resonance:** All Seasons (Past, Present, Future)
 
@@ -131,7 +131,7 @@ Gate 52 (Keeping Still) and Gate 47 (Oppression) both require **stopping movemen
 
 ## Divinatory Meaning
 
-**When cards from the House of Chronicle appear:**
+**When cards from the House of the Chronicle appear:**
 
 You are being called to **examine the story you are telling**. This is not the time for raw action (Flame), emotional immersion (Sea), or practical building (Land). The question before you requires **stepping back to see the narrative arc**. What meaning are you making from events? Which virtues organize your understanding? Which vices corrupt the telling?
 

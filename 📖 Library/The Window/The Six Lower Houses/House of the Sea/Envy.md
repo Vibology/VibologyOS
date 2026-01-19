@@ -6,7 +6,7 @@ tier: House Card
 gate: 54
 hexagram: 54 (The Marrying Maiden)
 gene_keys: Greed → Aspiration → Ascension
-house: House of Sea
+house: House of the Sea
 card_name: Envy
 aspect: negative
 ---
@@ -35,7 +35,7 @@ The card draws from Gate 54's shadow frequency—greed and ambition divorced fro
 - **Keynote:** Ambition; pressure to rise up socially, materially, spiritually
 - **Biology:** Adrenal glands, drive response, ambition pressure
 
-Within the House of Sea, Gate 54's shadow becomes **emotional ambition through comparison**—the Root's pressure to rise applied to relational status. While the gate mechanically represents tribal drive for upward mobility, in Sea's shadow it manifests as **envious measurement**: comparing your relationships to theirs, your emotional capacity to another's, your worthiness to external standards. This creates chronic dissatisfaction masked as aspiration.
+Within the House of the Sea, Gate 54's shadow becomes **emotional ambition through comparison**—the Root's pressure to rise applied to relational status. While the gate mechanically represents tribal drive for upward mobility, in Sea's shadow it manifests as **envious measurement**: comparing your relationships to theirs, your emotional capacity to another's, your worthiness to external standards. This creates chronic dissatisfaction masked as aspiration.
 
 Sea requires authenticity—Joy, Gratitude, Compassion, Longing all demand honest feeling. Envy is what emerges when **feeling becomes performance**, when emotional life is curated for comparison rather than lived for truth. This is wanting the marriage that looks happy, the friendship that appears deep, the emotional capacity that seems impressive—without honoring your actual emotional reality.
 
@@ -46,7 +46,7 @@ The biological correspondence to adrenal pressure reveals Envy's mechanism: chro
 ## Gene Keys in House Context
 
 **Shadow: Greed**
-This is Envy's full expression—**insatiable emotional acquisition**, the belief that if you could just have what they have, you would finally be enough. In the House of Sea, greed manifests as **relational consumption**: collecting friends to appear popular, pursuing relationships to prove desirability, performing emotions to seem evolved. This shadow creates hollowness—you have connections but no intimacy, relationships but no depth, emotional display but no authenticity.
+This is Envy's full expression—**insatiable emotional acquisition**, the belief that if you could just have what they have, you would finally be enough. In the House of the Sea, greed manifests as **relational consumption**: collecting friends to appear popular, pursuing relationships to prove desirability, performing emotions to seem evolved. This shadow creates hollowness—you have connections but no intimacy, relationships but no depth, emotional display but no authenticity.
 
 **Gift: Aspiration**
 When Envy shifts from shadow to gift, poisonous comparison transforms into **authentic aspiration**—the capacity to desire growth without diminishing what you already are, to reach toward more without resenting what is. In Sea's context, aspiration means **healthy emotional ambition**: wanting deeper intimacy without devaluing current connections, desiring greater emotional capacity without shaming present limits. This honors both where you are and where you long to grow.
@@ -91,9 +91,9 @@ The antidote to Envy is **Gratitude**—returning to appreciation for your actua
 - [[Gate 54]] - The Marrying Maiden / Drive (Root Center)
 - [[Hexagram 54]] - The Marrying Maiden (I-Ching)
 - [[Gene Keys - Shadow: Greed, Gift: Aspiration, Siddhi: Ascension]]
-- [[Heartbreak]] - Gate 36 shadow in House of Sea
-- [[Rage]] - Gate 6 shadow in House of Sea
-- [[Gratitude]] - Gate 22 in House of Sea (antidote)
-- [[Longing]] - Gate 19 in House of Sea (authentic vs comparative desire)
+- [[Heartbreak]] - Gate 36 shadow in House of the Sea
+- [[Rage]] - Gate 6 shadow in House of the Sea
+- [[Gratitude]] - Gate 22 in House of the Sea (antidote)
+- [[Longing]] - Gate 19 in House of the Sea (authentic vs comparative desire)
 - [[Root Center]] - Pressure and ambition
 - [[Tribal Ego Circuit]] - Status and hierarchical positioning

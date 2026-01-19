@@ -6,7 +6,7 @@ tier: House Card
 gate: 13
 hexagram: 13 (The Fellowship of Man)
 gene_keys: Discord → Discernment → Empathy
-house: House of Sea
+house: House of the Sea
 card_name: Compassion
 aspect: positive
 ---
@@ -35,7 +35,7 @@ The card draws from Gate 13's mechanical function—the G Center's capacity to l
 - **Keynote:** The listener; witness to universal human experience
 - **Biology:** Magnetic monopole, liver, capacity for universal direction
 
-Within the House of Sea, Gate 13 becomes **empathic listening**—the G Center's witness function applied to emotional intimacy. While the gate mechanically represents holding collective stories and recognizing universal patterns, in Sea's domain it manifests as **compassionate presence**: the friend who holds you while you cry, the lover who witnesses your rage without recoiling, the companion who feels your joy without needing it to be about them.
+Within the House of the Sea, Gate 13 becomes **empathic listening**—the G Center's witness function applied to emotional intimacy. While the gate mechanically represents holding collective stories and recognizing universal patterns, in Sea's domain it manifests as **compassionate presence**: the friend who holds you while you cry, the lover who witnesses your rage without recoiling, the companion who feels your joy without needing it to be about them.
 
 Sea's emotional gates create waves of feeling; Gate 13 as Compassion **provides the container**—the stable presence that allows emotional truth to be expressed without judgment. This is listening not to respond but to witness, presence not to fix but to honor.
 
@@ -46,10 +46,10 @@ The biological correspondence to the G Center's magnetic monopole reveals Compas
 ## Gene Keys in House Context
 
 **Shadow: Discord**
-When Compassion collapses into shadow within the House of Sea, it becomes **inability to witness emotional reality**—either through merger (losing boundaries, becoming overwhelmed by others' feelings) or through separation (detaching, refusing empathy to protect self). In Sea's context, discord manifests as **relational fracture**: you cannot hold space for another's pain because it threatens your stability, or you absorb their pain until you lose yourself.
+When Compassion collapses into shadow within the House of the Sea, it becomes **inability to witness emotional reality**—either through merger (losing boundaries, becoming overwhelmed by others' feelings) or through separation (detaching, refusing empathy to protect self). In Sea's context, discord manifests as **relational fracture**: you cannot hold space for another's pain because it threatens your stability, or you absorb their pain until you lose yourself.
 
 **Gift: Discernment**
-The gift frequency of Compassion expresses as **discernment in empathy**—knowing when to feel with, when to witness, when to step back. In the House of Sea, discernment means **emotional boundary wisdom**: you can hold another's grief without taking it on, feel their joy without needing to possess it, listen to their rage without defending against it. This is compassion that serves connection without creating codependence.
+The gift frequency of Compassion expresses as **discernment in empathy**—knowing when to feel with, when to witness, when to step back. In the House of the Sea, discernment means **emotional boundary wisdom**: you can hold another's grief without taking it on, feel their joy without needing to possess it, listen to their rage without defending against it. This is compassion that serves connection without creating codependence.
 
 **Siddhi: Empathy**
 At the transcendent level, Compassion becomes **Empathy**—the recognition that **all feeling is shared, that emotional reality is collective, that your heart and mine are ultimately one**. This is the Siddhi of Gate 13 contextualized in Sea: understanding that separation is illusion, that when I witness your pain I am meeting my own, that compassion is **recognition rather than charity**. In sacred traditions, this is the bodhisattva who weeps for all beings because all beings are self.
@@ -91,9 +91,9 @@ Compassion is the antidote to **Rage** (Gate 6 shadow)—because empathic witnes
 - [[Gate 13]] - The Fellowship of Man / The Listener (G Center)
 - [[Hexagram 13]] - The Fellowship of Man (I-Ching)
 - [[Gene Keys - Shadow: Discord, Gift: Discernment, Siddhi: Empathy]]
-- [[Joy]] - Gate 58 in House of Sea
-- [[Gratitude]] - Gate 22 in House of Sea
-- [[Longing]] - Gate 19 in House of Sea
-- [[Rage]] - Gate 6 shadow in House of Sea (opposite pole)
+- [[Joy]] - Gate 58 in House of the Sea
+- [[Gratitude]] - Gate 22 in House of the Sea
+- [[Longing]] - Gate 19 in House of the Sea
+- [[Rage]] - Gate 6 shadow in House of the Sea (opposite pole)
 - [[G Center]] - Identity and direction through love
 - [[Collective Sharing Circuit]] - Abstract pattern witnessing

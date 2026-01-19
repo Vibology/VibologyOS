@@ -7,7 +7,7 @@ element: None (Material Mastery/Achievement)
 domain: Outer Excellence & Personal Mastery
 ---
 
-# House of Stars
+# House of the Stars
 
 *Mastery Domain - The Striving for Excellence*
 
@@ -15,7 +15,7 @@ domain: Outer Excellence & Personal Mastery
 
 ## House Symbolism & Meaning
 
-The House of Stars represents the **domain of material mastery and outer excellence**—the realm where human capacity strives toward perfection, where achievement becomes visible, where personal greatness is forged through disciplined pursuit of skill. This is not elemental substance but **aspirational trajectory**—the upward movement toward mastery, the drive to excel, the commitment to becoming the best version of what you are capable of being.
+The House of the Stars represents the **domain of material mastery and outer excellence**—the realm where human capacity strives toward perfection, where achievement becomes visible, where personal greatness is forged through disciplined pursuit of skill. This is not elemental substance but **aspirational trajectory**—the upward movement toward mastery, the drive to excel, the commitment to becoming the best version of what you are capable of being.
 
 Stars governs the spectrum from disciplined excellence to prideful inflation, from perseverance that endures to stagnation that calcifies, from visionary drive to resigned defeat. This House asks: **What are you becoming through mastery?** Are you striving toward genuine excellence or performing for external validation? Can you pursue greatness without ego corruption? Can you achieve without losing humility?
 
@@ -31,7 +31,7 @@ Stars does **not correspond to a classical element**. Where Land is earth and Fl
 
 **Cosmic Principle:** Excellence as Path
 
-The House of Stars embodies the principle articulated by Aristotle in *Nicomachean Ethics*: **we become what we repeatedly do; excellence is not an act but a habit**. Mastery emerges through **disciplined practice sustained across time**. The stars teach navigation—orient yourself toward excellence, adjust course through feedback, persist through difficulty.
+The House of the Stars embodies the principle articulated by Aristotle in *Nicomachean Ethics*: **we become what we repeatedly do; excellence is not an act but a habit**. Mastery emerges through **disciplined practice sustained across time**. The stars teach navigation—orient yourself toward excellence, adjust course through feedback, persist through difficulty.
 
 **Temporal Resonance:** Linear Progression (Developmental Arc)
 
@@ -134,7 +134,7 @@ Gate 1 (The Creative) expresses **individual direction that others follow**. Not
 
 ## Divinatory Meaning
 
-**When cards from the House of Stars appear:**
+**When cards from the House of the Stars appear:**
 
 You are being called to **pursue mastery and honor excellence**. This is not the time for emotional processing (Sea), instinctual reaction (Flame), or spiritual introspection (Spirit). The question before you requires **disciplined focus, sustained effort, commitment to becoming better at what you do**. Orient toward the stars. Accept limitation as teacher. Persevere.
 

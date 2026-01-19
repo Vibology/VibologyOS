@@ -6,7 +6,7 @@ tier: House Card
 gate: 6
 hexagram: 6 (Conflict)
 gene_keys: Conflict → Diplomacy → Peace
-house: House of Sea
+house: House of the Sea
 card_name: Rage
 aspect: negative
 ---
@@ -35,7 +35,7 @@ The card draws from Gate 6's shadow frequency—conflict as destructive force ra
 - **Keynote:** Growth cannot exist without friction; emotional diaphragm regulating intimacy
 - **Biology:** Emotional wave, kidneys, emotional chemistry
 
-Within the House of Sea, Gate 6's shadow becomes **friction that destroys rather than deepens**—the Solar Plexus erupting rather than breathing. While the gate mechanically represents the necessary emotional tension in intimacy (the diaphragm that regulates closeness and distance), in shadow it manifests as **rage that obliterates boundaries**: you cannot regulate emotional access, cannot modulate intensity, cannot stop the escalation once it begins.
+Within the House of the Sea, Gate 6's shadow becomes **friction that destroys rather than deepens**—the Solar Plexus erupting rather than breathing. While the gate mechanically represents the necessary emotional tension in intimacy (the diaphragm that regulates closeness and distance), in shadow it manifests as **rage that obliterates boundaries**: you cannot regulate emotional access, cannot modulate intensity, cannot stop the escalation once it begins.
 
 Sea requires emotional honesty—including anger. But Rage is what emerges when anger **loses connection to care**: you are so focused on winning the fight that you forget you love this person, so consumed by fury that you weaponize vulnerability, so caught in emotional reactivity that you destroy what you meant to defend.
 
@@ -46,7 +46,7 @@ The biological correspondence to emotional chemistry reveals Rage's mechanism: a
 ## Gene Keys in House Context
 
 **Shadow: Conflict**
-This is Rage's full expression—**emotional warfare where intimacy becomes battleground**, where friction that could deepen connection instead creates devastation. In the House of Sea, conflict-as-shadow manifests as **inability to fight productively**: you cannot disagree without attacking, cannot assert boundaries without rage, cannot feel anger without making it the other's fault. This shadow creates cycles of explosion and repair that exhaust relationship.
+This is Rage's full expression—**emotional warfare where intimacy becomes battleground**, where friction that could deepen connection instead creates devastation. In the House of the Sea, conflict-as-shadow manifests as **inability to fight productively**: you cannot disagree without attacking, cannot assert boundaries without rage, cannot feel anger without making it the other's fault. This shadow creates cycles of explosion and repair that exhaust relationship.
 
 **Gift: Diplomacy**
 When Rage shifts from shadow to gift, destructive conflict transforms into **diplomatic friction**—the capacity to disagree without destroying, to assert boundaries without attack, to feel anger and channel it into productive confrontation. In Sea's context, diplomacy means **conscious conflict**: you know how to fight in ways that serve relationship rather than shatter it, how to express rage without weaponizing it.
@@ -91,9 +91,9 @@ The path through Rage requires returning to **Compassion**—not abandoning ange
 - [[Gate 06]] - Conflict / Friction (Solar Plexus Center)
 - [[Hexagram 06]] - Conflict (I-Ching)
 - [[Gene Keys - Shadow: Conflict, Gift: Diplomacy, Siddhi: Peace]]
-- [[Heartbreak]] - Gate 36 shadow in House of Sea
-- [[Envy]] - Gate 54 shadow in House of Sea
-- [[Compassion]] - Gate 13 in House of Sea (antidote)
-- [[Longing]] - Gate 19 in House of Sea (underlying need)
+- [[Heartbreak]] - Gate 36 shadow in House of the Sea
+- [[Envy]] - Gate 54 shadow in House of the Sea
+- [[Compassion]] - Gate 13 in House of the Sea (antidote)
+- [[Longing]] - Gate 19 in House of the Sea (underlying need)
 - [[Solar Plexus Center]] - Emotional waves and friction
 - [[Tribal Defense Circuit]] - Boundaries and intimacy

@@ -6,7 +6,7 @@ tier: House Card
 gate: 36
 hexagram: 36 (Darkening of the Light)
 gene_keys: Turbulence → Humanity → Compassion
-house: House of Sea
+house: House of the Sea
 card_name: Heartbreak
 aspect: negative
 ---
@@ -35,7 +35,7 @@ The card draws from Gate 36's shadow frequency—the darkening of the light, emo
 - **Keynote:** The rule of cycles; decline is natural but not enduring; emotional crisis as teacher
 - **Biology:** Solar plexus, nerve plexus, kidneys, emotional chemistry
 
-Within the House of Sea, Gate 36's shadow becomes **crisis of emotional trust**—the Solar Plexus in its darkest valley. While the gate mechanically represents the emotional wave's natural descent and the wisdom gained through crisis, in shadow it manifests as **heartbreak that destroys trust**: you opened, you felt, you loved, and you were devastated. The question becomes whether you will ever risk vulnerability again.
+Within the House of the Sea, Gate 36's shadow becomes **crisis of emotional trust**—the Solar Plexus in its darkest valley. While the gate mechanically represents the emotional wave's natural descent and the wisdom gained through crisis, in shadow it manifests as **heartbreak that destroys trust**: you opened, you felt, you loved, and you were devastated. The question becomes whether you will ever risk vulnerability again.
 
 Sea requires openness—Joy, Gratitude, Compassion, Longing all demand that the heart remain accessible. Heartbreak is what emerges when **that openness is weaponized against you**: the lover who abandons, the friend who betrays, the emotional truth that is mocked or rejected. This is the darkening that makes you want to close forever.
 
@@ -46,7 +46,7 @@ The biological correspondence to emotional chemistry reveals Heartbreak's mechan
 ## Gene Keys in House Context
 
 **Shadow: Turbulence**
-This is Heartbreak's full expression—**emotional chaos born from crisis**, the wave crashing without rhythm, the heart in freefall without ground. In the House of Sea, turbulence manifests as **emotional overwhelm**: you cannot regulate feeling, cannot find stability, cannot trust that the wave will ever crest again. This shadow creates reactive emotional volatility—defending against future heartbreak through preemptive emotional chaos.
+This is Heartbreak's full expression—**emotional chaos born from crisis**, the wave crashing without rhythm, the heart in freefall without ground. In the House of the Sea, turbulence manifests as **emotional overwhelm**: you cannot regulate feeling, cannot find stability, cannot trust that the wave will ever crest again. This shadow creates reactive emotional volatility—defending against future heartbreak through preemptive emotional chaos.
 
 **Gift: Humanity**
 When Heartbreak shifts from shadow to gift, devastation transforms into **shared human experience**—the recognition that everyone who has loved has been broken, that heartbreak is the price of intimacy, that crisis connects rather than isolates. In Sea's context, humanity means **normalizing emotional wound**: your broken heart is not unique failure but universal initiation. This creates compassion born from shared suffering.
@@ -92,9 +92,9 @@ Heartbreak's gift lies in its eventual transformation: the broken heart that rem
 - [[Gate 36]] - Darkening of the Light / Crisis (Solar Plexus Center)
 - [[Hexagram 36]] - Darkening of the Light (I-Ching)
 - [[Gene Keys - Shadow: Turbulence, Gift: Humanity, Siddhi: Compassion]]
-- [[Joy]] - Gate 58 in House of Sea (opposite pole)
-- [[Gratitude]] - Gate 22 in House of Sea (antidote)
-- [[Compassion]] - Gate 13 in House of Sea (Siddhi destination)
-- [[Rage]] - Gate 6 shadow in House of Sea
+- [[Joy]] - Gate 58 in House of the Sea (opposite pole)
+- [[Gratitude]] - Gate 22 in House of the Sea (antidote)
+- [[Compassion]] - Gate 13 in House of the Sea (Siddhi destination)
+- [[Rage]] - Gate 6 shadow in House of the Sea
 - [[Solar Plexus Center]] - Emotional waves and crisis
 - [[Collective Abstract Circuit]] - Experience through emotional depth

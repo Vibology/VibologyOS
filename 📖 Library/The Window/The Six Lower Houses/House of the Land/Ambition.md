@@ -6,7 +6,7 @@ tier: House Card
 gate: 16
 hexagram: 16 (Enthusiasm)
 gene_keys: Indifference → Versatility → Mastery
-house: House of Land
+house: House of the Land
 card_name: Ambition
 aspect: positive
 ---
@@ -35,7 +35,7 @@ The card draws from Gate 16's mechanical function—the Throat's expression of s
 - **Keynote:** Skill and talent through repetitive practice; harmonic channeling of energy
 - **Biology:** Thyroid, parathyroid, metabolism, manifestation
 
-Within the House of Land, Gate 16 becomes the **embodied drive toward physical mastery**. While the gate mechanically represents Throat expression of pattern-based skill development, in Land's domain it manifests as **ambition grounded in material practice**. This is not the ambition of the Stars (achievement, excellence, public recognition) but the quiet determination to **master the craft that feeds you, build the structure that houses you, refine the skill that grounds your place in the material world**.
+Within the House of the Land, Gate 16 becomes the **embodied drive toward physical mastery**. While the gate mechanically represents Throat expression of pattern-based skill development, in Land's domain it manifests as **ambition grounded in material practice**. This is not the ambition of the Stars (achievement, excellence, public recognition) but the quiet determination to **master the craft that feeds you, build the structure that houses you, refine the skill that grounds your place in the material world**.
 
 Land's Spleen gates provide instinctual awareness (Gates 48, 57, 50, 18); Gate 16 in the Throat **channels that awareness into skillful action through disciplined repetition**. Ambition is what emerges when you honor the body's knowing by practicing it into mastery. The apprentice does not intellectually understand the craft—they repeat the movement until the body knows, until skill becomes instinct.
 
@@ -46,10 +46,10 @@ The biological correspondence to thyroid and metabolism reveals Ambition's physi
 ## Gene Keys in House Context
 
 **Shadow: Indifference**
-When Ambition collapses into shadow within the House of Land, it becomes **indifference to mastery**—the refusal to practice, the resistance to repetition, the belief that talent should emerge without effort. This is the person who dabbles but never commits, who starts but never finishes, who expects skill without being willing to do the work. In Land's context, indifference manifests as **abandonment of craft**: tools left to rust, routines discontinued, physical practice neglected because it requires too much dedication.
+When Ambition collapses into shadow within the House of the Land, it becomes **indifference to mastery**—the refusal to practice, the resistance to repetition, the belief that talent should emerge without effort. This is the person who dabbles but never commits, who starts but never finishes, who expects skill without being willing to do the work. In Land's context, indifference manifests as **abandonment of craft**: tools left to rust, routines discontinued, physical practice neglected because it requires too much dedication.
 
 **Gift: Versatility**
-The gift frequency of Ambition expresses as **versatility through dedicated practice**—the capacity to develop multiple skills through patient repetition, to channel enthusiasm into diverse mastery. In the House of Land, versatility means **practical competence across physical domains**: you can build, repair, create, maintain because you have practiced these skills into embodiment. This is not superficial dabbling but **depth through disciplined breadth**—each skill refined through the same commitment to repetitive practice.
+The gift frequency of Ambition expresses as **versatility through dedicated practice**—the capacity to develop multiple skills through patient repetition, to channel enthusiasm into diverse mastery. In the House of the Land, versatility means **practical competence across physical domains**: you can build, repair, create, maintain because you have practiced these skills into embodiment. This is not superficial dabbling but **depth through disciplined breadth**—each skill refined through the same commitment to repetitive practice.
 
 **Siddhi: Mastery**
 At the transcendent level, Ambition becomes **Mastery**—skill so refined, so embodied, so utterly practiced that ego disappears and only the craft remains. This is the Siddhi of Gate 16 contextualized in Land: the master whose hand moves and perfection emerges without thought, whose body has practiced so deeply that skill transcends technique and becomes **pure expression of principle**. In sacred traditions, this is the realized craftsperson whose work is indistinguishable from meditation, whose mastery serves beauty rather than ego.
@@ -93,9 +93,9 @@ Ambition stands in contrast to the negative Land cards, particularly **Fragility
 - [[Gate 16]] - Enthusiasm / Skills (Throat Center)
 - [[Hexagram 16]] - Enthusiasm (I-Ching)
 - [[Gene Keys - Shadow: Indifference, Gift: Versatility, Siddhi: Mastery]]
-- [[Stability]] - Gate 20 in House of Land
-- [[Confidence]] - Gate 8 in House of Land
-- [[Integrity]] - Gate 18 in House of Land
-- [[Fragility]] - Gate 57 shadow in House of Land (opposite pole)
+- [[Stability]] - Gate 20 in House of the Land
+- [[Confidence]] - Gate 8 in House of the Land
+- [[Integrity]] - Gate 18 in House of the Land
+- [[Fragility]] - Gate 57 shadow in House of the Land (opposite pole)
 - [[Collective Logic Circuit]] - Pattern-based skill development
 - [[Throat Center]] - Expression of embodied mastery

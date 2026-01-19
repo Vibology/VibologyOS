@@ -6,7 +6,7 @@ tier: House Card
 gate: 61
 hexagram: 61 (Inner Truth)
 gene_keys: Psychosis → Inspiration → Sanctity
-house: House of Flame
+house: House of the Flame
 card_name: Recklessness
 aspect: negative
 ---
@@ -35,7 +35,7 @@ The card draws from Gate 61's mechanical function—the Head Center's pressure t
 - **Keynote:** Pressure to know the unknowable; inspiration; mystery
 - **Biology:** Pineal gland, mental pressure, inspiration receptors
 
-Within the House of Flame, Gate 61's shadow becomes the **fire ignited by mental torment**. While the gate mechanically represents Head Center pressure to penetrate mystery through inspiration, in Flame's shadow it expresses as **recklessness born from psychosis**. This is the vitality that moves not from knowing but from inability to tolerate not knowing.
+Within the House of the Flame, Gate 61's shadow becomes the **fire ignited by mental torment**. While the gate mechanically represents Head Center pressure to penetrate mystery through inspiration, in Flame's shadow it expresses as **recklessness born from psychosis**. This is the vitality that moves not from knowing but from inability to tolerate not knowing.
 
 Flame governs vital/instinctual action—the body's drive to move. When Gate 61 in the Head creates unbearable mental pressure, Recklessness emerges: **chaotic action attempting to resolve unanswerable questions, movement as escape from existential anxiety**. This is fire that burns because standing still means facing the void.
 
@@ -46,7 +46,7 @@ The biological correspondence to pineal gland and mental pressure reveals Reckle
 ## Gene Keys in House Context
 
 **Shadow: Psychosis**
-In the House of Flame, psychosis manifests as **reckless movement driven by unbearable mental pressure**. This is vitality hijacked by existential anxiety, action generated not from inspiration but from inability to sit with the unknowable. Recklessness is what happens when the Head's pressure to know becomes torture—movement becomes compulsive, risk-taking becomes suicidal, fire burns without direction because **any action feels better than the agony of mystery**.
+In the House of the Flame, psychosis manifests as **reckless movement driven by unbearable mental pressure**. This is vitality hijacked by existential anxiety, action generated not from inspiration but from inability to sit with the unknowable. Recklessness is what happens when the Head's pressure to know becomes torture—movement becomes compulsive, risk-taking becomes suicidal, fire burns without direction because **any action feels better than the agony of mystery**.
 
 **Gift: Inspiration**
 The pathway out of Recklessness leads through **inspiration**—not forced knowing but receptive revelation. In Flame's context, inspiration means allowing mental pressure to build until true knowing arrives, trusting that inner truth will emerge when timing is right. This is the recognition that **premature action born from pressure is recklessness; action born from inspiration is wisdom**.
@@ -65,7 +65,7 @@ Recklessness signals that **mental pressure is generating chaotic action**. You 
 You are caught in **psychotic pressure**—acting not from knowing but from inability to tolerate mystery. The shadow manifests as recklessness disguised as courage: taking risks not because they're meaningful but because stillness forces you to face unanswerable questions. Your vitality has become escape velocity from the void. The result is chaotic action, dangerous risks, movement that looks like adventure but feels like running.
 
 **Gift Aspect:**
-The path forward requires **waiting for inspiration**—allowing mental pressure to build until true inner truth arrives, trusting that revelation has its own timing. In the House of Flame, this means learning to distinguish reckless flight from inspired action. Patience with mystery transforms recklessness back into purposeful movement guided by knowing.
+The path forward requires **waiting for inspiration**—allowing mental pressure to build until true inner truth arrives, trusting that revelation has its own timing. In the House of the Flame, this means learning to distinguish reckless flight from inspired action. Patience with mystery transforms recklessness back into purposeful movement guided by knowing.
 
 **Siddhi/Transcendent Aspect:**
 In its highest healing, Recklessness dissolves into **Sanctity**—the recognition that mystery is not enemy but teacher, that the unknowable is where the sacred lives. This is vitality that moves only when inspired, fire that burns in reverence for what cannot be grasped. Those who heal this shadow become living demonstrations that **true courage means sitting with mystery until inner truth speaks**.
@@ -76,7 +76,7 @@ In its highest healing, Recklessness dissolves into **Sanctity**—the recogniti
 
 Recklessness represents the **negative pole of Flame's mental pressure**: vitality as escape from existential anxiety rather than inspired action, movement as flight from mystery rather than revelation. Where the positive attributes of Flame (Courage, Adventure, Passion, Survival) demonstrate fire guided by wisdom, Recklessness reveals **what happens when Flame is hijacked by psychic torment**.
 
-This card warns against shadow patterns in the House of Flame:
+This card warns against shadow patterns in the House of the Flame:
 - Unlike **Courage** (Gate 21), which acts from justified necessity, Recklessness acts from psychotic pressure
 - Unlike **Adventure** (Gate 28), which struggles meaningfully, Recklessness moves chaotically to escape void
 - Unlike **Passion** (Gate 25), which loves innocently, Recklessness flees from the unknowable
@@ -88,12 +88,12 @@ Together with **Aggression** (Gate 5) and **Violence** (Gate 51), Recklessness f
 
 ## Internal Links
 
-- [[House of Flame]] - The domain of vital/instinctual action and movement
+- [[House of the Flame]] - The domain of vital/instinctual action and movement
 - [[Gate 61]] - Inner Truth / Pressure to Know Mystery (Head Center)
 - [[Hexagram 61]] - Inner Truth (I-Ching)
 - [[Gene Keys - Shadow: Psychosis, Gift: Inspiration, Siddhi: Sanctity]]
 - [[Adventure]] - The positive alternative to Recklessness's chaotic movement
-- [[Aggression]] - Gate 5 shadow in House of Flame
+- [[Aggression]] - Gate 5 shadow in House of the Flame
 - [[The Moon]] - Tarot correspondence to psychic pressure and madness
 - [[Head Center]] - Mental pressure and inspiration
 - [[Knowing Circuit]] - Individual mutation through revelation

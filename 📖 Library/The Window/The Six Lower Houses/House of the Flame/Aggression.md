@@ -6,7 +6,7 @@ tier: House Card
 gate: 5
 hexagram: 5 (Waiting)
 gene_keys: Impatience → Patience → Timelessness
-house: House of Flame
+house: House of the Flame
 card_name: Aggression
 aspect: negative
 ---
@@ -35,7 +35,7 @@ The card draws from Gate 5's mechanical function—the Sacral Center's attunemen
 - **Keynote:** Attunement to natural rhythms; waiting as active state
 - **Biology:** Sacral (ovaries/testes), circadian rhythms, hormonal cycles
 
-Within the House of Flame, Gate 5's shadow becomes the **fire that refuses to wait**. While the gate mechanically represents Sacral attunement to fixed patterns and cycles, in Flame's shadow it expresses as **aggression born from impatience**. This is the vitality that cannot tolerate fertility's timing, the life force that demands immediate response when waiting is required.
+Within the House of the Flame, Gate 5's shadow becomes the **fire that refuses to wait**. While the gate mechanically represents Sacral attunement to fixed patterns and cycles, in Flame's shadow it expresses as **aggression born from impatience**. This is the vitality that cannot tolerate fertility's timing, the life force that demands immediate response when waiting is required.
 
 Flame governs vital/instinctual action—the body's immediate drive. When Gate 5 in the Sacral loses patience, Aggression emerges: **compulsive action that disrupts hormonal cycles, breaks circadian rhythms, forces fertility before the body is ready**. This is fire that consumes the wood before it can regrow.
 
@@ -46,7 +46,7 @@ The biological correspondence to sacral and hormonal cycles reveals Aggression's
 ## Gene Keys in House Context
 
 **Shadow: Impatience**
-In the House of Flame, impatience manifests as **aggressive disruption of natural timing**. This is vitality that cannot tolerate waiting, life force that demands immediate gratification, instinct that overrides wisdom. Aggression is what happens when the Sacral's powerful yes loses attunement to rhythm—action becomes compulsive, movement becomes violent, fire consumes without replenishing.
+In the House of the Flame, impatience manifests as **aggressive disruption of natural timing**. This is vitality that cannot tolerate waiting, life force that demands immediate gratification, instinct that overrides wisdom. Aggression is what happens when the Sacral's powerful yes loses attunement to rhythm—action becomes compulsive, movement becomes violent, fire consumes without replenishing.
 
 **Gift: Patience**
 The pathway out of Aggression leads through **patience**—not passive waiting but active attunement to natural cycles. In Flame's context, patience means trusting the body's rhythms, allowing vitality to build and release according to fixed patterns rather than forced will. This is the recognition that **true power comes from alignment with timing, not from breaking it**.
@@ -65,7 +65,7 @@ Aggression signals that **your vitality has lost rhythm**. You are being warned 
 You are caught in **compulsive impatience**—forcing action when waiting is required, breaking cycles because stillness feels intolerable. The shadow manifests as aggression toward obstacles that are simply natural timing: the body that needs rest, the project that needs gestation, the relationship that needs space. Your vitality has become violence against rhythm itself. The result is burnout, disruption, exhaustion disguised as productivity.
 
 **Gift Aspect:**
-The path forward requires **cultivating patience**—learning to feel natural rhythms again, allowing the Sacral to respond according to fixed patterns rather than forced will. In the House of Flame, this means trusting that vitality returns in cycles, that life force is not diminished by rest but replenished by it. Patience transforms aggression back into sustainable action.
+The path forward requires **cultivating patience**—learning to feel natural rhythms again, allowing the Sacral to respond according to fixed patterns rather than forced will. In the House of the Flame, this means trusting that vitality returns in cycles, that life force is not diminished by rest but replenished by it. Patience transforms aggression back into sustainable action.
 
 **Siddhi/Transcendent Aspect:**
 In its highest healing, Aggression dissolves into **Timelessness**—the recognition that you are not racing against time but moving within eternal rhythms. This is vitality that operates without urgency because it knows the cycles will continue, fire that burns without consuming because it has aligned with cosmic timing. Those who heal this shadow become living demonstrations that **power flows from patience, not from force**.
@@ -76,7 +76,7 @@ In its highest healing, Aggression dissolves into **Timelessness**—the recogni
 
 Aggression represents the **negative pole of Flame's impatience**: vitality as destructive compulsion rather than sustainable rhythm, action as violence against timing rather than alignment with cycles. Where the positive attributes of Flame (Courage, Adventure, Passion, Survival) demonstrate fire in service to life, Aggression reveals **what happens when Flame loses rhythm**.
 
-This card warns against shadow patterns in the House of Flame:
+This card warns against shadow patterns in the House of the Flame:
 - Unlike **Courage** (Gate 21), which enforces boundaries justly, Aggression attacks indiscriminately
 - Unlike **Adventure** (Gate 28), which risks meaningfully, Aggression acts compulsively without purpose
 - Unlike **Passion** (Gate 25), which loves innocently, Aggression demands and consumes
@@ -88,12 +88,12 @@ Together with **Recklessness** (Gate 61) and **Violence** (Gate 51), Aggression 
 
 ## Internal Links
 
-- [[House of Flame]] - The domain of vital/instinctual action and movement
+- [[House of the Flame]] - The domain of vital/instinctual action and movement
 - [[Gate 5]] - Waiting / Fixed Patterns (Sacral Center)
 - [[Hexagram 5]] - Waiting (I-Ching)
 - [[Gene Keys - Shadow: Impatience, Gift: Patience, Siddhi: Timelessness]]
 - [[Courage]] - The positive alternative to Aggression's destructive force
-- [[Recklessness]] - Gate 61 shadow in House of Flame
+- [[Recklessness]] - Gate 61 shadow in House of the Flame
 - [[The Tower]] - Tarot correspondence to violent disruption
 - [[Sacral Center]] - Life force, fertility, and response
 - [[Logic Circuit]] - Collective understanding through patterns

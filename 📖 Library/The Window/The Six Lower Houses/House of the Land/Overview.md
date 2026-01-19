@@ -7,7 +7,7 @@ element: Earth
 domain: Physical/Material Groundedness
 ---
 
-# House of Land
+# House of the Land
 
 *Earth Domain - The Embodied Foundation*
 
@@ -15,7 +15,7 @@ domain: Physical/Material Groundedness
 
 ## House Symbolism & Meaning
 
-The House of Land represents the **earth domain of physical existence**—the realm where consciousness meets matter, where abstract potential becomes grounded reality, where being incarnate requires practical engagement with material form. This is the domain of embodied stability, tangible presence, structural integrity. Land is not metaphor but **literal ground beneath feet**—the domain where you stand, build, and establish foundation.
+The House of the Land represents the **earth domain of physical existence**—the realm where consciousness meets matter, where abstract potential becomes grounded reality, where being incarnate requires practical engagement with material form. This is the domain of embodied stability, tangible presence, structural integrity. Land is not metaphor but **literal ground beneath feet**—the domain where you stand, build, and establish foundation.
 
 Land governs the spectrum from rootedness to rigidity, from confidence born of solid footing to insecurity arising from unstable foundation. This House asks: **Can you trust the ground you stand on?** Can you build structures that endure without calcifying into brittleness? Can you remain embodied without becoming imprisoned by form?
 
@@ -31,7 +31,7 @@ Land corresponds to the classical element of **Earth**—solid, stable, receptiv
 
 **Cosmic Principle:** Manifestation through Form
 
-The House of Land embodies the cosmic principle of **incarnation**—spirit descending into matter, consciousness taking physical shape. This is not the abstraction of ideas (Chronicle) or the excellence of achievement (Stars), but the **raw fact of being in a body**, standing on ground, subject to gravity and material constraints.
+The House of the Land embodies the cosmic principle of **incarnation**—spirit descending into matter, consciousness taking physical shape. This is not the abstraction of ideas (Chronicle) or the excellence of achievement (Stars), but the **raw fact of being in a body**, standing on ground, subject to gravity and material constraints.
 
 **Seasonal Resonance:** Autumn/Late Summer (Harvest, Consolidation)
 
@@ -122,7 +122,7 @@ The five senses, physical pleasure, somatic awareness. Land is where consciousne
 
 ## Divinatory Meaning
 
-**When cards from the House of Land appear:**
+**When cards from the House of the Land appear:**
 
 You are being called to **ground yourself in material reality**. This is not the time for abstract theorizing (Chronicle), emotional processing (Sea), or spiritual transcendence (Spirit). The question before you requires **embodied action, practical discernment, physical presence**. Trust your instincts. Feel what your body knows. Stand on the ground and build from there.
 

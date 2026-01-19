@@ -6,7 +6,7 @@ tier: House Card
 gate: 15
 hexagram: 15 (Modesty)
 gene_keys: Dullness → Magnetism → Florescence
-house: House of Chronicle
+house: House of the Chronicle
 card_name: Love
 aspect: positive
 ---
@@ -35,7 +35,7 @@ The card draws from Gate 15's mechanical function—the G Center's love of human
 - **Keynote:** Love of humanity; balance between extremes
 - **Biology:** Magnetic monopole, identity orientation
 
-Within the House of Chronicle, Gate 15 becomes the **magnetic heart of the inclusive narrative**. While the gate mechanically represents G Center identity through experiencing human diversity, in Chronicle's domain it expresses as **love that embraces all patterns in the story**. This is the compassion that arises from having been everywhere, done everything, understood humanity from within.
+Within the House of the Chronicle, Gate 15 becomes the **magnetic heart of the inclusive narrative**. While the gate mechanically represents G Center identity through experiencing human diversity, in Chronicle's domain it expresses as **love that embraces all patterns in the story**. This is the compassion that arises from having been everywhere, done everything, understood humanity from within.
 
 Chronicle governs metanarrative—the virtues that shape meaning. Gate 15 in the G Center provides the **love that includes all characters in the story**, that recognizes diversity as the narrative's richness. Love is what emerges when the Self has embodied enough extremes to cease judging any pattern.
 
@@ -46,10 +46,10 @@ The biological correspondence to magnetic monopole reveals Love's attractive mec
 ## Gene Keys in House Context
 
 **Shadow: Dullness**
-When Love collapses into shadow within the House of Chronicle, it becomes **flattening of diversity into sameness**—losing the vibrancy of extremes, reducing the narrative to monotony. In Chronicle's context, the dullness shadow manifests as **false unity through exclusion**: claiming to love humanity while rejecting patterns that disturb comfort, creating narratives that erase rather than embrace diversity.
+When Love collapses into shadow within the House of the Chronicle, it becomes **flattening of diversity into sameness**—losing the vibrancy of extremes, reducing the narrative to monotony. In Chronicle's context, the dullness shadow manifests as **false unity through exclusion**: claiming to love humanity while rejecting patterns that disturb comfort, creating narratives that erase rather than embrace diversity.
 
 **Gift: Magnetism**
-The gift frequency of Love expresses as **attractive power through inclusive presence**. This is not manipulation but natural draw—others are magnetized because you contain and accept the full spectrum. In the House of Chronicle, magnetism means your love serves the narrative's diversity—you **include all patterns without flattening them**, creating story that honors human complexity.
+The gift frequency of Love expresses as **attractive power through inclusive presence**. This is not manipulation but natural draw—others are magnetized because you contain and accept the full spectrum. In the House of the Chronicle, magnetism means your love serves the narrative's diversity—you **include all patterns without flattening them**, creating story that honors human complexity.
 
 **Siddhi: Florescence**
 At the transcendent level, Love becomes **Florescence**—the blossoming of all patterns into their fullest expression through unconditional acceptance. This is the Siddhi of Gate 15 contextualized in Chronicle: the individual whose love allows every character in the narrative to flourish, whose acceptance creates conditions for complete diversity.
@@ -81,18 +81,18 @@ This card integrates with the other positive Chronicle cards:
 - **Hope** (Gate 30) fuels Love's compassion with emotional commitment to all characters
 - **Memory** (Gate 11) gives Love the ideational framework to hold all patterns
 
-Together, these four cards form the **healthy expression of the House of Chronicle**: enduring commitment (Faith), sustained desire (Hope), inclusive compassion (Love), and visionary ideals (Memory).
+Together, these four cards form the **healthy expression of the House of the Chronicle**: enduring commitment (Faith), sustained desire (Hope), inclusive compassion (Love), and visionary ideals (Memory).
 
 ---
 
 ## Internal Links
 
-- [[House of Chronicle]] - The domain of metanarrative and meaning-shaping virtues
+- [[House of the Chronicle]] - The domain of metanarrative and meaning-shaping virtues
 - [[Gate 15]] - Modesty / Extremes (G Center)
 - [[Hexagram 15]] - Modesty (I-Ching)
 - [[Gene Keys - Shadow: Dullness, Gift: Magnetism, Siddhi: Florescence]]
-- [[Faith]] - Gate 32 in House of Chronicle
-- [[Hope]] - Gate 30 in House of Chronicle
+- [[Faith]] - Gate 32 in House of the Chronicle
+- [[Hope]] - Gate 30 in House of the Chronicle
 - [[The Lovers]] - Tarot correspondence to choice and inclusive love
 - [[G Center]] - Identity, direction, and love
 - [[Logic Circuit]] - Collective pattern recognition

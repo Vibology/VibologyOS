@@ -6,7 +6,7 @@ tier: House Card
 gate: 48
 hexagram: 48 (The Well)
 gene_keys: Inadequacy → Resourcefulness → Wisdom
-house: House of Land
+house: House of the Land
 card_name: Insecurity
 aspect: negative
 ---
@@ -35,7 +35,7 @@ The card draws from Gate 48's shadow frequency—the fear that depth is inadequa
 - **Keynote:** Depth of resources; fear of inadequacy
 - **Biology:** Lymphatic system, immune depth, resource assessment
 
-Within the House of Land, Gate 48's shadow becomes **somatic insecurity**—the body's fear that it lacks what is required to endure. While the gate mechanically assesses whether collective resources are adequate, in Land's domain the shadow manifests as **chronic self-doubt about physical foundation**: Am I strong enough? Skilled enough? Grounded enough? Do I have the reserves to weather crisis?
+Within the House of the Land, Gate 48's shadow becomes **somatic insecurity**—the body's fear that it lacks what is required to endure. While the gate mechanically assesses whether collective resources are adequate, in Land's domain the shadow manifests as **chronic self-doubt about physical foundation**: Am I strong enough? Skilled enough? Grounded enough? Do I have the reserves to weather crisis?
 
 Land requires trust in foundation. Insecurity is what emerges when that trust collapses—when the Spleen's instinctual assessment shifts from "we have depth" to "we will run dry." This fear can be protective (preventing over-extension) or destructive (creating self-fulfilling prophecy of inadequacy). The difference lies in whether the fear serves discernment or merely feeds anxiety.
 
@@ -46,7 +46,7 @@ The biological correspondence to lymphatic system and immune depth reveals Insec
 ## Gene Keys in House Context
 
 **Shadow: Inadequacy**
-This is Insecurity's full expression—the conviction that **you fundamentally lack what is required**. In the House of Land, inadequacy manifests as material self-doubt: believing your skills are insufficient, your body too weak, your foundation too unstable to support what life demands. This shadow creates paralysis: you do not attempt mastery (Ambition) because you believe depth is lacking; you do not trust stability because you expect collapse; you do not offer contribution (Confidence) because you fear your resources will prove too shallow.
+This is Insecurity's full expression—the conviction that **you fundamentally lack what is required**. In the House of the Land, inadequacy manifests as material self-doubt: believing your skills are insufficient, your body too weak, your foundation too unstable to support what life demands. This shadow creates paralysis: you do not attempt mastery (Ambition) because you believe depth is lacking; you do not trust stability because you expect collapse; you do not offer contribution (Confidence) because you fear your resources will prove too shallow.
 
 **Gift: Resourcefulness**
 When Insecurity shifts from shadow to gift, the fear of inadequacy transforms into **accurate assessment of available resources and creative deployment of what exists**. Resourcefulness does not deny limitation—it works skillfully within constraints. In Land's context, this means recognizing your actual depth (not imagined insufficiency) and **using what you have with intelligence and care**. The resourceful individual knows the well's depth and draws accordingly, neither over-extending nor under-utilizing.
@@ -92,9 +92,9 @@ Insecurity is particularly challenged by **Ambition** (Gate 16)—because master
 - [[Gate 48]] - The Well / Depth (Spleen Center)
 - [[Hexagram 48]] - The Well (I-Ching)
 - [[Gene Keys - Shadow: Inadequacy, Gift: Resourcefulness, Siddhi: Wisdom]]
-- [[Stability]] - Gate 20 in House of Land (opposite pole)
-- [[Confidence]] - Gate 8 in House of Land (opposite pole)
-- [[Ambition]] - Gate 16 in House of Land (antidote through practice)
-- [[Fragility]] - Gate 57 shadow in House of Land
+- [[Stability]] - Gate 20 in House of the Land (opposite pole)
+- [[Confidence]] - Gate 8 in House of the Land (opposite pole)
+- [[Ambition]] - Gate 16 in House of the Land (antidote through practice)
+- [[Fragility]] - Gate 57 shadow in House of the Land
 - [[Spleen Center]] - Instinctual fear and survival awareness
 - [[Collective Logic Circuit]] - Pattern-based resource assessment

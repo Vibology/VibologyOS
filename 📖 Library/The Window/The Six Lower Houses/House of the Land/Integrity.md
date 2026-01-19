@@ -6,7 +6,7 @@ tier: House Card
 gate: 18
 hexagram: 18 (Work on What Has Been Spoilt)
 gene_keys: Judgement → Integrity → Perfection
-house: House of Land
+house: House of the Land
 card_name: Integrity
 aspect: positive
 ---
@@ -35,7 +35,7 @@ The card draws from Gate 18's mechanical function—the Spleen's instinctual awa
 - **Keynote:** Vigilance to uphold integrity; correction of what is spoiled; fear of authority
 - **Biology:** Lymphatic system, immune function, instinctual survival awareness
 
-Within the House of Land, Gate 18 becomes the **instinctual guardian of structural wholeness**. While the gate mechanically represents Splenic awareness of systemic decay, in Land's domain it expresses as **embodied integrity maintenance**. This is the body's immune response applied to all of life: detect what corrupts foundation, work to restore health, maintain structural soundness.
+Within the House of the Land, Gate 18 becomes the **instinctual guardian of structural wholeness**. While the gate mechanically represents Splenic awareness of systemic decay, in Land's domain it expresses as **embodied integrity maintenance**. This is the body's immune response applied to all of life: detect what corrupts foundation, work to restore health, maintain structural soundness.
 
 Land's domain requires **foundation that endures**—and endurance demands vigilance. Integrity (Gate 18) works in partnership with Land's other Spleen gates: where Gate 48 assesses depth of resources, Gate 57 provides survival clarity in the moment, and Gate 50 maintains tribal values, **Gate 18 identifies when any of these have been compromised and initiates corrective action**.
 
@@ -46,10 +46,10 @@ The biological correspondence to lymphatic system and immune function reveals In
 ## Gene Keys in House Context
 
 **Shadow: Judgement**
-When Integrity collapses into shadow within the House of Land, it becomes **harsh judgment without compassion**—the compulsive identification of imperfection that attacks rather than repairs. This is the person whose vigilance becomes criticism, whose correction becomes cruelty, whose fear of authority (the shadow fear of Gate 18) manifests as authoritarian judgment of others. In Land's context, judgmental Integrity manifests as **rigid perfectionism that destroys rather than restores**: tearing down structures because they have flaws, rejecting bodies because they are not ideal, condemning work because it falls short of perfection.
+When Integrity collapses into shadow within the House of the Land, it becomes **harsh judgment without compassion**—the compulsive identification of imperfection that attacks rather than repairs. This is the person whose vigilance becomes criticism, whose correction becomes cruelty, whose fear of authority (the shadow fear of Gate 18) manifests as authoritarian judgment of others. In Land's context, judgmental Integrity manifests as **rigid perfectionism that destroys rather than restores**: tearing down structures because they have flaws, rejecting bodies because they are not ideal, condemning work because it falls short of perfection.
 
 **Gift: Integrity**
-The gift frequency expresses as **discernment that serves wholeness**—the capacity to recognize imperfection without condemnation, to identify corruption without cruelty, to work toward correction with dedication rather than rage. In the House of Land, Integrity means **structural soundness maintained through persistent care**: checking foundation regularly, addressing small decay before it becomes catastrophic failure, upholding standards without becoming tyrannical. This is the craftsperson who maintains their tools, the body-worker who addresses imbalance before it becomes injury, the institution that reforms before revolution becomes necessary.
+The gift frequency expresses as **discernment that serves wholeness**—the capacity to recognize imperfection without condemnation, to identify corruption without cruelty, to work toward correction with dedication rather than rage. In the House of the Land, Integrity means **structural soundness maintained through persistent care**: checking foundation regularly, addressing small decay before it becomes catastrophic failure, upholding standards without becoming tyrannical. This is the craftsperson who maintains their tools, the body-worker who addresses imbalance before it becomes injury, the institution that reforms before revolution becomes necessary.
 
 **Siddhi: Perfection**
 At the transcendent level, Integrity becomes **Perfection**—not the unattainable ideal but the recognition that **everything is already perfect in its process**. This is the Siddhi of Gate 18 contextualized in Land: the understanding that decay serves renewal, that what appears spoiled is actually transformation in motion, that correction itself is sacred work. In sacred traditions, this is the realized teacher who sees that even corruption serves cosmic pattern, that **perfection includes the process of becoming whole**, not just the endpoint.
@@ -93,8 +93,8 @@ Integrity stands in direct opposition to **Corruption** (Gate 50 shadow)—the d
 - [[Gate 18]] - Work on What Has Been Spoilt / Correction (Spleen Center)
 - [[Hexagram 18]] - Work on What Has Been Spoilt (I-Ching)
 - [[Gene Keys - Shadow: Judgement, Gift: Integrity, Siddhi: Perfection]]
-- [[Stability]] - Gate 20 in House of Land
-- [[Confidence]] - Gate 8 in House of Land
-- [[Corruption]] - Gate 50 shadow in House of Land (opposite pole)
+- [[Stability]] - Gate 20 in House of the Land
+- [[Confidence]] - Gate 8 in House of the Land
+- [[Corruption]] - Gate 50 shadow in House of the Land (opposite pole)
 - [[Collective Logic Circuit]] - Pattern-based correction
 - [[Spleen Center]] - Instinctual awareness and immune function

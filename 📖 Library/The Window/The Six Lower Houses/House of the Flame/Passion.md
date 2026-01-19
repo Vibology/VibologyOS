@@ -6,7 +6,7 @@ tier: House Card
 gate: 25
 hexagram: 25 (Innocence)
 gene_keys: Constriction → Acceptance → Universal Love
-house: House of Flame
+house: House of the Flame
 card_name: Passion
 aspect: positive
 ---
@@ -35,7 +35,7 @@ The card draws from Gate 25's mechanical function—the G Center's innocent spir
 - **Keynote:** Innocence; the spirit of the Self; Universal Love
 - **Biology:** Liver, blood, identity at cellular level
 
-Within the House of Flame, Gate 25 becomes the **sacred fire of innocent being**. While the gate mechanically represents the G Center's identity and direction through innocence, in Flame's domain it expresses as **passion through uncontrived vitality**. This is the fire that burns not to consume but to illuminate, the love of existence that requires no object.
+Within the House of the Flame, Gate 25 becomes the **sacred fire of innocent being**. While the gate mechanically represents the G Center's identity and direction through innocence, in Flame's domain it expresses as **passion through uncontrived vitality**. This is the fire that burns not to consume but to illuminate, the love of existence that requires no object.
 
 Flame governs vital/instinctual action—the body's immediate yes to life. Gate 25 in the G Center provides the **identity-level recognition that being is inherently loving**, that vitality itself is sacred. Passion is what emerges when the Self's innocent spirit moves through the body without contrivance or manipulation.
 
@@ -46,10 +46,10 @@ The biological correspondence to liver and blood reveals Passion's life-force fo
 ## Gene Keys in House Context
 
 **Shadow: Constriction**
-When Passion collapses into shadow within the House of Flame, it becomes **constricted vitality**—life force squeezed into narrow channels of acceptable expression, innocence lost to conditioning that demands love have reasons. This is the spirit strangled by should, the Self's fire dampened by fear of being too much or not enough. In Flame's context, constriction manifests as **passion that has forgotten its innocence**: desire that calculates, love that negotiates, vitality that apologizes for existing.
+When Passion collapses into shadow within the House of the Flame, it becomes **constricted vitality**—life force squeezed into narrow channels of acceptable expression, innocence lost to conditioning that demands love have reasons. This is the spirit strangled by should, the Self's fire dampened by fear of being too much or not enough. In Flame's context, constriction manifests as **passion that has forgotten its innocence**: desire that calculates, love that negotiates, vitality that apologizes for existing.
 
 **Gift: Acceptance**
-The gift frequency of Passion expresses as **radical acceptance of existence as it is**. This is not passive resignation but the active recognition that life does not need improvement to be loved. In the House of Flame, acceptance means your vitality flows freely because you have stopped demanding life conform to expectations—you **love being alive without conditions**. This is passion that empowers through uncontrived presence.
+The gift frequency of Passion expresses as **radical acceptance of existence as it is**. This is not passive resignation but the active recognition that life does not need improvement to be loved. In the House of the Flame, acceptance means your vitality flows freely because you have stopped demanding life conform to expectations—you **love being alive without conditions**. This is passion that empowers through uncontrived presence.
 
 **Siddhi: Universal Love**
 At the transcendent level, Passion becomes **Universal Love**—the spirit's recognition that all existence is inherently sacred, that separation is illusion. This is the Siddhi of Gate 25 contextualized in Flame: the individual whose innocent vitality has expanded to embrace all of life, whose passion is no longer personal but cosmic. In sacred traditions, this is the saint whose love requires no object because they have become love itself.
@@ -81,7 +81,7 @@ This card integrates with the other positive Flame cards:
 - **Adventure** (Gate 28) channels Passion's innocent love into meaningful struggle
 - **Survival** (Gate 26) grounds Passion in the wisdom of what sustains life across time
 
-Together, these four cards form the **healthy expression of the House of Flame**: justified action (Courage), meaningful risk (Adventure), innocent vitality (Passion), and strategic sustainability (Survival).
+Together, these four cards form the **healthy expression of the House of the Flame**: justified action (Courage), meaningful risk (Adventure), innocent vitality (Passion), and strategic sustainability (Survival).
 
 The negative cards (Aggression, Recklessness, Violence) show what emerges when Flame's fire becomes constricted or corrupted. Passion is the antidote—**the return to innocent aliveness** that allows instinctual vitality to express as love rather than destruction.
 
@@ -89,12 +89,12 @@ The negative cards (Aggression, Recklessness, Violence) show what emerges when F
 
 ## Internal Links
 
-- [[House of Flame]] - The domain of vital/instinctual action and movement
+- [[House of the Flame]] - The domain of vital/instinctual action and movement
 - [[Gate 25]] - Innocence / The Spirit of the Self (G Center)
 - [[Hexagram 25]] - Innocence (I-Ching)
 - [[Gene Keys - Shadow: Constriction, Gift: Acceptance, Siddhi: Universal Love]]
-- [[Courage]] - Gate 21 in House of Flame
-- [[Adventure]] - Gate 28 in House of Flame
+- [[Courage]] - Gate 21 in House of the Flame
+- [[Adventure]] - Gate 28 in House of the Flame
 - [[The Sun]] - Tarot correspondence to innocent vitality and life force
 - [[G Center]] - Identity, love, and direction in life
 - [[Centering Circuit]] - Individual empowerment through authentic being

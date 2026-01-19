@@ -3,9 +3,6 @@ tags: [vibology, navigation, start]
 date_created: 2026-01-08
 date_updated: 2026-01-18
 ---
-
-# The Vibology Library
-
 *You stand at the threshold of seven wisdom traditions, woven into one.*
 
 ---

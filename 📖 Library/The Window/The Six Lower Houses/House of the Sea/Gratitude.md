@@ -6,7 +6,7 @@ tier: House Card
 gate: 22
 hexagram: 22 (Grace)
 gene_keys: Dishonour → Graciousness → Grace
-house: House of Sea
+house: House of the Sea
 card_name: Gratitude
 aspect: positive
 ---
@@ -35,7 +35,7 @@ The card draws from Gate 22's mechanical function—the Solar Plexus capacity fo
 - **Keynote:** Grace; quality of behavior suited to handling mundane situations; emotional spirit
 - **Biology:** Kidneys, pancreas, nervous system, emotional waves
 
-Within the House of Sea, Gate 22 becomes **gratitude for emotional receptivity**—the Solar Plexus's openness honored as sacred capacity. While the gate mechanically represents emotional listening and social grace, in Sea's domain it manifests as **appreciation for being moved**: gratitude that beauty can break you open, that grief can humble you, that love can terrify you. This is recognizing that the capacity to feel is not curse but blessing.
+Within the House of the Sea, Gate 22 becomes **gratitude for emotional receptivity**—the Solar Plexus's openness honored as sacred capacity. While the gate mechanically represents emotional listening and social grace, in Sea's domain it manifests as **appreciation for being moved**: gratitude that beauty can break you open, that grief can humble you, that love can terrify you. This is recognizing that the capacity to feel is not curse but blessing.
 
 Sea's other emotional gates (36, 6) can manifest as crisis and friction; Gate 22 as Gratitude **transforms suffering into appreciation**—not denying pain but honoring the sensitivity that allows both pain and joy to be felt. This is the emotional openness that listens without needing to fix, that witnesses without defense, grateful simply for the capacity to be present.
 
@@ -46,10 +46,10 @@ The biological correspondence to kidneys reveals Gratitude's mechanism: kidneys 
 ## Gene Keys in House Context
 
 **Shadow: Dishonour**
-When Gratitude collapses into shadow within the House of Sea, it becomes **dishonoring of emotional sensitivity**—treating the capacity to feel as weakness, shame, or burden. This is the person who apologizes for crying, who hides emotional openness, who views vulnerability as failure. In Sea's context, dishonor manifests as **betrayal of the heart**: numbing sensitivity through cynicism, protecting against feeling through performative toughness, sacrificing emotional truth for social acceptance.
+When Gratitude collapses into shadow within the House of the Sea, it becomes **dishonoring of emotional sensitivity**—treating the capacity to feel as weakness, shame, or burden. This is the person who apologizes for crying, who hides emotional openness, who views vulnerability as failure. In Sea's context, dishonor manifests as **betrayal of the heart**: numbing sensitivity through cynicism, protecting against feeling through performative toughness, sacrificing emotional truth for social acceptance.
 
 **Gift: Graciousness**
-The gift frequency of Gratitude expresses as **graciousness toward emotional reality**—the capacity to meet feeling with kindness rather than judgment, to be gentle with your own heart and the hearts of others. In the House of Sea, graciousness means **honoring emotional sensitivity**: treating tears as sacred, vulnerability as courage, the broken-open heart as beauty. This is grace extended inward and outward—being emotionally present without cruelty toward self or other.
+The gift frequency of Gratitude expresses as **graciousness toward emotional reality**—the capacity to meet feeling with kindness rather than judgment, to be gentle with your own heart and the hearts of others. In the House of the Sea, graciousness means **honoring emotional sensitivity**: treating tears as sacred, vulnerability as courage, the broken-open heart as beauty. This is grace extended inward and outward—being emotionally present without cruelty toward self or other.
 
 **Siddhi: Grace**
 At the transcendent level, Gratitude becomes **Grace**—the recognition that **emotional openness is divine gift**, that the capacity to be moved by beauty and broken by loss is what makes consciousness sacred. This is the Siddhi of Gate 22 contextualized in Sea: understanding that feeling is how the universe experiences itself, that your tears are cosmos weeping, your joy is existence celebrating. Grace knows that emotional sensitivity is not weakness but **participation in cosmic feeling**.
@@ -88,8 +88,8 @@ Gratitude is the antidote to **Envy** (Gate 54 shadow)—because when you apprec
 - [[Gate 22]] - Grace / Openness (Solar Plexus Center)
 - [[Hexagram 22]] - Grace (I-Ching)
 - [[Gene Keys - Shadow: Dishonour, Gift: Graciousness, Siddhi: Grace]]
-- [[Joy]] - Gate 58 in House of Sea
-- [[Compassion]] - Gate 13 in House of Sea
-- [[Envy]] - Gate 54 shadow in House of Sea (opposite pole)
+- [[Joy]] - Gate 58 in House of the Sea
+- [[Compassion]] - Gate 13 in House of the Sea
+- [[Envy]] - Gate 54 shadow in House of the Sea (opposite pole)
 - [[Solar Plexus Center]] - Emotional awareness and spirit
 - [[Individual Knowing Circuit]] - Mutative emotional expression

@@ -7,7 +7,7 @@ element: Water
 domain: Emotional/Relational Depth
 ---
 
-# House of Sea
+# House of the Sea
 
 *Water Domain - The Emotional Depths*
 
@@ -15,7 +15,7 @@ domain: Emotional/Relational Depth
 
 ## House Symbolism & Meaning
 
-The House of Sea represents the **water domain of emotional reality**—the realm where feelings ebb and flow, where relational depth requires vulnerability, where the heart opens or closes in response to encounter. This is the domain of **emotional honesty, relational intimacy, affective authenticity**. Sea is not sentiment but **depth of feeling**—the capacity to be moved, touched, broken open by encounter with other.
+The House of the Sea represents the **water domain of emotional reality**—the realm where feelings ebb and flow, where relational depth requires vulnerability, where the heart opens or closes in response to encounter. This is the domain of **emotional honesty, relational intimacy, affective authenticity**. Sea is not sentiment but **depth of feeling**—the capacity to be moved, touched, broken open by encounter with other.
 
 Sea governs the spectrum from joy to heartbreak, from gratitude that overflows to envy that corrodes, from compassionate longing to rageful grief. This House asks: **Can you feel deeply without drowning?** Can you open your heart knowing it may shatter? Can you honor emotional truth without being swept away by every wave?
 
@@ -31,7 +31,7 @@ Sea corresponds to the classical element of **Water**—fluid, mutable, emotiona
 
 **Cosmic Principle:** Relationship as Consciousness
 
-The House of Sea embodies the cosmic principle of **I-Thou encounter**—the recognition that consciousness awakens through meeting the other. Martin Buber's teaching actualized: we become fully human not in isolation but through **genuine relational presence**. The heart is where self meets world and both are transformed.
+The House of the Sea embodies the cosmic principle of **I-Thou encounter**—the recognition that consciousness awakens through meeting the other. Martin Buber's teaching actualized: we become fully human not in isolation but through **genuine relational presence**. The heart is where self meets world and both are transformed.
 
 **Seasonal Resonance:** Winter (Depth, Interiority, Emotional Gestation)
 
@@ -125,7 +125,7 @@ The domain where emotional wounds are held and processed. Gate 36's darkening te
 
 ## Divinatory Meaning
 
-**When cards from the House of Sea appear:**
+**When cards from the House of the Sea appear:**
 
 You are being called into **emotional depth and relational vulnerability**. This is not the time for practical groundedness (Land), instinctual action (Flame), or intellectual narrative (Chronicle). The question before you requires **feeling, not thinking**. Open your heart. Allow yourself to be moved. Honor the emotional truth beneath surface appearances.
 

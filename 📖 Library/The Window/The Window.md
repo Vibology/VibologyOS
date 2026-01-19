@@ -19,7 +19,7 @@ The Window bridges **[[Human Design]]'s mechanical precision**, **[[I-Ching]]'s 
 
 The Window's architecture consists of **three parallel categorical domains**—not hierarchical stages but equal categorical realms where cards exist:
 
-### 1. The Twelve Archetypes (WHO) - The Actors
+### 1. The Twelve Archetypes - The Actors
 
 **12 cards** representing psychological roles/personas embodied through 1980s pop culture icons:
 
@@ -38,7 +38,7 @@ The Window's architecture consists of **three parallel categorical domains**—n
 
 Each Archetype synthesizes: zodiac sign, Human Design gate, I-Ching hexagram, Gene Keys transformation, and 1980s cultural icon into coherent archetypal resonance.
 
-### 2. The Ten Portals (HOW) - The Catalysts
+### 2. The Ten Portals - The Catalysts
 
 **10 cards** representing catalytic life events, rites of passage, and transformative crises:
 
@@ -55,7 +55,7 @@ Each Archetype synthesizes: zodiac sign, Human Design gate, I-Ching hexagram, Ge
 
 Each Portal represents seismic transformation moments—initiations, upheavals, revelations, completions—that force evolution through crisis.
 
-### 3. The Six Houses (WHERE/WHAT) - The Domains
+### 3. The Six Houses  - The Domains
 
 **6 parallel domains** of human experience governing the 42 House cards:
 
@@ -71,17 +71,18 @@ Each Portal represents seismic transformation moments—initiations, upheavals, 
 
 Each House contains 7 cards mapping specific gates to that domain's spectrum of experience (positive virtues ↔ shadow expressions).
 
-### 4. The 42 House Cards - The Integration Layer
-
-**42 cards** representing the remaining gates contextualized within their specific House domains. Each card illuminates one aspect of its House's duality:
-
-**Examples:**
-- **Stability** (Land/Gate 20) - Grounded present-moment awareness
-- **Joy** (Sea/Gate 58) - Vitality born of emotional engagement
-- **Courage** (Flame/Gate 21) - Willingness to act despite fear
-- **Faith** (Chronicle/Gate 32) - Trust in meaning across time
-- **Awareness** (Spirit/Gate 64) - Consciousness recognizing itself
-- **Excellence** (Stars/Gate 14) - Material mastery through disciplined practice
+> [!INFO]
+> #### The 42 House Cards - The Integration Layer
+> 
+> **42 cards** representing the remaining gates contextualized within their specific House domains. Each card illuminates one aspect of its House's duality:
+> 
+> **Examples:**
+> - **Stability** (Land/Gate 20) - Grounded present-moment awareness
+> - **Joy** (Sea/Gate 58) - Vitality born of emotional engagement
+> - **Courage** (Flame/Gate 21) - Willingness to act despite fear
+> - **Faith** (Chronicle/Gate 32) - Trust in meaning across time
+> - **Awareness** (Spirit/Gate 64) - Consciousness recognizing itself
+> - **Excellence** (Stars/Gate 14) - Material mastery through disciplined practice
 
 ---
 ## The Complete 64-Card System

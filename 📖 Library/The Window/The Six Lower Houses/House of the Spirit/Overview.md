@@ -7,7 +7,7 @@ element: None (Consciousness/Soul)
 domain: Inner Divinity & Psychospiritual Health
 ---
 
-# House of Spirit
+# House of the Spirit
 
 *Soul Domain - Consciousness Integrity*
 
@@ -15,7 +15,7 @@ domain: Inner Divinity & Psychospiritual Health
 
 ## House Symbolism & Meaning
 
-The House of Spirit represents the **domain of consciousness itself**—the realm where awareness becomes aware of itself, where soul health determines all other health, where inner divinity either shines or dims. This is not elemental matter but **psychospiritual substance**—the quality of consciousness, the integrity of the inner witness, the moral core that precedes all action.
+The House of the Spirit represents the **domain of consciousness itself**—the realm where awareness becomes aware of itself, where soul health determines all other health, where inner divinity either shines or dims. This is not elemental matter but **psychospiritual substance**—the quality of consciousness, the integrity of the inner witness, the moral core that precedes all action.
 
 Spirit governs the spectrum from lucid awareness to apathetic unconsciousness, from humble service to malevolent domination, from aligned will to ego's tyranny. This House asks: **How is your soul?** Not what you do or feel or think, but **who is doing, feeling, thinking**? Is consciousness clear or clouded? Is the inner witness present or asleep? Is divinity honored or violated?
 
@@ -31,7 +31,7 @@ Spirit does **not correspond to a classical element**. Where Land is earth and S
 
 **Cosmic Principle:** Consciousness as Primary Reality
 
-The House of Spirit embodies the principle articulated across contemplative traditions: **consciousness is not produced by matter but is the ground of being**. The Hindu "Atman is Brahman," the Buddhist "rigpa" (primordial awareness), the Hermetic "nous," the Quaker "inner light"—all point to Spirit's teaching that **the soul is divine, and soul health is the foundation of all other health**.
+The House of the Spirit embodies the principle articulated across contemplative traditions: **consciousness is not produced by matter but is the ground of being**. The Hindu "Atman is Brahman," the Buddhist "rigpa" (primordial awareness), the Hermetic "nous," the Quaker "inner light"—all point to Spirit's teaching that **the soul is divine, and soul health is the foundation of all other health**.
 
 **Temporal Resonance:** Eternal Present (Beyond Time)
 
@@ -135,7 +135,7 @@ Gates 2, 7, and 45 all govern **leading from soul integrity**. Not leadership as
 
 ## Divinatory Meaning
 
-**When cards from the House of Spirit appear:**
+**When cards from the House of the Spirit appear:**
 
 You are being called to **examine the state of your soul**. This is not the time for external action (Flame), emotional processing (Sea), or practical building (Land). The question before you concerns **consciousness itself**: Is your awareness clear? Is your inner witness present? Is your will aligned with higher purpose or corrupted by ego?
 

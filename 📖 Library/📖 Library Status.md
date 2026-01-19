@@ -3,9 +3,6 @@ tags: [vibology, system, maintenance]
 date_created: 2026-01-18
 date_updated: 2026-01-18
 ---
-
-# Library Status
-
 *Maintenance tracking for the Vibology Library*
 
 ---

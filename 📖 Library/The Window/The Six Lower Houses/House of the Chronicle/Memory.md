@@ -6,7 +6,7 @@ tier: House Card
 gate: 11
 hexagram: 11 (Peace)
 gene_keys: Obscurity → Idealism → Light
-house: House of Chronicle
+house: House of the Chronicle
 card_name: Memory
 aspect: positive
 ---
@@ -35,7 +35,7 @@ The card draws from Gate 11's mechanical function—the Ajna Center's mind full 
 - **Keynote:** Ideas seeking expression; mental peace through ideation
 - **Biology:** Mental processing, conceptual frameworks
 
-Within the House of Chronicle, Gate 11 becomes the **ideational framework of the narrative**. While the gate mechanically represents Ajna's capacity to generate ideas, in Chronicle's domain it expresses as **memory that preserves the story's meaning**. This is the mental peace that comes from holding the concepts that give narrative coherence.
+Within the House of the Chronicle, Gate 11 becomes the **ideational framework of the narrative**. While the gate mechanically represents Ajna's capacity to generate ideas, in Chronicle's domain it expresses as **memory that preserves the story's meaning**. This is the mental peace that comes from holding the concepts that give narrative coherence.
 
 Chronicle governs metanarrative—the virtues and ideas that shape meaning. Gate 11 in the Ajna provides the **conceptual content of the story**, the ideas that allow it to be remembered and transmitted. Memory is what emerges when ideation serves the narrative's continuity rather than personal expression.
 
@@ -46,10 +46,10 @@ The biological correspondence to mental processing reveals Memory's cognitive me
 ## Gene Keys in House Context
 
 **Shadow: Obscurity**
-When Memory collapses into shadow within the House of Chronicle, it becomes **confusion that fragments the narrative**—ideas so complex or esoteric they obscure rather than illuminate, concepts that make the story incomprehensible. In Chronicle's context, the obscurity shadow manifests as **narrative lost to abstraction**: ideas that prevent remembering, frameworks so complex they destroy coherence, memory that confuses rather than preserves.
+When Memory collapses into shadow within the House of the Chronicle, it becomes **confusion that fragments the narrative**—ideas so complex or esoteric they obscure rather than illuminate, concepts that make the story incomprehensible. In Chronicle's context, the obscurity shadow manifests as **narrative lost to abstraction**: ideas that prevent remembering, frameworks so complex they destroy coherence, memory that confuses rather than preserves.
 
 **Gift: Idealism**
-The gift frequency of Memory expresses as **clarifying vision that shapes the narrative**. This is not fantasy but ideational clarity—concepts that illuminate the story's meaning, frameworks that make it memorable. In the House of Chronicle, idealism means your ideas serve the narrative's coherence—you **hold concepts that give the story structure**, making it possible to remember and retell.
+The gift frequency of Memory expresses as **clarifying vision that shapes the narrative**. This is not fantasy but ideational clarity—concepts that illuminate the story's meaning, frameworks that make it memorable. In the House of the Chronicle, idealism means your ideas serve the narrative's coherence—you **hold concepts that give the story structure**, making it possible to remember and retell.
 
 **Siddhi: Light**
 At the transcendent level, Memory becomes **Light**—the illumination that allows the narrative to be seen, understood, and transmitted across all darkness. This is the Siddhi of Gate 11 contextualized in Chronicle: the individual whose ideas become so clear they illuminate the entire story, whose memory serves as beacon for collective understanding.
@@ -81,18 +81,18 @@ This card integrates with the other positive Chronicle cards:
 - **Hope** (Gate 30) fuels Memory's idealism with emotional commitment
 - **Love** (Gate 15) ensures Memory's concepts include all human patterns
 
-Together, these four cards form the **healthy expression of the House of Chronicle**: enduring commitment (Faith), sustained desire (Hope), inclusive compassion (Love), and visionary ideals (Memory).
+Together, these four cards form the **healthy expression of the House of the Chronicle**: enduring commitment (Faith), sustained desire (Hope), inclusive compassion (Love), and visionary ideals (Memory).
 
 ---
 
 ## Internal Links
 
-- [[House of Chronicle]] - The domain of metanarrative and meaning-shaping virtues
+- [[House of the Chronicle]] - The domain of metanarrative and meaning-shaping virtues
 - [[Gate 11]] - Peace / Ideas (Ajna Center)
 - [[Hexagram 11]] - Peace (I-Ching)
 - [[Gene Keys - Shadow: Obscurity, Gift: Idealism, Siddhi: Light]]
-- [[Faith]] - Gate 32 in House of Chronicle
-- [[Hope]] - Gate 30 in House of Chronicle
+- [[Faith]] - Gate 32 in House of the Chronicle
+- [[Hope]] - Gate 30 in House of the Chronicle
 - [[The High Priestess]] - Tarot correspondence to memory and esoteric knowledge
 - [[Ajna Center]] - Mental awareness and conceptualization
 - [[Knowing Circuit]] - Individual mutation through inspiration
