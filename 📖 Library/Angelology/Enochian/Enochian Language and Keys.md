@@ -184,15 +184,135 @@ The **Keys** are invocations in the Enochian language used to:
 
 ---
 
-### The Watchtower Keys (22-27, 29-30)
+### Complete Listing of All 48 Enochian Keys
 
-Each of these Keys invokes a specific **sub-angle** of a Watchtower:
+**Keys 1-2: General Invocations (Full texts provided above)**
 
-**Example (Key 22, invoking Air Watchtower sub-angle):**
+| Key | Function | Opens/Invokes |
+|-----|----------|---------------|
+| **1** | Establishes divine authority, cosmic alignment | General invocation, prepares sacred space |
+| **2** | Invokes second-tier intelligences, opens consciousness | Angelic hierarchies, receptivity to revelation |
 
-*O you heavens which dwell in the East (Air), you are mighty in the parts of the earth...*
+**Keys 3-18: The Aethyr-Opening Keys**
 
-**Function:** Calls the specific elemental force, its King, Seniors, and lesser angels
+Each Key from 3-18 opens **two or three Aethyrs** in descending order (30 down to 1):
+
+| Key | Function | Opens Aethyrs |
+|-----|----------|---------------|
+| **3** | Opens the outermost Aethyrs | TEX (30), RII (29), BAG (28) |
+| **4** | Opens material-lunar Aethyrs | ZAA (27), DES (26), VTI (25) |
+| **5** | Opens astral-intellectual Aethyrs | NIA (24), TOR (23), LIN (22) |
+| **6** | Opens emotional-aesthetic Aethyrs | ASP (21), KHR (20), POP (19) |
+| **7** | Opens solar-integration Aethyrs | ZEN (18), TAN (17), LEA (16) |
+| **8** | Opens severity Aethyrs | OXO (15), VTA (14), ZIM (13) |
+| **9** | Opens mercy-expansion Aethyrs | LOE (12), ICH (11) |
+| **10** | Opens the Abyss and approaches Binah | ZAX (10), ZIP (9) |
+| **11** | Opens Understanding Aethyrs | ZID (8), DEO (7) |
+| **12** | Opens Wisdom Aethyrs | MAZ (6), LIT (5) |
+| **13** | Opens threshold of Kether | PAZ (4) |
+| **14** | Opens approach to Crown | ZOM (3) |
+| **15** | Opens near-unity Aethyrs | ARN (2) |
+| **16** | Opens the innermost Aethyr | LIL (1) — the throne of God |
+| **17** | Opens specific Aethyr (variation) | Used with 16th for LIL |
+| **18** | Final Aethyr Key (variation) | Completes the sequence |
+
+**Note:** Keys 3-18 follow a formulaic pattern, substituting the appropriate Aethyr names. The specific Enochian text varies only in the Aethyr names invoked.
+
+**Key 19: The Universal Aethyr Call (Full text provided above)**
+
+| Key | Function | Usage |
+|-----|----------|-------|
+| **19** | Universal Aethyr invocation | Insert any Aethyr name to open that specific Aethyr (most commonly used) |
+
+**Keys 20-21, 28: Reserved, Lost, or Unpublished**
+
+| Key | Status |
+|-----|--------|
+| **20** | Not revealed or lost in transmission |
+| **21** | Not revealed or lost in transmission |
+| **28** | Not revealed or lost in transmission |
+
+**Keys 22-27, 29-30: The Watchtower Directional Keys**
+
+These Keys invoke the **four cardinal directions** and their elemental Watchtowers:
+
+| Key | Direction | Element | Watchtower King | Function |
+|-----|-----------|---------|-----------------|----------|
+| **22** | **East** | Air | Bataivah | Invokes Air Watchtower, intellectual forces, communication |
+| **23** | **East** | Air | Bataivah | Variant Air invocation, different sub-angle |
+| **24** | **South** | Fire | Edlprna | Invokes Fire Watchtower, will, creative power |
+| **25** | **South** | Fire | Edlprna | Variant Fire invocation, different sub-angle |
+| **26** | **West** | Water | Raagiosl | Invokes Water Watchtower, emotion, intuition |
+| **27** | **West** | Water | Raagiosl | Variant Water invocation, different sub-angle |
+| **29** | **North** | Earth | Iczhhcal | Invokes Earth Watchtower, manifestation, grounding |
+| **30** | **North** | Earth | Iczhhcal | Variant Earth invocation, different sub-angle |
+
+**Keys 31-48: The Sub-Angle Keys (Servient Squares)**
+
+These 18 Keys govern the **16 sub-angles** of the four Watchtowers (four sub-angles per Watchtower × four Watchtowers = 16, with variations). Each Key invokes a specific sub-angle containing Kerubic angels, Servient angels, and elemental combinations.
+
+**Air Watchtower Sub-Angles (Keys 31-34):**
+
+| Key | Sub-Angle | Element of Element | Tarot Correspondence | Function |
+|-----|-----------|--------------------|-----------------------|----------|
+| **31** | NE (Upper Right) | Air of Air | King of Swords | Pure intellect, abstract thought |
+| **32** | SE (Lower Right) | Water of Air | Queen of Swords | Emotional intelligence, empathy in communication |
+| **33** | SW (Lower Left) | Fire of Air | Prince of Swords | Passionate speech, inspired rhetoric |
+| **34** | NW (Upper Left) | Earth of Air | Princess of Swords | Practical ideas, grounded communication |
+
+**Water Watchtower Sub-Angles (Keys 35-38):**
+
+| Key | Sub-Angle | Element of Element | Tarot Correspondence | Function |
+|-----|-----------|--------------------|-----------------------|----------|
+| **35** | NE | Air of Water | King of Cups | Intellectual understanding of emotion |
+| **36** | SE | Water of Water | Queen of Cups | Pure feeling, oceanic consciousness |
+| **37** | SW | Fire of Water | Prince of Cups | Passionate emotion, catharsis |
+| **38** | NW | Earth of Water | Princess of Cups | Embodied feeling, grounded empathy |
+
+**Fire Watchtower Sub-Angles (Keys 39-42):**
+
+| Key | Sub-Angle | Element of Element | Tarot Correspondence | Function |
+|-----|-----------|--------------------|-----------------------|----------|
+| **39** | NE | Air of Fire | King of Wands | Lightning, inspired thought |
+| **40** | SE | Water of Fire | Queen of Wands | Passion, desire, molten emotion |
+| **41** | SW | Fire of Fire | Prince of Wands | Pure will, combustion, creative explosion |
+| **42** | NW | Earth of Fire | Princess of Wands | Lava, grounded will, physical strength |
+
+**Earth Watchtower Sub-Angles (Keys 43-46):**
+
+| Key | Sub-Angle | Element of Element | Tarot Correspondence | Function |
+|-----|-----------|--------------------|-----------------------|----------|
+| **43** | NE | Air of Earth | King of Pentacles | Dust, breath of mountains, aerial earth |
+| **44** | SE | Water of Earth | Queen of Pentacles | Mud, swamps, fertility |
+| **45** | SW | Fire of Earth | Prince of Pentacles | Magma, volcanic force, transformation |
+| **46** | NW | Earth of Earth | Princess of Pentacles | Pure solidity, stone, crystals, foundation |
+
+**Keys 47-48: Additional Sub-Angle Variations**
+
+| Key | Function |
+|-----|----------|
+| **47** | Variant sub-angle invocation (specific usage varies by tradition) |
+| **48** | Final sub-angle invocation, completes the Watchtower system |
+
+**Note:** Keys 31-48 follow a formulaic structure, varying only in the specific angelic names, directional attributions, and elemental combinations invoked. Full texts of all sub-angle Keys follow the same pattern as the directional Keys (22-27, 29-30) but with sub-angle-specific angelic names derived from the Watchtower tablets.
+
+### Practical Use of the Keys
+
+**Most Commonly Used:**
+- **Key 1** — Opening any Enochian working
+- **Key 19** — Scrying the 30 Aethyrs (insert desired Aethyr name)
+- **Keys 22-27, 29-30** — Invoking Watchtower elemental forces
+- **Keys 2, 3-18** — Less frequently used in modern practice
+
+**Rarely Used:**
+- **Keys 31-48** — Advanced Watchtower sub-angle work (most practitioners invoke the Watchtowers as wholes rather than individual sub-angles)
+
+**General Formula:**
+All Keys follow a similar structure:
+1. **Invocation of divine authority** (references to God, cosmic order)
+2. **Statement of purpose** (what is being opened or invoked)
+3. **Command to appear** (ZACAR, ZAMRAN — "Move therefore, show yourselves")
+4. **Affirmation of the operator's legitimacy** ("I am the servant of the same your God, the true worshipper of the Highest")
 
 ---
 
