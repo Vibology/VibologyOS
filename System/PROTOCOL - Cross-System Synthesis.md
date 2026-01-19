@@ -374,39 +374,17 @@ question_type: {Life Transition / Decision / Archetypal Pattern / Shadow Work / 
 
 ## V. Quality Standards for Synthesis
 
-A comprehensive synthesis piece meets these criteria:
+**Full quality standards:** See `RUBRIC - Library Content Standard.md` for comprehensive tier definitions.
 
-### Content Depth
-- [ ] **2+ systems integrated** (minimum)
-- [ ] **Prima Materia section is factual and complete** (Scribe integrity)
-- [ ] **Synthesis section is numinous and emergent** (Weaver depth)
-- [ ] **Practical application is specific and actionable** (not vague platitudes)
-- [ ] **1500-3000 words minimum** (complexity requires space)
+**Quick reference:** See `GUIDE - Synthesis Quick Start.md` Section 3 for at-a-glance standards.
 
-### Analytical Rigor
-- [ ] **Convergence points identified** (where systems agree)
-- [ ] **Divergence points acknowledged** (where systems contradict)
-- [ ] **Core archetype named explicitly**
-- [ ] **Shadow/conditioning patterns explored**
-- [ ] **"Third Meaning" articulated** (the emergent insight)
-
-### Practical Utility
-- [ ] **Decision-making framework provided**
-- [ ] **Warning signs listed** (how to recognize when off-track)
-- [ ] **Concrete practices or next steps** (not just insight)
-- [ ] **Timing guidance if applicable** (exact dates, windows, phases)
-
-### Structure & Cross-Reference
-- [ ] **YAML frontmatter complete** (tags, systems, entity_id, etc.)
-- [ ] **Minimum 5 [[wikilinks]]** to Library entries
-- [ ] **Clear section headers** following template structure
-- [ ] **Changelog for updates** (synthesis evolves as situation unfolds)
-
-### Voice & Aesthetics
-- [ ] **Scribe/Weaver separation maintained** (Prima Materia vs. Synthesis sections)
-- [ ] **Mythopoetic language in synthesis** (evocative, numinous, precise)
-- [ ] **No AI clichés or filler** (every sentence earns its place)
-- [ ] **Scholarly references where appropriate** (cite sources for attributions)
+**Minimum requirements for synthesis pieces:**
+- 2+ systems integrated with meaningful dialogue (not passing mentions)
+- 1500-3000 words minimum (comprehensive pieces: 6000+)
+- 5+ [[wikilinks]] to Library entries
+- Prima Materia (Scribe) / Synthesis (Weaver) voice separation maintained
+- "Third Meaning" explicitly articulated (insight neither system reveals alone)
+- Practical application specific and actionable
 
 ---
 
