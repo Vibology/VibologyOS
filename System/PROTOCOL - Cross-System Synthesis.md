@@ -257,117 +257,37 @@ Write the synthesis piece using the template (see Section IV).
 
 ---
 
-## IV. Synthesis Piece Template
+## IV. Synthesis Piece Structure
 
-```markdown
----
-tags: [synthesis, cross-system, {#system-tags}, {#archetypal-themes}]
-systems_integrated: [{List of systems used}]
-entity_id: {JW / Client initials / "Universal" if archetypal teaching}
+**Full template:** See `Synthesis/General/_TEMPLATE - Cross-System Synthesis.md`
+
+Final synthesis pieces should follow this general arc, written in **mythopoetic narrative format**:
+
+### Required Elements
+
+1. **The Question** - Open with what is being asked, rendered narratively. What's at stake? Why does this require multiple systems?
+
+2. **System Integration Sections** - Name these based on thematic content, not template structure. Each section should represent a movement in the synthesis—a theme, a tension, a revelation. Weave factual data into flowing prose.
+
+3. **The Third Meaning** - The emergent insight that becomes visible only when systems are held together. This may be woven throughout or appear as a culminating section.
+
+4. **Practical Wisdom** - Translate insight into guidance that can be lived. May include timing, practices, warning signs—but written as narrative, not bullet lists.
+
+5. **Questions That Remain** - What stays open? Synthesis gathers what can be gathered but does not pretend to close every aperture.
+
+6. **Internal Links** - Minimum 5 [[wikilinks]] to Library entries.
+
+7. **Changelog** - Track updates as understanding deepens.
+
+### YAML Frontmatter (Required)
+
+```yaml
+tags: [synthesis, cross-system, {system-tags}, {archetypal-themes}]
+systems_integrated: [List of systems]
+entity_id: {Initials / "Universal"}
 date_created: YYYY-MM-DD
 scope: {Personal / Client / Universal Teaching}
-question_type: {Life Transition / Decision / Archetypal Pattern / Shadow Work / etc.}
----
-
-# {Title: Question or Archetypal Pattern}
-
-**Question:** {The specific question or situation}
-
-**Context:** {Biographical, situational, or archetypal background}
-
-**Systems Integrated:** {List which pillars are being synthesized}
-
----
-
-## I. Prima Materia (The Raw Data)
-
-### {System 1 Name}
-{Factual data, tables, positions—Scribe mode}
-
-### {System 2 Name}
-{Factual data, tables, positions—Scribe mode}
-
-### {System 3+ Name}
-{Continue for all relevant systems}
-
----
-
-## II. Pattern Recognition
-
-### Convergence Points
-{Where systems agree—list 3-5 major themes}
-
-### Divergence Points
-{Where systems contradict—list tensions or nuances}
-
-### Archetypal Signature
-{Name the core archetypal pattern being activated}
-
----
-
-## III. The Weaver's Synthesis
-
-### {Subsection 1: Core Archetypal Analysis}
-{Deep mythopoetic interpretation—what is the psyche revealing?}
-
-### {Subsection 2: Cross-System Integration}
-{How systems dialogue—hold tensions, reveal emergence}
-
-### {Subsection 3: Shadow and Conditioning Patterns}
-{What unconscious material is surfacing? What's the Not-Self theme?}
-
-### {Subsection 4: The Third Meaning}
-{The emergent insight—what becomes visible only through synthesis?}
-
----
-
-## IV. Practical Application
-
-### Decision-Making Framework
-{Actionable guidance for navigating the situation}
-
-### Warning Signs (Shadow/Not-Self Watch List)
-{Somatic cues, emotional triggers, behavioral patterns to watch for}
-
-### Recommended Practices
-{Journaling prompts, rituals, concrete actions}
-
-### Timing Considerations
-{If applicable: exact transit windows, profile line phases, seasonal timing}
-
----
-
-## V. Integration & Next Steps
-
-### Summary
-{2-3 sentence distillation of the synthesis}
-
-### Key Insights
-{Bulleted list of major takeaways}
-
-### Questions for Ongoing Reflection
-{What remains to be understood? What wants further exploration?}
-
----
-
-## Internal Links
-
-{Cross-reference to relevant Library entries used in synthesis}
-
-- [[System 1 Entry]]
-- [[System 2 Entry]]
-- [[Archetype or Pattern]]
-
----
-
-## Changelog
-
-- {YYYY-MM-DD}: Initial synthesis
-- {Future dates}: Updates as situation evolves or new data emerges
-
----
-
-*"{Closing quote or invocation if desired}"*
+question_type: {Life Transition / Decision / Archetypal Pattern / etc.}
 ```
 
 ---
@@ -378,13 +298,24 @@ question_type: {Life Transition / Decision / Archetypal Pattern / Shadow Work / 
 
 **Quick reference:** See `GUIDE - Synthesis Quick Start.md` Section 3 for at-a-glance standards.
 
-**Minimum requirements for synthesis pieces:**
+### Format Requirement: Mythopoetic Narrative
+
+**Final synthesis pieces must be written as flowing, mythopoetic narrative—not clinical data reports.** This means:
+
+- **Prose over tables:** Weave factual data into the narrative naturally. "The Moon in Scorpio at 22° squares Pluto..." not a table of planetary positions.
+- **Thematic sections:** Name sections based on content (e.g., "The Guardians at the Gate," "What the Cross Accomplished") not template structure (e.g., "System 1 Analysis").
+- **Unified journey:** The synthesis should read as a single coherent exploration—question posed, systems consulted, tensions held, insight emerged, implications understood.
+- **Scholarly mystic voice:** Precise in terminology, evocative in language, grounded in data but reaching toward the numinous.
+
+**Note:** Working notes, data gathering, and preparatory research may use tables and clinical formats. The mythopoetic standard applies to final, committed synthesis pieces that enter the vault.
+
+### Minimum Requirements
+
 - 2+ systems integrated with meaningful dialogue (not passing mentions)
 - 1500-3000 words minimum (comprehensive pieces: 6000+)
 - 5+ [[wikilinks]] to Library entries
-- Prima Materia (Scribe) / Synthesis (Weaver) voice separation maintained
 - "Third Meaning" explicitly articulated (insight neither system reveals alone)
-- Practical application specific and actionable
+- Practical wisdom section with actionable guidance
 
 ---
 

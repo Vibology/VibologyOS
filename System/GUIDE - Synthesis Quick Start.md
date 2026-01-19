@@ -50,17 +50,22 @@ Informal conversation, notes, or journal threads should graduate to formal synth
 | Systems integrated | 2 | 4+ |
 | [[Wikilinks]] | 5 | 15+ |
 
-### Required Sections
+### Required Elements
 Every synthesis piece must include:
-1. **Prima Materia** (Scribe mode) - Factual data, tables, positions
-2. **Pattern Recognition** - Convergence + divergence points
-3. **Weaver Synthesis** - Archetypal analysis + Third Meaning
-4. **Practical Application** - Decision framework, practices, timing
+1. **The Question** - What is being asked, why it matters, what's at stake
+2. **System Integration** - Multiple systems held in dialogue, convergence and divergence explored
+3. **The Third Meaning** - Emergent insight that no single system could reveal alone
+4. **Practical Wisdom** - Decision framework, practices, timing guidance
 
-### Voice Discipline
-- **Prima Materia section:** Clinical, factual, no interpretation (Scribe)
-- **Synthesis section:** Mythopoetic, evocative, precise (Weaver)
-- **No mixing:** Keep the modes separate within each section
+### Voice & Format
+**Final synthesis pieces must be written in mythopoetic narrative format:**
+- Flowing prose, not tables or bullet-point lists
+- Factual data woven naturally into the narrative (e.g., "The Sun at 15° Virgo..." not a planetary position table)
+- Scholarly yet evocative—precise in terminology, reaching toward the numinous
+- Section headings based on content themes (e.g., "The Guardians at the Gate") not template labels (e.g., "System 1 Analysis")
+- The synthesis should read as a unified journey, not a disconnected data report
+
+**Note:** Working notes and data gathering may use tables and clinical formats. The mythopoetic standard applies to final, committed synthesis pieces.
 
 ### YAML Frontmatter (Required)
 ```yaml
