@@ -14,20 +14,15 @@ human_faculty: Sovereignty over one's own life
 hd_center: G-Center
 ---
 
-# Dominations (Order 4)
+# Dominations: The Lords of Expansion
 
-**Hebrew Name:** *Chashmalim* ("Brilliant Ones" or "Gleaming Ones")
-**Sephira:** [[Chesed]] (Mercy, Loving-kindness)
-**Triad:** [[The Three Triads|Second Triad]] — The Governors
-**Planetary Sphere:** [[Jupiter ♃]]
-**Function:** Regulation of angelic duties, divine sovereignty, expansion, benevolent governance
-**Human Design Center:** [[G-Center]]
-**Element:** Fire/Water (Expansive passion and flow)
-**Divine Attribute:** Mercy, Majesty, Sovereignty
+*The Brilliant Ones*
+
+**The Fourth Order of Angels — Benevolent Sovereigns, Regulators of Divine Governance, Custodians of Mercy**
 
 ---
 
-## Introduction: The Lords of Expansion
+## Foundational Material
 
 The **Dominations** (*Chashmalim*) are the fourth order in the angelic hierarchy and the **first order of the Second Triad**. Where the First Triad (Seraphim, Cherubim, Thrones) dwells in direct contemplation of God, the Second Triad **governs the cosmos**—applying divine law, distributing power, and regulating the flow of divine will through creation. The Dominations stand at the threshold of this transition, receiving the cosmic law established by the [[Thrones]] and **translating it into governance**.
 

@@ -14,20 +14,15 @@ human_faculty: Capacity for form-giving and justice
 hd_center: Throat Center
 ---
 
-# Thrones (Order 3)
+# Thrones: The Seats of Divine Justice
 
-**Hebrew Name:** *Aralim* ("Mighty Ones" or "Strong Ones")
-**Sephira:** [[Binah]] (Understanding)
-**Triad:** [[The Three Triads|First Triad]] — The Counselors
-**Planetary Sphere:** [[Saturn ♄]]
-**Function:** Divine justice, steadfastness, form-giving, upholding cosmic law
-**Human Design Center:** [[Throat Center]]
-**Element:** Earth/Water
-**Divine Attribute:** Understanding, Form, Structure
+*The Mighty Ones*
+
+**The Third Order of Angels — Foundations of Divine Law, Form-Givers, Guardians of the Cosmic Womb**
 
 ---
 
-## Introduction: The Seats of Divine Justice
+## Foundational Material
 
 The **Thrones** (*Aralim*) are the third and final order of the **First Triad**, standing at the threshold between the pure contemplative fire of the Seraphim and Cherubim above and the cosmic administration of the Second Triad below. They are the **foundation of divine justice**, the unwavering presence upon which God's judgment rests.
 

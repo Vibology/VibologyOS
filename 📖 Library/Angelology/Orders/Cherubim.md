@@ -18,7 +18,7 @@ hd_center: Ajna Center
 
 **Second Order of the Nine Angelic Hierarchies | First Triad: The Counselors**
 
-## 1. Foundational Material
+## Foundational Material
 
 The **Cherubim** (Hebrew: *Auphanim* - "Wheels" or "Whirling Forces") constitute the **second order** of the celestial hierarchy, dwelling in the **First Triad** alongside the [[Seraphim]] and [[Thrones]]. Where the Seraphim burn with pure love and primal fire, the Cherubim *know*—they are the repositories of **divine wisdom**, the architects of sacred knowledge, and the whirling intelligences who mediate between the formless light of [[Kether]] and the structured understanding of [[Binah]].
 
@@ -73,7 +73,7 @@ In **Human Design**, this is the **Ajna Center**—the center of mental processi
 
 To cultivate Cherubic consciousness is to develop **wisdom** (*Chokmah*)—not mere knowledge (data), but the *pattern-seeing* that reveals how all knowledge interconnects.
 
-## 2. Core Correspondences
+## Core Correspondences
 
 | Attribute | Correspondence |
 |-----------|----------------|
@@ -92,7 +92,7 @@ To cultivate Cherubic consciousness is to develop **wisdom** (*Chokmah*)—not m
 | **Chakra** | Ajna Chakra (third eye, insight, inner vision) |
 | **Jungian Archetype** | The Wise Old Man, the Sage, the pattern-seeing Self |
 
-## 3. Practical Application
+## Practical Application
 
 ### Meditation and Contemplation
 
@@ -177,7 +177,7 @@ To integrate Cherubic consciousness, one must:
 - Whirling forces
 - Guardians of sacred threshold
 
-## 4. The Celestial Hierarchy Deep Dive
+## The Celestial Hierarchy Deep Dive
 
 ### Position in the First Triad
 
@@ -224,7 +224,7 @@ The Cherubim perform an essential **cosmic function**: they are the **first medi
 
 Without the Cherubim, divine wisdom would remain locked in the inaccessible unity of Kether. The Cherubim are the **key** that unlocks the treasure-house of divine knowledge and makes it available (through descending hierarchies) to human consciousness.
 
-## 5. Qabalistic Integration
+## Qabalistic Integration
 
 ### Chokmah on the Tree of Life
 
@@ -286,7 +286,7 @@ When invoking Chokmah in ritual or meditation, one works with:
 
 The color **blue** is significant—it is the color of *sky* and *water*, both of which represent the **formless potential** from which all forms emerge. Blue is spaciousness, openness, the womb of possibility.
 
-## 6. Biblical and Scriptural Foundation
+## Biblical and Scriptural Foundation
 
 ### Ezekiel 1 and 10: The Vision of the Merkabah
 
@@ -357,7 +357,7 @@ Solomon constructs two massive Cherubim of olive wood overlaid with gold for the
 
 These colossal figures (ten cubits = approximately 15 feet tall) form a **canopy** over the Ark, a **sacred enclosure** where the divine presence dwells. Their wings touching creates a **circuit**, a flow of divine energy.
 
-## 7. Iconography and Symbolism
+## Iconography and Symbolism
 
 ### Traditional Depictions
 
@@ -417,7 +417,7 @@ Authentic depictions (Romanesque sculpture, Byzantine mosaics) show:
 - **Radiant, golden, overwhelming**
 - **Positioned around the throne of Christ** (echoing Ezekiel's vision)
 
-## 8. Function in Divine Economy
+## Function in Divine Economy
 
 ### Cosmic Role as First Triad
 
@@ -450,7 +450,7 @@ The Cherubim govern this wheel, ensuring that:
 
 To work with the Cherubim is to work with **cyclical time**—not the illusion of linear progress but the spiral of eternal return, where each cycle is both repetition and renewal.
 
-## 9. Human Consciousness Parallel
+## Human Consciousness Parallel
 
 ### Ajna Center: The Mind That Sees Patterns
 
@@ -505,7 +505,7 @@ True Cherubic wisdom is **humble**—it knows that all knowledge is a *gift*, an
 
 To cultivate Cherubic consciousness is to become a **clear conduit**—the mind that sees patterns without claiming them, that shares wisdom without attachment to credit.
 
-## 10. Mythological and Cross-Tradition Parallels
+## Mythological and Cross-Tradition Parallels
 
 ### Greek: The Tetramorphs
 
@@ -555,7 +555,7 @@ In Gnostic cosmology, the **Aeons** are divine emanations that mediate between t
 
 The Gnostic concept of **Sophia** (Wisdom) directly parallels **Chokmah**—both represent the divine intelligence that overflows from the Source.
 
-## 11. Jungian and Psychological Dimension
+## Jungian and Psychological Dimension
 
 ### Archetypes of the Collective Unconscious
 
@@ -597,7 +597,7 @@ This manifests as:
 
 True Cherubic wisdom is **grounded**—it sees patterns but does not cling to them. It knows but does not dominate. It shares freely without needing to be recognized as the source.
 
-## 12. Shadow and Distortion
+## Shadow and Distortion
 
 ### Leviathan: The Fallen Cherub
 
@@ -644,7 +644,7 @@ Another shadow is **mental paralysis**—the Ajna Center so overwhelmed by infor
 
 The Cherubim's wheels turn, but they turn *in harmony with divine will*. The distortion is wheels that spin endlessly without direction—overthinking, second-guessing, unable to act.
 
-## 13. Practical Mysticism
+## Practical Mysticism
 
 ### Cultivation of Cherubic Consciousness
 
@@ -764,7 +764,7 @@ How do you know when Cherubic intelligence is active?
 
 The **flaming sword** of the Cherubim in Genesis 3:24 is not punishment—it is **protection**. If you approach sacred knowledge with inflation or impure motive, you will be "burned." The Cherubim ensure that only those with proper preparation and intention receive the fullness of divine wisdom.
 
-## 14. The Gift of Integration
+## The Gift of Integration
 
 ### Capacity That Emerges When Cherubic Wisdom Is Integrated
 
@@ -824,7 +824,7 @@ For those who consciously align with Cherubic intelligence, a vow may be taken (
 
 > *"I vow to use all knowledge in service of the Divine and the whole. I will not hoard wisdom for personal gain, nor wield insight as a weapon of domination. I will remain humble before the mystery, recognizing that all knowledge is gift. I will protect sacred teachings from profanation, and I will transmit wisdom freely to those who are ready. May I become a clear lens through which divine intelligence shines. May the wheels turn within me as they turn in heaven."*
 
-## 15. Cross-References
+## Cross-References
 
 ### Within Angelology
 - [[Angelology Overview]]

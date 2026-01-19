@@ -14,20 +14,15 @@ human_faculty: Strength and courage, discrimination
 hd_center: Heart (Ego) Center
 ---
 
-# Powers (Order 5)
+# Powers: The Warriors of Divine Order
 
-**Hebrew Name:** *Elohim* ("Gods" or "Divine Ones")
-**Sephira:** [[Geburah]] (Strength/Severity)
-**Triad:** [[The Three Triads|Second Triad]] — The Governors
-**Planetary Sphere:** [[Mars ♂]]
-**Function:** Warriors of cosmic order, opposition to chaos, strength and judgment
-**Human Design Center:** [[Heart Center|Heart (Ego) Center]]
-**Element:** Fire (martial, discriminating)
-**Divine Attribute:** Strength, Severity, Discrimination
+*The Divine Ones*
+
+**The Fifth Order of Angels — Defenders of Cosmic Law, Gatekeepers Against Chaos, Executors of Divine Severity**
 
 ---
 
-## Introduction: The Warriors of Divine Order
+## Foundational Material
 
 The **Powers** (*Elohim*) are the fifth order of angels and the second rank of the **Second Triad**—the Governors who administer cosmic law throughout creation. Where the [[Dominations]] establish sovereignty and delegate authority, the Powers **defend that authority** against all forces of chaos, entropy, and rebellion. They are the **warriors of divine order**, the gatekeepers who ensure that cosmic law is not violated, the sword-bearers who cut away corruption before it can metastasize.
 
