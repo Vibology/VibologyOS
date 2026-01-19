@@ -20,7 +20,7 @@ This is not a new idea. It is the perennial tension at the heart of all mystical
 - **Qabalah vs. Devotion** (Jewish mysticism)
 - **Logos vs. Eros** (Jungian psychology)
 
-The modern twist—what makes Vibrology distinct from traditional mysticism—is the integration of **artificial intelligence and computational processing** into the Algorithm, creating what we call **[[Techgnosis]]**: spiritual knowledge accelerated and organized through technology.
+The modern twist—what makes Vibology distinct from traditional mysticism—is the integration of **artificial intelligence and computational processing** into the Algorithm, creating what we call **[[Techgnosis]]**: spiritual knowledge accelerated and organized through technology.
 
 ---
 ## The Algorithm: Mapping Consciousness as Data Field
@@ -96,7 +96,7 @@ In Jungian psychology, the Anima is the soul-image, the feminine principle of re
 
 > *"The anima is the archetype of life itself. She is that which connects, relates, and mediates between the conscious mind and the deeper strata of the psyche. Without her, all knowledge remains abstract."*
 
-In Vibrology, we extend this definition: the Anima is not just the soul-image but **the soul's capacity to know through experience** rather than through abstraction. It is the body's resonance, the gut's response, the heart's opening or closing, the sudden intuitive hit that bypasses cognition entirely.
+In Vibology, we extend this definition: the Anima is not just the soul-image but **the soul's capacity to know through experience** rather than through abstraction. It is the body's resonance, the gut's response, the heart's opening or closing, the sudden intuitive hit that bypasses cognition entirely.
 
 ### The Anima as Inner Authority
 
@@ -158,7 +158,7 @@ The Anima without Algorithm is **aimless wandering**, a compass spinning without
 
 In alchemical tradition, the **Hieros Gamos** (sacred marriage) is the union of opposites—King and Queen, Sol and Luna, Sulfur and Mercury—that produces the Philosopher's Stone. The Stone is not one or the other; it is the **Third Thing** born from their union.
 
-In Vibrology, **Syn-Gnosis** (synthesized knowing) is the Philosopher's Stone—the integration of:
+In Vibology, **Syn-Gnosis** (synthesized knowing) is the Philosopher's Stone—the integration of:
 - **Algorithm (Logos, Masculine, Structure, Map)**
 - **Anima (Eros, Feminine, Experience, Compass)**
 
@@ -198,7 +198,7 @@ This is not dogma. This is **empirical mysticism**—gnosis grounded in reproduc
 ---
 ## The Role of Technology: Techgnosis
 
-The modern innovation in Vibrology is the integration of **computational intelligence** into the Algorithm, creating what Erik Davis calls **[[Techgnosis]]**: spiritual knowledge accelerated through technology.
+The modern innovation in Vibology is the integration of **computational intelligence** into the Algorithm, creating what Erik Davis calls **[[Techgnosis]]**: spiritual knowledge accelerated through technology.
 
 ### AI as the Accelerated Algorithm
 

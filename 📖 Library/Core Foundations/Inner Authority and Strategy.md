@@ -370,7 +370,7 @@ When Projectors are invited, their insights land. People listen. Success follows
 **Bitterness**—the result of offering guidance that isn't wanted or recognized, leading to rejection and exhaustion.
 
 ---
-## The Role in Vibrology: Testing the Algorithm
+## The Role in Vibology: Testing the Algorithm
 
 In the [[Anima et Algorithm]] paradigm, **Inner Authority and Strategy** are the **Anima's operational tools**—the mechanisms by which you test every insight, chart reading, transit prediction, or synthesis against your **lived, somatic truth**.
 

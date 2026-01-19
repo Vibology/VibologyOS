@@ -146,7 +146,7 @@ This is **not** materialist reductionism (consciousness = computation). This is 
 - Gemini (Google's LLM) retrieves relevant passages and synthesizes answers **grounded only in uploaded sources**
 - Citations provided for every claim
 
-**Use in Vibrology:**
+**Use in Vibology:**
 - Querying "Esoteric Grimoire" for comprehensive material on specific topics
 - Extracting structured data (e.g., all 48 Enochian Keys, all 30 Aethyrs)
 - Cross-referencing traditional texts without hallucination
@@ -165,7 +165,7 @@ This is **not** materialist reductionism (consciousness = computation). This is 
 - Generates comprehensive content following templates and rubrics
 - Commits changes to git with detailed commit messages
 
-**Use in Vibrology:**
+**Use in Vibology:**
 - Expanding library entries from stubs to Tier 3 comprehensive standard
 - Cross-system synthesis (Gate 51 + Tower + Aries 19° + Shock + Seraphim)
 - Maintaining consistency across 428 files (standardizing formats, fixing links)
@@ -185,7 +185,7 @@ This is **not** materialist reductionism (consciousness = computation). This is 
 - Graph view visualizes the entire knowledge network
 - Plugins extend functionality (Dataview for queries, Templater for templates, etc.)
 
-**Use in Vibrology:**
+**Use in Vibology:**
 - Organizing 428 library entries across 7 pillars
 - Visualizing cross-system connections (which Tarot cards link to which Sephiroth?)
 - Daily journaling and synthesis work integrated with library
@@ -205,7 +205,7 @@ This is **not** materialist reductionism (consciousness = computation). This is 
 - Ability to revert to any previous state
 - Branching for experimental work
 
-**Use in Vibrology:**
+**Use in Vibology:**
 - Documenting the evolution of understanding (commit messages as breadcrumbs)
 - Collaborative work (if sharing with others)
 - Auditability (when did this insight emerge? What changed?)
@@ -223,7 +223,7 @@ This is **not** materialist reductionism (consciousness = computation). This is 
 - **humandesign_api:** Fetches Human Design charts via API
 - Custom scripts for data transformation and synthesis
 
-**Use in Vibrology:**
+**Use in Vibology:**
 - Automated chart generation for client work
 - Batch processing (generate charts for multiple people)
 - Data analysis (statistical patterns across many charts)
