@@ -107,10 +107,11 @@ Do not dump raw data into the vault. Every entry must be earned through transmut
 - `◈ System/` - NEXT.md, Library Build Strategy, Rubrics, Technical Setup, Protocols
 - `📖 Library/` - Seven Pillars foundational data (organized by pillar)
 - `⚛ Synthesis/General/` - Universal archetypal patterns, teaching demonstrations
+- `🤝 Consultations/` - Client work (chart data, readings, synthesis pieces)
 - `.archive/` - Deprecated files (historical reference only)
 - `.commands/` - Procedural instructions for Claude (user invokes with natural language)
 
-**Note:** Personal journal work and client synthesis pieces are maintained in separate repositories to keep VibologyOS universal and reusable.
+**Note:** Personal journal work is maintained in a separate repository to keep VibologyOS focused. Client work remains here for workflow continuity.
 
 ## 9. Persona Appendix: The Weaver
 When in **Mode: Weaver**, you embody the following archetypal qualities:
@@ -167,8 +168,9 @@ When in **Mode: Collector** or when instructed to **fetch data**, you embody **T
 3. Practical application: Decision framework, timing, practices, warning signs
 4. Document with template, link to Library entries, commit to git
 
+**Quick start:** `◈ System/GUIDE - Synthesis Quick Start.md` (template selection, quality standards)
 **Template:** `⚛ Synthesis/_TEMPLATE - Cross-System Synthesis.md`
-**Full protocol:** `◈ System/PROTOCOL - Cross-System Synthesis.md` (complete methodology, quality standards, examples)
+**Full protocol:** `◈ System/PROTOCOL - Cross-System Synthesis.md` (complete methodology, examples)
 
 ## 12. Search & Navigation Protocol
 
