@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Window/The Window.md",
+                "file": "The Window/The Twelve Archetypes/The Anima.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Window"
+              "title": "The Anima"
             }
           }
         ]
@@ -187,6 +187,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "The Window/The Twelve Archetypes/The Threshold Guardian.md",
+    "The Window/The Twelve Archetypes/The Hero.md",
+    "The Window/The Window.md",
+    "The Window/The Twelve Archetypes/The Hero.md.tmp.2189450.1768801903384",
     "The Window/The Six Lower Houses/House of the Spirit/Domination.md.tmp.2189450.1768801627771",
     "The Window/The Six Lower Houses/House of the Spirit/Malevolence.md.tmp.2189450.1768801625642",
     "The Window/The Six Lower Houses/House of the Spirit/Apathy.md.tmp.2189450.1768801623674",
@@ -196,10 +200,7 @@
     "The Window/The Six Lower Houses/House of the Spirit/Awareness.md.tmp.2189450.1768801374019",
     "The Window/The Six Lower Houses/House of the Stars/Stagnation.md.tmp.2189450.1768801227478",
     "The Window/The Six Lower Houses/House of the Stars/Pride.md.tmp.2189450.1768801227110",
-    "The Window/The Six Lower Houses/House of the Stars/Resignation.md.tmp.2189450.1768800963619",
-    "The Window/The Six Lower Houses/House of the Stars/Perseverance.md.tmp.2189450.1768800897908",
     "📖 Welcome to the Vibology Library.md",
-    "The Window/The Window.md",
     "The Tarot/The Tarot.md",
     "Human Design/Human Design.md",
     "📖 Library Status.md",
@@ -221,7 +222,6 @@
     "Core Foundations/The Blueprint - 444 Architecture.md",
     "Core Foundations/Anima et Algorithm.md",
     "Core Foundations/Techgnosis.md",
-    "Core Foundations/Seven-Coordinate Navigation.md",
-    "Core Foundations/Inner Authority and Strategy.md"
+    "Core Foundations/Seven-Coordinate Navigation.md"
   ]
 }
