@@ -1,45 +1,69 @@
 # Current Work Context
 
 **Last Updated:** 2026-01-19
-**System Status:** All 7 Pillars Complete — Maintenance Mode Active
+**System Status:** All 7 Pillars Complete — Window Tier 3 Expansion In Progress
+
+---
+
+## Active Work: Window Tier 3 Expansion
+
+**Progress:** 26 of ~64 Window cards expanded to Tier 3
+
+### Completed (Tier 3)
+| Section | Cards | Status |
+|---------|-------|--------|
+| Twelve Archetypes | 12 | ✅ Complete |
+| House of Stars | 7 | ✅ Complete |
+| House of Spirit | 7 | ✅ Complete |
+
+### Remaining (Tier 1-2)
+| Section | Cards | Priority |
+|---------|-------|----------|
+| Ten Portals | 10 | Next |
+| House of Chronicle | 7 | After Portals |
+| House of Flame | 7 | After Portals |
+| House of Land | 7 | After Portals |
+| House of Sea | 7 | After Portals |
+
+**Recent Commits:**
+- `08b2e33` - Expand Window Twelve Archetypes to Tier 3 (7/12 remaining)
+- `4c281a2` - Expand Window Archetypes to Tier 3 (5/12 initial batch)
+- `7f0a893` - House of Stars + Spirit expansions
+
+**Next Session:** Continue with Ten Portals expansion, then remaining 4 Houses (Chronicle, Flame, Land, Sea).
 
 ---
 
 ## Library Status
 
 **Total Entries:** 446 markdown files across 7 pillars
-**Current Statistics:** See [[📖 Library Status]] for detailed breakdown
-
-### All Pillars at 100% Completion
 
 | Pillar | Entries | Tier |
 |--------|---------|------|
 | Human Design | 140 | Tier 3 |
 | The Tarot | 79 | Tier 3 |
 | Personal Mythos | 75 | Tier 3 |
-| The Window | 72 | Tier 1+ |
+| The Window | 72 | Mixed (26 Tier 3, rest Tier 1-2) |
 | Astrology | 37 | Tier 3 |
 | Angelology | 31 | Tier 3 |
 | The Magdalene Path | 8 | Tier 3 |
 | Core Foundations | 5 | Tier 3 |
 
-**Note:** The Window is structurally complete but at Tier 1+ quality. Tier 3 expansion is the primary enhancement opportunity (~19,600 lines needed).
-
 ---
 
 ## Available Work Paths
 
-### Priority 1: Process Gap Resolution
+### Priority 1: Continue Window Tier 3 Expansion
+**Immediate Next:** Expand Ten Portals (10 cards)
+**Then:** Houses of Chronicle, Flame, Land, Sea (28 cards total)
+**Template:** `◈ System/Templates/_TEMPLATE - Window Card Entry.md`
+
+### Priority 2: Process Gap Resolution
 **Remaining Gaps (2 medium-priority):**
 - Client Work Protocol (chart storage, reading structure, delivery format)
 - Synthesis Templates & Standards (for ⚛ Synthesis/ folder)
 
 See: [[Process Gaps & Improvements]]
-
-### Priority 2: The Window Tier 3 Expansion
-**Scope:** Expand 72 Window entries from ~400 words (Tier 1+) to 1,500+ words (Tier 3)
-**Estimated Work:** ~19,600 additional lines across 72 files
-**Approach:** Batch expansion by House (Sea, Land, Spirit, Stars, Chronicle, Flame)
 
 ### Priority 3: Cross-System Synthesis
 **Opportunity:** With all 7 pillars complete, rich synthesis work is now possible.
@@ -52,10 +76,6 @@ Template: `⚛ Synthesis/_TEMPLATE - Cross-System Synthesis.md`
 
 ### Priority 4: Library Maintenance
 **Next Quarterly Audit:** ~April 18, 2026 (90-day cycle from 2026-01-18)
-**Ad-Hoc Tasks:**
-- Link verification as needed
-- Tag consistency checks
-- New entry integration
 
 ---
 
@@ -77,14 +97,6 @@ Template: `⚛ Synthesis/_TEMPLATE - Cross-System Synthesis.md`
 ### Tracking
 - `Process Gaps & Improvements.md` — Workflow gaps and progress
 - `📖 Library/📖 Library Status.md` — Entry counts and audit history
-
----
-
-## Recent Milestone
-
-**2026-01-18:** All 7 pillars reached 100% structural completion with The Magdalene Path (8 entries, ~3,289 lines). The Eight Boughs of Ascent framework now provides the vertical axis for soul navigation.
-
-For detailed completion history, see: `.archive/◈ System/NEXT.md` archives
 
 ---
 
