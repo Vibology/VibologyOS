@@ -5,7 +5,7 @@ date_created: 2026-01-08
 date_updated: 2026-01-18
 category: Navigational Framework
 ---
-*The Multi-Dimensional Map of Consciousness*
+*The multi-dimensional map of consciousness*
 
 ---
 ## Introduction: Why Seven Coordinates?

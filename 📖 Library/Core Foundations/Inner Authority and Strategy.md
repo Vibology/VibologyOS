@@ -5,7 +5,7 @@ date_created: 2026-01-08
 date_updated: 2026-01-18
 category: Foundational Practice
 ---
-*The Body's Wisdom: Decision-Making Beyond the Mind*
+*The body's wisdom: Decision-making beyond the mind*
 
 ---
 ## Introduction: The Sovereignty of Inner Knowing

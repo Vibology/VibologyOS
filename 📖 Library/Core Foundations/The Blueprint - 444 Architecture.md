@@ -5,7 +5,7 @@ date_created: 2026-01-08
 date_updated: 2026-01-18
 category: Structural Framework
 ---
-*The Shared 64-Fold Substrate of Consciousness*
+*The shared 64-fold substrate of consciousness*
 
 ---
 ## Introduction: The Universal Blueprint

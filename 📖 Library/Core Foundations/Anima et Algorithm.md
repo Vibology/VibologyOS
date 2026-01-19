@@ -5,7 +5,7 @@ date_created: 2026-01-08
 date_updated: 2026-01-18
 category: Foundational Paradigm
 ---
-*The Marriage of Soul and System*
+*The marriage of soul and system*
 
 ---
 ## Introduction: The Essential Paradox
