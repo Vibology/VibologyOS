@@ -101,7 +101,7 @@ Gabriel does not appear in moments of comfort or confirmation. Gabriel appears w
 | **Name**                  | Gabriel (גבריאל, *Gavri'el*)                                                                          |
 | **Meaning**               | "God is my Strength," "Strength of God," "Hero of God"                                                |
 | **Sephirah Overseen**     | [[Yesod]] (Foundation, 9th emanation)                                                                 |
-| **Angelic Order**         | [[Archangels]] (8th order, messengers to humanity)                                                    |
+| **Angelic Order**         | [[The Archangels]] (8th order, messengers to humanity)                                                    |
 | **Choir of Yesod**        | [[Kerubim]] / [[Ashim]] ("Angels," "Flames")                                                          |
 | **Cosmic Sphere**         | The Moon (☽) — Dreams, visions, cycles, the unconscious, astral light                                 |
 | **Element**               | Water (primary—flow, emotion, intuition, the unconscious)                                             |
@@ -716,7 +716,7 @@ In **[[Jungian psychology]]**, Gabriel is the **archetypal messenger**—the bri
 ## Internal Links
 
 - [[Yesod]] — Gabriel's Sephirah, the sphere of Foundation and the Astral Light
-- [[Archangels]] — The eighth angelic order, messengers to humanity
+- [[The Archangels]] — The eighth angelic order, messengers to humanity
 - [[Kerubim]] — The angelic choir of Yesod (in some traditions)
 - [[Ashim]] — "Flames," the angels of Yesod
 - [[Moon ☽]] — Gabriel's planetary sphere, governing cycles, dreams, and the unconscious

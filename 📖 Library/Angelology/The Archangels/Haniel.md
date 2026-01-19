@@ -32,7 +32,7 @@ To invoke Haniel is to ask not for abstract spiritual truths but for **the capac
 | **Name** | Haniel (חניאל) |
 | **Meaning** | "Grace of God," "Glory of God," "Joy of God" |
 | **Sephirah Overseen** | [[Netzach]] (Victory/Eternity, 7th emanation) |
-| **Angelic Order** | [[Principalities]] (Elohim—"Gods," collective intelligences) |
+| **Angelic Order** | [[7. Principalities]] (Elohim—"Gods," collective intelligences) |
 | **Cosmic Sphere** | Venus (♀) — Love, beauty, harmony, desire, fertility |
 | **Element** | Earth (primary—fertility, embodiment) / Water (secondary—flow, emotion) |
 | **Color** | Emerald Green (life force, growth), Rose Pink (love, grace), Amber (warmth) |
@@ -504,7 +504,7 @@ In **[[Jungian psychology]]**, Haniel is the **Anima**—the soul-image of beaut
 ## Internal Links
 
 - [[Netzach]] — Haniel's Sephirah, the sphere of Victory and the Life Force
-- [[Principalities]] — Angelic order governed by Haniel
+- [[7. Principalities]] — Angelic order governed by Haniel
 - [[Venus ♀]] — Planetary sphere of love, beauty, harmony
 - [[The Empress]] — Tarot Trump III, the archetype of fertility and beauty
 - [[Sevens]] — Tarot cards of endurance and persistence (Haniel's domain)

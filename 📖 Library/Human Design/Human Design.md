@@ -4,7 +4,7 @@ system: Human Design
 date_created: 2026-01-08
 date_updated: 2026-01-16
 ---
-*The Science of Differentiation*
+*The science of differentiation*
 
 ---
 ## The System

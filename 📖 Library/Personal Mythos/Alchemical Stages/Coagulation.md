@@ -658,7 +658,7 @@ Coagulation is the realization of this totality—*lived*, not theorized.
 ### Related Angelology
 - [[Sandalphon]] - Angel of Earth, grounding prayer into manifest reality
 - [[Uriel]] - Angel who brings divine light into earthly form
-- [[Thrones]] - The order that stabilizes divine will in the cosmos
+- [[3. Thrones]] - The order that stabilizes divine will in the cosmos
 
 ### Related Folklore & Mythology
 - [[Folklore/Jungian Archetypes/The Divine Child]] - Born wisdom (Coagulation manifesting young)

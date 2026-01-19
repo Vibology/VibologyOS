@@ -76,7 +76,7 @@ The Zohar teaches that Michael's name is itself a **weapon**—a mantra of discr
 | **Alternate Spellings** | Mikhael, Mîkhā'ēl, Mikael, Beshter (Zoroastrian parallel) |
 | **Title** | Prince of the Presence, Commander of the Heavenly Hosts, Angel of the Sun, Defender |
 | **Sephirah Overseen** | [[Tiphareth]] (Beauty, Harmony, the Higher Self, 6th emanation) |
-| **Order Commanded** | [[Virtues]] (*Malachim* - "Kings" or "Angelic Kings") |
+| **Order Commanded** | [[6. Virtues]] (*Malachim* - "Kings" or "Angelic Kings") |
 | **Triad** | [[The Three Triads\|Second Triad]] (Governors of cosmic forces) |
 | **Planetary Sphere** | [[Sun ☉]] (Shemesh) - radiance, vitality, center, Higher Self |
 | **Element** | Fire (purifying flame, solar radiance, the sword's heat) |
@@ -170,11 +170,11 @@ Tiphareth sits on the **Middle Pillar** of the Tree of Life, called the **Pillar
 
 3. **[[Tiphareth]]** (Beauty) — The Higher Self, the solar center
    - Archangel: **Michael** (Who is as God?)
-   - Order: [[Virtues]] (Kings)
+   - Order: [[6. Virtues]] (Kings)
 
 4. **[[Yesod]]** (Foundation) — The astral, the lunar, the ego-self
    - Archangel: **Gabriel** (Strength of God)
-   - Order: [[Angels]] (Messengers)
+   - Order: [[9. Angels]] (Messengers)
 
 5. **[[Malkuth]]** (Kingdom) — The material, the world, the body
    - Archangel: **Sandalphon** (Co-Brother)
@@ -758,7 +758,7 @@ Together, they form the **protective quaternary**, the four corners of the cosmo
 
 | System              | Correspondence                                                                 |
 | ------------------- | ------------------------------------------------------------------------------ |
-| **Qabalah**         | [[Tiphareth]] (Beauty, 6th Sephira), Middle Pillar, [[Virtues]] (Malachim)    |
+| **Qabalah**         | [[Tiphareth]] (Beauty, 6th Sephira), Middle Pillar, [[6. Virtues]] (Malachim)    |
 | **Divine Name**     | YHVH Eloah va-Daath (יהוה אלוה ודעת)                                          |
 | **Tarot (Major)**   | [[Temperance]] (XIV), [[Judgement]] (XX)                                       |
 | **Tarot (Minor)**   | All Sixes (especially [[Six of Wands]])                                        |
@@ -833,7 +833,7 @@ Together, they form the **protective quaternary**, the four corners of the cosmo
 
 ### Sequential and Hierarchical Connections
 - [[Tiphareth]] — The Sephira Michael oversees
-- [[Virtues]] — The angelic order Michael commands (Malachim)
+- [[6. Virtues]] — The angelic order Michael commands (Malachim)
 - [[The Three Triads]] — Michael's place in the Second Triad (Governors)
 - [[Sun ☉]] — Michael's planetary sphere
 - [[Chesed]] — The Sephira of Mercy (right hand, balances Michael's solar center)

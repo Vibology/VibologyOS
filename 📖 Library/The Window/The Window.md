@@ -5,7 +5,7 @@ date_created: 2026-01-08
 date_updated: 2026-01-18
 status: Complete
 ---
-*A contemporary 1980s-themed archetypal resonance and oracle divination system.*
+*A contemporary 1980s-themed archetypal resonance and oracle divination system*
 
 ---
 ## Core Domain

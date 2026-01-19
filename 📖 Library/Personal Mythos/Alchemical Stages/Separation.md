@@ -657,7 +657,7 @@ Separation is differentiation. Without it, there is only unconscious fusion (par
 - [[Gate 47]] - Realization (Ajna) - Abstract mental clarity over time
 
 ### Related Angelology
-- [[Cherubim]] - Guardians of sacred thresholds, separating holy from profane
+- [[2. Cherubim]] - Guardians of sacred thresholds, separating holy from profane
 - [[Raphael]] - Archangel of healing through discrimination and clarity
 - [[Michael]] - Archangel whose sword separates light from darkness (see also Calcination)
 - [[Uriel]] - Archangel of wisdom and illumination (light of discrimination)

@@ -131,7 +131,6 @@ The **Keys** are invocations in the Enochian language used to:
 - **Keys 22-27, 29-30:** Invoke specific sub-angles of the Watchtowers
 - **Keys 31-48:** Govern specific elemental forces within the Watchtowers
 
-
 ### The First Key (Complete Text)
 
 **Enochian:**
@@ -146,8 +145,6 @@ The **Keys** are invocations in the Enochian language used to:
 
 **Usage:** Spoken at the opening of Enochian rituals to assert the operator's alignment with divine will
 
-
-
 ### The Second Key (Opening Lines)
 
 **Enochian:**
@@ -159,8 +156,6 @@ The **Keys** are invocations in the Enochian language used to:
 *Can the wings of the winds understand your voices of wonder, O you the second of the first...*
 
 **Function:** Opens the consciousness to receive revelation, invokes the second tier of angelic intelligences
-
-
 
 ### The 19th Key (Call of the 30 Aethyrs)
 
@@ -175,8 +170,6 @@ The **Keys** are invocations in the Enochian language used to:
 **Usage:** Replace "[NAME OF AETHYR]" with the Enochian name (e.g., "TEX" for the 30th Aethyr, "ZAX" for the 10th, "LIL" for the 1st)
 
 **Function:** Opens the gates of the specified Aethyr for scrying and vision
-
----
 
 ### Complete Listing of All 48 Enochian Keys
 

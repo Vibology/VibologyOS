@@ -428,7 +428,7 @@ In **[[Jungian psychology]]**, Raziel is the **Wise Old Man**—the inner guide,
 - [[Raphael]] — Archangel of Tiphareth (Healing aspect)
 - [[Tree of Life]] — The Qabalistic map of divine emanation
 - [[Auphanim]] — The Wheels, angelic order of Chokmah
-- [[Seraphim]] — First angelic order, pure adoration
+- [[1. Seraphim]] — First angelic order, pure adoration
 - [[Tarot]] — The Twos and Kings correspond to Raziel
 - [[Human Design]] — Ajna Center, mental clarity
 - [[Gene Keys]] — 17th Gene Key (Opinion/Far-Sightedness/Omniscience)

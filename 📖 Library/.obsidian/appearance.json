@@ -1,5 +1,7 @@
 {
   "enabledCssSnippets": [
-    "zoom"
+    "zoom",
+    "headings-colors",
+    "nowrap"
   ]
 }

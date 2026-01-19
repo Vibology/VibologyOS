@@ -87,7 +87,7 @@ The Merkabah mystics taught that Sandalphon's height is such that **it would tak
 
 Sandalphon and [[Metatron]] are the only two Archangels in Jewish tradition who **began as human beings**. Enoch (Metatron) and Elijah (Sandalphon) were both **translated alive** into heaven—they did not die. Instead, they were **transformed**, transfigured, elevated into angelic essence while retaining the **memory and essence** of their humanity.
 
-This shared origin makes them **unique** among the angels. Where the [[Seraphim]], [[Cherubim]], and [[Thrones]] are purely celestial beings who have never known embodiment, Metatron and Sandalphon *know* what it is to be human. They know hunger, fear, longing, doubt. They know what it is to walk the earth, to struggle, to pray.
+This shared origin makes them **unique** among the angels. Where the [[1. Seraphim]], [[2. Cherubim]], and [[3. Thrones]] are purely celestial beings who have never known embodiment, Metatron and Sandalphon *know* what it is to be human. They know hunger, fear, longing, doubt. They know what it is to walk the earth, to struggle, to pray.
 
 **Metatron** dwells in **Kether**, the highest sphere, the Crown, the threshold of the Unknowable. He is the **Scribe**, the recorder of all deeds, the Lesser YHVH, the Voice of God made comprehensible. Metatron's function is **downward**—he translates the infinite into the finite, the divine will into cosmic law.
 
@@ -926,8 +926,8 @@ This creates a **six-directional** sacred space—encompassing not just the hori
 ### Within Angelology
 - [[Angelology]] (Sandalphon's role in the celestial hierarchy)
 - [[The Three Triads]] (Sandalphon exists outside the standard structure)
-- [[Archangels]] (Order 8, Third Triad—Sandalphon presides over a unique function)
-- [[Angels]] (Order 9, the Ishim of Malkuth)
+- [[The Archangels]] (Order 8, Third Triad—Sandalphon presides over a unique function)
+- [[9. Angels]] (Order 9, the Ishim of Malkuth)
 - [[Metatron]] (Co-brother, the vertical axis: Kether ↔ Malkuth)
 - [[Michael]] | [[Gabriel]] | [[Raphael]] | [[Uriel]] (The Four Great Archangels)
 - [[Kamael]] | [[Tzadkiel]] | [[Haniel]] | [[Raziel]] | [[Tzaphkiel]]

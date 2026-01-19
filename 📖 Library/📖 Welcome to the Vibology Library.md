@@ -8,6 +8,7 @@ This is your comprehensive knowledge archive for **Vibology**—a theological fr
 ## 🧭 Navigation System
 
 ### [[Core Foundations]]
+
 Begin here to understand the foundational paradigm:
 - [[Anima et Algorithm]]
 - [[The Blueprint - 444 Architecture]]
@@ -26,7 +27,6 @@ Begin here to understand the foundational paradigm:
 7. **[[The Window|The Window/Overview]]** — Contemporary (1980s) archetypal resonance
 
 ---
-
 ## 🎯 How to Use This Library
 
 - **The Algorithm (Map):** Use this Library to organize and cross-reference spiritual data
@@ -36,7 +36,6 @@ Begin here to understand the foundational paradigm:
 Each pillar contains an **Overview.md** as your entry point. Use Obsidian's graph view to explore cross-pillar connections.
 
 ---
-
 ## 📚 Library Status
 
 ### Core Foundations

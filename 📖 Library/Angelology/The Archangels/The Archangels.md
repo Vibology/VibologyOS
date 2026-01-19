@@ -4,29 +4,26 @@ system: Angelology
 date_created: 2026-01-18
 category: Overview
 ---
-
-# The Archangels: Princes of the Celestial Realm
+*Princes of the Celestial Realm*
 
 *The Great Messengers, the Named Ones, the Commanders of Heaven*
 
 **Eleven Archangelic Intelligences — Mediators Between Divine Will and Human Destiny**
 
 ---
-
 ## Overview
 
 The **Archangels** are the **named angels**—the individual celestial intelligences who have revealed themselves throughout sacred history, bearing specific names, functions, and personalities. Unlike the nine orders of angels (which represent *classes* or *types* of angelic consciousness), the Archangels are **distinct beings**, each with a unique mission, sphere of influence, and relationship to humanity.
 
 In the celestial hierarchy, the term "Archangel" appears in two distinct but related senses:
 
-1. **As an Order** (Order 8) — The eighth of nine angelic orders in Pseudo-Dionysius's hierarchy, dwelling in [[Hod]] (Splendor) on the Qabalistic Tree of Life. This order consists of many beings who serve as messengers of divine decrees. See [[Orders/Archangels]].
+1. **As an Order** (Order 8) — The eighth of nine angelic orders in Pseudo-Dionysius's hierarchy, dwelling in [[Hod]] (Splendor) on the Qabalistic Tree of Life. This order consists of many beings who serve as messengers of divine decrees. See [[8. Archangels]].
 
 2. **As Individual Princes** — The specific, named archangels who transcend their nominal position in the hierarchy to wield authority across multiple Sephiroth. These are the **Archangels** (capitalized, plural referring to the named individuals): Michael, Gabriel, Raphael, Uriel, and seven others who govern the cosmic intelligences of the Tree of Life.
 
 This overview addresses the **second sense**—the eleven named Archangels who serve as **overseers of the Sephiroth**, commanders of angelic orders, and direct intermediaries between God and humanity.
 
 ---
-
 ## The Eleven Archangels of the Sephiroth
 
 In the Qabalistic tradition, each of the ten Sephiroth (and sometimes Daath, the hidden eleventh) is governed by an Archangel who embodies that sphere's intelligence and mediates its function to creation. These are not merely "members" of Order 8—they are **princes of the celestial realm**, wielding authority comparable to or exceeding the highest orders.
@@ -44,13 +41,11 @@ In the Qabalistic tradition, each of the ten Sephiroth (and sometimes Daath, the
 | [[Gabriel]] | גבריאל | [[Yesod]] | Moon | Water | The Messenger, Herald of Change, Guardian of Dreams and Visions |
 | [[Sandalphon]] | סנדלפון | [[Malkuth]] | Earth | Earth | The Tall Angel, Prayer-Weaver, Guardian of Embodiment |
 | [[Uriel]] | אוריאל | [[Daath]]** | Hidden | Earth/Fire | Light in Darkness, Presider over Tartarus, Interpreter of Prophecy |
-
 \* Michael's traditional attribution is **Tiphareth** (Sun), though some traditions place him in Hod or Geburah. This library follows the Tiphareth attribution based on his solar nature and role as defender of the Higher Self.
 
 \** Uriel's position is contested—sometimes placed at Malkuth, sometimes Daath, sometimes hovering between them. This reflects his role as guardian of hidden wisdom and the threshold between manifest and unmanifest.
 
 ---
-
 ## The Four Archangels of the Quarters
 
 Four archangels are particularly prominent in both scripture and esoteric practice, invoked as **guardians of the four cardinal directions** and the **four elements**:
@@ -84,7 +79,6 @@ Four archangels are particularly prominent in both scripture and esoteric practi
 **Biblical:** 2 Esdras (Apocrypha), Book of Enoch
 
 ---
-
 ## The Seven Planetary Archangels
 
 In addition to the four directional archangels, three others complete the **seven planetary intelligences**:
@@ -96,7 +90,6 @@ In addition to the four directional archangels, three others complete the **seve
 These seven archangels correspond to the seven classical planets (Sun, Moon, Mercury, Venus, Mars, Jupiter, Saturn) and the seven days of the week. They are invoked in planetary magic, astrological timing, and the mediation of celestial forces into earthly affairs.
 
 ---
-
 ## The Supernal Archangels
 
 Three archangels dwell in the **Supernal Triad** (Kether, Chokmah, Binah)—the three highest Sephiroth, positioned above the Abyss, beyond the reach of ordinary human consciousness:
@@ -111,7 +104,6 @@ The keeper of divine secrets, the revealer of mysteries, the angel who gave Adam
 The silent contemplator, the guardian of form, the watcher at the threshold of the Abyss. Tzaphkiel presides over the Great Sea of Binah, the cosmic womb where all potentials are held before crystallizing into manifestation.
 
 ---
-
 ## Functions and Roles
 
 The Archangels serve multiple functions across the celestial and human realms:
@@ -132,7 +124,6 @@ The archangels stand at critical thresholds—birth, death, initiation, transfor
 Several archangels (Michael, Kamael, Tzaphkiel) serve as defenders of cosmic order, opposing forces of chaos, dissolution, and rebellion.
 
 ---
-
 ## How to Work with the Archangels
 
 ### Invocation
@@ -166,7 +157,6 @@ Not every voice that claims angelic authority is genuine. The archangels test th
 - **Alignment with sacred tradition** — Consistency with scriptural and mystical sources
 
 ---
-
 ## Archangels vs. Angels (Order 8)
 
 **Critical Distinction:**
@@ -178,7 +168,6 @@ Not every voice that claims angelic authority is genuine. The archangels test th
 The named Archangels (Michael, Gabriel, etc.) are *of* the Archangelic order in essence (they are messengers), but they wield authority *beyond* that order. Michael commands the Virtues (Order 6), yet he is called "Archangel Michael." This paradox reflects the nature of angelic nomenclature—titles overlap, functions interpenetrate, and hierarchy is fluid rather than rigid.
 
 ---
-
 ## The Archangels in Human Consciousness
 
 In Jungian terms, the archangels represent **archetypal intelligences**—autonomous psychic structures that mediate between the ego and the Self. To encounter an archangel (whether in vision, synchronicity, or inner knowing) is to meet an aspect of the deep psyche that cannot be reduced to personal experience.
@@ -196,7 +185,6 @@ In Jungian terms, the archangels represent **archetypal intelligences**—autono
 **Sandalphon** = The capacity to ground spirit in matter and embody prayer
 
 ---
-
 ## Cross-System Correspondences
 
 ### Tarot
@@ -218,7 +206,6 @@ Each archangel corresponds to centers, gates, and channels that embody their fun
 The archangels align with planets and zodiacal forces, mediating celestial influences to earthly affairs.
 
 ---
-
 ## Individual Archangel Entries
 
 For comprehensive treatment of each archangel, see their individual entries:
@@ -245,14 +232,13 @@ For comprehensive treatment of each archangel, see their individual entries:
 \* Traditional attribution is Tiphareth; see Michael's entry for detailed analysis.
 
 ---
-
 ## Internal Links
 
 ### Within Angelology
-- [[Orders/Archangels]] — The eighth order of angels (as a class)
-- [[1. Seraphim]] | [[Cherubim]] | [[Thrones]] — First Triad
-- [[Dominations]] | [[Virtues]] | [[Powers]] — Second Triad
-- [[Principalities]] | [[9. Angels]] — Third Triad
+- [[8. Archangels]] — The eighth order of angels (as a class)
+- [[1. Seraphim]] | [[2. Cherubim]] | [[3. Thrones]] — First Triad
+- [[4. Dominations]] | [[6. Virtues]] | [[5. Powers]] — Second Triad
+- [[7. Principalities]] | [[9. Angels]] — Third Triad
 - [[The Three Triads]] — Organizational structure of the hierarchy
 
 ### Qabalistic Framework

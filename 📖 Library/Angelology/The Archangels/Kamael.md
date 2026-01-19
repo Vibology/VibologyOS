@@ -619,8 +619,8 @@ In **[[Jungian psychology]]**, Kamael is the **Warrior archetype** and the **int
 - [[Sandalphon]] — Archangel of Malkuth, the Earth
 
 ### Angelic Orders
-- [[Powers]] — The Elohim, angelic choir of Geburah
-- [[Seraphim]] — The Burning Ones, pure adoration and purification
+- [[5. Powers]] — The Elohim, angelic choir of Geburah
+- [[1. Seraphim]] — The Burning Ones, pure adoration and purification
 - [[The Celestial Hierarchy]] — Pseudo-Dionysius's angelic structure
 
 ### Tarot Correspondences

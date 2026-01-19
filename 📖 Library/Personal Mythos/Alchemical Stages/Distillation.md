@@ -600,7 +600,7 @@ When the psyche embraces the work of circulation—when insights are patiently b
 - [[Gate 4]] - Mental solutions, the mind's repeated attempts to formulate answers (Distillation process)
 
 ### Related Angelology
-- [[Cherubim]] - Guardians of divine knowledge, mediating its descent to humanity
+- [[2. Cherubim]] - Guardians of divine knowledge, mediating its descent to humanity
 - [[Raphael]] - Archangel of healing, circulation of divine essence into bodily cure
 - [[Gabriel]] - The messenger angel, bringing annunciations from heaven to earth (Distillation of divine will)
 

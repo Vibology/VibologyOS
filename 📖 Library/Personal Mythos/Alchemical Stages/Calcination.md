@@ -558,7 +558,7 @@ Calcination is the fire that makes the darkness conscious. It is disagreeable. I
 - [[Gate 51]] - Shock and initiation (fire of awakening)
 
 ### Related Angelology
-- [[Seraphim]] - The "burning ones," closest to divine fire
+- [[1. Seraphim]] - The "burning ones," closest to divine fire
 - [[Michael]] - Archangel of fire, warrior, and purification
 
 ### Related Folklore & Mythology

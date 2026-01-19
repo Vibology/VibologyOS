@@ -4,7 +4,7 @@ system: Astrology
 date_created: 2026-01-08
 date_updated: 2026-01-16
 ---
-*The language of planetary timing and cosmic positioning.*
+*The language of planetary timing and cosmic positioning*
 
 ---
 ## What is Astrology?

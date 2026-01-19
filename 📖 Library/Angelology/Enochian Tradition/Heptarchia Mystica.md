@@ -5,15 +5,11 @@ subsystem: Enochian
 date_created: 2026-01-18
 category: Heptarchia
 ---
-
-# Heptarchia Mystica
-
 *The Seven-Fold Planetary Hierarchy — The 49 Good Angels and the Sigillum Dei Aemeth*
 
 **The First Enochian Revelation — Planetary Magic, the Seal of God's Truth, and the 49 Angels of the Week**
 
 ---
-
 ## Introduction
 
 The **Heptarchia Mystica** ("Mystical Sevenfold Rule") is the earliest component of the [[Enochian System Overview|Enochian system]], revealed to [[John Dee and Edward Kelley]] in **1582**, before the reception of [[The Four Watchtowers]] or [[The 30 Aethyrs]]. It constitutes a complete system of **planetary magic**, centered on:
@@ -30,7 +26,6 @@ Unlike the later Watchtowers (which organize angels by element) or the Aethyrs (
 - The angelic revealing entities: **Nalvage**, **Ave**, **Uriel**, and others
 
 ---
-
 ## The Sigillum Dei Aemeth
 
 ### Structure
@@ -87,7 +82,6 @@ Within the central heptagon are seven mystical names of God, revealed by the ang
 **Function:** Ground and anchor the Sigillum's power into the physical apparatus.
 
 ---
-
 ## The 49 Good Angels
 
 ### Organization
@@ -139,7 +133,6 @@ The 49 angels are arranged in **seven groups of seven**, each group governed by 
 **Invocation:** Ministers are called for **practical, specific tasks** (e.g., success in travel, healing an illness, gaining information).
 
 ---
-
 ## The Holy Table and Apparatus
 
 ### The Holy Table
@@ -179,7 +172,6 @@ The 49 angels are arranged in **seven groups of seven**, each group governed by 
 **The Lamen:** A hexagonal pendant worn over the heart, inscribed with divine names and the Sigillum pattern, identifying the operator as a legitimate invoker.
 
 ---
-
 ## Planetary Timing and Invocation
 
 ### Astrological Correspondences
@@ -227,7 +219,6 @@ Each day is divided into 12 daylight hours and 12 nighttime hours, each ruled by
    - Speak: *"I give thanks, [KING NAME]. Return to thy station in peace. So be it."*
 
 ---
-
 ## Cross-System Correspondences
 
 ### Qabalistic Tree of Life
@@ -268,7 +259,6 @@ The Heptarchia directly invokes planetary forces:
 **Practical Application:** Invoke the appropriate King during planetary transits, returns, or when natal planets are activated.
 
 ---
-
 ## Practical Magical Operations
 
 ### 1. Petition for Knowledge
@@ -324,7 +314,6 @@ The Heptarchia directly invokes planetary forces:
 - Petition: *"Grant courage to face [challenge]. Empower me to act with decisive strength."*
 
 ---
-
 ## The Shadow of the Heptarchia
 
 ### Ego Inflation
@@ -355,7 +344,6 @@ The Heptarchia directly invokes planetary forces:
 **Remedy:** The Sigillum is **non-optional**. Without it, the operator has no legitimate authority in the Heptarchic system.
 
 ---
-
 ## Relationship to Later Enochian Systems
 
 ### Chronology
@@ -378,7 +366,6 @@ The Heptarchia directly invokes planetary forces:
 3. Combine Jupiterian abundance with Airy communication for success in teaching or publishing
 
 ---
-
 ## Historical Context: Dee's Early Angelic Contacts
 
 ### The First Revelations (1581-1582)
@@ -405,7 +392,6 @@ Dee sought:
 The Heptarchia provided a **practical framework** for these goals, allowing Dee to petition specific planetary angels for specific purposes.
 
 ---
-
 ## The Gift of the Heptarchia
 
 At its highest expression, the Heptarchia Mystica offers:
@@ -419,14 +405,13 @@ At its highest expression, the Heptarchia Mystica offers:
 The Heptarchia is the **training ground** of Enochian magic. Those who learn to invoke the 49 Good Angels with humility, precision, and clear intention build the skills necessary for the more dangerous and exalted operations to come.
 
 ---
-
 ## Internal Links
 
 ### Within Enochian
 - [[Enochian System Overview]] — Complete introduction to Enochian magic
 - [[The Four Watchtowers]] — Elemental magic building on Heptarchic foundations
 - [[The 30 Aethyrs]] — Visionary ascent requiring the Sigillum's protection
-- [[Enochian Language and Keys]] — The linguistic framework for invocations
+- [[Enochian Language and the 48 Keys]] — The linguistic framework for invocations
 - [[John Dee and Edward Kelley]] — Historical context of the revelations
 
 ### Qabalistic Archangels

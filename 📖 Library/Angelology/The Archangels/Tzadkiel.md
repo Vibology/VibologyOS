@@ -46,7 +46,7 @@ To encounter Tzadkiel is to meet **the overwhelming generosity of the cosmos**�
 | **Alternate Spellings** | Zadkiel, Sachiel, Tzadqiel, Zedekiel |
 | **Title** | Prince of Mercy and Beneficence |
 | **Sephirah Overseen** | [[Chesed]] (Mercy, 4th emanation) |
-| **Order Commanded** | [[Dominations]] (*Chashmalim* - "Shining Ones" or "Brilliant Ones") |
+| **Order Commanded** | [[4. Dominations]] (*Chashmalim* - "Shining Ones" or "Brilliant Ones") |
 | **Triad** | [[The Three Triads\|Second Triad]] (Governors) |
 | **Planetary Sphere** | [[Jupiter ♃]] (Tzedek) - expansion, beneficence, abundance, sovereignty |
 | **Element** | Water (flow, receptivity, nourishment, abundance) |
@@ -111,7 +111,7 @@ The interplay suggests that Tzadkiel, as guardian of Chesed, mediates **the full
 
 While Pseudo-Dionysius the Areopagite does not name individual archangels in *The Celestial Hierarchy*, he establishes that each **Sephira has its presiding Archangel** who governs the order associated with that sphere.
 
-In the synthesis of Christian angelology and Qabalistic teaching (developed through medieval and Renaissance mysticism), Tzadkiel emerges as the **Archangel of Chesed**, presiding over the [[Dominations]] (also called Dominions or Lordships).
+In the synthesis of Christian angelology and Qabalistic teaching (developed through medieval and Renaissance mysticism), Tzadkiel emerges as the **Archangel of Chesed**, presiding over the [[4. Dominations]] (also called Dominions or Lordships).
 
 Pseudo-Dionysius writes of the Dominations:
 
@@ -242,15 +242,15 @@ Chesed sits on the **right-hand pillar** of the Tree of Life, called the **Pilla
 
 1. **[[Chokmah]]** (Wisdom) — Dynamic force, the "I WILL"
    - Archangel: **Raziel** (Secret of God)
-   - Order: [[Cherubim]] (Whirling Forces)
+   - Order: [[2. Cherubim]] (Whirling Forces)
 
 2. **[[Chesed]]** (Mercy) — Expansive grace, the "I GIVE"
    - Archangel: **Tzadkiel** (Righteousness of God)
-   - Order: [[Dominations]] (Shining Ones)
+   - Order: [[4. Dominations]] (Shining Ones)
 
 3. **[[Netzach]]** (Victory/Eternity) — Endurance, beauty, desire
    - Archangel: **Haniel** (Grace of God)
-   - Order: [[Principalities]] (Rulers)
+   - Order: [[7. Principalities]] (Rulers)
 
 The Pillar of Mercy is balanced by the **Pillar of Severity** (left pillar: Binah-Geburah-Hod) and the **Middle Pillar** (Kether-Tiphareth-Yesod-Malkuth).
 
@@ -373,7 +373,7 @@ Tzadkiel serves three essential functions in the hierarchy of intelligences:
 
 **1. Presiding Over the Dominations (Chashmalim)**
 
-Tzadkiel commands the [[Dominations]], the fourth order of angels, the "Shining Ones" or "Brilliant Ones" (Hebrew: *Chashmalim*). The Dominations are the cosmic administrators—they **regulate divine will** and ensure it flows through the lower orders (Virtues, Powers, Principalities, Archangels, Angels).
+Tzadkiel commands the [[4. Dominations]], the fourth order of angels, the "Shining Ones" or "Brilliant Ones" (Hebrew: *Chashmalim*). The Dominations are the cosmic administrators—they **regulate divine will** and ensure it flows through the lower orders (Virtues, Powers, Principalities, Archangels, Angels).
 
 The Chashmalim are not autonomous—they are the **expression of Tzadkiel's benevolent sovereignty**. When Tzadkiel blesses, the Dominations **enact that blessing** through the lower spheres. The relationship is seamless: Tzadkiel is the will, the Dominations are the manifestation.
 
@@ -896,7 +896,7 @@ To integrate Tzadkiel is to become the **generous king**—the one who blesses, 
 - **[[Chesed]]** — Fourth Sephira, Mercy, Loving-kindness, the Sphere of Abundance
 - **[[Tree of Life]]** — The map of divine emanation; Chesed is the fourth sphere
 - **[[Pillar of Mercy]]** — Right-hand pillar: Chokmah-Chesed-Netzach
-- **[[Dominations]]** — Angelic order of Chesed, commanded by Tzadkiel
+- **[[4. Dominations]]** — Angelic order of Chesed, commanded by Tzadkiel
 - **[[Jupiter ♃]]** — Planetary attribution of Chesed
 - **[[Qlippoth]]** — Gha'agsheblah (the shadow of Chesed, the Disturbers)
 - **El** — Divine name of Chesed
@@ -941,12 +941,12 @@ To integrate Tzadkiel is to become the **generous king**—the one who blesses, 
 ### Angelology
 - [[Overview]] — Introduction to the angelic hierarchies
 - [[The Three Triads]] — The ninefold structure of angelic orders
-- [[Dominations]] — The order Tzadkiel commands
-- [[Seraphim]] — Order 1, pure fire (first triad)
-- [[Cherubim]] — Order 2, wisdom (first triad)
-- [[Thrones]] — Order 3, cosmic law (first triad, Tzaphkiel's realm)
-- [[Virtues]] — Order 5, miracles and blessings (second triad, below Tzadkiel)
-- [[Powers]] — Order 6, cosmic warriors (second triad, Kamael's realm)
+- [[4. Dominations]] — The order Tzadkiel commands
+- [[1. Seraphim]] — Order 1, pure fire (first triad)
+- [[2. Cherubim]] — Order 2, wisdom (first triad)
+- [[3. Thrones]] — Order 3, cosmic law (first triad, Tzaphkiel's realm)
+- [[6. Virtues]] — Order 5, miracles and blessings (second triad, below Tzadkiel)
+- [[5. Powers]] — Order 6, cosmic warriors (second triad, Kamael's realm)
 - [[Angelology and Human Design Integration]] — Mapping nine orders to nine centers
 
 ### Qabalah

@@ -643,7 +643,7 @@ When the opposites unite—when the ego surrenders to partnership with the contr
 ### Related Angelology
 - [[Tzadkiel]] - Archangel of mercy, forgiveness, and reconciliation
 - [[Gabriel]] - Messenger of divine annunciation (spirit entering matter)
-- [[Archangels]] - Often depicted in male-female pairs (syzygy)
+- [[8. Archangels]] - Often depicted in male-female pairs (syzygy)
 
 ### Related Folklore & Mythology
 - [[Hieros Gamos]] (when created) - Sacred marriage ritual across cultures

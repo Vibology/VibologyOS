@@ -1,5 +1,7 @@
 {
   "propertiesInDocument": "hidden",
   "alwaysUpdateLinks": true,
-  "openBehavior": ""
+  "openBehavior": "",
+  "readableLineLength": false,
+  "promptDelete": false
 }

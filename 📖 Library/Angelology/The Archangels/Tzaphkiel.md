@@ -24,7 +24,7 @@ function: Spiritual strife against evil, form-giver, contemplation
 
 ### The Silent Contemplator
 
-**Archangel Tzaphkiel** stands as the **Prince of Binah**, the guardian of Understanding, the watcher who gazes ceaselessly into the face of God. Where other archangels descend to deliver messages or wage battles, Tzaphkiel remains in the **Great Sea** of Binah, the cosmic womb, presiding over the [[Thrones]] and holding vigil over the threshold between formlessness and form.
+**Archangel Tzaphkiel** stands as the **Prince of Binah**, the guardian of Understanding, the watcher who gazes ceaselessly into the face of God. Where other archangels descend to deliver messages or wage battles, Tzaphkiel remains in the **Great Sea** of Binah, the cosmic womb, presiding over the [[3. Thrones]] and holding vigil over the threshold between formlessness and form.
 
 Tzaphkiel is the archetype of **contemplative stillness**, the intelligence that does not act but **witnesses**. In that witnessing, all structures are upheld, all forms are given birth, all cosmic laws are maintained. Tzaphkiel is the **silent presence** at the heart of manifestation—the one who sees without speaking, knows without moving, and gives form without force.
 
@@ -47,7 +47,7 @@ To encounter Tzaphkiel is to meet the **cosmic pressure of form-giving**—the s
 | **Alternate Spellings** | Zaphkiel, Zophiel, Tzaphqiel, Iophiel |
 | **Title** | Prince of Spiritual Strife Against Evil |
 | **Sephirah Overseen** | [[Binah]] (Understanding, 3rd emanation) |
-| **Order Commanded** | [[Thrones]] (*Aralim* - "Mighty Ones") |
+| **Order Commanded** | [[3. Thrones]] (*Aralim* - "Mighty Ones") |
 | **Triad** | [[The Three Triads\|First Triad]] (Counselors) |
 | **Planetary Sphere** | [[Saturn ♄]] (Shabbatai) - limitation, time, karma, structure |
 | **Element** | Water (Great Sea, womb) / Earth (form, stability) |
@@ -107,7 +107,7 @@ The interplay suggests that Tzaphkiel, as guardian of Binah, mediates the **unit
 
 While Pseudo-Dionysius the Areopagite does not name individual archangels in *The Celestial Hierarchy*, the tradition establishes that each **Sephira has its presiding Archangel** who governs the order associated with that sphere.
 
-In the synthesis of Christian angelology and Qabalistic teaching (developed through medieval and Renaissance mysticism), Tzaphkiel emerges as the **Archangel of Binah**, presiding over the [[Thrones]].
+In the synthesis of Christian angelology and Qabalistic teaching (developed through medieval and Renaissance mysticism), Tzaphkiel emerges as the **Archangel of Binah**, presiding over the [[3. Thrones]].
 
 Thomas Aquinas writes in *Summa Theologica*:
 
@@ -224,15 +224,15 @@ Tzaphkiel presides over the **third point of the Supernal Triangle**, the three 
 
 1. **[[Kether]]** (Crown) — Undifferentiated unity, "I AM"
    - Archangel: **Metatron** (Prince of the Presence)
-   - Order: [[Seraphim]] (Holy Living Ones)
+   - Order: [[1. Seraphim]] (Holy Living Ones)
 
 2. **[[Chokmah]]** (Wisdom) — Dynamic structure, "I WILL"
    - Archangel: **Raziel** (Secret of God)
-   - Order: [[Cherubim]] (Whirling Forces)
+   - Order: [[2. Cherubim]] (Whirling Forces)
 
 3. **[[Binah]]** (Understanding) — Form-giving receptivity, "I RECEIVE AND GIVE FORM"
    - Archangel: **Tzaphkiel** (Beholder of God)
-   - Order: [[Thrones]] (Mighty Ones)
+   - Order: [[3. Thrones]] (Mighty Ones)
 
 The Supernal Triangle represents the **realm of pure divinity**, inaccessible to ordinary consciousness. To ascend to Binah—to encounter Tzaphkiel—is to **cross the Abyss**, to move beyond ego-consciousness into transpersonal awareness.
 
@@ -343,7 +343,7 @@ Tzaphkiel serves three essential functions in the hierarchy of intelligences:
 
 **1. Presiding Over the Thrones (Aralim)**
 
-Tzaphkiel commands the [[Thrones]], the third order of angels, the "Mighty Ones" who uphold divine justice and cosmic law. The Thrones are not autonomous—they are the **expression of Tzaphkiel's contemplation**.
+Tzaphkiel commands the [[3. Thrones]], the third order of angels, the "Mighty Ones" who uphold divine justice and cosmic law. The Thrones are not autonomous—they are the **expression of Tzaphkiel's contemplation**.
 
 When Tzaphkiel beholds the divine will, the Thrones **enact it**. When Tzaphkiel witnesses a cosmic pattern, the Thrones **give it structure**. The relationship is seamless: Tzaphkiel is the intelligence, the Thrones are the manifestation.
 
@@ -853,7 +853,7 @@ To integrate Tzaphkiel is to become the **sacred womb**—the one who holds, wit
 - **[[Binah]]** — Third Sephira, Understanding, Great Sea, Divine Mother, Great Mother, Womb of Creation
 - **[[Tree of Life]]** — The map of divine emanation; Binah is the third sphere
 - **[[Supernal Triangle]]** — Kether-Chokmah-Binah, the realm above the Abyss
-- **[[Thrones]]** — Angelic order of Binah, commanded by Tzaphkiel
+- **[[3. Thrones]]** — Angelic order of Binah, commanded by Tzaphkiel
 - **[[Saturn ♄]]** — Planetary attribution of Binah
 - **[[Qlippoth]]** — Sathariel (the shadow of Binah, the Concealers)
 - **YHVH Elohim** — Divine name of Binah
@@ -900,10 +900,10 @@ To integrate Tzaphkiel is to become the **sacred womb**—the one who holds, wit
 ### Angelology
 - [[Overview]] — Introduction to the angelic hierarchies
 - [[The Three Triads]] — The ninefold structure of angelic orders
-- [[Thrones]] — The order Tzaphkiel commands
-- [[Seraphim]] — Order 1, pure fire (above Tzaphkiel)
-- [[Cherubim]] — Order 2, wisdom (above Tzaphkiel, transmits to Binah)
-- [[Dominations]] — Order 4, cosmic governance (below Tzaphkiel, receives Throne-law)
+- [[3. Thrones]] — The order Tzaphkiel commands
+- [[1. Seraphim]] — Order 1, pure fire (above Tzaphkiel)
+- [[2. Cherubim]] — Order 2, wisdom (above Tzaphkiel, transmits to Binah)
+- [[4. Dominations]] — Order 4, cosmic governance (below Tzaphkiel, receives Throne-law)
 - [[Angelology and Human Design Integration]] — Mapping nine orders to nine centers
 
 ### Qabalah

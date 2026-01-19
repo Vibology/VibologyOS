@@ -644,7 +644,7 @@ Psychologically: **The Self (the Grail) is not conquered but revealed. It appear
 - [[Folklore/World Mythology/Greek Mythology|Greek Mythology]] – The Golden Fleece, the Golden Apples, Prometheus' fire; heroic Quest Objects
 - [[Folklore/World Mythology/Norse Mythology|Norse Mythology]] – The mead of poetry, the ring of power (cursed treasure), Odin's sacrifice for runes
 - [[Folklore/World Mythology/Celtic Mythology|Celtic Mythology]] – The cauldron of plenty, the Grail legends, the Salmon of Wisdom
-- [[Angelology/Orders/Seraphim|Seraphim]] – The burning ones, the treasure of divine fire; proximity to the Source
+- [[1. Seraphim|Seraphim]] – The burning ones, the treasure of divine fire; proximity to the Source
 - [[The Tarot/The Tree of Life (Qabalah)|Qabalah]] – Keter (the crown, the ultimate treasure), the lightning flash descending, the path of return
 - [[The Collective Unconscious]] – The treasure buried in the shared psychic depths
 - [[The Personal Myth]] – Your unique Quest Object, the treasure only you can find

@@ -609,7 +609,7 @@ For those living in a **false self** (performing the domesticated swan, the sile
 [[Saturn ♄]] • [[Neptune ♆]] • [[Pluto ♇]] • [[Moon ☽]] • [[Chiron]] • [[12th House]] • [[8th House]] • [[Pisces ♓]] • [[Scorpio ♏]] • [[Capricorn ♑]]
 
 **Angelology:**
-[[Raphael]] • [[Gabriel]] • [[Tzaphkiel]] • [[Sandalphon]] • [[Thrones]] • [[Powers]]
+[[Raphael]] • [[Gabriel]] • [[Tzaphkiel]] • [[Sandalphon]] • [[3. Thrones]] • [[5. Powers]]
 
 ---
 
