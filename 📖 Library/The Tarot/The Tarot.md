@@ -17,7 +17,7 @@ The **Tarot** is a symbolic language encoded in 78 archetypal images, operating 
 
 - **A divination system** — Revealing hidden patterns, future trajectories, and unconscious dynamics
 - **A Qabalistic map** — Encoding the [[Tree of Life]]'s ten Sephiroth and twenty-two Paths
-- **An initiatory sequence** — The "Legend of the Soul" from innocence ([[The Fool]]) to completion ([[The World]])
+- **An initiatory sequence** — The "Legend of the Soul" from innocence ([[0 - The Fool]]) to completion ([[21 - The World]])
 - **A psychological mirror** — Reflecting the archetypal structures of the collective unconscious
 - **A meditative focus** — Each card a gateway to visionary pathworking and inner transformation
 
@@ -47,30 +47,30 @@ Unlike systems revealed through scrying (like [[Enochian System Overview|Enochia
 
 **The Complete List:**
 
-| Number | Card | Hebrew Letter | Attribution | Path on Tree |
-|--------|------|---------------|-------------|--------------|
-| 0 | [[The Fool]] | Aleph (א) | Air | Kether to Chokmah |
-| I | [[The Magician]] | Beth (ב) | Mercury | Kether to Binah |
-| II | [[The High Priestess]] | Gimel (ג) | Moon | Kether to Tiphareth |
-| III | [[The Empress]] | Daleth (ד) | Venus | Chokmah to Binah |
-| IV | [[The Emperor]] | Heh (ה) | Aries | Chokmah to Tiphareth |
-| V | [[The Hierophant]] | Vav (ו) | Taurus | Chokmah to Chesed |
-| VI | [[The Lovers]] | Zayin (ז) | Gemini | Binah to Tiphareth |
-| VII | [[The Chariot]] | Cheth (ח) | Cancer | Binah to Geburah |
-| VIII | [[Strength]] | Teth (ט) | Leo | Chesed to Geburah |
-| IX | [[The Hermit]] | Yod (י) | Virgo | Chesed to Tiphareth |
-| X | [[The Wheel of Fortune]] | Kaph (כ) | Jupiter | Chesed to Netzach |
-| XI | [[Justice]] | Lamed (ל) | Libra | Geburah to Tiphareth |
-| XII | [[The Hanged Man]] | Mem (מ) | Water | Geburah to Hod |
-| XIII | [[Death]] | Nun (נ) | Scorpio | Tiphareth to Netzach |
-| XIV | [[Temperance]] | Samekh (ס) | Sagittarius | Tiphareth to Yesod |
-| XV | [[The Devil]] | Ayin (ע) | Capricorn | Tiphareth to Hod |
-| XVI | [[The Tower]] | Peh (פ) | Mars | Netzach to Hod |
-| XVII | [[The Star]] | Tzaddi (צ) | Aquarius | Netzach to Yesod |
-| XVIII | [[The Moon]] | Qoph (ק) | Pisces | Netzach to Malkuth |
-| XIX | [[The Sun]] | Resh (ר) | Sun | Hod to Yesod |
-| XX | [[Judgement]] | Shin (ש) | Fire | Hod to Malkuth |
-| XXI | [[The World]] | Tau (ת) | Saturn | Yesod to Malkuth |
+| Card | Hebrew Letter | Attribution | Path on Tree |
+|------|---------------|-------------|--------------|
+| [[0 - The Fool]] | Aleph (א) | Air | Kether to Chokmah |
+| [[1 - The Magician]] | Beth (ב) | Mercury | Kether to Binah |
+| [[2 - The High Priestess]] | Gimel (ג) | Moon | Kether to Tiphareth |
+| [[3 - The Empress]] | Daleth (ד) | Venus | Chokmah to Binah |
+| [[4 - The Emperor]] | Heh (ה) | Aries | Chokmah to Tiphareth |
+| [[5 - The Hierophant]] | Vav (ו) | Taurus | Chokmah to Chesed |
+| [[6 - The Lovers]] | Zayin (ז) | Gemini | Binah to Tiphareth |
+| [[7 - The Chariot]] | Cheth (ח) | Cancer | Binah to Geburah |
+| [[8 - Strength]] | Teth (ט) | Leo | Chesed to Geburah |
+| [[9 - The Hermit]] | Yod (י) | Virgo | Chesed to Tiphareth |
+| [[10 - Wheel of Fortune]] | Kaph (כ) | Jupiter | Chesed to Netzach |
+| [[11 - Justice]] | Lamed (ל) | Libra | Geburah to Tiphareth |
+| [[12 - The Hanged Man]] | Mem (מ) | Water | Geburah to Hod |
+| [[13 - Death]] | Nun (נ) | Scorpio | Tiphareth to Netzach |
+| [[14 - Temperance]] | Samekh (ס) | Sagittarius | Tiphareth to Yesod |
+| [[15 - The Devil]] | Ayin (ע) | Capricorn | Tiphareth to Hod |
+| [[16 - The Tower]] | Peh (פ) | Mars | Netzach to Hod |
+| [[17 - The Star]] | Tzaddi (צ) | Aquarius | Netzach to Yesod |
+| [[18 - The Moon]] | Qoph (ק) | Pisces | Netzach to Malkuth |
+| [[19 - The Sun]] | Resh (ר) | Sun | Hod to Yesod |
+| [[20 - Judgement]] | Shin (ש) | Fire | Hod to Malkuth |
+| [[21 - The World]] | Tau (ת) | Saturn | Yesod to Malkuth |
 
 **Note:** The numbering of Strength (VIII) and Justice (XI) varies between traditions. The Golden Dawn/Thoth system (followed here) swaps them to align with astrological zodiacal order (Leo before Libra).
 
@@ -152,32 +152,32 @@ Each card exists simultaneously in all four worlds, though its primary expressio
 ### Hebrew Letters and Attributions
 
 **The Three Mother Letters (Elementals):**
-- **Aleph (א)** — Air — [[The Fool]] (0)
-- **Mem (מ)** — Water — [[The Hanged Man]] (XII)
-- **Shin (ש)** — Fire — [[Judgement]] (XX)
+- **Aleph (א)** — Air — [[0 - The Fool]]
+- **Mem (מ)** — Water — [[12 - The Hanged Man]]
+- **Shin (ש)** — Fire — [[20 - Judgement]]
 
 **The Seven Double Letters (Planets):**
-- **Beth (ב)** — Mercury — [[The Magician]] (I)
-- **Gimel (ג)** — Moon — [[The High Priestess]] (II)
-- **Daleth (ד)** — Venus — [[The Empress]] (III)
-- **Kaph (כ)** — Jupiter — [[The Wheel of Fortune]] (X)
-- **Peh (פ)** — Mars — [[The Tower]] (XVI)
-- **Resh (ר)** — Sun — [[The Sun]] (XIX)
-- **Tau (ת)** — Saturn — [[The World]] (XXI)
+- **Beth (ב)** — Mercury — [[1 - The Magician]]
+- **Gimel (ג)** — Moon — [[2 - The High Priestess]]
+- **Daleth (ד)** — Venus — [[3 - The Empress]]
+- **Kaph (כ)** — Jupiter — [[10 - Wheel of Fortune]]
+- **Peh (פ)** — Mars — [[16 - The Tower]]
+- **Resh (ר)** — Sun — [[19 - The Sun]]
+- **Tau (ת)** — Saturn — [[21 - The World]]
 
 **The Twelve Simple Letters (Zodiac):**
-- **Heh (ה)** — Aries — [[The Emperor]] (IV)
-- **Vav (ו)** — Taurus — [[The Hierophant]] (V)
-- **Zayin (ז)** — Gemini — [[The Lovers]] (VI)
-- **Cheth (ח)** — Cancer — [[The Chariot]] (VII)
-- **Teth (ט)** — Leo — [[Strength]] (VIII)
-- **Yod (י)** — Virgo — [[The Hermit]] (IX)
-- **Lamed (ל)** — Libra — [[Justice]] (XI)
-- **Nun (נ)** — Scorpio — [[Death]] (XIII)
-- **Samekh (ס)** — Sagittarius — [[Temperance]] (XIV)
-- **Ayin (ע)** — Capricorn — [[The Devil]] (XV)
-- **Tzaddi (צ)** — Aquarius — [[The Star]] (XVII)
-- **Qoph (ק)** — Pisces — [[The Moon]] (XVIII)
+- **Heh (ה)** — Aries — [[4 - The Emperor]]
+- **Vav (ו)** — Taurus — [[5 - The Hierophant]]
+- **Zayin (ז)** — Gemini — [[6 - The Lovers]]
+- **Cheth (ח)** — Cancer — [[7 - The Chariot]]
+- **Teth (ט)** — Leo — [[8 - Strength]]
+- **Yod (י)** — Virgo — [[9 - The Hermit]]
+- **Lamed (ל)** — Libra — [[11 - Justice]]
+- **Nun (נ)** — Scorpio — [[13 - Death]]
+- **Samekh (ס)** — Sagittarius — [[14 - Temperance]]
+- **Ayin (ע)** — Capricorn — [[15 - The Devil]]
+- **Tzaddi (צ)** — Aquarius — [[17 - The Star]]
+- **Qoph (ק)** — Pisces — [[18 - The Moon]]
 
 ---
 ## Historical Development
@@ -230,7 +230,7 @@ Each card exists simultaneously in all four worlds, though its primary expressio
 - **Style:** Accessible, symbolic, Christian-mystical overtones
 - **Influence:** Most widely used deck; template for hundreds of modern variants
 - **Strengths:** Intuitive imagery, strong for beginners
-- **Limitations:** Waite sanitized some Qabalistic elements (e.g., softened [[The Devil]])
+- **Limitations:** Waite sanitized some Qabalistic elements (e.g., softened [[15 - The Devil]])
 
 **2. Thoth Tarot (1969)**
 - **Creators:** Aleister Crowley (occultist), Lady Frieda Harris (artist)
@@ -447,7 +447,7 @@ The 22 Major Arcana tell a **sequential narrative**—the soul's journey from in
 **Pathworking** is a meditative practice of **visionary journey** along the Paths of the Tree of Life, using a Major Arcanum as the gateway.
 
 **Method:**
-1. **Select a Path** — Choose a Major Arcanum (e.g., [[The High Priestess]], path of Gimel)
+1. **Select a Path** — Choose a Major Arcanum (e.g., [[2 - The High Priestess]], path of Gimel)
 2. **Prepare sacred space** — Banishing ritual, candles, incense
 3. **Gaze at the card** — Study the imagery until it's internalized
 4. **Enter trance** — Close eyes, visualize stepping into the card
@@ -461,7 +461,7 @@ The 22 Major Arcana tell a **sequential narrative**—the soul's journey from in
 
 **Modern Use:**
 - Self-initiation through sequential pathworking (The Fool to The World)
-- Shadow work by pathworking difficult cards ([[The Devil]], [[The Tower]], [[Death]])
+- Shadow work by pathworking difficult cards ([[15 - The Devil]], [[16 - The Tower]], [[13 - Death]])
 
 ---
 ## Cross-System Correspondences
@@ -469,22 +469,22 @@ The 22 Major Arcana tell a **sequential narrative**—the soul's journey from in
 ### Tarot and Astrology
 
 **Planetary Cards (7):**
-- **Sun** — [[The Sun]] (XIX)
-- **Moon** — [[The High Priestess]] (II)
-- **Mercury** — [[The Magician]] (I)
-- **Venus** — [[The Empress]] (III)
-- **Mars** — [[The Tower]] (XVI)
-- **Jupiter** — [[The Wheel of Fortune]] (X)
-- **Saturn** — [[The World]] (XXI)
+- **Sun** — [[19 - The Sun]]
+- **Moon** — [[2 - The High Priestess]]
+- **Mercury** — [[1 - The Magician]]
+- **Venus** — [[3 - The Empress]]
+- **Mars** — [[16 - The Tower]]
+- **Jupiter** — [[10 - Wheel of Fortune]]
+- **Saturn** — [[21 - The World]]
 
 **Zodiacal Cards (12):**
 - Each of the 12 Simple-Letter trumps governs a zodiacal sign
-- **Example:** [[The Emperor]] (Aries) speaks to leadership, initiation, primal fire
+- **Example:** [[4 - The Emperor]] (Aries) speaks to leadership, initiation, primal fire
 
 **Elemental Cards (3 + 4 suits):**
-- **Air** — [[The Fool]] (Aleph) + Suit of Swords
-- **Water** — [[The Hanged Man]] (Mem) + Suit of Cups
-- **Fire** — [[Judgement]] (Shin) + Suit of Wands
+- **Air** — [[0 - The Fool]] (Aleph) + Suit of Swords
+- **Water** — [[12 - The Hanged Man]] (Mem) + Suit of Cups
+- **Fire** — [[20 - Judgement]] (Shin) + Suit of Wands
 - **Earth** — Suit of Pentacles
 
 **Court Cards:**
@@ -493,9 +493,9 @@ The 22 Major Arcana tell a **sequential narrative**—the soul's journey from in
 ### Tarot and Human Design
 
 **Gates and Trumps:**
-- **Gate 51** (Shock) ↔ [[The Tower]] (sudden revelation, disruption)
-- **Gate 2** (Receptivity) ↔ [[The High Priestess]] (feminine receptivity, hidden knowledge)
-- **Gate 14** (Power Skills) ↔ [[The Sun]] (radiant expression, vitality)
+- **Gate 51** (Shock) ↔ [[16 - The Tower]] (sudden revelation, disruption)
+- **Gate 2** (Receptivity) ↔ [[2 - The High Priestess]] (feminine receptivity, hidden knowledge)
+- **Gate 14** (Power Skills) ↔ [[19 - The Sun]] (radiant expression, vitality)
 
 **Centers and Suits:**
 - **Throat Center** ↔ Swords (communication, manifestation of thought)
@@ -516,10 +516,10 @@ VibologyOS's [[The Window]] integrates I-Ching structure with Jungian archetypes
 ### Tarot and Angelology
 
 **Archangelic Correspondences:**
-- **[[Michael]]** — [[The Sun]] (XIX), [[Temperance]] (XIV) — Solar defender, alchemical integration
-- **[[Gabriel]]** — [[The High Priestess]] (II), [[The Moon]] (XVIII) — Lunar mysteries, revelation
-- **[[Raphael]]** — [[The Lovers]] (VI), [[The Magician]] (I) — Healing union, mercurial skill
-- **[[Uriel]]** — [[The Devil]] (XV), [[The World]] (XXI) — Earth wisdom, illumination in darkness
+- **[[Michael]]** — [[19 - The Sun]], [[14 - Temperance]] — Solar defender, alchemical integration
+- **[[Gabriel]]** — [[2 - The High Priestess]], [[18 - The Moon]] — Lunar mysteries, revelation
+- **[[Raphael]]** — [[6 - The Lovers]], [[1 - The Magician]] — Healing union, mercurial skill
+- **[[Uriel]]** — [[15 - The Devil]], [[21 - The World]] — Earth wisdom, illumination in darkness
 
 **Sephirotic Archangels:**
 Each numbered card (Ace-Ten) connects to the Sephirah's governing archangel (e.g., all Sixes to [[Raphael]] in [[Tiphareth]]).
@@ -527,11 +527,11 @@ Each numbered card (Ace-Ten) connects to the Sephirah's governing archangel (e.g
 ### Tarot and Jungian Psychology
 
 **Major Arcana as Archetypes:**
-- **[[The Fool]]** — The Innocent, the Eternal Child
-- **[[The Magician]]** — The Trickster, the Master of Tools
-- **[[The High Priestess]]** — The Anima, the Wise Woman
-- **[[The Shadow]]** — [[The Devil]], repressed desires and illusions
-- **[[The Self]]** — [[The World]], totality and integration
+- **[[0 - The Fool]]** — The Innocent, the Eternal Child
+- **[[1 - The Magician]]** — The Trickster, the Master of Tools
+- **[[2 - The High Priestess]]** — The Anima, the Wise Woman
+- **[[The Shadow]]** — [[15 - The Devil]], repressed desires and illusions
+- **[[The Self]]** — [[21 - The World]], totality and integration
 
 **Individuation Stages:**
 The Major Arcana sequence mirrors Jung's individuation process (see [[Individuation Process]]).
@@ -629,12 +629,12 @@ Tarot does not predict a fixed future—it **illuminates the present** with such
 ## Internal Links
 
 ### Major Arcana (22 Cards)
-- [[The Fool]] (0) | [[The Magician]] (I) | [[The High Priestess]] (II) | [[The Empress]] (III)
-- [[The Emperor]] (IV) | [[The Hierophant]] (V) | [[The Lovers]] (VI) | [[The Chariot]] (VII)
-- [[Strength]] (VIII) | [[The Hermit]] (IX) | [[The Wheel of Fortune]] (X) | [[Justice]] (XI)
-- [[The Hanged Man]] (XII) | [[Death]] (XIII) | [[Temperance]] (XIV) | [[The Devil]] (XV)
-- [[The Tower]] (XVI) | [[The Star]] (XVII) | [[The Moon]] (XVIII) | [[The Sun]] (XIX)
-- [[Judgement]] (XX) | [[The World]] (XXI)
+- [[0 - The Fool]] | [[1 - The Magician]] | [[2 - The High Priestess]] | [[3 - The Empress]]
+- [[4 - The Emperor]] | [[5 - The Hierophant]] | [[6 - The Lovers]] | [[7 - The Chariot]]
+- [[8 - Strength]] | [[9 - The Hermit]] | [[10 - Wheel of Fortune]] | [[11 - Justice]]
+- [[12 - The Hanged Man]] | [[13 - Death]] | [[14 - Temperance]] | [[15 - The Devil]]
+- [[16 - The Tower]] | [[17 - The Star]] | [[18 - The Moon]] | [[19 - The Sun]]
+- [[20 - Judgement]] | [[21 - The World]]
 
 ### Minor Arcana Suits
 - [[Wands]] — Fire, creativity, will (14 cards: Ace-Ten, 4 Courts)
