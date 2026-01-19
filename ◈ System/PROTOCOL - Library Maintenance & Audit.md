@@ -1,15 +1,18 @@
 ---
 tags: [system, protocol, maintenance, audit, library-quality]
 date_created: 2026-01-10
-version: 1.0
+date_updated: 2026-01-19
+version: 1.1
 status: Active
 ---
 
 # Library Maintenance & Audit Protocol
 
+**Current Library Statistics:** See `📖 Library/📖 Library Status.md` for up-to-date entry counts and pillar distribution.
+
 ## Purpose
 
-The Library is the foundational knowledge base of VibologyOS—currently 159 files across 7 pillars, scaling toward 500+. Without systematic maintenance, quality degrades over time through:
+The Library is the foundational knowledge base of VibologyOS. Without systematic maintenance, quality degrades over time through:
 - **Dead links** (references to entries that don't exist or have moved)
 - **Incomplete stubs** (entries marked TBD or below Tier 1 quality)
 - **Outdated synthesis** (insights superseded by deeper understanding)
