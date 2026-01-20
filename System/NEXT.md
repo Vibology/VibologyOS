@@ -22,20 +22,24 @@
    - Archived: 4 completed plan files (Library Build Strategy, Angelology/Personal Mythos/Window plans)
    - Verified Personal Mythos (74 entries) and Window (72 entries) pillars complete
 
-3. **Incarnation Crosses Phase 1** (13 entries)
-   - Overview document (system explanation, four quarters)
-   - 12 gateway Right Angle Cross entries at Tier 2:
-     - Quarter of Initiation: Sphinx, Vessel of Love, Opinions
-     - Quarter of Civilization: Driver, Role of the Self, Extremes
-     - Quarter of Duality: Love of the Body, Vessel of Love 2, Eden
-     - Quarter of Mutation: Penetration, Maya, Plane
-   - ~15,000 words of new Human Design content
+3. **Incarnation Crosses Phase 1** (13 entries from NotebookLM)
+   - Overview document (system explanation, four quarters, 16 cross archetypes)
+   - 12 RAX entries (3 cross types × 4 quarters):
+     - Sphinx (1-4): All four quarter variations
+     - Explanation (1-4): All four quarter variations
+     - Contagion (1-4): All four quarter variations
+   - All gate combinations verified against Esoteric Grimoire
 
 ### Commits
 - `6978e99` Remove Obsidian settings from tracking, update humandesign_api
 - `61c173c` Mark Backup & Preservation Protocol complete (Gap #3)
 - `94a1213` Clean up System folder: archive completed plans
-- `fcac38c` Incarnation Crosses Phase 1: Foundation complete (13 entries)
+- `6c5dce9` Rebuild Incarnation Crosses Phase 1 with NotebookLM data (13 entries)
+
+### Protocol Correction
+Initial Phase 1 entries were built from training knowledge instead of NotebookLM.
+Deleted incorrect entries and rebuilt with canonical data from Esoteric Grimoire.
+All gate combinations and Ra keynotes now verified against authoritative source.
 
 ---
 
