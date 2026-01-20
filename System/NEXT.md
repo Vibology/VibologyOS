@@ -5,68 +5,82 @@
 
 ---
 
-## Recent Session: Human Design Chart Renderer Enhancement
+## Recent Session: PDF Report Enhancements & Client Chart Generation
 
-**2026-01-19:** Major enhancements to the humandesign_api bodygraph chart renderer and PDF generator.
+**2026-01-19:** Enhanced PDF report structure, added centers section, tested end-to-end chart generation workflow.
 
 ### Completed This Session
 
-1. **Chart Renderer Visual Overhaul**
-   - Chakra-aligned center colors (defined centers now show their traditional colors)
-   - Fixed center rendering - centers now properly derive from channel data
-   - Added planetary activation side panels (Design left, Personality right)
-   - Added cell borders and headers to planetary panels
-   - "Design" and "Personality" headers moved to top, enlarged to 12pt
+1. **PDF Report Structure Overhaul**
+   - Reordered sections: Type → Strategy → Authority → Profile → Centers → Incarnation Cross → Channels
+   - Separated Strategy into its own section
+   - Added page breaks between each section for clean formatting
+   - Added KeepTogether blocks to prevent orphaned lines
 
-2. **Summary Panel**
-   - Large bottom panel (175px height) with Type, Strategy, Authority, Profile, Definition, Cross
-   - Variables badge with proper 6-character notation (PLLDRL format)
-   - Added "VARIABLES" label above badge for clarity
-   - Generous spacing and 11-15pt fonts for readability
+2. **Centers Section Added**
+   - Full interpretations for all 9 centers (defined and undefined versions)
+   - Defined centers explain consistent energy you can rely on
+   - Undefined centers explain openness, conditioning, and wisdom potential
 
-3. **Variable Notation Fixed**
-   - Researched via Library and NotebookLM
-   - Format: `P[Motivation][Perspective]D[Digestion][Environment]`
-   - Example: PLLDRL = Personality Left-Left, Design Right-Left
-   - Correctly maps to the four arrows in HD chart
+3. **Expanded Interpretations**
+   - Generator, MG, Projector, Manifestor, Reflector type descriptions enhanced
+   - Solar Plexus authority with detailed emotional wave guidance
+   - Profile lines 4 (Opportunist) and 6 (Role Model) with depth
+   - Channel interpretations for 5/15, 6/59, 29/46, 34/57
 
-4. **PDF Generator**
-   - Multi-page PDF with chart image on page 1
-   - Type, Authority, Profile interpretations on subsequent pages
-   - Title/date spacing fixed
-   - Removed duplicate overview section
+4. **Metadata Extraction Fixed**
+   - PDF header now correctly shows client name as title
+   - Birth date formatted elegantly (e.g., "May 17, 1976")
+   - Birth city displayed (e.g., "Kaposvár, Hungary")
+   - Data extracted from `meta` object in JSON
 
-5. **Data Handling Fixes**
-   - Center name normalization (G_Center → G)
-   - Channel format parsing ("6/59: The Channel of..." format)
-   - Variable extraction from nested JSON structure
-   - Strategy derivation from energy type
+5. **End-to-End Chart Generation Tested**
+   - Generated Szilvia Williams chart from scratch
+   - Workflow: Birth data → Geolocation verification → HD calculation → JSON → PDF
+   - Files: `humandesign.json`, `humandesign_chart.pdf`
 
-### Commits (humandesign_api submodule)
-- `ce5c20c` Significantly enlarge summary panel with generous spacing
-- `8704b13` Enlarge summary panel and add VARIABLES label
-- `48cc5bd` Fix variable notation to correct 6-character format (PLLDRL)
-- `bc4c066` Increase summary panel size and font sizes
-- `4790bad` Fix variables badge (RRRR issue) and increase summary panel font sizes
-- `0ac040e` Fix planetary panel header position - move Design/Personality to top
-- `6198037` Add cell borders to planetary panels and increase header text size
-- `342d82f` Fix defined centers not rendering - normalize G_Center to G
-- `b99963f` Add enhanced bodygraph renderer with chakra colors, planetary panels, and PDF generation
+6. **Directory Restructuring**
+   - Removed emoji prefixes from directories (◈, 📖, 🤝, ⚛)
+   - Cleaner paths: `System/`, `Library/`, `Consultations/`, `Synthesis/`
 
-### Test Files Generated
-- `/Consultations/Joe Lewis/test_hd_chart.png`
-- `/Consultations/Joe Lewis/test_hd_chart.pdf`
+### Commits
+- `68e3549` (VibologyOS) Restructure directories, add client data, update humandesign_api
+- `2c60246` (humandesign_api) Enhance PDF report with centers, expanded interpretations, and metadata extraction
+
+### Chart Generation Workflow
+```bash
+# 1. Verify geolocation
+python verify_geolocation.py --place "City, Country" --birth-date "YYYY-MM-DD" --pretty
+
+# 2. Start HD API (if not running)
+cd humandesign_api && uvicorn humandesign.api:app --host 127.0.0.1 --port 8000 &
+
+# 3. Calculate chart
+python get_hd_data.py --name "Name" --year YYYY --month M --day D --hour H --minute M \
+  --place "City, Country" --lat XX.XXX --lng YY.YYY > humandesign.json
+
+# 4. Generate PDF
+python -c "
+from humandesign.services import pdf_generator
+import json
+with open('humandesign.json') as f: data = json.load(f)
+pdf = pdf_generator.generate_chart_pdf(data)
+with open('chart.pdf', 'wb') as f: f.write(pdf)
+"
+```
 
 ---
 
-## Previous Session: First Cross-System Synthesis
+## Previous Session: Chart Renderer Visual Overhaul
 
-**2026-01-19:** Deep synthesis work exploring Mary Magdalene's Eight Boughs, the nature of separation, and the soul's capacity for self-healing.
+**2026-01-19:** Major enhancements to bodygraph chart renderer.
 
 ### Completed
-- **First Major Synthesis Piece:** `The Tree of Return - On Separation, Occlusion, and the Sword That Was Always Ours.md`
-- Location: `Synthesis/General/`
-- Systems integrated: Magdalene Path, Qabalah, Angelology, Human Design, Jungian Psychology
+- Chakra-aligned center colors for defined centers
+- Planetary activation side panels (Design left, Personality right)
+- Summary panel with Type, Strategy, Authority, Profile, Definition, Cross
+- Variables badge with correct 6-character notation (PLLDRL format)
+- Center name normalization, channel format parsing
 
 ---
 
@@ -91,12 +105,10 @@
 
 ## Available Work Paths
 
-### Priority 1: Continue Chart Renderer Work
-**Status:** Core functionality complete, ready for review.
-**Remaining opportunities:**
-- Fine-tune visual styling based on feedback
-- Add more interpretation content to PDF
-- Test with additional chart data
+### Priority 1: Client Work
+**Status:** Full chart generation workflow tested and working.
+**Outputs:** Bodygraph PNG, JSON data, PDF report (optional)
+**Note:** User may prefer manual report creation in Apple Pages using generated chart image and JSON data for more control over formatting.
 
 ### Priority 2: Continue Synthesis Work
 **Questions from The Tree of Return synthesis:**
@@ -104,11 +116,7 @@
 - The role of masculine principle in Mary's architecture
 - Bridal Chamber ↔ Syzygy (anima/animus integration)
 
-### Priority 3: Client Work
-**Status:** Client Work Protocol complete. Ready for consultations.
-**Workflow:** `PROTOCOL - Client Work.md`
-
-### Priority 4: Library Maintenance
+### Priority 3: Library Maintenance
 **Next Quarterly Audit:** ~April 18, 2026 (90-day cycle from 2026-01-18)
 
 ---
@@ -127,11 +135,12 @@
 
 ### Technical
 - `System/humandesign_api/` — Human Design calculation API with chart renderer
+- `System/Scripts/` — Geolocation verification, HD data scripts, transit calculations
 
 ---
 
 ## Notes
 
 - **Git Status:** Single source of truth for uncommitted work
-- **humandesign_api:** Submodule is 9 commits ahead of origin/main (not pushed)
+- **humandesign_api:** Submodule is 10 commits ahead of origin/main (not pushed)
 - **Session Start:** Check git status, git log, and this file for context
