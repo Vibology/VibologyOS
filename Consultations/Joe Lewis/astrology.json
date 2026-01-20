@@ -1,0 +1,166 @@
+{
+  "meta": {
+    "name": "Joe Lewis",
+    "birth_date": "1978-09-18",
+    "birth_time": "17:34",
+    "coordinates": {
+      "lat": 37.6706,
+      "lng": -82.2807
+    },
+    "timezone": "America/New_York",
+    "calculation_timestamp": "2026-01-17T07:31:08.860852+00:00",
+    "engine": "kerykeion/pyswisseph"
+  },
+  "planets": {
+    "sun": {
+      "sign": "Vir",
+      "position": 25.6073,
+      "abs_position": 175.6073,
+      "retrograde": false,
+      "house": "Seventh_House"
+    },
+    "moon": {
+      "sign": "Ari",
+      "position": 23.1308,
+      "abs_position": 23.1308,
+      "retrograde": false,
+      "house": "Second_House"
+    },
+    "mercury": {
+      "sign": "Vir",
+      "position": 15.5719,
+      "abs_position": 165.5719,
+      "retrograde": false,
+      "house": "Seventh_House"
+    },
+    "venus": {
+      "sign": "Sco",
+      "position": 9.7487,
+      "abs_position": 219.7487,
+      "retrograde": false,
+      "house": "Ninth_House"
+    },
+    "mars": {
+      "sign": "Lib",
+      "position": 29.3468,
+      "abs_position": 209.3468,
+      "retrograde": false,
+      "house": "Eighth_House"
+    },
+    "jupiter": {
+      "sign": "Leo",
+      "position": 2.4728,
+      "abs_position": 122.4728,
+      "retrograde": false,
+      "house": "Sixth_House"
+    },
+    "saturn": {
+      "sign": "Vir",
+      "position": 6.7692,
+      "abs_position": 156.7692,
+      "retrograde": false,
+      "house": "Seventh_House"
+    },
+    "uranus": {
+      "sign": "Sco",
+      "position": 13.7811,
+      "abs_position": 223.7811,
+      "retrograde": false,
+      "house": "Ninth_House"
+    },
+    "neptune": {
+      "sign": "Sag",
+      "position": 15.6759,
+      "abs_position": 255.6759,
+      "retrograde": false,
+      "house": "Tenth_House"
+    },
+    "pluto": {
+      "sign": "Lib",
+      "position": 15.7684,
+      "abs_position": 195.7684,
+      "retrograde": false,
+      "house": "Eighth_House"
+    },
+    "true_north_lunar_node": {
+      "sign": "Vir",
+      "position": 26.7365,
+      "abs_position": 176.7365,
+      "retrograde": true,
+      "house": "Seventh_House"
+    },
+    "chiron": {
+      "sign": "Tau",
+      "position": 9.186,
+      "abs_position": 39.186,
+      "retrograde": true,
+      "house": "Third_House"
+    }
+  },
+  "houses": {
+    "house_1": {
+      "sign": "Aqu",
+      "position": 12.4998
+    },
+    "house_2": {
+      "sign": "Pis",
+      "position": 28.1261
+    },
+    "house_3": {
+      "sign": "Tau",
+      "position": 4.338
+    },
+    "house_4": {
+      "sign": "Gem",
+      "position": 0.8114
+    },
+    "house_5": {
+      "sign": "Gem",
+      "position": 22.8441
+    },
+    "house_6": {
+      "sign": "Can",
+      "position": 14.8895
+    },
+    "house_7": {
+      "sign": "Leo",
+      "position": 12.4998
+    },
+    "house_8": {
+      "sign": "Vir",
+      "position": 28.1261
+    },
+    "house_9": {
+      "sign": "Sco",
+      "position": 4.338
+    },
+    "house_10": {
+      "sign": "Sag",
+      "position": 0.8114
+    },
+    "house_11": {
+      "sign": "Sag",
+      "position": 22.8441
+    },
+    "house_12": {
+      "sign": "Cap",
+      "position": 14.8895
+    }
+  },
+  "angles": {
+    "ascendant": {
+      "sign": "Aqu",
+      "position": 12.4998
+    },
+    "midheaven": {
+      "sign": "Sag",
+      "position": 0.8114
+    }
+  },
+  "lunar_phase": {
+    "degrees_between_s_m": 207.52346394223463,
+    "moon_phase": 17,
+    "moon_emoji": "\ud83c\udf16",
+    "moon_phase_name": "Waning Gibbous"
+  }
+}

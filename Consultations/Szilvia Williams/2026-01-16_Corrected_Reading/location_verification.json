@@ -1,0 +1,24 @@
+{
+  "input": {
+    "place": "Kaposvar, Hungary",
+    "manual_lat": null,
+    "manual_lng": null,
+    "birth_date": "1976-05-17"
+  },
+  "resolved": {
+    "source": "nominatim_geocoding",
+    "geocoded_address": "Kaposv\u00e1r, Kaposv\u00e1ri j\u00e1r\u00e1s, Somogy v\u00e1rmegye, D\u00e9l-Dun\u00e1nt\u00fal, Dun\u00e1nt\u00fal, Magyarorsz\u00e1g",
+    "latitude": 46.356469,
+    "longitude": 17.788689,
+    "timezone": "Europe/Budapest",
+    "utc_offset": 1.0,
+    "utc_offset_string": "UTC+1",
+    "dst_active": false
+  },
+  "verification_status": "auto_verified",
+  "warnings": [],
+  "notes": [
+    "Hungary: CET (UTC+1), CEST (UTC+2) during summer. DST observed since 1954 with various rule changes."
+  ],
+  "verification_timestamp": "2026-01-16T07:24:25.040945Z"
+}

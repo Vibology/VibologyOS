@@ -171,7 +171,7 @@ The father did not need to be appeased. The son did not need to pay a debt. What
 
 ## What the Cross Accomplished
 
-If your hypothesis holds—and I believe the weight of evidence supports it—then we must ask anew: what did Christ accomplish on the Cross?
+If this hypothesis holds—and I believe the weight of evidence supports it—then we must ask anew: what did Christ accomplish on the Cross?
 
 Not the satisfaction of divine wrath against human sin. The Father did not need his anger assuaged; the Father was the one who sent the Son out of love, not the one demanding payment. Not a legal transaction in which punishment is transferred to an innocent substitute. The categories of crime and punishment, debt and payment, may not apply to the deepest registers of divine-human relationship.
 
@@ -226,29 +226,35 @@ These questions remain open. A synthesis gathers what can be gathered; it does n
 ## Internal Links
 
 **The Magdalene Path:**
+
 - [[The Eight Boughs of Ascent]]
 - [[Kenosis - The Path of Self-Emptying]]
 - [[The Bridal Chamber and Sacred Union]]
 - [[Mary Magdalene - Apostle and Beloved]]
 
 **Angelology:**
+
 - [[2. Cherubim]]
 - [[The Nine Angelic Orders]]
 
 **Qabalah/Tarot:**
+
 - [[The Tarot]]
 
 **Human Design:**
+
 - [[Inner Authority and Strategy]]
 - [[Human Design]]
 
 **Jungian/Personal Mythos:**
+
 - [[The Shadow]]
 - [[Confrontation with Shadow]]
 - [[Integration and Wholeness]]
 - [[The Self]]
 
 **Core Foundations:**
+
 - [[Seven-Coordinate Navigation]]
 - [[Anima et Algorithm]]
 
