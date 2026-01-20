@@ -1,5 +1,0 @@
-/* Prevents text from wrapping in all markdown tables */
-.markdown-rendered td, .markdown-rendered th {
-    white-space: nowrap !important;
-}
-
