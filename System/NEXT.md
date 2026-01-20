@@ -5,49 +5,38 @@
 
 ---
 
-## Recent Session: PDF Report Enhancements & Client Chart Generation
+## Recent Session: Astrology Charts & API Cleanup
 
-**2026-01-19:** Enhanced PDF report structure, added centers section, tested end-to-end chart generation workflow.
+**2026-01-19:** Added Kerykeion astrology chart generation, removed PDF report functionality from humandesign_api.
 
 ### Completed This Session
 
-1. **PDF Report Structure Overhaul**
-   - Reordered sections: Type → Strategy → Authority → Profile → Centers → Incarnation Cross → Channels
-   - Separated Strategy into its own section
-   - Added page breaks between each section for clean formatting
-   - Added KeepTogether blocks to prevent orphaned lines
+1. **Kerykeion Astrology Chart Generation**
+   - Generated Szilvia Williams natal chart SVG
+   - Classic theme with inlined CSS for universal compatibility
+   - PNG conversion via cairosvg (manual export preferred for quality)
 
-2. **Centers Section Added**
-   - Full interpretations for all 9 centers (defined and undefined versions)
-   - Defined centers explain consistent energy you can rely on
-   - Undefined centers explain openness, conditioning, and wisdom potential
+2. **humandesign_api Cleanup**
+   - Removed PDF report generation (pdf_generator.py, interpretations.py)
+   - Removed /chart-pdf endpoint
+   - Kept bodygraph image renderer intact
+   - Squashed 12 commits into 1 clean commit (`d853785`)
+   - Local changes only (not pushed to upstream repo)
 
-3. **Expanded Interpretations**
-   - Generator, MG, Projector, Manifestor, Reflector type descriptions enhanced
-   - Solar Plexus authority with detailed emotional wave guidance
-   - Profile lines 4 (Opportunist) and 6 (Role Model) with depth
-   - Channel interpretations for 5/15, 6/59, 29/46, 34/57
-
-4. **Metadata Extraction Fixed**
-   - PDF header now correctly shows client name as title
-   - Birth date formatted elegantly (e.g., "May 17, 1976")
-   - Birth city displayed (e.g., "Kaposvár, Hungary")
-   - Data extracted from `meta` object in JSON
-
-5. **End-to-End Chart Generation Tested**
-   - Generated Szilvia Williams chart from scratch
-   - Workflow: Birth data → Geolocation verification → HD calculation → JSON → PDF
-   - Files: `humandesign.json`, `humandesign_chart.pdf`
-
-6. **Directory Restructuring**
-   - Removed emoji prefixes from directories (◈, 📖, 🤝, ⚛)
-   - Cleaner paths: `System/`, `Library/`, `Consultations/`, `Synthesis/`
+3. **Decision: Manual Report Creation**
+   - PDF automation removed in favor of Apple Pages for reports
+   - Core value: calculation engine + bodygraph PNG generation
+   - More control over formatting and presentation
 
 ### Commits
-- `68e3549` (VibologyOS) Restructure directories, add client data, update humandesign_api
-- `2c60246` (humandesign_api) Enhance PDF report with centers, expanded interpretations, and metadata extraction
+- `4108f99` (VibologyOS) Add Szilvia Williams natal astrology chart
+- `d853785` (humandesign_api) Add enhanced bodygraph chart renderer
 
-### Chart Generation Workflow
+---
+
+## Chart Generation Workflow
+
+### Human Design Bodygraph
 ```bash
 # 1. Verify geolocation
 python verify_geolocation.py --place "City, Country" --birth-date "YYYY-MM-DD" --pretty
@@ -55,32 +44,31 @@ python verify_geolocation.py --place "City, Country" --birth-date "YYYY-MM-DD" -
 # 2. Start HD API (if not running)
 cd humandesign_api && uvicorn humandesign.api:app --host 127.0.0.1 --port 8000 &
 
-# 3. Calculate chart
+# 3. Calculate chart and get JSON
 python get_hd_data.py --name "Name" --year YYYY --month M --day D --hour H --minute M \
   --place "City, Country" --lat XX.XXX --lng YY.YYY > humandesign.json
 
-# 4. Generate PDF
-python -c "
-from humandesign.services import pdf_generator
-import json
-with open('humandesign.json') as f: data = json.load(f)
-pdf = pdf_generator.generate_chart_pdf(data)
-with open('chart.pdf', 'wb') as f: f.write(pdf)
-"
+# 4. Generate bodygraph PNG via API
+curl "http://127.0.0.1:8000/bodygraph?year=YYYY&month=M&day=D&hour=H&minute=M&place=City,Country&format=png" \
+  -H "Authorization: Bearer $HD_API_TOKEN" -o bodygraph.png
 ```
 
----
+### Astrology Natal Chart (Kerykeion)
+```python
+from kerykeion import AstrologicalSubject, KerykeionChartSVG
 
-## Previous Session: Chart Renderer Visual Overhaul
+subject = AstrologicalSubject(
+    name="Name",
+    year=YYYY, month=M, day=D, hour=H, minute=M,
+    city="City", nation="XX",
+    lat=XX.XXX, lng=YY.YYY,
+    tz_str="Timezone/String"
+)
 
-**2026-01-19:** Major enhancements to bodygraph chart renderer.
-
-### Completed
-- Chakra-aligned center colors for defined centers
-- Planetary activation side panels (Design left, Personality right)
-- Summary panel with Type, Strategy, Authority, Profile, Definition, Cross
-- Variables badge with correct 6-character notation (PLLDRL format)
-- Center name normalization, channel format parsing
+chart = KerykeionChartSVG(subject, theme="classic")
+chart.makeSVG(minify=False, remove_css_variables=True)
+# Output: ~/Name - Natal Chart.svg (move to desired location)
+```
 
 ---
 
@@ -106,9 +94,9 @@ with open('chart.pdf', 'wb') as f: f.write(pdf)
 ## Available Work Paths
 
 ### Priority 1: Client Work
-**Status:** Full chart generation workflow tested and working.
-**Outputs:** Bodygraph PNG, JSON data, PDF report (optional)
-**Note:** User may prefer manual report creation in Apple Pages using generated chart image and JSON data for more control over formatting.
+**Status:** Full chart generation workflow operational.
+**Outputs:** Bodygraph PNG, Astrology SVG, JSON data
+**Reports:** Manual creation in Apple Pages using generated assets
 
 ### Priority 2: Continue Synthesis Work
 **Questions from The Tree of Return synthesis:**
@@ -134,7 +122,7 @@ with open('chart.pdf', 'wb') as f: f.write(pdf)
 - `PROTOCOL - Search and Navigation.md` — Tag taxonomy, search patterns
 
 ### Technical
-- `System/humandesign_api/` — Human Design calculation API with chart renderer
+- `System/humandesign_api/` — Human Design calculation API with bodygraph renderer
 - `System/Scripts/` — Geolocation verification, HD data scripts, transit calculations
 
 ---
@@ -142,5 +130,5 @@ with open('chart.pdf', 'wb') as f: f.write(pdf)
 ## Notes
 
 - **Git Status:** Single source of truth for uncommitted work
-- **humandesign_api:** Submodule is 10 commits ahead of origin/main (not pushed)
+- **humandesign_api:** 1 commit ahead of origin/main (local customizations, not pushed)
 - **Session Start:** Check git status, git log, and this file for context
