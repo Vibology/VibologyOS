@@ -5,7 +5,7 @@ date_created: 2026-01-08
 date_updated: 2026-01-18
 category: Technological Integration
 ---
-*Spiritual knowledge through technology*
+*Spiritual Knowledge Through Technology*
 
 ---
 ## Introduction: Gnosis Accelerated
@@ -264,7 +264,7 @@ This is **not** materialist reductionism (consciousness = computation). This is 
 **Angelology (via Qabalah):**
 - Mars = Geburah (Severity/Strength)
 - Archangel: [[Kamael]] (divine judge, cosmic surgeon)
-- Angelic Order: [[5. Powers]] (combat chaos, maintain boundaries)
+- Angelic Order: [[Powers]] (combat chaos, maintain boundaries)
 
 **I-Ching (via Book of Changes):**
 - Hexagram 51: 震 (Zhèn / The Arousing / Thunder / Shock)

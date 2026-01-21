@@ -5,7 +5,7 @@ date_created: 2026-01-08
 date_updated: 2026-01-18
 category: Foundational Practice
 ---
-*The body's wisdom: Decision-making beyond the mind*
+*The Body's Wisdom: Decision-making Beyond the Mind*
 
 ---
 ## Introduction: The Sovereignty of Inner Knowing
@@ -58,7 +58,7 @@ If you have Emotional Authority, you **cannot make correct decisions in the mome
 Emotional Authority beings become **masters of discernment**—they know the difference between excitement (which fades) and deep, abiding clarity (which endures). They learn to trust the wave as wisdom rather than resisting it as inconvenience.
 
 **Cross-System Parallel:**
-- **[[Angelology]]:** The [[6. Virtues]] (Tiphareth)—the emotional wave integrates opposites into beauty and harmony
+- **[[Angelology]]:** The [[Virtues]] (Tiphareth)—the emotional wave integrates opposites into beauty and harmony
 - **[[Tarot]]:** [[Temperance]] (XIV)—the alchemical process of mixing and waiting for the elixir to emerge
 - **[[Astrology]]:** Moon phases—honoring cyclical knowing rather than linear urgency
 
@@ -93,7 +93,7 @@ This is **not a mental decision**. It is a sound that emerges from the gut **bef
 Sacral beings who honor their Authority become **generative powerhouses**—they have sustainable energy for what lights them up and no energy for what doesn't. They become magnetic, drawing opportunities to which they can genuinely respond.
 
 **Cross-System Parallel:**
-- **[[Angelology]]:** The [[8. Archangels]] (Hod)—direct messengers of divine will, the gut "decree"
+- **[[Angelology]]:** The [[Archangels]] (Hod)—direct messengers of divine will, the gut "decree"
 - **[[Tarot]]:** [[Strength]] (VIII)—the lion (instinct) guided gently, not forced
 - **[[Astrology]]:** Mars in its pure, responsive form—action arising from authentic impulse
 
@@ -130,7 +130,7 @@ It is not loud, not dramatic, not repetitive. It is a **whisper of certainty** t
 Splenic Authority beings who trust their hits become **masters of the moment**—they are in the right place at the right time, avoid danger with uncanny precision, and move through life with spontaneous grace.
 
 **Cross-System Parallel:**
-- **[[Angelology]]:** The [[7. Principalities]] (Netzach)—guardians of collective identity, knowing what belongs
+- **[[Angelology]]:** The [[Principalities]] (Netzach)—guardians of collective identity, knowing what belongs
 - **[[Tarot]]:** [[The High Priestess]] (II)—silent knowing, the veil between worlds
 - **[[Astrology]]:** Uranus—sudden insight, lightning-fast downloads
 
@@ -167,7 +167,7 @@ Ego Authority beings must **speak the decision aloud** to themselves (or to a tr
 Ego Authority beings who honor their will become **pillars of reliability**—when they say yes, they deliver; when they say no, they stand firm. They are not swayed by guilt or obligation.
 
 **Cross-System Parallel:**
-- **[[Angelology]]:** The [[5. Powers]] (Geburah)—strength, judgment, the sword that cuts away the unnecessary
+- **[[Angelology]]:** The [[Powers]] (Geburah)—strength, judgment, the sword that cuts away the unnecessary
 - **[[Tarot]]:** [[The Emperor]] (IV)—sovereign will, material mastery
 - **[[Astrology]]:** Mars in Capricorn—disciplined, strategic will
 
@@ -199,7 +199,7 @@ This Authority needs a **trusted sounding board**—someone who listens without 
 Self-Projected beings who honor their need to speak become **articulate knowers of self**—they discover their identity, direction, and love through the act of authentic self-expression.
 
 **Cross-System Parallel:**
-- **[[Angelology]]:** The [[4. Dominations]] (Chesed)—sovereignty, self-knowledge, true lordship
+- **[[Angelology]]:** The [[Dominations]] (Chesed)—sovereignty, self-knowledge, true lordship
 - **[[Tarot]]:** [[The Lovers]] (VI)—choice revealed through relationship and communication
 - **[[Astrology]]:** Mercury in Gemini—truth through speaking
 
@@ -231,7 +231,7 @@ This is not indecisiveness; it is **relational wisdom**. The mind processes info
 Mental Authority beings who honor their process become **synthesizers of collective wisdom**—they gather perspectives, distill patterns, and arrive at decisions that integrate multiple viewpoints.
 
 **Cross-System Parallel:**
-- **[[Angelology]]:** The [[2. Cherubim]] (Chokmah)—wheels within wheels, omniscient perspective
+- **[[Angelology]]:** The [[Cherubim]] (Chokmah)—wheels within wheels, omniscient perspective
 - **[[Tarot]]:** [[The Hermit]] (IX)—seeking wisdom through contemplation and counsel
 - **[[Astrology]]:** Mercury retrograde—revisiting, reconsidering, refining through repetition
 
@@ -263,7 +263,7 @@ This is the **slowest, most deliberate** form of decision-making, honoring the R
 Reflectors who honor their lunar cycle become **profound judges of correctness**—they know what is healthy and what is not, who is authentic and who is performing. They are the seers, the mirrors, the wise ones.
 
 **Cross-System Parallel:**
-- **[[Angelology]]:** The [[1. Seraphim]] (Kether)—pure contemplation, beyond action
+- **[[Angelology]]:** The [[Seraphim]] (Kether)—pure contemplation, beyond action
 - **[[Tarot]]:** [[The Moon]] (XVIII)—cyclical knowing, the long initiation
 - **[[Astrology]]:** The Moon itself—honoring the full cycle
 

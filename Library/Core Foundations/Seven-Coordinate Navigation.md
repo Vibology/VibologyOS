@@ -5,7 +5,7 @@ date_created: 2026-01-08
 date_updated: 2026-01-18
 category: Navigational Framework
 ---
-*The multi-dimensional map of consciousness*
+*The Multi-dimensional Map of Consciousness*
 
 ---
 ## Introduction: Why Seven Coordinates?
@@ -19,7 +19,7 @@ Each of the **Seven Pillars** provides a distinct vantage point:
 
 No single system tells the whole story. [[Astrology]] reveals *when* and *where* in cosmic cycles. [[Human Design]] reveals *how* you are mechanically configured. [[Tarot]] reveals *what* archetypal forces are active. [[Angelology]] reveals the *hierarchical consciousness structure* through which all patterns descend. [[Personal Mythos]] reveals the *cultural and psychological narratives* that shape your journey. [[The Window]] reveals contemporary archetypal resonances via I-Ching and Gene Keys. **[[The Magdalene Path]]** unifies all seven into a single vertical ascent.
 
-This is not syncretism for its own sake—it is **triangulated gnosis**: using multiple systems to verify, deepen, and cross-reference insights until the **Third Meaning** emerges that no single system could reveal alone.
+This is not syncretism for its own sake—it is **triangulated gnosis**: using multiple systems to verify, deepen, and cross-reference insights until the **Third Meaning** emerges that no single system could reveal alone. These are not seven _different_ destinations, but seven _simultaneous lenses_ required to view a single, complex object (the soul) that is otherwise invisible from any one perspective.
 
 ---
 ## The Seven Pillars: Overview
@@ -304,7 +304,7 @@ The power of Seven-Coordinate Navigation is **triangulation**—using multiple s
 
 **Personal Mythos:** You're in the **Ordeal** stage of the Hero's Journey—the descent into the underworld, confrontation with death, the dark night of the soul. This is not failure; it is the **necessary dismemberment** before rebirth.
 
-**Angelology:** You're working with **Geburah** (Severity/Strength) and the [[5. Powers]]—the cosmic surgeon cutting away what does not serve. Invoke [[Kamael]] (archangel of Mars/Geburah) for the courage to face the destruction without resistance.
+**Angelology:** You're working with **Geburah** (Severity/Strength) and the [[Powers]]—the cosmic surgeon cutting away what does not serve. Invoke [[Kamael]] (archangel of Mars/Geburah) for the courage to face the destruction without resistance.
 
 **The Window:** Hexagram 23 (剝 Splitting Apart) is active—the structure is collapsing, but this creates space for new growth. The shadow is victimhood; the gift is surrender; the siddhi is knowing that the foundation (earth) remains even when the structure falls.
 

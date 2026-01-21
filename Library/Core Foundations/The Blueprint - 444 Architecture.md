@@ -5,7 +5,7 @@ date_created: 2026-01-08
 date_updated: 2026-01-18
 category: Structural Framework
 ---
-*The shared 64-fold substrate of consciousness*
+*The Shared 64-fold Substrate of Consciousness*
 
 ---
 ## Introduction: The Universal Blueprint
@@ -22,7 +22,7 @@ category: Structural Framework
 This **64-fold structure** is not coincidental. It represents the **minimum complexity required** to encode the diversity of life and consciousness—the threshold where pattern becomes sufficient to generate novelty.
 
 The "444" notation emphasizes the **threefold quaternary structure**:
-- **First 4:** The base elements (nucleotides, I-Ching lines, elemental forces)
+- **First 4:** The base elements (nucleotides, I-Ching bigrams, elemental forces)
 - **Second 4:** The combinations (codons, bigrams, compound elements)
 - **Third 4:** The full expression (64 permutations, complete mandala, total system)
 
