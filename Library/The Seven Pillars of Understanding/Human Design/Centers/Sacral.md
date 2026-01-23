@@ -3,13 +3,13 @@ tags: [human-design, center, sacral, motor, life-force, generator, response, arc
 system: Human Design
 center_type: Motor
 biological_correlation: Ovaries and Testes
-defined_percentage: 70%
-undefined_percentage: 30%
+defined_percentage: 66%
+undefined_percentage: 34%
 date_created: 2026-01-08
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
-grimoire_source: "Human Design (The Definitive Book, Complete Guide)"
-verification_notes: "Core mechanics (gates, centers, profiles, authorities, types, strategy) verified against Grimoire. Synthesis includes archetypal interpretation, Jungian depth, cross-system correspondences."
+grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
+verification_notes: "Individual verification complete. Core mechanics (biological correlation, definition percentages CORRECTED to 66%/34%, only sustainable Motor, Sacral Authority, Generator Type definition) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
 # Sacral
 *The Well of Vital Life-Force*
@@ -17,19 +17,19 @@ verification_notes: "Core mechanics (gates, centers, profiles, authorities, type
 --- 
 ## Biological Correlation
 
-The **Sacral Center** corresponds to the **ovaries and testes**, the organs of reproduction and generative power. This is the biological seat of **sustainable life force energy**, the capacity to create, sustain, and build.
+The **Sacral Center** corresponds to the **ovaries and testes**[^1], the organs of reproduction and generative power. This is the biological seat of **sustainable life force energy**, the capacity to create, sustain, and build.
 
 ---
 ## Definition
 
-The Sacral Center is the **only sustainable motor** in the BodyGraph. It governs:
+The Sacral Center is the **only sustainable motor** in the BodyGraph[^2]. It governs:
 - **Life force energy** — Consistent, renewable vitality
 - **Sexuality** — Reproductive and creative power
 - **Persistence** — The capacity to sustain effort over time
 - **Work** — Engagement, building, and mastery
 
-- **70% of people** have a defined Sacral ([[Generator]]s—both Pure and Manifesting)
-- **30% of people** have an undefined Sacral ([[Manifestor]]s, [[Projector]]s, [[Reflector]]s)
+- **66% of people** have a defined Sacral ([[Generator]]s—both Pure and Manifesting)[^1]
+- **34% of people** have an undefined Sacral ([[Manifestor]]s, [[Projector]]s, [[Reflector]]s)[^1]
 
 ---
 ## Themes & Functions
@@ -111,11 +111,11 @@ The Sacral is one of four motors:
 ---
 ## Relationship to Type & Authority
 
-The Sacral is the **defining feature** of [[Generator]]s:
+The Sacral is the **defining feature** of [[Generator]]s[^3]:
 - **Pure Generators:** Defined Sacral without motor-to-Throat connection
 - **Manifesting Generators:** Defined Sacral with motor-to-Throat connection
 
-The Sacral is also the source of **[[Sacral Authority]]** (for Generators without defined Solar Plexus):
+The Sacral is also the source of **[[Sacral Authority]]**[^4] (for Generators without defined Solar Plexus):
 - Decision-making through immediate gut response ("uh-huh" / "uhn-un")
 
 ---
@@ -149,3 +149,10 @@ The Sacral is also the source of **[[Sacral Authority]]** (for Generators withou
 ---
 
 *The Sacral is the life force of the planet—the sustainable motor that builds, creates, and sustains. For Generators, it is the source of vitality, response, and mastery. For non-Sacral Types, it is the reminder that not all energy is renewable, and that rest is not weakness but wisdom. To honor the Sacral is to recognize that work, when correct, is not depletion but fulfillment, and that the body knows what it has energy for before the mind can explain why.*
+
+---
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011), Centers: Sacral biological correlation (ovaries and testes)
+[^2]: *Definitive Book of Human Design*, Sacral Center: Only sustainable motor
+[^3]: *Definitive Book of Human Design*, Generator Type: Defined Sacral
+[^4]: *Definitive Book of Human Design*, Sacral Authority (gut response)

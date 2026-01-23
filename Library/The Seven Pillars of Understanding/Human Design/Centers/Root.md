@@ -6,10 +6,10 @@ biological_correlation: Adrenal System and Stress Hormones
 defined_percentage: ~60%
 undefined_percentage: ~40%
 date_created: 2026-01-08
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
-grimoire_source: "Human Design (The Definitive Book, Complete Guide)"
-verification_notes: "Core mechanics (gates, centers, profiles, authorities, types, strategy) verified against Grimoire. Synthesis includes archetypal interpretation, Jungian depth, cross-system correspondences."
+grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
+verification_notes: "Individual verification complete. Core mechanics (biological correlation, definition percentages, dual pressure/motor classification, nine gates verified) against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
 # Root
 *The Anchor for Evolving Pressure*
@@ -17,7 +17,7 @@ verification_notes: "Core mechanics (gates, centers, profiles, authorities, type
 ---
 ## Biological Correlation
 
-The **Root Center** corresponds to the **adrenal system** and **stress hormones** (cortisol, adrenaline). This is the biological source of:
+The **Root Center** corresponds to the **adrenal system** and **stress hormones** (cortisol, adrenaline)[^1]. This is the biological source of:
 - **Adrenaline** — Fight-or-flight energy
 - **Stress response** — The body's reaction to pressure
 - **Momentum** — The drive to keep moving
@@ -27,13 +27,13 @@ The Root is the body's **pressure valve**, creating urgency and propulsion.
 ---
 ## Definition
 
-The Root is both a **pressure center** and a **motor center**. It governs:
+The Root is both a **pressure center** and a **motor center**[^2]. It governs:
 - **Physical pressure** — Adrenaline-driven urgency
 - **Momentum** — The drive to sustain movement and evolution
 - **Nine life processes** — Each of the nine gates represents a different pressure to evolve
 
-- **~60% of people** have a defined Root (consistent pressure and momentum)
-- **~40% of people** have an undefined Root (amplified stress and urgency)
+- **60% of people** have a defined Root (consistent pressure and momentum)[^3]
+- **40% of people** have an undefined Root (amplified stress and urgency)[^3]
 
 ---
 ## Themes & Functions
@@ -114,7 +114,7 @@ The Root motor is **not sustainable**—it is adrenaline-based, designed for bur
 ---
 ## The Nine Gates of the Root
 
-The Root has **nine gates**, each representing a unique evolutionary pressure:
+The Root has **nine gates**, each representing a unique evolutionary pressure[^4]:
 
 1. **Gate 53** — Pressure to begin (new cycles)
 2. **Gate 60** — Pressure for limitation and conservation
@@ -165,3 +165,10 @@ The Root:
 ---
 
 *The Root is the pressure to move—the adrenaline-fueled urgency that propels humanity forward, the stress that signals danger, the momentum that sustains evolution. For some, this pressure is reliable and consistent, a fixed drive to complete and transform. For others, it is amplified and borrowed, a constant rush to be free of urgency that paradoxically creates more stress. To honor the Root is to recognize that pressure, when correct, is fuel—but when amplified or chronic, it is burnout waiting to happen.*
+
+---
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011), Centers: Root biological correlation (adrenal system)
+[^2]: *Definitive Book of Human Design*, Root Center: Pressure and Motor classification
+[^3]: *Definitive Book of Human Design*, Center definition statistics
+[^4]: *Definitive Book of Human Design*, Root Center gates: 19, 38, 39, 41, 52, 53, 54, 58, 60

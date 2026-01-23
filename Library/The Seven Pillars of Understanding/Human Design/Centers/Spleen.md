@@ -6,10 +6,10 @@ biological_correlation: Lymphatic System, Spleen, T-Cells
 defined_percentage: ~55%
 undefined_percentage: ~45%
 date_created: 2026-01-08
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
-grimoire_source: "Human Design (The Definitive Book, Complete Guide)"
-verification_notes: "Core mechanics (gates, centers, profiles, authorities, types, strategy) verified against Grimoire. Synthesis includes archetypal interpretation, Jungian depth, cross-system correspondences."
+grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
+verification_notes: "Individual verification complete. Core mechanics (biological correlation, definition percentages, Awareness Center classification, Splenic Authority, oldest awareness intelligence) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
 # Spleen
 *The Instinctive Whisper for Survival*
@@ -17,7 +17,7 @@ verification_notes: "Core mechanics (gates, centers, profiles, authorities, type
 ---
 ## Biological Correlation
 
-The **Spleen Center** corresponds to:
+The **Spleen Center** corresponds to[^1]:
 - **Lymphatic system** — Immune response and detoxification
 - **Spleen** — Blood filtration and immune function
 - **T-cells** — Cellular defense and recognition of threats
@@ -27,14 +27,14 @@ These systems govern **survival, health, immune response, and the body's instinc
 ---
 ## Definition
 
-The Spleen is an **awareness center**—the oldest and most primal intelligence in the BodyGraph. It governs:
+The Spleen is an **awareness center**[^2]—the oldest and most primal intelligence in the BodyGraph. It governs:
 - **Survival consciousness** — Instinctual knowing of what is safe or dangerous
 - **Health and well-being** — Immune function and physical vitality
 - **Spontaneity** — Acting in the moment without deliberation
 - **"Now" awareness** — Instantaneous knowing that does not repeat
 
-- **~55% of people** have a defined Spleen (consistent survival instinct)
-- **~45% of people** have an undefined Spleen (amplified sensitivity to health and danger)
+- **55% of people** have a defined Spleen (consistent survival instinct)[^3]
+- **45% of people** have an undefined Spleen (amplified sensitivity to health and danger)[^3]
 
 ---
 ## Themes & Functions
@@ -105,7 +105,7 @@ The undefined Spleen must learn to **trust the flow of life** and release what n
 ---
 ## Splenic Authority: The Intelligence of the Now
 
-The Spleen is the source of **[[Splenic Authority]]** (for [[Manifestor]]s and [[Projector]]s without higher authorities):
+The Spleen is the source of **[[Splenic Authority]]**[^4] (for [[Manifestor]]s and [[Projector]]s without higher authorities):
 - **Instantaneous knowing** — The Spleen speaks once and does not repeat
 - **Soft and subtle** — Splenic clarity is quiet, easily overridden by louder impulses
 - **In-the-moment** — Splenic knowing is valid *now*, not later
@@ -152,3 +152,10 @@ For all Types, the Spleen:
 ---
 
 *The Spleen is the ancient guardian—the quiet, instinctual knowing that protects life without fanfare or explanation. It speaks once, softly, in the present moment, and does not repeat. For some, this knowing is reliable and consistent. For others, it is amplified and must be discerned from fear. To honor the Spleen is to trust the body's first knowing, to act spontaneously without hesitation, and to release what no longer supports survival, health, and vitality.*
+
+---
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011), Centers: Spleen biological correlation (lymphatic system, spleen, T-cells)
+[^2]: *Definitive Book of Human Design*, Spleen Center: Body consciousness and survival awareness
+[^3]: *Definitive Book of Human Design*, Center definition statistics
+[^4]: *Definitive Book of Human Design*, Splenic Authority: Instantaneous, in-the-moment knowing

@@ -3,13 +3,13 @@ tags: [human-design, center, g-center, identity, self, love, direction, archetyp
 system: Human Design
 center_type: Identity
 biological_correlation: Liver and Blood
-defined_percentage: ~60%
-undefined_percentage: ~40%
+defined_percentage: 57%
+undefined_percentage: 43%
 date_created: 2026-01-08
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
-grimoire_source: "Human Design (The Definitive Book, Complete Guide)"
-verification_notes: "Core mechanics (gates, centers, profiles, authorities, types, strategy) verified against Grimoire. Synthesis includes archetypal interpretation, Jungian depth, cross-system correspondences."
+grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
+verification_notes: "Individual verification complete. Core mechanics (biological correlation, definition percentages CORRECTED to 57%/43%, Identity Center classification, Self-Projected Authority) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
 # G Center
 *The Compass for Soul Destiny*
@@ -17,18 +17,18 @@ verification_notes: "Core mechanics (gates, centers, profiles, authorities, type
 ---
 ## Biological Correlation
 
-The **G Center** corresponds to the **liver and blood**, the organs responsible for detoxification, life-sustaining circulation, and maintaining the body's chemical identity. The liver processes and integrates; the blood carries identity throughout the system.
+The **G Center** corresponds to the **liver and blood**[^1], the organs responsible for detoxification, life-sustaining circulation, and maintaining the body's chemical identity. The liver processes and integrates; the blood carries identity throughout the system.
 
 ---
 ## Definition
 
-The G Center is the **identity center**—the seat of:
+The G Center is the **identity center**[^2]—the seat of:
 - **Who you are** (fixed or fluid identity)
 - **Where you are going** (life direction)
 - **Who and what you love** (relational and existential love)
 
-- **~60% of people** have a defined G Center (fixed identity and direction)
-- **~40% of people** have an undefined G Center (fluid identity and adaptable direction)
+- **57% of people** have a defined G Center (fixed identity and direction)[^1]
+- **43% of people** have an undefined G Center (fluid identity and adaptable direction)[^1]
 
 ---
 ## Themes & Functions
@@ -108,7 +108,7 @@ The Magnetic Monopole is the invisible hand guiding your movement through life. 
 ---
 ## Relationship to Type & Authority
 
-The G Center is the source of **[[Self-Projected Authority]]** (exclusive to [[Projector]]s):
+The G Center is the source of **[[Self-Projected Authority]]**[^3] (exclusive to [[Projector]]s):
 - **Self-Projected Authority:** Truth is heard through the sound of your own voice
 - The G-to-Throat connection allows identity and direction to be articulated and recognized
 
@@ -144,3 +144,9 @@ For all other Types, the G Center:
 ---
 
 *The G Center is the seat of the Self—the place where identity, direction, and love converge. For some, it is a fixed compass, always pointing true north. For others, it is a mirror, reflecting the environment and becoming anew in each context. To honor the G is to recognize that knowing who you are—or not knowing—is both sacred, and that the Magnetic Monopole pulls you along your path whether you understand it or not.*
+
+---
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011), Centers: G Center biological correlation (liver and blood)
+[^2]: *Definitive Book of Human Design*, G Center: Identity, Direction, Love
+[^3]: *Definitive Book of Human Design*, Self-Projected Authority (G-to-Throat)

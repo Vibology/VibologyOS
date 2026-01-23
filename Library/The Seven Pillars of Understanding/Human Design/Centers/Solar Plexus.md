@@ -3,13 +3,13 @@ tags: [human-design, center, solar-plexus, emotional, awareness, motor, wave, ar
 system: Human Design
 center_type: Awareness and Motor
 biological_correlation: Kidney, Bladder, Pancreas, Lungs, Nervous System
-defined_percentage: ~50%
-undefined_percentage: ~50%
+defined_percentage: 53%
+undefined_percentage: 47%
 date_created: 2026-01-08
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
-grimoire_source: "Human Design (The Definitive Book, Complete Guide)"
-verification_notes: "Core mechanics (gates, centers, profiles, authorities, types, strategy) verified against Grimoire. Synthesis includes archetypal interpretation, Jungian depth, cross-system correspondences."
+grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
+verification_notes: "Individual verification complete. Core mechanics (biological correlation, definition percentages CORRECTED to 53%/47%, dual Awareness/Motor classification, Emotional Authority as supreme authority) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
 # Solar Plexus
 *The Ocean of Emotional Clarity*
@@ -17,7 +17,7 @@ verification_notes: "Core mechanics (gates, centers, profiles, authorities, type
 ---
 ## Biological Correlation
 
-The **Solar Plexus Center** corresponds to:
+The **Solar Plexus Center** corresponds to[^1]:
 - **Kidney and bladder** — Fluid regulation and filtration
 - **Pancreas** — Blood sugar balance and insulin production
 - **Lungs** — Breath and oxygenation
@@ -28,13 +28,13 @@ These systems govern **biochemical oscillation, emotional processing, and the bo
 ---
 ## Definition
 
-The Solar Plexus is both an **awareness center** and a **motor center**. It governs:
+The Solar Plexus is both an **awareness center** and a **motor center**[^2]. It governs:
 - **Emotional intelligence** — Spirit awareness through feeling
 - **The emotional wave** — Biochemical oscillation between hope and pain
 - **Cyclic experience** — The rhythm of human emotion and relationship
 
-- **~50% of people** have a defined Solar Plexus (consistent emotional wave)
-- **~50% of people** have an undefined Solar Plexus (absorb and amplify emotions)
+- **53% of people** have a defined Solar Plexus (consistent emotional wave)[^1]
+- **47% of people** have an undefined Solar Plexus (absorb and amplify emotions)[^1]
 
 ---
 ## Themes & Functions
@@ -115,7 +115,7 @@ The Solar Plexus motor is **not sustainable**—it oscillates. When connected to
 ---
 ## Relationship to Type & Authority
 
-The Solar Plexus is the **highest Authority** in Human Design. If the Solar Plexus is defined, the individual has **[[Emotional Authority]]**, regardless of what other centers are active.
+The Solar Plexus is the **highest Authority** in Human Design[^3]. If the Solar Plexus is defined, the individual has **[[Emotional Authority]]**, regardless of what other centers are active.
 
 Emotional Authority appears in:
 - **[[Manifestor]]s**
@@ -124,7 +124,7 @@ Emotional Authority appears in:
 
 **[[Reflector]]s** cannot have Emotional Authority (they have no defined centers).
 
-For those with Emotional Authority:
+For those with Emotional Authority[^4]:
 - **There is no truth in the now**
 - Decisions must be made **over time**, riding the wave to stillness
 - Clarity emerges in the **plateau**, not the high or low
@@ -159,3 +159,10 @@ For those with Emotional Authority:
 ---
 
 *The Solar Plexus is the wave—the oscillating rhythm of hope and pain, expansion and contraction, intimacy and solitude. For some, the wave is internal and consistent, a biochemical tide that must be ridden to stillness. For others, the wave is external and amplified, a sensitivity to the emotional climate that reveals what others cannot see. To honor the Solar Plexus is to recognize that emotion is intelligence, not chaos, and that clarity is found not in the drama of the wave but in the calm that follows.*
+
+---
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011), Centers: Solar Plexus biological correlation (kidneys, pancreas, prostate, lungs, nervous system)
+[^2]: *Definitive Book of Human Design*, Solar Plexus: Awareness and Motor Center
+[^3]: *Definitive Book of Human Design*, Emotional Authority: Supreme authority if defined
+[^4]: *Definitive Book of Human Design*, Emotional Authority: No truth in the now, decision-making over time

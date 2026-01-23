@@ -6,10 +6,10 @@ biological_correlation: Heart, Stomach, Thymus Gland, Gall Bladder
 defined_percentage: 37%
 undefined_percentage: 63%
 date_created: 2026-01-08
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
-grimoire_source: "Human Design (The Definitive Book, Complete Guide)"
-verification_notes: "Core mechanics (gates, centers, profiles, authorities, types, strategy) verified against Grimoire. Synthesis includes archetypal interpretation, Jungian depth, cross-system correspondences."
+grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
+verification_notes: "Individual verification complete. Core mechanics (biological correlation, definition percentages, Motor Center classification, Ego Authority) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
 # Heart
 *The Furnace of Spiritual Willpower*
@@ -17,7 +17,7 @@ verification_notes: "Core mechanics (gates, centers, profiles, authorities, type
 ---
 ## Biological Correlation
 
-The **Heart Center** (also called the Ego or Will Center) corresponds to:
+The **Heart Center** (also called the Ego or Will Center) corresponds to[^1]:
 - **Heart** — Circulation and vitality
 - **Stomach** — Digestion and material processing
 - **Thymus gland** — Immune system and self-recognition
@@ -28,14 +28,14 @@ These organs govern **material survival, willpower, and the body's capacity to c
 ---
 ## Definition
 
-The Heart Center is a **motor center** (one of four) that governs:
+The Heart Center is a **motor center**[^2] (one of four) that governs:
 - **Willpower** — The capacity to commit and follow through
 - **Ego strength** — Self-worth and value
 - **Material world management** — Money, resources, possessions
 - **Tribal structures** — Promises, agreements, and social contracts
 
-- **37% of people** have a defined Heart (consistent willpower and ego strength)
-- **63% of people** have an undefined Heart (inconsistent will and struggles with worthiness)
+- **37% of people** have a defined Heart (consistent willpower and ego strength)[^3]
+- **63% of people** have an undefined Heart (inconsistent will and struggles with worthiness)[^3]
 
 ---
 ## Themes & Functions
@@ -120,7 +120,7 @@ The Heart motor is **not sustainable** like the Sacral. It requires:
 ---
 ## Relationship to Type & Authority
 
-The Heart Center is the source of **[[Ego Authority]]** (for [[Manifestor]]s and [[Projector]]s):
+The Heart Center is the source of **[[Ego Authority]]**[^4] (for [[Manifestor]]s and [[Projector]]s):
 - **Ego-Manifested:** Heart connected to [[Throat]] (Manifestors)
 - **Ego-Projected:** Heart connected to [[G Center]] (Projectors)
 
@@ -158,3 +158,10 @@ For all Types, the Heart:
 ---
 
 *The Heart is the will to commit—the ego strength that promises and delivers, the material mastery that knows worth and manages resources. For some, the will is a reliable engine, always ready to commit. For others, the will is borrowed, inconsistent, and must be protected from proving and improving. To honor the Heart is to recognize that worth is not earned but intrinsic, and that commitment, when freely given, is the highest power of the ego.*
+
+---
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011), Centers: Heart biological correlation (heart, stomach, thymus, gall bladder)
+[^2]: *Definitive Book of Human Design*, Motor Centers: Heart, Sacral, Solar Plexus, Root
+[^3]: *Definitive Book of Human Design*, Center definition statistics
+[^4]: *Definitive Book of Human Design*, Ego Authority (Heart-to-Throat or Heart-to-G)

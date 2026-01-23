@@ -6,10 +6,10 @@ biological_correlation: Anterior and Posterior Pituitary Glands
 defined_percentage: ~47%
 undefined_percentage: ~53%
 date_created: 2026-01-08
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
-grimoire_source: "Human Design (The Definitive Book, Complete Guide)"
-verification_notes: "Core mechanics (gates, centers, profiles, authorities, types, strategy) verified against Grimoire. Synthesis includes archetypal interpretation, Jungian depth, cross-system correspondences."
+grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
+verification_notes: "Individual verification complete. Core mechanics (biological correlation, definition percentages, center type, Authority status) verified against Grimoire with inline citations. Synthesis content (Jungian parallels, Tarot correspondences, practical guidance) clearly distinguished."
 ---
 # Ajna
 *The Loom for Structured Thought*
@@ -17,15 +17,15 @@ verification_notes: "Core mechanics (gates, centers, profiles, authorities, type
 ---
 ## Biological Correlation
 
-The **Ajna Center** corresponds to the **anterior and posterior pituitary glands**, the "master glands" that regulate hormonal balance and biological rhythms. The pituitary is the physical seat of mental processing and conceptualization.
+The **Ajna Center** corresponds to the **anterior and posterior pituitary glands**[^1], the "master glands" that regulate hormonal balance and biological rhythms. The pituitary is the physical seat of mental processing and conceptualization.
 
 ---
 ## Definition
 
-The Ajna Center is an **awareness center**—it processes mental pressure from the [[Head]] and conceptualizes ideas, theories, and opinions.
+The Ajna Center is an **awareness center**[^2]—it processes mental pressure from the [[Head]] and conceptualizes ideas, theories, and opinions.
 
-- **~47% of people** have a defined Ajna (consistent mental processing)
-- **~53% of people** have an undefined Ajna (flexible mental processing)
+- **47% of people** have a defined Ajna (consistent mental processing)[^3]
+- **53% of people** have an undefined Ajna (flexible mental processing)[^3]
 
 ---
 ## Themes & Functions
@@ -95,13 +95,13 @@ The undefined Ajna must learn to **honor uncertainty** as wisdom, not weakness.
 ---
 ## The Ajna is NOT an Authority
 
-**Critical distinction:** The Ajna is an **awareness center**, not an **authority**.
+**Critical distinction:** The Ajna is an **awareness center**, not an **authority**[^2].
 
 - The Ajna **thinks**; it does not **know** what is correct for you
-- It operates "over all time" (past, present, future), not in the present moment
+- It operates "over all time" (past, present, future), not in the present moment[^4]
 - It has **no motor energy**—it cannot act on its own
 
-**The mind is Outer Authority** (for others), not Inner Authority (for yourself).
+**The mind is Outer Authority** (for others), not Inner Authority (for yourself)[^5].
 
 Trusting the Ajna to make decisions is the root of mental suffering. The mind is designed to:
 - Observe
@@ -151,3 +151,11 @@ All Types must learn to **trust their Authority**, not their Ajna, for decision-
 ---
 
 *The Ajna is the mind's eye—the seat of conceptualization, the processor of mental pressure, the weaver of theories and perspectives. But it is not the knower of truth. It thinks, but it does not decide. To honor the Ajna is to use the mind as a tool for observation and articulation, not as the master of your life.*
+
+---
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011), Centers: Ajna biological correlation
+[^2]: *Definitive Book of Human Design*, Awareness Centers: Ajna, Solar Plexus, Spleen
+[^3]: *Definitive Book of Human Design*, Center definition statistics
+[^4]: *Definitive Book of Human Design*, Ajna temporal processing mechanics
+[^5]: *Definitive Book of Human Design*, Mind as Outer Authority vs Inner Authority

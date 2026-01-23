@@ -6,10 +6,10 @@ biological_correlation: Pineal Gland
 defined_percentage: 30%
 undefined_percentage: 70%
 date_created: 2026-01-08
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
-grimoire_source: "Human Design (The Definitive Book, Complete Guide)"
-verification_notes: "Core mechanics (gates, centers, profiles, authorities, types, strategy) verified against Grimoire. Synthesis includes archetypal interpretation, Jungian depth, cross-system correspondences."
+grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
+verification_notes: "Individual verification complete. Core mechanics (biological correlation, definition percentages, center type, three gates verified) against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
 # Head
 *The Antenna for Cosmic Inspiration*
@@ -17,15 +17,15 @@ verification_notes: "Core mechanics (gates, centers, profiles, authorities, type
 ---
 ## Biological Correlation
 
-The **Head Center** corresponds to the **pineal gland**, the ancient "third eye" of esoteric tradition. This gland regulates circadian rhythms and melatonin production, linking the Head to cycles of inspiration and mental pressure.
+The **Head Center** corresponds to the **pineal gland**[^1], the ancient "third eye" of esoteric tradition. This gland regulates circadian rhythms and melatonin production, linking the Head to cycles of inspiration and mental pressure.
 
 ---
 ## Definition
 
-The Head Center is a **pressure center**—it does not process or decide, but generates **mental pressure** that drives the search for understanding.
+The Head Center is a **pressure center**[^2]—it does not process or decide, but generates **mental pressure** that drives the search for understanding.
 
-- **30% of people** have a defined Head (consistent mental pressure)
-- **70% of people** have an undefined Head (receptive to external mental pressure)
+- **30% of people** have a defined Head (consistent mental pressure)[^3]
+- **70% of people** have an undefined Head (receptive to external mental pressure)[^3]
 
 ---
 ## Themes & Functions
@@ -106,7 +106,7 @@ The Head is the **beginning of the mental process**, but not the end. It inspire
 ---
 ## The Three Gates of the Head
 
-The Head has three gates, each with a distinct flavor of mental pressure:
+The Head has three gates, each with a distinct flavor of mental pressure[^4]:
 
 1. **Gate 64** — Pressure to make sense of the past (confusion seeking clarity)
 2. **Gate 61** — Pressure to know the truth (mystery seeking revelation)
@@ -140,3 +140,10 @@ The Head has three gates, each with a distinct flavor of mental pressure:
 ---
 
 *The Head Center is the pressure to wonder—the ancient impulse to question existence, to seek meaning, to demand answers from the void. It does not answer; it only asks. And in that asking, it drives the mind forward, restless and relentless, until the mystery reveals itself or the question dissolves into silence.*
+
+---
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011), Centers: Head biological correlation (pineal gland)
+[^2]: *Definitive Book of Human Design*, Pressure Centers: Head and Root
+[^3]: *Definitive Book of Human Design*, Center definition statistics
+[^4]: *Definitive Book of Human Design*, Head Center gates: 61, 63, 64

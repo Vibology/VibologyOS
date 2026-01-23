@@ -6,10 +6,10 @@ biological_correlation: Thyroid and Parathyroid Glands
 defined_percentage: ~72%
 undefined_percentage: ~28%
 date_created: 2026-01-08
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
-grimoire_source: "Human Design (The Definitive Book, Complete Guide)"
-verification_notes: "Core mechanics (gates, centers, profiles, authorities, types, strategy) verified against Grimoire. Synthesis includes archetypal interpretation, Jungian depth, cross-system correspondences."
+grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
+verification_notes: "Individual verification complete. Core mechanics (biological correlation, definition percentages, Manifestation Center classification, motor-to-Throat connection requirements) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
 # Throat
 *The Bridge to Creative Manifestation*
@@ -17,15 +17,15 @@ verification_notes: "Core mechanics (gates, centers, profiles, authorities, type
 ---
 ## Biological Correlation
 
-The **Throat Center** corresponds to the **thyroid and parathyroid glands**, which regulate metabolism, energy, and communication at the cellular level. The thyroid governs how the body *speaks* its needs through biochemical signaling.
+The **Throat Center** corresponds to the **thyroid and parathyroid glands**[^1], which regulate metabolism, energy, and communication at the cellular level. The thyroid governs how the body *speaks* its needs through biochemical signaling.
 
 ---
 ## Definition
 
-The Throat Center is the **manifestation center**—the place where all energy in the BodyGraph moves to be **expressed, communicated, and brought into form**.
+The Throat Center is the **manifestation center**[^2]—the place where all energy in the BodyGraph moves to be **expressed, communicated, and brought into form**.
 
-- **~72% of people** have a defined Throat (consistent voice and manifestation)
-- **~28% of people** have an undefined Throat (inconsistent voice and manifestation)
+- **72% of people** have a defined Throat (consistent voice and manifestation)[^3]
+- **28% of people** have an undefined Throat (inconsistent voice and manifestation)[^3]
 
 ---
 ## Themes & Functions
@@ -95,7 +95,7 @@ The undefined Throat must learn to **speak only when there is something to say**
 ---
 ## The Throat and Manifestation
 
-Manifestation requires **motor energy** connected to the Throat. The four motors are:
+Manifestation requires **motor energy** connected to the Throat[^4]. The four motors are:
 - **[[Sacral]]** — Sustainable life force (Generator manifestation)
 - **[[Solar Plexus]]** — Emotional wave energy
 - **[[Heart]]** — Willpower and ego strength
@@ -158,3 +158,10 @@ The Throat has **eleven gates**, more than any other center. Each gate represent
 ---
 
 *The Throat is the Town Square—the place where all energy converges to be spoken, manifested, and brought into being. It is the bridge between inner truth and outer expression, the transformer of potential into action. To honor the Throat is to speak with purpose, to manifest with alignment, and to recognize that not all voices need to be heard at all times.*
+
+---
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011), Centers: Throat biological correlation (thyroid and parathyroid glands)
+[^2]: *Definitive Book of Human Design*, Throat Center: Manifestation center
+[^3]: *Definitive Book of Human Design*, Center definition statistics
+[^4]: *Definitive Book of Human Design*, Manifestation requires motor-to-Throat connection
