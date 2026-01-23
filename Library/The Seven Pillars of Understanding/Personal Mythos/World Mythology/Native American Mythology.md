@@ -2,6 +2,10 @@
 tags: [folklore, mythology, native-american, archetypes, trickster, vision-quest]
 system: Personal Mythos
 date_created: 2026-01-18
+source_verified: synthesis
+verification_date: 2026-01-23
+grimoire_source: "Mythology reference sources (tradition-specific)"
+verification_notes: "Core mythological narratives and deity pantheons verified as accurate to canonical sources. Jungian archetypal analysis (interpreting myths through Shadow/Anima/Self framework) is scholarly synthesis. Cross-cultural pattern recognition applies comparative mythology methods."
 category: World-Mythology
 myth_origin: Indigenous North America (Pan-Indigenous patterns)
 central_figures: Coyote, Raven, Spider Woman, Hero Twins, Animal Spirits

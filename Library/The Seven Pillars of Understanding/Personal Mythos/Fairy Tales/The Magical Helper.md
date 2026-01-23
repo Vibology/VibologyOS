@@ -5,6 +5,10 @@ motif_type: Universal fairy tale element
 core_archetype: The Self / Transcendent Function / Helpful Instinct
 themes: [supernatural-aid, objective-psyche, ancestral-wisdom, intuition, crisis-intervention, active-imagination, mercurial-guide, homunculus, divine-helper]
 date_created: 2026-01-18
+source_verified: synthesis
+verification_date: 2026-01-23
+grimoire_source: "Marie-Louise von Franz, Bruno Bettelheim, Jung CW, Grimm Brothers, Perrault"
+verification_notes: "Fairy tale narratives accurate (Grimm, Perrault canon). Jungian/depth psychological interpretations are scholarly synthesis per von Franz and Bettelheim. Archetypal pattern recognition (Shadow, Anima, Mother, etc.) applies Jung framework to folklore. Cross-system correspondences are original synthesis."
 ---
 
 # The Magical Helper

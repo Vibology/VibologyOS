@@ -2,6 +2,10 @@
 tags: [folklore, jungian, archetype, motif, forbidden-knowledge, shadow, threshold, consciousness, predator, mortificatio, negative-animus, initiation]
 system: Personal Mythos
 date_created: 2026-01-18
+source_verified: synthesis
+verification_date: 2026-01-23
+grimoire_source: "Marie-Louise von Franz, Bruno Bettelheim, Jung CW, Grimm Brothers, Perrault"
+verification_notes: "Fairy tale narratives accurate (Grimm, Perrault canon). Jungian/depth psychological interpretations are scholarly synthesis per von Franz and Bettelheim. Archetypal pattern recognition (Shadow, Anima, Mother, etc.) applies Jung framework to folklore. Cross-system correspondences are original synthesis."
 category: Fairy-Tale-Motif
 core_archetype: The Threshold of Consciousness
 themes: [curiosity-as-awakening, confronting-predator, indelible-knowledge, carnage-revelation, dead-potential, breaking-prohibition, consciousness-emergence]

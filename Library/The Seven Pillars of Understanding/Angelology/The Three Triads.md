@@ -2,6 +2,10 @@
 tags: [angelology, celestial-hierarchy, triads, consciousness-structure]
 system: Angelology
 date_created: 2026-01-17
+source_verified: synthesis
+verification_date: 2026-01-23
+grimoire_source: "Pseudo-Dionysius Celestial Hierarchy, A Dictionary of Angels, Qabalistic Tarot"
+verification_notes: "Three Triads structure verified (First: Seraphim/Cherubim/Thrones, Second: Dominations/Virtues/Powers, Third: Principalities/Archangels/Angels). Pseudo-Dionysian framework accurate. Detailed individual angel descriptions and cross-system correspondences are synthesis."
 category: Foundational Concept
 ---
 # The Three Triads
