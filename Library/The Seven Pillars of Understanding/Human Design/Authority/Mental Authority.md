@@ -5,12 +5,18 @@ authority_type: Mental (Environmental)
 compatible_types: [Projector]
 hierarchy: Sixth (lowest inner authority)
 date_created: 2026-01-08
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
-grimoire_source: "Human Design (The Definitive Book, Complete Guide)"
-verification_notes: "Core mechanics (gates, centers, profiles, authorities, types, strategy) verified against Grimoire. Synthesis includes archetypal interpretation, Jungian depth, cross-system correspondences."
+grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
+verification_notes: "Individual verification complete. Core mechanics (Ajna/Head Center source, Projectors only with undefined below Ajna hierarchy, Mental awareness principle) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
 # Mental Authority
+
+---
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011), Ajna and Head Centers: Mental processing and pressure
+[^2]: *Definitive Book of Human Design*, Mental Authority: Environmental/Lunar Authority for Projectors without lower definitions
+
 *The Intelligence of Environment*
 
 ---

@@ -5,12 +5,18 @@ authority_type: Splenic
 compatible_types: [Manifestor, Projector]
 hierarchy: Third (after Emotional and Sacral)
 date_created: 2026-01-08
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
-grimoire_source: "Human Design (The Definitive Book, Complete Guide)"
-verification_notes: "Core mechanics (gates, centers, profiles, authorities, types, strategy) verified against Grimoire. Synthesis includes archetypal interpretation, Jungian depth, cross-system correspondences."
+grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
+verification_notes: "Individual verification complete. Core mechanics (Spleen Center source, below Emotional, Sacral, Ego, Self-Projected hierarchy, Instantaneous knowing principle) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
 # Splenic Authority
+
+---
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011), Spleen Center: Body consciousness, survival awareness
+[^2]: *Definitive Book of Human Design*, Splenic Authority: Instantaneous, in-the-moment knowing that speaks once
+
 *The Intelligence of the Now*
 
 ---

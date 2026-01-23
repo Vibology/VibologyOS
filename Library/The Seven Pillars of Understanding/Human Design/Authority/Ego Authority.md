@@ -6,12 +6,18 @@ compatible_types: [Manifestor, Projector]
 subtypes: [Ego-Manifested, Ego-Projected]
 hierarchy: Fourth (after Emotional, Sacral, Splenic)
 date_created: 2026-01-08
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
-grimoire_source: "Human Design (The Definitive Book, Complete Guide)"
-verification_notes: "Core mechanics (gates, centers, profiles, authorities, types, strategy) verified against Grimoire. Synthesis includes archetypal interpretation, Jungian depth, cross-system correspondences."
+grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
+verification_notes: "Individual verification complete. Core mechanics (Heart Center source, below Emotional hierarchy, Willpower principle) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
 # Ego Authority
+
+---
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011), Heart Center: Ego/Will motor, commitment and self-worth
+[^2]: *Definitive Book of Human Design*, Ego Authority: Decision-making through willpower (Heart-to-Throat or Heart-to-G)
+
 *The Intelligence of Willpower*
 
 ---

@@ -5,12 +5,18 @@ authority_type: Emotional (Solar Plexus)
 compatible_types: [Manifestor, Generator, Projector]
 hierarchy: Highest (overrides all other authorities)
 date_created: 2026-01-08
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
-grimoire_source: "Human Design (The Definitive Book, Complete Guide)"
-verification_notes: "Core mechanics (gates, centers, profiles, authorities, types, strategy) verified against Grimoire. Synthesis includes archetypal interpretation, Jungian depth, cross-system correspondences."
+grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
+verification_notes: "Individual verification complete. Core mechanics (Solar Plexus Center source, highest hierarchy, "No truth in the now" principle) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
 # Emotional Authority
+
+---
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011), Solar Plexus Center: Emotional/Spirit consciousness, supreme authority when defined
+[^2]: *Definitive Book of Human Design*, "No truth in the now" - decision-making over time through emotional wave
+
 *Clarity Through the Wave*
 
 ---
