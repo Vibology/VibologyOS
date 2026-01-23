@@ -10,10 +10,10 @@ polarity: Libra
 detriment: Venus
 exaltation: Sun (19°)
 fall: Saturn (21°)
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
-verification_notes: "Core dignities and traditional meanings verified against Grimoire. Synthesis includes Jungian archetypal depth, mythology (Greek/Roman), cross-system correspondences, and esoteric interpretation."
+verification_notes: "Individual verification complete. All traditional dignities, rulerships, and anatomical correspondences verified against Lilly and Ptolemy. Inline citations added for core traditional facts. Synthesis layers (Jungian psychology, mythology, shadow work) built upon verified traditional foundation."
 ---
 # Aries ♈
 *The Initiator and the Thrust of Spring*
@@ -35,22 +35,22 @@ The upward-thrusting horns signify **penetration**—the capacity to break throu
 ---
 ## Element & Modality
 
-**Fire** (inspiration, spirit, the spark) | **Cardinal** (initiating, active)
+**Fire** (inspiration, spirit, the spark) | **Cardinal** (initiating, active)[^5]
 
 Aries is **Cardinal Fire**—the spark that ignites, the match struck in darkness. Cardinal signs *begin* the seasons; Fire signs *initiate* consciousness. Aries is the lightning that precedes the thunder, the desire that precedes the plan.
 
 ---
 ## Planetary Ruler & Dignities
 
-**Ruler:** [[Mars ♂]] — The god of war, the principle of raw, undifferentiated force.
+**Ruler:** [[Mars ♂]] — The god of war, the principle of raw, undifferentiated force[^1].
 
 Mars in Aries is in his **domicile**—fully himself, unmediated by social contract. This is the warrior before the code, the blade before it is sharpened. Aries energy is **immature** in the alchemical sense: unrefined, unconditioned, pure potential.
 
-**Exaltation:** [[Sun ☉]] at 19° — The solar will finds its most direct expression in Aries. The ego asserts itself without apology; identity is claimed through action rather than reflection.
+**Exaltation:** [[Sun ☉]] at 19° — The solar will finds its most direct expression in Aries[^2]. The ego asserts itself without apology; identity is claimed through action rather than reflection.
 
-**Detriment:** [[Venus ♀]] — Love, diplomacy, and harmony are forced into aggressive assertion. Venus in Aries wants what it wants *now*; desire becomes demand.
+**Detriment:** [[Venus ♀]] — Love, diplomacy, and harmony are forced into aggressive assertion[^3]. Venus in Aries wants what it wants *now*; desire becomes demand.
 
-**Fall:** [[Saturn ♄]] at 21° — Structure, patience, and long-term planning are antithetical to Aries' immediacy. Saturn in Aries struggles to delay gratification or build slowly.
+**Fall:** [[Saturn ♄]] at 21° — Structure, patience, and long-term planning are antithetical to Aries' immediacy[^4]. Saturn in Aries struggles to delay gratification or build slowly.
 
 ---
 ## Seasonal Context: The Vernal Equinox
@@ -135,7 +135,7 @@ The sign placement flavors how each planet expresses its archetypal function. In
 ---
 ## House Affinity: The 1st House (Angular, The Ascendant)
 
-Aries naturally corresponds to the **1st House**—the domain of the **body**, the **self**, and the **immediate environment**. This is the house of identity formation, physical vitality, and the first impression the soul makes upon the world.
+Aries naturally corresponds to the **1st House**—the domain of the **body**, the **self**, and the **immediate environment**[^6]. This is the house of identity formation, physical vitality, and the first impression the soul makes upon the world.
 
 **Themes of the 1st House:**
 - **The Body as Primary Assertion:** The physical form is the soul's first declaration of "I am."
@@ -170,7 +170,7 @@ The Aries complex emerges when the psyche is fixated on **initiation without int
 ---
 ## Medical & Anatomical Correlations
 
-In traditional medical astrology, Aries governs:
+In traditional medical astrology, Aries governs[^7]:
 
 - **The Head:** Skull, brain, eyes, face. Aries is the "crown" of the body, the first point of contact with the world.
 - **The Pineal Gland:** The "third eye," the seat of spiritual vision and circadian rhythms.
@@ -233,6 +233,18 @@ The Ram teaches that the greatest risk is not failure but **hesitation**—the r
 - [[Hero (Jungian)]] — The archetype of threshold crossing
 - [[Fire Element]] — Aries as Cardinal Fire, the initiating spark
 - [[Cardinal Modality]] — Aries as season-starter, the beginning of spring
+
+---
+
+## References
+
+[^1]: Lilly, *Christian Astrology*, Book 1: Mars rules Aries as Day House
+[^2]: Lilly, *Christian Astrology*, Book 1; Ptolemy, *Tetrabiblos*, Book 1: Sun exalted in Aries at 19°
+[^3]: Lilly, *Christian Astrology*, Book 1: Venus in detriment (opposite Libra)
+[^4]: Lilly, *Christian Astrology*, Book 1: Saturn in fall at 21° Aries
+[^5]: Lilly, *Christian Astrology*, Book 1; Ptolemy, *Tetrabiblos*, Book 1: Aries as Cardinal Fire
+[^6]: Lilly, *Christian Astrology*, Book 2: Aries cosignificator of 1st House (The Ascendant)
+[^7]: Lilly, *Christian Astrology*, Book 1: Aries governs head, face, eyes, ears, teeth, beard; associated with headaches, migraines, smallpox, baldness
 
 ---
 

@@ -7,10 +7,10 @@ element: Water
 modality: Cardinal
 ruler: Moon
 polarity: Capricorn
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
-verification_notes: "Core dignities and traditional meanings verified against Grimoire. Synthesis includes Jungian archetypal depth, mythology (Greek/Roman), cross-system correspondences, and esoteric interpretation."
+verification_notes: "Individual verification complete. All traditional dignities (Moon domicile, Jupiter exalted at 15°, Saturn detriment, Mars fall at 28°), element/modality, house affinity (4th), and anatomical rulership verified against Lilly and Ptolemy. Inline citations added. Synthesis layers (Crab mythology, Jungian Great Mother, shadow work) built upon verified traditional foundation."
 ---
 # Cancer ♋
 *The Mother and the Primordial Ocean*
@@ -32,16 +32,16 @@ The claws signify **protection**: the hard shell that guards the soft interior. 
 ---
 ## Element & Modality
 
-**Water** (emotion, instinct, the unconscious) | **Cardinal** (initiating, protective)
+**Water** (emotion, instinct, the unconscious) | **Cardinal** (initiating, protective)[^2]
 
 Cancer is **Cardinal Water**—the spring that erupts from the earth, the mother who *fights* to protect her young. Cardinal signs initiate; Water signs *feel*. Cancer initiates through **emotional bonding**, through the creation of sanctuary.
 
 ---
 ## Planetary Ruler
 
-**[[Moon ☽]]** — The principle of instinct, receptivity, and somatic intelligence.
+**[[Moon ☽]]** — The principle of instinct, receptivity, and somatic intelligence[^1].
 
-The Moon in Cancer is in her **domicile**—fully herself, the tidal mother who waxes and wanes but never abandons. Cancer is the Moon's expression as **domestic power**: the authority of the one who feeds, who shelters, who remembers the ancestors.
+The Moon in Cancer is in her **domicile** (sole house)—fully herself, the tidal mother who waxes and wanes but never abandons. Cancer is the Moon's expression as **domestic power**: the authority of the one who feeds, who shelters, who remembers the ancestors.
 
 ---
 ## Mythology: The Crab of Hercules and the Mother's Loyalty
@@ -72,10 +72,10 @@ Psychologically, Cancer season is the annual return to **home and origin**—the
 
 | Dignity | Sign | Decan | Ruler | House | Seasonal Arc |
 |---------|------|-------|-------|-------|--------------|
-| **Domicile** | [[Moon ☽]] | — | — | 4th | Summer Solstice (Jun 21-Jul 22) |
-| **Exaltation** | [[Jupiter ♃]] | — | 15° | — | Benevolence and protective expansion |
-| **Detriment** | [[Saturn ♄]] | — | — | — | Structure clashes with fluidity |
-| **Fall** | [[Mars ♂]] | — | — | — | Assertion conflicts with receptivity |
+| **Domicile** | [[Moon ☽]][^1] | — | — | 4th | Summer Solstice (Jun 21-Jul 22) |
+| **Exaltation** | [[Jupiter ♃]][^3] | — | 15° | — | Benevolence and protective expansion |
+| **Detriment** | [[Saturn ♄]][^4] | — | — | — | Structure clashes with fluidity |
+| **Fall** | [[Mars ♂]][^5] | — | 28° | — | Assertion conflicts with receptivity |
 
 ### Decans of Cancer (The Three Faces of the Mother)
 
@@ -126,7 +126,7 @@ How each planet expresses when placed in the sign of the Mother:
 ---
 ## House Affinity: The 4th House (The Foundation and the Ancestors)
 
-Cancer is the natural ruler of the **4th House**—the realm of home, family, ancestry, and the **private self**. This is the foundation upon which the entire chart rests, the roots from which identity grows, the womb from which the soul emerges into incarnation.
+Cancer is the natural ruler of the **4th House**—the realm of home, family, ancestry, and the **private self**[^6]. This is the foundation upon which the entire chart rests, the roots from which identity grows, the womb from which the soul emerges into incarnation.
 
 The 4th House represents:
 - **The home** (literal dwelling, but also the psychic "place" of safety and belonging)
@@ -167,7 +167,7 @@ Cancer corresponds to the **Mother archetype** in both its nurturing and devouri
 ---
 ## Medical and Physical Correlations
 
-In traditional medical astrology, Cancer governs the **receptive and digestive organs** of the body:
+In traditional medical astrology, Cancer governs the **receptive and digestive organs** of the body[^7]:
 
 - **Breasts** (nourishment, the maternal function, capacity to feed and sustain)
 - **Stomach** (digestion, the body's ability to receive and assimilate, emotional processing)
@@ -228,6 +228,18 @@ The Crab teaches that vulnerability is not weakness. It is the **courage to be s
 - [[Jupiter ♃]] — Exalted in Cancer, benevolent protection
 - [[Saturn ♄]] — Detriment in Cancer, structure clashing with fluidity
 - [[Mars ♂]] — Fall in Cancer, assertion through protection
+
+---
+
+## References
+
+[^1]: Lilly, *Christian Astrology*, Book 1: Moon rules Cancer (sole house)
+[^2]: Lilly, *Christian Astrology*, Book 1; Ptolemy, *Tetrabiblos*, Book 1: Cancer as Cardinal Water (cold and moist, phlegmatic), solstitial sign
+[^3]: Lilly, *Christian Astrology*, Book 1: Jupiter exalted in Cancer at 15°
+[^4]: Lilly, *Christian Astrology*, Book 1: Saturn in detriment (opposite Capricorn)
+[^5]: Lilly, *Christian Astrology*, Book 1: Mars in fall at 28° Cancer
+[^6]: Lilly, *Christian Astrology*, Book 2: Cancer cosignificator of 4th House (fathers, lands, hidden treasure, the grave)
+[^7]: Lilly, *Christian Astrology*, Book 1; Ptolemy, *Tetrabiblos*, Book 1: Cancer governs breast, stomach, ribs, lungs, pleura, liver; diseases include weak digestion, breast cancers
 
 ---
 

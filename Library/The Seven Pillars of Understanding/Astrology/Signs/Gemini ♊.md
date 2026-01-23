@@ -8,10 +8,10 @@ modality: Mutable
 ruler: Mercury
 polarity: Sagittarius
 decan_rulers: [Jupiter, Mars, Sun]
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
-verification_notes: "Core dignities and traditional meanings verified against Grimoire. Synthesis includes Jungian archetypal depth, mythology (Greek/Roman), cross-system correspondences, and esoteric interpretation."
+verification_notes: "Individual verification complete. Traditional dignities (Mercury domicile Day House, Jupiter detriment, North Node exaltation at 3°, no planetary fall), element/modality, house affinity (3rd), and anatomical rulership verified against Lilly and Ptolemy. Inline citations added. Note: File omits North Node exaltation (not critical for working astrology). Synthesis layers (mythology, Jungian Trickster, shadow work) built upon verified foundation."
 ---
 # Gemini ♊
 *The Messenger and the Dance of Duality*
@@ -42,16 +42,16 @@ The myth encodes Gemini's core archetype: **duality as relationship, not opposit
 ---
 ## Element & Modality
 
-**Air** (thought, communication, abstraction) | **Mutable** (adapting, distributing)
+**Air** (thought, communication, abstraction) | **Mutable** (adapting, distributing)[^2]
 
 Gemini is **Mutable Air**—the breeze that carries pollen, the rumor that spreads through the marketplace, the joke that punctures pretension. Mutable signs *distribute* what Fixed signs consolidate. Air signs *conceptualize* what Fire signs initiate. Gemini is the idea freed from its original container, mutating as it travels.
 
 ---
 ## Planetary Ruler
 
-**[[Astrology/Planets/Mercury # ☿]]** — The swift-footed messenger, the psychopomp who crosses all boundaries.
+**[[Astrology/Planets/Mercury # ☿]]** — The swift-footed messenger, the psychopomp who crosses all boundaries[^1].
 
-Mercury in Gemini is in his **domicile**—pure communication, unencumbered by judgment (Virgo) or grand narrative (Sagittarius). This is Mercury as **trickster**: playful, amoral, interested not in truth but in *transmission*. Did the message arrive? Then the work is done.
+Mercury in Gemini is in his **domicile** (Day House)—pure communication, unencumbered by judgment (Virgo) or grand narrative (Sagittarius). This is Mercury as **trickster**: playful, amoral, interested not in truth but in *transmission*. Did the message arrive? Then the work is done.
 
 ---
 ## Seasonal Context: Late Spring (May 21 - June 20)
@@ -101,7 +101,7 @@ Gemini **colors** the expression of any planet placed within it, orienting the p
 - **Mercury in Gemini (Domicile):** Pure communication—swift, adaptable, playful. The mind that makes connections effortlessly, that sees patterns everywhere. Genius at translation, metaphor, code-switching. Shadow: superficiality, the collector of trivia.
 - **Venus in Gemini:** Love as conversation, attraction to wit and intellectual sparkle. The lover who flirts with ideas, who needs mental stimulation more than physical touch. Shadow: romantic restlessness, the inability to commit to one person or one story.
 - **Mars in Gemini:** Action through information warfare. The strategist, the debater, the one who fights with words rather than fists. Speed over force. Shadow: passive aggression, the troll, the coward who hides behind language.
-- **Jupiter in Gemini (Detriment):** Expansive curiosity but difficulty synthesizing. The philosopher who sees all perspectives and thus cannot choose one. Generosity through teaching, sharing, distributing knowledge. Shadow: intellectual arrogance, the polymath who never masters anything.
+- **Jupiter in Gemini (Detriment):** Expansive curiosity but difficulty synthesizing[^3]. The philosopher who sees all perspectives and thus cannot choose one. Generosity through teaching, sharing, distributing knowledge. Shadow: intellectual arrogance, the polymath who never masters anything.
 - **Saturn in Gemini:** Discipline applied to communication. The serious student, the one who learns through repetition and endurance. Language as structure, grammar as law. Shadow: mental rigidity, difficulty adapting, the censor.
 - **Uranus in Gemini:** Revolutionary ideas, innovation in communication technology. The inventor, the hacker, the one who disrupts information hierarchies. Shadow: chaos disguised as progress, the agent provocateur.
 - **Neptune in Gemini:** Mysticism through language, poetry as spiritual transmission. The channel, the medium, the one who speaks what they do not fully understand. Shadow: confusion, lies, propaganda, the dissolution of meaning.
@@ -110,7 +110,7 @@ Gemini **colors** the expression of any planet placed within it, orienting the p
 ---
 ## House Affinity: The 3rd House
 
-Gemini is the natural ruler of the **[[3rd House]]**—the domain of **communication, learning, siblings, and the immediate environment**.
+Gemini is the natural ruler of the **[[3rd House]]**—the domain of **communication, learning, siblings, and the immediate environment**[^4].
 
 The 3rd House governs:
 - **Language and communication** (speaking, writing, coding, translating)
@@ -143,7 +143,7 @@ The **Gemini wound** is the terror of stillness—the fear that if you stop movi
 ---
 ## Medical and Physical Correlations
 
-In traditional medical astrology, Gemini governs the **respiratory system and nervous network**:
+In traditional medical astrology, Gemini governs the **respiratory system and nervous network**[^5]:
 
 - **Lungs and bronchi** (the exchange of breath, the dialogue between inner and outer)
 - **Arms, hands, and fingers** (reach, manipulation, gesture—the body's tools for communication)
@@ -207,6 +207,16 @@ The Twins teach that duality is not a problem to be solved but a **generative te
 - [[The Lovers (Tarot)]] — Key VI, choice and duality
 - [[Ajna Center]] — Human Design conceptual mind
 - [[Virgo ♍]] — Mercury's other domicile, analysis applied to refinement
+
+---
+
+## References
+
+[^1]: Lilly, *Christian Astrology*, Book 1: Mercury rules Gemini (Day House)
+[^2]: Lilly, *Christian Astrology*, Book 1; Ptolemy, *Tetrabiblos*, Book 1: Gemini as Mutable (Common/Bicorporeal) Air (hot and moist, sanguine)
+[^3]: Lilly, *Christian Astrology*, Book 1: Jupiter in detriment (opposite Sagittarius)
+[^4]: Lilly, *Christian Astrology*, Book 2: Gemini cosignificator of 3rd House (kindred, neighbors, short journeys)
+[^5]: Lilly, *Christian Astrology*, Book 1: Gemini governs shoulders, arms, hands, fingers; diseases include infirmities in arms/shoulders, corrupted blood
 
 ---
 

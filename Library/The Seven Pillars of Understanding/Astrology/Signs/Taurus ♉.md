@@ -8,10 +8,10 @@ modality: Fixed
 ruler: Venus
 polarity: Scorpio
 house_affinity: 2nd
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
-verification_notes: "Core dignities and traditional meanings verified against Grimoire. Synthesis includes Jungian archetypal depth, mythology (Greek/Roman), cross-system correspondences, and esoteric interpretation."
+verification_notes: "Individual verification complete. All traditional dignities (Venus domicile, Moon exalted at 3°, Mars detriment, no fall), element/modality, house affinity, and anatomical correspondences verified against Lilly and Ptolemy. Inline citations added. Synthesis layers (mythology, Jungian depth, shadow work) built upon verified traditional foundation."
 ---
 # Taurus ♉
 *The Builder and the Embodied Ground*
@@ -33,7 +33,7 @@ The rounded head signifies **receptivity** (the Moon exalted here at 3°), while
 ---
 ## Element & Modality
 
-**Earth** (matter, form, embodiment) | **Fixed** (sustaining, enduring)
+**Earth** (matter, form, embodiment) | **Fixed** (sustaining, enduring)[^5]
 
 Taurus is **Fixed Earth**—the mountain that does not move, the soil that receives the seed and nourishes it into growth. Fixed signs *sustain* what Cardinal signs initiate. Earth signs *ground* spirit into matter. Taurus is the promise that *this* matters, that sensory existence is not distraction but sacrament.
 
@@ -62,19 +62,19 @@ In traditional agrarian cycles, Taurus governs the **first harvest of greens**, 
 ---
 ## Planetary Ruler: Venus as Embodied Sensuality
 
-**[[Venus ♀]]** — The principle of value, attraction, and embodied beauty.
+**[[Venus ♀]]** — The principle of value, attraction, and embodied beauty[^1].
 
-Venus in Taurus is in her **domicile**—fully expressed as earthy sensuality, as the pleasure of form. This is not vanity but *self-love*: the recognition that the body, the garden, the meal, the touch are **worthy of devotion**. Where Venus in [[Libra ♎]] seeks harmony through relationship, Venus in Taurus seeks harmony through *possession*—not as greed, but as the lover's instinct to hold what is cherished.
+Venus in Taurus is in her **domicile** (Night House)—fully expressed as earthy sensuality, as the pleasure of form. This is not vanity but *self-love*: the recognition that the body, the garden, the meal, the touch are **worthy of devotion**. Where Venus in [[Libra ♎]] seeks harmony through relationship, Venus in Taurus seeks harmony through *possession*—not as greed, but as the lover's instinct to hold what is cherished.
 
 ---
 ## Dignities & Notable Degrees
 
 | Dignity        | Planet             | Degree | Significance                                                   |
 | -------------- | ------------------ | ------ | -------------------------------------------------------------- |
-| **Domicile**   | [[Venus ♀]]        | —      | Venus rules; embodied sensuality, aesthetic discernment        |
-| **Exaltation** | [[Moon ☽]]         | 3°     | Emotional nourishment, instinctive security, the mother's body |
-| **Detriment**  | [[Mars ♂]]         | —      | Action constrained by inertia; desire slowed by patience       |
-| **Fall**       | None traditionally | —      | —                                                              |
+| **Domicile**   | [[Venus ♀]]        | —      | Venus rules (Night House); embodied sensuality, aesthetic discernment[^1] |
+| **Exaltation** | [[Moon ☽]]         | 3°     | Emotional nourishment, instinctive security, the mother's body[^2] |
+| **Detriment**  | [[Mars ♂]]         | —      | Action constrained by inertia; desire slowed by patience[^3]   |
+| **Fall**       | None traditionally | —      | —[^4]                                                          |
 |                |                    |        |                                                                |
 
 The **Moon's exaltation at 3° Taurus** is one of astrology's most tender dignities—the point where instinct is *safe*, where emotion finds ground, where the vulnerable self is nourished without question. This is the mother's lap, the warm meal, the garden at dawn.
@@ -149,7 +149,7 @@ How each planet expresses when placed in Taurus, emphasizing sensory embodiment,
 ---
 ## House Affinity: The 2nd House (Resources, Value, Self-Worth)
 
-Taurus is the natural ruler of the **[[2nd House]]**, which governs:
+Taurus is the natural ruler of the **[[2nd House]]**, which governs[^6]:
 - **Material resources:** Money, possessions, the tangible evidence of worth
 - **Self-value:** The internal sense of "I am enough" (or "I am not enough")
 - **Embodied presence:** The physical body as the first possession, the temple of the self
@@ -164,7 +164,7 @@ When Taurus energy is strong in the 2nd House, the native builds slowly but sure
 ---
 ## Medical and Physical Correlations
 
-In traditional medical astrology, Taurus governs the **throat, neck, and sensory apparatus** of the physical body:
+In traditional medical astrology, Taurus governs the **throat, neck, and sensory apparatus** of the physical body[^7]:
 
 - **Throat and larynx** (voice, manifestation, the channel between inner truth and outer expression)
 - **Neck and cervical spine** (the bridge between head and body, thought and embodied action)
@@ -216,6 +216,18 @@ What are you building—and is it *yours*, or is it what you were told to value?
 The Taurus question is not "Do I have enough?" but "Am I savoring what I have, or am I waiting for permission to enjoy my own life?"
 
 The Bull teaches that the body is not the enemy of the soul. It is the **instrument** through which the soul tastes the world.
+
+---
+
+## References
+
+[^1]: Lilly, *Christian Astrology*, Book 1: Venus rules Taurus (Night House)
+[^2]: Lilly, *Christian Astrology*, Book 1; Ptolemy, *Tetrabiblos*, Book 1: Moon exalted in Taurus at 3°
+[^3]: Lilly, *Christian Astrology*, Book 1: Mars in detriment (opposite Scorpio)
+[^4]: Lilly, *Christian Astrology*, Book 1: No traditional planet has its fall in Taurus
+[^5]: Lilly, *Christian Astrology*, Book 1; Ptolemy, *Tetrabiblos*, Book 1: Taurus as Fixed Earth (cold and dry)
+[^6]: Lilly, *Christian Astrology*, Book 2: Taurus cosignificator of 2nd House (substance and wealth)
+[^7]: Lilly, *Christian Astrology*, Book 1: Taurus governs neck, throat, voice, windpipe; diseases include sore throats, scrofula, quinsies
 
 ---
 
