@@ -85,7 +85,28 @@ date_created: 2026-01-23
 
 ---
 
-## Step 4: YAML to Add
+## Step 4: Add Citations
+
+**Inline Footnotes Required:**
+
+For each core fact verified against Grimoire, add inline footnote:
+```markdown
+The Sun rules Leo and is exalted in Aries at 19°[^1].
+
+[^1]: Lilly, *Christian Astrology*, Book 1, Chapter 4; Ptolemy, *Tetrabiblos*, Book 1
+```
+
+**Citation Checklist:**
+- ☐ Core facts (dignities, gates, correspondences) cited
+- ☐ Direct quotes cited with exact source location
+- ☐ Synthesis sections cite multiple sources
+- ☐ Personal interpretation clearly marked (not cited to Grimoire)
+
+**Footnotes Section Added:** ☐ YES / ☐ NO
+
+---
+
+## Step 5: YAML to Add
 
 ```yaml
 source_verified: true | synthesis | false

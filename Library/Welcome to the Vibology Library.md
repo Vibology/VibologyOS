@@ -24,7 +24,7 @@ Use this Library as the **Algorithm**—the external structure that organizes wh
 
 ## The Seven Pillars
 
-Each pillar is a complete wisdom tradition. Each contains an Overview as your entry point.
+Each pillar is a complete wisdom tradition. Each contains an Overview as your entry point 
 
 | Pillar | Domain |
 |--------|--------|

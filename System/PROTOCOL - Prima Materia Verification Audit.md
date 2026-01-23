@@ -98,9 +98,52 @@ For each Library entry:
    - **AUGMENTED:** Core from Grimoire, synthesis added → Acceptable if synthesis is clearly marked
    - **UNVERIFIED:** Cannot confirm source → Flag for rewrite
 
-4. **Log findings:** Document verification status in queue tracker
+4. **Add citations:** Link Library content to Prima Materia using inline footnotes (see Section 3.3)
 
-### 3.3 Batch Verification Strategy
+5. **Log findings:** Document verification status in queue tracker
+
+### 3.3 Citation Standard: Inline Footnotes
+
+**Decision:** All Library entries must cite Grimoire sources using markdown footnotes.
+
+**Format:**
+```markdown
+The Sun rules Leo and is exalted in Aries at 19°[^1]. In traditional medical
+astrology, the Sun governs the heart and spine[^2].
+
+[^1]: Lilly, *Christian Astrology*, Book 1, Chapter 4; Ptolemy, *Tetrabiblos*, Book 1
+[^2]: Lilly, *Christian Astrology*, Book 3, Chapter 17
+```
+
+**Citation Requirements:**
+
+1. **Core facts** (dignities, gate numbers, correspondences, definitions) MUST have footnotes
+2. **Direct quotes** MUST have footnotes with exact source location
+3. **Synthesis sections** (cross-system, Jungian, mythology) should cite multiple sources
+4. **Personal interpretation** should be clearly marked and NOT footnoted to Grimoire
+
+**Grimoire Citation Format:**
+- Books: `Author, *Title*, Chapter/Section`
+- Sections: `"Topic" in Esoteric Grimoire`
+- Multiple sources: Separate with semicolons
+
+**Examples:**
+```markdown
+[^1]: Lilly, *Christian Astrology*, Book 1, Chapter 4
+[^2]: "Human Design Gates" in Esoteric Grimoire; Rave I'Ching, Gate 51
+[^3]: Waite, *Pictorial Key to the Tarot*, Part II, Key 0
+[^4]: Pseudo-Dionysius, *Celestial Hierarchy*, Chapter 6; Davidson, *Dictionary of Angels*
+```
+
+**CSS Styling (Future):**
+Footnote superscripts will be styled with:
+- Smaller font size
+- Distinct color
+- Reduced visual clutter
+
+**Implementation:** Add footnotes during individual file verification (Phase 3.4).
+
+### 3.4 Batch Verification Strategy
 
 Given 645 files, we'll verify in batches by sub-category:
 

@@ -137,4 +137,44 @@ grimoire_source: "[Pillar-specific Grimoire sources]"
 verification_notes: "Core [dignities/mechanics/correspondences] verified against Grimoire. Synthesis includes [Jungian/mythology/cross-system] interpretation."
 ```
 
-**Next Session:** Phase 4 - Cohort C Synthesis-Heavy Verification (Personal Mythos 74 files, Angelology 30 files)
+**Citation Method Decision:** Inline footnotes (markdown format)
+- All core facts must link back to Prima Materia sources
+- CSS styling (smaller, colored) to be developed later
+- Implementation: Add footnotes during individual file verification
+
+**Next Session:** Phase 3 Revision - Individual File Verification (95 files)
+
+### 2026-01-23: Phase 3 Revision - Individual Verification Required
+
+**Issue Identified:** Phase 3 used sample verification (9 files) followed by batch YAML addition to all 95 files. This does NOT constitute "full verification" per audit requirements.
+
+**What was done:**
+- Sample verification confirmed pattern accuracy (dignities, mechanics, correspondences match Grimoire)
+- Batch YAML marked all 95 files as `source_verified: synthesis`
+- No individual file content review or citation addition
+
+**What needs to be done:**
+- Mark all 95 files as `preliminary_verification: sample-based` (new field)
+- Verify each file individually against Grimoire
+- Add inline footnotes for core facts
+- Reclassify as `source_verified: true` or `synthesis` based on individual review
+- Track progress after every 10-15 files
+
+**Revised Verification Queue:**
+
+| Cohort | Files | Status | Next Action |
+|--------|-------|--------|-------------|
+| A: Incarnation Crosses | 193 | ✅ Pre-verified | No action (rebuilt from NotebookLM 2026-01-20) |
+| B: P1-CRITICAL | 95 | ⚠️ Sample only | Individual verification + citations required |
+| C: Synthesis-Heavy | 105 | Pending | Full verification after Cohort B complete |
+| D: Remaining | 250 | Pending | Full verification after Cohort C complete |
+
+**Next Steps:**
+1. Add `preliminary_verification: sample-based` to 95 Cohort B files
+2. Create individual verification tracking (checklist file)
+3. Verify Astrology files one-by-one (37 files, estimated 3-4 sessions)
+4. Verify Human Design subset (33 files, estimated 3-4 sessions)
+5. Verify Tarot Major Arcana (23 files, estimated 2-3 sessions)
+6. Verify Overview files (2 files, estimated 1 session)
+
+**Total Revised Estimate:** 10-12 sessions for Cohort B individual verification

@@ -76,6 +76,7 @@ date_created: YYYY-MM-DD
    - Quote or cite the system's canonical texts
    - Present the orthodox/traditional understanding first
    - Establish what the founders/authorities said
+   - **REQUIRED:** Use inline footnotes to cite Prima Materia sources (see Citation Standard below)
 
 2. **Historical Context**
    - When/where/how did this concept originate?
@@ -112,6 +113,114 @@ date_created: YYYY-MM-DD
 - **Human Design:** Ra Uru Hu's mechanical definition, bodygraph mechanics, aura description
 - **Astrology:** Traditional rulerships, dignity tables, house topics, aspect geometry
 - **Qabalah:** Sepher Yetzirah titles, Sephirotic attributions, Hebrew letter meanings
+
+---
+
+## Citation Standard: Inline Footnotes
+
+**Requirement:** All Library entries MUST cite Prima Materia sources using inline footnotes.
+
+### Why Citations Matter
+
+Citations provide:
+1. **Provenance tracking** - Verify content traces to authoritative sources
+2. **Academic rigor** - Distinguish between source material and synthesis
+3. **Auditability** - Allow verification of claims against Grimoire
+4. **Scholarly integrity** - Acknowledge source material explicitly
+
+### Format: Markdown Footnotes
+
+```markdown
+The Sun rules Leo and is exalted in Aries at 19°[^1]. In medical astrology,
+the Sun governs the heart and vital spirit[^2].
+
+[^1]: Lilly, *Christian Astrology*, Book 1, Chapter 4; Ptolemy, *Tetrabiblos*, Book 1
+[^2]: Lilly, *Christian Astrology*, Book 3, Chapter 17
+```
+
+### What Requires Citations
+
+**MUST cite:**
+- Core facts (dignities, gate numbers, correspondences, definitions)
+- Direct quotes from source texts
+- Traditional meanings and attributions
+- Mythology summaries (cite mythological source)
+- Jung references (cite CW volume and page)
+
+**Should cite:**
+- Synthesis sections drawing on multiple sources
+- Cross-system correspondences
+- Historical context
+
+**NO citation needed:**
+- Personal interpretation clearly marked as such
+- Original synthesis not claiming source authority
+- Contemporary examples and metaphors
+
+### Grimoire Citation Format
+
+**Books:**
+```
+Author, *Title*, Chapter/Book/Section
+```
+
+**Grimoire Sections:**
+```
+"Topic Name" in Esoteric Grimoire
+```
+
+**Multiple Sources:**
+```
+Source 1; Source 2; Source 3
+```
+
+### Examples by Pillar
+
+**Astrology:**
+```markdown
+[^1]: Lilly, *Christian Astrology*, Book 1, Chapter 4
+[^2]: Ptolemy, *Tetrabiblos*, Book 1, Chapter 20
+```
+
+**Human Design:**
+```markdown
+[^1]: "Gate 51" in Esoteric Grimoire; Rave I'Ching, Gate 51
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design*, Chapter 3
+```
+
+**Tarot:**
+```markdown
+[^1]: Waite, *Pictorial Key to the Tarot*, Part II, Key XIII
+[^2]: Crowley, *Book of Thoth*, Atu XIII; Golden Dawn, *Book T*
+```
+
+**Personal Mythos:**
+```markdown
+[^1]: Jung, *CW 9i*, §§ 309-311 (The Syzygy: Anima and Animus)
+[^2]: von Franz, *Interpretation of Fairy Tales*, Chapter 2
+```
+
+**Angelology:**
+```markdown
+[^1]: Pseudo-Dionysius, *Celestial Hierarchy*, Chapter 6
+[^2]: Davidson, *Dictionary of Angels*, "Seraphim" entry
+```
+
+### Visual Styling (Future)
+
+CSS will style footnote superscripts:
+- Smaller font size (0.75em)
+- Distinct color (muted, less prominent)
+- Reduced visual clutter
+
+Until CSS implemented, standard markdown footnotes render as superscript links.
+
+### Audit Compliance
+
+During Prima Materia verification audits:
+- Every entry must have footnotes for core facts
+- Missing citations flag entry as `source_verified: false`
+- Citations are added during individual file verification
 
 ---
 
