@@ -2,6 +2,10 @@
 tags: [tarot, minor-arcana, pentacles, earth, chesed, sun, capricorn, security, hoarding]
 system: Tarot
 date_created: 2026-01-09
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Tarot/Minor Arcana"
 date_updated: 2026-01-16
 suit: Pentacles
 element: Earth
@@ -285,6 +289,14 @@ The invitation is to *loosen the grip*—not to abandon security, but to hold it
 ---
 ## Reading Examples / Case Studies
 *TBD*
+---
+
+## Sources
+
+- A.E. Waite, *The Pictorial Key to the Tarot* (1911) - Divinatory meanings
+- Golden Dawn tradition - Qabalistic correspondences, sephirothic attributions, and esoteric titles
+- Aleister Crowley, *The Book of Thoth* (1944) - Elemental dignities and deeper attributions where noted
+
 ---
 
 ## Internal Links

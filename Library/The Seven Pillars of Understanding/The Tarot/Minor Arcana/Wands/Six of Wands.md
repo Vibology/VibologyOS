@@ -2,6 +2,10 @@
 tags: [tarot, minor-arcana, wands, fire, tiphareth, atziluth]
 system: Tarot
 date_created: 2026-01-09
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Tarot/Minor Arcana"
 suit: Wands
 element: Fire
 qabalistic_world: Atziluth (Pure Spirit)
@@ -386,6 +390,14 @@ The integrated Six knows: *I am not the laurel wreath. I am the one who was wort
 ## Reading Examples / Case Studies
 
 *TBD*
+
+---
+
+## Sources
+
+- A.E. Waite, *The Pictorial Key to the Tarot* (1911) - Divinatory meanings
+- Golden Dawn tradition - Qabalistic correspondences, sephirothic attributions, and esoteric titles
+- Aleister Crowley, *The Book of Thoth* (1944) - Elemental dignities and deeper attributions where noted
 
 ---
 

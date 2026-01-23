@@ -2,6 +2,10 @@
 tags: [tarot, minor-arcana, swords, air, court, water-of-air]
 system: Tarot
 date_created: 2026-01-09
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Tarot/Minor Arcana"
 suit: Swords
 element: Air
 court_rank: Queen
@@ -300,6 +304,14 @@ The sword liberates when it is wielded with wisdom. The Queen who has lost every
 ## Reading Examples / Case Studies
 
 *TBD*
+
+---
+
+## Sources
+
+- A.E. Waite, *The Pictorial Key to the Tarot* (1911) - Divinatory meanings
+- Golden Dawn tradition - Qabalistic correspondences, sephirothic attributions, and esoteric titles
+- Aleister Crowley, *The Book of Thoth* (1944) - Elemental dignities and deeper attributions where noted
 
 ---
 

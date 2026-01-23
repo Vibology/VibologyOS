@@ -2,6 +2,10 @@
 tags: [tarot, minor-arcana, cups, water, hod, saturn, pisces]
 system: Tarot
 date_created: 2026-01-09
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Tarot/Minor Arcana"
 suit: Cups
 element: Water
 qabalistic_world: Briah (Creative World)
@@ -340,6 +344,14 @@ This is the paradox of all spiritual paths: you must die to be born, you must lo
 The card asks: *What success is keeping you from your soul? What achievement has become a cage? What must you walk away from—not because it is bad, but because it is finished—to become who you are meant to be?*
 
 The Lord of Abandoned Success knows that some successes must be abandoned for greater ones to emerge. The cups are full. The mountains wait. The moon wanes, and it is time to walk.
+
+---
+
+## Sources
+
+- A.E. Waite, *The Pictorial Key to the Tarot* (1911) - Divinatory meanings
+- Golden Dawn tradition - Qabalistic correspondences, sephirothic attributions, and esoteric titles
+- Aleister Crowley, *The Book of Thoth* (1944) - Elemental dignities and deeper attributions where noted
 
 ---
 

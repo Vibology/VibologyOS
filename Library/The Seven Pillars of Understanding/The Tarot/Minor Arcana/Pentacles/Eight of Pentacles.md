@@ -2,6 +2,10 @@
 tags: [tarot, minor-arcana, pentacles, earth, hod, sun, virgo, mastery, craftsmanship]
 system: Tarot
 date_created: 2026-01-09
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Tarot/Minor Arcana"
 date_updated: 2026-01-16
 suit: Pentacles
 element: Earth
@@ -94,6 +98,14 @@ The teaching: Mastery is repetition. You've made six; now make seven. Then eight
 The Eight of Pentacles represents **the ego absorbed in meaningful work**—the moment when focused attention becomes a form of meditation, when craft becomes a vehicle for the Self to express through matter.
 Jung taught that work, rightly approached, is not mere labor but *opus*—the alchemical work of transformation. The Eight is this: the daily practice that refines not just the external product but the *practitioner*.
 The shadow is perfectionism (work without completion) or workaholism (craft as escape from relationship). The integration is *practice as path*—showing up daily, doing the work with care, allowing mastery to emerge naturally through sustained attention.
+---
+
+## Sources
+
+- A.E. Waite, *The Pictorial Key to the Tarot* (1911) - Divinatory meanings
+- Golden Dawn tradition - Qabalistic correspondences, sephirothic attributions, and esoteric titles
+- Aleister Crowley, *The Book of Thoth* (1944) - Elemental dignities and deeper attributions where noted
+
 ---
 
 ## Internal Links

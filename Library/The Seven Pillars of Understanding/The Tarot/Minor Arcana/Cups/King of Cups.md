@@ -2,6 +2,10 @@
 tags: [tarot, minor-arcana, cups, water, court, fire-of-water, king, sovereign]
 system: Tarot
 date_created: 2026-01-09
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Tarot/Minor Arcana"
 date_revised: 2026-01-16
 suit: Cups
 rank: King
@@ -203,6 +207,14 @@ When the King of Cups emerges in reading or contemplation, consider:
 **Are you truly present, or merely performing mastery?** The shadow King appears calm but is actually dissociated. Is your equanimity genuine, or is it disconnection?
 
 **What emotional material needs to be transformed?** The King is an alchemist. What feeling-state in your life is waiting to be refined into something useful?
+
+---
+
+## Sources
+
+- A.E. Waite, *The Pictorial Key to the Tarot* (1911) - Divinatory meanings
+- Golden Dawn tradition - Qabalistic correspondences, sephirothic attributions, and esoteric titles
+- Aleister Crowley, *The Book of Thoth* (1944) - Elemental dignities and deeper attributions where noted
 
 ---
 

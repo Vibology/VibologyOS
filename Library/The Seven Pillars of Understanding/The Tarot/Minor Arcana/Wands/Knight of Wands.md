@@ -2,6 +2,10 @@
 tags: [tarot, minor-arcana, wands, fire, court, air-of-fire, knight, quest]
 system: Tarot
 date_created: 2026-01-09
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Tarot/Minor Arcana"
 suit: Wands
 rank: Knight
 element_primary: Air

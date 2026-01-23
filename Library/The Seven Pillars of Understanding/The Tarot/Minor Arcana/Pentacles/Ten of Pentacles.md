@@ -2,6 +2,10 @@
 tags: [tarot, minor-arcana, pentacles, earth, malkuth, mercury, virgo, legacy, family]
 system: Tarot
 date_created: 2026-01-09
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Tarot/Minor Arcana"
 date_updated: 2026-01-16
 suit: Pentacles
 element: Earth
@@ -161,6 +165,14 @@ The family business, the family home, the traditions that shape character—thes
 **The greatest wealth is what you give away.**
 The Ten of Pentacles holds the paradox of *ownership through release*. The elder has built this abundance, yes—but he does not clutch it. The pentacles are distributed throughout the image, given to the next generation. His wealth is *real* precisely because he has let it go, released it into circulation, allowed it to serve beyond himself.
 The teaching: True dynasty is not control but covenant. You build not to possess but to *pass forward*. The wealth is yours to steward, not to hoard. And in the act of giving it away—to children, to community, to the structures that will outlast you—it becomes more real, more enduring, than if you had clutched it tight.
+---
+
+## Sources
+
+- A.E. Waite, *The Pictorial Key to the Tarot* (1911) - Divinatory meanings
+- Golden Dawn tradition - Qabalistic correspondences, sephirothic attributions, and esoteric titles
+- Aleister Crowley, *The Book of Thoth* (1944) - Elemental dignities and deeper attributions where noted
+
 ---
 
 ## Internal Links

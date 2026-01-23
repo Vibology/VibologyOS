@@ -2,6 +2,10 @@
 tags: [tarot, minor-arcana, cups, water, malkuth, mars, pisces]
 system: Tarot
 date_created: 2026-01-09
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Tarot/Minor Arcana"
 date_revised: 2026-01-16
 suit: Cups
 element: Water
@@ -216,6 +220,14 @@ When the Ten of Cups emerges in reading or contemplation, consider:
 **Is the happiness real, or is it performance?** The reversed Ten warns against the Instagram family, the appearance of perfection that hides dysfunction. Is your happiness *lived* or merely *displayed*?
 
 **What comes next?** The Ten is completion—and the seed of new beginning. What new cycle is emerging from the stability you have achieved?
+
+---
+
+## Sources
+
+- A.E. Waite, *The Pictorial Key to the Tarot* (1911) - Divinatory meanings
+- Golden Dawn tradition - Qabalistic correspondences, sephirothic attributions, and esoteric titles
+- Aleister Crowley, *The Book of Thoth* (1944) - Elemental dignities and deeper attributions where noted
 
 ---
 

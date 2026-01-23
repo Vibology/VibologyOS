@@ -2,6 +2,10 @@
 tags: [tarot, minor-arcana, pentacles, earth, court, page, earth-of-earth, student, apprentice]
 system: Tarot
 date_created: 2026-01-09
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Tarot/Minor Arcana"
 date_updated: 2026-01-16
 suit: Pentacles
 element: Earth
@@ -136,6 +140,14 @@ The teaching: **The body knows things the mind has forgotten**. The land knows t
 **The student who knows nothing is wealthier than the master who has forgotten how to learn.**
 The Page of Pentacles holds the paradox of *beginner's richness*. The Page has one coin, not many—but they are *examining* it with complete attention. The merchant who has a thousand coins may no longer see them; the Page who has one sees *everything*.
 The teaching: Mastery is not the end of learning but its intensification. The true master returns again and again to beginner's mind, able to see each pentacle as if for the first time, as if it were a mystery worth studying.
+---
+
+## Sources
+
+- A.E. Waite, *The Pictorial Key to the Tarot* (1911) - Divinatory meanings
+- Golden Dawn tradition - Qabalistic correspondences, sephirothic attributions, and esoteric titles
+- Aleister Crowley, *The Book of Thoth* (1944) - Elemental dignities and deeper attributions where noted
+
 ---
 
 ## Internal Links

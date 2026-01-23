@@ -2,6 +2,10 @@
 tags: [tarot, minor-arcana, cups, water, netzach, venus, scorpio]
 system: Tarot
 date_created: 2026-01-09
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Tarot/Minor Arcana"
 suit: Cups
 element: Water
 qabalistic_world: Briah (Creative World)
@@ -321,6 +325,14 @@ Every great achievement was once a vision in someone's mind. The difference betw
 The card asks: *Which cup will you choose?* Not all—you cannot have all. Not none—that is paralysis. *One*. Choose one, bring it down, discover whether it was worth wanting. The other cups will dissolve; that is the price of commitment. But what you build will be *real*.
 
 The Lord of Illusory Success becomes the lord of *actual* success when the dreamer finally wakes and begins to build.
+
+---
+
+## Sources
+
+- A.E. Waite, *The Pictorial Key to the Tarot* (1911) - Divinatory meanings
+- Golden Dawn tradition - Qabalistic correspondences, sephirothic attributions, and esoteric titles
+- Aleister Crowley, *The Book of Thoth* (1944) - Elemental dignities and deeper attributions where noted
 
 ---
 

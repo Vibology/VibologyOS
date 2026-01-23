@@ -2,6 +2,10 @@
 tags: [tarot, minor-arcana, cups, water, court, water-of-water, queen, master]
 system: Tarot
 date_created: 2026-01-09
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Tarot/Minor Arcana"
 date_revised: 2026-01-16
 suit: Cups
 rank: Queen
@@ -211,6 +215,14 @@ When the Queen of Cups emerges in reading or contemplation, consider:
 **What needs to remain covered?** Not all truths are for all audiences. What mystery are you being called to protect, to contemplate, to keep sacred?
 
 **Who needs you to witness rather than fix?** The Queen heals through presence. Who in your life needs you to simply *see* them, without trying to change anything?
+
+---
+
+## Sources
+
+- A.E. Waite, *The Pictorial Key to the Tarot* (1911) - Divinatory meanings
+- Golden Dawn tradition - Qabalistic correspondences, sephirothic attributions, and esoteric titles
+- Aleister Crowley, *The Book of Thoth* (1944) - Elemental dignities and deeper attributions where noted
 
 ---
 

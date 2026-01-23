@@ -2,6 +2,10 @@
 tags: [tarot, minor-arcana, cups, water, court, earth-of-water, page, messenger]
 system: Tarot
 date_created: 2026-01-09
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Tarot/Minor Arcana"
 date_revised: 2026-01-16
 suit: Cups
 rank: Page
@@ -200,6 +204,14 @@ When the Page of Cups emerges in reading or contemplation, consider:
 **What wants to be created?** The Page of Cups often signals artistic or creative potential that seeks expression. What poem, image, song, or story is waiting to be born?
 
 **Are you willing to wonder?** The Page's great gift is the capacity to look at the fish and *marvel*. Cynicism, "sophistication," and defended "realism" destroy this capacity. The Page asks: Can you still wonder?
+
+---
+
+## Sources
+
+- A.E. Waite, *The Pictorial Key to the Tarot* (1911) - Divinatory meanings
+- Golden Dawn tradition - Qabalistic correspondences, sephirothic attributions, and esoteric titles
+- Aleister Crowley, *The Book of Thoth* (1944) - Elemental dignities and deeper attributions where noted
 
 ---
 

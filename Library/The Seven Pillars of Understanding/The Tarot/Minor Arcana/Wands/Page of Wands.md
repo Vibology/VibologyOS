@@ -2,6 +2,10 @@
 tags: [tarot, minor-arcana, wands, fire, court, earth-of-fire, page, messenger]
 system: Tarot
 date_created: 2026-01-09
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Tarot/Minor Arcana"
 suit: Wands
 rank: Page
 element_primary: Earth

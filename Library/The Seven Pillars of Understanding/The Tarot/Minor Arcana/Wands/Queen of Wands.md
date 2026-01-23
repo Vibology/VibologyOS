@@ -2,6 +2,10 @@
 tags: [tarot, minor-arcana, wands, fire, court, water-of-fire, queen, sovereignty]
 system: Tarot
 date_created: 2026-01-09
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Tarot/Minor Arcana"
 suit: Wands
 rank: Queen
 element_primary: Water

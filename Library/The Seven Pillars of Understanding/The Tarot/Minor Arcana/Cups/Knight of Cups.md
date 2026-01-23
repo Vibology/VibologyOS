@@ -2,6 +2,10 @@
 tags: [tarot, minor-arcana, cups, water, court, air-of-water, knight, quester]
 system: Tarot
 date_created: 2026-01-09
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Tarot/Minor Arcana"
 date_revised: 2026-01-16
 suit: Cups
 rank: Knight
@@ -221,6 +225,14 @@ When the Knight of Cups emerges in reading or contemplation, consider:
 **Is this romance or fantasy?** The Knight's shadow is the one who promises but does not deliver, who approaches but does not arrive. Is this offer real? Will this approach lead somewhere?
 
 **What question should you be asking?** The Grail Knight fails when he does not ask the right question. What question is this situation requiring of you?
+
+---
+
+## Sources
+
+- A.E. Waite, *The Pictorial Key to the Tarot* (1911) - Divinatory meanings
+- Golden Dawn tradition - Qabalistic correspondences, sephirothic attributions, and esoteric titles
+- Aleister Crowley, *The Book of Thoth* (1944) - Elemental dignities and deeper attributions where noted
 
 ---
 

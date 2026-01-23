@@ -2,6 +2,10 @@
 tags: [tarot, minor-arcana, pentacles, earth, court, king, fire-of-earth, mastery, sovereignty]
 system: Tarot
 date_created: 2026-01-09
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Tarot/Minor Arcana"
 date_updated: 2026-01-16
 suit: Pentacles
 element: Earth
@@ -154,6 +158,14 @@ The teaching: **The greatest wealth is what you build that serves beyond your li
 **True power is generative, not extractive.**
 The King of Pentacles holds the paradox of *sovereignty through service*. The King is powerful *because* he builds systems that serve others, wealthy *because* he creates enterprises that generate ongoing prosperity. His authority is real because it is earned—he has demonstrated competence, produced results, created value.
 The teaching: The King who hoards is not king at all—he is prisoner of his hoard. The King who builds is truly sovereign, because his power creates life rather than controlling it. When you use mastery to serve, your authority becomes real. When you use competence to build structures that benefit others, your wealth multiplies. Generative power creates more power. Extractive power eventually collapses.
+---
+
+## Sources
+
+- A.E. Waite, *The Pictorial Key to the Tarot* (1911) - Divinatory meanings
+- Golden Dawn tradition - Qabalistic correspondences, sephirothic attributions, and esoteric titles
+- Aleister Crowley, *The Book of Thoth* (1944) - Elemental dignities and deeper attributions where noted
+
 ---
 
 ## Internal Links

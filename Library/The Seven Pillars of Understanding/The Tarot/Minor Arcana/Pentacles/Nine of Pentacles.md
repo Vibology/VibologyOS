@@ -2,6 +2,10 @@
 tags: [tarot, minor-arcana, pentacles, earth, yesod, venus, virgo, self-sufficiency, abundance]
 system: Tarot
 date_created: 2026-01-09
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Tarot/Minor Arcana"
 date_updated: 2026-01-16
 suit: Pentacles
 element: Earth
@@ -164,6 +168,14 @@ This is the promise of the Nine: **The work you do on yourself bears fruit in th
 **The garden is most beautiful when you no longer need it to prove your worth.**
 The Nine of Pentacles holds the paradox of *achievement without attachment*. The woman has built this abundance, yes—but she does not *need* it to validate her. She is self-sufficient not because she has wealth but because she *knows* she could rebuild if it were lost. Her security rests not in the pentacles but in her own competence.
 The teaching: True abundance is internal. The garden is a *reflection* of your cultivation, not the source of your worth. When you no longer need external success to prove you are enough, that is when you finally enjoy it fully.
+---
+
+## Sources
+
+- A.E. Waite, *The Pictorial Key to the Tarot* (1911) - Divinatory meanings
+- Golden Dawn tradition - Qabalistic correspondences, sephirothic attributions, and esoteric titles
+- Aleister Crowley, *The Book of Thoth* (1944) - Elemental dignities and deeper attributions where noted
+
 ---
 
 ## Internal Links

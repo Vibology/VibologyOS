@@ -2,6 +2,10 @@
 tags: [tarot, minor-arcana, cups, water, tiphareth, sun, scorpio]
 system: Tarot
 date_created: 2026-01-09
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Tarot/Minor Arcana"
 suit: Cups
 element: Water
 qabalistic_world: Briah (Creative World)
@@ -332,6 +336,14 @@ But preservation is not resurrection. The children in the garden are not the act
 The card asks: *Can you receive the gifts of the past without trying to live there? Can you let the children offer their flowers without grasping at their hands? Can you visit the garden and then return to the street, carrying the garden within you?*
 
 The Lord of Pleasure is the pleasure of remembering well—neither clinging nor rejecting, but receiving.
+
+---
+
+## Sources
+
+- A.E. Waite, *The Pictorial Key to the Tarot* (1911) - Divinatory meanings
+- Golden Dawn tradition - Qabalistic correspondences, sephirothic attributions, and esoteric titles
+- Aleister Crowley, *The Book of Thoth* (1944) - Elemental dignities and deeper attributions where noted
 
 ---
 

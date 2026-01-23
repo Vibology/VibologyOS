@@ -2,6 +2,10 @@
 tags: [tarot, minor-arcana, cups, water, geburah, mars, scorpio]
 system: Tarot
 date_created: 2026-01-09
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Tarot/Minor Arcana"
 suit: Cups
 element: Water
 qabalistic_world: Briah (Creative World)
@@ -343,6 +347,14 @@ This is the paradox of grief: it demands full attention, but it is healed by *re
 The card asks: *How long will you stand here?* The question is not an accusation—it is an invitation. The cups are spilled; that cannot be changed. But you are still alive, and the bridge waits. When you are ready—not before, but when you are ready—you can turn around.
 
 The Lord of Loss in Pleasure is also the lord of what survives loss. The two cups wait for you to remember them.
+
+---
+
+## Sources
+
+- A.E. Waite, *The Pictorial Key to the Tarot* (1911) - Divinatory meanings
+- Golden Dawn tradition - Qabalistic correspondences, sephirothic attributions, and esoteric titles
+- Aleister Crowley, *The Book of Thoth* (1944) - Elemental dignities and deeper attributions where noted
 
 ---
 

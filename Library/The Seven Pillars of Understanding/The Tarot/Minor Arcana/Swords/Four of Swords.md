@@ -2,6 +2,10 @@
 tags: [tarot, minor-arcana, swords, air, chesed, libra]
 system: Tarot
 date_created: 2026-01-09
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Tarot/Minor Arcana"
 suit: Swords
 element: Air
 qabalistic_world: Yetzirah (Formative World)
@@ -290,6 +294,14 @@ The rest is not the end. It is the preparation for what comes next.
 ## Reading Examples / Case Studies
 
 *TBD*
+
+---
+
+## Sources
+
+- A.E. Waite, *The Pictorial Key to the Tarot* (1911) - Divinatory meanings
+- Golden Dawn tradition - Qabalistic correspondences, sephirothic attributions, and esoteric titles
+- Aleister Crowley, *The Book of Thoth* (1944) - Elemental dignities and deeper attributions where noted
 
 ---
 

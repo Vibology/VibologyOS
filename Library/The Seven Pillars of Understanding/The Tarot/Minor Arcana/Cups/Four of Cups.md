@@ -2,6 +2,10 @@
 tags: [tarot, minor-arcana, cups, water, chesed, moon, cancer]
 system: Tarot
 date_created: 2026-01-09
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Tarot/Minor Arcana"
 suit: Cups
 element: Water
 qabalistic_world: Briah (Creative World)
@@ -320,6 +324,14 @@ This is the paradox of comfortable dissatisfaction: you are unhappy with your ab
 The card asks: *What are you refusing to see? What gift hovers at the edge of your awareness, unrecognized because it doesn't look like what you expected? Can you shift your gaze—just slightly—and discover that what you need has been offered all along?*
 
 The Lord of Blended Pleasure is waiting for you to taste the fourth cup—the one that is not blended, not diluted, not mixed with dissatisfaction. But first, you must look up.
+
+---
+
+## Sources
+
+- A.E. Waite, *The Pictorial Key to the Tarot* (1911) - Divinatory meanings
+- Golden Dawn tradition - Qabalistic correspondences, sephirothic attributions, and esoteric titles
+- Aleister Crowley, *The Book of Thoth* (1944) - Elemental dignities and deeper attributions where noted
 
 ---
 

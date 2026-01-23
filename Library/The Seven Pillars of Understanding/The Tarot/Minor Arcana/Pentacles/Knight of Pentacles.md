@@ -2,6 +2,10 @@
 tags: [tarot, minor-arcana, pentacles, earth, court, knight, air-of-earth, reliability, persistence]
 system: Tarot
 date_created: 2026-01-09
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Tarot/Minor Arcana"
 date_updated: 2026-01-16
 suit: Pentacles
 element: Earth
@@ -152,6 +156,14 @@ The teaching: **The greatest works require patience measured in decades, not day
 **The slowest progress is often the fastest path to completion.**
 The Knight of Pentacles holds the paradox of *velocity through consistency*. The Knight moves slowly—but *never stops*. The hare sprints, exhausts itself, sleeps. The Knight plods—and finishes. Over time, the one who never stops overtakes the one who runs in bursts.
 The teaching: Most people quit not because the work is hard but because they cannot endure *boredom*. They need excitement, novelty, visible progress. The Knight needs none of this. The Knight has made peace with the unglamorous middle stretch where nothing seems to change—and that is precisely why the Knight *wins*.
+---
+
+## Sources
+
+- A.E. Waite, *The Pictorial Key to the Tarot* (1911) - Divinatory meanings
+- Golden Dawn tradition - Qabalistic correspondences, sephirothic attributions, and esoteric titles
+- Aleister Crowley, *The Book of Thoth* (1944) - Elemental dignities and deeper attributions where noted
+
 ---
 
 ## Internal Links

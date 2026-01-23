@@ -2,6 +2,10 @@
 tags: [tarot, minor-arcana, pentacles, earth, court, queen, water-of-earth, nurturing, abundance]
 system: Tarot
 date_created: 2026-01-09
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Tarot/Minor Arcana"
 date_updated: 2026-01-16
 suit: Pentacles
 element: Earth
@@ -152,6 +156,14 @@ The teaching: **True wealth is measured not in what you hoard but in what you sh
 **The more you give away, the more you have.**
 The Queen of Pentacles holds the paradox of *abundance through flow*. She does not clutch the pentacle—she holds it open-handedly, ready to use it, share it, plant it as seed. And because she gives freely, more comes. The garden grows *because* she harvests it (pruning encourages growth). Wealth flows *because* she shares it (generosity creates reciprocity).
 The teaching: Hoarding creates scarcity. Generosity creates abundance. When you tend with love and share with open hands, you become a *channel* for prosperity rather than a dam that blocks it. The Queen who opens her home finds her home filled. The Queen who shares her harvest finds the garden yields more.
+---
+
+## Sources
+
+- A.E. Waite, *The Pictorial Key to the Tarot* (1911) - Divinatory meanings
+- Golden Dawn tradition - Qabalistic correspondences, sephirothic attributions, and esoteric titles
+- Aleister Crowley, *The Book of Thoth* (1944) - Elemental dignities and deeper attributions where noted
+
 ---
 
 ## Internal Links
