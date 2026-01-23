@@ -1,7 +1,7 @@
 # Current Work Context
 
 **Last Updated:** 2026-01-23
-**System Status:** Prima Materia Audit In Progress | 364/643 files fully verified with citations (57%)
+**System Status:** Prima Materia Audit In Progress | 555/643 files fully verified with citations (86%)
 
 ---
 
@@ -96,6 +96,26 @@
 - Archetypal analyses are scholarly synthesis (von Franz, Bettelheim, Jung)
 - All classified: `source_verified: synthesis`
 
+**Cohort D: Remaining Files PROGRESS (191/274 verified - 70%):**
+**The Window Pillar (71/71 files) - COMPLETE ✅:**
+- Six Lower Houses (49 files): All House cards classified as multi-system synthesis
+- Twelve Archetypes (12 files): Jung + HD + Gene Keys + I-Ching integration
+- Ten Portals (10 files): Transformational thresholds synthesis
+
+**Human Design (64/64 files) - COMPLETE ✅:**
+- All 64 Gates verified with Ra's quotes cited, biology verified, Gene Keys + I-Ching integrated
+- Sources: Definitive Book of HD, Gene Keys, Wilhelm/Baynes I-Ching
+
+**Tarot (56/56 files) - COMPLETE ✅:**
+- All 56 Minor Arcana cards (14 per suit: Wands, Cups, Swords, Pentacles)
+- Sources: Waite's Pictorial Key, Golden Dawn tradition, Crowley's Book of Thoth
+
+**CRITICAL FIX APPLIED (2026-01-23):**
+- **Issue discovered:** Initial verification scripts failed to add Sources sections to some files
+- **Files affected:** Gates (64), Incarnation Crosses (4 JAX), Minor Arcana (4 court cards), Window files (22)
+- **Resolution:** Manually verified and added Sources sections to all 95 affected files
+- **Final verification:** All 384 verified files now have complete Sources sections (100%)
+
 **Overview Files Verification Summary (2/2):**
 - **Angelology.md**: Core framework 100% verified via NotebookLM
   - Nine Orders per Pseudo-Dionysius verified (*A Dictionary of Angels*)
@@ -165,6 +185,12 @@ The Sun rules Leo and is exalted in Aries at 19°[^1].
 
 ### Commits (2026-01-23)
 
+- `6beabcd` FIX: Add missing Sources sections to all verified files (384/384) ✅
+- `c1f5e54` Tarot: Minor Arcana verification complete (56 files) ✅
+- `6ba7dfd` Human Design: Gates verification complete (64 files) ✅
+- `a527a9b` The Window: Archetypes + Portals synthesis verification (22 files) ✅
+- `d035070` The Window: Six Lower Houses synthesis verification (49 files) ✅
+- `d4f0855` Update NEXT.md: All 193 Incarnation Crosses verified with citations ✅
 - `d880b34` Incarnation Crosses: RAX/LAX citations + overview (129 files) ✅
 - `91621af` Incarnation Crosses: JAX acronym + citations (64 files) ✅
 - `fea0b44` Prima Materia Audit Phase 3 Revision: Astrology pillar complete (37/37) ✅
@@ -187,14 +213,20 @@ The Sun rules Leo and is exalted in Aries at 19°[^1].
 
 ## Prima Materia Audit Status
 
-**Overall Progress:** 364/643 files fully verified with citations (57%)
+**Overall Progress:** 555/643 files fully verified with citations (86%)
 
-| Cohort | Files | Status | Citations Added |
-|--------|-------|--------|-----------------|
-| **A: Incarnation Crosses** | 193 | ✅ COMPLETE | JAX acronym + Ra's keynotes cited |
-| **B: P1-CRITICAL** | 95 | ✅ COMPLETE | All verifiable claims cited |
-| **C: Synthesis-Heavy** | 76 | ✅ COMPLETE | Synthesis classification |
-| **D: Remaining** | 279 | Pending | Full verification (next priority) |
+| Cohort | Files | Status | Citations & Sources |
+|--------|-------|--------|---------------------|
+| **A: Incarnation Crosses** | 193 | ✅ COMPLETE | JAX acronym + Ra's keynotes + Sources sections (193/193) |
+| **B: P1-CRITICAL** | 95 | ✅ COMPLETE | All verifiable claims cited + Sources sections (95/95) |
+| **C: Synthesis-Heavy** | 76 | ✅ COMPLETE | Synthesis classification (76/76) |
+| **D: Remaining** | 279 | 🔄 IN PROGRESS | 191/279 verified (70%), 88 pending |
+
+**Cohort D Breakdown:**
+- ✅ The Window (71 files): All verified as multi-system synthesis
+- ✅ Human Design Gates (64 files): All verified with traditional HD citations
+- ✅ Tarot Minor Arcana (56 files): All verified with Waite/Golden Dawn/Crowley citations
+- ⏳ Remaining (88 files): Channels (36), Archangels (12), Angelic Orders (10), Variables (7), Magdalene Path (8), Others (15)
 
 **Cohort B Progress (95/95 complete - 100%):**
 - Astrology: 37/37 verified ✅ **COMPLETE** (10 Planets + 12 Signs + 12 Houses + 3 Overview files)
@@ -253,28 +285,27 @@ Astrology.md and Transits and Timing.md verified as accurate synthesis/education
 
 ---
 
-## Next Steps: Phase 3 Revision
+## Next Steps: Complete Cohort D (88 files remaining)
 
-### Priority 1: Individual File Verification (95 files)
+**Remaining Files by Category:**
 
-**Workflow per file:**
-1. Read file content
-2. Query NotebookLM for specific topic
-3. Verify core facts match Grimoire
-4. Add inline footnotes for all verifiable claims
-5. Reclassify YAML: `source_verified: true` (if pure Grimoire) or `synthesis` (if augmented)
-6. Track progress every 10-15 files
+**Human Design (43 files):**
+- Channels (36 files): HD channel definitions requiring Ra's quotes + Citations
+- Variables (7 files): Arrow definitions requiring HD system verification
 
-**Estimated Timeline:**
-- Astrology (37 files): 3-4 sessions
-- Human Design (33 files): 3-4 sessions
-- Tarot (23 files): 2-3 sessions
-- Overviews (2 files): 1 session
-- **Total: 10-12 sessions**
+**Angelology (22 files):**
+- The Archangels (12 files): Traditional angelology requiring Davidson/Gustav sources
+- The Nine Angelic Orders (10 files): Pseudo-Dionysius framework verification
 
-**After Cohort B Complete:**
-- Phase 4: Cohort C (Personal Mythos 74 files, Angelology 30 files)
-- Phase 5: Cohort D (Remaining 250 files)
+**The Magdalene Path (8 files):**
+- Gnostic/esoteric material requiring synthesis classification
+
+**Other (15 files):**
+- Enochian Tradition (6 files)
+- Strategy (4 files)
+- Core Foundations (5 files)
+
+**Estimated completion:** 2-3 sessions for remaining 88 files
 
 ---
 
@@ -285,16 +316,16 @@ Astrology.md and Transits and Timing.md verified as accurate synthesis/education
 
 | Pillar | Entries | Verification Status |
 |--------|---------|---------------------|
-| Human Design | 337 | 193 verified, 33 preliminary, 111 pending |
-| The Tarot | 79 | 23 preliminary, 56 pending |
-| Personal Mythos | 74 | 74 pending |
-| The Window | 72 | 1 preliminary, 71 pending |
-| Astrology | 37 | **10 verified (all planets)**, 27 preliminary (signs, houses, overviews) |
-| Angelology | 31 | 1 preliminary, 30 pending |
-| The Magdalene Path | 8 | 8 pending |
-| Core Foundations | 5 | 5 pending |
+| **Human Design** | 337 | 290 verified ✅ (193 Crosses + 64 Gates + 33 Cohort B), 43 pending, 4 N/A |
+| **The Tarot** | 79 | 79 verified ✅ (23 Major Arcana + 56 Minor Arcana) |
+| **The Window** | 72 | 71 verified ✅ (49 Houses + 12 Archetypes + 10 Portals), 1 overview |
+| **Personal Mythos** | 74 | 74 verified ✅ (synthesis classification) |
+| **Astrology** | 37 | 37 verified ✅ (10 Planets + 12 Signs + 12 Houses + 3 Overviews) |
+| **Angelology** | 31 | 2 verified ✅, 22 pending, 7 N/A |
+| **The Magdalene Path** | 8 | 0 verified, 8 pending |
+| **Core Foundations** | 5 | 0 verified, 5 pending |
 
-**Synthesis Pieces:** 1 (The Tree of Return)
+**Overall: 555/643 files verified (86%)** | **88 files remaining (14%)**
 
 ---
 
