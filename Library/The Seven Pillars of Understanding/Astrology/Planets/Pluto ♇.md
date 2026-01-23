@@ -6,8 +6,8 @@ glyph: ♇
 alchemical: Radioactive Nemesis
 source_verified: synthesis
 verification_date: 2026-01-23
-grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
-verification_notes: "Core dignities and traditional meanings verified against Grimoire. Synthesis includes Jungian archetypal depth, mythology (Greek/Roman), cross-system correspondences, and esoteric interpretation."
+grimoire_source: "Greek/Roman mythology (Hades the Invisible, Pluto from ploutos 'riches', Persephone abduction), Modern psychological astrology (Liz Greene - Moira/Fate, Erinyes), Human Design"
+verification_notes: "Hades/Pluto mythology verified against Grimoire (underworld lord, hidden wealth, Persephone abduction). Modern astrological interpretations (rulership of Scorpio, retributive fate, death-rebirth cycle) verified. Human Design Pluto as Truth Teller (248-year cycle) verified. Liz Greene's Moira/Fates connection verified. Note: Pluto absent from traditional astrology (Lilly/Ptolemy) as it was discovered in 1930."
 ---
 # Pluto ♇
 *The Truth Teller, the Underworld, and the Light in Darkness*
@@ -33,15 +33,15 @@ In alchemical tradition, Pluto is the **Radioactive Nemesis**—the element that
 
 The planet Pluto inherits its archetype from the **Greek Hades** and the **Roman Pluto**—both deities of the underworld, death, and the hidden wealth that lies beneath the surface of the earth.
 
-**Hades** is the eldest son of Chronos and Rhea, brother to Zeus and Poseidon. When the cosmos was divided after the overthrow of the Titans, Zeus claimed the sky, Poseidon the sea, and Hades the **underworld**—the realm of the dead, the buried, the unseen. Hades is not the god of death itself (that is Thanatos), but the **sovereign of what has died**—the keeper of souls, the lord of the afterlife.
+**Hades** is the eldest son of Chronos and Rhea, brother to Zeus and Poseidon[^2]. When the cosmos was divided after the overthrow of the Titans, Zeus claimed the sky, Poseidon the sea, and Hades the **underworld**—the realm of the dead, the buried, the unseen. Hades is not the god of death itself (that is Thanatos), but the **sovereign of what has died**—the keeper of souls, the lord of the afterlife.
 
 Hades possesses the **Helm of Darkness** (or Cap of Invisibility), which renders him unseen. This encodes Pluto's essential nature: **the hidden force, the power that operates beneath conscious awareness, the truth that remains buried until it can no longer be denied**. Hades is not evil, but he is *implacable*—once a soul enters his domain, it does not leave.
 
-The most famous myth of Hades is the **abduction of Persephone**—the daughter of Demeter, goddess of the harvest. Hades, struck by desire, rises from the underworld and drags Persephone down into his kingdom. Demeter, grief-stricken, withdraws her blessings from the earth; nothing grows. Zeus intervenes, negotiating Persephone's partial release: she will spend half the year in the underworld with Hades (autumn and winter, when nothing grows) and half the year above with her mother (spring and summer, when the earth blooms).
+The most famous myth of Hades is the **abduction of Persephone**—the daughter of Demeter, goddess of the harvest[^3]. Hades, struck by desire, rises from the underworld and drags Persephone down into his kingdom. Demeter, grief-stricken, withdraws her blessings from the earth; nothing grows. Zeus intervenes, negotiating Persephone's partial release: she will spend half the year in the underworld with Hades (autumn and winter, when nothing grows) and half the year above with her mother (spring and summer, when the earth blooms).
 
 This myth encodes the **Plutonian cycle**: descent into darkness, confrontation with death, and eventual return transformed. Persephone enters the underworld as a maiden and returns as the **Queen of the Dead**—no longer innocent, but sovereign in her own right. Pluto is the force that *initiates through annihilation*, that strips away what is superficial so only the essential remains.
 
-**Pluto** (Roman) inherits the Greek archetype but with an added dimension: Pluto is the god of **hidden wealth** (the word "plutocracy" derives from his name). Beneath the earth lies not only death but also **treasure**—metals, gems, the riches that must be mined from darkness. Pluto thus governs not only what is buried and feared but also **what is most valuable precisely because it was hidden**.
+**Pluto** (Roman) inherits the Greek archetype but with an added dimension: Pluto is the god of **hidden wealth** (the word "plutocracy" derives from his name)[^2]. Beneath the earth lies not only death but also **treasure**—metals, gems, the riches that must be mined from darkness. Pluto thus governs not only what is buried and feared but also **what is most valuable precisely because it was hidden**.
 
 The Plutonian archetype is thus: **the lord of the underworld who abducts the innocent and transforms them into sovereigns; the god of death who reveals that all endings are beginnings; the keeper of hidden wealth who teaches that the treasure lies in the depths; the invisible force that operates beneath consciousness until the moment of eruption**.
 
@@ -57,9 +57,9 @@ The Plutonian archetype is thus: **the lord of the underworld who abducts the in
 | **Fall** | [[Aquarius ♒]] | — | — | — |
 | **Orbital Period** | ~248 years | — | — | — |
 
-Pluto rules **[[Scorpio ♏]]** in modern astrology—the sign of death, sex, transformation, and the merciless excavation of truth. **Note:** Traditional astrology assigns [[Mars ♂]] as the sole ruler of Scorpio; Pluto's rulership is a 20th-century attribution following its discovery in 1930. He is exalted in **[[Leo ♌]]**, where the solar will is tested by the underworld ordeal. In **[[Taurus ♉]]** (detriment), Pluto's volatility clashes with the bull's need for stability. In **[[Aquarius ♒]]** (fall), his intensity is diluted by collective abstraction.
+Pluto rules **[[Scorpio ♏]]** in modern astrology—the sign of death, sex, transformation, and the merciless excavation of truth[^1]. **Note:** Traditional astrology assigns [[Mars ♂]] as the sole ruler of Scorpio; Pluto's rulership is a 20th-century attribution following its discovery in 1930. He is exalted in **[[Leo ♌]]**, where the solar will is tested by the underworld ordeal[^1]. In **[[Taurus ♉]]** (detriment), Pluto's volatility clashes with the bull's need for stability. In **[[Aquarius ♒]]** (fall), his intensity is diluted by collective abstraction.
 
-Pluto governs the **8th House**—the domain of shared resources, death, rebirth, and the psychological infrastructure beneath social performance.
+**Note on House Association:** Pluto is associated with the **8th House** through modern sign rulership (Pluto→Scorpio→8th House), but this is not a traditional "house joy" (a Hellenistic/medieval concept predating Pluto's discovery in 1930). The association reflects thematic resonance—shared resources, death, rebirth, transformation, and the psychological infrastructure beneath social performance.
 
 ### Sect: Pluto as Generational (Outer Planet)
 
@@ -100,7 +100,7 @@ The **house placement** of natal Pluto reveals *where* death and rebirth occur, 
 - **5th House:** Creative intensity, transformative romance, or children as agents of rebirth. Art as exorcism; love as underworld descent. Risk: destructive love affairs, creative obsession, controlling relationships with children.
 - **6th House:** Work as ritual death and rebirth; health crises that transform. The body purged and regenerated through discipline. Risk: compulsive labor, chronic illness as initiation, power struggles in service roles.
 - **7th House:** Partnerships as underworld journeys. Attraction to powerful or controlling figures; marriage as death of the old self. Risk: obsessive relationships, power struggles, cycles of destruction and regeneration in partnership.
-- **8th House:** Pluto's natural domain. Mastery over death, sex, transformation, shared resources. The native who descends into the underworld willingly and returns sovereign. Risk: obsession with death, sexual compulsion, manipulation through intimacy.
+- **8th House:** Pluto's modern sign rulership (via Scorpio). Mastery over death, sex, transformation, shared resources. The native who descends into the underworld willingly and returns sovereign. Risk: obsession with death, sexual compulsion, manipulation through intimacy.
 - **9th House:** Transformation through belief systems, philosophical death and rebirth, or travel as underworld journey. The seeker who destroys old meaning to find truth. Risk: fanatical beliefs, destruction of faith, obsessive search for ultimate truth.
 - **10th House:** Public life as arena of power and transformation. Career built through crisis; reputation forged in the crucible. The leader who rises from ashes. Risk: ruthless ambition, public scandal, the tyrant in authority.
 - **11th House:** Transformation through community, revolutionary collectives, or power dynamics within groups. Friendships that die and regenerate. Risk: cult dynamics, manipulation within communities, obsessive ideological allegiance.
@@ -226,9 +226,19 @@ Pluto teaches that there is **light within the darkness**—but you cannot acces
 - [[Death (Tarot)]] — Key XIII, transformation through annihilation
 - [[Human Design]] — Sacral Center (generative power and life/death cycle)
 - [[Shadow]] — Pluto as confrontation with the buried, disowned self
-- [[8th House]] — Pluto's natural domain, death, sex, shared resources, transformation
+- [[8th House]] — Pluto's modern association via Scorpio rulership, death, sex, shared resources, transformation
 - [[Persephone]] — The maiden abducted to the underworld, transformed into Queen of the Dead
 - [[Hades]] — Greek god of the underworld, keeper of hidden wealth and buried souls
+
+---
+
+## References
+
+[^1]: Modern esoteric astrology (Grimoire): Pluto discovered 1930; modern ruler of Scorpio (co-ruler with Mars); governs death, rebirth, obsession, "unhealable wound"; exalted in Leo
+[^2]: Greek/Roman mythology (Grimoire): Hades ("The Invisible") brother of Zeus, ruler of underworld and the dead; Romans called him Pluto (from ploutos "riches") referring to hidden wealth of earth (crops, minerals)
+[^3]: Greek mythology (Grimoire): Abduction and rape of Persephone by Hades; symbolizes intrusion of fate and "violent penetration" of unconscious into ego's life; Persephone returns transformed as Queen of the Dead
+[^4]: Psychological astrology (Grimoire): Liz Greene links planet Pluto to Greek goddess Moira (Fate) and Erinyes (Furies); represents retributive fate that punishes hubris and redresses ancestral/family sins
+[^5]: Human Design (Grimoire): Pluto as Truth Teller bringing subconscious to surface; 248-year cycle; ruling force of current evolutionary cycle (post-1781); governs truth and transformation
 
 ---
 

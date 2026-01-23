@@ -6,8 +6,8 @@ glyph: ♆
 alchemical: Universal Solvent
 source_verified: synthesis
 verification_date: 2026-01-23
-grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
-verification_notes: "Core dignities and traditional meanings verified against Grimoire. Synthesis includes Jungian archetypal depth, mythology (Greek/Roman), cross-system correspondences, and esoteric interpretation."
+grimoire_source: "Greek/Roman mythology (Poseidon as Earthshaker and Lord of the Sea), Modern esoteric astrology (post-1846), Human Design, Psychological astrology (Liz Greene - Dionysus archetype)"
+verification_notes: "Poseidon/Neptune mythology verified against Grimoire (Greek deity, trident, earthquakes, sea). Modern astrological interpretations (rulership of Pisces, dissolution, Universal Solvent, spirituality/illusion) verified. Human Design Neptune as 'veil' verified. Note: Neptune absent from traditional astrology (Lilly/Ptolemy) as it was discovered in 1846."
 ---
 # Neptune ♆
 *The Veiler, the Dream, and the Unknowable Ocean*
@@ -33,7 +33,7 @@ In alchemical tradition, Neptune is the **Universal Solvent**—the substance th
 
 The planet Neptune inherits its archetype from **Poseidon** (Greek) and **Neptune** (Roman)—both deities of the sea, earthquakes, and horses. Poseidon is not merely the god of surface waters but the lord of the **abyss**—the unfathomable depths where light does not penetrate, where form dissolves, where the known world gives way to the unknowable.
 
-**Poseidon's domain is threefold:** the sea (the fluid, boundary-dissolving medium), earthquakes (the sudden rupture of solid ground, revealing that stability is illusion), and horses (the untamed, instinctual force that cannot be fully controlled). All three encode the Neptunian principle: **nothing is as solid as it appears**.
+**Poseidon's domain is threefold:** the sea (the fluid, boundary-dissolving medium), earthquakes (the sudden rupture of solid ground, revealing that stability is illusion), and horses (the untamed, instinctual force that cannot be fully controlled)[^2]. All three encode the Neptunian principle: **nothing is as solid as it appears**.
 
 In myth, Poseidon is brother to **Zeus** (Jupiter) and **Hades** (Pluto). Where Zeus governs the sky (expansion and law), and Hades governs the underworld (death and transformation), Poseidon governs the **liminal space between**—the ocean that connects all lands but belongs to none. He is neither above nor below but *between*, the medium through which all things dissolve and reform.
 
@@ -54,11 +54,11 @@ Poseidon's relationship to **Oceanus** (the primordial Titan of the world-encirc
 | **Fall** | [[Capricorn ♑]] | — | — | — |
 | **Orbital Period** | 164.8 years (~165-year cycle) | — | — | — |
 
-Neptune rules **[[Pisces ♓]]**—the sign of boundarylessness, universal compassion, and the dissolution of ego. **Note:** Pisces is **traditionally ruled by Jupiter** (the protector and teacher) and **modernly ruled by Neptune** (the mystic and dissolver). Jupiterian Pisces emphasizes *faith and benevolent surrender*; Neptunian Pisces emphasizes *illusion, mysticism, and the dissolution of form*.
+Neptune rules **[[Pisces ♓]]**—the sign of boundarylessness, universal compassion, and the dissolution of ego[^1]. **Note:** Pisces is **traditionally ruled by Jupiter** (the protector and teacher) and **modernly ruled by Neptune** (the mystic and dissolver). Jupiterian Pisces emphasizes *faith and benevolent surrender*; Neptunian Pisces emphasizes *illusion, mysticism, and the dissolution of form*.
 
-He is exalted in **[[Cancer ♋]]**, where the emotional waters are deep and protected. In **[[Virgo ♍]]** (detriment), Neptune's dissolution is incompatible with Virgo's need for precision. In **[[Capricorn ♑]]** (fall), his formlessness cannot survive Capricorn's demand for structure.
+He is exalted in **[[Cancer ♋]]**, where the emotional waters are deep and protected[^1]. In **[[Virgo ♍]]** (detriment), Neptune's dissolution is incompatible with Virgo's need for precision. In **[[Capricorn ♑]]** (fall), his formlessness cannot survive Capricorn's demand for structure.
 
-Neptune governs the **12th House**—the domain of the unconscious, the hidden, the transcendent, and the undoing of all that has been built in the previous eleven houses.
+**Note on House Association:** Neptune is associated with the **12th House** through modern sign rulership (Neptune→Pisces→12th House), but this is not a traditional "house joy" (a Hellenistic/medieval concept predating Neptune's discovery in 1846). The association reflects thematic resonance—the unconscious, hidden, transcendent, and the undoing of form.
 
 ### Sect: Neptune as Modern Planet (No Traditional Sect)
 
@@ -99,7 +99,7 @@ The **house placement** of natal Neptune reveals *where* the native experiences 
 - **9th House:** Belief systems are mystical, not dogmatic. The native seeks gnosis, not creed. Philosophy is poetry; travel is pilgrimage. Risk: spiritual bypassing, false gurus, belief as escape from reality, the seeker who never finds because they romanticize the search.
 - **10th House:** Public role is artistic, spiritual, or compassionate—or the native is scapegoated, idealized, or unseen. Career must serve a higher purpose or the soul rebels. Risk: public scandal, loss of reputation through deception, the guru complex, the celebrity who is worshipped but not known.
 - **11th House:** Community is idealized or dissolved. The native seeks utopian collectives, spiritual groups, or is disillusioned by them. Friendship is compassionate but boundaryless. Risk: cults, group delusion, the collective martyr, disillusionment with humanity, the exile who romanticizes belonging.
-- **12th House:** Neptune's natural joy (co-rulership of [[Pisces ♓]]). The veil is thin; the native lives between worlds. Mysticism, artistry, solitude, or institutionalization. The unconscious is the primary realm. Risk: addiction, mental illness, self-undoing, the mystic who cannot return to the world, the prisoner (literal or symbolic).
+- **12th House:** Neptune's modern sign rulership (via Pisces). The veil is thin; the native lives between worlds. Mysticism, artistry, solitude, or institutionalization. The unconscious is the primary realm. Risk: addiction, mental illness, self-undoing, the mystic who cannot return to the world, the prisoner (literal or symbolic).
 
 ---
 ## Neptune as Chart Ruler (Pisces Rising - Modern Rulership)
@@ -229,8 +229,18 @@ Neptune teaches that surrender is not weakness. It is the **willingness to be un
 - [[The Hanged Man (Tarot)]] — Key XII, surrender and inverted perspective
 - [[Human Design]] — Solar Plexus Center (emotional wave, dissolution and reformation)
 - [[Anima]] — The Jungian archetype of soul and mystical longing
-- [[12th House]] — Neptune's natural joy, the unconscious and transcendent
+- [[12th House]] — Neptune's modern association via Pisces rulership, the unconscious and transcendent
 - [[Jupiter ♃]] — Traditional ruler of Pisces, faith and benevolent surrender
+
+---
+
+## References
+
+[^1]: Modern esoteric astrology (Grimoire): Neptune discovered 1846; modern ruler of Pisces; associated with dissolution, Universal Solvent, irrational ground of the world; exalted in Cancer
+[^2]: Greek mythology (Grimoire): Poseidon as Earthshaker and Lord of the Sea; threefold domain (sea, earthquakes, horses); brother to Zeus and Hades; the trident as three-pronged weapon
+[^3]: Modern esoteric astrology (Grimoire): Neptune as "Universal Solvent" and "ocean of space" that dissolves what Uranus destroys; governs dreams, inspiration, the unknowable
+[^4]: Psychological astrology (Grimoire): Liz Greene notes the Roman god Neptune too earthy for astrological planet; suggests Dionysus (creative madness/ecstasy) or Babylonian Ea as better fit
+[^5]: Human Design (Grimoire): Neptune represents illusion, spirituality, misinformation; creates a "veil" that hides true potential of a Gate; linked to victim archetype and redemption through suffering
 
 ---
 
