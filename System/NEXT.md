@@ -1,75 +1,154 @@
 # Current Work Context
 
-**Last Updated:** 2026-01-20
-**System Status:** All 7 Pillars at Tier 3 | GitHub Backup Active | Incarnation Crosses Complete (192 entries)
+**Last Updated:** 2026-01-23
+**System Status:** Prima Materia Audit In Progress | 288/643 files with metadata (45%) | 193 files fully verified (30%)
 
 ---
 
-## Recent Session: Library Restructuring & Incarnation Crosses
+## Current Session: Prima Materia Verification Audit
 
-**2026-01-20:** Established GitHub backup, cleaned up System folder, completed Incarnation Crosses, restructured Library.
+**2026-01-23:** Phases 1-3 of Library provenance audit to verify all content traces to Esoteric Grimoire.
 
 ### Completed This Session
 
-1. **Library Restructuring** (Commit `f473d75`)
-   - Migrated all pillars from `Library/{Pillar}/` to `Library/The Seven Pillars of Understanding/{Pillar}/`
-   - Physical directory structure now mirrors conceptual Seven-Coordinate Navigation framework
-   - 576 files reorganized (557 renamed, 5 modified, 14 obsolete deleted)
-   - Core Foundations updated with internal link adjustments
+**Phase 1: Infrastructure Setup**
+- Created `System/Audit Logs/Prima Materia Verification Queue.md` (progress tracker)
+- Created `System/Esoteric Grimoire Inventory.md` (Grimoire content mapping)
+- Created `System/Templates/Library Entry Verification.md` (verification workflow)
+- Defined YAML schema for provenance tracking
+- Grimoire coverage confirmed via NotebookLM for all 7 pillars
 
-2. **GitHub Backup Solution** (Gap #3 Resolved)
-   - Remote: `git@github.com:shadesofjoe/VibologyOS.git` (private)
-   - SSH authentication configured (`~/.ssh/id_ed25519`)
-   - Replaces manual Google Drive backups
-   - All high-priority process gaps now resolved
+**Phase 2: Incarnation Crosses (193 files) - PRE-VERIFIED ✅**
+- All 193 Incarnation Cross files verified as clean
+- Rebuilt from NotebookLM on 2026-01-20 (3 days before audit)
+- Added verification YAML via automated script
+- Classification: `source_verified: pre-verified`
+- Status: COMPLETE, no further action needed
 
-2. **System Folder Cleanup**
-   - Deleted: Workflow Architecture.md (obsolete portfolio doc)
-   - Archived: 4 completed plan files (Library Build Strategy, Angelology/Personal Mythos/Window plans)
-   - Verified Personal Mythos (74 entries) and Window (72 entries) pillars complete
+**Phase 3: Cohort B Sample Verification (95 files) - ISSUE DISCOVERED ⚠️**
+- Identified 95 files with monolithic 2026-01-08 creation date (P1-CRITICAL cohort)
+- Breakdown: Astrology (37), Human Design (33), Tarot (23), Overviews (2)
+- Sample verification conducted: 9 files verified against Grimoire via NotebookLM
+  - Sun, Saturn, Aries (Astrology) - dignities match Lilly/Ptolemy ✓
+  - Sacral Center, 5/1 Profile (HD) - mechanics match Definitive Book ✓
+  - The Fool, Death (Tarot) - correspondences match Qabalistic Tarot ✓
+  - Angelology.md, The Window.md - frameworks match Grimoire ✓
+- Batch YAML added to all 95 files (classification: `synthesis`)
+- Created 4 automated verification scripts
 
-3. **Incarnation Crosses Phase 1** (13 entries from NotebookLM)
-   - Overview document (system explanation, four quarters, 16 cross archetypes)
-   - 12 RAX entries (3 cross types × 4 quarters):
-     - Sphinx (1-4): All four quarter variations
-     - Explanation (1-4): All four quarter variations
-     - Contagion (1-4): All four quarter variations
-   - All gate combinations verified against Esoteric Grimoire
+**CRITICAL ISSUE IDENTIFIED:**
+- Sample verification (9 files) + batch YAML does NOT equal "full verification"
+- Individual file review + citation addition required for scholarly rigor
+- 95 files currently marked `source_verified: synthesis` are PRELIMINARY only
 
-4. **Incarnation Crosses Phase 2** (52 entries from NotebookLM)
-   - Completed all 16 Right Angle Cross types × 4 quarters = 64 total RAX entries
-   - Remaining 13 cross types (4 quarters each):
-     - Sleeping Phoenix, Planning, Consciousness, Rulership
-     - Eden, Vessel of Love, Service, Tension
-     - Penetration, Maya, Laws, Unexpected, Four Ways
-   - All gate combinations sourced from Esoteric Grimoire
+**Phase 3 Revision Required:**
+- Mark 95 files with `preliminary_verification: sample-based`
+- Verify each file individually against Grimoire
+- Add inline footnotes citing Prima Materia sources
+- Reclassify after individual review
+- Estimated 10-12 sessions for completion
 
-5. **Incarnation Crosses Phase 3** (64 LAX entries from NotebookLM)
-   - Completed all 32 Left Angle Cross types × 2 quarters = 64 total LAX entries
-   - LAX structure differs from RAX: each cross appears in only 2 quarters (not 4)
-   - Group A (16 crosses): Quarters 1 & 3 (Initiation/Duality)
-   - Group B (16 crosses): Quarters 2 & 4 (Civilization/Mutation)
-   - Trans-Personal Destiny (Profiles 5/1, 5/2, 6/2, 6/3)
+### Citation Standard Decision ✅
 
-6. **Incarnation Crosses Phase 4** (64 JAX entries from NotebookLM)
-   - Completed all 64 Juxtaposition Cross entries (one per gate)
-   - Fixed Fate geometry: Profile 4/1 only (~2% of population)
-   - Four quarters covered: Initiation (1-16), Civilization (17-32), Duality (33-48), Mutation (49-64)
-   - Each entry includes: Ra keynote, Four Gates analysis, Shadow/Highest Expression, Internal Links
-   - **Total Incarnation Crosses: 192 entries** (64 RAX + 64 LAX + 64 JAX)
+**Method:** Inline footnotes (markdown format)
 
-### Commits
-- `f473d75` Restructure Library: move pillars into Seven Pillars of Understanding
-- `c1b1cb7` Update Window archetypes with personal naming & create HD Strategy entries
-- `680d45e` Complete Incarnation Crosses Phase 4 (64 JAX entries)
-- `5e5c397` Complete Incarnation Crosses Phase 3 (64 LAX entries)
-- `d004277` Complete Incarnation Crosses Phase 2 (52 additional RAX entries)
-- `6c5dce9` Rebuild Incarnation Crosses Phase 1 with NotebookLM data (13 entries)
+**Format:**
+```markdown
+The Sun rules Leo and is exalted in Aries at 19°[^1].
 
-### Protocol Correction
-Initial Phase 1 entries were built from training knowledge instead of NotebookLM.
-Deleted incorrect entries and rebuilt with canonical data from Esoteric Grimoire.
-All gate combinations and Ra keynotes now verified against authoritative source.
+[^1]: Lilly, *Christian Astrology*, Book 1, Chapter 4; Ptolemy, *Tetrabiblos*, Book 1
+```
+
+**Requirements:**
+- Core facts (dignities, gates, correspondences) MUST have footnotes
+- Direct quotes MUST cite exact source location
+- Synthesis sections should cite multiple sources
+- Personal interpretation clearly marked (NOT cited to Grimoire)
+
+**CSS Styling (Future):** Smaller, colored footnotes to reduce visual clutter
+
+**Documentation Updated:**
+- `PROTOCOL - Prima Materia Verification Audit.md` (Section 3.3 added)
+- `Templates/Library Entry Verification.md` (Step 4: Add Citations)
+- `RUBRIC - Library Content Standard.md` (Citation Standard section)
+- `Audit Logs/Prima Materia Verification Queue.md` (Phase 3 revision documented)
+
+### Commits (2026-01-23)
+
+- `60dedc8` Documentation: Citation standard and Phase 3 revision protocol
+- `bcf2de7` Prima Materia Audit Phase 3: Cohort B P1-CRITICAL verification (95 files)
+- `ac8a65c` Prima Materia Audit Phase 2: Incarnation Cross metadata verification (193 files)
+- `8f7c455` Prima Materia Audit Phase 1: Infrastructure setup and Grimoire inventory
+
+---
+
+## Prima Materia Audit Status
+
+**Overall Progress:** 288/643 files with metadata (45%) | 193 fully verified (30%)
+
+| Cohort | Files | Status | Next Action |
+|--------|-------|--------|-------------|
+| **A: Incarnation Crosses** | 193 | ✅ Pre-verified | None (complete) |
+| **B: P1-CRITICAL** | 95 | ⚠️ Sample only | Individual verification + citations |
+| **C: Synthesis-Heavy** | 105 | Pending | Full verification after Cohort B |
+| **D: Remaining** | 250 | Pending | Full verification after Cohort C |
+
+**Cohort B Breakdown (NEEDS INDIVIDUAL VERIFICATION):**
+- Astrology: 37 files (10 Planets, 12 Signs, 12 Houses, 3 overview)
+- Human Design: 33 files (9 Centers, 12 Profiles, 6 Authority, 4 Types, 1 Strategy, 1 overview)
+- Tarot: 23 files (22 Major Arcana, 1 overview)
+- Overviews: 2 files (Angelology.md, The Window.md)
+
+**Scripts Created:**
+- `System/Scripts/verify_astrology_cohort.sh`
+- `System/Scripts/verify_hd_cohort.sh`
+- `System/Scripts/verify_tarot_cohort.sh`
+- `System/Scripts/verify_overview_cohort.sh`
+
+---
+
+## Next Steps: Phase 3 Revision
+
+### Priority 1: Individual File Verification (95 files)
+
+**Workflow per file:**
+1. Read file content
+2. Query NotebookLM for specific topic
+3. Verify core facts match Grimoire
+4. Add inline footnotes for all verifiable claims
+5. Reclassify YAML: `source_verified: true` (if pure Grimoire) or `synthesis` (if augmented)
+6. Track progress every 10-15 files
+
+**Estimated Timeline:**
+- Astrology (37 files): 3-4 sessions
+- Human Design (33 files): 3-4 sessions
+- Tarot (23 files): 2-3 sessions
+- Overviews (2 files): 1 session
+- **Total: 10-12 sessions**
+
+**After Cohort B Complete:**
+- Phase 4: Cohort C (Personal Mythos 74 files, Angelology 30 files)
+- Phase 5: Cohort D (Remaining 250 files)
+
+---
+
+## Library Status
+
+**Structure:** `Library/The Seven Pillars of Understanding/{Pillar}/`
+**Total Entries:** 643 markdown files across 7 pillars + Core Foundations
+
+| Pillar | Entries | Verification Status |
+|--------|---------|---------------------|
+| Human Design | 337 | 193 verified, 33 preliminary, 111 pending |
+| The Tarot | 79 | 23 preliminary, 56 pending |
+| Personal Mythos | 74 | 74 pending |
+| The Window | 72 | 1 preliminary, 71 pending |
+| Astrology | 37 | 37 preliminary |
+| Angelology | 31 | 1 preliminary, 30 pending |
+| The Magdalene Path | 8 | 8 pending |
+| Core Foundations | 5 | 5 pending |
+
+**Synthesis Pieces:** 1 (The Tree of Return)
 
 ---
 
@@ -111,52 +190,36 @@ chart.makeSVG(minify=False, remove_css_variables=True)
 
 ---
 
-## Library Status
-
-**Structure:** `Library/The Seven Pillars of Understanding/{Pillar}/`
-**Total Entries:** 638 markdown files across 7 pillars + Core Foundations
-
-| Pillar | Entries | Tier |
-|--------|---------|------|
-| Human Design | 333 | Tier 3 (+193 Incarnation Crosses) |
-| The Tarot | 79 | Tier 3 |
-| Personal Mythos | 75 | Tier 3 |
-| The Window | 72 | Tier 3 |
-| Astrology | 37 | Tier 3 |
-| Angelology | 31 | Tier 3 |
-| The Magdalene Path | 8 | Tier 3 |
-| Core Foundations | 5 | Tier 3 |
-
-**Synthesis Pieces:** 1 (The Tree of Return)
-
-**Incarnation Crosses Status:**
-- Phase 1-4 Complete: 64 RAX + 64 LAX + 64 JAX + Overview (193 total)
-- All 192 Incarnation Cross variations documented
-
----
-
 ## Available Work Paths
 
-### Priority 1: Client Work
-**Status:** Full chart generation workflow operational.
+### Priority 1: Complete Prima Materia Audit
+**Status:** Phase 3 Revision in progress (95 files need individual verification)
+**Next:** Individual file verification with inline footnote citations
+**Timeline:** 10-12 sessions for Cohort B completion
+
+### Priority 2: Client Work
+**Status:** Full chart generation workflow operational
 **Outputs:** Bodygraph PNG, Astrology SVG, JSON data
 **Reports:** Manual creation in Apple Pages using generated assets
 
-### Priority 2: Continue Synthesis Work
+### Priority 3: Continue Synthesis Work
 **Questions from The Tree of Return synthesis:**
 - Relationship between Mary's Sophia and Qabalah's Chokmah
 - The role of masculine principle in Mary's architecture
 - Bridal Chamber ↔ Syzygy (anima/animus integration)
 
-### Priority 3: Library Maintenance
-**Next Quarterly Audit:** ~April 18, 2026 (90-day cycle from 2026-01-18)
-
 ---
 
 ## Key Reference Documents
 
+### Audit & Verification
+- `System/Audit Logs/Prima Materia Verification Queue.md` — Current audit progress
+- `System/PROTOCOL - Prima Materia Verification Audit.md` — Full audit protocol
+- `System/Esoteric Grimoire Inventory.md` — Grimoire content mapping
+- `System/Templates/Library Entry Verification.md` — Per-file verification workflow
+
 ### Navigation
-- `INDEX - System Documentation.md` — **Start here** for all protocols/guides/templates
+- `INDEX - System Documentation.md` — Start here for all protocols/guides/templates
 
 ### Protocols
 - `PROTOCOL - Chart Data Acquisition.md` — Mandatory pre-synthesis data verification
@@ -165,14 +228,19 @@ chart.makeSVG(minify=False, remove_css_variables=True)
 - `PROTOCOL - Library Maintenance & Audit.md` — Quarterly audit checklist
 - `PROTOCOL - Search and Navigation.md` — Tag taxonomy, search patterns
 
+### Standards
+- `RUBRIC - Library Content Standard.md` — Quality standard with citation requirements
+
 ### Technical
 - `System/humandesign_api/` — Human Design calculation API with bodygraph renderer
-- `System/Scripts/` — Geolocation verification, HD data scripts, transit calculations
+- `System/Scripts/` — Geolocation verification, HD data scripts, verification automation
 
 ---
 
 ## Notes
 
 - **Git Status:** Single source of truth for uncommitted work
-- **humandesign_api:** 1 commit ahead of origin/main (local customizations, not pushed)
+- **GitHub Backup:** `git@github.com:shadesofjoe/VibologyOS.git` (private)
 - **Session Start:** Check git status, git log, and this file for context
+- **Citation Standard:** Inline footnotes now mandatory for all Library entries
+- **Audit Cycle:** Quarterly (next regular audit ~April 18, 2026)
