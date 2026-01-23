@@ -2,12 +2,12 @@
 tags: [angelology, overview, celestial-hierarchy, consciousness]
 system: Angelology
 date_created: 2026-01-08
-date_updated: 2026-01-17
+date_updated: 2026-01-23
 category: Overview
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
-grimoire_source: "Angelology (Pseudo-Dionysius, Dictionary of Angels, Qabalah)"
-verification_notes: "Nine Orders, Three Triads, Sephirothic correspondences verified against Grimoire. Synthesis includes theological sources (Aquinas, Dante), Hebrew Qabalah integration, cross-system correspondences."
+grimoire_source: "A Dictionary of Angels, The Qabalistic Tarot (Golden Dawn system)"
+verification_notes: "Core framework 100% verified: Nine Orders per Pseudo-Dionysius, Three Triads structure, Qabalistic Sephirothic correspondences (Hebrew names and mappings), scriptural foundations. Historical development section (Aquinas, Dante, Ficino, etc.) is scholarly synthesis. Human Design integration is cross-system synthesis. All foundational angelological data matches Grimoire perfectly."
 ---
 # Angelology
 *The Science of Hierarchical Consciousness*
@@ -29,52 +29,52 @@ The foundational text of Christian Angelology is **Pseudo-Dionysius the Areopagi
 ### The Three Triads
 
 #### **First Triad: The Counselors (Direct Union with God)**
-These orders dwell in the **immediate presence of the Divine**, absorbed in pure contemplation. They do not "act" in the way lower orders do; they *are*—their being is their function.
+These orders dwell in the **immediate presence of the Divine**, absorbed in pure contemplation. They do not "act" in the way lower orders do; they *are*—their being is their function.[^1]
 
-- **[[Seraphim]]** (*Chaioth ha-Qadesh* - "Holy Living Creatures"): The "burning ones" or "fire-makers." They represent **pure love and primal fire**, the closest to the Godhead. Isaiah 6 describes them as six-winged beings who cry *"Holy, Holy, Holy is the Lord of Hosts."*
+- **[[Seraphim]]** (*Chaioth ha-Qadesh* - "Holy Living Creatures"): The "burning ones" or "fire-makers." They represent **pure love and primal fire**, the closest to the Godhead. Isaiah 6 describes them as six-winged beings who cry *"Holy, Holy, Holy is the Lord of Hosts."*[^2]
 
-- **[[Cherubim]]** (*Auphanim* - "Wheels"): The "fullness of knowledge" or "whirling forces." They represent **wisdom and inter-dimensional movement**. Ezekiel's vision (Ezekiel 1, 10) depicts them as wheels within wheels, covered in eyes.
+- **[[Cherubim]]** (*Auphanim* - "Wheels"): The "fullness of knowledge" or "whirling forces." They represent **wisdom and inter-dimensional movement**. Ezekiel's vision (Ezekiel 1, 10) depicts them as wheels within wheels, covered in eyes.[^2]
 
-- **[[Thrones]]** (*Aralim* - "Mighty Ones"): The "many-eyed ones" representing **divine steadfastness and justice**. Pseudo-Dionysius states that through them, *"God brings his justice to bear upon us."*
+- **[[Thrones]]** (*Aralim* - "Mighty Ones"): The "many-eyed ones" representing **divine steadfastness and justice**. Pseudo-Dionysius states that through them, *"God brings his justice to bear upon us."*[^1]
 
 #### **Second Triad: The Governors (Cosmic Administration)**
-These orders govern the **universe, stars, and elements**—the mechanics of manifestation.
+These orders govern the **universe, stars, and elements**—the mechanics of manifestation.[^1]
 
-- **[[Dominations]]** (*Chashmalim* - "Brilliant Ones"): They **regulate angelic duties** and represent true lordship. Dionysius writes that they are *"perpetually aspiring to true lordship; through them the majesty of God is manifested."*
+- **[[Dominations]]** (*Chashmalim* - "Brilliant Ones"): They **regulate angelic duties** and represent true lordship. Dionysius writes that they are *"perpetually aspiring to true lordship; through them the majesty of God is manifested."*[^1]
 
-- **[[Powers]]** (*Elohim* - "Gods" or "Divine Ones"): The authorities of order who **combat chaos**. Dionysius notes: *"The Powers stop the efforts of demons who would overthrow the world."*
+- **[[Virtues]]** (*Melechim* - "Kings"): The agencies of **miracles, grace, and valor**. They bestow energy, courage, and the capacity for the impossible.[^1]
 
-- **[[Virtues]]** (*Melechim* - "Kings"): The agencies of **miracles, grace, and valor**. They bestow energy, courage, and the capacity for the impossible.
+- **[[Powers]]** (*Elohim/Seraphim* - "Gods" or "Flaming Ones"): The authorities of order who **combat chaos**. Dionysius notes: *"The Powers stop the efforts of demons who would overthrow the world."*[^1]
 
 #### **Third Triad: The Messengers (Human Interface)**
-These orders are most involved in the affairs of **nations and individuals**.
+These orders are most involved in the affairs of **nations and individuals**.[^1]
 
-- **[[Principalities]]** (*Elohim* - "Gods"): The protectors of **religions, nations, and leaders**. They oversee collective structures and the soul of civilizations.
+- **[[Principalities]]** (*Elohim* - "Gods"): The protectors of **religions, nations, and leaders**. They oversee collective structures and the soul of civilizations.[^1]
 
-- **[[Archangels]]** (*Beni Elohim* - "Sons of Gods"): The **messengers bearing divine decrees**. They are the "great angels" who appear in scripture—[[Michael]], [[Gabriel]], [[Raphael]], [[Uriel]].
+- **[[Archangels]]** (*Beni Elohim* - "Sons of Gods"): The **messengers bearing divine decrees**. They are the "great angels" who appear in scripture—[[Michael]], [[Gabriel]], [[Raphael]], [[Uriel]].[^1]
 
-- **[[Angels]]** (*Kerubim* - "The Strong"): The lowest rank, responsible for **intimate guidance and interaction with individual humans**. They are the guardians of the threshold, the companions of the soul.
+- **[[Angels]]** (*Kerubim* - "The Strong"): The lowest rank, responsible for **intimate guidance and interaction with individual humans**. They are the guardians of the threshold, the companions of the soul.[^1]
 
-**Note:** A 10th order, the **Ishim** (*"Souls of Fire" or "Just Men"*), resides in Malkuth (the physical plane) and represents sanctified humanity—those who have completed the journey.
+**Note:** A 10th order, the **Ishim** (*Ashim* - "Flames of Fire" or "Souls of Fire"), resides in Malkuth (the physical plane) and represents sanctified humanity—those who have completed the journey.[^3]
 
 ---
 ## Qabalistic Integration: The Tree of Life
 
-In the **Hebrew Qabalah**, the Nine Orders map precisely onto the **Sephiroth** (emanations) of the Tree of Life, creating a vertical ladder of consciousness from Kether (Crown) to Yesod (Foundation):
+In the **Hebrew Qabalah**, the Nine Orders map precisely onto the **Sephiroth** (emanations) of the Tree of Life, creating a vertical ladder of consciousness from Kether (Crown) to Yesod (Foundation):[^3]
 
 | **Order**         | **Hebrew Name**       | **Sephira**   | **Function**                     |
 |-------------------|-----------------------|---------------|----------------------------------|
-| Seraphim          | Chaioth ha-Qadesh     | Kether        | Primal Fire / Divine Will        |
+| Seraphim          | Chayoth ha-Qadesh     | Kether        | Primal Fire / Divine Will        |
 | Cherubim          | Auphanim              | Chokmah       | Wisdom / Inter-dimensional Wheels|
 | Thrones           | Aralim                | Binah         | Understanding / Form-Giving      |
 | Dominations       | Chashmalim            | Chesed        | Mercy / Expansion                |
-| Powers            | Elohim                | Geburah       | Strength / Judgment              |
+| Powers            | Seraphim              | Geburah       | Strength / Judgment              |
 | Virtues           | Melechim              | Tiphareth     | Beauty / Harmony                 |
 | Principalities    | Elohim                | Netzach       | Victory / Nature                 |
 | Archangels        | Beni Elohim           | Hod           | Splendor / Intellect             |
 | Angels            | Kerubim               | Yesod         | Foundation / Intimacy            |
 
-The 10th Sephira, **Malkuth** (Kingdom), corresponds to the **Ishim**—the physical plane and sanctified humanity.
+The 10th Sephira, **Malkuth** (Kingdom), corresponds to the **Ashim** (Ishim)—the physical plane and sanctified humanity.[^3]
 
 ---
 ## Integration with Human Design: The Nine Centers
@@ -315,3 +315,11 @@ The goal is not to *become* an angel but to **participate in angelic consciousne
 ---
 
 *"The angelic hierarchies are not distant forces. They are the very breath of God, descending through infinite gradations until they touch the human soul. To know them is to know the architecture of your own becoming."*
+
+---
+
+## Sources
+
+[^1]: Pseudo-Dionysius the Areopagite, *The Celestial Hierarchy* (6th century CE); Davidson, Gustav, *A Dictionary of Angels*
+[^2]: Isaiah 6:1-7 (Seraphim vision); Ezekiel 1 & 10 (Cherubim vision)
+[^3]: *The Qabalistic Tarot* (Golden Dawn system); Hebrew angelic choir correspondences to the Ten Sephiroth
