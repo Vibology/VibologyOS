@@ -8,10 +8,10 @@ strategy: To Wait to Respond
 not_self_theme: Frustration
 signature: Satisfaction
 date_created: 2026-01-08
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
-grimoire_source: "Human Design (The Definitive Book, Complete Guide)"
-verification_notes: "Core mechanics (gates, centers, profiles, authorities, types, strategy) verified against Grimoire. Synthesis includes archetypal interpretation, Jungian depth, cross-system correspondences."
+grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
+verification_notes: "Individual verification complete. Core mechanics (Defined Sacral, ~70% of population, Strategy: Wait to Respond, Signature: Satisfaction) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
 
 # Generator: The Life Force
@@ -21,6 +21,13 @@ verification_notes: "Core mechanics (gates, centers, profiles, authorities, type
 Generators are defined by a **defined [[Sacral]]**—the motor of sustainable life force energy. This single mechanical feature distinguishes them as the energetic majority of humanity, the builders and sustainers of civilization.
 
 ### Two Subtypes
+
+
+---
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011), Generator Type: Defined Sacral Center (sustainable life force)
+[^2]: *Definitive Book of Human Design*, Generator Strategy: Wait to Respond to life
+[^3]: *Definitive Book of Human Design*, Generator Signature: Satisfaction
 
 **Pure Generator:**
 Defined Sacral Center without a direct motor connection to the [[Throat]].

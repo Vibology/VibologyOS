@@ -8,10 +8,10 @@ strategy: To Wait for the Invitation
 not_self_theme: Bitterness
 signature: Success
 date_created: 2026-01-08
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
-grimoire_source: "Human Design (The Definitive Book, Complete Guide)"
-verification_notes: "Core mechanics (gates, centers, profiles, authorities, types, strategy) verified against Grimoire. Synthesis includes archetypal interpretation, Jungian depth, cross-system correspondences."
+grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
+verification_notes: "Individual verification complete. Core mechanics (No motor-to-Throat, undefined Sacral, ~20% of population, Strategy: Wait for Invitation, Signature: Success) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
 
 # Projector: The Guide
@@ -40,6 +40,13 @@ The Projector does not draw life toward them like the Generator, nor push outwar
 ---
 
 ## Strategy: To Wait for the Invitation
+
+
+---
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011), Projector Type: No motor-to-Throat connection, undefined Sacral
+[^2]: *Definitive Book of Human Design*, Projector Strategy: Wait for the Invitation (recognition and invitation)
+[^3]: *Definitive Book of Human Design*, Projector Signature: Success
 
 **To Wait for the Invitation** is the Projector's alchemical law. They are not designed to offer their guidance unsolicited, nor to initiate their involvement in the world. They must be **formally invited** into the arenas that matter:
 - Career and work

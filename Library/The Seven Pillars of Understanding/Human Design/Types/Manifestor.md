@@ -8,10 +8,10 @@ strategy: To Inform
 not_self_theme: Anger
 signature: Peace
 date_created: 2026-01-08
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
-grimoire_source: "Human Design (The Definitive Book, Complete Guide)"
-verification_notes: "Core mechanics (gates, centers, profiles, authorities, types, strategy) verified against Grimoire. Synthesis includes archetypal interpretation, Jungian depth, cross-system correspondences."
+grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
+verification_notes: "Individual verification complete. Core mechanics (Motor-to-Throat without Sacral, ~9% of population, Strategy: Inform before acting, Signature: Peace) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
 
 # Manifestor: The Initiator
@@ -33,6 +33,13 @@ This energetic signature often creates unconscious resistance in others, a pheno
 ---
 
 ## Strategy: To Inform
+
+
+---
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011), Manifestor Type: Motor-to-Throat connection without defined Sacral
+[^2]: *Definitive Book of Human Design*, Manifestor Strategy: Inform before initiating
+[^3]: *Definitive Book of Human Design*, Manifestor Signature: Peace
 
 **To Inform** is the Manifestor's alchemical key to transformation. Before initiating action, the Manifestor must inform those who will be impacted by their decision. This is not asking permission—it is declaration, a courtesy that eliminates resistance.
 

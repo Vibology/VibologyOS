@@ -9,10 +9,10 @@ not_self_theme: Disappointment
 signature: Surprise
 authority: Lunar Authority
 date_created: 2026-01-08
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
-grimoire_source: "Human Design (The Definitive Book, Complete Guide)"
-verification_notes: "Core mechanics (gates, centers, profiles, authorities, types, strategy) verified against Grimoire. Synthesis includes archetypal interpretation, Jungian depth, cross-system correspondences."
+grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
+verification_notes: "Individual verification complete. Core mechanics (All centers undefined, ~1% of population, Strategy: Wait a Lunar Cycle, Signature: Surprise) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
 
 # Reflector: The Mirror
@@ -44,6 +44,13 @@ The Reflector is the barometer of community health, the "canary in the coal mine
 ---
 
 ## Strategy: To Wait a Full Lunar Cycle (28 Days)
+
+
+---
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011), Reflector Type: All nine centers undefined (rarest Type)
+[^2]: *Definitive Book of Human Design*, Reflector Strategy: Wait 28-29 days (full lunar cycle) for major decisions
+[^3]: *Definitive Book of Human Design*, Reflector Signature: Surprise
 
 **To Wait a Full Lunar Cycle** is the Reflector's alchemical law. Because their design is entirely lunar (no fixed definition), they require a full 28-day cycle to experience clarity on major decisions.
 
