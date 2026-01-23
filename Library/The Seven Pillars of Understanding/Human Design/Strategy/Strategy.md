@@ -3,11 +3,17 @@ tags: [human-design, strategy, decision-making, mechanics, archetypal]
 system: Human Design
 date_created: 2026-01-08
 date_updated: 2026-01-16
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
-grimoire_source: "Human Design (The Definitive Book, Complete Guide)"
-verification_notes: "Core mechanics (gates, centers, profiles, authorities, types, strategy) verified against Grimoire. Synthesis includes archetypal interpretation, Jungian depth, cross-system correspondences."
+grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
+verification_notes: "Individual verification complete. Overview of 4 Strategies verified against Grimoire with inline citations. Educational/synthesis content clearly distinguished."
 ---
+
+---
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011), Four Strategies: Generator (Respond), Manifestor (Inform), Projector (Wait for Invitation), Reflector (Wait Lunar Cycle)
+[^2]: *Definitive Book of Human Design*, Strategy is the mechanical way each Type correctly interacts with the world
+
 *The Geometry of Correct Movement*
 
 ---
