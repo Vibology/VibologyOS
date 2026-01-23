@@ -2,6 +2,10 @@
 tags: [human-design, gates, g-center, collective, logic-circuit, leadership, role, guidance]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 7
 hexagram_name: The Army
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 7 in the G Center represents **the role of self in 
 
 Ra taught that Gate 7 is fundamentally about **recognizing one's role in the collective** and stepping into that role with precision. This is not ego-driven authority but **service through leadership**—the understanding that society requires guidance, structure, and order to function, and that certain individuals are designed to provide it.
 
-**"Gate 7 is The Army. It's about leadership, but not the kind where you're out front waving the flag. It's the general, the strategist, the one who organizes the collective from behind. It's about knowing your role and playing it correctly."** — Ra Uru Hu
+**"Gate 7 is The Army. It's about leadership, but not the kind where you're out front waving the flag. It's the general, the strategist, the one who organizes the collective from behind. It's about knowing your role and playing it correctly."** — Ra Uru Hu[^1]
 
 The keynote is **role-based leadership for collective order**. This is the G Center's capacity to know "What is my role in the collective?" and to step into that role without apology or hesitation.
 

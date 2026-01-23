@@ -2,6 +2,10 @@
 tags: [human-design, gates, sacral-center, collective, abstract-circuit, knowing, completion]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 42
 hexagram_name: Increase
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 42 is located in the Sacral Center and represents *
 
 Ra taught that Gate 42 operates within the **Collective Abstract Circuit (Sensing Stream)**, which means it carries the power to **bring experiences to full fruition** so they can be reflected upon and shared with the collective. This is not rushed productivity or forced completion—it is the **organic growth** of experience toward natural conclusion.
 
-**"Gate 42 is about finishing. It is the energy to grow something fully, to maximize it, to bring it to completion. Without Gate 42, experiences remain incomplete, half-lived. This is the gate of maturity—bringing things to their fullness."** — Ra Uru Hu
+**"Gate 42 is about finishing. It is the energy to grow something fully, to maximize it, to bring it to completion. Without Gate 42, experiences remain incomplete, half-lived. This is the gate of maturity—bringing things to their fullness."** — Ra Uru Hu[^1]
 
 The keynote here is **expansion after contraction**. The I-Ching name "Increase" reflects the **expansion of energy** after the decrease (Gate 41)—the flowering, the growth, the bringing forth of what was imagined into full manifestation.
 

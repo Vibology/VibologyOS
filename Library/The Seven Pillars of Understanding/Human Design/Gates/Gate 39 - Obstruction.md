@@ -2,6 +2,10 @@
 tags: [human-design, gates, root, individual, knowing-circuit, provocation, spirit]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 39
 hexagram_name: Obstruction
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 39 is located in the Root Center and represents **t
 
 Ra taught that Gate 39 operates within the **Individual Knowing Circuit**, which means it carries the energy of **provocation as empowerment**—using obstruction, teasing, and challenge to provoke others into feeling deeply, accessing spirit, discovering their own emotional truth.
 
-**"Gate 39 is provocation. It's the tease, the challenge, the obstruction that makes you feel something. Without Gate 55, this provocation has no spirit—just annoying teasing without emotional depth."** — Ra Uru Hu
+**"Gate 39 is provocation. It's the tease, the challenge, the obstruction that makes you feel something. Without Gate 55, this provocation has no spirit—just annoying teasing without emotional depth."** — Ra Uru Hu[^1]
 
 The keynote here is **obstruction as value**—what blocks us provokes us to go deeper, to feel more, to access spirit we would otherwise ignore.
 

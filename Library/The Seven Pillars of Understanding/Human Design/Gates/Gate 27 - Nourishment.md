@@ -2,6 +2,10 @@
 tags: [human-design, gates, sacral, tribal, defense-circuit, caring, nourishment, responsibility]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 27
 hexagram_name: Nourishment
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 27 in the Sacral Center represents **the power to c
 
 Ra taught that Gate 27 belongs to the **Tribal Defense Circuit**, which means this caring is fundamentally about **protecting and sustaining the tribe** through nourishment. This is not abstract compassion—it is **practical caretaking** that ensures the tribe's health, well-being, and continuity.
 
-**"Gate 27 is about caring, about nourishment. But it's Sacral, so it has to respond—you can't just care for everyone. Your Sacral tells you who and what to nourish. And it's tribal, so it's about taking care of your people."** — Ra Uru Hu
+**"Gate 27 is about caring, about nourishment. But it's Sacral, so it has to respond—you can't just care for everyone. Your Sacral tells you who and what to nourish. And it's tribal, so it's about taking care of your people."** — Ra Uru Hu[^1]
 
 The keynote is **enhancement of quality and substance of activities through caring**. Gate 27 does not just provide—it **nurtures**, ensuring that what is given is of high quality and truly serves.
 

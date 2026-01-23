@@ -2,6 +2,10 @@
 tags: [human-design, gates, throat, collective, logic-circuit, enthusiasm, skill, talent, mastery, repetition]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 16
 hexagram_name: Enthusiasm
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 16 is located in the Throat Center and represents *
 
 Ra taught that Gate 16 operates within the **Collective Logic Circuit**, which means it carries **pattern-based skill development**. This gate enables the individual to recognize that mastery is built through *repetition*—doing the same thing over and over until the body learns, until the skill becomes embodied.
 
-**"Gate 16 is about skill. It's not about being naturally talented—it's about being willing to do the work, to repeat the practice until you get it right. This is the gate of the craftsperson, the musician who practices scales for hours, the athlete who trains the same movement until it's perfect. Enthusiasm comes from the love of doing it again and again."** — Ra Uru Hu
+**"Gate 16 is about skill. It's not about being naturally talented—it's about being willing to do the work, to repeat the practice until you get it right. This is the gate of the craftsperson, the musician who practices scales for hours, the athlete who trains the same movement until it's perfect. Enthusiasm comes from the love of doing it again and again."** — Ra Uru Hu[^1]
 
 The keynote here is **talent through repetition**. This is the Throat Center's capacity to express expertise that has been *earned* through dedicated practice, not gifted through innate ability.
 

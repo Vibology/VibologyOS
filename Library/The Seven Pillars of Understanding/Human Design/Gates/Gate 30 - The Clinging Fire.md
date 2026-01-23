@@ -2,6 +2,10 @@
 tags: [human-design, gates, solar-plexus, collective, sensing-circuit, feelings, desire, fate, emotion]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 30
 hexagram_name: The Clinging Fire
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 30 in the Solar Plexus Center represents **the powe
 
 Ra taught that Gate 30 belongs to the **Collective Sensing (Abstract) Circuit**, which means these feelings serve **the evolution of emotional wisdom**. This is not tribal loyalty or individual mutation—it is **the emotional experience of desire, fate, and limitation** that teaches and deepens collective understanding of what it means to be human.
 
-**"Gate 30 is about desire, about feelings. It's the recognition that freedom is an illusion—we're all bound by our desires, our fates. And that limitation, that clinging to experience, is what makes us human. It's Collective, so these feelings are about learning through experience."** — Ra Uru Hu
+**"Gate 30 is about desire, about feelings. It's the recognition that freedom is an illusion—we're all bound by our desires, our fates. And that limitation, that clinging to experience, is what makes us human. It's Collective, so these feelings are about learning through experience."** — Ra Uru Hu[^1]
 
 The keynote is **freedom recognized as an illusion and limitation accepted as a fate**. Gate 30 knows that we are not free—we are driven by desire, bound by emotion, fated to cling to experience—and this very recognition is the beginning of emotional wisdom.
 

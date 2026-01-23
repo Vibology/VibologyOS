@@ -2,6 +2,10 @@
 tags: [human-design, gates, ajna, individual, knowing-circuit, rationalization, renewal, thinking]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 24
 hexagram_name: The Return
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 24 in the Ajna Center represents **the power to rat
 
 Ra taught that Gate 24 belongs to the **Individual Knowing Circuit**, which means this mental process is **not for teaching or proving**—it is personal contemplation that, when complete, may introduce mutation. This is **thinking that cycles**, returning again and again until insight crystallizes.
 
-**"Gate 24 is rationalization—it's going over and over something in your mind until you get it. And you can't force it. You have to let the mind do its work. This is Individual, so you're not thinking for others, you're thinking for yourself."** — Ra Uru Hu
+**"Gate 24 is rationalization—it's going over and over something in your mind until you get it. And you can't force it. You have to let the mind do its work. This is Individual, so you're not thinking for others, you're thinking for yourself."** — Ra Uru Hu[^1]
 
 The keynote is **the natural and spontaneous process of transformation and renewal**. Gate 24 does not think linearly—it **returns**, cycling through an idea multiple times until understanding emerges organically.
 

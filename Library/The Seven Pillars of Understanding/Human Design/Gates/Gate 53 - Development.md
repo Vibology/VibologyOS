@@ -2,6 +2,10 @@
 tags: [human-design, gates, root-center, pressure, collective, abstract-circuit, beginnings, cycles]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 53
 hexagram_name: Development
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 53 is located in the **Root Center** and represents
 
 Ra taught that Gate 53 operates within the **Collective Sensing/Abstract Circuit**, which means it serves the collective need to **learn through experience across time**. This is the gate of the eternal beginner, the one who says "Let's start!" even before the previous cycle is complete.
 
-**"Gate 53 is development. It is the pressure to begin, to start, to initiate the new cycle. But here's the mechanical truth: this gate has no natural capacity to finish. It begins, and begins, and begins again. This is not ADD—this is design. The finishing belongs to Gate 42. Without it, you are designed to start but not to complete."** — Ra Uru Hu
+**"Gate 53 is development. It is the pressure to begin, to start, to initiate the new cycle. But here's the mechanical truth: this gate has no natural capacity to finish. It begins, and begins, and begins again. This is not ADD—this is design. The finishing belongs to Gate 42. Without it, you are designed to start but not to complete."** — Ra Uru Hu[^1]
 
 The keynote here is **initiation of cycles**. This is the Root Center's pressure directed toward **beginning the developmental journey**, trusting that maturation will unfold over time.
 

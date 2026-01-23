@@ -2,6 +2,10 @@
 tags: [human-design, gates, head-center, pressure, individual, knowing-circuit, inspiration, mystery, inner-truth]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 61
 hexagram_name: Inner Truth
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 61 is located in the **Head Center** and represents
 
 Ra taught that Gate 61 operates within the **Individual Knowing Circuit**, which means it carries the **mutative frequency of inspiration**—the sudden knowing that arrives not through deduction but through **revelation**. This is the gate of inner truth that bypasses the mind.
 
-**"Gate 61 is Inner Truth—but here's the paradox: you're under pressure to know what cannot be known. This is the existential question. Why are we here? What is the meaning? This pressure drives you to the edge of sanity because the mind cannot answer it. The answer comes as inspiration—a sudden knowing that has no logical path. You don't think your way to inner truth. You receive it."** — Ra Uru Hu
+**"Gate 61 is Inner Truth—but here's the paradox: you're under pressure to know what cannot be known. This is the existential question. Why are we here? What is the meaning? This pressure drives you to the edge of sanity because the mind cannot answer it. The answer comes as inspiration—a sudden knowing that has no logical path. You don't think your way to inner truth. You receive it."** — Ra Uru Hu[^1]
 
 The keynote here is **pressure to know mystery**. This is the Head Center's capacity to generate the pressure that drives the search for meaning, truth, and understanding beyond what logic can provide.
 

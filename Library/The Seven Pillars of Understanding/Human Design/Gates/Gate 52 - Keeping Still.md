@@ -2,6 +2,10 @@
 tags: [human-design, gates, root-center, pressure, collective, logic-circuit, stillness, restraint]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 52
 hexagram_name: Keeping Still
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 52 is located in the **Root Center** and represents
 
 Ra taught that Gate 52 operates within the **Collective Logic Circuit**, which means it serves the collective need to **think before acting**. This is the gate of the contemplative warrior, the chess master, the one who says "Not yet" even when external pressure demands immediate action.
 
-**"Gate 52 is the mountain. It is the pressure to hold still, to not move, to assess before acting. This is not hesitation—this is wisdom. The mountain does not rush to the valley; it waits for the right season, the right conditions. This gate teaches that sometimes the most powerful action is no action at all."** — Ra Uru Hu
+**"Gate 52 is the mountain. It is the pressure to hold still, to not move, to assess before acting. This is not hesitation—this is wisdom. The mountain does not rush to the valley; it waits for the right season, the right conditions. This gate teaches that sometimes the most powerful action is no action at all."** — Ra Uru Hu[^1]
 
 The keynote here is **stillness under pressure**. This is the Root Center's capacity to **withstand stress without reactive motion**, allowing the mind (Ajna) to complete its assessment before the body (Sacral) is released into action.
 

@@ -2,6 +2,10 @@
 tags: [human-design, gates, solar-plexus, tribal, defense-circuit, intimacy, friction, mating]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 6
 hexagram_name: Conflict
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 6 in the Solar Plexus Center represents **the law t
 
 Ra taught that Gate 6 is fundamentally about **emotional intimacy and the friction it creates**. This gate governs the opening and closing of emotional access—who gets in, who is kept out, how much vulnerability is shared. Without friction (emotional honesty, boundaries, conflict resolution), intimacy stagnates or becomes enmeshed.
 
-**"Gate 6 is Conflict. But it's not about fighting—it's about the emotional friction that allows intimacy to deepen. It's the diaphragm of the Solar Plexus. You breathe in (allow closeness), you breathe out (create distance). Without that rhythm, intimacy suffocates or dissipates."** — Ra Uru Hu
+**"Gate 6 is Conflict. But it's not about fighting—it's about the emotional friction that allows intimacy to deepen. It's the diaphragm of the Solar Plexus. You breathe in (allow closeness), you breathe out (create distance). Without that rhythm, intimacy suffocates or dissipates."** — Ra Uru Hu[^1]
 
 The keynote is **friction as the mechanism of intimacy**. This is the Solar Plexus's capacity to navigate emotional waves, express needs, assert boundaries, and allow conflict to serve connection rather than destroy it.
 

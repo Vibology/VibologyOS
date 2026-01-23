@@ -2,6 +2,10 @@
 tags: [human-design, gates, solar-plexus, collective, abstract-circuit, crisis, emotional-depth]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 36
 hexagram_name: Darkening of the Light
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 36 is located in the Solar Plexus Center and repres
 
 Ra taught that Gate 36 operates within the **Collective Abstract/Sensing Circuit**, which means it carries the energy of **experiential depth through emotional crisis**—learning not through logic or individual breakthrough, but through the shared human experience of darkness, loss, and emotional intensity.
 
-**"Gate 36 is crisis. It is the darkening of the light, the descent into the emotional valley. Without Gate 35, this crisis has no hunger for new experience—just suffering without evolution."** — Ra Uru Hu
+**"Gate 36 is crisis. It is the darkening of the light, the descent into the emotional valley. Without Gate 35, this crisis has no hunger for new experience—just suffering without evolution."** — Ra Uru Hu[^1]
 
 The keynote here is that **darkness is cyclical, not permanent**—the emotional wave descends, but it will rise again. Crisis is not pathology; it is the natural rhythm of emotional maturity.
 

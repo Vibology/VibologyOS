@@ -2,6 +2,10 @@
 tags: [human-design, gates, throat, individual, knowing-circuit, contribution, style, expression]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 8
 hexagram_name: Holding Together
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 8 in the Throat Center represents **the capacity to
 
 Ra taught that Gate 8 is fundamentally about **holding together** (the individual and the group) through **authentic creative contribution**. This is not the voice that explains, teaches, or commands—it is the voice that **expresses the individual's unique creative direction** in ways that inspire and empower others simply by being witnessed.
 
-**"Gate 8 is Holding Together. It's about contributing your unique expression to the group. You're not trying to lead them or teach them—you're just being yourself, and that itself is the contribution. Your style, your way of doing things, holds value for the collective."** — Ra Uru Hu
+**"Gate 8 is Holding Together. It's about contributing your unique expression to the group. You're not trying to lead them or teach them—you're just being yourself, and that itself is the contribution. Your style, your way of doing things, holds value for the collective."** — Ra Uru Hu[^1]
 
 The keynote is **creative contribution through individual style**. This is the Throat's capacity to manifest (give voice to) the individual's creative direction (Gate 1, G Center) in ways that serve collective goals without sacrificing uniqueness.
 

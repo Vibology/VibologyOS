@@ -2,6 +2,10 @@
 tags: [human-design, gates, root-center, pressure, collective, logic-circuit, vitality, joy, correction]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 58
 hexagram_name: The Joyous
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 58 is located in the **Root Center** and represents
 
 Ra taught that Gate 58 operates within the **Collective Logic Circuit**, which means it carries the **pressure to test, prove, and correct patterns** for the benefit of the collective. This is the gate of vitality that cannot rest until imperfection is identified and addressed.
 
-**"Gate 58 is The Joyous—but here's the paradox: it's the joy that comes from never being satisfied. This is the pressure to correct. You look at something and immediately see what's wrong. It's not criticism for the sake of tearing down; it's the biological imperative to perfect. This is the fuel of evolution. Without Gate 58, there is no drive to improve."** — Ra Uru Hu
+**"Gate 58 is The Joyous—but here's the paradox: it's the joy that comes from never being satisfied. This is the pressure to correct. You look at something and immediately see what's wrong. It's not criticism for the sake of tearing down; it's the biological imperative to perfect. This is the fuel of evolution. Without Gate 58, there is no drive to improve."** — Ra Uru Hu[^1]
 
 The keynote here is **insatiable vitality**. This is the Root Center's capacity to generate pressure that drives the search for perfection, not as a mental ideal but as a **biological imperative**.
 

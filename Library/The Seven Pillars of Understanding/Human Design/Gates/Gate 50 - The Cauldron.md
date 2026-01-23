@@ -2,6 +2,10 @@
 tags: [human-design, gates, spleen-center, tribal, ego-circuit, values, responsibility]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 50
 hexagram_name: The Cauldron
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 50 is located in the Spleen Center and represents *
 
 Ra taught that Gate 50 operates within the **Tribal Ego Circuit (Defense)**, which means it carries the responsibility to **protect tribal well-being through the establishment and maintenance of values**. This is not individual ethics or collective ideals—it is **tribal law** written in instinct.
 
-**"Gate 50 is the cauldron—the vessel that holds the tribe's values. It is the knowing of what preserves the tribe and what threatens it. It is responsibility for the law, for the rules, for what keeps the tribe healthy and whole."** — Ra Uru Hu
+**"Gate 50 is the cauldron—the vessel that holds the tribe's values. It is the knowing of what preserves the tribe and what threatens it. It is responsibility for the law, for the rules, for what keeps the tribe healthy and whole."** — Ra Uru Hu[^1]
 
 The keynote here is **values as protection**. The I-Ching name "The Cauldron" reflects the **sacred vessel** that nourishes the tribe—it must be kept pure, maintained carefully, and used responsibly to ensure collective survival.
 

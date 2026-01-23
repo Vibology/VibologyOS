@@ -2,6 +2,10 @@
 tags: [human-design, gates, spleen, tribal, ego-circuit, continuity, survival]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 32
 hexagram_name: Duration
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 32 is located in the Spleen Center and represents *
 
 Ra taught that Gate 32 operates within the **Tribal Ego Circuit**, which means it carries the energy of **conservative survival wisdom**—the instinct to preserve what works, to fear failure, and to adapt slowly and strategically rather than radically. This is not individual mutation or collective pattern recognition—it is tribal continuity: ensuring the survival of the family, the business, the community through tested strategies.
 
-**"Gate 32 is the fear of failure. It is the splenic awareness that knows: if this fails, we may not survive. So it evaluates everything for endurance, for continuity, for what will last."** — Ra Uru Hu
+**"Gate 32 is the fear of failure. It is the splenic awareness that knows: if this fails, we may not survive. So it evaluates everything for endurance, for continuity, for what will last."** — Ra Uru Hu[^1]
 
 The keynote here is **the paradox of duration**: the only thing that endures is change itself. Gate 32 must learn to adapt while preserving, to evolve while honoring what works, to fear failure without becoming paralyzed by it.
 

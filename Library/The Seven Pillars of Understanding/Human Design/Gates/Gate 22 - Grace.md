@@ -2,6 +2,10 @@
 tags: [human-design, gates, solar-plexus, individual, knowing-circuit, grace, openness, emotional-spirit]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 22
 hexagram_name: Grace
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 22 in the Solar Plexus Center represents **the emot
 
 Ra taught that Gate 22 belongs to the **Individual Knowing Circuit**, which means this grace is **not for teaching or leading others** but for personal expression. This is **emotional openness** that allows the Individual to connect through listening and presence, creating space for mutation through authentic emotional spirit.
 
-**"Gate 22 is about grace, about being open emotionally. It's not about having the answers or telling people what to do—it's about listening, about being there. This is the emotional spirit that makes space for others."** — Ra Uru Hu
+**"Gate 22 is about grace, about being open emotionally. It's not about having the answers or telling people what to do—it's about listening, about being there. This is the emotional spirit that makes space for others."** — Ra Uru Hu[^1]
 
 The keynote is **grace under pressure**. Gate 22 does not seek to solve problems or fix others—it offers **emotional presence, listening, and openness**, especially in situations that might seem trivial or mundane but require emotional intelligence.
 

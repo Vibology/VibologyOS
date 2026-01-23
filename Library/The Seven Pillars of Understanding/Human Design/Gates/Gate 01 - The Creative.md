@@ -2,6 +2,10 @@
 tags: [human-design, gates, g-center, individual, knowing-circuit, creativity]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 1
 hexagram_name: The Creative
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 1 is located in the G Center and represents **the p
 
 Ra taught that Gate 1 operates within the **Individual Knowing Circuit**, which means it carries **mutation**—the capacity to express something utterly unique that has never been expressed before. This is the gate of the artist, the innovator, the one who brings forth new forms not from collective patterns but from the deep well of individual identity.
 
-**"Gate 1 is the Creative. It is the primal creative force. It is the energy to express without limitation—to be who you are without apology. But it needs Gate 8 to give it voice."** — Ra Uru Hu
+**"Gate 1 is the Creative. It is the primal creative force. It is the energy to express without limitation—to be who you are without apology. But it needs Gate 8 to give it voice."** — Ra Uru Hu[^1]
 
 The keynote here is **self-expression through creative direction**. This is the G Center's drive to know "Who am I?" and "Where am I going?" manifested through the unique creative impulse of the individual.
 

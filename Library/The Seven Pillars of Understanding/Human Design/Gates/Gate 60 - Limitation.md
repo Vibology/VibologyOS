@@ -2,6 +2,10 @@
 tags: [human-design, gates, root-center, pressure, individual, knowing-circuit, limitation, mutation, pulse]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 60
 hexagram_name: Limitation
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 60 is located in the **Root Center** and represents
 
 Ra taught that Gate 60 operates within the **Individual Knowing Circuit**, which means it carries the **mutative frequency of accepting what is** in order to pulse toward what could be. This is the gate of the pulse—the on/off rhythm that creates mutation through constraint and release.
 
-**"Gate 60 is Limitation. But here's the thing: limitation is not punishment. It's the pulse. On, off. Yes, no. Mutation happens at the edge of limitation. When you accept the constraint, you discover the doorway. This is the pulse of evolution—accept the limit, transcend the limit, accept the new limit. It never ends. And that's the beauty."** — Ra Uru Hu
+**"Gate 60 is Limitation. But here's the thing: limitation is not punishment. It's the pulse. On, off. Yes, no. Mutation happens at the edge of limitation. When you accept the constraint, you discover the doorway. This is the pulse of evolution—accept the limit, transcend the limit, accept the new limit. It never ends. And that's the beauty."** — Ra Uru Hu[^1]
 
 The keynote here is **the pulse**. This is the Root Center's capacity to generate pressure through **rhythmic constraint**—the on/off cycle that creates the gaps where mutation can occur.
 

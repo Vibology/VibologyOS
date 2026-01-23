@@ -2,6 +2,10 @@
 tags: [human-design, gates, sacral, integration, centering, power, manifestation]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 34
 hexagram_name: The Power of the Great
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 34 is located in the Sacral Center and represents *
 
 Ra taught that Gate 34 operates within the **Integration/Centering Circuit**, which means it carries the energy of **individual empowerment through being**—not collective service or tribal support, but the raw power of existence itself. This is not about what you do—it is about the power that emerges from simply **being alive**.
 
-**"Gate 34 is power. Pure Sacral power. But power is only great when it empowers others. Alone, it's just busy-ness. Connected to the Throat, it becomes manifestation."** — Ra Uru Hu
+**"Gate 34 is power. Pure Sacral power. But power is only great when it empowers others. Alone, it's just busy-ness. Connected to the Throat, it becomes manifestation."** — Ra Uru Hu[^1]
 
 The keynote here is that **power serves best when it empowers**, not dominates. This is not the Ego's will (which controls) or the Root's pressure (which drives)—this is the Sacral's life-force saying "I am here, I am alive, I have power."
 

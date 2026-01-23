@@ -2,6 +2,10 @@
 tags: [human-design, gates, throat-center, expression, collective, abstract-circuit, storytelling, stimulation]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 56
 hexagram_name: The Wanderer
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 56 is located in the **Throat Center** and represen
 
 Ra taught that Gate 56 operates within the **Collective Sensing/Abstract Circuit**, which means it serves the collective need to **learn from shared experience**. This is the gate of the wanderer, the traveler, the one who says "I believe..." and shares stories that teach without preaching.
 
-**"Gate 56 is the Storyteller. 'I believe...' This is not about truth; it's about stimulation. The collective learns through story, through metaphor, through being entertained into wisdom. Without Gate 56, experience remains private. With it, experience becomes collective knowledge. But here's the catch: the story must stimulate to be heard. Boring truths die; vivid stories spread."** — Ra Uru Hu
+**"Gate 56 is the Storyteller. 'I believe...' This is not about truth; it's about stimulation. The collective learns through story, through metaphor, through being entertained into wisdom. Without Gate 56, experience remains private. With it, experience becomes collective knowledge. But here's the catch: the story must stimulate to be heard. Boring truths die; vivid stories spread."** — Ra Uru Hu[^1]
 
 The keynote here is **stimulation through narrative**. This is the Throat Center's capacity to **make experience compelling**, to wrap wisdom in story so it can be transmitted.
 

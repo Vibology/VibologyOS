@@ -2,6 +2,10 @@
 tags: [human-design, gates, heart-ego, tribal, ego-circuit, will, aloneness, provision]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 40
 hexagram_name: Deliverance
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 40 is located in the Heart/Ego Center and represent
 
 Ra taught that Gate 40 operates within the **Tribal Ego Circuit**, which means it carries the energy of **willful provision**—ensuring the tribe (family, business, community) has material support through the individual's work, and then withdrawing to restore will through aloneness.
 
-**"Gate 40 is aloneness. It's the will to provide, but only if it gets to rest. Without Gate 37, this will has no emotional connection—just work and rest without tribal bonding."** — Ra Uru Hu
+**"Gate 40 is aloneness. It's the will to provide, but only if it gets to rest. Without Gate 37, this will has no emotional connection—just work and rest without tribal bonding."** — Ra Uru Hu[^1]
 
 The keynote here is **deliverance as transition**—the moment when struggle (work, provision) gives way to liberation (rest, solitude). This is the rhythm of work and rest formalized.
 

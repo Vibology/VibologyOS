@@ -2,6 +2,10 @@
 tags: [human-design, gates, ajna, individual, knowing-circuit, ideas, peace, mental-expression]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 11
 hexagram_name: Peace
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 11 in the Ajna Center represents **the mind full of
 
 Ra taught that Gate 11 belongs to the **Individual Knowing Circuit**, which means these ideas carry **mutation**—they are not derivative or collective patterns, but genuinely new concepts that have the potential to shift paradigms. However, without Gate 56 (The Wanderer) in the Throat Center, these ideas remain **internal, unexpressed, and often overwhelming**.
 
-**"Gate 11 is Peace—the peace that comes when the mind is filled with ideas. But these ideas are not meant to be acted upon necessarily. They're just ideas. The Individual mind is full of concepts that may never see the light of day, and that's okay. Not every idea needs to be expressed."** — Ra Uru Hu
+**"Gate 11 is Peace—the peace that comes when the mind is filled with ideas. But these ideas are not meant to be acted upon necessarily. They're just ideas. The Individual mind is full of concepts that may never see the light of day, and that's okay. Not every idea needs to be expressed."** — Ra Uru Hu[^1]
 
 The keynote is **ideas seeking expression**. This is the Ajna's capacity to generate mental content—visions, theories, conceptual structures—but the peace comes from recognizing that **not all ideas are meant to be realized**. The mind can rest in ideation without the pressure to manifest.
 

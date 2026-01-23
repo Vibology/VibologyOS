@@ -2,6 +2,10 @@
 tags: [human-design, gates, sacral-center, generator, tribal, defense-circuit, sexuality, intimacy, bonding]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 59
 hexagram_name: Dispersion
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 59 is located in the **Sacral Center** and represen
 
 Ra taught that Gate 59 operates within the **Tribal Defense Circuit**, which means it carries the energy to **create and protect intimacy bonds** that sustain the tribe. This is the gate of sexuality—not as pleasure or procreation alone, but as the **fundamental force that dissolves barriers between self and other**.
 
-**"Gate 59 is the Aura Breaker. This is sexual energy in its purest form. Not romance, not love—biology. It's the capacity to penetrate another's aura field and say 'I want to bond with you.' This is tribal. This is about creating intimacy that supports survival. Without Gate 59, there's no energetic mechanism to break through the natural barrier between individuals."** — Ra Uru Hu
+**"Gate 59 is the Aura Breaker. This is sexual energy in its purest form. Not romance, not love—biology. It's the capacity to penetrate another's aura field and say 'I want to bond with you.' This is tribal. This is about creating intimacy that supports survival. Without Gate 59, there's no energetic mechanism to break through the natural barrier between individuals."** — Ra Uru Hu[^1]
 
 The keynote here is **intimacy through penetration**. This is the Sacral Center's capacity to generate the energy that **breaks down walls** to create connection, bonding, and the genetic continuation of the tribe.
 

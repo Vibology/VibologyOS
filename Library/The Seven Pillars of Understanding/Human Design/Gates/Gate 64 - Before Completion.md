@@ -2,6 +2,10 @@
 tags: [human-design, gates, head-center, pressure, collective, abstract-circuit, confusion, imagination, dreams]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 64
 hexagram_name: Before Completion
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 64 is located in the **Head Center** and represents
 
 Ra taught that Gate 64 operates within the **Collective Abstract/Sensing Circuit**, which means it carries the frequency to **process experiences abstractly** in search of meaning for the collective. This is the gate of confusion—not as failure but as the **essential pressure that drives imagination until sense emerges**.
 
-**"Gate 64 is Before Completion. The pattern is not yet complete. You're confused. You have all these images, all these memories, all these pieces, but they don't add up yet. This is mental pressure—the drive to make sense of the past so you can understand the future. But here's the thing: you don't think your way out of Gate 64 confusion. You wait. The pattern completes itself through time. Imagination bridges the gap."** — Ra Uru Hu
+**"Gate 64 is Before Completion. The pattern is not yet complete. You're confused. You have all these images, all these memories, all these pieces, but they don't add up yet. This is mental pressure—the drive to make sense of the past so you can understand the future. But here's the thing: you don't think your way out of Gate 64 confusion. You wait. The pattern completes itself through time. Imagination bridges the gap."** — Ra Uru Hu[^1]
 
 The keynote here is **pressure of confusion**. This is the Head Center's capacity to generate the mental pressure that drives the search for **abstract meaning through images, dreams, and memories**.
 

@@ -2,6 +2,10 @@
 tags: [human-design, gates, solar-plexus, emotion, individual, knowing-circuit, spirit, abundance]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 55
 hexagram_name: Abundance
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 55 is located in the **Solar Plexus Center** and re
 
 Ra taught that Gate 55 operates within the **Individual Knowing Circuit**, which means it carries the **mutative frequency of emotional depth**. This is the gate of the poet, the mystic, the one whose spirit determines whether the glass is half full or half empty.
 
-**"Gate 55 is abundance, but understand: this has nothing to do with money, resources, or material success. This is emotional abundance—the richness of spirit. When you're in the high of the wave, life is overflowing with beauty. When you're in the low, everything feels empty. This is not pathology; this is the Individual emotional frequency. Your spirit determines your abundance."** — Ra Uru Hu
+**"Gate 55 is abundance, but understand: this has nothing to do with money, resources, or material success. This is emotional abundance—the richness of spirit. When you're in the high of the wave, life is overflowing with beauty. When you're in the low, everything feels empty. This is not pathology; this is the Individual emotional frequency. Your spirit determines your abundance."** — Ra Uru Hu[^1]
 
 The keynote here is **spirit as the source of abundance**. This is the Solar Plexus Center's capacity to **feel deeply** and to allow those feelings to determine the quality of experience.
 

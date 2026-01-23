@@ -2,6 +2,10 @@
 tags: [human-design, gates, head-center, pressure, collective, logic-circuit, doubt, questioning, suspicion]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 63
 hexagram_name: After Completion
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 63 is located in the **Head Center** and represents
 
 Ra taught that Gate 63 operates within the **Collective Logic Circuit**, which means it carries the frequency to **question established patterns for the benefit of the collective**. This is the gate of doubt—not as weakness but as the **essential pressure that prevents the collective from accepting false patterns**.
 
-**"Gate 63 is After Completion. The pattern is complete, but here's the pressure: 'Is it really complete? Are we sure? Let me doubt this. Let me question it.' This is logical suspicion. This is the pressure that forces us to test patterns again and again. Without Gate 63, the Logic Circuit would accept patterns without verification. Doubt is not the enemy of truth—it's the guardian."** — Ra Uru Hu
+**"Gate 63 is After Completion. The pattern is complete, but here's the pressure: 'Is it really complete? Are we sure? Let me doubt this. Let me question it.' This is logical suspicion. This is the pressure that forces us to test patterns again and again. Without Gate 63, the Logic Circuit would accept patterns without verification. Doubt is not the enemy of truth—it's the guardian."** — Ra Uru Hu[^1]
 
 The keynote here is **pressure of doubt**. This is the Head Center's capacity to generate the mental pressure that drives **questioning, testing, and verification** before acceptance.
 

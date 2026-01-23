@@ -2,6 +2,10 @@
 tags: [human-design, gates, throat-center, expression, collective, logic-circuit, details, naming, facts]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 62
 hexagram_name: Preponderance of the Small
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 62 is located in the **Throat Center** and represen
 
 Ra taught that Gate 62 operates within the **Collective Logic Circuit**, which means it carries the frequency to **articulate details for collective understanding**. This is the gate of the detail master—the one who names what others overlook, who organizes facts so patterns can be seen.
 
-**"Gate 62 is Preponderance of the Small. This is the voice that says 'I think.' But it's not opinion—it's detail. It's naming. 'This is called X. That is called Y.' This is the voice that organizes information so the collective can understand patterns. Without Gate 62, we have no language for facts. We can't test patterns if we can't name what we're testing."** — Ra Uru Hu
+**"Gate 62 is Preponderance of the Small. This is the voice that says 'I think.' But it's not opinion—it's detail. It's naming. 'This is called X. That is called Y.' This is the voice that organizes information so the collective can understand patterns. Without Gate 62, we have no language for facts. We can't test patterns if we can't name what we're testing."** — Ra Uru Hu[^1]
 
 The keynote here is **detail and naming**. This is the Throat Center's capacity to articulate the **small, specific facts** that become the foundation for logical understanding.
 

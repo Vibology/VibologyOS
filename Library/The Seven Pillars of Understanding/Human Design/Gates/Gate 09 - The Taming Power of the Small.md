@@ -2,6 +2,10 @@
 tags: [human-design, gates, sacral, collective, logic-circuit, focus, concentration, details]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 9
 hexagram_name: The Taming Power of the Small
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 9 in the Sacral Center represents **the life force 
 
 Ra taught that Gate 9 is fundamentally about **taming potential through focus**—the recognition that **power lies in the accumulation of small efforts**. This is not the dramatic breakthrough but the steady, incremental work that builds mastery, precision, and reliability.
 
-**"Gate 9 is The Taming Power of the Small. It's about focus—the Sacral energy to pay attention to details, to work on things step by step. You're not trying to do everything at once. You're taming potential through concentrated effort on the small things."** — Ra Uru Hu
+**"Gate 9 is The Taming Power of the Small. It's about focus—the Sacral energy to pay attention to details, to work on things step by step. You're not trying to do everything at once. You're taming potential through concentrated effort on the small things."** — Ra Uru Hu[^1]
 
 The keynote is **potential fulfilled through detailed attention**. This is the Sacral's capacity to sustain life force through focused work, building something significant through the accumulation of small, precise actions.
 

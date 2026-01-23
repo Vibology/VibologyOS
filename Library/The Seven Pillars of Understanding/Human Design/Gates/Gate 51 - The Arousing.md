@@ -2,6 +2,10 @@
 tags: [human-design, gates, heart-center, ego, individual, centering-circuit, shock, initiation]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 51
 hexagram_name: The Arousing
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 51 is located in the **Heart (Ego) Center** and rep
 
 Ra taught that Gate 51 operates within the **Individual Centering Circuit**, which means it carries the energy of **self-empowerment through initiation**. This is the gate of the competitor, the first responder, the one who says "I will go first" even when no one else will follow.
 
-**"Gate 51 is shock. It is the shock to the system that says: something must change NOW. It is the willpower to initiate without permission, without consensus, without knowing the outcome. This is not recklessness—this is courage."** — Ra Uru Hu
+**"Gate 51 is shock. It is the shock to the system that says: something must change NOW. It is the willpower to initiate without permission, without consensus, without knowing the outcome. This is not recklessness—this is courage."** — Ra Uru Hu[^1]
 
 The keynote here is **individual initiative through ego strength**. This is the Heart Center's willpower directed toward **breaking through stagnation** and initiating mutation. Gate 51 does not ask permission; it acts when the moment demands action.
 

@@ -2,6 +2,10 @@
 tags: [human-design, gates, throat-center, tribal, ego-circuit, leadership, rulership]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 45
 hexagram_name: Gathering Together
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 45 is located in the Throat Center and represents *
 
 Ra taught that Gate 45 operates within the **Tribal Ego Circuit (Defense)**, which means it carries the responsibility to **govern and educate the tribe** in ways that protect material well-being. This is not individual leadership or collective vision—it is **tribal rulership** rooted in resource management and survival.
 
-**"Gate 45 is the king or queen. It is the voice that says: 'This is how we will manage our resources. This is how we will survive together.' It is not democratic—it is monarchical. The one with Gate 45 speaks, and the tribe listens."** — Ra Uru Hu
+**"Gate 45 is the king or queen. It is the voice that says: 'This is how we will manage our resources. This is how we will survive together.' It is not democratic—it is monarchical. The one with Gate 45 speaks, and the tribe listens."** — Ra Uru Hu[^1]
 
 The keynote here is **gathering through authority**. The I-Ching name "Gathering Together" reflects the **magnetic pull** of the ruler who brings people together around shared material interests. Gate 45 does not gather for philosophical reasons—it gathers for **survival and prosperity**.
 

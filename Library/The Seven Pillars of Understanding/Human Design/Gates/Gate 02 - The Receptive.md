@@ -2,6 +2,10 @@
 tags: [human-design, gates, g-center, individual, knowing-circuit, direction, receptivity]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 2
 hexagram_name: The Receptive
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 2 in the G Center represents **the Driver**—not i
 
 Ra taught that Gate 2 is fundamentally about **receptivity to one's own geometry**—the capacity to allow direction to emerge from within rather than seeking it externally. This gate operates within the **Individual Knowing Circuit**, which means it carries the potential for **mutation through receptive awareness**.
 
-**"Gate 2 is the receptivity of the Self. It is not passive—it is the active receptivity that allows you to know where you are going without having to think about it. It is your geometry operating correctly."** — Ra Uru Hu
+**"Gate 2 is the receptivity of the Self. It is not passive—it is the active receptivity that allows you to know where you are going without having to think about it. It is your geometry operating correctly."** — Ra Uru Hu[^1]
 
 The keynote is **direction through receptivity**. Unlike Gate 1's initiating creative force, Gate 2 **receives** the impulse and orients the self accordingly. This is the yin to Gate 1's yang—not opposing forces, but complementary principles within the G Center's function of identity and direction.
 

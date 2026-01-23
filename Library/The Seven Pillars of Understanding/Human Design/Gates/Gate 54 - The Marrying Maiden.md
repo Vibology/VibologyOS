@@ -2,6 +2,10 @@
 tags: [human-design, gates, root-center, pressure, tribal, ego-circuit, ambition, drive]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 54
 hexagram_name: The Marrying Maiden
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 54 is located in the **Root Center** and represents
 
 Ra taught that Gate 54 operates within the **Tribal Ego Circuit**, which means it serves the tribe's need for **hierarchical structure and resource management**. This is the gate of the climber, the striver, the one who says "I want more" and works to achieve it.
 
-**"Gate 54 is the Marrying Maiden—the one who climbs the social ladder through strategic alliance. This is tribal ambition: the pressure to rise from peasant to merchant, from merchant to nobility, from this world to the next. It's not greed; it's survival instinct dressed in aspiration. Without this pressure, the tribe stagnates; with it, progress becomes possible."** — Ra Uru Hu
+**"Gate 54 is the Marrying Maiden—the one who climbs the social ladder through strategic alliance. This is tribal ambition: the pressure to rise from peasant to merchant, from merchant to nobility, from this world to the next. It's not greed; it's survival instinct dressed in aspiration. Without this pressure, the tribe stagnates; with it, progress becomes possible."** — Ra Uru Hu[^1]
 
 The keynote here is **ambition as biological pressure**. This is the Root Center's drive directed toward **upward mobility** in all its forms—material, social, and spiritual.
 

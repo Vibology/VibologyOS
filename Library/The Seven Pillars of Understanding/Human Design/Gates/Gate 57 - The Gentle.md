@@ -2,6 +2,10 @@
 tags: [human-design, gates, spleen-center, intuition, individual, knowing-circuit, clarity, present-moment]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 57
 hexagram_name: The Gentle
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 57 is located in the **Spleen Center** and represen
 
 Ra taught that Gate 57 operates within the **Individual Knowing Circuit**, which means it carries the **mutative frequency of intuitive awareness**. This is the gate of the clairaudient, the one who "hears" what others cannot, the voice that whispers "This is safe" or "This is dangerous—now."
 
-**"Gate 57 is The Gentle—penetrating like wind through cracks. This is acoustic intuition: you hear it. Not with your ears, but in your body. It's the sudden knowing that says 'Not now' or 'Yes, this moment.' But here's the catch: it only speaks once, in the now. If you miss it, it's gone. Splenic intuition doesn't repeat itself."** — Ra Uru Hu
+**"Gate 57 is The Gentle—penetrating like wind through cracks. This is acoustic intuition: you hear it. Not with your ears, but in your body. It's the sudden knowing that says 'Not now' or 'Yes, this moment.' But here's the catch: it only speaks once, in the now. If you miss it, it's gone. Splenic intuition doesn't repeat itself."** — Ra Uru Hu[^1]
 
 The keynote here is **intuitive clarity in the present**. This is the Spleen Center's capacity to **know without thinking**, to sense danger or correctness through a frequency that bypasses the mind.
 

@@ -2,6 +2,10 @@
 tags: [human-design, gates, sacral, individual, knowing-circuit, mutation, ordering, innovation]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 3
 hexagram_name: Difficulty at the Beginning
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 3 in the Sacral Center represents **the pulse of mu
 
 Ra taught that Gate 3 is the **ordering principle within chaos**. When mutation occurs (the bringing forth of something unprecedented), there is always initial confusion, resistance, or overwhelm. Gate 3 is the Sacral response that says "yes" to moving through that confusion to establish new order.
 
-**"Gate 3 is the difficulty at the beginning. It's the pressure to innovate, to bring forth the new mutation. But every mutation meets resistance—from the body, from the environment, from the collective. This gate is about having the life force to push through that resistance."** — Ra Uru Hu
+**"Gate 3 is the difficulty at the beginning. It's the pressure to innovate, to bring forth the new mutation. But every mutation meets resistance—from the body, from the environment, from the collective. This gate is about having the life force to push through that resistance."** — Ra Uru Hu[^1]
 
 The keynote is **ordering through challenge**. This is the Sacral's capacity to respond to the chaos of new beginnings and sustain the energy needed to bring order out of confusion. This is mutation made manifest through life force.
 

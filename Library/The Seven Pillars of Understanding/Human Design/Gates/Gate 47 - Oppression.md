@@ -2,6 +2,10 @@
 tags: [human-design, gates, ajna-center, collective, understanding-circuit, mental-pressure, realization]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 47
 hexagram_name: Oppression
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 47 is located in the Ajna Center and represents **t
 
 Ra taught that Gate 47 operates within the **Collective Understanding Circuit (Logic)**, which means it carries the pressure to **abstract meaning from past experiences** and make them comprehensible for the collective. This is not emotional processing or instinctual response—it is **mental pressure** seeking resolution.
 
-**"Gate 47 is mental pressure. It is the pressure to realize, to understand, to make sense of what has happened. It is the head under pressure, contemplating until clarity emerges. Without Gate 64, it remains pressure. With Gate 64, it becomes realization."** — Ra Uru Hu
+**"Gate 47 is mental pressure. It is the pressure to realize, to understand, to make sense of what has happened. It is the head under pressure, contemplating until clarity emerges. Without Gate 64, it remains pressure. With Gate 64, it becomes realization."** — Ra Uru Hu[^1]
 
 The keynote here is **mental oppression seeking liberation**. The I-Ching name "Oppression" reflects the **constricted mental state** that precedes breakthrough—the pressure that builds until realization occurs.
 

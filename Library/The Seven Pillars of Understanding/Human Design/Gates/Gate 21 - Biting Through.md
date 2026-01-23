@@ -2,6 +2,10 @@
 tags: [human-design, gates, ego, tribal, ego-circuit, control, authority, power, resources]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 21
 hexagram_name: Biting Through
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 21 in the Heart (Ego) Center represents **the power
 
 Ra taught that Gate 21 belongs to the **Tribal Ego Circuit**, which means this power is fundamentally about **material survival and resource management**. This is not abstract power or spiritual authority—it is the **concrete capacity to control access to resources**, to enforce boundaries, and to ensure that the tribe's material needs are met.
 
-**"Gate 21 is about control. It's the Hunter, the one who goes out and gets the resources, and if something gets in the way, you bite through it. This is tribal power—it's not about being nice, it's about survival."** — Ra Uru Hu
+**"Gate 21 is about control. It's the Hunter, the one who goes out and gets the resources, and if something gets in the way, you bite through it. This is tribal power—it's not about being nice, it's about survival."** — Ra Uru Hu[^1]
 
 The keynote is **justified and necessary power**. Gate 21 does not seek control for its own sake but applies force when required to **overcome interference** and secure material well-being. This is the power that bites through obstacles.
 

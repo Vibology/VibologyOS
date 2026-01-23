@@ -2,6 +2,10 @@
 tags: [human-design, gates, spleen, collective, logic-circuit, correction, integrity, perfection, authority, judgment]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 18
 hexagram_name: Work on What Has Been Spoilt
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 18 is located in the Spleen Center and represents *
 
 Ra taught that Gate 18 operates within the **Collective Logic Circuit**, which means it carries **pattern-based correction**. This gate enables the individual to recognize when patterns deviate from integrity, when authority becomes corrupt, when systems decay—and to work persistently toward correction. However, this awareness is also rooted in the **Spleen's fear of authority**, the survival instinct that recognizes danger in corrupt power.
 
-**"Gate 18 is about correction—the determination to fix what's been spoiled. But it's also the fear of authority. You see what's wrong, you know what needs to be fixed, and you're afraid of the power that created the corruption in the first place. This is the gate of the reformer, the one who challenges the king, who points out the decay in the system. But fear comes with that—because authority doesn't like being challenged."** — Ra Uru Hu
+**"Gate 18 is about correction—the determination to fix what's been spoiled. But it's also the fear of authority. You see what's wrong, you know what needs to be fixed, and you're afraid of the power that created the corruption in the first place. This is the gate of the reformer, the one who challenges the king, who points out the decay in the system. But fear comes with that—because authority doesn't like being challenged."** — Ra Uru Hu[^1]
 
 The keynote here is **vigilant correction balanced with fear of authority**. This is the Spleen Center's capacity to recognize systemic decay instinctually and work toward perfection, while navigating the survival fear that arises from challenging power.
 

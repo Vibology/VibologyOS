@@ -2,6 +2,10 @@
 tags: [human-design, gates, sacral, collective, sensing-circuit, commitment, perseverance, saying-yes]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 29
 hexagram_name: The Abysmal
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 29 in the Sacral Center represents **the power to s
 
 Ra taught that Gate 29 belongs to the **Collective Sensing (Abstract) Circuit**, which means this commitment serves **the evolution of human experience**. This is not tribal loyalty or individual mutation—it is **the Sacral saying yes to experiences that teach**, that deepen understanding, that contribute to collective wisdom through lived engagement.
 
-**"Gate 29 is about saying yes—it's the deep 'yes,' the commitment. And it's Sacral, so it has to respond. When you say yes from this gate, you're in it, you're committed, and you have to go through it to the end. It's about perseverance."** — Ra Uru Hu
+**"Gate 29 is about saying yes—it's the deep 'yes,' the commitment. And it's Sacral, so it has to respond. When you say yes from this gate, you're in it, you're committed, and you have to go through it to the end. It's about perseverance."** — Ra Uru Hu[^1]
 
 The keynote is **the deep within the deep**. Gate 29 does not commit superficially—it **plunges into the abyss**, and once in, it perseveres through darkness, difficulty, and depth until the experience is complete and wisdom is earned.
 

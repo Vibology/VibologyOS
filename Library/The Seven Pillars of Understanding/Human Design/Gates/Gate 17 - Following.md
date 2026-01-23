@@ -2,6 +2,10 @@
 tags: [human-design, gates, ajna, collective, logic-circuit, opinions, organization, service, following]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 17
 hexagram_name: Following
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 17 is located in the Ajna Center and represents **m
 
 Ra taught that Gate 17 operates within the **Collective Logic Circuit**, which means it carries **pattern-based opinion formation**. This gate enables the individual to recognize that true authority comes from *understanding* the patterns deeply enough to serve them—that one cannot lead what one does not comprehend through sustained observation.
 
-**"Gate 17 is about opinions—not emotional opinions, but logical opinions based on pattern recognition. You observe, you see what works and what doesn't, and you formulate an opinion about how things should be organized. But the ancient law says: those who wish to rule must know how to serve. You can't have an opinion about something you haven't served, haven't observed, haven't followed."** — Ra Uru Hu
+**"Gate 17 is about opinions—not emotional opinions, but logical opinions based on pattern recognition. You observe, you see what works and what doesn't, and you formulate an opinion about how things should be organized. But the ancient law says: those who wish to rule must know how to serve. You can't have an opinion about something you haven't served, haven't observed, haven't followed."** — Ra Uru Hu[^1]
 
 The keynote here is **mental organization through service to patterns**. This is the Ajna Center's capacity to formulate opinions that *serve the collective* by organizing observable reality into logical frameworks.
 

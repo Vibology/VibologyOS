@@ -2,6 +2,10 @@
 tags: [human-design, gates, g-center, collective, logic-circuit, modesty, extremes, rhythm, humanity]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 15
 hexagram_name: Modesty
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 15 is located in the G Center and represents **the 
 
 Ra taught that Gate 15 operates within the **Collective Logic Circuit**, which means it carries **pattern recognition across the human experience**. This gate enables the individual to understand humanity's diversity by *living* the extremes themselves—experiencing the full range of human behavior in order to recognize that all patterns are part of the collective flow.
 
-**"Gate 15 is about extremes. It's the love of humanity that comes from experiencing all the different patterns of human behavior. You can't judge what you've lived yourself. This is the gate that makes you magnetic because you've been everywhere, done everything—you understand the full spectrum."** — Ra Uru Hu
+**"Gate 15 is about extremes. It's the love of humanity that comes from experiencing all the different patterns of human behavior. You can't judge what you've lived yourself. This is the gate that makes you magnetic because you've been everywhere, done everything—you understand the full spectrum."** — Ra Uru Hu[^1]
 
 The keynote here is **love through experiential understanding**. This is the G Center's capacity to embody humanity's patterns so fully that judgment becomes impossible—replaced by compassionate recognition of the diversity of human expression.
 

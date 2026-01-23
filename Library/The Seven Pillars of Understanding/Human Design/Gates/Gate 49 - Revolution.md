@@ -2,6 +2,10 @@
 tags: [human-design, gates, solar-plexus, tribal, ego-circuit, revolution, principles]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 49
 hexagram_name: Revolution
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 49 is located in the Solar Plexus Center and repres
 
 Ra taught that Gate 49 operates within the **Tribal Ego Circuit (Defense)**, which means it carries the emotional pressure to **protect tribal integrity** through revolutionary change. This is not logical reform or individual rebellion—it is **emotionally-driven revolution** based on tribal principles.
 
-**"Gate 49 is revolution. It is the emotional sensitivity that says 'This is not right. This must change.' It is the principle—the tribal law written in the heart. When Gate 49 is activated, revolution is not optional—it is necessary."** — Ra Uru Hu
+**"Gate 49 is revolution. It is the emotional sensitivity that says 'This is not right. This must change.' It is the principle—the tribal law written in the heart. When Gate 49 is activated, revolution is not optional—it is necessary."** — Ra Uru Hu[^1]
 
 The keynote here is **emotional sensitivity to injustice**. The I-Ching name "Revolution" reflects the **overturning of what no longer serves**—the willingness to reject, divorce, or transform relationships and structures that violate tribal principles.
 

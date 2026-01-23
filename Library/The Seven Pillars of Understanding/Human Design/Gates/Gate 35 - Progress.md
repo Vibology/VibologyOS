@@ -2,6 +2,10 @@
 tags: [human-design, gates, throat, collective, abstract-circuit, experience, change]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 35
 hexagram_name: Progress
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 35 is located in the Throat Center and represents *
 
 Ra taught that Gate 35 operates within the **Collective Abstract/Sensing Circuit**, which means it carries the energy of **experiential learning**—the wisdom that emerges only through living, feeling, and reflecting on the emotional journey. This is not logical analysis or individual mutation—it is collective evolution through shared experience.
 
-**"Gate 35 is hunger for experience. It says 'I feel' because it must taste life to know it. Without Gate 36, this hunger has no emotional depth—just craving without crisis."** — Ra Uru Hu
+**"Gate 35 is hunger for experience. It says 'I feel' because it must taste life to know it. Without Gate 36, this hunger has no emotional depth—just craving without crisis."** — Ra Uru Hu[^1]
 
 The keynote here is **hunger as spiritual necessity**—the need for new experience is not greed but the evolutionary impulse toward growth through change.
 

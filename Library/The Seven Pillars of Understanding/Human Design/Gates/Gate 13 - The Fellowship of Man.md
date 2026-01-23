@@ -2,6 +2,10 @@
 tags: [human-design, gates, g-center, collective, sharing-circuit, listening, witness, universal-stories]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 13
 hexagram_name: The Fellowship of Man
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 13 in the G Center represents **the listener**—th
 
 Ra taught that Gate 13 belongs to the **Collective Sharing Circuit**, which means it operates to **gather, organize, and transmit universal patterns** of human experience. This gate listens not to respond or fix, but to **witness and document**—to be the keeper of collective memory, the one who hears "I've been through this" and recognizes the pattern as part of the human tapestry.
 
-**"Gate 13 is The Fellowship of Man—it's about listening to people's stories, to their experiences. Not to judge or fix, but to witness. This is the gate that hears the collective human experience and says, 'Yes, I understand. This is part of what it means to be human.'"** — Ra Uru Hu
+**"Gate 13 is The Fellowship of Man—it's about listening to people's stories, to their experiences. Not to judge or fix, but to witness. This is the gate that hears the collective human experience and says, 'Yes, I understand. This is part of what it means to be human.'"** — Ra Uru Hu[^1]
 
 The keynote is **listening as witness to the collective**. This is the G Center's capacity to hold direction not just for the self, but for **humanity**—to hear the universal themes in individual stories and to recognize that all human experience is interconnected.
 

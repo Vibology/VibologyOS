@@ -2,6 +2,10 @@
 tags: [human-design, gates, g-center, collective, understanding-circuit, love, embodiment]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 46
 hexagram_name: Pushing Upward
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 46 is located in the G Center and represents **the 
 
 Ra taught that Gate 46 operates within the **Collective Understanding Circuit (Logic)**, which means it carries the capacity to **demonstrate the perfection of physical form** through lived experience. This is not intellectual understanding or emotional ecstasy—it is the **somatic celebration** of being incarnate.
 
-**"Gate 46 is the love of the body. It is the determination of the self to be here, in form, fully present. It is the gate of serendipity—being in the right place at the right time because you love being in your body."** — Ra Uru Hu
+**"Gate 46 is the love of the body. It is the determination of the self to be here, in form, fully present. It is the gate of serendipity—being in the right place at the right time because you love being in your body."** — Ra Uru Hu[^1]
 
 The keynote here is **serendipity through embodiment**. When the individual loves their body and inhabits it fully, they move through space in ways that create **synchronistic encounters**—being exactly where they need to be, meeting the right people, experiencing the right events.
 

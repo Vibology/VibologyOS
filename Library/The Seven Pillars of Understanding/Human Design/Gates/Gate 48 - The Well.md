@@ -2,6 +2,10 @@
 tags: [human-design, gates, spleen-center, collective, understanding-circuit, depth, resources]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 48
 hexagram_name: The Well
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 48 is located in the Spleen Center and represents *
 
 Ra taught that Gate 48 operates within the **Collective Understanding Circuit (Logic)**, which means it carries the awareness of **whether resources (material, intellectual, or energetic) are adequate**. This is not about accumulation but about **depth**—knowing if the well is deep enough to sustain what is being attempted.
 
-**"Gate 48 is the well. It asks: 'Is there enough depth here? Do we have the resources to sustain this? Is the foundation solid?' It is the fear of inadequacy—the fear that the well will run dry."** — Ra Uru Hu
+**"Gate 48 is the well. It asks: 'Is there enough depth here? Do we have the resources to sustain this? Is the foundation solid?' It is the fear of inadequacy—the fear that the well will run dry."** — Ra Uru Hu[^1]
 
 The keynote here is **depth and adequacy**. The I-Ching name "The Well" reflects the **central resource** that sustains the community—it must be deep enough, clean enough, and accessible to all.
 

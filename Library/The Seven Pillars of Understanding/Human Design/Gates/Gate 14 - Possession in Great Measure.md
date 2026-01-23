@@ -2,6 +2,10 @@
 tags: [human-design, gates, sacral, individual, centering-circuit, power, resources, skill, mastery]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 14
 hexagram_name: Possession in Great Measure
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 14 in the Sacral Center represents **power through 
 
 Ra taught that Gate 14 belongs to the **Individual Centering Circuit**, which means this power serves **empowerment through example**—not to lead or teach didactically, but to demonstrate what is possible when one masters a craft, skill, or resource. This is **power as competence**, not domination.
 
-**"Gate 14 is Possession in Great Measure—it's about having the skills, the resources, the power to do the work. But it's Individual, so it's not about leading others or telling them what to do. It's about empowering through example—'Look what I can do when I master this.'"** — Ra Uru Hu
+**"Gate 14 is Possession in Great Measure—it's about having the skills, the resources, the power to do the work. But it's Individual, so it's not about leading others or telling them what to do. It's about empowering through example—'Look what I can do when I master this.'"** — Ra Uru Hu[^1]
 
 The keynote is **power as resource for empowerment**. This is the Sacral's capacity to generate sustained energy for **work that builds mastery**, creating resources that can then be shared or used to inspire others.
 

@@ -2,6 +2,10 @@
 tags: [human-design, gates, throat, integration, awareness, now, presence, contemplation, action, self-assurance]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 20
 hexagram_name: Contemplation
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 20 is located in the Throat Center and represents *
 
 Ra taught that Gate 20 operates within the **Integration Circuit**, which means it carries **individual empowerment expressed through present-moment awareness**. This gate enables the individual to recognize the now and to *speak* or *act* from that recognition—but this awareness is existential, rooted in the lived experience of being here, in this body, in this moment.
 
-**"Gate 20 is the voice of the now. It's not about thinking about the past or planning the future—it's about recognizing what's happening right now and expressing it. This is the gate of presence made manifest. You see what is, and you say it, you embody it. But it's Integration circuit, so it's about your presence empowering you, not leading others."** — Ra Uru Hu
+**"Gate 20 is the voice of the now. It's not about thinking about the past or planning the future—it's about recognizing what's happening right now and expressing it. This is the gate of presence made manifest. You see what is, and you say it, you embody it. But it's Integration circuit, so it's about your presence empowering you, not leading others."** — Ra Uru Hu[^1]
 
 The keynote here is **existential awareness in the now**. This is the Throat Center's capacity to express **self-assurance** born from being fully present, from recognizing reality as it is and manifesting that recognition through voice and action.
 

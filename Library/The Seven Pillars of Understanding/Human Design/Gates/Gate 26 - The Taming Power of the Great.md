@@ -2,6 +2,10 @@
 tags: [human-design, gates, ego, tribal, ego-circuit, memory, influence, trickster, salesperson]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 26
 hexagram_name: The Taming Power of the Great
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 26 in the Heart (Ego) Center represents **the power
 
 Ra taught that Gate 26 belongs to the **Tribal Ego Circuit**, which means this memory serves **material survival and tribal support**. This is not abstract historical knowledge—it is **memory of what sells, what works, what convinces**, applied to ensure the tribe's resources and continuity.
 
-**"Gate 26 is the trickster, the salesperson—it's about using memory, using history, to influence. 'This worked before, so buy this, do this.' It's tribal ego, so it's about survival through clever use of what you remember."** — Ra Uru Hu
+**"Gate 26 is the trickster, the salesperson—it's about using memory, using history, to influence. 'This worked before, so buy this, do this.' It's tribal ego, so it's about survival through clever use of what you remember."** — Ra Uru Hu[^1]
 
 The keynote is **maximization of memory applied to nurturing continuity**. Gate 26 does not invent—it **remembers, refines, and repackages** what has proven valuable, selling it to the tribe to ensure survival.
 

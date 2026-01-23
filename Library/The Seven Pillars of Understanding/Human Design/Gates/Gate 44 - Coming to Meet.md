@@ -2,6 +2,10 @@
 tags: [human-design, gates, spleen-center, tribal, ego-circuit, survival, instinct]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 44
 hexagram_name: Coming to Meet
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 44 is located in the Spleen Center and represents *
 
 Ra taught that Gate 44 operates within the **Tribal Ego Circuit (Defense)**, which means it carries the instinct to **protect the tribe's well-being** through recognition of historical patterns. This is not mental memory or emotional nostalgia—it is **somatic, instinctual pattern recognition** that says "I've been here before."
 
-**"Gate 44 is the gatherer. It gathers the past—not intellectually, but instinctually. It remembers what happened last time this pattern emerged. And it says to the tribe: 'Be careful. I know this. I've seen this before.'"** — Ra Uru Hu
+**"Gate 44 is the gatherer. It gathers the past—not intellectually, but instinctually. It remembers what happened last time this pattern emerged. And it says to the tribe: 'Be careful. I know this. I've seen this before.'"** — Ra Uru Hu[^1]
 
 The keynote here is **survival memory**. The I-Ching name "Coming to Meet" reflects the **re-encountering of familiar patterns**—the past meeting the present. Gate 44 alerts the tribe when history is repeating itself, allowing for informed decisions based on collective experience.
 

@@ -2,6 +2,10 @@
 tags: [human-design, gates, root, individual, knowing-circuit, struggle, fighter]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 38
 hexagram_name: Opposition
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 38 is located in the Root Center and represents **t
 
 Ra taught that Gate 38 operates within the **Individual Knowing Circuit**, which means it carries the energy of **individual struggle for purpose**—not collective pattern recognition or tribal support, but the lone fighter's quest to find what is worth fighting for.
 
-**"Gate 38 is the fighter. It's the pressure to oppose, to struggle, to find what's worth the fight. Without Gate 28, this opposition has no meaning—just struggle without purpose."** — Ra Uru Hu
+**"Gate 38 is the fighter. It's the pressure to oppose, to struggle, to find what's worth the fight. Without Gate 28, this opposition has no meaning—just struggle without purpose."** — Ra Uru Hu[^1]
 
 The keynote here is **opposition as preservation**—the individual fights not to dominate but to maintain integrity, to stand for principle, to refuse meaninglessness.
 

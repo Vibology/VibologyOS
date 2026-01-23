@@ -2,6 +2,10 @@
 tags: [human-design, gates, solar-plexus, tribal, ego-circuit, family, friendship, bargains]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 37
 hexagram_name: The Family
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 37 is located in the Solar Plexus Center and repres
 
 Ra taught that Gate 37 operates within the **Tribal Ego Circuit**, which means it carries the energy of **support and resource exchange**—ensuring the tribe (family, business, community) survives through emotional bonding and reciprocal agreements. This is not individual empowerment or collective universality—this is tribal intimacy: "We take care of each other."
 
-**"Gate 37 is the family. It's friendship through bargains—I'll do this for you, you do that for me. Without Gate 40, this friendship has no will to provide. It's just emotional attachment without action."** — Ra Uru Hu
+**"Gate 37 is the family. It's friendship through bargains—I'll do this for you, you do that for me. Without Gate 40, this friendship has no will to provide. It's just emotional attachment without action."** — Ra Uru Hu[^1]
 
 The keynote here is **equality through exchange**—friendship is not one-sided dependence but mutual support, fair bargaining, emotional reciprocity.
 

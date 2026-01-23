@@ -2,6 +2,10 @@
 tags: [human-design, gates, g-center, integration, centering-circuit, behavior, self-love, interaction]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 10
 hexagram_name: Treading
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 10 in the G Center represents **the underlying code
 
 Ra taught that Gate 10 is fundamentally about **loving oneself enough to behave correctly**—not morally "correct" in a judgmental sense, but behaviorally aligned with one's authentic design. This is the capacity to **be oneself in interaction** without apology, knowing that one's natural behavior is valid simply because it is authentic.
 
-**"Gate 10 is Treading—it's about behavior, how you move through life, how you interact. But it's not about following rules or trying to be liked. It's about loving yourself enough to be yourself, and trusting that your natural behavior is correct."** — Ra Uru Hu
+**"Gate 10 is Treading—it's about behavior, how you move through life, how you interact. But it's not about following rules or trying to be liked. It's about loving yourself enough to be yourself, and trusting that your natural behavior is correct."** — Ra Uru Hu[^1]
 
 The keynote is **behavior as self-love**. This is the G Center's capacity to know "How do I naturally behave?" and to honor that behavior without needing external validation or conforming to collective norms.
 

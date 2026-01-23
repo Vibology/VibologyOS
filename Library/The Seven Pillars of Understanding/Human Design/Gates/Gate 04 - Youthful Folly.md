@@ -2,6 +2,10 @@
 tags: [human-design, gates, ajna, collective, logic-circuit, mental, understanding, formulation]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 4
 hexagram_name: Youthful Folly
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 4 in the Ajna Center represents **the energy to for
 
 Ra taught that Gate 4 is fundamentally about **mental ease mixed with doubt**. It is the mind's drive to answer questions, to create formulas, to establish mental order—but it operates in the tension between **not-knowing (folly) and the urgency to know**.
 
-**"Gate 4 is Youthful Folly. It's the mind that says 'I don't know, but I'll figure it out.' It's the energy to formulate answers, to create mental frameworks, even when you're essentially guessing. It's beguiling—you can sound like you know what you're talking about, even when you don't."** — Ra Uru Hu
+**"Gate 4 is Youthful Folly. It's the mind that says 'I don't know, but I'll figure it out.' It's the energy to formulate answers, to create mental frameworks, even when you're essentially guessing. It's beguiling—you can sound like you know what you're talking about, even when you don't."** — Ra Uru Hu[^1]
 
 The keynote is **formulization through mental agility**. This is the Ajna's capacity to create patterns, answers, and frameworks that organize experience—but without guaranteeing that those formulas are correct. This is the double-edged sword of the mental center: clarity through conceptualization, or delusion through premature certainty.
 

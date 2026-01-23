@@ -2,6 +2,10 @@
 tags: [human-design, gates, g-center, individual, centering-circuit, innocence, universal-love, spirit]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 25
 hexagram_name: Innocence
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 25 in the G Center represents **the spirit of the s
 
 Ra taught that Gate 25 belongs to the **Individual Centering Circuit**, which means this spirit is **not for saving or healing others** but for embodying innocence as example. This is **love that does not rescue or fix**—it simply exists, radiating the perfection of being.
 
-**"Gate 25 is the spirit of the Self—it's innocence, it's Universal Love. But it's Individual, so it's not about loving everyone or being a saint. It's about being in love with existence itself, and that's your gift."** — Ra Uru Hu
+**"Gate 25 is the spirit of the Self—it's innocence, it's Universal Love. But it's Individual, so it's not about loving everyone or being a saint. It's about being in love with existence itself, and that's your gift."** — Ra Uru Hu[^1]
 
 The keynote is **the perfection of action through uncontrived and spontaneous nature**. Gate 25 does not calculate love or strategize compassion—it simply **is**, and that beingness is inherently loving.
 

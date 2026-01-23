@@ -2,6 +2,10 @@
 tags: [human-design, gates, root, tribal, ego-circuit, approach, wanting, sensitivity, needs, resources]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 19
 hexagram_name: Approach
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 19 is located in the Root Center and represents **t
 
 Ra taught that Gate 19 operates within the **Tribal Ego Circuit**, which means it carries **pressure for material support and resource exchange**. This gate enables the individual to recognize what others need and to approach them with offerings of support—but this approach is driven by the Root's pressure, creating a dynamic where the individual feels compelled to be needed in order to ensure their own place in the tribe.
 
-**"Gate 19 is about sensitivity to needs—not your own needs, but the needs of others. You feel pressure to approach, to offer, to be the one who provides what's missing. But this is tribal—it's about survival. You want to be needed because being needed means you have a place, you have security. This is the gate of the caretaker who can't stop caring because stopping means being alone."** — Ra Uru Hu
+**"Gate 19 is about sensitivity to needs—not your own needs, but the needs of others. You feel pressure to approach, to offer, to be the one who provides what's missing. But this is tribal—it's about survival. You want to be needed because being needed means you have a place, you have security. This is the gate of the caretaker who can't stop caring because stopping means being alone."** — Ra Uru Hu[^1]
 
 The keynote here is **pressure to approach with sensitivity to needs**. This is the Root Center's pressure applied to **tribal interdependence**, the recognition that survival requires mutual support and that one's value is proven through meeting others' needs.
 

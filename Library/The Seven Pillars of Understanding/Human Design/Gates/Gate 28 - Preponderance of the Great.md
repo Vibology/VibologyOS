@@ -2,6 +2,10 @@
 tags: [human-design, gates, spleen, individual, knowing-circuit, struggle, meaning, game-player, risk]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 28
 hexagram_name: Preponderance of the Great
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 28 in the Spleen Center represents **the instinctua
 
 Ra taught that Gate 28 belongs to the **Individual Knowing Circuit**, which means this struggle is **not for collective causes or tribal loyalty** but for personal meaning. This is **the warrior's path**—fighting not because victory is guaranteed but because the fight itself gives life purpose.
 
-**"Gate 28 is about struggle, about knowing that everything is transitory—power, influence, life itself—and still being willing to play the game. It's Individual, so you're not fighting for others, you're fighting for meaning, for your own purpose."** — Ra Uru Hu
+**"Gate 28 is about struggle, about knowing that everything is transitory—power, influence, life itself—and still being willing to play the game. It's Individual, so you're not fighting for others, you're fighting for meaning, for your own purpose."** — Ra Uru Hu[^1]
 
 The keynote is **transitoriness of power and influence**. Gate 28 knows that nothing lasts, and this awareness creates the pressure to **find meaning before the game ends**, to struggle for something that matters even if it's temporary.
 

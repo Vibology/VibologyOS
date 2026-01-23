@@ -2,6 +2,10 @@
 tags: [human-design, gates, ajna-center, individual, knowing-circuit, insight, mutation]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 43
 hexagram_name: Breakthrough
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 43 is located in the Ajna Center and represents **t
 
 Ra taught that Gate 43 operates within the **Individual Knowing Circuit**, which means it carries **unique insight**—the capacity to know something in a way that has never been known before. This is the gate of the **genius**, the innovator, the one whose inner knowing challenges established mental patterns.
 
-**"Gate 43 is breakthrough. It is the inner ear—the capacity to hear what others cannot hear. It is the knowing that emerges from within, not from external authority. And when it speaks, it says something that has never been said before."** — Ra Uru Hu
+**"Gate 43 is breakthrough. It is the inner ear—the capacity to hear what others cannot hear. It is the knowing that emerges from within, not from external authority. And when it speaks, it says something that has never been said before."** — Ra Uru Hu[^1]
 
 The keynote here is **mutation through revelation**. This is the Ajna's pressure to **restructure mental patterns** through sudden insight. Gate 43 does not build knowledge incrementally—it **leaps**, it breaks through, it reveals what was hidden.
 

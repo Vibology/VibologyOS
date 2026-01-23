@@ -2,6 +2,10 @@
 tags: [human-design, gates, throat, individual, knowing-circuit, caution, articulation, mutation]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 12
 hexagram_name: Standstill
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 12 in the Throat Center represents **the mutative v
 
 Ra taught that Gate 12 is part of the **Individual Knowing Circuit**, which means this caution carries **mutation**—it is not collective wisdom or tribal tradition, but a unique, Individual frequency that knows when to pause, when to refrain, when to resist momentum. Without Gate 22 (Grace) in the Solar Plexus Center, this caution remains **unexpressed or unemotional**, purely mental or mechanical.
 
-**"Gate 12 is Standstill—it's the voice that says 'wait' or 'no.' But it's not about being negative. It's about recognizing when movement would be incorrect, when the mutation needs time. This is caution as a gift, not a limitation."** — Ra Uru Hu
+**"Gate 12 is Standstill—it's the voice that says 'wait' or 'no.' But it's not about being negative. It's about recognizing when movement would be incorrect, when the mutation needs time. This is caution as a gift, not a limitation."** — Ra Uru Hu[^1]
 
 The keynote is **caution as mutative articulation**. This is the Throat's capacity to express restraint, to speak the unpopular truth that **now is not the time**, and to hold the line against collective pressure to act prematurely.
 

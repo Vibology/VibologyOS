@@ -2,6 +2,10 @@
 tags: [human-design, gates, sacral, collective, logic-circuit, rhythm, patience, timing]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 5
 hexagram_name: Waiting
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 5 in the Sacral Center represents **the capacity to
 
 Ra taught that Gate 5 is fundamentally about **rhythm**—the recognition that life moves in patterns, seasons, and cycles. The individual with this gate has the Sacral energy to **wait for the correct timing** rather than forcing action prematurely. This is the pulse of nature itself operating through the body.
 
-**"Gate 5 is Waiting. It's not sitting around doing nothing—it's the active attunement to rhythm. You wait for the harvest, you wait for fertility, you wait for the tide. It's the recognition that life has its own timing, and your Sacral is designed to respond when that timing is correct."** — Ra Uru Hu
+**"Gate 5 is Waiting. It's not sitting around doing nothing—it's the active attunement to rhythm. You wait for the harvest, you wait for fertility, you wait for the tide. It's the recognition that life has its own timing, and your Sacral is designed to respond when that timing is correct."** — Ra Uru Hu[^1]
 
 The keynote is **fixed patterns and rhythm**. This is the Sacral's capacity to recognize and honor cyclical timing—daily rhythms, seasonal patterns, menstrual cycles, creative cycles. This gate teaches that **correct timing is everything**.
 

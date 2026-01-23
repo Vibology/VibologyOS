@@ -2,6 +2,10 @@
 tags: [human-design, gates, throat, individual, knowing-circuit, assimilation, expression, mutation]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 23
 hexagram_name: Splitting Apart
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 23 in the Throat Center represents **the power to k
 
 Ra taught that Gate 23 belongs to the **Individual Knowing Circuit**, which means this expression is **amoral**—it does not conform to collective morality or tribal loyalty. Gate 23 speaks what it knows, and **whether others accept or reject it is irrelevant**. This is the voice of mutation, the freak, the one who sees differently.
 
-**"Gate 23 is about knowing, and when you know, you have to say it. But you can't force people to listen. This is Individual—you're not here to teach, you're here to express. If they get it, great. If they don't, that's not your problem."** — Ra Uru Hu
+**"Gate 23 is about knowing, and when you know, you have to say it. But you can't force people to listen. This is Individual—you're not here to teach, you're here to express. If they get it, great. If they don't, that's not your problem."** — Ra Uru Hu[^1]
 
 The keynote is **assimilation**. Gate 23 does not speak immediately—it waits for the insight to **split apart and be fully understood** before articulating. When it speaks, it may fracture consensus, disturb comfort, or introduce mutation.
 

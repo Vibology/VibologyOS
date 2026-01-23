@@ -2,6 +2,10 @@
 tags: [human-design, gates, throat, collective, logic-circuit, leadership]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 31
 hexagram_name: Influence
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 31 is located in the Throat Center and represents *
 
 Ra taught that Gate 31 operates within the **Collective Logic Circuit**, which means it carries the energy of **pattern recognition** applied to leadership. This is not tribal hierarchy (which would be Ego-based) or individual mutation—it is collective democracy: leadership that must earn its influence through demonstrated pattern understanding and logical articulation.
 
-**"Gate 31 is the voice that says 'I lead.' But it only leads when Gate 7 empowers it. Without Gate 7, Gate 31 is just talking—influential speech without direction or backing."** — Ra Uru Hu
+**"Gate 31 is the voice that says 'I lead.' But it only leads when Gate 7 empowers it. Without Gate 7, Gate 31 is just talking—influential speech without direction or backing."** — Ra Uru Hu[^1]
 
 The keynote here is **influence through friction**. Leadership emerges when the voice rubs against resistance, when ideas must be tested in the collective field. This is the democratic leader who must convince, not command.
 

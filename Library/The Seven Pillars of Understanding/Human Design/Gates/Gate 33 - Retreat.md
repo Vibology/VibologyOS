@@ -2,6 +2,10 @@
 tags: [human-design, gates, throat, collective, abstract-circuit, memory, privacy]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 33
 hexagram_name: Retreat
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 33 is located in the Throat Center and represents *
 
 Ra taught that Gate 33 operates within the **Collective Abstract/Sensing Circuit**, which means it carries the energy of **experiential wisdom**—learning through lived experience, reflecting on the past, and sharing those reflections to enrich collective understanding. This is not logical pattern recognition or individual mutation—it is collective memory: the stories that teach us what it means to be human.
 
-**"Gate 33 is privacy. It withdraws to process experience, and then it shares the story. Without Gate 13 to listen, Gate 33's memories remain private—beautiful, but unshared."** — Ra Uru Hu
+**"Gate 33 is privacy. It withdraws to process experience, and then it shares the story. Without Gate 13 to listen, Gate 33's memories remain private—beautiful, but unshared."** — Ra Uru Hu[^1]
 
 The keynote here is **strategic retreat**—not cowardice or avoidance, but the conscious withdrawal necessary to transform experience into wisdom. Privacy is the incubator of meaningful reflection.
 

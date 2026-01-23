@@ -2,6 +2,10 @@
 tags: [human-design, gates, root-center, collective, abstract-circuit, knowing, imagination]
 system: Human Design
 date_created: 2026-01-16
+source: NotebookLM Esoteric Grimoire
+source_verified: true
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 41
 hexagram_name: Decrease
@@ -21,7 +25,7 @@ According to Ra Uru Hu, Gate 41 is located in the Root Center and represents **t
 
 Ra taught that Gate 41 operates within the **Collective Abstract Circuit (Sensing Stream)**, which means it carries the pressure to **feel into the future**—to imagine experiences that have not yet happened and to fuel the drive toward them. This is not logical planning or tribal survival instinct; it is the **emotional-imaginative anticipation** of what could be.
 
-**"Gate 41 is the beginning. It is the motor of the experiential way. Without Gate 41, there is no fuel for new experience. It is the decreasing—the withdrawal of energy into fantasy and imagination—that precedes the bursting forth into manifestation."** — Ra Uru Hu
+**"Gate 41 is the beginning. It is the motor of the experiential way. Without Gate 41, there is no fuel for new experience. It is the decreasing—the withdrawal of energy into fantasy and imagination—that precedes the bursting forth into manifestation."** — Ra Uru Hu[^1]
 
 The keynote here is **contraction before expansion**. The I-Ching name "Decrease" reflects the **withdrawal of energy into the imagination**—pulling back from current reality to dream of what might be next. This contraction creates the pressure that, when released through Gate 30 (Recognition), propels the individual into new experience.
 
