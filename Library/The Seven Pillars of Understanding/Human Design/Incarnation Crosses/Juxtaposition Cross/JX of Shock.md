@@ -12,6 +12,9 @@ theme: Purpose fulfilled through Mind
 profile: 4/1
 source: NotebookLM Esoteric Grimoire
 tier: 2
+source_verified: pre-verified
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Juxtaposition Cross of Shock

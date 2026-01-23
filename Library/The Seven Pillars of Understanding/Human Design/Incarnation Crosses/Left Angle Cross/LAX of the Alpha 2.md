@@ -11,6 +11,9 @@ quarter_realm: Sirius
 theme: Purpose fulfilled through Transformation
 source: NotebookLM Esoteric Grimoire
 tier: 2
+source_verified: pre-verified
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Left Angle Cross of the Alpha (2)

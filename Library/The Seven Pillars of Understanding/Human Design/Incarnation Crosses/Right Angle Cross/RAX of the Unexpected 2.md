@@ -11,6 +11,9 @@ quarter_realm: Jupiter
 theme: Purpose fulfilled through Form
 source: NotebookLM Esoteric Grimoire
 tier: 2
+source_verified: pre-verified
+verification_date: 2026-01-23
+grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Right Angle Cross of the Unexpected (2)
