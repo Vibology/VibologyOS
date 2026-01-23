@@ -19,6 +19,7 @@ angelic_order: Ishim (Souls of Fire)
 biblical_appearances: Non-canonical (identified with Elijah in mystical tradition)
 aliases: The Tall Angel, Ha-Gadol, Prince of Prayer, Elijah Transformed
 ---
+# Sandalphon
 *The Prince of Prayer*
 
 **The Tall Angel — Gatherer of Prayers, Weaver of Yearning, Guardian of Malkuth, Co-Brother of Metatron**

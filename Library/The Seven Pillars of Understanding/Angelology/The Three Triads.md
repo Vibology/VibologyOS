@@ -4,6 +4,7 @@ system: Angelology
 date_created: 2026-01-17
 category: Foundational Concept
 ---
+# The Three Triads
 *The Architecture of Divine Emanation*
 
 ---

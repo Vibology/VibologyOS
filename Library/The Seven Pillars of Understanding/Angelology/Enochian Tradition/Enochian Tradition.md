@@ -5,6 +5,7 @@ subsystem: Enochian
 date_created: 2026-01-18
 category: Overview
 ---
+# Enochian Tradition
 *The Angelic Alphabet, the Watchtowers of Creation, and the 30 Aethyrs of Consciousness*
 
 ---

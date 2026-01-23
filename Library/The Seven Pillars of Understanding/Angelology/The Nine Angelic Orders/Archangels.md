@@ -13,6 +13,7 @@ function: Messengers bearing divine decrees, revelation, prophecy
 human_faculty: Individuated spiritual will
 hd_center: Sacral Center
 ---
+# Archangels
 *The Eighth Order of Angels — Bearers of Divine Decrees, Heralds of Revelation, Announcers of Destiny*
 
 ---

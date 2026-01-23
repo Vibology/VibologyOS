@@ -6,6 +6,10 @@ number: 2
 hebrew_letter: Gimel (ג)
 qabalistic_path: 13 (Kether → Tiphareth)
 astrological: Moon
+source_verified: synthesis
+verification_date: 2026-01-23
+grimoire_source: "Tarot (Qabalistic Tarot, Pictorial Key, Golden Dawn)"
+verification_notes: "Core Qabalistic correspondences (Hebrew letters, paths, zodiacal/planetary attributions) verified against Grimoire. Synthesis includes RWS and Thoth divinatory meanings, alchemical stages, Jungian archetypal interpretation."
 ---
 *The Priestess of the Silver Star*
 

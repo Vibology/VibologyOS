@@ -7,6 +7,10 @@ conscious_line: 4 (Opportunist)
 unconscious_line: 6 (Role Model)
 life_theme: Modeling Uniqueness Through Network
 date_created: 2026-01-08
+source_verified: synthesis
+verification_date: 2026-01-23
+grimoire_source: "Human Design (The Definitive Book, Complete Guide)"
+verification_notes: "Core mechanics (gates, centers, profiles, authorities, types, strategy) verified against Grimoire. Synthesis includes archetypal interpretation, Jungian depth, cross-system correspondences."
 ---
 
 # 4/6 Profile: Opportunist Role Model

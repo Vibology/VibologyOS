@@ -5,6 +5,7 @@ date_created: 2026-01-08
 date_updated: 2026-01-18
 category: Foundational Practice
 ---
+# Inner Authority and Strategy
 *The Body's Wisdom: Decision-making Beyond the Mind*
 
 ---

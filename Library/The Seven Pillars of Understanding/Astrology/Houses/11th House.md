@@ -8,7 +8,12 @@ house_type: Succedent
 natural_sign: Aquarius
 planetary_joy: Jupiter
 theme: Friendship, Hope, Community, Future Vision
+source_verified: synthesis
+verification_date: 2026-01-23
+grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
+verification_notes: "Core dignities and traditional meanings verified against Grimoire. Synthesis includes Jungian archetypal depth, mythology (Greek/Roman), cross-system correspondences, and esoteric interpretation."
 ---
+# 11th House
 *Friendship, Hope, and the Collective Vision*
 
 ---

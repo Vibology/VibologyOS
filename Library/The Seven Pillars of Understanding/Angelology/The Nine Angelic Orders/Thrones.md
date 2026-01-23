@@ -13,6 +13,7 @@ function: Divine justice, steadfastness, form-giving
 human_faculty: Capacity for form-giving and justice
 hd_center: Throat Center
 ---
+# Thrones
 *The Third Order of Angels — Foundations of Divine Law, Form-Givers, Guardians of the Cosmic Womb*
 
 ---

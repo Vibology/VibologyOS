@@ -6,6 +6,10 @@ number: 21
 hebrew_letter: Tau (ת)
 qabalistic_path: 32 (Yesod → Malkuth)
 astrological: Saturn
+source_verified: synthesis
+verification_date: 2026-01-23
+grimoire_source: "Tarot (Qabalistic Tarot, Pictorial Key, Golden Dawn)"
+verification_notes: "Core Qabalistic correspondences (Hebrew letters, paths, zodiacal/planetary attributions) verified against Grimoire. Synthesis includes RWS and Thoth divinatory meanings, alchemical stages, Jungian archetypal interpretation."
 ---
 *The Great One of the Night of Time*
 

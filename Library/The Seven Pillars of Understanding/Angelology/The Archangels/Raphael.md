@@ -16,6 +16,7 @@ tarot: The Lovers (VI), The Magician (I), The Hermit (IX)
 function: Divine Physician, Guide, Harmonizer, Prince of Brightness
 invocation: Prayer of Tobias, LBRP (East Quarter)
 ---
+# Raphael
 *The Divine Physician*
 
 **The Healing Archangel — God's Medicine, Prince of Brightness, Guide and Companion, Reconciler of Heaven and Earth**

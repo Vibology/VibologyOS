@@ -5,6 +5,7 @@ subsystem: Enochian
 date_created: 2026-01-18
 category: Heptarchia
 ---
+# Heptarchia Mystica
 *The Seven-Fold Planetary Hierarchy — The 49 Good Angels and the Sigillum Dei Aemeth*
 
 ---

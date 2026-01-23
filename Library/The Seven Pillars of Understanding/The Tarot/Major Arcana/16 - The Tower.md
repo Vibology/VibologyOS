@@ -6,6 +6,10 @@ number: 16
 hebrew_letter: Peh (פ)
 qabalistic_path: 27 (Netzach → Hod)
 astrological: Mars
+source_verified: synthesis
+verification_date: 2026-01-23
+grimoire_source: "Tarot (Qabalistic Tarot, Pictorial Key, Golden Dawn)"
+verification_notes: "Core Qabalistic correspondences (Hebrew letters, paths, zodiacal/planetary attributions) verified against Grimoire. Synthesis includes RWS and Thoth divinatory meanings, alchemical stages, Jungian archetypal interpretation."
 ---
 *The Lord of the Hosts of the Mighty / The House of God*
 

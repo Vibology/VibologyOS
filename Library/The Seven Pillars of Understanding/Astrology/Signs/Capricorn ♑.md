@@ -8,7 +8,12 @@ modality: Cardinal
 ruler: Saturn
 polarity: Cancer
 house_affinity: 10th
+source_verified: synthesis
+verification_date: 2026-01-23
+grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
+verification_notes: "Core dignities and traditional meanings verified against Grimoire. Synthesis includes Jungian archetypal depth, mythology (Greek/Roman), cross-system correspondences, and esoteric interpretation."
 ---
+# Capricorn ♑
 *The Elder and the Ascent to Mastery*
 
 ---

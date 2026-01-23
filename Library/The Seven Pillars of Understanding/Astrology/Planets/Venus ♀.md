@@ -4,7 +4,12 @@ system: Astrology
 date_created: 2026-01-08
 glyph: ♀
 alchemical: Salt
+source_verified: synthesis
+verification_date: 2026-01-23
+grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
+verification_notes: "Core dignities and traditional meanings verified against Grimoire. Synthesis includes Jungian archetypal depth, mythology (Greek/Roman), cross-system correspondences, and esoteric interpretation."
 ---
+# Venus ♀
 *Values and the Magnetism of Self-Love*
 
 ---

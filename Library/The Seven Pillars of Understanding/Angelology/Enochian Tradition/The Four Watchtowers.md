@@ -5,6 +5,7 @@ subsystem: Enochian
 date_created: 2026-01-18
 category: Watchtowers
 ---
+# The Four Watchtowers
 *The Great Table of Earth — Elemental Tablets of Divine and Angelic Names*
 
 ---

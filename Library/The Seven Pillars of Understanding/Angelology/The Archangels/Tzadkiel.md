@@ -14,6 +14,7 @@ color: Blue
 tarot: Fours, The Emperor (IV)
 function: Mercy, beneficence, divine justice
 ---
+# Tzadkiel
 *The Prince of Mercy*
 
 **The Angel of Abundance — Bestower of Grace, Ruler of Chesed, Guardian of Beneficent Justice**

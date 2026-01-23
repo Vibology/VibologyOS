@@ -13,6 +13,7 @@ function: Miracles, grace, harmony, healing
 human_faculty: Capacity for miracles and grace
 hd_center: Solar Plexus (Emotional Center)
 ---
+# Virtues
 *The Sixth Order of Angels — Agencies of Divine Valor, Harmony, and Supernatural Power*
 
 ---

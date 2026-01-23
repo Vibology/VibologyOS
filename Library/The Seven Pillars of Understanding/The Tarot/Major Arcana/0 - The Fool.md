@@ -6,6 +6,10 @@ number: 0
 hebrew_letter: Aleph (א)
 qabalistic_path: 11 (Kether → Chokmah)
 astrological: Air / Uranus
+source_verified: synthesis
+verification_date: 2026-01-23
+grimoire_source: "Tarot (Qabalistic Tarot, Pictorial Key, Golden Dawn)"
+verification_notes: "Core Qabalistic correspondences (Hebrew letters, paths, zodiacal/planetary attributions) verified against Grimoire. Synthesis includes RWS and Thoth divinatory meanings, alchemical stages, Jungian archetypal interpretation."
 ---
 *The Spirit of Aether*
 

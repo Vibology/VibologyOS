@@ -8,7 +8,12 @@ house_type: Angular
 natural_sign: Cancer
 cosignificator: Sun
 theme: Roots, Ancestry, Home, The IC
+source_verified: synthesis
+verification_date: 2026-01-23
+grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
+verification_notes: "Core dignities and traditional meanings verified against Grimoire. Synthesis includes Jungian archetypal depth, mythology (Greek/Roman), cross-system correspondences, and esoteric interpretation."
 ---
+# 4th House
 *Roots and the Foundation of Being*
 
 ---

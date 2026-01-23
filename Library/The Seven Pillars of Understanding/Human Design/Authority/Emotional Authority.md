@@ -5,10 +5,15 @@ authority_type: Emotional (Solar Plexus)
 compatible_types: [Manifestor, Generator, Projector]
 hierarchy: Highest (overrides all other authorities)
 date_created: 2026-01-08
+source_verified: synthesis
+verification_date: 2026-01-23
+grimoire_source: "Human Design (The Definitive Book, Complete Guide)"
+verification_notes: "Core mechanics (gates, centers, profiles, authorities, types, strategy) verified against Grimoire. Synthesis includes archetypal interpretation, Jungian depth, cross-system correspondences."
 ---
+# Emotional Authority
+*Clarity Through the Wave*
 
-# Emotional Authority: Clarity Through the Wave
-
+---
 ## Definition
 
 **Emotional Authority** is defined by a **defined [[Solar Plexus]] Center**, which takes precedence over all other authorities in the Human Design hierarchy. If your Solar Plexus is defined, you have Emotional Authority—regardless of what other centers are active in your chart.
@@ -16,7 +21,6 @@ date_created: 2026-01-08
 Approximately **half of humanity** has Emotional Authority, making it the most common decision-making intelligence in the world.
 
 ---
-
 ## The Mechanics: The Emotional Wave
 
 Emotional Authority operates through an **oscillating biochemical wave** of hope and pain, expansion and contraction. This wave is not random emotion but a **neurochemical process** that must complete its cycle before clarity can emerge.
@@ -30,7 +34,6 @@ Emotional Authority operates through an **oscillating biochemical wave** of hope
 The wave does not resolve into "positive" or "negative"—it resolves into **neutrality**, a state where the decision can be seen clearly without the distortion of emotional highs or lows.
 
 ---
-
 ## The Core Principle: "No Truth in the Now"
 
 The defining law of Emotional Authority is: **There is no truth in the now.**
@@ -43,7 +46,6 @@ In any given moment, the emotionally defined person is either:
 None of these positions represent truth. Truth emerges only when the wave has been **ridden to stillness**.
 
 ---
-
 ## Decision-Making Process
 
 ### 1. Wait for the Wave to Complete
@@ -65,7 +67,6 @@ Clarity arrives when:
 The plateau is not apathy—it is **neutrality**, the place where the emotional body has integrated all data and reveals what is correct.
 
 ---
-
 ## Somatic Experience
 
 Emotionally defined individuals experience:
@@ -76,7 +77,6 @@ Emotionally defined individuals experience:
 The wave is **not something to fix**—it is the intelligence itself. Trying to remain "positive" or avoid the pain phase is sabotaging the Authority.
 
 ---
-
 ## Interaction with Strategy
 
 Emotional Authority must be paired with [[Strategy]] to function correctly:
@@ -88,7 +88,6 @@ Emotional Authority must be paired with [[Strategy]] to function correctly:
 Strategy positions you correctly; Emotional Authority reveals *what* is true once you are positioned.
 
 ---
-
 ## Compatible Types
 
 Emotional Authority can appear in:
@@ -99,7 +98,6 @@ Emotional Authority can appear in:
 **Reflectors** (1%) do not have Emotional Authority, as they have no defined centers.
 
 ---
-
 ## Common Pitfalls
 
 ### 1. Deciding on the High
@@ -115,7 +113,6 @@ Trying to remain "stable" or "positive" by avoiding the low phase sabotages the 
 The plateau is not "I don't care"—it is "I see clearly now." Clarity may feel underwhelming compared to the drama of the wave, but it is trustworthy.
 
 ---
-
 ## The Gift of Emotional Authority
 
 Emotionally defined individuals bring:
@@ -125,7 +122,6 @@ Emotionally defined individuals bring:
 - **Patience** — They learn that time reveals what the moment obscures
 
 ---
-
 ## Cross-References
 
 - **Solar Plexus Center:** See [[Solar Plexus]] for the mechanical basis of Emotional Authority
@@ -134,7 +130,6 @@ Emotionally defined individuals bring:
 - **Tarot:** [[The Moon]] (cycles and tides), [[Death]] (necessary transformation through endings)
 
 ---
-
 ## Practical Guidance
 
 ### For the Emotionally Defined

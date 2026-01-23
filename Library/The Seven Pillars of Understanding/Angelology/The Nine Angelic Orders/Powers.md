@@ -13,6 +13,7 @@ function: Cosmic order, opposition to chaos, strength and judgment
 human_faculty: Strength and courage, discrimination
 hd_center: Heart (Ego) Center
 ---
+# Powers
 *The Fifth Order of Angels — Defenders of Cosmic Law, Gatekeepers Against Chaos, Executors of Divine Severity*
 
 ---

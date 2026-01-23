@@ -12,9 +12,10 @@ type: Projected
 gates: [37, 40]
 gene_keys: Weakness/Exhaustion → Equality/Resolve → Tenderness/Divine Will
 ---
+# Channel 37-40
+*Community*
 
-# Channel 37-40: Community
-
+---
 ## Ra's Mechanical Definition
 
 According to Ra Uru Hu, the **Channel of Community** is the **bargain of tribal support**—the emotional agreement that creates **family, partnership, and community** through mutual promises of care and provision. This channel connects the **Solar Plexus** (emotional awareness) to the **Heart (Ego)** (willpower), creating the **emotional-will contract** that binds tribes together.
@@ -25,6 +26,7 @@ Ra taught that this channel represents the **part seeking the whole**—no one i
 
 The keynote is **a part seeking a whole**—the recognition that we are interdependent, and that community requires **emotional connection** and **willful commitment** to sustain.
 
+---
 ## Core Correspondences
 
 | Attribute | Correspondence |
@@ -43,6 +45,7 @@ The keynote is **a part seeking a whole**—the recognition that we are interdep
 | **Not-Self Pattern** | Bargaining without invitation, exhausting ego through over-commitment, staying in unfair bargains |
 | **Signature** | Recognition for support capacity, balanced bargains, sustainable community |
 
+---
 ## I-Ching and Tribal Ego Analysis
 
 **Hexagram 37 (The Family):** Wind above, Fire below—warmth and gentle influence creating family bonds. The recognition that **family (and community) is the organic extension of mutual care**.
@@ -53,6 +56,7 @@ The keynote is **a part seeking a whole**—the recognition that we are interdep
 
 **The Bargain Structure:** Gate 37 provides **emotional connection** (affection, care, warmth); Gate 40 provides **willpower to uphold the bargain** (provision, work, commitment). Together, they form **sustainable community** through fair exchange.
 
+---
 ## Channel Formation and Dynamics
 
 **Gate 37 (Solar Plexus):** "I feel emotional bonds and care for my community."
@@ -61,6 +65,7 @@ The keynote is **a part seeking a whole**—the recognition that we are interdep
 
 **Projected Nature:** This channel **cannot force community or bargains**—it must be **recognized and invited** into tribal support roles. Trying to create community without recognition leads to exhaustion and unfair bargains.
 
+---
 ## Strategy, Authority, and Deconditioning
 
 **For Emotional Projectors with 37-40:** Wait for **recognition AND emotional clarity** (wave) before entering bargains. The emotional wave must confirm the bargain is correct, and the recognition must confirm you're valued.
@@ -72,6 +77,7 @@ The keynote is **a part seeking a whole**—the recognition that we are interdep
 
 **Deconditioning:** Learn that **community is a fair exchange**, and that your Ego requires **rest between periods of provision** (Gate 40: Deliverance/Aloneness). Do not commit without recognition and emotional clarity.
 
+---
 ## Gene Keys and Cross-System Synthesis
 
 **Gate 37 Shadow (Weakness):** Codependency, needing others to feel whole.
@@ -86,10 +92,12 @@ The keynote is **a part seeking a whole**—the recognition that we are interdep
 
 **Jungian Theme:** The **Caretaker/Provider Dynamic**—the archetypal patterns of **giving and receiving** within community.
 
+---
 ## The Gift of Correctness
 
 When recognized and invited, the 37-40 individual becomes the **foundation of tribal support**—the one who creates **fair, sustainable bargains** that hold communities together. They embody **Equality and Resolve**, and ultimately **Tenderness and Divine Will**—community as an expression of sacred, balanced interdependence.
 
+---
 ## Cross-References
 
 - [[Gate 37 - The Family]] — Friendship, emotional bonds, tribal warmth

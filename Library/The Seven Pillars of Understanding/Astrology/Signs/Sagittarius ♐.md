@@ -10,7 +10,12 @@ polarity: Gemini
 detriment: Mercury
 exaltation: None (traditional); South Node (esoteric)
 fall: None
+source_verified: synthesis
+verification_date: 2026-01-23
+grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
+verification_notes: "Core dignities and traditional meanings verified against Grimoire. Synthesis includes Jungian archetypal depth, mythology (Greek/Roman), cross-system correspondences, and esoteric interpretation."
 ---
+# Sagittarius ♐
 *The Prophet and the Quest for Meaning*
 
 ---

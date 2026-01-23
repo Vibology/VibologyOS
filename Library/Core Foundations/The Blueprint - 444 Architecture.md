@@ -5,6 +5,7 @@ date_created: 2026-01-08
 date_updated: 2026-01-18
 category: Structural Framework
 ---
+# The Blueprint - 444 Architecture
 *The Shared 64-fold Substrate of Consciousness*
 
 ---

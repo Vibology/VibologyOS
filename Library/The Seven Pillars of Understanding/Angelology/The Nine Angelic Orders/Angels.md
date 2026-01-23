@@ -13,6 +13,7 @@ function: Direct human interaction, guardianship, intimacy
 human_faculty: Grounded presence and intimacy with the immediate
 hd_center: Root Center
 ---
+# Angels
 *The Ninth Order of Angels — Intimate Companions of the Soul*
 
 ---

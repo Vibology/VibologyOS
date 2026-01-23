@@ -4,6 +4,7 @@ system: Angelology
 date_created: 2026-01-18
 category: Overview
 ---
+# The Nine Angelic Orders
 *The Architecture of Heaven — Nine Choirs, Three Triads, One Divine Purpose*
 
 **The Ninefold Structure of Created Intelligence from Pseudo-Dionysius to the Qabalah**

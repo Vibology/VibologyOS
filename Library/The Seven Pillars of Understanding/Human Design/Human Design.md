@@ -3,7 +3,12 @@ tags: [human-design, overview, system, mechanics, vibology]
 system: Human Design
 date_created: 2026-01-08
 date_updated: 2026-01-16
+source_verified: synthesis
+verification_date: 2026-01-23
+grimoire_source: "Human Design (The Definitive Book, Complete Guide)"
+verification_notes: "Core mechanics (gates, centers, profiles, authorities, types, strategy) verified against Grimoire. Synthesis includes archetypal interpretation, Jungian depth, cross-system correspondences."
 ---
+# Human Design
 *The Science of Human Differentiation*
 
 ---

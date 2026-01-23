@@ -13,6 +13,7 @@ function: Regulation of angelic duties, divine sovereignty, expansion
 human_faculty: Sovereignty over one's own life
 hd_center: G-Center
 ---
+# Dominations
 *The Fourth Order of Angels — Benevolent Sovereigns, Regulators of Divine Governance, Custodians of Mercy*
 
 ---

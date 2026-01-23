@@ -8,7 +8,12 @@ modality: Mutable
 ruler: Mercury
 polarity: Sagittarius
 decan_rulers: [Jupiter, Mars, Sun]
+source_verified: synthesis
+verification_date: 2026-01-23
+grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
+verification_notes: "Core dignities and traditional meanings verified against Grimoire. Synthesis includes Jungian archetypal depth, mythology (Greek/Roman), cross-system correspondences, and esoteric interpretation."
 ---
+# Gemini ♊
 *The Messenger and the Dance of Duality*
 
 ---

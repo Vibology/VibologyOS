@@ -14,6 +14,7 @@ color: Black
 tarot: Threes, Queens, The Empress
 function: Spiritual strife against evil, form-giver, contemplation
 ---
+# Tzaphkiel
 *The Silent Contemplator*
 
 **The Prince of Binah — Guardian of Form, Watcher of the Abyss, Throne of Understanding**

@@ -4,6 +4,7 @@ system: Angelology
 date_created: 2026-01-18
 category: Overview
 ---
+# The Archangels
 *Princes of the Celestial Realm*
 
 *The Great Messengers, the Named Ones, the Commanders of Heaven*

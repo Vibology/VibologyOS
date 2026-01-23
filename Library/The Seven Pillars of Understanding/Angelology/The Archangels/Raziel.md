@@ -15,6 +15,7 @@ function: Herald of hidden knowledge, revealer of mysteries
 angelic_order: Auphanim (Wheels) or Erelim (Valiant Ones)
 aliases: [Akrasiel, Galizur, Saraqael, Suriel]
 ---
+# Raziel
 *The Patron of Shadowhunters*
 
 **Archangel Raziel** (Hebrew: רזיאל, *Razi'el* — "Secret of God" or "Herald of Deity") is the **Prince of Hidden Knowledge**, the **Revealer of Mysteries**, and the **Angel of the Supreme Secrets**. In the Qabalistic tradition, Raziel governs **[[Chokmah]]** (Wisdom, the second [[Sephirah]]), the primal masculine force of creation—the explosive first emanation from the Absolute, the divine spark that initiates all manifestation. Where [[Metatron]] at [[Kether]] represents the Unmanifest Crown, Raziel at Chokmah is the *first intelligible principle*, the Logos, the divine intelligence that structures the cosmos.

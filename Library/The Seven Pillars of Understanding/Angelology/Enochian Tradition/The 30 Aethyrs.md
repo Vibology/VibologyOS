@@ -5,6 +5,7 @@ subsystem: Enochian
 date_created: 2026-01-18
 category: Aethyrs
 ---
+# The 30 Aethyrs
 *The Celestial Spheres — From TEX to LIL, From Earth to the Throne of God*
 
 ---

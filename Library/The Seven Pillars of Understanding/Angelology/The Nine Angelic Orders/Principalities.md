@@ -13,6 +13,7 @@ function: Protection of nations, religions, collective guidance
 human_faculty: Collective identity and belonging
 hd_center: Spleen Center
 ---
+# Principalities
 *The Seventh Order of Angels — Protectors of Nations, Guardians of Collective Consciousness, Architects of Cultural Belonging*
 
 ---

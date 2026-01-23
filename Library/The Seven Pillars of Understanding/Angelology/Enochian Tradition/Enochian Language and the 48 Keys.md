@@ -5,6 +5,7 @@ subsystem: Enochian
 date_created: 2026-01-18
 category: Language
 ---
+# Enochian Language and the 48 Keys
 *The Tongue of Angels — Sacred Alphabet, Divine Grammar, and the Calls of Power*
 
 ---

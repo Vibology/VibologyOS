@@ -6,6 +6,10 @@ number: 6
 hebrew_letter: Zain (ז)
 qabalistic_path: 17 (Binah → Tiphareth)
 astrological: Gemini
+source_verified: synthesis
+verification_date: 2026-01-23
+grimoire_source: "Tarot (Qabalistic Tarot, Pictorial Key, Golden Dawn)"
+verification_notes: "Core Qabalistic correspondences (Hebrew letters, paths, zodiacal/planetary attributions) verified against Grimoire. Synthesis includes RWS and Thoth divinatory meanings, alchemical stages, Jungian archetypal interpretation."
 ---
 *The Children of the Voice*
 

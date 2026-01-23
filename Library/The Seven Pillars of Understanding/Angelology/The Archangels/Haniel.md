@@ -16,6 +16,7 @@ function: Love, harmony, beauty, grace, divine desire
 angelic_order: Principalities (Elohim)
 aliases: [Anael, Hamiel, Hanael, Aniel]
 ---
+# Haniel
 *The Prince of Virtues*
 
 **Archangel Haniel** (Hebrew: חניאל, *Chani'el* — "Grace of God" or "Glory of God") is the **Prince of Love and Harmony**, the **Ruler of the Vegetable Kingdom**, and the **Angel of Venus**. In the Qabalistic tradition, Haniel governs **[[Netzach]]** (Victory, Eternity—the seventh [[Sephirah]]), the sphere of **nature, desire, beauty, and the life force that endures**. Where [[Raphael]] at [[Tiphareth]] mediates the solar heart of the Higher Self, Haniel at Netzach mediates the **magnetic pull of love, the verdant beauty of nature, and the grace that makes existence desirable**.

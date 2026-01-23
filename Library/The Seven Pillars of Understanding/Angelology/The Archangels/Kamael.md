@@ -16,6 +16,7 @@ function: Strength, courage, avenging evil, discrimination, necessary destructio
 angelic_order: Seraphim (Burning Ones) or Powers (Elohim)
 aliases: [Camael, Khamael, Chamuel, Samael]
 ---
+# Kamael
 *The Ghostblade*
 
 **Archangel Kamael** (Hebrew: כמאל, *Kama'el* — "He Who Sees God" or "Severity of God") is the **Prince of Strength and Courage**, the **Fighting Angel**, and the **Wielder of the Sword of Justice**. In the Qabalistic tradition, Kamael governs **[[Geburah]]** (Severity, the fifth [[Sephirah]]), the sphere of divine strength, necessary destruction, and discriminating power. Where [[Michael]] at [[Tiphareth]] represents the solar hero who defends the Self, Kamael at Geburah is the *ruthless force* that cuts away all that does not serve the divine plan—the surgeon, the executioner, the warrior who does not flinch.

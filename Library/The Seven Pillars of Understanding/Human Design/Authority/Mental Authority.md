@@ -5,10 +5,15 @@ authority_type: Mental (Environmental)
 compatible_types: [Projector]
 hierarchy: Sixth (lowest inner authority)
 date_created: 2026-01-08
+source_verified: synthesis
+verification_date: 2026-01-23
+grimoire_source: "Human Design (The Definitive Book, Complete Guide)"
+verification_notes: "Core mechanics (gates, centers, profiles, authorities, types, strategy) verified against Grimoire. Synthesis includes archetypal interpretation, Jungian depth, cross-system correspondences."
 ---
+# Mental Authority
+*The Intelligence of Environment*
 
-# Mental Authority: The Intelligence of Environment
-
+---
 ## Definition
 
 **Mental Authority** (also called **Environmental Authority** or **No Inner Authority**) is defined by **no centers defined below the Throat**. The only definition present is in the:
@@ -19,7 +24,6 @@ date_created: 2026-01-08
 Mental Authority is **exclusive to [[Projector]]s**—it cannot appear in other Types.
 
 ---
-
 ## The Mechanics: Clarity Through Environment and Dialogue
 
 Mental Authority does not operate through an **internal center** (like Sacral, Spleen, or Heart). Instead, clarity is achieved through:
@@ -33,7 +37,6 @@ The Mental Authority Projector is **entirely open below the Throat**, making the
 - The "feel" of a place, community, or situation
 
 ---
-
 ## The Core Principle: "No Truth in Here; Truth is Out There"
 
 Mental Authority has **no reliable internal compass**. The mind is designed to **think, not decide**. Instead, truth is found:
@@ -44,7 +47,6 @@ Mental Authority has **no reliable internal compass**. The mind is designed to *
 This is not indecision—it is **external discernment**.
 
 ---
-
 ## Decision-Making Process
 
 ### 1. Wait for the Invitation (Projector Strategy)
@@ -77,7 +79,6 @@ Mental Authority does not operate on a fixed timeline (like [[Emotional Authorit
 - **Allowing clarity to emerge** through accumulated data
 
 ---
-
 ## Somatic Experience
 
 Individuals with Mental Authority experience:
@@ -89,7 +90,6 @@ Individuals with Mental Authority experience:
 The Mental Authority Projector is a **sensory instrument**, reading the environment and relationships with precision.
 
 ---
-
 ## Interaction with Strategy
 
 Mental Authority must be paired with [[Projector]] [[Strategy]]:
@@ -102,7 +102,6 @@ Mental Authority must be paired with [[Projector]] [[Strategy]]:
 Strategy positions you correctly (the invitation); Authority reveals *what* is correct (through dialogue and environmental sampling).
 
 ---
-
 ## The Role of Trusted Advisors
 
 Mental Authority requires a **council of sounding boards**—trusted individuals who:
@@ -122,7 +121,6 @@ Mental Authority individuals must select advisors who:
 Incorrect advisors (those who pressure, manipulate, or impose) distort the process.
 
 ---
-
 ## Compatible Types
 
 Mental Authority appears **only** in:
@@ -131,7 +129,6 @@ Mental Authority appears **only** in:
 This is a **rare configuration** within the Projector population.
 
 ---
-
 ## Common Pitfalls
 
 ### 1. Trusting the Mind to Decide
@@ -151,7 +148,6 @@ If the environment feels "wrong," it is wrong—even if the mind rationalizes it
 Mental Authority requires time to sample, discuss, and integrate. Pressure to decide quickly sabotages clarity.
 
 ---
-
 ## The Gift of Mental Authority
 
 Individuals with Mental Authority bring:
@@ -161,7 +157,6 @@ Individuals with Mental Authority bring:
 - **Sampling Wisdom** — They gather data from environments and people to inform decisions
 
 ---
-
 ## Cross-References
 
 - **Open Centers:** See [[Sacral]], [[Solar Plexus]], [[Spleen]], [[Heart]], [[G Center]], [[Root]] for the mechanics of openness
@@ -171,7 +166,6 @@ Individuals with Mental Authority bring:
 - **Tarot:** [[The Hermit]] (seeking counsel), [[The Star]] (trust in the environment)
 
 ---
-
 ## Practical Guidance
 
 ### For Those with Mental Authority

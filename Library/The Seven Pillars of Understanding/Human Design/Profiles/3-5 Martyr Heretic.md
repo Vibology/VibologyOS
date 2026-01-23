@@ -7,6 +7,10 @@ conscious_line: 3 (Martyr)
 unconscious_line: 5 (Heretic)
 life_theme: The Great Fixer
 date_created: 2026-01-08
+source_verified: synthesis
+verification_date: 2026-01-23
+grimoire_source: "Human Design (The Definitive Book, Complete Guide)"
+verification_notes: "Core mechanics (gates, centers, profiles, authorities, types, strategy) verified against Grimoire. Synthesis includes archetypal interpretation, Jungian depth, cross-system correspondences."
 ---
 
 # 3/5 Profile: Martyr Heretic

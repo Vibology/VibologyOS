@@ -6,6 +6,10 @@ number: 9
 hebrew_letter: Yod (י)
 qabalistic_path: 20 (Chesed → Tiphareth)
 astrological: Virgo
+source_verified: synthesis
+verification_date: 2026-01-23
+grimoire_source: "Tarot (Qabalistic Tarot, Pictorial Key, Golden Dawn)"
+verification_notes: "Core Qabalistic correspondences (Hebrew letters, paths, zodiacal/planetary attributions) verified against Grimoire. Synthesis includes RWS and Thoth divinatory meanings, alchemical stages, Jungian archetypal interpretation."
 ---
 *The Prophet of the Eternal, Magus of the Voice of Power*
 

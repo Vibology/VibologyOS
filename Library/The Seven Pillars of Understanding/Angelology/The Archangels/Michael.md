@@ -16,6 +16,7 @@ tarot: Temperance (XIV), Judgement (XX), Six of Wands
 function: Warrior of God, Prince of Splendor, Defender, Dragon-Slayer
 invocation: St. Michael Prayer, LBRP
 ---
+# Michael
 *The Sword of Light*
 
 **The Archangel of the Sun — Defender, Dragon-Slayer, Prince of Splendor, Warrior of the Higher Self**

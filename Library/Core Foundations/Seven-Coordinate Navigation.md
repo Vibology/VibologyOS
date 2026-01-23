@@ -5,6 +5,7 @@ date_created: 2026-01-08
 date_updated: 2026-01-18
 category: Navigational Framework
 ---
+# Seven-Coordinate Navigation
 *The Multi-dimensional Map of Consciousness*
 
 ---

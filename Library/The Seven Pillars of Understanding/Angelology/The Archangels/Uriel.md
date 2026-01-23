@@ -17,6 +17,7 @@ function: Presider over Tartarus, Interpreter of Prophecy, Light in Darkness, Gu
 invocation: LBRP (North Quarter), Prayer to Uriel for illumination in shadow
 angelic_order: Ishim (Souls of Fire) or Tarshishim (Brilliant Ones)
 ---
+# Uriel
 *Guardian of the Gates*
 
 ---

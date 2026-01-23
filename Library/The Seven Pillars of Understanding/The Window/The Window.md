@@ -4,6 +4,10 @@ system: The Window
 date_created: 2026-01-08
 date_updated: 2026-01-18
 status: Complete
+source_verified: synthesis
+verification_date: 2026-01-23
+grimoire_source: "The Window (Blueprint, Human Design, Gene Keys, I-Ching)"
+verification_notes: "64-card structure, Six Houses, Twelve Archetypes, I-Ching/HD correspondences verified against Grimoire. Synthesis includes contemporary 1980s archetypal encoding, cross-pillar integration."
 ---
 *A Contemporary 1980s-themed Archetypal Resonance and Oracle Divination System*
 

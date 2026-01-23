@@ -12,9 +12,10 @@ type: Generated
 gates: [34, 57]
 gene_keys: Force/Unease → Strength/Intuition → Majesty/Clarity
 ---
+# Channel 34-57
+*Power*
 
-# Channel 34-57: Power
-
+---
 ## Ra's Mechanical Definition
 
 According to Ra Uru Hu, the **Channel of Power** is the **Archetype of the Human**—the purest expression of **intuitive power** in the BodyGraph. This channel connects the **Sacral** (life-force) to the **Spleen** (instinctive awareness), creating the **most primal, immediate, survival-oriented energy** in Human Design.
@@ -25,6 +26,7 @@ Ra taught that this channel represents **pure power to empower**—not power ove
 
 The keynote is **an archetype**—the living example of power aligned with intuition, serving collective survival.
 
+---
 ## Core Correspondences
 
 | Attribute | Correspondence |
@@ -43,6 +45,7 @@ The keynote is **an archetype**—the living example of power aligned with intui
 | **Not-Self Pattern** | Using power to dominate, overriding intuition with mind, exhausting sacral energy |
 | **Signature** | Satisfaction from empowering others, intuitive clarity, survival intelligence |
 
+---
 ## I-Ching and Integration Circuit Analysis
 
 **Hexagram 34 (Power of the Great):** Thunder above, Heaven below—creative power in motion. **Power is only great when it serves the common good**—otherwise it becomes force and domination.
@@ -53,6 +56,7 @@ The keynote is **an archetype**—the living example of power aligned with intui
 
 **The Acoustic Nature:** This channel is **auditory/frequency-based**—it doesn't think, feel, or plan. It **hears danger, hears opportunity, and acts instantly**. This is survival intelligence at its purest.
 
+---
 ## Channel Formation and Dynamics
 
 **Gate 57 (Spleen):** "I hear/sense what is happening right now with intuitive clarity."
@@ -61,6 +65,7 @@ The keynote is **an archetype**—the living example of power aligned with intui
 
 **Generated Nature:** This is a **Pure Generator archetype**—responding to what the intuition hears, then acting with full sacral power.
 
+---
 ## Strategy, Authority, and Deconditioning
 
 **For Generators/MGs with 34-57:** This channel often creates **Splenic Authority** (if the Solar Plexus is undefined). The individual must **trust the first intuitive hit**—it speaks once, in the now, and will not repeat. Overriding intuition with mind leads to misuse of power.
@@ -72,6 +77,7 @@ The keynote is **an archetype**—the living example of power aligned with intui
 
 **Deconditioning:** Learn to **hear the intuition in the now** and **respond with sacral power**. Do not analyze, delay, or override. The intuition is acoustic—it speaks once, and then it's gone.
 
+---
 ## Gene Keys and Cross-System Synthesis
 
 **Gate 34 Shadow (Force):** Power used to dominate, control, or destroy.
@@ -86,10 +92,12 @@ The keynote is **an archetype**—the living example of power aligned with intui
 
 **Jungian Theme:** The **Archetype of the Self**—the core pattern of wholeness and power within the psyche.
 
+---
 ## The Gift of Correctness
 
 When aligned with Strategy and Authority (responding to intuition in the now), the 34-57 individual becomes the **living archetype of empowered humanity**—pure power serving the collective, guided by flawless intuitive awareness. They embody **Strength and Intuition**, and ultimately **Majesty and Clarity**—power and awareness in perfect harmony.
 
+---
 ## Cross-References
 
 - [[Gate 34 - Power]] — Pure power to empower

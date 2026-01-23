@@ -5,6 +5,7 @@ subsystem: Enochian
 date_created: 2026-01-18
 category: Historical
 ---
+# John Dee and Edward Kelley
 *The Magus and the Scryer — Renaissance Philosopher and Mystical Medium*
 
 ---

@@ -6,6 +6,10 @@ number: 19
 hebrew_letter: Resh (ר)
 qabalistic_path: 30 (Hod → Yesod)
 astrological: Sun
+source_verified: synthesis
+verification_date: 2026-01-23
+grimoire_source: "Tarot (Qabalistic Tarot, Pictorial Key, Golden Dawn)"
+verification_notes: "Core Qabalistic correspondences (Hebrew letters, paths, zodiacal/planetary attributions) verified against Grimoire. Synthesis includes RWS and Thoth divinatory meanings, alchemical stages, Jungian archetypal interpretation."
 ---
 *The Lord of the Fire of the World*
 

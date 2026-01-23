@@ -13,6 +13,7 @@ function: Pure love, primal fire, direct relation to Godhead
 human_faculty: Pure devotional consciousness
 hd_center: Head Center
 ---
+# Seraphim
 *The First Order of Angels — Pure Love and Primal Fire*
 
 ---

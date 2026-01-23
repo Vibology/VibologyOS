@@ -13,6 +13,7 @@ function: Wisdom, inter-dimensional movement, whirling forces
 human_faculty: Wisdom and intellectual brilliance
 hd_center: Ajna Center
 ---
+# Cherubim
 *Second Order of the Nine Angelic Hierarchies | First Triad: The Counselors*
 
 ---

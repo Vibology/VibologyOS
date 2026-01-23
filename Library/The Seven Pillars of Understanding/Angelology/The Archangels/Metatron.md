@@ -13,6 +13,7 @@ color: White Brilliance
 tarot: Four Aces
 function: Prince of Countenances, link between human and divine
 ---
+# Metatron
 *The Chancellor of Heaven*
 
 **The Supreme Archangel — Prince of Countenances, The Lesser YHVH, The Sustainer of Mankind, Bridge Between Human and Divine**

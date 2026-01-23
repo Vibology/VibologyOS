@@ -6,6 +6,10 @@ number: 17
 hebrew_letter: Tzaddi (צ)
 qabalistic_path: 28 (Netzach → Yesod)
 astrological: Aquarius
+source_verified: synthesis
+verification_date: 2026-01-23
+grimoire_source: "Tarot (Qabalistic Tarot, Pictorial Key, Golden Dawn)"
+verification_notes: "Core Qabalistic correspondences (Hebrew letters, paths, zodiacal/planetary attributions) verified against Grimoire. Synthesis includes RWS and Thoth divinatory meanings, alchemical stages, Jungian archetypal interpretation."
 ---
 *The Daughter of the Firmament / The Dweller Between the Waters*
 
