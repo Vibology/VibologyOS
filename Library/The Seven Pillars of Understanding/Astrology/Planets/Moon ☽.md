@@ -39,9 +39,9 @@ In alchemical tradition, the Moon is **Silver**, the mutable metal that captures
 | **Fall** | [[Scorpio ♏]] | 3° | — | — |
 | **Orbital Period** | 27.3 days (1 month) | — | — | — |
 
-The Moon rules **[[Cancer ♋]]**, the sign of the womb, the clan, and the primordial bond between mother and child. It is exalted in **[[Taurus ♉]]** at 3°, where instinct is grounded in sensory wisdom and the body knows peace. In **[[Capricorn ♑]]** (detriment), the Moon is exiled from its homeland, forced into the cold logic of structure and public performance. In **[[Scorpio ♏]]** (fall at 3°), the Moon drowns in emotional intensity, unable to surface for breath.
+The Moon rules **[[Cancer ♋]]**, the sign of the womb, the clan, and the primordial bond between mother and child[^1]. It is exalted in **[[Taurus ♉]]** at 3°, where instinct is grounded in sensory wisdom and the body knows peace[^2]. In **[[Capricorn ♑]]** (detriment), the Moon is exiled from its homeland, forced into the cold logic of structure and public performance. In **[[Scorpio ♏]]** (fall at 3°), the Moon drowns in emotional intensity, unable to surface for breath[^1].
 
-The Moon **joys in the 3rd House** traditionally (communication, local movement, siblings), though it naturally governs the **4th House** (origins, family lineage, private foundations). The 3rd House joy reveals the Moon's role as **messenger**—translating somatic intelligence into language, carrying emotional memory through the familial network.
+The Moon **joys in the 3rd House** traditionally (communication, local movement, siblings), though it naturally governs the **4th House** (origins, family lineage, private foundations)[^3]. The 3rd House joy reveals the Moon's role as **messenger**—translating somatic intelligence into language, carrying emotional memory through the familial network.
 
 ### Sect: The Moon as Nocturnal Sect Light
 
@@ -90,11 +90,11 @@ In esoteric anatomy, the Moon governs the **solar plexus** (despite the name)—
 
 The Moon's mythology is vast, but **Artemis** (Greek), **Selene** (Greek), and **Isis** (Egyptian) form the archetypal triad.
 
-**Artemis** is the virgin huntress, the protector of wild places and the goddess who assists in childbirth yet remains forever untouched. She is the **instinctual self** that operates outside civilization's demands—autonomous, fierce, connected to the rhythms of nature. Artemis does not need permission; she knows her territory and defends it ruthlessly. She is also the goddess of the **threshold**—the liminal space between wilderness and civilization, night and day, conscious and unconscious.
+**Artemis** is the virgin huntress, the protector of wild places and the goddess who assists in childbirth yet remains forever untouched[^4]. She is the **instinctual self** that operates outside civilization's demands—autonomous, fierce, connected to the rhythms of nature. Artemis does not need permission; she knows her territory and defends it ruthlessly. She is also the goddess of the **threshold**—the liminal space between wilderness and civilization, night and day, conscious and unconscious.
 
-**Selene** is the Moon personified—the goddess who drives her silver chariot across the night sky. She falls in love with the mortal shepherd **Endymion**, whom Zeus grants eternal sleep so that Selene may visit him each night. This myth encodes the Moon's relationship to **dreams, memory, and the unconscious**—the lunar self visits what consciousness cannot reach, loving what the waking mind has put to sleep.
+**Selene** is the Moon personified—the goddess who drives her silver chariot across the night sky. She falls in love with the mortal shepherd **Endymion**, whom Zeus grants eternal sleep so that Selene may visit him each night[^5]. This myth encodes the Moon's relationship to **dreams, memory, and the unconscious**—the lunar self visits what consciousness cannot reach, loving what the waking mind has put to sleep.
 
-**Isis**, the Egyptian goddess of magic and motherhood, is the ultimate lunar figure. She gathers the scattered pieces of her slain husband **Osiris** and resurrects him long enough to conceive their son **Horus**. Isis represents the Moon's capacity to **hold and reconstitute what has been fragmented**—the womb that gestates, the memory that preserves, the instinct that knows how to heal.
+**Isis**, the Egyptian goddess of magic and motherhood, is the ultimate lunar figure. She gathers the scattered pieces of her slain husband **Osiris** and resurrects him long enough to conceive their son **Horus**[^6]. Isis represents the Moon's capacity to **hold and reconstitute what has been fragmented**—the womb that gestates, the memory that preserves, the instinct that knows how to heal.
 
 The lunar archetype is thus: **the receptive intelligence that holds the form, the instinct that remembers what consciousness forgets, the body that knows before the mind names**.
 
@@ -199,6 +199,17 @@ The Moon teaches that not all wisdom is conscious. Some truths arrive in the gut
 - [[Anima]] — The Jungian feminine principle in the male psyche
 - [[3rd House]] — The Moon's traditional joy, messenger of somatic intelligence
 - [[4th House]] — The Moon's natural rulership, private foundations
+
+---
+
+## References
+
+[^1]: Lilly, *Christian Astrology* (1647), Book 1; Ptolemy, *Tetrabiblos*, Book 1
+[^2]: Ptolemy, *Tetrabiblos*, Book 1: "The Moon is exalted in Taurus where she makes her first appearance after conjunction with the Sun"
+[^3]: Lilly, *Christian Astrology*, Book 1: The Moon rejoices in the 3rd House
+[^4]: Greek mythology (Grimoire): Artemis/Diana as virgin huntress, protector of wild places, governs childbirth; represents the Maiden/Crescent Moon
+[^5]: Greek mythology (Grimoire): Selene drives the silver chariot, visits Endymion in eternal sleep; represents the physical moon and biological rhythms
+[^6]: Egyptian mythology (Grimoire): Isis gathers the scattered Osiris and resurrects him; represents lunar capacity for reconstitution and healing
 
 ---
 

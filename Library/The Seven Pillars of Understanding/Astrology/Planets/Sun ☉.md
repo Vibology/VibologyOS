@@ -39,9 +39,9 @@ In alchemical tradition, the Sun is **Gold**, the incorruptible metal that resis
 | **Fall** | [[Libra ♎]] | 19° | — | — |
 | **Orbital Period** | 365.25 days (1 year) | — | — | — |
 
-The Sun rules **[[Leo ♌]]**, the sign of sovereign expression and creative will. It is exalted in **[[Aries ♈]]** at 19°, where the vital force erupts into pure initiation. In **[[Aquarius ♒]]** (detriment), the Sun struggles against collective homogenization; in **[[Libra ♎]]** (fall at 19°), it is dimmed by the need for relational compromise.
+The Sun rules **[[Leo ♌]]**, the sign of sovereign expression and creative will[^1]. It is exalted in **[[Aries ♈]]** at 19°, where the vital force erupts into pure initiation[^2]. In **[[Aquarius ♒]]** (detriment), the Sun struggles against collective homogenization; in **[[Libra ♎]]** (fall at 19°), it is dimmed by the need for relational compromise[^1].
 
-The Sun **joys in the 9th House** traditionally (philosophy, higher meaning, the quest for truth), though it naturally governs the **10th House** as the domain of public identity and vocation. The Sun is also associated with the **5th House** (creative expression, children, joy)—all domains where the solar principle radiates naturally.
+The Sun **joys in the 9th House** traditionally (philosophy, higher meaning, the quest for truth), though it naturally governs the **10th House** as the domain of public identity and vocation[^3]. The Sun is also associated with the **5th House** (creative expression, children, joy)—all domains where the solar principle radiates naturally.
 
 ---
 ### Sect: The Sun as Diurnal Sect Light
@@ -88,11 +88,11 @@ The Sun's exaltation degree (**Aries 19°**) corresponds to Gate 51 in the [[Hum
 
 The Sun's mythology spans cultures, but the **Greek Apollo** and **Egyptian Ra** are the archetypal foundation for Western astrology.
 
-**Apollo** is the god of light, music, prophecy, healing, and archery—the principle of *discriminating clarity*. He slays the Python at Delphi (the chthonic serpent of unconscious chaos), establishing the oracle where truth is spoken. Apollo represents the solar capacity to *see clearly*, to cut through illusion, to bring the unconscious into consciousness. He is also the god of **order** and **form**—the lyre whose strings must be tuned precisely, the arrow that flies true only when aim is steady.
+**Apollo** is the god of light, music, prophecy, healing, and archery—the principle of *discriminating clarity*. He slays the Python at Delphi (the chthonic serpent of unconscious chaos), establishing the oracle where truth is spoken[^4]. Apollo represents the solar capacity to *see clearly*, to cut through illusion, to bring the unconscious into consciousness. He is also the god of **order** and **form**—the lyre whose strings must be tuned precisely, the arrow that flies true only when aim is steady.
 
-**Ra**, the Egyptian sun god, travels across the sky in his solar barque, bringing light to the world. Each night, Ra descends into the underworld (Duat), battling the serpent **Apophis** (chaos, entropy, the devouring void). Ra's nightly journey mirrors the soul's descent into shadow—the solar hero must confront the darkness *within* to rise renewed each dawn. Ra is both creator and sustainer; without the Sun's light, the world ceases to exist.
+**Ra**, the Egyptian sun god, travels across the sky in his solar barque, bringing light to the world. Each night, Ra descends into the underworld (Duat), battling the serpent **Apophis** (chaos, entropy, the devouring void)[^5]. Ra's nightly journey mirrors the soul's descent into shadow—the solar hero must confront the darkness *within* to rise renewed each dawn. Ra is both creator and sustainer; without the Sun's light, the world ceases to exist.
 
-**Helios**, the Titan sun god (distinct from Apollo in early Greek mythology), drives the chariot of the sun across the heavens. His son **Phaethon** foolishly attempts to drive the chariot and loses control, nearly setting the world ablaze—a cautionary tale about **solar inflation** (the ego that believes itself equal to the Self).
+**Helios**, the Titan sun god (distinct from Apollo in early Greek mythology), drives the chariot of the sun across the heavens[^6]. His son **Phaethon** foolishly attempts to drive the chariot and loses control, nearly setting the world ablaze—a cautionary tale about **solar inflation** (the ego that believes itself equal to the Self).
 
 The solar archetype is thus: **the light that reveals, the center that holds, the principle that individuates**. But it is also the warning: identify *as* the Sun rather than *with* the Sun, and you become Phaethon—consumed by your own fire.
 
@@ -186,6 +186,16 @@ The Sun does not perform. It simply *is*—and in that being, the world organize
 - [[Individuation]] — The Jungian process toward the Self
 - [[5th House]] — The Sun's natural joy, creative expression
 - [[9th House]] — The Sun's traditional joy, quest for meaning
+
+---
+## References
+
+[^1]: Lilly, *Christian Astrology* (1647), Book 1; Ptolemy, *Tetrabiblos*, Book 1
+[^2]: Ptolemy, *Tetrabiblos*, Book 1: "The Sun's heating nature increases and the day lengthens upon entering Aries"
+[^3]: Lilly, *Christian Astrology*, Book 1: The Sun rejoices in the 9th House
+[^4]: Greek mythology (Grimoire): Apollo slays the Python and seizes the Delphic oracle; represents the light of consciousness
+[^5]: Egyptian mythology (Grimoire): Ra travels the solar barque through twelve provinces, battling Apep (serpent of chaos)
+[^6]: Greek mythology (Grimoire): Helios drives the golden chariot across the sky; the all-seeing eye who detects hidden secrets
 
 ---
 

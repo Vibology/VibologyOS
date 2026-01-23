@@ -33,9 +33,9 @@ In alchemical tradition, Saturn is **Lead**—the densest, heaviest metal, the b
 
 The planet Saturn inherits its archetype from the **Greek Chronos** (often conflated with Kronos) and the **Roman Saturn**—both deities of paradox, presiding over both creation and destruction, liberation and tyranny.
 
-**Chronos (Kronos)** is the youngest of the Titans, son of **Uranus** (Sky) and **Gaia** (Earth). Uranus, fearing his children, imprisoned them within Gaia's womb. In agony, Gaia fashioned a sickle and gave it to Chronos, who **castrated his father** and severed Sky from Earth—the primal act of separation that allowed the cosmos to breathe. Chronos became the Titan-King, ruler of the **Golden Age**—a time without labor, without suffering, without death. Yet prophecy warned that he, too, would be overthrown by his own son.
+**Chronos (Kronos)** is the youngest of the Titans, son of **Uranus** (Sky) and **Gaia** (Earth). Uranus, fearing his children, imprisoned them within Gaia's womb. In agony, Gaia fashioned a sickle and gave it to Chronos, who **castrated his father** and severed Sky from Earth—the primal act of separation that allowed the cosmos to breathe[^4]. Chronos became the Titan-King, ruler of the **Golden Age**—a time without labor, without suffering, without death[^5]. Yet prophecy warned that he, too, would be overthrown by his own son.
 
-In terror, Chronos **devoured his children** the moment they were born: Hestia, Demeter, Hera, Hades, Poseidon—consumed whole. His wife Rhea, in desperation, hid the youngest son, **Zeus**, and gave Chronos a stone wrapped in swaddling cloth. Chronos swallowed it without noticing. When Zeus matured, he freed his siblings from their father's belly and led the war (the **Titanomachy**) that overthrew Chronos, casting the Titans into Tartarus.
+In terror, Chronos **devoured his children** the moment they were born: Hestia, Demeter, Hera, Hades, Poseidon—consumed whole[^6]. His wife Rhea, in desperation, hid the youngest son, **Zeus**, and gave Chronos a stone wrapped in swaddling cloth. Chronos swallowed it without noticing. When Zeus matured, he freed his siblings from their father's belly and led the war (the **Titanomachy**) that overthrew Chronos, casting the Titans into Tartarus.
 
 Yet Chronos is not merely the **Devouring Father**—he is also **Time itself**. The sickle that castrated Uranus became the **scythe of the Reaper**, the blade that harvests what has ripened and cuts down what has not. Chronos does not kill arbitrarily; he kills *when the time has come*. He is the principle of **mortality**—the force that ensures nothing escapes consequence, that all things ripen and rot in their season.
 
@@ -48,15 +48,15 @@ The Saturnian archetype is thus: **the father who devours his children to protec
 
 | Dignity | Sign | Degree | House | Sect |
 |---------|------|--------|-------|------|
-| **Domicile** | [[Capricorn ♑]] / [[Aquarius ♒]] | — | 10th, 12th | Diurnal (Day) |
+| **Domicile** | [[Capricorn ♑]] / [[Aquarius ♒]] | — | 12th (Joy), 10th, 11th | Diurnal (Day) |
 | **Exaltation** | [[Libra ♎]] | 21° | — | — |
 | **Detriment** | [[Cancer ♋]] / [[Leo ♌]] | — | — | — |
 | **Fall** | [[Aries ♈]] | 21° | — | — |
 | **Orbital Period** | 29.5 years | — | — | — |
 
-Saturn rules **[[Capricorn ♑]]** (structure, mastery, the climb to the peak) and **[[Aquarius ♒]]** (the crystallization of collective law). He is exalted in **[[Libra ♎]]** at 21°, where justice is impartial and consequences are fairly distributed. In **[[Cancer ♋]]** (detriment), Saturn's coldness is incompatible with emotional nurturance. In **[[Leo ♌]]** (also detriment), his austerity conflicts with solar radiance and creative self-expression. In **[[Aries ♈]]** (fall at 21°), his caution clashes with the impulse to initiate without preparation.
+Saturn rules **[[Capricorn ♑]]** (structure, mastery, the climb to the peak) and **[[Aquarius ♒]]** (the crystallization of collective law)[^1]. He is exalted in **[[Libra ♎]]** at 21°, where justice is impartial and consequences are fairly distributed[^2]. In **[[Cancer ♋]]** (detriment), Saturn's coldness is incompatible with emotional nurturance. In **[[Leo ♌]]** (also detriment), his austerity conflicts with solar radiance and creative self-expression. In **[[Aries ♈]]** (fall at 21°), his caution clashes with the impulse to initiate without preparation[^1].
 
-Saturn governs the **10th House** (public authority, the culmination of ambition) and the **12th House** (the dissolution of ego, karmic consequence).
+Saturn **joys in the 12th House**—the domain of sorrow, imprisonment, self-undoing, and hidden consequence[^3]. Through his domiciles, Saturn also governs the **10th House** via Capricorn (public authority, the culmination of ambition) and the **11th House** via Aquarius (traditional rulership—collective structures and crystallized law).
 
 ### Sect: Saturn as Diurnal (Greater Malefic)
 
@@ -99,9 +99,9 @@ The **house placement** of natal Saturn reveals *where* the soul encounters limi
 - **7th House:** Difficulty in partnership, attraction to older or austere partners, or fear of commitment. The relationship as test, the marriage as contract. Risk: cold unions, partnerships based on duty rather than love, fear of intimacy.
 - **8th House:** Confrontation with death, inheritance denied, or difficulty receiving from others. The native who must face the underworld alone, who earns transformation through endurance. Risk: fear of death, sexual repression, isolation in crisis.
 - **9th House:** Skepticism toward belief systems, difficulty with higher education or travel, or mastery of philosophy through discipline. The scholar who questions everything, the traveler who cannot escape their past. Risk: dogmatic atheism, inability to trust meaning.
-- **10th House:** Saturn's natural joy (co-rulership of [[Capricorn ♑]]). Ambition as destiny; career built through slow, relentless effort. Public authority earned, not given. Risk: tyrannical ambition, collapse under the weight of responsibility, the elder who never rests.
-- **11th House:** Difficulty with community, isolation from peers, or late-blooming friendships. The native who stands outside the collective until they earn their place within it. Risk: loneliness, distrust of groups, the exile.
-- **12th House:** Saturn's co-rulership (through traditional [[Aquarius ♒]]). Hidden burdens, karmic consequence, or mastery through solitude and contemplation. The monk, the prisoner, the one who dissolves the ego through suffering. Risk: institutionalization, self-imposed exile, the martyr.
+- **10th House:** Saturn's natural rulership (via Capricorn). Ambition as destiny; career built through slow, relentless effort. Public authority earned, not given. Risk: tyrannical ambition, collapse under the weight of responsibility, the elder who never rests.
+- **11th House:** Saturn's natural rulership (via Aquarius, traditional). Difficulty with community, isolation from peers, or late-blooming friendships. The native who stands outside the collective until they earn their place within it. Risk: loneliness, distrust of groups, the exile.
+- **12th House:** Saturn's traditional joy. Hidden burdens, karmic consequence, or mastery through solitude and contemplation. The monk, the prisoner, the one who dissolves the ego through suffering. Saturn rejoices here as the author of mischief, the hidden weight that tests the soul. Risk: institutionalization, self-imposed exile, the martyr.
 
 ---
 ## Saturn as Chart Ruler (Capricorn Rising and Aquarius Rising)
@@ -223,8 +223,20 @@ Saturn teaches that limitation is not punishment. It is **initiation**—the ord
 - [[Death (Tarot)]] — Key XIII, transformation through release and harvest
 - [[Human Design]] — Root Center (pressure to evolve), Gate 60 (limitation)
 - [[Shadow]] — Saturn as the rejected part of the Self
-- [[10th House]] — Saturn's natural joy, public authority and ambition
-- [[12th House]] — Saturn's co-rulership, karmic consequence and dissolution
+- [[12th House]] — Saturn's traditional joy, hidden burdens and karmic consequence
+- [[10th House]] — Saturn's natural rulership via Capricorn, public authority and ambition
+- [[11th House]] — Saturn's natural rulership via Aquarius (traditional), collective structures
+
+---
+
+## References
+
+[^1]: Lilly, *Christian Astrology* (1647), Book 1; Ptolemy, *Tetrabiblos*, Book 1
+[^2]: Ptolemy, *Tetrabiblos*, Book 1: "Saturn is exalted in Libra to preserve his station opposite the Sun (exalted in Aries), opposing heat with cold"
+[^3]: Lilly, *Christian Astrology*, Book 1: Saturn rejoices in the 12th House, the house of sorrow, imprisonment, and self-undoing, because he is naturally the "author of mischief"
+[^4]: Greek mythology (Grimoire): Kronos castrated his father Uranus with a sickle, separating Sky from Earth; this act symbolizes the creation of boundaries and linear time
+[^5]: Greek mythology (Grimoire): Kronos ruled during the Golden Age, a time of agricultural abundance and peace before his fall
+[^6]: Greek mythology (Grimoire): Kronos devoured his children (the future Olympians) immediately after birth; Rhea saved Zeus by feeding Kronos a stone wrapped in swaddling clothes; establishes Saturn as the Terrible Father who resists change
 
 ---
 

@@ -33,15 +33,15 @@ In alchemical tradition, Jupiter is **Tin**—the metal of resonance and amplifi
 
 | Dignity | Sign | Degree | House | Sect |
 |---------|------|--------|-------|------|
-| **Domicile** | [[Sagittarius ♐]] / [[Pisces ♓]] | — | 9th (Philosophy), 11th (Community) | Diurnal (Day) |
+| **Domicile** | [[Sagittarius ♐]] / [[Pisces ♓]] | — | 11th (Joy), 9th, 12th | Diurnal (Day) |
 | **Exaltation** | [[Cancer ♋]] | 15° | — | — |
 | **Detriment** | [[Gemini ♊]] / [[Virgo ♍]] | — | — | — |
 | **Fall** | [[Capricorn ♑]] | 15° | — | — |
 | **Orbital Period** | 11.86 years (~12-year cycle) | — | — | — |
 
-Jupiter rules **[[Sagittarius ♐]]** (the quest for meaning, the expansion into foreign lands) and **[[Pisces ♓]]** (the dissolution of boundaries into universal compassion). He is exalted in **[[Cancer ♋]]** at 15°, where protection and nourishment are given freely. In **[[Gemini ♊]]** (detriment), Jupiter struggles with the relativism of data—he prefers Truth to facts. In **[[Capricorn ♑]]** (fall), his expansiveness is constrained by pragmatic limitation.
+Jupiter rules **[[Sagittarius ♐]]** (the quest for meaning, the expansion into foreign lands) and **[[Pisces ♓]]** (the dissolution of boundaries into universal compassion)[^1]. He is exalted in **[[Cancer ♋]]** at 15°, where protection and nourishment are given freely[^2]. In **[[Gemini ♊]]** (detriment), Jupiter struggles with the relativism of data—he prefers Truth to facts. In **[[Capricorn ♑]]** (fall), his expansiveness is constrained by pragmatic limitation[^1].
 
-Jupiter governs the **9th House** (higher learning, philosophy, distant travel) and the **11th House** (community, ideals, future vision).
+Jupiter **joys in the 11th House**—the domain of friends, hopes, trust, and the collective vision that extends beyond the self[^3]. Through his domiciles, Jupiter also governs the **9th House** via Sagittarius (higher learning, philosophy, distant travel) and the **12th House** via Pisces (traditional rulership—dissolution, compassion, the hidden realm).
 
 ### Sect: Jupiter as Diurnal Benefic
 
@@ -90,11 +90,13 @@ In esoteric anatomy, Jupiter governs the **liver** (detoxification, metabolic ex
 
 Jupiter inherits his archetypal power from **Zeus** (Greek) and **Jupiter** (Roman), but his roots extend deeper—to the Indo-European **Dyeus Pater** (Sky Father), the original patriarch of the heavens who presides over justice, thunder, and the cosmic order.
 
-**Zeus's rise to power** is a narrative of liberation and law. His father **Kronos** (Saturn) devoured his children to prevent the prophecy that one would overthrow him. Zeus alone escaped, hidden by his mother **Rhea**, and returned as the liberator—forcing Kronos to regurgitate his siblings and waging war against the **Titans**. Zeus did not claim power through birthright alone but through **strategic alliance** (rallying the Olympians) and **cosmic authority** (wielding the thunderbolt forged by the Cyclopes).
+**Zeus's rise to power** is a narrative of liberation and law. His father **Kronos** (Saturn) devoured his children to prevent the prophecy that one would overthrow him. Zeus alone escaped—hidden in a cave on Mount Ida, suckled by the goat Amaltheia—and returned as the liberator, forcing Kronos to regurgitate his siblings and waging war against the **Titans**[^4]. Zeus did not claim power through birthright alone but through **strategic alliance** (rallying the Olympians) and **cosmic authority** (wielding the thunderbolt forged by the Cyclopes).
 
 **The Gigantomachy** (the war against the Giants) reveals Jupiter's role as the **defender of order against chaos**. The Giants represented primal, earth-born forces that threatened the structured cosmos. Zeus and the Olympians defeated them not through brute strength alone but through **divine law**—the principle that the universe is governed by justice, not mere power.
 
 **Zeus as the god of hospitality and oaths** establishes Jupiter's ethical dimension. He is **Zeus Xenios** (protector of guests and strangers) and **Zeus Horkios** (keeper of oaths). To violate hospitality or break a sworn oath is to offend Jupiter directly. The Jovian principle is thus: **expansion must be tempered by integrity**. The king who rules justly is protected; the tyrant who abuses power is struck down.
+
+**Zeus as the Sky Father and progenitor:** His name derives from roots meaning "bright sky," lord of the thunderbolt and rain[^5]. His countless unions with goddesses and mortals—Europa, Leda, Semele—encode the principle of **proliferation and dissemination**: Jupiter scatters his gifts widely, trusting that the worthy will rise[^6].
 
 **Zeus's many liaisons** are often read as mere philandering, but esoterically they encode the principle of **proliferation and dissemination**. Zeus unites with mortals, nymphs, and goddesses, and from these unions arise heroes, demigods, and the threads of destiny. Jupiter does not hoard his gifts—he scatters them widely, trusting that the worthy will rise. The shadow, of course, is **excess without discrimination**: the king who cannot restrain his appetites, whose expansion becomes inflation.
 
@@ -113,10 +115,10 @@ The **house placement** of natal Jupiter reveals where the native experiences ex
 - **6th House:** Growth through service, craft, and daily ritual. The native finds meaning in work and expands through disciplined practice. Health benefits from optimism. Shadow: overwork disguised as mission, martyr complex.
 - **7th House:** Fortune through partnership and relational expansion. The native attracts generous, wise, or foreign partners. Marriage expands worldview. Shadow: idealization of the Other, partner as guru rather than equal.
 - **8th House:** Expansion through crisis, transformation, and shared resources. The native receives inheritance, benefits from others' wealth, or experiences regeneration through depth work. Shadow: recklessness in risk-taking, spiritual bypassing of shadow.
-- **9th House:** Jupiter in his natural rulership (Sagittarius rules the 9th). The native is the eternal student, traveler, philosopher. Meaning is discovered through questing. Higher education, foreign lands, and spiritual seeking are primary. Shadow: dogmatism, the belief that one's truth is universal.
+- **9th House:** Jupiter's natural rulership (via Sagittarius). The native is the eternal student, traveler, philosopher. Meaning is discovered through questing. Higher education, foreign lands, and spiritual seeking are primary. Shadow: dogmatism, the belief that one's truth is universal.
 - **10th House:** Public recognition and vocational expansion. The native's career involves teaching, law, philosophy, or leadership. Reputation is built on integrity and wisdom. Shadow: inflation of status, the guru complex.
-- **11th House:** Jupiter in his natural rulership (Aquarius rules the 11th, traditional). Fortune through community, friendship, and collective vision. The native attracts allies easily and benefits from networks. Shadow: over-reliance on collective, loss of personal authority.
-- **12th House:** Expansion into the transpersonal, the hidden, the mystical. The native finds wisdom through solitude, retreat, or spiritual practice. Faith operates invisibly. Shadow: escapism, spiritual inflation, the guru who hides from accountability.
+- **11th House:** Jupiter's traditional joy. Fortune through community, friendship, and collective vision. The native attracts allies easily and benefits from networks. Jupiter rejoices here in the house of hopes, friends, and trust. Shadow: over-reliance on collective, loss of personal authority.
+- **12th House:** Jupiter's natural rulership (via Pisces, traditional). Expansion into the transpersonal, the hidden, the mystical. The native finds wisdom through solitude, retreat, or spiritual practice. Faith operates invisibly. Shadow: escapism, spiritual inflation, the guru who hides from accountability.
 
 ---
 ## Jupiter as Chart Ruler (Sagittarius Rising and Pisces Rising)
@@ -230,8 +232,20 @@ Jupiter teaches that faith is not blind. It is the willingness to act *as if* th
 - [[The Wheel of Fortune (Tarot)]] — Key X, expansion and the turning of fate
 - [[Human Design]] — Gate 29 (Jupiter exaltation degree), perseverance through faith
 - [[Wise Old Man]] — The Jungian archetype of perspective and guidance
-- [[9th House]] — Jupiter's natural rulership, higher learning and philosophy
-- [[11th House]] — Jupiter's natural rulership (traditional), community and collective vision
+- [[11th House]] — Jupiter's traditional joy, friends, hopes, and trust
+- [[9th House]] — Jupiter's natural rulership via Sagittarius, higher learning and philosophy
+- [[12th House]] — Jupiter's natural rulership via Pisces (traditional), compassion and hidden wisdom
+
+---
+
+## References
+
+[^1]: Lilly, *Christian Astrology* (1647), Book 1; Ptolemy, *Tetrabiblos*, Book 1
+[^2]: Ptolemy, *Tetrabiblos*, Book 1: "Jupiter is exalted in Cancer because he excites fruitful breezes from the north and becomes most northerly in this sign"
+[^3]: Lilly, *Christian Astrology*, Book 1: Jupiter rejoices in the 11th House, the house of friends, hopes, and trust
+[^4]: Greek mythology (Grimoire): Zeus saved from Cronus by Rhea, hidden in a cave on Mount Ida, suckled by the goat Amaltheia; overthrows the Titans and establishes the Olympian order
+[^5]: Greek mythology (Grimoire): Zeus's name derives from roots meaning "bright sky"; lord of thunderbolt, rain, and atmospheric phenomena; worshipped on mountain tops
+[^6]: Greek mythology (Grimoire): Zeus's countless unions (Europa, Leda, Semele) reflect endless fertility, boundless creativity, and the drive to proliferate and disseminate
 
 ---
 

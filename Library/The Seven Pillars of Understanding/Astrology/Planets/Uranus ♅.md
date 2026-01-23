@@ -6,8 +6,8 @@ glyph: ♅
 alchemical: Technology, Uranium
 source_verified: synthesis
 verification_date: 2026-01-23
-grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
-verification_notes: "Core dignities and traditional meanings verified against Grimoire. Synthesis includes Jungian archetypal depth, mythology (Greek/Roman), cross-system correspondences, and esoteric interpretation."
+grimoire_source: "Greek mythology (Hesiod's Theogony - Ouranos cosmogony), Modern esoteric astrology (post-1781), Human Design, Qabalistic correspondences"
+verification_notes: "Ouranos mythology verified against Grimoire (Greek cosmogony, castration by Cronus). Modern astrological interpretations (rulership of Aquarius, Human Design 7→9 centered shift, Promethean archetype) verified. Note: Uranus absent from traditional astrology (Lilly/Ptolemy) as it was discovered in 1781."
 ---
 # Uranus ♅
 *The Revolutionary, the Side Track, and the Uranian Era*
@@ -40,11 +40,11 @@ In alchemical tradition, Uranus is **Uranium**—the radioactive element that re
 | **Fall** | [[Taurus ♉]] | — | — | — |
 | **Orbital Period** | 84 years | — | — | — |
 
-Uranus rules **[[Aquarius ♒]]**—the sign of the collective, the humanitarian vision, the future that has not yet arrived. This is a **modern rulership** (post-1781 discovery); traditional astrology assigns [[Saturn ♄]] to Aquarius, encoding the tension between *Saturnian crystallization* (law, structure, tradition) and *Uranian rupture* (revolution, innovation, deviation). Both are true: Aquarius is the crystallized law ([[Saturn ♄]]) that must be shattered by the unexpected ([[Uranus ♅]]) so the new order can emerge.
+Uranus rules **[[Aquarius ♒]]**—the sign of the collective, the humanitarian vision, the future that has not yet arrived[^1]. This is a **modern rulership** (post-1781 discovery); traditional astrology assigns [[Saturn ♄]] to Aquarius, encoding the tension between *Saturnian crystallization* (law, structure, tradition) and *Uranian rupture* (revolution, innovation, deviation). Both are true: Aquarius is the crystallized law ([[Saturn ♄]]) that must be shattered by the unexpected ([[Uranus ♅]]) so the new order can emerge.
 
-Uranus is exalted in **[[Scorpio ♏]]**, where mutation is embraced as transformation, where death is not feared but metabolized. In **[[Leo ♌]]** (detriment), Uranus clashes with the solar need for centralized identity and heroic individualism—the revolutionary cannot shine as the Sun does; he operates through the collective, the network, the distributed intelligence. In **[[Taurus ♉]]** (fall), his chaos is incompatible with the bull's demand for stability, sensory continuity, and the known.
+Uranus is exalted in **[[Scorpio ♏]]**, where mutation is embraced as transformation, where death is not feared but metabolized[^1]. In **[[Leo ♌]]** (detriment), Uranus clashes with the solar need for centralized identity and heroic individualism—the revolutionary cannot shine as the Sun does; he operates through the collective, the network, the distributed intelligence. In **[[Taurus ♉]]** (fall), his chaos is incompatible with the bull's demand for stability, sensory continuity, and the known.
 
-Uranus governs the **11th House**—the domain of community, future vision, and the collective patterns that transcend individual ego.
+**Note on House Association:** Uranus is associated with the **11th House** through modern sign rulership (Uranus→Aquarius→11th House), but this is not a traditional "house joy" (a Hellenistic/medieval concept predating Uranus's discovery). The association reflects thematic resonance rather than classical doctrine.
 
 ### Sect: Uranus as Post-Traditional (No Sect Assignment)
 
@@ -93,13 +93,13 @@ In esoteric anatomy, Uranus governs the **nervous system** (electrical impulse, 
 
 The planet Uranus inherits its archetype from the Greek **Ouranos** (Latinized as *Uranus*)—the primordial Sky Father, consort of Gaia (Earth). Ouranos is not merely "the heavens" in an abstract sense; he is the *first generative principle*, the vast, undifferentiated potential from which all subsequent forms emerge.
 
-**The Castration Myth:** Ouranos, repulsed by the chaotic offspring born from his union with Gaia (the Titans, Cyclopes, and Hecatoncheires—hundred-handed giants), imprisoned them within Gaia's body. In anguish, Gaia fashioned a sickle and gave it to her youngest son, **Chronos** ([[Saturn ♄]]), who ambushed Ouranos and severed his genitals, casting them into the sea.
+**The Castration Myth:** Ouranos, repulsed by the chaotic offspring born from his union with Gaia (the Titans, Cyclopes, and Hecatoncheires—hundred-handed giants), imprisoned them within Gaia's body[^2]. In anguish, Gaia fashioned a sickle and gave it to her youngest son, **Chronos** ([[Saturn ♄]]), who ambushed Ouranos and severed his genitals, casting them into the sea[^3].
 
-From the foam (aphros) where the severed genitals fell, **Aphrodite** (Venus) was born—the goddess of beauty, desire, and generative union. This is the mythopoetic encoding of the Uranian principle: **creation through rupture**. The castration is not mere violence but a *necessary differentiation*—the chaotic totality of Ouranos (undifferentiated potential) must be *severed* so that form (Chronos/Saturn's reign) and beauty (Aphrodite/Venus) can emerge.
+From the foam (aphros) where the severed genitals fell, **Aphrodite** (Venus) was born—the goddess of beauty, desire, and generative union[^3]. This is the mythopoetic encoding of the Uranian principle: **creation through rupture**. The castration is not mere violence but a *necessary differentiation*—the chaotic totality of Ouranos (undifferentiated potential) must be *severed* so that form (Chronos/Saturn's reign) and beauty (Aphrodite/Venus) can emerge.
 
 Uranus is the **prior state**—the wholeness before separation, the unity before consciousness. His wounding is the price of evolution. Without the castration, there is no time (Chronos), no structure (Saturn), no beauty (Aphrodite), and ultimately, no consciousness.
 
-**Prometheus as Uranian Archetype:** The myth of Prometheus—who defies Zeus by stealing fire (technology, knowledge, divine power) and giving it to humanity—is the Uranian impulse distilled. Prometheus is punished for his transgression (chained to a rock, his liver eternally devoured by an eagle), yet he does not recant. The Uranian archetype is the **unrepentant deviant**, the one who believes that liberation is worth the suffering, that the gift to humanity justifies the wrath of the gods.
+**Prometheus as Uranian Archetype:** The myth of Prometheus—who defies Zeus by stealing fire (technology, knowledge, divine power) and giving it to humanity—is the Uranian impulse distilled[^4]. Prometheus is punished for his transgression (chained to a rock, his liver eternally devoured by an eagle), yet he does not recant. The Uranian archetype is the **unrepentant deviant**, the one who believes that liberation is worth the suffering, that the gift to humanity justifies the wrath of the gods.
 
 Uranus, then, is both the primordial creative chaos (Ouranos) and the civilizational rupture (Prometheus)—the force that gives birth to the new by violating the old.
 
@@ -118,7 +118,7 @@ The **house placement** of natal Uranus reveals *where* the rupture occurs, wher
 - **8th House:** Sudden transformations, unconventional sexuality, rupture around shared resources or inheritance. Death/rebirth cycles accelerated. Risk: trauma, obsession with the taboo.
 - **9th House:** Revolutionary philosophy, deviation from inherited belief systems, sudden insights into meaning. The heretic, the iconoclast. Risk: ideological extremism, exile from one's culture.
 - **10th House:** Unconventional career, sudden shifts in public reputation, the maverick in the professional sphere. Risk: instability in vocation, public scandal.
-- **11th House:** Uranus's natural joy. Radical community involvement, visionary futures, alignment with collective change. The revolutionary among revolutionaries. Risk: utopian delusion, betrayal by the group.
+- **11th House:** Uranus's modern sign rulership (via Aquarius). Radical community involvement, visionary futures, alignment with collective change. The revolutionary among revolutionaries. Risk: utopian delusion, betrayal by the group.
 - **12th House:** Hidden genius, unconscious rebellion, sudden spiritual awakenings or breakdowns. The mystic who operates outside consensus reality. Risk: psychosis, exile, inability to integrate the vision.
 
 ---
@@ -219,8 +219,18 @@ Uranus teaches that evolution is not gradual. It is **punctuated equilibrium**�
 - [[The Tower (Tarot)]] — Key XVI, lightning strike and necessary destruction
 - [[The Fool (Tarot)]] — Key 0, the leap into the unknown
 - [[Human Design]] — Spleen Center (in-the-moment awareness, Uranian consciousness)
-- [[11th House]] — Uranus's natural joy, collective patterns and future vision
+- [[11th House]] — Uranus's modern association via Aquarius rulership, collective patterns and future vision
 - [[Prometheus]] — Mythic archetype of the fire-bringer, the unrepentant deviant
+
+---
+
+## References
+
+[^1]: Modern esoteric astrology (Grimoire): Uranus discovered 1781; modern ruler of Aquarius (co-ruler with Saturn); associated with Promethean spirit, breaking crystallized attitudes, collective change; exalted in Scorpio
+[^2]: Greek mythology (Grimoire): Ouranos (Uranus) the starry sky, born of Gaea (Earth); fathered Titans, Cyclopes, Hecatoncheires but imprisoned them in Tartarus for their ugliness
+[^3]: Greek mythology (Grimoire): Cronus castrated Uranus with a sickle at Gaea's urging; blood birthed Erinyes and Giants; severed genitals cast into sea birthed Aphrodite from the foam
+[^4]: Greek mythology (Grimoire): Prometheus as Uranian archetype—defies Zeus, steals fire for humanity, chained to rock; represents the Promethean urge for differentiation and technology
+[^5]: Human Design (Grimoire): Discovery of Uranus in 1781 marks shift from 7-centered humanity (Saturnian) to 9-centered humanity (Uranian); governs "unusualness," chaos and order, mid-life Uranus Opposition (ages 38-44)
 
 ---
 

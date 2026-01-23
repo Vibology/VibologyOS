@@ -33,15 +33,15 @@ In alchemical tradition, Mercury is **Quicksilver**—the volatile, shape-shifti
 
 | Dignity | Sign | Degree | House | Sect |
 |---------|------|--------|-------|------|
-| **Domicile** | [[Gemini ♊]] / [[Virgo ♍]] | — | 3rd, 6th | Neutral (adapts to chart sect) |
+| **Domicile** | [[Gemini ♊]] / [[Virgo ♍]] | — | 1st (Joy), 3rd, 6th | Neutral (adapts to chart sect) |
 | **Exaltation** | [[Virgo ♍]] | 15° | — | — |
 | **Detriment** | [[Sagittarius ♐]] / [[Pisces ♓]] | — | — | — |
 | **Fall** | [[Pisces ♓]] | 15° | — | — |
 | **Orbital Period** | 88 days (~3 months) | — | — | — |
 
-Mercury rules both **[[Gemini ♊]]** (the gathering of data, the networked mind) and **[[Virgo ♍]]** (the refinement of data, the discerning mind). He is exalted in **[[Virgo ♍]]** at 15°, where perception is sharpened into precision. In **[[Sagittarius ♐]]** (detriment), Mercury struggles against the need for grand narrative—he prefers the particular to the universal. In **[[Pisces ♓]]** (fall), he dissolves into the oceanic, losing the boundaries necessary for clear thought.
+Mercury rules both **[[Gemini ♊]]** (the gathering of data, the networked mind) and **[[Virgo ♍]]** (the refinement of data, the discerning mind)[^1]. He is exalted in **[[Virgo ♍]]** at 15°, where perception is sharpened into precision[^2]. In **[[Sagittarius ♐]]** (detriment), Mercury struggles against the need for grand narrative—he prefers the particular to the universal. In **[[Pisces ♓]]** (fall), he dissolves into the oceanic, losing the boundaries necessary for clear thought[^1].
 
-Mercury governs the **3rd House** (immediate environment, siblings, communication) and the **6th House** (daily routine, health, service, refinement).
+Mercury **joys in the 1st House** (the Ascendant), governing the head, tongue, fancy, and memory—the organs and faculties of immediate perception and articulation[^3]. Through his domiciles, Mercury also governs the **3rd House** via Gemini (immediate environment, siblings, communication) and the **6th House** via Virgo (daily routine, health, service, refinement).
 
 ### Sect: Mercury as Neutral Chameleon
 
@@ -84,13 +84,13 @@ In esoteric anatomy, Mercury governs the **nervous system**—the electrical net
 
 Mercury's mythology spans cultures, but **Hermes** (Greek), **Mercury** (Roman), and **Thoth** (Egyptian) form the archetypal triad of the divine messenger.
 
-**Hermes** is born in a cave, and by midday he has already stolen Apollo's cattle, invented the lyre, and negotiated his way into Olympus. He is the **trickster-god**—cunning, eloquent, and morally ambiguous. Hermes does not judge; he *facilitates*. He carries messages between Zeus and mortals, guides souls to the underworld (psychopomp), and protects travelers, merchants, and thieves alike. Hermes is the god of **crossroads**—the liminal space where choices are made, where one path becomes many.
+**Hermes** is born in a cave, and by midday he has already stolen Apollo's cattle, invented the lyre, and negotiated his way into Olympus[^4]. He is the **trickster-god**—cunning, eloquent, and morally ambiguous. Hermes does not judge; he *facilitates*. He carries messages between Zeus and mortals, guides souls to the underworld (psychopomp), and protects travelers, merchants, and thieves alike[^5]. Hermes is the god of **crossroads**—the liminal space where choices are made, where one path becomes many.
 
 Hermes also represents **cunning intelligence** (metis in Greek)—the capacity to adapt, to deceive, to negotiate, to survive by wit rather than force. He is the youngest son who outsmarts his elders, the merchant who talks his way into fortune, the poet who turns language into magic.
 
 **Mercury** (Roman) inherits Hermes' traits but emphasizes **commerce and trade**. Mercury is the god of the marketplace, the exchange of goods and ideas, the principle that *nothing has inherent value until it is communicated and agreed upon*. He is the negotiator, the translator, the one who makes deals and moves resources.
 
-**Thoth** (Egyptian) is the scribe of the gods, the inventor of writing, mathematics, and astronomy. Thoth records the judgments of the dead in the Hall of Ma'at, weighing the heart against the feather of truth. He is **cosmic intelligence**—the principle that reality itself is structured through language and symbol. Thoth does not merely transmit; he *encodes* divine law into communicable form.
+**Thoth** (Egyptian) is the scribe of the gods, the inventor of writing, mathematics, and astronomy[^6]. Thoth records the judgments of the dead in the Hall of Ma'at, weighing the heart against the feather of truth. He is **cosmic intelligence**—the principle that reality itself is structured through language and symbol. Thoth does not merely transmit; he *encodes* divine law into communicable form.
 
 The mercurial archetype is thus: **the mediator between realms, the translator of the ineffable, the intelligence that adapts to survive**. But it is also the warning: language can deceive as easily as it illuminates, and the messenger may distort the message for personal gain.
 
@@ -99,9 +99,9 @@ The mercurial archetype is thus: **the mediator between realms, the translator o
 
 The **house placement** of natal Mercury reveals *where* the mind concentrates, where communication is most active, and where learning becomes a life theme.
 
-- **1st House:** The mind is the self. Identity = thought, speech, constant movement. Mercury here talks, writes, and thinks its way into existence.
+- **1st House:** Mercury's traditional joy. The mind is the self. Identity = thought, speech, constant movement. Mercury here talks, writes, and thinks its way into existence.
 - **2nd House:** The mind organizes resources. Thought is practical, focused on value, security, and skill acquisition. Communication = commerce.
-- **3rd House:** Mercury's natural joy. The mind is restless, curious, networked. Learning is constant; the environment is data to be absorbed.
+- **3rd House:** Mercury's natural rulership (via Gemini). The mind is restless, curious, networked. Learning is constant; the environment is data to be absorbed.
 - **4th House:** The mind processes ancestry and emotional foundation. Thought is private, interior, focused on family narratives and psychological roots.
 - **5th House:** The mind expresses creatively. Thought becomes art, play, storytelling. Communication = performance, teaching, joy.
 - **6th House:** Mercury's second domicile. The mind refines through repetition. Thought is analytical, detail-oriented, focused on craft and service.
@@ -226,8 +226,20 @@ Mercury does not care about truth in the absolute sense. He cares about **transm
 - [[Human Design]] — Ajna Center (mental processing, conceptualization)
 - [[Hermes]] — The Trickster, psychopomp, divine messenger
 - [[Thoth]] — Egyptian scribe of divine law, cosmic intelligence
-- [[3rd House]] — Mercury's first house rulership, immediate environment and communication
-- [[6th House]] — Mercury's second house rulership, refinement and service
+- [[1st House]] — Mercury's traditional joy, the Ascendant
+- [[3rd House]] — Mercury's natural rulership via Gemini, immediate environment and communication
+- [[6th House]] — Mercury's natural rulership via Virgo, refinement and service
+
+---
+
+## References
+
+[^1]: Lilly, *Christian Astrology* (1647), Book 1; Ptolemy, *Tetrabiblos*, Book 1
+[^2]: Ptolemy, *Tetrabiblos*, Book 1: "Mercury is exalted in Virgo because dryness (his nature) begins to appear in autumn"
+[^3]: Lilly, *Christian Astrology*, Book 1: Mercury rejoices in the 1st House (the Ascendant) because it represents the Head, Tongue, Fancy, and Memory
+[^4]: Greek mythology (Grimoire): Hermes born in a cave, steals Apollo's cattle on the day of his birth, invents the lyre from a tortoise shell
+[^5]: Greek mythology (Grimoire): Hermes as psychopomp (guide of souls to the underworld), messenger of the gods, conductor between realms; governs crossroads and transitions
+[^6]: Egyptian mythology (Grimoire): Thoth as scribe of the gods, inventor of writing and mathematics, recorder of the judgment of the dead in the Hall of Ma'at
 
 ---
 

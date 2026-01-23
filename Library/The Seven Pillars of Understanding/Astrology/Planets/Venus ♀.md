@@ -33,15 +33,15 @@ In alchemical tradition, Venus is **Salt**—the principle of crystallization, t
 
 | Dignity | Sign | Degree | House | Sect |
 |---------|------|--------|-------|------|
-| **Domicile** | [[Taurus ♉]] / [[Libra ♎]] | — | 7th (Partnership) | Nocturnal (Night) |
+| **Domicile** | [[Taurus ♉]] / [[Libra ♎]] | — | 5th (Joy), 2nd, 7th | Nocturnal (Night) |
 | **Exaltation** | [[Pisces ♓]] | 27° | — | — |
 | **Detriment** | [[Aries ♈]] / [[Scorpio ♏]] | — | — | — |
 | **Fall** | [[Virgo ♍]] | 27° | — | — |
 | **Orbital Period** | 225 days (~7.5 months) | — | — | — |
 
-Venus rules **[[Taurus ♉]]** (embodied pleasure, sensory richness) and **[[Libra ♎]]** (aesthetic harmony, relational balance). She is exalted in **[[Pisces ♓]]** at 27°, where love dissolves all boundaries and becomes universal compassion. In **[[Aries ♈]]** (detriment), Venus struggles with the rawness of unmediated desire. In **[[Scorpio ♏]]** (detriment), she is pulled into the underworld's intensity, where beauty is consumed by transformation. In **[[Virgo ♍]]** (fall), she is subjected to critique, her beauty dissected into flaws.
+Venus rules **[[Taurus ♉]]** (embodied pleasure, sensory richness) and **[[Libra ♎]]** (aesthetic harmony, relational balance)[^1]. She is exalted in **[[Pisces ♓]]** at 27°, where love dissolves all boundaries and becomes universal compassion[^2]. In **[[Aries ♈]]** (detriment), Venus struggles with the rawness of unmediated desire. In **[[Scorpio ♏]]** (detriment), she is pulled into the underworld's intensity, where beauty is consumed by transformation. In **[[Virgo ♍]]** (fall), she is subjected to critique, her beauty dissected into flaws[^1].
 
-Venus governs the **7th House**—the domain of marriage, partnership, and the "other" who mirrors back our deepest values.
+Venus **joys in the 5th House**—the domain of pleasure, delight, merriment, creative expression, and romance[^3]. Through her domiciles, Venus also governs the **2nd House** via Taurus (values, resources, self-worth) and the **7th House** via Libra (partnership, marriage, and the "other" who mirrors back our deepest values).
 
 ### Sect: Venus as Nocturnal Benefic
 
@@ -90,9 +90,11 @@ In esoteric anatomy, Venus governs the **throat** (expression of values through 
 
 Venus inherits her archetypal power from **Aphrodite** (Greek) and **Venus** (Roman), but her deepest roots extend to the Sumerian **Inanna**—the goddess who descends into the underworld naked, stripped of all adornment, and returns bearing the knowledge that beauty is earned through surrender.
 
-**Aphrodite's birth** is one of the most evocative myths in the Greek pantheon. She emerges fully formed from the **sea foam** (aphros), generated when the severed genitals of **Uranus** (the sky god) fall into the ocean after his son **Kronos** castrates him. This is not a gentle nativity—it is a birth from **primal violence and cosmic severance**, yet what emerges is pure beauty. Aphrodite arrives without childhood, without mother, without innocence—she is the goddess who *knows* from the beginning.
+**Aphrodite's birth** is one of the most evocative myths in the Greek pantheon. She emerges fully formed from the **sea foam** (aphros), generated when the severed genitals of **Uranus** (the sky god) fall into the ocean after his son **Kronos** castrates him[^4]. This is not a gentle nativity—it is a birth from **primal violence and cosmic severance**, yet what emerges is pure beauty. Aphrodite arrives without childhood, without mother, without innocence—she is the goddess who *knows* from the beginning.
 
 **Eros and Aphrodite** are inseparable. In later mythology, Eros becomes her son, but in earlier cosmogonies, **Eros (desire)** is the primordial force that animates the cosmos. Aphrodite is thus not merely the object of desire but its **governing principle**—the law that says "this moves toward that." She is the magnetism that binds atom to atom, soul to soul, form to form.
+
+**The magic girdle (cestus)** is Aphrodite's legendary power—a garment capable of enslaving hearts with love, desire, and sweet dalliance[^5]. Though married to Hephaestus, her illicit union with Ares (Mars) blends love and strife, revealing Venus's capacity to unite opposites.
 
 **The Judgment of Paris** reveals Venus's shadow. When Paris must choose the fairest goddess among Hera, Athena, and Aphrodite, each offers a bribe. Aphrodite offers **Helen of Troy**—the most beautiful mortal woman, already married to Menelaus. Paris chooses Aphrodite, abducts Helen, and thus ignites the Trojan War. The myth warns: **desire unchecked by ethics is destruction**. Venus without discernment is the beauty that burns the world.
 
@@ -106,10 +108,10 @@ The venusian archetype is thus: **the principle of attraction that reveals what 
 The **house placement** of natal Venus reveals where beauty, love, and values are most actively expressed, and where the native seeks harmony and pleasure.
 
 - **1st House:** Beauty and charm radiate through physical presence. Identity = attractiveness, grace, the body as aesthetic object. Naturally diplomatic, often physically beautiful or stylish.
-- **2nd House:** Venus in her natural joy. Value = material resources, sensory pleasure, self-worth through possession. The native attracts wealth and beauty through embodied presence.
+- **2nd House:** Venus's natural rulership (via Taurus). Value = material resources, sensory pleasure, self-worth through possession. The native attracts wealth and beauty through embodied presence.
 - **3rd House:** Beauty expressed through communication, wit, and social grace. The native loves learning, conversation, and local connections. Aesthetic intelligence in language.
 - **4th House:** Love and beauty rooted in home, family, and private sanctuary. The native creates beauty in domestic spaces; values are inherited from lineage.
-- **5th House:** Venus exalted in creative expression, romance, and play. The native loves through art, children, pleasure. Life is the canvas; love is the medium.
+- **5th House:** Venus's traditional joy. Venus delights in creative expression, romance, pleasure, and play. The native loves through art, children, joy. Life is the canvas; love is the medium.
 - **6th House:** Venus struggles here (opposite the 12th, where Pisces exalts her). Beauty found in service, craft, and daily ritual. The native loves through acts of care and refinement of skill.
 - **7th House:** Venus in her natural rulership (Libra rules the 7th). Identity discovered through partnership. The native attracts significant relationships easily but must avoid losing self in the Other.
 - **8th House:** Venus transformed through intimacy, crisis, and shared resources. Love is deep, intense, and regenerative. The native values what cannot be possessed—soul, shadow, mystery.
@@ -225,8 +227,19 @@ Venus teaches that self-love is not narcissism. It is **discernment**—the refu
 - [[The Empress (Tarot)]] — Key III, abundance and embodied feminine
 - [[Human Design]] — Gate 37 (Venus exaltation degree), the Gate of Friendship
 - [[Anima]] — The Jungian feminine principle in the male psyche
-- [[7th House]] — Venus's natural rulership, partnership and projection
-- [[2nd House]] — Venus's joy, values and resources
+- [[5th House]] — Venus's traditional joy, pleasure and creative expression
+- [[2nd House]] — Venus's natural rulership via Taurus, values and resources
+- [[7th House]] — Venus's natural rulership via Libra, partnership and projection
+
+---
+
+## References
+
+[^1]: Lilly, *Christian Astrology* (1647), Book 1; Ptolemy, *Tetrabiblos*, Book 1
+[^2]: Ptolemy, *Tetrabiblos*, Book 1: "Venus is exalted in Pisces because dampness (her nature) begins to appear, augmenting her influence"
+[^3]: Lilly, *Christian Astrology*, Book 1: Venus rejoices in the 5th House, the house of pleasure, delight, and merriment
+[^4]: Greek mythology (Grimoire): Aphrodite born from the sea foam (aphros) when Cronus castrated Uranus and threw his genitals into the ocean; she stepped onto land at Cyprus causing flowers to grow beneath her feet
+[^5]: Greek mythology (Grimoire): Aphrodite's magic girdle (cestus) enslaves hearts with love and desire; her union with Ares (Mars) blends love and strife; governs harmony, mirth, and the impulse to create relationship
 
 ---
 
