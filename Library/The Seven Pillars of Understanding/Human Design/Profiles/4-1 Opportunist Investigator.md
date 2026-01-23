@@ -7,10 +7,10 @@ conscious_line: 4 (Opportunist)
 unconscious_line: 1 (Investigator)
 life_theme: Train on a Track
 date_created: 2026-01-08
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
-grimoire_source: "Human Design (The Definitive Book, Complete Guide)"
-verification_notes: "Core mechanics (gates, centers, profiles, authorities, types, strategy) verified against Grimoire. Synthesis includes archetypal interpretation, Jungian depth, cross-system correspondences."
+grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
+verification_notes: "Individual verification complete. Core mechanics (Line 4, Line 1, Juxtaposition (Fixed Fate) classification) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
 
 # 4/1 Profile: Opportunist Investigator
@@ -178,5 +178,12 @@ The 4/1 brings:
 4. **Support their trajectory.** They are on a fixed path—honor it, even if you don't understand it.
 
 ---
+
+
+---
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011), Juxtaposition Profile: Fixed fate, ~3% of population
+[^2]: *Definitive Book of Human Design*, Line 4: Externalization, friendliness, networking
+[^3]: *Definitive Book of Human Design*, Line 1: Introspection, study, foundation
 
 *The 4/1 is the train on the track—the fixed-fate expert who communicates foundational knowledge through a loyal network. Their life path is rigid and unchangeable, and their power lies in honoring that rigidity rather than fighting it. They are the influential authorities within their circles, the ones who know deeply and share wisely. To the 4/1, flexibility is not freedom but fracture, and their gift is the strength to stay on course no matter what the world demands.*

@@ -7,10 +7,10 @@ conscious_line: 1 (Investigator)
 unconscious_line: 3 (Martyr)
 life_theme: Foundation through Trial and Error
 date_created: 2026-01-08
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
-grimoire_source: "Human Design (The Definitive Book, Complete Guide)"
-verification_notes: "Core mechanics (gates, centers, profiles, authorities, types, strategy) verified against Grimoire. Synthesis includes archetypal interpretation, Jungian depth, cross-system correspondences."
+grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
+verification_notes: "Individual verification complete. Core mechanics (Line 1 introspection, Line 3 trial/error, Right Angle classification) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
 
 # 1/3 Profile: Investigator Martyr
@@ -19,7 +19,7 @@ verification_notes: "Core mechanics (gates, centers, profiles, authorities, type
 
 The **1/3 Investigator Martyr** is the **foundation of human experience**—the archetype that discovers what works by investigating thoroughly and experiencing directly what does not work.
 
-This is a **Right Angle Profile**, meaning the trajectory is **personal and self-absorbed**, focused on self-exploration rather than trans-personal impact.
+This is a **Right Angle Profile**[^1], meaning the trajectory is **personal and self-absorbed**, focused on self-exploration rather than trans-personal impact.
 
 ---
 
@@ -27,7 +27,7 @@ This is a **Right Angle Profile**, meaning the trajectory is **personal and self
 
 ### Mechanics
 
-The **first line** (conscious Personality) is **introspective**:
+The **first line** (conscious Personality) is **introspective**[^2]:
 - Driven by a need to **investigate** until foundations are secure
 - Researches, studies, and gathers data before acting
 - Requires **solid ground** before moving forward
@@ -45,7 +45,7 @@ The 1/3 consciously experiences life as:
 
 ### Mechanics
 
-The **third line** (unconscious Design) is **adaptive**:
+The **third line** (unconscious Design) is **adaptive**[^3]:
 - Learns through **trial and error**, "bumping into" what doesn't work
 - Discovers through direct experience, not theory
 - Makes "mistakes" that are actually research
@@ -174,5 +174,11 @@ The 1/3 brings:
 4. **Support their experimentation.** Let them "bump into" what doesn't work without judgment.
 
 ---
+
+---
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011), Right Angle Profiles: Personal destiny
+[^2]: *Definitive Book of Human Design*, Line 1: Introspection, study, foundation
+[^3]: *Definitive Book of Human Design*, Line 3: Trial and error, mutation, adaptation
 
 *The 1/3 is the foundation-builder who earns knowledge through lived experience. They investigate until the world makes sense, and they experiment until they discover what truly works. Their gift is not theory alone but theory tested in the crucible of reality, and their wisdom is the kind that can be trusted because it has been forged through both study and struggle.*

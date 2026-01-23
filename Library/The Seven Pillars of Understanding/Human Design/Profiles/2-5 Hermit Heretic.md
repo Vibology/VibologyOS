@@ -7,10 +7,10 @@ conscious_line: 2 (Hermit)
 unconscious_line: 5 (Heretic)
 life_theme: Natural Genius Universalized in Crisis
 date_created: 2026-01-08
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
-grimoire_source: "Human Design (The Definitive Book, Complete Guide)"
-verification_notes: "Core mechanics (gates, centers, profiles, authorities, types, strategy) verified against Grimoire. Synthesis includes archetypal interpretation, Jungian depth, cross-system correspondences."
+grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
+verification_notes: "Individual verification complete. Core mechanics (Line 2, Line 5, Right Angle classification) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
 
 # 2/5 Profile: Hermit Heretic
@@ -19,7 +19,7 @@ verification_notes: "Core mechanics (gates, centers, profiles, authorities, type
 
 The **2/5 Hermit Heretic** is the **natural genius** who is **called out of their hermitage** by crisis and projected upon as the savior. They possess innate talents that the world universalizes, expecting practical solutions to collective problems.
 
-This is a **Right Angle Profile**, meaning the trajectory is **personal**, but the Line 5 introduces a trans-personal projection field.
+This is a **Right Angle Profile**[^1], meaning the trajectory is **personal**, but the Line 5 introduces a trans-personal projection field.
 
 ---
 
@@ -175,5 +175,12 @@ The 2/5 brings:
 5. **Protect their reputation.** Do not call them out for incorrect projections.
 
 ---
+
+
+---
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011), Right Angle Profiles: Personal destiny
+[^2]: *Definitive Book of Human Design*, Line 2: Natural talent, called out by others
+[^3]: *Definitive Book of Human Design*, Line 5: Universalizing, practical solutions, leadership
 
 *The 2/5 is the natural genius who becomes the universal savior—the hermit pulled into the world by collective crisis, expected to provide practical solutions to problems they did not create. Their gift is innate, their burden is projection, and their wisdom lies in discerning which calls are correct and which will only deplete their hermitage. When they respond correctly, they save; when they respond incorrectly, they are blamed. The 2/5's life is the balance between solitude and service, between natural gifts and universal expectations.*

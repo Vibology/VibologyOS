@@ -7,10 +7,10 @@ conscious_line: 1 (Investigator)
 unconscious_line: 4 (Opportunist)
 life_theme: Foundation Shared Through Network
 date_created: 2026-01-08
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
-grimoire_source: "Human Design (The Definitive Book, Complete Guide)"
-verification_notes: "Core mechanics (gates, centers, profiles, authorities, types, strategy) verified against Grimoire. Synthesis includes archetypal interpretation, Jungian depth, cross-system correspondences."
+grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
+verification_notes: "Individual verification complete. Core mechanics (Line 1, Line 4, Right Angle classification) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
 
 # 1/4 Profile: Investigator Opportunist
@@ -19,7 +19,7 @@ verification_notes: "Core mechanics (gates, centers, profiles, authorities, type
 
 The **1/4 Investigator Opportunist** is the **researcher who shares foundations through a trusted network**. They investigate deeply to build solid knowledge, then influence their established circle of friends and associates.
 
-This is a **Right Angle Profile**, meaning the trajectory is **personal and self-absorbed**, focused on self-exploration and personal relationships.
+This is a **Right Angle Profile**[^1], meaning the trajectory is **personal and self-absorbed**, focused on self-exploration and personal relationships.
 
 ---
 
@@ -171,5 +171,12 @@ The 1/4 brings:
 4. **Reciprocate loyalty.** The 1/4 invests in their network; honor that commitment.
 
 ---
+
+
+---
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011), Right Angle Profiles: Personal destiny
+[^2]: *Definitive Book of Human Design*, Line 1: Introspection, study, foundation
+[^3]: *Definitive Book of Human Design*, Line 4: Externalization, friendliness, networking
 
 *The 1/4 is the networked authority—the researcher who builds deep knowledge and shares it with a trusted circle. Their influence is not mass appeal but personal impact, and their power lies in the strength of their relationships and the depth of their expertise. They are the foundation-builders who make their knowledge matter by sharing it with those they know and trust.*

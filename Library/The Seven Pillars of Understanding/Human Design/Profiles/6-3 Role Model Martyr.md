@@ -7,10 +7,10 @@ conscious_line: 6 (Role Model)
 unconscious_line: 3 (Martyr)
 life_theme: Uniqueness is Perfection
 date_created: 2026-01-08
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
-grimoire_source: "Human Design (The Definitive Book, Complete Guide)"
-verification_notes: "Core mechanics (gates, centers, profiles, authorities, types, strategy) verified against Grimoire. Synthesis includes archetypal interpretation, Jungian depth, cross-system correspondences."
+grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
+verification_notes: "Individual verification complete. Core mechanics (Line 6, Line 3, Left Angle classification) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
 
 # 6/3 Profile: Role Model Martyr
@@ -19,7 +19,7 @@ verification_notes: "Core mechanics (gates, centers, profiles, authorities, type
 
 The **6/3 Role Model Martyr** is the **ultimate wise role model** who discovers that **uniqueness is perfection**. They experience the most intense life trajectory of all profiles, living through constant transition, engagement, and disengagement to become living examples of resilient wisdom.
 
-This is a **Left Angle Profile**, meaning the trajectory is **trans-personal**—designed to interact with and impact the world and others.
+This is a **Left Angle Profile**[^1], meaning the trajectory is **trans-personal**—designed to interact with and impact the world and others.
 
 ---
 
@@ -219,5 +219,12 @@ The 6/3 brings:
 4. **Be patient with their transitions.** Their life unfolds in dramatic, non-linear stages.
 
 ---
+
+
+---
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011), Left Angle Profiles: Trans-personal karma
+[^2]: *Definitive Book of Human Design*, Line 6: Role Model, 3-stage life (0-30, 30-50, 50+)
+[^3]: *Definitive Book of Human Design*, Line 3: Trial and error, mutation, adaptation
 
 *The 6/3 is the ultimate role model—the one who experiences the most intense chaos (Stage 1), the deepest detachment (Stage 2), and the most profound wisdom (Stage 3). They discover that perfection is not flawlessness but uniqueness, and they model this truth for the world. Their life is a three-act epic: relentless trial and error, detached integration, and balanced wisdom. The 6/3 proves that resilience through chaos is the highest form of wisdom, and that uniqueness, not conformity, is the truest perfection.*

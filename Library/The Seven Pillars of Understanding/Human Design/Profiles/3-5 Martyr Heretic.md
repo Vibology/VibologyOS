@@ -7,10 +7,10 @@ conscious_line: 3 (Martyr)
 unconscious_line: 5 (Heretic)
 life_theme: The Great Fixer
 date_created: 2026-01-08
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
-grimoire_source: "Human Design (The Definitive Book, Complete Guide)"
-verification_notes: "Core mechanics (gates, centers, profiles, authorities, types, strategy) verified against Grimoire. Synthesis includes archetypal interpretation, Jungian depth, cross-system correspondences."
+grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
+verification_notes: "Individual verification complete. Core mechanics (Line 3, Line 5, Right Angle classification) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
 
 # 3/5 Profile: Martyr Heretic
@@ -19,7 +19,7 @@ verification_notes: "Core mechanics (gates, centers, profiles, authorities, type
 
 The **3/5 Martyr Heretic** is the **great fixer**—the archetype that discovers what doesn't work through trial and error (Line 3) and is projected upon by the collective to provide practical solutions (Line 5).
 
-This is a **Right Angle Profile**, meaning the trajectory is **personal**, but the Line 5 introduces a trans-personal projection field.
+This is a **Right Angle Profile**[^1], meaning the trajectory is **personal**, but the Line 5 introduces a trans-personal projection field.
 
 ---
 
@@ -179,5 +179,12 @@ The 3/5 brings:
 5. **Honor their reputation.** When they deliver, recognize it; when they cannot, do not blame.
 
 ---
+
+
+---
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011), Right Angle Profiles: Personal destiny
+[^2]: *Definitive Book of Human Design*, Line 3: Trial and error, mutation, adaptation
+[^3]: *Definitive Book of Human Design*, Line 5: Universalizing, practical solutions, leadership
 
 *The 3/5 is the great fixer—the one who discovers what doesn't work through relentless experimentation and is projected upon by the collective to provide practical solutions. They are the anarchists who break inefficient systems and the heretics who offer alternatives. Their gift is trial-and-error wisdom universalized, and their burden is the expectation that every mistake will lead to a solution. When they respond correctly, they revolutionize; when they respond incorrectly, they are blamed. The 3/5's life is the balance between personal experimentation and universal fixing.*

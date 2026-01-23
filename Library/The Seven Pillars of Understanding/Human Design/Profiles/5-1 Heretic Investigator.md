@@ -7,19 +7,19 @@ conscious_line: 5 (Heretic)
 unconscious_line: 1 (Investigator)
 life_theme: The General
 date_created: 2026-01-08
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
-grimoire_source: "Human Design (The Definitive Book, Complete Guide)"
-verification_notes: "Core mechanics (gates, centers, profiles, authorities, types, strategy) verified against Grimoire. Synthesis includes archetypal interpretation, Jungian depth, cross-system correspondences."
+grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
+verification_notes: "Individual verification complete. Core mechanics (Line 5 universalizing, Line 1 introspection, Left Angle classification, 'The General' archetype) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
 
 # 5/1 Profile: Heretic Investigator
 
 ## The Costume of Purpose
 
-The **5/1 Heretic Investigator** is **"The General"**—the archetype projected upon by strangers to rescue them, backed by an authoritative foundation of knowledge. They are highly seductive and universally projected upon, expected to provide practical solutions.
+The **5/1 Heretic Investigator** is **"The General"**[^1]—the archetype projected upon by strangers to rescue them, backed by an authoritative foundation of knowledge. They are highly seductive and universally projected upon, expected to provide practical solutions.
 
-This is a **Left Angle Profile**, meaning the trajectory is **trans-personal**—designed to interact with and impact the world and others.
+This is a **Left Angle Profile**[^2], meaning the trajectory is **trans-personal**—designed to interact with and impact the world and others.
 
 ---
 
@@ -27,7 +27,7 @@ This is a **Left Angle Profile**, meaning the trajectory is **trans-personal**�
 
 ### Mechanics
 
-The **fifth line** (conscious Personality) is **universalizing**:
+The **fifth line** (conscious Personality) is **universalizing**[^3]:
 - Projected upon by **strangers and the collective** as the one with solutions
 - Expected to provide **practical, universal answers** to problems
 - Lives in a reputation field—others see them as savior or charlatan
@@ -45,7 +45,7 @@ The 5/1 consciously experiences life as:
 
 ### Mechanics
 
-The **first line** (unconscious Design) is **introspective**:
+The **first line** (unconscious Design) is **introspective**[^4]:
 - Driven by a need to **investigate** until foundations are secure
 - Researches, studies, and gathers data unconsciously
 - Requires **solid ground** before moving forward
@@ -182,3 +182,10 @@ The 5/1 brings:
 ---
 
 *The 5/1 is The General—the authoritative leader projected upon by strangers to rescue, backed by deep foundational knowledge. They are seductive, drawing people in with their projected power, and they are burdened by universal expectation. Their gift is practical solutions grounded in research, and their challenge is managing a reputation that depends on delivering results. Strangers project savior status; intimates see the human. The 5/1's life is the balance between universal projection and foundational authority, between being The General and being human.*
+
+---
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011), 5/1 Profile: "The General"
+[^2]: *Definitive Book of Human Design*, Left Angle Profiles: Trans-personal karma
+[^3]: *Definitive Book of Human Design*, Line 5: Universalizing, practical solutions, leadership
+[^4]: *Definitive Book of Human Design*, Line 1: Introspection, study, foundation

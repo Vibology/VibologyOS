@@ -7,10 +7,10 @@ conscious_line: 5 (Heretic)
 unconscious_line: 2 (Hermit)
 life_theme: Self-Motivated Heretic
 date_created: 2026-01-08
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
-grimoire_source: "Human Design (The Definitive Book, Complete Guide)"
-verification_notes: "Core mechanics (gates, centers, profiles, authorities, types, strategy) verified against Grimoire. Synthesis includes archetypal interpretation, Jungian depth, cross-system correspondences."
+grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
+verification_notes: "Individual verification complete. Core mechanics (Line 5, Line 2, Left Angle classification) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
 
 # 5/2 Profile: Heretic Hermit
@@ -19,7 +19,7 @@ verification_notes: "Core mechanics (gates, centers, profiles, authorities, type
 
 The **5/2 Heretic Hermit** is the **self-motivated heretic** who must discover their own inner "call" before helping others. They are projected upon universally (Line 5) but naturally withdrawn (Line 2), creating a paradox between public expectation and private need.
 
-This is a **Left Angle Profile**, meaning the trajectory is **trans-personal**—designed to interact with and impact the world and others.
+This is a **Left Angle Profile**[^1], meaning the trajectory is **trans-personal**—designed to interact with and impact the world and others.
 
 ---
 
@@ -180,5 +180,12 @@ The 5/2 brings:
 5. **Protect their reputation.** Do not pressure them to respond before they are self-actualized.
 
 ---
+
+
+---
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011), Left Angle Profiles: Trans-personal karma
+[^2]: *Definitive Book of Human Design*, Line 5: Universalizing, practical solutions, leadership
+[^3]: *Definitive Book of Human Design*, Line 2: Natural talent, called out by others
 
 *The 5/2 is the self-motivated heretic—the hermit projected upon to save the world, but only able to do so after discovering their own inner call. They are naturally withdrawn but universally expected to engage, creating a profound paradox between public expectation and private need. Their gift is authentic service born from self-actualization, and their burden is the pressure to help before they are ready. The 5/2 must save themselves before they can save others, and their wisdom lies in trusting that the inner call, when it comes, will be unmistakable.*

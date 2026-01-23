@@ -7,10 +7,10 @@ conscious_line: 3 (Martyr)
 unconscious_line: 6 (Role Model)
 life_theme: Seeking What Can Be Trusted
 date_created: 2026-01-08
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
-grimoire_source: "Human Design (The Definitive Book, Complete Guide)"
-verification_notes: "Core mechanics (gates, centers, profiles, authorities, types, strategy) verified against Grimoire. Synthesis includes archetypal interpretation, Jungian depth, cross-system correspondences."
+grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
+verification_notes: "Individual verification complete. Core mechanics (Line 3, Line 6, Right Angle classification) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
 
 # 3/6 Profile: Martyr Role Model
@@ -19,7 +19,7 @@ verification_notes: "Core mechanics (gates, centers, profiles, authorities, type
 
 The **3/6 Martyr Role Model** is the archetype that **seeks what can truly be trusted** through a life of trial and error (Line 3) and transformation into a wise, objective observer (Line 6).
 
-This is a **Right Angle Profile**, meaning the trajectory is **personal and self-absorbed**.
+This is a **Right Angle Profile**[^1], meaning the trajectory is **personal and self-absorbed**.
 
 ---
 
@@ -204,5 +204,12 @@ The 3/6 brings:
 4. **Be patient with their transitions.** Their life unfolds in distinct phases.
 
 ---
+
+
+---
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011), Right Angle Profiles: Personal destiny
+[^2]: *Definitive Book of Human Design*, Line 3: Trial and error, mutation, adaptation
+[^3]: *Definitive Book of Human Design*, Line 6: Role Model, 3-stage life (0-30, 30-50, 50+)
 
 *The 3/6 is the seeker of trust—the one who experiments chaotically, withdraws to observe, and returns to model what can be trusted. Their life is a three-act play: chaos in Act I, detachment in Act II, and balanced wisdom in Act III. Their gift is hard-won trustworthiness, and their burden is the judgment of a world that does not understand why they must "fail" so often in youth or withdraw so completely in midlife. When the 3/6 reaches Stage 3, they become the living proof that trust is earned through trial, error, observation, and integration.*

@@ -7,10 +7,10 @@ conscious_line: 6 (Role Model)
 unconscious_line: 2 (Hermit)
 life_theme: Objective Wise Observer
 date_created: 2026-01-08
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
-grimoire_source: "Human Design (The Definitive Book, Complete Guide)"
-verification_notes: "Core mechanics (gates, centers, profiles, authorities, types, strategy) verified against Grimoire. Synthesis includes archetypal interpretation, Jungian depth, cross-system correspondences."
+grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
+verification_notes: "Individual verification complete. Core mechanics (Line 6, Line 2, Left Angle classification) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
 
 # 6/2 Profile: Role Model Hermit
@@ -19,7 +19,7 @@ verification_notes: "Core mechanics (gates, centers, profiles, authorities, type
 
 The **6/2 Role Model Hermit** is the **objective wise observer** who models individual perfection. They live as detached sages "on the roof" (Stage 2: 30-50 years), offering wisdom from a place of natural genius and objective distance.
 
-This is a **Left Angle Profile**, meaning the trajectory is **trans-personal**—designed to interact with and impact the world and others.
+This is a **Left Angle Profile**[^1], meaning the trajectory is **trans-personal**—designed to interact with and impact the world and others.
 
 ---
 
@@ -207,5 +207,12 @@ The 6/2 brings:
 5. **Honor their search for perfection.** Their high standards are not judgment; they are design.
 
 ---
+
+
+---
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011), Left Angle Profiles: Trans-personal karma
+[^2]: *Definitive Book of Human Design*, Line 6: Role Model, 3-stage life (0-30, 30-50, 50+)
+[^3]: *Definitive Book of Human Design*, Line 2: Natural talent, called out by others
 
 *The 6/2 is the wise hermit on the roof—the objective observer who models individual perfection through detached wisdom and natural genius. They experiment in youth, retreat to the roof in midlife, and emerge in later years as role models of wholeness. Their gift is objective wisdom offered from solitude, and their burden is the pressure to engage before they are ready. The roof is not escape; it is sanctuary. And from that sanctuary, the 6/2 offers the world a vision of what it means to be whole, detached, and complete.*

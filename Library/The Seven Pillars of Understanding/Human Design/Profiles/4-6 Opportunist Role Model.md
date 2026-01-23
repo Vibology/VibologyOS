@@ -7,10 +7,10 @@ conscious_line: 4 (Opportunist)
 unconscious_line: 6 (Role Model)
 life_theme: Modeling Uniqueness Through Network
 date_created: 2026-01-08
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
-grimoire_source: "Human Design (The Definitive Book, Complete Guide)"
-verification_notes: "Core mechanics (gates, centers, profiles, authorities, types, strategy) verified against Grimoire. Synthesis includes archetypal interpretation, Jungian depth, cross-system correspondences."
+grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
+verification_notes: "Individual verification complete. Core mechanics (Line 4, Line 6, Right Angle classification) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
 
 # 4/6 Profile: Opportunist Role Model
@@ -19,7 +19,7 @@ verification_notes: "Core mechanics (gates, centers, profiles, authorities, type
 
 The **4/6 Opportunist Role Model** is the archetype that **models uniqueness through influential social networks**. They are cautious observers who watch for relationships they can trust before contributing a new perspective.
 
-This is a **Right Angle Profile**, meaning the trajectory is **personal and self-absorbed**.
+This is a **Right Angle Profile**[^1], meaning the trajectory is **personal and self-absorbed**.
 
 ---
 
@@ -202,5 +202,12 @@ The 4/6 brings:
 4. **Be patient with their transitions.** Their life unfolds in distinct phases.
 
 ---
+
+
+---
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011), Right Angle Profiles: Personal destiny
+[^2]: *Definitive Book of Human Design*, Line 4: Externalization, friendliness, networking
+[^3]: *Definitive Book of Human Design*, Line 6: Role Model, 3-stage life (0-30, 30-50, 50+)
 
 *The 4/6 is the networked role model—the one who experiments with connection, withdraws to observe, and returns to model a unique perspective through trusted relationships. Their life is a three-act play: experimental networking in Act I, detached observation in Act II, and balanced influence in Act III. Their gift is trusted wisdom shared through established connections, and their burden is the tension between wanting to connect (Line 4) and needing to detach (Line 6). When the 4/6 reaches Stage 3, they become the living proof that uniqueness can be modeled through trusted networks.*

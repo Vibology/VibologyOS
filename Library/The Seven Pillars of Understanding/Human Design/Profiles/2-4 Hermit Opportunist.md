@@ -7,10 +7,10 @@ conscious_line: 2 (Hermit)
 unconscious_line: 4 (Opportunist)
 life_theme: Natural Genius Called Out by Network
 date_created: 2026-01-08
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
-grimoire_source: "Human Design (The Definitive Book, Complete Guide)"
-verification_notes: "Core mechanics (gates, centers, profiles, authorities, types, strategy) verified against Grimoire. Synthesis includes archetypal interpretation, Jungian depth, cross-system correspondences."
+grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
+verification_notes: "Individual verification complete. Core mechanics (Line 2, Line 4, Right Angle classification) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
 
 # 2/4 Profile: Hermit Opportunist
@@ -19,7 +19,7 @@ verification_notes: "Core mechanics (gates, centers, profiles, authorities, type
 
 The **2/4 Hermit Opportunist** is the **natural genius who wants to be left alone** but is called out by their network to share their gifts. They possess innate talents they often cannot see themselves, which others recognize and invite into expression.
 
-This is a **Right Angle Profile**, meaning the trajectory is **personal and self-absorbed**, focused on self-discovery and personal relationships.
+This is a **Right Angle Profile**[^1], meaning the trajectory is **personal and self-absorbed**, focused on self-discovery and personal relationships.
 
 ---
 
@@ -173,5 +173,12 @@ The 2/4 brings:
 5. **See what they cannot see.** You recognize their gifts—help them see themselves.
 
 ---
+
+
+---
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011), Right Angle Profiles: Personal destiny
+[^2]: *Definitive Book of Human Design*, Line 2: Natural talent, called out by others
+[^3]: *Definitive Book of Human Design*, Line 4: Externalization, friendliness, networking
 
 *The 2/4 is the natural genius who must be called out of hiding by a network that sees what they cannot. They are the hermit who develops gifts in solitude and the opportunist who shares those gifts with trusted relationships. Their wisdom is natural, not learned, and their power lies in responding to correct recognition while protecting their sanctuary from intrusion.*
