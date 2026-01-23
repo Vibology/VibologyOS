@@ -2,6 +2,10 @@
 tags: [folklore, alchemy, conjunction, earth, citrinitas, sacred-marriage, hieros-gamos]
 system: Personal Mythos
 date_created: 2026-01-18
+source_verified: synthesis
+verification_date: 2026-01-23
+grimoire_source: "Jung Mysterium Coniunctionis (CW 14), Psychology and Alchemy (CW 12), Alchemical texts"
+verification_notes: "Alchemical stages as psychological metaphor verified via Jung's alchemical works (CW 12, CW 14). Traditional alchemical operations (Calcination, Dissolution, etc.) + color stages (Nigredo/Albedo/Citrinitas/Rubedo) described accurately. Psychological interpretation of alchemy as individuation process is core Jungian synthesis."
 category: Alchemical-Stage
 alchemical_operation: Conjunction
 alchemical_color: Citrinitas

@@ -2,6 +2,10 @@
 tags: [folklore, jungian, individuation, developmental-stage, self, wholeness, rubedo, ego-self-axis]
 system: Personal Mythos
 date_created: 2026-01-18
+source_verified: synthesis
+verification_date: 2026-01-23
+grimoire_source: "Jung CW (Two Essays, Archetypes, Psychology and Alchemy, Aion)"
+verification_notes: "Jung's individuation framework verified. Six-stage developmental model (Ego Formation → Persona → Shadow → Anima/Animus → Self → Integration) follows Jung's CW writings. Psychological concepts accurate; specific applications to life stages are scholarly synthesis."
 category: Individuation Process
 stage_name: Confrontation with the Self
 life_phase: Midlife to Elder (50-70 years)

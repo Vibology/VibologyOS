@@ -3,6 +3,10 @@ tags: [folklore, heros-journey, campbell, completion, service, healing, transfor
 system: Personal Mythos
 entity_id: HJ-12-ReturnWithElixir
 date_created: 2026-01-17
+source_verified: synthesis
+verification_date: 2026-01-23
+grimoire_source: "Joseph Campbell The Hero with a Thousand Faces, Jung CW, Mythology sources"
+verification_notes: "Campbell's monomyth framework (12-stage Hero's Journey) verified. Mythological examples (Greek, Biblical, Buddhist, Arthurian, Norse, fairy tales) are scholarly synthesis applying Campbell's structure to world narratives. Jung CW citations link Hero's Journey to individuation process. Cross-system correspondences (Tarot, Astrology, HD) are original synthesis."
 ---
 
 # Return with the Elixir
