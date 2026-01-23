@@ -7,10 +7,10 @@ element: Water
 modality: Fixed
 ruler: Mars, Pluto
 polarity: Taurus
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
-verification_notes: "Core dignities and traditional meanings verified against Grimoire. Synthesis includes Jungian archetypal depth, mythology (Greek/Roman), cross-system correspondences, and esoteric interpretation."
+verification_notes: "Individual verification complete. Traditional dignities (Mars domicile Night House/Joy of Mars, no exaltation, Venus detriment, Moon fall at 3°), element/modality, house affinity (8th), and anatomical rulership verified against Lilly and Ptolemy. Inline citations added. Pluto (modern ruler) acknowledged but not cited as traditional. Synthesis layers (Orion myth, Jungian shadow, transformation work) built upon verified foundation."
 ---
 # Scorpio ♏
 *The Transformer and the Descent into Truth*
@@ -32,16 +32,16 @@ The upward-pointing arrow signifies **penetration**: the capacity to pierce illu
 ---
 ## Element & Modality
 
-**Water** (emotion, instinct, the unconscious) | **Fixed** (sustaining, concentrated)
+**Water** (emotion, instinct, the unconscious) | **Fixed** (sustaining, concentrated)[^2]
 
 Scorpio is **Fixed Water**—the deep ocean, the stagnant pool that teems with unseen life, the frozen lake beneath which currents rage. Fixed signs *concentrate*; Water signs *feel*. Scorpio is the promise that what is repressed does not disappear—it **intensifies**.
 
 ---
 ## Planetary Ruler
 
-**[[Mars ♂]]** (traditional) and **[[Pluto ♇]]** (modern) — War god and underworld lord.
+**[[Mars ♂]]** (traditional) and **[[Pluto ♇]]** (modern) — War god and underworld lord[^1].
 
-Mars in Scorpio is Mars in his **nocturnal domicile**—the warrior turned inward, the blade used for surgery rather than conquest. Pluto adds the dimension of *transformation through annihilation*: the force that drags the soul into the underworld so it may be reborn.
+Mars in Scorpio is Mars in his **nocturnal domicile** (Night House), also called the Joy of Mars—the warrior turned inward, the blade used for surgery rather than conquest. Pluto adds the dimension of *transformation through annihilation*: the force that drags the soul into the underworld so it may be reborn.
 
 ---
 ## Mythology: The Scorpion That Slew Orion and the Price of Hubris
@@ -114,9 +114,9 @@ The polarity teaches that **life and death are inseparable**. What Taurus builds
 How each planet expresses when placed in the sign of the Transformer:
 
 - **Sun in Scorpio:** Identity forged through crisis, transformation, and descent. The leader who regenerates, who destroys the old form to make way for the new. Shadow: identification with suffering, the inability to rest, the addiction to intensity.
-- **Moon in Scorpio (Fall):** Emotion as tidal wave, instinct turned inward, the capacity to feel everything. The Moon struggles here—feelings are too intense, too deep, too dangerous to express. Shadow: emotional extremism, the inability to trust, the wound that never heals.
+- **Moon in Scorpio (Fall at 3°):** Emotion as tidal wave, instinct turned inward, the capacity to feel everything[^3]. The Moon struggles here—feelings are too intense, too deep, too dangerous to express. Shadow: emotional extremism, the inability to trust, the wound that never heals.
 - **Mercury in Scorpio:** The mind that penetrates, that sees beneath surfaces, that speaks only when the strike will land. The detective, the researcher, the one who excavates buried truth. Shadow: paranoia, obsessive thinking, the mind that cannot rest.
-- **Venus in Scorpio (Detriment):** Love as possession, desire as intensity, beauty as the lure into the underworld. Venus struggles here—love is not light but **gravity**, pulling the soul into depths it may not survive. Shadow: jealousy, obsession, love as control.
+- **Venus in Scorpio (Detriment):** Love as possession, desire as intensity, beauty as the lure into the underworld[^4]. Venus struggles here—love is not light but **gravity**, pulling the soul into depths it may not survive. Shadow: jealousy, obsession, love as control.
 - **Mars in Scorpio (Domicile):** Assertion turned inward, the warrior as surgeon, strategy over brute force. Mars thrives here—action is precise, calculated, devastating. Shadow: cruelty, sadism, the use of power to dominate.
 - **Jupiter in Scorpio:** Expansion through descent, faith tested in the underworld, the belief that death leads to rebirth. Shadow: evangelism of suffering, the belief that only pain brings growth, the refusal of grace.
 - **Saturn in Scorpio:** Structure imposed on chaos, discipline in the realm of death, mastery through endurance. Shadow: fear of transformation, rigidity in the face of necessary change, the refusal to release control.
@@ -127,7 +127,7 @@ How each planet expresses when placed in the sign of the Transformer:
 ---
 ## House Affinity: The 8th House (The Underworld and Shared Resources)
 
-Scorpio is the natural ruler of the **8th House**—the realm of death, rebirth, sexuality, shared resources, and the **hidden dimensions of existence**. This is the house of what is **beneath the surface**, what is taboo, what is inherited (both wealth and trauma), and what must be faced in the dark.
+Scorpio is the natural ruler of the **8th House**—the realm of death, rebirth, sexuality, shared resources, and the **hidden dimensions of existence**[^5]. This is the house of what is **beneath the surface**, what is taboo, what is inherited (both wealth and trauma), and what must be faced in the dark.
 
 The 8th House represents:
 - **Death and transformation** (literal death, symbolic death, the phoenix cycle)
@@ -168,7 +168,7 @@ Scorpio corresponds to the **Shadow archetype** and the **death-rebirth cycle** 
 ---
 ## Medical and Physical Correlations
 
-In traditional medical astrology, Scorpio governs the **regenerative and eliminative organs** of the body:
+In traditional medical astrology, Scorpio governs the **regenerative and eliminative organs** of the body[^6]:
 
 - **Reproductive organs** (genitals, the organs of creation and pleasure, the seat of life force)
 - **Colon and rectum** (elimination, the release of waste, the body's capacity to let go)
@@ -230,6 +230,17 @@ The Scorpion teaches that there is **light within the darkness**—but you canno
 - [[Human Design]] — Sacral Center (life force), Solar Plexus (emotional wave)
 - [[Venus ♀]] — Detriment in Scorpio, desire clashing with death
 - [[Moon ☽]] — Fall in Scorpio, emotion overwhelmed by intensity
+
+---
+
+## References
+
+[^1]: Lilly, *Christian Astrology*, Book 1: Mars rules Scorpio (Night House); Scorpio is also the Joy of Mars
+[^2]: Lilly, *Christian Astrology*, Book 1; Ptolemy, *Tetrabiblos*, Book 1: Scorpio as Fixed Water (cold, phlegmatic)
+[^3]: Lilly, *Christian Astrology*, Book 1: Moon in fall at 3° Scorpio
+[^4]: Lilly, *Christian Astrology*, Book 1: Venus in detriment (opposite Taurus)
+[^5]: Lilly, *Christian Astrology*, Book 2: Scorpio cosignificator of 8th House (death, wills, legacies)
+[^6]: Lilly, *Christian Astrology*, Book 1: Scorpio governs secret parts (genitals), bladder, arse, matrix (womb); diseases include stones, fistulas, piles, gonorrhea
 
 ---
 

@@ -8,10 +8,10 @@ modality: Cardinal
 ruler: Venus
 polarity: Aries
 decan_rulers: [Moon, Saturn, Jupiter]
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
-verification_notes: "Core dignities and traditional meanings verified against Grimoire. Synthesis includes Jungian archetypal depth, mythology (Greek/Roman), cross-system correspondences, and esoteric interpretation."
+verification_notes: "Individual verification complete. Traditional dignities (Venus domicile Day House, Saturn exalted at 21°, Mars detriment, Sun fall at 19°), element/modality, house affinity (7th), and anatomical rulership verified against Lilly and Ptolemy. Inline citations added. Synthesis layers (Themis/Astraea mythology, Jungian Transcendent Function, shadow work) built upon verified foundation."
 ---
 # Libra ♎
 *The Balancer and the Scales of Justice*
@@ -44,16 +44,16 @@ The myth teaches: **Justice is not human sentiment but cosmic law.** Libra is no
 ---
 ## Element & Modality
 
-**Air** (thought, relationship, abstraction) | **Cardinal** (initiating, active)
+**Air** (thought, relationship, abstraction) | **Cardinal** (initiating, active)[^2]
 
 Libra is **Cardinal Air**—the breeze that seeks equilibrium, the diplomat who initiates peace. Cardinal signs *begin*; Air signs *conceptualize*. Libra initiates through **partnership**, through the recognition that "I" is incomplete without "Thou."
 
 ---
 ## Planetary Ruler
 
-**[[Venus ♀]]** — The principle of value, beauty, and attraction.
+**[[Venus ♀]]** — The principle of value, beauty, and attraction[^1].
 
-Venus in Libra is in her **domicile**—expressed not as earthy pleasure (Taurus) but as **aesthetic harmony**, as the recognition that beauty is balance made visible. This is Venus as the art of relationship: the capacity to see the other without collapsing into fusion or fleeing into isolation.
+Venus in Libra is in her **domicile** (Day House)—expressed not as earthy pleasure (Taurus) but as **aesthetic harmony**, as the recognition that beauty is balance made visible. This is Venus as the art of relationship: the capacity to see the other without collapsing into fusion or fleeing into isolation.
 
 ---
 ## Seasonal Context: The Autumnal Equinox (September 22 - October 22)
@@ -100,13 +100,13 @@ The axis teaches: **Aries provides the "I" that Libra learns to hold in relation
 
 Libra **colors** the expression of any planet placed within it, orienting the planet's energy toward relationship, balance, and aesthetic harmony.
 
-- **Sun in Libra:** Identity forged through relationship. The self who knows themselves only in dialogue with the other. Diplomatic, charming, aesthetically attuned. Shadow: loss of autonomy, identity consumed by partnership, the inability to act without consensus.
+- **Sun in Libra (Fall at 19°):** Identity forged through relationship[^4]. The self who knows themselves only in dialogue with the other. Diplomatic, charming, aesthetically attuned. Shadow: loss of autonomy, identity consumed by partnership, the inability to act without consensus.
 - **Moon in Libra (Detriment):** Emotional needs filtered through the lens of fairness and reciprocity. The one who cannot feel their feelings until they know the other's feelings. Nurturance through creating beauty and harmony. Shadow: emotional repression, the inability to name needs that might disturb the peace.
 - **Mercury in Libra:** Thought oriented toward comparison, mediation, and translation. The mind that sees all perspectives and synthesizes them into balance. The diplomat, the counselor, the one who speaks for both sides. Shadow: indecision, the inability to take a stand, the intellectual who argues for sport.
 - **Venus in Libra (Domicile):** Pure relationship—love as art, partnership as sacred labor. Attraction to beauty, grace, and refinement. The lover who seeks the "ideal" partnership, who believes love should be effortless and harmonious. Shadow: superficiality, the relationship that looks beautiful but lacks depth.
-- **Mars in Libra (Detriment):** Action mediated through relationship, assertion softened by diplomacy. The warrior who fights for justice, not personal gain. Passive-aggressive rather than direct. Shadow: inability to assert, resentment disguised as politeness, the peacemaker who enables injustice.
+- **Mars in Libra (Detriment):** Action mediated through relationship, assertion softened by diplomacy[^5]. The warrior who fights for justice, not personal gain. Passive-aggressive rather than direct. Shadow: inability to assert, resentment disguised as politeness, the peacemaker who enables injustice.
 - **Jupiter in Libra:** Expansion through partnership, growth through relationship. The teacher of balance, the one who believes collective harmony is possible. Generosity toward partners, optimism about love. Shadow: over-idealization, the one who sacrifices truth for harmony.
-- **Saturn in Libra (Exaltation):** Discipline applied to relationship. The partner who honors commitment, who understands that love is work, that fairness requires vigilance. Justice as cosmic law, not human sentiment. Shadow: coldness in partnership, relationships reduced to contract, the judge who cannot forgive.
+- **Saturn in Libra (Exaltation at 21°):** Discipline applied to relationship[^3]. The partner who honors commitment, who understands that love is work, that fairness requires vigilance. Justice as cosmic law, not human sentiment. Shadow: coldness in partnership, relationships reduced to contract, the judge who cannot forgive.
 - **Uranus in Libra (last transit: 1968-1975):** Revolution in relationship structures. Open marriages, communes, the questioning of traditional partnership models. Innovation through collaboration. Shadow: chaos disguised as liberation, relationships that dissolve into formlessness.
 - **Neptune in Libra (last transit: 1942-1956):** Idealism in relationship, the dream of perfect partnership. Romance as spiritual union, the soulmate myth. Shadow: illusion, codependency, the partner who sees what they wish rather than what is.
 - **Pluto in Libra (last transit: 1971-1984):** Transformation through relationship. Power dynamics in partnership exposed and renegotiated. Death of old relational structures; rebirth of new ones. Shadow: manipulation disguised as diplomacy, the partner as psychological battlefield.
@@ -114,7 +114,7 @@ Libra **colors** the expression of any planet placed within it, orienting the pl
 ---
 ## House Affinity: The 7th House
 
-Libra is the natural ruler of the **[[7th House]]**—the domain of **partnership, marriage, contracts, and open enemies**.
+Libra is the natural ruler of the **[[7th House]]**—the domain of **partnership, marriage, contracts, and open enemies**[^6].
 
 The 7th House governs:
 - **Marriage and committed partnership** (the other as mirror, as teacher, as equal)
@@ -146,7 +146,7 @@ The **Libra wound** is the terror of aloneness—the fear that without the other
 ---
 ## Medical and Physical Correlations
 
-In traditional medical astrology, Libra governs the **filtration systems and structural balance**:
+In traditional medical astrology, Libra governs the **filtration systems and structural balance**[^7]:
 
 - **Kidneys and adrenal glands** (filtration, the body's capacity to balance fluids and maintain homeostasis)
 - **Lower back and lumbar spine** (the fulcrum of the physical form, the pivot between upper and lower body)
@@ -210,6 +210,18 @@ The Scales teach that justice is not sameness. It is **right relationship**—an
 - [[Syzygy]] — Jungian union of opposites, marriage as individuation
 - [[Justice (Tarot)]] — Key XI, the weighing of consequence
 - [[G-Center]] — Human Design love and identity in relationship
+
+---
+
+## References
+
+[^1]: Lilly, *Christian Astrology*, Book 1: Venus rules Libra (Day House)
+[^2]: Lilly, *Christian Astrology*, Book 1; Ptolemy, *Tetrabiblos*, Book 1: Libra as Cardinal (equinoctial) Air (hot and moist, sanguine)
+[^3]: Lilly, *Christian Astrology*, Book 1: Saturn exalted in Libra at 21°
+[^4]: Lilly, *Christian Astrology*, Book 1: Sun in fall at 19° Libra
+[^5]: Lilly, *Christian Astrology*, Book 1: Mars in detriment (opposite Aries)
+[^6]: Lilly, *Christian Astrology*, Book 2: Libra cosignificator of 7th House (marriage, open enemies, lawsuits)
+[^7]: Lilly, *Christian Astrology*, Book 1: Libra governs kidneys, loins, back, buttocks, bladder; diseases include kidney stones, heat in loins, blood corruption
 
 ---
 

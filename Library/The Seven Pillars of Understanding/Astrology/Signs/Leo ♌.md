@@ -10,10 +10,10 @@ polarity: Aquarius
 detriment: Saturn, Uranus
 exaltation: None (traditional); Pluto (modern esoteric)
 fall: None
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
-verification_notes: "Core dignities and traditional meanings verified against Grimoire. Synthesis includes Jungian archetypal depth, mythology (Greek/Roman), cross-system correspondences, and esoteric interpretation."
+verification_notes: "Individual verification complete. Traditional dignities (Sun domicile, Saturn detriment, no exaltation/fall), element/modality, house affinity (5th), and anatomical rulership verified against Lilly and Ptolemy. Inline citations added. Synthesis layers (Jungian Hero/King archetypes, shadow work) built upon verified foundation."
 ---
 # Leo ♌
 *The King and the Radiance of Self*
@@ -35,20 +35,20 @@ The tail is both **whip** (power, command) and **signature** (the unique mark of
 ---
 ## Element & Modality
 
-**Fire** (spirit, will, creativity) | **Fixed** (sustaining, concentrated)
+**Fire** (spirit, will, creativity) | **Fixed** (sustaining, concentrated)[^4]
 
 Leo is **Fixed Fire**—the bonfire that burns steadily, the hearth around which the tribe gathers. Fixed signs *sustain*; Fire signs *inspire*. Leo is the promise that your existence **matters**, that your creative expression is not vanity but vocation.
 
 ---
 ## Planetary Ruler & Dignities
 
-**Ruler:** [[Sun ☉]] — The life force, the core identity, the individuating principle.
+**Ruler:** [[Sun ☉]] — The life force, the core identity, the individuating principle[^1].
 
-The Sun in Leo is in its **domicile**—fully expressed as solar radiance, as the self that does not apologize for taking up space. This is not ego inflation but **ego integration**: the healthy recognition that you are the center of your own cosmos.
+The Sun in Leo is in its **domicile** (sole house)—fully expressed as solar radiance, as the self that does not apologize for taking up space. This is not ego inflation but **ego integration**: the healthy recognition that you are the center of your own cosmos.
 
-**Detriment:** [[Saturn ♄]] and [[Uranus ♅]] (modern) — Saturn's limitation and Uranus's detachment are antithetical to Leo's warmth and self-celebration. Saturn in Leo struggles to claim the spotlight; Uranus in Leo rebels against the very authority it seeks to embody.
+**Detriment:** [[Saturn ♄]] and [[Uranus ♅]] (modern) — Saturn's limitation and Uranus's detachment are antithetical to Leo's warmth and self-celebration[^2]. Saturn in Leo struggles to claim the spotlight; Uranus in Leo rebels against the very authority it seeks to embody.
 
-**Exaltation/Fall:** Leo has no traditional exaltation or fall. Some modern astrologers assign **Pluto's exaltation** to Leo (esoteric), encoding the capacity for total self-transformation, death and rebirth of the ego.
+**Exaltation/Fall:** Leo has no traditional exaltation or fall[^3]. Some modern astrologers assign **Pluto's exaltation** to Leo (esoteric), encoding the capacity for total self-transformation, death and rebirth of the ego.
 
 ---
 ## Seasonal Context: Midsummer
@@ -135,7 +135,7 @@ The sign placement flavors how each planet expresses its archetypal function. In
 ---
 ## House Affinity: The 5th House (Succedent, Joy)
 
-Leo naturally corresponds to the **5th House**—the domain of **creativity**, **pleasure**, **children**, and **self-expression**. This is the house of play, romance, art, and the capacity to create for the sheer joy of it.
+Leo naturally corresponds to the **5th House**—the domain of **creativity**, **pleasure**, **children**, and **self-expression**[^5]. This is the house of play, romance, art, and the capacity to create for the sheer joy of it.
 
 **Themes of the 5th House:**
 - **Creative Expression:** Art, performance, the soul's unique contribution.
@@ -170,7 +170,7 @@ The Leo complex emerges when the psyche is fixated on **performance over essence
 ---
 ## Medical & Anatomical Correlations
 
-In traditional medical astrology, Leo governs:
+In traditional medical astrology, Leo governs[^6]:
 
 - **The Heart:** The central pump, the seat of courage and vitality. Leo is the "king organ" that sustains the entire body.
 - **The Spine:** The central axis, the structure that holds the body upright. Sovereignty requires a strong back.
@@ -234,6 +234,17 @@ The Lion teaches that you do not need to dim your light to make others comfortab
 - [[King (Jungian)]] — The sovereign archetype, earned authority
 - [[Fire Element]] — Leo as Fixed Fire, sustained radiance
 - [[Fixed Modality]] — Leo as sustainer, the bonfire that endures
+
+---
+
+## References
+
+[^1]: Lilly, *Christian Astrology*, Book 1: Sun rules Leo (sole house)
+[^2]: Lilly, *Christian Astrology*, Book 1: Saturn in detriment (opposite Aquarius)
+[^3]: Lilly, *Christian Astrology*, Book 1: No traditional exaltation or fall in Leo
+[^4]: Lilly, *Christian Astrology*, Book 1; Ptolemy, *Tetrabiblos*, Book 1: Leo as Fixed Fire (hot and dry, choleric)
+[^5]: Lilly, *Christian Astrology*, Book 2: Leo cosignificator of 5th House (children, plays, banquets, pleasure)
+[^6]: Lilly, *Christian Astrology*, Book 1: Leo governs heart, back, sides, ribs, liver; diseases include pleurisies, heart pains, fevers, plague, jaundice
 
 ---
 

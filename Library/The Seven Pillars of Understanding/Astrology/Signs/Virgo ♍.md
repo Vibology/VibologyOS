@@ -8,10 +8,10 @@ modality: Mutable
 ruler: Mercury
 polarity: Pisces
 house_affinity: 6th
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
-verification_notes: "Core dignities and traditional meanings verified against Grimoire. Synthesis includes Jungian archetypal depth, mythology (Greek/Roman), cross-system correspondences, and esoteric interpretation."
+verification_notes: "Individual verification complete. Traditional dignities (Mercury domicile Night House AND exalted at 15°, Jupiter detriment, Venus fall at 27°), element/modality, house affinity (6th), and anatomical rulership verified against Lilly and Ptolemy. Unique case: Mercury both rules and is exalted in Virgo. Inline citations added. Synthesis layers (Astraea/Demeter mythology, Jungian shadow work) built upon verified foundation."
 ---
 # Virgo ♍
 *The Investigator and the Path of Perfection*
@@ -33,7 +33,7 @@ The glyph represents the **virgin**—not as sexual purity, but as *self-contain
 ---
 ## Element & Modality
 
-**Earth** (matter, embodiment, practical service) | **Mutable** (adapting, refining)
+**Earth** (matter, embodiment, practical service) | **Mutable** (adapting, refining)[^3]
 
 Virgo is **Mutable Earth**—the soil that adapts to the seed, the craftsman's hands that adjust the tool mid-stroke. Mutable signs *distribute* and *refine*; Earth signs *ground*. Virgo is the promise that imperfection is not failure—it is the **invitation to mastery**.
 
@@ -60,19 +60,19 @@ In traditional agrarian cycles, Virgo governs the **grain harvest**, the preserv
 ---
 ## Planetary Ruler: Mercury as Precision Instrument
 
-**[[Astrology/Planets/Mercury # ☿]]** — The messenger here serves as analyst, as the mind that organizes chaos into system.
+**[[Astrology/Planets/Mercury # ☿]]** — The messenger here serves as analyst, as the mind that organizes chaos into system[^1].
 
-Mercury in Virgo is in both **domicile** and **exaltation** (15°)—the highest expression of the mercurial function. This is Mercury as **precision instrument**: not scattering information ([[Gemini ♊]]) but *curating* it, separating signal from noise. Where Mercury in Gemini asks "What else?", Mercury in Virgo asks "What matters?"—and then refines, discards, perfects.
+Mercury in Virgo is in both **domicile** (Night House) and **exaltation** (15°)—the highest expression of the mercurial function[^2]. This is Mercury as **precision instrument**: not scattering information ([[Gemini ♊]]) but *curating* it, separating signal from noise. Where Mercury in Gemini asks "What else?", Mercury in Virgo asks "What matters?"—and then refines, discards, perfects.
 
 ---
 ## Dignities & Notable Degrees
 
 | Dignity | Planet | Degree | Significance |
 |---------|--------|--------|--------------|
-| **Domicile** | [[Astrology/Planets/Mercury # ☿]] | — | Mercury rules; analytical precision, discernment, signal-to-noise filtering |
-| **Exaltation** | [[Astrology/Planets/Mercury # ☿]] | 15° | The highest expression of mercurial intelligence—mastery through detail |
-| **Detriment** | [[Jupiter ♃]] | — | Expansion constrained by analysis; faith questioned by reason |
-| **Fall** | [[Venus ♀]] | 27° | Pleasure diminished by perfectionism; beauty scrutinized into flaw |
+| **Domicile** | [[Astrology/Planets/Mercury # ☿]][^1] | — | Mercury rules (Night House); analytical precision, discernment, signal-to-noise filtering |
+| **Exaltation** | [[Astrology/Planets/Mercury # ☿]][^2] | 15° | The highest expression of mercurial intelligence—mastery through detail |
+| **Detriment** | [[Jupiter ♃]][^4] | — | Expansion constrained by analysis; faith questioned by reason |
+| **Fall** | [[Venus ♀]][^5] | 27° | Pleasure diminished by perfectionism; beauty scrutinized into flaw |
 
 The **Mercury exaltation at 15° Virgo** is the point where intellect becomes *craft*—where the mind is not merely clever but *precise*, where thought is tested against reality and refined until it works.
 
@@ -147,7 +147,7 @@ How each planet expresses when placed in Virgo, emphasizing precision, discernme
 ---
 ## House Affinity: The 6th House (Service, Health, Daily Work)
 
-Virgo is the natural ruler of the **[[6th House]]**, which governs:
+Virgo is the natural ruler of the **[[6th House]]**, which governs[^6]:
 - **Daily work and routines:** The sacred mundane, the labor that sustains
 - **Health and healing:** The body as system to be tended, symptoms as information
 - **Service and duty:** Work done not for glory but because it must be done
@@ -162,7 +162,7 @@ When Virgo energy is strong in the 6th House, the native excels at creating sust
 ---
 ## Medical and Physical Correlations
 
-In traditional medical astrology, Virgo governs the **digestive system and nervous system** of the physical body:
+In traditional medical astrology, Virgo governs the **digestive system and nervous system** of the physical body[^7]:
 
 - **Intestines (small and large):** The organs of assimilation and elimination, separating nourishment from waste
 - **Nervous system:** Signal processing, the body's communication network
@@ -213,6 +213,18 @@ What are you *perfecting*, and for whom? Virgo energy at its shadow believes tha
 The Virgo question is not "Am I good enough?" but "Am I willing to tend this work with love, knowing it will never be finished?"
 
 The Maiden teaches that service is not sacrifice. It is the **joy of care**—and that joy does not require recognition.
+
+---
+
+## References
+
+[^1]: Lilly, *Christian Astrology*, Book 1: Mercury rules Virgo (Night House)
+[^2]: Lilly, *Christian Astrology*, Book 1: Mercury exalted in Virgo at 15° (unique case where ruler = exaltation)
+[^3]: Lilly, *Christian Astrology*, Book 1; Ptolemy, *Tetrabiblos*, Book 1: Virgo as Mutable (Common/Double-bodied) Earth (cold and dry, melancholy)
+[^4]: Lilly, *Christian Astrology*, Book 1: Jupiter in detriment (opposite Pisces)
+[^5]: Lilly, *Christian Astrology*, Book 1: Venus in fall at 27° Virgo
+[^6]: Lilly, *Christian Astrology*, Book 2: Virgo cosignificator of 6th House (sickness, servants, small cattle)
+[^7]: Lilly, *Christian Astrology*, Book 1: Virgo governs belly, bowels, entrails, midriff; diseases include worms, colic, bowel obstructions
 
 ---
 
