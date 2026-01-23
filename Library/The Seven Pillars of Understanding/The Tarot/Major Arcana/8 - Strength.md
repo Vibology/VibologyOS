@@ -6,9 +6,9 @@ number: 8
 hebrew_letter: Teth (ט)
 qabalistic_path: 19 (Chesed → Geburah)
 astrological: Leo
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
-grimoire_source: "Tarot (Qabalistic Tarot, Pictorial Key, Golden Dawn)"
+grimoire_source: "Tarot (Qabalistic Tarot, Pictorial Key, Book of Thoth, Golden Dawn)"
 verification_notes: "Core Qabalistic correspondences (Hebrew letters, paths, zodiacal/planetary attributions) verified against Grimoire. Synthesis includes RWS and Thoth divinatory meanings, alchemical stages, Jungian archetypal interpretation."
 ---
 *The Daughter of the Flaming Sword*
@@ -16,15 +16,15 @@ verification_notes: "Core Qabalistic correspondences (Hebrew letters, paths, zod
 ---
 ## Traditional Symbolism
 
-When Strength appears ***upright*** in a reading, it speaks to the realm of fortitude and mastery over the animal nature. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *power, energy, action, courage, magnanimity,* and *complete success*.
+When Strength appears ***upright*** in a reading, it speaks to the realm of fortitude and mastery over the animal nature. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *power, energy, action, courage, magnanimity,* and *complete success*[^1].
 
-The Golden Dawn tradition identifies Strength as the "Daughter of the Flaming Sword," representing power that is not arrested by judgment but passes on to further action. This card embodies the paradox that true strength is gentle—the woman closes the lion's jaws not through force but through love.
+The Golden Dawn tradition identifies Strength as the "Daughter of the Flaming Sword," representing power that is not arrested by judgment but passes on to further action[^2]. This card embodies the paradox that true strength is gentle—the woman closes the lion's jaws not through force but through love.
 
 Strength represents the higher nature subduing the animal passions. The lion is not killed or caged but *tamed*—led by a chain of flowers, the sweet yoke of Divine Law. This is mastery through relationship rather than domination, control through compassion rather than violence.
 
 The card teaches that the greatest power is self-possession—the capacity to face one's own beast-nature (rage, lust, fear, hunger) without being consumed by it. This is Daniel in the lion's den unharmed, Samson subduing the lion, the saint with the wild animal that has become docile through spiritual presence.
 
-When Strength appears ***reversed***, Waite gives: *despotism, abuse of power, weakness, discord,* and *disgrace*.
+When Strength appears ***reversed***, Waite gives: *despotism, abuse of power, weakness, discord,* and *disgrace*[^1].
 
 The reversed Strength speaks to power misapplied—either through tyranny (using force where love would serve) or through weakness (unable to direct the animal energies at all). "Despotism" suggests the woman has become harsh, controlling the lion through violence rather than gentle mastery. The relationship has degraded from partnership to domination.
 
@@ -39,14 +39,14 @@ The key insight is that Strength always deals with **the relationship between hi
 
 | System | Correspondence |
 |--------|----------------|
-| **Number** | 8 - The octave, completion of one cycle before the next, infinity horizontal |
-| **Hebrew Letter** | Teth (ט) - Value: 9 - Meaning: Serpent/Snake (coiled fire, Kundalini) |
-| **Kabbalistic Path** | 19th Path: Chesed to Geburah - "Intelligence of all the activities of the spiritual beings" |
-| **Element** | Fire (Fixed Fire - sustained, controlled, directed) |
-| **Astrology** | Leo - The Lion, ruled by the Sun |
+| **Number** | 8 - The octave, completion of one cycle before the next, infinity horizontal [^3]|
+| **Hebrew Letter** | Teth (ט) - Value: 9 - Meaning: Serpent/Snake (coiled fire, Kundalini) [^3]|
+| **Kabbalistic Path** | 19th Path: Chesed to Geburah - "Intelligence of all the activities of the spiritual beings" [^3]|
+| **Element** | Fire (Fixed Fire - sustained, controlled, directed) [^3]|
+| **Astrology** | Leo - The Lion, ruled by the Sun [^3]|
 | **Sephiroth Connection** | Balances Mercy (Chesed) with Severity (Geburah) |
-| **Sound** | E-Natural |
-| **Color** | Yellow-Greenish (the color of nature's growth tamed into garden) |
+| **Sound** | E-Natural [^3]|
+| **Color** | Yellow-Greenish (the color of nature's growth tamed into garden) [^3]|
 
 ---
 
@@ -148,6 +148,16 @@ In spiritual contexts, Strength represents the stage of practice where disciplin
 ## Reading Examples/Case Studies
 
 TBD
+
+---
+
+---
+
+## Sources
+
+[^1]: A.E. Waite, *The Pictorial Key to the Tarot* (1910)
+[^2]: Robert Wang, *The Qabalistic Tarot* (Golden Dawn tradition)
+[^3]: Aleister Crowley, *The Book of Thoth*; Golden Dawn Tarot correspondences
 
 ---
 

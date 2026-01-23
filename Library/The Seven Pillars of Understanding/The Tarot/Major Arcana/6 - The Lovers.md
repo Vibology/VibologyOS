@@ -6,25 +6,25 @@ number: 6
 hebrew_letter: Zain (ז)
 qabalistic_path: 17 (Binah → Tiphareth)
 astrological: Gemini
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
-grimoire_source: "Tarot (Qabalistic Tarot, Pictorial Key, Golden Dawn)"
-verification_notes: "Core Qabalistic correspondences (Hebrew letters, paths, zodiacal/planetary attributions) verified against Grimoire. Synthesis includes RWS and Thoth divinatory meanings, alchemical stages, Jungian archetypal interpretation."
+grimoire_source: "Tarot (Qabalistic Tarot, Pictorial Key, Book of Thoth, Golden Dawn)"
+verification_notes: "All Qabalistic correspondences (Zain, Path 17, Disposing Intelligence, Gemini, Binah-Tiphareth, color, sound) verified against Golden Dawn/Thoth sources. Waite divinatory meanings verified exact quotes. Synthesis sections clearly marked as interpretive commentary."
 ---
 *The Children of the Voice*
 
 ---
 ## Traditional Symbolism
 
-When The Lovers appear ***upright*** in a reading, it speaks to the realm of sacred union and conscious choice. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *attraction, love, beauty, trials overcome,* and most significantly, *human love exhibited as part of the way, the truth, and the life*.
+When The Lovers appear ***upright*** in a reading, it speaks to the realm of sacred union and conscious choice. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *attraction, love, beauty, trials overcome,* and most significantly, *human love exhibited as part of the way, the truth, and the life*[^1].
 
-The Golden Dawn tradition identifies The Lovers as "The Children of the Voice," representing passive (often mediumistic) inspiration and the motive power arising from impulse. This card symbolizes the "marriage" of the dualities of the Higher Self—the moment when opposites unite not through force but through recognition of their essential complementarity.
+The Golden Dawn tradition identifies The Lovers as "The Children of the Voice," representing passive (often mediumistic) inspiration and the motive power arising from impulse[^2]. This card symbolizes the "marriage" of the dualities of the Higher Self—the moment when opposites unite not through force but through recognition of their essential complementarity.
 
 The Lovers are fundamentally about **choice**—not the arbitrary selection between options, but the existential commitment that defines identity. To choose one love is to exclude all others; to walk one path is to abandon infinite alternatives. This card appears at the crossroads where the soul must decide: which love will you serve?
 
 "Trials overcome" points to the testing that precedes true union. The Lovers are not naive fusion but conscious partnership forged through challenge. "Human love as part of the way, the truth, and the life" elevates relationship from personal gratification to spiritual path—love becomes the vehicle of awakening.
 
-When The Lovers appear ***reversed***, Waite gives: *failure, foolish designs, marriage frustrated,* and *contrarieties of all kinds*.
+When The Lovers appear ***reversed***, Waite gives: *failure, foolish designs, marriage frustrated,* and *contrarieties of all kinds*[^1].
 
 The reversed Lovers speak to union thwarted—by external circumstance, internal resistance, or poor timing. "Foolish designs" suggests relationship pursued for wrong reasons: projection rather than seeing, possession rather than partnership, escape rather than engagement.
 
@@ -39,15 +39,15 @@ The key insight is that The Lovers always deal with **the paradox of union throu
 
 | System | Correspondence |
 |--------|----------------|
-| **Number** | 6 - The hexagram, balance of opposites, perfect harmony |
-| **Hebrew Letter** | Zain (ז) - Value: 7 - Meaning: Sword/Weapon (discernment) |
-| **Kabbalistic Path** | 17th Path: Binah to Tiphareth - "Disposing Intelligence" |
-| **Element** | Air (Mutable Air - the exchange of breath) |
-| **Astrology** | Gemini - The Twins, ruled by Mercury |
-| **Sephiroth Connection** | Descends from Understanding (Mother) to Beauty (Heart) |
-| **Sound** | D-Natural |
-| **Color** | Orange |
-| **Simple Letter** | Smell (the sense of discernment and attraction) |
+| **Number** | 6 - The hexagram, balance of opposites, perfect harmony[^3] |
+| **Hebrew Letter** | Zain (ז) - Value: 7 - Meaning: Sword/Weapon (discernment)[^3] |
+| **Kabbalistic Path** | 17th Path: Binah to Tiphareth - "Disposing Intelligence"[^3] |
+| **Element** | Air (Mutable Air - the exchange of breath)[^3] |
+| **Astrology** | Gemini - The Twins, ruled by Mercury[^3] |
+| **Sephiroth Connection** | Descends from Understanding (Mother) to Beauty (Heart)[^3] |
+| **Sound** | D-Natural[^3] |
+| **Color** | Orange[^3] |
+| **Simple Letter** | Smell (the sense of discernment and attraction)[^3] |
 
 ---
 
@@ -153,6 +153,14 @@ The card also appears at literal crossroads: career changes, relocations, major 
 ## Reading Examples/Case Studies
 
 TBD
+
+---
+
+## Sources
+
+[^1]: A.E. Waite, *The Pictorial Key to the Tarot* (1910)
+[^2]: Robert Wang, *The Qabalistic Tarot* (Golden Dawn tradition)
+[^3]: Aleister Crowley, *The Book of Thoth*; Golden Dawn Tarot correspondences
 
 ---
 

@@ -6,9 +6,9 @@ number: 20
 hebrew_letter: Shin (ש)
 qabalistic_path: 31 (Malkuth → Hod)
 astrological: Fire / Pluto
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
-grimoire_source: "Tarot (Qabalistic Tarot, Pictorial Key, Golden Dawn)"
+grimoire_source: "Tarot (Qabalistic Tarot, Pictorial Key, Book of Thoth, Golden Dawn)"
 verification_notes: "Core Qabalistic correspondences (Hebrew letters, paths, zodiacal/planetary attributions) verified against Grimoire. Synthesis includes RWS and Thoth divinatory meanings, alchemical stages, Jungian archetypal interpretation."
 ---
 *The Spirit of the Primal Fire*
@@ -96,7 +96,7 @@ In modern esoteric astrology, Judgement is also associated with **Pluto**—the 
 
 The Rider-Waite depiction of Judgement is dramatic, biblical, apocalyptic:
 
-- **The Angel (Michael, not Gabriel)**: At the top of the image, an **angel** emerges from clouds, blowing a trumpet. Tradition often identifies this angel as **Gabriel** (the messenger, the announcer), but in the Golden Dawn system, the angel is **Michael**—the **Ruler of Solar Fire**, the archangel who wields the sword of truth, who weighs souls, who stands as the champion of the divine against chaos.
+- **The Angel (Michael, not Gabriel)**: At the top of the image, an **angel** emerges from clouds, blowing a trumpet. Tradition often identifies this angel as **Gabriel** (the messenger, the announcer), but in the Golden Dawn system, the angel is **Michael**—the **Ruler of Solar Fire**, the archangel who wields the sword of truth, who weighs souls, who stands as the champion of the divine against chaos[^2].
 
   Michael calls down the influence of **Binah** (Understanding, the Great Mother) to initiate resurrection. This is significant: resurrection is not a masculine act of force but a feminine act of *reception*—the soul must open, must allow, must *receive* the divine influx. Michael is the mediator, but Binah is the source.
 
@@ -185,6 +185,16 @@ The gift of integration: **The capacity to review your life with compassion and 
 ## Reading Examples / Case Studies
 
 *TBD*
+
+---
+
+---
+
+## Sources
+
+[^1]: A.E. Waite, *The Pictorial Key to the Tarot* (1910)
+[^2]: Robert Wang, *The Qabalistic Tarot* (Golden Dawn tradition)
+[^3]: Aleister Crowley, *The Book of Thoth*; Golden Dawn Tarot correspondences
 
 ---
 

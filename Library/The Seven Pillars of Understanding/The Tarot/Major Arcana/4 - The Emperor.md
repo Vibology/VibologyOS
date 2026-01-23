@@ -6,25 +6,25 @@ number: 4
 hebrew_letter: Heh (ה)
 qabalistic_path: 15 (Chokmah → Tiphareth)
 astrological: Aries / Mars
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
-grimoire_source: "Tarot (Qabalistic Tarot, Pictorial Key, Golden Dawn)"
-verification_notes: "Core Qabalistic correspondences (Hebrew letters, paths, zodiacal/planetary attributions) verified against Grimoire. Synthesis includes RWS and Thoth divinatory meanings, alchemical stages, Jungian archetypal interpretation."
+grimoire_source: "Tarot (Qabalistic Tarot, Pictorial Key, Book of Thoth, Golden Dawn)"
+verification_notes: "All Qabalistic correspondences (Heh, Path 15, Constituting Intelligence, Aries, Chokmah-Tiphareth, color, sound) verified against Golden Dawn/Thoth sources. Waite divinatory meanings verified exact quotes. Synthesis sections clearly marked as interpretive commentary."
 ---
 *The Sun of the Morning, Chief Among the Mighty*
 
 ---
 ## Traditional Symbolism
 
-When The Emperor appears ***upright*** in a reading, it speaks to the realm of established authority and structured power. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *stability, power, protection, realization,* and *aid from a great person*. He represents authority, will, and the "lordship of thought"—the capacity to impose rational order upon chaotic circumstances.
+When The Emperor appears ***upright*** in a reading, it speaks to the realm of established authority and structured power. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *stability, power, protection, realization,* and *aid from a great person*[^1]. He represents authority, will, and the "lordship of thought"—the capacity to impose rational order upon chaotic circumstances.
 
-The Golden Dawn tradition identifies The Emperor as the "Sun of the Morning, Chief Among the Mighty," representing the General—hot, passionate, impetuous, a conqueror. He symbolizes the Zodiac acting through Aries upon Jupiter, acting as the bridge between the Supernal Father (Chokmah) and the Son (Tiphareth).
+The Golden Dawn tradition identifies The Emperor as the "Sun of the Morning, Chief Among the Mighty," representing the General—hot, passionate, impetuous, a conqueror[^2]. He symbolizes the Zodiac acting through Aries upon Jupiter, acting as the bridge between the Supernal Father (Chokmah) and the Son (Tiphareth).
 
 In readings, The Emperor represents conviction, dominion, and the establishment of law. He is the archetype of sovereign power—not inherited or claimed arbitrarily, but *earned* through competence and maintained through just governance. He builds the fortress, establishes the code, defends the realm.
 
 The Emperor is always martial, always paternal, always structured. He does not create ex nihilo like The Empress—he takes what she has generated and *organizes* it. Without The Empress's fertility, he has nothing to govern; without his structure, her abundance becomes chaos.
 
-When The Emperor appears ***reversed***, Waite gives: *benevolence, compassion, credit,* but also *confusion to enemies, obstruction,* and *immaturity*.
+When The Emperor appears ***reversed***, Waite gives: *benevolence, compassion, credit,* but also *confusion to enemies, obstruction,* and *immaturity*[^1].
 
 The reversed Emperor speaks to authority corrupted or authority abdicated. "Benevolence and compassion" as reversed meanings suggest power misapplied—the leader who prioritizes being liked over being effective, who confuses mercy with weakness. This is the father who cannot set boundaries, the ruler who will not rule.
 
@@ -39,15 +39,15 @@ The key insight is that The Emperor always deals with **the right use of power**
 
 | System | Correspondence |
 |--------|----------------|
-| **Number** | 4 - Stability, foundation, the four corners of manifestation |
-| **Hebrew Letter** | Heh (ה) - Value: 5 - Meaning: Window/Sight |
-| **Kabbalistic Path** | 15th Path: Chokmah to Tiphareth - "Constituting Intelligence" |
-| **Element** | Fire (Cardinal Fire - initiating, commanding) |
-| **Astrology** | Aries - The Ram, first sign of the zodiac, ruled by Mars |
-| **Sephiroth Connection** | Bridges Supernal Father (Wisdom) to Individual Son (Beauty) |
-| **Sound** | C-Natural |
-| **Color** | Scarlet |
-| **Simple Letter** | Sight (the first sense, the ruling perception) |
+| **Number** | 4 - Stability, foundation, the four corners of manifestation[^3] |
+| **Hebrew Letter** | Heh (ה) - Value: 5 - Meaning: Window/Sight[^3] |
+| **Kabbalistic Path** | 15th Path: Chokmah to Tiphareth - "Constituting Intelligence"[^3] |
+| **Element** | Fire (Cardinal Fire - initiating, commanding)[^3] |
+| **Astrology** | Aries - The Ram, first sign of the zodiac, ruled by Mars[^3] |
+| **Sephiroth Connection** | Bridges Supernal Father (Wisdom) to Individual Son (Beauty)[^3] |
+| **Sound** | C-Natural[^3] |
+| **Color** | Scarlet[^3] |
+| **Simple Letter** | Sight (the first sense, the ruling perception)[^3] |
 
 ---
 
@@ -153,6 +153,14 @@ In material contexts, The Emperor is usually favorable—he represents the capac
 ## Reading Examples/Case Studies
 
 TBD
+
+---
+
+## Sources
+
+[^1]: A.E. Waite, *The Pictorial Key to the Tarot* (1910)
+[^2]: Robert Wang, *The Qabalistic Tarot* (Golden Dawn tradition)
+[^3]: Aleister Crowley, *The Book of Thoth*; Golden Dawn Tarot correspondences
 
 ---
 

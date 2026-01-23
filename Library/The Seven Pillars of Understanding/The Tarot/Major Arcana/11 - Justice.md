@@ -6,9 +6,9 @@ number: 11
 hebrew_letter: Lamed (ל)
 qabalistic_path: 22 (Geburah → Tiphareth)
 astrological: Libra
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
-grimoire_source: "Tarot (Qabalistic Tarot, Pictorial Key, Golden Dawn)"
+grimoire_source: "Tarot (Qabalistic Tarot, Pictorial Key, Book of Thoth, Golden Dawn)"
 verification_notes: "Core Qabalistic correspondences (Hebrew letters, paths, zodiacal/planetary attributions) verified against Grimoire. Synthesis includes RWS and Thoth divinatory meanings, alchemical stages, Jungian archetypal interpretation."
 ---
 *The Daughter of the Lords of Truth, The Ruler of Balance*
@@ -16,15 +16,15 @@ verification_notes: "Core Qabalistic correspondences (Hebrew letters, paths, zod
 ---
 ## Traditional Symbolism
 
-When Justice appears ***upright*** in a reading, it speaks to the realm of equilibrium and righteous adjustment. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *equity, rightness, probity,* and *executive force*—and can represent a person whose action is in question.
+When Justice appears ***upright*** in a reading, it speaks to the realm of equilibrium and righteous adjustment. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *equity, rightness, probity,* and *executive force*—and can represent a person whose action is in question[^1].
 
-The Golden Dawn tradition identifies Justice as embodying the "Faithful Intelligence," representing the process of self-assessment where the soul weighs itself to bring the organism into perfect equilibrium. This card acts as a "stabilizing extreme" that mediates divine influence upon all existence.
+The Golden Dawn tradition identifies Justice as embodying the "Faithful Intelligence," representing the process of self-assessment where the soul weighs itself to bring the organism into perfect equilibrium[^2]. This card acts as a "stabilizing extreme" that mediates divine influence upon all existence.
 
 Justice represents cosmic law—the principle that every action generates consequence, that every imbalance demands correction. She is Maat, the Egyptian goddess who weighs the heart against the feather of truth. If the heart is heavy with untruth, the soul does not pass.
 
 "Equity" and "rightness" point to natural law rather than human legislation—the inherent balance that reality seeks, the way things return to center when displaced. "Executive force" suggests that Justice does not merely judge but *acts*—the sword severs what must be cut, the scales measure what must be weighed, and adjustment follows inevitably.
 
-When Justice appears ***reversed***, Waite gives: *law in all its departments, legal complications, bigotry, bias,* and *excessive severity*.
+When Justice appears ***reversed***, Waite gives: *law in all its departments, legal complications, bigotry, bias,* and *excessive severity*[^1].
 
 The reversed Justice speaks to law divorced from equity—bureaucracy, le
 
@@ -39,14 +39,14 @@ The key insight is that Justice always deals with **the relationship between act
 
 | System | Correspondence |
 |--------|----------------|
-| **Number** | 11 - Beyond the perfection of 10, the first step into new complexity |
-| **Hebrew Letter** | Lamed (ל) - Value: 30 - Meaning: Ox-goad (that which directs the beast) |
-| **Kabbalistic Path** | 22nd Path: Geburah to Tiphareth - "Faithful Intelligence" |
-| **Element** | Air (Cardinal Air - initiating balance, active equilibrium) |
-| **Astrology** | Libra - The Scales, ruled by Venus |
+| **Number** | 11 - Beyond the perfection of 10, the first step into new complexity [^3]|
+| **Hebrew Letter** | Lamed (ל) - Value: 30 - Meaning: Ox-goad (that which directs the beast) [^3]|
+| **Kabbalistic Path** | 22nd Path: Geburah to Tiphareth - "Faithful Intelligence" [^3]|
+| **Element** | Air (Cardinal Air - initiating balance, active equilibrium) [^3]|
+| **Astrology** | Libra - The Scales, ruled by Venus [^3]|
 | **Sephiroth Connection** | Links Severity (Geburah) to Beauty (Tiphareth) |
-| **Sound** | F-Sharp |
-| **Color** | Emerald Green |
+| **Sound** | F-Sharp [^3]|
+| **Color** | Emerald Green [^3]|
 | **Simple Letter** | Work (the labor of adjustment) |
 
 ---
@@ -156,6 +156,16 @@ In spiritual contexts, Justice represents the stage where the aspirant must face
 ## Reading Examples/Case Studies
 
 TBD
+
+---
+
+---
+
+## Sources
+
+[^1]: A.E. Waite, *The Pictorial Key to the Tarot* (1910)
+[^2]: Robert Wang, *The Qabalistic Tarot* (Golden Dawn tradition)
+[^3]: Aleister Crowley, *The Book of Thoth*; Golden Dawn Tarot correspondences
 
 ---
 

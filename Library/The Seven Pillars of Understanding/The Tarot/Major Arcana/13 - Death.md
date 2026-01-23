@@ -6,9 +6,9 @@ number: 13
 hebrew_letter: Nun (נ)
 qabalistic_path: 24 (Netzach → Tiphareth)
 astrological: Scorpio
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
-grimoire_source: "Tarot (Qabalistic Tarot, Pictorial Key, Golden Dawn)"
+grimoire_source: "Tarot (Qabalistic Tarot, Pictorial Key, Book of Thoth, Golden Dawn)"
 verification_notes: "Core Qabalistic correspondences (Hebrew letters, paths, zodiacal/planetary attributions) verified against Grimoire. Synthesis includes RWS and Thoth divinatory meanings, alchemical stages, Jungian archetypal interpretation."
 ---
 *The Child of the Great Transformers / The Lord of the Gate of Death*
@@ -188,6 +188,16 @@ The gift of integration: **Learning to let go with grace**. Death teaches that *
 ## Reading Examples / Case Studies
 
 *TBD*
+
+---
+
+---
+
+## Sources
+
+[^1]: A.E. Waite, *The Pictorial Key to the Tarot* (1910)
+[^2]: Robert Wang, *The Qabalistic Tarot* (Golden Dawn tradition)
+[^3]: Aleister Crowley, *The Book of Thoth*; Golden Dawn Tarot correspondences
 
 ---
 

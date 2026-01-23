@@ -6,9 +6,9 @@ number: 7
 hebrew_letter: Cheth (ח)
 qabalistic_path: 18 (Binah → Geburah)
 astrological: Cancer / Moon
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
-grimoire_source: "Tarot (Qabalistic Tarot, Pictorial Key, Golden Dawn)"
+grimoire_source: "Tarot (Qabalistic Tarot, Pictorial Key, Book of Thoth, Golden Dawn)"
 verification_notes: "Core Qabalistic correspondences (Hebrew letters, paths, zodiacal/planetary attributions) verified against Grimoire. Synthesis includes RWS and Thoth divinatory meanings, alchemical stages, Jungian archetypal interpretation."
 ---
 *The Lord of the Triumph of Light*
@@ -16,9 +16,9 @@ verification_notes: "Core Qabalistic correspondences (Hebrew letters, paths, zod
 ---
 ## Traditional Symbolism
 
-When The Chariot appears ***upright*** in a reading, it speaks to the realm of conquest through disciplined will. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *succour, providence, triumph, victory,* particularly *victory in the mind*—but also *war, presumption,* and *trouble*.
+When The Chariot appears ***upright*** in a reading, it speaks to the realm of conquest through disciplined will. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *succour, providence, triumph, victory,* particularly *victory in the mind*—but also *war, presumption,* and *trouble*[^1].
 
-The Golden Dawn tradition identifies The Chariot as the "Lord of the Triumph of Light," representing the descent of the Holy Spirit into manifest creation and "conquest on all planes." This card signifies the soul warrior who has reached the pinnacle of spiritual development before the Abyss—the last triumph of ego-strength before the great surrender.
+The Golden Dawn tradition identifies The Chariot as the "Lord of the Triumph of Light," representing the descent of the Holy Spirit into manifest creation and "conquest on all planes[^2]." This card signifies the soul warrior who has reached the pinnacle of spiritual development before the Abyss—the last triumph of ego-strength before the great surrender.
 
 The Chariot represents victory through mastery of opposing forces. The charioteer does not eliminate contradiction but *harnesses* it, directing conflicting energies toward a single aim. This is triumph not through destruction of the enemy but through integration of opposites—the black and white sphinxes pulling together despite their contrary natures.
 
@@ -26,7 +26,7 @@ The Chariot represents victory through mastery of opposing forces. The chariotee
 
 But Waite's inclusion of "war, presumption, and trouble" warns of the shadow: victory can become conquest for its own sake, control can harden into rigidity, the armor that protects can become the prison that isolates.
 
-When The Chariot appears ***reversed***, Waite gives: *riot, quarrel, dispute, litigation,* and *defeat*.
+When The Chariot appears ***reversed***, Waite gives: *riot, quarrel, dispute, litigation,* and *defeat*[^1].
 
 The reversed Chariot speaks to control lost, the opposing forces no longer harnessed but in open conflict. "Riot" suggests internal chaos, the sphinxes pulling in opposite directions while the charioteer loses the reins. What should be disciplined will becomes scattered energy, purposeless motion, the illusion of progress masking actual stasis.
 
@@ -41,14 +41,14 @@ The key insight is that The Chariot always deals with **the paradox of victory t
 
 | System | Correspondence |
 |--------|----------------|
-| **Number** | 7 - The sacred seven, completion of first cycle, rest in motion |
-| **Hebrew Letter** | Cheth (ח) - Value: 8 - Meaning: Fence/Enclosure (protective boundary) |
-| **Kabbalistic Path** | 18th Path: Binah to Geburah - "House of Influence" |
-| **Element** | Water (Cardinal Water - initiating emotion, protective containment) |
-| **Astrology** | Cancer - The Crab, ruled by the Moon |
+| **Number** | 7 - The sacred seven, completion of first cycle, rest in motion [^3]|
+| **Hebrew Letter** | Cheth (ח) - Value: 8 - Meaning: Fence/Enclosure (protective boundary) [^3]|
+| **Kabbalistic Path** | 18th Path: Binah to Geburah - "House of Influence" [^3]|
+| **Element** | Water (Cardinal Water - initiating emotion, protective containment) [^3]|
+| **Astrology** | Cancer - The Crab, ruled by the Moon [^3]|
 | **Sephiroth Connection** | Descends from Understanding (Mother) to Strength (Severity) |
-| **Sound** | D-Sharp |
-| **Color** | Red-Orange/Amber |
+| **Sound** | D-Sharp [^3]|
+| **Color** | Red-Orange/Amber [^3]|
 | **Simple Letter** | Speech (the power to command, to speak the Will) |
 
 ---
@@ -153,6 +153,16 @@ In spiritual contexts, The Chariot represents the development of ego-strength as
 ## Reading Examples/Case Studies
 
 TBD
+
+---
+
+---
+
+## Sources
+
+[^1]: A.E. Waite, *The Pictorial Key to the Tarot* (1910)
+[^2]: Robert Wang, *The Qabalistic Tarot* (Golden Dawn tradition)
+[^3]: Aleister Crowley, *The Book of Thoth*; Golden Dawn Tarot correspondences
 
 ---
 

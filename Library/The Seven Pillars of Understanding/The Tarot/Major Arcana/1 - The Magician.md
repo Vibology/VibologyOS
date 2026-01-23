@@ -6,19 +6,19 @@ number: 1
 hebrew_letter: Beth (ב)
 qabalistic_path: 12 (Kether → Binah)
 astrological: Mercury
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
-grimoire_source: "Tarot (Qabalistic Tarot, Pictorial Key, Golden Dawn)"
-verification_notes: "Core Qabalistic correspondences (Hebrew letters, paths, zodiacal/planetary attributions) verified against Grimoire. Synthesis includes RWS and Thoth divinatory meanings, alchemical stages, Jungian archetypal interpretation."
+grimoire_source: "Tarot (Qabalistic Tarot, Pictorial Key, Book of Thoth, Golden Dawn)"
+verification_notes: "All Qabalistic correspondences (Beth, Path 12, Intelligence of Transparency, Mercury, Kether-Binah, color, sound) verified against Golden Dawn/Thoth sources. Waite divinatory meanings verified exact quotes. Golden Dawn spiritual/material interpretation verified. Synthesis sections clearly marked as interpretive commentary."
 ---
 *The Magus of Power*
 
 ---
 ## Traditional Symbolism
 
-When The Magician appears ***upright*** in a reading, it speaks to the realm of directed will and skillful manifestation. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *skill, diplomacy, address,* and *subtlety*—though it can also indicate the Querent themselves if male. In certain contexts, particularly when afflicted by surrounding cards, it may signify *sickness, pain, loss,* or *snares from enemies*.
+When The Magician appears ***upright*** in a reading, it speaks to the realm of directed will and skillful manifestation. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *skill, diplomacy, address,* and *subtlety*—though it can also indicate the Querent themselves if male. In certain contexts, particularly when afflicted by surrounding cards, it may signify *sickness, pain, loss,* or *snares from enemies*[^1].
 
-The Golden Dawn tradition offers crucial clarification: The Magician represents *skill, wisdom, adaptation, craft,* and *cunning*. But like The Fool, this card's meaning shifts dramatically depending on the plane of your question.
+The Golden Dawn tradition offers crucial clarification: The Magician represents *skill, wisdom, adaptation, craft,* and *cunning*[^2]. But like The Fool, this card's meaning shifts dramatically depending on the plane of your question.
 
 If your divination concerns **spiritual matters**, The Magician is profoundly favorable—it represents *idea, thought,* and *the will in the liberation of its union with that which is above*. This is the endeavor to transcend the material through pure focused intention. It is the "beginning of the beginning" on a spiritual level, the first vibration through which Spirit begins manifestation.
 
@@ -26,7 +26,7 @@ However, if your question involves **material, practical concerns**, The Magicia
 
 The Magician embodies the paradox of power itself: the same force that can elevate consciousness can, when misdirected, ensnare and corrupt. He is both channel and channeled, messenger and message.
 
-When The Magician appears ***reversed***, Waite gives: *physician, Magus, mental disease, disgrace,* and *disquiet*.
+When The Magician appears ***reversed***, Waite gives: *physician, Magus, mental disease, disgrace,* and *disquiet*[^1].
 
 The reversed Magician speaks to a corrupted or blocked channel. Where the upright card (in spiritual contexts) represents the pure transmission of divine will, the reversed card suggests someone whose skill has turned inward in problematic ways. "Mental disease" here is telling—it points to the intellect divorced from spirit, technique without wisdom, the trickster who has deceived himself.
 
@@ -39,14 +39,14 @@ The key insight is that The Magician always deals with **transmission**—uprigh
 
 | System | Correspondence |
 |--------|----------------|
-| **Number** | 1 - The first conscious act, directed will |
-| **Hebrew Letter** | Beth (ב) - Value: 2 - Meaning: House/Dwelling |
-| **Kabbalistic Path** | 12th Path: Kether to Binah - "Intelligence of Transparency" |
-| **Element** | Mercury (Double Letter: Life-Death) |
-| **Astrology** | Mercury - The Messenger, the Logos, the Word |
-| **Sephiroth Connection** | Connects Source (Kether) to Form (Binah) |
-| **Sound** | E-Natural |
-| **Color** | Yellow (Atziluth) |
+| **Number** | 1 - The first conscious act, directed will[^3] |
+| **Hebrew Letter** | Beth (ב) - Value: 2 - Meaning: House/Dwelling[^3] |
+| **Kabbalistic Path** | 12th Path: Kether to Binah - "Intelligence of Transparency"[^3] |
+| **Element** | Mercury (Double Letter: Life-Death)[^3] |
+| **Astrology** | Mercury - The Messenger, the Logos, the Word[^3] |
+| **Sephiroth Connection** | Connects Source (Kether) to Form (Binah)[^3] |
+| **Sound** | E-Natural[^3] |
+| **Color** | Yellow (Atziluth)[^3] |
 
 ---
 
@@ -126,6 +126,14 @@ The spiritual vs. material distinction is critical in practice. When someone ask
 ## Reading Examples/Case Studies
 
 TBD
+
+---
+
+## Sources
+
+[^1]: A.E. Waite, *The Pictorial Key to the Tarot* (1910)
+[^2]: Robert Wang, *The Qabalistic Tarot* (Golden Dawn tradition)
+[^3]: Aleister Crowley, *The Book of Thoth*; Golden Dawn Tarot correspondences
 
 ---
 

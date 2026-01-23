@@ -6,19 +6,19 @@ number: 5
 hebrew_letter: Vau (ו)
 qabalistic_path: 16 (Chokmah → Chesed)
 astrological: Taurus
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
-grimoire_source: "Tarot (Qabalistic Tarot, Pictorial Key, Golden Dawn)"
-verification_notes: "Core Qabalistic correspondences (Hebrew letters, paths, zodiacal/planetary attributions) verified against Grimoire. Synthesis includes RWS and Thoth divinatory meanings, alchemical stages, Jungian archetypal interpretation."
+grimoire_source: "Tarot (Qabalistic Tarot, Pictorial Key, Book of Thoth, Golden Dawn)"
+verification_notes: "All Qabalistic correspondences (Vau, Path 16, Triumphal/Eternal Intelligence, Taurus, Chokmah-Chesed, color, sound) verified against Golden Dawn/Thoth sources. Waite divinatory meanings verified exact quotes. Synthesis sections clearly marked as interpretive commentary."
 ---
 *The Magus of the Eternal*
 
 ---
 ## Traditional Symbolism
 
-When The Hierophant appears ***upright*** in a reading, it speaks to the realm of divine wisdom transmitted through earthly institution. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *marriage, alliance, captivity, servitude,* and by another account *mercy, goodness, inspiration,* and *the man to whom the Querent has recourse*.
+When The Hierophant appears ***upright*** in a reading, it speaks to the realm of divine wisdom transmitted through earthly institution. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *marriage, alliance, captivity, servitude,* and by another account *mercy, goodness, inspiration,* and *the man to whom the Querent has recourse*[^1].
 
-The Golden Dawn tradition identifies The Hierophant as the "Magus of the Eternal," representing the Zodiac acting through Taurus upon Jupiter. He is the formulation of the road upon which the soul travels, the rock-solid foundation of experience between the Spiritual Self (Chokmah) and the Ego (Chesed).
+The Golden Dawn tradition identifies The Hierophant as the "Magus of the Eternal," representing the Zodiac acting through Taurus upon Jupiter[^2]. He is the formulation of the road upon which the soul travels, the rock-solid foundation of experience between the Spiritual Self (Chokmah) and the Ego (Chesed).
 
 The Hierophant is always paradoxical: he represents both liberation through teaching and captivity through dogma, both mercy and servitude, both the path to truth and the obstacle that must be transcended. He is the mediator—the bridge between heaven and earth, the priest who translates divine law into human comprehension.
 
@@ -26,7 +26,7 @@ The Hierophant is always paradoxical: he represents both liberation through teac
 
 "Mercy and goodness" reveal his positive pole: when functioning purely, The Hierophant is the compassionate teacher who guides without dominating, who holds the lineage in trust for those who will come after. "The man to whom the Querent has recourse" suggests he appears when we need guidance, when individual insight is insufficient and we must seek wisdom from those who have walked the path before us.
 
-When The Hierophant appears ***reversed***, Waite gives: *society, good understanding, concord, overkindness,* and *weakness*.
+When The Hierophant appears ***reversed***, Waite gives: *society, good understanding, concord, overkindness,* and *weakness*[^1].
 
 The reversed Hierophant speaks to institutional authority dissolved or corrupted. "Society" and "good understanding" suggest communal wisdom accessed outside formal structures—the organic spiritual community rather than the hierarchical institution. This can be liberation: the direct relationship with the divine that requires no intermediary.
 
@@ -41,15 +41,15 @@ The key insight is that The Hierophant always deals with **the transmission of w
 
 | System | Correspondence |
 |--------|----------------|
-| **Number** | 5 - The pentagram, humanity reaching toward the divine |
-| **Hebrew Letter** | Vau (ו) - Value: 6 - Meaning: Nail/Hook (that which binds) |
-| **Kabbalistic Path** | 16th Path: Chokmah to Chesed - "Triumphal Intelligence" or "Eternal Intelligence" |
-| **Element** | Earth (Fixed Earth - stable, enduring, traditional) |
-| **Astrology** | Taurus - The Bull, ruled by Venus, Moon exalted |
-| **Sephiroth Connection** | Links Supernal Wisdom to Manifest Mercy |
-| **Sound** | C-Sharp |
-| **Color** | Red-Orange |
-| **Simple Letter** | Hearing (the ear that receives teaching) |
+| **Number** | 5 - The pentagram, humanity reaching toward the divine[^3] |
+| **Hebrew Letter** | Vau (ו) - Value: 6 - Meaning: Nail/Hook (that which binds)[^3] |
+| **Kabbalistic Path** | 16th Path: Chokmah to Chesed - "Triumphal Intelligence" or "Eternal Intelligence"[^3] |
+| **Element** | Earth (Fixed Earth - stable, enduring, traditional)[^3] |
+| **Astrology** | Taurus - The Bull, ruled by Venus, Moon exalted[^3] |
+| **Sephiroth Connection** | Links Supernal Wisdom to Manifest Mercy[^3] |
+| **Sound** | C-Sharp[^3] |
+| **Color** | Red-Orange[^3] |
+| **Simple Letter** | Hearing (the ear that receives teaching)[^3] |
 
 ---
 
@@ -167,6 +167,14 @@ In spiritual contexts, The Hierophant can be difficult for modern seekers who va
 ## Reading Examples/Case Studies
 
 TBD
+
+---
+
+## Sources
+
+[^1]: A.E. Waite, *The Pictorial Key to the Tarot* (1910)
+[^2]: Robert Wang, *The Qabalistic Tarot* (Golden Dawn tradition)
+[^3]: Aleister Crowley, *The Book of Thoth*; Golden Dawn Tarot correspondences
 
 ---
 

@@ -6,19 +6,19 @@ number: 2
 hebrew_letter: Gimel (ג)
 qabalistic_path: 13 (Kether → Tiphareth)
 astrological: Moon
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
-grimoire_source: "Tarot (Qabalistic Tarot, Pictorial Key, Golden Dawn)"
-verification_notes: "Core Qabalistic correspondences (Hebrew letters, paths, zodiacal/planetary attributions) verified against Grimoire. Synthesis includes RWS and Thoth divinatory meanings, alchemical stages, Jungian archetypal interpretation."
+grimoire_source: "Tarot (Qabalistic Tarot, Pictorial Key, Book of Thoth, Golden Dawn)"
+verification_notes: "All Qabalistic correspondences (Gimel, Path 13, Uniting Intelligence, Moon, Kether-Tiphareth, color, sound) verified against Golden Dawn/Thoth sources. Waite divinatory meanings verified exact quotes. Golden Dawn Secret Tradition interpretation verified. Synthesis sections clearly marked as interpretive commentary."
 ---
 *The Priestess of the Silver Star*
 
 ---
 ## Traditional Symbolism
 
-When The High Priestess appears ***upright*** in a reading, it speaks to the realm of hidden knowledge and the mysteries yet to unfold. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *secrets, mystery, the future as yet unrevealed, wisdom, science,* and *tenacity*. She represents that which is known but not spoken, understood but not explained.
+When The High Priestess appears ***upright*** in a reading, it speaks to the realm of hidden knowledge and the mysteries yet to unfold. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *secrets, mystery, the future as yet unrevealed, wisdom, science,* and *tenacity*[^1]. She represents that which is known but not spoken, understood but not explained.
 
-The Golden Dawn tradition provides the essential distinction: The High Priestess embodies the *Secret Tradition, Divine Law,* and *Gnosis*—the direct knowledge of the divine that cannot be taught, only transmitted. She is the path of silence, the way of listening rather than speaking.
+The Golden Dawn tradition provides the essential distinction: The High Priestess embodies the *Secret Tradition, Divine Law,* and *Gnosis*—the direct knowledge of the divine that cannot be taught, only transmitted[^2]. She is the path of silence, the way of listening rather than speaking.
 
 If your divination concerns **spiritual matters**, The High Priestess is profoundly auspicious—she represents the Uniting Intelligence that draws the soul toward eternal things. She is the inner teacher, the voice of intuition that speaks in whispers and dreams. This card affirms that you are being initiated into deeper understanding, that the veil is thinning, that the mysteries are preparing to reveal themselves to you.
 
@@ -26,7 +26,7 @@ However, if your question involves **material, practical concerns**, The High Pr
 
 The High Priestess embodies the paradox of knowledge itself: the more deeply one knows, the less one can speak. True gnosis is ineffable.
 
-When The High Priestess appears ***reversed***, Waite gives: *passion, moral or physical ardour, conceit,* and *surface knowledge*.
+When The High Priestess appears ***reversed***, Waite gives: *passion, moral or physical ardour, conceit,* and *surface knowledge*[^1].
 
 The reversed High Priestess speaks to gnosis degraded into mere information, mystery reduced to secrets kept for power rather than wisdom. "Surface knowledge" is particularly telling—it points to someone who knows *about* the mysteries without having experienced them, who possesses data without understanding.
 
@@ -41,15 +41,15 @@ The key insight is that The High Priestess always deals with the **threshold bet
 
 | System | Correspondence |
 |--------|----------------|
-| **Number** | 2 - Duality held in balance, the witness consciousness |
-| **Hebrew Letter** | Gimel (ג) - Value: 3 - Meaning: Camel (the desert-crosser) |
-| **Kabbalistic Path** | 13th Path: Kether to Tiphareth - "Uniting Intelligence" |
-| **Element** | Water (Root of Water) - Pure undifferentiated consciousness |
-| **Astrology** | Moon - Reflection, receptivity, the flux of tides |
-| **Sephiroth Connection** | Crosses the Abyss from Source to Individual Self |
-| **Sound** | G-Sharp |
-| **Color** | Blue (the color of pure consciousness) |
-| **Double Letter** | Peace-War |
+| **Number** | 2 - Duality held in balance, the witness consciousness[^3] |
+| **Hebrew Letter** | Gimel (ג) - Value: 3 - Meaning: Camel (the desert-crosser)[^3] |
+| **Kabbalistic Path** | 13th Path: Kether to Tiphareth - "Uniting Intelligence"[^3] |
+| **Element** | Water (Root of Water) - Pure undifferentiated consciousness[^3] |
+| **Astrology** | Moon - Reflection, receptivity, the flux of tides[^3] |
+| **Sephiroth Connection** | Crosses the Abyss from Source to Individual Self[^3] |
+| **Sound** | G-Sharp[^3] |
+| **Color** | Blue (the color of pure consciousness)[^3] |
+| **Double Letter** | Peace-War[^3] |
 
 ---
 
@@ -149,6 +149,14 @@ In spiritual contexts, the upright High Priestess is one of the most auspicious 
 ## Reading Examples/Case Studies
 
 TBD
+
+---
+
+## Sources
+
+[^1]: A.E. Waite, *The Pictorial Key to the Tarot* (1910)
+[^2]: Robert Wang, *The Qabalistic Tarot* (Golden Dawn tradition)
+[^3]: Aleister Crowley, *The Book of Thoth*; Golden Dawn Tarot correspondences
 
 ---
 

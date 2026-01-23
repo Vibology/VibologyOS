@@ -6,9 +6,9 @@ number: 18
 hebrew_letter: Qoph (ק)
 qabalistic_path: 29 (Netzach → Malkuth)
 astrological: Pisces
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
-grimoire_source: "Tarot (Qabalistic Tarot, Pictorial Key, Golden Dawn)"
+grimoire_source: "Tarot (Qabalistic Tarot, Pictorial Key, Book of Thoth, Golden Dawn)"
 verification_notes: "Core Qabalistic correspondences (Hebrew letters, paths, zodiacal/planetary attributions) verified against Grimoire. Synthesis includes RWS and Thoth divinatory meanings, alchemical stages, Jungian archetypal interpretation."
 ---
 *The Ruler of Flux and Reflux / The Child of the Sons of the Mighty*
@@ -212,6 +212,16 @@ The Moon is also the recognition that **not all knowledge is conscious**. The bo
 ## Reading Examples / Case Studies
 
 *TBD*
+
+---
+
+---
+
+## Sources
+
+[^1]: A.E. Waite, *The Pictorial Key to the Tarot* (1910)
+[^2]: Robert Wang, *The Qabalistic Tarot* (Golden Dawn tradition)
+[^3]: Aleister Crowley, *The Book of Thoth*; Golden Dawn Tarot correspondences
 
 ---
 

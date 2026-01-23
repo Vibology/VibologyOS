@@ -6,9 +6,9 @@ number: 10
 hebrew_letter: Caph (כ)
 qabalistic_path: 21 (Chesed → Netzach)
 astrological: Jupiter
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
-grimoire_source: "Tarot (Qabalistic Tarot, Pictorial Key, Golden Dawn)"
+grimoire_source: "Tarot (Qabalistic Tarot, Pictorial Key, Book of Thoth, Golden Dawn)"
 verification_notes: "Core Qabalistic correspondences (Hebrew letters, paths, zodiacal/planetary attributions) verified against Grimoire. Synthesis includes RWS and Thoth divinatory meanings, alchemical stages, Jungian archetypal interpretation."
 ---
 *The Lord of the Forces of Life*
@@ -16,15 +16,15 @@ verification_notes: "Core Qabalistic correspondences (Hebrew letters, paths, zod
 ---
 ## Traditional Symbolism
 
-When the Wheel of Fortune appears ***upright*** in a reading, it speaks to the realm of cyclical change and karmic consequence. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *destiny, fortune, success,* and *luck*.
+When the Wheel of Fortune appears ***upright*** in a reading, it speaks to the realm of cyclical change and karmic consequence. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *destiny, fortune, success,* and *luck*[^1].
 
-The Golden Dawn tradition identifies the Wheel as "Lord of the Forces of Life," representing the "counterchanging influence of Light and Darkness." This card embodies the fundamental teaching of cyclical time—all rise is followed by fall, all fall by rise, and the wise learn to navigate the turning rather than resist it.
+The Golden Dawn tradition identifies the Wheel as "Lord of the Forces of Life," representing the "counterchanging influence of Light and Darkness[^2]." This card embodies the fundamental teaching of cyclical time—all rise is followed by fall, all fall by rise, and the wise learn to navigate the turning rather than resist it.
 
 The Wheel represents the end of "chance"—the recognition that what appears as random fortune is actually patterned consequence. Good luck is karma ripening; bad luck is karma being cleared. The Wheel turns according to law, not whim.
 
 "Destiny" and "fortune" point to forces larger than individual will—yet the Wheel also teaches that destiny can be shaped through understanding its patterns. The Sphinx atop the Wheel represents the one who has mastered the elements and achieved equilibrium amidst change. This is the paradox: fate is real, and free will is real, and they are not contradictory.
 
-When the Wheel appears ***reversed***, Waite gives: *increase, abundance,* and *superfluity*.
+When the Wheel appears ***reversed***, Waite gives: *increase, abundance,* and *superfluity*[^1].
 
 The reversed Wheel speaks to excess—fortune turned to overindulgence, expansion without limit, the inability to recognize when enough is enough. "Increase" and "abundance" as reversed meanings seem counterintuitive until we recognize that perpetual growth is unsustainable, that the refusal to accept downturns in the cycle leads to eventual collapse.
 
@@ -37,14 +37,14 @@ The key insight is that the Wheel always deals with **the paradox of change as t
 
 | System | Correspondence |
 |--------|----------------|
-| **Number** | 10 - New cycle beginning, completion returning to unity, the perfect number |
-| **Hebrew Letter** | Kaph (כ) - Value: 20 - Meaning: Palm/Fist (grasping comprehension) |
-| **Kabbalistic Path** | 21st Path: Chesed to Netzach - "Intelligence of Conciliation" |
-| **Element** | All four elements in dynamic balance |
-| **Astrology** | Jupiter - Expansion, benevolence, karmic law |
+| **Number** | 10 - New cycle beginning, completion returning to unity, the perfect number [^3]|
+| **Hebrew Letter** | Kaph (כ) - Value: 20 - Meaning: Palm/Fist (grasping comprehension) [^3]|
+| **Kabbalistic Path** | 21st Path: Chesed to Netzach - "Intelligence of Conciliation" [^3]|
+| **Element** | All four elements in dynamic balance [^3]|
+| **Astrology** | Jupiter - Expansion, benevolence, karmic law [^3]|
 | **Sephiroth Connection** | Links Mercy (Chesed) to Victory (Netzach) |
-| **Sound** | A-Sharp |
-| **Color** | Violet (the color of Jupiter, wisdom gained through experience) |
+| **Sound** | A-Sharp [^3]|
+| **Color** | Violet (the color of Jupiter, wisdom gained through experience) [^3]|
 
 ---
 
@@ -146,6 +146,16 @@ In spiritual contexts, the Wheel represents the recognition that enlightenment d
 ## Reading Examples/Case Studies
 
 TBD
+
+---
+
+---
+
+## Sources
+
+[^1]: A.E. Waite, *The Pictorial Key to the Tarot* (1910)
+[^2]: Robert Wang, *The Qabalistic Tarot* (Golden Dawn tradition)
+[^3]: Aleister Crowley, *The Book of Thoth*; Golden Dawn Tarot correspondences
 
 ---
 

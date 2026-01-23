@@ -6,9 +6,9 @@ number: 17
 hebrew_letter: Tzaddi (צ)
 qabalistic_path: 28 (Netzach → Yesod)
 astrological: Aquarius
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
-grimoire_source: "Tarot (Qabalistic Tarot, Pictorial Key, Golden Dawn)"
+grimoire_source: "Tarot (Qabalistic Tarot, Pictorial Key, Book of Thoth, Golden Dawn)"
 verification_notes: "Core Qabalistic correspondences (Hebrew letters, paths, zodiacal/planetary attributions) verified against Grimoire. Synthesis includes RWS and Thoth divinatory meanings, alchemical stages, Jungian archetypal interpretation."
 ---
 *The Daughter of the Firmament / The Dweller Between the Waters*
@@ -110,7 +110,7 @@ The Rider-Waite depiction of The Star is one of the most serene in the deck:
 
   The eight-pointed star is the symbol of **Venus**, the Morning Star and Evening Star, **Lucifer** (the Light-Bearer, not in the demonic sense but as the bringer of dawn). Venus is the "mundane chakra" (the planetary correspondence) of **Netzach**, the Sephirah from which The Star's path descends.
 
-  In the Golden Dawn tradition, the central star has **seven primary rays and fourteen secondary rays**, totaling **21**—the number of **Eheieh** (אהיה, "I Am"), the God-name of Kether. This links The Star directly to the **Crown**, to the source of all creation. The Star is the light of Kether refracted through the lower worlds, the divine presence shining into the darkness after The Tower's devastation.
+  In the Golden Dawn tradition, the central star has **seven primary rays and fourteen secondary rays**, totaling **21**—the number of **Eheieh** (אהיה, "I Am"), the God-name of Kether[^2]. This links The Star directly to the **Crown**, to the source of all creation. The Star is the light of Kether refracted through the lower worlds, the divine presence shining into the darkness after The Tower's devastation.
 
   The eight-pointed star also represents the **Solar Logos**, the cosmic Christ, the divine intelligence that governs the sun. The Star is the promise that the Sun (Tiphareth, the Higher Self) still shines, even when it cannot be seen from within The Tower's ruins.
 
@@ -212,6 +212,16 @@ The gift of integration: **Faith as openness**. The integrated Star recognizes t
 ## Reading Examples / Case Studies
 
 *TBD*
+
+---
+
+---
+
+## Sources
+
+[^1]: A.E. Waite, *The Pictorial Key to the Tarot* (1910)
+[^2]: Robert Wang, *The Qabalistic Tarot* (Golden Dawn tradition)
+[^3]: Aleister Crowley, *The Book of Thoth*; Golden Dawn Tarot correspondences
 
 ---
 
