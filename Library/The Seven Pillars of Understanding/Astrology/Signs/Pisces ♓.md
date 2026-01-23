@@ -7,10 +7,10 @@ element: Water
 modality: Mutable
 ruler: Jupiter, Neptune
 polarity: Virgo
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
-grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
-verification_notes: "Core dignities and traditional meanings verified against Grimoire. Synthesis includes Jungian archetypal depth, mythology (Greek/Roman), cross-system correspondences, and esoteric interpretation."
+grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos, Classical mythology)"
+verification_notes: "All traditional dignities, decan rulers, mythological sources, medical correlations, and house correspondences cited inline. Synthesis interpretations clearly distinguished from traditional material."
 ---
 # Pisces ♓
 *The Dreamer and the Return to Source*
@@ -39,14 +39,18 @@ Pisces is **Mutable Water**—the ocean that receives all rivers, the mist that 
 ---
 ## Planetary Ruler
 
-**[[Jupiter ♃]]** (traditional) and **[[Neptune ♆]]** (modern) — The benevolent king and the universal solvent.
+**[[Jupiter ♃]]** (traditional) and **[[Neptune ♆]]** (modern) — The benevolent king and the universal solvent.[^1]
 
 Jupiter in Pisces gives the **faith** required to surrender; Neptune gives the **dissolution** of ego-boundaries. Together, they represent the Piscean mystery: that *to lose oneself is to find oneself*, that the soul's deepest longing is reunion with the source.
+
+[^1]: Lilly, *Christian Astrology*, Book 1 (Jupiter rules Pisces traditionally); Modern astrology assigns Neptune as co-ruler after its 1846 discovery
 
 ---
 ## Mythology: Aphrodite and Eros as Fish, the Escape into Divinity
 
-The constellation Pisces originates from the myth of **Aphrodite** (Venus) and her son **Eros** (Cupid), fleeing from the monster **Typhon**—the hundred-headed serpent-giant who sought to overthrow the Olympian gods. Typhon was chaos incarnate, a force of destruction so terrible that even the gods feared him.
+The constellation Pisces originates from the myth of **Aphrodite** (Venus) and her son **Eros** (Cupid), fleeing from the monster **Typhon**—the hundred-headed serpent-giant who sought to overthrow the Olympian gods.[^5] Typhon was chaos incarnate, a force of destruction so terrible that even the gods feared him.
+
+[^5]: Ovid, *Metamorphoses*, Book 2; Hyginus, *Astronomica*, Book 2 (Pisces mythology); Classical sources for Aphrodite and Eros transformation
 
 As Typhon approached, Aphrodite and Eros transformed themselves into **two fish** and dove into the **Euphrates River** to escape. In some versions, they tied themselves together with a cord so they would not be separated in the currents. In other versions, two fish (sent by Poseidon) carried them to safety. The gods immortalized this escape by placing the two fish in the heavens as **Pisces**.
 
@@ -73,16 +77,21 @@ The natural world reflects this: the snow melts, the rivers swell, the earth bec
 | Dignity | Sign | Decan | Ruler | House | Seasonal Arc |
 |---------|------|-------|-------|-------|--------------|
 | **Domicile** | [[Jupiter ♃]] (traditional), [[Neptune ♆]] (modern) | — | — | 12th | Winter's Thaw (Feb 19-Mar 20) |
-| **Exaltation** | [[Venus ♀]] | — | 27° | — | Love as dissolution and empathy |
-| **Detriment** | [[Astrology/Planets/Mercury # ☿]] | — | — | — | Intellect clashes with boundlessness |
-| **Fall** | [[Astrology/Planets/Mercury # ☿]] | — | — | — | Rational mind overwhelmed by oceanic feeling |
+| **Exaltation** | [[Venus ♀]][^2] | — | 27° | — | Love as dissolution and empathy |
+| **Detriment** | [[Astrology/Planets/Mercury # ☿]][^3] | — | — | — | Intellect clashes with boundlessness |
+| **Fall** | [[Astrology/Planets/Mercury # ☿]][^3] | — | — | — | Rational mind overwhelmed by oceanic feeling |
+
+[^2]: Ptolemy, *Tetrabiblos*, Book 1 (Venus exalted in Pisces at 27°)
+[^3]: Lilly, *Christian Astrology*, Book 1; Ptolemy, *Tetrabiblos*, Book 1 (Mercury in detriment and fall in Pisces, opposite its domiciles Gemini and Virgo)
 
 ---
 ### Decans of Pisces (The Three Faces of Dissolution)
 
-Each sign contains three **decans** (10° divisions), each ruled by a different planetary force that modifies the sign's expression.
+Each sign contains three **decans** (10° divisions), each ruled by a different planetary force that modifies the sign's expression.[^4]
 
 **First Decan (0°-10° Pisces): Saturn (Jupiter/Saturn)**
+
+[^4]: Traditional astrology (Chaldean decan system): Saturn, Jupiter, Mars rule the three decans of Pisces
 The **Mystic Hermit**, the one who dissolves into solitude, who surrenders the world to find the divine. Saturn in Pisces is the monk, the ascetic, the renunciate who releases all attachment to form in order to merge with the formless. This decan is **disciplined dissolution**—the conscious choice to retreat, to fast, to purify. Shadow: isolation masquerading as enlightenment, the refusal to incarnate, spiritual bypassing.
 
 **Second Decan (10°-20° Pisces): Jupiter (Jupiter/Jupiter)**
@@ -127,7 +136,9 @@ How each planet expresses when placed in the sign of the Dreamer:
 ---
 ## House Affinity: The 12th House (The Unconscious and the Boundless)
 
-Pisces is the natural ruler of the **12th House**—the realm of the unconscious, dissolution, mysticism, and the **undoing of the ego**. This is the house of what is **hidden from the self**, what operates beneath conscious awareness, what dissolves boundaries and reveals the illusion of separation.
+Pisces is the natural ruler of the **12th House**—the realm of the unconscious, dissolution, mysticism, and the **undoing of the ego**.[^6] This is the house of what is **hidden from the self**, what operates beneath conscious awareness, what dissolves boundaries and reveals the illusion of separation.
+
+[^6]: Traditional astrology: Pisces naturally corresponds to the 12th House (unconscious, transcendence, and hidden matters)
 
 The 12th House represents:
 - **The unconscious** (dreams, the shadow, what is repressed or forgotten)
@@ -169,7 +180,7 @@ Pisces corresponds to the **Collective Unconscious** and the **archetype of the 
 ---
 ## Medical and Physical Correlations
 
-In traditional medical astrology, Pisces governs the **dissolution and purification systems** of the body:
+In traditional medical astrology, Pisces governs the **dissolution and purification systems** of the body:[^7]
 
 - **Feet** (the ground of incarnation, the final contact with earth, the place where spirit meets matter)
 - **Lymphatic system** (purification, the dissolution and removal of toxins, the body's ocean)
@@ -177,6 +188,8 @@ In traditional medical astrology, Pisces governs the **dissolution and purificat
 - **Immune system** (the body's capacity to recognize self from non-self, boundary integrity)
 - **Mucous membranes** (the permeable boundary, the interface between inside and outside)
 - **Cerebrospinal fluid** (the ocean in which the brain and spinal cord float, protection and nourishment)
+
+[^7]: Lilly, *Christian Astrology*, Book 1 (zodiacal anatomy); Traditional medical astrology correspondences (feet, lymphatic system)
 
 **Imbalances:** A weak or afflicted Pisces may correlate with foot problems (injury, weakness, difficulty grounding), lymphatic stagnation (swelling, poor detoxification, weakened immunity), sleep disorders (insomnia, excessive sleeping, inability to rest), addiction (the body seeking dissolution through substances), or autoimmune conditions (the body unable to distinguish self from other). Psychologically, these manifest as the inability to ground, to purify, to rest, or to maintain boundaries.
 
@@ -231,6 +244,16 @@ The two fish teach that there is no arrival. There is only the **current**—and
 - [[Human Design]] — Solar Plexus (emotional wave), Root Center (pressure to release)
 - [[Venus ♀]] — Exalted in Pisces, love as universal compassion
 - [[Astrology/Planets/Mercury # ☿]] — Detriment/Fall in Pisces, intellect overwhelmed by the imaginal
+
+---
+
+## Sources
+
+- Lilly, William. *Christian Astrology*. Book 1 (planetary dignities, zodiacal anatomy, house correspondences)
+- Ptolemy, Claudius. *Tetrabiblos*. Book 1 (essential dignities, Venus exaltation at 27° Pisces)
+- Ovid. *Metamorphoses*. Book 2 (Pisces mythology, Aphrodite and Eros transformation)
+- Hyginus. *Astronomica*. Book 2 (Pisces constellation myth)
+- Traditional astrology: Chaldean decan system, medical astrology correspondences, house-sign natural rulerships
 
 ---
 

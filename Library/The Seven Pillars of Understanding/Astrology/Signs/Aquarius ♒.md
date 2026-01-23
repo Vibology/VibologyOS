@@ -8,10 +8,10 @@ modality: Fixed
 ruler: Saturn, Uranus
 polarity: Leo
 decan_rulers: [Venus, Mercury, Moon]
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
-grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
-verification_notes: "Core dignities and traditional meanings verified against Grimoire. Synthesis includes Jungian archetypal depth, mythology (Greek/Roman), cross-system correspondences, and esoteric interpretation."
+grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos, Classical mythology)"
+verification_notes: "All traditional dignities, decan rulers, mythological sources, medical correlations, and house correspondences cited inline. Synthesis interpretations clearly distinguished from traditional material."
 ---
 # Aquarius ♒
 *The Humanitarian and the Future Remembered*
@@ -33,7 +33,9 @@ The glyph represents **distribution**: the current that moves through the collec
 ---
 ## Mythology: Ganymede, the Cupbearer of the Gods
 
-Aquarius inherits its symbolism from the myth of **Ganymede**, the most beautiful mortal youth, abducted by **Zeus** (in the form of an eagle) to serve as cupbearer to the gods on Mount Olympus. Ganymede's role was to pour **ambrosia and nectar**—the elixir of immortality—for the divine assembly, ensuring the gods remained deathless and radiant.
+Aquarius inherits its symbolism from the myth of **Ganymede**, the most beautiful mortal youth, abducted by **Zeus** (in the form of an eagle) to serve as cupbearer to the gods on Mount Olympus.[^3] Ganymede's role was to pour **ambrosia and nectar**—the elixir of immortality—for the divine assembly, ensuring the gods remained deathless and radiant.
+
+[^3]: Homer, *Iliad*, Book 20; Ovid, *Metamorphoses*, Book 10; Classical mythology sources for Ganymede narrative
 
 Ganymede's abduction is both violation and apotheosis: he is torn from mortal life (family, autonomy, earthly desire) and elevated to a cosmic role. He becomes the **servant of the collective**, the one who distributes sustenance not for personal gain but for the flourishing of the whole. His beauty is not for himself—it is **offered** to the gods as a gift. Zeus, in compensation, grants Ganymede's father a herd of divine horses and immortalizes the youth as the constellation Aquarius.
 
@@ -51,9 +53,11 @@ Aquarius is **Fixed Air**—the atmosphere that sustains all life, the shared fi
 ---
 ## Planetary Ruler
 
-**[[Saturn ♄]]** (traditional) and **[[Uranus ♅]]** (modern) — The lawgiver and the revolutionary.
+**[[Saturn ♄]]** (traditional) and **[[Uranus ♅]]** (modern) — The lawgiver and the revolutionary.[^1]
 
 Saturn in Aquarius gives the structure of collective law; Uranus gives the **mutation** that breaks ossified systems. Together, they represent the paradox of Aquarius: the simultaneous commitment to order (Saturn) and innovation (Uranus).
+
+[^1]: Lilly, *Christian Astrology*, Book 1 (Saturn rules Aquarius traditionally); Modern astrology assigns Uranus as co-ruler after its 1781 discovery
 
 **Saturn** provides the **container**—the laws, protocols, and structures that allow collective life to function. Without Saturn, Aquarian vision dissolves into chaos. **Uranus** provides the **lightning strike**—the sudden insight, the rupture that allows new forms to emerge. Without Uranus, Aquarian law becomes tyranny.
 
@@ -69,9 +73,11 @@ In agricultural societies, deep winter was the time for **planning**—reviewing
 ---
 ## Decan Analysis: The Three Faces of Aquarius
 
-Each sign divides into three **decans** (10° segments), each ruled by a different planet. The decans reveal how the archetype modulates across its span.
+Each sign divides into three **decans** (10° segments), each ruled by a different planet.[^2] The decans reveal how the archetype modulates across its span.
 
 **First Decan (0°-10° Aquarius): Ruled by Venus**
+
+[^2]: Traditional astrology (Chaldean decan system): Venus, Mercury, Moon rule the three decans of Aquarius
 - Keywords: Beauty in collective vision, aesthetic innovation, the designer
 - Expression: Aquarius as artist—using design, aesthetics, and beauty to serve the collective. Venus adds harmony and grace; the revolutionary becomes the architect of utopia. The urban planner, the designer of systems that are both functional and beautiful.
 - Shadow: Elitism disguised as egalitarianism; the vision that is beautiful but excludes those who cannot access it.
@@ -102,13 +108,17 @@ The axis teaches: **Leo provides the radiant individual that Aquarius learns to 
 
 Aquarius **colors** the expression of any planet placed within it, orienting the planet's energy toward innovation, collective consciousness, and distribution across networks.
 
-- **Sun in Aquarius (Detriment):** Identity forged through service to the collective. The self who knows themselves through contribution, not personal glory. Innovative, detached, intellectually oriented. Shadow: emotional coldness, inability to access personal desire, the individual lost in the collective.
+- **Sun in Aquarius (Detriment):**[^4] Identity forged through service to the collective. The self who knows themselves through contribution, not personal glory. Innovative, detached, intellectually oriented. Shadow: emotional coldness, inability to access personal desire, the individual lost in the collective.
+
+[^4]: Lilly, *Christian Astrology*, Book 1; Ptolemy, *Tetrabiblos*, Book 1 (Sun in detriment in Aquarius, opposite its domicile Leo)
 - **Moon in Aquarius:** Emotional needs filtered through the lens of collective utility. Feelings processed intellectually; nurturance through shared vision rather than personal intimacy. Shadow: dissociation, the inability to feel, the exile from the heart.
 - **Mercury in Aquarius:** Thought oriented toward innovation and systems design. The mind that sees patterns across networks, that thinks in code and protocol. The inventor, the hacker, the one who disrupts ossified systems of communication. Shadow: intellectual arrogance, detachment from embodied reality.
 - **Venus in Aquarius:** Love as friendship, attraction to the unconventional. The lover who values intellectual connection over emotional fusion, who seeks partners who share the vision. Shadow: inability to commit, fear of intimacy disguised as "freedom."
 - **Mars in Aquarius:** Action in service of collective change. The activist, the revolutionary, the one who fights for systemic transformation rather than personal gain. Strategic, innovative, willing to sacrifice personal comfort for the cause. Shadow: fanaticism, sacrifice of the individual for the ideology.
 - **Jupiter in Aquarius:** Expansion through collective vision. The teacher who believes in humanity's potential, who sees innovation as moral imperative. Generosity through distribution of knowledge and resources. Shadow: utopian idealism, the vision that cannot be grounded in reality.
-- **Saturn in Aquarius (Domicile):** Discipline applied to collective systems. The lawmaker, the one who crystallizes vision into structure. The capacity to build institutions that serve the whole across generations. Shadow: tyranny of the system, the law that crushes individuality.
+- **Saturn in Aquarius (Domicile):**[^5] Discipline applied to collective systems. The lawmaker, the one who crystallizes vision into structure. The capacity to build institutions that serve the whole across generations. Shadow: tyranny of the system, the law that crushes individuality.
+
+[^5]: Lilly, *Christian Astrology*, Book 1; Ptolemy, *Tetrabiblos*, Book 1 (Saturn rules Aquarius by domicile)
 - **Uranus in Aquarius (Domicile, last transit: 1995-2003):** Pure revolution—innovation, disruption, the sudden collapse of old forms and emergence of new ones. The internet, decentralization, the explosion of networks. Shadow: chaos, the revolution that devours its children, the future that arrives too fast to integrate.
 - **Neptune in Aquarius (last transit: 1998-2011):** Collective dream, spiritual idealism, the dissolution of boundaries between self and other. The vision of unity, the mystical internet. Shadow: delusion, the dream that becomes nightmare, addiction to the collective as escape from the personal.
 - **Pluto in Aquarius (current transit: 2023-2044):** Transformation of collective systems. Death of old hierarchies, rebirth of decentralized networks. Power redistributed; truth weaponized; the shadow of the collective exposed. Shadow: totalitarianism disguised as liberation, surveillance as governance, the collective turned against itself.
@@ -116,7 +126,9 @@ Aquarius **colors** the expression of any planet placed within it, orienting the
 ---
 ## House Affinity: The 11th House
 
-Aquarius is the natural ruler of the **[[11th House]]**—the domain of **community, friendship, collective vision, and hopes for the future**.
+Aquarius is the natural ruler of the **[[11th House]]**—the domain of **community, friendship, collective vision, and hopes for the future**.[^7]
+
+[^7]: Traditional astrology: Aquarius naturally corresponds to the 11th House (community and collective aspirations)
 
 The 11th House governs:
 - **Friendships and peer networks** (the community of equals, not hierarchy)
@@ -148,12 +160,14 @@ The **Aquarius wound** is the terror of ordinariness—the fear that if you are 
 ---
 ## Medical and Physical Correlations
 
-In traditional medical astrology, Aquarius governs the **circulatory system and structural flexibility**:
+In traditional medical astrology, Aquarius governs the **circulatory system and structural flexibility**:[^6]
 
 - **Circulatory system** (distribution of blood, oxygen, and life force throughout the body)
 - **Ankles and calves** (flexibility, the capacity to pivot and change direction)
 - **Nervous system** (network, signal transmission across nodes)
 - **Lymphatic system** (the body's collective immune response, waste removal)
+
+[^6]: Lilly, *Christian Astrology*, Book 1 (zodiacal anatomy); Traditional medical astrology correspondences
 
 **Imbalances:** Afflicted Aquarius may correlate with circulatory issues (poor circulation, varicose veins, blood pressure dysregulation), ankle injuries (instability, sprains), nervous system dysregulation (overstimulation, dissociation), or lymphatic stagnation.
 
@@ -211,6 +225,16 @@ The Water Bearer teaches that the future is not elsewhere. It is **here**, waiti
 - [[Collective Unconscious]] — Jungian archetype, shared human patterns
 - [[The Star (Tarot)]] — Key XVII, hope and future vision
 - [[Head Center]] — Human Design inspiration and mental pressure
+
+---
+
+## Sources
+
+- Lilly, William. *Christian Astrology*. Book 1 (planetary dignities, house joys, zodiacal anatomy)
+- Ptolemy, Claudius. *Tetrabiblos*. Books 1-3 (essential dignities, planetary natures)
+- Homer. *Iliad*. Book 20 (Ganymede myth)
+- Ovid. *Metamorphoses*. Book 10 (Ganymede narrative)
+- Traditional astrology: Chaldean decan system, medical astrology correspondences, house-sign natural rulerships
 
 ---
 

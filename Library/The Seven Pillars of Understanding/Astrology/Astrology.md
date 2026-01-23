@@ -6,7 +6,7 @@ date_updated: 2026-01-23
 source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
-verification_notes: "Pillar overview file. Content is meta-level synthesis and educational commentary about astrology as a system (philosophy, history, house systems, timing techniques). References traditional texts (Lilly, Ptolemy) throughout but does not make specific factual claims requiring inline citations. Verified as accurately representing traditional and modern astrological frameworks."
+verification_notes: "Pillar overview file. Content is meta-level synthesis and educational commentary about astrology as a system (philosophy, history, house systems, timing techniques). Key traditional texts cited inline (Lilly, Ptolemy, Jung). Sources section added listing foundational traditional and modern astrological texts. Verified as accurately representing traditional and modern astrological frameworks."
 ---
 # Astrology
 *The Language of Planetary Timing and Cosmic Positioning*
@@ -50,7 +50,10 @@ The chart is read not as isolated symbols but as a **living mandala**—a unifie
 Astrology is not a monolithic system—it has evolved through distinct historical phases, and modern practitioners draw from multiple traditions:
 
 ### Traditional Astrology (Hellenistic, Medieval, Renaissance)
-- **Foundational Texts:** Ptolemy's *Tetrabiblos*, Vettius Valens, William Lilly's *Christian Astrology*
+- **Foundational Texts:** Ptolemy's *Tetrabiblos*[^1], Vettius Valens, William Lilly's *Christian Astrology*[^2]
+
+[^1]: Ptolemy, *Tetrabiblos* (2nd century CE) - Foundational Hellenistic text on essential dignities and planetary natures
+[^2]: Lilly, William. *Christian Astrology* (1647) - Definitive medieval/Renaissance text on horary, natal, and electional astrology
 - **Core Techniques:** Essential dignities (domicile, exaltation, triplicity, term, face), sect (day vs. night charts), whole sign houses, profections, firdaria
 - **Philosophy:** Planets have inherent natures (benefic/malefic), fortune and fate are navigable but not infinitely malleable, emphasis on *prediction* and timing
 - **Strengths:** Precision in forecasting, grounded in observable phenomena, clear interpretive rules
@@ -189,7 +192,9 @@ These techniques **layer**—a Saturn Return might coincide with a Pluto transit
 Astrology does not claim **mechanical causation**—planets do not "make" things happen through gravitational force. Instead, astrology operates through **synchronicity** and **symbolic resonance**:
 
 ### Carl Jung's Synchronicity
-Jung defined **synchronicity** as "meaningful coincidence"—events connected not by causality but by **meaning**. The planetary configuration at birth does not *cause* your psychology; rather, both your birth moment and your psyche are expressions of the same underlying **archetypal pattern**. The chart is a **symbolic snapshot** of the field conditions at the moment the soul individuates.
+Jung defined **synchronicity** as "meaningful coincidence"[^3]—events connected not by causality but by **meaning**. The planetary configuration at birth does not *cause* your psychology; rather, both your birth moment and your psyche are expressions of the same underlying **archetypal pattern**. The chart is a **symbolic snapshot** of the field conditions at the moment the soul individuates.
+
+[^3]: Jung, C.G. *Synchronicity: An Acausal Connecting Principle* (CW 8) - Defines synchronicity as meaningful coincidence beyond causality
 
 ### Morphic Resonance (Rupert Sheldrake)
 The hypothesis that patterns repeat across time through non-local "morphic fields." Planetary cycles may be **carriers of archetypal information**, not because planets emit rays but because they mark **temporal nodes** in the cosmic field.
@@ -271,3 +276,14 @@ Begin with the fundamentals—understand [[Planets]], [[Signs]], and [[Houses]] 
 - [[The Tarot]] — Qabalistic and astrological correspondences in the cards
 - [[Seven-Coordinate Navigation]] — Astrology as temporal/ambient coordinate
 - [[Qabalah]] — Planetary and zodiacal Sephirotic correspondences
+
+---
+
+## Sources
+
+- Lilly, William. *Christian Astrology* (1647). Comprehensive medieval/Renaissance astrology text covering natal, horary, and electional techniques
+- Ptolemy, Claudius. *Tetrabiblos* (2nd century CE). Foundational Hellenistic text on planetary natures, essential dignities, and astrological philosophy
+- Jung, C.G. *Collected Works* (CW 8). *Synchronicity: An Acausal Connecting Principle* - Theoretical framework for meaningful coincidence
+- Rudhyar, Dane. *The Astrology of Personality* (1936). Foundational modern psychological astrology integrating Jungian concepts
+- Greene, Liz. *The Astrology of Fate* (1984). Jungian-astrological synthesis on karma and psychological depth
+- Traditional sources: Vettius Valens, Dorotheus of Sidon, Guido Bonatti, Abu Ma'shar, Al-Biruni (Hellenistic, Medieval, Islamic Golden Age astrology)

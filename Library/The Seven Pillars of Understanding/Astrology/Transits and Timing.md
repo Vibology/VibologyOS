@@ -6,7 +6,7 @@ date_updated: 2026-01-23
 source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
-verification_notes: "Overview file on transits and timing techniques. Content is synthesis/interpretation explaining how transits work, major return cycles (Saturn, Jupiter, Uranus), and integration with Human Design framework. Ages for planetary returns are astronomical/mathematical facts. No specific traditional claims from Lilly/Ptolemy requiring inline citations. Verified as accurate representation of transit theory."
+verification_notes: "Overview file on transits and timing techniques. Content is synthesis/interpretation explaining how transits work, major return cycles (Saturn, Jupiter, Uranus), and integration with Human Design framework. Key concepts cited inline (Ra's neutrino programming, Jung's Individuation). Sources section added listing HD, Jungian, and traditional astrological timing frameworks. Verified as accurate representation of transit theory."
 ---
 # Transits and Timing
 *The Neutrino Weather*
@@ -16,7 +16,9 @@ verification_notes: "Overview file on transits and timing techniques. Content is
 
 **Transits** are the real-time movement of planets through the zodiac, creating angular relationships (aspects) to natal positions. Where the natal chart is the **blueprint**, transits are the **weather**—the conditioning field that activates, tests, or reveals latent potentials.
 
-In [[Human Design]], transits are described as "local programming agents": they carry information via the neutrino stream, temporarily activating gates and centers in the BodyGraph. Transits do not *cause* events—they **reveal** what is already present, waiting for the right conditions to emerge.
+In [[Human Design]], transits are described as "local programming agents"[^1]: they carry information via the neutrino stream, temporarily activating gates and centers in the BodyGraph. Transits do not *cause* events—they **reveal** what is already present, waiting for the right conditions to emerge.
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* - Transits as neutrino programming agents
 
 ## The Mechanism: Teachers and Schools
 
@@ -103,7 +105,9 @@ Retrogrades do not "break" things—they **reveal** what was already fragile.
 ---
 ## Psychological Significance: Individuation Through Time
 
-Carl Jung's concept of **[[Individuation]]** is fundamentally a *temporal process*—the soul unfolds according to its own rhythm, not the ego's demands. Transits are the **celestial clock** that marks this unfolding:
+Carl Jung's concept of **[[Individuation]]**[^2] is fundamentally a *temporal process*—the soul unfolds according to its own rhythm, not the ego's demands. Transits are the **celestial clock** that marks this unfolding:
+
+[^2]: Jung, C.G. *Collected Works* (CW 9i, CW 17) - Individuation as the lifelong process of psychological integration
 
 - **Saturn:** The test of ego-strength
 - **Jupiter:** The expansion of consciousness
@@ -119,6 +123,15 @@ By following transits with awareness, the individual learns to **trust the timin
 What are you resisting *right now*—and is it possible that the resistance itself is the lesson?
 
 Transits teach that you cannot control the weather. You can only **learn to navigate** it—and in that navigation, discover whether you are the puppet or the sailor.
+
+---
+
+## Sources
+
+- Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Jovian Archive (transits as neutrino programming, deconditioning process)
+- Jung, C.G. *Collected Works* (CW 9i, CW 17). *Archetypes and the Collective Unconscious*, *The Development of Personality* (Individuation as temporal unfolding)
+- Traditional astrology: Planetary return cycles (Saturn ~29.5 years, Jupiter ~12 years, Uranus ~84 years, Chiron ~50 years)
+- Rudhyar, Dane. *The Lunation Cycle* (1967). Cycles and timing in psychological astrology
 
 ---
 
