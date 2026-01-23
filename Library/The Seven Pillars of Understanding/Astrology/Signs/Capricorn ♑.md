@@ -8,10 +8,10 @@ modality: Cardinal
 ruler: Saturn
 polarity: Cancer
 house_affinity: 10th
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
-verification_notes: "Core dignities and traditional meanings verified against Grimoire. Synthesis includes Jungian archetypal depth, mythology (Greek/Roman), cross-system correspondences, and esoteric interpretation."
+verification_notes: "Individual verification complete. Traditional dignities (Saturn domicile Night House, Mars exalted at 28°, Moon detriment, Jupiter fall), element/modality, house affinity (10th), and anatomical rulership verified against Lilly and Ptolemy. Inline citations added. Synthesis layers (Sea-Goat/Pan mythology, Jungian Elder archetype, mastery work) built upon verified foundation."
 ---
 # Capricorn ♑
 *The Elder and the Ascent to Mastery*
@@ -33,7 +33,7 @@ The goat's head signifies the **climb**—the relentless ascent toward the peak.
 ---
 ## Element & Modality
 
-**Earth** (matter, structure, embodiment) | **Cardinal** (initiating, building)
+**Earth** (matter, structure, embodiment) | **Cardinal** (initiating, building)[^2]
 
 Capricorn is **Cardinal Earth**—the bedrock upon which civilization is founded, the architect who initiates through *design*. Cardinal signs *begin*; Earth signs *ground*. Capricorn is the promise that vision without structure is fantasy—and structure without vision is prison.
 
@@ -62,19 +62,19 @@ The Winter Solstice is also **the rebirth of the Sun**—the moment when light b
 ---
 ## Planetary Ruler: Saturn as Earned Authority
 
-**[[Saturn ♄]]** — The taskmaster, the principle of limitation and consequence.
+**[[Saturn ♄]]** — The taskmaster, the principle of limitation and consequence[^1].
 
-Saturn in Capricorn is in his **domicile**—fully expressed as the judge who weighs not intention but *result*. This is Saturn as **earned authority**: the recognition that mastery is not given but forged through ordeal. Where Saturn in [[Aquarius ♒]] crystallizes collective law, Saturn in Capricorn builds **individual mastery**—the elder who has climbed alone and now offers the map.
+Saturn in Capricorn is in his **domicile** (Night House)—fully expressed as the judge who weighs not intention but *result*. This is Saturn as **earned authority**: the recognition that mastery is not given but forged through ordeal. Where Saturn in [[Aquarius ♒]] crystallizes collective law, Saturn in Capricorn builds **individual mastery**—the elder who has climbed alone and now offers the map.
 
 ---
 ## Dignities & Notable Degrees
 
 | Dignity | Planet | Degree | Significance |
 |---------|--------|--------|--------------|
-| **Domicile** | [[Saturn ♄]] | — | Saturn rules; discipline, mastery, endurance, earned authority |
-| **Exaltation** | [[Mars ♂]] | 28° | Action refined through patience, desire channeled into achievement |
-| **Detriment** | [[Moon ☽]] | — | Emotion constrained by duty, instinct subordinated to structure |
-| **Fall** | [[Jupiter ♃]] | 15° | Faith collapsed under consequence, optimism crushed by reality |
+| **Domicile** | [[Saturn ♄]][^1] | — | Saturn rules (Night House); discipline, mastery, endurance, earned authority |
+| **Exaltation** | [[Mars ♂]][^3] | 28° | Action refined through patience, desire channeled into achievement |
+| **Detriment** | [[Moon ☽]][^4] | — | Emotion constrained by duty, instinct subordinated to structure |
+| **Fall** | [[Jupiter ♃]][^5] | 15° | Faith collapsed under consequence, optimism crushed by reality |
 
 The **Mars exaltation at 28° Capricorn** is the warrior at the summit—the fighter who has learned that victory belongs not to the impulsive but to the patient, not to the loud but to the enduring.
 
@@ -149,7 +149,7 @@ How each planet expresses when placed in Capricorn, emphasizing discipline, stru
 ---
 ## House Affinity: The 10th House (Career, Public Standing, Legacy)
 
-Capricorn is the natural ruler of the **[[10th House]]**, which governs:
+Capricorn is the natural ruler of the **[[10th House]]**, which governs[^6]:
 - **Career and vocation:** The soul's work made public, the legacy left behind
 - **Public standing and reputation:** How the world sees us, what we are known for
 - **Authority and mastery:** Earned competence, the climb toward leadership
@@ -164,7 +164,7 @@ When Capricorn energy is strong in the 10th House, the native achieves mastery t
 ---
 ## Medical and Physical Correlations
 
-In traditional medical astrology, Capricorn governs the **skeletal structure and joints** of the physical body:
+In traditional medical astrology, Capricorn governs the **skeletal structure and joints** of the physical body[^7]:
 
 - **Knees:** The joints that allow ascent and descent, the hinges that bear the weight of the climb
 - **Bones and skeleton:** The body's structural integrity, the framework that endures
@@ -215,6 +215,18 @@ What are you building—and for whom? Capricorn at its shadow builds to prove wo
 The Capricorn question is not "Am I successful?" but "Am I building something that serves life, or am I building a monument to my fear of death?"
 
 The Goat-Fish teaches that the climb is sacred—but the peak is not the destination. The work is to **return** and teach what was learned in the ascent.
+
+---
+
+## References
+
+[^1]: Lilly, *Christian Astrology*, Book 1: Saturn rules Capricorn (Night House)
+[^2]: Lilly, *Christian Astrology*, Book 1; Ptolemy, *Tetrabiblos*, Book 1: Capricorn as Cardinal Earth (cold and dry, melancholy)
+[^3]: Lilly, *Christian Astrology*, Book 1: Mars exalted in Capricorn at 28°
+[^4]: Lilly, *Christian Astrology*, Book 1: Moon in detriment (opposite Cancer)
+[^5]: Lilly, *Christian Astrology*, Book 1: Jupiter in fall in Capricorn
+[^6]: Lilly, *Christian Astrology*, Book 2: Capricorn cosignificator of 10th House (honour, government)
+[^7]: Lilly, *Christian Astrology*, Book 1: Capricorn governs knees and hams
 
 ---
 

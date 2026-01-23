@@ -10,10 +10,10 @@ polarity: Gemini
 detriment: Mercury
 exaltation: None (traditional); South Node (esoteric)
 fall: None
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
-verification_notes: "Core dignities and traditional meanings verified against Grimoire. Synthesis includes Jungian archetypal depth, mythology (Greek/Roman), cross-system correspondences, and esoteric interpretation."
+verification_notes: "Individual verification complete. Traditional dignities (Jupiter domicile Day House/Joy, Mercury detriment, no planetary exalt/fall but South Node exalted at 3°), element/modality, house affinity (9th), and anatomical rulership verified against Lilly and Ptolemy. Inline citations added. Synthesis layers (Centaur mythology, Jungian quest archetype, shadow work) built upon verified foundation."
 ---
 # Sagittarius ♐
 *The Prophet and the Quest for Meaning*
@@ -35,20 +35,20 @@ The arrow signifies **trajectory**: the willingness to release the past and fly 
 ---
 ## Element & Modality
 
-**Fire** (spirit, vision, inspiration) | **Mutable** (adapting, distributing)
+**Fire** (spirit, vision, inspiration) | **Mutable** (adapting, distributing)[^4]
 
 Sagittarius is **Mutable Fire**—the wildfire that spreads, the spark that jumps from tree to tree, the restless flame that cannot be contained. Mutable signs *distribute*; Fire signs *inspire*. Sagittarius is the promise that truth is not fixed—it is **discovered** through the act of seeking.
 
 ---
 ## Planetary Ruler & Dignities
 
-**Ruler:** [[Jupiter ♃]] — The magnanimous king, the principle of expansion and synthesis.
+**Ruler:** [[Jupiter ♃]] — The magnanimous king, the principle of expansion and synthesis[^1].
 
-Jupiter in Sagittarius is in his **domicile**—fully expressed as the philosopher-king, the wanderer who gathers wisdom from every land and returns to teach. This is Jupiter as **faith in the larger pattern**, as the recognition that chaos resolves into order when viewed from sufficient height.
+Jupiter in Sagittarius is in his **domicile** (Day House, also called the Joy of Jupiter)—fully expressed as the philosopher-king, the wanderer who gathers wisdom from every land and returns to teach. This is Jupiter as **faith in the larger pattern**, as the recognition that chaos resolves into order when viewed from sufficient height.
 
-**Detriment:** [[Astrology/Planets/Mercury # ☿]] — Analysis, detail, and data collection are antithetical to Sagittarius' hunger for the big picture. Mercury in Sagittarius struggles with precision; the mind leaps to conclusions before gathering all the facts.
+**Detriment:** [[Astrology/Planets/Mercury # ☿]] — Analysis, detail, and data collection are antithetical to Sagittarius' hunger for the big picture[^2]. Mercury in Sagittarius struggles with precision; the mind leaps to conclusions before gathering all the facts.
 
-**Exaltation/Fall:** Sagittarius has no traditional planetary exaltation or fall. Esoterically, some assign the **South Node** (past-life mastery, karmic release) to Sagittarius, encoding the wisdom that must be *shared* rather than hoarded.
+**Exaltation/Fall:** Sagittarius has no traditional planetary exaltation or fall[^3]. Esoterically, the **South Node** (Dragon's Tail) is exalted at 3° Sagittarius, encoding the wisdom that must be *shared* rather than hoarded.
 
 ---
 ## Seasonal Context: Late Autumn into Winter
@@ -135,7 +135,7 @@ The sign placement flavors how each planet expresses its archetypal function. In
 ---
 ## House Affinity: The 9th House (Cadent, The Higher Mind)
 
-Sagittarius naturally corresponds to the **9th House**—the domain of **philosophy**, **religion**, **higher education**, **long-distance travel**, and **the search for meaning**. This is the house of the quest, the pilgrimage, the journey that transforms.
+Sagittarius naturally corresponds to the **9th House**—the domain of **philosophy**, **religion**, **higher education**, **long-distance travel**, and **the search for meaning**[^5]. This is the house of the quest, the pilgrimage, the journey that transforms.
 
 **Themes of the 9th House:**
 - **Philosophy and Belief Systems:** The frameworks through which we make sense of existence.
@@ -170,7 +170,7 @@ The Sagittarius complex emerges when the psyche is fixated on **seeking without 
 ---
 ## Medical & Anatomical Correlations
 
-In traditional medical astrology, Sagittarius governs:
+In traditional medical astrology, Sagittarius governs[^6]:
 
 - **The Thighs:** The muscles that propel the body forward, the capacity for movement and exploration.
 - **The Hips:** Flexibility, range of motion, the joint that allows the body to leap.
@@ -233,6 +233,17 @@ The Archer teaches that the arrow cannot return to the bow. Once released, you a
 - [[Sage (Jungian)]] — The wisdom archetype, earned truth
 - [[Fire Element]] — Sagittarius as Mutable Fire, the spreading flame
 - [[Mutable Modality]] — Sagittarius as distributor, the wandering prophet
+
+---
+
+## References
+
+[^1]: Lilly, *Christian Astrology*, Book 1: Jupiter rules Sagittarius (Day House); Sagittarius is also the Joy of Jupiter
+[^2]: Lilly, *Christian Astrology*, Book 1: Mercury in detriment (opposite Gemini)
+[^3]: Lilly, *Christian Astrology*, Book 1: No traditional planetary exaltation or fall; South Node (Dragon's Tail) exalted at 3° Sagittarius
+[^4]: Lilly, *Christian Astrology*, Book 1; Ptolemy, *Tetrabiblos*, Book 1: Sagittarius as Mutable (Common/Bicorporeal) Fire (hot and dry, choleric)
+[^5]: Lilly, *Christian Astrology*, Book 2: Sagittarius cosignificator of 9th House (long journeys, religion, dreams, learning)
+[^6]: Lilly, *Christian Astrology*, Book 1: Sagittarius governs thighs, hips, buttocks, fundament, groins; diseases include sciatica, fistulas, falls from horses
 
 ---
 
