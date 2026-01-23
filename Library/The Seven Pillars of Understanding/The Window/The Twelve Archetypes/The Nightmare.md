@@ -3,6 +3,9 @@ tags: [the-window, archetype, gate-39, hexagram-39, pisces, freddy-krueger, jung
 system: The Window
 date_created: 2026-01-17
 date_updated: 2026-01-19
+source: Multi-system synthesis
+source_verified: synthesis
+verification_date: 2026-01-23
 tier: Archetype
 zodiac: Pisces
 gate: 39

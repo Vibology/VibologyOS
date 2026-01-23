@@ -2,6 +2,9 @@
 tags: [the-window, portal, gate-24, hexagram-24, culmination]
 system: The Window
 date_created: 2026-01-18
+source: Multi-system synthesis
+source_verified: synthesis
+verification_date: 2026-01-23
 tier: Portal
 gate: 24
 hexagram: 24 (The Return)

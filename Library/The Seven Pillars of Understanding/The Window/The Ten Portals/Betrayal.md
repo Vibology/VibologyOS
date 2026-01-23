@@ -2,6 +2,9 @@
 tags: [the-window, portal, gate-59, hexagram-59, betrayal]
 system: The Window
 date_created: 2026-01-18
+source: Multi-system synthesis
+source_verified: synthesis
+verification_date: 2026-01-23
 tier: Portal
 gate: 59
 hexagram: 59 (Dispersion)

@@ -2,6 +2,9 @@
 tags: [the-window, portal, gate-63, hexagram-63, destruction]
 system: The Window
 date_created: 2026-01-18
+source: Multi-system synthesis
+source_verified: synthesis
+verification_date: 2026-01-23
 tier: Portal
 gate: 63
 hexagram: 63 (After Completion)

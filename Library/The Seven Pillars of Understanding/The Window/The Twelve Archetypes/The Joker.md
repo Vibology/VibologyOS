@@ -3,6 +3,9 @@ tags: [the-window, archetype, gate-35, hexagram-35, sagittarius, the-joker, jung
 system: The Window
 date_created: 2026-01-17
 date_updated: 2026-01-19
+source: Multi-system synthesis
+source_verified: synthesis
+verification_date: 2026-01-23
 tier: Archetype
 zodiac: Sagittarius
 gate: 35

@@ -3,6 +3,9 @@ tags: [the-window, archetype, gate-31, hexagram-31, capricorn, madonna, jungian]
 system: The Window
 date_created: 2026-01-17
 date_updated: 2026-01-19
+source: Multi-system synthesis
+source_verified: synthesis
+verification_date: 2026-01-23
 tier: Archetype
 zodiac: Capricorn
 gate: 31
@@ -103,6 +106,17 @@ The Idol's journey is learning that **arrogance and humility are not opposites b
 In Jung's work, The Idol undergoes development through four stages: from physical power, to action and initiative, to the word and meaning, to spiritual guide. This Window card captures The Idol at full development—the strategic force that articulates direction through earned authority, the spirit-image that provides focus for conscious action.
 
 When The Idol appears in a reading, the querent is being tested: will you claim earned authority? Will you articulate patterns you recognize? Will you lead through influence rather than force, through wooing rather than commanding? The driving masculine spirit knows: **the lake draws the mountain upward by being receptive while remaining elevated**. Leadership is both.
+
+---
+
+## Sources
+
+This archetype integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram wisdom)
+- Carl Jung, *Collected Works* (Archetypal psychology and individuation)
+- *The Window* system structure: Original synthesis integrating these traditions within the Twelve Archetypes framework
 
 ---
 
