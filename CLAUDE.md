@@ -75,7 +75,7 @@ Consultations/    - Client work (chart data, readings)
 .commands/        - Procedural instructions
 ```
 
-**Library size:** 645 files across 7 pillars (as of 2026-01-20)
+**Library size:** 643 files across 7 pillars (as of 2026-01-20)
 
 ## 8. Personas
 
