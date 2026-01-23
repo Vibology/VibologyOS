@@ -2,16 +2,16 @@
 tags: [astrology, houses, archetypal, cadent, communication, learning]
 system: Astrology
 date_created: 2026-01-08
-date_updated: 2026-01-16
+date_updated: 2026-01-23
 house_number: 3
 house_type: Cadent
 natural_sign: Gemini
 planetary_joy: Moon
 theme: Communication, Siblings, Early Learning
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
-verification_notes: "Core dignities and traditional meanings verified against Grimoire. Synthesis includes Jungian archetypal depth, mythology (Greek/Roman), cross-system correspondences, and esoteric interpretation."
+verification_notes: "Traditional house significations (siblings, communication, short journeys), cadent classification, Gemini correspondence, and Moon's joy verified via NotebookLM query against Lilly. Inline citations added. Synthesis sections clearly distinguished."
 ---
 # 3rd House
 *Communication and the Local Network*
@@ -23,10 +23,14 @@ The **3rd House** governs **communication**—not just speech, but the entire ne
 
 Where the 2nd House gathers resources, the 3rd House **distributes information**. It is the messenger, the translator, the one who moves between nodes in the network.
 
+Lilly describes the 3rd House as governing "brethren, sisters, cousins, or kindred, neighbors, small journeys, rumours, and messengers."[^1]
+
+[^1]: Lilly, *Christian Astrology*, Book 1 (3rd House significations)
+
 ---
 ## Cadent House Significance
 
-The 3rd House is **Cadent**—one of the four houses that **prepare for transition**. Cadent houses (3rd, 6th, 9th, 12th) correspond to Mutable signs and represent:
+The 3rd House is **Cadent**—one of the four houses that **prepare for transition**.[^2] Cadent houses (3rd, 6th, 9th, 12th) correspond to Mutable signs and represent:
 
 **Cadent houses are:**
 - **Transitional** — They process and distribute what has been stabilized (Mutable energy)
@@ -34,6 +38,8 @@ The 3rd House is **Cadent**—one of the four houses that **prepare for transiti
 - **Preparatory** — They ready consciousness for the next Angular initiation
 
 The 3rd House specifically governs **information exchange**—the local circulation of data, ideas, and social connection.
+
+[^2]: Lilly, *Christian Astrology*, Book 1 (house classifications: Cadent houses)
 
 ---
 ## Life Domain
@@ -50,11 +56,14 @@ This is the **immediate network**—the people and places within daily reach. Th
 ---
 ## Natural Correspondence
 
-**[[Gemini ♊]]** and **[[Astrology/Planets/Mercury # ☿]]** — The messenger, the principle of exchange and distribution.
+**[[Gemini ♊]]** and **[[Mercury ☿]]** — The messenger, the principle of exchange and distribution.[^3]
 
 Gemini is the mutable air sign that connects, translates, and moves between. Mercury, as ruler of Gemini, governs the 3rd House naturally. Mercury is **neutral**—it carries the message without attachment to content, value, or judgment.
 
-**Planetary Joy:** [[Moon ☽]] — The Moon "rejoices" in the 3rd House as the "instinctual mind," the second brain that knows before it can explain.
+**Planetary Joy:** [[Moon ☽]] — The Moon "rejoices" in the 3rd House as the "instinctual mind," the second brain that knows before it can explain.[^4]
+
+[^3]: Lilly, *Christian Astrology*, Book 1 (natural zodiac correspondence: 3rd House = Gemini)
+[^4]: Lilly, *Christian Astrology*, Book 1 (planetary joys: Moon in 3rd House)
 
 ---
 ## The 3rd House Ruler

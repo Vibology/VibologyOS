@@ -2,16 +2,16 @@
 tags: [astrology, houses, archetypal, cadent, service, health, daily-work, virgo]
 system: Astrology
 date_created: 2026-01-08
-date_updated: 2026-01-16
+date_updated: 2026-01-23
 house_number: 6
 house_type: Cadent
 natural_sign: Virgo
 planetary_joy: Mars
 theme: Service, Health, Daily Work
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
-verification_notes: "Core dignities and traditional meanings verified against Grimoire. Synthesis includes Jungian archetypal depth, mythology (Greek/Roman), cross-system correspondences, and esoteric interpretation."
+verification_notes: "Traditional house significations (servants, sickness, small cattle), cadent classification, Virgo correspondence, and Mars's joy verified via NotebookLM query against Lilly. Inline citations added. Synthesis sections clearly distinguished."
 ---
 # 6th House
 *Service and the Sacred in the Mundane*
@@ -22,6 +22,10 @@ verification_notes: "Core dignities and traditional meanings verified against Gr
 The **6th House** governs **daily work**—not vocation (10th House), but the unglamorous labor of maintenance. This is the house of health, routines, service, and the discipline of showing up when inspiration has fled. It is **Virgo's domain**: refinement through repetition, the sacred found in the smallest details.
 
 Where the 5th House is play and creative joy, the 6th House is **labor**—the work that sustains life but does not announce itself. It is the house of servants, employees, pets, and the body's demands for care. The 6th House does not seek recognition; it seeks **precision**.
+
+Lilly describes the 6th House as governing "servants, day-laborers, sickness, its cause and curability, small cattle (hogs, sheep, goats), and uncles."[^1]
+
+[^1]: Lilly, *Christian Astrology*, Book 1 (6th House significations)
 
 ---
 ## Cadent House Significance
@@ -50,11 +54,14 @@ This is not the 10th House's public vocation or the 2nd House's financial work�
 ---
 ## Natural Correspondence
 
-**[[Virgo ♍]]** and **[[Astrology/Planets/Mercury # ☿]]** — The investigator, the principle of discernment and analysis.
+**[[Virgo ♍]]** and **[[Mercury ☿]]** — The investigator, the principle of discernment and analysis.[^2]
 
 Virgo is the mutable earth sign that refines, edits, and perfects. Mercury, as ruler of Virgo, governs the 6th House as the **discriminating mind**—the faculty that separates wheat from chaff, health from illness, useful from wasteful.
 
-**Planetary Joy:** [[Mars ♂]] — Mars "rejoices" in the 6th House as the warrior refined into **craftsman**. Here, aggression becomes precision; violence becomes surgery.
+**Planetary Joy:** [[Mars ♂]] — Mars "rejoices" in the 6th House as the warrior refined into **craftsman**. Here, aggression becomes precision; violence becomes surgery.[^3]
+
+[^2]: Lilly, *Christian Astrology*, Book 1 (natural zodiac correspondence: 6th House = Virgo)
+[^3]: Lilly, *Christian Astrology*, Book 1 (planetary joys: Mars in 6th House)
 
 ---
 ## The 6th House Ruler

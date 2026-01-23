@@ -2,16 +2,16 @@
 tags: [astrology, houses, archetypal, angular, vocation, midheaven, public-authority, capricorn]
 system: Astrology
 date_created: 2026-01-08
-date_updated: 2026-01-16
+date_updated: 2026-01-23
 house_number: 10
 house_type: Angular
 natural_sign: Capricorn
 cosignificator: Mars
 theme: Vocation, Public Authority, Reputation, The MC
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
-verification_notes: "Core dignities and traditional meanings verified against Grimoire. Synthesis includes Jungian archetypal depth, mythology (Greek/Roman), cross-system correspondences, and esoteric interpretation."
+verification_notes: "Traditional house significations (honour, magistrates, profession, mother), angular classification (Medium Coeli), Capricorn correspondence, and Mars cosignificator verified via NotebookLM query against Lilly. No planetary joy for 10th House. Inline citations added. Synthesis sections clearly distinguished."
 ---
 # 10th House
 *Vocation and the Peak of Worldly Estimation*
@@ -22,6 +22,10 @@ verification_notes: "Core dignities and traditional meanings verified against Gr
 The **10th House** is the **Midheaven** (MC)—the highest point in the chart, visible to all. This is the house of **vocation**: not career (that's 6th House), but *calling*—the work the world recognizes as yours. It governs reputation, public authority, achievement, and the legacy you leave when the Sun sets on your life.
 
 Where the 4th House (IC) is the hidden root, the 10th House is the **visible crown**. Where the 4th House is private sanctuary, the 10th House is **public performance**. What you are at the IC (foundation) determines what you can become at the MC (peak).
+
+Lilly describes the 10th House as governing "honour, dignity, kings, princes, magistrates, the mother, profession or trade, and preferment."[^1]
+
+[^1]: Lilly, *Christian Astrology*, Book 1 (10th House significations; Medium Coeli, Mid-heaven)
 
 ---
 ## Angular House Significance
@@ -50,11 +54,14 @@ This is not the 6th House's daily labor or the 2nd House's income—it is **cont
 ---
 ## Natural Correspondence
 
-**[[Capricorn ♑]]** and **[[Saturn ♄]]** — The elder, the principle of mastery through sustained effort.
+**[[Capricorn ♑]]** and **[[Saturn ♄]]** — The elder, the principle of mastery through sustained effort.[^2]
 
 Capricorn is the cardinal earth sign that climbs—not impulsively (Aries) but strategically, step by step, through discipline. Saturn governs the 10th House as the principle of **earned authority**—power that is not given but built through competence and time.
 
-**Cosignificator:** [[Mars ♂]] — The drive to achieve, the ambition to ascend. Mars provides the *will* to climb; Saturn provides the *structure*.
+**Cosignificator:** [[Mars ♂]] — The drive to achieve, the ambition to ascend. Mars provides the *will* to climb; Saturn provides the *structure*.[^3]
+
+[^2]: Lilly, *Christian Astrology*, Book 1 (natural zodiac correspondence: 10th House = Capricorn)
+[^3]: Lilly, *Christian Astrology*, Book 1 (10th House cosignificator: Mars)
 
 ---
 ## The Midheaven (MC): The Public Face

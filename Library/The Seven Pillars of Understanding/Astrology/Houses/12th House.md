@@ -2,16 +2,16 @@
 tags: [astrology, houses, archetypal, cadent, dissolution, unconscious, mysticism, pisces]
 system: Astrology
 date_created: 2026-01-08
-date_updated: 2026-01-16
+date_updated: 2026-01-23
 house_number: 12
 house_type: Cadent
 natural_sign: Pisces
 planetary_joy: Saturn
 theme: Dissolution, Hidden Enemies, Self-Undoing, The Unconscious
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
-verification_notes: "Core dignities and traditional meanings verified against Grimoire. Synthesis includes Jungian archetypal depth, mythology (Greek/Roman), cross-system correspondences, and esoteric interpretation."
+verification_notes: "Traditional house significations (private enemies, imprisonment, self-undoing, great cattle), cadent classification, Pisces correspondence, and Saturn's joy verified via NotebookLM query against Lilly. Inline citations added. Synthesis sections clearly distinguished."
 ---
 # 12th House
 *Dissolution and the Return to Source*
@@ -22,6 +22,10 @@ verification_notes: "Core dignities and traditional meanings verified against Gr
 The **12th House** is the **"Evil Daemon"** (traditional name)—the place of hidden enemies, self-undoing, imprisonment, and all that dissolves form. But it is also the house of **mysticism**, spiritual retreat, and the direct encounter with the numinous. It is **Pisces's domain**: the ocean to which all rivers return, the dissolution that precedes rebirth.
 
 Where the 1st House is the first breath, the 12th House is the **final exhale**. Where the 11th House builds community, the 12th House **dissolves into solitude**. The 12th House is the end of the cycle—the completion before the new beginning (1st House) can emerge.
+
+Lilly describes the 12th House as governing "private enemies, witches, great cattle (horses, oxen), sorrow, imprisonment, and self-undoing."[^1]
+
+[^1]: Lilly, *Christian Astrology*, Book 1 (12th House significations; "Evil Daemon")
 
 ---
 ## Cadent House Significance
@@ -51,11 +55,14 @@ This is not the 8th House's transformative death or the 11th House's collective 
 ---
 ## Natural Correspondence
 
-**[[Pisces ♓]]** and **[[Neptune ♆]]** (modern) / **[[Jupiter ♃]]** (traditional) — The dreamer, the principle of dissolution and return.
+**[[Pisces ♓]]** and **[[Neptune ♆]]** (modern) / **[[Jupiter ♃]]** (traditional) — The dreamer, the principle of dissolution and return.[^2]
 
 Pisces is the mutable water sign that does not contain (Cancer) or transform (Scorpio) but **dissolves**—boundaries fade, ego surrenders, all becomes one. Neptune governs the 12th House as the principle of **transcendence and illusion**—the veil that both conceals and reveals. Jupiter (traditional ruler) brings **benevolence and faith**—the trust required to surrender.
 
-**Planetary Joy:** [[Saturn ♄]] — Saturn "rejoices" in the 12th House as the "author of mischief"—the ordeal that strips illusion, the suffering that forces surrender.
+**Planetary Joy:** [[Saturn ♄]] — Saturn "rejoices" in the 12th House as the "author of mischief"—the ordeal that strips illusion, the suffering that forces surrender.[^3]
+
+[^2]: Lilly, *Christian Astrology*, Book 1 (natural zodiac correspondence: 12th House = Pisces)
+[^3]: Lilly, *Christian Astrology*, Book 1 (planetary joys: Saturn in 12th House, "author of mischief")
 
 ---
 ## The 12th House Ruler

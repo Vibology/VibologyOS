@@ -2,16 +2,16 @@
 tags: [astrology, houses, archetypal, angular, roots, ancestry, foundation]
 system: Astrology
 date_created: 2026-01-08
-date_updated: 2026-01-16
+date_updated: 2026-01-23
 house_number: 4
 house_type: Angular
 natural_sign: Cancer
 cosignificator: Sun
 theme: Roots, Ancestry, Home, The IC
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
-verification_notes: "Core dignities and traditional meanings verified against Grimoire. Synthesis includes Jungian archetypal depth, mythology (Greek/Roman), cross-system correspondences, and esoteric interpretation."
+verification_notes: "Traditional house significations (fathers, lands, inheritance), angular classification (Imum Coeli), Cancer correspondence, and Sun cosignificator verified via NotebookLM query against Lilly. No planetary joy for 4th House. Inline citations added. Synthesis sections clearly distinguished."
 ---
 # 4th House
 *Roots and the Foundation of Being*
@@ -23,10 +23,14 @@ The **4th House** is the **Imum Coeli** (IC)—the lowest point in the chart, th
 
 Where the 10th House (MC) is the peak visible to all, the 4th House is the **roots beneath the soil**—unseen but essential. Without roots, there can be no tree.
 
+Lilly describes the 4th House as governing "fathers, lands, houses, inheritance, hidden treasure, tillage, and the conclusion or end of any matter."[^1]
+
+[^1]: Lilly, *Christian Astrology*, Book 1 (4th House significations)
+
 ---
 ## Angular House Significance
 
-The 4th House is **Angular**—one of the four pillars that structure the chart. Angular houses (1st, 4th, 7th, 10th) mark critical transitions:
+The 4th House is **Angular**—one of the four pillars that structure the chart.[^2] Angular houses (1st, 4th, 7th, 10th) mark critical transitions:
 
 **Angular houses are:**
 - **Initiating** — They begin new cycles (Cardinal energy)
@@ -34,6 +38,8 @@ The 4th House is **Angular**—one of the four pillars that structure the chart.
 - **Powerful** — Planets here shape life's primary themes
 
 The 4th House specifically governs **roots and belonging**—the foundation from which identity grows (1st House) and public role emerges (10th House).
+
+[^2]: Lilly, *Christian Astrology*, Book 1 (house classifications: Angular houses; 4th = Imum Coeli, North Angle)
 
 ---
 ## Life Domain
@@ -51,11 +57,14 @@ This is the **private self**—what you are when no one is watching, the sanctua
 ---
 ## Natural Correspondence
 
-**[[Cancer ♋]]** and **[[Moon ☽]]** — The mother archetype, nurturance, the womb.
+**[[Cancer ♋]]** and **[[Moon ☽]]** — The mother archetype, nurturance, the womb.[^3]
 
 Cancer is the cardinal water sign that creates **emotional containment**—the protective shell that allows vulnerability to exist. The Moon governs the 4th House naturally, representing the **unconscious matrix** from which consciousness emerges.
 
-**Cosignificator:** [[Sun ☉]] — The father, authority, the patrilineal line (in traditional astrology).
+**Cosignificator:** [[Sun ☉]] — The father, authority, the patrilineal line (in traditional astrology).[^4]
+
+[^3]: Lilly, *Christian Astrology*, Book 1 (natural zodiac correspondence: 4th House = Cancer)
+[^4]: Lilly, *Christian Astrology*, Book 1 (4th House cosignificator: Sun)
 
 ---
 ## The Father vs. the Mother: A Note

@@ -2,16 +2,16 @@
 tags: [astrology, houses, archetypal, succedent, transformation, death, shadow, scorpio]
 system: Astrology
 date_created: 2026-01-08
-date_updated: 2026-01-16
+date_updated: 2026-01-23
 house_number: 8
 house_type: Succedent
 natural_sign: Scorpio
 cosignificator: Saturn
 theme: Death, Transformation, Shared Resources
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
-verification_notes: "Core dignities and traditional meanings verified against Grimoire. Synthesis includes Jungian archetypal depth, mythology (Greek/Roman), cross-system correspondences, and esoteric interpretation."
+verification_notes: "Traditional house significations (death, legacies, shared resources), succedent classification, Scorpio correspondence, and Saturn cosignificator verified via NotebookLM query against Lilly. No planetary joy for 8th House. Inline citations added. Synthesis sections clearly distinguished."
 ---
 # 8th House
 *Death, Transformation, and the Underworld*
@@ -22,6 +22,10 @@ verification_notes: "Core dignities and traditional meanings verified against Gr
 The **8th House** governs **death and rebirth**—not physical death alone, but all processes of transformation that require **ego-death**. This is the house of inheritance, shared resources, sexuality as merger, and the psychological infrastructure beneath social performance. It is **Scorpio's domain**: the relentless excavation of truth, no matter the cost.
 
 Where the 7th House is conscious partnership, the 8th House is **dissolution of boundaries**—the moment when two become one, when self surrenders to transformation, when control is relinquished and something new is born from the wreckage.
+
+Lilly describes the 8th House as governing "death, wills, legacies, dowry or portion of the wife, fear, and anguish of mind."[^1]
+
+[^1]: Lilly, *Christian Astrology*, Book 1 (8th House significations)
 
 ---
 ## Succedent House Significance
@@ -51,11 +55,14 @@ This is not the 2nd House's personal wealth or the 5th House's playful romance�
 ---
 ## Natural Correspondence
 
-**[[Scorpio ♏]]** and **[[Pluto ♇]]** (modern) / **[[Mars ♂]]** (traditional) — The transformer, the underworld lord.
+**[[Scorpio ♏]]** and **[[Pluto ♇]]** (modern) / **[[Mars ♂]]** (traditional) — The transformer, the underworld lord.[^2]
 
 Scorpio is the fixed water sign that does not flow but **stagnates, ferments, and transmutes**. Pluto governs the 8th House as the principle of **death and regeneration**—the destruction that births new form. Mars (traditional ruler) brings the warrior's capacity to face death without flinching.
 
-**Cosignificator:** [[Saturn ♄]] — The harvester, the principle of consequence. Saturn in the 8th brings karmic debt to light.
+**Cosignificator:** [[Saturn ♄]] — The harvester, the principle of consequence. Saturn in the 8th brings karmic debt to light.[^3]
+
+[^2]: Lilly, *Christian Astrology*, Book 1 (natural zodiac correspondence: 8th House = Scorpio)
+[^3]: Lilly, *Christian Astrology*, Book 1 (8th House cosignificator: Saturn)
 
 ---
 ## The 8th House Ruler

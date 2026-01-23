@@ -2,16 +2,16 @@
 tags: [astrology, houses, archetypal, cadent, philosophy, higher-learning, expansion, sagittarius]
 system: Astrology
 date_created: 2026-01-08
-date_updated: 2026-01-16
+date_updated: 2026-01-23
 house_number: 9
 house_type: Cadent
 natural_sign: Sagittarius
 planetary_joy: Sun
 theme: Philosophy, Higher Learning, Long Journeys
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
-verification_notes: "Core dignities and traditional meanings verified against Grimoire. Synthesis includes Jungian archetypal depth, mythology (Greek/Roman), cross-system correspondences, and esoteric interpretation."
+verification_notes: "Traditional house significations (long journeys, religion, learning, clergy), cadent classification, Sagittarius correspondence, and Sun's joy verified via NotebookLM query against Lilly. Inline citations added. Synthesis sections clearly distinguished."
 ---
 # 9th House
 *Philosophy and the Quest for Meaning*
@@ -22,6 +22,10 @@ verification_notes: "Core dignities and traditional meanings verified against Gr
 The **9th House** governs **higher learning**—not facts (3rd House), but *meaning*. This is the house of philosophy, religion, long journeys, and the search for the pattern that orders chaos. It is **Sagittarius's domain**: the ascent to the mountaintop where vision becomes available.
 
 Where the 3rd House gathers information, the 9th House **synthesizes it into wisdom**. Where the 3rd House travels locally, the 9th House journeys to foreign lands. Where the 3rd House learns, the 9th House **teaches**.
+
+Lilly describes the 9th House as governing "long journeys, voyages, religion, clergy, dreams, learning, books, and church benefices."[^1]
+
+[^1]: Lilly, *Christian Astrology*, Book 1 (9th House significations; "House of God")
 
 ---
 ## Cadent House Significance
@@ -50,11 +54,14 @@ This is not the 3rd House's local chatter or the 6th House's daily discipline—
 ---
 ## Natural Correspondence
 
-**[[Sagittarius ♐]]** and **[[Jupiter ♃]]** — The prophet, the principle of expansion and synthesis.
+**[[Sagittarius ♐]]** and **[[Jupiter ♃]]** — The prophet, the principle of expansion and synthesis.[^2]
 
 Sagittarius is the mutable fire sign that does not burn (Aries) or sustain (Leo) but **seeks**—the arrow aimed at the horizon, the centaur half-animal, half-divine. Jupiter governs the 9th House as the principle of **growth, benevolence, and the search for truth**.
 
-**Planetary Joy:** [[Sun ☉]] — The Sun "rejoices" in the 9th House as the light of consciousness, the illumination that reveals the pattern behind appearances.
+**Planetary Joy:** [[Sun ☉]] — The Sun "rejoices" in the 9th House as the light of consciousness, the illumination that reveals the pattern behind appearances.[^3]
+
+[^2]: Lilly, *Christian Astrology*, Book 1 (natural zodiac correspondence: 9th House = Sagittarius)
+[^3]: Lilly, *Christian Astrology*, Book 1 (planetary joys: Sun in 9th House)
 
 ---
 ## The 9th House Ruler

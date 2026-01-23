@@ -2,16 +2,16 @@
 tags: [astrology, houses, archetypal, angular, partnership, relationships, descendant]
 system: Astrology
 date_created: 2026-01-08
-date_updated: 2026-01-16
+date_updated: 2026-01-23
 house_number: 7
 house_type: Angular
 natural_sign: Libra
 cosignificator: Moon
 theme: Partnership, The Other, The Descendant
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
-verification_notes: "Core dignities and traditional meanings verified against Grimoire. Synthesis includes Jungian archetypal depth, mythology (Greek/Roman), cross-system correspondences, and esoteric interpretation."
+verification_notes: "Traditional house significations (marriage, partnerships, open enemies), angular classification (Angle of the West), Libra correspondence, and Moon cosignificator verified via NotebookLM query against Lilly. No planetary joy for 7th House. Inline citations added. Synthesis sections clearly distinguished."
 ---
 # 7th House
 *Partnership and the Mirror of Relationship*
@@ -22,6 +22,10 @@ verification_notes: "Core dignities and traditional meanings verified against Gr
 The **7th House** is the **Descendant** (DSC)—the western horizon, the point where the Sun sets. This is the house of **partnership**: marriage, committed relationships, contracts, and all formal bonds that require two selves to negotiate as equals. It is **Libra's domain**: the quest for balance through the other.
 
 Where the 1st House (Ascendant) is "I am," the 7th House is **"We are"**—the transformation of solo identity into relational identity. But the 7th House is not fusion; it is **mirror**. What you see in the other is often what you cannot see in yourself.
+
+Lilly describes the 7th House as governing "marriage, the wife or husband, public enemies, lawsuits, quarrels, thieves, and fugitives."[^1]
+
+[^1]: Lilly, *Christian Astrology*, Book 1 (7th House significations)
 
 ---
 ## Angular House Significance
@@ -50,11 +54,14 @@ This is not the 5th House's romantic play or the 8th House's transformative merg
 ---
 ## Natural Correspondence
 
-**[[Libra ♎]]** and **[[Venus ♀]]** — The balancer, the principle of equilibrium through relationship.
+**[[Libra ♎]]** and **[[Venus ♀]]** — The balancer, the principle of equilibrium through relationship.[^2]
 
 Libra is the cardinal air sign that initiates through **negotiation**—not through force (Aries) but through diplomacy. Venus, as ruler of Libra, governs the 7th House as the principle of **attraction and reciprocity**. Venus here is not 5th House pleasure; it is **relational harmony**.
 
-**Cosignificator:** [[Moon ☽]] — Emotional attunement, receptivity, the capacity to feel the other as extension of self.
+**Cosignificator:** [[Moon ☽]] — Emotional attunement, receptivity, the capacity to feel the other as extension of self.[^3]
+
+[^2]: Lilly, *Christian Astrology*, Book 1 (natural zodiac correspondence: 7th House = Libra; Angle of the West)
+[^3]: Lilly, *Christian Astrology*, Book 1 (7th House cosignificator: Moon)
 
 ---
 ## The Descendant as Shadow Vessel

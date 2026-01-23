@@ -2,16 +2,16 @@
 tags: [astrology, houses, archetypal, succedent, creativity, pleasure, children]
 system: Astrology
 date_created: 2026-01-08
-date_updated: 2026-01-16
+date_updated: 2026-01-23
 house_number: 5
 house_type: Succedent
 natural_sign: Leo
 planetary_joy: Venus
 theme: Creativity, Pleasure, Children, Joy
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
-verification_notes: "Core dignities and traditional meanings verified against Grimoire. Synthesis includes Jungian archetypal depth, mythology (Greek/Roman), cross-system correspondences, and esoteric interpretation."
+verification_notes: "Traditional house significations (children, pleasure, banquets), succedent classification, Leo correspondence, and Venus's joy verified via NotebookLM query against Lilly. Inline citations added. Synthesis sections clearly distinguished."
 ---
 # 5th House
 *Creativity and the Joy of Expression*
@@ -23,10 +23,14 @@ The **5th House** governs **creativity**—not as labor, but as **play**. This i
 
 Where the 4th House is private sanctuary, the 5th House is **public celebration**—the moment when the self, rooted and secure, dares to radiate.
 
+Lilly describes the 5th House as governing "children, pregnancy, banquets, plays, pleasure, messengers, and ale-houses."[^1]
+
+[^1]: Lilly, *Christian Astrology*, Book 1 (5th House significations)
+
 ---
 ## Succedent House Significance
 
-The 5th House is **Succedent**—one of the four houses that **sustain and consolidate** what Angular houses initiate. Succedent houses (2nd, 5th, 8th, 11th) correspond to Fixed signs:
+The 5th House is **Succedent**—one of the four houses that **sustain and consolidate** what Angular houses initiate.[^2] Succedent houses (2nd, 5th, 8th, 11th) correspond to Fixed signs:
 
 **Succedent houses are:**
 - **Sustaining** — They build upon and stabilize what was begun (Fixed energy)
@@ -34,6 +38,8 @@ The 5th House is **Succedent**—one of the four houses that **sustain and conso
 - **Slower-moving** — Changes here require sustained investment
 
 The 5th House specifically governs **creative expression**—the joy that sustains identity (1st House) and prepares for relational mirroring (7th House).
+
+[^2]: Lilly, *Christian Astrology*, Book 1 (house classifications: Succedent houses)
 
 ---
 ## Life Domain
@@ -50,11 +56,14 @@ This is not the 6th House's disciplined labor or the 10th House's public achieve
 ---
 ## Natural Correspondence
 
-**[[Leo ♌]]** and **[[Sun ☉]]** — The king, the principle of radiant self-expression.
+**[[Leo ♌]]** and **[[Sun ☉]]** — The king, the principle of radiant self-expression.[^3]
 
 Leo is the fixed fire sign that shines, celebrates, and creates from abundance. The Sun governs the 5th House naturally, representing the **individuated ego** that has separated from the maternal womb (4th House) and now radiates its unique essence.
 
-**Planetary Joy:** [[Venus ♀]] — Venus "rejoices" in the 5th House as the principle of pleasure, beauty, and delight for its own sake.
+**Planetary Joy:** [[Venus ♀]] — Venus "rejoices" in the 5th House as the principle of pleasure, beauty, and delight for its own sake.[^4]
+
+[^3]: Lilly, *Christian Astrology*, Book 1 (natural zodiac correspondence: 5th House = Leo)
+[^4]: Lilly, *Christian Astrology*, Book 1 (planetary joys: Venus in 5th House, "house of pleasure and delight")
 
 ---
 ## The 5th House Ruler

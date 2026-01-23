@@ -2,16 +2,16 @@
 tags: [astrology, houses, archetypal, angular, ascendant, identity]
 system: Astrology
 date_created: 2026-01-08
-date_updated: 2026-01-16
+date_updated: 2026-01-23
 house_number: 1
 house_type: Angular
 natural_sign: Aries
 planetary_joy: Mercury
 theme: Identity, The Ascendant
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
-verification_notes: "Core dignities and traditional meanings verified against Grimoire. Synthesis includes Jungian archetypal depth, mythology (Greek/Roman), cross-system correspondences, and esoteric interpretation."
+verification_notes: "Traditional house significations, angular classification, Aries correspondence, and Mercury's joy verified via NotebookLM query against Lilly's Christian Astrology. Inline citations added for all verifiable claims. Synthesis sections (Jungian, esoteric, cross-system) clearly distinguished from traditional content."
 ---
 # 1st House
 *Identity and the Mask of Incarnation*
@@ -23,10 +23,14 @@ The **1st House** is the **Ascendant**—the eastern horizon at the moment of bi
 
 The Ascendant is the **rising sign**—the zodiacal degree ascending on the eastern horizon at birth. It is the first breath, the first cry, the first gesture of embodied consciousness. Where the [[Sun ☉]] represents essence, the Ascendant represents **emergence**—how that essence takes form and meets the world.
 
+Lilly describes the 1st House as governing "the life of man, his stature, colour, complexion, form and shape of his body."[^1]
+
+[^1]: Lilly, *Christian Astrology*, Book 1 (description of houses)
+
 ---
 ## Angular House Significance
 
-The 1st House is **Angular**—one of the four pillars that structure the chart. Angular houses (1st, 4th, 7th, 10th) correspond to the cardinal points of the compass and mark critical life areas:
+The 1st House is **Angular**—one of the four pillars that structure the chart.[^2] Angular houses (1st, 4th, 7th, 10th) correspond to the cardinal points of the compass and mark critical life areas:
 
 **Angular houses are:**
 - **Initiating** — They begin new cycles (Cardinal energy)
@@ -34,6 +38,8 @@ The 1st House is **Angular**—one of the four pillars that structure the chart.
 - **Public** — Angular house themes cannot be hidden; they shape how life unfolds
 
 The 1st House specifically governs **identity and self-direction**—the capacity to initiate one's own trajectory rather than being carried by circumstance.
+
+[^2]: Lilly, *Christian Astrology*, Book 1 (house classifications: Angular, Succedent, Cadent)
 
 ---
 ## Life Domain
@@ -50,18 +56,22 @@ This is the threshold between inner and outer, the interface through which the s
 ---
 ## Natural Correspondence
 
-**[[Aries ♈]]** and **[[Mars ♂]]** — The initiator, the warrior, the raw thrust of life force into embodied form.
+**[[Aries ♈]]** and **[[Mars ♂]]** — The initiator, the warrior, the raw thrust of life force into embodied form.[^3]
 
 Aries is the first sign, the cardinal fire that erupts at the vernal equinox. It does not strategize or reflect; it **acts**. The 1st House shares this quality: it is the impulse to *be*, to assert, to claim space in the world.
 
 Mars, as ruler of Aries, governs the 1st House naturally. Mars is the principle of **individuation through action**—the courage to separate from the collective and say "I am distinct."
 
+[^3]: Lilly, *Christian Astrology*, Book 1 (natural zodiac correspondence: 1st House = Aries)
+
 ---
 ## Planetary Joy
 
-**[[Astrology/Planets/Mercury # ☿]]** joys in the 1st House as "significator of the tongue and fancy"—the mind that names the self, the voice that declares "I am this."
+**[[Mercury ☿]]** joys in the 1st House as "significator of the tongue and fancy"—the mind that names the self, the voice that declares "I am this."[^4]
 
-In traditional astrology, Mercury "rejoices" here because the 1st House is where consciousness **articulates itself**. Identity is not silent; it must be spoken, gestured, embodied. Mercury provides the language through which the self announces its presence.
+In traditional astrology, Mercury "rejoices" here because the 1st House is where consciousness **articulates itself**. Identity is not silent; it must be spoken, gestured, embodied. Mercury provides the language through which the self announces its presence. Lilly writes that Mercury rejoices in the 1st House "because it represents the Head, and Mercury rules the Tongue, Fancy, and Memory."[^4]
+
+[^4]: Lilly, *Christian Astrology*, Book 1 (planetary joys: Mercury in 1st House)
 
 ---
 ## The Chart Ruler

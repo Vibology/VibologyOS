@@ -2,16 +2,16 @@
 tags: [astrology, houses, archetypal, succedent, friendship, community, hope, aquarius]
 system: Astrology
 date_created: 2026-01-08
-date_updated: 2026-01-16
+date_updated: 2026-01-23
 house_number: 11
 house_type: Succedent
 natural_sign: Aquarius
 planetary_joy: Jupiter
 theme: Friendship, Hope, Community, Future Vision
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
-verification_notes: "Core dignities and traditional meanings verified against Grimoire. Synthesis includes Jungian archetypal depth, mythology (Greek/Roman), cross-system correspondences, and esoteric interpretation."
+verification_notes: "Traditional house significations (friends, hope, trust, praise), succedent classification, Aquarius correspondence, and Jupiter's joy verified via NotebookLM query against Lilly. Inline citations added. Synthesis sections clearly distinguished."
 ---
 # 11th House
 *Friendship, Hope, and the Collective Vision*
@@ -22,6 +22,10 @@ verification_notes: "Core dignities and traditional meanings verified against Gr
 The **11th House** governs **friendship** and **collective belonging**—not tribe (4th House) or contract (7th House), but **chosen community**. This is the house of hope, future vision, and the networks that transcend individual ego. It is **Aquarius's domain**: the recognition that individuality serves the whole.
 
 Where the 10th House achieves public authority, the 11th House **distributes that achievement** to the collective. Where the 5th House creates for personal joy, the 11th House **offers that creation to the community**. The 11th House is not solitary; it is collaborative, networked, future-oriented.
+
+Lilly describes the 11th House as governing "friends, friendship, hope, trust, confidence, praise, and the fidelity of friends."[^1]
+
+[^1]: Lilly, *Christian Astrology*, Book 1 (11th House significations; "Good Daemon")
 
 ---
 ## Succedent House Significance
@@ -50,11 +54,14 @@ This is not the 7th House's intimate partnership or the 4th House's blood family
 ---
 ## Natural Correspondence
 
-**[[Aquarius ♒]]** and **[[Uranus ♅]]** (modern) / **[[Saturn ♄]]** (traditional) — The humanitarian, the revolutionary architect.
+**[[Aquarius ♒]]** and **[[Uranus ♅]]** (modern) / **[[Saturn ♄]]** (traditional) — The humanitarian, the revolutionary architect.[^2]
 
 Aquarius is the fixed air sign that does not adapt (Gemini) or balance (Libra) but **holds the vision**—the future that does not yet exist but must. Uranus governs the 11th House as the principle of **liberation and innovation**—the force that breaks old structures to birth new forms. Saturn (traditional ruler) provides the **structure** that makes revolutionary vision sustainable.
 
-**Planetary Joy:** [[Jupiter ♃]] — Jupiter "rejoices" in the 11th House as faith, benevolence, and the trust that collective effort yields abundance.
+**Planetary Joy:** [[Jupiter ♃]] — Jupiter "rejoices" in the 11th House as faith, benevolence, and the trust that collective effort yields abundance.[^3]
+
+[^2]: Lilly, *Christian Astrology*, Book 1 (natural zodiac correspondence: 11th House = Aquarius)
+[^3]: Lilly, *Christian Astrology*, Book 1 (planetary joys: Jupiter in 11th House)
 
 ---
 ## The 11th House Ruler

@@ -2,16 +2,16 @@
 tags: [astrology, houses, archetypal, succedent, resources, values]
 system: Astrology
 date_created: 2026-01-08
-date_updated: 2026-01-16
+date_updated: 2026-01-23
 house_number: 2
 house_type: Succedent
 natural_sign: Taurus
 cosignificator: Jupiter
 theme: Resources, Values, Material Foundation
-source_verified: synthesis
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
-verification_notes: "Core dignities and traditional meanings verified against Grimoire. Synthesis includes Jungian archetypal depth, mythology (Greek/Roman), cross-system correspondences, and esoteric interpretation."
+verification_notes: "Traditional house significations (wealth, moveable goods), succedent classification, Taurus correspondence, and Jupiter cosignificator verified via NotebookLM query against Lilly. Inline citations added. No planetary joy for 2nd House. Synthesis sections clearly distinguished."
 ---
 # 2nd House
 *Resources and the Ground of Value*
@@ -23,10 +23,14 @@ The **2nd House** governs **resources and values**—not just money, but everyth
 
 Where the 1st House is **being** ("I am"), the 2nd House is **grounding** ("I have"). It answers the question: What supports my existence, and do I trust that it will continue?
 
+Lilly describes the 2nd House as governing "wealth and poverty, the moveable goods of man, money lent, profit or gain, loss, and assistants in suits of law."[^1]
+
+[^1]: Lilly, *Christian Astrology*, Book 1 (2nd House significations)
+
 ---
 ## Succedent House Significance
 
-The 2nd House is **Succedent**—one of the four houses that **sustain and consolidate** what Angular houses initiate. Succedent houses (2nd, 5th, 8th, 11th) correspond to Fixed signs and represent:
+The 2nd House is **Succedent**—one of the four houses that **sustain and consolidate** what Angular houses initiate.[^2] Succedent houses (2nd, 5th, 8th, 11th) correspond to Fixed signs and represent:
 
 **Succedent houses are:**
 - **Sustaining** — They build upon and stabilize what was begun (Fixed energy)
@@ -34,6 +38,8 @@ The 2nd House is **Succedent**—one of the four houses that **sustain and conso
 - **Slower-moving** — Changes here take time; they resist disruption
 
 The 2nd House specifically governs **material foundation**—the resources required to sustain the identity initiated in the 1st House.
+
+[^2]: Lilly, *Christian Astrology*, Book 1 (house classifications: Succedent houses)
 
 ---
 ## Life Domain
@@ -50,11 +56,14 @@ This is not just wealth but **relationship to wealth**—whether you hoard, shar
 ---
 ## Natural Correspondence
 
-**[[Taurus ♉]]** and **[[Venus ♀]]** — The principle of consolidation, pleasure, and material beauty.
+**[[Taurus ♉]]** and **[[Venus ♀]]** — The principle of consolidation, pleasure, and material beauty.[^3]
 
 Taurus is the fixed earth sign that gathers, holds, and builds. It does not rush; it **accumulates**. Venus, as ruler of Taurus, governs the 2nd House naturally. Venus is the principle of **attraction and value**—what you draw to yourself reflects what you believe you deserve.
 
-**Cosignificator:** [[Jupiter ♃]] — Expansion, benevolence, and the trust that there is enough.
+**Cosignificator:** [[Jupiter ♃]] — Expansion, benevolence, and the trust that there is enough.[^4]
+
+[^3]: Lilly, *Christian Astrology*, Book 1 (natural zodiac correspondence: 2nd House = Taurus)
+[^4]: Lilly, *Christian Astrology*, Book 1 (2nd House cosignificator: Jupiter)
 
 ---
 ## The 2nd House Ruler
