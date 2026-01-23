@@ -3,6 +3,9 @@ tags: [the-window, house-card, gate-25, hexagram-25, flame, fire, innocence, uni
 system: The Window
 date_created: 2026-01-18
 date_updated: 2026-01-19
+source: Multi-system synthesis
+source_verified: synthesis
+verification_date: 2026-01-23
 tier: House Card
 gate: 25
 hexagram: 25 (Innocence)
@@ -115,6 +118,16 @@ Together, these form the **healthy expression of the House of the Flame**: justi
 Passion is the antidote to Flame's shadow states—particularly constriction and violence. When you develop genuine passion through unconditional acceptance, **constriction dissolves and vitality flows**. When you love existence innocently, violence cannot emerge because there is nothing to attack—only life to celebrate. Passion rooted in innocence requires no defense.
 
 The practice is straightforward: **stop constricting your natural vitality and love existence as it is**. Not as naivety, not as denial of difficulty, but because the spirit's natural state is unconditional love and aliveness, and every constriction is learned. Acceptance liberates passion; innocence restores what conditioning removed.
+
+---
+
+## Sources
+
+This card integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate 11 mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum for Gene Key 11)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram 11 - Peace)
+- *The Window* system structure: Original synthesis integrating these traditions within the Six Houses framework
 
 ---
 

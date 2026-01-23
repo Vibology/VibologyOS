@@ -3,6 +3,9 @@ tags: [the-window, house-card, gate-19, hexagram-19, sea, water, yearning, posit
 system: The Window
 date_created: 2026-01-18
 date_updated: 2026-01-19
+source: Multi-system synthesis
+source_verified: synthesis
+verification_date: 2026-01-23
 tier: House Card
 gate: 19
 hexagram: 19 (Approach)
@@ -113,6 +116,16 @@ This card integrates specifically with:
 Longing stands in opposition to **Envy** (Gate 54 shadow)—because honest desire creates intimacy while envious comparison poisons connection. Where Envy looks at what others have and feels lack, Longing honors its own need and approaches with vulnerability. The difference is courage: Longing risks rejection; Envy avoids risk through resentment.
 
 The practice is straightforward: **allow yourself to want, express desire honestly, and trust that vulnerability creates rather than destroys connection**. Longing honored becomes intimacy; longing suppressed becomes isolation or grasping.
+
+---
+
+## Sources
+
+This card integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate 11 mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum for Gene Key 11)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram 11 - Peace)
+- *The Window* system structure: Original synthesis integrating these traditions within the Six Houses framework
 
 ---
 

@@ -3,6 +3,9 @@ tags: [the-window, house-card, gate-7, hexagram-7, spirit, consciousness, positi
 system: The Window
 date_created: 2026-01-18
 date_updated: 2026-01-19
+source: Multi-system synthesis
+source_verified: synthesis
+verification_date: 2026-01-23
 tier: House Card
 gate: 7
 hexagram: 7 (The Army)
@@ -115,6 +118,16 @@ Together, these form the **healthy consciousness foundation of the House of the 
 Will is the antidote to Spirit's shadow states—particularly division through corrupted leadership and abdication through refused role. When you accept your sacred function with virtue, **the collective organizes around your guidance**. When you lead as service rather than extraction, authority sustains itself through generosity. The virtuous leader doesn't seize—they recognize and fulfill.
 
 The practice is acceptance: **recognize your role and fulfill it with virtue**. Not grabbing for power but accepting sacred function. Not refusing responsibility but stepping into the leadership the collective needs. The virtuous soul was once uncertain; they became guide not by asserting superiority but by recognizing their role and serving from it.
+
+---
+
+## Sources
+
+This card integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate 11 mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum for Gene Key 11)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram 11 - Peace)
+- *The Window* system structure: Original synthesis integrating these traditions within the Six Houses framework
 
 ---
 

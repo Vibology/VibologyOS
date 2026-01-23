@@ -3,6 +3,9 @@ tags: [the-window, house-card, gate-2, hexagram-2, spirit, consciousness, positi
 system: The Window
 date_created: 2026-01-18
 date_updated: 2026-01-19
+source: Multi-system synthesis
+source_verified: synthesis
+verification_date: 2026-01-23
 tier: House Card
 gate: 2
 hexagram: 2 (The Receptive)
@@ -115,6 +118,16 @@ Together, these form the **healthy consciousness foundation of the House of the 
 Humility is the antidote to Spirit's shadow states—particularly dislocation through pride and manufacturing purpose through ego. When you surrender into receptivity, **orientation becomes available**. When you stop forcing direction, direction finds you. The humble soul doesn't know the way because they're clever—they know it because they've stopped pretending to know and started receiving.
 
 The practice is surrender: **receive your sacred direction rather than manufacturing it**. Not passive collapse but active receptivity—the conscious choice to listen before speaking, to follow before leading, to trust the Higher Self's geometry rather than ego's preferences. The aligned soul was once lost; they found their way not by figuring it out but by becoming humble enough to receive.
+
+---
+
+## Sources
+
+This card integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate 11 mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum for Gene Key 11)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram 11 - Peace)
+- *The Window* system structure: Original synthesis integrating these traditions within the Six Houses framework
 
 ---
 

@@ -3,6 +3,9 @@ tags: [the-window, house-card, gate-52, hexagram-52, chronicle, narrative, stres
 system: The Window
 date_created: 2026-01-18
 date_updated: 2026-01-19
+source: Multi-system synthesis
+source_verified: synthesis
+verification_date: 2026-01-23
 tier: House Card
 gate: 52
 hexagram: 52 (Keeping Still)

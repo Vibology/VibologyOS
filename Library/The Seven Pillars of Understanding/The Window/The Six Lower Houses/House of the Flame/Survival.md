@@ -3,6 +3,9 @@ tags: [the-window, house-card, gate-26, hexagram-26, flame, fire, memory, artful
 system: The Window
 date_created: 2026-01-18
 date_updated: 2026-01-19
+source: Multi-system synthesis
+source_verified: synthesis
+verification_date: 2026-01-23
 tier: House Card
 gate: 26
 hexagram: 26 (The Taming Power of the Great)
@@ -115,6 +118,16 @@ Together, these form the **healthy expression of the House of the Flame**: justi
 Survival is the teacher of Flame—**the memory of what works** that allows instinctual fire to burn without exhausting all resources. When you develop genuine survival through artful stewardship, pride transforms into service. When you apply memory to sustain collective vitality, hoarding cannot emerge because resources flow to where they're needed. Survival earned through invisible service requires no recognition.
 
 The practice is straightforward: **remember what has sustained life and apply that wisdom to serve continuity**. Not as prideful expertise, not as manipulative control, but because the fire needs intelligent management to keep burning across time. Artfulness follows wisdom; invisibility follows service.
+
+---
+
+## Sources
+
+This card integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate 11 mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum for Gene Key 11)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram 11 - Peace)
+- *The Window* system structure: Original synthesis integrating these traditions within the Six Houses framework
 
 ---
 

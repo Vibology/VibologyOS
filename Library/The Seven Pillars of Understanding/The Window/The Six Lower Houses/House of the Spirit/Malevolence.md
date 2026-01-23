@@ -3,6 +3,9 @@ tags: [the-window, house-card, gate-62, hexagram-62, spirit, consciousness, nega
 system: The Window
 date_created: 2026-01-18
 date_updated: 2026-01-19
+source: Multi-system synthesis
+source_verified: synthesis
+verification_date: 2026-01-23
 tier: House Card
 gate: 62
 hexagram: 62 (Preponderance of the Small)
@@ -114,6 +117,16 @@ This card warns against shadow patterns in the House of the Spirit:
 Together with **Apathy** (Gate 56) and **Domination** (Gate 45), Malevolence forms the **shadow triad of Spirit**: fragmented consciousness (Apathy), corrupted precision (Malevolence), and tyrannical authority (Domination).
 
 The practice is ethics: **reorient your precision toward service**. Not less knowledge but different intention. Not abandoning detail mastery but deploying it ethically. The impeccable soul was once capable of malevolence; they became harmless not by losing their precision but by allowing love to direct it.
+
+---
+
+## Sources
+
+This card integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate 11 mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum for Gene Key 11)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram 11 - Peace)
+- *The Window* system structure: Original synthesis integrating these traditions within the Six Houses framework
 
 ---
 

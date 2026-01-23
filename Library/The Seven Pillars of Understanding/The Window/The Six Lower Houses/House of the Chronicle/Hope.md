@@ -3,6 +3,9 @@ tags: [the-window, house-card, gate-30, hexagram-30, chronicle, narrative, light
 system: The Window
 date_created: 2026-01-18
 date_updated: 2026-01-19
+source: Multi-system synthesis
+source_verified: synthesis
+verification_date: 2026-01-23
 tier: House Card
 gate: 30
 hexagram: 30 (The Clinging Fire)
@@ -112,6 +115,16 @@ Together, these form the **healthy expression of the House of the Chronicle**: e
 Hope is the antidote to Chronicle's shadow states—particularly despair and bitterness. When you develop genuine hope through light-hearted clinging, **desire transforms from bondage to celebration**. When you fuel the narrative with graceful engagement, despair cannot extinguish meaning because the fire keeps burning. Hope earned through acceptance requires no defense.
 
 The practice is straightforward: **engage emotionally with what you value, and accept that you cannot control outcomes**. Not as resigned defeat, not as desperate grasping, but because light-hearted participation in the narrative creates the beauty that makes life meaningful. Fire burns brightest when tended; hope illuminates furthest when cultivated through graceful clinging.
+
+---
+
+## Sources
+
+This card integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate 11 mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum for Gene Key 11)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram 11 - Peace)
+- *The Window* system structure: Original synthesis integrating these traditions within the Six Houses framework
 
 ---
 

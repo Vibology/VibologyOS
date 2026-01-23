@@ -3,6 +3,9 @@ tags: [the-window, house-card, gate-15, hexagram-15, chronicle, narrative, magne
 system: The Window
 date_created: 2026-01-18
 date_updated: 2026-01-19
+source: Multi-system synthesis
+source_verified: synthesis
+verification_date: 2026-01-23
 tier: House Card
 gate: 15
 hexagram: 15 (Modesty)
@@ -115,6 +118,16 @@ Together, these form the **healthy expression of the House of the Chronicle**: e
 Love is the antidote to Chronicle's shadow states—particularly hatred and dullness. When you develop genuine love through lived experience of extremes, **judgment transforms into acceptance**. When you include all patterns in your embrace, hatred cannot poison the narrative because nothing remains outside compassion's reach. Love earned through diverse experience requires no defense.
 
 The practice is straightforward: **experience widely and judge rarely**. Not as license for harm, not as abandonment of discernment, but because the person who has truly lived the narrative cannot condemn any of its characters. Magnetism follows inclusion; richness follows embrace; florescence follows love.
+
+---
+
+## Sources
+
+This card integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate 11 mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum for Gene Key 11)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram 11 - Peace)
+- *The Window* system structure: Original synthesis integrating these traditions within the Six Houses framework
 
 ---
 

@@ -3,6 +3,9 @@ tags: [the-window, house-card, gate-11, hexagram-11, chronicle, narrative, ideal
 system: The Window
 date_created: 2026-01-18
 date_updated: 2026-01-19
+source: Multi-system synthesis
+source_verified: synthesis
+verification_date: 2026-01-23
 tier: House Card
 gate: 11
 hexagram: 11 (Peace)
@@ -115,6 +118,16 @@ Together, these form the **healthy expression of the House of the Chronicle**: e
 Memory is the antidote to Chronicle's shadow states—particularly obscurity and despair. When you develop genuine memory through refined ideation, **confusion transforms into clarity**. When you hold concepts that illuminate rather than obscure, despair cannot collapse meaning because the narrative has structure. Memory earned through contemplative refinement requires no defense.
 
 The practice is straightforward: **refine your ideas until they illuminate**. Not through accumulating more concepts, not through elaborating toward complexity, but by testing each framework against its power to clarify the narrative. Keep what serves meaning; release what serves only ego. Light follows idealism; memory follows refinement; the narrative endures through concepts worthy of preservation.
+
+---
+
+## Sources
+
+This card integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate 11 mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum for Gene Key 11)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram 11 - Peace)
+- *The Window* system structure: Original synthesis integrating these traditions within the Six Houses framework
 
 ---
 

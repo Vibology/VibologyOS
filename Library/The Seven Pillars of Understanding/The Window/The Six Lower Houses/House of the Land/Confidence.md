@@ -3,6 +3,9 @@ tags: [the-window, house-card, gate-8, hexagram-8, land, earth, contribution, po
 system: The Window
 date_created: 2026-01-18
 date_updated: 2026-01-19
+source: Multi-system synthesis
+source_verified: synthesis
+verification_date: 2026-01-23
 tier: House Card
 gate: 8
 hexagram: 8 (Holding Together)
@@ -113,6 +116,16 @@ This card integrates with the other positive Land cards:
 Together, these form the **healthy creative foundation of Land**: present awareness (Stability), authentic style (Confidence), structural integrity (Integrity), and disciplined excellence (Ambition). When all four operate in gift frequency, the embodied foundation supports genuine creative contribution to collective well-being.
 
 Confidence stands in contrast to the negative Land cards, particularly **Insecurity** (Gate 48)—the fear that one's creative depth is inadequate. Where Insecurity doubts the well's depth, Confidence trusts the creative spring within and offers its water to the collective without fear of depletion. Confidence is the antidote to creative paralysis born from inadequacy fears.
+
+---
+
+## Sources
+
+This card integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate 11 mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum for Gene Key 11)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram 11 - Peace)
+- *The Window* system structure: Original synthesis integrating these traditions within the Six Houses framework
 
 ---
 

@@ -3,6 +3,9 @@ tags: [the-window, house-card, gate-58, hexagram-58, sea, water, vitality, posit
 system: The Window
 date_created: 2026-01-18
 date_updated: 2026-01-19
+source: Multi-system synthesis
+source_verified: synthesis
+verification_date: 2026-01-23
 tier: House Card
 gate: 58
 hexagram: 58 (The Joyous)
@@ -113,6 +116,16 @@ This card integrates with the other positive Sea cards:
 Together, these form the **healthy emotional foundation of Sea**: vitality through feeling (Joy), gratitude for emotional capacity (Gratitude), empathic connection (Compassion), and sacred desire (Longing). When all four operate in gift frequency, the emotional life becomes source of aliveness rather than suffering.
 
 Joy is the antidote to Sea's shadow states—particularly numbness and dissatisfaction. When you engage feeling fully, **aliveness returns**. When you allow yourself to be moved, vitality emerges naturally. The practice is simple: feel everything, numb to nothing, and discover that being alive is itself the joy.
+
+---
+
+## Sources
+
+This card integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate 11 mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum for Gene Key 11)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram 11 - Peace)
+- *The Window* system structure: Original synthesis integrating these traditions within the Six Houses framework
 
 ---
 

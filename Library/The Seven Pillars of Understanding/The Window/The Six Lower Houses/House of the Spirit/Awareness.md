@@ -3,6 +3,9 @@ tags: [the-window, house-card, gate-64, hexagram-64, spirit, consciousness, posi
 system: The Window
 date_created: 2026-01-18
 date_updated: 2026-01-19
+source: Multi-system synthesis
+source_verified: synthesis
+verification_date: 2026-01-23
 tier: House Card
 gate: 64
 hexagram: 64 (Before Completion)
@@ -115,6 +118,16 @@ Together, these form the **healthy consciousness foundation of the House of the 
 Awareness is the antidote to Spirit's shadow states—particularly scattered confusion and anxious grasping. When you cultivate patient presence with not-knowing, **imagination can function**. When you trust visionary perception, consciousness becomes clear. The aware soul doesn't flee confusion—they inhabit it with the quality of attention that transforms chaos into vision.
 
 The practice is presence: **sustain the pressure of not-knowing with patient awareness**. Not forcing understanding but cultivating the consciousness from which understanding emerges. Not demanding answers but trusting that imagination perceives what analysis cannot grasp. The illuminated soul was once confused; they became clear not by escaping confusion but by remaining present with it.
+
+---
+
+## Sources
+
+This card integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate 11 mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum for Gene Key 11)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram 11 - Peace)
+- *The Window* system structure: Original synthesis integrating these traditions within the Six Houses framework
 
 ---
 

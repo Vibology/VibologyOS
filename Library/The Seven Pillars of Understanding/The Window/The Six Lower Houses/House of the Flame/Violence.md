@@ -3,6 +3,9 @@ tags: [the-window, house-card, gate-51, hexagram-51, flame, fire, agitation, sha
 system: The Window
 date_created: 2026-01-18
 date_updated: 2026-01-19
+source: Multi-system synthesis
+source_verified: synthesis
+verification_date: 2026-01-23
 tier: House Card
 gate: 51
 hexagram: 51 (The Arousing)
@@ -114,6 +117,16 @@ This card warns against shadow patterns in the House of the Flame:
 Together with **Aggression** (Gate 5) and **Recklessness** (Gate 61), Violence completes the shadow triad of Flame: fires that burn without rhythm, without inspiration, without center. Each represents a different failure mode of vital force—Aggression losing timing, Recklessness losing inspiration, Violence losing center.
 
 The practice for healing Violence is **stillness that allows center to return**. The violent soul must stop shocking long enough to find what agitates—to discover the inner chaos that drives continuous initiation, to examine what the violence attempts to escape. This requires acknowledging that destruction accomplishes nothing, that domination creates only more domination, and that genuine power arises from center rather than chaos.
+
+---
+
+## Sources
+
+This card integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate 11 mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum for Gene Key 11)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram 11 - Peace)
+- *The Window* system structure: Original synthesis integrating these traditions within the Six Houses framework
 
 ---
 

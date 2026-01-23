@@ -2,6 +2,9 @@
 tags: [the-window, index, houses, domains]
 system: The Window
 date_created: 2026-01-18
+source: Multi-system synthesis
+source_verified: synthesis
+verification_date: 2026-01-23
 ---
 
 # INDEX - The Six Houses of The Window

@@ -2,6 +2,9 @@
 tags: [the-window, house, sea, water, emotion]
 system: The Window
 date_created: 2026-01-18
+source: Multi-system synthesis
+source_verified: synthesis
+verification_date: 2026-01-23
 tier: House
 element: Water
 domain: Emotional/Relational Depth
@@ -144,6 +147,16 @@ Open your heart. Allow yourself to feel. Engage relationship with vulnerability.
 - **Sea + Chronicle:** Stories that carry emotional truth; narrative that honors feeling; risk of sentiment
 - **Sea + Spirit:** Emotional awareness as consciousness; compassion as divine presence
 - **Sea + Stars:** Excellence in relationship; emotional discipline; mastery of vulnerability
+
+---
+
+## Sources
+
+This card integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate 11 mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum for Gene Key 11)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram 11 - Peace)
+- *The Window* system structure: Original synthesis integrating these traditions within the Six Houses framework
 
 ---
 

@@ -2,6 +2,9 @@
 tags: [the-window, house, spirit, consciousness, soul]
 system: The Window
 date_created: 2026-01-18
+source: Multi-system synthesis
+source_verified: synthesis
+verification_date: 2026-01-23
 tier: House
 element: None (Consciousness/Soul)
 domain: Inner Divinity & Psychospiritual Health
@@ -154,6 +157,16 @@ Turn inward. How is your soul? Practice receptivity (Gate 2)—listen for divine
 - **Spirit + Flame:** Will in action; consciousness directing instinct; aligned passion
 - **Spirit + Chronicle:** Awareness of narrative; consciousness examining story; soul not trapped by belief
 - **Spirit + Stars:** Excellence serving higher purpose; mastery aligned with soul calling
+
+---
+
+## Sources
+
+This card integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate 11 mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum for Gene Key 11)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram 11 - Peace)
+- *The Window* system structure: Original synthesis integrating these traditions within the Six Houses framework
 
 ---
 

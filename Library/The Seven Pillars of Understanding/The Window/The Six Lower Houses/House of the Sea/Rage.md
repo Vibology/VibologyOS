@@ -3,6 +3,9 @@ tags: [the-window, house-card, gate-6, hexagram-6, sea, water, friction, shadow]
 system: The Window
 date_created: 2026-01-18
 date_updated: 2026-01-19
+source: Multi-system synthesis
+source_verified: synthesis
+verification_date: 2026-01-23
 tier: House Card
 gate: 6
 hexagram: 6 (Conflict)
@@ -111,6 +114,16 @@ This card integrates with Sea's other cards:
 - **Joy** (Gate 58) and **Gratitude** (Gate 22) are lost when Rage dominates—vitality and appreciation cannot coexist with chronic emotional warfare
 
 The path through Rage requires returning to **Compassion**—not abandoning anger but holding it with enough empathy (for self and other) that it can be expressed productively rather than destructively. Rage transformed becomes **fierce boundary**, anger that protects without annihilating.
+
+---
+
+## Sources
+
+This card integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate 11 mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum for Gene Key 11)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram 11 - Peace)
+- *The Window* system structure: Original synthesis integrating these traditions within the Six Houses framework
 
 ---
 

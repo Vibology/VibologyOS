@@ -3,6 +3,9 @@ tags: [the-window, house-card, gate-17, hexagram-17, spirit, consciousness, posi
 system: The Window
 date_created: 2026-01-18
 date_updated: 2026-01-19
+source: Multi-system synthesis
+source_verified: synthesis
+verification_date: 2026-01-23
 tier: House Card
 gate: 17
 hexagram: 17 (Following)
@@ -115,6 +118,16 @@ Together, these form the **healthy consciousness foundation of the House of the 
 Service is the antidote to Spirit's shadow states—particularly premature opinion and ungrounded authority. When you serve patterns before organizing them, **far-sightedness develops**. When you follow before leading, your guidance carries the weight of experience. The wise soul doesn't assert—they observe until observation becomes understanding, then share that understanding as service to others.
 
 The practice is following: **serve the patterns you seek to understand**. Not passive observation but engaged following—participating in systems long enough to know how they work. Not premature opinion but patient accumulation of observed truth. The far-sighted soul was once beginner; they became guide not by asserting authority but by serving until service became wisdom.
+
+---
+
+## Sources
+
+This card integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate 11 mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum for Gene Key 11)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram 11 - Peace)
+- *The Window* system structure: Original synthesis integrating these traditions within the Six Houses framework
 
 ---
 

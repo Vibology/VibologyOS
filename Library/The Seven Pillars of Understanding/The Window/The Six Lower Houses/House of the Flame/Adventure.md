@@ -3,6 +3,9 @@ tags: [the-window, house-card, gate-28, hexagram-28, flame, fire, risk, totality
 system: The Window
 date_created: 2026-01-18
 date_updated: 2026-01-19
+source: Multi-system synthesis
+source_verified: synthesis
+verification_date: 2026-01-23
 tier: House Card
 gate: 28
 hexagram: 28 (Preponderance of the Great)
@@ -115,6 +118,16 @@ Together, these form the **healthy expression of the House of the Flame**: justi
 Adventure is the antidote to Flame's shadow states—particularly purposelessness and recklessness. When you develop genuine adventure through total engagement with meaning, **purposeless motion transforms into directed struggle**. When you commit fully to what matters, recklessness cannot emerge because risk is aligned with purpose. Adventure earned through total commitment requires no justification.
 
 The practice is straightforward: **find the struggle worth your total commitment, and engage it without reservation**. Not as escape from emptiness, not as compulsive motion, but because meaning lives in the fight itself. Totality follows purpose; immortality follows total commitment.
+
+---
+
+## Sources
+
+This card integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate 11 mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum for Gene Key 11)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram 11 - Peace)
+- *The Window* system structure: Original synthesis integrating these traditions within the Six Houses framework
 
 ---
 

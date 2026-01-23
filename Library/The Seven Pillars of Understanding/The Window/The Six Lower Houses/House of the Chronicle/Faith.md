@@ -3,6 +3,9 @@ tags: [the-window, house-card, gate-32, hexagram-32, chronicle, narrative, prese
 system: The Window
 date_created: 2026-01-18
 date_updated: 2026-01-19
+source: Multi-system synthesis
+source_verified: synthesis
+verification_date: 2026-01-23
 tier: House Card
 gate: 32
 hexagram: 32 (Duration)
@@ -112,6 +115,16 @@ Together, these form the **healthy expression of the House of the Chronicle**: e
 Faith is the antidote to Chronicle's shadow states—particularly failure and despair. When you develop genuine faith through tested commitment, **fear of failure transforms into wise discernment**. When you preserve what genuinely deserves continuity, despair cannot collapse meaning because the narrative has proven its durability. Faith earned through preservation requires no defense.
 
 The practice is straightforward: **invest in what you believe deserves to endure**. Not as desperate clinging, not as rigid fundamentalism, but because certain values, certain stories, certain ways of understanding are worth protecting across generations. Resources follow commitment; continuity follows faith; endurance follows preservation rightly directed.
+
+---
+
+## Sources
+
+This card integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate 11 mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum for Gene Key 11)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram 11 - Peace)
+- *The Window* system structure: Original synthesis integrating these traditions within the Six Houses framework
 
 ---
 

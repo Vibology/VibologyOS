@@ -3,6 +3,9 @@ tags: [the-window, house-card, gate-13, hexagram-13, sea, water, empathy, positi
 system: The Window
 date_created: 2026-01-18
 date_updated: 2026-01-19
+source: Multi-system synthesis
+source_verified: synthesis
+verification_date: 2026-01-23
 tier: House Card
 gate: 13
 hexagram: 13 (The Fellowship of Man)
@@ -111,6 +114,16 @@ This card integrates specifically with:
 - **Gratitude** (Gate 22) - Appreciation for the capacity to feel with others
 
 Compassion is the antidote to **Rage** (Gate 6 shadow)—because empathic witness transforms emotional friction from destructive to connective. When rage meets compassionate presence, it can be metabolized into information rather than weaponized into attack. Compassion also addresses **Heartbreak** (Gate 36 shadow) by providing the presence that allows grief to be witnessed and metabolized rather than endured in isolation.
+
+---
+
+## Sources
+
+This card integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate 11 mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum for Gene Key 11)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram 11 - Peace)
+- *The Window* system structure: Original synthesis integrating these traditions within the Six Houses framework
 
 ---
 

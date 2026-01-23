@@ -3,6 +3,9 @@ tags: [the-window, house-card, gate-16, hexagram-16, land, earth, mastery, posit
 system: The Window
 date_created: 2026-01-18
 date_updated: 2026-01-19
+source: Multi-system synthesis
+source_verified: synthesis
+verification_date: 2026-01-23
 tier: House Card
 gate: 16
 hexagram: 16 (Enthusiasm)
@@ -113,6 +116,16 @@ This card integrates with the other positive Land cards:
 Together, these form the **mastery foundation of Land**: present awareness (Stability), authentic style (Confidence), vigilant correction (Integrity), and disciplined excellence (Ambition). When all four operate in gift frequency, the embodied foundation both sustains and develops.
 
 Ambition stands in contrast to the negative Land cards, particularly **Fragility** (Gate 57 shadow)—the brittleness that comes from lack of practice, the vulnerability born from skills not refined. Where Fragility reveals foundation that shatters under pressure, Ambition builds **resilience through repetition**: mastery that endures because it has been practiced into the body. Ambition is the antidote to fragility.
+
+---
+
+## Sources
+
+This card integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate 11 mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum for Gene Key 11)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram 11 - Peace)
+- *The Window* system structure: Original synthesis integrating these traditions within the Six Houses framework
 
 ---
 

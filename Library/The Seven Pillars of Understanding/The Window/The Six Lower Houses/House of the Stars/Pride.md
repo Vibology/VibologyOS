@@ -3,6 +3,9 @@ tags: [the-window, house-card, gate-10, hexagram-10, stars, mastery, negative]
 system: The Window
 date_created: 2026-01-18
 date_updated: 2026-01-19
+source: Multi-system synthesis
+source_verified: synthesis
+verification_date: 2026-01-23
 tier: House Card
 gate: 10
 hexagram: 10 (Treading)
@@ -114,6 +117,16 @@ This card contrasts with the positive Stars cards:
 Together with Resignation and Stagnation, Pride forms the **shadow triad of the Stars**: ego inflation (Pride), paralyzed perfectionism (Stagnation), and defeated surrender (Resignation). Each corrupts mastery differently; Pride corrupts through substituting performance for substance.
 
 The practice is humility: **release the performance and discover who you are without it**. Not false humility that secretly yearns for recognition, but genuine humility that knows worth exists prior to achievement. The proud soul believes accomplishment creates identity; the natural soul knows identity expresses through accomplishment. The difference is freedom.
+
+---
+
+## Sources
+
+This card integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate 11 mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum for Gene Key 11)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram 11 - Peace)
+- *The Window* system structure: Original synthesis integrating these traditions within the Six Houses framework
 
 ---
 

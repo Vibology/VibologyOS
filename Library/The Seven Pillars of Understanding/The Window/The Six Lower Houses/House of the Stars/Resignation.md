@@ -3,6 +3,9 @@ tags: [the-window, house-card, gate-9, hexagram-9, stars, mastery, negative]
 system: The Window
 date_created: 2026-01-18
 date_updated: 2026-01-19
+source: Multi-system synthesis
+source_verified: synthesis
+verification_date: 2026-01-23
 tier: House Card
 gate: 9
 hexagram: 9 (The Taming Power of the Small)
@@ -114,6 +117,16 @@ This card contrasts with the positive Stars cards:
 Together with Pride and Stagnation, Resignation forms the **shadow triad of the Stars**: ego inflation (Pride), paralyzed perfectionism (Stagnation), and defeated surrender (Resignation). Each corrupts mastery differently; Resignation corrupts through abandonment before achievement.
 
 The practice is continuation: **take one more step**. Not heroic transformation but humble persistence. Not seeing the whole path but walking the next piece. Resignation feeds on stopping; determination rebuilds through continuing. The resigned soul believes they can't go on; the determined soul goes on anyway, discovering that they could.
+
+---
+
+## Sources
+
+This card integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate 11 mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum for Gene Key 11)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram 11 - Peace)
+- *The Window* system structure: Original synthesis integrating these traditions within the Six Houses framework
 
 ---
 

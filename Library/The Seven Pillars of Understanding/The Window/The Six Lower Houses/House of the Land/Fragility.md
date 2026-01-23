@@ -3,6 +3,9 @@ tags: [the-window, house-card, gate-57, hexagram-57, land, earth, vulnerability,
 system: The Window
 date_created: 2026-01-18
 date_updated: 2026-01-19
+source: Multi-system synthesis
+source_verified: synthesis
+verification_date: 2026-01-23
 tier: House Card
 gate: 57
 hexagram: 57 (The Gentle)
@@ -112,6 +115,16 @@ This card reveals what happens when Land's foundation becomes **brittle through 
 Together, the shadow Land cards form the **unstable foundation**: insecurity about adequacy, fragility from rigidity, corruption of values. Each feeds the others in a cycle that can only be broken by returning to the positive pole—particularly through **Stability** (Gate 20), which returns awareness to the present moment, dissolving future-projection that creates brittleness.
 
 Fragility is also illuminated by its relationship to **Integrity** (Gate 18)—where Integrity maintains structural soundness through correction, Fragility represents structure too rigid to be corrected. The corrective is **gentle flexibility**: allowing structures to yield, foundations to adapt, bodies to soften without losing core strength.
+
+---
+
+## Sources
+
+This card integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate 11 mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum for Gene Key 11)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram 11 - Peace)
+- *The Window* system structure: Original synthesis integrating these traditions within the Six Houses framework
 
 ---
 

@@ -3,6 +3,9 @@ tags: [the-window, house-card, gate-36, hexagram-36, sea, water, crisis, shadow]
 system: The Window
 date_created: 2026-01-18
 date_updated: 2026-01-19
+source: Multi-system synthesis
+source_verified: synthesis
+verification_date: 2026-01-23
 tier: House Card
 gate: 36
 hexagram: 36 (Darkening of the Light)
@@ -112,6 +115,16 @@ This card reveals what happens when Sea's openness meets betrayal. The other sha
 Together, the shadow Sea cards form **emotional devastation**: heartbreak from betrayed vulnerability, rage from unmetabolized pain, envy from wounded comparison. Each can fuel the others in a cycle of suffering that only deepens.
 
 The path through requires the positive Sea cards—particularly **Gratitude** (honoring that you can still feel) and **Compassion** (recognizing shared suffering). Heartbreak's gift lies in its eventual transformation: the broken heart that remains open—vulnerable but not naive, tender but not defenseless—becomes **source of profound compassion**.
+
+---
+
+## Sources
+
+This card integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate 11 mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum for Gene Key 11)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram 11 - Peace)
+- *The Window* system structure: Original synthesis integrating these traditions within the Six Houses framework
 
 ---
 

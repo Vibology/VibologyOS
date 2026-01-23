@@ -3,6 +3,9 @@ tags: [the-window, house-card, gate-45, hexagram-45, spirit, consciousness, nega
 system: The Window
 date_created: 2026-01-18
 date_updated: 2026-01-19
+source: Multi-system synthesis
+source_verified: synthesis
+verification_date: 2026-01-23
 tier: House Card
 gate: 45
 hexagram: 45 (Gathering Together)
@@ -114,6 +117,16 @@ This card warns against shadow patterns in the House of the Spirit:
 Together with **Apathy** (Gate 56) and **Malevolence** (Gate 62), Domination completes the **shadow triad of Spirit**: fragmented consciousness (Apathy), corrupted precision (Malevolence), and tyrannical authority (Domination).
 
 The practice is service: **remember that authority exists to serve**. Not abandoning leadership but remembering its purpose. Not giving up power but directing it toward liberation. The liberating soul was once capable of domination; they became servant-leader not by losing authority but by remembering whom authority serves.
+
+---
+
+## Sources
+
+This card integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate 11 mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum for Gene Key 11)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram 11 - Peace)
+- *The Window* system structure: Original synthesis integrating these traditions within the Six Houses framework
 
 ---
 

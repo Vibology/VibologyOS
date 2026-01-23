@@ -3,6 +3,9 @@ tags: [the-window, house-card, gate-1, hexagram-1, stars, mastery, positive]
 system: The Window
 date_created: 2026-01-18
 date_updated: 2026-01-19
+source: Multi-system synthesis
+source_verified: synthesis
+verification_date: 2026-01-23
 tier: House Card
 gate: 1
 hexagram: 1 (The Creative)
@@ -115,6 +118,16 @@ Together, these form the **healthy mastery foundation of the Stars**: creative d
 Vision is the antidote to the Stars' shadow states—particularly meaningless achievement and scattered effort. When you have clear creative direction, **mastery becomes meaningful**. When you see what you're working toward, discipline becomes freedom and perseverance becomes devotion. Vision transforms the pursuit of excellence from ego project into soul expression.
 
 The practice is clarification: **see what you specifically are here to contribute**. Not generic achievement but unique expression. Not mere competence but creative direction that makes competence meaningful. Vision doesn't require extraordinary talent; it requires honest perception of your particular calling and the courage to follow it.
+
+---
+
+## Sources
+
+This card integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate 11 mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum for Gene Key 11)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram 11 - Peace)
+- *The Window* system structure: Original synthesis integrating these traditions within the Six Houses framework
 
 ---
 

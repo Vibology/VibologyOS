@@ -3,6 +3,9 @@ tags: [the-window, house-card, gate-4, hexagram-4, chronicle, narrative, intoler
 system: The Window
 date_created: 2026-01-18
 date_updated: 2026-01-19
+source: Multi-system synthesis
+source_verified: synthesis
+verification_date: 2026-01-23
 tier: House Card
 gate: 4
 hexagram: 4 (Youthful Folly)
@@ -111,6 +114,16 @@ This card warns against shadow patterns in the House of the Chronicle:
 Together with **Bitterness** (Gate 52) and **Despair** (Gate 47), Hatred completes the shadow triad of Chronicle: narratives frozen in resentment, collapsed through exhaustion, or poisoned by intolerance. Each represents a different failure mode of the metanarrative.
 
 The practice for healing Hatred is **remembering your own ignorance and extending the compassion you needed then**. The hateful soul must reconnect to their own history of not-knowing—the times they were confused, the times they failed, the times they needed patience rather than judgment. This memory softens intolerance into understanding: you cannot sustain hatred for what you have been, and you have been everything you now condemn.
+
+---
+
+## Sources
+
+This card integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate 11 mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum for Gene Key 11)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram 11 - Peace)
+- *The Window* system structure: Original synthesis integrating these traditions within the Six Houses framework
 
 ---
 

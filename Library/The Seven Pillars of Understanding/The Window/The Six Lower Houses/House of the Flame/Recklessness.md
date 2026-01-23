@@ -3,6 +3,9 @@ tags: [the-window, house-card, gate-61, hexagram-61, flame, fire, psychosis, sha
 system: The Window
 date_created: 2026-01-18
 date_updated: 2026-01-19
+source: Multi-system synthesis
+source_verified: synthesis
+verification_date: 2026-01-23
 tier: House Card
 gate: 61
 hexagram: 61 (Inner Truth)
@@ -114,6 +117,16 @@ This card warns against shadow patterns in the House of the Flame:
 Together with **Aggression** (Gate 5) and **Violence** (Gate 51), Recklessness completes the shadow triad of Flame: fires that burn without rhythm, without inspiration, without center. Each represents a different failure mode of vital force.
 
 The practice for healing Recklessness is **cultivating tolerance for mystery through grounded presence**. The reckless soul must learn to sit with not knowing—to discover that the void is not enemy but teacher, that pressure can be held without discharge, that inspiration arrives in its own timing when the ground is prepared. This requires acknowledging that action-as-escape accomplishes nothing, that flight from mystery leads only to more mystery, and that genuine guidance emerges from willingness to wait.
+
+---
+
+## Sources
+
+This card integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate 11 mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum for Gene Key 11)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram 11 - Peace)
+- *The Window* system structure: Original synthesis integrating these traditions within the Six Houses framework
 
 ---
 

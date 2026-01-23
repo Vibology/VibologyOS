@@ -3,6 +3,9 @@ tags: [the-window, house-card, gate-56, hexagram-56, spirit, consciousness, nega
 system: The Window
 date_created: 2026-01-18
 date_updated: 2026-01-19
+source: Multi-system synthesis
+source_verified: synthesis
+verification_date: 2026-01-23
 tier: House Card
 gate: 56
 hexagram: 56 (The Wanderer)
@@ -114,6 +117,16 @@ This card warns against shadow patterns in the House of the Spirit:
 Together with **Malevolence** (Gate 62) and **Domination** (Gate 45), Apathy forms the **shadow triad of Spirit**: fragmented consciousness (Apathy), corrupted precision (Malevolence), and tyrannical authority (Domination).
 
 The practice is presence: **slow down and let something nourish you**. Not consuming more but integrating what you consume. Not seeking novel stimulation but allowing depth with what's already here. The enriched soul was once apathetic; they became present not by finding better content but by bringing better attention to whatever content was before them.
+
+---
+
+## Sources
+
+This card integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate 11 mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum for Gene Key 11)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram 11 - Peace)
+- *The Window* system structure: Original synthesis integrating these traditions within the Six Houses framework
 
 ---
 

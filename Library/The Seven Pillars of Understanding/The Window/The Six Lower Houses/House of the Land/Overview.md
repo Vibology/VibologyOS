@@ -2,6 +2,9 @@
 tags: [the-window, house, land, earth, stability]
 system: The Window
 date_created: 2026-01-18
+source: Multi-system synthesis
+source_verified: synthesis
+verification_date: 2026-01-23
 tier: House
 element: Earth
 domain: Physical/Material Groundedness
@@ -141,6 +144,16 @@ Ground yourself. Return to the body. Establish stable foundation through practic
 - **Land + Chronicle:** Making narrative concrete; building structure for story; risk of calcified belief
 - **Land + Spirit:** Incarnating consciousness; embodying awareness; bridging matter and spirit
 - **Land + Stars:** Practical mastery; grounded achievement; competence without pride
+
+---
+
+## Sources
+
+This card integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate 11 mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum for Gene Key 11)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram 11 - Peace)
+- *The Window* system structure: Original synthesis integrating these traditions within the Six Houses framework
 
 ---
 

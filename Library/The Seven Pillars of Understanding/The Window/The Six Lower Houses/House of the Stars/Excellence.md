@@ -3,6 +3,9 @@ tags: [the-window, house-card, gate-14, hexagram-14, stars, mastery, positive]
 system: The Window
 date_created: 2026-01-18
 date_updated: 2026-01-19
+source: Multi-system synthesis
+source_verified: synthesis
+verification_date: 2026-01-23
 tier: House Card
 gate: 14
 hexagram: 14 (Possession in Great Measure)
@@ -115,6 +118,16 @@ Together, these form the **healthy mastery foundation of the Stars**: competent 
 Excellence is the antidote to the Stars' shadow states—particularly compromise and self-doubt. When you develop genuine competence, **confidence follows naturally**. When you build real skill, you don't need to inflate ego (Pride) or freeze in perfectionism (Stagnation) or collapse in defeat (Resignation). Excellence earned through honest work requires no defense.
 
 The practice is straightforward: **become genuinely good at what you do**. Not as performance, not for validation, but because mastery itself is the reward. Resources follow competence; reputation follows skill; material abundance follows genuine value creation.
+
+---
+
+## Sources
+
+This card integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate 11 mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum for Gene Key 11)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram 11 - Peace)
+- *The Window* system structure: Original synthesis integrating these traditions within the Six Houses framework
 
 ---
 

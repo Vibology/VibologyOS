@@ -3,6 +3,9 @@ tags: [the-window, house-card, gate-38, hexagram-38, stars, mastery, positive]
 system: The Window
 date_created: 2026-01-18
 date_updated: 2026-01-19
+source: Multi-system synthesis
+source_verified: synthesis
+verification_date: 2026-01-23
 tier: House Card
 gate: 38
 hexagram: 38 (Opposition)
@@ -115,6 +118,16 @@ Together, these form the **healthy mastery foundation of the Stars**: enduring e
 Perseverance is the antidote to the Stars' shadow states—particularly premature surrender and comfortable mediocrity. When you're willing to fight through difficulty, **mastery becomes possible**. When you honor the struggle, what you achieve is truly earned. Perseverance transforms setback from defeat into feedback, opposition from enemy into teacher.
 
 The practice is endurance: **continue fighting for what matters with integrity**. Not blind stubbornness but strategic persistence. Not performing struggle but engaging opposition skillfully. Honor the difficulty; don't pretend it's not hard. But don't surrender either. The master was once a beginner who refused to quit.
+
+---
+
+## Sources
+
+This card integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate 11 mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum for Gene Key 11)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram 11 - Peace)
+- *The Window* system structure: Original synthesis integrating these traditions within the Six Houses framework
 
 ---
 

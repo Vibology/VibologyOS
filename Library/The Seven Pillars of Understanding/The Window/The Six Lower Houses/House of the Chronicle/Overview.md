@@ -2,6 +2,9 @@
 tags: [the-window, house, chronicle, narrative, metanarrative]
 system: The Window
 date_created: 2026-01-18
+source: Multi-system synthesis
+source_verified: synthesis
+verification_date: 2026-01-23
 tier: House
 element: None (Narrative/Metanarrative)
 domain: Story & Meaning Across Time
@@ -150,6 +153,16 @@ Step back from immediacy to see the arc. What story are you living? Does it serv
 - **Chronicle + Flame:** Adventure as narrative; meaning through risk; story shaped by action
 - **Chronicle + Spirit:** Consciousness examining its own narrative; awareness of the story-maker
 - **Chronicle + Stars:** Achievement shaped by belief; excellence serving ideal; mastery through virtue
+
+---
+
+## Sources
+
+This card integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate 11 mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum for Gene Key 11)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram 11 - Peace)
+- *The Window* system structure: Original synthesis integrating these traditions within the Six Houses framework
 
 ---
 

@@ -3,6 +3,9 @@ tags: [the-window, house-card, gate-54, hexagram-54, sea, water, ambition, shado
 system: The Window
 date_created: 2026-01-18
 date_updated: 2026-01-19
+source: Multi-system synthesis
+source_verified: synthesis
+verification_date: 2026-01-23
 tier: House Card
 gate: 54
 hexagram: 54 (The Marrying Maiden)
@@ -112,6 +115,16 @@ This card stands in direct opposition to Sea's positive attributes:
 - **Compassion** (Gate 13) - Envy prevents empathy by creating competition rather than connection
 
 The antidote to Envy is **Gratitude**—returning to appreciation for your actual emotional capacity, honoring your real connections, recognizing that comparison is illusion. Envy dissolves when you stop measuring your heart against external standards and start **living from authentic desire** rather than comparative lack.
+
+---
+
+## Sources
+
+This card integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate 11 mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum for Gene Key 11)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram 11 - Peace)
+- *The Window* system structure: Original synthesis integrating these traditions within the Six Houses framework
 
 ---
 

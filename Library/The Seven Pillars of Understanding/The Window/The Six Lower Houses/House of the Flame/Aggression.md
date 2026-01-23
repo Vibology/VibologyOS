@@ -3,6 +3,9 @@ tags: [the-window, house-card, gate-5, hexagram-5, flame, fire, impatience, shad
 system: The Window
 date_created: 2026-01-18
 date_updated: 2026-01-19
+source: Multi-system synthesis
+source_verified: synthesis
+verification_date: 2026-01-23
 tier: House Card
 gate: 5
 hexagram: 5 (Waiting)
@@ -114,6 +117,16 @@ This card warns against shadow patterns in the House of the Flame:
 Together with **Recklessness** (Gate 61) and **Violence** (Gate 51), Aggression completes the shadow triad of Flame: fires that burn without rhythm, without inspiration, without center. Each represents a different failure mode of vital force.
 
 The practice for healing Aggression is **rhythm restoration through active waiting**. The aggressive soul must learn to feel cycles again—to recognize when the body needs rest, when the project needs gestation, when forcing will break what patience would complete. This requires acknowledging that impatience is not strength but fear, that overriding timing is not productivity but destruction, and that sustainable vitality comes from honored rhythm.
+
+---
+
+## Sources
+
+This card integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate 11 mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum for Gene Key 11)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram 11 - Peace)
+- *The Window* system structure: Original synthesis integrating these traditions within the Six Houses framework
 
 ---
 

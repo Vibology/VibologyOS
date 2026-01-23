@@ -3,6 +3,9 @@ tags: [the-window, house-card, gate-60, hexagram-60, stars, mastery, positive]
 system: The Window
 date_created: 2026-01-18
 date_updated: 2026-01-19
+source: Multi-system synthesis
+source_verified: synthesis
+verification_date: 2026-01-23
 tier: House Card
 gate: 60
 hexagram: 60 (Limitation)
@@ -115,6 +118,16 @@ Together, these form the **healthy mastery foundation of the Stars**: focused co
 Discipline is the antidote to the Stars' shadow states—particularly scattered effort and perfectionist paralysis. When you accept appropriate limitation, **energy concentrates**. When you stop fighting against all constraint, you can leverage the constraints that serve mastery. The disciplined soul is not imprisoned but freed—freed from the exhaustion of fighting reality, freed to pour energy into actual achievement.
 
 The practice is counterintuitive: **embrace limitation to achieve liberation**. Identify the constraints that will focus your mastery. Accept them fully. Channel your energy through those boundaries rather than scattering it against them. The river cuts the canyon not by fighting against rock but by flowing persistently within it.
+
+---
+
+## Sources
+
+This card integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate 11 mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum for Gene Key 11)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram 11 - Peace)
+- *The Window* system structure: Original synthesis integrating these traditions within the Six Houses framework
 
 ---
 

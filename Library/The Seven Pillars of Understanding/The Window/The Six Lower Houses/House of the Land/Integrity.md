@@ -3,6 +3,9 @@ tags: [the-window, house-card, gate-18, hexagram-18, land, earth, correction, po
 system: The Window
 date_created: 2026-01-18
 date_updated: 2026-01-19
+source: Multi-system synthesis
+source_verified: synthesis
+verification_date: 2026-01-23
 tier: House Card
 gate: 18
 hexagram: 18 (Work on What Has Been Spoilt)
@@ -113,6 +116,16 @@ This card integrates with the other positive Land cards:
 Together, these form the **self-maintaining foundation of Land**: awareness (Stability), authenticity (Confidence), vigilance (Integrity), and mastery (Ambition). When all four operate in gift frequency, the embodied foundation sustains itself through integrated care.
 
 Integrity stands in direct opposition to **Corruption** (Gate 50 shadow)—the decay of values and structural rot. Where Corruption represents Land's foundation degraded beyond repair, Integrity is the **preventive maintenance and early intervention** that keeps corruption from taking root. Integrity practiced regularly makes Corruption impossible.
+
+---
+
+## Sources
+
+This card integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate 11 mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum for Gene Key 11)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram 11 - Peace)
+- *The Window* system structure: Original synthesis integrating these traditions within the Six Houses framework
 
 ---
 

@@ -3,6 +3,9 @@ tags: [the-window, house-card, gate-50, hexagram-50, land, earth, decay, shadow]
 system: The Window
 date_created: 2026-01-18
 date_updated: 2026-01-19
+source: Multi-system synthesis
+source_verified: synthesis
+verification_date: 2026-01-23
 tier: House Card
 gate: 50
 hexagram: 50 (The Cauldron)
@@ -113,6 +116,16 @@ This card reveals the **terminal stage of Land's shadow sequence**:
 The antidote is found in **Integrity** (Gate 18)—the vigilant correction that addresses decay before it becomes corruption. Gate 18 is the preventive maintenance; Corruption is what emerges when that maintenance is neglected until rot is systemic.
 
 Recovery from Corruption requires more than correction—it demands **complete restoration**: purification of values, rehabilitation of foundation, reclaiming of custodial responsibility. This is the hardest work of Land, but also the most sacred—because the vessel, once purified, holds nourishment more precious for having been nearly lost.
+
+---
+
+## Sources
+
+This card integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate 11 mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum for Gene Key 11)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram 11 - Peace)
+- *The Window* system structure: Original synthesis integrating these traditions within the Six Houses framework
 
 ---
 
