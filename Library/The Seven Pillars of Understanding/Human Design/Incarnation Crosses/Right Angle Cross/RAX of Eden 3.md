@@ -11,7 +11,7 @@ quarter_realm: Jupiter
 theme: Purpose fulfilled through Bonding
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 6/36/12/11 | Quarter of Duality
 
 ### Ra's Keynote
-> "People who use their experience with conflict and crisis to hold the bond of intimacy together; gaining experience through loss of innocence."
+> "People who use their experience with conflict and crisis to hold the bond of intimacy together; gaining experience through loss of innocence."[^1]
 
 ---
 
@@ -111,6 +111,12 @@ The Eden (3) archetype poses the eternal question: "Can love survive the truth?"
 - [[Incarnation Crosses Overview]]
 - [[Solar Plexus Center]]
 - [[Quarter of Duality]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

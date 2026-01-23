@@ -11,7 +11,7 @@ quarter_realm: Alcyone
 theme: Purpose fulfilled through Mind
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 42/32/60/56 | Quarter of Initiation
 
 ### Ra's Keynote
-> "People who know what can and cannot be completed and understand the need to accept limitation in order to insure material success; limitation creates the boundaries that hold our universe together."
+> "People who know what can and cannot be completed and understand the need to accept limitation in order to insure material success; limitation creates the boundaries that hold our universe together."[^1]
 
 ---
 
@@ -124,6 +124,12 @@ The 5/1, 5/2, 6/2, and 6/3 profiles associated with Left Angle Crosses bring the
 - [[Tribal Ego Circuit]]
 - [[Individual Knowing Circuit]]
 - [[Left Angle Cross - Trans-Personal Destiny]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

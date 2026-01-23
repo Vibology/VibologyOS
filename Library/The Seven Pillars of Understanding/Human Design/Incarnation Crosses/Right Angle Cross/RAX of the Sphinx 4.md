@@ -11,7 +11,7 @@ quarter_realm: Sirius
 theme: Purpose fulfilled through Transformation
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 1/2/7/13 | Quarter of Mutation
 
 ### Ra's Keynote
-> "Creative individuals trying to build a legacy to immortalize their own direction; maintaining a mutative direction through example."
+> "Creative individuals trying to build a legacy to immortalize their own direction; maintaining a mutative direction through example."[^1]
 
 ---
 
@@ -111,6 +111,12 @@ The Sphinx (4) poses the eternal question: "What will endure beyond me?" The ans
 - [[Incarnation Crosses Overview]]
 - [[G Center]]
 - [[Quarter of Mutation]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

@@ -11,7 +11,7 @@ quarter_realm: Alcyone
 theme: Purpose fulfilled through Mind
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 17/18/38/39 | Quarter of Initiation
 
 ### Ra's Keynote
-> "Great button pushers; always sticking their finger in the pie to disturb the status quo in preparation for corrections needed to redirect humanity in healthy directions."
+> "Great button pushers; always sticking their finger in the pie to disturb the status quo in preparation for corrections needed to redirect humanity in healthy directions."[^1]
 
 ---
 
@@ -120,6 +120,12 @@ The purpose of the upheaval is clear: "to redirect humanity in healthy direction
 - [[Quarter of Initiation]]
 - [[Collective Logic Circuit]]
 - [[Individual Knowing Circuit]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

@@ -11,7 +11,7 @@ quarter_realm: Alcyone
 theme: Purpose fulfilled through Mind
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 22/47/26/45 | Quarter of Initiation
 
 ### Ra's Keynote
-> "People with a natural sense of position who rule with a grace for listening; their greatest responsibility is to educate those in their kingdom."
+> "People with a natural sense of position who rule with a grace for listening; their greatest responsibility is to educate those in their kingdom."[^1]
 
 ---
 
@@ -116,6 +116,12 @@ Alcyone's influence suggests leadership that illuminates: the graceful ruler bri
 - [[Heart Center]]
 - [[Throat Center]]
 - [[Quarter of Initiation]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

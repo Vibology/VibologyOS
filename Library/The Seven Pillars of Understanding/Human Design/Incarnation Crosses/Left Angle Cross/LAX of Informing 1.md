@@ -11,7 +11,7 @@ quarter_realm: Alcyone
 theme: Purpose fulfilled through Mind
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 22/47/11/12 | Quarter of Initiation
 
 ### Ra's Keynote
-> "People who mutate others as they use their gift of articulation to inform everyone of what is new and different; mutating through teaching what is new."
+> "People who mutate others as they use their gift of articulation to inform everyone of what is new and different; mutating through teaching what is new."[^1]
 
 ---
 
@@ -119,6 +119,12 @@ Ra's keynote emphasizes "mutating through teaching what is new." This is Individ
 - [[Quarter of Initiation]]
 - [[Individual Knowing Circuit]]
 - [[Collective Understanding Circuit]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

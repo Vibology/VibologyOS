@@ -11,7 +11,7 @@ quarter_realm: Alcyone
 theme: Purpose fulfilled through Mind
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 36/6/11/12 | Quarter of Initiation
 
 ### Ra's Keynote
-> "Inexperienced people looking for excitement who eventually embody wisdom and grace through the loss of innocence."
+> "Inexperienced people looking for excitement who eventually embody wisdom and grace through the loss of innocence."[^1]
 
 ---
 
@@ -111,6 +111,12 @@ The Eden archetype poses the eternal question: "What must be risked to truly kno
 - [[Incarnation Crosses Overview]]
 - [[Solar Plexus Center]]
 - [[Quarter of Initiation]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

@@ -11,7 +11,7 @@ quarter_realm: Alcyone
 theme: Purpose fulfilled through Mind
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 63/64/26/45 | Quarter of Initiation
 
 ### Ra's Keynote
-> "People whose strong intellect is powerful enough to take over in a given circumstance; capable of creating doubt and confusion in order to take dominion."
+> "People whose strong intellect is powerful enough to take over in a given circumstance; capable of creating doubt and confusion in order to take dominion."[^1]
 
 ---
 
@@ -120,6 +120,12 @@ Ra's keynote reveals the shadow potential: "capable of creating doubt and confus
 - [[Collective Logic Circuit]]
 - [[Collective Abstract Circuit]]
 - [[Tribal Ego Circuit]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

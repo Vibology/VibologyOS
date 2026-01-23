@@ -11,7 +11,7 @@ quarter_realm: Jupiter
 theme: Purpose fulfilled through Bonding
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 46/25/15/10 | Quarter of Duality
 
 ### Ra's Keynote
-> "People fully 'embodied,' alive in the body, who enjoy the physical/sensual dynamic of relationships; dedicated to living life for life's sake."
+> "People fully 'embodied,' alive in the body, who enjoy the physical/sensual dynamic of relationships; dedicated to living life for life's sake."[^1]
 
 ---
 
@@ -111,6 +111,12 @@ The Vessel of Love (3) archetype poses the eternal question: "What does love fee
 - [[Incarnation Crosses Overview]]
 - [[G Center]]
 - [[Quarter of Duality]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

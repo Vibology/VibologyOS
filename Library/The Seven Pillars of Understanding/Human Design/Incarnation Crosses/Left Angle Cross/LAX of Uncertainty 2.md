@@ -11,7 +11,7 @@ quarter_realm: Sirius
 theme: Purpose fulfilled through Transformation
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 14/8/59/55 | Quarter of Mutation
 
 ### Ra's Keynote
-> "By understanding the financial uncertainty of others, they are able to assist with providing what is needed; intimacy achieved or enhanced through providing material security."
+> "By understanding the financial uncertainty of others, they are able to assist with providing what is needed; intimacy achieved or enhanced through providing material security."[^1]
 
 ---
 
@@ -118,6 +118,12 @@ The mutation is in the exchange itself—resources given transform not just the 
 - [[Quarter of Mutation]]
 - [[Individual Knowing Circuit]]
 - [[Tribal Defense Circuit]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

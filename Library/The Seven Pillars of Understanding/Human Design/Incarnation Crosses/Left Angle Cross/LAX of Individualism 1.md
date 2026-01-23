@@ -11,7 +11,7 @@ quarter_realm: Dubhe
 theme: Purpose fulfilled through Form
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 39/38/51/57 | Quarter of Civilization
 
 ### Ra's Keynote
-> "Mutative forces that shock you with their intuitive knowing and staunch individualism, but are not easily influenced themselves."
+> "Mutative forces that shock you with their intuitive knowing and staunch individualism, but are not easily influenced themselves."[^1]
 
 ---
 
@@ -124,6 +124,12 @@ Profiles 5/1, 5/2, 6/2, and 6/3 carry this cross, each bringing their unique tra
 - [[Quarter of Civilization]]
 - [[Individual Knowing Circuit]]
 - [[Individual Centering Circuit]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

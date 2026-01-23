@@ -11,7 +11,7 @@ quarter_realm: Alcyone
 theme: Purpose fulfilled through Mind
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 21/48/38/39 | Quarter of Initiation
 
 ### Ra's Keynote
-> "Natural boundary setters who like to be in control of their environment; they can be good at policing or supervising situations."
+> "Natural boundary setters who like to be in control of their environment; they can be good at policing or supervising situations."[^1]
 
 ---
 
@@ -116,6 +116,12 @@ This is tension in service of **supervision and guidance**. The policing functio
 - [[Tribal Ego Circuit]]
 - [[Collective Logic Circuit]]
 - [[Individual Knowing Circuit]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

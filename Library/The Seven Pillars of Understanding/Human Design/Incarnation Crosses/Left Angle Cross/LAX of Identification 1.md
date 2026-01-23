@@ -11,7 +11,7 @@ quarter_realm: Dubhe
 theme: Purpose fulfilled through Form
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 16/9/63/64 | Quarter of Civilization
 
 ### Ra's Keynote
-> "People with a strong logical orientation capable of getting others to identify with, and support or underwrite, their skill or project; or to buy their stock."
+> "People with a strong logical orientation capable of getting others to identify with, and support or underwrite, their skill or project; or to buy their stock."[^1]
 
 ---
 
@@ -120,6 +120,12 @@ The Quarter of Civilization asks: "What can be built? What form can this take?" 
 - [[Quarter of Civilization]]
 - [[Collective Logic Circuit]]
 - [[Collective Abstract Circuit]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

@@ -11,7 +11,7 @@ quarter_realm: Hades
 theme: Purpose fulfilled through Transformation
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 5/35/64/63 | Quarter of Mutation
 
 ### Ra's Keynote
-> "People who create their own momentum for growth by following their own flow; consciousness as a fundamental attunement to natural rhythms."
+> "People who create their own momentum for growth by following their own flow; consciousness as a fundamental attunement to natural rhythms."[^1]
 
 ---
 
@@ -115,6 +115,12 @@ Hades' influence gives this cross depth: consciousness here is not surface aware
 - [[Throat Center]]
 - [[Head Center]]
 - [[Quarter of Mutation]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

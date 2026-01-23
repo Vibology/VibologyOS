@@ -11,7 +11,7 @@ quarter_realm: Jupiter
 theme: Purpose fulfilled through Bonding
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 64/63/45/26 | Quarter of Duality
 
 ### Ra's Keynote
-> "People whose interpretation of the past can be impactful; using information to assume positions of power or authority."
+> "People whose interpretation of the past can be impactful; using information to assume positions of power or authority."[^1]
 
 ---
 
@@ -120,6 +120,12 @@ Ra's keynote emphasizes "using information to assume positions of power or autho
 - [[Collective Abstract Circuit]]
 - [[Collective Logic Circuit]]
 - [[Tribal Ego Circuit]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

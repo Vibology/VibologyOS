@@ -11,7 +11,7 @@ quarter_realm: Sirius
 theme: Purpose fulfilled through Transformation
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 43/23/4/49 | Quarter of Mutation
 
 ### Ra's Keynote
-> "Knowing has a revolutionary quality; the root of understanding begins with efficiently and logically explaining one's insights."
+> "Knowing has a revolutionary quality; the root of understanding begins with efficiently and logically explaining one's insights."[^1]
 
 ---
 
@@ -116,6 +116,12 @@ The "root of understanding" quality suggests that this Explainer gets to the fou
 - [[Throat Center]]
 - [[Solar Plexus Center]]
 - [[Quarter of Mutation]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

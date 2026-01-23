@@ -11,7 +11,7 @@ quarter_realm: Maya
 theme: Purpose fulfilled through Form
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 12/11/36/6 | Quarter of Civilization
 
 ### Ra's Keynote
-> "Articulate, opinionated people who take the loss of innocence to the level of an art form; expressing love and crisis in poetry/music."
+> "Articulate, opinionated people who take the loss of innocence to the level of an art form; expressing love and crisis in poetry/music."[^1]
 
 ---
 
@@ -111,6 +111,12 @@ The Eden (2) archetype poses the eternal question: "How do we make suffering mea
 - [[Incarnation Crosses Overview]]
 - [[Throat Center]]
 - [[Quarter of Civilization]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

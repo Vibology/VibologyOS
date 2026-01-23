@@ -11,7 +11,7 @@ quarter_realm: Sirius
 theme: Purpose fulfilled through Transformation
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 14/8/29/30 | Quarter of Mutation
 
 ### Ra's Keynote
-> "Committed to making a potent contribution through accumulation of power/money; using resources wisely to empower humanity's growth."
+> "Committed to making a potent contribution through accumulation of power/money; using resources wisely to empower humanity's growth."[^1]
 
 ---
 
@@ -117,6 +117,12 @@ The contagion spreads through the example of power wisely wielded. Others witnes
 - [[Quarter of Mutation]]
 - [[Individual Knowing Circuit]]
 - [[Collective Abstract Circuit]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

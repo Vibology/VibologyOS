@@ -11,7 +11,7 @@ quarter_realm: Jupiter
 theme: Purpose fulfilled through Bonding
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 18/17/39/38 | Quarter of Duality
 
 ### Ra's Keynote
-> "People with a heretical view or a beguiling innocence always ready to provoke, to disturb or to challenge what isn't working; therapists who know that therapy has to be practical to work."
+> "People with a heretical view or a beguiling innocence always ready to provoke, to disturb or to challenge what isn't working; therapists who know that therapy has to be practical to work."[^1]
 
 ---
 
@@ -122,6 +122,12 @@ The emphasis on practicality is crucial: Gate 18's correction must actually work
 - [[Quarter of Duality]]
 - [[Collective Logic Circuit]]
 - [[Individual Knowing Circuit]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

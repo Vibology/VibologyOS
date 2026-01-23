@@ -11,7 +11,7 @@ quarter_realm: Michael
 theme: Purpose fulfilled through Bonding
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 18/17/52/58 | Quarter of Duality
 
 ### Ra's Keynote
-> "Part of the ongoing process of correcting/perfecting archetypes (father/mother); opinions and corrections in service to humanity."
+> "Part of the ongoing process of correcting/perfecting archetypes (father/mother); opinions and corrections in service to humanity."[^1]
 
 ---
 
@@ -114,6 +114,12 @@ Gate 18's correction instinct is oriented toward **relational spoilage**—the w
 - [[Root Center]]
 - [[Quarter of Duality]]
 - [[Collective Logic Circuit]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

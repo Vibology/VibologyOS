@@ -11,7 +11,7 @@ quarter_realm: Sun/Earth
 theme: Purpose fulfilled through Bonding
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 32/42/62/61 | Quarter of Duality
 
 ### Ra's Keynote
-> "Inner knowing and detail guide their ability to properly evaluate and inspire material development, maturation, and expansion."
+> "Inner knowing and detail guide their ability to properly evaluate and inspire material development, maturation, and expansion."[^1]
 
 ---
 
@@ -114,6 +114,12 @@ The question posed: "What makes a bond worth preserving?" The answer: the spleni
 - [[Throat Center]]
 - [[Head Center]]
 - [[Quarter of Duality]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

@@ -11,7 +11,7 @@ quarter_realm: Dubhe
 theme: Purpose fulfilled through Form
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 8/14/30/29 | Quarter of Civilization
 
 ### Ra's Keynote
-> "People who lead by example and desire to contribute resources ensuring future security and wealth; a civilizing example impacting others."
+> "People who lead by example and desire to contribute resources ensuring future security and wealth; a civilizing example impacting others."[^1]
 
 ---
 
@@ -117,6 +117,12 @@ The contagion here spreads through the example of what has been constructed. Oth
 - [[Quarter of Civilization]]
 - [[Individual Knowing Circuit]]
 - [[Collective Abstract Circuit]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

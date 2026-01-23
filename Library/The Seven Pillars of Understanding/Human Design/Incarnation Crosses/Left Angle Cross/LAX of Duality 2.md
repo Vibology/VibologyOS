@@ -11,7 +11,7 @@ quarter_realm: Sirius
 theme: Purpose fulfilled through Transformation
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 34/20/40/37 | Quarter of Mutation
 
 ### Ra's Keynote
-> "People who bridge humanity's basic dilemma (duality) between Individual charisma/selfishness and communal responsibility; busyness properly aligned with loving communal support."
+> "People who bridge humanity's basic dilemma (duality) between Individual charisma/selfishness and communal responsibility; busyness properly aligned with loving communal support."[^1]
 
 ---
 
@@ -119,6 +119,12 @@ The mutation is profound: humanity has long assumed that Individual power leads 
 - [[Quarter of Mutation]]
 - [[Integration Circuit]]
 - [[Tribal Ego Circuit]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

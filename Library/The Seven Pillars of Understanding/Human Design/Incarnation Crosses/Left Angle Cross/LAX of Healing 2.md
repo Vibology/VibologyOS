@@ -11,7 +11,7 @@ quarter_realm: Jupiter
 theme: Purpose fulfilled through Bonding
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 46/25/52/58 | Quarter of Duality
 
 ### Ra's Keynote
-> "People who spontaneously heal or can be healed through contact with forces of impersonal, universal love; a rare and joyous gift that comes alive through a focused, committed connection with the other."
+> "People who spontaneously heal or can be healed through contact with forces of impersonal, universal love; a rare and joyous gift that comes alive through a focused, committed connection with the other."[^1]
 
 ---
 
@@ -120,6 +120,12 @@ The "focused, committed connection" implies that casual encounters may not activ
 - [[Quarter of Duality]]
 - [[Individual Centering Circuit]]
 - [[Collective Logic Circuit]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

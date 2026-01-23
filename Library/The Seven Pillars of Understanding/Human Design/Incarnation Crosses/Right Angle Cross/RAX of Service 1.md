@@ -11,7 +11,7 @@ quarter_realm: Alcyone
 theme: Purpose fulfilled through Mind
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 17/18/58/52 | Quarter of Initiation
 
 ### Ra's Keynote
-> "People with a logical understanding of what it means to be human, moved by dissatisfaction to focus on correcting, reorganizing, and serving humanity."
+> "People with a logical understanding of what it means to be human, moved by dissatisfaction to focus on correcting, reorganizing, and serving humanity."[^1]
 
 ---
 
@@ -114,6 +114,12 @@ This is service rooted in **comprehension**: understanding what it means to be h
 - [[Root Center]]
 - [[Quarter of Initiation]]
 - [[Collective Logic Circuit]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

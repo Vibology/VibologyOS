@@ -11,7 +11,7 @@ quarter_realm: Dubhe
 theme: Purpose fulfilled through Form
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 33/19/24/44 | Quarter of Civilization
 
 ### Ra's Keynote
-> "People who retreat to reflect on experience before sharing insights/memories; need to enclose oneself in the sanctity of one's own realm."
+> "People who retreat to reflect on experience before sharing insights/memories; need to enclose oneself in the sanctity of one's own realm."[^1]
 
 ---
 
@@ -118,6 +118,12 @@ The Four Ways (2) poses the eternal question: "What becomes of experience when g
 - [[Ajna Center]]
 - [[Spleen Center]]
 - [[Quarter of Civilization]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

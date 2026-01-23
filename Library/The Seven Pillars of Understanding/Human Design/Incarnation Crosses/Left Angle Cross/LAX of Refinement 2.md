@@ -11,7 +11,7 @@ quarter_realm: Sirius
 theme: Purpose fulfilled through Transformation
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 19/33/1/2 | Quarter of Mutation
 
 ### Ra's Keynote
-> "People who understand that one's proper direction (alignment) is something of great beauty which satisfies their needs, refines their whole experience of life and leads to the fulfillment of their purpose."
+> "People who understand that one's proper direction (alignment) is something of great beauty which satisfies their needs, refines their whole experience of life and leads to the fulfillment of their purpose."[^1]
 
 ---
 
@@ -124,6 +124,12 @@ The "fulfillment of purpose" Ra mentions is not separate from the beauty—they 
 - [[Tribal Ego Circuit]]
 - [[Collective Abstract Circuit]]
 - [[Individual Knowing Circuit]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

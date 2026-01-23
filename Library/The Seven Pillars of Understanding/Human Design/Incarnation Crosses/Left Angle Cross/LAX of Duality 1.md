@@ -11,7 +11,7 @@ quarter_realm: Dubhe
 theme: Purpose fulfilled through Form
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 20/34/37/40 | Quarter of Civilization
 
 ### Ra's Keynote
-> "People who impress others with and find fulfillment in their busyness and industry; bargaining that creates bridging and mutually beneficial associations."
+> "People who impress others with and find fulfillment in their busyness and industry; bargaining that creates bridging and mutually beneficial associations."[^1]
 
 ---
 
@@ -121,6 +121,12 @@ The duality is not contradiction—it is synthesis. The individual is simultaneo
 - [[Quarter of Civilization]]
 - [[Integration Circuit]]
 - [[Tribal Ego Circuit]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

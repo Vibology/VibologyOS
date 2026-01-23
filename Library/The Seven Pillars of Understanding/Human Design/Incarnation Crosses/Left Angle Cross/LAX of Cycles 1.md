@@ -11,7 +11,7 @@ quarter_realm: Dubhe
 theme: Purpose fulfilled through Form
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 53/54/42/32 | Quarter of Civilization
 
 ### Ra's Keynote
-> "Capable people who can bring a cycle of transformation to maturation as achievement, and understand that the only thing that endures is change."
+> "Capable people who can bring a cycle of transformation to maturation as achievement, and understand that the only thing that endures is change."[^1]
 
 ---
 
@@ -124,6 +124,12 @@ Profiles 5/1, 5/2, 6/2, and 6/3 carry this cross, each bringing their unique tra
 - [[Quarter of Civilization]]
 - [[Collective Abstract Circuit]]
 - [[Tribal Ego Circuit]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

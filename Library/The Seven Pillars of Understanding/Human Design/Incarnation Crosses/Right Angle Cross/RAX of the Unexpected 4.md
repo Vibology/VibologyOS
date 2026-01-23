@@ -11,7 +11,7 @@ quarter_realm: Pluto
 theme: Purpose fulfilled through Transformation
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 41/31/28/27 | Quarter of Mutation
 
 ### Ra's Keynote
-> "Unexpectedly thrust into leadership; initiating or influencing others by setting trends in caring or finding purpose."
+> "Unexpectedly thrust into leadership; initiating or influencing others by setting trends in caring or finding purpose."[^1]
 
 ---
 
@@ -114,6 +114,12 @@ The Mutation context asks: "What unexpected leadership must emerge to transform 
 - [[Spleen Center]]
 - [[Sacral Center]]
 - [[Quarter of Mutation]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

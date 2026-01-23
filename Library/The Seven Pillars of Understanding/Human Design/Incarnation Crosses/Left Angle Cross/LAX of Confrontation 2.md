@@ -11,7 +11,7 @@ quarter_realm: Sirius
 theme: Purpose fulfilled through Transformation
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 26/45/6/36 | Quarter of Mutation
 
 ### Ra's Keynote
-> "People with grace and a sense of (personal) justice who will confront authority to institute their own rulership; powerful ego forces reluctant to change."
+> "People with grace and a sense of (personal) justice who will confront authority to institute their own rulership; powerful ego forces reluctant to change."[^1]
 
 ---
 
@@ -123,6 +123,12 @@ The Quarter of Mutation asks: "What needs to change? What can be transformed?" F
 - [[Tribal Ego Circuit]]
 - [[Tribal Defense Circuit]]
 - [[Collective Abstract Circuit]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

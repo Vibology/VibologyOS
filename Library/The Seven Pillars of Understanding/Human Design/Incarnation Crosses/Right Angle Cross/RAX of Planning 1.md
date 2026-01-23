@@ -11,7 +11,7 @@ quarter_realm: Alcyone
 theme: Purpose fulfilled through Mind
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 37/40/9/16 | Quarter of Initiation
 
 ### Ra's Keynote
-> "Focused on bargaining skills to build and maintain institutions which support communal living; bonding to create something greater than themselves."
+> "Focused on bargaining skills to build and maintain institutions which support communal living; bonding to create something greater than themselves."[^1]
 
 ---
 
@@ -114,6 +114,12 @@ The initiatory quality demands that planning begin with clear thinking. Planning
 - [[Sacral Center]]
 - [[Throat Center]]
 - [[Quarter of Initiation]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

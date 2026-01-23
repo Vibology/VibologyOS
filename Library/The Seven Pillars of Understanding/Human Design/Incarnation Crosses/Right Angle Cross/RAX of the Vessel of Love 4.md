@@ -11,7 +11,7 @@ quarter_realm: Hades
 theme: Purpose fulfilled through Transformation
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 10/15/46/25 | Quarter of Mutation
 
 ### Ra's Keynote
-> "Engaging in enriching, individuating behaviors; pushing the world toward love by being fully themselves and loving their difference."
+> "Engaging in enriching, individuating behaviors; pushing the world toward love by being fully themselves and loving their difference."[^1]
 
 ---
 
@@ -111,6 +111,12 @@ The Vessel of Love (4) archetype poses the eternal question: "How do we change t
 - [[Incarnation Crosses Overview]]
 - [[G Center]]
 - [[Quarter of Mutation]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

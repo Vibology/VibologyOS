@@ -11,7 +11,7 @@ quarter_realm: Alcyone
 theme: Purpose fulfilled through Mind
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 27/28/41/31 | Quarter of Initiation
 
 ### Ra's Keynote
-> "People naturally initiated by the unexpected toward a new series of experiences which ultimately nourish and expand their intelligence."
+> "People naturally initiated by the unexpected toward a new series of experiences which ultimately nourish and expand their intelligence."[^1]
 
 ---
 
@@ -114,6 +114,12 @@ The Initiation context asks: "What unexpected experiences must initiate us towar
 - [[Root Center]]
 - [[Throat Center]]
 - [[Quarter of Initiation]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

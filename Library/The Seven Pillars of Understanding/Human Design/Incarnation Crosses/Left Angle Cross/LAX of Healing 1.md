@@ -11,7 +11,7 @@ quarter_realm: Alcyone
 theme: Purpose fulfilled through Mind
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 25/46/58/52 | Quarter of Initiation
 
 ### Ra's Keynote
-> "People focused on maintaining the joy (quality) of life through the love of being alive in a healthy body; they are here to heal or to be healed through 'medicine'."
+> "People focused on maintaining the joy (quality) of life through the love of being alive in a healthy body; they are here to heal or to be healed through 'medicine'."[^1]
 
 ---
 
@@ -118,6 +118,12 @@ The "medicine" in Ra's keynote encompasses all forms of healing intervention—p
 - [[Quarter of Initiation]]
 - [[Individual Centering Circuit]]
 - [[Collective Logic Circuit]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

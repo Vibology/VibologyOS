@@ -11,7 +11,7 @@ quarter_realm: Jupiter
 theme: Purpose fulfilled through Form
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 45/26/22/47 | Quarter of Civilization
 
 ### Ra's Keynote
-> "People who are here to be offered (or exercise) power; translates to the boardrooms of the corporate world."
+> "People who are here to be offered (or exercise) power; translates to the boardrooms of the corporate world."[^1]
 
 ---
 
@@ -116,6 +116,12 @@ Jupiter's expansive influence amplifies the scope: these rulers build large, gat
 - [[Solar Plexus Center]]
 - [[Ajna Center]]
 - [[Quarter of Civilization]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

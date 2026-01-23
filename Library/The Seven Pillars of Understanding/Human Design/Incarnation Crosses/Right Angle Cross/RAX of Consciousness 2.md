@@ -11,7 +11,7 @@ quarter_realm: Jupiter
 theme: Purpose fulfilled through Form
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 35/5/63/64 | Quarter of Civilization
 
 ### Ra's Keynote
-> "People who have 'been there, done that' and want you to join them; always ready to explore a new way to do things."
+> "People who have 'been there, done that' and want you to join them; always ready to explore a new way to do things."[^1]
 
 ---
 
@@ -115,6 +115,12 @@ Jupiter's expansive influence fits perfectly: these are individuals who expand c
 - [[Sacral Center]]
 - [[Head Center]]
 - [[Quarter of Civilization]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

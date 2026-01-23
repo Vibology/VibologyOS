@@ -11,7 +11,7 @@ quarter_realm: Alcyone
 theme: Purpose fulfilled through Mind
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 21/48/54/53 | Quarter of Initiation
 
 ### Ra's Keynote
-> "Ambitious agents of change who endeavor to bring together people with depth who are focused on exploring new horizons in order to develop communal, business, or scientific structures."
+> "Ambitious agents of change who endeavor to bring together people with depth who are focused on exploring new horizons in order to develop communal, business, or scientific structures."[^1]
 
 ---
 
@@ -123,6 +123,12 @@ The endeavors Ra describes—"communal, business, or scientific structures"—al
 - [[Tribal Ego Circuit]]
 - [[Collective Understanding Circuit]]
 - [[Collective Sensing Circuit]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

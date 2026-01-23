@@ -11,7 +11,7 @@ quarter_realm: Jupiter
 theme: Purpose fulfilled through Form
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 56/60/3/50 | Quarter of Civilization
 
 ### Ra's Keynote
-> "Effective storytellers who stimulate others with idealistic opinions and beliefs; magic spun around promises and dreams."
+> "Effective storytellers who stimulate others with idealistic opinions and beliefs; magic spun around promises and dreams."[^1]
 
 ---
 
@@ -114,6 +114,12 @@ The Civilization context asks: "What stories must we tell to build enduring form
 - [[Sacral Center]]
 - [[Spleen Center]]
 - [[Quarter of Civilization]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

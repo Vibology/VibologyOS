@@ -11,7 +11,7 @@ quarter_realm: Jupiter
 theme: Purpose fulfilled through Bonding
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 47/22/12/11 | Quarter of Duality
 
 ### Ra's Keynote
-> "People with social skills who use the past to inspire, to turn people's attention toward the plight of those who are oppressed; this is informing as an art."
+> "People with social skills who use the past to inspire, to turn people's attention toward the plight of those who are oppressed; this is informing as an art."[^1]
 
 ---
 
@@ -119,6 +119,12 @@ Ra's keynote emphasizes "turning people's attention toward the plight of those w
 - [[Quarter of Duality]]
 - [[Collective Understanding Circuit]]
 - [[Individual Knowing Circuit]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

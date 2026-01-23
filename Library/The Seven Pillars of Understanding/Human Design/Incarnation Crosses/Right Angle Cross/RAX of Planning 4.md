@@ -11,7 +11,7 @@ quarter_realm: Hades
 theme: Purpose fulfilled through Transformation
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 9/16/40/37 | Quarter of Mutation
 
 ### Ra's Keynote
-> "Enthusiasm tempered by sensibly focusing on pertinent details; great things grow when all aspects are carefully considered."
+> "Enthusiasm tempered by sensibly focusing on pertinent details; great things grow when all aspects are carefully considered."[^1]
 
 ---
 
@@ -114,6 +114,12 @@ The mutative quality demands that planning serve genuine change. Planning poses 
 - [[Heart Center]]
 - [[Solar Plexus Center]]
 - [[Quarter of Mutation]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

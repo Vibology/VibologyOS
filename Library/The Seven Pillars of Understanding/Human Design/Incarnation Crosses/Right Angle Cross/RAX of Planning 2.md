@@ -11,7 +11,7 @@ quarter_realm: Maya
 theme: Purpose fulfilled through Form
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 16/9/37/40 | Quarter of Civilization
 
 ### Ra's Keynote
-> "Enthusiastic people who identify with detailed solutions or the 'right work,' finding a logical way to express progress and mastery."
+> "Enthusiastic people who identify with detailed solutions or the 'right work,' finding a logical way to express progress and mastery."[^1]
 
 ---
 
@@ -114,6 +114,12 @@ The civilizing quality demands that planning produce results. Planning poses the
 - [[Solar Plexus Center]]
 - [[Heart Center]]
 - [[Quarter of Civilization]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

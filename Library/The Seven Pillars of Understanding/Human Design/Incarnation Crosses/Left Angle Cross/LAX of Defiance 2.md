@@ -11,7 +11,7 @@ quarter_realm: Sirius
 theme: Purpose fulfilled through Transformation
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 1/2/4/49 | Quarter of Mutation
 
 ### Ra's Keynote
-> "Individuals who attract society but are here to protect difference; the fierceness to demand non-interference in any form in order to preserve their uniqueness."
+> "Individuals who attract society but are here to protect difference; the fierceness to demand non-interference in any form in order to preserve their uniqueness."[^1]
 
 ---
 
@@ -121,6 +121,12 @@ Society needs what they carry, but society's tendency to normalize threatens it.
 - [[Individual Knowing Circuit]]
 - [[Collective Logic Circuit]]
 - [[Tribal Ego Circuit]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

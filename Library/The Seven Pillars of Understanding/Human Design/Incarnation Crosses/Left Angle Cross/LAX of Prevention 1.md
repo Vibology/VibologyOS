@@ -11,7 +11,7 @@ quarter_realm: Dubhe
 theme: Purpose fulfilled through Form
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 15/10/17/18 | Quarter of Civilization
 
 ### Ra's Keynote
-> "People who always seem to meet what doesn't work; it is a gift when used to lovingly guide society away from making the same mistakes over again."
+> "People who always seem to meet what doesn't work; it is a gift when used to lovingly guide society away from making the same mistakes over again."[^1]
 
 ---
 
@@ -122,6 +122,12 @@ Profiles 5/1, 5/2, 6/2, and 6/3 carry this cross, each bringing their unique tra
 - [[Quarter of Civilization]]
 - [[Collective Logic Circuit]]
 - [[Integration Circuit]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

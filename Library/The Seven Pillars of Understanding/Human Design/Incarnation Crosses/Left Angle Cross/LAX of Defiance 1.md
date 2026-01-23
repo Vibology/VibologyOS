@@ -11,7 +11,7 @@ quarter_realm: Dubhe
 theme: Purpose fulfilled through Form
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 2/1/49/4 | Quarter of Civilization
 
 ### Ra's Keynote
-> "People who always seem to defy the Collective's general direction by following their own; the ability to move others away from the status quo."
+> "People who always seem to defy the Collective's general direction by following their own; the ability to move others away from the status quo."[^1]
 
 ---
 
@@ -119,6 +119,12 @@ The trans-personal nature means this defiance is never just about the individual
 - [[Individual Knowing Circuit]]
 - [[Tribal Ego Circuit]]
 - [[Collective Logic Circuit]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

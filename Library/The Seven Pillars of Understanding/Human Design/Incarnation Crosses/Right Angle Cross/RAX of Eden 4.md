@@ -11,7 +11,7 @@ quarter_realm: Hades
 theme: Purpose fulfilled through Transformation
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 11/12/6/36 | Quarter of Mutation
 
 ### Ra's Keynote
-> "Philosophical orientation educating others about the nature of experience and emotions, perhaps through music or poetry."
+> "Philosophical orientation educating others about the nature of experience and emotions, perhaps through music or poetry."[^1]
 
 ---
 
@@ -111,6 +111,12 @@ The Eden (4) archetype poses the eternal question: "What can we learn from the f
 - [[Incarnation Crosses Overview]]
 - [[Ajna Center]]
 - [[Quarter of Mutation]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

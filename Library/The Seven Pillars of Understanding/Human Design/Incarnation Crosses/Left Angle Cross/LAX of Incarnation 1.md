@@ -11,7 +11,7 @@ quarter_realm: Alcyone
 theme: Purpose fulfilled through Mind
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 24/44/13/7 | Quarter of Initiation
 
 ### Ra's Keynote
-> "People with a particular connection to both the past and future who can deeply impact your direction—when properly aligned to their own geometry."
+> "People with a particular connection to both the past and future who can deeply impact your direction—when properly aligned to their own geometry."[^1]
 
 ---
 
@@ -125,6 +125,12 @@ The 5/1, 5/2, 6/2, and 6/3 profiles associated with Left Angle Crosses bring the
 - [[Collective Sharing Circuit]]
 - [[Collective Logic Circuit]]
 - [[Left Angle Cross - Trans-Personal Destiny]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

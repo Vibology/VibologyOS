@@ -11,7 +11,7 @@ quarter_realm: Alcyone
 theme: Purpose fulfilled through Mind
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 3/50/41/31 | Quarter of Initiation
 
 ### Ra's Keynote
-> "Altruistic, seductive, and influential people always looking for possibilities which make life better for others; seeing and re-ordering things in a new way."
+> "Altruistic, seductive, and influential people always looking for possibilities which make life better for others; seeing and re-ordering things in a new way."[^1]
 
 ---
 
@@ -126,6 +126,12 @@ The 5/1, 5/2, 6/2, and 6/3 profiles associated with Left Angle Crosses bring the
 - [[Collective Abstract Circuit]]
 - [[Collective Logic Circuit]]
 - [[Left Angle Cross - Trans-Personal Destiny]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

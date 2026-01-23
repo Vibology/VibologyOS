@@ -11,7 +11,7 @@ quarter_realm: Uriel
 theme: Purpose fulfilled through Transformation
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 58/52/18/17 | Quarter of Mutation
 
 ### Ra's Keynote
-> "Joy in the wonder of life fuels a focus on challenging the norm and perfecting the logic process through forms that serve society."
+> "Joy in the wonder of life fuels a focus on challenging the norm and perfecting the logic process through forms that serve society."[^1]
 
 ---
 
@@ -114,6 +114,12 @@ Gate 58's vitality is oriented toward **challenging the norm**. The joy isn't pa
 - [[Ajna Center]]
 - [[Quarter of Mutation]]
 - [[Collective Logic Circuit]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

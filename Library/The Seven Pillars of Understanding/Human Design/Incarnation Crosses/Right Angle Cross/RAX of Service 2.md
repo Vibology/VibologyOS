@@ -11,7 +11,7 @@ quarter_realm: Hades
 theme: Purpose fulfilled through Form
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 52/58/17/18 | Quarter of Civilization
 
 ### Ra's Keynote
-> "Logical people who have the responsibility (and fuel) to ensure that the pattern moving us toward the future is correct/corrected."
+> "Logical people who have the responsibility (and fuel) to ensure that the pattern moving us toward the future is correct/corrected."[^1]
 
 ---
 
@@ -114,6 +114,12 @@ The fuel (Gate 58) is specifically oriented toward **civilizational patterns**. 
 - [[Spleen Center]]
 - [[Quarter of Civilization]]
 - [[Collective Logic Circuit]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

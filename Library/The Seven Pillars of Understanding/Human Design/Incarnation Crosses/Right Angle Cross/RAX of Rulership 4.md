@@ -11,7 +11,7 @@ quarter_realm: Hades
 theme: Purpose fulfilled through Transformation
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 26/45/47/22 | Quarter of Mutation
 
 ### Ra's Keynote
-> "Social charm able to market themselves as leaders by combining memory and personal touch with the promise of a better tomorrow."
+> "Social charm able to market themselves as leaders by combining memory and personal touch with the promise of a better tomorrow."[^1]
 
 ---
 
@@ -116,6 +116,12 @@ Hades' influence gives this cross power: the promise of a better tomorrow carrie
 - [[Ajna Center]]
 - [[Solar Plexus Center]]
 - [[Quarter of Mutation]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

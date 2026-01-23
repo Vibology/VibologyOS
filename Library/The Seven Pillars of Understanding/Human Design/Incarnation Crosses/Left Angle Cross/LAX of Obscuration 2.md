@@ -11,7 +11,7 @@ quarter_realm: Sirius
 theme: Purpose fulfilled through Transformation
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 61/62/50/3 | Quarter of Mutation
 
 ### Ra's Keynote
-> "Individuals whose inspired knowing (the obscura of inner truth and universal principles) can bring out details about absolute and universal laws which might otherwise be missed."
+> "Individuals whose inspired knowing (the obscura of inner truth and universal principles) can bring out details about absolute and universal laws which might otherwise be missed."[^1]
 
 ---
 
@@ -125,6 +125,12 @@ The "details about absolute laws" Ra mentions are the specific articulations (Ga
 - [[Individual Knowing Circuit]]
 - [[Collective Logic Circuit]]
 - [[Tribal Defense Circuit]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

@@ -11,7 +11,7 @@ quarter_realm: Sirius
 theme: Purpose fulfilled through Transformation
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 41/31/44/24 | Quarter of Mutation
 
 ### Ra's Keynote
-> "People who seduce others with their dreams and fantasies while waiting for the unexpected moment of advantage to lead them into the promised land."
+> "People who seduce others with their dreams and fantasies while waiting for the unexpected moment of advantage to lead them into the promised land."[^1]
 
 ---
 
@@ -127,6 +127,12 @@ The "promised land" Ra mentions is the destination of the dream—not a fixed pl
 - [[Collective Logic Circuit]]
 - [[Tribal Defense Circuit]]
 - [[Individual Knowing Circuit]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

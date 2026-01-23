@@ -11,7 +11,7 @@ quarter_realm: Hades
 theme: Purpose fulfilled through Transformation
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 34/20/59/55 | Quarter of Mutation
 
 ### Ra's Keynote
-> "Great personal power and charisma busy attracting others; power and intimacy when directed by spirit serves humanity."
+> "Great personal power and charisma busy attracting others; power and intimacy when directed by spirit serves humanity."[^1]
 
 ---
 
@@ -113,6 +113,12 @@ The mutative quality demands that transformation serve something beyond the self
 - [[Throat Center]]
 - [[Solar Plexus Center]]
 - [[Quarter of Mutation]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

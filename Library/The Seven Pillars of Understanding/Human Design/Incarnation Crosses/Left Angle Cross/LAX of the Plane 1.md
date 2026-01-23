@@ -11,7 +11,7 @@ quarter_realm: Alcyone
 theme: Purpose fulfilled through Mind
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 36/6/10/15 | Quarter of Initiation
 
 ### Ra's Keynote
-> "Witnesses of the mundane plane who see the vagaries of humanity (good/bad/ugly), yet have the potential to show us something more: light, spirit, awakening, and enlightenment."
+> "Witnesses of the mundane plane who see the vagaries of humanity (good/bad/ugly), yet have the potential to show us something more: light, spirit, awakening, and enlightenment."[^1]
 
 ---
 
@@ -123,6 +123,12 @@ Ra's keynote speaks of "the vagaries of humanity (good/bad/ugly)"—this cross h
 - [[Tribal Defense Circuit]]
 - [[Integration Circuit]]
 - [[Collective Logic Circuit]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

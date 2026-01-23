@@ -11,7 +11,7 @@ quarter_realm: Kali
 theme: Purpose fulfilled through Transformation
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 19/33/44/24 | Quarter of Mutation
 
 ### Ra's Keynote
-> "Pressured by sensitivity to human/animal rights; motivated by social and spiritual forces to provide for the basic needs of others."
+> "Pressured by sensitivity to human/animal rights; motivated by social and spiritual forces to provide for the basic needs of others."[^1]
 
 ---
 
@@ -118,6 +118,12 @@ The Four Ways (4) poses the eternal question: "What does it mean to truly provid
 - [[Spleen Center]]
 - [[Ajna Center]]
 - [[Quarter of Mutation]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

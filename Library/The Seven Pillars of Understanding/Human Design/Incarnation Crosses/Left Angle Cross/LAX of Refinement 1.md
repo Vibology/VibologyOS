@@ -11,7 +11,7 @@ quarter_realm: Dubhe
 theme: Purpose fulfilled through Form
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 33/19/2/1 | Quarter of Civilization
 
 ### Ra's Keynote
-> "People who know that it is not enough to have and protect a home; life is enriched by making it beautiful. Beauty that heals."
+> "People who know that it is not enough to have and protect a home; life is enriched by making it beautiful. Beauty that heals."[^1]
 
 ---
 
@@ -124,6 +124,12 @@ The "beauty that heals" Ra mentions distinguishes this from mere decoration—th
 - [[Collective Abstract Circuit]]
 - [[Tribal Ego Circuit]]
 - [[Individual Knowing Circuit]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

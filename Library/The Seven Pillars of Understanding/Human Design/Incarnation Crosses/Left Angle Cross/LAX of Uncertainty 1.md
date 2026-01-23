@@ -11,7 +11,7 @@ quarter_realm: Dubhe
 theme: Purpose fulfilled through Form
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 8/14/55/59 | Quarter of Civilization
 
 ### Ra's Keynote
-> "People who step into the mutative uncertainty of turning energy into form; you need the right spirit and the right material resources to try."
+> "People who step into the mutative uncertainty of turning energy into form; you need the right spirit and the right material resources to try."[^1]
 
 ---
 
@@ -118,6 +118,12 @@ The teaching is clear: uncertainty requires both right spirit and right resource
 - [[Quarter of Civilization]]
 - [[Individual Knowing Circuit]]
 - [[Tribal Defense Circuit]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

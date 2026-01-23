@@ -11,7 +11,7 @@ quarter_realm: Alcyone
 theme: Purpose fulfilled through Mind
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 51/57/61/62 | Quarter of Initiation
 
 ### Ra's Keynote
-> "People who are here to shock those ready to be shocked, those who are open to mutation and prepared to accept the details of the clarion's inspiration and intuitive knowing."
+> "People who are here to shock those ready to be shocked, those who are open to mutation and prepared to accept the details of the clarion's inspiration and intuitive knowing."[^1]
 
 ---
 
@@ -126,6 +126,12 @@ Ra's phrase "prepared to accept the details" is crucial. The Clarion doesn't jus
 - [[Individual Centering Circuit]]
 - [[Individual Knowing Circuit]]
 - [[Collective Logic Circuit]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

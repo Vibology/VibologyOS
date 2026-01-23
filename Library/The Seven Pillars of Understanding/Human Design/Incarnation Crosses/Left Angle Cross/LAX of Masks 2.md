@@ -11,7 +11,7 @@ quarter_realm: Jupiter
 theme: Purpose fulfilled through Bonding
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 7/13/23/43 | Quarter of Duality
 
 ### Ra's Keynote
-> "People who are projected upon to provide practical or wise leadership, to be influential change agents; they do so best from behind a mask or title."
+> "People who are projected upon to provide practical or wise leadership, to be influential change agents; they do so best from behind a mask or title."[^1]
 
 ---
 
@@ -126,6 +126,12 @@ The trans-personal karma of this cross is worked out through partnership. The in
 - [[Profile 5/2]]
 - [[Profile 6/2]]
 - [[Profile 6/3]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

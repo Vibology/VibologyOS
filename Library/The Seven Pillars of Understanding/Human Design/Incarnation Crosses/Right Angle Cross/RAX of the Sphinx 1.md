@@ -11,7 +11,7 @@ quarter_realm: Alcyone
 theme: Purpose fulfilled through Mind
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 13/7/1/2 | Quarter of Initiation
 
 ### Ra's Keynote
-> "People with an individual direction whose unique way of remembering experiences brings a living, vibrant past into the future."
+> "People with an individual direction whose unique way of remembering experiences brings a living, vibrant past into the future."[^1]
 
 ---
 
@@ -111,6 +111,12 @@ The Sphinx poses the eternal question: "What is the purpose of remembering?" The
 - [[Incarnation Crosses Overview]]
 - [[G Center]]
 - [[Quarter of Initiation]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

@@ -4,7 +4,7 @@ system: Human Design
 date_created: 2026-01-20
 category: Overview
 source: NotebookLM Esoteric Grimoire
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -24,7 +24,7 @@ These **four gates** combine to create a cross-shaped pattern, listed in standar
 The **Personality Sun** carries the primary thematic weight and determines both the cross name and the quarter assignment.
 
 **Ra Uru Hu's Teaching:**
-> "Your Incarnation Cross is not something you do—it's something you become. You don't have to try to live your cross; if you live your Strategy and Authority, your cross lives you."
+> "Your Incarnation Cross is not something you do—it's something you become. You don't have to try to live your cross; if you live your Strategy and Authority, your cross lives you."[^1]
 
 The cross is not an active goal but an **emergent property** of living correctly. One does not "pursue" their cross—one discovers it unfolding naturally when aligned with Strategy and Authority.
 
@@ -170,6 +170,12 @@ Purpose is not something to chase. It **reveals itself** through correct living.
 - [[Strategy and Authority]]
 - [[Types]]
 - [[G Center]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

@@ -11,7 +11,7 @@ quarter_realm: Jupiter
 theme: Purpose fulfilled through Form
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 62/61/42/32 | Quarter of Civilization
 
 ### Ra's Keynote
-> "Powerful forces of education who understand that logic can transform/heal; using language to name and give form to inner truths."
+> "Powerful forces of education who understand that logic can transform/heal; using language to name and give form to inner truths."[^1]
 
 ---
 
@@ -114,6 +114,12 @@ The question posed: "How does language build form?" The answer: by giving precis
 - [[Sacral Center]]
 - [[Spleen Center]]
 - [[Quarter of Civilization]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

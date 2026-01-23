@@ -11,7 +11,7 @@ quarter_realm: Dubhe
 theme: Purpose fulfilled through Form
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 62/61/3/50 | Quarter of Civilization
 
 ### Ra's Keynote
-> "People who can use details/statistics to dazzle or obscure. Once sorted, obscure detail can lead to extraordinary discovery."
+> "People who can use details/statistics to dazzle or obscure. Once sorted, obscure detail can lead to extraordinary discovery."[^1]
 
 ---
 
@@ -125,6 +125,12 @@ The "extraordinary discovery" Ra mentions emerges when the obscure details are p
 - [[Collective Logic Circuit]]
 - [[Individual Knowing Circuit]]
 - [[Tribal Defense Circuit]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

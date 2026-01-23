@@ -11,7 +11,7 @@ quarter_realm: Jupiter
 theme: Purpose fulfilled through Bonding
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 7/13/2/1 | Quarter of Duality
 
 ### Ra's Keynote
-> "People of influence equipped to lead; sound logic and attention to the past play a key role in directing humanity toward a secure future."
+> "People of influence equipped to lead; sound logic and attention to the past play a key role in directing humanity toward a secure future."[^1]
 
 ---
 
@@ -111,6 +111,12 @@ The Sphinx (3) poses the eternal question: "What gives one the right to lead?" T
 - [[Incarnation Crosses Overview]]
 - [[G Center]]
 - [[Quarter of Duality]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

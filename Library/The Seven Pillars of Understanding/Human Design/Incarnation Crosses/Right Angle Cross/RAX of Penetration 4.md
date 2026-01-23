@@ -11,7 +11,7 @@ quarter_realm: Sirius
 theme: Purpose fulfilled through Transformation
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 54/53/57/51 | Quarter of Mutation
 
 ### Ra's Keynote
-> "People on the path from rags to riches who are recognized by those higher up the ladder; aligning with higher/mystical forces."
+> "People on the path from rags to riches who are recognized by those higher up the ladder; aligning with higher/mystical forces."[^1]
 
 ---
 
@@ -113,6 +113,12 @@ The question posed: "How does material transformation serve spiritual awakening?
 - [[Spleen Center]]
 - [[Heart Center]]
 - [[Quarter of Mutation]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

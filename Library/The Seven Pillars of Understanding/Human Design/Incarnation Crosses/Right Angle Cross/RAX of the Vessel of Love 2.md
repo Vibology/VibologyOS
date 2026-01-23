@@ -11,7 +11,7 @@ quarter_realm: Maya
 theme: Purpose fulfilled through Form
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 15/10/25/46 | Quarter of Civilization
 
 ### Ra's Keynote
-> "Naturally concerned about the welfare of humanity; by knowing their own place in the scheme of things, they bring diversity into the flow."
+> "Naturally concerned about the welfare of humanity; by knowing their own place in the scheme of things, they bring diversity into the flow."[^1]
 
 ---
 
@@ -111,6 +111,12 @@ The Vessel of Love (2) archetype poses the eternal question: "How do we love hum
 - [[Incarnation Crosses Overview]]
 - [[G Center]]
 - [[Quarter of Civilization]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

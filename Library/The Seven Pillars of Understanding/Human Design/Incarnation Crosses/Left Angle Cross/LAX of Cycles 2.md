@@ -11,7 +11,7 @@ quarter_realm: Sirius
 theme: Purpose fulfilled through Transformation
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 54/53/32/42 | Quarter of Mutation
 
 ### Ra's Keynote
-> "Ambitious people with the energy to foment transformative change for the good of individuals and nations through their dedication to the continuity that comes from fully completing each cycle."
+> "Ambitious people with the energy to foment transformative change for the good of individuals and nations through their dedication to the continuity that comes from fully completing each cycle."[^1]
 
 ---
 
@@ -124,6 +124,12 @@ Profiles 5/1, 5/2, 6/2, and 6/3 carry this cross, each bringing their unique tra
 - [[Quarter of Mutation]]
 - [[Tribal Ego Circuit]]
 - [[Collective Abstract Circuit]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

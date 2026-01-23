@@ -11,7 +11,7 @@ quarter_realm: Michael
 theme: Purpose fulfilled through Bonding
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 48/21/39/38 | Quarter of Duality
 
 ### Ra's Keynote
-> "People with innate depth who bring understanding to problems and provoke the proper skills/spirit needed for workable solutions."
+> "People with innate depth who bring understanding to problems and provoke the proper skills/spirit needed for workable solutions."[^1]
 
 ---
 
@@ -116,6 +116,12 @@ Gate 48's well of understanding is applied to **partnership and connection**. Th
 - [[Collective Logic Circuit]]
 - [[Tribal Ego Circuit]]
 - [[Individual Knowing Circuit]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

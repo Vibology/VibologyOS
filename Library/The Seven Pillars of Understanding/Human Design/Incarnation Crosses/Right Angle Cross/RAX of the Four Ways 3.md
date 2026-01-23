@@ -11,7 +11,7 @@ quarter_realm: Sirius
 theme: Purpose fulfilled through Bonding
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 44/24/33/19 | Quarter of Duality
 
 ### Ra's Keynote
-> "Tribal folks with a keen sense of smell, instinctual memory, and sensitivity to others; pondering the viability of family enterprise."
+> "Tribal folks with a keen sense of smell, instinctual memory, and sensitivity to others; pondering the viability of family enterprise."[^1]
 
 ---
 
@@ -118,6 +118,12 @@ The Four Ways (3) poses the eternal question: "What is worth the tribe's investm
 - [[Throat Center]]
 - [[Root Center]]
 - [[Quarter of Duality]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

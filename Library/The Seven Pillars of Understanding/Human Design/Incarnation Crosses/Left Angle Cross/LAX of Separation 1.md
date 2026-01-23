@@ -11,7 +11,7 @@ quarter_realm: Dubhe
 theme: Purpose fulfilled through Form
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 35/5/22/47 | Quarter of Civilization
 
 ### Ra's Keynote
-> "People with the hindsight (grace) to see the necessity of living together separately in society by embracing the diverse interpretations of experience which normally divide us."
+> "People with the hindsight (grace) to see the necessity of living together separately in society by embracing the diverse interpretations of experience which normally divide us."[^1]
 
 ---
 
@@ -122,6 +122,12 @@ The Quarter of Civilization asks: "What can be built? What form can this take?" 
 - [[Quarter of Civilization]]
 - [[Collective Abstract Circuit]]
 - [[Individual Knowing Circuit]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

@@ -11,7 +11,7 @@ quarter_realm: Kali
 theme: Purpose fulfilled through Bonding
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 40/37/16/9 | Quarter of Duality
 
 ### Ra's Keynote
-> "When support and the right bargain are in place, they possess the skills/logic to build what is needed for the community."
+> "When support and the right bargain are in place, they possess the skills/logic to build what is needed for the community."[^1]
 
 ---
 
@@ -114,6 +114,12 @@ The duality quality demands that planning honor relationship. Planning poses the
 - [[Throat Center]]
 - [[Sacral Center]]
 - [[Quarter of Duality]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

@@ -11,7 +11,7 @@ quarter_realm: Venus
 theme: Purpose fulfilled through Bonding
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 64/63/35/5 | Quarter of Duality
 
 ### Ra's Keynote
-> "People who assist others in making sense of the past by testing experience against accepted patterns, progressing toward new ways of thinking."
+> "People who assist others in making sense of the past by testing experience against accepted patterns, progressing toward new ways of thinking."[^1]
 
 ---
 
@@ -115,6 +115,12 @@ Venus's influence colors this with grace: the meaning-making is offered as gift,
 - [[Throat Center]]
 - [[Sacral Center]]
 - [[Quarter of Duality]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

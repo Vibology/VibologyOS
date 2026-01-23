@@ -11,7 +11,7 @@ quarter_realm: Jupiter
 theme: Purpose fulfilled through Bonding
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 29/30/20/34 | Quarter of Duality
 
 ### Ra's Keynote
-> "People unaware of their enormous charismatic power, who with the right commitments, can persevere and shine."
+> "People unaware of their enormous charismatic power, who with the right commitments, can persevere and shine."[^1]
 
 ---
 
@@ -125,6 +125,12 @@ The trans-personal karma of this cross is worked out through the bonds formed wi
 - [[Profile 5/2]]
 - [[Profile 6/2]]
 - [[Profile 6/3]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

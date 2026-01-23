@@ -11,7 +11,7 @@ quarter_realm: Alcyone
 theme: Purpose fulfilled through Mind
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 37/40/5/35 | Quarter of Initiation
 
 ### Ra's Keynote
-> "When the unifying project or experience is complete, they look for greener pastures to conquer the next territory/experience; the roots of progress."
+> "When the unifying project or experience is complete, they look for greener pastures to conquer the next territory/experience; the roots of progress."[^1]
 
 ---
 
@@ -121,6 +121,12 @@ The "greener pastures" in Ra's keynote are not about dissatisfaction but about e
 - [[Tribal Ego Circuit]]
 - [[Collective Logic Circuit]]
 - [[Collective Abstract Circuit]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

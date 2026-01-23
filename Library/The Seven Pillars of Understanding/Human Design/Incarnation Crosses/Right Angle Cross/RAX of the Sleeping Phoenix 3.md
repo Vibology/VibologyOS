@@ -11,7 +11,7 @@ quarter_realm: Kali
 theme: Purpose fulfilled through Bonding
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 59/55/20/34 | Quarter of Duality
 
 ### Ra's Keynote
-> "Great fertile agents busy 'making more' to ensure the future; the need for intimacy and security in bonding."
+> "Great fertile agents busy 'making more' to ensure the future; the need for intimacy and security in bonding."[^1]
 
 ---
 
@@ -113,6 +113,12 @@ The duality quality demands that transformation serve the bond. The Phoenix pose
 - [[Solar Plexus Center]]
 - [[Throat Center]]
 - [[Quarter of Duality]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

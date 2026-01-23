@@ -11,7 +11,7 @@ quarter_realm: Jupiter
 theme: Purpose fulfilled through Bonding
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 59/55/16/9 | Quarter of Duality
 
 ### Ra's Keynote
-> "The lessons of sexuality and romance become wise gifts in the lives and experiences of those who are awake and aware; transforming love/loving and sexuality through spirit."
+> "The lessons of sexuality and romance become wise gifts in the lives and experiences of those who are awake and aware; transforming love/loving and sexuality through spirit."[^1]
 
 ---
 
@@ -127,6 +127,12 @@ The trans-personal karma of this cross is worked out through sexual and romantic
 - [[Profile 5/2]]
 - [[Profile 6/2]]
 - [[Profile 6/3]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 

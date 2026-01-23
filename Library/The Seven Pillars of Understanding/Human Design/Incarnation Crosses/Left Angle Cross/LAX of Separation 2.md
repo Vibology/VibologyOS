@@ -11,7 +11,7 @@ quarter_realm: Sirius
 theme: Purpose fulfilled through Transformation
 source: NotebookLM Esoteric Grimoire
 tier: 2
-source_verified: pre-verified
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
@@ -20,7 +20,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ## Gates: 5/35/47/22 | Quarter of Mutation
 
 ### Ra's Keynote
-> "People open to love who are trying to make sense of the past by separating themselves from patterns/relationships that didn't work in order to see the beauty in the larger patterns of life."
+> "People open to love who are trying to make sense of the past by separating themselves from patterns/relationships that didn't work in order to see the beauty in the larger patterns of life."[^1]
 
 ---
 
@@ -123,6 +123,12 @@ The Quarter of Mutation asks: "What needs to change? What can be transformed?" F
 - [[Quarter of Mutation]]
 - [[Collective Abstract Circuit]]
 - [[Individual Knowing Circuit]]
+
+---
+
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
 
