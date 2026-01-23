@@ -87,7 +87,16 @@ The Portal's teaching is **trust in cycles**: winter follows harvest, silence fo
 
 When Culmination appears in a reading, the querent is being asked: what cycle are you completing? Can you gather the harvest without clinging to the field? Can you trust that return to origin is not regression but renewal? The thunder beneath earth knows: **completion is preparation**. Silence between breaths allows next inhalation. Empty ground receives new seed.
 
+## Sources
+
+This portal integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram wisdom)
+- *The Window* system structure: Original synthesis integrating these traditions within the Ten Portals framework
+
 ---
+
 ## Internal Links
 
 - [[Folklore/Jungian Archetypes/The Self]] - Integration as culmination of individuation

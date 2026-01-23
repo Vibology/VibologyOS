@@ -103,7 +103,17 @@ In Jung's work, The Trickster archetype serves as compensatory function—appear
 
 When The Joker appears in a reading, the querent is being tested: will you honor the hunger for new experience? Will you challenge established order? Will you introduce chaos knowing it will destroy what's familiar? The wild archer knows: the arrow that hits the target first had to **leave the bow**. Progress requires the courage to burn stability and leap into boundless unknown.
 
+## Sources
+
+This archetype integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram wisdom)
+- Carl Jung, *Collected Works* (Archetypal psychology and individuation)
+- *The Window* system structure: Original synthesis integrating these traditions within the Twelve Archetypes framework
+
 ---
+
 ## Internal Links
 
 - [[The Hero]] - Order vs chaos; the adversary relationship

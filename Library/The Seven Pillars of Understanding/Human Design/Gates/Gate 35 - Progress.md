@@ -301,6 +301,14 @@ The Signature of the Throat Center is **manifestation and peace**. For Gate 35 s
 
 Gate 35 teaches that **progress requires movement**. When the individual honors their hunger for aligned experience, they become a **living example** of evolutionary growth through adventure.
 
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---
+
 ## Cross-References
 
 ### Sequential Connections (Within Throat Gates)

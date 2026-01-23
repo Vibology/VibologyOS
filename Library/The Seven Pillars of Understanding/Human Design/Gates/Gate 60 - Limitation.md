@@ -303,6 +303,14 @@ The Signature of the Root Center (for all gates within it) is the experience of 
 
 Gate 60 teaches that **limitation is the doorway to mutation**. When the individual honors their pulse of constraint according to Strategy and Authority, they become a **living example** of what it means to accept boundaries as creative force, to transcend through discipline rather than denial, to evolve through the rhythm of limitation and release. This is the essence of the Individual Knowing stream—not to resist what is, but to **pulse through it toward what could be**.
 
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---
+
 ## Cross-References
 
 ### Sequential Connections (Within Root Center Gates)

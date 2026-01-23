@@ -305,6 +305,14 @@ The Signature of the Sacral Center (for Generators/MGs) is **Satisfaction**. For
 
 Gate 29 teaches that **true commitment is responsive, not obligatory**. When the individual honors their Sacral response, says yes deeply when correct, and perseveres through difficulty with sustained life force, they become a **living example** of devotion. This is the essence of the Collective Sensing Circuit—to engage deeply, learn through experience, and contribute wisdom to the collective.
 
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---
+
 ## Cross-References
 
 ### Sequential Connections (Within Sacral Gates)

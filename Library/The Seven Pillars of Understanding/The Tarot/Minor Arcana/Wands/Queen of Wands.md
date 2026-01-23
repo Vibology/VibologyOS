@@ -508,4 +508,13 @@ To honor the Queen is to honor *embodied power*, to sit in your sovereignty with
 
 ---
 
+## Sources
+
+- A.E. Waite, *The Pictorial Key to the Tarot* (1911) - Divinatory meanings
+- Golden Dawn tradition - Qabalistic correspondences, sephirothic attributions, and esoteric titles
+- Aleister Crowley, *The Book of Thoth* (1944) - Elemental dignities and deeper attributions where noted
+
+
+---
+
 *"Magnetism is not effort—it is the natural radiation of a soul that has become what it was always meant to be. Sit in your throne, Queen. You have earned it. Let the world come to you."*

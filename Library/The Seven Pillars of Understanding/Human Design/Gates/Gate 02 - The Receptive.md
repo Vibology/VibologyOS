@@ -311,6 +311,14 @@ The Signature of the G Center (for all gates within it) is the experience of **L
 
 Gate 2 teaches that **direction is not something to be found—it is something to be received**. When the individual honors their receptivity, waits for clarity, and trusts their geometry, they become a **living example** of what it means to move through life without force or seeking. This is the essence of the Individual stream—not to lead or teach, but to **empower through example**.
 
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---
+
 ## Cross-References
 
 ### Sequential Connections (Within G Center Gates)

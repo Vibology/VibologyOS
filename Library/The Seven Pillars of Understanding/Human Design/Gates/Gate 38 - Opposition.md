@@ -298,6 +298,14 @@ The Signature of correct Root Center pressure is **release and satisfaction**. F
 
 Gate 38 teaches that **opposition preserves integrity**. When the individual honors their pressure to fight only for meaning, they become a **living example** of the warrior who stands for truth.
 
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---
+
 ## Cross-References
 
 ### Sequential Connections (Within Root Gates)

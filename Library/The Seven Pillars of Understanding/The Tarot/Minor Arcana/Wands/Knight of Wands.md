@@ -510,4 +510,13 @@ To honor the Knight is to honor the *departure*, the moment of total commitment,
 
 ---
 
+## Sources
+
+- A.E. Waite, *The Pictorial Key to the Tarot* (1911) - Divinatory meanings
+- Golden Dawn tradition - Qabalistic correspondences, sephirothic attributions, and esoteric titles
+- Aleister Crowley, *The Book of Thoth* (1944) - Elemental dignities and deeper attributions where noted
+
+
+---
+
 *"The quest begins not when the map is complete, but when the horse is saddled, the wand is raised, and the horizon burns with the promise of something worth pursuing. Ride well, Knight—and may your fire light the way."*

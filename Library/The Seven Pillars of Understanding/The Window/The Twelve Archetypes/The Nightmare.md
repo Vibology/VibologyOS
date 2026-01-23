@@ -103,7 +103,17 @@ In Jung's work and in Campbell's Hero's Journey framework, the Threshold Guardia
 
 When The Nightmare appears in a reading, the querent is being tested: will you recognize obstruction as teacher? Will you turn inward rather than force through? Will you use provocation as catalyst for dynamism? The gatekeeper knows: **the threshold opens to those who demonstrate readiness, not to those who demand passage**. Do the work. Face the shadow. Earn your crossing.
 
+## Sources
+
+This archetype integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram wisdom)
+- Carl Jung, *Collected Works* (Archetypal psychology and individuation)
+- *The Window* system structure: Original synthesis integrating these traditions within the Twelve Archetypes framework
+
 ---
+
 ## Internal Links
 
 - [[The Hero]] - Journey tested by guardian

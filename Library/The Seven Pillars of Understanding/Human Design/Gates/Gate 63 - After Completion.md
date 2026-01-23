@@ -307,6 +307,14 @@ The Signature of the Head Center (for all gates within it) is the experience of 
 
 Gate 63 teaches that **doubt serves truth**. When the individual honors their pressure to question according to Strategy and Authority, they become a **living example** of what it means to verify patterns without destroying them, to doubt productively rather than cynically, to question in service to collective understanding. This is the essence of the Logic Circuit—not to believe blindly, but to **test until truth is proven**.
 
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---
+
 ## Cross-References
 
 ### Sequential Connections (Within Head Center Gates)

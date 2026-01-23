@@ -315,6 +315,14 @@ The Signature of the Ajna Center (for those with Ajna definition) is **Mental Cl
 
 Gate 4 teaches that **the mind is a beautiful tool for understanding, not for deciding**. When the individual honors their Strategy and Authority, allows mental formulas to inform without controlling, and embraces youthful folly as the natural state of learning, they become a **living example** of wisdom without rigidity. This is the essence of the Logic Circuit—not to impose understanding, but to **share patterns that serve the collective**.
 
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---
+
 ## Cross-References
 
 ### Sequential Connections (Within Ajna Gates)

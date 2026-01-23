@@ -87,7 +87,16 @@ The Portal's teaching is **trust the awakening**: when individual insight has be
 
 When Awakening appears in a reading, the querent is being asked: what knowing can you no longer contain? What truth has been fully assimilated and now demands expression? Can you speak with the metabolic certainty of the thyroid, even knowing your voice may fracture what others believe? The mountain teaches: **solidity is temporary**. All complexity eventually splits apart to reveal the simple truth that was always at the core.
 
+## Sources
+
+This portal integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram wisdom)
+- *The Window* system structure: Original synthesis integrating these traditions within the Ten Portals framework
+
 ---
+
 ## Internal Links
 
 - [[The Hierophant]] - Speaking received wisdom

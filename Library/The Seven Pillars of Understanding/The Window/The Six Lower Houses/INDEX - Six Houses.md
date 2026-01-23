@@ -179,3 +179,9 @@ The Six Houses represent **parallel domains of human experience** where the 42 H
 - Voice: Weaver persona (scholarly, evocative, numinous)
 - Length: 164-180 lines per House
 - Cross-references: All Houses link to each other and to gates
+
+## Sources
+
+This index organizes content from *The Window* synthesis framework, integrating Human Design gates, Gene Keys, and I-Ching hexagrams within the Six Houses domain structure.
+
+

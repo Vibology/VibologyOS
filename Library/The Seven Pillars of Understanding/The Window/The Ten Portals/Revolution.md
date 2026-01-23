@@ -87,7 +87,16 @@ The Portal's teaching is **trust principled upheaval**: when emotional clarity c
 
 When Revolution appears in a reading, the querent is being asked: what principle has been violated? What structure in your life no longer serves tribal law? Can you trust your emotional sensitivity to injustice enough to initiate revolutionary change? Fire teaches: **heat transforms**. The lake that was once solid form becomes vapor, becomes cloud, becomes rain that nourishes new growth. Revolution is not ending but molting—the necessary death that permits rebirth.
 
+## Sources
+
+This portal integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram wisdom)
+- *The Window* system structure: Original synthesis integrating these traditions within the Ten Portals framework
+
 ---
+
 ## Internal Links
 
 - [[The Tower]] - Violent upheaval and necessary destruction

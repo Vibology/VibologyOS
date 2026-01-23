@@ -308,6 +308,14 @@ The Signature of the Root Center (for all gates within it) is the experience of 
 
 Gate 52 teaches that **stillness is not weakness; it is wisdom**. When the individual honors their need to pause for assessment, they become a **living example** of what it means to think before acting, to restrain before regret, to wait until the pattern is clear. This is the essence of the Collective Logic stream—not to rush, but to **understand before sharing**.
 
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---
+
 ## Cross-References
 
 ### Sequential Connections (Within Root Center Gates)

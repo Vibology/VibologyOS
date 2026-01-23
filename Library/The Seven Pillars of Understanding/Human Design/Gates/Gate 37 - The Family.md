@@ -302,6 +302,14 @@ The Signature of the Solar Plexus Center is **emotional clarity over time**. For
 
 Gate 37 teaches that **friendship requires reciprocity**. When the individual honors emotional truth and creates fair bargains, they become a **living example** of equality and tenderness in relationship.
 
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---
+
 ## Cross-References
 
 ### Sequential Connections (Within Solar Plexus Gates)

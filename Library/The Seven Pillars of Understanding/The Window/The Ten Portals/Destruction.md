@@ -87,7 +87,16 @@ The Portal's teaching is **trust the doubt**: when patterns are questioned, they
 
 When Destruction appears in a reading, the querent is being asked: what pattern that seemed complete is being questioned? What achievement can you not accept without verification? Can you inquire systematically, testing without panic, allowing destruction only where it serves truth? The pineal gland teaches: **mental pressure generates verification**. Doubt is not the enemy of completion—it is the guardian of truth. What survives your questioning deserves your trust. What collapses needed to fall.
 
+## Sources
+
+This portal integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram wisdom)
+- *The Window* system structure: Original synthesis integrating these traditions within the Ten Portals framework
+
 ---
+
 ## Internal Links
 
 - [[The Tower]] - Violent necessary collapse

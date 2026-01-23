@@ -524,4 +524,13 @@ To honor the King is to honor *creative sovereignty*, to claim your authority th
 
 ---
 
+## Sources
+
+- A.E. Waite, *The Pictorial Key to the Tarot* (1911) - Divinatory meanings
+- Golden Dawn tradition - Qabalistic correspondences, sephirothic attributions, and esoteric titles
+- Aleister Crowley, *The Book of Thoth* (1944) - Elemental dignities and deeper attributions where noted
+
+
+---
+
 *"True kingship is not inherited—it is forged in the fire of vision made manifest. The world bows not to titles but to those who create, who build, who transform reality through mastery and will. Claim your throne, King. The kingdom awaits your command."*

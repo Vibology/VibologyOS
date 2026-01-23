@@ -124,4 +124,10 @@ The artistic dimension Ra emphasizes reflects the Individual circuitry: the insi
 
 ---
 
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
+
+---
+
 *"The Listener does not simply hear—they receive what the collective needs to release, and return it transformed into insight that could emerge no other way."*

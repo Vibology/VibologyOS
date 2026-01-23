@@ -109,7 +109,16 @@ Together with **Despair** (Gate 47) and **Hatred** (Gate 4), Bitterness forms th
 
 The practice for healing Bitterness is **conscious release of accumulated stress before resuming movement**. The bitter soul must process the pressure that created the freeze before the narrative can evolve. This requires acknowledging resentment rather than suppressing it, expressing what has accumulated rather than holding it further, and ultimately releasing what cannot be changed so the story can move again.
 
+## Sources
+
+This card integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram wisdom)
+- *The Window* system structure: Original synthesis integrating these traditions within the Six Houses framework
+
 ---
+
 ## Internal Links
 
 - [[House of the Chronicle]] - The domain of metanarrative and meaning-shaping virtues

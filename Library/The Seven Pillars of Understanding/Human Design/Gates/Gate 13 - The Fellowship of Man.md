@@ -303,6 +303,14 @@ The Signature of the G Center (for all gates within it) is the experience of **L
 
 Gate 13 teaches that **listening is a sacred act**. When the individual honors their capacity to witness, maintains clear boundaries, and shares collective wisdom only when aligned with Strategy and Authority, they become a **living example** of what it means to hold space for humanity. This is the essence of the Collective Sharing Circuit—to gather universal wisdom and offer it in service to the future.
 
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---
+
 ## Cross-References
 
 ### Sequential Connections (Within G Center Gates)

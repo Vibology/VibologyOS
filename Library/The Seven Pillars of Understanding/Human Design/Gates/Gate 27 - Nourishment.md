@@ -305,6 +305,14 @@ The Signature of the Sacral Center (for Generators/MGs) is **Satisfaction**. For
 
 Gate 27 teaches that **true caring is responsive and sustainable**. When the individual honors Sacral response, nourishes from abundance rather than obligation, and provides with discernment, they become a **living example** of altruistic caretaking. This is the essence of the Tribal Defense Circuit—to protect and sustain the tribe through wise, responsive nourishment.
 
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---
+
 ## Cross-References
 
 ### Sequential Connections (Within Sacral Gates)

@@ -87,7 +87,16 @@ The Portal's teaching is **trust the maturation**: when you bring experiences to
 
 When Consecration appears in a reading, the querent is being asked: what are you bringing to fullness? What experience requires your Sacral endurance to maximize completely? Can you release expectation of when or how completion will arrive and simply continue growing the experience toward maturity? Wind and thunder teach: **movement and penetration together create expansion**. The cycle that returns again and again (nuclear hexagram 24) eventually brings growth to fullness. And fullness, celebrated rather than forced, becomes the consecration that authorizes new beginning. The cup fills. The overflow begins. The new role receives you because completion has prepared the way.
 
+## Sources
+
+This portal integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram wisdom)
+- *The Window* system structure: Original synthesis integrating these traditions within the Ten Portals framework
+
 ---
+
 ## Internal Links
 
 - [[The Hierophant]] - Ordination and spiritual authority

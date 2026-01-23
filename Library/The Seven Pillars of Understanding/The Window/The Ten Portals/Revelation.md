@@ -87,7 +87,16 @@ The Portal's teaching is **honor the retreat**: when experience demands processi
 
 When Revelation appears in a reading, the querent is being asked: what experience requires withdrawal to be understood? What truth will emerge only in privacy? Can you retreat with dignity, reflect mindfully, and trust that revelation will ripen in solitude? The prophet teaches: **wilderness gestate scripture**. The mystic demonstrates: **truth emerges from cave**. Retreat is not abandonment of the collective—it is the necessary privacy that allows individual memory to become collective wisdom. Withdraw. Reflect. Return when revelation is ready. The story you carry will illuminate what raw experience could never convey.
 
+## Sources
+
+This portal integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram wisdom)
+- *The Window* system structure: Original synthesis integrating these traditions within the Ten Portals framework
+
 ---
+
 ## Internal Links
 
 - [[The Hermit]] - Solitary reflection and inner truth

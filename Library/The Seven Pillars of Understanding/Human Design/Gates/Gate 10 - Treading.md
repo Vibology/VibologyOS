@@ -319,6 +319,14 @@ The Signature of the G Center (for all gates within it) is the experience of **L
 
 Gate 10 teaches that **loving oneself is expressed through behavior**. When the individual honors their Strategy and Authority, behaves naturally, and loves themselves enough to be authentic, they become a **living example** of what it means to be human. This is the essence of the Integration Circuit—not to teach or lead, but to **inspire through natural being**.
 
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---
+
 ## Cross-References
 
 ### Sequential Connections (Within G Center Gates)

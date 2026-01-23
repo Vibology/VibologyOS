@@ -512,4 +512,13 @@ To honor the Page is to honor the beginning. And the beginning, however fragile,
 
 ---
 
+## Sources
+
+- A.E. Waite, *The Pictorial Key to the Tarot* (1911) - Divinatory meanings
+- Golden Dawn tradition - Qabalistic correspondences, sephirothic attributions, and esoteric titles
+- Aleister Crowley, *The Book of Thoth* (1944) - Elemental dignities and deeper attributions where noted
+
+
+---
+
 *"The flame you refuse to tend because it is small will never become the fire that warms the world. But the spark you honor, protect, and feed—even uncertainly, even imperfectly—can grow into the blaze that transforms everything."*

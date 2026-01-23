@@ -308,6 +308,14 @@ The Signature of the Heart Center (for all gates within it) is the experience of
 
 Gate 51 teaches that **courage is the foundation of individuation**. When the individual honors their need to initiate according to Strategy and Authority, they become a **living example** of what it means to act despite fear, to leap despite uncertainty, to shock the system when mutation is required. This is the essence of the Individual stream—not to lead or teach, but to **empower through courageous example**.
 
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---
+
 ## Cross-References
 
 ### Sequential Connections (Within Heart Center Gates)

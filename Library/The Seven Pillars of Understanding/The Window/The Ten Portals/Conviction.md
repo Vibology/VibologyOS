@@ -88,7 +88,16 @@ The Portal's teaching is **trust the deep yes**: when the Sacral responds with c
 
 When Conviction appears in a reading, the querent is being asked: what is your Sacral saying? Can you commit fully or must you withdraw? Can you say yes with such sincerity that the abyss becomes navigable? Water upon water teaches: **the deep requires devotion**. Half-heartedness drowns. Conviction swims.
 
+## Sources
+
+This portal integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram wisdom)
+- *The Window* system structure: Original synthesis integrating these traditions within the Ten Portals framework
+
 ---
+
 ## Internal Links
 
 - [[Folklore/Jungian Archetypes/The Hero]] - Journey requiring conviction

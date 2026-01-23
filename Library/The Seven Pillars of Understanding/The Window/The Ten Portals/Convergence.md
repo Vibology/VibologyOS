@@ -87,7 +87,16 @@ The Portal's teaching is **trust the spirit**: when emotional depth is integrate
 
 When Convergence appears in a reading, the querent is being asked: what is your emotional spirit revealing? Are you seeing abundance or emptiness, and is that vision coming from integrated wave or from position within the wave? Can you wait for emotional clarity—the sun at midday—before committing to path? Thunder and lightning teach: **arousal and clarity together create peak**. At that peak, convergence occurs. Not because you decide correctly, but because spirit abundant sees the path that was always there, waiting for emotional richness to illuminate it. The glass is not half-empty or half-full—it is **exactly as full as your spirit perceives it**. And that perception creates every path you'll ever walk.
 
+## Sources
+
+This portal integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram wisdom)
+- *The Window* system structure: Original synthesis integrating these traditions within the Ten Portals framework
+
 ---
+
 ## Internal Links
 
 - [[The Star]] - Hope and spiritual abundance

@@ -103,7 +103,17 @@ In Campbell's Hero's Journey framework, this card can appear at any stage—The 
 
 When The Hero appears in a reading, the querent is being tested: do you have the courage to act? And more importantly—do you have the wisdom to wield your power in service to something greater than yourself?
 
+## Sources
+
+This archetype integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram wisdom)
+- Carl Jung, *Collected Works* (Archetypal psychology and individuation)
+- *The Window* system structure: Original synthesis integrating these traditions within the Twelve Archetypes framework
+
 ---
+
 ## Internal Links
 
 - [[The Persona]] - Masks of power vs authentic strength

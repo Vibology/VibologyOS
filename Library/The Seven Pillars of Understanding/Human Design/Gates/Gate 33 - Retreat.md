@@ -306,6 +306,14 @@ The Signature of the Throat Center (for all gates within it) is the experience o
 
 Gate 33 teaches that **wisdom requires distance**. When the individual honors their need for privacy and trusts the cycle of retreat and return, they become a **living example** of what it means to process experience consciously. This is the essence of the Abstract/Sensing Circuit—not to respond immediately, but to **reflect over time and share the universal truth that emerges**.
 
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---
+
 ## Cross-References
 
 ### Sequential Connections (Within Throat Gates)

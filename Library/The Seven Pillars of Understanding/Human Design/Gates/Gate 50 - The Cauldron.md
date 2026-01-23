@@ -305,6 +305,14 @@ The Signature of the Spleen Center (for all gates within it) is **Well-Being and
 
 Gate 50 teaches that **values are sacred**. When the individual honors their instinctual awareness of tribal law—upholding values with wisdom, adapting when necessary, preserving without oppressing—they become a **living example** of responsible custodianship. This is the essence of the Tribal Ego Circuit—to ensure survival through wise maintenance of values and structures.
 
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---
+
 ## Cross-References
 
 ### Sequential Connections (Within Spleen Center Gates)

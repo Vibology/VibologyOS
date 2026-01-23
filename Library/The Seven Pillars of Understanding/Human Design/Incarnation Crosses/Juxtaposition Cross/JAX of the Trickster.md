@@ -125,4 +125,10 @@ The Channel 45-26 (Surrender) forms between Personality Sun and Earth—the full
 
 ---
 
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
+
+---
+
 *"The Trickster does not merely deceive—they market transformation to those who don't know they need it, opening doors to the unusual and offbeat for the inexperienced."*

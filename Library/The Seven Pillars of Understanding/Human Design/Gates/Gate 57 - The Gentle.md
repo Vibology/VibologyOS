@@ -317,6 +317,14 @@ The Signature of the Spleen Center (for all gates within it) is the experience o
 
 Gate 57 teaches that **the body knows**. When the individual honors their Splenic intuition according to Strategy and Authority, they become a **living example** of what it means to trust somatic wisdom, to act in the now, to know without thinking. This is the essence of the Individual Knowing stream—not to explain, but to **embody intuitive truth**.
 
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---
+
 ## Cross-References
 
 ### Sequential Connections (Within Spleen Center Gates)

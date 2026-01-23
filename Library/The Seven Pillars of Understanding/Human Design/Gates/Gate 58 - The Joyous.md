@@ -303,6 +303,14 @@ The Signature of the Root Center (for all gates within it) is the experience of 
 
 Gate 58 teaches that **dissatisfaction is fuel, not failure**. When the individual honors their pressure to perfect according to Strategy and Authority, they become a **living example** of what it means to refine patterns in service to collective evolution, to correct without condemning, to improve without losing joy. This is the essence of the Logic Circuit—not to accept blindly, but to **test, correct, and evolve**.
 
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---
+
 ## Cross-References
 
 ### Sequential Connections (Within Root Center Gates)

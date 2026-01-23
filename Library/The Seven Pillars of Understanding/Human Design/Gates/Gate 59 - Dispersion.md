@@ -307,6 +307,14 @@ The Signature of the Sacral Center (for all gates within it) is the experience o
 
 Gate 59 teaches that **intimacy is sacred**. When the individual honors their sexual energy according to Strategy and Authority, they become a **living example** of what it means to create bonds that nourish, to penetrate barriers with care, to use sexuality in service to the tribe. This is the essence of the Defense Circuit—not to bond with everyone, but to **create intimacy that sustains**.
 
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---
+
 ## Cross-References
 
 ### Sequential Connections (Within Sacral Center Gates)

@@ -87,7 +87,16 @@ The Portal's teaching is **honor the grief**: when intimacy is betrayed, the pai
 
 When Betrayal appears in a reading, the querent is being asked: what intimate bond has been severed or violated? Can you grieve the dispersion without closing your heart completely? Can you learn discernment—recognizing which barriers should be dissolved and which protect necessary sovereignty? Wind teaches: **what gathers can scatter**. But what scatters clears the surface. Beneath the dispersed water, the lake remains. Beneath the betrayed bond, your capacity for intimacy survives. Rebuild selectively. Trust transparently. Bond only where honesty is mutual.
 
+## Sources
+
+This portal integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram wisdom)
+- *The Window* system structure: Original synthesis integrating these traditions within the Ten Portals framework
+
 ---
+
 ## Internal Links
 
 - [[Three of Swords]] - Heartbreak and severed bonds

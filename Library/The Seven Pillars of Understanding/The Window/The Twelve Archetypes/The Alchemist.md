@@ -103,7 +103,17 @@ In the Window's archetype system, The Alchemist stands as the destination toward
 
 When The Alchemist appears in a reading, the querent is being tested: will you trust the insight breaking through? Will you become what has never been? Will you integrate opposites others keep separate? The individuated Alchemist knows: **the lake risen above heaven must pour forth**. Breakthrough cannot be contained. Totality will not be denied.
 
+## Sources
+
+This archetype integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram wisdom)
+- Carl Jung, *Collected Works* (Archetypal psychology and individuation)
+- *The Window* system structure: Original synthesis integrating these traditions within the Twelve Archetypes framework
+
 ---
+
 ## Internal Links
 
 - [[The Persona]] - Constructed mask vs integrated totality

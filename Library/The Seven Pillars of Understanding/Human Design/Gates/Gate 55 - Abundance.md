@@ -308,6 +308,14 @@ The Signature of the Solar Plexus Center (for all gates within it) is the experi
 
 Gate 55 teaches that **spirit is the source of abundance**. When the individual honors their emotional wave according to Strategy and Authority, they become a **living example** of what it means to feel deeply, to experience emotional freedom, to know that the cup is always full because spirit is sovereign. This is the essence of the Individual Knowing stream—not to teach, but to **empower through emotional truth**.
 
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---
+
 ## Cross-References
 
 ### Sequential Connections (Within Solar Plexus Gates)

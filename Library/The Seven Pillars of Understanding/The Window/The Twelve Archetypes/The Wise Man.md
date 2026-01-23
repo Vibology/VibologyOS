@@ -103,7 +103,17 @@ In Campbell's framework, The Wise Man corresponds to the Mentor figure who appea
 
 When The Wise Man appears in a reading, the querent is being tested: will you honor the rhythm of work and rest? Will you provide for the tribe without sacrificing self? Will you recognize that your aloneness is not selfishness but the very foundation of sustainable wisdom? The solitary master knows: deliverance requires both thunder (action) and the passing storm (rest).
 
+## Sources
+
+This archetype integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram wisdom)
+- Carl Jung, *Collected Works* (Archetypal psychology and individuation)
+- *The Window* system structure: Original synthesis integrating these traditions within the Twelve Archetypes framework
+
 ---
+
 ## Internal Links
 
 - [[The Hero]] - Power in action vs will in provision

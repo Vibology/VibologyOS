@@ -101,7 +101,17 @@ In Jung's work, the shapeshifting quality of unconscious contents reminds us tha
 
 When The Changeling appears in a reading, the querent is being tested: can you begin without needing to finish? Can you adapt without losing yourself? Can you embrace fluidity without drowning in formlessness? The eternal beginner knows: **every ending births a new beginning, and perhaps beginning itself is the point**.
 
+## Sources
+
+This archetype integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram wisdom)
+- Carl Jung, *Collected Works* (Archetypal psychology and individuation)
+- *The Window* system structure: Original synthesis integrating these traditions within the Twelve Archetypes framework
+
 ---
+
 ## Internal Links
 
 - [[The Persona]] - Constructed masks vs fluid forms

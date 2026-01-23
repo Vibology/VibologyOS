@@ -101,7 +101,17 @@ In Jung's work, The Muse undergoes development through four stages: Eve (biologi
 
 When The Muse appears in a reading, the querent is being tested: will you love your body? Will you let beauty move through physical form? Will you trust serendipity to emerge from embodied presence rather than forced planning? The soul-image knows: push upward not by effort but by **delighting in being incarnate**.
 
+## Sources
+
+This archetype integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram wisdom)
+- Carl Jung, *Collected Works* (Archetypal psychology and individuation)
+- *The Window* system structure: Original synthesis integrating these traditions within the Twelve Archetypes framework
+
 ---
+
 ## Internal Links
 
 - [[The Idol]] - Feminine soul-image vs masculine spirit-force

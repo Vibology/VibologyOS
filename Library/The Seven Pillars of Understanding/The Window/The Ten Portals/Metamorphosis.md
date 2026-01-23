@@ -87,7 +87,16 @@ The Portal's teaching is **trust the difficulty**: when the Sacral says "yes" to
 
 When Metamorphosis appears in a reading, the querent is being asked: what is trying to be born through you? What fundamental change is underway that requires your Sacral endurance? Can you persist through chaos trusting that order will emerge organically? The seed teaches: **breakthrough requires breaking through**. Soil resists the sprout. The sprout persists. Green life emerges from dark earth because difficulty at the beginning is simply how new form is born.
 
+## Sources
+
+This portal integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram wisdom)
+- *The Window* system structure: Original synthesis integrating these traditions within the Ten Portals framework
+
 ---
+
 ## Internal Links
 
 - [[Death]] - Transformation requiring dissolution

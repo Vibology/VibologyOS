@@ -103,7 +103,17 @@ In Jung's work, The Great Mother archetype contains both the nurturing and the t
 
 When The Great Mother appears in a reading, the querent is being tested: will you fill your cup first? Will you defend what you nourish? Will you care only for those your Sacral responds to, or will you deplete yourself trying to feed everyone? The warrior-mother knows: sustainable caring requires fierce boundaries.
 
+## Sources
+
+This archetype integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram wisdom)
+- Carl Jung, *Collected Works* (Archetypal psychology and individuation)
+- *The Window* system structure: Original synthesis integrating these traditions within the Twelve Archetypes framework
+
 ---
+
 ## Internal Links
 
 - [[The Hero]] - Power in service to protection

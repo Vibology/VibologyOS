@@ -103,7 +103,17 @@ In Jung's work, the distinction between personal shadow (unlived personal potent
 
 When The Shape appears in a reading, the querent is being tested: will you recognize collective shadow or confuse it with personal shadow? Will you honor survival memory or collapse into moral inflation? Will you maintain boundaries or attempt to integrate what should be acknowledged as **not yours**? The Shape teaches: you can't integrate metaphysical facts. You can only stop trying and finally say: "I see you. You are not me. You are what I am not. I recognize you, I refuse to enact you, and I maintain the boundary between us."
 
+## Sources
+
+This archetype integrates knowledge from multiple systems:
+- Ra Uru Hu, *The Definitive Book of Human Design* (Gate mechanics and biology)
+- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum)
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram wisdom)
+- Carl Jung, *Collected Works* (Archetypal psychology and individuation)
+- *The Window* system structure: Original synthesis integrating these traditions within the Twelve Archetypes framework
+
 ---
+
 ## Internal Links
 
 - [[The Hero]] - Conscious light vs unconscious shadow

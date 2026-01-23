@@ -126,4 +126,10 @@ The Channel 1-2 (Keeper of the Keys) forms between Personality Sun and Earth—t
 
 ---
 
+## Sources
+
+[^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
+
+---
+
 *"The Driver does not push toward destination—they receive direction so clearly that others reorient simply by passing through their field."*

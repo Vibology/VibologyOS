@@ -302,6 +302,14 @@ The Signature of the Heart/Ego Center is **rest and material success**. For Gate
 
 Gate 40 teaches that **provision requires rest**. When the individual honors the rhythm of work and aloneness, they become a **living example** of sustainable will.
 
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---
+
 ## Cross-References
 
 ### Sequential Connections (Within Heart/Ego Gates)
