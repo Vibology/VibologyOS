@@ -7,6 +7,10 @@ archetype_name: The Persona
 jungian_function: Social mask and system of adaptation to collective expectations
 developmental_stage: Childhood/Adolescence formation (8-25); rigidity crisis in midlife (35-50)
 collective_unconscious: Universal pattern of social identity and adaptive self-presentation
+source_verified: synthesis
+verification_date: 2026-01-23
+grimoire_source: "Jung Collected Works, Memories Dreams Reflections Glossary"
+verification_notes: "Core Jung archetype definitions verified via NotebookLM. Key CW citations checked: Shadow (CW 9i par. 284, CW 9ii p. 266), Anima (CW 17 p. 198), Animus (CW 9ii, CW 7/16), Self (CW 12 par. 44, CW 7 par. 274/404), Great Mother (CW 9i par. 158), Persona, Divine Child. Concepts accurate; some citation paragraph numbers may vary by edition. Mythology/fairy tale analyses are scholarly synthesis."
 ---
 
 # The Persona: The Light Brother and Adaptive Mask

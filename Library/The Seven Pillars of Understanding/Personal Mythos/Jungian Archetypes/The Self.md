@@ -7,6 +7,10 @@ archetype_name: The Self
 jungian_function: Central archetype representing the totality of the psyche and the goal of individuation
 developmental_stage: Midlife onward (50+), though the Self is present from birth as potential
 collective_unconscious: Universal pattern of wholeness, unity, and the God-image within
+source_verified: synthesis
+verification_date: 2026-01-23
+grimoire_source: "Jung Collected Works, Memories Dreams Reflections Glossary"
+verification_notes: "Core Jung archetype definitions verified via NotebookLM. Key CW citations checked: Shadow (CW 9i par. 284, CW 9ii p. 266), Anima (CW 17 p. 198), Animus (CW 9ii, CW 7/16), Self (CW 12 par. 44, CW 7 par. 274/404), Great Mother (CW 9i par. 158), Persona, Divine Child. Concepts accurate; some citation paragraph numbers may vary by edition. Mythology/fairy tale analyses are scholarly synthesis."
 ---
 
 # The Self: The Center and the Circumference

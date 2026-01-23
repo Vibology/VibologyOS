@@ -7,6 +7,10 @@ archetype_name: The Great Mother
 jungian_function: Primordial feminine principle governing nourishment, containment, transformation, and death-rebirth
 developmental_stage: All stages (especially birth-3, mother separation crisis 3-7, midlife 35-50)
 collective_unconscious: Universal pattern of the nurturing and devouring feminine
+source_verified: synthesis
+verification_date: 2026-01-23
+grimoire_source: "Jung Collected Works, Memories Dreams Reflections Glossary"
+verification_notes: "Core Jung archetype definitions verified via NotebookLM. Key CW citations checked: Shadow (CW 9i par. 284, CW 9ii p. 266), Anima (CW 17 p. 198), Animus (CW 9ii, CW 7/16), Self (CW 12 par. 44, CW 7 par. 274/404), Great Mother (CW 9i par. 158), Persona, Divine Child. Concepts accurate; some citation paragraph numbers may vary by edition. Mythology/fairy tale analyses are scholarly synthesis."
 ---
 
 # The Great Mother: The Nourishing Womb and the Devouring Abyss
