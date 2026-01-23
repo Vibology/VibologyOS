@@ -1,7 +1,7 @@
 # Current Work Context
 
 **Last Updated:** 2026-01-23
-**System Status:** Prima Materia Audit In Progress | 288/643 files with metadata (45%) | 193 files fully verified (30%)
+**System Status:** Prima Materia Audit In Progress | 296/643 files with metadata (46%) | 201 files fully verified (31%)
 
 ---
 
@@ -75,6 +75,8 @@ The Sun rules Leo and is exalted in Aries at 19°[^1].
 
 ### Commits (2026-01-23)
 
+- `2c2d596` Prima Materia Audit Phase 3 Revision: Astrology planets verified (8/37 files)
+- `69e4d30` Update NEXT.md: Prima Materia Audit Phase 3 context and citation standard
 - `60dedc8` Documentation: Citation standard and Phase 3 revision protocol
 - `bcf2de7` Prima Materia Audit Phase 3: Cohort B P1-CRITICAL verification (95 files)
 - `ac8a65c` Prima Materia Audit Phase 2: Incarnation Cross metadata verification (193 files)
@@ -84,20 +86,30 @@ The Sun rules Leo and is exalted in Aries at 19°[^1].
 
 ## Prima Materia Audit Status
 
-**Overall Progress:** 288/643 files with metadata (45%) | 193 fully verified (30%)
+**Overall Progress:** 296/643 files with metadata (46%) | 201 fully verified (31%)
 
 | Cohort | Files | Status | Next Action |
 |--------|-------|--------|-------------|
 | **A: Incarnation Crosses** | 193 | ✅ Pre-verified | None (complete) |
-| **B: P1-CRITICAL** | 95 | ⚠️ Sample only | Individual verification + citations |
+| **B: P1-CRITICAL** | 95 | 🔄 In Progress (8/95) | Continue individual verification + citations |
 | **C: Synthesis-Heavy** | 105 | Pending | Full verification after Cohort B |
 | **D: Remaining** | 250 | Pending | Full verification after Cohort C |
 
-**Cohort B Breakdown (NEEDS INDIVIDUAL VERIFICATION):**
-- Astrology: 37 files (10 Planets, 12 Signs, 12 Houses, 3 overview)
-- Human Design: 33 files (9 Centers, 12 Profiles, 6 Authority, 4 Types, 1 Strategy, 1 overview)
-- Tarot: 23 files (22 Major Arcana, 1 overview)
-- Overviews: 2 files (Angelology.md, The Window.md)
+**Cohort B Progress (8/95 complete):**
+- Astrology: 8/37 verified ✅ (10 Planets complete), 29 remaining (12 Signs, 12 Houses, 3 overview)
+- Human Design: 0/33 verified (9 Centers, 12 Profiles, 6 Authority, 4 Types, 1 Strategy, 1 overview)
+- Tarot: 0/23 verified (22 Major Arcana, 1 overview)
+- Overviews: 0/2 verified (Angelology.md, The Window.md)
+
+**Critical Finding (Astrology Planets):**
+5 of 7 traditional planets (71%) had systematic house joy errors where batch composition conflated natural rulership houses with traditional house joys per Lilly:
+- Mercury: 3rd (wrong) → 1st (correct)
+- Venus: 2nd (wrong) → 5th (correct)
+- Mars: 1st (wrong) → 6th (correct)
+- Jupiter: 9th & 11th (wrong) → 11th only (correct)
+- Saturn: 10th & 12th (wrong) → 12th only (correct)
+
+This validates the individual verification requirement—batch YAML was insufficient.
 
 **Scripts Created:**
 - `System/Scripts/verify_astrology_cohort.sh`
@@ -143,7 +155,7 @@ The Sun rules Leo and is exalted in Aries at 19°[^1].
 | The Tarot | 79 | 23 preliminary, 56 pending |
 | Personal Mythos | 74 | 74 pending |
 | The Window | 72 | 1 preliminary, 71 pending |
-| Astrology | 37 | 37 preliminary |
+| Astrology | 37 | **8 verified (planets)**, 29 preliminary (signs, houses, overviews) |
 | Angelology | 31 | 1 preliminary, 30 pending |
 | The Magdalene Path | 8 | 8 pending |
 | Core Foundations | 5 | 5 pending |
