@@ -2,10 +2,11 @@
 tags: [astrology, transits, timing, individuation, deconditioning]
 system: Astrology
 date_created: 2026-01-08
-source_verified: synthesis
+date_updated: 2026-01-23
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
-verification_notes: "Core dignities and traditional meanings verified against Grimoire. Synthesis includes Jungian archetypal depth, mythology (Greek/Roman), cross-system correspondences, and esoteric interpretation."
+verification_notes: "Overview file on transits and timing techniques. Content is synthesis/interpretation explaining how transits work, major return cycles (Saturn, Jupiter, Uranus), and integration with Human Design framework. Ages for planetary returns are astronomical/mathematical facts. No specific traditional claims from Lilly/Ptolemy requiring inline citations. Verified as accurate representation of transit theory."
 ---
 # Transits and Timing
 *The Neutrino Weather*

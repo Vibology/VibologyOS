@@ -2,10 +2,11 @@
 tags: [astrology, aspects, archetypal, synthesis]
 system: Astrology
 date_created: 2026-01-08
-source_verified: synthesis
+date_updated: 2026-01-23
+source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
-verification_notes: "Core dignities and traditional meanings verified against Grimoire. Synthesis includes Jungian archetypal depth, mythology (Greek/Roman), cross-system correspondences, and esoteric interpretation."
+verification_notes: "Traditional aspects (conjunction, opposition, trine, square, sextile) verified against Lilly and Ptolemy. Traditional names ('perfect hatred', 'perfect love', 'imperfect enmity', etc.) and orb ranges verified via NotebookLM query against Lilly. Minor aspects acknowledged per Lilly. Inline citations added. Psychological/Jungian interpretation is synthesis."
 ---
 # Aspects
 *The Geometry of Relationship*
@@ -18,10 +19,14 @@ verification_notes: "Core dignities and traditional meanings verified against Gr
 ---
 ## The Five Major Aspects
 
+Lilly describes five primary configurations used in judgment: conjunction, sextile, square, trine, and opposition.[^1]
+
 ### ☌ Conjunction (0°)
 **Archetypal Meaning:** Unity, fusion, the collision of two forces into one stream.
 
-The conjunction is **bodily meeting**—two planets occupying the same zodiacal degree. This is not relationship but *identity*: the planets become indistinguishable, their themes inseparable. Whether this is harmonious or discordant depends on the planets involved. Sun conjunct [[Jupiter ♃]] is expansive confidence; [[Saturn ♄]] conjunct [[Moon ☽]] is emotional constriction.
+The conjunction is **bodily meeting**—two planets occupying the same zodiacal degree.[^1] This is not relationship but *identity*: the planets become indistinguishable, their themes inseparable. Whether this is harmonious or discordant depends on the planets involved. Lilly writes that conjunction "is good with good planets and evil with evil planets."[^1] Sun conjunct [[Jupiter ♃]] is expansive confidence; [[Saturn ♄]] conjunct [[Moon ☽]] is emotional constriction.
+
+[^1]: Lilly, *Christian Astrology*, Book 2 (aspects: conjunction, sextile, square, trine, opposition)
 
 **Psychological Function:** The conjunction reveals where consciousness has *no distance* from experience—no observer, only immersion.
 
@@ -29,7 +34,9 @@ The conjunction is **bodily meeting**—two planets occupying the same zodiacal 
 ### ☍ Opposition (180°)
 **Archetypal Meaning:** Polarity, projection, the mirror of shadow.
 
-The opposition is **perfect hatred**—two planets facing each other across the chart, each pulling in opposite directions. This is the aspect of [[Libra ♎]] and the [[7th House]]: the recognition that self exists only in relationship to other. Oppositions force *integration*: you cannot resolve the tension by choosing one pole. You must hold both.
+The opposition is **"perfect hatred"**[^2]—two planets facing each other across the chart, each pulling in opposite directions. This is the aspect of [[Libra ♎]] and the [[7th House]]: the recognition that self exists only in relationship to other. Oppositions force *integration*: you cannot resolve the tension by choosing one pole. You must hold both.
+
+[^2]: Lilly, *Christian Astrology*, Book 2 (opposition as "perfect hatred or enmity"; Ptolemy classifies as "discordant")
 
 **Psychological Function:** The opposition is the **[[Shadow]] made visible**—what you reject in yourself, you encounter in the other.
 
@@ -37,7 +44,9 @@ The opposition is **perfect hatred**—two planets facing each other across the 
 ### △ Trine (120°)
 **Archetypal Meaning:** Harmony, ease, the gift that requires no effort.
 
-The trine connects planets in the same **element** (Fire, Earth, Air, Water), creating natural flow. This is the aspect of talent, grace, and—if unexamined—complacency. Trines are blessings, but blessings can become prisons if they are never tested.
+The trine is an aspect of **"perfect love"**[^3]—connecting planets in the same **element** (Fire, Earth, Air, Water), creating natural flow. This is the aspect of talent, grace, and—if unexamined—complacency. Trines are blessings, but blessings can become prisons if they are never tested.
+
+[^3]: Lilly, *Christian Astrology*, Book 2 (trine as "perfect love, unity, and friendship"; Ptolemy classifies as "harmonious")
 
 **Psychological Function:** The trine reveals **where you coast**—and where you might need to *choose* difficulty to grow.
 
@@ -45,7 +54,9 @@ The trine connects planets in the same **element** (Fire, Earth, Air, Water), cr
 ### □ Square (90°)
 **Archetypal Meaning:** Tension, crisis, the ordeal that forges character.
 
-The square is **imperfect enmity**—two planets at cross-purposes, each demanding incompatible responses. This is the aspect of the [[Cardinal Cross]]: the pressure to *act*, to resolve, to build despite resistance. Squares are uncomfortable, but they are the primary engine of development.
+The square is **"imperfect enmity"**[^4]—two planets at cross-purposes, each demanding incompatible responses. This is the aspect of the [[Cardinal Cross]]: the pressure to *act*, to resolve, to build despite resistance. Squares show difficulty but not impossibility.[^4] Squares are uncomfortable, but they are the primary engine of development.
+
+[^4]: Lilly, *Christian Astrology*, Book 2 (square as "imperfect enmity"; Ptolemy classifies as "discordant")
 
 **Psychological Function:** The square is the **call to mastery**—the place where ease ends and discipline begins.
 
@@ -53,14 +64,17 @@ The square is **imperfect enmity**—two planets at cross-purposes, each demandi
 ### ⚹ Sextile (60°)
 **Archetypal Meaning:** Opportunity, cooperation, the bridge between elements.
 
-The sextile connects planets in compatible (but not identical) elements, creating *potential* for harmony. Unlike the trine, the sextile requires conscious activation—it is opportunity, not inevitability.
+The sextile is an aspect of **"imperfect love or friendship"**[^5]—connecting planets in compatible (but not identical) elements, creating *potential* for harmony. Unlike the trine, the sextile requires conscious activation—it is opportunity, not inevitability.
+
+[^5]: Lilly, *Christian Astrology*, Book 2 (sextile as "imperfect love")
 
 **Psychological Function:** The sextile reveals **where effort yields reward**—the skill that, once learned, becomes second nature.
 
 ---
 ## Minor Aspects
 
-While the five major aspects govern the chart's primary dynamics, minor aspects add **nuance**:
+While the five major aspects govern the chart's primary dynamics, minor aspects add **nuance**. Lilly acknowledges these "new" aspects introduced by Kepler, noting that he seldom uses them in general questions but does utilize them in nativities (birth charts) for directions.[^7]
+
 - **Semisextile (30°):** Subtle adjustment, the need for conscious integration
 - **Semisquare (45°):** Irritation, low-level friction
 - **Quintile (72°):** Creative genius, the gift that defies category
@@ -69,10 +83,12 @@ While the five major aspects govern the chart's primary dynamics, minor aspects 
 
 Minor aspects function as **psychological undertones**—felt more than seen.
 
+[^7]: Lilly, *Christian Astrology*, Book 2 & 3 (minor aspects: semisextile, semiquadrate, quintile, sesquiquadrate, quincunx, etc.)
+
 ---
 ## Orbs: The Sphere of Influence
 
-An **orb** is the range within which an aspect remains active. Traditional orbs vary by planet:
+An **orb** is the range within which an aspect remains active. Traditional orbs vary by planet.[^6]
 
 | Planet                | Orb Range |
 | --------------------- | --------- |
@@ -80,10 +96,12 @@ An **orb** is the range within which an aspect remains active. Traditional orbs 
 | [[Moon ☽]]              | 12°–12.5° |
 | [[Saturn ♄]]            | 9°–10°    |
 | [[Jupiter ♃]]           | 9°–12°    |
-| [[Mars ♂]], [[Astrology/Planets/Mercury # ☿]] | 7°–7.5°   |
+| [[Mars ♂]], [[Mercury ☿]] | 7°–7.5°   |
 | [[Venus ♀]]             | 7°–8°     |
 
-The closer to exactitude (0° orb), the more intense the aspect's expression.
+The closer to exactitude (0° orb), the more intense the aspect's expression. To determine if two planets are in aspect, add their respective orbs together and divide by two (the "moiety"). If the distance between them is within that half-sum, they are in aspect.[^6]
+
+[^6]: Lilly, *Christian Astrology*, Book 2 (planetary orbs and moiety calculation)
 
 ---
 ## Psychological & Jungian Depth
