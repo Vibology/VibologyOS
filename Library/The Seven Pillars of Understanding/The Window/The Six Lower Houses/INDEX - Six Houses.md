@@ -162,8 +162,7 @@ The Six Houses represent **parallel domains of human experience** where the 42 H
 
 ---
 
-## Internal Links
-
+## Cross-References
 - [[The Window/Twelve Archetypes]] - WHO cards
 - [[The Window/Ten Portals]] - HOW cards
 - [[The Window/Overview]] - System overview
@@ -181,8 +180,7 @@ The Six Houses represent **parallel domains of human experience** where the 42 H
 - Length: 164-180 lines per House
 - Cross-references: All Houses link to each other and to gates
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 **I-Ching & Gene Keys:**

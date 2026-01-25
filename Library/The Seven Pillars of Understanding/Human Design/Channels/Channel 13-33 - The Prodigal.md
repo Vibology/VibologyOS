@@ -457,8 +457,7 @@ When the 13-33 shares from full integration (adequate retreat, invitation honore
 - [[Channel 35-36 - Transitoriness]] (Collective emotional experience)
 - [[Channel 7-31 - The Alpha]] (Collective logical leadership)
 
-## References
-
+## Sources
 **Primary Source:**
 - Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
 

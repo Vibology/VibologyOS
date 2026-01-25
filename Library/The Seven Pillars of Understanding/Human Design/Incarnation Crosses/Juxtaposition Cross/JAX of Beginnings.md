@@ -99,8 +99,7 @@ Ra emphasizes these individuals are "highly sought after"—their capacity to en
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 53 - Development]]
 - [[Gate 54 - The Marrying Maiden]]

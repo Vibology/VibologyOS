@@ -194,8 +194,7 @@ Individuals with Mental Authority bring:
 
 *Mental Authority is the intelligence of the environment—the recognition that truth is not found within but sampled from without. The mind is not your guide but your instrument, and clarity emerges not from thinking harder but from speaking, listening, and sensing the world around you. To trust the environment is to trust that your openness is not weakness but wisdom, and that the counsel of others and the feel of a space will reveal what your mind cannot.*
 
-## References
-
+## Sources
 *All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.

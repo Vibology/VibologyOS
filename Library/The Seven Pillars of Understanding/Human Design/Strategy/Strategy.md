@@ -221,8 +221,7 @@ Strategy is the spiritual practice of **alignment**—not through transcendence 
 
 *Strategy is the geometry of your unique movement through life—not a moral code but a mechanical law. When you honor your Strategy, you align with the current of your design, and life becomes less resistance and more resonance. The world does not change, but your relationship to it transforms: you stop fighting the river and learn to navigate its flow.*
 
-## References
-
+## Sources
 *All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.

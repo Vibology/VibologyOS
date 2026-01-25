@@ -95,8 +95,7 @@ The Mutation context asks: "What must be preserved even as everything transforms
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 60 - Limitation]]
 - [[Gate 56 - The Wanderer]]

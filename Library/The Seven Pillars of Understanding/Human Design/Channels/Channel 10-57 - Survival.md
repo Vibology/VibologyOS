@@ -380,8 +380,7 @@ Jung's process of individuation requires **trusting the psyche's intuitive guida
 - [[Trusting Intuition]] — Acting on the Spleen's instant knowing
 - [[Perfected Form as Survival]] — Beauty and grace as the path to safety
 
-## References
-
+## Sources
 **Primary Source:**
 - Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
 

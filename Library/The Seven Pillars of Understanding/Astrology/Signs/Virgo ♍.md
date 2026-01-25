@@ -216,8 +216,7 @@ The Maiden teaches that service is not sacrifice. It is the **joy of care**—an
 
 ---
 
-## References
-
+## Sources
 [^1]: Lilly, *Christian Astrology*, Book 1: Mercury rules Virgo (Night House)
 [^2]: Lilly, *Christian Astrology*, Book 1: Mercury exalted in Virgo at 15° (unique case where ruler = exaltation)
 [^3]: Lilly, *Christian Astrology*, Book 1; Ptolemy, *Tetrabiblos*, Book 1: Virgo as Mutable (Common/Double-bodied) Earth (cold and dry, melancholy)

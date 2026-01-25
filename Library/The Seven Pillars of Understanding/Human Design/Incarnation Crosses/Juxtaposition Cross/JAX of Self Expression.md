@@ -99,8 +99,7 @@ Ra emphasizes "questions which have not yet been asked"—these individuals are 
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 01 - The Creative]]
 - [[Gate 02 - The Receptive]]

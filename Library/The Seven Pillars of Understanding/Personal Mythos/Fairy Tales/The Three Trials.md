@@ -514,8 +514,7 @@ The psyche's response: **Anxiety, depression, addiction**—the return of the re
 
 ---
 
-## Internal Links
-
+## Cross-References
 **Archetypal Figures:**
 [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Hero]] • [[The Muse]] • [[The Idol]] • [[The Shadow]] • [[The Alchemist]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] • [[The Wise Old Man]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] • [[The Nightmare]]
 

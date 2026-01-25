@@ -99,8 +99,7 @@ Ra's keynote emphasizes "mutating through teaching what is new." This is Individ
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 22 - Grace]]
 - [[Gate 47 - Oppression]]

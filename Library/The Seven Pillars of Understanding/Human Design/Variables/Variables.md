@@ -397,8 +397,7 @@ The [[The Window]] system's **House of the Land** (stability, foundation) resona
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### Core Variables
 - [[Determination]] - The dietary regimen Variable
 - [[Environment]] - The physical surroundings Variable
@@ -425,8 +424,7 @@ The [[The Window]] system's **House of the Land** (stability, foundation) resona
 - [[The Blueprint - 444 Architecture]] - The shared 64-fold structure
 
 
-## References
-
+## Sources
 *All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.

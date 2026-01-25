@@ -103,8 +103,7 @@ Profiles 5/1, 5/2, 6/2, and 6/3 carry this cross, each bringing their unique tra
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 58 - The Joyous]]
 - [[Gate 52 - Keeping Still]]

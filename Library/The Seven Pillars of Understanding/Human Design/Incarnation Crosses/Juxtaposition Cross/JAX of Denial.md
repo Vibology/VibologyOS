@@ -99,8 +99,7 @@ Ra emphasizes "put the brakes on the Collective's run-away progress." These indi
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 40 - Deliverance]]
 - [[Gate 37 - The Family]]

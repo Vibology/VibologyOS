@@ -832,8 +832,7 @@ The **Grail/Cauldron** is the **alembic**—the vessel where all operations occu
 
 ---
 
-## References
-
+## Sources
 **Jungian Analytical Psychology:**
 - Jung, C.G. *Psychology and Alchemy* (CW 12). Princeton University Press, 1953.
 - Jung, C.G. *The Archetypes and the Collective Unconscious* (CW 9i). Princeton University Press, 1959.

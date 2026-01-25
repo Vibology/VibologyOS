@@ -379,8 +379,7 @@ Jung's process of individuation requires **reflecting on one's experiences and i
 - [[Waiting for Invitation to Share]] — Storytelling only when recognized
 - [[Searching and Reflecting]] — Gathering experiences and distilling meaning
 
-## References
-
+## Sources
 **Primary Source:**
 - Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
 

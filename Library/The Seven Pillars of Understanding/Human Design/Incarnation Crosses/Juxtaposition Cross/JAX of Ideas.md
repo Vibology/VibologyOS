@@ -99,8 +99,7 @@ Ra notes they are "often fixed in a single direction." The abundance of ideas do
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 11 - Peace]]
 - [[Gate 12 - Standstill]]

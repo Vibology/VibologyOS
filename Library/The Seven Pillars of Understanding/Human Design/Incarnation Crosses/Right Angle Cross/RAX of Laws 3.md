@@ -95,8 +95,7 @@ The Duality context asks: "How must our laws evolve to serve authentic connectio
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 50 - The Cauldron]]
 - [[Gate 03 - Difficulty at the Beginning]]

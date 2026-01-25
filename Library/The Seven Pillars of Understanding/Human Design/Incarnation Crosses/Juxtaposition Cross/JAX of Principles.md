@@ -99,8 +99,7 @@ Human rights emerges as a common theme because Gate 49's sensitivity to tribal b
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 49 - Revolution]]
 - [[Gate 04 - Youthful Folly]]

@@ -100,8 +100,7 @@ Ra identifies them as "bright, intellectual but incredibly fixed"—the returnin
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 24 - The Return]]
 - [[Gate 44 - Coming to Meet]]

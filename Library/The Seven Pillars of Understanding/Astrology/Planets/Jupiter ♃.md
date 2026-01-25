@@ -238,8 +238,7 @@ Jupiter teaches that faith is not blind. It is the willingness to act *as if* th
 
 ---
 
-## References
-
+## Sources
 [^1]: Lilly, *Christian Astrology* (1647), Book 1; Ptolemy, *Tetrabiblos*, Book 1
 [^2]: Ptolemy, *Tetrabiblos*, Book 1: "Jupiter is exalted in Cancer because he excites fruitful breezes from the north and becomes most northerly in this sign"
 [^3]: Lilly, *Christian Astrology*, Book 1: Jupiter rejoices in the 11th House, the house of friends, hopes, and trust

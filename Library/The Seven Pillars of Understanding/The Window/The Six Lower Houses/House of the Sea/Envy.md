@@ -118,8 +118,7 @@ The antidote to Envy is **Gratitude**—returning to appreciation for your actua
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 **I-Ching & Gene Keys:**
@@ -139,8 +138,7 @@ The antidote to Envy is **Gratitude**—returning to appreciation for your actua
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
 
-## Internal Links
-
+## Cross-References
 - [[House of the Sea]] - The domain of emotional depth and relational encounter
 - [[Gate 54 - The Marrying Maiden]] - Drive and ambition (Root)
 - [[Hexagram 54]] - The Marrying Maiden (I-Ching)

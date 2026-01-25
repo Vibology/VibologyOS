@@ -98,8 +98,7 @@ Both Head gates (63/64) create powerful mental pressure, which flows down to the
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 16 - Enthusiasm]]
 - [[Gate 09 - The Taming Power of the Small]]

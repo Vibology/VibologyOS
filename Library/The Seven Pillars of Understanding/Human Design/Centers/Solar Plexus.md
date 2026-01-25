@@ -162,8 +162,7 @@ For those with Emotional Authority[^4]:
 *The Solar Plexus is the wave—the oscillating rhythm of hope and pain, expansion and contraction, intimacy and solitude. For some, the wave is internal and consistent, a biochemical tide that must be ridden to stillness. For others, the wave is external and amplified, a sensitivity to the emotional climate that reveals what others cannot see. To honor the Solar Plexus is to recognize that emotion is intelligence, not chaos, and that clarity is found not in the drama of the wave but in the calm that follows.*
 
 
-## References
-
+## Sources
 *All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.

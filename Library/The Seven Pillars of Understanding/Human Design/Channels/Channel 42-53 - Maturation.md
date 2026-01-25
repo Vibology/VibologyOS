@@ -112,8 +112,7 @@ When aligned with Sacral response (starting when correct, completing when sustai
 - [[Collective Sensing Circuit]] — Experience-based abstract learning
 - [[Format Channels]] — Pulsing energy (3-60, 9-52, 42-53)
 
-## References
-
+## Sources
 **Primary Source:**
 - Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
 

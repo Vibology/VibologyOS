@@ -104,8 +104,7 @@ Ra's phrase "prepared to accept the details" is crucial. The Clarion doesn't jus
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 51 - The Arousing]]
 - [[Gate 57 - The Gentle]]

@@ -99,8 +99,7 @@ Ra calls them "bright, convincing and influential"—this is not mere contrarian
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 63 - After Completion]]
 - [[Gate 64 - Before Completion]]

@@ -232,8 +232,7 @@ Mercury does not care about truth in the absolute sense. He cares about **transm
 
 ---
 
-## References
-
+## Sources
 [^1]: Lilly, *Christian Astrology* (1647), Book 1; Ptolemy, *Tetrabiblos*, Book 1
 [^2]: Ptolemy, *Tetrabiblos*, Book 1: "Mercury is exalted in Virgo because dryness (his nature) begins to appear in autumn"
 [^3]: Lilly, *Christian Astrology*, Book 1: Mercury rejoices in the 1st House (the Ascendant) because it represents the Head, Tongue, Fancy, and Memory

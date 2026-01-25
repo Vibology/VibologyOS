@@ -129,8 +129,7 @@ TBD
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 - Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
@@ -145,8 +144,7 @@ TBD
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
 
-## Internal Links
-
+## Cross-References
 - [[0 - The Fool]] - The breath that becomes the word
 - [[2 - The High Priestess]] - The complementary path on the Pillar of Form
 - [[Beth - Hebrew Letters in Tarot]]

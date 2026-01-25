@@ -121,8 +121,7 @@ The practice is acceptance: **recognize your role and fulfill it with virtue**. 
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 **I-Ching & Gene Keys:**
@@ -142,8 +141,7 @@ The practice is acceptance: **recognize your role and fulfill it with virtue**. 
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
 
-## Internal Links
-
+## Cross-References
 - [[House of the Spirit]] - The domain of consciousness, soul health, inner divinity
 - [[Gate 7 - The Army]] - Role of the self in leadership (G Center)
 - [[Hexagram 7]] - The Army (I-Ching)

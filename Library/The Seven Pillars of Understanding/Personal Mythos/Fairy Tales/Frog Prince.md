@@ -449,8 +449,7 @@ Heinrich represents the **loyal unconscious**, the part of the psyche that **hol
 
 ---
 
-## Internal Links
-
+## Cross-References
 **Archetypal Figures:**
 [[The Shadow]] • [[The Muse]] • [[The Idol]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] • [[The Alchemist]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Hero]] • [[The Wise Old Man]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]]
 

@@ -321,8 +321,7 @@ When recognized and invited, the 21-45 individual becomes the **benevolent sover
 - [[Gene Keys]] — Shadow/Gift/Siddhi framework
 - [[The Emperor (Tarot)]] — Material authority and structure
 
-## References
-
+## Sources
 **Primary Source:**
 - Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
 

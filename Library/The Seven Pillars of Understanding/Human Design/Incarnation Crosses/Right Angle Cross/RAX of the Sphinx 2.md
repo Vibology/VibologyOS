@@ -95,8 +95,7 @@ The Sphinx (2) poses the eternal question: "How does direction manifest into for
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 02 - The Receptive]]
 - [[Gate 01 - The Creative]]

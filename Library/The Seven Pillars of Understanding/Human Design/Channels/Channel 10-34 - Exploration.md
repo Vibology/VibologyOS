@@ -370,8 +370,7 @@ Jung's process of individuation requires **living the Self's truth in the world*
 - [[Following Convictions]] — Living by one's own rules
 - [[Self-Empowerment as Survival]] — Being oneself as the foundation of Integration
 
-## References
-
+## Sources
 **Primary Source:**
 - Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
 

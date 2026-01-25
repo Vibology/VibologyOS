@@ -160,8 +160,7 @@ Focus on mastery. Accept discipline (Gate 60) as path to excellence. Build mater
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 **I-Ching & Gene Keys:**
@@ -181,8 +180,7 @@ Focus on mastery. Accept discipline (Gate 60) as path to excellence. Build mater
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
 
-## Internal Links
-
+## Cross-References
 - [[House of the Land]] - Embodied skill vs. aspirational mastery
 - [[House of the Sea]] - Emotional depth vs. material achievement
 - [[House of the Flame]] - Instinctual action vs. disciplined excellence

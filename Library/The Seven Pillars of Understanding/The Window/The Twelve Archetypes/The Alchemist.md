@@ -103,8 +103,7 @@ In the Window's archetype system, The Alchemist stands as the destination toward
 
 When The Alchemist appears in a reading, the querent is being tested: will you trust the insight breaking through? Will you become what has never been? Will you integrate opposites others keep separate? The individuated Alchemist knows: **the lake risen above heaven must pour forth**. Breakthrough cannot be contained. Totality will not be denied.
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 **I-Ching & Gene Keys:**
@@ -124,8 +123,7 @@ When The Alchemist appears in a reading, the querent is being tested: will you t
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
 
-## Internal Links
-
+## Cross-References
 - [[The Persona]] - Constructed mask vs integrated totality
 - [[The Muse]] - Soul-image integrated into Alchemist
 - [[The Idol]] - Spirit-force integrated into Alchemist

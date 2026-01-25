@@ -95,8 +95,7 @@ This is tension in service of **supervision and guidance**. The policing functio
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 21 - Biting Through]]
 - [[Gate 48 - The Well]]

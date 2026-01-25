@@ -441,8 +441,7 @@ This is the essence of the Individual Centering Circuit: **centering in one's ow
 - [[The 7-Year Deconditioning Cycle]] — Returning to authentic initiatory alignment
 - [[Ego Sustainability]] — Understanding the Ego's need for rest and conservation
 
-## References
-
+## Sources
 **Primary Source:**
 - Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
 

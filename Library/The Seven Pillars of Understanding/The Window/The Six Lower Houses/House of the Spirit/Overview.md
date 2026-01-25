@@ -161,8 +161,7 @@ Turn inward. How is your soul? Practice receptivity (Gate 2)—listen for divine
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 **I-Ching & Gene Keys:**
@@ -182,8 +181,7 @@ Turn inward. How is your soul? Practice receptivity (Gate 2)—listen for divine
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
 
-## Internal Links
-
+## Cross-References
 - [[House of the Land]] - Physical embodiment vs. consciousness clarity
 - [[House of the Sea]] - Emotional awareness vs. psychospiritual witness
 - [[House of the Flame]] - Vital action vs. aligned will

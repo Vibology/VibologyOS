@@ -99,8 +99,7 @@ Ra's keynote emphasizes "using information to assume positions of power or autho
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 64 - Before Completion]]
 - [[Gate 63 - After Completion]]

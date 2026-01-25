@@ -99,8 +99,7 @@ Ra's keynote emphasizes "wanting to bring progress, development, and change to t
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 40 - Deliverance]]
 - [[Gate 37 - The Family]]

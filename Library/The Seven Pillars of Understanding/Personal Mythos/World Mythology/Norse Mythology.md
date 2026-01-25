@@ -873,8 +873,7 @@ Jung: *"Odin is the god of poets, the dead, and the hanged—those who have pass
 
 ---
 
-## References
-
+## Sources
 **Jungian Analytical Psychology:**
 - Jung, C.G. "Wotan." In *Civilization in Transition* (CW 10). Princeton University Press, 1964.
 - Jung, C.G. *The Archetypes and the Collective Unconscious* (CW 9i). Princeton University Press, 1959.

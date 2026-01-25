@@ -488,8 +488,7 @@ At their highest expression, the Four Watchtowers offer:
 The Watchtowers are not abstract philosophy—they are a **functional tool** for engaging the living intelligences that govern the elements. Those who approach them with discipline, respect, and clear intention will find them to be among the most powerful magical structures ever revealed.
 
 ---
-## Internal Links
-
+## Cross-References
 ### Within Enochian
 - [[Enochian System Overview]] — Complete introduction to Enochian magic
 - [[The 30 Aethyrs]] — The visionary spheres of consciousness
@@ -511,8 +510,7 @@ The Watchtowers are not abstract philosophy—they are a **functional tool** for
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources
 
 **Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* New York: Free Press, 1967.

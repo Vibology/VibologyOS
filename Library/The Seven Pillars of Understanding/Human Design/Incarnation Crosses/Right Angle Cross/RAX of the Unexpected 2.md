@@ -95,8 +95,7 @@ The Civilization context asks: "What unexpected leaders must emerge to give form
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 31 - Influence]]
 - [[Gate 41 - Decrease]]

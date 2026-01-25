@@ -159,8 +159,7 @@ The Queen of Pentacles holds the paradox of *abundance through flow*. She does n
 The teaching: Hoarding creates scarcity. Generosity creates abundance. When you tend with love and share with open hands, you become a *channel* for prosperity rather than a dam that blocks it. The Queen who opens her home finds her home filled. The Queen who shares her harvest finds the garden yields more.
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 - Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
@@ -175,8 +174,7 @@ The teaching: Hoarding creates scarcity. Generosity creates abundance. When you 
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
 
-## Internal Links
-
+## Cross-References
 ### Adjacent Cards in Suit
 - [[Knight of Pentacles]] - Sustained effort manifests as nurturing abundance
 - [[King of Pentacles]] - Nurturing care matures into mastery and authority

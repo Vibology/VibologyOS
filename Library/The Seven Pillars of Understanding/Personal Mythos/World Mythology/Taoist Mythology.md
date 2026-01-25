@@ -798,8 +798,7 @@ Jung: *"The alchemical vessel is the psyche itself. The fire is suffering. The w
 
 ---
 
-## References
-
+## Sources
 **Jungian Analytical Psychology:**
 - Jung, C.G. "Commentary on *The Secret of the Golden Flower*." In *Alchemical Studies* (CW 13). Princeton University Press, 1967.
 - Jung, C.G. *The Archetypes and the Collective Unconscious* (CW 9i). Princeton University Press, 1959.

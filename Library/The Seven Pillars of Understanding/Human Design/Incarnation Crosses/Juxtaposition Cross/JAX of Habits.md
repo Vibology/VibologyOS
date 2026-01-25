@@ -99,8 +99,7 @@ Ra emphasizes the paradox: habits enable change. The consistency creates a stabl
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 05 - Waiting]]
 - [[Gate 35 - Progress]]

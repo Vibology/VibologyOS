@@ -467,8 +467,7 @@ Psychologically, this is the **ego's death when it refuses transformation**: the
 
 ---
 
-## Internal Links
-
+## Cross-References
 **Archetypal Figures:**
 [[The Shadow]] • [[The Muse]] • [[The Idol]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] • [[The Alchemist]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Hero]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] • [[The Wise Old Man]] • [[The Nightmare]]
 

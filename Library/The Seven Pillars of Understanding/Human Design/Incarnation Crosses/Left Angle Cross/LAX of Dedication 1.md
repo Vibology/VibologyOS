@@ -97,8 +97,7 @@ The dedication is to change itself—explaining insights that further evolution,
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 23 - Splitting Apart]]
 - [[Gate 43 - Breakthrough]]

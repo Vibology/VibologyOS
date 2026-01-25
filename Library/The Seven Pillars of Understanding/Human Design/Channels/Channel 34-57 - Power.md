@@ -112,8 +112,7 @@ When aligned with Strategy and Authority (responding to intuition in the now), t
 - [[Integration Channels]] — Pure self-empowerment (10-20, 20-34, 10-57, 34-57)
 - [[Splenic Authority]] — In-the-now intuitive decision-making
 
-## References
-
+## Sources
 **Primary Source:**
 - Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
 

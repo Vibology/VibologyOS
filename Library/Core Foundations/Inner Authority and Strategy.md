@@ -510,8 +510,7 @@ The third shadow: **fear of what Authority reveals**:
 
 ---
 
-## References
-
+## Sources
 *All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Ra Uru Hu. *The Definitive Book of Human Design*. HDC Publishing, 2011.

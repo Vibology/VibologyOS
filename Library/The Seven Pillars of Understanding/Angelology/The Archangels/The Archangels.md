@@ -238,8 +238,7 @@ For comprehensive treatment of each archangel, see their individual entries:
 \* Traditional attribution is Tiphareth; see Michael's entry for detailed analysis.
 
 ---
-## Internal Links
-
+## Cross-References
 ### Within Angelology
 - [[Archangels]] — The eighth order of angels (as a class)
 - [[Seraphim]] | [[Cherubim]] | [[Thrones]] — First Triad
@@ -267,8 +266,7 @@ For comprehensive treatment of each archangel, see their individual entries:
 
 ---
 
-## References
-
+## Sources
 *All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Davidson, Gustav. *A Dictionary of Angels: Including the Fallen Angels*. New York: Free Press, 1967.

@@ -99,8 +99,7 @@ Ra's keynote reveals the shadow potential: "capable of creating doubt and confus
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 63 - After Completion]]
 - [[Gate 64 - Before Completion]]

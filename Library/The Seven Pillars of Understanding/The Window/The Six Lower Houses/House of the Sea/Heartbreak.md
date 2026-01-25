@@ -118,8 +118,7 @@ The path through requires the positive Sea cards—particularly **Gratitude** (h
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 **I-Ching & Gene Keys:**
@@ -139,8 +138,7 @@ The path through requires the positive Sea cards—particularly **Gratitude** (h
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
 
-## Internal Links
-
+## Cross-References
 - [[House of the Sea]] - The domain of emotional depth and relational encounter
 - [[Gate 36 - Darkening of the Light]] - Crisis and emotional descent (Solar Plexus)
 - [[Hexagram 36]] - Darkening of the Light (I-Ching)

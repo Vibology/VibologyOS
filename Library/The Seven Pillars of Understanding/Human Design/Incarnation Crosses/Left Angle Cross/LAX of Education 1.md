@@ -101,8 +101,7 @@ The Quarter of Civilization asks: "What can be built? What form can this take?" 
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 12 - Standstill]]
 - [[Gate 11 - Peace]]

@@ -338,8 +338,7 @@ Jung's **Transcendent Function** describes how two opposing forces (conscious/un
 **Anointing, Chrismation, Sacred Touch, Substituted Love, Holding the Post, Abler Soul, Bardo, Safe Passage, Presence, Consecration, Healing, Myrrh, Nard, Eucharistic Touch, Seven Senses, Preparation for Death, Ego Death, Embodiment, Love Made Manifest**
 
 ---
-## Internal Links
-
+## Cross-References
 ### Core Magdalene Path Entries
 - [[The Magdalene Path Overview]] - Anointing as central practice
 - [[Mary Magdalene - Apostle and Beloved]] - Mary as the anointer
@@ -356,8 +355,7 @@ Jung's **Transcendent Function** describes how two opposing forces (conscious/un
 
 ---
 
-## References
-
+## Sources
 Bourgeault, Cynthia. *The Meaning of Mary Magdalene: Discovering the Woman at the Heart of Christianity*. Boston: Shambhala, 2010.
 - Substituted Love: Ch. 12 ("Substituted Love")
   - Bourgeault cites Charles Williams's theology of "mystical substitution" and "bearing of burdens"

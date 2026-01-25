@@ -376,8 +376,7 @@ Jung's process of individuation requires **focused attention on the psyche's con
 - [[Honoring the Pulse]] — Learning to focus during "on" periods and rest during "off" periods
 - [[Mastery Through Rhythm]] — Perfecting skills through the cycle of concentration and stillness
 
-## References
-
+## Sources
 **Primary Source:**
 - Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
 

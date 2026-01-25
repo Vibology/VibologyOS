@@ -148,8 +148,7 @@ Ground yourself. Return to the body. Establish stable foundation through practic
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 **I-Ching & Gene Keys:**
@@ -169,8 +168,7 @@ Ground yourself. Return to the body. Establish stable foundation through practic
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
 
-## Internal Links
-
+## Cross-References
 - [[House of the Sea]] - Emotional depth vs. physical groundedness
 - [[House of the Flame]] - Vital action vs. stable foundation
 - [[House of the Chronicle]] - Narrative meaning vs. embodied presence

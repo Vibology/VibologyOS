@@ -458,8 +458,7 @@ Until then: navigate with all seven.
 
 ---
 
-## References
-
+## Sources
 *All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 **The Seven Pillars Framework:** Vibology Synthesis (original integration)

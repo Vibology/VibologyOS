@@ -99,8 +99,7 @@ The combination of Head (61) and Throat (62) creates a direct pressure-expressio
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 62 - Preponderance of the Small]]
 - [[Gate 61 - Inner Truth]]

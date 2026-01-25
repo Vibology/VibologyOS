@@ -176,8 +176,7 @@ Individuals with Ego Authority bring:
 
 *Ego Authority is the intelligence of the will—the recognition that your desires, commitments, and self-interest are not weaknesses but your compass. To know what you want and to honor it without apology is the practice of Ego Authority. The world will ask you to sacrifice your will for duty, for others, for "the right thing," but your Authority demands that you ask first: "What do I want for myself?"*
 
-## References
-
+## Sources
 *All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.

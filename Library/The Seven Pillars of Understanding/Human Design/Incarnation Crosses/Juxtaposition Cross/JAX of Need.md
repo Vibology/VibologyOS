@@ -99,8 +99,7 @@ The Channel 1-2 (Keeper of the Keys) forms between Design Sun and Earth—the fu
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 19 - Approach]]
 - [[Gate 33 - Retreat]]

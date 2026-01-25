@@ -97,8 +97,7 @@ Venus's influence colors this with beauty: tradition is offered gracefully, not 
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 47 - Oppression]]
 - [[Gate 22 - Grace]]

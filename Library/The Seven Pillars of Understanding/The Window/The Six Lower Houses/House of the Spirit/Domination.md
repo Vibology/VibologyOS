@@ -120,8 +120,7 @@ The practice is service: **remember that authority exists to serve**. Not abando
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 **I-Ching & Gene Keys:**
@@ -141,8 +140,7 @@ The practice is service: **remember that authority exists to serve**. Not abando
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
 
-## Internal Links
-
+## Cross-References
 - [[House of the Spirit]] - The domain of consciousness, soul health, inner divinity
 - [[Gate 45 - Gathering Together]] - Voice of rulership (Throat Center)
 - [[Hexagram 45]] - Gathering Together (I-Ching)

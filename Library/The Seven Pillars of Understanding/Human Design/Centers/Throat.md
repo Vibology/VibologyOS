@@ -161,8 +161,7 @@ The Throat has **eleven gates**, more than any other center. Each gate represent
 *The Throat is the Town Square—the place where all energy converges to be spoken, manifested, and brought into being. It is the bridge between inner truth and outer expression, the transformer of potential into action. To honor the Throat is to speak with purpose, to manifest with alignment, and to recognize that not all voices need to be heard at all times.*
 
 
-## References
-
+## Sources
 *All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.

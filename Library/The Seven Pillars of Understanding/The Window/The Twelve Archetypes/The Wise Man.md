@@ -103,8 +103,7 @@ In Campbell's framework, The Wise Man corresponds to the Mentor figure who appea
 
 When The Wise Man appears in a reading, the querent is being tested: will you honor the rhythm of work and rest? Will you provide for the tribe without sacrificing self? Will you recognize that your aloneness is not selfishness but the very foundation of sustainable wisdom? The solitary master knows: deliverance requires both thunder (action) and the passing storm (rest).
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 **I-Ching & Gene Keys:**
@@ -124,8 +123,7 @@ When The Wise Man appears in a reading, the querent is being tested: will you ho
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
 
-## Internal Links
-
+## Cross-References
 - [[The Hero]] - Power in action vs will in provision
 - [[The Divine Child]] - What the Wise Man teaches
 - [[The Great Mother]] - Nourishment vs provision

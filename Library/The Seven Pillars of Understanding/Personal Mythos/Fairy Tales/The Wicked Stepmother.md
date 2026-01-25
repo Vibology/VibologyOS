@@ -801,8 +801,7 @@ If you answered "yes" to multiple questions, the **Inner Stepmother is active**.
 
 ---
 
-## Internal Links
-
+## Cross-References
 **Archetypal Figures:**
 [[The Shadow]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] • [[The Terrible Mother]] • [[The Muse]] • [[The Idol]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] • [[The Alchemist]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Hero]] • [[The Wise Old Man]] • [[The Nightmare]] • [[The Changeling]]
 

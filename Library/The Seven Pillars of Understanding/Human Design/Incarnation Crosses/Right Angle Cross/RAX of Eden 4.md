@@ -95,8 +95,7 @@ The Eden (4) archetype poses the eternal question: "What can we learn from the f
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 11 - Peace]]
 - [[Gate 12 - Standstill]]

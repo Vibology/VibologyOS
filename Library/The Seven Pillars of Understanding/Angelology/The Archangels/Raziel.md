@@ -417,8 +417,7 @@ Not fortune-telling, but the capacity to speak the **pattern** that is unfolding
 
 ---
 
-## Internal Links
-
+## Cross-References
 - [[Chokmah]] — Raziel's Sephirah, the Supernal Father
 - [[Metatron]] — Archangel of Kether, the Crown
 - [[Tzaphkiel]] — Archangel of Binah, the Supernal Mother
@@ -441,8 +440,7 @@ Not fortune-telling, but the capacity to speak the **pattern** that is unfolding
 
 ---
 
-## References
-
+## Sources
 *All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 **Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.

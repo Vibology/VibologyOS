@@ -374,8 +374,7 @@ Jung's process of individuation requires **recognizing the difference between eg
 - [[Waiting for Recognition]] — Leading only when invited
 - [[Stepping Down]] — Releasing leadership when the role is complete
 
-## References
-
+## Sources
 **Primary Source:**
 - Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
 

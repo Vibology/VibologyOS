@@ -95,8 +95,7 @@ The question posed: "How does one choose whom to bond with?" The answer: through
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 57 - The Gentle]]
 - [[Gate 51 - The Arousing]]

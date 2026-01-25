@@ -97,8 +97,7 @@ The contagion spreads through the example of power wisely wielded. Others witnes
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 14 - Possession in Great Measure]]
 - [[Gate 08 - Holding Together]]

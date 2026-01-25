@@ -102,8 +102,7 @@ Ra's keynote speaks of "the vagaries of humanity (good/bad/ugly)"—this cross h
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 36 - Darkening of the Light]]
 - [[Gate 06 - Conflict]]

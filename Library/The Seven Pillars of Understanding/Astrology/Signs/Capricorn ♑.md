@@ -218,8 +218,7 @@ The Goat-Fish teaches that the climb is sacred—but the peak is not the destina
 
 ---
 
-## References
-
+## Sources
 [^1]: Lilly, *Christian Astrology*, Book 1: Saturn rules Capricorn (Night House)
 [^2]: Lilly, *Christian Astrology*, Book 1; Ptolemy, *Tetrabiblos*, Book 1: Capricorn as Cardinal Earth (cold and dry, melancholy)
 [^3]: Lilly, *Christian Astrology*, Book 1: Mars exalted in Capricorn at 28°

@@ -156,8 +156,7 @@ TBD
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 - Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
@@ -172,8 +171,7 @@ TBD
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
 
-## Internal Links
-
+## Cross-References
 - [[0 - The Fool]] - The wanderer who must learn to rule
 - [[3 - The Empress]] - His consort and source of creative power
 - [[5 - The Hierophant]] - The spiritual authority complementing temporal power

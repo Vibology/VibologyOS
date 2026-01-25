@@ -924,8 +924,7 @@ This creates a **six-directional** sacred space—encompassing not just the hori
 *Amen. Selah. So be it.*
 
 ---
-## References
-
+## Sources
 ### Primary Sources
 
 **Davidson, Gustav.** *A Dictionary of Angels, Including the Fallen Angels.* New York: The Free Press, 1967 (Paperback Edition 1971).
@@ -956,8 +955,7 @@ The following content represents cross-system synthesis, interpretive material, 
 - Final quote about Sandalphon (original synthesis)
 
 ---
-## Internal Links
-
+## Cross-References
 ### Within Angelology
 - [[Angelology]] (Sandalphon's role in the celestial hierarchy)
 - [[The Three Triads]] (Sandalphon exists outside the standard structure)

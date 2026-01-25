@@ -97,8 +97,7 @@ The teaching is clear: uncertainty requires both right spirit and right resource
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 08 - Holding Together]]
 - [[Gate 14 - Possession in Great Measure]]

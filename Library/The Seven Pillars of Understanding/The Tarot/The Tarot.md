@@ -633,8 +633,7 @@ At its highest expression, Tarot offers:
 Tarot does not predict a fixed future—it **illuminates the present** with such clarity that the future becomes navigable. The cards are not external authorities but **mirrors**, reflecting what the soul already knows but has forgotten. To read Tarot is to remember: the Fool's journey is your journey, the Paths are your paths, and the World's completion awaits at the end of conscious, courageous living.
 
 ---
-## Internal Links
-
+## Cross-References
 ### Major Arcana (22 Cards)
 - [[0 - The Fool]] | [[1 - The Magician]] | [[2 - The High Priestess]] | [[3 - The Empress]]
 - [[4 - The Emperor]] | [[5 - The Hierophant]] | [[6 - The Lovers]] | [[7 - The Chariot]]
@@ -677,8 +676,7 @@ Tarot does not predict a fixed future—it **illuminates the present** with such
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 **Tarot Systems and Interpretation:**

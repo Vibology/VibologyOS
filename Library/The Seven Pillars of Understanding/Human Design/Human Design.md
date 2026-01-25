@@ -204,8 +204,7 @@ Human Design is mechanics, not philosophy. It does not tell you *who you should 
 
 *Human Design is the map of differentiation—the precise schematic of how your vehicle is designed to navigate the totality. It does not promise enlightenment or transcendence. It offers something more valuable: the recognition that your body already knows how to move correctly, and the mind's job is not to control but to witness. To live your Design is not to follow rules but to honor mechanics. And in that honoring, the Signature emerges—not as achievement but as confirmation that you have stopped fighting the current and learned, at last, to flow.*
 
-## References
-
+## Sources
 *All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.

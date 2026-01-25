@@ -489,8 +489,7 @@ In **[[Jungian psychology]]**, Haniel is the **Anima**—the soul-image of beaut
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources
 
 **Agrippa, Heinrich Cornelius.** *The Occult Philosophy or Magic.* Edited by Willis F. Whitehead. Chicago: Hahn & Whitehead, 1898.
@@ -528,8 +527,7 @@ The following content represents cross-system synthesis and is not sourced from 
 
 ---
 
-## Internal Links
-
+## Cross-References
 - [[Netzach]] — Haniel's Sephirah, the sphere of Victory and the Life Force
 - [[Principalities]] — Angelic order governed by Haniel
 - [[Venus ♀]] — Planetary sphere of love, beauty, harmony

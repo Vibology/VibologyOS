@@ -475,8 +475,7 @@ Those with **[[Emotional Authority]]** (Solar Plexus defined) must **wait throug
 **Historical Sources, Canonical Gospels, Wisdom Gospels, Gospel of Mary, Gospel of Philip, Gospel of Thomas, Nag Hammadi, Penitent Whore Myth, Pope Gregory I, Medieval Mystics, John of the Cross, Teresa of Ávila, Spiritual Bypassing, Codependency, Savior Complex, Premature Abyss Crossing, Cynthia Bourgeault, Richard Rohr, Contemplative Practice, Centering Prayer, Welcoming Prayer, Shadow Work, Sacred Sexuality, Sophian Gnosticism**
 
 ---
-## Internal Links
-
+## Cross-References
 ### Core Magdalene Path Entries
 - [[The Magdalene Path Overview]] - Overview of the Fifth Way
 - [[Mary Magdalene - Apostle and Beloved]] - The archetype and historical figure
@@ -495,8 +494,7 @@ Those with **[[Emotional Authority]]** (Solar Plexus defined) must **wait throug
 
 ---
 
-## References
-
+## Sources
 *All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Bourgeault, Cynthia. *The Meaning of Mary Magdalene: Discovering the Woman at the Heart of Christianity*. Boston: Shambhala, 2010.

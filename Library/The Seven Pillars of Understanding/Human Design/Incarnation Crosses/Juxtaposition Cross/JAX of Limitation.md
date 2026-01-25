@@ -99,8 +99,7 @@ Ra emphasizes "test the boundaries of each limitation." These individuals don't 
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 60 - Limitation]]
 - [[Gate 56 - The Wanderer]]

@@ -272,8 +272,7 @@ The sword is not a toy, but it is also not a trophy to be admired from a distanc
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 - Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
@@ -288,8 +287,7 @@ The sword is not a toy, but it is also not a trophy to be admired from a distanc
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
 
-## Internal Links
-
+## Cross-References
 ### Other Court Cards in Suit
 - [[Knight of Swords]] - The active practitioner: thought in motion
 - [[Queen of Swords]] - The receptive master: internalized clarity

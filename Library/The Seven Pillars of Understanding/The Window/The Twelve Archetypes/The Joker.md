@@ -103,8 +103,7 @@ In Jung's work, The Trickster archetype serves as compensatory function—appear
 
 When The Joker appears in a reading, the querent is being tested: will you honor the hunger for new experience? Will you challenge established order? Will you introduce chaos knowing it will destroy what's familiar? The wild archer knows: the arrow that hits the target first had to **leave the bow**. Progress requires the courage to burn stability and leap into boundless unknown.
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 **I-Ching & Gene Keys:**
@@ -124,8 +123,7 @@ When The Joker appears in a reading, the querent is being tested: will you honor
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
 
-## Internal Links
-
+## Cross-References
 - [[The Hero]] - Order vs chaos; the adversary relationship
 - [[The Shape]] - Pattern that returns vs chaos that destroys
 - [[The Alchemist]] - Integration beyond disruption

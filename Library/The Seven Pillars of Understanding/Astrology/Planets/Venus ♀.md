@@ -233,8 +233,7 @@ Venus teaches that self-love is not narcissism. It is **discernment**—the refu
 
 ---
 
-## References
-
+## Sources
 [^1]: Lilly, *Christian Astrology* (1647), Book 1; Ptolemy, *Tetrabiblos*, Book 1
 [^2]: Ptolemy, *Tetrabiblos*, Book 1: "Venus is exalted in Pisces because dampness (her nature) begins to appear, augmenting her influence"
 [^3]: Lilly, *Christian Astrology*, Book 1: Venus rejoices in the 5th House, the house of pleasure, delight, and merriment

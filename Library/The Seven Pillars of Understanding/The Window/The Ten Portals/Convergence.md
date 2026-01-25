@@ -88,8 +88,7 @@ The Portal's teaching is **trust the spirit**: when emotional depth is integrate
 
 When Convergence appears in a reading, the querent is being asked: what is your emotional spirit revealing? Are you seeing abundance or emptiness, and is that vision coming from integrated wave or from position within the wave? Can you wait for emotional clarity—the sun at midday—before committing to path? Thunder and lightning teach: **arousal and clarity together create peak**. At that peak, convergence occurs. Not because you decide correctly, but because spirit abundant sees the path that was always there, waiting for emotional richness to illuminate it. The glass is not half-empty or half-full—it is **exactly as full as your spirit perceives it**. And that perception creates every path you'll ever walk.
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 **I-Ching & Gene Keys:**
@@ -109,8 +108,7 @@ When Convergence appears in a reading, the querent is being asked: what is your 
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
 
-## Internal Links
-
+## Cross-References
 - [[The Star]] - Hope and spiritual abundance
 - [[The Sun]] - Clarity and illumination
 - [[Gate 55 - Abundance]]

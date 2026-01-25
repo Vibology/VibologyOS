@@ -456,8 +456,7 @@ This is the essence of the Tantric channels: **the life-force energy reveals ide
 - [[The 7-Year Deconditioning Cycle]] — Returning to aligned commitment
 - [[Tantric Practice]] — Understanding Sacral-G energy and sexual/creative force
 
-## References
-
+## Sources
 **Primary Source:**
 - Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
 

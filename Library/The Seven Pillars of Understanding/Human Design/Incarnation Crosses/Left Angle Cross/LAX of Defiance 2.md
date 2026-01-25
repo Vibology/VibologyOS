@@ -98,8 +98,7 @@ Society needs what they carry, but society's tendency to normalize threatens it.
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 01 - The Creative]]
 - [[Gate 02 - The Receptive]]

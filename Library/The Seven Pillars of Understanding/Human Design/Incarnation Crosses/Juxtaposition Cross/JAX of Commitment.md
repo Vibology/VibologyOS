@@ -98,8 +98,7 @@ Ra's saints comparison emphasizes both the beauty and the danger. These individu
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 29 - The Abysmal]]
 - [[Gate 30 - The Clinging Fire]]

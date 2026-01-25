@@ -236,8 +236,7 @@ The Ram teaches that the greatest risk is not failure but **hesitation**—the r
 
 ---
 
-## References
-
+## Sources
 [^1]: Lilly, *Christian Astrology*, Book 1: Mars rules Aries as Day House
 [^2]: Lilly, *Christian Astrology*, Book 1; Ptolemy, *Tetrabiblos*, Book 1: Sun exalted in Aries at 19°
 [^3]: Lilly, *Christian Astrology*, Book 1: Venus in detriment (opposite Libra)

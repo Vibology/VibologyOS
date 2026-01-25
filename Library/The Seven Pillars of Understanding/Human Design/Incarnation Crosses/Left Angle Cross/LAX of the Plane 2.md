@@ -100,8 +100,7 @@ Ra's keynote speaks of "enjoying their work"—this is crucial. The material cel
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 06 - Conflict]]
 - [[Gate 36 - Darkening of the Light]]

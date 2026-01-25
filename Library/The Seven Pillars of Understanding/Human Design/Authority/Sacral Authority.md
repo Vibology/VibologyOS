@@ -174,8 +174,7 @@ Generators with Sacral Authority bring:
 
 *Sacral Authority is the intelligence of the body's life force—immediate, non-verbal, and unerring. It does not explain itself, justify its knowing, or wait for the mind's approval. To trust the Sacral is to trust that the body knows what it has energy for, and to honor that knowing is to live in correct use of your life force, building only what truly satisfies.*
 
-## References
-
+## Sources
 *All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.

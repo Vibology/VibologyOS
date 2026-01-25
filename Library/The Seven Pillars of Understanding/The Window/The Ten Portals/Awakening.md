@@ -88,8 +88,7 @@ The Portal's teaching is **trust the awakening**: when individual insight has be
 
 When Awakening appears in a reading, the querent is being asked: what knowing can you no longer contain? What truth has been fully assimilated and now demands expression? Can you speak with the metabolic certainty of the thyroid, even knowing your voice may fracture what others believe? The mountain teaches: **solidity is temporary**. All complexity eventually splits apart to reveal the simple truth that was always at the core.
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 **I-Ching & Gene Keys:**
@@ -109,8 +108,7 @@ When Awakening appears in a reading, the querent is being asked: what knowing ca
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
 
-## Internal Links
-
+## Cross-References
 - [[The Hierophant]] - Speaking received wisdom
 - [[The Hermit]] - Solitary assimilation before expression
 - [[Gate 23 - Splitting Apart]]

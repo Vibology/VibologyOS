@@ -297,8 +297,7 @@ This is not easy to believe in the middle of the night. But it may be true.
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 - Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
@@ -313,8 +312,7 @@ This is not easy to believe in the middle of the night. But it may be true.
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
 
-## Internal Links
-
+## Cross-References
 ### Adjacent Cards in Suit
 - [[Eight of Swords]] - The imprisonment: the trap that preceded this torment
 - [[Ten of Swords]] - The ending: the worst that can happen, and its strange gift

@@ -121,8 +121,7 @@ The practice is surrender: **receive your sacred direction rather than manufactu
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 **I-Ching & Gene Keys:**
@@ -142,8 +141,7 @@ The practice is surrender: **receive your sacred direction rather than manufactu
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
 
-## Internal Links
-
+## Cross-References
 - [[House of the Spirit]] - The domain of consciousness, soul health, inner divinity
 - [[Gate 2 - The Receptive]] - Direction and Higher Self (G Center)
 - [[Hexagram 2]] - The Receptive (I-Ching)

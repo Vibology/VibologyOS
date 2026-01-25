@@ -99,8 +99,7 @@ Ra emphasizes "change what is known/accepted"—this is not knowledge accumulati
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 61 - Inner Truth]]
 - [[Gate 62 - Preponderance of the Small]]

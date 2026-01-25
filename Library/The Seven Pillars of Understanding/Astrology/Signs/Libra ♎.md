@@ -213,8 +213,7 @@ The Scales teach that justice is not sameness. It is **right relationship**—an
 
 ---
 
-## References
-
+## Sources
 [^1]: Lilly, *Christian Astrology*, Book 1: Venus rules Libra (Day House)
 [^2]: Lilly, *Christian Astrology*, Book 1; Ptolemy, *Tetrabiblos*, Book 1: Libra as Cardinal (equinoctial) Air (hot and moist, sanguine)
 [^3]: Lilly, *Christian Astrology*, Book 1: Saturn exalted in Libra at 21°

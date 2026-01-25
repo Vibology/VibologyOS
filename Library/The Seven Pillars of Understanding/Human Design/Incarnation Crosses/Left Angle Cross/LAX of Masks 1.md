@@ -100,8 +100,7 @@ The trans-personal nature means others are essential to the purpose. The Masks d
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 13 - The Fellowship of Man]]
 - [[Gate 07 - The Army]]

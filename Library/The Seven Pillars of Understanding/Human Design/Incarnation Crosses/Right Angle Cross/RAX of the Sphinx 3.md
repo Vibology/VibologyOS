@@ -95,8 +95,7 @@ The Sphinx (3) poses the eternal question: "What gives one the right to lead?" T
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 07 - The Army]]
 - [[Gate 13 - The Fellowship of Man]]

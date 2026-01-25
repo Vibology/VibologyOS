@@ -121,8 +121,7 @@ The practice is straightforward: **experience widely and judge rarely**. Not as 
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 **I-Ching & Gene Keys:**
@@ -142,8 +141,7 @@ The practice is straightforward: **experience widely and judge rarely**. Not as 
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
 
-## Internal Links
-
+## Cross-References
 - [[House of the Chronicle]] - The domain of metanarrative and meaning-shaping virtues
 - [[Gate 15 - Modesty]] - Extremes and love of humanity (G Center)
 - [[Hexagram 15]] - Modesty (I-Ching)

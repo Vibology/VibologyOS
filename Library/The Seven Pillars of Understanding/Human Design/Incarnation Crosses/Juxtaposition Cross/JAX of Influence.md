@@ -100,8 +100,7 @@ Ra emphasizes the intentionality—these individuals deliberately use their capa
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 31 - Influence]]
 - [[Gate 41 - Decrease]]

@@ -98,8 +98,7 @@ The depth (Gate 48) is crucial: these individuals are not shallow controllers bu
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 21 - Biting Through]]
 - [[Gate 48 - The Well]]

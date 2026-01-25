@@ -98,8 +98,7 @@ The shadow edge is clear: "quick to organize or challenge that of others" can be
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 10 - Treading]]
 - [[Gate 15 - Modesty]]

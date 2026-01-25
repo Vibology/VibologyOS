@@ -99,8 +99,7 @@ The storytelling dimension (Gate 56) ensures that completed journeys become tran
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 42 - Increase]]
 - [[Gate 32 - Duration]]

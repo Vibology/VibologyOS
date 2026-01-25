@@ -101,8 +101,7 @@ In Jung's work, The Muse undergoes development through four stages: Eve (biologi
 
 When The Muse appears in a reading, the querent is being tested: will you love your body? Will you let beauty move through physical form? Will you trust serendipity to emerge from embodied presence rather than forced planning? The soul-image knows: push upward not by effort but by **delighting in being incarnate**.
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 **I-Ching & Gene Keys:**
@@ -122,8 +121,7 @@ When The Muse appears in a reading, the querent is being tested: will you love y
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
 
-## Internal Links
-
+## Cross-References
 - [[The Idol]] - Feminine soul-image vs masculine spirit-force
 - [[The Persona]] - Performed identity vs embodied soul
 - [[The Alchemist]] - Integration of Muse and Idol

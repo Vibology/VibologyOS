@@ -95,8 +95,7 @@ Gate 39's provocation is oriented toward **leadership and purpose**. The obstruc
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 39 - Obstruction]]
 - [[Gate 38 - Opposition]]

@@ -95,8 +95,7 @@ The Vessel of Love archetype poses the eternal question: "Can love exist without
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 25 - Innocence]]
 - [[Gate 46 - Pushing Upward]]

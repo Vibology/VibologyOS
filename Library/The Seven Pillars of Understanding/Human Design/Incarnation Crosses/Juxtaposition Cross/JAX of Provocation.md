@@ -98,8 +98,7 @@ Ra emphasizes both the potency and the moodiness. These individuals carry intens
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 39 - Obstruction]]
 - [[Gate 38 - Opposition]]

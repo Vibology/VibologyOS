@@ -99,8 +99,7 @@ Ra emphasizes "correct commitments to experience (plus hard work)"—this is not
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 46 - Pushing Upward]]
 - [[Gate 25 - Innocence]]

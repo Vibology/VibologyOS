@@ -99,8 +99,7 @@ Ra describes them as "warm-hearted"—this is not manipulative deal-making but g
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 37 - The Family]]
 - [[Gate 40 - Deliverance]]

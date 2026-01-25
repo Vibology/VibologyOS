@@ -101,8 +101,7 @@ The trans-personal karma of this cross is worked out through sexual and romantic
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 59 - Dispersion]]
 - [[Gate 55 - Abundance]]

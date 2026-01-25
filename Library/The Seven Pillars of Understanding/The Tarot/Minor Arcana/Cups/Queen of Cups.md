@@ -219,8 +219,7 @@ When the Queen of Cups emerges in reading or contemplation, consider:
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 - Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
@@ -235,8 +234,7 @@ When the Queen of Cups emerges in reading or contemplation, consider:
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
 
-## Internal Links
-
+## Cross-References
 - [[King of Cups]] - The complementary sovereign, active emotional mastery
 - [[Page of Cups]] - The beginning stage the Queen has mastered
 - [[Knight of Cups]] - The active expression the Queen has integrated

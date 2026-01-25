@@ -112,8 +112,7 @@ When recognized and invited, the 32-54 individual becomes the **strategic adviso
 - [[Tribal Ego Circuit]] — Channels of material support and hierarchy
 - [[Projected Channels]] — Recognition and invitation required
 
-## References
-
+## Sources
 **Primary Source:**
 - Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
 

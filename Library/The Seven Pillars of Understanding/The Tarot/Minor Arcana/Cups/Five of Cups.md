@@ -351,8 +351,7 @@ The Lord of Loss in Pleasure is also the lord of what survives loss. The two cup
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 - Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
@@ -367,8 +366,7 @@ The Lord of Loss in Pleasure is also the lord of what survives loss. The two cup
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
 
-## Internal Links
-
+## Cross-References
 ### Adjacent Cards in Suit
 - [[Four of Cups]] - The preceding stagnation: comfortable numbness, the refused cup
 - [[Six of Cups]] - The following memory: nostalgia, the past tenderly retrieved

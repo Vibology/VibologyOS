@@ -331,8 +331,7 @@ The **[[Seraphim]]** (Burning Ones) represent the fire that **consumes**—kenos
 **Kenosis, Self-Emptying, Letting Go, Surrender, Abundance, Grasping, Release, Seven Demons, False Self, Dark Night, Non-Attachment, Spaciousness, Freedom, Presence, Vulnerability, Spiritual Bypassing, Ego Transparency, Christ Consciousness, Wu Wei, Śūnyatā**
 
 ---
-## Internal Links
-
+## Cross-References
 ### Core Magdalene Path Entries
 - [[The Magdalene Path Overview]] - Kenosis as foundational practice
 - [[Mary Magdalene - Apostle and Beloved]] - Mary's release of the seven demons
@@ -349,8 +348,7 @@ The **[[Seraphim]]** (Burning Ones) represent the fire that **consumes**—kenos
 
 ---
 
-## References
-
+## Sources
 *All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Bourgeault, Cynthia. *The Meaning of Mary Magdalene: Discovering the Woman at the Heart of Christianity*. Boston: Shambhala, 2010.

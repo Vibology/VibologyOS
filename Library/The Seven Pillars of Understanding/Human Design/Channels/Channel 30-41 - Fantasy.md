@@ -114,8 +114,7 @@ When recognized and invited, the 30-41 individual becomes the **initiator of col
 - [[Collective Sensing Circuit]] — Experience-based learning
 - [[Emotional Authority]] — Decision-making through the emotional wave
 
-## References
-
+## Sources
 **Primary Source:**
 - Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
 

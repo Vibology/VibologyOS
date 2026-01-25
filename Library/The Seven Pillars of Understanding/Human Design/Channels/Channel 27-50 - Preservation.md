@@ -448,8 +448,7 @@ This is the essence of the Tribal Defense Circuit: **protecting the tribe's futu
 - [[The 7-Year Deconditioning Cycle]] — Returning to sustainable caring
 - [[Tribal Dynamics]] — Understanding caring, values, and tribal responsibility
 
-## References
-
+## Sources
 **Primary Source:**
 - Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
 

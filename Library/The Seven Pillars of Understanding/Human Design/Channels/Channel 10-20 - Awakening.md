@@ -371,8 +371,7 @@ Jung's process of individuation is the journey to the Self. The Channel 10-20 in
 - [[Self-Love as Survival]] — Loving oneself as the foundation of Integration
 - [[Present-Moment Awareness]] — Living in the now
 
-## References
-
+## Sources
 **Primary Source:**
 - Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
 

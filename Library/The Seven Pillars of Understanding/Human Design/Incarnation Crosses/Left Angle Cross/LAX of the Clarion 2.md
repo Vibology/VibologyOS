@@ -106,8 +106,7 @@ Ra's phrase "essential and inspired information which others need or want to hea
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 57 - The Gentle]]
 - [[Gate 51 - The Arousing]]

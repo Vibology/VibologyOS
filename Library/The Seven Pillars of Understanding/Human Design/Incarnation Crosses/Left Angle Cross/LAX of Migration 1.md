@@ -99,8 +99,7 @@ The "greener pastures" in Ra's keynote are not about dissatisfaction but about e
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 37 - The Family]]
 - [[Gate 40 - Deliverance]]

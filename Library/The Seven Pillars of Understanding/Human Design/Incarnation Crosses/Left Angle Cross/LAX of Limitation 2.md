@@ -98,8 +98,7 @@ The 5/1, 5/2, 6/2, and 6/3 profiles associated with Left Angle Crosses bring the
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 32 - Duration]]
 - [[Gate 42 - Increase]]

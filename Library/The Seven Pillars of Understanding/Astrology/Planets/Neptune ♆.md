@@ -234,8 +234,7 @@ Neptune teaches that surrender is not weakness. It is the **willingness to be un
 
 ---
 
-## References
-
+## Sources
 [^1]: Modern esoteric astrology (Grimoire): Neptune discovered 1846; modern ruler of Pisces; associated with dissolution, Universal Solvent, irrational ground of the world; exalted in Cancer
 [^2]: Greek mythology (Grimoire): Poseidon as Earthshaker and Lord of the Sea; threefold domain (sea, earthquakes, horses); brother to Zeus and Hades; the trident as three-pronged weapon
 [^3]: Modern esoteric astrology (Grimoire): Neptune as "Universal Solvent" and "ocean of space" that dissolves what Uranus destroys; governs dreams, inspiration, the unknowable

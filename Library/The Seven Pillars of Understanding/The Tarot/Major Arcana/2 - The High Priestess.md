@@ -152,8 +152,7 @@ TBD
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 - Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
@@ -168,8 +167,7 @@ TBD
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
 
-## Internal Links
-
+## Cross-References
 - [[0 - The Fool]] - The primal breath that enters her temple
 - [[1 - The Magician]] - Her complementary path of Will
 - [[3 - The Empress]] - The door through which her consciousness enters form

@@ -99,8 +99,7 @@ The Channel 35-36 would connect to Gate 36 (Crisis), but here Gate 35 stands alo
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 35 - Progress]]
 - [[Gate 05 - Waiting]]

@@ -171,8 +171,7 @@ The Nine of Pentacles holds the paradox of *achievement without attachment*. The
 The teaching: True abundance is internal. The garden is a *reflection* of your cultivation, not the source of your worth. When you no longer need external success to prove you are enough, that is when you finally enjoy it fully.
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 - Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
@@ -187,8 +186,7 @@ The teaching: True abundance is internal. The garden is a *reflection* of your c
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
 
-## Internal Links
-
+## Cross-References
 ### Adjacent Cards in Suit
 - [[Eight of Pentacles]] - Mastery achieved; now enjoy the harvest
 - [[Ten of Pentacles]] - Solitary abundance becomes family legacy and shared wealth

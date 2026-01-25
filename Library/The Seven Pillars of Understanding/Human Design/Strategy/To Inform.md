@@ -182,8 +182,7 @@ When the Manifestor abandons their strategy:
 
 *To Inform is the Manifestor's bridge between power and connection—the recognition that autonomous action need not mean isolation. When the Manifestor informs, they transform their closed aura into a window, allowing others to see what's coming and prepare. This is not weakness or compromise; it is wisdom: the understanding that impact without transparency creates enemies, while declaration before action creates allies. Peace is not the absence of power but its correct expression.*
 
-## References
-
+## Sources
 *All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.

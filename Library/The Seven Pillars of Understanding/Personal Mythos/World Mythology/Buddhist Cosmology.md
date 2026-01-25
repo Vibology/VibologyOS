@@ -1059,8 +1059,7 @@ The **grain of wheat** in the Eleusinian mysteries = the **lotus in the mud** in
 
 ---
 
-## References
-
+## Sources
 **Jungian Analytical Psychology:**
 - Jung, C.G. *Psychology and Religion: West and East* (CW 11). Princeton University Press, 1958.
 - Jung, C.G. *The Archetypes and the Collective Unconscious* (CW 9i). Princeton University Press, 1959.

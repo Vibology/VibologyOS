@@ -996,8 +996,7 @@ To integrate Tzadkiel is to become the **generous king**—the one who blesses, 
 
 ---
 
-## References
-
+## Sources
 *All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 **Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.

@@ -717,8 +717,7 @@ This is the Seraphim's gift: the **dissolution of the illusion of separation**.
 
 ---
 
-## References
-
+## Sources
 *All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 **Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.

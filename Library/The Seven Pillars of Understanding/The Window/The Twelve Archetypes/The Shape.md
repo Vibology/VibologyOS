@@ -103,8 +103,7 @@ In Jung's work, the distinction between personal shadow (unlived personal potent
 
 When The Shape appears in a reading, the querent is being tested: will you recognize collective shadow or confuse it with personal shadow? Will you honor survival memory or collapse into moral inflation? Will you maintain boundaries or attempt to integrate what should be acknowledged as **not yours**? The Shape teaches: you can't integrate metaphysical facts. You can only stop trying and finally say: "I see you. You are not me. You are what I am not. I recognize you, I refuse to enact you, and I maintain the boundary between us."
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 **I-Ching & Gene Keys:**
@@ -124,8 +123,7 @@ When The Shape appears in a reading, the querent is being tested: will you recog
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
 
-## Internal Links
-
+## Cross-References
 - [[The Hero]] - Conscious light vs unconscious shadow
 - [[The Nightmare]] - Guardian tested by what returns
 - [[The Alchemist]] - Integration that knows its limits

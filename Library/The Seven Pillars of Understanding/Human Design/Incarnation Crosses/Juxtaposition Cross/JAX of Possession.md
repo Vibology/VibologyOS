@@ -98,8 +98,7 @@ Ra emphasizes the crisis dimension. These individuals may not seek leadership in
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 45 - Gathering Together]]
 - [[Gate 26 - The Taming Power of the Great]]

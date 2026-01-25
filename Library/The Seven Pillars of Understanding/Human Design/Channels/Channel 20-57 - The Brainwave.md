@@ -335,8 +335,7 @@ When recognized and invited, the 20-57 individual becomes the **intuitive oracle
 - [[Gene Keys]] — Shadow/Gift/Siddhi framework
 - [[The High Priestess (Tarot)]] — Intuitive knowing, inner voice
 
-## References
-
+## Sources
 **Primary Source:**
 - Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
 

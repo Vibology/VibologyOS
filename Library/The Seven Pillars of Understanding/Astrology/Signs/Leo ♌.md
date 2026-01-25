@@ -237,8 +237,7 @@ The Lion teaches that you do not need to dim your light to make others comfortab
 
 ---
 
-## References
-
+## Sources
 [^1]: Lilly, *Christian Astrology*, Book 1: Sun rules Leo (sole house)
 [^2]: Lilly, *Christian Astrology*, Book 1: Saturn in detriment (opposite Aquarius)
 [^3]: Lilly, *Christian Astrology*, Book 1: No traditional exaltation or fall in Leo

@@ -571,8 +571,7 @@ Metatron oversees this entire descent, ensuring that the **chain remains unbroke
 *Metatron is not separate from you. He is the 'I Am' within you, the part of you that has never forgotten its divine origin. To invoke him is to remember who you were before you were born, and who you will be when all masks fall away.*
 
 ---
-## Internal Links
-
+## Cross-References
 ### Within Angelology
 - [[Kether]] (Sephirah governed by Metatron)
 - [[Chaioth ha-Qadesh]] (Seraphim, the angelic choir of Kether)
@@ -589,8 +588,7 @@ Metatron oversees this entire descent, ensuring that the **chain remains unbroke
 
 ---
 
-## References
-
+## Sources
 *All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 **Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.

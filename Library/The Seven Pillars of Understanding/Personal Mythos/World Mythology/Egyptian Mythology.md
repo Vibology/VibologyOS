@@ -999,8 +999,7 @@ Death is transformation, not annihilation. The Self (Ra, Osiris, Akh) is indestr
 
 ---
 
-## References
-
+## Sources
 **Jungian Analytical Psychology:**
 - Jung, C.G. *Symbols of Transformation* (CW 5). Princeton University Press, 1956.
 - Jung, C.G. *The Archetypes and the Collective Unconscious* (CW 9i). Princeton University Press, 1959.

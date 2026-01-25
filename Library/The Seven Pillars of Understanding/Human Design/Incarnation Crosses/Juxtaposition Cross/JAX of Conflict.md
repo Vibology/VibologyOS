@@ -100,8 +100,7 @@ Ra's phrase "bridge the loss of innocence" captures the function. These individu
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 06 - Conflict]]
 - [[Gate 36 - Darkening of the Light]]

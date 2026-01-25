@@ -341,8 +341,7 @@ The **Bean Nighe** (Washer Woman) appears at rivers, washing the bloodstained cl
 
 ---
 
-## Internal Links
-
+## Cross-References
 **Jungian Archetypes:**
 - [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] – Weaver of reality, container of potential
 - [[The Shadow]] – Rumpelstiltskin, compulsive productivity, obsessive spinning

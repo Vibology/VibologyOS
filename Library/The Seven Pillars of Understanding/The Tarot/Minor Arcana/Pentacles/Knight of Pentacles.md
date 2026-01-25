@@ -159,8 +159,7 @@ The Knight of Pentacles holds the paradox of *velocity through consistency*. The
 The teaching: Most people quit not because the work is hard but because they cannot endure *boredom*. They need excitement, novelty, visible progress. The Knight needs none of this. The Knight has made peace with the unglamorous middle stretch where nothing seems to change—and that is precisely why the Knight *wins*.
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 - Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
@@ -175,8 +174,7 @@ The teaching: Most people quit not because the work is hard but because they can
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
 
-## Internal Links
-
+## Cross-References
 ### Adjacent Cards in Suit
 - [[Page of Pentacles]] - Study transitions to methodical action
 - [[Queen of Pentacles]] - Sustained effort manifests as nurturing abundance

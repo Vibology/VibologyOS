@@ -417,8 +417,7 @@ The Not-Self mind resists this. It wants to be "flexible," "adaptive," "open to 
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### Core Variables
 - [[Variables Overview]] - Introduction to all four Variables
 - [[Determination]] - Dietary regimen (Design Sun/Earth Color)
@@ -441,8 +440,7 @@ The Not-Self mind resists this. It wants to be "flexible," "adaptive," "open to 
 - [[Jungian Archetypes]] - Fixed patterns in consciousness
 
 
-## References
-
+## Sources
 *All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.

@@ -121,8 +121,7 @@ The practice is straightforward: **be where you are, fully**. Not as concept, no
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 **I-Ching & Gene Keys:**
@@ -142,8 +141,7 @@ The practice is straightforward: **be where you are, fully**. Not as concept, no
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
 
-## Internal Links
-
+## Cross-References
 - [[House of the Land]] - The domain of embodied foundation and material grounding
 - [[Gate 20 - Contemplation]] - The Now and present-moment awareness (Throat)
 - [[Hexagram 20]] - Contemplation (I-Ching)

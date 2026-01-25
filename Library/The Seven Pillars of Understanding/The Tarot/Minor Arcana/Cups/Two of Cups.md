@@ -325,8 +325,7 @@ The Two of Cups does not promise that love is easy. It promises that love is *po
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 - Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
@@ -341,8 +340,7 @@ The Two of Cups does not promise that love is easy. It promises that love is *po
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
 
-## Internal Links
-
+## Cross-References
 ### Adjacent Cards in Suit
 - [[Ace of Cups]] - The preceding gift: divine love received
 - [[Three of Cups]] - The following expansion: joy shared in community

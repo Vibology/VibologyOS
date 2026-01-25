@@ -98,8 +98,7 @@ The purpose is not to win arguments but to "provoke you to expose/examine your s
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 17 - Following]]
 - [[Gate 18 - Work on What Has Been Spoilt]]

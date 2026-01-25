@@ -95,8 +95,7 @@ The mutative quality demands that planning serve genuine change. Planning poses 
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 09 - The Taming Power of the Small]]
 - [[Gate 16 - Enthusiasm]]

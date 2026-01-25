@@ -95,8 +95,7 @@ Gate 48's well of understanding is applied to **partnership and connection**. Th
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 48 - The Well]]
 - [[Gate 21 - Biting Through]]

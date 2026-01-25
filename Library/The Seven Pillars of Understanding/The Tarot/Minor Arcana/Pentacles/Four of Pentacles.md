@@ -292,8 +292,7 @@ The invitation is to *loosen the grip*—not to abandon security, but to hold it
 *TBD*
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 - Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
@@ -308,8 +307,7 @@ The invitation is to *loosen the grip*—not to abandon security, but to hold it
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
 
-## Internal Links
-
+## Cross-References
 ### Adjacent Cards in Suit
 - [[Three of Pentacles]] - Collaborative building; the Four is where the work pauses and defending begins
 - [[Five of Pentacles]] - The fortress crumbles; what was hoarded is lost

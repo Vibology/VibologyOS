@@ -99,8 +99,7 @@ The Channel 45-26 (Surrender) forms between Personality Sun and Earth—the full
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 26 - The Taming Power of the Great]]
 - [[Gate 45 - Gathering Together]]

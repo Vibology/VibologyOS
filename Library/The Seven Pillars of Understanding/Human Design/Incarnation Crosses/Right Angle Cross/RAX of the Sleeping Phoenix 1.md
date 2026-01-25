@@ -95,8 +95,7 @@ The initiatory quality demands that spirit be sought actively, even if the trans
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 55 - Abundance]]
 - [[Gate 59 - Dispersion]]

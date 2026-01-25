@@ -99,8 +99,7 @@ The combination of Root gates (58/52) provides the energy foundation: the pressu
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 25 - Innocence]]
 - [[Gate 46 - Pushing Upward]]

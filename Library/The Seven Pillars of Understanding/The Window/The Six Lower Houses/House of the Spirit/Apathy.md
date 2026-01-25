@@ -120,8 +120,7 @@ The practice is presence: **slow down and let something nourish you**. Not consu
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 **I-Ching & Gene Keys:**
@@ -141,8 +140,7 @@ The practice is presence: **slow down and let something nourish you**. Not consu
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
 
-## Internal Links
-
+## Cross-References
 - [[House of the Spirit]] - The domain of consciousness, soul health, inner divinity
 - [[Gate 56 - The Wanderer]] - Stimulation and storytelling (Throat Center)
 - [[Hexagram 56]] - The Wanderer (I-Ching)

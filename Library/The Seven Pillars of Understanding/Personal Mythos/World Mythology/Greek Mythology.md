@@ -601,8 +601,7 @@ The Eleusinian grain = the Philosopher's Stone—the simple, eternal truth revea
 
 ---
 
-## References
-
+## Sources
 **Jungian Analytical Psychology:**
 - Jung, C.G. *Nietzsche's Zarathustra: Notes of the Seminar Given in 1934-1939*. Edited by James L. Jarrett. Princeton University Press, 1988.
 - Jung, C.G. *Commentary on "The Secret of the Golden Flower."* In *Alchemical Studies* (CW 13). Princeton University Press, 1967.

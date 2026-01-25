@@ -426,8 +426,7 @@ The Seven of Wands teaches: **Sometimes the greatest victory is simply not yield
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 - Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
@@ -442,8 +441,7 @@ The Seven of Wands teaches: **Sometimes the greatest victory is simply not yield
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
 
-## Internal Links
-
+## Cross-References
 ### Adjacent Cards in Suit
 - [[Six of Wands]] - The public victory that the Seven must now defend
 - [[Eight of Wands]] - The swift acceleration that follows successful defense

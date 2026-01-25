@@ -100,8 +100,7 @@ Ra calls them "seers"—not mystical visionaries but pattern perceivers, those w
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 44 - Coming to Meet]]
 - [[Gate 24 - The Return]]

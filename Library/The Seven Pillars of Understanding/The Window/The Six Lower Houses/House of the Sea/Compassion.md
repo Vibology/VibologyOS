@@ -117,8 +117,7 @@ Compassion is the antidote to **Rage** (Gate 6 shadow)—because empathic witnes
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 **I-Ching & Gene Keys:**
@@ -138,8 +137,7 @@ Compassion is the antidote to **Rage** (Gate 6 shadow)—because empathic witnes
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
 
-## Internal Links
-
+## Cross-References
 - [[House of the Sea]] - The domain of emotional depth and relational encounter
 - [[Gate 13 - The Fellowship of Man]] - The Listener (G Center)
 - [[Hexagram 13]] - The Fellowship of Man (I-Ching)

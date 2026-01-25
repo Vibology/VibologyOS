@@ -97,8 +97,7 @@ Hades' influence gives this cross depth: consciousness here is not surface aware
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 05 - Waiting]]
 - [[Gate 35 - Progress]]

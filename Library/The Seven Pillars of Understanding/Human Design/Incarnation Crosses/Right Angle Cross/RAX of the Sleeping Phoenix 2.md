@@ -95,8 +95,7 @@ The civilizing quality demands that transformation serve collective building. Th
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 20 - Contemplation]]
 - [[Gate 34 - The Power of the Great]]

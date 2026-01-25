@@ -97,8 +97,7 @@ The mutation is in the exchange itself—resources given transform not just the 
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 14 - Possession in Great Measure]]
 - [[Gate 08 - Holding Together]]

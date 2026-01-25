@@ -672,8 +672,7 @@ When facing an **impossible task** (the problem the ego alone cannot solve):
 
 ---
 
-## Internal Links
-
+## Cross-References
 **Archetypal Figures:**
 [[The Alchemist]] • [[The Muse]] • [[The Idol]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] • [[The Wise Old Man]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] • [[The Shadow]] • [[The Trickster]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Hero]]
 

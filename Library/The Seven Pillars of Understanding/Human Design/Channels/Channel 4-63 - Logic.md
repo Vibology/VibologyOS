@@ -381,8 +381,7 @@ Jung's process of individuation requires **questioning inherited patterns** (Gat
 - [[Honoring Doubt]] — Allowing questions to remain unanswered until tested
 - [[Pattern Testing]] — Verifying formulas over time
 
-## References
-
+## Sources
 **Primary Source:**
 - Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
 

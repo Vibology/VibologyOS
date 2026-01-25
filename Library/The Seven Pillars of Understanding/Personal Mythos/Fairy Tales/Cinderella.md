@@ -588,8 +588,7 @@ Write a dialogue between yourself and your inner stepmother. Let her speak:
 
 ---
 
-## Internal Links
-
+## Cross-References
 **Archetypal Figures:**
 [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] • [[The Alchemist]] • [[The Idol]] • [[The Shadow]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Persona]] • [[The Wise Old Man]]
 

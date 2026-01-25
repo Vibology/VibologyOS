@@ -98,8 +98,7 @@ The "potential depth/solutions" points to Gate 48. These individuals have genuin
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 52 - Keeping Still]]
 - [[Gate 58 - The Joyous]]

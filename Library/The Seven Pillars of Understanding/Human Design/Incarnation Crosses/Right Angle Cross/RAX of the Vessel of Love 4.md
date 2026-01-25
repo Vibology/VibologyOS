@@ -95,8 +95,7 @@ The Vessel of Love (4) archetype poses the eternal question: "How do we change t
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 10 - Treading]]
 - [[Gate 15 - Modesty]]

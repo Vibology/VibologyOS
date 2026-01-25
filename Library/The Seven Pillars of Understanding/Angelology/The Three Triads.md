@@ -239,8 +239,7 @@ To engage the Third Triad is to **listen to intuition, follow synchronicity, and
 
 ---
 
-## References
-
+## Sources
 *All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Davidson, Gustav. *A Dictionary of Angels: Including the Fallen Angels*. New York: Free Press, 1967.

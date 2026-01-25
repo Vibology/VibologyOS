@@ -193,8 +193,7 @@ The gift of integration: **Learning to let go with grace**. Death teaches that *
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 - Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
@@ -209,8 +208,7 @@ The gift of integration: **Learning to let go with grace**. Death teaches that *
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
 
-## Internal Links
-
+## Cross-References
 - **Adjacent Major Arcana**: [[12 - The Hanged Man]] ← → [[14 - Temperance]]
 - **Element/Modality**: [[Scorpio ♏]] | [[Fixed Water]]
 - **Planetary**: [[Mars ♂]] | [[Pluto ♇]]

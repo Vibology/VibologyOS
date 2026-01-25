@@ -97,8 +97,7 @@ The dedication is to efficiency—not mechanical efficiency but evolutionary eff
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 43 - Breakthrough]]
 - [[Gate 23 - Splitting Apart]]

@@ -99,8 +99,7 @@ The Four Ways (2) poses the eternal question: "What becomes of experience when g
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 33 - Retreat]]
 - [[Gate 19 - Approach]]

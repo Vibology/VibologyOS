@@ -100,8 +100,7 @@ The trans-personal karma of this cross is worked out through partnership. The in
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 07 - The Army]]
 - [[Gate 13 - The Fellowship of Man]]

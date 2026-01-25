@@ -98,8 +98,7 @@ The "adrenalized energy" comes from both Root gates (38/39). These individuals a
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 38 - Opposition]]
 - [[Gate 39 - Obstruction]]

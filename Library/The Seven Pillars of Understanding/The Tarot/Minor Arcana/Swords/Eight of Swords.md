@@ -308,8 +308,7 @@ But the lock—the lock may be open.
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 - Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
@@ -324,8 +323,7 @@ But the lock—the lock may be open.
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
 
-## Internal Links
-
+## Cross-References
 ### Adjacent Cards in Suit
 - [[Seven of Swords]] - The cunning: the strategy that may have led to this trap
 - [[Nine of Swords]] - The anguish: the nightmare of the tormented mind

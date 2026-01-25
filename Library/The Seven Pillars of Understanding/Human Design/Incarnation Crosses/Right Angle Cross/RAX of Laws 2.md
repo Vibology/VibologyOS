@@ -95,8 +95,7 @@ The Civilization context asks: "What stories must we tell to build enduring form
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 56 - The Wanderer]]
 - [[Gate 60 - Limitation]]

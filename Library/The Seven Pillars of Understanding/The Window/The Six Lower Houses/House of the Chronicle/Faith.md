@@ -118,8 +118,7 @@ The practice is straightforward: **invest in what you believe deserves to endure
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 **I-Ching & Gene Keys:**
@@ -139,8 +138,7 @@ The practice is straightforward: **invest in what you believe deserves to endure
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
 
-## Internal Links
-
+## Cross-References
 - [[House of the Chronicle]] - The domain of metanarrative and meaning-shaping virtues
 - [[Gate 32 - Duration]] - Continuity and fear of failure (Spleen)
 - [[Hexagram 32]] - Duration (I-Ching)

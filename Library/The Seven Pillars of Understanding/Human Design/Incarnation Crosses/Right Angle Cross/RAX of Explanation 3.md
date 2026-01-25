@@ -98,8 +98,7 @@ The "untested individual knowing" quality suggests that this Explainer must work
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 04 - Youthful Folly]]
 - [[Gate 49 - Revolution]]

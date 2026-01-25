@@ -103,8 +103,7 @@ In Jung's work, The Great Mother archetype contains both the nurturing and the t
 
 When The Great Mother appears in a reading, the querent is being tested: will you fill your cup first? Will you defend what you nourish? Will you care only for those your Sacral responds to, or will you deplete yourself trying to feed everyone? The warrior-mother knows: sustainable caring requires fierce boundaries.
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 **I-Ching & Gene Keys:**
@@ -124,8 +123,7 @@ When The Great Mother appears in a reading, the querent is being tested: will yo
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
 
-## Internal Links
-
+## Cross-References
 - [[The Hero]] - Power in service to protection
 - [[The Divine Child]] - What the Great Mother protects
 - [[The Wise Man]] - Mentor who guides without consuming

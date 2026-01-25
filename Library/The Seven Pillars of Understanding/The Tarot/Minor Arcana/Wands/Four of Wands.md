@@ -354,8 +354,7 @@ Perfected work is not the end. It is the foundation for the next ascent.
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 - Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
@@ -370,8 +369,7 @@ Perfected work is not the end. It is the foundation for the next ascent.
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
 
-## Internal Links
-
+## Cross-References
 ### Adjacent Cards in Suit
 - [[Three of Wands]] - The preceding wait: ships at sea, active patience
 - [[Five of Wands]] - The following conflict: competition, challenge to stability

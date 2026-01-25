@@ -95,8 +95,7 @@ The Sphinx (4) poses the eternal question: "What will endure beyond me?" The ans
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 01 - The Creative]]
 - [[Gate 02 - The Receptive]]

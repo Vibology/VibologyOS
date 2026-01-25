@@ -154,8 +154,7 @@ All Types must learn to **trust their Authority**, not their Ajna, for decision-
 *The Ajna is the mind's eye—the seat of conceptualization, the processor of mental pressure, the weaver of theories and perspectives. But it is not the knower of truth. It thinks, but it does not decide. To honor the Ajna is to use the mind as a tool for observation and articulation, not as the master of your life.*
 
 
-## References
-
+## Sources
 *All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.

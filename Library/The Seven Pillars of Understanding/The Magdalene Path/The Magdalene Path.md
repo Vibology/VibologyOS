@@ -374,8 +374,7 @@ For those with **undefined Head and Ajna centers** (particularly [[Reflector|Ref
 **Magdalene Path, Fifth Way, Conscious Love, Vertical Axis, Soul Ascent, Kenosis, Self-Emptying, Singleness, Ihidaya, Bridal Chamber, Sacred Union, Substituted Love, Anointing, Mary Magdalene, Koinonos, Apostle to Apostles, Sophia, Wisdom Gospels, Gnostic, Enochian Aethyrs, Six Stages, Base, Gate, Lower Astral, Abyss, Higher Astral, Zenith, Choronzon, Seven Demons, False Self, Dark Night, Resurrection, Wedding Garment, Abler Soul, Cosmic Service, Embodiment, Sacred Feminine**
 
 ---
-## Internal Links
-
+## Cross-References
 ### Core Magdalene Path Entries
 - [[Mary Magdalene - Apostle and Beloved]] - The archetype and historical figure
 - [[The Eight Boughs of Ascent]] - Mary's teaching of the Great Tree and soul ascent
@@ -402,8 +401,7 @@ For those with **undefined Head and Ajna centers** (particularly [[Reflector|Ref
 - [[Jungian Archetypes]] - Shadow work and individuation parallels
 
 ---
-## References
-
+## Sources
 *All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Bourgeault, Cynthia. *The Meaning of Mary Magdalene: Discovering the Woman at the Heart of Christianity*. Boston: Shambhala, 2010.

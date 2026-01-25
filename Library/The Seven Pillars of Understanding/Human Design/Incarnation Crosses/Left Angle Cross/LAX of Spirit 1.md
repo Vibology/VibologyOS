@@ -101,8 +101,7 @@ The trans-personal nature means these pleasures are shared. The Spirit does not 
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 55 - Abundance]]
 - [[Gate 59 - Dispersion]]

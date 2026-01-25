@@ -99,8 +99,7 @@ The Four Ways (1) poses the eternal question: "How does thinking evolve consciou
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 24 - The Return]]
 - [[Gate 44 - Coming to Meet]]

@@ -434,8 +434,7 @@ The Eight of Wands teaches: **There are moments when you must release control an
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 - Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
@@ -450,8 +449,7 @@ The Eight of Wands teaches: **There are moments when you must release control an
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
 
-## Internal Links
-
+## Cross-References
 ### Adjacent Cards in Suit
 - [[Seven of Wands]] - The defensive stand that clears the way for the Eight's acceleration
 - [[Nine of Wands]] - The exhausted endurance that follows the Eight's velocity

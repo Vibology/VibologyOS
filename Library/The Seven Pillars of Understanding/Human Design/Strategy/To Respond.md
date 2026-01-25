@@ -222,8 +222,7 @@ When the Generator abandons their strategy:
 
 *To Respond is the Generator's alchemical law—the recognition that they are not designed to chase life but to magnetize it. Their open aura draws the world to them, and their Sacral knows immediately what is correct. The practice is trust: trusting that opportunities will arrive, trusting the body's knowing before the mind's interpretation, trusting that satisfaction emerges not from forcing but from responding to what genuinely has energy. When the Generator honors their Sacral, they become living proof that fulfillment is not found by hunting, but by recognizing what is correct when it arrives.*
 
-## References
-
+## Sources
 *All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.

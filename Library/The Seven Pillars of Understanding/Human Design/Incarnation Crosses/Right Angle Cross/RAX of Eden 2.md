@@ -95,8 +95,7 @@ The Eden (2) archetype poses the eternal question: "How do we make suffering mea
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 12 - Standstill]]
 - [[Gate 11 - Peace]]

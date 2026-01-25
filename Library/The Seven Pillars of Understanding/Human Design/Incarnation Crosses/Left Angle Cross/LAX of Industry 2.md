@@ -100,8 +100,7 @@ The trans-personal karma of this cross is worked out through the bonds formed wi
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 29 - The Abysmal]]
 - [[Gate 30 - The Clinging Fire]]

@@ -95,8 +95,7 @@ The question posed: "How does one think about the unknowable without going mad?"
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 61 - Inner Truth]]
 - [[Gate 62 - Preponderance of the Small]]

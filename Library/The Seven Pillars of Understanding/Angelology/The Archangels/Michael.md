@@ -828,8 +828,7 @@ Together, they form the **protective quaternary**, the four corners of the cosmo
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources
 
 **Davidson, Gustav.** *A Dictionary of Angels, Including the Fallen Angels.* New York: The Free Press, 1967 (Paperback Edition 1971).
@@ -867,8 +866,7 @@ The following content represents cross-system synthesis, interpretive material, 
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### Sequential and Hierarchical Connections
 - [[Tiphareth]] — The Sephira Michael oversees
 - [[Virtues]] — The angelic order Michael commands (Malachim)

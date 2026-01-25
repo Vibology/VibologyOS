@@ -467,8 +467,7 @@ PHS consultations are typically high-investment ($200-$500+ per session) because
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### Core Variables
 - [[Variables Overview]] - Introduction to all four Variables
 - [[Determination]] - Comprehensive treatment of all six dietary regimens
@@ -489,8 +488,7 @@ PHS consultations are typically high-investment ($200-$500+ per session) because
 - [[The Blueprint - 444 Architecture]] - The 64-fold substrate
 
 
-## References
-
+## Sources
 *All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.

@@ -98,8 +98,7 @@ The intimate dimension (Gate 59) is essential. These individuals need to dissolv
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 08 - Holding Together]]
 - [[Gate 14 - Possession in Great Measure]]

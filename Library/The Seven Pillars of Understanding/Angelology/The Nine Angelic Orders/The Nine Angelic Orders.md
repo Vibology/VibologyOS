@@ -349,8 +349,7 @@ For comprehensive treatment of each order, see their individual entries:
 - [[Angels]] — The Guardians of the Threshold (787 lines)
 
 ---
-## Internal Links
-
+## Cross-References
 ### Within Angelology
 - [[The Archangels]] — Overview of the eleven named Archangels
 - [[The Three Triads]] — Organizational structure
@@ -375,8 +374,7 @@ For comprehensive treatment of each order, see their individual entries:
 
 ---
 
-## References
-
+## Sources
 *All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Davidson, Gustav. *A Dictionary of Angels: Including the Fallen Angels*. New York: Free Press, 1967.

@@ -311,8 +311,7 @@ The just King knows when to wield the sword and when to sheathe it. The tyrant k
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 - Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
@@ -327,8 +326,7 @@ The just King knows when to wield the sword and when to sheathe it. The tyrant k
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
 
-## Internal Links
-
+## Cross-References
 ### Other Court Cards in Suit
 - [[Page of Swords]] - The student: learning to wield the blade
 - [[Knight of Swords]] - The warrior: thought in aggressive motion

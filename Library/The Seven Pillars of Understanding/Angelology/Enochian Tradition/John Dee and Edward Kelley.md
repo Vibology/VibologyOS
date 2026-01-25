@@ -417,8 +417,7 @@ Despite ambiguities, the partnership of Dee and Kelley produced:
 Their work endures because it **speaks to something real**—whether that "real" is external angels, archetypal structures, or the transpersonal depths of the human psyche matters less than the **transformative power** the system holds for those who engage it seriously.
 
 ---
-## Internal Links
-
+## Cross-References
 ### Within Enochian
 - [[Enochian System Overview]] — The complete system they revealed
 - [[The Four Watchtowers]] — Received 1584
@@ -438,8 +437,7 @@ Their work endures because it **speaks to something real**—whether that "real"
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources
 
 **Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* New York: Free Press, 1967.

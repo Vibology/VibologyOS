@@ -320,8 +320,7 @@ When recognized and invited, the 17-62 individual becomes the **architect of log
 - [[Gene Keys]] — Shadow/Gift/Siddhi framework
 - [[The Hierophant (Tarot)]] — Organized systems and teaching
 
-## References
-
+## Sources
 **Primary Source:**
 - Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
 

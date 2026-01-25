@@ -99,8 +99,7 @@ Ra emphasizes "vocal inflection"—this is not about content alone but about the
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 12 - Standstill]]
 - [[Gate 11 - Peace]]

@@ -375,8 +375,7 @@ The card does not answer this question. It simply presents the figure on the bat
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 - Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
@@ -391,8 +390,7 @@ The card does not answer this question. It simply presents the figure on the bat
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
 
-## Internal Links
-
+## Cross-References
 ### Adjacent Cards in Suit
 - [[Ace of Wands]] - The preceding gift: divine creative fire offered
 - [[Three of Wands]] - The following fruit: early success, ships sailing

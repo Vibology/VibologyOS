@@ -578,8 +578,7 @@ At its highest expression, the Enochian language offers:
 The language is not to be learned like French or Spanish—it is to be **embodied**. Each word spoken in ritual rewires the practitioner's consciousness, opening pathways to the numinous. Those who approach it with humility and discipline may find it to be one of the most potent magical tools ever revealed.
 
 ---
-## Internal Links
-
+## Cross-References
 ### Within Enochian
 - [[Enochian System Overview]] — Complete introduction to Enochian magic
 - [[The Four Watchtowers]] — Elemental tablets and divine names
@@ -599,8 +598,7 @@ The language is not to be learned like French or Spanish—it is to be **embodie
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources
 
 **Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* New York: Free Press, 1967.

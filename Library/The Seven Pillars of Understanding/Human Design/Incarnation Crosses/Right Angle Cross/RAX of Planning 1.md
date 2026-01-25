@@ -95,8 +95,7 @@ The initiatory quality demands that planning begin with clear thinking. Planning
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 37 - The Family]]
 - [[Gate 40 - Deliverance]]

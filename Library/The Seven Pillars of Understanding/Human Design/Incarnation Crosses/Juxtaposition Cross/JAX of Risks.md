@@ -99,8 +99,7 @@ Ra identifies two motivations: "to get what they need" and "to find purpose and 
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 28 - Preponderance of the Great]]
 - [[Gate 27 - Nourishment]]

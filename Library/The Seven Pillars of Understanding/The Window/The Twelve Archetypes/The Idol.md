@@ -109,8 +109,7 @@ When The Idol appears in a reading, the querent is being tested: will you claim 
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 **I-Ching & Gene Keys:**
@@ -130,8 +129,7 @@ When The Idol appears in a reading, the querent is being tested: will you claim 
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
 
-## Internal Links
-
+## Cross-References
 - [[The Muse]] - Feminine soul-image vs masculine spirit-force
 - [[The Hero]] - Power in action vs authority through pattern
 - [[The Alchemist]] - Integration of Muse and Idol

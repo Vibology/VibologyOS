@@ -103,8 +103,7 @@ The "art form" Ra mentions distinguishes this from mere entertainment—this is 
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 60 - Limitation]]
 - [[Gate 56 - The Wanderer]]

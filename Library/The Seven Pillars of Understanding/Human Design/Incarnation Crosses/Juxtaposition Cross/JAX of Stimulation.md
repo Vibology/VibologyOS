@@ -99,8 +99,7 @@ Ra emphasizes the risk-taking and the personal nature—"their own story." These
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 56 - The Wanderer]]
 - [[Gate 60 - Limitation]]

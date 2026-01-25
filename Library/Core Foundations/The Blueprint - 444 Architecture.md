@@ -578,8 +578,7 @@ By the end of the contemplation period, the pattern is **embodied**—you don't 
 
 ---
 
-## References
-
+## Sources
 *All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Huang, Alfred. *The Complete I Ching: The Definitive Translation*. Rochester, VT: Inner Traditions, 2010.

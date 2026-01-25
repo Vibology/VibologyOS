@@ -440,8 +440,7 @@ Determination is the **gateway** to the other Variables. You cannot access [[Env
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### Core Variables
 - [[Variables Overview]] - Introduction to all four Variables
 - [[Environment]] - The second transformation (physical surroundings)
@@ -462,8 +461,7 @@ Determination is the **gateway** to the other Variables. You cannot access [[Env
 - [[The Blueprint - 444 Architecture]] - The 64-fold substrate underlying Variables
 
 
-## References
-
+## Sources
 *All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.

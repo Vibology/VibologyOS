@@ -99,8 +99,7 @@ Ra emphasizes the inspiring quality—these formulas don't merely organize but e
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 04 - Youthful Folly]]
 - [[Gate 49 - Revolution]]

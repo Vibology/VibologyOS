@@ -99,8 +99,7 @@ The Four Ways (3) poses the eternal question: "What is worth the tribe's investm
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 44 - Coming to Meet]]
 - [[Gate 24 - The Return]]

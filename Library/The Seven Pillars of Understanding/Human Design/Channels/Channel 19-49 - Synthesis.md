@@ -321,8 +321,7 @@ When recognized and invited, the 19-49 individual becomes the **emotional heart 
 - [[Gene Keys]] — Shadow/Gift/Siddhi framework
 - [[The Lovers (Tarot)]] — Union and principles of relationship
 
-## References
-
+## Sources
 **Primary Source:**
 - Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
 

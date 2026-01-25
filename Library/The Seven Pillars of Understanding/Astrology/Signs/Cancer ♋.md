@@ -231,8 +231,7 @@ The Crab teaches that vulnerability is not weakness. It is the **courage to be s
 
 ---
 
-## References
-
+## Sources
 [^1]: Lilly, *Christian Astrology*, Book 1: Moon rules Cancer (sole house)
 [^2]: Lilly, *Christian Astrology*, Book 1; Ptolemy, *Tetrabiblos*, Book 1: Cancer as Cardinal Water (cold and moist, phlegmatic), solstitial sign
 [^3]: Lilly, *Christian Astrology*, Book 1: Jupiter exalted in Cancer at 15°

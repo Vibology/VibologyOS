@@ -95,8 +95,7 @@ The Sphinx poses the eternal question: "What is the purpose of remembering?" The
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 13 - The Fellowship of Man]]
 - [[Gate 07 - The Army]]

@@ -743,8 +743,7 @@ That answer—moment by moment, choice by choice, crisis by crisis, integration 
 **Now go. Live your myth. Become who you truly are.**
 
 ---
-## Internal Links
-
+## Cross-References
 **Core Pillars:**
 - [[Human Design]] — Genetic blueprint, mechanical layer
 - [[Astrology]] — Cosmic timing, planetary functions

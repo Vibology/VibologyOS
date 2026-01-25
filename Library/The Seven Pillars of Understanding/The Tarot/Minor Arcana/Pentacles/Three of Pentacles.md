@@ -301,8 +301,7 @@ The question the Three asks is not "How can I skip to mastery?" but "Am I willin
 *TBD*
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 - Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
@@ -317,8 +316,7 @@ The question the Three asks is not "How can I skip to mastery?" but "Am I willin
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
 
-## Internal Links
-
+## Cross-References
 ### Adjacent Cards in Suit
 - [[Two of Pentacles]] - The juggling settles; the work begins
 - [[Four of Pentacles]] - The work pauses; resources are secured (sometimes hoarded)

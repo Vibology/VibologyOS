@@ -98,8 +98,7 @@ Ra notes they are "unaware" of their corrective function. This is crucial—they
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 15 - Modesty]]
 - [[Gate 10 - Treading]]

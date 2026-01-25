@@ -154,8 +154,7 @@ Take action. Face the danger. Engage the risk. Lead when leadership is required 
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 **I-Ching & Gene Keys:**
@@ -175,8 +174,7 @@ Take action. Face the danger. Engage the risk. Lead when leadership is required 
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
 
-## Internal Links
-
+## Cross-References
 - [[House of the Land]] - Grounded stability vs. vital movement
 - [[House of the Sea]] - Emotional depth vs. instinctual action
 - [[House of the Chronicle]] - Narrative meaning vs. immediate movement

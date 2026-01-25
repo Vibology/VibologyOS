@@ -323,8 +323,7 @@ When they honor the Sacral's rhythm—responding fully, pivoting freely, resting
 - [[Gene Keys]] — Shadow/Gift/Siddhi framework
 - [[The Chariot (Tarot)]] — Harnessed power in motion
 
-## References
-
+## Sources
 **Primary Source:**
 - Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
 

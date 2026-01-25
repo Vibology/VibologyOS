@@ -98,8 +98,7 @@ Ra emphasizes "controlling how and to whom"—this is not stingy but wise. Not e
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 58 - The Joyous]]
 - [[Gate 52 - Keeping Still]]

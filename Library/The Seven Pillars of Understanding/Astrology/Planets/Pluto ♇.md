@@ -232,8 +232,7 @@ Pluto teaches that there is **light within the darkness**—but you cannot acces
 
 ---
 
-## References
-
+## Sources
 [^1]: Modern esoteric astrology (Grimoire): Pluto discovered 1930; modern ruler of Scorpio (co-ruler with Mars); governs death, rebirth, obsession, "unhealable wound"; exalted in Leo
 [^2]: Greek/Roman mythology (Grimoire): Hades ("The Invisible") brother of Zeus, ruler of underworld and the dead; Romans called him Pluto (from ploutos "riches") referring to hidden wealth of earth (crops, minerals)
 [^3]: Greek mythology (Grimoire): Abduction and rape of Persephone by Hades; symbolizes intrusion of fate and "violent penetration" of unconscious into ego's life; Persephone returns transformed as Queen of the Dead

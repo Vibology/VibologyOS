@@ -99,8 +99,7 @@ The combination of intuition (57), mystery (61), and detail (62) creates shocks 
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 51 - The Arousing]]
 - [[Gate 57 - The Gentle]]

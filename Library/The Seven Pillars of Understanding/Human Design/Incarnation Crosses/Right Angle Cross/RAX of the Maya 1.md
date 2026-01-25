@@ -95,8 +95,7 @@ The question posed: "What is the illusion?" The answer: that process is more imp
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 42 - Increase]]
 - [[Gate 32 - Duration]]

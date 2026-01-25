@@ -98,8 +98,7 @@ Ra emphasizes "a select group"—not everyone can hear individual knowing. These
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 43 - Breakthrough]]
 - [[Gate 23 - Splitting Apart]]

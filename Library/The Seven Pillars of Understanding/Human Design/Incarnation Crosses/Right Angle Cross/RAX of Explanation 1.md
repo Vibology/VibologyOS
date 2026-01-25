@@ -98,8 +98,7 @@ The itinerant quality suggests one who travels—not geographically, but concept
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 49 - Revolution]]
 - [[Gate 04 - Youthful Folly]]

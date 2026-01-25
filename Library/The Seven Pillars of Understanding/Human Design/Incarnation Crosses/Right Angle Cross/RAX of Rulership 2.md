@@ -97,8 +97,7 @@ Jupiter's expansive influence amplifies the scope: these rulers build large, gat
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 45 - Gathering Together]]
 - [[Gate 26 - The Taming Power of the Great]]

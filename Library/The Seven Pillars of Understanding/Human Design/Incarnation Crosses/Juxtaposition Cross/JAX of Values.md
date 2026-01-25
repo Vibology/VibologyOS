@@ -100,8 +100,7 @@ Ra's phrase "consequences commensurate with the crime" captures the function. Th
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 50 - The Cauldron]]
 - [[Gate 03 - Difficulty at the Beginning]]

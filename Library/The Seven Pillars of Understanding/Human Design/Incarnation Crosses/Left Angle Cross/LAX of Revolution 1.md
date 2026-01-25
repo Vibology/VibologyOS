@@ -100,8 +100,7 @@ The trans-personal nature means others are essential to the purpose. The Revolut
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 49 - Revolution]]
 - [[Gate 04 - Youthful Folly]]

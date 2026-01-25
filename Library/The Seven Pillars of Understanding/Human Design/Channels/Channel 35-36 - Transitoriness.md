@@ -111,8 +111,7 @@ When aligned (waiting through the wave, informing before initiating), the 35-36 
 - [[Collective Sensing Circuit]] — Experience-based abstract learning
 - [[Emotional Authority]] — Waiting through the wave for clarity
 
-## References
-
+## Sources
 **Primary Source:**
 - Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
 

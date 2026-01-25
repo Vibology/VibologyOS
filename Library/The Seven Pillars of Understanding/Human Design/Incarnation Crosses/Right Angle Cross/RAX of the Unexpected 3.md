@@ -95,8 +95,7 @@ The Duality context asks: "What unexpected bonds must we accept?" The answer eme
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 28 - Preponderance of the Great]]
 - [[Gate 27 - Nourishment]]

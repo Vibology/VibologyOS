@@ -97,8 +97,7 @@ Jupiter's expansive influence fits perfectly: these are individuals who expand c
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 35 - Progress]]
 - [[Gate 05 - Waiting]]

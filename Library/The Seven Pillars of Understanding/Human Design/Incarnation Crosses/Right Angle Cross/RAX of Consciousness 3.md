@@ -97,8 +97,7 @@ Venus's influence colors this with grace: the meaning-making is offered as gift,
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 64 - Before Completion]]
 - [[Gate 63 - After Completion]]

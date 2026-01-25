@@ -103,8 +103,7 @@ In Jung's work and in Campbell's Hero's Journey framework, the Threshold Guardia
 
 When The Nightmare appears in a reading, the querent is being tested: will you recognize obstruction as teacher? Will you turn inward rather than force through? Will you use provocation as catalyst for dynamism? The gatekeeper knows: **the threshold opens to those who demonstrate readiness, not to those who demand passage**. Do the work. Face the shadow. Earn your crossing.
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 **I-Ching & Gene Keys:**
@@ -124,8 +123,7 @@ When The Nightmare appears in a reading, the querent is being tested: will you r
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
 
-## Internal Links
-
+## Cross-References
 - [[The Hero]] - Journey tested by guardian
 - [[The Shape]] - Shadow patterns guarding threshold
 - [[The Alchemist]] - Integration that allows passage

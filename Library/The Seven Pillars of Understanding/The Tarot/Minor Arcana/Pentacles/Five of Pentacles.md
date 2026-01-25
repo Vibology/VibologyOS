@@ -288,8 +288,7 @@ The invitation of the Five is to *turn around*, to *knock*, to *ask*. The door m
 *TBD*
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 - Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
@@ -304,8 +303,7 @@ The invitation of the Five is to *turn around*, to *knock*, to *ask*. The door m
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
 
-## Internal Links
-
+## Cross-References
 ### Adjacent Cards in Suit
 - [[Four of Pentacles]] - The fortress collapses; what was hoarded is lost
 - [[Six of Pentacles]] - Help arrives; the scales balance; giving and receiving restored

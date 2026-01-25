@@ -95,8 +95,7 @@ Gate 58's vitality is oriented toward **challenging the norm**. The joy isn't pa
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 58 - The Joyous]]
 - [[Gate 52 - Keeping Still]]

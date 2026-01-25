@@ -151,8 +151,7 @@ Open your heart. Allow yourself to feel. Engage relationship with vulnerability.
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 **I-Ching & Gene Keys:**
@@ -172,8 +171,7 @@ Open your heart. Allow yourself to feel. Engage relationship with vulnerability.
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
 
-## Internal Links
-
+## Cross-References
 - [[House of the Land]] - Physical embodiment vs. emotional flow
 - [[House of the Flame]] - Instinct and action vs. feeling and response
 - [[House of the Chronicle]] - Narrative structure vs. emotional truth

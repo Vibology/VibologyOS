@@ -229,8 +229,7 @@ Saturn teaches that limitation is not punishment. It is **initiation**—the ord
 
 ---
 
-## References
-
+## Sources
 [^1]: Lilly, *Christian Astrology* (1647), Book 1; Ptolemy, *Tetrabiblos*, Book 1
 [^2]: Ptolemy, *Tetrabiblos*, Book 1: "Saturn is exalted in Libra to preserve his station opposite the Sun (exalted in Aries), opposing heat with cold"
 [^3]: Lilly, *Christian Astrology*, Book 1: Saturn rejoices in the 12th House, the house of sorrow, imprisonment, and self-undoing, because he is naturally the "author of mischief"

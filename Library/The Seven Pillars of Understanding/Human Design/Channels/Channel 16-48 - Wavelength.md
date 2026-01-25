@@ -316,8 +316,7 @@ When recognized and invited, the 16-48 individual becomes the **living demonstra
 - [[Gene Keys]] — Shadow/Gift/Siddhi framework
 - [[The Magician (Tarot)]] — Skill and channeled mastery
 
-## References
-
+## Sources
 **Primary Source:**
 - Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
 

@@ -99,8 +99,7 @@ The Four Ways (4) poses the eternal question: "What does it mean to truly provid
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 19 - Approach]]
 - [[Gate 33 - Retreat]]

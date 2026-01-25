@@ -95,8 +95,7 @@ The Vessel of Love (2) archetype poses the eternal question: "How do we love hum
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 15 - Modesty]]
 - [[Gate 10 - Treading]]

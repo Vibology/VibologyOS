@@ -377,8 +377,7 @@ Jung's process of individuation requires **reclaiming projected power**. The Cha
 - [[Electromagnetic Completion]] — How channels complete in relationships
 - [[Individual Empowerment vs. Collective Leadership]] — Distinguishing roles
 
-## References
-
+## Sources
 **Primary Source:**
 - Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
 

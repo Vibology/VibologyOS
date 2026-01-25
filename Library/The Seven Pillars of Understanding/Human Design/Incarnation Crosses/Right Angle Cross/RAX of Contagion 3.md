@@ -97,8 +97,7 @@ The contagion spreads through the example of total commitment. Others witness so
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 29 - The Abysmal]]
 - [[Gate 30 - The Clinging Fire]]

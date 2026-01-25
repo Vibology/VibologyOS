@@ -354,8 +354,7 @@ The Sun does not force the plants to grow. It simply shines, day after day, with
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 - Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
@@ -370,8 +369,7 @@ The Sun does not force the plants to grow. It simply shines, day after day, with
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
 
-## Internal Links
-
+## Cross-References
 ### Adjacent Cards in Suit
 - [[Two of Wands]] - The preceding strategy: surveying options, choosing direction
 - [[Four of Wands]] - The following celebration: harvest home, structure complete

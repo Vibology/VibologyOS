@@ -100,8 +100,7 @@ The trans-personal nature means the building serves others. The Industry does no
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 30 - The Clinging Fire]]
 - [[Gate 29 - The Abysmal]]

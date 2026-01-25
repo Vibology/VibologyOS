@@ -99,8 +99,7 @@ The artistic dimension Ra emphasizes reflects the Individual circuitry: the insi
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 13 - The Fellowship of Man]]
 - [[Gate 07 - The Army]]

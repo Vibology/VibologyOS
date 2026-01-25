@@ -97,8 +97,7 @@ Alcyone's influence suggests leadership that illuminates: the graceful ruler bri
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 22 - Grace]]
 - [[Gate 47 - Oppression]]

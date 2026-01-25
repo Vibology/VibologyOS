@@ -320,8 +320,7 @@ When recognized and invited, the 23-43 individual becomes the **voice of mutatio
 - [[Gene Keys]] — Shadow/Gift/Siddhi framework
 - [[The Fool (Tarot)]] — Individual mutation and leap of faith
 
-## References
-
+## Sources
 **Primary Source:**
 - Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
 

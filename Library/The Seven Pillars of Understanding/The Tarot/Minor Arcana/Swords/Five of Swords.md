@@ -284,8 +284,7 @@ The truly wise know that some swords should be dropped. Some arguments should be
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 - Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
@@ -300,8 +299,7 @@ The truly wise know that some swords should be dropped. Some arguments should be
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
 
-## Internal Links
-
+## Cross-References
 ### Adjacent Cards in Suit
 - [[Four of Swords]] - The rest: what should have preceded this conflict
 - [[Six of Swords]] - The journey away: what follows when you leave the battlefield

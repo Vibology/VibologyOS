@@ -377,8 +377,7 @@ At its highest expression, the Enochian system offers:
 The system demands **humility, discipline, and relentless self-honesty**. It is not for dabblers or ego-seekers. Those who approach it with reverence and rigor may find it to be **the most comprehensive magical technology ever revealed**.
 
 ---
-## Internal Links
-
+## Cross-References
 ### Within Angelology
 - [[The Archangels]] — The eleven Qabalistic archangels
 - [[The Nine Angelic Orders]] — The nine orders of the Pseudo-Dionysian hierarchy
@@ -406,8 +405,7 @@ The system demands **humility, discipline, and relentless self-honesty**. It is 
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources
 
 **Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* New York: Free Press, 1967.

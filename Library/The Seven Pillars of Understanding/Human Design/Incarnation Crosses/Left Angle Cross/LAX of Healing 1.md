@@ -99,8 +99,7 @@ The "medicine" in Ra's keynote encompasses all forms of healing intervention—p
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 25 - Innocence]]
 - [[Gate 46 - Pushing Upward]]

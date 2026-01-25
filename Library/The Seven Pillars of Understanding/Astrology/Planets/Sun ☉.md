@@ -188,8 +188,7 @@ The Sun does not perform. It simply *is*—and in that being, the world organize
 - [[9th House]] — The Sun's traditional joy, quest for meaning
 
 ---
-## References
-
+## Sources
 [^1]: Lilly, *Christian Astrology* (1647), Book 1; Ptolemy, *Tetrabiblos*, Book 1
 [^2]: Ptolemy, *Tetrabiblos*, Book 1: "The Sun's heating nature increases and the day lengthens upon entering Aries"
 [^3]: Lilly, *Christian Astrology*, Book 1: The Sun rejoices in the 9th House

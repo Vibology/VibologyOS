@@ -98,8 +98,7 @@ The blind spot—"everything except themselves"—is crucial wisdom. Correction 
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 18 - Work on What Has Been Spoilt]]
 - [[Gate 17 - Following]]

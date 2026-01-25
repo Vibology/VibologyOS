@@ -95,8 +95,7 @@ The Eden archetype poses the eternal question: "What must be risked to truly kno
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 36 - Darkening of the Light]]
 - [[Gate 06 - Conflict]]

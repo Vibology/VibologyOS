@@ -95,8 +95,7 @@ The question posed: "What makes a bond worth preserving?" The answer: the spleni
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 32 - Duration]]
 - [[Gate 42 - Increase]]

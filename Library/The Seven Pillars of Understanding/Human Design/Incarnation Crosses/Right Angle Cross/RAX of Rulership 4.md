@@ -97,8 +97,7 @@ Hades' influence gives this cross power: the promise of a better tomorrow carrie
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 26 - The Taming Power of the Great]]
 - [[Gate 45 - Gathering Together]]

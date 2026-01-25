@@ -227,8 +227,7 @@ Being seen is prerequisite to invitation. Projectors can position themselves whe
 
 *Wait for the Invitation is the Projector's sacred discipline—the recognition that their penetrating gift requires formal opening to be received. In a world that values initiative, waiting feels like weakness. But the Projector's power is not in pushing but in precision: when they are truly invited, their guidance transforms systems, relationships, and lives. The invitation is not limitation but liberation—it ensures the Projector's wisdom lands where it is valued, empowered, and can create genuine success. The bitter Projector has forgotten this; the successful Projector has learned it through patient practice.*
 
-## References
-
+## Sources
 *All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.

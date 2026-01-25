@@ -316,8 +316,7 @@ When recognized and invited, the 18-58 individual becomes the **guardian of qual
 - [[Gene Keys]] — Shadow/Gift/Siddhi framework
 - [[Justice (Tarot)]] — Discernment and correction
 
-## References
-
+## Sources
 **Primary Source:**
 - Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
 

@@ -318,8 +318,7 @@ The Ace of Wands teaches: **You are not the source, but you are the instrument.*
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 - Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
@@ -334,8 +333,7 @@ The Ace of Wands teaches: **You are not the source, but you are the instrument.*
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
 
-## Internal Links
-
+## Cross-References
 ### Adjacent Cards in Suit
 - [[Two of Wands]] - The choice of direction: which path will the will take?
 

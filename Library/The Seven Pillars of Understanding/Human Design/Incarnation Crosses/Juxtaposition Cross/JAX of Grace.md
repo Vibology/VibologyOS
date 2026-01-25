@@ -98,8 +98,7 @@ Ra identifies them as "potent mutative agents"—the Individual circuitry gives 
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 22 - Grace]]
 - [[Gate 47 - Oppression]]

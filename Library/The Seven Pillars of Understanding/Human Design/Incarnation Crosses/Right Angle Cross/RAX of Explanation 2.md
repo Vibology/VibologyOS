@@ -97,8 +97,7 @@ The perpetual outsider quality suggests one who serves civilization precisely by
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 23 - Splitting Apart]]
 - [[Gate 43 - Breakthrough]]

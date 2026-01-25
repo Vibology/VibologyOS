@@ -847,8 +847,7 @@ A man loses his father suddenly. He hooks the skeleton (his own mortality surfac
 
 ---
 
-## Internal Links
-
+## Cross-References
 **Archetypal Figures:**
 [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] • [[The Alchemist]] • [[The Idol]] • [[The Muse]] • [[The Shadow]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] • [[The Wise Old Man]] • [[The Nightmare]] • [[The Changeling]]
 

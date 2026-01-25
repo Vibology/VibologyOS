@@ -99,8 +99,7 @@ The "need for depth" reflects Gate 55's spiritual hunger—this is not shallow e
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 55 - Abundance]]
 - [[Gate 59 - Dispersion]]

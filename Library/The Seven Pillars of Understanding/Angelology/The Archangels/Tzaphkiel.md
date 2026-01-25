@@ -949,8 +949,7 @@ To integrate Tzaphkiel is to become the **sacred womb**—the one who holds, wit
 
 ---
 
-## References
-
+## Sources
 *All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 **Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.

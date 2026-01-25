@@ -210,8 +210,7 @@ The Twins teach that duality is not a problem to be solved but a **generative te
 
 ---
 
-## References
-
+## Sources
 [^1]: Lilly, *Christian Astrology*, Book 1: Mercury rules Gemini (Day House)
 [^2]: Lilly, *Christian Astrology*, Book 1; Ptolemy, *Tetrabiblos*, Book 1: Gemini as Mutable (Common/Bicorporeal) Air (hot and moist, sanguine)
 [^3]: Lilly, *Christian Astrology*, Book 1: Jupiter in detriment (opposite Sagittarius)

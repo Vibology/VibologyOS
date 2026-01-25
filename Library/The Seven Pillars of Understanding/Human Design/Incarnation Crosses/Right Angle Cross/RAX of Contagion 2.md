@@ -97,8 +97,7 @@ The contagion here spreads through the example of what has been constructed. Oth
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 08 - Holding Together]]
 - [[Gate 14 - Possession in Great Measure]]

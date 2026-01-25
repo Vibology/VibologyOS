@@ -95,8 +95,7 @@ The mutative quality demands that transformation serve something beyond the self
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 34 - The Power of the Great]]
 - [[Gate 20 - Contemplation]]

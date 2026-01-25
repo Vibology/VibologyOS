@@ -95,8 +95,7 @@ The question posed: "How does language build form?" The answer: by giving precis
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 62 - Preponderance of the Small]]
 - [[Gate 61 - Inner Truth]]

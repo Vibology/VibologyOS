@@ -120,8 +120,7 @@ The practice is completion: **finish something imperfect rather than polishing n
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 **I-Ching & Gene Keys:**
@@ -141,8 +140,7 @@ The practice is completion: **finish something imperfect rather than polishing n
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
 
-## Internal Links
-
+## Cross-References
 - [[House of the Stars]] - The domain of mastery and material excellence
 - [[Gate 12 - Standstill]] - Caution and discrimination (Throat)
 - [[Hexagram 12]] - Standstill (I-Ching)

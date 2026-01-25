@@ -118,8 +118,7 @@ Fragility is also illuminated by its relationship to **Integrity** (Gate 18)—w
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 **I-Ching & Gene Keys:**
@@ -139,8 +138,7 @@ Fragility is also illuminated by its relationship to **Integrity** (Gate 18)—w
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
 
-## Internal Links
-
+## Cross-References
 - [[House of the Land]] - The domain of embodied foundation and material grounding
 - [[Gate 57 - The Gentle]] - Intuitive clarity and fear of tomorrow (Spleen)
 - [[Hexagram 57]] - The Gentle (I-Ching)

@@ -109,8 +109,7 @@ Together with **Despair** (Gate 47) and **Hatred** (Gate 4), Bitterness forms th
 
 The practice for healing Bitterness is **conscious release of accumulated stress before resuming movement**. The bitter soul must process the pressure that created the freeze before the narrative can evolve. This requires acknowledging resentment rather than suppressing it, expressing what has accumulated rather than holding it further, and ultimately releasing what cannot be changed so the story can move again.
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 **I-Ching & Gene Keys:**
@@ -130,8 +129,7 @@ The practice for healing Bitterness is **conscious release of accumulated stress
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
 
-## Internal Links
-
+## Cross-References
 - [[House of the Chronicle]] - The domain of metanarrative and meaning-shaping virtues
 - [[Gate 52 - Keeping Still]] - Inaction and stillness (Root)
 - [[Hexagram 52]] - Keeping Still (I-Ching)

@@ -96,8 +96,7 @@ The trans-personal nature means this defiance is never just about the individual
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 02 - The Receptive]]
 - [[Gate 01 - The Creative]]

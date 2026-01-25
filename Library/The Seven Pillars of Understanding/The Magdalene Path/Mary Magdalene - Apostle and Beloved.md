@@ -346,8 +346,7 @@ Mary is the **model of the path**:
 **Mary Magdalene, Apostle to the Apostles, Koinonos, Companion, Beloved, Witness, Anointer, Watchtower, Magdal-eder, Sophia, Wisdom, Sacred Feminine, Seven Demons, Seven Powers of Wrath, Gospel of Mary, Gospel of Philip, Gospel of Thomas, Bridal Mysticism, Singleness, Ihidaya, Gnosis, Recognition, Embodiment, Anointing, Penitent Whore, Pope Gregory, Canonical Gospels, Wisdom Gospels, Gnostic, Nag Hammadi, Alchemical Feminine**
 
 ---
-## Internal Links
-
+## Cross-References
 ### Core Magdalene Path Entries
 - [[The Magdalene Path Overview]] - Complete introduction to the path
 - [[The Eight Boughs of Ascent]] - Mary's journey through the stages
@@ -366,8 +365,7 @@ Mary is the **model of the path**:
 
 ---
 
-## References
-
+## Sources
 *All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Bourgeault, Cynthia. *The Meaning of Mary Magdalene: Discovering the Woman at the Heart of Christianity*. Boston: Shambhala, 2010.

@@ -99,8 +99,7 @@ The inclusion of self-care is crucial. These individuals must retreat (Gate 33),
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 27 - Nourishment]]
 - [[Gate 28 - Preponderance of the Great]]

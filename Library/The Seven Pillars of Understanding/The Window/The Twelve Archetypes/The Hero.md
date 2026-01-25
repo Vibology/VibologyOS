@@ -103,8 +103,7 @@ In Campbell's Hero's Journey framework, this card can appear at any stage—The 
 
 When The Hero appears in a reading, the querent is being tested: do you have the courage to act? And more importantly—do you have the wisdom to wield your power in service to something greater than yourself?
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 **I-Ching & Gene Keys:**
@@ -124,8 +123,7 @@ When The Hero appears in a reading, the querent is being tested: do you have the
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
 
-## Internal Links
-
+## Cross-References
 - [[The Persona]] - Masks of power vs authentic strength
 - [[The Shape]] - Power's dark reflection; collective shadow
 - [[The Alchemist]] - Integration of all power expressions

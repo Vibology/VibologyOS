@@ -95,8 +95,7 @@ The duality quality demands that planning honor relationship. Planning poses the
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 40 - Deliverance]]
 - [[Gate 37 - The Family]]

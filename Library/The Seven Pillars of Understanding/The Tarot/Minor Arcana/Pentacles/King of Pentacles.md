@@ -161,8 +161,7 @@ The King of Pentacles holds the paradox of *sovereignty through service*. The Ki
 The teaching: The King who hoards is not king at all—he is prisoner of his hoard. The King who builds is truly sovereign, because his power creates life rather than controlling it. When you use mastery to serve, your authority becomes real. When you use competence to build structures that benefit others, your wealth multiplies. Generative power creates more power. Extractive power eventually collapses.
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 - Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
@@ -177,8 +176,7 @@ The teaching: The King who hoards is not king at all—he is prisoner of his hoa
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
 
-## Internal Links
-
+## Cross-References
 ### Adjacent Cards in Suit
 - [[Queen of Pentacles]] - Nurturing abundance matures into generative mastery
 - [[Ace of Pentacles]] - The King's mastery creates new seeds of potential for the next cycle

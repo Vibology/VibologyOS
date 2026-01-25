@@ -112,8 +112,7 @@ When recognized and invited, the 37-40 individual becomes the **foundation of tr
 - [[Tribal Ego Circuit]] — Channels of support and provision
 - [[Emotional Authority]] — Waiting through the wave before committing
 
-## References
-
+## Sources
 **Primary Source:**
 - Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
 

@@ -103,8 +103,7 @@ The "beauty that heals" Ra mentions distinguishes this from mere decoration—th
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 33 - Retreat]]
 - [[Gate 19 - Approach]]

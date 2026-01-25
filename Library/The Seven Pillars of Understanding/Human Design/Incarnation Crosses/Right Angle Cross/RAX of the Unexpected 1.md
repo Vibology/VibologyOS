@@ -95,8 +95,7 @@ The Initiation context asks: "What unexpected experiences must initiate us towar
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 27 - Nourishment]]
 - [[Gate 28 - Preponderance of the Great]]

@@ -101,8 +101,7 @@ The Quarter of Civilization asks: "What can be built? What form can this take?" 
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 45 - Gathering Together]]
 - [[Gate 26 - The Taming Power of the Great]]

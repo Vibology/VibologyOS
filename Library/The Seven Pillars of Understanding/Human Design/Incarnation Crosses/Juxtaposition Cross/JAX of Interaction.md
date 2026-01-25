@@ -99,8 +99,7 @@ Ra emphasizes "influence without being influenced"—these individuals must main
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 07 - The Army]]
 - [[Gate 13 - The Fellowship of Man]]

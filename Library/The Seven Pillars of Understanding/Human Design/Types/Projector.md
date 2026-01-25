@@ -179,8 +179,7 @@ The Projector's challenge is learning to value their **insight** over output, th
 
 *The Projector is the seer in a world of doers—the one who reads the patterns no one else notices, who offers the guidance that transforms chaos into order. Their gift is not in the doing but in the seeing, not in initiation but in recognition. When the Projector waits for the correct invitation, they become the living proof that wisdom, not force, is the highest power.*
 
-## References
-
+## Sources
 *All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.

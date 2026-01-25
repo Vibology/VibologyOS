@@ -95,8 +95,7 @@ This is service rooted in **comprehension**: understanding what it means to be h
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 17 - Following]]
 - [[Gate 18 - Work on What Has Been Spoilt]]

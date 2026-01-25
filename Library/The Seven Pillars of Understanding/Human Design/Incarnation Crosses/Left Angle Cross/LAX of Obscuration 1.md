@@ -103,8 +103,7 @@ The "extraordinary discovery" Ra mentions emerges when the obscure details are p
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 62 - Preponderance of the Small]]
 - [[Gate 61 - Inner Truth]]

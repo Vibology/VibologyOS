@@ -758,8 +758,7 @@ Jung: *"The Indian's relationship to his gods is not one of belief but of experi
 
 ---
 
-## References
-
+## Sources
 **Jungian Analytical Psychology:**
 - Jung, C.G. *The Archetypes and the Collective Unconscious* (CW 9i). Princeton University Press, 1959.
 - Jung, C.G. *Symbols of Transformation* (CW 5). Princeton University Press, 1956.

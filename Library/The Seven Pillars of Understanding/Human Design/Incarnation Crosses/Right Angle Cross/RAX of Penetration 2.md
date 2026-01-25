@@ -95,8 +95,7 @@ The question posed: "What begins civilization?" The answer: someone with the pre
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 53 - Development]]
 - [[Gate 54 - The Marrying Maiden]]

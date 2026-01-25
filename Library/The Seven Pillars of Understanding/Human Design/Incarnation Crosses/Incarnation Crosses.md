@@ -159,8 +159,7 @@ Purpose is not something to chase. It **reveals itself** through correct living.
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### Cross Geometries
 - [[Right Angle Crosses]]
 - [[Left Angle Crosses]]

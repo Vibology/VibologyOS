@@ -99,8 +99,7 @@ The duality is not contradiction—it is synthesis. The individual is simultaneo
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 20 - Contemplation]]
 - [[Gate 34 - The Power of the Great]]

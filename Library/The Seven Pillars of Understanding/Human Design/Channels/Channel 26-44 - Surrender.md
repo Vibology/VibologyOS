@@ -453,8 +453,7 @@ This is the essence of the Tribal Ego Circuit: **using willpower to serve the tr
 - [[Ego Sustainability]] — Understanding the Ego's need for rest and conservation
 - [[Tribal Dynamics]] — Understanding bargains, promises, and tribal hierarchy
 
-## References
-
+## Sources
 **Primary Source:**
 - Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
 

@@ -99,8 +99,7 @@ The Quarter of Civilization asks: "What can be built? What form can this take?" 
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 16 - Enthusiasm]]
 - [[Gate 09 - The Taming Power of the Small]]

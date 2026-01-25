@@ -856,8 +856,7 @@ This is the mark of mature consciousness—living not in denial or naivety, but 
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### Jungian Archetypes
 - [[The Shadow]]
 - [[The Idol]]

@@ -120,8 +120,7 @@ The practice is humility: **release the performance and discover who you are wit
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 **I-Ching & Gene Keys:**
@@ -141,8 +140,7 @@ The practice is humility: **release the performance and discover who you are wit
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
 
-## Internal Links
-
+## Cross-References
 - [[House of the Stars]] - The domain of mastery and material excellence
 - [[Gate 10 - Treading]] - Self-behavior and authenticity (G Center)
 - [[Hexagram 10]] - Treading (I-Ching)

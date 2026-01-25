@@ -270,8 +270,7 @@ The question the Two asks is not "How can I make everything stop moving?" but "H
 *TBD*
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 - Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
@@ -286,8 +285,7 @@ The question the Two asks is not "How can I make everything stop moving?" but "H
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
 
-## Internal Links
-
+## Cross-References
 ### Adjacent Cards in Suit
 - [[Ace of Pentacles]] - The seed offered; the Two is the seed in motion
 - [[Three of Pentacles]] - The juggling settles into focused work; skill applied to a single goal

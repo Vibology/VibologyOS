@@ -986,8 +986,7 @@ The fruit of the higher boughs **nourishes** those at the lower boughs. Your cla
 **The Great Tree, Eight Boughs, Gospel of the Beloved Companion, Gospel of Mary, Seven Powers of Wrath, Guardians, Apophasis, Denial, Silence, Nous, Shedding Garments, I AM, Sophia, Bridal Chamber, Cosmic Service, Soul Ascent, Vertical Axis, False Self System, Kenosis, Union, Spirit Embrace, Completion**
 
 ---
-## Internal Links
-
+## Cross-References
 ### Core Magdalene Path Entries
 - [[The Magdalene Path Overview]] - The Fifth Way and vertical axis
 - [[Mary Magdalene - Apostle and Beloved]] - The teacher of this vision
@@ -1012,8 +1011,7 @@ The fruit of the higher boughs **nourishes** those at the lower boughs. Your cla
 
 ---
 
-## References
-
+## Sources
 *All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Bourgeault, Cynthia. *The Meaning of Mary Magdalene: Discovering the Woman at the Heart of Christianity*. Boston: Shambhala, 2010.

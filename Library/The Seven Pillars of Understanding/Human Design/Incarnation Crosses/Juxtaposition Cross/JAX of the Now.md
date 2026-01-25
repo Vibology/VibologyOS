@@ -98,8 +98,7 @@ Ra identifies the "push-pull" tension. These individuals are deeply needed by th
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 20 - Contemplation]]
 - [[Gate 34 - The Power of the Great]]

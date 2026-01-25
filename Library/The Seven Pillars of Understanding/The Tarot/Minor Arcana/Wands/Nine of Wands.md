@@ -408,8 +408,7 @@ The Nine of Wands teaches: **Your scars are not proof of weakness. They are proo
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 - Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
@@ -424,8 +423,7 @@ The Nine of Wands teaches: **Your scars are not proof of weakness. They are proo
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
 
-## Internal Links
-
+## Cross-References
 ### Adjacent Cards in Suit
 - [[Eight of Wands]] - The acceleration whose cost is paid in the Nine's exhaustion
 - [[Ten of Wands]] - The overburdening that follows if the Nine's warning is ignored

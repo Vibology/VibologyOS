@@ -103,8 +103,7 @@ In Jung's work, The Divine Child archetype appears in dreams and visions during 
 
 When The Divine Child appears in a reading, the querent is being tested: will you allow yourself to need? Will you honor the equal exchange? Will you recognize that your frailty is not curse but invitation—to be cared for, to evoke tenderness, to discover that family forms around the vulnerable treasure who must be protected at all costs?
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 **I-Ching & Gene Keys:**
@@ -124,8 +123,7 @@ When The Divine Child appears in a reading, the querent is being tested: will yo
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
 
-## Internal Links
-
+## Cross-References
 - [[The Great Mother]] - The one who protects the Divine Child
 - [[The Hero]] - The defender of innocence
 - [[The Nightmare]] - The test the child must pass

@@ -98,8 +98,7 @@ Ra emphasizes "repeating"—the insight may need to be stated many ways, many ti
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 23 - Splitting Apart]]
 - [[Gate 43 - Breakthrough]]

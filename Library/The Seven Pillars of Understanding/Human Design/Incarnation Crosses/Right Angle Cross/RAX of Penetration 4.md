@@ -95,8 +95,7 @@ The question posed: "How does material transformation serve spiritual awakening?
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 54 - The Marrying Maiden]]
 - [[Gate 53 - Development]]

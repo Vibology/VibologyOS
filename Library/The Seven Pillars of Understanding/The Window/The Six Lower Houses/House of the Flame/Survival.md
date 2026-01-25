@@ -121,8 +121,7 @@ The practice is straightforward: **remember what has sustained life and apply th
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 **I-Ching & Gene Keys:**
@@ -142,8 +141,7 @@ The practice is straightforward: **remember what has sustained life and apply th
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
 
-## Internal Links
-
+## Cross-References
 - [[House of the Flame]] - The domain of vital/instinctual action and movement
 - [[Gate 26 - The Taming Power of the Great]] - The Egoist and strategic memory (Heart)
 - [[Hexagram 26]] - The Taming Power of the Great (I-Ching)

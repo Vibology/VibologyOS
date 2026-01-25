@@ -103,8 +103,7 @@ TBD
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 - Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
@@ -124,8 +123,7 @@ TBD
 
 ---
 
-## Internal Links
-
+## Cross-References
 - [[1 - The Magician]] - The One that follows Zero
 - [[21 - The World]] - The completion that returns to beginning
 - [[Aleph - Hebrew Letters in Tarot]]

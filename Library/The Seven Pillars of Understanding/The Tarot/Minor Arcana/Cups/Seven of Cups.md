@@ -329,8 +329,7 @@ The Lord of Illusory Success becomes the lord of *actual* success when the dream
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 - Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
@@ -345,8 +344,7 @@ The Lord of Illusory Success becomes the lord of *actual* success when the dream
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
 
-## Internal Links
-
+## Cross-References
 ### Adjacent Cards in Suit
 - [[Six of Cups]] - The preceding memory: the past tenderly received
 - [[Eight of Cups]] - The following departure: the quest for something deeper

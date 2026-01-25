@@ -103,8 +103,7 @@ The "fulfillment of purpose" Ra mentions is not separate from the beauty—they 
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 19 - Approach]]
 - [[Gate 33 - Retreat]]

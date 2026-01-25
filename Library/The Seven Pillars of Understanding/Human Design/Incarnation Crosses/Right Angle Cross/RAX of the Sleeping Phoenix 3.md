@@ -95,8 +95,7 @@ The duality quality demands that transformation serve the bond. The Phoenix pose
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 59 - Dispersion]]
 - [[Gate 55 - Abundance]]

@@ -95,8 +95,7 @@ The Initiation context asks: "What principles must guide our ordering?" The answ
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 03 - Difficulty at the Beginning]]
 - [[Gate 50 - The Cauldron]]

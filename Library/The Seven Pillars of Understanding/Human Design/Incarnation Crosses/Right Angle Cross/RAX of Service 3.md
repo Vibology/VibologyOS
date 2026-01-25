@@ -95,8 +95,7 @@ Gate 18's correction instinct is oriented toward **relational spoilage**—the w
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 18 - Work on What Has Been Spoilt]]
 - [[Gate 17 - Following]]

@@ -351,8 +351,7 @@ Jung's **Syzygy** (the divine couple—animus/anima united) parallels the Bridal
 **Bridal Chamber, Sacred Union, Hieros Gamos, Singleness, Ihidaya, Wedding Garment, Abler Soul, Eucharistic Sex, Substituted Love, Cosmic Service, Gospel of Philip, Three Chambers, Transparency, Vulnerability, Divine Partnership, Integration, Masculine-Feminine Union, Alchemical Marriage, Twin Flame**
 
 ---
-## Internal Links
-
+## Cross-References
 ### Core Magdalene Path Entries
 - [[The Magdalene Path Overview]] - The Fifth Way and conscious love
 - [[Mary Magdalene - Apostle and Beloved]] - Mary and Jesus as model of sacred partnership
@@ -370,8 +369,7 @@ Jung's **Syzygy** (the divine couple—animus/anima united) parallels the Bridal
 
 ---
 
-## References
-
+## Sources
 *All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Bourgeault, Cynthia. *The Meaning of Mary Magdalene: Discovering the Woman at the Heart of Christianity*. Boston: Shambhala, 2010.

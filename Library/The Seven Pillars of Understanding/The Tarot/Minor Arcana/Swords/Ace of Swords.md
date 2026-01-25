@@ -322,8 +322,7 @@ The question the Ace asks is not "Will you accept clarity?" but "How will you us
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 - Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
@@ -338,8 +337,7 @@ The question the Ace asks is not "Will you accept clarity?" but "How will you us
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
 
-## Internal Links
-
+## Cross-References
 ### Adjacent Cards in Suit
 - [[Two of Swords]] - The first choice: which way will the blade turn?
 - [[Three of Swords]] - The cut that wounds: sorrow as consequence of seeing

@@ -651,8 +651,7 @@ At their highest expression, the 30 Aethyrs offer:
 The Aethyrs are not a doctrine to believe but a **journey to undertake**. They do not promise comfort or certainty—they promise **truth**. Those who enter with courage, humility, and discipline will find that the path from TEX to LIL is the path of the soul returning home.
 
 ---
-## Internal Links
-
+## Cross-References
 ### Within Enochian
 - [[Enochian System Overview]] — Complete introduction to Enochian magic
 - [[The Four Watchtowers]] — Source of the 91 Governors
@@ -676,8 +675,7 @@ The Aethyrs are not a doctrine to believe but a **journey to undertake**. They d
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources
 
 **Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* New York: Free Press, 1967.

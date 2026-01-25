@@ -111,8 +111,7 @@ When recognized and aligned (not identifying with moods, waiting for clarity), t
 - [[Individual Knowing Circuit]] — Mutation, uniqueness, acoustic knowing
 - [[Emotional Authority]] — Waiting through the wave for clarity
 
-## References
-
+## Sources
 **Primary Source:**
 - Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
 

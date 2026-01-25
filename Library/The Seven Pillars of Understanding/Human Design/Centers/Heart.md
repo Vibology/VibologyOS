@@ -161,8 +161,7 @@ For all Types, the Heart:
 *The Heart is the will to commit—the ego strength that promises and delivers, the material mastery that knows worth and manages resources. For some, the will is a reliable engine, always ready to commit. For others, the will is borrowed, inconsistent, and must be protected from proving and improving. To honor the Heart is to recognize that worth is not earned but intrinsic, and that commitment, when freely given, is the highest power of the ego.*
 
 
-## References
-
+## Sources
 *All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.

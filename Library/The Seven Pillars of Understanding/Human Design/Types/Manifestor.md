@@ -149,8 +149,7 @@ The Manifestor's minority status is not accidental—their role is to **initiate
 
 *The Manifestor is the lightning strike—sudden, powerful, and impossible to predict. Their gift to the world is initiation itself: the courage to begin without waiting for permission, the clarity to move when inner truth calls, and the peace that comes from informing the world of their sovereign intent.*
 
-## References
-
+## Sources
 *All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.

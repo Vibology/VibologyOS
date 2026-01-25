@@ -99,8 +99,7 @@ Ra emphasizes "wary risk takers"—these individuals are not fearful but prudent
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 32 - Duration]]
 - [[Gate 42 - Increase]]

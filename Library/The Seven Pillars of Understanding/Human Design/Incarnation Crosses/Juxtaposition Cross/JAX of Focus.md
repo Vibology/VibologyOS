@@ -98,8 +98,7 @@ Both Head gates (64/63) create mental pressure that flows to the Sacral (9) for 
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 09 - The Taming Power of the Small]]
 - [[Gate 16 - Enthusiasm]]

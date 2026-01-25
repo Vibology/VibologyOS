@@ -100,8 +100,7 @@ Ra's "virtual reality" reference captures the modern application—these individ
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 41 - Decrease]]
 - [[Gate 31 - Influence]]

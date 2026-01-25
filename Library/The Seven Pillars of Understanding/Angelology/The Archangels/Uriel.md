@@ -756,8 +756,7 @@ Uriel, as the **Archangel of Earth**, embodies this teaching: **the material wor
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources
 
 **Agrippa, Heinrich Cornelius.** *The Occult Philosophy or Magic.* Edited by Willis F. Whitehead. Chicago: Hahn & Whitehead, 1898.

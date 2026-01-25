@@ -121,8 +121,7 @@ The practice is straightforward: **become genuinely good at what you do**. Not a
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 **I-Ching & Gene Keys:**
@@ -142,8 +141,7 @@ The practice is straightforward: **become genuinely good at what you do**. Not a
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
 
-## Internal Links
-
+## Cross-References
 - [[House of the Stars]] - The domain of mastery and material excellence
 - [[Gate 14 - Possession in Great Measure]] - Material empowerment (Sacral)
 - [[Hexagram 14]] - Possession in Great Measure (I-Ching)

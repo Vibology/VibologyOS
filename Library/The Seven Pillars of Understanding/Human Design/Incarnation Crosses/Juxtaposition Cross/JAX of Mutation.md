@@ -100,8 +100,7 @@ Ra emphasizes "unjust laws"—these individuals feel the wrong in structures, th
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 03 - Difficulty at the Beginning]]
 - [[Gate 50 - The Cauldron]]

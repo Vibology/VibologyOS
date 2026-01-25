@@ -104,8 +104,7 @@ Jupiter's realm emphasizes expansion through relationship. The self-created work
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 48 - The Well]]
 - [[Gate 21 - Biting Through]]

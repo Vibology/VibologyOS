@@ -103,8 +103,7 @@ The emphasis on practicality is crucial: Gate 18's correction must actually work
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 18 - Work on What Has Been Spoilt]]
 - [[Gate 17 - Following]]

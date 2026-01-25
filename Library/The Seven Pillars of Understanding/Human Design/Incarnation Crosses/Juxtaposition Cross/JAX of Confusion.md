@@ -99,8 +99,7 @@ Ra's phrase "subject to the ego's interpretation/manipulation" is honest rather 
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 64 - Before Completion]]
 - [[Gate 63 - After Completion]]

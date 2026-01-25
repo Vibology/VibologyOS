@@ -469,8 +469,7 @@ The willingness to say *"Let it be"* even when the calling is terrifying, even w
 The individual becomes a **channel** through which divine will flows into the world. Not as a grandiose guru, but as a humble servant who speaks what must be spoken, does what must be done, and steps aside when the message has been delivered.
 
 ---
-## Internal Links
-
+## Cross-References
 ### Within Angelology
 - [[The Three Triads]] (Archangels belong to the Third Triad)
 - [[Seraphim]] | [[Cherubim]] | [[Thrones]] (First Triad)
@@ -489,8 +488,7 @@ The individual becomes a **channel** through which divine will flows into the wo
 
 ---
 
-## References
-
+## Sources
 *All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 **Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.

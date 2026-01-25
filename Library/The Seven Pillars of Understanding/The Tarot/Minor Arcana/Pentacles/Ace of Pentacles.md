@@ -299,8 +299,7 @@ The question the Ace asks is not "Will you accept material abundance?" but "How 
 *TBD*
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 - Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
@@ -315,8 +314,7 @@ The question the Ace asks is not "Will you accept material abundance?" but "How 
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
 
-## Internal Links
-
+## Cross-References
 ### Adjacent Cards in Suit
 - [[Two of Pentacles]] - The first test: can you balance what you've been given?
 - [[Three of Pentacles]] - The work begins: skill applied to matter

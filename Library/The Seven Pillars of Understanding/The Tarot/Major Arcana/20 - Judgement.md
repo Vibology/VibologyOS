@@ -190,8 +190,7 @@ The gift of integration: **The capacity to review your life with compassion and 
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 - Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
@@ -206,8 +205,7 @@ The gift of integration: **The capacity to review your life with compassion and 
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
 
-## Internal Links
-
+## Cross-References
 - **Adjacent Major Arcana**: [[19 - The Sun]] ← → [[21 - The World]]
 - **Element**: [[Fire]]
 - **Planetary**: [[Pluto ♇]]

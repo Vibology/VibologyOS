@@ -497,8 +497,7 @@ This is the **child's rehearsal** for the later [[Coniunctio]]—the Sacred Marr
 
 ---
 
-## Internal Links
-
+## Cross-References
 **Archetypal Figures:**
 [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] • [[The Shadow]] • [[The Muse]] • [[The Idol]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] • [[The Alchemist]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Hero]] • [[The Wise Old Man]] • [[The Terrible Mother]]
 

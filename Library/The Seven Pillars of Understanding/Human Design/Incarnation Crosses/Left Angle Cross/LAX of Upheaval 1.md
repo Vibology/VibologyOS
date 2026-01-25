@@ -101,8 +101,7 @@ The purpose of the upheaval is clear: "to redirect humanity in healthy direction
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 17 - Following]]
 - [[Gate 18 - Work on What Has Been Spoilt]]

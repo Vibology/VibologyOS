@@ -103,8 +103,7 @@ The "drawing attention" Ra mentions is not self-aggrandizement but **trans-perso
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 56 - The Wanderer]]
 - [[Gate 60 - Limitation]]

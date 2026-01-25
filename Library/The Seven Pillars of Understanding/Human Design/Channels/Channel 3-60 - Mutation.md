@@ -370,8 +370,7 @@ Jung's process of individuation requires **accepting the limitations of the ego*
 - [[Honoring the Pulse]] — Learning to rest during "off" periods
 - [[Limitation as Doorway]] — Using constraints as catalysts for innovation
 
-## References
-
+## Sources
 **Primary Source:**
 - Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
 

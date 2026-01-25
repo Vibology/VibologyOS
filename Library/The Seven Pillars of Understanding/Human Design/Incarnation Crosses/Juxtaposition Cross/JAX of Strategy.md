@@ -99,8 +99,7 @@ The spiritual dimension (Gate 55) elevates the strategy beyond mere connecting. 
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 59 - Dispersion]]
 - [[Gate 55 - Abundance]]

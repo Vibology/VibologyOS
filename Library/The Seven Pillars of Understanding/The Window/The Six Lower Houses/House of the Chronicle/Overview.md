@@ -157,8 +157,7 @@ Step back from immediacy to see the arc. What story are you living? Does it serv
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 **I-Ching & Gene Keys:**
@@ -178,8 +177,7 @@ Step back from immediacy to see the arc. What story are you living? Does it serv
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
 
-## Internal Links
-
+## Cross-References
 - [[House of the Land]] - Material foundation vs. narrative frame
 - [[House of the Sea]] - Emotional truth vs. conceptual meaning
 - [[House of the Flame]] - Instinctual action vs. reflective narrative

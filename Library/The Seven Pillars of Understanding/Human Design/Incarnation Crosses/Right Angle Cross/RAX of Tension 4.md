@@ -95,8 +95,7 @@ Gate 38's fight is oriented toward **meaning and purpose**. The opposition is cr
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 38 - Opposition]]
 - [[Gate 39 - Obstruction]]

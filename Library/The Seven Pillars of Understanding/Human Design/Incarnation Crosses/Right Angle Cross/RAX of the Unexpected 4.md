@@ -95,8 +95,7 @@ The Mutation context asks: "What unexpected leadership must emerge to transform 
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 41 - Decrease]]
 - [[Gate 31 - Influence]]

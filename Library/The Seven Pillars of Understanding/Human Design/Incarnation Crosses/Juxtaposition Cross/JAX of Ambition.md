@@ -99,8 +99,7 @@ Ra identifies "fear of failure" not as weakness but as design. These individuals
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 54 - The Marrying Maiden]]
 - [[Gate 53 - Development]]

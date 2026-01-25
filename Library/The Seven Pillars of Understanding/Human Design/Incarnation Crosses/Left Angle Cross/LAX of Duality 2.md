@@ -97,8 +97,7 @@ The mutation is profound: humanity has long assumed that Individual power leads 
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 34 - The Power of the Great]]
 - [[Gate 20 - Contemplation]]

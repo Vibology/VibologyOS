@@ -101,8 +101,7 @@ The Quarter of Mutation asks: "What needs to change? What can be transformed?" F
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 11 - Peace]]
 - [[Gate 12 - Standstill]]

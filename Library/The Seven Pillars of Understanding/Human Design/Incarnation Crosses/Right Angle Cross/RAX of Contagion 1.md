@@ -97,8 +97,7 @@ The innocence in Ra's keynote is essential: the Contagion does not set out to ch
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 30 - The Clinging Fire]]
 - [[Gate 29 - The Abysmal]]

@@ -306,8 +306,7 @@ The paradox: to truly celebrate with others, you must first know who you are cel
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 - Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
@@ -322,8 +321,7 @@ The paradox: to truly celebrate with others, you must first know who you are cel
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
 
-## Internal Links
-
+## Cross-References
 ### Adjacent Cards in Suit
 - [[Two of Cups]] - The preceding pledge: love meets its object
 - [[Four of Cups]] - The following withdrawal: contemplation after celebration

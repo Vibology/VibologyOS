@@ -95,8 +95,7 @@ The question posed: "What breaks through?" The answer: intuitive truth delivered
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 51 - The Arousing]]
 - [[Gate 57 - The Gentle]]

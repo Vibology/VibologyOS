@@ -95,8 +95,7 @@ The Eden (3) archetype poses the eternal question: "Can love survive the truth?"
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 06 - Conflict]]
 - [[Gate 36 - Darkening of the Light]]

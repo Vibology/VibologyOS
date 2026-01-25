@@ -488,8 +488,7 @@ Perspective requires a full [[Human Design]] chart with **Tone/Color/Base** calc
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### Core Variables
 - [[Variables Overview]] - Introduction to all four Variables
 - [[Determination]] - The first transformation (dietary regimen)
@@ -511,8 +510,7 @@ Perspective requires a full [[Human Design]] chart with **Tone/Color/Base** calc
 - [[The Window]] - Archetypal House resonances
 
 
-## References
-
+## Sources
 *All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.

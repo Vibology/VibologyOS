@@ -98,8 +98,7 @@ Ra emphasizes the combination of self-interest and service—furthering ambition
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 48 - The Well]]
 - [[Gate 21 - Biting Through]]

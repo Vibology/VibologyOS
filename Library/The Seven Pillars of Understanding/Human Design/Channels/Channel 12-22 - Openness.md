@@ -472,8 +472,7 @@ When the individual honors the wave, waits for clarity, and speaks only what is 
 - [[Channel 35-36 - Transitoriness]] (Collective emotional expression)
 - [[Channel 30-41 - Recognition]] (Abstract emotional fuel)
 
-## References
-
+## Sources
 **Primary Source:**
 - Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
 

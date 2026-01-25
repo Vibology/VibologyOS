@@ -118,8 +118,7 @@ The antidote to Insecurity is found in the positive Land cards—particularly **
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 **I-Ching & Gene Keys:**
@@ -139,8 +138,7 @@ The antidote to Insecurity is found in the positive Land cards—particularly **
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
 
-## Internal Links
-
+## Cross-References
 - [[House of the Land]] - The domain of embodied foundation and material grounding
 - [[Gate 48 - The Well]] - Depth and resource assessment (Spleen)
 - [[Hexagram 48]] - The Well (I-Ching)

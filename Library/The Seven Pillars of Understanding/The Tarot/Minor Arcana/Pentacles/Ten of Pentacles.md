@@ -168,8 +168,7 @@ The Ten of Pentacles holds the paradox of *ownership through release*. The elder
 The teaching: True dynasty is not control but covenant. You build not to possess but to *pass forward*. The wealth is yours to steward, not to hoard. And in the act of giving it away—to children, to community, to the structures that will outlast you—it becomes more real, more enduring, than if you had clutched it tight.
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 - Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
@@ -184,8 +183,7 @@ The teaching: True dynasty is not control but covenant. You build not to possess
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
 
-## Internal Links
-
+## Cross-References
 ### Adjacent Cards in Suit
 - [[Nine of Pentacles]] - Self-made solitary abundance; now shared across generations
 - [[Page of Pentacles]] - The student/heir who will carry the legacy forward

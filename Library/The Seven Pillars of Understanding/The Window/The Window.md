@@ -202,8 +202,7 @@ Links [[Human Design]]'s mechanical precision + [[I-Ching]]'s timeless wisdom + 
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 **I-Ching & Gene Keys:**

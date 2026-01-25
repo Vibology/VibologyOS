@@ -99,8 +99,7 @@ Ra emphasizes "break you open"—this is not gentle guidance but penetrating int
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 57 - The Gentle]]
 - [[Gate 51 - The Arousing]]

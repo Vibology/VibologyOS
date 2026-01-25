@@ -208,8 +208,7 @@ When the Nine of Cups emerges in reading or contemplation, consider:
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 - Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
@@ -224,8 +223,7 @@ When the Nine of Cups emerges in reading or contemplation, consider:
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
 
-## Internal Links
-
+## Cross-References
 - [[Jupiter ♃]] - The great benefic, ruler of the Nine of Cups through Pisces
 - [[Pisces ♓]] - The mutable water sign, Jupiter's ancient domicile
 - [[Yesod]] - The ninth Sephirah, Foundation, Moon's sphere

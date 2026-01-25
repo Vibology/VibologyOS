@@ -95,8 +95,7 @@ The civilizing quality demands that planning produce results. Planning poses the
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 16 - Enthusiasm]]
 - [[Gate 09 - The Taming Power of the Small]]

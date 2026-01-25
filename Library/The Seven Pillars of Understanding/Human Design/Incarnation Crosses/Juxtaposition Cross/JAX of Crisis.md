@@ -100,8 +100,7 @@ The "love for themselves and humanity" is crucial. Without self-love (Gate 10), 
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 36 - Darkening of the Light]]
 - [[Gate 06 - Conflict]]

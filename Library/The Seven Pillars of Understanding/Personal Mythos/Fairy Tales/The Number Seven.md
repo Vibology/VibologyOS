@@ -554,8 +554,7 @@ Inanna enters the underworld **naked and powerless** (like Snow White in the gla
 
 ---
 
-## Internal Links
-
+## Cross-References
 **Archetypal Figures:**
 [[The Shadow]] • [[The Muse]] • [[The Idol]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] • [[The Alchemist]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Hero]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] • [[The Wise Old Man]] • [[The Nightmare]]
 

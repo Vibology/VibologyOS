@@ -104,8 +104,7 @@ The "securing the future" Ra mentions is essential—this is not leadership for 
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 31 - Influence]]
 - [[Gate 41 - Decrease]]

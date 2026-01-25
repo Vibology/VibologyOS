@@ -119,8 +119,7 @@ Gratitude is the antidote to **Envy** (Gate 54 shadow)—because when you apprec
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 **I-Ching & Gene Keys:**
@@ -140,8 +139,7 @@ Gratitude is the antidote to **Envy** (Gate 54 shadow)—because when you apprec
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
 
-## Internal Links
-
+## Cross-References
 - [[House of the Sea]] - The domain of emotional depth and relational encounter
 - [[Gate 22 - Grace]] - Openness and emotional spirit (Solar Plexus)
 - [[Hexagram 22]] - Grace (I-Ching)

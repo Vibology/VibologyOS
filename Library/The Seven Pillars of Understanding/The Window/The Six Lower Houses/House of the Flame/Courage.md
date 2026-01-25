@@ -121,8 +121,7 @@ The practice is straightforward: **act decisively when survival requires it, and
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 **I-Ching & Gene Keys:**
@@ -142,8 +141,7 @@ The practice is straightforward: **act decisively when survival requires it, and
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
 
-## Internal Links
-
+## Cross-References
 - [[House of the Flame]] - The domain of vital/instinctual action and movement
 - [[Gate 21 - Biting Through]] - The Hunter and justified control (Heart)
 - [[Hexagram 21]] - Biting Through (I-Ching)

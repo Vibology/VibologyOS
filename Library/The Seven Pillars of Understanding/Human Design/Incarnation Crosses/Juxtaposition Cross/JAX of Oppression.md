@@ -98,8 +98,7 @@ The Channel 12-22 (Openness) forms between Design Sun and Personality Earth—th
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 47 - Oppression]]
 - [[Gate 22 - Grace]]

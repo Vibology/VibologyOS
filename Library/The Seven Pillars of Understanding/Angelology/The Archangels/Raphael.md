@@ -893,8 +893,7 @@ Metatron holds the blueprint; Raphael teaches how to read it and apply it to dai
 
 ---
 
-## References
-
+## Sources
 *All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 **Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.
@@ -943,8 +942,7 @@ Metatron holds the blueprint; Raphael teaches how to read it and apply it to dai
 *Raphael, Divine Physician, Prince of Brightness, Guide and Companion on the journey of wholeness—I call upon you. Teach me to see my wounds as medicine in disguise. Show me how to transmute suffering into wisdom, how to bind the demons that prevent sacred union, how to walk the path with courage and trust. Let me be a hollow bone through which your healing light flows. Teach me to serve with both knowledge and love, with both competence and compassion. Walk beside me as you walked beside Tobias, disguised as a friend, revealed as divine only when the time is right. By the authority of YHVH Eloah va-Daath, the Lord God of Knowledge, by the light of the Sun and the swiftness of Mercury, by the breath of Air that animates all life, let your presence be known. May I become both healed and healer, both student and teacher, both wounded and wise. Ave Raphael. Amen.*
 
 ---
-## Internal Links
-
+## Cross-References
 ### Within Angelology
 
 - [[Tiphareth]] (Primary Sephirah governed by Raphael)
@@ -1378,8 +1376,7 @@ The individual can offer guidance without needing the other to follow it, can he
 The individual radiates **clarity**—not the blinding glory of Metatron, not the consuming fire of Michael, but the **gentle, intelligible light** that allows others to see their own path. This is Raphael's gift: **illumination without overwhelm**.
 
 ---
-## Internal Links
-
+## Cross-References
 ### Within Angelology
 
 - [[Tiphareth]] (Primary Sephirah governed by Raphael)

@@ -401,8 +401,7 @@ Jung's practice of **Active Imagination** (dialoguing with the unconscious) para
 **Daily Practice, Lunar Cycle, 28-Day Rhythm, Moon Phases, New Moon, Full Moon, Dark Moon, Reflector Authority, Undefined Head, Undefined Ajna, Morning Consecration, Evening Review, Dream Work, Embodiment, Kenosis, Relationship Practices, Substituted Love, Bridal Chamber, Parenting, Solar Cycle, Solstices, Seven-Year Cycle, The Moon (Tarot XVIII), Active Imagination**
 
 ---
-## Internal Links
-
+## Cross-References
 ### Core Magdalene Path Entries
 - [[The Magdalene Path Overview]] - Overview of the Fifth Way
 - [[Mary Magdalene - Apostle and Beloved]] - The archetype and model
@@ -421,8 +420,7 @@ Jung's practice of **Active Imagination** (dialoguing with the unconscious) para
 
 ---
 
-## References
-
+## Sources
 *All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Ra Uru Hu. *The Definitive Book of Human Design*. Carlsbad: HDC Publishing, 2011.

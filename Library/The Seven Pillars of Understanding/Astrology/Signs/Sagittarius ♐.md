@@ -236,8 +236,7 @@ The Archer teaches that the arrow cannot return to the bow. Once released, you a
 
 ---
 
-## References
-
+## Sources
 [^1]: Lilly, *Christian Astrology*, Book 1: Jupiter rules Sagittarius (Day House); Sagittarius is also the Joy of Jupiter
 [^2]: Lilly, *Christian Astrology*, Book 1: Mercury in detriment (opposite Gemini)
 [^3]: Lilly, *Christian Astrology*, Book 1: No traditional planetary exaltation or fall; South Node (Dragon's Tail) exalted at 3° Sagittarius

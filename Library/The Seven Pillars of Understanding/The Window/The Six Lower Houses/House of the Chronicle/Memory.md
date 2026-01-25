@@ -121,8 +121,7 @@ The practice is straightforward: **refine your ideas until they illuminate**. No
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 **I-Ching & Gene Keys:**
@@ -142,8 +141,7 @@ The practice is straightforward: **refine your ideas until they illuminate**. No
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
 
-## Internal Links
-
+## Cross-References
 - [[House of the Chronicle]] - The domain of metanarrative and meaning-shaping virtues
 - [[Gate 11 - Peace]] - Ideas and mental peace (Ajna)
 - [[Hexagram 11]] - Peace (I-Ching)

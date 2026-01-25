@@ -101,8 +101,7 @@ The Quarter of Mutation asks: "What needs to change? What can be transformed?" F
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 26 - The Taming Power of the Great]]
 - [[Gate 45 - Gathering Together]]

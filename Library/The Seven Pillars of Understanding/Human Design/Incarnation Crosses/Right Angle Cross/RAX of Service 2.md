@@ -95,8 +95,7 @@ The fuel (Gate 58) is specifically oriented toward **civilizational patterns**. 
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 52 - Keeping Still]]
 - [[Gate 58 - The Joyous]]

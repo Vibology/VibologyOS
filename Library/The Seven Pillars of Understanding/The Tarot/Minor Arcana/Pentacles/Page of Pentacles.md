@@ -143,8 +143,7 @@ The Page of Pentacles holds the paradox of *beginner's richness*. The Page has o
 The teaching: Mastery is not the end of learning but its intensification. The true master returns again and again to beginner's mind, able to see each pentacle as if for the first time, as if it were a mystery worth studying.
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 - Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
@@ -159,8 +158,7 @@ The teaching: Mastery is not the end of learning but its intensification. The tr
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
 
-## Internal Links
-
+## Cross-References
 ### Adjacent Cards in Suit
 - [[Ten of Pentacles]] - The elder's legacy becomes the Page's education
 - [[Knight of Pentacles]] - Study transitions to methodical action

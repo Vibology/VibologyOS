@@ -119,8 +119,7 @@ The practice is straightforward: **allow yourself to want, express desire honest
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 **I-Ching & Gene Keys:**
@@ -140,8 +139,7 @@ The practice is straightforward: **allow yourself to want, express desire honest
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
 
-## Internal Links
-
+## Cross-References
 - [[House of the Sea]] - The domain of emotional depth and relational encounter
 - [[Gate 19 - Approach]] - Wanting and sensitivity to need (Root)
 - [[Hexagram 19]] - Approach (I-Ching)

@@ -268,8 +268,7 @@ The Seven asks: **Can you be patient without being passive? Can you trust withou
 *TBD*
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 - Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
@@ -284,8 +283,7 @@ The Seven asks: **Can you be patient without being passive? Can you trust withou
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
 
-## Internal Links
-
+## Cross-References
 ### Adjacent Cards in Suit
 - [[Six of Pentacles]] - Resources circulate; the Seven pauses to assess growth
 - [[Eight of Pentacles]] - The pause ends; dedicated work resumes with renewed focus

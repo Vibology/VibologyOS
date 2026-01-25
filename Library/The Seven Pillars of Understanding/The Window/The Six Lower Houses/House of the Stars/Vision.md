@@ -121,8 +121,7 @@ The practice is clarification: **see what you specifically are here to contribut
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 **I-Ching & Gene Keys:**
@@ -142,8 +141,7 @@ The practice is clarification: **see what you specifically are here to contribut
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
 
-## Internal Links
-
+## Cross-References
 - [[House of the Stars]] - The domain of mastery and material excellence
 - [[Gate 01 - The Creative]] - Creative force and direction (G Center)
 - [[Hexagram 1]] - The Creative (I-Ching)

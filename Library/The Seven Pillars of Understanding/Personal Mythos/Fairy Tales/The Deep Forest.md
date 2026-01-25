@@ -588,8 +588,7 @@ The forest teaches that **consciousness requires periodic withdrawal**:
 
 ---
 
-## Internal Links
-
+## Cross-References
 **Archetypal Figures:**
 [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] • [[The Shadow]] • [[The Alchemist]] • [[The Wise Old Man]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Hero]] • [[The Muse]] • [[The Idol]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Joker]] • [[The Nightmare]]
 

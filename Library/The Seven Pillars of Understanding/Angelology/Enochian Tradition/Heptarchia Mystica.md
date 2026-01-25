@@ -407,8 +407,7 @@ At its highest expression, the Heptarchia Mystica offers:
 The Heptarchia is the **training ground** of Enochian magic. Those who learn to invoke the 49 Good Angels with humility, precision, and clear intention build the skills necessary for the more dangerous and exalted operations to come.
 
 ---
-## Internal Links
-
+## Cross-References
 ### Within Enochian
 - [[Enochian System Overview]] — Complete introduction to Enochian magic
 - [[The Four Watchtowers]] — Elemental magic building on Heptarchic foundations
@@ -431,8 +430,7 @@ The Heptarchia is the **training ground** of Enochian magic. Those who learn to 
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources
 
 **Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* New York: Free Press, 1967.

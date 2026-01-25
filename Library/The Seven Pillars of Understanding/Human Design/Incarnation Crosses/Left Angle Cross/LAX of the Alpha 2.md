@@ -104,8 +104,7 @@ The "promised land" Ra mentions is the destination of the dream—not a fixed pl
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 41 - Decrease]]
 - [[Gate 31 - Influence]]

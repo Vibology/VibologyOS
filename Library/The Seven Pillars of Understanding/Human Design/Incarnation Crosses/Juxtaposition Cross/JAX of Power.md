@@ -98,8 +98,7 @@ The "busyness" Ra mentions is characteristic of this cross. Power in service cre
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 34 - The Power of the Great]]
 - [[Gate 20 - Contemplation]]

@@ -373,8 +373,7 @@ Jung's process of individuation requires **patience with the psyche's natural rh
 - [[Honoring Rhythm]] — Living in sync with natural cycles
 - [[Balanced Expression]] — Expressing extremes with humility
 
-## References
-
+## Sources
 **Primary Source:**
 - Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
 

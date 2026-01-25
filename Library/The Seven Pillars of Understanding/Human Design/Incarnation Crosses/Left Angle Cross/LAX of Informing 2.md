@@ -99,8 +99,7 @@ Ra's keynote emphasizes "turning people's attention toward the plight of those w
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 47 - Oppression]]
 - [[Gate 22 - Grace]]

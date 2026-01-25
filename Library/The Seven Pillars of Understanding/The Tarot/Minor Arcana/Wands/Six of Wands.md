@@ -394,8 +394,7 @@ The integrated Six knows: *I am not the laurel wreath. I am the one who was wort
 
 ---
 
-## References
-
+## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 - Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
@@ -410,8 +409,7 @@ The integrated Six knows: *I am not the laurel wreath. I am the one who was wort
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
 
-## Internal Links
-
+## Cross-References
 ### Adjacent Cards in Suit
 - [[Five of Wands]] - The struggle and competition that the Six resolves
 - [[Seven of Wands]] - The defense of the victory won in the Six

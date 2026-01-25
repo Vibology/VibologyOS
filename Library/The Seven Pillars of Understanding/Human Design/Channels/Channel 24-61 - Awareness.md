@@ -316,8 +316,7 @@ When recognized and invited, the 24-61 individual becomes the **voice of mystery
 - [[Gene Keys]] — Shadow/Gift/Siddhi framework
 - [[The Hermit (Tarot)]] — Contemplative wisdom and inner truth
 
-## References
-
+## Sources
 **Primary Source:**
 - Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
 

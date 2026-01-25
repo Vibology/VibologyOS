@@ -373,8 +373,7 @@ Jung's process of individuation requires **differentiation before integration**.
 - [[Honoring Friction]] — Using conflict to test and strengthen bonds
 - [[Waiting for Emotional Clarity]] — Riding the wave before committing
 
-## References
-
+## Sources
 **Primary Source:**
 - Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
 

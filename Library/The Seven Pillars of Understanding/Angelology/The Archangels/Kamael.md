@@ -599,8 +599,7 @@ In **[[Jungian psychology]]**, Kamael is the **Warrior archetype** and the **int
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### Sephirotic Connections
 - [[Geburah]] — Kamael's Sephirah, Severity and Strength
 - [[Chesed]] — The balancing sphere of Mercy
@@ -668,8 +667,7 @@ In **[[Jungian psychology]]**, Kamael is the **Warrior archetype** and the **int
 
 ---
 
-## References
-
+## Sources
 *All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 **Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.

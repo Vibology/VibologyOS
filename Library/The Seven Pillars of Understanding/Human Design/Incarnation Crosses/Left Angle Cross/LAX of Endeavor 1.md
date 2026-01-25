@@ -102,8 +102,7 @@ The endeavors Ra describes—"communal, business, or scientific structures"—al
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 21 - Biting Through]]
 - [[Gate 48 - The Well]]

@@ -95,8 +95,7 @@ The Vessel of Love (3) archetype poses the eternal question: "What does love fee
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 46 - Pushing Upward]]
 - [[Gate 25 - Innocence]]

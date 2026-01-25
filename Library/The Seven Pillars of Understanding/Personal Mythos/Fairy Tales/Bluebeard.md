@@ -570,8 +570,7 @@ The Bluebeard pattern maps precisely onto **coercive control dynamics**:
 
 ---
 
-## Internal Links
-
+## Cross-References
 **Archetypal Figures:**
 [[The Shadow]] • [[The Idol]] • [[The Wise Old Man]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Hero]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] • [[The Alchemist]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] • [[Lilith]] • [[Kali]]
 

@@ -101,8 +101,7 @@ The "focused, committed connection" implies that casual encounters may not activ
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 46 - Pushing Upward]]
 - [[Gate 25 - Innocence]]

@@ -99,8 +99,7 @@ The Channel 1-2 (Keeper of the Keys) forms between Personality Sun and Earth—t
 
 ---
 
-## Internal Links
-
+## Cross-References
 ### The Four Gates
 - [[Gate 02 - The Receptive]]
 - [[Gate 01 - The Creative]]

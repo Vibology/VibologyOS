@@ -507,8 +507,7 @@ The masculine journey is **from heroic inflation (the Prince) to wounding (the b
 
 ---
 
-## Internal Links
-
+## Cross-References
 **Archetypal Figures:**
 [[The Shadow]] • [[The Muse]] • [[The Idol]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] • [[The Alchemist]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] • [[The Terrible Mother]] • [[The Puella Aeterna]] • [[The Wild Woman]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Hero]]
 
