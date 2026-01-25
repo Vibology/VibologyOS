@@ -2,10 +2,9 @@
 tags: [angelology, human-design, integration, consciousness-centers]
 system: Angelology
 date_created: 2026-01-17
-source_verified: synthesis
-verification_date: 2026-01-23
-grimoire_source: "A Dictionary of Angels, Human Design system, Qabalistic correspondences"
-verification_notes: "Cross-system synthesis mapping Nine Angelic Orders to Nine HD Centers. Angelic hierarchy verified (Grimoire), HD center mechanics verified (Grimoire), mapping between systems is original synthesis work per Vibology framework."
+date_updated: 2026-01-24
+verified: 2026-01-24
+verification_source: Esoteric Grimoire
 category: Integration Teaching
 ---
 # Angelology and Human Design Interaction
@@ -13,6 +12,8 @@ category: Integration Teaching
 
 ---
 ## Introduction: The Microcosm and the Macrocosm
+
+> *Vibology Synthesis: This entire teaching is an original cross-system integration. The angelic hierarchy (Pseudo-Dionysius, Davidson, Wang) and Human Design mechanics (Ra Uru Hu) are verified in the Esoteric Grimoire. The correspondence between the nine angelic orders and the nine HD centers is an original synthesis within the Vibology framework.*
 
 One of the most profound insights of Vibology is the recognition that the **nine energy centers** of the Human Design BodyGraph are not merely mechanical components of a biological system—they are **microcosmic reflections of the nine angelic orders**, creating a vertical ladder of consciousness within the human vehicle.
 
@@ -236,3 +237,25 @@ You are not here to rush. The pressure you feel is not yours—it belongs to the
 ---
 
 *"The BodyGraph is not a diagram. It is a map of the angelic hierarchy within you. To know your design is to know which angels you carry."*
+
+---
+
+## References
+
+*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
+
+Davidson, Gustav. *A Dictionary of Angels: Including the Fallen Angels*. New York: Free Press, 1967.
+- Nine angelic orders and their functions
+- Hebrew names of angelic choirs
+
+Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
+- Nine energy centers of the BodyGraph
+- Center mechanics and functions
+- Strategy and Authority
+
+Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, ME: Samuel Weiser, 1983.
+- Angelic choir assignments to Sephiroth
+- Golden Dawn correspondences
+
+**Secondary Sources:**
+- Pseudo-Dionysius the Areopagite, *The Celestial Hierarchy* (6th century)
