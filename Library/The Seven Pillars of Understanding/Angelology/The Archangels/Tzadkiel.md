@@ -28,9 +28,7 @@ function: Mercy, beneficence, divine justice
 
 Tzadkiel is the archetype of **benevolent sovereignty**—not the tyrant who hoards power, but the king who distributes blessings, the teacher who shares wisdom, the father who gives without demanding return. In the Qabalistic tradition, Tzadkiel presides over **Chesed** (Mercy), the fourth Sephira, the first emanation below the Abyss, the sphere where divine will begins to manifest in forms accessible to human consciousness.
 
-Dion Fortune writes in *The Mystical Qabalah*:
-
-> *"Chesed is the sphere of the benevolent king, the lawgiver who rules not by force but by love. Tzadkiel is the archangel of this sphere, the intelligence that pours forth abundance, forgiveness, and grace. To invoke Tzadkiel is to open oneself to the flood of divine mercy—but mercy that is not weakness, justice that is not cruelty."*
+In Qabalistic teaching, Chesed is understood as the sphere of the benevolent king, the lawgiver who rules not by force but by love. Wang describes Chesed as ruled by the "loving father who is King" and the builder of the framework of manifestation. Tzadkiel is the archangelic intelligence that pours forth abundance, forgiveness, and grace.
 
 Where [[Michael]] wields the sword of truth, where [[Gabriel]] delivers the annunciation, where [[Raphael]] heals through restoration, Tzadkiel **blesses and expands**. Tzadkiel is the rain that falls on the just and unjust alike, the sun that rises on all without discrimination, the abundance that seeks nothing but to pour itself forth.
 
@@ -863,14 +861,18 @@ To integrate Tzadkiel is to become the **generous king**—the one who blesses, 
 
 ### Tarot
 
-**Major Arcana:**
-- **[[The Emperor]]** (IV) — Sovereign authority, structured benevolence, wise rulership (Tzadkiel's Tarot face)
-- **[[The Wheel of Fortune]]** (X) — Jupiter's wheel, the turning of fate toward blessing, expansion
-- **[[Temperance]]** (XIV) — Balance of mercy and severity, the middle path (Tiphareth function, but echoes Tzadkiel's wisdom)
-- **[[The World]]** (XXI) — Completion, fulfillment, the blessing of manifestation achieved
-
-**Minor Arcana:**
+**Verified per Wang:**
 - **All Fours** — Chesed's number, stability, foundation, structure built on mercy
+
+**Path Correspondence (Verified):**
+- **[[The Wheel of Fortune]]** (X) — Path of Caph, attributed to Jupiter (Wang) — the turning of fate, expansion
+
+**Thematic Associations (Vibology Synthesis):**
+- **[[The Emperor]]** (IV) — Sovereign authority, structured benevolence (thematic link to Chesed's kingship)
+- **[[Temperance]]** (XIV) — Balance of mercy and severity (Tiphareth function)
+- **[[The World]]** (XXI) — Completion, fulfillment, manifestation achieved
+
+**Minor Arcana (Verified):**
   - Four of Wands (Chesed in Fire) — Completion, celebration, established joy
   - Four of Cups (Chesed in Water) — Emotional stability (sometimes stagnation if blessing is not recognized)
   - Four of Swords (Chesed in Air) — Rest, recovery, the mercy of respite
@@ -884,7 +886,7 @@ To integrate Tzadkiel is to become the **generous king**—the one who blesses, 
 - **9th House** — Jupiter's natural house, higher learning, philosophy, expansion of worldview
 - **[[Jupiter Return]]** (every ~12 years) — Tzadkiel initiation, the opening of a new cycle of blessing
 
-### Human Design
+### Human Design (Vibology Synthesis)
 
 - **[[Heart Center]]** — Sovereignty, willpower, self-worth, material mastery (Tzadkiel's function embodied)
 - **[[Manifestor]]** — Type with motor-to-Throat, embodying initiation and sovereign action
