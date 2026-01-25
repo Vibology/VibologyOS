@@ -3,7 +3,10 @@ tags: [angelology, enochian, overview, dee-kelley, magic, scrying]
 system: Angelology
 subsystem: Enochian
 date_created: 2026-01-18
+date_updated: 2026-01-25
 category: Overview
+verified: true
+verification_source: "Davidson (Dictionary of Angels), DuQuette (Enochian Vision Magick), Crowley (Vision and the Voice)"
 ---
 # Enochian Tradition
 *The Angelic Alphabet, the Watchtowers of Creation, and the 30 Aethyrs of Consciousness*
@@ -400,6 +403,58 @@ The system demands **humility, discipline, and relentless self-honesty**. It is 
 - [[Astrology]] — Planetary and zodiacal attributions
 - [[Jungian Archetypes]] — Individuation parallels with Aethyric ascent
 - [[The Hero's Journey]] — Monomythic structure in the 30 Aethyrs
+
+---
+
+## References
+
+### Primary Sources
+
+**Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* New York: Free Press, 1967.
+- Comprehensive source for angelic names, hierarchies, and Enochian entities
+- Nalvage, Ave, Madimi, and revealing angels documented
+- Watchtower Kings and governors derived from Dee's manuscripts
+
+**DuQuette, Lon Milo.** *Enochian Vision Magick: An Introduction and Practical Guide to the Magick of Dr. John Dee and Edward Kelley.* York Beach, ME: Weiser Books, 2008.
+- Modern ceremonial magic applications
+- LBRP integration with Enochian practice (p. 193, p. 861)
+- Practical invocation sequences and safety protocols
+
+**Crowley, Aleister.** *The Vision and the Voice: With Commentary and Other Papers.* York Beach, ME: Samuel Weiser, 1998 [1911].
+- Complete scrying record of all 30 Aethyrs (Algerian desert, 1909)
+- 10th Aethyr (ZAX) and the Abyss ordeal described in detail
+- Thelemic interpretation and Babalon in 14th Aethyr
+
+### Secondary Sources (Cited by Primary Sources)
+
+**Dee, John.** *Mysteriorum Libri Quinque* (Five Books of Mystery). Original manuscripts, British Library and Bodleian Library.
+- Via Davidson: Original angelic sessions (1581-1585) recorded in diaries
+- Source of all Enochian revelations, divine names, and hierarchies
+- Reception of Heptarchia Mystica, Watchtowers, Aethyrs, and Keys
+
+**Pseudo-Dionysius the Areopagite.** *The Celestial Hierarchy.* Ca. 5th-6th century CE.
+- Via Davidson: Nine orders of angels (Seraphim through Angels)
+- Contrasted with Enochian system (theological vs. revealed framework)
+
+**Agrippa, Heinrich Cornelius.** *Three Books of Occult Philosophy.* 1533.
+- Via Davidson: Renaissance magical context for Dee's work
+- Planetary correspondences and Hermetic philosophy foundations
+
+**Mathers, S.L. MacGregor, and William Wynn Westcott.** Hermetic Order of the Golden Dawn materials (1888-1900s).
+- Via DuQuette: Systematization of Enochian magic for Golden Dawn curriculum
+- Enochian Chess, color correspondences, and Watchtower ceremonies
+- Integration into advanced grades (Adeptus Minor and above)
+
+### Vibology Synthesis
+
+**All cross-system correspondences represent Vibology interpretive frameworks, not historically documented attributions:**
+
+- **Human Design correspondences** (Throat/Air, Solar Plexus/Water, Sacral/Fire, Root/Earth) — Modern synthesis bridging mechanical system with elemental magic
+- **Jungian psychology integrations** (Aethyrs as Individuation, Active Imagination parallels, Shadow work) — Archetypal interpretation not present in original Dee/Kelley material
+- **Hero's Journey mapping** (TEX-LIL as monomythic structure) — Joseph Campbell framework applied retroactively
+- **Chaos Magic applications** (paradigm-shifting, sigil extraction, barbarian language use) — 20th-century reinterpretation (Phil Hine, Peter J. Carroll)
+
+**Historical accuracy note:** The integration of Enochian magic into the Hermetic Order of the Golden Dawn (post-1888) significantly shaped modern practice. Dee and Kelley's original work did not include Qabalistic correspondences, LBRP integration, or Tarot attributions—these were later systematizations.
 
 ---
 

@@ -3,7 +3,10 @@ tags: [angelology, enochian, history, dee, kelley, renaissance, scrying]
 system: Angelology
 subsystem: Enochian
 date_created: 2026-01-18
+date_updated: 2026-01-25
 category: Historical
+verified: true
+verification_source: "Davidson (Dictionary of Angels), DuQuette (Enochian Vision Magick), Dee's original manuscripts via scholarly sources"
 ---
 # John Dee and Edward Kelley
 *The Magus and the Scryer — Renaissance Philosopher and Mystical Medium*
@@ -432,6 +435,66 @@ Their work endures because it **speaks to something real**—whether that "real"
 - [[The Fool]] — Kelley as Trickster, chaos and revelation
 - [[The Wise Old Man]] — Dee's archetype
 - [[The Shadow]] — Kelley's role as shadow-bearer
+
+---
+
+## References
+
+### Primary Sources
+
+**Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* New York: Free Press, 1967.
+- Angelic entities revealed to Dee and Kelley (Uriel, Nalvage, Ave, Madimi)
+- Documentation of revealing angels and their characteristics
+- Enochian hierarchy and 91 Governors source material
+
+**DuQuette, Lon Milo.** *Enochian Vision Magick: An Introduction and Practical Guide to the Magick of Dr. John Dee and Edward Kelley.* York Beach, ME: Weiser Books, 2008.
+- Biographical context for Dee and Kelley partnership
+- Practical implications of their scrying methodology
+- Modern assessment of the Enochian system's coherence
+
+**Crowley, Aleister.** *The Vision and the Voice: With Commentary and Other Papers.* York Beach, ME: Samuel Weiser, 1998 [1911].
+- Demonstration of Enochian system's functionality (1909 Algerian scrying)
+- Practical validation of Dee/Kelley's received material
+- 10th Aethyr (ZAX) as definitive initiatory ordeal description
+
+### Secondary Sources (Cited by Primary Sources)
+
+**Dee, John.** *Mysteriorum Libri Quinque* (Five Books of Mystery) and related manuscripts. British Library and Bodleian Library.
+- Via Davidson and DuQuette: Original angelic session diaries (1581-1587)
+- Chronological record of all revelations (Heptarchia, Liber Loagaeth, Watchtowers, Aethyrs)
+- Personal accounts of Dee's motivations, doubts, and experiences
+- Wife-swapping incident documented (April 1587)
+
+**Historical records of John Dee's life:**
+- Via DuQuette: Birth (July 13, 1527, Mortlake), education (St. John's College, Cambridge; University of Leuven)
+- Royal appointments (Elizabeth I's astrologer, coronation date selection January 15, 1559)
+- Library at Mortlake (over 4,000 volumes, largest private collection in England)
+- Death (December 1608 or March 1609, impoverished)
+
+**Historical records of Edward Kelley's life:**
+- Via DuQuette: Birth (August 1, 1555, Worcester or Ireland)
+- Cropped ears (punishment for forgery, covered by cap)
+- Meeting with Dee (March 1582, using name "Edward Talbot")
+- Scrying methodology (polished obsidian mirror, crystal sphere)
+- Death (1595 or 1597, prison escape attempt in Prague)
+
+**Mathers, S.L. MacGregor, and William Wynn Westcott.** Hermetic Order of the Golden Dawn materials (1888-1900s).
+- Via DuQuette: Rediscovery and systematization of Dee's manuscripts after 200+ years
+- Integration into Golden Dawn curriculum (Neophyte through higher grades)
+- Enochian Chess, color correspondences, and ritual structures created
+
+### Vibology Synthesis
+
+**All psychological, archetypal, and cross-system interpretations represent Vibology frameworks, not historical documentation:**
+
+- **Jungian interpretations** (Dee as Wise Old Man, Kelley as Trickster, angels as autonomous psychic structures) — Carl Jung's work postdates Dee/Kelley by 300+ years
+- **Tarot correspondences** (The Magician, The Fool, Shadow-bearer archetypes) — Modern archetypal overlay
+- **Syzygy interpretation** (Dee/Kelley as Logos/Eros union of opposites) — Analytical psychology framework applied retroactively
+- **Four interpretive views** (spiritualist, skeptical, Jungian-psychological, hybrid) — Contemporary scholarly debate, not historical consensus
+
+**Historical accuracy note:** Dee and Kelley's partnership remains controversial. Skeptics cite Kelley's criminal background and the wife-swapping incident as evidence of fraud. Believers point to the system's internal consistency and functional efficacy. The truth likely lies in complexity: genuine psychic phenomena mediated through flawed human instruments.
+
+**European travels (1583-1587):** Count Albert Laski (Poland), Emperor Rudolf II (Prague/Bohemia). Both men sought patronage and delivered prophetic messages from angels. Mixed reception—intrigue from some nobles, accusations of heresy from others.
 
 ---
 

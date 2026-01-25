@@ -3,7 +3,10 @@ tags: [angelology, enochian, heptarchia, planetary-magic, sigillum, dee-kelley]
 system: Angelology
 subsystem: Enochian
 date_created: 2026-01-18
+date_updated: 2026-01-25
 category: Heptarchia
+verified: true
+verification_source: "Davidson (Dictionary of Angels), DuQuette (Enochian Vision Magick), Dee's manuscripts (Mysteriorum Libri Quinque)"
 ---
 # Heptarchia Mystica
 *The Seven-Fold Planetary Hierarchy — The 49 Good Angels and the Sigillum Dei Aemeth*
@@ -425,6 +428,60 @@ The Heptarchia is the **training ground** of Enochian magic. Those who learn to 
 - [[The Tarot]] — Planetary Major Arcana correspondences
 - [[Astrology]] — Planetary timing and invocation
 - [[Tree of Life]] — Sephirotic-planetary mapping
+
+---
+
+## References
+
+### Primary Sources
+
+**Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* New York: Free Press, 1967.
+- The 49 Good Angels of the Heptarchia documented
+- Seven planetary Kings: Carmara (Sun), Hagonel (Moon), Baligon (Mars), Babalel (Mercury), Bornogo (Jupiter), Bnapsen (Venus), Bnaspol (Saturn)
+- Revealing angels Nalvage, Ave, and Uriel who delivered the Heptarchia (1582)
+- Minister angels and hierarchical structure
+
+**DuQuette, Lon Milo.** *Enochian Vision Magick: An Introduction and Practical Guide to the Magick of Dr. John Dee and Edward Kelley.* York Beach, ME: Weiser Books, 2008.
+- Sigillum Dei Aemeth structure: central heptagon, outer rings, 40 concentric circles
+- Construction methods: beeswax disc (9 inches diameter), inscriptions, divine names
+- Seven subsidiary seals placement (four under Holy Table legs, three under scrying equipment)
+- Practical invocation sequences and planetary timing
+- Integration with later Enochian systems (Watchtowers, Aethyrs)
+
+### Secondary Sources (Cited by Primary Sources)
+
+**Dee, John.** Original manuscripts (*Mysteriorum Libri Quinque* and related texts). British Library and Bodleian Library.
+- Via Davidson and DuQuette: Heptarchia Mystica revelation chronology (1582, earliest Enochian component)
+- Sigillum divine names: Sabathiel, Zedekieil, Madimiel, Semeliel, Nogahel, Corabiel, Levanael (seven names in central heptagon)
+- 49 angels organized as 7 Kings + 7 Princes + 35 Ministers
+- Holy Table design and consecration instructions
+- Planetary hour timing for optimal invocation
+- Angelic sessions with Nalvage (stern, authoritative) and Ave (gentler, explanatory)
+
+**Agrippa, Heinrich Cornelius.** *Three Books of Occult Philosophy.* 1533.
+- Via DuQuette: Renaissance planetary magic context
+- Seven classical planets and their correspondences (foundation for Heptarchic system)
+- Astrological timing methods (planetary days and hours)
+
+**Mathers, S.L. MacGregor, and William Wynn Westcott.** Hermetic Order of the Golden Dawn materials (1888-1900s).
+- Via DuQuette: Heptarchia integrated into Golden Dawn curriculum as foundational practice
+- Sigillum Dei Aemeth construction standardized for modern practitioners
+- Qabalistic correspondences mapped (seven planets to seven Sephiroth)
+
+### Vibology Synthesis
+
+**All cross-system correspondences and interpretive frameworks represent Vibology synthesis, not original Dee/Kelley doctrine:**
+
+- **Qabalistic Tree of Life correspondences** (Saturn/Binah/Tzaphkiel, Jupiter/Chesed/Tzadkiel, etc.) — Post-Golden Dawn integration, not present in Dee's original work
+- **Tarot Major Arcana correspondences** (Sun/XIX, Moon/XVIII, Tower/XVI, etc.) — Modern esoteric attribution
+- **Astrological applications** (natal chart work, transits, planetary returns) — Contemporary synthesis
+- **Ethical considerations** (e.g., "never petition for control over another's will" in love magic) — Modern magical ethics, not explicitly addressed by Dee
+- **Shadow work framework** (ego inflation, planetary imbalance) — Jungian psychological overlay
+- **Hybrid ritual examples** (combining Heptarchic Kings with Watchtower Kings) — Advanced modern practice
+
+**Planetary exclusions note:** The doctrine that each element excludes one planet (Air/Jupiter, Water/Mercury, Fire/Moon, Earth/Venus) derives from later Watchtower system integration. The Heptarchia itself includes all seven classical planets.
+
+**Historical accuracy:** Dee approached the Heptarchia with devotion and scientific rigor. His motivations were theological (restore Adamic language), philosophical (access hidden knowledge), and political (guidance for England's role in divine providence). The system predates the more famous Watchtowers and Aethyrs by 2-3 years.
 
 ---
 
