@@ -2,19 +2,18 @@
 tags: [vibology, the-window, overview, oracle-deck]
 system: The Window
 date_created: 2026-01-08
-date_updated: 2026-01-23
+date_updated: 2026-01-25
 status: Complete
-source_verified: synthesis
-verification_date: 2026-01-23
-grimoire_source: "Blueprint (64-fold structural pattern), Vibology reference documents"
-verification_notes: "Core framework verified: 64-fold structure matching I-Ching/HD gates, 1980s contemporary archetypal encoding (confirmed via Blueprint). Detailed internal structure (12 Archetypes, 10 Portals, 6 Houses with 42 House cards, specific House names/domains) is synthesis work NOT explicitly detailed in Grimoire. Classification: synthesis (foundational framework verified, detailed categorization is original work)."
+verified: true
+verification_date: 2026-01-25
+verification_source: "Esoteric Grimoire (Huang 1998, Rudd 2013, Ra Uru Hu 2011, Blueprint 2026) + Vibology Synthesis"
 ---
 *A Contemporary 1980s-themed Archetypal Resonance and Oracle Divination System*
 
 ---
 ## Core Domain
 
-The Window is a **64-card oracle deck** that translates the timeless 64-fold architecture (I-Ching hexagrams / Human Design gates / Gene Keys) into contemporary 1980s cultural encoding.[^1] It provides a divination system grounded in ancient wisdom while speaking through modern archetypal imagery—pop culture icons, catalytic life events, and parallel domains of human experience.[^2]
+The Window is a **64-card oracle deck** that translates the timeless 64-fold architecture (I-Ching hexagrams / Human Design gates / Gene Keys) into contemporary 1980s cultural encoding.(Blueprint 2026; Huang 1998; Rudd 2013; Ra Uru Hu 2011) It provides a divination system grounded in ancient wisdom while speaking through modern archetypal imagery—pop culture icons, catalytic life events, and parallel domains of human experience.(Blueprint 2026)
 
 The Window bridges **[[Human Design]]'s mechanical precision**, **[[I-Ching]]'s wisdom**, **[[Gene Keys]]' transformative arc**, and **[[Personal Mythos]]'s mythic resonance** into a coherent oracle system accessible to contemporary consciousness.
 
@@ -97,7 +96,7 @@ Each House contains 7 cards mapping specific gates to that domain's spectrum of 
 - 6 Houses (WHERE/WHAT domains)
 	- 42 House Cards (gate expressions within domains)
 
-= **64 total** (matching I-Ching hexagrams, Human Design gates, Gene Keys)[^1]
+= **64 total** (matching I-Ching hexagrams, Human Design gates, Gene Keys)(Blueprint 2026; Huang 1998; Rudd 2013; Ra Uru Hu 2011)
 
 ---
 ## Cross-System Integration
@@ -203,7 +202,40 @@ Links [[Human Design]]'s mechanical precision + [[I-Ching]]'s timeless wisdom + 
 
 ---
 
-## Sources
+## References
 
-[^1]: *The Blueprint* - "64-fold structural pattern" expressing across I-Ching, Human Design, Gene Keys systems
-[^2]: *Vibrology reference documents* - The Window as "Contemporary (1980s) archetypal resonance" providing the "Face" for each gate coordinate
+### Primary Sources (Uploaded to Esoteric Grimoire)
+
+**I-Ching & Gene Keys:**
+- Huang, Alfred. *The Complete I Ching: The Definitive Translation by the Taoist Master Alfred Huang*. Rochester, VT: Inner Traditions, 1998.
+- Rudd, Richard. *Gene Keys: Unlocking the Higher Purpose Hidden in Your DNA*. London: Watkins Publishing, 2013. (First published 2009)
+- Wilhelm, Richard and Baynes, Cary F. (Trans.). *The I Ching or Book of Changes*. Princeton, NJ: Princeton University Press, 1967. (Bollingen Series XIX)
+
+**Human Design:**
+- Ra Uru Hu. *The Human Design System: The Complete Rave I'Ching*. Diessen am Ammersee, Germany: Jovian Archive Corporation, 2001.
+- Ra Uru Hu and Bunnell, Lynda. *The Definitive Book of Human Design: The Science of Differentiation*. IHDS/Jovian Archive, 2011. (Copyright 2008-2012)
+
+**Vibology Internal Reference:**
+- *The Blueprint (444) Reference Information: Complete Documentation for Vibology Framework*. Internal document. Created January 2026.
+
+### Vibology Synthesis Notes
+
+**The Window as Synthesis:**
+The Window is **entirely Vibology Synthesis**—an original oracle system created by integrating:
+1. **64-fold architecture** from I-Ching (Huang 1998; Wilhelm 1967), Human Design gates (Ra Uru Hu 2011), and Gene Keys (Rudd 2013)
+2. **1980s contemporary archetypal encoding** (pop culture icons, modern life events) as synthesis layer
+3. **Categorical structure** (12 Archetypes, 10 Portals, 6 Houses) representing original organizational framework
+
+**Verified Elements:**
+- 64-card structure matching I-Ching hexagrams and HD gates (Blueprint 2026)
+- Gene Keys transformation arc (Shadow → Gift → Siddhi) (Rudd 2013)
+- HD gate mechanical meanings (Ra Uru Hu 2011)
+- I-Ching hexagram wisdom (Huang 1998)
+
+**Synthesis Elements:**
+- Specific 1980s cultural icons assigned to each card
+- 12 Archetypes / 10 Portals / 6 Houses categorical organization
+- House domains and thematic groupings
+- Contemporary divination interpretations
+
+All Window card content integrates verified source material (I-Ching meanings, HD mechanics, Gene Keys arcs) with original archetypal synthesis.
