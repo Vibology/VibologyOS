@@ -195,7 +195,7 @@ Verification proceeds by pillar, smallest to largest:
 |---|------|--------|------|-------|
 | 1 | The Magdalene Path.md | ✅ Verified | 2026-01-24 | Overview; corrected Pope Gregory date (594 CE) |
 | 2 | Anointing and Substituted Love.md | ✅ Verified | 2026-01-24 | Added Williams/Donne via Bourgeault |
-| 3 | Kenosis - The Path of Self-Emptying.md | Pending | | |
+| 3 | Kenosis - The Path of Self-Emptying.md | ✅ Verified | 2026-01-24 | Removed Bulgakov/Florensky; added comparative sources |
 | 4 | Mary Magdalene - Apostle and Beloved.md | Pending | | |
 | 5 | Practices and the Lunar Cycle.md | Pending | | |
 | 6 | Sources, Shadows, and Contemporary Practice.md | Pending | | |
@@ -208,9 +208,14 @@ Verification proceeds by pillar, smallest to largest:
 
 *Update this list as sources are confirmed:*
 
-### Books
+### Books (Confirmed)
 - Bourgeault, Cynthia. *The Meaning of Mary Magdalene* (Shambhala, 2010)
 - de Quillan, Jehanne. *The Gospel of the Beloved Companion* (CreateSpace, 2010)
+- Estés, Clarissa Pinkola. *Women Who Run With the Wolves* (Ballantine, 1992)
+- Huxley, Aldous. *The Perennial Philosophy* (Harper & Brothers, 1945)
+- Rudd, Richard. *The Gene Keys* (Watkins Publishing, 2009)
+- Wang, Robert. *The Qabalistic Tarot* (Samuel Weiser, 1983)
+- Wilhelm, Richard, trans. *The Complete I Ching* (Princeton University Press, 1967)
 
 ### Primary Texts
 - Gospel of Mary (Berlin Gnostic Codex, BG 8502,1)

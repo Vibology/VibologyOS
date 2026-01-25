@@ -15,8 +15,8 @@
 **Current Phase:** The Magdalene Path (8 files)
 - ✅ The Magdalene Path.md
 - ✅ Anointing and Substituted Love.md
-- ⏳ Kenosis - The Path of Self-Emptying.md (next)
-- ⬚ Mary Magdalene - Apostle and Beloved.md
+- ✅ Kenosis - The Path of Self-Emptying.md
+- ⏳ Mary Magdalene - Apostle and Beloved.md (next)
 - ⬚ Practices and the Lunar Cycle.md
 - ⬚ Sources, Shadows, and Contemporary Practice.md
 - ⬚ The Bridal Chamber and Sacred Union.md
