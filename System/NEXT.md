@@ -275,3 +275,4 @@ chart.makeSVG(minify=False, remove_css_variables=True)
 - **GitHub Backup:** `git@github.com:shadesofjoe/VibologyOS.git` (private)
 - **Session Start:** Check git status, git log, and this file for context
 - **Audit Cycle:** Quarterly (next regular audit ~April 18, 2026)
+- **Push Protocol:** Push commits to GitHub after each completed batch of work (e.g., after each verification batch, after each synthesis, at end of session)
