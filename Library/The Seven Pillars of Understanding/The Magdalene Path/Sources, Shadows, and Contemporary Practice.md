@@ -2,7 +2,9 @@
 tags: [magdalene-path, sources, shadows, contemporary-practice, gnostic-gospels, penitent-whore, spiritual-bypassing, cynthia-bourgeault, historical-recovery]
 system: The Magdalene Path
 date_created: 2026-01-18
-date_updated: 2026-01-18
+date_updated: 2026-01-24
+verified: 2026-01-24
+verification_source: Esoteric Grimoire
 category: Context
 ---
 *The Texts, Distortions, and Modern Recovery of the Path*
@@ -78,9 +80,11 @@ This entry maps the **sources**, identifies the **shadows**, and charts the **co
 
 ### Wisdom Gospels (2nd-3rd Century CE)
 
-The **Nag Hammadi Library** (discovered 1945 in Egypt) preserves early Christian texts rejected by the Orthodox Church as "heretical." These texts reveal a **different Christianity**—mystical, non-hierarchical, and centered on **gnosis** (direct knowing) rather than faith alone.
+The **Nag Hammadi Library** (discovered 1945 in Egypt) preserves early Christian texts rejected by the Orthodox Church as "heretical." These texts reveal a **different Christianity**—mystical, non-hierarchical, and centered on **gnosis** (direct knowing) rather than faith alone. Karen King argues that "there was no such thing as Gnosticism" as a monolithic religion—the term was created by early heresy-hunters to define their own orthodoxy (King, cited in Bourgeault).
 
 #### **Gospel of Mary (2nd Century):**
+
+Preserved in the Berlin Gnostic Codex (BG 8502,1); the original Greek text dates to the first half of the 2nd century (King, *The Gospel of Mary of Magdala*, 2003; cited in Bourgeault).
 
 **Surviving Fragments:**
 - Mary Magdalene receives **private teaching** from Jesus after his resurrection
@@ -100,6 +104,8 @@ The **Nag Hammadi Library** (discovered 1945 in Egypt) preserves early Christian
 
 #### **Gospel of Philip (3rd Century):**
 
+Found in Nag Hammadi Codex II,3; likely a translation of a Greek text written in the second half of the 3rd century CE, probably in Syria (Bourgeault, 107).
+
 **Key Passages:**
 
 > "There were three who always walked with the Lord: Mary his mother, her sister, and Magdalene, the one who was called his companion. His sister and his mother and his companion were each a Mary."
@@ -115,6 +121,8 @@ The **Nag Hammadi Library** (discovered 1945 in Egypt) preserves early Christian
 - The path requires **singleness** (integration) before union
 
 #### **Gospel of Thomas (1st-2nd Century):**
+
+Found in Nag Hammadi Codex II,2; considered one of the earliest non-canonical texts, potentially contemporaneous with the "Q" source (50–125 CE).
 
 **Logion 114 (Controversial Ending):**
 
@@ -134,26 +142,31 @@ The **Nag Hammadi Library** (discovered 1945 in Egypt) preserves early Christian
 
 Even after the Wisdom gospels were suppressed, the **Magdalene current** persisted underground in Christian mysticism:
 
-**Mechthild of Magdeburg (1207-1282):**
-- German Beguine mystic
-- Wrote *The Flowing Light of the Godhead*—described union with Christ in **bridal imagery**
-- Embodied the Magdalene archetype—intimate, mystical, non-institutional
+*Sources in Esoteric Grimoire: Bourgeault cites Bernard of Clairvaux and references St. John of the Cross's "dark night of the spirit" (Bourgeault, Ch. 12). Huxley (The Perennial Philosophy) cites St. John of the Cross extensively. Wang (The Qabalistic Tarot) connects the Dark Night to the path of Temperance. Estés (Women Who Run With the Wolves) relates the Dark Night to the unconscious.*
 
-**Teresa of Ávila (1515-1582):**
+**Teresa of Ávila (1515-1582):** (Bourgeault cites her spiritual ecstasy and emphasis on serving God with justice, fortitude, and humility rather than mere emotion)
 - Spanish Carmelite mystic
 - Described **Interior Castle** with seven mansions—parallel to [[The Eight Boughs of Ascent|Six Stages]]
 - Achieved mystical union (**spiritual marriage**) after years of purgation
 
-**John of the Cross (1542-1591):**
+**John of the Cross (1542-1591):** (Cited in Bourgeault, Huxley, Wang, Estés)
 - Spanish Carmelite mystic, Teresa's contemporary
 - Described the **Dark Night of the Soul**—the stripping away of the false self (see [[Kenosis - The Path of Self-Emptying|Kenosis]])
 - The Dark Night is the **Abyss**—the necessary crossing before union
 
+**Bernard of Clairvaux (12th Century):** (Bourgeault cites him throughout)
+- Founder of "monastic love mysticism" and the Cistercian "school of love"
+- Wrote 86 sermons on the Song of Songs, arguing that eros is the touchstone of spiritual transformation
+
+> *[Contextual reference—not verified in Esoteric Grimoire:]*
+
+**Mechthild of Magdeburg (1207-1282):**
+- German Beguine mystic; wrote *The Flowing Light of the Godhead*
+- Embodied bridal mysticism tradition
+
 **Marguerite Porete (1250-1310):**
-- French Beguine mystic
-- Wrote *The Mirror of Simple Souls*—taught that the soul could achieve **annihilation** (union with God) without church mediation
-- **Burned at the stake** for heresy in 1310
-- Her teaching: the soul empties itself completely ([[Kenosis - The Path of Self-Emptying|Kenosis]]) and is filled with Divine Love
+- French Beguine mystic; wrote *The Mirror of Simple Souls*
+- Burned at the stake for heresy in 1310
 
 **What They Preserve:**
 - The vertical path of **ascent and union**
@@ -166,9 +179,9 @@ Even after the Wisdom gospels were suppressed, the **Magdalene current** persist
 
 ### How the Distortion Arose
 
-**591 CE - Pope Gregory I's Sermon:**
+**594 CE - Pope Gregory I's Homily 33:**
 
-Pope Gregory I delivers a sermon conflating **three separate women** into one:
+Pope Gregory I delivers a homily conflating **three separate women** into one (Bourgeault, 2010):
 
 1. **Mary Magdalene** (follower, first witness to resurrection, seven demons cast out)
 2. **The "sinful woman"** who anoints Jesus' feet (Luke 7:36-50, unnamed)
@@ -228,6 +241,8 @@ When the Wisdom gospels were recovered (1945), the **shadow image** could be inv
 
 ---
 ## Part III: Shadows of the Path
+
+> *Vibology Synthesis: The following shadow analysis applies Magdalene Path teachings to identify potential distortions.*
 
 Even the **authentic** Magdalene Path carries shadows—ways the teaching can be distorted or weaponized.
 
@@ -325,9 +340,11 @@ Even the **authentic** Magdalene Path carries shadows—ways the teaching can be
 
 ### Cynthia Bourgeault: The Primary Modern Teacher
 
+*Primary source in Esoteric Grimoire.*
+
 **Who She Is:**
 - Episcopal priest, Wisdom teacher, founder of the Contemplative Society
-- Author of *The Meaning of Mary Magdalene* (2010), *The Holy Trinity and the Law of Three* (2013), *Eye of the Heart* (2020)
+- Author of *The Meaning of Mary Magdalene: Discovering the Woman at the Heart of Christianity* (Boston: Shambhala, 2010)
 
 **Her Contribution:**
 
@@ -361,6 +378,8 @@ Bourgeault **synthesizes**:
 
 
 ### Other Contemporary Teachers
+
+> *[Contextual references—verify if these teachers have works in Esoteric Grimoire before citing directly.]*
 
 **Richard Rohr (Franciscan friar):**
 - Author of *The Naked Now*, *Falling Upward*, *The Universal Christ*
@@ -473,5 +492,44 @@ Those with **[[Emotional Authority]]** (Solar Plexus defined) must **wait throug
 - [[Jungian Archetypes#The Anima]] - Inner feminine, integration
 - [[Jungian Archetypes#The Animus]] - Inner masculine, integration
 - [[Jungian Archetypes#The Shadow]] - Rejected parts requiring integration
+
+---
+
+## References
+
+*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
+
+Bourgeault, Cynthia. *The Meaning of Mary Magdalene: Discovering the Woman at the Heart of Christianity*. Boston: Shambhala, 2010.
+- Primary source for Magdalene Path recovery
+- Mary as koinonos: p. 107
+- Ihidaya/Singleness: p. 97
+- Fifth Way: p. 109
+- Kenosis: p. 114
+- Pope Gregory I / Homily 33 (594 CE): cited throughout
+- Bourgeault cites Karen King, Bernard of Clairvaux, Teresa of Ávila, St. John of the Cross, Boris Mouravieff, Charles Williams
+
+Gospel of Mary. Berlin Gnostic Codex (BG 8502,1). 2nd century CE.
+- Mary's private teaching from Jesus
+- Ascent through seven powers
+- Peter's challenge to Mary's authority
+
+Gospel of Philip. Nag Hammadi Codex II,3. 3rd century CE (Syria).
+- Mary as koinonos (companion)
+- The Bridal Chamber sacrament
+- "Kissing" passage (pneumatic transmission)
+
+Gospel of Thomas. Nag Hammadi Codex II,2. 1st–2nd century CE.
+- Logion 114: "make her male"
+
+Estés, Clarissa Pinkola. *Women Who Run With the Wolves*. New York: Ballantine, 1992.
+- Dark Night of the Soul connection to the unconscious
+
+Huxley, Aldous. *The Perennial Philosophy*. New York: Harper & Brothers, 1945.
+- St. John of the Cross citations
+
+Wang, Robert. *The Qabalistic Tarot*. York Beach: Samuel Weiser, 1983.
+- Dark Night and the path of Temperance
+
+**Note:** Some contemporary teachers (Richard Rohr, Mirabai Starr, Tau Malachi, Anaiya Sophia) are listed as contextual references. Verify if their works are in the Esoteric Grimoire before citing directly.
 
 ---
