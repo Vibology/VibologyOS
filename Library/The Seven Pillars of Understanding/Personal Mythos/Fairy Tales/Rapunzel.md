@@ -538,3 +538,29 @@ The masculine journey is **from heroic inflation (the Prince) to wounding (the b
 
 **Related Tales:**
 [[Beauty and the Beast]] • [[Snow White]] • [[Sleeping Beauty]] • [[The Handless Maiden]] • [[The Juniper Tree]] • [[Allerleirauh]] • [[Cinderella]]
+
+---
+
+## Sources & Further Reading
+
+### Primary Texts
+- **Grimm, Jacob and Wilhelm.** *Kinder- und Hausmärchen* (1812). "Rapunzel" (Tale 12).
+- **Giambattista Basile.** *Pentamerone* (1634). "Petrosinella" - Italian precursor with similar tower-imprisonment motif.
+- **Charlotte-Rose de Caumont de La Force.** "Persinette" (1698). French literary version predating Grimms.
+
+### Jungian Analysis
+- **Von Franz, Marie-Louise.** *The Feminine in Fairy Tales* (1972). Tower imprisonment as negative mother complex and separation crisis.
+- **Bettelheim, Bruno.** *The Uses of Enchantment* (1976). Rapunzel as puberty, sexual awakening, and separation from mother.
+- **Jung, Carl Gustav.** *The Archetypes and the Collective Unconscious* (CW 9i). The mother complex and puella aeterna.
+- **Neumann, Erich.** *The Fear of the Feminine* (1994). The devouring mother and arrested development.
+
+### Feminist & Depth Psychology
+- **Estés, Clarissa Pinkola.** *Women Who Run With the Wolves* (1992). The captive woman and reclaiming wild nature.
+- **Perera, Sylvia Brinton.** *Descent to the Goddess: A Way of Initiation for Women* (1981). Tower as isolation from instinct and descent motif.
+
+### Developmental Psychology
+- **Mahler, Margaret, Fred Pine, and Anni Bergman.** *The Psychological Birth of the Human Infant* (1975). Separation anxiety and individuation.
+
+### Comparative & Literary
+- **Tatar, Maria.** *The Hard Facts of the Grimms' Fairy Tales* (1987). Analysis of punishment, exile, and transformation in Grimm narratives.
+- **Warner, Marina.** *From the Beast to the Blonde: On Fairy Tales and Their Tellers* (1994). Hair symbolism and feminine imprisonment.

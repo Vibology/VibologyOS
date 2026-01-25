@@ -622,4 +622,33 @@ Write a dialogue between yourself and your inner stepmother. Let her speak:
 
 ---
 
+## Sources & Further Reading
+
+### Primary Texts
+- **Grimm, Jacob and Wilhelm.** *Kinder- und Hausmärchen* (1812). "Aschenputtel" (Tale 21) - German variant with helpful doves and grave-tree.
+- **Perrault, Charles.** *Histoires ou contes du temps passé* (1697). "Cendrillon, ou la petite pantoufle de verre" - French version with fairy godmother and glass slipper.
+- **Afanasyev, Alexander.** *Russian Fairy Tales* (collected 1855-1863). "Vasilisa the Beautiful" - Russian variant with Baba Yaga and the doll.
+- **Chinese Source.** "Ye Xian" (9th century CE). Earliest recorded Cinderella-type tale, featuring magical fish bones and golden slipper.
+
+### Jungian Analysis
+- **Von Franz, Marie-Louise.** *The Feminine in Fairy Tales* (1972). Comprehensive analysis of Vasilisa the Beautiful as individuation narrative.
+- **Von Franz, Marie-Louise.** *The Interpretation of Fairy Tales* (1970). The doll as externalized Self, Baba Yaga as wild feminine wisdom.
+- **Bettelheim, Bruno.** *The Uses of Enchantment* (1976). Cinderella as sibling rivalry, oedipal resolution, and development of self-worth.
+- **Jung, Carl Gustav.** *The Archetypes and the Collective Unconscious* (CW 9i). The Great Mother archetype in dual aspect (Good Mother/Terrible Mother).
+- **Neumann, Erich.** *The Great Mother: An Analysis of the Archetype* (1955). Analysis of the mother-complex and feminine development.
+
+### Feminist & Depth Psychology
+- **Estés, Clarissa Pinkola.** *Women Who Run With the Wolves* (1992). Analysis of Vasilisa and the Wild Woman archetype, Baba Yaga as Life/Death/Life nature.
+- **Kolbenschlag, Madonna.** *Kiss Sleeping Beauty Good-Bye* (1979). Critique and reclamation of Cinderella narrative.
+
+### Comparative Mythology
+- **Cox, Marian Roalfe.** *Cinderella: Three Hundred and Forty-Five Variants* (1893). Comprehensive cross-cultural analysis.
+- **Dundes, Alan** (editor). *Cinderella: A Casebook* (1982). Scholarly essays on psychological, feminist, and folkloristic interpretations.
+
+### Alchemical & Symbolic
+- **Jung, Carl Gustav.** *Mysterium Coniunctionis* (CW 14). The alchemical marriage and sacred union.
+- **Edinger, Edward F.** *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy* (1985). Nigredo (ashes/hearth) and transformation stages.
+
+---
+
 **END OF ENTRY**

@@ -498,3 +498,20 @@ The tale concludes with the Sacred Marriage ([[Coniunctio]]), the union of Princ
 **Tarot Sequence:** The Sun (golden ball) → The Moon (descent into well) → The Tower (throw against wall) → The Lovers (sacred marriage).
 
 **Core Insight:** The repulsive transforms when confronted. What the ego finds loathsome often contains trapped vitality (the Prince within the Frog). Touching, even violently rejecting, the shadow releases the positive energy imprisoned within. Sometimes you must throw the Frog against the wall—not out of cruelty, but out of the **aliveness of genuine emotion**—to shatter the neurotic shell and free the consciousness trapped inside.
+
+---
+
+## Sources & Further Reading
+
+### Primary Texts
+- **Grimm, Jacob and Wilhelm.** *Kinder- und Hausmärchen* (1812). "Der Froschkönig oder der eiserne Heinrich" (Tale 1) - the first tale in the collection.
+
+### Jungian Analysis
+- **Von Franz, Marie-Louise.** *The Interpretation of Fairy Tales* (1970). Analysis of animal-bridegroom transformation through confrontation rather than acceptance.
+- **Von Franz, Marie-Louise.** *Shadow and Evil in Fairy Tales* (1974). The loathly creature as repressed instinct requiring violent integration.
+- **Bettelheim, Bruno.** *The Uses of Enchantment* (1976). Puberty, sexual awakening, and the transformation of disgust into desire.
+- **Jung, Carl Gustav.** *Mysterium Coniunctionis* (CW 14). The coniunctio and integration of opposites through crisis.
+
+### Comparative & Literary
+- **Tatar, Maria.** *The Hard Facts of the Grimms' Fairy Tales* (1987). Violence, transformation, and sexual initiation in Grimm narratives.
+- **Hearne, Betsy.** *Beauty and the Beast: Visions and Revisions of an Old Tale* (1989). Comparison of animal-bridegroom variants and transformation mechanisms.

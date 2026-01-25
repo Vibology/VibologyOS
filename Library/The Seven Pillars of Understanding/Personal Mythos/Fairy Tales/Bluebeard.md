@@ -611,3 +611,25 @@ Bluebeard is the **necessary counterpoint** to Beauty and the Beast. Together, t
 The bloodstained key is the mark of **consciousness that cannot be reversed**. Once you see the corpses, you must choose: **Obedience or survival. Innocence or life.**
 
 **The brothers are coming. Call them. Let them kill what must be killed. And live.**
+
+---
+
+## Sources & Further Reading
+
+### Primary Texts
+- **Perrault, Charles.** *Histoires ou contes du temps passé* (1697). "La Barbe bleue" - the definitive French literary version.
+- **Grimm, Jacob and Wilhelm.** *Kinder- und Hausmärchen* (1812). Related tales: "Fitcher's Bird" (Tale 46) and "The Robber Bridegroom" (Tale 40).
+
+### Jungian Analysis
+- **Von Franz, Marie-Louise.** *Shadow and Evil in Fairy Tales* (1974). Analysis of predatory masculine and the forbidden chamber as consciousness threshold.
+- **Von Franz, Marie-Louise.** *The Feminine in Fairy Tales* (1972). Differentiation between redeemable shadow (Beast) and destructive animus (Bluebeard).
+- **Jung, Carl Gustav.** *The Archetypes and the Collective Unconscious* (CW 9i). The shadow and its dual nature (integrable vs. toxic).
+
+### Feminist & Depth Psychology
+- **Estés, Clarissa Pinkola.** *Women Who Run With the Wolves* (1992). Chapter on "Bluebeard" as predator recognition and psychic survival.
+- **Bettelheim, Bruno.** *The Uses of Enchantment* (1976). Analysis of curiosity, forbidden knowledge, and maturation.
+- **Carter, Angela.** *The Bloody Chamber and Other Stories* (1979). Feminist literary reimagining of Bluebeard narrative.
+
+### Comparative & Literary
+- **Tatar, Maria.** *Secrets Beyond the Door: The Story of Bluebeard and His Wives* (2004). Comprehensive cultural and psychological analysis.
+- **Warner, Marina.** *From the Beast to the Blonde: On Fairy Tales and Their Tellers* (1994). Gender, power, and predation in fairy tales.

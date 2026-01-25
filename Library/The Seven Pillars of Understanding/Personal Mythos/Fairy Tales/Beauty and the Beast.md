@@ -351,3 +351,31 @@ This is the **alchemical wedding**, the *Coniunctio Oppositorum*, where **Solar 
 
 **Related Tales:**
 [[Snow White]] • [[Sleeping Beauty]] • [[The Handless Maiden]] • [[The Juniper Tree]] • [[Allerleirauh]]
+
+---
+
+## Sources & Further Reading
+
+### Primary Texts
+- **Villeneuve, Gabrielle-Suzanne Barbot de.** *La Belle et la Bête* (1740). Original literary version, significantly longer and more complex than later adaptations.
+- **Leprince de Beaumont, Jeanne-Marie.** *La Belle et la Bête* (1756). Abridged version that became the standard tale, emphasizing moral instruction for young women.
+- **Grimm, Jacob and Wilhelm.** Animal-bridegroom variants in *Kinder- und Hausmärchen* (1812), including "The Frog King" and "The Singing, Soaring Lark."
+
+### Jungian Analysis
+- **Von Franz, Marie-Louise.** *The Interpretation of Fairy Tales* (1970). Analysis of animal-bridegroom tales as Shadow integration narratives.
+- **Von Franz, Marie-Louise.** *Shadow and Evil in Fairy Tales* (1974). The Beast as positive shadow requiring redemption through relationship.
+- **Bettelheim, Bruno.** *The Uses of Enchantment* (1976). Developmental reading of Beauty and the Beast as psychosexual maturation.
+- **Jung, Carl Gustav.** *Mysterium Coniunctionis* (CW 14). The alchemical marriage and integration of opposites (Coniunctio).
+- **Neumann, Erich.** *Amor and Psyche: The Psychic Development of the Feminine* (1956). Parallel analysis of Psyche and Eros myth.
+
+### Feminist & Depth Psychology
+- **Estés, Clarissa Pinkola.** *Women Who Run With the Wolves* (1992). The wild nature and instinctual masculine.
+- **Johnson, Robert A.** *We: Understanding the Psychology of Romantic Love* (1983). Projection, shadow, and the sacred marriage in relationships.
+
+### Alchemical & Symbolic
+- **Jung, Carl Gustav.** *Psychology and Alchemy* (CW 12). The coniunctio and the integration of shadow.
+- **Edinger, Edward F.** *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy* (1985). Rose symbolism and the philosopher's stone.
+
+### Comparative & Literary
+- **Hearne, Betsy.** *Beauty and the Beast: Visions and Revisions of an Old Tale* (1989). Cultural history and analysis of variants.
+- **Warner, Marina.** *From the Beast to the Blonde: On Fairy Tales and Their Tellers* (1994). Gender, power, and transformation in fairy tales.
