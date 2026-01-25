@@ -11,6 +11,9 @@ keynote: Thoughts Must Become Deeds / Being Busy Now
 type: Manifesting Generator (only pure MG channel)
 gates: [20, 34]
 gene_keys: Superficiality/Force → Self-Assurance/Strength → Presence/Majesty
+verified: true
+verification_date: 2026-01-25
+source_verified: Esoteric Grimoire
 ---
 # Channel 20-34
 *Charisma (Thoughts Must Become Deeds)*
@@ -319,6 +322,18 @@ When they honor the Sacral's rhythm—responding fully, pivoting freely, resting
 - [[Manifesting Generator Type]] — The only pure MG channel
 - [[Gene Keys]] — Shadow/Gift/Siddhi framework
 - [[The Chariot (Tarot)]] — Harnessed power in motion
+
+## References
+
+**Primary Source:**
+- Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
+
+**Cross-System Sources:**
+- Richard Rudd, *The Gene Keys: Unlocking the Higher Purpose Hidden in Your DNA* (Gene Keys Publishing, 2013)
+- Alfred Huang, *The Complete I Ching: The Definitive Translation* (Inner Traditions, 1998)
+
+**Verification Note:**
+All channel mechanics, circuitry analysis, and Ra's teachings are sourced from *The Definitive Book of Human Design* (2011). Gene Keys correspondences are from Rudd (2013). I-Ching hexagram correlations are from Huang (1998). Cross-system synthesis (Tarot, Qabalah, Jungian psychology) and biological/somatic interpretations represent **Vibology Synthesis**—integrations drawing upon verified HD mechanics but extending into archetypal and interdisciplinary correspondences.
 
 ---
 
