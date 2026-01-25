@@ -2,6 +2,7 @@
 tags: [angelology, archangel, uriel, four-quarters, malkuth, earth]
 system: Angelology
 date_created: 2026-01-17
+date_updated: 2026-01-25
 category: Individual Archangel
 archangel_name: Uriel
 hebrew_name: אוריאל
@@ -16,6 +17,9 @@ tarot: The World (XXI), The Hierophant (V), The Devil (XV), Pentacles suit
 function: Presider over Tartarus, Interpreter of Prophecy, Light in Darkness, Guardian of Earth Wisdom
 invocation: LBRP (North Quarter), Prayer to Uriel for illumination in shadow
 angelic_order: Ishim (Souls of Fire) or Tarshishim (Brilliant Ones)
+verified: true
+verification_source: Esoteric Grimoire (NotebookLM) - 2026-01-25
+verification_notes: Verified per Davidson pp.17,30,153; DuQuette p.861; Wang p.192; Agrippa p.100; Book of Enoch. Apocryphal references (1 Enoch, 2 Esdras) confirmed. LBRP North/Auriel positioning verified. Regent of Sun, Presider over Tartarus, guide of luminaries all confirmed. Unverified Fortune/Knight quotes removed. Daath attribution noted as synthesis. Vibology Synthesis flagged.
 ---
 # Uriel
 *Guardian of the Gates*
@@ -127,8 +131,7 @@ In most Western esoteric traditions (Golden Dawn, Hermetic Qabalah), Uriel is th
 
 Malkuth is the **destination** of all the divine emanations flowing down the Tree of Life. It is where **spirit becomes flesh**, where the abstract becomes concrete, where the divine is **immanent** rather than transcendent. Uriel, as the Archangel of Malkuth, is the intelligence that **receives, grounds, and stabilizes** the descending divine light in material form.
 
-**Dion Fortune** writes:
-> *"Malkuth is the sphere where all the forces of the other Sephiroth are brought to manifestation. Uriel is the great stabilizer, the angel who ensures that the divine will is not lost in abstraction but finds concrete expression in the world of form."*
+**Vibology Synthesis:** Malkuth is the sphere where all the forces of the other Sephiroth are brought to manifestation. Uriel is the great stabilizer, the angel who ensures that the divine will is not lost in abstraction but finds concrete expression in the world of form.
 
 Uriel is the angel who teaches that **the body is sacred**, that **matter is not fallen but ensouled**, that the earth itself is a **vessel of divine presence**. He is the angel of **incarnational spirituality**—the path that does not seek to escape the body but to **sanctify** it, to recognize the divine **within** the material.
 
@@ -240,8 +243,7 @@ Uriel's cosmic function is **grounding and revelation through embodiment**. Wher
 
 Without Uriel, the entire cascade of divine emanation would remain **abstract, ungrounded, ineffective in the material world**. Uriel is the **completion** of the circuit—the angel who ensures that **heaven touches earth**.
 
-**Gareth Knight** writes:
-> *"Uriel is the angel of the final manifestation, the one who takes the divine impulse and says: 'Now it must be done. Now it must be lived. Now it must take root in soil and flesh and stone.'"*
+**Vibology Synthesis:** Uriel is the angel of the final manifestation, the one who takes the divine impulse and says: 'Now it must be done. Now it must be lived. Now it must take root in soil and flesh and stone.'
 
 ---
 ## VII. Element: Earth and Chthonic Fire
@@ -751,6 +753,47 @@ Uriel, as the **Archangel of Earth**, embodies this teaching: **the material wor
 - **Jungian Psychology:** [[The Shadow]] | [[Katabasis]] (descent archetype) | [[Imago Dei]] (God-image in matter) | [[Coniunctio]] (sacred marriage of opposites)
 - **Alchemy:** [[Nigredo]] (blackening, putrefaction) | [[Coagulation]] (final solidification) | [[The Philosopher's Stone]]
 - **Mythology:** [[Hades]] | [[Persephone]] | [[Anubis]] | [[Hecate]] | [[Prometheus]] | [[Thoth]] | [[Sophia]]
+
+---
+
+## References
+
+### Primary Sources
+
+**Agrippa, Heinrich Cornelius.** *The Occult Philosophy or Magic.* Edited by Willis F. Whitehead. Chicago: Hahn & Whitehead, 1898.
+- Page 100: Uriel assigned to the South (and Wind) in medieval attributions.
+
+**Davidson, Gustav.** *A Dictionary of Angels, Including the Fallen Angels.* New York: The Free Press, 1967 (Paperback Edition 1971).
+- Pages 17, 30: Uriel etymology - "Fire of God," "Light of God," or "God is my Light."
+- Page 17: Titles - Regent of the Sun, Angel of the Presence, Archangel of Salvation, Presider over Tartarus.
+- Pages 17, 153: Apocryphal references - 1 Enoch (guide of luminaries, secrets of sun/moon/stars, "watches over thunder and terror"), 2 Esdras (sent to Ezra to interpret visions).
+- Page 153: "The spirit who stood at the gate of the lost Eden with the fiery sword" (Davidson citing tradition).
+- Page 153: Milton's description - "sharpest sighted spirit of all in Heaven."
+- Pages 25, 117, 135: Not named in canonical Bible; associations with Sun or Venus; identified as "watcher."
+
+**DuQuette, Lon Milo.** *Enochian Vision Magick: An Introduction and Practical Guide to the Magick of Dr. John Dee and Edward Kelley.* San Francisco: Weiser Books, 2008.
+- Page 861: LBRP positioning - "On my left hand, Auriel" (North quarter, Earth element).
+
+**Wang, Robert.** *The Qabalistic Tarot: A Textbook of Mystical Philosophy.* York Beach, Maine: Samuel Weiser, Inc., 1983.
+- Page 192: Golden Dawn spelling "Auriel"; association with Earth element and North quarter.
+
+**Book of Enoch** (R.H. Charles translation, standard).
+- Chapter 72-82 (Astronomical Book): Uriel as guide of the luminaries.
+
+### Vibology Synthesis Notes
+
+The following content represents cross-system synthesis, interpretive material, and/or unverified quotes:
+- All quotes attributed to "Dion Fortune" about Uriel and Malkuth (not found in primary sources)
+- All quotes attributed to "Gareth Knight" (not in Grimoire)
+- The association of Uriel with Daath (non-canonical attribution)
+- The "Fire of God within Earth" interpretation as chthonic fire
+- All Jungian interpretations and psychological parallels
+- Human Design (Root Center), Gene Keys, chakra correspondences
+- Mythological parallels (Prometheus, Hades, Persephone, Hecate, Anubis)
+- All meditation practices, visualization techniques, and ritual instructions
+- Qlippothic analysis (Nehemoth/Lilith as shadow of Malkuth)
+- Prayer to Uriel (composed for this text)
+- Final quote about Uriel (original synthesis)
 
 ---
 
