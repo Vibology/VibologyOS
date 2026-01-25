@@ -2,6 +2,9 @@
 tags: [angelology, hierarchy, seraphim, first-triad]
 system: Angelology
 date_created: 2026-01-17
+date_updated: 2026-01-25
+verified: 2026-01-25
+verification_source: Esoteric Grimoire
 category: Angelic Order
 order_number: 1
 order_name: Seraphim
@@ -711,6 +714,52 @@ This is the Seraphim's gift: the **dissolution of the illusion of separation**.
 - [[Dark Night of the Soul]] (the purifying fire)
 - [[Contemplative Prayer]]
 - [[Qabalistic Pathworking]]
+
+---
+
+## References
+
+*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
+
+**Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.
+- Pseudo-Dionysius established hierarchy with Seraphim as highest order: p. 261
+- Seraphim equated with hayyoth in rabbinic writings: p. 261
+- Maimonides' hierarchy (Chaioth ha-Qadesh 1st order, Seraphim 5th): p. 261
+
+**The Bible** (New International Version, English Standard Version)
+- Isaiah 6:1-7: Vision of Seraphim in the Temple
+- Isaiah 6:2-4: Six wings and the Trisagion
+- Isaiah 6:5-7: The burning coal and purification
+- Exodus 3:14: EHEIEH ("I Am That I Am")
+- Exodus 34:33-35: Moses veils his face
+- 2 Chronicles 26: King Uzziah's pride and death
+- Revelation 4:6-8: Four living creatures with six wings
+- 1 John 4:8: "God is love"
+
+**Pseudo-Dionysius the Areopagite.** *The Celestial Hierarchy* (6th century, cited via Davidson)
+- First hierarchy purified directly from Divine Source (Davidson, p. 261)
+- Three triads structure: First Triad in direct contemplation of God (Davidson, p. 261)
+
+**Otto, Rudolf.** *The Idea of the Holy: An Inquiry into the Non-Rational Factor in the Idea of the Divine.* Oxford University Press, 1923.
+- Mysterium tremendum et fascinans: the numinous experience
+
+**Jung, Carl Gustav.** *The Red Book: Liber Novus.* Ed. Sonu Shamdasani. W.W. Norton, 2009.
+- "The Gods are not dead. They have become diseases."
+
+**Jung, Carl Gustav.** *Aion: Researches into the Phenomenology of the Self.* Princeton University Press, 1959.
+- The Self as center and circumference of the psyche
+
+**1 Enoch** (*The Book of Enoch*)
+- Seraphim mentioned alongside Cherubim and Ophanim as highest orders
+
+**The Zohar** (Foundational text of Qabalah)
+- Chaioth ha-Qadesh as living creatures bearing God's throne
+- Four faces: man, lion, ox, eagle
+
+**The Qur'an**
+- Surah 7:206: Angels brought near to Allah (Muqarrabun)
+
+> *Vibology Synthesis: Cross-system correspondences (Human Design, Jungian archetypes, Tarot, Astrology) represent original integrative frameworks developed for this system. Human Design correspondences (Head Center, Gates 64 and 61) are based on Ra Uru Hu's system as interpreted through the lens of angelic hierarchy. Jungian correspondences (The Self, imago Dei, individuation) synthesize analytical psychology with mystical theology.*
 
 ---
 
