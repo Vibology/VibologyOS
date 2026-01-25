@@ -2,6 +2,9 @@
 tags: [angelology, hierarchy, powers, second-triad, geburah, mars]
 system: Angelology
 date_created: 2026-01-17
+date_updated: 2026-01-25
+verified: 2026-01-25
+verification_source: Esoteric Grimoire
 category: Angelic Order
 order_number: 5
 order_name: Powers
@@ -651,6 +654,44 @@ To integrate the Powers is to become the **sacred warrior**—the one who defend
 ### Cross-System Synthesis
 - [[Mars and the Heart Center]] (Potential synthesis) — Astrology + HD integration of martial consciousness
 - [[The Sword of Discrimination]] (Potential synthesis) — Qabalah + Tarot + Jungian integration of discernment
+
+---
+
+## References
+
+*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
+
+**Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.
+- Pseudo-Dionysius on Powers characterized by "masculine and unflinching courage": referenced in text
+- Powers "stop the efforts of demons who would overthrow the world": cited in text
+- Francis Barrett's *The Magus* attributing name *Elohim* to Powers: p. 226 (via Davidson)
+
+**Wang, Robert.** *The Qabalistic Tarot: A Textbook of Mystical Philosophy.* Weiser Books, 1983.
+- Powers are "the Seraphim the Flaming Ones who are also called the Order of Powers": referenced in text
+- Geburah angelic choir name: Seraphim (distinct from Seraphim of Kether)
+
+**The Bible** (New International Version, English Standard Version)
+- Colossians 1:16: Naming of cosmic authorities (*exousiai*)
+- Ephesians 6:12: Spiritual warfare against cosmic powers (*kosmokratores*)
+- Revelation 12:7-9: War in heaven, Michael and his angels
+- Psalm 103:20-21: Angels as mighty ones (*gibborim*)
+- Genesis 3:24: Cherubim and flaming sword guarding Eden
+
+**Pseudo-Dionysius the Areopagite.** *The Celestial Hierarchy* (6th century, cited via Davidson)
+- Powers characterized by unflinching courage in divine energies (referenced in text)
+- Powers stop demons who would overthrow the world (cited in text)
+- Second hierarchy purified and illuminated by first (cited in text)
+
+**Fortune, Dion.** *The Mystical Qabalah.* Weiser Books, 1935.
+- Geburah as sphere of fear and strength, the surgeon's scalpel (quoted in text)
+- **Note:** Not verified in Esoteric Grimoire; cited as traditional Qabalistic teaching
+
+**Jung, Carl Gustav.** Writings on psychological types and symbols
+- *Psychological Types*: Psyche requires differentiation and boundary (quoted in text)
+- *Symbols of Transformation*: Sword as hero's weapon for separation (quoted in text)
+- **Note:** Jungian concepts referenced but not direct citations from specific verified sources
+
+> *Vibology Synthesis: Cross-system correspondences (Human Design Heart/Ego Center, Mars/astrological associations, Tarot Tower/Fives, Jungian sword archetype) represent original integrative frameworks developed for this system. The Heart Center correspondence (willpower, boundaries, capacity to say "No") synthesizes Human Design mechanics with angelic hierarchy. Mythological parallels (Athena, Durga, Thor, Sekhmet) are comparative analysis, not direct citations from primary angelology sources. Demonological references (Asmodeus as fallen Power) included as traditional esoteric teaching.*
 
 ---
 
