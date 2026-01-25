@@ -7,8 +7,9 @@ conscious_line: 2 (Hermit)
 unconscious_line: 5 (Heretic)
 life_theme: Natural Genius Universalized in Crisis
 date_created: 2026-01-08
+date_updated: 2026-01-25
 source_verified: true
-verification_date: 2026-01-23
+verification_date: 2026-01-25
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
 verification_notes: "Individual verification complete. Core mechanics (Line 2, Line 5, Right Angle classification) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
@@ -177,10 +178,19 @@ The 2/5 brings:
 ---
 
 
+
+## References
+
+*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
+
+Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
+- Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority
+
+**Verification Notes:**
+- Human Design system synthesizes I-Ching (64 hexagrams → 64 Gates), Astrology (planetary activations), Kabbalah/Tree of Life (Sephiroth → 9 Centers), and Hindu-Brahmin Chakra system
+- Ra Uru Hu received the system in 1987 on Ibiza; he systematized and taught it, but did not "create" it
+- All mechanical definitions verified against *The Definitive Book of Human Design* (2011)
+- Cross-system correspondences (Jungian, Tarot, Qabalah) marked as Vibology Synthesis where applicable
+
 ---
 
-[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011), Right Angle Profiles: Personal destiny
-[^2]: *Definitive Book of Human Design*, Line 2: Natural talent, called out by others
-[^3]: *Definitive Book of Human Design*, Line 5: Universalizing, practical solutions, leadership
-
-*The 2/5 is the natural genius who becomes the universal savior—the hermit pulled into the world by collective crisis, expected to provide practical solutions to problems they did not create. Their gift is innate, their burden is projection, and their wisdom lies in discerning which calls are correct and which will only deplete their hermitage. When they respond correctly, they save; when they respond incorrectly, they are blamed. The 2/5's life is the balance between solitude and service, between natural gifts and universal expectations.*

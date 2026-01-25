@@ -7,8 +7,9 @@ conscious_line: 1 (Investigator)
 unconscious_line: 3 (Martyr)
 life_theme: Foundation through Trial and Error
 date_created: 2026-01-08
+date_updated: 2026-01-25
 source_verified: true
-verification_date: 2026-01-23
+verification_date: 2026-01-25
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
 verification_notes: "Individual verification complete. Core mechanics (Line 1 introspection, Line 3 trial/error, Right Angle classification) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
@@ -175,10 +176,19 @@ The 1/3 brings:
 
 ---
 
+
+## References
+
+*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
+
+Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
+- Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority
+
+**Verification Notes:**
+- Human Design system synthesizes I-Ching (64 hexagrams → 64 Gates), Astrology (planetary activations), Kabbalah/Tree of Life (Sephiroth → 9 Centers), and Hindu-Brahmin Chakra system
+- Ra Uru Hu received the system in 1987 on Ibiza; he systematized and taught it, but did not "create" it
+- All mechanical definitions verified against *The Definitive Book of Human Design* (2011)
+- Cross-system correspondences (Jungian, Tarot, Qabalah) marked as Vibology Synthesis where applicable
+
 ---
 
-[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011), Right Angle Profiles: Personal destiny
-[^2]: *Definitive Book of Human Design*, Line 1: Introspection, study, foundation
-[^3]: *Definitive Book of Human Design*, Line 3: Trial and error, mutation, adaptation
-
-*The 1/3 is the foundation-builder who earns knowledge through lived experience. They investigate until the world makes sense, and they experiment until they discover what truly works. Their gift is not theory alone but theory tested in the crucible of reality, and their wisdom is the kind that can be trusted because it has been forged through both study and struggle.*

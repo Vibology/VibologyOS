@@ -7,8 +7,9 @@ conscious_line: 4 (Opportunist)
 unconscious_line: 6 (Role Model)
 life_theme: Modeling Uniqueness Through Network
 date_created: 2026-01-08
+date_updated: 2026-01-25
 source_verified: true
-verification_date: 2026-01-23
+verification_date: 2026-01-25
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
 verification_notes: "Individual verification complete. Core mechanics (Line 4, Line 6, Right Angle classification) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
@@ -204,10 +205,19 @@ The 4/6 brings:
 ---
 
 
+
+## References
+
+*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
+
+Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
+- Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority
+
+**Verification Notes:**
+- Human Design system synthesizes I-Ching (64 hexagrams → 64 Gates), Astrology (planetary activations), Kabbalah/Tree of Life (Sephiroth → 9 Centers), and Hindu-Brahmin Chakra system
+- Ra Uru Hu received the system in 1987 on Ibiza; he systematized and taught it, but did not "create" it
+- All mechanical definitions verified against *The Definitive Book of Human Design* (2011)
+- Cross-system correspondences (Jungian, Tarot, Qabalah) marked as Vibology Synthesis where applicable
+
 ---
 
-[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011), Right Angle Profiles: Personal destiny
-[^2]: *Definitive Book of Human Design*, Line 4: Externalization, friendliness, networking
-[^3]: *Definitive Book of Human Design*, Line 6: Role Model, 3-stage life (0-30, 30-50, 50+)
-
-*The 4/6 is the networked role model—the one who experiments with connection, withdraws to observe, and returns to model a unique perspective through trusted relationships. Their life is a three-act play: experimental networking in Act I, detached observation in Act II, and balanced influence in Act III. Their gift is trusted wisdom shared through established connections, and their burden is the tension between wanting to connect (Line 4) and needing to detach (Line 6). When the 4/6 reaches Stage 3, they become the living proof that uniqueness can be modeled through trusted networks.*

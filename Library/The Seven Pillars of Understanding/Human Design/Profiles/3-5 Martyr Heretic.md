@@ -7,8 +7,9 @@ conscious_line: 3 (Martyr)
 unconscious_line: 5 (Heretic)
 life_theme: The Great Fixer
 date_created: 2026-01-08
+date_updated: 2026-01-25
 source_verified: true
-verification_date: 2026-01-23
+verification_date: 2026-01-25
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
 verification_notes: "Individual verification complete. Core mechanics (Line 3, Line 5, Right Angle classification) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
@@ -181,10 +182,19 @@ The 3/5 brings:
 ---
 
 
+
+## References
+
+*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
+
+Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
+- Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority
+
+**Verification Notes:**
+- Human Design system synthesizes I-Ching (64 hexagrams → 64 Gates), Astrology (planetary activations), Kabbalah/Tree of Life (Sephiroth → 9 Centers), and Hindu-Brahmin Chakra system
+- Ra Uru Hu received the system in 1987 on Ibiza; he systematized and taught it, but did not "create" it
+- All mechanical definitions verified against *The Definitive Book of Human Design* (2011)
+- Cross-system correspondences (Jungian, Tarot, Qabalah) marked as Vibology Synthesis where applicable
+
 ---
 
-[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011), Right Angle Profiles: Personal destiny
-[^2]: *Definitive Book of Human Design*, Line 3: Trial and error, mutation, adaptation
-[^3]: *Definitive Book of Human Design*, Line 5: Universalizing, practical solutions, leadership
-
-*The 3/5 is the great fixer—the one who discovers what doesn't work through relentless experimentation and is projected upon by the collective to provide practical solutions. They are the anarchists who break inefficient systems and the heretics who offer alternatives. Their gift is trial-and-error wisdom universalized, and their burden is the expectation that every mistake will lead to a solution. When they respond correctly, they revolutionize; when they respond incorrectly, they are blamed. The 3/5's life is the balance between personal experimentation and universal fixing.*

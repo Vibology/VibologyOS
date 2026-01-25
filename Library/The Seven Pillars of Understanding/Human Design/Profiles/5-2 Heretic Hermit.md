@@ -7,8 +7,9 @@ conscious_line: 5 (Heretic)
 unconscious_line: 2 (Hermit)
 life_theme: Self-Motivated Heretic
 date_created: 2026-01-08
+date_updated: 2026-01-25
 source_verified: true
-verification_date: 2026-01-23
+verification_date: 2026-01-25
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
 verification_notes: "Individual verification complete. Core mechanics (Line 5, Line 2, Left Angle classification) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
@@ -182,10 +183,19 @@ The 5/2 brings:
 ---
 
 
+
+## References
+
+*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
+
+Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
+- Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority
+
+**Verification Notes:**
+- Human Design system synthesizes I-Ching (64 hexagrams → 64 Gates), Astrology (planetary activations), Kabbalah/Tree of Life (Sephiroth → 9 Centers), and Hindu-Brahmin Chakra system
+- Ra Uru Hu received the system in 1987 on Ibiza; he systematized and taught it, but did not "create" it
+- All mechanical definitions verified against *The Definitive Book of Human Design* (2011)
+- Cross-system correspondences (Jungian, Tarot, Qabalah) marked as Vibology Synthesis where applicable
+
 ---
 
-[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011), Left Angle Profiles: Trans-personal karma
-[^2]: *Definitive Book of Human Design*, Line 5: Universalizing, practical solutions, leadership
-[^3]: *Definitive Book of Human Design*, Line 2: Natural talent, called out by others
-
-*The 5/2 is the self-motivated heretic—the hermit projected upon to save the world, but only able to do so after discovering their own inner call. They are naturally withdrawn but universally expected to engage, creating a profound paradox between public expectation and private need. Their gift is authentic service born from self-actualization, and their burden is the pressure to help before they are ready. The 5/2 must save themselves before they can save others, and their wisdom lies in trusting that the inner call, when it comes, will be unmistakable.*

@@ -7,8 +7,9 @@ conscious_line: 5 (Heretic)
 unconscious_line: 1 (Investigator)
 life_theme: The General
 date_created: 2026-01-08
+date_updated: 2026-01-25
 source_verified: true
-verification_date: 2026-01-23
+verification_date: 2026-01-25
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
 verification_notes: "Individual verification complete. Core mechanics (Line 5 universalizing, Line 1 introspection, Left Angle classification, 'The General' archetype) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
@@ -183,9 +184,19 @@ The 5/1 brings:
 
 *The 5/1 is The General—the authoritative leader projected upon by strangers to rescue, backed by deep foundational knowledge. They are seductive, drawing people in with their projected power, and they are burdened by universal expectation. Their gift is practical solutions grounded in research, and their challenge is managing a reputation that depends on delivering results. Strangers project savior status; intimates see the human. The 5/1's life is the balance between universal projection and foundational authority, between being The General and being human.*
 
+
+## References
+
+*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
+
+Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
+- Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority
+
+**Verification Notes:**
+- Human Design system synthesizes I-Ching (64 hexagrams → 64 Gates), Astrology (planetary activations), Kabbalah/Tree of Life (Sephiroth → 9 Centers), and Hindu-Brahmin Chakra system
+- Ra Uru Hu received the system in 1987 on Ibiza; he systematized and taught it, but did not "create" it
+- All mechanical definitions verified against *The Definitive Book of Human Design* (2011)
+- Cross-system correspondences (Jungian, Tarot, Qabalah) marked as Vibology Synthesis where applicable
+
 ---
 
-[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011), 5/1 Profile: "The General"
-[^2]: *Definitive Book of Human Design*, Left Angle Profiles: Trans-personal karma
-[^3]: *Definitive Book of Human Design*, Line 5: Universalizing, practical solutions, leadership
-[^4]: *Definitive Book of Human Design*, Line 1: Introspection, study, foundation

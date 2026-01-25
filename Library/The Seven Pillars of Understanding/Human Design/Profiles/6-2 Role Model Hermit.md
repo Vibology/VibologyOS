@@ -7,8 +7,9 @@ conscious_line: 6 (Role Model)
 unconscious_line: 2 (Hermit)
 life_theme: Objective Wise Observer
 date_created: 2026-01-08
+date_updated: 2026-01-25
 source_verified: true
-verification_date: 2026-01-23
+verification_date: 2026-01-25
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
 verification_notes: "Individual verification complete. Core mechanics (Line 6, Line 2, Left Angle classification) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
@@ -209,10 +210,19 @@ The 6/2 brings:
 ---
 
 
+
+## References
+
+*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
+
+Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
+- Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority
+
+**Verification Notes:**
+- Human Design system synthesizes I-Ching (64 hexagrams → 64 Gates), Astrology (planetary activations), Kabbalah/Tree of Life (Sephiroth → 9 Centers), and Hindu-Brahmin Chakra system
+- Ra Uru Hu received the system in 1987 on Ibiza; he systematized and taught it, but did not "create" it
+- All mechanical definitions verified against *The Definitive Book of Human Design* (2011)
+- Cross-system correspondences (Jungian, Tarot, Qabalah) marked as Vibology Synthesis where applicable
+
 ---
 
-[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011), Left Angle Profiles: Trans-personal karma
-[^2]: *Definitive Book of Human Design*, Line 6: Role Model, 3-stage life (0-30, 30-50, 50+)
-[^3]: *Definitive Book of Human Design*, Line 2: Natural talent, called out by others
-
-*The 6/2 is the wise hermit on the roof—the objective observer who models individual perfection through detached wisdom and natural genius. They experiment in youth, retreat to the roof in midlife, and emerge in later years as role models of wholeness. Their gift is objective wisdom offered from solitude, and their burden is the pressure to engage before they are ready. The roof is not escape; it is sanctuary. And from that sanctuary, the 6/2 offers the world a vision of what it means to be whole, detached, and complete.*
