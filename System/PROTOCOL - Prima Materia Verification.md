@@ -75,11 +75,29 @@ Synthesis content should still be *anchored* to verified sources where possible.
 1. **Read the existing file** to understand its claims
 2. **Query Esoteric Grimoire** for verification of key concepts
 3. **Compare** file content against retrieved prima materia
-4. **Add inline citations** linking statements to specific sources
+4. **Add inline citations** linking statements to specific sources (MANDATORY - every claim)
 5. **Mark Vibology Synthesis** sections with blockquote notation
-6. **Create References section** with complete bibliographic data
+6. **Create References section** with complete bibliographic data (MANDATORY - every file)
 7. **Update YAML frontmatter** with verification metadata
-8. **Commit** with meaningful message describing changes
+8. **Run Verification Checklist** (see below) - all items must pass
+9. **Commit** with meaningful message describing changes
+
+### Post-Verification Checklist
+
+Run this checklist on EVERY file before committing:
+
+```bash
+# Check for References section
+grep -q "^## References" [filename] && echo "✓ Has References" || echo "✗ MISSING References section"
+
+# Check for inline citations
+grep -q "(Davidson\|Wang\|Agrippa\|Bourgeault\|Gospel of" [filename] && echo "✓ Has citations" || echo "✗ MISSING inline citations"
+
+# Check for verification date in YAML
+grep -q "^verified:" [filename] && echo "✓ Has verified date" || echo "✗ MISSING verified date"
+```
+
+**If any check fails, the file is INCOMPLETE and cannot be marked as verified.**
 
 ### YAML Frontmatter Updates
 
@@ -133,15 +151,20 @@ de Quillan, Jehanne. *The Gospel of the Beloved Companion: The Complete Gospel o
 
 ## Quality Gates
 
+**CRITICAL REQUIREMENT: NO FILE IS VERIFIED WITHOUT BOTH INLINE CITATIONS AND REFERENCES SECTION**
+
 Before marking a file as verified, confirm:
 
-- [ ] Every factual claim has inline citation
+- [ ] **MANDATORY:** Every factual claim has inline citation (Davidson, p. XX) or (Wang, Ch. X)
+- [ ] **MANDATORY:** References section exists at end of file with full bibliographic details
 - [ ] All cited sources are in the Esoteric Grimoire
 - [ ] Secondary sources attributed as "X cites Y"
-- [ ] Vibology Synthesis sections clearly marked
-- [ ] References section lists all cited sources
+- [ ] Vibology Synthesis sections clearly marked with blockquote
+- [ ] References section lists page numbers or chapter numbers for all citations
 - [ ] YAML frontmatter includes `verified` date
 - [ ] No orphaned claims (unsourced statements)
+
+**Files lacking inline citations or References section are INCOMPLETE and must be remediated immediately.**
 
 ---
 
@@ -213,9 +236,9 @@ Verification proceeds by pillar, smallest to largest:
 | 4 | Techgnosis.md | ✅ Verified | 2026-01-24 | Verified Erik Davis TechGnosis citation |
 | 5 | The Blueprint - 444 Architecture.md | ✅ Verified | 2026-01-24 | Added Ra Uru Hu, Rudd, Huang citations; noted Schonberger |
 
-### Phase 3: Angelology (5/31 files) 🔄 IN PROGRESS
+### Phase 3: Angelology (5/31 files verified) ⚠️ INCOMPLETE - REMEDIATION REQUIRED
 
-**Batch 1: Overview Files (5/5 complete)**
+**Batch 1: Overview Files (5/5 complete) ✅**
 
 | # | File | Status | Date | Notes |
 |---|------|--------|------|-------|
@@ -225,10 +248,22 @@ Verification proceeds by pillar, smallest to largest:
 | 4 | The Nine Angelic Orders.md | ✅ Verified | 2026-01-24 | Nine orders structure verified; Davidson, Wang sources |
 | 5 | The Archangels.md | ✅ Verified | 2026-01-24 | Eleven archangel framework; Davidson, Wang, scriptural refs |
 
-**Remaining in Phase 3:**
-- Batch 2: Individual angelic order entries (9 files)
-- Batch 3-4: Individual archangel entries (11 files)
-- Batch 5: Enochian Tradition (6 files)
+**Batch 2-4: INCOMPLETE - Missing References Sections (15/15 files)**
+
+| Batch | Files | Status | Issue |
+|-------|-------|--------|-------|
+| Batch 2 | Seraphim, Cherubim, Thrones, Dominations, Virtues (5) | ❌ INCOMPLETE | No References section; most lack inline citations |
+| Batch 3 | Powers, Principalities, Archangels, Angels (4) | ❌ INCOMPLETE | No References section; most lack inline citations |
+| Batch 4 | Metatron, Raziel, Tzaphkiel, Tzadkiel, Kamael, Raphael (6) | ❌ INCOMPLETE | No References section; has some inline citations |
+
+**CRITICAL ERROR DISCOVERED 2026-01-24:**
+- Only 5/20 Angelology files have proper References sections (25%)
+- 15 files marked "complete" lack mandatory citations
+- All 15 files require remediation before Phase 3 can be considered complete
+
+**Remaining Work in Phase 3:**
+- **PRIORITY 1:** Remediate 15 incomplete files (add References sections, complete inline citations)
+- Batch 5: Enochian Tradition (6 files) - not yet started
 
 ---
 
@@ -287,5 +322,9 @@ When resuming verification work:
 | 2026-01-24 | **Phase 3 Batch 1 Complete** - 5/31 Angelology files verified (overview files) |
 | 2026-01-24 | Updated Known Sources with Phase 2 & 3 sources (Davidson, Ra Uru Hu, Rudd, etc.) |
 | 2026-01-24 | Progress: 18/643 files verified (3% complete) |
+| 2026-01-24 | **CRITICAL ERROR DISCOVERED** - 15/20 Angelology files lack References sections |
+| 2026-01-24 | **PROTOCOL UPDATED** - Made inline citations and References sections MANDATORY |
+| 2026-01-24 | Added Post-Verification Checklist to prevent future incomplete files |
+| 2026-01-24 | Phase 3 status downgraded to 5/31 verified; 15 files require remediation |
 
 ---
