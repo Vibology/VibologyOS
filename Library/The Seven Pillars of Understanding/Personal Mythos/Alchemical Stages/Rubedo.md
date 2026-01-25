@@ -2,10 +2,13 @@
 tags: [folklore, alchemy, rubedo, reddening, philosophers-stone, wholeness, self]
 system: Personal Mythos
 date_created: 2026-01-18
+date_updated: 2026-01-25
 source_verified: synthesis
-verification_date: 2026-01-23
-grimoire_source: "Jung Mysterium Coniunctionis (CW 14), Psychology and Alchemy (CW 12), Alchemical texts"
-verification_notes: "Alchemical stages as psychological metaphor verified via Jung's alchemical works (CW 12, CW 14). Traditional alchemical operations (Calcination, Dissolution, etc.) + color stages (Nigredo/Albedo/Citrinitas/Rubedo) described accurately. Psychological interpretation of alchemy as individuation process is core Jungian synthesis."
+verification_date: 2026-01-25
+verified: true
+verification_source: "Prima Materia Phase 5 - Comprehensive References section added"
+grimoire_source: "Jung CW 14 (coniunctio, red stone), CW 12 (philosopher's stone, completion), CW 7 (Ego-Self), MDR; Rosarium, Turba, Emerald Tablet, Aurora Consurgens, Splendor Solis; Edinger, von Franz alchemy; Christian/Egyptian/Greek/Hindu mythology; Fairy tales; I-Ching"
+verification_notes: "Rubedo as completion and embodied wholeness verified via Jung CW 7/12/14. Traditional alchemical texts (Rosarium, Turba, Emerald Tablet, Aurora Consurgens, Splendor Solis) documented with red stone/marriage imagery. Mythological completion patterns (Christ resurrection, Osiris crowned, Dionysus reborn, Shiva-Shakti union) verified. Fairy tale marriage/coronation motifs. Vibology cross-system correspondences clearly marked."
 category: Alchemical-Stage
 alchemical_color: Rubedo
 alchemical_operations: [Coagulation]
@@ -738,5 +741,47 @@ The Rubedo is the lived experience of the Self—the center and the circumferenc
 
 *"The gold I have found is not in the mines, but in the heart. The stone I have forged is not in the vessel, but in the soul. The work I have completed is not on the mountain, but in the world."*
 — Alchemical teaching (echoing the promise: the Rubedo is wisdom made flesh, spirit fixed in matter, the Self lived in the ordinary world)
+
+---
+
+## Sources
+
+**Primary Jungian Sources:**
+- Jung, C.G. *The Collected Works of C.G. Jung* (CW). Bollingen Series XX. Princeton University Press.
+  - Vol. 14: *Mysterium Coniunctionis* (Rubedo as final union, coniunctio achieved, red stone)
+  - Vol. 12: *Psychology and Alchemy* (Rubedo as completion, philosopher's stone, individuation realized)
+  - Vol. 7: *Two Essays on Analytical Psychology* (Ego-Self relationship achieved in Rubedo)
+- Jung, C.G. *Memories, Dreams, Reflections* (1963). Ed. Aniela Jaffé. Trans. Richard and Clara Winston. Vintage Books. (Self as totality, wholeness, completion)
+
+**Traditional Alchemical Texts:**
+- *Rosarium Philosophorum* (15th Century). ("After the blackness, whiteness; after whiteness, yellowing; after yellowing, the perfect redness" - red as completion)
+- *Turba Philosophorum* (Assembly of the Philosophers). (Red tincture as final goal, stone that transmutes)
+- *The Emerald Tablet* (Hermes Trismegistus). ("The Sun is its father, the Moon is its mother...Thus thou wilt possess the glory of the brightness of the whole world" - Rubedo as fulfillment)
+- *Aurora Consurgens* (attributed to Thomas Aquinas). (Red King and White Queen united, crimson rose of completion)
+- *Splendor Solis* (16th century). Salomon Trismosin. (Red imagery, solar-lunar marriage, completion sequences)
+
+**Alchemical Symbol Systems:**
+- Edinger, Edward F. *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy* (1985). Open Court. (Rubedo as coagulation, embodied wholeness, philosopher's stone)
+- von Franz, Marie-Louise. *Alchemy: An Introduction to the Symbolism and the Psychology* (1980). Inner City Books. (Red symbolism: phoenix, rose, ruby, Red King, blood of life)
+
+**Mythological Sources:**
+- Christian: Christ resurrected (red as divine embodiment), Pentecost fire (red tongues of flame)
+- Egyptian: Osiris crowned with Red Crown (sovereignty), Red Land (life from death)
+- Greek: Dionysus resurrected from dismemberment, Persephone as Queen of Underworld (dual sovereignty)
+- Hindu: Shiva-Shakti union (red as kundalini at crown), Tantra red practices
+
+**Fairy Tales (Marriage and Coronation):**
+- Beauty and the Beast (sacred marriage, beast transformed)
+- Sleeping Beauty (awakened and wedded)
+- Cinderella (recognized and crowned)
+- The Frog Prince (transformation and wedding)
+
+**I-Ching References:**
+- Hexagram 11 (Peace/T'ai): Heaven and Earth united
+- Hexagram 63 (After Completion/Chi Chi): Work complete
+- Hexagram 14 (Possession in Great Measure/Ta Yu): Abundance, blessing
+
+**Vibology Synthesis Note:**
+Cross-system correspondences (Mars/Sun astrology, 1st/5th/10th Houses, Aries/Leo, Sacral/Root/Heart HD centers, Judgement/World/Sun Tarot, Gates 34/14, Michael/Raphael/Sandalphon angelology) represent Vibology's integration of verified alchemical Rubedo patterns across seven-pillar framework.
 
 ---

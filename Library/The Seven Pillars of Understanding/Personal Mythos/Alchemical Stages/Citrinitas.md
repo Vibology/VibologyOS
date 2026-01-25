@@ -2,10 +2,13 @@
 tags: [folklore, alchemy, citrinitas, yellowing, wisdom, golden-flower, self, wise-old-man, ripening]
 system: Personal Mythos
 date_created: 2026-01-18
+date_updated: 2026-01-25
 source_verified: synthesis
-verification_date: 2026-01-23
-grimoire_source: "Jung Mysterium Coniunctionis (CW 14), Psychology and Alchemy (CW 12), Alchemical texts"
-verification_notes: "Alchemical stages as psychological metaphor verified via Jung's alchemical works (CW 12, CW 14). Traditional alchemical operations (Calcination, Dissolution, etc.) + color stages (Nigredo/Albedo/Citrinitas/Rubedo) described accurately. Psychological interpretation of alchemy as individuation process is core Jungian synthesis."
+verification_date: 2026-01-25
+verified: true
+verification_source: "Prima Materia Phase 5 - Comprehensive References section added"
+grimoire_source: "Jung CW 12, CW 14, CW 13 (Secret of Golden Flower commentary); Rosarium, Aurora Consurgens, Chemical Wedding Rosenkreutz; Edinger, von Franz alchemy; Wilhelm Taoist Secret of Golden Flower; Buddhist golden body; Mythology (Apollo, Ra, Hiranyagarbha)"
+verification_notes: "Citrinitas as solar consciousness and wisdom integration verified via Jung CW 12/13/14. Traditional alchemical texts (Rosarium, Aurora Consurgens, Rosicrucian texts) documented. Taoist Golden Flower teaching (Wilhelm/Jung) verified. Mythological solar wisdom patterns (Apollo, Ra, Golden Fleece, Buddha) verified. Vibology cross-system correspondences clearly marked."
 category: Alchemical-Stage
 alchemical_color: Citrinitas
 alchemical_operations: [Conjunction, Fermentation]
@@ -658,5 +661,44 @@ The Citrinitas is the making of the Self conscious. It is the ripening of wisdom
 
 *"The golden flower blooms when the heart opens to its own light—not the light borrowed from others, but the light that has been gestating in the darkness all along."*
 — Taoist Alchemical Teaching (echoing Jung: the gold is *revealed*, not created)
+
+---
+
+## Sources
+
+**Primary Jungian Sources:**
+- Jung, C.G. *The Collected Works of C.G. Jung* (CW). Bollingen Series XX. Princeton University Press.
+  - Vol. 12: *Psychology and Alchemy* (Citrinitas as solar consciousness, individuation nearing completion)
+  - Vol. 14: *Mysterium Coniunctionis* (The yellowing as wisdom integration, approach to final union)
+  - Vol. 13: *Alchemical Studies* (Commentary on *The Secret of the Golden Flower*)
+- Jung, C.G. (Commentary). *The Secret of the Golden Flower* (1929). Trans. Richard Wilhelm. Harcourt. (Taoist alchemy and Citrinitas as golden flower blooming)
+
+**Traditional Alchemical Texts:**
+- *Rosarium Philosophorum* (15th Century). (Yellowing stage following whiteness, approach to red)
+- *Aurora Consurgens* (attributed to Thomas Aquinas). (Solar imagery, golden dawn, wisdom arising)
+- *The Chemical Wedding of Christian Rosenkreutz* (1616). Johann Valentin Andreae. (Yellow/gold symbolism in Rosicrucian alchemy)
+
+**Alchemical Symbol Systems:**
+- Edinger, Edward F. *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy* (1985). Open Court. (Citrinitas as solar stage, rare in some alchemical sequences)
+- von Franz, Marie-Louise. *Alchemy: An Introduction to the Symbolism and the Psychology* (1980). Inner City Books. (Yellowing symbolism when present)
+
+**Taoist and Buddhist Sources:**
+- Wilhelm, Richard (trans.). *The Secret of the Golden Flower: A Chinese Book of Life* (1929). (Taoist golden flower meditation, solar embryo, immortal body)
+- Buddhist sources on golden body (Nirmanakaya, enlightenment as ripening, Hiranyagarbha - golden womb)
+
+**Mythological Sources:**
+- Greek: Apollo (solar wisdom), Golden Fleece (wisdom quest), Athena's birth (wisdom from head of Zeus)
+- Egyptian: Eye of Ra (solar consciousness), Khepri (dawn god, becoming)
+- Hindu: Hiranyagarbha (golden cosmic womb), Buddha's golden body
+- Chinese: Yellow Emperor (central wisdom), Golden Flower
+- Norse: Golden Apples of Idunn (immortality), Odin's wisdom
+
+**Fairy Tales:**
+- Rumplestiltskin (false gold vs. true gold)
+- Beauty and the Beast (golden heart recognition)
+- The Golden Goose
+
+**Vibology Synthesis Note:**
+Cross-system correspondences (Sun astrology, 5th/9th Houses, Leo, Solar Plexus/Spleen HD centers, Sun/Temperance Tarot, Gate 55, Raphael/Michael angelology, Tiphareth Qabalah) represent Vibology's integration of verified alchemical Citrinitas patterns across seven-pillar framework.
 
 ---

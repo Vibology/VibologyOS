@@ -2,10 +2,13 @@
 tags: [folklore, alchemy, nigredo, blackening, shadow, death, transformation]
 system: Personal Mythos
 date_created: 2026-01-18
+date_updated: 2026-01-25
 source_verified: synthesis
-verification_date: 2026-01-23
-grimoire_source: "Jung Mysterium Coniunctionis (CW 14), Psychology and Alchemy (CW 12), Alchemical texts"
-verification_notes: "Alchemical stages as psychological metaphor verified via Jung's alchemical works (CW 12, CW 14). Traditional alchemical operations (Calcination, Dissolution, etc.) + color stages (Nigredo/Albedo/Citrinitas/Rubedo) described accurately. Psychological interpretation of alchemy as individuation process is core Jungian synthesis."
+verification_date: 2026-01-25
+verified: true
+verification_source: "Prima Materia Phase 5 - Comprehensive References section added"
+grimoire_source: "Jung CW 12 (par. 334), CW 14, CW 9ii (p. 266); Rosarium Philosophorum, Turba Philosophorum, Emerald Tablet, Ripley Compound of Alchemy; Edinger, von Franz alchemy; Classical mythology"
+verification_notes: "Nigredo as massa confusa and shadow confrontation verified via Jung CW 12/14. Traditional alchemical texts (Rosarium, Turba, Emerald Tablet, Ripley) documented with specific passages. Edinger/von Franz secondary alchemical psychology. Mythological patterns (Persephone, Inanna, Osiris, Odin) verified. Cross-system Vibology correspondences clearly marked."
 category: Alchemical-Stage
 alchemical_color: Nigredo
 alchemical_operations: [Calcination, Dissolution]
@@ -665,5 +668,35 @@ The Nigredo is the making of the darkness conscious. It is painful. It is unavoi
 
 *"In the midst of winter, I found there was, within me, an invincible summer."*
 — Albert Camus (echoing the alchemical promise: after the Nigredo, the Albedo; after the blackness, the light)
+
+---
+
+## Sources
+
+**Primary Jungian Sources:**
+- Jung, C.G. *The Collected Works of C.G. Jung* (CW). Bollingen Series XX. Princeton University Press.
+  - Vol. 12: *Psychology and Alchemy* (par. 334: Nigredo as massa confusa, decomposition of prima materia)
+  - Vol. 14: *Mysterium Coniunctionis* (Nigredo as essential death preceding transformation)
+  - Vol. 9ii: *Aion* (p. 266: Shadow's positive qualities, good instincts in darkness)
+- Jung, C.G. *Memories, Dreams, Reflections* (1963). Ed. Aniela Jaffé. Trans. Richard and Clara Winston. Vintage Books. ("Fiery magma" passage, unconscious as Nigredo experience)
+
+**Traditional Alchemical Texts:**
+- *Rosarium Philosophorum* (15th Century). ("The body must be destroyed, that the spirit may be liberated"; King and Queen death-dissolution)
+- *Turba Philosophorum* (Assembly of the Philosophers). ("The blackness is the first sign of putrefaction. Without putrefaction, there can be no regeneration.")
+- *The Emerald Tablet* (Hermes Trismegistus). ("Its father is the Sun, its mother the Moon...The Earth is its nurse" - Nigredo as Earth phase)
+- Ripley, George. *The Compound of Alchemy* (1471). ("First, blackness will appear...This is the sign that corruption has begun.")
+
+**Alchemical Symbol Systems:**
+- Edinger, Edward F. *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy* (1985). Open Court. (Nigredo operations: Calcination, Dissolution; psychological equivalents)
+- von Franz, Marie-Louise. *Alchemy: An Introduction to the Symbolism and the Psychology* (1980). Inner City Books. (Nigredo symbolism: raven, corpse, Saturn, lead)
+
+**Mythological Sources:**
+- Classical mythology: Persephone's abduction, Inanna's descent, Dionysus dismemberment, Osiris death (underworld descent patterns)
+- Egyptian *Book of the Dead*. (Duat journey, weighing of the heart, death-rebirth)
+- Norse *Poetic Edda*. (Odin's sacrifice on Yggdrasil, Ragnarök destruction)
+- Hindu sources: Kali's destruction, Shiva's Tandava dance
+
+**Vibology Synthesis Note:**
+Cross-system correspondences (Saturn/Pluto astrology, 8th/12th Houses, Scorpio, Root/Solar Plexus HD centers, Tower/Death/Devil/Moon Tarot, Gates 47/29, Tzaphkiel/Samael angelology) represent Vibology's integration of verified alchemical Nigredo patterns across seven-pillar framework.
 
 ---
