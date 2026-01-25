@@ -153,6 +153,20 @@ TBD
 
 ---
 
+## Cross-References
+- [[0 - The Fool]] - The chaotic seed that enters her womb
+- [[1 - The Magician]] - The will that fertilizes her creativity
+- [[2 - The High Priestess]] - Her sister-path of unmanifest potential
+- [[4 - The Emperor]] - Her consort of structure and order
+- [[Daleth - Hebrew Letters in Tarot]]
+- [[Kabbalistic Paths - The Supernal Triangle]]
+- [[Venus in Esoteric Systems]]
+- [[The Great Mother Archetype]]
+- [[Cards of Fertility and Abundance]]
+- [[The Persephone Mysteries]]
+
+---
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -166,18 +180,4 @@ TBD
 ### Vibology Synthesis Notes
 
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
----
-
-## Cross-References
-- [[0 - The Fool]] - The chaotic seed that enters her womb
-- [[1 - The Magician]] - The will that fertilizes her creativity
-- [[2 - The High Priestess]] - Her sister-path of unmanifest potential
-- [[4 - The Emperor]] - Her consort of structure and order
-- [[Daleth - Hebrew Letters in Tarot]]
-- [[Kabbalistic Paths - The Supernal Triangle]]
-- [[Venus in Esoteric Systems]]
-- [[The Great Mother Archetype]]
-- [[Cards of Fertility and Abundance]]
-- [[The Persephone Mysteries]]
-
 ---

@@ -303,14 +303,6 @@ The Signature of the Solar Plexus Center (when operating correctly through Emoti
 
 Gate 22 teaches that **true grace is not performance but presence**. When the individual honors their emotional wave, offers listening from clarity, and embodies grace authentically, they become a **living example** of emotional intelligence. This is the essence of the Individual Knowing Circuit—to demonstrate new possibilities through authentic expression, not instruction.
 
-## Sources
-
-- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
-- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
-- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
-
----
-
 ## Cross-References
 
 ### Sequential Connections (Within Solar Plexus Gates)
@@ -367,3 +359,11 @@ Gate 22 teaches that **true grace is not performance but presence**. When the in
 ---
 
 *"True grace is not the performance of charm—it is the sacred presence that sees beauty in the mundane and listens without needing to fix."*
+
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---

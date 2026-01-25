@@ -307,14 +307,6 @@ The Signature of the Sacral Center (for Generators/MGs) is **Satisfaction**. For
 
 Gate 42 teaches that **completion is sacred**. When the individual honors their power to maximize experiences—committing to what is correct and releasing what is not—they become a **living example** of wholeness. This is the essence of the Abstract Circuit's Sensing Stream—to bring experiences to full fruition so they can be reflected upon and integrated.
 
-## Sources
-
-- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
-- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
-- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
-
----
-
 ## Cross-References
 
 ### Sequential Connections (Within Sacral Center Gates)
@@ -368,3 +360,11 @@ Gate 42 teaches that **completion is sacred**. When the individual honors their 
 ---
 
 *"Completion is not the destination—it is the sacred act of bringing experience to wholeness. When held without attachment, every ending becomes a celebration."*
+
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---

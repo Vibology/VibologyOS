@@ -187,6 +187,19 @@ The gift of integration: **The capacity to review your life with compassion and 
 
 ---
 
+## Cross-References
+- **Adjacent Major Arcana**: [[19 - The Sun]] ← → [[21 - The World]]
+- **Element**: [[Fire]]
+- **Planetary**: [[Pluto ♇]]
+- **Path**: [[Path 31 - Malkuth to Hod]]
+- **Hebrew Letter**: [[Shin]]
+- **Thematic Groupings**: [[Resurrection and Rebirth]] | [[The Final Reckoning]] | [[Integration of the Self]]
+- **Cross-References**: [[Michael]], [[Osiris]], [[Phoenix]], [[Weighing of the Heart]], [[Aeon of Horus]]
+
+---
+
+*"Judgement does not condemn. She calls—and those who answer rise from the tomb of matter into the light of the Self."*
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -201,16 +214,3 @@ The gift of integration: **The capacity to review your life with compassion and 
 
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
-
-## Cross-References
-- **Adjacent Major Arcana**: [[19 - The Sun]] ← → [[21 - The World]]
-- **Element**: [[Fire]]
-- **Planetary**: [[Pluto ♇]]
-- **Path**: [[Path 31 - Malkuth to Hod]]
-- **Hebrew Letter**: [[Shin]]
-- **Thematic Groupings**: [[Resurrection and Rebirth]] | [[The Final Reckoning]] | [[Integration of the Self]]
-- **Cross-References**: [[Michael]], [[Osiris]], [[Phoenix]], [[Weighing of the Heart]], [[Aeon of Horus]]
-
----
-
-*"Judgement does not condemn. She calls—and those who answer rise from the tomb of matter into the light of the Self."*

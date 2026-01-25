@@ -303,14 +303,6 @@ The Signature of operating correctly through Strategy and Authority (for the Thr
 
 Gate 23 teaches that **true knowing requires assimilation and the courage to speak even when it fractures consensus**. When the individual honors their Strategy and Authority, allows complexity to split apart, and articulates simple truth from integrity, they become a **living example** of mutation. This is the essence of the Individual Knowing Circuit—to introduce new possibilities through authentic expression, not pedagogy.
 
-## Sources
-
-- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
-- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
-- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
-
----
-
 ## Cross-References
 
 ### Sequential Connections (Within Throat Gates)
@@ -371,3 +363,11 @@ Gate 23 teaches that **true knowing requires assimilation and the courage to spe
 ---
 
 *"True knowing does not need approval—it splits apart complexity to reveal simple truth, and speaks without apology."*
+
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---

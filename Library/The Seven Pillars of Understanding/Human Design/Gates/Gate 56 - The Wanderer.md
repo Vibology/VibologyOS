@@ -306,14 +306,6 @@ The Signature of the Throat Center (for all gates within it) is the experience o
 
 Gate 56 teaches that **stories are sacred**. When the individual honors their storytelling voice according to Strategy and Authority, they become a **living example** of what it means to share experience wisely, to teach through metaphor, to stimulate without distracting. This is the essence of the Collective Sensing/Abstract stream—not to preach, but to **enrich through shared narrative**.
 
-## Sources
-
-- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
-- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
-- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
-
----
-
 ## Cross-References
 
 ### Sequential Connections (Within Throat Center Gates)
@@ -380,3 +372,11 @@ Gate 56 teaches that **stories are sacred**. When the individual honors their st
 ---
 
 *"The best stories are not told to entertain—they are told to enrich. The wanderer's tale becomes the tribe's wisdom."*
+
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---

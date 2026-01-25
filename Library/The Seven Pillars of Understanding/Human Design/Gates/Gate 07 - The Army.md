@@ -314,14 +314,6 @@ The Signature of the G Center (for all gates within it) is the experience of **L
 
 Gate 7 teaches that **leadership is a role, not an identity**. When the individual honors their Strategy and Authority, steps into role when called, and serves the collective with clarity, they become a **living example** of benevolent authority. This is the essence of the Logic Circuit—not to impose order, but to **recognize and embody the roles that serve collective understanding**.
 
-## Sources
-
-- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
-- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
-- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
-
----
-
 ## Cross-References
 
 ### Sequential Connections (Within G Center Gates)
@@ -379,3 +371,11 @@ Gate 7 teaches that **leadership is a role, not an identity**. When the individu
 ---
 
 *"True leadership is not the assertion of self—it is the embodiment of role in service of the whole."*
+
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---

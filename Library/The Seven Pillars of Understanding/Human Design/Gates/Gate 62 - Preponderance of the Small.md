@@ -305,14 +305,6 @@ The Signature of the Throat Center (for all gates within it) is the experience o
 
 Gate 62 teaches that **details matter**. When the individual honors their voice of fact according to Strategy and Authority, they become a **living example** of what it means to name precisely, to organize for collective understanding, to use language in service to pattern recognition. This is the essence of the Logic Circuit—not to speculate, but to **name what is so it can be tested and known**.
 
-## Sources
-
-- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
-- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
-- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
-
----
-
 ## Cross-References
 
 ### Sequential Connections (Within Throat Center Gates)
@@ -383,3 +375,11 @@ Gate 62 teaches that **details matter**. When the individual honors their voice 
 ---
 
 *"Details are not trivial. They are the foundation of all patterns. Name what matters. Release the rest."*
+
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---

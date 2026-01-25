@@ -311,14 +311,6 @@ The Signature of the Sacral Center (for Generators/MGs) is **Satisfaction**. For
 
 Gate 5 teaches that **timing is everything**. When the individual honors their Sacral Authority, waits for correct timing, and trusts natural rhythms, they become a **living example** of effortless flow. This is the essence of the Logic Circuit—not to impose patterns, but to **recognize and align with the patterns already present in nature**.
 
-## Sources
-
-- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
-- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
-- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
-
----
-
 ## Cross-References
 
 ### Sequential Connections (Within Sacral Gates)
@@ -378,3 +370,11 @@ Gate 5 teaches that **timing is everything**. When the individual honors their S
 ---
 
 *"Patience is not the absence of action—it is the presence of trust in natural timing."*
+
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---

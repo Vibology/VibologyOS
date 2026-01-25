@@ -303,14 +303,6 @@ The Signature of the Spleen Center (for all gates within it) is **Well-Being and
 
 Gate 44 teaches that **memory is sacred**. When the individual honors their instinctual capacity to recognize patterns—alerting without interfering, protecting without controlling—they become a **living example** of tribal wisdom. This is the essence of the Tribal Ego Circuit—to ensure survival through collective memory and strategic response.
 
-## Sources
-
-- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
-- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
-- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
-
----
-
 ## Cross-References
 
 ### Sequential Connections (Within Spleen Center Gates)
@@ -361,3 +353,11 @@ Gate 44 teaches that **memory is sacred**. When the individual honors their inst
 ---
 
 *"The past is not a prison—it is a teacher. When memory is honored without attachment, it becomes the guardian of the present, protecting without controlling."*
+
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---

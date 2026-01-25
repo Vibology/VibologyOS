@@ -922,6 +922,29 @@ This creates a **six-directional** sacred space—encompassing not just the hori
 *Amen. Selah. So be it.*
 
 ---
+
+## Cross-References
+### Within Angelology
+- [[Angelology]] (Sandalphon's role in the celestial hierarchy)
+- [[The Three Triads]] (Sandalphon exists outside the standard structure)
+- [[The Archangels]] (Order 8, Third Triad—Sandalphon presides over a unique function)
+- [[Angels]] (Order 9, the Ishim of Malkuth)
+- [[Metatron]] (Co-brother, the vertical axis: Kether ↔ Malkuth)
+- [[Michael]] | [[Gabriel]] | [[Raphael]] | [[Uriel]] (The Four Great Archangels)
+- [[Kamael]] | [[Tzadkiel]] | [[Haniel]] | [[Raziel]] | [[Tzaphkiel]]
+- [[Angelology and Human Design Integration]]
+
+### Cross-System Integration
+- **Qabalah:** [[Malkuth]] | [[Tree of Life]] | [[Adonai ha-Aretz]] | [[Ishim]] | [[Kether]] | [[Yesod]] | [[Tiphareth]] | [[Hod]] | [[Netzach]]
+- **Tarot:** [[The World]] (XXI) | [[Princesses (Pages)]] | [[Ten of Pentacles]] | [[Ace of Pentacles]] | [[The Hanged Man]] (surrender)
+- **Astrology:** [[Earth]] | [[Taurus ♉]] | [[Capricorn ♑]] | [[Virgo ♍]] | [[Saturn ♄]]
+- **Human Design:** [[Root Center]] | [[Gate 58]] | [[Gate 38]] | [[Gate 54]]
+- **Jungian Psychology:** [[Incarnation]] | [[Folklore/Jungian Archetypes/The Self]] | [[Embodiment]] | [[Completion]] | [[The Body as Temple]]
+
+---
+
+*"Sandalphon does not dwell in the heights. He stands in the soil, his feet rooted in the earth, his head reaching toward heaven. He is the ladder upon which prayers ascend and blessings descend. He is the weaver who makes of our scattered longing a crown worthy of the Divine. To work with Sandalphon is to learn that there is no heaven without earth, no prayer without embodiment, no devotion without the willingness to make it real."*
+
 ## Sources
 ### Primary Sources
 
@@ -953,24 +976,3 @@ The following content represents cross-system synthesis, interpretive material, 
 - Final quote about Sandalphon (original synthesis)
 
 ---
-## Cross-References
-### Within Angelology
-- [[Angelology]] (Sandalphon's role in the celestial hierarchy)
-- [[The Three Triads]] (Sandalphon exists outside the standard structure)
-- [[The Archangels]] (Order 8, Third Triad—Sandalphon presides over a unique function)
-- [[Angels]] (Order 9, the Ishim of Malkuth)
-- [[Metatron]] (Co-brother, the vertical axis: Kether ↔ Malkuth)
-- [[Michael]] | [[Gabriel]] | [[Raphael]] | [[Uriel]] (The Four Great Archangels)
-- [[Kamael]] | [[Tzadkiel]] | [[Haniel]] | [[Raziel]] | [[Tzaphkiel]]
-- [[Angelology and Human Design Integration]]
-
-### Cross-System Integration
-- **Qabalah:** [[Malkuth]] | [[Tree of Life]] | [[Adonai ha-Aretz]] | [[Ishim]] | [[Kether]] | [[Yesod]] | [[Tiphareth]] | [[Hod]] | [[Netzach]]
-- **Tarot:** [[The World]] (XXI) | [[Princesses (Pages)]] | [[Ten of Pentacles]] | [[Ace of Pentacles]] | [[The Hanged Man]] (surrender)
-- **Astrology:** [[Earth]] | [[Taurus ♉]] | [[Capricorn ♑]] | [[Virgo ♍]] | [[Saturn ♄]]
-- **Human Design:** [[Root Center]] | [[Gate 58]] | [[Gate 38]] | [[Gate 54]]
-- **Jungian Psychology:** [[Incarnation]] | [[Folklore/Jungian Archetypes/The Self]] | [[Embodiment]] | [[Completion]] | [[The Body as Temple]]
-
----
-
-*"Sandalphon does not dwell in the heights. He stands in the soil, his feet rooted in the earth, his head reaching toward heaven. He is the ladder upon which prayers ascend and blessings descend. He is the weaver who makes of our scattered longing a crown worthy of the Divine. To work with Sandalphon is to learn that there is no heaven without earth, no prayer without embodiment, no devotion without the willingness to make it real."*

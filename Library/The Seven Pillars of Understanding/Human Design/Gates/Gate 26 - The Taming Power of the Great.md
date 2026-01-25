@@ -303,14 +303,6 @@ The Signature of the Ego Center (when operating correctly) is **fulfillment of c
 
 Gate 26 teaches that **true influence is service, not ego**. When the individual honors their Strategy and Authority, uses memory to serve tribal continuity, and sells with artfulness rather than manipulation, they become a **living example** of the wise trickster. This is the essence of the Tribal Ego Circuit—to ensure material survival through clever, authentic influence.
 
-## Sources
-
-- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
-- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
-- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
-
----
-
 ## Cross-References
 
 ### Sequential Connections (Within Ego Center Gates)
@@ -362,3 +354,11 @@ Gate 26 teaches that **true influence is service, not ego**. When the individual
 ---
 
 *"True influence serves the tribe, not the ego—memory wielded artfully ensures continuity, while memory wielded proudly becomes manipulation."*
+
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---

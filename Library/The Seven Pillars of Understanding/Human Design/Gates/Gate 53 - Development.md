@@ -306,14 +306,6 @@ The Signature of the Root Center (for all gates within it) is the experience of 
 
 Gate 53 teaches that **beginnings are sacred**. When the individual honors their need to initiate new cycles according to Strategy and Authority, they become a **living example** of what it means to start fresh, to embrace the new, to trust the developmental unfolding. This is the essence of the Collective Sensing/Abstract stream—not to finish, but to **continuously renew experience**.
 
-## Sources
-
-- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
-- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
-- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
-
----
-
 ## Cross-References
 
 ### Sequential Connections (Within Root Center Gates)
@@ -374,3 +366,11 @@ Gate 53 teaches that **beginnings are sacred**. When the individual honors their
 ---
 
 *"Every beginning is a sacred act—the seed breaking open, the first breath, the dawn. To start is to participate in the eternal renewal of life itself."*
+
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---

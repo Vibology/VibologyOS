@@ -119,6 +119,22 @@ The practice is straightforward: **stop constricting your natural vitality and l
 
 ---
 
+## Cross-References
+- [[House of the Flame]] - The domain of vital/instinctual action and movement
+- [[Gate 25 - Innocence]] - The Spirit of the Self (G Center)
+- [[Hexagram 25]] - Innocence (I-Ching)
+- [[Gene Key 25]] - Constriction → Acceptance → Universal Love
+- [[Courage]] - Gate 21 in House of the Flame (protection for passion)
+- [[Adventure]] - Gate 28 in House of the Flame (direction for passion)
+- [[Survival]] - Gate 26 in House of the Flame (sustainability for passion)
+- [[Violence]] - Gate 51 shadow in House of the Flame (fire against life)
+- [[G Center]] - Identity, direction, and love
+- [[Centering Circuit]] - Individual empowerment through authenticity
+- [[19 - The Sun]] - Tarot's innocent vitality and radiant joy
+- [[0 - The Fool]] - Tarot's uncontrived beginning
+- [[Sun ☉]] - Life force and vital radiance
+- [[Leo ♌]] - Astrological joy in self-expression
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -138,19 +154,3 @@ The practice is straightforward: **stop constricting your natural vitality and l
 
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
-
-## Cross-References
-- [[House of the Flame]] - The domain of vital/instinctual action and movement
-- [[Gate 25 - Innocence]] - The Spirit of the Self (G Center)
-- [[Hexagram 25]] - Innocence (I-Ching)
-- [[Gene Key 25]] - Constriction → Acceptance → Universal Love
-- [[Courage]] - Gate 21 in House of the Flame (protection for passion)
-- [[Adventure]] - Gate 28 in House of the Flame (direction for passion)
-- [[Survival]] - Gate 26 in House of the Flame (sustainability for passion)
-- [[Violence]] - Gate 51 shadow in House of the Flame (fire against life)
-- [[G Center]] - Identity, direction, and love
-- [[Centering Circuit]] - Individual empowerment through authenticity
-- [[19 - The Sun]] - Tarot's innocent vitality and radiant joy
-- [[0 - The Fool]] - Tarot's uncontrived beginning
-- [[Sun ☉]] - Life force and vital radiance
-- [[Leo ♌]] - Astrological joy in self-expression

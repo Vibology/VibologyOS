@@ -308,14 +308,6 @@ The Signature of the Spleen Center (for all gates within it) is the experience o
 
 Gate 32 teaches that **endurance is not rigidity—it is adaptive wisdom**. When the individual honors their splenic awareness and trusts in continuity, they become a **living example** of what it means to preserve what is valuable while releasing what no longer serves. This is the essence of the Tribal Ego Circuit—not to hoard resources, but to **ensure the tribe survives through wise stewardship**.
 
-## Sources
-
-- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
-- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
-- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
-
----
-
 ## Cross-References
 
 ### Sequential Connections (Within Spleen Gates)
@@ -369,3 +361,11 @@ Gate 32 teaches that **endurance is not rigidity—it is adaptive wisdom**. When
 ---
 
 *"What endures is not what refuses to change—it is what adapts wisely to the truth of each moment."*
+
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---

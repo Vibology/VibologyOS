@@ -119,6 +119,21 @@ The practice is following: **serve the patterns you seek to understand**. Not pa
 
 ---
 
+## Cross-References
+- [[House of the Spirit]] - The domain of consciousness, soul health, inner divinity
+- [[Gate 17 - Following]] - Mental organization and opinions (Ajna Center)
+- [[Hexagram 17]] - Following (I-Ching)
+- [[Gene Key 17]] - Opinion → Far-Sightedness → Omniscience
+- [[Awareness]] - Gate 64 in House of the Spirit (visionary perception)
+- [[Humility]] - Gate 2 in House of the Spirit (receptive orientation)
+- [[Will]] - Gate 7 in House of the Spirit (virtuous leadership)
+- [[Malevolence]] - Gate 62 shadow in House of the Spirit (corrupted precision)
+- [[Ajna Center]] - Mental awareness and conceptualization
+- [[Logic Circuit]] - Collective pattern recognition
+- [[5 - The Hierophant]] - Tarot correspondence to teaching through tradition
+- [[12 - The Hanged Man]] - Tarot's surrender that yields wisdom
+- [[Sagittarius ♐]] - Astrological quest for higher understanding
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -138,18 +153,3 @@ The practice is following: **serve the patterns you seek to understand**. Not pa
 
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
-
-## Cross-References
-- [[House of the Spirit]] - The domain of consciousness, soul health, inner divinity
-- [[Gate 17 - Following]] - Mental organization and opinions (Ajna Center)
-- [[Hexagram 17]] - Following (I-Ching)
-- [[Gene Key 17]] - Opinion → Far-Sightedness → Omniscience
-- [[Awareness]] - Gate 64 in House of the Spirit (visionary perception)
-- [[Humility]] - Gate 2 in House of the Spirit (receptive orientation)
-- [[Will]] - Gate 7 in House of the Spirit (virtuous leadership)
-- [[Malevolence]] - Gate 62 shadow in House of the Spirit (corrupted precision)
-- [[Ajna Center]] - Mental awareness and conceptualization
-- [[Logic Circuit]] - Collective pattern recognition
-- [[5 - The Hierophant]] - Tarot correspondence to teaching through tradition
-- [[12 - The Hanged Man]] - Tarot's surrender that yields wisdom
-- [[Sagittarius ♐]] - Astrological quest for higher understanding

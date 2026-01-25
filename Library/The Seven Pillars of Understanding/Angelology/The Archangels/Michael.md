@@ -800,44 +800,6 @@ Together, they form the **protective quaternary**, the four corners of the cosmo
 
 ---
 
-## Sources
-### Primary Sources
-
-**Davidson, Gustav.** *A Dictionary of Angels, Including the Fallen Angels.* New York: The Free Press, 1967 (Paperback Edition 1971).
-- Page 193: Biblical references to Michael in Daniel 10:13, 10:21, 12:1; Jude 1:9; Revelation 12:7.
-- Pages 193-194: Michael identified as "Angel of the Sun" or "Regent of the Sun"; associations with both Tiphareth and Hod noted.
-- Appendix: "The principal duty of the virtues is to work miracles on earth."
-
-**DuQuette, Lon Milo.** *Enochian Vision Magick: An Introduction and Practical Guide to the Magick of Dr. John Dee and Edward Kelley.* San Francisco: Weiser Books, 2008.
-- Page 193: LBRP (Lesser Banishing Ritual of the Pentagram) text: "On my right hand, Michael."
-
-**Matt, Daniel C.** (translator and commentary). *The Zohar.* Pritzker Edition. Vol. 1. Stanford: Stanford University Press, 2004.
-- 1:19a: Michael "inscribed on the South"; associated with the face of the Lion.
-- 1:98b, Note 248: Michael associated with the color White (Silver), representing the Right Side (Mercy/Hesed).
-
-**Wang, Robert.** *The Qabalistic Tarot: A Textbook of Mystical Philosophy.* York Beach, Maine: Samuel Weiser, Inc., 1983.
-- Page 266: Golden Dawn attribution table: Michael assigned to **Hod** (8th Sephirah, Mercury, Beni Elohim); Raphael assigned to Tiphareth (6th Sephirah, Sun, Melekim).
-
-### Important Note: Sephirotic Attribution
-
-**Critical Discrepancy:** The Golden Dawn system (per Wang, p. 266) assigns Michael to **Hod** (Mercury), not Tiphareth. However, other esoteric traditions (including Davidson's references) associate Michael with the **Sun** and Tiphareth. This file follows the solar/Tiphareth attribution, recognizing it as one interpretive framework among several. The choice reflects Michael's role as "Angel of the Sun" in broader angelological tradition, while acknowledging the Golden Dawn's alternative attribution.
-
-### Vibology Synthesis Notes
-
-The following content represents cross-system synthesis, interpretive material, and/or unverified quotes:
-- All quotes attributed to "Dion Fortune" about Michael or Tiphareth (not found in primary sources)
-- The specific Pseudo-Dionysius quote about Virtues (only paraphrase found in Davidson)
-- The statement that "The Zohar teaches that Michael's name is itself a weapon" (interpretive synthesis)
-- Rabbinic tradition about Satan claiming Moses' body (cited without source verification)
-- All Jungian interpretations and psychological parallels
-- Human Design (G-Center), Gene Keys, chakra correspondences
-- Mythological parallels (Horus, Apollo, Thor, Indra, Mithra, Marduk)
-- All meditation practices, visualization techniques, and ritual instructions
-- Cross-cultural dragon-slayer analysis
-- St. Michael Prayer (traditional Catholic prayer, widely known but not verified in Grimoire sources)
-
----
-
 ## Cross-References
 ### Sequential and Hierarchical Connections
 - [[Tiphareth]] — The Sephira Michael oversees
@@ -903,3 +865,41 @@ The following content represents cross-system synthesis, interpretive material, 
 - [[The Four Archangels of the Quarters]] — Michael (South/Fire), Raphael (East/Air), Gabriel (West/Water), Uriel (North/Earth)
 - [[Solar Deities and Light-Bringers]] — Cross-cultural sun gods
 - [[Warriors of the Spirit]] — Martial archetypes in service of the divine
+
+## Sources
+### Primary Sources
+
+**Davidson, Gustav.** *A Dictionary of Angels, Including the Fallen Angels.* New York: The Free Press, 1967 (Paperback Edition 1971).
+- Page 193: Biblical references to Michael in Daniel 10:13, 10:21, 12:1; Jude 1:9; Revelation 12:7.
+- Pages 193-194: Michael identified as "Angel of the Sun" or "Regent of the Sun"; associations with both Tiphareth and Hod noted.
+- Appendix: "The principal duty of the virtues is to work miracles on earth."
+
+**DuQuette, Lon Milo.** *Enochian Vision Magick: An Introduction and Practical Guide to the Magick of Dr. John Dee and Edward Kelley.* San Francisco: Weiser Books, 2008.
+- Page 193: LBRP (Lesser Banishing Ritual of the Pentagram) text: "On my right hand, Michael."
+
+**Matt, Daniel C.** (translator and commentary). *The Zohar.* Pritzker Edition. Vol. 1. Stanford: Stanford University Press, 2004.
+- 1:19a: Michael "inscribed on the South"; associated with the face of the Lion.
+- 1:98b, Note 248: Michael associated with the color White (Silver), representing the Right Side (Mercy/Hesed).
+
+**Wang, Robert.** *The Qabalistic Tarot: A Textbook of Mystical Philosophy.* York Beach, Maine: Samuel Weiser, Inc., 1983.
+- Page 266: Golden Dawn attribution table: Michael assigned to **Hod** (8th Sephirah, Mercury, Beni Elohim); Raphael assigned to Tiphareth (6th Sephirah, Sun, Melekim).
+
+### Important Note: Sephirotic Attribution
+
+**Critical Discrepancy:** The Golden Dawn system (per Wang, p. 266) assigns Michael to **Hod** (Mercury), not Tiphareth. However, other esoteric traditions (including Davidson's references) associate Michael with the **Sun** and Tiphareth. This file follows the solar/Tiphareth attribution, recognizing it as one interpretive framework among several. The choice reflects Michael's role as "Angel of the Sun" in broader angelological tradition, while acknowledging the Golden Dawn's alternative attribution.
+
+### Vibology Synthesis Notes
+
+The following content represents cross-system synthesis, interpretive material, and/or unverified quotes:
+- All quotes attributed to "Dion Fortune" about Michael or Tiphareth (not found in primary sources)
+- The specific Pseudo-Dionysius quote about Virtues (only paraphrase found in Davidson)
+- The statement that "The Zohar teaches that Michael's name is itself a weapon" (interpretive synthesis)
+- Rabbinic tradition about Satan claiming Moses' body (cited without source verification)
+- All Jungian interpretations and psychological parallels
+- Human Design (G-Center), Gene Keys, chakra correspondences
+- Mythological parallels (Horus, Apollo, Thor, Indra, Mithra, Marduk)
+- All meditation practices, visualization techniques, and ritual instructions
+- Cross-cultural dragon-slayer analysis
+- St. Michael Prayer (traditional Catholic prayer, widely known but not verified in Grimoire sources)
+
+---

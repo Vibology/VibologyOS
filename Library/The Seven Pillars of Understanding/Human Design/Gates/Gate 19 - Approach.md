@@ -302,14 +302,6 @@ The Signature of the Root Center varies by Type, but for Gate 19 specifically, t
 
 Gate 19 teaches that **true sensitivity honors interdependence without losing self**. When the individual honors their Strategy and Authority, approaches when correct, and withdraws without guilt, they become a **living example** of tribal support. This is the essence of the Tribal Ego Circuit—to recognize needs and respond with resources in a way that serves both individual and collective survival.
 
-## Sources
-
-- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
-- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
-- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
-
----
-
 ## Cross-References
 
 ### Sequential Connections (Within Root Gates)
@@ -368,3 +360,11 @@ Gate 19 teaches that **true sensitivity honors interdependence without losing se
 ---
 
 *"True sensitivity approaches without intrusion, gives without losing self, and withdraws without guilt—honoring the sacred rhythm of tribal exchange."*
+
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---

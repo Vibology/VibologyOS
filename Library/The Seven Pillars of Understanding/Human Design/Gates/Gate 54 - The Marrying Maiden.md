@@ -306,14 +306,6 @@ The Signature of the Root Center (for all gates within it) is the experience of 
 
 Gate 54 teaches that **ambition is sacred when aligned**. When the individual honors their pressure to rise according to Strategy and Authority, they become a **living example** of what it means to transform position with integrity, to climb with humility, to ascend in service. This is the essence of the Tribal Ego stream—not to hoard, but to **rise and lift**.
 
-## Sources
-
-- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
-- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
-- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
-
----
-
 ## Cross-References
 
 ### Sequential Connections (Within Root Center Gates)
@@ -369,3 +361,11 @@ Gate 54 teaches that **ambition is sacred when aligned**. When the individual ho
 ---
 
 *"True ascension is not measured by how high you climb, but by how many you lift on the way up."*
+
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---

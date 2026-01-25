@@ -846,19 +846,6 @@ The **Middle Passage as Alchemical Vessel:** Slavery was horrific—but the trad
 
 ---
 
-## Sources
-**Jungian Analytical Psychology:**
-- Jung, C.G. *The Archetypes and the Collective Unconscious* (CW 9i). Princeton University Press, 1959.
-- Jung, C.G. *Symbols of Transformation* (CW 5). Princeton University Press, 1956.
-
-**Primary African Diaspora Sources:**
-Core mythological narratives (cosmology, Orisha/Lwa pantheons, sacred practices, and diaspora continuity) are drawn from African Diaspora spiritual traditions including Yoruba Ifá, Haitian Vodou, Cuban Santería/Lucumí, Brazilian Candomblé, and Hoodoo/Conjure. These are **living spiritual traditions** practiced by millions; all content is presented with cultural respect and proper attribution. Oral traditions, ritual practice, and community knowledge inform the archetypal framework.
-
-**Vibrology Synthesis:**
-All Jungian archetypal analysis (interpreting African Diaspora myths through the lens of Shadow, Anima/Animus, Self, Individuation, etc.) represents scholarly synthesis rather than traditional understanding within these communities. Cross-system correspondences (Tarot, Astrology, Alchemy, Human Design, Qabalah) are Vibrology's integrative framework, not part of the original traditions. The syncretism with Catholic saints is historical survival strategy, not Vibrology's creation. Profound respect is maintained for these living traditions and their practitioners.
-
----
-
 ## Cross-References
 
 ### Jungian Archetypes
@@ -963,3 +950,16 @@ All Jungian archetypal analysis (interpreting African Diaspora myths through the
 *"We are not the descendants of enslaved people. We are the descendants of people who survived enslavement."*
 
 — Dr. Joy DeGruy, *Post Traumatic Slave Syndrome*
+
+## Sources
+**Jungian Analytical Psychology:**
+- Jung, C.G. *The Archetypes and the Collective Unconscious* (CW 9i). Princeton University Press, 1959.
+- Jung, C.G. *Symbols of Transformation* (CW 5). Princeton University Press, 1956.
+
+**Primary African Diaspora Sources:**
+Core mythological narratives (cosmology, Orisha/Lwa pantheons, sacred practices, and diaspora continuity) are drawn from African Diaspora spiritual traditions including Yoruba Ifá, Haitian Vodou, Cuban Santería/Lucumí, Brazilian Candomblé, and Hoodoo/Conjure. These are **living spiritual traditions** practiced by millions; all content is presented with cultural respect and proper attribution. Oral traditions, ritual practice, and community knowledge inform the archetypal framework.
+
+**Vibrology Synthesis:**
+All Jungian archetypal analysis (interpreting African Diaspora myths through the lens of Shadow, Anima/Animus, Self, Individuation, etc.) represents scholarly synthesis rather than traditional understanding within these communities. Cross-system correspondences (Tarot, Astrology, Alchemy, Human Design, Qabalah) are Vibrology's integrative framework, not part of the original traditions. The syncretism with Catholic saints is historical survival strategy, not Vibrology's creation. Profound respect is maintained for these living traditions and their practitioners.
+
+---

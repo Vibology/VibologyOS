@@ -307,14 +307,6 @@ The Signature of the Solar Plexus Center (for Emotional Authority) is **Emotiona
 
 Gate 49 teaches that **revolution is sacred**. When the individual honors their emotional sensitivity to injustice—waiting for clarity, acting from principle, transforming with respect—they become a **living example** of principled change. This is the essence of the Tribal Ego Circuit—to protect tribal integrity through revolutionary transformation when necessary.
 
-## Sources
-
-- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
-- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
-- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
-
----
-
 ## Cross-References
 
 ### Sequential Connections (Within Solar Plexus Center Gates)
@@ -367,3 +359,11 @@ Gate 49 teaches that **revolution is sacred**. When the individual honors their 
 ---
 
 *"Revolution is not destruction—it is sacred transformation. When we wait for emotional clarity and act from principle, we become agents of rebirth, honoring endings as gateways to new life."*
+
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---

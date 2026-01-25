@@ -117,6 +117,22 @@ Ambition stands in contrast to the negative Land cards, particularly **Fragility
 
 ---
 
+## Cross-References
+- [[House of the Land]] - The domain of embodied foundation and material grounding
+- [[Gate 16 - Enthusiasm]] - Skills through repetitive practice (Throat)
+- [[Hexagram 16]] - Enthusiasm (I-Ching)
+- [[Gene Key 16]] - Indifference → Versatility → Mastery
+- [[Stability]] - Gate 20 in House of the Land (grounded present-moment practice)
+- [[Confidence]] - Gate 8 in House of the Land (authenticity refined through practice)
+- [[Integrity]] - Gate 18 in House of the Land (quality maintained through correction)
+- [[Fragility]] - Gate 57 in House of the Land (opposite pole: brittleness from lack of practice)
+- [[Throat Center]] - Expression of embodied mastery
+- [[Collective Logic Circuit]] - Pattern-based skill development
+- [[8 - Strength]] - Tarot's mastery through patient dedication
+- [[3 of Pentacles]] - Tarot's skilled craftsmanship and practice
+- [[Saturn ♄]] - Discipline, structure, and mastery through time
+- [[Capricorn ♑]] - Astrological dedication to excellence through persistent effort
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -136,20 +152,3 @@ Ambition stands in contrast to the negative Land cards, particularly **Fragility
 
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
-
-## Cross-References
-- [[House of the Land]] - The domain of embodied foundation and material grounding
-- [[Gate 16 - Enthusiasm]] - Skills through repetitive practice (Throat)
-- [[Hexagram 16]] - Enthusiasm (I-Ching)
-- [[Gene Key 16]] - Indifference → Versatility → Mastery
-- [[Stability]] - Gate 20 in House of the Land (grounded present-moment practice)
-- [[Confidence]] - Gate 8 in House of the Land (authenticity refined through practice)
-- [[Integrity]] - Gate 18 in House of the Land (quality maintained through correction)
-- [[Fragility]] - Gate 57 in House of the Land (opposite pole: brittleness from lack of practice)
-- [[Throat Center]] - Expression of embodied mastery
-- [[Collective Logic Circuit]] - Pattern-based skill development
-- [[8 - Strength]] - Tarot's mastery through patient dedication
-- [[3 of Pentacles]] - Tarot's skilled craftsmanship and practice
-- [[Saturn ♄]] - Discipline, structure, and mastery through time
-- [[Capricorn ♑]] - Astrological dedication to excellence through persistent effort
-

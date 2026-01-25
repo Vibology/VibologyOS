@@ -160,6 +160,19 @@ The gift of integration: **Learning when to act and when to yield**. The Hanged 
 
 ---
 
+## Cross-References
+- **Adjacent Major Arcana**: [[11 - Justice]] ← → [[13 - Death]]
+- **Element**: [[Water]] | [[The Suit of Cups]]
+- **Planetary**: [[Neptune ♆]]
+- **Path**: [[Path 23 - Geburah to Hod]]
+- **Hebrew Letter**: [[Mem]]
+- **Thematic Groupings**: [[The Ordeal Cards]] | [[Sacrifice and Surrender]] | [[The Mystical Path]]
+- **Cross-References**: [[Odin]], [[Prometheus]], [[Samadhi]], [[Mortificatio]]
+
+---
+
+*"The Hanged Man does not choose to hang. He is hung—and in that hanging, he discovers what choice could never reach."*
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -174,16 +187,3 @@ The gift of integration: **Learning when to act and when to yield**. The Hanged 
 
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
-
-## Cross-References
-- **Adjacent Major Arcana**: [[11 - Justice]] ← → [[13 - Death]]
-- **Element**: [[Water]] | [[The Suit of Cups]]
-- **Planetary**: [[Neptune ♆]]
-- **Path**: [[Path 23 - Geburah to Hod]]
-- **Hebrew Letter**: [[Mem]]
-- **Thematic Groupings**: [[The Ordeal Cards]] | [[Sacrifice and Surrender]] | [[The Mystical Path]]
-- **Cross-References**: [[Odin]], [[Prometheus]], [[Samadhi]], [[Mortificatio]]
-
----
-
-*"The Hanged Man does not choose to hang. He is hung—and in that hanging, he discovers what choice could never reach."*

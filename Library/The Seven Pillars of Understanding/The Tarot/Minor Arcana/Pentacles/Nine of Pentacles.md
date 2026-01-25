@@ -169,21 +169,6 @@ The Nine of Pentacles holds the paradox of *achievement without attachment*. The
 The teaching: True abundance is internal. The garden is a *reflection* of your cultivation, not the source of your worth. When you no longer need external success to prove you are enough, that is when you finally enjoy it fully.
 ---
 
-## Sources
-### Primary Sources (Uploaded to Esoteric Grimoire)
-
-- Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
-- Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983.
-
-### Secondary Sources (Referenced via Primary Sources)
-
-- Crowley, Aleister. *The Book of Thoth*. New York: Samuel Weiser, Inc., 1974. (Originally published in *The Equinox*, Vol. III, No. V, 1944) — Referenced via Wang 1983
-
-### Vibology Synthesis Notes
-
-Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
----
-
 ## Cross-References
 ### Adjacent Cards in Suit
 - [[Eight of Pentacles]] - Mastery achieved; now enjoy the harvest
@@ -224,3 +209,18 @@ Interpretive commentary sections (RWS symbolism analysis, synthesis notes, perso
 
 ---
 *"The woman in the garden did not inherit her wealth—she grew it, vine by vine, through patient labor and disciplined joy."*
+
+## Sources
+### Primary Sources (Uploaded to Esoteric Grimoire)
+
+- Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
+- Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983.
+
+### Secondary Sources (Referenced via Primary Sources)
+
+- Crowley, Aleister. *The Book of Thoth*. New York: Samuel Weiser, Inc., 1974. (Originally published in *The Equinox*, Vol. III, No. V, 1944) — Referenced via Wang 1983
+
+### Vibology Synthesis Notes
+
+Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
+---

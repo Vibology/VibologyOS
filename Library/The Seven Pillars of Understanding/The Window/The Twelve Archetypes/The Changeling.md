@@ -98,6 +98,20 @@ In Jung's work, the shapeshifting quality of unconscious contents reminds us tha
 
 When The Changeling appears in a reading, the querent is being tested: can you begin without needing to finish? Can you adapt without losing yourself? Can you embrace fluidity without drowning in formlessness? The eternal beginner knows: **every ending births a new beginning, and perhaps beginning itself is the point**.
 
+## Cross-References
+- [[The Persona]] - Constructed masks vs fluid forms
+- [[The Alchemist]] - Integration beyond shifting
+- [[The Divine Child]] - Innocent beginning vs perpetual beginning
+- [[The Joker]] - Chaos vs fluidity
+- [[Personal Mythos/Jungian Archetypes/The Shapeshifter]] - Jungian framework for unstable forms
+- [[Personal Mythos/Hero's Journey/Tests, Allies, and Enemies]] - Where the Changeling appears
+- [[Gate 53 - Development]] - Human Design gate mechanics
+- [[Hexagram 53]] - I-Ching hexagram
+- [[Gene Key 53]] - Immaturity → Expansion → Superabundance
+- [[Gemini ♊]] - Astrological twins and duality
+- [[0 - The Fool]] - Tarot correspondence to perpetual beginning
+- [[18 - The Moon]] - Tarot's shifting forms and illusion
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -117,17 +131,3 @@ When The Changeling appears in a reading, the querent is being tested: can you b
 
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
-
-## Cross-References
-- [[The Persona]] - Constructed masks vs fluid forms
-- [[The Alchemist]] - Integration beyond shifting
-- [[The Divine Child]] - Innocent beginning vs perpetual beginning
-- [[The Joker]] - Chaos vs fluidity
-- [[Personal Mythos/Jungian Archetypes/The Shapeshifter]] - Jungian framework for unstable forms
-- [[Personal Mythos/Hero's Journey/Tests, Allies, and Enemies]] - Where the Changeling appears
-- [[Gate 53 - Development]] - Human Design gate mechanics
-- [[Hexagram 53]] - I-Ching hexagram
-- [[Gene Key 53]] - Immaturity → Expansion → Superabundance
-- [[Gemini ♊]] - Astrological twins and duality
-- [[0 - The Fool]] - Tarot correspondence to perpetual beginning
-- [[18 - The Moon]] - Tarot's shifting forms and illusion

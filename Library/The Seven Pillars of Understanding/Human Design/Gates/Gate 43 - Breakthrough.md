@@ -303,14 +303,6 @@ The Signature of the Ajna Center (for all gates within it) is **Mental Clarity a
 
 Gate 43 teaches that **unique knowing is sacred**. When the individual honors their need for solitude, patience, and waiting for recognition, they become a **living example** of what it means to trust inner truth without apology. This is the essence of the Individual stream—not to teach or convince, but to **empower through breakthrough insight**.
 
-## Sources
-
-- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
-- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
-- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
-
----
-
 ## Cross-References
 
 ### Sequential Connections (Within Ajna Center Gates)
@@ -363,3 +355,11 @@ Gate 43 teaches that **unique knowing is sacred**. When the individual honors th
 ---
 
 *"True insight cannot be taught or learned—it can only be revealed. When the inner ear opens, breakthrough occurs, and the world is seen anew."*
+
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---

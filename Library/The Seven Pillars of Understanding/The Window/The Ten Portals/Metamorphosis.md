@@ -85,6 +85,16 @@ The Portal's teaching is **trust the difficulty**: when the Sacral says "yes" to
 
 When Metamorphosis appears in a reading, the querent is being asked: what is trying to be born through you? What fundamental change is underway that requires your Sacral endurance? Can you persist through chaos trusting that order will emerge organically? The seed teaches: **breakthrough requires breaking through**. Soil resists the sprout. The sprout persists. Green life emerges from dark earth because difficulty at the beginning is simply how new form is born.
 
+## Cross-References
+- [[Death]] - Transformation requiring dissolution
+- [[The Moon]] - Navigating chaos and confusion
+- [[Gate 03 - Difficulty at the Beginning]]
+- [[Gene Key 3 - Chaos to Innocence]]
+- [[Hexagram 3 - Difficulty at the Beginning]]
+- [[Sacral Center]] - Life force and generative power
+- [[Individual Knowing Circuit]] - Mutation and innovation
+- [[Channel 3-60]] - Mutation through limitation
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -104,13 +114,3 @@ When Metamorphosis appears in a reading, the querent is being asked: what is try
 
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
-
-## Cross-References
-- [[Death]] - Transformation requiring dissolution
-- [[The Moon]] - Navigating chaos and confusion
-- [[Gate 03 - Difficulty at the Beginning]]
-- [[Gene Key 3 - Chaos to Innocence]]
-- [[Hexagram 3 - Difficulty at the Beginning]]
-- [[Sacral Center]] - Life force and generative power
-- [[Individual Knowing Circuit]] - Mutation and innovation
-- [[Channel 3-60]] - Mutation through limitation

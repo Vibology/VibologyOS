@@ -116,6 +116,23 @@ The antidote to Insecurity is found in the positive Land cards—particularly **
 
 ---
 
+## Cross-References
+- [[House of the Land]] - The domain of embodied foundation and material grounding
+- [[Gate 48 - The Well]] - Depth and resource assessment (Spleen)
+- [[Hexagram 48]] - The Well (I-Ching)
+- [[Gene Key 48]] - Inadequacy → Resourcefulness → Wisdom
+- [[Confidence]] - Gate 8 in House of the Land (antidote: trusting creative depth)
+- [[Ambition]] - Gate 16 in House of the Land (antidote: deepening through practice)
+- [[Stability]] - Gate 20 in House of the Land (antidote: present-moment trust)
+- [[Fragility]] - Gate 57 shadow in House of the Land (compounds insecurity)
+- [[Corruption]] - Gate 50 shadow in House of the Land (deepens inadequacy)
+- [[Spleen Center]] - Instinctual fear and survival awareness
+- [[Collective Logic Circuit]] - Pattern-based resource assessment
+- [[18 - The Moon]] - Tarot's fear and illusion creating false limitation
+- [[4 of Pentacles]] - Tarot's fear-based hoarding from inadequacy
+- [[Saturn ♄]] - Fear of insufficiency and survival anxiety
+- [[Virgo ♍]] - Shadow perfectionism creating chronic inadequacy
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -135,21 +152,3 @@ The antidote to Insecurity is found in the positive Land cards—particularly **
 
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
-
-## Cross-References
-- [[House of the Land]] - The domain of embodied foundation and material grounding
-- [[Gate 48 - The Well]] - Depth and resource assessment (Spleen)
-- [[Hexagram 48]] - The Well (I-Ching)
-- [[Gene Key 48]] - Inadequacy → Resourcefulness → Wisdom
-- [[Confidence]] - Gate 8 in House of the Land (antidote: trusting creative depth)
-- [[Ambition]] - Gate 16 in House of the Land (antidote: deepening through practice)
-- [[Stability]] - Gate 20 in House of the Land (antidote: present-moment trust)
-- [[Fragility]] - Gate 57 shadow in House of the Land (compounds insecurity)
-- [[Corruption]] - Gate 50 shadow in House of the Land (deepens inadequacy)
-- [[Spleen Center]] - Instinctual fear and survival awareness
-- [[Collective Logic Circuit]] - Pattern-based resource assessment
-- [[18 - The Moon]] - Tarot's fear and illusion creating false limitation
-- [[4 of Pentacles]] - Tarot's fear-based hoarding from inadequacy
-- [[Saturn ♄]] - Fear of insufficiency and survival anxiety
-- [[Virgo ♍]] - Shadow perfectionism creating chronic inadequacy
-

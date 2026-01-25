@@ -117,6 +117,22 @@ Confidence stands in contrast to the negative Land cards, particularly **Insecur
 
 ---
 
+## Cross-References
+- [[House of the Land]] - The domain of embodied foundation and material grounding
+- [[Gate 08 - Holding Together]] - Contribution through creative expression (Throat)
+- [[Hexagram 08]] - Holding Together (I-Ching)
+- [[Gene Key 8]] - Mediocrity → Style → Exquisiteness
+- [[Stability]] - Gate 20 in House of the Land (grounded presence for confidence)
+- [[Integrity]] - Gate 18 in House of the Land (truth-serving correction)
+- [[Ambition]] - Gate 16 in House of the Land (style refined through practice)
+- [[Insecurity]] - Gate 48 in House of the Land (shadow polarity)
+- [[Throat Center]] - Manifestation of creative truth
+- [[Individual Knowing Circuit]] - Mutation through authentic expression
+- [[3 - The Empress]] - Tarot's creative abundance and authentic nurturing
+- [[1 - The Magician]] - Tarot's manifestation of individual will
+- [[Venus ♀]] - Creative beauty and authentic value
+- [[Leo ♌]] - Astrological creative expression and authentic presence
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -136,20 +152,3 @@ Confidence stands in contrast to the negative Land cards, particularly **Insecur
 
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
-
-## Cross-References
-- [[House of the Land]] - The domain of embodied foundation and material grounding
-- [[Gate 08 - Holding Together]] - Contribution through creative expression (Throat)
-- [[Hexagram 08]] - Holding Together (I-Ching)
-- [[Gene Key 8]] - Mediocrity → Style → Exquisiteness
-- [[Stability]] - Gate 20 in House of the Land (grounded presence for confidence)
-- [[Integrity]] - Gate 18 in House of the Land (truth-serving correction)
-- [[Ambition]] - Gate 16 in House of the Land (style refined through practice)
-- [[Insecurity]] - Gate 48 in House of the Land (shadow polarity)
-- [[Throat Center]] - Manifestation of creative truth
-- [[Individual Knowing Circuit]] - Mutation through authentic expression
-- [[3 - The Empress]] - Tarot's creative abundance and authentic nurturing
-- [[1 - The Magician]] - Tarot's manifestation of individual will
-- [[Venus ♀]] - Creative beauty and authentic value
-- [[Leo ♌]] - Astrological creative expression and authentic presence
-

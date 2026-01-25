@@ -303,14 +303,6 @@ The Signature of the Solar Plexus Center (when operating correctly through Emoti
 
 Gate 30 teaches that **desire is not the enemy—unconscious desire is**. When the individual honors their emotional wave, clings to experience with awareness, and accepts limitation as fate without despair, they become a **living example** of emotional wisdom. This is the essence of the Collective Sensing Circuit—to feel deeply, learn through experience, and contribute understanding to the collective.
 
-## Sources
-
-- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
-- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
-- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
-
----
-
 ## Cross-References
 
 ### Sequential Connections (Within Solar Plexus Gates)
@@ -373,3 +365,11 @@ Gate 30 teaches that **desire is not the enemy—unconscious desire is**. When t
 ---
 
 *"Desire is fate, not failure—cling to experience with awareness, and discover that limitation itself is the gateway to rapture."*
+
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---

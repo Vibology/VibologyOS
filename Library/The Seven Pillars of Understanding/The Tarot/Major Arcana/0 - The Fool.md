@@ -100,6 +100,17 @@ TBD
 
 ---
 
+## Cross-References
+- [[1 - The Magician]] - The One that follows Zero
+- [[21 - The World]] - The completion that returns to beginning
+- [[Aleph - Hebrew Letters in Tarot]]
+- [[Kabbalistic Paths - The Supernal Triangle]]
+- [[Air Element Cards]]
+- [[Cards of New Beginnings]]
+- [[The Fool's Journey - Full Major Arcana Sequence]]
+
+---
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -117,16 +128,5 @@ TBD
 **Fool's Journey Architecture:** The narrative framework of The Fool as protagonist experiencing all 22 Major Arcana represents archetypal synthesis across the pillar.
 
 **Folklore Connections:** Romanian (Fat-Frumos) and Navajo references represent cross-cultural Personal Mythos integration.
-
----
-
-## Cross-References
-- [[1 - The Magician]] - The One that follows Zero
-- [[21 - The World]] - The completion that returns to beginning
-- [[Aleph - Hebrew Letters in Tarot]]
-- [[Kabbalistic Paths - The Supernal Triangle]]
-- [[Air Element Cards]]
-- [[Cards of New Beginnings]]
-- [[The Fool's Journey - Full Major Arcana Sequence]]
 
 ---

@@ -100,6 +100,20 @@ In Jung's work, The Trickster archetype serves as compensatory function—appear
 
 When The Joker appears in a reading, the querent is being tested: will you honor the hunger for new experience? Will you challenge established order? Will you introduce chaos knowing it will destroy what's familiar? The wild archer knows: the arrow that hits the target first had to **leave the bow**. Progress requires the courage to burn stability and leap into boundless unknown.
 
+## Cross-References
+- [[The Hero]] - Order vs chaos; the adversary relationship
+- [[The Shape]] - Pattern that returns vs chaos that destroys
+- [[The Alchemist]] - Integration beyond disruption
+- [[The Nightmare]] - Tests vs disruptions
+- [[Personal Mythos/Jungian Archetypes/The Joker]] - Jungian framework for Trickster
+- [[Personal Mythos/Hero's Journey/Tests, Allies, and Enemies]] - Where The Joker appears
+- [[Gate 35 - Progress]] - Human Design gate mechanics
+- [[Hexagram 35]] - I-Ching hexagram
+- [[Gene Key 35]] - Hunger → Adventure → Boundlessness
+- [[Sagittarius ♐]] - Astrological archer and philosopher
+- [[0 - The Fool]] - Tarot correspondence to chaos and beginning
+- [[16 - The Tower]] - Tarot's sudden destruction of false structures
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -119,17 +133,3 @@ When The Joker appears in a reading, the querent is being tested: will you honor
 
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
-
-## Cross-References
-- [[The Hero]] - Order vs chaos; the adversary relationship
-- [[The Shape]] - Pattern that returns vs chaos that destroys
-- [[The Alchemist]] - Integration beyond disruption
-- [[The Nightmare]] - Tests vs disruptions
-- [[Personal Mythos/Jungian Archetypes/The Joker]] - Jungian framework for Trickster
-- [[Personal Mythos/Hero's Journey/Tests, Allies, and Enemies]] - Where The Joker appears
-- [[Gate 35 - Progress]] - Human Design gate mechanics
-- [[Hexagram 35]] - I-Ching hexagram
-- [[Gene Key 35]] - Hunger → Adventure → Boundlessness
-- [[Sagittarius ♐]] - Astrological archer and philosopher
-- [[0 - The Fool]] - Tarot correspondence to chaos and beginning
-- [[16 - The Tower]] - Tarot's sudden destruction of false structures

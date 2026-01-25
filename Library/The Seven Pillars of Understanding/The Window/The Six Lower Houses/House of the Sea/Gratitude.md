@@ -117,6 +117,23 @@ Gratitude is the antidote to **Envy** (Gate 54 shadow)—because when you apprec
 
 ---
 
+## Cross-References
+- [[House of the Sea]] - The domain of emotional depth and relational encounter
+- [[Gate 22 - Grace]] - Openness and emotional spirit (Solar Plexus)
+- [[Hexagram 22]] - Grace (I-Ching)
+- [[Gene Key 22]] - Dishonour → Graciousness → Grace
+- [[Joy]] - Gate 58 in House of the Sea (vitality gratitude completes)
+- [[Compassion]] - Gate 13 in House of the Sea (empathy gratitude enables)
+- [[Longing]] - Gate 19 in House of the Sea (desire gratitude honors)
+- [[Envy]] - Gate 54 shadow in House of the Sea (opposite pole)
+- [[Heartbreak]] - Gate 36 shadow in House of the Sea (transformed by gratitude)
+- [[Solar Plexus Center]] - Emotional awareness and spirit
+- [[Individual Knowing Circuit]] - Mutative emotional expression
+- [[17 - The Star]] - Tarot's hope and grace after difficulty
+- [[9 of Cups]] - Tarot's emotional fulfillment and contentment
+- [[Venus ♀]] - Beauty, appreciation, and emotional value
+- [[Cancer ♋]] - Astrological emotional depth and honoring sensitivity
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -136,21 +153,3 @@ Gratitude is the antidote to **Envy** (Gate 54 shadow)—because when you apprec
 
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
-
-## Cross-References
-- [[House of the Sea]] - The domain of emotional depth and relational encounter
-- [[Gate 22 - Grace]] - Openness and emotional spirit (Solar Plexus)
-- [[Hexagram 22]] - Grace (I-Ching)
-- [[Gene Key 22]] - Dishonour → Graciousness → Grace
-- [[Joy]] - Gate 58 in House of the Sea (vitality gratitude completes)
-- [[Compassion]] - Gate 13 in House of the Sea (empathy gratitude enables)
-- [[Longing]] - Gate 19 in House of the Sea (desire gratitude honors)
-- [[Envy]] - Gate 54 shadow in House of the Sea (opposite pole)
-- [[Heartbreak]] - Gate 36 shadow in House of the Sea (transformed by gratitude)
-- [[Solar Plexus Center]] - Emotional awareness and spirit
-- [[Individual Knowing Circuit]] - Mutative emotional expression
-- [[17 - The Star]] - Tarot's hope and grace after difficulty
-- [[9 of Cups]] - Tarot's emotional fulfillment and contentment
-- [[Venus ♀]] - Beauty, appreciation, and emotional value
-- [[Cancer ♋]] - Astrological emotional depth and honoring sensitivity
-

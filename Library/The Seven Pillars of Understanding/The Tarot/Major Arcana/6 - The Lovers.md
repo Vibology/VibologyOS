@@ -153,6 +153,20 @@ TBD
 
 ---
 
+## Cross-References
+- [[0 - The Fool]] - The innocent who must learn to choose
+- [[1 - The Magician]] - The will that commits to union
+- [[2 - The High Priestess]] - The feminine principle receiving divine inspiration
+- [[5 - The Hierophant]] - The authority who blesses the union
+- [[Zayin - Hebrew Letters in Tarot]]
+- [[Kabbalistic Paths - Binah to Tiphareth]]
+- [[Gemini in Esoteric Systems]]
+- [[The Sacred Marriage - Hieros Gamos]]
+- [[Alchemical Conjunction]]
+- [[Cards of Union and Choice]]
+
+---
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -166,18 +180,4 @@ TBD
 ### Vibology Synthesis Notes
 
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
----
-
-## Cross-References
-- [[0 - The Fool]] - The innocent who must learn to choose
-- [[1 - The Magician]] - The will that commits to union
-- [[2 - The High Priestess]] - The feminine principle receiving divine inspiration
-- [[5 - The Hierophant]] - The authority who blesses the union
-- [[Zayin - Hebrew Letters in Tarot]]
-- [[Kabbalistic Paths - Binah to Tiphareth]]
-- [[Gemini in Esoteric Systems]]
-- [[The Sacred Marriage - Hieros Gamos]]
-- [[Alchemical Conjunction]]
-- [[Cards of Union and Choice]]
-
 ---

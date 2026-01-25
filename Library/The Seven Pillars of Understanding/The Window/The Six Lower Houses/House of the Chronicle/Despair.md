@@ -115,6 +115,22 @@ The practice for healing Despair is **patient trust in transmutation while accep
 
 ---
 
+## Cross-References
+- [[House of the Chronicle]] - The domain of metanarrative and meaning-shaping virtues
+- [[Gate 47 - Oppression]] - Realizing and mental pressure (Ajna)
+- [[Hexagram 47]] - Oppression (I-Ching)
+- [[Gene Key 47]] - Oppression → Transmutation → Transfiguration
+- [[Memory]] - Gate 11 in House of the Chronicle (antidote: illuminating ideas)
+- [[Faith]] - Gate 32 in House of the Chronicle (antidote: sustained continuity)
+- [[Bitterness]] - Gate 52 shadow in House of the Chronicle (frozen narrative)
+- [[Hatred]] - Gate 4 shadow in House of the Chronicle (poisoned narrative)
+- [[Ajna Center]] - Mental awareness and conceptualization
+- [[Understanding Circuit]] - Collective pattern recognition through logic
+- [[3 - Three of Swords]] - Tarot's heartbreak and mental anguish
+- [[10 - Wheel of Fortune reversed]] - Tarot's sense of futility
+- [[Saturn ♄]] - Limitation, depression, and the necessity of structure
+- [[Capricorn ♑]] - The shadow of despair when achievement fails to satisfy
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -134,19 +150,3 @@ The practice for healing Despair is **patient trust in transmutation while accep
 
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
-
-## Cross-References
-- [[House of the Chronicle]] - The domain of metanarrative and meaning-shaping virtues
-- [[Gate 47 - Oppression]] - Realizing and mental pressure (Ajna)
-- [[Hexagram 47]] - Oppression (I-Ching)
-- [[Gene Key 47]] - Oppression → Transmutation → Transfiguration
-- [[Memory]] - Gate 11 in House of the Chronicle (antidote: illuminating ideas)
-- [[Faith]] - Gate 32 in House of the Chronicle (antidote: sustained continuity)
-- [[Bitterness]] - Gate 52 shadow in House of the Chronicle (frozen narrative)
-- [[Hatred]] - Gate 4 shadow in House of the Chronicle (poisoned narrative)
-- [[Ajna Center]] - Mental awareness and conceptualization
-- [[Understanding Circuit]] - Collective pattern recognition through logic
-- [[3 - Three of Swords]] - Tarot's heartbreak and mental anguish
-- [[10 - Wheel of Fortune reversed]] - Tarot's sense of futility
-- [[Saturn ♄]] - Limitation, depression, and the necessity of structure
-- [[Capricorn ♑]] - The shadow of despair when achievement fails to satisfy

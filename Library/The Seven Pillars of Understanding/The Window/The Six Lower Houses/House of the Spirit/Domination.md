@@ -118,6 +118,22 @@ The practice is service: **remember that authority exists to serve**. Not abando
 
 ---
 
+## Cross-References
+- [[House of the Spirit]] - The domain of consciousness, soul health, inner divinity
+- [[Gate 45 - Gathering Together]] - Voice of rulership (Throat Center)
+- [[Hexagram 45]] - Gathering Together (I-Ching)
+- [[Gene Key 45]] - Dominance → Communion → Liberation
+- [[Awareness]] - Gate 64 in House of the Spirit (illuminating consciousness)
+- [[Humility]] - Gate 2 in House of the Spirit (receptive alignment)
+- [[Will]] - Gate 7 in House of the Spirit (virtuous guidance)
+- [[Apathy]] - Gate 56 shadow in House of the Spirit (parallel shadow)
+- [[Malevolence]] - Gate 62 shadow in House of the Spirit (parallel shadow)
+- [[Throat Center]] - Expression and manifestation
+- [[Tribal Circuit]] - Support and resources
+- [[4 - The Emperor]] - Tarot's structured authority (reversed: tyranny)
+- [[15 - The Devil]] - Tarot's bondage and control
+- [[Capricorn ♑]] - Astrological authority that can serve or dominate
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -137,19 +153,3 @@ The practice is service: **remember that authority exists to serve**. Not abando
 
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
-
-## Cross-References
-- [[House of the Spirit]] - The domain of consciousness, soul health, inner divinity
-- [[Gate 45 - Gathering Together]] - Voice of rulership (Throat Center)
-- [[Hexagram 45]] - Gathering Together (I-Ching)
-- [[Gene Key 45]] - Dominance → Communion → Liberation
-- [[Awareness]] - Gate 64 in House of the Spirit (illuminating consciousness)
-- [[Humility]] - Gate 2 in House of the Spirit (receptive alignment)
-- [[Will]] - Gate 7 in House of the Spirit (virtuous guidance)
-- [[Apathy]] - Gate 56 shadow in House of the Spirit (parallel shadow)
-- [[Malevolence]] - Gate 62 shadow in House of the Spirit (parallel shadow)
-- [[Throat Center]] - Expression and manifestation
-- [[Tribal Circuit]] - Support and resources
-- [[4 - The Emperor]] - Tarot's structured authority (reversed: tyranny)
-- [[15 - The Devil]] - Tarot's bondage and control
-- [[Capricorn ♑]] - Astrological authority that can serve or dominate

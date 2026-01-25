@@ -100,6 +100,20 @@ In Jung's work, The Persona represents the necessary interface between inner sel
 
 When The Persona appears in a reading, the querent is being tested: can you withdraw into imagination and emerge transformed? Can you perform brilliantly without losing yourself in the role? Can you construct identity consciously, wear it skillfully, and release it gracefully when the curtain falls? The theatrical self knows: **decrease precedes expansion, fantasy fuels performance, and all masks eventually return to the face that wears them**.
 
+## Cross-References
+- [[The Alchemist]] - Integration beyond performance
+- [[The Muse]] - Soul-image vs constructed mask
+- [[The Idol]] - Spirit-force vs theatrical role
+- [[The Changeling]] - Fluid forms vs constructed masks
+- [[Personal Mythos/Jungian Archetypes/The Persona]] - Jungian framework for social mask
+- [[Personal Mythos/Individuation Process/Persona Development]] - Early individuation stage
+- [[Gate 41 - Decrease]] - Human Design gate mechanics
+- [[Hexagram 41]] - I-Ching hexagram
+- [[Gene Key 41]] - Expectation → Anticipation → Ecstasy
+- [[Leo ♌]] - Astrological performer and creator
+- [[1 - The Magician]] - Tarot correspondence to conscious creation
+- [[7 - The Chariot]] - Tarot's mastery through constructed will
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -119,17 +133,3 @@ When The Persona appears in a reading, the querent is being tested: can you with
 
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
-
-## Cross-References
-- [[The Alchemist]] - Integration beyond performance
-- [[The Muse]] - Soul-image vs constructed mask
-- [[The Idol]] - Spirit-force vs theatrical role
-- [[The Changeling]] - Fluid forms vs constructed masks
-- [[Personal Mythos/Jungian Archetypes/The Persona]] - Jungian framework for social mask
-- [[Personal Mythos/Individuation Process/Persona Development]] - Early individuation stage
-- [[Gate 41 - Decrease]] - Human Design gate mechanics
-- [[Hexagram 41]] - I-Ching hexagram
-- [[Gene Key 41]] - Expectation → Anticipation → Ecstasy
-- [[Leo ♌]] - Astrological performer and creator
-- [[1 - The Magician]] - Tarot correspondence to conscious creation
-- [[7 - The Chariot]] - Tarot's mastery through constructed will

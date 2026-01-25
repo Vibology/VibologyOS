@@ -119,6 +119,22 @@ The practice is straightforward: **remember what has sustained life and apply th
 
 ---
 
+## Cross-References
+- [[House of the Flame]] - The domain of vital/instinctual action and movement
+- [[Gate 26 - The Taming Power of the Great]] - The Egoist and strategic memory (Heart)
+- [[Hexagram 26]] - The Taming Power of the Great (I-Ching)
+- [[Gene Key 26]] - Pride → Artfulness → Invisibility
+- [[Courage]] - Gate 21 in House of the Flame (enforcement for survival)
+- [[Adventure]] - Gate 28 in House of the Flame (meaningful risk within survival)
+- [[Passion]] - Gate 25 in House of the Flame (innocent love behind survival)
+- [[Aggression]] - Gate 5 shadow in House of the Flame (force without patience)
+- [[Heart Center]] - Willpower and material resources
+- [[Tribal Circuit]] - Support, loyalty, and collective survival
+- [[9 - The Hermit]] - Tarot's accumulated wisdom through experience
+- [[4 - The Emperor]] - Tarot's structured preservation and stewardship
+- [[Saturn ♄]] - Time, structure, and what endures
+- [[Capricorn ♑]] - Astrological mastery through patient accumulation
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -138,19 +154,3 @@ The practice is straightforward: **remember what has sustained life and apply th
 
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
-
-## Cross-References
-- [[House of the Flame]] - The domain of vital/instinctual action and movement
-- [[Gate 26 - The Taming Power of the Great]] - The Egoist and strategic memory (Heart)
-- [[Hexagram 26]] - The Taming Power of the Great (I-Ching)
-- [[Gene Key 26]] - Pride → Artfulness → Invisibility
-- [[Courage]] - Gate 21 in House of the Flame (enforcement for survival)
-- [[Adventure]] - Gate 28 in House of the Flame (meaningful risk within survival)
-- [[Passion]] - Gate 25 in House of the Flame (innocent love behind survival)
-- [[Aggression]] - Gate 5 shadow in House of the Flame (force without patience)
-- [[Heart Center]] - Willpower and material resources
-- [[Tribal Circuit]] - Support, loyalty, and collective survival
-- [[9 - The Hermit]] - Tarot's accumulated wisdom through experience
-- [[4 - The Emperor]] - Tarot's structured preservation and stewardship
-- [[Saturn ♄]] - Time, structure, and what endures
-- [[Capricorn ♑]] - Astrological mastery through patient accumulation

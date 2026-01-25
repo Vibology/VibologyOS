@@ -305,14 +305,6 @@ The Signature of the Head Center (for all gates within it) is the experience of 
 
 Gate 64 teaches that **confusion is sacred**. When the individual honors their pressure to abstract according to Strategy and Authority, they become a **living example** of what it means to trust imagination, to honor the not-yet-complete, to make sense of the past in service to collective understanding. This is the essence of the Abstract Circuit—not to know immediately, but to **allow patterns to reveal themselves through experience over time**.
 
-## Sources
-
-- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
-- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
-- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
-
----
-
 ## Cross-References
 
 ### Sequential Connections (Within Head Center Gates)
@@ -363,3 +355,11 @@ Gate 64 teaches that **confusion is sacred**. When the individual honors their p
 ---
 
 *"Confusion is sacred. Imagination is the bridge. Trust the pattern to complete itself in its own timing."*
+
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---

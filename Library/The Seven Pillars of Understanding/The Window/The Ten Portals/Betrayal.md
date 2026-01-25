@@ -85,6 +85,16 @@ The Portal's teaching is **honor the grief**: when intimacy is betrayed, the pai
 
 When Betrayal appears in a reading, the querent is being asked: what intimate bond has been severed or violated? Can you grieve the dispersion without closing your heart completely? Can you learn discernment—recognizing which barriers should be dissolved and which protect necessary sovereignty? Wind teaches: **what gathers can scatter**. But what scatters clears the surface. Beneath the dispersed water, the lake remains. Beneath the betrayed bond, your capacity for intimacy survives. Rebuild selectively. Trust transparently. Bond only where honesty is mutual.
 
+## Cross-References
+- [[Three of Swords]] - Heartbreak and severed bonds
+- [[Five of Pentacles]] - Exile and loss of tribal support
+- [[Gate 59 - Dispersion]]
+- [[Gene Key 59 - Dishonesty to Transparency]]
+- [[Hexagram 59 - Dispersion]]
+- [[Sacral Center]] - Sexual and generative energy
+- [[Tribal Circuit]] - Bonds of support and intimacy
+- [[Channel 6-59]] - The Channel of Mating
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -104,13 +114,3 @@ When Betrayal appears in a reading, the querent is being asked: what intimate bo
 
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
-
-## Cross-References
-- [[Three of Swords]] - Heartbreak and severed bonds
-- [[Five of Pentacles]] - Exile and loss of tribal support
-- [[Gate 59 - Dispersion]]
-- [[Gene Key 59 - Dishonesty to Transparency]]
-- [[Hexagram 59 - Dispersion]]
-- [[Sacral Center]] - Sexual and generative energy
-- [[Tribal Circuit]] - Bonds of support and intimacy
-- [[Channel 6-59]] - The Channel of Mating

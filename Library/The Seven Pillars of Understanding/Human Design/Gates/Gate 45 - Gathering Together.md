@@ -303,14 +303,6 @@ The Signature of the Throat Center (for Manifestors) is **Peace**; for others, i
 
 Gate 45 teaches that **rulership is sacred service**. When the individual honors their capacity to speak with authority—leading when invited, educating when recognized, gathering for collective benefit—they become a **living example** of benevolent governance. This is the essence of the Tribal Ego Circuit—to ensure survival through wise rulership and resource management.
 
-## Sources
-
-- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
-- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
-- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
-
----
-
 ## Cross-References
 
 ### Sequential Connections (Within Throat Center Gates)
@@ -366,3 +358,11 @@ Gate 45 teaches that **rulership is sacred service**. When the individual honors
 ---
 
 *"True rulership is not domination—it is communion. The sovereign who liberates rather than controls becomes the center around which the tribe naturally gathers."*
+
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---

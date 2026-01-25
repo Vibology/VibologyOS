@@ -477,6 +477,31 @@ In **[[Jungian psychology]]**, Haniel is the **Anima**—the soul-image of beaut
 
 ---
 
+## Cross-References
+- [[Netzach]] — Haniel's Sephirah, the sphere of Victory and the Life Force
+- [[Principalities]] — Angelic order governed by Haniel
+- [[Venus ♀]] — Planetary sphere of love, beauty, harmony
+- [[The Empress]] — Tarot Trump III, the archetype of fertility and beauty
+- [[Sevens]] — Tarot cards of endurance and persistence (Haniel's domain)
+- [[Metatron]] — Archangel of Kether, the Crown
+- [[Raziel]] — Archangel of Chokmah, the Revealer of Mysteries
+- [[Tzaphkiel]] — Archangel of Binah, the Divine Mother
+- [[Raphael]] — Archangel of Tiphareth, the Healer and Solar Heart
+- [[Michael]] — Archangel of Hod (some systems), the Sword of Discrimination
+- [[Gabriel]] — Archangel of Yesod, the Lunar Messenger
+- [[Sandalphon]] — Archangel of Malkuth, the Prince of Prayer
+- [[Tree of Life]] — The Qabalistic map of divine emanation
+- [[Spleen Center]] — Human Design center of intuition and vitality
+- [[Gene Keys]] — 57th Gene Key (Unease/Intuition/Clarity)
+- [[Jungian psychology]] — Anima archetype, Eros principle
+- [[Astrology]] — Venus, Taurus, Libra, 7th House
+- [[Qlippoth]] — Shadow tree, A'arab Zaraq as distortion of Netzach
+- [[Individuation]] — Jungian process of integrating Logos and Eros
+- [[The Celestial Hierarchy]] — Pseudo-Dionysius's angelic orders
+- [[Human Design]] — BodyGraph as angelic hierarchy embodied
+- [[The Window]] — Contemporary archetypal pattern system
+- [[YHVH Tzabaoth]] — Divine name of Netzach, "Lord of Hosts"
+
 ## Sources
 ### Primary Sources
 
@@ -514,28 +539,3 @@ The following content represents cross-system synthesis and is not sourced from 
 - Specific shadow manifestations and integration practices
 
 ---
-
-## Cross-References
-- [[Netzach]] — Haniel's Sephirah, the sphere of Victory and the Life Force
-- [[Principalities]] — Angelic order governed by Haniel
-- [[Venus ♀]] — Planetary sphere of love, beauty, harmony
-- [[The Empress]] — Tarot Trump III, the archetype of fertility and beauty
-- [[Sevens]] — Tarot cards of endurance and persistence (Haniel's domain)
-- [[Metatron]] — Archangel of Kether, the Crown
-- [[Raziel]] — Archangel of Chokmah, the Revealer of Mysteries
-- [[Tzaphkiel]] — Archangel of Binah, the Divine Mother
-- [[Raphael]] — Archangel of Tiphareth, the Healer and Solar Heart
-- [[Michael]] — Archangel of Hod (some systems), the Sword of Discrimination
-- [[Gabriel]] — Archangel of Yesod, the Lunar Messenger
-- [[Sandalphon]] — Archangel of Malkuth, the Prince of Prayer
-- [[Tree of Life]] — The Qabalistic map of divine emanation
-- [[Spleen Center]] — Human Design center of intuition and vitality
-- [[Gene Keys]] — 57th Gene Key (Unease/Intuition/Clarity)
-- [[Jungian psychology]] — Anima archetype, Eros principle
-- [[Astrology]] — Venus, Taurus, Libra, 7th House
-- [[Qlippoth]] — Shadow tree, A'arab Zaraq as distortion of Netzach
-- [[Individuation]] — Jungian process of integrating Logos and Eros
-- [[The Celestial Hierarchy]] — Pseudo-Dionysius's angelic orders
-- [[Human Design]] — BodyGraph as angelic hierarchy embodied
-- [[The Window]] — Contemporary archetypal pattern system
-- [[YHVH Tzabaoth]] — Divine name of Netzach, "Lord of Hosts"

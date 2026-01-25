@@ -115,6 +115,23 @@ Compassion is the antidote to **Rage** (Gate 6 shadow)—because empathic witnes
 
 ---
 
+## Cross-References
+- [[House of the Sea]] - The domain of emotional depth and relational encounter
+- [[Gate 13 - The Fellowship of Man]] - The Listener (G Center)
+- [[Hexagram 13]] - The Fellowship of Man (I-Ching)
+- [[Gene Key 13]] - Discord → Discernment → Empathy
+- [[Joy]] - Gate 58 in House of the Sea (vitality extended empathically)
+- [[Gratitude]] - Gate 22 in House of the Sea (appreciation for empathic capacity)
+- [[Longing]] - Gate 19 in House of the Sea (desire for connection)
+- [[Rage]] - Gate 6 shadow in House of the Sea (transformed by compassion)
+- [[Heartbreak]] - Gate 36 shadow in House of the Sea (held by compassion)
+- [[G Center]] - Identity and direction through love
+- [[Collective Sharing Circuit]] - Abstract pattern witnessing
+- [[2 - The High Priestess]] - Tarot's receptive witnessing and deep listening
+- [[Queen of Cups]] - Tarot's empathic presence and emotional containment
+- [[Neptune ♆]] - Compassion, dissolution of boundaries, collective feeling
+- [[Pisces ♓]] - Astrological empathy and oceanic emotional connection
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -134,21 +151,3 @@ Compassion is the antidote to **Rage** (Gate 6 shadow)—because empathic witnes
 
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
-
-## Cross-References
-- [[House of the Sea]] - The domain of emotional depth and relational encounter
-- [[Gate 13 - The Fellowship of Man]] - The Listener (G Center)
-- [[Hexagram 13]] - The Fellowship of Man (I-Ching)
-- [[Gene Key 13]] - Discord → Discernment → Empathy
-- [[Joy]] - Gate 58 in House of the Sea (vitality extended empathically)
-- [[Gratitude]] - Gate 22 in House of the Sea (appreciation for empathic capacity)
-- [[Longing]] - Gate 19 in House of the Sea (desire for connection)
-- [[Rage]] - Gate 6 shadow in House of the Sea (transformed by compassion)
-- [[Heartbreak]] - Gate 36 shadow in House of the Sea (held by compassion)
-- [[G Center]] - Identity and direction through love
-- [[Collective Sharing Circuit]] - Abstract pattern witnessing
-- [[2 - The High Priestess]] - Tarot's receptive witnessing and deep listening
-- [[Queen of Cups]] - Tarot's empathic presence and emotional containment
-- [[Neptune ♆]] - Compassion, dissolution of boundaries, collective feeling
-- [[Pisces ♓]] - Astrological empathy and oceanic emotional connection
-

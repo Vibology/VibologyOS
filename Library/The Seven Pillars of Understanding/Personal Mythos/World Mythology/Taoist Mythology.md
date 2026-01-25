@@ -796,20 +796,6 @@ Jung: *"The alchemical vessel is the psyche itself. The fire is suffering. The w
 
 ---
 
-## Sources
-**Jungian Analytical Psychology:**
-- Jung, C.G. "Commentary on *The Secret of the Golden Flower*." In *Alchemical Studies* (CW 13). Princeton University Press, 1967.
-- Jung, C.G. *The Archetypes and the Collective Unconscious* (CW 9i). Princeton University Press, 1959.
-- Jung, C.G. *Psychology and Religion: West and East* (CW 11). Princeton University Press, 1958.
-
-**Primary Taoist Sources:**
-Core mythological narratives (cosmology, pantheon, immortals, and alchemical practices) are drawn from canonical Taoist sources including the *Tao Te Ching* (Laozi), *Zhuangzi*, *I Ching* (Book of Changes), *Neiye* (Inward Training), and texts of religious Taoism (*Daozang*). These texts span philosophical and religious Taoist traditions and inform the archetypal framework.
-
-**Vibrology Synthesis:**
-All Jungian archetypal analysis (interpreting Taoist myths through the lens of Shadow, Anima/Animus, Self, Individuation, etc.) represents scholarly synthesis rather than traditional Taoist understanding. Cross-system correspondences (Tarot, Astrology, Western Alchemy, Human Design, Qabalah) are Vibrology's integrative framework, not part of the original Taoist tradition. Jung's *Secret of the Golden Flower* commentary explicitly bridges Taoist internal alchemy with Western depth psychology, but the broader cross-system correlations drawn here are modern interpretive additions.
-
----
-
 ## Cross-References
 
 ### Jungian Archetypes
@@ -901,3 +887,17 @@ All Jungian archetypal analysis (interpreting Taoist myths through the lens of S
 *"The Tao is like a well: used but never used up. It is like the eternal void: filled with infinite possibilities."*
 
 — Lao Tzu, *Tao Te Ching*, Chapter 4
+
+## Sources
+**Jungian Analytical Psychology:**
+- Jung, C.G. "Commentary on *The Secret of the Golden Flower*." In *Alchemical Studies* (CW 13). Princeton University Press, 1967.
+- Jung, C.G. *The Archetypes and the Collective Unconscious* (CW 9i). Princeton University Press, 1959.
+- Jung, C.G. *Psychology and Religion: West and East* (CW 11). Princeton University Press, 1958.
+
+**Primary Taoist Sources:**
+Core mythological narratives (cosmology, pantheon, immortals, and alchemical practices) are drawn from canonical Taoist sources including the *Tao Te Ching* (Laozi), *Zhuangzi*, *I Ching* (Book of Changes), *Neiye* (Inward Training), and texts of religious Taoism (*Daozang*). These texts span philosophical and religious Taoist traditions and inform the archetypal framework.
+
+**Vibrology Synthesis:**
+All Jungian archetypal analysis (interpreting Taoist myths through the lens of Shadow, Anima/Animus, Self, Individuation, etc.) represents scholarly synthesis rather than traditional Taoist understanding. Cross-system correspondences (Tarot, Astrology, Western Alchemy, Human Design, Qabalah) are Vibrology's integrative framework, not part of the original Taoist tradition. Jung's *Secret of the Golden Flower* commentary explicitly bridges Taoist internal alchemy with Western depth psychology, but the broader cross-system correlations drawn here are modern interpretive additions.
+
+---

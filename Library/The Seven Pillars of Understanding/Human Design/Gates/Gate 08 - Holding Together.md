@@ -315,14 +315,6 @@ For those with Self-Projected Authority (Channel 1-8), the Signature is **hearin
 
 Gate 8 teaches that **creative contribution is not about being the best—it is about being authentic**. When the individual honors their Strategy and Authority, expresses from genuine impulse, and allows their unique style to serve, they become a **living example** of creative empowerment. This is the essence of the Individual stream—not to teach or lead, but to **inspire through authentic differentiation**.
 
-## Sources
-
-- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
-- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
-- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
-
----
-
 ## Cross-References
 
 ### Sequential Connections (Within Throat Gates)
@@ -385,3 +377,11 @@ Gate 8 teaches that **creative contribution is not about being the best—it is 
 ---
 
 *"Your unique voice is not vanity—it is the universe celebrating its own diversity."*
+
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---

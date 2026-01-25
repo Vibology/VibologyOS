@@ -158,26 +158,6 @@ Turn inward. How is your soul? Practice receptivity (Gate 2)—listen for divine
 
 ---
 
-## Sources
-### Primary Sources (Uploaded to Esoteric Grimoire)
-
-**I-Ching & Gene Keys:**
-- Huang, Alfred. *The Complete I Ching: The Definitive Translation by the Taoist Master Alfred Huang*. Rochester, VT: Inner Traditions, 1998.
-- Rudd, Richard. *Gene Keys: Unlocking the Higher Purpose Hidden in Your DNA*. London: Watkins Publishing, 2013. (First published 2009)
-- Wilhelm, Richard and Baynes, Cary F. (Trans.). *The I Ching or Book of Changes*. Princeton, NJ: Princeton University Press, 1967. (Bollingen Series XIX)
-
-**Human Design:**
-- Ra Uru Hu. *The Human Design System: The Complete Rave I'Ching*. Diessen am Ammersee, Germany: Jovian Archive Corporation, 2001.
-- Ra Uru Hu and Bunnell, Lynda. *The Definitive Book of Human Design: The Science of Differentiation*. IHDS/Jovian Archive, 2011. (Copyright 2008-2012)
-
-**Vibology Internal Reference:**
-- *The Blueprint (444) Reference Information: Complete Documentation for Vibology Framework*. Internal document. Created January 2026.
-
-### Vibology Synthesis Notes
-
-This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
----
-
 ## Cross-References
 - [[House of the Land]] - Physical embodiment vs. consciousness clarity
 - [[House of the Sea]] - Emotional awareness vs. psychospiritual witness
@@ -197,3 +177,23 @@ This card integrates verified source material (I-Ching hexagram meanings via Hua
 - [[Folklore/Jungian Archetypes/The Self]] - Jungian wholeness
 - [[Kether]] - Qabalistic crown and pure consciousness
 - [[Individuation]] - Jungian process of becoming conscious
+
+## Sources
+### Primary Sources (Uploaded to Esoteric Grimoire)
+
+**I-Ching & Gene Keys:**
+- Huang, Alfred. *The Complete I Ching: The Definitive Translation by the Taoist Master Alfred Huang*. Rochester, VT: Inner Traditions, 1998.
+- Rudd, Richard. *Gene Keys: Unlocking the Higher Purpose Hidden in Your DNA*. London: Watkins Publishing, 2013. (First published 2009)
+- Wilhelm, Richard and Baynes, Cary F. (Trans.). *The I Ching or Book of Changes*. Princeton, NJ: Princeton University Press, 1967. (Bollingen Series XIX)
+
+**Human Design:**
+- Ra Uru Hu. *The Human Design System: The Complete Rave I'Ching*. Diessen am Ammersee, Germany: Jovian Archive Corporation, 2001.
+- Ra Uru Hu and Bunnell, Lynda. *The Definitive Book of Human Design: The Science of Differentiation*. IHDS/Jovian Archive, 2011. (Copyright 2008-2012)
+
+**Vibology Internal Reference:**
+- *The Blueprint (444) Reference Information: Complete Documentation for Vibology Framework*. Internal document. Created January 2026.
+
+### Vibology Synthesis Notes
+
+This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
+---

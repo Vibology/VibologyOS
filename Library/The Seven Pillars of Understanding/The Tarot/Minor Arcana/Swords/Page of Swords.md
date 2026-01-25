@@ -269,21 +269,6 @@ The sword is not a toy, but it is also not a trophy to be admired from a distanc
 
 ---
 
-## Sources
-### Primary Sources (Uploaded to Esoteric Grimoire)
-
-- Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
-- Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983.
-
-### Secondary Sources (Referenced via Primary Sources)
-
-- Crowley, Aleister. *The Book of Thoth*. New York: Samuel Weiser, Inc., 1974. (Originally published in *The Equinox*, Vol. III, No. V, 1944) — Referenced via Wang 1983
-
-### Vibology Synthesis Notes
-
-Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
----
-
 ## Cross-References
 ### Other Court Cards in Suit
 - [[Knight of Swords]] - The active practitioner: thought in motion
@@ -326,3 +311,18 @@ Interpretive commentary sections (RWS symbolism analysis, synthesis notes, perso
 ---
 
 *"The Page who wields the sword before he understands it cuts himself as often as his enemies."*
+
+## Sources
+### Primary Sources (Uploaded to Esoteric Grimoire)
+
+- Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
+- Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983.
+
+### Secondary Sources (Referenced via Primary Sources)
+
+- Crowley, Aleister. *The Book of Thoth*. New York: Samuel Weiser, Inc., 1974. (Originally published in *The Equinox*, Vol. III, No. V, 1944) — Referenced via Wang 1983
+
+### Vibology Synthesis Notes
+
+Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
+---

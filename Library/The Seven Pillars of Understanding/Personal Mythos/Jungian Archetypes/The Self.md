@@ -573,61 +573,6 @@ The Self is not an escape from life, but the **fullest engagement** with life. I
 
 ---
 
-## Sources
-
-[^1]: Jung, C.G. *Psychology and Alchemy*. Collected Works Vol. 12, par. 44. Princeton University Press.
-
-[^2]: Jung, C.G. *Two Essays on Analytical Psychology*. Collected Works Vol. 7, par. 274. Princeton University Press.
-
-[^3]: Jung, C.G. *Two Essays on Analytical Psychology*. Collected Works Vol. 7, par. 404. Princeton University Press.
-
-[^4]: Jung, C.G. *Psychology and Alchemy*. Collected Works Vol. 12, par. 247. Princeton University Press.
-
-[^5]: Jung, C.G. *Memories, Dreams, Reflections*. Recorded and edited by Aniela Jaffé. Vintage Books, 1989.
-
-[^6]: Jung, C.G. *Psychology and Alchemy*. Collected Works Vol. 12. Princeton University Press. (Attributed to medieval mysticism; Jung references this formulation)
-
-[^7]: Jung, C.G. *Memories, Dreams, Reflections*. Recorded and edited by Aniela Jaffé. Vintage Books, 1989.
-
-**Additional References:**
-
-- Jung, C.G. *Aion: Researches into the Phenomenology of the Self*. Collected Works Vol. 9ii. Princeton University Press. (Christ as Self-symbol, complexio oppositorum)
-- Jung, C.G. *Mysterium Coniunctionis*. Collected Works Vol. 14. Princeton University Press. (Alchemical symbolism of the Self, coniunctio)
-- Jung, C.G. *The Archetypes and the Collective Unconscious*. Collected Works Vol. 9i. Princeton University Press. (Self archetype, mandala symbolism, Divine Child)
-- Campbell, Joseph. *The Hero with a Thousand Faces*. Princeton University Press, 1949. (Hero's Journey as individuation, Self as ultimate boon)
-- Edinger, Edward F. *Ego and Archetype: Individuation and the Religious Function of the Psyche*. Shambhala, 1972. (Ego-Self axis, individuation stages)
-- Edinger, Edward F. *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy*. Open Court, 1985. (Nigredo, Albedo, Rubedo, Lapis as Self)
-- Otto, Rudolf. *The Idea of the Holy*. Oxford University Press, 1923. (*Mysterium tremendum et fascinans*, numinous experience)
-- Grimm, Jacob and Wilhelm. *The Complete Grimms' Fairy Tales*. Pantheon Books, 1972. (The Frog King/Golden Ball, The Fisherman and His Wife)
-- Religious and philosophical texts:
-  - *The Upanishads*. (Atman/Brahman, "Tat tvam asi")
-  - *The Bhagavad Gita*. (Self as Krishna, divine consciousness)
-  - *Tao Te Ching*, Lao Tzu. (The Tao as ineffable Self)
-  - *The Bible*, John 10:30. ("I and the Father are one")
-  - *The Tibetan Book of the Dead* (Bardo Thodol). (Dharmakaya, Buddha-nature)
-  - Alchemical texts: *Rosarium Philosophorum*, *Turba Philosophorum*, Paracelsus. (Philosopher's Stone, Lapis, Opus Magnum)
-- von Franz, Marie-Louise. *Alchemy: An Introduction to the Symbolism and the Psychology*. Inner City Books, 1980. (Alchemical stages and Self symbolism)
-
-## Shadow Dynamics
-**How does the Self manifest differently in men vs. women?**
-
-The Self, as the **archetype of totality**, is inherently **androgynous** or **hermaphroditic**—it unites the masculine and feminine principles. However, its **realization** in individual lives is colored by gender and culture.
-
-**In Men:**
-- The Self often appears in dreams as a **Wise Old Man** (Senex) or a **King**—figures of authority, wisdom, and spirit. Examples: Merlin, Odin, the Pope, the Emperor.
-- The **Anima** (feminine soul-image) acts as the **bridge to the Self**. Without integrating the Anima (eros, feeling, relatedness), men remain stuck in the ego and cannot access the Self.
-- **Inflation danger:** Men may inflate into the **"God-almighty"** archetype—the guru, the prophet, the savior. This is ego-Self identification.
-- **Integration:** Men must surrender the **Heroic ego** and accept guidance from the feminine (Anima) to reach the Self.
-
-**In Women:**
-- The Self often appears in dreams as a **Wise Old Woman** (Crone) or a **Queen**—figures of sovereignty, intuition, and embodied wisdom. Examples: Hecate, Sophia, the High Priestess.
-- The **Animus** (masculine soul-image) acts as the **bridge to the Self**. Without integrating the Animus (logos, meaning, creative power), women remain caught in emotional reactivity and cannot access the Self.
-- **Inflation danger:** Women may inflate into the **"Divine Mother"** or **"Goddess"** archetype—believing they possess ultimate wisdom or spiritual superiority. This is ego-Self identification.
-- **Integration:** Women must claim their **inner authority** (Animus) while remaining grounded in the body (matter) to reach the Self.
-
-**Non-Binary and Transcendent Expressions:**
-The Self, as the **union of opposites**, inherently transcends binary gender categories. Figures like **Abraxas** (Gnostic deity with both light and dark, male and female attributes) or the **Hermaphrodite** (alchemical symbol of the *coniunctio*) represent the Self in its fullness.
-
 ## Cross-References
 
 ### Jungian Archetypes
@@ -720,3 +665,58 @@ The Self, as the **union of opposites**, inherently transcends binary gender cat
 - **Ego-Self Axis** - Healthy relationship between finite ego and infinite Self
 - **Quaternit** - The number four as symbol of wholeness
 - **Complexio Oppositorum** - The Self as the union of all opposites
+
+## Sources
+
+[^1]: Jung, C.G. *Psychology and Alchemy*. Collected Works Vol. 12, par. 44. Princeton University Press.
+
+[^2]: Jung, C.G. *Two Essays on Analytical Psychology*. Collected Works Vol. 7, par. 274. Princeton University Press.
+
+[^3]: Jung, C.G. *Two Essays on Analytical Psychology*. Collected Works Vol. 7, par. 404. Princeton University Press.
+
+[^4]: Jung, C.G. *Psychology and Alchemy*. Collected Works Vol. 12, par. 247. Princeton University Press.
+
+[^5]: Jung, C.G. *Memories, Dreams, Reflections*. Recorded and edited by Aniela Jaffé. Vintage Books, 1989.
+
+[^6]: Jung, C.G. *Psychology and Alchemy*. Collected Works Vol. 12. Princeton University Press. (Attributed to medieval mysticism; Jung references this formulation)
+
+[^7]: Jung, C.G. *Memories, Dreams, Reflections*. Recorded and edited by Aniela Jaffé. Vintage Books, 1989.
+
+**Additional References:**
+
+- Jung, C.G. *Aion: Researches into the Phenomenology of the Self*. Collected Works Vol. 9ii. Princeton University Press. (Christ as Self-symbol, complexio oppositorum)
+- Jung, C.G. *Mysterium Coniunctionis*. Collected Works Vol. 14. Princeton University Press. (Alchemical symbolism of the Self, coniunctio)
+- Jung, C.G. *The Archetypes and the Collective Unconscious*. Collected Works Vol. 9i. Princeton University Press. (Self archetype, mandala symbolism, Divine Child)
+- Campbell, Joseph. *The Hero with a Thousand Faces*. Princeton University Press, 1949. (Hero's Journey as individuation, Self as ultimate boon)
+- Edinger, Edward F. *Ego and Archetype: Individuation and the Religious Function of the Psyche*. Shambhala, 1972. (Ego-Self axis, individuation stages)
+- Edinger, Edward F. *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy*. Open Court, 1985. (Nigredo, Albedo, Rubedo, Lapis as Self)
+- Otto, Rudolf. *The Idea of the Holy*. Oxford University Press, 1923. (*Mysterium tremendum et fascinans*, numinous experience)
+- Grimm, Jacob and Wilhelm. *The Complete Grimms' Fairy Tales*. Pantheon Books, 1972. (The Frog King/Golden Ball, The Fisherman and His Wife)
+- Religious and philosophical texts:
+  - *The Upanishads*. (Atman/Brahman, "Tat tvam asi")
+  - *The Bhagavad Gita*. (Self as Krishna, divine consciousness)
+  - *Tao Te Ching*, Lao Tzu. (The Tao as ineffable Self)
+  - *The Bible*, John 10:30. ("I and the Father are one")
+  - *The Tibetan Book of the Dead* (Bardo Thodol). (Dharmakaya, Buddha-nature)
+  - Alchemical texts: *Rosarium Philosophorum*, *Turba Philosophorum*, Paracelsus. (Philosopher's Stone, Lapis, Opus Magnum)
+- von Franz, Marie-Louise. *Alchemy: An Introduction to the Symbolism and the Psychology*. Inner City Books, 1980. (Alchemical stages and Self symbolism)
+
+## Shadow Dynamics
+**How does the Self manifest differently in men vs. women?**
+
+The Self, as the **archetype of totality**, is inherently **androgynous** or **hermaphroditic**—it unites the masculine and feminine principles. However, its **realization** in individual lives is colored by gender and culture.
+
+**In Men:**
+- The Self often appears in dreams as a **Wise Old Man** (Senex) or a **King**—figures of authority, wisdom, and spirit. Examples: Merlin, Odin, the Pope, the Emperor.
+- The **Anima** (feminine soul-image) acts as the **bridge to the Self**. Without integrating the Anima (eros, feeling, relatedness), men remain stuck in the ego and cannot access the Self.
+- **Inflation danger:** Men may inflate into the **"God-almighty"** archetype—the guru, the prophet, the savior. This is ego-Self identification.
+- **Integration:** Men must surrender the **Heroic ego** and accept guidance from the feminine (Anima) to reach the Self.
+
+**In Women:**
+- The Self often appears in dreams as a **Wise Old Woman** (Crone) or a **Queen**—figures of sovereignty, intuition, and embodied wisdom. Examples: Hecate, Sophia, the High Priestess.
+- The **Animus** (masculine soul-image) acts as the **bridge to the Self**. Without integrating the Animus (logos, meaning, creative power), women remain caught in emotional reactivity and cannot access the Self.
+- **Inflation danger:** Women may inflate into the **"Divine Mother"** or **"Goddess"** archetype—believing they possess ultimate wisdom or spiritual superiority. This is ego-Self identification.
+- **Integration:** Women must claim their **inner authority** (Animus) while remaining grounded in the body (matter) to reach the Self.
+
+**Non-Binary and Transcendent Expressions:**
+The Self, as the **union of opposites**, inherently transcends binary gender categories. Figures like **Abraxas** (Gnostic deity with both light and dark, male and female attributes) or the **Hermaphrodite** (alchemical symbol of the *coniunctio*) represent the Self in its fullness.

@@ -117,6 +117,23 @@ Recovery from Corruption requires more than correction—it demands **complete r
 
 ---
 
+## Cross-References
+- [[House of the Land]] - The domain of embodied foundation and material grounding
+- [[Gate 50 - The Cauldron]] - Values and custodianship (Spleen)
+- [[Hexagram 50]] - The Cauldron (I-Ching)
+- [[Gene Key 50]] - Corruption → Equilibrium → Harmony
+- [[Integrity]] - Gate 18 in House of the Land (opposite pole and what prevents corruption)
+- [[Stability]] - Gate 20 in House of the Land (foundation that corruption degrades)
+- [[Confidence]] - Gate 8 in House of the Land (authentic contribution vs. contaminated offering)
+- [[Insecurity]] - Gate 48 shadow in House of the Land (precedes corruption)
+- [[Fragility]] - Gate 57 shadow in House of the Land (compounds decay)
+- [[Spleen Center]] - Instinctual values and protective awareness
+- [[Tribal Ego Circuit]] - Defense, loyalty, and custodial responsibility
+- [[13 - Death]] - Tarot's necessary ending and transformation of the corrupted
+- [[15 - The Devil]] - Tarot's bondage to degraded values
+- [[Pluto ♇]] - Transformation through confrontation with decay
+- [[Scorpio ♏]] - The shadow of buried corruption and necessary purging
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -136,21 +153,3 @@ Recovery from Corruption requires more than correction—it demands **complete r
 
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
-
-## Cross-References
-- [[House of the Land]] - The domain of embodied foundation and material grounding
-- [[Gate 50 - The Cauldron]] - Values and custodianship (Spleen)
-- [[Hexagram 50]] - The Cauldron (I-Ching)
-- [[Gene Key 50]] - Corruption → Equilibrium → Harmony
-- [[Integrity]] - Gate 18 in House of the Land (opposite pole and what prevents corruption)
-- [[Stability]] - Gate 20 in House of the Land (foundation that corruption degrades)
-- [[Confidence]] - Gate 8 in House of the Land (authentic contribution vs. contaminated offering)
-- [[Insecurity]] - Gate 48 shadow in House of the Land (precedes corruption)
-- [[Fragility]] - Gate 57 shadow in House of the Land (compounds decay)
-- [[Spleen Center]] - Instinctual values and protective awareness
-- [[Tribal Ego Circuit]] - Defense, loyalty, and custodial responsibility
-- [[13 - Death]] - Tarot's necessary ending and transformation of the corrupted
-- [[15 - The Devil]] - Tarot's bondage to degraded values
-- [[Pluto ♇]] - Transformation through confrontation with decay
-- [[Scorpio ♏]] - The shadow of buried corruption and necessary purging
-

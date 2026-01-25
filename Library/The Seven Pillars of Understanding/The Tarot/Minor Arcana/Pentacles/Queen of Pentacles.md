@@ -157,21 +157,6 @@ The Queen of Pentacles holds the paradox of *abundance through flow*. She does n
 The teaching: Hoarding creates scarcity. Generosity creates abundance. When you tend with love and share with open hands, you become a *channel* for prosperity rather than a dam that blocks it. The Queen who opens her home finds her home filled. The Queen who shares her harvest finds the garden yields more.
 ---
 
-## Sources
-### Primary Sources (Uploaded to Esoteric Grimoire)
-
-- Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
-- Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983.
-
-### Secondary Sources (Referenced via Primary Sources)
-
-- Crowley, Aleister. *The Book of Thoth*. New York: Samuel Weiser, Inc., 1974. (Originally published in *The Equinox*, Vol. III, No. V, 1944) — Referenced via Wang 1983
-
-### Vibology Synthesis Notes
-
-Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
----
-
 ## Cross-References
 ### Adjacent Cards in Suit
 - [[Knight of Pentacles]] - Sustained effort manifests as nurturing abundance
@@ -214,3 +199,18 @@ Interpretive commentary sections (RWS symbolism analysis, synthesis notes, perso
 
 ---
 *"The Queen who sits in the garden does not count her coins—she watches what grows, and shares the harvest."*
+
+## Sources
+### Primary Sources (Uploaded to Esoteric Grimoire)
+
+- Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
+- Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983.
+
+### Secondary Sources (Referenced via Primary Sources)
+
+- Crowley, Aleister. *The Book of Thoth*. New York: Samuel Weiser, Inc., 1974. (Originally published in *The Equinox*, Vol. III, No. V, 1944) — Referenced via Wang 1983
+
+### Vibology Synthesis Notes
+
+Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
+---

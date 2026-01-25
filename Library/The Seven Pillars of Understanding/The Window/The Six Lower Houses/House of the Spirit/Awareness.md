@@ -119,6 +119,21 @@ The practice is presence: **sustain the pressure of not-knowing with patient awa
 
 ---
 
+## Cross-References
+- [[House of the Spirit]] - The domain of consciousness, soul health, inner divinity
+- [[Gate 64 - Before Completion]] - Mental pressure and confusion (Head Center)
+- [[Hexagram 64]] - Before Completion (I-Ching)
+- [[Gene Key 64]] - Confusion → Imagination → Illumination
+- [[Humility]] - Gate 2 in House of the Spirit (receptive orientation)
+- [[Service]] - Gate 17 in House of the Spirit (organized guidance)
+- [[Will]] - Gate 7 in House of the Spirit (virtuous leadership)
+- [[Apathy]] - Gate 56 shadow in House of the Spirit (scattered consciousness)
+- [[Head Center]] - Mental pressure and inspiration
+- [[Sensing Circuit]] - Collective experiential wisdom
+- [[2 - The High Priestess]] - Tarot correspondence to inner knowing
+- [[18 - The Moon]] - Tarot's imagination and uncertainty
+- [[Pisces ♓]] - Astrological receptivity and visionary perception
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -138,18 +153,3 @@ The practice is presence: **sustain the pressure of not-knowing with patient awa
 
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
-
-## Cross-References
-- [[House of the Spirit]] - The domain of consciousness, soul health, inner divinity
-- [[Gate 64 - Before Completion]] - Mental pressure and confusion (Head Center)
-- [[Hexagram 64]] - Before Completion (I-Ching)
-- [[Gene Key 64]] - Confusion → Imagination → Illumination
-- [[Humility]] - Gate 2 in House of the Spirit (receptive orientation)
-- [[Service]] - Gate 17 in House of the Spirit (organized guidance)
-- [[Will]] - Gate 7 in House of the Spirit (virtuous leadership)
-- [[Apathy]] - Gate 56 shadow in House of the Spirit (scattered consciousness)
-- [[Head Center]] - Mental pressure and inspiration
-- [[Sensing Circuit]] - Collective experiential wisdom
-- [[2 - The High Priestess]] - Tarot correspondence to inner knowing
-- [[18 - The Moon]] - Tarot's imagination and uncertainty
-- [[Pisces ♓]] - Astrological receptivity and visionary perception

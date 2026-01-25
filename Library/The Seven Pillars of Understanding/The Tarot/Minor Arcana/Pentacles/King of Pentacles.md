@@ -159,21 +159,6 @@ The King of Pentacles holds the paradox of *sovereignty through service*. The Ki
 The teaching: The King who hoards is not king at all—he is prisoner of his hoard. The King who builds is truly sovereign, because his power creates life rather than controlling it. When you use mastery to serve, your authority becomes real. When you use competence to build structures that benefit others, your wealth multiplies. Generative power creates more power. Extractive power eventually collapses.
 ---
 
-## Sources
-### Primary Sources (Uploaded to Esoteric Grimoire)
-
-- Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
-- Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983.
-
-### Secondary Sources (Referenced via Primary Sources)
-
-- Crowley, Aleister. *The Book of Thoth*. New York: Samuel Weiser, Inc., 1974. (Originally published in *The Equinox*, Vol. III, No. V, 1944) — Referenced via Wang 1983
-
-### Vibology Synthesis Notes
-
-Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
----
-
 ## Cross-References
 ### Adjacent Cards in Suit
 - [[Queen of Pentacles]] - Nurturing abundance matures into generative mastery
@@ -216,3 +201,18 @@ Interpretive commentary sections (RWS symbolism analysis, synthesis notes, perso
 
 ---
 *"The king who builds a kingdom that outlasts him is wealthier than the emperor who hoards gold that will be scattered when he dies."*
+
+## Sources
+### Primary Sources (Uploaded to Esoteric Grimoire)
+
+- Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
+- Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983.
+
+### Secondary Sources (Referenced via Primary Sources)
+
+- Crowley, Aleister. *The Book of Thoth*. New York: Samuel Weiser, Inc., 1974. (Originally published in *The Equinox*, Vol. III, No. V, 1944) — Referenced via Wang 1983
+
+### Vibology Synthesis Notes
+
+Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
+---

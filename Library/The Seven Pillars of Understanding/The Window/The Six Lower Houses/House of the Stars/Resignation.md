@@ -118,6 +118,20 @@ The practice is continuation: **take one more step**. Not heroic transformation 
 
 ---
 
+## Cross-References
+- [[House of the Stars]] - The domain of mastery and material excellence
+- [[Gate 09 - The Taming Power of the Small]] - Focus and determination (Sacral)
+- [[Hexagram 9]] - The Taming Power of the Small (I-Ching)
+- [[Gene Key 9]] - Inertia → Determination → Invincibility
+- [[Perseverance]] - Gate 38 in House of the Stars (direct antidote)
+- [[Excellence]] - Gate 14 in House of the Stars (what resignation abandons)
+- [[Vision]] - Gate 1 in House of the Stars (purpose that defeats resignation)
+- [[Pride]] - Gate 10 shadow in House of the Stars (parallel shadow)
+- [[Stagnation]] - Gate 12 shadow in House of the Stars (parallel shadow)
+- [[Sacral Center]] - Life force and sustained effort
+- [[Five of Cups]] - Tarot correspondence to mourning before the journey is complete
+- [[4 - The Emperor]] - Tarot's structured will (reversed: collapsed authority)
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -137,17 +151,3 @@ The practice is continuation: **take one more step**. Not heroic transformation 
 
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
-
-## Cross-References
-- [[House of the Stars]] - The domain of mastery and material excellence
-- [[Gate 09 - The Taming Power of the Small]] - Focus and determination (Sacral)
-- [[Hexagram 9]] - The Taming Power of the Small (I-Ching)
-- [[Gene Key 9]] - Inertia → Determination → Invincibility
-- [[Perseverance]] - Gate 38 in House of the Stars (direct antidote)
-- [[Excellence]] - Gate 14 in House of the Stars (what resignation abandons)
-- [[Vision]] - Gate 1 in House of the Stars (purpose that defeats resignation)
-- [[Pride]] - Gate 10 shadow in House of the Stars (parallel shadow)
-- [[Stagnation]] - Gate 12 shadow in House of the Stars (parallel shadow)
-- [[Sacral Center]] - Life force and sustained effort
-- [[Five of Cups]] - Tarot correspondence to mourning before the journey is complete
-- [[4 - The Emperor]] - Tarot's structured will (reversed: collapsed authority)

@@ -303,14 +303,6 @@ The Signature of the G Center (for all gates within it) is **Love and Direction*
 
 Gate 46 teaches that **the body is sacred**. When the individual honors their love of physical form—inhabiting the body with delight, trusting serendipity, releasing control—they become a **living example** of embodied spirituality. This is the essence of the Collective Understanding Circuit—to demonstrate through lived experience that presence creates synchronicity.
 
-## Sources
-
-- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
-- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
-- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
-
----
-
 ## Cross-References
 
 ### Sequential Connections (Within G Center Gates)
@@ -364,3 +356,11 @@ Gate 46 teaches that **the body is sacred**. When the individual honors their lo
 ---
 
 *"The body is not a prison—it is a temple. When loved fully, it becomes the gateway to serendipity, guiding us to be exactly where we need to be."*
+
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---

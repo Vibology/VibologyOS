@@ -106,6 +106,20 @@ When The Idol appears in a reading, the querent is being tested: will you claim 
 
 ---
 
+## Cross-References
+- [[The Muse]] - Feminine soul-image vs masculine spirit-force
+- [[The Hero]] - Power in action vs authority through pattern
+- [[The Alchemist]] - Integration of Muse and Idol
+- [[The Persona]] - Constructed mask vs integrated leadership
+- [[Personal Mythos/Jungian Archetypes/The Animus]] - Jungian framework for spirit-image
+- [[Personal Mythos/Individuation Process/Encounter with Anima-Animus]] - The integration stage
+- [[Gate 31 - Influence]] - Human Design gate mechanics
+- [[Hexagram 31]] - I-Ching hexagram
+- [[Gene Key 31]] - Arrogance → Leadership → Humility
+- [[Capricorn ♑]] - Astrological ambition and mastery
+- [[4 - The Emperor]] - Tarot correspondence to masculine authority
+- [[11 - Justice]] - Tarot's balanced discernment
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -125,17 +139,3 @@ When The Idol appears in a reading, the querent is being tested: will you claim 
 
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
-
-## Cross-References
-- [[The Muse]] - Feminine soul-image vs masculine spirit-force
-- [[The Hero]] - Power in action vs authority through pattern
-- [[The Alchemist]] - Integration of Muse and Idol
-- [[The Persona]] - Constructed mask vs integrated leadership
-- [[Personal Mythos/Jungian Archetypes/The Animus]] - Jungian framework for spirit-image
-- [[Personal Mythos/Individuation Process/Encounter with Anima-Animus]] - The integration stage
-- [[Gate 31 - Influence]] - Human Design gate mechanics
-- [[Hexagram 31]] - I-Ching hexagram
-- [[Gene Key 31]] - Arrogance → Leadership → Humility
-- [[Capricorn ♑]] - Astrological ambition and mastery
-- [[4 - The Emperor]] - Tarot correspondence to masculine authority
-- [[11 - Justice]] - Tarot's balanced discernment

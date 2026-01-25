@@ -197,6 +197,18 @@ The gift of integration: **Standing in your own light without apology—and with
 
 ---
 
+## Cross-References
+- **Adjacent Major Arcana**: [[18 - The Moon]] ← → [[20 - Judgement]]
+- **Planetary**: [[The Sun]]
+- **Path**: [[Path 30 - Hod to Yesod]]
+- **Hebrew Letter**: [[Resh]]
+- **Thematic Groupings**: [[The Solar Path]] | [[Integration and Wholeness]] | [[Return to Innocence]]
+- **Cross-References**: [[Apollo]], [[Ra]], [[Helios]], [[Folklore/Jungian Archetypes/The Divine Child]], [[Alchemical Gold]], [[The Fool]]
+
+---
+
+*"The Sun does not earn its light. It is light—and in being light, it gives permission for all else to shine."*
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -211,15 +223,3 @@ The gift of integration: **Standing in your own light without apology—and with
 
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
-
-## Cross-References
-- **Adjacent Major Arcana**: [[18 - The Moon]] ← → [[20 - Judgement]]
-- **Planetary**: [[The Sun]]
-- **Path**: [[Path 30 - Hod to Yesod]]
-- **Hebrew Letter**: [[Resh]]
-- **Thematic Groupings**: [[The Solar Path]] | [[Integration and Wholeness]] | [[Return to Innocence]]
-- **Cross-References**: [[Apollo]], [[Ra]], [[Helios]], [[Folklore/Jungian Archetypes/The Divine Child]], [[Alchemical Gold]], [[The Fool]]
-
----
-
-*"The Sun does not earn its light. It is light—and in being light, it gives permission for all else to shine."*

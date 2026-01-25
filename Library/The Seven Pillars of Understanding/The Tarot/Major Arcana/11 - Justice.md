@@ -158,6 +158,19 @@ TBD
 
 ---
 
+## Cross-References
+- [[0 - The Fool]] - The ox that Lamed's goad directs
+- [[10 - Wheel of Fortune]] - The karmic law Justice enacts
+- [[20 - Judgement]] - The final weighing after the journey
+- [[Lamed - Hebrew Letters in Tarot]]
+- [[Kabbalistic Paths - Geburah to Tiphareth]]
+- [[Libra and Venus in Esoteric Systems]]
+- [[Maat - Egyptian Justice Goddess]]
+- [[Karma and Cosmic Law]]
+- [[The Faithful Intelligence]]
+
+---
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -171,17 +184,4 @@ TBD
 ### Vibology Synthesis Notes
 
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
----
-
-## Cross-References
-- [[0 - The Fool]] - The ox that Lamed's goad directs
-- [[10 - Wheel of Fortune]] - The karmic law Justice enacts
-- [[20 - Judgement]] - The final weighing after the journey
-- [[Lamed - Hebrew Letters in Tarot]]
-- [[Kabbalistic Paths - Geburah to Tiphareth]]
-- [[Libra and Venus in Esoteric Systems]]
-- [[Maat - Egyptian Justice Goddess]]
-- [[Karma and Cosmic Law]]
-- [[The Faithful Intelligence]]
-
 ---

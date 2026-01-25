@@ -303,14 +303,6 @@ The Signature of operating correctly through Strategy and Authority (for mental 
 
 Gate 24 teaches that **true understanding requires patience and trust in mental cycles**. When the individual honors their Strategy and Authority, allows thinking to return naturally, and receives insights without forcing them, they become a **living example** of contemplative wisdom. This is the essence of the Individual Knowing Circuit—to transform through internal process and share understanding when it is complete.
 
-## Sources
-
-- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
-- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
-- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
-
----
-
 ## Cross-References
 
 ### Sequential Connections (Within Ajna Gates)
@@ -367,3 +359,11 @@ Gate 24 teaches that **true understanding requires patience and trust in mental 
 ---
 
 *"True understanding cannot be forced—it returns naturally when the mind has cycled enough to create space for the gift of knowing."*
+
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---

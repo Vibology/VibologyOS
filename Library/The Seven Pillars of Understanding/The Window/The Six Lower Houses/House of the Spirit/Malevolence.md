@@ -118,6 +118,22 @@ The practice is ethics: **reorient your precision toward service**. Not less kno
 
 ---
 
+## Cross-References
+- [[House of the Spirit]] - The domain of consciousness, soul health, inner divinity
+- [[Gate 62 - Preponderance of the Small]] - Detailed articulation (Throat Center)
+- [[Hexagram 62]] - Preponderance of the Small (I-Ching)
+- [[Gene Key 62]] - Intellect → Precision → Impeccability
+- [[Awareness]] - Gate 64 in House of the Spirit (illuminating consciousness)
+- [[Service]] - Gate 17 in House of the Spirit (ethical organization)
+- [[Will]] - Gate 7 in House of the Spirit (virtuous guidance)
+- [[Apathy]] - Gate 56 shadow in House of the Spirit (parallel shadow)
+- [[Domination]] - Gate 45 shadow in House of the Spirit (parallel shadow)
+- [[Throat Center]] - Expression and manifestation
+- [[Logic Circuit]] - Collective pattern recognition
+- [[8 - Strength]] - Tarot's ethical power (reversed: cruelty)
+- [[15 - The Devil]] - Tarot's bondage through corrupted knowledge
+- [[Scorpio ♏]] - Astrological depth that can heal or destroy
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -137,19 +153,3 @@ The practice is ethics: **reorient your precision toward service**. Not less kno
 
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
-
-## Cross-References
-- [[House of the Spirit]] - The domain of consciousness, soul health, inner divinity
-- [[Gate 62 - Preponderance of the Small]] - Detailed articulation (Throat Center)
-- [[Hexagram 62]] - Preponderance of the Small (I-Ching)
-- [[Gene Key 62]] - Intellect → Precision → Impeccability
-- [[Awareness]] - Gate 64 in House of the Spirit (illuminating consciousness)
-- [[Service]] - Gate 17 in House of the Spirit (ethical organization)
-- [[Will]] - Gate 7 in House of the Spirit (virtuous guidance)
-- [[Apathy]] - Gate 56 shadow in House of the Spirit (parallel shadow)
-- [[Domination]] - Gate 45 shadow in House of the Spirit (parallel shadow)
-- [[Throat Center]] - Expression and manifestation
-- [[Logic Circuit]] - Collective pattern recognition
-- [[8 - Strength]] - Tarot's ethical power (reversed: cruelty)
-- [[15 - The Devil]] - Tarot's bondage through corrupted knowledge
-- [[Scorpio ♏]] - Astrological depth that can heal or destroy

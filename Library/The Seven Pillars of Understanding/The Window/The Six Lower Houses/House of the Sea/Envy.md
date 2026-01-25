@@ -116,6 +116,22 @@ The antidote to Envy is **Gratitude**—returning to appreciation for your actua
 
 ---
 
+## Cross-References
+- [[House of the Sea]] - The domain of emotional depth and relational encounter
+- [[Gate 54 - The Marrying Maiden]] - Drive and ambition (Root)
+- [[Hexagram 54]] - The Marrying Maiden (I-Ching)
+- [[Gene Key 54]] - Greed → Aspiration → Ascension
+- [[Heartbreak]] - Gate 36 shadow in House of the Sea (compounds envy)
+- [[Rage]] - Gate 6 shadow in House of the Sea (fuels envy)
+- [[Gratitude]] - Gate 22 in House of the Sea (antidote)
+- [[Longing]] - Gate 19 in House of the Sea (authentic vs comparative desire)
+- [[Root Center]] - Pressure and ambition
+- [[Tribal Ego Circuit]] - Status and hierarchical positioning
+- [[7 of Cups]] - Tarot's illusory desires and comparative fantasy
+- [[15 - The Devil]] - Tarot's bondage to material/emotional acquisition
+- [[Saturn ♄]] - Scarcity thinking and comparative measurement
+- [[Capricorn ♑]] - Shadow ambition and status-seeking through comparison
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -135,20 +151,3 @@ The antidote to Envy is **Gratitude**—returning to appreciation for your actua
 
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
-
-## Cross-References
-- [[House of the Sea]] - The domain of emotional depth and relational encounter
-- [[Gate 54 - The Marrying Maiden]] - Drive and ambition (Root)
-- [[Hexagram 54]] - The Marrying Maiden (I-Ching)
-- [[Gene Key 54]] - Greed → Aspiration → Ascension
-- [[Heartbreak]] - Gate 36 shadow in House of the Sea (compounds envy)
-- [[Rage]] - Gate 6 shadow in House of the Sea (fuels envy)
-- [[Gratitude]] - Gate 22 in House of the Sea (antidote)
-- [[Longing]] - Gate 19 in House of the Sea (authentic vs comparative desire)
-- [[Root Center]] - Pressure and ambition
-- [[Tribal Ego Circuit]] - Status and hierarchical positioning
-- [[7 of Cups]] - Tarot's illusory desires and comparative fantasy
-- [[15 - The Devil]] - Tarot's bondage to material/emotional acquisition
-- [[Saturn ♄]] - Scarcity thinking and comparative measurement
-- [[Capricorn ♑]] - Shadow ambition and status-seeking through comparison
-

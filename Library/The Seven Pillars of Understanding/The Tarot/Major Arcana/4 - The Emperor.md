@@ -153,6 +153,19 @@ TBD
 
 ---
 
+## Cross-References
+- [[0 - The Fool]] - The wanderer who must learn to rule
+- [[3 - The Empress]] - His consort and source of creative power
+- [[5 - The Hierophant]] - The spiritual authority complementing temporal power
+- [[Heh - Hebrew Letters in Tarot]]
+- [[Kabbalistic Paths - Chokmah to Tiphareth]]
+- [[Aries and Mars in Esoteric Systems]]
+- [[The Animus Archetype]]
+- [[Cards of Authority and Structure]]
+- [[The Sacred Kingship]]
+
+---
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -166,17 +179,4 @@ TBD
 ### Vibology Synthesis Notes
 
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
----
-
-## Cross-References
-- [[0 - The Fool]] - The wanderer who must learn to rule
-- [[3 - The Empress]] - His consort and source of creative power
-- [[5 - The Hierophant]] - The spiritual authority complementing temporal power
-- [[Heh - Hebrew Letters in Tarot]]
-- [[Kabbalistic Paths - Chokmah to Tiphareth]]
-- [[Aries and Mars in Esoteric Systems]]
-- [[The Animus Archetype]]
-- [[Cards of Authority and Structure]]
-- [[The Sacred Kingship]]
-
 ---

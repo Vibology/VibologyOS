@@ -214,6 +214,19 @@ The gift of integration: **Faith as openness**. The integrated Star recognizes t
 
 ---
 
+## Cross-References
+- **Adjacent Major Arcana**: [[16 - The Tower]] ← → [[18 - The Moon]]
+- **Element/Modality**: [[Aquarius ♒]] | [[Fixed Air]]
+- **Planetary**: [[Saturn ♄]] (traditional ruler) | [[Uranus ♅]] (modern ruler) | [[Venus ♀]] (as the Star itself)
+- **Path**: [[Path 28 - Netzach to Yesod]]
+- **Hebrew Letter**: [[Tzaddi]]
+- **Thematic Groupings**: [[Hope and Renewal]] | [[Post-Traumatic Growth]] | [[The Waters of Life]]
+- **Cross-References**: [[Lucifer]], [[Pandora]], [[Isis]], [[Aquarius the Water-Bearer]], [[Creative Imagination]]
+
+---
+
+*"The Star does not promise that suffering will end. She promises that meaning can be found within it—and that you have the resources to begin again."*
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -228,16 +241,3 @@ The gift of integration: **Faith as openness**. The integrated Star recognizes t
 
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
-
-## Cross-References
-- **Adjacent Major Arcana**: [[16 - The Tower]] ← → [[18 - The Moon]]
-- **Element/Modality**: [[Aquarius ♒]] | [[Fixed Air]]
-- **Planetary**: [[Saturn ♄]] (traditional ruler) | [[Uranus ♅]] (modern ruler) | [[Venus ♀]] (as the Star itself)
-- **Path**: [[Path 28 - Netzach to Yesod]]
-- **Hebrew Letter**: [[Tzaddi]]
-- **Thematic Groupings**: [[Hope and Renewal]] | [[Post-Traumatic Growth]] | [[The Waters of Life]]
-- **Cross-References**: [[Lucifer]], [[Pandora]], [[Isis]], [[Aquarius the Water-Bearer]], [[Creative Imagination]]
-
----
-
-*"The Star does not promise that suffering will end. She promises that meaning can be found within it—and that you have the resources to begin again."*

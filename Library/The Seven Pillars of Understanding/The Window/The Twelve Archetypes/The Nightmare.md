@@ -100,6 +100,20 @@ In Jung's work and in Campbell's Hero's Journey framework, the Threshold Guardia
 
 When The Nightmare appears in a reading, the querent is being tested: will you recognize obstruction as teacher? Will you turn inward rather than force through? Will you use provocation as catalyst for dynamism? The gatekeeper knows: **the threshold opens to those who demonstrate readiness, not to those who demand passage**. Do the work. Face the shadow. Earn your crossing.
 
+## Cross-References
+- [[The Hero]] - Journey tested by guardian
+- [[The Shape]] - Shadow patterns guarding threshold
+- [[The Alchemist]] - Integration that allows passage
+- [[The Joker]] - Chaos vs purposeful provocation
+- [[Personal Mythos/Jungian Archetypes/The Threshold Guardian]] - Jungian framework for gatekeepers
+- [[Personal Mythos/Hero's Journey/Crossing the First Threshold]] - The narrative moment
+- [[Gate 39 - Obstruction]] - Human Design gate mechanics
+- [[Hexagram 39]] - I-Ching hexagram
+- [[Gene Key 39]] - Provocation → Dynamism → Liberation
+- [[Pisces ♓]] - Astrological mystic and dissolver
+- [[12 - The Hanged Man]] - Tarot correspondence to surrender at threshold
+- [[15 - The Devil]] - Tarot's shadow guardian
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -119,17 +133,3 @@ When The Nightmare appears in a reading, the querent is being tested: will you r
 
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
-
-## Cross-References
-- [[The Hero]] - Journey tested by guardian
-- [[The Shape]] - Shadow patterns guarding threshold
-- [[The Alchemist]] - Integration that allows passage
-- [[The Joker]] - Chaos vs purposeful provocation
-- [[Personal Mythos/Jungian Archetypes/The Threshold Guardian]] - Jungian framework for gatekeepers
-- [[Personal Mythos/Hero's Journey/Crossing the First Threshold]] - The narrative moment
-- [[Gate 39 - Obstruction]] - Human Design gate mechanics
-- [[Hexagram 39]] - I-Ching hexagram
-- [[Gene Key 39]] - Provocation → Dynamism → Liberation
-- [[Pisces ♓]] - Astrological mystic and dissolver
-- [[12 - The Hanged Man]] - Tarot correspondence to surrender at threshold
-- [[15 - The Devil]] - Tarot's shadow guardian

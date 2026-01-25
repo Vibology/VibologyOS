@@ -303,14 +303,6 @@ The Signature of the Ajna Center (for all gates within it) is **Mental Clarity a
 
 Gate 47 teaches that **mental pressure is sacred**. When the individual honors their need to contemplate—holding questions without demanding immediate answers, trusting realization will come—they become a **living example** of mental alchemy. This is the essence of the Collective Understanding Circuit—to transform confusion into clarity for collective benefit.
 
-## Sources
-
-- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
-- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
-- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
-
----
-
 ## Cross-References
 
 ### Sequential Connections (Within Ajna Center Gates)
@@ -363,3 +355,11 @@ Gate 47 teaches that **mental pressure is sacred**. When the individual honors t
 ---
 
 *"Mental oppression is not punishment—it is the pressure that forges understanding. When held with patience, confusion transforms into clarity, and the mind becomes a vessel for realization."*
+
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---

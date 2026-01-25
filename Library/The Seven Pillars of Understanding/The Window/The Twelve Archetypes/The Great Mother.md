@@ -100,6 +100,20 @@ In Jung's work, The Great Mother archetype contains both the nurturing and the t
 
 When The Great Mother appears in a reading, the querent is being tested: will you fill your cup first? Will you defend what you nourish? Will you care only for those your Sacral responds to, or will you deplete yourself trying to feed everyone? The warrior-mother knows: sustainable caring requires fierce boundaries.
 
+## Cross-References
+- [[The Hero]] - Power in service to protection
+- [[The Divine Child]] - What the Great Mother protects
+- [[The Wise Man]] - Mentor who guides without consuming
+- [[The Alchemist]] - Integration of nurturing and devouring aspects
+- [[Personal Mythos/Jungian Archetypes/The Great Mother]] - Jungian framework for maternal archetype
+- [[Personal Mythos/Hero's Journey/Meeting the Mentor]] - The mother as first mentor
+- [[Gate 27 - Nourishment]] - Human Design gate mechanics
+- [[Hexagram 27]] - I-Ching hexagram
+- [[Gene Key 27]] - Selfishness → Altruism → Selflessness
+- [[Taurus ♉]] - Astrological sustainer and builder
+- [[3 - The Empress]] - Tarot correspondence to nurturing abundance
+- [[2 - The High Priestess]] - Tarot's receptive feminine wisdom
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -119,17 +133,3 @@ When The Great Mother appears in a reading, the querent is being tested: will yo
 
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
-
-## Cross-References
-- [[The Hero]] - Power in service to protection
-- [[The Divine Child]] - What the Great Mother protects
-- [[The Wise Man]] - Mentor who guides without consuming
-- [[The Alchemist]] - Integration of nurturing and devouring aspects
-- [[Personal Mythos/Jungian Archetypes/The Great Mother]] - Jungian framework for maternal archetype
-- [[Personal Mythos/Hero's Journey/Meeting the Mentor]] - The mother as first mentor
-- [[Gate 27 - Nourishment]] - Human Design gate mechanics
-- [[Hexagram 27]] - I-Ching hexagram
-- [[Gene Key 27]] - Selfishness → Altruism → Selflessness
-- [[Taurus ♉]] - Astrological sustainer and builder
-- [[3 - The Empress]] - Tarot correspondence to nurturing abundance
-- [[2 - The High Priestess]] - Tarot's receptive feminine wisdom

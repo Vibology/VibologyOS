@@ -305,14 +305,6 @@ The Signature of the Head Center (for all gates within it) is the experience of 
 
 Gate 61 teaches that **inner truth cannot be forced**. When the individual honors their pressure to know according to Strategy and Authority, they become a **living example** of what it means to sustain mystery without collapsing into anxiety, to receive inspiration without forcing answers, to trust inner knowing without demanding proof. This is the essence of the Individual Knowing stream—not to explain, but to **embody inspired truth**.
 
-## Sources
-
-- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
-- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
-- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
-
----
-
 ## Cross-References
 
 ### Sequential Connections (Within Head Center Gates)
@@ -367,3 +359,11 @@ Gate 61 teaches that **inner truth cannot be forced**. When the individual honor
 ---
 
 *"Mystery is sacred. The pressure to know is divine. Allow inspiration to arrive. Do not force what can only be received."*
+
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---

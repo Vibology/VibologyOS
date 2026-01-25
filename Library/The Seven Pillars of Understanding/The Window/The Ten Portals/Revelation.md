@@ -85,6 +85,16 @@ The Portal's teaching is **honor the retreat**: when experience demands processi
 
 When Revelation appears in a reading, the querent is being asked: what experience requires withdrawal to be understood? What truth will emerge only in privacy? Can you retreat with dignity, reflect mindfully, and trust that revelation will ripen in solitude? The prophet teaches: **wilderness gestate scripture**. The mystic demonstrates: **truth emerges from cave**. Retreat is not abandonment of the collective—it is the necessary privacy that allows individual memory to become collective wisdom. Withdraw. Reflect. Return when revelation is ready. The story you carry will illuminate what raw experience could never convey.
 
+## Cross-References
+- [[The Hermit]] - Solitary reflection and inner truth
+- [[The High Priestess]] - Hidden wisdom emerging
+- [[Gate 33 - Retreat]]
+- [[Gene Key 33 - Forgetting to Revelation]]
+- [[Hexagram 33 - Retreat]]
+- [[Throat Center]] - Expression and manifestation
+- [[Abstract Circuit]] - Experience and collective wisdom
+- [[Channel 13-33]] - The Prodigal
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -104,13 +114,3 @@ When Revelation appears in a reading, the querent is being asked: what experienc
 
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
-
-## Cross-References
-- [[The Hermit]] - Solitary reflection and inner truth
-- [[The High Priestess]] - Hidden wisdom emerging
-- [[Gate 33 - Retreat]]
-- [[Gene Key 33 - Forgetting to Revelation]]
-- [[Hexagram 33 - Retreat]]
-- [[Throat Center]] - Expression and manifestation
-- [[Abstract Circuit]] - Experience and collective wisdom
-- [[Channel 13-33]] - The Prodigal

@@ -126,6 +126,18 @@ TBD
 
 ---
 
+## Cross-References
+- [[0 - The Fool]] - The breath that becomes the word
+- [[2 - The High Priestess]] - The complementary path on the Pillar of Form
+- [[Beth - Hebrew Letters in Tarot]]
+- [[Kabbalistic Paths - Supernal Triangle]]
+- [[Mercury in Esoteric Systems]]
+- [[The Four Elemental Tools]]
+- [[Cards of Manifestation and Will]]
+- [[The Magician in Alchemy]]
+
+---
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -139,16 +151,4 @@ TBD
 ### Vibology Synthesis Notes
 
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
----
-
-## Cross-References
-- [[0 - The Fool]] - The breath that becomes the word
-- [[2 - The High Priestess]] - The complementary path on the Pillar of Form
-- [[Beth - Hebrew Letters in Tarot]]
-- [[Kabbalistic Paths - Supernal Triangle]]
-- [[Mercury in Esoteric Systems]]
-- [[The Four Elemental Tools]]
-- [[Cards of Manifestation and Will]]
-- [[The Magician in Alchemy]]
-
 ---

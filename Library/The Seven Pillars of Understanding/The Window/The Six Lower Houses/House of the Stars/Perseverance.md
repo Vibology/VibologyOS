@@ -119,6 +119,20 @@ The practice is endurance: **continue fighting for what matters with integrity**
 
 ---
 
+## Cross-References
+- [[House of the Stars]] - The domain of mastery and material excellence
+- [[Gate 38 - Opposition]] - Fighting spirit and struggle (Root)
+- [[Hexagram 38]] - Opposition (I-Ching)
+- [[Gene Key 38]] - Struggle → Perseverance → Honor
+- [[Excellence]] - Gate 14 in House of the Stars (competence to defend)
+- [[Discipline]] - Gate 60 in House of the Stars (constraint for focused fighting)
+- [[Vision]] - Gate 1 in House of the Stars (direction to fight for)
+- [[Resignation]] - Gate 9 shadow in House of the Stars (opposite pole)
+- [[Root Center]] - Pressure and drive to act
+- [[8 - Strength]] - Tarot correspondence to courage through challenge
+- [[5 - The Hierophant]] - Tarot's principled persistence
+- [[Mars ♂]] - Astrological warrior energy and drive
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -138,17 +152,3 @@ The practice is endurance: **continue fighting for what matters with integrity**
 
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
-
-## Cross-References
-- [[House of the Stars]] - The domain of mastery and material excellence
-- [[Gate 38 - Opposition]] - Fighting spirit and struggle (Root)
-- [[Hexagram 38]] - Opposition (I-Ching)
-- [[Gene Key 38]] - Struggle → Perseverance → Honor
-- [[Excellence]] - Gate 14 in House of the Stars (competence to defend)
-- [[Discipline]] - Gate 60 in House of the Stars (constraint for focused fighting)
-- [[Vision]] - Gate 1 in House of the Stars (direction to fight for)
-- [[Resignation]] - Gate 9 shadow in House of the Stars (opposite pole)
-- [[Root Center]] - Pressure and drive to act
-- [[8 - Strength]] - Tarot correspondence to courage through challenge
-- [[5 - The Hierophant]] - Tarot's principled persistence
-- [[Mars ♂]] - Astrological warrior energy and drive

@@ -167,6 +167,20 @@ TBD
 
 ---
 
+## Cross-References
+- [[0 - The Fool]] - The wanderer who must submit to teaching
+- [[1 - The Magician]] - The will that must be guided by wisdom
+- [[2 - The High Priestess]] - His esoteric complement, the inner mystery
+- [[6 - The Lovers]] - The choice his teaching presents
+- [[Vau - Hebrew Letters in Tarot]]
+- [[Kabbalistic Paths - Chokmah to Chesed]]
+- [[Taurus in Esoteric Systems]]
+- [[The Guru Archetype]]
+- [[Cards of Teaching and Tradition]]
+- [[Sacred Marriage and Alliance]]
+
+---
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -180,18 +194,4 @@ TBD
 ### Vibology Synthesis Notes
 
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
----
-
-## Cross-References
-- [[0 - The Fool]] - The wanderer who must submit to teaching
-- [[1 - The Magician]] - The will that must be guided by wisdom
-- [[2 - The High Priestess]] - His esoteric complement, the inner mystery
-- [[6 - The Lovers]] - The choice his teaching presents
-- [[Vau - Hebrew Letters in Tarot]]
-- [[Kabbalistic Paths - Chokmah to Chesed]]
-- [[Taurus in Esoteric Systems]]
-- [[The Guru Archetype]]
-- [[Cards of Teaching and Tradition]]
-- [[Sacred Marriage and Alliance]]
-
 ---

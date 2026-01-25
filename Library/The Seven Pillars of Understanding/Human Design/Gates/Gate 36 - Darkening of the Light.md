@@ -302,14 +302,6 @@ The Signature of the Solar Plexus Center is **emotional clarity over time**. For
 
 Gate 36 teaches that **darkness is not pathology—it is necessity**. When the individual honors the emotional wave and trusts the cycle, they become a **living example** of compassion forged in crisis.
 
-## Sources
-
-- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
-- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
-- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
-
----
-
 ## Cross-References
 
 ### Sequential Connections (Within Solar Plexus Gates)
@@ -372,3 +364,11 @@ Gate 36 teaches that **darkness is not pathology—it is necessity**. When the i
 ---
 
 *"The darkening of the light is not permanent—it is the necessary descent that makes compassion possible."*
+
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---

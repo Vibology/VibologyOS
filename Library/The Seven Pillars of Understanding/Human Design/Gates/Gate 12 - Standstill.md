@@ -301,14 +301,6 @@ The Signature of the Throat Center (for all gates within it) is the experience o
 
 Gate 12 teaches that **not all action is progress**. When the individual honors their need to articulate restraint, waits for correct timing, and expresses caution only when aligned with Strategy and Authority, they become a **living example** of what it means to honor natural cycles. This is the essence of the Individual Knowing Circuit—not to force momentum, but to **empower through authentic restraint**.
 
-## Sources
-
-- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
-- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
-- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
-
----
-
 ## Cross-References
 
 ### Sequential Connections (Within Throat Gates)
@@ -361,3 +353,11 @@ Gate 12 teaches that **not all action is progress**. When the individual honors 
 ---
 
 *"The sacred 'no' is not refusal—it is protection. The wise 'wait' is not stagnation—it is preparation."*
+
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---

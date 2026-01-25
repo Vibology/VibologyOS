@@ -834,19 +834,6 @@ Shinto cosmology maps the **individuation process** with precision:
 
 ---
 
-## Sources
-**Jungian Analytical Psychology:**
-- Jung, C.G. *The Archetypes and the Collective Unconscious* (CW 9i). Princeton University Press, 1959.
-- Jung, C.G. *Symbols of Transformation* (CW 5). Princeton University Press, 1956.
-
-**Primary Japanese Sources:**
-Core mythological narratives (cosmology, kami pantheon, and sacred cycles) are drawn from canonical Japanese sources including the *Kojiki* (Records of Ancient Matters), *Nihon Shoki* (Chronicles of Japan), and Shinto ritual traditions. These texts preserve Japan's indigenous mythology and inform the archetypal framework.
-
-**Vibrology Synthesis:**
-All Jungian archetypal analysis (interpreting Japanese myths through the lens of Shadow, Anima/Animus, Self, Individuation, etc.) represents scholarly synthesis rather than traditional Shinto understanding. Cross-system correspondences (Tarot, Astrology, Alchemy, Human Design, Qabalah) are Vibrology's integrative framework, not part of the original Shinto tradition. The alchemical correlations (Izanami's death as Nigredo, Amaterasu's return as Albedo) apply Western hermetic symbolism to Japanese narrative patterns.
-
----
-
 ## Cross-References
 
 ### Jungian Archetypes
@@ -949,3 +936,16 @@ All Jungian archetypal analysis (interpreting Japanese myths through the lens of
 *"In Shinto, the gods are not distant but near—in the waterfall, the ancient tree, the stone. The kami dwell where numinosity breaks through. To honor them is not worship but recognition: the sacred is always present, waiting to be seen."*
 
 — Motohisa Yamakage, *The Essence of Shinto*
+
+## Sources
+**Jungian Analytical Psychology:**
+- Jung, C.G. *The Archetypes and the Collective Unconscious* (CW 9i). Princeton University Press, 1959.
+- Jung, C.G. *Symbols of Transformation* (CW 5). Princeton University Press, 1956.
+
+**Primary Japanese Sources:**
+Core mythological narratives (cosmology, kami pantheon, and sacred cycles) are drawn from canonical Japanese sources including the *Kojiki* (Records of Ancient Matters), *Nihon Shoki* (Chronicles of Japan), and Shinto ritual traditions. These texts preserve Japan's indigenous mythology and inform the archetypal framework.
+
+**Vibrology Synthesis:**
+All Jungian archetypal analysis (interpreting Japanese myths through the lens of Shadow, Anima/Animus, Self, Individuation, etc.) represents scholarly synthesis rather than traditional Shinto understanding. Cross-system correspondences (Tarot, Astrology, Alchemy, Human Design, Qabalah) are Vibrology's integrative framework, not part of the original Shinto tradition. The alchemical correlations (Izanami's death as Nigredo, Amaterasu's return as Albedo) apply Western hermetic symbolism to Japanese narrative patterns.
+
+---

@@ -119,6 +119,22 @@ The practice is straightforward: **find the struggle worth your total commitment
 
 ---
 
+## Cross-References
+- [[House of the Flame]] - The domain of vital/instinctual action and movement
+- [[Gate 28 - Preponderance of the Great]] - The Game Player and meaningful struggle (Spleen)
+- [[Hexagram 28]] - Preponderance of the Great (I-Ching)
+- [[Gene Key 28]] - Purposelessness → Totality → Immortality
+- [[Courage]] - Gate 21 in House of the Flame (justified authority for adventure)
+- [[Passion]] - Gate 25 in House of the Flame (innocent love behind adventure)
+- [[Survival]] - Gate 26 in House of the Flame (strategic memory for adventure)
+- [[Recklessness]] - Gate 61 shadow in House of the Flame (action without wisdom)
+- [[Spleen Center]] - Instinctual awareness and survival wisdom
+- [[Knowing Circuit]] - Individual mutation through inspiration and risk
+- [[0 - The Fool]] - Tarot's leap into the unknown
+- [[7 - The Chariot]] - Tarot's willful engagement with challenge
+- [[Mars ♂]] - Warrior energy and willingness to fight
+- [[Sagittarius ♐]] - Astrological adventure and meaningful quest
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -138,19 +154,3 @@ The practice is straightforward: **find the struggle worth your total commitment
 
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
-
-## Cross-References
-- [[House of the Flame]] - The domain of vital/instinctual action and movement
-- [[Gate 28 - Preponderance of the Great]] - The Game Player and meaningful struggle (Spleen)
-- [[Hexagram 28]] - Preponderance of the Great (I-Ching)
-- [[Gene Key 28]] - Purposelessness → Totality → Immortality
-- [[Courage]] - Gate 21 in House of the Flame (justified authority for adventure)
-- [[Passion]] - Gate 25 in House of the Flame (innocent love behind adventure)
-- [[Survival]] - Gate 26 in House of the Flame (strategic memory for adventure)
-- [[Recklessness]] - Gate 61 shadow in House of the Flame (action without wisdom)
-- [[Spleen Center]] - Instinctual awareness and survival wisdom
-- [[Knowing Circuit]] - Individual mutation through inspiration and risk
-- [[0 - The Fool]] - Tarot's leap into the unknown
-- [[7 - The Chariot]] - Tarot's willful engagement with challenge
-- [[Mars ♂]] - Warrior energy and willingness to fight
-- [[Sagittarius ♐]] - Astrological adventure and meaningful quest

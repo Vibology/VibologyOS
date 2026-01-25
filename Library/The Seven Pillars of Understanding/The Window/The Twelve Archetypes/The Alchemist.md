@@ -100,6 +100,20 @@ In the Window's archetype system, The Alchemist stands as the destination toward
 
 When The Alchemist appears in a reading, the querent is being tested: will you trust the insight breaking through? Will you become what has never been? Will you integrate opposites others keep separate? The individuated Alchemist knows: **the lake risen above heaven must pour forth**. Breakthrough cannot be contained. Totality will not be denied.
 
+## Cross-References
+- [[The Persona]] - Constructed mask vs integrated totality
+- [[The Muse]] - Soul-image integrated into Alchemist
+- [[The Idol]] - Spirit-force integrated into Alchemist
+- [[The Shape]] - Shadow integrated into Alchemist
+- [[Personal Mythos/Jungian Archetypes/The Self]] - Jungian framework for totality
+- [[Personal Mythos/Individuation Process/Confrontation with the Self]] - The ultimate stage
+- [[Gate 43 - Breakthrough]] - Human Design gate mechanics
+- [[Hexagram 43]] - I-Ching hexagram
+- [[Gene Key 43]] - Deafness → Insight → Epiphany
+- [[Aquarius ♒]] - Astrological revolutionary and visionary
+- [[21 - The World]] - Tarot correspondence to completion and integration
+- [[10 - Wheel of Fortune]] - Tarot's cycles of becoming
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -119,17 +133,3 @@ When The Alchemist appears in a reading, the querent is being tested: will you t
 
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
-
-## Cross-References
-- [[The Persona]] - Constructed mask vs integrated totality
-- [[The Muse]] - Soul-image integrated into Alchemist
-- [[The Idol]] - Spirit-force integrated into Alchemist
-- [[The Shape]] - Shadow integrated into Alchemist
-- [[Personal Mythos/Jungian Archetypes/The Self]] - Jungian framework for totality
-- [[Personal Mythos/Individuation Process/Confrontation with the Self]] - The ultimate stage
-- [[Gate 43 - Breakthrough]] - Human Design gate mechanics
-- [[Hexagram 43]] - I-Ching hexagram
-- [[Gene Key 43]] - Deafness → Insight → Epiphany
-- [[Aquarius ♒]] - Astrological revolutionary and visionary
-- [[21 - The World]] - Tarot correspondence to completion and integration
-- [[10 - Wheel of Fortune]] - Tarot's cycles of becoming

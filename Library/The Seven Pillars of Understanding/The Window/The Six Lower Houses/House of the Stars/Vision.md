@@ -119,6 +119,20 @@ The practice is clarification: **see what you specifically are here to contribut
 
 ---
 
+## Cross-References
+- [[House of the Stars]] - The domain of mastery and material excellence
+- [[Gate 01 - The Creative]] - Creative force and direction (G Center)
+- [[Hexagram 1]] - The Creative (I-Ching)
+- [[Gene Key 1]] - Entropy → Freshness → Beauty
+- [[Excellence]] - Gate 14 in House of the Stars (competence to direct)
+- [[Discipline]] - Gate 60 in House of the Stars (structure for vision)
+- [[Perseverance]] - Gate 38 in House of the Stars (endurance toward vision)
+- [[Stagnation]] - Gate 12 shadow in House of the Stars (opposite pole)
+- [[G Center]] - Identity and direction
+- [[17 - The Star]] - Tarot correspondence to guiding vision
+- [[21 - The World]] - Tarot's completion of creative journey
+- [[Leo ♌]] - Astrological creative expression and self-realization
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -138,17 +152,3 @@ The practice is clarification: **see what you specifically are here to contribut
 
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
-
-## Cross-References
-- [[House of the Stars]] - The domain of mastery and material excellence
-- [[Gate 01 - The Creative]] - Creative force and direction (G Center)
-- [[Hexagram 1]] - The Creative (I-Ching)
-- [[Gene Key 1]] - Entropy → Freshness → Beauty
-- [[Excellence]] - Gate 14 in House of the Stars (competence to direct)
-- [[Discipline]] - Gate 60 in House of the Stars (structure for vision)
-- [[Perseverance]] - Gate 38 in House of the Stars (endurance toward vision)
-- [[Stagnation]] - Gate 12 shadow in House of the Stars (opposite pole)
-- [[G Center]] - Identity and direction
-- [[17 - The Star]] - Tarot correspondence to guiding vision
-- [[21 - The World]] - Tarot's completion of creative journey
-- [[Leo ♌]] - Astrological creative expression and self-realization

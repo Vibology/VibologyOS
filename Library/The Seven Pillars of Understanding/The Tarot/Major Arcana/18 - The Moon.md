@@ -214,6 +214,19 @@ The Moon is also the recognition that **not all knowledge is conscious**. The bo
 
 ---
 
+## Cross-References
+- **Adjacent Major Arcana**: [[17 - The Star]] ← → [[19 - The Sun]]
+- **Element/Modality**: [[Pisces ♓]] | [[Mutable Water]]
+- **Planetary**: [[Jupiter ♃]] (traditional ruler) | [[Neptune ♆]] (modern ruler)
+- **Path**: [[Path 29 - Netzach to Malkuth]]
+- **Hebrew Letter**: [[Qoph]]
+- **Thematic Groupings**: [[The Unconscious]] | [[The Dark Night]] | [[Illusion and Projection]]
+- **Cross-References**: [[Anubis]], [[Kephera]], [[Hecate]], [[Artemis]], [[The High Priestess]]
+
+---
+
+*"The Moon does not create illusion. She reveals the illusions you already carry—and forces you to walk through them."*
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -228,16 +241,3 @@ The Moon is also the recognition that **not all knowledge is conscious**. The bo
 
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
-
-## Cross-References
-- **Adjacent Major Arcana**: [[17 - The Star]] ← → [[19 - The Sun]]
-- **Element/Modality**: [[Pisces ♓]] | [[Mutable Water]]
-- **Planetary**: [[Jupiter ♃]] (traditional ruler) | [[Neptune ♆]] (modern ruler)
-- **Path**: [[Path 29 - Netzach to Malkuth]]
-- **Hebrew Letter**: [[Qoph]]
-- **Thematic Groupings**: [[The Unconscious]] | [[The Dark Night]] | [[Illusion and Projection]]
-- **Cross-References**: [[Anubis]], [[Kephera]], [[Hecate]], [[Artemis]], [[The High Priestess]]
-
----
-
-*"The Moon does not create illusion. She reveals the illusions you already carry—and forces you to walk through them."*

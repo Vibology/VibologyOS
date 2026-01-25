@@ -86,6 +86,12 @@ The Portal's teaching is **trust the deep yes**: when the Sacral responds with c
 
 When Conviction appears in a reading, the querent is being asked: what is your Sacral saying? Can you commit fully or must you withdraw? Can you say yes with such sincerity that the abyss becomes navigable? Water upon water teaches: **the deep requires devotion**. Half-heartedness drowns. Conviction swims.
 
+## Cross-References
+- [[Folklore/Jungian Archetypes/The Hero]] - Journey requiring conviction
+- [[Gate 29 - The Abysmal]]
+- [[Gene Key 29 - Half-Heartedness to Devotion]]
+- [[Hexagram 29 - The Abysmal]]
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -105,9 +111,3 @@ When Conviction appears in a reading, the querent is being asked: what is your S
 
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
-
-## Cross-References
-- [[Folklore/Jungian Archetypes/The Hero]] - Journey requiring conviction
-- [[Gate 29 - The Abysmal]]
-- [[Gene Key 29 - Half-Heartedness to Devotion]]
-- [[Hexagram 29 - The Abysmal]]

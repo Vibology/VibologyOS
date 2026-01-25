@@ -119,6 +119,22 @@ The practice is straightforward: **act decisively when survival requires it, and
 
 ---
 
+## Cross-References
+- [[House of the Flame]] - The domain of vital/instinctual action and movement
+- [[Gate 21 - Biting Through]] - The Hunter and justified control (Heart)
+- [[Hexagram 21]] - Biting Through (I-Ching)
+- [[Gene Key 21]] - Control → Authority → Valour
+- [[Adventure]] - Gate 28 in House of the Flame (meaningful struggle for courage)
+- [[Passion]] - Gate 25 in House of the Flame (innocent love behind courage)
+- [[Survival]] - Gate 26 in House of the Flame (strategic memory for courage)
+- [[Violence]] - Gate 51 shadow in House of the Flame (opposite pole)
+- [[Heart Center]] - Willpower and material resources
+- [[Tribal Circuit]] - Support, loyalty, and collective survival
+- [[4 - The Emperor]] - Tarot's justified authority and protective structure
+- [[7 - The Chariot]] - Tarot's disciplined will overcoming obstacles
+- [[Mars ♂]] - Warrior energy and decisive action
+- [[Aries ♈]] - Astrological courage and initiating force
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -138,19 +154,3 @@ The practice is straightforward: **act decisively when survival requires it, and
 
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
-
-## Cross-References
-- [[House of the Flame]] - The domain of vital/instinctual action and movement
-- [[Gate 21 - Biting Through]] - The Hunter and justified control (Heart)
-- [[Hexagram 21]] - Biting Through (I-Ching)
-- [[Gene Key 21]] - Control → Authority → Valour
-- [[Adventure]] - Gate 28 in House of the Flame (meaningful struggle for courage)
-- [[Passion]] - Gate 25 in House of the Flame (innocent love behind courage)
-- [[Survival]] - Gate 26 in House of the Flame (strategic memory for courage)
-- [[Violence]] - Gate 51 shadow in House of the Flame (opposite pole)
-- [[Heart Center]] - Willpower and material resources
-- [[Tribal Circuit]] - Support, loyalty, and collective survival
-- [[4 - The Emperor]] - Tarot's justified authority and protective structure
-- [[7 - The Chariot]] - Tarot's disciplined will overcoming obstacles
-- [[Mars ♂]] - Warrior energy and decisive action
-- [[Aries ♈]] - Astrological courage and initiating force

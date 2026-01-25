@@ -155,6 +155,20 @@ TBD
 
 ---
 
+## Cross-References
+- [[0 - The Fool]] - The wanderer who must learn discipline
+- [[2 - The High Priestess]] - The lunar gnosis that guides the chariot
+- [[6 - The Lovers]] - The complementary descent from Binah
+- [[8 - Strength]] - The gentle power complementing command
+- [[Cheth - Hebrew Letters in Tarot]]
+- [[Kabbalistic Paths - Binah to Geburah]]
+- [[Cancer and the Moon in Esoteric Systems]]
+- [[The Merkabah - Throne Chariot Mysticism]]
+- [[Cards of Victory and Conquest]]
+- [[Ego Development Before Transcendence]]
+
+---
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -168,18 +182,4 @@ TBD
 ### Vibology Synthesis Notes
 
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
----
-
-## Cross-References
-- [[0 - The Fool]] - The wanderer who must learn discipline
-- [[2 - The High Priestess]] - The lunar gnosis that guides the chariot
-- [[6 - The Lovers]] - The complementary descent from Binah
-- [[8 - Strength]] - The gentle power complementing command
-- [[Cheth - Hebrew Letters in Tarot]]
-- [[Kabbalistic Paths - Binah to Geburah]]
-- [[Cancer and the Moon in Esoteric Systems]]
-- [[The Merkabah - Throne Chariot Mysticism]]
-- [[Cards of Victory and Conquest]]
-- [[Ego Development Before Transcendence]]
-
 ---

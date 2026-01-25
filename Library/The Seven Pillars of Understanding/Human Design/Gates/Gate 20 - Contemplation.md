@@ -319,14 +319,6 @@ The Signature of the Throat Center varies by Type, but for Gate 20 specifically,
 
 Gate 20 teaches that **true power is presence**. When the individual honors their Strategy and Authority, dwells in the now without performance, and expresses awareness when correct, they become a **living example** of embodied being. This is the essence of the Integration Circuit—to empower oneself through presence, demonstrating what is possible when one is fully here.
 
-## Sources
-
-- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
-- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
-- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
-
----
-
 ## Cross-References
 
 ### Sequential Connections (Within Throat Gates)
@@ -390,3 +382,11 @@ Gate 20 teaches that **true power is presence**. When the individual honors thei
 ---
 
 *"True presence is not performed—it is lived. The now is not a concept but a body, a breath, a voice that arises naturally from being fully here."*
+
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---

@@ -301,14 +301,6 @@ The Signature of the Sacral Center (for Generators/MGs) is **Satisfaction**. For
 
 Gate 14 teaches that **true power is earned through sustained work**. When the individual honors their Sacral response, develops skills aligned with their direction, and uses mastery to empower rather than dominate, they become a **living example** of what is possible through dedication. This is the essence of the Individual Centering Circuit—to demonstrate sovereignty through skill.
 
-## Sources
-
-- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
-- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
-- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
-
----
-
 ## Cross-References
 
 ### Sequential Connections (Within Sacral Gates)
@@ -364,3 +356,11 @@ Gate 14 teaches that **true power is earned through sustained work**. When the i
 ---
 
 *"True mastery is not the destination—it is the sustained commitment to the work, and the humility to know there is always more to learn."*
+
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---

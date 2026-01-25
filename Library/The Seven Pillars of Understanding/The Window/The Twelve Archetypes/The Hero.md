@@ -100,6 +100,21 @@ In Campbell's Hero's Journey framework, this card can appear at any stage—The 
 
 When The Hero appears in a reading, the querent is being tested: do you have the courage to act? And more importantly—do you have the wisdom to wield your power in service to something greater than yourself?
 
+## Cross-References
+- [[The Persona]] - Masks of power vs authentic strength
+- [[The Shape]] - Power's dark reflection; collective shadow
+- [[The Alchemist]] - Integration of all power expressions
+- [[The Nightmare]] - The test before heroic action
+- [[Personal Mythos/Hero's Journey/The Call to Adventure]] - Beginning of the Hero's path
+- [[Personal Mythos/Hero's Journey/The Ordeal]] - The Hero's supreme test
+- [[Personal Mythos/Jungian Archetypes/The Hero]] - Jungian framework for heroic consciousness
+- [[Gate 34 - The Power of the Great]] - Human Design gate mechanics
+- [[Hexagram 34]] - I-Ching hexagram
+- [[Gene Key 34]] - Force → Strength → Majesty
+- [[Aries ♈]] - Astrological pioneer and warrior
+- [[8 - Strength]] - Tarot correspondence to power rightly wielded
+- [[7 - The Chariot]] - Tarot's directed will and victory
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -119,18 +134,3 @@ When The Hero appears in a reading, the querent is being tested: do you have the
 
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
-
-## Cross-References
-- [[The Persona]] - Masks of power vs authentic strength
-- [[The Shape]] - Power's dark reflection; collective shadow
-- [[The Alchemist]] - Integration of all power expressions
-- [[The Nightmare]] - The test before heroic action
-- [[Personal Mythos/Hero's Journey/The Call to Adventure]] - Beginning of the Hero's path
-- [[Personal Mythos/Hero's Journey/The Ordeal]] - The Hero's supreme test
-- [[Personal Mythos/Jungian Archetypes/The Hero]] - Jungian framework for heroic consciousness
-- [[Gate 34 - The Power of the Great]] - Human Design gate mechanics
-- [[Hexagram 34]] - I-Ching hexagram
-- [[Gene Key 34]] - Force → Strength → Majesty
-- [[Aries ♈]] - Astrological pioneer and warrior
-- [[8 - Strength]] - Tarot correspondence to power rightly wielded
-- [[7 - The Chariot]] - Tarot's directed will and victory

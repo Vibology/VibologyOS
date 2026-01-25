@@ -148,6 +148,25 @@ Open your heart. Allow yourself to feel. Engage relationship with vulnerability.
 
 ---
 
+## Cross-References
+- [[House of the Land]] - Physical embodiment vs. emotional flow
+- [[House of the Flame]] - Instinct and action vs. feeling and response
+- [[House of the Chronicle]] - Narrative structure vs. emotional truth
+- [[House of the Spirit]] - Consciousness awareness vs. heart opening
+- [[House of the Stars]] - Material achievement vs. relational depth
+- [[Gate 58 - Vitality]]
+- [[Gate 22 - Grace]]
+- [[Gate 13 - The Listener]]
+- [[Gate 19 - Wanting]]
+- [[Gate 36 - Darkening of the Light]]
+- [[Gate 6 - Friction]]
+- [[Gate 54 - The Marrying Maiden]]
+- [[Cups]] - Tarot's emotional suit
+- [[The Moon]] - Tarot's emotional depths
+- [[Solar Plexus Center]] - Emotional awareness in HD
+- [[Feeling Function]] - Jungian typology
+- [[Chesed]] - Qabalistic mercy and emotional generosity
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -167,22 +186,3 @@ Open your heart. Allow yourself to feel. Engage relationship with vulnerability.
 
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
-
-## Cross-References
-- [[House of the Land]] - Physical embodiment vs. emotional flow
-- [[House of the Flame]] - Instinct and action vs. feeling and response
-- [[House of the Chronicle]] - Narrative structure vs. emotional truth
-- [[House of the Spirit]] - Consciousness awareness vs. heart opening
-- [[House of the Stars]] - Material achievement vs. relational depth
-- [[Gate 58 - Vitality]]
-- [[Gate 22 - Grace]]
-- [[Gate 13 - The Listener]]
-- [[Gate 19 - Wanting]]
-- [[Gate 36 - Darkening of the Light]]
-- [[Gate 6 - Friction]]
-- [[Gate 54 - The Marrying Maiden]]
-- [[Cups]] - Tarot's emotional suit
-- [[The Moon]] - Tarot's emotional depths
-- [[Solar Plexus Center]] - Emotional awareness in HD
-- [[Feeling Function]] - Jungian typology
-- [[Chesed]] - Qabalistic mercy and emotional generosity

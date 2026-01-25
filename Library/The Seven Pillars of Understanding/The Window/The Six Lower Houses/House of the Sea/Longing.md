@@ -117,6 +117,22 @@ The practice is straightforward: **allow yourself to want, express desire honest
 
 ---
 
+## Cross-References
+- [[House of the Sea]] - The domain of emotional depth and relational encounter
+- [[Gate 19 - Approach]] - Wanting and sensitivity to need (Root)
+- [[Hexagram 19]] - Approach (I-Ching)
+- [[Gene Key 19]] - Co-dependence → Sensitivity → Sacrifice
+- [[Joy]] - Gate 58 in House of the Sea (vitality through desire)
+- [[Gratitude]] - Gate 22 in House of the Sea (appreciation for capacity to long)
+- [[Compassion]] - Gate 13 in House of the Sea (empathy for mutual need)
+- [[Envy]] - Gate 54 shadow in House of the Sea (opposite pole: comparative vs authentic desire)
+- [[Root Center]] - Pressure toward connection
+- [[Tribal Ego Circuit]] - Support through mutual need
+- [[2 - The High Priestess]] - Tarot's receptive waiting and sacred desire
+- [[Ace of Cups]] - Tarot's emotional openness and capacity for connection
+- [[Moon ☽]] - Emotional needs and the soul's longing
+- [[Cancer ♋]] - Astrological need for belonging and emotional security
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -136,20 +152,3 @@ The practice is straightforward: **allow yourself to want, express desire honest
 
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
-
-## Cross-References
-- [[House of the Sea]] - The domain of emotional depth and relational encounter
-- [[Gate 19 - Approach]] - Wanting and sensitivity to need (Root)
-- [[Hexagram 19]] - Approach (I-Ching)
-- [[Gene Key 19]] - Co-dependence → Sensitivity → Sacrifice
-- [[Joy]] - Gate 58 in House of the Sea (vitality through desire)
-- [[Gratitude]] - Gate 22 in House of the Sea (appreciation for capacity to long)
-- [[Compassion]] - Gate 13 in House of the Sea (empathy for mutual need)
-- [[Envy]] - Gate 54 shadow in House of the Sea (opposite pole: comparative vs authentic desire)
-- [[Root Center]] - Pressure toward connection
-- [[Tribal Ego Circuit]] - Support through mutual need
-- [[2 - The High Priestess]] - Tarot's receptive waiting and sacred desire
-- [[Ace of Cups]] - Tarot's emotional openness and capacity for connection
-- [[Moon ☽]] - Emotional needs and the soul's longing
-- [[Cancer ♋]] - Astrological need for belonging and emotional security
-

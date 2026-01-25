@@ -85,6 +85,16 @@ The Portal's teaching is **trust the doubt**: when patterns are questioned, they
 
 When Destruction appears in a reading, the querent is being asked: what pattern that seemed complete is being questioned? What achievement can you not accept without verification? Can you inquire systematically, testing without panic, allowing destruction only where it serves truth? The pineal gland teaches: **mental pressure generates verification**. Doubt is not the enemy of completion—it is the guardian of truth. What survives your questioning deserves your trust. What collapses needed to fall.
 
+## Cross-References
+- [[The Tower]] - Violent necessary collapse
+- [[The Hermit]] - Solitary inquiry and questioning
+- [[Gate 63 - After Completion]]
+- [[Gene Key 63 - Doubt to Truth]]
+- [[Hexagram 63 - After Completion]]
+- [[Head Center]] - Mental pressure and inspiration
+- [[Logic Circuit]] - Pattern recognition and verification
+- [[Hexagram 64 - Before Completion]] - The nuclear paradox
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -104,13 +114,3 @@ When Destruction appears in a reading, the querent is being asked: what pattern 
 
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
-
-## Cross-References
-- [[The Tower]] - Violent necessary collapse
-- [[The Hermit]] - Solitary inquiry and questioning
-- [[Gate 63 - After Completion]]
-- [[Gene Key 63 - Doubt to Truth]]
-- [[Hexagram 63 - After Completion]]
-- [[Head Center]] - Mental pressure and inspiration
-- [[Logic Circuit]] - Pattern recognition and verification
-- [[Hexagram 64 - Before Completion]] - The nuclear paradox

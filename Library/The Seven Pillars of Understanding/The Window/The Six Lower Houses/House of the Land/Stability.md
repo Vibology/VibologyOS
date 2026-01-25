@@ -119,6 +119,22 @@ The practice is straightforward: **be where you are, fully**. Not as concept, no
 
 ---
 
+## Cross-References
+- [[House of the Land]] - The domain of embodied foundation and material grounding
+- [[Gate 20 - Contemplation]] - The Now and present-moment awareness (Throat)
+- [[Hexagram 20]] - Contemplation (I-Ching)
+- [[Gene Key 20]] - Superficiality → Self Assurance → Presence
+- [[Confidence]] - Gate 8 in House of the Land (creative expression from stability)
+- [[Integrity]] - Gate 18 in House of the Land (correction maintaining stability)
+- [[Ambition]] - Gate 16 in House of the Land (mastery enabled by stability)
+- [[Insecurity]] - Gate 48 shadow in House of the Land (opposite pole)
+- [[Throat Center]] - Expression and manifestation
+- [[Integration Circuit]] - Individual empowerment through awareness
+- [[3 - The Empress]] - Tarot's grounded abundance and present nurturing
+- [[21 - The World]] - Tarot's complete embodiment and presence
+- [[Saturn ♄]] - Grounded structure through present responsibility
+- [[Taurus ♉]] - Astrological stability and embodied presence
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -138,19 +154,3 @@ The practice is straightforward: **be where you are, fully**. Not as concept, no
 
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
-
-## Cross-References
-- [[House of the Land]] - The domain of embodied foundation and material grounding
-- [[Gate 20 - Contemplation]] - The Now and present-moment awareness (Throat)
-- [[Hexagram 20]] - Contemplation (I-Ching)
-- [[Gene Key 20]] - Superficiality → Self Assurance → Presence
-- [[Confidence]] - Gate 8 in House of the Land (creative expression from stability)
-- [[Integrity]] - Gate 18 in House of the Land (correction maintaining stability)
-- [[Ambition]] - Gate 16 in House of the Land (mastery enabled by stability)
-- [[Insecurity]] - Gate 48 shadow in House of the Land (opposite pole)
-- [[Throat Center]] - Expression and manifestation
-- [[Integration Circuit]] - Individual empowerment through awareness
-- [[3 - The Empress]] - Tarot's grounded abundance and present nurturing
-- [[21 - The World]] - Tarot's complete embodiment and presence
-- [[Saturn ♄]] - Grounded structure through present responsibility
-- [[Taurus ♉]] - Astrological stability and embodied presence

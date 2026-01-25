@@ -145,6 +145,24 @@ Ground yourself. Return to the body. Establish stable foundation through practic
 
 ---
 
+## Cross-References
+- [[House of the Sea]] - Emotional depth vs. physical groundedness
+- [[House of the Flame]] - Vital action vs. stable foundation
+- [[House of the Chronicle]] - Narrative meaning vs. embodied presence
+- [[House of the Spirit]] - Consciousness vs. material form
+- [[House of the Stars]] - Achievement vs. simple competence
+- [[Gate 20 - Now]]
+- [[Gate 8 - Contribution]]
+- [[Gate 18 - Correction]]
+- [[Gate 16 - Skills]]
+- [[Gate 48 - The Well]]
+- [[Gate 57 - Intuitive Clarity]]
+- [[Gate 50 - Values]]
+- [[Pentacles]] - Tarot's material suit
+- [[Malkuth]] - Qabalistic manifestation
+- [[Sensation Function]] - Jungian typology
+- [[Spleen Center]] - Instinctual awareness in HD
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -164,21 +182,3 @@ Ground yourself. Return to the body. Establish stable foundation through practic
 
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
-
-## Cross-References
-- [[House of the Sea]] - Emotional depth vs. physical groundedness
-- [[House of the Flame]] - Vital action vs. stable foundation
-- [[House of the Chronicle]] - Narrative meaning vs. embodied presence
-- [[House of the Spirit]] - Consciousness vs. material form
-- [[House of the Stars]] - Achievement vs. simple competence
-- [[Gate 20 - Now]]
-- [[Gate 8 - Contribution]]
-- [[Gate 18 - Correction]]
-- [[Gate 16 - Skills]]
-- [[Gate 48 - The Well]]
-- [[Gate 57 - Intuitive Clarity]]
-- [[Gate 50 - Values]]
-- [[Pentacles]] - Tarot's material suit
-- [[Malkuth]] - Qabalistic manifestation
-- [[Sensation Function]] - Jungian typology
-- [[Spleen Center]] - Instinctual awareness in HD

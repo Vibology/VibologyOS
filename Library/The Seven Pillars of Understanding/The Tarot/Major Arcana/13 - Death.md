@@ -190,6 +190,19 @@ The gift of integration: **Learning to let go with grace**. Death teaches that *
 
 ---
 
+## Cross-References
+- **Adjacent Major Arcana**: [[12 - The Hanged Man]] ← → [[14 - Temperance]]
+- **Element/Modality**: [[Scorpio ♏]] | [[Fixed Water]]
+- **Planetary**: [[Mars ♂]] | [[Pluto ♇]]
+- **Path**: [[Path 24 - Netzach to Tiphareth]]
+- **Hebrew Letter**: [[Nun]]
+- **Thematic Groupings**: [[The Transformation Cards]] | [[Death and Rebirth]] | [[The Alchemical Path]]
+- **Cross-References**: [[Osiris]], [[Kali]], [[Phoenix]], [[Mortificatio]], [[Nigredo]]
+
+---
+
+*"Death does not ask permission. She comes when the form has outlived its purpose—and what she reaps, she returns as soil."*
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -204,16 +217,3 @@ The gift of integration: **Learning to let go with grace**. Death teaches that *
 
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
-
-## Cross-References
-- **Adjacent Major Arcana**: [[12 - The Hanged Man]] ← → [[14 - Temperance]]
-- **Element/Modality**: [[Scorpio ♏]] | [[Fixed Water]]
-- **Planetary**: [[Mars ♂]] | [[Pluto ♇]]
-- **Path**: [[Path 24 - Netzach to Tiphareth]]
-- **Hebrew Letter**: [[Nun]]
-- **Thematic Groupings**: [[The Transformation Cards]] | [[Death and Rebirth]] | [[The Alchemical Path]]
-- **Cross-References**: [[Osiris]], [[Kali]], [[Phoenix]], [[Mortificatio]], [[Nigredo]]
-
----
-
-*"Death does not ask permission. She comes when the form has outlived its purpose—and what she reaps, she returns as soil."*

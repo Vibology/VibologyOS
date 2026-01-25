@@ -302,14 +302,6 @@ The Signature of the Spleen Center varies by Type, but for Gate 18 specifically,
 
 Gate 18 teaches that **integrity requires vigilant correction**. When the individual honors their Strategy and Authority, recognizes decay instinctually, and works toward restoration strategically, they become a **living example** of corrective service. This is the essence of the Collective Logic Circuit—to recognize when patterns have decayed and work persistently to restore collective health.
 
-## Sources
-
-- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
-- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
-- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
-
----
-
 ## Cross-References
 
 ### Sequential Connections (Within Spleen Gates)
@@ -369,3 +361,11 @@ Gate 18 teaches that **integrity requires vigilant correction**. When the indivi
 ---
 
 *"True integrity does not judge decay—it recognizes corruption with compassion and works persistently toward restoration, serving wholeness with love."*
+
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---

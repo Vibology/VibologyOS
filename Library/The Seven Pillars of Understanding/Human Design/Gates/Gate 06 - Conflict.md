@@ -315,14 +315,6 @@ For those with Emotional Authority, the Signature is **Clarity** (emotional clar
 
 Gate 6 teaches that **intimacy requires friction**. When the individual honors their emotional wave, navigates conflict with diplomacy, and allows friction to serve connection, they become a **living example** of profound intimacy. This is the essence of the Tribal stream—not superficial harmony, but **deep bond forged through honesty and commitment**.
 
-## Sources
-
-- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
-- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
-- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
-
----
-
 ## Cross-References
 
 ### Sequential Connections (Within Solar Plexus Gates)
@@ -378,3 +370,11 @@ Gate 6 teaches that **intimacy requires friction**. When the individual honors t
 ---
 
 *"True intimacy is not the absence of friction—it is the willingness to stay present through the fire."*
+
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---

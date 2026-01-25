@@ -196,6 +196,19 @@ The gift of integration: **The Devil is redeemed when he is *seen***. Not conque
 
 ---
 
+## Cross-References
+- **Adjacent Major Arcana**: [[14 - Temperance]] ← → [[16 - The Tower]]
+- **Element/Modality**: [[Capricorn ♑]] | [[Cardinal Earth]]
+- **Planetary**: [[Saturn ♄]] (ruler) | [[Mars ♂]] (exalted)
+- **Path**: [[Path 26 - Tiphareth to Hod]]
+- **Hebrew Letter**: [[Ayin]]
+- **Thematic Groupings**: [[The Shadow Cards]] | [[Bondage and Liberation]] | [[Material vs. Spiritual]]
+- **Cross-References**: [[Pan]], [[Baphomet]], [[Gnostic Demiurge]], [[Dweller on the Threshold]], [[The Lovers]]
+
+---
+
+*"The Devil does not bind you. You bind yourself—and blame him for the chains."*
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -210,16 +223,3 @@ The gift of integration: **The Devil is redeemed when he is *seen***. Not conque
 
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
-
-## Cross-References
-- **Adjacent Major Arcana**: [[14 - Temperance]] ← → [[16 - The Tower]]
-- **Element/Modality**: [[Capricorn ♑]] | [[Cardinal Earth]]
-- **Planetary**: [[Saturn ♄]] (ruler) | [[Mars ♂]] (exalted)
-- **Path**: [[Path 26 - Tiphareth to Hod]]
-- **Hebrew Letter**: [[Ayin]]
-- **Thematic Groupings**: [[The Shadow Cards]] | [[Bondage and Liberation]] | [[Material vs. Spiritual]]
-- **Cross-References**: [[Pan]], [[Baphomet]], [[Gnostic Demiurge]], [[Dweller on the Threshold]], [[The Lovers]]
-
----
-
-*"The Devil does not bind you. You bind yourself—and blame him for the chains."*

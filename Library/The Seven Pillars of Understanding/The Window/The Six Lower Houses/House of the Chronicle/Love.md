@@ -119,6 +119,23 @@ The practice is straightforward: **experience widely and judge rarely**. Not as 
 
 ---
 
+## Cross-References
+- [[House of the Chronicle]] - The domain of metanarrative and meaning-shaping virtues
+- [[Gate 15 - Modesty]] - Extremes and love of humanity (G Center)
+- [[Hexagram 15]] - Modesty (I-Ching)
+- [[Gene Key 15]] - Dullness → Magnetism → Florescence
+- [[Faith]] - Gate 32 in House of the Chronicle (continuity for love)
+- [[Hope]] - Gate 30 in House of the Chronicle (emotional fuel for love)
+- [[Memory]] - Gate 11 in House of the Chronicle (ideational breadth for love)
+- [[Hatred]] - Gate 4 shadow in House of the Chronicle (opposite pole)
+- [[Bitterness]] - Gate 52 shadow in House of the Chronicle (frozen narrative)
+- [[G Center]] - Identity, direction, and love
+- [[Logic Circuit]] - Collective understanding through patterns
+- [[6 - The Lovers]] - Tarot's choice and union
+- [[10 - Wheel of Fortune]] - Tarot's cycles and all-encompassing fate
+- [[Venus ♀]] - Beauty, attraction, and inclusive love
+- [[Libra ♎]] - Astrological balance and relationship harmony
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -138,20 +155,3 @@ The practice is straightforward: **experience widely and judge rarely**. Not as 
 
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
-
-## Cross-References
-- [[House of the Chronicle]] - The domain of metanarrative and meaning-shaping virtues
-- [[Gate 15 - Modesty]] - Extremes and love of humanity (G Center)
-- [[Hexagram 15]] - Modesty (I-Ching)
-- [[Gene Key 15]] - Dullness → Magnetism → Florescence
-- [[Faith]] - Gate 32 in House of the Chronicle (continuity for love)
-- [[Hope]] - Gate 30 in House of the Chronicle (emotional fuel for love)
-- [[Memory]] - Gate 11 in House of the Chronicle (ideational breadth for love)
-- [[Hatred]] - Gate 4 shadow in House of the Chronicle (opposite pole)
-- [[Bitterness]] - Gate 52 shadow in House of the Chronicle (frozen narrative)
-- [[G Center]] - Identity, direction, and love
-- [[Logic Circuit]] - Collective understanding through patterns
-- [[6 - The Lovers]] - Tarot's choice and union
-- [[10 - Wheel of Fortune]] - Tarot's cycles and all-encompassing fate
-- [[Venus ♀]] - Beauty, attraction, and inclusive love
-- [[Libra ♎]] - Astrological balance and relationship harmony

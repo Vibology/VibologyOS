@@ -118,6 +118,22 @@ The practice for healing Recklessness is **cultivating tolerance for mystery thr
 
 ---
 
+## Cross-References
+- [[House of the Flame]] - The domain of vital/instinctual action and movement
+- [[Gate 61 - Inner Truth]] - Mystery and pressure to know (Head)
+- [[Hexagram 61]] - Inner Truth (I-Ching)
+- [[Gene Key 61]] - Psychosis → Inspiration → Sanctity
+- [[Adventure]] - Gate 28 in House of the Flame (antidote: meaningful risk)
+- [[Passion]] - Gate 25 in House of the Flame (antidote: innocent action)
+- [[Aggression]] - Gate 5 shadow in House of the Flame (action without rhythm)
+- [[Violence]] - Gate 51 shadow in House of the Flame (action without center)
+- [[Head Center]] - Mental pressure and inspiration
+- [[Knowing Circuit]] - Individual mutation through revelation
+- [[18 - The Moon]] - Tarot's illusion and psychic pressure
+- [[0 - The Fool reversed]] - Tarot's reckless leap without wisdom
+- [[Neptune ♆]] - The shadow of dissolution and psychic overwhelm
+- [[Pisces ♓]] - The shadow of escape and spiritual confusion
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -137,19 +153,3 @@ The practice for healing Recklessness is **cultivating tolerance for mystery thr
 
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
-
-## Cross-References
-- [[House of the Flame]] - The domain of vital/instinctual action and movement
-- [[Gate 61 - Inner Truth]] - Mystery and pressure to know (Head)
-- [[Hexagram 61]] - Inner Truth (I-Ching)
-- [[Gene Key 61]] - Psychosis → Inspiration → Sanctity
-- [[Adventure]] - Gate 28 in House of the Flame (antidote: meaningful risk)
-- [[Passion]] - Gate 25 in House of the Flame (antidote: innocent action)
-- [[Aggression]] - Gate 5 shadow in House of the Flame (action without rhythm)
-- [[Violence]] - Gate 51 shadow in House of the Flame (action without center)
-- [[Head Center]] - Mental pressure and inspiration
-- [[Knowing Circuit]] - Individual mutation through revelation
-- [[18 - The Moon]] - Tarot's illusion and psychic pressure
-- [[0 - The Fool reversed]] - Tarot's reckless leap without wisdom
-- [[Neptune ♆]] - The shadow of dissolution and psychic overwhelm
-- [[Pisces ♓]] - The shadow of escape and spiritual confusion

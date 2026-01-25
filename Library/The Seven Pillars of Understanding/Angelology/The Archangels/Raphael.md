@@ -892,35 +892,6 @@ Metatron holds the blueprint; Raphael teaches how to read it and apply it to dai
 
 ---
 
-## Sources
-*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
-
-**Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.
-- Raphael as "God Heals," archangel of Tiphareth: p. 241-242
-- Raphael as regent of the Sun: p. 241-242
-
-**Wang, Robert.** *The Qabalistic Tarot: A Textbook of Mystical Philosophy.* Weiser Books, 1983.
-- Raphael as archangel of Tiphareth
-- Melechim (Virtues) as angelic choir of Tiphareth
-- Sun/Tiphareth/Virtues correspondences
-
-**Book of Tobit** (Apocryphal text)
-- Tobit 12:15: Raphael as one of seven angels standing before God
-- Tobits journey: healing blindness, casting out Asmodeus, fish organs as medicine
-
-**The Bible**
-- Genesis 18-19: Angels visiting Abraham and Lot (Raphael traditionally identified as one)
-
-> *Vibology Synthesis: Cross-system correspondences (Human Design Solar Plexus Center, Sun/astrology, Tarot Sun/Temperance/Sixes, Jungian Transcendent Function/Healer) represent original integrative frameworks. The connection between Raphael and Tiphareth/healing is traditional angelology; mapping to HD Solar Plexus (emotional awareness, spirit) and Jungian archetypes is Vibology interpretation.*
-
-
----
-
-## A Prayer to Raphael
-
-*Raphael, Divine Physician, Prince of Brightness, Guide and Companion on the journey of wholeness—I call upon you. Teach me to see my wounds as medicine in disguise. Show me how to transmute suffering into wisdom, how to bind the demons that prevent sacred union, how to walk the path with courage and trust. Let me be a hollow bone through which your healing light flows. Teach me to serve with both knowledge and love, with both competence and compassion. Walk beside me as you walked beside Tobias, disguised as a friend, revealed as divine only when the time is right. By the authority of YHVH Eloah va-Daath, the Lord God of Knowledge, by the light of the Sun and the swiftness of Mercury, by the breath of Air that animates all life, let your presence be known. May I become both healed and healer, both student and teacher, both wounded and wise. Ave Raphael. Amen.*
-
----
 ## Cross-References
 ### Within Angelology
 
@@ -1431,3 +1402,33 @@ The individual radiates **clarity**—not the blinding glory of Metatron, not th
 ---
 
 *"Raphael does not heal you by removing the wound. He teaches you to transmute the wound into medicine. The fish that leapt at Tobias was meant to devour him—but Raphael said, 'Catch it. Open it. Use its organs to heal and to protect.' This is the alchemical teaching: the thing that attacks you, when rightly engaged, becomes the source of your restoration."*
+
+## Sources
+*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
+
+**Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.
+- Raphael as "God Heals," archangel of Tiphareth: p. 241-242
+- Raphael as regent of the Sun: p. 241-242
+
+**Wang, Robert.** *The Qabalistic Tarot: A Textbook of Mystical Philosophy.* Weiser Books, 1983.
+- Raphael as archangel of Tiphareth
+- Melechim (Virtues) as angelic choir of Tiphareth
+- Sun/Tiphareth/Virtues correspondences
+
+**Book of Tobit** (Apocryphal text)
+- Tobit 12:15: Raphael as one of seven angels standing before God
+- Tobits journey: healing blindness, casting out Asmodeus, fish organs as medicine
+
+**The Bible**
+- Genesis 18-19: Angels visiting Abraham and Lot (Raphael traditionally identified as one)
+
+> *Vibology Synthesis: Cross-system correspondences (Human Design Solar Plexus Center, Sun/astrology, Tarot Sun/Temperance/Sixes, Jungian Transcendent Function/Healer) represent original integrative frameworks. The connection between Raphael and Tiphareth/healing is traditional angelology; mapping to HD Solar Plexus (emotional awareness, spirit) and Jungian archetypes is Vibology interpretation.*
+
+
+---
+
+## A Prayer to Raphael
+
+*Raphael, Divine Physician, Prince of Brightness, Guide and Companion on the journey of wholeness—I call upon you. Teach me to see my wounds as medicine in disguise. Show me how to transmute suffering into wisdom, how to bind the demons that prevent sacred union, how to walk the path with courage and trust. Let me be a hollow bone through which your healing light flows. Teach me to serve with both knowledge and love, with both competence and compassion. Walk beside me as you walked beside Tobias, disguised as a friend, revealed as divine only when the time is right. By the authority of YHVH Eloah va-Daath, the Lord God of Knowledge, by the light of the Sun and the swiftness of Mercury, by the breath of Air that animates all life, let your presence be known. May I become both healed and healer, both student and teacher, both wounded and wise. Ave Raphael. Amen.*
+
+---

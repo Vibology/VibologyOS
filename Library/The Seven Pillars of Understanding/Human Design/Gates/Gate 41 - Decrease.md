@@ -303,14 +303,6 @@ The Signature of the Root Center (for all gates within it) is the release of pre
 
 Gate 41 teaches that **fantasy is sacred fuel**. When the individual honors their need to imagine, fantasize, and anticipate—without demanding that reality conform—they become a **living example** of healthy desire. This is the essence of the Abstract Circuit's Sensing Stream—to fuel collective experience through imaginative anticipation.
 
-## Sources
-
-- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
-- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
-- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
-
----
-
 ## Cross-References
 
 ### Sequential Connections (Within Root Center Gates)
@@ -365,3 +357,11 @@ Gate 41 teaches that **fantasy is sacred fuel**. When the individual honors thei
 ---
 
 *"Fantasy is not escape from reality—it is the fuel that propels us toward new reality. When held lightly, it becomes the sacred anticipation of what seeks to emerge."*
+
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---

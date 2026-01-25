@@ -118,6 +118,22 @@ The practice for healing Violence is **stillness that allows center to return**.
 
 ---
 
+## Cross-References
+- [[House of the Flame]] - The domain of vital/instinctual action and movement
+- [[Gate 51 - The Arousing]] - Shock and initiative (Heart)
+- [[Hexagram 51]] - The Arousing (I-Ching)
+- [[Gene Key 51]] - Agitation → Initiative → Awakening
+- [[Courage]] - Gate 21 in House of the Flame (antidote: centered authority)
+- [[Passion]] - Gate 25 in House of the Flame (antidote: innocent vitality)
+- [[Aggression]] - Gate 5 shadow in House of the Flame (fire without rhythm)
+- [[Recklessness]] - Gate 61 shadow in House of the Flame (fire without inspiration)
+- [[Heart Center]] - Willpower and ego strength
+- [[Centering Circuit]] - Individual empowerment through authenticity
+- [[16 - The Tower]] - Tarot's violent breakdown of structures
+- [[15 - The Devil]] - Tarot's bondage to destructive patterns
+- [[Mars ♂]] - Warrior energy in shadow as destructive force
+- [[Pluto ♇]] - Transformation's shadow as annihilation
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -137,19 +153,3 @@ The practice for healing Violence is **stillness that allows center to return**.
 
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
-
-## Cross-References
-- [[House of the Flame]] - The domain of vital/instinctual action and movement
-- [[Gate 51 - The Arousing]] - Shock and initiative (Heart)
-- [[Hexagram 51]] - The Arousing (I-Ching)
-- [[Gene Key 51]] - Agitation → Initiative → Awakening
-- [[Courage]] - Gate 21 in House of the Flame (antidote: centered authority)
-- [[Passion]] - Gate 25 in House of the Flame (antidote: innocent vitality)
-- [[Aggression]] - Gate 5 shadow in House of the Flame (fire without rhythm)
-- [[Recklessness]] - Gate 61 shadow in House of the Flame (fire without inspiration)
-- [[Heart Center]] - Willpower and ego strength
-- [[Centering Circuit]] - Individual empowerment through authenticity
-- [[16 - The Tower]] - Tarot's violent breakdown of structures
-- [[15 - The Devil]] - Tarot's bondage to destructive patterns
-- [[Mars ♂]] - Warrior energy in shadow as destructive force
-- [[Pluto ♇]] - Transformation's shadow as annihilation

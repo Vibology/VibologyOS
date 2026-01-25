@@ -98,6 +98,20 @@ In Jung's work, The Muse undergoes development through four stages: Eve (biologi
 
 When The Muse appears in a reading, the querent is being tested: will you love your body? Will you let beauty move through physical form? Will you trust serendipity to emerge from embodied presence rather than forced planning? The soul-image knows: push upward not by effort but by **delighting in being incarnate**.
 
+## Cross-References
+- [[The Idol]] - Feminine soul-image vs masculine spirit-force
+- [[The Persona]] - Performed identity vs embodied soul
+- [[The Alchemist]] - Integration of Muse and Idol
+- [[The Great Mother]] - Feminine as nurturing vs feminine as beauty
+- [[Personal Mythos/Jungian Archetypes/The Anima]] - Jungian framework for soul-image
+- [[Personal Mythos/Individuation Process/Encounter with Anima-Animus]] - The integration stage
+- [[Gate 46 - Pushing Upward]] - Human Design gate mechanics
+- [[Hexagram 46]] - I-Ching hexagram
+- [[Gene Key 46]] - Seriousness → Delight → Ecstasy
+- [[Libra ♎]] - Astrological harmony and beauty
+- [[3 - The Empress]] - Tarot correspondence to embodied feminine beauty
+- [[17 - The Star]] - Tarot's vulnerable beauty and hope
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -117,17 +131,3 @@ When The Muse appears in a reading, the querent is being tested: will you love y
 
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
-
-## Cross-References
-- [[The Idol]] - Feminine soul-image vs masculine spirit-force
-- [[The Persona]] - Performed identity vs embodied soul
-- [[The Alchemist]] - Integration of Muse and Idol
-- [[The Great Mother]] - Feminine as nurturing vs feminine as beauty
-- [[Personal Mythos/Jungian Archetypes/The Anima]] - Jungian framework for soul-image
-- [[Personal Mythos/Individuation Process/Encounter with Anima-Animus]] - The integration stage
-- [[Gate 46 - Pushing Upward]] - Human Design gate mechanics
-- [[Hexagram 46]] - I-Ching hexagram
-- [[Gene Key 46]] - Seriousness → Delight → Ecstasy
-- [[Libra ♎]] - Astrological harmony and beauty
-- [[3 - The Empress]] - Tarot correspondence to embodied feminine beauty
-- [[17 - The Star]] - Tarot's vulnerable beauty and hope

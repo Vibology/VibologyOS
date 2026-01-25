@@ -156,6 +156,20 @@ TBD
 
 ---
 
+## Cross-References
+- [[0 - The Fool]] - The wanderer who must learn to climb alone
+- [[2 - The High Priestess]] - The feminine complement of withdrawal
+- [[6 - The Lovers]] - The choice that leads to solitary path
+- [[10 - Wheel of Fortune]] - The return to engagement after withdrawal
+- [[Yod - Hebrew Letters in Tarot]]
+- [[Kabbalistic Paths - Chesed to Tiphareth]]
+- [[Virgo and Mercury in Esoteric Systems]]
+- [[The Desert Fathers and Hermit Tradition]]
+- [[Cards of Wisdom and Solitude]]
+- [[The Intelligence of Will]]
+
+---
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -169,18 +183,4 @@ TBD
 ### Vibology Synthesis Notes
 
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
----
-
-## Cross-References
-- [[0 - The Fool]] - The wanderer who must learn to climb alone
-- [[2 - The High Priestess]] - The feminine complement of withdrawal
-- [[6 - The Lovers]] - The choice that leads to solitary path
-- [[10 - Wheel of Fortune]] - The return to engagement after withdrawal
-- [[Yod - Hebrew Letters in Tarot]]
-- [[Kabbalistic Paths - Chesed to Tiphareth]]
-- [[Virgo and Mercury in Esoteric Systems]]
-- [[The Desert Fathers and Hermit Tradition]]
-- [[Cards of Wisdom and Solitude]]
-- [[The Intelligence of Will]]
-
 ---

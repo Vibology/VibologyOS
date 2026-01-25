@@ -150,6 +150,19 @@ TBD
 
 ---
 
+## Cross-References
+- [[0 - The Fool]] - The innocent who must learn mastery
+- [[1 - The Magician]] - The will that directs power
+- [[7 - The Chariot]] - The complementary path of command
+- [[Teth - Hebrew Letters in Tarot]]
+- [[Kabbalistic Paths - Balancing Chesed and Geburah]]
+- [[Leo and the Sun in Esoteric Systems]]
+- [[Kundalini - The Serpent Fire]]
+- [[Cards of Mastery and Self-Control]]
+- [[The Integration of Shadow]]
+
+---
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -163,17 +176,4 @@ TBD
 ### Vibology Synthesis Notes
 
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
----
-
-## Cross-References
-- [[0 - The Fool]] - The innocent who must learn mastery
-- [[1 - The Magician]] - The will that directs power
-- [[7 - The Chariot]] - The complementary path of command
-- [[Teth - Hebrew Letters in Tarot]]
-- [[Kabbalistic Paths - Balancing Chesed and Geburah]]
-- [[Leo and the Sun in Esoteric Systems]]
-- [[Kundalini - The Serpent Fire]]
-- [[Cards of Mastery and Self-Control]]
-- [[The Integration of Shadow]]
-
 ---

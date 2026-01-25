@@ -149,6 +149,19 @@ TBD
 
 ---
 
+## Cross-References
+- [[0 - The Fool]] - The primal breath that enters her temple
+- [[1 - The Magician]] - Her complementary path of Will
+- [[3 - The Empress]] - The door through which her consciousness enters form
+- [[Gimel - Hebrew Letters in Tarot]]
+- [[Kabbalistic Paths - Crossing the Abyss]]
+- [[The Moon in Esoteric Systems]]
+- [[The Pillars of the Temple]]
+- [[Shekinah and the Divine Feminine]]
+- [[Cards of Mystery and Hidden Knowledge]]
+
+---
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -162,17 +175,4 @@ TBD
 ### Vibology Synthesis Notes
 
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
----
-
-## Cross-References
-- [[0 - The Fool]] - The primal breath that enters her temple
-- [[1 - The Magician]] - Her complementary path of Will
-- [[3 - The Empress]] - The door through which her consciousness enters form
-- [[Gimel - Hebrew Letters in Tarot]]
-- [[Kabbalistic Paths - Crossing the Abyss]]
-- [[The Moon in Esoteric Systems]]
-- [[The Pillars of the Temple]]
-- [[Shekinah and the Divine Feminine]]
-- [[Cards of Mystery and Hidden Knowledge]]
-
 ---

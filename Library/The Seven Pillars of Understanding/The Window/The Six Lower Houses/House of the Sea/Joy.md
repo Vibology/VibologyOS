@@ -117,6 +117,22 @@ Joy is the antidote to Sea's shadow states—particularly numbness and dissatisf
 
 ---
 
+## Cross-References
+- [[House of the Sea]] - The domain of emotional depth and relational encounter
+- [[Gate 58 - The Joyous]] - Vitality through engagement (Root)
+- [[Hexagram 58]] - The Joyous (I-Ching)
+- [[Gene Key 58]] - Dissatisfaction → Vitality → Bliss
+- [[Gratitude]] - Gate 22 in House of the Sea (appreciation completes joy)
+- [[Compassion]] - Gate 13 in House of the Sea (joy extended empathically)
+- [[Longing]] - Gate 19 in House of the Sea (joy intensified through desire)
+- [[Heartbreak]] - Gate 36 shadow in House of the Sea (opposite pole)
+- [[Root Center]] - Pressure and drive toward engagement
+- [[Collective Logic Circuit]] - Pattern-based vitality
+- [[19 - The Sun]] - Tarot's pure joy and vital radiance
+- [[Ace of Cups]] - Tarot's emotional fullness and capacity to feel
+- [[Jupiter ♃]] - Expansion, abundance, and joyous growth
+- [[Sagittarius ♐]] - Astrological enthusiasm and vital engagement
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -136,20 +152,3 @@ Joy is the antidote to Sea's shadow states—particularly numbness and dissatisf
 
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
-
-## Cross-References
-- [[House of the Sea]] - The domain of emotional depth and relational encounter
-- [[Gate 58 - The Joyous]] - Vitality through engagement (Root)
-- [[Hexagram 58]] - The Joyous (I-Ching)
-- [[Gene Key 58]] - Dissatisfaction → Vitality → Bliss
-- [[Gratitude]] - Gate 22 in House of the Sea (appreciation completes joy)
-- [[Compassion]] - Gate 13 in House of the Sea (joy extended empathically)
-- [[Longing]] - Gate 19 in House of the Sea (joy intensified through desire)
-- [[Heartbreak]] - Gate 36 shadow in House of the Sea (opposite pole)
-- [[Root Center]] - Pressure and drive toward engagement
-- [[Collective Logic Circuit]] - Pattern-based vitality
-- [[19 - The Sun]] - Tarot's pure joy and vital radiance
-- [[Ace of Cups]] - Tarot's emotional fullness and capacity to feel
-- [[Jupiter ♃]] - Expansion, abundance, and joyous growth
-- [[Sagittarius ♐]] - Astrological enthusiasm and vital engagement
-

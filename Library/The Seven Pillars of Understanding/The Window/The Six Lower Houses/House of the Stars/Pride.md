@@ -118,6 +118,21 @@ The practice is humility: **release the performance and discover who you are wit
 
 ---
 
+## Cross-References
+- [[House of the Stars]] - The domain of mastery and material excellence
+- [[Gate 10 - Treading]] - Self-behavior and authenticity (G Center)
+- [[Hexagram 10]] - Treading (I-Ching)
+- [[Gene Key 10]] - Self-Obsession → Naturalness → Being
+- [[Excellence]] - Gate 14 in House of the Stars (genuine mastery)
+- [[Discipline]] - Gate 60 in House of the Stars (limitation that enables growth)
+- [[Vision]] - Gate 1 in House of the Stars (creative direction)
+- [[Stagnation]] - Gate 12 shadow in House of the Stars (parallel shadow)
+- [[Resignation]] - Gate 9 shadow in House of the Stars (parallel shadow)
+- [[G Center]] - Identity and direction
+- [[16 - The Tower]] - Tarot correspondence to pride's fall
+- [[19 - The Sun]] - Tarot's authentic radiance (reversed: performance)
+- [[Leo ♌]] - Astrological self-expression and ego development
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -137,18 +152,3 @@ The practice is humility: **release the performance and discover who you are wit
 
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
-
-## Cross-References
-- [[House of the Stars]] - The domain of mastery and material excellence
-- [[Gate 10 - Treading]] - Self-behavior and authenticity (G Center)
-- [[Hexagram 10]] - Treading (I-Ching)
-- [[Gene Key 10]] - Self-Obsession → Naturalness → Being
-- [[Excellence]] - Gate 14 in House of the Stars (genuine mastery)
-- [[Discipline]] - Gate 60 in House of the Stars (limitation that enables growth)
-- [[Vision]] - Gate 1 in House of the Stars (creative direction)
-- [[Stagnation]] - Gate 12 shadow in House of the Stars (parallel shadow)
-- [[Resignation]] - Gate 9 shadow in House of the Stars (parallel shadow)
-- [[G Center]] - Identity and direction
-- [[16 - The Tower]] - Tarot correspondence to pride's fall
-- [[19 - The Sun]] - Tarot's authentic radiance (reversed: performance)
-- [[Leo ♌]] - Astrological self-expression and ego development

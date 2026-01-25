@@ -100,6 +100,20 @@ In Jung's work, The Divine Child archetype appears in dreams and visions during 
 
 When The Divine Child appears in a reading, the querent is being tested: will you allow yourself to need? Will you honor the equal exchange? Will you recognize that your frailty is not curse but invitation—to be cared for, to evoke tenderness, to discover that family forms around the vulnerable treasure who must be protected at all costs?
 
+## Cross-References
+- [[The Great Mother]] - The one who protects the Divine Child
+- [[The Hero]] - The defender of innocence
+- [[The Nightmare]] - The test the child must pass
+- [[The Alchemist]] - The wholeness the child carries as seed
+- [[Personal Mythos/Jungian Archetypes/The Divine Child]] - Jungian framework for child archetype
+- [[Personal Mythos/Hero's Journey/The Ordinary World]] - Where the child begins
+- [[Gate 37 - The Family]] - Human Design gate mechanics
+- [[Hexagram 37]] - I-Ching hexagram
+- [[Gene Key 37]] - Weakness → Equality → Tenderness
+- [[Cancer ♋]] - Astrological nurturer and home-seeker
+- [[0 - The Fool]] - Tarot correspondence to innocent beginning
+- [[19 - The Sun]] - Tarot's radiant childlike joy
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
@@ -119,17 +133,3 @@ When The Divine Child appears in a reading, the querent is being tested: will yo
 
 This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
-
-## Cross-References
-- [[The Great Mother]] - The one who protects the Divine Child
-- [[The Hero]] - The defender of innocence
-- [[The Nightmare]] - The test the child must pass
-- [[The Alchemist]] - The wholeness the child carries as seed
-- [[Personal Mythos/Jungian Archetypes/The Divine Child]] - Jungian framework for child archetype
-- [[Personal Mythos/Hero's Journey/The Ordinary World]] - Where the child begins
-- [[Gate 37 - The Family]] - Human Design gate mechanics
-- [[Hexagram 37]] - I-Ching hexagram
-- [[Gene Key 37]] - Weakness → Equality → Tenderness
-- [[Cancer ♋]] - Astrological nurturer and home-seeker
-- [[0 - The Fool]] - Tarot correspondence to innocent beginning
-- [[19 - The Sun]] - Tarot's radiant childlike joy

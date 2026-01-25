@@ -756,19 +756,6 @@ Jung: *"The Indian's relationship to his gods is not one of belief but of experi
 
 ---
 
-## Sources
-**Jungian Analytical Psychology:**
-- Jung, C.G. *The Archetypes and the Collective Unconscious* (CW 9i). Princeton University Press, 1959.
-- Jung, C.G. *Symbols of Transformation* (CW 5). Princeton University Press, 1956.
-
-**Primary Native American Sources:**
-Core mythological narratives (cosmology, trickster cycles, vision quests, and sacred teachings) are drawn from Indigenous North American oral traditions including creation stories, animal spirit teachings, and ceremonial knowledge from diverse Nations. This content represents pan-Indigenous archetypal patterns found across multiple traditions (Lakota, Navajo/Diné, Hopi, Anishinaabe, Pacific Northwest Nations, and others). Deep respect is maintained for the sovereignty and cultural specificity of each Nation; generalizations are identified as such.
-
-**Vibrology Synthesis:**
-All Jungian archetypal analysis (interpreting Native American myths through the lens of Shadow, Anima/Animus, Self, Individuation, etc.) represents scholarly synthesis rather than traditional Indigenous understanding. Cross-system correspondences (Tarot, Astrology, Alchemy, Human Design, Qabalah) are Vibrology's integrative framework, not part of Indigenous traditions. Many Indigenous philosophies (relational consciousness, sacred reciprocity, non-linear time) deeply resonate with Jungian concepts, but the explicit correlations drawn here are modern interpretive additions that honor but do not claim to represent Indigenous wisdom traditions.
-
----
-
 ## Cross-References
 
 ### Jungian Archetypes
@@ -861,3 +848,16 @@ All Jungian archetypal analysis (interpreting Native American myths through the 
 ---
 
 **Acknowledgment:** This entry honors the teachings of Indigenous scholars and knowledge keepers who have chosen to share publicly. It is offered in the spirit of cross-cultural understanding and archetypal recognition, not appropriation. May it serve the healing of the relational consciousness so desperately needed in our time.
+
+## Sources
+**Jungian Analytical Psychology:**
+- Jung, C.G. *The Archetypes and the Collective Unconscious* (CW 9i). Princeton University Press, 1959.
+- Jung, C.G. *Symbols of Transformation* (CW 5). Princeton University Press, 1956.
+
+**Primary Native American Sources:**
+Core mythological narratives (cosmology, trickster cycles, vision quests, and sacred teachings) are drawn from Indigenous North American oral traditions including creation stories, animal spirit teachings, and ceremonial knowledge from diverse Nations. This content represents pan-Indigenous archetypal patterns found across multiple traditions (Lakota, Navajo/Diné, Hopi, Anishinaabe, Pacific Northwest Nations, and others). Deep respect is maintained for the sovereignty and cultural specificity of each Nation; generalizations are identified as such.
+
+**Vibrology Synthesis:**
+All Jungian archetypal analysis (interpreting Native American myths through the lens of Shadow, Anima/Animus, Self, Individuation, etc.) represents scholarly synthesis rather than traditional Indigenous understanding. Cross-system correspondences (Tarot, Astrology, Alchemy, Human Design, Qabalah) are Vibrology's integrative framework, not part of Indigenous traditions. Many Indigenous philosophies (relational consciousness, sacred reciprocity, non-linear time) deeply resonate with Jungian concepts, but the explicit correlations drawn here are modern interpretive additions that honor but do not claim to represent Indigenous wisdom traditions.
+
+---

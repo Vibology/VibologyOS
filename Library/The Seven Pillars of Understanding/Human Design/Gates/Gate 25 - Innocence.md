@@ -303,14 +303,6 @@ The Signature of the G Center (when operating correctly) is **love and direction
 
 Gate 25 teaches that **true love is unconditional and includes the Self**. When the individual honors their Strategy and Authority, embodies innocence from alignment rather than performance, and loves without agenda, they become a **living example** of the spirit of the Self. This is the essence of the Individual Centering Circuit—to demonstrate spiritual sovereignty through being, not saving.
 
-## Sources
-
-- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
-- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
-- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
-
----
-
 ## Cross-References
 
 ### Sequential Connections (Within G Center Gates)
@@ -366,3 +358,11 @@ Gate 25 teaches that **true love is unconditional and includes the Self**. When 
 ---
 
 *"True innocence is not naivety—it is the spirit of the Self that loves existence unconditionally, honoring both surrender and sovereignty."*
+
+## Sources
+
+- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
+- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
+- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
+
+---
