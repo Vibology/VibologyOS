@@ -48,9 +48,7 @@ Raziel is not a comforting presence. He does not protect in the manner of [[Mich
 
 In the structure of the [[Tree of Life]], **[[Chokmah]]** is the **Supernal Father**, the masculine potency that emerges from the undifferentiated unity of [[Kether]]. Where Kether is the Crown (the "I AM"), Chokmah is the *first movement*—the explosive outpouring of divine energy, the primal "YES" of existence.
 
-**Dion Fortune** writes in *The Mystical Qabalah*:
-
-> "Chokmah is the Great Stimulator, the Supernal Father. It is the primordial masculine force, dynamic, electric, positive. It is the Will-to-Create made manifest. It is the Word, the Logos, the fertilizing principle."
+Wang describes Chokmah's attributes in *The Qabalistic Tarot* using titles including "The Great Stimulator," "The Supernal Father," and "The First Positive," describing it as "Dynamic Outpouring Energy, Unorganized and Uncompensated." He links Chokmah to the Logos, noting that "Yah is the Divine Ideal Wisdom."
 
 Raziel, as the archangel of Chokmah, is the intelligence through which this **primal force** becomes *knowable*. He is not the force itself (that is the divine essence) but the **revealer** of its patterns, the one who shows humanity the *mechanics of creation*.
 
@@ -145,17 +143,16 @@ Raziel's cosmic function is **revelation of the blueprint**. Where the Seraphim 
 - The **Unknowable** and the **Knowable**
 - **Pure Being** and **Archetypal Form**
 
-**Gareth Knight** writes:
-
-> "Chokmah is the storehouse of images, the treasure-house of archetypal forms. It is the realm where the gods dwell, where the Platonic ideals exist. Raziel is the keeper of this storehouse, the librarian of the divine mind."
+In Qabalistic teaching, Chokmah is understood as the storehouse of archetypal images, the treasure-house of forms where Platonic ideals exist. Raziel, as keeper of this storehouse, functions as the librarian of the divine mind.
 
 Raziel does not *create* the patterns—God does. But Raziel **reveals** them. He is the angelic intelligence that makes it possible for human consciousness to *participate* in divine wisdom.
 
 ## VII. Human Consciousness Parallel: Intuitive Intellect
+**Vibology Synthesis — Cross-System Integration**
 
 ### The Ajna Center: The Third Eye
 
-In the synthesis of Qabalah and **[[Human Design]]**, Raziel corresponds to the **Ajna Center**—the center of conceptualization, mental clarity, and inspiration. This is the "third eye," the seat of the intuitive intellect.
+In the synthesis of Qabalah and **[[Human Design]]**, Raziel corresponds to the **Ajna Center**—the center of conceptualization, mental clarity, and inspiration. This is the "third eye," the seat of the intuitive intellect. (Note: The Angelic Architecture of the BodyGraph maps the Cherubim/Auphanim, the angelic order of Chokmah, directly to the Ajna Center.)
 
 The Ajna is not the *logical* mind (that is the lower mental faculties). It is the **flash of insight**, the sudden recognition of a pattern, the "Aha!" moment when disparate pieces of information suddenly cohere into a unified vision.
 
@@ -371,33 +368,32 @@ Not fortune-telling, but the capacity to speak the **pattern** that is unfolding
 
 ## XVII. Cross-System Correspondences
 
-### Astrology: The Sphere of the Fixed Stars
+### Qabalah (Verified per Wang, Davidson, Zohar)
+- **Sephirah:** [[Chokmah]] (Wisdom, 2nd emanation, Supernal Father)
+- **Divine Name:** Yah (יה) — Wang
+- **Angelic Choir:** Auphanim (Wheels/Whirling Forces) — Wang; or Erelim (Valiant Ones) — Davidson via Maimonides
+- **Planetary Sphere:** Masloth (Starry Heaven/Zodiac) — Wang
+- **Element:** Fire (Yod) — Wang; Air as secondary (path of Aleph/The Fool)
 
-Raziel governs **Masloth**—the Zodiac. In astrology, he is the intelligence that reveals the *meaning* of planetary placements, the esoteric significance of aspects, the hidden narrative of the natal chart. To invoke Raziel is to ask not "What will happen?" but "What does this *mean*?"
+### Tarot (Verified per Wang)
+- **The Four Twos:** Initial polarity, first differentiation from unity
+- **The Four Kings:** Yod force (fiery, initiatory principle) in four worlds
 
-### Tarot: The Twos and Kings
+### Astrology (Verified)
+- **Masloth (Zodiac):** The sphere of the fixed stars, archetypal patterns of cosmic intelligence
 
-The **[[Tarot]]** Twos (polarity) and Kings (initiatory force) are Raziel's domain. Every Two-card in a reading signals a **choice point**, a fork in the path. Every King signals the *spark* that initiates movement.
+### Human Design (Vibology Synthesis)
+- **Ajna Center:** Mental clarity, conceptualization, inspiration (mapped via Angelic Architecture)
+- **Gates:** 47, 24, 4, 17 (Ajna gates)
 
-### Human Design: The Ajna Center
+### Gene Keys (Vibology Synthesis)
+- **17th Siddhi:** Omniscience—direct knowing, transparent mind
 
-In **[[Human Design]]**, Raziel corresponds to the **Ajna Center**—mental clarity, conceptualization, inspiration. Gates 47, 24, 4, and 17 are his gates. When the Ajna is defined, the individual has consistent access to mental processing; when undefined, they receive flashes of insight from the collective field.
+### The Window (Vibology Synthesis)
+- Mental clarity that perceives blueprint as intelligent design
 
-### Gene Keys: The 17th Siddhi (Omniscience)
-
-The **[[Gene Keys]]** 17th Siddhi—Omniscience—is the ultimate expression of Raziel's gift. This is not intellectual knowledge but *direct knowing*, the state where the mind becomes transparent to the divine pattern.
-
-### Qabalah: Chokmah, the Supernal Father
-
-Raziel *is* the archangelic intelligence of **[[Chokmah]]**. To study Qabalah is to enter Raziel's library. Every symbol, every path, every correspondence is a key to the mysteries he guards.
-
-### The Window: The Blueprint of Becoming
-
-In **[[The Window]]** system, Raziel corresponds to the **mental clarity** that perceives the blueprint (the natal chart, the bodygraph, the life pattern) and recognizes it as *intelligent design*, not random accident.
-
-### Jungian Psychology: The Wise Old Man
-
-In **[[Jungian psychology]]**, Raziel is the **Wise Old Man**—the inner guide, the voice of the Self that offers the crucial insight at the moment of crisis.
+### Jungian Psychology (Vibology Synthesis)
+- **The Wise Old Man:** Inner guide, voice of the Self offering crucial insight
 
 ## XVIII. Keywords and Themes
 
