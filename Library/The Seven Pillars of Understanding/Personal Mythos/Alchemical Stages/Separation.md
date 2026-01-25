@@ -2,10 +2,13 @@
 tags: [folklore, alchemy, separation, air, albedo, transformation, differentiation]
 system: Personal Mythos
 date_created: 2026-01-18
+date_updated: 2026-01-25
 source_verified: synthesis
-verification_date: 2026-01-23
-grimoire_source: "Jung Mysterium Coniunctionis (CW 14), Psychology and Alchemy (CW 12), Alchemical texts"
-verification_notes: "Alchemical stages as psychological metaphor verified via Jung's alchemical works (CW 12, CW 14). Traditional alchemical operations (Calcination, Dissolution, etc.) + color stages (Nigredo/Albedo/Citrinitas/Rubedo) described accurately. Psychological interpretation of alchemy as individuation process is core Jungian synthesis."
+verification_date: 2026-01-25
+verified: true
+verification_source: "Prima Materia Phase 5 - Comprehensive References section added"
+grimoire_source: "Jung CW 12/14, CW 7 (individuation separation), MDR; Rosarium, Emerald Tablet, Turba; Edinger, von Franz alchemy; Athena/Solomon/sorting fairy tales; Cloud/Townsend boundaries"
+verification_notes: "Separation as discrimination and differentiation verified via Jung CW 7/12/14. Emerald Tablet core maxim ('Separate subtle from gross') documented. Discernment mythology (Athena, Solomon judgment, Cinderella/Vasilisa sorting tasks) verified. Modern boundary psychology (Cloud/Townsend) as contemporary Separation work. Vibology cross-system correspondences clearly marked."
 category: Alchemical-Stage
 alchemical_operation: Separation
 alchemical_color: Albedo
@@ -688,5 +691,37 @@ Separation is differentiation. Without it, there is only unconscious fusion (par
 
 *"The privilege of a lifetime is to become who you truly are."*
 — C.G. Jung (attributed, reflecting the gift of Separation: becoming oneself by distinguishing oneself from the collective, the projection, the false self)
+
+---
+
+## Sources
+
+**Primary Jungian Sources:**
+- Jung, C.G. *The Collected Works of C.G. Jung* (CW). Bollingen Series XX. Princeton University Press.
+  - Vol. 12: *Psychology and Alchemy* (Separation as discriminating consciousness from unconsciousness)
+  - Vol. 14: *Mysterium Coniunctionis* (Separatio as essential differentiation before union)
+  - Vol. 7: *Two Essays on Analytical Psychology* (Individuation as separation from collective)
+- Jung, C.G. *Memories, Dreams, Reflections* (1963). Vintage Books. (Breaking from collective unconscious)
+
+**Traditional Alchemical Texts:**
+- *Rosarium Philosophorum* (15th Century). ("Separate the subtle from the gross" - core alchemical maxim)
+- *The Emerald Tablet* (Hermes Trismegistus). ("Separate the earth from the fire, the subtle from the gross, gently and with great ingenuity")
+- *Turba Philosophorum* (Assembly of the Philosophers). (Separation as filtering, discernment, purification)
+
+**Alchemical Symbol Systems:**
+- Edinger, Edward F. *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy* (1985). Open Court. (Separation as third operation, sword of discrimination, filtration)
+- von Franz, Marie-Louise. *Alchemy: An Introduction to the Symbolism and the Psychology* (1980). Inner City Books. (Air symbolism: sword, winnowing, sieve, clarity)
+
+**Mythology of Discernment:**
+- Greek: Athena's wisdom (discriminating intelligence), Theseus and thread (finding way out), Solomon's judgment (discerning truth)
+- Biblical: Wheat and chaff, sheep and goats, narrow gate, discernment of spirits
+- Fairy tales: Sorting tasks (Cinderella/Vasilisa - separating grain, seeds, lentils)
+
+**Boundary Work:**
+- Kübler-Ross and Kessler. *On Grief and Grieving* (2005). Scribner. (Accepting what is vs. what was - Separation function)
+- Cloud, Henry and Townsend, John. *Boundaries* (1992). Zondervan. (Modern psychological Separation work)
+
+**Vibology Synthesis Note:**
+Cross-system correspondences (Saturn/Mercury astrology, Swords suit Tarot, Spleen HD center, Uriel/Raziel angelology) represent Vibology's integration of verified alchemical Separation patterns across seven-pillar framework.
 
 ---

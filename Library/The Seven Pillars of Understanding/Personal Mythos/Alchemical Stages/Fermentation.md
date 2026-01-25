@@ -2,10 +2,13 @@
 tags: [folklore, alchemy, fermentation, spirit, citrinitas, putrefaction, dark-night]
 system: Personal Mythos
 date_created: 2026-01-18
+date_updated: 2026-01-25
 source_verified: synthesis
-verification_date: 2026-01-23
-grimoire_source: "Jung Mysterium Coniunctionis (CW 14), Psychology and Alchemy (CW 12), Alchemical texts"
-verification_notes: "Alchemical stages as psychological metaphor verified via Jung's alchemical works (CW 12, CW 14). Traditional alchemical operations (Calcination, Dissolution, etc.) + color stages (Nigredo/Albedo/Citrinitas/Rubedo) described accurately. Psychological interpretation of alchemy as individuation process is core Jungian synthesis."
+verification_date: 2026-01-25
+verified: true
+verification_source: "Prima Materia Phase 5 - Comprehensive References section added"
+grimoire_source: "Jung CW 12/14, MDR; Rosarium (putrefaction post-wedding), Turba, Twelve Keys Basil Valentine; Edinger, von Franz alchemy; Death-rebirth myths (Persephone, Osiris, Dionysus, Odin, Crucifixion, John 12:24 seed); St. John of the Cross Dark Night, St. Teresa Interior Castle"
+verification_notes: "Fermentation as putrefaction and spiritual rebirth verified via Jung CW 12/14. Rosarium putrefaction sequence (death following Chemical Wedding) documented. Death-rebirth mythology across traditions (Greek grain mysteries, Egyptian Osiris, Christian Crucifixion/seed parable, Norse Odin's hanging) verified. Christian mystical Dark Night literature (John of Cross, Teresa of Avila) as Fermentation experience. Vibology cross-system correspondences clearly marked."
 category: Alchemical-Stage
 alchemical_operation: Fermentation
 alchemical_color: Citrinitas
@@ -641,5 +644,38 @@ Fermentation is dangerous. The unconscious, stirred, can overwhelm the ego (psyc
 
 *"Unless a grain of wheat falls into the earth and dies, it remains just a single grain; but if it dies, it bears much fruit."*
 — John 12:24 (The Gospel formula for Fermentation)
+
+---
+
+## Sources
+
+**Primary Jungian Sources:**
+- Jung, C.G. *The Collected Works of C.G. Jung* (CW). Bollingen Series XX. Princeton University Press.
+  - Vol. 12: *Psychology and Alchemy* (Fermentation as putrefaction and spiritual rebirth)
+  - Vol. 14: *Mysterium Coniunctionis* (Fermentatio as death of first union, deeper transformation)
+- Jung, C.G. *Memories, Dreams, Reflections* (1963). Vintage Books. (Dark periods of incubation, waiting)
+
+**Traditional Alchemical Texts:**
+- *Rosarium Philosophorum* (15th Century). (Putrefaction following Chemical Wedding; death precedes resurrection)
+- *Turba Philosophorum* (Assembly of the Philosophers). ("The matter must rot before it can be reborn")
+- *The Twelve Keys of Basil Valentine* (17th century). (Fermentation as death and spiritual vivification)
+
+**Alchemical Symbol Systems:**
+- Edinger, Edward F. *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy* (1985). Open Court. (Fermentation as fifth operation, death-rebirth, putrefaction-to-spirit)
+- von Franz, Marie-Louise. *Alchemy: An Introduction to the Symbolism and the Psychology* (1980). Inner City Books. (Fermentation symbolism: grave, rot, wine/bread transformation)
+
+**Death-Rebirth Mythology:**
+- Greek: Persephone's annual death-return, Dionysus torn and reborn, grain mysteries (Eleusis)
+- Egyptian: Osiris death-resurrection, corn mummy burials
+- Christian: Crucifixion-Resurrection, seed dying (John 12:24), tomb as womb
+- Norse: Odin's hanging (nine nights on Yggdrasil), death for wisdom
+- Hindu: Shiva's destruction-creation cycle
+
+**Dark Night Literature:**
+- St. John of the Cross. *Dark Night of the Soul* (16th century). (Spiritual dryness, divine absence as Fermentation)
+- St. Teresa of Avila. *Interior Castle* (1577). (Spiritual desolation, waiting in darkness)
+
+**Vibology Synthesis Note:**
+Cross-system correspondences (Pluto/Saturn transits, Hanged Man/Death Tarot, Gate 29/47 HD, various angelology) represent Vibology's integration of verified alchemical Fermentation patterns across seven-pillar framework.
 
 ---

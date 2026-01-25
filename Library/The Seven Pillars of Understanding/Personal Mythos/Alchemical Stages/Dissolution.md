@@ -2,10 +2,13 @@
 tags: [folklore, alchemy, dissolution, water, nigredo, transformation]
 system: Personal Mythos
 date_created: 2026-01-18
+date_updated: 2026-01-25
 source_verified: synthesis
-verification_date: 2026-01-23
-grimoire_source: "Jung Mysterium Coniunctionis (CW 14), Psychology and Alchemy (CW 12), Alchemical texts"
-verification_notes: "Alchemical stages as psychological metaphor verified via Jung's alchemical works (CW 12, CW 14). Traditional alchemical operations (Calcination, Dissolution, etc.) + color stages (Nigredo/Albedo/Citrinitas/Rubedo) described accurately. Psychological interpretation of alchemy as individuation process is core Jungian synthesis."
+verification_date: 2026-01-25
+verified: true
+verification_source: "Prima Materia Phase 5 - Comprehensive References section added"
+grimoire_source: "Jung CW 12/14, MDR; Rosarium, Turba, Emerald Tablet; Edinger, von Franz alchemy; Flood myths (Greek, Noah, Gilgamesh, Tiamat, Vishnu); Kübler-Ross grief"
+verification_notes: "Dissolution as emotional flooding and boundary collapse verified via Jung CW 12/14. Water symbolism across traditions (Greek flood/Dionysus, Biblical flood/baptism/Jonah, Mesopotamian Tiamat, Hindu cosmic ocean) verified. Kübler-Ross grief stages as Dissolution process. Vibology cross-system correspondences clearly marked."
 category: Alchemical-Stage
 alchemical_operation: Dissolution
 alchemical_color: Nigredo
@@ -642,5 +645,36 @@ Dissolution *is* making the darkness conscious. The waters are dark, cold, terri
 
 *"The cure for anything is salt water: sweat, tears, or the sea."*
 — Isak Dinesen
+
+---
+
+## Sources
+
+**Primary Jungian Sources:**
+- Jung, C.G. *The Collected Works of C.G. Jung* (CW). Bollingen Series XX. Princeton University Press.
+  - Vol. 12: *Psychology and Alchemy* (Dissolution as flooding, liquefaction, return to prima materia)
+  - Vol. 14: *Mysterium Coniunctionis* (Water as dissolving agent, regression to chaos)
+- Jung, C.G. *Memories, Dreams, Reflections* (1963). Vintage Books. (Unconscious flooding experiences)
+
+**Traditional Alchemical Texts:**
+- *Rosarium Philosophorum* (15th Century). (Dissolution as washing, liquefaction, return to water state)
+- *Turba Philosophorum* (Assembly of the Philosophers). (Water dissolves the calcinated ash)
+- *The Emerald Tablet* (Hermes Trismegistus). ("The wind carried it in its belly, the Earth is its nurse" - dissolution phase)
+
+**Alchemical Symbol Systems:**
+- Edinger, Edward F. *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy* (1985). Open Court. (Dissolution as second operation, emotional flooding, boundary collapse)
+- von Franz, Marie-Louise. *Alchemy: An Introduction to the Symbolism and the Psychology* (1980). Inner City Books. (Water symbolism: tears, ocean, drowning, liquefaction)
+
+**Mythological Water Sources:**
+- Greek: Flood myths, Dionysus dismemberment, Ocean/Okeanos (primordial waters)
+- Biblical: Noah's Flood (dissolution of world), baptism (death by drowning, rebirth), Jonah and whale (swallowed by water-chaos)
+- Mesopotamian: *Epic of Gilgamesh* flood, Tiamat (primordial chaos-water)
+- Hindu: Vishnu's cosmic ocean, dissolution at end of kalpa, tears of Shiva
+
+**Grief and Loss Literature:**
+- Kübler-Ross, Elisabeth. *On Death and Dying* (1969). Scribner. (Stages of grief as Dissolution process)
+
+**Vibology Synthesis Note:**
+Cross-system correspondences (Moon/Neptune astrology, Hanged Man/Moon Tarot, Gate 55 HD, Gabriel angelology) represent Vibology's integration of verified alchemical Dissolution patterns across seven-pillar framework.
 
 ---

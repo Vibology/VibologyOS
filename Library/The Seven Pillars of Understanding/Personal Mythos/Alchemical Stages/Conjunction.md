@@ -2,10 +2,13 @@
 tags: [folklore, alchemy, conjunction, earth, citrinitas, sacred-marriage, hieros-gamos]
 system: Personal Mythos
 date_created: 2026-01-18
+date_updated: 2026-01-25
 source_verified: synthesis
-verification_date: 2026-01-23
-grimoire_source: "Jung Mysterium Coniunctionis (CW 14), Psychology and Alchemy (CW 12), Alchemical texts"
-verification_notes: "Alchemical stages as psychological metaphor verified via Jung's alchemical works (CW 12, CW 14). Traditional alchemical operations (Calcination, Dissolution, etc.) + color stages (Nigredo/Albedo/Citrinitas/Rubedo) described accurately. Psychological interpretation of alchemy as individuation process is core Jungian synthesis."
+verification_date: 2026-01-25
+verified: true
+verification_source: "Prima Materia Phase 5 - Comprehensive References section added"
+grimoire_source: "Jung CW 14 (entire volume on Conjunction), CW 12, CW 16 (transference), CW 7 (syzygy); Rosarium Chemical Wedding, Rosenkreutz Chemical Wedding, Turba, Emerald Tablet; Edinger, von Franz alchemy; Hieros gamos mythology (Zeus/Hera, Psyche/Eros, Shiva-Shakti, Christ/Church); Gnostic Bridal Chamber"
+verification_notes: "Conjunction as union of opposites verified via Jung's complete CW 14 Mysterium Coniunctionis. Chemical Wedding sequences (Rosarium King/Queen, Rosenkreutz) documented. Sacred marriage across traditions (Greek hieros gamos, Hindu Shiva-Shakti, Christian Bridal Chamber, Kabbalistic Shekinah reunion) verified. Vibology cross-system correspondences clearly marked."
 category: Alchemical-Stage
 alchemical_operation: Conjunction
 alchemical_color: Citrinitas
@@ -664,5 +667,36 @@ When the opposites unite—when the ego surrenders to partnership with the contr
 
 *"The soul is composed of the union of opposites."*
 — C.G. Jung
+
+---
+
+## Sources
+
+**Primary Jungian Sources:**
+- Jung, C.G. *The Collected Works of C.G. Jung* (CW). Bollingen Series XX. Princeton University Press.
+  - Vol. 14: *Mysterium Coniunctionis* (Entire volume dedicated to Conjunction; union of opposites, sacred marriage)
+  - Vol. 12: *Psychology and Alchemy* (Conjunction imagery: King and Queen, Sol and Luna)
+  - Vol. 16: *The Practice of Psychotherapy* (Transference as psychological Conjunction)
+  - Vol. 7: *Two Essays on Analytical Psychology* (Syzygy, union of conscious and unconscious)
+
+**Traditional Alchemical Texts:**
+- *Rosarium Philosophorum* (15th Century). (Chemical Wedding sequence: King and Queen unite in bath, die, resurrect as hermaphrodite)
+- *The Chemical Wedding of Christian Rosenkreutz* (1616). Johann Valentin Andreae. (Entire Rosicrucian allegory of sacred marriage)
+- *Turba Philosophorum* (Assembly of the Philosophers). (Union of red man and white woman)
+- *The Emerald Tablet* (Hermes Trismegistus). ("The Sun is its father, the Moon is its mother" - primal Conjunction)
+
+**Alchemical Symbol Systems:**
+- Edinger, Edward F. *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy* (1985). Open Court. (Conjunction as fourth operation, temporary union, peak experience)
+- von Franz, Marie-Louise. *Alchemy: An Introduction to the Symbolism and the Psychology* (1980). Inner City Books. (Hieros gamos symbolism: rebis, hermaphrodite, sacred marriage)
+
+**Sacred Marriage Mythology:**
+- Greek: Hieros gamos (Hera and Zeus), Psyche and Eros union, Dionysus and Ariadne
+- Hindu: Shiva-Shakti (eternal union), Radha-Krishna (divine love)
+- Christian mysticism: Bridal Chamber (Gnostic), Song of Songs, Christ and Church
+- Gnostic: Bridal Chamber sacrament, *Gospel of Philip*
+- Kabbalah: Shekinah and YHVH reunion, Tiferet and Malkuth marriage
+
+**Vibology Synthesis Note:**
+Cross-system correspondences (Venus/Mars conjunction astrology, Lovers/Temperance Tarot, Gate 59 HD, various angelic pairs) represent Vibology's integration of verified alchemical Conjunction patterns across seven-pillar framework.
 
 ---

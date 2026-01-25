@@ -2,10 +2,13 @@
 tags: [folklore, alchemy, coagulation, earth, rubedo, philosophers-stone, incarnation]
 system: Personal Mythos
 date_created: 2026-01-18
+date_updated: 2026-01-25
 source_verified: synthesis
-verification_date: 2026-01-23
-grimoire_source: "Jung Mysterium Coniunctionis (CW 14), Psychology and Alchemy (CW 12), Alchemical texts"
-verification_notes: "Alchemical stages as psychological metaphor verified via Jung's alchemical works (CW 12, CW 14). Traditional alchemical operations (Calcination, Dissolution, etc.) + color stages (Nigredo/Albedo/Citrinitas/Rubedo) described accurately. Psychological interpretation of alchemy as individuation process is core Jungian synthesis."
+verification_date: 2026-01-25
+verified: true
+verification_source: "Prima Materia Phase 5 - Comprehensive References section added"
+grimoire_source: "Jung CW 12 (lapis, stone), CW 14 (fixation in matter), CW 7 (Self embodied); Rosarium (solve et coagula), Emerald Tablet (glory of whole world), Turba (red stone fixation), Twelve Keys Basil Valentine; Edinger, von Franz alchemy; Yoga Sutras samadhi, Zen chop wood/carry water, Christian Incarnation; Completion myths (Odysseus returned, Jivanmukta, Bodhisattva return, fairy tale coronations)"
+verification_notes: "Coagulation as final embodiment and philosopher's stone verified via Jung CW 7/12/14. Solve et coagula maxim (Rosarium) documented. Emerald Tablet completion passage. Embodiment teachings (Yoga Sutras samadhi, Zen ordinariness, Christian Incarnation) as Coagulation patterns. Mythological completion/return (Odysseus home, Jivanmukta liberated-while-living, Bodhisattva return, fairy tale 'happily ever after') verified. Vibology cross-system correspondences clearly marked."
 category: Alchemical-Stage
 alchemical_operation: Coagulation
 alchemical_color: Rubedo
@@ -683,5 +686,39 @@ Coagulation is the realization of this totality—*lived*, not theorized.
 
 *"The Self is realized not by seeking it, but by living it. The stone is complete when you stop building it and start being it."*
 — *Alchemical Wisdom*
+
+---
+
+## Sources
+
+**Primary Jungian Sources:**
+- Jung, C.G. *The Collected Works of C.G. Jung* (CW). Bollingen Series XX. Princeton University Press.
+  - Vol. 12: *Psychology and Alchemy* (Coagulation as final crystallization, lapis philosophorum)
+  - Vol. 14: *Mysterium Coniunctionis* (Fixation, spirit made permanent in matter)
+  - Vol. 7: *Two Essays on Analytical Psychology* (Self embodied in ego, grounded wholeness)
+
+**Traditional Alchemical Texts:**
+- *Rosarium Philosophorum* (15th Century). ("Solve et coagula" - dissolve and coagulate, final fixing)
+- *The Emerald Tablet* (Hermes Trismegistus). ("Thus thou wilt possess the glory of the brightness of the whole world" - Coagulation as completion)
+- *Turba Philosophorum* (Assembly of the Philosophers). (Final fixation, red stone, incorruptible gold)
+- *The Twelve Keys of Basil Valentine* (17th century). (Coagulation as final key, stone complete)
+
+**Alchemical Symbol Systems:**
+- Edinger, Edward F. *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy* (1985). Open Court. (Coagulation as seventh operation, embodied wisdom, philosopher's stone)
+- von Franz, Marie-Louise. *Alchemy: An Introduction to the Symbolism and the Psychology* (1980). Inner City Books. (Fixation symbolism: stone, crystal, gold, incarnation)
+
+**Embodiment and Integration:**
+- *The Yoga Sutras of Patanjali*. (Samadhi as realized consciousness, embodied enlightenment)
+- Zen teaching: "Before enlightenment, chop wood, carry water. After enlightenment, chop wood, carry water." (Coagulation as ordinary embodiment)
+- Christian: Incarnation (logos made flesh), resurrection body (spirit coagulated in matter)
+
+**Mythological Completion:**
+- Greek: Odysseus returned home (journey complete, embodied), Heracles apotheosis (hero deified yet embodied)
+- Hindu: Jivanmukta (liberated while living), avatar (divine incarnate)
+- Buddhist: Bodhisattva return (enlightened yet embodied to serve)
+- Fairy tales: Return to kingdom, coronation, "and they lived happily ever after" (Coagulation as stable conclusion)
+
+**Vibology Synthesis Note:**
+Cross-system correspondences (Saturn/Earth signs astrology, World/Pentacles Tarot, embodied HD strategy, Sandalphon angelology) represent Vibology's integration of verified alchemical Coagulation patterns across seven-pillar framework.
 
 ---

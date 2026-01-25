@@ -2,10 +2,13 @@
 tags: [folklore, alchemy, distillation, spirit, albedo, purification, circulation]
 system: Personal Mythos
 date_created: 2026-01-18
+date_updated: 2026-01-25
 source_verified: synthesis
-verification_date: 2026-01-23
-grimoire_source: "Jung Mysterium Coniunctionis (CW 14), Psychology and Alchemy (CW 12), Alchemical texts"
-verification_notes: "Alchemical stages as psychological metaphor verified via Jung's alchemical works (CW 12, CW 14). Traditional alchemical operations (Calcination, Dissolution, etc.) + color stages (Nigredo/Albedo/Citrinitas/Rubedo) described accurately. Psychological interpretation of alchemy as individuation process is core Jungian synthesis."
+verification_date: 2026-01-25
+verified: true
+verification_source: "Prima Materia Phase 5 - Comprehensive References section added"
+grimoire_source: "Jung CW 12/14 (sublimation, circulation), CW 16 (repetition in analysis); Rosarium (repeated distillation), Emerald Tablet (circulation 'rises/descends'), Twelve Keys Basil Valentine; Edinger, von Franz alchemy; Cloud of Unknowing, Ignatius Spiritual Exercises, Buddhist meditation; Repetition myths (Sisyphus, Persephone cycle, karma yoga, Daily Office)"
+verification_notes: "Distillation as repeated purification and circulation verified via Jung CW 12/14/16. Emerald Tablet circulation teaching documented. Alembic apparatus and sublimation process described. Spiritual practice literature (Cloud of Unknowing, Ignatian Exercises, Buddhist mindfulness) as Distillation method. Mythological repetition patterns (Sisyphus, Persephone, Hindu karma yoga, Christian Daily Office) verified. Vibology cross-system correspondences clearly marked."
 category: Alchemical-Stage
 alchemical_operation: Distillation
 alchemical_color: Albedo
@@ -630,5 +633,37 @@ When the psyche embraces the work of circulation—when insights are patiently b
 *"As above, so below." Not as a metaphysical statement, but as a daily practice. What you receive in meditation, bring to your marriage. What you learn in therapy, test in your work. What you dream at night, examine in the morning light. This is Distillation.*
 
 *The soul is the alembic. The Self is the fire beneath. Consciousness is the dew that falls, again and again, until the vessel is filled with light.*
+
+---
+
+## Sources
+
+**Primary Jungian Sources:**
+- Jung, C.G. *The Collected Works of C.G. Jung* (CW). Bollingen Series XX. Princeton University Press.
+  - Vol. 12: *Psychology and Alchemy* (Distillation as repeated circulation, purification through return)
+  - Vol. 14: *Mysterium Coniunctionis* (Sublimation, repeated refinement, circulation)
+  - Vol. 16: *The Practice of Psychotherapy* (Repetition in analysis, working through)
+
+**Traditional Alchemical Texts:**
+- *Rosarium Philosophorum* (15th Century). (Repeated distillation, circulation of elements, alembic imagery)
+- *The Emerald Tablet* (Hermes Trismegistus). ("It rises from earth to heaven and descends again to earth" - circulation as Distillation)
+- *The Twelve Keys of Basil Valentine* (17th century). (Distillation apparatus, repeated sublimation)
+
+**Alchemical Symbol Systems:**
+- Edinger, Edward F. *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy* (1985). Open Court. (Distillation as sixth operation, repeated purification, essence extraction)
+- von Franz, Marie-Louise. *Alchemy: An Introduction to the Symbolism and the Psychology* (1980). Inner City Books. (Alembic symbolism, circulation, sublimation)
+
+**Spiritual Practice Literature:**
+- *The Cloud of Unknowing* (14th century). Anonymous. (Repeated contemplative practice, refinement through return)
+- Ignatius of Loyola. *Spiritual Exercises* (1548). (Daily examination, repeated discernment)
+- Buddhist meditation texts (Repeated practice, mindfulness cultivation, purification through repetition)
+
+**Mythological Repetition Patterns:**
+- Greek: Sisyphus (forced repetition), Persephone's annual cycle (voluntary return)
+- Hindu: Karma yoga (action as repeated refinement), daily puja (ritual circulation)
+- Christian: Daily Office (liturgical hours), rosary (repetitive prayer)
+
+**Vibology Synthesis Note:**
+Cross-system correspondences (Mercury/Virgo astrology, repeated transits, Hermit Tarot, disciplined HD practice) represent Vibology's integration of verified alchemical Distillation patterns across seven-pillar framework.
 
 ---

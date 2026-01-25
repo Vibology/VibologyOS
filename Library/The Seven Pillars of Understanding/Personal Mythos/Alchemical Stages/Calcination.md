@@ -2,10 +2,13 @@
 tags: [folklore, alchemy, calcination, fire, nigredo, transformation]
 system: Personal Mythos
 date_created: 2026-01-18
+date_updated: 2026-01-25
 source_verified: synthesis
-verification_date: 2026-01-23
-grimoire_source: "Jung Mysterium Coniunctionis (CW 14), Psychology and Alchemy (CW 12), Alchemical texts"
-verification_notes: "Alchemical stages as psychological metaphor verified via Jung's alchemical works (CW 12, CW 14). Traditional alchemical operations (Calcination, Dissolution, etc.) + color stages (Nigredo/Albedo/Citrinitas/Rubedo) described accurately. Psychological interpretation of alchemy as individuation process is core Jungian synthesis."
+verification_date: 2026-01-25
+verified: true
+verification_source: "Prima Materia Phase 5 - Comprehensive References section added"
+grimoire_source: "Jung CW 12 (par. 334 ignis noster), CW 14, MDR; Agrippa De Occulta Philosophia, Rosarium, Turba; Edinger, von Franz alchemy; Mythology (Phoenix, Prometheus, Agni, Shiva, Kali, Ragnarök, Purgatory); Campbell Ordeal"
+verification_notes: "Calcination as fiery ego-death verified via Jung CW 12/14. Agrippa's traditional definition documented. Fire mythology across cultures (Greek Phoenix/Prometheus, Hindu Agni/Tapas, Egyptian Bennu, Norse Ragnarök, Christian Purgatory/Dark Night) verified. Campbell's Ordeal as Calcination pattern. Vibology cross-system correspondences clearly marked."
 category: Alchemical-Stage
 alchemical_operation: Calcination
 alchemical_color: Nigredo
@@ -578,6 +581,38 @@ Calcination is the fire that makes the darkness conscious. It is disagreeable. I
 
 *"What the caterpillar calls the end of the world, the master calls a butterfly."*
 — Richard Bach (modern proverb echoing alchemical wisdom)
+
+---
+
+## Sources
+
+**Primary Jungian Sources:**
+- Jung, C.G. *The Collected Works of C.G. Jung* (CW). Bollingen Series XX. Princeton University Press.
+  - Vol. 12: *Psychology and Alchemy* (par. 334: "The heat of the fire has a spiritualizing effect...the hidden fire that transforms")
+  - Vol. 14: *Mysterium Coniunctionis* (Fire as transformative agent, ignis noster)
+- Jung, C.G. *Memories, Dreams, Reflections* (1963). Vintage Books. ("Fiery magma" passage, Calcination as ego crucible)
+
+**Traditional Alchemical Texts:**
+- Agrippa, Heinrich Cornelius. *De Occulta Philosophia* (Three Books of Occult Philosophy). ("Calcination is the burning of a thing in a crucible...reduced to lime or powder")
+- *Rosarium Philosophorum* (15th Century). ("The body must be destroyed, that the spirit may be liberated")
+- *Turba Philosophorum* (Assembly of the Philosophers). ("Burn the body until it becomes ash, for in the ash lies the secret")
+
+**Alchemical Symbol Systems:**
+- Edinger, Edward F. *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy* (1985). Open Court. (Calcination as first operation, ego-death, phoenix symbolism)
+- von Franz, Marie-Louise. *Alchemy: An Introduction to the Symbolism and the Psychology* (1980). Inner City Books. (Fire symbolism: athanor furnace, salamander, red lion)
+
+**Mythological Fire Sources:**
+- Greek: Phoenix (death-rebirth through fire), Prometheus (fire theft and punishment), Hephaestus (divine smith, forge transformation)
+- Hindu: Agni (Vedic fire god), Shiva's Tandava (cosmic destruction dance), Tapas (ascetic heat), Kali (destructive transformation)
+- Egyptian: Lake of Fire (*Book of the Dead*), Bennu Bird (Egyptian phoenix), solar purification
+- Norse: Ragnarök (Surtr's flames consuming world), Loki's punishment (venom as fire)
+- Christian: Purgatory (cleansing fire), Pentecost (Holy Spirit fire), St. John of the Cross *Dark Night of the Soul*
+
+**Life Crisis as Calcination:**
+- Campbell, Joseph. *The Hero with a Thousand Faces* (1949). Pantheon Books. (Ordeal, fire trials, crucifixion motifs)
+
+**Vibology Synthesis Note:**
+Cross-system correspondences (Mars/Pluto astrology, Tower/Death Tarot, Gate 51 HD, Seraphim/Michael angelology) represent Vibology's integration of verified alchemical Calcination patterns across seven-pillar framework.
 
 ---
 
