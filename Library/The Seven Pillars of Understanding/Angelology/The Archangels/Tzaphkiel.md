@@ -2,6 +2,9 @@
 tags: [angelology, archangel, tzaphkiel, binah, saturn]
 system: Angelology
 date_created: 2026-01-17
+date_updated: 2026-01-25
+verified: 2026-01-25
+verification_source: Esoteric Grimoire
 category: Individual Archangel
 archangel_name: Tzaphkiel
 hebrew_name: צפקיאל
@@ -943,6 +946,40 @@ To integrate Tzaphkiel is to become the **sacred womb**—the one who holds, wit
 ### Synthesis Pieces
 - [[Saturn Return at 29]] — Astrology + HD + Tarot integration of Tzaphkiel initiation
 - [[The Throat as Manifestation Gateway]] (potential) — HD + Angelology + Qabalah synthesis
+
+---
+
+## References
+
+*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
+
+**Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.
+- Tzaphkiel as "Contemplation of God," archangel of Binah: p. 298
+- Prince of Spiritual Strife Against Evil: p. 298
+
+**Wang, Robert.** *The Qabalistic Tarot: A Textbook of Mystical Philosophy.* Weiser Books, 1983.
+- Tzaphkiel as archangel of Binah
+- Aralim (Thrones) as angelic choir of Binah
+- Binah/Saturn/Thrones correspondences
+- All Threes and Queens as Binah cards
+- The Empress (III) described conceptually as Binah/Great Mother
+
+**The Zohar** (Foundational text of Qabalah)
+- Binah as Divine Mother, Great Sea, Supernal Understanding
+- Palace of the King, womb where souls are held before incarnation (referenced in text)
+
+**The Bible**
+- Proverbs 9:1: Wisdom builds her house with seven pillars
+- Job 28:12-28: The hiddenness of wisdom/understanding
+
+**Sepher Yetzirah** (*Book of Formation*)
+- Three Mother Letters (Aleph, Mem, Shin)
+- Mem (Water) as letter of Binah (referenced in text)
+
+**Hermetic Qabalah** (Regardie, Fortune, Knight)
+- Binah pathworkings referenced but specific texts not verified in Esoteric Grimoire
+
+> *Vibology Synthesis: Cross-system correspondences (Human Design Throat Center, Saturn/astrology, Tarot Empress/Threes/Queens, Jungian Great Mother) represent original integrative frameworks. The connection between Tzaphkiel and Binah/form-giving is traditional Qabalah; mapping to HD Throat (manifestation) and Jungian archetypes is Vibology interpretation. Mythological parallels (Themis, Ananke, Nut, Neith, Kali, Urd) are comparative analysis.*
 
 ---
 
