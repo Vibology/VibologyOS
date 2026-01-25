@@ -367,8 +367,7 @@ When lived correctly, Variables offer the **ultimate differentiation**—the ful
 
 ---
 
-## Cross-System Correspondences
-
+## Correspondences
 ### Jungian Psychology
 
 Variables resonate with Jung's concept of **psychological types** (Introversion/Extroversion, Thinking/Feeling, Sensation/Intuition). The Strategic/Receptive distinction parallels **Extraversion** (outward focus) and **Introversion** (inward depth).
@@ -391,11 +390,6 @@ The [[The Window]] system's **House of the Land** (stability, foundation) resona
 
 ---
 
-## Keywords
-
-**Variables, Four Transformations, Determination, Environment, Perspective, Motivation, PHS, Primary Health System, Left, Right, Strategic, Receptive, 1781 mutation, Tone, Color, Base, Transference, Distraction, Differentiation, Rave Psychology, Dietary Regimen, Cognition, Awareness, Monopole**
-
----
 
 ## Cross-References
 ### Core Variables

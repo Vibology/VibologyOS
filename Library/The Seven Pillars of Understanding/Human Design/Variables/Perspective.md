@@ -445,8 +445,7 @@ Perspective requires a full [[Human Design]] chart with **Tone/Color/Base** calc
 
 ---
 
-## Cross-System Correspondences
-
+## Correspondences
 ### Jungian Cognitive Functions
 
 **Parallel:** Jung's **cognitive functions** (Thinking, Feeling, Sensation, Intuition) describe how the psyche processes information—similar to Perspective's lens.
@@ -482,11 +481,6 @@ Perspective requires a full [[Human Design]] chart with **Tone/Color/Base** calc
 
 ---
 
-## Keywords
-
-**Perspective, View, Cognition, Distraction, Personality Nodes, Conscious Trajectory, Fear, Hope, Desire, Need, Guilt, Innocence, Investigation, Possibility, Leader-Follower, Master-Novice, Probability, Observer, Left, Right, Focused Vision, Peripheral Vision, Outer Authority, Conceptualizing, Harmonic Colors**
-
----
 
 ## Cross-References
 ### Core Variables

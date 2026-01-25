@@ -443,8 +443,7 @@ Motivation requires a full [[Human Design]] chart with **Tone/Color/Base** calcu
 
 ---
 
-## Cross-System Correspondences
-
+## Correspondences
 ### Jungian Psychology: The Self and Individuation
 
 **Parallel:** Jung's **Self** is the totality of the psyche—the unified center that emerges through **individuation** (becoming who you truly are). Correct Motivation is similar—the authentic drive that emerges through differentiation.
@@ -471,11 +470,6 @@ Motivation requires a full [[Human Design]] chart with **Tone/Color/Base** calcu
 
 ---
 
-## Keywords
-
-**Motivation, Transference, Drive, Frequency, Personality Sun, Personality Earth, Fear, Hope, Desire, Need, Guilt, Innocence, Foundation, Possibility, Trajectory, Wanting, Probability, Observer, Harmonic Pairs, Homogenization, Differentiation, Outer Authority, Magnetic Monopole**
-
----
 
 ## Cross-References
 ### Core Variables

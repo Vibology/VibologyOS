@@ -384,8 +384,7 @@ The Not-Self mind resists this. It wants to be "flexible," "adaptive," "open to 
 
 ---
 
-## Cross-System Correspondences
-
+## Correspondences
 ### Qabalah: The Tree of Life and Emanation
 
 **Parallel:** The **Tree of Life** describes consciousness as **emanating** from formless Source (Ain Soph) through ten Sephiroth. Human Design's Tone/Color/Base describes consciousness as **entering** through neutrino streams and **structuring** through Crystals.
@@ -411,11 +410,6 @@ The Not-Self mind resists this. It wants to be "flexible," "adaptive," "open to 
 
 ---
 
-## Keywords
-
-**Tone, Color, Base, Substructure, Crystals of Consciousness, Design Crystal, Personality Crystal, Neutrino Stream, Architecture, Messenger, Entry Point, Left, Right, Strategic, Receptive, Splenic Binary, Ajna Binary, Solar Plexus Binary, Advanced Imaging, PHS, Differentiation, 1781 Mutation, Cognition, Sensory-Cognitive Binaries**
-
----
 
 ## Cross-References
 ### Core Variables

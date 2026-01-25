@@ -53,6 +53,17 @@ def process_file(filepath, dry_run=True):
         content = re.sub(r'^## Practical Guidance\s*$', '## Strategy Integration', content, flags=re.MULTILINE)
         changes.append("  ## Practical Guidance -> ## Strategy Integration")
 
+    # 6. DATA: ## Cross-System Correspondences -> ## Correspondences
+    if re.search(r'^## Cross-System Correspondences\s*$', content, re.MULTILINE):
+        content = re.sub(r'^## Cross-System Correspondences\s*$', '## Correspondences', content, flags=re.MULTILINE)
+        changes.append("  ## Cross-System Correspondences -> ## Correspondences")
+
+    # 7. Remove ## Keywords section (redundant with YAML tags)
+    pattern = r'\n## Keywords\s*\n(?:(?!##).)*?(?=\n##|\Z)'
+    if re.search(pattern, content, re.DOTALL):
+        content = re.sub(pattern, '\n', content, flags=re.DOTALL)
+        changes.append("  Removed ## Keywords section")
+
     if content != original:
         if changes and not dry_run:
             with open(filepath, 'w', encoding='utf-8') as f:

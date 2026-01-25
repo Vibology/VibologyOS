@@ -433,8 +433,7 @@ PHS consultations are typically high-investment ($200-$500+ per session) because
 
 ---
 
-## Cross-System Correspondences
-
+## Correspondences
 ### Ayurveda: Agni and Digestive Fire
 
 **Parallel:** Ayurveda teaches that **Agni (digestive fire)** is strengthened by eating at correct times, in calm environments, with proper food combinations.
@@ -461,11 +460,6 @@ PHS consultations are typically high-investment ($200-$500+ per session) because
 
 ---
 
-## Keywords
-
-**Primary Health System, PHS, Determination, Dietary Regimen, Design Sun, Design Earth, Color, Tone, Base, Conditions, Circumstances, Appetite, Taste, Thirst, Touch, Sound, Light, Experimentation, Tracking, Sensory Acuity, Brain Differentiation, Seven-Year Cycle, Advanced Imaging, Left, Right, Strategic, Receptive**
-
----
 
 ## Cross-References
 ### Core Variables

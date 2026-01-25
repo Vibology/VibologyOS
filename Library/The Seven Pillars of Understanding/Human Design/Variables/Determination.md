@@ -408,8 +408,7 @@ Determination is the **gateway** to the other Variables. You cannot access [[Env
 
 ---
 
-## Cross-System Correspondences
-
+## Correspondences
 ### Ayurveda: Doshas and Agni
 
 **Parallel:** Ayurveda's **Agni (digestive fire)** teaching emphasizes that digestion depends on **timing, temperature, and mental state**—remarkably similar to PHS.
@@ -434,11 +433,6 @@ Determination is the **gateway** to the other Variables. You cannot access [[Env
 
 ---
 
-## Keywords
-
-**Determination, PHS, Primary Health System, Dietary Regimen, Design Sun, Design Earth, Color, Conditions, Circumstances, Appetite, Taste, Thirst, Touch, Sound, Light, Consecutive, Restrictive, Temperature, Atmosphere, Frequency, Solar Timing, Brain Differentiation, Sensory Acuity, Digestion, Nutrition, Seven-Year Cycle**
-
----
 
 ## Cross-References
 ### Core Variables

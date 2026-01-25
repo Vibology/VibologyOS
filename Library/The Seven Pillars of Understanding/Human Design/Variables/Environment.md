@@ -449,8 +449,7 @@ After age 30, if chronic exhaustion or "stuckness" persists, consider **relocati
 
 ---
 
-## Cross-System Correspondences
-
+## Correspondences
 ### Feng Shui and Vastu Shastra
 
 **Parallel:** Feng Shui (Chinese) and Vastu Shastra (Indian) both teach that **physical environment affects life force (Qi/Prana)**. Placement, orientation, and spatial design matter.
@@ -478,11 +477,6 @@ After age 30, if chronic exhaustion or "stuckness" persists, consider **relocati
 
 ---
 
-## Keywords
-
-**Environment, Design Nodes, Trajectory, Caves, Markets, Kitchens, Mountains, Valleys, Shores, Hardscape, Landscape, Security, Exchange, Transformation, Perspective, Flow, Transition, Saturn Return, Longevity, Allies, Resistance, Strategic, Receptive, Left, Right, Tonal Architecture**
-
----
 
 ## Cross-References
 ### Core Variables
