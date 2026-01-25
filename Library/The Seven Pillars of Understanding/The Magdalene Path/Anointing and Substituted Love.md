@@ -10,7 +10,7 @@ category: Practice
 *The Central Sacrament - Touch, Presence, and Holding the Post*
 
 ---
-## Introduction: The Central Sacrament
+## Core Teaching
 
 **Anointing** is the central sacrament of [[The Magdalene Path Overview|The Magdalene Path]]—the act of consecrating through touch, preparing for transformation, and sealing with love (Bourgeault, Ch. 15). It is:
 
@@ -24,7 +24,7 @@ category: Practice
 **[[Mary Magdalene - Apostle and Beloved|Mary Magdalene]]** embodies both practices—she anoints Jesus' body for burial (Mark 16:1, John 19:39-42) and stands vigil at the cross when others flee (John 19:25). She demonstrates **radical presence** and **substituted love**. Bourgeault suggests that during the three days of death, Magdalene held Jesus's anguish and unresolved human emotions in her own heart so he could travel freely through the underworld to accomplish his cosmic work (Bourgeault, Ch. 12).
 
 ---
-## Historical Context: The Anointing Tradition
+## Gospel Foundation
 
 ### Jewish Burial Customs
 
@@ -84,7 +84,7 @@ In both **Catholic** and **Orthodox** traditions, **Extreme Unction** (anointing
 **The Teaching:** Anointing creates **safe passage** through the bardo realms (the intermediate states between death and rebirth).
 
 ---
-## The Mechanics: How Anointing Works
+## Mystical Depth
 
 ### Touch as Transmission
 
@@ -312,8 +312,7 @@ Hold the oil and pray (your own words or traditional):
 > "May you serve and walk in beauty."
 
 ---
-## Cross-System Correspondences
-
+## Pillar Integration
 > *Vibology Synthesis: The following cross-pillar mappings are original integrations correlating anointing practices with other systems in the Seven Pillars framework.*
 
 ### Tarot: The Star (XVII)
@@ -333,10 +332,6 @@ Those with **[[Splenic Authority]]** (Spleen defined) have **instinctual knowing
 Jung's **Transcendent Function** describes how two opposing forces (conscious/unconscious) unite to create a **third term**—parallel to the Abler Soul created through substituted love.
 
 ---
-## Keywords
-
-**Anointing, Chrismation, Sacred Touch, Substituted Love, Holding the Post, Abler Soul, Bardo, Safe Passage, Presence, Consecration, Healing, Myrrh, Nard, Eucharistic Touch, Seven Senses, Preparation for Death, Ego Death, Embodiment, Love Made Manifest**
-
 ---
 ## Cross-References
 ### Core Magdalene Path Entries

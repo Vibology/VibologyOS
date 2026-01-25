@@ -11,7 +11,7 @@ category: Overview
 *The Vertical Axis of Soul Ascent Through Conscious Love*
 
 ---
-## Introduction: The Unifying Core
+## Core Teaching
 
 > *Vibology Synthesis: The following framework integrates Bourgeault's Magdalene scholarship with the Seven Pillars system.*
 
@@ -28,7 +28,7 @@ category: Overview
 [[Mary Magdalene - Apostle and Beloved|Mary Magdalene]] is the archetypal figure of this path—the **Apostle to the Apostles**, the **Beloved**, the **Witness**, the **Anointer**. She represents the transformed feminine consciousness that has achieved **singleness** (inner wholeness) and thus can enter the **Bridal Chamber** (sacred union with the Divine). She is Wisdom ([[Sophia]]) incarnate, the human expression of divine love moving between realms to reunite the "shards of light." The Gospel of Philip identifies her as Jesus's *koinonos* (companion/partner), a term implying equality and intimacy (Bourgeault, 107; Gospel of Philip, NHL).
 
 ---
-## Historical Context: The Hidden Tradition
+## Gospel Foundation
 
 ### The Canonical Gospels
 
@@ -333,7 +333,7 @@ For those with **undefined Head and Ajna centers** (particularly [[Reflector|Ref
 **Example:** Hexagram 23 (Splitting Apart) corresponds to the **Lower Astral**—the dismantling of the false self.
 
 ---
-## Shadows of the Path
+## Kenotic Descent
 
 ### 1. Spiritual Bypassing
 
@@ -368,10 +368,6 @@ For those with **undefined Head and Ajna centers** (particularly [[Reflector|Ref
 **Antidote:** Respect the **sequence**. The Lower Astral (facing the seven demons) must be navigated before the Abyss. Shortcuts bypass necessary transformation.
 
 ---
-
-## Keywords
-
-**Magdalene Path, Fifth Way, Conscious Love, Vertical Axis, Soul Ascent, Kenosis, Self-Emptying, Singleness, Ihidaya, Bridal Chamber, Sacred Union, Substituted Love, Anointing, Mary Magdalene, Koinonos, Apostle to Apostles, Sophia, Wisdom Gospels, Gnostic, Enochian Aethyrs, Six Stages, Base, Gate, Lower Astral, Abyss, Higher Astral, Zenith, Choronzon, Seven Demons, False Self, Dark Night, Resurrection, Wedding Garment, Abler Soul, Cosmic Service, Embodiment, Sacred Feminine**
 
 ---
 ## Cross-References

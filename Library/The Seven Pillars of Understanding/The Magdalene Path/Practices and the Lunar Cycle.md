@@ -10,7 +10,7 @@ category: Practice
 *Daily Rhythms and Lunar Cycles on the Path of Ascent*
 
 ---
-## Introduction: The Rhythm of Practice
+## Core Teaching
 
 [[The Magdalene Path Overview|The Magdalene Path]] is not a single event or realization—it is a **daily discipline** lived in rhythm with natural cycles. The practices are **progressive**, **repetitive**, and **embodied**—requiring sustained commitment over years, not weeks.
 
@@ -377,8 +377,7 @@ While the Magdalene Path is **lunar** (receptive, cyclical), it honors the **sol
 **The Teaching:** The path is not linear—it is spiral. You return to the same lessons at deeper octaves.
 
 ---
-## Cross-System Correspondences
-
+## Pillar Integration
 ### Tarot: The Moon (XVIII)
 
 **[[The Moon]]** is the card of cycles, the unconscious, and the 28-day rhythm. It governs dreams, intuition, and the liminal spaces where the Magdalene Path unfolds.
@@ -396,10 +395,6 @@ The **North and South Nodes** of the Moon (Rahu and Ketu in Vedic astrology) rep
 Jung's practice of **Active Imagination** (dialoguing with the unconscious) parallels the evening review and dream work—bringing the unconscious into conscious relationship. Clarissa Pinkola Estés describes teaching a form of "interactive trancing" proximate to Jung's active imagination, using this to produce "stones" (insights) that elucidate a client's psychic journey (Estés, *Women Who Run With the Wolves*).
 
 ---
-## Keywords
-
-**Daily Practice, Lunar Cycle, 28-Day Rhythm, Moon Phases, New Moon, Full Moon, Dark Moon, Reflector Authority, Undefined Head, Undefined Ajna, Morning Consecration, Evening Review, Dream Work, Embodiment, Kenosis, Relationship Practices, Substituted Love, Bridal Chamber, Parenting, Solar Cycle, Solstices, Seven-Year Cycle, The Moon (Tarot XVIII), Active Imagination**
-
 ---
 ## Cross-References
 ### Core Magdalene Path Entries

@@ -10,7 +10,7 @@ category: Archetype
 *Witness, Anointer, Beloved, and Apostle to the Apostles*
 
 ---
-## Introduction: The Archetype and the Historical Figure
+## Core Teaching
 
 **Mary Magdalene** stands at the intersection of history and archetype—a flesh-and-blood woman who walked with Jesus and a **timeless symbol** of the soul's journey to divine union. She is:
 
@@ -27,7 +27,7 @@ category: Archetype
 Mary is not an object of worship but a **model**—the one who has walked [[The Magdalene Path Overview|The Magdalene Path]] completely. By studying her story (canonical and gnostic), we learn the **mechanics** of soul ascent: radical presence, anointing (healing touch), kenosis (witnessing death without fleeing), recognition (seeing the Risen Christ), and proclamation (carrying the message).
 
 ---
-## Historical Context: Three Marys, One Myth
+## Gospel Foundation
 
 ### The Biblical Confusion
 
@@ -341,10 +341,6 @@ Mary is the **model of the path**:
 5. **Proclamation** - Sharing gnosis, serving the whole
 
 ---
-## Keywords
-
-**Mary Magdalene, Apostle to the Apostles, Koinonos, Companion, Beloved, Witness, Anointer, Watchtower, Magdal-eder, Sophia, Wisdom, Sacred Feminine, Seven Demons, Seven Powers of Wrath, Gospel of Mary, Gospel of Philip, Gospel of Thomas, Bridal Mysticism, Singleness, Ihidaya, Gnosis, Recognition, Embodiment, Anointing, Penitent Whore, Pope Gregory, Canonical Gospels, Wisdom Gospels, Gnostic, Nag Hammadi, Alchemical Feminine**
-
 ---
 ## Cross-References
 ### Core Magdalene Path Entries

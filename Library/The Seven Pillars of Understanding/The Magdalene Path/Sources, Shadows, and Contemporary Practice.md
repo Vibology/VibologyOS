@@ -10,7 +10,7 @@ category: Context
 *The Texts, Distortions, and Modern Recovery of the Path*
 
 ---
-## Introduction: Recovering the Lost Tradition
+## Core Teaching
 
 [[The Magdalene Path Overview|The Magdalene Path]] is both **ancient** and **newly recovered**. For nearly 2,000 years, the tradition was **obscured**—first by the conflation of [[Mary Magdalene - Apostle and Beloved|Mary Magdalene]] with other women in the gospels, then by the church's reduction of her to a "penitent prostitute," and finally by the complete suppression of the **Wisdom gospels** (Gnostic texts) that preserved her teachings.
 
@@ -240,8 +240,7 @@ When the Wisdom gospels were recovered (1945), the **shadow image** could be inv
 - Most Christians still conflate the stories
 
 ---
-## Part III: Shadows of the Path
-
+## Kenotic Descent
 > *Vibology Synthesis: The following shadow analysis applies Magdalene Path teachings to identify potential distortions.*
 
 Even the **authentic** Magdalene Path carries shadows—ways the teaching can be distorted or weaponized.
@@ -451,8 +450,7 @@ Bourgeault **synthesizes**:
    - Engage in healing work, teaching, parenting, art, activism as **living practice**
 
 ---
-## Cross-System Correspondences
-
+## Pillar Integration
 ### Tarot: The High Priestess (II)
 
 **[[The High Priestess]]** embodies the **Wisdom** tradition—hidden knowledge, the veil between worlds, the path that must be **sought** rather than given. She is the Magdalene, holding the scrolls of gnosis.
@@ -470,10 +468,6 @@ Those with **[[Emotional Authority]]** (Solar Plexus defined) must **wait throug
 **Sophia** (Σοφία) is the divine feminine in Gnostic Christianity—the **Holy Wisdom** who descends into matter to redeem it. Mary Magdalene is the **human embodiment** of Sophia.
 
 ---
-## Keywords
-
-**Historical Sources, Canonical Gospels, Wisdom Gospels, Gospel of Mary, Gospel of Philip, Gospel of Thomas, Nag Hammadi, Penitent Whore Myth, Pope Gregory I, Medieval Mystics, John of the Cross, Teresa of Ávila, Spiritual Bypassing, Codependency, Savior Complex, Premature Abyss Crossing, Cynthia Bourgeault, Richard Rohr, Contemplative Practice, Centering Prayer, Welcoming Prayer, Shadow Work, Sacred Sexuality, Sophian Gnosticism**
-
 ---
 ## Cross-References
 ### Core Magdalene Path Entries

@@ -10,7 +10,7 @@ category: Stages
 *The Great Tree and the Soul's Climb from Darkness to Union*
 
 ---
-## Introduction: The Vision from The Gospel of the Beloved Companion
+## Core Teaching
 
 **The Eight Boughs of Ascent** are the core teaching of [[Mary Magdalene - Apostle and Beloved|Mary Magdalene]] as revealed in **The Gospel of the Beloved Companion** (Chapter 42)—a visionary text that preserves her instruction to the disciples on the soul's vertical journey from material bondage to divine union (de Quillan, Ch. 42).
 
@@ -775,8 +775,7 @@ The soul must strip off the **"garments"** (egoic identifications/shadows) at ea
 When all garments are shed, what remains is **naked presence**—the soul in its original purity, before any identity was assumed.
 
 ---
-## Cross-System Correspondences
-
+## Pillar Integration
 > *Vibology Synthesis: All cross-system correspondences in this section are original integrations unless otherwise cited.*
 
 ### Enochian Aethyrs (Secondary Mapping)
@@ -981,10 +980,6 @@ This parallels Buddhism's Bodhisattva ideal—delaying final liberation to help 
 The fruit of the higher boughs **nourishes** those at the lower boughs. Your clarity helps them see. Your courage helps them face their fear. Your love opens their hearts.
 
 ---
-## Keywords
-
-**The Great Tree, Eight Boughs, Gospel of the Beloved Companion, Gospel of Mary, Seven Powers of Wrath, Guardians, Apophasis, Denial, Silence, Nous, Shedding Garments, I AM, Sophia, Bridal Chamber, Cosmic Service, Soul Ascent, Vertical Axis, False Self System, Kenosis, Union, Spirit Embrace, Completion**
-
 ---
 ## Cross-References
 ### Core Magdalene Path Entries

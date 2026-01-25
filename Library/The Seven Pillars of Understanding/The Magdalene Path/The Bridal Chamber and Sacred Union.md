@@ -10,7 +10,7 @@ category: Practice
 *The Holiest of Holies - Sacred Union of Two Single Beings*
 
 ---
-## Introduction: The Apex of the Path
+## Core Teaching
 
 **The Bridal Chamber** (Greek: *nymphōn*) is the **holiest of holies** in [[The Magdalene Path Overview|The Magdalene Path]]—the sacred union of two **Single** (whole, integrated) beings that creates a "third term" or **Wedding Garment** (unified consciousness). It is the culmination of the **Fifth Way** (Path of Conscious Love) and surpasses baptism and eucharist as the central sacrament. The Gospel of Philip identifies it as the "Holy of Holies" (Gospel of Philip, Nag Hammadi Codex II,3).
 
@@ -31,7 +31,7 @@ category: Practice
 **The Qualification:** Only those who have achieved **[[Kenosis - The Path of Self-Emptying|singleness]]** (ihidaya)—internal integration of masculine and feminine, no longer split or seeking—can enter the Bridal Chamber. The Gospel of Philip states: "Let not the Bridal Chamber be for animals, slaves, or harlots; but it is for free men and virgins." Bourgeault interprets "virginity" here not as physical celibacy, but as "singleness"—a state of inner integrity (Bourgeault, 97; Gospel of Philip, NHL). If you enter seeking validation or completion, it is merely "marriage," not sacred union.
 
 ---
-## Historical Context: The Three Chambers
+## Gospel Foundation
 
 ### The Gospel of Philip's Threefold Structure
 
@@ -145,7 +145,7 @@ A Single being has **both** fully developed and **united**:
 **The Antidote:** Do the inner work **first**. Therapy, shadow work, meditation, embodiment practices—whatever it takes to become whole. Only then can you enter conscious partnership.
 
 ---
-## The Mechanics: How the Bridal Chamber Works
+## Mystical Depth
 
 ### The Two Entering as One
 
@@ -278,7 +278,7 @@ In moments of union (sexual, emotional, spiritual), **see** the beloved as:
 **The Result:** The boundary between self and other, human and divine, dissolves. What remains is **love** itself.
 
 ---
-## Shadows of the Bridal Chamber
+## Kenotic Descent
 
 > *Vibology Synthesis: The following shadow analysis applies Bridal Chamber teachings to identify potential distortions.*
 
@@ -346,10 +346,6 @@ Those with **[[Emotional Authority]]** (Solar Plexus defined) must **wait** thro
 Jung's **Syzygy** (the divine couple—animus/anima united) parallels the Bridal Chamber. The inner marriage (psychological integration) reflects the outer marriage (sacred partnership).
 
 ---
-## Keywords
-
-**Bridal Chamber, Sacred Union, Hieros Gamos, Singleness, Ihidaya, Wedding Garment, Abler Soul, Eucharistic Sex, Substituted Love, Cosmic Service, Gospel of Philip, Three Chambers, Transparency, Vulnerability, Divine Partnership, Integration, Masculine-Feminine Union, Alchemical Marriage, Twin Flame**
-
 ---
 ## Cross-References
 ### Core Magdalene Path Entries
