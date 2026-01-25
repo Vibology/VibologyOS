@@ -359,22 +359,16 @@ Jung's **Transcendent Function** describes how two opposing forces (conscious/un
 ## References
 
 Bourgeault, Cynthia. *The Meaning of Mary Magdalene: Discovering the Woman at the Heart of Christianity*. Boston: Shambhala, 2010.
-- Substituted Love (via Charles Williams): Ch. 12 ("Substituted Love")
-- Abler Soul (via John Donne): Ch. 12
+- Substituted Love: Ch. 12 ("Substituted Love")
+  - Bourgeault cites Charles Williams's theology of "mystical substitution" and "bearing of burdens"
+  - Bourgeault cites Williams's novels *Descent into Hell* and *All Hallows' Eve* as illustrations
+- Abler Soul: Ch. 12
+  - Bourgeault cites John Donne's poem "A Valediction: Forbidding Mourning" as source of term
 - Anointing as Sacramental Seal: Ch. 15 ("Anointing and Anointed")
 - Mary holding Jesus's anguish during the three days: Ch. 12
 
 de Quillan, Jehanne. *The Gospel of the Beloved Companion: The Complete Gospel of Mary Magdalene*. CreateSpace, 2010.
 - Eight Boughs of Ascent framework: Ch. 42
-
-Donne, John. "A Valediction: Forbidding Mourning." c. 1611.
-- Source of "Abler Soul" concept
-
-Williams, Charles. *Descent into Hell*. London: Faber and Faber, 1937.
-- Mystical substitution/bearing of burdens
-
-Williams, Charles. *All Hallows' Eve*. London: Faber and Faber, 1945.
-- Substituted love through voluntary sacrifice
 
 **Historical Source:**
 - Pope Gregory I, Homily 33 (594 CE): Conflation of three anointing women
