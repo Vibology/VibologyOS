@@ -4,8 +4,8 @@ system: The Window
 date_created: 2026-01-18
 date_updated: 2026-01-19
 source: Multi-system synthesis
-source_verified: synthesis
-verification_date: 2026-01-23
+verified: true
+verification_date: 2026-01-25
 tier: House Card
 gate: 25
 hexagram: 25 (Innocence)
@@ -121,14 +121,25 @@ The practice is straightforward: **stop constricting your natural vitality and l
 
 ---
 
-## Sources
+## References
 
-This card integrates knowledge from multiple systems:
-- Ra Uru Hu, *The Definitive Book of Human Design* (Gate 11 mechanics and biology)
-- Richard Rudd, *The Gene Keys* (Shadow/Gift/Siddhi spectrum for Gene Key 11)
-- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Hexagram 11 - Peace)
-- *The Window* system structure: Original synthesis integrating these traditions within the Six Houses framework
+### Primary Sources (Uploaded to Esoteric Grimoire)
 
+**I-Ching & Gene Keys:**
+- Huang, Alfred. *The Complete I Ching: The Definitive Translation by the Taoist Master Alfred Huang*. Rochester, VT: Inner Traditions, 1998.
+- Rudd, Richard. *Gene Keys: Unlocking the Higher Purpose Hidden in Your DNA*. London: Watkins Publishing, 2013. (First published 2009)
+- Wilhelm, Richard and Baynes, Cary F. (Trans.). *The I Ching or Book of Changes*. Princeton, NJ: Princeton University Press, 1967. (Bollingen Series XIX)
+
+**Human Design:**
+- Ra Uru Hu. *The Human Design System: The Complete Rave I'Ching*. Diessen am Ammersee, Germany: Jovian Archive Corporation, 2001.
+- Ra Uru Hu and Bunnell, Lynda. *The Definitive Book of Human Design: The Science of Differentiation*. IHDS/Jovian Archive, 2011. (Copyright 2008-2012)
+
+**Vibology Internal Reference:**
+- *The Blueprint (444) Reference Information: Complete Documentation for Vibology Framework*. Internal document. Created January 2026.
+
+### Vibology Synthesis Notes
+
+This card integrates verified source material (I-Ching hexagram meanings via Huang/Wilhelm, HD gate mechanics via Ra Uru Hu, Gene Keys transformation arc via Rudd) with original Vibology Synthesis (1980s contemporary archetypal encoding, Window categorical structure, divination interpretations).
 ---
 
 ## Internal Links
