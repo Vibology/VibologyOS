@@ -11,8 +11,7 @@ verification_notes: "Campbell's monomyth[^1] framework (12-stage Hero's Journey)
 
 # Tests, Allies, and Enemies
 
-## 1. Foundational Material
-
+## Overview
 ### Jung's Archetypal Context
 
 Tests, Allies, and Enemies constitute the **preparation phase** of the heroic journey—Stage 6 in Campbell's monomyth[^1]. Having crossed the [[Threshold]], the hero enters what Campbell calls the **Road of Trials**, a gauntlet of challenges that train consciousness for the supreme crisis ahead: [[The Ordeal]].
@@ -134,8 +133,7 @@ Psychologically, this stage corresponds to:
 
 **Midlife (35-45)**: Professional competition (enemies), strategic alliances, recognition that some relationships are transactional. Tests: betrayal by trusted colleagues, divorce, estrangement from family. The shapeshifter often appears here—the friend who becomes enemy, the enemy who becomes friend.
 
-## 2. Core Correspondences
-
+## Archetypal Cast
 | **System** | **Primary Correspondence** | **Symbolic Resonance** | **Psychological Function** |
 |------------|---------------------------|------------------------|----------------------------|
 | **Tarot** | [[Seven of Wands]]<br>[[Three of Cups]]<br>[[Five of Swords]]<br>[[Seven of Cups]] | Seven of Wands: Defense, standing ground against challengers<br>Three of Cups: Celebration, allies gathering<br>Five of Swords: Conflict, enemies defeated but at cost<br>Seven of Cups: Illusions, shapeshifters, choices unclear | Tests reveal character under pressure; Allies provide support/community; Enemies force differentiation; Shapeshifters reveal projection's limits |
@@ -146,7 +144,7 @@ Psychologically, this stage corresponds to:
 | **Angelology** | [[Michael]] (Ally, Warrior Protector)<br>**Adversarial Spirits** (Tests, Resistance)<br>[[Raphael]] (Healing Ally) | Michael: The defender, ally against darkness<br>Testing Spirits: Not evil, but oppositional—force growth<br>Raphael: The healer, ally in recovery from tests | Angels as allies witness and protect; adversarial forces test sincerity; healing presences restore after trials |
 | **Jungian Archetypes** | **Allies as Inner Resources**<br>**Enemies as [[Shadow]] Projections**<br>**[[Folklore/Jungian Archetypes/The Shapeshifter]]** | Allies: Differentiated aspects of Self<br>Enemies: Disowned rage/fear/power<br>Shapeshifter: [[Anima]]/[[Animus]], projection | The psyche externalizes its structure—we meet our allies and enemies in the world, but they are **us** |[^2]
 
-## 3. Practical Application
+## Practical Application
 
 ### Recognition: Signs You Are in Tests, Allies, and Enemies
 
@@ -239,8 +237,7 @@ Once you have navigated this stage successfully (and "success" does not mean vic
 
 **The Test of Loyalty**: This stage imposes a brutal test—**who remains when the cost is high?** Many who proclaimed alliance will vanish when the journey demands sacrifice. This is not betrayal; it is revelation. Let them go without bitterness.
 
-## 4. Synthesis Subsections
-
+## Jungian Analysis
 ### 4.1 Campbell's Hero's Journey: Tests, Allies, and Enemies as Skill-Building
 
 In Campbell's 12-stage monomyth, Tests, Allies, and Enemies (Stage 6) follows the [[Crossing the First Threshold]] (Stage 5) and precedes [[Approach to the Inmost Cave]] (Stage 7). Its placement is structural:
@@ -479,8 +476,7 @@ If navigated successfully, Tests, Allies, and Enemies confers irreplaceable gift
 **6. Readiness for the Ordeal**:
 - You are now **prepared**. The tests trained you; the allies stabilized you; the enemies clarified your purpose. When the Ordeal arrives, you will face it—not because you are fearless, but because you are **ready**.
 
-## 5. Gender Dynamics
-
+## Shadow Dynamics
 ### Masculine-Coded Tests: Combat and Competition
 
 In patriarchal myth, tests often manifest as **battle** or **conquest**:
@@ -536,7 +532,7 @@ Western heroic narratives privilege masculine tests (combat, competition). Easte
 
 The future of this archetype may be **gender-integrative**—recognizing that tests train multiple capacities, allies come in unexpected forms, and enemies teach regardless of the hero's identity.
 
-## 6. Cross-References
+## Cross-References
 
 ### Jungian Archetypes[^2]
 - [[The Shadow]]: Enemies often embody the Shadow—disowned rage, fear, hunger for power. The test: withdraw the projection, integrate what was denied.

@@ -28,8 +28,7 @@ Marie-Louise von Franz writes that Baba Yaga represents "the Mother Nature godde
 
 ---
 
-## Core Correspondences
-
+## Archetypal Cast
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Cultural Origin** | Slavic and Eastern Europe (Russia, Poland, Czech, Baltic, Carpathian) (c. 6th-15th centuries CE) |
@@ -47,7 +46,7 @@ Marie-Louise von Franz writes that Baba Yaga represents "the Mother Nature godde
 
 ---
 
-## Section 1: Cosmology — The World Tree and the Three Realms
+## Cosmology — The World Tree and the Three Realms
 
 ### The Structure of Reality
 
@@ -75,7 +74,7 @@ In Romanian and Slavic cosmogony, **God and the Devil cooperate to create the wo
 
 ---
 
-## Section 2: The Pantheon — Archetypal Powers of the Slavic Psyche
+## The Pantheon — Archetypal Powers of the Slavic Psyche
 
 ### Svarog: The Creator / The Self as Smith
 
@@ -208,7 +207,7 @@ The fern flower that blooms only at midnight is the **Self**—visible only to t
 
 ---
 
-## Section 3: Nature Spirits — The Psychic Ecosystem
+## Nature Spirits — The Psychic Ecosystem
 
 ### Baba Yaga: The Terrible Mother / The Initiator
 
@@ -333,7 +332,7 @@ The lesson: **Patience, humility, trust the process**. The anima will reveal her
 
 ---
 
-## Section 4: Hero Patterns — The Slavic Quest
+## Hero Patterns — The Slavic Quest
 
 ### Ilya-Muromyets: The Paralyzed Hero / Delayed Initiation
 
@@ -377,7 +376,7 @@ Shapeshifting is the **fluidity of the psyche**—the ability to move between eg
 
 ---
 
-## Section 5: Folk Tale Initiations — The Impossible Tasks
+## Folk Tale Initiations — The Impossible Tasks
 
 ### Vasilisa the Beautiful: Maiden Initiation Through the Terrible Mother
 
@@ -454,7 +453,7 @@ Ivan quests to Koschei's castle to retrieve her, completing impossible tasks wit
 
 ---
 
-## Section 6: Mystery Traditions and Ritual Context
+## Mystery Traditions and Ritual Context
 
 ### Kupala Night: The Solstice / Fire and Water
 
@@ -484,7 +483,7 @@ This is the wisdom that modern culture forgets: **you must consciously let the o
 
 ---
 
-## Section 7: Shadow Figures and Pathology
+## Shadow Figures and Pathology
 
 ### 1. The Devouring Mother (Baba Yaga Inflated)
 
@@ -556,7 +555,7 @@ This is the wisdom that modern culture forgets: **you must consciously let the o
 
 ---
 
-## Section 8: The Central Mystery — Baba Yaga and Vasilisa
+## The Central Mystery — Baba Yaga and Vasilisa
 
 The **core teaching** of Slavic mythology is embodied in the encounter between Vasilisa and Baba Yaga. This is not a battle (the Greek hero model) but **initiation through submission**.
 
@@ -598,7 +597,7 @@ The fire is **consciousness itself**—retrieved from the depths (Baba Yaga), br
 
 ---
 
-## Section 9: Practical Application — Living the Slavic Pattern
+## Practical Application — Living the Slavic Pattern
 
 ### When to Invoke Baba Yaga
 
@@ -660,8 +659,7 @@ Wait like Ilya when:
 
 ---
 
-## Section 10: Synthesis Notes
-
+## Jungian Analysis
 ### 10.1 The Slavic Dualism: Integration vs. Splitting
 
 **Slavic wisdom:** The world is created through the cooperation of God and the Devil. Light and dark are both necessary.

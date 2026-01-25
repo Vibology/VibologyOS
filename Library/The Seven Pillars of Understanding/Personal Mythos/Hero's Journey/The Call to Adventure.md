@@ -11,8 +11,7 @@ verification_notes: "Campbell's monomyth[^1] framework (12-stage Hero's Journey)
 
 # The Call to Adventure
 
-## 1. Foundational Material
-
+## Overview
 ### Jung's Archetypal Context
 
 The Call to Adventure represents the **activation moment** when the psyche announces that transformation is necessary. In Campbell's topology[^1], this is Stage 2 of the monomyth, following immediately after the establishment of the Ordinary World. It marks the transition from **unconscious stasis** to **conscious engagement** with the individuation process.
@@ -97,8 +96,7 @@ Psychologically, the Call corresponds to:
 
 **Elderhood (65+)**: The Call may be **preparation for death**—visions, dreams of deceased loved ones, sudden urgency to reconcile or create legacy. The final Call is toward wholeness before dissolution.
 
-## 2. Core Correspondences
-
+## Archetypal Cast
 | **System** | **Primary Correspondence** | **Symbolic Resonance** | **Psychological Function** |
 |------------|---------------------------|------------------------|----------------------------|
 | **Tarot** | [[The Fool (0)]]<br>[[The Magician (I)]]<br>[[Wheel of Fortune (X)]]<br>[[Judgment (XX)]] | Fool: Leap into unknown, divine madness<br>Magician: Willful initiation, "As above, so below"<br>Wheel: Fate turns, cycle begins anew<br>Judgment: Angelic summons, resurrection call | The Call activates potentiality (Fool), conscious will (Magician), or undeniable destiny (Wheel). Judgment represents the Call to final transformation—death/rebirth at cosmic scale |
@@ -109,7 +107,7 @@ Psychologically, the Call corresponds to:
 | **Angelology** | [[Gabriel]] (Messenger, Annunciation)<br>[[Metatron]] (Voice of God)<br>**Personal Daimon/Guardian Angel** | Gabriel: Herald of transformation, births announcements<br>Metatron: Transformed human (Enoch), bridge to divine<br>Guardian Angel: Individual destiny's voice | Gabriel announces Calls (Mary's annunciation, Muhammad's revelation). The Guardian Angel whispers the soul's purpose—often ignored until crisis forces listening |
 | **Jungian Archetypes** | [[Folklore/Jungian Archetypes/The Self]]<br>[[The Herald]]<br>[[The Shadow]]<br>[[Anima and Animus]] | Self: Orchestrator demanding individuation<br>Herald: Messenger archetype, summons to quest<br>Shadow: Call via projection/crisis<br>Anima/Animus: Call via romantic obsession | The Self initiates the Call when the ego has become too rigid. The Herald delivers the message. Sometimes the Call arrives as [[Shadow]] eruption (addiction, rage, breakdown) or Anima/Animus projection (falling in love as catalyst) |[^2]
 
-## 3. Practical Application
+## Practical Application
 
 ### Recognition: Signs You Are Receiving a Call
 
@@ -181,8 +179,7 @@ Once the Call is accepted (Stage 4: [[Crossing the First Threshold]]), integrati
 
 **The Call as Relational**: Sometimes the Call *is* the relationship—meeting a person who catalyzes your transformation. Beware projection: they may be the [[Herald]], not the destination.
 
-## 4. Synthesis Subsections
-
+## Jungian Analysis
 ### 4.1 Campbell's Hero's Journey: The Call as Ignition
 
 The Call (Stage 2) is the **ignition** of Campbell's 12-stage monomyth:
@@ -470,8 +467,7 @@ If the Call is heeded, it confers irreplaceable gifts:
 **7. Preparation for the Ordeal**
 - The Call initiates the journey; [[The Ordeal]] (Stage 8) is the journey's nadir. By heeding the Call, you begin the training that will allow you to survive the death ahead. Refusal means arriving at the Ordeal unprepared—trauma instead of transformation.
 
-## 5. Gender Dynamics
-
+## Shadow Dynamics
 ### Masculine-Coded Call: Heroic Choice
 
 In patriarchal myth, the Call is often **externalized as quest**:
@@ -519,7 +515,7 @@ Western heroic narratives privilege masculine Call (choice, action). Eastern and
 
 The future of the Call archetype may be **gender-integrative**—recognizing that every individual, regardless of anatomy or identity, receives Calls that demand both agency and receptivity.
 
-## 6. Cross-References
+## Cross-References
 
 ### Jungian Archetypes[^2]
 - [[Folklore/Jungian Archetypes/The Self]]: The orchestrator of the Call—the suprapersonal psyche demanding individuation. The Call is the [[Self]]'s first conscious communication to the ego[^2].

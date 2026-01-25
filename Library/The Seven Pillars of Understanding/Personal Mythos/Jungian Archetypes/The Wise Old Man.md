@@ -15,8 +15,7 @@ verification_notes: "Core Jung archetype definitions verified via NotebookLM. Ke
 
 # The Wise Old Man: Spirit, Meaning, and the Senex Archetype
 
-## Section 1: Foundational Material
-
+## Overview
 ### Jung's Definition
 
 The Wise Old Man—or **Senex** (Latin for "old man")—is one of Jung's most luminous and paradoxical archetypes. In *The Archetypes and the Collective Unconscious* (CW 9i, par. 398), Jung writes:
@@ -124,8 +123,7 @@ The archetype is **not age-dependent**—it can appear to a child in distress or
 
 ---
 
-## Section 2: Core Correspondences
-
+## Archetypal Cast
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Archetype Name** | The Wise Old Man (Senex) |
@@ -144,7 +142,7 @@ The archetype is **not age-dependent**—it can appear to a child in distress or
 
 ---
 
-## Section 3: Practical Application
+## Practical Application
 
 ### Recognition in Life
 
@@ -263,8 +261,7 @@ The Wise Old Man is often **projected onto external figures** before being integ
 
 ---
 
-## Section 4: Synthesis Notes
-
+## Jungian Analysis
 ### 1. Jung's Theory Deep Dive
 
 The Wise Old Man occupies a unique position in Jung's structural model of the psyche:
@@ -756,8 +753,7 @@ The Wise Old Man interacts dynamically with other archetypal structures:
 
 ---
 
-## Section 5: Gender Dynamics
-
+## Shadow Dynamics
 **How does the Wise Old Man manifest differently in men vs. women?**
 
 **In Men:**
@@ -788,7 +784,7 @@ The Wise Old Man interacts dynamically with other archetypal structures:
 
 ---
 
-## Section 6: Cross-References
+## Cross-References
 
 ### Jungian Archetypes
 - [[Folklore/Jungian Archetypes/The Hero]] — The Senex is the mentor and guide; the Hero must claim Senex authority

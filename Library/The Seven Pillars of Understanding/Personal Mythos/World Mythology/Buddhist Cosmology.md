@@ -28,8 +28,7 @@ The Buddhist tradition offers the East's most systematic map of psychological li
 
 ---
 
-## Core Correspondences
-
+## Archetypal Cast
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Cultural Origin** | India (c. 500 BCE), spreading to Tibet, China, Japan, Southeast Asia |
@@ -47,7 +46,7 @@ The Buddhist tradition offers the East's most systematic map of psychological li
 
 ---
 
-## Section 1: Cosmology — Samsara, Karma, and the Wheel of Life
+## Cosmology — Samsara, Karma, and the Wheel of Life
 
 ### The Bhavachakra: Wheel of Conditioned Existence
 
@@ -91,7 +90,7 @@ Jung recognized this as parallel to his theory of **complexes**—autonomous psy
 
 ---
 
-## Section 2: The Six Realms — Psychological States
+## The Six Realms — Psychological States
 
 ### The Realms as Ego-States
 
@@ -233,7 +232,7 @@ Each realm has a presiding Buddha (archetypal liberator) and a characteristic su
 
 ---
 
-## Section 3: The Buddha's Journey — Siddhartha to Enlightenment
+## The Buddha's Journey — Siddhartha to Enlightenment
 
 ### The Hero's Journey in Buddhist Form
 
@@ -340,7 +339,7 @@ At dawn, as Venus rises, Siddhartha becomes the **Buddha** (Awakened One).
 
 ---
 
-## Section 4: Mara the Tempter — Shadow Confrontation
+## Mara the Tempter — Shadow Confrontation
 
 ### The Archetypal Adversary
 
@@ -421,7 +420,7 @@ The Buddha's relationship with Mara shifts from **combat** to **recognition**—
 
 ---
 
-## Section 5: The Bodhisattva Path — Compassion and Service
+## The Bodhisattva Path — Compassion and Service
 
 ### The Great Vehicle (Mahayana)
 
@@ -515,7 +514,7 @@ The Bodhisattva path is characterized by **six paramitas** (perfections)—virtu
 
 ---
 
-## Section 6: The Bardo States — Between Death and Rebirth
+## The Bardo States — Between Death and Rebirth
 
 ### The Tibetan Book of the Dead (Bardo Thodol)
 
@@ -595,7 +594,7 @@ The **Bardo Thodol** (Liberation Through Hearing in the Intermediate State) is a
 
 ---
 
-## Section 7: Meditation — Direct Encounter with Mind
+## Meditation — Direct Encounter with Mind
 
 ### Meditation as Western Psychology's Blind Spot
 
@@ -682,7 +681,7 @@ The difference: Meditation-induced crises are **temporary and purposeful**—the
 
 ---
 
-## Section 8: Practical Application — Working with Buddhist Archetypes
+## Practical Application — Working with Buddhist Archetypes
 
 ### Recognition in Life
 
@@ -777,8 +776,7 @@ The difference: Meditation-induced crises are **temporary and purposeful**—the
 
 ---
 
-## Section 9: Synthesis Notes
-
+## Jungian Analysis
 ### 9.1 Jungian Theory Deep Dive
 
 Buddhism, for Jung, represented the **East's systematic psychology of liberation**—a 2,500-year empirical study of consciousness without the Western concept of "the unconscious." Yet Jung noted that what Buddhism calls **ignorance (avidya)**, the West calls **the unconscious**—the same phenomenon from different angles.

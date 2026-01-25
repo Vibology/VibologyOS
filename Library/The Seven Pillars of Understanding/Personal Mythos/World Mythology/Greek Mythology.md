@@ -28,8 +28,7 @@ The Greek tradition offers the West's foundational map of psychological developm
 
 ---
 
-## Core Correspondences
-
+## Archetypal Cast
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Cultural Origin** | Ancient Greece (c. 800 BCE - 400 CE) |
@@ -47,7 +46,7 @@ The Greek tradition offers the West's foundational map of psychological developm
 
 ---
 
-## Section 1: Cosmology — From Chaos to Consciousness
+## Cosmology — From Chaos to Consciousness
 
 ### The Theogony: Birth of the Gods
 
@@ -65,7 +64,7 @@ Zeus and the Olympians establish **divine order** on Mount Olympus. Yet even Zeu
 
 ---
 
-## Section 2: The Olympian Pantheon — Archetypal Functions
+## The Olympian Pantheon — Archetypal Functions
 
 ### Zeus: The Sky Father / Sovereign Self
 
@@ -178,7 +177,7 @@ Without Hermes, the Ego (Apollo) and Shadow (Dionysus) cannot communicate. He is
 
 ---
 
-## Section 3: The Greek Hero — Ego Development Through Ordeal
+## The Greek Hero — Ego Development Through Ordeal
 
 ### The Hero Pattern in Greek Myth
 
@@ -219,7 +218,7 @@ Greek heroes embody the **Ego's struggle to establish autonomy** from the Great 
 
 ---
 
-## Section 4: The Tragic Hero — Hubris and Nemesis
+## The Tragic Hero — Hubris and Nemesis
 
 ### The Greek Tragic Pattern
 
@@ -247,7 +246,7 @@ Greek tragedy dramatizes the **inevitable downfall of the inflated ego**:
 
 ---
 
-## Section 5: Mystery Traditions — Direct Encounter with the Self
+## Mystery Traditions — Direct Encounter with the Self
 
 ### The Eleusinian Mysteries
 
@@ -267,7 +266,7 @@ Greek tragedy dramatizes the **inevitable downfall of the inflated ego**:
 
 ---
 
-## Section 6: Shadow Figures — Chaos and Destruction
+## Shadow Figures — Chaos and Destruction
 
 ### The Titans: Primal Forces
 
@@ -287,7 +286,7 @@ Greek tragedy dramatizes the **inevitable downfall of the inflated ego**:
 
 ---
 
-## Section 7: Psyche and Eros — The Soul's Journey
+## Psyche and Eros — The Soul's Journey
 
 ### The Myth of Psyche
 
@@ -314,7 +313,7 @@ Von Franz notes: "Psyche's journey is the story of every woman who must differen
 
 ---
 
-## Section 8: Practical Application — Working with Greek Archetypes
+## Practical Application — Working with Greek Archetypes
 
 ### Recognition in Life
 
@@ -368,8 +367,7 @@ Von Franz notes: "Psyche's journey is the story of every woman who must differen
 
 ---
 
-## Section 9: Synthesis Notes
-
+## Jungian Analysis
 ### 9.1 Jungian Theory Deep Dive
 
 Greek mythology, for Jung, was the **Western projection of the psyche's structure onto the heavens**. The gods are not external beings but **autonomous complexes**—clusters of psychic energy with their own intention, emotion, and archetypal pattern.

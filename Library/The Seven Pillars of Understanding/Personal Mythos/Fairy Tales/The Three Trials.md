@@ -556,8 +556,7 @@ The psyche's response: **Anxiety, depression, addiction**—the return of the re
 
 ---
 
-## Sources & Further Reading
-
+## Sources
 ### Primary Texts
 - **Grimm, Jacob and Wilhelm.** *Kinder- und Hausmärchen* (1812). Trial-centered tales: "The Golden Bird," "The Water of Life," "Allerleirauh," "Psyche and Eros" variants.
 - **Apuleius.** *The Golden Ass* (2nd century CE). Book includes "Cupid and Psyche" with four impossible tasks.

@@ -156,8 +156,7 @@ This is the alchemical **gold**, the Philosopher's Stone: the energy that was bo
 
 ---
 
-## Psychological Dynamics & Transformation
-
+## Jungian Analysis
 ### The Double Abandonment – Loss of Parental Protection
 
 The tale begins with **betrayal**: the parents who should protect instead expose the children to death. This is the **archetypal wound** that forces individuation:
@@ -323,8 +322,7 @@ This is the **goal of individuation**: not to destroy the unconscious but to **r
 
 ---
 
-## Gender Dynamics
-
+## Shadow Dynamics
 ### The Feminine Journey (Gretel's Arc)
 
 For girls and women, **Gretel** is the **primary identification**:
@@ -427,8 +425,7 @@ This is the **child's rehearsal** for the later [[Coniunctio]]—the Sacred Marr
 
 ---
 
-## Practical Application & Shadow Work
-
+## Practical Application
 ### Diagnostic Questions
 
 **For All:**
@@ -530,8 +527,7 @@ This is the **child's rehearsal** for the later [[Coniunctio]]—the Sacred Marr
 
 ---
 
-## Sources & Further Reading
-
+## Sources
 ### Primary Texts
 - **Grimm, Jacob and Wilhelm.** *Kinder- und Hausmärchen* (1812). "Hänsel und Gretel" (Tale 15).
 

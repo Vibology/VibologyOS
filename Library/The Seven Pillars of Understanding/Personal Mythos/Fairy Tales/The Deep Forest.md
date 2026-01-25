@@ -640,8 +640,7 @@ The forest teaches that **consciousness requires periodic withdrawal**:
 
 ---
 
-## Sources & Further Reading
-
+## Sources
 ### Primary Texts
 - **Grimm, Jacob and Wilhelm.** *Kinder- und Hausmärchen* (1812). Forest-centered tales: "Hansel and Gretel," "Little Red Riding Hood," "Snow White," "The Two Brothers."
 

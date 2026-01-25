@@ -11,8 +11,7 @@ verification_notes: "Campbell's monomyth[^1] framework (12-stage Hero's Journey)
 
 # Meeting the Mentor
 
-## 1. Foundational Material
-
+## Overview
 ### Jung's Archetypal Context
 
 Meeting the Mentor represents the **activation of the Wise Old Man/Woman archetype** within the psyche—the moment when the hero encounters external wisdom that will become internalized guidance. In Campbell's monomyth[^1], this is Stage 4, positioned after the [[Refusal of the Call]] and before [[Crossing the First Threshold]]. It marks the **bridge between doubt and commitment**, between the Ordinary World's paralysis and the Special World's demands.
@@ -114,8 +113,7 @@ Psychologically, the Mentor corresponds to:
 
 **Elderhood (60+)**: The elder internalizes the Mentor fully—no longer needing external teachers, they draw wisdom from the [[Self]]. The task shifts: *be* the Mentor for the next generation.
 
-## 2. Core Correspondences
-
+## Archetypal Cast
 | **System** | **Primary Correspondence** | **Symbolic Resonance** | **Psychological Function** |
 |------------|---------------------------|------------------------|----------------------------|
 | **Tarot** | [[The Hierophant (V)]]<br>[[The Hermit (IX)]]<br>[[Temperance (XIV)]] | Hierophant: Tradition, teaching, initiation<br>Hermit: Solitary wisdom, inner light<br>Temperance: Alchemical guidance, balance | The Hierophant transmits lineage knowledge; the Hermit models self-reliance; Temperance teaches integration of opposites |
@@ -126,7 +124,7 @@ Psychologically, the Mentor corresponds to:
 | **Angelology** | [[Metatron]]<br>[[Raziel]]<br>**Holy Guardian Angel**<br>[[Sandalphon]] | Metatron: Scribe, teacher of humanity, transformed Enoch<br>Raziel: Angel of mysteries, keeper of secrets<br>HGA: Personal guide in Thelemic tradition<br>Sandalphon: Brother of Metatron, prayers carried upward | These angels serve as intermediaries between human and divine—Metatron teaches cosmic law; Raziel imparts hidden knowledge; the HGA guides the individual's unique path |
 | **Jungian Archetypes** | [[The Wise Old Man]]<br>[[The Wise Old Woman]]<br>[[The Sage]]<br>[[Folklore/Jungian Archetypes/The Self]] (projected) | Wise Old Man: Merlin, Gandalf, Obi-Wan<br>Wise Old Woman: Baba Yaga, Fairy Godmother, Hecate<br>Sage: The philosopher, hermit, elder<br>Self: The Mentor as external manifestation of inner totality | The Mentor is the [[Self]] projected outward before it can be integrated inward. The hero must eventually *become* their own Mentor |[^2]
 
-## 3. Practical Application
+## Practical Application
 
 ### Recognition: Signs You Have Met a Mentor
 
@@ -210,8 +208,7 @@ The Mentor's teaching must be **tested** in the Special World. Integration deman
 
 **The Mentor-Student Bond After Departure**: Some Mentor relationships evolve into peer friendships after the teaching phase completes. Others end cleanly. Both are valid. Do not cling to a relationship whose season has passed.
 
-## 4. Synthesis Subsections
-
+## Jungian Analysis
 ### 4.1 Campbell's Hero's Journey: The Mentor as Permission-Giver
 
 In Campbell's 12-stage monomyth, Meeting the Mentor (Stage 4) occurs **after the Refusal** (Stage 3) and **before Crossing the Threshold** (Stage 5).
@@ -531,8 +528,7 @@ The final stage of the Mentor dynamic: **the student becomes the teacher**.
 
 **Integration**: The mature Mentor knows they are a **conduit**, not the source. The wisdom flows through them, not from them.
 
-## 5. Gender Dynamics
-
+## Shadow Dynamics
 ### Masculine-Coded Mentors: The Wise Old Man
 
 In patriarchal narratives, the Mentor is often **male and elder**:
@@ -590,7 +586,7 @@ Non-binary and queer narratives often feature Mentors who **transcend binary gen
 
 Western heroic narratives privilege the **masculine Mentor** (Obi-Wan, Gandalf). Eastern and Indigenous traditions often honor **feminine and non-binary Mentors** (the Dakini in Tibetan Buddhism, the Crone in Celtic lore). The mature psyche requires **all forms**—differentiation *and* integration, action *and* receptivity, boundary *and* flow.
 
-## 6. Cross-References
+## Cross-References
 
 ### Jungian Archetypes[^2]
 - [[The Wise Old Man]]: The archetypal Mentor—Merlin, Gandalf, Obi-Wan. Represents wisdom, reflection, insight that transcends the ego's limited perspective.

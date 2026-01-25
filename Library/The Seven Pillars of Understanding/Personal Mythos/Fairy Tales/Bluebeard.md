@@ -175,8 +175,7 @@ In trauma recovery, it is the **moment the denial breaks**—the survivor stops 
 
 ---
 
-## Psychological Dynamics & Transformation
-
+## Jungian Analysis
 ### The Critical Distinction: Beast vs. Bluebeard
 
 **This is the most important psychological teaching of the Bluebeard tale**: **Not all shadow is redeemable. Not all darkness is unlived potential. Some forces are predatory, parasitic, and must be destroyed, not integrated.**
@@ -418,8 +417,7 @@ Though traditionally a tale for women, men can encounter Bluebeard as the **inte
 
 ---
 
-## Practical Application & Shadow Work
-
+## Practical Application
 ### Diagnostic Questions
 
 **Recognizing Bluebeard in Relationships:**
@@ -613,8 +611,7 @@ The bloodstained key is the mark of **consciousness that cannot be reversed**. O
 
 ---
 
-## Sources & Further Reading
-
+## Sources
 ### Primary Texts
 - **Perrault, Charles.** *Histoires ou contes du temps passé* (1697). "La Barbe bleue" - the definitive French literary version.
 - **Grimm, Jacob and Wilhelm.** *Kinder- und Hausmärchen* (1812). Related tales: "Fitcher's Bird" (Tale 46) and "The Robber Bridegroom" (Tale 40).

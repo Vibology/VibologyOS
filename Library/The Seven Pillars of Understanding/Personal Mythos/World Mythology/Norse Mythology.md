@@ -30,8 +30,7 @@ The Norse cosmos hangs on **Yggdrasil**, the World Tree whose roots plunge into 
 
 ---
 
-## Core Correspondences
-
+## Archetypal Cast
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Cultural Origin** | Norse/Germanic peoples (c. 700 CE - 1100 CE) |
@@ -49,7 +48,7 @@ The Norse cosmos hangs on **Yggdrasil**, the World Tree whose roots plunge into 
 
 ---
 
-## Section 1: Cosmology — Yggdrasil and the Nine Worlds
+## Cosmology — Yggdrasil and the Nine Worlds
 
 ### The World Tree: Axis Mundi
 
@@ -111,7 +110,7 @@ The Nine Worlds arrayed on Yggdrasil represent **states of being** and **archety
 
 ---
 
-## Section 2: The Norse Pantheon — Archetypal Functions
+## The Norse Pantheon — Archetypal Functions
 
 ### Odin: The Wise Old Man / The Seeker
 
@@ -237,7 +236,7 @@ Unlike Odin (who sacrifices for wisdom) or Baldr (who is sacrificed by fate), Ty
 
 ---
 
-## Section 3: The Norse Hero — Will and Transformation
+## The Norse Hero — Will and Transformation
 
 ### The Hero Pattern in Norse Myth
 
@@ -302,7 +301,7 @@ Odin is the **lord of berserkers**—the god who grants this possession. To be a
 
 ---
 
-## Section 4: Ragnarök — The Necessary Destruction
+## Ragnarök — The Necessary Destruction
 
 ### The Prophecy of the End
 
@@ -343,7 +342,7 @@ The survival of Líf and Lífþrasir shows that **consciousness endures** even w
 
 ---
 
-## Section 5: Runes and Divination — Tools of Consciousness
+## Runes and Divination — Tools of Consciousness
 
 ### The Runes: Odin's Gift
 
@@ -415,7 +414,7 @@ Jung: *"The use of runes is the consultation of an archaic psychic system—one 
 
 ---
 
-## Section 6: Shadow Figures — Giants, Wolves, Serpents
+## Shadow Figures — Giants, Wolves, Serpents
 
 ### The Giants (Jötnar): Chaos and Nature
 
@@ -471,7 +470,7 @@ The gods' intermarriage with giants shows that **consciousness cannot exist with
 
 ---
 
-## Section 7: Valkyries and Choosers of the Slain
+## Valkyries and Choosers of the Slain
 
 ### The Valkyries: Odin's Shield-Maidens
 
@@ -511,7 +510,7 @@ The gods' intermarriage with giants shows that **consciousness cannot exist with
 
 ---
 
-## Section 8: Practical Application — Working with Norse Archetypes
+## Practical Application — Working with Norse Archetypes
 
 ### Recognition in Life
 
@@ -606,8 +605,7 @@ The gods' intermarriage with giants shows that **consciousness cannot exist with
 
 ---
 
-## Section 9: Synthesis Notes
-
+## Jungian Analysis
 ### 9.1 Jungian Theory Deep Dive
 
 Norse mythology, for Jung, represents **the psyche's confrontation with its own mortality and the necessity of transformation through dissolution**. Where Greek myth dramatizes the **emergence of consciousness from the unconscious**, Norse myth confronts the **return of consciousness to the unconscious** (Ragnarök) and the **renewal that follows**.

@@ -34,8 +34,7 @@ Shinto offers the world a profound teaching: **pollution is not moral sin but en
 
 ---
 
-## Core Correspondences
-
+## Archetypal Cast
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Cultural Origin** | Ancient Japan (c. 8th century CE codification in *Kojiki* and *Nihon Shoki*) |
@@ -53,7 +52,7 @@ Shinto offers the world a profound teaching: **pollution is not moral sin but en
 
 ---
 
-## Section 1: Cosmology — From Chaos to the Island of Being
+## Cosmology — From Chaos to the Island of Being
 
 ### The Primordial Beginning: Ame-Tsuchi (Heaven-Earth)
 
@@ -95,7 +94,7 @@ Izanami's death establishes **mortality**—the knowledge that life leads to dea
 
 ---
 
-## Section 2: Death and the Underworld — The Nekyia of Izanagi
+## Death and the Underworld — The Nekyia of Izanagi
 
 ### Descent to Yomi: The Failed Rescue
 
@@ -139,7 +138,7 @@ Izanami, from the other side, declared: "Every day I will strangle one thousand 
 
 ---
 
-## Section 3: The Noble Triad — Sun, Moon, and Storm
+## The Noble Triad — Sun, Moon, and Storm
 
 ### Misogi: Purification and Birth
 
@@ -194,7 +193,7 @@ The flayed horse is particularly telling: the horse is **solar animal** (vitalit
 
 ---
 
-## Section 4: The Rock Cave Crisis — Depression and the Return of Light
+## The Rock Cave Crisis — Depression and the Return of Light
 
 ### Amaterasu's Withdrawal: The World in Darkness
 
@@ -250,7 +249,7 @@ This is not repression (sealing the shadow away) but **right relationship**—th
 
 ---
 
-## Section 5: The Hero's Journey & Sacred Objects — Susanoo's Redemption
+## The Hero's Journey & Sacred Objects — Susanoo's Redemption
 
 ### Susanoo Descends to Izumo: The Shadow's Transformation
 
@@ -326,7 +325,7 @@ Yamato Takeru is tragic: he succeeds in all external tasks but fails in humility
 
 ---
 
-## Section 6: Nature Spirits and Rituals — Kami, Yokai, and the Sacred Threshold
+## Nature Spirits and Rituals — Kami, Yokai, and the Sacred Threshold
 
 ### Kami: Numinous Presence in All Things
 
@@ -400,7 +399,7 @@ This is **process-oriented healing**: pollution is not permanent stain but tempo
 
 ---
 
-## Section 7: Practical Application — Working with Shinto Archetypes
+## Practical Application — Working with Shinto Archetypes
 
 ### Recognition in Life
 
@@ -470,7 +469,7 @@ This is **process-oriented healing**: pollution is not permanent stain but tempo
 
 ---
 
-## Section 8: Shadow Work — Pollution, Purification, and the Return of Light
+## Shadow Work — Pollution, Purification, and the Return of Light
 
 ### The Shinto Shadow: Tsumi and Kegare
 
@@ -542,8 +541,7 @@ Susanoo's arc—from heavenly pest to earthly hero—is the **archetypal path of
 
 ---
 
-## Section 9: Synthesis Notes
-
+## Jungian Analysis
 ### 9.1 Jungian Theory Deep Dive
 
 **Shinto Mythology as Archetypal Process:**

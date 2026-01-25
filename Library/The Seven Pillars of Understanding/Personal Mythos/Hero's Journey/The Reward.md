@@ -11,8 +11,7 @@ verification_notes: "Campbell's monomyth[^1] framework (12-stage Hero's Journey)
 
 # The Reward (Seizing the Sword)
 
-## 1. Foundational Material
-
+## Overview
 ### Jung's Archetypal Context
 
 The Reward represents the **first fruits of transformation**, the boon seized in the immediate aftermath of the [[Ordeal]]. In Campbell's topology[^1], this is Stage 9 of the monomyth, positioned at the precise moment when descent pivots toward ascent. The hero, having survived death—literal, symbolic, or psychological—now claims the treasure that was the quest's objective.
@@ -75,8 +74,7 @@ Psychologically, the Reward corresponds to:
 
 **Recovery and Healing**: The first full night's sleep after insomnia, the sobriety chip after ninety days, the clear scan after cancer treatment. The Reward is remission, reprieve, the body or psyche proving it can heal.
 
-## 2. Core Correspondences
-
+## Archetypal Cast
 | **System** | **Primary Correspondence** | **Symbolic Resonance** | **Psychological Function** |
 |------------|---------------------------|------------------------|----------------------------|
 | **Tarot** | [[The Star (XVII)]]<br>[[Temperance (XIV)]]<br>[[The Sun (XIX)]] | Star: Hope after devastation, healing<br>Temperance: Integration, alchemy, balance<br>Sun: Joy, vitality, success after trial | The Reward as light after darkness—healing begins, integration is possible, the psyche tastes wholeness for the first time since the Ordeal |
@@ -87,7 +85,7 @@ Psychologically, the Reward corresponds to:
 | **Angelology** | [[Raphael]] (Healing)<br>[[Haniel]] (Grace, Venus)<br>**Holy Guardian Angel** (conscious contact) | Raphael: Integration, mending, restoration<br>Haniel: Beauty, love, venusian blessings<br>HGA: The angel appears after the abyss is crossed | Angels of healing and grace replace angels of severity. [[Raphael]] stitches the psyche back together; [[Haniel]] restores beauty and love |
 | **Jungian Archetypes** | [[Folklore/Jungian Archetypes/The Self]]<br>[[The Anima and Animus]]<br>[[Folklore/Jungian Archetypes/The Divine Child]]<br>[[The Treasure Hard to Attain]] | Self: Wholeness glimpsed, integration begun<br>Anima/Animus: Sacred marriage, inner union<br>Divine Child: Rebirth, innocence restored<br>Treasure: The goal of individuation made conscious | The Reward is often the *first conscious encounter with the Self*—not as annihilating totality (the Ordeal) but as benevolent wholeness |[^2]
 
-## 3. Practical Application
+## Practical Application
 
 ### Recognition: Signs You Have Claimed the Reward
 
@@ -167,8 +165,7 @@ If the Reward is genuine, integration demands:
 
 **The Reward as Relational**: Sometimes the boon *is* relational—reunion with the beloved, reconciliation with the estranged, sacred marriage (inner or outer). The Reward is love restored, trust rebuilt, intimacy deepened.
 
-## 4. Synthesis Subsections
-
+## Jungian Analysis
 ### 4.1 Campbell's Hero's Journey: The Reward as Turning Point
 
 The Reward (Stage 9) is the **pivot** from descent to ascent:
@@ -441,8 +438,7 @@ If the Reward is genuine and honored (not inflated, hoarded, or bypassed), it co
 
 **Jung's Insight**: The Reward is the moment when the ego realizes the [[Self]] is not only annihilating (as in the Ordeal) but also **generative**. The Self destroys what is false to birth what is true. The Reward is the birth.
 
-## 5. Gender Dynamics
-
+## Shadow Dynamics
 ### Masculine-Coded Reward: The Boon as Conquest
 
 In patriarchal myth, the Reward is often **seized through action**:
@@ -494,7 +490,7 @@ The mature psyche requires **both** masculine and feminine Rewards:
 
 The future of the Reward archetype is **gender-integrative**—honoring both conquest and union, agency and surrender, doing and being.
 
-## 6. Cross-References
+## Cross-References
 
 ### Jungian Archetypes[^2]
 - [[Folklore/Jungian Archetypes/The Self]]: The Reward is often the first conscious encounter with the Self as benevolent wholeness (not the annihilating totality of the Ordeal)[^2].

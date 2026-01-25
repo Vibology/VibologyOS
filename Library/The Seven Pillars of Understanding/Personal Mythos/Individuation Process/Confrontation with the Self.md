@@ -18,8 +18,7 @@ psychological_task: Shifting center from ego to Self, recognizing ego as servant
 
 **Individuation Stage 5 | Midlife–Elder 50–70 | Alchemical Operation: Rubedo**
 
-## I. Foundational Material
-
+## Overview
 ### Jung's Definition: The Supraordinate Personality
 
 In *Two Essays on Analytical Psychology* (CW 7), *Aion* (CW 9ii), and *Psychology and Alchemy* (CW 12), Jung defines the Self as **the totality of the psyche**—a reality **supraordinate to the conscious ego**:
@@ -60,8 +59,7 @@ The mandala appears across cultures:
 
 The mandala is the **Imago Dei** (image of God), the **Self** projected into symbolic form.
 
-## II. Core Correspondences
-
+## Archetypal Cast
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Stage Name** | Confrontation with the Self |
@@ -79,7 +77,7 @@ The mandala is the **Imago Dei** (image of God), the **Self** projected into sym
 | **I-Ching** | **Hexagram 1 & 2** (Creative & Receptive united), **Hexagram 63 & 64** (After Completion & Before Completion—the eternal process) |
 | **Mythology** | Christ Consciousness, Atman-Brahman, Buddha Nature, Alchemical *Hierosgamos*, Philosopher's Stone, Divine Union |
 
-## III. Practical Application
+## Practical Application
 
 ### Recognition in Life
 
@@ -120,8 +118,7 @@ A well-integrated Ego-Self relationship demonstrates:
 
 Self, Wholeness, Totality, Mandala, God-image, Ego-Self Axis, Teleology, Destiny, Meaning, Rubedo, Coniunctio, Inflation, Psychosis, Surrender
 
-## IV. Synthesis Notes
-
+## Jungian Analysis
 ### 1. Jung's Theory Deep Dive: The Self as God-Image
 
 Jung's most controversial claim: **The Self is empirically indistinguishable from the image of God in the psyche.**
@@ -302,7 +299,7 @@ Jung: "The self is the *coniunctio oppositorum*—the union of opposites—made 
 **The Gift:**
 A **whole human being** who has shifted the center of gravity from ego to Self, who experiences life as **meaningful** even in suffering, who serves something greater than personal ambition, who is prepared for death because the Self—the eternal reality within—has been realized.
 
-## V. Cross-References
+## Cross-References
 
 **Jungian Archetypes:**
 - [[Folklore/Jungian Archetypes/The Self]] (primary archetype of this stage—totality, wholeness, God-image)
@@ -380,8 +377,7 @@ A **whole human being** who has shifted the center of gravity from ego to Self, 
 
 ---
 
-## Sources & Further Reading
-
+## Sources
 ### Primary Texts (Jung)
 - **Jung, Carl Gustav.** *Aion: Researches into the Phenomenology of the Self* (CW 9ii). Most comprehensive treatment of the Self as archetype and totality.
 - **Jung, Carl Gustav.** *Psychology and Alchemy* (CW 12). The Self as philosopher's stone and mandala symbolism.

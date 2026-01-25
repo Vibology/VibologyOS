@@ -31,8 +31,7 @@ The central mystery is not the hero conquering chaos (Greek) but the **King's re
 
 ---
 
-## Core Correspondences
-
+## Archetypal Cast
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Cultural Origin** | Celtic Europe (c. 800 BCE - 400 CE): Ireland, Wales, Scotland, Brittany, Gaul |
@@ -50,7 +49,7 @@ The central mystery is not the hero conquering chaos (Greek) but the **King's re
 
 ---
 
-## Section 1: Cosmology — The Otherworld and the Sidhe
+## Cosmology — The Otherworld and the Sidhe
 
 ### The Celtic Worldview: Interpenetration of Realms
 
@@ -95,7 +94,7 @@ The Tuatha Dé Danann brought four treasures to Ireland:
 
 ---
 
-## Section 2: The Celtic Pantheon — Archetypal Functions
+## The Celtic Pantheon — Archetypal Functions
 
 ### The Dagda: The Good God / All-Father
 
@@ -198,7 +197,7 @@ His imprisonment by the Lady of the Lake is the **anima's demand for relationshi
 
 ---
 
-## Section 3: The Grail Quest — Individuation as Sacred Question
+## The Grail Quest — Individuation as Sacred Question
 
 ### The Arthurian Mythos: Ego, Kingdom, and Wholeness
 
@@ -288,7 +287,7 @@ The right question is **compassion** ("What ails thee?") and **recognition** ("W
 
 ---
 
-## Section 4: Death and Rebirth Mysteries — The Cauldron and the Head
+## Death and Rebirth Mysteries — The Cauldron and the Head
 
 ### The Cauldron of Regeneration
 
@@ -344,7 +343,7 @@ The "sovereignty" demanded is the anima's (and the Self's) refusal to be possess
 
 ---
 
-## Section 5: The Seasonal Mandala — The Four Fire Festivals
+## The Seasonal Mandala — The Four Fire Festivals
 
 ### The Wheel of the Year: Transformation as Cycle
 
@@ -427,7 +426,7 @@ Tailtiu's death is the **Great Mother's sacrifice**—she gives her life to clea
 
 ---
 
-## Section 6: Shadow Work — The Fomorians and the Battle for Sovereignty
+## Shadow Work — The Fomorians and the Battle for Sovereignty
 
 ### The Fomorians: Chaos and the Primordial Shadow
 
@@ -471,7 +470,7 @@ The Morrigan's trap shows that **the shadow always finds the contradiction**—t
 
 ---
 
-## Section 7: Integration and Wholeness — The Once and Future King
+## Integration and Wholeness — The Once and Future King
 
 ### Arthur's Return: The Self That Cannot Die
 
@@ -508,7 +507,7 @@ The **Siege Perilous** is the **Self's throne**—the center that only the indiv
 
 ---
 
-## Section 8: Modern Relevance — Celtic Myths in Contemporary Life
+## Modern Relevance — Celtic Myths in Contemporary Life
 
 ### The Waste Land Today: Collective Neurosis
 
@@ -581,8 +580,7 @@ The answer is never a new *system* but a new *relationship*—conscious, humble,
 
 ---
 
-## Section 9: Synthesis Notes
-
+## Jungian Analysis
 ### 9.1 Jungian Theory Deep Dive
 
 Celtic mythology, for Jung, represents the **collective unconscious as living reality**—not "past" but *eternally present*, accessible through ritual, vision, and dream. The Otherworld (Sidhe, Tir na nOg, Annwn) is Jung's **Collective Unconscious**—timeless, containing archetypal forms and ancestral memory.

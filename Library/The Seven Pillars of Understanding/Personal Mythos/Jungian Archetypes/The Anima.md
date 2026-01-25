@@ -15,8 +15,7 @@ verification_notes: "Core Jung archetype definitions verified via NotebookLM. Ke
 
 # The Anima: The Soul-Guide and Eternal Feminine
 
-## Section 1: Foundational Material
-
+## Overview
 ### Jung's Definition
 
 The Anima is Jung's term for the **feminine soul-image in men**—the unconscious feminine aspect of the masculine psyche. She is both a personal complex and an archetypal image, functioning as the bridge between individual consciousness and the collective unconscious.
@@ -229,8 +228,7 @@ The Anima's emergence and integration follow predictable developmental stages, t
 
 ---
 
-## Section 2: Core Correspondences
-
+## Archetypal Cast
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Archetype Name** | The Anima |
@@ -250,7 +248,7 @@ The Anima's emergence and integration follow predictable developmental stages, t
 
 ---
 
-## Section 3: Practical Application
+## Practical Application
 
 ### Recognition in Life
 
@@ -371,8 +369,7 @@ The Anima is **rarely seen directly**—she is encountered via **projection**.
 
 ---
 
-## Section 4: Synthesis Notes
-
+## Jungian Analysis
 ### 1. Jung's Theory Deep Dive
 
 The Anima occupies a unique structural position in Jung's model of the psyche:
@@ -794,8 +791,7 @@ The Anima interacts dynamically with other archetypal structures:
 
 ---
 
-## Section 5: Gender Dynamics
-
+## Shadow Dynamics
 **How does the Anima manifest in men vs. the Animus in women?**
 
 **In Men (The Anima):**
@@ -833,7 +829,7 @@ The Anima interacts dynamically with other archetypal structures:
 
 ---
 
-## Section 6: Cross-References
+## Cross-References
 
 ### Jungian Archetypes
 - [[The Shadow]] — Must be integrated before Anima work; Anima often contaminated by Shadow

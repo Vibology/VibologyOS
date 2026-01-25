@@ -865,8 +865,7 @@ She was never the queen.
 
 ---
 
-## Sources & Further Reading
-
+## Sources
 ### Primary Texts
 - **Grimm, Jacob and Wilhelm.** *Kinder- und Hausmärchen* (1812). Multiple tales featuring the Wicked Stepmother: "Snow White," "Cinderella," "Hansel and Gretel," "The Juniper Tree."
 

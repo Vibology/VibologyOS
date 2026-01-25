@@ -32,8 +32,7 @@ Jung recognized Indigenous worldviews as retaining what the West has lost: **par
 
 ---
 
-## Core Correspondences
-
+## Archetypal Cast
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Cultural Origin** | Indigenous North America (diverse nations: Navajo, Lakota, Pueblo, Haida, Anishinaabe, etc.) |
@@ -51,7 +50,7 @@ Jung recognized Indigenous worldviews as retaining what the West has lost: **par
 
 ---
 
-## Section 1: Cosmology — The Web of Relationships and Sacred Hoop
+## Cosmology — The Web of Relationships and Sacred Hoop
 
 ### The Emergence: Birth from the Earth
 
@@ -89,7 +88,7 @@ The **Medicine Wheel** (pan-Indigenous symbol with regional variations) maps the
 
 ---
 
-## Section 2: Pan-Indigenous Archetypal Figures
+## Pan-Indigenous Archetypal Figures
 
 ### Coyote and Raven: The Trickster / Sacred Fool
 
@@ -204,7 +203,7 @@ The buffalo's gift is **total provision**—meat, hide, sinew, bone, horn—ever
 
 ---
 
-## Section 3: The Hero Twins — Monster Slayers
+## The Hero Twins — Monster Slayers
 
 ### Navajo/Pueblo Tradition: Restoring Balance
 
@@ -232,7 +231,7 @@ The buffalo's gift is **total provision**—meat, hide, sinew, bone, horn—ever
 
 ---
 
-## Section 4: The Vision Quest — Rite of Passage
+## The Vision Quest — Rite of Passage
 
 ### Structure of the Vision Quest
 
@@ -275,7 +274,7 @@ The **vision quest** (pan-Indigenous practice with regional variations: *hanble�
 
 ---
 
-## Section 5: Animal Totems — Theriomorphic Archetypes
+## Animal Totems — Theriomorphic Archetypes
 
 ### The Concept of Animal Spirits
 
@@ -348,7 +347,7 @@ The **vision quest** (pan-Indigenous practice with regional variations: *hanble�
 
 ---
 
-## Section 6: The Medicine Wheel — Integration of Four Directions
+## The Medicine Wheel — Integration of Four Directions
 
 ### The Wheel as Mandala
 
@@ -409,7 +408,7 @@ The **Medicine Wheel** is a **mandala of wholeness**—the Self as sacred circle
 
 ---
 
-## Section 7: Respect for Land and Ancestors — Relational Consciousness
+## Respect for Land and Ancestors — Relational Consciousness
 
 ### The Land as Living Relation
 
@@ -453,7 +452,7 @@ The **Medicine Wheel** is a **mandala of wholeness**—the Self as sacred circle
 
 ---
 
-## Section 8: Practical Application — Working with Indigenous Wisdom
+## Practical Application — Working with Indigenous Wisdom
 
 ### Recognition in Life
 
@@ -526,8 +525,7 @@ The **Medicine Wheel** is a **mandala of wholeness**—the Self as sacred circle
 
 ---
 
-## Section 9: Synthesis Notes
-
+## Jungian Analysis
 ### 9.1 Jungian Theory Deep Dive
 
 Indigenous mythology, for Jung, represented **participation mystique**—the original unity of psyche and world that Western consciousness has sacrificed for ego development. Yet Jung was careful not to romanticize or regress: the task for modern Western psyche is not to "return to indigenous consciousness" (impossible, unethical) but to **reintegrate the relational dimension** after differentiation.

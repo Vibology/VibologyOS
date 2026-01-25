@@ -36,8 +36,7 @@ The result was not cultural erasure but **creative survival**. Yoruba Orishas me
 
 ---
 
-## Core Correspondences
-
+## Archetypal Cast
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Cultural Origin** | West Africa (Yoruba, Fon, Kongo) diasporized through Middle Passage (1500s-1800s) |
@@ -55,7 +54,7 @@ The result was not cultural erasure but **creative survival**. Yoruba Orishas me
 
 ---
 
-## Section 1: Cosmology — From Olodumare to the Living Dead
+## Cosmology — From Olodumare to the Living Dead
 
 ### The Supreme Being: Olodumare / Bondye
 
@@ -112,7 +111,7 @@ Yoruba cosmology divides reality into:
 
 ---
 
-## Section 2: The Orishas — Archetypal Forces of Nature and Psyche
+## The Orishas — Archetypal Forces of Nature and Psyche
 
 The **Orishas** (Yoruba) or **Lwa** (Vodou) are **autonomous archetypal complexes**—forces of nature that are simultaneously forces of the psyche. They are not metaphors; they are **living presences** experienced through possession, divination, dreams, and synchronicity.
 
@@ -283,7 +282,7 @@ Oya is **fearless**—she goes where others cannot, speaks what must not be sile
 
 ---
 
-## Section 3: Ifa and Divination — Accessing the Universal Software
+## Ifa and Divination — Accessing the Universal Software
 
 ### The 256 Odu: Binary Permutations of Destiny
 
@@ -328,7 +327,7 @@ Both access the **psychoid level** (Jung's term for the realm where psyche and m
 
 ---
 
-## Section 4: Vodou and the Lwa — Hot and Cool Powers
+## Vodou and the Lwa — Hot and Cool Powers
 
 ### The Rada-Petro Spectrum
 
@@ -375,7 +374,7 @@ The **Petro lwa emerged from the trauma of slavery**—they are the **spirits of
 
 ---
 
-## Section 5: Anansi the Spider — Trickster Wisdom
+## Anansi the Spider — Trickster Wisdom
 
 ### The Weaver of Stories
 
@@ -398,7 +397,7 @@ The **Petro lwa emerged from the trauma of slavery**—they are the **spirits of
 
 ---
 
-## Section 6: Ancestral Veneration — The Living Dead
+## Ancestral Veneration — The Living Dead
 
 ### The Egun: Ancestors as Active Presences
 
@@ -433,7 +432,7 @@ Yoruba cosmology includes the **Unborn**—souls waiting to be born, choosing pa
 
 ---
 
-## Section 7: Practical Application — Working with Diaspora Archetypes
+## Practical Application — Working with Diaspora Archetypes
 
 ### Recognition in Life
 
@@ -528,7 +527,7 @@ Yoruba cosmology includes the **Unborn**—souls waiting to be born, choosing pa
 
 ---
 
-## Section 8: Cultural Sensitivity and Respect
+## Cultural Sensitivity and Respect
 
 ### Why This Section Matters
 
@@ -590,8 +589,7 @@ Unlike Greek or Norse mythology—which are **historical religions no longer act
 
 ---
 
-## Section 9: Synthesis Notes
-
+## Jungian Analysis
 ### 9.1 Jungian Theory Deep Dive
 
 Jung's **collective unconscious** applies perfectly to diaspora traditions—but with a caveat. Jung's work largely ignored African systems, operating within Eurocentric bias. Yet the **structures are profoundly Jungian**:

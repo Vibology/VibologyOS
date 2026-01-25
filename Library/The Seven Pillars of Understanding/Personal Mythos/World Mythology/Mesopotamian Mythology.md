@@ -28,8 +28,7 @@ The Mesopotamian cosmos is structured as a **vertical Axis Mundi**—the Ziggura
 
 ---
 
-## Core Correspondences
-
+## Archetypal Cast
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Cultural Origin** | Ancient Mesopotamia: Sumer, Akkad, Babylon, Assyria (c. 3500 BCE - 539 BCE) |
@@ -47,7 +46,7 @@ The Mesopotamian cosmos is structured as a **vertical Axis Mundi**—the Ziggura
 
 ---
 
-## Section 1: Cosmology — The Violent Birth of Consciousness
+## Cosmology — The Violent Birth of Consciousness
 
 ### The Enuma Elish: When Above
 
@@ -82,7 +81,7 @@ To climb the Ziggurat is to ascend toward consciousness and spirit; to descend t
 
 ---
 
-## Section 2: The Pantheon — Gods as Psychic Functions
+## The Pantheon — Gods as Psychic Functions
 
 ### Anu: The Remote Sky Father
 
@@ -172,7 +171,7 @@ Dumuzi's annual descent and return is the psyche's cyclical rhythm: consciousnes
 
 ---
 
-## Section 3: The Epic of Gilgamesh — Individuation of the Ego
+## The Epic of Gilgamesh — Individuation of the Ego
 
 ### The Hero of Uruk
 
@@ -272,7 +271,7 @@ Jung: "Individuation is not the ego's conquest of death but the ego's recognitio
 
 ---
 
-## Section 4: Inanna's Descent — Confrontation with the Self
+## Inanna's Descent — Confrontation with the Self
 
 ### The Decision to Descend
 
@@ -338,7 +337,7 @@ Geshtinanna's substitution shows the **principle of shared burden**—individuat
 
 ---
 
-## Section 5: The Afterlife — The House of Dust
+## The Afterlife — The House of Dust
 
 ### The Mesopotamian Underworld: Kur
 
@@ -365,7 +364,7 @@ The feathered garments (wings) suggest that the dead are *neither fully embodied
 
 ---
 
-## Section 6: Practical Application — Working with Mesopotamian Archetypes
+## Practical Application — Working with Mesopotamian Archetypes
 
 ### Recognition in Life
 
@@ -424,7 +423,7 @@ The feathered garments (wings) suggest that the dead are *neither fully embodied
 
 ---
 
-## Section 7: Shadow Work — The Mesopotamian Wound
+## Shadow Work — The Mesopotamian Wound
 
 ### The Primal Matricide: Marduk's Guilt
 
@@ -478,7 +477,7 @@ The feathered garments (wings) suggest that the dead are *neither fully embodied
 
 ---
 
-## Section 8: Integration and Wholeness — The Mesopotamian Gift
+## Integration and Wholeness — The Mesopotamian Gift
 
 ### What Conscious Relationship with Mesopotamian Archetypes Provides:
 
@@ -500,8 +499,7 @@ The feathered garments (wings) suggest that the dead are *neither fully embodied
 
 ---
 
-## Section 9: Synthesis Notes
-
+## Jungian Analysis
 ### 9.1 Jungian Theory Deep Dive
 
 Mesopotamian mythology dramatizes the **Ego's violent emergence from the Uroboros**. Unlike Greek myth (where consciousness gradually differentiates), Mesopotamia insists that separation is *bloody*. Marduk does not gently guide Tiamat toward transformation—he *kills* her. This is not pathology but **archetypal truth**: the Ego's birth feels like murder to the unconscious.

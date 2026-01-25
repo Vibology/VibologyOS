@@ -108,8 +108,7 @@ The King represents the **healthy, conscious good-parent archetype** that pushes
 
 ---
 
-## Psychological Dynamics & Transformation
-
+## Jungian Analysis
 ### The Loss of the Golden Ball – The Descent into Puberty
 
 The tale begins with **loss**—the golden ball (childhood ego integrity) falls into the well (the unconscious). This is not an accident but a **necessary descent**, the onset of adolescence when:
@@ -250,8 +249,7 @@ Von Franz and Campbell both note the crucial difference:
 
 ---
 
-## Gender Dynamics
-
+## Shadow Dynamics
 ### The Feminine Journey
 
 For girls and women, **The Frog Prince** encodes:
@@ -394,8 +392,7 @@ Heinrich represents the **loyal unconscious**, the part of the psyche that **hol
 
 ---
 
-## Practical Application & Shadow Work
-
+## Practical Application
 ### Diagnostic Questions
 
 **For Adolescents (and those revisiting adolescent wounds):**
@@ -500,8 +497,7 @@ The tale concludes with the Sacred Marriage ([[Coniunctio]]), the union of Princ
 
 ---
 
-## Sources & Further Reading
-
+## Sources
 ### Primary Texts
 - **Grimm, Jacob and Wilhelm.** *Kinder- und Hausmärchen* (1812). "Der Froschkönig oder der eiserne Heinrich" (Tale 1) - the first tale in the collection.
 

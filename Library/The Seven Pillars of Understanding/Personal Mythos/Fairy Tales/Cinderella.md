@@ -185,8 +185,7 @@ Cinderella's enforced station **at the hearth, covered in ashes**, is not degrad
 
 ---
 
-## Psychological Dynamics & Transformation
-
+## Jungian Analysis
 ### The Death of the Good Mother: Forced Individuation
 
 The tale's initiating catastrophe is the **Good Mother's death**, which psychologically represents:
@@ -478,8 +477,7 @@ Once a woman has been to Baba Yaga and earned the fire, she **cannot return to t
 
 ---
 
-## Practical Application & Shadow Work
-
+## Practical Application
 ### Diagnostic Questions
 
 **For Women:**
@@ -621,8 +619,7 @@ Write a dialogue between yourself and your inner stepmother. Let her speak:
 
 ---
 
-## Sources & Further Reading
-
+## Sources
 ### Primary Texts
 - **Grimm, Jacob and Wilhelm.** *Kinder- und Hausmärchen* (1812). "Aschenputtel" (Tale 21) - German variant with helpful doves and grave-tree.
 - **Perrault, Charles.** *Histoires ou contes du temps passé* (1697). "Cendrillon, ou la petite pantoufle de verre" - French version with fairy godmother and glass slipper.

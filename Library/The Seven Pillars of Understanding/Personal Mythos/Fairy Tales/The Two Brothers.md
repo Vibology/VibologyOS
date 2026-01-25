@@ -295,8 +295,7 @@ Temperance depicts the **alchemical wedding**—the union of opposites after Sep
 
 ---
 
-## Psychological Dynamics & Transformation
-
+## Jungian Analysis
 ### The Ego Cannot Survive Without the Shadow
 
 The tale's deepest teaching: **the Light Brother, cut off from the Dark Brother, becomes rigid, lifeless, and vulnerable**. Consciousness without instinct is **anemic, sterile, defenseless**. The Ego, believing itself complete through moral purity and social success, ventures into the unconscious (the enchanted castle, the wilderness, the underworld) and is **overwhelmed**. It is turned to stone, trapped, or killed—**petrified** by its own one-sidedness.
@@ -516,8 +515,7 @@ In **elderhood**, the Two Brothers motif becomes a question of **reconciliation*
 
 ---
 
-## Practical Application & Shadow Work
-
+## Practical Application
 ### Diagnostic Questions
 
 **For All Individuals:**
@@ -653,8 +651,7 @@ With him, you are whole.
 
 ---
 
-## Sources & Further Reading
-
+## Sources
 ### Primary Texts
 - **Grimm, Jacob and Wilhelm.** *Kinder- und Hausmärchen* (1812). "The Two Brothers" (Tale 60).
 - **Biblical.** Genesis 4 (Cain and Abel), Genesis 25-33 (Jacob and Esau).

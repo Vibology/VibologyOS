@@ -18,8 +18,7 @@ psychological_task: Relating to contrasexual soul-image, withdrawing projections
 
 **Individuation Stage 4 | Midlife–Elder 40–65 | Alchemical Operation: Albedo**
 
-## I. Foundational Material
-
+## Overview
 ### Jung's Definition: The Bridge to the Collective Unconscious
 
 In *Aion* (CW 9ii) and *Two Essays* (CW 7), Jung defines the Anima (in men) and Animus (in women) as **the soul-image**, the internal representation of the contrasexual archetype that mediates between the ego and the collective unconscious:
@@ -58,8 +57,7 @@ Before midlife, the Anima and Animus are typically **projected outward** onto ro
 
 Jung: "Since this image is unconscious, it is always unconsciously projected upon the person of the beloved, and is one of the chief reasons for passionate attraction or aversion." (*CW 17, ¶338*)
 
-## II. Core Correspondences
-
+## Archetypal Cast
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Stage Name** | Encounter with Anima/Animus |
@@ -77,7 +75,7 @@ Jung: "Since this image is unconscious, it is always unconsciously projected upo
 | **I-Ching** | **Hexagram 63 - After Completion** (purification after crisis) |
 | **Mythology** | Psyche & Eros, Shiva & Shakti, Isis & Osiris, Orpheus & Eurydice, the Sacred Marriage (*Hierosgamos*) |
 
-## III. Practical Application
+## Practical Application
 
 ### Recognition in Life
 
@@ -116,8 +114,7 @@ A well-integrated Anima/Animus demonstrates:
 
 Soul-image, Anima, Animus, Projection, Eros, Logos, Muse, Bridge to unconscious, Sacred marriage, Syzygy, Albedo, Purification
 
-## IV. Synthesis Notes
-
+## Jungian Analysis
 ### 1. Jung's Theory Deep Dive: The Anima and Animus as Archetypes
 
 **The Anima (in men):**
@@ -305,7 +302,7 @@ Jung's method for withdrawing Anima/Animus projection:
 **The Gift:**
 A **soul-connected individual** who has built the bridge between ego and unconscious, who can access the deep creative source, who can relate authentically to others because the soul is no longer projected but integrated—the **White Queen** or **Wise King** within.
 
-## V. Cross-References
+## Cross-References
 
 **Jungian Archetypes:**
 - [[Folklore/Jungian Archetypes/The Anima]] (primary archetype of this stage for men)
@@ -388,8 +385,7 @@ A **soul-connected individual** who has built the bridge between ego and unconsc
 
 ---
 
-## Sources & Further Reading
-
+## Sources
 ### Primary Texts (Jung)
 - **Jung, Carl Gustav.** *Aion: Researches into the Phenomenology of the Self* (CW 9ii). Comprehensive treatment of anima and animus as syzygy.
 - **Jung, Carl Gustav.** *Two Essays on Analytical Psychology* (CW 7). Foundational description of anima/animus.

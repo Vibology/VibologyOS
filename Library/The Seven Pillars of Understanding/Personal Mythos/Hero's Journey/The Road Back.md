@@ -11,8 +11,7 @@ verification_notes: "Campbell's monomyth[^1] framework (12-stage Hero's Journey)
 
 # The Road Back
 
-## 1. Foundational Material
-
+## Overview
 ### Jung's Archetypal Context
 
 The Road Back represents the **hero's commitment to return** with the boon seized in the Ordeal, marking Stage 10 of Campbell's monomyth[^1]. This is not passive departure but active **reintegration**—the hero must defend the prize against forces attempting to reclaim it. The journey home tests whether the transformation achieved in the Special World can survive contact with the Ordinary World.
@@ -121,8 +120,7 @@ Psychologically, The Road Back corresponds to:
 
 **Post-Crisis Integration**: Returning from treatment centers (addiction, mental health), hospitals, ashrams, or intensive healing work. The environment has not changed—family dynamics, work stress, cultural pressures—but the person has. The Road Back tests: **does the transformation hold under pressure?**
 
-## 2. Core Correspondences
-
+## Archetypal Cast
 | **System** | **Primary Correspondence** | **Symbolic Resonance** | **Psychological Function** |
 |------------|---------------------------|------------------------|----------------------------|
 | **Tarot** | [[The Chariot (VII)]]<br>[[Six of Swords]]<br>[[Ten of Wands]] | Chariot: Willful movement, control over opposing forces, triumph through discipline<br>Six of Swords: Transition away from difficulty, carrying knowledge forward<br>Ten of Wands: Burden of the boon, weight of responsibility | The hero must **direct the return**, control opposing forces (temptation to stay, forces pursuing). The boon is heavy; responsibility is burden before it is blessing |
@@ -133,7 +131,7 @@ Psychologically, The Road Back corresponds to:
 | **Angelology** | [[Sandalphon]]<br>[[Michael]]<br>[[Metatron]] | Sandalphon: Angel of grounding, roots to Earth, embodiment<br>Michael: Warrior protector, defends against pursuit<br>Metatron: Bridge between divine and human, the transformed guide | Sandalphon grounds the return; Michael protects the boon from reclamation; Metatron (the transformed Enoch) models the possibility of bringing heaven to earth |
 | **Jungian Archetypes** | [[The Psychopomp]]<br>[[The Trickster]]<br>[[Folklore/Jungian Archetypes/The Self]] | Psychopomp: Guide between worlds (Hermes, Charon, shamanic spirits)<br>Trickster: If fleeing requires deception, cunning, or rule-breaking<br>Self: The deeper intelligence calling the hero back to service rather than transcendent escape | The Psychopomp assists boundary-crossing; the Trickster aids escape (Prometheus, Loki); the Self insists on embodiment and service over spiritual bypass |[^2]
 
-## 3. Practical Application
+## Practical Application
 
 ### Recognition: Signs You Are on The Road Back
 
@@ -200,8 +198,7 @@ When the Road Back is navigated successfully:
 
 **The Road Back as Relational Test**: Sometimes the return **is** relational—bringing new boundaries into old dynamics, embodying new self in the presence of those who knew only the old. This is excruciating and necessary.
 
-## 4. Synthesis Subsections
-
+## Jungian Analysis
 ### 4.1 Campbell's Hero's Journey: The Road Back as Penultimate Stage
 
 The Road Back (Stage 10) is the **transition from the Special World back toward the Ordinary World**:
@@ -463,8 +460,7 @@ If The Road Back is navigated successfully, it confers irreplaceable gifts:
 **7. Trust in the Process**
 - The Road Back teaches: *"The journey is not yet complete, but I am on the path."* You are neither in the Special World nor fully integrated, but you trust the process. [[The Resurrection]] awaits, and you will be ready.
 
-## 5. Gender Dynamics
-
+## Shadow Dynamics
 ### Masculine-Coded Road Back: The Heroic Flight
 
 In patriarchal narrative, The Road Back emphasizes **active defense**—the hero flees, fights, and guards the boon through strength and strategy.
@@ -519,7 +515,7 @@ The mature psyche requires **integration of both**:
 - The ability to **receive** what is given (grace, community, rescue)
 - The wisdom to know **when to fight and when to surrender**
 
-## 6. Cross-References
+## Cross-References
 
 ### Jungian Archetypes[^2]
 - [[The Shadow]]: On The Road Back, shadow contents the hero believed integrated may resurface—old patterns pursuing, demanding continued work. The return tests whether shadow integration holds under pressure.

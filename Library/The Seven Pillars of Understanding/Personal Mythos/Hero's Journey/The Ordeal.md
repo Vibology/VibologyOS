@@ -11,8 +11,7 @@ verification_notes: "Campbell's monomyth[^1] framework (12-stage Hero's Journey)
 
 # The Ordeal
 
-## 1. Foundational Material
-
+## Overview
 ### Jung's Archetypal Context
 
 The Ordeal represents the **nadir of the heroic journey**, the supreme test where the hero confronts death—literal, symbolic, or psychological. In Campbell's topology[^1], this is Stage 8 of the monomyth, positioned at the exact center of the narrative arc. It marks the transition from **descent** (Acts 1-2A) to **ascent** (Acts 2B-3).
@@ -94,8 +93,7 @@ Psychologically, the Ordeal corresponds to:
 
 **Initiation Rites**: Traditional cultures formalized the Ordeal—circumcision, scarification, isolation ordeals, hallucinogenic journeys—to ensure the adolescent psyche underwent necessary transformation under controlled conditions.
 
-## 2. Core Correspondences
-
+## Archetypal Cast
 | **System** | **Primary Correspondence** | **Symbolic Resonance** | **Psychological Function** |
 |------------|---------------------------|------------------------|----------------------------|
 | **Tarot** | [[Death (XIII)]]<br>[[The Tower (XVI)]]<br>[[The Hanged Man (XII)]] | Death: Ego dissolution, transformation<br>Tower: Sudden collapse of false structures<br>Hanged Man: Willing suspension, surrender | Forced confrontation with impermanence; the psyche stripped of illusions; radical reorientation through crisis |
@@ -106,7 +104,7 @@ Psychologically, the Ordeal corresponds to:
 | **Angelology** | **Azrael** (Angel of Death)<br>**Samael** (Severity, Accuser)<br>**Metatron** (Transformation) | Azrael: Gentle escort to the afterlife<br>Samael: The poison of God, left-hand severity<br>Metatron: The transformed Enoch, bridge between worlds | Angels of the Ordeal do not rescue—they witness. Azrael ensures the death is complete; Metatron awaits on the far side |
 | **Jungian Archetypes** | [[The Shadow]]<br>[[The Devouring Mother]]<br>[[The Terrible Father]]<br>[[Folklore/Jungian Archetypes/The Self]] (as annihilating totality) | Shadow: Confronting the disowned<br>Devouring Mother: Engulfment, regression<br>Terrible Father: Judgment, castration, law<br>Self: The death required for wholeness | The Ordeal is the Shadow made flesh—what was projected must be integrated. The hero discovers: *"I am the monster I sought to slay"* |[^2]
 
-## 3. Practical Application
+## Practical Application
 
 ### Recognition: Signs You Are in the Ordeal
 
@@ -181,8 +179,7 @@ If you survive the Ordeal (and survival is never guaranteed), integration demand
 
 **The Ordeal as Relational**: Sometimes the crisis *is* relational—betrayal, abandonment, enmeshment. The death is the bond itself, and resurrection requires releasing the person who was the projected [[Self]].
 
-## 4. Synthesis Subsections
-
+## Jungian Analysis
 ### 4.1 Campbell's Hero's Journey: The Ordeal as Structural Axis
 
 The Ordeal (Stage 8) is the **fulcrum** of Campbell's 12-stage monomyth:
@@ -426,8 +423,7 @@ If the Ordeal is survived and integrated, it confers irreplaceable gifts:
 **7. Humility**
 - The ego that survives the Ordeal knows its smallness. You are not the hero—you are the **site** where heroism occurred. Forces beyond you (the [[Self]], the divine, the archetypal realm) moved through you. This is not nihilism; it is right-sizing.
 
-## 5. Gender Dynamics
-
+## Shadow Dynamics
 ### Masculine-Coded Ordeal: Combat and Confrontation
 
 In patriarchal myth, the Ordeal is often **externalized as battle**:
@@ -475,7 +471,7 @@ Western heroic narratives privilege masculine Ordeal (combat). Eastern and Indig
 
 The future of the Ordeal archetype may be **gender-integrative**—recognizing that every individual, regardless of anatomy or identity, must learn both to fight and to surrender.
 
-## 6. Cross-References
+## Cross-References
 
 ### Jungian Archetypes[^2]
 - [[The Shadow]]: The Ordeal often manifests as confrontation with the Shadow[^2]—what was denied, disowned, or projected must be faced. The monster in the cave is the hero's own darkness made external.

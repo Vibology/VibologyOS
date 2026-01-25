@@ -30,8 +30,7 @@ The Taoist pantheon—Jade Emperor, Eight Immortals, Queen Mother of the West—
 
 ---
 
-## Core Correspondences
-
+## Archetypal Cast
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Cultural Origin** | Ancient China (6th century BCE - present) |
@@ -49,7 +48,7 @@ The Taoist pantheon—Jade Emperor, Eight Immortals, Queen Mother of the West—
 
 ---
 
-## Section 1: Cosmology — The Tao and the Ten Thousand Beings
+## Cosmology — The Tao and the Ten Thousand Beings
 
 ### The Nameless Source: Wu Chi and the Tao
 
@@ -114,7 +113,7 @@ In popular Taoist cosmogony, **Pangu** (盤古) is the primordial giant who emer
 
 ---
 
-## Section 2: The Celestial Bureaucracy — Archetypal Functions
+## The Celestial Bureaucracy — Archetypal Functions
 
 ### The Jade Emperor: Yu Huang
 
@@ -165,7 +164,7 @@ Her western palace (direction of sunset, autumn, Metal element) places her at th
 
 ---
 
-## Section 3: The Taoist Path — Wu Wei and the Sage
+## The Taoist Path — Wu Wei and the Sage
 
 ### Wu Wei: Action Through Non-Action
 
@@ -218,7 +217,7 @@ Jung called this the **relativization of the ego**—the ego's realization that 
 
 ---
 
-## Section 4: Alchemy and Transformation — The Inner Path
+## Alchemy and Transformation — The Inner Path
 
 ### The Three Treasures: Jing, Qi, Shen
 
@@ -290,7 +289,7 @@ Jung: *"The experience of the Self is always a defeat for the ego."* The ego mus
 
 ---
 
-## Section 5: Practical Application — Living the Taoist Path
+## Practical Application — Living the Taoist Path
 
 ### Recognition in Life
 
@@ -357,7 +356,7 @@ Jung: *"The experience of the Self is always a defeat for the ego."* The ego mus
 
 ---
 
-## Section 6: Shadow Work — Recognizing Ego-Grasping
+## Shadow Work — Recognizing Ego-Grasping
 
 ### The Taoist Shadow: Wei (Forced Action)
 
@@ -400,7 +399,7 @@ Each Immortal's path has its shadow distortion:
 
 ---
 
-## Section 7: Integration and Wholeness — The Yin-Yang Coniunctio
+## Integration and Wholeness — The Yin-Yang Coniunctio
 
 ### The Sacred Marriage of Opposites
 
@@ -443,7 +442,7 @@ Jung: *"The self is not only the center but also the whole circumference which e
 
 ---
 
-## Section 8: Modern Relevance — Taoism in Contemporary Life
+## Modern Relevance — Taoism in Contemporary Life
 
 ### Burnout Culture and Wu Wei
 
@@ -487,8 +486,7 @@ Jung: *"The self is not only the center but also the whole circumference which e
 
 ---
 
-## Section 9: Synthesis Notes
-
+## Jungian Analysis
 ### 9.1 Jungian Theory Deep Dive
 
 Taoist philosophy and Jungian psychology are **parallel languages** for the same reality—the psyche's journey from fragmentation to wholeness.

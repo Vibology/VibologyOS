@@ -18,8 +18,7 @@ psychological_task: Differentiation of subject from object
 
 **Individuation Stage 1 | Birth–12 Years | Alchemical Operation: Separatio**
 
-## I. Foundational Material
-
+## Overview
 ### Jung's Theory of Childhood Consciousness
 
 In *The Structure and Dynamics of the Psyche* (CW 8), Jung establishes that **consciousness is not innate but arises from the unconscious** as a secondary phenomenon. He writes:
@@ -50,8 +49,7 @@ In *The Origins and History of Consciousness*, Erich Neumann maps the ego's emer
 
 The task of childhood is to complete this ***Separatio***—the alchemical separation of the One Thing into its constituent parts, the differentiation of subject from object, self from world, "I" from "Not-I."
 
-## II. Core Correspondences
-
+## Archetypal Cast
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Stage Name** | Ego Formation and Childhood |
@@ -69,7 +67,7 @@ The task of childhood is to complete this ***Separatio***—the alchemical separ
 | **I-Ching** | **Hexagram 3 - Difficulty at the Beginning** (chaos before order) |
 | **Mythology** | Krishna (Divine Child), Horus (potential sun), Moses in the bulrushes |
 
-## III. Practical Application
+## Practical Application
 
 ### Recognition in Life
 
@@ -99,8 +97,7 @@ A well-formed childhood ego demonstrates:
 
 Separation, Differentiation, Emergence, Innocence, Potential, Mother-bond, Object permanence, Language acquisition, Ego-birth, The Uroboros
 
-## IV. Synthesis Notes
-
+## Jungian Analysis
 ### 1. Jung's Theory Deep Dive: The Ego as Secondary Phenomenon
 
 For Jung, the ego is **not primary but derivative**. It arises from the Self (the totality of the psyche) like a bud from a branch. The Self contains the ego, not the reverse. This is contrary to Freud, for whom the ego was the mediator between id and superego.
@@ -260,7 +257,7 @@ If this integration fails, the individual carries the split into adulthood, proj
 **The Gift:**
 A **coherent Ego** capable of observing the world without being overwhelmed by it—the spark of consciousness that can say, "I am," and from that foundation, begin the long journey toward wholeness.
 
-## V. Cross-References
+## Cross-References
 
 **Jungian Archetypes:**
 - [[Folklore/Jungian Archetypes/The Divine Child]] (primary identification of this stage)
@@ -330,8 +327,7 @@ A **coherent Ego** capable of observing the world without being overwhelmed by i
 
 ---
 
-## Sources & Further Reading
-
+## Sources
 ### Primary Texts (Jung)
 - **Jung, Carl Gustav.** *The Development of Personality* (CW 17). Comprehensive analysis of childhood, ego formation, and parental influence.
 - **Jung, Carl Gustav.** *The Structure and Dynamics of the Psyche* (CW 8). The ego, consciousness, and the unconscious.

@@ -26,8 +26,7 @@ psychological_function: Embodiment, incarnation, fixing wisdom in matter
 
 ---
 
-## Foundational Material
-
+## Overview
 ### Jungian Definition
 
 Carl Jung understood **Coagulation** as the final alchemical operation—the moment when all that has been dissolved, separated, purified, and sublimated *solidifies into permanent form*. This is not regression to rigidity but the **fixing of wisdom in the flesh**, the embodiment of the Self in daily life.
@@ -145,8 +144,7 @@ Coagulation is the *rarest* alchemical operation because it requires *all prior 
 
 ---
 
-## Core Correspondences
-
+## Archetypal Cast
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Alchemical Operation** | Coagulation (Coagulatio) |
@@ -250,8 +248,7 @@ Unlike earlier stages that require intense inner work, **Coagulation requires al
 
 ---
 
-## Synthesis Notes
-
+## Jungian Analysis
 ### 1. Jung's Theory Deep Dive
 
 For Jung, **Coagulation** represents the culmination of the **individuation process**—the moment when the Self is no longer an abstract concept or mystical vision but a *lived reality*.

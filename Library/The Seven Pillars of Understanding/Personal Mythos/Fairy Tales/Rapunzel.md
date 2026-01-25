@@ -127,8 +127,7 @@ This is the **invisible wound**: Rapunzel is not imprisoned because she failed o
 
 ---
 
-## Psychological Dynamics & Transformation
-
+## Jungian Analysis
 ### The Tower as Negative Mother Complex
 
 The **tower** is the tale's central image, a symbol of **psychic imprisonment disguised as safety**:
@@ -266,8 +265,7 @@ Von Franz reads the tale's ending—Rapunzel, the Prince, and the twins returnin
 
 ---
 
-## Gender Dynamics
-
+## Shadow Dynamics
 ### The Feminine Journey: Breaking the Mother-Bond
 
 For women, **Rapunzel** is the **quintessential mother-complex tale**, addressing the daughter's terrifying and necessary journey from captivity to sovereignty:
@@ -430,8 +428,7 @@ The masculine journey is **from heroic inflation (the Prince) to wounding (the b
 
 ---
 
-## Practical Application & Shadow Work
-
+## Practical Application
 ### Diagnostic Questions
 
 **For Daughters (Mother Complex):**
@@ -540,8 +537,7 @@ The masculine journey is **from heroic inflation (the Prince) to wounding (the b
 
 ---
 
-## Sources & Further Reading
-
+## Sources
 ### Primary Texts
 - **Grimm, Jacob and Wilhelm.** *Kinder- und Hausmärchen* (1812). "Rapunzel" (Tale 12).
 - **Giambattista Basile.** *Pentamerone* (1634). "Petrosinella" - Italian precursor with similar tower-imprisonment motif.

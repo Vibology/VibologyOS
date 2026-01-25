@@ -401,8 +401,7 @@ The **Bean Nighe** (Washer Woman) appears at rivers, washing the bloodstained cl
 
 ---
 
-## Sources & Further Reading
-
+## Sources
 ### Primary Texts
 - **Grimm, Jacob and Wilhelm.** *Kinder- und Hausmärchen* (1812). Spinning-centered tales: "Rumpelstiltskin," "The Three Spinners," "The Six Swans" (sewing starflower shirts).
 

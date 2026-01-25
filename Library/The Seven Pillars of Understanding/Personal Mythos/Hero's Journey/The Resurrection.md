@@ -15,8 +15,7 @@ psychological_equivalent: Permanent ego reconfiguration, public demonstration of
 
 # The Resurrection
 
-## 1. Foundational Material
-
+## Overview
 ### Jung's Archetypal Context
 
 The Resurrection represents the **second death-rebirth cycle** of the heroic journey—the public proof that transformation is complete and permanent. Where [[The Ordeal]] (Stage 8) was the private, internal ego-death, the Resurrection is the **external demonstration** that the hero has truly changed. This is Campbell's Stage 11, positioned at the threshold between the Special World and the Ordinary World—the final gate before return.
@@ -82,8 +81,7 @@ Psychologically, the Resurrection corresponds to:
 
 **Traditional Initiation Rites**: Many Indigenous cultures structure initiation in two phases: the wilderness ordeal (alone, fasting, facing death) and the return ceremony (public declaration of adulthood, witnessed by tribe). The Resurrection is the ceremony—proof the initiate survived and transformed.
 
-## 2. Core Correspondences
-
+## Archetypal Cast
 | **System** | **Primary Correspondence** | **Symbolic Resonance** | **Psychological Function** |
 |------------|---------------------------|------------------------|----------------------------|
 | **Tarot** | [[Judgment (XX)]]<br>[[The World (XXI)]]<br>[[The Sun (XIX)]] | Judgment: Resurrection, the angel's call, rising from the grave<br>World: Completion, integration, Master of Two Worlds<br>Sun: Vitality, rebirth, new life radiating outward | The final integration—answering the call to rise, embodying wholeness, radiating the transformation publicly |
@@ -94,7 +92,7 @@ Psychologically, the Resurrection corresponds to:
 | **Angelology** | [[Metatron]] (The Transformed Human)<br>[[Sandalphon]] (Grounding Divine Light)<br>[[Michael]] (Victory) | Metatron: Enoch became Metatron—human transformed into angel, proof transformation is possible<br>Sandalphon: Brings heaven to earth, embodies prayer<br>Michael: Victory over the dragon, triumphant return | Metatron is the archetypal Resurrection—the human who crossed to divinity and remained. Michael is the warrior's return, victorious |
 | **Jungian Archetypes** | [[Folklore/Jungian Archetypes/The Self]] (Fully Conscious)<br>[[The Reborn God]]<br>[[The Individuated Self]]<br>[[The Master of Two Worlds]] | Self: Ego and unconscious in dialogue, not war<br>Reborn God: Osiris, Christ, Dionysus—death overcome<br>Individuated Self: Wholeness embodied, no longer split<br>Master of Two Worlds: Can navigate ordinary and extraordinary | The Resurrection is **individuation proven**. The Self is no longer theoretical; it is lived, embodied, stable even under duress |[^2]
 
-## 3. Practical Application
+## Practical Application
 
 ### Recognition: Signs You Are in the Resurrection
 
@@ -170,8 +168,7 @@ If you successfully navigate the Resurrection, integration yields:
 
 **The Resurrection as Relational**: Sometimes the final test *is* relational—meeting the person/situation that used to trigger regression and **responding differently**. Proof: you are no longer reactive. You are free.
 
-## 4. Synthesis Subsections
-
+## Jungian Analysis
 ### 4.1 Campbell's Hero's Journey: The Resurrection as Penultimate Threshold
 
 The Resurrection (Stage 11) is the **second-to-last stage** of Campbell's 12-stage monomyth, positioned at the return threshold:
@@ -426,8 +423,7 @@ If the Resurrection is navigated successfully, it confers irreplaceable gifts:
 **8. The Philosopher's Stone**
 - Alchemically, the Resurrection is the Stone—transmutation complete. You are gold. Not metaphorically—**literally**. Your being radiates the integration. This is what others feel in your presence: *"They have been somewhere I have not. They know something I seek."*
 
-## 5. Gender Dynamics
-
+## Shadow Dynamics
 ### Masculine-Coded Resurrection: The Final Battle
 
 In patriarchal myth, the Resurrection is often **externalized as combat**—the hero must defeat the antagonist to prove transformation:
@@ -475,7 +471,7 @@ Western heroic narratives privilege masculine Resurrection (final battle). Easte
 
 The future of the Resurrection archetype may be **gender-integrative**—recognizing that every individual, regardless of anatomy or identity, must learn to both **do** and **be** the transformation.
 
-## 6. Cross-References
+## Cross-References
 
 ### Jungian Archetypes[^2]
 - [[Folklore/Jungian Archetypes/The Self]]: The Resurrection is the Self made **manifest**—no longer theoretical but embodied, functional, stable. The ego serves the Self; the Self guides the ego[^2].

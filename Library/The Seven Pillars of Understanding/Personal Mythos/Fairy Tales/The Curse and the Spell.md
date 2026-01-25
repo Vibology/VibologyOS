@@ -698,8 +698,7 @@ When the curse is consciously engaged and the spell is broken, the following gif
 
 ---
 
-## Sources & Further Reading
-
+## Sources
 ### Primary Texts
 - **Grimm, Jacob and Wilhelm.** *Kinder- und Hausmärchen* (1812). Tales featuring curses and spells: "Sleeping Beauty," "Beauty and the Beast," "The Frog Prince," "The Six Swans," "Rapunzel."
 

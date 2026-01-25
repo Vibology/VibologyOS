@@ -15,8 +15,7 @@ collective_unconscious: Universal pattern of loving the rejected to reveal the d
 
 # Transformation and the Animal Bride/Groom: The Sacred Marriage of Beast and Beauty
 
-## Section 1: Foundational Material
-
+## Overview
 ### Core Symbolism
 
 The **Transformation and Animal Bride/Groom** motif is among the most psychologically profound patterns in world folklore. At its heart lies a paradox that defines the human condition: **the loathly, rejected, or monstrous contains the prince or princess**—the divine spirit is hidden within what consciousness finds repugnant, terrifying, or unacceptable.
@@ -344,7 +343,7 @@ The violation triggers **loss** (the soul flees) and **ordeal** (the quest to re
 
 Breaking the taboo is **not failure** but **initiation into conscious relationship**.
 
-## Section 2: Archetypal Variants and Examples
+## Archetypal Variants and Examples
 
 ### Beauty and the Beast: Love and Recognition
 
@@ -691,8 +690,7 @@ She turns, sees him, and speaks: *"I told you never to look. Now I must leave."*
 - **The High Priestess (II):** The mystery that cannot be unveiled
 - **The Hermit (IX):** The necessity of solitude for the soul's work
 
-## Section 3: Core Correspondences
-
+## Archetypal Cast
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Motif Name** | Transformation and the Animal Bride/Groom |
@@ -714,8 +712,7 @@ She turns, sees him, and speaks: *"I told you never to look. Now I must leave."*
 
 ---
 
-## Section 4: Synthesis Notes
-
+## Jungian Analysis
 ### 1. The Animal as Double Archetype: Shadow and Anima/Animus
 
 The animal groom/bride is **simultaneously**:
@@ -1403,7 +1400,7 @@ Every human being must reconcile with the "animal within" to become whole.
 
 ---
 
-## Section 5: Internal Links and Cross-References
+## Internal Links and Cross-References
 
 ### Jungian Archetypes
 - [[Folklore/Jungian Archetypes/The Anima]] — Feminine soul-image; the Beast as contaminated Anima
@@ -1532,8 +1529,7 @@ The soul cannot be possessed—only loved.
 
 ---
 
-## Sources & Further Reading
-
+## Sources
 ### Primary Texts
 - **Grimm, Jacob and Wilhelm.** *Kinder- und Hausmärchen* (1812). Animal-bridegroom tales: "Beauty and the Beast," "The Frog Prince," "The White Snake," "The Singing, Soaring Lark."
 - **Apuleius.** *The Golden Ass* (2nd century CE). "Cupid and Psyche" - Eros as invisible/monstrous bridegroom.

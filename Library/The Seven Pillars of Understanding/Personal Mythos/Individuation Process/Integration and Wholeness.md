@@ -18,8 +18,7 @@ psychological_task: Preparation for death, wisdom transmission, becoming ancesto
 
 **Individuation Stage 6 | Elderhood 60+ | Alchemical Operation: Coagulatio**
 
-## I. Foundational Material
-
+## Overview
 ### Jung's Vision: Life as the Rhizome
 
 In *Memories, Dreams, Reflections*, Jung reflects on the totality of his life with the image of a plant:
@@ -50,8 +49,7 @@ The final stage of individuation is not retirement or withdrawal but **conscious
 
 **The Vessel:** A container for the **objective psyche**—no longer living *their* life but allowing the Self to live *through* them.
 
-## II. Core Correspondences
-
+## Archetypal Cast
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Stage Name** | Integration and Wholeness |
@@ -69,7 +67,7 @@ The final stage of individuation is not retirement or withdrawal but **conscious
 | **I-Ching** | **Hexagram 64 - Before Completion** (the eternal process), **Hexagram 2 - The Receptive** (yielding, allowing) |
 | **Mythology** | Odin's self-sacrifice, Buddha's Parinirvana, Christ's willing death, Socrates' acceptance, Oedipus at Colonus |
 
-## III. Practical Application
+## Practical Application
 
 ### Recognition in Life
 
@@ -114,8 +112,7 @@ A well-integrated elder demonstrates:
 
 Elderhood, Wisdom, Death preparation, Ancestor, Synthesis, Legacy, Coagulatio, Lapis, Senex, Crone, Unus Mundus, Simplification, Transmission
 
-## IV. Synthesis Notes
-
+## Jungian Analysis
 ### 1. Jung's Theory Deep Dive: The Synthesis of the Personality
 
 Jung's late work (post-60) focuses on the **synthesis** of all that was integrated in earlier stages:
@@ -302,7 +299,7 @@ Young people project the **Wise Old Man / Wise Old Woman** archetype onto elders
 **The Gift:**
 A **completed human being** who has lived the full arc from birth to death **consciously**, who has integrated all opposites (light and dark, masculine and feminine, ego and Self), who transmits wisdom to the next generation, who faces death **without terror** because they have realized the imperishable Self—the Philosopher's Stone, the Lapis, the crystallized essence that death cannot touch.
 
-## V. Cross-References
+## Cross-References
 
 **Jungian Archetypes:**
 - [[Folklore/Jungian Archetypes/The Self]] (fully realized, embodied, transparent)
@@ -379,8 +376,7 @@ A **completed human being** who has lived the full arc from birth to death **con
 
 ---
 
-## Sources & Further Reading
-
+## Sources
 ### Primary Texts (Jung)
 - **Jung, Carl Gustav.** *Memories, Dreams, Reflections* (1961). Jung's autobiographical reflection on his own individuation journey.
 - **Jung, Carl Gustav.** *Mysterium Coniunctionis* (CW 14). Integration, wholeness, and the alchemical opus as individuation.

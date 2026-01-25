@@ -15,8 +15,7 @@ verification_notes: "Core Jung archetype definitions verified via NotebookLM. Ke
 
 # The Joker: The Trickster, Sacred Fool, and Lord of Crossroads
 
-## Section 1: Foundational Material
-
+## Overview
 ### Jung's Definition
 
 The archetype Jung termed the **Trickster** appears throughout his work as one of the most ancient and enduring patterns in the collective unconscious. In *The Archetypes and the Collective Unconscious* (CW 9i, par. 472), Jung provides the definitive statement:
@@ -175,8 +174,7 @@ Failure to integrate results in:
 
 ---
 
-## Section 2: Core Correspondences
-
+## Archetypal Cast
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Archetype Name** | The Joker (Trickster in Jungian terminology) |
@@ -195,7 +193,7 @@ Failure to integrate results in:
 
 ---
 
-## Section 3: Practical Application
+## Practical Application
 
 ### Recognition in Life
 
@@ -320,8 +318,7 @@ The Joker is frequently **projected** onto others—especially in romantic, crea
 
 ---
 
-## Section 4: Synthesis Notes
-
+## Jungian Analysis
 ### 1. Jung's Theory Deep Dive
 
 The Trickster occupies a unique position in Jung's structural model—he is **not a fixed content** but a **dynamic function.**
@@ -735,8 +732,7 @@ The Trickster appears in dreams with specific motifs:
 
 ---
 
-## Section 5: Gender Dynamics
-
+## Shadow Dynamics
 **How does the Joker manifest differently across genders?**
 
 **In Men:**
@@ -768,7 +764,7 @@ The Trickster appears in dreams with specific motifs:
 
 ---
 
-## Section 6: Cross-References
+## Cross-References
 
 ### Jungian Archetypes
 - [[The Shadow]] — The Trickster mediates shadow material; brings the repressed to light

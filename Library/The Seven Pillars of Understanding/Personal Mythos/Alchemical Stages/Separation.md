@@ -26,8 +26,7 @@ psychological_function: Discrimination, withdrawing projections, discernment
 
 ---
 
-## Foundational Material
-
+## Overview
 ### Jungian Definition
 
 Carl Jung understood **Separation** as the intellect's discriminating function—the sword of Logos that cuts through the flood of unconscious material released in [[Dissolution]]. In *Mysterium Coniunctionis* (CW 14), Jung describes this operation as the necessary act of differentiation:
@@ -133,8 +132,7 @@ Separation is the ongoing work of ego formation and boundary-setting. It occurs 
 
 ---
 
-## Core Correspondences
-
+## Archetypal Cast
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Alchemical Operation** | Separation (Separatio) |
@@ -246,8 +244,7 @@ Separation is the experience of clarity emerging from chaos. It feels like seein
 
 ---
 
-## Synthesis Notes
-
+## Jungian Analysis
 ### 1. Jung's Theory Deep Dive
 
 For Jung, **Separation** is the discriminating function of consciousness—the ego's ability to say "This is me; that is not me." Without Separation, the psyche remains in *participation mystique* (unconscious identification with the environment, others, or archetypal contents).

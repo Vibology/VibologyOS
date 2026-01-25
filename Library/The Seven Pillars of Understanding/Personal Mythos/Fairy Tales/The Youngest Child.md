@@ -678,8 +678,7 @@ This is the [[Integration and Wholeness|path of individuation]]: not the triumph
 
 ---
 
-## Sources & Further Reading
-
+## Sources
 ### Primary Texts
 - **Grimm, Jacob and Wilhelm.** *Kinder- und Hausmärchen* (1812). Multiple tales: "The Golden Bird," "The Queen Bee," "The Three Feathers," "The Golden Goose," "Simpleton" variants.
 - **Afanasyev, Alexander.** *Russian Fairy Tales* (collected 1855-1863). "Ivan the Fool" and related youngest-child narratives.

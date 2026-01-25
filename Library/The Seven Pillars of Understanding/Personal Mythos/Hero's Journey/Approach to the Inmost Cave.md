@@ -11,8 +11,7 @@ verification_notes: "Campbell's monomyth[^1] framework (12-stage Hero's Journey)
 
 # Approach to the Inmost Cave
 
-## 1. Foundational Material
-
+## Overview
 ### Jung's Archetypal Context
 
 The Approach to the Inmost Cave represents the **final threshold before the supreme test**, the moment when the hero stands at the precipice of maximum danger and must choose—consciously, deliberately—to enter. In Campbell's topology[^1], this is Stage 7 of the monomyth, positioned immediately before the [[The Ordeal|Ordeal]] at the narrative's nadir.
@@ -90,8 +89,7 @@ Psychologically, the Approach corresponds to:
 
 **Elderhood (70+)**: Entering hospice, signing DNR paperwork, final conversations with family. The Approach to literal death—conscious preparation, steeling the psyche, release of attachments.
 
-## 2. Core Correspondences
-
+## Archetypal Cast
 | **System** | **Primary Correspondence** | **Symbolic Resonance** | **Psychological Function** |
 |------------|---------------------------|------------------------|----------------------------|
 | **Tarot** | [[The Moon (XVIII)]]<br>[[Eight of Swords]]<br>[[The Hermit (IX)]] | Moon: Illusion, fear, the unconscious path<br>Eight of Swords: Trapped, decision required, self-imposed bondage<br>Hermit: Solitary preparation, inner guidance | The psyche navigates by moonlight—intuition, fear, and the unknown. Eight of Swords shows the bondage that must be consciously broken. The Hermit provides the lantern for the dark descent |
@@ -102,7 +100,7 @@ Psychologically, the Approach corresponds to:
 | **Angelology** | [[Azrael]] (Death's presence)<br>[[Michael]] (courage to face)<br>[[Samael]] (severity, truth without mercy) | Azrael: Death visible on the horizon<br>Michael: The warrior's courage to walk forward<br>Samael: The left-hand angel, poison of God, stripping illusions | Angels of the Approach prepare the psyche—Azrael's presence ensures the coming death is accepted, Michael lends courage, Samael strips away final illusions before the descent |
 | **Jungian Archetypes** | [[The Shadow]] (awaiting in darkness)<br>[[The Devouring Mother]] (Cave as womb/tomb)<br>[[The Terrible Father]] (Cave as judgment chamber) | Shadow: The disowned self waiting to be faced<br>Devouring Mother: The Cave as regressive pull, return to womb/death<br>Terrible Father: The Cave as law, judgment, impossibility | The Approach is recognizing what archetype waits in the Cave—Shadow (integration), Devouring Mother (autonomy test), Terrible Father (authority challenge). Naming the archetype is half the battle |[^2]
 
-## 3. Practical Application
+## Practical Application
 
 ### Recognition: Signs You Are Approaching the Inmost Cave
 
@@ -193,8 +191,7 @@ If you faced a guardian before entering (literal or symbolic), reflect: What did
 
 **The Approach as Relational**: Sometimes the Cave itself is relational—the conversation you've been avoiding, the boundary you must set, the goodbye you must say. The Approach is rehearsing your words, steeling your resolve to speak them.
 
-## 4. Synthesis Subsections
-
+## Jungian Analysis
 ### 4.1 Campbell's Hero's Journey: The Approach as Structural Hinge
 
 The Approach to the Inmost Cave (Stage 7) serves as the **hinge** between the journey's exploratory phase and its existential crisis:
@@ -544,8 +541,7 @@ Ritual preparation is not control—it is **reverence**. The knight's vigil, the
 
 The talisman provided during the Approach creates a bond that transcends physical presence. When the [[The Ordeal|Ordeal]] isolates the hero, the Mentor's gift whispers: *"You carry my faith. I believe you can do this."*
 
-## 5. Gender Dynamics
-
+## Shadow Dynamics
 ### Masculine-Coded Approach: The Warrior Prepares
 
 In patriarchal myth, the Approach emphasizes **strategic preparation and arming**:
@@ -598,7 +594,7 @@ Western heroic narratives privilege masculine Approach (strategic arming). Easte
 
 The future of the Approach archetype is **gender-integrative**—honoring both the warrior's preparation and the mystic's surrender.
 
-## 6. Cross-References
+## Cross-References
 
 ### Jungian Archetypes[^2]
 - [[The Shadow]]: The Approach is the growing awareness of the Shadow's presence. The hero senses what waits in the Cave—the disowned, the denied, the projected. Naming the Shadow is half the Approach.

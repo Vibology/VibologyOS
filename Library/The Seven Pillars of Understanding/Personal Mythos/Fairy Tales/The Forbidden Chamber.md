@@ -930,8 +930,7 @@ This is the mark of mature consciousness—living not in denial or naivety, but 
 - Jung, C.G. *Two Essays on Analytical Psychology* (CW 7)
 - Jung, C.G. *Answer to Job* (CW 11)
 
-## Sources & Further Reading
-
+## Sources
 ### Primary Texts
 - **Perrault, Charles.** *Histoires ou contes du temps passé* (1697). "La Barbe Bleue" (Bluebeard).
 - **Grimm, Jacob and Wilhelm.** *Kinder- und Hausmärchen* (1812). "Fitcher's Bird" (Tale 46), "The Robber Bridegroom" (Tale 40).

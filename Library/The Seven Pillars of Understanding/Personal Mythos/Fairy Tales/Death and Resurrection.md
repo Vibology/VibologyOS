@@ -886,8 +886,7 @@ A man loses his father suddenly. He hooks the skeleton (his own mortality surfac
 
 ---
 
-## Sources & Further Reading
-
+## Sources
 ### Primary Texts
 - **Grimm, Jacob and Wilhelm.** *Kinder- und Hausmärchen* (1812). Tales featuring death and resurrection: "The Juniper Tree," "Snow White," "Sleeping Beauty," "Fitcher's Bird."
 

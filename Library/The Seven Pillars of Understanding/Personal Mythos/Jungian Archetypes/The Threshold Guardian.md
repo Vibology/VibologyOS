@@ -15,8 +15,7 @@ verification_notes: "Core Jung archetype definitions verified via NotebookLM. Ke
 
 # The Threshold Guardian: Custodian of Boundaries
 
-## Section 1: Foundational Material
-
+## Overview
 ### Jung's Definition
 
 The Threshold Guardian is the archetype that **guards the passage** between the known world and the unknown—the boundary between consciousness and the unconscious, between the ego and the deeper Self. Unlike the [[The Shadow|Shadow]], which represents the repressed contents of the personal unconscious, the Threshold Guardian is the **gatekeeper**, the obstacle that must be faced, respected, or overcome before transformation can occur.
@@ -133,8 +132,7 @@ The final Threshold Guardian is **death itself**—the ultimate boundary. The el
 - Retirement (loss of social role)
 - Preparation for death
 
-## Section 2: Core Correspondences
-
+## Archetypal Cast
 | Domain | Correspondence | Notes |
 |--------|---------------|-------|
 | **Element** | Earth (Boundary, Limit, Threshold) | The solid ground that must be crossed; the wall that must be breached |
@@ -152,7 +150,7 @@ The final Threshold Guardian is **death itself**—the ultimate boundary. The el
 | **I-Ching** | Hexagram 29 (The Abysmal/Danger), Hexagram 39 (Obstruction) | Repeated danger; the necessary obstacle |
 | **Chakra** | Root (Muladhara) and Solar Plexus (Manipura) | Survival fear; willpower tested |
 
-## Section 3: Practical Application
+## Practical Application
 
 ### Recognition in Life
 
@@ -321,8 +319,7 @@ Mentors and teachers serve as Threshold Guardians in **positive form**:
 - The Guardian is both **enemy (to the ego's will) and ally (to the Self's purpose)**
 - The Guardian is both **external (gatekeeper, authority) and internal (fear, doubt)**
 
-## Section 4: Synthesis Notes
-
+## Jungian Analysis
 ### 1. Campbell's Theory Deep Dive
 
 Joseph Campbell's **Hero's Journey** positions the Threshold Guardian as the **first obstacle** after the Call to Adventure has been accepted.
@@ -759,8 +756,7 @@ Jung writes:
 
 The Threshold Guardian **never disappears**—at each new threshold, the Guardian reappears. But the integrated individual **knows how to meet the Guardian**: with respect, with courage, and with discernment.
 
-## Section 5: Gender Dynamics
-
+## Shadow Dynamics
 **How does the Threshold Guardian manifest differently in men vs. women?**
 
 The Threshold Guardian, as an archetype, is **universal**—it guards boundaries and tests readiness regardless of gender. However, its **specific form** and the **nature of the test** vary based on gender, culture, and the individual's relationship to the contrasexual archetype.
@@ -823,7 +819,7 @@ The Threshold Guardian, as an archetype, transcends binary gender. Individuals w
 
 Passing this Guardian requires **courage to embody complexity**—to refuse false binaries and claim **wholeness beyond categories**.
 
-## Section 6: Cross-References
+## Cross-References
 
 ### Jungian Archetypes
 

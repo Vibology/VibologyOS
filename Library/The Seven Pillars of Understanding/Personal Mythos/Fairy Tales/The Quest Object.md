@@ -676,8 +676,7 @@ The treasure is **what you are missing**—the value, the meaning, the piece of 
 
 ---
 
-## Sources & Further Reading
-
+## Sources
 ### Primary Texts
 - **Grimm, Jacob and Wilhelm.** *Kinder- und Hausmärchen* (1812). Quest-centered tales: "The Golden Bird," "The Water of Life," "The Queen Bee," "The Three Feathers."
 

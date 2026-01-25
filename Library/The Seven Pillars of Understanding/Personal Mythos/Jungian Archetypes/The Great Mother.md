@@ -15,8 +15,7 @@ verification_notes: "Core Jung archetype definitions verified via NotebookLM. Ke
 
 # The Great Mother: The Nourishing Womb and the Devouring Abyss
 
-## Section 1: Foundational Material
-
+## Overview
 ### Jung's Definition
 
 The Great Mother is the primordial archetype of the feminine, embodying the dual forces of life-giving nourishment and death-dealing destruction. In *Symbols of Transformation* (CW 5, par. 612), Jung writes[^1]:
@@ -125,8 +124,7 @@ The Mother archetype is active throughout life, but intensifies at specific deve
 
 ---
 
-## Section 2: Core Correspondences
-
+## Archetypal Cast
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Archetype Name** | The Great Mother |
@@ -145,7 +143,7 @@ The Mother archetype is active throughout life, but intensifies at specific deve
 
 ---
 
-## Section 3: Practical Application
+## Practical Application
 
 ### Recognition in Life
 
@@ -281,8 +279,7 @@ The Mother is **the primary archetype projected in romantic relationships**.
 
 ---
 
-## Section 4: Synthesis Notes
-
+## Jungian Analysis
 ### 1. Jung's Theory Deep Dive
 
 The Mother archetype occupies a foundational position in Jung's model of the psyche:
@@ -659,8 +656,7 @@ The Great Mother interacts dynamically with other archetypal structures:
 
 ---
 
-## Section 5: Gender Dynamics
-
+## Shadow Dynamics
 **How does the Great Mother manifest differently in men vs. women?**
 
 **In Men:**
@@ -686,7 +682,7 @@ The Great Mother interacts dynamically with other archetypal structures:
 
 ---
 
-## Section 6: Cross-References
+## Cross-References
 
 ### Jungian Archetypes
 - [[The Shadow]] — The Terrible Mother merges with shadow material (rejected rage, dependency)

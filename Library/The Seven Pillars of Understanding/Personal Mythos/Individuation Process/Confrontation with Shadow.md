@@ -18,8 +18,7 @@ psychological_task: Integration of repressed, unlived, and rejected aspects of p
 
 **Individuation Stage 3 | Midlife 35–50 | Alchemical Operation: Nigredo**
 
-## I. Foundational Material
-
+## Overview
 ### Jung's Definition: The Moral Problem
 
 In *Aion* (CW 9ii), Jung defines the Shadow as **a moral problem that challenges the whole ego-personality**:
@@ -48,8 +47,7 @@ Midlife is the **Nigredo**, the alchemical blackening—the dark night of the so
 
 This is not a "breakdown" but a **break-through**—the necessary death of the old structure so a new, more authentic life can emerge.
 
-## II. Core Correspondences
-
+## Archetypal Cast
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Stage Name** | Confrontation with Shadow |
@@ -67,7 +65,7 @@ This is not a "breakdown" but a **break-through**—the necessary death of the o
 | **I-Ching** | **Hexagram 29 - The Abysmal** (the abyss, danger, repeated trials) |
 | **Mythology** | Inanna's Descent, Persephone's Abduction, Dante's *Inferno*, Christ's Harrowing of Hell |
 
-## III. Practical Application
+## Practical Application
 
 ### Recognition in Life
 
@@ -107,8 +105,7 @@ This stage is observable through:
 
 Shadow, Projection, Midlife crisis, Nigredo, Dark night, Underworld descent, Moral reckoning, Integration, Unlived life, Enantiodromia
 
-## IV. Synthesis Notes
-
+## Jungian Analysis
 ### 1. Jung's Theory Deep Dive: Personal Shadow vs. Collective Shadow
 
 **Personal Shadow:**
@@ -294,7 +291,7 @@ Jung: "One does not become enlightened by imagining figures of light, but by mak
 **The Gift:**
 A **real person** who has descended into their own underworld and returned with the treasure—the integrated shadow, the reclaimed vitality, the wisdom that **wholeness includes darkness**.
 
-## V. Cross-References
+## Cross-References
 
 **Jungian Archetypes:**
 - [[The Shadow]] (primary archetype of this stage—complete entry with personal vs collective distinction)
@@ -375,8 +372,7 @@ A **real person** who has descended into their own underworld and returned with 
 
 ---
 
-## Sources & Further Reading
-
+## Sources
 ### Primary Texts (Jung)
 - **Jung, Carl Gustav.** *Aion: Researches into the Phenomenology of the Self* (CW 9ii). Comprehensive analysis of the shadow and the problem of evil.
 - **Jung, Carl Gustav.** *Psychology and Alchemy* (CW 12). The shadow in alchemical symbolism and transformation.

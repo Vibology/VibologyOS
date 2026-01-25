@@ -18,8 +18,7 @@ psychological_task: Adaptation to collective, establishing social role
 
 **Individuation Stage 2 | Adolescence–30s | Alchemical Operation: Calcination**
 
-## I. Foundational Material
-
+## Overview
 ### Jung's Theory of the Persona
 
 In *Two Essays on Analytical Psychology* (CW 7) and *The Archetypes and the Collective Unconscious* (CW 9i), Jung defines the Persona as **the individual's system of adaptation to the world**—the mask worn to navigate society:
@@ -52,8 +51,7 @@ During this stage, the **Hero archetype** is fully activated. The adolescent and
 
 This is the **ascent of the mountain**—gathering strength, resources, reputation. The sun rises toward zenith. The focus is **outward**: success, status, achievement, security.
 
-## II. Core Correspondences
-
+## Archetypal Cast
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Stage Name** | Persona Development |
@@ -71,7 +69,7 @@ This is the **ascent of the mountain**—gathering strength, resources, reputati
 | **I-Ching** | **Hexagram 1 - The Creative** (yang force, initiatory power) |
 | **Mythology** | Jason (claiming the Golden Fleece), Theseus (lifting the stone, claiming adulthood), Odysseus at Troy |
 
-## III. Practical Application
+## Practical Application
 
 ### Recognition in Life
 
@@ -111,8 +109,7 @@ A well-formed Persona demonstrates:
 
 Adaptation, Social mask, Achievement, Competence, Role, Status, Reputation, Willpower, Ascent, Outer world mastery
 
-## IV. Synthesis Notes
-
+## Jungian Analysis
 ### 1. Jung's Theory Deep Dive: The Persona as Necessary Compromise
 
 The Persona is derived from the Latin word for "mask" (the theatrical masks worn by actors in Roman drama). Jung borrowed the term to describe the **functional identity** we present to the world.
@@ -274,7 +271,7 @@ In this stage, the primary projections are:
 **The Gift:**
 A **functional Persona** that serves the Self's aims—a mask that can be worn when needed, removed when safe, and never confused with the totality of who you are. The vessel is built; now it must be filled with something other than achievement.
 
-## V. Cross-References
+## Cross-References
 
 **Jungian Archetypes:**
 - [[Folklore/Jungian Archetypes/The Persona]] (primary archetype of this stage)
@@ -351,8 +348,7 @@ A **functional Persona** that serves the Self's aims—a mask that can be worn w
 
 ---
 
-## Sources & Further Reading
-
+## Sources
 ### Primary Texts (Jung)
 - **Jung, Carl Gustav.** *Two Essays on Analytical Psychology* (CW 7). Foundational analysis of the persona and its function.
 - **Jung, Carl Gustav.** *The Relations Between the Ego and the Unconscious* (CW 7). Persona development and differentiation from the unconscious.

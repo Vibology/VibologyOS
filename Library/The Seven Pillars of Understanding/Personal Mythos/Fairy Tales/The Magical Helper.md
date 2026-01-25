@@ -708,8 +708,7 @@ When facing an **impossible task** (the problem the ego alone cannot solve):
 
 ---
 
-## Sources & Further Reading
-
+## Sources
 ### Primary Texts
 - **Grimm, Jacob and Wilhelm.** *Kinder- und Hausmärchen* (1812). Helper-centered tales: "Cinderella" (doves, tree), "The Goose Girl" (Falada the talking horse), "The White Snake" (animal helpers).
 - **Afanasyev, Alexander.** *Russian Fairy Tales* (collected 1855-1863). "Vasilisa the Beautiful" (the doll as magical helper).

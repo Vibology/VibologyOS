@@ -596,8 +596,7 @@ Inanna enters the underworld **naked and powerless** (like Snow White in the gla
 
 ---
 
-## Sources & Further Reading
-
+## Sources
 ### Primary Texts
 
 - **Grimm, Jacob and Wilhelm.** *Kinder- und Hausmärchen* (1812). "Sneewittchen" (Tale 53), "Die sieben Raben" (Tale 25), "Die Gänsemagd am Brunnen" (Tale 179), "Die sechs Schwäne" (Tale 49).

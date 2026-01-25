@@ -15,8 +15,7 @@ verification_notes: "Core Jung archetype definitions verified via NotebookLM. Ke
 
 # The Shapeshifter: The Archetype of Mutability and Ambiguity
 
-## Section 1: Foundational Material
-
+## Overview
 ### Jung's Definition
 
 The Shapeshifter is the archetype of **mutability**, **ambiguity**, and **transformation**. Unlike other archetypes that represent relatively stable psychological patterns, the Shapeshifter embodies **instability itself**—the refusal to remain fixed, the capacity to change form, and the deliberate cultivation of uncertainty.
@@ -168,8 +167,7 @@ The Shapeshifter constellates most intensely during **threshold periods** across
 - Encounters with duplicity, manipulation, or gaslighting (forcing discernment)
 - Creative breakthroughs that require "trying on" new forms of expression
 
-## Section 2: Core Correspondences
-
+## Archetypal Cast
 | Domain | Correspondence | Notes |
 |--------|---------------|-------|
 | **Element** | Water and Air | Fluidity (water) and changeability (air); mercury |
@@ -187,7 +185,7 @@ The Shapeshifter constellates most intensely during **threshold periods** across
 | **I-Ching** | Hexagram 59 (Dispersion), Hexagram 29 (Abysmal/Water) | Dissolution of rigid forms; danger in the depths |
 | **Chakra** | Third Eye (Ajna) and Throat (Vishuddha) | Perception/illusion; expression/deception |
 
-## Section 3: Practical Application
+## Practical Application
 
 ### Recognition in Life
 
@@ -327,8 +325,7 @@ Politically and culturally, the Shapeshifter appears as:
 - It **destroys** fixed identity yet **catalyzes** true identity
 - It is both **the obstacle** and **the path**
 
-## Section 4: Synthesis Notes
-
+## Jungian Analysis
 ### 1. Proteus as the Archetype
 
 In Greek mythology, **Proteus** is the Old Man of the Sea—a prophetic deity who knows all things but refuses to share his knowledge unless **captured and held through all his transformations**.
@@ -687,8 +684,7 @@ Jung writes:
 
 The Shapeshifter is the **living, third thing**—the transformation that emerges when the ego stops resisting and **enters the dance**.
 
-## Section 5: Gender Dynamics
-
+## Shadow Dynamics
 **How does the Shapeshifter manifest differently in men vs. women?**
 
 The Shapeshifter is inherently **non-binary**—it transcends fixed categories of gender, identity, and form. However, its manifestation in individual lives is colored by **cultural conditioning** and **archetypal patterns** associated with gender.
@@ -713,7 +709,7 @@ Non-binary individuals are often forced to become **masters of shapeshifting**�
 **The Hermaphrodite in Alchemy:**
 The alchemical **Rebis** (the hermaphrodite, the two-in-one) is the ultimate symbol of integrated Shapeshifter. It is **both male and female**, both spirit and matter, both fixed and fluid. This is not gender confusion—it is **gender transcendence**, the realization that the Self contains all forms.
 
-## Section 6: Cross-References
+## Cross-References
 
 ### Jungian Archetypes
 

@@ -27,8 +27,7 @@ psychological_function: Ego death, shadow integration, putrefaction, descent
 
 ---
 
-## Foundational Material
-
+## Overview
 ### Jungian Definition
 
 The **Nigredo** is Jung's most frequently cited alchemical stage, representing the initial descent into the unconscious—the confrontation with the Shadow and the death of the ego's inflated structures. In *Psychology and Alchemy* (CW 12), Jung identifies the Nigredo as the essential starting point of all psychological transformation:
@@ -166,8 +165,7 @@ The Nigredo is not a single event but a *recurring pattern* throughout the lifes
 
 ---
 
-## Core Correspondences
-
+## Archetypal Cast
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Alchemical Color** | Nigredo (The Blackening) |
@@ -275,8 +273,7 @@ The Nigredo is unmistakable. It feels like death:
 
 ---
 
-## Synthesis Notes
-
+## Jungian Analysis
 ### 1. Jung's Theory Deep Dive
 
 For Jung, the **Nigredo is the essential starting point of individuation**. In *Psychology and Alchemy* (CW 12), he devotes extensive analysis to this stage, recognizing it as the alchemists' symbol for the initial confrontation with the unconscious.

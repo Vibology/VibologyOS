@@ -26,8 +26,7 @@ psychological_function: Destruction of ego defenses, burning away attachments
 
 ---
 
-## Foundational Material
-
+## Overview
 ### Jungian Definition
 
 Carl Jung understood **Calcination** as the fiery ordeal that initiates the alchemical transformation—the necessary destruction that precedes rebirth. In *Psychology and Alchemy* (CW 12), he writes of the alchemical fire as both literal (the furnace) and metaphorical (the heat of psychological crisis):
@@ -126,8 +125,7 @@ Calcination is not age-specific—it can occur at any stage when the ego's struc
 
 ---
 
-## Core Correspondences
-
+## Archetypal Cast
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Alchemical Operation** | Calcination (Calcinatio) |
@@ -224,8 +222,7 @@ Calcination is unmistakable. It feels like burning:
 
 ---
 
-## Synthesis Notes
-
+## Jungian Analysis
 ### 1. Jung's Theory Deep Dive
 
 For Jung, **Calcination** represents the **first and most brutal confrontation with the unconscious**. The ego, which has built elaborate defenses (Persona) to navigate the world, encounters a heat it cannot control. This heat may come from:

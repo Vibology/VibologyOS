@@ -15,8 +15,7 @@ verification_notes: "Core Jung archetype definitions verified via NotebookLM. Ke
 
 # The Persona: The Light Brother and Adaptive Mask
 
-## Section 1: Foundational Material
-
+## Overview
 ### Jung's Definition
 
 The Persona is Jung's term for the **social mask**—the adaptive system through which the ego mediates between inner authenticity and outer expectation. In *Two Essays on Analytical Psychology* (CW 7, par. 305), Jung writes[^1]:
@@ -139,8 +138,7 @@ The Persona develops in **stages**, each with distinct challenges:
 
 ---
 
-## Section 2: Core Correspondences
-
+## Archetypal Cast
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Archetype Name** | The Persona |
@@ -159,7 +157,7 @@ The Persona develops in **stages**, each with distinct challenges:
 
 ---
 
-## Section 3: Practical Application
+## Practical Application
 
 ### Recognition in Life
 
@@ -267,8 +265,7 @@ The Persona operates dynamically in relationships:
 
 ---
 
-## Section 4: Synthesis Notes
-
+## Jungian Analysis
 ### 1. Jung's Theory Deep Dive
 
 The Persona occupies a **structural position** in Jung's model of the psyche:
@@ -670,8 +667,7 @@ The Persona interacts dynamically with other archetypal structures:
 
 ---
 
-## Section 5: Gender Dynamics
-
+## Shadow Dynamics
 **How does the Persona manifest differently in men vs. women?**
 
 **In Men:**
@@ -702,7 +698,7 @@ The Persona interacts dynamically with other archetypal structures:
 
 ---
 
-## Section 6: Cross-References
+## Cross-References
 
 ### Jungian Archetypes
 - [[The Shadow]] — The dark brother to the Persona's light brother

@@ -28,8 +28,7 @@ The Hindu pantheon maps the **complete architecture of the psyche**: Brahma (cre
 
 ---
 
-## Core Correspondences
-
+## Archetypal Cast
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Cultural Origin** | Indian subcontinent (c. 1500 BCE Vedic period - present) |
@@ -47,7 +46,7 @@ The Hindu pantheon maps the **complete architecture of the psyche**: Brahma (cre
 
 ---
 
-## Section 1: Cosmology — Maya, Lila, and the Cycle of Yugas
+## Cosmology — Maya, Lila, and the Cycle of Yugas
 
 ### The Vedic Creation: Brahman Dreaming
 
@@ -82,7 +81,7 @@ After Kali Yuga, Shiva dances the **Tandava**—the cosmic dissolution. The univ
 
 ---
 
-## Section 2: The Trimurti — Archetypal Functions
+## The Trimurti — Archetypal Functions
 
 The **Trimurti** (three forms) represents the **three archetypal movements of consciousness**: creation (emergence from unconscious), preservation (ego maintenance), and destruction (transformation/return to source).
 
@@ -171,7 +170,7 @@ Shakti manifests in multiple forms (all aspects of the anima):
 
 ---
 
-## Section 3: The Goddesses — Shakti, Kali, Durga, Lakshmi, Saraswati (Anima Aspects)
+## The Goddesses — Shakti, Kali, Durga, Lakshmi, Saraswati (Anima Aspects)
 
 ### Kali: The Dark Mother / Death and Transformation
 
@@ -249,7 +248,7 @@ Ramakrishna, the 19th-century Bengali saint, was a Kali devotee. His relationshi
 
 ---
 
-## Section 4: The Ramayana — Rama's Hero Journey
+## The Ramayana — Rama's Hero Journey
 
 ### Overview: The Dharma Hero
 
@@ -322,7 +321,7 @@ The **Ramayana** (composed c. 500-100 BCE) is the archetypal hero's journey of *
 
 ---
 
-## Section 5: The Mahabharata — Arjuna's Crisis and Krishna's Teaching
+## The Mahabharata — Arjuna's Crisis and Krishna's Teaching
 
 ### Overview: The Battlefield of the Psyche
 
@@ -422,7 +421,7 @@ The universe is composed of three qualities (gunas):
 
 ---
 
-## Section 6: Krishna — The Divine Child and Cosmic Lover
+## Krishna — The Divine Child and Cosmic Lover
 
 ### The Paradox of Krishna
 
@@ -503,7 +502,7 @@ Krishna is **Vishnu's eighth avatar** and the most beloved deity in Hinduism. Un
 
 ---
 
-## Section 7: Yoga and Meditation — Technologies of Individuation
+## Yoga and Meditation — Technologies of Individuation
 
 ### Yoga: Union with the Self
 
@@ -579,7 +578,7 @@ Jung warned: "One cannot simply *force* the unconscious. The Self must be approa
 
 ---
 
-## Section 8: Practical Application — Working with Hindu Archetypes
+## Practical Application — Working with Hindu Archetypes
 
 ### Recognition in Life
 
@@ -677,8 +676,7 @@ Jung warned: "One cannot simply *force* the unconscious. The Self must be approa
 
 ---
 
-## Section 9: Synthesis Notes
-
+## Jungian Analysis
 ### 9.1 Jungian Theory Deep Dive
 
 Hindu mythology, for Jung, represented **the most complete psychological system in religious history**. Where Western religions (Judaism, Christianity, Islam) emphasize the ego's relationship to an external God, Hinduism begins with **Atman = Brahman** ("The Self within is the God beyond"). Jung's psychology is, in many ways, a Western translation of Hindu philosophy.

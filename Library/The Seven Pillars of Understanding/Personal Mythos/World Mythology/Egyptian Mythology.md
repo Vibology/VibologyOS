@@ -30,8 +30,7 @@ Egyptian myth offers the psyche's most detailed map of **what happens after ego 
 
 ---
 
-## Core Correspondences
-
+## Archetypal Cast
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Cultural Origin** | Ancient Egypt (c. 3100 BCE - 30 BCE, ~3000 years) |
@@ -49,7 +48,7 @@ Egyptian myth offers the psyche's most detailed map of **what happens after ego 
 
 ---
 
-## Section 1: Cosmology — Ma'at, Isfet, and the Primordial Waters
+## Cosmology — Ma'at, Isfet, and the Primordial Waters
 
 ### The Heliopolitan Creation: Emergence from Nun
 
@@ -85,7 +84,7 @@ Yet Apep cannot be destroyed—only **repelled**. Set, the god of chaos and viol
 
 ---
 
-## Section 2: The Egyptian Pantheon — Archetypal Functions
+## The Egyptian Pantheon — Archetypal Functions
 
 ### Ra: The Solar Self / Creator God
 
@@ -225,7 +224,7 @@ The myth warns: when the anima is scorned (Ra ignoring Hathor), she becomes Sekh
 
 ---
 
-## Section 3: The Osirian Cycle — Death and Resurrection
+## The Osirian Cycle — Death and Resurrection
 
 ### The Myth in Full
 
@@ -292,7 +291,7 @@ This is **gnosis**—direct knowledge that consciousness is indestructible. Not 
 
 ---
 
-## Section 4: Ra's Solar Journey — Daily Rebirth
+## Ra's Solar Journey — Daily Rebirth
 
 ### The Twelve Hours of Night
 
@@ -349,7 +348,7 @@ Ra's journey is the **psyche's nightly regeneration**—the descent into sleep, 
 
 ---
 
-## Section 5: The Duat — Underworld Navigation
+## The Duat — Underworld Navigation
 
 ### The Geography of Death
 
@@ -393,7 +392,7 @@ The Tibetan *Bardo Thodol* (Book of the Dead) serves the same function—guiding
 
 ---
 
-## Section 6: The Weighing of the Heart — Shadow Confrontation
+## The Weighing of the Heart — Shadow Confrontation
 
 ### The Hall of Two Truths (Ma'ati)
 
@@ -470,7 +469,7 @@ Jung's **ethical confrontation with the Self**—the moment in analysis when the
 
 ---
 
-## Section 7: Pharaoh as Divine Mediator
+## Pharaoh as Divine Mediator
 
 ### Horus Incarnate
 
@@ -508,7 +507,7 @@ Even the ego aligned with the Self must periodically **die and be reborn**—des
 
 ---
 
-## Section 8: Practical Application — Working with Egyptian Archetypes
+## Practical Application — Working with Egyptian Archetypes
 
 ### Recognition in Life
 
@@ -636,8 +635,7 @@ Even the ego aligned with the Self must periodically **die and be reborn**—des
 
 ---
 
-## Section 9: Synthesis Notes
-
+## Jungian Analysis
 ### 9.1 Jungian Theory Deep Dive
 
 Egyptian mythology, for Jung, represents the **Self's continuity through transformation**—the recognition that consciousness does not end with ego death but transmutes into new forms.

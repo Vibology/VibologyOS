@@ -15,8 +15,7 @@ verification_notes: "Core Jung archetype definitions verified via NotebookLM. Ke
 
 # The Animus: The Inner Man and Logos Bearer
 
-## Section 1: Foundational Material
-
+## Overview
 ### Jung's Definition
 
 The Animus is Jung's term for the **masculine soul-image in women**—the contrasexual archetype that mediates between the conscious mind and the deeper layers of the unconscious. Where the [[Folklore/Jungian Archetypes/The Anima|Anima]] in men appears as mood and relatedness, the Animus in women manifests as **opinion, conviction, and the capacity for Logos** (meaning-making through word and spirit).
@@ -120,8 +119,7 @@ Animus work typically **intensifies in the second half of life** (35-50+), after
 
 ---
 
-## Section 2: Core Correspondences
-
+## Archetypal Cast
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Archetype Name** | The Animus |
@@ -140,7 +138,7 @@ Animus work typically **intensifies in the second half of life** (35-50+), after
 
 ---
 
-## Section 3: Practical Application
+## Practical Application
 
 ### Recognition in Life
 
@@ -267,8 +265,7 @@ The Animus is **rarely seen directly**—it is encountered via **projection onto
 
 ---
 
-## Section 4: Synthesis Notes
-
+## Jungian Analysis
 ### 1. Jung's Theory Deep Dive
 
 The Animus occupies a unique position in Jung's structural model as the **contrasexual archetype** in women.
@@ -683,8 +680,7 @@ The Animus interacts dynamically with other archetypal structures:
 
 ---
 
-## Section 5: Gender Dynamics
-
+## Shadow Dynamics
 **How does the Animus manifest differently across gender identities?**
 
 **In Cisgender Women:**
@@ -727,7 +723,7 @@ The Animus interacts dynamically with other archetypal structures:
 
 ---
 
-## Section 6: Cross-References
+## Cross-References
 
 ### Jungian Archetypes
 - [[Folklore/Jungian Archetypes/The Anima]] — Feminine soul-image in men; mirror of the Animus

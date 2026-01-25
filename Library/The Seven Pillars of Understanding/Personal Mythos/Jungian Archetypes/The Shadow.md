@@ -15,8 +15,7 @@ verification_notes: "All direct Jung quotes cited inline (CW 9i par. 284, CW 9ii
 
 # The Shadow: The Dark Brother and Hidden Gold
 
-## Section 1: Foundational Material
-
+## Overview
 ### Jung's Definition
 
 The Shadow is one of Jung's most essential and misunderstood concepts. In *The Archetypes and the Collective Unconscious* (CW 9i, pars. 284 f.), Jung writes:[^1]
@@ -211,8 +210,7 @@ Shadow work typically **intensifies in the second half of life** (35-50+), thoug
 
 ---
 
-## Section 2: Core Correspondences
-
+## Archetypal Cast
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Archetype Name** | The Shadow |
@@ -231,7 +229,7 @@ Shadow work typically **intensifies in the second half of life** (35-50+), thoug
 
 ---
 
-## Section 3: Practical Application
+## Practical Application
 
 ### Recognition in Life
 
@@ -334,8 +332,7 @@ The Shadow is **rarely seen directly**—it is encountered via **projection**.
 
 ---
 
-## Section 4: Synthesis Notes
-
+## Jungian Analysis
 ### 1. Jung's Theory Deep Dive
 
 The Shadow occupies a unique position in Jung's structural model of the psyche:
@@ -721,8 +718,7 @@ The Shadow interacts dynamically with other archetypal structures:
 
 ---
 
-## Section 5: Gender Dynamics
-
+## Shadow Dynamics
 **How does the Shadow manifest differently in men vs. women?**
 
 **In Men:**
@@ -748,7 +744,7 @@ The Shadow interacts dynamically with other archetypal structures:
 
 ---
 
-## Section 6: Cross-References
+## Cross-References
 
 ### Jungian Archetypes
 - [[Folklore/Jungian Archetypes/The Hero]] — The shadow is the hero's primary adversary and teacher

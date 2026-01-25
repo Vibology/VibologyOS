@@ -15,8 +15,7 @@ verification_notes: "Core Jung archetype definitions verified via NotebookLM. Ke
 
 # The Self: The Center and the Circumference
 
-## Section 1: Foundational Material
-
+## Overview
 ### Jung's Definition
 
 The Self is Jung's most profound and paradoxical concept—the archetype of **wholeness**, **totality**, and the **regulating center** of the entire psyche. Unlike the ego, which is merely the center of consciousness, the Self transcends the ego-personality and encompasses both the conscious and unconscious realms.
@@ -110,8 +109,7 @@ The Self is present from **birth as potential**, but its **conscious realization
 - Synchronicities and numinous dreams (mandalas, divine figures)
 - Voluntary withdrawal for individuation (pilgrimage, retreat, solitude)
 
-## Section 2: Core Correspondences
-
+## Archetypal Cast
 | Domain | Correspondence | Notes |
 |--------|---------------|-------|
 | **Element** | Quintessence (Aether) | The "fifth element" beyond the four; the unified field |
@@ -129,7 +127,7 @@ The Self is present from **birth as potential**, but its **conscious realization
 | **I-Ching** | Hexagram 1 (Creative) and 2 (Receptive) | Yang and Yin unified; primal wholeness |
 | **Chakra** | Crown (Sahasrara) and Heart (Anahata) | Thousand-petaled lotus; seat of the soul |
 
-## Section 3: Practical Application
+## Practical Application
 
 ### Recognition in Life
 
@@ -262,8 +260,7 @@ Jung warned of the danger of **mass identification with the Self** (e.g., Hitler
 - The Self is both **the center** and **the whole**
 - The Self is **present from birth** yet **realized only through a lifetime**
 
-## Section 4: Synthesis Notes
-
+## Jungian Analysis
 ### 1. Jung's Theory Deep Dive
 
 **The Self as Empirical Phenomenon:**
@@ -611,8 +608,7 @@ The Self is not an escape from life, but the **fullest engagement** with life. I
   - Alchemical texts: *Rosarium Philosophorum*, *Turba Philosophorum*, Paracelsus. (Philosopher's Stone, Lapis, Opus Magnum)
 - von Franz, Marie-Louise. *Alchemy: An Introduction to the Symbolism and the Psychology*. Inner City Books, 1980. (Alchemical stages and Self symbolism)
 
-## Section 5: Gender Dynamics
-
+## Shadow Dynamics
 **How does the Self manifest differently in men vs. women?**
 
 The Self, as the **archetype of totality**, is inherently **androgynous** or **hermaphroditic**—it unites the masculine and feminine principles. However, its **realization** in individual lives is colored by gender and culture.
@@ -632,7 +628,7 @@ The Self, as the **archetype of totality**, is inherently **androgynous** or **h
 **Non-Binary and Transcendent Expressions:**
 The Self, as the **union of opposites**, inherently transcends binary gender categories. Figures like **Abraxas** (Gnostic deity with both light and dark, male and female attributes) or the **Hermaphrodite** (alchemical symbol of the *coniunctio*) represent the Self in its fullness.
 
-## Section 6: Cross-References
+## Cross-References
 
 ### Jungian Archetypes
 

@@ -26,8 +26,7 @@ psychological_function: Release of emotion, dissolution of rigid structures
 
 ---
 
-## Foundational Material
-
+## Overview
 ### Jungian Definition
 
 Carl Jung understood **Dissolution** as the necessary descent into the waters of the unconscious—the regression that follows the fire of [[Calcination]]. Where fire burns away the [[Persona]], water dissolves what remains. In *Psychology and Alchemy* (CW 12), Jung writes of the alchemical waters as both womb and tomb:
@@ -143,8 +142,7 @@ Dissolution follows [[Calcination]]—it is the release that comes after the bur
 
 ---
 
-## Core Correspondences
-
+## Archetypal Cast
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Alchemical Operation** | Dissolution (Solutio) |
@@ -246,8 +244,7 @@ Dissolution feels like drowning, but it can also feel like release:
 
 ---
 
-## Synthesis Notes
-
+## Jungian Analysis
 ### 1. Jung's Theory Deep Dive
 
 For Jung, **Dissolution** represents the **regression to the maternal unconscious**—the necessary return to the womb (psychic, not literal) to find new energy. The ego, having been calcinated ([[Calcination]]), is now too brittle to continue. It must be softened, made fluid again, by immersing in the unconscious.
