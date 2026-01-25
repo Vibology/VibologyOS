@@ -467,7 +467,7 @@ chart.makeSVG(minify=False, remove_css_variables=True)
 ## Available Work Paths
 
 ### Priority 1: Library Format Standardization
-**Status:** 🔄 **IN PROGRESS** - 4/7 pillars complete
+**Status:** 🔄 **IN PROGRESS** - 5/7 pillars complete
 **Created:** 2026-01-25
 **Goal:** Unify page formatting across all 643 Library entries while preserving pillar-specific voice
 
@@ -485,6 +485,7 @@ OPENING → DATA → DEPTH → SHADOW → PRACTICE → LINKS → SOURCES
 - ✅ `restructure_angelology.py` — Angelology restructure script
 - ✅ `restructure_astrology.py` — Astrology restructure script
 - ✅ `restructure_personal_mythos.py` — Personal Mythos restructure script
+- ✅ `restructure_the_window.py` — The Window restructure script
 
 ---
 
@@ -536,6 +537,16 @@ OPENING → DATA → DEPTH → SHADOW → PRACTICE → LINKS → SOURCES
 - ✅ `## Sources & Further Reading` → `## Sources` (26 files)
 - Commit: 48804a3
 
+**Phase 6 COMPLETE: The Window (71/72 files) ✅**
+- ✅ `## Card Symbolism & Meaning` → `## Core Domain` (OPENING, 54 files)
+- ✅ `## Portal Symbolism & Meaning` → `## Core Domain` (OPENING, 10 files)
+- ✅ `## House Symbolism & Meaning` → `## Core Domain` (OPENING, 6 files)
+- ✅ `## Synthesis & Integration` → `## Synthesis Notes` (DEPTH, 22 files)
+- ✅ `## Divination Meanings` → `## Oracle Reading` (PRACTICE, 64 files)
+- ✅ `## Divinatory Meaning` → `## Oracle Reading` (PRACTICE, 6 files)
+- ✅ `## Cross-System Correspondences` → `## Correspondences` (DATA, 6 files)
+- Commit: ada21f0
+
 ---
 
 **Pillar Progress:**
@@ -546,11 +557,11 @@ OPENING → DATA → DEPTH → SHADOW → PRACTICE → LINKS → SOURCES
 | Angelology | 31 | ✅ **COMPLETE** | bf1e6f7 |
 | Astrology | 37 | ✅ **COMPLETE** | 8bba16c |
 | Personal Mythos | 74 | ✅ **COMPLETE** | 48804a3 |
-| The Window | 72 | ⏳ Pending | — |
+| The Window | 72 | ✅ **COMPLETE** | ada21f0 |
 | Tarot | 79 | ⏳ Pending | — |
 | Human Design | 337 | ⏳ Pending | — |
 
-**Next:** The Window (72 files)
+**Next:** Tarot (79 files)
 
 ---
 
