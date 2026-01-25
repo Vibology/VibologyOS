@@ -2,12 +2,10 @@
 tags: [angelology, overview, celestial-hierarchy, consciousness]
 system: Angelology
 date_created: 2026-01-08
-date_updated: 2026-01-23
+date_updated: 2026-01-24
+verified: 2026-01-24
+verification_source: Esoteric Grimoire
 category: Overview
-source_verified: true
-verification_date: 2026-01-23
-grimoire_source: "A Dictionary of Angels, The Qabalistic Tarot (Golden Dawn system)"
-verification_notes: "Core framework 100% verified: Nine Orders per Pseudo-Dionysius, Three Triads structure, Qabalistic Sephirothic correspondences (Hebrew names and mappings), scriptural foundations. Historical development section (Aquinas, Dante, Ficino, etc.) is scholarly synthesis. Human Design integration is cross-system synthesis. All foundational angelological data matches Grimoire perfectly."
 ---
 # Angelology
 *The Science of Hierarchical Consciousness*
@@ -19,48 +17,48 @@ Angelology is the **mystical science of consciousness hierarchies**—the study 
 
 Angels are not "helpers" who make life comfortable. They are **autonomous spiritual intelligences**—forces of consciousness operating at frequencies beyond human perception, yet intimately woven into the fabric of reality. They act as **transformers or step-down mechanisms** for divine will, refracting the infinite light of *Ein Sof* (the Limitless) into specialized functions that the cosmos—and the human psyche—can receive.
 
-In the Qabalistic tradition, Rabbi Eliphas Levy writes: *"Angels collect the divine sparks and fuse and direct these sparks toward the more synthetic planes of divine intelligence."* Angels are the **architects of emanation**—the mediators who translate pure Being into manifestation.
+In the Qabalistic tradition, Éliphas Lévi writes: *"Angels collect the divine sparks and fuse and direct these sparks toward the more synthetic planes of divine intelligence"* (Lévi cites traditional Qabalistic teaching; cited in Davidson, *A Dictionary of Angels*). Angels are the **architects of emanation**—the mediators who translate pure Being into manifestation.
 
 ---
 ## The Celestial Hierarchy: Pseudo-Dionysius
 
-The foundational text of Christian Angelology is **Pseudo-Dionysius the Areopagite's *The Celestial Hierarchy***, written in the 6th century. Pseudo-Dionysius systematized the angelic orders into **Nine Choirs** organized into **Three Triads**, each triad representing a distinct mode of relationship to the Divine:
+The foundational text of Christian Angelology is **Pseudo-Dionysius the Areopagite's *The Celestial Hierarchy***, written in the 6th century (Davidson, *A Dictionary of Angels*). Pseudo-Dionysius systematized the angelic orders into **Nine Choirs** organized into **Three Triads**, each triad representing a distinct mode of relationship to the Divine (Pseudo-Dionysius, *Celestial Hierarchies*; Davidson, *A Dictionary of Angels*):
 
 ### The Three Triads
 
 #### **First Triad: The Counselors (Direct Union with God)**
-These orders dwell in the **immediate presence of the Divine**, absorbed in pure contemplation. They do not "act" in the way lower orders do; they *are*—their being is their function.[^1]
+These orders dwell in the **immediate presence of the Divine**, absorbed in pure contemplation. They do not "act" in the way lower orders do; they *are*—their being is their function (Pseudo-Dionysius, *Celestial Hierarchies*; Davidson, *A Dictionary of Angels*).
 
-- **[[Seraphim]]** (*Chaioth ha-Qadesh* - "Holy Living Creatures"): The "burning ones" or "fire-makers." They represent **pure love and primal fire**, the closest to the Godhead. Isaiah 6 describes them as six-winged beings who cry *"Holy, Holy, Holy is the Lord of Hosts."*[^2]
+- **[[Seraphim]]** (*Chaioth ha-Qadesh* - "Holy Living Creatures"): The "burning ones" or "fire-makers." They represent **pure love and primal fire**, the closest to the Godhead. Isaiah 6 describes them as six-winged beings who cry *"Holy, Holy, Holy is the Lord of Hosts"* (Isaiah 6:1-7).
 
-- **[[Cherubim]]** (*Auphanim* - "Wheels"): The "fullness of knowledge" or "whirling forces." They represent **wisdom and inter-dimensional movement**. Ezekiel's vision (Ezekiel 1, 10) depicts them as wheels within wheels, covered in eyes.[^2]
+- **[[Cherubim]]** (*Auphanim* - "Wheels"): The "fullness of knowledge" or "whirling forces." They represent **wisdom and inter-dimensional movement**. Ezekiel's vision depicts them as wheels within wheels, covered in eyes (Ezekiel 1, 10).
 
-- **[[Thrones]]** (*Aralim* - "Mighty Ones"): The "many-eyed ones" representing **divine steadfastness and justice**. Pseudo-Dionysius states that through them, *"God brings his justice to bear upon us."*[^1]
+- **[[Thrones]]** (*Aralim* - "Mighty Ones"): The "many-eyed ones" representing **divine steadfastness and justice**. Pseudo-Dionysius states that through them, *"God brings his justice to bear upon us"* (Pseudo-Dionysius, *Celestial Hierarchies*; Davidson).
 
 #### **Second Triad: The Governors (Cosmic Administration)**
-These orders govern the **universe, stars, and elements**—the mechanics of manifestation.[^1]
+These orders govern the **universe, stars, and elements**—the mechanics of manifestation (Pseudo-Dionysius, *Celestial Hierarchies*; Davidson).
 
-- **[[Dominations]]** (*Chashmalim* - "Brilliant Ones"): They **regulate angelic duties** and represent true lordship. Dionysius writes that they are *"perpetually aspiring to true lordship; through them the majesty of God is manifested."*[^1]
+- **[[Dominations]]** (*Chashmalim* - "Brilliant Ones"): They **regulate angelic duties** and represent true lordship. Dionysius writes that they are *"perpetually aspiring to true lordship; through them the majesty of God is manifested"* (Pseudo-Dionysius, *Celestial Hierarchies*; Davidson).
 
-- **[[Virtues]]** (*Melechim* - "Kings"): The agencies of **miracles, grace, and valor**. They bestow energy, courage, and the capacity for the impossible.[^1]
+- **[[Virtues]]** (*Melechim* - "Kings"): The agencies of **miracles, grace, and valor**. They bestow energy, courage, and the capacity for the impossible (Pseudo-Dionysius, *Celestial Hierarchies*; Davidson).
 
-- **[[Powers]]** (*Elohim/Seraphim* - "Gods" or "Flaming Ones"): The authorities of order who **combat chaos**. Dionysius notes: *"The Powers stop the efforts of demons who would overthrow the world."*[^1]
+- **[[Powers]]** (*Elohim/Seraphim* - "Gods" or "Flaming Ones"): The authorities of order who **combat chaos**. Dionysius notes: *"The Powers stop the efforts of demons who would overthrow the world"* (Pseudo-Dionysius, *Celestial Hierarchies*; Davidson).
 
 #### **Third Triad: The Messengers (Human Interface)**
-These orders are most involved in the affairs of **nations and individuals**.[^1]
+These orders are most involved in the affairs of **nations and individuals** (Pseudo-Dionysius, *Celestial Hierarchies*; Davidson).
 
-- **[[Principalities]]** (*Elohim* - "Gods"): The protectors of **religions, nations, and leaders**. They oversee collective structures and the soul of civilizations.[^1]
+- **[[Principalities]]** (*Elohim* - "Gods"): The protectors of **religions, nations, and leaders**. They oversee collective structures and the soul of civilizations (Pseudo-Dionysius, *Celestial Hierarchies*; Davidson).
 
-- **[[Archangels]]** (*Beni Elohim* - "Sons of Gods"): The **messengers bearing divine decrees**. They are the "great angels" who appear in scripture—[[Michael]], [[Gabriel]], [[Raphael]], [[Uriel]].[^1]
+- **[[Archangels]]** (*Beni Elohim* - "Sons of Gods"): The **messengers bearing divine decrees**. They are the "great angels" who appear in scripture—[[Michael]], [[Gabriel]], [[Raphael]], [[Uriel]] (Pseudo-Dionysius, *Celestial Hierarchies*; Davidson).
 
-- **[[Angels]]** (*Kerubim* - "The Strong"): The lowest rank, responsible for **intimate guidance and interaction with individual humans**. They are the guardians of the threshold, the companions of the soul.[^1]
+- **[[Angels]]** (*Kerubim* - "The Strong"): The lowest rank, responsible for **intimate guidance and interaction with individual humans**. They are the guardians of the threshold, the companions of the soul (Pseudo-Dionysius, *Celestial Hierarchies*; Davidson).
 
-**Note:** A 10th order, the **Ishim** (*Ashim* - "Flames of Fire" or "Souls of Fire"), resides in Malkuth (the physical plane) and represents sanctified humanity—those who have completed the journey.[^3]
+**Note:** A 10th order, the **Ishim** (*Ashim* - "Flames of Fire" or "Souls of Fire"), resides in Malkuth (the physical plane) and represents sanctified humanity—those who have completed the journey (Wang, *The Qabalistic Tarot*; Golden Dawn system).
 
 ---
 ## Qabalistic Integration: The Tree of Life
 
-In the **Hebrew Qabalah**, the Nine Orders map precisely onto the **Sephiroth** (emanations) of the Tree of Life, creating a vertical ladder of consciousness from Kether (Crown) to Yesod (Foundation):[^3]
+In the **Hebrew Qabalah**, the Nine Orders map precisely onto the **Sephiroth** (emanations) of the Tree of Life, creating a vertical ladder of consciousness from Kether (Crown) to Yesod (Foundation) (Wang, *The Qabalistic Tarot*; Golden Dawn system):
 
 | **Order**         | **Hebrew Name**       | **Sephira**   | **Function**                     |
 |-------------------|-----------------------|---------------|----------------------------------|
@@ -74,10 +72,12 @@ In the **Hebrew Qabalah**, the Nine Orders map precisely onto the **Sephiroth** 
 | Archangels        | Beni Elohim           | Hod           | Splendor / Intellect             |
 | Angels            | Kerubim               | Yesod         | Foundation / Intimacy            |
 
-The 10th Sephira, **Malkuth** (Kingdom), corresponds to the **Ashim** (Ishim)—the physical plane and sanctified humanity.[^3]
+The 10th Sephira, **Malkuth** (Kingdom), corresponds to the **Ashim** (Ishim)—the physical plane and sanctified humanity (Wang, *The Qabalistic Tarot*; Golden Dawn system).
 
 ---
 ## Integration with Human Design: The Nine Centers
+
+> *Vibology Synthesis: The following correspondence between angelic orders and Human Design centers is an original integration.*
 
 In **[[Human Design]]**, the nine energy centers of the BodyGraph correspond to the Nine Orders, creating a **micro-cosmic reflection** of the angelic hierarchy within the human vehicle:
 
@@ -97,6 +97,8 @@ This mapping reveals that **the BodyGraph is not merely a circuit board but a la
 
 ---
 ## Historical Development: From Scripture to System
+
+> *Vibology Synthesis: The following historical synthesis traces angelological development across traditions. Scriptural references, Pseudo-Dionysius, and Qabalistic sources are verified in the Grimoire. Medieval and Renaissance figures (Aquinas, Dante, Ficino, Agrippa, Dee) are documented in secondary literature cited by primary sources.*
 
 ### Biblical Roots (1500 BCE - 100 CE)
 
@@ -318,8 +320,41 @@ The goal is not to *become* an angel but to **participate in angelic consciousne
 
 ---
 
-## Sources
+## References
 
-[^1]: Pseudo-Dionysius the Areopagite, *The Celestial Hierarchy* (6th century CE); Davidson, Gustav, *A Dictionary of Angels*
-[^2]: Isaiah 6:1-7 (Seraphim vision); Ezekiel 1 & 10 (Cherubim vision)
-[^3]: *The Qabalistic Tarot* (Golden Dawn system); Hebrew angelic choir correspondences to the Ten Sephiroth
+*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
+
+Agrippa, Heinrich Cornelius. *The Occult Philosophy* (Three Books of Occult Philosophy). 1531.
+- Three hierarchies and nine orders as "entrance to empyrean heaven"
+- Elemental categorization of angelic orders
+
+Davidson, Gustav. *A Dictionary of Angels: Including the Fallen Angels*. New York: Free Press, 1967.
+- Comprehensive source for Pseudo-Dionysian hierarchy
+- Nine orders arranged in three triads
+- Hebrew names and correspondences
+- Comparative table across authorities (Appendix)
+- Éliphas Lévi quote on angelic sparks
+
+Huxley, Aldous. *The Perennial Philosophy*. New York: Harper & Brothers, 1945.
+- Reference to Dionysius's *Celestial Hierarchies* and its influence on Western philosophy
+
+Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, ME: Samuel Weiser, 1983.
+- Angelic choir assignments to Sephiroth (Golden Dawn system)
+- Chayoth ha-Qadesh (Seraphim) → Kether
+- Aralim (Thrones) → Binah
+- Melechim (Virtues) → Tiphareth
+- Ashim (Ishim) → Malkuth
+
+**Scriptural References:**
+- Isaiah 6:1-7 (Seraphim vision)
+- Ezekiel 1, 10 (Cherubim vision)
+- Daniel 7-12 (Michael, Gabriel)
+- Tobit 3:17, 12:15 (Raphael, seven archangels)
+- Luke 1:19, 26 (Gabriel's annunciations)
+- Revelation 12:7-9 (Michael's war)
+- Jude 1:9 (Michael contending with Satan)
+
+**Secondary Sources (Referenced via Primary Texts):**
+- Pseudo-Dionysius the Areopagite, *The Celestial Hierarchy* (6th century)
+- 1 Enoch, 2 Enoch, 3 Enoch (Sefer Hekhalot)
+- 2 Esdras (4 Ezra)
