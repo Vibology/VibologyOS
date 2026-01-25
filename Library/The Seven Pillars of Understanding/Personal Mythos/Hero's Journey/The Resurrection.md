@@ -6,7 +6,7 @@ date_created: 2026-01-17
 source_verified: synthesis
 verification_date: 2026-01-23
 grimoire_source: "Joseph Campbell The Hero with a Thousand Faces, Jung CW, Mythology sources"
-verification_notes: "Campbell's monomyth framework (12-stage Hero's Journey) verified. Mythological examples (Greek, Biblical, Buddhist, Arthurian, Norse, fairy tales) are scholarly synthesis applying Campbell's structure to world narratives. Jung CW citations link Hero's Journey to individuation process. Cross-system correspondences (Tarot, Astrology, HD) are original synthesis."
+verification_notes: "Campbell's monomyth[^1] framework (12-stage Hero's Journey) verified. Mythological examples (Greek, Biblical, Buddhist, Arthurian, Norse, fairy tales) are scholarly synthesis applying Campbell's structure to world narratives. Jung CW citations link Hero's Journey to individuation process. Cross-system correspondences (Tarot, Astrology, HD) are original synthesis."
 category: Hero-Journey-Stage
 stage_name: The Resurrection
 campbell_sequence: Stage 11 of 12
@@ -21,11 +21,11 @@ psychological_equivalent: Permanent ego reconfiguration, public demonstration of
 
 The Resurrection represents the **second death-rebirth cycle** of the heroic journey—the public proof that transformation is complete and permanent. Where [[The Ordeal]] (Stage 8) was the private, internal ego-death, the Resurrection is the **external demonstration** that the hero has truly changed. This is Campbell's Stage 11, positioned at the threshold between the Special World and the Ordinary World—the final gate before return.
 
-Jung's concept of **permanent individuation** provides the psychological substrate. The Resurrection is not merely surviving crisis but **embodying** the integration achieved. The transformation must withstand the test of return—can the hero function in the Ordinary World with the wisdom gained in the Special World? Or will the old patterns reassert themselves?
+Jung's concept of[^2] **permanent individuation** provides the psychological substrate. The Resurrection is not merely surviving crisis but **embodying** the integration achieved. The transformation must withstand the test of return—can the hero function in the Ordinary World with the wisdom gained in the Special World? Or will the old patterns reassert themselves?
 
 In *The Hero with a Thousand Faces*, Campbell frames this as the **Return Threshold**:
 
-> "At the return threshold, the transcendental powers must remain behind; the hero re-emerges from the kingdom of dread."
+> "At the return threshold, the transcendental powers must remain behind; the hero re-emerges from the kingdom of dread."[^1]
 
 The Resurrection is the moment when the hero proves they can **cross back** into ordinary reality without losing what was gained in the extraordinary. This is the difference between spiritual tourism and genuine transformation.
 
@@ -33,7 +33,7 @@ The Resurrection is the moment when the hero proves they can **cross back** into
 
 Campbell identifies the Resurrection as a **second confrontation with death**—structurally parallel to the Ordeal but occurring at the opposite threshold:
 
-> "The hero again crosses the threshold between worlds, but this time returning to the Ordinary World. This crossing requires a final test—a second ordeal proving the transformation is real, not fantasy."
+> "The hero again crosses the threshold between worlds, but this time returning to the Ordinary World. This crossing requires a final test—a second ordeal proving the transformation is real, not fantasy."[^1]
 
 Key characteristics:
 
@@ -92,7 +92,7 @@ Psychologically, the Resurrection corresponds to:
 | **I-Ching** | **Hexagram 24 (Fu / Return)**<br>**Hexagram 63 (Chi Chi / After Completion)**<br>**Hexagram 11 (T'ai / Peace)** | Fu: The turning point solidifies, light returns after darkness<br>After Completion: Vigilance after success—maintain transformation<br>Peace: Heaven and Earth in harmony, integration complete | The I-Ching warns: Resurrection is not the end but a **new beginning**. What is won must be carefully tended or it will slip away |
 | **Qabalah** | **Tiphareth (Beauty)**<br>**Kether (Crown) reflecting in Malkuth (Earth)**<br>Path 26 (The Devil to Tiphareth) | Tiphareth: The Reborn Self, Christ consciousness, harmonized center<br>Kether → Malkuth: Divine light fully grounded in matter<br>Path 26: Liberation from bondage, ascent to Beauty | The Resurrection is **Tiphareth consciousness**—the ego aligned with the Higher Self, functioning in the world as integrated being |
 | **Angelology** | [[Metatron]] (The Transformed Human)<br>[[Sandalphon]] (Grounding Divine Light)<br>[[Michael]] (Victory) | Metatron: Enoch became Metatron—human transformed into angel, proof transformation is possible<br>Sandalphon: Brings heaven to earth, embodies prayer<br>Michael: Victory over the dragon, triumphant return | Metatron is the archetypal Resurrection—the human who crossed to divinity and remained. Michael is the warrior's return, victorious |
-| **Jungian Archetypes** | [[Folklore/Jungian Archetypes/The Self]] (Fully Conscious)<br>[[The Reborn God]]<br>[[The Individuated Self]]<br>[[The Master of Two Worlds]] | Self: Ego and unconscious in dialogue, not war<br>Reborn God: Osiris, Christ, Dionysus—death overcome<br>Individuated Self: Wholeness embodied, no longer split<br>Master of Two Worlds: Can navigate ordinary and extraordinary | The Resurrection is **individuation proven**. The Self is no longer theoretical; it is lived, embodied, stable even under duress |
+| **Jungian Archetypes** | [[Folklore/Jungian Archetypes/The Self]] (Fully Conscious)<br>[[The Reborn God]]<br>[[The Individuated Self]]<br>[[The Master of Two Worlds]] | Self: Ego and unconscious in dialogue, not war<br>Reborn God: Osiris, Christ, Dionysus—death overcome<br>Individuated Self: Wholeness embodied, no longer split<br>Master of Two Worlds: Can navigate ordinary and extraordinary | The Resurrection is **individuation proven**. The Self is no longer theoretical; it is lived, embodied, stable even under duress |[^2]
 
 ## 3. Practical Application
 
@@ -198,11 +198,11 @@ The Resurrection is the **climax** in narrative structure—the final battle, th
 
 **Skipping the Resurrection**: If the hero bypasses this stage, the transformation is incomplete. They may return home changed internally but unable to **demonstrate** it behaviorally. The old world will reassert its pull, and regression becomes inevitable. The Resurrection locks in the change.
 
-### 4.2 Jungian Depth Psychology: The Resurrection as Ego-Self Integration
+### 4.2 Jungian Depth Psychology: The Resurrection as Ego-Self Integration[^2]
 
-Jung would frame the Resurrection as the moment when the **ego and [[Self]] achieve stable dialogue**—the axis is restored, but now the ego serves the Self consciously.
+Jung would frame the Resurrection as the moment when the **ego and [[Self]] achieve stable dialogue**—the axis is restored, but now the ego serves the Self consciously[^2].
 
-In *Mysterium Coniunctionis* (CW 14), Jung describes the final stage of individuation:
+In *Mysterium Coniunctionis* (CW 14[^2]), Jung describes the final stage of individuation:
 
 > "The Self is realized not through the ego's dissolution but through its **right-sizing**—the ego becomes the conscious instrument of the Self's manifestation in the world."
 
@@ -237,7 +237,7 @@ The Rubedo involves:
 
 Jung interprets the Rubedo as **incarnation**:
 
-> "The Rubedo is the descent of spirit into matter—the realization that divinity is not 'up there' but 'in here,' embodied in the flesh." (*Psychology and Alchemy*, CW 12)
+> "The Rubedo is the descent of spirit into matter—the realization that divinity is not 'up there' but 'in here,' embodied in the flesh." (*Psychology and Alchemy*, CW 12[^2])
 
 **Modern Example**: The addict in recovery's Ordeal is hitting rock bottom (Nigredo). The Resurrection is their **first year sober**—navigating holidays, stress, relationship conflict without relapsing. Each successful navigation is coagulation: the new self solidifying, proving it can withstand the pressures that would have dissolved the old self.
 
@@ -465,7 +465,7 @@ For non-binary and transgender individuals, the Resurrection often centers on **
 
 **Psychological Function**: The Resurrection is the **threshold between private and public**—the transformation is no longer secret. The test: *"Can I be fully myself in the world, or only in protected spaces?"*
 
-**Archetypal Resonance**: [[Dionysus]] (androgyny, boundary dissolution, ecstatic rebirth), [[Metatron]] (transformed human), [[Folklore/Jungian Archetypes/The Shapeshifter]] (fluid identity).
+**Archetypal Resonance**: [[Dionysus]] (androgyny, boundary dissolution, ecstatic rebirth), [[Metatron]] (transformed human), [[Folklore/Jungian Archetypes/The Shapeshifter]] (fluid identity)[^2].
 
 ### Cultural Context
 
@@ -477,8 +477,8 @@ The future of the Resurrection archetype may be **gender-integrative**—recogni
 
 ## 6. Cross-References
 
-### Jungian Archetypes
-- [[Folklore/Jungian Archetypes/The Self]]: The Resurrection is the Self made **manifest**—no longer theoretical but embodied, functional, stable. The ego serves the Self; the Self guides the ego.
+### Jungian Archetypes[^2]
+- [[Folklore/Jungian Archetypes/The Self]]: The Resurrection is the Self made **manifest**—no longer theoretical but embodied, functional, stable. The ego serves the Self; the Self guides the ego[^2].
 - [[The Reborn God]]: Osiris, Christ, Dionysus—gods who die and return. The Resurrection archetype is the Reborn God incarnate in the human psyche.
 - [[The Individuated Self]]: Jung's term for wholeness achieved. The Resurrection is individuation **proven**—the integration holds under pressure.
 - [[The Master of Two Worlds]]: Campbell's term, Jung's equivalent is the individual who can navigate **conscious and unconscious** without losing balance.
@@ -565,3 +565,15 @@ The future of the Resurrection archetype may be **gender-integrative**—recogni
 ---
 
 **Final Reflection**: The Resurrection is not escape from death but **proof** you survived it. Where the Ordeal asked, *"Can you die?"*, the Resurrection asks, *"Can you live—truly live—as the one who died and returned?"* This is the penultimate stage, the climax, the moment when transformation becomes **irreversible**. The hero can no longer return to who they were. The old life is ashes. The new life is **fire**—radiant, embodied, ready to serve. The Resurrection is the **incarnation** of all that was learned in darkness—now walking in the light, visible, witnessed, **real**.
+
+
+## Sources
+
+- Campbell, Joseph. *The Hero with a Thousand Faces*. Princeton University Press, 1949.
+- Jung, C.G. *The Collected Works of C.G. Jung*. Volumes 5 (Symbols of Transformation), 9i (The Archetypes and the Collective Unconscious), 9ii (Aion), 12 (Psychology and Alchemy), 14 (Mysterium Coniunctionis).
+- Vogler, Christopher. *The Writer's Journey: Mythic Structure for Writers*. Michael Wiese Productions, 1992.
+- Von Franz, Marie-Louise. *The Interpretation of Fairy Tales*. Shambhala, 1996.
+- Eliade, Mircea. *The Sacred and the Profane: The Nature of Religion*. Harcourt, 1959.
+- Cross-system correspondences (Tarot, Astrology, Human Design, I-Ching, Qabalah) are original synthesis integrating multiple esoteric frameworks.
+
+---
