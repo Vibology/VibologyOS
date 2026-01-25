@@ -6,8 +6,9 @@ biological_correlation: Anterior and Posterior Pituitary Glands
 defined_percentage: ~47%
 undefined_percentage: ~53%
 date_created: 2026-01-08
+date_updated: 2026-01-25
 source_verified: true
-verification_date: 2026-01-23
+verification_date: 2026-01-25
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
 verification_notes: "Individual verification complete. Core mechanics (biological correlation, definition percentages, center type, Authority status) verified against Grimoire with inline citations. Synthesis content (Jungian parallels, Tarot correspondences, practical guidance) clearly distinguished."
 ---
@@ -152,10 +153,19 @@ All Types must learn to **trust their Authority**, not their Ajna, for decision-
 
 *The Ajna is the mind's eye—the seat of conceptualization, the processor of mental pressure, the weaver of theories and perspectives. But it is not the knower of truth. It thinks, but it does not decide. To honor the Ajna is to use the mind as a tool for observation and articulation, not as the master of your life.*
 
+
+## References
+
+*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
+
+Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
+- Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority
+
+**Verification Notes:**
+- Human Design system synthesizes I-Ching (64 hexagrams → 64 Gates), Astrology (planetary activations), Kabbalah/Tree of Life (Sephiroth → 9 Centers), and Hindu-Brahmin Chakra system
+- Ra Uru Hu received the system in 1987 on Ibiza; he systematized and taught it, but did not "create" it
+- All mechanical definitions verified against *The Definitive Book of Human Design* (2011)
+- Cross-system correspondences (Jungian, Tarot, Qabalah) marked as Vibology Synthesis where applicable
+
 ---
 
-[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011), Centers: Ajna biological correlation
-[^2]: *Definitive Book of Human Design*, Awareness Centers: Ajna, Solar Plexus, Spleen
-[^3]: *Definitive Book of Human Design*, Center definition statistics
-[^4]: *Definitive Book of Human Design*, Ajna temporal processing mechanics
-[^5]: *Definitive Book of Human Design*, Mind as Outer Authority vs Inner Authority

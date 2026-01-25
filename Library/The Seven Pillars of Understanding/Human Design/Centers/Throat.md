@@ -6,8 +6,9 @@ biological_correlation: Thyroid and Parathyroid Glands
 defined_percentage: ~72%
 undefined_percentage: ~28%
 date_created: 2026-01-08
+date_updated: 2026-01-25
 source_verified: true
-verification_date: 2026-01-23
+verification_date: 2026-01-25
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
 verification_notes: "Individual verification complete. Core mechanics (biological correlation, definition percentages, Manifestation Center classification, motor-to-Throat connection requirements) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
@@ -159,9 +160,19 @@ The Throat has **eleven gates**, more than any other center. Each gate represent
 
 *The Throat is the Town Square—the place where all energy converges to be spoken, manifested, and brought into being. It is the bridge between inner truth and outer expression, the transformer of potential into action. To honor the Throat is to speak with purpose, to manifest with alignment, and to recognize that not all voices need to be heard at all times.*
 
+
+## References
+
+*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
+
+Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
+- Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority
+
+**Verification Notes:**
+- Human Design system synthesizes I-Ching (64 hexagrams → 64 Gates), Astrology (planetary activations), Kabbalah/Tree of Life (Sephiroth → 9 Centers), and Hindu-Brahmin Chakra system
+- Ra Uru Hu received the system in 1987 on Ibiza; he systematized and taught it, but did not "create" it
+- All mechanical definitions verified against *The Definitive Book of Human Design* (2011)
+- Cross-system correspondences (Jungian, Tarot, Qabalah) marked as Vibology Synthesis where applicable
+
 ---
 
-[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011), Centers: Throat biological correlation (thyroid and parathyroid glands)
-[^2]: *Definitive Book of Human Design*, Throat Center: Manifestation center
-[^3]: *Definitive Book of Human Design*, Center definition statistics
-[^4]: *Definitive Book of Human Design*, Manifestation requires motor-to-Throat connection

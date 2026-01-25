@@ -6,8 +6,9 @@ biological_correlation: Adrenal System and Stress Hormones
 defined_percentage: ~60%
 undefined_percentage: ~40%
 date_created: 2026-01-08
+date_updated: 2026-01-25
 source_verified: true
-verification_date: 2026-01-23
+verification_date: 2026-01-25
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
 verification_notes: "Individual verification complete. Core mechanics (biological correlation, definition percentages, dual pressure/motor classification, nine gates verified) against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
@@ -166,9 +167,19 @@ The Root:
 
 *The Root is the pressure to move—the adrenaline-fueled urgency that propels humanity forward, the stress that signals danger, the momentum that sustains evolution. For some, this pressure is reliable and consistent, a fixed drive to complete and transform. For others, it is amplified and borrowed, a constant rush to be free of urgency that paradoxically creates more stress. To honor the Root is to recognize that pressure, when correct, is fuel—but when amplified or chronic, it is burnout waiting to happen.*
 
+
+## References
+
+*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
+
+Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
+- Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority
+
+**Verification Notes:**
+- Human Design system synthesizes I-Ching (64 hexagrams → 64 Gates), Astrology (planetary activations), Kabbalah/Tree of Life (Sephiroth → 9 Centers), and Hindu-Brahmin Chakra system
+- Ra Uru Hu received the system in 1987 on Ibiza; he systematized and taught it, but did not "create" it
+- All mechanical definitions verified against *The Definitive Book of Human Design* (2011)
+- Cross-system correspondences (Jungian, Tarot, Qabalah) marked as Vibology Synthesis where applicable
+
 ---
 
-[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011), Centers: Root biological correlation (adrenal system)
-[^2]: *Definitive Book of Human Design*, Root Center: Pressure and Motor classification
-[^3]: *Definitive Book of Human Design*, Center definition statistics
-[^4]: *Definitive Book of Human Design*, Root Center gates: 19, 38, 39, 41, 52, 53, 54, 58, 60

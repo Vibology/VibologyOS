@@ -6,8 +6,9 @@ biological_correlation: Liver and Blood
 defined_percentage: 57%
 undefined_percentage: 43%
 date_created: 2026-01-08
+date_updated: 2026-01-25
 source_verified: true
-verification_date: 2026-01-23
+verification_date: 2026-01-25
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
 verification_notes: "Individual verification complete. Core mechanics (biological correlation, definition percentages CORRECTED to 57%/43%, Identity Center classification, Self-Projected Authority) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
@@ -145,8 +146,19 @@ For all other Types, the G Center:
 
 *The G Center is the seat of the Self—the place where identity, direction, and love converge. For some, it is a fixed compass, always pointing true north. For others, it is a mirror, reflecting the environment and becoming anew in each context. To honor the G is to recognize that knowing who you are—or not knowing—is both sacred, and that the Magnetic Monopole pulls you along your path whether you understand it or not.*
 
+
+## References
+
+*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
+
+Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
+- Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority
+
+**Verification Notes:**
+- Human Design system synthesizes I-Ching (64 hexagrams → 64 Gates), Astrology (planetary activations), Kabbalah/Tree of Life (Sephiroth → 9 Centers), and Hindu-Brahmin Chakra system
+- Ra Uru Hu received the system in 1987 on Ibiza; he systematized and taught it, but did not "create" it
+- All mechanical definitions verified against *The Definitive Book of Human Design* (2011)
+- Cross-system correspondences (Jungian, Tarot, Qabalah) marked as Vibology Synthesis where applicable
+
 ---
 
-[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011), Centers: G Center biological correlation (liver and blood)
-[^2]: *Definitive Book of Human Design*, G Center: Identity, Direction, Love
-[^3]: *Definitive Book of Human Design*, Self-Projected Authority (G-to-Throat)
