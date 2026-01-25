@@ -2,23 +2,23 @@
 tags: [tarot, major-arcana, archetypal, virgo]
 system: Tarot
 date_created: 2026-01-08
+date_updated: 2026-01-25
 number: 9
 hebrew_letter: Yod (י)
 qabalistic_path: 20 (Chesed → Tiphareth)
 astrological: Virgo
-source_verified: true
-verification_date: 2026-01-23
-grimoire_source: "Tarot (Qabalistic Tarot, Pictorial Key, Book of Thoth, Golden Dawn)"
-verification_notes: "Core Qabalistic correspondences (Hebrew letters, paths, zodiacal/planetary attributions) verified against Grimoire. Synthesis includes RWS and Thoth divinatory meanings, alchemical stages, Jungian archetypal interpretation."
+verified: true
+verification_date: 2026-01-25
+verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
 *The Prophet of the Eternal, Magus of the Voice of Power*
 
 ---
 ## Traditional Symbolism
 
-When The Hermit appears ***upright*** in a reading, it speaks to the realm of withdrawal for the sake of illumination. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *prudence, circumspection,* and also (by another account) *divine inspiration*—but Waite includes the paradoxical meanings of *treason* or *roguery*[^1].
+When The Hermit appears ***upright*** in a reading, it speaks to the realm of withdrawal for the sake of illumination. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *prudence, circumspection,* and also (by another account) *divine inspiration*—but Waite includes the paradoxical meanings of *treason* or *roguery*(Waite 1910).
 
-The Golden Dawn tradition identifies The Hermit as "The Prophet of the Eternal" and "Magus of the Voice of Power," representing wisdom sought and obtained from above[^2]. This card embodies the archetype of voluntary isolation—the withdrawal from society not from misanthropy but from the recognition that truth cannot be found in crowds.
+The Golden Dawn tradition identifies The Hermit as "The Prophet of the Eternal" and "Magus of the Voice of Power," representing wisdom sought and obtained from above(Wang 1983). This card embodies the archetype of voluntary isolation—the withdrawal from society not from misanthropy but from the recognition that truth cannot be found in crowds.
 
 The Hermit stands alone on the mountaintop holding a lantern, having climbed to heights where others cannot or will not follow. His light is not for guiding others (that comes later, if at all) but for his own illumination. He seeks truth in solitude because noise obscures, because companionship often becomes codependency, because the voice of the Self can only be heard in silence.
 
@@ -26,7 +26,7 @@ The Hermit stands alone on the mountaintop holding a lantern, having climbed to 
 
 But Waite's inclusion of "treason or roguery" warns of the shadow: the one who withdraws may be avoiding responsibility, using spiritual practice as escape, claiming wisdom while evading relationship. The hermit can become the cynic, the misanthrope, the one who judges from safe distance.
 
-When The Hermit appears ***reversed***, Waite gives: *concealment, disguise, policy,* and *unreasoned caution*[^1].
+When The Hermit appears ***reversed***, Waite gives: *concealment, disguise, policy,* and *unreasoned caution*(Waite 1910).
 
 The reversed Hermit speaks to withdrawal that has become pathological—isolation as prison rather than sanctuary. "Concealment" and "disguise" suggest someone hiding, using solitude to avoid being seen rather than to see more clearly. This is not the voluntary retreat of the seeker but the fearful withdrawal of the avoider.
 
@@ -41,14 +41,14 @@ The key insight is that The Hermit always deals with **the paradox of solitude a
 
 | System | Correspondence |
 |--------|----------------|
-| **Number** | 9 - The final single digit, completion before new cycle, three times three [^3]|
-| **Hebrew Letter** | Yod (י) - Value: 10 - Meaning: Hand/Seed (the divine hand, the spermatozoon) [^3]|
-| **Kabbalistic Path** | 20th Path: Chesed to Tiphareth - "Intelligence of Will" [^3]|
-| **Element** | Earth (Mutable Earth - adaptable, analytical, refining) [^3]|
-| **Astrology** | Virgo - The Virgin, ruled by Mercury [^3]|
+| **Number** | 9 - The final single digit, completion before new cycle, three times three (Wang 1983 cites Crowley)|
+| **Hebrew Letter** | Yod (י) - Value: 10 - Meaning: Hand/Seed (the divine hand, the spermatozoon) (Wang 1983 cites Crowley)|
+| **Kabbalistic Path** | 20th Path: Chesed to Tiphareth - "Intelligence of Will" (Wang 1983 cites Crowley)|
+| **Element** | Earth (Mutable Earth - adaptable, analytical, refining) (Wang 1983 cites Crowley)|
+| **Astrology** | Virgo - The Virgin, ruled by Mercury (Wang 1983 cites Crowley)|
 | **Sephiroth Connection** | Descends from Mercy (Chesed) to Beauty (Tiphareth) |
-| **Sound** | F-Natural [^3]|
-| **Color** | Yellow-Green (the hermit's earthy wisdom) [^3]|
+| **Sound** | F-Natural (Wang 1983 cites Crowley)|
+| **Color** | Yellow-Green (the hermit's earthy wisdom) (Wang 1983 cites Crowley)|
 
 ---
 
@@ -159,12 +159,20 @@ TBD
 
 ---
 
-## Sources
+## References
 
-[^1]: A.E. Waite, *The Pictorial Key to the Tarot* (1910)
-[^2]: Robert Wang, *The Qabalistic Tarot* (Golden Dawn tradition)
-[^3]: Aleister Crowley, *The Book of Thoth*; Golden Dawn Tarot correspondences
+### Primary Sources (Uploaded to Esoteric Grimoire)
 
+- Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
+- Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983.
+
+### Secondary Sources (Referenced via Primary Sources)
+
+- Crowley, Aleister. *The Book of Thoth*. New York: Samuel Weiser, Inc., 1974. (Originally published in *The Equinox*, Vol. III, No. V, 1944) — Referenced via Wang 1983
+
+### Vibology Synthesis Notes
+
+Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
 
 ## Internal Links

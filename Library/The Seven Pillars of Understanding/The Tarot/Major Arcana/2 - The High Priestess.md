@@ -2,23 +2,23 @@
 tags: [tarot, major-arcana, archetypal, moon]
 system: Tarot
 date_created: 2026-01-08
+date_updated: 2026-01-25
 number: 2
 hebrew_letter: Gimel (ג)
 qabalistic_path: 13 (Kether → Tiphareth)
 astrological: Moon
-source_verified: true
-verification_date: 2026-01-23
-grimoire_source: "Tarot (Qabalistic Tarot, Pictorial Key, Book of Thoth, Golden Dawn)"
-verification_notes: "All Qabalistic correspondences (Gimel, Path 13, Uniting Intelligence, Moon, Kether-Tiphareth, color, sound) verified against Golden Dawn/Thoth sources. Waite divinatory meanings verified exact quotes. Golden Dawn Secret Tradition interpretation verified. Synthesis sections clearly marked as interpretive commentary."
+verified: true
+verification_date: 2026-01-25
+verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
 *The Priestess of the Silver Star*
 
 ---
 ## Traditional Symbolism
 
-When The High Priestess appears ***upright*** in a reading, it speaks to the realm of hidden knowledge and the mysteries yet to unfold. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *secrets, mystery, the future as yet unrevealed, wisdom, science,* and *tenacity*[^1]. She represents that which is known but not spoken, understood but not explained.
+When The High Priestess appears ***upright*** in a reading, it speaks to the realm of hidden knowledge and the mysteries yet to unfold. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *secrets, mystery, the future as yet unrevealed, wisdom, science,* and *tenacity*(Waite 1910). She represents that which is known but not spoken, understood but not explained.
 
-The Golden Dawn tradition provides the essential distinction: The High Priestess embodies the *Secret Tradition, Divine Law,* and *Gnosis*—the direct knowledge of the divine that cannot be taught, only transmitted[^2]. She is the path of silence, the way of listening rather than speaking.
+The Golden Dawn tradition provides the essential distinction: The High Priestess embodies the *Secret Tradition, Divine Law,* and *Gnosis*—the direct knowledge of the divine that cannot be taught, only transmitted(Wang 1983). She is the path of silence, the way of listening rather than speaking.
 
 If your divination concerns **spiritual matters**, The High Priestess is profoundly auspicious—she represents the Uniting Intelligence that draws the soul toward eternal things. She is the inner teacher, the voice of intuition that speaks in whispers and dreams. This card affirms that you are being initiated into deeper understanding, that the veil is thinning, that the mysteries are preparing to reveal themselves to you.
 
@@ -26,7 +26,7 @@ However, if your question involves **material, practical concerns**, The High Pr
 
 The High Priestess embodies the paradox of knowledge itself: the more deeply one knows, the less one can speak. True gnosis is ineffable.
 
-When The High Priestess appears ***reversed***, Waite gives: *passion, moral or physical ardour, conceit,* and *surface knowledge*[^1].
+When The High Priestess appears ***reversed***, Waite gives: *passion, moral or physical ardour, conceit,* and *surface knowledge*(Waite 1910).
 
 The reversed High Priestess speaks to gnosis degraded into mere information, mystery reduced to secrets kept for power rather than wisdom. "Surface knowledge" is particularly telling—it points to someone who knows *about* the mysteries without having experienced them, who possesses data without understanding.
 
@@ -41,15 +41,15 @@ The key insight is that The High Priestess always deals with the **threshold bet
 
 | System | Correspondence |
 |--------|----------------|
-| **Number** | 2 - Duality held in balance, the witness consciousness[^3] |
-| **Hebrew Letter** | Gimel (ג) - Value: 3 - Meaning: Camel (the desert-crosser)[^3] |
-| **Kabbalistic Path** | 13th Path: Kether to Tiphareth - "Uniting Intelligence"[^3] |
-| **Element** | Water (Root of Water) - Pure undifferentiated consciousness[^3] |
-| **Astrology** | Moon - Reflection, receptivity, the flux of tides[^3] |
-| **Sephiroth Connection** | Crosses the Abyss from Source to Individual Self[^3] |
-| **Sound** | G-Sharp[^3] |
-| **Color** | Blue (the color of pure consciousness)[^3] |
-| **Double Letter** | Peace-War[^3] |
+| **Number** | 2 - Duality held in balance, the witness consciousness(Wang 1983 cites Crowley) |
+| **Hebrew Letter** | Gimel (ג) - Value: 3 - Meaning: Camel (the desert-crosser)(Wang 1983 cites Crowley) |
+| **Kabbalistic Path** | 13th Path: Kether to Tiphareth - "Uniting Intelligence"(Wang 1983 cites Crowley) |
+| **Element** | Water (Root of Water) - Pure undifferentiated consciousness(Wang 1983 cites Crowley) |
+| **Astrology** | Moon - Reflection, receptivity, the flux of tides(Wang 1983 cites Crowley) |
+| **Sephiroth Connection** | Crosses the Abyss from Source to Individual Self(Wang 1983 cites Crowley) |
+| **Sound** | G-Sharp(Wang 1983 cites Crowley) |
+| **Color** | Blue (the color of pure consciousness)(Wang 1983 cites Crowley) |
+| **Double Letter** | Peace-War(Wang 1983 cites Crowley) |
 
 ---
 
@@ -152,12 +152,20 @@ TBD
 
 ---
 
-## Sources
+## References
 
-[^1]: A.E. Waite, *The Pictorial Key to the Tarot* (1910)
-[^2]: Robert Wang, *The Qabalistic Tarot* (Golden Dawn tradition)
-[^3]: Aleister Crowley, *The Book of Thoth*; Golden Dawn Tarot correspondences
+### Primary Sources (Uploaded to Esoteric Grimoire)
 
+- Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
+- Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983.
+
+### Secondary Sources (Referenced via Primary Sources)
+
+- Crowley, Aleister. *The Book of Thoth*. New York: Samuel Weiser, Inc., 1974. (Originally published in *The Equinox*, Vol. III, No. V, 1944) — Referenced via Wang 1983
+
+### Vibology Synthesis Notes
+
+Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
 
 ## Internal Links

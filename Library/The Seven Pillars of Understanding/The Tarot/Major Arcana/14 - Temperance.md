@@ -2,14 +2,14 @@
 tags: [tarot, major-arcana, archetypal, sagittarius, mutable-fire]
 system: Tarot
 date_created: 2026-01-08
+date_updated: 2026-01-25
 number: 14
 hebrew_letter: Samekh (ס)
 qabalistic_path: 25 (Yesod → Tiphareth)
 astrological: Sagittarius
-source_verified: true
-verification_date: 2026-01-23
-grimoire_source: "Tarot (Qabalistic Tarot, Pictorial Key, Book of Thoth, Golden Dawn)"
-verification_notes: "Core Qabalistic correspondences (Hebrew letters, paths, zodiacal/planetary attributions) verified against Grimoire. Synthesis includes RWS and Thoth divinatory meanings, alchemical stages, Jungian archetypal interpretation."
+verified: true
+verification_date: 2026-01-25
+verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
 *The Daughter of the Reconcilers / The Bringer Forth of Life*
 
@@ -21,7 +21,7 @@ According to Waite's *Pictorial Key to the Tarot*, Temperance signifies *economy
 
 The Golden Dawn titles this card "The Daughter of the Reconcilers" and "The Bringer Forth of Life." Temperance is the offspring of the cosmic forces that unite opposites (the Reconcilers). She is the principle of **combination**—not the destruction of polarity but its integration. She brings forth life by *mixing* rather than choosing.
 
-The Golden Dawn tradition also describes Temperance as representing a "Dark Night of the Soul"—a deep tunnel entered in the belief that light awaits at the end[^2]. This is the testing period, the trial by patience, the waiting while the alchemical work unfolds. Temperance is the realization of material effects through the combination of spiritual forces—**grounding the high into the low**.
+The Golden Dawn tradition also describes Temperance as representing a "Dark Night of the Soul"—a deep tunnel entered in the belief that light awaits at the end(Wang 1983). This is the testing period, the trial by patience, the waiting while the alchemical work unfolds. Temperance is the realization of material effects through the combination of spiritual forces—**grounding the high into the low**.
 
 In divinatory practice, Temperance appears when **integration is required**. She signals that opposites must be blended, not chosen between. She declares: *Neither extreme. The third way.* When the querent is torn between passion and reason, action and stillness, spirit and matter, Temperance offers the possibility of *synthesis*—holding both until something new emerges.
 
@@ -194,12 +194,20 @@ The gift of integration: **Learning when to act and when to wait**. Temperance d
 
 ---
 
-## Sources
+## References
 
-[^1]: A.E. Waite, *The Pictorial Key to the Tarot* (1910)
-[^2]: Robert Wang, *The Qabalistic Tarot* (Golden Dawn tradition)
-[^3]: Aleister Crowley, *The Book of Thoth*; Golden Dawn Tarot correspondences
+### Primary Sources (Uploaded to Esoteric Grimoire)
 
+- Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
+- Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983.
+
+### Secondary Sources (Referenced via Primary Sources)
+
+- Crowley, Aleister. *The Book of Thoth*. New York: Samuel Weiser, Inc., 1974. (Originally published in *The Equinox*, Vol. III, No. V, 1944) — Referenced via Wang 1983
+
+### Vibology Synthesis Notes
+
+Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
 
 ## Internal Links

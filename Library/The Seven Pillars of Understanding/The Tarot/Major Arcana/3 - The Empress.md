@@ -2,23 +2,23 @@
 tags: [tarot, major-arcana, archetypal, venus]
 system: Tarot
 date_created: 2026-01-08
+date_updated: 2026-01-25
 number: 3
 hebrew_letter: Daleth (ד)
 qabalistic_path: 14 (Chokmah → Binah)
 astrological: Venus
-source_verified: true
-verification_date: 2026-01-23
-grimoire_source: "Tarot (Qabalistic Tarot, Pictorial Key, Book of Thoth, Golden Dawn)"
-verification_notes: "All Qabalistic correspondences (Daleth, Path 14, Illuminating Intelligence, Venus, Chokmah-Binah, color, sound) verified against Golden Dawn/Thoth sources. Waite divinatory meanings verified exact quotes. Synthesis sections clearly marked as interpretive commentary."
+verified: true
+verification_date: 2026-01-25
+verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
 *The Daughter of the Mighty Ones*
 
 ---
 ## Traditional Symbolism
 
-When The Empress appears ***upright*** in a reading, it speaks to the realm of generative abundance and the materialization of potential. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *fruitfulness, action, initiative, length of days,* and in some contexts, *the unknown* or *clandestine*[^1].
+When The Empress appears ***upright*** in a reading, it speaks to the realm of generative abundance and the materialization of potential. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *fruitfulness, action, initiative, length of days,* and in some contexts, *the unknown* or *clandestine*(Waite 1910).
 
-The Golden Dawn tradition identifies The Empress as the "Daughter of the Mighty Ones," representing the mediating path of the Supreme Spiritual Self[^2]. She is the door through which divine potential enters the manifest world—not as abstract principle, but as tangible form.
+The Golden Dawn tradition identifies The Empress as the "Daughter of the Mighty Ones," representing the mediating path of the Supreme Spiritual Self(Wang 1983). She is the door through which divine potential enters the manifest world—not as abstract principle, but as tangible form.
 
 If your divination concerns **spiritual matters**, The Empress represents the Illuminating Intelligence that makes the invisible visible. She is the moment when gnosis becomes embodied, when spiritual insight crystallizes into lived experience. She affirms that incarnation is sacred, that the physical world is not separate from the divine but its direct expression.
 
@@ -26,7 +26,7 @@ However, if your question involves **material concerns**, The Empress is profoun
 
 The Empress embodies the paradox of motherhood: she is both creative power and surrender to natural process. She does not force—she allows.
 
-When The Empress appears ***reversed***, Waite gives: *light, truth, the unravelling of involved matters,* or alternatively, *vacillation*[^1].
+When The Empress appears ***reversed***, Waite gives: *light, truth, the unravelling of involved matters,* or alternatively, *vacillation*(Waite 1910).
 
 The reversed Empress speaks to blocked creativity, fertility stifled, the generative flow interrupted. "Vacillation" suggests indecision about what to birth, hesitation to commit to the creative process. Where the upright Empress surrenders to the natural rhythm, the reversed card resists it—questioning, doubting, withholding permission from the life force.
 
@@ -41,15 +41,15 @@ The key insight is that The Empress always deals with **the relationship between
 
 | System | Correspondence |
 |--------|----------------|
-| **Number** | 3 - The creative triad, synthesis of opposites[^3] |
-| **Hebrew Letter** | Daleth (ד) - Value: 4 - Meaning: Door/Gateway[^3] |
-| **Kabbalistic Path** | 14th Path: Chokmah to Binah - "Illuminating Intelligence"[^3] |
-| **Element** | Earth (manifested fertility)[^3] |
-| **Astrology** | Venus - Beauty, love, embodied pleasure[^3] |
-| **Sephiroth Connection** | Joins Wisdom (masculine seed) to Understanding (feminine womb)[^3] |
-| **Sound** | F-Sharp[^3] |
-| **Color** | Emerald Green[^3] |
-| **Double Letter** | Wisdom-Folly[^3] |
+| **Number** | 3 - The creative triad, synthesis of opposites(Wang 1983 cites Crowley) |
+| **Hebrew Letter** | Daleth (ד) - Value: 4 - Meaning: Door/Gateway(Wang 1983 cites Crowley) |
+| **Kabbalistic Path** | 14th Path: Chokmah to Binah - "Illuminating Intelligence"(Wang 1983 cites Crowley) |
+| **Element** | Earth (manifested fertility)(Wang 1983 cites Crowley) |
+| **Astrology** | Venus - Beauty, love, embodied pleasure(Wang 1983 cites Crowley) |
+| **Sephiroth Connection** | Joins Wisdom (masculine seed) to Understanding (feminine womb)(Wang 1983 cites Crowley) |
+| **Sound** | F-Sharp(Wang 1983 cites Crowley) |
+| **Color** | Emerald Green(Wang 1983 cites Crowley) |
+| **Double Letter** | Wisdom-Folly(Wang 1983 cites Crowley) |
 
 ---
 
@@ -156,12 +156,20 @@ TBD
 
 ---
 
-## Sources
+## References
 
-[^1]: A.E. Waite, *The Pictorial Key to the Tarot* (1910)
-[^2]: Robert Wang, *The Qabalistic Tarot* (Golden Dawn tradition)
-[^3]: Aleister Crowley, *The Book of Thoth*; Golden Dawn Tarot correspondences
+### Primary Sources (Uploaded to Esoteric Grimoire)
 
+- Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
+- Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983.
+
+### Secondary Sources (Referenced via Primary Sources)
+
+- Crowley, Aleister. *The Book of Thoth*. New York: Samuel Weiser, Inc., 1974. (Originally published in *The Equinox*, Vol. III, No. V, 1944) — Referenced via Wang 1983
+
+### Vibology Synthesis Notes
+
+Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
 
 ## Internal Links

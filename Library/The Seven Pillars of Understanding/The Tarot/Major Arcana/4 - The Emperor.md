@@ -2,29 +2,29 @@
 tags: [tarot, major-arcana, archetypal, aries, mars]
 system: Tarot
 date_created: 2026-01-08
+date_updated: 2026-01-25
 number: 4
 hebrew_letter: Heh (ה)
 qabalistic_path: 15 (Chokmah → Tiphareth)
 astrological: Aries / Mars
-source_verified: true
-verification_date: 2026-01-23
-grimoire_source: "Tarot (Qabalistic Tarot, Pictorial Key, Book of Thoth, Golden Dawn)"
-verification_notes: "All Qabalistic correspondences (Heh, Path 15, Constituting Intelligence, Aries, Chokmah-Tiphareth, color, sound) verified against Golden Dawn/Thoth sources. Waite divinatory meanings verified exact quotes. Synthesis sections clearly marked as interpretive commentary."
+verified: true
+verification_date: 2026-01-25
+verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
 *The Sun of the Morning, Chief Among the Mighty*
 
 ---
 ## Traditional Symbolism
 
-When The Emperor appears ***upright*** in a reading, it speaks to the realm of established authority and structured power. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *stability, power, protection, realization,* and *aid from a great person*[^1]. He represents authority, will, and the "lordship of thought"—the capacity to impose rational order upon chaotic circumstances.
+When The Emperor appears ***upright*** in a reading, it speaks to the realm of established authority and structured power. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *stability, power, protection, realization,* and *aid from a great person*(Waite 1910). He represents authority, will, and the "lordship of thought"—the capacity to impose rational order upon chaotic circumstances.
 
-The Golden Dawn tradition identifies The Emperor as the "Sun of the Morning, Chief Among the Mighty," representing the General—hot, passionate, impetuous, a conqueror[^2]. He symbolizes the Zodiac acting through Aries upon Jupiter, acting as the bridge between the Supernal Father (Chokmah) and the Son (Tiphareth).
+The Golden Dawn tradition identifies The Emperor as the "Sun of the Morning, Chief Among the Mighty," representing the General—hot, passionate, impetuous, a conqueror(Wang 1983). He symbolizes the Zodiac acting through Aries upon Jupiter, acting as the bridge between the Supernal Father (Chokmah) and the Son (Tiphareth).
 
 In readings, The Emperor represents conviction, dominion, and the establishment of law. He is the archetype of sovereign power—not inherited or claimed arbitrarily, but *earned* through competence and maintained through just governance. He builds the fortress, establishes the code, defends the realm.
 
 The Emperor is always martial, always paternal, always structured. He does not create ex nihilo like The Empress—he takes what she has generated and *organizes* it. Without The Empress's fertility, he has nothing to govern; without his structure, her abundance becomes chaos.
 
-When The Emperor appears ***reversed***, Waite gives: *benevolence, compassion, credit,* but also *confusion to enemies, obstruction,* and *immaturity*[^1].
+When The Emperor appears ***reversed***, Waite gives: *benevolence, compassion, credit,* but also *confusion to enemies, obstruction,* and *immaturity*(Waite 1910).
 
 The reversed Emperor speaks to authority corrupted or authority abdicated. "Benevolence and compassion" as reversed meanings suggest power misapplied—the leader who prioritizes being liked over being effective, who confuses mercy with weakness. This is the father who cannot set boundaries, the ruler who will not rule.
 
@@ -39,15 +39,15 @@ The key insight is that The Emperor always deals with **the right use of power**
 
 | System | Correspondence |
 |--------|----------------|
-| **Number** | 4 - Stability, foundation, the four corners of manifestation[^3] |
-| **Hebrew Letter** | Heh (ה) - Value: 5 - Meaning: Window/Sight[^3] |
-| **Kabbalistic Path** | 15th Path: Chokmah to Tiphareth - "Constituting Intelligence"[^3] |
-| **Element** | Fire (Cardinal Fire - initiating, commanding)[^3] |
-| **Astrology** | Aries - The Ram, first sign of the zodiac, ruled by Mars[^3] |
-| **Sephiroth Connection** | Bridges Supernal Father (Wisdom) to Individual Son (Beauty)[^3] |
-| **Sound** | C-Natural[^3] |
-| **Color** | Scarlet[^3] |
-| **Simple Letter** | Sight (the first sense, the ruling perception)[^3] |
+| **Number** | 4 - Stability, foundation, the four corners of manifestation(Wang 1983 cites Crowley) |
+| **Hebrew Letter** | Heh (ה) - Value: 5 - Meaning: Window/Sight(Wang 1983 cites Crowley) |
+| **Kabbalistic Path** | 15th Path: Chokmah to Tiphareth - "Constituting Intelligence"(Wang 1983 cites Crowley) |
+| **Element** | Fire (Cardinal Fire - initiating, commanding)(Wang 1983 cites Crowley) |
+| **Astrology** | Aries - The Ram, first sign of the zodiac, ruled by Mars(Wang 1983 cites Crowley) |
+| **Sephiroth Connection** | Bridges Supernal Father (Wisdom) to Individual Son (Beauty)(Wang 1983 cites Crowley) |
+| **Sound** | C-Natural(Wang 1983 cites Crowley) |
+| **Color** | Scarlet(Wang 1983 cites Crowley) |
+| **Simple Letter** | Sight (the first sense, the ruling perception)(Wang 1983 cites Crowley) |
 
 ---
 
@@ -156,12 +156,20 @@ TBD
 
 ---
 
-## Sources
+## References
 
-[^1]: A.E. Waite, *The Pictorial Key to the Tarot* (1910)
-[^2]: Robert Wang, *The Qabalistic Tarot* (Golden Dawn tradition)
-[^3]: Aleister Crowley, *The Book of Thoth*; Golden Dawn Tarot correspondences
+### Primary Sources (Uploaded to Esoteric Grimoire)
 
+- Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
+- Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983.
+
+### Secondary Sources (Referenced via Primary Sources)
+
+- Crowley, Aleister. *The Book of Thoth*. New York: Samuel Weiser, Inc., 1974. (Originally published in *The Equinox*, Vol. III, No. V, 1944) — Referenced via Wang 1983
+
+### Vibology Synthesis Notes
+
+Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
 
 ## Internal Links

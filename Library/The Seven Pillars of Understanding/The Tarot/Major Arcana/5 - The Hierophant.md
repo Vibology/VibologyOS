@@ -2,23 +2,23 @@
 tags: [tarot, major-arcana, archetypal, taurus]
 system: Tarot
 date_created: 2026-01-08
+date_updated: 2026-01-25
 number: 5
 hebrew_letter: Vau (ו)
 qabalistic_path: 16 (Chokmah → Chesed)
 astrological: Taurus
-source_verified: true
-verification_date: 2026-01-23
-grimoire_source: "Tarot (Qabalistic Tarot, Pictorial Key, Book of Thoth, Golden Dawn)"
-verification_notes: "All Qabalistic correspondences (Vau, Path 16, Triumphal/Eternal Intelligence, Taurus, Chokmah-Chesed, color, sound) verified against Golden Dawn/Thoth sources. Waite divinatory meanings verified exact quotes. Synthesis sections clearly marked as interpretive commentary."
+verified: true
+verification_date: 2026-01-25
+verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
 *The Magus of the Eternal*
 
 ---
 ## Traditional Symbolism
 
-When The Hierophant appears ***upright*** in a reading, it speaks to the realm of divine wisdom transmitted through earthly institution. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *marriage, alliance, captivity, servitude,* and by another account *mercy, goodness, inspiration,* and *the man to whom the Querent has recourse*[^1].
+When The Hierophant appears ***upright*** in a reading, it speaks to the realm of divine wisdom transmitted through earthly institution. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *marriage, alliance, captivity, servitude,* and by another account *mercy, goodness, inspiration,* and *the man to whom the Querent has recourse*(Waite 1910).
 
-The Golden Dawn tradition identifies The Hierophant as the "Magus of the Eternal," representing the Zodiac acting through Taurus upon Jupiter[^2]. He is the formulation of the road upon which the soul travels, the rock-solid foundation of experience between the Spiritual Self (Chokmah) and the Ego (Chesed).
+The Golden Dawn tradition identifies The Hierophant as the "Magus of the Eternal," representing the Zodiac acting through Taurus upon Jupiter(Wang 1983). He is the formulation of the road upon which the soul travels, the rock-solid foundation of experience between the Spiritual Self (Chokmah) and the Ego (Chesed).
 
 The Hierophant is always paradoxical: he represents both liberation through teaching and captivity through dogma, both mercy and servitude, both the path to truth and the obstacle that must be transcended. He is the mediator—the bridge between heaven and earth, the priest who translates divine law into human comprehension.
 
@@ -26,7 +26,7 @@ The Hierophant is always paradoxical: he represents both liberation through teac
 
 "Mercy and goodness" reveal his positive pole: when functioning purely, The Hierophant is the compassionate teacher who guides without dominating, who holds the lineage in trust for those who will come after. "The man to whom the Querent has recourse" suggests he appears when we need guidance, when individual insight is insufficient and we must seek wisdom from those who have walked the path before us.
 
-When The Hierophant appears ***reversed***, Waite gives: *society, good understanding, concord, overkindness,* and *weakness*[^1].
+When The Hierophant appears ***reversed***, Waite gives: *society, good understanding, concord, overkindness,* and *weakness*(Waite 1910).
 
 The reversed Hierophant speaks to institutional authority dissolved or corrupted. "Society" and "good understanding" suggest communal wisdom accessed outside formal structures—the organic spiritual community rather than the hierarchical institution. This can be liberation: the direct relationship with the divine that requires no intermediary.
 
@@ -41,15 +41,15 @@ The key insight is that The Hierophant always deals with **the transmission of w
 
 | System | Correspondence |
 |--------|----------------|
-| **Number** | 5 - The pentagram, humanity reaching toward the divine[^3] |
-| **Hebrew Letter** | Vau (ו) - Value: 6 - Meaning: Nail/Hook (that which binds)[^3] |
-| **Kabbalistic Path** | 16th Path: Chokmah to Chesed - "Triumphal Intelligence" or "Eternal Intelligence"[^3] |
-| **Element** | Earth (Fixed Earth - stable, enduring, traditional)[^3] |
-| **Astrology** | Taurus - The Bull, ruled by Venus, Moon exalted[^3] |
-| **Sephiroth Connection** | Links Supernal Wisdom to Manifest Mercy[^3] |
-| **Sound** | C-Sharp[^3] |
-| **Color** | Red-Orange[^3] |
-| **Simple Letter** | Hearing (the ear that receives teaching)[^3] |
+| **Number** | 5 - The pentagram, humanity reaching toward the divine(Wang 1983 cites Crowley) |
+| **Hebrew Letter** | Vau (ו) - Value: 6 - Meaning: Nail/Hook (that which binds)(Wang 1983 cites Crowley) |
+| **Kabbalistic Path** | 16th Path: Chokmah to Chesed - "Triumphal Intelligence" or "Eternal Intelligence"(Wang 1983 cites Crowley) |
+| **Element** | Earth (Fixed Earth - stable, enduring, traditional)(Wang 1983 cites Crowley) |
+| **Astrology** | Taurus - The Bull, ruled by Venus, Moon exalted(Wang 1983 cites Crowley) |
+| **Sephiroth Connection** | Links Supernal Wisdom to Manifest Mercy(Wang 1983 cites Crowley) |
+| **Sound** | C-Sharp(Wang 1983 cites Crowley) |
+| **Color** | Red-Orange(Wang 1983 cites Crowley) |
+| **Simple Letter** | Hearing (the ear that receives teaching)(Wang 1983 cites Crowley) |
 
 ---
 
@@ -170,12 +170,20 @@ TBD
 
 ---
 
-## Sources
+## References
 
-[^1]: A.E. Waite, *The Pictorial Key to the Tarot* (1910)
-[^2]: Robert Wang, *The Qabalistic Tarot* (Golden Dawn tradition)
-[^3]: Aleister Crowley, *The Book of Thoth*; Golden Dawn Tarot correspondences
+### Primary Sources (Uploaded to Esoteric Grimoire)
 
+- Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
+- Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983.
+
+### Secondary Sources (Referenced via Primary Sources)
+
+- Crowley, Aleister. *The Book of Thoth*. New York: Samuel Weiser, Inc., 1974. (Originally published in *The Equinox*, Vol. III, No. V, 1944) — Referenced via Wang 1983
+
+### Vibology Synthesis Notes
+
+Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
 
 ## Internal Links
