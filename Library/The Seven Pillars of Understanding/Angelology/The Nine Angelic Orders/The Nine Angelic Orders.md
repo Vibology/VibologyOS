@@ -2,6 +2,9 @@
 tags: [angelology, hierarchy, orders, overview, pseudo-dionysius]
 system: Angelology
 date_created: 2026-01-18
+date_updated: 2026-01-24
+verified: 2026-01-24
+verification_source: Esoteric Grimoire
 category: Overview
 ---
 # The Nine Angelic Orders
@@ -12,7 +15,9 @@ category: Overview
 ---
 ## Overview
 
-The **Nine Orders of Angels** constitute the traditional Christian angelology as formulated by **Pseudo-Dionysius the Areopagite** in his 6th-century treatise *The Celestial Hierarchy*. This ninefold structure organizes all angelic beings (except the named Archangels who transcend their positions) into **three triads**, each serving a distinct function in the divine economy:
+> *Vibology Synthesis: The Nine Orders structure (Pseudo-Dionysius, Davidson, Wang) is verified in the Esoteric Grimoire. Cross-system correspondences are Vibology integrations.*
+
+The **Nine Orders of Angels** constitute the traditional Christian angelology as formulated by **Pseudo-Dionysius the Areopagite** in his 6th-century treatise *The Celestial Hierarchy* (Davidson, *A Dictionary of Angels*). This ninefold structure organizes all angelic beings (except the named Archangels who transcend their positions) into **three triads**, each serving a distinct function in the divine economy:
 
 1. **The First Triad (Orders 1-3): The Counselors** — Beings in direct contemplation of God
 2. **The Second Triad (Orders 4-6): The Governors** — Beings who administer cosmic law
@@ -367,3 +372,24 @@ For comprehensive treatment of each order, see their individual entries:
 ---
 
 *"The nine orders are not a bureaucracy of heaven but a living organism of divine intelligence. Each order participates in the great work of transmitting divine light from the Source to the world, ensuring that every level of creation—from the highest angel to the humblest human—receives exactly the illumination it can bear. To know the orders is to understand the architecture of grace."*
+
+---
+
+## References
+
+*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
+
+Davidson, Gustav. *A Dictionary of Angels: Including the Fallen Angels*. New York: Free Press, 1967.
+- Nine orders with Hebrew names and functions
+- Three Triads structure
+- Pseudo-Dionysian framework
+
+Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, ME: Samuel Weiser, 1983.
+- Sephirothic correspondences
+- Golden Dawn system
+
+**Scriptural References:**
+- Isaiah 6:3 (Seraphim: "Holy, Holy, Holy")
+
+**Secondary Sources:**
+- Pseudo-Dionysius the Areopagite, *The Celestial Hierarchy* (6th century)
