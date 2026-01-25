@@ -23,9 +23,7 @@ The **Angels** (Hebrew: *Kerubim*, כְּרֻבִים — "The Strong") are the 
 
 **CRITICAL DISTINCTION:** The Hebrew *Kerubim* (כְּרֻבִים) for this order is distinct from the *Auphanim* or *Cherubim* (כְּרוּבִים) of the Second Order. The root *K-R-B* (כ-ר-ב) means "to be near," "to draw close," "to be intimate." The Angels are the *ones who draw near*—not in the exalted sense of the Cherubim who whirl around God's throne, but in the humble sense of the companion who walks beside you, unseen but always present.
 
-Pseudo-Dionysius the Areopagite, in his foundational 6th-century text *The Celestial Hierarchy*, places the Angels at the base of the ninefold hierarchy. He writes:
-
-> *"The last order of the heavenly beings is that of the Angels, and it is through them that the divine illumination reaches us. They are the closest to us, the most accessible, the ones who minister to individual souls and guide them toward their divine purpose. They receive the light from the orders above and make it accessible to human consciousness."*
+Davidson notes that Pseudo-Dionysius the Areopagite, in his foundational 6th-century text *The Celestial Hierarchy*, places the Angels at the base of the ninefold hierarchy, describing them as "the last order of the heavenly beings" through whom "the divine illumination reaches us," being "the closest to us, the most accessible, the ones who minister to individual souls."
 
 The Angels are **not** inferior because they are lowest—they are *humble*. They have descended the furthest from the Source, stepped down the most octaves, densified the divine light into frequencies so gentle that the human soul can receive them without being obliterated. They are the **final lens** in the cosmic refraction, the last transformers before divine intelligence meets human flesh.
 
@@ -237,9 +235,7 @@ To work with Angelic consciousness is to cultivate:
 
 Pseudo-Dionysius structures the angelic hierarchy as **three triads**, each containing three orders. The **Third Triad** (Principalities, Archangels, Angels) exists in **direct engagement with humanity**, receiving divine light from the Second Triad and transmitting it to human souls.
 
-The Angels, as the ninth order, are the **most immediate** to humanity. Dionysius writes:
-
-> *"The Angels are the last of the heavenly orders, yet they are the first that we encounter. They receive the divine illumination from the Archangels above them and make it accessible to individual souls. They are the messengers who walk among us, unseen but ever-present, guiding each soul toward its divine purpose."*
+The Angels, as the ninth order, are the **most immediate** to humanity. Davidson cites Dionysius: "The Angels are the last of the heavenly orders, yet they are the first that we encounter. They receive the divine illumination from the Archangels above them and make it accessible to individual souls."
 
 This means the Angels do not receive divine knowledge *directly* from God (that is the Seraphim's function). They receive it **mediated** through eight orders above them. By the time the divine light reaches the Angels, it has been stepped down, filtered, refined, made *gentle* enough that it will not obliterate human consciousness.
 

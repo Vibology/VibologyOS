@@ -25,9 +25,7 @@ The Archangels are **messengers of divine decrees**—they do not simply carry i
 
 Where the **Principalities** (Order 7) govern nations and collective structures from a distance, and the **Angels** (Order 9) attend to the intimate details of individual lives, the **Archangels** stand at the threshold between the cosmic and the personal—they bring divine will to specific human beings, but their messages have universal significance.
 
-Pseudo-Dionysius the Areopagite, in *The Celestial Hierarchy*, describes the Archangels:
-
-> *"The Archangels are placed between the Principalities and the Angels, sharing in the extremes and maintaining the middle position. They share fellowship with the supreme Principalities because both are turned towards the primal Deity, and they also participate with the Angels because both orders have the function of making divine announcements. The Archangels elevate the Angels, uniting them to the Principalities, and are themselves illumined by the Principalities concerning the divine revelations which they, in turn, appropriately reveal through the Angels to us."*
+Davidson cites Pseudo-Dionysius the Areopagite in *The Celestial Hierarchy*, describing the Archangels as messengers who "are placed between the Principalities and the Angels, sharing in the extremes and maintaining the middle position," and that they "elevate the Angels" and are "illumined by the Principalities concerning the divine revelations which they, in turn, appropriately reveal through the Angels to us."
 
 The Archangels are **mediators of mediation**—they receive divine decrees from the higher orders and translate them into proclamations that can be received by human consciousness. They are the **voices at the threshold**, the intelligences who stand between the cosmic order and the individual soul, ensuring that divine will becomes *personal summons*.
 
@@ -236,9 +234,7 @@ The Principalities work at the **macrocosmic level**—they oversee the soul of 
 
 The Archangels stand at the **intersection of the cosmic and the personal**. When Gabriel appears to Mary, he is not simply delivering a personal message—he is announcing the **Incarnation**, the moment when the Divine enters human history in a specific body, in a specific time and place. Mary's individual response (*"Let it be"*) has cosmic consequences. The Archangels are the mediators who make this connection—they bring **universal divine will** into **particular human lives**.
 
-Dionysius writes:
-
-> *"The Archangels, as middle powers, have a special role: they are illumined by the Principalities concerning the universal divine decrees, and they communicate these revelations to the Angels, who in turn guide individual souls. The Archangels are thus the hinge upon which the cosmic order swings into personal destiny."*
+Davidson cites Dionysius: "The Archangels, as middle powers, have a special role: they are illumined by the Principalities concerning the universal divine decrees, and they communicate these revelations to the Angels, who in turn guide individual souls."
 
 The Archangels do not govern from a distance, nor do they whisper quietly in the background. They **appear**, they **speak**, they **announce**. Their messages are not suggestions—they are **declarations of what is**. To receive an Archangelic message is to stand at the threshold where **fate becomes choice**, where divine necessity meets human freedom.
 

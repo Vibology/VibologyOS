@@ -23,9 +23,7 @@ The **Principalities** (Latin: *Principatus*; Greek: *Archai*, "Beginnings" or "
 
 Where the **Second Triad** (Dominions, Powers, Virtues) governs cosmic forces at the universal level—law, order, and grace across all creation—the **Third Triad** mediates divine will into the **specific, temporal, and local**. The Principalities are the first step in this mediation: they are the **guardians of collective identity**, the architects of cultural consciousness, the protectors of nations and peoples.
 
-Pseudo-Dionysius the Areopagite, in *The Celestial Hierarchy*, describes the Principalities:
-
-> *"The name 'Principalities' signifies their princely and truly royal authority, and their capacity to lead others in the direction of the divinely befitting order, each according to its own nature, and their principality in a holy order, conformed, as far as may be, to the princely Source of Principality."*
+Davidson cites Pseudo-Dionysius the Areopagite in *The Celestial Hierarchy*, noting that the Principalities possess "princely and truly royal authority" and "their capacity to lead others in the direction of the divinely befitting order."
 
 The Principalities are **princes**—not in the sense of domination, but in the sense of **leadership, guidance, and protection**. They do not rule through force but through **influence, inspiration, and the shaping of collective consciousness**. They are the angelic intelligence behind the **"spirit of a nation,"** the unifying mythos of a culture, the guiding impulse that moves entire peoples toward a shared destiny.
 

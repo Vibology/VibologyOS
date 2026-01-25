@@ -5,7 +5,7 @@ date_created: 2026-01-17
 category: Angelic Order
 order_number: 5
 order_name: Powers
-hebrew_name: Elohim
+hebrew_name: Seraphim
 triad: Second Triad
 sephirah: Geburah
 planetary: Mars
@@ -21,13 +21,9 @@ hd_center: Heart (Ego) Center
 
 The **Powers** (*Elohim*) are the fifth order of angels and the second rank of the **Second Triad**—the Governors who administer cosmic law throughout creation. Where the [[Dominations]] establish sovereignty and delegate authority, the Powers **defend that authority** against all forces of chaos, entropy, and rebellion. They are the **warriors of divine order**, the gatekeepers who ensure that cosmic law is not violated, the sword-bearers who cut away corruption before it can metastasize.
 
-Pseudo-Dionysius the Areopagite writes in *The Celestial Hierarchy*:
+Davidson cites Pseudo-Dionysius the Areopagite in *The Celestial Hierarchy*, noting that the Powers are characterized by "masculine and unflinching courage" in their divine energies, and most critically:
 
-> *"The name of the holy Powers signifies a kind of masculine and unflinching courage in all their divine energies—not feebly relaxing before any of the implacable divine illuminations vouchsafed to it, but courageously mounting upward to the superimposed illuminations; manfully turning away from all base and unbecoming subjection, and wholly assimilating itself, as far as may be, to its own assimilative and powerful Source."*
-
-And most critically:
-
-> *"The Powers stop the efforts of demons who would overthrow the world, frustrating the powers that war against holy things."*
+Davidson cites Pseudo-Dionysius: *"The Powers stop the efforts of demons who would overthrow the world, frustrating the powers that war against holy things."*
 
 The Powers are not contemplative like the First Triad, nor administrative like the [[Dominations]]—they are **combative**. They exist at the boundary between order and chaos, light and shadow, cosmos and void. Their function is to **hold the line**, to ensure that the structures established by divine will do not collapse into formlessness.
 
@@ -41,7 +37,7 @@ To encounter Power consciousness is to meet the **unyielding strength of cosmic 
 | **Category**           | **Attribution**                                      |
 |------------------------|------------------------------------------------------|
 | **Order Number**       | 5 (Fifth Order, Second Triad)                        |
-| **Hebrew Name**        | *Elohim* ("Gods" or "Divine Ones")                   |
+| **Hebrew Name**        | *Seraphim* ("Flaming Ones")                          |
 | **Triad**              | Second Triad (The Governors)                         |
 | **Sephira**            | [[Geburah]] (Strength/Severity)                      |
 | **Planetary Sphere**   | [[Mars ♂]]                                             |
@@ -183,17 +179,19 @@ Dion Fortune writes in *The Mystical Qabalah*:
 
 > *"Geburah is the Sephira of fear and strength, but it is not the fear of the craven—it is the fear of God, which is the beginning of wisdom. It is the strength that dares to destroy in order to build."*
 
-### The Elohim as Executors of Divine Strength
+### The Seraphim (Flaming Ones) as Executors of Divine Strength
 
-The **Elohim** ("Gods" or "Divine Ones") are the angelic choir of Geburah. The term *Elohim* is paradoxical—it is a **plural noun** used with singular verbs in the Hebrew Bible, suggesting **multiplicity within unity**. The Elohim are the **many faces of divine power**, the diverse expressions of strength and judgment.
+The **Seraphim** ("Flaming Ones") are the angelic choir of Geburah in Wang's *Qabalistic Tarot* system. This creates a terminological complexity, as Seraphim also denotes the First Order (Kether). Wang explicitly states that the Powers are "the Seraphim the Flaming Ones who are also called the Order of Powers"—emphasizing their nature as burning, purifying forces of divine strength rather than the ecstatic fire of pure love found in the First Order.
 
-The Elohim uphold:
+Note: Davidson cites Francis Barrett's *The Magus* attributing the name *Elohim* to some hierarchical schemas, but Wang's Qabalistic attribution is Seraphim.
+
+The Seraphim of Geburah uphold:
 - **Cosmic boundaries** — The limits that define form and prevent chaos
 - **Divine justice** — The principle that actions have consequences
 - **Necessary destruction** — The pruning, cutting, and burning that clear space for new life
 - **Martial strength** — The courage to oppose forces of entropy and corruption
 
-Note: The Hebrew name *Elohim* for the Powers should not be confused with the more general term *Elohim* used for God in scripture. In the Qabalistic context, *Elohim Gibor* ("God of Battles") is the specific divine name associated with Geburah.
+Note: The Hebrew choir name *Seraphim* for the Powers (Geburah) should not be confused with the Seraphim of the First Order (Kether). In the Qabalistic context, *Elohim Gibor* ("God of Battles") is the specific divine name associated with Geburah, while the angelic choir itself is called Seraphim—the flaming forces of severity and strength.
 
 ### Divine Names and Colors
 
