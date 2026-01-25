@@ -11,7 +11,7 @@ category: Integration Teaching
 *The BodyGraph as Ladder of Angelic Consciousness*
 
 ---
-## Introduction: The Microcosm and the Macrocosm
+## Essence
 
 > *Vibology Synthesis: This entire teaching is an original cross-system integration. The angelic hierarchy (Pseudo-Dionysius, Davidson, Wang) and Human Design mechanics (Ra Uru Hu) are verified in the Esoteric Grimoire. The correspondence between the nine angelic orders and the nine HD centers is an original synthesis within the Vibology framework.*
 

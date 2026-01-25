@@ -20,8 +20,7 @@ hd_center: Throat Center
 *The Third Order of Angels — Foundations of Divine Law, Form-Givers, Guardians of the Cosmic Womb*
 
 ---
-## Foundational Material
-
+## Correspondences
 The **Thrones** (*Aralim*) are the third and final order of the **First Triad**, standing at the threshold between the pure contemplative fire of the Seraphim and Cherubim above and the cosmic administration of the Second Triad below. They are the **foundation of divine justice**, the unwavering presence upon which God's judgment rests.
 
 Gustav Davidson cites Pseudo-Dionysius the Areopagite's *The Celestial Hierarchy*, noting that the Thrones are the third order of the First Triad, established in the Most High. Davidson quotes Pseudo-Dionysius directly:
@@ -396,7 +395,7 @@ To work with the Thrones psychologically is to cultivate:
 - **Form-giving creativity** — Shaping potential into tangible expression
 
 ---
-## Shadow and Distortion: The Fallen Throne
+## Fallen Aspect
 
 Where there is angelic light, there is also the shadow—the distortion or perversion of the angelic function.
 
@@ -451,7 +450,7 @@ The Thrones teach that limitation is not a curse but the condition of manifestat
 The Thrones discriminate (cut away the useless), but they do not condemn. Learn to distinguish between what serves and what does not, without moral judgment.
 
 ---
-## Practical Mysticism: Cultivating Throne Consciousness
+## Invocation
 
 ### Meditation on Binah
 
@@ -521,7 +520,7 @@ Once per lunar cycle (New Moon), list:
 This is Throne work—facing the mirror without flinching.
 
 ---
-## The Gift of Throne Integration
+## The Gift of Integration
 
 When Throne consciousness is integrated into the psyche, the gift is:
 

@@ -20,8 +20,7 @@ hd_center: Heart (Ego) Center
 *The Fifth Order of Angels — Defenders of Cosmic Law, Gatekeepers Against Chaos, Executors of Divine Severity*
 
 ---
-## Foundational Material
-
+## Correspondences
 The **Powers** (*Elohim*) are the fifth order of angels and the second rank of the **Second Triad**—the Governors who administer cosmic law throughout creation. Where the [[Dominations]] establish sovereignty and delegate authority, the Powers **defend that authority** against all forces of chaos, entropy, and rebellion. They are the **warriors of divine order**, the gatekeepers who ensure that cosmic law is not violated, the sword-bearers who cut away corruption before it can metastasize.
 
 Davidson cites Pseudo-Dionysius the Areopagite in *The Celestial Hierarchy*, noting that the Powers are characterized by "masculine and unflinching courage" in their divine energies, and most critically:
@@ -434,7 +433,7 @@ To work with the Powers psychologically is to cultivate:
 - **Sacred anger** — The wrath that protects rather than destroys
 
 ---
-## Shadow and Distortion: The Fallen Power
+## Fallen Aspect
 
 Where there is angelic light, there is also shadow—the distortion or perversion of the angelic function.
 
@@ -491,7 +490,7 @@ If you have relegated Power consciousness to the shadow, begin the work of recla
 The Powers serve divine order, not ego. Ensure that your use of strength is aligned with [[Authority]] (in Human Design terms) or with the Self (in Jungian terms). Strength in service is sacred; strength in service of ego is tyranny.
 
 ---
-## Practical Mysticism: Cultivating Power Consciousness
+## Invocation
 
 ### Meditation on Geburah
 
@@ -566,7 +565,7 @@ Once per lunar cycle, review your commitments:
 This is Power work—wielding the sword consciously, defending boundaries with wisdom, saying "No" in service of cosmic order.
 
 ---
-## The Gift of Power Integration
+## The Gift of Integration
 
 When Power consciousness is integrated into the psyche, the gift is:
 

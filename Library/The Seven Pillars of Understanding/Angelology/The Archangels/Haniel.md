@@ -29,7 +29,7 @@ Haniel is not the intellectual love of the Cherubim, nor the fiery passion of th
 
 To invoke Haniel is to ask not for abstract spiritual truths but for **the capacity to love deeply, to recognize beauty, to participate in the sacred relationship between self and world, to root spiritual vision in the fertile soil of embodied existence**.
 
-## I. Core Correspondences
+## Core Correspondences
 
 | Attribute | Correspondence |
 |-----------|----------------|
@@ -48,7 +48,7 @@ To invoke Haniel is to ask not for abstract spiritual truths but for **the capac
 | **Function** | Mediator of divine love, beauty, grace, harmony, and the life force; ruler of nature |
 | **Human Faculty** | Capacity for aesthetic appreciation, relational love, desire aligned with divine will |
 
-## II. Qabalistic Attribution: The Sphere of Victory
+## Qabalistic Attribution: The Sphere of Victory
 
 ### Netzach: The Eternal Life Force
 
@@ -74,7 +74,7 @@ In some attributions, Netzach is associated with the **final Heh (ה)** of the T
 
 Haniel governs Netzach in **Briah** (the World of Creation), the realm where divine ideas take archetypal form. In this sense, Haniel is the **archangel of the lovers, the artists, the gardeners**—those who recognize divine beauty in created form and seek to cultivate, nurture, and celebrate it.
 
-## III. Haniel in Mystical and Esoteric Tradition
+## Haniel in Mystical and Esoteric Tradition
 
 ### No Direct Biblical Appearance
 
@@ -100,7 +100,7 @@ Wang describes Netzach as the sphere associated with "instincts and emotions" an
 
 Haniel, as the archangel of this sphere, is the **Ruler of the Vegetable Kingdom**—not in the sense of dominion, but in the sense of the intelligence that **animates, nourishes, and sustains** all growing things.
 
-## IV. Iconography and Symbolism
+## Iconography and Symbolism
 
 Haniel is traditionally depicted as:
 
@@ -124,7 +124,7 @@ The rose is Venus's flower, and Haniel is the intelligence that teaches: *"Beaut
 
 In alchemical symbolism, **emerald green** is the color of the **Prima Materia** (the primal matter) in its state of **growth and transformation**. The **Emerald Tablet** of Hermes Trismegistus begins: *"As above, so below"*—the axiom that divine beauty reflects into material beauty, that heaven is mirrored in earth. Haniel is the mediator of this reflection.
 
-## V. Function in Divine Economy
+## Function in Divine Economy
 
 Haniel's cosmic function is **the mediation of divine love, beauty, and grace into embodied, relational, aesthetic form**. Where the Seraphim at [[Kether]] are pure adoration (love without form), Haniel at Netzach is love **made tangible**—the warmth of a lover's hand, the scent of jasmine at dusk, the curve of a sculpture, the harmony of a song.
 
@@ -135,7 +135,7 @@ Haniel mediates between:
 - The **Eternal** (the unchanging beauty of the archetypes) and the **Temporal** (the fleeting beauty of spring blossoms)
 - The **Universal** (divine grace offered to all) and the **Particular** (the grace experienced in a single moment of kindness)
 
-## VI. Human Consciousness Parallel: The Capacity for Love and Beauty
+## Human Consciousness Parallel: The Capacity for Love and Beauty
 
 ### The Spleen Center: Intuitive Survival and Vitality
 
@@ -162,7 +162,7 @@ In the **[[Gene Keys]]** system, the Spleen center houses Gates 48, 57, 50, 32, 
 
 When Haniel's intelligence is integrated, the individual moves from *anxiety about survival* to *trust in divine provision*, from *grasping at pleasure* to *devotion to beauty as sacred*.
 
-## VII. The Tarot: Sevens and The Empress
+## The Tarot: Sevens and The Empress
 
 ### The Sevens: Endurance and the Test of Faith
 
@@ -189,7 +189,7 @@ The Empress is:
 
 Haniel is the angelic intelligence behind this archetype—the force that affirms: *"The body is sacred. Pleasure is sacred. Beauty is not frivolous—it is the face of God."*
 
-## VIII. Element: Earth and Water
+## Element: Earth and Water
 
 ### Earth: The Primary Attribution
 
@@ -213,7 +213,7 @@ Water represents:
 
 Haniel mediates between Earth (embodiment, rootedness) and Water (emotion, flow)—the archetype of the **gardener who tends both soil and stream**.
 
-## IX. Planetary Correspondence: Venus (Love, Beauty, Harmony)
+## Planetary Correspondence: Venus (Love, Beauty, Harmony)
 
 Haniel's planetary attribution is **Venus** (♀)—the second planet from the Sun, the brightest object in the night sky after the Moon, known as both the **Morning Star** (Lucifer, "Light-Bringer") and the **Evening Star** (Hesperus, "Star of the West").
 
@@ -244,7 +244,7 @@ The **light of Venus** (Haniel integrated) is:
 
 Haniel guides the soul from Venus's shadow into its light—from grasping to receiving, from envy to appreciation, from vanity to authentic radiance.
 
-## X. Mythology and Cross-Tradition Parallels
+## Mythology and Cross-Tradition Parallels
 
 ### Aphrodite/Venus (Greco-Roman): Goddess of Love and Beauty
 
@@ -292,7 +292,7 @@ In Gnostic Christianity, **Sophia** (Wisdom) is the emanation who **desires** to
 
 Haniel, like Sophia, embodies the **sacred longing**—the yearning of the soul for union, the magnetic pull toward the Divine experienced not as cold intellect but as *ache, as beauty, as love*.
 
-## XI. Practical Mysticism: Cultivating Haniel's Intelligence
+## Invocation
 
 ### Meditation: The Garden of the Heart
 
@@ -334,7 +334,7 @@ From grimoire tradition (adapted):
 
 If the "love" leads to **loss of self**, it is not Haniel but the Qlippothic shell. Haniel's love *nourishes identity*; it does not devour it.
 
-## XII. Jungian and Psychological Dimension
+## Jungian and Psychological Dimension
 
 ### The Anima: The Soul-Image of Beauty and Relatedness
 
@@ -356,7 +356,7 @@ A psyche dominated by Logos alone becomes **rigid, cold, disconnected**. A psych
 
 From a Jungian perspective, is Haniel "real" or merely a projection of the unconscious? Jung would say: **both**. Haniel is a **psychoid archetype**—a figure that exists both in the objective psyche (the collective unconscious) and in the transpersonal realms. To invoke Haniel is to activate this archetype, whether one conceives of it as an "angel" or an "inner intelligence."
 
-## XIII. Shadow and Distortion: The Fall into Hedonism and Vanity
+## Fallen Aspect
 
 ### The Qlippothic Shell: A'arab Zaraq (The Ravens of Dispersion)
 
@@ -384,7 +384,7 @@ Lucifer, whose name means *"Light-Bringer,"* is associated with **Venus as the M
 
 The antidote is **humility**—the recognition that all beauty is *gift*, all love is *grace*, all capacity for relationship is *received, not earned*.
 
-## XIV. The Gift of Integration: Grace, Beauty, and Sacred Relationship
+## The Gift of Integration: Grace, Beauty, and Sacred Relationship
 
 When Haniel's intelligence is integrated (not identified with, but *participated in*), the individual becomes:
 
@@ -408,7 +408,7 @@ The gift of **relational grace**—the ability to mediate conflicts, to find com
 
 The shift from **desire as grasping** to **desire as devotion**. The lover who loves not to possess but to *serve the beloved's highest unfolding*. The mystic who longs for God not as escape but as *consummation*.
 
-## XV. Haniel and the Other Archangels
+## Haniel and the Other Archangels
 
 ### Metatron (Kether): The Crown
 
@@ -434,7 +434,7 @@ The shift from **desire as grasping** to **desire as devotion**. The lover who l
 
 [[Gabriel]] at Yesod receives Haniel's **beauty and desire** and translates them into **dreams, images, and visions**. Where Haniel offers the *experience* of love, Gabriel offers the *vision* of what that love might become. Haniel feels; Gabriel reveals.
 
-## XVI. Cross-System Correspondences
+## Cross-System Correspondences
 
 ### Astrology: Venus, Taurus, Libra, and the 7th House
 
@@ -470,20 +470,8 @@ In **[[The Window]]** system, Haniel corresponds to patterns involving **relatio
 
 In **[[Jungian psychology]]**, Haniel is the **Anima**—the soul-image of beauty, the bridge to the world of feeling and relationship, the inner voice that says, *"You are worthy of love. The world is worthy of your devotion."*
 
-## XVII. Keywords and Themes
 
-- **Grace**
-- **Beauty**
-- **Love** (embodied, relational, aesthetic)
-- **Harmony**
-- **Desire** (aligned with divine will)
-- **Fertility**
-- **Nature** (the vegetable kingdom, the life force)
-- **Devotion**
-- **Persistence** (the triumph of life over entropy)
-- **Sacred Pleasure**
-
-## XVIII. A Prayer to Haniel
+## A Prayer to Haniel
 
 *Haniel, Angel of Grace, Ruler of the Garden, Prince of Love and Harmony, I call upon thee. Soften my heart where it has hardened. Restore my eyes to the beauty I have ceased to see. Teach me to love wisely and deeply—to give without losing myself, to receive without grasping. Let me honor the body as temple, pleasure as sacrament, beauty as the visible face of God. By the authority of YHVH Tzabaoth, the Lord of Hosts, by the power of Venus, the Evening Star, let thy grace descend upon me. May I walk in emerald light, rooted in fertile earth, flowing as the waters of life, crowned with roses. Let all that I create be beautiful. Let all that I love be sacred. Amen.*
 

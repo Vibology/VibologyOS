@@ -20,8 +20,7 @@ hd_center: Root Center
 *The Ninth Order of Angels — Intimate Companions of the Soul*
 
 ---
-## Foundational Material
-
+## Correspondences
 The **Angels** (Hebrew: *Kerubim*, כְּרֻבִים — "The Strong") are the ninth and lowest order of the celestial hierarchy—the **most intimate** with humanity, the **closest to the earth**, the **companions of the threshold**. They are the guardians of individual souls, the presences we feel in moments of crisis or grace, the gentle nudge that turns us left instead of right, the whisper that says *"Wait"* or *"Go."*
 
 **CRITICAL DISTINCTION:** The Hebrew *Kerubim* (כְּרֻבִים) for this order is distinct from the *Auphanim* or *Cherubim* (כְּרוּבִים) of the Second Order. The root *K-R-B* (כ-ר-ב) means "to be near," "to draw close," "to be intimate." The Angels are the *ones who draw near*—not in the exalted sense of the Cherubim who whirl around God's throne, but in the humble sense of the companion who walks beside you, unseen but always present.
@@ -95,8 +94,7 @@ The gematria (numerical value) of *Kerubim* (כְּרֻבִים) is **272**, whi
 | **Invocation** | *"Guardian angel, guide me. Walk beside me. Whisper when I need to hear."* |
 
 ---
-## Practical Application
-
+## Invocation
 ### 1. Meditation and Contemplation
 
 To meditate on the Angels is to meditate on **intimacy, presence, and the gentle guidance of the soul**. This is not the overwhelming fire of the Seraphim or the cosmic governance of the Dominations. This is **personal**. This is the angel who knows your name.
@@ -564,7 +562,7 @@ The Jungian (and mystical) goal is **integration, not identification**.
 To integrate Angelic consciousness is to **become a vessel** for subtle guidance without claiming to be the source of that guidance.
 
 ---
-## Shadow and Distortion
+## Fallen Aspect
 
 ### The Fall of the Watchers
 
@@ -606,8 +604,7 @@ The guardian angel is not here to make you feel special. It is here to **guide y
 If your "guardian angel" only tells you what you want to hear, it is not your guardian angel—it is your **ego wearing angel wings**.
 
 ---
-## Practical Mysticism
-
+## Contemplative Practice
 ### How to Cultivate Relationship with Your Guardian Angel
 
 The guardian angel is **always present**. You do not need to invoke it in the sense of summoning it from afar. You need only to **listen**.

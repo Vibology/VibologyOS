@@ -12,8 +12,7 @@ verification_source: "Davidson (Dictionary of Angels), DuQuette (Enochian Vision
 *The Great Table of Earth — Elemental Tablets of Divine and Angelic Names*
 
 ---
-## Introduction
-
+## Essence
 The **Four Watchtowers** (also called the **Great Table** or **Tablets of the Earth**) constitute the architectural core of [[Enochian System Overview|Enochian magic]]. Revealed to [[John Dee and Edward Kelley]] between 1583-1584, these four elemental tablets form a unified grid containing:
 
 - **Divine names** (Names of God governing each element)
@@ -333,8 +332,7 @@ The names of angels are derived from the Watchtowers using specific methods:
 - "HABIORO, Senior of Mars in the Watchtower of Air, come forth..."
 
 ---
-## Practical Application
-
+## Invocation
 ### Opening the Watchtowers (Full Ritual)
 
 **1. Preparation:**
@@ -401,7 +399,7 @@ Each sub-angle governs 10° of a specific zodiacal sign. Examples:
 - Invocation for: Deep emotional transformation, psychic sensitivity, intimacy
 
 ---
-## The Shadow of the Watchtowers
+## Fallen Aspect
 
 ### Dangers of Elemental Imbalance
 
@@ -475,7 +473,7 @@ Each sub-angle governs **10° of a zodiacal sign**, creating a direct link betwe
 - **Earth Watchtower** → **Root** (pressure, survival, grounding)
 
 ---
-## The Gift of the Watchtowers
+## The Gift of Integration
 
 At their highest expression, the Four Watchtowers offer:
 

@@ -25,8 +25,7 @@ invocation: Prayer of Tobias, LBRP (East Quarter)
 **The Healing Archangel — God's Medicine, Prince of Brightness, Guide and Companion, Reconciler of Heaven and Earth**
 
 ---
-## I. Foundational Material
-
+## Correspondences
 **Raphael** (Hebrew: רפאל, *Rafa'el* or *Rephael*) is the **Archangel of Healing**, the **Divine Physician**, and the **Prince of Brightness**—a designation that speaks not merely to light, but to the *luminosity of intelligence*, the clarity that heals ignorance, the knowledge that restores wholeness. His name, derived from the Hebrew root *רפא* (*rafa*—"to heal") and *אל* (*El*—"God"), translates as **"God has healed,"** **"Healing of God,"** or **"God heals."** Raphael is the active principle of divine restoration, the intelligence through which fragmentation returns to unity, sickness to health, ignorance to wisdom.
 
 Raphael is unique among the Four Quarters Archangels for his **dual nature**: he is both the **mercurial messenger** (swift, communicative, intellectually agile) and the **solar healer** (radiant, life-giving, heart-centered). In Qabalistic attribution, this dual nature is reflected in his association with both **Tiphareth** (Beauty, the solar heart, the Higher Self) and **Hod** (Splendor, Mercury, the intellect and communication). He is the bridge between **mind and heart**, between **knowledge and love**, between the **healing power of understanding** and the **healing power of presence**.
@@ -225,7 +224,7 @@ This reconciling function aligns with **Tiphareth's position** on the Tree—the
 Raphael transmits **knowledge**—practical, applicable wisdom. He teaches Tobias how to use the fish's organs as medicine, how to perform the ritual that drives away Asmodeus, how to heal his father. This is **embodied wisdom**, not abstract philosophy. Raphael's teaching is **pragmatic**—it works, it heals, it produces results.
 
 ---
-## II. Core Correspondences
+## Core Correspondences
 
 | **Attribute** | **Correspondence** |
 |---------------|-------------------|
@@ -255,7 +254,7 @@ Raphael transmits **knowledge**—practical, applicable wisdom. He teaches Tobia
 | **Traditional Prayer** | *"Raphael, Divine Physician, heal me in body, mind, and soul. Guide me on the path of wholeness. Teach me the wisdom that restores what has been broken. Amen."* |
 
 ---
-## III. Qabalistic Attribution: Tiphareth and Hod
+## Qabalistic Attribution: Tiphareth and Hod
 
 ### Tiphareth: The Solar Heart of the Tree
 
@@ -313,7 +312,7 @@ Raphael manifests through:
 - **Synchronicities:** The book that falls off the shelf, the stranger who offers perfect advice, the dream that reveals the solution
 
 ---
-## IV. Raphael in Mystical and Esoteric Tradition
+## Raphael in Mystical and Esoteric Tradition
 
 ### The Qabalistic Context: Tiphareth and Hod
 
@@ -440,7 +439,7 @@ This reconciling function aligns with **Tiphareth's position** on the Tree—the
 Raphael transmits **knowledge**—practical, applicable wisdom. He teaches Tobias how to use the fish's organs as medicine, how to perform the ritual that drives away Asmodeus, how to heal his father. This is **embodied wisdom**, not abstract philosophy. Raphael's teaching is **pragmatic**—it works, it heals, it produces results.
 
 ---
-## V. Iconography and Symbolism
+## Iconography and Symbolism
 
 Raphael is depicted in Christian art, mystical texts, and esoteric imagery with distinctive attributes:
 
@@ -491,7 +490,7 @@ Raphael's wings, when depicted, are often **yellow** or **golden** (unlike Micha
 - **Brightness** (clarity, illumination, understanding)
 
 ---
-## VI. Function in Divine Economy
+## Function in Divine Economy
 
 Raphael's function in the divine economy is **restoration and harmonization**—the principle by which fragmentation returns to wholeness, by which knowledge and love are united, by which the fallen are raised.
 
@@ -511,7 +510,7 @@ This cascade reveals the **co-creative nature of healing**. God does not simply 
 Raphael's role is to be the **intelligent mediator** of this process—the one who knows the fish's properties, who knows the ritual, who knows the timing, who knows how to guide without controlling.
 
 ---
-## VII. Human Consciousness Parallel: The G-Center and Throat Center
+## Human Consciousness Parallel: The G-Center and Throat Center
 
 Raphael corresponds to the **G-Center (Identity and Direction)** and the **Throat Center (Communication and Manifestation)** in Human Design:
 
@@ -546,7 +545,7 @@ The Throat is the **center of communication, manifestation, and expression**—t
 The gate of **practical thinking**, the capacity to articulate precise, useful knowledge—"Here is how to do this, step by step." This is Raphael teaching Tobias how to prepare the fish, how to perform the ritual, how to heal his father. Not abstract philosophy—**practical wisdom**.
 
 ---
-## VIII. The Tarot: The Lovers, The Magician, The Hermit, and Temperance
+## The Tarot: The Lovers, The Magician, The Hermit, and Temperance
 
 **Tarot:**
 
@@ -556,7 +555,7 @@ The gate of **practical thinking**, the capacity to articulate precise, useful k
 - **Temperance (XIV):** The **alchemist**, the blender of opposites (fire and water, conscious and unconscious), the path to Tiphareth
 
 ---
-## IX. Element: Air — Breath, Intellect, and Communication
+## Element: Air — Breath, Intellect, and Communication
 
 Raphael's primary element is **Air**, but this is not merely atmospheric gas. This is **pneuma**, **ruach**, **spiritus**—the breath of life, the animating intelligence, the word that was in the beginning.
 
@@ -582,7 +581,7 @@ Air is **breath**, the first and last act of life. Breath is the **life-force**,
 - **Study and teaching:** Reading, learning, transmitting knowledge—intellectual service as spiritual practice
 
 ---
-## X. Planetary Correspondence: Mercury and the Sun
+## Planetary Correspondence: Mercury and the Sun
 
 Raphael is uniquely dual in planetary attribution:
 
@@ -621,7 +620,7 @@ Mercury and Sun together create the **perfect physician**:
 A doctor with knowledge but no heart is mechanical; a healer with heart but no skill is ineffective. Raphael integrates both—the **compassionate competence**, the **loving wisdom**.
 
 ---
-## XI. Mythology and Cross-Tradition Parallels
+## Mythology and Cross-Tradition Parallels
 
 The archetype of the **Divine Healer and Guide** appears across wisdom traditions:
 
@@ -669,7 +668,7 @@ The archetype of the **Divine Healer and Guide** appears across wisdom tradition
   - **Parallel:** Raphael as the healer whose presence sanctifies—the well, the fish, the medicine—making the ordinary miraculous.
 
 ---
-## XII. Practical Mysticism: Cultivating Raphael's Intelligence
+## Invocation
 
 ### 1. Meditation and Contemplation
 
@@ -696,7 +695,7 @@ To meditate on Raphael is to meditate on **the journey from fragmentation to who
 This is Raphael's initiatic question. Every wound, when met consciously, reveals a truth. Tobit's blindness taught humility and dependence; Sarah's demon taught the necessity of spiritual protection before intimacy. The wound, transmuted, becomes **wisdom**.
 
 ---
-## XIII. Jungian and Psychological Dimension
+## Jungian and Psychological Dimension
 
 Raphael embodies the archetype of the **Wounded Healer** (Chiron) and the **Wise Guide** (Hermes, Senex):
 
@@ -744,7 +743,7 @@ Asmodeus is not **killed**—he is **bound**. This is critical. The shadow canno
 Raphael teaches: *"The demon is real. Acknowledge it. Perform the ritual (the burning of the fish's organs—the transmutation of raw emotion into sacred smoke). Contain it (bind it in the uttermost parts of Egypt—in the depths, where it cannot interfere). Then proceed with the sacred marriage."*
 
 ---
-## XIV. Shadow and Distortion: The Shadow of the Healer
+## Fallen Aspect
 
 The shadow of Raphael manifests in several dangerous forms:
 
@@ -779,7 +778,7 @@ The guide who creates dependency, who does not allow the student to outgrow them
 Raphael **ascends** at the end of the Tobit story. He does not stay. The guide's ultimate gift is **self-obsolescence**—to teach the student so well that the student no longer needs the teacher.
 
 ---
-## XV. The Gift of Integration: The Healed Healer
+## The Gift of Integration: The Healed Healer
 
 When Raphaelic intelligence is integrated (not identified with, but *participated in*), the individual becomes:
 
@@ -804,7 +803,7 @@ The individual can offer guidance without needing the other to follow it, can he
 The individual radiates **clarity**—not the blinding glory of Metatron, not the consuming fire of Michael, but the **gentle, intelligible light** that allows others to see their own path. This is Raphael's gift: **illumination without overwhelm**.
 
 ---
-## XVI. Raphael and the Other Archangels
+## Raphael and the Other Archangels
 
 Raphael's relationships with other archangels reveal different facets of the celestial hierarchy and divine function:
 
@@ -833,7 +832,7 @@ Both are teachers, but Uriel's teaching is often **fierce and uncompromising** (
 Metatron holds the blueprint; Raphael teaches how to read it and apply it to daily life.
 
 ---
-## XVII. Cross-System Correspondences
+## Cross-System Correspondences
 
 **Qabalah:**
 
@@ -916,28 +915,8 @@ Metatron holds the blueprint; Raphael teaches how to read it and apply it to dai
 
 
 ---
-## XVIII. Keywords and Themes
 
-**Raphaelic Keywords:**
-
-- Healing (physical, emotional, mental, spiritual, relational)
-- Guidance, companionship, mentorship, teaching
-- Reconciliation, harmony, balance, integration
-- Tiphareth, solar heart, Higher Self, beauty
-- Hod, Mercury, intellect, communication, practical wisdom
-- Air, breath, pneuma, spirit, clarity
-- Journey, travel, threshold, initiation
-- Fish, medicine, organs transmuted into healing instruments
-- Wounded healer, healed healer, shadow as teacher
-- Knowledge and love united, mind and heart married
-- Brightness, illumination, clarity, understanding
-- Caduceus, staff, vial, physician's tools
-- Dawn, East, new beginnings, forward vision
-- Azarias (the disguised guide), revelation in retrospect
-- Asmodeus bound (shadow integrated, not destroyed)
-
----
-## XIX. A Prayer to Raphael
+## A Prayer to Raphael
 
 *Raphael, Divine Physician, Prince of Brightness, Guide and Companion on the journey of wholeness—I call upon you. Teach me to see my wounds as medicine in disguise. Show me how to transmute suffering into wisdom, how to bind the demons that prevent sacred union, how to walk the path with courage and trust. Let me be a hollow bone through which your healing light flows. Teach me to serve with both knowledge and love, with both competence and compassion. Walk beside me as you walked beside Tobias, disguised as a friend, revealed as divine only when the time is right. By the authority of YHVH Eloah va-Daath, the Lord God of Knowledge, by the light of the Sun and the swiftness of Mercury, by the breath of Air that animates all life, let your presence be known. May I become both healed and healer, both student and teacher, both wounded and wise. Ave Raphael. Amen.*
 
@@ -1250,7 +1229,7 @@ Asmodeus is not **killed**—he is **bound**. This is critical. The shadow canno
 Raphael teaches: *"The demon is real. Acknowledge it. Perform the ritual (the burning of the fish's organs—the transmutation of raw emotion into sacred smoke). Contain it (bind it in the uttermost parts of Egypt—in the depths, where it cannot interfere). Then proceed with the sacred marriage."*
 
 ---
-## Shadow and Distortion
+## Fallen Aspect
 
 The shadow of Raphael manifests in several dangerous forms:
 
@@ -1285,8 +1264,7 @@ The guide who creates dependency, who does not allow the student to outgrow them
 Raphael **ascends** at the end of the Tobit story. He does not stay. The guide's ultimate gift is **self-obsolescence**—to teach the student so well that the student no longer needs the teacher.
 
 ---
-## Practical Mysticism
-
+## Contemplative Practice
 ### How to Cultivate Relationship with Raphael
 
 **1. Practice Healing as Sacred Work**

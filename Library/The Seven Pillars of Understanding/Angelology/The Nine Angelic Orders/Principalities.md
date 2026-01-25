@@ -20,8 +20,7 @@ hd_center: Spleen Center
 *The Seventh Order of Angels — Protectors of Nations, Guardians of Collective Consciousness, Architects of Cultural Belonging*
 
 ---
-## Foundational Material
-
+## Correspondences
 The **Principalities** (Latin: *Principatus*; Greek: *Archai*, "Beginnings" or "First Principles"; Hebrew: *Elohim*, "Gods") are the seventh order of angels in the celestial hierarchy, positioned as the **first and highest order of the Third Triad** (Principalities, Archangels, Angels). They mark the threshold where angelic intelligence begins its direct engagement with the material world, guiding not individual souls but **entire nations, cultures, religions, and collective movements**.
 
 Where the **Second Triad** (Dominions, Powers, Virtues) governs cosmic forces at the universal level—law, order, and grace across all creation—the **Third Triad** mediates divine will into the **specific, temporal, and local**. The Principalities are the first step in this mediation: they are the **guardians of collective identity**, the architects of cultural consciousness, the protectors of nations and peoples.
@@ -120,8 +119,7 @@ Both are called "Gods" (*Elohim*) because they are **autonomous intelligences** 
 | **Invocation** | Prayer for collective guidance, protection of communities, alignment of cultural movements with divine purpose |
 
 ---
-## Practical Application
-
+## Invocation
 ### 1. Meditation and Contemplation
 
 To meditate on the Principalities is to meditate on **collective identity, belonging, and the spirit of peoples**. This is not abstract political theory—this is the recognition that **we are embedded in collective fields of consciousness** that shape our values, beliefs, and sense of purpose.
@@ -598,7 +596,7 @@ The developmental task is to move from:
 The Principalities guide this process at the collective level—ensuring that cultures evolve, that nations fulfill their purposes, that collectives serve the flourishing of individuals and the divine plan.
 
 ---
-## Shadow and Distortion
+## Fallen Aspect
 
 ### 1. Nationalism and Tribalism
 
@@ -661,8 +659,7 @@ Every nation, culture, and religion has a Principality, a divine purpose, a role
 Recognize that your collective (nation, religion, culture) has a shadow—aspects of its identity and history that are painful, shameful, or destructive. Do not deny or project the shadow—integrate it, acknowledge it, learn from it.
 
 ---
-## Practical Mysticism: Cultivating Principality Consciousness
-
+## Contemplative Practice
 ### Meditation on Netzach
 
 **Qabalistic Pathworking:**

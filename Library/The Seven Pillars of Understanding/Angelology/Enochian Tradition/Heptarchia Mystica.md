@@ -12,8 +12,7 @@ verification_source: "Davidson (Dictionary of Angels), DuQuette (Enochian Vision
 *The Seven-Fold Planetary Hierarchy — The 49 Good Angels and the Sigillum Dei Aemeth*
 
 ---
-## Introduction
-
+## Essence
 The **Heptarchia Mystica** ("Mystical Sevenfold Rule") is the earliest component of the [[Enochian System Overview|Enochian system]], revealed to [[John Dee and Edward Kelley]] in **1582**, before the reception of [[The Four Watchtowers]] or [[The 30 Aethyrs]]. It constitutes a complete system of **planetary magic**, centered on:
 
 1. **The Sigillum Dei Aemeth** — The Seal of God's Truth, a complex wax talisman inscribed with divine names
@@ -261,8 +260,7 @@ The Heptarchia directly invokes planetary forces:
 **Practical Application:** Invoke the appropriate King during planetary transits, returns, or when natal planets are activated.
 
 ---
-## Practical Magical Operations
-
+## Invocation
 ### 1. Petition for Knowledge
 
 **Planet:** Mercury (Babalel) or Jupiter (Bornogo)
@@ -316,7 +314,7 @@ The Heptarchia directly invokes planetary forces:
 - Petition: *"Grant courage to face [challenge]. Empower me to act with decisive strength."*
 
 ---
-## The Shadow of the Heptarchia
+## Fallen Aspect
 
 ### Ego Inflation
 
@@ -394,7 +392,7 @@ Dee sought:
 The Heptarchia provided a **practical framework** for these goals, allowing Dee to petition specific planetary angels for specific purposes.
 
 ---
-## The Gift of the Heptarchia
+## The Gift of Integration
 
 At its highest expression, the Heptarchia Mystica offers:
 

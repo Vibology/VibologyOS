@@ -13,8 +13,7 @@ category: Overview
 **The Ninefold Structure of Created Intelligence from Pseudo-Dionysius to the Qabalah**
 
 ---
-## Overview
-
+## Essence
 > *Vibology Synthesis: The Nine Orders structure (Pseudo-Dionysius, Davidson, Wang) is verified in the Esoteric Grimoire. Cross-system correspondences are Vibology integrations.*
 
 The **Nine Orders of Angels** constitute the traditional Christian angelology as formulated by **Pseudo-Dionysius the Areopagite** in his 6th-century treatise *The Celestial Hierarchy* (Davidson, *A Dictionary of Angels*). This ninefold structure organizes all angelic beings (except the named Archangels who transcend their positions) into **three triads**, each serving a distinct function in the divine economy:
@@ -282,7 +281,7 @@ Each order corresponds to a **faculty of human consciousness**:
 To invoke an order is to cultivate its corresponding capacity within the psyche.
 
 ---
-## How to Work with the Orders
+## Invocation
 
 ### 1. Meditation on the Triads
 Contemplate each triad as a stage of spiritual development:

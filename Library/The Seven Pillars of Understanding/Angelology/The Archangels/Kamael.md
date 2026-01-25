@@ -26,7 +26,7 @@ aliases: [Camael, Khamael, Chamuel, Samael]
 
 Kamael is not a comforting presence. He does not soothe, heal, or console. Kamael's function is **purgation**—the removal of the diseased, the elimination of the weak, the destruction of what has outlived its purpose. To invoke Kamael is to call upon the force that will burn away everything false, even if the ego believes it cannot survive the fire.
 
-## I. Core Correspondences
+## Core Correspondences
 
 | Attribute | Correspondence |
 |-----------|----------------|
@@ -47,7 +47,7 @@ Kamael is not a comforting presence. He does not soothe, heal, or console. Kamae
 | **Biblical Role** | Angel who wrestled Jacob, leader of 12,000 angels of destruction |
 | **Function** | Avenging evil, severing attachments, protecting through strength |
 
-## II. Qabalistic Attribution: The Severity of God
+## Qabalistic Attribution: The Severity of God
 
 ### Geburah: The Fifth Sephirah
 
@@ -101,7 +101,7 @@ Mars is traditionally considered a **malefic** planet—not because it is "evil,
 
 Yet without Mars, there is no movement. The planet would freeze. The soul would stagnate. Kamael is the angelic intelligence that ensures **stagnation is impossible**—even if that means destruction.
 
-## III. The Name: Kamael and Its Variants
+## The Name: Kamael and Its Variants
 
 ### Etymology and Meaning
 
@@ -136,7 +136,7 @@ In some Qabalistic texts, **Kamael** and **Samael** are conflated or presented a
 
 Thus, **Kamael** is the archangelic (light) aspect of Geburah; **Samael** is the demonic (shadow) aspect.
 
-## IV. Biblical and Mystical Tradition
+## Biblical and Mystical Tradition
 
 ### No Direct Canonical Appearance
 
@@ -174,7 +174,7 @@ In modern New Age angelology, **Chamuel** is often presented as the "angel of lo
 
 **Kamael/Chamuel** is the angel of Geburah—**strength**, not sentiment. If Kamael assists in relationships, it is by *cutting away* what is false, codependent, or toxic. Kamael's "love" is the **tough love** that refuses to enable, the love that would rather see the ego die than the soul be lost.
 
-## V. Iconography and Symbolism
+## Iconography and Symbolism
 
 Kamael is traditionally depicted as:
 
@@ -197,7 +197,7 @@ The lion is Kamael's sacred animal—not the domesticated cat, but the **wild pr
 
 This is **solar ferocity**—the strength of the sun that both gives life and burns. Kamael is the aspect of the divine that does not ask, "Do you consent to this transformation?" He simply acts.
 
-## VI. Function in Divine Economy
+## Function in Divine Economy
 
 Kamael's cosmic function is the **maintenance of divine order through force**. Where the higher Sephiroth (Kether, Chokmah, Binah) are contemplative and formative, Geburah is **active**—it *does* something.
 
@@ -224,7 +224,7 @@ The two must be held together. Kamael and [[Tzadkiel]] (Archangel of Chesed) are
 
 Kamael is this fire. He does not destroy the soul—he destroys the **dross**, the impurity, the false accumulation. What remains after Kamael's fire is **pure gold**—the essential self, stripped of pretense.
 
-## VII. Human Consciousness Parallel: The Will-to-Power
+## Human Consciousness Parallel: The Will-to-Power
 
 ### The Solar Plexus and the Sacral: Martian Centers
 
@@ -270,7 +270,7 @@ In **Jungian psychology**, Kamael corresponds to the **Warrior** archetype:
 
 This is Kamael: clarity of purpose, ruthlessness in execution, and the willingness to do what must be done.
 
-## VIII. The Tarot: The Fives and The Tower
+## The Tarot: The Fives and The Tower
 
 ### The Fives: Crisis and Conflict
 
@@ -301,7 +301,7 @@ Yet the Tower is not punishment—it is **liberation**. What is destroyed was al
 
 Kamael is the angel of The Tower. He is the lightning bolt. He is the force that says, "This edifice is corrupt—it must fall."
 
-## IX. Element: Fire (The Consuming Flame)
+## Element: Fire (The Consuming Flame)
 
 Kamael's element is **Fire**—but not the generative fire of [[Raziel]] (electric spark of ideation) or the illuminating fire of [[Michael]] (solar radiance). Kamael's fire is the **consuming flame**, the **refiner's fire**, the blaze that reduces structures to ash.
 
@@ -319,7 +319,7 @@ The Seraphim are pure **love** and pure **fire**. They burn with adoration. Yet 
 
 This is Kamael's function: to **burn away** what is unclean, even if the burning is agony.
 
-## X. Day and Planetary Hour: Tuesday (Mars Day)
+## Day and Planetary Hour: Tuesday (Mars Day)
 
 Kamael is invoked on **Tuesday** (*Dies Martis*, the Day of Mars). In the planetary hour system (used in ceremonial magic), Mars rules:
 - The **first hour after sunrise on Tuesday**
@@ -337,7 +337,7 @@ These are the hours when **Martian energy** is strongest—when courage is acces
 - Initiating conflict that has been avoided
 - Facing what has been feared
 
-## XI. Mythology and Cross-Tradition Parallels
+## Mythology and Cross-Tradition Parallels
 
 ### Ares (Greek): The God of War
 
@@ -373,7 +373,7 @@ The Morrigan is Kamael's oracular aspect—the intelligence that *knows* what mu
 
 Rudra does not ask permission. He simply *is*—the force of nature that cannot be controlled, only honored.
 
-## XII. Practical Mysticism: Cultivating Kamael's Intelligence
+## Invocation
 
 ### When to Invoke Kamael
 
@@ -431,7 +431,7 @@ A practical ritual for invoking Kamael:
 
 If the act leaves you feeling *inflated* (powerful, superior, righteous in a grandiose way), it was likely Samael. If it leaves you feeling *sober* (heavy, clear, and deeply responsible), it was Kamael.
 
-## XIII. Jungian and Psychological Dimension
+## Jungian and Psychological Dimension
 
 ### The Shadow Warrior
 
@@ -466,7 +466,7 @@ Kamael, in this reading, is the *son* of the Terrible Mother—the force she sen
 
 Kamael is the *conscious* integration of Thanatos—the recognition that **destruction is part of creation**. The tree that does not shed its leaves in autumn will die. The snake that does not shed its skin will suffocate. The soul that does not allow the ego to die will never be reborn.
 
-## XIV. Shadow and Distortion: The Fall into Cruelty
+## Fallen Aspect
 
 ### The Qlippothic Shell: Golachab (The Burners)
 
@@ -492,7 +492,7 @@ Qabalistic teaching warns: The soul that ascends to Geburah unprepared may becom
 
 The integrated warrior *serves*. The inflated tyrant *dominates*.
 
-## XV. The Gift of Integration: Righteous Strength
+## The Gift of Integration: Righteous Strength
 
 When Kamael's intelligence is integrated (not identified with, but *participated in*), the individual becomes:
 
@@ -516,7 +516,7 @@ The capacity to perform **necessary destruction**—to end relationships that ha
 
 The refusal to be a **victim**. The recognition that *I have power, I have agency, I can fight back*. This is the end of learned helplessness, the death of the slave mentality.
 
-## XVI. Kamael and the Other Archangels
+## Kamael and the Other Archangels
 
 ### Metatron (Kether): The Unmanifest Crown
 
@@ -538,7 +538,7 @@ The refusal to be a **victim**. The recognition that *I have power, I have agenc
 
 [[Haniel]] at Netzach is love, beauty, desire. Kamael's severity *protects* Haniel's softness—without Geburah, Netzach becomes hedonism, seduction, addiction. Kamael is the boundary that allows love to flourish safely.
 
-## XVII. Cross-System Correspondences
+## Cross-System Correspondences
 
 ### Astrology: Mars and the First House
 
@@ -578,22 +578,8 @@ Kamael *is* the archangelic intelligence of **[[Geburah]]**. To study the Qabali
 
 In **[[Jungian psychology]]**, Kamael is the **Warrior archetype** and the **integrated Shadow**—the capacity to own one's darkness without being consumed by it.
 
-## XVIII. Keywords and Themes
 
-- **Strength**
-- **Courage**
-- **Severity**
-- **Necessary Destruction**
-- **Boundaries**
-- **Purification**
-- **The Refiner's Fire**
-- **Justice through Force**
-- **The Sword**
-- **The Warrior**
-- **Righteous Anger**
-- **Cutting Away the False**
-
-## XIX. A Prayer to Kamael
+## A Prayer to Kamael
 
 *Kamael, Wielder of the Sword, Angel of Geburah, stand before me and show me what must be destroyed. I do not ask for comfort. I do not ask for ease. I ask for the courage to face what I have avoided, to sever what I have clung to, to burn away what has poisoned me. Grant me the strength to wield the sword, the clarity to strike true, and the humility to know that I am not the sword but the servant of the one who wields it. By the name Elohim Gibor, the God of Battles, I stand ready. Let the fire consume what is false. Let the blade fall on what is weak. Let me emerge from the crucible as gold. Amen.*
 

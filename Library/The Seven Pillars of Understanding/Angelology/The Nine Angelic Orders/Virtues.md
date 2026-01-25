@@ -20,8 +20,7 @@ hd_center: Solar Plexus (Emotional Center)
 *The Sixth Order of Angels — Agencies of Divine Valor, Harmony, and Supernatural Power*
 
 ---
-## Foundational Material
-
+## Correspondences
 The **Virtues** (Latin: *Virtutes*; Hebrew: *Melechim*, "Kings") are the sixth order of angels in the celestial hierarchy, positioned at the center of the **Second Triad** (Dominions, Virtues, Powers). They stand at a critical pivot point in the angelic economy—the place where the divine will, having been received and formulated by the First Triad, begins its descent into active manifestation. The Virtues are the **agencies of grace**, the **workers of miracles**, the **bestowers of valor**—they are the power that makes the impossible possible, the force that intervenes in the natural order to reveal the supernatural.
 
 Where the **Dominions** (Order 4) establish divine law and the **Powers** (Order 5) maintain cosmic order against chaos, the **Virtues** are the **executors of divine grace**. They do not govern or guard—they **bless, heal, and empower**. They are the angels who part the Red Sea, who make the sun stand still at Joshua's command, who descend into the fiery furnace with Shadrach, Meshach, and Abednego. They are the force behind every miracle, every act of divine intervention that defies natural law in service of divine purpose.
@@ -103,8 +102,7 @@ In this, they mirror the **Solar Christ**, the archetypal King who rules through
 | **Invocation** | Prayer for healing, intervention, courage; the call for grace when natural means fail |
 
 ---
-## Practical Application
-
+## Invocation
 ### 1. Meditation and Contemplation
 
 To meditate on the Virtues is to meditate on **grace, miracles, and the reconciliation of opposites**. This is not passive prayer for comfort—this is the **cultivation of inner authority**, the development of the capacity to channel divine power without ego-distortion.
@@ -586,7 +584,7 @@ The Virtues are the **messengers of the Self**, bringing healing and integration
 This is not the ego healing itself through willpower (which often fails). This is the **Self** healing the ego through grace—offering a power that the ego could never generate on its own.
 
 ---
-## Shadow and Distortion
+## Fallen Aspect
 
 ### 1. Spiritual Entitlement
 
@@ -629,8 +627,7 @@ This is the **miracle worker complex**, the ego claiming credit for what is divi
 The antidote is **humility**: *"I am a vessel. Power flows through me, not from me. I am a channel, not the source."*
 
 ---
-## Practical Mysticism
-
+## Contemplative Practice
 ### How to Cultivate Relationship with the Virtues
 
 **Step 1: Grounding in Humility**

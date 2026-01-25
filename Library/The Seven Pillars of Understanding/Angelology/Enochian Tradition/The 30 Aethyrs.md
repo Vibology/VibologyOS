@@ -12,8 +12,7 @@ verification_source: "Davidson (Dictionary of Angels), Crowley (Vision and the V
 *The Celestial Spheres — From TEX to LIL, From Earth to the Throne of God*
 
 ---
-## Introduction
-
+## Essence
 The **30 Aethyrs** (also called Aires or Ethers) are concentric spheres of consciousness revealed to [[John Dee and Edward Kelley]] as part of the complete [[Enochian System Overview|Enochian system]]. Each Aethyr represents a **distinct level of reality**, ascending from the densest material manifestation (30th Aethyr, TEX) to the highest divine unity (1st Aethyr, LIL).
 
 **Key Characteristics:**
@@ -611,7 +610,7 @@ No direct astrological correspondences are canonical, though some practitioners 
 - **21-19 (ASP-POP)** — Fiery signs (Aries, Leo, Sagittarius)
 
 ---
-## The Shadow of the Aethyrs
+## Fallen Aspect
 
 ### Spiritual Bypassing
 
@@ -638,7 +637,7 @@ No direct astrological correspondences are canonical, though some practitioners 
 **Remedy:** Stop all magical work. Seek grounding practices, therapy, or experienced guidance. The Aethyrs will wait.
 
 ---
-## The Gift of the Aethyrs
+## The Gift of Integration
 
 At their highest expression, the 30 Aethyrs offer:
 

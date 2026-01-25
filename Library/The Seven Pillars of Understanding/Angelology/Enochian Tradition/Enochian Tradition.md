@@ -12,8 +12,7 @@ verification_source: "Davidson (Dictionary of Angels), DuQuette (Enochian Vision
 *The Angelic Alphabet, the Watchtowers of Creation, and the 30 Aethyrs of Consciousness*
 
 ---
-## Introduction
-
+## Essence
 The **Enochian system** is a comprehensive magical and angelological framework revealed to **Dr. John Dee** (1527-1608/9) and **Edward Kelley** (1555-1597) through intensive scrying sessions conducted between 1581 and 1585. Unlike the Pseudo-Dionysian hierarchy (which emerged from theological contemplation) or the Qabalistic attributions (which developed through centuries of mystical tradition), the Enochian system claims **direct angelic revelation**—a complete cosmology, language, hierarchy, and magical technology dictated by celestial intelligences.
 
 The system encompasses:
@@ -198,8 +197,7 @@ No direct correspondence exists, though practitioners might map:
 - **Root** to Earth Watchtower (pressure, grounding)
 
 ---
-## Practical Application
-
+## Invocation
 ### Invocation of the Watchtowers
 
 **Standard Opening Sequence:**
@@ -252,7 +250,7 @@ Each Aethyr is governed by **three angels** (except the first, LIL, which has th
 **1st Aethyr (LIL):** Occodon, Pascomb, Valgars (the highest, dwelling in Kether)
 
 ---
-## The Shadow of Enochian Magic
+## Fallen Aspect
 
 ### Warnings from the Tradition
 
@@ -364,7 +362,7 @@ While the **Enochian system** operates independently of the Qabalistic Tree, pra
 **Hybrid Rituals:** Many magicians open with the LBRP (invoking Michael, Gabriel, Raphael, Uriel) and then proceed to invoke the Enochian Watchtower Kings—layering Qabalistic protection with Enochian potency.
 
 ---
-## The Gift of Enochian Magic
+## The Gift of Integration
 
 At its highest expression, the Enochian system offers:
 

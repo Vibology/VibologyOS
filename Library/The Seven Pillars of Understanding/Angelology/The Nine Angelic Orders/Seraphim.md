@@ -20,8 +20,7 @@ hd_center: Head Center
 *The First Order of Angels — Pure Love and Primal Fire*
 
 ---
-## Foundational Material
-
+## Correspondences
 The **Seraphim** (singular: *Seraph*; Hebrew: *Chaioth ha-Qadesh*, "Holy Living Creatures") are the highest order of angels in the celestial hierarchy—the closest to God, the most absorbed in divine contemplation, the beings who exist at the threshold where created intelligence meets uncreated Being. They are called the "burning ones" (*saraph* in Hebrew means "to burn"), not because they are consumed by fire, but because they *are* fire—the primal fire of divine love, the incandescent brilliance of pure consciousness before it differentiates into thought, will, or form.
 
 Pseudo-Dionysius the Areopagite, in his foundational 6th-century text *The Celestial Hierarchy*, places the Seraphim at the apex of the ninefold angelic orders. Gustav Davidson notes that Pseudo-Dionysius established this hierarchy, describing the Seraphim as the highest order dwelling in direct contemplation of God.
@@ -97,8 +96,7 @@ The gematria (numerical value) of *Chaioth ha-Qadesh* is **453**, which reduces 
 | **Invocation** | *"Holy, Holy, Holy, Lord God Almighty"* (Trisagion) |
 
 ---
-## Practical Application
-
+## Invocation
 ### 1. Meditation and Contemplation
 
 To meditate on the Seraphim is to meditate on **pure love and primal fire**. This is not a gentle, sentimental meditation. Seraphic meditation is a **burning**—the dissolution of the ego in the overwhelming presence of divine love.
@@ -487,7 +485,7 @@ The Jungian (and mystical) goal is **integration, not identification**.
 To integrate the Seraphim is to **become a vessel** for divine love without claiming to be its source.
 
 ---
-## Shadow and Distortion
+## Fallen Aspect
 
 ### The Fall of Lucifer
 
@@ -531,8 +529,7 @@ This is the **Gnostic error**: believing that matter is evil, spirit is good, an
 True Seraphic consciousness does not flee the world—it **sanctifies** it. It brings the burning coal down to earth and touches human lips with it.
 
 ---
-## Practical Mysticism
-
+## Contemplative Practice
 ### How to Cultivate Relationship with the Seraphim
 
 The Seraphim are not invoked lightly. They are not "helpers" who make life comfortable. To call them is to ask for **purification**, which means burning.

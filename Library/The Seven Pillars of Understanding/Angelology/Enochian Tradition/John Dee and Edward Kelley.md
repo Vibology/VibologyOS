@@ -12,8 +12,7 @@ verification_source: "Davidson (Dictionary of Angels), DuQuette (Enochian Vision
 *The Magus and the Scryer — Renaissance Philosopher and Mystical Medium*
 
 ---
-## Introduction
-
+## Essence
 The [[Enochian System Overview|Enochian system]]—its language, hierarchies, cosmology, and magical technology—was not discovered through scholarship or meditation but **received through direct angelic revelation** to two men: **Dr. John Dee** (1527-1608/9) and **Edward Kelley** (1555-1597). Their partnership, spanning 1581 to 1587, produced one of the most comprehensive and controversial bodies of esoteric knowledge in Western history.
 
 **John Dee** was the architect—mathematician, astronomer, geographer, philosopher, and advisor to Queen Elizabeth I. He **interpreted** the visions, organized the material, and recorded the dialogues.
@@ -383,7 +382,7 @@ Together, they form a **syzygy** (union of opposites), necessary for the work:
 - Kelley alone could not organize or interpret them
 
 ---
-## The Shadow of Dee and Kelley
+## Fallen Aspect
 
 ### Dee's Shadow: Naivety and Spiritual Bypassing
 
@@ -404,7 +403,7 @@ Together, they form a **syzygy** (union of opposites), necessary for the work:
 **Lesson:** Even sacred work can harbor unhealthy dynamics. Discernment and boundaries are essential.
 
 ---
-## The Gift of Dee and Kelley
+## The Gift of Integration
 
 Despite ambiguities, the partnership of Dee and Kelley produced:
 

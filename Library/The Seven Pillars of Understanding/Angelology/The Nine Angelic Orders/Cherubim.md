@@ -20,8 +20,7 @@ hd_center: Ajna Center
 *Second Order of the Nine Angelic Hierarchies | First Triad: The Counselors*
 
 ---
-## Foundational Material
-
+## Correspondences
 The **Cherubim** (Hebrew: *Kerubim*, from Akkadian *karibu*; Qabalistic choir name: *Auphanim* - "Wheels" or "Whirling Forces") constitute the **second order** of the celestial hierarchy, dwelling in the **First Triad** alongside the [[Seraphim]] and [[Thrones]]. Where the Seraphim burn with pure love and primal fire, the Cherubim *know*—they are the repositories of **divine wisdom**, the architects of sacred knowledge, and the whirling intelligences who mediate between the formless light of [[Kether]] and the structured understanding of [[Binah]].
 
 ### Pseudo-Dionysius: The Celestial Hierarchy
@@ -94,8 +93,7 @@ To cultivate Cherubic consciousness is to develop **wisdom** (*Chokmah*)—not m
 | **Jungian Archetype** | The Wise Old Man, the Sage, the pattern-seeing Self |
 
 ---
-## Practical Application
-
+## Invocation
 ### Meditation and Contemplation
 
 To meditate on the Cherubim is to cultivate **the mind that sees patterns**—not the discursive, linear mind (ego-consciousness), but the **archetypal mind** that perceives the whirling wheels of causation, synchronicity, and cosmic interconnection.
@@ -608,7 +606,7 @@ This manifests as:
 True Cherubic wisdom is **grounded**—it sees patterns but does not cling to them. It knows but does not dominate. It shares freely without needing to be recognized as the source.
 
 ---
-## Shadow and Distortion
+## Fallen Aspect
 
 ### Leviathan: The Fallen Cherub
 
@@ -656,8 +654,7 @@ Another shadow is **mental paralysis**—the Ajna Center so overwhelmed by infor
 The Cherubim's wheels turn, but they turn *in harmony with divine will*. The distortion is wheels that spin endlessly without direction—overthinking, second-guessing, unable to act.
 
 ---
-## Practical Mysticism
-
+## Contemplative Practice
 ### Cultivation of Cherubic Consciousness
 
 How does one cultivate relationship with the Cherubim and integrate their intelligence?

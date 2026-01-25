@@ -20,8 +20,7 @@ hd_center: Sacral Center
 *The Eighth Order of Angels — Bearers of Divine Decrees, Heralds of Revelation, Announcers of Destiny*
 
 ---
-## Foundational Material
-
+## Correspondences
 The **Archangels** (singular: *Archangel*; Hebrew: *Beni Elohim*, "Sons of Gods") are the eighth order of angels in the celestial hierarchy, positioned at the heart of the **Third Triad** (Principalities, Archangels, Angels). They occupy a paradoxical station in the angelic economy—nominally the second-lowest rank by hierarchical number, yet functionally among the **most powerful and exalted** beings in the entire celestial structure. The term "Archangel" means "chief angel" or "great angel," and while the order as a whole ranks eighth, the individual Archangels who bear this title—**[[Michael]], [[Gabriel]], [[Raphael]], [[Uriel]]**—wield authority and influence far beyond their nominal position.
 
 The Archangels are **messengers of divine decrees**—they do not simply carry information; they **announce destiny**. They appear at pivotal moments in salvation history, bearing proclamations that alter the course of nations, civilizations, and individual souls. They are the angels of **revelation and prophecy**, the voices that speak from the burning bush, the presences that wrestle with Jacob, the heralds who announce births and deaths that reshape reality itself.
@@ -125,8 +124,7 @@ This title also evokes the **paradox of divine multiplicity**—the name *Elohim
 | **Invocation** | Prayer for clarity of vocation, revelation of purpose, courage to answer the summons |
 
 ---
-## Practical Application
-
+## Invocation
 ### 1. Meditation and Contemplation
 
 To meditate on the Archangels is to meditate on **the threshold between divine will and human response**. This is not passive contemplation—it is **active listening** for the summons that calls you by name.

@@ -11,8 +11,7 @@ category: Overview
 *The Science of Hierarchical Consciousness*
 
 ---
-## What is Angelology?
-
+## Essence
 Angelology is the **mystical science of consciousness hierarchies**—the study of angelic orders as intermediary intelligences that mediate between the infinite Divine and the finite human realm. It is not folklore or New Age sentimentality, but a rigorous theological and metaphysical framework rooted in **Pseudo-Dionysius the Areopagite's *Celestial Hierarchy***, the **Hebrew Qabalah**, **Christian mystical tradition** (Aquinas, Dante), and **scriptural revelation** (Torah, Gospels, Apocrypha, Revelation).
 
 Angels are not "helpers" who make life comfortable. They are **autonomous spiritual intelligences**—forces of consciousness operating at frequencies beyond human perception, yet intimately woven into the fabric of reality. They act as **transformers or step-down mechanisms** for divine will, refracting the infinite light of *Ein Sof* (the Limitless) into specialized functions that the cosmos—and the human psyche—can receive.
@@ -240,7 +239,7 @@ Jung writes in *Answer to Job*: *"The God-image in man was not invented, it was 
 To work with angels is to work with the **imago Dei**—the God-image within. The hierarchy of angels reflects the **hierarchy of consciousness** from the unconscious (Root/Angels) to the transpersonal (Head/Seraphim).
 
 ---
-## Shadow and Distortion: The Fallen
+## Fallen Aspect
 
 Where there is light, there is shadow. The **Qlippoth** (husks or shells) in Qabalah represent the **distorted or fallen versions** of the Sephiroth and their angelic inhabitants:
 
@@ -265,7 +264,7 @@ It answers the question: **How does divine intelligence manifest through progres
 Angelology is the **ladder** upon which the other pillars rest. It is the architecture of emanation.
 
 ---
-## Practical Mysticism: Working with Angels
+## Invocation
 
 How does one cultivate relationship with angelic intelligence?
 

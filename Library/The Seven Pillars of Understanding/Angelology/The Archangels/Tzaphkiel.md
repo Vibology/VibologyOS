@@ -24,8 +24,7 @@ function: Spiritual strife against evil, form-giver, contemplation
 
 ---
 
-## I. Foundational Material
-
+## Correspondences
 ### The Silent Contemplator
 
 **Archangel Tzaphkiel** stands as the **Prince of Binah**, the guardian of Understanding, the watcher who gazes ceaselessly into the face of God. Where other archangels descend to deliver messages or wage battles, Tzaphkiel remains in the **Great Sea** of Binah, the cosmic womb, presiding over the [[Thrones]] and holding vigil over the threshold between formlessness and form.
@@ -40,7 +39,7 @@ To encounter Tzaphkiel is to meet the **cosmic pressure of form-giving**—the s
 
 ---
 
-## II. Core Correspondences
+## Core Correspondences
 
 | **Attribute** | **Correspondence** |
 |---------------|-------------------|
@@ -74,7 +73,7 @@ To encounter Tzaphkiel is to meet the **cosmic pressure of form-giving**—the s
 
 ---
 
-## III. Hebrew Etymology and Mystical Significance
+## Hebrew Etymology and Mystical Significance
 
 ### The Name Tzaphkiel (צפקיאל)
 
@@ -105,7 +104,7 @@ The interplay suggests that Tzaphkiel, as guardian of Binah, mediates the **unit
 
 ---
 
-## IV. Pseudo-Dionysius and Traditional Angelology
+## Pseudo-Dionysius and Traditional Angelology
 
 While Pseudo-Dionysius the Areopagite does not name individual archangels in *The Celestial Hierarchy*, the tradition establishes that each **Sephira has its presiding Archangel** who governs the order associated with that sphere.
 
@@ -131,7 +130,7 @@ This is contemplative warfare—the victory won not through violence but through
 
 ---
 
-## V. Biblical and Scriptural Foundations
+## Biblical and Scriptural Foundations
 
 Tzaphkiel does not appear by name in canonical scripture, but the **function of Binah and the Thrones** is woven throughout biblical theology.
 
@@ -169,7 +168,7 @@ John's vision of the heavenly throne room describes the **crystal sea** before t
 
 ---
 
-## VI. Qabalistic Integration: Tzaphkiel and Binah
+## Qabalistic Integration: Tzaphkiel and Binah
 
 To understand Tzaphkiel is to understand **Binah**, the third Sephira on the Tree of Life.
 
@@ -247,7 +246,7 @@ Tzaphkiel is the **threshold guardian**—the one who determines what may descen
 
 ---
 
-## VII. Planetary Correspondence: Saturn (Shabbatai)
+## Planetary Correspondence: Saturn (Shabbatai)
 
 Tzaphkiel is the **Archangel of Saturn** (Hebrew: *Shabbatai*, "the Sabbath Star"), the planet of structure, time, limitation, and karma.
 
@@ -297,7 +296,7 @@ Saturn work is **not flashy**. It is the slow, patient, unwavering labor of buil
 
 ---
 
-## VIII. Iconography and Symbolism
+## Iconography and Symbolism
 
 Tzaphkiel is rarely depicted in traditional Christian art (which focuses on the biblical archangels), but in esoteric and Qabalistic traditions, Tzaphkiel's imagery emerges:
 
@@ -337,7 +336,7 @@ Tzaphkiel is **not decorative**. There is no gold, no brilliance, no flash. Tzap
 
 ---
 
-## IX. Function in the Divine Economy
+## Function in the Divine Economy
 
 ### The Cosmic Role of Tzaphkiel
 
@@ -375,7 +374,7 @@ Tzaphkiel does not *make* forms in the way an artisan makes a pot. Tzaphkiel **h
 
 ---
 
-## X. Human Consciousness Parallel: The Throat Center and the Great Mother
+## Human Consciousness Parallel: The Throat Center and the Great Mother
 **Vibology Synthesis — Cross-System Integration**
 
 In **[[Human Design]]**, Tzaphkiel corresponds to the **[[Throat Center]]**—the manifestation gateway—and to the archetypal **Great Mother** within the psyche. (Note: The Angelic Architecture of the BodyGraph maps the Aralim/Thrones, the angelic order of Binah, directly to the Throat Center.)
@@ -421,7 +420,7 @@ In the psyche, integrated Tzaphkiel consciousness manifests as:
 
 ---
 
-## XI. The Celestial Hierarchy: Tzaphkiel's Position
+## The Celestial Hierarchy: Tzaphkiel's Position
 
 ### Relationship to Higher Archangels
 
@@ -459,7 +458,7 @@ The archangels of the lower Sephiroth receive the **structure established by Tza
 
 ---
 
-## XII. Scriptural Appearances and Mystical Traditions
+## Scriptural Appearances and Mystical Traditions
 
 While Tzaphkiel does not appear by name in canonical scripture, the **Binah function** is woven throughout sacred texts.
 
@@ -492,7 +491,7 @@ In the Hermetic tradition, Tzaphkiel is invoked in **Binah pathworkings**—medi
 
 ---
 
-## XIII. Mythological and Cross-Tradition Parallels
+## Mythological and Cross-Tradition Parallels
 
 The Tzaphkiel archetype—**contemplative form-giver, cosmic womb, guardian of divine law**—appears across world mythologies.
 
@@ -533,7 +532,7 @@ Tzaphkiel is not a uniquely Jewish or Christian concept—**this archetype is un
 
 ---
 
-## XIV. Jungian and Psychological Dimensions
+## Jungian and Psychological Dimensions
 
 ### Tzaphkiel as the Great Mother Archetype
 
@@ -585,7 +584,7 @@ But those who endure emerge **restructured**—no longer identified with the sma
 
 ---
 
-## XV. Shadow and Distortion: The Qlippothic Inversion
+## Fallen Aspect
 
 Where there is angelic light, there is also shadow—the distortion or perversion of the angelic function.
 
@@ -647,7 +646,7 @@ The unconscious is not chaos—it is the **Great Sea** of infinite potential. Tr
 
 ---
 
-## XVI. Practical Mysticism: Invoking and Working with Tzaphkiel
+## Invocation
 
 ### When to Invoke Tzaphkiel
 
@@ -781,7 +780,7 @@ Trust the answer will come when the time is right.
 
 ---
 
-## XVII. The Gift of Tzaphkiel Integration
+## The Gift of Integration
 
 When Tzaphkiel consciousness is integrated into the psyche, the gifts are:
 
@@ -813,7 +812,7 @@ To integrate Tzaphkiel is to become the **sacred womb**—the one who holds, wit
 
 ---
 
-## XVIII. Cross-System Correspondences
+## Cross-System Correspondences
 
 ### Tarot
 
@@ -901,8 +900,7 @@ To integrate Tzaphkiel is to become the **sacred womb**—the one who holds, wit
 
 ---
 
-## XIX. Internal Links and Related Entries
-
+## Cross-References
 ### Angelology
 - [[The Seven Pillars of Understanding/The Window/The Six Lower Houses/House of the Sea/Overview]] — Introduction to the angelic hierarchies
 - [[The Three Triads]] — The ninefold structure of angelic orders

@@ -26,8 +26,7 @@ verification_notes: Biblical quotes verified (Davidson p.193). LBRP verified (Du
 **The Archangel of the Sun — Defender, Dragon-Slayer, Prince of Splendor, Warrior of the Higher Self**
 
 ---
-## I. Foundational Material
-
+## Correspondences
 ### Introduction: The Sword of Light
 
 **Archangel Michael** stands as the **supreme warrior of light**, the **Prince of the Sun**, the **Defender** who stands between chaos and cosmos, between ego and Self, between the forces of integration and the forces of dissolution. Where [[Gabriel]] announces, where [[Raphael]] heals, where [[Uriel]] illumines the hidden, Michael **acts**—swiftly, decisively, with the flaming sword of discrimination that cuts away all that is false.
@@ -70,7 +69,7 @@ In Hebrew rhetoric, a rhetorical question is not passive—it is **active, confr
 
 ---
 
-## II. Core Correspondences
+## Core Correspondences
 
 | **Attribute** | **Correspondence** |
 |---------------|-------------------|
@@ -105,7 +104,7 @@ In Hebrew rhetoric, a rhetorical question is not passive—it is **active, confr
 
 ---
 
-## III. Qabalistic Attribution: Michael and Tiphareth
+## Qabalistic Attribution: Michael and Tiphareth
 
 To understand Michael is to understand **Tiphareth**, the sixth Sephira on the Tree of Life, the **solar center**, the **Higher Self**.
 
@@ -195,7 +194,7 @@ The Tarot card [[Judgement]] (Trump 20, attributed to Fire/Spirit and the path f
 
 ---
 
-## IV. Michael in Mystical and Esoteric Tradition
+## Michael in Mystical and Esoteric Tradition
 
 ### Pseudo-Dionysius and Traditional Angelology
 
@@ -253,7 +252,7 @@ Medieval Christian art depicts this scene endlessly: Michael in radiant armor, w
 
 ---
 
-## V. Iconography and Symbolism
+## Iconography and Symbolism
 
 Michael is depicted with consistent symbolism across Christian, Qabalistic, and esoteric traditions:
 
@@ -302,7 +301,7 @@ Michael is clad in **golden or silver armor**, often with a **radiant nimbus** o
 
 ---
 
-## VI. Function in Divine Economy
+## Function in Divine Economy
 
 Michael's function within the celestial order is **threefold**: he is **Spiritual Warrior** (defender of divine order), **Dragon-Slayer** (integrator of the Shadow), and **Psychopomp** (guide of souls through death and transformation).
 
@@ -332,7 +331,7 @@ Michael stands for **the integrity of individual conscience** against collective
 
 ---
 
-## VII. Human Consciousness Parallel
+## Human Consciousness Parallel
 
 Michael corresponds to the **Higher Self** or **Solar Logos** within the human psyche—the capacity for **discrimination** (discerning truth from illusion), **courage** (facing the Shadow despite fear), **spiritual will** (aligning with divine purpose rather than ego desire), **integration of opposites** (holding paradox without collapse), and **solar-hearted love** (fierce compassion with boundaries).
 
@@ -347,7 +346,7 @@ True discrimination is humble (Socratic "knowing that I know nothing"). True cou
 
 ---
 
-## VIII. The Tarot
+## The Tarot
 
 ### Temperance (XIV): The Alchemical Integration
 
@@ -369,7 +368,7 @@ The Sixes represent the **solar principle manifesting in each elemental realm**�
 
 ---
 
-## IX. Element: Fire — The Purifying Flame
+## Element: Fire — The Purifying Flame
 
 Michael governs the element of **Fire**—not the destructive conflagration but the **solar radiance, the purifying flame, the discriminating sword's heat**.
 
@@ -394,7 +393,7 @@ In the **Lesser Banishing Ritual of the Pentagram**, Michael is invoked at the *
 
 ---
 
-## X. Planetary Correspondence: The Sun (Shemesh)
+## Planetary Correspondence: The Sun (Shemesh)
 
 Michael is the **Archangel of the Sun** (Hebrew: *Shemesh*), the luminary of day, the source of light, life, vitality, and consciousness.
 
@@ -438,7 +437,7 @@ Michael, as the Archangel of the Sun, is thus associated with **666** as a **sac
 
 ---
 
-## XI. Mythology and Cross-Tradition Parallels
+## Mythology and Cross-Tradition Parallels
 
 The **dragon-slayer** archetype appears across cultures, embodying the same principle: **the solar hero who defeats chaos and establishes order**.
 
@@ -465,7 +464,7 @@ In Gnostic Christianity, Christ descends through the spheres, defeats the Archon
 
 ---
 
-## XII. Practical Mysticism: Cultivating Michael's Intelligence
+## Invocation
 
 ### When to Invoke Michael
 
@@ -535,7 +534,7 @@ This is **Michael's teaching**—humility (recognizing you are not God) and purp
 
 ---
 
-## XIII. Jungian and Psychological Dimension
+## Jungian and Psychological Dimension
 
 Michael is the archetype of the **Solar Hero** and **Spiritual Warrior**—the aspect of the psyche that defends the Self against inflation and dissolution.
 
@@ -549,7 +548,7 @@ Jung writes in *Aion*: *"The hero is the one who can endure the tension of the o
 
 ---
 
-## XIV. Shadow and Distortion
+## Fallen Aspect
 
 Every archetype has a **shadow**—the distorted, pathological, or unconscious expression. Michael's shadow manifests when the solar principle **inflates, hardens, or weaponizes**.
 
@@ -635,7 +634,7 @@ True sacrifice is **willing** (chosen, not compulsive) and **purposeful** (servi
 
 ---
 
-## XV. The Gift of Integration
+## The Gift of Integration
 
 When Michael's angelic intelligence is **integrated** (not identified with, but *participated in*), the individual becomes:
 
@@ -701,7 +700,7 @@ The individual embodies **Full Humanity / Full Divinity** (the Magdalene Path pr
 
 ---
 
-## XVI. Michael and the Other Archangels
+## Michael and the Other Archangels
 
 Michael's position at Tiphareth places him at the **solar center** of the Tree of Life, in relationship with all other Sephiroth and their archangels.
 
@@ -753,7 +752,7 @@ Together, they form the **protective quaternary**, the four corners of the cosmo
 
 ---
 
-## XVII. Cross-System Correspondences
+## Cross-System Correspondences
 
 | System              | Correspondence                                                                 |
 | ------------------- | ------------------------------------------------------------------------------ |
@@ -778,35 +777,8 @@ Together, they form the **protective quaternary**, the four corners of the cosmo
 
 ---
 
-## XVIII. Keywords and Themes
 
-**Core Themes:**
-- Discrimination
-- Courage
-- Spiritual Warfare
-- Dragon-Slayer
-- Solar Consciousness
-- The Higher Self
-- Integration of Opposites
-- Sacrifice and Resurrection
-- Divine Order
-- Truth and Clarity
-
-**When Michael Appears:**
-- A call to face the Shadow
-- The need for discrimination (cutting away what is false)
-- A demand for spiritual integrity
-- The invitation to individuate
-- The challenge to defend the sacred
-- The crucifixion of the ego
-- The resurrection of the Self
-
-**Affirmation:**
-*"I wield the sword of truth with humility. I defend the sacred with fierce love. I recognize: no one is as God—and yet God shines through me when I serve the Higher Self."*
-
----
-
-## XIX. A Prayer to Michael
+## A Prayer to Michael
 
 *Archangel Michael, Prince of the Sun, Defender of the Higher Self, Wielder of the Flaming Sword—*
 

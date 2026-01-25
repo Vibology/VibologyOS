@@ -15,8 +15,7 @@ category: Overview
 **Eleven Archangelic Intelligences — Mediators Between Divine Will and Human Destiny**
 
 ---
-## Overview
-
+## Essence
 > *Vibology Synthesis: Individual archangel names and scriptural appearances are verified in the Esoteric Grimoire (Davidson). The Qabalistic Sephirothic assignments (Wang, Golden Dawn system) are verified. The eleven-archangel framework and cross-system correspondences are Vibology integrations.*
 
 The **Archangels** are the **named angels**—the individual celestial intelligences who have revealed themselves throughout sacred history, bearing specific names, functions, and personalities (Davidson, *A Dictionary of Angels*). Unlike the nine orders of angels (which represent *classes* or *types* of angelic consciousness), the Archangels are **distinct beings**, each with a unique mission, sphere of influence, and relationship to humanity.
@@ -130,7 +129,7 @@ The archangels stand at critical thresholds—birth, death, initiation, transfor
 Several archangels (Michael, Kamael, Tzaphkiel) serve as defenders of cosmic order, opposing forces of chaos, dissolution, and rebellion.
 
 ---
-## How to Work with the Archangels
+## Invocation
 
 ### Invocation
 The archangels are invoked in ceremonial magic, meditation, and prayer. The **Lesser Banishing Ritual of the Pentagram (LBRP)** establishes a sacred space by calling the four directional archangels as guardians:

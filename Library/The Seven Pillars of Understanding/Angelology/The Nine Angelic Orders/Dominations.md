@@ -20,8 +20,7 @@ hd_center: G-Center
 *The Fourth Order of Angels — Benevolent Sovereigns, Regulators of Divine Governance, Custodians of Mercy*
 
 ---
-## Foundational Material
-
+## Correspondences
 The **Dominations** (*Chashmalim*) are the fourth order in the angelic hierarchy and the **first order of the Second Triad**. Where the First Triad (Seraphim, Cherubim, Thrones) dwells in direct contemplation of God, the Second Triad **governs the cosmos**—applying divine law, distributing power, and regulating the flow of divine will through creation. The Dominations stand at the threshold of this transition, receiving the cosmic law established by the [[Thrones]] and **translating it into governance**.
 
 Gustav Davidson cites Pseudo-Dionysius the Areopagite's *The Celestial Hierarchy*:
@@ -427,7 +426,7 @@ To work with the Dominations psychologically is to cultivate:
 - **The inner sovereign** — The part of the psyche that knows its worth and does not require external validation
 
 ---
-## Shadow and Distortion: The Fallen Domination
+## Fallen Aspect
 
 Where there is angelic light, there is also the shadow—the distortion or perversion of the angelic function.
 
@@ -480,7 +479,7 @@ The true sovereign does not need to control others because he has mastered himse
 Not all "kindness" serves. Learn to withhold blessing when it would enable dysfunction, and to bestow blessing when it empowers growth.
 
 ---
-## Practical Mysticism: Cultivating Domination Consciousness
+## Invocation
 
 ### Meditation on Chesed
 
@@ -546,7 +545,7 @@ Once per lunar cycle (Full Moon), list:
 This is Domination work—learning to regulate the flow of divine abundance with wisdom.
 
 ---
-## The Gift of Domination Integration
+## The Gift of Integration
 
 When Domination consciousness is integrated into the psyche, the gift is:
 

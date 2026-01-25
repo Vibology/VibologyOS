@@ -12,8 +12,7 @@ verification_source: "Davidson (Dictionary of Angels), DuQuette (Enochian Vision
 *The Tongue of Angels — Sacred Alphabet, Divine Grammar, and the Calls of Power*
 
 ---
-## Introduction
-
+## Essence
 The **Enochian language** is a complete linguistic system—alphabet, grammar, vocabulary—revealed to [[John Dee and Edward Kelley]] by angelic beings during scrying sessions between 1582 and 1585. Unlike constructed languages (e.g., Esperanto) or cipher systems, Enochian claims to be the **original Adamic tongue**—the language spoken by the patriarch **Enoch** and **Adam** before the Fall, and by angels in the celestial realms.
 
 The language is inseparable from the **48 Enochian Keys** (also called **Calls**), which are invocations written in Enochian used to activate specific angelic forces, open [[The 30 Aethyrs]], and invoke the hierarchies of [[The Four Watchtowers]].
@@ -430,8 +429,7 @@ Some Enochian manuscripts indicate that certain Keys should be spoken **in rever
 **Modern Practice:** Most practitioners use forward order for invocation, backward for banishing, though this remains debated.
 
 ---
-## Practical Application
-
+## Invocation
 ### Opening an Enochian Ritual (Standard Sequence)
 
 **1. Banishing (LBRP):**
@@ -481,7 +479,7 @@ Some Enochian manuscripts indicate that certain Keys should be spoken **in rever
 7. Thank and release
 
 ---
-## The Shadow of the Language
+## Fallen Aspect
 
 ### Linguistic Abuse
 
@@ -565,7 +563,7 @@ Few practitioners work directly with Liber Loagaeth. Those who do often:
 - Meditate on the patterns without attempting translation
 
 ---
-## The Gift of the Enochian Language
+## The Gift of Integration
 
 At its highest expression, the Enochian language offers:
 
