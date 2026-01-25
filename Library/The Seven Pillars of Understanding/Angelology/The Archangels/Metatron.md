@@ -2,6 +2,9 @@
 tags: [angelology, archangel, metatron, kether]
 system: Angelology
 date_created: 2026-01-17
+date_updated: 2026-01-25
+verified: 2026-01-25
+verification_source: Esoteric Grimoire
 category: Individual Archangel
 archangel_name: Metatron
 hebrew_name: מטטרון
@@ -583,4 +586,36 @@ Metatron oversees this entire descent, ensuring that the **chain remains unbroke
 - **Astrology:** [[Primum Mobile]] | [[Precession of the Equinoxes]]
 - **Human Design:** [[Head Center]] | [[Gate 64]] | [[Gate 61]]
 - **Jungian Psychology:** [[Folklore/Jungian Archetypes/The Self]] | [[Individuation]] | [[Apotheosis]] | [[Imago Dei]]
+
+---
+
+## References
+
+*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
+
+**Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.
+- Metatron as "Prince of Countenances," highest angel, Chancellor of Heaven: p. 192-194
+- Metatron identified with Enoch (Genesis 5:24): p. 192
+- Etymology theories for Metatron's name: p. 192-193
+- Metatron's 72/76 names tradition: p. 193
+
+**3 Enoch** (*Sefer Hekhalot*)
+- Enoch's transformation into Metatron
+- Gematria 71 = "Lesser YAH" (verified per 3 Enoch)
+- **Note:** Gematria 314 = Shaddai cited in some sources but unverified in Esoteric Grimoire
+
+**Wang, Robert.** *The Qabalistic Tarot: A Textbook of Mystical Philosophy.* Weiser Books, 1983.
+- Metatron associated with Kether (verified)
+- Tarot correspondences for Kether (Four Aces)
+
+**The Bible**
+- Genesis 5:24: "Enoch walked with God, and he was not, for God took him"
+
+**The Zohar** (Foundational text of Qabalah)
+- Metatron references in Kabbalistic tradition (referenced in text)
+
+**Modern Sources:**
+- **Note:** "Metatron's Cube" (sacred geometry) is a modern concept, not found in classical angelology sources. Marked as Vibology Synthesis.
+
+> *Vibology Synthesis: Cross-system correspondences (Human Design Head Center, Tarot Aces, Jungian Self/Apotheosis) represent original integrative frameworks developed for this system. Metatron's Cube as sacred geometry is modern esoteric teaching, not classical angelology. The connection between Metatron and human apotheosis (Enoch's transformation) is verified in 3 Enoch but represents Vibology interpretation when mapped to Human Design and Jungian individuation.*
 
