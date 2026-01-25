@@ -2,6 +2,9 @@
 tags: [angelology, archangel, kamael, geburah, mars, severity]
 system: Angelology
 date_created: 2026-01-17
+date_updated: 2026-01-25
+verified: 2026-01-25
+verification_source: Esoteric Grimoire
 category: Individual Archangel
 archangel_name: Kamael
 hebrew_name: כמאל
@@ -662,3 +665,21 @@ In **[[Jungian psychology]]**, Kamael is the **Warrior archetype** and the **int
 ---
 
 *"The sword does not ask permission. It simply cuts what must be severed."*
+
+---
+
+## References
+
+*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
+
+**Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.
+- Kamael as "He Who Sees God," archangel of Geburah: p. 157-158
+- Kamael as Severity of God, angel of strength and courage: p. 157-158
+
+**Wang, Robert.** *The Qabalistic Tarot: A Textbook of Mystical Philosophy.* Weiser Books, 1983.
+- Kamael as archangel of Geburah
+- Seraphim as angelic choir of Geburah (distinct from Seraphim of Kether)
+- Mars/Geburah/Powers correspondences
+- Seraphim of Geburah verified as correct (not Elohim)
+
+> *Vibology Synthesis: Cross-system correspondences (Human Design Heart/Ego Center, Mars/astrology, Tarot Tower/Fives, Jungian Warrior/Sword archetype) represent original integrative frameworks. The connection between Kamael and Geburah/strength is traditional Qabalah; mapping to HD Heart Center (willpower, boundaries) and Jungian archetypes is Vibology interpretation.*

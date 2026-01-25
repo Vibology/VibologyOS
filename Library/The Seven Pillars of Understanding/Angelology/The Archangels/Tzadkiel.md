@@ -2,6 +2,9 @@
 tags: [angelology, archangel, tzadkiel, chesed, jupiter]
 system: Angelology
 date_created: 2026-01-17
+date_updated: 2026-01-25
+verified: 2026-01-25
+verification_source: Esoteric Grimoire
 category: Individual Archangel
 archangel_name: Tzadkiel
 hebrew_name: צדקיאל
@@ -990,3 +993,19 @@ To integrate Tzadkiel is to become the **generous king**—the one who blesses, 
 ---
 
 *"I am Tzadkiel, the Righteousness of God. I sit upon the throne of Chesed, the sphere of mercy, and I pour forth blessing without end. My hand is always open, never clenched. My sovereignty is service, my authority is empowerment, my wealth is shared abundance. I do not rule through fear but through love. I do not hoard but overflow. I do not judge harshly but forgive generously. Come to me, and I shall bless you—not because you have earned it, but because blessing is my nature. I am the rain that falls on all, the sun that rises without discrimination, the grace that seeks nothing but to pour itself forth. Claim your throne. Know your worth. Receive the blessing. Give from overflow. This is the way of sovereignty. This is the path of Chesed. So be it."*
+
+---
+
+## References
+
+*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
+
+**Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.
+- Tzadkiel as "Righteousness of God," archangel of Chesed: p. 296
+
+**Wang, Robert.** *The Qabalistic Tarot: A Textbook of Mystical Philosophy.* Weiser Books, 1983.
+- Tzadkiel as archangel of Chesed
+- Chashmalim (Dominations) as angelic choir of Chesed
+- Jupiter/Chesed/Dominations correspondences
+
+> *Vibology Synthesis: Cross-system correspondences (Human Design G-Center, Jupiter/astrology, Tarot Emperor/Fours, Jungian Sovereign/Wise Father) represent original integrative frameworks. The connection between Tzadkiel and Chesed/mercy is traditional Qabalah; mapping to HD G-Center (identity, love, direction) and Jungian archetypes is Vibology interpretation.*
