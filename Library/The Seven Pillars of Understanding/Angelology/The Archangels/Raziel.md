@@ -2,6 +2,9 @@
 tags: [angelology, archangel, raziel, chokmah, wisdom]
 system: Angelology
 date_created: 2026-01-17
+date_updated: 2026-01-25
+verified: 2026-01-25
+verification_source: Esoteric Grimoire
 category: Individual Archangel
 archangel_name: Raziel
 hebrew_name: רזיאל
@@ -435,3 +438,26 @@ Not fortune-telling, but the capacity to speak the **pattern** that is unfolding
 - [[Qlippoth]] — Shadow tree, Ghagiel as distortion of Chokmah
 - [[Individuation]] — Jungian process of integrating the Self
 - [[Gnosis]] — Direct knowing, unmediated revelation
+
+---
+
+## References
+
+*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
+
+**Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.
+- Raziel as "Secret of God," angel of mysteries: p. 245-246
+- *Sepher Raziel* tradition: p. 245-246
+
+**Wang, Robert.** *The Qabalistic Tarot: A Textbook of Mystical Philosophy.* Weiser Books, 1983.
+- Raziel associated with Chokmah
+- Aralim (Thrones) as angelic choir of Chokmah
+
+**The Zohar** (Foundational text of Qabalah)
+- Raziel and Chokmah correspondences (referenced in text)
+
+**Medieval Grimoires:**
+- *Sepher Raziel HaMalakh* (Book of Raziel the Angel)
+- **Note:** Specific attributions referenced but not directly verified in Esoteric Grimoire
+
+> *Vibology Synthesis: Cross-system correspondences (Human Design Ajna Center, Tarot High Priestess, Uranus/Neptune, Jungian Wise Old Man) represent original integrative frameworks. The connection between Raziel and wisdom/mysteries is traditional angelology; mapping to HD Ajna and Jungian archetypes is Vibology interpretation.*
