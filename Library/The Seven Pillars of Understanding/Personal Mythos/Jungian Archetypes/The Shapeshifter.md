@@ -27,7 +27,7 @@ The Shapeshifter's psychological function is to **destabilize the status quo**. 
 
 Jung writes in *The Archetypes and the Collective Unconscious* (CW 9i, par. 469):
 
-> "The unconscious is not a thing; it is a process. It is always in flux, always transforming, always shapeshifting between forms."
+> "The unconscious is not a thing; it is a process. It is always in flux, always transforming, always shapeshifting between forms."[^1]
 
 The Shapeshifter is the **personification of this flux**. It is the archetype that reminds the ego that nothing is permanent—not identity, not morality, not even the self.
 
@@ -279,7 +279,7 @@ The Shapeshifter is the **primary quality** of the projected [[Anima]] (in men) 
 
 Jung writes in *Aion* (CW 9ii, par. 33):
 
-> "The anima is bipolar and can therefore appear positive one moment and negative the next; now young, now old; now mother, now maiden; now a good fairy, now a witch; now a saint, now a whore."
+> "The anima is bipolar and can therefore appear positive one moment and negative the next; now young, now old; now mother, now maiden; now a good fairy, now a witch; now a saint, now a whore."[^2]
 
 This is the Shapeshifter in full expression—the soul-image refuses to be fixed because **it is not a person but an archetype**. The ego projects it onto real people, then suffers when those people "change" (i.e., when the projection shifts).
 
@@ -436,7 +436,7 @@ This **provokes anxiety**. The ego responds in several ways:
 
 Jung writes in *Psychological Types* (CW 6, par. 169):
 
-> "The capacity to hold the tension of opposites without collapsing into one-sidedness is the mark of psychological maturity."
+> "The capacity to hold the tension of opposites without collapsing into one-sidedness is the mark of psychological maturity."[^3]
 
 The Shapeshifter is the **teacher of this capacity**. It forces the ego to develop tolerance for paradox.
 
@@ -502,7 +502,7 @@ Mercurius is described in paradoxical terms:
 
 Jung recognized Mercurius as **the archetype of the unconscious**—fluid, paradoxical, and shapeshifting. In *The Spirit Mercurius* (CW 13), he writes:
 
-> "Mercurius is the divine winged Hermes... the soul of the world, the filius macrocosmi... He is metallic yet liquid, matter yet spirit, cold yet fiery, poison yet healing draught."
+> "Mercurius is the divine winged Hermes... the soul of the world, the filius macrocosmi... He is metallic yet liquid, matter yet spirit, cold yet fiery, poison yet healing draught."[^4]
 
 **The alchemical process:**
 1. **Capture Mercurius:** Like Proteus, Mercurius must be "caught" and held through its transformations. This is the **descent into the unconscious**—engaging the chaos without being overwhelmed.
@@ -683,7 +683,7 @@ Finally, the Shapeshifter teaches that **transformation is not a one-time event 
 
 Jung writes:
 
-> "The psyche is a self-regulating system that maintains itself in equilibrium as the body does. Every process that goes too far immediately and inevitably calls forth compensations... The shuttling to and fro of arguments and affects represents the transcendent function of opposites. The confrontation of the two positions generates a tension charged with energy and creates a living, third thing."
+> "The psyche is a self-regulating system that maintains itself in equilibrium as the body does. Every process that goes too far immediately and inevitably calls forth compensations... The shuttling to and fro of arguments and affects represents the transcendent function of opposites. The confrontation of the two positions generates a tension charged with energy and creates a living, third thing."[^5]
 
 The Shapeshifter is the **living, third thing**—the transformation that emerges when the ego stops resisting and **enters the dance**.
 
@@ -815,3 +815,43 @@ The alchemical **Rebis** (the hermaphrodite, the two-in-one) is the ultimate sym
 - **Individuation** - The Shapeshifter destabilizes fixed identity to force transformation
 - **Anima/Animus** - The soul-images shapeshift before integration; become stable guides after
 - **Discernment** - The gift of the integrated Shapeshifter; seeing clearly through ambiguity
+
+---
+
+## Sources
+
+[^1]: Jung, C.G. *The Archetypes and the Collective Unconscious*. Collected Works Vol. 9i, par. 469. Princeton University Press.
+
+[^2]: Jung, C.G. *Aion: Researches into the Phenomenology of the Self*. Collected Works Vol. 9ii, par. 33. Princeton University Press.
+
+[^3]: Jung, C.G. *Psychological Types*. Collected Works Vol. 6, par. 169. Princeton University Press.
+
+[^4]: Jung, C.G. *Alchemical Studies*. Collected Works Vol. 13 ("The Spirit Mercurius"). Princeton University Press.
+
+[^5]: Jung, C.G. *The Structure and Dynamics of the Psyche*. Collected Works Vol. 8 (on the transcendent function). Princeton University Press.
+
+**Additional References:**
+
+- Jung, C.G. *Symbols of Transformation*. Collected Works Vol. 5. Princeton University Press. (Mythological transformation and shapeshifting)
+- Jung, C.G. *Psychology and Alchemy*. Collected Works Vol. 12. Princeton University Press. (Mercurius as shapeshifting principle)
+- Jung, C.G. *Mysterium Coniunctionis*. Collected Works Vol. 14. Princeton University Press. (Union of opposites, coniunctio)
+- Edinger, Edward F. *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy*. Open Court, 1985. (Mercurius, transformation)
+- Vogler, Christopher. *The Writer's Journey: Mythic Structure for Writers*. Michael Wiese Productions, 1998. (Shapeshifter as character archetype in storytelling)
+- Campbell, Joseph. *The Hero with a Thousand Faces*. Princeton University Press, 1949. (Shapeshifter in the hero's journey)
+- Turner, Victor. *The Ritual Process: Structure and Anti-Structure*. Aldine Publishing, 1969. (Liminality, threshold states)
+- Woodman, Marion and Elinor Dickson. *Dancing in the Flames: The Dark Goddess in the Transformation of Consciousness*. Shambhala, 1996. (Transformation, feminine shapeshifting)
+- Hillman, James. *Re-Visioning Psychology*. Harper & Row, 1975. (Archetypal psychology, soul as shapeshifter)
+- von Franz, Marie-Louise. *The Feminine in Fairy Tales*. Spring Publications, 1972. (Anima shapeshifting in folklore)
+- von Franz, Marie-Louise. *Shadow and Evil in Fairy Tales*. Spring Publications, 1974. (Shadow shapeshifter figures)
+- Mythology sources:
+  - Greek: Ovid's *Metamorphoses* (transformations of gods and mortals), Homer's *Odyssey* (Proteus, Circe)
+  - Norse: *Poetic Edda*, *Prose Edda* (Loki's transformations)
+  - Celtic: Irish mythology (selkies, pookas, changelings), Welsh *Mabinogion* (Ceridwen, Taliesin)
+  - Japanese: Kitsune mythology collections, folkloric studies
+  - Native American: Navajo skinwalker traditions (anthropological sources)
+- Grimm, Jacob and Wilhelm. *The Complete Grimms' Fairy Tales*. Pantheon Books, 1972. (The Frog King, Beauty and the Beast, Puss in Boots)
+- von Franz, Marie-Louise. *The Interpretation of Fairy Tales*. Shambhala, 1996.
+- Perrault, Charles. *The Complete Fairy Tales*. Trans. Christopher Betts. Oxford World's Classics, 2009. (Beauty and the Beast)
+- Keats, John. *Selected Letters*. Ed. Robert Gittings. Oxford University Press, 2002. (Negative Capability concept)
+- Eliade, Mircea. *Shamanism: Archaic Techniques of Ecstasy*. Princeton University Press, 1964. (Shamanic transformation)
+- Cirlot, J.E. *A Dictionary of Symbols*. Philosophical Library, 1962. (Transformation symbolism)
