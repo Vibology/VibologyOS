@@ -50,9 +50,7 @@ Kamael is not a comforting presence. He does not soothe, heal, or console. Kamae
 
 In the structure of the [[Tree of Life]], **[[Geburah]]** is the **Left Pillar of Severity**, the balancing force to [[Chesed]] (Mercy/Expansion) on the Right Pillar. Where Chesed is the benevolent king who gives freely, Geburah is the stern judge who *withholds*, who says "No," who establishes boundaries through force.
 
-**Dion Fortune** writes in *The Mystical Qabalah*:
-
-> "Geburah is the sphere of Mars, of the warrior, of the surgeon. It is the sphere where the diseased tissue is cut away, where the useless branch is pruned, where the unfit are eliminated. It is not cruelty—it is *necessity*. Without Geburah, Chesed becomes sentimentality and weakness. Without the sword, there can be no justice."
+In Qabalistic teaching, Geburah is understood as the sphere of Mars, of the warrior, of the surgeon—where diseased tissue is cut away, where the useless branch is pruned. It is not cruelty but *necessity*. Without Geburah, Chesed becomes sentimentality and weakness. Without the sword, there can be no justice.
 
 Kamael, as the archangel of Geburah, is the intelligence through which this **necessary severity** operates. He is not cruel—he is *clear*. He does not destroy for pleasure but for *function*. The cancer must be removed. The rotted foundation must be torn down. The false self must die that the true Self might emerge.
 
@@ -202,9 +200,7 @@ Kamael's cosmic function is the **maintenance of divine order through force**. W
 
 ### The Cosmic Pruner
 
-**Dion Fortune** uses the metaphor of the gardener:
-
-> "Geburah is the sphere of the gardener who prunes the tree so it may bear more fruit. The gardener does not hate the branch he cuts—he loves the tree. The branch that is severed is not punished—it is *released* from a structure it could no longer serve."
+The traditional metaphor for Geburah is the gardener who prunes the tree so it may bear more fruit. The gardener does not hate the branch he cuts—he loves the tree. The branch that is severed is not punished—it is *released* from a structure it could no longer serve.
 
 Kamael prunes the Tree of Life itself. Every soul that clings to what is dead must be cut free. Every structure that has calcified must be shattered.
 
@@ -489,9 +485,7 @@ Where Kamael burns away the false, Golachab burns for the pleasure of watching t
 
 Like [[Raziel]]'s shadow (intellectual inflation), Kamael's shadow is **pride in power**. This is the **Luciferian fall**—the belief that "I am strong, therefore I am right. I am powerful, therefore I am God."
 
-**Dion Fortune** warns:
-
-> "The soul that ascends to Geburah unprepared will become a tyrant. The ego that wields the sword without love becomes a destroyer. Geburah without Chesed is hell."
+Qabalistic teaching warns: The soul that ascends to Geburah unprepared may become a tyrant. The ego that wields the sword without love becomes a destroyer. Geburah without Chesed is hell.
 
 The integrated warrior *serves*. The inflated tyrant *dominates*.
 
@@ -552,13 +546,17 @@ In **[[Astrology]]**, Kamael governs **Mars** (♂)—the planet of drive, aggre
 
 When Mars is well-aspected in the natal chart, the individual has access to **healthy aggression**—they can assert, defend, compete, and act decisively. When Mars is afflicted (square, opposition, in fall or detriment), the individual may struggle with rage, violence, self-sabotage, or paralysis.
 
-### Tarot: The Fives and The Tower
+### Tarot
 
-**[[The Tarot]]** Fives and The Tower are Kamael's domain. Every time a Five appears in a reading, Kamael is at work—testing, challenging, stripping away illusion. The Tower is his ultimate teaching: **What must fall, will fall. Resistance is futile.**
+**Verified per Wang:**
+- **The Four Fives** — Geburah's number, representing opposition, strife, and struggle
 
-### Human Design: The Solar Plexus and Sacral
+**Thematic Association (Vibology Synthesis):**
+- **[[The Tower]]** (XVI) — Sudden destruction, necessary collapse (thematic link to Mars/Geburah energy)
 
-In **[[Human Design]]**, Kamael corresponds to the **Solar Plexus Center** (emotional authority, the wave, passion) and the **Sacral Center** (life force, sexuality, generative power). Gates 6, 37, 22, 36, 30 (emotional wave) and Gates 5, 14, 29, 59, 27 (sacral power) carry Kamael's frequency.
+### Human Design (Vibology Synthesis)
+
+Kamael corresponds to the **Solar Plexus Center** (emotional authority, the wave, passion) and the **Sacral Center** (life force, sexuality, generative power). Gates 6, 37, 22, 36, 30 (emotional wave) and Gates 5, 14, 29, 59, 27 (sacral power) carry Kamael's frequency.
 
 ### Gene Keys: The Reactive Gene Keys
 
