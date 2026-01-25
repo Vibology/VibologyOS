@@ -466,7 +466,30 @@ chart.makeSVG(minify=False, remove_css_variables=True)
 
 ## Available Work Paths
 
-### Priority 1: Prima Materia Verification
+### Priority 1: Library Format Standardization
+**Status:** 🆕 **IN PROGRESS** - Semantic Section System implemented
+**Created:** 2026-01-25
+**Goal:** Unify page formatting across all 643 Library entries while preserving pillar-specific voice
+
+**Deliverables Created:**
+- ✅ `SEMANTIC-SECTION-SYSTEM.md` — Master specification document
+- ✅ `_TEMPLATE - Library Entry.md` — Universal entry template
+- ✅ 7 Pillar Manifests defining approved section names per pillar
+
+**The Semantic Rhythm:**
+```
+OPENING → DATA → DEPTH → SHADOW → PRACTICE → LINKS → SOURCES
+```
+
+**Next Steps:**
+1. Audit existing files against pillar manifests
+2. Identify non-conforming files by pillar
+3. Remediate in batches (pillar by pillar)
+4. Update Protocol documents to reference new standards
+
+---
+
+### Priority 2: Prima Materia Verification (ARCHIVED)
 **Status:** 🎉 **COMPLETE** - ALL 643 LIBRARY FILES VERIFIED (100%)
 **Progress:** 643/643 files verified (100.0%) ✅ **VERIFICATION PROJECT COMPLETE**
 **Archived:** January 25, 2026 → `.archive/Prima Materia Verification (2025-2026)/`
