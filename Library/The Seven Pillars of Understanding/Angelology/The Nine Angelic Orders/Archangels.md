@@ -2,6 +2,9 @@
 tags: [angelology, hierarchy, archangels, third-triad]
 system: Angelology
 date_created: 2026-01-17
+date_updated: 2026-01-25
+verified: 2026-01-25
+verification_source: Esoteric Grimoire
 category: Angelic Order
 order_number: 8
 order_name: Archangels
@@ -483,6 +486,32 @@ The individual becomes a **channel** through which divine will flows into the wo
 - **Astrology:** [[Astrology/Planets/Mercury # ☿]] | [[Gemini ♊]] | [[Virgo ♍]]
 - **Human Design:** [[Sacral Center]] | [[Gate 5]] | [[Gate 14]] | [[Gate 29]] | [[Generator]] | [[Manifesting Generator]]
 - **Jungian Psychology:** [[Vocation]] | [[Individuation]] | [[Folklore/Jungian Archetypes/The Self]] | [[The Voice]] | [[Numinous Encounter]]
+
+---
+
+## References
+
+*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
+
+**Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.
+- Pseudo-Dionysius on Archangels as bearers of divine decrees: referenced in text
+- Archangels as "divine messengers" in hierarchy: p. 55-56
+
+**Wang, Robert.** *The Qabalistic Tarot: A Textbook of Mystical Philosophy.* Weiser Books, 1983.
+- Hod angelic choir: Beni Elohim ("Sons of God")
+- Mercury/Hod correspondence for Archangels
+
+**The Bible** (New International Version, English Standard Version)
+- Luke 1:26-38: Gabriel's Annunciation to Mary
+- Daniel 8:15-17, 9:21-23, 10:5-14: Gabriel's revelations to Daniel
+- Revelation 12:7-9: Michael's war in heaven
+- Jude 1:9: Michael disputing with Satan over Moses' body
+- 1 Thessalonians 4:16: Archangel's voice at the resurrection
+
+**Pseudo-Dionysius the Areopagite.** *The Celestial Hierarchy* (6th century, cited via Davidson)
+- Archangels as divine messengers bearing decrees (referenced in text)
+
+> *Vibology Synthesis: Cross-system correspondences (Human Design Sacral Center, Mercury/Hod associations, Tarot Magician/Eights, Jungian individuated will) represent original integrative frameworks developed for this system. The Sacral Center correspondence (life force, response, generative power) synthesizes Human Design mechanics with angelic hierarchy.*
 
 ---
 
