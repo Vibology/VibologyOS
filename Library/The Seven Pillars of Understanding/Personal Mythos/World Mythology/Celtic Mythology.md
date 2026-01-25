@@ -2,6 +2,7 @@
 tags: [folklore, mythology, celtic, archetypes, arthurian, sovereignty]
 system: Personal Mythos
 date_created: 2026-01-18
+date_updated: 2026-01-25
 source_verified: synthesis
 verification_date: 2026-01-23
 grimoire_source: "Mythology reference sources (tradition-specific)"
@@ -828,6 +829,22 @@ The **Grail/Cauldron** is the **alembic**—the vessel where all operations occu
 7. **Arthur's Return:** The recognition that the Self (meaning, purpose, wholeness) does not die but *sleeps*, waiting for the right time (kairos) to re-emerge—*without* forcing, despairing, or clinging.
 
 **The ultimate Celtic lesson:** The Grail is not *possessed* but *served*. Sovereignty is not *taken* but *granted*. Wholeness is not *achieved* but *asked for*—and it answers.
+
+---
+
+## References
+
+**Jungian Analytical Psychology:**
+- Jung, C.G. *Psychology and Alchemy* (CW 12). Princeton University Press, 1953.
+- Jung, C.G. *The Archetypes and the Collective Unconscious* (CW 9i). Princeton University Press, 1959.
+- Jung, C.G. *Symbols of Transformation* (CW 5). Princeton University Press, 1956.
+- Campbell, Joseph. *The Masks of God: Occidental Mythology*. Viking Press, 1964.
+
+**Primary Celtic Sources:**
+Core mythological narratives (cosmology, pantheon, Grail Quest, and hero cycles) are drawn from canonical Celtic sources including the *Lebor Gabála Érenn* (Book of Invasions), *Táin Bó Cúailnge*, *Mabinogion*, Arthurian Romances (Chrétien de Troyes, Wolfram von Eschenbach's *Parzival*), and Irish/Welsh/Scottish folklore traditions. These medieval texts preserve pre-Christian Celtic mythology and inform the archetypal framework.
+
+**Vibrology Synthesis:**
+All Jungian archetypal analysis (interpreting Celtic myths through the lens of Shadow, Anima/Animus, Self, Individuation, etc.) represents scholarly synthesis rather than medieval Celtic understanding. Cross-system correspondences (Tarot, Astrology, Alchemy, Human Design, Qabalah) are Vibrology's integrative framework, not part of the original mythological tradition. The alchemical correlations (Nigredo, Albedo, Citrinitas, Rubedo) apply Renaissance hermetic symbolism to Celtic narrative patterns. The Grail's interpretation as individuation symbol is modern Jungian scholarship, not medieval theology.
 
 ---
 

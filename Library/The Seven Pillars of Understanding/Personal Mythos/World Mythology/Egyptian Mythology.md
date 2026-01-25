@@ -2,6 +2,7 @@
 tags: [folklore, mythology, egyptian, archetypes, osiris, maat]
 system: Personal Mythos
 date_created: 2026-01-18
+date_updated: 2026-01-25
 source_verified: synthesis
 verification_date: 2026-01-23
 grimoire_source: "Mythology reference sources (tradition-specific)"
@@ -995,6 +996,21 @@ The physical mummification mirrors the psychic work:
 
 **The ultimate Egyptian lesson:**
 Death is transformation, not annihilation. The Self (Ra, Osiris, Akh) is indestructible—it cycles through dissolution and reconstitution eternally. The ego's task is to *align* with this cycle (Ma'at), not resist it. To become Akh is to know: "I am not the ego that dies, but the Self that transforms."
+
+---
+
+## References
+
+**Jungian Analytical Psychology:**
+- Jung, C.G. *Symbols of Transformation* (CW 5). Princeton University Press, 1956.
+- Jung, C.G. *The Archetypes and the Collective Unconscious* (CW 9i). Princeton University Press, 1959.
+- Jung, C.G. *Psychology and Alchemy* (CW 12). Princeton University Press, 1953.
+
+**Primary Egyptian Sources:**
+Core mythological narratives (cosmology, pantheon, Osirian cycle, Ra's journey, and funerary practices) are drawn from canonical ancient Egyptian sources including the *Pyramid Texts*, *Coffin Texts*, *Book of the Dead* (Book of Coming Forth by Day), *Amduat* (Book of What Is in the Underworld), and *Book of Gates*. These texts span millennia of Egyptian religious tradition and inform the archetypal framework.
+
+**Vibrology Synthesis:**
+All Jungian archetypal analysis (interpreting Egyptian myths through the lens of Shadow, Anima/Animus, Self, Individuation, etc.) represents scholarly synthesis rather than ancient Egyptian understanding. Cross-system correspondences (Tarot, Astrology, Alchemy, Human Design, Qabalah) are Vibrology's integrative framework, not part of the original mythological tradition. The alchemical correlations (Nigredo, Albedo, Citrinitas, Rubedo, mummification as alchemical process) apply Renaissance hermetic symbolism to Egyptian narrative patterns. Egyptian cosmology deeply influenced Western alchemy, but the explicit connections drawn here are modern interpretive additions.
 
 ---
 

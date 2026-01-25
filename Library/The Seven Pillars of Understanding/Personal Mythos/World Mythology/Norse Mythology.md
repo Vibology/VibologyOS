@@ -2,6 +2,7 @@
 tags: [folklore, mythology, norse, archetypes, odin, ragnarok]
 system: Personal Mythos
 date_created: 2026-01-18
+date_updated: 2026-01-25
 source_verified: synthesis
 verification_date: 2026-01-23
 grimoire_source: "Mythology reference sources (tradition-specific)"
@@ -869,6 +870,21 @@ Jung: *"Odin is the god of poets, the dead, and the hanged—those who have pass
 8. **Baldr's Return:** Innocence integrated with experience, the Divine Child reborn after the fire—*without* naivety, inflation, or regression. Purity tempered by wisdom.
 
 **The ultimate Norse lesson:** Fate (wyrd) is woven. Death (personal and cosmic) is inevitable. Yet **how you meet fate defines you**. Courage, honor, wisdom, and relationship are meaningful *because* they do not guarantee survival. The gods die at Ragnarök, but they die on their feet, weapons in hand, defiant and whole. This is the gift—**existential courage in the face of entropy**.
+
+---
+
+## References
+
+**Jungian Analytical Psychology:**
+- Jung, C.G. "Wotan." In *Civilization in Transition* (CW 10). Princeton University Press, 1964.
+- Jung, C.G. *The Archetypes and the Collective Unconscious* (CW 9i). Princeton University Press, 1959.
+- Jung, C.G. *Symbols of Transformation* (CW 5). Princeton University Press, 1956.
+
+**Primary Norse Sources:**
+Core mythological narratives (cosmology, pantheon, Ragnarök, runes, and hero cycles) are drawn from canonical Old Norse sources including the *Poetic Edda*, *Prose Edda* (Snorri Sturluson), *Völuspá*, *Hávamál*, and Icelandic sagas. These medieval texts preserve pre-Christian Germanic and Scandinavian mythology and inform the archetypal framework.
+
+**Vibrology Synthesis:**
+All Jungian archetypal analysis (interpreting Norse myths through the lens of Shadow, Anima/Animus, Self, Individuation, etc.) represents scholarly synthesis rather than medieval Norse understanding. Cross-system correspondences (Tarot, Astrology, Alchemy, Human Design, Qabalah) are Vibrology's integrative framework, not part of the original mythological tradition. The alchemical correlations (Nigredo, Albedo, Citrinitas, Rubedo) apply Renaissance hermetic symbolism to Norse narrative patterns. Rune correspondences to psychological functions are modern interpretive additions.
 
 ---
 
