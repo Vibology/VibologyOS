@@ -2,7 +2,9 @@
 tags: [magdalene-path, mary-magdalene, apostle, koinonos, sophia, witness, anointer, sacred-feminine, gnostic, wisdom-gospels]
 system: The Magdalene Path
 date_created: 2026-01-18
-date_updated: 2026-01-18
+date_updated: 2026-01-24
+verified: 2026-01-24
+verification_source: Esoteric Grimoire
 category: Archetype
 ---
 *Witness, Anointer, Beloved, and Apostle to the Apostles*
@@ -38,13 +40,15 @@ The New Testament mentions multiple Marys:
 
 **The Problem:** These figures are **distinct** in the earliest texts. Mary Magdalene is never called a prostitute in the canonical gospels.
 
-### Pope Gregory I's Conflation (591 CE)
+### Pope Gregory I's Conflation (594 CE)
 
-In a sermon delivered on September 14, 591 CE, **Pope Gregory the Great** declared:
+In **Homily 33** (594 CE), **Pope Gregory the Great** declared:
 
-> "She whom Luke calls the sinful woman, whom John calls Mary [of Bethany], we believe to be the Mary from whom seven devils were ejected according to Mark."
+> "She whom Luke calls the sinful woman, whom John calls Mary [of Bethany], we believe to be the Mary from whom seven devils were ejected according to Mark. And what did these seven demons signify if not all the vices?"
 
-**The Result:** Three (possibly four) separate women were collapsed into **one figure**—Mary Magdalene, the "penitent prostitute." This myth dominated Western Christianity for 1,400 years.
+(Bourgeault, 2010)
+
+**The Result:** Three (possibly four) separate women were collapsed into **one figure**—Mary Magdalene, the "penitent prostitute." This myth dominated Western Christianity for over 1,300 years.
 
 **Why It Happened:**
 - **Patriarchal Anxiety:** A woman of authority and intimacy with Jesus threatened hierarchical power
@@ -145,7 +149,7 @@ Mary is commissioned to **announce the Good News** to the apostles—thus earnin
 
 ### The Gospel of Mary (2nd Century, Berlin Codex)
 
-Discovered in 1896, the **Gospel of Mary** (Coptic text, likely translated from Greek) presents Mary Magdalene as the disciple who **understands the nous** (mind/heart as organ of spiritual perception) and receives private teaching from Jesus.
+Discovered in 1896, the **Gospel of Mary** (Coptic text, likely translated from Greek) presents Mary Magdalene as the disciple who **understands the nous** (mind/heart as organ of spiritual perception) and receives private teaching from Jesus. Preserved in the Berlin Gnostic Codex (BG 8502,1), the original Greek text dates to the first half of the 2nd century (King, *The Gospel of Mary of Magdala*, 2003; cited in Bourgeault).
 
 **Key Passages:**
 
@@ -177,7 +181,7 @@ Mary recounts a vision Jesus gave her about the **soul's ascent through the seve
 
 ### The Gospel of Philip (3rd Century, Nag Hammadi)
 
-The **Gospel of Philip** (Coptic, from Nag Hammadi library discovered 1945) presents Mary Magdalene as Jesus' **koinonos** (κοινωνός) and introduces the **Bridal Chamber** as the central sacrament.
+The **Gospel of Philip** (Coptic, from Nag Hammadi Codex II,3, discovered 1945) presents Mary Magdalene as Jesus' **koinonos** (κοινωνός) and introduces the **Bridal Chamber** as the central sacrament. The text is likely a translation of a Greek original written in the second half of the 3rd century CE, probably in Syria (Bourgeault, 107).
 
 **Key Passages:**
 
@@ -216,7 +220,9 @@ In ancient Near Eastern tradition, a kiss on the mouth was a **transmission of b
 
 **The Teaching:** The separation of masculine and feminine (within the individual soul) is the origin of death (ego/separation). **Singleness** (making male and female one within) is the restoration of the Primal State—no longer split, no longer in exile.
 
-### The Gospel of Thomas (2nd Century, Nag Hammadi)
+### The Gospel of Thomas (1st–2nd Century, Nag Hammadi)
+
+Found in Nag Hammadi Codex II,2, the Gospel of Thomas is considered one of the earliest non-canonical texts, potentially contemporaneous with the "Q" source (50–125 CE).
 
 **Logion 114:**
 
@@ -224,7 +230,7 @@ In ancient Near Eastern tradition, a kiss on the mouth was a **transmission of b
 
 **Traditional Reading (Patriarchal):** Women must become like men to be saved.
 
-**Esoteric Reading:** "Male" (in Syriac/Aramaic usage) refers to **singleness** (ihidaya)—internal wholeness. Mary must **integrate** her inner masculine (logos, structure, direction) with her feminine (eros, flow, wisdom). This is not about gender but about **psychospiritual integration**.
+**Esoteric Reading:** Bourgeault interprets "male" (in Syriac/Aramaic usage) as referring to **singleness** (ihidaya)—internal wholeness, not a literal sex change but transformation into a "living spirit" or *anthropos* (Bourgeault, 97). Mary must **integrate** her inner masculine (logos, structure, direction) with her feminine (eros, flow, wisdom). This is not about gender but about **psychospiritual integration**.
 
 **The Teaching:** Only the **Single One** (ihidaya)—internally whole, masculine and feminine united—can "enter the Kingdom" (Bridal Chamber, Zenith).
 
@@ -357,5 +363,37 @@ Mary is the **model of the path**:
 - [[The Universe]] (Tarot XXI) - Completion and sanctification
 - [[Jungian Archetypes#The Anima]] - Mary as archetypal feminine
 - [[Inner Authority and Strategy]] - Mary's somatic gnosis
+
+---
+
+## References
+
+*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
+
+Bourgeault, Cynthia. *The Meaning of Mary Magdalene: Discovering the Woman at the Heart of Christianity*. Boston: Shambhala, 2010.
+- Mary as koinonos: p. 107
+- Ihidaya / "make her male" interpretation: p. 97
+- Pope Gregory I / Homily 33 (594 CE): cited throughout
+- Bourgeault cites Karen King on dating of Gospel of Mary
+
+Gospel of Mary. Berlin Gnostic Codex (BG 8502,1). 2nd century CE.
+- Mary calms the disciples (5:1-9)
+- Peter's challenge (9:3-10)
+- Vision of ascent through seven powers (10-17)
+
+Gospel of Philip. Nag Hammadi Codex II,3. 3rd century CE (Syria).
+- Mary as koinonos (63:30-64:10)
+- The "kiss" passage (transmission of pneuma)
+- Three chambers: Baptism, Redemption, Bridal Chamber (69:14-70:4)
+- Male and female becoming one (67:30-35)
+
+Gospel of Thomas. Nag Hammadi Codex II,2. 1st–2nd century CE.
+- Logion 114: "make her male"
+
+**Biblical References:**
+- Luke 8:1-3: Mary and the seven demons
+- Mark 15:40-41, John 19:25: Mary at the crucifixion
+- Mark 15:47, John 19:39-42: Mary at the burial
+- John 20:11-18: Mary as first witness to resurrection
 
 ---
