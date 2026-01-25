@@ -10,6 +10,9 @@ centers: [G (Identity), Throat]
 circuitry: Collective (Logic/Understanding Circuit)
 keynote: Leadership (Good or Bad) - Democratic Election by the Majority
 type: Projected Channel
+verified: true
+verification_date: 2026-01-25
+source_verified: Esoteric Grimoire
 ---
 # Channel 7-31
 *The Alpha (Leadership)*
@@ -370,6 +373,18 @@ Jung's process of individuation requires **recognizing the difference between eg
 - [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
 - [[Waiting for Recognition]] — Leading only when invited
 - [[Stepping Down]] — Releasing leadership when the role is complete
+
+## References
+
+**Primary Source:**
+- Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
+
+**Cross-System Sources:**
+- Richard Rudd, *The Gene Keys: Unlocking the Higher Purpose Hidden in Your DNA* (Gene Keys Publishing, 2013)
+- Alfred Huang, *The Complete I Ching: The Definitive Translation* (Inner Traditions, 1998)
+
+**Verification Note:**
+All channel mechanics, circuitry analysis, and Ra's teachings are sourced from *The Definitive Book of Human Design* (2011). Gene Keys correspondences are from Rudd (2013). I-Ching hexagram correlations are from Huang (1998). Cross-system synthesis (Tarot, Qabalah, Jungian psychology) and biological/somatic interpretations represent **Vibology Synthesis**—integrations drawing upon verified HD mechanics but extending into archetypal and interdisciplinary correspondences.
 
 ---
 

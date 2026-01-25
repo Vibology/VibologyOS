@@ -10,6 +10,9 @@ centers: [G (Identity), Throat]
 circuitry: Integration / Centering
 keynote: Commitment to Higher Principles - "I Am" Self-Love
 type: Projected Channel
+verified: true
+verification_date: 2026-01-25
+source_verified: Esoteric Grimoire
 ---
 # Channel 10-20
 *Awakening (Commitment to Higher Principles)*
@@ -367,6 +370,18 @@ Jung's process of individuation is the journey to the Self. The Channel 10-20 in
 - [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
 - [[Self-Love as Survival]] — Loving oneself as the foundation of Integration
 - [[Present-Moment Awareness]] — Living in the now
+
+## References
+
+**Primary Source:**
+- Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
+
+**Cross-System Sources:**
+- Richard Rudd, *The Gene Keys: Unlocking the Higher Purpose Hidden in Your DNA* (Gene Keys Publishing, 2013)
+- Alfred Huang, *The Complete I Ching: The Definitive Translation* (Inner Traditions, 1998)
+
+**Verification Note:**
+All channel mechanics, circuitry analysis, and Ra's teachings are sourced from *The Definitive Book of Human Design* (2011). Gene Keys correspondences are from Rudd (2013). I-Ching hexagram correlations are from Huang (1998). Cross-system synthesis (Tarot, Qabalah, Jungian psychology) and biological/somatic interpretations represent **Vibology Synthesis**—integrations drawing upon verified HD mechanics but extending into archetypal and interdisciplinary correspondences.
 
 ---
 
