@@ -11,6 +11,9 @@ keynote: Mental Activity Mixed with Clarity / Making Sense of the Past
 type: Projected
 gates: [47, 64]
 gene_keys: Oppression/Confusion → Transmutation/Imagination → Transfiguration/Illumination
+verified: true
+verification_date: 2026-01-25
+source_verified: Esoteric Grimoire
 ---
 # Channel 47-64
 *Abstraction*
@@ -108,6 +111,18 @@ When recognized and invited, the 47-64 individual becomes the **wise reflector**
 - [[Ajna Center]] — Mental awareness and processing
 - [[Collective Sensing Circuit]] — Experience-based abstract learning
 - [[Projected Channels]] — Recognition and invitation required
+
+## References
+
+**Primary Source:**
+- Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
+
+**Cross-System Sources:**
+- Richard Rudd, *The Gene Keys: Unlocking the Higher Purpose Hidden in Your DNA* (Gene Keys Publishing, 2013)
+- Alfred Huang, *The Complete I Ching: The Definitive Translation* (Inner Traditions, 1998)
+
+**Verification Note:**
+All channel mechanics, circuitry analysis, and Ra's teachings are sourced from *The Definitive Book of Human Design* (2011). Gene Keys correspondences are from Rudd (2013). I-Ching hexagram correlations are from Huang (1998). Cross-system synthesis (Tarot, Qabalah, Jungian psychology) and biological/somatic interpretations represent **Vibology Synthesis**—integrations drawing upon verified HD mechanics but extending into archetypal and interdisciplinary correspondences.
 
 ---
 
