@@ -23,9 +23,7 @@ The **Virtues** (Latin: *Virtutes*; Hebrew: *Melechim*, "Kings") are the sixth o
 
 Where the **Dominions** (Order 4) establish divine law and the **Powers** (Order 5) maintain cosmic order against chaos, the **Virtues** are the **executors of divine grace**. They do not govern or guard—they **bless, heal, and empower**. They are the angels who part the Red Sea, who make the sun stand still at Joshua's command, who descend into the fiery furnace with Shadrach, Meshach, and Abednego. They are the force behind every miracle, every act of divine intervention that defies natural law in service of divine purpose.
 
-Pseudo-Dionysius the Areopagite, in *The Celestial Hierarchy*, describes the Virtues:
-
-> *"The name 'Virtues' signifies a certain powerful and unshakable virility welling forth into all their Godlike energies; not being weak and feeble for any reception of the divine Illuminations granted to it; mounting upwards in fullness of power to an assimilation with God; never falling away from the Divine Movement through its own weakness, but ascending unwaveringly to the superessential Virtue which is the Source of virtue: fashioning itself, as far as it may, in virtue; perfectly turned towards the Source of virtue, and flowing forth providentially to those below, filling them abundantly with virtue."*
+Gustav Davidson cites Pseudo-Dionysius the Areopagite's *The Celestial Hierarchy*, placing the Virtues as the sixth order in the hierarchy. Davidson notes they are the "chief bestowers of grace and valor," the angelic intelligence that channels divine power into miraculous interventions.
 
 The Virtues are **unshakable strength** in service of divine will. They do not falter, do not waver, do not lose faith in the possibility of the miraculous. They are the **unwavering YES** to God's intention, the channel through which divine power flows into the world without distortion or hesitation.
 
@@ -93,7 +91,7 @@ In this, they mirror the **Solar Christ**, the archetypal King who rules through
 | **Cosmic Role** | Bestowers of divine power into the natural order; workers of miracles |
 | **Biblical Reference** | Miracles throughout scripture (parting of Red Sea, sun standing still, healings of Jesus) |
 | **Iconography** | Winged figures bearing light, lilies (purity), roses (beauty), rays of golden light, holding wands or staffs |
-| **Pseudo-Dionysius** | *"Powerful and unshakable virility welling forth into all Godlike energies"* |
+| **Pseudo-Dionysius** | "Chief bestowers of grace and valor" (per Davidson) |
 | **Human Faculty** | Capacity for miracles, grace under pressure, courage, the integration of opposites |
 | **Human Design** | Solar Plexus Center (Emotional Awareness, Spirit, Wave) |
 | **Chakra** | Anahata (Heart Chakra) — love, compassion, harmony, healing |

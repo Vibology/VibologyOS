@@ -21,9 +21,11 @@ hd_center: G-Center
 
 The **Dominations** (*Chashmalim*) are the fourth order in the angelic hierarchy and the **first order of the Second Triad**. Where the First Triad (Seraphim, Cherubim, Thrones) dwells in direct contemplation of God, the Second Triad **governs the cosmos**—applying divine law, distributing power, and regulating the flow of divine will through creation. The Dominations stand at the threshold of this transition, receiving the cosmic law established by the [[Thrones]] and **translating it into governance**.
 
-Pseudo-Dionysius the Areopagite writes in *The Celestial Hierarchy*:
+Gustav Davidson cites Pseudo-Dionysius the Areopagite's *The Celestial Hierarchy*:
 
-> *"The name of the holy Dominations signifies a lifting up to the true Lord and a longing to be made like unto Him as far as possible. They do not incline to the low and tyrannical exercise of their dominion. Tyranny is alien to them. They are free, they lift themselves and others to true lordship; and they regulate angelic duties, aspiring perpetually to true lordship."*
+> *"They regulate angels' duties and are perpetually aspiring to true lordship; through them the majesty of God is manifested."*
+
+Davidson notes that Pseudo-Dionysius emphasizes the Dominations do not incline to tyrannical dominion, but lift themselves and others to true lordship.
 
 The Dominations are not tyrants but **benevolent sovereigns**—they exercise authority without oppression, they command without domination, they govern without control. They embody the paradox that **true lordship is service**, that the highest authority is the one that liberates rather than enslaves.
 
@@ -134,9 +136,7 @@ The Dominations stand at the **threshold of governance**, receiving the law from
 
 The Dominations are the **first order below the Abyss** in Qabalistic cosmology. While the First Triad (Kether-Chokmah-Binah) dwells in the realm of pure divinity, inaccessible to ordinary consciousness, the Dominations (Chesed) mark the **beginning of the descent into manifestation**—the point at which divine will becomes *governable*, *distributable*, *administrable*.
 
-Pseudo-Dionysius writes:
-
-> *"The second order of heavenly beings receives its illumination through the first. The Dominations receive the divine will from the Thrones and distribute it to the Virtues and Powers below."*
+Davidson notes that in Pseudo-Dionysius's system, the second order of heavenly beings receives its illumination through the first. The Dominations receive the divine will from the Thrones and distribute it to the Virtues and Powers below.
 
 The Dominations are the **hinge** between contemplation (First Triad) and action (Third Triad). They do not act directly upon the material world (that is the Third Triad's function), but they **organize the action**, assign the duties, regulate the flow.
 
@@ -230,9 +230,7 @@ However, the Dominations also **revoke authority** when it is abused. They are n
 **3. Mediation Between Law and Grace**
 The Dominations stand at the **threshold between Binah (Thrones/Law) and Chesed (Dominations/Mercy)**. They receive the severity of cosmic law and temper it with the generosity of divine mercy. They ensure that justice is not cruel, that order is not tyrannical, that structure serves life.
 
-Pseudo-Dionysius writes:
-
-> *"The Dominations do not incline to the low exercise of tyrannical dominion. They are free, and they lift themselves and others to true lordship."*
+Davidson notes that Pseudo-Dionysius emphasizes the Dominations do not incline to the low exercise of tyrannical dominion. They are free, and they lift themselves and others to true lordship.
 
 The Dominations embody the paradox that **authority is service**—the highest form of governance is that which empowers others to govern themselves.
 

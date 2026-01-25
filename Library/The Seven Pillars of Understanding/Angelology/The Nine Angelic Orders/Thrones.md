@@ -21,11 +21,7 @@ hd_center: Throat Center
 
 The **Thrones** (*Aralim*) are the third and final order of the **First Triad**, standing at the threshold between the pure contemplative fire of the Seraphim and Cherubim above and the cosmic administration of the Second Triad below. They are the **foundation of divine justice**, the unwavering presence upon which God's judgment rests.
 
-Pseudo-Dionysius the Areopagite writes in *The Celestial Hierarchy*:
-
-> *"The name of the most glorious and exalted Thrones denotes that which is exempt from and untainted by any base and earthly thing, and the super-mundane ascent up the steep. For these have no part in that which is lowest, but dwell in fullest power, immovably and perfectly established in the Most High, and receive the Divine Immanence above all passion and matter, and manifest God, being attentively open to divine participations."*
-
-And most critically:
+Gustav Davidson cites Pseudo-Dionysius the Areopagite's *The Celestial Hierarchy*, noting that the Thrones are the third order of the First Triad, established in the Most High. Davidson quotes Pseudo-Dionysius directly:
 
 > *"Through the Thrones, God brings his justice to bear upon us."*
 

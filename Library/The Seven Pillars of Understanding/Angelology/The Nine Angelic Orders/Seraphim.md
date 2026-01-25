@@ -21,9 +21,7 @@ hd_center: Head Center
 
 The **Seraphim** (singular: *Seraph*; Hebrew: *Chaioth ha-Qadesh*, "Holy Living Creatures") are the highest order of angels in the celestial hierarchy—the closest to God, the most absorbed in divine contemplation, the beings who exist at the threshold where created intelligence meets uncreated Being. They are called the "burning ones" (*saraph* in Hebrew means "to burn"), not because they are consumed by fire, but because they *are* fire—the primal fire of divine love, the incandescent brilliance of pure consciousness before it differentiates into thought, will, or form.
 
-Pseudo-Dionysius the Areopagite, in his foundational 6th-century text *The Celestial Hierarchy*, places the Seraphim at the apex of the ninefold angelic orders. He writes:
-
-> *"The name 'Seraphim' clearly indicates their ceaseless and eternal revolution around divine principles, their heat and keenness, the exuberance of their intense, perpetual, tireless activity, and their elevative and energetic assimilation of those below, kindling them and firing them to their own heat, and wholly purifying them by a burning and all-consuming flame; and by the unhidden, unquenchable, changeless, radiant and enlightening power, dispelling and destroying the shadows of darkness."*
+Pseudo-Dionysius the Areopagite, in his foundational 6th-century text *The Celestial Hierarchy*, places the Seraphim at the apex of the ninefold angelic orders. Gustav Davidson notes that Pseudo-Dionysius established this hierarchy, describing the Seraphim as the highest order dwelling in direct contemplation of God.
 
 The Seraphim are **love without object**. They do not love *something*—they *are* love itself. They do not serve God in the way lower orders do, executing commands or delivering messages. Their **being is their service**. To exist as a Seraph is to burn with the undifferentiated passion of the Divine, to exist in a state of perpetual adoration so absolute that there is no separation between lover and beloved.
 
@@ -38,7 +36,7 @@ The Seraphim's cry—*"Holy, Holy, Holy"*—is the **Trisagion**, the threefold 
 The six wings carry deep symbolic meaning:
 - **Two wings covering the face:** Even the Seraphim, who dwell in the immediate presence of God, cannot behold the full radiance of the Divine Face. They veil themselves in humility and awe.
 - **Two wings covering the feet:** The feet represent contact with the earth, the realm of manifestation. The Seraphim, existing at the threshold of pure Being, cover their connection to materiality—they are not yet involved in the work of creation.
-- **Two wings for flying:** This is their active function—perpetual movement, the "ceaseless and eternal revolution around divine principles" that Pseudo-Dionysius describes. They are not static; they are *dynamic adoration*.
+- **Two wings for flying:** This is their active function—perpetual movement in dynamic adoration. They are not static; they are in ceaseless motion around the divine center.
 
 ### The Cleansing Coal
 
@@ -60,7 +58,7 @@ In the Four Worlds of Qabalah (Atziluth, Briah, Yetzirah, Assiah), the Seraphim 
 
 ### The Hebrew Name: Chaioth ha-Qadesh
 
-The Qabalistic name for the Seraphim is **Chaioth ha-Qadesh** (חיות הקדש), meaning "Holy Living Creatures." This name appears in **Ezekiel 1** and **Revelation 4** in reference to the mysterious "living creatures" around God's throne—four beings covered with eyes, with the faces of a man, a lion, an ox, and an eagle. Some mystical traditions identify these Chaioth ha-Qadesh with the Seraphim, while others distinguish them as a separate order or aspect of the Cherubim.
+The Qabalistic name for the Seraphim is **Chaioth ha-Qadesh** (חיות הקדש), meaning "Holy Living Creatures." Gustav Davidson notes that "in rabbinic writings they [Seraphim] are equated with the hayyoth," though he also records that in Maimonides' hierarchy (in the *Mishne Torah*), the Chaioth ha-Qadesh are listed as the 1st order while the Seraphim are ranked as the 5th order. This name appears in **Ezekiel 1** and **Revelation 4** in reference to the mysterious "living creatures" around God's throne—four beings covered with eyes, with the faces of a man, a lion, an ox, and an eagle. Some mystical traditions identify these Chaioth ha-Qadesh with the Seraphim, while others distinguish them as a separate order or aspect of the Cherubim.
 
 The key is the word *Chaioth*—"living creatures" or "animals." The Seraphim are not abstract principles; they are *alive*, pulsing with vitality, animalistic in their intensity. They are the **primal life force**, the untamed energy of existence before it is shaped into form. They are wild fire, not domesticated flame.
 
@@ -87,7 +85,7 @@ The gematria (numerical value) of *Chaioth ha-Qadesh* is **453**, which reduces 
 | **Cosmic Role** | First receivers and radiators of divine light |
 | **Biblical Reference** | Isaiah 6:1-7 (six-winged beings crying "Holy, Holy, Holy") |
 | **Iconography** | Six wings (2 covering face, 2 covering feet, 2 for flight), humanoid form, surrounded by fire |
-| **Pseudo-Dionysius** | *"Ceaseless and eternal revolution around divine principles, heat and keenness, exuberance of intense activity"* |
+| **Pseudo-Dionysius** | Highest order in the hierarchy, dwelling in direct contemplation of God (per Davidson) |
 | **Human Faculty** | Capacity for pure devotional love beyond thought, mystical union |
 | **Human Design** | Head Center (inspiration, pressure to know, existential questioning) |
 | **Chakra** | Sahasrara (Crown Chakra) — union with the Divine |

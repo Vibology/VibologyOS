@@ -5,7 +5,7 @@ date_created: 2026-01-17
 category: Angelic Order
 order_number: 2
 order_name: Cherubim
-hebrew_name: Auphanim
+hebrew_name: Kerubim (Davidson); Qabalistic choir: Auphanim (Wang)
 triad: First Triad
 sephirah: Chokmah
 planetary: Zodiac (Masloth)
@@ -19,13 +19,11 @@ hd_center: Ajna Center
 ---
 ## Foundational Material
 
-The **Cherubim** (Hebrew: *Auphanim* - "Wheels" or "Whirling Forces") constitute the **second order** of the celestial hierarchy, dwelling in the **First Triad** alongside the [[Seraphim]] and [[Thrones]]. Where the Seraphim burn with pure love and primal fire, the Cherubim *know*—they are the repositories of **divine wisdom**, the architects of sacred knowledge, and the whirling intelligences who mediate between the formless light of [[Kether]] and the structured understanding of [[Binah]].
+The **Cherubim** (Hebrew: *Kerubim*, from Akkadian *karibu*; Qabalistic choir name: *Auphanim* - "Wheels" or "Whirling Forces") constitute the **second order** of the celestial hierarchy, dwelling in the **First Triad** alongside the [[Seraphim]] and [[Thrones]]. Where the Seraphim burn with pure love and primal fire, the Cherubim *know*—they are the repositories of **divine wisdom**, the architects of sacred knowledge, and the whirling intelligences who mediate between the formless light of [[Kether]] and the structured understanding of [[Binah]].
 
 ### Pseudo-Dionysius: The Celestial Hierarchy
 
-Pseudo-Dionysius the Areopagite defines the Cherubim in *The Celestial Hierarchy* as those who possess **"the fullness of knowledge"** and the capacity to **"contemplate the Divine Beauty in its first manifestation."** He writes:
-
-> *"The name Cherubim signifies the power of knowing and seeing God, of receiving the greatest gifts of His light, of contemplating the divine splendor in primordial power, of being filled with the gifts that bring wisdom and of communicating these gifts ungrudgingly to subordinates as a part of the beneficent outpouring of wisdom."*
+Pseudo-Dionysius the Areopagite places the Cherubim in the First Triad as the second highest order. Gustav Davidson notes that they "excel in knowledge" and serve as the bearers of God's throne, personifications of divine wisdom. Davidson cites Pseudo-Dionysius's teaching that the Cherubim possess the capacity to contemplate divine splendor and to communicate wisdom downward through the hierarchical chain.
 
 The Cherubim do not merely *receive* divine wisdom—they **overflow** with it, transmitting knowledge downward through the hierarchical chain. They are the first intelligence to *organize* the pure fire of the Seraphim into patterns, structures, and intelligible forms. Where the Seraphim are pure *being*, the Cherubim are pure *knowing*.
 
@@ -86,7 +84,7 @@ To cultivate Cherubic consciousness is to develop **wisdom** (*Chokmah*)—not m
 | **Divine Function** | Fullness of knowledge, transmission of wisdom, multi-dimensional perception |
 | **Biblical Reference** | Ezekiel 1 & 10 (wheels within wheels), Genesis 3:24 (guardians of Eden), Exodus 25:18-22 (Ark of the Covenant) |
 | **Iconography** | Four faces (human, lion, ox, eagle), wheels within wheels, eyes covering all surfaces, wings, fire and gleaming metal |
-| **Pseudo-Dionysius** | *"The power of knowing and seeing God, of contemplating divine splendor in primordial power"* |
+| **Pseudo-Dionysius** | Second highest order, "excel in knowledge" and transmit divine wisdom (per Davidson) |
 | **Human Faculty** | Wisdom, conceptualization, pattern recognition, intellectual brilliance |
 | **Human Design Center** | [[Ajna Center]] (mental processing, awareness, conceptualization) |
 | **Chakra** | Ajna Chakra (third eye, insight, inner vision) |
