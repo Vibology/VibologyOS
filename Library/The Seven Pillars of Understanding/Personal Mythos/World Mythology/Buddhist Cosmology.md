@@ -2,6 +2,7 @@
 tags: [folklore, mythology, buddhist, archetypes, buddha, enlightenment]
 system: Personal Mythos
 date_created: 2026-01-18
+date_updated: 2026-01-25
 source_verified: synthesis
 verification_date: 2026-01-23
 grimoire_source: "Mythology reference sources (tradition-specific)"
@@ -1055,6 +1056,21 @@ The **grain of wheat** in the Eleusinian mysteries = the **lotus in the mud** in
 7. **Awakened Heart (Bodhicitta):** The union of wisdom and compassion, clarity and kindness—*without* sentimentality or cruelty. This is the Philosopher's Stone in Buddhist form.
 
 **The ultimate Buddhist lesson:** The ego is not permanent, substantial, or inherently existent—yet suffering is real, compassion is necessary, and the path is available. Liberation is recognizing **awareness itself** as the ground—unconcerned with the endless play of phenomena, yet fully engaged in alleviating suffering.
+
+---
+
+## References
+
+**Jungian Analytical Psychology:**
+- Jung, C.G. *Psychology and Religion: West and East* (CW 11). Princeton University Press, 1958.
+- Jung, C.G. *The Archetypes and the Collective Unconscious* (CW 9i). Princeton University Press, 1959.
+- Jung, C.G. "Psychological Commentary on *The Tibetan Book of the Dead*." In *Psychology and Religion: West and East* (CW 11). Princeton University Press, 1958.
+
+**Primary Buddhist Sources:**
+Core cosmological narratives (Six Realms, Wheel of Life, Bardo states, and enlightenment path) are drawn from canonical Buddhist sources including Pali Canon (Suttas), Abhidhamma, Mahayana sutras, and Tibetan Buddhist texts (*Bardo Thodol*/Tibetan Book of the Dead). These teachings span Theravada, Mahayana, and Vajrayana Buddhist traditions and inform the archetypal framework.
+
+**Vibrology Synthesis:**
+All Jungian archetypal analysis (interpreting Buddhist cosmology through the lens of Shadow, Anima/Animus, Self, Individuation, etc.) represents scholarly synthesis rather than traditional Buddhist understanding. Cross-system correspondences (Tarot, Astrology, Alchemy, Human Design, Qabalah) are Vibrology's integrative framework, not part of the original Buddhist tradition. The alchemical correlations (Bardo as Nigredo, Enlightenment as Rubedo) apply Western hermetic symbolism to Buddhist liberation teachings. Buddhist psychology deeply influenced Western depth psychology, but the explicit connections drawn here are modern interpretive additions.
 
 ---
 

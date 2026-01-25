@@ -2,6 +2,7 @@
 tags: [folklore, mythology, taoist, taoism, archetypes, wu-wei, yin-yang]
 system: Personal Mythos
 date_created: 2026-01-18
+date_updated: 2026-01-25
 source_verified: synthesis
 verification_date: 2026-01-23
 grimoire_source: "Mythology reference sources (tradition-specific)"
@@ -794,6 +795,21 @@ Jung: *"The alchemical vessel is the psyche itself. The fire is suffering. The w
 8. **Alchemical Elixir:** The Golden Flower blooming—consciousness that is both fully individual (differentiated) and fully universal (dissolved into Tao). The paradox embodied.
 
 **The ultimate Taoist lesson:** The ego is not the enemy but a **temporary function** of the Tao. Individuation is not ego-inflation (becoming God) or ego-annihilation (merging into formlessness) but **ego-relativization**—the ego knowing itself as *wave*, not ocean, yet inseparable from the ocean. This is the Diamond Body. This is wu wei. This is the return to the Source while remaining awake.
+
+---
+
+## References
+
+**Jungian Analytical Psychology:**
+- Jung, C.G. "Commentary on *The Secret of the Golden Flower*." In *Alchemical Studies* (CW 13). Princeton University Press, 1967.
+- Jung, C.G. *The Archetypes and the Collective Unconscious* (CW 9i). Princeton University Press, 1959.
+- Jung, C.G. *Psychology and Religion: West and East* (CW 11). Princeton University Press, 1958.
+
+**Primary Taoist Sources:**
+Core mythological narratives (cosmology, pantheon, immortals, and alchemical practices) are drawn from canonical Taoist sources including the *Tao Te Ching* (Laozi), *Zhuangzi*, *I Ching* (Book of Changes), *Neiye* (Inward Training), and texts of religious Taoism (*Daozang*). These texts span philosophical and religious Taoist traditions and inform the archetypal framework.
+
+**Vibrology Synthesis:**
+All Jungian archetypal analysis (interpreting Taoist myths through the lens of Shadow, Anima/Animus, Self, Individuation, etc.) represents scholarly synthesis rather than traditional Taoist understanding. Cross-system correspondences (Tarot, Astrology, Western Alchemy, Human Design, Qabalah) are Vibrology's integrative framework, not part of the original Taoist tradition. Jung's *Secret of the Golden Flower* commentary explicitly bridges Taoist internal alchemy with Western depth psychology, but the broader cross-system correlations drawn here are modern interpretive additions.
 
 ---
 
