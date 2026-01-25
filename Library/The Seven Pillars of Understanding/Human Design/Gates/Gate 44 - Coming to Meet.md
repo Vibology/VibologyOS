@@ -20,8 +20,7 @@ gene_keys: Interference → Teamwork → Synarchy
 
 # Gate 44: Coming to Meet (The Gatherer)
 
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, Gate 44 is located in the Spleen Center and represents **the instinctual recognition of patterns from the past**. This is the gate of **survival memory**—the capacity to remember what worked and what didn't, what was safe and what was dangerous, and to alert the tribe when familiar patterns re-emerge.
 
 Ra taught that Gate 44 operates within the **Tribal Ego Circuit (Defense)**, which means it carries the instinct to **protect the tribe's well-being** through recognition of historical patterns. This is not mental memory or emotional nostalgia—it is **somatic, instinctual pattern recognition** that says "I've been here before."
@@ -159,8 +158,7 @@ The Spleen Center radiates **survival awareness** into the aura. When Gate 44 is
 - **Defined Gate 44:** Consistent pattern recognition. The individual knows they are here to alert the tribe when patterns repeat, though the specific patterns vary over time.
 - **Undefined/Open Gate 44:** Samples pattern recognition from others. Vulnerable to conditioning around "needing to remember" or "having to warn others." Can become wise about patterns by observing them in others without identifying with them.
 
-## Strategy and Authority Integration
-
+## Strategy Integration
 Gate 44, being in the Spleen Center, **can be an Authority** (Splenic Authority) for Manifestors and Projectors. For Generators/MGs, the Spleen is awareness, not Authority.
 
 **For Generators/Manifesting Generators with Gate 44:**
@@ -179,8 +177,7 @@ The pattern recognition guides initiatory action. The Manifestor must **inform**
 
 The pattern recognition is inconsistent (activated only by transits or others). The Reflector must wait the full lunar cycle before making decisions based on perceived patterns, ensuring the recognition is deeply aligned.
 
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Gate 44:**
 
 - **Interference:** Constantly warning of danger, seeing threats everywhere, creating anxiety in the tribe.

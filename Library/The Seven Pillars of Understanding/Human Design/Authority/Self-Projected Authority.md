@@ -19,8 +19,7 @@ verification_notes: "Individual verification complete. Core mechanics (G Center 
 *The Intelligence of the Voice*
 
 ---
-## Definition
-
+## Ra's Definition
 **Self-Projected Authority** is defined by a **defined [[G Center]]** (Identity Center) connected to the [[Throat]] *without* any motors or higher authorities present (Solar Plexus, Sacral, Spleen, or Heart).
 
 Self-Projected Authority is **exclusive to [[Projector]]s**—it cannot appear in other Types.
@@ -162,8 +161,7 @@ ed Identity** — They know who they are through speaking
 - **Tarot:** [[The High Priestess]] (inner knowing articulated), [[The Hierophant]] (speaking truth)
 
 ---
-## Practical Guidance
-
+## Strategy Integration
 ### For Those with Self-Projected Authority
 
 1. **Speak to know.** You cannot hear your truth in silence; articulate your thoughts aloud.

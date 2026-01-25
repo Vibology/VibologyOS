@@ -20,8 +20,7 @@ gene_keys: Compromise → Competence → Bounteousness
 
 # Gate 14: Possession in Great Measure (Power Skills)
 
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, Gate 14 in the Sacral Center represents **power through possession of skills**—not material wealth alone, but the capacity to develop **mastery, competence, and resources** that empower both the individual and others. This is the Sacral life force applied to **work, skill-building, and the accumulation of capability**.
 
 Ra taught that Gate 14 belongs to the **Individual Centering Circuit**, which means this power serves **empowerment through example**—not to lead or teach didactically, but to demonstrate what is possible when one masters a craft, skill, or resource. This is **power as competence**, not domination.
@@ -160,8 +159,7 @@ The Sacral Center radiates **life force and generative energy** into the aura. W
 - **Defined Gate 14:** Consistent life force for skill-building and resource accumulation. The individual knows they are here to master something, though they may need Gate 2 to know *what*.
 - **Undefined/Open Gate 14:** Samples power and skill from others. Vulnerable to conditioning around "needing to be powerful" or "proving competence." Can become wise about mastery by observing it in others.
 
-## Strategy and Authority Integration
-
+## Strategy Integration
 Gate 14, being in the Sacral Center, carries **Sacral Authority** for Generators and Manifesting Generators (if the Sacral is their Authority and the Solar Plexus is undefined).
 
 **For Generators/Manifesting Generators with Gate 14:**
@@ -180,8 +178,7 @@ If a Manifestor has Gate 14 defined through connection to a motor (unlikely, as 
 
 The power and skill-building are inconsistent (activated only by transits or others). The Reflector must wait the full lunar cycle before committing to long-term mastery projects, ensuring the work aligns with their deep timing.
 
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Gate 14:**
 
 - **Compromise:** Settling for less than one's potential, refusing to do the work required for true mastery, compromising on quality or competence.

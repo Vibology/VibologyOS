@@ -20,8 +20,7 @@ gene_keys: Corruption → Equilibrium → Harmony
 
 # Gate 50: The Cauldron (Values / Custodianship)
 
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, Gate 50 is located in the Spleen Center and represents **the values and laws that preserve tribal integrity**. This is the gate of **custodianship**—the instinctual knowing of what is right and wrong for the tribe, and the responsibility to uphold and enforce those values.
 
 Ra taught that Gate 50 operates within the **Tribal Ego Circuit (Defense)**, which means it carries the responsibility to **protect tribal well-being through the establishment and maintenance of values**. This is not individual ethics or collective ideals—it is **tribal law** written in instinct.
@@ -159,8 +158,7 @@ The Spleen Center radiates **survival awareness** into the aura. When Gate 50 is
 - **Defined Gate 50:** Consistent awareness of tribal values. The individual knows they are here to uphold the law, though the specific values vary by tribal context.
 - **Undefined/Open Gate 50:** Samples values from others. Vulnerable to conditioning around "needing to have values" or "being responsible." Can become wise about tribal law by observing it in others without identifying with it.
 
-## Strategy and Authority Integration
-
+## Strategy Integration
 Gate 50, being in the Spleen Center, **can be an Authority** (Splenic Authority) for Manifestors and Projectors. For Generators/MGs, the Spleen is awareness, not Authority.
 
 **For Generators/Manifesting Generators with Gate 50:**
@@ -179,8 +177,7 @@ The values awareness guides initiatory action. The Manifestor must **inform** ba
 
 The values awareness is inconsistent (activated only by transits or others). The Reflector must wait the full lunar cycle before making decisions based on perceived values violations, ensuring the assessment is deeply aligned.
 
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Gate 50:**
 
 - **Corruption:** Allowing values to be compromised for personal gain, leading to tribal degradation.

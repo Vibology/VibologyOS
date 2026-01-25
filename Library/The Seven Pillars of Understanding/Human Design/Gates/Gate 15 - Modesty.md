@@ -20,8 +20,7 @@ gene_keys: Dullness → Magnetism → Florescence
 
 # Gate 15: Modesty (Extremes)
 
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, Gate 15 is located in the G Center and represents **the love of humanity through the balancing of extremes**—the capacity to experience and embody the full spectrum of human behavior while maintaining equilibrium. This is not "modesty" in the sense of self-effacement, but rather **moderation as the expression of inclusive love**.
 
 Ra taught that Gate 15 operates within the **Collective Logic Circuit**, which means it carries **pattern recognition across the human experience**. This gate enables the individual to understand humanity's diversity by *living* the extremes themselves—experiencing the full range of human behavior in order to recognize that all patterns are part of the collective flow.
@@ -160,8 +159,7 @@ The G Center radiates **identity and direction** into the aura. When Gate 15 is 
 - **Defined Gate 15:** Consistent experience of extremes. The individual knows they are here to explore the full spectrum of human behavior, though they may need Gate 5 to know *when* to express each pattern.
 - **Undefined/Open Gate 15:** Samples extremes from others. Vulnerable to conditioning around "being moderate" or "fitting in." Can become wise about behavioral diversity by observing it in others without identifying with it.
 
-## Strategy and Authority Integration
-
+## Strategy Integration
 Gate 15, being in the G Center, does not carry Authority (only Sacral, Solar Plexus, Splenic, Ego, Self-Projected, and No-Inner-Authority are Authority centers). However, **it profoundly influences how Authority is expressed**.
 
 **For Generators/Manifesting Generators with Gate 15:**
@@ -180,8 +178,7 @@ The pull toward extremes can be initiated, but the Manifestor must **inform** be
 
 The experience of extremes is inconsistent (activated only by transits or others). The Reflector must wait the full lunar cycle before committing to behavioral patterns, ensuring the extremes are truly aligned with their deep timing.
 
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Gate 15:**
 
 - **Dullness:** Refusing to experience life's extremes, flattening into predictable mediocrity. The sense that "life is boring" because diversity is avoided.

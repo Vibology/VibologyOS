@@ -154,8 +154,7 @@ The 1/4 brings:
 
 ---
 
-## Practical Guidance
-
+## Strategy Integration
 ### For the 1/4
 
 1. **Honor your need to investigate.** You must feel secure in your foundations before sharing.

@@ -19,8 +19,7 @@ verification_notes: "Individual verification complete. Core mechanics (Solar Ple
 *Clarity Through the Wave*
 
 ---
-## Definition
-
+## Ra's Definition
 **Emotional Authority** is defined by a **defined [[Solar Plexus]] Center**, which takes precedence over all other authorities in the Human Design hierarchy. If your Solar Plexus is defined, you have Emotional Authority—regardless of what other centers are active in your chart.
 
 Approximately **half of humanity** has Emotional Authority, making it the most common decision-making intelligence in the world.
@@ -135,8 +134,7 @@ Emotionally defined individuals bring:
 - **Tarot:** [[The Moon]] (cycles and tides), [[Death]] (necessary transformation through endings)
 
 ---
-## Practical Guidance
-
+## Strategy Integration
 ### For the Emotionally Defined
 
 1. **Never decide in the moment.** If asked for a decision, say: "Let me sit with this."

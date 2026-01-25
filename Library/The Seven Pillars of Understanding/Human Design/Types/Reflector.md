@@ -17,8 +17,7 @@ verification_notes: "Individual verification complete. Core mechanics (All cente
 
 # Reflector: The Mirror
 
-## Definition
-
+## Ra's Definition
 The Reflector has **no fixed definition**—all nine centers in their BodyGraph remain white (undefined). This complete openness is not vulnerability but **radical receptivity**: the Reflector is designed to sample, reflect, and evaluate the health of their environment without becoming conditioned by it.
 
 Where other Types have consistent, reliable energetic patterns, the Reflector is lunar—they cycle through every possible energetic configuration as the Moon transits the 64 gates over 28 days.
@@ -158,8 +157,7 @@ The Reflector's challenge is accepting that their gift is **not to fit in** but 
 
 ---
 
-## Practical Guidance
-
+## Strategy Integration
 ### For the Reflector
 
 1. **Honor the 28-day cycle.** Major decisions cannot be rushed; clarity requires time.

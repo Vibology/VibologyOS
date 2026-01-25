@@ -20,8 +20,7 @@ gene_keys: Judgement → Integrity → Perfection
 
 # Gate 18: Work on What Has Been Spoilt (Correction)
 
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, Gate 18 is located in the Spleen Center and represents **correction, integrity, and the vigilant challenge of authority**—the capacity to recognize what is corrupt, flawed, or spoiled and to work toward improvement. This is not "criticism" for the sake of complaint, but rather **instinctual awareness of imperfection seeking restoration**.
 
 Ra taught that Gate 18 operates within the **Collective Logic Circuit**, which means it carries **pattern-based correction**. This gate enables the individual to recognize when patterns deviate from integrity, when authority becomes corrupt, when systems decay—and to work persistently toward correction. However, this awareness is also rooted in the **Spleen's fear of authority**, the survival instinct that recognizes danger in corrupt power.
@@ -160,8 +159,7 @@ The Spleen Center radiates **survival instinct and immune awareness** into the a
 - **Defined Gate 18:** Consistent awareness of corruption and decay. The individual knows they are here to correct, though they may need Gate 58 to sustain the work.
 - **Undefined/Open Gate 18:** Samples corrective awareness from others. Vulnerable to conditioning around "needing to fix everything" or "being critical." Can become wise about integrity by observing correction in others without identifying with it.
 
-## Strategy and Authority Integration
-
+## Strategy Integration
 Gate 18, being in the Spleen Center, can carry **Splenic Authority** (if the Solar Plexus and Sacral are undefined, and if the individual is a Projector or Manifestor).
 
 **For Generators/Manifesting Generators with Gate 18:**
@@ -180,8 +178,7 @@ If Splenic Authority, the instinct to initiate correction must be honored, but t
 
 The corrective awareness is inconsistent (activated only by transits or others). The Reflector must wait the full lunar cycle before committing to corrective work, ensuring the challenge aligns with their deep timing.
 
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Gate 18:**
 
 - **Judgement:** Compulsive criticism of imperfection, attacking decay without offering restoration. Judgment without integrity.

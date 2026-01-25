@@ -26,8 +26,7 @@ The **Root Center** corresponds to the **adrenal system** and **stress hormones*
 The Root is the body's **pressure valve**, creating urgency and propulsion.
 
 ---
-## Definition
-
+## Ra's Definition
 The Root is both a **pressure center** and a **motor center**[^2]. It governs:
 - **Physical pressure** — Adrenaline-driven urgency
 - **Momentum** — The drive to sustain movement and evolution
@@ -146,8 +145,7 @@ The Root:
 - **Tarot:** [[The Devil]] (bondage to urgency), [[The Tower]] (pressure that breaks structures)
 
 ---
-## Practical Guidance
-
+## Strategy Integration
 ### For Those with a Defined Root
 
 1. **Honor your consistent pressure.** You are designed to feel urgency; do not resist it.

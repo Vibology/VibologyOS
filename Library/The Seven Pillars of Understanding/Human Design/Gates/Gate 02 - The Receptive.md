@@ -20,8 +20,7 @@ gene_keys: Dislocation → Orientation → Unity
 
 # Gate 02: The Receptive (Direction of the Self)
 
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, Gate 2 in the G Center represents **the Driver**—not in the sense of controlling or forcing direction, but as the **receptive principle** that determines how one responds to life's momentum. This is the Higher Self, the geometrical orientation mechanism that allows the individual to receive their correct direction rather than manufacture it.
 
 Ra taught that Gate 2 is fundamentally about **receptivity to one's own geometry**—the capacity to allow direction to emerge from within rather than seeking it externally. This gate operates within the **Individual Knowing Circuit**, which means it carries the potential for **mutation through receptive awareness**.
@@ -163,8 +162,7 @@ The G Center radiates **identity and direction** into the aura. When Gate 2 is a
 - **Defined Gate 2:** Consistent receptivity to directional impulses. The individual knows they have a geometry that will orient them, even if the specific direction is not always clear in the moment.
 - **Undefined/Open Gate 2:** Samples directional receptivity from others. Vulnerable to conditioning around "finding direction" or "knowing where to go." Can become wise about direction by observing it in others without identifying with it.
 
-## Strategy and Authority Integration
-
+## Strategy Integration
 Gate 2, being in the G Center, does not carry Authority (only Sacral, Solar Plexus, Splenic, Ego, Self-Projected, and No-Inner-Authority are Authority centers). However, **it profoundly influences how Authority is expressed through directional alignment**.
 
 **For Generators/Manifesting Generators with Gate 2:**
@@ -183,8 +181,7 @@ The directional impulse can be followed, but the Manifestor must **inform** befo
 
 The directional receptivity is inconsistent (activated only by transits or others). The Reflector must wait the full lunar cycle before committing to directional shifts, ensuring the direction is truly aligned with their deep lunar timing.
 
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Gate 2:**
 
 - **Dislocation:** Feeling lost, directionless, or disconnected from one's geometry. The sense that "I don't know where I'm going."

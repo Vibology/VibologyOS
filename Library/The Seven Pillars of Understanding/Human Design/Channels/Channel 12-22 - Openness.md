@@ -20,8 +20,7 @@ source_verified: Esoteric Grimoire
 *Openness (A Social Being)*
 
 ---
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, the **Channel of Openness** (12-22) is the only **Individual Manifesting channel**—connecting the **Solar Plexus** (emotional motor) directly to the **Throat** (manifestation). This creates a design that can **initiate action through articulated mood**.
 
 Ra taught that this channel carries **mutation** and **melancholy**—the capacity to express something emotionally unique that has never been expressed before. This is not collective emotional processing (Abstract Circuit) nor tribal emotional bonding (Tribal Defense Circuit). This is **individual emotional spirit seeking voice**.
@@ -209,8 +208,7 @@ The Channel of Openness corresponds to the **throat-to-solar plexus neural pathw
 The 12-22 individual must learn to **feel the wave in the body** before speaking. When the throat feels tight, wait. When the breath is shallow, pause. When the voice feels strained, be silent. The body knows when emotional clarity has arrived—the throat opens, the breath deepens, the voice flows.
 
 ---
-## Strategy and Authority Integration
-
+## Strategy Integration
 The Channel of Openness requires integration with **Human Design Strategy** (Type-based decision-making) and **Authority** (inner decision-making mechanism).
 
 **For Manifestors (12-22 as sole motor-to-throat):**
@@ -240,8 +238,7 @@ The Channel of Openness requires integration with **Human Design Strategy** (Typ
 - Seeking external validation for emotional expression rather than honoring inner clarity.
 
 ---
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 The Channel of Openness, when conditioned by family, culture, or collective norms, distorts into **Not-Self** patterns. These are protective mechanisms that disconnect the individual from their authentic design.
 
 **Common Not-Self Patterns for 12-22:**

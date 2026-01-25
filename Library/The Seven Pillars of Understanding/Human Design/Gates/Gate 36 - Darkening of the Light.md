@@ -20,8 +20,7 @@ gene_keys: Turbulence → Humanity → Compassion
 
 # Gate 36: Darkening of the Light (Crisis)
 
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, Gate 36 is located in the Solar Plexus Center and represents **emotional crisis as the gateway to wisdom**—the capacity to feel deeply through the darkening, to experience the valley of the emotional wave, and to emerge with compassion forged in the fire of human suffering.
 
 Ra taught that Gate 36 operates within the **Collective Abstract/Sensing Circuit**, which means it carries the energy of **experiential depth through emotional crisis**—learning not through logic or individual breakthrough, but through the shared human experience of darkness, loss, and emotional intensity.
@@ -157,8 +156,7 @@ The Solar Plexus Center radiates **emotional wave** into the aura. When Gate 36 
 - **Defined Gate 36:** Consistent access to emotional crisis and depth. The individual knows they are here to feel intensely and learn through the valley.
 - **Undefined/Open Gate 36:** Samples emotional crisis from others. Vulnerable to conditioning around "avoiding crisis" or "fearing darkness." Can become wise about crisis by observing it in others without identifying with it.
 
-## Strategy and Authority Integration
-
+## Strategy Integration
 Gate 36, being in the Solar Plexus Center, is directly linked to **Emotional Authority** when the Solar Plexus is defined.
 
 **For those with Emotional Authority and Gate 36:**
@@ -181,8 +179,7 @@ The crisis can be navigated through initiation, but the Manifestor must **inform
 
 The crisis is inconsistent (activated by transits or others). The Reflector must wait the full lunar cycle before responding to emotional intensity.
 
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Gate 36:**
 
 - **Turbulence** (Gene Keys Shadow): Chronic emotional chaos, addiction to crisis, unable to stabilize.

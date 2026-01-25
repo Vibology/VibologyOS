@@ -20,8 +20,7 @@ gene_keys: Psychosis → Inspiration → Sanctity
 
 # Gate 61: Inner Truth (Pressure to Know Mystery)
 
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, Gate 61 is located in the **Head Center** and represents the **pressure to know the unknowable**—the existential drive to penetrate mystery, to understand what cannot be explained, to grasp truth that transcends logic. This is not curiosity; it is **cosmic pressure**.
 
 Ra taught that Gate 61 operates within the **Individual Knowing Circuit**, which means it carries the **mutative frequency of inspiration**—the sudden knowing that arrives not through deduction but through **revelation**. This is the gate of inner truth that bypasses the mind.
@@ -155,8 +154,7 @@ The Head Center radiates **mental pressure and inspiration** into the aura. When
 - **Defined Gate 61:** Consistent pressure to know the unknowable. The individual knows they are driven by existential questions, though they may struggle with the anxiety of mystery. The pressure is fixed.
 - **Undefined/Open Gate 61:** Samples the pressure to know from others. Vulnerable to conditioning around "not being deep enough" or "needing to have answers." Can become wise about inspiration by observing it in others without forcing it.
 
-## Strategy and Authority Integration
-
+## Strategy Integration
 Gate 61, being in the Head Center, is a **pressure center**—it generates mental fuel but **is not Authority**. The Head does not make decisions; it provides the pressure that drives inquiry, which must be processed through Authority.
 
 **For All Types with Gate 61:**
@@ -179,8 +177,7 @@ The impulse to initiate is driven by Head pressure. The pressure says "I must kn
 
 The 28-day lunar cycle allows the Reflector to sample Gate 61's pressure across multiple transits. The existential questions are inconsistent, but the Reflector can observe how the pressure functions without being consumed by it.
 
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Gate 61:**
 
 - **Psychosis (Shadow):** Mental breakdown from the pressure to know what cannot be known; confusing mystery with madness.

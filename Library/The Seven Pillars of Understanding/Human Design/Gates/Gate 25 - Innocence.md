@@ -20,8 +20,7 @@ gene_keys: Constriction → Acceptance → Universal Love
 
 # Gate 25: Innocence (The Spirit of the Self)
 
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, Gate 25 in the G Center represents **the spirit of the self**—the innocent, unconditioned essence of identity that exists beyond ego, beyond persona, beyond conditioning. This is the gate of **Universal Love**, the recognition that the Self loves unconditionally, without agenda or expectation.
 
 Ra taught that Gate 25 belongs to the **Individual Centering Circuit**, which means this spirit is **not for saving or healing others** but for embodying innocence as example. This is **love that does not rescue or fix**—it simply exists, radiating the perfection of being.
@@ -160,8 +159,7 @@ The G Center radiates **identity and love** into the aura. When Gate 25 is activ
 - **Defined Gate 25:** Consistent access to the spirit of the Self and Universal Love. The individual knows they are here to embody innocence, though they may need Gate 51 for initiation.
 - **Undefined/Open Gate 25:** Samples innocence and love from others. Vulnerable to conditioning around "needing to be spiritual" or "proving unconditional love." Can become wise about innocence by observing it in others without forcing it.
 
-## Strategy and Authority Integration
-
+## Strategy Integration
 Gate 25, being in the G Center, does **not provide Authority** (the G Center is identity, not decision-making). Strategy and Authority determine *when* and *how* to embody innocence.
 
 **For Generators/Manifesting Generators with Gate 25:**
@@ -180,8 +178,7 @@ If a Manifestor has Gate 25 connected to a motor (rare), they can **initiate spi
 
 The innocence and Universal Love are inconsistent (activated only by transits or others). The Reflector must wait the full lunar cycle before committing to long-term spiritual paths or teachings.
 
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Gate 25:**
 
 - **Constriction (Gene Keys Shadow):** Hardening against love, closing the heart, rejecting innocence due to fear or past wounds.

@@ -20,8 +20,7 @@ gene_keys: Stress → Restraint → Stillness
 
 # Gate 52: Keeping Still (Inaction)
 
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, Gate 52 is located in the **Root Center** and represents **the pressure to be still**—the capacity to pause, to wait, to resist the impulse to act prematurely. This is not passivity or laziness, but rather the strategic restraint necessary for **proper assessment and concentration**.
 
 Ra taught that Gate 52 operates within the **Collective Logic Circuit**, which means it serves the collective need to **think before acting**. This is the gate of the contemplative warrior, the chess master, the one who says "Not yet" even when external pressure demands immediate action.
@@ -160,8 +159,7 @@ The Root Center radiates **pressure and stress** into the aura. When Gate 52 is 
 - **Defined Gate 52:** Consistent capacity to remain still under pressure. The individual knows they are here to pause, assess, and wait for the right timing. The restraint is fixed.
 - **Undefined/Open Gate 52:** Samples stillness and restraint from others. Vulnerable to conditioning around "being patient" or "not rushing." Can become wise about timing by observing it in others without identifying with it.
 
-## Strategy and Authority Integration
-
+## Strategy Integration
 Gate 52, being in the Root Center, does not carry Authority (only Sacral, Solar Plexus, Splenic, Ego, Self-Projected, and No-Inner-Authority are Authority centers). However, **it profoundly influences how Authority is experienced**.
 
 **For Generators/Manifesting Generators with Gate 52:**
@@ -180,8 +178,7 @@ The pressure to pause before acting can support the Manifestor's need to **infor
 
 The 28-day lunar cycle is naturally aligned with Gate 52's stillness. The Reflector with Gate 52 may experience the pressure to wait as **deeply correct**, honoring the need for full assessment before commitment.
 
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Gate 52:**
 
 - **Stress:** Chronic tension from holding still when action is needed; the adrenals remain activated without release.

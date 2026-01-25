@@ -18,8 +18,7 @@ source_verified: Esoteric Grimoire
 *Rhythm (Being in the Flow)*
 
 ---
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, **Channel 5-15** is one of the three **Tantric channels** that connect the Sacral Center to the G Center, infusing identity and direction with life-force energy. This channel embodies the capacity to live in **natural rhythm**—to attune to the fixed patterns of existence (Gate 5) and express that attunement through balanced, loving behavior (Gate 15).
 
 Ra described this as the channel of **being in the flow**. Unlike the Individual's mutative pulse or the Tribal's immediate needs, the Collective Logic rhythm is about **universal patterns**—seasons, cycles, societal structures. The 5-15 individual is designed to wait for the right timing and then move with the natural flow of life.
@@ -180,8 +179,7 @@ Two rhythmic beings. This can be:
 - **Mutual patience:** Both wait for the right timing, creating a slow, deliberate partnership.
 
 ---
-## Strategy and Authority Integration
-
+## Strategy Integration
 Channel 5-15 **does** carry Authority for Generators and Manifesting Generators (Sacral Authority).
 
 **For Generators/MGs with Channel 5-15:**
@@ -205,8 +203,7 @@ The Sacral responds to **what** is correct. The rhythm dictates **when** the tim
 - When the rhythm aligns, the Sacral's energy is effortless and sustainable.
 
 ---
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Channel 5-15:**
 
 - **Impatience:** Forcing action before the rhythm is aligned, leading to frustration and resistance.

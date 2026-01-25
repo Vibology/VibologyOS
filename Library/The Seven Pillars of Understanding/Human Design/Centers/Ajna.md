@@ -21,8 +21,7 @@ verification_notes: "Individual verification complete. Core mechanics (biologica
 The **Ajna Center** corresponds to the **anterior and posterior pituitary glands**[^1], the "master glands" that regulate hormonal balance and biological rhythms. The pituitary is the physical seat of mental processing and conceptualization.
 
 ---
-## Definition
-
+## Ra's Definition
 The Ajna Center is an **awareness center**[^2]—it processes mental pressure from the [[Head]] and conceptualizes ideas, theories, and opinions.
 
 - **47% of people** have a defined Ajna (consistent mental processing)[^3]
@@ -132,8 +131,7 @@ All Types must learn to **trust their Authority**, not their Ajna, for decision-
 - **Tarot:** [[The High Priestess]] (mental awareness), [[The Magician]] (conceptualization)
 
 ---
-## Practical Guidance
-
+## Strategy Integration
 ### For Those with a Defined Ajna
 
 1. **Own your fixed perspective.** Your way of thinking is reliable, not rigid.

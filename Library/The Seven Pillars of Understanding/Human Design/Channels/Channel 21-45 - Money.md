@@ -19,8 +19,7 @@ source_verified: Esoteric Grimoire
 *Money (The Materialist)*
 
 ---
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, the **Channel of Money** (also called **The Money Line**) is the **voice of tribal material authority**—the capacity to control resources (Gate 21) and gather the tribe around those resources (Gate 45). This channel connects the **Heart/Ego Center** (willpower) to the **Throat Center** (manifestation), creating the only **Manifesting channel in the Tribal Circuit**.
 
 Ra taught that this channel embodies **"I have"**—the declaration of material possession, the willpower to control resources, and the voice to gather others around those resources. This is not Individual creativity or Collective sharing—this is **tribal dominance**: the King, Queen, or Pasha who controls the tribe's wealth and distributes it according to tribal law.
@@ -178,8 +177,7 @@ The aura of someone with Channel 21-45 carries a **frequency of material authori
 **Undefined/Open in Both Gates:** The individual **samples** material authority from others. They may be conditioned to believe they must control resources or lead when it is not their design. Wisdom comes from recognizing true material leaders without trying to compete.
 
 ---
-## Strategy and Authority Integration
-
+## Strategy Integration
 The Channel 21-45 is **Manifesting**, which means the individual must **inform before acting** to avoid resistance.
 
 ### For Manifestors with Channel 21-45
@@ -208,8 +206,7 @@ If you do not have this channel:
 - **Respect their need to inform**—give them space to communicate before acting.
 
 ---
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 ### Shadow Expressions of Channel 21-45
 
 **Gate 21 Shadow (Control):**

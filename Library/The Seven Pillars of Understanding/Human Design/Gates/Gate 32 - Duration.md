@@ -20,8 +20,7 @@ gene_keys: Failure → Preservation → Veneration
 
 # Gate 32: Duration (Continuity)
 
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, Gate 32 is located in the Spleen Center and represents **the archaic fear of failure**—the survival instinct that constantly evaluates whether something will endure, whether it is worth the investment of energy, whether it will last. This is the gate that says "Will this work? Can this survive?"
 
 Ra taught that Gate 32 operates within the **Tribal Ego Circuit**, which means it carries the energy of **conservative survival wisdom**—the instinct to preserve what works, to fear failure, and to adapt slowly and strategically rather than radically. This is not individual mutation or collective pattern recognition—it is tribal continuity: ensuring the survival of the family, the business, the community through tested strategies.
@@ -159,8 +158,7 @@ The Spleen Center radiates **survival awareness** into the aura. When Gate 32 is
 - **Defined Gate 32:** Consistent fear of failure and intuitive evaluation of continuity. The individual knows they are here to assess endurance, though they may not always know *what* will endure. The survival vigilance is fixed.
 - **Undefined/Open Gate 32:** Samples fear of failure from others. Vulnerable to conditioning around "playing it safe" or "fearing risk." Can become wise about continuity by observing it in others without identifying with the fear.
 
-## Strategy and Authority Integration
-
+## Strategy Integration
 Gate 32, being in the Spleen Center, **can carry Authority** if the Spleen is the individual's Authority center. Splenic Authority is the **intuitive "knowing in the now"**—immediate, spontaneous, quiet awareness that arises once and does not repeat.
 
 **For Generators/Manifesting Generators with Gate 32:**
@@ -183,8 +181,7 @@ The fear of failure is inconsistent (activated only by transits or others). The 
 
 This is **survival intuition in real time**. The body knows immediately whether something will endure or fail. The challenge is trusting the first, quiet knowing and not second-guessing with the mind or waiting for emotional certainty that will never come. Splenic awareness is immediate, quiet, and does not repeat.
 
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Gate 32:**
 
 - **Failure Anxiety:** Obsessive fear of failure leading to paralysis, unable to take any risk.

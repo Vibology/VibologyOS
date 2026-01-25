@@ -161,8 +161,7 @@ The 3/5 brings:
 
 ---
 
-## Practical Guidance
-
+## Strategy Integration
 ### For the 3/5
 
 1. **Embrace trial and error.** Your "mistakes" are research, not incompetence.

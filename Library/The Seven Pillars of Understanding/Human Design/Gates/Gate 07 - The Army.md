@@ -20,8 +20,7 @@ gene_keys: Division → Guidance → Virtue
 
 # Gate 07: The Army (Role of the Self)
 
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, Gate 7 in the G Center represents **the role of self in leadership**—not leadership in the sense of being in front, but rather **the power behind the throne**, the one who guides, organizes, and ensures collective order. This is leadership through **strategic role, not personal glory**.
 
 Ra taught that Gate 7 is fundamentally about **recognizing one's role in the collective** and stepping into that role with precision. This is not ego-driven authority but **service through leadership**—the understanding that society requires guidance, structure, and order to function, and that certain individuals are designed to provide it.
@@ -163,8 +162,7 @@ The G Center radiates **identity and direction** into the aura. When Gate 7 is a
 - **Defined Gate 7:** Consistent sense of role in collective leadership. The individual knows they are designed to guide, though the specific context may vary.
 - **Undefined/Open Gate 7:** Samples leadership roles from others. Vulnerable to conditioning around "needing to be a leader" or "needing to find one's role in the collective."
 
-## Strategy and Authority Integration
-
+## Strategy Integration
 Gate 7, being in the G Center, does not carry Authority (only Sacral, Solar Plexus, Splenic, Ego, Self-Projected, and No-Inner-Authority are Authority centers). However, **it profoundly influences how Authority is expressed through role clarity**.
 
 **For All Types with Gate 7:**
@@ -187,8 +185,7 @@ The leadership role can be initiated, but the Manifestor must **inform** before 
 
 The leadership role is experienced only through transits or proximity to others with defined G Center. The Reflector must wait the full lunar cycle before committing to leadership roles, ensuring alignment with their deep lunar timing.
 
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Gate 7:**
 
 - **Division:** Believing one's role is to divide, dominate, or impose order through force rather than serve the collective's genuine needs.

@@ -20,8 +20,7 @@ gene_keys: Vanity → Discrimination → Purity
 
 # Gate 12: Standstill (Caution)
 
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, Gate 12 in the Throat Center represents **the mutative voice of caution**—the capacity to say "no," to express hesitation, to articulate restraint when mutation requires waiting. This is not negativity or pessimism, but **discerning caution**—the recognition that not all action is timely, that sometimes **standstill is correct**.
 
 Ra taught that Gate 12 is part of the **Individual Knowing Circuit**, which means this caution carries **mutation**—it is not collective wisdom or tribal tradition, but a unique, Individual frequency that knows when to pause, when to refrain, when to resist momentum. Without Gate 22 (Grace) in the Solar Plexus Center, this caution remains **unexpressed or unemotional**, purely mental or mechanical.
@@ -160,8 +159,7 @@ The Throat Center radiates **expression** into the aura. When Gate 12 is active,
 - **Defined Gate 12:** Consistent access to the voice of caution. The individual knows they are here to express restraint, though they may struggle with being perceived as negative or obstructive.
 - **Undefined/Open Gate 12:** Samples caution from others. Vulnerable to conditioning around "being too cautious" or "not being able to say no." Can become wise about restraint by observing it in others without identifying with it.
 
-## Strategy and Authority Integration
-
+## Strategy Integration
 Gate 12, being in the Throat Center, does not carry Authority (only Sacral, Solar Plexus, Splenic, Ego, Self-Projected, and No-Inner-Authority are Authority centers). However, **it is a motor to action** when connected to a motor center, and it profoundly influences **how caution is expressed**.
 
 **For Generators/Manifesting Generators with Gate 12:**
@@ -180,8 +178,7 @@ The Manifestor can initiate the expression of caution, but must **inform** befor
 
 The caution is inconsistent (activated only by transits or others). The Reflector must wait the full lunar cycle before committing to expressing restraint on major decisions, ensuring the caution is truly aligned with their deep timing.
 
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Gate 12:**
 
 - **Vanity:** Believing one's caution is superior wisdom, using restraint to elevate oneself above others who "don't know when to stop."

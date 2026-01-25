@@ -189,8 +189,7 @@ The 6/2 brings:
 
 ---
 
-## Practical Guidance
-
+## Strategy Integration
 ### For the 6/2
 
 1. **Stage 1 (0-30):** Honor both experimentation (3) and hermit nature (2).

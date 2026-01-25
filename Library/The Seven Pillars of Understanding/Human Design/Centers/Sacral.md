@@ -21,8 +21,7 @@ verification_notes: "Individual verification complete. Core mechanics (biologica
 The **Sacral Center** corresponds to the **ovaries and testes**[^1], the organs of reproduction and generative power. This is the biological seat of **sustainable life force energy**, the capacity to create, sustain, and build.
 
 ---
-## Definition
-
+## Ra's Definition
 The Sacral Center is the **only sustainable motor** in the BodyGraph[^2]. It governs:
 - **Life force energy** — Consistent, renewable vitality
 - **Sexuality** — Reproductive and creative power
@@ -129,8 +128,7 @@ The Sacral is also the source of **[[Sacral Authority]]**[^4] (for Generators wi
 - **Tarot:** [[The Empress]] (fertile abundance), [[Strength]] (sustained engagement)
 
 ---
-## Practical Guidance
-
+## Strategy Integration
 ### For Those with a Defined Sacral (Generators)
 
 1. **Trust your gut response.** "Uh-huh" and "uhn-un" are somatic clarity, not mental decisions.

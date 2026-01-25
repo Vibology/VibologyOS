@@ -19,8 +19,7 @@ source_verified: Esoteric Grimoire
 *Preservation*
 
 ---
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, the **Channel of Preservation** is the **custodian of the tribe**—the energy that **nurtures, protects, and maintains values** to ensure the survival and well-being of the collective. This channel connects the **Sacral** (life-force energy) to the **Spleen** (instinctive awareness), creating a bridge between **sustainable work** and **survival intelligence**.
 
 Ra taught that this channel is fundamentally about **caring for others**—not from emotional sentimentality, but from **instinctive tribal responsibility**. This is the energy of the parent, the caregiver, the guardian who ensures the tribe has what it needs to survive and thrive.
@@ -184,8 +183,7 @@ The aura of someone with Channel 27-50 carries a **frequency of nurturing and re
 **Undefined/Open in Both Gates:** The individual **samples** caring energy from others. They may be conditioned to believe they must care, nurture, or uphold values when it is not their design. Wisdom comes from observing caregiving without identifying with it.
 
 ---
-## Strategy and Authority Integration
-
+## Strategy Integration
 The Channel 27-50 is **Generated**, which means the individual must **wait to respond** with their Sacral before caring or nurturing.
 
 ### For Generators with Channel 27-50
@@ -213,8 +211,7 @@ If you do not have this channel:
 - **Do not exploit**—the 27-50's caring energy is powerful but finite. Over-dependence leads to their depletion.
 
 ---
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 ### Shadow Expressions of Channel 27-50
 
 **Gate 27 Shadow (Selfishness):**

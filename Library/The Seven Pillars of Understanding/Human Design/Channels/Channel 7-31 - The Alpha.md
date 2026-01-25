@@ -18,8 +18,7 @@ source_verified: Esoteric Grimoire
 *The Alpha (Leadership)*
 
 ---
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, **Channel 7-31** is the channel of **democratic leadership** within the Collective Logic Circuit. This channel connects the G Center's capacity to embody a leadership role (Gate 7, "The Army") with the Throat's capacity to articulate and influence that leadership (Gate 31, "Influence/Leading").
 
 Ra described this as the channel of the **Alpha**—not in the Tribal sense of dominance or control, but in the Collective sense of **elected leadership**. The 7-31 individual does not lead by force or birthright; they lead because the majority recognizes their capacity to guide the collective toward a sustainable future.
@@ -186,8 +185,7 @@ Two leaders. This can be:
 - **Parallel leadership:** Both lead in different domains, respecting each other's roles.
 
 ---
-## Strategy and Authority Integration
-
+## Strategy Integration
 Channel 7-31 does **not** carry Authority (it is not a motor or awareness center connection). However, it profoundly influences **how Authority is expressed**.
 
 **For Projectors with Channel 7-31:**
@@ -209,8 +207,7 @@ Channel 7-31 does **not** carry Authority (it is not a motor or awareness center
 - **Integration:** Leadership can be initiated, but others must be informed. "I am assuming this leadership role" allows the collective to prepare and consent.
 
 ---
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Channel 7-31:**
 
 - **Arrogance:** Believing one's leadership is superior or unchallengeable, leading to tyranny or division.

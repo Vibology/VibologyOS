@@ -10,8 +10,7 @@ date_created: 2026-01-20
 
 # Wait for the Invitation: The Projector's Strategy
 
-## Definition
-
+## Ra's Definition
 **Wait for the Invitation** is the [[Projector]]'s strategy for accessing recognition and empowerment. The Projector's penetrating aura reads others with surgical precision—but without invitation, this penetration feels invasive. Waiting for the invitation ensures that the Projector's gifts are received, valued, and properly resourced.
 
 The Projector is not designed to work in the sustainable way Generators do, nor to initiate like Manifestors. They are designed to **guide**, **direct**, and **manage** energy—but only when formally invited to do so. Without invitation, their wisdom falls on deaf ears or worse, creates resistance and bitterness.
@@ -202,8 +201,7 @@ Being seen is prerequisite to invitation. Projectors can position themselves whe
 
 ---
 
-## Practical Guidance
-
+## Strategy Integration
 ### For Projectors
 
 1. **Wait for the formal invitation.** In big arenas (work, love, major decisions), don't offer guidance until asked.

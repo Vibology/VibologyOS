@@ -20,8 +20,7 @@ gene_keys: Obscurity → Idealism → Light
 
 # Gate 11: Peace (Ideas)
 
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, Gate 11 in the Ajna Center represents **the mind full of ideas**—concepts, insights, and mental constructs seeking expression and manifestation. This is not action or emotional expression, but **pure ideation**—the capacity to conceptualize, to envision possibilities, to hold mental frameworks that may or may not ever materialize.
 
 Ra taught that Gate 11 belongs to the **Individual Knowing Circuit**, which means these ideas carry **mutation**—they are not derivative or collective patterns, but genuinely new concepts that have the potential to shift paradigms. However, without Gate 56 (The Wanderer) in the Throat Center, these ideas remain **internal, unexpressed, and often overwhelming**.
@@ -160,8 +159,7 @@ The Ajna Center radiates **mental energy** into the aura. When Gate 11 is active
 - **Defined Gate 11:** Consistent mental ideation. The individual knows they are here to conceptualize, though they may not always know *what* ideas will emerge. The mental activity is fixed.
 - **Undefined/Open Gate 11:** Samples ideation from others. Vulnerable to conditioning around "being visionary" or "having great ideas." Can become wise about ideation by observing it in others without identifying with it.
 
-## Strategy and Authority Integration
-
+## Strategy Integration
 Gate 11, being in the Ajna Center, does not carry Authority (only Sacral, Solar Plexus, Splenic, Ego, Self-Projected, and No-Inner-Authority are Authority centers). However, **it profoundly influences how mental certainty is experienced**.
 
 **For Generators/Manifesting Generators with Gate 11:**
@@ -180,8 +178,7 @@ The Manifestor can initiate the expression of ideas, but must **inform** before 
 
 The ideation is inconsistent (activated only by transits or others). The Reflector must wait the full lunar cycle before committing to expressing or acting on ideas, ensuring the concepts are truly aligned with their deep timing and not just mental stimulation from the environment.
 
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Gate 11:**
 
 - **Obscurity:** Ideas so abstract or esoteric that they become disconnected from practical reality, leading to mental isolation.

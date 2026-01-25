@@ -20,8 +20,7 @@ gene_keys: Hunger → Adventure → Boundlessness
 
 # Gate 35: Progress (Change)
 
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, Gate 35 is located in the Throat Center and represents **the voice of experience and change**—the capacity to articulate "I feel" through the lens of lived experience, the hunger for new experience, and the recognition that progress requires movement through emotional territory.
 
 Ra taught that Gate 35 operates within the **Collective Abstract/Sensing Circuit**, which means it carries the energy of **experiential learning**—the wisdom that emerges only through living, feeling, and reflecting on the emotional journey. This is not logical analysis or individual mutation—it is collective evolution through shared experience.
@@ -157,8 +156,7 @@ The Throat Center radiates **manifestation energy**. When Gate 35 is active, the
 - **Defined Gate 35:** Consistent hunger for new experience. The individual knows they are here to seek change and learn through living.
 - **Undefined/Open Gate 35:** Samples hunger from others. Vulnerable to conditioning around "needing to experience everything" or "being adventurous."
 
-## Strategy and Authority Integration
-
+## Strategy Integration
 Gate 35, being in the Throat Center connected to the Solar Plexus via Channel 35-36, is often linked to **Emotional Authority** when that channel is defined.
 
 **For Generators/Manifesting Generators with Gate 35:**
@@ -181,8 +179,7 @@ The hunger is inconsistent (activated by transits or others). The Reflector must
 
 Experience must be evaluated through the emotional wave. Wait through the peaks and valleys before committing to change.
 
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Gate 35:**
 
 - **Hunger** (Gene Keys Shadow): Insatiable craving for experience, addiction to novelty, never satisfied.

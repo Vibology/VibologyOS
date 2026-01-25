@@ -20,8 +20,7 @@ gene_keys: Self-Obsession → Naturalness → Being
 
 # Gate 10: Treading (Behavior of the Self)
 
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, Gate 10 in the G Center represents **the underlying code of behavior**—the way one moves through the world, interacts with others, and presents the self. This is not performance or persona, but the **natural behavioral expression** that arises from self-love and self-regard.
 
 Ra taught that Gate 10 is fundamentally about **loving oneself enough to behave correctly**—not morally "correct" in a judgmental sense, but behaviorally aligned with one's authentic design. This is the capacity to **be oneself in interaction** without apology, knowing that one's natural behavior is valid simply because it is authentic.
@@ -166,8 +165,7 @@ The G Center radiates **identity and direction** into the aura. When Gate 10 is 
 - **Defined Gate 10:** Consistent sense of natural behavior. The individual knows how they move through life, though they must still align with Strategy and Authority.
 - **Undefined/Open Gate 10:** Samples behavioral patterns from others. Vulnerable to conditioning around "how to behave" or "who to be in interaction."
 
-## Strategy and Authority Integration
-
+## Strategy Integration
 Gate 10, being in the G Center, does not carry Authority (only Sacral, Solar Plexus, Splenic, Ego, Self-Projected, and No-Inner-Authority are Authority centers). However, **it profoundly influences how Authority is expressed through behavioral alignment**.
 
 **For All Types with Gate 10:**
@@ -190,8 +188,7 @@ The behavioral expression can be initiated, but the Manifestor must **inform** b
 
 The natural behavior is experienced only through transits or proximity to others with defined G Center. The Reflector must wait the full lunar cycle before making behavioral commitments, ensuring alignment with their deep lunar timing.
 
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Gate 10:**
 
 - **Self-Obsession:** Narcissistic focus on one's own behavior, making everything about the self, losing awareness of others.

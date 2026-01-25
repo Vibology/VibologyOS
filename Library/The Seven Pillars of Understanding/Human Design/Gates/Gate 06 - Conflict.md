@@ -20,8 +20,7 @@ gene_keys: Conflict → Diplomacy → Peace
 
 # Gate 06: Conflict (Friction)
 
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, Gate 6 in the Solar Plexus Center represents **the law that growth cannot exist without friction**—the necessary emotional tension that arises in all intimate relationships and tribal bonds. This is not conflict for conflict's sake, but **the diaphragm** that regulates how close or distant one can be with another.
 
 Ra taught that Gate 6 is fundamentally about **emotional intimacy and the friction it creates**. This gate governs the opening and closing of emotional access—who gets in, who is kept out, how much vulnerability is shared. Without friction (emotional honesty, boundaries, conflict resolution), intimacy stagnates or becomes enmeshed.
@@ -164,8 +163,7 @@ The Solar Plexus Center radiates **emotional wave** into the aura. When Gate 6 i
 - **Defined Gate 6 (Solar Plexus defined):** Consistent emotional wave around intimacy. The individual experiences friction as a natural part of connection.
 - **Undefined/Open Solar Plexus (Gate 6 undefined):** Samples emotional friction from others. Vulnerable to conditioning around "avoiding conflict" or "keeping the peace" at the expense of honesty.
 
-## Strategy and Authority Integration
-
+## Strategy Integration
 Gate 6, being in the Solar Plexus Center, is directly tied to **Emotional Authority** (for approximately 50% of humanity) and **emotional wave awareness** (for all Types with defined Solar Plexus).
 
 **For Those with Emotional Authority (Solar Plexus Defined):**
@@ -188,8 +186,7 @@ The emotional friction can guide initiation, but the Manifestor must **inform** 
 
 The emotional friction is experienced only through transits or proximity to others with defined Solar Plexus. The Reflector must wait the full lunar cycle before committing to intimate relationships, ensuring alignment with their deep lunar timing.
 
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Gate 6:**
 
 - **Conflict Addiction:** Creating friction unnecessarily, confusing intensity with intimacy.

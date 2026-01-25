@@ -10,8 +10,7 @@ date_created: 2026-01-20
 
 # To Respond: The Generator's Strategy
 
-## Definition
-
+## Ra's Definition
 **To Respond** (also called "To Wait to Respond") is the [[Generator]]'s strategy for engaging with life correctly. Rather than initiating action from the mind, the Generator waits for external stimuli—questions, opportunities, encounters—and allows the [[Sacral]] to respond with its immediate, non-verbal knowing.
 
 The Generator's open and enveloping aura is designed to **magnetize** life toward them. They do not need to chase, hunt, or force. The world comes to them, and their work is to recognize what is correct when it arrives through the Sacral's response.
@@ -197,8 +196,7 @@ When the Generator abandons their strategy:
 
 ---
 
-## Practical Guidance
-
+## Strategy Integration
 ### For Generators
 
 1. **Wait for something to respond to.** Don't initiate from the mind; let life present options.

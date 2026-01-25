@@ -20,8 +20,7 @@ gene_keys: Intolerance → Understanding → Forgiveness
 
 # Gate 04: Youthful Folly (Formulization)
 
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, Gate 4 in the Ajna Center represents **the energy to formulate answers** even when full understanding is not yet present. This is the mental pressure to **resolve uncertainty** through conceptual frameworks, patterns, and logical formulas—the capacity to create explanations that make sense of chaos.
 
 Ra taught that Gate 4 is fundamentally about **mental ease mixed with doubt**. It is the mind's drive to answer questions, to create formulas, to establish mental order—but it operates in the tension between **not-knowing (folly) and the urgency to know**.
@@ -163,8 +162,7 @@ The Ajna Center does not radiate into the aura in the same way motor centers do�
 - **Defined Gate 4 (Ajna defined):** Consistent mental pressure to formulate answers. The individual has a reliable mental framework-building capacity.
 - **Undefined/Open Ajna (Gate 4 undefined):** Samples mental formulation from others. Vulnerable to conditioning around "needing to understand" or "having all the answers." Can become wise about mental frameworks by observing them without identifying with them.
 
-## Strategy and Authority Integration
-
+## Strategy Integration
 Gate 4, being in the Ajna Center, **is never Authority**. The Ajna is an awareness center, not a decision-making center. This is critical: **mental formulas should inform, not decide**.
 
 **For All Types with Gate 4:**
@@ -187,8 +185,7 @@ The mental formulas can guide initiation, but the Manifestor must **inform** bef
 
 The mental formulation is inconsistent (activated only by transits or others). The Reflector must wait the full lunar cycle before committing to mental frameworks, ensuring they are truly aligned.
 
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Gate 4:**
 
 - **Intolerance:** Rigidity around mental formulas, believing "my way of understanding is the only way." Inability to accept other frameworks.

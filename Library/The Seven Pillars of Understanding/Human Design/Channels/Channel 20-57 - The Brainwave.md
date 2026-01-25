@@ -19,8 +19,7 @@ source_verified: Esoteric Grimoire
 *The Brainwave (Penetrating Awareness)*
 
 ---
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, the **Channel of the Brainwave** (also called **The Penetrating** or **Intuition Speaking in the Now**) is one of the most **subtle and profound channels in Human Design**. This channel connects the **Spleen Center** (intuitive awareness) to the **Throat Center** (manifestation), creating the capacity for **intuition to speak directly in the present moment**.
 
 Ra taught that this channel embodies **acoustic clarity**—the ability to HEAR what needs to be said NOW, not through mental analysis or emotional processing, but through the **Spleen's instantaneous knowing**. This is Integration Circuit energy: immediate, existential, and entirely focused on **survival in the now**.
@@ -184,8 +183,7 @@ The aura of someone with Channel 20-57 carries a **frequency of penetrating awar
 **Undefined/Open in Both Gates:** The individual **samples** intuitive articulation from others. They may be conditioned to believe they should always have clear, immediate knowing. Wisdom comes from recognizing true intuition in others without trying to manufacture it themselves.
 
 ---
-## Strategy and Authority Integration
-
+## Strategy Integration
 The Channel 20-57 is **Projected**, which means the individual must **wait for recognition and invitation** before speaking their intuitive knowing.
 
 ### For Projectors with Channel 20-57
@@ -216,8 +214,7 @@ If you do not have this channel:
 - **Do not override their fear**—if they say "this doesn't feel safe," listen.
 
 ---
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 ### Shadow Expressions of Channel 20-57
 
 **Gate 20 Shadow (Superficiality):**

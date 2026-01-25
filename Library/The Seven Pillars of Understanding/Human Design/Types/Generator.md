@@ -16,8 +16,7 @@ verification_notes: "Individual verification complete. Core mechanics (Defined S
 
 # Generator: The Life Force
 
-## Definition
-
+## Ra's Definition
 Generators are defined by a **defined [[Sacral]]**—the motor of sustainable life force energy. This single mechanical feature distinguishes them as the energetic majority of humanity, the builders and sustainers of civilization.
 
 ### Two Subtypes
@@ -163,8 +162,7 @@ The Generator-majority world is designed to *respond to life*, not force it into
 
 ---
 
-## Practical Guidance
-
+## Strategy Integration
 ### For the Generator
 
 1. **Trust your Sacral.** It knows before your mind rationalizes.

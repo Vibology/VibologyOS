@@ -10,8 +10,7 @@ date_created: 2026-01-20
 
 # To Inform: The Manifestor's Strategy
 
-## Definition
-
+## Ra's Definition
 **To Inform** is the [[Manifestor]]'s strategy for moving through the world without creating unnecessary resistance. It is not asking permission—it is **declaration**: announcing intention before initiating action so that others are not caught off guard by the Manifestor's independent impact.
 
 The Manifestor is the only Type designed to initiate—to set things in motion without waiting for response, invitation, or lunar clarity. But this initiating power creates a problem: the Manifestor's closed and repelling aura naturally pushes others away, creating unconscious resistance. **Informing transforms this resistance into transparency.**
@@ -159,8 +158,7 @@ When the Manifestor abandons their strategy:
 
 ---
 
-## Practical Guidance
-
+## Strategy Integration
 ### For Manifestors
 
 1. **Inform before acting.** Make it a practice: before any significant action, ask "Who will be impacted?" and tell them.

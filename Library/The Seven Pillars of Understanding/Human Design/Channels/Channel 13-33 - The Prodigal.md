@@ -20,8 +20,7 @@ source_verified: Esoteric Grimoire
 *The Prodigal (A Witness)*
 
 ---
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, the **Channel of the Prodigal** (13-33) is the **storytelling channel**—connecting the **G Center** (identity, direction, love) to the **Throat** (manifestation, expression). This creates a design that can **articulate collective experience through personal witness**.
 
 Ra taught that this channel carries the **Abstract Circuit's** quality of **reflection**—the capacity to listen to life's experiences, withdraw to process them (retreat), and then return to share the distilled wisdom. This is not logical analysis (Logic Circuit) nor tribal bonding (Tribal Defense). This is **collective memory-keeping**.
@@ -207,8 +206,7 @@ The Channel of the Prodigal corresponds to the **memory centers of the brain**�
 The 13-33 individual must learn to **feel the retreat signal** in the body—the point at which listening shifts from nourishing to depleting. When the body says "I need to be alone," honor it. When the voice says "I'm not ready to speak," wait. The body knows when the story has cohered.
 
 ---
-## Strategy and Authority Integration
-
+## Strategy Integration
 The Channel of the Prodigal requires integration with **Human Design Strategy** (Type-based decision-making) and **Authority** (inner decision-making mechanism).
 
 **For Projectors (13-33 as sole G-to-Throat without motors):**
@@ -232,8 +230,7 @@ The Channel of the Prodigal requires integration with **Human Design Strategy** 
 - **Isolation as defense:** Using retreat as avoidance rather than processing—withdrawing permanently rather than cycling between listening and sharing.
 
 ---
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 The Channel of the Prodigal, when conditioned by family, culture, or collective norms, distorts into **Not-Self** patterns. These are protective mechanisms that disconnect the individual from their authentic design.
 
 **Common Not-Self Patterns for 13-33:**

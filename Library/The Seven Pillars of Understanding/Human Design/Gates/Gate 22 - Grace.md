@@ -20,8 +20,7 @@ gene_keys: Dishonour → Graciousness → Grace
 
 # Gate 22: Grace (Openness)
 
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, Gate 22 in the Solar Plexus Center represents **the emotional spirit**—the capacity to be gracious, open, and present in the face of life's mundane challenges. This is the gate of **social grace**, the ability to listen, to be polite, to handle trivial situations with emotional maturity.
 
 Ra taught that Gate 22 belongs to the **Individual Knowing Circuit**, which means this grace is **not for teaching or leading others** but for personal expression. This is **emotional openness** that allows the Individual to connect through listening and presence, creating space for mutation through authentic emotional spirit.
@@ -160,8 +159,7 @@ The Solar Plexus Center radiates **emotional waves** into the aura. When Gate 22
 - **Defined Gate 22:** Consistent emotional openness and grace. The individual knows they are here to be present emotionally, though they may need Gate 12 to know when to speak.
 - **Undefined/Open Gate 22:** Samples grace from others. Vulnerable to conditioning around "needing to be nice" or "always being gracious." Can become wise about emotional presence by observing it in others without forcing it.
 
-## Strategy and Authority Integration
-
+## Strategy Integration
 Gate 22, being in the Solar Plexus Center, is directly related to **Emotional Authority** (if the Solar Plexus is defined and the individual is not a Manifestor).
 
 **For Generators/Manifesting Generators with Gate 22:**
@@ -180,8 +178,7 @@ If a Manifestor has Gate 22 defined (rare, as it requires specific connections),
 
 The emotional grace is inconsistent (activated only by transits or others). The Reflector must wait the full lunar cycle before committing to long-term emotional engagements or relationships.
 
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Gate 22:**
 
 - **Dishonour (Gene Keys Shadow):** Compromising personal integrity to be liked, saying yes when the answer is no, performing grace rather than embodying it.

@@ -26,8 +26,7 @@ The **Spleen Center** corresponds to[^1]:
 These systems govern **survival, health, immune response, and the body's instinctual knowing of danger and safety**.
 
 ---
-## Definition
-
+## Ra's Definition
 The Spleen is an **awareness center**[^2]—the oldest and most primal intelligence in the BodyGraph. It governs:
 - **Survival consciousness** — Instinctual knowing of what is safe or dangerous
 - **Health and well-being** — Immune function and physical vitality
@@ -133,8 +132,7 @@ For all Types, the Spleen:
 - **Tarot:** [[The Fool]] (trust in the leap), [[The Magician]] (acting in the present)
 
 ---
-## Practical Guidance
-
+## Strategy Integration
 ### For Those with a Defined Spleen
 
 1. **Trust your instinct.** Your first knowing is reliable—do not override it with the mind.

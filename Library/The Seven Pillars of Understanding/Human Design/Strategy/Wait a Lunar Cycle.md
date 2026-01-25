@@ -10,8 +10,7 @@ date_created: 2026-01-20
 
 # Wait a Lunar Cycle: The Reflector's Strategy
 
-## Definition
-
+## Ra's Definition
 **Wait a Lunar Cycle** is the [[Reflector]]'s strategy for achieving clarity in major decisions. With no fixed definition in their chart—all nine centers undefined—the Reflector has no consistent inner authority. Instead, they must sample **every possible energetic configuration** as the Moon transits all 64 gates over approximately 28 days.
 
 The Reflector is the rarest Type (~1% of the population), designed to serve as a **mirror for community health**. Their completely open chart allows them to sample the energies around them, reflecting back what is present in their environment. This same openness that makes them sensitive also means they have no fixed point from which to decide—which is why the lunar cycle becomes their decision-making container.
@@ -245,8 +244,7 @@ For this reason, wise communities value their Reflectors—not as participants i
 
 ---
 
-## Practical Guidance
-
+## Strategy Integration
 ### For Reflectors
 
 1. **Wait the full 28 days for major decisions.** Don't let pressure compress your timeline.

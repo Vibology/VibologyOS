@@ -20,8 +20,7 @@ gene_keys: Impatience → Patience → Timelessness
 
 # Gate 05: Waiting (Fixed Patterns)
 
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, Gate 5 in the Sacral Center represents **the capacity to attune to natural rhythms and fixed patterns**—the biological and cosmic cycles that govern life force, fertility, creativity, and sustainability. This is not passive waiting but **active alignment with timing**.
 
 Ra taught that Gate 5 is fundamentally about **rhythm**—the recognition that life moves in patterns, seasons, and cycles. The individual with this gate has the Sacral energy to **wait for the correct timing** rather than forcing action prematurely. This is the pulse of nature itself operating through the body.
@@ -164,8 +163,7 @@ The Sacral Center radiates **life force and fertility** into the aura. When Gate
 - **Defined Gate 5 (Sacral defined):** Consistent attunement to rhythm. The individual has reliable access to natural timing, though they must still wait for Sacral response.
 - **Undefined/Open Sacral (Gate 5 undefined):** Samples rhythm from others or the environment. Vulnerable to conditioning around "being productive all the time" or ignoring natural cycles.
 
-## Strategy and Authority Integration
-
+## Strategy Integration
 Gate 5, being in the Sacral Center, is directly tied to **Sacral Authority** (for Generators and Manifesting Generators) and **Sacral life force** (for all Types).
 
 **For Generators/Manifesting Generators with Gate 5:**
@@ -184,8 +182,7 @@ If the Manifestor has Gate 5 defined (rare, as Manifestors typically do not have
 
 The rhythmic attunement is experienced only through transits or proximity to others with Gate 5. The Reflector must wait the full lunar cycle (their natural rhythm) before committing to any major decisions, ensuring alignment with their deep lunar timing.
 
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Gate 5:**
 
 - **Impatience:** Forcing action before the rhythm is correct, disrupting natural timing, leading to exhaustion or failure.

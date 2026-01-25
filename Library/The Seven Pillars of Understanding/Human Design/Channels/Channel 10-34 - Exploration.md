@@ -18,8 +18,7 @@ source_verified: Esoteric Grimoire
 *Exploration (Following One's Convictions)*
 
 ---
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, **Channel 10-34** is one of the four **Integration Channels** that connect Gate 10 (Behavior of the Self) with motors or awareness centers to create **self-empowered individuation and survival**. This channel connects the G Center's sense of identity and self-love (Gate 10, "Treading") with the Sacral Center's pure, raw life-force power (Gate 34, "The Power of the Great").
 
 Ra described this as the channel of **following one's convictions**. The individual with this channel has the Sacral energy to empower their authentic behavior, to explore life according to their own principles, and to live by their own rules—not the Collective's logic, the Tribe's traditions, or the Individual's mutation, but the **Self's convictions**.
@@ -179,8 +178,7 @@ Two self-empowered beings. This can be:
 - **Parallel exploration:** Both live by their own rules side by side.
 
 ---
-## Strategy and Authority Integration
-
+## Strategy Integration
 Channel 10-34 **does** carry Authority for Generators and Manifesting Generators (Sacral Authority, or Emotional if Solar Plexus defined).
 
 **For Generators/MGs with Channel 10-34:**
@@ -203,8 +201,7 @@ The Sacral responds to life in the moment. The 10-34 individual must:
 - When the Sacral says "yes," commit fully—the power is available. When it says "no," release without guilt.
 
 ---
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Channel 10-34:**
 
 - **Force (Gene Keys Shadow):** Using power without self-love, leading to domination, control, or destruction.

@@ -20,8 +20,7 @@ gene_keys: Control → Authority → Valour
 
 # Gate 21: Biting Through (The Hunter/Huntress)
 
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, Gate 21 in the Heart (Ego) Center represents **the power to be in control**—not control over others, but control over one's own resources, territory, and material survival. This is the gate of the **Hunter/Huntress**, the tribal enforcer who has the willpower and authority to ensure that interference with the tribe's resources is dealt with decisively.
 
 Ra taught that Gate 21 belongs to the **Tribal Ego Circuit**, which means this power is fundamentally about **material survival and resource management**. This is not abstract power or spiritual authority—it is the **concrete capacity to control access to resources**, to enforce boundaries, and to ensure that the tribe's material needs are met.
@@ -160,8 +159,7 @@ The Ego Center radiates **willpower and material authority** into the aura. When
 - **Defined Gate 21:** Consistent access to control and enforcement. The individual knows they are here to manage resources and remove interference, though they may need Gate 45 to be heard.
 - **Undefined/Open Gate 21:** Samples control from others. Vulnerable to conditioning around "needing to be in control" or "proving authority." Can become wise about power by observing it in others without trying to force it.
 
-## Strategy and Authority Integration
-
+## Strategy Integration
 Gate 21, being in the Ego Center, is **not a motor** (the Ego is a motor, but it does not connect directly to the Throat for Manifestors unless through specific channels). The Ego Center can influence Authority but is **not itself an Authority**.
 
 **For Generators/Manifesting Generators with Gate 21:**
@@ -180,8 +178,7 @@ If a Manifestor has Gate 21 connected to the Throat (via Channel 21-45), they ca
 
 The control and willpower are inconsistent (activated only by transits or others). The Reflector must wait the full lunar cycle before committing to long-term resource management or enforcement decisions.
 
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Gate 21:**
 
 - **Control Addiction:** Needing to control everything, becoming a micromanager, unable to trust or delegate.

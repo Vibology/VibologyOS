@@ -20,8 +20,7 @@ gene_keys: Indifference → Versatility → Mastery
 
 # Gate 16: Enthusiasm (Skills)
 
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, Gate 16 is located in the Throat Center and represents **skill, talent, and mastery through repetitive practice**—the capacity to develop expertise by channeling energy into repeated action until it becomes second nature. This is not "enthusiasm" in the emotional sense, but rather **energized dedication to the refinement of craft**.
 
 Ra taught that Gate 16 operates within the **Collective Logic Circuit**, which means it carries **pattern-based skill development**. This gate enables the individual to recognize that mastery is built through *repetition*—doing the same thing over and over until the body learns, until the skill becomes embodied.
@@ -160,8 +159,7 @@ The Throat Center radiates **manifestation and expression** into the aura. When 
 - **Defined Gate 16:** Consistent drive to develop skill through repetition. The individual knows they are here to practice and refine, though they may need Gate 48 to know *when* their skill is adequate.
 - **Undefined/Open Gate 16:** Samples skill development from others. Vulnerable to conditioning around "needing to be talented" or "proving competence through practice." Can become wise about mastery by observing it in others.
 
-## Strategy and Authority Integration
-
+## Strategy Integration
 Gate 16, being in the Throat Center, does not carry Authority (only Sacral, Solar Plexus, Splenic, Ego, Self-Projected, and No-Inner-Authority are Authority centers). However, **it is a manifestation center**, which means it impacts how decisions are expressed into action.
 
 **For Generators/Manifesting Generators with Gate 16:**
@@ -180,8 +178,7 @@ The drive to develop and express skill can be initiated, but the Manifestor must
 
 The skill development is inconsistent (activated only by transits or others). The Reflector must wait the full lunar cycle before committing to long-term practice, ensuring the dedication aligns with their deep timing.
 
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Gate 16:**
 
 - **Indifference:** Refusing to commit to practice, avoiding the sustained effort required for mastery. The sense that "repetition is boring."

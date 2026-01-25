@@ -16,8 +16,7 @@ verification_notes: "Individual verification complete. Core mechanics (No motor-
 
 # Projector: The Guide
 
-## Definition
-
+## Ra's Definition
 The Projector is defined by two absences:
 1. **Undefined [[Sacral]]** — No sustainable life force motor
 2. **No motor connection to the [[Throat]]** — No inherent capacity to initiate or manifest energy into action
@@ -156,8 +155,7 @@ The Projector's challenge is learning to value their **insight** over output, th
 
 ---
 
-## Practical Guidance
-
+## Strategy Integration
 ### For the Projector
 
 1. **Study systems.** You are designed to master energy, people, and processes—become an expert.

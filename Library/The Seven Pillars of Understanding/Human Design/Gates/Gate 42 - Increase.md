@@ -20,8 +20,7 @@ gene_keys: Expectation → Detachment → Celebration
 
 # Gate 42: Increase (Growth)
 
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, Gate 42 is located in the Sacral Center and represents **the power to complete and maximize experiences**. This is the culminating force within the experiential process—where Gate 41 fantasizes and initiates, Gate 42 **completes and finishes**. It is the energy that says "I will see this through to the end."
 
 Ra taught that Gate 42 operates within the **Collective Abstract Circuit (Sensing Stream)**, which means it carries the power to **bring experiences to full fruition** so they can be reflected upon and shared with the collective. This is not rushed productivity or forced completion—it is the **organic growth** of experience toward natural conclusion.
@@ -159,8 +158,7 @@ The Sacral Center radiates **life force** into the aura. When Gate 42 is active,
 - **Defined Gate 42:** Consistent power to complete experiences. The individual knows they are here to maximize and finish, though the specific experiences vary over time.
 - **Undefined/Open Gate 42:** Samples the power to complete from others. Vulnerable to conditioning around "finishing everything" or "seeing things through." Can become wise about completion by observing it in others without identifying with it.
 
-## Strategy and Authority Integration
-
+## Strategy Integration
 Gate 42, being in the Sacral Center, **is an Authority** for Generators and Manifesting Generators. The Sacral response determines which experiences are correct to complete.
 
 **For Generators/Manifesting Generators with Gate 42:**
@@ -183,8 +181,7 @@ The power to complete can fuel initiatory action, but the Manifestor must **info
 
 The power to complete is inconsistent (activated only by transits or others). The Reflector must wait the full lunar cycle before committing to long-term completions, ensuring the experience aligns with their deep timing.
 
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Gate 42:**
 
 - **Expectation:** Demanding that experiences reach a specific outcome, leading to control and rigidity.

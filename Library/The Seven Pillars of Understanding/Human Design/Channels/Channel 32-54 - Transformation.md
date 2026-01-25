@@ -19,8 +19,7 @@ source_verified: Esoteric Grimoire
 *Transformation*
 
 ---
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, the **Channel of Transformation** is the **tribal drive for advancement**—the pressure to rise up the social, material, and spiritual hierarchy through strategic ambition and conservative adaptation. This channel connects the **Root** (pressure/drive) to the **Spleen** (instinctive awareness), creating a bridge between **existential pressure** and **survival intelligence**.
 
 Ra taught that this channel embodies the **fear of failure** that drives tribal success—not reckless ambition, but **cautious, strategic advancement**. The individual knows instinctively which steps to take to climb the ladder, and which risks would lead to downfall.

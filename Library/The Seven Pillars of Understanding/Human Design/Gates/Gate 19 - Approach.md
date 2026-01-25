@@ -20,8 +20,7 @@ gene_keys: Co-dependence → Sensitivity → Sacrifice
 
 # Gate 19: Approach (Wanting)
 
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, Gate 19 is located in the Root Center and represents **the pressure to approach others with sensitivity to their needs**—the recognition that all things are interrelated, that resources must be shared to ensure tribal survival. This is not "wanting" in the sense of personal desire, but rather **the pressure to be needed and to meet needs**.
 
 Ra taught that Gate 19 operates within the **Tribal Ego Circuit**, which means it carries **pressure for material support and resource exchange**. This gate enables the individual to recognize what others need and to approach them with offerings of support—but this approach is driven by the Root's pressure, creating a dynamic where the individual feels compelled to be needed in order to ensure their own place in the tribe.
@@ -160,8 +159,7 @@ The Root Center radiates **pressure and stress** into the aura. When Gate 19 is 
 - **Defined Gate 19:** Consistent pressure to approach and be needed. The individual knows they are here to support others, though they may need Gate 49 to know *which* relationships are correct.
 - **Undefined/Open Gate 19:** Samples pressure to approach from others. Vulnerable to conditioning around "needing to be needed" or "proving worth through caretaking." Can become wise about interdependence by observing it in others.
 
-## Strategy and Authority Integration
-
+## Strategy Integration
 Gate 19, being in the Root Center, does not carry Authority (only Sacral, Solar Plexus, Splenic, Ego, Self-Projected, and No-Inner-Authority are Authority centers). However, **it creates pressure that must be filtered through Authority**.
 
 **For Generators/Manifesting Generators with Gate 19:**
@@ -180,8 +178,7 @@ The pressure to approach can be initiated, but the Manifestor must **inform** be
 
 The pressure to approach is inconsistent (activated only by transits or others). The Reflector must wait the full lunar cycle before committing to caretaking relationships, ensuring the approach aligns with their deep timing.
 
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Gate 19:**
 
 - **Co-dependence:** Needing to be needed so intensely that one's identity becomes fused with caretaking, losing self in service to others' needs.

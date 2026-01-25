@@ -19,8 +19,7 @@ verification_notes: "Individual verification complete. Core mechanics (Sacral Ce
 *The Intelligence of the Gut*
 
 ---
-## Definition
-
+## Ra's Definition
 **Sacral Authority** is defined by a **defined [[Sacral]]** *without* a defined [[Solar Plexus]]. If the Solar Plexus is defined, it overrides the Sacral, and the person has [[Emotional Authority]] instead.
 
 Sacral Authority is the exclusive domain of **[[Generator]]s** (both Pure and Manifesting Generators)—the only Types with a defined Sacral Center.
@@ -151,8 +150,7 @@ Generators with Sacral Authority bring:
 - **Tarot:** [[Strength]] (trusting the inner beast), [[The Empress]] (fertile response)
 
 ---
-## Practical Guidance
-
+## Strategy Integration
 ### For Those with Sacral Authority
 
 1. **Ask for yes/no questions.** Train others to give you binary options, not open-ended inquiries.

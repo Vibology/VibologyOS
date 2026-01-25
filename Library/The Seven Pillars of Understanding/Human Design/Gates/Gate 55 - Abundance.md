@@ -20,8 +20,7 @@ gene_keys: Victimisation → Freedom → Freedom
 
 # Gate 55: Abundance (Spirit)
 
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, Gate 55 is located in the **Solar Plexus Center** and represents **the emotional spirit**—the capacity to experience life as abundant or empty based purely on one's emotional state. This is not material abundance, but rather the **spiritual richness** that arises when the emotional wave is integrated.
 
 Ra taught that Gate 55 operates within the **Individual Knowing Circuit**, which means it carries the **mutative frequency of emotional depth**. This is the gate of the poet, the mystic, the one whose spirit determines whether the glass is half full or half empty.
@@ -160,8 +159,7 @@ The Solar Plexus Center radiates **emotional waves** into the aura. When Gate 55
 - **Defined Gate 55:** Consistent emotional spirit wave. The individual knows they are here to feel deeply, though the quality of that feeling (abundance or poverty) fluctuates. The emotional spirit is fixed.
 - **Undefined/Open Gate 55:** Samples emotional spirit from others. Vulnerable to conditioning around "being positive" or "having abundant spirit." Can become wise about emotional abundance by observing it in others without identifying with it.
 
-## Strategy and Authority Integration
-
+## Strategy Integration
 Gate 55, being in the Solar Plexus Center, is central to **Emotional Authority** for those who have it. For individuals with Emotional Authority, **there is no truth in the now**—clarity emerges only after riding the emotional wave over time.
 
 **For Generators/Manifesting Generators with Gate 55 and Emotional Authority:**
@@ -180,8 +178,7 @@ The impulse to initiate must be tested across the emotional wave. The Gate 55 sp
 
 The 28-day lunar cycle is critical for emotional clarity. The Reflector samples Gate 55's emotional spirit from the transits and from others, and must wait the full cycle before committing to decisions.
 
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Gate 55:**
 
 - **Victimisation:** Experiencing life as perpetually empty; blaming external circumstances for lack of abundance.

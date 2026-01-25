@@ -20,8 +20,7 @@ gene_keys: Exhaustion → Resolve → Divine Will
 
 # Gate 40: Deliverance (Aloneness)
 
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, Gate 40 is located in the Heart/Ego Center and represents **the will to provide for the tribe—and the will to rest**. This is the gate that says "I will work for the family, but I must rest alone to restore my will."
 
 Ra taught that Gate 40 operates within the **Tribal Ego Circuit**, which means it carries the energy of **willful provision**—ensuring the tribe (family, business, community) has material support through the individual's work, and then withdrawing to restore will through aloneness.
@@ -157,8 +156,7 @@ The Heart/Ego Center radiates **willpower** into the aura. When Gate 40 is activ
 - **Defined Gate 40:** Consistent will to provide and need for aloneness to rest. The individual knows they are here to work for specific people and must withdraw to restore will.
 - **Undefined/Open Gate 40:** Samples will and provision from others. Vulnerable to conditioning around "always working" or "needing to prove worth through provision." Can become wise about will by observing it in others without identifying with it.
 
-## Strategy and Authority Integration
-
+## Strategy Integration
 Gate 40, being in the Heart/Ego Center, **can carry Authority** if the Ego is the individual's Authority center (rare—only Manifestors and some Projectors have Ego Authority, and only if certain channels are defined). Ego Authority is **in-the-moment willpower**—"I will this, now."
 
 **For those with Ego Authority and Gate 40:**
@@ -181,8 +179,7 @@ The will to provide can be initiated, but the Manifestor must **inform** before 
 
 The will to provide is inconsistent (activated by transits or others). The Reflector must wait the full lunar cycle before committing to work agreements.
 
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Gate 40:**
 
 - **Exhaustion** (Gene Keys Shadow): Working until depleted, refusing to rest, collapsing rather than recuperating.

@@ -19,8 +19,7 @@ source_verified: Esoteric Grimoire
 *Abstraction*
 
 ---
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, the **Channel of Abstraction** is the **mental reflection channel** of the Abstract (Sensing) Circuit—the pressure-driven capacity to **make sense of past experiences** through mental processing, pattern recognition, and "aha" moments of clarity. This channel connects the **Head** (pressure to think) to the **Ajna** (mental awareness), creating the **mind that processes experience into understanding**.
 
 Ra taught that this channel represents the **reflective mind**—not thinking about the future (Logic Circuit), not thinking for individual mutation (Knowing Circuit), but **thinking about what has already happened** to extract meaning, pattern, and wisdom.

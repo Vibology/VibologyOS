@@ -20,8 +20,7 @@ gene_keys: Unease → Intuition → Clarity
 
 # Gate 57: The Gentle (Intuitive Clarity)
 
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, Gate 57 is located in the **Spleen Center** and represents **acoustic intuition**—the capacity to hear truth in the present moment with penetrating clarity. This is not logical deduction or emotional knowing, but rather the **instantaneous recognition** of what is correct right now.
 
 Ra taught that Gate 57 operates within the **Individual Knowing Circuit**, which means it carries the **mutative frequency of intuitive awareness**. This is the gate of the clairaudient, the one who "hears" what others cannot, the voice that whispers "This is safe" or "This is dangerous—now."
@@ -169,8 +168,7 @@ The Spleen Center radiates **awareness and survival instinct** into the aura. Wh
 - **Defined Gate 57:** Consistent intuitive awareness in the now. The individual knows they can hear truth, though they may struggle to trust it over logic. The intuitive whisper is fixed.
 - **Undefined/Open Gate 57:** Samples intuition from others and environments. Vulnerable to conditioning around "not being intuitive enough" or "needing proof." Can become wise about intuition by observing it in others without identifying with it.
 
-## Strategy and Authority Integration
-
+## Strategy Integration
 Gate 57, being in the Spleen Center, **is Splenic Authority** for Manifestors and Projectors. For those with Splenic Authority, **the first hit is correct**—the intuition speaks once in the now and does not repeat.
 
 **For Generators/Manifesting Generators with Gate 57 (if Splenic Authority):**
@@ -189,8 +187,7 @@ The impulse to initiate is guided by Splenic intuition. The whisper says "Initia
 
 The 28-day lunar cycle allows the Reflector to sample Gate 57's intuition across multiple transits. The whisper is inconsistent, but the Reflector can observe how it functions and learn to recognize it.
 
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Gate 57:**
 
 - **Unease:** Chronic anxiety from not trusting intuition; the body knows danger but the mind overrides it.

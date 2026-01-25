@@ -20,8 +20,7 @@ gene_keys: Oppression → Transmutation → Transfiguration
 
 # Gate 47: Oppression (Realizing / Contemplation)
 
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, Gate 47 is located in the Ajna Center and represents **the pressure to make sense of experience through mental realization**. This is the gate of **contemplation**—the mind under pressure to find meaning, to connect the dots, to transform confusion into clarity.
 
 Ra taught that Gate 47 operates within the **Collective Understanding Circuit (Logic)**, which means it carries the pressure to **abstract meaning from past experiences** and make them comprehensible for the collective. This is not emotional processing or instinctual response—it is **mental pressure** seeking resolution.
@@ -159,8 +158,7 @@ The Ajna Center radiates **conceptual awareness** into the aura. When Gate 47 is
 - **Defined Gate 47:** Consistent mental pressure to realize. The individual knows they are here to make sense of experience, though the specific realizations vary over time.
 - **Undefined/Open Gate 47:** Samples mental pressure from others. Vulnerable to conditioning around "needing to understand everything" or "having to figure things out." Can become wise about realization by observing it in others without identifying with it.
 
-## Strategy and Authority Integration
-
+## Strategy Integration
 Gate 47, being in the Ajna Center, does not carry Authority (only Sacral, Solar Plexus, Splenic, Ego, Self-Projected, and No-Inner-Authority are Authority centers). The Ajna is **awareness, not Authority**—it provides perspective, but does not make decisions.
 
 **For Generators/Manifesting Generators with Gate 47:**
@@ -179,8 +177,7 @@ The mental pressure can fuel initiatory action, but the Manifestor must **inform
 
 The mental pressure is inconsistent (activated only by transits or others). The Reflector must wait the full lunar cycle before committing to realizations, ensuring the understanding is deeply aligned.
 
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Gate 47:**
 
 - **Oppression:** Chronic mental suffering through obsessive contemplation without resolution.

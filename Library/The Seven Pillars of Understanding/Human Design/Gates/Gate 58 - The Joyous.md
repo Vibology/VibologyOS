@@ -20,8 +20,7 @@ gene_keys: Dissatisfaction → Vitality → Bliss
 
 # Gate 58: The Joyous (Vitality and Perfection)
 
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, Gate 58 is located in the **Root Center** and represents the **pressure to correct and perfect**—the insatiable drive to improve, refine, and discover what is wrong in order to make it right. This is not emotional dissatisfaction; it is **biological pressure** arising from the adrenal system.
 
 Ra taught that Gate 58 operates within the **Collective Logic Circuit**, which means it carries the **pressure to test, prove, and correct patterns** for the benefit of the collective. This is the gate of vitality that cannot rest until imperfection is identified and addressed.
@@ -155,8 +154,7 @@ The Root Center radiates **pressure and fuel** into the aura. When Gate 58 is ac
 - **Defined Gate 58:** Consistent pressure to perfect. The individual knows they are driven to correct patterns, though they may struggle with never feeling satisfied. The vitality is fixed.
 - **Undefined/Open Gate 58:** Samples the pressure to correct from others and environments. Vulnerable to conditioning around "not being productive enough" or "not improving fast enough." Can become wise about vitality by observing it in others without identifying with it.
 
-## Strategy and Authority Integration
-
+## Strategy Integration
 Gate 58, being in the Root Center, is a **pressure center**—it generates the fuel to act but **is not Authority**. The Root does not make decisions; it provides the energy to implement decisions made through one's true Authority.
 
 **For Generators/Manifesting Generators with Gate 58:**
@@ -175,8 +173,7 @@ The impulse to initiate is fueled by Root pressure. The pressure says "This must
 
 The 28-day lunar cycle allows the Reflector to sample Gate 58's pressure across multiple transits. The vitality is inconsistent, but the Reflector can observe how it functions and learn to recognize when correction serves the collective.
 
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Gate 58:**
 
 - **Dissatisfaction:** Chronic inability to enjoy what is because focus is always on what's wrong.

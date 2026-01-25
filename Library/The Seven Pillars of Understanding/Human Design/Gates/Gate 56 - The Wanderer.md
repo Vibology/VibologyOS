@@ -20,8 +20,7 @@ gene_keys: Distraction → Enrichment → Intoxication
 
 # Gate 56: The Wanderer (Stimulation)
 
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, Gate 56 is located in the **Throat Center** and represents **the voice of the storyteller**—the capacity to stimulate the collective through narrative, metaphor, and experiential sharing. This is not dry factual reporting, but rather the **art of making experience come alive through words**.
 
 Ra taught that Gate 56 operates within the **Collective Sensing/Abstract Circuit**, which means it serves the collective need to **learn from shared experience**. This is the gate of the wanderer, the traveler, the one who says "I believe..." and shares stories that teach without preaching.
@@ -160,8 +159,7 @@ The Throat Center radiates **manifestation and expression** into the aura. When 
 - **Defined Gate 56:** Consistent capacity to stimulate through story. The individual knows they are here to share experiences narratively, though they may struggle with discernment (knowing which stories to share). The storytelling voice is fixed.
 - **Undefined/Open Gate 56:** Samples storytelling energy from others. Vulnerable to conditioning around "being a good storyteller" or "having interesting experiences to share." Can become wise about narrative by observing it in others without identifying with it.
 
-## Strategy and Authority Integration
-
+## Strategy Integration
 Gate 56, being in the Throat Center, is a **motor to manifestation** when connected to a motor center (Sacral, Solar Plexus, Heart, Root). However, **it does not carry Authority**; storytelling must be guided by the individual's specific Authority.
 
 **For Generators/Manifesting Generators with Gate 56:**
@@ -180,8 +178,7 @@ The impulse to share can be initiated, but the Manifestor must **inform** before
 
 The storytelling impulse is inconsistent (activated only by transits or others). The Reflector must wait the full lunar cycle before committing to major narrative projects (books, teachings, etc.), ensuring the stories are truly aligned with their deep timing.
 
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Gate 56:**
 
 - **Distraction:** Storytelling that scatters rather than enriches; tangents that lead nowhere.

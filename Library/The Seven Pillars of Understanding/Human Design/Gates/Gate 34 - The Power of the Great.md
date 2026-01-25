@@ -20,8 +20,7 @@ gene_keys: Force → Strength → Majesty
 
 # Gate 34: The Power of the Great (Power)
 
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, Gate 34 is located in the Sacral Center and represents **pure, raw power to empower**—not force or violence, but the primal life-force energy that says "Yes, I have the power to do this." This is the gate that carries the archetype of the busy person, the one with inexhaustible energy when aligned.
 
 Ra taught that Gate 34 operates within the **Integration/Centering Circuit**, which means it carries the energy of **individual empowerment through being**—not collective service or tribal support, but the raw power of existence itself. This is not about what you do—it is about the power that emerges from simply **being alive**.
@@ -175,8 +174,7 @@ The Sacral Center radiates **generative life-force** into the aura. When Gate 34
 - **Defined Gate 34:** Consistent access to raw power. The individual knows they have immense energy, though they may not always know *how* to direct it without the completing channels. The power is fixed.
 - **Undefined/Open Gate 34:** Samples power from others. Vulnerable to conditioning around "being busy" or "having energy." Can become wise about power by observing it in others without identifying with it.
 
-## Strategy and Authority Integration
-
+## Strategy Integration
 Gate 34, being in the Sacral Center, **works directly with Sacral Authority** for Generators and Manifesting Generators. The Sacral responds in the moment with "uh-huh" (yes, I have power for this) or "unh-unh" (no, I don't have power for this).
 
 **For Generators/Manifesting Generators with Gate 34:**
@@ -197,8 +195,7 @@ The power can be initiated, but the Manifestor must **inform** before using it. 
 
 The power is inconsistent (activated only by transits or others). The Reflector must wait the full lunar cycle before committing to power-intensive endeavors, ensuring the power is truly aligned with their deep timing.
 
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Gate 34:**
 
 - **Force** (Gene Keys Shadow): Using power as force rather than strength—dominating, bullying, overwhelming.

@@ -19,8 +19,7 @@ source_verified: Esoteric Grimoire
 *Moodiness (Emoting)*
 
 ---
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, the **Channel of Emoting** (also known as **Moodiness**) is the **most mutative emotional energy** in the Human Design system—the pressure-driven **individual spirit** that **provokes emotional transformation** through unpredictable moods and intensity. This channel connects the **Root** (pressure/drive) to the **Solar Plexus** (emotional awareness), creating the **individual emotional pulse**.
 
 Ra taught that this channel is fundamentally about **provoking spirit**—not collective emotional patterns, but **individual, mutative moods** that cannot be predicted or controlled. This is the "moody artist," the one whose emotional intensity is the catalyst for their own (and others') transformation.

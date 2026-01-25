@@ -162,8 +162,7 @@ The 5/2 brings:
 
 ---
 
-## Practical Guidance
-
+## Strategy Integration
 ### For the 5/2
 
 1. **Honor your hermitage.** You need solitude to discover your inner call—protect it fiercely.

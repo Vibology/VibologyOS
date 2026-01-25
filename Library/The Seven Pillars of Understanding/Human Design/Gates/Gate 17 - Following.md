@@ -20,8 +20,7 @@ gene_keys: Opinion → Far-Sightedness → Omniscience
 
 # Gate 17: Following (Opinions)
 
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, Gate 17 is located in the Ajna Center and represents **mental organization through opinions**—the capacity to formulate logical perspectives by observing patterns and organizing them into coherent frameworks. This is not "following" in the sense of blind obedience, but rather **the recognition that leadership emerges from service to patterns**.
 
 Ra taught that Gate 17 operates within the **Collective Logic Circuit**, which means it carries **pattern-based opinion formation**. This gate enables the individual to recognize that true authority comes from *understanding* the patterns deeply enough to serve them—that one cannot lead what one does not comprehend through sustained observation.
@@ -160,8 +159,7 @@ The Ajna Center radiates **conceptual awareness** into the aura. When Gate 17 is
 - **Defined Gate 17:** Consistent mental framework formation. The individual knows they are here to observe and organize through opinions, though they may need Gate 62 to articulate them clearly.
 - **Undefined/Open Gate 17:** Samples opinions from others. Vulnerable to conditioning around "needing to have opinions" or "being smart." Can become wise about mental frameworks by observing them in others without identifying with them.
 
-## Strategy and Authority Integration
-
+## Strategy Integration
 Gate 17, being in the Ajna Center, does not carry Authority (only Sacral, Solar Plexus, Splenic, Ego, Self-Projected, and No-Inner-Authority are Authority centers). The Ajna is an **awareness center**, not a decision-making center.
 
 **For Generators/Manifesting Generators with Gate 17:**
@@ -180,8 +178,7 @@ The mental frameworks can inform initiation, but the Manifestor must **inform** 
 
 The opinion formation is inconsistent (activated only by transits or others). The Reflector must wait the full lunar cycle before committing to organizational frameworks, ensuring the opinions align with their deep timing.
 
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Gate 17:**
 
 - **Opinion:** Forming judgments without adequate observation, creating mental frameworks disconnected from reality. Intellectual arrogance.

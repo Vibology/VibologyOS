@@ -19,8 +19,7 @@ source_verified: Esoteric Grimoire
 *Charisma (Thoughts Must Become Deeds)*
 
 ---
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, the **Channel of Charisma** (also called **The Channel of Being Busy** or **Thoughts Must Become Deeds**) is the **only pure Manifesting Generator channel in Human Design**. This channel connects the **Throat Center** (manifestation) directly to the **Sacral Center** (life force), creating an **immediate, unmediated bridge from awareness to action**.
 
 Ra taught that this channel embodies the archetype of **perpetual motion**—the individual who must be **busy in the now**, who experiences restlessness when stagnant, and who thrives when engaged in multiple simultaneous activities. This is not the considered reflection of the Collective, nor the mutative shock of the Individual—this is **Integration energy**: existential action, being present, and responding to life with immediate engagement.
@@ -179,8 +178,7 @@ The aura of someone with Channel 20-34 carries a **frequency of aliveness and im
 **Undefined/Open in Both Gates:** The individual **samples** immediate responsiveness from others. They may be conditioned to believe they must be constantly busy or that stillness is laziness. Wisdom comes from recognizing when busyness is authentic and when it's conditioned.
 
 ---
-## Strategy and Authority Integration
-
+## Strategy Integration
 The Channel 20-34 creates the **Manifesting Generator Type**, which means the individual must follow **Sacral response** as their strategy.
 
 ### For Manifesting Generators with Channel 20-34
@@ -204,8 +202,7 @@ If you do not have this channel:
 - **Respect their need to pivot**—they may start something and quickly shift if the response fades.
 
 ---
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 ### Shadow Expressions of Channel 20-34
 
 **Gate 20 Shadow (Superficiality):**

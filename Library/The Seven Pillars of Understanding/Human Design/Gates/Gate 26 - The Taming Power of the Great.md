@@ -20,8 +20,7 @@ gene_keys: Pride → Artfulness → Invisibility
 
 # Gate 26: The Taming Power of the Great (The Egoist)
 
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, Gate 26 in the Heart (Ego) Center represents **the power of memory in service to the tribe**—the capacity to remember what has worked, what has value, and to use that memory to influence, sell, and ensure tribal continuity. This is the gate of **the Egoist, the Trickster, and the Salesperson**, the willpower that accumulates historical knowledge and uses it strategically.
 
 Ra taught that Gate 26 belongs to the **Tribal Ego Circuit**, which means this memory serves **material survival and tribal support**. This is not abstract historical knowledge—it is **memory of what sells, what works, what convinces**, applied to ensure the tribe's resources and continuity.
@@ -160,8 +159,7 @@ The Ego Center radiates **willpower and commitment** into the aura. When Gate 26
 - **Defined Gate 26:** Consistent access to memory-based influence and willpower. The individual knows they are here to remember and sell what has value, though they may need Gate 44 for timing.
 - **Undefined/Open Gate 26:** Samples influence and memory from others. Vulnerable to conditioning around "needing to be influential" or "proving historical knowledge." Can become wise about persuasion by observing it in others without forcing it.
 
-## Strategy and Authority Integration
-
+## Strategy Integration
 Gate 26, being in the Ego Center, is **not a motor for decision-making** (the Ego can influence but is not an Authority). Strategy and Authority determine *when* and *if* to engage in influence or sales.
 
 **For Generators/Manifesting Generators with Gate 26:**
@@ -180,8 +178,7 @@ If a Manifestor has Gate 26 connected to the Throat (rare), they can **initiate 
 
 The memory and influence are inconsistent (activated only by transits or others). The Reflector must wait the full lunar cycle before committing to long-term sales, storytelling, or tribal memory-keeping roles.
 
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Gate 26:**
 
 - **Pride (Gene Keys Shadow):** Ego inflation, believing one's memory or influence is superior, using historical knowledge to elevate the self.

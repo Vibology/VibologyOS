@@ -19,8 +19,7 @@ source_verified: Esoteric Grimoire
 *Judgment (Insatiability)*
 
 ---
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, the **Channel of Judgment** is the **relentless drive to correct and perfect patterns**—the capacity to see what needs improvement and the vitality to pursue excellence. This channel connects the **Root Center** (pressure/drive) to the **Spleen Center** (instinct/health), creating a bridge between **the pressure to perfect** and **the instinct to correct**.
 
 Ra taught that this channel embodies **insatiability**—the recognition that nothing is ever truly perfect, and the drive to keep improving, refining, correcting. This is not criticism for its own sake—it is the **Logic Circuit's quality control mechanism**, ensuring that patterns serve the Collective's survival and wellbeing.
@@ -178,8 +177,7 @@ The aura of someone with Channel 18-58 carries a **frequency of corrective vital
 **Undefined/Open in Both Gates:** The individual **samples** corrective energy from others. They may be conditioned to believe they must be critical or perfect when it is not their design. Wisdom comes from appreciating correction without identifying with judgment.
 
 ---
-## Strategy and Authority Integration
-
+## Strategy Integration
 The Channel 18-58 is **Projected**, which means the individual must **wait for recognition and invitation** before sharing corrections.
 
 ### For Projectors with Channel 18-58
@@ -204,8 +202,7 @@ If you do not have this channel:
 - **Respect their need for rest**—constant correction is draining.
 
 ---
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 ### Shadow Expressions of Channel 18-58
 
 **Gate 18 Shadow (Judgement):**

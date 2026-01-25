@@ -20,8 +20,7 @@ gene_keys: Reaction → Revolution → Rebirth
 
 # Gate 49: Revolution (Principles)
 
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, Gate 49 is located in the Solar Plexus Center and represents **the principle of revolution**—the emotional sensitivity to what is unjust, unfair, or outdated, and the capacity to demand change. This is the gate of **principles**—the emotional knowing of right and wrong within the tribal context.
 
 Ra taught that Gate 49 operates within the **Tribal Ego Circuit (Defense)**, which means it carries the emotional pressure to **protect tribal integrity** through revolutionary change. This is not logical reform or individual rebellion—it is **emotionally-driven revolution** based on tribal principles.
@@ -159,8 +158,7 @@ The Solar Plexus Center radiates **emotional wave** into the aura. When Gate 49 
 - **Defined Gate 49:** Consistent emotional sensitivity to injustice. The individual knows they are here to feel what is wrong and to demand change, though the specific principles vary over time.
 - **Undefined/Open Gate 49:** Samples revolutionary sensitivity from others. Vulnerable to conditioning around "having to fight for justice" or "being revolutionary." Can become wise about principles by observing them in others without identifying with them.
 
-## Strategy and Authority Integration
-
+## Strategy Integration
 Gate 49, being in the Solar Plexus Center, **is an Authority** (Emotional Authority) for all Types except Manifestors (who may have Emotional Authority if Solar Plexus is defined).
 
 **For Generators/Manifesting Generators with Gate 49:**
@@ -183,8 +181,7 @@ The emotional sensitivity guides initiatory revolutionary action. The Manifestor
 
 The emotional sensitivity is inconsistent (activated only by transits or others). The Reflector must wait the full lunar cycle before committing to revolutionary action, ensuring the principle is deeply aligned.
 
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Gate 49:**
 
 - **Reaction:** Emotional reactivity masquerading as principle—revolution driven by personal hurt rather than tribal integrity.

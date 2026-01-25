@@ -18,8 +18,7 @@ source_verified: Esoteric Grimoire
 *Mutation (Energy Which Initiates and Fluctuates)*
 
 ---
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, **Channel 3-60** is the most fundamentally mutative channel in the entire Human Design system. This is **Format Energy**—the pulse that transforms chaos into order, the on/off rhythm that initiates new cycles and brings forth what has never existed before.
 
 Ra described this channel as **the pulse of evolution itself**. Gate 60 (Limitation) in the Root provides the pressure to accept limitation as the first step toward transcendence. Gate 3 (Difficulty at the Beginning) in the Sacral transforms that pressure into sustainable life-force energy that can birth new mutations.
@@ -183,8 +182,7 @@ Two mutative forces. This can be:
 - **Chaos:** If both resist the pulse, the relationship becomes erratic and exhausting.
 
 ---
-## Strategy and Authority Integration
-
+## Strategy Integration
 Channel 3-60 **does** carry Authority for Generators and Manifesting Generators (Sacral Authority).
 
 **For Generators/MGs with Channel 3-60:**
@@ -208,8 +206,7 @@ The Sacral responds to **what** is correct. The pulse dictates **when** the ener
 - When the pulse is "on," commit fully. The energy is there.
 
 ---
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Channel 3-60:**
 
 - **Forcing Productivity:** Ignoring the "off" pulse and trying to maintain constant output, leading to burnout and adrenal fatigue.

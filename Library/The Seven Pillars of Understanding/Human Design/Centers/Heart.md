@@ -27,8 +27,7 @@ The **Heart Center** (also called the Ego or Will Center) corresponds to[^1]:
 These organs govern **material survival, willpower, and the body's capacity to commit**.
 
 ---
-## Definition
-
+## Ra's Definition
 The Heart Center is a **motor center**[^2] (one of four) that governs:
 - **Willpower** — The capacity to commit and follow through
 - **Ego strength** — Self-worth and value
@@ -138,8 +137,7 @@ For all Types, the Heart:
 - **Tarot:** [[The Emperor]] (willful sovereignty), [[Strength]] (taming the ego)
 
 ---
-## Practical Guidance
-
+## Strategy Integration
 ### For Those with a Defined Heart
 
 1. **Honor your willpower.** You have consistent access to commitment—use it wisely.

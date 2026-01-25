@@ -20,8 +20,7 @@ gene_keys: Seriousness → Delight → Ecstasy
 
 # Gate 46: Pushing Upward (Determination of the Self / Love of the Body)
 
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, Gate 46 is located in the G Center and represents **the love of the body and physical experience**. This is the gate of **embodiment**—the capacity to be fully present in the physical form, to love being alive in a body, and to experience serendipity through physical engagement with life.
 
 Ra taught that Gate 46 operates within the **Collective Understanding Circuit (Logic)**, which means it carries the capacity to **demonstrate the perfection of physical form** through lived experience. This is not intellectual understanding or emotional ecstasy—it is the **somatic celebration** of being incarnate.
@@ -159,8 +158,7 @@ The G Center radiates **identity and direction** into the aura. When Gate 46 is 
 - **Defined Gate 46:** Consistent love of the body and embodied presence. The individual knows they are here to celebrate physical form.
 - **Undefined/Open Gate 46:** Samples embodied presence from others. Vulnerable to conditioning around "needing to love the body" or "being physically perfect." Can become wise about embodiment by observing it in others without identifying with it.
 
-## Strategy and Authority Integration
-
+## Strategy Integration
 Gate 46, being in the G Center, does not carry Authority (only Sacral, Solar Plexus, Splenic, Ego, Self-Projected, and No-Inner-Authority are Authority centers). However, **it profoundly influences the experience of being in the body**.
 
 **For Generators/Manifesting Generators with Gate 46:**
@@ -179,8 +177,7 @@ The love of the body can fuel initiatory action, but the Manifestor must **infor
 
 The love of the body is inconsistent (activated only by transits or others). The Reflector must wait the full lunar cycle before committing to long-term physical practices, ensuring the embodiment aligns with their deep timing.
 
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Gate 46:**
 
 - **Seriousness:** Taking the body too seriously, leading to rigid control or perfectionism.

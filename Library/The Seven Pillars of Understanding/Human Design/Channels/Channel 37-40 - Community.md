@@ -19,8 +19,7 @@ source_verified: Esoteric Grimoire
 *Community*
 
 ---
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, the **Channel of Community** is the **bargain of tribal support**—the emotional agreement that creates **family, partnership, and community** through mutual promises of care and provision. This channel connects the **Solar Plexus** (emotional awareness) to the **Heart (Ego)** (willpower), creating the **emotional-will contract** that binds tribes together.
 
 Ra taught that this channel represents the **part seeking the whole**—no one is complete alone; we need each other for survival, support, and meaning. This is the bargain: "I will provide for you (Ego), and you will provide for me, and together we form community (emotional bond)."

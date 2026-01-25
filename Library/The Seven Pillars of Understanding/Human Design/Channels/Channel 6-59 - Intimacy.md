@@ -18,8 +18,7 @@ source_verified: Esoteric Grimoire
 *Intimacy (Mating)*
 
 ---
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, **Channel 6-59** is the most fundamentally biological channel in the Human Design system—the **Mating Channel**. This channel connects the emotional Solar Plexus (Gate 6, Friction/Conflict) with the Sacral life force (Gate 59, Dispersion/Sexuality), creating the electromagnetic pull toward **intimacy, reproduction, and the breaking of barriers** between self and other.
 
 Ra described Gate 59 as the **Aura Breaker**—the only gate in the bodygraph with the mechanical capacity to penetrate another person's aura and create the condition for deep intimacy. Gate 6 provides the emotional diaphragm that regulates this penetration, ensuring that friction leads to growth rather than destruction.
@@ -179,8 +178,7 @@ Two Aura Breakers. This can be:
 - **Cyclical bonding:** The emotional wave creates cycles of closeness and distance.
 
 ---
-## Strategy and Authority Integration
-
+## Strategy Integration
 Channel 6-59 **does** carry Authority for Generators and Manifesting Generators (Emotional Authority).
 
 **For Generators/MGs with Channel 6-59:**
@@ -207,8 +205,7 @@ Resisting the urge to commit during emotional highs ("I love this person; let's 
 - Honor both the need for union (Gate 59) and the need for friction (Gate 6)—both are sacred.
 
 ---
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Channel 6-59:**
 
 - **Forcing Intimacy:** Penetrating barriers prematurely, without emotional clarity or consent, leading to violation or codependency.

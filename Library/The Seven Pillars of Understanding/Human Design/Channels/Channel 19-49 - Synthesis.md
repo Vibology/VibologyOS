@@ -19,8 +19,7 @@ source_verified: Esoteric Grimoire
 *Synthesis (Sensitivity)*
 
 ---
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, the **Channel of Synthesis** is the **emotional foundation of tribal intimacy**—the capacity to sense needs (Gate 19) and establish principles of acceptance or rejection (Gate 49) in service of the tribe's wellbeing. This channel connects the **Root Center** (pressure/drive) to the **Solar Plexus Center** (emotion), creating a bridge between **primal needs** and **emotional sensitivity**.
 
 Ra taught that this channel embodies the **marriage and divorce dynamic**—the capacity to unite with those who meet the tribe's needs and separate from those who violate its principles. This is not intellectual decision-making—it is **visceral, emotional discernment** based on touch, taste, and smell.
@@ -178,8 +177,7 @@ The aura of someone with Channel 19-49 carries a **frequency of emotional sensit
 **Undefined/Open in Both Gates:** The individual **samples** tribal sensitivity from others. They may be conditioned to believe they must meet everyone's needs or never reject anyone, leading to co-dependence or burnout.
 
 ---
-## Strategy and Authority Integration
-
+## Strategy Integration
 The Channel 19-49 is **Projected** and part of the **Emotional Authority** system, which means the individual must **wait for recognition** AND **wait through the emotional wave** before making decisions.
 
 ### For Projectors with Channel 19-49
@@ -208,8 +206,7 @@ If you do not have this channel:
 - **Respect their rejections**—if they say "no," it's not personal, it's somatic wisdom.
 
 ---
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 ### Shadow Expressions of Channel 19-49
 
 **Gate 19 Shadow (Co-dependence):**

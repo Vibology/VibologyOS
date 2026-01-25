@@ -19,8 +19,7 @@ source_verified: Esoteric Grimoire
 *Wavelength (Talent)*
 
 ---
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, the **Channel of Wavelength** is the **expression of talent through mastery**—the capacity to refine skill through repetition until depth emerges. This channel connects the **Throat Center** (manifestation) to the **Spleen Center** (instinct and health), creating a bridge between **articulated skill** and **somatic wisdom**.
 
 Ra taught that this channel embodies the **art of enriching life** through harmonic channeling of energy—not through innovation or mutation, but through **practiced excellence**. This is the energy of the craftsperson, the musician, the athlete—those who become masters through dedicated repetition.
@@ -178,8 +177,7 @@ The aura of someone with Channel 16-48 carries a **frequency of refined excellen
 **Undefined/Open in Both Gates:** The individual **samples** mastery from others. They may be conditioned to believe they must become experts or develop talent when it is not their design. Wisdom comes from appreciating mastery without needing to embody it.
 
 ---
-## Strategy and Authority Integration
-
+## Strategy Integration
 The Channel 16-48 is **Projected**, which means the individual must **wait for recognition and invitation** before sharing their mastery.
 
 ### For Projectors with Channel 16-48
@@ -204,8 +202,7 @@ If you do not have this channel:
 - **Appreciate depth** over novelty—this channel values refinement, not innovation.
 
 ---
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 ### Shadow Expressions of Channel 16-48
 
 **Gate 16 Shadow (Indifference):**

@@ -21,8 +21,7 @@ verification_notes: "Individual verification complete. Core mechanics (biologica
 The **Head Center** corresponds to the **pineal gland**[^1], the ancient "third eye" of esoteric tradition. This gland regulates circadian rhythms and melatonin production, linking the Head to cycles of inspiration and mental pressure.
 
 ---
-## Definition
-
+## Ra's Definition
 The Head Center is a **pressure center**[^2]—it does not process or decide, but generates **mental pressure** that drives the search for understanding.
 
 - **30% of people** have a defined Head (consistent mental pressure)[^3]
@@ -122,8 +121,7 @@ The Head has three gates, each with a distinct flavor of mental pressure[^4]:
 - **Tarot:** [[The Hermit]] (seeking understanding in solitude), [[The Star]] (inspiration from above)
 
 ---
-## Practical Guidance
-
+## Strategy Integration
 ### For Those with a Defined Head
 
 1. **Honor your mental pressure.** It is reliable and consistent; use it to inspire others.

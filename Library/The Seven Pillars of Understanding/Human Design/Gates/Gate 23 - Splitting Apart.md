@@ -20,8 +20,7 @@ gene_keys: Complexity → Simplicity → Quintessence
 
 # Gate 23: Splitting Apart (Assimilation)
 
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, Gate 23 in the Throat Center represents **the power to know and to speak what you know**—but only when the insight is fully assimilated and the timing is correct. This is the gate of **individual knowing articulated**, the mutative voice that says "I know" without needing approval or consensus.
 
 Ra taught that Gate 23 belongs to the **Individual Knowing Circuit**, which means this expression is **amoral**—it does not conform to collective morality or tribal loyalty. Gate 23 speaks what it knows, and **whether others accept or reject it is irrelevant**. This is the voice of mutation, the freak, the one who sees differently.
@@ -160,8 +159,7 @@ The Throat Center radiates **manifestation energy** into the aura. When Gate 23 
 - **Defined Gate 23:** Consistent access to individual knowing and expression. The individual knows they are here to speak what they know, though they may need Gate 43 to know *what* that is.
 - **Undefined/Open Gate 23:** Samples expression from others. Vulnerable to conditioning around "needing to explain everything" or "proving what I know." Can become wise about articulation by observing it in others without forcing it.
 
-## Strategy and Authority Integration
-
+## Strategy Integration
 Gate 23, being in the Throat Center, does **not provide Authority** (the Throat is a manifestation center, not an awareness center). Strategy and Authority determine *when* and *if* to speak.
 
 **For Generators/Manifesting Generators with Gate 23:**
@@ -180,8 +178,7 @@ If a Manifestor has Gate 23 connected to a motor (via specific channels), they c
 
 The knowing and expression are inconsistent (activated only by transits or others). The Reflector must wait the full lunar cycle before committing to articulating long-term insights or teaching.
 
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Gate 23:**
 
 - **Complexity (Gene Keys Shadow):** Over-complicating insight, intellectualizing to the point of obscurity, losing the essence in the details.

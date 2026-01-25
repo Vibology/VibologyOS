@@ -19,8 +19,7 @@ verification_notes: "Individual verification complete. Core mechanics (Spleen Ce
 *The Intelligence of the Now*
 
 ---
-## Definition
-
+## Ra's Definition
 **Splenic Authority** is defined by a **defined [[Spleen]] Center** *without* a defined [[Solar Plexus]] or [[Sacral]]. If either of those centers is defined, they override the Spleen in the authority hierarchy.
 
 Splenic Authority is the domain of **[[Manifestor]]s** and **[[Projector]]s**—the non-Sacral Types who require instantaneous, survival-based knowing.
@@ -143,8 +142,7 @@ Individuals with Splenic Authority bring:
 - **Tarot:** [[The Fool]] (trust in the leap), [[The Magician]] (acting in the present)
 
 ---
-## Practical Guidance
-
+## Strategy Integration
 ### For Those with Splenic Authority
 
 1. **Be present.** The Spleen speaks *now*; if you're distracted, you'll miss it.

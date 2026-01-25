@@ -20,8 +20,7 @@ gene_keys: Weakness → Equality → Tenderness
 
 # Gate 37: The Family (Friendship)
 
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, Gate 37 is located in the Solar Plexus Center and represents **tribal friendship and bargaining**—the emotional foundation of family and community through reciprocal agreements. This is the gate that says "I feel connected to you through our mutual support and fair exchange."
 
 Ra taught that Gate 37 operates within the **Tribal Ego Circuit**, which means it carries the energy of **support and resource exchange**—ensuring the tribe (family, business, community) survives through emotional bonding and reciprocal agreements. This is not individual empowerment or collective universality—this is tribal intimacy: "We take care of each other."
@@ -157,8 +156,7 @@ The Solar Plexus Center radiates **emotional wave** into the aura. When Gate 37 
 - **Defined Gate 37:** Consistent desire for tribal friendship and reciprocal bonding. The individual knows they are here to create family through fair exchange.
 - **Undefined/Open Gate 37:** Samples tribal bonding from others. Vulnerable to conditioning around "needing to belong" or "being part of a family." Can become wise about friendship by observing it in others without identifying with the need.
 
-## Strategy and Authority Integration
-
+## Strategy Integration
 Gate 37, being in the Solar Plexus Center, is linked to **Emotional Authority** when the Solar Plexus is defined.
 
 **For those with Emotional Authority and Gate 37:**
@@ -181,8 +179,7 @@ The desire for community can be initiated, but the Manifestor must **inform** be
 
 The friendship need is inconsistent (activated by transits or others). The Reflector must wait the full lunar cycle before committing to tribal bonds or bargains.
 
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Gate 37:**
 
 - **Weakness** (Gene Keys Shadow): Codependency, unable to exist without tribal approval or belonging.

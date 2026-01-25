@@ -19,8 +19,7 @@ source_verified: Esoteric Grimoire
 *The Fighter (Struggle)*
 
 ---
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, the **Channel of Struggle** (also known as **The Fighter**) is the Individual's capacity to **fight for meaning, purpose, and the preservation of individual integrity** through opposition and risk. This channel connects the **Spleen** (instinctive awareness) to the **Root** (pressure and drive), creating a bridge between **survival instinct** and **existential pressure**.
 
 Ra taught that this channel is fundamentally about **the struggle to find purpose**—not meaning handed down by the collective or tribe, but **meaning discovered through personal challenge, risk, and opposition**. This is the energy of the fighter who will not surrender their uniqueness, even when the collective demands conformity.
@@ -191,8 +190,7 @@ The aura of someone with Channel 28-38 carries a **frequency of intensity and op
 **Undefined/Open in Both Gates:** The individual **samples** fighting energy from others. They may be conditioned to believe they must fight, oppose, or struggle when it is not their design. Wisdom comes from observing struggle without identifying with it.
 
 ---
-## Strategy and Authority Integration
-
+## Strategy Integration
 The Channel 28-38 is **Projected**, which means the individual must **wait for recognition and invitation** before engaging in struggle or opposition.
 
 ### For Projectors with Channel 28-38
@@ -213,8 +211,7 @@ If you do not have this channel:
 - **Respect their intensity**—the fighter is not aggressive for its own sake, but because something matters deeply.
 
 ---
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 ### Shadow Expressions of Channel 28-38
 
 **Gate 28 Shadow (Purposelessness):**

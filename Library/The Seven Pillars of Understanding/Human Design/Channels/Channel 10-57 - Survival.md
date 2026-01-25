@@ -18,8 +18,7 @@ source_verified: Esoteric Grimoire
 *Survival (Perfected Form)*
 
 ---
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, **Channel 10-57** is one of the four **Integration Channels** that connect Gate 10 (Behavior of the Self) with motors or awareness centers to create **self-empowered individuation and survival**. This channel connects the G Center's sense of identity and self-love (Gate 10, "Treading") with the Spleen's intuitive awareness and survival instinct (Gate 57, "The Gentle/Intuitive Clarity").
 
 Ra described this as the channel of **perfected form**—the capacity to survive through artistic, intuitive attunement to what is correct in the now. This is not survival through force, logic, or emotion—it is survival through **clarity, grace, and intuitive perfection**.
@@ -184,8 +183,7 @@ Two intuitively guided beings. This can be:
 - **Parallel perfection:** Both perfect their own forms independently.
 
 ---
-## Strategy and Authority Integration
-
+## Strategy Integration
 Channel 10-57 **does** carry Authority for some Types (Splenic Authority, if no other authority centers are defined).
 
 **For Projectors with Channel 10-57:**
@@ -212,8 +210,7 @@ The Spleen's voice is quiet, instant, and does not repeat. If the individual hes
 - Practice acting immediately on Splenic clarity (after Strategy is honored).
 
 ---
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Channel 10-57:**
 
 - **Ignoring Intuition:** Overriding Splenic clarity with mental reasoning, leading to danger, illness, or misalignment.

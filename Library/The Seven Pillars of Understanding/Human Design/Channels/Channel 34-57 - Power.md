@@ -19,8 +19,7 @@ source_verified: Esoteric Grimoire
 *Power*
 
 ---
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, the **Channel of Power** is the **Archetype of the Human**—the purest expression of **intuitive power** in the BodyGraph. This channel connects the **Sacral** (life-force) to the **Spleen** (instinctive awareness), creating the **most primal, immediate, survival-oriented energy** in Human Design.
 
 Ra taught that this channel represents **pure power to empower**—not power over others, but **power that serves the common good** through instinctive, in-the-moment awareness. This is the frequency of the human being operating at peak survival intelligence—hearing danger, sensing opportunity, acting without hesitation.

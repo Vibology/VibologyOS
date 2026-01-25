@@ -19,8 +19,7 @@ source_verified: Esoteric Grimoire
 *Surrender*
 
 ---
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, the **Channel of Surrender** is the **master salesperson** of the Human Design system—the capacity to transmit tribal memory, manipulate patterns, and convince others to surrender to a particular version of reality. This channel connects the **Spleen** (instinctive awareness) to the **Heart (Ego) Center** (willpower), creating a bridge between **survival intelligence** and **material control**.
 
 Ra taught that this channel is not about personal surrender, but about **getting others to surrender** to your will, your product, your story, or your version of history. This is the channel of the **trickster, the marketer, the storyteller who bends reality** through selective memory and strategic presentation.
@@ -186,8 +185,7 @@ The aura of someone with Channel 26-44 carries a **frequency of persuasive intel
 **Undefined/Open in Both Gates:** The individual **samples** persuasive energy from others. They may be conditioned to believe they must sell, manipulate, or control narrative when it is not their design. Wisdom comes from observing transmissive power without identifying with it.
 
 ---
-## Strategy and Authority Integration
-
+## Strategy Integration
 The Channel 26-44 is **Projected**, which means the individual must **wait for recognition and invitation** before attempting to influence, sell, or transmit.
 
 ### For Projectors with Channel 26-44
@@ -216,8 +214,7 @@ If you do not have this channel:
 - **Respect their need for rest** after persuasive efforts. The Ego requires downtime to recharge.
 
 ---
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 ### Shadow Expressions of Channel 26-44
 
 **Gate 26 Shadow (Pride):**

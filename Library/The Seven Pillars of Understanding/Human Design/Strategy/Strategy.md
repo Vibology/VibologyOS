@@ -16,8 +16,7 @@ verification_notes: "Individual verification complete. Overview of 4 Strategies 
 *The Geometry of Correct Movement*
 
 ---
-## Definition
-
+## Ra's Definition
 **Strategy** is the practical tool for living your unique design without resistance. It is not a philosophy or aspiration but a **mechanical law**—the specific way your Type is designed to move through the world in alignment with its correct geometry.
 
 Strategy aligns your vehicle (the BodyGraph) with its role in the totality. When followed correctly, it rewards you with your Type's **Signature** (peace, satisfaction, success, or surprise). When abandoned, it signals incorrectness through your **Not-Self Theme** (anger, frustration, bitterness, or disappointment).
@@ -200,8 +199,7 @@ Strategy is the spiritual practice of **alignment**—not through transcendence 
 - **Tarot:** [[The Chariot]] (alignment of vehicle and will) and [[Temperance]] (right timing)
 
 ---
-## Practical Guidance
-
+## Strategy Integration
 ### For All Types
 
 1. **Learn your Strategy.** It is the first key to living your design.

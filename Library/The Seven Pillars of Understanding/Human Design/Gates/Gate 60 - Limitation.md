@@ -20,8 +20,7 @@ gene_keys: Limitation → Realism → Justice
 
 # Gate 60: Limitation (The Pulse of Mutation)
 
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, Gate 60 is located in the **Root Center** and represents **the acceptance of limitation as the first step toward transcendence**—the recognition that constraints are not obstacles but the very foundation of evolutionary mutation. This is not resignation; it is **biological realism**.
 
 Ra taught that Gate 60 operates within the **Individual Knowing Circuit**, which means it carries the **mutative frequency of accepting what is** in order to pulse toward what could be. This is the gate of the pulse—the on/off rhythm that creates mutation through constraint and release.
@@ -155,8 +154,7 @@ The Root Center radiates **pressure and fuel** into the aura. When Gate 60 is ac
 - **Defined Gate 60:** Consistent pulse of limitation pressure. The individual knows they operate in rhythms—on/off, constraint/release. The pulse is fixed.
 - **Undefined/Open Gate 60:** Samples limitation pressure from others. Vulnerable to conditioning around "not accepting limits" or "needing to transcend constantly." Can become wise about limitation by observing it in others without identifying with it.
 
-## Strategy and Authority Integration
-
+## Strategy Integration
 Gate 60, being in the Root Center, is a **pressure center**—it generates the fuel to act but **is not Authority**. The Root does not make decisions; it provides the pulse pressure to implement decisions made through one's true Authority.
 
 **For Generators/Manifesting Generators with Gate 60:**
@@ -175,8 +173,7 @@ The impulse to initiate is pulsed by Root pressure. The pulse says "Accept this 
 
 The 28-day lunar cycle allows the Reflector to sample Gate 60's pulse across multiple transits. The limitation pressure is inconsistent, but the Reflector can observe how it functions and learn to recognize the rhythm of constraint and release.
 
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Gate 60:**
 
 - **Limitation (Shadow):** Experiencing constraint as imprisonment; believing limits are punishment rather than evolutionary foundation.

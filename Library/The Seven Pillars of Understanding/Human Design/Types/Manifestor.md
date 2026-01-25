@@ -16,8 +16,7 @@ verification_notes: "Individual verification complete. Core mechanics (Motor-to-
 
 # Manifestor: The Initiator
 
-## Definition
-
+## Ra's Definition
 The Manifestor possesses a **direct or indirect connection** between the [[Throat]] and one or more of the three motor centers ([[Heart]], [[Solar Plexus]], or [[Root]]), while conspicuously **lacking Sacral definition**. This mechanical configuration creates the only "pure doer" in the Human Design system—a being designed to initiate action without requiring external permission or response.
 
 ---
@@ -129,8 +128,7 @@ The Manifestor's minority status is not accidental—their role is to **initiate
 
 ---
 
-## Practical Guidance
-
+## Strategy Integration
 ### For the Manifestor
 
 1. **Inform, don't ask.** Your Strategy is not permission-seeking; it is transparency.

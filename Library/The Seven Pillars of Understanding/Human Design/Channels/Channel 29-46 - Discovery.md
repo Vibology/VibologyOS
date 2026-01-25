@@ -19,8 +19,7 @@ source_verified: Esoteric Grimoire
 *Discovery*
 
 ---
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, the **Channel of Discovery** is one of the three **Tantric channels**—channels that connect the Sacral directly to the G Center, creating a bridge between **life-force energy** and **spiritual direction**. This channel embodies the principle of **succeeding where others fail** through sheer **commitment, perseverance, and serendipity**.
 
 Ra taught that this channel is fundamentally about **saying "yes" to experience**—not cautiously, not strategically, but **wholeheartedly**. The individual with this channel discovers their purpose not through planning or logic, but through **committed engagement with life** and the serendipitous discoveries that emerge from total dedication.
@@ -191,8 +190,7 @@ The aura of someone with Channel 29-46 carries a **frequency of commitment and s
 **Undefined/Open in Both Gates:** The individual **samples** committed energy from others. They may be conditioned to believe they must commit, persevere, or stick with experiences when it is not their design. Wisdom comes from observing commitment without identifying with it.
 
 ---
-## Strategy and Authority Integration
-
+## Strategy Integration
 The Channel 29-46 is **Generated (Tantric)**, which means the individual must **wait to respond** with their Sacral before committing.
 
 ### For Generators with Channel 29-46
@@ -220,8 +218,7 @@ If you do not have this channel:
 - **Honor their discoveries**—the 29-46's serendipity often reveals what others miss.
 
 ---
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 ### Shadow Expressions of Channel 29-46
 
 **Gate 29 Shadow (Half-Heartedness):**

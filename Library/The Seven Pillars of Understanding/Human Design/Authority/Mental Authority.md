@@ -19,8 +19,7 @@ verification_notes: "Individual verification complete. Core mechanics (Ajna/Head
 *The Intelligence of Environment*
 
 ---
-## Definition
-
+## Ra's Definition
 **Mental Authority** (also called **Environmental Authority** or **No Inner Authority**) is defined by **no centers defined below the Throat**. The only definition present is in the:
 - [[Head]] (pressure to think)
 - [[Ajna]] (conceptualization and mental processing)
@@ -171,8 +170,7 @@ Individuals with Mental Authority bring:
 - **Tarot:** [[The Hermit]] (seeking counsel), [[The Star]] (trust in the environment)
 
 ---
-## Practical Guidance
-
+## Strategy Integration
 ### For Those with Mental Authority
 
 1. **Do not trust your mind to decide.** The mind thinks; it does not know what is correct.

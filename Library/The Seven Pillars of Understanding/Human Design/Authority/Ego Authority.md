@@ -20,8 +20,7 @@ verification_notes: "Individual verification complete. Core mechanics (Heart Cen
 *The Intelligence of Willpower*
 
 ---
-## Definition
-
+## Ra's Definition
 **Ego Authority** is defined by a **defined [[Heart]] Center** (also called the Ego or Will Center) *without* a defined [[Solar Plexus]], [[Sacral]], or [[Spleen]]. If any of those centers is defined, they override the Heart in the authority hierarchy.
 
 Ego Authority is the domain of a small subset of **[[Manifestor]]s** and **[[Projector]]s**—those who make decisions through willpower, commitment, and self-interest.
@@ -153,8 +152,7 @@ Individuals with Ego Authority bring:
 
 ---
 
-## Practical Guidance
-
+## Strategy Integration
 ### For Those with Ego Authority
 
 1. **(Ego-Manifested) Speak to know.** Blurt out what you want; your truth is revealed through declaration.

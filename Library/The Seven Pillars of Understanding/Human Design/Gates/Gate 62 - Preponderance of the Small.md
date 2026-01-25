@@ -20,8 +20,7 @@ gene_keys: Intellect → Precision → Impeccability
 
 # Gate 62: Preponderance of the Small (The Detail Master)
 
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, Gate 62 is located in the **Throat Center** and represents the **capacity to express details, name facts, and organize information**—the voice that says "I think" and articulates the small, specific truths that logic depends on. This is not grand philosophy; it is **precise naming**.
 
 Ra taught that Gate 62 operates within the **Collective Logic Circuit**, which means it carries the frequency to **articulate details for collective understanding**. This is the gate of the detail master—the one who names what others overlook, who organizes facts so patterns can be seen.
@@ -155,8 +154,7 @@ The Throat Center radiates **expression and manifestation** into the aura. When 
 - **Defined Gate 62:** Consistent voice for detail. The individual knows they are designed to express facts, though they may struggle with knowing when to stop naming and when to allow silence.
 - **Undefined/Open Gate 62:** Samples the voice of detail from others. Vulnerable to conditioning around "not being smart enough" or "not knowing enough facts." Can become wise about detail by observing it in others without forcing it.
 
-## Strategy and Authority Integration
-
+## Strategy Integration
 Gate 62, being in the Throat Center, is a **manifestation center**—it brings inner truth into form through voice. However, **the Throat is not Authority** (except in rare cases of Manifestor Ego-to-Throat Authority). Gate 62 expresses what Authority determines is correct to share.
 
 **For All Types with Gate 62:**
@@ -179,8 +177,7 @@ The impulse to speak details is strong. The Manifestor must inform before expres
 
 The 28-day lunar cycle allows the Reflector to sample Gate 62's voice across multiple transits. The detail expression is inconsistent, but the Reflector can observe when naming serves clarity and when it overwhelms.
 
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Gate 62:**
 
 - **Intellect (Shadow):** Using detail to appear intelligent; performing precision without serving clarity.

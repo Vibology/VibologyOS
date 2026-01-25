@@ -20,8 +20,7 @@ gene_keys: Entropy → Freshness → Beauty
 
 # Gate 01: The Creative (Self-Expression)
 
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, Gate 1 is located in the G Center and represents **the primal creative force**—pure, undifferentiated potential seeking expression through individual direction. This is not "creativity" in the artistic sense alone, but rather the fundamental life-force energy that says "I am" and seeks to manifest unique direction in the world.
 
 Ra taught that Gate 1 operates within the **Individual Knowing Circuit**, which means it carries **mutation**—the capacity to express something utterly unique that has never been expressed before. This is the gate of the artist, the innovator, the one who brings forth new forms not from collective patterns but from the deep well of individual identity.
@@ -159,8 +158,7 @@ The G Center radiates **identity and direction** into the aura. When Gate 1 is a
 - **Defined Gate 1:** Consistent creative impulse. The individual knows they are here to create, though they may not always know *what* to create. The creative direction is fixed.
 - **Undefined/Open Gate 1:** Samples creative impulses from others. Vulnerable to conditioning around "being creative" or "finding one's direction." Can become wise about creativity by observing it in others without identifying with it.
 
-## Strategy and Authority Integration
-
+## Strategy Integration
 Gate 1, being in the G Center, does not carry Authority (only Sacral, Solar Plexus, Splenic, Ego, Self-Projected, and No-Inner-Authority are Authority centers). However, **it profoundly influences how Authority is expressed**.
 
 **For Generators/Manifesting Generators with Gate 1:**
@@ -179,8 +177,7 @@ The creative impulse can be initiated, but the Manifestor must **inform** before
 
 The creative impulse is inconsistent (activated only by transits or others). The Reflector must wait the full lunar cycle before committing to creative projects, ensuring the creative direction is truly aligned with their deep timing.
 
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Gate 1:**
 
 - **Entropy:** Feeling that creative energy is dissipating, leaking, or wasting away. The sense that "I have nothing left to create."

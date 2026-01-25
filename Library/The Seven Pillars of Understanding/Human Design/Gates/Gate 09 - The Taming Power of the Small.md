@@ -20,8 +20,7 @@ gene_keys: Inertia → Determination → Invincibility
 
 # Gate 09: The Taming Power of the Small (Focus)
 
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, Gate 9 in the Sacral Center represents **the life force to focus on details**—not broad vision or grand strategy, but the capacity to sustain attention on **the small, the specific, the particular**. This is the energy to work patiently, meticulously, and persistently on tasks that require concentration.
 
 Ra taught that Gate 9 is fundamentally about **taming potential through focus**—the recognition that **power lies in the accumulation of small efforts**. This is not the dramatic breakthrough but the steady, incremental work that builds mastery, precision, and reliability.
@@ -164,8 +163,7 @@ The Sacral Center radiates **life force and fertility** into the aura. When Gate
 - **Defined Gate 9 (Sacral defined):** Consistent life force for focused work. The individual has reliable energy to sustain concentration, though they must still wait for Sacral response.
 - **Undefined/Open Sacral (Gate 9 undefined):** Samples focused energy from others or the environment. Vulnerable to conditioning around "needing to focus all the time" or "finishing everything started."
 
-## Strategy and Authority Integration
-
+## Strategy Integration
 Gate 9, being in the Sacral Center, is directly tied to **Sacral Authority** (for Generators and Manifesting Generators) and **Sacral life force** (for all Types).
 
 **For Generators/Manifesting Generators with Gate 9:**
@@ -184,8 +182,7 @@ If the Manifestor has Gate 9 defined (rare, as Manifestors typically do not have
 
 The focused energy is experienced only through transits or proximity to others with defined Sacral. The Reflector must wait the full lunar cycle before committing to detailed projects, ensuring alignment with their deep lunar timing.
 
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Gate 9:**
 
 - **Inertia:** Inability to focus or begin detailed work, paralyzed by overwhelm or the scope of what needs attention.

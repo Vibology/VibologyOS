@@ -20,8 +20,7 @@ gene_keys: Dominance → Communion → Liberation
 
 # Gate 45: Gathering Together (The Gatherer King/Queen)
 
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, Gate 45 is located in the Throat Center and represents **the voice of rulership and education**—the capacity to gather the tribe around shared resources and communicate the rules that ensure collective survival. This is the gate of **the king or queen**—the one who speaks with authority about how resources will be distributed and managed.
 
 Ra taught that Gate 45 operates within the **Tribal Ego Circuit (Defense)**, which means it carries the responsibility to **govern and educate the tribe** in ways that protect material well-being. This is not individual leadership or collective vision—it is **tribal rulership** rooted in resource management and survival.
@@ -159,8 +158,7 @@ The Throat Center radiates **manifestation** into the aura. When Gate 45 is acti
 - **Defined Gate 45:** Consistent voice of rulership. The individual knows they are here to speak with authority about resources, though the specific content varies over time.
 - **Undefined/Open Gate 45:** Samples rulership energy from others. Vulnerable to conditioning around "needing to be in charge" or "having authority." Can become wise about leadership by observing it in others without identifying with it.
 
-## Strategy and Authority Integration
-
+## Strategy Integration
 Gate 45, being in the Throat Center, does not carry Authority (only Sacral, Solar Plexus, Splenic, Ego, Self-Projected, and No-Inner-Authority are Authority centers). However, **it profoundly influences how Authority is expressed**.
 
 **For Generators/Manifesting Generators with Gate 45:**
@@ -179,8 +177,7 @@ The voice of rulership can fuel initiatory action, but the Manifestor must **inf
 
 The voice of rulership is inconsistent (activated only by transits or others). The Reflector must wait the full lunar cycle before committing to leadership roles, ensuring the position aligns with their deep timing.
 
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Gate 45:**
 
 - **Dominance:** Using rulership to control and dominate rather than educate and gather.

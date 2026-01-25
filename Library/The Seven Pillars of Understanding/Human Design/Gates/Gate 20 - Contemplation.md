@@ -20,8 +20,7 @@ gene_keys: Superficiality → Self Assurance → Presence
 
 # Gate 20: Contemplation (The Now)
 
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, Gate 20 is located in the Throat Center and represents **awareness in the now, expressed through action**—the capacity to be fully present in the moment and to manifest that presence through voice and behavior. This is not "contemplation" in the sense of passive meditation, but rather **active recognition of what is happening right now**, articulated and embodied.
 
 Ra taught that Gate 20 operates within the **Integration Circuit**, which means it carries **individual empowerment expressed through present-moment awareness**. This gate enables the individual to recognize the now and to *speak* or *act* from that recognition—but this awareness is existential, rooted in the lived experience of being here, in this body, in this moment.
@@ -177,8 +176,7 @@ The Throat Center radiates **manifestation and expression** into the aura. When 
 - **Defined Gate 20:** Consistent capacity for present-moment awareness and expression. The individual knows they are here to be in the now and to manifest that presence.
 - **Undefined/Open Gate 20:** Samples presence from others. Vulnerable to conditioning around "needing to be present" or "performing mindfulness." Can become wise about the now by observing it in others.
 
-## Strategy and Authority Integration
-
+## Strategy Integration
 Gate 20, being in the Throat Center, does not carry Authority (only Sacral, Solar Plexus, Splenic, Ego, Self-Projected, and No-Inner-Authority are Authority centers). However, **it is a manifestation center**, which means it impacts how decisions are expressed into action.
 
 **For Generators/Manifesting Generators with Gate 20:**
@@ -197,8 +195,7 @@ The awareness of the now can be expressed, but the Manifestor must **inform** be
 
 The presence in the now is inconsistent (activated only by transits or others). The Reflector must wait the full lunar cycle before committing to actions based on momentary awareness, ensuring the recognition aligns with their deep timing.
 
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Gate 20:**
 
 - **Superficiality:** Speaking and acting from surface awareness, skimming the now without truly dwelling in it. Performative presence.

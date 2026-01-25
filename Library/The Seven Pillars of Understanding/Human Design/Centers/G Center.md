@@ -21,8 +21,7 @@ verification_notes: "Individual verification complete. Core mechanics (biologica
 The **G Center** corresponds to the **liver and blood**[^1], the organs responsible for detoxification, life-sustaining circulation, and maintaining the body's chemical identity. The liver processes and integrates; the blood carries identity throughout the system.
 
 ---
-## Definition
-
+## Ra's Definition
 The G Center is the **identity center**[^2]—the seat of:
 - **Who you are** (fixed or fluid identity)
 - **Where you are going** (life direction)
@@ -126,8 +125,7 @@ For all other Types, the G Center:
 - **Tarot:** [[The Lovers]] (identity through relationship), [[The World]] (completion of self)
 
 ---
-## Practical Guidance
-
+## Strategy Integration
 ### For Those with a Defined G Center
 
 1. **Own your fixed identity.** You are designed to know who you are—this is not arrogance.

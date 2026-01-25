@@ -20,8 +20,7 @@ gene_keys: Purposelessness → Totality → Immortality
 
 # Gate 28: Preponderance of the Great (The Game Player)
 
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, Gate 28 in the Spleen Center represents **the instinctual awareness of risk**—the capacity to sense when life's game is worth playing, when struggle has meaning. This is the gate of **the Game Player**, the Individual who knows that power and influence are transitory and yet chooses to engage anyway, seeking significance through the struggle.
 
 Ra taught that Gate 28 belongs to the **Individual Knowing Circuit**, which means this struggle is **not for collective causes or tribal loyalty** but for personal meaning. This is **the warrior's path**—fighting not because victory is guaranteed but because the fight itself gives life purpose.
@@ -160,8 +159,7 @@ The Spleen Center radiates **instinctual awareness** into the aura. When Gate 28
 - **Defined Gate 28:** Consistent awareness of risk and transience. The individual knows they are here to struggle for meaning, though they may need Gate 38 for the pressure to fight.
 - **Undefined/Open Gate 28:** Samples risk awareness from others. Vulnerable to conditioning around "needing to find purpose" or "proving life has meaning." Can become wise about struggle by observing it in others without forcing it.
 
-## Strategy and Authority Integration
-
+## Strategy Integration
 Gate 28, being in the Spleen Center, is **not an Authority** (the Spleen can provide Authority, but Gate 28 itself does not determine correctness). Strategy and Authority determine *when* and *if* to engage in struggle.
 
 **For Generators/Manifesting Generators with Gate 28:**
@@ -180,8 +178,7 @@ If a Manifestor has Gate 28 defined (rare configuration), they can **initiate st
 
 The risk awareness is inconsistent (activated only by transits or others). The Reflector must wait the full lunar cycle before committing to long-term struggles or existential battles.
 
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Gate 28:**
 
 - **Purposelessness (Gene Keys Shadow):** Nihilism, believing life is meaningless because it's transitory, refusing to fight or engage.

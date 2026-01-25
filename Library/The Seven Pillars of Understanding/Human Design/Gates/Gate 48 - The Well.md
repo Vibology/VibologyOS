@@ -20,8 +20,7 @@ gene_keys: Inadequacy → Resourcefulness → Wisdom
 
 # Gate 48: The Well (Depth)
 
-## Ra's Mechanical Definition
-
+## Ra's Definition
 According to Ra Uru Hu, Gate 48 is located in the Spleen Center and represents **the depth of resources and knowledge**—the capacity to assess whether there is sufficient depth to support collective endeavors. This is the gate of **the wellspring**—the deep reservoir from which the collective draws sustenance.
 
 Ra taught that Gate 48 operates within the **Collective Understanding Circuit (Logic)**, which means it carries the awareness of **whether resources (material, intellectual, or energetic) are adequate**. This is not about accumulation but about **depth**—knowing if the well is deep enough to sustain what is being attempted.
@@ -159,8 +158,7 @@ The Spleen Center radiates **survival awareness** into the aura. When Gate 48 is
 - **Defined Gate 48:** Consistent awareness of resource depth. The individual knows they are here to assess adequacy, though the specific resources vary over time.
 - **Undefined/Open Gate 48:** Samples depth awareness from others. Vulnerable to conditioning around "needing to be adequate" or "having to have all the answers." Can become wise about resourcefulness by observing it in others without identifying with it.
 
-## Strategy and Authority Integration
-
+## Strategy Integration
 Gate 48, being in the Spleen Center, **can be an Authority** (Splenic Authority) for Manifestors and Projectors. For Generators/MGs, the Spleen is awareness, not Authority.
 
 **For Generators/Manifesting Generators with Gate 48:**
@@ -179,8 +177,7 @@ The depth awareness guides initiatory action. The Manifestor must **inform** bas
 
 The depth awareness is inconsistent (activated only by transits or others). The Reflector must wait the full lunar cycle before making decisions based on perceived inadequacy, ensuring the assessment is deeply aligned.
 
-## Conditioning and Not-Self Patterns
-
+## Not-Self Patterns
 **Shadow Expressions of Gate 48:**
 
 - **Inadequacy:** Chronic feeling of not being enough, not knowing enough, not having enough depth.
