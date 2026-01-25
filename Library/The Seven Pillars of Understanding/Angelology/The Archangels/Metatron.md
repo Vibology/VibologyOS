@@ -30,9 +30,9 @@ Metatron is unique among the Archangels for two reasons: first, he is the **only
 The etymology of *Metatron* is debated among scholars. Unlike other Archangelic names (Michael = "Who is as God?", Gabriel = "God is my strength"), Metatron's name does not follow the standard Hebrew theophoric pattern (ending in *-el*). Several theories exist:
 
 1. **Greek Origin:** From *meta* (after/beyond) + *thronos* (throne) = "One who serves behind the throne" or "Beside the throne"
-2. **Latin Origin:** From *metator* (guide/measurer) = "The one who measures and guides"
+2. **Latin Origin:** From *metator* (guide/measurer) = "The one who measures and guides" (Davidson, *A Dictionary of Angels*)
 3. **Hebrew Corruption:** From *Matara* (keeper/guardian) = "The keeper of the watch"
-4. **Mystical Cipher:** The name has a gematria value of 314, the same as *Shaddai* (שדי, "Almighty"), linking Metatron to the divine name associated with Kether
+4. **Mystical Cipher:** 3 Enoch mentions a gematria value of 71 for "Lesser YAH" associated with Metatron
 
 The *Zohar* refers to Metatron as **"The Lesser YHVH"** (*YHVH ha-Katan*), suggesting that he bears the **Tetragrammaton itself** within his nature—the unpronounceable name of God. Exodus 23:20-21 states:
 
@@ -67,9 +67,11 @@ In the **Qabalistic Tree of Life**, Metatron is the Archangel of **Kether** (כ�
 
 Metatron, as the Archangel of Kether, is the **active intelligence** of divine unity. Where Kether is the *principle* of oneness, Metatron is the *agent* who translates that oneness into the multiplicity of creation. He stands **between the Infinite and the finite**, serving as the **first mediator**.
 
-Dion Fortune writes in *The Mystical Qabalah*:
+Davidson writes in *A Dictionary of Angels*:
 
-> *"Metatron is said to be the Archangel who led the Children of Israel through the Wilderness, in whom is the Name. He is conceived of as the link between God and man, the spiritual being nearest to humanity who is yet divine."*
+> *"According to the cabala, Metatron is the angel who led the children of Israel through the wilderness after the Exodus... he is described as the twin brother or half-brother of the angel Sandalphon."*
+
+Metatron is conceived of as the **link between God and man**, the spiritual being nearest to humanity who is yet divine.
 
 This mediating function is critical: without Metatron, the human soul could not approach the Godhead without being annihilated by the intensity of pure divinity. Metatron **steps down the voltage** of divine presence, making it comprehensible, bearable, survivable.
 
@@ -82,7 +84,7 @@ Metatron is called the **Prince of Countenances** (*Sar ha-Panim*), a title that
 
 Metatron, as the Prince of Countenances, is the **closest one can come** to seeing the divine face without obliteration. He is the **reflection** of God's presence, the mirror in which the Divine can be beheld indirectly. To encounter Metatron is to stand in the presence of the Holy of Holies, to approach the Throne itself.
 
-The *Zohar* describes Metatron as having **seventy names**, corresponding to the seventy nations of the world, and as possessing a **body of cosmic proportions**—his height extending from earth to heaven, his form encompassing the entire created universe. This is not to be taken literally but **symbolically**: Metatron is the **totality of creation** as it exists within divine consciousness before it descends into material form.
+3 Enoch describes Metatron as having **seventy names** ("I have seventy names, corresponding to the seventy tongues of the world"), and as possessing a **body of cosmic proportions**—his height extending from earth to heaven, his form encompassing the entire created universe. This is not to be taken literally but **symbolically**: Metatron is the **totality of creation** as it exists within divine consciousness before it descends into material form.
 
 ---
 ### The Function: Chancellor, Scribe, and Sustainer
@@ -102,7 +104,7 @@ Jewish mysticism teaches that Metatron **sustains the prayers of humanity**, gat
 Metatron is invoked as the guide who leads souls through the afterlife realms, particularly the highest heavens. He is the psychopomp of the celestial journey, the one who teaches the soul how to navigate the seven palaces (*Hekhalot*) and ascend to the divine presence.
 
 **5. Teacher of Hidden Knowledge**
-The *Sefer Raziel ha-Malakh* (Book of the Angel Raziel) is sometimes attributed to Metatron's teachings. He is the revealer of esoteric wisdom, the one who instructs initiates in the mysteries of creation, the structure of the Tree of Life, and the nature of the divine names.
+According to Davidson, legend holds that the *Sefer Raziel ha-Malakh* (Book of the Angel Raziel) "finally came into possession of... Enoch (who, it is said, gave it out as his own work i.e., The Book of Enoch)." He is the revealer of esoteric wisdom, the one who instructs initiates in the mysteries of creation, the structure of the Tree of Life, and the nature of the divine names.
 
 ---
 ## II. Core Correspondences
@@ -149,9 +151,11 @@ In the **Qabalistic Tree of Life**, Metatron is the Archangel of **Kether** (כ�
 
 Metatron, as the Archangel of Kether, is the **active intelligence** of divine unity. Where Kether is the *principle* of oneness, Metatron is the *agent* who translates that oneness into the multiplicity of creation. He stands **between the Infinite and the finite**, serving as the **first mediator**.
 
-Dion Fortune writes in *The Mystical Qabalah*:
+Davidson writes in *A Dictionary of Angels*:
 
-> *"Metatron is said to be the Archangel who led the Children of Israel through the Wilderness, in whom is the Name. He is conceived of as the link between God and man, the spiritual being nearest to humanity who is yet divine."*
+> *"According to the cabala, Metatron is the angel who led the children of Israel through the wilderness after the Exodus... he is described as the twin brother or half-brother of the angel Sandalphon."*
+
+Metatron is conceived of as the **link between God and man**, the spiritual being nearest to humanity who is yet divine.
 
 This mediating function is critical: without Metatron, the human soul could not approach the Godhead without being annihilated by the intensity of pure divinity. Metatron **steps down the voltage** of divine presence, making it comprehensible, bearable, survivable.
 
@@ -200,7 +204,7 @@ Metatron is called the **Prince of Countenances** (*Sar ha-Panim*), a title that
 
 Metatron, as the Prince of Countenances, is the **closest one can come** to seeing the divine face without obliteration. He is the **reflection** of God's presence, the mirror in which the Divine can be beheld indirectly. To encounter Metatron is to stand in the presence of the Holy of Holies, to approach the Throne itself.
 
-The *Zohar* describes Metatron as having **seventy names**, corresponding to the seventy nations of the world, and as possessing a **body of cosmic proportions**—his height extending from earth to heaven, his form encompassing the entire created universe. This is not to be taken literally but **symbolically**: Metatron is the **totality of creation** as it exists within divine consciousness before it descends into material form.
+3 Enoch describes Metatron as having **seventy names** ("I have seventy names, corresponding to the seventy tongues of the world"), and as possessing a **body of cosmic proportions**—his height extending from earth to heaven, his form encompassing the entire created universe. This is not to be taken literally but **symbolically**: Metatron is the **totality of creation** as it exists within divine consciousness before it descends into material form.
 
 ### The Function: Chancellor, Scribe, and Sustainer
 
@@ -219,17 +223,17 @@ Jewish mysticism teaches that Metatron **sustains the prayers of humanity**, gat
 Metatron is invoked as the guide who leads souls through the afterlife realms, particularly the highest heavens. He is the psychopomp of the celestial journey, the one who teaches the soul how to navigate the seven palaces (*Hekhalot*) and ascend to the divine presence.
 
 **5. Teacher of Hidden Knowledge**
-The *Sefer Raziel ha-Malakh* (Book of the Angel Raziel) is sometimes attributed to Metatron's teachings. He is the revealer of esoteric wisdom, the one who instructs initiates in the mysteries of creation, the structure of the Tree of Life, and the nature of the divine names.
+According to Davidson, legend holds that the *Sefer Raziel ha-Malakh* (Book of the Angel Raziel) "finally came into possession of... Enoch (who, it is said, gave it out as his own work i.e., The Book of Enoch)." He is the revealer of esoteric wisdom, the one who instructs initiates in the mysteries of creation, the structure of the Tree of Life, and the nature of the divine names.
 
 ---
 ## V. Iconography and Symbolism
 
 Metatron is not as frequently depicted in traditional Christian iconography as Michael or Gabriel, but in Jewish mystical art and esoteric traditions, he appears with distinctive attributes:
 
-**1. Metatron's Cube**
-Metatron is associated with a sacred geometric figure called **Metatron's Cube**—a complex pattern formed by connecting the centers of 13 circles (one central, twelve surrounding). Within the Cube are contained all five **Platonic Solids** (tetrahedron, cube, octahedron, icosahedron, dodecahedron), representing the foundational geometric structures of the material universe.
+**1. Metatron's Cube (Modern Sacred Geometry)**
+Modern esoteric tradition associates Metatron with a sacred geometric figure called **Metatron's Cube**—a complex pattern formed by connecting the centers of 13 circles (one central, twelve surrounding). Within the Cube are contained all five **Platonic Solids** (tetrahedron, cube, octahedron, icosahedron, dodecahedron), representing the foundational geometric structures of the material universe.
 
-Metatron's Cube symbolizes the **blueprint of creation**, the divine template from which all form emerges. To meditate on the Cube is to contemplate the **architecture of reality** itself.
+**Note:** This association is not found in classical texts (Davidson, Wang, 3 Enoch, Zohar). The traditional Qabalistic geometry at Kether is the **Cube of Space** from the Sepher Yetzirah, which maps the Hebrew alphabet to the six directions (N, S, E, W, up, down), sealing the universe with the Divine Name. "Metatron's Cube" is a **Vibology Synthesis** (modern esoteric interpretation).
 
 **2. The Pillar of Fire**
 In mystical visions, Metatron often appears as a **column of white fire** or brilliant light, too intense to behold directly. This reflects his Ketheric nature—pure, undifferentiated radiance.
@@ -241,7 +245,7 @@ Metatron may be depicted wearing a **crown of light**, representing Kether. Some
 As the Scribe of Heaven, Metatron is often shown holding a **great book** or **scroll of fire**, upon which the deeds of humanity are written. This is the Akashic Record, the cosmic memory.
 
 **5. Wings Beyond Counting**
-3 Enoch describes Metatron as having **seventy-two wings** (some versions say 365,000). This is hyperbole to convey **omnipresence**—his reach extends to all corners of creation.
+3 Enoch describes Metatron as having **seventy-two wings** ("And He caused 72 wings to grow on me, 36 on each side. And each wing was as the whole world"). Davidson also cites this as "36 pairs of wings." This conveys **omnipresence**—his reach extends to all corners of creation.
 
 **6. Human-Angelic Hybrid**
 Unique among angels, Metatron may be depicted with **both human and angelic features**, reflecting his origin as Enoch. He is the bridge—the human who became divine.
@@ -262,6 +266,7 @@ Without Metatron, the **chain of being would be broken** at the highest link. He
 
 ---
 ## VII. Human Consciousness Parallel: The Head Center and Existential Pressure
+**Vibology Synthesis — Cross-System Integration**
 
 Metatron corresponds to the **Head Center** in Human Design—the center of **existential pressure, inspiration, and the drive to know**. The Head asks the ultimate questions: *"Why am I here? What is the purpose of existence? Who am I truly?"*
 
@@ -276,17 +281,15 @@ Metatron's teaching to Gate 64 is: *"Stop trying to figure it out. You cannot th
 ---
 ## VIII. The Tarot: The Fool, The Four Aces, and Judgment
 
-**The Fool (0):** The divine spark before manifestation, the soul in its pristine state before the descent into form
-
-**The Four Aces:** Kether in the Four Worlds—pure potentiality in Fire, Water, Air, and Earth
+**The Four Aces:** Wang confirms the Four Aces are attributed to Kether—pure potentiality in Fire, Water, Air, and Earth
 - **Ace of Wands:** Kether in Fire (primal will, creative spark)
 - **Ace of Cups:** Kether in Water (divine love, emotional grace)
 - **Ace of Swords:** Kether in Air (pure mind, divine intellect)
 - **Ace of Pentacles:** Kether in Earth (divine manifestation, sacred embodiment)
 
-**Judgment (XX):** The resurrection, the apotheosis, the soul's return to divine origin after the cycle of incarnation
+**The Fool (0):** Wang places The Fool on the path descending from Kether, describing it as the "One God Energy" emanating from the source—the divine spark before manifestation, the soul in its pristine state before the descent into form
 
-Each of these cards represents Metatron's function: the **divine potential before manifestation** (The Fool), the **seed of creation in each element** (The Aces), and the **final return to source** (Judgment).
+**Judgment (XX) — Vibology Synthesis:** The resurrection, the apotheosis, the soul's return to divine origin after the cycle of incarnation. (Note: Wang associates Judgment with Archangels Michael and Gabriel, not Metatron. This correspondence is interpretive.)
 
 ---
 ## IX. Element: Spirit (Root of Fire) — The Undifferentiated Creative Spark
@@ -300,11 +303,11 @@ To work with Metatron is to work with the **source of manifestation**, the momen
 ---
 ## X. Planetary Correspondence: Primum Mobile (The First Swirling)
 
-Metatron's planetary attribution is the **Primum Mobile**—the outermost sphere in Ptolemaic cosmology, the **source of all motion** in the cosmos. The Primum Mobile is the "First Swirling," the original rotation from which all planetary movements derive.
+Metatron's planetary attribution is the **Primum Mobile** (Rashith ha-Gilgalim, "beginning of whirling")—the outermost sphere in Ptolemaic cosmology, the **source of all motion** in the cosmos. Wang writes: "The sphere of its [Kether's] operation is called Rashith ha-Gilgalim—the beginning of whirling, the Primum Mobile or First Mover... and its Archangel is the Prince of Countenances—Metatron."
 
-In astrological terms, the Primum Mobile corresponds to the **Precession of the Equinoxes**—the slow wobble of Earth's axis over 25,920 years, representing deep cosmic time, the cycles of ages. This is the slowest, vastest movement in the heavens, appropriate for Kether, the most transcendent sphere.
+Agrippa confirms: "...flowing through Hajoth Hakados, to the angel Metratton, and to the ministering spirit Reschith Hagalalim, who guides the Primum Mobile, and bestows the gift of being upon all things."
 
-Metatron, as the intelligence of the Primum Mobile, governs the **Great Ages** (Age of Pisces, Age of Aquarius, etc.), the vast cycles of spiritual evolution that unfold over millennia.
+The Primum Mobile is the "First Swirling," the original rotation from which all planetary movements derive. In astrological terms, it corresponds to the **Precession of the Equinoxes**—the slow wobble of Earth's axis over 25,920 years, representing deep cosmic time, the cycles of ages. This is the slowest, vastest movement in the heavens, appropriate for Kether, the most transcendent sphere.
 
 ---
 ## XI. Mythology and Cross-Tradition Parallels
@@ -402,6 +405,7 @@ Metatron is the guide of the greatest threshold—the passage from human to divi
 
 ---
 ## XIII. Jungian and Psychological Dimension
+**Vibology Synthesis — Cross-System Integration**
 
 Carl Jung's concept of the **Self** (capital "S"—the totality of the psyche, not the ego) is the closest psychological parallel to Metatron. The Self is the **God-image** within the psyche, the organizing principle that drives individuation, the center that is paradoxically **both within and beyond** the individual.
 
@@ -512,33 +516,36 @@ Metatron oversees this entire descent, ensuring that the **chain remains unbroke
 ---
 ## XVII. Cross-System Correspondences
 
-**Qabalah:**
+**Qabalah** (Verified per Wang, Davidson, Agrippa):
 - **Sephirah:** [[Kether]] (Crown, divine unity, "I Am")
 - **Path:** Metatron does not walk the paths—he **is the destination** of all paths. He stands at the apex, waiting.
-- **Divine Name:** [[Eheieh]] (I Am / I Will Be)
-- **Angelic Choir:** [[Chaioth ha-Qadesh]] (Holy Living Creatures, the Seraphim)
+- **Divine Name:** [[Eheieh]] (I Am / I Will Be) — Wang, *The Qabalistic Tarot*
+- **Angelic Choir:** [[Chaioth ha-Qadesh]] (Holy Living Creatures, the Seraphim) — Wang, Davidson
+- **Planetary Sphere:** Primum Mobile (Rashith ha-Gilgalim, "beginning of whirling") — Wang, Agrippa
 
-**Tarot:**
-- **The Fool (0):** The divine spark before manifestation, the soul in its pristine state before the descent into form
+**Tarot** (Verified per Wang):
 - **The Four Aces:** Kether in the Four Worlds—pure potentiality in Fire, Water, Air, and Earth
-- **Judgment (XX):** The resurrection, the apotheosis, the soul's return to divine origin after the cycle of incarnation
+- **The Fool (0):** Path descending from Kether, the "One God Energy" emanating from source
 
-**Astrology:**
+**Tarot** (Vibology Synthesis):
+- **Judgment (XX):** The resurrection, apotheosis (Wang attributes this to Michael/Gabriel, not Metatron)
+
+**Astrology** (Verified per Wang, Agrippa):
 - **Primum Mobile:** The outermost sphere, the first motion from which all other motions derive—the cosmic heartbeat
-- **Precession of the Equinoxes:** The slow wobble of Earth's axis over 25,920 years, representing deep cosmic time, the cycles of ages
+- **Precession of the Equinoxes:** Deep cosmic time, the cycles of ages (interpretive application)
 
-**Human Design:**
-- **Head Center:** The pressure to **know**, to **become**, to **return to source**. Metatron's intelligence operates through the Head's existential questions: *"Why am I here? What is the meaning? Who am I truly?"*
-- **Gate 64 (Confusion):** The pressure of the mind before enlightenment—confusion that drives the search for truth
-- **Gate 61 (Mystery):** The inner knowing that precedes articulation—direct gnosis, mystical insight
+**Human Design** (Vibology Synthesis):
+- **Head Center:** The pressure to **know**, to **become**, to **return to source**
+- **Gate 64 (Confusion):** The pressure of the mind before enlightenment
+- **Gate 61 (Mystery):** Direct gnosis, mystical insight
 
-**Jungian Psychology:**
-- **The Self:** Not the ego-self, but the **totality of the psyche**, the God-image, the *imago Dei*
-- **Apotheosis:** The final stage of individuation where the ego surrenders to the Self and becomes its instrument
-- **The Transcendent Function:** The capacity to hold the tension of opposites until a third thing emerges—Metatron is that third thing, the reconciliation of human and divine
+**Jungian Psychology** (Vibology Synthesis):
+- **The Self:** The totality of the psyche, the God-image, the *imago Dei*
+- **Apotheosis:** The final stage of individuation
+- **The Transcendent Function:** Reconciliation of opposites
 
-**Chakras:**
-- **Sahasrara (Crown Chakra):** The thousand-petaled lotus, the gateway to cosmic consciousness, the dissolution of individual identity into universal awareness
+**Chakras** (Vibology Synthesis):
+- **Sahasrara (Crown Chakra):** Gateway to cosmic consciousness
 
 ---
 ## XVIII. Keywords and Themes
