@@ -2,6 +2,9 @@
 tags: [angelology, hierarchy, cherubim, first-triad]
 system: Angelology
 date_created: 2026-01-17
+date_updated: 2026-01-25
+verified: 2026-01-25
+verification_source: Esoteric Grimoire
 category: Angelic Order
 order_number: 2
 order_name: Cherubim
@@ -901,6 +904,42 @@ For those who consciously align with Cherubic intelligence, a vow may be taken (
 - [[Synchronicity]] (Meaningful coincidence, pattern recognition)
 - [[Chakra System]] (Ajna Chakra, third eye, inner vision)
 - [[Mythology]] (Tetramorphs, Lamassu, Four Mahārājas, Four Sons of Horus)
+
+---
+
+## References
+
+*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
+
+**Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.
+- Cherubim "excel in knowledge" and serve as bearers of God's throne: p. 69
+- Davidson cites Pseudo-Dionysius: Cherubim possess capacity to contemplate divine splendor and communicate wisdom: p. 69
+- Cherubim as personifications of divine wisdom: p. 69
+
+**Wang, Robert.** *The Qabalistic Tarot: A Textbook of Mystical Philosophy.* Red Wheel/Weiser, 1983.
+- Angelic choir of Chokmah: Auphanim ("Wheels" or "Whirling Ones")
+- Chokmah correspondences: Divine Name, Zodiac (Masloth), colors across Four Worlds
+
+**The Bible** (English Standard Version, New International Version)
+- Genesis 3:24: Cherubim with flaming sword guard the way to the Tree of Life
+- Exodus 25:18-22: Two golden Cherubim on the Ark of the Covenant, wings overshadowing the Mercy Seat
+- 1 Kings 6:23-28: Massive Cherubim in Solomon's Temple Holy of Holies
+- Psalm 18:10: "He rode on a cherub and flew"
+- Ezekiel 1:4-18: The Merkabah vision—four living creatures with four faces, wheels within wheels, eyes everywhere
+- Ezekiel 10:20: The living creatures identified explicitly as Cherubim
+- Ezekiel 28:14-17: The anointed cherub cast down (Lucifer)
+- Isaiah 27:1: Leviathan, the twisting serpent
+- Job 41: Leviathan described in detail
+
+**Pseudo-Dionysius the Areopagite.** *The Celestial Hierarchy* (6th century, cited via Davidson)
+- Cherubim as second highest order in the First Triad (Davidson, p. 69)
+- Cherubim transmit divine wisdom downward through the hierarchical chain (Davidson, p. 69)
+
+**The Zohar** (Foundational text of Qabalah)
+- Chokmah (Wisdom) as primal yang principle, divine Father
+- Merkabah mysticism: chariot-throne imagery
+
+> *Vibology Synthesis: Cross-system correspondences (Human Design Ajna Center, Jungian archetypes, Tarot attributions, astrological correspondences) represent original integrative frameworks developed for this system. Human Design correspondences (Ajna Center, Gates 47/24/4/17/43/11/64) are based on Ra Uru Hu's system as interpreted through angelic hierarchy. Jungian correspondences (Wise Old Man, Self) synthesize analytical psychology with Qabalistic angelology.*
 
 ---
 
