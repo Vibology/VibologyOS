@@ -16,6 +16,7 @@ planetary: Mars in Capricorn
 decan: Second decan of Capricorn (10°-20°)
 title: Lord of Material Works
 ---
+# Three of Pentacles
 
 *Mars in Capricorn - The second decan of Capricorn*
 

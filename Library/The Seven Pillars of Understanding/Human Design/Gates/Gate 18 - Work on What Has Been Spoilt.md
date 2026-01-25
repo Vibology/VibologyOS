@@ -122,7 +122,7 @@ Because the Collective Logic Circuit is designed to **recognize and share reliab
 
 Gate 18 forms **Channel 18-58: Judgment (The Channel of Correction)** when connected to Gate 58 in the Root Center.
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 
 - **Gate 18 (Spleen):** "I have the instinctual awareness of what is spoiled, corrupt, or in need of correction."
 - **Gate 58 (Root):** "I have the vitality and pressure to persist in correcting what is flawed, to challenge authority joyfully."
@@ -132,7 +132,7 @@ When this channel is defined, the individual has **consistent access to correcti
 
 **Without the channel defined** (only Gate 18 activated), the individual experiences awareness of decay but may lack the energy to persist in correction. They need another person with Gate 58 to complete the electromagnetic circuit—someone who can provide the vitality for sustained corrective work.
 
-**Interpersonal Electromagnetic Dynamics:**
+#### Interpersonal Electromagnetic Dynamics
 
 - **Both have Channel 18-58:** Potential mutual correction or conflict over whose standards of perfection are correct. Can be profoundly generative if both honor each other's integrity.
 - **One has Gate 18, other has Gate 58:** The Gate 18 person provides instinctual awareness of problems; the Gate 58 person provides energy for correction. This can create balanced partnership—vision and vitality.
@@ -142,7 +142,7 @@ When this channel is defined, the individual has **consistent access to correcti
 
 Gate 18 is located in the **Spleen Center**, which corresponds biologically to the **lymphatic system and immune function**—the body's defense and purification mechanisms that identify and eliminate what is toxic or corrupt.
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 18 defined may experience:
 - A **somatic recognition of toxicity**—the body knows instinctually when something is "off," corrupted, or in need of elimination
@@ -150,7 +150,7 @@ Individuals with Gate 18 defined may experience:
 - A felt sense of **vigilance**—constant awareness of potential corruption or decay in surroundings
 - **Fear response to authority**—the Spleen's survival instinct recognizes danger in corrupt power structures
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Spleen Center radiates **survival instinct and immune awareness** into the aura. When Gate 18 is active, the aura carries a frequency that says: "I am here to recognize decay and work toward correction. I challenge what is spoiled, even when authority resists." Others may feel this as **principled**, **challenging**, or (if the individual is in Not-Self) **critical** or **judgmental**.
 
@@ -188,7 +188,7 @@ The corrective awareness is inconsistent (activated only by transits or others).
 - **Incompetent Intervention:** Attempting to fix what one doesn't understand, creating additional corruption through misguided correction.
 - **Cynical Criticism:** Pointing out problems without willingness to work toward solutions, using awareness of decay to justify inaction.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Frustration from attempting to correct problems without Sacral response (for Generators/MGs)
 - Bitterness from challenging authority without invitation (for Projectors)
@@ -216,7 +216,7 @@ The **7-year deconditioning cycle** for Gate 18 involves learning to recognize w
 
 **Year 7:** Integration phase—correction becomes aligned with Strategy and Authority. The individual challenges decay from **integrity** (Gene Keys Gift) rather than judgment. Corrective work serves restoration, not domination, and fear of authority is balanced with strategic courage.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice where the impulse to correct arises in the body. Is it the spleen (instinctual recognition)? The mind (mental judgment)? The gut (Sacral response)?
 - Practice **discerning terminal decay**—recognizing when to work toward correction and when to withdraw from the unfixable.
@@ -262,14 +262,14 @@ In Jungian terms, Gate 18 corresponds to the **Reformer Archetype** and the driv
 
 The Reformer archetype seeks to identify corruption and work persistently toward restoration, to challenge authority when it becomes toxic, to heal systemic wounds through patient correction.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 18** manifests as:
 - **The Critic:** Compulsively judging imperfection without offering restoration, using criticism to elevate oneself.
 - **The Martyr:** Challenging authority recklessly, creating suffering for oneself in the name of integrity without strategic awareness.
 - **The Paralyzed:** Recognizing corruption but refusing to challenge it out of fear, allowing decay to continue through inaction.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 18, individuation requires:
 1. **Integration of Corrective Instinct:** Recognizing that the awareness of decay is gift, not curse—that correction serves wholeness.
@@ -282,7 +282,7 @@ When integrated, Gate 18 becomes the expression of **loving correction**—the c
 
 When the individual with Gate 18 operates according to their Strategy and Authority, the gift that emerges is **Integrity** (Gene Keys) and **Vigilant Correction Serving Collective Health** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Corrective awareness flows naturally from Splenic instinct (if Authority) or Sacral response (for Generators/MGs), creating strategic rather than reckless challenges.
 - The individual recognizes what is truly spoiled versus what is simply different, honoring diversity while challenging genuine corruption.
@@ -298,7 +298,7 @@ The Signature of the Spleen Center varies by Type, but for Gate 18 specifically,
 - **Trust** in instinctual awareness of decay and the strategic timing of challenges
 - **Peace** from serving integrity rather than attacking imperfection
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 18 teaches that **integrity requires vigilant correction**. When the individual honors their Strategy and Authority, recognizes decay instinctually, and works toward restoration strategically, they become a **living example** of corrective service. This is the essence of the Collective Logic Circuit—to recognize when patterns have decayed and work persistently to restore collective health.
 

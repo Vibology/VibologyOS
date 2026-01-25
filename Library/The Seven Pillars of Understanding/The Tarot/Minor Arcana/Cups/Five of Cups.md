@@ -15,6 +15,7 @@ planetary: Mars in Scorpio
 decan: Scorpio 0°-10° (1st Decan)
 title: Lord of Loss in Pleasure
 ---
+# Five of Cups
 *The Lord of Loss in Pleasure*
 
 ---
@@ -327,7 +328,7 @@ The Four of Cups is comfortable stagnation—the figure who has three cups and r
 **Following Card: [[Six of Cups]]**
 The Six of Cups is memory, nostalgia, the past retrieved with tenderness rather than fixation. The Five mourns; the Six *remembers*. The Five stares at spilled cups; the Six has turned around and found that the past still lives within the heart. The movement from Five to Six is the movement from acute grief to integrated memory.
 
-**Corresponding Cards in Other Suits:**
+#### Corresponding Cards in Other Suits
 - **[[Five of Wands]]** (Fire): Strife and competition. Where Cups grieves alone, Wands fights with others.
 - **[[Five of Swords]]** (Air): Defeat and betrayal. Where Cups mourns loss, Swords deals with having *been defeated*.
 - **[[Five of Pentacles]]** (Earth): Material hardship and exclusion. Where Cups loses emotional abundance, Pentacles loses material security.

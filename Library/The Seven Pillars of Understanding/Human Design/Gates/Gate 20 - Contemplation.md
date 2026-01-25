@@ -130,7 +130,7 @@ Gate 20 forms **three possible channels** depending on which harmonic gate is ac
 
 ### Channel 20-10: Awakening (The Now Connected to Self-Love)
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 - **Gate 20 (Throat):** "I recognize and express what is happening in the now."
 - **Gate 10 (G Center):** "I love myself in this moment, I embody correct behavior naturally."
 - **Channel 20-10:** The bridge between present awareness and self-love—the capacity to **awaken to being through presence**.
@@ -139,7 +139,7 @@ When this channel is defined, the individual has **consistent access to self-lov
 
 ### Channel 20-34: Charisma (The Now Connected to Pure Power)
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 - **Gate 20 (Throat):** "I recognize and express what is happening in the now."
 - **Gate 34 (Sacral):** "I have pure power, primal life force available in this moment."
 - **Channel 20-34:** The bridge between present awareness and raw power—the capacity to **manifest pure strength in the now**.
@@ -148,7 +148,7 @@ When this channel is defined, the individual has **consistent access to charisma
 
 ### Channel 20-57: The Brain Wave (The Now Connected to Intuitive Clarity)
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 - **Gate 20 (Throat):** "I recognize and express what is happening in the now."
 - **Gate 57 (Spleen):** "I have intuitive clarity in the now, instinctual knowing in this moment."
 - **Channel 20-57:** The bridge between present awareness and intuition—the capacity to **express instinctual truth spontaneously**.
@@ -159,7 +159,7 @@ When this channel is defined, the individual has **consistent access to intuitiv
 
 Gate 20 is located in the **Throat Center**, which corresponds biologically to the **thyroid and parathyroid glands**—the metabolic regulators that govern energy expression, manifestation, and communication.
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 20 defined may experience:
 - A **somatic pull into the now**—the body relaxes into presence, awareness drops into embodiment
@@ -167,7 +167,7 @@ Individuals with Gate 20 defined may experience:
 - A felt sense of **"hereness"**—the recognition that "I am here, now, in this body, in this moment"
 - **Speech that arises from presence**—words that emerge from being rather than from planning
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Throat Center radiates **manifestation and expression** into the aura. When Gate 20 is active, the aura carries a frequency that says: "I am fully present in this moment, and my presence is expressed naturally." Others may feel this as **grounding**, **authentic**, or (if the individual is in Not-Self) **detached** or **self-absorbed**.
 
@@ -205,7 +205,7 @@ The presence in the now is inconsistent (activated only by transits or others). 
 - **Spiritual Bypassing:** Using "being in the now" to avoid responsibility, planning, or consequence—presence as escape rather than engagement.
 - **Compulsive Expression:** Speaking every observation, sharing every moment of awareness, overwhelming others with unfiltered now-ness.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Frustration from speaking without Sacral response (for Generators/MGs)
 - Bitterness from sharing awareness without invitation (for Projectors)
@@ -233,7 +233,7 @@ The **7-year deconditioning cycle** for Gate 20 involves learning to recognize w
 
 **Year 7:** Integration phase—presence becomes aligned with Strategy and Authority. The individual expresses the now from **self-assurance** (Gene Keys Gift) rather than superficiality. Awareness serves embodiment, not performance.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice where the impulse to express awareness arises in the body. Is it the throat (genuine manifestation)? The mind (mental pressure)? The gut (Sacral response)?
 - Practice **being in the now without needing to speak about it**—presence does not require performance.
@@ -279,14 +279,14 @@ In Jungian terms, Gate 20 corresponds to the **Witness Archetype** and the drive
 
 The Witness archetype seeks to be fully here, to observe without judgment, to embody the now and manifest from that embodiment. This is the meditator who brings awareness into action, the one who speaks from being.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 20** manifests as:
 - **The Performer:** Using presence as performance, speaking about the now to prove consciousness rather than embodying it.
 - **The Escapist:** Using "being in the now" to avoid planning, responsibility, or consequence—presence as spiritual bypass.
 - **The Observer:** Watching life without engaging, contemplating without applying, making awareness a barrier to action.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 20, individuation requires:
 1. **Embodied Presence:** Recognizing that true awareness is somatic, not conceptual—that being in the now is felt, not thought.
@@ -299,7 +299,7 @@ When integrated, Gate 20 becomes the expression of **pure presence**—the capac
 
 When the individual with Gate 20 operates according to their Strategy and Authority, the gift that emerges is **Self Assurance** (Gene Keys) and **Embodied Presence** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Expression of the now flows naturally from correct response (for Generators/MGs) or invitation (for Projectors), creating authentic rather than performed presence.
 - The individual dwells in the moment without needing to prove or perform awareness—presence is lived, not demonstrated.
@@ -315,7 +315,7 @@ The Signature of the Throat Center varies by Type, but for Gate 20 specifically,
 - **Peace from embodied action** (for Manifestors)—the calm that comes from manifesting what is seen
 - **Surprise from spontaneous truth** (for Reflectors)—the wonder when presence aligns with lunar timing
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 20 teaches that **true power is presence**. When the individual honors their Strategy and Authority, dwells in the now without performance, and expresses awareness when correct, they become a **living example** of embodied being. This is the essence of the Integration Circuit—to empower oneself through presence, demonstrating what is possible when one is fully here.
 

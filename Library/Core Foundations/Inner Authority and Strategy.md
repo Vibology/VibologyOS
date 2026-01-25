@@ -38,7 +38,7 @@ Human Design recognizes **seven primary Authorities** (plus two rare variants), 
 **Decision-Making Mechanism:** Clarity through the emotional wave
 **Centers Involved:** Solar Plexus (Emotional Center)
 
-**How It Works:**
+#### How It Works
 
 This is the strongest authority. The Solar Plexus operates on a biochemical wave of highs and lows. Ra Uru Hu teaches: *"There is no truth in the now"*—decisions cannot be made in the moment. One must *"wait for clarity"* over time until the wave levels out (Ra Uru Hu, *Definitive Book*).
 
@@ -46,7 +46,7 @@ The Solar Plexus generates a **wave**—a continuous oscillation between hope an
 
 If you have Emotional Authority, you **cannot make correct decisions in the moment**. You must **wait**—riding the wave from peak to trough and back again—until emotional clarity emerges. The goal is not 100% certainty, but to reach a point of emotional quiet where the wave has leveled out.
 
-**The Process:**
+#### The Process
 1. You are presented with an opportunity or question
 2. Initial response is often strong—excitement (yes!) or resistance (no way!)
 3. **Do not decide yet.** Say: *"Let me sleep on it"* or *"Can I get back to you?"*
@@ -54,12 +54,12 @@ If you have Emotional Authority, you **cannot make correct decisions in the mome
 5. Eventually, a **consistent clarity** emerges across the wave—you know, regardless of mood, what is correct
 6. Once clarity comes, act decisively
 
-**Shadow:**
+#### Shadow
 - **Impulsive decisions from emotional peaks** (*"I'm so excited about this!"*—then regret when the wave crashes)
 - **Avoiding decisions from emotional troughs** (*"I'm too depressed to decide"*—but the trough is just one part of the wave)
 - **Confusing the wave itself for indecisiveness** (it's not indecisiveness; it's the **necessary integration process**)
 
-**Gift:**
+#### Gift
 Emotional Authority beings become **masters of discernment**—they know the difference between excitement (which fades) and deep, abiding clarity (which endures). They learn to trust the wave as wisdom rather than resisting it as inconvenience.
 
 **Cross-System Parallel:**
@@ -76,7 +76,7 @@ Emotional Authority beings become **masters of discernment**—they know the dif
 **Decision-Making Mechanism:** Gut response in the moment
 **Centers Involved:** Sacral Center
 
-**How It Works:**
+#### How It Works
 
 The Sacral is the **life force motor**—a powerful, non-verbal intelligence that responds to life with sounds. It operates in the immediate present moment through guttural sounds (uh-huh/uhn-un) or a physical lifting/dropping of energy. It cannot predict the future; it only knows "yes" or "no" right now (Ra Uru Hu, *Definitive Book*):
 
@@ -86,19 +86,19 @@ The Sacral is the **life force motor**—a powerful, non-verbal intelligence tha
 
 This is **not a mental decision**. It is a sound that emerges from the gut **before thought**. The Sacral knows instantly whether life force is available for a particular activity, relationship, or commitment.
 
-**The Process:**
+#### The Process
 1. You must be **asked a yes/no question** (Sacrals respond; they don't initiate)
 2. Listen for the **sound** that emerges from your gut (not the words your mind wants to say)
 3. Honor the response—if it's "uh-huh," say yes; if it's "uhn-uhn," say no
 4. Do not override the Sacral with mental justification
 
-**Shadow:**
+#### Shadow
 - **Mental override** (*"My Sacral said no, but I should say yes because..."*)
 - **Trying to articulate why** (the Sacral doesn't know why; it just knows)
 - **Initiating instead of responding** (forcing action when the Sacral hasn't been engaged)
 - **Confusing conditioned "yes" for Sacral response** (saying yes out of obligation, not life force)
 
-**Gift:**
+#### Gift
 Sacral beings who honor their Authority become **generative powerhouses**—they have sustainable energy for what lights them up and no energy for what doesn't. They become magnetic, drawing opportunities to which they can genuinely respond.
 
 **Cross-System Parallel:**
@@ -115,7 +115,7 @@ Sacral beings who honor their Authority become **generative powerhouses**—they
 **Decision-Making Mechanism:** Instantaneous intuition in the now
 **Centers Involved:** Spleen Center
 
-**How It Works:**
+#### How It Works
 
 The Spleen is the oldest awareness (survival instinct). It speaks quietly, spontaneously, and only once—it never repeats itself. If you ignore the instinct (a hunch or physical alert), it will not warn you again. It requires deep attention to the immediate moment (Ra Uru Hu, *Definitive Book*).
 
@@ -127,18 +127,18 @@ The Spleen says:
 
 It is not loud, not dramatic, not repetitive. It is a **whisper of certainty** that arises in the moment and vanishes if ignored.
 
-**The Process:**
+#### The Process
 1. You are in a situation requiring a decision
 2. A quiet voice or bodily sensation arises—a knowing, a feeling in the gut, a sudden impulse
 3. **Act immediately** or the moment passes
 4. Do not second-guess with the mind
 
-**Shadow:**
+#### Shadow
 - **Missing the hit** (overthinking, waiting for confirmation, asking "Are you sure?" when the Spleen has already spoken)
 - **Fear overriding intuition** (the mind creates scary stories; the Spleen simply knows)
 - **Seeking repetition** (*"Let me think about it"*—but the Spleen doesn't think)
 
-**Gift:**
+#### Gift
 Splenic Authority beings who trust their hits become **masters of the moment**—they are in the right place at the right time, avoid danger with uncanny precision, and move through life with spontaneous grace.
 
 **Cross-System Parallel:**
@@ -156,7 +156,7 @@ Splenic Authority beings who trust their hits become **masters of the moment**�
 **Centers Involved:** Heart (Ego) Center
 **Variants:** Ego Manifested (Manifestors) and Ego Projected (Projectors)
 
-**How It Works:**
+#### How It Works
 
 For **Ego Manifested** (Manifestors): The authority is expressed through the voice. You must *"listen to what you say"* in the moment to know your truth, rather than what the mind thinks you should say. It is about impact (Ra Uru Hu, *Definitive Book*).
 
@@ -169,18 +169,18 @@ The Ego asks:
 
 Ego Authority beings must **speak the decision aloud** to themselves (or to a trusted other) to hear whether the will is truly available.
 
-**The Process:**
+#### The Process
 1. You are presented with an opportunity requiring commitment
 2. **Speak it aloud:** *"I will do this"* or *"I will not do this"*
 3. Listen to the **tone and conviction** in your voice—is the will there or not?
 4. Only make promises you can keep; the Ego knows its limits
 
-**Shadow:**
+#### Shadow
 - **Over-promising** (saying yes when the will isn't there, leading to burnout)
 - **Under-promising** (fear of commitment, never claiming your power)
 - **Confusing ego inflation with Ego Authority** (the mind's grandiosity vs. the Heart's sustainable will)
 
-**Gift:**
+#### Gift
 Ego Authority beings who honor their will become **pillars of reliability**—when they say yes, they deliver; when they say no, they stand firm. They are not swayed by guilt or obligation.
 
 **Cross-System Parallel:**
@@ -197,25 +197,25 @@ Ego Authority beings who honor their will become **pillars of reliability**—wh
 **Decision-Making Mechanism:** Truth revealed through speaking aloud
 **Centers Involved:** G-Center connected to Throat
 
-**How It Works:**
+#### How It Works
 
 Self-Projected Authority originates from the G Center (Identity) and has no motor (energy) backing it. You must *"listen to what you say"* as you speak to others. You are not asking for advice; you are using others as a sounding board to hear your own identity speak its truth (Ra Uru Hu, *Definitive Book*).
 
 This Authority needs a **trusted sounding board**—someone who listens without judgment or advice, allowing you to speak until clarity emerges.
 
-**The Process:**
+#### The Process
 1. You have a decision to make
 2. Find a trusted person (or record yourself speaking aloud)
 3. Talk through the decision—explore options, verbalize feelings, articulate thoughts
 4. **Listen to your own voice**—notice which words carry conviction, which sound hollow
 5. The truth reveals itself through what you hear yourself say
 
-**Shadow:**
+#### Shadow
 - **Making decisions alone in your head** (the G-Center needs to *hear* itself)
 - **Seeking advice instead of sounding board** (you don't need someone to tell you what to do; you need someone to listen)
 - **Confusing others' voices for your own** (absorbing their opinions instead of hearing your truth)
 
-**Gift:**
+#### Gift
 Self-Projected beings who honor their need to speak become **articulate knowers of self**—they discover their identity, direction, and love through the act of authentic self-expression.
 
 **Cross-System Parallel:**
@@ -232,7 +232,7 @@ Self-Projected beings who honor their need to speak become **articulate knowers 
 **Decision-Making Mechanism:** Wisdom through conversation in correct environment
 **Centers Involved:** Ajna and/or Head (definition only above Throat)
 
-**How It Works:**
+#### How It Works
 
 Sometimes called "No Inner Authority." Guidance comes from the environment. *"Is this environment correct for me?"* If the place feels wrong, the decision is wrong. Like Self-Projected, they need sounding boards to hear their own ruminations, but the physical environment is the key to clarity (Ra Uru Hu, *Definitive Book*).
 
@@ -240,19 +240,19 @@ Mental Authority has **no internal decision-making mechanism**. Decisions happen
 
 This is not indecisiveness; it is **relational wisdom**. The mind processes information brilliantly, but it needs **external sounding boards** and **environmental resonance** to arrive at clarity.
 
-**The Process:**
+#### The Process
 1. You have a decision to make
 2. **Talk it through** with multiple trusted people over time
 3. **Notice which environments** bring clarity (nature, city, certain rooms, specific people)
 4. Let the decision **ripen** through conversation and environmental feedback
 5. Clarity emerges from the synthesis of multiple perspectives
 
-**Shadow:**
+#### Shadow
 - **Trying to decide alone** (the mind loops endlessly without external input)
 - **Rushing the process** (Mental Authority takes time)
 - **Confusing others' opinions for your own knowing** (you're not asking what they think you should do; you're using them as mirrors)
 
-**Gift:**
+#### Gift
 Mental Authority beings who honor their process become **synthesizers of collective wisdom**—they gather perspectives, distill patterns, and arrive at decisions that integrate multiple viewpoints.
 
 **Cross-System Parallel:**
@@ -269,7 +269,7 @@ Mental Authority beings who honor their process become **synthesizers of collect
 **Decision-Making Mechanism:** Waiting a full lunar cycle (28 days)
 **Centers Involved:** None defined—sampling the lunar transits through all 64 gates
 
-**How It Works:**
+#### How It Works
 
 Reflectors must wait through a full 28-day Lunar Cycle. As the moon connects to different gates, the Reflector samples different perspectives. Clarity emerges only after the full cycle is complete (Ra Uru Hu, *Definitive Book*).
 
@@ -277,19 +277,19 @@ Reflectors have **no consistent inner authority**—they are designed to **sampl
 
 This is the **slowest, most deliberate** form of decision-making, honoring the Reflector's profound sensitivity and need for cyclical clarity.
 
-**The Process:**
+#### The Process
 1. A significant decision arises
 2. **Begin the lunar cycle** on the New Moon
 3. Over 28 days, **talk through the decision** with trusted others, journal, notice how you feel as the Moon moves through different gates
 4. **Do not rush**—the lunar cycle is sacred
 5. By the end of the cycle, a clarity emerges that wasn't accessible in the moment
 
-**Shadow:**
+#### Shadow
 - **Impulsive decisions** (making big choices in the moment without waiting)
 - **Confusing others' energy for your own** (Reflectors absorb and amplify; they must know who they are with)
 - **Impatience** (28 days feels like forever in a fast-paced world)
 
-**Gift:**
+#### Gift
 Reflectors who honor their lunar cycle become **profound judges of correctness**—they know what is healthy and what is not, who is authentic and who is performing. They are the seers, the mirrors, the wise ones.
 
 **Cross-System Parallel:**
@@ -312,7 +312,7 @@ While **Authority** tells you **what** to decide, **Strategy** tells you **how**
 **Signature:** Peace
 **Not-Self:** Anger
 
-**How It Works:**
+#### How It Works
 
 Manifestors are designed to **initiate**—to act independently without waiting for external permission. However, because their aura is closed and repelling, they create **resistance** if they act without informing those who will be impacted.
 
@@ -324,7 +324,7 @@ Before you initiate action, **inform** the people who will be affected:
 
 You are not asking permission—you are informing so others are not shocked or resistant.
 
-**Why It Matters:**
+#### Why It Matters
 When Manifestors inform, resistance drops. People feel respected. The Manifestor's natural power flows without backlash.
 
 **Shadow (Not-Self):**
@@ -337,7 +337,7 @@ When Manifestors inform, resistance drops. People feel respected. The Manifestor
 **Signature:** Satisfaction
 **Not-Self:** Frustration
 
-**How It Works:**
+#### How It Works
 
 Generators are designed to **respond**—to wait for life to present opportunities and then respond from the Sacral with "uh-huh" or "uhn-uhn." They are **not initiators**; they are powerful responders.
 
@@ -349,7 +349,7 @@ Do not initiate. **Wait** for something external to respond to:
 
 Then listen to your Sacral—does life force rise (yes) or not (no)?
 
-**Why It Matters:**
+#### Why It Matters
 When Generators respond rather than initiate, they engage their life force correctly. Work feels satisfying rather than exhausting.
 
 **Shadow (Not-Self):**
@@ -362,7 +362,7 @@ When Generators respond rather than initiate, they engage their life force corre
 **Signature:** Satisfaction
 **Not-Self:** Frustration and Anger
 
-**How It Works:**
+#### How It Works
 
 Manifesting Generators (MGs) are a hybrid—they have the **Sacral's need to respond** but also the **Manifestor's capacity to initiate** once the Sacral says yes.
 
@@ -371,7 +371,7 @@ Manifesting Generators (MGs) are a hybrid—they have the **Sacral's need to res
 2. Once the Sacral responds, **inform** (like a Manifestor) before taking action
 3. Then move fast—MGs are multi-passionate, efficient, and non-linear
 
-**Why It Matters:**
+#### Why It Matters
 MGs are designed to **skip steps**—they find the fastest path from A to Z. But they must still wait for Sacral response and inform to avoid creating resistance.
 
 **Shadow (Not-Self):**
@@ -384,7 +384,7 @@ MGs are designed to **skip steps**—they find the fastest path from A to Z. But
 **Signature:** Success
 **Not-Self:** Bitterness
 
-**How It Works:**
+#### How It Works
 
 Projectors are designed to **guide and manage energy**—but only when their guidance is **invited and recognized**. Without invitation, their wisdom is ignored or rejected, leading to bitterness.
 
@@ -396,7 +396,7 @@ An invitation sounds like:
 - *"Would you be interested in working with us?"*
 - *"Can you help me understand this?"*
 
-**Why It Matters:**
+#### Why It Matters
 When Projectors are invited, their insights land. People listen. Success follows.
 
 **Shadow (Not-Self):**
@@ -407,7 +407,7 @@ When Projectors are invited, their insights land. People listen. Success follows
 
 In the [[Anima et Algorithm]] paradigm, **Inner Authority and Strategy** are the **Anima's operational tools**—the mechanisms by which you test every insight, chart reading, transit prediction, or synthesis against your **lived, somatic truth**.
 
-**Example:**
+#### Example
 
 The **Algorithm** says:
 - Your Human Design chart shows Gate 51 (Shock/Arousal) defined

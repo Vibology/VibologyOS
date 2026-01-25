@@ -465,7 +465,7 @@ Psychologically, this is the **ego's death when it refuses transformation**: the
 ---
 
 ## Cross-References
-**Archetypal Figures:**
+#### Archetypal Figures
 [[The Shadow]] • [[The Muse]] • [[The Idol]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] • [[The Alchemist]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Hero]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] • [[The Wise Old Man]] • [[The Nightmare]]
 
 **Jungian Concepts:**
@@ -474,22 +474,22 @@ Psychologically, this is the **ego's death when it refuses transformation**: the
 **Tarot Keys:**
 [[Death]] • [[The High Priestess]] • [[The Empress]] • [[The Tower]] • [[The Sun]] • [[Strength]] • [[Temperance]] • [[The Lovers]]
 
-**Alchemical Stages:**
+#### Alchemical Stages
 [[Nigredo]] • [[Albedo]] • [[Rubedo]] • [[Solve et Coagula]] • [[Calcination]] • [[Dissolution]] • [[Coagulation]]
 
-**Mythological Parallels:**
+#### Mythological Parallels
 [[Persephone and Demeter]] • [[Inanna's Descent]] • [[Aphrodite and Psyche]] • [[Sleeping Beauty]] • [[The Handless Maiden]] • [[Bluebeard]]
 
-**Fairy Tale Motifs:**
+#### Fairy Tale Motifs
 [[The Wicked Stepmother]] • [[The Magic Mirror]] • [[The Poisoned Gift]] • [[The Seven as Cycle]] • [[The Glass Coffin]] • [[The Awakening Kiss]] • [[The Animal Helpers]]
 
-**Individuation Process:**
+#### Individuation Process
 [[Confrontation with Shadow]] • [[Encounter with Anima-Animus]] • [[Confrontation with the Self]] • [[Integration and Wholeness]] • [[Ego Formation and Childhood]]
 
-**Hero's Journey Stages:**
+#### Hero's Journey Stages
 [[The Call to Adventure]] • [[Crossing the First Threshold]] • [[The Ordeal]] • [[The Resurrection]] • [[Return with the Elixir]]
 
-**Related Tales:**
+#### Related Tales
 [[Beauty and the Beast]] • [[Sleeping Beauty]] • [[Cinderella]] • [[Rapunzel]] • [[The Handless Maiden]] • [[East of the Sun, West of the Moon]]
 
 ---

@@ -679,7 +679,7 @@ In Indian folktales, the chamber motif appears with **shapeshifting husbands**�
 **"The Serpent's Cave":**
 A woman married to a beautiful man discovers he sheds his skin nightly and becomes a serpent. The chamber is the cave where he keeps his previous skins—each representing a murdered wife he consumed and outgrew.
 
-**Symbolism:**
+#### Symbolism
 - **Shedding skin:** Transformation without integration (serial predation)
 - **Cave of skins:** Archive of victims
 - **True form:** The predator's nature beneath the seductive appearance
@@ -837,7 +837,7 @@ Once you see the chamber—the truth of predation in your life—**the blood won
 - Relationships based on your naivety will end
 - Others may prefer you unconscious
 
-**The Gift:**
+#### The Gift
 - You can no longer be fooled the same way
 - You have agency based on reality, not illusion
 - You can protect yourself and others

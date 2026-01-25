@@ -149,14 +149,14 @@ When this channel is defined, the individual has **consistent intuitive clarity 
 
 Gate 10 is located in the **G Center**, which corresponds biologically to the **liver** and the **magnetic monopole** (Ra's term for the geometric center of the bodygraph). The magnetic monopole is not a physical organ but an **orientation mechanism**—it determines direction, identity, and the experience of love.
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 10 defined may experience:
 - A deep **somatic sense of how to behave**—the body knows how to move, respond, and interact
 - **Self-regard as a felt sense**—the capacity to love oneself somatically, not conceptually
 - Sensitivity to **behavioral inauthenticity**—when behavior is forced or performed, the body registers dissonance
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The G Center radiates **identity and direction** into the aura. When Gate 10 is active, the aura carries a frequency of **"I am comfortable being myself."** Others may perceive this as **natural**, **grounded**, or (if the individual is in Not-Self) **self-absorbed or aloof**.
 
@@ -198,7 +198,7 @@ The natural behavior is experienced only through transits or proximity to others
 - **Exploitation (Line 4 Detriment):** Using behavioral charm to manipulate or take advantage.
 - **Performed Rebellion (Line 5 Detriment):** Behaving contrarily to prove difference, undermining authenticity.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Feeling unsure of "how to be" in social situations
 - Performing behavior based on perceived expectations
@@ -226,7 +226,7 @@ The **7-year deconditioning cycle** for Gate 10 involves learning to recognize a
 
 **Year 7:** Integration phase—behavioral authenticity becomes aligned with Strategy and Authority. The individual moves from **self-obsession** (Gene Keys Shadow) to **naturalness** (Gift) to **being** (Siddhi)—the recognition that authentic behavior is the universe expressing itself through this unique form.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice where behavioral impulses arise in the body. Is it a pull in the chest (G Center)? A sense of rightness?
 - Practice **being yourself** in small doses—expressing natural behavior without monitoring or self-censoring.
@@ -277,14 +277,14 @@ In Jungian terms, Gate 10 corresponds to the **Self** (capital-S, the totality o
 
 The Authentic Self is the individual who has integrated shadow and light, who behaves from wholeness rather than fragmentation. This is not the ego (small-s self) but the Self (the unique expression of the universal).
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 10** manifests as:
 - **Narcissism:** Confusing self-love with self-obsession, making everything about oneself.
 - **Behavioral Fragmentation:** Performing different personas in different contexts, losing coherence.
 - **Self-Betrayal:** Sacrificing authentic behavior to gain approval or avoid conflict.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 10, individuation requires:
 1. **Developing Modesty (Line 1):** Recognizing that authentic behavior is not arrogance.
@@ -298,7 +298,7 @@ When integrated, Gate 10 becomes the **embodied capacity to be oneself**—to be
 
 When the individual with Gate 10 operates according to their Strategy and Authority, the gift that emerges is **Naturalness** (Gene Keys) and **Behavioral Authenticity** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Behavior arises from authentic self-love, not performance for approval.
 - The individual honors their natural way of being, even when it differs from collective norms.
@@ -313,7 +313,7 @@ The Signature of the G Center (for all gates within it) is the experience of **L
 - **Directional clarity** about how to move through life
 - **Freedom from behavioral performance**—being oneself with ease
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 10 teaches that **loving oneself is expressed through behavior**. When the individual honors their Strategy and Authority, behaves naturally, and loves themselves enough to be authentic, they become a **living example** of what it means to be human. This is the essence of the Integration Circuit—not to teach or lead, but to **inspire through natural being**.
 

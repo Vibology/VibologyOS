@@ -86,18 +86,18 @@ In sacred traditions, this is the mystic who finds the unknowable to be holy rat
 ---
 
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 Recklessness signals that **mental pressure is generating chaotic action**. You are being warned against movement born from existential anxiety, against acting recklessly to escape the discomfort of not knowing. The question is: **is your action inspired or merely pressured? Are you moving toward something or fleeing from the void?**
 
 The appearance of Recklessness also suggests that **stillness is required before genuine guidance can arrive**. Gate 61's inner truth needs time to penetrate; forcing action will not accelerate revelation. The question is whether you can tolerate the pressure of mystery long enough to receive actual inspiration.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 You are caught in **psychotic pressure masquerading as guidance**—acting not from knowing but from inability to tolerate mystery. The shadow manifests as recklessness disguised as courage: taking risks not because they serve something but because stillness forces you to face unanswerable questions. Your vitality has become escape velocity from the void. Check whether your "courage" is actually flight, whether your "action" is actually avoidance, whether your movement has direction or merely speed.
 
-**Gift Aspect:**
+#### Gift Aspect
 The path forward requires **waiting for inspiration through tolerance of mystery**—allowing mental pressure to build until genuine inner truth arrives, trusting that revelation has timing that cannot be forced. In the House of the Flame, this means learning to distinguish reckless flight from inspired action—the difference between moving because you cannot stand still and moving because you know where to go. Patience with mystery transforms recklessness into purposeful movement guided by actual knowing.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 In its highest healing, Recklessness dissolves into **Sanctity**—the recognition that mystery is holy ground, that the unknowable is where the sacred dwells, that sitting with unanswerable questions is worship rather than torment. You embody vitality that moves only when inspired, fire that burns in reverence for what cannot be grasped. Those who heal this shadow become **living demonstrations that true courage means sitting with mystery until inner truth speaks, that patience with the unknowable is the beginning of wisdom**.
 
 ---

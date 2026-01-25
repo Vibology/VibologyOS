@@ -185,7 +185,7 @@ In traditional medical astrology, Scorpio governs the **regenerative and elimina
 
 Scorpio's shadow is **the Tyrant**—power wielded without compassion, destruction without regeneration, control masquerading as intimacy.
 
-**Shadow expressions:**
+#### Shadow expressions
 - **Obsession:** The inability to release, the mind that fixates, the love that becomes possession.
 - **Manipulation:** The use of emotional intensity to control, the weaponization of vulnerability, the power play disguised as intimacy.
 - **Paranoia:** The belief that all others are threats, the inability to trust, the fortress that becomes prison.

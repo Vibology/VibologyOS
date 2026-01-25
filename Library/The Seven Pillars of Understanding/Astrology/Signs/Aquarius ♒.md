@@ -188,7 +188,7 @@ In esoteric anatomy, Aquarius governs the **ankles** (flexibility, the capacity 
 
 Aquarius's shadow is **fanaticism disguised as humanitarianism**—the revolutionary who sacrifices the individual for the ideology, the visionary who cannot see the human beings in front of them because they are fixated on the abstract collective.
 
-**Shadow expressions:**
+#### Shadow expressions
 - **Emotional coldness:** Dissociation from the heart; the one who intellectualizes all feeling, who cannot be vulnerable
 - **Fanaticism:** The vision that becomes dogma; the revolutionary who cannot tolerate dissent
 - **Elitism:** The belief that one is "ahead of their time," that the masses are too ignorant to understand the vision

@@ -86,18 +86,18 @@ In sacred traditions, this is the enlightening power of sudden realization—the
 ---
 
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 Violence signals that **agitation has hijacked your willpower**. You are being warned against shocking to destroy, against competing to dominate, against initiating from fragmented ego rather than centered strength. The question is: **what agitation drives your violence? What inner chaos are you trying to escape through external destruction?**
 
 The appearance of Violence also suggests that **stillness is required before initiative can be trusted**. Gate 51's shock capacity needs grounding; until center is found, initiation will be destructive. The question is whether you can stop shocking long enough to examine what drives the compulsion to shock.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 You are caught in **chronic agitation masquerading as strength**—shocking not to awaken but to dominate, competing not to excel but to destroy, initiating not from center but from chaos. The shadow manifests as violence disguised as courage: breaking things because you cannot tolerate stillness, winning at others' expense, using willpower to fragment rather than transform. Your ego has lost its center. Check whether your "power" is actually panic, whether your "initiative" is actually compulsion, whether your shock awakens or merely destroys.
 
-**Gift Aspect:**
+#### Gift Aspect
 The path forward requires **returning to centered initiative**—grounding your willpower in stillness, shocking only to awaken, competing to manifest excellence rather than to dominate. In the House of the Flame, this means finding the center that agitation obscures, discovering the stillness from which genuine initiative arises. Centered initiative transforms violence back into catalytic shock—power that serves transformation rather than destruction.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 In its highest healing, Violence dissolves into **Awakening**—the recognition that your capacity to shock is sacred responsibility, that willpower exists to liberate consciousness rather than dominate others. You embody fire that burns away illusion, shock that catalyzes transformation, strength deployed in service to collective awakening. Those who heal this shadow become **living demonstrations that true power serves awakening, that genuine competition elevates all, that shock can be medicine when administered from center**.
 
 ---

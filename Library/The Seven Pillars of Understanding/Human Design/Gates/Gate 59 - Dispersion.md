@@ -124,7 +124,7 @@ Gate 59 forms one channel:
 
 **Channel 59-6: Mating (The Channel of Intimacy)** (Sacral to Solar Plexus)
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 - **Gate 59 (Sacral):** "I have the energy to break through barriers and create intimacy."
 - **Gate 6 (Solar Plexus):** "I have the emotional clarity to discern with whom intimacy is correct."
 - **Channel 59-6:** The bridge between sexual energy and emotional clarity—the capacity for **intimate bonding that is emotionally correct**.
@@ -137,7 +137,7 @@ This channel creates the archetype of **The Mating Bond**—the one who knows wi
 
 Gate 59 is located in the **Sacral Center**, which corresponds biologically to the **reproductive system** (gonads, ovaries, testes), **sexual hormones** (estrogen, testosterone), and the **libido** (sexual drive and response).
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 59 defined may experience:
 - A **strong sexual/intimate drive**—the body seeks connection, bonding, and union
@@ -145,7 +145,7 @@ Individuals with Gate 59 defined may experience:
 - **Physical magnetism** that draws others toward them; the aura carries the frequency of "I want to bond"
 - **Sensitivity to barriers**—the body knows when walls are present and feels the impulse to dissolve them
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Sacral Center radiates **life force and sexual energy** into the aura. When Gate 59 is active, the aura carries a frequency that says: "I am available for intimacy. I can penetrate your barriers." Others may feel this as **attractive**, **threatening** (if they are not open to intimacy), or (if the individual is in Not-Self) **invasive and boundary-violating**.
 
@@ -187,7 +187,7 @@ The 28-day lunar cycle allows the Reflector to sample Gate 59's sexual energy ac
 - **Fear of Intimacy:** Suppressing the sexual energy out of fear of vulnerability; building walls to avoid being penetrated by others.
 - **Tribal Dependency:** Believing worth is determined by ability to bond; measuring value by sexual/intimate connections.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Entering intimacy bonds that do not serve the true self
 - Using sexuality to gain approval, resources, or validation
@@ -216,7 +216,7 @@ The **7-year deconditioning cycle** for Gate 59 involves learning to recognize w
 
 **Year 7:** Integration phase—intimacy becomes aligned with Strategy and Authority. Dishonesty transforms into Intimacy (Gene Keys Gift), and the individual experiences **authentic bonding** that nourishes the tribe. Transparency flows naturally when intimacy serves life.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice when the sexual/intimate energy arises. Is it in the Sacral (authentic response) or the mind (conditioned need)?
 - Practice **honoring the Sacral response** in low-stakes intimacy situations—who feels correct to bond with?
@@ -266,14 +266,14 @@ In Jungian terms, Gate 59 corresponds to the **Sexual Instinct** and the drive t
 
 The Lover archetype seeks union—not just sexual, but the dissolution of all barriers between self and other. This is not possession, but merge. Gate 59 is the lover's capacity to **penetrate the aura and say 'I want to know you fully'**.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 59** manifests as:
 - **Sexual Manipulation:** Using intimacy as a tool for control, validation, or resource extraction.
 - **Boundary Violation:** Treating the capacity to break barriers as entitlement; forcing intimacy where it is not welcomed.
 - **Fear of Vulnerability:** Building walls to prevent being penetrated by others; shutting down sexual energy to avoid intimacy.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 59, individuation requires:
 1. **Integration of Sexuality and Spirituality:** Recognizing that intimacy is not "base" but sacred—the union of two beings.
@@ -286,7 +286,7 @@ When integrated, Gate 59 becomes the expression of the **Intimate Self**—the c
 
 When the individual with Gate 59 operates according to their Strategy and Authority, the gift that emerges is **Intimacy** (Gene Keys) and **Authentic Bonding** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Sexual/intimate energy flows naturally toward correct bonds.
 - The individual honors the Sacral response (or other Authority) in determining with whom to create intimacy.
@@ -301,7 +301,7 @@ The Signature of the Sacral Center (for all gates within it) is the experience o
 - **Selective penetration of barriers**—knowing with whom to bond
 - **Sexual energy in service to life**, not ego or validation
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 59 teaches that **intimacy is sacred**. When the individual honors their sexual energy according to Strategy and Authority, they become a **living example** of what it means to create bonds that nourish, to penetrate barriers with care, to use sexuality in service to the tribe. This is the essence of the Defense Circuit—not to bond with everyone, but to **create intimacy that sustains**.
 

@@ -85,7 +85,7 @@ The Ascendant is "Who are you?"; the MC is "What have you built?"
 
 The **ruler of the 10th House** (the planet ruling the MC sign) reveals *how* you achieve and what your vocation requires.
 
-**Examples:**
+#### Examples
 - **Moon ruling 10th → Cancer on MC** — Vocation through nurturance, public role as caregiver, reputation built on emotional service
 - **Mercury ruling 10th → Gemini/Virgo on MC** — Vocation through communication, public role as teacher/writer, reputation built on intellect
 - **Saturn ruling 10th → Capricorn/Aquarius on MC** — Vocation through discipline, public role as authority, reputation built on mastery

@@ -14,6 +14,7 @@ qabalistic_world: Briah (Creative World)
 sephirah: Kether
 title: Root of the Powers of Water
 ---
+# Ace of Cups
 *The Root of the Powers of Water*
 
 ---

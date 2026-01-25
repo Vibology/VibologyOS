@@ -124,7 +124,7 @@ Gate 61 forms one channel:
 
 **Channel 61-24: Awareness (The Thinker)** (Head to Ajna)
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 - **Gate 61 (Head):** "I am under pressure to know what cannot be known logically."
 - **Gate 24 (Ajna):** "I rationalize inspiration; I give mental form to inner truth."
 - **Channel 61-24:** The bridge between pressure and rationalization—the capacity for **thinking the unknowable**.
@@ -137,7 +137,7 @@ This channel creates the archetype of **The Thinker**—the one who is under con
 
 Gate 61 is located in the **Head Center**, which corresponds biologically to the **pineal gland** (the "third eye" in esoteric traditions) and the **mental pressure system** that drives thinking, questioning, and seeking.
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 61 defined may experience:
 - A **constant existential pressure**—the mind is driven to question, to seek, to know what cannot be proven
@@ -145,7 +145,7 @@ Individuals with Gate 61 defined may experience:
 - **Mental overwhelm** when inspiration does not arrive; the pressure builds without release
 - **Spontaneous knowing**—sudden flashes of insight, revelation, or truth that bypass logical process
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Head Center radiates **mental pressure and inspiration** into the aura. When Gate 61 is active, the aura carries a frequency that says: "I must know. I seek truth beyond proof." Others may feel this as **inspiring**, **intense** (the pressure is palpable), or (if the individual is in Not-Self) **anxious and mentally chaotic**.
 
@@ -187,7 +187,7 @@ The 28-day lunar cycle allows the Reflector to sample Gate 61's pressure across 
 - **Spiritual Inflation:** Believing one has special access to truth; confusing ego with inspiration.
 - **Mental Exhaustion:** The pressure never rests; the mind cannot stop seeking, questioning, probing.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Chronic anxiety about existential questions
 - Forcing answers to questions that have no logical solution
@@ -216,7 +216,7 @@ The **7-year deconditioning cycle** for Gate 61 involves learning to recognize w
 
 **Year 7:** Integration phase—the pressure to know becomes aligned with Strategy and Authority. Psychosis transforms into Inspiration (Gene Keys Gift), and the individual experiences **spontaneous inner truth** without mental force. Sanctity flows naturally when knowing serves the soul.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice when the pressure arises. Is it in the Head (authentic existential drive) or the mind (conditioned need for certainty)?
 - Practice **allowing mystery to exist**—not forcing answers, trusting that inspiration will arrive when correct.
@@ -266,14 +266,14 @@ In Jungian terms, Gate 61 corresponds to the **Transcendent Function** and the d
 
 The Mystic archetype seeks direct knowing—not through study, but through revelation. This is not the scholar who accumulates knowledge, but the seer who **receives truth from beyond the rational mind**. Gate 61 is the mystic's capacity to **sustain the pressure of not-knowing until inspiration arrives**.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 61** manifests as:
 - **Spiritual Inflation:** Believing one has special access to truth; confusing ego with inspiration.
 - **Mental Fragmentation:** The pressure to know fractures the psyche; seeking answers that cannot be found through logic.
 - **Bypassing Reality:** Using "inner knowing" to avoid empirical truth; claiming inspiration without discernment.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 61, individuation requires:
 1. **Integration of Mystery and Meaning:** Recognizing that some truths cannot be proven but can be known; inspiration is real even without evidence.
@@ -286,7 +286,7 @@ When integrated, Gate 61 becomes the expression of the **Inspired Self**—the c
 
 When the individual with Gate 61 operates according to their Strategy and Authority, the gift that emerges is **Inspiration** (Gene Keys) and **Inner Truth** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - The pressure to know is honored without forcing answers.
 - Inspiration arrives spontaneously, in its own timing.
@@ -301,7 +301,7 @@ The Signature of the Head Center (for all gates within it) is the experience of 
 - **Honoring mystery**—allowing the unknowable to remain unknowable until inspiration arrives
 - **Inspiring others** through authentic inner knowing, not performance
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 61 teaches that **inner truth cannot be forced**. When the individual honors their pressure to know according to Strategy and Authority, they become a **living example** of what it means to sustain mystery without collapsing into anxiety, to receive inspiration without forcing answers, to trust inner knowing without demanding proof. This is the essence of the Individual Knowing stream—not to explain, but to **embody inspired truth**.
 

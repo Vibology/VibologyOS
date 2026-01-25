@@ -267,7 +267,7 @@ The Heptarchia directly invokes planetary forces:
 
 **Timing:** Wednesday or Thursday, during the planetary hour
 
-**Method:**
+#### Method
 - Invoke the King
 - Petition: *"Grant me understanding of [topic]. Reveal the hidden knowledge that I seek."*
 - Scry or meditate for revelations
@@ -278,7 +278,7 @@ The Heptarchia directly invokes planetary forces:
 
 **Timing:** Friday, Venus hour
 
-**Method:**
+#### Method
 - Invoke Bnapsen
 - Petition: *"Open the pathways of love and connection. Bring harmony to [relationship/situation]."*
 - Note: Ethical consideration—never petition for control over another's will
@@ -289,7 +289,7 @@ The Heptarchia directly invokes planetary forces:
 
 **Timing:** Thursday, Jupiter hour
 
-**Method:**
+#### Method
 - Invoke Bornogo
 - Petition: *"Grant abundance, expansion, and wise stewardship. Open doors to prosperity."*
 
@@ -299,7 +299,7 @@ The Heptarchia directly invokes planetary forces:
 
 **Timing:** Saturday, Saturn hour
 
-**Method:**
+#### Method
 - Invoke Bnaspol
 - Petition: *"Fortify my will. Grant discipline, structure, and protection against chaos."*
 
@@ -309,7 +309,7 @@ The Heptarchia directly invokes planetary forces:
 
 **Timing:** Tuesday, Mars hour
 
-**Method:**
+#### Method
 - Invoke Baligon
 - Petition: *"Grant courage to face [challenge]. Empower me to act with decisive strength."*
 

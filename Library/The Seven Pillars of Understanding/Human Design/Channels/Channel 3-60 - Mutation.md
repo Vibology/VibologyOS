@@ -56,13 +56,13 @@ The electromagnetic relationship between Gate 60 and Gate 3 is one of **pressure
 
 When these two gates form a complete channel, the individual has **consistent access to mutative, pulsing life-force energy**. They are designed to initiate new cycles, start revolutions, and bring forth innovations—but always in rhythm with the pulse, not by forcing.
 
-**The Dynamic:**
+#### The Dynamic
 
 - **Gate 60 without Gate 3:** The individual feels the pressure of limitation but lacks the life-force energy to transcend it. They may feel stuck, constrained, or frustrated by boundaries.
 - **Gate 3 without Gate 60:** The individual has energy but lacks the grounding pressure of limitation. They may dissipate energy into chaos without the structure needed for mutation.
 - **Channel 3-60 Complete:** Limitation and innovation are unified. The individual becomes a **mutative force**—accepting what is, then pulsing beyond it to create what has never been.
 
-**Interpersonal Electromagnetic Completion:**
+#### Interpersonal Electromagnetic Completion
 
 When two people come together with complementary gates:
 - **One with Gate 60, other with Gate 3:** The Gate 60 person provides the grounding acceptance of limitation; the Gate 3 person provides the energy to transcend it. Together, they become a cycle of transformation.
@@ -77,7 +77,7 @@ The Root is the **biological seat of pressure**—associated with the adrenal gl
 
 The Sacral is the **biological engine of life force**—associated with the ovaries/testes, reproductive energy, and the capacity to generate sustainable work and sexual vitality.
 
-**Biological Flow:**
+#### Biological Flow
 
 When Channel 3-60 is defined, there is a **direct biological pathway** from stress pressure to life-force energy. The individual's capacity to respond to limitation (Root) is hardwired to their creative, reproductive, and work energy (Sacral). This means:
 
@@ -85,7 +85,7 @@ When Channel 3-60 is defined, there is a **direct biological pathway** from stre
 - **Pulsing energy pattern.** The adrenal-Sacral connection creates a **cyclic rhythm**—periods of intense energy (pulse on) followed by rest (pulse off). This is not dysfunction; it is the design.
 - **Reproductive and stress hormones are linked.** The individual's sexual energy, fertility, and creative output are influenced by their relationship to limitation and pressure. If they resist limitation, both systems suffer.
 
-**Somatic Signature:**
+#### Somatic Signature
 
 Individuals with Channel 3-60 may feel:
 - **A pulsing rhythm in the lower body**—periods of intense Sacral energy followed by depletion.
@@ -150,7 +150,7 @@ Channel 3-60 is a **Generated Channel** (Sacral-defined).
 - **Gate 3 defined, Gate 60 open:** The individual has energy but lacks the grounding pressure of limitation. They may dissipate energy without focus.
 - **Both gates open:** The individual samples mutative energy from others. They may become wise about innovation by observing cycles without being driven by them. Vulnerability to conditioning: "I must constantly innovate or be productive."
 
-**Wisdom for the Undefined:**
+#### Wisdom for the Undefined
 
 If you do not have Channel 3-60, you are not here to be a constant source of mutation. You may innovate in other ways (Collective patterns, Tribal nurturing) or simply reflect and amplify others' cycles. This is not a lack—it is a different design.
 
@@ -159,18 +159,18 @@ If you do not have Channel 3-60, you are not here to be a constant source of mut
 
 Channel 3-60 is an **electromagnetic channel**.
 
-**Electromagnetic Completion in Partnerships:**
+#### Electromagnetic Completion in Partnerships
 
 When one partner has Gate 60 and the other has Gate 3, the relationship becomes a **cycle of transformation**:
 - The Gate 60 person provides the acceptance of limitation, the grounding reality.
 - The Gate 3 person provides the energy to transcend limitation, the innovative force.
 - Together, they create cycles of **chaos to order, limitation to breakthrough**.
 
-**Potential Shadow:**
+#### Potential Shadow
 
 If the Gate 60 person is rigid ("Accept the limitation; stop trying to change things"), the Gate 3 person may feel stifled. If the Gate 3 person is chaotic ("Ignore the limitations; just push through"), the Gate 60 person may feel ungrounded.
 
-**Healthy Dynamic:**
+#### Healthy Dynamic
 
 Mutual respect for the pulse. The Gate 60 person honors the Gate 3's need to innovate. The Gate 3 person honors the Gate 60's acceptance of timing and limitation. The relationship becomes a **sacred rhythm**.
 
@@ -191,7 +191,7 @@ Channel 3-60 **does** carry Authority for Generators and Manifesting Generators 
 - **Authority:** Sacral ("uh-huh" or "unh-unh" gut response).
 - **Integration:** The Sacral's response must be honored, **but the pulse must also be honored**. The Sacral may say "yes" to a project, but if the pulse is "off," the individual must rest. When the pulse is "on," the Sacral's energy is available.
 
-**The Challenge:**
+#### The Challenge
 
 Learning to distinguish between:
 - **Sacral "no":** "I don't have energy for this at all."
@@ -199,7 +199,7 @@ Learning to distinguish between:
 
 The Sacral responds to **what** is correct. The pulse dictates **when** the energy is available.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Track your energy cycles over weeks or months. Notice the pattern of "on" and "off" pulses.
 - When the pulse is "off," rest deeply. Don't force productivity.
@@ -214,12 +214,12 @@ The Sacral responds to **what** is correct. The pulse dictates **when** the ener
 - **Chaos Without Order:** Initiating endlessly without bringing any cycle to completion.
 - **Fear of the Pulse:** Believing that "off" periods are failure or laziness, leading to shame and self-judgment.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - **For Generators:** Frustration. "Why am I exhausted all the time despite working so hard?"
 - **For Manifesting Generators:** Frustration and anger. "Why can't I sustain momentum?"
 
-**Conditioning Patterns:**
+#### Conditioning Patterns
 
 The Individual mutative pulse is heavily conditioned by Collective and Tribal expectations:
 - **Collective Conditioning:** "You must be productive every day. Consistency is key."
@@ -308,12 +308,12 @@ Channel 3-60 is the integration of Self and Trickster. The individual accepts li
 
 The Channel 3-60 individual embodies the **Revolutionary Archetype**—not through force or ideology, but through **pulsing innovation**. They accept what is, then mutate beyond it.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 - **Forced Revolution:** Trying to create change constantly, without honoring the pulse or accepting limitation.
 - **Stagnation:** Resisting the pulse, refusing to innovate when the energy is "on."
 
-**Integration Path:**
+#### Integration Path
 
 The Channel 3-60 individual must learn to **honor the pulse as sacred**. Rest is not failure; it is the preparation for the next mutation. Limitation is not a barrier; it is the womb of innovation.
 

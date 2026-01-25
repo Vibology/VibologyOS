@@ -86,18 +86,18 @@ In sacred traditions, this is the humble master whose wisdom sustains generation
 ---
 
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 Survival signals that **memory and strategy will sustain you through this passage**. You are being called to remember what has worked, to apply historical wisdom, to use accumulated knowledge in service to vitality. This is not a time for untested experiments or prideful reinvention; it is a time for **artful application of proven methods**. The question is: **what wisdom do you already possess that this situation requires? What has history taught you about sustaining fire?**
 
 The appearance of Survival also suggests that **resources are available through remembered wisdom**. Gate 26's strategic memory is activating—circumstances support efficient management, the tribe needs stewardship. The question is whether you will serve collective continuity or inflate personal pride.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware the trap of **prideful accumulation**—using memory to hoard rather than share, controlling resources for ego gratification rather than tribal survival. The shadow manifests as strategic manipulation for personal gain, survival mentality that excludes others, historical knowledge weaponized for status. Check whether your resource management serves collective vitality or personal pride. Shadow also warns against **rigidity disguised as wisdom**: applying past strategies that no longer serve, refusing new approaches because old ones worked before.
 
-**Gift Aspect:**
+#### Gift Aspect
 When Survival expresses its gift, you embody **artfulness in sustaining continuity**. Your memory is refined into strategy, your willpower serves the collective, your knowledge becomes resource for all. This is the gift of **strategic wisdom**: you know what works because you remember, and you apply that knowledge with elegance rather than ego. From this artfulness, the tribe's fire burns steadily across time—sustained by intelligence, preserved by memory.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 In its highest expression, Survival becomes **Invisibility**—ego dissolved into perfect service, the steward so transparent that only the sustained vitality remains visible. You embody the humble master whose wisdom ensures continuity while claiming no credit. Those who touch this frequency become **the invisible foundation upon which collective survival rests**, remembered not for their name but for the fire they kept alive.
 
 ---

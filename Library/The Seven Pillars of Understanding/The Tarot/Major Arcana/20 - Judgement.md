@@ -11,6 +11,7 @@ verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
+# 20 - Judgement
 *The Spirit of the Primal Fire*
 
 ---

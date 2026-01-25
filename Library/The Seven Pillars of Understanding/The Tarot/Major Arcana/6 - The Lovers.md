@@ -11,6 +11,7 @@ verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
+# 6 - The Lovers
 *The Children of the Voice*
 
 ---
@@ -53,7 +54,7 @@ The key insight is that The Lovers always deal with **the paradox of union throu
 ## Divination Use
 **Upright:** Love, attraction, choice, union, beauty, harmony, trials overcome, the Royal Marriage, inspiration, conscious commitment, integration of opposites, human love as spiritual path. Keywords: Choice, partnership, sacred union, discrimination.
 
-**Reversed (per Waite):**
+#### Reversed (per Waite)
 Failure, foolish designs, marriage frustrated, contrarieties of all kinds. Wrong choice, refusal to commit, projection, separation, discord, inability to integrate opposites, relationship for wrong reasons.
 
 ---

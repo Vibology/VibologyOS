@@ -118,7 +118,7 @@ Channel 24-61 contributes to this by:
 
 **Acoustic Nature:** Individual Circuit channels are **acoustic**—they HEAR the knowing. This is why 24-61 individuals often describe insights as "arriving" or "being heard" rather than "figured out."
 
-**Why This Channel is Projected:**
+#### Why This Channel is Projected
 
 The connection is **Head to Ajna**—both awareness centers, no motor or Throat connection. Therefore, this channel **cannot generate sustained work** or manifest independently. It is **Projected**—it requires **recognition and invitation** to share its awareness.
 

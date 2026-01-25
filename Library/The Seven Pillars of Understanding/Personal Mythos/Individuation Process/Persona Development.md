@@ -268,7 +268,7 @@ In this stage, the primary projections are:
 
 **Protection of the Inner Life:** Ironically, a good Persona **protects** the authentic self by creating appropriate boundaries. Not everyone deserves access to your soul. The Persona allows selective vulnerability.
 
-**The Gift:**
+#### The Gift
 A **functional Persona** that serves the Self's aims—a mask that can be worn when needed, removed when safe, and never confused with the totality of who you are. The vessel is built; now it must be filled with something other than achievement.
 
 ## Cross-References
@@ -286,13 +286,13 @@ A **functional Persona** that serves the Self's aims—a mask that can be worn w
 - [[Approach to the Inmost Cave]] (preparing for peak achievement)
 - [[The Reward]] (seizing the prize of success)
 
-**Individuation Process:**
+#### Individuation Process
 - [[Ego Formation and Childhood]] (Stage 1—foundation for Persona development)
 - [[Confrontation with Shadow]] (Stage 3—unlived life erupts, demands integration)
 - [[Encounter with Anima-Animus]] (Stage 4—soul-work replaces achievement)
 - [[Confrontation with the Self]] (Stage 5—ego relativized, Self acknowledged)
 
-**Alchemical Stages:**
+#### Alchemical Stages
 - [[Calcination]] (primary operation of this stage)
 - [[Separatio]] (childhood differentiation, foundation for this stage)
 - [[Nigredo]] (follows when Persona is shattered in midlife)
@@ -315,7 +315,7 @@ A **functional Persona** that serves the Self's aims—a mask that can be worn w
 - [[Throat Center]] (manifestation, speaking one's role into reality)
 - [[Manifestor Type]] (initiating, making things happen)
 
-**Mythology:**
+#### Mythology
 - [[Greek Mythology]] (Jason, Theseus, Odysseus at Troy, Heracles' labors)
 - [[Hindu Mythology]] (Rama winning Sita, Arjuna's duty as warrior)
 - [[Celtic Mythology]] (King Arthur pulling the sword, establishing Camelot)

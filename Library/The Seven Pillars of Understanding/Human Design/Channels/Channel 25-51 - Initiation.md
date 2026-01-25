@@ -112,7 +112,7 @@ The **Centering Circuit** is the smallest of the three Individual sub-circuits (
 - **Gate 25 (G Center):** Provides the spiritual "home base"—the sense of universal love and innocent direction.
 - **Gate 51 (Ego Center):** Provides the **willpower to maintain that center** even when the collective demands conformity.
 
-**Why This Channel is Projected:**
+#### Why This Channel is Projected
 
 Even though Gate 51 is in the Ego (a motor center) and Gate 25 is in the G (an identity center), **neither connects to the Throat**. Therefore, this channel cannot initiate action directly (Manifestor) or sustain work continuously (Generator). It is **Projected**—it requires **recognition and invitation** to express its initiatory power effectively.
 

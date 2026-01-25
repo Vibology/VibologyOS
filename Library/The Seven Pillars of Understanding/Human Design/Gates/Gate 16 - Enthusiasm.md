@@ -122,7 +122,7 @@ Because the Collective Logic Circuit is designed to **recognize and share reliab
 
 Gate 16 forms **Channel 16-48: The Wavelength (The Channel of Talent)** when connected to Gate 48 in the Spleen Center.
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 
 - **Gate 16 (Throat):** "I have the capacity to express skill through repeated practice and dedicated refinement."
 - **Gate 48 (Spleen):** "I have the instinctual knowing of when I have developed adequate depth and when to share my skill."
@@ -132,7 +132,7 @@ When this channel is defined, the individual has **consistent access to talent t
 
 **Without the channel defined** (only Gate 16 activated), the individual experiences the drive to practice but may struggle to know *when* they've practiced enough. They need another person with Gate 48 to complete the electromagnetic circuit—someone who can provide the instinctual knowing of adequacy.
 
-**Interpersonal Electromagnetic Dynamics:**
+#### Interpersonal Electromagnetic Dynamics
 
 - **Both have Channel 16-48:** Potential mutual mastery or competition over who is more skilled. Can be profoundly generative if each honors the other's expertise.
 - **One has Gate 16, other has Gate 48:** The Gate 16 person provides practiced skill; the Gate 48 person provides instinctual adequacy. This can create balanced partnership—dedication and discernment.
@@ -142,7 +142,7 @@ When this channel is defined, the individual has **consistent access to talent t
 
 Gate 16 is located in the **Throat Center**, which corresponds biologically to the **thyroid and parathyroid glands**—the metabolic regulators that govern energy expression, manifestation, and communication.
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 16 defined may experience:
 - A **somatic drive to practice**—the body wants to repeat movements, sounds, or actions until they become fluent
@@ -150,7 +150,7 @@ Individuals with Gate 16 defined may experience:
 - A felt sense of **energy channeling** when engaged in repetitive practice—the flow state of dedicated refinement
 - **Speech patterns** that demonstrate practiced articulation—words chosen with care, refined through use
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Throat Center radiates **manifestation and expression** into the aura. When Gate 16 is active, the aura carries a frequency that says: "I am here to develop skill through practice and share reliable expertise." Others may feel this as **inspiring**, **dedicated**, or (if the individual is in Not-Self) **mechanical** or **performative**.
 
@@ -188,7 +188,7 @@ The skill development is inconsistent (activated only by transits or others). Th
 - **Mechanical Repetition:** Practicing without presence, creating habit rather than embodied skill.
 - **Skill Hoarding:** Developing mastery but refusing to share it with the collective, using expertise to maintain superiority.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Frustration from practicing skills that don't align with Sacral response (for Generators/MGs)
 - Bitterness from sharing expertise without invitation (for Projectors)
@@ -216,7 +216,7 @@ The **7-year deconditioning cycle** for Gate 16 involves learning to recognize w
 
 **Year 7:** Integration phase—skill development becomes aligned with Strategy and Authority. The individual practices from **versatility** (Gene Keys Gift) rather than indifference. Mastery emerges naturally through dedication, and expertise is shared when correct.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice where the impulse to practice arises in the body. Is it the throat (genuine expression)? The mind (pressure to perform)? The gut (Sacral response)?
 - Practice **presence during repetition**—bringing full awareness to each iteration, making practice a meditation rather than mechanical habit.
@@ -262,14 +262,14 @@ In Jungian terms, Gate 16 corresponds to the **Craftsperson Archetype** and the 
 
 The Craftsperson archetype seeks to develop skill through dedicated repetition, to refine technique until it becomes embodied, to create reliable excellence through sustained practice. This is the artist who practices daily, the athlete who trains relentlessly, the musician who plays scales for decades.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 16** manifests as:
 - **The Dilettante:** Starting many practices but mastering none, avoiding the sustained commitment required for true skill.
 - **The Perfectionist:** Using practice as a way to avoid ever sharing expertise, believing one is never "ready" or "good enough."
 - **The Performer:** Practicing for appearance rather than mastery, creating superficial skill for external validation.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 16, individuation requires:
 1. **Commitment to Practice:** Recognizing that mastery is the path, not the destination—that the act of repetition is itself the goal.
@@ -282,7 +282,7 @@ When integrated, Gate 16 becomes the expression of **mastery as service**—the 
 
 When the individual with Gate 16 operates according to their Strategy and Authority, the gift that emerges is **Versatility** (Gene Keys) and **Reliable Expertise Through Practice** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Practice flows naturally from correct response (for Generators/MGs) or invitation (for Projectors), creating sustainable dedication.
 - Skills are developed in alignment with instinct (especially if Gate 48 is defined), honoring when adequacy has been reached.
@@ -298,7 +298,7 @@ The Signature of the Throat Center varies by Type, but for Gate 16 specifically,
 - **Peace from dedicated practice** (for Manifestors)—the calm that comes from informing and expressing mastery
 - **Surprise from skill emergence** (for Reflectors)—the wonder when practice aligns with lunar timing
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 16 teaches that **true mastery is earned through dedication**. When the individual honors their Strategy and Authority, commits to sustained practice, and shares expertise when correct, they become a **living example** of what is possible through repetition. This is the essence of the Collective Logic Circuit—to develop reliable patterns and share them for collective enrichment.
 

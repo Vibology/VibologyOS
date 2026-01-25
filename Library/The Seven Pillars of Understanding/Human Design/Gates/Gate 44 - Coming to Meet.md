@@ -122,7 +122,7 @@ Because the Tribal Circuit operates through **collective survival**, memory is n
 
 Gate 44 forms **Channel 44-26: Surrender (The Egoist)** when connected to Gate 26 in the Heart/Ego Center.
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 
 - **Gate 44 (Spleen Center):** "I recognize patterns from the past that may threaten survival."
 - **Gate 26 (Ego Center):** "I will use my willpower and resources to manage this pattern."
@@ -132,7 +132,7 @@ When this channel is defined, the individual has **consistent access to survival
 
 **Without the channel defined** (only Gate 44 activated), the individual experiences pattern recognition but may lack the willpower (Gate 26) to act on it. They need another person with Gate 26 to complete the electromagnetic circuit—someone who can mobilize resources based on their instinctual alerts.
 
-**Interpersonal Electromagnetic Dynamics:**
+#### Interpersonal Electromagnetic Dynamics
 
 - **Both have Channel 44-26:** Mutual pattern recognition and willpower. Can be generative (collaborative protection) or competitive (conflicting survival strategies).
 - **One has Gate 44, other has Gate 26:** The Gate 44 person provides instinctual alerts; the Gate 26 person provides the will to respond. This creates a powerful protective partnership.
@@ -142,14 +142,14 @@ When this channel is defined, the individual has **consistent access to survival
 
 Gate 44 is located in the **Spleen Center**, which corresponds biologically to the **immune system**, **lymphatic system**, and **instinctual survival mechanisms**. The Spleen Center generates awareness of danger in the present moment.
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 44 defined may experience:
 - A deep **somatic recognition** when encountering familiar patterns—a gut-level "I know this" response
 - **Immune system memory**—the body's capacity to remember past threats (T-cells, antibodies)
 - **Instinctual alertness**—hypervigilance to patterns that resemble past dangers
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Spleen Center radiates **survival awareness** into the aura. When Gate 44 is active, the aura carries a frequency that says: "I've seen this before. Be careful." Others may feel this as **protective**, **wise**, or (if the individual is in Not-Self) **paranoid or interfering**.
 
@@ -186,7 +186,7 @@ The pattern recognition is inconsistent (activated only by transits or others). 
 - **Denial:** Ignoring instinctual alerts because they are uncomfortable or inconvenient.
 - **Projection:** Seeing one's own unresolved past patterns in others, creating false alarms.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Feeling compelled to warn others even when not invited
 - Chronic anxiety about repeating past mistakes
@@ -214,7 +214,7 @@ The **7-year deconditioning cycle** for Gate 44 involves learning to recognize w
 
 **Year 7:** Integration phase—pattern recognition becomes **teamwork** (Gene Keys Gift) rather than interference. The individual alerts without manipulating, protecting without controlling.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice where pattern recognition arises in the body. Is it a splenic flash (quick, certain)? Or a mental loop (repetitive, anxious)?
 - Practice **trusting the first instinct**—the immediate recognition is the truth; second-guessing dilutes clarity.
@@ -264,14 +264,14 @@ In Jungian terms, Gate 44 corresponds to the **Ancestral Unconscious** and the p
 
 The Guardian of Memory archetype holds the capacity to remember and recognize. This is not the Historian (intellectual chronicling) but the **Instinctual Protector**—the one whose body remembers what the mind has forgotten.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 44** manifests as:
 - **Historical Trauma Projection:** Seeing every new situation as a replay of past trauma, unable to encounter the present freshly.
 - **Control Through Fear:** Using survival memory to manipulate others into compliance.
 - **Denial of Instinct:** Ignoring somatic alerts because they contradict mental narratives or desired outcomes.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 44, individuation requires:
 1. **Distinguishing Past from Present:** Learning to recognize when instinctual alerts are accurate versus when they are projections of unresolved trauma.
@@ -284,7 +284,7 @@ When integrated, Gate 44 becomes the **guardian of tribal wisdom**—the capacit
 
 When the individual with Gate 44 operates according to their Strategy and Authority, the gift that emerges is **Teamwork** (Gene Keys) and **Protective Pattern Recognition** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Pattern recognition emerges naturally, without mental forcing or paranoia.
 - The individual trusts instinctual alerts without needing to prove them intellectually.
@@ -299,7 +299,7 @@ The Signature of the Spleen Center (for all gates within it) is **Well-Being and
 - **Spontaneous alerts**—pattern recognition that arises in the moment, without premeditation
 - **Peace with the past**—honoring memory without being imprisoned by it
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 44 teaches that **memory is sacred**. When the individual honors their instinctual capacity to recognize patterns—alerting without interfering, protecting without controlling—they become a **living example** of tribal wisdom. This is the essence of the Tribal Ego Circuit—to ensure survival through collective memory and strategic response.
 

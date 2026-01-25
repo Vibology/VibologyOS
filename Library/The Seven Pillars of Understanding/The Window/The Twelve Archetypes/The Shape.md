@@ -12,6 +12,7 @@ gate: 44
 hexagram: 44 (Coming to Meet)
 gene_keys: Interference → Teamwork → Synarchy
 ---
+# The Shape
 *Michael Myers - The Unkillable Shadow*
 
 ---
@@ -74,18 +75,18 @@ In sacred traditions, Synarchy corresponds to divine governance that includes li
 
 ---
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 You are encountering **the unassimilable**. Something in your situation is not personal material calling for integration but metaphysical fact demanding recognition. This is survival memory alerting: "This is not yours to own. This is collective shadow—death, entropy, predation, radical evil—manifesting in your experience." The Shape is approaching. Do not try to integrate it. Recognize it. Maintain boundaries. Respond with ethical clarity. The unkillable pattern is appearing.
 
 The appearance of The Shape also suggests that **discernment is required**. Gate 44's pattern recognition is activating—the Spleen alerting to danger. The question is whether you will heed the warning or attempt to domesticate what exceeds domestication.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware the inflation of believing everything is yours to integrate. The Shape appearing warns against: attempting to "own" what is ontological reality, psychologizing away structural evil, collapsing boundaries between personal and collective shadow, moral confusion disguised as shadow work. Each time you try to integrate (personalize, explain, domesticate) what is **collective shadow**, you lose ethical discernment and invite predation. Some darkness is not unlived potential. Some evil is not misunderstood goodness. Recognize this.
 
-**Gift Aspect:**
+#### Gift Aspect
 Your instincts recognize what cannot be integrated. You've been here before; you know this is not personal work but **boundary work**. Use survival memory to protect yourself and others. Alert the tribe. Work together to maintain ethical clarity: "This is not ours to assimilate. This is collective shadow. We recognize it, we refuse to enact it, we maintain distance." The gift is **discernment**—knowing the difference between shadow that invites integration and darkness that demands acknowledgment.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 You embody mature consciousness—the recognition that **not all shadow is yours**. The Shape serves divine order by marking boundaries: this far, no further. You have learned the teaching of humility: you are not reducible to entropy, death, or predation. These exist as facts of reality, but they are not you. What keeps returning is not asking for integration—it is teaching recognition. At this frequency, acknowledging limits is wisdom, not failure.
 
 ---

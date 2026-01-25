@@ -86,18 +86,18 @@ In sacred traditions, this is the divine garden where all flowers bloom—not de
 ---
 
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 Love signals that **the narrative requires inclusive embrace of all patterns**. You are being called to expand your compassion, to include characters you have judged, to recognize that the story is impoverished when any pattern is excluded. The question is: **what are you excluding from love? What patterns do you condemn in others that you have not acknowledged in yourself?**
 
 The appearance of Love also suggests that **magnetism becomes available through acceptance**. Gate 15's inclusive embrace is activating—circumstances support expanded compassion, the narrative is ready for voices previously silenced. The question is whether you will embrace with genuine inclusion or retreat into dull uniformity that excludes difficulty.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware the trap of **false love that excludes under the guise of harmony**—claiming to embrace humanity while rejecting patterns that challenge your comfort, creating narratives that flatten diversity into acceptable sameness. Check whether your love truly includes all patterns or only those you approve. Shadow also warns against **dull withdrawal disguised as acceptance**: exhausted disengagement that refuses to feel the narrative's extremes, numbness mistaken for equanimity.
 
-**Gift Aspect:**
+#### Gift Aspect
 When Love expresses its gift, you embody **magnetism through inclusive presence that holds all patterns with tenderness**. Your acceptance of the full human spectrum draws others naturally, your love creates narrative space for characters others reject, your compassion has been earned through lived experience of extremes. This is the gift of **experiential wisdom**: you have been enough to judge no one, and that acceptance becomes magnetic power that enriches the story.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 In its highest expression, Love becomes **Florescence**—unconditional acceptance that allows all patterns to blossom into their fullest beauty. You embody the divine garden where every flower blooms, the narrative where every character flourishes, the story where nothing human is excluded. Those who touch this frequency become **living demonstrations that inclusion creates richness, that diversity is beauty, that love achieves its purpose when nothing remains outside its embrace**.
 
 ---

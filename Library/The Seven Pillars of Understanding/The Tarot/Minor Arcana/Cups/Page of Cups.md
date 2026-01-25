@@ -14,6 +14,7 @@ element_primary: Earth
 element_secondary: Water
 title: Princess of the Waters, Lotus of the Palace of the Floods
 ---
+# Page of Cups
 *Princess of the Waters, Lotus of the Palace of the Floods*
 
 ---
@@ -74,7 +75,7 @@ The Page of Cups as a **Process** or **Energy**: The emergence of emotional cont
 
 **Keywords**: Emotional awakening, intuitive message, artistic inspiration, sensitivity, gentleness, the fish in the cup, wonder, contemplation, the inner child, emerging creativity, psychic opening, the dream that wants attention.
 
-**Reversed (per Waite):**
+#### Reversed (per Waite)
 
 Taste, inclination, attachment—but also seduction, deception, artifice. The reversed Page suggests that emotional sensitivity has become problematic: manipulative rather than genuine, escapist rather than engaged, sentimental rather than deep. The reversed Page can also signify:
 - **Emotional immaturity**: Confusing intensity of feeling with truth or depth

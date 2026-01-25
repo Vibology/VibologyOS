@@ -118,7 +118,7 @@ Channel 17-62 contributes to this by:
 
 **Visual/Optical Nature:** Logic Circuit channels are **visual**—they must SEE the pattern. This is why 17-62 individuals often use diagrams, charts, lists, and organizational tools to make the invisible structure visible.
 
-**Why This Channel is Projected:**
+#### Why This Channel is Projected
 
 The connection is **Ajna to Throat**—this is a **mental Projection**. The individual has consistent access to organized thinking, but they **cannot generate sustained work** or manifest independently. They are **Projected**—they require **recognition and invitation** to share their mental frameworks.
 

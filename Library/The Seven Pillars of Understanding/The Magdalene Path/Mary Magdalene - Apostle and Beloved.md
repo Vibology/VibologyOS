@@ -7,6 +7,7 @@ verified: 2026-01-24
 verification_source: Esoteric Grimoire
 category: Archetype
 ---
+# Mary Magdalene - Apostle and Beloved
 *Witness, Anointer, Beloved, and Apostle to the Apostles*
 
 ---
@@ -136,7 +137,7 @@ Mary does not recognize Jesus at first—she mistakes him for the gardener. Only
 
 Mary is commissioned to **announce the Good News** to the apostles—thus earning the title **"Apostle to the Apostles."**
 
-**The Teaching:**
+#### The Teaching
 
 1. **Recognition requires intimacy** - Mary knows Jesus not by sight but by the sound of her name spoken in love
 2. **Non-clinging** - "Do not hold on to me" is the teaching of kenosis—even the Risen Christ must be released

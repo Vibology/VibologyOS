@@ -122,7 +122,7 @@ Because the Tribal Circuit operates through **collective survival and relationsh
 
 Gate 49 forms **Channel 49-19: Synthesis (Sensitivity)** when connected to Gate 19 in the Root Center.
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 
 - **Gate 49 (Solar Plexus Center):** "I am emotionally sensitive to what violates tribal principles."
 - **Gate 19 (Root Center):** "I am under pressure to ensure basic needs are met for the tribe."
@@ -132,7 +132,7 @@ When this channel is defined, the individual has **consistent access to emotiona
 
 **Without the channel defined** (only Gate 49 activated), the individual experiences emotional sensitivity to injustice but may lack the survival pressure (Gate 19) to act on it. They need another person with Gate 19 to complete the electromagnetic circuit—someone who provides the pressure for revolutionary action.
 
-**Interpersonal Electromagnetic Dynamics:**
+#### Interpersonal Electromagnetic Dynamics
 
 - **Both have Channel 49-19:** Mutual emotional sensitivity and survival pressure. Can be generative (revolutionary partnership) or volatile (conflicting principles).
 - **One has Gate 49, other has Gate 19:** The Gate 49 person provides emotional sensitivity; the Gate 19 person provides survival pressure. This creates a powerful partnership for principled change.
@@ -142,14 +142,14 @@ When this channel is defined, the individual has **consistent access to emotiona
 
 Gate 49 is located in the **Solar Plexus Center**, which corresponds biologically to the **kidneys**, **pancreas**, **nervous system**, and **hormonal regulation**. The Solar Plexus Center generates emotional waves and sensitivity.
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 49 defined may experience:
 - A deep **emotional sensitivity** to injustice—a bodily reaction to unfairness
 - **Hormonal fluctuations** related to emotional waves of discontent
 - **Rejection response**—the body's instinct to reject what violates principles
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Solar Plexus Center radiates **emotional wave** into the aura. When Gate 49 is active, the aura carries a frequency that says: "This is not right. This must change." Others may feel this as **principled**, **passionate**, or (if the individual is in Not-Self) **reactionary or volatile**.
 
@@ -190,7 +190,7 @@ The emotional sensitivity is inconsistent (activated only by transits or others)
 - **Emotional Tyranny:** Demanding change based on emotional wave rather than clear principle.
 - **False Principles:** Creating rigid rules that serve ego rather than tribe.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Feeling compelled to react immediately to perceived injustice
 - Chronic relationship endings or "divorcing" people impulsively
@@ -218,7 +218,7 @@ The **7-year deconditioning cycle** for Gate 49 involves learning to recognize w
 
 **Year 7:** Integration phase—revolution becomes **gift** (Gene Keys) rather than reaction. The individual transforms structures from principle, not from emotional volatility.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice where revolutionary impulses arise in the body. Is it emotional wave (solar plexus)? Or mental judgment (head)?
 - Practice **waiting through the wave**—feeling the anger/discontent rise and fall before acting.
@@ -268,14 +268,14 @@ In Jungian terms, Gate 49 corresponds to the **Revolutionary Archetype** and the
 
 The Revolutionary archetype holds the capacity to overturn unjust structures. This is not the Rebel (acting out) but the **Principled Transformer**—the one who destroys from integrity, not from rage.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 49** manifests as:
 - **Reactivity:** Destroying relationships and structures impulsively, without emotional clarity.
 - **Tyrannical Principles:** Using rigid rules to control rather than liberate.
 - **Chronic Discontent:** Never satisfied, constantly seeking something to overthrow.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 49, individuation requires:
 1. **Riding the Emotional Wave:** Learning to wait for clarity before acting on revolutionary impulses.
@@ -288,7 +288,7 @@ When integrated, Gate 49 becomes the **sacred transformer**—the capacity to re
 
 When the individual with Gate 49 operates according to their Strategy and Authority, the gift that emerges is **Revolution** (Gene Keys) and **Principled Transformation** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Revolution emerges from emotional clarity, not reactivity—transformation is clean and principled.
 - The individual waits through the emotional wave before initiating change, ensuring the revolution is correct.
@@ -303,7 +303,7 @@ The Signature of the Solar Plexus Center (for Emotional Authority) is **Emotiona
 - **Peace with endings**—accepting that death is necessary for rebirth
 - **Principled transformation**—revolution that serves the collective
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 49 teaches that **revolution is sacred**. When the individual honors their emotional sensitivity to injustice—waiting for clarity, acting from principle, transforming with respect—they become a **living example** of principled change. This is the essence of the Tribal Ego Circuit—to protect tribal integrity through revolutionary transformation when necessary.
 

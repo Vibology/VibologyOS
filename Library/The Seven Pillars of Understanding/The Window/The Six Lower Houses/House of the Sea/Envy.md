@@ -86,18 +86,18 @@ In sacred traditions, this is the realized heart that loves all beings equally b
 ---
 
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 Envy signals that **comparison is poisoning emotional reality**—you are measuring your relational life against others' and finding it lacking, allowing what they have to diminish what you are. This card warns: comparison is the thief of joy, envy is the corruption of desire. The question is: **what do you actually long for beneath the comparison? What authentic aspiration hides behind the envious measurement?**
 
 The appearance of Envy also suggests that **returning to authentic desire is the path forward**. Gate 54's aspiration is available when comparison is released. The question is whether you can recognize that what you truly want is available through presence rather than acquisition.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 In full shadow, Envy manifests as **relational greed that corrupts connection**—you pursue relationships to prove status, perform emotions to appear evolved, measure your emotional life against external metrics. The shadow asks: are you living your actual emotional reality or curating it for comparison? Do you want deeper intimacy or just the appearance of it? Check whether your relational ambition serves authentic growth or merely feeds insecurity through acquisition. Shadow also warns against **hidden resentment**: comparing while pretending not to, envying while performing gratitude.
 
-**Gift Aspect:**
+#### Gift Aspect
 When Envy shifts toward gift, it becomes **aspiration**—the capacity to desire emotional growth without poisoning present reality through comparison. This is the gift of **authentic ambition**: you can want more intimacy while honoring current connections, desire greater emotional capacity while appreciating present limits. Your aspiration becomes motivation rather than self-torture.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 In its highest expression, Envy transforms into **Ascension**—not climbing over others but **rising through deepening**, not accumulating connections but expanding capacity to love. You embody the understanding that relational ascension is measured not by what you have but by **how transparently love flows through you**. Those who touch this frequency demonstrate that what comparison seeks is available through presence—that ascension is not about position but about depth.
 
 ---

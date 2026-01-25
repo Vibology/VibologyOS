@@ -14,6 +14,7 @@ court_rank: Page
 elemental_formula: Earth of Earth
 zodiac_correspondence: Taurus, Virgo, Capricorn (earth signs)
 ---
+# Page of Pentacles
 
 *The Herald of Opportunity, the Student of the Real*
 

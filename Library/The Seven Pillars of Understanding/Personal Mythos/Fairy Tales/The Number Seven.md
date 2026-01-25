@@ -195,7 +195,7 @@ A **princess**, cast out by her father for refusing to flatter him (echoing King
 
 After seven years, the count returns, recognizes the transformed princess, and they are united.
 
-**Symbolism:**
+#### Symbolism
 
 - **Seven years of exile** – The **incubation period**, the time of **withdrawal from the world** (like Inanna in the underworld, Persephone with Hades, Snow White in the glass coffin). The princess cannot return to her kingdom (her true Self) until the seven-stage purification completes.
 - **Tears into pearls** – The **alchemical *opus***: suffering (salt water, tears, the **solve**) is transmuted into beauty and value (pearls, the **coagula**). The process takes **seven years** of daily weeping—this is the **iteratio**, the repetition of the process until the gold is pure.
@@ -209,7 +209,7 @@ In these related tales, **brothers are transformed into swans** (or ravens) by a
 
 The sister marries during her silence, is accused of witchcraft or infanticide (for she cannot defend herself), and is about to be burned at the stake when the **seven years expire**. She completes the final shirt, throws them over the swans, and they transform back into men. She is vindicated and speaks again.
 
-**Symbolism:**
+#### Symbolism
 
 - **Seven years of silence** – The **retreat from logos** (speech, rational mind, ego-assertion) into **eros** (feeling, body, instinct, the work of the hands). The sister's silence is not punishment but **spiritual discipline**, the **via negativa** that allows the unconscious to work.
 - **Sewing the starflower shirts** – The **labor of integration**, the patient, repetitive, unglamorous work (like sorting seeds, like Penelope's weaving) that the ego must perform while the unconscious completes the transformation.
@@ -555,7 +555,7 @@ Inanna enters the underworld **naked and powerless** (like Snow White in the gla
 ---
 
 ## Cross-References
-**Archetypal Figures:**
+#### Archetypal Figures
 [[The Shadow]] • [[The Muse]] • [[The Idol]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] • [[The Alchemist]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Hero]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] • [[The Wise Old Man]] • [[The Nightmare]]
 
 **Jungian Concepts:**
@@ -564,22 +564,22 @@ Inanna enters the underworld **naked and powerless** (like Snow White in the gla
 **Tarot Keys:**
 [[7 - The Chariot]] • [[17 - The Star]] • [[Death]] • [[The High Priestess]] • [[The Empress]] • [[The Tower]] • [[The Sun]] • [[Temperance]] • [[The Hermit]]
 
-**Alchemical Stages:**
+#### Alchemical Stages
 [[Nigredo]] • [[Albedo]] • [[Citrinitas]] • [[Rubedo]] • [[Solve et Coagula]] • [[Calcination]] • [[Dissolution]] • [[Separation]] • [[Conjunction]] • [[Fermentation]] • [[Distillation]] • [[Coagulation]] • [[Iteratio]] • [[Philosopher's Stone]]
 
-**Mythological Parallels:**
+#### Mythological Parallels
 [[Inanna's Descent]] • [[Persephone and Demeter]] • [[Psyche and Eros]] • [[The Seven Heavens]] • [[The Ladder of Jacob]] • [[The Ogdoad]] • [[Merkabah Mysticism]]
 
-**Fairy Tale Motifs:**
+#### Fairy Tale Motifs
 [[The Three Trials]] • [[The Wicked Stepmother]] • [[The Magic Mirror]] • [[The Poisoned Gift]] • [[The Glass Coffin]] • [[The Awakening Kiss]] • [[The Animal Helpers]] • [[The Youngest Child]]
 
-**Related Tales:**
+#### Related Tales
 [[Snow White]] • [[The Seven Ravens]] • [[The Six Swans]] • [[The Twelve Brothers]] • [[The Goose Girl at the Well]] • [[Beauty and the Beast]] • [[Sleeping Beauty]] • [[Cinderella]] • [[Rapunzel]]
 
-**Individuation Process:**
+#### Individuation Process
 [[Ego Formation and Childhood]] • [[Confrontation with Shadow]] • [[Encounter with Anima-Animus]] • [[Confrontation with the Self]] • [[Integration and Wholeness]] • [[Persona Development]]
 
-**Hero's Journey Stages:**
+#### Hero's Journey Stages
 [[The Call to Adventure]] • [[Crossing the First Threshold]] • [[Tests, Allies, and Enemies]] • [[The Ordeal]] • [[The Reward]] • [[The Road Back]] • [[The Resurrection]] • [[Return with the Elixir]]
 
 **Astrological Correspondences:**
@@ -588,7 +588,7 @@ Inanna enters the underworld **naked and powerless** (like Snow White in the gla
 **Cross-Cultural Parallels:**
 [[Seven Chakras]] • [[Kundalini]] • [[The Seven Heavens]] • [[Buddhist Cosmology]] • [[Hindu Mythology]] • [[Islamic Mysticism]] • [[Jewish Mysticism]] • [[Egyptian Mythology]]
 
-**Human Design Connections:**
+#### Human Design Connections
 [[Emotional Authority]] • [[Splenic Authority]] • [[Sacral Center]] • [[Root Center]] • [[Gate 50 - The Cauldron]] • [[Channel 27-50 - Preservation]]
 
 **Numerical Symbolism:**

@@ -319,7 +319,7 @@ This is the **alchemical wedding**, the *Coniunctio Oppositorum*, where **Solar 
 
 ## Cross-References
 
-**Archetypal Figures:**
+#### Archetypal Figures
 [[The Shadow]] • [[The Muse]] • [[The Idol]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] • [[The Alchemist]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Hero]] • [[The Wise Old Man]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]]
 
 **Jungian Concepts:**
@@ -328,25 +328,25 @@ This is the **alchemical wedding**, the *Coniunctio Oppositorum*, where **Solar 
 **Tarot Keys:**
 [[Strength]] • [[Temperance]] • [[The Lovers]] • [[Death]] • [[The Sun]] • [[The Star]] • [[The Empress]] • [[The Emperor]]
 
-**Alchemical Stages:**
+#### Alchemical Stages
 [[Nigredo]] • [[Albedo]] • [[Rubedo]] • [[Solve et Coagula]] • [[Philosopher's Stone]] • [[Hieros Gamos]]
 
-**Mythological Parallels:**
+#### Mythological Parallels
 [[Psyche and Eros]] • [[Hades and Persephone]] • [[Orpheus and Eurydice]] • [[Bluebeard]] • [[East of the Sun, West of the Moon]] • [[The Frog Prince]]
 
-**Fairy Tale Motifs:**
+#### Fairy Tale Motifs
 [[The Animal Bridegroom]] • [[The Enchanted Castle]] • [[The Curse and Redemption]] • [[The Sacrificial Daughter]] • [[The Three Sisters]] • [[The Magic Rose]]
 
-**Human Design Connections:**
+#### Human Design Connections
 [[Sacral Center]] • [[Emotional Authority]] • [[Tribal Circuitry]] • [[Gate 59 - Intimacy]] • [[Channel 27-50 - Preservation]]
 
-**Individuation Process:**
+#### Individuation Process
 [[Confrontation with Shadow]] • [[Encounter with Anima-Animus]] • [[Confrontation with the Self]] • [[Integration and Wholeness]]
 
-**Hero's Journey Stages:**
+#### Hero's Journey Stages
 [[The Call to Adventure]] • [[Crossing the First Threshold]] • [[The Ordeal]] • [[The Resurrection]] • [[Return with the Elixir]]
 
-**Related Tales:**
+#### Related Tales
 [[Snow White]] • [[Sleeping Beauty]] • [[The Handless Maiden]] • [[The Juniper Tree]] • [[Allerleirauh]]
 
 ---

@@ -11,6 +11,7 @@ verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
+# 4 - The Emperor
 *The Sun of the Morning, Chief Among the Mighty*
 
 ---
@@ -53,7 +54,7 @@ The key insight is that The Emperor always deals with **the right use of power**
 ## Divination Use
 **Upright:** Stability, power, authority, protection, leadership, structure, paternal energy, law and order, realization, conviction, dominion, the establishment of civilization. Keywords: Sovereignty, governance, discipline, strength through organization.
 
-**Reversed (per Waite):**
+#### Reversed (per Waite)
 Benevolence and compassion misapplied, confusion to enemies, obstruction, immaturity. Tyranny, rigidity, abuse of power, abdication of responsibility, the absent or ineffective father, law without mercy.
 
 ---

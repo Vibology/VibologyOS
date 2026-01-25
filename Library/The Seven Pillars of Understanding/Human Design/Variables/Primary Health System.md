@@ -9,6 +9,7 @@ verification_date: 2026-01-25
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
 verification_notes: "Variables mechanics verified against Grimoire. Advanced layer (Color/Tone/Base calculations) marked as educational synthesis."
 ---
+# Primary Health System
 *Practical experimentation with dietary regimen*
 
 ---
@@ -47,7 +48,7 @@ Traditional systems (Ayurveda, TCM, naturopathy) recognize that **how** and **wh
 
 Advanced practitioners trained in PHS use **Advanced Imaging** (Tone/Color/Base matrix) to diagnose and prescribe specific regimens. This is not guesswork—it is a mechanical reading of the chart's substructure.
 
-**The Process:**
+#### The Process
 1. Client receives Advanced Imaging chart
 2. Practitioner identifies Design Sun/Earth **Color** (Determination)
 3. Practitioner identifies **Tone** (Left or Right orientation)
@@ -123,7 +124,7 @@ PHS is about **testing and observing**, not rigid adherence. The body's feedback
 
 ### Phase 1: Baseline Observation (Weeks 1-4)
 
-**Practice:**
+#### Practice
 - Eat **normally** (whatever you currently eat)
 - Track daily: Energy levels, digestion quality, mental clarity, sleep quality, mood
 - **Do not change anything yet**—just observe
@@ -137,7 +138,7 @@ You need a **baseline** to compare against. Without it, you won't know if PHS pr
 
 ### Phase 2: Introduction (Weeks 5-8)
 
-**Practice:**
+#### Practice
 - Begin practicing your Determination Color with **one meal per day** (e.g., breakfast)
 - Example: If Color 1 (Appetite), eat breakfast consecutively—one food at a time
 - Continue eating normally for other meals
@@ -152,7 +153,7 @@ Attempting to practice PHS with all meals immediately is overwhelming. One meal 
 
 ### Phase 3: Expansion (Weeks 9-16)
 
-**Practice:**
+#### Practice
 - Increase to **two meals per day** aligned with your Color
 - Continue tracking
 - **Notice differences** between baseline and practice
@@ -166,7 +167,7 @@ If two meals feels unsustainable, return to one meal. PHS is about **long-term p
 
 ### Phase 4: Full Practice (Months 5-7)
 
-**Practice:**
+#### Practice
 - Attempt to practice your Color with **all meals**
 - This is challenging—social meals, travel, convenience all create obstacles
 - **Aim for 80% consistency**, not perfection
@@ -180,7 +181,7 @@ Very few people achieve 100% consistency. Life happens. The goal is **directiona
 
 ### Phase 5: Integration (Year 1+)
 
-**Practice:**
+#### Practice
 - Correct eating becomes **natural**—the body craves its correct regimen
 - You no longer "try" to eat correctly—the body **rejects** incorrect circumstances
 - Sensory acuity sharpens—taste, smell, texture become more refined
@@ -217,7 +218,7 @@ Your **Tone** (revealed in Advanced Imaging) determines whether you approach PHS
 - Rapid experimentation and adjustment
 - Clear data tracking
 
-**Shadows:**
+#### Shadows
 - Rigidity and perfectionism
 - Overthinking and analysis paralysis
 - Losing somatic awareness in pursuit of "doing it right"
@@ -239,7 +240,7 @@ Your **Tone** (revealed in Advanced Imaging) determines whether you approach PHS
 - Deep somatic trust
 - Natural alignment without force
 
-**Shadows:**
+#### Shadows
 - Passivity and lack of structure
 - Difficulty navigating social/convenience obstacles
 - "Hoping it works" without testing
@@ -341,7 +342,7 @@ PHS consultations are typically high-investment ($200-$500+ per session) because
 
 **Example:** A Color 1 (Appetite) being refusing to eat anything that isn't perfectly consecutive, creating anxiety, isolation, and rigidity.
 
-**Antidote:**
+#### Antidote
 - Remember—PHS is an **invitation to experiment**, not a commandment
 - The body's intelligence (Strategy and Authority) is more authoritative than perfect adherence
 - **Flexibility** is healthy—occasionally eating "incorrectly" to maintain relationships or navigate life is valid
@@ -352,7 +353,7 @@ PHS consultations are typically high-investment ($200-$500+ per session) because
 
 **Example:** A Color 6 (Indirect) being forcing themselves to eat late at night even though their body signals exhaustion, because "the chart says I should."
 
-**Antidote:**
+#### Antidote
 - **Strategy and Authority override PHS**
 - If your Sacral says "no" to eating at night, honor that—even if you're Color 6 Indirect
 - The body knows
@@ -363,7 +364,7 @@ PHS consultations are typically high-investment ($200-$500+ per session) because
 
 **Example:** "I can't eat with you—I'm Color 4 Calm and your conversation is too loud. You're disrupting my digestion."
 
-**Antidote:**
+#### Antidote
 - Relationships matter more than perfect regimen
 - Occasionally eating in "incorrect" circumstances to maintain connection is healthy
 - PHS is about **long-term patterns**, not every single meal
@@ -374,7 +375,7 @@ PHS consultations are typically high-investment ($200-$500+ per session) because
 
 **Example:** A Color 3 (Hot) being eating junk food because "as long as it's hot, it doesn't matter what it is."
 
-**Antidote:**
+#### Antidote
 - PHS describes **how** to eat, not **what** to eat
 - Quality still matters—whole foods, nutrient density, freshness
 - Correct circumstances **amplify** good nutrition; they don't replace it

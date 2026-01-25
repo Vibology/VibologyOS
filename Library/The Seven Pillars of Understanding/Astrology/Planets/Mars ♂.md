@@ -187,7 +187,7 @@ Mars has an **orbital period of ~687 days** (~2 years to complete one zodiacal c
 ## Shadow Expression
 Mars's shadow is **violence without purpose**—the force that destroys for the sake of destruction, the rage that consumes everything in its path.
 
-**Shadow expressions:**
+#### Shadow expressions
 - **Rage:** Uncontrolled anger, explosive violence, the berserker who destroys indiscriminately
 - **Violence:** Physical, verbal, or emotional aggression turned outward; the tyrant, the abuser
 - **Impotence:** Sexual or symbolic inability to act; the warrior castrated, the desire that cannot manifest

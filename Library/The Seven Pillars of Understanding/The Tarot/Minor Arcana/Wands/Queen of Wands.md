@@ -13,6 +13,7 @@ element_primary: Water
 element_secondary: Fire
 title: Queen of the Thrones of Flame
 ---
+# Queen of Wands
 *Queen of the Thrones of Flame*
 
 ---
@@ -72,7 +73,7 @@ The Queen of Wands as a **Process** or **Energy**: Embodied creative power. The 
 
 **Keywords**: Magnetic presence, embodied power, creative sovereignty, sustained passion, generous warmth, confident leadership, self-possession, the hearth-fire, charismatic influence, mature creativity, radiance, authority through presence, fierce loyalty, life-loving vitality.
 
-**Reversed (per Waite):**
+#### Reversed (per Waite)
 
 The reversed Queen presents a paradox—Waite assigns both positive qualities ("good, economical, obliging, serviceable") and shadow qualities ("jealousy, deceit, infidelity") depending on position. The reversed Queen can signify:
 

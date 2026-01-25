@@ -185,7 +185,7 @@ Coagulation is marked by an unmistakable **solidity**—not rigidity, but *groun
 - **Presence:** You are fully *here*—in your body, in the moment, in relationship. The dissociation, the escapism, the fantasy—gone. Matter is no longer a prison; it is home.
 - **Service Without Martyrdom:** You give from fullness, not from obligation or ego. The service is natural, spontaneous, joyful.
 
-**In Dreams:**
+#### In Dreams
 - Precious stones (diamonds, rubies, emeralds)—the Philosopher's Stone manifesting
 - Building foundations, completing houses, laying the final brick
 - Planting seeds that immediately sprout and bear fruit
@@ -315,7 +315,7 @@ In his later work, Jung explored the **Unus Mundus** through the lens of **synch
 
 **Plot Summary:** A princess loses her golden ball in a well. A frog retrieves it in exchange for her promise to let him eat from her plate, sleep in her bed, and be her companion. She agrees but breaks her promise. The king (her father) forces her to honor it. When she throws the frog against the wall in disgust, he transforms into a prince. They marry.
 
-**Alchemical Reading:**
+#### Alchemical Reading
 - **The Frog:** The rejected, slimy, base aspect of the Self (the Shadow, the unloved parts). He is *prima materia*—ugly, but essential.
 - **The Golden Ball:** The Self in potential—whole, radiant, but lost (fallen into the unconscious, the well).
 - **The Well:** The unconscious depths where the treasure is hidden.
@@ -330,7 +330,7 @@ In his later work, Jung explored the **Unus Mundus** through the lens of **synch
 
 **Plot Summary:** A princess is cursed to prick her finger on a spindle and fall into a death-like sleep at age 15 (or 16). The curse is softened by a good fairy—she will not die, but sleep for 100 years. A prince awakens her with a kiss. She returns to her kingdom, marries, and has children.
 
-**Alchemical Reading:**
+#### Alchemical Reading
 - **The Curse:** The unconscious claim on the ego (the uninvited 13th fairy). The feminine (Anima, the soul) is *not ready* to incarnate—she must "die" (sleep) and undergo transformation.
 - **The Sleep:** [[Fermentation]] and [[Dissolution]]—the ego dissolves into the unconscious for deep incubation. The princess is neither alive nor dead; she is *in process*.
 - **The 100 Years:** Alchemical time is not linear. The psyche needs *exactly the right duration* to complete its work. Rushing awakening creates false Coagulation (premature rigidity).
@@ -562,7 +562,7 @@ Common dream motifs:
 - **[[Sublimation]]:**
   - Sublimation elevates matter into spirit. Coagulation brings spirit back into matter. They are mirror operations—one lifts, one grounds. The alchemical work requires *both*.
 
-**Archetypal Constellation:**
+#### Archetypal Constellation
 
 When Coagulation is active, the following archetypes are often present:
 - **[[Folklore/Jungian Archetypes/The Self]]** - The center and circumference realized
@@ -597,14 +597,14 @@ When the Self descends fully into matter—when spirit and flesh are one—the f
 7. **The Philosopher's Stone as Gift:**
    - You become the elixir for others. Not by teaching, preaching, or performing—by *being*. Your presence heals. Your stability grounds. Your embodiment invites others into their own. The stone multiplies.
 
-**Jung's Teaching:**
+#### Jung's Teaching
 
 > "The self is not only the centre but also the whole circumference which embraces both conscious and unconscious; it is the centre of this totality, just as the ego is the centre of consciousness."
 > — C.G. Jung, *Psychology and Alchemy* (CW 12, par. 44)
 
 Coagulation is the realization of this totality—*lived*, not theorized.
 
-**The Gift:**
+#### The Gift
 
 *The soul that has coagulated is the Philosopher's Stone. It heals not by doing, but by being. It transforms not by effort, but by presence. It lives not in two worlds, but in One World—the Unus Mundus where spirit and matter, heaven and earth, dance as One.*
 
@@ -677,7 +677,7 @@ Coagulation is the realization of this totality—*lived*, not theorized.
 
 ---
 
-**Final Word:**
+#### Final Word
 
 *Coagulation is the Incarnation—the moment when the Word becomes flesh, when the vision becomes life, when the stone is no longer sought because it is held. It is the end of alchemy and the beginning of living. The work is complete, not because there is nothing left to do, but because doing and being are no longer separate. You are the stone. You are the elixir. You are the One World walking.*
 
@@ -715,7 +715,7 @@ Coagulation is the realization of this totality—*lived*, not theorized.
 - Buddhist: Bodhisattva return (enlightened yet embodied to serve)
 - Fairy tales: Return to kingdom, coronation, "and they lived happily ever after" (Coagulation as stable conclusion)
 
-**Vibology Synthesis Note:**
+#### Vibology Synthesis Note
 Cross-system correspondences (Saturn/Earth signs astrology, World/Pentacles Tarot, embodied HD strategy, Sandalphon angelology) represent Vibology's integration of verified alchemical Coagulation patterns across seven-pillar framework.
 
 ---

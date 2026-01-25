@@ -124,7 +124,7 @@ Gate 60 forms one channel:
 
 **Channel 60-3: Mutation (The Energy for Change)** (Root to Sacral)
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 - **Gate 60 (Root):** "I pulse with the pressure of limitation—on, off, constraint, release."
 - **Gate 3 (Sacral):** "I have the life force to order chaos and bring forth new form."
 - **Channel 60-3:** The bridge between limitation and mutation—the capacity for **evolutionary change through acceptance of constraint**.
@@ -137,7 +137,7 @@ This channel creates the archetype of **The Mutant**—the one who evolves not b
 
 Gate 60 is located in the **Root Center**, which corresponds biologically to the **adrenal glands** (cortisol and adrenaline production) and the **stress response system**. Gate 60 specifically relates to the **pulse of genetic mutation**—the biological pressure that drives evolutionary change.
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 60 defined may experience:
 - A **rhythmic pulse of pressure and release**—the body operates in cycles, not continuous flow
@@ -145,7 +145,7 @@ Individuals with Gate 60 defined may experience:
 - **Sensitivity to boundaries**—the body knows when limits are present and pulses toward transcendence
 - **Genetic mutation pressure**—the biological drive to evolve beyond current form
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Root Center radiates **pressure and fuel** into the aura. When Gate 60 is active, the aura carries a frequency that says: "I accept this limitation, and I will transcend it." Others may feel this as **grounding**, **inspiring** (witnessing someone accept constraints gracefully), or (if the individual is in Not-Self) **rigid and resigned**.
 
@@ -183,7 +183,7 @@ The 28-day lunar cycle allows the Reflector to sample Gate 60's pulse across mul
 - **Adrenal Exhaustion:** The pulse never rests; the individual cannot accept the "off" phase of the cycle.
 - **Mutation Denial:** Refusing to evolve because it requires accepting limitations first.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Chronic frustration with any and all limitations
 - Believing constraints mean failure or weakness
@@ -212,7 +212,7 @@ The **7-year deconditioning cycle** for Gate 60 involves learning to recognize w
 
 **Year 7:** Integration phase—limitation becomes pulse, not prison. Limitation transforms into Realism (Gene Keys Gift), and the individual experiences **the rhythm of evolutionary change**—constraint, acceptance, transcendence, new constraint. Justice flows naturally when limitation serves evolution.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice when the pulse arises. Is it in the Root (authentic limitation pressure) or the mind (conditioned belief about constraints)?
 - Practice **honoring the rhythm**—accept the "on" phase (constraint), honor the "off" phase (release).
@@ -262,14 +262,14 @@ In Jungian terms, Gate 60 corresponds to the **Acceptance of the Finite** and th
 
 The Realist archetype sees what is—not what could be, should be, or once was. This is not pessimism but **clear-eyed recognition of constraint as the very foundation of creative action**. Gate 60 is the realist's capacity to **accept the limit and discover what becomes possible within it**.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 60** manifests as:
 - **Resignation:** Collapsing into limitation as if constraint means defeat; losing the pulse toward transcendence.
 - **Rigidity:** Clinging to old limitations long after they've served; refusing to release the boundary when mutation requires it.
 - **Limitation Projection:** Imposing constraints on others to avoid facing one's own relationship with boundaries.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 60, individuation requires:
 1. **Integration of Acceptance and Transcendence:** Recognizing that both have value; limitation defines what is, mutation creates what could be.
@@ -282,7 +282,7 @@ When integrated, Gate 60 becomes the expression of the **Pulsed Self**—the cap
 
 When the individual with Gate 60 operates according to their Strategy and Authority, the gift that emerges is **Realism** (Gene Keys) and **Mutative Pulse** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Limitation is experienced as pulse, not prison.
 - The individual accepts constraints without collapsing into them.
@@ -297,7 +297,7 @@ The Signature of the Root Center (for all gates within it) is the experience of 
 - **Rhythmic acceptance and release**—the pulse of on/off, limit/transcend
 - **Realism that empowers**, not resignation that defeats
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 60 teaches that **limitation is the doorway to mutation**. When the individual honors their pulse of constraint according to Strategy and Authority, they become a **living example** of what it means to accept boundaries as creative force, to transcend through discipline rather than denial, to evolve through the rhythm of limitation and release. This is the essence of the Individual Knowing stream—not to resist what is, but to **pulse through it toward what could be**.
 

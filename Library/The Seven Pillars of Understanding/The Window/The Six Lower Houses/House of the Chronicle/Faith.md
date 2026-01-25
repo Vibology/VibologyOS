@@ -14,6 +14,7 @@ house: House of the Chronicle
 card_name: Faith
 aspect: positive
 ---
+# Faith
 *The Enduring Belief That Some Things are Worth Preserving*
 
 ---
@@ -83,18 +84,18 @@ In sacred traditions, this is the lineage holder who transmits not merely inform
 ---
 
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 Faith signals that **continuity is possible through committed investment**. You are being called to trust that what matters will endure—not through passive hope but through active preservation. This is not a time for abandoning values when they're tested, for rejecting traditions when they become difficult, or for concluding that nothing lasts simply because everything changes. The question is: **can you distinguish between what deserves your faith and what has served its purpose?**
 
 The appearance of Faith also suggests that **support for preservation is available**. Gate 32's tribal wisdom is activating—resources for continuity, allies in preservation, circumstances that favor building what lasts. The question is whether you will invest in genuine endurance or squander opportunity through fear of failure.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware the trap of **fear-based paralysis**—avoiding commitment because failure might occur, rejecting narratives because they might not last, abandoning preservation because difficulty arose. The shadow confuses wisdom with cowardice, discernment with avoidance. Check whether your caution serves genuine discrimination or merely protects you from the vulnerability of faith. Shadow also warns against **premature surrender**: concluding that continuity is impossible at the first sign of challenge, giving up on what deserves preservation before it's been properly tested.
 
-**Gift Aspect:**
+#### Gift Aspect
 When Faith expresses its gift, you embody **discerning preservation that serves living continuity**. Your commitment protects values worth venerating, your faith builds bridges between generations, your endurance transmits what transcends individual lifetimes. This is the gift of **wise duration**: you preserve what deserves to last while releasing what has completed its purpose. Your faith is neither blind attachment nor anxious hoarding but confident investment in what genuinely endures.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 In its highest expression, Faith becomes **Veneration**—devotion to eternal values, sacred commitment to narratives that participate in the timeless. You embody preservation as worship, continuity as prayer. Those who touch this frequency become living lineage holders—not mere repositories of information but transmitters of living wisdom. Your faith participates in the eternal; your preservation serves what transcends all change.
 
 ---

@@ -86,18 +86,18 @@ In sacred traditions, this is the realized leader whose will has merged with cos
 ---
 
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 Will signals that **consciousness must accept its guiding role**. You are being called to step into leadership not from ego but from recognition of sacred function, to guide through virtue rather than ambition. This is not a time for shrinking from responsibility or grabbing for power; it is a time for **accepting your role in divine order**. The card affirms: your soul knows its function. Guide virtuously.
 
 The appearance of Will also suggests that **the collective needs your direction**. Gate 7's gift is activating—the capacity to lead through recognized role. The question is whether you will fulfill this role with virtue or corrupt it through ego.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware the trap of **division through corrupted or refused will**. Are you fragmenting the collective through ego-driven leadership or failing the collective through refused role? Does your will serve virtue or personal agenda? Shadow also warns against **both tyranny and abdication**—seizing leadership without virtue or refusing leadership despite calling. Check whether your guidance unifies or divides, whether you lead from role or from ego.
 
-**Gift Aspect:**
+#### Gift Aspect
 The way through is **guidance qualified by virtue**. Accept your role. Lead not because it feeds you but because the collective needs direction and you have the function to provide it. Will flowers when leadership becomes service—when you recognize that guiding is responsibility rather than reward. The gift is **virtuous leadership**—direction that emerges from sacred role rather than personal ambition.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 In its highest expression, Will becomes **Virtue**—consciousness as pure expression of divine function, will merged with cosmic order. Those who touch this frequency no longer lead as separate selves—they lead as the universe leading through them, their guidance the cosmos organizing itself. They demonstrate that **perfect virtue is leadership beyond ego**.
 
 ---

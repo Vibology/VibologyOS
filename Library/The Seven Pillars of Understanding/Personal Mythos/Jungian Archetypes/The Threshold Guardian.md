@@ -344,7 +344,7 @@ Campbell writes:
 
 > "The usual person is more than content, he is even proud, to remain within the indicated bounds, and popular belief gives him every reason to fear so much as the first step into the unexplored. The adventure is always and everywhere a passage beyond the veil of the known into the unknown."[^5]
 
-**Psychological Interpretation:**
+#### Psychological Interpretation
 - **The Guardian = The Ego's Defense Mechanisms:** The neuroses, fears, and rationalizations that prevent the ego from entering the unconscious
 - **Passing the Guardian = Beginning the Process of Individuation:** The hero commits to facing the shadow, the anima/animus, and ultimately the Self
 
@@ -490,12 +490,12 @@ The Threshold Guardian appears at the **boundary between Act 1 and Act 2** of th
 - **Tests commitment:** Is the hero serious, or merely curious? The Guardian exposes **false heroes** (those who flee) and **true heroes** (those who proceed despite fear).
 - **Forces the hero to use newfound skills:** Often, the Mentor has just provided the hero with **tools, knowledge, or allies**. The Guardian is the **first test** of whether the hero can apply what they've learned.
 
-**Examples:**
+#### Examples
 - **Star Wars (A New Hope):** The Threshold Guardian is the **Imperial Stormtroopers** at the spaceport. Luke and Obi-Wan must evade them to escape Tatooine and begin the journey.
 - **The Matrix:** The Threshold Guardian is the **choice between the red pill and the blue pill**. Neo must choose to leave the Ordinary World (the Matrix) and enter the Special World (the real).
 - **The Lord of the Rings:** The Threshold Guardian is the **Black Riders** pursuing Frodo. He must flee the Shire and cross the boundary into the wider world.
 
-**Psychological Interpretation:**
+#### Psychological Interpretation
 - **The Ordinary World = Ego-Consciousness:** The known, the safe, the predictable
 - **The Special World = The Unconscious:** The unknown, the dangerous, the transformative
 - **The Guardian = Fear, Doubt, Resistance:** The ego's defense mechanisms that prevent descent into the unconscious
@@ -761,7 +761,7 @@ The Threshold Guardian **never disappears**—at each new threshold, the Guardia
 
 The Threshold Guardian, as an archetype, is **universal**—it guards boundaries and tests readiness regardless of gender. However, its **specific form** and the **nature of the test** vary based on gender, culture, and the individual's relationship to the contrasexual archetype.
 
-**In Men:**
+#### In Men
 
 **The Guardian as the Father (Senex):**
 For men, the Threshold Guardian often appears as the **stern father** or **patriarch**—the archetypal authority who demands proof of competence, strength, and adherence to tradition. This Guardian asks:
@@ -786,7 +786,7 @@ In patriarchal cultures, men's worth is often measured by **achievement, status,
 **Integration:**
 Men who integrate the Guardian develop **healthy ambition** (striving without self-worth being contingent on success) and **emotional maturity** (vulnerability without weakness).
 
-**In Women:**
+#### In Women
 
 **The Guardian as the Mother (Great Mother):**
 For women, the Threshold Guardian often appears as the **devouring mother**—the archetypal force that **keeps the daughter dependent, small, and safe**. This Guardian asks:

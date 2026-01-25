@@ -14,6 +14,7 @@ house: House of the Chronicle
 card_name: Hope
 aspect: positive
 ---
+# Hope
 *The Lightness of Desiring Despite Limitation*
 
 ---
@@ -83,18 +84,18 @@ In sacred traditions, this is the devotee who loves God without expectation of r
 ---
 
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 Hope signals that **your emotional investment sustains the narrative**. You are being called to cling with lightness, to desire with grace, to fuel the story with committed engagement while accepting that you are not free to choose your desires—only how you carry them. The question is: **can you hope without demanding, desire without grasping, cling without being crushed?**
 
 The appearance of Hope also suggests that **emotional fuel is available for the narrative**. Gate 30's fire is kindling—circumstances support renewed engagement with meaning, the story is ready to be illuminated. The question is whether you will engage with lightness or collapse into desperate clinging that extinguishes light rather than sustaining it.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware the trap of **desperate clinging that mistakes attachment for hope**—desiring outcomes so intensely that disappointment crushes the spirit, hoping for narratives that have become prisons, emotionally investing without the lightness that transforms bondage into beauty. Check whether your hope serves illumination or merely avoids facing limitation. Shadow also warns against **emotional volatility without wisdom**: being tossed between hope and despair without finding the graceful middle that sustains light through all phases of the wave.
 
-**Gift Aspect:**
+#### Gift Aspect
 When Hope expresses its gift, you embody **lightness in emotional engagement with the narrative**. Your desire fuels the story without entrapping you, your hope illuminates without binding, your clinging celebrates rather than grasps. This is the gift of **graceful participation**: you invest emotionally while accepting that limitation is fate—and that acceptance itself creates beauty. Your hope becomes light that others can see by.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 In its highest expression, Hope becomes **Rapture**—ecstatic participation in the narrative as divine play, celebration of limitation as the frame that makes beauty possible. You embody hope as worship, desire as prayer, clinging as cosmic dance. Those who touch this frequency experience **fate as blessing, bondage as freedom, and the narrative as sacred story whose every chapter—including difficulty—is illuminated by rapturous acceptance**.
 
 ---

@@ -86,18 +86,18 @@ In sacred traditions, this is the realized being drunk on divine presence—who 
 ---
 
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 Apathy signals that **distraction has fragmented consciousness**. You are being warned against chronic stimulation-seeking, against wandering that never enriches, against consuming experience without metabolizing it. This is a time to **check whether your consciousness integrates or merely consumes**. The card cautions: your soul is scattered. Return to what nourishes through depth rather than breadth.
 
 The appearance of Apathy also suggests that **caring has been lost to dispersion**. Gate 56's shadow is expressing—the inability to distinguish what matters because attention is scattered across everything. The question is whether you can slow down enough to let something actually matter.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware the trap of **apathetic distraction**—consciousness fragmented across stimulation that never enriches, soul dispersed by chronic wandering. The shadow manifests as: endless scrolling, consuming without digesting, stimulation addiction, inability to care about anything because everything feels equally flat. Your inner divinity is being lost to superficial engagement that prevents depth.
 
-**Gift Aspect:**
+#### Gift Aspect
 The way through Apathy is **enrichment through conscious attention**. Not consuming less but integrating more. Select experiences for depth. Allow encounters to leave deposit. Practice staying with something long enough to be nourished by it. The gift transforms wandering into meaningful travel—exploration that enriches because it attends rather than merely passes through.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 In its highest healing, Apathy dissolves into **Intoxication**—consciousness drunk on divine presence, soul so deeply engaged that all experience becomes sacred. Those who touch this frequency discover that they were seeking stimulation because they weren't fully present with what was already here. Full presence is its own intoxication—reality endlessly fascinating when actually perceived.
 
 ---

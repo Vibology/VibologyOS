@@ -122,7 +122,7 @@ Because the Individual is mutative, their insights cannot be influenced by colle
 
 Gate 43 forms **Channel 43-23: Structuring (Genius to Freak)** when connected to Gate 23 in the Throat Center.
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 
 - **Gate 43 (Ajna Center):** "I have a unique insight that breaks through convention."
 - **Gate 23 (Throat Center):** "I will articulate this insight, even if it seems strange to others."
@@ -132,7 +132,7 @@ When this channel is defined, the individual has **consistent access to breakthr
 
 **Without the channel defined** (only Gate 43 activated), the individual experiences breakthrough insights but may struggle to articulate them. They need another person with Gate 23 to complete the electromagnetic circuit—someone who can help them give voice to their knowing.
 
-**Interpersonal Electromagnetic Dynamics:**
+#### Interpersonal Electromagnetic Dynamics
 
 - **Both have Channel 43-23:** Potential mental competition or mutual inspiration, depending on maturity and openness to each other's unique insights.
 - **One has Gate 43, other has Gate 23:** The Gate 43 person provides breakthrough knowing; the Gate 23 person provides the voice. This can be profoundly generative in partnerships.
@@ -142,14 +142,14 @@ When this channel is defined, the individual has **consistent access to breakthr
 
 Gate 43 is located in the **Ajna Center**, which corresponds biologically to the **pituitary gland** and, specifically for Gate 43, the **inner ear** (pressure regulation and balance). Ra Uru Hu called Gate 43 the "inner ear"—the capacity to **hear what others cannot hear**, to perceive patterns beneath the surface.
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 43 defined may experience:
 - A deep **somatic pressure** in the head or ears when insight is emerging—a felt sense of breakthrough building
 - **Inner ear sensitivity**—pressure changes, tinnitus, or auditory hypersensitivity
 - **Mental pressure**—the restlessness of insight seeking articulation
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Ajna Center radiates **mental awareness** into the aura. When Gate 43 is active, the aura carries a frequency that says: "I know something you don't know. I see patterns others miss." Others may feel this as **inspiring**, **unsettling**, or (if the individual is in Not-Self) **arrogant or alienating**.
 
@@ -186,7 +186,7 @@ The breakthrough insight is inconsistent (activated only by transits or others).
 - **Forcing Breakthrough:** Attempting to manufacture insights through mental effort, leading to exhaustion and false knowing.
 - **Fear of Being Different:** Suppressing unique insights to conform to collective mental patterns.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Feeling mentally pressured to have answers or insights
 - Speaking insights compulsively, without waiting for recognition
@@ -214,7 +214,7 @@ The **7-year deconditioning cycle** for Gate 43 involves learning to recognize w
 
 **Year 7:** Integration phase—insight becomes **gift** (Gene Keys) rather than shadow. The individual knows uniquely without needing to prove or defend their knowing.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice where insights arise in the body. Is it pressure in the head (Ajna)? A gut response (Sacral)? Or emotional clarity (Solar Plexus)?
 - Practice **holding insights privately**—knowing without needing to speak, trusting the timing for articulation.
@@ -264,14 +264,14 @@ In Jungian terms, Gate 43 corresponds to the **Intuitive Function** and the psyc
 
 The Genius/Freak archetype holds the capacity to know what others cannot know. This is not the Teacher (collective knowledge transmission) but the **Mutative Knower**—the one whose insights challenge established mental patterns and offer new ways of seeing.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 43** manifests as:
 - **Intellectual Isolation:** Feeling alienated due to unique insights, leading to withdrawal or bitterness.
 - **Mental Superiority:** Inflating one's insights into arrogance, dismissing collective knowledge as inferior.
 - **Doubt and Self-Censorship:** Suppressing insights out of fear of rejection or ridicule.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 43, individuation requires:
 1. **Trusting Inner Knowing:** Recognizing that insights emerge from within, not from external validation.
@@ -284,7 +284,7 @@ When integrated, Gate 43 becomes the **source of individual empowerment**—the 
 
 When the individual with Gate 43 operates according to their Strategy and Authority, the gift that emerges is **Insight** (Gene Keys) and **Breakthrough Knowing** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Insights emerge naturally, without mental forcing or striving.
 - The individual trusts their inner knowing without needing external validation.
@@ -299,7 +299,7 @@ The Signature of the Ajna Center (for all gates within it) is **Mental Clarity a
 - **Articulating insights when recognized** (waiting for invitation, if applicable)
 - **Being at peace with uniqueness**, even if insights are not understood or appreciated
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 43 teaches that **unique knowing is sacred**. When the individual honors their need for solitude, patience, and waiting for recognition, they become a **living example** of what it means to trust inner truth without apology. This is the essence of the Individual stream—not to teach or convince, but to **empower through breakthrough insight**.
 

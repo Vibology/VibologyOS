@@ -536,7 +536,7 @@ In Russian fairy tales, the **forest is Baba Yaga's realm**:
 
 The forest teaches that **voluntary withdrawal is medicine**, not weakness:
 
-**Practice:**
+#### Practice
 1. **Recognize stagnation** – When life feels **flat, repetitive, meaningless**, the psyche may be **demanding the forest** (introversion, depth, renewal)
 2. **Choose solitude** – Schedule **retreat time**: a day in nature, a weekend alone, a week-long hermitage
 3. **No agenda** – Do not "make it productive." The forest is **not a task**; it is a **surrender**
@@ -553,7 +553,7 @@ The forest teaches that **voluntary withdrawal is medicine**, not weakness:
 
 Estés insists that **modern culture domesticates** (especially women) to the point of **instinctual atrophy**:
 
-**Practice:**
+#### Practice
 1. **Name your Wild Woman** – What was she like before domestication? Before you learned to **be nice, be small, be safe**?
 2. **Identify the cage** – What rules, roles, relationships keep you **tame**? (Not all are bad, but some may be **killing you**)
 3. **Go to the literal forest** – Spend time in **actual wilderness**. Notice what the body remembers that the mind forgot.
@@ -566,7 +566,7 @@ Estés insists that **modern culture domesticates** (especially women) to the po
 
 When life **forces you into the forest** (through loss, illness, collapse), the task is **not to escape but to descend**:
 
-**Practice:**
+#### Practice
 1. **Stop running** – The ego's first impulse is to **flee, fix, numb**. The forest demands: **stop, sit, feel**.
 2. **Name the darkness** – "I am in the Nigredo. I am in the forest. I am lost." Naming creates **container**.
 3. **Do not force light** – Premature optimism (spiritual bypassing, toxic positivity) **aborts the process**. Let the darkness **teach**.
@@ -589,7 +589,7 @@ The forest teaches that **consciousness requires periodic withdrawal**:
 ---
 
 ## Cross-References
-**Archetypal Figures:**
+#### Archetypal Figures
 [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] • [[The Shadow]] • [[The Alchemist]] • [[The Wise Old Man]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Hero]] • [[The Muse]] • [[The Idol]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Joker]] • [[The Nightmare]]
 
 **Fairy Tale Motifs & Tales:**
@@ -598,19 +598,19 @@ The forest teaches that **consciousness requires periodic withdrawal**:
 **Jungian Concepts:**
 [[Individuation]] • [[Shadow Integration]] • [[Mother Complex]] • [[Transcendent Function]] • [[Active Imagination]] • [[Projection]] • [[Regression]] • [[Libido]] • [[Collective Unconscious]] • [[Archetypes]] • [[Persona Development]] • [[Syzygy]]
 
-**Individuation Process:**
+#### Individuation Process
 [[Ego Formation and Childhood]] • [[Persona Development]] • [[Confrontation with Shadow]] • [[Encounter with Anima-Animus]] • [[Confrontation with the Self]] • [[Integration and Wholeness]]
 
-**Hero's Journey Stages:**
+#### Hero's Journey Stages
 [[The Ordinary World]] • [[The Call to Adventure]] • [[Refusal of the Call]] • [[Meeting the Mentor]] • [[Crossing the First Threshold]] • [[Tests, Allies, and Enemies]] • [[Approach to the Inmost Cave]] • [[The Ordeal]] • [[The Reward]] • [[The Road Back]] • [[The Resurrection]] • [[Return with the Elixir]]
 
-**Alchemical Stages:**
+#### Alchemical Stages
 [[Nigredo]] • [[Albedo]] • [[Rubedo]] • [[Calcinatio]] • [[Dissolution]] • [[Coagulation]] • [[Conjunction]] • [[Fermentation]] • [[Distillation]]
 
 **Tarot Keys:**
 [[9 - The Hermit]] • [[18 - The Moon]] • [[17 - The Star]] • [[13 - Death]] • [[0 - The Fool]] • [[2 - The High Priestess]] • [[15 - The Devil]] • [[16 - The Tower]] • [[19 - The Sun]]
 
-**Mythology:**
+#### Mythology
 [[Greek Mythology]] • [[Norse Mythology]] • [[Slavic and Eastern European Mythology]] • [[Native American Mythology]] • [[Celtic Mythology]] • [[Japanese Mythology]]
 
 **Astrology:**

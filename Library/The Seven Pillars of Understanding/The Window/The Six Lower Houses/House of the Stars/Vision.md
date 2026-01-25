@@ -86,18 +86,18 @@ In sacred traditions, this is the artist who becomes transparent to beauty rathe
 ---
 
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 Vision signals that **creative direction is available to guide your mastery**. You are being called to clarify what you specifically are here to contribute, to orient your skill development toward unique expression rather than generic competence. This is not a time for scattered accumulation of abilities; it is a time to identify the vision that makes your mastery meaningful. The card affirms: you have creative direction to offer. Will you follow it?
 
 The appearance of Vision also suggests that **fresh perception is available**. Gate 1's freshness is activating—the capacity to see with new eyes, to perceive possibilities that have been invisible. The question is whether you will honor this creative perception or let entropy scatter it into familiar patterns.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware the trap of **entropy that scatters creative direction**. Are you pursuing so many possibilities that none can deepen into mastery? Are you starting without completing? Check whether your creative perception has become stale—whether vision that once inspired now feels like burden. Shadow also warns against **substituting activity for direction**—busy pursuit of skills without the creative vision that makes skill meaningful. Vision is not doing more; it's seeing clearly what to do.
 
-**Gift Aspect:**
+#### Gift Aspect
 When Vision expresses its gift, you embody **freshness that renews creative perception**. You see possibilities others miss. You approach familiar work with beginner's enthusiasm. Your creative direction stays alive, evolving with understanding rather than calcifying into routine. This is the gift of **perpetually renewed mastery**—skill development that remains meaningful because it serves vision that remains vital.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 In its highest expression, Vision becomes **Beauty**—creative perception that reveals the inherent perfection in all existence. You become transparent to beauty rather than manufacturing it. Your mastery serves as vehicle for something beyond personal expression—cosmic creative force finding unique form through your particular contribution. Those who touch this frequency understand that **vision ultimately serves beauty**, that mastery exists not for personal achievement but for the expression of what existence is creating through individual form.
 
 ---

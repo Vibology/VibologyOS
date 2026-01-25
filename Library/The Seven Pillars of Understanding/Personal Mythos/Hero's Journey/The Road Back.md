@@ -77,7 +77,7 @@ Campbell identifies three primary patterns within The Road Back:
 **1. Refusal of the Return**
 The hero, having achieved transcendence or divine status, **does not want to return** to the ordinary world.
 
-**Examples:**
+#### Examples
 - **Odysseus with Calypso**: The nymph offers Odysseus immortality if he remains on her island. For seven years, he refuses to leave—seduced by godhood, by escape from mortality and responsibility. Only Athena's intervention (and Zeus's command) compels his departure.
 - **Buddha's Initial Hesitation**: Enlightenment seems incommunicable. Why return to teach when truth cannot be grasped by unenlightened minds? The refusal is overcome only through divine petition.
 - **Shamans Who Linger in Spirit World**: Some shamans prefer the clarity and power of the spirit realm to the chaos of the physical. They must be called back (drumming, singing) or risk losing themselves entirely.
@@ -87,7 +87,7 @@ The hero, having achieved transcendence or divine status, **does not want to ret
 **2. The Magic Flight**
 The hero is **pursued by forces attempting to reclaim the boon**—the return becomes a chase, a flight, a desperate defense of the prize.
 
-**Examples:**
+#### Examples
 - **Jason Fleeing Colchis**: King Aeëtes and his forces pursue the Argonauts. Medea kills her own brother Absyrtus, dismembering his body and scattering the pieces in the sea to slow her father's pursuit (he must stop to gather the remains for burial). The Magic Flight is brutal, sacrificial.
 - **Prometheus Chained**: Having stolen fire from the gods, Prometheus is pursued and punished—chained to a rock, eagle devouring his liver daily. The Magic Flight fails; the boon is delivered, but the hero pays eternally.
 - **Theseus and the Minotaur**: Fleeing Crete after slaying the Minotaur, Theseus is pursued by Cretan forces seeking revenge. The pursuit is political and literal.
@@ -98,7 +98,7 @@ The hero is **pursued by forces attempting to reclaim the boon**—the return be
 **3. Rescue from Without**
 The hero **cannot complete the return alone**—aid from external forces is required.
 
-**Examples:**
+#### Examples
 - **Jonah Vomited from the Whale**: Jonah has no agency; God commands the whale to expel him. The return is entirely dependent on grace, not will.
 - **Inanna Rescued by Ninshubur**: After three days dead in the underworld, Inanna is resurrected only because her loyal servant Ninshubur petitioned the gods for rescue. The return requires **fidelity of allies** in the ordinary world.
 - **Theseus's Political Rescue**: Though Theseus escapes Crete physically, Athens rescues him politically—despite his father's death (caused by Theseus's forgetfulness), the city accepts him as king. Community forgiveness is the rescue.

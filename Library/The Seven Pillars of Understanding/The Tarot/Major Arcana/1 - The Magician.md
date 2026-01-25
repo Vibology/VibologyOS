@@ -11,6 +11,7 @@ verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
+# 1 - The Magician
 *The Magus of Power*
 
 ---
@@ -52,7 +53,7 @@ The key insight is that The Magician always deals with **transmission**—uprigh
 ## Divination Use
 **Upright:** Skill, diplomacy, focused will, mastery through practice, conscious creation, channeling higher powers, adaptation, the tools are at hand. Keywords: Agency, manifestation, technique, concentration, "As above, so below."
 
-**Reversed (per Waite):**
+#### Reversed (per Waite)
 Mental disease, disgrace, disquiet, the physician or Magus functioning corruptly. Power misapplied, skill without ethics, the charlatan, blocked channel, technique divorced from wisdom.
 
 ---

@@ -122,7 +122,7 @@ Because the Individual is mutative, their direction cannot be determined by coll
 
 Gate 2 forms **Channel 2-14: The Beat (also called "The Keeper of the Keys")** when connected to Gate 14 in the Sacral Center.
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 
 - **Gate 2 (G Center):** "I know my direction through receptive awareness."
 - **Gate 14 (Sacral):** "I have the power and resources to sustain movement in that direction."
@@ -132,7 +132,7 @@ When this channel is defined, the individual has **consistent access to both dir
 
 **Without the channel defined** (only Gate 2 activated), the individual receives directional impulses but may lack the consistent Sacral energy to sustain movement. They need another person with Gate 14 to complete the electromagnetic circuit—someone who can provide the resourced power to manifest the direction.
 
-**Interpersonal Electromagnetic Dynamics:**
+#### Interpersonal Electromagnetic Dynamics
 
 - **Both have Channel 2-14:** Potential directional alignment or competition, depending on whether their geometries are compatible.
 - **One has Gate 2, other has Gate 14:** The Gate 2 person provides direction; the Gate 14 person provides power. This can create powerful partnerships if both are operating correctly.
@@ -146,14 +146,14 @@ This channel is called the Keeper of the Keys because Gate 14 is associated with
 
 Gate 2 is located in the **G Center**, which corresponds biologically to the **liver** and the **magnetic monopole** (Ra's term for the geometric center of the bodygraph). The magnetic monopole is not a physical organ but an **orientation mechanism**—it determines direction, identity, and the experience of love.
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 2 defined may experience:
 - A deep **somatic sense of orientation**—a felt knowing of which direction to move, even without rational explanation
 - **Liver sensitivity** when moving in directions that are not aligned with their geometry (the liver processes; misaligned direction feels toxic)
 - A pull toward **strategic waiting**—the body knows when to move and when to hold still
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The G Center radiates **identity and direction** into the aura. When Gate 2 is active, the aura carries a frequency that says: "I know where I am going through receptive alignment with my geometry." Others may perceive this as **magnetic pull**, **steady direction**, or (if the individual is in Not-Self) **aimless wandering or rigid fixation**.
 
@@ -191,7 +191,7 @@ The directional receptivity is inconsistent (activated only by transits or other
 - **Impatience with Receptivity:** Moving prematurely because waiting feels intolerable, leading to misaligned action.
 - **Denying Intuition:** Overriding intuitive directional impulses with rational justification or collective expectations.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Feeling chronically lost or asking "What should I do with my life?"
 - Following trends, gurus, or collective movements to find direction
@@ -219,7 +219,7 @@ The **7-year deconditioning cycle** for Gate 2 involves learning to trust recept
 
 **Year 7:** Integration phase—directional receptivity becomes aligned with Strategy and Authority. The individual moves from **dislocation** (Gene Keys Shadow) to **orientation** (Gift) to **unity** (Siddhi)—the recognition that their geometry is never separate from the larger whole.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice where directional impulses arise in the body. Is it a pull in the chest (G Center)? A gut response (Sacral)? An emotional wave (Solar Plexus)?
 - Practice **receptive stillness**—sitting without agenda and allowing direction to emerge rather than manufacturing it.
@@ -269,14 +269,14 @@ In Jungian terms, Gate 2 corresponds to the **Receptive Feminine Principle** (no
 
 The Receptive archetype is the ground, the womb, the container—the space within which creative force (Gate 1) can move and take form. This is not passivity but **active holding**, the strength to remain still and allow.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 2** manifests as:
 - **Loss of Center:** Feeling unmoored, directionless, or disconnected from inner knowing.
 - **Codependent Receptivity:** Receiving direction from others rather than from one's own geometry, leading to loss of autonomy.
 - **Rigidity Masquerading as Receptivity:** Clinging to a direction out of fear, calling it "intuition" when it is actually conditioning.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 2, individuation requires:
 1. **Trusting Intuition (Line 1):** Learning to honor the body's directional knowing without needing rational justification.
@@ -290,7 +290,7 @@ When integrated, Gate 2 becomes the expression of the **Self's orientation**—t
 
 When the individual with Gate 2 operates according to their Strategy and Authority, the gift that emerges is **Orientation** (Gene Keys) and **Directional Clarity** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Direction emerges naturally through receptivity, without force or seeking.
 - The individual trusts their geometry to orient them, even when the path is not yet visible.
@@ -305,7 +305,7 @@ The Signature of the G Center (for all gates within it) is the experience of **L
 - **Knowing that one's geometry is intelligent** and will orient correctly when Strategy and Authority are honored
 - **Being at peace with not always knowing the destination**, trusting the process of receptive orientation
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 2 teaches that **direction is not something to be found—it is something to be received**. When the individual honors their receptivity, waits for clarity, and trusts their geometry, they become a **living example** of what it means to move through life without force or seeking. This is the essence of the Individual stream—not to lead or teach, but to **empower through example**.
 

@@ -296,7 +296,7 @@ Young people project the **Wise Old Man / Wise Old Woman** archetype onto elders
 
 **The Capacity to Let Go:** Of possessions, of roles, of the body itself. The elder practices **dying before dying**—releasing attachment to the transitory so that when death comes, it is simply **the final release**.
 
-**The Gift:**
+#### The Gift
 A **completed human being** who has lived the full arc from birth to death **consciously**, who has integrated all opposites (light and dark, masculine and feminine, ego and Self), who transmits wisdom to the next generation, who faces death **without terror** because they have realized the imperishable Self—the Philosopher's Stone, the Lapis, the crystallized essence that death cannot touch.
 
 ## Cross-References
@@ -313,12 +313,12 @@ A **completed human being** who has lived the full arc from birth to death **con
 - [[Return with the Elixir]] (service, giving the boon to the community)
 - [[The Freedom to Live]] (Campbell's final stage, freedom from death-fear)
 
-**Individuation Process:**
+#### Individuation Process
 - [[Ego Formation and Childhood]] (Stage 1—the ego emerges from Self)
 - [[Confrontation with the Self]] (Stage 5—ego-Self axis established)
 - (Stage 6 completes the circle—ego returns to Self consciously)
 
-**Alchemical Stages:**
+#### Alchemical Stages
 - [[Coagulatio]] (primary operation of this stage—crystallization, fixation)
 - [[Rubedo]] (Stage 5—sacred marriage producing the Stone)
 - [[Philosopher's Stone]] (Lapis—the imperishable, crystallized Self)
@@ -341,7 +341,7 @@ A **completed human being** who has lived the full arc from birth to death **con
 - [[Gate 32]] (Continuity—knowing what endures beyond death)
 - [[Gate 61]] (Inner Truth—mystery realized)
 
-**Mythology:**
+#### Mythology
 - [[Norse Mythology]] (Odin's self-sacrifice on Yggdrasil)
 - [[Buddhist Cosmology]] (Buddha's Parinirvana, conscious extinction)
 - [[Christian Mythology]] (Christ's willing death, resurrection body)

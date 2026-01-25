@@ -723,7 +723,7 @@ The difference: Meditation-induced crises are **temporary and purposeful**—the
 
 ### Shadow Work: The Buddhist Model
 
-**Method:**
+#### Method
 
 1. **Identify your predominant realm:** Which of the Six Realms do you habitually occupy? (Hell/rage, Hungry Ghost/addiction, Animal/numbness, Human/striving, Asura/competition, Deva/bliss)
 2. **Name the poison:** Is this driven by greed, hatred, or ignorance? (Often combinations)
@@ -1027,7 +1027,7 @@ The **grain of wheat** in the Eleusinian mysteries = the **lotus in the mud** in
 - **The Divine Child:** Siddhartha born miraculously, walking seven steps and declaring "I alone am the World-Honored One" (puer inflation balanced by later humility)
 - **The Self:** Buddha-nature, rigpa (awareness), the dharmakaya (truth-body)—the unconditioned ground
 
-**Cross-archetype dynamics:**
+#### Cross-archetype dynamics
 
 - The Hero (Siddhartha) must confront the Shadow (Mara) to realize the Self (Buddha-nature)
 - The Anima (Tara) guides the masculine (practitioner) toward integration
@@ -1161,7 +1161,7 @@ The **grain of wheat** in the Eleusinian mysteries = the **lotus in the mud** in
 **Primary Buddhist Sources:**
 Core cosmological narratives (Six Realms, Wheel of Life, Bardo states, and enlightenment path) are drawn from canonical Buddhist sources including Pali Canon (Suttas), Abhidhamma, Mahayana sutras, and Tibetan Buddhist texts (*Bardo Thodol*/Tibetan Book of the Dead). These teachings span Theravada, Mahayana, and Vajrayana Buddhist traditions and inform the archetypal framework.
 
-**Vibrology Synthesis:**
+#### Vibrology Synthesis
 All Jungian archetypal analysis (interpreting Buddhist cosmology through the lens of Shadow, Anima/Animus, Self, Individuation, etc.) represents scholarly synthesis rather than traditional Buddhist understanding. Cross-system correspondences (Tarot, Astrology, Alchemy, Human Design, Qabalah) are Vibrology's integrative framework, not part of the original Buddhist tradition. The alchemical correlations (Bardo as Nigredo, Enlightenment as Rubedo) apply Western hermetic symbolism to Buddhist liberation teachings. Buddhist psychology deeply influenced Western depth psychology, but the explicit connections drawn here are modern interpretive additions.
 
 ---

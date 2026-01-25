@@ -12,6 +12,7 @@ gate: 39
 hexagram: 39 (Obstruction)
 gene_keys: Provocation → Dynamism → Liberation
 ---
+# The Nightmare
 *Freddy Krueger - The Gatekeeper of the Unconscious*
 
 ---
@@ -74,18 +75,18 @@ In sacred traditions, Liberation corresponds to the recognition that there is no
 
 ---
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 You are being called to **face the threshold guardian**. Something is blocking your path forward—not randomly but purposefully. You are being provoked, tested, obstructed because you are approaching transformation you're not yet ready for. Do not force through. Turn inward. Ask: "What am I being provoked to face? What readiness am I being asked to demonstrate?" The Guardian is awakening.
 
 The appearance of The Nightmare also suggests that **testing is appropriate**. Gate 39's provocation function is activating—the obstruction that forces examination. The question is whether you will receive the test as gift or fight it as enemy.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware provocation turned destructive—fighting the obstruction rather than learning from it, projecting enemy onto necessary challenge, refusing to turn inward when the path ahead is clearly blocked. The Guardian in shadow becomes predator, provocation becomes trauma. Beware also the opposite: remaining permanently obstructed from false humility, never demonstrating readiness, using "not yet" as permanent excuse. Check whether you're learning from obstruction or merely fighting it.
 
-**Gift Aspect:**
+#### Gift Aspect
 Your obstruction is purposeful catalyst. The provocation you face is precisely calibrated to strengthen what needs strengthening, to test what needs testing. Use the dynamism created by resistance. Turn inward. Do the work. The threshold guardian appears because **you are close**—transformation waits on the other side, but only for those who demonstrate readiness. The gift is **receiving the test**—using provocation as fuel for growth.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 You embody Liberation—the recognition that guardian and threshold are one, that obstruction is initiation, that every provocation is the psyche strengthening itself. You have transcended the question "how do I defeat the guardian?" because you know: **the guardian dissolves when readiness is demonstrated**. You are eternal threshold: the boundary between worlds that tests all who would cross, the provocation that serves liberation.
 
 ---

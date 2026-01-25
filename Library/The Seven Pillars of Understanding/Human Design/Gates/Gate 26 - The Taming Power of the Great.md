@@ -122,7 +122,7 @@ Because the Tribal Ego Circuit is designed for **resource management and materia
 
 Gate 26 forms **Channel 26-44: Surrender (The Transmitter)** when connected to Gate 44 in the Spleen Center.
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 
 - **Gate 26 (Ego):** "I have the willpower to remember, to influence, to sell what has worked before."
 - **Gate 44 (Spleen):** "I have the instinctual awareness of the past, the memory of survival patterns, the intuitive knowing of what to present and when."
@@ -132,7 +132,7 @@ When this channel is defined, the individual has **consistent access to tribal m
 
 **Without the channel defined** (only Gate 26 activated), the individual experiences **willpower-memory without instinctual timing**—they have the ego strength to influence but may not sense *when* or *how* to do so effectively. They may need another person with Gate 44 to complete the electromagnetic circuit—someone who provides the instinctual awareness.
 
-**Interpersonal Electromagnetic Dynamics:**
+#### Interpersonal Electromagnetic Dynamics
 
 - **Both have Channel 26-44:** Potential mutual recognition or competition over who is the authority on tribal memory and influence.
 - **One has Gate 26, other has Gate 44:** The Gate 26 person provides the willpower and storytelling; the Gate 44 person provides the instinctual timing. This can be profoundly effective—influence and intuition.
@@ -142,7 +142,7 @@ When this channel is defined, the individual has **consistent access to tribal m
 
 Gate 26 is located in the **Heart (Ego) Center**, which corresponds biologically to the **heart (circulatory system), thymus (immune memory), stomach, and gallbladder**—organs associated with willpower, historical immune response (cellular memory), and material processing.
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 26 defined may experience:
 - **Thymic correlation with memory**—the immune system "remembers" past invaders, just as Gate 26 remembers past successes
@@ -150,7 +150,7 @@ Individuals with Gate 26 defined may experience:
 - **Digestive sensitivity correlating with "selling"**—the stomach reacts when influence feels inauthentic or manipulative
 - **Somatic pressure to tell stories**—the body wants to share historical knowledge and influence
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Ego Center radiates **willpower and commitment** into the aura. When Gate 26 is active, the aura carries a frequency that says: "I remember, I know what works, let me tell you." Others may feel this as **persuasive**, **charismatic**, or (if the individual is in Not-Self) **manipulative** or **overly sales-y**.
 
@@ -188,7 +188,7 @@ The memory and influence are inconsistent (activated only by transits or others)
 - **Over-Selling:** Pressuring others to buy, convince, or adopt historical narratives before they are ready.
 - **Rewriting History:** Censoring or distorting memory to serve personal agenda rather than tribal truth.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Frustration from selling or influencing without Sacral response (for Generators)
 - Bitterness from offering memory-based guidance without invitation (for Projectors)
@@ -216,7 +216,7 @@ The **7-year deconditioning cycle** for Gate 26 involves learning to recognize w
 
 **Year 7:** Integration phase—memory becomes aligned with the Gift of Artfulness (Gene Keys). The individual uses historical knowledge to influence wisely, sells what has true value, and serves tribal continuity without ego inflation.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice where the impulse to influence arises in the body. Is it the heart/ego (willpower)? The throat (need to speak)? The gut (anxiety about being valued)?
 - Practice **waiting for invitation or Sacral response** before selling, storytelling, or influencing.
@@ -264,14 +264,14 @@ In Jungian terms, Gate 26 corresponds to the **Trickster Archetype** and the **S
 
 The trickster who uses memory cleverly, who knows the stories that convince, who sells with charm. The historian who remembers what has worked and ensures continuity. This is the capacity for **strategic influence through accumulated knowledge**.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 26** manifests as:
 - **The Manipulator:** Using memory to deceive, rewriting history for personal gain.
 - **The Egoist:** Making influence about personal pride rather than tribal service.
 - **The Charlatan:** Claiming authority without lived experience, selling false wisdom.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 26, individuation requires:
 1. **Recognizing that memory serves the tribe, not the ego:** Influence is for continuity, not personal elevation.
@@ -284,7 +284,7 @@ When integrated, Gate 26 becomes the expression of **artful service**—the capa
 
 When the individual with Gate 26 operates according to their Strategy and Authority, the gift that emerges is **Artfulness** (Gene Keys) and **Authentic Tribal Influence** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Influence flows from genuine memory and tribal service, not pride or ego.
 - Selling honors the buyer—what is offered truly has value and serves their needs.
@@ -299,7 +299,7 @@ The Signature of the Ego Center (when operating correctly) is **fulfillment of c
 - **Sales that benefit both parties**—what is sold truly serves
 - **Tribal continuity ensured**—historical knowledge preserves what matters
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 26 teaches that **true influence is service, not ego**. When the individual honors their Strategy and Authority, uses memory to serve tribal continuity, and sells with artfulness rather than manipulation, they become a **living example** of the wise trickster. This is the essence of the Tribal Ego Circuit—to ensure material survival through clever, authentic influence.
 

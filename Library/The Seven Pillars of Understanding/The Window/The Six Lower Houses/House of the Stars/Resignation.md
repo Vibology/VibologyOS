@@ -86,18 +86,18 @@ In sacred traditions, this is the realized being whose will is aligned with cosm
 ---
 
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 Resignation signals that **you are surrendering prematurely**. You are being shown a place where determination has collapsed into inertia, where focused pursuit has been abandoned, where defeat has been accepted before mastery was achieved. This is a wake-up call: the giving up you're experiencing (or contemplating) may be premature. The card asks: is this wisdom recognizing genuine limitation, or exhaustion disguised as acceptance?
 
 The appearance of Resignation also suggests that **energy has been depleted**. Gate 9's inertia is expressing—the Sacral's life force has withdrawn from this pursuit. The question is whether rest will restore determination or merely feed resignation. Sometimes the remedy is pause; often it's one more step despite exhaustion.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware the trap of **inertia that presents as wisdom**. Are you genuinely recognizing limitation or surrendering to exhaustion? Check whether your "acceptance" is truly discernment or merely defeat wearing mature clothing. Shadow also warns against **overwhelm that paralyzes**—the inability to continue because the whole seems too large. The antidote is micro-focus: what is the single next step?
 
-**Gift Aspect:**
+#### Gift Aspect
 The way through Resignation is **determination that rebuilds through small steps**. You don't need to see the whole path; you need to take the next step. Focus on the detail you can manage. Let accumulated small efforts become the taming power that moves toward mastery. Trust that continuation—even exhausted continuation—is closer to breakthrough than you realize.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 In its highest expression, Resignation's shadow dissolves into **Invincibility**—the recognition that aligned purpose cannot be stopped, that determination rooted in truth is unstoppable. Those who touch this frequency discover that resignation was never about limitation but about disconnection from purpose. When purpose reconnects, the soul becomes invincible—not through aggressive force but through aligned inevitability.
 
 ---

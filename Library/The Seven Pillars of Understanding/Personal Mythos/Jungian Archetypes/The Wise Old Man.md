@@ -585,7 +585,7 @@ Jung and his followers (especially James Hillman and Marie-Louise von Franz) rec
 - Integration does not mean **choosing one or the other** but **holding the tension** between eternal youth and eternal age.
 - The integrated individual can access **Puer creativity and Senex discipline**, **youthful spontaneity and elder wisdom**.
 
-**Practical Application:**
+#### Practical Application
 - **Midlife** is the **battleground** of Puer-Senex polarity. The midlife crisis is often the **Puer rebelling against premature Senex** (the man who quits his job to join a band) or the **Senex crushing the Puer** (the woman who gives up dreams to "be responsible").
 - The task is to **honor both**: retain the **Puer capacity for renewal** while embracing the **Senex capacity for commitment and mastery**.
 
@@ -651,7 +651,7 @@ The Wise Old Man interacts dynamically with other archetypal structures:
 - The Hero must eventually **claim the Senex function** (become the master) or **overthrow the shadow Senex** (defeat the tyrant).
 - Integration: The Hero realizes, *"The wisdom I sought externally exists within me."*
 
-**The Shadow:**
+#### The Shadow
 - The Senex often appears in **dialogue with the Shadow**—the wise voice that says, *"Acknowledge your darkness."*
 - The **shadow Senex** is the tyrant, dogmatist, or wicked magician.
 - Integration: The individual develops **moral humility** (Senex) through **shadow work** (acknowledging the dark brother).
@@ -756,13 +756,13 @@ The Wise Old Man interacts dynamically with other archetypal structures:
 ## Shadow Dynamics
 **How does the Wise Old Man manifest differently in men vs. women?**
 
-**In Men:**
+#### In Men
 - The **personal Senex** is often projected onto the father, grandfather, or mentor.
 - Positive: The man seeks to **embody wisdom, authority, and mastery**—becoming the mentor to the next generation.
 - Shadow: **Tyranny** (the abusive father), **premature rigidity** (the young man who becomes dogmatic), or **Puer refusal** (the man who refuses to grow up and rejects Senex).
 - Integration: The man develops **discernment, discipline, and the capacity to mentor** without dominating. He becomes the **helpful Senex**, not the **Holdfast**.
 
-**In Women:**
+#### In Women
 - The **Animus** (masculine soul-image) often takes the form of the **Wise Old Man**—a **council of wise men** or an authoritative **inner voice**.
 - Positive: The woman develops her **logos function** (thinking, assertion, spiritual authority) and can speak with confidence.
 - Shadow: The **negative Animus** as **shadow Senex**—the inner critic, the dogmatic voice that crushes creativity, the "committee" that says, *"You're not good enough."*

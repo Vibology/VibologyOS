@@ -192,7 +192,7 @@ In esoteric anatomy, Saturn governs the **bones** (structure, endurance), the **
 
 Saturn's shadow is **tyranny without mercy**—the judge who offers no appeal, the structure that crushes rather than supports, the limitation that is arbitrary rather than instructive.
 
-**Shadow expressions:**
+#### Shadow expressions
 - **Fear:** Paralysis in the face of consequence; the one who cannot act because all outcomes feel catastrophic
 - **Rigidity:** Inability to adapt or bend; the structure that becomes prison, the discipline that becomes punishment
 - **Tyranny:** The authoritarian who imposes order through cruelty; the elder who hoards power rather than passing it down

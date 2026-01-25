@@ -122,7 +122,7 @@ Because the Individual is designed to empower others through unique expression, 
 
 Gate 55 forms **Channel 39-55: Emoting** when connected to Gate 39 in the Root Center.
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 
 - **Gate 55 (Solar Plexus):** "My spirit determines my abundance; my emotional wave colors all experience."
 - **Gate 39 (Root):** "I have the pressure to provoke emotional response, to stir the spirit."
@@ -132,7 +132,7 @@ When this channel is defined, the individual has **consistent access to deep emo
 
 **Without the channel defined** (only Gate 55 activated), the individual experiences emotional abundance and poverty but may lack the provoking pressure of Gate 39. They need another person with Gate 39 to complete the circuit—someone who can stir the spirit into expression.
 
-**Interpersonal Electromagnetic Dynamics:**
+#### Interpersonal Electromagnetic Dynamics
 
 - **Both have Channel 39-55:** Potential for mutual emotional provocation or deep resonance, depending on wave alignment.
 - **One has Gate 55, other has Gate 39:** The Gate 55 person provides the emotional spirit; the Gate 39 person provides the provocation to express it. This can be profoundly generative or volatile in partnerships.
@@ -142,7 +142,7 @@ When this channel is defined, the individual has **consistent access to deep emo
 
 Gate 55 is located in the **Solar Plexus Center**, which corresponds biologically to the **kidneys** (emotional processing, fluid balance), the **pancreas** (digestive sensitivity to emotion), and the **nervous system** (mood sensitivity).
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 55 defined may experience:
 - A **somatic sensitivity to emotional waves**—the body feels abundance or depletion physically
@@ -150,7 +150,7 @@ Individuals with Gate 55 defined may experience:
 - **Digestive sensitivity** to emotional states; appetite and digestion fluctuate with spirit
 - **Mood-dependent physical energy**—when spirit is high, the body feels vital; when spirit is low, the body feels depleted
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Solar Plexus Center radiates **emotional waves** into the aura. When Gate 55 is active, the aura carries a frequency that says: "I am feeling deeply. My spirit is rich/empty. Experience life through feeling." Others may feel this as **inspiring**, **overwhelming**, or (if the individual is in Not-Self) **emotionally draining**.
 
@@ -188,7 +188,7 @@ The 28-day lunar cycle is critical for emotional clarity. The Reflector samples 
 - **Denial of Emptiness:** Spiritual bypassing; insisting on "abundance mindset" while refusing to honor the natural low of the wave.
 - **Comparison:** Measuring one's spirit against others, leading to envy or superiority.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Feeling emotionally depleted most of the time, unable to access abundance
 - Swinging between emotional extremes without awareness or integration
@@ -217,7 +217,7 @@ The **7-year deconditioning cycle** for Gate 55 involves learning to recognize w
 
 **Year 7:** Integration phase—emotional spirit becomes aligned with Strategy and Authority. The individual feels deeply, honors the wave, and recognizes that freedom arises from emotional truth, not forced positivity. Freedom flows naturally (Gene Keys Gift/Siddhi).
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice where emotional spirit arises in the body. Is it the kidneys (processing)? The heart (depth)? The gut (somatic truth)?
 - Practice **riding the wave without clinging to highs or resisting lows**—allowing the natural rhythm of emotional spirit.
@@ -267,14 +267,14 @@ In Jungian terms, Gate 55 corresponds to the **Feeling Function** and the drive 
 
 The Mystic archetype seeks emotional and spiritual depth, experiencing life through feeling rather than thought. This is not the rationalist, but the feeler—the one whose spirit determines reality. Gate 55 is the mystic's capacity to **feel abundance regardless of circumstance**.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 55** manifests as:
 - **Emotional Victimhood:** Blaming the world for one's emotional state.
 - **Spirit Addiction:** Chasing emotional highs to avoid facing the natural wave.
 - **Emotional Manipulation:** Using one's spirit to control others.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 55, individuation requires:
 1. **Integration of the Wave:** Recognizing that both abundance and emptiness are necessary for emotional maturity.
@@ -287,7 +287,7 @@ When integrated, Gate 55 becomes the expression of the **Sovereign Spirit**—th
 
 When the individual with Gate 55 operates according to their Strategy and Authority, the gift that emerges is **Freedom** (Gene Keys) and **Authentic Emotional Spirit** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Emotional spirit flows naturally, without force or suppression.
 - The individual honors the full wave—abundance and emptiness—without clinging or resisting.
@@ -302,7 +302,7 @@ The Signature of the Solar Plexus Center (for all gates within it) is the experi
 - **Being at peace with the wave**, honoring both highs and lows
 - **Sharing emotional richness without depletion**, trusting the wave will renew
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 55 teaches that **spirit is the source of abundance**. When the individual honors their emotional wave according to Strategy and Authority, they become a **living example** of what it means to feel deeply, to experience emotional freedom, to know that the cup is always full because spirit is sovereign. This is the essence of the Individual Knowing stream—not to teach, but to **empower through emotional truth**.
 

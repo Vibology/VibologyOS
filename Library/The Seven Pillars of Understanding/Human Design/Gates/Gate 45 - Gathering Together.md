@@ -122,7 +122,7 @@ Because the Tribal Circuit operates through **collective survival**, leadership 
 
 Gate 45 forms **Channel 45-21: Money (The Treasurer)** when connected to Gate 21 in the Heart/Ego Center.
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 
 - **Gate 45 (Throat Center):** "I have the authority to speak about resource management."
 - **Gate 21 (Ego Center):** "I have the will to control resources for tribal benefit."
@@ -132,7 +132,7 @@ When this channel is defined, the individual has **consistent access to rulershi
 
 **Without the channel defined** (only Gate 45 activated), the individual experiences the voice of rulership but may lack the willpower (Gate 21) to control resources. They need another person with Gate 21 to complete the electromagnetic circuit—someone who provides the will behind their words.
 
-**Interpersonal Electromagnetic Dynamics:**
+#### Interpersonal Electromagnetic Dynamics
 
 - **Both have Channel 45-21:** Mutual rulership energy. Can be generative (co-managing resources) or competitive (power struggles over control).
 - **One has Gate 45, other has Gate 21:** The Gate 45 person provides vocal authority; the Gate 21 person provides willful control. This creates a powerful governance partnership.
@@ -142,14 +142,14 @@ When this channel is defined, the individual has **consistent access to rulershi
 
 Gate 45 is located in the **Throat Center**, which corresponds biologically to the **thyroid gland** (metabolic regulation) and **vocal cords** (communication). The Throat Center is the center of **manifestation and action**—where internal energy becomes external expression.
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 45 defined may experience:
 - A deep **somatic authority** in their voice—a felt sense of speaking with power
 - **Thyroid sensitivity**—metabolism fluctuations related to resource security (or lack thereof)
 - **Vocal strength**—the capacity to project authority through tone and presence
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Throat Center radiates **manifestation** into the aura. When Gate 45 is active, the aura carries a frequency that says: "I have authority to speak about resources. Listen to me." Others may feel this as **commanding**, **educational**, or (if the individual is in Not-Self) **domineering and controlling**.
 
@@ -186,7 +186,7 @@ The voice of rulership is inconsistent (activated only by transits or others). T
 - **Exclusionary Leadership:** Excluding based on personal preference rather than tribal necessity.
 - **False Authority:** Speaking about resource management without actual knowledge or connection to resources.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Feeling compelled to lead even when not invited
 - Speaking with authority about topics outside one's expertise
@@ -214,7 +214,7 @@ The **7-year deconditioning cycle** for Gate 45 involves learning to recognize w
 
 **Year 7:** Integration phase—rulership becomes **communion** (Gene Keys Gift) rather than dominance. The individual gathers and educates from service, not ego.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice where the impulse to lead arises in the body. Is it vocal authority (throat)? Willpower (heart)? Or mental pressure (head)?
 - Practice **speaking only when invited** (for Projectors) or **responding to leadership opportunities** (for Generators).
@@ -264,14 +264,14 @@ In Jungian terms, Gate 45 corresponds to the **King/Queen Archetype** and the ps
 
 The Sovereign archetype holds the capacity to rule with authority and wisdom. This is not the Tyrant (domination) but the **Benevolent Ruler**—the one who gathers people for mutual benefit.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 45** manifests as:
 - **Tyranny:** Using authority to dominate and control rather than educate and liberate.
 - **Narcissistic Leadership:** Ruling for personal glory rather than tribal benefit.
 - **Abdication:** Refusing to claim authority when it is needed, leading to chaos.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 45, individuation requires:
 1. **Owning Authority:** Recognizing the capacity to rule without inflating into tyranny or deflating into abdication.
@@ -284,7 +284,7 @@ When integrated, Gate 45 becomes the **voice of benevolent governance**—the ca
 
 When the individual with Gate 45 operates according to their Strategy and Authority, the gift that emerges is **Communion** (Gene Keys) and **Liberating Rulership** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Rulership emerges from invitation (for Projectors) or Sacral response (for Generators), not from ego need.
 - The individual speaks with authority about resource management when it serves the tribe, not to prove personal worth.
@@ -299,7 +299,7 @@ The Signature of the Throat Center (for Manifestors) is **Peace**; for others, i
 - **Clarity in education**—speaking with authority that serves, not controls
 - **Communion in gathering**—bringing people together for mutual benefit
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 45 teaches that **rulership is sacred service**. When the individual honors their capacity to speak with authority—leading when invited, educating when recognized, gathering for collective benefit—they become a **living example** of benevolent governance. This is the essence of the Tribal Ego Circuit—to ensure survival through wise rulership and resource management.
 

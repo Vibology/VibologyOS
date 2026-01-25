@@ -129,7 +129,7 @@ Aphrodite pours out a massive heap of mixed grains—wheat, barley, millet, popp
 
 **An army of ants** appears, moved by pity for her plight. They work through the night, sorting grain by grain, completing the task perfectly.
 
-**Psychological Meaning:**
+#### Psychological Meaning
 - **The mixed grains** = The confused psyche, the undifferentiated emotions and thoughts, the chaos of the unconscious
 - **The sorting** = The work of discernment, separating truth from illusion, wheat from chaff, Self from Ego
 - **The ants** = The body's autonomic wisdom, the instinctual capacity for patience and meticulous care. The ants represent **the therapy process, meditation, journaling**—small, repetitive, patient work that the conscious mind finds tedious but is essential for integration.
@@ -142,7 +142,7 @@ Aphrodite commands Psyche to gather golden wool from **vicious, man-eating rams*
 
 Psyche again despairs. A **green reed** growing by the river whispers to her: *"Wait until the rams sleep in the afternoon heat. Then gather the golden wool from the brambles where they have brushed against. Do not confront them directly."*
 
-**Psychological Meaning:**
+#### Psychological Meaning
 - **The golden fleece** = Instinctual power, masculine aggression, the raw life-force energy (libido, sexuality, vitality)
 - **The rams** = Unintegrated instinct, the beast in its full fury, the animus in destructive form
 - **The reed's wisdom** = Indirect approach, timing, yielding rather than forcing. **You cannot conquer instinct by attacking it head-on; you integrate it by waiting, observing, and gathering what it leaves behind.**
@@ -155,7 +155,7 @@ Aphrodite commands Psyche to fetch a crystal jar of water from the **River Styx*
 
 An **eagle** (Zeus's eagle, the bird of the heights) descends, takes the jar, fills it from the Styx, and returns it to Psyche.
 
-**Psychological Meaning:**
+#### Psychological Meaning
 - **The Styx** = The boundary between conscious and unconscious, life and death, the point of no return
 - **The water from the Styx** = Consciousness drawn from the unconscious, the "water of life" that paradoxically flows from death
 - **The eagle** = The spiritual function, the capacity for transcendence, the Self's bird that can navigate both the heights (spirit) and the depths (soul)
@@ -168,7 +168,7 @@ Aphrodite's final task: Psyche must descend to **Hades**, ask **Persephone** for
 
 **Eros** awakens, finds her, and revives her with a kiss. He petitions Zeus, who grants Psyche **immortality**. She ascends to Olympus and marries Eros as an equal.
 
-**Psychological Meaning:**
+#### Psychological Meaning
 - **The descent to Hades** = The full katabasis, the ego's journey into the deepest unconscious (depression, dark night, existential crisis)
 - **Persephone's box** = The mystery of death and rebirth, the treasure hidden in the underworld
 - **Opening the box** = The ego's final inflation ("I have completed the trials; I am special") punished by psychic death
@@ -186,7 +186,7 @@ Baba Yaga gives Vasilisa three impossible tasks:
 
 Vasilisa succeeds through the help of **her mother's doll**, a magical helper given to her on her mother's deathbed. The doll does the work while Vasilisa sleeps.
 
-**Psychological Meaning:**
+#### Psychological Meaning
 - **Baba Yaga** = The Great Mother in her devouring aspect, the dark feminine, the unconscious that tests and initiates
 - **The doll** = The internalized "good mother," the Self's protective function, the unconscious aid that emerges when the ego is in extremis
 - **The tasks** = Purification of the psyche, learning to serve the unconscious (Baba Yaga) rather than fleeing from it
@@ -201,7 +201,7 @@ The two elder sons' feathers blow east and west; they go to the marketplace and 
 
 Each time the toad completes the task for him—producing the finest carpet, the finest ring, and finally, **transforming into a beautiful princess** to become his bride.
 
-**Psychological Meaning:**
+#### Psychological Meaning
 - **The descent** = Going *inward* (not outward), trusting the unconscious rather than the marketplace (collective values)
 - **The toad** = The ugly, rejected, instinctual part of self (like the Beast, the frog, the bear) that holds the treasure
 - **The transformation** = What appears repulsive or worthless in the unconscious, when honored and engaged, reveals itself as the true Self (the princess, the treasure)
@@ -212,7 +212,7 @@ A dying king can only be healed by the **Water of Life**, guarded in an enchante
 
 The dwarf gives the youngest son **three tools**: a wand to open the castle gates, bread to tame the lions, and a time-warning ("Leave before the clock strikes twelve, or you'll be trapped forever").
 
-**Psychological Meaning:**
+#### Psychological Meaning
 - **The dwarf** = The helper-figure, the humble instinctual guide (like the ants, the reeds, the eagle)
 - **The three tools** = The psyche's gifts when the ego is humble—conscious preparation, timing, respect for boundaries
 - **The trapped brothers** = The inflated ego that refuses unconscious aid perishes (psychic death, neurosis)
@@ -436,7 +436,7 @@ Unlike the feminine trials (sorting, gathering, patience), **Heracles' Twelve La
 11. Steal the Apples of the Hesperides
 12. Capture Cerberus
 
-**Psychological Meaning:**
+#### Psychological Meaning
 - **Heracles** – The ego inflated to semi-divine status (son of Zeus), punished for hubris (murdering his family in madness)
 - **The labors** – Expiation, purification through **action** rather than patience
 - **The number twelve** – Completion (zodiac, year cycle), exhaustive transformation
@@ -515,7 +515,7 @@ The psyche's response: **Anxiety, depression, addiction**—the return of the re
 ---
 
 ## Cross-References
-**Archetypal Figures:**
+#### Archetypal Figures
 [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Hero]] • [[The Muse]] • [[The Idol]] • [[The Shadow]] • [[The Alchemist]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] • [[The Wise Old Man]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] • [[The Nightmare]]
 
 **Jungian Concepts:**
@@ -524,25 +524,25 @@ The psyche's response: **Anxiety, depression, addiction**—the return of the re
 **Tarot Keys:**
 [[The Hanged Man]] • [[Strength]] • [[The Star]] • [[Death]] • [[Temperance]] • [[The Hermit]] • [[The Tower]] • [[The World]]
 
-**Alchemical Stages:**
+#### Alchemical Stages
 [[Nigredo]] • [[Albedo]] • [[Citrinitas]] • [[Rubedo]] • [[Solve et Coagula]] • [[Coniunctio]] • [[Iteratio]] • [[Philosopher's Stone]]
 
-**Mythological Parallels:**
+#### Mythological Parallels
 [[Psyche and Eros]] • [[Inanna's Descent]] • [[Heracles]] • [[Persephone]] • [[Orpheus and Eurydice]] • [[The Odyssey]] • [[The Epic of Gilgamesh]]
 
-**Fairy Tale Motifs:**
+#### Fairy Tale Motifs
 [[The Animal Bridegroom]] • [[The Impossible Task]] • [[The Helpful Animals]] • [[The Descent to the Underworld]] • [[The Sacred Number Three]] • [[The Jealous Goddess]]
 
-**Related Tales:**
+#### Related Tales
 [[Beauty and the Beast]] • [[Cinderella]] • [[Vasilisa the Beautiful]] • [[The Handless Maiden]] • [[The Six Swans]] • [[The Twelve Brothers]] • [[East of the Sun, West of the Moon]]
 
-**Individuation Process:**
+#### Individuation Process
 [[Ego Formation and Childhood]] • [[Confrontation with Shadow]] • [[Encounter with Anima-Animus]] • [[Confrontation with the Self]] • [[Integration and Wholeness]]
 
-**Hero's Journey Stages:**
+#### Hero's Journey Stages
 [[The Call to Adventure]] • [[Crossing the First Threshold]] • [[Tests, Allies, and Enemies]] • [[The Ordeal]] • [[The Reward]] • [[The Road Back]] • [[The Resurrection]] • [[Return with the Elixir]]
 
-**Human Design Connections:**
+#### Human Design Connections
 [[Sacral Center]] • [[Emotional Authority]] • [[Splenic Authority]] • [[Tribal Circuitry]] • [[Individual Circuitry]] • [[Gate 50 - Values]] • [[Channel 27-50 - Preservation]]
 
 **Astrological Correspondences:**

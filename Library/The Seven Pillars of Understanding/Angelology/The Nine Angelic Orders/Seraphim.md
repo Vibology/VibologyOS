@@ -573,13 +573,13 @@ How do you know if the Seraphim are present?
 
 Not all "angelic" experiences are genuine. **Discernment** is critical.
 
-**True Seraphic presence:**
+#### True Seraphic presence
 - Brings **humility** (the ego becomes smaller, not larger)
 - Brings **clarity** (delusions are burned away)
 - Brings **peace** (even if the experience is intense, there is a deep peace beneath it)
 - Brings **virtue** (increased capacity for love, truth, courage)
 
-**False angelic presence (demonic or egoic inflation):**
+#### False angelic presence (demonic or egoic inflation)
 - Brings **grandiosity** (the ego becomes inflated)
 - Brings **confusion** (delusions multiply)
 - Brings **agitation** (a sense of compulsion or fear)

@@ -639,7 +639,7 @@ The Trickster appears in dreams with specific motifs:
 
 ### 11. Relationship to Other Archetypes
 
-**The Shadow:**
+#### The Shadow
 - The Trickster is **not the Shadow**, but he **mediates shadow material.**
 - The Shadow is the **rejected, repressed content**; the Trickster is the **dynamic function** that brings it to light.
 - The Trickster often **embodies shadow qualities** (greed, lust, cunning) but in a more fluid, playful way.
@@ -735,13 +735,13 @@ The Trickster appears in dreams with specific motifs:
 ## Shadow Dynamics
 **How does the Joker manifest differently across genders?**
 
-**In Men:**
+#### In Men
 - The Trickster is often **culturally permitted** to men (the "charming rogue," the "bad boy").
 - **Shadow:** Men may **inflate** with Trickster energy (believing they are "above rules") and fail to ground.
 - **Projection:** Men may project the Trickster onto women as the **femme fatale** or **muse**—the woman who embodies chaos and spontaneity.
 - **Integration:** Men must learn to **honor the Trickster without being possessed**—developing humor, playfulness, and flexibility without losing responsibility.
 
-**In Women:**
+#### In Women
 - The Trickster is often **culturally repressed** in women (women are expected to be "good," "nurturing," "stable").
 - **Shadow:** Women's Trickster energy is often forced underground, manifesting as:
   - **Passive-aggressive manipulation** (indirect Trickster)

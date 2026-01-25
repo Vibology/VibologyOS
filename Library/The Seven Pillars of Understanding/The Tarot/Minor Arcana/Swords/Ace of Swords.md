@@ -13,6 +13,7 @@ qabalistic_world: Yetzirah (Formative World)
 sephirah: Kether
 title: Root of the Powers of Air
 ---
+# Ace of Swords
 
 *The Root of the Powers of Air*
 

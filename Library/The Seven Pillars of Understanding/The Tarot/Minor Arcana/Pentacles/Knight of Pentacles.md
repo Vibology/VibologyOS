@@ -14,6 +14,7 @@ court_rank: Knight
 elemental_formula: Air of Earth
 zodiac_correspondence: Taurus, Virgo, Capricorn (earth signs in motion)
 ---
+# Knight of Pentacles
 
 *The Plow Horse, the Methodical Worker*
 

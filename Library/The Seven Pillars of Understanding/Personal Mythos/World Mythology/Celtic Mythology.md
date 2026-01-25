@@ -800,7 +800,7 @@ The **Grail/Cauldron** is the **alembic**—the vessel where all operations occu
 - **The Divine Child:** Lugh (hidden from Balor), Parzival (raised in forest, naive)
 - **The Self:** Grail (vessel), Cauldron (source), Round Table (mandala), Arthur in Avalon (eternal king)
 
-**Cross-archetype dynamics:**
+#### Cross-archetype dynamics
 
 - Parzival (Hero/Fool) must fail (Shadow) before meeting Trevrizent (Wise Old Man) to attain the Grail (Self)
 - Merlin (Trickster/Magician) mediates between Arthur (Ego) and the Otherworld (Unconscious)
@@ -951,7 +951,7 @@ The **Grail/Cauldron** is the **alembic**—the vessel where all operations occu
 **Primary Celtic Sources:**
 Core mythological narratives (cosmology, pantheon, Grail Quest, and hero cycles) are drawn from canonical Celtic sources including the *Lebor Gabála Érenn* (Book of Invasions), *Táin Bó Cúailnge*, *Mabinogion*, Arthurian Romances (Chrétien de Troyes, Wolfram von Eschenbach's *Parzival*), and Irish/Welsh/Scottish folklore traditions. These medieval texts preserve pre-Christian Celtic mythology and inform the archetypal framework.
 
-**Vibrology Synthesis:**
+#### Vibrology Synthesis
 All Jungian archetypal analysis (interpreting Celtic myths through the lens of Shadow, Anima/Animus, Self, Individuation, etc.) represents scholarly synthesis rather than medieval Celtic understanding. Cross-system correspondences (Tarot, Astrology, Alchemy, Human Design, Qabalah) are Vibrology's integrative framework, not part of the original mythological tradition. The alchemical correlations (Nigredo, Albedo, Citrinitas, Rubedo) apply Renaissance hermetic symbolism to Celtic narrative patterns. The Grail's interpretation as individuation symbol is modern Jungian scholarship, not medieval theology.
 
 ---

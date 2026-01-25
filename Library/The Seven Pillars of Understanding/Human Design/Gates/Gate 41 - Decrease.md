@@ -122,7 +122,7 @@ Because the Abstract Circuit operates through **emotional wave and reflection**,
 
 Gate 41 forms **Channel 41-30: Recognition (Format Energy)** when connected to Gate 30 in the Solar Plexus Center.
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 
 - **Gate 41 (Root Center):** "I am under pressure to imagine new experiences."
 - **Gate 30 (Solar Plexus):** "I recognize which experiences are worth feeling into."
@@ -132,7 +132,7 @@ When this channel is defined, the individual has **consistent access to the fuel
 
 **Without the channel defined** (only Gate 41 activated), the individual experiences pressure to fantasize but may lack the emotional recognition (Gate 30) to discern which fantasies are worth pursuing. They need another person with Gate 30 to complete the electromagnetic circuit—someone who can help them recognize which imagined experiences align with emotional truth.
 
-**Interpersonal Electromagnetic Dynamics:**
+#### Interpersonal Electromagnetic Dynamics
 
 - **Both have Channel 41-30:** Mutual pressure for new experience. Can be generative (adventuring together) or competitive (conflicting fantasies).
 - **One has Gate 41, other has Gate 30:** The Gate 41 person provides imaginative fuel; the Gate 30 person provides emotional recognition. This creates a powerful experiential partnership.
@@ -142,14 +142,14 @@ When this channel is defined, the individual has **consistent access to the fuel
 
 Gate 41 is located in the **Root Center**, which corresponds biologically to the **adrenal glands** and the production of **stress hormones** (cortisol, adrenaline). The Root Center generates pressure—the fuel that drives action.
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 41 defined may experience:
 - A deep **somatic restlessness**—a feeling that something new must be experienced
 - **Adrenal activation** when fantasizing about future experiences (anticipation creates physiological arousal)
 - **Stress-related symptoms** if fantasies are chronically unfulfilled or if expectation dominates over anticipation
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Root Center radiates **pressure** into the aura. When Gate 41 is active, the aura carries a frequency that says: "I am imagining something new. I am anticipating a shift." Others may feel this as **inspiring**, **exciting**, or (if the individual is in Not-Self) **anxious and restless**.
 
@@ -186,7 +186,7 @@ The fantasy pressure is inconsistent (activated only by transits or others). The
 - **Restlessness:** Feeling constant pressure to "do something new" without emotional clarity.
 - **Projecting Fantasies onto Others:** Expecting others to fulfill one's imagined experiences.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Feeling chronically restless, never satisfied with current experiences
 - Pursuing experiences impulsively without waiting for emotional clarity
@@ -214,7 +214,7 @@ The **7-year deconditioning cycle** for Gate 41 involves learning to recognize w
 
 **Year 7:** Integration phase—fantasy becomes **anticipation** (Gene Keys Gift) rather than expectation. The individual fantasizes freely without demanding that reality conform to imagination.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice where fantasy arises in the body. Is it pressure in the pelvis/lower back (Root)? Emotional charge in the solar plexus? Or mental projection from the Ajna?
 - Practice **fantasy without attachment**—imagine experiences without needing them to happen.
@@ -264,14 +264,14 @@ In Jungian terms, Gate 41 corresponds to the **Anticipatory Function** of the ps
 
 The Dreamer archetype holds the capacity to imagine what does not yet exist. This is not the Artist (Gate 1, bringing forth unique creation) but the **Visionary of Experience**—the one who feels into possibility and fuels the collective's drive toward new experiences.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 41** manifests as:
 - **Chronic Longing:** Always fantasizing about the future, unable to inhabit the present.
 - **Disappointment Complex:** Repeated cycles of hope and disillusionment when reality fails to match fantasy.
 - **Escapism:** Using fantasy to avoid engaging with current reality or difficult emotions.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 41, individuation requires:
 1. **Recognizing the Difference Between Anticipation and Expectation:** Learning to hold fantasies lightly rather than rigidly.
@@ -284,7 +284,7 @@ When integrated, Gate 41 becomes the **fuel for collective evolution**—the pre
 
 When the individual with Gate 41 operates according to their Strategy and Authority, the gift that emerges is **Anticipation** (Gene Keys) and **Generative Fantasy** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Fantasy flows naturally without demanding that reality conform.
 - The individual imagines freely, enjoying the process of anticipation without attachment to outcome.
@@ -299,7 +299,7 @@ The Signature of the Root Center (for all gates within it) is the release of pre
 - **Trusting the experiential process** without forcing novelty
 - **Being at peace with the gap** between fantasy and reality
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 41 teaches that **fantasy is sacred fuel**. When the individual honors their need to imagine, fantasize, and anticipate—without demanding that reality conform—they become a **living example** of healthy desire. This is the essence of the Abstract Circuit's Sensing Stream—to fuel collective experience through imaginative anticipation.
 

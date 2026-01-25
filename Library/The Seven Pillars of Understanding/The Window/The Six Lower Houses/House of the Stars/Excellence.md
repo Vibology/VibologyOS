@@ -86,18 +86,18 @@ In sacred traditions, this is the realized being who possesses everything by nee
 ---
 
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 Excellence signals that **material mastery is available through developed competence**. You are being called to take your skills seriously, to invest in genuine excellence rather than settling for adequacy. This is not a time for false humility or comfortable mediocrity; it is a time to pursue mastery with dignity. The card affirms: you have the capacity for genuine excellence. Will you develop it?
 
 The appearance of Excellence also suggests that **resources are available to support your mastery**. Gate 14's empowerment is activating—material support, opportunities for skill development, recognition of existing competence. The question is whether you will steward these resources toward genuine excellence or squander them through compromise.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware the trap of **compromise that undermines mastery**. Are you settling for "good enough" when excellence is possible? Are you diluting your skill to fit expectations? Check whether comfort has become the enemy of growth—whether you're avoiding the demands of genuine mastery because the path seems difficult. Shadow also warns against **corrupted pursuit of resources**—achieving material success through means that compromise integrity. Excellence achieved through exploitation is not excellence but predation.
 
-**Gift Aspect:**
+#### Gift Aspect
 When Excellence expresses its gift, you embody **competence that creates material flourishing**. Your skills are developed, your mastery is genuine, your work creates value. This is the gift of **earning your place through demonstrated capability**—not performing excellence but being excellent. Your competence empowers others; your resources support life; your mastery serves more than self.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 In its highest expression, Excellence becomes **Bounteousness**—mastery that overflows into abundance for all. You possess greatly and give freely. Your competence serves as teaching; your resources serve as empowerment. Those who touch this frequency understand that excellence is not for hoarding but for sharing, that mastery exists to be transmitted, that material abundance is blessing only when it blesses others.
 
 ---

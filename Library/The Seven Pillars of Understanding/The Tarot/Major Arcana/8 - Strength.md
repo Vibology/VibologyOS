@@ -11,6 +11,7 @@ verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
+# 8 - Strength
 *The Daughter of the Flaming Sword*
 
 ---
@@ -52,7 +53,7 @@ The key insight is that Strength always deals with **the relationship between hi
 ## Divination Use
 **Upright:** Power, energy, courage, fortitude, action, magnanimity, complete success, mastery over animal nature, gentle strength, self-control, facing fear without being consumed, the higher subduing the lower through love. Keywords: Courage, fortitude, taming, spiritual power, Leo vitality.
 
-**Reversed (per Waite):**
+#### Reversed (per Waite)
 Despotism, abuse of power, weakness, discord, disgrace. Tyranny instead of mastery, force instead of love, instinct overwhelming consciousness, inability to control animal drives, compulsion, addiction, shame.
 
 ---

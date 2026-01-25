@@ -11,6 +11,7 @@ verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
+# 9 - The Hermit
 *The Prophet of the Eternal, Magus of the Voice of Power*
 
 ---
@@ -54,7 +55,7 @@ The key insight is that The Hermit always deals with **the paradox of solitude a
 ## Divination Use
 **Upright:** Prudence, circumspection, divine inspiration, withdrawal, solitude, wisdom sought and found, self-examination, the light of truth, voluntary isolation for spiritual purpose, the Ancient of Days. Keywords: Wisdom, solitude, introspection, guidance from above, self-knowledge.
 
-**Reversed (per Waite):**
+#### Reversed (per Waite)
 Concealment, disguise, policy, unreasoned caution. Isolation as avoidance, withdrawal without purpose, spiritual bypassing, hoarding wisdom, paranoia, refusing to share the light, false humility, the hermit who never returns.
 
 ---

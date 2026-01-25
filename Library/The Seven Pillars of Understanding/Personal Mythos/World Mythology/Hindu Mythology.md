@@ -633,7 +633,7 @@ Jung warned: "One cannot simply *force* the unconscious. The Self must be approa
 
 ### Shadow Work: The Hindu Model
 
-**Method:**
+#### Method
 
 1. **Identify your Maya:** What false identifications (Persona, roles, achievements) are you clinging to? What would dissolve if you lost your job, partner, body, reputation? That is Maya (illusion). The Self beneath is eternal.
 
@@ -651,7 +651,7 @@ Jung warned: "One cannot simply *force* the unconscious. The Self must be approa
 
 ### Bhakti (Devotion) as Integration
 
-**Practice:**
+#### Practice
 
 1. **Choose your Ishta Devata (beloved deity):** Not intellectually but intuitively. Who calls you? Krishna, Kali, Shiva, Durga, Hanuman? This is your personal gateway to the Self.
 
@@ -923,7 +923,7 @@ This is controversial but psychologically valid: individuation in the West requi
 - **The Divine Child:** Bal Krishna (playful, miraculous, precocious), infant Hanuman (eating the sun)
 - **The Self:** Atman-Brahman (the ground of being), Vishnu (preserver of consciousness), Shiva (destroyer of ego), Krishna (totality)
 
-**Cross-archetype dynamics:**
+#### Cross-archetype dynamics
 
 - Rama (Hero/Ego) needs Krishna (Trickster/Self) for wholeness—dharma needs Lila
 - Shiva (Wise Old Man/Self) needs Shakti (Anima/Energy) to incarnate—consciousness needs embodiment
@@ -1054,7 +1054,7 @@ This is controversial but psychologically valid: individuation in the West requi
 **Primary Hindu Sources:**
 Core mythological narratives (cosmology, Trimurti, avatars, and dharmic epics) are drawn from canonical Hindu sources including the Vedas, Upanishads (especially Katha Upanishad), *Bhagavad Gita*, *Ramayana*, *Mahabharata*, Puranas, and Tantric texts. These scriptures span millennia of Hindu philosophical and religious tradition and inform the archetypal framework.
 
-**Vibrology Synthesis:**
+#### Vibrology Synthesis
 All Jungian archetypal analysis (interpreting Hindu myths through the lens of Shadow, Anima/Animus, Self, Individuation, etc.) represents scholarly synthesis rather than traditional Hindu understanding. Cross-system correspondences (Tarot, Astrology, Alchemy, Human Design, Qabalah) are Vibrology's integrative framework, not part of the original Hindu tradition. The alchemical correlations (Kundalini as transmutation, chakras as stages) apply Western hermetic symbolism to Hindu yogic practices. Hindu philosophy's Atman-Brahman unity and Maya influenced Western depth psychology, but the explicit connections drawn here are modern interpretive additions.
 
 ---

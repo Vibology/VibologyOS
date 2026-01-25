@@ -122,7 +122,7 @@ Because the Logic Circuit serves the **collective's need for reliable understand
 
 Gate 9 forms **Channel 9-52: Concentration (also called "Determination" or "Focus")** when connected to Gate 52 in the Root Center.
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 
 - **Gate 9 (Sacral):** "I have the life force to sustain focused work on details."
 - **Gate 52 (Root):** "I feel the pressure to concentrate, to be still and focus attention."
@@ -136,7 +136,7 @@ The gift of Channel 9-52 is **determination**—the capacity to focus when other
 
 **Without the channel defined** (only Gate 9 activated), the individual has the Sacral energy to sustain focus but may not feel consistent **pressure to concentrate** (Gate 52, Root). They need someone with Gate 52 to complete the electromagnetic circuit—someone who provides the Root pressure that activates their Sacral focus.
 
-**Interpersonal Electromagnetic Dynamics:**
+#### Interpersonal Electromagnetic Dynamics
 
 - **Both have Channel 9-52:** Potential collaboration in focused work or competition for concentration bandwidth (who gets to focus on what).
 - **One has Gate 9, other has Gate 52:** The Gate 52 person brings the pressure to focus; the Gate 9 person provides the sustained energy. Together they create powerful concentration.
@@ -146,7 +146,7 @@ The gift of Channel 9-52 is **determination**—the capacity to focus when other
 
 Gate 9 is located in the **Sacral Center**, which corresponds biologically to the **ovaries** (in those assigned female at birth) or **testes** (in those assigned male at birth). The Sacral is the **life force center**—fertility, sexuality, creativity, work capacity, and sustainability.
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 9 defined may experience:
 - Strong **capacity for sustained work**—able to sit with detailed tasks for long periods without fatigue (when aligned with Sacral response)
@@ -154,7 +154,7 @@ Individuals with Gate 9 defined may experience:
 - Sensitivity to **overwork**—when focus is pushed beyond Sacral capacity, burnout or exhaustion follows
 - **Work rhythm clarity**—knowing when concentration is present and when it has depleted
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Sacral Center radiates **life force and fertility** into the aura. When Gate 9 is active, the aura carries a frequency of **"I am capable of focused, sustained work."** Others may perceive this as **reliable**, **meticulous**, or (if the individual is in Not-Self) **obsessive or rigid**.
 
@@ -192,7 +192,7 @@ The focused energy is experienced only through transits or proximity to others w
 - **Loss of Faith (Line 5 Detriment):** Abandoning detailed work prematurely because results are not immediate.
 - **Ingratitude (Line 6 Detriment):** Taking the fruits of focused effort for granted, failing to honor the process.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Feeling overwhelmed by details, unable to focus
 - Forcing focus on tasks that don't align with Sacral response
@@ -220,7 +220,7 @@ The **7-year deconditioning cycle** for Gate 9 involves learning to focus on wha
 
 **Year 7:** Integration phase—focus becomes aligned with Sacral Authority. The individual moves from **inertia** (Gene Keys Shadow) to **determination** (Gift) to **invincibility** (Siddhi)—the recognition that patient, focused effort creates unshakable mastery.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice the **somatic signature of focus**—does the body settle? Does breathing slow? Does the mind quiet?
 - Honor the **edge of sustainable concentration**—when the body signals exhaustion, stop. Rest is not weakness.
@@ -271,14 +271,14 @@ In Jungian terms, Gate 9 corresponds to the **Master Craftsman Archetype** and t
 
 The Master Craftsman is the one who builds skill through repetition, refines quality through attention, creates mastery through patient accumulation of small efforts. This is not genius through inspiration but genius through dedication.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 9** manifests as:
 - **Perfectionism:** Obsessive focus on details to the point of paralysis or burnout.
 - **Inertia:** Avoidance of detailed work, believing it is tedious or beneath one's capabilities.
 - **Scattered Effort:** Lack of discipline, jumping between tasks without completing any, wasting energy.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 9, individuation requires:
 1. **Developing Sensibility (Line 1):** Learning to discern which details matter.
@@ -292,7 +292,7 @@ When integrated, Gate 9 becomes the **embodied capacity for mastery**—the abil
 
 When the individual with Gate 9 operates according to their Strategy and Authority, the gift that emerges is **Determination** (Gene Keys) and **Sustained Focus** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Focus arises from Sacral response, not mental agendas about "what should be done."
 - The individual honors the limits of sustainable concentration (Line 3), resting when needed.
@@ -308,7 +308,7 @@ The Signature of the Sacral Center (for Generators/MGs) is **Satisfaction**. For
 - **Fulfillment in mastery**—the recognition that patient effort creates invincible skill
 - **Peace in the process**—not needing immediate results, trusting accumulation
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 9 teaches that **power lies in the small**. When the individual honors their Sacral Authority, focuses on what genuinely aligns, and accumulates effort patiently, they become a **living example** of mastery through determination. This is the essence of the Logic Circuit—not dramatic breakthrough, but **reliable understanding built step by step**.
 

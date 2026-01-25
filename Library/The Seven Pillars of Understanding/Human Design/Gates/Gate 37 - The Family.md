@@ -120,7 +120,7 @@ The Tribal Circuit is not about universal love or individual freedom—it is abo
 
 Gate 37 forms **Channel 37-40: Community** when connected to Gate 40 in the Heart/Ego Center.
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 
 - **Gate 37 (Solar Plexus):** "I feel friendship and connection; I want to bond through reciprocal support."
 - **Gate 40 (Heart/Ego):** "I have the will to provide, to work, to fulfill my end of the bargain."
@@ -130,7 +130,7 @@ When this channel is defined, the individual has **consistent access to tribal c
 
 **Without the channel defined** (only Gate 37 activated), the individual experiences **emotional desire for friendship** but may lack the will or capacity to provide/work in service of those bonds. They need someone with Gate 40 to complete the circuit.
 
-**Interpersonal Electromagnetic Dynamics:**
+#### Interpersonal Electromagnetic Dynamics
 
 - **Both have Channel 37-40:** Mutual capacity for friendship and provision. Potential for strong tribal bonds or competing structures.
 - **One has Gate 37, other has Gate 40:** The Gate 37 person provides emotional bonding; the Gate 40 person provides will to work. This is classic partnership.
@@ -140,14 +140,14 @@ When this channel is defined, the individual has **consistent access to tribal c
 
 Gate 37 is located in the **Solar Plexus Center**, which corresponds biologically to the **solar plexus/nerve plexus**. In the context of tribal bonding, Gate 37 is also associated with **oxytocin**—the bonding hormone released during intimacy, friendship, and family connection.
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 37 defined may experience:
 - **Emotional warmth and bonding chemistry** when in tribal relationships—the body feels connected
 - **Emotional sensitivity** to fairness in relationships—inequality or broken bargains create distress
 - **Nervous system activation** when tribal bonds are threatened (the nerve plexus responds to relational stress)
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Solar Plexus Center radiates **emotional wave** into the aura. When Gate 37 is active, the aura carries a frequency that says: "I want to belong. I want reciprocal friendship. Are we family?" Others may feel this as **warm**, **bonding**, or (if in Not-Self) **needy and demanding**.
 
@@ -189,7 +189,7 @@ The friendship need is inconsistent (activated by transits or others). The Refle
 - **Freeloading:** Expecting support without reciprocity, breaking agreements.
 - **Insular Tribalism:** Family as closed system, rejecting outsiders, no larger purpose.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Feeling desperate to belong, joining families/communities out of need rather than correctness
 - Tolerating unequal bargains because "family sticks together"
@@ -217,7 +217,7 @@ The **7-year deconditioning cycle** for Gate 37 involves learning to recognize w
 
 **Year 7:** Integration phase—bonding becomes **equality** (Gene Keys Gift) rather than weakness. The individual creates family through fair exchange, not neediness. Friendship becomes tender rather than transactional.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice where the desire for belonging arises in the body. Is it the solar plexus (Gate 37)? The heart (ego/will)? Or absorbed from others?
 - Practice **evaluating fairness in relationships**—are bargains reciprocal? Is support mutual?
@@ -261,14 +261,14 @@ In Jungian terms, Gate 37 corresponds to the **Family Archetype** and the psycho
 
 The Family Member seeks belonging through reciprocal care, creates bonds through fair exchange, maintains relationships through honored agreements.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 37** manifests as:
 - **Codependency:** Inability to exist without tribal approval, giving identity away to the group.
 - **Emotional Enmeshment:** Losing boundaries in family, confusing love with control.
 - **Tribalism as Exclusion:** Creating "us vs. them," rejecting outsiders.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 37, individuation requires:
 1. **Separation from Codependency:** Recognizing that belonging does not require giving power away.
@@ -281,7 +281,7 @@ When integrated, Gate 37 becomes the expression of **Tenderness**—tribal bondi
 
 When the individual with Gate 37 operates according to their Strategy and Authority, the gift that emerges is **Equality** (Gene Keys) and **True Friendship** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Bonding is **reciprocal**—fair exchange, mutual support.
 - Friendship is **chosen**, not desperate—belonging based on correctness, not neediness.
@@ -296,7 +296,7 @@ The Signature of the Solar Plexus Center is **emotional clarity over time**. For
 - Creating friendships based on fairness
 - Experiencing belonging without losing self
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 37 teaches that **friendship requires reciprocity**. When the individual honors emotional truth and creates fair bargains, they become a **living example** of equality and tenderness in relationship.
 

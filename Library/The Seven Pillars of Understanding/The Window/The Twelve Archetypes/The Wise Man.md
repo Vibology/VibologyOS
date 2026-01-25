@@ -12,6 +12,7 @@ gate: 40
 hexagram: 40 (Deliverance)
 gene_keys: Exhaustion → Resolve → Divine Will
 ---
+# The Wise Man
 *Mr. Miyagi - The Solitary Master*
 
 ---
@@ -74,18 +75,18 @@ In sacred traditions, Divine Will corresponds to the master whose teaching flows
 
 ---
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 You are being called to **provide with boundaries**. This is not the time for infinite availability. Work with resolve, teach with commitment—then rest alone to restore will. The tribe needs your provision, but you need solitude to sustain capacity. Deliverance requires rhythm: work and rest, provide and recuperate. The Wise Man is awakening in you.
 
 The appearance of The Wise Man also suggests that **mentorship is available or needed**. Gate 40's provision function is activating—either you are called to teach, or you need to receive teaching. The question is whether provision will flow sustainably or collapse into exhaustion.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware exhaustion disguised as service—working until collapse, refusing rest, depleting will to prove dedication. The Wise Man corrupted believes aloneness is selfishness, that true masters never withdraw. But this path leads to breakdown. Beware also the opposite: refusing to provide, hoarding rest, withdrawing into permanent solitude that serves no one. Check whether your rhythm is sustainable or skewed toward depletion.
 
-**Gift Aspect:**
+#### Gift Aspect
 Your resolve sustains the tribe. You provide practical wisdom through humble work, deliver liberation through discipline, guide others to self-mastery. But you also honor your limits. You rest. You recuperate. Your aloneness is not abandonment—it is restoration that enables continued provision. The rhythm of work and rest sustains teaching. The gift is **sustainable mastery**—wisdom that flows because it is restored.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 You embody Divine Will—provision that flows effortlessly because rest is complete. You are the cosmic master whose teaching liberates because exhaustion is impossible. You have transcended the struggle between self and service because you recognize both as one. Your work is the universe providing for itself; your rest is the universe restoring itself. At this frequency, teaching and solitude are both expressions of divine will flowing through form.
 
 ---

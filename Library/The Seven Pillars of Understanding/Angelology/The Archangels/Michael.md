@@ -260,7 +260,7 @@ Michael is depicted with consistent symbolism across Christian, Qabalistic, and 
 
 Michael's **sword** is his primary attribute—the **sword of discrimination**, the blade that cuts illusion, the weapon that slays the dragon.
 
-**Symbolism:**
+#### Symbolism
 - **Fire** — The sword flames because it is not physical but **spiritual**—the fire of truth, the heat of divine wrath against falsehood
 - **Vertical Alignment** — The raised sword points to heaven, the lowered sword pierces earth—Michael mediates between above and below
 - **Discrimination** — The sword is the **ace of spades** in Tarot, the capacity to cut through confusion, to see clearly, to choose rightly
@@ -272,7 +272,7 @@ In the Lesser Banishing Ritual of the Pentagram (LBRP), the practitioner visuali
 
 Michael stands **upon** or **slays** a dragon or serpent—the **archetypal image of triumph over chaos**.
 
-**Symbolism:**
+#### Symbolism
 - **Chaos Subdued** — The dragon represents primordial chaos, the forces of dissolution, the unconscious in its devouring aspect
 - **Ego Inflation Defeated** — The dragon is Lucifer, the light-bearer who fell through pride—Michael's foot on its neck is the **correction of inflation**
 - **Shadow Integration** — Michael does not destroy the dragon utterly—he **casts it down**, forcing it to earth (consciousness), where it can be integrated rather than projected
@@ -283,7 +283,7 @@ The dragon is often depicted with **seven heads** (*Revelation 12:3*)—the seve
 
 In Christian iconography, Michael often holds **scales**—the **weigher of souls** at the Last Judgment.
 
-**Symbolism:**
+#### Symbolism
 - **Discernment** — The scales weigh truth against falsehood, the heart against the feather (Egyptian *Ma'at* parallel)
 - **Justice** — Not retribution, but **balance**—Michael ensures each soul receives what is appropriate, not what is deserved by ego's standards
 - **Psychopomp** — Michael guides souls to their proper place—heaven, purgatory, or hell—not as punishment but as **alignment with truth**
@@ -294,7 +294,7 @@ In medieval art, Michael is shown at the gates of the afterlife, holding scales 
 
 Michael is clad in **golden or silver armor**, often with a **radiant nimbus** or **solar halo**, and **great wings** (two, four, or six depending on tradition).
 
-**Symbolism:**
+#### Symbolism
 - **Armor** — Protection, but not isolation—the armor is **transparent** or **radiant**, suggesting invulnerability through alignment with truth, not through hardness
 - **Wings** — Mobility, transcendence, the capacity to move between worlds (heaven and earth, conscious and unconscious)
 - **Solar Radiance** — The light that emanates from Michael is **not reflected** (like the Moon) but **self-luminous** (like the Sun)—he is a source, not merely a channel
@@ -314,7 +314,7 @@ Michael guides souls through the **transition from life to death**, and **weighs
 - **Greek:** Hermes Psychopompos guides souls to Hades, where Minos, Rhadamanthus, and Aeacus judge
 - **Christian:** Michael guides souls to judgment, weighing them in the scales
 
-**Symbolism:**
+#### Symbolism
 The weighing is **not punitive but revelatory**—it reveals what is already true. The soul that has aligned with the Higher Self (Tiphareth) rises; the soul that has identified with the ego alone falls—not into eternal damnation, but into **purgation**, the process of burning away what is false.
 
 Michael's role is **not to condemn but to clarify**—to show the soul what it truly is, without illusion.
@@ -554,10 +554,10 @@ Every archetype has a **shadow**—the distorted, pathological, or unconscious e
 
 ### 1. Spiritual Inflation and Messianic Complex
 
-**Manifestation:**
+#### Manifestation
 Identifying *as* Michael rather than relating *to* him—believing oneself to be the sole bearer of truth, the righteous warrior, incapable of error.
 
-**Examples:**
+#### Examples
 - "I am the light; all who oppose me are darkness."
 - "God speaks through me; to question me is to question God."
 - "I am the defender of truth; my enemies are agents of evil."
@@ -570,10 +570,10 @@ Remember Michael's name: *"Who is as God?"* Answer: *"Not you."* The sword is *b
 
 ### 2. False Righteousness and Crusader Mentality
 
-**Manifestation:**
+#### Manifestation
 Using Michael's energy to justify **cruelty, violence, or domination** in the name of "God's will" or "truth."
 
-**Examples:**
+#### Examples
 - Religious wars, crusades, inquisitions
 - "Righteous" anger that is actually ego-driven rage
 - Punishing others for their "sins" while denying one's own Shadow
@@ -586,10 +586,10 @@ True righteousness is **humble** (*Jude 1:9*—Michael does not presume to judge
 
 ### 3. Ego-Driven "Spiritual Warfare"
 
-**Manifestation:**
+#### Manifestation
 Battling external "demons" (projections) rather than confronting the **inner dragon** (Shadow).
 
-**Examples:**
+#### Examples
 - Obsession with "spiritual attacks" from others
 - Constant vigilance against "evil forces" (paranoia)
 - Using prayer/ritual as a weapon against enemies
@@ -602,10 +602,10 @@ The dragon is *within*. The war is *internal*. Michael's sword cuts *inward* fir
 
 ### 4. Rigidity and Fundamentalism
 
-**Manifestation:**
+#### Manifestation
 The sword becomes **inflexible**, cutting without discernment, creating rigid boundaries, refusing paradox.
 
-**Examples:**
+#### Examples
 - "There is only one truth, and I have it."
 - Literalism (scriptural, doctrinal, ideological)
 - Inability to hold ambiguity or mystery
@@ -618,10 +618,10 @@ True discrimination is **flexible**—it knows what it knows, and knows what it 
 
 ### 5. Martyrdom and Self-Destruction
 
-**Manifestation:**
+#### Manifestation
 Seeking **crucifixion** (ego-death) not as transformation but as **escape from life**.
 
-**Examples:**
+#### Examples
 - Spiritual bypassing ("I'm too evolved for earthly concerns")
 - Self-punishment disguised as discipline
 - Seeking suffering to prove worthiness
@@ -642,7 +642,7 @@ When Michael's angelic intelligence is **integrated** (not identified with, but 
 
 Willing to **face the dragon** (Shadow, ego, conditioning) and slay it with truth.
 
-**Manifestation:**
+#### Manifestation
 - Standing for truth when it's costly
 - Confronting what has been avoided
 - Acting from integrity despite fear
@@ -654,7 +654,7 @@ The heart opens as the solar center—**fierce and tender**, capable of both lov
 
 Able to **see clearly** what is real and what is illusion, what serves the soul and what serves the ego.
 
-**Manifestation:**
+#### Manifestation
 - Clarity in decision-making
 - Healthy boundaries (knowing what is "mine" and "not mine")
 - Freedom from projection and delusion
@@ -666,7 +666,7 @@ The sword is wielded **wisely**—cutting only what needs to be cut, sparing wha
 
 The heart radiates **warmth, love, and light** without inflation—the sun that gives life without demanding worship.
 
-**Manifestation:**
+#### Manifestation
 - Generosity that does not deplete
 - Love that includes boundaries
 - Authority that empowers rather than dominates
@@ -678,7 +678,7 @@ The individual becomes a **source**, not merely a channel—radiant, life-giving
 
 Willing to **protect what is holy**—in oneself and in the world—with fierce love.
 
-**Manifestation:**
+#### Manifestation
 - Protecting the vulnerable
 - Defending truth without inflation
 - Standing against tyranny and oppression
@@ -690,7 +690,7 @@ The individual becomes a **guardian**—not passive, not aggressive, but **right
 
 The ego serves the Higher Self, recognizing its proper place: *"Not I, but the Self through me."*
 
-**Manifestation:**
+#### Manifestation
 - Humility without self-effacement
 - Power without tyranny
 - Individuation without inflation

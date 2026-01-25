@@ -660,7 +660,7 @@ The Shapeshifter destroys the ego's attachment to **fixed identity**. You are no
 
 This is terrifying—*"If I'm not this, who am I?"*—but liberating. You are the **space in which shapeshifting occurs**, not any single form.
 
-**Discernment:**
+#### Discernment
 The Shapeshifter forces the development of **discernment**—the capacity to see clearly through ambiguity, to distinguish essence from appearance, to hold relationship without naïve projection.
 
 This is a **hard-won skill**. It requires being deceived, betrayed, and destabilized—repeatedly—until you learn to trust your **inner knowing** rather than outer appearances.
@@ -689,13 +689,13 @@ The Shapeshifter is the **living, third thing**—the transformation that emerge
 
 The Shapeshifter is inherently **non-binary**—it transcends fixed categories of gender, identity, and form. However, its manifestation in individual lives is colored by **cultural conditioning** and **archetypal patterns** associated with gender.
 
-**In Men:**
+#### In Men
 - The Shapeshifter most often appears **externally**—projected onto women (the [[Anima]]) who seem to "change overnight." The nurturing lover becomes the cold stranger. The muse becomes the critic. Men experience this as **betrayal**, but it is often the **projection shifting**.
 - **Positive integration:** Men who integrate the Shapeshifter develop **emotional fluidity**—the capacity to adapt, to feel deeply without fragmenting, to inhabit multiple roles (father, lover, warrior, sage) without rigidity.
 - **Shadow manifestation:** The Don Juan, the player, the man who **refuses to commit** because commitment means fixing identity. This is flight from embodiment.
 - **Cultural note:** Patriarchal cultures punish male shapeshifting (men must be "strong," "consistent," "reliable"). Men who embrace fluidity (gender-nonconforming men, artists, mystics) are often marginalized.
 
-**In Women:**
+#### In Women
 - The Shapeshifter is **often culturally imposed**—women are expected to shapeshift to meet others' needs (nurturing mother, sexy lover, competent professional, selfless caregiver). This is **exhausting** and leads to fragmentation.
 - **Positive integration:** Women who integrate the Shapeshifter **consciously** reclaim their fluidity as **power**, not servitude. They shapeshift on their own terms—inhabiting multiple roles without losing center.
 - **Shadow manifestation:** The woman who shapeshifts to manipulate—using beauty, charm, or emotional volatility to control others. The "crazy-making" woman who destabilizes through unpredictability. This is often a **response to powerlessness**—if you cannot have direct power, you gain indirect power through ambiguity.

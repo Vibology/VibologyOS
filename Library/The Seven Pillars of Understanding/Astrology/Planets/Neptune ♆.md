@@ -195,7 +195,7 @@ In esoteric anatomy, Neptune governs the **pineal gland** (gateway to non-ordina
 
 Neptune's shadow is **dissolution without discernment**—the veil that obscures rather than reveals, the surrender that becomes self-erasure, the dream that becomes delusion.
 
-**Shadow expressions:**
+#### Shadow expressions
 - **Escapism:** Fleeing reality through substances, fantasy, sleep, or dissociation; the refusal to engage with what is
 - **Addiction:** Dissolution of boundaries through alcohol, drugs, or behavioral compulsions; the body and psyche drowning in the need to escape
 - **Delusion:** The inability to distinguish truth from fantasy; the mind that constructs elaborate illusions and defends them as reality

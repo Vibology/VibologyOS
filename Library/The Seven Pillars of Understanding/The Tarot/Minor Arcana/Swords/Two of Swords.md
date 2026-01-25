@@ -15,6 +15,7 @@ planetary: Moon in Libra
 decan: First decan of Libra (0-10 degrees)
 title: Lord of Peace Restored
 ---
+# Two of Swords
 
 *Lord of Peace Restored*
 

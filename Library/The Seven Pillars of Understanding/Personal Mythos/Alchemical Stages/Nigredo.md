@@ -209,7 +209,7 @@ The Nigredo is unmistakable. It feels like death:
 - **Rage or Despair:** The fire (Calcination) or water (Dissolution) of unintegrated emotion overwhelms you.
 - **Spiritual Crisis:** God feels absent. Prayer feels empty. The "dark night"—all meaning withdrawn.
 
-**In Dreams:**
+#### In Dreams
 - Descending into basements, caves, or underground tunnels
 - Being buried alive or trapped in small, dark spaces
 - The death of a loved one or your own death
@@ -335,7 +335,7 @@ The Nigredo is the death of the old ego structure. It is *mortificatio* (killing
 
 **Plot Summary:** Snow White is poisoned by her stepmother's apple and falls into a death-like sleep. She is placed in a glass coffin (the alchemical vessel) and remains there—neither alive nor dead—until the prince's kiss awakens her.
 
-**Alchemical Reading:**
+#### Alchemical Reading
 - **The Poisoned Apple:** The apple represents forbidden knowledge or the shadow. Biting it initiates the Nigredo (the innocent maiden "dies").
 - **The Glass Coffin:** The alchemical vessel. Snow White is sealed inside—visible but unreachable. She is in the *massa confusa*, the suspended state of death.
 - **The Waiting:** The prince (masculine consciousness, the animus) must find her. The awakening (Albedo) cannot happen until the Nigredo is complete.
@@ -347,7 +347,7 @@ The innocent maiden (the ego identified with purity) must "die" (encounter the s
 
 **Plot Summary:** Jonah flees from God's command, is thrown overboard during a storm, and is swallowed by a great fish. He spends three days in the belly of the fish (darkness, suffocation, digestion) before being vomited out onto dry land.
 
-**Alchemical Reading:**
+#### Alchemical Reading
 - **The Storm:** The chaos (*massa confusa*) that precedes descent.
 - **Swallowed by the Whale:** The ego is consumed by the greater totality (the Self). The whale's belly is the alchemical vessel—the womb/tomb where dissolution occurs.
 - **Three Days:** The alchemical number—the time spent in the Nigredo (compare: Christ in the tomb for three days).
@@ -544,7 +544,7 @@ Common dream motifs:
 - **Saturn/Kronos:**
   - The Nigredo is Saturnian. Saturn is the lord of time, limitation, and death. The Nigredo forces confrontation with finitude.
 
-**Archetypal Constellation:**
+#### Archetypal Constellation
 When the Nigredo is active, these archetypes often appear:
 - **The Shadow** (the rejected darkness)
 - **The Corpse** (the dead self)
@@ -579,14 +579,14 @@ When the ego surrenders to the descent—when it allows itself to be calcinated 
 7. **Acceptance of Mortality:**
    - The Nigredo teaches that the ego *will* die. This is not tragic—it is reality. Acceptance of mortality frees the individual to live fully.
 
-**Jung's Teaching:**
+#### Jung's Teaching
 
 > "There is no coming to consciousness without pain. People will do anything, no matter how absurd, to avoid facing their own soul. One does not become enlightened by imagining figures of light, but by making the darkness conscious."
 > — C.G. Jung
 
 The Nigredo is the making of the darkness conscious. It is painful. It is unavoidable. But it is the only way through.
 
-**The Gift:**
+#### The Gift
 *The soul that has endured the Nigredo cannot be destroyed by darkness again. It has descended to the depths and survived. What remains is unshakable—the Self, tempered by fire and water, ready for the work of transformation.*
 
 ---
@@ -659,7 +659,7 @@ The Nigredo is the making of the darkness conscious. It is painful. It is unavoi
 
 ---
 
-**Final Word:**
+#### Final Word
 
 *The Nigredo is not punishment—it is purification. It is not the end—it is the beginning. The soul must descend into darkness before it can rise into light. The corpse in the vessel is not waste—it is the prima materia, the raw substance from which the Philosopher's Stone will be forged.*
 
@@ -693,7 +693,7 @@ The Nigredo is the making of the darkness conscious. It is painful. It is unavoi
 - Norse *Poetic Edda*. (Odin's sacrifice on Yggdrasil, Ragnarök destruction)
 - Hindu sources: Kali's destruction, Shiva's Tandava dance
 
-**Vibology Synthesis Note:**
+#### Vibology Synthesis Note
 Cross-system correspondences (Saturn/Pluto astrology, 8th/12th Houses, Scorpio, Root/Solar Plexus HD centers, Tower/Death/Devil/Moon Tarot, Gates 47/29, Tzaphkiel/Samael angelology) represent Vibology's integration of verified alchemical Nigredo patterns across seven-pillar framework.
 
 ---

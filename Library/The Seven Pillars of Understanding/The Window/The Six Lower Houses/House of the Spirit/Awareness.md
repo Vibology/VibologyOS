@@ -86,18 +86,18 @@ In sacred traditions, this is the enlightened consciousness that sees through al
 ---
 
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 Awareness signals that **consciousness can illuminate confusion through patient imagination**. You are being called to sustain not-knowing, to trust that vision emerges through presence rather than grasping, to allow your awareness to become receptive space for meaning to reveal itself. This is not a time for forced answers or anxious certainty; it is a time for **cultivated patience with mystery**. The card affirms: your consciousness creates space for revelation. Trust the process.
 
 The appearance of Awareness also suggests that **imagination is available as genuine perception**. Gate 64's gift is activating—visionary capacity that sees emerging patterns. The question is whether you will honor this inner sight or dismiss it as "merely imagination."
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware the trap of **confusion that overwhelms rather than catalyzes**. Is mental pressure fragmenting your consciousness or focusing it? Are you sustaining healthy uncertainty or spinning in anxious chaos? Shadow also warns against **grasping for premature certainty**—collapsing complexity to escape discomfort. Check whether your need for answers prevents the deeper understanding that emerges from patient presence.
 
-**Gift Aspect:**
+#### Gift Aspect
 The way through is **imagination that perceives emerging patterns**. Trust your inner sight. Allow yourself to see what logic hasn't yet grasped. Awareness flowers when you stop demanding certainty and start cultivating quality of attention. The gift is visionary consciousness—perception that functions precisely because it doesn't force. From this imagination, illumination approaches.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 In its highest expression, Awareness becomes **Illumination**—consciousness as pure light, awareness transparent to the divine mind. Those who touch this frequency see through all confusion because they have merged with the source of seeing itself. They demonstrate that **the end of confusion is not answers but awakened awareness**—consciousness that has become one with illumination.
 
 ---

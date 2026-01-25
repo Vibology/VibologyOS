@@ -124,7 +124,7 @@ Gate 62 forms one channel:
 
 **Channel 62-17: Acceptance (The Organizing Being)** (Throat to Ajna)
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 - **Gate 62 (Throat):** "I think and express details; I name facts."
 - **Gate 17 (Ajna):** "I form opinions; I organize patterns through mental structure."
 - **Channel 62-17:** The bridge between naming and organizing—the capacity for **mental organization expressed through precise detail**.
@@ -137,7 +137,7 @@ This channel creates the archetype of **The Organizing Being**—the one who see
 
 Gate 62 is located in the **Throat Center**, which corresponds biologically to the **thyroid gland** (metabolism and energy regulation), the **vocal cords** (physical voice), and the **language processing centers** of the brain.
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 62 defined may experience:
 - A **compulsion to name and organize**—the body relaxes when details are articulated
@@ -145,7 +145,7 @@ Individuals with Gate 62 defined may experience:
 - **Verbal precision**—the voice naturally gravitates toward specific, factual language
 - **Mental clarity through speaking**—understanding emerges through the act of naming
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Throat Center radiates **expression and manifestation** into the aura. When Gate 62 is active, the aura carries a frequency that says: "I think. I know the details. Let me name them." Others may feel this as **clarifying**, **pedantic** (if detail overwhelms), or (if the individual is in Not-Self) **overwhelming and nitpicky**.
 
@@ -187,7 +187,7 @@ The 28-day lunar cycle allows the Reflector to sample Gate 62's voice across mul
 - **Obsessive Detail:** Inability to see the forest for the trees; lost in specifics without grasping patterns.
 - **Verbal Exhaustion:** Speaking constantly to organize thoughts; unable to rest because details demand expression.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Speaking details that no one asked for or needs
 - Correcting others' language compulsively
@@ -216,7 +216,7 @@ The **7-year deconditioning cycle** for Gate 62 involves learning to recognize w
 
 **Year 7:** Integration phase—detail work becomes aligned with Strategy and Authority. Intellect transforms into Precision (Gene Keys Gift), and the individual experiences **the art of naming**—facts organized with such clarity that patterns illuminate themselves. Impeccability flows naturally when detail serves truth.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice when the impulse to speak details arises. Is it in the Throat (correct expression) or the mind (conditioned need to prove knowledge)?
 - Practice **silence with details**—allow facts to exist without naming them unless invited or correct to share.
@@ -266,14 +266,14 @@ In Jungian terms, Gate 62 corresponds to the **Thinking Function** (specifically
 
 The Scribe archetype records, names, and organizes—not for personal glory but to serve collective memory. This is not the philosopher who interprets; this is the archivist who **catalogs facts so others can find patterns**. Gate 62 is the scribe's capacity to **name what is without distortion**.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 62** manifests as:
 - **Pedantry:** Using detail to dominate; correcting others to assert superiority.
 - **Obsessive Precision:** Losing the pattern in the details; unable to see beyond facts.
 - **Intellectual Bypassing:** Using facts to avoid emotional or intuitive truth; hiding behind precision.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 62, individuation requires:
 1. **Integration of Detail and Pattern:** Recognizing that facts serve understanding; details exist to reveal larger truths.
@@ -286,7 +286,7 @@ When integrated, Gate 62 becomes the expression of the **Precise Self**—the ca
 
 When the individual with Gate 62 operates according to their Strategy and Authority, the gift that emerges is **Precision** (Gene Keys) and **Clarity Through Detail** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Details are named only when correct to share.
 - Facts are organized in service to collective understanding.
@@ -301,7 +301,7 @@ The Signature of the Throat Center (for all gates within it) is the experience o
 - **Details organized with discipline** (Line 6)—precision as mastery
 - **Facts spoken only when they serve**, releasing compulsive expression
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 62 teaches that **details matter**. When the individual honors their voice of fact according to Strategy and Authority, they become a **living example** of what it means to name precisely, to organize for collective understanding, to use language in service to pattern recognition. This is the essence of the Logic Circuit—not to speculate, but to **name what is so it can be tested and known**.
 

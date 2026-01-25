@@ -86,18 +86,18 @@ In sacred traditions, this is the hero whose adventure becomes myth—not throug
 ---
 
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 Adventure signals that **the game is worth playing, the struggle is worth engaging**. You are being called to risk, to commit fully, to embrace life's critical mass as opportunity rather than threat. This is not a time for safety or guaranteed outcomes; it is a time for **totality of commitment to what matters**. The question is: **what struggle calls for your complete engagement? What would you risk everything for?**
 
 The appearance of Adventure also suggests that **meaning emerges through the struggle itself, not after it**. Gate 28's existential wisdom is activating—circumstances support purposeful risk, life is asking you to play. The question is whether you will engage with totality or hold back from fear of impermanence.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware the trap of **purposeless adventuring**—taking risks to avoid stillness, fighting battles that have no meaning, confusing motion with purpose. The shadow manifests as adrenaline addiction disguised as courage, nihilism disguised as existential acceptance, compulsive engagement disguised as total commitment. Check whether your struggle creates meaning or merely distracts from the void. Shadow also warns against **paralysis through awareness of transience**: so conscious of impermanence that you refuse to engage anything temporary—which means refusing to engage anything at all.
 
-**Gift Aspect:**
+#### Gift Aspect
 When Adventure expresses its gift, you experience **totality of engagement with the struggle that matters**. You fight not from desperation but from recognition that this battle, this risk, this adventure is where meaning crystallizes. This is the gift of **presence in the fight**: fully here, fully committed, bringing complete vitality to bear. From this totality, even temporary outcomes achieve eternal significance—not despite impermanence but through embracing it.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 In its highest expression, Adventure becomes **Immortality**—the recognition that your total commitment transcends your survival. You embody the hero whose story outlives their bones, whose struggle becomes part of the eternal pattern. Those who touch this frequency participate in **meaning that death cannot end**, adventure that ripples beyond individual existence into the ongoing story of life itself.
 
 ---

@@ -210,7 +210,7 @@ The Albedo is the recovery of vision, clarity, and objectivity after a period of
 - **Creative Insight:** Ideas, images, or inspirations flow clearly. The Albedo is often a period of creative productivity—the purified psyche can now channel the unconscious consciously.
 - **Spiritual Awakening:** A sense of clarity, peace, or connection to the sacred. The Albedo is the "clean slate"—the soul washed of the Nigredo's darkness.
 
-**In Dreams:**
+#### In Dreams
 - Washing, bathing, showering (purification)
 - White clothing, white flowers (purity, clarity)
 - The Moon, moonlight, silver objects (reflection, soul)
@@ -349,7 +349,7 @@ Psychologically, this is the washing away of projections, complexes, and unconsc
 
 **Plot Summary:** Cinderella sits in the ashes (Nigredo degradation). Her fairy godmother appears and transforms her—she is washed, dressed in silver and white, and sent to the ball. The prince sees her and falls in love (Anima/Animus projection). At midnight, the spell breaks—she flees, leaving the glass slipper (the test of true identity).
 
-**Alchemical Reading:**
+#### Alchemical Reading
 - **Sitting in Ashes:** Cinderella is in the Nigredo—blackened, degraded, unseen.
 - **The Washing:** The fairy godmother's magic is the Albedo operation—Cinderella is washed clean, clothed in light (white/silver gown), and elevated.
 - **The Ball:** The Albedo as the moment of *being seen*. The prince (animus) recognizes her soul (not her persona, not her shadow, but her essence).
@@ -362,7 +362,7 @@ The soul (Cinderella) is separated from the shadow (stepmother, stepsisters) and
 
 **Plot Summary:** Rapunzel is imprisoned in the tower (Nigredo isolation). The prince climbs her hair (the connection between conscious and unconscious) and they fall in love. The witch discovers them, cuts Rapunzel's hair, and casts the prince into thorns—he is blinded (Nigredo crisis). Rapunzel wanders in the wilderness, gives birth to twins. Years later, she finds the blinded prince. Her tears fall on his eyes, and his sight is restored (Albedo).
 
-**Alchemical Reading:**
+#### Alchemical Reading
 - **The Tower:** Nigredo as isolation, imprisonment in the unconscious.
 - **The Blinding:** Nigredo as the loss of vision, clarity, objectivity.
 - **The Tears:** The Albedo water—tears are the liquid of the soul, the purified emotion. They *wash* the prince's eyes.
@@ -554,7 +554,7 @@ Common dream motifs:
 - **The Moon:**
   - The Albedo is lunar. The Moon reflects light (it does not generate it). So too, the Albedo consciousness reflects the Self without claiming to *be* the Self. The Moon is cyclical—the Albedo teaches that consciousness waxes and wanes, it is not constant.
 
-**Archetypal Constellation:**
+#### Archetypal Constellation
 When the Albedo is active, these archetypes often appear:
 - **The Anima/Animus** (soul-image, bridge to unconscious)
 - **The Mentor** (wise guide, teacher, initiator)
@@ -589,14 +589,14 @@ When the individual engages with the Albedo without being possessed by it—when
 7. **The Middle Way:**
    - The Albedo teaches balance—not too much ego (inflation), not too much unconscious (dissolution), but the middle ground. The soul is the bridge.
 
-**Jung's Teaching:**
+#### Jung's Teaching
 
 > "Only through objective cognition is the real coniunctio possible."
 > — C.G. Jung, *Memories, Dreams, Reflections*
 
 The Albedo is the stage of objective cognition. Without it, the final union (Rubedo) is merely fusion, inflation, or regression. The Albedo's clarity is the foundation for the ultimate work.
 
-**The Gift:**
+#### The Gift
 *The soul that has embodied the Albedo can see clearly—both inward and outward. It is no longer possessed by projections, moods, or unconscious identifications. It is purified, reflective, and ready for the final work: the reunion of opposites, the marriage of soul and body, the return to the world as a whole being.*
 
 ---
@@ -681,7 +681,7 @@ The Albedo is the stage of objective cognition. Without it, the final union (Rub
 
 ---
 
-**Final Word:**
+#### Final Word
 
 *The Albedo is the recovery of vision after blindness, clarity after confusion, light after darkness. It is the soul separated from the body—not in death, but in differentiation. The Albedo teaches that objectivity is love: to see clearly is to see truly, and to see truly is to see the divine in the human, the eternal in the temporal, the Self in the other.*
 
@@ -722,7 +722,7 @@ The Albedo is the stage of objective cognition. Without it, the final union (Rub
 - Rapunzel's exile and healing tears
 - Frog Prince transformation
 
-**Vibology Synthesis Note:**
+#### Vibology Synthesis Note
 Cross-system correspondences (Moon/Venus astrology, 7th House, Libra/Pisces, Sacral/Splenic HD centers, Temperance/Star Tarot, Gates 59/6, Tzadkiel/Gabriel/Raphael angelology) represent Vibology's integration of verified alchemical Albedo patterns across seven-pillar framework.
 
 ---

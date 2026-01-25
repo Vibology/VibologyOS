@@ -118,7 +118,7 @@ Channel 16-48 contributes to this by:
 
 **Visual/Optical Nature:** Logic Circuit channels are **visual**—they must SEE the pattern, the proof, the demonstration. This is why 16-48 individuals often teach by **showing**, not just telling.
 
-**Why This Channel is Projected:**
+#### Why This Channel is Projected
 
 The Throat connection is from the **Spleen** (non-motor), not from a motor center (Sacral, Solar Plexus, Ego, Root). Therefore, this channel **cannot generate sustained work** or manifest independently. It is **Projected**—it requires **recognition and invitation** to share its mastery.
 

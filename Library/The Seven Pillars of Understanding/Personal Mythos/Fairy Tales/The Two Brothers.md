@@ -114,7 +114,7 @@ In the **positive arc** of the motif—found in many fairy tales and initiatory 
 4. The rescue often requires **sacrifice, violence, or forbidden knowledge**—tasks the Light Brother cannot perform.
 5. The brothers are **reunited**, and wholeness is restored.
 
-**Examples:**
+#### Examples
 
 **The Egyptian Tale of the Two Brothers (Papyrus D'Orbiney, ~1185 BCE):**
 - The younger brother **Bata** enchants his heart and hides it in an acacia tree. When the tree is cut down, he dies.
@@ -247,7 +247,7 @@ In alchemy, the Two Brothers are **Sulphur and Mercury**, the **Red King and Whi
 
 In the **Thoth Tarot**, Aleister Crowley **renames** this card **"The Brothers"**, explicitly referencing **Cain and Abel**. The Rider-Waite-Smith deck depicts Adam and Eve in Eden, but Crowley's version shows the **alchemical wedding** and the **tension of opposites**.
 
-**Symbolism:**
+#### Symbolism
 - **The Angel Raphael** – The divine witness, the Self overseeing the union of opposites.
 - **The Two Figures** – Not merely "lovers" but **complementary opposites**: Ego and Shadow, Solar and Lunar, Sulphur and Mercury.
 - **The Sword** – The analytical mind, the act of **Separatio** that divides before it can unite.
@@ -264,7 +264,7 @@ In the **Thoth Tarot**, Aleister Crowley **renames** this card **"The Brothers"*
 
 The Devil represents the **Shadow's domination** when integration fails. The two figures chained at the Devil's feet are the **brothers in bondage**—the Ego and Shadow locked in neurotic conflict, unable to separate or unite.
 
-**Symbolism:**
+#### Symbolism
 - **The Chains** – Loose enough to slip off, signifying that the bondage is **voluntary**. The psyche **chooses** to remain split.
 - **The Inverted Pentagram** – Matter over spirit, the Shadow ruling consciousness.
 - **The Two Chained Figures** – The Light Brother and Dark Brother, bound to each other through **projection and compulsion** rather than conscious relationship.
@@ -275,7 +275,7 @@ The Devil represents the **Shadow's domination** when integration fails. The two
 
 Death represents the **ego-death** required for transformation. One brother must "die" for wholeness to emerge.
 
-**Symbolism:**
+#### Symbolism
 - **The Reaper** – The force of transformation that cuts down the old structure.
 - **The Fallen King** – The Ego's surrender, the death of the Light Brother's inflation.
 - **The Rising Sun** – Rebirth on the other side of death—the integrated Self.
@@ -286,7 +286,7 @@ Death represents the **ego-death** required for transformation. One brother must
 
 Temperance depicts the **alchemical wedding**—the union of opposites after Separatio and purification.
 
-**Symbolism:**
+#### Symbolism
 - **The Angel** – The Self, the reconciling force that mediates between Ego and Shadow.
 - **The Two Vessels** – Pouring water (consciousness) between them, mixing **Solar and Lunar**, Fire and Water, Light Brother and Dark Brother.
 - **One Foot on Land, One in Water** – Standing between conscious (land) and unconscious (water), integrating both.
@@ -341,7 +341,7 @@ The Western heroic tradition emphasizes **conquest**—the hero slays the dragon
 
 The conquest model produces **inflation** and **return of the repressed**. The Shadow, "slain," constellates in the unconscious and **returns with vengeance**. The interdependence model produces **dynamic equilibrium**—the Ego and Shadow in conscious relationship, each tempering the other.
 
-**Practical Application:**
+#### Practical Application
 - **Stop trying to "fix" or "destroy" your shadow traits** (anger, desire, ambition, wildness).
 - **Enter into dialogue** with the Dark Brother: "What do you need? What gift do you bring?"
 - **Recognize the vitality** the Shadow carries—the parts of yourself you rejected are often the source of **creativity, passion, and power**.
@@ -350,7 +350,7 @@ The conquest model produces **inflation** and **return of the repressed**. The S
 
 The **mark of Cain** is the symbol of **consciousness born from violating original unity**. Cain, having murdered Abel, is **marked by God** and exiled. But the mark also **protects him from being killed**—"Whoever kills Cain will suffer sevenfold vengeance" (Genesis 4:15).
 
-**Psychological Meaning:**
+#### Psychological Meaning
 - The mark is **consciousness itself**—the knowledge of separation, guilt, exile from wholeness (Eden).
 - Cain cannot return to innocence (the uroboric unconscious). He must wander (individuate) in the land of **Nod** ("wandering").
 - But the mark also **protects**—the Shadow, once acknowledged, cannot be destroyed without destroying the psyche. To kill Cain is to kill consciousness.
@@ -373,12 +373,12 @@ In the Egyptian "Tale of the Two Brothers," Bata enchants his heart and hides it
 - The tree represents the **invisible connection**—though the brothers are separated, they share a **common life force**.
 - If the tree withers or is cut, one brother dies—**the psyche cannot survive when Ego and Shadow are severed**.
 
-**Psychological Meaning:**
+#### Psychological Meaning
 - The Ego and Shadow are **not separate beings** but **aspects of a single psyche**.
 - Repression of the Shadow (cutting the tree) leads to the **death of vitality**—depression, anemia, loss of Eros.
 - Integration requires the Ego (Anpu) to **search for the Shadow's heart** (the hidden vitality) and restore it to consciousness.
 
-**Practical Application:**
+#### Practical Application
 - When you feel **lifeless, depressed, or "dead inside,"** ask: *"What part of my vitality have I severed? What Shadow trait have I rejected?"*
 - The tree is the **body** itself—the somatic, instinctual, erotic life force that the Ego often sacrifices for social acceptance.
 - Restoration requires **descending into the wilderness** (the unconscious) and **retrieving what was lost**.
@@ -588,7 +588,7 @@ In **elderhood**, the Two Brothers motif becomes a question of **reconciliation*
 
 ## Cross-References
 
-**Archetypal Figures:**
+#### Archetypal Figures
 [[The Shadow]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Hero]] • [[The Alchemist]] • [[The Muse]] • [[The Idol]] • [[The Wise Old Man]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Persona]] • [[The Syzygy]]
 
 **Jungian Concepts:**
@@ -597,22 +597,22 @@ In **elderhood**, the Two Brothers motif becomes a question of **reconciliation*
 **Tarot Keys:**
 [[The Lovers]] • [[The Devil]] • [[Death]] • [[Temperance]] • [[The Tower]] • [[The Moon]] • [[Judgment]] • [[The Hermit]]
 
-**Alchemical Stages:**
+#### Alchemical Stages
 [[Nigredo]] • [[Albedo]] • [[Rubedo]] • [[Separatio]] • [[Solve et Coagula]] • [[Coniunctio]] • [[Philosopher's Stone]] • [[Chemical Wedding]]
 
-**Mythological Parallels:**
+#### Mythological Parallels
 [[Egyptian Mythology]] (Osiris and Set) • [[Greek Mythology]] (Castor and Pollux) • [[Norse Mythology]] (Baldur and Höðr) • [[Native American Mythology]] (Twin Heroes) • [[Biblical Mythology]] (Cain and Abel, Jacob and Esau)
 
-**Fairy Tale Motifs:**
+#### Fairy Tale Motifs
 [[Beauty and the Beast]] • [[The Frog King]] • [[Sleeping Beauty]] • [[Cinderella]] • [[The Dragon-Slayer]] • [[The Golden Bird]] • [[The Animal Bridegroom]]
 
-**Human Design Connections:**
+#### Human Design Connections
 [[Gate 6 - Conflict]] • [[Open Centers]] • [[Not-Self]] • [[Channel 10-20 - Awakening]] • [[Channel 27-50 - Preservation]] • [[Solar Plexus Center]] • [[Emotional Authority]]
 
-**Individuation Process:**
+#### Individuation Process
 [[Ego Formation and Childhood]] • [[Persona Development]] • [[Confrontation with Shadow]] • [[Encounter with Anima-Animus]] • [[Confrontation with the Self]] • [[Integration and Wholeness]]
 
-**Hero's Journey Stages:**
+#### Hero's Journey Stages
 [[The Call to Adventure]] • [[Crossing the First Threshold]] • [[The Road of Trials]] • [[The Ordeal]] • [[Atonement with the Father]] • [[The Resurrection]] • [[Return with the Elixir]]
 
 **Astrological Correspondences:**
@@ -621,7 +621,7 @@ In **elderhood**, the Two Brothers motif becomes a question of **reconciliation*
 **I-Ching Hexagrams:**
 [[Hexagram 38 - Opposition]] • [[Hexagram 31 - Influence]] • [[Hexagram 29 - The Abysmal]]
 
-**Related Tales:**
+#### Related Tales
 [[Hansel and Gretel]] • [[Snow White]] • [[The Handless Maiden]] • [[Bluebeard]] • [[East of the Sun, West of the Moon]] • [[The Juniper Tree]]
 
 ---

@@ -171,7 +171,7 @@ Distillation is the quiet work of repetition and refinement. It feels like patie
 - **Repeated Trials:** You keep encountering the same lesson in different forms. Same wound, different relationship. Same fear, different job. Distillation is the circulation of the lesson until it is fully learned.
 - **Journaling or Dream Work:** Recording dreams (ascent from unconscious) and reflecting on their meaning (descent into conscious life). Over time, patterns emerge—the distilled essence of the psyche's message.
 
-**In Dreams:**
+#### In Dreams
 - Ascending and descending stairs, ladders, mountains, or elevators
 - Water evaporating and condensing (steam, dew, rain cycles)
 - Messengers or birds flying between heaven and earth
@@ -304,7 +304,7 @@ The Albedo is the circulation of light—not the harsh solar light of the ego, b
 
 **Plot Summary:** Rapunzel, born to peasants who stole from a witch's garden, is taken as payment and imprisoned in a tower with no door, only a high window. A prince hears her singing, climbs her long hair, and they fall in love. The witch discovers them, cuts Rapunzel's hair, banishes her to the wilderness, and tricks the prince, who falls from the tower and is blinded by thorns. Years later, Rapunzel (now a mother of twins) finds the blind prince. Her tears fall on his eyes and heal his blindness.
 
-**Alchemical Reading:**
+#### Alchemical Reading
 - **Distillation:** Rapunzel is trapped in the tower (spirit isolated in the heights, inflation, inability to descend). The prince's climbing represents attempted connection between earth (conscious) and tower (unconscious, Anima).
 - **The Fall:** The prince's fall and blinding is failed Distillation—the ascent was premature, not grounded. He must endure blindness (darkness, wandering, humility) as preparation for true Distillation.
 - **The Tears as Dew:** Rapunzel's tears are the *distilled essence* of her suffering, her love, her purification in the wilderness. Tears are liquid emotion, descending (spirit made matter). When they touch the prince's eyes (earth, body), they heal. This is perfect Distillation: spirit (tears) condensing on matter (eyes) to restore vision (consciousness).
@@ -314,7 +314,7 @@ The Albedo is the circulation of light—not the harsh solar light of the ego, b
 
 **Plot Summary:** Jack trades his mother's cow for magic beans. The beanstalk grows overnight, reaching into the clouds. Jack climbs it *three times*, each time stealing from the giant (golden coins, a hen that lays golden eggs, a golden harp). On the third trip, the giant chases him down. Jack chops down the beanstalk, killing the giant, and lives prosperously.
 
-**Alchemical Reading:**
+#### Alchemical Reading
 - **Distillation:** Jack's three ascents are the *circulatio*—the repeated ascent into the unconscious (clouds, giant's realm) and descent back to earth (mother's house, conscious life). Each ascent brings back treasure (psychological content from the unconscious).
 - **The Giant:** The archetypal realm—vast, dangerous, numinous. The unconscious is a "giant" compared to the ego. It can devour you if you stay too long (inflation).
 - **The Treasures:** Each item is increasingly alive: coins (inanimate wealth), hen (generative power), harp (creative voice, song). The distillations become more subtle, more essential.
@@ -510,7 +510,7 @@ Common dream motifs:
 - **Conjunction (Future Operation):**
   - Distillation prepares the substances for Conjunction (union of opposites). The King and Queen (Sol and Luna, conscious and unconscious) must be distilled (purified) before they can unite. Without Distillation, Conjunction is premature (inflation, possession by the unconscious).
 
-**Archetypal Constellation:**
+#### Archetypal Constellation
 When Distillation is active, the following archetypes are often present:
 - **Hermes/Mercury** (the circulation itself, the messenger)
 - **The Hermit** (withdrawal for refinement, then return)
@@ -547,12 +547,12 @@ When the psyche embraces the work of circulation—when insights are patiently b
 8. **Freedom from Inflation and Rigidity:**
    - The distilled soul is neither lost in the clouds (inflation) nor stuck in the mud (rigidity). They can ascend (dream, vision, mystical experience) and descend (work, relationship, embodiment) with ease. The circulation is fluid.
 
-**Jung's Teaching:**
+#### Jung's Teaching
 
 > "The psyche is a self-regulating system, like the body. It seeks equilibrium through the circulation of opposites. Distillation is the conscious participation in this circulation."
 > — C.G. Jung, *Mysterium Coniunctionis* (CW 14)
 
-**The Gift:**
+#### The Gift
 *The soul that has been distilled knows itself. It has circulated between light and dark, spirit and matter, vision and action, so many times that it can hold the tension of opposites without splitting. This is the essence of wisdom: not choosing one pole, but circulating between them, refining both.*
 
 ---
@@ -621,7 +621,7 @@ When the psyche embraces the work of circulation—when insights are patiently b
 
 ---
 
-**Final Word:**
+#### Final Word
 
 *Distillation is the patient work of a lifetime. It is the refusal of both inflation (staying in the clouds) and rigidity (stuck in the mud). It is the practice of bringing the vision down to earth and allowing the earth to refine the vision. Over and over. Day by day. Breath by breath.*
 
@@ -660,7 +660,7 @@ When the psyche embraces the work of circulation—when insights are patiently b
 - Hindu: Karma yoga (action as repeated refinement), daily puja (ritual circulation)
 - Christian: Daily Office (liturgical hours), rosary (repetitive prayer)
 
-**Vibology Synthesis Note:**
+#### Vibology Synthesis Note
 Cross-system correspondences (Mercury/Virgo astrology, repeated transits, Hermit Tarot, disciplined HD practice) represent Vibology's integration of verified alchemical Distillation patterns across seven-pillar framework.
 
 ---

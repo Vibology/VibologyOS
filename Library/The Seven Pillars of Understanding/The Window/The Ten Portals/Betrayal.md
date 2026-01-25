@@ -11,6 +11,7 @@ gate: 59
 hexagram: 59 (Dispersion)
 gene_keys: Dishonesty → Intimacy → Transparency
 ---
+# Betrayal
 *Dispersion - Severing of Known Support*
 
 ---
@@ -63,16 +64,16 @@ Dishonesty → Intimacy → Transparency
 
 ---
 ## Oracle Reading
-**When this portal appears:**
+#### When this portal appears
 You are experiencing betrayal. An intimate bond—marriage, partnership, friendship, tribal membership—is being severed or has been violated. Barriers you broke down to create connection have been dishonored. The question is: can you grieve this dispersion? Can you recognize that the intimacy created was real even if it was betrayed? Can you rebuild your barriers without closing your heart completely? Betrayal calls: **wind disperses water**—what was gathered will scatter, and the severing is necessary to protect what remains.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware dishonesty within yourself—recognizing that betrayal sometimes reveals where you broke barriers you should have honored, where you created intimacy inauthentically, where your own sexual energy served ego rather than tribe. The shadow projects betrayal outward, refusing to see where dishonesty originated within. Beware also becoming impenetrable: rebuilding barriers so high that future intimacy becomes impossible, protecting yourself so thoroughly that tribal bonding can no longer occur. True healing requires **selective transparency**—not all barriers, but discerning barriers.
 
-**Gift Aspect:**
+#### Gift Aspect
 The betrayal, though painful, is teaching you **discernment in intimacy**. You are learning which bonds are correct and which deplete, which barriers should be dissolved and which protect necessary sovereignty. The severing is clarifying: this connection violated tribal law, dishonored the vulnerability you risked, dispersed energy that should have been nourishing. Now grieve, rebuild selectively, and trust that future intimacy will be more discerning.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 You embody Transparency—the recognition that betrayal reveals where dishonesty existed, that severing clears space for bonds built on truth, that radical openness is only possible with those who honor vulnerability. You are wind that disperses false intimacy so true communion can form. Betrayal as Portal inverted: **transparency purifies connection**. Only honest bonds survive the wind. Only sacred intimacy nourishes the tribe.
 
 ---

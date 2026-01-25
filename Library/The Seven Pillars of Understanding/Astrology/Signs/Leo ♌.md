@@ -185,7 +185,7 @@ In traditional medical astrology, Leo governs[^6]:
 
 The Leo shadow is **the false king**—the ruler who performs sovereignty without embodying it, the artist who creates for applause rather than truth.
 
-**Shadow expressions:**
+#### Shadow expressions
 - **Narcissism:** The collapsed ego that demands constant validation, the self that exists only in the mirror of others.
 - **Tyranny:** The inflated ego that rules through domination, the king who cannot tolerate dissent.
 - **Creative Blockage:** The artist paralyzed by fear of judgment, the self that cannot create without an audience.

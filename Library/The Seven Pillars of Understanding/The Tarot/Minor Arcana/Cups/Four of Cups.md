@@ -15,6 +15,7 @@ planetary: Moon in Cancer
 decan: Cancer 20°-30° (3rd Decan)
 title: Lord of Blended Pleasure
 ---
+# Four of Cups
 *The Lord of Blended Pleasure*
 
 ---
@@ -304,7 +305,7 @@ The Three of Cups is celebration, abundance, communal joy—the dance of the Gra
 **Following Card: [[Five of Cups]]**
 The Five of Cups is grief, loss, and the spilled cups that cannot be recovered. If the Four is stagnation, the Five is *rupture*—the breaking that forces feeling. The Four's comfortable numbness cannot last; eventually, something is lost, and the figure must *feel* again (even if what he feels is sorrow). The Four refuses the fourth cup; the Five experiences what happens when cups are *taken away*.
 
-**Corresponding Cards in Other Suits:**
+#### Corresponding Cards in Other Suits
 - **[[Four of Wands]]** (Fire): Celebration and perfected work. Where Wands celebrates completion, Cups endures it with dissatisfaction.
 - **[[Four of Swords]]** (Air): Rest after battle, meditation, recovery. Both Fours emphasize withdrawal, but Swords rests to heal, while Cups withdraws from *ennui*.
 - **[[Four of Pentacles]]** (Earth): Hoarding, material security, holding tight. Pentacles clings to possessions; Cups is surrounded by plenty but cannot enjoy it.

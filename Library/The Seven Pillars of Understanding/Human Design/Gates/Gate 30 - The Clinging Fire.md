@@ -122,7 +122,7 @@ Because the Collective Sensing Circuit is designed for **learning through emotio
 
 Gate 30 forms **Channel 30-41: Recognition (Fantasy)** when connected to Gate 41 in the Root Center.
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 
 - **Gate 30 (Solar Plexus):** "I have the feelings, the desire, the emotional intensity that clings to experience."
 - **Gate 41 (Root):** "I have the pressure to begin, to initiate new experiences, to start the emotional cycle."
@@ -132,7 +132,7 @@ When this channel is defined, the individual has **consistent access to emotiona
 
 **Without the channel defined** (only Gate 30 activated), the individual experiences **feelings without initiation**—they have emotional intensity but may not feel driven to begin new experiences. They may need another person with Gate 41 to complete the electromagnetic circuit—someone who provides the pressure to start.
 
-**Interpersonal Electromagnetic Dynamics:**
+#### Interpersonal Electromagnetic Dynamics
 
 - **Both have Channel 30-41:** Potential mutual desire for new experiences or competition over whose emotional journey is more significant.
 - **One has Gate 30, other has Gate 41:** The Gate 30 person provides the emotional intensity; the Gate 41 person provides the initiating pressure. This can be profoundly effective—feeling and beginning.
@@ -142,7 +142,7 @@ When this channel is defined, the individual has **consistent access to emotiona
 
 Gate 30 is located in the **Solar Plexus Center**, which corresponds biologically to the **kidneys, pancreas, prostate, lungs (partially), and the nervous system**—organs associated with emotional processing, energy regulation, and sensitivity.
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 30 defined may experience:
 - **Intense emotional waves and desire cycles**—feelings that rise and fall, cravings that come and go
@@ -150,7 +150,7 @@ Individuals with Gate 30 defined may experience:
 - **Pancreatic/blood sugar fluctuations with emotional intensity**—desire and emotional burnout affect physical energy
 - **Nervous system reactivity to unfulfilled desire**—the body feels the frustration of longing
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Solar Plexus Center radiates **emotional waves** into the aura. When Gate 30 is active, the aura carries a frequency that says: "I feel intensely, I desire, I cling to experience." Others may feel this as **passionate**, **alive**, or (if the individual is in Not-Self) **needy** or **emotionally overwhelming**.
 
@@ -188,7 +188,7 @@ The emotional intensity is inconsistent (activated only by transits or others). 
 - **Despair:** Recognizing limitation but becoming hopeless, collapsing into resignation without finding wisdom.
 - **Emotional Neediness:** Clinging to people or experiences desperately, creating dependency through desire.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Frustration from pursuing desires without Sacral response (for Generators)
 - Bitterness from sharing feelings without invitation (for Projectors)
@@ -216,7 +216,7 @@ The **7-year deconditioning cycle** for Gate 30 involves learning to recognize w
 
 **Year 7:** Integration phase—desire becomes aligned with the Gift of Lightness (Gene Keys). The individual feels deeply, clings to experience with awareness, and accepts limitation as fate without despair. Desire is experienced with rapture, not suffering.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice where desire arises in the body. Is it the solar plexus (genuine emotion)? The gut (anxiety)? The mind (fantasy)?
 - Practice **riding the emotional wave** before acting on feelings—feel the full spectrum from high to low.
@@ -264,14 +264,14 @@ In Jungian terms, Gate 30 corresponds to the **Eros Function**—the psychologic
 
 The archetype of the lover who desires intensely, who clings to the beloved, who recognizes that limitation is the very condition that makes love possible. This is the capacity for **emotional depth through attachment**.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 30** manifests as:
 - **The Addict:** Clinging compulsively, chasing intensity, never satisfied, suffering through insatiable desire.
 - **The Manipulator:** Using feelings to control, creating drama to feel alive, weaponizing emotion.
 - **The Despairing:** Recognizing limitation but collapsing into hopelessness, unable to find meaning in desire.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 30, individuation requires:
 1. **Recognizing that desire is fate, not failure:** Clinging is human, not pathological.
@@ -284,7 +284,7 @@ When integrated, Gate 30 becomes the expression of **rapture**—the capacity to
 
 When the individual with Gate 30 operates according to their Strategy and Authority, the gift that emerges is **Lightness** (Gene Keys) and **Emotionally Wise Desire** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Desire flows from emotional clarity (riding the wave for Emotional Authority), not desperation.
 - Clinging is conscious—the individual knows they are bound and accepts it without despair.
@@ -299,7 +299,7 @@ The Signature of the Solar Plexus Center (when operating correctly through Emoti
 - **Desire that serves**—clinging that creates wisdom, not suffering
 - **Lightness despite intensity**—feeling deeply without being consumed
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 30 teaches that **desire is not the enemy—unconscious desire is**. When the individual honors their emotional wave, clings to experience with awareness, and accepts limitation as fate without despair, they become a **living example** of emotional wisdom. This is the essence of the Collective Sensing Circuit—to feel deeply, learn through experience, and contribute understanding to the collective.
 

@@ -14,6 +14,7 @@ element_primary: Air
 element_secondary: Water
 title: Lord of the Waves and Waters, King of the Hosts of the Sea
 ---
+# Knight of Cups
 *Lord of the Waves and Waters, King of the Hosts of the Sea*
 
 ---
@@ -73,7 +74,7 @@ The Knight of Cups as a **Process** or **Energy**: The arrival of an offer, invi
 
 **Keywords**: Romantic approach, invitation, proposition, the messenger of love, the grail quest, idealism in action, artistic pursuit, graceful movement, the offer extended, arrival of beauty.
 
-**Reversed (per Waite):**
+#### Reversed (per Waite)
 
 Trickery, artifice, subtlety, swindling, duplicity, fraud. The reversal corrupts the romantic approach into manipulation and deception. The reversed Knight can signify:
 - **Seduction with intent to harm**: The beautiful approach that conceals predatory purpose

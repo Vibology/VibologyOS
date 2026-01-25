@@ -86,18 +86,18 @@ In sacred traditions, this is the understanding that dharma (correct action) req
 ---
 
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 Discipline signals that **mastery requires accepting appropriate limitation**. You are being called to discern which constraints serve your achievement and which merely frustrate without purpose. This is not a time for scattered expansion or fighting against all boundaries; it is a time to identify the limitations that will focus your energy and accept them fully. The card affirms: excellence emerges within structure. Will you accept the discipline required?
 
 The appearance of Discipline also suggests that **realistic assessment is needed**. Gate 60's realism is activating—honest evaluation of conditions, clear-eyed recognition of what's possible and what's not. The question is whether you will work with reality or exhaust yourself fighting against it.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware the trap of **limitation experienced as imprisonment**. Are you resenting constraints that actually serve mastery? Are you fighting against structure that would focus your energy? Check whether your resistance to limitation is wisdom (recognizing oppressive constraint) or ego (refusing all structure). Shadow also warns against **excessive self-limitation**—rules so rigid they prevent growth, perfectionism so demanding it prevents completion. Discipline is not self-punishment; it's focused enablement.
 
-**Gift Aspect:**
+#### Gift Aspect
 When Discipline expresses its gift, you embody **realism that enables effective action**. You see conditions clearly—both constraints and possibilities. You accept what cannot be changed and work skillfully with what can. This is the gift of **grounded achievement**—mastery built on accurate perception rather than fantasy, excellence achieved within real conditions rather than imagined ideal ones.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 In its highest expression, Discipline becomes **Justice**—the recognition that limitation is sacred, that constraints define contribution, that accepting one's bounded role enables alignment with cosmic order. You don't resent your limitations; you recognize them as the shape of your particular offering. Those who touch this frequency understand that **meaningful contribution requires accepted constraint**—that the artist's medium, the healer's modality, the teacher's curriculum are not restrictions but the very form through which excellence manifests.
 
 ---

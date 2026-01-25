@@ -189,7 +189,7 @@ The Citrinitas has a distinct feeling—not the darkness of Nigredo, not the coo
 - **Spiritualization of Matter:** You begin to see the *gold* in ordinary life. The psyche has intrinsic value—you no longer need external validation. Your worth is *inherent*, like the golden seed in the darkness.
 - **Teaching and Mentoring:** You feel called to share what you've learned. Not from ego (inflation), but from genuine ripening. You have fruit to offer.
 
-**In Dreams:**
+#### In Dreams
 - Sunrise, dawn breaking over mountains or water
 - Yellow flowers (sunflowers, marigolds, golden roses)
 - Ripe fruit (golden apples, pears, grain ready for harvest)
@@ -314,7 +314,7 @@ The Citrinitas is the moment when the individual realizes: *I have my own light*
 
 **Plot Summary:** A miller's daughter is forced to spin straw into gold or be killed. A strange little man (Rumplestiltskin) appears and spins the straw into gold in exchange for her necklace, her ring, and eventually her firstborn child. When she becomes queen, the dwarf returns to claim the child. She can only keep her child if she guesses his name. She discovers his name and he vanishes (or tears himself in half).
 
-**Alchemical Reading:**
+#### Alchemical Reading
 - **Spinning Straw into Gold:** This is the *premature* Citrinitas—the attempt to create gold (wisdom, value) without doing the alchemical work. The gold is *false*. It is created by shadow magic (Rumplestiltskin), not by the slow ripening of Nigredo-Albedo-Citrinitas.
 - **The Price:** The girl pays with her treasures (necklace, ring—symbols of self) and her child (the future, the new life). Premature wisdom always costs something real.
 - **Naming the Shadow:** The only way to break the spell is to *name* the shadow (Rumplestiltskin). Once the shadow is named, its power dissolves. The false gold vanishes, and the true work can begin.
@@ -326,7 +326,7 @@ Rumplestiltskin is the inflation archetype—the promise of "instant enlightenme
 
 **Plot Summary:** Beauty is held captive by a Beast in his enchanted castle. At first, she is terrified, but over time she comes to see his kindness, intelligence, and suffering. When the Beast is dying, Beauty realizes she loves him. She declares her love, and he transforms into a handsome prince—the curse is broken.
 
-**Alchemical Reading:**
+#### Alchemical Reading
 - **The Beast:** The shadow, the Nigredo—ugly, terrifying, rejected. The Beast is the lead that must be transformed into gold.
 - **Beauty's Vision:** At first, Beauty sees only the surface (the Beast's ugliness). But through patience and relationship, she begins to see the *golden heart* beneath—the Citrinitas hidden within the Nigredo. This is the alchemical vision: the gold is *in* the black.
 - **The Transformation:** When Beauty loves the Beast (when she *consciously recognizes the gold within the shadow*), the transformation occurs. The Beast becomes the Prince—the Citrinitas made visible. Love is the *Conjunction* operation—the union that ripens into gold.
@@ -527,7 +527,7 @@ Common dream motifs:
 - **The Philosopher's Stone:**
   - The Citrinitas is the Stone *forming*. It is not yet complete (that is Rubedo), but it is no longer merely potential (Nigredo) or purified matter (Albedo). It is the Stone beginning to glow, to reveal its golden nature.
 
-**Archetypal Constellation:**
+#### Archetypal Constellation
 When the Citrinitas is active, these archetypes often appear:
 - **The Wise Old Man/Woman** (the elder, the guide)
 - **The Philosopher** (the seeker of meaning)
@@ -562,14 +562,14 @@ When the individual allows the yellowing to occur naturally—when they do not f
 7. **Hope and Renewal:**
    - The Citrinitas is the dawn—it is the promise of day after the long night. The individual who has endured the Nigredo and Albedo now *knows*: the light returns. This is not naive optimism; it is seasoned hope. "Winter always turns to spring."
 
-**Jung's Teaching:**
+#### Jung's Teaching
 
 > "The self is not a philosophical idea. It is an empirical fact. The citrinitas is the stage where the self begins to be *known*—not as concept, but as lived reality."
 > — C.G. Jung (paraphrased from CW 12)
 
 The Citrinitas is the making of the Self conscious. It is the ripening of wisdom from the soil of suffering.
 
-**The Gift:**
+#### The Gift
 *The soul that has ripened the Citrinitas cannot be fooled by false wisdom. It has tasted the real gold—the gold of lived experience, of suffering transformed, of meaning earned. This gold cannot be stolen, and it cannot tarnish. It is the philosopher's stone forming in the heart.*
 
 ---
@@ -652,7 +652,7 @@ The Citrinitas is the making of the Self conscious. It is the ripening of wisdom
 
 ---
 
-**Final Word:**
+#### Final Word
 
 *The Citrinitas is not the end of the work—it is the promise of completion. It is the dawn that heralds the day. The soul has descended into darkness (Nigredo), been purified by moonlight (Albedo), and now begins to glow with its own golden light. This is the philosopher's stone forming—not yet complete, but no longer merely potential. The wisdom has been earned, the fruit has ripened, and the Self begins to shine.*
 
@@ -695,7 +695,7 @@ The Citrinitas is the making of the Self conscious. It is the ripening of wisdom
 - Beauty and the Beast (golden heart recognition)
 - The Golden Goose
 
-**Vibology Synthesis Note:**
+#### Vibology Synthesis Note
 Cross-system correspondences (Sun astrology, 5th/9th Houses, Leo, Solar Plexus/Spleen HD centers, Sun/Temperance Tarot, Gate 55, Raphael/Michael angelology, Tiphareth Qabalah) represent Vibology's integration of verified alchemical Citrinitas patterns across seven-pillar framework.
 
 ---

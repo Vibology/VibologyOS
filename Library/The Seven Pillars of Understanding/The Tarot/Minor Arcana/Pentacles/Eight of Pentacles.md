@@ -16,6 +16,7 @@ planetary: Sun in Virgo
 decan: First decan of Virgo (0°-10°)
 title: Lord of Prudence
 ---
+# Eight of Pentacles
 
 *Sun in Virgo - The first decan of Virgo*
 

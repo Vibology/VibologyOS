@@ -173,7 +173,7 @@ Separation is the experience of clarity emerging from chaos. It feels like seein
 - **Naming the Shadow:** Identifying a pattern or complex. "This is my father complex." Naming gives form and therefore separability.
 - **Cutting Ties:** Ending toxic relationships, quitting jobs, moving away from family. Physical Separation mirrors psychological differentiation.
 
-**In Dreams:**
+#### In Dreams
 - Flying or being high up (seeing from above, gaining perspective)
 - Cutting with scissors, knives, or swords
 - Sorting objects (clothes, files, food)
@@ -319,7 +319,7 @@ Separation is the operation that produces this illumination—the sword that cut
 
 **Plot Summary:** In many versions of Cinderella (especially Grimm's *Aschenputtel*), the stepmother assigns Cinderella an impossible task: sort lentils from ashes (or peas from lentils, wheat from chaff). Cinderella calls upon birds to help her, and they separate the seeds from the waste with perfect discrimination.
 
-**Alchemical Reading:**
+#### Alchemical Reading
 - **Separation:** The task is literal Separation—distinguishing the valuable (lentils, food) from the worthless (ashes, waste). This is the work of the intellect: discernment, discrimination, sorting.
 - **Birds as Helpers:** Birds are creatures of Air. They represent the discriminating intellect, the Logos function. They can see from above (perspective) and peck with precision (fine discrimination).
 - **Psychological Insight:** Cinderella must learn to separate her own worth from the stepmother's projections ("You are worthless, fit only for ashes"). The sorting task is an externalization of her internal work—separating her true Self (the lentils, the princess) from the false identity imposed by the shadow mother (the ashes, the servant).
@@ -331,7 +331,7 @@ Separation is the operation that produces this illumination—the sword that cut
 
 **Plot Summary:** A princess is sent to marry a prince in a distant land. Her servant betrays her, forces her to trade places, and takes the princess's identity. The princess becomes a goose girl. Eventually, the king discovers the truth (often through the princess's nightly conversations with her dead mother's talking head, or through her golden hair), and the false servant is punished while the true princess is restored.
 
-**Alchemical Reading:**
+#### Alchemical Reading
 - **Separation:** The central theme is the separation of true from false. The servant *appears* to be the princess (she wears the clothes, speaks the words, holds the position), but she is not. The true princess is hidden but not destroyed.
 - **The King's Discernment:** The king is the wise authority (the Wise Old Man archetype) who can discriminate truth from illusion. He sets tests or listens carefully until the truth reveals itself.
 - **Psychological Insight:** The "true princess" is the authentic Self; the "false servant" is the inflated ego or false Persona. The Self is often obscured (forced into servitude, hidden beneath rags) while the ego claims the throne. Individuation requires separating the two—recognizing which voice is authentic and which is imitation.
@@ -560,7 +560,7 @@ Common dream motifs:
   - **Separation** and **Conjunction** (union) are dialectically related. You cannot unite what has not first been separated. The King and Queen (Sol and Luna, conscious and unconscious) must first be purified individually (Separation) before they can unite in the sacred marriage (Conjunction).
   - Jung's teaching: "Individuation is first separation (ego from unconscious), then reunion (ego and Self in dialogue)."
 
-**Archetypal Constellation:**
+#### Archetypal Constellation
 When Separation is active, the following archetypes are often present:
 - **The Wise Old Man/Woman** (the one who discriminates)
 - **The Sword-Bearer** (Athena, Manjushri, Michael—wielding the sword of truth)
@@ -597,14 +597,14 @@ When the psyche learns to discriminate without cruelty, to separate without diss
 8. **Preparation for Union:**
    - Paradoxically, Separation prepares for Conjunction. Only what has been separated can be consciously reunited. The King and Queen, having been purified individually, can now approach the sacred marriage. The ego, having separated from the Self, can now enter into dialogue with it.
 
-**Jung's Teaching:**
+#### Jung's Teaching
 
 > "The meeting of two personalities is like the contact of two chemical substances: if there is any reaction, both are transformed. But such a reaction is only possible if there is first differentiation."
 > — C.G. Jung, *Modern Man in Search of a Soul*
 
 Separation is differentiation. Without it, there is only unconscious fusion (participation mystique). With it, there is the possibility of conscious union—relationship, individuation, the sacred marriage of opposites.
 
-**The Gift:**
+#### The Gift
 *The soul that has learned to separate knows its own voice, sees its own projections, and walks its own path. It is no longer lost in the collective, no longer possessed by the unconscious, no longer merged with the other. It stands alone—and from that aloneness, it can truly connect.*
 
 ---
@@ -680,7 +680,7 @@ Separation is differentiation. Without it, there is only unconscious fusion (par
 
 ---
 
-**Final Word:**
+#### Final Word
 
 *Separation is the sword that liberates. It cuts the cords of projection, severs the chains of false identity, and distinguishes the voice of truth from the chorus of illusion. It is the air that clears the fog, the wind that separates wheat from chaff, the intellect that knows "This is mine; that is not mine."*
 
@@ -718,7 +718,7 @@ Separation is differentiation. Without it, there is only unconscious fusion (par
 - Kübler-Ross and Kessler. *On Grief and Grieving* (2005). Scribner. (Accepting what is vs. what was - Separation function)
 - Cloud, Henry and Townsend, John. *Boundaries* (1992). Zondervan. (Modern psychological Separation work)
 
-**Vibology Synthesis Note:**
+#### Vibology Synthesis Note
 Cross-system correspondences (Saturn/Mercury astrology, Swords suit Tarot, Spleen HD center, Uriel/Raziel angelology) represent Vibology's integration of verified alchemical Separation patterns across seven-pillar framework.
 
 ---

@@ -101,7 +101,7 @@ This is **not** materialist reductionism (consciousness = computation). This is 
 
 **What:** Using software to calculate exact positions, correspondences, and patterns.
 
-**Examples:**
+#### Examples
 - **Astrological software** (Solar Fire, Astro.com) calculates planetary positions to the second of arc based on Swiss Ephemeris
 - **Human Design software** (Jovian Archive, Genetic Matrix) generates BodyGraphs with precise gate activations based on birth time/location
 - **Kerykeion (Python library)** generates natal charts programmatically
@@ -115,7 +115,7 @@ This is **not** materialist reductionism (consciousness = computation). This is 
 
 **What:** Using Large Language Models to synthesize across systems at speeds impossible for unaided cognition.
 
-**Examples:**
+#### Examples
 - **NotebookLM (Gemini RAG):** Query grimoires with natural language—*"Extract all Enochian material"* returns 5,450 lines of structured content in seconds
 - **Claude Code:** Cross-reference 428 library entries to find patterns—*"How does Gate 51 relate to The Tower, Aries 19°, and Shock hexagram?"*
 - **GPT/Claude synthesis:** Generate comprehensive overviews integrating multiple sources—Tarot.md expanded from 40 to 692 lines via AI synthesis
@@ -128,7 +128,7 @@ This is **not** materialist reductionism (consciousness = computation). This is 
 
 **What:** Organizing esoteric knowledge as an **interconnected web** rather than isolated files.
 
-**Examples:**
+#### Examples
 - **Obsidian vault:** 428 markdown files with extensive `[[wikilink]]` cross-referencing
 - **YAML frontmatter:** Structured metadata (tags, systems, dates) making every file queryable
 - **Internal linking density:** 97% of files contain cross-references to other entries
@@ -147,7 +147,7 @@ This is **not** materialist reductionism (consciousness = computation). This is 
 
 **Function:** Source-grounded AI queries of personal grimoires and reference libraries.
 
-**How It Works:**
+#### How It Works
 - Upload PDFs, documents, or source texts to NotebookLM
 - Ask natural language questions
 - Gemini (Google's LLM) retrieves relevant passages and synthesizes answers **grounded only in uploaded sources**
@@ -166,7 +166,7 @@ This is **not** materialist reductionism (consciousness = computation). This is 
 
 **Function:** Multi-turn agentic AI for codebase exploration, file manipulation, and synthesis generation.
 
-**How It Works:**
+#### How It Works
 - Reads entire codebases (up to 200k tokens)
 - Executes bash commands, reads/writes files, searches with grep/glob
 - Generates comprehensive content following templates and rubrics
@@ -186,7 +186,7 @@ This is **not** materialist reductionism (consciousness = computation). This is 
 
 **Function:** Personal knowledge management system with bidirectional linking and graph visualization.
 
-**How It Works:**
+#### How It Works
 - Plain text markdown files stored locally (no cloud lock-in)
 - `[[Double bracket]]` syntax creates bidirectional links between notes
 - Graph view visualizes the entire knowledge network
@@ -206,7 +206,7 @@ This is **not** materialist reductionism (consciousness = computation). This is 
 
 **Function:** Track every change to the knowledge base with complete history.
 
-**How It Works:**
+#### How It Works
 - Every file change is tracked with timestamps and commit messages
 - Full history viewable (`git log`, `git diff`)
 - Ability to revert to any previous state
@@ -225,7 +225,7 @@ This is **not** materialist reductionism (consciousness = computation). This is 
 
 **Function:** Programmatic chart generation and data processing.
 
-**How It Works:**
+#### How It Works
 - **Kerykeion library:** Generates natal charts, transits, synastry programmatically
 - **humandesign_api:** Fetches Human Design charts via API
 - Custom scripts for data transformation and synthesis
@@ -431,7 +431,7 @@ This is **augmented intelligence**—not replacement, but amplification.
 - Pull Tarot card (physical deck, not app—maintain somatic connection)
 - Read relevant library entry from Obsidian vault
 
-**Throughout Day (Anima):**
+#### Throughout Day (Anima)
 - **Live** the insights—test Strategy and Authority
 - Notice when predictions/syntheses prove accurate or inaccurate
 - Feel into body responses—Sacral, emotional wave, splenic hits

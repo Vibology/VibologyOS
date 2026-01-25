@@ -447,7 +447,7 @@ Heinrich represents the **loyal unconscious**, the part of the psyche that **hol
 ---
 
 ## Cross-References
-**Archetypal Figures:**
+#### Archetypal Figures
 [[The Shadow]] • [[The Muse]] • [[The Idol]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] • [[The Alchemist]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Hero]] • [[The Wise Old Man]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]]
 
 **Jungian Concepts:**
@@ -456,25 +456,25 @@ Heinrich represents the **loyal unconscious**, the part of the psyche that **hol
 **Tarot Keys:**
 [[The Tower]] • [[Strength]] • [[Death]] • [[The Moon]] • [[The Sun]] • [[The Lovers]] • [[The Empress]] • [[The Emperor]]
 
-**Alchemical Stages:**
+#### Alchemical Stages
 [[Nigredo]] • [[Albedo]] • [[Rubedo]] • [[Solve et Coagula]] • [[Mortificatio]] • [[Solutio]] • [[Philosopher's Stone]] • [[Hieros Gamos]]
 
-**Mythological Parallels:**
+#### Mythological Parallels
 [[Psyche and Eros]] • [[Beauty and the Beast]] • [[Melusine]] • [[Perseus and Medusa]] • [[East of the Sun, West of the Moon]] • [[Cupid and Psyche]]
 
-**Fairy Tale Motifs:**
+#### Fairy Tale Motifs
 [[The Animal Bridegroom]] • [[The Enchanted Prince]] • [[The Curse and Redemption]] • [[The Golden Object]] • [[The Sacred Bargain]] • [[The Well and Spring]]
 
-**Human Design Connections:**
+#### Human Design Connections
 [[Sacral Center]] • [[Sacral Authority]] • [[Emotional Authority]] • [[Root Center]] • [[Gate 59 - Intimacy]] • [[Channel 27-50 - Preservation]]
 
-**Individuation Process:**
+#### Individuation Process
 [[Confrontation with Shadow]] • [[Encounter with Anima-Animus]] • [[Confrontation with the Self]] • [[Integration and Wholeness]]
 
-**Hero's Journey Stages:**
+#### Hero's Journey Stages
 [[The Call to Adventure]] • [[Refusal of the Call]] • [[Crossing the First Threshold]] • [[The Ordeal]] • [[The Resurrection]] • [[Return with the Elixir]]
 
-**Related Tales:**
+#### Related Tales
 [[Beauty and the Beast]] • [[Snow White]] • [[Sleeping Beauty]] • [[The Handless Maiden]] • [[Rapunzel]] • [[Bluebeard]]
 
 ---

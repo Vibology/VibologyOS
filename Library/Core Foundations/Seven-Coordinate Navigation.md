@@ -33,7 +33,7 @@ This is not syncretism for its own sake—it is **triangulated gnosis**: using m
 
 **Primary Question:** *Through which hierarchical structure does divine intelligence manifest?*
 
-**What It Maps:**
+#### What It Maps
 - The ninefold angelic hierarchy (Seraphim through Angels)
 - The Qabalistic Tree of Life (Kether through Malkuth)
 - The Sephirothic emanations and their planetary correspondences
@@ -41,7 +41,7 @@ This is not syncretism for its own sake—it is **triangulated gnosis**: using m
 - The named Archangels and their specialized functions
 - Invocation protocols and ritual engagement with angelic intelligence
 
-**Unique Contribution:**
+#### Unique Contribution
 Angelology provides the **vertical axis**—the ladder of consciousness descending from pure divinity (Kether/Seraphim) to material density (Malkuth/Ishim). While other systems map horizontal patterns (archetyp
 
 es, transits, mechanics), Angelology maps **how consciousness steps down** through progressively denser frequencies until it reaches the individual human vehicle.
@@ -54,7 +54,7 @@ es, transits, mechanics), Angelology maps **how consciousness steps down** throu
 - **Tarot:** Major Arcana correspond to paths on the Tree of Life connecting Sephiroth (Wang, *Qabalistic Tarot*)
 - **Astrology:** The seven classical planets correspond to the seven planetary archangels
 
-**Key Texts (in Esoteric Grimoire):**
+#### Key Texts (in Esoteric Grimoire)
 - Wang, Robert. *The Qabalistic Tarot*
 - *[Other Angelology texts: verify specific uploads]*
 
@@ -62,7 +62,7 @@ es, transits, mechanics), Angelology maps **how consciousness steps down** throu
 
 **Primary Question:** *When and where am I in the cosmic cycle?*
 
-**What It Maps:**
+#### What It Maps
 - Natal chart (birth imprint of planetary positions)
 - Transits (current planetary positions and their aspects to natal placements)
 - Progressions (unfolding of natal potentials over time)
@@ -71,7 +71,7 @@ es, transits, mechanics), Angelology maps **how consciousness steps down** throu
 - The 10 planets as cosmic archetypes (luminaries + planets)
 - The 12 houses as life domains
 
-**Unique Contribution:**
+#### Unique Contribution
 Astrology provides **timing**—the "when" and "where" of cosmic patterns. It answers: *"Why is this happening now? When will this transit pass? What is the archetypal weather of this moment?"*
 
 **Cross-System Integration:**
@@ -79,14 +79,14 @@ Astrology provides **timing**—the "when" and "where" of cosmic patterns. It an
 - **Tarot:** Major Arcana correspond to planets and zodiac signs
 - **Angelology:** The seven classical planets correspond to archangels and Sephiroth
 
-**Key Texts (in Esoteric Grimoire):**
+#### Key Texts (in Esoteric Grimoire)
 - *[Astrology texts: verify specific uploads]*
 
 ### 3. Personal Mythos (Folklore/Jungian) — Cultural Archetypal Encoding
 
 **Primary Question:** *What archetypal story am I living?*
 
-**What It Maps:**
+#### What It Maps
 - The Hero's Journey (Campbell's monomyth in 12 stages)
 - The Individuation Process (Jungian psychological development in 6 stages)
 - Jungian Archetypes (Hero, Shadow, Anima/Animus, Self, Trickster, Great Mother, Wise Old Man, etc.)
@@ -94,7 +94,7 @@ Astrology provides **timing**—the "when" and "where" of cosmic patterns. It an
 - World mythology (Norse, Greek, Hindu, Buddhist, Native American, Slavic) as universal patterns
 - Alchemical transformation stages
 
-**Unique Contribution:**
+#### Unique Contribution
 Personal Mythos provides **narrative structure**—the recognition that your life is not random but follows archetypal patterns encoded in myth, fairy tale, and depth psychology. It answers: *"What stage of the journey am I in? What is the initiatory challenge I'm facing?"*
 
 **Cross-System Integration:**
@@ -102,7 +102,7 @@ Personal Mythos provides **narrative structure**—the recognition that your lif
 - **Astrology:** Planetary placements activate specific archetypes (Mars = Hero, Neptune = Mystic)
 - **Human Design:** The deconditioning process parallels Jungian individuation
 
-**Key Texts (in Esoteric Grimoire):**
+#### Key Texts (in Esoteric Grimoire)
 - Jung, C.G. *Memories, Dreams, Reflections*; *Aion*
 - Estés, Clarissa Pinkola. *Women Who Run with the Wolves*
 
@@ -110,7 +110,7 @@ Personal Mythos provides **narrative structure**—the recognition that your lif
 
 **Primary Question:** *How am I mechanically designed?*
 
-**What It Maps:**
+#### What It Maps
 - The BodyGraph (nine centers, 64 gates, 36 channels)
 - Type (Manifestor, Generator, Manifesting Generator, Projector, Reflector)
 - Strategy and Authority (how to engage with life and make decisions)
@@ -118,7 +118,7 @@ Personal Mythos provides **narrative structure**—the recognition that your lif
 - Definition (single, split, triple split, quadruple split)
 - Incarnation Cross (life purpose derived from Sun/Earth gates)
 
-**Unique Contribution:**
+#### Unique Contribution
 Human Design provides **mechanical precision**—not vague archetypes but exact calculations based on birth time and location. It answers: *"How does my specific vehicle operate? What is my unique decision-making authority?"*
 
 **Cross-System Integration:**
@@ -128,14 +128,14 @@ Human Design provides **mechanical precision**—not vague archetypes but exact 
 - **Astrology:** Planetary positions at birth and 88° before birth activate gates
 - **Angelology:** The nine centers correspond to the nine angelic orders
 
-**Key Texts (in Esoteric Grimoire):**
+#### Key Texts (in Esoteric Grimoire)
 - Ra Uru Hu. *The Definitive Book of Human Design*
 
 ### 5. The Magdalene Path — Unifying Core; Vertical Soul Ascent
 
 **Primary Question:** *What is the vertical trajectory of soul ascent?*
 
-**What It Maps:**
+#### What It Maps
 - The sacred feminine principle as central axis
 - Initiatory stages of spiritual ascent
 - The integration of embodiment and transcendence
@@ -143,7 +143,7 @@ Human Design provides **mechanical precision**—not vague archetypes but exact 
 - Gnostic and esoteric Christian mysticism
 - The path from matter to spirit while honoring both
 
-**Unique Contribution:**
+#### Unique Contribution
 The Magdalene Path is the **unifying vertical axis**—the central pillar that integrates all other pillars into a single journey of soul ascent. While the other six pillars provide horizontal coordinates (what, when, how), The Magdalene Path provides the vertical *why*: **to ascend from matter to spirit without rejecting the body**.
 
 **Cross-System Integration:**
@@ -152,7 +152,7 @@ The Magdalene Path is the **unifying vertical axis**—the central pillar that i
 - **Qabalah:** The Middle Pillar (Kether-Tiphareth-Yesod-Malkuth)
 - **Jungian:** The integration of Anima/Animus and the realization of the Self
 
-**Key Texts (in Esoteric Grimoire):**
+#### Key Texts (in Esoteric Grimoire)
 - Bourgeault, Cynthia. *The Meaning of Mary Magdalene*
 - de Quillan, Jehanne. *The Gospel of the Beloved Companion*
 - Gospel of Mary (Nag Hammadi Library)
@@ -162,7 +162,7 @@ The Magdalene Path is the **unifying vertical axis**—the central pillar that i
 
 **Primary Question:** *What archetypal force is active?*
 
-**What It Maps:**
+#### What It Maps
 - The 22 Major Arcana as archetypal principles
 - The 56 Minor Arcana (four suits: Wands, Cups, Swords, Pentacles)
 - The Tree of Life correspondences (paths connecting Sephiroth)
@@ -170,7 +170,7 @@ The Magdalene Path is the **unifying vertical axis**—the central pillar that i
 - Hebrew letter associations
 - Divination practices and pathworking
 
-**Unique Contribution:**
+#### Unique Contribution
 Tarot provides **archetypal visualization**—vivid, symbolic images that activate the collective unconscious. It answers: *"What force is constellating in my life right now? What is the initiatory lesson?"*
 
 **Cross-System Integration:**
@@ -179,14 +179,14 @@ Tarot provides **archetypal visualization**—vivid, symbolic images that activa
 - **Jungian:** Major Arcana as visual representations of archetypes
 - **Angelology:** Court cards correspond to angelic hierarchies; Major Arcana to Sephiroth
 
-**Key Texts (in Esoteric Grimoire):**
+#### Key Texts (in Esoteric Grimoire)
 - Wang, Robert. *The Qabalistic Tarot*
 
 ### 7. The Window — Contemporary Archetypal Resonance
 
 **Primary Question:** *How do ancient patterns manifest in modern consciousness?*
 
-**What It Maps:**
+#### What It Maps
 - The 64 I-Ching hexagrams as archetypal situations
 - The Gene Keys (shadow, gift, siddhi framework)
 - The Six Lower Houses (Land, Sea, Flame, Chronicle, Spirit, Stars)
@@ -194,7 +194,7 @@ Tarot provides **archetypal visualization**—vivid, symbolic images that activa
 - The Twelve Archetypes (Jungian archetypes mapped to zodiac)
 - Contemporary synthesis of ancient wisdom
 
-**Unique Contribution:**
+#### Unique Contribution
 The Window provides **contemporary translation**—taking ancient I-Ching wisdom and Gene Keys shadow/gift/siddhi framework and making them accessible for modern practitioners. It answers: *"How does this 3,000-year-old hexagram apply to my life today?"*
 
 **Cross-System Integration:**
@@ -203,7 +203,7 @@ The Window provides **contemporary translation**—taking ancient I-Ching wisdom
 - **Gene Keys:** The shadow/gift/siddhi triad for each hexagram
 - **Astrology:** The 64 hexagrams mapped to 360° of the zodiac
 
-**Key Texts (in Esoteric Grimoire):**
+#### Key Texts (in Esoteric Grimoire)
 - Rudd, Richard. *The Gene Keys*
 - Wilhelm, Richard, trans. *The Complete I Ching*
 
@@ -349,7 +349,7 @@ ally necessary (Tower/Ordeal), mechanically aligned with your design (Gate 51 Sh
 ---
 ## The Danger of Single-System Fixation
 
-**The Shadow:**
+#### The Shadow
 Becoming fixated on **one** system and treating it as the only truth:
 - Astrology fundamentalism: *"Everything is just transits."*
 - Human Design dogma: *"If it's not in your chart, it's not real."*
@@ -359,7 +359,7 @@ Becoming fixated on **one** system and treating it as the only truth:
 **The Antidote:**
 Use **all seven coordinates** to triangulate. If five systems confirm an insight but two contradict, investigate the contradiction—it may reveal the **blind spot** the other systems miss.
 
-**Example:**
+#### Example
 - Astrology says you're a fiery Aries Sun (leadership, initiation)
 - Human Design says you're a Projector (wait for invitation, don't initiate)
 - **Contradiction?** No—**triangulation**: You have the *fire* (Aries), but your *vehicle* (Projector) is not designed to push that fire outward through initiation. Your fire manifests as **vision, guidance, and wisdom** offered when invited, not as raw action. The synthesis reveals both truths simultaneously.
@@ -373,7 +373,7 @@ Navigating seven systems simultaneously can feel overwhelming. How do you hold s
 
 Choose one **primary system** as your anchor (often Human Design or Astrology) and use the other six as **cross-references** to deepen and verify.
 
-**Example:**
+#### Example
 - Primary: Human Design (your chart is your baseline)
 - Cross-reference: Astrology (for timing), Tarot (for archetypal confirmation), Angelology (for invocation practices)
 

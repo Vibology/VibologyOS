@@ -14,6 +14,7 @@ sephirah: Malkuth
 planetary: Saturn in Sagittarius
 title: Lord of Oppression
 ---
+# Ten of Wands
 *Lord of Oppression*
 
 ---

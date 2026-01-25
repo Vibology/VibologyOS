@@ -706,13 +706,13 @@ The Self is not an escape from life, but the **fullest engagement** with life. I
 
 The Self, as the **archetype of totality**, is inherently **androgynous** or **hermaphroditic**—it unites the masculine and feminine principles. However, its **realization** in individual lives is colored by gender and culture.
 
-**In Men:**
+#### In Men
 - The Self often appears in dreams as a **Wise Old Man** (Senex) or a **King**—figures of authority, wisdom, and spirit. Examples: Merlin, Odin, the Pope, the Emperor.
 - The **Anima** (feminine soul-image) acts as the **bridge to the Self**. Without integrating the Anima (eros, feeling, relatedness), men remain stuck in the ego and cannot access the Self.
 - **Inflation danger:** Men may inflate into the **"God-almighty"** archetype—the guru, the prophet, the savior. This is ego-Self identification.
 - **Integration:** Men must surrender the **Heroic ego** and accept guidance from the feminine (Anima) to reach the Self.
 
-**In Women:**
+#### In Women
 - The Self often appears in dreams as a **Wise Old Woman** (Crone) or a **Queen**—figures of sovereignty, intuition, and embodied wisdom. Examples: Hecate, Sophia, the High Priestess.
 - The **Animus** (masculine soul-image) acts as the **bridge to the Self**. Without integrating the Animus (logos, meaning, creative power), women remain caught in emotional reactivity and cannot access the Self.
 - **Inflation danger:** Women may inflate into the **"Divine Mother"** or **"Goddess"** archetype—believing they possess ultimate wisdom or spiritual superiority. This is ego-Self identification.

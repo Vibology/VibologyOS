@@ -122,7 +122,7 @@ The Abstract Circuit is not about immediate response or logical analysis—it is
 
 Gate 33 forms **Channel 33-13: The Prodigal** when connected to Gate 13 in the G Center.
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 
 - **Gate 33 (Throat):** "I remember—I have withdrawn and reflected, and now I have a story to share."
 - **Gate 13 (G Center):** "I listen—I am open to universal stories and collective memories."
@@ -132,7 +132,7 @@ When this channel is defined, the individual has **consistent access to the prod
 
 **Without the channel defined** (only Gate 33 activated), the individual experiences the **urge to withdraw and reflect** but may lack the identity or listening capacity to know *what* stories are universal. They need another person with Gate 13 to complete the electromagnetic circuit—someone who provides the universal listening that Gate 33's memories can feed.
 
-**Interpersonal Electromagnetic Dynamics:**
+#### Interpersonal Electromagnetic Dynamics
 
 - **Both have Channel 33-13:** Potential for mutual storytelling or withdrawal, depending on maturity.
 - **One has Gate 33, other has Gate 13:** The Gate 33 person provides the reflective stories; the Gate 13 person provides the listening receptivity. This can be profoundly generative in partnerships.
@@ -142,14 +142,14 @@ When this channel is defined, the individual has **consistent access to the prod
 
 Gate 33 is located in the **Throat Center**, which corresponds biologically to the **thyroid, parathyroid, larynx, and vocal cords**. The Throat is the center of **manifestation**—and for Gate 33, manifestation takes the form of **narrative expression**.
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 33 defined may experience:
 - A deep **somatic urge to withdraw** after intense collective experience—the body needs privacy to process
 - **Throat activation** when stories are ready to be shared—a felt sense of "I need to tell this"
 - **Thyroid sensitivity** if not honoring the need for reflective privacy (the thyroid regulates energy; unprocessed experience can manifest as exhaustion or thyroid imbalance)
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Throat Center radiates **manifestation energy** into the aura. When Gate 33 is active, the aura carries a frequency that says: "I have withdrawn. I am processing. When I return, I will have something to share." Others may feel this as **mysterious**, **reflective**, or (if the individual is in Not-Self) **unavailable and withholding**.
 
@@ -187,7 +187,7 @@ The privacy need is inconsistent (activated only by transits or others). The Ref
 - **Avoidance as Shadow:** Using retreat to avoid necessary engagement, mistaking cowardice for strategic withdrawal.
 - **Isolation as Pathology:** Disassociating so completely that reintegration becomes impossible (line 6 detriment).
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Feeling guilty for needing privacy or retreat
 - Sharing stories compulsively without invitation
@@ -215,7 +215,7 @@ The **7-year deconditioning cycle** for Gate 33 involves learning to recognize w
 
 **Year 7:** Integration phase—withdrawal becomes **mindfulness** (Gene Keys Gift) rather than forgetting or escape. The individual retreats naturally when needed, processes experience into wisdom, and shares stories when invited. Privacy flows without guilt.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice where the need for privacy arises in the body. Is it the throat (Gate 33)? The gut (Sacral)? The solar plexus (emotional wave)? Or absorbed from others?
 - Practice **honoring the withdrawal impulse**—when the body says "I need to step back," trust it without guilt or justification.
@@ -265,14 +265,14 @@ In Jungian terms, Gate 33 corresponds to the **Hermit Archetype** and the psycho
 
 The Reflective Witness archetype observes experience, withdraws to process it, and returns with narrative that illuminates universal truths. This is the diarist, the memoirist, the contemplative who knows that wisdom requires distance from the event.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 33** manifests as:
 - **Chronic Isolation:** Using privacy as permanent escape from collective engagement, never returning to share the wisdom.
 - **Withholding as Power:** Hoarding stories and reflections, using "I know something you don't" as superiority.
 - **Avoidance as Defense:** Retreating from necessary conflict or engagement, mistaking cowardice for wisdom.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 33, individuation requires:
 1. **Separation from Collective Demand:** Recognizing that privacy is not selfishness but necessary space for the Self to emerge.
@@ -285,7 +285,7 @@ When integrated, Gate 33 becomes the expression of the **Wise Storyteller**—th
 
 When the individual with Gate 33 operates according to their Strategy and Authority, the gift that emerges is **Mindfulness** (Gene Keys) and **Reflective Privacy** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Withdrawal becomes **conscious**—retreating when needed, returning when reflection is complete.
 - Privacy becomes **productive**—not escape, but incubation of wisdom.
@@ -300,7 +300,7 @@ The Signature of the Throat Center (for all gates within it) is the experience o
 - **Sharing stories when invited** without force or withholding
 - **Trusting the timing** of withdrawal and return
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 33 teaches that **wisdom requires distance**. When the individual honors their need for privacy and trusts the cycle of retreat and return, they become a **living example** of what it means to process experience consciously. This is the essence of the Abstract/Sensing Circuit—not to respond immediately, but to **reflect over time and share the universal truth that emerges**.
 

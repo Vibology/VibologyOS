@@ -122,7 +122,7 @@ Because the Individual Centering Circuit is designed for **empowerment through e
 
 Gate 25 forms **Channel 25-51: Initiation (The Awakening)** when connected to Gate 51 in the Heart (Ego) Center.
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 
 - **Gate 25 (G Center):** "I am the innocent Self, the spirit that loves unconditionally, aligned with existence."
 - **Gate 51 (Ego):** "I have the willpower to shock, to initiate, to move the spirit into action through competitive ego."
@@ -132,7 +132,7 @@ When this channel is defined, the individual has **consistent access to spiritua
 
 **Without the channel defined** (only Gate 25 activated), the individual experiences **innocence without initiation**—they have the spirit of Universal Love but may lack the willpower to move or act on it. They may need another person with Gate 51 to complete the electromagnetic circuit—someone who provides the shock and will.
 
-**Interpersonal Electromagnetic Dynamics:**
+#### Interpersonal Electromagnetic Dynamics
 
 - **Both have Channel 25-51:** Potential mutual awakening or competitive shocks—each initiating the other through challenges.
 - **One has Gate 25, other has Gate 51:** The Gate 25 person provides the innocent spirit; the Gate 51 person provides the initiating shock. This can be profoundly transformative—love and will, spirit and ego.
@@ -142,7 +142,7 @@ When this channel is defined, the individual has **consistent access to spiritua
 
 Gate 25 is located in the **G Center**, which corresponds biologically to the **liver** (blood production and purification) and the **higher Self** (identity beyond ego).
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 25 defined may experience:
 - **Liver sensitivity when innocence is compromised**—Gate 25's unconditioned love connects to physical purification
@@ -150,7 +150,7 @@ Individuals with Gate 25 defined may experience:
 - **Physical vitality when aligned with spirit**—the body thrives when innocence is honored
 - **Exhaustion or illness when living inauthentically**—the Self rebels against conditioning
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The G Center radiates **identity and love** into the aura. When Gate 25 is active, the aura carries a frequency that says: "I love existence, I am innocent, I am aligned with my spirit." Others may feel this as **peaceful**, **inspiring**, or (if the individual is in Not-Self) **naively idealistic** or **spiritually bypassing**.
 
@@ -188,7 +188,7 @@ The innocence and Universal Love are inconsistent (activated only by transits or
 - **Idealism:** Expecting existence to conform to spiritual ideals, becoming disillusioned when reality is messy.
 - **Rejection of Ego:** Denying the need for willpower or survival instinct in service to "pure spirit."
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Frustration from engaging spiritually without Sacral response (for Generators)
 - Bitterness from offering love without invitation (for Projectors)
@@ -216,7 +216,7 @@ The **7-year deconditioning cycle** for Gate 25 involves learning to recognize w
 
 **Year 7:** Integration phase—innocence becomes aligned with the Gift of Acceptance and Siddhi of Universal Love (Gene Keys). The individual embodies the spirit of the Self without agenda, loves existence without needing it to conform, and inspires others through being rather than doing.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice where the impulse to love or be innocent arises in the body. Is it the G Center (true Self)? The solar plexus (emotional need)? The mind (spiritual ideal)?
 - Practice **loving without agenda**—feel the difference between unconditional love and conditioned niceness.
@@ -264,14 +264,14 @@ In Jungian terms, Gate 25 corresponds to the **Self Archetype**—the totality o
 
 The archetype of the innocent who loves existence without agenda, who trusts life, who embodies the spirit of the Self. This is the capacity for **radical acceptance and divine presence**.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 25** manifests as:
 - **The Spiritual Bypasser:** Using love to avoid difficult truths, boundaries, or shadow work.
 - **The Martyr:** Sacrificing the Self in service to others, confusing selflessness with self-abandonment.
 - **The Cynic:** Rejecting innocence entirely, hardening against love due to wounding.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 25, individuation requires:
 1. **Recognizing that innocence includes self-preservation:** Love that does not protect the Self is not sustainable.
@@ -284,7 +284,7 @@ When integrated, Gate 25 becomes the expression of **Universal Love**—the capa
 
 When the individual with Gate 25 operates according to their Strategy and Authority, the gift that emerges is **Acceptance** (Gene Keys Gift) and **Universal Love** (Siddhi).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Love flows from the true Self, not from the need to be spiritual or good.
 - Innocence is embodied without naivety—boundaries are honored as part of self-love.
@@ -299,7 +299,7 @@ The Signature of the G Center (when operating correctly) is **love and direction
 - **Recognition as a spiritual presence**—others feel the innocence and love
 - **Vitality and health**—the body thrives when the spirit of the Self is honored
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 25 teaches that **true love is unconditional and includes the Self**. When the individual honors their Strategy and Authority, embodies innocence from alignment rather than performance, and loves without agenda, they become a **living example** of the spirit of the Self. This is the essence of the Individual Centering Circuit—to demonstrate spiritual sovereignty through being, not saving.
 

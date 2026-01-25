@@ -16,6 +16,7 @@ planetary: Mars in Pisces
 decan: Pisces 20°-30° (3rd Decan)
 title: Lord of Perfected Success
 ---
+# Ten of Cups
 *The Lord of Perfected Success*
 
 ---

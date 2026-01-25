@@ -86,18 +86,18 @@ In sacred traditions, this is the realized artisan whose every creation manifest
 ---
 
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 Confidence signals that **your unique creative contribution is needed and valuable**. You are being called to trust your individual style, to offer what is genuinely yours rather than what you believe the collective wants. This is not a time for imitation or performance; it is a time for **authentic creative expression grounded in your embodied truth**. The question is: **what can you contribute that could come from no one else? What is uniquely yours to offer?**
 
 The appearance of Confidence also suggests that **belonging emerges through authenticity**. Gate 8's holding together is activating—circumstances support genuine contribution, the collective is ready to receive what you alone can give. The question is whether you will trust your style or continue performing mediocrity for acceptance.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware the trap of **mediocrity disguised as humility**—suppressing your unique creative expression to avoid standing out, contributing what is safe rather than what is true. The shadow manifests as creative timidity: offering borrowed ideas, mimicking others' styles, performing contribution without investing genuine self. Check whether your work emerges from authentic individual truth or from calculation about what will be accepted. Shadow also warns against **uniqueness as performance**: eccentricity for attention rather than authenticity from truth.
 
-**Gift Aspect:**
+#### Gift Aspect
 When Confidence expresses its gift, you embody **style that serves**—unique creative expression that enriches the collective not through teaching or leading, but simply through **being witnessed**. Your authentic creative presence becomes permission for others to trust their own uniqueness. This is the gift of **grounded creative confidence**: you work from truth, and that truth, manifested in material form, empowers the whole.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 In its highest expression, Confidence becomes **Exquisiteness**—creative contribution so pure, so refined, so completely authentic that it ceases to be personal achievement and becomes **transparency to creative principle itself**. You embody the artisan whose hands serve beauty without claiming it. Those who touch this frequency create work that uplifts simply by existing, contribution that serves because it emerges from truth rather than ambition.
 
 ---

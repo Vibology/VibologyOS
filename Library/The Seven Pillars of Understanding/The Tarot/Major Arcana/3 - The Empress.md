@@ -11,6 +11,7 @@ verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
+# 3 - The Empress
 *The Daughter of the Mighty Ones*
 
 ---
@@ -55,7 +56,7 @@ The key insight is that The Empress always deals with **the relationship between
 ## Divination Use
 **Upright:** Fruitfulness, fertility, abundance, creativity manifest, motherhood, nature's bounty, beauty, pleasure, success, gestation, the ripening harvest, initiative bearing fruit. Keywords: Generativity, nurturing, embodiment, natural rhythm.
 
-**Reversed (per Waite):**
+#### Reversed (per Waite)
 Light, truth, unravelling of complexity, vacillation. Blocked creativity, stifled fertility, resistance to natural process, indulgence degraded to dissipation, necessary simplification, the fallow period.
 
 ---

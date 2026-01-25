@@ -344,7 +344,7 @@ Haitian Vodou distinguishes between two "nations" of lwa (spirits):
 - **Met Kalfou:** Master of the crossroads' shadow side, sorcery, night magic
 - **Marinette:** Fire spirit, fierce and destructive
 
-**Psychological Meaning:**
+#### Psychological Meaning
 - **Rada** = Ego-syntonic, integrated, culturally accepted aspects of the psyche
 - **Petro** = Shadow, revolutionary energy, rage born of oppression
 
@@ -500,7 +500,7 @@ Yoruba cosmology includes the **Unborn**—souls waiting to be born, choosing pa
 
 ### Shadow Work: The Diaspora Model
 
-**Method:**
+#### Method
 
 1. **Acknowledge Collective Trauma:** If you are of African descent, recognize the **ancestral wound** of the Middle Passage, slavery, and ongoing oppression. This is not "dwelling on the past" but **making the unconscious conscious**.
 
@@ -810,7 +810,7 @@ The **Middle Passage as Alchemical Vessel:** Slavery was horrific—but the trad
 - **The Ancestral Soul:** Egun (Living Dead), phylogenetic unconscious, vertical lineage
 - **The Threshold Guardian:** Eshu/Legba (must be honored to proceed), cemetery gates (Oya)
 
-**Cross-archetype dynamics:**
+#### Cross-archetype dynamics
 - Eshu (Trickster) mediates between Olodumare (Self) and humans (Ego)
 - Oshun (Anima) softens Shango (Animus)—eros tempers fiery will
 - Oya (Shadow/Transformer) ushers the dead (ego) to become ancestors (integrated Self)
@@ -959,7 +959,7 @@ The **Middle Passage as Alchemical Vessel:** Slavery was horrific—but the trad
 **Primary African Diaspora Sources:**
 Core mythological narratives (cosmology, Orisha/Lwa pantheons, sacred practices, and diaspora continuity) are drawn from African Diaspora spiritual traditions including Yoruba Ifá, Haitian Vodou, Cuban Santería/Lucumí, Brazilian Candomblé, and Hoodoo/Conjure. These are **living spiritual traditions** practiced by millions; all content is presented with cultural respect and proper attribution. Oral traditions, ritual practice, and community knowledge inform the archetypal framework.
 
-**Vibrology Synthesis:**
+#### Vibrology Synthesis
 All Jungian archetypal analysis (interpreting African Diaspora myths through the lens of Shadow, Anima/Animus, Self, Individuation, etc.) represents scholarly synthesis rather than traditional understanding within these communities. Cross-system correspondences (Tarot, Astrology, Alchemy, Human Design, Qabalah) are Vibrology's integrative framework, not part of the original traditions. The syncretism with Catholic saints is historical survival strategy, not Vibrology's creation. Profound respect is maintained for these living traditions and their practitioners.
 
 ---

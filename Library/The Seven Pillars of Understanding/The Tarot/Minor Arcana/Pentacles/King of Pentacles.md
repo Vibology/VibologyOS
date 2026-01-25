@@ -14,6 +14,7 @@ court_rank: King
 elemental_formula: Fire of Earth
 zodiac_correspondence: Taurus, Virgo, Capricorn (earth signs as mastery)
 ---
+# King of Pentacles
 
 *The Master of Manifestation, the Builder of Kingdoms*
 

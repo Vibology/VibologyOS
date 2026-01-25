@@ -86,18 +86,18 @@ In sacred traditions, this is the realized being who weeps and laughs with equal
 ---
 
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 Joy signals that **emotional vitality is available through full engagement with feeling**. You are being called to say yes to being moved, to allow emotional reality to impact you without defense. This is not a time for emotional control or stoicism; it is a time for **diving into feeling**. The question is: **what are you numbing that wants to be felt? What emotional reality are you defending against that would bring aliveness if engaged?**
 
 The appearance of Joy also suggests that **vitality is closer than you think**. Gate 58's joyous pressure is activating—circumstances support emotional engagement, life is offering opportunities to feel. The question is whether you will remain open or defend against the vulnerability that feeling requires.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware the trap of **dissatisfaction that chases intensity**—pursuing peak emotional experiences while rejecting ordinary feeling states, needing constant stimulation to feel alive. The shadow manifests as emotional greed: consuming experiences rather than inhabiting them, pursuing intensity rather than allowing feeling. Check whether your pursuit of emotional vitality serves presence or merely distracts from uncomfortable baseline states. Shadow also warns against **numbing that creates the dissatisfaction it tries to escape**: defending against feeling creates the emptiness that demands ever-greater stimulation.
 
-**Gift Aspect:**
+#### Gift Aspect
 When Joy expresses its gift, you embody **vitality through emotional engagement**—the capacity to feel fully and allow that feeling to become aliveness. This is the gift of **emotional presence**: you cry when moved to tears, laugh when delight bubbles up, tremble when touched by beauty. Your willingness to feel deeply becomes permission for others to do the same.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 In its highest expression, Joy becomes **Bliss**—the recognition that consciousness experiencing itself through feeling is the fundamental ecstasy. You embody the understanding that grief is as precious as delight, that the capacity to be moved is itself the blessing. Those who touch this frequency demonstrate that **aliveness is the first and final joy**, that being able to feel anything at all is the miracle, that every emotion is consciousness celebrating existence.
 
 ---

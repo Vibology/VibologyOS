@@ -254,7 +254,7 @@ If this integration fails, the individual carries the split into adulthood, proj
 
 **Protection from Psychosis:** A well-formed ego can **withstand the eruptions of the unconscious** without being overwhelmed. It maintains the boundary between inner and outer, conscious and unconscious. Without this, the individual is vulnerable to **flooding** by archetypal contents (psychotic break).
 
-**The Gift:**
+#### The Gift
 A **coherent Ego** capable of observing the world without being overwhelmed by it—the spark of consciousness that can say, "I am," and from that foundation, begin the long journey toward wholeness.
 
 ## Cross-References
@@ -269,12 +269,12 @@ A **coherent Ego** capable of observing the world without being overwhelmed by i
 **Hero's Journey:**
 - [[The Ordinary World]] (corresponds to this stage—the baseline before the Call)
 
-**Individuation Process:**
+#### Individuation Process
 - [[Persona Development]] (Stage 2—follows ego formation)
 - [[Confrontation with Shadow]] (Stage 3—requires strong ego to withstand)
 - [[Integration and Wholeness]] (Stage 6—returns to unity, but consciously)
 
-**Alchemical Stages:**
+#### Alchemical Stages
 - [[Separatio]] (primary operation of this stage)
 - [[Calcination]] (follows in adolescence/Persona Development)
 - [[Nigredo]] (midlife Shadow work, requires ego foundation)
@@ -296,7 +296,7 @@ A **coherent Ego** capable of observing the world without being overwhelmed by i
 - [[Sacral Center]] (life force, vitality, response to world)
 - [[Emotional Solar Plexus]] (wave of emotional maturation)
 
-**Mythology:**
+#### Mythology
 - [[Greek Mythology]] (Dionysus, Perseus as Divine Child)
 - [[Hindu Mythology]] (Krishna, divine infant containing cosmos)
 - [[Egyptian Mythology]] (Horus, the child sun god)

@@ -118,7 +118,7 @@ Channel 18-58 contributes to this by:
 
 **Visual/Optical Nature:** Logic Circuit channels are **visual**—they must SEE the flaw. This is why 18-58 individuals often notice details others miss—cracks in structures, inefficiencies in systems, dysfunction in behaviors.
 
-**Why This Channel is Projected:**
+#### Why This Channel is Projected
 
 Neither the Root nor the Spleen connects directly to the Throat. Therefore, this channel **cannot manifest correction** or sustain work continuously. It is **Projected**—it requires **recognition and invitation** to share its corrective insights effectively.
 

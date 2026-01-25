@@ -86,18 +86,18 @@ In sacred traditions, this is the sage whose action arises from timeless presenc
 ---
 
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 Aggression signals that **your vitality has lost rhythm**. You are being warned against impatient force, compulsive action, disrupting natural timing because you cannot tolerate waiting. The question is: **what cycles are you violating? What rhythms are you breaking because patience feels impossible?**
 
 The appearance of Aggression also suggests that **burnout is approaching through rhythm violation**. Gate 5's natural timing is being overridden—the body is being forced beyond its cycles, vitality is being demanded without recovery. The question is whether you will honor timing before collapse forces you to stop.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 You are caught in **compulsive impatience masquerading as productivity**—forcing action when waiting is required, breaking cycles because stillness feels intolerable. The shadow manifests as aggression toward obstacles that are simply natural timing: the body that needs rest, the project that needs gestation, the relationship that needs space. Your vitality has become violence against rhythm itself. Check whether your "productivity" is actually destruction of sustainable capacity.
 
-**Gift Aspect:**
+#### Gift Aspect
 The path forward requires **cultivating patience through rhythm restoration**—learning to feel natural cycles again, allowing the Sacral to respond according to fixed patterns rather than forced will. In the House of the Flame, this means trusting that vitality returns in cycles, that life force is not diminished by rest but replenished by it. Patience transforms aggression back into sustainable action aligned with cosmic timing.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 In its highest healing, Aggression dissolves into **Timelessness**—the recognition that you are not racing against time but moving within eternal rhythms. You embody vitality that operates without urgency because it knows the cycles will continue, fire that burns without consuming because it has aligned with cosmic timing. Those who heal this shadow become **living demonstrations that power flows from patience, that rhythm creates more than force, that waiting is wisdom when timing is trusted**.
 
 ---

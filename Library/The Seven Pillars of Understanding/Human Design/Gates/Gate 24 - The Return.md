@@ -122,7 +122,7 @@ Because the Individual Knowing Circuit is designed for **mutation through organi
 
 Gate 24 forms **Channel 24-61: Awareness (The Thinker)** when connected to Gate 61 in the Head Center.
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 
 - **Gate 24 (Ajna):** "I have the capacity to rationalize, to think about something repeatedly until understanding emerges."
 - **Gate 61 (Head):** "I have the pressure to know, the inner truth that drives contemplation and mystery."
@@ -132,7 +132,7 @@ When this channel is defined, the individual has **consistent access to contempl
 
 **Without the channel defined** (only Gate 24 activated), the individual experiences **rationalization without pressure**—they have the capacity to think cyclically but may not feel driven to do so. They may need another person with Gate 61 to complete the electromagnetic circuit—someone who provides the inspiration to think.
 
-**Interpersonal Electromagnetic Dynamics:**
+#### Interpersonal Electromagnetic Dynamics
 
 - **Both have Channel 24-61:** Potential mutual recognition or silent parallel thinking—each lost in their own contemplative world.
 - **One has Gate 24, other has Gate 61:** The Gate 24 person provides the rationalization process; the Gate 61 person provides the pressure to know. This can be profoundly effective—inspiration and mental cycling.
@@ -142,7 +142,7 @@ When this channel is defined, the individual has **consistent access to contempl
 
 Gate 24 is located in the **Ajna Center**, which corresponds biologically to the **pituitary gland** (master gland regulating hormonal cycles and rhythms) and the **frontal cortex** (conceptualization and mental processing).
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 24 defined may experience:
 - **Mental cycling that correlates with hormonal rhythms**—thinking may intensify during certain times of day or month
@@ -150,7 +150,7 @@ Individuals with Gate 24 defined may experience:
 - **Insomnia when mental cycling is unresolved**—the mind continues to return even during sleep
 - **Physical restlessness when rationalization is incomplete**—the body reflects unfinished mental work
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Ajna Center radiates **mental awareness** into the aura. When Gate 24 is active, the aura carries a frequency that says: "I am thinking, cycling, returning to understand." Others may feel this as **contemplative**, **introspective**, or (if the individual is in Not-Self) **obsessive** or **mentally stuck**.
 
@@ -188,7 +188,7 @@ The rationalization is inconsistent (activated only by transits or others). The 
 - **Insomnia and Mental Exhaustion:** Thinking that never stops, cycling without renewal or rest.
 - **Using Thinking to Control:** Rationalizing to manage anxiety rather than to understand truth.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Frustration from thinking without Sacral engagement (for Generators)
 - Bitterness from sharing rationalization without invitation (for Projectors)
@@ -216,7 +216,7 @@ The **7-year deconditioning cycle** for Gate 24 involves learning to recognize w
 
 **Year 7:** Integration phase—thinking becomes aligned with the Gift of Invention (Gene Keys). The individual allows mental renewal to happen organically, receives insights as gifts, and shares understanding only when it is complete and invited.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice where mental cycling manifests in the body. Is it the head (Ajna)? The gut (anxiety)? The chest (control)?
 - Practice **allowing thoughts to return without judgment**—trust the cyclical process.
@@ -264,14 +264,14 @@ In Jungian terms, Gate 24 corresponds to the **Thinking Function**—the psychol
 
 The archetype of the philosopher who thinks deeply, returning to questions over time, cycling through ideas until truth emerges. This is the capacity for **sustained contemplation**.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 24** manifests as:
 - **The Overthinker:** Using thinking to avoid action or feeling, getting lost in mental loops.
 - **The Rationalization Addict:** Compulsive thinking that becomes destructive, rumination without resolution.
 - **The Avoider:** Refusing to return to difficult thoughts, leaving psychological work incomplete.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 24, individuation requires:
 1. **Recognizing that thinking is cyclical, not linear:** Understanding emerges through return, not force.
@@ -284,7 +284,7 @@ When integrated, Gate 24 becomes the expression of **inventive wisdom**—the ca
 
 When the individual with Gate 24 operates according to their Strategy and Authority, the gift that emerges is **Invention** (Gene Keys) and **Natural Mental Renewal** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Thinking flows from correct engagement (via Sacral response or invitation), not anxiety or compulsion.
 - Mental cycling is allowed to complete naturally—understanding emerges without force.
@@ -299,7 +299,7 @@ The Signature of operating correctly through Strategy and Authority (for mental 
 - **Insights that arrive as gifts**—understanding that emerges organically after cycling
 - **Recognition for deep thinking**—others value the contemplative process when it is authentic
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 24 teaches that **true understanding requires patience and trust in mental cycles**. When the individual honors their Strategy and Authority, allows thinking to return naturally, and receives insights without forcing them, they become a **living example** of contemplative wisdom. This is the essence of the Individual Knowing Circuit—to transform through internal process and share understanding when it is complete.
 

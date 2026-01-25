@@ -122,7 +122,7 @@ Because the Individual Knowing Circuit carries **mutation**, its caution challen
 
 Gate 12 forms **Channel 12-22: Openness (The Socialite)** when connected to Gate 22 in the Solar Plexus Center.
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 
 - **Gate 12 (Throat):** "I will articulate caution, restraint, and mutative 'no' when necessary."
 - **Gate 22 (Solar Plexus):** "I bring emotional grace, openness, and social charm to my expression."
@@ -132,7 +132,7 @@ When this channel is defined, the individual has **consistent access to mutative
 
 **Without the channel defined** (only Gate 12 activated), the individual experiences **caution without emotional grace**. Their "no" may come across as harsh, cold, or socially awkward. They may need another person with Gate 22 to complete the electromagnetic circuit—someone who can soften their restraint with emotional intelligence.
 
-**Interpersonal Electromagnetic Dynamics:**
+#### Interpersonal Electromagnetic Dynamics
 
 - **Both have Channel 12-22:** Potential mutual understanding of the need for both caution and openness, or competition over who sets boundaries and who provides grace.
 - **One has Gate 12, other has Gate 22:** The Gate 12 person provides the discerning restraint; the Gate 22 person provides the emotional charm. This can be profoundly effective in partnerships—truth-teller and diplomat, caution and grace.
@@ -142,7 +142,7 @@ When this channel is defined, the individual has **consistent access to mutative
 
 Gate 12 is located in the **Throat Center**, which corresponds biologically to the **thyroid and parathyroid glands**—regulators of metabolism, energy, and calcium balance. The Throat is the center of **manifestation and action**, the bridge between internal knowing and external expression.
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 12 defined may experience:
 - **Thyroid sensitivity** when caution is suppressed or unexpressed—the body's metabolic "stop" signal being overridden
@@ -150,7 +150,7 @@ Individuals with Gate 12 defined may experience:
 - **Throat constriction** when forced to say "yes" when "no" is correct
 - **Metabolic slowdown** during natural standstill phases—the body's way of enforcing rest and withdrawal
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Throat Center radiates **expression** into the aura. When Gate 12 is active, the aura carries a frequency that says: "I am here to articulate caution, to say 'wait,' to interrupt momentum when necessary." Others may feel this as **wise restraint**, **protective boundary**, or (if the individual is in Not-Self) **obstruction** or **negativity**.
 
@@ -188,7 +188,7 @@ The caution is inconsistent (activated only by transits or others). The Reflecto
 - **False Prophecy:** Using caution to manipulate through fear, warning of disasters that never materialize.
 - **Martyrdom:** Suffering in silence rather than articulating boundaries, then resenting others for "not respecting" unstated limits.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Feeling unable to say "no" even when restraint is necessary
 - Being perceived as negative, obstructive, or pessimistic when expressing caution
@@ -216,7 +216,7 @@ The **7-year deconditioning cycle** for Gate 12 involves learning to recognize w
 
 **Year 7:** Integration phase—caution becomes aligned with Strategy and Authority. The individual trusts that **authentic restraint serves mutation**. Caution flows from **discrimination** (Gene Keys Gift) rather than vanity. The voice of "wait" or "no" is expressed with confidence and grace.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice where the impulse to say "no" arises in the body. Is it the throat? The gut? The heart? Or a quiet knowing from the Ajna?
 - Practice **articulating boundaries** in safe environments, refining the language of restraint.
@@ -262,14 +262,14 @@ In Jungian terms, Gate 12 corresponds to the **Guardian Archetype** and the **Se
 
 The Guardian archetype protects the threshold, determining who enters and who does not. This is the gatekeeper, the one who discerns between beneficial and harmful, the voice that says "not yet" or "not this."
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 12** manifests as:
 - **The Tyrant:** Using caution to control, to block others' growth or freedom, making "no" a weapon of power.
 - **The Martyr:** Suppressing authentic caution to avoid conflict, then suffering resentment and physical throat/thyroid issues.
 - **The Pessimist:** Chronic negativity, using standstill as an excuse to avoid all risk or change.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 12, individuation requires:
 1. **Recognizing that caution is a gift, not a flaw:** The capacity to say "no" is sacred, protective, necessary.
@@ -282,7 +282,7 @@ When integrated, Gate 12 becomes the expression of **mature discernment**—the 
 
 When the individual with Gate 12 operates according to their Strategy and Authority, the gift that emerges is **Discrimination** (Gene Keys) and **Sacred Caution** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Caution is articulated with clarity and grace, serving protection without creating alienation.
 - The individual expresses restraint **when invited** (if Projector), **after response** (if Generator), or **with awareness** (if Manifestor)—always aligned with Strategy and Authority.
@@ -297,7 +297,7 @@ The Signature of the Throat Center (for all gates within it) is the experience o
 - **Grace in boundary-setting**—the ability to say "no" without rupturing relationship
 - **Trust in natural cycles**—knowing when to act and when to wait
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 12 teaches that **not all action is progress**. When the individual honors their need to articulate restraint, waits for correct timing, and expresses caution only when aligned with Strategy and Authority, they become a **living example** of what it means to honor natural cycles. This is the essence of the Individual Knowing Circuit—not to force momentum, but to **empower through authentic restraint**.
 

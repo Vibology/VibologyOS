@@ -11,6 +11,7 @@ verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
+# 0 - The Fool
 *The Spirit of Aether*
 
 ---
@@ -48,7 +49,7 @@ The reversed Fool speaks to a kind of spiritual or intellectual deflation. Where
 ## Divination Use
 **Upright:** New beginnings, infinite potential, leap of faith, spontaneity, innocence, freedom from convention, divine foolishness, the journey commencing. Keywords: Trust, adventure, beginner's mind, faith, liberation, childlike wonder.
 
-**Reversed (per Waite):**
+#### Reversed (per Waite)
 Negligence, absence, carelessness, apathy, nullity, vanity. Folly without wisdom, recklessness ignoring consequences, refusing to begin, fear masquerading as caution.
 
 ---

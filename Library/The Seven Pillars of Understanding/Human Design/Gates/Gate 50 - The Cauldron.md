@@ -122,7 +122,7 @@ Because the Tribal Circuit operates through **collective survival and relationsh
 
 Gate 50 forms **Channel 50-27: Preservation (Caring)** when connected to Gate 27 in the Sacral Center.
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 
 - **Gate 50 (Spleen Center):** "I have instinctual awareness of tribal values and what must be preserved."
 - **Gate 27 (Sacral Center):** "I commit my life force to nurturing and caring for the tribe."
@@ -132,7 +132,7 @@ When this channel is defined, the individual has **consistent access to tribal v
 
 **Without the channel defined** (only Gate 50 activated), the individual experiences awareness of values but may lack the Sacral commitment (Gate 27) to actively uphold them. They need another person with Gate 27 to complete the electromagnetic circuit—someone who provides the caring action for their values.
 
-**Interpersonal Electromagnetic Dynamics:**
+#### Interpersonal Electromagnetic Dynamics
 
 - **Both have Channel 50-27:** Mutual values and caring. Can be generative (collaborative custodianship) or controlling (conflicting ideas of what preserves the tribe).
 - **One has Gate 50, other has Gate 27:** The Gate 50 person provides values; the Gate 27 person provides caring. This creates a powerful partnership for tribal preservation.
@@ -142,14 +142,14 @@ When this channel is defined, the individual has **consistent access to tribal v
 
 Gate 50 is located in the **Spleen Center**, which corresponds biologically to the **immune system**, **lymphatic system**, and **instinctual survival mechanisms**. The Spleen Center generates awareness of danger and health in the present moment.
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 50 defined may experience:
 - A deep **somatic sense of right and wrong**—a bodily knowing of what preserves versus what threatens
 - **Immune response** to violations of values—the body literally rejecting what is "wrong"
 - **Instinctual gatekeeping**—the body knowing who/what should be allowed into the tribal container
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Spleen Center radiates **survival awareness** into the aura. When Gate 50 is active, the aura carries a frequency that says: "I know what is right for the tribe. I uphold the law." Others may feel this as **protective**, **authoritative**, or (if the individual is in Not-Self) **judgmental or rigid**.
 
@@ -186,7 +186,7 @@ The values awareness is inconsistent (activated only by transits or others). The
 - **Inconsistent Application:** Applying values selectively, creating injustice and distrust.
 - **Abdication:** Refusing to uphold values out of fear of judgment or conflict.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Feeling compelled to enforce values even when not invited or authorized
 - Chronic judgment of others based on personal values
@@ -214,7 +214,7 @@ The **7-year deconditioning cycle** for Gate 50 involves learning to recognize w
 
 **Year 7:** Integration phase—values become **equilibrium** (Gene Keys Gift) rather than corruption. The individual upholds tribal law from instinct, not from ego or external pressure.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice where values awareness arises in the body. Is it a splenic flash (quick, certain)? Or mental judgment (repetitive, fearful)?
 - Practice **trusting the first instinct**—the immediate knowing of what is right/wrong for the tribe is the truth.
@@ -264,14 +264,14 @@ In Jungian terms, Gate 50 corresponds to the **Lawgiver Archetype** and the psyc
 
 The Guardian of Values archetype holds the capacity to preserve tribal integrity through custodianship. This is not the Tyrant (enforcing rigidly) but the **Wise Custodian**—the one who upholds law with discernment and compassion.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 50** manifests as:
 - **Moral Tyranny:** Using values to control and judge rather than protect and preserve.
 - **Corrupt Custodianship:** Allowing values to be compromised for personal benefit.
 - **Rigid Moralism:** Refusing to adapt values to changing conditions, creating oppression.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 50, individuation requires:
 1. **Trusting Instinctual Values:** Recognizing that tribal law is somatic, not intellectual.
@@ -284,7 +284,7 @@ When integrated, Gate 50 becomes the **sacred guardian**—the capacity to prese
 
 When the individual with Gate 50 operates according to their Strategy and Authority, the gift that emerges is **Equilibrium** (Gene Keys) and **Wise Custodianship** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Values awareness emerges instinctually, without mental forcing or moral judgment.
 - The individual trusts their somatic knowing of what preserves versus what threatens the tribe.
@@ -299,7 +299,7 @@ The Signature of the Spleen Center (for all gates within it) is **Well-Being and
 - **Spontaneous custodianship**—instinctual knowing of what to uphold
 - **Peace with responsibility**—accepting the role of guardian without burden
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 50 teaches that **values are sacred**. When the individual honors their instinctual awareness of tribal law—upholding values with wisdom, adapting when necessary, preserving without oppressing—they become a **living example** of responsible custodianship. This is the essence of the Tribal Ego Circuit—to ensure survival through wise maintenance of values and structures.
 

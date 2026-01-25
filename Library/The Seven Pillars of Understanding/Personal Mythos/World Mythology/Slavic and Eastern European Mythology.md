@@ -607,7 +607,7 @@ Invoke Baba Yaga when:
 - You must retrieve fire (consciousness, authority, your own voice) from the depths
 - The stepmother (false persona, collective demands) is killing you
 
-**Method:**
+#### Method
 1. **Feed the doll:** Reconnect to intuition (meditation, dreams, journaling, therapy).
 2. **Approach the hut:** Enter the ordeal consciously ("I come of my own free will, but by compulsion").
 3. **Complete the tasks:** Do the work. Sort the grain. Wash the linen. Cook the feast. Do not look for shortcuts.
@@ -622,7 +622,7 @@ Seek the Firebird when:
 - You are called to the impossible quest (writing the book, building the business, healing the wound)
 - You know the old life is over but the new life has not yet arrived
 
-**Method:**
+#### Method
 1. **Trust the Gray Wolf:** Honor the shadow, the instinct, the helper who seems dangerous but guides truly.
 2. **Expect to fail:** You will disobey. You will take the golden cage. You will be caught. This is part of the process.
 3. **Undergo death:** The jealous brothers will kill you (the collective, the ego, the old self must die).
@@ -637,7 +637,7 @@ Break Koschei's needle when:
 - Your anima is imprisoned (you have no access to feeling, soul, beauty)
 - You are "heartless," numb, rigid, defended
 
-**Method:**
+#### Method
 1. **Do not release Koschei prematurely:** Compassion without discernment is dangerous. Do not "free" the complex before you have the strength (the magical horse).
 2. **Quest to the island:** This is the full hero's journey—Baba Yaga, impossible tasks, helper animals, descent, return.
 3. **Find the needle:** The core wound is hidden in layers of defense. Therapy, analysis, and deep work expose it.
@@ -652,7 +652,7 @@ Wait like Ilya when:
 - The archetype has not yet activated (you cannot force it)
 - You feel "behind," "late," "too old to start"
 
-**Method:**
+#### Method
 1. **Accept the delay:** This is not failure. This is incubation. The 33 years are necessary.
 2. **Wait for the summons:** The pilgrims will come (the crisis, the vision, the call). You cannot manufacture it.
 3. **When the water of life is offered, drink:** When the archetype activates, *act*. Stand up. Leave the stove.
@@ -806,7 +806,7 @@ Wait like Ilya when:
 - **The Divine Child:** Yarilo (spring/eros/puer)
 - **The Self:** The Firebird (impossible treasure), Svantovit (four-headed wholeness), the Fern Flower (blooms at midnight)
 
-**Cross-archetype dynamics:**
+#### Cross-archetype dynamics
 
 - Perun (Law/Consciousness) needs Veles (Shadow/Instinct) for fertility
 - Baba Yaga (Terrible Mother) grants the fire (Self) to those who complete the tasks (Ego submits to unconscious)
@@ -876,7 +876,7 @@ Wait like Ilya when:
 **Primary Slavic/Eastern European Sources:**
 Core mythological narratives (cosmology, pantheon, and folk tales) are drawn from Slavic and Eastern European folklore including Russian fairy tales (Vasilisa, Firebird), Polish legends, Baltic mythology (Latvian, Lithuanian), and Carpathian traditions. Primary collections include Afanasyev's *Russian Fairy Tales* and regional folklore compendiums. These oral traditions preserve pre-Christian Slavic mythology and inform the archetypal framework.
 
-**Vibrology Synthesis:**
+#### Vibrology Synthesis
 All Jungian archetypal analysis (interpreting Slavic myths through the lens of Shadow, Anima/Animus, Self, Individuation, etc.) represents scholarly synthesis rather than traditional Slavic understanding. Cross-system correspondences (Tarot, Astrology, Alchemy, Human Design, Qabalah) are Vibrology's integrative framework, not part of the original Slavic tradition. The alchemical correlations (Baba Yaga's trials as Nigredo, Firebird as Rubedo) apply Western hermetic symbolism to Slavic narrative patterns.
 
 ---

@@ -86,18 +86,18 @@ In sacred traditions, this is the realized teacher who sees that even corruption
 ---
 
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 Integrity signals that **something requires correction or restoration**. You are being called to identify what has been neglected, what has begun to decay, what foundation has weakened. This is not a time for denial or spiritual bypassing; it is a time for **honest assessment and dedicated repair**. The question is: **what needs fixing that you have been avoiding? Where has decay begun that requires attention?**
 
 The appearance of Integrity also suggests that **you have the capacity to restore what has been spoiled**. Gate 18's corrective vigilance is activating—circumstances support systematic repair, the time for restoration has come. The question is whether you will address decay with compassion or attack imperfection with cruelty.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware the trap of **judgment disguised as integrity**—attacking imperfection compulsively, criticizing without offering repair, becoming so focused on what's wrong that you cannot see what's right. The shadow manifests as perfectionism that paralyzes: nothing is ever good enough, no one measures up, standards become weapons rather than guides. Check whether your vigilance serves structural soundness or merely feeds ego's need to be right. Shadow also warns against **projected judgment**: criticizing in others what remains unaddressed in yourself.
 
-**Gift Aspect:**
+#### Gift Aspect
 When Integrity expresses its gift, you become **guardian of structural wholeness**—identifying decay early, addressing corruption systematically, maintaining foundation through persistent care. This is the gift of **embodied vigilance**: you sense when something is off, you act to correct it with compassion, and through your dedication to wholeness, larger collapse is prevented. Your integrity serves not just yourself but the collective structures you inhabit.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 In its highest expression, Integrity becomes **Perfection**—the recognition that corruption and restoration are both sacred, that decay serves renewal, that the work of correction is itself the wholeness being sought. You embody the realization that imperfection is not failure but **invitation to participate in sacred restoration**. Those who touch this frequency continue to address decay but do so with profound compassion, understanding that everything is already perfect in its becoming.
 
 ---

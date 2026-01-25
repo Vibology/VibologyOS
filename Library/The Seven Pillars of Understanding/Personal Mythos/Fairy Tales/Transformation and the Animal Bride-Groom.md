@@ -357,7 +357,7 @@ When her father falls ill, Beauty begs to visit him. The Beast agrees, warning t
 
 Beauty weeps over him, confessing: *"I love you."* The curse breaks. The Beast transforms into a handsome prince. He explains that a witch cursed him to remain a beast until a woman loved him freely, without coercion or vanity.
 
-**Psychological Interpretation:**
+#### Psychological Interpretation
 
 **Beauty as Ego:**
 - Beauty is the **"good daughter"**—selfless, kind, moralized. She embodies the **ego identified with virtue** and persona.
@@ -392,7 +392,7 @@ Beauty weeps over him, confessing: *"I love you."* The curse breaks. The Beast t
 **Estés's Reading:**
 *"The Beast is the Wild Man—the masculine counterpart to the Wild Woman. He is primal, erotic, untamed. Beauty reclaims him by refusing to 'civilize' him—she loves the beast as beast."*
 
-**Alchemical Parallel:**
+#### Alchemical Parallel
 - **Nigredo** (Beast's curse—exile, monstrosity, death)
 - **Albedo** (Beauty's presence—purification, relationship)
 - **Rubedo** (Transformation—the prince reborn, the marriage consummated)
@@ -413,7 +413,7 @@ Disgusted, the princess allows the frog to eat and drink. But when he demands en
 
 The frog transforms mid-flight into a handsome prince. He explains that a witch cursed him, and only a princess's violent rejection could break the spell. They marry.
 
-**Psychological Interpretation:**
+#### Psychological Interpretation
 
 **The Princess as Ego:**
 - The princess is **entitled, immature, dissociated from consequence**. She makes promises she does not intend to keep.
@@ -454,7 +454,7 @@ The frog transforms mid-flight into a handsome prince. He explains that a witch 
 - The kiss is passive, sentimental. The throw is **active, embodied, real**.
 - The sanitized version teaches: "Be nice to the ugly." The original teaches: **"Be honest with the shadow."**
 
-**Alchemical Parallel:**
+#### Alchemical Parallel
 - **Calcination** (burning away pretense, the ego's false politeness)
 - **Mortificatio** (death of the frog form through violent impact)
 - **Coniunctio** (prince and princess unite)
@@ -475,7 +475,7 @@ The prince is heartbroken: *"If you had waited one more year, I would have been 
 
 He vanishes. The girl **quests to the ends of the earth**—aided by the Four Winds, riding on the back of the North Wind, enduring impossible distances—to reach the castle. She wins him back through cunning and devotion.
 
-**Psychological Interpretation:**
+#### Psychological Interpretation
 
 **The Girl as Ego:**
 - She is **passive initially**—surrendering to the bear (unconscious) without understanding.
@@ -510,7 +510,7 @@ He vanishes. The girl **quests to the ends of the earth**—aided by the Four Wi
 **Estés's Reading:**
 *"The girl learns that the soul cannot be kept in the dark. She must **see** her beloved—but she must also **quest** to reclaim him. This is the work of conscious love."*
 
-**Alchemical Parallel:**
+#### Alchemical Parallel
 - **Albedo** (the white bear—purification)
 - **Nigredo** (the exile—loss, darkness, quest)
 - **Rubedo** (reunion—embodied wholeness)
@@ -541,7 +541,7 @@ Psyche completes the tasks with help from **ants, reeds, an eagle, and a tower**
 
 Eros, healed, rescues her. Zeus intervenes, granting Psyche immortality. She and Eros are wed in heaven. Their child is **Voluptas** (Pleasure/Bliss).
 
-**Psychological Interpretation:**
+#### Psychological Interpretation
 
 **Psyche as Soul:**
 - Psyche is explicitly named **Soul**—she is the **ego becoming conscious of itself as soul**.
@@ -587,7 +587,7 @@ Eros, healed, rescues her. Zeus intervenes, granting Psyche immortality. She and
 **Jung's Reading:**
 *"The Psyche myth is the most complete representation of the individuation process in all of mythology. It maps the soul's journey from unconscious beauty to conscious wholeness."*
 
-**Alchemical Parallel:**
+#### Alchemical Parallel
 - **Nigredo** (exile, tasks, descent to underworld)
 - **Albedo** (purification through ordeal)
 - **Rubedo** (deification, Sacred Marriage, birth of Voluptas)
@@ -607,7 +607,7 @@ A man discovers a **seal-woman** (Selkie) or a **swan-maiden** who has shed her 
 
 Years later, she finds it (often the children reveal its hiding place). Without a word, she **returns to the sea** (or sky), leaving husband and children behind. In some versions, she visits her children but never returns to human life.
 
-**Psychological Interpretation:**
+#### Psychological Interpretation
 
 **The Selkie/Swan as Anima:**
 - The seal-woman is the **Anima**—the soul-image, wild, free, belonging to another realm (the unconscious, the ocean, the sky).
@@ -639,7 +639,7 @@ Years later, she finds it (often the children reveal its hiding place). Without 
 **Estés's Reading:**
 *"The Selkie is the Wild Woman who will not be caged. She teaches: the soul cannot be domesticated. You can love her, but you cannot keep her."*
 
-**Alchemical Parallel:**
+#### Alchemical Parallel
 - **Solutio** (dissolution—the soul returning to the formless, the ocean)
 - **Failed Coniunctio** (the marriage was possession, not union)
 
@@ -657,7 +657,7 @@ The cloth sells for great wealth. The man's curiosity grows unbearable. One nigh
 
 She turns, sees him, and speaks: *"I told you never to look. Now I must leave."* She transforms back into a crane and flies away forever.
 
-**Psychological Interpretation:**
+#### Psychological Interpretation
 
 **The Crane as Anima:**
 - The crane is the **Anima**—the soul-image who brings beauty, abundance, and creativity.
@@ -681,7 +681,7 @@ She turns, sees him, and speaks: *"I told you never to look. Now I must leave."*
 - The man gained wealth (the Anima's gift) but **lost the giver**.
 - The motif teaches: **You can have the Anima's gifts, or you can have the Anima—but you cannot possess both.**
 
-**Alchemical Parallel:**
+#### Alchemical Parallel
 - **Albedo** (the crane's presence—purity, beauty)
 - **Mortificatio** (the crane's self-sacrifice—her bleeding body)
 - **Failed Coniunctio** (the violation destroys the union)
@@ -767,7 +767,7 @@ Across variants, transformation occurs through **three primary mechanisms**:
 - The ego **accepts the shadow** (sexuality, embodiment, instinct) without moralizing.
 - The Anima is **freed from contamination** by the ego's honest relating.
 
-**Alchemical Parallel:**
+#### Alchemical Parallel
 - **Solutio** (dissolution of the ego's rigidity in the "water" of Eros)
 - **Albedo** (purification through love)
 
@@ -782,7 +782,7 @@ Across variants, transformation occurs through **three primary mechanisms**:
 - Jung: *"The shadow must be confronted with the full force of consciousness. Sentimentality will not integrate it."*
 - The rage is **not rejection** but **honest encounter**—the ego meets the shadow **as it is**.
 
-**Alchemical Parallel:**
+#### Alchemical Parallel
 - **Calcination** (burning away pretense through the fire of authentic emotion)
 - **Mortificatio** (death of the false relationship through violent truth)
 
@@ -797,7 +797,7 @@ Across variants, transformation occurs through **three primary mechanisms**:
 - Active imagination, quest, descent to the underworld—all are forms of **sustained engagement** with the unconscious.
 - The Anima is earned through **devotion**, not claimed by force.
 
-**Alchemical Parallel:**
+#### Alchemical Parallel
 - **Nigredo** (the ordeal, the quest, the descent)
 - **Rubedo** (reunion after purification through suffering)
 
@@ -840,7 +840,7 @@ The prohibition is **always violated**. This is not weakness—it is **structura
 
 3. **Betrayal Reveals the Ego's True Nature:** The violation forces the ego to confront its **need for control, its lack of trust, its possessiveness**. This is **shadow work**.
 
-**The Pattern:**
+#### The Pattern
 
 1. **Prohibition imposed** (do not look, do not name, do not question)
 2. **Temptation grows** (curiosity, doubt, need for control)
@@ -994,12 +994,12 @@ The Lovers card depicts the **choice between opposites** and the **union of masc
 - The angel represents the **higher Self** overseeing the union—the Coniunctio is **sacred**, not merely personal.
 - The two trees represent the **duality** that must be integrated (knowledge and life, spirit and matter).
 
-**Psychological Function:**
+#### Psychological Function
 
 - The Lovers asks: **Can you choose the other as other, or only as projection?**
 - The card reveals the tension between **ego desire** (the temptation) and **soul necessity** (the sacred union).
 
-**Alchemical Parallel:**
+#### Alchemical Parallel
 
 - The Lovers is the **Coniunctio** itself—the White Queen and Red King in embrace.
 
@@ -1019,12 +1019,12 @@ The Strength card (Rider-Waite) or Lust card (Thoth) depicts a **woman embracing
 - She does not **kill** the lion—she **embraces** it. This is the core teaching of the motif: **love the beast into transformation**.
 - The Thoth card makes explicit what Rider-Waite implies: this is **erotic integration**, not moral purity. **Lust** (desire, instinct, Eros) is **sacred**.
 
-**Psychological Function:**
+#### Psychological Function
 
 - Strength asks: **Can you embrace your instinctual nature without being devoured by it?**
 - The card reveals the **power of Eros** over Logos—the lion is not defeated by reason but by love.
 
-**Alchemical Parallel:**
+#### Alchemical Parallel
 
 - The lion is **Sulfur** (the Red King, fire, passion). The woman is **Mercury** (the fluid soul, the mediator).
 - Their union is the **Coniunctio**—spirit and instinct reconciled.
@@ -1044,12 +1044,12 @@ Temperance depicts an **angel mixing water and fire**, one foot on land, one in 
 - The mixing of water (unconscious, Anima) and fire (conscious, spirit) is the **alchemical work** that transforms beast into prince.
 - The path to the mountains is the **journey** (Psyche's quest, the journey to the ends of the earth).
 
-**Psychological Function:**
+#### Psychological Function
 
 - Temperance asks: **Can you hold the tension of opposites without collapsing into one pole?**
 - The card reveals the **Transcendent Function**—the birth of the Self through sustained paradox.
 
-**Alchemical Parallel:**
+#### Alchemical Parallel
 
 - Temperance is the **alchemical vessel** itself—the container where opposites unite.
 - The card depicts the **Great Work** in process.

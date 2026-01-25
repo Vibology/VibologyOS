@@ -172,7 +172,7 @@ In esoteric anatomy, Libra governs the **kidneys** (filtration, the body's capac
 
 Libra's shadow is **codependency disguised as love**—the one who loses themselves in the other, who mistakes self-erasure for harmony, who cannot name their needs for fear of disrupting the peace.
 
-**Shadow expressions:**
+#### Shadow expressions
 - **People-pleasing:** The inability to say no; the diplomat who sacrifices all truth for the appearance of harmony
 - **Indecision:** The mind that sees all sides and thus cannot choose; the paralysis of infinite comparison
 - **Superficiality:** The relationship that looks beautiful but lacks depth; the partner who curates appearance over authenticity

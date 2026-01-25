@@ -299,7 +299,7 @@ Jung's method for withdrawing Anima/Animus projection:
 
 **Intellectual Clarity (women):** No longer possessed by rigid opinions. Can think without dogma. Can assert without aggression. Can lead without apology.
 
-**The Gift:**
+#### The Gift
 A **soul-connected individual** who has built the bridge between ego and unconscious, who can access the deep creative source, who can relate authentically to others because the soul is no longer projected but integrated—the **White Queen** or **Wise King** within.
 
 ## Cross-References
@@ -317,12 +317,12 @@ A **soul-connected individual** who has built the bridge between ego and unconsc
 - [[The Reward]] (claiming the bride, the sacred marriage)
 - [[Meeting the Mentor]] (soul-image as guide)
 
-**Individuation Process:**
+#### Individuation Process
 - [[Confrontation with Shadow]] (Stage 3—prerequisite for soul-work)
 - [[Confrontation with the Self]] (Stage 5—soul is bridge to Self)
 - [[Integration and Wholeness]] (Stage 6—soul work is essential)
 
-**Alchemical Stages:**
+#### Alchemical Stages
 - [[Albedo]] (primary operation of this stage—whitening, purification)
 - [[Nigredo]] (preceded this—blackening, shadow work)
 - [[Rubedo]] (follows this—reddening, union with Self)
@@ -349,7 +349,7 @@ A **soul-connected individual** who has built the bridge between ego and unconsc
 - [[Gate 13]] (The Listener—receptivity to collective narratives)
 - [[Gate 55]] (Abundance—emotional depth and spirit)
 
-**Mythology:**
+#### Mythology
 - [[Greek Mythology]] (Psyche & Eros, Orpheus & Eurydice)
 - [[Hindu Mythology]] (Shiva & Shakti, Ardhanārīśvara)
 - [[Egyptian Mythology]] (Isis & Osiris, Nut & Geb)

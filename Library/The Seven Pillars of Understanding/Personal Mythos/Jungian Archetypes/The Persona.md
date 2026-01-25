@@ -589,7 +589,7 @@ The Persona appears in dreams through specific motifs:
 
 The Persona interacts dynamically with other archetypal structures:
 
-**The Shadow:**
+#### The Shadow
 - The Persona is the **"light brother"** to the Shadow's **"dark brother."**
 - What the Persona **displays**, the Shadow **hides**. The more rigid the Persona, the more volatile the Shadow.
 - **Compensation:** The perfect professional (Persona) has a shadow of chaos, incompetence, or hedonism.
@@ -670,13 +670,13 @@ The Persona interacts dynamically with other archetypal structures:
 ## Shadow Dynamics
 **How does the Persona manifest differently in men vs. women?**
 
-**In Men:**
+#### In Men
 - **Cultural Persona:** Men are pressured to adopt Personas of **strength, rationality, stoicism, and provision** (the Protector, the Breadwinner, the Rational Authority).
 - **Shadow beneath:** Vulnerability, emotion, tenderness, receptivity—all coded as "feminine" and thus repressed beneath the masculine Persona.
 - **Pathology:** Men who **over-identify** with the stoic Persona become emotionally unavailable, rigid, unable to access intimacy. The armor becomes prison.
 - **Integration:** Reclaiming the **Anima** (inner feminine)—allowing emotion, receptivity, and vulnerability **without losing masculine identity**. The integrated man can be strong **and** tender, rational **and** emotional.
 
-**In Women:**
+#### In Women
 - **Cultural Persona:** Women are pressured to adopt Personas of **nurturing, beauty, relational harmony, and self-sacrifice** (the Caregiver, the Peacemaker, the Beautiful Object).
 - **Shadow beneath:** Aggression, ambition, intellect, erotic agency—all coded as "unfeminine" and thus repressed beneath the feminine Persona.
 - **Pathology:** Women who **over-identify** with the nurturing Persona lose access to assertiveness, ambition, and self-advocacy. The role of "selfless mother" or "pleasing partner" consumes identity.

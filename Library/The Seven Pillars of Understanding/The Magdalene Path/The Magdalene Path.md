@@ -159,7 +159,7 @@ The horizontal systems **describe** what you're experiencing. The Magdalene Path
 
 The Magdalene Path presents the soul's ascent as **climbing the Great Tree**, a vision taught by [[Mary Magdalene - Apostle and Beloved|Mary Magdalene]] in **The Gospel of the Beloved Companion** (de Quillan, Ch. 42). In this vision, the Master (Jesus) shows Miryam (Mary) a great tree rooted in the earth (the body) and extending upward through five regions of humanity to the crown (the kingdom of the Spirit). One must ascend this tree to know the truth of eternal life. The tree has **eight great boughs**, each bearing specific "fruit" (virtue) that must be eaten in fullness. Between each bough stands a **guardian** (shadow/power) who challenges the soul.
 
-**The Structure:**
+#### The Structure
 - **The Fruit** - Virtue to be integrated
 - **The Shadow** - What blocks ascent
 - **The Guardian** - The power confronted at the gate
@@ -227,7 +227,7 @@ These must be denied through **apophasis** (negation) at each bough.
 
 **The Practice:** Letting go of egoic grasping—control, defensiveness, self-image, the need to be right. Bourgeault defines kenosis not as ascetic renunciation, but as "non-clinging" or "letting be" (Bourgeault, 114). Kenosis is **not** repression or self-annihilation. It is the **relaxation of the grip** on desires, allowing abundance to flow through. It functions as a tool of perception: by releasing the ego's grasp, one clears the lens of the heart to perceive divine abundance.
 
-**How It Works:**
+#### How It Works
 1. **Notice the Constriction:** When you feel fear, craving, or resistance, pause
 2. **Name It:** "I am gripping. I am clinging."
 3. **Release:** Not by pushing away the desire, but by **opening the hand**—allowing it to be there without grasping
@@ -243,7 +243,7 @@ These must be denied through **apophasis** (negation) at each bough.
 
 **The Practice:** Becoming whole within—integrating the masculine and feminine, the vertical and horizontal, the conscious and unconscious. A Single being is **not** celibate or alone; they are **internally complete**, not seeking external validation or completion. It is the state of the *anthropos* (fully realized human) where binaries—such as male/female or inner/outer—are integrated into a single whole. One becomes "single" when the heart is unified, regardless of marital status (Bourgeault, 97).
 
-**How It Works:**
+#### How It Works
 1. **Witness Consciousness:** Develop an inner observer—the part of you that is **not** identified with emotions, thoughts, or roles
 2. **Integration:** Recognize that you contain both masculine (logos, structure, direction) and feminine (eros, flow, receptivity)
 3. **Qualification:** Only a Single being can enter the **Bridal Chamber**—if you enter seeking completion from another, it is merely "marriage" (egoic partnership), not sacred union (Gospel of Philip, NHL)
@@ -256,7 +256,7 @@ These must be denied through **apophasis** (negation) at each bough.
 
 **The Practice:** "Laying down your life" for another—not martyrdom, but **exchanging places**. Standing in the beloved's place to bear their burden, reflect their light, or hold space when they cannot.
 
-**How It Works:**
+#### How It Works
 1. **Total Presence:** When the beloved is in pain, fear, or confusion, you **do not** fix, advise, or rescue
 2. **Stand In Their Place:** Energetically, you imagine yourself **as them**—feeling what they feel, seeing from their perspective
 3. **Reflect Light:** You hold the truth of their wholeness when they cannot see it themselves
@@ -317,7 +317,7 @@ Each stage of ascent corresponds to a **Major Arcana Key**:
 
 For those with **undefined Head and Ajna centers** (particularly [[Reflector|Reflectors]]), the **28-day Lunar Cycle** is the mechanical bridge to wisdom. The Moon moves through all 64 Gates in ~28 days, allowing the individual to "sample" all frequencies before making a major decision.
 
-**The Practice:**
+#### The Practice
 1. **Wait 28 days** before making a significant choice
 2. **Talk to others** during this cycle—not for advice, but to hear your own truth reflected
 3. **Notice patterns**—transient emotions filter out, leaving deep knowing

@@ -14,6 +14,7 @@ sephirah: Tiphareth
 planetary: Jupiter in Leo
 title: Lord of Victory
 ---
+# Six of Wands
 *Lord of Victory*
 
 ---

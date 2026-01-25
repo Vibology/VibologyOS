@@ -15,6 +15,7 @@ planetary: Jupiter in Gemini
 decan: First decan of Gemini (0-10 degrees)
 title: Lord of Shortened Force
 ---
+# Eight of Swords
 
 *Lord of Shortened Force*
 

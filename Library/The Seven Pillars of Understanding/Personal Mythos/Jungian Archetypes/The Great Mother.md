@@ -576,7 +576,7 @@ The Great Mother appears in dreams with specific motifs:
 
 The Great Mother interacts dynamically with other archetypal structures:
 
-**The Shadow:**
+#### The Shadow
 - The Mother complex often **contains shadow material**—rejected rage, dependency, vulnerability, need.
 - The Terrible Mother is the **shadow of the Good Mother**—both are necessary.
 - Integration: Accepting the Mother's (and one's own) duality—capacity to nourish and destroy.
@@ -659,13 +659,13 @@ The Great Mother interacts dynamically with other archetypal structures:
 ## Shadow Dynamics
 **How does the Great Mother manifest differently in men vs. women?**
 
-**In Men:**
+#### In Men
 - The **Mother complex** often manifests as seeking the Good Mother (unconditional nurturer) in romantic partners—Don Juanism, serial monogamy, or idealization of women.
 - Or fleeing the Terrible Mother (the woman who will smother, control, castrate)—fear of commitment, sexual dysfunction, misogyny.
 - **Cultural conditioning:** Men are taught to **reject the Mother** (separate, become independent, "be a man"). Yet the Mother complex remains **unconscious**, driving compulsive behaviors.
 - **Integration:** Reclaiming the capacity to **receive nourishment** without shame. Honoring the feminine (within and without) without fear of losing masculine identity. Withdrawing Mother projections from women to see them clearly.
 
-**In Women:**
+#### In Women
 - The **Mother complex** manifests as **over-identification** (living only to nurture, erasing selfhood) or **rejection** (fleeing into Animus possession, denying softness/vulnerability).
 - **Cultural conditioning:** Women are taught to **become the Mother** (nurture, serve, sacrifice). The "good woman" is the self-erasing caretaker. Rebellion often means **rejecting the archetype entirely** (childlessness, career focus, emotional coldness).
 - **Integration:** Reclaiming the Mother archetype **on one's own terms**—nurturing without martyrdom, embodying the feminine without erasure. Differentiating from the personal mother (her wounds are not yours). Honoring both the Good Mother (capacity to nourish) and the Terrible Mother (capacity to say "no," to set boundaries, to let things die).

@@ -122,7 +122,7 @@ Because the Individual Knowing Circuit is designed for **mutation through exampl
 
 Gate 22 forms **Channel 22-12: Openness (The Social Being)** when connected to Gate 12 in the Throat Center.
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 
 - **Gate 22 (Solar Plexus):** "I have the emotional spirit to be gracious, to listen, to be present with the mundane."
 - **Gate 12 (Throat):** "I know when to speak and when to remain silent—I articulate caution and restraint."
@@ -132,7 +132,7 @@ When this channel is defined, the individual has **consistent access to emotiona
 
 **Without the channel defined** (only Gate 22 activated), the individual experiences **grace without articulation**—they have emotional openness but may struggle to know when to express it or remain silent. They may need another person with Gate 12 to complete the electromagnetic circuit—someone who can provide the verbal caution to balance their emotional spirit.
 
-**Interpersonal Electromagnetic Dynamics:**
+#### Interpersonal Electromagnetic Dynamics
 
 - **Both have Channel 22-12:** Potential mutual recognition or competition over who is the "gracious one" in social settings.
 - **One has Gate 22, other has Gate 12:** The Gate 22 person provides the emotional openness; the Gate 12 person provides the verbal restraint. This can be profoundly effective—emotional presence and articulate caution.
@@ -142,7 +142,7 @@ When this channel is defined, the individual has **consistent access to emotiona
 
 Gate 22 is located in the **Solar Plexus Center**, which corresponds biologically to the **kidneys, pancreas, prostate, lungs (partially), and the nervous system**—organs associated with emotional processing, energy regulation, and sensitivity.
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 22 defined may experience:
 - **Heightened emotional sensitivity**, especially to social dynamics and others' moods
@@ -150,7 +150,7 @@ Individuals with Gate 22 defined may experience:
 - **Nervous system reactivity to social environments**—feeling soothed or agitated based on the emotional quality of interactions
 - **Pancreatic sensitivity (blood sugar fluctuations)** correlating with emotional waves—feeling depleted after intense social engagement
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Solar Plexus Center radiates **emotional waves** into the aura. When Gate 22 is active, the aura carries a frequency that says: "I am here to listen, to be present, to offer emotional grace." Others may feel this as **welcoming**, **comforting**, or (if the individual is in Not-Self) **emotionally needy** or **over-accommodating**.
 
@@ -188,7 +188,7 @@ The emotional grace is inconsistent (activated only by transits or others). The 
 - **Emotional Neediness:** Using listening as a way to be needed, creating dependency through emotional openness.
 - **Resentment:** Giving grace and listening but secretly resenting that it is not reciprocated.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Frustration from offering grace without Sacral response (for Generators)
 - Bitterness from providing emotional presence without invitation (for Projectors)
@@ -216,7 +216,7 @@ The **7-year deconditioning cycle** for Gate 22 involves learning to recognize w
 
 **Year 7:** Integration phase—grace becomes aligned with the Gift of Graciousness (Gene Keys). The individual offers emotional presence, listens deeply, and handles mundane situations with genuine spirit—not because they "should," but because it is authentic. Grace is natural, not performed.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice where the impulse to be gracious arises in the body. Is it the solar plexus (genuine emotion)? The throat (need to please)? The mind (strategy)?
 - Practice **riding the emotional wave** before offering presence or listening (for Emotional Authority).
@@ -264,14 +264,14 @@ In Jungian terms, Gate 22 corresponds to the **Feeling Function**—the psycholo
 
 The archetype of the gracious host/hostess who creates space for others, who listens without judgment, who makes guests feel welcome through emotional presence. This is the capacity for **emotional hospitality**.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 22** manifests as:
 - **The People-Pleaser:** Performing grace to be liked, losing personal integrity in the process.
 - **The Emotional Sponge:** Absorbing others' feelings without boundaries, becoming overwhelmed.
 - **The Charmer:** Using grace manipulatively, enchanting to control or gain advantage.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 22, individuation requires:
 1. **Recognizing that grace serves presence, not performance:** Authentic emotional openness cannot be forced.
@@ -284,7 +284,7 @@ When integrated, Gate 22 becomes the expression of **sacred presence**—the cap
 
 When the individual with Gate 22 operates according to their Strategy and Authority, the gift that emerges is **Graciousness** (Gene Keys) and **Authentic Emotional Presence** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Grace is offered only when emotionally clear (riding the wave for Emotional Authority).
 - Listening is genuine, not performed—the individual is truly present, not strategizing.
@@ -299,7 +299,7 @@ The Signature of the Solar Plexus Center (when operating correctly through Emoti
 - **Listening that creates space for truth**—others feel heard without being fixed
 - **Beauty in the mundane**—the capacity to bring presence to trivial moments
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 22 teaches that **true grace is not performance but presence**. When the individual honors their emotional wave, offers listening from clarity, and embodies grace authentically, they become a **living example** of emotional intelligence. This is the essence of the Individual Knowing Circuit—to demonstrate new possibilities through authentic expression, not instruction.
 

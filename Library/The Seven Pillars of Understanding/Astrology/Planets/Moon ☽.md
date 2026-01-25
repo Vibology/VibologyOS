@@ -161,7 +161,7 @@ The Moon's aspects to other planets reveal how emotional and somatic intelligenc
 ## Shadow Expression
 The Moon's shadow is **merged boundaries**—the loss of self in emotional fusion with others, or its opposite: **emotional fortressing** (the refusal to feel, the body locked in survival mode).
 
-**Shadow expressions:**
+#### Shadow expressions
 - **The Devouring Mother:** Emotional engulfment, inability to let others individuate
 - **The Abandoned Child:** The lunar wound—"I was not held, not nourished, not safe"
 - **Emotional Flooding:** Reactive overwhelm, inability to regulate, the body as chaos

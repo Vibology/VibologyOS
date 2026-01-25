@@ -124,7 +124,7 @@ Gate 63 forms one channel:
 
 **Channel 63-4: Logic (The Formula)** (Head to Ajna)
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 - **Gate 63 (Head):** "I am under pressure to doubt; I must question patterns."
 - **Gate 4 (Ajna):** "I formulate answers; I create mental solutions to resolve doubt."
 - **Channel 63-4:** The bridge between doubt and formulation—the capacity for **logical thinking that questions and answers**.
@@ -137,7 +137,7 @@ This channel creates the archetype of **The Formula**—the one who is under pre
 
 Gate 63 is located in the **Head Center**, which corresponds biologically to the **pineal gland** and the **mental pressure system** that drives questioning, skepticism, and verification.
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 63 defined may experience:
 - A **constant pressure to question**—the mind is driven to doubt, test, and verify
@@ -145,7 +145,7 @@ Individuals with Gate 63 defined may experience:
 - **Mental restlessness** when patterns are accepted without proof; the pressure builds until verification occurs
 - **Relief through verification**—the body relaxes when doubt is resolved through testing
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Head Center radiates **mental pressure and questioning** into the aura. When Gate 63 is active, the aura carries a frequency that says: "I doubt this. Let me question it. Prove it to me." Others may feel this as **challenging**, **rigorous** (inspiring higher standards), or (if the individual is in Not-Self) **paranoid and destabilizing**.
 
@@ -187,7 +187,7 @@ The 28-day lunar cycle allows the Reflector to sample Gate 63's pressure across 
 - **Analysis Paralysis:** Doubting so thoroughly that action becomes impossible; verification becomes infinite regress.
 - **Undermining Others:** Using skepticism as weapon; questioning others' work to assert dominance.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Chronic doubt about patterns that have been proven reliable
 - Questioning compulsively without purpose
@@ -216,7 +216,7 @@ The **7-year deconditioning cycle** for Gate 63 involves learning to recognize w
 
 **Year 7:** Integration phase—doubt becomes aligned with Strategy and Authority. Doubt transforms into Inquiry (Gene Keys Gift), and the individual experiences **productive questioning** that leads to truth rather than anxiety. Truth flows naturally when doubt serves verification.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice when the pressure arises. Is it in the Head (authentic doubt drive) or the mind (conditioned cynicism)?
 - Practice **questioning with purpose**—doubting to verify, not to undermine.
@@ -266,14 +266,14 @@ In Jungian terms, Gate 63 corresponds to the **Thinking Function** (specifically
 
 The Skeptic archetype questions—not to destroy, but to verify. This is not the cynic who denies all truth, but the scientist who **refuses belief until proof is provided**. Gate 63 is the skeptic's capacity to **doubt in service to truth**.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 63** manifests as:
 - **Paranoia:** Seeing unreliability in all patterns; questioning as compulsion rather than inquiry.
 - **Cynicism:** Using doubt to tear down; refusing to affirm even verified truths.
 - **Undermining:** Questioning others to assert superiority; using skepticism as weapon.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 63, individuation requires:
 1. **Integration of Doubt and Trust:** Recognizing that both have value; doubt verifies, trust allows action.
@@ -286,7 +286,7 @@ When integrated, Gate 63 becomes the expression of the **Verified Self**—the c
 
 When the individual with Gate 63 operates according to their Strategy and Authority, the gift that emerges is **Inquiry** (Gene Keys) and **Productive Doubt** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Doubt is honored as productive inquiry, not chronic suspicion.
 - Patterns are questioned to verify their reliability, not to undermine them.
@@ -301,7 +301,7 @@ The Signature of the Head Center (for all gates within it) is the experience of 
 - **Questioning with composure** (Line 1)—skepticism without anxiety
 - **Inquiry that serves the collective**, not the ego
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 63 teaches that **doubt serves truth**. When the individual honors their pressure to question according to Strategy and Authority, they become a **living example** of what it means to verify patterns without destroying them, to doubt productively rather than cynically, to question in service to collective understanding. This is the essence of the Logic Circuit—not to believe blindly, but to **test until truth is proven**.
 

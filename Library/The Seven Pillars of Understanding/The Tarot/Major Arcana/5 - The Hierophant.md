@@ -11,6 +11,7 @@ verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
+# 5 - The Hierophant
 *The Magus of the Eternal*
 
 ---
@@ -55,7 +56,7 @@ The key insight is that The Hierophant always deals with **the transmission of w
 ## Divination Use
 **Upright:** Marriage, alliance, tradition, teaching, spiritual authority, initiation into lineage, mercy, goodness, organized religion, conventional wisdom, the path that has been tested, submission to legitimate authority. Keywords: Tradition, teaching, hierarch, sacred law, orthodox practice.
 
-**Reversed (per Waite):**
+#### Reversed (per Waite)
 Society, good understanding, concord, overkindness, weakness. Rejection of tradition, spiritual independence, unorthodox path, questioning authority, community without hierarchy, mercy without discernment, dissolution of structure.
 
 ---

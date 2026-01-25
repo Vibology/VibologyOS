@@ -12,6 +12,7 @@ element: Air
 court_rank: King
 elemental_formula: Fire of Air
 ---
+# King of Swords
 
 *The Throne of Sovereign Judgment*
 

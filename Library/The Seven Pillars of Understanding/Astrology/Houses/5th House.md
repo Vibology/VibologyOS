@@ -70,7 +70,7 @@ Leo is the fixed fire sign that shines, celebrates, and creates from abundance. 
 
 The **ruler of the 5th House** (the planet ruling the sign on the 5th House cusp) reveals *how* you express creativity and what brings you joy.
 
-**Examples:**
+#### Examples
 - **Mercury ruling 5th → Gemini/Virgo on 5th cusp** — Creativity through writing, teaching, mental play
 - **Mars ruling 5th → Aries/Scorpio on 5th cusp** — Creativity through action, competition, sexual expression
 - **Saturn ruling 5th → Capricorn/Aquarius on 5th cusp** — Creativity through discipline; joy earned, not spontaneous

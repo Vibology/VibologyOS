@@ -122,7 +122,7 @@ Because the Individual is bringing forth what has never existed, there is **no t
 
 Gate 3 forms **Channel 3-60: Mutation** when connected to Gate 60 in the Root Center.
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 
 - **Gate 3 (Sacral):** "I have the life force to sustain mutation through chaos."
 - **Gate 60 (Root):** "I feel the pressure to mutate, to accept limitation and innovate within it."
@@ -136,7 +136,7 @@ Channel 3-60 does not operate on a steady, predictable rhythm. It **pulses**—m
 
 **Without the channel defined** (only Gate 3 activated), the individual has the Sacral energy to respond to mutation but may not feel the consistent **pressure to mutate**. They need someone with Gate 60 to complete the electromagnetic circuit—someone who provides the Root pressure that activates their Sacral life force.
 
-**Interpersonal Electromagnetic Dynamics:**
+#### Interpersonal Electromagnetic Dynamics
 
 - **Both have Channel 3-60:** Potential mutative collaboration or competition, depending on whether their mutations are complementary or conflicting.
 - **One has Gate 3, other has Gate 60:** The Gate 60 person brings the pressure; the Gate 3 person provides the sustained life force to act on it. This can be highly generative.
@@ -146,14 +146,14 @@ Channel 3-60 does not operate on a steady, predictable rhythm. It **pulses**—m
 
 Gate 3 is located in the **Sacral Center**, which corresponds biologically to the **ovaries** (in those assigned female at birth) or **testes** (in those assigned male at birth). The Sacral is the **life force center**—fertility, sexuality, creativity, work capacity, and sustainability.
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 3 defined may experience:
 - A deep **somatic pulse** of energy that comes and goes—moments of intense creative life force followed by necessary rest
 - **Reproductive/sexual energy** tied to creativity and mutation (not necessarily literal reproduction, but the capacity to "birth" new forms)
 - Sensitivity to **overextension**—pushing beyond the pulse's natural rhythm leads to burnout
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Sacral Center radiates **life force and fertility** into the aura. When Gate 3 is active, the aura carries a frequency that says: "I am here to innovate, to bring forth the new, even if it's chaotic." Others may perceive this as **inspiring**, **disruptive**, or (if the individual is in Not-Self) **chaotic and unstable**.
 
@@ -191,7 +191,7 @@ The mutative energy is experienced only through transits or proximity to others 
 - **Victimization (Line 5):** Believing that difficulty is happening *to* you rather than being the natural condition of innovation.
 - **Refusing to Surrender (Line 6):** Fighting the chaos rather than allowing it to reorganize naturally.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Feeling chronically overwhelmed or scattered
 - Starting projects with enthusiasm but abandoning them when difficulty arises
@@ -219,7 +219,7 @@ The **7-year deconditioning cycle** for Gate 3 involves learning to honor the Sa
 
 **Year 7:** Integration phase—mutation becomes aligned with Sacral Authority. The individual moves from **chaos** (Gene Keys Shadow) to **innovation** (Gift) to **innocence** (Siddhi)—the recognition that all mutation is a return to original, unconditioned creative expression.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice the **pulse** of mutative energy in the body. When does it surge? When does it recede?
 - Practice **responding** to opportunities for innovation rather than initiating them mentally.
@@ -270,14 +270,14 @@ In Jungian terms, Gate 3 corresponds to the **Birth Archetype** and the **Nigred
 
 The Birth archetype is not only literal childbirth but the **psychological and creative act of bringing forth new life**. All birth is traumatic—for the mother, for the child. It is painful, chaotic, and messy. But it is also the only way new life enters the world.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 3** manifests as:
 - **Fear of Chaos:** Avoiding all new beginnings because they are inherently difficult, leading to stagnation.
 - **Chaos Addiction:** Constantly creating chaos or crisis as a way to feel alive, confusing difficulty with meaning.
 - **Impatience with Gestation:** Demanding that innovations emerge fully formed, refusing to honor the messy middle stages.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 3, individuation requires:
 1. **Embracing Immaturity (Line 2):** Accepting that all new beginnings involve not-knowing and clumsiness.
@@ -290,7 +290,7 @@ When integrated, Gate 3 becomes the **embodied capacity to birth the new**—to 
 
 When the individual with Gate 3 operates according to their Strategy and Authority, the gift that emerges is **Innovation** (Gene Keys) and **Sustainable Mutation** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Innovations arise from authentic Sacral response, not mental agendas.
 - Difficulty is recognized as the **natural condition** of new beginnings, not a sign of failure.
@@ -305,7 +305,7 @@ The Signature of the Sacral Center (for Generators/MGs) is **Satisfaction**. For
 - **Deep fulfillment** when innovations are born from authentic Sacral response
 - **Joy in bringing order from chaos**, witnessing new forms emerge
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 3 teaches that **mutation is not easy, and it shouldn't be**. When the individual honors their Sacral Authority, trusts the pulse of innovation, and allows difficulty to be present without resistance, they become a **living example** of how to birth the new without breaking. This is the essence of the Individual stream—not to lead or teach, but to **empower through example**.
 

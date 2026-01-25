@@ -55,13 +55,13 @@ The electromagnetic relationship between Gate 7 and Gate 31 is one of **leadersh
 
 When these two gates form a complete channel, the individual has **consistent access to leadership capacity**. They are designed to guide groups, organizations, or societies—but only when recognized and invited by the majority.
 
-**The Dynamic:**
+#### The Dynamic
 
 - **Gate 7 without Gate 31:** The individual embodies leadership potential but struggles to articulate or express it. They know they could lead but lack the voice to influence.
 - **Gate 31 without Gate 7:** The individual has the capacity to influence but lacks the embodied leadership role. They may speak persuasively but without the grounded authority to guide.
 - **Channel 7-31 Complete:** Leadership role and influence are unified. The individual becomes a **democratic leader**—recognized by the majority, articulating a shared direction, guiding the collective toward sustainability.
 
-**Interpersonal Electromagnetic Completion:**
+#### Interpersonal Electromagnetic Completion
 
 When two people come together with complementary gates:
 - **One with Gate 7, other with Gate 31:** The Gate 7 person embodies the leadership role; the Gate 31 person articulates it. Together, they become a **leadership partnership**—one guides, one speaks.
@@ -76,7 +76,7 @@ The G Center is the **biological seat of identity**—associated with the liver,
 
 The Throat is the **manifestation center**—associated with the thyroid and parathyroid glands, metabolism, and the transformation of internal identity into external expression (speech, action, influence).
 
-**Biological Flow:**
+#### Biological Flow
 
 When Channel 7-31 is defined, there is a **direct biological pathway** from leadership identity to leadership expression. The individual's sense of self (G Center) is hardwired to their capacity to communicate and influence (Throat). This means:
 
@@ -84,7 +84,7 @@ When Channel 7-31 is defined, there is a **direct biological pathway** from lead
 - **Liver and thyroid connection.** The liver (G Center) processes and detoxifies; the thyroid (Throat) regulates metabolism and energy. If the individual is not living their leadership role, both systems may suffer—energetic stagnation or metabolic imbalance.
 - **Magnetic presence.** The G Center's magnetic field, when expressed through the Throat, creates a **leadership aura**—others sense the individual's capacity to guide.
 
-**Somatic Signature:**
+#### Somatic Signature
 
 Individuals with Channel 7-31 may feel:
 - **A pressure in the throat** when leadership insights are not expressed or recognized.
@@ -153,7 +153,7 @@ Channel 7-31 is a **Projected Channel** (G Center to Throat, no motor connection
 - **Gate 31 defined, Gate 7 open:** The individual can influence but lacks the embodied leadership role. They may speak persuasively but without authority.
 - **Both gates open:** The individual samples leadership from others. They may become wise about leadership by observing without being driven to lead. Vulnerability to conditioning: "I must lead to be valuable."
 
-**Wisdom for the Undefined:**
+#### Wisdom for the Undefined
 
 If you do not have Channel 7-31, you are not here to be a democratic leader in the Collective sense. You may lead in other ways (Individual empowerment, Tribal dominance) or simply amplify others' leadership. This is not a lack—it is a different design.
 
@@ -162,18 +162,18 @@ If you do not have Channel 7-31, you are not here to be a democratic leader in t
 
 Channel 7-31 is an **electromagnetic channel**.
 
-**Electromagnetic Completion in Partnerships:**
+#### Electromagnetic Completion in Partnerships
 
 When one partner has Gate 7 and the other has Gate 31, the relationship becomes a **leadership partnership**:
 - The Gate 7 person embodies the leadership role, the "I am the guide."
 - The Gate 31 person articulates the influence, the "I will speak for us."
 - Together, they lead groups, families, or organizations—one guides, one speaks.
 
-**Potential Shadow:**
+#### Potential Shadow
 
 If the Gate 7 person is passive ("You speak for me"), the Gate 31 person may feel burdened. If the Gate 31 person dominates ("I'll speak regardless of your direction"), the Gate 7 person may feel unrepresented.
 
-**Healthy Dynamic:**
+#### Healthy Dynamic
 
 Mutual recognition. The Gate 7 person honors the Gate 31's voice. The Gate 31 person honors the Gate 7's embodied authority. The relationship becomes a **co-leadership**.
 
@@ -215,13 +215,13 @@ Channel 7-31 does **not** carry Authority (it is not a motor or awareness center
 - **Division (Gene Keys Shadow):** Creating factions, polarization, or conflict within the collective.
 - **Bitterness:** Feeling unrecognized, undervalued, or rejected when leadership is not invited (especially for Projectors).
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - **For Projectors:** Bitterness. "Why doesn't anyone recognize my leadership?"
 - **For Generators:** Frustration. "Why am I exhausted from leadership roles I thought I wanted?"
 - **For Manifestors:** Anger. "Why do people resist my leadership?"
 
-**Conditioning Patterns:**
+#### Conditioning Patterns
 
 The Collective Logic leadership channel is conditioned by:
 - **Individual Conditioning:** "Don't lead the collective; empower individuals."
@@ -256,7 +256,7 @@ The Channel 7-31 individual must **resist the pressure to lead uninvited**. Demo
 - The Gift emerges: **Guidance** (Gate 7) and **Leadership** (Gate 31). You guide the collective toward sustainable patterns with humility and skill.
 - The Siddhi begins to whisper: **Virtue** (Gate 7) and **Humility** (Gate 31). Your leadership becomes a manifestation of selfless service—guiding without ego, influencing without arrogance.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - **Recognition awareness:** Notice when you feel genuinely recognized (body feels open, throat clear) vs. when you are forcing leadership (throat tight, body tense).
 - **Invitation practice:** Before leading, ask: "Am I invited? Does the collective want my guidance?"
@@ -314,12 +314,12 @@ The King/Queen does not rule by force; they rule by **consent of the governed**.
 
 The Channel 7-31 individual embodies the **Democratic Leader Archetype**—the elected official, the recognized guide, the one who leads because the majority chooses them.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 - **The Tyrant:** When leadership is forced without consent, the individual becomes the tyrant—divisive, arrogant, destructive.
 - **The Martyr:** When leadership is withheld despite recognition, the individual becomes the martyr—bitter, resentful, self-sacrificing.
 
-**Integration Path:**
+#### Integration Path
 
 The Channel 7-31 individual must learn to **lead only when invited** and **step down when no longer needed**. Leadership is not identity—it is a temporary role. When the individual releases attachment to the role, they become a vessel for collective guidance.
 

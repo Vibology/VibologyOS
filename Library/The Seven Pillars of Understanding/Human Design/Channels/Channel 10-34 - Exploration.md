@@ -55,13 +55,13 @@ The electromagnetic relationship between Gate 10 and Gate 34 is one of **identit
 
 When these two gates form a complete channel, the individual has **consistent access to self-empowered exploration**. They are designed to live by their own rules, to explore life according to their authentic behavior, and to have the Sacral power to sustain that exploration.
 
-**The Dynamic:**
+#### The Dynamic
 
 - **Gate 10 without Gate 34:** The individual has self-love and authentic behavior but may lack the power to sustain it. They know who they are but feel powerless to live it fully.
 - **Gate 34 without Gate 10:** The individual has immense Sacral power but may lack the direction or self-love to guide it. They may become a force without purpose.
 - **Channel 10-34 Complete:** Identity and power are unified. The individual becomes **self-empowered**—loving themselves and having the life force to explore life according to their convictions.
 
-**Interpersonal Electromagnetic Completion:**
+#### Interpersonal Electromagnetic Completion
 
 When two people come together with complementary gates:
 - **One with Gate 10, other with Gate 34:** The Gate 10 person provides the identity, the convictions, the "this is who I am." The Gate 34 person provides the power, the "I will fuel your authentic behavior." Together, they create an empowered partnership.
@@ -76,7 +76,7 @@ The G Center is the **biological seat of identity**—associated with the liver,
 
 The Sacral is the **biological engine of life force**—associated with the ovaries/testes, reproductive energy, and the capacity to generate sustainable work and sexual vitality.
 
-**Biological Flow:**
+#### Biological Flow
 
 When Channel 10-34 is defined, there is a **direct biological pathway** from identity to life force. The individual's sense of self (G Center) is hardwired to their raw power (Sacral). This means:
 
@@ -84,7 +84,7 @@ When Channel 10-34 is defined, there is a **direct biological pathway** from ide
 - **Self-love drives vitality.** The individual's capacity for sustainable work, creative output, and sexual vitality is directly linked to their self-love. When they love themselves, energy flows. When they compromise, energy depletes.
 - **Liver and reproductive health are linked.** The liver (G Center) processes and detoxifies; the reproductive system (Sacral) generates life. If the individual is not living their authentic convictions, both systems may suffer.
 
-**Somatic Signature:**
+#### Somatic Signature
 
 Individuals with Channel 10-34 may feel:
 - **A deep, steady power** when aligned with their convictions.
@@ -146,7 +146,7 @@ Channel 10-34 is a **Generated Channel** (Sacral-defined).
 - **Gate 34 defined, Gate 10 open:** The individual has immense power but may lack the self-love or direction to guide it. They may become a force without purpose.
 - **Both gates open:** The individual samples self-empowerment from others. They may become wise about convictions by observing without being driven by power. Vulnerability to conditioning: "I must have convictions and power to matter."
 
-**Wisdom for the Undefined:**
+#### Wisdom for the Undefined
 
 If you do not have Channel 10-34, you are not here to be self-empowered through Sacral force. You may empower yourself in other ways (Projected recognition, Emotional clarity, Splenic intuition) or simply reflect and amplify others' power. This is not a lack—it is a different design.
 
@@ -155,18 +155,18 @@ If you do not have Channel 10-34, you are not here to be self-empowered through 
 
 Channel 10-34 is an **electromagnetic channel**.
 
-**Electromagnetic Completion in Partnerships:**
+#### Electromagnetic Completion in Partnerships
 
 When one partner has Gate 10 and the other has Gate 34, the relationship becomes a **power partnership**:
 - The Gate 10 person provides the convictions, the "this is who I am."
 - The Gate 34 person provides the power, the "I will fuel your authentic behavior."
 - Together, they create mutual empowerment—one guides, one fuels.
 
-**Potential Shadow:**
+#### Potential Shadow
 
 If the Gate 10 person is passive ("You power me"), the Gate 34 person may feel burdened. If the Gate 34 person is forceful ("I'll power you regardless of your convictions"), the Gate 10 person may feel overwhelmed.
 
-**Healthy Dynamic:**
+#### Healthy Dynamic
 
 Mutual respect for identity and power. The Gate 10 person honors the Gate 34's raw life force. The Gate 34 person honors the Gate 10's authentic convictions. The relationship becomes a **co-empowerment**.
 
@@ -194,7 +194,7 @@ The Sacral responds to life in the moment. The 10-34 individual must:
 2. Listen to the Sacral's immediate gut response (not the mind's justification).
 3. Honor that response—when the Sacral says "yes," the power is there to explore. When it says "no," forcing leads to frustration.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Throughout the day, check in with the Sacral. Ask yes/no questions: "Do I have energy for this?"
 - Notice the difference between mind (stories, justifications) and Sacral (immediate gut response).
@@ -209,12 +209,12 @@ The Sacral responds to life in the moment. The 10-34 individual must:
 - **Self-Obsession:** Loving the ego instead of the Self, using power for validation rather than authentic exploration.
 - **Frustration:** Initiating exploration without responding, leading to misalignment and depletion.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - **For Generators:** Frustration. "Why am I exhausted from living by convictions I thought were mine?"
 - **For Manifesting Generators:** Frustration and anger. "Why does exploration feel like a struggle?"
 
-**Conditioning Patterns:**
+#### Conditioning Patterns
 
 The Integration exploration channel is conditioned by:
 - **Collective Conditioning:** "Your convictions must align with societal logic and patterns."
@@ -249,7 +249,7 @@ The Channel 10-34 individual must **resist the pressure to conform or compromise
 - The Gift emerges: **Naturalness** (Gate 10) and **Strength** (Gate 34). You behave naturally, empowered by sustainable strength.
 - The Siddhi begins to whisper: **Being** (Gate 10) and **Majesty** (Gate 34). Your exploration becomes a manifestation of divine self-empowerment—being yourself is your greatest power.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - **Conviction check:** Before committing, ask: "Is this conviction mine, or am I adopting someone else's?"
 - **Power awareness:** Notice when the Sacral feels empowered (aligned) vs. depleted (compromised).
@@ -309,12 +309,12 @@ Channel 10-34 is the integration of Self and Hero. The individual loves the Self
 
 The Channel 10-34 individual embodies the **Explorer Archetype** empowered by the **Hero's Strength**—the one who ventures into life according to their own convictions, fueled by unstoppable power.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 - **Force Without Self-Love:** Using power to dominate others or prove worth, rather than to explore authentic convictions.
 - **Self-Obsession:** Fixating on identity at the expense of genuine self-love and exploration.
 
-**Integration Path:**
+#### Integration Path
 
 The Channel 10-34 individual must learn that **power serves self-love, not ego**. When power is used to fuel authentic behavior, it becomes sustainable strength. When used to dominate or prove, it becomes destructive force.
 

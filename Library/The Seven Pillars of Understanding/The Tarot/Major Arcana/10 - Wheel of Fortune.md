@@ -11,6 +11,7 @@ verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
+# 10 - Wheel of Fortune
 *The Lord of the Forces of Life*
 
 ---
@@ -50,7 +51,7 @@ The key insight is that the Wheel always deals with **the paradox of change as t
 ## Divination Use
 **Upright:** Destiny, fortune, success, good luck, karmic ripening, the turning of cycles in your favor, recognition of pattern in apparent chaos, alignment with cosmic rhythm, the end of chance. Keywords: Cycles, karma, destiny, fortune, change.
 
-**Reversed (per Waite):**
+#### Reversed (per Waite)
 Increase, abundance, superfluity. Excess, inability to accept downturns, hoarding during abundance, refusal to flow with cycles, overindulgence, growth without sustainability, denying necessary descent.
 
 ---

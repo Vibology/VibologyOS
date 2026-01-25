@@ -7,6 +7,7 @@ verified: 2026-01-24
 verification_source: Esoteric Grimoire
 category: Practice
 ---
+# Anointing and Substituted Love
 *The Central Sacrament - Touch, Presence, and Holding the Post*
 
 ---
@@ -35,7 +36,7 @@ In **1st-century Judaism**, anointing the dead was an act of honor, love, and pr
 - **Aloes** - Fragrant wood, purifying
 - **Nard** (spikenard) - Expensive perfume, symbol of devotion
 
-**The Practice:**
+#### The Practice
 - The body was washed and wrapped in linen
 - Spices and oils were placed between the layers of cloth
 - The tomb was sealed, and vigil was kept
@@ -77,7 +78,7 @@ In **Eastern Orthodox** Christianity, **Chrismation** (anointing with holy oil) 
 
 In both **Catholic** and **Orthodox** traditions, **Extreme Unction** (anointing of the sick/dying) prepares the soul for passage.
 
-**The Practice:**
+#### The Practice
 - The priest anoints the dying person's senses (forehead, hands)
 - Prayers for healing, forgiveness, safe passage
 
@@ -192,7 +193,7 @@ In **Tibetan Buddhism**, the **bardo** (བར་དོ) is the intermediate sta
 
 **The Teaching:** Substituted love provides **safe passage** through the bardo—whether literal death or metaphoric (ego death, crisis, transformation).
 
-**How It Works:**
+#### How It Works
 
 When someone is in the bardo:
 - They are disoriented, frightened, unable to navigate alone
@@ -211,7 +212,7 @@ When someone is in the bardo:
 
 In [[The Bridal Chamber and Sacred Union|the Bridal Chamber]], anointing becomes **eucharistic**—"This is my body, given for you."
 
-**The Practice:**
+#### The Practice
 
 Before or during sexual union:
 - One partner anoints the other with oil (olive, almond, or sacred blends)

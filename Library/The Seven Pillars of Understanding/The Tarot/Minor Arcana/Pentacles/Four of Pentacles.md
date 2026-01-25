@@ -16,6 +16,7 @@ planetary: Sun in Capricorn
 decan: Third decan of Capricorn (20°-30°)
 title: Lord of Earthly Power
 ---
+# Four of Pentacles
 
 *Sun in Capricorn - The third decan of Capricorn*
 

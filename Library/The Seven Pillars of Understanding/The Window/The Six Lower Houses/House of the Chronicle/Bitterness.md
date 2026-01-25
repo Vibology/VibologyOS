@@ -14,6 +14,7 @@ house: House of the Chronicle
 card_name: Bitterness
 aspect: negative
 ---
+# Bitterness
 *The Paralysis of Narrative Frozen by Chronic Stress*
 
 ---
@@ -78,18 +79,18 @@ In sacred traditions, this is meditation as liberation rather than escape—the 
 
 ---
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 Bitterness signals that **chronic stress has frozen the narrative**. You are being warned against resentment that prevents evolution, against calcification disguised as patience, against the slow poisoning of meaning through unresolved pressure. The question is: **what stress remains unprocessed? What resentment has accumulated without release? Where has your stillness become stuckness?**
 
 The appearance of Bitterness also suggests that **movement requires addressing accumulated pressure**. You cannot simply resume the narrative without processing the stress that stopped it. The question is whether you can transform resentment into restraint—choosing stillness consciously rather than being trapped in it bitterly.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 You are caught in **bitter paralysis masquerading as patience**—stress has become chronic state, the narrative has frozen into resentment, stillness has calcified into inability to move. The shadow manifests as complaints that never resolve, stories that cannot evolve because resentment has replaced capacity for change. Your stillness is not sacred pause but acidic stagnation—you are not waiting for right timing but poisoning all timing with accumulated resentment.
 
-**Gift Aspect:**
+#### Gift Aspect
 The path forward requires **sacred restraint**—learning to pause without hardening, to be still without becoming bitter, to assess without accumulating resentment. In the House of the Chronicle, this means allowing the narrative to rest intentionally, processing stress before resuming movement. Restraint transforms bitterness back into purposeful stillness—stopping that serves the narrative rather than kills it.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 In its highest healing, Bitterness dissolves into **Stillness**—sacred pause where narrative contemplates without calcifying, where stress releases into peace, where stopping becomes centering rather than freezing. This is stillness that serves transformation rather than prevents it. Those who heal this shadow demonstrate that **pause can be sacred rather than bitter, that stopping can empower rather than imprison, that the mountain stands in majesty rather than obstruction**.
 
 ---

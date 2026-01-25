@@ -13,6 +13,7 @@ element_primary: Air
 element_secondary: Fire
 title: Prince of the Chariot of Fire, Lord of Flame and Lightning
 ---
+# Knight of Wands
 *Prince of the Chariot of Fire, Lord of Flame and Lightning*
 
 ---
@@ -72,7 +73,7 @@ The Knight of Wands as a **Process** or **Energy**: Momentum. Departure. The dec
 
 **Keywords**: Departure, movement, adventure, quest, rapid change, confident action, momentum, travel, passion in motion, the hero's journey, decisive commitment, charismatic intensity, swift resolution, burning bridges to move forward, the thrill of speed.
 
-**Reversed (per Waite):**
+#### Reversed (per Waite)
 
 Rupture, division, discord, interruption. The Knight's energy becomes fractured or destructive. Movement without purpose or wisdom. The reversed Knight can signify:
 - **Reckless Destruction**: Acting without thinking, burning relationships/opportunities through impatience or arrogance

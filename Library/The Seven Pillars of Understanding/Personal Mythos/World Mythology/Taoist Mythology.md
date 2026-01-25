@@ -177,7 +177,7 @@ Her western palace (direction of sunset, autumn, Metal element) places her at th
 
 **Psychological Meaning:** Wu wei is **ego's surrender to the Self's intelligence**. It is not passivity but the cessation of *forcing*—the recognition that the psyche has its own organic unfolding, which the ego can serve but not control.
 
-**Examples:**
+#### Examples
 - The artist who steps aside and lets the painting paint itself (flow state)
 - The therapist who listens without agenda, allowing the client's psyche to reveal itself
 - The meditator who stops trying to meditate and simply *is*
@@ -232,7 +232,7 @@ Taoist alchemy centers on the **Three Treasures** (Sān Bǎo 三寶):
 - **Qi → Shen:** Refining vitality into spiritual presence (breath work, qigong, circulation)
 - **Shen → Void:** Refining spirit back into the Tao (meditation, dissolution of ego)
 
-**Psychological Meaning:**
+#### Psychological Meaning
 - **Jing = Instinct:** Raw libido, body-based drives (Freud's Id, Jung's Shadow)
 - **Qi = Emotion:** Feeling-toned complexes, energy in motion (Jung's Anima/Animus, Feeling function)
 - **Shen = Awareness:** Conscious presence, the witnessing Self (Jung's Self, the observing ego)
@@ -317,7 +317,7 @@ Jung: *"The experience of the Self is always a defeat for the ego."* The ego mus
 
 ### Shadow Work: Embracing the Yin
 
-**Method:**
+#### Method
 
 1. **Identify Yang Inflation:** Where are you over-functioning, over-controlling, over-rationalizing?
 2. **Invite the Yin:** What have you repressed? Receptivity, rest, emotion, body, darkness, chaos?
@@ -327,7 +327,7 @@ Jung: *"The experience of the Self is always a defeat for the ego."* The ego mus
 
 ### Projection Withdrawal: The Empty Boat
 
-**Method:**
+#### Method
 
 1. **Notice the Charge:** Intense emotion toward another person = projection active.
 2. **Ask: "What quality in them do I disown in myself?"**
@@ -339,7 +339,7 @@ Jung: *"The experience of the Self is always a defeat for the ego."* The ego mus
 
 ### The Butterfly Dream: Ego Relativization
 
-**Method:**
+#### Method
 
 1. **Question Fixed Identity:** Who am I when I'm not my job, my relationship status, my beliefs, my history?
 2. **Active Imagination:** Visualize yourself as a different form (animal, element, color, sound). How does the world appear?
@@ -766,7 +766,7 @@ Jung: *"The alchemical vessel is the psyche itself. The fire is suffering. The w
 
 - **The Empty Boat:** The **shadow as projection screen**—not a "real" archetype but the *process* by which we project archetypes onto others.
 
-**Cross-archetype dynamics:**
+#### Cross-archetype dynamics
 
 - The Sage (Wise Old Man) does not guide the Hero to victory but to **surrender** (wu wei, not wei).
 - The Anima (Queen Mother) does not demand rescue but offers **immortality** (gnosis of the Self's eternal nature).
@@ -897,7 +897,7 @@ Jung: *"The alchemical vessel is the psyche itself. The fire is suffering. The w
 **Primary Taoist Sources:**
 Core mythological narratives (cosmology, pantheon, immortals, and alchemical practices) are drawn from canonical Taoist sources including the *Tao Te Ching* (Laozi), *Zhuangzi*, *I Ching* (Book of Changes), *Neiye* (Inward Training), and texts of religious Taoism (*Daozang*). These texts span philosophical and religious Taoist traditions and inform the archetypal framework.
 
-**Vibrology Synthesis:**
+#### Vibrology Synthesis
 All Jungian archetypal analysis (interpreting Taoist myths through the lens of Shadow, Anima/Animus, Self, Individuation, etc.) represents scholarly synthesis rather than traditional Taoist understanding. Cross-system correspondences (Tarot, Astrology, Western Alchemy, Human Design, Qabalah) are Vibrology's integrative framework, not part of the original Taoist tradition. Jung's *Secret of the Golden Flower* commentary explicitly bridges Taoist internal alchemy with Western depth psychology, but the broader cross-system correlations drawn here are modern interpretive additions.
 
 ---

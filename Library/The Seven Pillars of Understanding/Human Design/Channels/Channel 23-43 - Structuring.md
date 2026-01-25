@@ -118,7 +118,7 @@ Channel 23-43 contributes to this by:
 
 **Acoustic Nature:** Individual Circuit channels are **acoustic**—they HEAR the knowing. This is why 23-43 individuals often say, "I just know," without being able to explain how.
 
-**Why This Channel is Projected:**
+#### Why This Channel is Projected
 
 The connection is **Ajna to Throat**—this is a **mental Projection**. The individual has consistent access to mutative insights, but they **cannot generate sustained work** or manifest independently. They are **Projected**—they require **recognition and invitation** to share their knowing.
 

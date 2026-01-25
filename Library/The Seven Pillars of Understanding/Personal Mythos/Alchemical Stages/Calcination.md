@@ -166,7 +166,7 @@ Calcination is unmistakable. It feels like burning:
 - **Rage and Despair:** The fire of the Shadow erupting when repressed too long.
 - **Spiritual Crisis:** The "dark night of the soul" where God feels absent and all meaning is burned away.
 
-**In Dreams:**
+#### In Dreams
 - Fire consuming your house, belongings, or body
 - Being trapped in flames
 - The phoenix rising from ashes
@@ -280,7 +280,7 @@ Jung also connects Calcination to the **Nigredo** (blackening), the first of the
 
 **Plot Summary:** Cinderella's mother dies; her father remarries. The stepmother and stepsisters reduce Cinderella to a servant, forcing her to sleep by the hearth among the ashes. She is renamed "Cinderella" (cinder = ash). Despite her degradation, she is chosen by the prince and elevated to royalty.
 
-**Alchemical Reading:**
+#### Alchemical Reading
 - **Calcination:** Cinderella is literally *reduced to ash*. Her Persona (wealthy daughter) is burned away by the shadow mother (stepmother). She is humiliated, stripped of status, and forced into servitude.
 - **The Hearth:** The hearth fire is the alchemical furnace. Cinderella sleeps *in the ashes*—the *calx*, the purified prima materia. She has been calcinated.
 - **Transformation:** Only after being reduced to ash (her lowest state) can Cinderella transform. The fairy godmother (the transcendent function) appears *only when Cinderella has endured the fire*.
@@ -290,7 +290,7 @@ Jung also connects Calcination to the **Nigredo** (blackening), the first of the
 
 **Plot Summary:** Two children abandoned in the forest find a gingerbread house inhabited by a witch. The witch fattens Hansel to eat him, intending to roast him in her oven. Gretel pushes the witch into the oven instead, and the children escape with treasure.
 
-**Alchemical Reading:**
+#### Alchemical Reading
 - **Calcination:** The witch's oven is the alchemical furnace. The witch intends to calcinate the children (literally burn them to death), but the children turn the fire back on her.
 - **The Devouring Mother:** The witch is the shadow of the Great Mother—the mother who consumes her children rather than nurturing them. She must be calcinated (burned in her own oven) for the children to individuate.
 - **Psychological Insight:** The children's act of pushing the witch into the oven is the ego's necessary destruction of the devouring mother complex. The fire meant to destroy becomes the fire of liberation. The treasure they find in the witch's house is the gold extracted from the ashes—the Self freed from the mother's grip.
@@ -475,7 +475,7 @@ Common dream motifs:
 - **Nigredo (The Blackening):**
   - Calcination is the primary operation of the Nigredo. It is the fire that initiates the blackening, the descent, the death phase.
 
-**Archetypal Constellation:**
+#### Archetypal Constellation
 When Calcination is active, the following archetypes are often present:
 - **The Shadow** (the repressed material burning through)
 - **The Threshold Guardian** (blocking escape from the fire)
@@ -509,14 +509,14 @@ When the ego surrenders to the fire—when it allows the Persona to burn, the at
 7. **Rebirth Potential:**
    - Like the phoenix, the calcinated individual carries the seed of rebirth. The ash is not the end—it is the beginning.
 
-**Jung's Teaching:**
+#### Jung's Teaching
 
 > "There is no coming to consciousness without pain. People will do anything, no matter how absurd, to avoid facing their own soul. One does not become enlightened by imagining figures of light, but by making the darkness conscious. The latter procedure, however, is disagreeable and therefore not popular."
 > — C.G. Jung, *Psychology and Alchemy* (CW 12)
 
 Calcination is the fire that makes the darkness conscious. It is disagreeable. It is painful. But it is the only way through.
 
-**The Gift:**
+#### The Gift
 *The soul that has been calcinated cannot be destroyed. It has already endured the worst fire. What remains is unshakable—the Self, purified and freed.*
 
 ---
@@ -572,7 +572,7 @@ Calcination is the fire that makes the darkness conscious. It is disagreeable. I
 
 ---
 
-**Final Word:**
+#### Final Word
 
 *Calcination is the ordeal no one chooses and everyone needs. It is the fire that burns the false to reveal the true. To resist it is to be consumed. To surrender to it is to be purified. The phoenix does not fear the flames—it knows the flames are the womb of its rebirth.*
 
@@ -608,7 +608,7 @@ Calcination is the fire that makes the darkness conscious. It is disagreeable. I
 **Life Crisis as Calcination:**
 - Campbell, Joseph. *The Hero with a Thousand Faces* (1949). Pantheon Books. (Ordeal, fire trials, crucifixion motifs)
 
-**Vibology Synthesis Note:**
+#### Vibology Synthesis Note
 Cross-system correspondences (Mars/Pluto astrology, Tower/Death Tarot, Gate 51 HD, Seraphim/Michael angelology) represent Vibology's integration of verified alchemical Calcination patterns across seven-pillar framework.
 
 ---

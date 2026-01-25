@@ -82,7 +82,7 @@ Both interpretations recognize that the 4th House represents **the foundational 
 
 The **ruler of the 4th House** (the planet ruling the sign on the 4th House cusp) reveals *how* you establish roots and what "home" means.
 
-**Examples:**
+#### Examples
 - **Venus ruling 4th → Taurus/Libra on 4th cusp** — Home is beauty, comfort, aesthetic sanctuary
 - **Mars ruling 4th → Aries/Scorpio on 4th cusp** — Home is battleground or fortress; emotional intensity at the root
 - **Saturn ruling 4th → Capricorn/Aquarius on 4th cusp** — Home is austere; roots built through discipline, not sentiment

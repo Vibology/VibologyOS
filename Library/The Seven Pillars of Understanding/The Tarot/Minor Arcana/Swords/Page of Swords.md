@@ -12,6 +12,7 @@ element: Air
 court_rank: Page
 elemental_formula: Earth of Air
 ---
+# Page of Swords
 
 *The Throne of the Ace of Air*
 

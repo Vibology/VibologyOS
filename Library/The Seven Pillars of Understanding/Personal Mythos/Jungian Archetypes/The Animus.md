@@ -593,7 +593,7 @@ The Animus appears in dreams with specific motifs:
 
 The Animus interacts dynamically with other archetypal structures:
 
-**The Shadow:**
+#### The Shadow
 - The Shadow must be integrated **before** Animus work can proceed cleanly.
 - If shadow work is incomplete, the Animus remains **contaminated by projection**—the woman mistakes her own darkness for masculine evil.
 - Integration: Shadow work is the **"apprentice-piece"**; Animus work is the **"masterpiece."**

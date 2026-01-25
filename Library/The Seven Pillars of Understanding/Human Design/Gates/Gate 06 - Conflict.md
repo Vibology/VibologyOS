@@ -122,7 +122,7 @@ Because the Tribal stream is about **survival through bonding**, the tribe must 
 
 Gate 6 forms **Channel 6-59: Mating (also called "Intimacy" or "Focused on Reproduction")** when connected to Gate 59 in the Sacral Center.
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 
 - **Gate 6 (Solar Plexus):** "I regulate emotional intimacy through friction and boundaries."
 - **Gate 59 (Sacral):** "I have the energy to break down barriers and create deep connection."
@@ -136,7 +136,7 @@ The gift of Channel 6-59 is **profound intimacy**—the capacity to merge deeply
 
 **Without the channel defined** (only Gate 6 activated), the individual has the emotional capacity to regulate intimacy but may lack the consistent **Sacral energy** to sustain deep connection. They need someone with Gate 59 to complete the electromagnetic circuit.
 
-**Interpersonal Electromagnetic Dynamics:**
+#### Interpersonal Electromagnetic Dynamics
 
 - **Both have Channel 6-59:** Potential for profound mutual intimacy or intense emotional friction, depending on emotional maturity.
 - **One has Gate 6, other has Gate 59:** The Gate 59 person brings Sacral energy for connection; the Gate 6 person brings emotional regulation. Together they create balanced intimacy.
@@ -146,7 +146,7 @@ The gift of Channel 6-59 is **profound intimacy**—the capacity to merge deeply
 
 Gate 6 is located in the **Solar Plexus Center**, which corresponds biologically to the **kidneys** (which filter and regulate), the **adrenal glands**, and the body's **emotional chemistry** (hormones like oxytocin, cortisol, adrenaline).
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 6 defined may experience:
 - Strong **emotional waves** around intimacy—peaks of connection followed by valleys of distance
@@ -154,7 +154,7 @@ Individuals with Gate 6 defined may experience:
 - Hormonal shifts related to **bonding and conflict**—oxytocin during closeness, cortisol during friction
 - A felt sense of **emotional boundaries**—knowing when to open and when to close
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Solar Plexus Center radiates **emotional wave** into the aura. When Gate 6 is active, the aura carries a frequency of **"I am navigating intimacy through emotional honesty."** Others may perceive this as **intense**, **passionate**, or (if the individual is in Not-Self) **volatile or conflict-seeking**.
 
@@ -196,7 +196,7 @@ The emotional friction is experienced only through transits or proximity to othe
 - **Betrayal (Line 3 Detriment):** Abandoning relationship when conflict arises, unable to stay through friction.
 - **Winning Over Connection (Line 4 Detriment):** Prioritizing being "right" over maintaining intimacy.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Feeling chronically in conflict or chronically suppressing conflict
 - Relationships that are either volatile or emotionally flat
@@ -224,7 +224,7 @@ The **7-year deconditioning cycle** for Gate 6 involves learning to navigate emo
 
 **Year 7:** Integration phase—emotional friction becomes a tool for intimacy. The individual moves from **conflict** (Gene Keys Shadow) to **diplomacy** (Gift) to **peace** (Siddhi)—the recognition that true peace is not the absence of friction but the alignment that emerges after friction is resolved.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice where emotional friction lives in the body. Is it tension in the chest? A tightness in the belly? Heat rising?
 - Practice **emotional honesty** in small doses—expressing needs, asserting boundaries, allowing friction to surface.
@@ -275,14 +275,14 @@ In Jungian terms, Gate 6 corresponds to the **Mars Archetype** (assertion, confl
 
 The Sacred Marriage is the union of opposites—masculine/feminine, conscious/unconscious, self/other. But union is not blissful merger—it is **friction, conflict, and eventual synthesis**. Gate 6 is the friction that allows two to become one without losing individuality.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 6** manifests as:
 - **Conflict Projection:** Believing conflict is "out there" (in the other) rather than recognizing it as the friction of intimacy.
 - **Boundary Collapse:** Merging without discernment, losing self in relationship, creating enmeshment.
 - **Conflict as Identity:** Using friction to feel alive, confusing intensity with intimacy.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 6, individuation requires:
 1. **Learning to Retreat (Line 1):** Recognizing when distance is necessary for preservation.
@@ -296,7 +296,7 @@ When integrated, Gate 6 becomes the **embodied capacity to deepen intimacy throu
 
 When the individual with Gate 6 operates according to their Strategy and Authority, the gift that emerges is **Diplomacy** (Gene Keys) and **Intimacy Through Honesty** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Emotional friction is recognized as **necessary for intimacy**, not a sign of failure.
 - Boundaries are asserted with clarity and compassion.
@@ -311,7 +311,7 @@ For those with Emotional Authority, the Signature is **Clarity** (emotional clar
 - **Trust** built through navigating friction together
 - **Peace** that is earned, not imposed—the peace that follows resolution
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 6 teaches that **intimacy requires friction**. When the individual honors their emotional wave, navigates conflict with diplomacy, and allows friction to serve connection, they become a **living example** of profound intimacy. This is the essence of the Tribal stream—not superficial harmony, but **deep bond forged through honesty and commitment**.
 

@@ -874,7 +874,7 @@ Metatron holds the blueprint; Raphael teaches how to read it and apply it to dai
 - [[Folklore/Jungian Archetypes/The Self]] (the totality of the psyche—Tiphareth as the Higher Self in Qabalistic psychology)
 - [[Individuation]] (the journey toward wholeness—Raphael as the guide of the process)
 
-**Mythology:**
+#### Mythology
 
 - [[Asclepius]] (Greek god of medicine, healer who could raise the dead)
 - [[Apollo]] (Greek god of light, prophecy, healing, purification)
@@ -951,7 +951,7 @@ Metatron holds the blueprint; Raphael teaches how to read it and apply it to dai
 - [[Folklore/Jungian Archetypes/The Self]] (the totality of the psyche—Tiphareth as the Higher Self in Qabalistic psychology)
 - [[Individuation]] (the journey toward wholeness—Raphael as the guide of the process)
 
-**Mythology:**
+#### Mythology
 
 - [[Asclepius]] (Greek god of medicine, healer who could raise the dead)
 - [[Apollo]] (Greek god of light, prophecy, healing, purification)
@@ -1384,7 +1384,7 @@ The individual radiates **clarity**—not the blinding glory of Metatron, not th
 - [[Folklore/Jungian Archetypes/The Self]] (the totality of the psyche—Tiphareth as the Higher Self in Qabalistic psychology)
 - [[Individuation]] (the journey toward wholeness—Raphael as the guide of the process)
 
-**Mythology:**
+#### Mythology
 
 - [[Asclepius]] (Greek god of medicine, healer who could raise the dead)
 - [[Apollo]] (Greek god of light, prophecy, healing, purification)

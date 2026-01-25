@@ -124,21 +124,21 @@ Gate 57 forms three potential channels:
 
 **1. Channel 57-10: Perfected Form** (Spleen to G Center)
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 - **Gate 57 (Spleen):** "I intuit what is correct for my behavior in the now."
 - **Gate 10 (G Center):** "I behave according to the love of self."
 - **Channel 57-10:** The bridge between intuition and self-behavior—the capacity for **intuitively correct conduct**.
 
 **2. Channel 57-20: Brainwave** (Spleen to Throat)
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 - **Gate 57 (Spleen):** "I intuit what is true in the now."
 - **Gate 20 (Throat):** "I speak the truth of the present moment: 'I am.'"
 - **Channel 57-20:** The bridge between intuition and articulation—the capacity for **spontaneous knowing expressed immediately**.
 
 **3. Channel 57-34: Power** (Spleen to Sacral)
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 - **Gate 57 (Spleen):** "I intuit what is correct to do in the now."
 - **Gate 34 (Sacral):** "I have the power to act on what is correct."
 - **Channel 57-34:** The bridge between intuition and power—the capacity for **intuitive action**.
@@ -151,7 +151,7 @@ When any of these channels are defined, the individual has **consistent access t
 
 Gate 57 is located in the **Spleen Center**, which corresponds biologically to the **immune system** (recognizing self/non-self), the **lymphatic system** (clearing toxins), and the **right brain** (holistic, intuitive processing).
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 57 defined may experience:
 - A **somatic "knowing" that bypasses thought**—the body responds before the mind understands
@@ -159,7 +159,7 @@ Individuals with Gate 57 defined may experience:
 - **Auditory sensitivity** to tone, frequency, or "vibes"—hearing what is unsaid
 - **Instant physical reactions** to environments, people, or situations (hair standing up, gut clenching, sudden relaxation)
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Spleen Center radiates **awareness and survival instinct** into the aura. When Gate 57 is active, the aura carries a frequency that says: "I know what is correct right now. Trust me." Others may feel this as **calming**, **unsettling** (if they don't trust intuition), or (if the individual is in Not-Self) **anxious and hypervigilant**.
 
@@ -197,7 +197,7 @@ The 28-day lunar cycle allows the Reflector to sample Gate 57's intuition across
 - **Intuitive Bypassing:** Using "my intuition says..." to justify decisions that are actually fear-based.
 - **Rationalization:** Explaining away the whisper, trusting logic over somatic knowing.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Chronic anxiety or unease without clear cause
 - Overriding gut feelings with mental justifications
@@ -226,7 +226,7 @@ The **7-year deconditioning cycle** for Gate 57 involves learning to recognize w
 
 **Year 7:** Integration phase—intuition becomes aligned with Strategy and Authority. The individual trusts the whisper fully, acts in the now, and releases anxiety about tomorrow. Clarity flows naturally (Gene Keys Siddhi).
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice where intuition arises in the body. Is it the gut (Spleen)? The heart (emotion)? Or the mind (thought)?
 - Practice **acting on the first hit** in low-stakes situations to build trust in the whisper.
@@ -276,14 +276,14 @@ In Jungian terms, Gate 57 corresponds to the **Intuition Function** and the driv
 
 The Clairaudient archetype hears what others cannot—not voices, but truth spoken through frequency. This is not the thinker, but the feeler—the one who knows through the body. Gate 57 is the clairaudient's capacity to **hear the whisper of correctness**.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 57** manifests as:
 - **Paranoia:** Hearing threat everywhere; unable to discern true danger from conditioned fear.
 - **Intuitive Inflation:** Believing one's intuition is infallible; refusing to test it against reality.
 - **Bypassing Logic:** Using "my intuition says" to avoid rational assessment when both are needed.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 57, individuation requires:
 1. **Integration of Intuition and Logic:** Recognizing that both have value; intuition guides, logic supports.
@@ -296,7 +296,7 @@ When integrated, Gate 57 becomes the expression of the **Intuitive Self**—the 
 
 When the individual with Gate 57 operates according to their Strategy and Authority, the gift that emerges is **Intuition** (Gene Keys) and **Splenic Clarity** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Intuition flows naturally, without force or anxiety.
 - The individual trusts the whisper, acts in the now, and releases concern for tomorrow.
@@ -311,7 +311,7 @@ The Signature of the Spleen Center (for all gates within it) is the experience o
 - **Being at peace with not knowing tomorrow**, trusting the whisper will guide when needed
 - **Acting on the first hit**, releasing second-guessing
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 57 teaches that **the body knows**. When the individual honors their Splenic intuition according to Strategy and Authority, they become a **living example** of what it means to trust somatic wisdom, to act in the now, to know without thinking. This is the essence of the Individual Knowing stream—not to explain, but to **embody intuitive truth**.
 

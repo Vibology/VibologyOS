@@ -721,13 +721,13 @@ The Shadow interacts dynamically with other archetypal structures:
 ## Shadow Dynamics
 **How does the Shadow manifest differently in men vs. women?**
 
-**In Men:**
+#### In Men
 - The **personal shadow** often contains rejected sensitivity, vulnerability, tenderness—qualities coded as "feminine" and thus repressed.
 - The **dark brother** in dreams: a violent criminal, a sexual predator, a coward.
 - Cultural shadow: Men project their unlived softness onto women ("She's too emotional") or their unlived aggression onto other men ("He's a thug").
 - Integration: Reclaiming **emotional depth, receptivity, and the capacity to surrender** without losing masculine identity.
 
-**In Women:**
+#### In Women
 - The **personal shadow** often contains rejected aggression, ambition, sexual desire—qualities coded as "unfeminine" and thus repressed.
 - The **dark sister** in dreams: a witch, a seductress, a cruel competitor.
 - Cultural shadow: Women project their unlived aggression onto men ("He's violent") or their unlived sexuality onto other women ("She's a slut").

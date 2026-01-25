@@ -86,18 +86,18 @@ In sacred traditions, this is the sage who lives from the well without fear of d
 ---
 
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 Insecurity signals that **fear of inadequacy is active**—the anxiety that your foundation lacks sufficient depth to sustain what is being attempted. This card calls you to examine: Is this fear offering genuine discernment about over-extension, or is it shadow-frequency inadequacy creating false limitation? The question is: **have you actually measured your depth, or are you assuming insufficiency?**
 
 The appearance of Insecurity also suggests that **self-doubt may be creating the shortage you fear**. Gate 48's shadow frequency can manifest as self-fulfilling prophecy—the fear of inadequacy producing the paralysis that makes adequacy impossible. The question is whether you can discern between protective wisdom and destructive doubt.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 In full shadow, Insecurity manifests as **chronic inadequacy that becomes self-fulfilling prophecy**: you do not practice skill (Ambition) because you believe you lack talent; you do not offer contribution (Confidence) because you fear your depth is insufficient; you do not trust stability because you expect inevitable collapse. This shadow paralyzes through imagined insufficiency. Check whether you are assessing actual limitation or projecting imagined inadequacy. Shadow also warns against **comparison-based insufficiency**: measuring your depth against others' apparent abundance rather than against your actual needs.
 
-**Gift Aspect:**
+#### Gift Aspect
 When Insecurity shifts toward gift, it becomes **resourcefulness**—accurate assessment of what you have and skillful deployment within real constraints. This is the gift of **honest inventory**: you know your actual depth, recognize genuine limitation, and work creatively within boundaries. Resourcefulness does not pretend infinite capacity, but it also does not exaggerate inadequacy. It trusts that what is available is often sufficient when used with wisdom.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 In its highest expression, Insecurity transforms into **Wisdom**—trust that the well provides what is needed, that adequacy is not about quantity but alignment, that **you have what is required for your purpose even if you lack what others possess**. You embody the sage who draws from depth without fear. Those who touch this frequency release comparison and rest in sufficiency, knowing the well's depth and drinking without fear, trusting the source.
 
 ---

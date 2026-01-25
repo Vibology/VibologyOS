@@ -118,7 +118,7 @@ Channel 19-49 contributes to this by:
 
 **Touch/Taste/Smell Nature:** Tribal Circuit channels are **somatic**—they must FEEL the connection physically. This is why 19-49 individuals often know through their body whether someone "belongs" or not.
 
-**Why This Channel is Projected:**
+#### Why This Channel is Projected
 
 Neither the Root nor the Solar Plexus connects directly to the Throat. Therefore, this channel **cannot manifest tribal bonds** or sustain work continuously. It is **Projected**—it requires **recognition and invitation** to share its emotional sensitivity and establish principles.
 

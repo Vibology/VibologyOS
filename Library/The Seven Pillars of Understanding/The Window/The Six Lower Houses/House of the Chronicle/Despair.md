@@ -14,6 +14,7 @@ house: House of the Chronicle
 card_name: Despair
 aspect: negative
 ---
+# Despair
 *The Exhaustion of Narrative That Finds No Meaning*
 
 ---
@@ -83,18 +84,18 @@ In sacred traditions, this is the dark night of the soul that precedes illuminat
 ---
 
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 Despair signals that **mental pressure has exhausted meaning**. You are being confronted with narrative collapse—the possibility that no framework will make the story comprehensible. This is a serious warning: do not surrender to hopelessness, but do acknowledge that ordinary approaches have failed. The question is: **can you allow transmutation? Can you trust that oppression may precede breakthrough?**
 
 The appearance of Despair also suggests that **recovery may require external support**. When one's own meaning has collapsed, being held by others' meaning becomes essential. The question is whether you can allow yourself to be carried while your capacity to find meaning recovers.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 You are caught in **mental exhaustion masquerading as truth**—concluding that meaning is impossible because your current resources have been depleted. The shadow manifests as hopelessness that has abandoned the search, narrative collapse presented as clear-eyed realism. Your contemplation has become oppressive grinding rather than productive processing. Check whether your despair reflects genuine insight or exhausted cognition.
 
-**Gift Aspect:**
+#### Gift Aspect
 The path forward requires **trusting transmutation**—allowing mental oppression to build until it transforms rather than surrendering to collapse. In the House of the Chronicle, this means continuing to contemplate even when meaning seems impossible, trusting that pressure will eventually resolve into breakthrough. Transmutation transforms despair into realization—the very oppression that threatened to destroy meaning becomes the force that creates it.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 In its highest healing, Despair dissolves into **Transfiguration**—the recognition that some narratives transcend comprehension, that meaning beyond meaning exists, that the collapse of ordinary understanding may be doorway to extraordinary wisdom. This is the mystical resolution where the story becomes sacred mystery rather than failed puzzle. Those who heal this shadow discover that **despair can birth transcendent understanding when ordinary meaning is allowed to die completely**.
 
 ---

@@ -120,7 +120,7 @@ The Abstract Circuit cannot learn through logic or theory—it must **feel, live
 
 Gate 35 forms **Channel 35-36: Transitoriness** when connected to Gate 36 in the Solar Plexus.
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 
 - **Gate 35 (Throat):** "I articulate my hunger for new experience."
 - **Gate 36 (Solar Plexus):** "I feel the crisis, the emotional depth of experience."
@@ -130,7 +130,7 @@ When this channel is defined, the individual has **consistent access to experien
 
 **Without the channel defined** (only Gate 35 activated), the individual experiences **hunger for change** but may lack the emotional depth or crisis that transforms experience into wisdom. They need someone with Gate 36 to complete the circuit.
 
-**Interpersonal Electromagnetic Dynamics:**
+#### Interpersonal Electromagnetic Dynamics
 
 - **Both have Channel 35-36:** Mutual hunger for experience, potential for shared adventure or crisis addiction.
 - **One has Gate 35, other has Gate 36:** The Gate 35 person articulates hunger; the Gate 36 person provides emotional depth. This can be intense and transformative.
@@ -140,14 +140,14 @@ When this channel is defined, the individual has **consistent access to experien
 
 Gate 35 is located in the **Throat Center**, which corresponds biologically to the **thyroid, parathyroid, larynx, and vocal cords**. The Throat is the center of **manifestation**—and for Gate 35, manifestation takes the form of **expressing the need for experience**.
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 35 defined may experience:
 - A deep **somatic restlessness** when new experience is not available—the body craves change
 - **Throat activation** when expressing hunger or sharing experiential stories
 - **Thyroid sensitivity** if hunger is chronically unfulfilled (metabolic imbalance from stagnation)
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Throat Center radiates **manifestation energy**. When Gate 35 is active, the aura carries a frequency that says: "I need new experience. I am hungry for change." Others may feel this as **adventurous**, **restless**, or (if in Not-Self) **addicted to novelty**.
 
@@ -188,7 +188,7 @@ Experience must be evaluated through the emotional wave. Wait through the peaks 
 - **Altruism as Manipulation:** Using "progress" or "growth" to exploit others.
 - **Creative Block Despair:** Feeling trapped when new experience is not immediately available.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Constantly seeking novelty without satisfaction
 - Feeling bored or stuck when life is stable
@@ -216,7 +216,7 @@ The **7-year deconditioning cycle** for Gate 35 involves learning to recognize w
 
 **Year 7:** Integration phase—hunger becomes **adventure** (Gene Keys Gift) rather than compulsion. The individual seeks experience to grow, not to escape.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice where hunger arises in the body. Is it the throat (Gate 35)? The gut (Sacral)? The solar plexus (emotion)? Or absorbed from others?
 - Practice **waiting for invitation or response** before pursuing new experience.
@@ -260,14 +260,14 @@ In Jungian terms, Gate 35 corresponds to the **Explorer Archetype** and the psyc
 
 The Adventurer seeks growth through lived experience, learning through journey, evolving through change.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 35** manifests as:
 - **Addiction to Novelty:** Using experience to avoid depth or commitment.
 - **Restlessness as Pathology:** Unable to be present, always seeking the next thing.
 - **Experience as Escape:** Pursuing change to avoid inner work.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 35, individuation requires:
 1. **Separation from Compulsive Seeking:** Recognizing when hunger is growth versus avoidance.
@@ -280,7 +280,7 @@ When integrated, Gate 35 becomes the expression of **Boundlessness**—tasting l
 
 When the individual with Gate 35 operates according to their Strategy and Authority, the gift that emerges is **Adventure** (Gene Keys) and **Evolutionary Experience** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Hunger becomes **sacred**—seeking experience to grow, not to escape.
 - Change is **aligned**—pursued when correct, not compulsively.
@@ -295,7 +295,7 @@ The Signature of the Throat Center is **manifestation and peace**. For Gate 35 s
 - Sharing stories that enrich collective understanding
 - Trusting the timing of change
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 35 teaches that **progress requires movement**. When the individual honors their hunger for aligned experience, they become a **living example** of evolutionary growth through adventure.
 

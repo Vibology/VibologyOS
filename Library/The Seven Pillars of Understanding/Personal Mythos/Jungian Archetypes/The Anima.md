@@ -704,7 +704,7 @@ The Anima appears in dreams with specific motifs:
 
 The Anima interacts dynamically with other archetypal structures:
 
-**The Shadow:**
+#### The Shadow
 - Jung: The Shadow must be integrated **before** the Anima can be engaged cleanly[^5].
 - The Anima often has a **"predilection for the dark and equivocal"**[^8]—she acts as a bridge to the Shadow.
 - **Contamination:** If Shadow work is incomplete, the Anima becomes the **femme fatale, the witch, the devouring mother**.

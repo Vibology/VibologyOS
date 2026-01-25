@@ -86,18 +86,18 @@ In sacred traditions, this is the wrathful deity whose rage protects rather than
 ---
 
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 Rage signals that **emotional conflict has become destructive**—friction has escalated into warfare, anger has crossed into attack, boundaries are being violated or violently defended. This card warns: you are in danger of destroying what you claim to care about. The question is: **can you catch yourself before the words are said that cannot be unsaid? Can you remember what you're fighting for?**
 
 The appearance of Rage also suggests that **halting is wisdom**. Gate 6's hexagram warns against pressing to the end. The question is whether you can stop the escalation, find the cautious halt, remember that this person matters more than winning this fight.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 In full shadow, Rage manifests as **conflict that obliterates intimacy**—you fight to destroy rather than to be heard, attack to wound rather than to defend, use emotional vulnerability as weapon. The shadow asks: is this anger serving connection or annihilating it? Are you fighting for relationship or against the person? Check whether your rage protects boundaries or merely vents unmetabolized pain. Shadow also warns against **chronic escalation**: every disagreement becoming war, losing the capacity for proportional response.
 
-**Gift Aspect:**
+#### Gift Aspect
 When Rage shifts toward gift, it becomes **diplomacy**—the capacity to feel fury and express it consciously, to fight in ways that serve rather than shatter relationship. This is the gift of **productive conflict**: you can say "I am angry" without making it the other's fault, assert boundaries without attack, disagree without destroying. Your anger becomes information rather than weapon.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 In its highest expression, Rage transforms into **Peace**—not through suppression but through **such profound inner stability that fury cannot destabilize love**. You embody the wrathful compassion that protects without destroying, the heart so stable it can hold both rage and tenderness. Those who touch this frequency demonstrate that **anger is not the opposite of love but love's fierce protection**, that boundaries defended with consciousness serve intimacy rather than destroy it.
 
 ---

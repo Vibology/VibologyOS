@@ -86,18 +86,18 @@ In sacred traditions, this is the master whose movements are perfectly adaptive�
 ---
 
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 Fragility signals that **defensive rigidity is creating vulnerability**—what appears solid may be brittle, what seems strong may be on the verge of shattering. This card calls you to examine: Where have you hardened against imagined threat? Where has fear of future collapse created present-moment inflexibility? The question is: **what structure are you defending so rigidly that it has become fragile?**
 
 The appearance of Fragility also suggests that **the gentle way would preserve what force is breaking**. Gate 57's intuitive clarity is available, but fear is blocking access. The question is whether you can release defensive bracing long enough to feel what actually requires response versus what is projected fear.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 In full shadow, Fragility manifests as **chronic unease that hardens into defensive rigidity**: you brace against anticipated pain, reinforce against imagined threat, and sacrifice adaptability for the illusion of impermeability. This creates **self-fulfilling prophecy**—the rigidity makes you more vulnerable to the collapse you fear. Check whether you are protecting foundation or making it brittle. Shadow also warns against **mistaking hardness for strength**: the appearance of solidity that crumbles under actual pressure because it cannot yield.
 
-**Gift Aspect:**
+#### Gift Aspect
 When Fragility shifts toward gift, it becomes **intuition**—the capacity to sense actual threat in the present moment and respond appropriately without chronic defensive bracing. This is the gift of **flexible strength**: you remain open and adaptable, trusting the body's instinctual knowing to alert when real danger emerges. Intuition allows you to be grounded without being rigid, stable without being brittle.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 In its highest expression, Fragility transforms into **Clarity**—penetrating awareness so immediate that fear of future dissolves into trust in the now. You embody the wisdom of water: yielding around obstacles, flowing rather than breaking, adapting without losing essence. Those who touch this frequency demonstrate that **true strength is not hardness but responsiveness**, that the gentle survives where the rigid shatters.
 
 ---

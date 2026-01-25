@@ -122,7 +122,7 @@ Because the Individual Knowing Circuit is designed for **mutation through person
 
 Gate 28 forms **Channel 28-38: Struggle (The Fighter)** when connected to Gate 38 in the Root Center.
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 
 - **Gate 28 (Spleen):** "I have the instinctual awareness of risk, the recognition that life is transitory, the sense of when struggle has meaning."
 - **Gate 38 (Root):** "I have the pressure to oppose, to fight, to struggle against limitation and find purpose through resistance."
@@ -132,7 +132,7 @@ When this channel is defined, the individual has **consistent access to existent
 
 **Without the channel defined** (only Gate 28 activated), the individual experiences **awareness of risk without pressure to fight**—they sense transience and danger but may not feel driven to engage. They may need another person with Gate 38 to complete the electromagnetic circuit—someone who provides the oppositional fire.
 
-**Interpersonal Electromagnetic Dynamics:**
+#### Interpersonal Electromagnetic Dynamics
 
 - **Both have Channel 28-38:** Potential mutual struggle or competition over whose fight is more meaningful.
 - **One has Gate 28, other has Gate 38:** The Gate 28 person provides the risk awareness; the Gate 38 person provides the fighting spirit. This can be profoundly effective—wisdom and warrior energy.
@@ -142,7 +142,7 @@ When this channel is defined, the individual has **consistent access to existent
 
 Gate 28 is located in the **Spleen Center**, which corresponds biologically to the **spleen, lymphatic system, and immune function**—organs associated with defense, survival, and instinctual awareness of threat.
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 28 defined may experience:
 - **Heightened immune sensitivity to existential risk**—the body reacts to meaninglessness as if it were a physical threat
@@ -150,7 +150,7 @@ Individuals with Gate 28 defined may experience:
 - **Existential anxiety manifesting somatically**—fear of death, transience, or meaninglessness felt in the body as urgency
 - **Survival instinct activated by risk assessment**—the spleen knows when to fight and when to flee
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Spleen Center radiates **instinctual awareness** into the aura. When Gate 28 is active, the aura carries a frequency that says: "I know life is temporary, and that makes the game urgent." Others may feel this as **intense**, **courageous**, or (if the individual is in Not-Self) **reckless** or **nihilistic**.
 
@@ -188,7 +188,7 @@ The risk awareness is inconsistent (activated only by transits or others). The R
 - **Betrayal:** Using treachery as strategy, losing integrity in the fight for meaning.
 - **Anticlimactic Surrender:** Giving up when the struggle could have created meaning, fading away rather than ending magnificently.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Frustration from engaging in struggles the Sacral didn't respond to (for Generators)
 - Bitterness from fighting without invitation (for Projectors)
@@ -216,7 +216,7 @@ The **7-year deconditioning cycle** for Gate 28 involves learning to recognize w
 
 **Year 7:** Integration phase—struggle becomes aligned with the Gift of Totality (Gene Keys). The individual fights when it matters, accepts transience without despair, and finds meaning in the game itself rather than needing victory or permanence.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice where the impulse to struggle arises in the body. Is it the spleen (instinctual awareness)? The root (pressure)? The mind (existential fear)?
 - Practice **pausing before engaging in conflict**—feel the instinctual "yes" or "no" to the struggle.
@@ -264,14 +264,14 @@ In Jungian terms, Gate 28 corresponds to the **Warrior Archetype** and the **Exi
 
 The archetype of the warrior who knows death is coming and fights anyway, creating meaning through struggle. This is the capacity for **existential courage**.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 28** manifests as:
 - **The Nihilist:** Believing nothing matters because nothing lasts, refusing to engage with life.
 - **The Reckless Fighter:** Struggling compulsively, fighting for no reason, becoming addicted to conflict.
 - **The Betrayer:** Using treachery to win, losing integrity in the fight for meaning.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 28, individuation requires:
 1. **Recognizing that transience creates urgency, not meaninglessness:** Impermanence makes the struggle sacred.
@@ -284,7 +284,7 @@ When integrated, Gate 28 becomes the expression of **totality**—the capacity t
 
 When the individual with Gate 28 operates according to their Strategy and Authority, the gift that emerges is **Totality** (Gene Keys) and **Meaningful Struggle** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Struggle flows from instinctual awareness and correct engagement (via Strategy and Authority), not fear or addiction.
 - Risk is taken when it serves meaning, not for adrenaline or to feel alive.
@@ -299,7 +299,7 @@ The Signature of operating correctly through Strategy and Authority (for instinc
 - **Courage without recklessness**—fighting wisely, not compulsively
 - **Peace with impermanence**—knowing that nothing lasts and choosing to create anyway
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 28 teaches that **life's meaning is found in the struggle itself, not in permanence or victory**. When the individual honors their Strategy and Authority, fights when it matters, and accepts transience without despair, they become a **living example** of existential courage. This is the essence of the Individual Knowing Circuit—to create meaning through risk, and to inspire others by demonstrating what is possible when one plays the game fully.
 

@@ -15,6 +15,7 @@ planetary: Sun in Aries
 decan: Aries 10°-20° (2nd Decan)
 title: Lord of Established Strength
 ---
+# Three of Wands
 *The Lord of Established Strength*
 
 ---
@@ -324,7 +325,7 @@ The Two of Wands is contemplation and strategy—the sovereign on the battlement
 **Following Card: [[Four of Wands]]**
 The Four of Wands is celebration, homecoming, and stable structure. If the Three is the ships at sea, the Four is the ships returned to harbor, the harvest brought home, the festival celebrating success. The Three is *waiting*; the Four is *receiving*. The Three has established strength; the Four celebrates that strength.
 
-**Corresponding Cards in Other Suits:**
+#### Corresponding Cards in Other Suits
 - **[[Three of Cups]]** (Water): Emotional abundance, celebration, friendship, joy. Where Cups celebrates *relationship*, Wands celebrates *enterprise*.
 - **[[Three of Swords]]** (Air): Heartbreak, sorrow, necessary separation. Where Swords suffers division, Wands enjoys expansion.
 - **[[Three of Pentacles]]** (Earth): Skilled work, collaboration, building. Where Pentacles is *doing*, Wands is *watching what you've done unfold*.

@@ -12,6 +12,7 @@ gate: 27
 hexagram: 27 (Nourishment)
 gene_keys: Selfishness → Altruism → Selflessness
 ---
+# The Great Mother
 *Sarah Connor - The Fierce Protector*
 
 ---
@@ -74,18 +75,18 @@ In sacred traditions, Selflessness corresponds to the divine mother whose being 
 
 ---
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 You are being called to **nourish with fierce discernment**. The situation demands both provision and protection. This is not the time for indiscriminate caring—your Sacral must respond to true tribal need. Who are your people? What genuinely requires your life-force? Feed yourself first, then defend what you love. The Great Mother is awakening in you.
 
 The appearance of The Great Mother also suggests that **tribal responsibility is activating**. Gate 27's caring function is calling—someone or something needs your nourishment. The question is whether you will respond with sustainable provision or exhaust yourself through undiscerning giving.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware selfishness disguised as caring—hoarding resources, refusing to share capacity. Beware also the opposite: self-sacrifice that depletes until you have nothing left to give. The Great Mother corrupted either withholds nourishment or gives until empty. Both paths betray the tribe. Check whether your caring has healthy boundaries or whether you're either hoarding or hemorrhaging life-force.
 
-**Gift Aspect:**
+#### Gift Aspect
 Your caring creates sustainable tribal strength. You nourish strategically—yourself first, then those who respond to your call. You are the warrior-mother who trains the next generation, who prepares them for what's coming, who protects fiercely while feeding generously. Your strength enables their survival. The gift is **fierce love**—caring that will do whatever is necessary to ensure those you love thrive.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 You embody Selflessness—caring that flows from infinite source. You no longer choose between self and other because you recognize both as one. Your nourishment enhances all life, effortlessly. You have become the Great Mother in her cosmic aspect—the womb that births worlds, the breast that feeds galaxies. At this frequency, giving is receiving; nourishment is your nature, not your choice.
 
 ---

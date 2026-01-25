@@ -12,6 +12,7 @@ gate: 35
 hexagram: 35 (Progress)
 gene_keys: Hunger → Adventure → Boundlessness
 ---
+# The Joker
 *The Joker - The Chaotic Disruptor*
 
 ---
@@ -74,18 +75,18 @@ In sacred traditions, Boundlessness corresponds to the recognition that all boun
 
 ---
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 You are being called to **disrupt the established order**. Something is stagnant and your hunger for new experience is the signal. Progress cannot happen in vacuum—you must introduce chaos, challenge pretense, force evolution through crisis. This is not the time for civility or patience. Ask: "Why so serious?" and then burn what needs burning. The Joker is awakening.
 
 The appearance of The Joker also suggests that **change is overdue**. Gate 35's hunger for experience is activating—the recognition that current order no longer serves. The question is whether you will channel disruption purposefully or scatter energy in random destruction.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware hunger disguised as philosophy—destroying without purpose, creating chaos for ego rather than evolution, burning everything including what serves. The Joker corrupted becomes pure appetite, nihilism without adventure, disruption without direction. Beware also creative block turned pathological: forcing experience when timing is wrong, manufacturing crisis from impatience rather than necessity. Check whether your chaos creates possibility or merely destruction.
 
-**Gift Aspect:**
+#### Gift Aspect
 Your chaos catalyzes progress. You see through civilized pretense, speak truth no one wants to hear, force choices that reveal who people really are. You are the wild archer shooting arrows at every sacred cow, the philosopher using transgression as teaching. Your hunger for new experience pushes the collective beyond comfort into evolution. The gift is **purposeful disruption**—knowing what needs to burn.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 You embody Boundlessness—the recognition that chaos is cosmic play, that disruption serves creation, that The Joker is the universe delighting in its own capacity to exceed all boundaries. You have transcended the question "is chaos good or evil?" because you know: **progress requires the agent who refuses all limits**. You are eternal change incarnate, the cosmic function that ensures nothing ever ossifies into permanent form.
 
 ---

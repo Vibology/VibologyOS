@@ -122,7 +122,7 @@ The Logic Circuit is not about consensus or harmony—it is about **testing patt
 
 Gate 31 forms **Channel 31-7: The Alpha** when connected to Gate 7 in the G Center.
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 
 - **Gate 31 (Throat):** "I lead—I articulate the pattern for the collective."
 - **Gate 7 (G Center):** "I recognize my role in leadership—I am the one who must guide."
@@ -132,7 +132,7 @@ When this channel is defined, the individual has **consistent access to democrat
 
 **Without the channel defined** (only Gate 31 activated), the individual experiences the **urge to lead** through voice but may lack the identity or authority to back it up. They need another person with Gate 7 to complete the electromagnetic circuit—someone who embodies the leadership role that Gate 31 can articulate.
 
-**Interpersonal Electromagnetic Dynamics:**
+#### Interpersonal Electromagnetic Dynamics
 
 - **Both have Channel 31-7:** Potential leadership competition or complementary co-leadership, depending on maturity.
 - **One has Gate 31, other has Gate 7:** The Gate 7 person provides leadership identity; the Gate 31 person provides the voice. This can be profoundly effective in partnerships.
@@ -142,14 +142,14 @@ When this channel is defined, the individual has **consistent access to democrat
 
 Gate 31 is located in the **Throat Center**, which corresponds biologically to the **thyroid, parathyroid, larynx, and vocal cords**. The Throat is the center of **manifestation**—ideas become reality through speech and action initiated here.
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 31 defined may experience:
 - A deep **somatic urge to speak**, especially when patterns are recognized that others are missing
 - **Throat activation** when leadership is needed—a felt sense of "I must say this"
 - **Thyroid sensitivity** if not living aligned with authentic leadership voice (the thyroid regulates metabolism and energy; unexpressed leadership can manifest as thyroid imbalance)
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Throat Center radiates **manifestation energy** into the aura. When Gate 31 is active, the aura carries a frequency that says: "I see the pattern. I can lead. Listen." Others may feel this as **magnetic**, **authoritative**, or (if the individual is in Not-Self) **arrogant and domineering**.
 
@@ -187,7 +187,7 @@ The leadership voice is inconsistent (activated only by transits or others). The
 - **Misplaced Influence:** Leading in arenas where one has no genuine pattern recognition or authority.
 - **Seeking Validation Through Followers:** Measuring self-worth by how many people follow rather than whether the pattern serves.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Speaking when not invited or when there is no genuine pattern to articulate
 - Feeling frustrated when others do not follow or listen
@@ -215,7 +215,7 @@ The **7-year deconditioning cycle** for Gate 31 involves learning to recognize w
 
 **Year 7:** Integration phase—leadership emerges naturally when aligned with Strategy and Authority. The individual leads from **humility** (Gene Keys Siddhi) rather than arrogance. Influence flows without attachment to outcome or need for followers.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice where leadership impulses arise in the body. Is it the throat (Gate 31)? The gut (Sacral)? The heart (Ego)? Or a quiet pull from the G Center's role (Gate 7)?
 - Practice **selective articulation**—speaking only when there is a genuine pattern to share, not to fill silence or prove competence.
@@ -265,14 +265,14 @@ In Jungian terms, Gate 31 corresponds to the **King/Queen Archetype** and the te
 
 The Democratic Leader archetype seeks to guide without dominating, to influence through demonstrated competence rather than inherited authority. This is the elected official, the meritocratic expert, the pattern recognizer whose voice carries weight because it has proven accurate.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 31** manifests as:
 - **Arrogance and Inflation:** Believing one's leadership is inherently superior, becoming intolerant of dissent or alternative patterns.
 - **Leadership Addiction:** Needing to be seen as the leader, measuring self-worth by followers or influence.
 - **Tyranny of Expertise:** Using pattern recognition as a weapon, silencing others with "I know better" rather than inviting collaboration.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 31, individuation requires:
 1. **Separation from Ego-Driven Leadership:** Recognizing that influence is service, not status or validation.
@@ -285,7 +285,7 @@ When integrated, Gate 31 becomes the expression of the **Wise Leader**—the one
 
 When the individual with Gate 31 operates according to their Strategy and Authority, the gift that emerges is **Leadership** (Gene Keys) and **Democratic Influence** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Leadership emerges naturally when the pattern is clear and the collective is ready to hear it.
 - The individual speaks with **authority earned through accuracy**, not claimed through ego.
@@ -300,7 +300,7 @@ The Signature of the Throat Center (for all gates within it) is the experience o
 - **Leading without resistance** because the influence is invited or responded to
 - **Serving through articulation** without attachment to whether others follow
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 31 teaches that **authentic leadership is service, not status**. When the individual honors their need for invitation (Projector), response (Generator), or informed initiation (Manifestor), they become a **living example** of what it means to lead from humility. This is the essence of the Logic Circuit—not to dominate, but to **empower the collective through articulated patterns**.
 

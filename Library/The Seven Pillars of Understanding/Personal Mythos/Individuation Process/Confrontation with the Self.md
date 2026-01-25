@@ -296,7 +296,7 @@ Jung: "The self is the *coniunctio oppositorum*—the union of opposites—made 
 
 **Freedom:** Paradoxically, surrendering to the Self brings **freedom**. The ego's tyranny (anxious control, endless striving) is released. The individual can **be** rather than constantly **becoming**.
 
-**The Gift:**
+#### The Gift
 A **whole human being** who has shifted the center of gravity from ego to Self, who experiences life as **meaningful** even in suffering, who serves something greater than personal ambition, who is prepared for death because the Self—the eternal reality within—has been realized.
 
 ## Cross-References
@@ -313,12 +313,12 @@ A **whole human being** who has shifted the center of gravity from ego to Self, 
 - [[The Resurrection]] (second death, Master of Two Worlds)
 - [[Return with the Elixir]] (service, bringing the boon to the community)
 
-**Individuation Process:**
+#### Individuation Process
 - [[Confrontation with Shadow]] (Stage 3—prepares ego to hold Self's darkness)
 - [[Encounter with Anima-Animus]] (Stage 4—bridge to the Self)
 - [[Integration and Wholeness]] (Stage 6—living the realized Self toward death)
 
-**Alchemical Stages:**
+#### Alchemical Stages
 - [[Rubedo]] (primary operation of this stage—reddening, sacred marriage)
 - [[Coniunctio]] (union of opposites, King and Queen united)
 - [[Nigredo]] (Stage 3—death of ego-inflation)
@@ -342,7 +342,7 @@ A **whole human being** who has shifted the center of gravity from ego to Self, 
 - [[Gate 25]] (Spirit of the Self, Universal Love, innocence)
 - [[Gate 1]] (Creative Power, the Self's will)
 
-**Mythology:**
+#### Mythology
 - [[Christian Mythology]] (Christ as Anthropos, God-Man)
 - [[Hindu Mythology]] (Atman-Brahman, Tat Tvam Asi)
 - [[Buddhist Cosmology]] (Buddha Nature, enlightenment)

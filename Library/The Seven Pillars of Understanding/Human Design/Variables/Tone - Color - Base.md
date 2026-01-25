@@ -9,6 +9,7 @@ verification_date: 2026-01-25
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
 verification_notes: "Variables mechanics verified against Grimoire. Advanced layer (Color/Tone/Base calculations) marked as educational synthesis."
 ---
+# Tone - Color - Base
 *The deeper architecture of consciousness*
 
 ---
@@ -17,7 +18,7 @@ verification_notes: "Variables mechanics verified against Grimoire. Advanced lay
 
 **Tone, Color, and Base** represent the **internal substructure** of the Crystals of Consciousness—the layers of architecture beneath the surface [[Variables]] ([[Determination]], [[Environment]], [[Perspective]], [[Motivation]]).
 
-**The Structure:**
+#### The Structure
 - **Variables** (surface layer) = What you see in practical application
 - **Color** (messenger layer) = The exit frequency transferring information from Tone to Line
 - **Tone** (architecture layer) = The internal frequency determining cognition and Left/Right orientation
@@ -346,10 +347,10 @@ The revelation of Tone/Color/Base was radical: **Consciousness has architecture*
 - You are **designed** to operate in a specific way—Left or Right, Color 1 or Color 6, Tone 3 or Tone 5
 - **Differentiation** = Aligning to your architecture, not conforming to collective norms
 
-**The Gift:**
+#### The Gift
 When you live according to your Tone/Color/Base (via Variables), you access your **unique intelligence**—the gift you offer that no one else can replicate.
 
-**The Challenge:**
+#### The Challenge
 The Not-Self mind resists this. It wants to be "flexible," "adaptive," "open to anything." The truth is more radical: **You are fixed**. And in that fixedness lies your freedom.
 
 ---

@@ -7,6 +7,7 @@ verified: 2026-01-24
 verification_source: Esoteric Grimoire
 category: Practice
 ---
+# Kenosis - The Path of Self-Emptying
 *Letting Go to Create Space for the Divine*
 
 ---
@@ -71,17 +72,17 @@ Bourgeault references the "dark night of the spirit" when discussing the Bridal 
 
 **The Image:** Imagine holding a ball of light in your fist. The harder you grip, the more the light is obscured. Open your hand—the light shines freely.
 
-**The Teaching:**
+#### The Teaching
 - **Grasping** = Ego trying to control, possess, secure
 - **Releasing** = Letting the hand open, allowing abundance to flow
 
-**The Practice:**
+#### The Practice
 1. **Notice the Constriction** - When you feel fear, craving, resistance, anger—pause
 2. **Name It** - "I am gripping. I am clinging to [outcome/identity/belief]."
 3. **Open the Hand** - Not by pushing away the desire, but by **relaxing the grasp**—allowing it to be there without controlling it
 4. **Abundance Emerges** - What was obscured by grasping becomes visible—the love, spaciousness, peace that is already present
 
-**Why It Works:**
+#### Why It Works
 
 Grasping creates **contraction**—the field of awareness narrows, possibilities collapse, you become rigid. Releasing creates **expansion**—the field opens, possibilities emerge, you become fluid.
 

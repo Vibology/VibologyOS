@@ -78,7 +78,7 @@ In traditional astrology, Mercury "rejoices" here because the 1st House is where
 
 The **ruler of the 1st House** (the planet ruling the Ascendant sign) is called the **chart ruler**. This planet shows *how* the life unfolds—the primary avenue through which the incarnation manifests its purpose.
 
-**Examples:**
+#### Examples
 - **Aries Rising → Mars is chart ruler** — Life unfolds through action, courage, initiation
 - **Cancer Rising → Moon is chart ruler** — Life unfolds through emotion, nurturance, instinct
 - **Capricorn Rising → Saturn is chart ruler** — Life unfolds through discipline, mastery, earned authority

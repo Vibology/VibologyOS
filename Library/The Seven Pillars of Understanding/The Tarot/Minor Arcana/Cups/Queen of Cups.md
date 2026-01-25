@@ -14,6 +14,7 @@ element_primary: Water
 element_secondary: Water
 title: Queen of the Thrones of the Waters
 ---
+# Queen of Cups
 *Queen of the Thrones of the Waters*
 
 ---
@@ -73,7 +74,7 @@ The Queen of Cups as a **Process** or **Energy**: The activation of emotional wi
 
 **Keywords**: Emotional mastery, loving intelligence, intuitive wisdom, the gift of vision, depth psychology, the receptive master, holding space, the sacred cup, psychic perception, the throne in the waters.
 
-**Reversed (per Waite):**
+#### Reversed (per Waite)
 
 Vice, dishonor, depravity—or a distinguished woman not to be trusted. The reversal corrupts the Queen's watery gifts. The reversed Queen can signify:
 - **Emotional manipulation**: Empathy weaponized, "I know what you feel" used to control

@@ -16,6 +16,7 @@ planetary: Venus in Virgo
 decan: Second decan of Virgo (10°-20°)
 title: Lord of Material Gain
 ---
+# Nine of Pentacles
 
 *Venus in Virgo - The second decan of Virgo*
 

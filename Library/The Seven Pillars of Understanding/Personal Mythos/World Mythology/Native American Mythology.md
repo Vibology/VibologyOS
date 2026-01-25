@@ -439,7 +439,7 @@ The **Medicine Wheel** is a **mandala of wholeness**—the Self as sacred circle
 
 **Core Principle:** All relationships require **reciprocity**—give and receive, honor the gift with gratitude and action.
 
-**Examples:**
+#### Examples
 - **Harvest:** Before taking plant medicine, offer tobacco, sing, ask permission, take only what is needed
 - **Hunt:** Honor the animal's sacrifice, use all parts, thank the spirit, ceremony of gratitude
 - **Water:** Do not pollute what sustains you—what you take in must be returned clean
@@ -506,7 +506,7 @@ The **Medicine Wheel** is a **mandala of wholeness**—the Self as sacred circle
 
 ### Shadow Work: The Indigenous Model
 
-**Method:**
+#### Method
 
 1. **Identify imbalance:** Which direction of the Wheel have you neglected? Where is reciprocity broken?
 2. **Restore relationship:** Not "fix the problem" but "repair the connection"—to land, body, animals, people, ancestors, Spirit
@@ -726,7 +726,7 @@ Jung: *"The Indian's relationship to his gods is not one of belief but of experi
 - **The Hero:** Monster Slayers (restoring balance), vision quester (seeking ordeal)
 - **The Threshold Guardian:** Animal spirits (testing worthiness), ordeal of vision quest (must be earned)
 
-**Cross-archetype dynamics:**
+#### Cross-archetype dynamics
 
 - Trickster (Coyote) teaches humility to Hero (Monster Slayer)—the heroic ego must laugh at itself
 - Great Mother (Spider Woman) weaves the field in which Self (Sacred Hoop) manifests—creation precedes individuation
@@ -857,7 +857,7 @@ Jung: *"The Indian's relationship to his gods is not one of belief but of experi
 **Primary Native American Sources:**
 Core mythological narratives (cosmology, trickster cycles, vision quests, and sacred teachings) are drawn from Indigenous North American oral traditions including creation stories, animal spirit teachings, and ceremonial knowledge from diverse Nations. This content represents pan-Indigenous archetypal patterns found across multiple traditions (Lakota, Navajo/Diné, Hopi, Anishinaabe, Pacific Northwest Nations, and others). Deep respect is maintained for the sovereignty and cultural specificity of each Nation; generalizations are identified as such.
 
-**Vibrology Synthesis:**
+#### Vibrology Synthesis
 All Jungian archetypal analysis (interpreting Native American myths through the lens of Shadow, Anima/Animus, Self, Individuation, etc.) represents scholarly synthesis rather than traditional Indigenous understanding. Cross-system correspondences (Tarot, Astrology, Alchemy, Human Design, Qabalah) are Vibrology's integrative framework, not part of Indigenous traditions. Many Indigenous philosophies (relational consciousness, sacred reciprocity, non-linear time) deeply resonate with Jungian concepts, but the explicit correlations drawn here are modern interpretive additions that honor but do not claim to represent Indigenous wisdom traditions.
 
 ---

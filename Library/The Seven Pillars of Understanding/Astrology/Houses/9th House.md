@@ -68,7 +68,7 @@ Sagittarius is the mutable fire sign that does not burn (Aries) or sustain (Leo)
 
 The **ruler of the 9th House** (the planet ruling the sign on the 9th House cusp) reveals *how* you seek meaning and what you believe.
 
-**Examples:**
+#### Examples
 - **Mercury ruling 9th → Gemini/Virgo on 9th cusp** — Philosophy through logic, teaching through analysis, belief as intellectual system
 - **Venus ruling 9th → Taurus/Libra on 9th cusp** — Philosophy through beauty, teaching through harmony, belief as aesthetic principle
 - **Saturn ruling 9th → Capricorn/Aquarius on 9th cusp** — Philosophy through discipline, teaching through structure, belief earned through suffering

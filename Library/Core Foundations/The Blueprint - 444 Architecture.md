@@ -17,7 +17,7 @@ category: Structural Framework
 
 **The Blueprint - 444 Architecture** refers to the **shared 64-fold mechanical substrate** that unifies multiple wisdom traditions within [[Vibology]]. This is not metaphor or analogy—it is **structural identity**: the recognition that DNA codons, Human Design gates, I-Ching hexagrams, and Gene Keys all operate on the **same 4×4×4 mathematical foundation**.
 
-**The Pattern:**
+#### The Pattern
 - **4** nucleotide bases (DNA): Adenine, Thymine, Cytosine, Guanine (A-T-C-G)
 - **4** amino groups (biochemistry): forming 64 codons
 - **4** binary positions (I-Ching): yielding 64 hexagrams (2⁶ = 64)
@@ -42,7 +42,7 @@ This is the **architecture of manifestation**—the blueprint by which conscious
 
 **1961-1966:** The genetic code is cracked—scientists discover that sequences of **three nucleotides** (codons) encode for amino acids. With 4 nucleotides (A, T, C, G), there are **4³ = 64 possible codons**.
 
-**The Structure:**
+#### The Structure
 - 64 codons total
 - 61 code for amino acids
 - 3 are "stop" codons (termination signals)
@@ -53,7 +53,7 @@ This is the **architecture of manifestation**—the blueprint by which conscious
 
 **3,000 years earlier**, Chinese sages systematized the *I-Ching* (*Book of Changes*)—an oracle based on **binary permutations** (Huang, *The Complete I Ching*):
 
-**The Structure:**
+#### The Structure
 - **2** primordial forces: Yang (—) and Yin (- -)
 - **4** bigrams: combining two lines (太陽, 少陰, 少陽, 太陰)
 - **8** trigrams: combining three lines (Heaven, Earth, Thunder, Wind, Water, Fire, Mountain, Lake)
@@ -67,12 +67,12 @@ Each hexagram represents an **archetypal situation**—a state of being, a phase
 
 In 1973, Dr. Martin Schonberger published *The I Ching and the Genetic Code: The Hidden Key to Life*, demonstrating the **structural correspondence** between DNA codons and I-Ching hexagrams:
 
-**The Mapping:**
+#### The Mapping
 - Yang line (—) = Purine bases (Adenine, Guanine) = "strong" hydrogen bonds
 - Yin line (- -) = Pyrimidine bases (Thymine, Cytosine) = "weak" hydrogen bonds
 - Hexagram position (bottom to top) = Codon position (5' to 3' direction)
 
-**Example:**
+#### Example
 - Codon ATG (Methionine, start codon) = Hexagram 43 (夬 Guài / Breakthrough)
 - Codon TAA (Stop codon) = Hexagram 23 (剝 Bō / Splitting Apart)
 
@@ -218,7 +218,7 @@ Your primary Gene Keys (based on birth chart) create a **Golden Path**—a conte
 2. **Venus Sequence:** Relationships and attraction
 3. **Pearl Sequence:** Life's work and prosperity
 
-**Practice:**
+#### Practice
 Gene Keys is not mechanics—it's **contemplation**. You sit with a Key for weeks or months, allowing its archetypal pattern to reveal itself through dreams, synchronicities, and lived experience.
 
 **Cross-System Integration:**
@@ -368,7 +368,7 @@ Because multiple systems share the **same 64-fold structure**, you can **transla
 
 When multiple systems **converge** on the same insight, confidence increases:
 
-**Example:**
+#### Example
 - Your Human Design chart shows Gate 51 defined
 - You pull I-Ching Hexagram 51 in a reading
 - Your natal Mars (initiator planet) aspects Aries (initiator sign)
@@ -443,7 +443,7 @@ This is [[Techgnosis]] enabled by the Blueprint—consciousness mapped as **navi
 - Read the corresponding **I-Ching hexagram** for oracular guidance
 - Contemplate the corresponding **Gene Key** (shadow, gift, siddhi)
 
-**Example:**
+#### Example
 - Sun transiting Gate 27 (Nourishment)
 - Read I-Ching Hexagram 27 (頤 Yí / Nourishment / Jaws)
 - Contemplate Gene Key 27: Shadow = Selfishness, Gift = Altruism, Siddhi = Selflessness
@@ -461,7 +461,7 @@ This is [[Techgnosis]] enabled by the Blueprint—consciousness mapped as **navi
 
 When a major transit activates one of your defined gates:
 
-**Example:**
+#### Example
 - Pluto transits Aquarius 20° (Gate 43: Breakthrough)
 - You have Gate 43 defined in your chart
 - **Synthesis:**

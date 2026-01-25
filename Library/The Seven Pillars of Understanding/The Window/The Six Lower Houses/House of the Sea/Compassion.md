@@ -86,18 +86,18 @@ In sacred traditions, this is the bodhisattva who weeps for all beings because a
 ---
 
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 Compassion signals that **empathic presence is needed**—yours to offer or yours to receive. You are being called to witness emotional truth without judgment, to hold space for feeling without needing to control it. This is a time for **deep listening**: to yourself, to another, to the emotional undercurrents seeking expression. The question is: **can you feel with without becoming? Can you witness without needing to fix?**
 
 The appearance of Compassion also suggests that **presence is the healing**. Gate 13's witnessing capacity is activating—circumstances support empathic encounter, emotional truth is ready to be held. The question is whether you can remain grounded enough to offer the container that witnessing requires.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware the trap of **discord in empathy**—either merging with others' emotions until you lose yourself, or detaching from feeling to protect your stability. The shadow manifests as unstable empathy: oscillating between over-identification and cold distance, unable to find the grounded middle. Check whether your empathy serves connection or creates either codependence or isolation. Shadow also warns against **compassion fatigue**: giving more empathic presence than you have capacity for until witness becomes burden.
 
-**Gift Aspect:**
+#### Gift Aspect
 When Compassion expresses its gift, you embody **discerning empathy**—the capacity to feel with others while maintaining your ground, to witness suffering without being destroyed by it. This is the gift of **bounded presence**: you hold space for tears, rage, joy, longing without needing the feeling to be about you or to go away. Your stable presence becomes the container that allows emotional truth to emerge.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 In its highest expression, Compassion becomes **Empathy**—the recognition that all feeling is ultimately shared, that your heart and mine meet in the same ocean of consciousness. You embody the understanding that compassion is not charity but recognition: seeing your pain, I meet my own; witnessing your joy, I celebrate the one life we share. Those who touch this frequency demonstrate that **boundaries are permeable, that separation is temporary, that emotional reality is fundamentally collective**.
 
 ---

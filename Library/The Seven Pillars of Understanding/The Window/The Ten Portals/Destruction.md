@@ -11,6 +11,7 @@ gate: 63
 hexagram: 63 (After Completion)
 gene_keys: Doubt → Inquiry → Truth
 ---
+# Destruction
 *After Completion - Violent Clearing of Space*
 
 ---
@@ -63,16 +64,16 @@ Doubt → Inquiry → Truth
 
 ---
 ## Oracle Reading
-**When this portal appears:**
+#### When this portal appears
 You are in destruction. Something that seemed complete—relationship, career, belief system, achievement—is being questioned. Doubt is arising. Patterns that appeared stable are being tested, and the testing may reveal flaws that require dismantling. The question is: can you inquire without destroying unnecessarily? Can you doubt systematically, testing what needs verification without collapsing everything from fear? Can you trust that if destruction is necessary, it serves truth? Destruction calls: **question completion**—what survives testing is real; what collapses needed to fall.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware doubt disguised as wisdom—skepticism so relentless it prevents anything from being completed, questioning that destroys indiscriminately rather than verifies selectively. The shadow sabotages achievement, collapses relationships from suspicion, tears down patterns from anxiety rather than from logical necessity. Beware also premature acceptance: trusting completion without verification, accepting patterns because questioning feels destabilizing. True inquiry requires **composure**—test calmly, destroy only what fails verification.
 
-**Gift Aspect:**
+#### Gift Aspect
 Your doubt is serving truth. The questioning arising is **logical inquiry**, not paranoia. Something that seemed complete requires verification, and if it cannot withstand testing, destruction is necessary to clear space for what is real. Now inquire systematically: test patterns methodically, question calmly, allow what is false to collapse while what is true strengthens through verification.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 You embody Truth—the recognition that all doubt ultimately serves certainty, that destruction clears space for what cannot be destroyed, that inquiry is love of what is real over attachment to what seems complete. You are water testing fire, skepticism serving verification, doubt that purifies. Destruction as cosmic principle: **only Truth survives relentless questioning**. What collapses was false. What remains is unshakeable.
 
 ---

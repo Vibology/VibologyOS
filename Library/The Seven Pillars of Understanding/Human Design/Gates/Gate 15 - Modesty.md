@@ -122,7 +122,7 @@ Because the Collective Logic Circuit is designed to **recognize and share patter
 
 Gate 15 forms **Channel 15-5: Rhythm (The Channel of Being in the Flow)** when connected to Gate 5 in the Sacral Center.
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 
 - **Gate 15 (G Center):** "I have experienced the full spectrum of human patterns and love humanity through this diversity."
 - **Gate 5 (Sacral):** "I have the life force to wait for the correct rhythm and timing to express these patterns."
@@ -132,7 +132,7 @@ When this channel is defined, the individual has **consistent access to rhythm a
 
 **Without the channel defined** (only Gate 15 activated), the individual experiences the full range of patterns but may struggle to know *when* to express them. They need another person with Gate 5 to complete the electromagnetic circuit—someone who can help them attune to correct timing.
 
-**Interpersonal Electromagnetic Dynamics:**
+#### Interpersonal Electromagnetic Dynamics
 
 - **Both have Channel 15-5:** Potential mutual flow or collision if both are attuned to different rhythms. Can be profoundly harmonious if rhythms align.
 - **One has Gate 15, other has Gate 5:** The Gate 15 person provides experiential diversity; the Gate 5 person provides rhythmic timing. This can create balanced partnership—pattern and pace.
@@ -142,7 +142,7 @@ When this channel is defined, the individual has **consistent access to rhythm a
 
 Gate 15 is located in the **G Center**, which corresponds biologically to the **liver** and the **magnetic monopole** (Ra's term for the geometric center of the bodygraph that determines direction, identity, and the experience of love).
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 15 defined may experience:
 - A **somatic pull toward diverse experiences**—a restlessness that seeks to taste all aspects of life
@@ -150,7 +150,7 @@ Individuals with Gate 15 defined may experience:
 - A felt sense of **magnetic attraction** to people from all walks of life—criminals, saints, artists, workers—without judgment
 - **Energetic fluctuation** between behavioral extremes, requiring conscious balancing
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The G Center radiates **identity and direction** into the aura. When Gate 15 is active, the aura carries a frequency that says: "I am here to experience and love all patterns of humanity. I contain multitudes." Others may feel this as **magnetic**, **accepting**, or (if the individual is in Not-Self) **chaotic** and **unpredictable**.
 
@@ -188,7 +188,7 @@ The experience of extremes is inconsistent (activated only by transits or others
 - **Inflation:** Believing one's experience of diversity makes one superior—"I've lived more than you, so I know better."
 - **Martyrdom:** Suffering through extremes out of duty rather than love, creating resentment toward humanity.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Feeling directionless, swinging between behavioral extremes without coherence
 - Judging others for behavior one has personally engaged in
@@ -216,7 +216,7 @@ The **7-year deconditioning cycle** for Gate 15 involves learning to recognize w
 
 **Year 7:** Integration phase—extremes become aligned with Strategy and Authority. The individual experiences diversity from **magnetism** (Gene Keys Gift) rather than dullness. Love of humanity flows naturally, without force or judgment.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice where the impulse to experience extremes arises in the body. Is it the gut (Sacral)? The mind (pressure)? Or a quiet magnetic pull from the G Center's direction?
 - Practice **non-judgment of self and others**—recognizing that every pattern is part of humanity's tapestry.
@@ -260,14 +260,14 @@ In Jungian terms, Gate 15 corresponds to the **Inclusive Archetype** and the dri
 
 The Wanderer archetype seeks to experience all aspects of life, to taste every extreme, to become a **living library** of human experience. This is the mystic who has walked all paths and thus judges none, the wanderer who carries humanity's story in their bones.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 15** manifests as:
 - **The Chameleon:** Losing identity in the attempt to embody all patterns, becoming whoever others need rather than flowing with natural rhythm.
 - **The Judge:** Despite experiencing extremes, projecting judgment onto others for patterns one has lived but not integrated.
 - **The Martyr:** Suffering through extremes out of duty rather than love, creating resentment disguised as service.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 15, individuation requires:
 1. **Integration of Shadow:** Recognizing that all patterns judged in others exist within oneself.
@@ -280,7 +280,7 @@ When integrated, Gate 15 becomes the expression of **unconditional love**—the 
 
 When the individual with Gate 15 operates according to their Strategy and Authority, the gift that emerges is **Magnetism** (Gene Keys) and **Love of Humanity Through Pattern Recognition** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Extremes are experienced naturally, without force or performance, flowing from correct timing (especially if Gate 5 is defined).
 - The individual loves all human patterns from a place of **lived understanding** rather than theoretical tolerance.
@@ -295,7 +295,7 @@ The Signature of the G Center (for all gates within it) is the experience of **L
 - **Knowing one's direction through the extremes**—understanding that experiencing patterns is part of one's path
 - **Being at peace with life's rhythms**, trusting that all seasons serve
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 15 teaches that **true love is acceptance of the full spectrum**. When the individual honors their Strategy and Authority, flows with natural rhythm, and experiences extremes without judgment, they become a **living example** of inclusive humanity. This is the essence of the Collective Logic Circuit—to recognize patterns across the human experience and share that recognition for collective understanding.
 

@@ -86,18 +86,18 @@ In sacred traditions, this is the teaching that the purest offering is the one g
 ---
 
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 Stagnation signals that **perfectionism has paralyzed action**. You are being shown a place where discrimination has become excessive, where standards have become imprisonment, where the pursuit of excellence has stopped actually pursuing. This is a wake-up call: the refinement you're engaged in may be avoidance disguised as quality control. The card asks: are you perfecting your work or preventing its completion?
 
 The appearance of Stagnation also suggests that **vanity is operating**. Gate 12's shadow is expressing—the secret superiority that must be protected from the humbling reality of actual engagement. The question is whether you can release the need for guaranteed excellence and act despite uncertainty.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware the trap of **perfectionism that prevents rather than refines**. Are you maintaining standards or using standards to avoid vulnerability? Check whether your endless preparation is serving eventual action or substituting for it. Shadow also warns against **vanity disguised as excellence**—the belief that you could be exceptional which must be protected by never testing itself. Stagnation's cruelest trick is convincing you that paralysis is discernment.
 
-**Gift Aspect:**
+#### Gift Aspect
 The way through Stagnation is **discrimination that serves creation**. Not abandoning standards but applying them wisely—knowing when to refine and when to release, when to perfect and when to complete. Trust that imperfect action creates more than perfect paralysis. The discriminating soul maintains quality without letting quality prevent manifestation. Done is better than perfect; shared is better than hoarded.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 In its highest expression, Stagnation's shadow dissolves into **Purity**—the recognition that true excellence is not surface perfection but depth of intention, that the pure creation is one given freely without needing to control its reception. Those who touch this frequency discover that their obsession with quality was actually fear of vulnerability. When that fear releases, creation flows—not because standards lower but because paralysis lifts.
 
 ---

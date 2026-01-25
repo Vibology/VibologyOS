@@ -59,7 +59,7 @@ Bluebeard is **not the Beast**. He is not wounded masculine instinct awaiting re
 - **The predator as seducer** – His blue beard is the uncanny marker, the **subtle wrongness** that intuition registers but naivety ignores. He lures through charm, wealth, and the promise of a good life—classic predatory grooming.
 - **Unredeemable** – This is the critical point. Bluebeard **cannot be loved into transformation**. He does not want healing; he wants **victims**. The psyche's only defense is to **recognize, resist, and destroy** him.
 
-**Psychological Function:**
+#### Psychological Function
 
 Bluebeard represents the **internal negative Animus** in women—the cold, critical, destructive inner voice that says:
 - "Your art is worthless."
@@ -89,7 +89,7 @@ The young wife begins as the **innocent, inexperienced psyche**—naive, trustin
 
 4. **Paralysis to Action** – At first, she is frozen in shock. Then she begs for time. Finally, she **calls for help**—she activates her inner resources (the brothers) to slay the predator. This is the **refusal of victimhood**, the shift from passive target to active defender of her own life.
 
-**Psychological Function:**
+#### Psychological Function
 
 The wife represents the **developing ego** learning discernment:
 - **Who is safe? Who is dangerous?**
@@ -108,7 +108,7 @@ The brothers are the **positive Animus**—the **healthy masculine psychic funct
 - **External and internal** – Literally, they are family; psychologically, they are the woman's **capacity for aggression, boundary-setting, and self-defense**. They are her "No," her rage, her refusal to be consumed.
 - **The rescue that must be called** – The wife must **actively summon them** ("Sister Anne, do you see the brothers coming?"). They do not arrive uninvited. The psyche must **choose to defend itself**, to activate its own protective functions.
 
-**Psychological Function:**
+#### Psychological Function
 
 The brothers represent:
 - **Healthy assertion** – The capacity to say "This ends now."
@@ -121,7 +121,7 @@ In Jungian terms, they are the **positive Animus function**—the inner masculin
 
 Sister Anne stands on the tower, watching for rescue. She is the **observing ego**, the part of consciousness that remains oriented toward hope and survival even in extremis.
 
-**Psychological Function:**
+#### Psychological Function
 
 - **The maintained connection to the outer world** – While the wife is trapped inside Bluebeard's castle (the predator's psychological domain), Anne watches from the tower, maintaining **contact with reality beyond the predator's control**.
 - **The repeated question** – "Sister Anne, do you see anything?" is the psyche's **refusal to surrender to despair**, the repeated check: *Is help coming? Is there a way out?*
@@ -139,7 +139,7 @@ The locked room is the **psychic morgue**, the place where Bluebeard stores the 
 - **Blood and rot** = The **mortificatio** stage of alchemy gone wrong—not purifying death but **putrefaction without resurrection**
 - **Evidence of the pattern** = The chamber proves this is not an accident but a **serial pathology**. Bluebeard has done this before and will do it again.
 
-**Psychological Function:**
+#### Psychological Function
 
 For women in abusive relationships, the chamber is the **moment you see the pattern**:
 - "He did this to his last partner."
@@ -164,7 +164,7 @@ The key that will not come clean is the tale's **symbolic crisis**: **truth mark
 - **The failure of concealment** – The wife scrubs desperately, trying to erase the mark, but **consciousness cannot be reversed**. Knowing changes you.
 - **The trigger of reckoning** – Bluebeard sees the stain and knows she has disobeyed. The mask drops. The predator reveals himself.
 
-**Psychological Function:**
+#### Psychological Function
 
 The bloodstained key is the **end of plausible deniability**:
 - You cannot pretend you didn't see the red flags.
@@ -271,7 +271,7 @@ It is terrifying because it **forces action**: once you see the corpses, you can
 
 The wife does not passively wait for rescue. She **calls for it**. She climbs the tower, stations her sister as lookout, and **actively summons the brothers**.
 
-**Psychological Function:**
+#### Psychological Function
 
 The call is the **ego's decision to defend itself**:
 - "I will not be a victim."
@@ -569,7 +569,7 @@ The Bluebeard pattern maps precisely onto **coercive control dynamics**:
 ---
 
 ## Cross-References
-**Archetypal Figures:**
+#### Archetypal Figures
 [[The Shadow]] • [[The Idol]] • [[The Wise Old Man]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Hero]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] • [[The Alchemist]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] • [[Lilith]] • [[Kali]]
 
 **Jungian Concepts:**
@@ -578,30 +578,30 @@ The Bluebeard pattern maps precisely onto **coercive control dynamics**:
 **Tarot Keys:**
 [[15 - The Devil]] • [[16 - The Tower]] • [[8 - Strength]] • [[3 - The Empress]] • [[7 - The Chariot]] • [[13 - Death]] • [[18 - The Moon]]
 
-**Alchemical Stages:**
+#### Alchemical Stages
 [[Mortificatio]] • [[Nigredo]] • [[Solve et Coagula]] • [[Putrefaction]] • [[Calcination]]
 
-**Mythological Parallels:**
+#### Mythological Parallels
 [[Hades and Persephone]] • [[Orpheus and Eurydice]] • [[Psyche and Eros]] • [[Beauty and the Beast]] • [[The Handless Maiden]] • [[Vasalisa the Wise]]
 
-**Fairy Tale Motifs:**
+#### Fairy Tale Motifs
 [[The Forbidden Chamber]] • [[The Bloody Key]] • [[The Animal Bridegroom]] • [[The Predatory Husband]] • [[The Rescuing Brothers]] • [[Curiosity as Initiation]]
 
-**Human Design Connections:**
+#### Human Design Connections
 [[Emotional Authority]] • [[Tribal Circuitry]] • [[Gate 61 - Inner Truth]] • [[Gate 60 - Limitation]] • [[Defined Head Center]]
 
-**Individuation Process:**
+#### Individuation Process
 [[Confrontation with Shadow]] • [[Encounter with Anima-Animus]] • [[Integration and Wholeness]] • [[Shadow Recognition vs. Integration]]
 
-**Hero's Journey Stages:**
+#### Hero's Journey Stages
 [[The Call to Adventure]] • [[Crossing the First Threshold]] • [[The Ordeal]] • [[The Resurrection]] • [[Return with the Elixir]]
 
-**Related Tales:**
+#### Related Tales
 [[Beauty and the Beast]] • [[Fitcher's Bird]] • [[The Robber Bridegroom]] • [[Mr. Fox]] • [[The White Dove]] • [[The Handless Maiden]]
 
 ---
 
-**Final Word:**
+#### Final Word
 
 Bluebeard is the **necessary counterpoint** to Beauty and the Beast. Together, they teach the psyche's most critical discernment: **When to love, when to leave. When to integrate, when to slay. When the shadow is sacred, when it is parasitic.**
 

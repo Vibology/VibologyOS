@@ -12,6 +12,7 @@ element: Air
 court_rank: Knight
 elemental_formula: Air of Air
 ---
+# Knight of Swords
 
 *The Fiery Part of Air*
 

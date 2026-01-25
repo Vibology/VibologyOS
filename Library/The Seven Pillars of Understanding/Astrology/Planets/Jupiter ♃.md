@@ -198,7 +198,7 @@ Jupiter completes one orbit of the zodiac approximately every **11.86 years**, m
 ## Shadow Expression
 The shadow of Jupiter is **excess and false faith**—the expansion beyond what can be sustained, the belief that refuses to be tested by reality.
 
-**Shadow expressions:**
+#### Shadow expressions
 - **The Inflated Guru:** Self-proclaimed wisdom without lived experience; the teacher who has read but not embodied
 - **The Dogmatist:** Belief crystallized into rigid ideology; the refusal to question one's own assumptions
 - **The Hypocrite:** Preaching ethics while violating them in private; the king who demands integrity from subjects but exempts himself

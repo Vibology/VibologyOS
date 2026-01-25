@@ -86,18 +86,18 @@ In sacred traditions, this is the realized being who acts without attachment to 
 ---
 
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 Pride signals that **achievement has become ego-inflation**. You are being shown a place where mastery has been corrupted by self-obsession, where excellence has degraded into performance, where accomplishment is being used to manufacture identity rather than serve life. This is a wake-up call: the success you're pursuing (or have achieved) may be building a prison rather than liberation. The card asks: who are you apart from what you've done?
 
 The appearance of Pride also suggests that **external validation has become addiction**. Gate 10's self-obsession is expressing—the compulsive need to prove worth through achievement. The question is whether you can release the performance and allow natural excellence to emerge.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware the trap of **self-obsession that corrupts all achievement**. Are you pursuing mastery to serve life or to inflate ego? Check whether your accomplishments bring genuine satisfaction or merely temporary relief from inadequacy. Shadow also warns against **the performance that masks emptiness**—achieving compulsively to avoid facing who you are without achievement. Pride doesn't know who it is; that's why it must constantly perform.
 
-**Gift Aspect:**
+#### Gift Aspect
 The way through Pride is **naturalness that releases the compulsion to perform**. You don't need to prove your worth through achievement; worth exists prior to accomplishment. Focus on being authentically yourself rather than maintaining image. Let excellence emerge naturally rather than manufacturing it for validation. The natural soul doesn't need recognition because it already knows its value.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 In its highest expression, Pride's shadow dissolves into **Being**—the recognition that you are not your accomplishments, that identity exists beyond achievement, that the performer can step off stage and still exist. Those who touch this frequency discover that the desperate pursuit of recognition was seeking something they already had: being. They achieve without attachment, contribute without counting, create without needing acclaim.
 
 ---

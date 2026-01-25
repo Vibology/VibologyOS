@@ -16,6 +16,7 @@ planetary: Mercury in Cancer
 decan: Cancer 10°-20° (2nd Decan)
 title: Lord of Abundance
 ---
+# Three of Cups
 *The Lord of Abundance*
 
 ---
@@ -278,7 +279,7 @@ The Two is the pledge—two individuals recognizing each other and choosing to u
 **Following Card: [[Four of Cups]]**
 The Four is the withdrawal that follows expansion—the introversion after extroversion. Having danced at the celebration (Three), the soul retreats to sit alone under a tree and contemplate. "Was that real? Do I need all that community? What do I actually feel?" The Four is the necessary pause after the party, the digestion after the feast.
 
-**Corresponding Cards in Other Suits:**
+#### Corresponding Cards in Other Suits
 - **[[Three of Wands]]** (Fire): Expansion of will—the enterprise launched, the vision looking outward to what is possible.
 - **[[Three of Swords]]** (Air): The painful truth—the mind pierced by knowledge it didn't want. A starkly different "Three" energy.
 - **[[Three of Pentacles]]** (Earth): Craftsmanship and collaboration—building something together in the material realm.

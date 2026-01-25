@@ -122,7 +122,7 @@ Because the Tribal Ego Circuit is designed for **resource management and materia
 
 Gate 21 forms **Channel 21-45: The Money Line (The Materialist)** when connected to Gate 45 in the Throat Center.
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 
 - **Gate 21 (Ego):** "I have the willpower to control resources, to enforce boundaries, to bite through obstacles."
 - **Gate 45 (Throat):** "I am the voice of the tribe, the one who gathers the collective and speaks for material distribution."
@@ -132,7 +132,7 @@ When this channel is defined, the individual has **consistent access to material
 
 **Without the channel defined** (only Gate 21 activated), the individual experiences **control without voice**—they have willpower and authority over resources but may struggle to be heard or recognized. They may need another person with Gate 45 to complete the electromagnetic circuit—someone who can give voice to their control.
 
-**Interpersonal Electromagnetic Dynamics:**
+#### Interpersonal Electromagnetic Dynamics
 
 - **Both have Channel 21-45:** Potential power struggle over who controls tribal resources and distribution.
 - **One has Gate 21, other has Gate 45:** The Gate 21 person provides the willpower and enforcement; the Gate 45 person provides the voice and gathering capacity. This can be profoundly effective—enforcer and spokesperson, control and communication.
@@ -142,7 +142,7 @@ When this channel is defined, the individual has **consistent access to material
 
 Gate 21 is located in the **Heart (Ego) Center**, which corresponds biologically to the **heart (circulatory system), thymus (immune system), stomach, and gallbladder**—organs associated with willpower, defense, and material processing.
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 21 defined may experience:
 - A **somatic drive to control**, to establish boundaries, to enforce territory
@@ -150,7 +150,7 @@ Individuals with Gate 21 defined may experience:
 - **Digestive sensitivity when control is challenged**—the stomach reacts to powerlessness or interference
 - **Cardiovascular stress when willpower is overextended**—the heart strains when trying to control too much
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Ego Center radiates **willpower and material authority** into the aura. When Gate 21 is active, the aura carries a frequency that says: "I am here to control, to enforce, to bite through obstacles." Others may feel this as **commanding**, **intimidating**, or (if the individual is in Not-Self) **domineering** or **tyrannical**.
 
@@ -188,7 +188,7 @@ The control and willpower are inconsistent (activated only by transits or others
 - **Reactive Enforcement:** Biting through obstacles impulsively without strategy, causing unnecessary conflict.
 - **Resentment of Authority:** Rejecting all forms of control (including one's own), becoming rebellious or anarchic.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Anger from trying to control what cannot be controlled (for Manifestors) or frustration from not waiting to respond before enforcing (for Generators)
 - Bitterness from applying authority without invitation (for Projectors)
@@ -216,7 +216,7 @@ The **7-year deconditioning cycle** for Gate 21 involves learning to recognize w
 
 **Year 7:** Integration phase—control becomes aligned with the Gift of Authority (Gene Keys). The individual enforces boundaries, manages resources, and bites through interference from **natural authority**, not forced dominance. Power is used to serve, not to prove.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice where the impulse to control arises in the body. Is it the chest (Ego center)? The gut (fear)? The mind (strategy)?
 - Practice **pausing before enforcing**—feel the Sacral response (for Generators) or wait for invitation (for Projectors).
@@ -264,14 +264,14 @@ In Jungian terms, Gate 21 corresponds to the **King/Queen Archetype** and the **
 
 The King archetype seeks to maintain order, protect the realm, and ensure that resources are distributed justly. The Warrior serves the King by enforcing the sovereign's will, biting through obstacles that threaten the kingdom.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 21** manifests as:
 - **The Tyrant:** The King who rules through fear and domination, using power to crush rather than serve.
 - **The Powerless Victim:** The inverse—unable to claim authority, constantly controlled by others.
 - **The Aggressive Enforcer:** Using force reactively, becoming violent or cruel without justification.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 21, individuation requires:
 1. **Recognizing that control serves survival, not ego:** Authority is for protection and provision, not domination.
@@ -284,7 +284,7 @@ When integrated, Gate 21 becomes the expression of **natural authority**—the c
 
 When the individual with Gate 21 operates according to their Strategy and Authority, the gift that emerges is **Authority** (Gene Keys) and **Sovereign Control** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Control is exercised only when necessary and aligned with correct timing.
 - Resources are managed for the collective good, not hoarded for personal power.
@@ -299,7 +299,7 @@ The Signature of the Ego Center (when operating correctly) is **fulfillment of c
 - **Recognition as an authority**—others trust your capacity to manage and enforce
 - **Sustainable willpower**—control that does not deplete but renews through correct use
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 21 teaches that **true power is justified power**. When the individual honors their Strategy and Authority, controls resources aligned with their design, and enforces boundaries from natural authority rather than fear, they become a **living example** of sovereign courage. This is the essence of the Tribal Ego Circuit—to serve the material survival of the collective through wise and just control.
 

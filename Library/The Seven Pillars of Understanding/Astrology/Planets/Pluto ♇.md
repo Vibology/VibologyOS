@@ -192,7 +192,7 @@ In esoteric anatomy, Pluto governs the **reproductive organs** (death and birth 
 
 Pluto's shadow is **power wielded without conscience**—the tyrant who destroys for control, the victim who manipulates through suffering, the force that annihilates without regeneration.
 
-**Shadow expressions:**
+#### Shadow expressions
 - **Obsession:** Compulsive fixation on a person, idea, or object; the inability to release what must die
 - **Control:** Domination of others through fear, manipulation, or psychological warfare; the tyrant who cannot trust
 - **Power Abuse:** Destruction wielded for its own sake; the one who takes pleasure in causing suffering or collapse

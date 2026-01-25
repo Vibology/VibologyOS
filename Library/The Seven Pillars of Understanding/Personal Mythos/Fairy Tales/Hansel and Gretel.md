@@ -495,7 +495,7 @@ This is the **child's rehearsal** for the later [[Coniunctio]]—the Sacred Marr
 ---
 
 ## Cross-References
-**Archetypal Figures:**
+#### Archetypal Figures
 [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] • [[The Shadow]] • [[The Muse]] • [[The Idol]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] • [[The Alchemist]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Hero]] • [[The Wise Old Man]] • [[The Terrible Mother]]
 
 **Jungian Concepts:**
@@ -504,25 +504,25 @@ This is the **child's rehearsal** for the later [[Coniunctio]]—the Sacred Marr
 **Tarot Keys:**
 [[The Devil]] • [[The Tower]] • [[The Moon]] • [[The Sun]] • [[Judgment]] • [[Strength]] • [[Temperance]] • [[The Star]] • [[The Hermit]]
 
-**Alchemical Stages:**
+#### Alchemical Stages
 [[Nigredo]] • [[Albedo]] • [[Rubedo]] • [[Calcinatio]] • [[Solve et Coagula]] • [[Philosopher's Stone]] • [[Prima Materia]] • [[Athanor]]
 
-**Mythological Parallels:**
+#### Mythological Parallels
 [[Baba Yaga]] • [[Demeter and Persephone]] • [[Psyche and Eros]] • [[Chronos]] • [[Philomela and Procne]] • [[Bluebeard]] • [[The Juniper Tree]]
 
-**Fairy Tale Motifs:**
+#### Fairy Tale Motifs
 [[Abandonment in the Forest]] • [[The Devouring Witch]] • [[The Gingerbread House]] • [[Sibling Bond]] • [[The Treasure from the Underworld]] • [[The Helper Animal]] • [[The Wicked Stepmother]]
 
-**Human Design Connections:**
+#### Human Design Connections
 [[Sacral Center]] • [[Spleen Center]] • [[Solar Plexus]] • [[Emotional Authority]] • [[Channel 27-50 - Preservation]] • [[Tribal Circuitry]]
 
-**Individuation Process:**
+#### Individuation Process
 [[Ego Formation and Childhood]] • [[Confrontation with Shadow]] • [[Encounter with Anima-Animus]] • [[Integration and Wholeness]] • [[Persona Development]]
 
-**Hero's Journey Stages:**
+#### Hero's Journey Stages
 [[The Call to Adventure]] • [[Refusal of the Call]] • [[Crossing the First Threshold]] • [[Tests, Allies, and Enemies]] • [[The Ordeal]] • [[The Reward]] • [[The Road Back]] • [[The Resurrection]] • [[Return with the Elixir]]
 
-**Related Tales:**
+#### Related Tales
 [[Beauty and the Beast]] • [[Snow White]] • [[Sleeping Beauty]] • [[Little Red Riding Hood]] • [[The Juniper Tree]] • [[The Handless Maiden]] • [[Baba Yaga]] • [[Vasilisa the Beautiful]]
 
 ---

@@ -188,7 +188,7 @@ Uranus's **orbital period of 84 years** means that most individuals do *not* exp
 
 Uranus's shadow is **chaos for its own sake**—the rupture that destroys without offering an alternative, the rebellion that serves only the ego's need to differentiate.
 
-**Shadow expressions:**
+#### Shadow expressions
 - **Chaos addiction:** The need for constant disruption, inability to sustain stability even when offered
 - **Alienation:** The exile who cannot bond, who mistakes isolation for freedom
 - **Compulsive rebellion:** The one who opposes all authority without discernment, who refuses to integrate even beneficial structure

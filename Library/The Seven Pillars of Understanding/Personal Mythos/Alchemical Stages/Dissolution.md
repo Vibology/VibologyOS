@@ -183,7 +183,7 @@ Dissolution feels like drowning, but it can also feel like release:
 - **Baptism Moments:** Life events that feel like immersion and emergence—falling in love (dissolving into the beloved), childbirth (the waters break), near-death experiences (drowning and being reborn).
 - **Dreams of Water:** Floods, drowning, being underwater, ocean waves, baptism, rain, tears.
 
-**In Dreams:**
+#### In Dreams
 - Drowning or being underwater (unable to breathe)
 - Floods washing away houses, cities, or landscapes
 - Swimming in the ocean or a dark lake
@@ -310,7 +310,7 @@ When consciously endured, Dissolution brings:
 
 **Plot Summary:** The Little Mermaid falls in love with a human prince. She trades her voice (her identity, her song) to the sea witch for legs. On land, she cannot speak, and the prince marries another. Her sisters offer her a knife: kill the prince and return to the sea. She refuses, throws herself into the ocean at dawn, and dissolves into sea foam. In some versions, she becomes a "daughter of the air," an elemental spirit.
 
-**Alchemical Reading:**
+#### Alchemical Reading
 - **Dissolution:** The mermaid's body literally dissolves—from flesh to foam. This is the ultimate Dissolution: the death of the false self (the human form she tried to inhabit).
 - **The Voice:** She surrendered her voice (her authentic expression) to pursue the prince (the Animus projection). Without her voice, she cannot speak her truth. Dissolution is the consequence of betraying the Self.
 - **The Ocean:** The ocean is the Great Mother, the unconscious, the source. The mermaid came from water, tried to live on land (ego, conscious world), and returns to water (dissolution, death, transcendence).
@@ -322,7 +322,7 @@ When consciously endured, Dissolution brings:
 
 **Plot Summary:** Beauty agrees to live with the Beast to save her father. Over time, she grows to love the Beast for his kindness. When her father falls ill, she returns home, forgetting her promise. The Beast, heartbroken, begins to die. Beauty returns, finds him dying, and weeps. Her tears fall on his face, breaking the curse, and he transforms into a prince.
 
-**Alchemical Reading:**
+#### Alchemical Reading
 - **Dissolution:** Beauty's tears are the water of Dissolution. They dissolve the Beast's curse (the Shadow form, the monstrous Animus).
 - **Grief as Alchemy:** The tears are not manipulative or performative—they are genuine grief, the release of love and loss. This emotional authenticity *dissolves* the enchantment. Tears as the solvent that breaks rigid forms.
 - **The Beast as Shadow:** The Beast is the rejected, monstrous aspect of the Animus (or the masculine Self). Beauty must first *accept* him (love the Shadow) before her tears can transform him. Dissolution only works on what has been embraced, not rejected.
@@ -531,7 +531,7 @@ Common dream motifs:
 - **The Self:**
   - The Self is the ocean; the ego is a wave. Dissolution is the wave realizing it is the ocean. This is both terrifying (ego death) and liberating (union with wholeness).
 
-**Archetypal Constellation:**
+#### Archetypal Constellation
 When Dissolution is active, the following archetypes are often present:
 - **The Great Mother** (womb, ocean, devourer)
 - **The Anima/Animus** (water-figure, soul-guide)
@@ -565,14 +565,14 @@ When the ego surrenders to the waters—when it allows the tears to fall, the gr
 7. **Baptism:**
    - You are reborn from the waters. The old self has been dissolved; the new self emerges wet, vulnerable, but alive. You have drowned and lived.
 
-**Jung's Teaching:**
+#### Jung's Teaching
 
 > "One does not become enlightened by imagining figures of light, but by making the darkness conscious. The latter procedure, however, is disagreeable and therefore not popular."
 > — C.G. Jung, *Psychology and Alchemy* (CW 12)
 
 Dissolution *is* making the darkness conscious. The waters are dark, cold, terrifying. But they are also the womb of rebirth. To refuse them is to refuse transformation.
 
-**The Gift:**
+#### The Gift
 *The soul that has dissolved and emerged cannot be destroyed. It has learned to breathe underwater, to float in the abyss, to trust the waters. What remains is fluid, resilient, alive—the Self freed from the prison of rigidity.*
 
 ---
@@ -636,7 +636,7 @@ Dissolution *is* making the darkness conscious. The waters are dark, cold, terri
 
 ---
 
-**Final Word:**
+#### Final Word
 
 *Dissolution is the grace that comes after the fire. It is the tears that finally fall, the grief that breaks the dam, the waters that soften what was burned to brittleness. To dissolve is not to be destroyed—it is to be returned to source, to the womb, to the ocean of the unconscious. The soul that allows itself to be dissolved is the soul that can be reborn. Do not fear the tears. They are the water of life.*
 
@@ -671,7 +671,7 @@ Dissolution *is* making the darkness conscious. The waters are dark, cold, terri
 **Grief and Loss Literature:**
 - Kübler-Ross, Elisabeth. *On Death and Dying* (1969). Scribner. (Stages of grief as Dissolution process)
 
-**Vibology Synthesis Note:**
+#### Vibology Synthesis Note
 Cross-system correspondences (Moon/Neptune astrology, Hanged Man/Moon Tarot, Gate 55 HD, Gabriel angelology) represent Vibology's integration of verified alchemical Dissolution patterns across seven-pillar framework.
 
 ---

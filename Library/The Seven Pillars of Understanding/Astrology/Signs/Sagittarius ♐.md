@@ -185,7 +185,7 @@ In traditional medical astrology, Sagittarius governs[^6]:
 
 The Sagittarius shadow is **the false prophet**—the one who preaches truth they have not lived, the wanderer who flees intimacy, the optimist who uses positivity to bypass grief.
 
-**Shadow expressions:**
+#### Shadow expressions
 - **Dogmatism:** The belief that my truth is *the* truth, the refusal to listen, ideological rigidity.
 - **Spiritual Bypassing:** Using optimism, faith, or philosophy to avoid difficult emotions or hard truths.
 - **Restlessness:** The inability to commit, the flight from depth, the wanderer who never arrives.

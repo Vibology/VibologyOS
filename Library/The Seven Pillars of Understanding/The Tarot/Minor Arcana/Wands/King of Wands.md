@@ -13,6 +13,7 @@ element_primary: Fire
 element_secondary: Fire
 title: King of the Flame and the Lightning, Lord of the Flame and the Lightning
 ---
+# King of Wands
 *King of the Flame and the Lightning, Lord of the Flame and the Lightning*
 
 ---
@@ -72,7 +73,7 @@ The King of Wands as a **Process** or **Energy**: Visionary leadership in action
 
 **Keywords**: Visionary leadership, creative mastery, sovereign command, transformative action, strategic vision, decisive authority, empire-building, the forge, the sun, relentless execution, honest nobility, fierce justice, initiation and transformation, the Father principle, creative will made manifest.
 
-**Reversed (per Waite):**
+#### Reversed (per Waite)
 
 "Good, but severe; austere, yet tolerant." The reversed King retains his essential goodness but his fire becomes *harsh*, *rigid*, or *exhausted*. The reversed King can signify:
 

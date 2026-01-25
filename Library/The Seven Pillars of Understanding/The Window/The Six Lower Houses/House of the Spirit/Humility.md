@@ -86,18 +86,18 @@ In sacred traditions, this is the realized being whose will has merged with cosm
 ---
 
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 Humility signals that **direction comes through receptivity to divine will**. You are being called to cease forcing purpose, to receive your sacred orientation through humble listening rather than ego assertion. This is not a time for manufacturing direction; it is a time for **surrendering into alignment**. The card affirms: your soul knows the way. Receive it humbly.
 
 The appearance of Humility also suggests that **the Higher Self is available for consultation**. Gate 2's receptive channel is opening—divine guidance is accessible to those who listen. The question is whether you will humble yourself enough to receive what is offered.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware the trap of **dislocation through pride**—refusing to receive divine direction, manufacturing purpose through ego, consciousness severed from sacred orientation. Shadow also warns against **false self-reliance**—the belief that you must figure it out alone, that receiving is weakness. Check whether your independence serves soul health or merely disguises refusal to surrender. Are you oriented or dislocated?
 
-**Gift Aspect:**
+#### Gift Aspect
 The way through is **orientation through receptive trust**. Stop forcing. Listen. Allow the Higher Self to reveal your direction rather than inventing it through will. Humility flowers when you trust that receiving is not weakness but the very mechanism of alignment. The gift is **knowing your path because you've stopped demanding to know**—direction emerging from surrender.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 In its highest expression, Humility becomes **Unity**—consciousness merged with divine will, soul recognizing it was never separate from the Higher Self it sought to receive. Those who touch this frequency discover that the direction they sought and the seeker who sought it were always one. They become demonstrations that **receptivity is the path to union**.
 
 ---

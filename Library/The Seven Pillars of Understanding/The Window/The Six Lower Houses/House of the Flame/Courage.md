@@ -86,18 +86,18 @@ In sacred traditions, this is the spiritual warrior whose bravery serves dharma 
 ---
 
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 Courage signals that **the moment for decisive action has arrived**. You are being called to bite through the obstacle, remove the interference, enforce the boundary that survival requires. This is not a time for hesitation or moral equivocation; it is a time for **justified force in service to vitality**. The question is: **can you act decisively without becoming tyrannical? Can you control without being controlled by control itself?**
 
 The appearance of Courage also suggests that **authority is available through demonstrated willingness to act**. Gate 21's willpower is activating—circumstances support decisive intervention, the tribe needs someone to bite through what interferes. The question is whether you will act with justified authority or collapse into dominating control.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware the trap of **control for control's sake**—exercising power to dominate rather than protect, enforcing boundaries to feed ego rather than serve necessity. The shadow manifests as tyranny disguised as leadership, violence disguised as courage, dominance disguised as authority. Check whether your action serves collective survival or personal gratification. Shadow also warns against **paralysis through fear of becoming tyrant**: so afraid of controlling that you fail to act when action is genuinely required.
 
-**Gift Aspect:**
+#### Gift Aspect
 When Courage expresses its gift, you embody **authority that others recognize as legitimate because it serves their survival**. Your willpower is trusted because it has proven itself in service to the collective. This is the gift of **righteous enforcement**: when you say "this must stop" or "this must happen," the tribe listens—not from fear but from recognition that your control serves life. Your decisive action empowers rather than terrorizes.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 In its highest expression, Courage becomes **Valour**—ego-transcendent action in service to what must be. You embody the spiritual warrior whose every act of enforcement serves life's continuation, whose courage is not personal bravery but alignment with necessity itself. Those who touch this frequency become **instruments of cosmic justice, whose biting through obstacles serves the divine order rather than human agenda**.
 
 ---

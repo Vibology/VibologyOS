@@ -159,7 +159,7 @@ The motif manifests through distinct archetypal patterns:
 
 The Wicked Stepmother is the **personified Separatio**—the alchemical operation that divides, severs, discriminates. In *The Emerald Tablet*, Hermes instructs: *"Separate the earth from the fire, the subtle from the gross, gently and with great ingenuity."* The Stepmother performs this operation **with great violence**, not gentleness—because the psyche, especially in childhood, does not separate gently from the mother.
 
-**Alchemical Parallel:**
+#### Alchemical Parallel
 - **Calcination** (fire) burns away the false self → The Stepmother's cruelty burns away the child's innocence
 - **Dissolution** (water) floods the ego with emotion → The child weeps, grieves, rages
 - **Separation** (air/sword) severs the umbilical cord → The Stepmother **expels, abandons, degrades**—forcing the child out of the maternal matrix
@@ -250,13 +250,13 @@ The Wicked Stepmother's **final gift** is this: **she forces the ego to stop wai
 
 **The Wicked Stepmother as:** The Envious Rival, The One Who Cannot Yield
 
-**The Dynamic:**
+#### The Dynamic
 - The Queen's identity is fused with being "fairest"—when the mirror announces Snow White's surpassing beauty, the Queen's **ontological foundation collapses**
 - She cannot celebrate Snow White's blossoming; she experiences it as **existential threat**
 - The Queen's three murder attempts escalate: constriction (the bodice), poisoned thought (the comb), false knowledge (the apple)
 - Snow White must "die" (the glass coffin) and be reborn (awakening) to escape the Queen's spell
 
-**Psychological Meaning:**
+#### Psychological Meaning
 - **Mother-daughter rivalry** at the threshold of the daughter's sexual maturation
 - The mother's **senescent consciousness** (aging, clinging to youth) vs. the daughter's **emergent vitality**
 - The Queen represents the **internalized voice** that says: *"Do not be more beautiful/talented/successful than me, or I will destroy you"*
@@ -271,13 +271,13 @@ The Wicked Stepmother's **final gift** is this: **she forces the ego to stop wai
 
 **The Wicked Stepmother as:** The Enslaver, The Favorer of False Siblings
 
-**The Dynamic:**
+#### The Dynamic
 - Cinderella is **reduced to servitude**, forced to sleep in ashes, denied the ball (denied participation in life)
 - The Stepmother elevates the **false siblings** (vain, cruel stepsisters) while degrading the **true daughter** (kind, industrious Cinderella)
 - The Stepmother's cruelty is systemic: she creates a **household hierarchy** where Cinderella is **less than human**
 - The Fairy Godmother (Good Mother) intervenes to restore Cinderella's radiance, but **Cinderella herself must act** (go to the ball, leave the slipper)
 
-**Psychological Meaning:**
+#### Psychological Meaning
 - The Stepmother represents the **negative mother complex** that tells the child: *"You are worthless. You exist to serve others."*
 - The ashes are the **Nigredo** (alchemical blackening)—the degradation that precedes resurrection
 - The sorting task (lentils from ashes) is the **Separatio**—learning to distinguish the valuable from the worthless, the authentic self from the false self
@@ -293,13 +293,13 @@ The Wicked Stepmother's **final gift** is this: **she forces the ego to stop wai
 
 **The Wicked Stepmother as:** The Abandoner (Stepmother), The Devourer (Witch)
 
-**The Dynamic:**
+#### The Dynamic
 - The Stepmother convinces the father to **abandon the children in the forest** due to scarcity (there is not enough food)
 - The children are expelled from home—the **parental shield is withdrawn**
 - They encounter the **gingerbread house** (false mother, oral paradise) and the **witch** (devouring mother who fattens them to eat them)
 - The Stepmother and the Witch **die simultaneously** (suggesting they are psychically the same)
 
-**Psychological Meaning:**
+#### Psychological Meaning
 - The Stepmother is the mother who **cannot nourish** (literal starvation as metaphor for emotional neglect)
 - The forest is the **unconscious**—the children are thrust into psychic wilderness without protection
 - The witch is the **regressive pull** back to infantile dependency (the candy house, the cage)
@@ -315,13 +315,13 @@ The Wicked Stepmother's **final gift** is this: **she forces the ego to stop wai
 
 **The Wicked Stepmother as:** The Imprisoner, The Emotional Vampire
 
-**The Dynamic:**
+#### The Dynamic
 - Mother Gothel **imprisons Rapunzel in a tower** to keep her eternally young and dependent
 - The tower has no door—Gothel climbs Rapunzel's **golden hair** (the umbilical cord that never was cut)
 - Gothel disguises **possession as protection**: *"Mother knows best. The world is dangerous. Stay with me."*
 - When Rapunzel is discovered with the Prince (the masculine principle), Gothel **cuts Rapunzel's hair and exiles her** to the wasteland
 
-**Psychological Meaning:**
+#### Psychological Meaning
 - Mother Gothel is the **enmeshed mother** who cannot allow separation
 - The tower is the **mother-complex as prison**—what begins as safety becomes suffocation
 - Rapunzel's hair is **her vitality**, which Gothel vampirically climbs (feeds on)
@@ -520,7 +520,7 @@ Von Franz, in *The Interpretation of Fairy Tales* and *Shadow and Evil in Fairy 
 
 5. **The Stepmother must be "defeated," not integrated** – Unlike the Shadow (which must be integrated), the Stepmother's voice must be **rejected**. Von Franz: *"You do not integrate the voice that says 'You should not exist.' You silence it."*
 
-**Practical Application:**
+#### Practical Application
 - When the Inner Stepmother speaks (*"You are worthless. You will fail."*), do not **argue** with her (this gives her power)
 - Instead, **name her**: *"This is the Stepmother. She does not speak truth."*
 - **Redirect energy**: Instead of defending against her attacks, turn toward the **Fairy Godmother** (the supportive inner voice)
@@ -541,7 +541,7 @@ Estés, in *Women Who Run With the Wolves*, identifies the Wicked Stepmother as 
 
 5. **Envy is a signal, not a sin** – When the Inner Stepmother is envious, she is revealing: *"This is what I wanted but never dared claim."* The envy **points to unlived gold**.
 
-**Practical Application:**
+#### Practical Application
 - **Creative work as resistance** – Every act of creativity is an act of defiance against the Inner Stepmother
 - **Feed the Wild Woman, not the Stepmother** – Nourish the authentic Self (rest, play, art, wildness), starve the false self (perfectionism, overwork, self-denial)
 - **Allies, not rescuers** – Like Cinderella's birds or Fairy Godmother, seek **allies** who support the Wild Woman, not rescuers who replicate dependency
@@ -609,7 +609,7 @@ The Wicked Stepmother appears at specific stages of the alchemical process:
 
 ### The Moon (Key XVIII): Illusion and the Deceptive Mother
 
-**Symbolism:**
+#### Symbolism
 - The Moon governs **illusion, deception, and the unconscious**
 - The two towers represent the **threshold** between the conscious and unconscious worlds
 - The **wolf and dog** howl at the Moon—instinct and tamed nature both respond to her call
@@ -660,7 +660,7 @@ While the Wicked Stepmother is most prominent in Western European fairy tales, c
 - She is closer to the **Terrible Mother** (Kali, Ereshkigal) than the Wicked Stepmother
 - She is the **death-rebirth force**, not the **separation-expulsion force**
 
-**Psychological Function:**
+#### Psychological Function
 - Baba Yaga tests the ego's **readiness** for transformation
 - The child who approaches her must be **humble, obedient, and resourceful**—she destroys the arrogant ego
 - She is the **initiatory ordeal**, not the personal rejection
@@ -677,7 +677,7 @@ While the Wicked Stepmother is most prominent in Western European fairy tales, c
 - She is the **necessary destruction** that precedes creation
 - She is worshipped as **mother**, even in her terrifying aspect
 
-**Psychological Function:**
+#### Psychological Function
 - Kali is the **death of the ego** that must occur for the Self to emerge
 - She is not the voice that says *"You should not exist"* (Stepmother) but the force that says *"You must die to the false self"*
 - She is the **alchemical Nigredo**, the dark night that precedes illumination
@@ -750,7 +750,7 @@ If you answered "yes" to multiple questions, the **Inner Stepmother is active**.
 
 ### Practice 2: Naming the Voice in Real-Time
 
-**The Practice:**
+#### The Practice
 1. When the Inner Stepmother speaks (*"You are not talented. This is garbage."*), **pause**.
 2. **Name her aloud:** *"This is the Stepmother. This is not my truth."*
 3. **Redirect to the Good Mother:** *"What would a supportive mother say right now?"*
@@ -779,7 +779,7 @@ If you answered "yes" to multiple questions, the **Inner Stepmother is active**.
 
 ### Practice 5: Reclaiming Envy as Signal
 
-**The Practice:**
+#### The Practice
 1. **When you feel envious**, do not shame yourself. Ask:
    - *"What does this person have that I want?"*
    - *"What part of me is unlived here?"*
@@ -790,7 +790,7 @@ If you answered "yes" to multiple questions, the **Inner Stepmother is active**.
 
 ### Practice 6: Reparenting the Inner Child
 
-**The Practice:**
+#### The Practice
 1. **Identify the wounded child-self** – The part that was rejected, shamed, or expelled
 2. **Speak to that child as the Good Mother would:**
    - *"You are worthy of love."*
@@ -802,7 +802,7 @@ If you answered "yes" to multiple questions, the **Inner Stepmother is active**.
 ---
 
 ## Cross-References
-**Archetypal Figures:**
+#### Archetypal Figures
 [[The Shadow]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] • [[The Terrible Mother]] • [[The Muse]] • [[The Idol]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] • [[The Alchemist]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Hero]] • [[The Wise Old Man]] • [[The Nightmare]] • [[The Changeling]]
 
 **Jungian Concepts:**
@@ -811,7 +811,7 @@ If you answered "yes" to multiple questions, the **Inner Stepmother is active**.
 **Fairy Tales:**
 [[Snow White]] • [[Cinderella]] • [[Hansel and Gretel]] • [[Rapunzel]] • [[Sleeping Beauty]] • [[The Juniper Tree]] • [[Mother Holle]] • [[Beauty and the Beast]] • [[The Goose Girl]] • [[Rumpelstiltskin]]
 
-**Alchemical Stages:**
+#### Alchemical Stages
 [[Separation]] • [[Calcination]] • [[Dissolution]] • [[Nigredo]] • [[Albedo]] • [[Rubedo]] • [[Solve et Coagula]] • [[Coagulation]]
 
 **Tarot Keys:**
@@ -826,7 +826,7 @@ If you answered "yes" to multiple questions, the **Inner Stepmother is active**.
 **Mythology & Folklore:**
 [[Greek Mythology]] • [[Norse Mythology]] • [[Slavic Mythology]] • [[Hindu Mythology]] • [[Baba Yaga]] • [[Kali]] • [[Ereshkigal]] • [[Persephone and Demeter]] • [[Inanna's Descent]]
 
-**Individuation Process:**
+#### Individuation Process
 [[Ego Formation and Childhood]] • [[Persona Development]] • [[Confrontation with Shadow]] • [[Encounter with Anima-Animus]] • [[Confrontation with the Self]] • [[Integration and Wholeness]]
 
 **Hero's Journey:**

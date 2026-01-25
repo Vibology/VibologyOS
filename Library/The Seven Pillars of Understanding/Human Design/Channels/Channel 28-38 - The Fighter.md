@@ -126,7 +126,7 @@ The **Knowing Circuit** within the Individual stream is composed of channels tha
 **The Role of Channel 28-38:**
 This channel provides the **stubbornness and courage** required for the Individual to **maintain their integrity** despite collective pressure to conform. This is the fighter who will not surrender their uniqueness, even when it means alienation or struggle.
 
-**Why This Channel is Projected:**
+#### Why This Channel is Projected
 
 Even though Gate 38 is in the Root (a pressure/motor center) and Gate 28 is in the Spleen (an awareness center), **neither connects to the Throat**. Therefore, this channel cannot manifest directly—it requires **recognition and invitation** to express its fighting spirit effectively.
 

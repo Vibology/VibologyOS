@@ -9,6 +9,7 @@ verified: true
 verification_date: 2026-01-25
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
+# Incarnation Crosses
 *The Architecture of Life Purpose*
 
 ## What is an Incarnation Cross?

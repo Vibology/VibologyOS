@@ -86,18 +86,18 @@ In sacred traditions, this is the realized craftsperson whose work is indistingu
 ---
 
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 Ambition signals that **mastery is available through dedicated practice**. You are being called to commit to repetition, to trust that excellence emerges not from talent but from persistent physical practice. This is not a time for shortcuts or intellectual understanding; it is a time for **embodied dedication to craft**. The question is: **what skill requires your devoted practice? What mastery awaits your committed repetition?**
 
 The appearance of Ambition also suggests that **enthusiasm will sustain you through the work**. Gate 16's joyful energy is activating—circumstances support dedicated practice, the ground is prepared for mastery. The question is whether you will channel enthusiasm into repetition or scatter it across unfocused dabbling.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware the trap of **indifference disguised as spiritual detachment**—avoiding practice under the belief that mastery should emerge naturally, that effort is somehow unenlightened. The shadow manifests as half-hearted engagement: starting but not finishing, dabbling without committing, expecting skill without dedication. Check whether your resistance to repetition serves higher wisdom or merely protects ego from the vulnerability of being a beginner. Shadow also warns against **scattered enthusiasm**: energy distributed across too many pursuits to master any.
 
-**Gift Aspect:**
+#### Gift Aspect
 When Ambition expresses its gift, you embody **versatility through practice**—the capacity to develop competence across multiple physical domains through patient repetition. This is the gift of **grounded dedication**: you practice not because you must achieve, but because practice itself is the relationship with mastery. Your commitment to craft inspires others through demonstration rather than teaching.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 In its highest expression, Ambition becomes **Mastery**—skill so refined that technique disappears and only beauty remains, practice so deep that ego dissolves into craft. You embody the realization that **practice is prayer, repetition is meditation, dedication is devotion**. Those who touch this frequency serve excellence rather than achievement, and their work elevates simply by existing, because it emerges from total dedication to the sacred act of repetitive refinement.
 
 ---

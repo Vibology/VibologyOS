@@ -11,6 +11,7 @@ verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
+# 16 - The Tower
 *The Lord of the Hosts of the Mighty / The House of God*
 
 ---

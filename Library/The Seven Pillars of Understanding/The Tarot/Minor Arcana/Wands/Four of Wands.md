@@ -15,6 +15,7 @@ planetary: Venus in Aries
 decan: Aries 20°-30° (3rd Decan)
 title: Lord of Perfected Work
 ---
+# Four of Wands
 *The Lord of Perfected Work*
 
 ---
@@ -324,7 +325,7 @@ The Three of Wands is active waiting—ships at sea, the venture underway but no
 **Following Card: [[Five of Wands]]**
 The Five of Wands is conflict, competition, and the disruption of harmony. If the Four is the stable structure, the Five is the challenge to that structure. The wedding is over; the marriage begins (and with it, disagreement). The Four is sabbath; the Five is the return to striving. The Four taught you to rest; the Five will teach you to fight for what you've built.
 
-**Corresponding Cards in Other Suits:**
+#### Corresponding Cards in Other Suits
 - **[[Four of Cups]]** (Water): Emotional withdrawal, dissatisfaction despite abundance. Where Cups refuses the gift, Wands celebrates it.
 - **[[Four of Swords]]** (Air): Rest after battle, meditation, recovery. Both Fours emphasize rest, but Swords rests in solitude, Wands in community.
 - **[[Four of Pentacles]]** (Earth): Hoarding, material security, holding tight. Where Pentacles clings, Wands shares.

@@ -16,6 +16,7 @@ planetary: Moon in Taurus
 decan: Second decan of Taurus (10°-20°)
 title: Lord of Material Success
 ---
+# Six of Pentacles
 
 *Moon in Taurus - The second decan of Taurus*
 

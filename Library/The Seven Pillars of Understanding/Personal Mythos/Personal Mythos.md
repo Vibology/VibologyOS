@@ -12,6 +12,7 @@ grimoire_source: "Jung CW (7, 9i, 9ii, 11, 12, 14, 16), Campbell Hero's Journey,
 verification_notes: "Capstone synthesis of Personal Mythos pillar framework. All primary sources verified: Jung archetypal psychology (CW), Campbell monomyth, von Franz/Bettelheim/Grimm fairy tales, Edinger alchemical psychology, Erikson developmental stages, world mythology sources. Seven-Pillar integration (HD/Astrology/Tarot/Window/Angelology/Magdalene Path) marked as Vibology Synthesis. Comprehensive References section with full bibliographic details."
 entry_type: capstone-synthesis
 ---
+# Personal Mythos
 *Living Your Unique Expression of Eternal Patterns*
 
 ---
@@ -537,7 +538,7 @@ Your Personal Mythos is **not static**—it evolves as you age, integrate, and d
 
 **The Child's mythos is written BY the family** (parents, siblings, culture). You do not choose your origin story—it chooses you. But the wound and the gift planted in childhood become **the seed of the adult mythos**.
 
-**Examples:**
+#### Examples
 - Child who is "too sensitive" → Adult mythos of the wounded healer who feels what others deny
 - Child who is abandoned → Adult mythos of the hero who must find their own way without guides
 - Child who is golden child/scapegoat → Adult mythos of the shadow worker who integrates split light/dark
@@ -863,5 +864,5 @@ That answer—moment by moment, choice by choice, crisis by crisis, integration 
 - Norse *Poetic Edda* and *Prose Edda*. (Norse mythology, Odin's sacrifice)
 - *Nibelungenlied*. (Germanic hero saga)
 
-**Vibology Synthesis Note:**
+#### Vibology Synthesis Note
 The specific integration of Personal Mythos with Human Design, Astrology, Tarot, The Window, Angelology, and The Magdalene Path (Seven-Pillar framework) is original Vibology synthesis work, combining verified primary sources into a unified navigational system for personal psychological and spiritual development.

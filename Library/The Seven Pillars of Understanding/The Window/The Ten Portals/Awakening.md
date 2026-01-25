@@ -11,6 +11,7 @@ gate: 23
 hexagram: 23 (Splitting Apart)
 gene_keys: Complexity → Simplicity → Quintessence
 ---
+# Awakening
 *Splitting Apart - The Shock of New Consciousness*
 
 ---
@@ -63,16 +64,16 @@ Complexity → Simplicity → Quintessence
 
 ---
 ## Oracle Reading
-**When this portal appears:**
+#### When this portal appears
 You are experiencing awakening. Something you have been assimilating—insight, truth, understanding—has reached **critical mass**. Complexity is splitting apart. What remains is simple, clear, and demands to be spoken. The question is: can you articulate what you know, even if it fractures consensus? Can you trust that your individual voice, however mutative, carries truth worth expressing? Awakening calls: **speak your knowing**—the old world must split apart so new understanding can emerge.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware complexity disguised as wisdom—assimilation that never completes, knowing that hides behind elaborate explanation, insight so nuanced it cannot be communicated. The shadow fears simplicity, mistakes it for simplistic, avoids the vulnerability of clear expression. Beware also premature expression: speaking before assimilation is complete, fracturing consensus with half-digested insight. True awakening requires **full metabolization**—wait until complexity has fallen away and only essence remains.
 
-**Gift Aspect:**
+#### Gift Aspect
 Your knowing has been fully assimilated. What you see is **simple, clear, undeniable**. Now speak: the thyroid has metabolized this insight, the voice is ready, the timing is correct. You are the mutant who sees differently, the individual whose knowing does not conform. Awakening as gift recognizes: **fracturing consensus is not violence but necessity**—old structures must split apart for new consciousness to breathe.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 You embody Quintessence—the recognition that all complexity distills to irreducible essence, that all individual knowing reveals the same fundamental truth. You are the mountain crumbling to bedrock, the surface peeling to reveal core, the voice that articulates what cannot be simplified further. Awakening as cosmic principle: **the many become one, the complex becomes simple, and simple truth shatters worlds**.
 
 ---

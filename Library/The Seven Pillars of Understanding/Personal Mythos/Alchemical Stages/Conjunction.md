@@ -168,7 +168,7 @@ Conjunction is unmistakable when it is authentic. It feels like **synthesis**, n
 - **The Beloved Within:** Recognizing your [[Anima]] or [[Animus]] as an internal figure—a guide, muse, or inner partner—rather than only projecting them onto external lovers.
 - **Reconciliation:** Long-standing conflicts (internal or external) suddenly find resolution. The warring parts of the psyche make peace.
 
-**In Dreams:**
+#### In Dreams
 - Weddings, marriage ceremonies, sacred unions
 - Sexual union with an unknown, archetypal figure (not a literal person)
 - Two rivers merging into one
@@ -305,7 +305,7 @@ Jung warned against premature or false coniunctio:
 
 **Plot Summary:** A merchant's daughter (Beauty) agrees to live with a Beast in exchange for her father's life. The Beast is kind but monstrous. Over time, Beauty sees past his exterior and learns to love him. When she declares her love, the Beast transforms into a handsome prince—he was under a curse that could only be broken by true love.
 
-**Alchemical Reading:**
+#### Alchemical Reading
 - **Beauty as Consciousness (Spirit):** She represents the refined, civilized, conscious function—logos, culture, beauty in the aesthetic sense.
 - **Beast as Unconscious (Instinct):** He represents the rejected, shadow masculine—instinct, body, animal nature. He is the unlived, repressed Animus.
 - **The Curse:** The separation of spirit and matter, soul and body. The prince (integrated self) has been split into Beauty (pure spirit) and Beast (pure matter).
@@ -319,7 +319,7 @@ Jung warned against premature or false coniunctio:
 
 **Plot Summary:** A princess loses her golden ball in a well. A frog retrieves it in exchange for her promise that he can eat from her plate, drink from her cup, and sleep in her bed. She reluctantly agrees but is disgusted by the frog. Her father the king forces her to keep her promise. When the frog enters her bed, she hurls him against the wall in rage—and he transforms into a prince.
 
-**Alchemical Reading:**
+#### Alchemical Reading
 - **The Golden Ball:** Symbol of the Self, wholeness, the treasure of childhood innocence. The princess has lost it (ego development requires loss of original wholeness).
 - **The Frog:** The rejected, instinctual, earthy masculine. He lives in the well (the unconscious depths). He is slimy, cold-blooded, ugly—everything the princess's ego finds repulsive.
 - **The Promise:** The conscious ego (princess) must make a *commitment* to the unconscious figure (frog). This is the alchemical vow—the willingness to engage.
@@ -555,7 +555,7 @@ Common dream motifs:
 - **Coagulation:**
   - [[Coagulation]] is the final fixing of the union. Conjunction initiates the marriage; Coagulation stabilizes it as the Philosopher's Stone.
 
-**Archetypal Constellation:**
+#### Archetypal Constellation
 When Conjunction is active, the following archetypes are often present:
 - **The Anima / The Animus** (the contrasexual other)
 - **The Divine Child** (the fruit of the union)
@@ -590,12 +590,12 @@ When the opposites unite—when the ego surrenders to partnership with the contr
 7. **The Syzygy (Internal Marriage):**
    - The [[Anima]] and [[Animus]] are integrated as an internal pair—your inner council, your creative partnership, your soul and spirit in dialogue. They guide you toward the Self.
 
-**Jung's Teaching:**
+#### Jung's Teaching
 
 > "The meeting with the opposite is at first a collision of conflicting opposites, but it is also the beginning of a partnership. The coniunctio is not a merging or blending, but a conscious relationship between differentiated equals."
 > — C.G. Jung, *Mysterium Coniunctionis* (CW 14)
 
-**The Gift:**
+#### The Gift
 *The soul that has completed coniunctio is no longer fragmented. Opposites have become partners, not enemies. What emerges is not uniformity but dynamic unity—the dance of Sol and Luna, King and Queen, in perpetual, creative, fertile union.*
 
 ---
@@ -658,7 +658,7 @@ When the opposites unite—when the ego surrenders to partnership with the contr
 
 ---
 
-**Final Word:**
+#### Final Word
 
 *Conjunction is the sacred marriage—the reconciliation of all that has been split. It is not fusion, where boundaries dissolve into unconscious unity, but conscious partnership, where differentiated opposites choose union and produce the third thing: the divine child, the Philosopher's Stone, the integrated Self. To refuse coniunctio is to remain fragmented, half a person seeking completion in projection and demand. To embrace it is to become whole—not by absorbing the other, but by dancing with them, Sun and Moon in perpetual eclipse, King and Queen enthroned side by side, the alchemical marriage consummated in the heart of the psyche.*
 
@@ -693,7 +693,7 @@ When the opposites unite—when the ego surrenders to partnership with the contr
 - Gnostic: Bridal Chamber sacrament, *Gospel of Philip*
 - Kabbalah: Shekinah and YHVH reunion, Tiferet and Malkuth marriage
 
-**Vibology Synthesis Note:**
+#### Vibology Synthesis Note
 Cross-system correspondences (Venus/Mars conjunction astrology, Lovers/Temperance Tarot, Gate 59 HD, various angelic pairs) represent Vibology's integration of verified alchemical Conjunction patterns across seven-pillar framework.
 
 ---

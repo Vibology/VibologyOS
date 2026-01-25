@@ -122,7 +122,7 @@ Because the Tribal Ego Circuit is designed to **ensure material support and reso
 
 Gate 19 forms **Channel 19-49: Synthesis (The Channel of Sensitivity)** when connected to Gate 49 in the Solar Plexus Center.
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 
 - **Gate 19 (Root):** "I feel pressure to approach others with sensitivity to their needs and to be needed in return."
 - **Gate 49 (Solar Plexus):** "I have emotional clarity about which relationships are correct, which needs are mine to meet."
@@ -132,7 +132,7 @@ When this channel is defined, the individual has **consistent access to sensitiv
 
 **Without the channel defined** (only Gate 19 activated), the individual experiences pressure to approach but may lack emotional clarity about *which* needs to meet. They need another person with Gate 49 to complete the electromagnetic circuit—someone who can provide emotional discernment about relationships.
 
-**Interpersonal Electromagnetic Dynamics:**
+#### Interpersonal Electromagnetic Dynamics
 
 - **Both have Channel 19-49:** Potential mutual caretaking or conflict over whose needs are being met. Can be profoundly nurturing if both honor balance.
 - **One has Gate 19, other has Gate 49:** The Gate 19 person provides pressured approach; the Gate 49 person provides emotional clarity. This can create balanced partnership—action and discernment.
@@ -142,7 +142,7 @@ When this channel is defined, the individual has **consistent access to sensitiv
 
 Gate 19 is located in the **Root Center**, which corresponds biologically to the **adrenal glands**—the stress response system that produces adrenaline and cortisol in response to pressure.
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 19 defined may experience:
 - A **somatic pressure to approach**—the body feels restless, driven to reach out, to offer support, to be needed
@@ -150,7 +150,7 @@ Individuals with Gate 19 defined may experience:
 - A felt sense of **hypervigilance to needs**—constantly scanning the environment for who requires support
 - **Exhaustion** when approach is not balanced with withdrawal—adrenal depletion from constant giving
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Root Center radiates **pressure and stress** into the aura. When Gate 19 is active, the aura carries a frequency that says: "I am here to sense your needs and approach with support. I need to be needed." Others may feel this as **nurturing**, **attentive**, or (if the individual is in Not-Self) **intrusive** or **co-dependent**.
 
@@ -188,7 +188,7 @@ The pressure to approach is inconsistent (activated only by transits or others).
 - **Manipulation Through Needs:** Using sensitivity to needs to control others, creating dependence to ensure one's own security.
 - **Resentful Giving:** Approaching out of pressure or obligation rather than genuine sensitivity, breeding bitterness.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Frustration from approaching without Sacral response (for Generators/MGs)
 - Bitterness from offering support without invitation (for Projectors)
@@ -216,7 +216,7 @@ The **7-year deconditioning cycle** for Gate 19 involves learning to recognize w
 
 **Year 7:** Integration phase—approach becomes aligned with Strategy and Authority. The individual approaches from **sensitivity** (Gene Keys Gift) rather than co-dependence. Support is offered when correct, and withdrawal is honored without guilt.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice where the impulse to approach arises in the body. Is it the root (adrenal pressure)? The solar plexus (emotional need)? The gut (Sacral response)?
 - Practice **discerning whose needs are yours to meet**—not all needs require your approach. Allow others their own process.
@@ -262,14 +262,14 @@ In Jungian terms, Gate 19 corresponds to the **Caretaker Archetype** and the dri
 
 The Caretaker archetype seeks to meet needs, to approach those who suffer, to ensure that all beings are supported. This is the mother, the nurse, the tribal elder who recognizes interdependence as sacred.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 19** manifests as:
 - **The Martyr:** Using caretaking to create obligation, approaching with resentment disguised as love.
 - **The Co-dependent:** Losing self in service to others, needing to be needed to feel whole.
 - **The Intruder:** Approaching without invitation, forcing support on others who have not asked for it.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 19, individuation requires:
 1. **Balance of Giving and Receiving:** Recognizing that approach is exchange, not one-sided sacrifice—that being needed and needing are both valid.
@@ -282,7 +282,7 @@ When integrated, Gate 19 becomes the expression of **sacred sensitivity**—the 
 
 When the individual with Gate 19 operates according to their Strategy and Authority, the gift that emerges is **Sensitivity** (Gene Keys) and **Correct Tribal Support** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Approach flows naturally from correct response (for Generators/MGs) or invitation (for Projectors), creating sustainable support rather than depletion.
 - The individual recognizes which needs are theirs to meet and which are not, honoring emotional clarity (especially if Gate 49 is defined).
@@ -298,7 +298,7 @@ The Signature of the Root Center varies by Type, but for Gate 19 specifically, t
 - **Satisfaction** from meeting needs that align with Sacral response (for Generators/MGs)
 - **Trust** in the tribal exchange, knowing that approaching correctly ensures security
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 19 teaches that **true sensitivity honors interdependence without losing self**. When the individual honors their Strategy and Authority, approaches when correct, and withdraws without guilt, they become a **living example** of tribal support. This is the essence of the Tribal Ego Circuit—to recognize needs and respond with resources in a way that serves both individual and collective survival.
 

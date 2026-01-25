@@ -122,7 +122,7 @@ The **Ego Circuit** within the Tribal stream is composed of channels that connec
 **The Role of Channel 26-44:**
 This channel provides the **strategic intelligence** that allows the tribe to **remember what worked** (Gate 44) and **transmit that memory** (Gate 26) to maintain control and influence. This is how tribal leaders emerge—not through force, but through **persuasive narrative control**.
 
-**Why This Channel is Projected:**
+#### Why This Channel is Projected
 
 Even though Gate 26 is in the Ego (a motor/willpower center) and Gate 44 is in the Spleen (an awareness center), **neither connects to the Throat**. Therefore, this channel cannot manifest directly—it requires **recognition and invitation** to express its transmissive power effectively.
 

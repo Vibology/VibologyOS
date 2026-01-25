@@ -179,7 +179,7 @@ Fermentation feels like rotting from within, followed by unexpected rising:
 - **Symbolic Death Dreams:** Dreams of corpses, graveyards, tombs, or being buried alive, followed by dreams of rising, flying, or rebirth.
 - **Crisis of Faith:** The beliefs that sustained you (religious, psychological, philosophical) crumble. You are in putrefaction. Faith must die to be resurrected as gnosis (direct knowing).
 
-**In Dreams:**
+#### In Dreams
 - Corpses coming to life
 - Rotting food that becomes fertile soil
 - Descending into a tomb or grave and finding treasure
@@ -302,7 +302,7 @@ Fermentation is the operation that frees the spirit from the chains of matter (e
 
 **Plot Summary:** Princess Aurora is cursed by the wicked fairy to prick her finger on a spindle and die on her sixteenth birthday. A good fairy softens the curse: she will not die but sleep for a hundred years. Aurora pricks her finger, falls into a death-like sleep, and is placed in a tower. Thorns grow around the castle. After a hundred years, a prince arrives, kisses her, and she awakens. The kingdom awakens with her.
 
-**Alchemical Reading:**
+#### Alchemical Reading
 - **Putrefactio:** Aurora's sleep is not true death, but a death-like suspension—putrefaction. She is in the tomb (the tower). Her body does not rot, but she is lifeless. The kingdom also sleeps—collective putrefaction.
 - **The Thorns:** The thorns that surround the castle are the protective barrier around the fermentation vessel. Premature awakening would kill her; she must gestate in darkness for the full term (a hundred years = symbolic completion).
 - **Fermentatio:** The prince's arrival (new consciousness, the masculine principle) catalyzes the resurrection. Aurora awakens—not as the child she was, but as the woman she has become. The sleep was gestation; the awakening is birth of spirit.
@@ -314,7 +314,7 @@ Fermentation is the operation that frees the spirit from the chains of matter (e
 
 **Plot Summary:** Snow White, fleeing the jealous queen, finds refuge with the seven dwarfs. The queen, disguised, tricks Snow White into eating a poisoned apple. Snow White "dies" and is placed in a glass coffin. The dwarfs cannot bury her because she looks alive (not rotting). A prince sees her, is moved, and asks to take the coffin. As it is carried, the piece of apple dislodges, and Snow White awakens.
 
-**Alchemical Reading:**
+#### Alchemical Reading
 - **Putrefactio:** Snow White is poisoned (killed) by the [[The Shadow|Shadow Mother]] (the queen). She enters a death-state—not alive, not fully dead. She is in putrefaction, suspended.
 - **The Glass Coffin:** This is the alchemical vessel—*transparent*, allowing the fermentation to be observed but not touched. Snow White is *visible* in her death, unlike most corpses. She is fermenting, not rotting. The glass preserves her in the liminal state.
 - **Fermentatio:** The dislodging of the apple is the release—the blockage (ego's poison, the toxic mother complex) is removed, and Snow White can breathe (spirit returns). She resurrects not as a child but as a woman ready for marriage (integration of masculine and feminine).
@@ -516,7 +516,7 @@ Common dream motifs:
 - **[[Nigredo]] (The Blackening):**
   - Fermentation contains a second Nigredo—the return to blackness (putrefaction). But this is Nigredo at a higher octave. The first Nigredo (Calcination/Dissolution) is the death of the ego. The second Nigredo (Fermentation) is the death of the integrated self, preparing for spiritual resurrection.
 
-**Archetypal Constellation:**
+#### Archetypal Constellation
 When Fermentation is active, the following archetypes are often present:
 - **[[The Hanged Man]]** (Tarot) - Suspended, waiting, fermenting
 - **[[Death]]** (Tarot) - Putrefaction, the necessary ending
@@ -551,14 +551,14 @@ When the individual surrenders to putrefaction—when they lie in the tomb, trus
 7. **The Stone (Lapis Philosophorum):**
    - Fermentation is the penultimate operation. After this comes [[Distillation]] (purification of spirit) and [[Coagulation]] (solidification of the stone). But Fermentation is the *critical* operation—without the death and resurrection, the stone cannot form. The fermented individual is well on the way to becoming the lapis—the perfected Self.
 
-**Jung's Teaching:**
+#### Jung's Teaching
 
 > "The stirring up of the unconscious [Fermentation] brings with it the possibility of psychic infection. This is the occupational risk which the psychotherapist must accept."
 > — C.G. Jung, *Mysterium Coniunctionis* (CW 14)
 
 Fermentation is dangerous. The unconscious, stirred, can overwhelm the ego (psychosis, inflation, possession). But *without* this risk, there is no resurrection. The tomb is both womb and grave. Only those who enter the darkness can be reborn from it.
 
-**The Gift:**
+#### The Gift
 *The soul that has fermented is no longer afraid of death. It has died and risen. It knows the secret: rot is not the end—it is the womb of spirit. The corpse is the seed. The tomb is the garden.*
 
 ---
@@ -635,7 +635,7 @@ Fermentation is dangerous. The unconscious, stirred, can overwhelm the ego (psyc
 
 ---
 
-**Final Word:**
+#### Final Word
 
 *Fermentation is the ordeal of faith. It asks: Can you die again? Can you lie in the tomb, conscious, and trust that resurrection will come? The ego screams, "This is the end!" The Self whispers, "This is the womb." The rot is not failure—it is gestation. The darkness is not abandonment—it is incubation. Spirit does not come from light. It rises from the fertile soil of putrefaction.*
 
@@ -672,7 +672,7 @@ Fermentation is dangerous. The unconscious, stirred, can overwhelm the ego (psyc
 - St. John of the Cross. *Dark Night of the Soul* (16th century). (Spiritual dryness, divine absence as Fermentation)
 - St. Teresa of Avila. *Interior Castle* (1577). (Spiritual desolation, waiting in darkness)
 
-**Vibology Synthesis Note:**
+#### Vibology Synthesis Note
 Cross-system correspondences (Pluto/Saturn transits, Hanged Man/Death Tarot, Gate 29/47 HD, various angelology) represent Vibology's integration of verified alchemical Fermentation patterns across seven-pillar framework.
 
 ---

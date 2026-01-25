@@ -210,7 +210,7 @@ The Rubedo is unmistakable—but not dramatic. It feels like *rightness*:
 - **Presence:** You are *here*—embodied, grounded, present. Not dissociated, not spiritually bypassing, not transcendent. *Here*.
 - **Wisdom Without Inflation:** You know what you know, but you do not claim to be "enlightened" or "special." Humility and wisdom coexist.
 
-**In Dreams:**
+#### In Dreams
 - Marriage ceremonies or weddings
 - Crowning or being enthroned
 - Red objects: roses, rubies, red sun, red wine, blood (as life, not death)
@@ -354,7 +354,7 @@ The Rubedo is wisdom *embodied* in the world. The individuated person does not r
 
 **Plot Summary:** Beauty lives with the Beast in his enchanted castle (Nigredo/Albedo). She learns to see past his appearance and love him for his soul (Citrinitas). At the moment of his death, she declares her love, and he transforms into a prince (Rubedo). They marry, and the kingdom is restored.
 
-**Alchemical Reading:**
+#### Alchemical Reading
 - **The Beast:** The shadow, the unloved, the rejected. Beauty must live with him (Nigredo), come to know him (Albedo), and finally love him (Citrinitas).
 - **The Transformation:** At the moment of love, the Beast transforms into the prince. This is the Rubedo—the shadow integrated becomes the beloved.
 - **The Marriage:** The union of Beauty (feminine, soul) and Beast/Prince (masculine, spirit). The Rubedo is the sacred marriage—the union of opposites in wholeness.
@@ -367,7 +367,7 @@ The feminine (Beauty) integrates the shadow/animus (Beast). The marriage is the 
 
 **Plot Summary:** A princess loses her golden ball in a well. A frog retrieves it, demanding she keep her promise to let him eat from her plate and sleep in her bed. Repulsed, she eventually throws him against the wall (or kisses him), and he transforms into a prince. They marry.
 
-**Alchemical Reading:**
+#### Alchemical Reading
 - **The Frog:** The rejected, repulsive aspect—the shadow animus. He is green (prima materia), wet (unconscious), and ugly (unloved).
 - **The Demand:** The frog insists on intimacy—eating from her plate (nourishment), sleeping in her bed (union). He demands to be integrated.
 - **The Violence/Kiss:** Throwing him against the wall (Nigredo violence) or kissing him (Albedo love) breaks the spell. The transformation is sudden—the shadow integrated becomes the beloved.
@@ -415,7 +415,7 @@ In Campbell's monomyth, the **Rubedo corresponds to the final stages**:
 4. **Return with the Elixir (Stage 12):**
    - **The ultimate Rubedo.** The hero returns to the ordinary world and *lives* the wisdom. They serve the community—as teacher, healer, elder. The elixir is shared—wisdom embodied, not hoarded. The hero does not retreat into mysticism—they *live* the myth in the world.
 
-**Examples:**
+#### Examples
 - **Odysseus Returns to Ithaca:** After 20 years of trials (Nigredo/Albedo), Odysseus returns home (Rubedo). He reclaims his kingdom, his wife, and his identity—wisdom embodied in sovereignty.
 - **Buddha Returns to the World:** After enlightenment under the Bodhi tree (Citrinitas), the Buddha returns to the world (Rubedo) and teaches for 45 years. The Rubedo is the teaching—compassion made flesh.
 - **Christ Resurrected Appears to Disciples:** After resurrection (Rubedo), Christ does not immediately ascend—he walks with his disciples, eats with them, teaches them. The Rubedo is embodiment *before* transcendence.
@@ -589,7 +589,7 @@ Common dream motifs:
 - **The Unus Mundus (One World):**
   - The Rubedo is the lived experience of the Unus Mundus. The inner and outer are unified, psyche and matter are one, the personal myth and the cosmic myth are aligned. Synchronicity is common—the world *responds* to the individuated person.
 
-**Archetypal Constellation:**
+#### Archetypal Constellation
 When the Rubedo is active, these archetypes often appear:
 - **The Self** (wholeness, center and circumference)
 - **The Wise Elder** (embodied wisdom, service)
@@ -633,14 +633,14 @@ When the ego serves the Self—when the work of Nigredo, Albedo, and Citrinitas 
 10. **The Philosopher's Stone:**
     - The Rubedo is the Philosopher's Stone—not a thing to possess, but a *way of being*. The stone is the Self, and the Self is the stone. The base metal (ego) is transmuted into gold (Self), and the individual lives as wholeness incarnate.
 
-**Jung's Teaching:**
+#### Jung's Teaching
 
 > "The self is not only the centre but also the whole circumference which embraces both conscious and unconscious; it is the centre of this totality, just as the ego is the centre of the conscious mind."
 > — C.G. Jung, *Psychology and Alchemy* (CW 12, par. 444)
 
 The Rubedo is the lived experience of the Self—the center and the circumference, the part and the whole, the one and the many. It is the culmination of the Great Work—the personality integrated, wisdom embodied, love made flesh.
 
-**The Gift:**
+#### The Gift
 *The soul that has reached the Rubedo is a living embodiment of the Philosopher's Stone. They transmute suffering into meaning, darkness into light, death into life. They are whole—not because they have no shadow, but because they have integrated it. They are wise—not because they know everything, but because they live what they know. They are alive—not because they will never die, but because they have accepted death and chosen life anyway.*
 
 ---
@@ -732,7 +732,7 @@ The Rubedo is the lived experience of the Self—the center and the circumferenc
 
 ---
 
-**Final Word:**
+#### Final Word
 
 *The Rubedo is not escape—it is incarnation. It is not perfection—it is wholeness. It is not the end—it is the beginning of living as the Self. The Philosopher's Stone is not a thing to be found but a way of being to be embodied. The red is the blood of life, the fire of spirit, the gold of incorruption—all united in the living, breathing, serving individual who has completed the Great Work.*
 
@@ -778,7 +778,7 @@ The Rubedo is the lived experience of the Self—the center and the circumferenc
 - Hexagram 63 (After Completion/Chi Chi): Work complete
 - Hexagram 14 (Possession in Great Measure/Ta Yu): Abundance, blessing
 
-**Vibology Synthesis Note:**
+#### Vibology Synthesis Note
 Cross-system correspondences (Mars/Sun astrology, 1st/5th/10th Houses, Aries/Leo, Sacral/Root/Heart HD centers, Judgement/World/Sun Tarot, Gates 34/14, Michael/Raphael/Sandalphon angelology) represent Vibology's integration of verified alchemical Rubedo patterns across seven-pillar framework.
 
 ---

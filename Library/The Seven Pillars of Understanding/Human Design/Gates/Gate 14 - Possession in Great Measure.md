@@ -122,7 +122,7 @@ Because the Individual Centering Circuit is designed for **empowerment through e
 
 Gate 14 forms **Channel 14-2: The Beat (The Keeper of the Keys)** when connected to Gate 2 in the G Center.
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 
 - **Gate 14 (Sacral):** "I have the life force to master skills, build resources, and do sustained work."
 - **Gate 2 (G Center):** "I know which direction to apply this energy, which skills to master for my unique path."
@@ -132,7 +132,7 @@ When this channel is defined, the individual has **consistent access to both pow
 
 **Without the channel defined** (only Gate 14 activated), the individual experiences **power without direction**—they have Sacral energy for work but may struggle to know *which* work to commit to. They may need another person with Gate 2 to complete the electromagnetic circuit—someone who can help them find their direction.
 
-**Interpersonal Electromagnetic Dynamics:**
+#### Interpersonal Electromagnetic Dynamics
 
 - **Both have Channel 14-2:** Potential mutual empowerment or competition over resources and direction.
 - **One has Gate 14, other has Gate 2:** The Gate 14 person provides the work capacity; the Gate 2 person provides the direction. This can be profoundly effective—worker and guide, power and purpose.
@@ -142,7 +142,7 @@ When this channel is defined, the individual has **consistent access to both pow
 
 Gate 14 is located in the **Sacral Center**, which corresponds biologically to the **ovaries (in those assigned female) and testes (in those assigned male)**—the generative organs that produce life force and reproductive energy.
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 14 defined may experience:
 - A **somatic drive to work**, to build skills, to master something tangible
@@ -150,7 +150,7 @@ Individuals with Gate 14 defined may experience:
 - **Frustration when skills are not being developed or resources not being used**—the Sacral's signature Not-Self theme when energy is misapplied
 - **Reproductive/creative vitality** connected to the feeling of mastery and competence
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Sacral Center radiates **life force and generative energy** into the aura. When Gate 14 is active, the aura carries a frequency that says: "I am here to master, to build power, to demonstrate what is possible through sustained work." Others may feel this as **inspiring**, **competent**, or (if the individual is in Not-Self) **workaholic** or **power-hungry**.
 
@@ -188,7 +188,7 @@ The power and skill-building are inconsistent (activated only by transits or oth
 - **Insecurity:** Despite competence, constantly doubting one's mastery, seeking external validation for skills already possessed.
 - **Exploitation:** Using power to extract from others rather than empower them, turning mastery into manipulation.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Frustration from working on projects or skills that don't align with Sacral response
 - Feeling powerful but directionless (without Gate 2 or G Center connection)
@@ -216,7 +216,7 @@ The **7-year deconditioning cycle** for Gate 14 involves learning to recognize w
 
 **Year 7:** Integration phase—mastery becomes aligned with Strategy and Authority. The individual builds skills from **competence** (Gene Keys Gift) rather than compromise. Power is used to empower, not dominate. Work flows from correct response, creating sustainable success.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice where the impulse to work or master arises in the body. Is it the gut (Sacral response)? The mind (Ajna pressure)? The heart (Ego drive)?
 - Practice **responding to work opportunities** rather than initiating them (for Generators/MGs). Feel the Sacral "uh-huh" or "uhn-uhn."
@@ -262,14 +262,14 @@ In Jungian terms, Gate 14 corresponds to the **Master Archetype** and the drive 
 
 The Master archetype seeks to perfect a craft, to develop skill to the highest level, and to demonstrate what is possible through sustained dedication. This is the artisan, the virtuoso, the expert who empowers through example.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 14** manifests as:
 - **The Workaholic:** Using skill-building to avoid emotional depth, relationships, or self-inquiry.
 - **The Tyrant:** Using mastery to dominate, believing competence makes one superior.
 - **The Impostor:** Despite skill, feeling like a fraud, unable to claim one's power.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 14, individuation requires:
 1. **Recognizing that power is for empowerment, not domination:** Mastery serves others through example.
@@ -282,7 +282,7 @@ When integrated, Gate 14 becomes the expression of **sovereign skill**—the cap
 
 When the individual with Gate 14 operates according to their Strategy and Authority, the gift that emerges is **Competence** (Gene Keys) and **Empowering Mastery** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Work is sustained and generative, flowing from correct Sacral response (for Generators/MGs).
 - Skills are developed in alignment with true direction (via Gate 2 or Authority).
@@ -297,7 +297,7 @@ The Signature of the Sacral Center (for Generators/MGs) is **Satisfaction**. For
 - **Empowerment through work**—knowing that one's competence inspires others
 - **Sustainable power**—resources that replenish because they are used correctly
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 14 teaches that **true power is earned through sustained work**. When the individual honors their Sacral response, develops skills aligned with their direction, and uses mastery to empower rather than dominate, they become a **living example** of what is possible through dedication. This is the essence of the Individual Centering Circuit—to demonstrate sovereignty through skill.
 

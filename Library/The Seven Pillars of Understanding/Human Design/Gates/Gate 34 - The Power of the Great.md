@@ -124,7 +124,7 @@ Gate 34 forms three possible channels, each with distinct electromagnetic functi
 
 ### Channel 34-57: Power (Sacral to Spleen)
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 - **Gate 34 (Sacral):** "I have the power."
 - **Gate 57 (Spleen):** "I intuitively know when and how to use power in this moment."
 - **Channel 34-57:** **Intuitive power**—the capacity to act powerfully in the now, guided by splenic clarity.
@@ -135,7 +135,7 @@ This channel creates **spontaneous empowerment**—the individual knows in the m
 
 **Note:** This channel requires **both Gate 10 (G Center) and Gate 20 (Throat)** to complete the circuit from Sacral 34 to manifestation.
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 - **Gate 34 (Sacral):** "I have the power."
 - **Gate 10 (G Center):** "I love myself; I know who I am."
 - **Gate 20 (Throat):** "I am present now; I manifest."
@@ -145,7 +145,7 @@ This channel creates the **archetype of the busy, manifesting individual**—the
 
 ### Channel 34-10: Treading (Sacral to G Center)
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 - **Gate 34 (Sacral):** "I have the power."
 - **Gate 10 (G Center):** "I love myself; I behave according to my true nature."
 - **Channel 34-10:** **Self-empowered behavior**—power expressed through living authentically.
@@ -158,14 +158,14 @@ This channel creates **empowerment through being**—the individual's power is e
 
 Gate 34 is located in the **Sacral Center**, which corresponds biologically to the **gonads (ovaries/testes), reproductive organs, and sexual energy**. The Sacral is the body's most powerful motor—the life-force generator that creates energy through response.
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 34 defined may experience:
 - **Immense physical vitality** when aligned with correct response—the body is a powerhouse
 - **Sexual potency and life-force** as expressions of Sacral power (Gate 34 is one of the sexual/generative gates)
 - **Exhaustion and depletion** when power is used without Sacral response (over-commitment, forcing, saying yes when the body says no)
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Sacral Center radiates **generative life-force** into the aura. When Gate 34 is active, the aura carries a frequency that says: "I am powerful. I am alive. I am here to empower." Others may feel this as **magnetic**, **energizing**, or (if the individual is in Not-Self) **overwhelming and dominating**.
 
@@ -205,7 +205,7 @@ The power is inconsistent (activated only by transits or others). The Reflector 
 - **Annihilation:** Using power destructively, lacking common sense or restraint.
 - **Exhaustion:** Giving away power without reciprocity, becoming depleted by over-commitment.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Feeling exhausted despite having Gate 34's power (sign of Not-Self use)
 - Being busy all the time without productivity or satisfaction
@@ -233,7 +233,7 @@ The **7-year deconditioning cycle** for Gate 34 involves learning to recognize w
 
 **Year 7:** Integration phase—power becomes **strength** (Gene Keys Gift) rather than force. The individual uses power to empower others, not dominate. Busyness becomes purposeful engagement. Power flows in service.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice where power arises in the body. Is it the sacral (Gate 34)? The ego (willpower)? The root (pressure)? Or absorbed from others?
 - Practice **Sacral response**—waiting for the "uh-huh" or "unh-unh" before committing power.
@@ -281,14 +281,14 @@ In Jungian terms, Gate 34 corresponds to the **Power Archetype** and the tension
 
 The Empowered Being uses power to serve life, to create, to support. This is not the tyrant or the bully—it is the one whose strength allows others to stand.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 34** manifests as:
 - **Tyranny:** Using power to dominate and control.
 - **Busy-ness as Avoidance:** Staying in constant motion to avoid inner work or stillness.
 - **Power Addiction:** Needing to feel powerful, using power to validate ego.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 34, individuation requires:
 1. **Separation from Force:** Recognizing when power is being used as aggression versus service.
@@ -301,7 +301,7 @@ When integrated, Gate 34 becomes the expression of **Majesty**—power in sacred
 
 When the individual with Gate 34 operates according to their Strategy and Authority, the gift that emerges is **Strength** (Gene Keys) and **Empowerment** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Power is used **in response**, not as force.
 - Busyness becomes **purposeful engagement**—the individual is empowered and empowering, not just busy.
@@ -316,7 +316,7 @@ The Signature of the Sacral Center is **satisfaction**. For Gate 34 specifically
 - Being engaged in work/life that uses power correctly
 - Experiencing vitality without depletion
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 34 teaches that **power is only great when it serves**. When the individual honors their Sacral response and uses power to empower rather than dominate, they become a **living example** of true strength.
 

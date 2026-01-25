@@ -122,7 +122,7 @@ Because the Individual Knowing Circuit carries **mutation**, its ideas cannot be
 
 Gate 11 forms **Channel 11-56: Curiosity (The Seeker)** when connected to Gate 56 in the Throat Center.
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 
 - **Gate 11 (Ajna):** "I have ideas, concepts, and visions that are unique and mutative."
 - **Gate 56 (Throat):** "I will express these ideas through stories, narratives, and stimulating communication."
@@ -132,7 +132,7 @@ When this channel is defined, the individual has **consistent access to mutative
 
 **Without the channel defined** (only Gate 11 activated), the individual experiences a **mind full of ideas without a voice**. They may feel frustrated by the inability to articulate their concepts, or they may need another person with Gate 56 to complete the electromagnetic circuit—someone who can help them give voice to their visions.
 
-**Interpersonal Electromagnetic Dynamics:**
+#### Interpersonal Electromagnetic Dynamics
 
 - **Both have Channel 11-56:** Potential intellectual competition or mutual stimulation, depending on maturity. Two seekers sharing ideas can either inspire each other or create cognitive overwhelm.
 - **One has Gate 11, other has Gate 56:** The Gate 11 person provides the ideas; the Gate 56 person provides the storytelling. This can be profoundly generative in partnerships—writer and editor, visionary and spokesperson.
@@ -142,7 +142,7 @@ When this channel is defined, the individual has **consistent access to mutative
 
 Gate 11 is located in the **Ajna Center**, which corresponds biologically to the **pituitary gland** (anterior and posterior)—the "master gland" that regulates hormonal systems and serves as a bridge between the nervous system and endocrine system.
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 11 defined may experience:
 - A **mind that is always active**, generating concepts, theories, and mental frameworks
@@ -150,7 +150,7 @@ Individuals with Gate 11 defined may experience:
 - **Cognitive overwhelm** if the mind becomes saturated with too many unexpressed ideas
 - **Mental peace when in solitude**, allowing the Individual frequency to emerge without interference
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Ajna Center radiates **mental energy** into the aura. When Gate 11 is active, the aura carries a frequency that says: "I am here to conceptualize, to envision, to hold ideas that may transform understanding." Others may feel this as **intellectually stimulating**, **inspiring**, or (if the individual is in Not-Self) **mentally chaotic** or **abstract to the point of inaccessibility**.
 
@@ -188,7 +188,7 @@ The ideation is inconsistent (activated only by transits or others). The Reflect
 - **Unexpressed Frustration:** For those without Gate 56, the constant experience of ideas without voice can lead to resentment or depression.
 - **Mental Restlessness:** Inability to find peace in the mind, constantly chasing the next concept without integration.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Feeling mentally chaotic, unable to quiet the ideation process
 - Forcing ideas into expression before they are ready or invited
@@ -216,7 +216,7 @@ The **7-year deconditioning cycle** for Gate 11 involves learning to recognize w
 
 **Year 7:** Integration phase—ideation becomes aligned with Strategy and Authority. The individual trusts that **not all ideas need to be expressed or realized**. Mental peace arises from allowing the mind to be full without pressure. Ideas flow from **idealism** (Gene Keys Gift) rather than obscurity.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice where ideation arises in the body. Is it the forehead (Ajna)? The gut (Sacral)? The heart (Ego)? Or a quiet, receptive space in the mind?
 - Practice **mental aloneness**—periods of withdrawal from books, media, conversations, allowing the Individual frequency to emerge without external input.
@@ -264,14 +264,14 @@ In Jungian terms, Gate 11 corresponds to the **Thinking Function** (specifically
 
 The Visionary archetype seeks to conceptualize what does not yet exist. This is the philosopher, the theorist, the thinker who holds ideas that may be ahead of their time. The challenge is **grounding vision without losing its transformative potential**.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 11** manifests as:
 - **Intellectual Inflation:** Believing one's ideas are superior or destined to "change the world," leading to grandiosity and disconnection.
 - **Mental Isolation:** Using obscure or esoteric language to create distance from others, protecting ideas from critique or integration.
 - **Idea Hoarding:** Refusing to share or express ideas out of fear they will be stolen, misunderstood, or rejected.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 11, individuation requires:
 1. **Recognizing that not all ideas need to manifest:** The mind can hold visions without the pressure to realize them.
@@ -284,7 +284,7 @@ When integrated, Gate 11 becomes the expression of **mental individuation**—th
 
 When the individual with Gate 11 operates according to their Strategy and Authority, the gift that emerges is **Idealism** (Gene Keys) and **Mental Peace** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Ideas flow naturally, without force or mental strain.
 - The individual creates mental frameworks from a place of **inspiration** rather than obligation.
@@ -299,7 +299,7 @@ The Signature of the Ajna Center (for all gates within it) is the experience of 
 - **Trust in the Individual frequency**—knowing that unique ideas are valid simply because they are unique
 - **Mental autonomy**—freedom from collective mental pressure or the need to conform to established paradigms
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 11 teaches that **authentic ideas cannot be forced or manufactured**. When the individual honors their need for mental solitude, waits for true inspiration, and expresses ideas only when aligned with Strategy and Authority, they become a **living example** of what it means to think uniquely. This is the essence of the Individual Knowing Circuit—not to teach or convince, but to **empower through mental differentiation**.
 

@@ -86,18 +86,18 @@ In sacred traditions, this is the wounded healer whose broken heart becomes vess
 ---
 
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 Heartbreak signals that **emotional crisis is active**—vulnerability has been betrayed, trust has been broken, the heart is in devastation. This card acknowledges: the pain is real, the wound is valid, the grief is profound. The question is: **will you let this breaking deepen or harden you? Will you protect your heart while allowing it to heal, or will you close it forever?**
 
 The appearance of Heartbreak also whispers the hardest truth: **this darkness is not permanent**. Gate 36's wisdom is that decline is natural but not enduring. The wave will rise again, but only if you do not harden against ever feeling again.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 In full shadow, Heartbreak manifests as **turbulence that destroys trust in vulnerability**—you defend against future pain by refusing to ever open again, by making your broken heart into armor, by allowing devastation to close you permanently. The shadow asks: will you let this crisis teach or destroy? Will you eventually open again, or will you calcify around the wound? Check whether your emotional intensity serves healing or merely recreates trauma in new forms.
 
-**Gift Aspect:**
+#### Gift Aspect
 When Heartbreak shifts toward gift, it becomes **humanity**—the recognition that your broken heart connects you to everyone who has ever risked love and been devastated. This is the gift of **shared grief**: you are not alone in this pain, heartbreak is not personal failure but universal experience. From this recognition, healing becomes possible—not through denying pain but through metabolizing it as part of the human journey.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 In its highest expression, Heartbreak transforms into **Compassion**—the broken heart that becomes infinite vessel, the devastation that creates capacity to hold all suffering tenderly. You embody the wounded healer whose suffering becomes medicine. Those who touch this frequency do not harden from heartbreak but soften, their shattered hearts becoming porous to all pain and all joy, knowing that the price of compassion is your own breaking, and paying it willingly.
 
 ---

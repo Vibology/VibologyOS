@@ -69,7 +69,7 @@ Scorpio is the fixed water sign that does not flow but **stagnates, ferments, an
 
 The **ruler of the 8th House** (the planet ruling the sign on the 8th House cusp) reveals *how* you experience transformation and what you inherit (materially and psychologically).
 
-**Examples:**
+#### Examples
 - **Venus ruling 8th → Taurus/Libra on 8th cusp** — Transformation through beauty, inheritance of aesthetic wealth, death softened
 - **Jupiter ruling 8th → Sagittarius/Pisces on 8th cusp** — Transformation through meaning, inheritance as blessing, philosophical death
 - **Saturn ruling 8th → Capricorn/Aquarius on 8th cusp** — Transformation through discipline, inheritance as burden, karmic debt

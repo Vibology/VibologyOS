@@ -288,7 +288,7 @@ Jung: "One does not become enlightened by imagining figures of light, but by mak
 
 **Protection from Inflation:** By owning your shadow, you cannot fall into the trap of identifying with the light. You remain grounded in human limitation, which paradoxically connects you to the transcendent (the Self).
 
-**The Gift:**
+#### The Gift
 A **real person** who has descended into their own underworld and returned with the treasure—the integrated shadow, the reclaimed vitality, the wisdom that **wholeness includes darkness**.
 
 ## Cross-References
@@ -305,13 +305,13 @@ A **real person** who has descended into their own underworld and returned with 
 - [[The Ordeal]] (central crisis, ego-death, supreme test)
 - [[The Road Back]] (returning from underworld with new knowledge)
 
-**Individuation Process:**
+#### Individuation Process
 - [[Persona Development]] (Stage 2—the structure that must now be dissolved)
 - [[Encounter with Anima-Animus]] (Stage 4—only possible after shadow integration)
 - [[Confrontation with the Self]] (Stage 5—requires integrated shadow to avoid inflation)
 - [[Integration and Wholeness]] (Stage 6—shadow work is foundational)
 
-**Alchemical Stages:**
+#### Alchemical Stages
 - [[Nigredo]] (primary operation of this stage—blackening, putrefaction)
 - [[Calcination]] (preceded this—hardening of Persona)
 - [[Albedo]] (follows this—purification, soul-work)
@@ -337,7 +337,7 @@ A **real person** who has descended into their own underworld and returned with 
 - [[Gate 51]] (Shock—initiatory crisis)
 - [[Gate 36]] (Crisis—emotional turbulence as growth)
 
-**Mythology:**
+#### Mythology
 - [[Greek Mythology]] (Persephone's abduction, Orpheus' descent)
 - [[Mesopotamian Mythology]] (Inanna's descent to Ereshkigal)
 - [[Dante's Divine Comedy]] (*Inferno*—circles of hell as shadow aspects)

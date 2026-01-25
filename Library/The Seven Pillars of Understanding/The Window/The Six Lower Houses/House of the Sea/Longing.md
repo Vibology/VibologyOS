@@ -86,18 +86,18 @@ In sacred traditions, this is divine yearning—God longing for creation, creati
 ---
 
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 Longing signals that **desire for connection is arising**—the hunger for intimacy, the need to be seen, the yearning to matter. You are being called to honor this longing rather than defend against it, to allow yourself to want rather than pretend self-sufficiency. This is a time for **vulnerability through desire**. The question is: **can you express your longing honestly? Can you approach with desire while remaining whole?**
 
 The appearance of Longing also suggests that **vulnerability creates possibility**. Gate 19's pressure toward connection is activating—circumstances support honest expression of need, approach is favored. The question is whether you will risk rejection by revealing desire or protect yourself through false self-sufficiency.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware the trap of **co-dependent grasping**—need so desperate it suffocates connection, hunger that demands rather than invites. The shadow manifests as emotional enmeshment: losing yourself in the other, making their emotional state your responsibility, requiring them to complete you. Check whether your longing creates space for mutual intimacy or collapses into merger. Shadow also warns against **demand disguised as desire**: treating vulnerability as entitlement, expecting the other to meet needs rather than inviting them to share connection.
 
-**Gift Aspect:**
+#### Gift Aspect
 When Longing expresses its gift, you embody **sensitive desire**—the capacity to honor your need for connection while respecting boundaries, to approach with vulnerability while maintaining ground. This is the gift of **mature longing**: you can say "I want you" without demanding, "I need you" without losing yourself. Your honest desire becomes invitation rather than demand, creating space for genuine intimacy.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 In its highest expression, Longing becomes **Sacrifice**—the recognition that desire is sacred offering, that vulnerability is holy gift, that **the willingness to long is participation in the fundamental yearning that generates existence**. You embody the understanding that intimacy requires offering yourself without guarantee, that love demands courage, that the ache itself is prayer. Those who touch this frequency demonstrate that **longing is not lack but the sacred hunger that calls cosmos into relationship with itself**.
 
 ---

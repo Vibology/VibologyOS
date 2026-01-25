@@ -122,7 +122,7 @@ Because the Understanding Circuit operates through **shared knowledge and resour
 
 Gate 48 forms **Channel 48-16: Wavelength (Talent)** when connected to Gate 16 in the Throat Center.
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 
 - **Gate 48 (Spleen Center):** "I have awareness of whether there is adequate depth."
 - **Gate 16 (Throat Center):** "I will express my skills and talents with enthusiasm."
@@ -132,7 +132,7 @@ When this channel is defined, the individual has **consistent access to depth an
 
 **Without the channel defined** (only Gate 48 activated), the individual experiences awareness of depth but may lack the enthusiastic expression (Gate 16) to share it. They need another person with Gate 16 to complete the electromagnetic circuit—someone who provides the voice for their depth.
 
-**Interpersonal Electromagnetic Dynamics:**
+#### Interpersonal Electromagnetic Dynamics
 
 - **Both have Channel 48-16:** Mutual depth and talent. Can be generative (collaborative mastery) or competitive (conflicting expertise).
 - **One has Gate 48, other has Gate 16:** The Gate 48 person provides depth assessment; the Gate 16 person provides enthusiastic expression. This creates a powerful partnership for skillful contribution.
@@ -142,14 +142,14 @@ When this channel is defined, the individual has **consistent access to depth an
 
 Gate 48 is located in the **Spleen Center**, which corresponds biologically to the **lymphatic system** and **immune reserves**. The Spleen Center generates survival awareness and instinctual health assessment.
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 48 defined may experience:
 - A deep **somatic sense of adequacy or inadequacy**—a bodily knowing of whether resources are sufficient
 - **Lymphatic sensitivity**—awareness of immune depth and depletion
 - **Resource depletion alerts**—the body signaling when reserves are running low
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Spleen Center radiates **survival awareness** into the aura. When Gate 48 is active, the aura carries a frequency that says: "Do we have enough depth here?" Others may feel this as **wise caution**, **resourcefulness**, or (if the individual is in Not-Self) **chronic inadequacy or anxiety**.
 
@@ -186,7 +186,7 @@ The depth awareness is inconsistent (activated only by transits or others). The 
 - **Perfectionism:** Refusing to share until depth is "perfect," leading to isolation.
 - **Depletion Anxiety:** Chronic fear that resources will be exhausted, leading to hoarding or withdrawal.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Feeling chronically inadequate or "not ready"
 - Refusing to share knowledge out of fear of depletion
@@ -214,7 +214,7 @@ The **7-year deconditioning cycle** for Gate 48 involves learning to recognize w
 
 **Year 7:** Integration phase—depth awareness becomes **resourcefulness** (Gene Keys Gift) rather than inadequacy. The individual trusts their depth without needing external validation.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice where depth awareness arises in the body. Is it a splenic flash (quick, certain)? Or mental anxiety (repetitive, fearful)?
 - Practice **sharing from depth**—offering knowledge when the well is full, resting when it needs to refill.
@@ -264,14 +264,14 @@ In Jungian terms, Gate 48 corresponds to the **Resource Archetype** and the psyc
 
 The Well-Keeper archetype holds the capacity to maintain and protect communal resources. This is not the Hoarder (withholding out of fear) but the **Wise Steward**—the one who knows when to give and when to preserve.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 48** manifests as:
 - **Imposter Syndrome:** Chronic feeling of inadequacy despite evidence of competence.
 - **Resource Anxiety:** Fear of depletion leading to hoarding or withdrawal.
 - **False Expertise:** Claiming depth to compensate for feelings of inadequacy.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 48, individuation requires:
 1. **Trusting Depth:** Recognizing that adequacy is not about knowing everything but about trusting instinctual resource awareness.
@@ -284,7 +284,7 @@ When integrated, Gate 48 becomes the **wellspring of wisdom**—the capacity to 
 
 When the individual with Gate 48 operates according to their Strategy and Authority, the gift that emerges is **Resourcefulness** (Gene Keys) and **Instinctual Depth Awareness** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Depth awareness emerges naturally, without mental forcing or anxiety.
 - The individual trusts their instinctual assessment of adequacy without needing external proof.
@@ -299,7 +299,7 @@ The Signature of the Spleen Center (for all gates within it) is **Well-Being and
 - **Spontaneous depth assessment**—instinctual knowing of adequacy
 - **Peace with limitations**—accepting that the well has its rhythms
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 48 teaches that **depth is sacred**. When the individual honors their instinctual awareness of adequacy—sharing when full, resting when depleted, trusting the well's renewal—they become a **living example** of resourcefulness. This is the essence of the Collective Understanding Circuit—to ensure the collective has adequate depth to sustain its endeavors.
 

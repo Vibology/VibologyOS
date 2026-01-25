@@ -185,7 +185,7 @@ In traditional medical astrology, Aries governs[^7]:
 
 The Aries shadow is **violence without purpose**—the force that destroys for the sake of destruction, the rage that consumes everything in its path.
 
-**Shadow expressions:**
+#### Shadow expressions
 - **Rage:** Explosive, uncontrolled, the berserker who cannot stop once the charge begins.
 - **Impulsivity:** Action without thought, the leap that ends in disaster.
 - **Narcissism:** The self that cannot see the other, the ego that demands the world orbit around it.

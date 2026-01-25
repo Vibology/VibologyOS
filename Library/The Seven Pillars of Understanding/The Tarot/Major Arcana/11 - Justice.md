@@ -11,6 +11,7 @@ verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
+# 11 - Justice
 *The Daughter of the Lords of Truth, The Ruler of Balance*
 
 ---
@@ -53,7 +54,7 @@ The key insight is that Justice always deals with **the relationship between act
 ## Divination Use
 **Upright:** Equity, rightness, probity, executive force, balance, self-assessment, karmic adjustment, legal matters resolved fairly, truth revealed, accounts settled, the weighing of the soul. Keywords: Justice, balance, truth, karma, righteous adjustment.
 
-**Reversed (per Waite):**
+#### Reversed (per Waite)
 Law in all departments, legal complications, bigotry, bias, excessive severity. Law without equity, judgment corrupted, punishment without purpose, avoidance of consequence, refusal to face truth, the scales weighted unfairly.
 
 ---

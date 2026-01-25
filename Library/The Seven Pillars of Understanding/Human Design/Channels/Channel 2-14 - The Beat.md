@@ -56,13 +56,13 @@ The electromagnetic relationship between Gate 2 and Gate 14 is one of **directio
 
 When these two gates form a complete channel, the individual has **consistent access to empowered direction**. Their sense of identity and purpose (Gate 2) is fueled by sustainable life-force energy (Gate 14). This is the archetype of the individual who knows where they are going and has the power to get there.
 
-**The Dynamic:**
+#### The Dynamic
 
 - **Gate 2 without Gate 14:** The individual has a clear sense of direction but may lack the energy, resources, or power to manifest it. They know where they want to go but struggle to fuel the journey.
 - **Gate 14 without Gate 2:** The individual has immense power and energy but may lack direction. They accumulate resources but don't know what to do with them. This can lead to restlessness or dissipation of energy.
 - **Channel 2-14 Complete:** Direction and power are unified. The individual becomes a **self-driven force**, capable of building their own kingdom, accumulating resources aligned with their unique direction, and selectively empowering others.
 
-**Interpersonal Electromagnetic Completion:**
+#### Interpersonal Electromagnetic Completion
 
 When two people come together with complementary gates:
 - **One with Gate 2, other with Gate 14:** The Gate 2 person provides the direction, the vision, the "where are we going?" The Gate 14 person provides the power, the resources, the "how will we fuel this?" Together, they become a formidable partnership—especially in business, creative projects, or intimate relationships.
@@ -77,7 +77,7 @@ The G Center is the **biological seat of identity**—associated with the liver,
 
 The Sacral is the **biological engine of life force**—associated with the ovaries/testes, reproductive energy, and the capacity to generate sustainable work and sexual vitality.
 
-**Biological Flow:**
+#### Biological Flow
 
 When Channel 2-14 is defined, there is a **direct biological pathway** from life force to identity. The individual's sexual energy, vitality, and capacity to work are hardwired to their sense of self and direction. This means:
 
@@ -85,7 +85,7 @@ When Channel 2-14 is defined, there is a **direct biological pathway** from life
 - **Sexual energy drives identity.** This is a **Tantric channel**, meaning sexual energy is not separate from purpose—it is the fuel for it. Healthy sexual expression (whether through physical intimacy, creative work, or deep engagement with life) empowers the individual's direction.
 - **Liver and reproductive health are linked.** The liver (G Center) processes toxins; the reproductive system (Sacral) generates life. If the individual is not living their correct direction, both systems may suffer—hormonal imbalances, metabolic issues, or energetic depletion.
 
-**Somatic Signature:**
+#### Somatic Signature
 
 Individuals with Channel 2-14 may feel a **deep, steady pulse of energy** when aligned with their direction. When misaligned, they may experience:
 - **Sacral frustration:** A gnawing sense of "I'm not doing what I'm here to do."
@@ -153,7 +153,7 @@ Channel 2-14 is a **Generated Channel** (Sacral-defined).
 - **Gate 14 defined, Gate 2 open:** The individual has immense power and energy but may lack direction. They accumulate resources but don't know what to do with them.
 - **Both gates open:** The individual samples direction and power from others. They may become wise about resources and direction by observing without identifying. Vulnerability to conditioning: "I must have a clear purpose and power to matter."
 
-**Wisdom for the Undefined:**
+#### Wisdom for the Undefined
 
 If you do not have Channel 2-14, you are not here to be a self-driven, self-empowered force in the Individual sense. Your direction and power may come from Tribal support, Collective patterns, or simply reflecting and amplifying others' direction. This is not a lack—it is a different design.
 
@@ -162,18 +162,18 @@ If you do not have Channel 2-14, you are not here to be a self-driven, self-empo
 
 Channel 2-14 is an **electromagnetic channel**, meaning it is formed by two gates in two different centers.
 
-**Electromagnetic Completion in Partnerships:**
+#### Electromagnetic Completion in Partnerships
 
 When one partner has Gate 2 and the other has Gate 14, the relationship becomes a **power partnership**:
 - The Gate 2 person provides the direction, the vision, the "where are we going?"
 - The Gate 14 person provides the power, the resources, the "how will we fuel this?"
 - Together, they build empires—whether personal, professional, or creative.
 
-**Potential Shadow:**
+#### Potential Shadow
 
 If the Gate 2 person dominates ("I know the direction; just give me your energy"), the Gate 14 person may feel used. If the Gate 14 person dominates ("I have the power; follow my lead"), the Gate 2 person may feel directionless.
 
-**Healthy Dynamic:**
+#### Healthy Dynamic
 
 Mutual respect. The Gate 2 person honors the Gate 14's power and resources. The Gate 14 person honors the Gate 2's direction and identity. The relationship becomes a **co-empowered partnership**.
 
@@ -212,12 +212,12 @@ When the Sacral says "yes" to a direction, the individual has **unlimited energy
 - **Directionless Accumulation:** Building resources without purpose, leading to restlessness and dissatisfaction.
 - **Compromise (Gene Keys Shadow):** Compromising one's unique direction to fit Collective or Tribal expectations, losing individual power.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - **For Generators:** Frustration. "Why am I exhausted from work that should energize me?"
 - **For Manifesting Generators:** Frustration and anger. "Why am I always starting things I can't finish?"
 
-**Conditioning Patterns:**
+#### Conditioning Patterns
 
 The Individual is heavily conditioned by Collective and Tribal expectations:
 - **Collective Conditioning:** "Your resources should serve the group. Share your power."
@@ -255,7 +255,7 @@ The Channel 2-14 individual must **resist the pressure to give their power away*
 - The Gift emerges: **Orientation** (Gate 2) and **Competence** (Gate 14). You know where you're going and have the skills to get there.
 - The Siddhi begins to whisper: **Unity** (Gate 2) and **Bounteousness** (Gate 14). Your empowered direction becomes a source of abundance—not just for you, but for those you choose to empower.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - **Sacral check-ins:** Throughout the day, ask your Sacral yes/no questions and listen to the gut response.
 - **Direction meditation:** Sit quietly and ask, "What is my direction?" Notice where the body pulls you—not the mind's answer.
@@ -315,12 +315,12 @@ Channel 2-14 is the integration of Self and Shadow. The individual knows who the
 
 The Channel 2-14 individual embodies the **Sovereign Archetype**—not a ruler of others, but a ruler of their own kingdom. They hold the keys to their own resources, direction, and power.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 - **Power Projection:** Projecting one's power onto others—believing that others hold the keys to one's direction or resources.
 - **Hoarding:** Holding power without using it, leading to stagnation and isolation.
 
-**Integration Path:**
+#### Integration Path
 
 The Channel 2-14 individual must learn to **hold power without grasping** and **share resources without depleting**. The Sovereign gives generously from abundance, not from obligation.
 

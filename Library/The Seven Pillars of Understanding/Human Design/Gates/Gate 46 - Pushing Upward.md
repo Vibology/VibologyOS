@@ -122,7 +122,7 @@ Because the Understanding Circuit operates through **experiential proof**, the b
 
 Gate 46 forms **Channel 46-29: Discovery (Succeeding Where Others Have Failed)** when connected to Gate 29 in the Sacral Center.
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 
 - **Gate 46 (G Center):** "I love being in my body and trust physical presence."
 - **Gate 29 (Sacral Center):** "I commit my life force to experiences that require embodied perseverance."
@@ -132,7 +132,7 @@ When this channel is defined, the individual has **consistent access to embodied
 
 **Without the channel defined** (only Gate 46 activated), the individual experiences love of the body but may lack the Sacral commitment (Gate 29) to sustain physical challenges. They need another person with Gate 29 to complete the electromagnetic circuit—someone who provides the perseverance for their embodied presence.
 
-**Interpersonal Electromagnetic Dynamics:**
+#### Interpersonal Electromagnetic Dynamics
 
 - **Both have Channel 46-29:** Mutual embodied commitment. Can be generative (partnering in physical endeavors) or competitive (conflicting physical pursuits).
 - **One has Gate 46, other has Gate 29:** The Gate 46 person provides embodied love; the Gate 29 person provides commitment. This creates a powerful partnership for discovery.
@@ -142,14 +142,14 @@ When this channel is defined, the individual has **consistent access to embodied
 
 Gate 46 is located in the **G Center**, which corresponds biologically to the **liver** and the **magnetic monopole** (Ra's term for the geometric center of the bodygraph). The G Center generates identity, direction, and the experience of love.
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 46 defined may experience:
 - A deep **somatic presence**—a felt sense of being fully in the body
 - **Physical vitality**—the liver's role in metabolizing and energizing the body
 - **Serendipitous movement**—the body naturally moves toward the right places and encounters
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The G Center radiates **identity and direction** into the aura. When Gate 46 is active, the aura carries a frequency that says: "I love being in my body. I am here." Others may feel this as **grounding**, **magnetic**, or (if the individual is in Not-Self) **overly physical or materialistic**.
 
@@ -186,7 +186,7 @@ The love of the body is inconsistent (activated only by transits or others). The
 - **Forcing Serendipity:** Trying to manufacture synchronicity through mental planning rather than trusting embodiment.
 - **Physical Shame:** Judging the body as inadequate or unworthy of love.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Feeling disconnected from the body or living "in the head"
 - Chronic seriousness about physical health or appearance
@@ -214,7 +214,7 @@ The **7-year deconditioning cycle** for Gate 46 involves learning to recognize w
 
 **Year 7:** Integration phase—embodiment becomes **delight** (Gene Keys Gift) rather than seriousness. The individual loves the body without attachment to appearance or performance.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice where presence arises in the body. Is it a full-body awareness? Or localized in specific areas?
 - Practice **being in the body without agenda**—moving, resting, breathing without goal or performance.
@@ -264,14 +264,14 @@ In Jungian terms, Gate 46 corresponds to the **Sensate Function** and the psyche
 
 The Lover of Life archetype holds the capacity to celebrate incarnation. This is not the Hedonist (seeking pleasure compulsively) but the **Sacred Embodiment**—the one who loves being in a body as a spiritual practice.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 46** manifests as:
 - **Body Hatred:** Rejecting physical form as inferior or shameful, leading to disembodiment.
 - **Perfectionism:** Demanding the body meet impossible standards, leading to chronic dissatisfaction.
 - **Spiritual Bypass:** Rejecting the body in favor of "higher" spiritual pursuits, missing the sacredness of incarnation.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 46, individuation requires:
 1. **Embodied Presence:** Learning to inhabit the body fully, without shame or control.
@@ -284,7 +284,7 @@ When integrated, Gate 46 becomes the **celebration of incarnation**—the capaci
 
 When the individual with Gate 46 operates according to their Strategy and Authority, the gift that emerges is **Delight** (Gene Keys) and **Serendipity** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Embodiment flows naturally, without control or performance.
 - The individual loves being in their body simply for the pleasure of physical existence.
@@ -299,7 +299,7 @@ The Signature of the G Center (for all gates within it) is **Love and Direction*
 - **Trusting embodied direction** (the body knows where to go)
 - **Experiencing serendipity** through physical presence
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 46 teaches that **the body is sacred**. When the individual honors their love of physical form—inhabiting the body with delight, trusting serendipity, releasing control—they become a **living example** of embodied spirituality. This is the essence of the Collective Understanding Circuit—to demonstrate through lived experience that presence creates synchronicity.
 

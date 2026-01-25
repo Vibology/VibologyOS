@@ -402,7 +402,7 @@ The feathered garments (wings) suggest that the dead are *neither fully embodied
 
 ### Shadow Work: The Mesopotamian Model
 
-**Method:**
+#### Method
 
 1. **Voluntary Descent (Inanna's path):** Do not wait for breakdown. Choose the descent: therapy, retreat, psychedelics (with care), silence, grief. Strip yourself at the gates—remove achievement, role, identity. Arrive naked.
 2. **Empathy for the Shadow (Ereshkigal):** When the shadow speaks (rage, shame, despair), do not fix, judge, or flee. Sit with it. Groan with it. Say: "I see you. I hear you. You are real."
@@ -703,7 +703,7 @@ Mesopotamian mythology dramatizes the **Ego's violent emergence from the Uroboro
 - **The Dying-Rising God:** Tammuz/Dumuzi (cyclical death/rebirth, seasonal renewal)
 - **The Self:** Anu (remote transcendent), Utnapishtim (immortal beyond ego), the pattern of descent/return itself
 
-**Cross-archetype dynamics:**
+#### Cross-archetype dynamics
 
 - Marduk (Hero/Ego) must slay Tiamat (Mother/Shadow) to create cosmos (consciousness)
 - Gilgamesh (Ego) must integrate Enkidu (Shadow) to become whole
@@ -831,7 +831,7 @@ Mesopotamian mythology dramatizes the **Ego's violent emergence from the Uroboro
 **Primary Mesopotamian Sources:**
 Core mythological narratives (cosmology, pantheon, and hero cycles) are drawn from canonical ancient Near Eastern sources including *Enuma Elish* (Babylonian creation epic), *Epic of Gilgamesh*, *Descent of Inanna*, Sumerian hymns, and Akkadian/Babylonian mythological texts. These cuneiform sources are among humanity's oldest written mythologies and inform the archetypal framework.
 
-**Vibrology Synthesis:**
+#### Vibrology Synthesis
 All Jungian archetypal analysis (interpreting Mesopotamian myths through the lens of Shadow, Anima/Animus, Self, Individuation, etc.) represents scholarly synthesis rather than ancient understanding. Cross-system correspondences (Tarot, Astrology, Alchemy, Human Design, Qabalah) are Vibrology's integrative framework, not part of the original Mesopotamian tradition. The alchemical correlations (Inanna's descent as Nigredo, Marduk's victory as Separatio) apply Renaissance hermetic symbolism to Mesopotamian narrative patterns. Mesopotamian cosmology and astrology deeply influenced Western esoteric traditions, but the explicit connections drawn here are modern interpretive additions.
 
 ---

@@ -15,6 +15,7 @@ planetary: Mars in Aries
 decan: Aries 0°-10° (1st Decan)
 title: Lord of Dominion
 ---
+# Two of Wands
 *The Lord of Dominion*
 
 ---
@@ -347,7 +348,7 @@ The Ace is the divine gift of creative fire—the spark, the raw potential offer
 **Following Card: [[Three of Wands]]**
 The Three of Wands is the first fruit of the Two's strategic choice. If the Two is the planning stage (surveying the horizon, weighing options), the Three is the execution stage (the ships have sailed, the venture is underway, early success is visible). The Three says, "The choice has been made and is bearing fruit." The Two must decide; the Three enjoys the results of that decision.
 
-**Corresponding Cards in Other Suits:**
+#### Corresponding Cards in Other Suits
 - **[[Two of Cups]]** (Water): Relationship between two people—partnership, pledge, mutual recognition. Where Cups is interpersonal, Wands is spatial/territorial.
 - **[[Two of Swords]]** (Air): Mental stalemate, blindfolded decision, the mind caught between equally weighted options. Where Swords is paralyzed, Wands is contemplative but poised to act.
 - **[[Two of Pentacles]]** (Earth): Juggling resources, balancing material commitments. Where Pentacles is reactive (responding to demands), Wands is proactive (choosing the next conquest).

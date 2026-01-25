@@ -11,6 +11,7 @@ gate: 55
 hexagram: 55 (Abundance)
 gene_keys: Victimisation → Freedom → Freedom
 ---
+# Convergence
 *Abundance - Alignment Creating New Path*
 
 ---
@@ -63,16 +64,16 @@ Victimisation → Freedom → Freedom (doubled)
 
 ---
 ## Oracle Reading
-**When this portal appears:**
+#### When this portal appears
 You are experiencing convergence. Multiple paths are becoming visible—or all paths are closing—based purely on **your emotional spirit's state**. This is not about external opportunity; it's about whether your spirit experiences abundance or emptiness. The question is: can you trust that your emotional depth will reveal the correct path? Can you wait for the high of the wave to see clearly rather than deciding from the low? Can you recognize that convergence follows spirit, not strategy? Convergence calls: **be like the sun at midday**—when spirit is abundant, the path illuminates itself.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware victimisation disguised as realism—assuming that paths are closed because spirit feels empty, making life decisions from the low of the wave, allowing emotional poverty to determine destiny. The shadow sees scarcity because spirit is depleted, mistakes the low for permanent condition, converges on suffering because that's all mood permits vision of. Beware also grasping at abundance: clinging to the high, fearing the inevitable descent, trying to make permanent what is cyclical. True convergence requires **emotional authority**—waiting for clarity across the wave before committing to path.
 
-**Gift Aspect:**
+#### Gift Aspect
 Your spirit is revealing the path. At this moment, with emotional abundance present, you can **see possibilities** that will be invisible when the wave descends. Now is time for vision, not decision—allow the paths to become clear, recognize which directions make your spirit feel full, but wait for emotional clarity across the entire wave before committing. Line 3 (Innocence) actualized: experiencing abundance without cynicism, childlike wonder in what emotional depth reveals.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 You embody Freedom—the recognition that emotional sovereignty creates destiny, that spirit liberated from victimhood converges on paths that serve the highest mutation, that abundance and freedom are the same truth. You are thunder and lightning together, arousal meeting clarity, the sun at zenith that illuminates all directions simultaneously. Convergence as cosmic principle: **when spirit is full and free, the path is not chosen but revealed**. You walk where emotional depth indicates, trusting that spirit, not strategy, creates alignment with destiny.
 
 ---

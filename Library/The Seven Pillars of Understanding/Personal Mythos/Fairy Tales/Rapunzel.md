@@ -505,7 +505,7 @@ The masculine journey is **from heroic inflation (the Prince) to wounding (the b
 ---
 
 ## Cross-References
-**Archetypal Figures:**
+#### Archetypal Figures
 [[The Shadow]] • [[The Muse]] • [[The Idol]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] • [[The Alchemist]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] • [[The Terrible Mother]] • [[The Puella Aeterna]] • [[The Wild Woman]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Hero]]
 
 **Jungian Concepts:**
@@ -514,25 +514,25 @@ The masculine journey is **from heroic inflation (the Prince) to wounding (the b
 **Tarot Keys:**
 [[The Tower]] • [[The High Priestess]] • [[The Hermit]] • [[The Moon]] • [[The Star]] • [[Strength]] • [[Temperance]] • [[The Empress]]
 
-**Alchemical Stages:**
+#### Alchemical Stages
 [[Nigredo]] • [[Albedo]] • [[Rubedo]] • [[Separatio]] • [[Solve et Coagula]] • [[Coniunctio]] • [[Philosopher's Stone]] • [[Hieros Gamos]]
 
-**Mythological Parallels:**
+#### Mythological Parallels
 [[Persephone and Demeter]] • [[Psyche and Eros]] • [[Danaë]] • [[Sleeping Beauty]] • [[Bluebeard]] • [[The Handless Maiden]]
 
-**Fairy Tale Motifs:**
+#### Fairy Tale Motifs
 [[The Tower Imprisonment]] • [[The Golden Hair]] • [[The Devouring Mother]] • [[The Secret Lover]] • [[The Exile and Return]] • [[The Healing Tears]] • [[The Divine Twins]]
 
-**Human Design Connections:**
+#### Human Design Connections
 [[Sacral Center]] • [[Emotional Authority]] • [[Gate 59 - Intimacy]] • [[Channel 27-50 - Preservation]] • [[Tribal Circuitry]]
 
-**Individuation Process:**
+#### Individuation Process
 [[Ego Formation and Childhood]] • [[Persona Development]] • [[Confrontation with Shadow]] • [[Encounter with Anima-Animus]] • [[Integration and Wholeness]]
 
-**Hero's Journey Stages:**
+#### Hero's Journey Stages
 [[The Call to Adventure]] • [[Refusal of the Call]] • [[Crossing the First Threshold]] • [[The Ordeal]] • [[The Road Back]] • [[The Resurrection]]
 
-**Related Tales:**
+#### Related Tales
 [[Beauty and the Beast]] • [[Snow White]] • [[Sleeping Beauty]] • [[The Handless Maiden]] • [[The Juniper Tree]] • [[Allerleirauh]] • [[Cinderella]]
 
 ---

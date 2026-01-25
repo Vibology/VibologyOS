@@ -13,6 +13,7 @@ element_primary: Earth
 element_secondary: Fire
 title: Princess of the Shining Flame, Rose of the Palace of Fire
 ---
+# Page of Wands
 *Princess of the Shining Flame, Rose of the Palace of Fire*
 
 ---
@@ -72,7 +73,7 @@ The Page of Wands as a **Process** or **Energy**: The emergence of a new creativ
 
 **Keywords**: New creative project, enthusiastic beginner, messenger, exploration, curiosity, sincerity, youthful energy, the spark examined, potential recognized, announcement of opportunity, faithful envoy, creative news, the apprentice, the student, the herald.
 
-**Reversed (per Waite):**
+#### Reversed (per Waite)
 
 Bad news, unwelcome announcements, anecdotes without substance. Indecision—unable to commit to one path because all paths seem equally exciting or equally daunting. Instability—starting and stopping, enthusiasm that burns out quickly, the inability to sustain effort beyond the initial spark. The reversed Page can also signify:
 - **Immaturity masquerading as creativity**: Confusing lack of discipline with "being spontaneous"

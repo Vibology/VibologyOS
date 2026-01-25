@@ -122,7 +122,7 @@ Because the Logic Circuit serves the **collective's need for understanding and o
 
 Gate 7 forms **Channel 7-31: The Alpha (also called "Leadership")** when connected to Gate 31 in the Throat Center.
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 
 - **Gate 7 (G Center):** "I know my role in guiding and organizing the collective."
 - **Gate 31 (Throat):** "I have the voice and influence to lead, to speak for the collective."
@@ -136,7 +136,7 @@ The gift of Channel 7-31 is **natural leadership**—the capacity to organize, g
 
 **Without the channel defined** (only Gate 7 activated), the individual knows their role in collective leadership but may lack the consistent **voice** (Gate 31, Throat) to express it. They need someone with Gate 31 to complete the electromagnetic circuit.
 
-**Interpersonal Electromagnetic Dynamics:**
+#### Interpersonal Electromagnetic Dynamics
 
 - **Both have Channel 7-31:** Potential leadership collaboration or competition, depending on whether their roles are complementary or conflicting.
 - **One has Gate 7, other has Gate 31:** The Gate 7 person provides role clarity; the Gate 31 person provides the voice. Together they create effective leadership.
@@ -146,14 +146,14 @@ The gift of Channel 7-31 is **natural leadership**—the capacity to organize, g
 
 Gate 7 is located in the **G Center**, which corresponds biologically to the **liver** and the **magnetic monopole** (Ra's term for the geometric center of the bodygraph). The magnetic monopole is not a physical organ but an **orientation mechanism**—it determines direction, identity, and the experience of love.
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 7 defined may experience:
 - A deep **somatic sense of role**—knowing what one is here to do in collective contexts
 - **Directional clarity** around leadership—when to step forward, when to step back
 - Sensitivity to **role confusion**—feeling disoriented when one's role in the collective is unclear or unrecognized
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The G Center radiates **identity and direction** into the aura. When Gate 7 is active, the aura carries a frequency of **"I am here to guide and organize the collective."** Others may perceive this as **authoritative**, **grounding**, or (if the individual is in Not-Self) **controlling or domineering**.
 
@@ -195,7 +195,7 @@ The leadership role is experienced only through transits or proximity to others 
 - **Chaos (Line 3 Detriment):** Dismantling structures without offering viable alternatives, revolution for its own sake.
 - **Abdication (Line 4 Detriment):** Fleeing leadership roles out of fear or discomfort, refusing responsibility.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Feeling pressure to be a leader when it is not aligned
 - Avoiding leadership roles even when genuinely called
@@ -223,7 +223,7 @@ The **7-year deconditioning cycle** for Gate 7 involves learning to recognize ge
 
 **Year 7:** Integration phase—role clarity becomes aligned with Strategy and Authority. The individual moves from **division** (Gene Keys Shadow) to **guidance** (Gift) to **virtue** (Siddhi)—the recognition that true leadership is the embodiment of highest principle in service of the collective.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice where the sense of "role" lives in the body. Is it a pull in the chest (G Center)? A clarity in posture?
 - Practice **stepping into role when called** and **stepping back when the role is complete**—this is not failure, it is wisdom.
@@ -274,14 +274,14 @@ In Jungian terms, Gate 7 corresponds to the **King Archetype** (the ruler, the o
 
 The Benevolent Ruler is the king who knows his role and serves the people. This is not tyranny but **stewardship**—the recognition that authority is a responsibility, not a privilege.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 7** manifests as:
 - **Inflation:** Believing one's role is more important than the collective, confusing leadership with superiority.
 - **Role Rigidity:** Clinging to a leadership role beyond its appropriate lifespan, refusing to abdicate.
 - **Avoidance:** Fleeing leadership roles out of fear of responsibility or criticism.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 7, individuation requires:
 1. **Recognizing Role as Provisional (Line 4):** Understanding that all roles are temporary and must be relinquished when complete.
@@ -295,7 +295,7 @@ When integrated, Gate 7 becomes the **embodied capacity to guide the collective*
 
 When the individual with Gate 7 operates according to their Strategy and Authority, the gift that emerges is **Guidance** (Gene Keys) and **Role-Based Leadership** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Leadership roles arise from Strategy and Authority, not mental ideas about "being a leader."
 - The individual steps into role when genuinely called and steps back when the role is complete (Line 4).
@@ -310,7 +310,7 @@ The Signature of the G Center (for all gates within it) is the experience of **L
 - **Directional clarity** around when to lead and when to follow
 - **Freedom from role-identity**—knowing one's role without clinging to it
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 7 teaches that **leadership is a role, not an identity**. When the individual honors their Strategy and Authority, steps into role when called, and serves the collective with clarity, they become a **living example** of benevolent authority. This is the essence of the Logic Circuit—not to impose order, but to **recognize and embody the roles that serve collective understanding**.
 

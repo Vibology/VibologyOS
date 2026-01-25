@@ -11,6 +11,7 @@ gate: 49
 hexagram: 49 (Revolution)
 gene_keys: Reaction → Revolution → Rebirth
 ---
+# Revolution
 *Revolution - External Upheaval of Order*
 
 ---
@@ -63,16 +64,16 @@ Reaction → Revolution → Rebirth
 
 ---
 ## Oracle Reading
-**When this portal appears:**
+#### When this portal appears
 You are facing revolution. Something in your life—relationship, career, belief system, social structure—has violated principles that matter deeply to your emotional body. Gradual reform has failed. The question is: are you willing to overturn existing order? Can you trust that your emotional sensitivity to injustice is valid? Can you initiate revolutionary change knowing it will be chaotic but necessary? Revolution calls: **principle demands upheaval**—the old order must be transformed, not adjusted.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware reaction disguised as revolution—emotional upset masquerading as principled change, chaos created from hurt rather than clarity. The shadow burns bridges impulsively, divorces reactively, overturns structures without having exhausted other options. Beware also premature revolution: initiating change before emotional clarity arrives, transforming from the low of the wave rather than from centered knowing. True revolution requires **emotional authority**—wait for clarity, then act with certainty.
 
-**Gift Aspect:**
+#### Gift Aspect
 Your emotional body has reached clarity. This is not reaction but **principled revolution**—what must change is clear, necessity is established, other options have been exhausted. Now act: fire beneath the lake evaporates old form, the calendar is reset, the season changes. You are the revolutionary who transforms not from rage but from principle, who overturns order because tribal law demands it.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 You embody Rebirth—the recognition that revolution is not destruction but transformation, that all endings are beginnings, that molting is necessary for growth. You are fire dissolving water, old form becoming new, death that births life. Revolution as cosmic principle: **nothing is destroyed that is not simultaneously reborn**. The butterfly remembers being caterpillar. The revolutionized world contains the wisdom of what was overturned.
 
 ---

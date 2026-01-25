@@ -122,7 +122,7 @@ Because the Individual Knowing Circuit is designed for **mutation through exampl
 
 Gate 23 forms **Channel 23-43: Structuring (The Freak)** when connected to Gate 43 in the Ajna Center.
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 
 - **Gate 23 (Throat):** "I have the voice to express individual knowing, to articulate what I assimilate."
 - **Gate 43 (Ajna):** "I have the insight, the breakthrough, the inner ear that hears what others cannot."
@@ -132,7 +132,7 @@ When this channel is defined, the individual has **consistent access to mutative
 
 **Without the channel defined** (only Gate 23 activated), the individual experiences **voice without insight**—they have the frequency to express individual knowing but may not know *what* to say. They may need another person with Gate 43 to complete the electromagnetic circuit—someone who provides the breakthrough insight.
 
-**Interpersonal Electromagnetic Dynamics:**
+#### Interpersonal Electromagnetic Dynamics
 
 - **Both have Channel 23-43:** Potential mutual recognition or competition over whose knowing is more valid.
 - **One has Gate 23, other has Gate 43:** The Gate 23 person provides the voice; the Gate 43 person provides the insight. This can be profoundly effective—breakthrough and articulation.
@@ -142,7 +142,7 @@ When this channel is defined, the individual has **consistent access to mutative
 
 Gate 23 is located in the **Throat Center**, which corresponds biologically to the **thyroid, parathyroid, vocal cords, and metabolic regulation**—organs associated with expression, voice, and the physical manifestation of identity.
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 23 defined may experience:
 - **Throat-related issues when expression is suppressed**—difficulty speaking, thyroid imbalances, vocal strain
@@ -150,7 +150,7 @@ Individuals with Gate 23 defined may experience:
 - **Somatic pressure to speak** when insight is assimilated—the throat feels constricted until the knowing is articulated
 - **Physical release after speaking**—the body relaxes when the mutative insight is expressed
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Throat Center radiates **manifestation energy** into the aura. When Gate 23 is active, the aura carries a frequency that says: "I know something you don't, and I may or may not tell you." Others may feel this as **intriguing**, **unsettling**, or (if the individual is in Not-Self) **withholding** or **arrogant**.
 
@@ -188,7 +188,7 @@ The knowing and expression are inconsistent (activated only by transits or other
 - **Arrogance:** Believing one's knowing is superior, looking down on those who "don't get it."
 - **Over-Explaining:** Trying to justify or prove the insight, weakening it by defending it excessively.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Frustration from speaking before Sacral response (for Generators)
 - Bitterness from articulating without invitation (for Projectors)
@@ -216,7 +216,7 @@ The **7-year deconditioning cycle** for Gate 23 involves learning to recognize w
 
 **Year 7:** Integration phase—expression becomes aligned with the Gift of Simplicity (Gene Keys). The individual speaks what they know with clarity and precision, having allowed complexity to fall away. Knowing is articulated without arrogance or insecurity.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice where the impulse to speak arises in the body. Is it the throat (genuine expression)? The mind (need to prove)? The solar plexus (emotional reaction)?
 - Practice **waiting for assimilation**—feel when the knowing is ready to be spoken, when it has "settled" in the body.
@@ -264,14 +264,14 @@ In Jungian terms, Gate 23 corresponds to the **Thinking Function**—the psychol
 
 The archetype of the hermit who withdraws from collective consensus to assimilate truth, then returns to speak—often fracturing comfort, introducing mutation, standing apart. This is the capacity for **authentic differentiation**.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 23** manifests as:
 - **The Know-It-All:** Using insight to elevate, to separate, to prove superiority.
 - **The Withholding Mystic:** Hoarding knowing out of fear or pride, refusing to share.
 - **The Intellectual:** Losing essence in complexity, fragmenting truth through over-analysis.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 23, individuation requires:
 1. **Recognizing that knowing is for mutation, not validation:** Insight does not need approval to be true.
@@ -284,7 +284,7 @@ When integrated, Gate 23 becomes the expression of **quintessential truth**—th
 
 When the individual with Gate 23 operates according to their Strategy and Authority, the gift that emerges is **Simplicity** (Gene Keys) and **Authentic Mutative Expression** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Expression flows from full assimilation—knowing has been allowed to settle before being articulated.
 - Insights are simple and clear, complexity having fallen away.
@@ -299,7 +299,7 @@ The Signature of operating correctly through Strategy and Authority (for the Thr
 - **Clarity without complexity**—the message is simple and penetrating
 - **Influence through example**—those who resonate are transformed without being taught
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 23 teaches that **true knowing requires assimilation and the courage to speak even when it fractures consensus**. When the individual honors their Strategy and Authority, allows complexity to split apart, and articulates simple truth from integrity, they become a **living example** of mutation. This is the essence of the Individual Knowing Circuit—to introduce new possibilities through authentic expression, not pedagogy.
 

@@ -9,6 +9,7 @@ verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983, De Angeles 2006, DuQuette 2008)"
 ---
+# The Tarot
 *The Legend of the Soul* 
 
 ---
@@ -448,7 +449,7 @@ The 22 Major Arcana tell a **sequential narrative**—the soul's journey from in
 
 **Pathworking** is a meditative practice of **visionary journey** along the Paths of the Tree of Life, using a Major Arcanum as the gateway.
 
-**Method:**
+#### Method
 1. **Select a Path** — Choose a Major Arcanum (e.g., [[2 - The High Priestess]], path of Gimel)
 2. **Prepare sacred space** — Banishing ritual, candles, incense
 3. **Gaze at the card** — Study the imagery until it's internalized

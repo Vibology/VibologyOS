@@ -16,6 +16,7 @@ planetary: Jupiter in Pisces
 decan: Pisces 10°-20° (2nd Decan)
 title: Lord of Material Happiness
 ---
+# Nine of Cups
 *The Lord of Material Happiness*
 
 ---

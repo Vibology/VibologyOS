@@ -282,7 +282,7 @@ The Osirian Mysteries taught initiates that **death is not the end**—the Self 
 
 This is **gnosis**—direct knowledge that consciousness is indestructible. Not belief, but experience.
 
-**Alchemical Parallel:**
+#### Alchemical Parallel
 - Murder = Nigredo (blackening, putrefaction)
 - Dismemberment = Separatio (dissolution into elements)
 - Reassembly = Coagulatio (reconstitution)
@@ -362,7 +362,7 @@ The **Duat** is not a place but a **state of consciousness**—the realm between
 - The Hall of Two Truths (Ma'ati) where the Weighing of the Heart occurs
 - Pits of fire where the damned are punished (not eternal, but purificatory)
 
-**Psychological Meaning:**
+#### Psychological Meaning
 The Duat is the **unconscious** in its totality—not just the personal shadow but the **collective unconscious** with its demons (autonomous complexes), guides (helpful figures), and ultimate judges (the Self).
 
 ### The Book of the Dead — Navigational Manual
@@ -379,7 +379,7 @@ The **Book of the Dead** (properly titled *Book of Coming Forth by Day*) is a co
 - **Spell 125:** The Negative Confession and Weighing of the Heart (see Section 6).
 - **Spell 148:** Providing food and drink for the deceased (the psyche must be nourished in the underworld—ritual, symbol, meaning).
 
-**Psychological Interpretation:**
+#### Psychological Interpretation
 The Book of the Dead is a **manual for navigating ego death**—depression, trauma, psychosis, dark night of the soul. Each "spell" is a psychological truth or practice:
 
 - **Knowing the names of demons:** Identifying the autonomous complexes (naming them removes their power).
@@ -415,7 +415,7 @@ The deceased stands before the Forty-Two Judges and declares what they have *not
 
 (The full confession lists forty-two transgressions, one for each judge.)
 
-**Psychological Meaning:**
+#### Psychological Meaning
 This is **shadow work**—the honest inventory of one's life. Not "what I accomplished" but "what harm I avoided, what integrity I maintained." The negative form is crucial: it is easier to claim virtue ("I am good") than to deny vice ("I have not lied"). The Confession forces radical honesty.
 
 **Phase 2 — The Weighing:**
@@ -425,7 +425,7 @@ If the heart is **lighter than or equal to the feather**, the soul passes. Osiri
 
 If the heart is **heavier than the feather** (burdened with unintegrated shadow, lies, cruelty, chaos), Ammit devours it. The soul is annihilated—the **second death**, true oblivion.
 
-**Psychological Meaning:**
+#### Psychological Meaning
 The heart represents the **totality of one's consciousness**—thoughts, emotions, deeds, intentions. Ma'at's feather is the **archetypal standard**—the Self's inherent order.
 
 **Heavy heart = ego burdened with shadow:**
@@ -451,14 +451,14 @@ Thoth records the result. The deceased either:
 **The Field of Reeds (Aaru):**
 Paradise—a perfected version of Egypt, with abundant harvests, no suffering, eternal peace. The deceased lives as they did in life but without hardship.
 
-**Psychological Meaning:**
+#### Psychological Meaning
 The Field of Reeds is **wholeness**—the psyche at peace, ego and Self in harmony, no longer tormented by shadow. It is not "heaven" (escape from embodiment) but *life perfected*—the same life, but integrated.
 
 ### The Ethical Demand
 
 Unlike many mythologies, Egyptian myth does not offer **grace** or **forgiveness**. There is no savior, no sacrifice that redeems the soul. The Weighing of the Heart is **objective judgment**—you are what you are. Ma'at is not negotiable.
 
-**Psychological Meaning:**
+#### Psychological Meaning
 The psyche cannot be fooled. You cannot lie to the unconscious. The Weighing of the Heart is the moment when all self-deception falls away, and you see yourself as you truly are. Integration requires ruthless honesty.
 
 **Yet there is preparation:**
@@ -475,14 +475,14 @@ Jung's **ethical confrontation with the Self**—the moment in analysis when the
 
 The pharaoh is not merely a king but a **living god**—the incarnation of Horus, the son of Osiris, the upholder of Ma'at. Upon death, the pharaoh becomes Osiris, descending to the Duat to rule the dead, while his successor becomes the new Horus.
 
-**Psychological Meaning:**
+#### Psychological Meaning
 The pharaoh represents the **Ego aligned with the Self**—consciousness that knows itself to be serving a transpersonal reality (Ma'at, the archetypes). This is the goal of individuation: not ego inflation (claiming to *be* the Self) but ego in *service* to the Self.
 
 ### The Divine Marriage
 
 The pharaoh's queen is often associated with **Hathor** or **Isis**—the Great Mother, the anima. The royal marriage is a **hieros gamos** (sacred marriage)—the union of masculine consciousness (pharaoh/Horus) and feminine soul (queen/Isis), producing stability and fertility for the land.
 
-**Psychological Meaning:**
+#### Psychological Meaning
 Wholeness requires the integration of contrasexual opposites—the man must relate consciously to his anima (not project her), the woman to her animus. The pharaoh and queen model this integration.
 
 ### Upholding Ma'at
@@ -495,14 +495,14 @@ The pharaoh's primary duty is to **uphold Ma'at**—ensure that cosmic order is 
 
 When the pharaoh fails (tyranny, neglect, hubris), Ma'at collapses, and Egypt suffers—drought, famine, war, internal strife. The pharaoh's personal alignment with Ma'at *affects the collective*.
 
-**Psychological Meaning:**
+#### Psychological Meaning
 The ego's alignment (or misalignment) with the Self affects the entire psyche. When the ego inflates or disintegrates, the personality suffers—neurosis, psychosis, addiction. The individual is a microcosm of the collective—personal Ma'at contributes to collective Ma'at.
 
 ### The Sed Festival — Renewal of Sovereignty
 
 After thirty years of rule, the pharaoh celebrates the **Sed Festival** (Heb-Sed)—a ritual death and rebirth. The pharaoh symbolically dies, descends to the underworld, and is resurrected, renewing his divine power.
 
-**Psychological Meaning:**
+#### Psychological Meaning
 Even the ego aligned with the Self must periodically **die and be reborn**—descend into the unconscious, confront shadow, and emerge renewed. Individuation is not a one-time event but a continuous cycle. The Sed Festival ritualizes this necessity.
 
 ---
@@ -580,7 +580,7 @@ Even the ego aligned with the Self must periodically **die and be reborn**—des
 
 ### Shadow Work: The Egyptian Model
 
-**Method:**
+#### Method
 
 1. **The Negative Confession (Shadow Inventory):**
    Sit with the Forty-Two Confessions. For each, ask honestly: "Have I done this?"
@@ -964,7 +964,7 @@ The physical mummification mirrors the psychic work:
 - **The Trickster:** Set (in some aspects—chaos, disruption, necessary destruction)
 - **The Threshold Guardian:** Demons at gates of Duat (must be passed by speaking words of power)
 
-**Cross-archetype dynamics:**
+#### Cross-archetype dynamics
 
 - Osiris (dying god) requires Isis (anima) to resurrect and produce Horus (Divine Child/new ego)
 - Ra (Self) requires Set (shadow) to defend against Apep (chaos)
@@ -1114,7 +1114,7 @@ Death is transformation, not annihilation. The Self (Ra, Osiris, Akh) is indestr
 **Primary Egyptian Sources:**
 Core mythological narratives (cosmology, pantheon, Osirian cycle, Ra's journey, and funerary practices) are drawn from canonical ancient Egyptian sources including the *Pyramid Texts*, *Coffin Texts*, *Book of the Dead* (Book of Coming Forth by Day), *Amduat* (Book of What Is in the Underworld), and *Book of Gates*. These texts span millennia of Egyptian religious tradition and inform the archetypal framework.
 
-**Vibrology Synthesis:**
+#### Vibrology Synthesis
 All Jungian archetypal analysis (interpreting Egyptian myths through the lens of Shadow, Anima/Animus, Self, Individuation, etc.) represents scholarly synthesis rather than ancient Egyptian understanding. Cross-system correspondences (Tarot, Astrology, Alchemy, Human Design, Qabalah) are Vibrology's integrative framework, not part of the original mythological tradition. The alchemical correlations (Nigredo, Albedo, Citrinitas, Rubedo, mummification as alchemical process) apply Renaissance hermetic symbolism to Egyptian narrative patterns. Egyptian cosmology deeply influenced Western alchemy, but the explicit connections drawn here are modern interpretive additions.
 
 ---

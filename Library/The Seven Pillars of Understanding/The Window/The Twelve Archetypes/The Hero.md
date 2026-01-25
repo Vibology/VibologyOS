@@ -12,6 +12,7 @@ gate: 34
 hexagram: 34 (The Power of the Great)
 gene_keys: Force → Strength → Majesty
 ---
+# The Hero
 *Superman - The First Responder*
 
 ---
@@ -74,18 +75,18 @@ In sacred traditions, Majesty corresponds to the realized warrior whose actions 
 
 ---
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 You are being called to **act with power in service to what is right**. The situation demands a hero—someone willing to be first, to take the risk, to use their strength for others. This is not the time for hesitation or self-doubt. Your power is needed. The Hero's journey is beginning, or you are being tested at a threshold. Answer the call.
 
 The appearance of The Hero also suggests that **power is available**. Gate 34's life-force is activating—energy for action, capacity for impact. The question is whether you will channel this power toward service or dissipate it through ego expression.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware the temptation to dominate rather than empower. Force without wisdom becomes tyranny. Busy-ness without purpose exhausts. Are you proving your strength or actually serving? Is your power creating safety or demanding submission? The Bully and the Machismo performer wear the Hero's mask but serve only ego. Check whether your action aligns with moral purpose or merely demonstrates capacity.
 
-**Gift Aspect:**
+#### Gift Aspect
 Your strength empowers others. When you act from alignment—moral compass calibrated, power channeled toward protection—you become the first responder the moment requires. Lead the charge. Others will follow. Your momentum creates possibility. The gift is not just having power but knowing **how and when** to use it. Strength serves; force dominates. Choose strength.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 You embody Majesty—power so aligned with cosmic order that it requires no justification. Your presence alone transforms situations. You have become the superior man who treads only upon paths that accord with rightness. Force has dissolved into grace. At this frequency, you don't decide to help—helping is what you are. The Hero has merged with heroism itself.
 
 ---

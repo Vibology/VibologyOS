@@ -11,6 +11,7 @@ verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
+# 7 - The Chariot
 *The Lord of the Triumph of Light*
 
 ---
@@ -55,7 +56,7 @@ The key insight is that The Chariot always deals with **the paradox of victory t
 ## Divination Use
 **Upright:** Triumph, victory, conquest on all planes, providence, success through discipline, mastery of opposing forces, ego-strength, forward motion, the mobile fortress, leading captivity captive. Keywords: Victory, control, willpower, directed energy, triumph through integration.
 
-**Reversed (per Waite):**
+#### Reversed (per Waite)
 Riot, quarrel, dispute, litigation, defeat. Loss of control, internal division externalized as conflict, opposing forces in chaos, burnout, exhaustion, collapse of will, premature victory, conquest masking defeat.
 
 ---

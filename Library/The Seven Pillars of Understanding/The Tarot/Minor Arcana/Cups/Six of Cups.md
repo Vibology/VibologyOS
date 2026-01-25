@@ -15,6 +15,7 @@ planetary: Sun in Scorpio
 decan: Scorpio 10°-20° (2nd Decan)
 title: Lord of Pleasure
 ---
+# Six of Cups
 *The Lord of Pleasure*
 
 ---
@@ -316,7 +317,7 @@ The Five of Cups is grief, loss, and fixation on what is gone. The Five stared a
 **Following Card: [[Seven of Cups]]**
 The Seven of Cups is fantasy, illusion, and the confusion of imagination with reality. If the Six is healthy memory (recalling what *was*), the Seven is unhealthy imagination (projecting what might be without grounding). The movement from Six to Seven is the movement from past to future, from remembering to fantasizing.
 
-**Corresponding Cards in Other Suits:**
+#### Corresponding Cards in Other Suits
 - **[[Six of Wands]]** (Fire): Victory and public recognition. Where Cups remembers privately, Wands celebrates publicly.
 - **[[Six of Swords]]** (Air): Passage and transition. Both Sixes involve movement—Cups moves through time (memory), Swords moves through space (journey).
 - **[[Six of Pentacles]]** (Earth): Generosity and balance of resources. Both Sixes involve giving—Cups gives emotionally, Pentacles gives materially.

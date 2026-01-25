@@ -14,6 +14,7 @@ qabalistic_world: Assiah (Material World)
 sephirah: Kether
 title: Root of the Powers of Earth
 ---
+# Ace of Pentacles
 
 *The Root of the Powers of Earth*
 

@@ -86,18 +86,18 @@ In sacred traditions, this is the realized master whose every gesture manifests 
 ---
 
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 Stability signals that **your foundation is solid when you are present to it**. You are being called to recognize and trust the ground you stand on—not through anxious preparation or defensive rigidity but through conscious presence in this moment. The question is: **are you actually here? Is your attention in your body, in this place, in this moment?**
 
 The appearance of Stability also suggests that **presence creates the foundation you seek**. Gate 20's contemplative awareness is activating—circumstances support grounded recognition, the ground is ready to be inhabited. The question is whether you will actually stand on it or continue fragmenting consciousness across time.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware the trap of **superficial presence masquerading as stability**—performing groundedness without inhabiting your body, speaking mindfulness language while consciousness remains scattered. The shadow manifests as stability theater: appearing centered while internally fragmented, executing presence rituals without feeling the ground. Check whether your stability is embodied (felt physically) or merely conceptual (thought about). Shadow also warns against **dismissing depth for efficiency**: skimming presence rather than inhabiting it fully.
 
-**Gift Aspect:**
+#### Gift Aspect
 When Stability expresses its gift, you embody **self-assurance that requires no external validation because you are actually here**. Your confidence emerges from presence itself—from knowing you occupy your body, stand on your ground, meet this moment with consciousness undivided. This is the gift of **inhabited foundation**: you walk with certainty not because you know the future but because you are fully present now, and from that presence, right response emerges naturally.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 In its highest expression, Stability becomes **Presence**—such complete embodiment that the eternal shines through the temporal, such full inhabitation that time dissolves into now. You embody the realized master whose groundedness is portal to the timeless. Those who touch this frequency demonstrate that **stability is not about circumstances but about attention**—that consciousness fully present cannot be destabilized because destabilization requires fragmentation, and presence is indivisible.
 
 ---

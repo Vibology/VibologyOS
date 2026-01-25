@@ -11,6 +11,7 @@ gate: 29
 hexagram: 29 (The Abysmal)
 gene_keys: Half-Heartedness → Commitment → Devotion
 ---
+# Conviction
 *The Abysmal - Internal Mandate to Act*
 
 ---
@@ -64,16 +65,16 @@ Half-Heartedness → Commitment → Devotion
 
 ---
 ## Oracle Reading
-**When this portal appears:**
+#### When this portal appears
 You are being called to commit. Something requires your deep yes—not casual agreement but **Sacral engagement** that will demand perseverance through difficulty. The abyss is opening. The question is: can you say yes with such sincerity that retreat becomes irrelevant? Can you trust your life force to sustain what your commitment begins? Conviction calls: **dive fully or not at all**—the deep within the deep drowns those who wade without conviction.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware half-heartedness disguised as caution—saying yes while keeping exit strategies, committing superficially, entering the abyss with reservation. The shadow wavers, makes promises it doesn't keep, says yes with the mind while the Sacral says no. Beware also recklessness disguised as conviction: diving without assessment (Line 3 detriment), committing to abysses that drown rather than teach. True conviction requires **informed yes**—assessment followed by full engagement.
 
-**Gift Aspect:**
+#### Gift Aspect
 Your Sacral has responded deeply. This yes is not wavering but certain—you have **life force adequate to the commitment**. Now persevere: water flows without stopping, sincerity navigates danger, commitment creates its own path through the abyss. You are the drafted soldier who accepts the call with grace, the lover who says yes knowing marriage will test everything, the seeker who commits to transformation despite knowing it will shatter comfort.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 You embody Devotion—the recognition that commitment is prayer, that perseverance is love, that saying yes to what calls you is saying yes to existence itself. You are water flowing uninterruptedly toward ocean, the deep within the deep that knows its destination. Conviction as cosmic principle: **all things reach their goal through sustained engagement**. The abyss is the path. Your yes is the boat.
 
 ---

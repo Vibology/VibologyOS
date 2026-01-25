@@ -9,6 +9,7 @@ verification_date: 2026-01-25
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
 verification_notes: "Variables mechanics verified against Grimoire. Advanced layer (Color/Tone/Base calculations) marked as educational synthesis."
 ---
+# Variables
 *The Four Transformations of consciousness*
 
 ---
@@ -187,7 +188,7 @@ Since each of the four Variables can be either **Left (Strategic)** or **Right (
 
 **Format:** Determination / Environment / Perspective / Motivation
 
-**Examples:**
+#### Examples
 - **L L L L** (Quad Left) - Fully Strategic across all four domains
 - **R R R R** (Quad Right) - Fully Receptive across all four domains
 - **L R L R** - Mixed (Strategic digestion/perspective, Receptive environment/motivation)

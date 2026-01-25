@@ -120,7 +120,7 @@ The Individual Circuit cannot empower through conformity—it must **preserve un
 
 Gate 38 forms **Channel 38-28: Struggle** when connected to Gate 28 in the Spleen.
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 
 - **Gate 38 (Root):** "I am under pressure to oppose, to fight, to struggle."
 - **Gate 28 (Spleen):** "I intuitively know what is worth fighting for, what gives meaning to the struggle."
@@ -130,7 +130,7 @@ When this channel is defined, the individual has **consistent access to purposef
 
 **Without the channel defined** (only Gate 38 activated), the individual experiences **pressure to oppose** but may lack the intuitive knowing of *what* is worth fighting for. They need someone with Gate 28 to complete the circuit.
 
-**Interpersonal Electromagnetic Dynamics:**
+#### Interpersonal Electromagnetic Dynamics
 
 - **Both have Channel 38-28:** Mutual struggle for meaning. Potential for shared purpose or competing opposition.
 - **One has Gate 38, other has Gate 28:** The Gate 38 person provides pressure to fight; the Gate 28 person provides intuitive purpose. This can be transformative.
@@ -140,14 +140,14 @@ When this channel is defined, the individual has **consistent access to purposef
 
 Gate 38 is located in the **Root Center**, which corresponds biologically to the **adrenal glands** and the **stress response system**. The Root is the center of **pressure**—the drive that keeps the body alert, motivated, and ready to act.
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 38 defined may experience:
 - **Chronic pressure to oppose or fight**—the body feels tense, vigilant, ready for struggle
 - **Adrenal activation**—stress hormones (cortisol, adrenaline) elevated when opposition is present or anticipated
 - **Exhaustion if struggle lacks meaning**—burnout from fighting without purpose (Not-Self pattern)
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Root Center radiates **pressure** into the aura. When Gate 38 is active, the aura carries a frequency that says: "I am under pressure to oppose. I am looking for what's worth fighting for." Others may feel this as **intense**, **combative**, or (if in Not-Self) **aggressively oppositional**.
 
@@ -185,7 +185,7 @@ The pressure to oppose is inconsistent (activated by transits or others). The Re
 - **Paranoia:** Seeing enemies everywhere, fighting based on assumption rather than truth (line 4 detriment).
 - **Burnout:** Exhaustion from fighting battles that have no meaning.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Feeling constantly under pressure to fight or oppose
 - Exhaustion from chronic struggle without satisfaction
@@ -213,7 +213,7 @@ The **7-year deconditioning cycle** for Gate 38 involves learning to recognize w
 
 **Year 7:** Integration phase—struggle becomes **perseverance** (Gene Keys Gift) rather than compulsion. The individual fights only for purpose, opposes only to preserve integrity. Struggle becomes honor.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice where pressure to fight arises in the body. Is it the root (Gate 38)? The spleen (fear/intuition)? Or absorbed from others?
 - Practice **waiting for Authority** before engaging in opposition.
@@ -257,14 +257,14 @@ In Jungian terms, Gate 38 corresponds to the **Warrior Archetype** and the psych
 
 The Warrior fights for principle, stands alone when necessary, preserves integrity through opposition. This is not the bully or the aggressor—it is the one who refuses meaninglessness.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 38** manifests as:
 - **Compulsive Opposition:** Fighting automatically, unable to cooperate or align.
 - **Isolation as Defense:** Using opposition to avoid intimacy or vulnerability.
 - **Violence Without Ethics:** Fighting without honor, cruelty disguised as principle.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 38, individuation requires:
 1. **Separation from Compulsive Fighting:** Recognizing when opposition is purposeful versus when it is conditioned.
@@ -277,7 +277,7 @@ When integrated, Gate 38 becomes the expression of **Honour**—standing for int
 
 When the individual with Gate 38 operates according to their Strategy and Authority, the gift that emerges is **Perseverance** (Gene Keys) and **Purposeful Opposition** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Fighting becomes **purposeful**—opposing only what diminishes integrity.
 - Struggle becomes **meaningful**—the individual knows what they're fighting for.
@@ -292,7 +292,7 @@ The Signature of correct Root Center pressure is **release and satisfaction**. F
 - Opposing meaningfully, not compulsively
 - Experiencing struggle as purposeful rather than exhausting
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 38 teaches that **opposition preserves integrity**. When the individual honors their pressure to fight only for meaning, they become a **living example** of the warrior who stands for truth.
 

@@ -16,6 +16,7 @@ planetary: Jupiter in Capricorn
 decan: First decan of Capricorn (0°-10°)
 title: Lord of Harmonious Change
 ---
+# Two of Pentacles
 
 *Jupiter in Capricorn - The first decan of Capricorn*
 

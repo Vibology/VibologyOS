@@ -86,18 +86,18 @@ In sacred traditions, this is the saint whose love requires no object because th
 ---
 
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 Passion signals that **your vitality is innocent and deserves expression**. You are being called to love existence without agenda, to allow the spirit's natural fire to burn freely, to stop constricting your aliveness into acceptable channels. The question is: **where are you holding back your natural passion? What conditioning tells you that innocent enthusiasm is inappropriate?**
 
 The appearance of Passion also suggests that **acceptance opens the channels that constriction closes**. Gate 25's innocent spirit is activating—circumstances support unconditional engagement with life. The question is whether you will love existence as it is or continue demanding it meet conditions before you fully engage.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware the trap of **constricted passion**—forcing vitality into narrow channels, loving only what meets conditions, allowing innocence to be squeezed by fear or shame. The shadow manifests as enthusiasm that apologizes, passion that negotiates, aliveness that hides. Check whether your vitality flows freely or has been dammed by conditioning. Shadow also warns against **forced passion**: trying to manufacture innocent enthusiasm, performing vitality without feeling it, simulating love to meet expectations.
 
-**Gift Aspect:**
+#### Gift Aspect
 When Passion expresses its gift, you embody **acceptance that liberates vitality**. You love being alive without needing reasons, without demanding perfection, without conditions. This is the gift of **uncontrived presence**: your passion flows because you have stopped constricting the spirit's natural state. From this acceptance, life becomes inherently meaningful—not because it fulfills expectations but because existence itself is sacred.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 In its highest expression, Passion becomes **Universal Love**—the recognition that your innocent vitality is not separate from cosmic love, that the spirit loving existence through you is the same spirit loving existence through all beings. You embody the mystic whose fire illuminates without consuming, whose passion embraces all that is. Those who touch this frequency become **portals through which the universe's love for itself flows unobstructed**.
 
 ---

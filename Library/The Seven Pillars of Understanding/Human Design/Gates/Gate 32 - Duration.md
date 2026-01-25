@@ -122,7 +122,7 @@ The Tribal Circuit is not about individual risk or collective experimentation—
 
 Gate 32 forms **Channel 32-54: Transformation** when connected to Gate 54 in the Root Center.
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 
 - **Gate 32 (Spleen):** "I intuitively know what will endure and what will fail."
 - **Gate 54 (Root):** "I am driven by ambition to transform my position, to climb the hierarchy."
@@ -132,7 +132,7 @@ When this channel is defined, the individual has **consistent access to ambitiou
 
 **Without the channel defined** (only Gate 32 activated), the individual experiences **intuitive awareness of failure** but may lack the ambition or drive to transform their position. They need another person with Gate 54 to complete the electromagnetic circuit—someone who provides the ambition that Gate 32's wisdom can guide.
 
-**Interpersonal Electromagnetic Dynamics:**
+#### Interpersonal Electromagnetic Dynamics
 
 - **Both have Channel 32-54:** Potential competition for tribal position or complementary ambition, depending on maturity.
 - **One has Gate 32, other has Gate 54:** The Gate 32 person provides survival wisdom; the Gate 54 person provides ambition. This can be profoundly generative in business or family partnerships.
@@ -142,14 +142,14 @@ When this channel is defined, the individual has **consistent access to ambitiou
 
 Gate 32 is located in the **Spleen Center**, which corresponds biologically to the **lymphatic system, spleen organ, and immune response**. The Spleen is the center of **existential survival awareness**—the body's ancient intelligence that discerns safety from danger, health from illness, what endures from what fails.
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 32 defined may experience:
 - A deep **somatic awareness of sustainability**—an intuitive "knowing" when something feels unstable or unsustainable
 - **Lymphatic sensitivity** if not living aligned with survival wisdom (the lymphatic system processes toxins; fear of failure that is ignored can manifest as immune compromise)
 - A felt sense of **continuity or discontinuity**—the body knows before the mind whether something will last
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Spleen Center radiates **survival awareness** into the aura. When Gate 32 is active, the aura carries a frequency that says: "Will this endure? Can we afford this failure? Is this sustainable?" Others may feel this as **cautious**, **conservative**, or (if the individual is in Not-Self) **fearful and risk-averse**.
 
@@ -191,7 +191,7 @@ This is **survival intuition in real time**. The body knows immediately whether 
 - **Projection of Failure:** Assuming others' endeavors will fail, unable to support new initiatives.
 - **Risk Aversion:** Avoiding all change, mistaking stagnation for endurance.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Feeling paralyzed by fear of failure, unable to make decisions
 - Clinging to failing strategies because change feels unsafe
@@ -219,7 +219,7 @@ The **7-year deconditioning cycle** for Gate 32 involves learning to recognize w
 
 **Year 7:** Integration phase—fear of failure becomes **preservation wisdom** (Gene Keys Gift) rather than anxiety. The individual trusts what endures without clinging, adapts without fear, and knows when to conserve and when to invest.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice where fear of failure arises in the body. Is it the spleen (Gate 32)? The gut (Sacral)? The mind (Ajna)? Or absorbed emotional anxiety (Solar Plexus)?
 - Practice **honoring the first splenic knowing**—when the body says "this will not endure," trust it without needing mental justification.
@@ -269,14 +269,14 @@ In Jungian terms, Gate 32 corresponds to the **Fear of Annihilation** and the **
 
 The Conservator archetype seeks to preserve what has proven valuable, to build continuity through strategic caution, to honor tradition and proven methods. This is the tribal elder, the accountant, the guardian of resources who ensures the family survives.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 32** manifests as:
 - **Paranoia and Catastrophizing:** Constantly anticipating failure, unable to trust in any outcome.
 - **Rigidity and Stagnation:** Clinging to obsolete strategies because change feels too risky.
 - **Scarcity Consciousness:** Hoarding resources, unable to invest or share, believing there will never be enough.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 32, individuation requires:
 1. **Separation from Conditioned Fear:** Recognizing when fear of failure is authentic splenic wisdom versus absorbed anxiety.
@@ -289,7 +289,7 @@ When integrated, Gate 32 becomes the expression of the **Wise Conservator**—th
 
 When the individual with Gate 32 operates according to their Strategy and Authority, the gift that emerges is **Preservation** (Gene Keys) and **Survival Wisdom** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Fear of failure becomes **discernment**—knowing what will endure and what will not, without anxiety.
 - Conservation becomes **strategic**—preserving resources without hoarding, investing wisely without recklessness.
@@ -304,7 +304,7 @@ The Signature of the Spleen Center (for all gates within it) is the experience o
 - **Feeling safe in what endures** without needing mental justification
 - **Adapting without fear** when survival wisdom indicates change is necessary
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 32 teaches that **endurance is not rigidity—it is adaptive wisdom**. When the individual honors their splenic awareness and trusts in continuity, they become a **living example** of what it means to preserve what is valuable while releasing what no longer serves. This is the essence of the Tribal Ego Circuit—not to hoard resources, but to **ensure the tribe survives through wise stewardship**.
 

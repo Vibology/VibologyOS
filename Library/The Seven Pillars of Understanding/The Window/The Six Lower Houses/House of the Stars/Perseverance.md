@@ -86,18 +86,18 @@ In sacred traditions, this is the warrior whose honor is not contingent on victo
 ---
 
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 Perseverance signals that **mastery requires fighting through opposition**. You are being called to continue despite difficulty, to honor the struggle rather than resent it, to recognize that what you're facing is not obstacle but crucible. This is not a time to surrender or seek easier paths; it is a time to dig in and fight with integrity. The card affirms: this struggle is part of your achievement. Will you endure it with honor?
 
 The appearance of Perseverance also suggests that **the fight is meaningful**. Gate 38's opposition is activating—the pressure to struggle serves purpose. The question is whether you will engage this opposition skillfully or either collapse under it or fight blindly without strategy.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware the trap of **struggle as meaningless suffering**. Are you fighting for something or simply fighting? Check whether your opposition serves mastery or merely creates drama. Shadow also warns against **martyrdom that mistakes suffering for virtue**—choosing difficulty when ease is available, identifying with struggle rather than achievement. Perseverance is not performing hardship; it's enduring difficulty that serves purpose.
 
-**Gift Aspect:**
+#### Gift Aspect
 When Perseverance expresses its gift, you embody **sustained effort through meaningful opposition**. You fight for what matters with integrity. You endure difficulty without either surrendering or becoming bitter. This is the gift of **honored struggle**—opposition faced with courage, setback met with persistence, difficulty endured with dignity. Your fighting spirit serves mastery rather than ego.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 In its highest expression, Perseverance becomes **Honor**—the recognition that the struggle itself is sacred, that fighting for what matters with integrity is its own reward regardless of outcome. You don't persevere for victory; you persevere because persevering is correct. Those who touch this frequency understand that **honor lives in the fighting, not the winning**—that the warrior's dignity comes from the quality of their struggle, not the certainty of their triumph.
 
 ---

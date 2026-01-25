@@ -11,6 +11,7 @@ gate: 24
 hexagram: 24 (The Return)
 gene_keys: Addiction → Invention → Silence
 ---
+# Culmination
 *The Return - Completion of the Cycle*
 
 ---
@@ -63,16 +64,16 @@ Addiction → Invention → Silence
 
 ---
 ## Oracle Reading
-**When this portal appears:**
+#### When this portal appears
 You are completing a cycle. Something that has been building—project, relationship, understanding, life phase—has reached **natural conclusion**. This is not failure or abandonment but **organic completion**. The question is: can you recognize the harvest? Can you gather what this cycle has yielded without addictive repetition, without forcing continuation past its season? Culmination calls: **return to origin, integrate the fruit, allow the cycle to complete so the next can begin**.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware addiction disguised as dedication—returning compulsively rather than consciously, cycling without harvesting, refusing completion from fear of what comes after. The shadow clings to process, mistakes repetition for progress, avoids the silence that follows completion. Beware also premature closure: forcing completion before the cycle has fully ripened, gathering green fruit because you're impatient for harvest. True culmination requires **recognition**—knowing when return has yielded its gift.
 
-**Gift Aspect:**
+#### Gift Aspect
 Your repetitive return has created invention. The cycling was not waste but refinement—each iteration brought you closer to this understanding. You have **earned the harvest** through patience with process. Now gather consciously: what has this cycle taught? What fruit can you carry forward? What must be left behind so the field can rest? Culmination as gift recognizes: completion is not ending but **transformation through conscious closure**.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 You embody the wisdom of return. You have learned that all cycles complete themselves, that completion is return to silence from which new beginning emerges. You are the thunder beneath earth, the stirring that knows its season, the mind that thinks until thinking dissolves into understanding. Culmination as cosmic principle: **going out and coming in without error**, trusting the seventh day, allowing harvest to gather itself when time is ripe.
 
 ---

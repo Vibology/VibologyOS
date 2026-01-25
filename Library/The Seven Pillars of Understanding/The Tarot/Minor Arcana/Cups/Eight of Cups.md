@@ -15,6 +15,7 @@ planetary: Saturn in Pisces
 decan: Pisces 0°-10° (1st Decan)
 title: Lord of Abandoned Success
 ---
+# Eight of Cups
 *The Lord of Abandoned Success*
 
 ---
@@ -324,7 +325,7 @@ The Seven of Cups is fantasy, illusion, paralysis among possibilities. The Seven
 **Following Card: [[Nine of Cups]]**
 The Nine of Cups is wish fulfillment, satisfaction, the "wish card." If the Eight is renunciation, the Nine is *reward*—but reward for having renounced, for having sought something deeper. The Eight walks away from eight cups; the Nine sits contentedly with nine. The journey from Eight to Nine is the journey through the wilderness to the promised land.
 
-**Corresponding Cards in Other Suits:**
+#### Corresponding Cards in Other Suits
 - **[[Eight of Wands]]** (Fire): Swiftness and direct action. Where Cups departs slowly, deliberately, Wands moves fast and straight.
 - **[[Eight of Swords]]** (Air): Interference and restriction. Where Cups chooses to leave, Swords feels trapped and cannot leave.
 - **[[Eight of Pentacles]]** (Earth): Prudence and craftsmanship. Where Cups abandons its work, Pentacles diligently continues.

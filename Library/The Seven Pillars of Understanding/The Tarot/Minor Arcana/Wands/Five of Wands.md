@@ -15,6 +15,7 @@ planetary: Saturn in Leo
 decan: Leo 0°-10° (1st Decan)
 title: Lord of Strife
 ---
+# Five of Wands
 *The Lord of Strife*
 
 ---
@@ -326,7 +327,7 @@ The Four of Wands is celebration, completion, harmony, rest—the festival after
 **Following Card: [[Six of Wands]]**
 The Six of Wands is victory, recognition, the triumphal procession. If the Five is the battle, the Six is *winning* the battle. The Five is the struggle; the Six is the reward for prevailing in that struggle. The Five tests you; the Six celebrates that you passed the test.
 
-**Corresponding Cards in Other Suits:**
+#### Corresponding Cards in Other Suits
 - **[[Five of Cups]]** (Water): Emotional loss, grief, mourning. Where Wands fights, Cups grieves.
 - **[[Five of Swords]]** (Air): Intellectual defeat, hollow victory, cruelty. Where Wands competes (sometimes healthily), Swords *destroys*.
 - **[[Five of Pentacles]]** (Earth): Material hardship, poverty, exclusion. Where Wands has *too much* energy (scattered, chaotic), Pentacles has *too little* (lack, deprivation).

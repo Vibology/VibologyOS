@@ -446,7 +446,7 @@ This is **process-oriented healing**: pollution is not permanent stain but tempo
 
 ### Shadow Work: The Shinto Model
 
-**Method:**
+#### Method
 
 1. **Identify your tsumi:** What pollutes you? (Not moral sin but energetic blockage: resentment, trauma, unprocessed grief, toxic relationships)
 2. **Perform harae:** Create purification ritual (cold water bathing, salt baths, writing and burning shadow material, reciting release prayers)
@@ -945,7 +945,7 @@ Shinto cosmology maps the **individuation process** with precision:
 **Primary Japanese Sources:**
 Core mythological narratives (cosmology, kami pantheon, and sacred cycles) are drawn from canonical Japanese sources including the *Kojiki* (Records of Ancient Matters), *Nihon Shoki* (Chronicles of Japan), and Shinto ritual traditions. These texts preserve Japan's indigenous mythology and inform the archetypal framework.
 
-**Vibrology Synthesis:**
+#### Vibrology Synthesis
 All Jungian archetypal analysis (interpreting Japanese myths through the lens of Shadow, Anima/Animus, Self, Individuation, etc.) represents scholarly synthesis rather than traditional Shinto understanding. Cross-system correspondences (Tarot, Astrology, Alchemy, Human Design, Qabalah) are Vibrology's integrative framework, not part of the original Shinto tradition. The alchemical correlations (Izanami's death as Nigredo, Amaterasu's return as Albedo) apply Western hermetic symbolism to Japanese narrative patterns.
 
 ---

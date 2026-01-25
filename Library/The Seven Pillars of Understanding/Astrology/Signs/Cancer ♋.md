@@ -184,7 +184,7 @@ In traditional medical astrology, Cancer governs the **receptive and digestive o
 
 Cancer's shadow is **the Devouring Mother**—love that consumes, protection that imprisons, nurturance that creates dependency rather than autonomy.
 
-**Shadow expressions:**
+#### Shadow expressions
 - **Enmeshment:** The inability to distinguish self from other, the mother who lives through her children, the partner who has no identity outside the relationship.
 - **Emotional Manipulation:** Guilt as weapon, love as obligation, the martyr who ensures everyone knows the cost of their sacrifice.
 - **Clinging to the Past:** The idealization of childhood, the refusal to move forward, the home that becomes tomb rather than sanctuary.

@@ -199,7 +199,7 @@ In traditional medical astrology, Pisces governs the **dissolution and purificat
 
 Pisces' shadow is **the Victim**—suffering as identity, martyrdom as defense, the refusal to claim agency or boundaries.
 
-**Shadow expressions:**
+#### Shadow expressions
 - **Martyrdom:** The belief that suffering is noble, that self-sacrifice is the highest virtue, the refusal to claim one's own needs.
 - **Escapism:** The use of substances, fantasy, or spiritual bypassing to avoid the pain of incarnation, the refusal to engage with material reality.
 - **Codependency:** The need to merge, the terror of being alone, the loss of self in relationship, the inability to distinguish "I" from "we."

@@ -350,7 +350,7 @@ Fairy tales preserve the Divine Child motif in archetypal purity. The Child appe
 - **The Frog King:** The princess's **golden ball** (a perfect mandala) falls into the well (the unconscious). The repulsive Frog (the Shadow) retrieves it, demanding that the princess honor her promise. When she accepts (or violently confronts) the Frog, he transforms into the prince, and the golden ball (wholeness) is restored.
 - **The Golden Goose:** A young fool (the Divine Child as simpleton) is kind to an old man (Wise Old Man) and receives a golden goose. All who touch the goose become stuck to it, creating a chain of people forced into involuntary community. The Child's innocence breaks through isolation and creates connection.
 
-**Psychological Interpretation:**
+#### Psychological Interpretation
 
 The fairy tale Child is always:
 1. **Threatened** (abandoned, cursed, hunted)—because the new Self is initially rejected by the ego
@@ -766,7 +766,7 @@ Jung's final word:
 
 The Divine Child, as an archetype of **futurity and renewal**, is inherently **androgynous** in its essence—it represents the synthesis of opposites, the union of masculine and feminine. However, its **realization** in individual lives is colored by gender, culture, and the contrasexual archetype.
 
-**In Men:**
+#### In Men
 
 For men, the Divine Child often appears in relationship to the **Anima** (the feminine soul-image). The Anima acts as the **nurturer and protector** of the vulnerable new Self. Without integrating the Anima (eros, feeling, relatedness, vulnerability), men struggle to access the Divine Child.
 
@@ -781,7 +781,7 @@ For men, the Divine Child often appears in relationship to the **Anima** (the fe
 - **Serve the Child rather than possess it:** Men must resist the temptation to **control** the creative process or the literal child. The task is **midwifery**, not mastery.
 - **Unite Puer and Senex:** The healthy man embodies **both** the wonder of the Child and the wisdom of the Elder.
 
-**In Women:**
+#### In Women
 
 For women, the Divine Child often appears in relationship to the **Animus** (the masculine soul-image). The Animus acts as the **guardian and protector** of the new Self, defending it from premature exposure or destruction. Without integrating the Animus (logos, authority, creative power), women struggle to **actualize** the Divine Child.
 

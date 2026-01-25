@@ -70,7 +70,7 @@ Gemini is the mutable air sign that connects, translates, and moves between. Mer
 
 The **ruler of the 3rd House** (the planet ruling the sign on the 3rd House cusp) reveals *how* you process and communicate information.
 
-**Examples:**
+#### Examples
 - **Mercury ruling 3rd → Gemini/Virgo on 3rd cusp** — Communication is rapid, analytical, detail-oriented
 - **Jupiter ruling 3rd → Sagittarius/Pisces on 3rd cusp** — Communication is expansive, philosophical, storytelling
 - **Saturn ruling 3rd → Capricorn/Aquarius on 3rd cusp** — Communication is structured, cautious, authoritative

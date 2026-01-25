@@ -68,7 +68,7 @@ Aquarius is the fixed air sign that does not adapt (Gemini) or balance (Libra) b
 
 The **ruler of the 11th House** (the planet ruling the sign on the 11th House cusp) reveals *how* you build community and what you hope for.
 
-**Examples:**
+#### Examples
 - **Venus ruling 11th → Taurus/Libra on 11th cusp** — Community through beauty, hopes for harmony, friendships built on shared aesthetics
 - **Mars ruling 11th → Aries/Scorpio on 11th cusp** — Community through action, hopes for transformation, friendships forged in intensity
 - **Saturn ruling 11th → Capricorn/Aquarius on 11th cusp** — Community through discipline, hopes earned through effort, friendships as enduring structures

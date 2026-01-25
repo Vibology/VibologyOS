@@ -122,7 +122,7 @@ Because the Logic Circuit is designed to understand **patterns that serve the co
 
 Gate 4 forms **Channel 4-63: Logic** when connected to Gate 63 in the Head Center.
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 
 - **Gate 4 (Ajna):** "I will formulate an answer to resolve this mental pressure."
 - **Gate 63 (Head):** "I feel the pressure of doubt, the need to know what comes next."
@@ -136,7 +136,7 @@ The gift of Channel 4-63 is **mental clarity through pattern recognition**. The 
 
 **Without the channel defined** (only Gate 4 activated), the individual has the mental capacity to formulate but may not feel consistent **pressure to do so**. They need someone with Gate 63 to complete the electromagnetic circuit—someone who brings the mental pressure that activates their formulation capacity.
 
-**Interpersonal Electromagnetic Dynamics:**
+#### Interpersonal Electromagnetic Dynamics
 
 - **Both have Channel 4-63:** Potential mental collaboration or competition, depending on whether their formulas align or conflict.
 - **One has Gate 4, other has Gate 63:** The Gate 63 person brings the doubt/pressure; the Gate 4 person provides the formula. This can be intellectually generative.
@@ -146,14 +146,14 @@ The gift of Channel 4-63 is **mental clarity through pattern recognition**. The 
 
 Gate 4 is located in the **Ajna Center**, which corresponds biologically to the **neocortex** (the outer layer of the brain responsible for higher-order thinking, pattern recognition, and conceptualization) and the **pituitary gland**.
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 4 defined may experience:
 - A constant **mental hum**—the mind always formulating, organizing, seeking patterns
 - **Mental fatigue** when overthinking or when formulas fail to resolve uncertainty
 - Heightened **pattern recognition**—seeing connections, frameworks, and structures that others miss
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Ajna Center does not radiate into the aura in the same way motor centers do—it is an **awareness center**, generating mental clarity for the self and (if connected to Throat) for others. When Gate 4 is active, the mental field carries a frequency of **"I can explain this"**—the capacity to create frameworks that organize chaos.
 
@@ -195,7 +195,7 @@ The mental formulation is inconsistent (activated only by transits or others). T
 - **Mental Anxiety:** The pressure to have answers for everything, leading to chronic mental strain.
 - **Seeking Certainty:** Refusing to accept youthful folly (uncertainty), demanding absolute mental clarity before acting.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Feeling mentally inadequate or "not smart enough"
 - Believing the mind must have all answers before action is possible
@@ -223,7 +223,7 @@ The **7-year deconditioning cycle** for Gate 4 involves learning to hold mental 
 
 **Year 7:** Integration phase—mental formulation becomes aligned with Strategy and Authority. The individual moves from **intolerance** (Gene Keys Shadow) to **understanding** (Gift) to **forgiveness** (Siddhi)—the recognition that all mental formulas are provisional, and that's beautiful.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice where mental formulation lives in the body. Is it tension in the forehead? A tightness in the jaw? A restlessness?
 - Practice **mental spaciousness**—allowing questions to exist without forcing immediate answers.
@@ -274,14 +274,14 @@ In Jungian terms, Gate 4 corresponds to the **Thinking Function** (specifically 
 
 The Seeker of Patterns is the mind that sees connections, creates frameworks, organizes chaos. But the shadow is **premature certainty**—believing that the map is the territory, confusing the formula with reality.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 4** manifests as:
 - **Mental Inflation:** Believing one's formulas are absolute truth, leading to dogmatism or intellectual arrogance.
 - **Intellectual Dishonesty (Line 4):** Presenting guesses as certainties, using mental beguiling to manipulate.
 - **Fear of Ignorance:** Avoiding situations where one does not already have a formula, staying in the known.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 4, individuation requires:
 1. **Accepting Folly (Line 2):** Embracing inexperience as the precondition of all learning.
@@ -294,7 +294,7 @@ When integrated, Gate 4 becomes the **embodied capacity to understand provisiona
 
 When the individual with Gate 4 operates according to their Strategy and Authority, the gift that emerges is **Understanding** (Gene Keys) and **Mental Clarity Without Dogma** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Mental formulas emerge naturally, without force or mental strain.
 - The individual recognizes formulas as **provisional tools**, not absolute truths.
@@ -309,7 +309,7 @@ The Signature of the Ajna Center (for those with Ajna definition) is **Mental Cl
 - **Comfort with uncertainty**—recognizing that mental frameworks are always evolving
 - **Freedom from mental dogma**—holding formulas lightly, updating them as needed
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 4 teaches that **the mind is a beautiful tool for understanding, not for deciding**. When the individual honors their Strategy and Authority, allows mental formulas to inform without controlling, and embraces youthful folly as the natural state of learning, they become a **living example** of wisdom without rigidity. This is the essence of the Logic Circuit—not to impose understanding, but to **share patterns that serve the collective**.
 

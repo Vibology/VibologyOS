@@ -15,6 +15,7 @@ planetary: Jupiter in Libra
 decan: Third decan of Libra (20-30 degrees)
 title: Lord of Rest from Strife
 ---
+# Four of Swords
 
 *Lord of Rest from Strife*
 

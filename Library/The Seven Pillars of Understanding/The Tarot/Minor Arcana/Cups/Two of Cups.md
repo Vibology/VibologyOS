@@ -297,7 +297,7 @@ The Ace is the overflowing chalice, the gift of divine love descending into the 
 **Following Card: [[Three of Cups]]**
 The Three of Cups is the expansion of the dyad into community. Where the Two is private, intimate, between two souls, the Three is public, celebratory, shared joy. The couple becomes the party; the pledge becomes the wedding reception. The Three says, "Our love is so full it spills over into the world." But the Three is only possible if the Two is stable. The bond between two must be strong enough to expand without dissolving.
 
-**Corresponding Cards in Other Suits:**
+#### Corresponding Cards in Other Suits
 - **[[Two of Wands]]** (Fire): The Will choosing between paths—relationship as *choice* and *intention*.
 - **[[Two of Swords]]** (Air): The Mind in stalemate—relationship requires *decision*, the willingness to remove the blindfold and see clearly.
 - **[[Two of Pentacles]]** (Earth): The juggling of resources—relationship requires *balance*, the ability to hold multiple commitments without dropping either.

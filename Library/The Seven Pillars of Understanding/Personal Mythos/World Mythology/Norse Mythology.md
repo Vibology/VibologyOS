@@ -577,7 +577,7 @@ The gods' intermarriage with giants shows that **consciousness cannot exist with
 
 ### Shadow Work: The Norse Model
 
-**Method:**
+#### Method
 
 1. **Identify Your Bound Wolf:** What rage, desire, or instinct have you repressed? Where is your Fenrir chained?
 
@@ -838,7 +838,7 @@ Jung: *"Odin is the god of poets, the dead, and the hanged—those who have pass
 - **The Divine Child:** Baldr (innocent radiance destroyed and reborn)
 - **The Self:** Yggdrasil (the structure holding all), Wyrd (the pattern woven by Norns), post-Ragnarök renewal
 
-**Cross-archetype dynamics:**
+#### Cross-archetype dynamics
 
 - Odin (Wise Old Man) needs Loki (Trickster) to prevent stagnation
 - Thor (Hero) needs Fenrir (Shadow) to have purpose
@@ -981,7 +981,7 @@ Jung: *"Odin is the god of poets, the dead, and the hanged—those who have pass
 **Primary Norse Sources:**
 Core mythological narratives (cosmology, pantheon, Ragnarök, runes, and hero cycles) are drawn from canonical Old Norse sources including the *Poetic Edda*, *Prose Edda* (Snorri Sturluson), *Völuspá*, *Hávamál*, and Icelandic sagas. These medieval texts preserve pre-Christian Germanic and Scandinavian mythology and inform the archetypal framework.
 
-**Vibrology Synthesis:**
+#### Vibrology Synthesis
 All Jungian archetypal analysis (interpreting Norse myths through the lens of Shadow, Anima/Animus, Self, Individuation, etc.) represents scholarly synthesis rather than medieval Norse understanding. Cross-system correspondences (Tarot, Astrology, Alchemy, Human Design, Qabalah) are Vibrology's integrative framework, not part of the original mythological tradition. The alchemical correlations (Nigredo, Albedo, Citrinitas, Rubedo) apply Renaissance hermetic symbolism to Norse narrative patterns. Rune correspondences to psychological functions are modern interpretive additions.
 
 ---

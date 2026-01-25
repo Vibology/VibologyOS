@@ -59,7 +59,7 @@ The **spinning wheel** represents the alchemical operation of **Rotatio**—the 
 
 **Woven cloth** represents the **integrated product** of spinning—the fabric of reality itself, created through the interlacing of **warp** (vertical threads = masculine, spirit, structure) and **weft** (horizontal threads = feminine, matter, embodiment). This is the **Coniunctio**, the sacred marriage of opposites that produces **wholeness**.
 
-**Examples:**
+#### Examples
 - **Penelope's shroud** (Odyssey) – Weaving by day, unweaving by night, holding time in suspension until the hero returns
 - **Philomela's tapestry** (Greek myth) – Weaving the story of her rape when speech is stolen, truth told through pattern
 - **The Bayeux Tapestry** (medieval) – History woven into cloth, making abstract events concrete and visible
@@ -108,7 +108,7 @@ The **shadow** of spinning manifests as:
 
 At her christening, the thirteenth fairy (the uninvited, the [[Shadow]]) curses the princess: on her fifteenth birthday, she will **prick her finger on a spindle and die**. A kinder fairy softens the curse to **sleep for one hundred years**. The king bans all spinning wheels from the kingdom, but fate cannot be thwarted. On her fifteenth birthday, the princess discovers an old woman spinning in a tower and, compelled by curiosity, touches the spindle—and falls unconscious.
 
-**Psychological Reading:**
+#### Psychological Reading
 - **The spindle prick** = Loss of virginity, sexual awakening, the wound of embodiment
 - **The sleep** = The **Nigredo**, the descent into the unconscious necessary for transformation from girl to woman
 - **One hundred years** = Timelessness—the unconscious does not operate in linear time; individuation cannot be rushed
@@ -123,7 +123,7 @@ A miller boasts that his daughter can **spin straw into gold**. The king locks h
 
 Through cunning (a messenger overhears him singing his name), she succeeds. In his rage, Rumpelstiltskin **tears himself in two**.
 
-**Psychological Reading:**
+#### Psychological Reading
 - **Spinning straw into gold** = The neurotic demand to manufacture consciousness where there is no substance—the **false self**, the inflation, the pretense of having developed when one has not
 - **Rumpelstiltskin** = The **shadow side of the masculine creative principle**—productivity divorced from Eros, compulsive work as defense against emptiness, the dwarf (stunted masculine) who can create but not relate
 - **The firstborn child** = The sacrifice of **future potential** on the altar of present achievement—giving up new life (creativity, growth, relationship) to maintain the inflated identity
@@ -138,7 +138,7 @@ A lazy girl is punished by her mother for not spinning. A queen passing by misun
 
 At the wedding, the prince asks why they are deformed. They explain: spinning. Horrified, he **forbids his bride from ever spinning again**.
 
-**Psychological Reading:**
+#### Psychological Reading
 - **The three old women** = The **Fates** (Spinner, Measurer, Cutter) or the **triple goddess** (Maiden, Mother, Crone)
 - **Their deformities** = The **cost of one-sided development**—doing the same work obsessively creates physical and psychic deformation
 - **The bride freed from spinning** = Integration of the **masculine principle** (the prince) who recognizes the destructive nature of compulsive, unrewarded feminine labor
@@ -276,7 +276,7 @@ The fabric emerges from their **interlacing**—not domination of one over the o
 
 **Orihime** (Weaving Princess) and **Hikoboshi** (Cowherd) fall in love and neglect their duties—she stops weaving, he stops tending cattle. Orihime's father, the Sky King, separates them across the **Milky Way** (the River of Heaven), allowing them to meet only **once a year** on the seventh day of the seventh month. On that night, magpies form a bridge of wings across the river.
 
-**Psychological Reading:**
+#### Psychological Reading
 - **Weaving** = The sacred feminine work that must continue even within relationship
 - **Separation across the river** = The **tension of opposites**—masculine and feminine, work and love, duty and desire
 - **Annual reunion** = The **periodic integration** of opposites (Coniunctio) that sustains creation
@@ -291,7 +291,7 @@ The fabric emerges from their **interlacing**—not domination of one over the o
 
 The **Bean Nighe** (Washer Woman) appears at rivers, washing the bloodstained clothes of those about to die. She is a **fate figure**, her washing a form of **preparation** for death—cleaning the soul's garment before the crossing.
 
-**Psychological Reading:**
+#### Psychological Reading
 - **Washing** = A variant of spinning/weaving—**purification**, preparing the psyche for transition
 - **The river** = The boundary between conscious and unconscious, life and death
 - **Bloodstained clothes** = The **karma**, the patterns accumulated through life, being cleansed before rebirth
@@ -361,12 +361,12 @@ The **Bean Nighe** (Washer Woman) appears at rivers, washing the bloodstained cl
 - [[The Ordeal]] – The spindle prick, the wound that initiates descent
 - [[Return with the Elixir]] – The golden thread, consciousness brought back from the unconscious
 
-**Individuation Process:**
+#### Individuation Process
 - [[Confrontation with Shadow]] – Naming Rumpelstiltskin, seeing the compulsive patterns
 - [[Encounter with Anima-Animus]] – The prince's kiss awakening Sleeping Beauty
 - [[Integration and Wholeness]] – Weaving disparate threads into coherent fabric
 
-**Alchemical Stages:**
+#### Alchemical Stages
 - [[Nigredo]] – The dark night, the one-hundred-year sleep
 - [[Albedo]] – Purification, the thread refined through spinning
 - [[Citrinitas]] – The golden thread, consciousness emerging

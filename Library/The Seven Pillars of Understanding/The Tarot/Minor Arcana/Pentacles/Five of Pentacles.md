@@ -16,6 +16,7 @@ planetary: Mercury in Taurus
 decan: First decan of Taurus (0°-10°)
 title: Lord of Material Trouble
 ---
+# Five of Pentacles
 
 *Mercury in Taurus - The first decan of Taurus*
 

@@ -12,6 +12,7 @@ gate: 41
 hexagram: 41 (Decrease)
 gene_keys: Expectation → Anticipation → Ecstasy
 ---
+# The Persona
 *Ziggy Stardust - The Constructed Mask*
 
 ---
@@ -74,18 +75,18 @@ In sacred traditions, Ecstasy corresponds to the recognition that consciousness 
 
 ---
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 You are being called to **construct the self the moment requires**. This is not the time for raw authenticity. Withdraw into imagination. Fantasize the ideal character for this stage. Then perform brilliantly. The Persona is not deception—it is strategic creation. Who do you need to become? The theatrical self is awakening.
 
 The appearance of The Persona also suggests that **performance is appropriate**. Gate 41's fantasy function is activating—the pressure to imagine new experience, new identity, new possibility. The question is whether you will construct consciously or become lost in the construct.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware expectation disguised as imagination—demanding that reality match the fantasy, losing yourself in the character, confusing performance with truth. The Persona who cannot remove the mask, who believes Ziggy is real, who exhausts themselves maintaining impossible identity. Beware also over-construction: so many masks that no face remains beneath them. Check whether your performance serves expression or escapes from truth.
 
-**Gift Aspect:**
+#### Gift Aspect
 Your imagination creates the self. You can withdraw into fantasy, design the ideal character, then perform it with conviction. The world is your stage, identity is costume. You are Leo actualized—the star who knows stardom is constructed but shines brilliantly anyway. Each role is experiment, each mask is art. The gift is **conscious theatrical creation**—performing with full commitment while knowing the performance is not permanent.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 You embody Ecstasy—the recognition that consciousness itself is the ultimate Persona, that the universe performs infinite identities for its own delight. You have transcended the question "which self is real?" because you know: **all are real, none are final, ecstasy is the play itself**. You are the cosmic performer who has realized that performing and being are not opposites but one movement.
 
 ---

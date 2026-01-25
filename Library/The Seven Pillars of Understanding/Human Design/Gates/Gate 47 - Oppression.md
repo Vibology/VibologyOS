@@ -122,7 +122,7 @@ Because the Understanding Circuit operates through **experiential pattern recogn
 
 Gate 47 forms **Channel 47-64: Abstraction (Mental Clarity / Confusion)** when connected to Gate 64 in the Head Center.
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 
 - **Gate 47 (Ajna Center):** "I am under pressure to realize and make sense of experience."
 - **Gate 64 (Head Center):** "I am under pressure to contemplate past experiences and find patterns."
@@ -132,7 +132,7 @@ When this channel is defined, the individual has **consistent access to mental p
 
 **Without the channel defined** (only Gate 47 activated), the individual experiences the pressure to realize but may lack the contemplative depth (Gate 64) to reach clarity. They need another person with Gate 64 to complete the electromagnetic circuit—someone who provides the mental processing for their realization.
 
-**Interpersonal Electromagnetic Dynamics:**
+#### Interpersonal Electromagnetic Dynamics
 
 - **Both have Channel 47-64:** Mutual mental pressure. Can be generative (collaborative contemplation) or overwhelming (compounding confusion).
 - **One has Gate 47, other has Gate 64:** The Gate 64 person provides contemplation; the Gate 47 person provides realization. This creates a powerful partnership for understanding.
@@ -142,14 +142,14 @@ When this channel is defined, the individual has **consistent access to mental p
 
 Gate 47 is located in the **Ajna Center**, which corresponds biologically to the **pituitary gland** and, specifically for Gate 47, the **pineal gland** (mental pressure and cognitive processing). The Ajna Center generates conceptual awareness and mental pressure.
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 47 defined may experience:
 - A deep **mental pressure**—a felt sense of needing to understand, realize, or make sense
 - **Pineal activation**—pressure in the third eye region, headaches when mental pressure is unresolved
 - **Cognitive tension**—the mind working constantly to abstract meaning
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Ajna Center radiates **conceptual awareness** into the aura. When Gate 47 is active, the aura carries a frequency that says: "I am contemplating. I am under pressure to understand." Others may feel this as **thoughtful**, **intense**, or (if the individual is in Not-Self) **mentally oppressive or exhausting**.
 
@@ -186,7 +186,7 @@ The mental pressure is inconsistent (activated only by transits or others). The 
 - **Over-Thinking:** Attempting to realize through mental force rather than allowing contemplation to unfold.
 - **Forcing Understanding:** Demanding premature clarity, creating false realizations.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Feeling chronically mentally oppressed or confused
 - Trying to figure everything out intellectually
@@ -214,7 +214,7 @@ The **7-year deconditioning cycle** for Gate 47 involves learning to recognize w
 
 **Year 7:** Integration phase—mental pressure becomes **transmutation** (Gene Keys Gift) rather than oppression. The individual contemplates without suffering, trusting realization will emerge in its timing.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice where mental pressure arises in the body. Is it pressure in the head (Ajna/Head)? Or mental anxiety (misidentified pressure)?
 - Practice **holding questions without demanding answers**—contemplating without forcing realization.
@@ -264,14 +264,14 @@ In Jungian terms, Gate 47 corresponds to the **Contemplative Function** and the 
 
 The Contemplative archetype holds the capacity to endure mental pressure in service of understanding. This is not the Thinker (casual ideation) but the **Deep Contemplative**—the one who suffers mentally until clarity emerges.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 47** manifests as:
 - **Mental Martyrdom:** Suffering mentally as identity or proof of worthiness.
 - **Confusion Addiction:** Remaining confused to avoid the responsibility of realization.
 - **Intellectual Tyranny:** Demanding that all experience be understood intellectually, rejecting mystery.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 47, individuation requires:
 1. **Trusting Contemplation:** Recognizing that mental pressure is not punishment but necessary process.
@@ -284,7 +284,7 @@ When integrated, Gate 47 becomes the **mental alchemist**—the capacity to tran
 
 When the individual with Gate 47 operates according to their Strategy and Authority, the gift that emerges is **Transmutation** (Gene Keys) and **Mental Clarity** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Mental pressure is held without suffering—contemplation becomes meditative rather than oppressive.
 - The individual trusts the timing of realization, releasing the demand for immediate understanding.
@@ -299,7 +299,7 @@ The Signature of the Ajna Center (for all gates within it) is **Mental Clarity a
 - **Peace with not-knowing**—accepting that realization has its own timing
 - **Transmutation of oppression** into wisdom
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 47 teaches that **mental pressure is sacred**. When the individual honors their need to contemplate—holding questions without demanding immediate answers, trusting realization will come—they become a **living example** of mental alchemy. This is the essence of the Collective Understanding Circuit—to transform confusion into clarity for collective benefit.
 

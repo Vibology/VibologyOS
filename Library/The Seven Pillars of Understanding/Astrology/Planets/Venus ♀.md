@@ -196,7 +196,7 @@ Venus has a unique relationship with the [[Sun ☉]], never straying more than *
 ## Shadow Expression
 The shadow of Venus is **vanity and superficiality**—the collapse of value into appearance, the equation of worth with beauty, wealth, or approval.
 
-**Shadow expressions:**
+#### Shadow expressions
 - **The Vain Narcissist:** Identity collapse into the aesthetic surface; self-worth dependent on being desired, admired, or adorned
 - **The People-Pleaser:** Codependency disguised as love; the collapse of personal values to maintain relational harmony
 - **The Materialist:** Worth measured by possession; love commodified, relationships transactional

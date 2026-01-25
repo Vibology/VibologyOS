@@ -169,7 +169,7 @@ In esoteric anatomy, Gemini governs the **lungs** (breath, the exchange between 
 
 Gemini's shadow is **scatteredness without coherence**—the collector of fragments who never assembles them into whole, the conversationalist who never listens, the shapeshifter who forgets which face is theirs.
 
-**Shadow expressions:**
+#### Shadow expressions
 - **Superficiality:** Breadth without depth; the dilettante who knows a little about everything and a lot about nothing
 - **Duplicity:** The liar who believes their own stories; the trickster who manipulates through selective truth
 - **Restlessness:** The inability to sit still, to commit, to finish what was started

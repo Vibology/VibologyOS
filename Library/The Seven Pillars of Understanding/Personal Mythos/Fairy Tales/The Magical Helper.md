@@ -496,7 +496,7 @@ Across Native American traditions, the **animal helper** is central:
 - The hero who **honors her despite revulsion** discovers she is a **beautiful goddess in disguise**
 - She represents **sovereignty, the land, the feminine power** that the hero must **accept as partner, not conquer as prize**
 
-**Examples:**
+#### Examples
 - **The Wedding of Sir Gawain and Dame Ragnelle** – The loathly lady becomes beautiful when Gawain grants her "sovereignty" (autonomy, choice)
 - **Niall of the Nine Hostages** – Kisses the hag at the well; she transforms into the Goddess of Sovereignty and grants him kingship
 
@@ -611,7 +611,7 @@ If you can name no such moments, either:
 
 **Synchronicity** (Jung's acausal connecting principle) is the Helper's **modern manifestation**—the objective psyche arranging external events to communicate with the ego.
 
-**Examples:**
+#### Examples
 - The book that falls open to the exact passage you needed
 - The stranger who speaks the truth you've been avoiding
 - The "chance" encounter that changes your life
@@ -673,7 +673,7 @@ When facing an **impossible task** (the problem the ego alone cannot solve):
 ---
 
 ## Cross-References
-**Archetypal Figures:**
+#### Archetypal Figures
 [[The Alchemist]] • [[The Muse]] • [[The Idol]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] • [[The Wise Old Man]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] • [[The Shadow]] • [[The Trickster]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Hero]]
 
 **Jungian Concepts:**
@@ -685,22 +685,22 @@ When facing an **impossible task** (the problem the ego alone cannot solve):
 **Alchemical Concepts:**
 [[Mercurius]] • [[Philosopher's Stone]] • [[Solve et Coagula]] • [[Nigredo]] • [[Albedo]] • [[Rubedo]] • [[Prima Materia]] • [[Homunculus]] • [[Athanor]]
 
-**Mythological Parallels:**
+#### Mythological Parallels
 [[Athena]] • [[Hermes]] • [[Psyche and Eros]] • [[Demeter and Persephone]] • [[Baba Yaga]] • [[Avalokiteshvara]] • [[Tara]] • [[The Loathly Lady]] • [[Sovereignty Goddess]]
 
-**Fairy Tale Motifs:**
+#### Fairy Tale Motifs
 [[The Doll]] • [[The Helpful Animal]] • [[The Impossible Task]] • [[The Fairy Godmother]] • [[The Talking Bird]] • [[The Magic Object]] • [[The Disguised Helper]] • [[The Three Gifts]] • [[The White Duck]]
 
-**Related Tales:**
+#### Related Tales
 [[Cinderella]] • [[Beauty and the Beast]] • [[Hansel and Gretel]] • [[Snow White]] • [[Sleeping Beauty]] • [[The Frog Prince]] • [[The Two Brothers]] • [[Rapunzel]] • [[Vasilisa the Beautiful]]
 
-**Human Design Connections:**
+#### Human Design Connections
 [[Spleen Center]] • [[Sacral Center]] • [[G-Center]] • [[Emotional Authority]] • [[Splenic Authority]] • [[Intuition]] • [[Instinct]]
 
-**Individuation Process:**
+#### Individuation Process
 [[Ego Formation and Childhood]] • [[Confrontation with Shadow]] • [[Encounter with Anima-Animus]] • [[Confrontation with the Self]] • [[Integration and Wholeness]]
 
-**Hero's Journey Stages:**
+#### Hero's Journey Stages
 [[Meeting the Mentor]] • [[Supernatural Aid]] • [[Crossing the First Threshold]] • [[Tests, Allies, and Enemies]] • [[The Ordeal]] • [[Return with the Elixir]]
 
 **World Mythology:**

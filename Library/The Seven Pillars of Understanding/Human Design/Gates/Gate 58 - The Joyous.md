@@ -124,7 +124,7 @@ Gate 58 forms one channel:
 
 **Channel 58-18: Judgment (The Critic)** (Root to Spleen)
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 - **Gate 58 (Root):** "I have the pressure to identify what's wrong."
 - **Gate 18 (Spleen):** "I have the intuitive awareness to correct what's wrong."
 - **Channel 58-18:** The bridge between pressure and correction—the capacity for **judgment that serves evolution**.
@@ -137,7 +137,7 @@ This channel creates the archetype of **The Critic**—the one who sees flaws no
 
 Gate 58 is located in the **Root Center**, which corresponds biologically to the **adrenal glands** (cortisol and adrenaline production) and the **stress response system**. This center generates the fuel that drives action.
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 58 defined may experience:
 - A **baseline pressure to improve, fix, or refine**—the body is never fully at rest
@@ -145,7 +145,7 @@ Individuals with Gate 58 defined may experience:
 - **High baseline energy** when the pressure is channeled correctly; exhaustion when the vitality is suppressed or misdirected
 - **Physical restlessness** when there's nothing to correct; the body seeks the next pattern to perfect
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Root Center radiates **pressure and fuel** into the aura. When Gate 58 is active, the aura carries a frequency that says: "I see what needs to be corrected. Let me improve this." Others may feel this as **motivating**, **critical** (if the vitality is ungrounded), or (if the individual is in Not-Self) **anxious and hypercritical**.
 
@@ -183,7 +183,7 @@ The 28-day lunar cycle allows the Reflector to sample Gate 58's pressure across 
 - **Perfectionism:** The belief that nothing is good enough; correction becomes compulsion.
 - **Joylessness:** The paradox of The Joyous—vitality without pleasure, pressure without satisfaction.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Chronic dissatisfaction even when life is objectively good
 - Criticizing without contributing solutions
@@ -212,7 +212,7 @@ The **7-year deconditioning cycle** for Gate 58 involves learning to recognize w
 
 **Year 7:** Integration phase—the pressure to perfect becomes aligned with Strategy and Authority. Dissatisfaction transforms into Vitality (Gene Keys Gift), and the individual experiences **the joy of correction** rather than the burden of never enough. Bliss flows naturally when correction serves evolution.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice when the pressure arises. Is it in the Root (authentic biological drive) or the mind (conditioned anxiety)?
 - Practice **channeling correction through Strategy and Authority**—wait for the response, the invitation, the moment of clarity.
@@ -262,14 +262,14 @@ In Jungian terms, Gate 58 corresponds to the **Drive for Perfection** and the te
 
 The Craftsman archetype refines endlessly—not from dissatisfaction with the self, but from love of the work. This is not the critic who tears down, but the artisan who sees the hidden potential in raw material. Gate 58 is the craftsman's capacity to **never settle for less than what could be**.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 58** manifests as:
 - **Perfectionism:** The belief that nothing (including the self) is ever good enough; correction becomes self-punishment.
 - **Projection of Inadequacy:** Seeing one's own imperfection in others and attacking it externally.
 - **Burnout:** The vitality exhausts itself because rest feels like failure.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 58, individuation requires:
 1. **Integration of Acceptance and Correction:** Recognizing that both have value; correction serves evolution, acceptance preserves sanity.
@@ -282,7 +282,7 @@ When integrated, Gate 58 becomes the expression of the **Vital Self**—the life
 
 When the individual with Gate 58 operates according to their Strategy and Authority, the gift that emerges is **Vitality** (Gene Keys) and **Joyful Correction** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - The pressure to correct flows naturally, without anxiety or compulsion.
 - The individual channels vitality into patterns that genuinely need refinement, releasing the rest.
@@ -297,7 +297,7 @@ The Signature of the Root Center (for all gates within it) is the experience of 
 - **Productive dissatisfaction**—seeing what's wrong becomes fuel for evolution, not burden
 - **Rest when correction is complete**, releasing the need to perfect endlessly
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 58 teaches that **dissatisfaction is fuel, not failure**. When the individual honors their pressure to perfect according to Strategy and Authority, they become a **living example** of what it means to refine patterns in service to collective evolution, to correct without condemning, to improve without losing joy. This is the essence of the Logic Circuit—not to accept blindly, but to **test, correct, and evolve**.
 

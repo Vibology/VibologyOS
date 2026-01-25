@@ -69,7 +69,7 @@ Pisces is the mutable water sign that does not contain (Cancer) or transform (Sc
 
 The **ruler of the 12th House** (the planet ruling the sign on the 12th House cusp) reveals *how* you experience dissolution and what remains hidden.
 
-**Examples:**
+#### Examples
 - **Mercury ruling 12th → Gemini/Virgo on 12th cusp** — Hidden enemies are mental (anxiety, overthinking), service through communication, mysticism through study
 - **Venus ruling 12th → Taurus/Libra on 12th cusp** — Hidden enemies are relational patterns, service through beauty, mysticism through love
 - **Mars ruling 12th → Aries/Scorpio on 12th cusp** — Hidden enemies are anger/aggression turned inward, service through action, mysticism through crisis

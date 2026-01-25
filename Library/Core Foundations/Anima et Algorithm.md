@@ -276,36 +276,36 @@ Each of the [[Seven-Coordinate Navigation|Seven Pillars]] contains both Algorith
 
 ### Daily Practice Structure
 
-**Morning (Algorithm):**
+#### Morning (Algorithm)
 - Review transits, Human Design daily gate activations
 - Read relevant Tarot/I-Ching/library entries
 - Set conscious intention based on archetypal weather
 
-**Throughout Day (Anima):**
+#### Throughout Day (Anima)
 - Test decisions through Inner Authority (Sacral response, emotional wave, splenic hits)
 - Notice synchronicities, dreams, bodily sensations
 - Track which algorithmic predictions prove accurate through lived experience
 
-**Evening (Syn-Gnosis):**
+#### Evening (Syn-Gnosis)
 - Journal integration—*"What did the Algorithm predict? What did the Anima experience? Where did they align or diverge?"*
 - Refine understanding based on feedback loop
 - Commit insights to the Obsidian vault for future cross-reference
 
 ### Warning Signs of Imbalance
 
-**Too Much Algorithm:**
+#### Too Much Algorithm
 - Constantly studying, never practicing
 - Paralysis by analysis—can't make decisions without consulting charts
 - Spiritual inflation—identifying as the knowledge rather than the experiencer
 - Disconnection from body, emotions, intuition
 
-**Too Much Anima:**
+#### Too Much Anima
 - Rejecting all structure as "limiting"
 - Mistaking emotional overwhelm for spiritual experience
 - No discernment between genuine gnosis and projection
 - Unable to articulate insights or teach others
 
-**The Goal:**
+#### The Goal
 - You **know** the systems (Algorithm)
 - You **live** the systems (Anima)
 - You **are** transformed by the systems (Syn-Gnosis)

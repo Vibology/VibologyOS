@@ -158,7 +158,7 @@ The Sun's aspects to other planets reveal how the core identity interfaces with 
 ## Shadow Expression
 The Sun's shadow is **grandiosity**—the ego that believes itself to be the Self, the solar inflation that demands constant validation and recognition.
 
-**Shadow expressions:**
+#### Shadow expressions
 - **The Tyrant:** Domination, authoritarianism, inability to share the stage
 - **The Narcissist:** Identity collapse without external admiration
 - **The Performer:** Life as constant performance; fear of being "ordinary"

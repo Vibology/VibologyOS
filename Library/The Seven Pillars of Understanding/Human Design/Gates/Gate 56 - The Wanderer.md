@@ -122,7 +122,7 @@ Because the Sensing/Abstract Circuit learns through lived experience, narrative 
 
 Gate 56 forms **Channel 11-56: Curiosity** when connected to Gate 11 in the Ajna Center.
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 
 - **Gate 56 (Throat Center):** "I believe this story is worth sharing; let me stimulate your understanding."
 - **Gate 11 (Ajna Center):** "I have ideas and concepts waiting to be articulated into story."
@@ -132,7 +132,7 @@ When this channel is defined, the individual has **consistent access to stimulat
 
 **Without the channel defined** (only Gate 56 activated), the individual experiences the impulse to tell stories but may lack the ideational content of Gate 11. They need another person with Gate 11 to complete the circuit—someone who can provide the concepts to narratize.
 
-**Interpersonal Electromagnetic Dynamics:**
+#### Interpersonal Electromagnetic Dynamics
 
 - **Both have Channel 11-56:** Potential for storytelling competition or mutual enrichment through shared narratives, depending on maturity.
 - **One has Gate 56, other has Gate 11:** The Gate 56 person provides the narrative voice; the Gate 11 person provides the ideas. This can be profoundly generative in teaching or creative partnerships.
@@ -142,7 +142,7 @@ When this channel is defined, the individual has **consistent access to stimulat
 
 Gate 56 is located in the **Throat Center**, which corresponds biologically to the **thyroid** (vocal power, metabolic regulation), the **larynx** (voice production), and the **narrative processing centers** of the brain.
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 56 defined may experience:
 - A **somatic need to speak and share stories**—the throat feels activated when experiences are ready to be narrated
@@ -150,7 +150,7 @@ Individuals with Gate 56 defined may experience:
 - **Memory organized narratively**—experiences are stored as stories rather than abstract data
 - **Vocal fatigue or throat tension** when storytelling is blocked or when the audience is not receptive
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Throat Center radiates **manifestation and expression** into the aura. When Gate 56 is active, the aura carries a frequency that says: "I have stories to share. Listen and be enriched." Others may feel this as **engaging**, **overwhelming** (if the stories are excessive), or (if the individual is in Not-Self) **distracting and unfocused**.
 
@@ -188,7 +188,7 @@ The storytelling impulse is inconsistent (activated only by transits or others).
 - **Narrative Addiction:** Constantly seeking new experiences to have something to share, rather than allowing depth.
 - **Audience Blindness:** Failing to read the room, sharing stories that alienate or bore.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Talking excessively without awareness of impact
 - Feeling the need to "have something interesting to say" at all times
@@ -217,7 +217,7 @@ The **7-year deconditioning cycle** for Gate 56 involves learning to recognize w
 
 **Year 7:** Integration phase—storytelling becomes aligned with Strategy and Authority. The individual shares when correct, enriching others naturally. Stories serve wisdom, not ego. Enrichment flows naturally (Gene Keys Gift).
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice where the impulse to share arises in the body. Is it the throat (expression)? The solar plexus (emotion)? Or a deep, authentic knowing?
 - Practice **silence and stillness** to counterbalance the storytelling impulse, allowing depth to emerge.
@@ -267,14 +267,14 @@ In Jungian terms, Gate 56 corresponds to the **Trickster Archetype** and the dri
 
 The Storyteller archetype seeks to preserve and transmit wisdom through narrative. This is not the scholar, but the bard—the one who makes learning vivid through story. Gate 56 is the storyteller's capacity to **teach without lecturing**.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 56** manifests as:
 - **Narrative Inflation:** Exaggerating stories to gain attention or validation.
 - **Distraction from Depth:** Using storytelling to avoid inner work or emotional processing.
 - **Performance Addiction:** Needing an audience to feel worthy or alive.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 56, individuation requires:
 1. **Integration of Silence and Story:** Recognizing that both are necessary; storytelling arises from stillness.
@@ -287,7 +287,7 @@ When integrated, Gate 56 becomes the expression of the **Sacred Storyteller**—
 
 When the individual with Gate 56 operates according to their Strategy and Authority, the gift that emerges is **Enrichment** (Gene Keys) and **Stimulating Wisdom** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Storytelling flows naturally, without force or performance.
 - The individual shares when correct, enriching others through narrative.
@@ -302,7 +302,7 @@ The Signature of the Throat Center (for all gates within it) is the experience o
 - **Being at peace with silence**, not needing to fill every space with narrative
 - **Enriching others without needing recognition**, trusting the story to serve
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 56 teaches that **stories are sacred**. When the individual honors their storytelling voice according to Strategy and Authority, they become a **living example** of what it means to share experience wisely, to teach through metaphor, to stimulate without distracting. This is the essence of the Collective Sensing/Abstract stream—not to preach, but to **enrich through shared narrative**.
 

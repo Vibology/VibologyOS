@@ -123,7 +123,7 @@ Gate 57 is also part of the **Individual Knowing Circuit**, which means this cha
 - **Acoustic frequency**—this is HEARD knowing, not visual or conceptual
 - **Melancholic undertones**—Individual circuitry carries the weight of being different
 
-**Why This Channel is Projected:**
+#### Why This Channel is Projected
 
 The **Spleen (awareness center, non-motor) to Throat** connection creates a **Projected** channel—the individual cannot manifest independently. They must **wait for recognition** before their intuitive articulation is truly heard and valued. When unrecognized, their words fall flat; when recognized, their intuition becomes profound guidance.
 

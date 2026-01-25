@@ -120,7 +120,7 @@ The Individual Circuit cannot empower through comfort or agreement—it must **p
 
 Gate 39 forms **Channel 39-55: Emoting** when connected to Gate 55 in the Solar Plexus.
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 
 - **Gate 39 (Root):** "I am under pressure to provoke, to challenge, to obstruct."
 - **Gate 55 (Solar Plexus):** "I feel the spirit, the mood, the emotional depth provoked by challenge."
@@ -130,7 +130,7 @@ When this channel is defined, the individual has **consistent access to emotiona
 
 **Without the channel defined** (only Gate 39 activated), the individual experiences **pressure to provoke** but may lack the emotional spirit or depth that makes provocation meaningful. They need someone with Gate 55 to complete the circuit.
 
-**Interpersonal Electromagnetic Dynamics:**
+#### Interpersonal Electromagnetic Dynamics
 
 - **Both have Channel 39-55:** Mutual provocation and emotional depth. Potential for intense connection or destructive challenge.
 - **One has Gate 39, other has Gate 55:** The Gate 39 person provides provocation; the Gate 55 person provides emotional spirit. This can be deeply transformative or volatile.
@@ -140,14 +140,14 @@ When this channel is defined, the individual has **consistent access to emotiona
 
 Gate 39 is located in the **Root Center**, which corresponds biologically to the **adrenal glands** and the **stress response system**. In the context of provocation, Gate 39 is associated with the **challenge response**—the body's readiness to provoke or be provoked.
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 39 defined may experience:
 - **Chronic pressure to provoke or challenge**—the body feels restless, seeks to stir things up
 - **Adrenal activation**—stress hormones elevated when provocation is active or anticipated
 - **Exhaustion if provocation lacks purpose**—burnout from provoking without emotional depth (Not-Self pattern)
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Root Center radiates **pressure** into the aura. When Gate 39 is active, the aura carries a frequency that says: "I am under pressure to provoke. I will challenge you." Others may feel this as **intense**, **teasing**, or (if in Not-Self) **annoyingly provocative**.
 
@@ -185,7 +185,7 @@ The pressure to provoke is inconsistent (activated by transits or others). The R
 - **Avoidance of Provocation:** Fearing confrontation, refusing to challenge even when it would serve (line 1 or 2 detriment).
 - **Burnout:** Exhaustion from provoking without emotional depth or purpose.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Feeling constantly under pressure to provoke or challenge
 - Exhaustion from chronic teasing or obstruction without satisfaction
@@ -213,7 +213,7 @@ The **7-year deconditioning cycle** for Gate 39 involves learning to recognize w
 
 **Year 7:** Integration phase—provocation becomes **dynamism** (Gene Keys Gift) rather than shadow. The individual provokes only to awaken spirit, challenges only to serve growth. Provocation becomes liberation.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice where pressure to provoke arises in the body. Is it the root (Gate 39)? The solar plexus (emotion)? Or absorbed from others?
 - Practice **waiting for Authority** before provoking others.
@@ -257,14 +257,14 @@ In Jungian terms, Gate 39 corresponds to the **Trickster Archetype** and the psy
 
 The Trickster provokes, challenges, disrupts—not to destroy but to awaken. This is the coyote, the fool, the one who uses obstruction to reveal truth.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 39** manifests as:
 - **Cruel Teasing:** Provoking to hurt, not to awaken.
 - **Chronic Disruption:** Unable to stabilize, always creating chaos.
 - **Avoidance of Responsibility:** Provoking without owning the emotional impact.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 39, individuation requires:
 1. **Separation from Compulsive Provocation:** Recognizing when challenge is purposeful versus when it is conditioned.
@@ -277,7 +277,7 @@ When integrated, Gate 39 becomes the expression of **Liberation**—using obstru
 
 When the individual with Gate 39 operates according to their Strategy and Authority, the gift that emerges is **Dynamism** (Gene Keys) and **Purposeful Provocation** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Provocation becomes **purposeful**—challenging only to awaken spirit.
 - Obstruction becomes **teacher**—using difficulty to provoke depth.
@@ -292,7 +292,7 @@ The Signature of correct Root Center pressure is **release and satisfaction**. F
 - Challenging to awaken spirit
 - Experiencing provocation as liberating rather than destructive
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 39 teaches that **obstruction serves growth**. When the individual honors their pressure to provoke only for awakening, they become a **living example** of the trickster who liberates through challenge.
 

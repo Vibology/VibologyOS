@@ -86,18 +86,18 @@ In sacred traditions, this is the realized ruler whose authority has merged with
 ---
 
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 Domination signals that **authority has become tyranny**. You are being warned against using leadership to control, against gathering others for exploitation, against corrupting the sacred function of authority into extraction. This is a time to **check whether your consciousness serves liberation or enslavement**. The card cautions: your soul is dominating rather than communing. Return to liberating leadership.
 
 The appearance of Domination also suggests that **authority has forgotten whom it serves**. Gate 45's shadow is expressing—the corruption of leadership into control. The question is whether you will remember that leadership exists to serve the led.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware the trap of **tyrannical domination**—consciousness using authority to enslave, soul health corrupted into oppressive control. The shadow manifests as: extracting from those you lead, gathering to exploit, speaking with authority to control rather than serve, organizing for personal power rather than collective benefit. Your inner divinity has become instrument of tyranny.
 
-**Gift Aspect:**
+#### Gift Aspect
 The way through Domination is **communion that serves mutual liberation**. Remember whom authority serves. Recognize that leadership is entrusted, not owned. Gather for collective benefit rather than personal extraction. The gift transforms tyranny into service—authority that gathers to liberate rather than to bind.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 In its highest healing, Domination dissolves into **Liberation**—consciousness using all authority to create freedom, leadership that liberates rather than binds. Those who touch this frequency lead toward a condition where their leadership becomes unnecessary—the collective flourishes because freedom has been created rather than control. They demonstrate that **the highest authority is authority that frees**.
 
 ---

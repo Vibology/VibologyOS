@@ -86,18 +86,18 @@ In sacred traditions, this is the realization that emotional sensitivity is not 
 ---
 
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 Gratitude signals that **your emotional sensitivity is gift, not burden**. You are being called to honor the capacity to feel deeply, to recognize that vulnerability is strength, that openness is courage. This is not a time for emotional armor or defensive numbing; it is a time for **appreciation of your tender heart**. The question is: **can you be grateful for the sensitivity that allows both pain and love? Can you honor the heart that breaks?**
 
 The appearance of Gratitude also suggests that **appreciation transforms emotional experience**. Gate 22's grace is activating—circumstances support honoring feeling rather than defending against it. The question is whether you will appreciate your emotional capacity or continue treating it as weakness.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware the trap of **dishonoring your emotional truth**—treating sensitivity as weakness, apologizing for tears, hiding vulnerability from others or yourself. The shadow manifests as betrayal of the heart: numbing to feel strong, cynicism to avoid disappointment, toughness to hide tenderness. Check whether you honor your emotional reality or merely tolerate it with resentment. Shadow also warns against **performative gratitude**: pretending thankfulness while actually ashamed of sensitivity.
 
-**Gift Aspect:**
+#### Gift Aspect
 When Gratitude expresses its gift, you embody **graciousness toward feeling**—meeting emotional reality with kindness, honoring tears as sacred, treating vulnerability as courage. This is the gift of **emotional self-compassion**: you do not judge yourself for feeling, you do not shame your heart for breaking, you recognize that openness is the price and privilege of being alive.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 In its highest expression, Gratitude becomes **Grace**—the recognition that emotional capacity is divine gift, that feeling is how cosmos knows itself. You embody the understanding that every emotion is sacred, that the heart's openness is miracle, that being moved by life is participation in something holy. Those who touch this frequency demonstrate that **sensitivity is not weakness but sacred responsibility**, that the capacity to feel is the capacity to participate in cosmic experience.
 
 ---

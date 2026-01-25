@@ -122,7 +122,7 @@ Because the Collective Sensing Circuit is designed for **learning through experi
 
 Gate 29 forms **Channel 29-46: Discovery (The Succeeding)** when connected to Gate 46 in the G Center.
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 
 - **Gate 29 (Sacral):** "I have the life force to say yes, to commit, to persevere through difficulty."
 - **Gate 46 (G Center):** "I have the body's knowing, the serendipity, the sense of being in the right place at the right time for discovery."
@@ -132,7 +132,7 @@ When this channel is defined, the individual has **consistent access to committe
 
 **Without the channel defined** (only Gate 29 activated), the individual experiences **commitment without direction**—they have Sacral energy to say yes but may not know *what* to commit to. They may need another person with Gate 46 to complete the electromagnetic circuit—someone who provides the body's knowing.
 
-**Interpersonal Electromagnetic Dynamics:**
+#### Interpersonal Electromagnetic Dynamics
 
 - **Both have Channel 29-46:** Potential mutual commitment to shared experiences or competition over whose discoveries are more significant.
 - **One has Gate 29, other has Gate 46:** The Gate 29 person provides the perseverance; the Gate 46 person provides the embodied knowing. This can be profoundly effective—commitment and serendipity.
@@ -142,7 +142,7 @@ When this channel is defined, the individual has **consistent access to committe
 
 Gate 29 is located in the **Sacral Center**, which corresponds biologically to the **ovaries (in those assigned female) and testes (in those assigned male)**—the generative organs that produce life force and sustain commitment.
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 29 defined may experience:
 - **Deep somatic pull to commit**—the body says "yes" profoundly, not superficially
@@ -150,7 +150,7 @@ Individuals with Gate 29 defined may experience:
 - **Exhaustion when saying yes inauthentically**—burnout from commitments the Sacral didn't respond to
 - **Reproductive/creative vitality tied to depth of engagement**—the body thrives when in deep, meaningful commitments
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Sacral Center radiates **life force and commitment** into the aura. When Gate 29 is active, the aura carries a frequency that says: "I am willing to dive deep, to say yes, to persevere." Others may feel this as **devoted**, **reliable**, or (if the individual is in Not-Self) **over-committed** or **unable to say no**.
 
@@ -188,7 +188,7 @@ The commitment is inconsistent (activated only by transits or others). The Refle
 - **Confusion as Avoidance:** Using lack of clarity as excuse to not commit, avoiding depth through intellectualization.
 - **Resentment:** Committing without true "yes," building resentment toward what was engaged.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Frustration from committing to what the Sacral didn't respond to (for Generators)
 - Bitterness from sharing commitment insights without invitation (for Projectors)
@@ -216,7 +216,7 @@ The **7-year deconditioning cycle** for Gate 29 involves learning to recognize w
 
 **Year 7:** Integration phase—commitment becomes aligned with the Gift of Commitment (Gene Keys). The individual says yes deeply when correct, perseveres through difficulty with sustained energy, and completes engagements that contribute to collective wisdom.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice where the impulse to commit arises in the body. Is it the Sacral (gut response)? The solar plexus (emotional pressure)? The mind (should)?
 - Practice **responding before committing**—feel the Sacral "uh-huh" before saying yes.
@@ -264,14 +264,14 @@ In Jungian terms, Gate 29 corresponds to the **Katabasis**—the descent into th
 
 The archetype of the pilgrim who commits to the journey despite difficulty, who perseveres through the dark night of the soul, who says yes to transformation. This is the capacity for **sacred commitment**.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 29** manifests as:
 - **The Half-Hearted:** Saying yes but not engaging fully, prolonging suffering.
 - **The Over-Committed:** Saying yes to everything, drowning in too many depths.
 - **The Avoider:** Refusing to commit to any abyss, staying on the surface, avoiding transformation.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 29, individuation requires:
 1. **Recognizing that commitment requires response:** Saying yes to what the body confirms, not what the mind thinks should be done.
@@ -284,7 +284,7 @@ When integrated, Gate 29 becomes the expression of **devotion**—the capacity t
 
 When the individual with Gate 29 operates according to their Strategy and Authority, the gift that emerges is **Commitment** (Gene Keys) and **Sustained Perseverance** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Commitment flows from Sacral response—saying yes only to what the body confirms.
 - Perseverance is sustained and generative—energy flows through difficulty because the engagement is correct.
@@ -299,7 +299,7 @@ The Signature of the Sacral Center (for Generators/MGs) is **Satisfaction**. For
 - **Vitality through perseverance**—sustained energy because the "yes" was correct
 - **Wisdom earned**—the abyss taught and transformed
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 29 teaches that **true commitment is responsive, not obligatory**. When the individual honors their Sacral response, says yes deeply when correct, and perseveres through difficulty with sustained life force, they become a **living example** of devotion. This is the essence of the Collective Sensing Circuit—to engage deeply, learn through experience, and contribute wisdom to the collective.
 

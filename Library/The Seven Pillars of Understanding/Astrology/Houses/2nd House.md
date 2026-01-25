@@ -70,7 +70,7 @@ Taurus is the fixed earth sign that gathers, holds, and builds. It does not rush
 
 The **ruler of the 2nd House** (the planet ruling the sign on the 2nd House cusp) reveals *how* you acquire resources and what you truly value.
 
-**Examples:**
+#### Examples
 - **Mars ruling 2nd → Aries on 2nd cusp** — Resources acquired through action, competition, risk
 - **Moon ruling 2nd → Cancer on 2nd cusp** — Resources tied to emotional security and family
 - **Saturn ruling 2nd → Capricorn on 2nd cusp** — Resources earned through discipline, delayed gratification

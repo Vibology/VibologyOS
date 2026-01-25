@@ -651,7 +651,7 @@ The boon is **what the hero brings back** from the ordeal:
 
 The Hero interacts dynamically with other archetypal structures:
 
-**The Shadow:**
+#### The Shadow
 - The Shadow is the **hero's primary adversary**—the dragon, the dark brother, the enemy.
 - Integration: The hero realizes the enemy is **part of oneself**. The shadow must be **integrated, not destroyed**.
 - Example: Luke Skywalker confronting Darth Vader (the shadow-father).
@@ -718,13 +718,13 @@ The Hero interacts dynamically with other archetypal structures:
 ## Shadow Dynamics
 **How does the Hero manifest differently in men vs. women?**
 
-**In Men:**
+#### In Men
 - The **traditional hero** is coded masculine (warrior, king, dragon-slayer).
 - Men are **culturally expected** to enact the hero—prove themselves, conquer, achieve, protect.
 - Shadow: Men who **fail to establish heroic identity** may develop **Puer pathology** (eternal boyhood, avoidance of responsibility).
 - Integration: Men must **own their heroism** (courage, agency, will) but also **surrender it** in midlife—allowing vulnerability, receptivity, and Anima integration.
 
-**In Women:**
+#### In Women
 - The **heroine's journey** has been less documented (Campbell focused on male heroes).
 - Women face a **double task**: establish autonomy (hero) while navigating cultural pressure to remain in the Mother role (caregiver, nurturer).
 - **Heroine motifs:** Psyche's trials, Inanna's descent, Atalanta's contests, Artemis's independence.

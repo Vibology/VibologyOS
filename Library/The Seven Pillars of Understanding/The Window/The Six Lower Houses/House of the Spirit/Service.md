@@ -86,18 +86,18 @@ In sacred traditions, this is the realized being whose service has become so com
 ---
 
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 Service signals that **consciousness must serve before guiding**. You are being called to follow patterns before organizing them, to observe before opining, to earn understanding through experience rather than assuming it through intelligence. This is not a time for premature authority; it is a time for **humble service to what you seek to understand**. The card affirms: far-sightedness emerges from service. Follow before you lead.
 
 The appearance of Service also suggests that **genuine authority is available through patient observation**. Gate 17's gift is activating—the capacity to develop far-sighted understanding through served attention. The question is whether you will humble yourself to follow or grasp for authority before it's earned.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware the trap of **opinion that substitutes for understanding**. Are you organizing others' awareness through earned wisdom or untested opinion? Have you served the patterns you claim to understand, or are you asserting without experience? Shadow also warns against **mental rigidity**—opinions defended regardless of evidence, understanding that stopped developing because service stopped. Check whether your guidance flows from far-sightedness or mere assertion.
 
-**Gift Aspect:**
+#### Gift Aspect
 The way through is **far-sightedness earned through service**. Observe before advising. Follow before leading. Allow your understanding to develop through sustained attention to patterns rather than premature conclusion. Service flowers when you humble yourself to follow what you seek to guide—when you recognize that genuine authority emerges from experience rather than assertion.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 In its highest expression, Service becomes **Omniscience**—consciousness merged with collective understanding, soul perceiving as the universe perceives. Those who touch this frequency no longer serve as separate selves—they serve as consciousness itself, their guidance flowing from unity rather than accumulated knowledge. They demonstrate that **complete service yields complete knowing**.
 
 ---

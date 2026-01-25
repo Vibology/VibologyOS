@@ -11,6 +11,7 @@ verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
+# 2 - The High Priestess
 *The Priestess of the Silver Star*
 
 ---
@@ -55,7 +56,7 @@ The key insight is that The High Priestess always deals with the **threshold bet
 ## Divination Use
 **Upright:** Secrets, hidden knowledge, the future unrevealed, intuition, inner wisdom, the unconscious source, divine feminine, silence that knows, waiting for the right time, initiation. Keywords: Gnosis, mystery, receptivity, patience, the veil between worlds.
 
-**Reversed (per Waite):**
+#### Reversed (per Waite)
 Passion, moral or physical ardour, conceit, surface knowledge. Mystery degraded to manipulation, gnosis become pride, knowledge without wisdom, premature revelation, secrets kept for power.
 
 ---

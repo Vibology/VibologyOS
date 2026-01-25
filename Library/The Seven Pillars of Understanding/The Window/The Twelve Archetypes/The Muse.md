@@ -12,6 +12,7 @@ gate: 46
 hexagram: 46 (Pushing Upward)
 gene_keys: Seriousness → Delight → Ecstasy
 ---
+# The Muse
 *Robert Smith - The Soul-Image*
 
 ---
@@ -72,18 +73,18 @@ In sacred traditions, Ecstasy corresponds to the recognition that the divine is 
 
 ---
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 You are being called to **love your body and let beauty move through it**. This is not the time for disembodied intellectualism or aesthetic theory. Inhabit form. Delight in physical presence. Let serendipity emerge from embodiment—you will be in the right place at the right time because you love being here, in flesh, fully present. The Muse is awakening.
 
 The appearance of The Muse also suggests that **the soul-image seeks expression**. Gate 46's embodiment function is activating—the inner feminine wanting to manifest through form. The question is whether you will delight in this expression or treat embodiment as burden.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware seriousness disguised as depth—treating embodiment as burden, rejecting physical form, spiritualizing yourself away from incarnation. The Muse corrupted becomes disembodied ideal, refusing the body's invitation to delight. Beware also aesthetic performance that lacks presence—wearing beauty as mask rather than expressing soul through form. Check whether you're actually present in your body or merely occupying it.
 
-**Gift Aspect:**
+#### Gift Aspect
 Your embodiment creates serendipity. You love being in your body, inhabit aesthetic expression fully, let beauty move through physical form. The world responds to your presence because you are **actually here**—not performing, not conceptualizing, but delighting in incarnation. Your soul-image becomes visible through flesh. The gift is **embodied beauty**—soul expressed through loving presence in form.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 You embody Ecstasy—the recognition that physical form is divine celebration. You are the Muse fully realized: consciousness delighting in its own incarnation, soul expressing infinite beauty through matter. Embodiment is no longer serious work but cosmic play. You push upward effortlessly because you love being wood growing through earth. At this frequency, body and soul are recognized as one—form is spirit celebrating itself.
 
 ---

@@ -122,7 +122,7 @@ Because the Tribal Defense Circuit is designed for **protection and sustenance o
 
 Gate 27 forms **Channel 27-50: Preservation (The Custodian)** when connected to Gate 50 in the Spleen Center.
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 
 - **Gate 27 (Sacral):** "I have the life force to nourish, to care, to take responsibility for others."
 - **Gate 50 (Spleen):** "I have the instinctual values that determine who and what to care for, the boundaries that protect tribal resources."
@@ -132,7 +132,7 @@ When this channel is defined, the individual has **consistent access to responsi
 
 **Without the channel defined** (only Gate 27 activated), the individual experiences **caring without boundaries**—they have Sacral energy to nourish but may not know *who* or *when* to care for. They may need another person with Gate 50 to complete the electromagnetic circuit—someone who provides the instinctual values and limits.
 
-**Interpersonal Electromagnetic Dynamics:**
+#### Interpersonal Electromagnetic Dynamics
 
 - **Both have Channel 27-50:** Potential mutual caretaking or competition over who is the better nurturer.
 - **One has Gate 27, other has Gate 50:** The Gate 27 person provides the nourishment; the Gate 50 person provides the values and boundaries. This can be profoundly effective—caring and discernment.
@@ -142,7 +142,7 @@ When this channel is defined, the individual has **consistent access to responsi
 
 Gate 27 is located in the **Sacral Center**, which corresponds biologically to the **ovaries (in those assigned female) and testes (in those assigned male)**—the generative organs that produce life force. Gate 27 also connects to the **digestive system** (what we take in and process to nourish the body).
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 27 defined may experience:
 - **Strong somatic impulse to nurture and care**—the body wants to feed, provide, protect
@@ -150,7 +150,7 @@ Individuals with Gate 27 defined may experience:
 - **Reproductive/creative vitality tied to responsible caretaking**—energy flows when caring is correct
 - **Depletion when caring without response**—burnout from nourishing what the Sacral didn't say yes to
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Sacral Center radiates **life force and generative energy** into the aura. When Gate 27 is active, the aura carries a frequency that says: "I am here to care, to nourish, to take responsibility." Others may feel this as **comforting**, **maternal/paternal**, or (if the individual is in Not-Self) **smothering** or **martyred**.
 
@@ -188,7 +188,7 @@ The caring is inconsistent (activated only by transits or others). The Reflector
 - **Burnout:** Caring without Sacral response, saying yes to every need, becoming exhausted and resentful.
 - **Exploitation:** Taking nourishment from others without giving back, becoming parasitic.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Frustration from caring for what the Sacral didn't respond to (for Generators)
 - Bitterness from providing nourishment without invitation (for Projectors)
@@ -216,7 +216,7 @@ The **7-year deconditioning cycle** for Gate 27 involves learning to recognize w
 
 **Year 7:** Integration phase—caring becomes aligned with the Gift of Altruism (Gene Keys). The individual nourishes from abundance, responds authentically, and cares without depleting. Nourishment flows naturally from correct Sacral engagement.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice where the impulse to care arises in the body. Is it the Sacral (gut response)? The solar plexus (guilt)? The mind (should)?
 - Practice **responding before nourishing**—feel the Sacral "uh-huh" or "uhn-uhn" before committing to care.
@@ -264,14 +264,14 @@ In Jungian terms, Gate 27 corresponds to the **Great Mother Archetype** (both nu
 
 The archetype of the mother, nurse, gardener—the one who provides, who feeds, who ensures survival through care. This is the capacity for **responsible provision**.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 27** manifests as:
 - **The Martyr:** Caring to the point of self-destruction, using sacrifice to prove worth.
 - **The Smothering Mother:** Over-nurturing, creating dependency, not allowing autonomy.
 - **The Hoarder:** Refusing to share resources, caring only for self, becoming isolated.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 27, individuation requires:
 1. **Recognizing that sustainable caring requires self-nourishment:** You cannot pour from an empty cup.
@@ -284,7 +284,7 @@ When integrated, Gate 27 becomes the expression of **altruistic care**—the cap
 
 When the individual with Gate 27 operates according to their Strategy and Authority, the gift that emerges is **Altruism** (Gene Keys) and **Sustainable Tribal Nourishment** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Caring flows from Sacral response—nourishment is given only to what the life force says yes to.
 - Self-care is honored—the individual nourishes themselves as foundation for caring for others.
@@ -299,7 +299,7 @@ The Signature of the Sacral Center (for Generators/MGs) is **Satisfaction**. For
 - **Vitality from responsible nourishment**—energy flows when caring is aligned
 - **Gratitude from those nourished**—the tribe thrives through wise provision
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 27 teaches that **true caring is responsive and sustainable**. When the individual honors Sacral response, nourishes from abundance rather than obligation, and provides with discernment, they become a **living example** of altruistic caretaking. This is the essence of the Tribal Defense Circuit—to protect and sustain the tribe through wise, responsive nourishment.
 

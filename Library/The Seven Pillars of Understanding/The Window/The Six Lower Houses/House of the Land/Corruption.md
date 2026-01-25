@@ -86,18 +86,18 @@ In sacred traditions, this is the master who sees that values must sometimes be 
 ---
 
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 Corruption signals that **values have been compromised and foundation has begun to rot**. This card calls you to honest assessment: What have you abandoned for convenience? What principles have you sacrificed for comfort? Where has the vessel you were meant to maintain become contaminated? The question is: **what decay have you allowed to accumulate through inattention? What custodial responsibility have you abandoned?**
 
 The appearance of Corruption also suggests that **restoration is possible but requires honest confrontation with what has decayed**. Gate 50's gift of equilibrium is available, but reaching it requires acknowledging the corruption first. The question is whether you can face what has degraded without defending it.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 In full shadow, Corruption manifests as **awareness of moral decay combined with powerlessness or complicity**: you know values have been compromised but feel unable to address it, or you have become so accustomed to toxicity that it seems inevitable. This creates **normalized degradation**—the slow poison that is accepted because it accumulated gradually. Check whether you are protecting corrupted values because change would require acknowledging how far decay has progressed. Shadow also warns against **complicit custodianship**: knowing the vessel is contaminated yet continuing to serve from it.
 
-**Gift Aspect:**
+#### Gift Aspect
 When Corruption shifts toward gift, it becomes **equilibrium**—the committed work of restoring balance after recognizing decay. This is the gift of **reclaiming custodianship**: you acknowledge the compromise, address the rot, and systematically work to purify the vessel. Equilibrium does not expect perfection but demands accountability—when values have been betrayed, restoration becomes the sacred work.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 In its highest expression, Corruption transforms into **Harmony**—the recognition that decay, when met consciously, serves renewal. You embody the understanding that corruption is not failure but test: it reveals which values are truly held, which principles will be defended, what foundation is worth restoring. Those who touch this frequency demonstrate that **harmony emerges from purification, and purification deepens commitment more than corruption ever could erode it**.
 
 ---

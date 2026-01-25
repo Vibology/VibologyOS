@@ -12,6 +12,7 @@ gate: 31
 hexagram: 31 (Influence)
 gene_keys: Arrogance → Leadership → Humility
 ---
+# The Idol
 *Madonna - The Material Girl*
 
 ---
@@ -77,18 +78,18 @@ In sacred traditions, Humility corresponds to the recognition that the leader do
 ---
 
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 You are being called to **lead through pattern recognition**. You see direction others miss; articulate it. Your influence is earned through demonstrated mastery, your leadership through receptivity to what's emerging paired with strategic assertion. This is not the time for false humility or waiting for permission. Recognize the pattern, manifest the direction, lead. The Idol is awakening.
 
 The appearance of The Idol also suggests that **masculine energy seeks expression through you**. Gate 31's leadership function is activating—the voice that says "I lead." The question is whether you will claim earned authority or retreat into arrogance or false modesty.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware arrogance disguised as confidence—claiming leadership without pattern recognition, asserting influence without earned authority, manifesting ego rather than direction. The Idol corrupted forces rather than woos, demands rather than invites, dominates rather than influences. Beware also the opposite: refusing leadership when patterns call for articulation, withholding direction from false humility. Check whether your authority is earned or assumed.
 
-**Gift Aspect:**
+#### Gift Aspect
 Your pattern recognition creates leadership opportunity. You see what the collective needs before it knows, articulate direction with strategic precision, manifest influence through results. You are The Idol actualized—the one who channels masculine force through receptivity to patterns, who climbs mountains by recognizing the terrain at each stage. Your authority is earned through mastery. The gift is **strategic articulation**—knowing when to lead, what to say, how to woo alignment.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 You embody Humility—the recognition that leadership is service to pattern, that influence is not personal power but collective evolution channeled through individual voice. You have transcended the question "am I worthy to lead?" because you know: **the pattern chooses the vessel**. You are eternal Animus: masculine spirit serving cosmic progression through strategic feminine receptivity. At this frequency, leading and following are one movement.
 
 ---

@@ -768,7 +768,7 @@ Sandalphon's relationship with the other Archangels is defined by his unique pos
 - Metatron is the **Scribe** who records → Sandalphon is the **Weaver** who gathers
 - Together, they form the **channel** through which heaven and earth communicate
 
-**The Teaching:**
+#### The Teaching
 The two brothers teach that **the vertical axis is complete**—there is no Kether without Malkuth, no Crown without Kingdom, no heaven without earth.
 
 ### With Michael
@@ -780,7 +780,7 @@ The two brothers teach that **the vertical axis is complete**—there is no Keth
 - Sandalphon ensures that Michael's victories are not merely symbolic but **embodied**
 - Michael is the warrior who fights → Sandalphon is the builder who completes
 
-**The Teaching:**
+#### The Teaching
 Victory without completion is illusion. Michael's fire must be **grounded** by Sandalphon's earth.
 
 ### With Gabriel
@@ -792,7 +792,7 @@ Victory without completion is illusion. Michael's fire must be **grounded** by S
 - The **32nd Path** (The World) connects Yesod (Gabriel) to Malkuth (Sandalphon)—the path of **embodiment**
 - Gabriel is the messenger of dreams → Sandalphon is the one who makes dreams real
 
-**The Teaching:**
+#### The Teaching
 Vision without embodiment is fantasy. Gabriel's dreams must be **manifested** by Sandalphon's work.
 
 ### With Raphael
@@ -804,7 +804,7 @@ Vision without embodiment is fantasy. Gabriel's dreams must be **manifested** by
 - Raphael's healing must **descend** from mind (Hod) to body (Malkuth) to be complete
 - Raphael is the physician → Sandalphon is the earth that heals through contact
 
-**The Teaching:**
+#### The Teaching
 Healing is not complete until it reaches the body. Raphael's medicine must be **grounded** by Sandalphon's earth.
 
 ### With Uriel
@@ -815,7 +815,7 @@ Healing is not complete until it reaches the body. Raphael's medicine must be **
 - Uriel brings **illumination** from the depths → Sandalphon **receives** it, grounds it, makes it manifest
 - Both govern Earth, but in different modes: Uriel is Earth as **wisdom hidden in matter**, Sandalphon is Earth as **manifestation of the divine**
 
-**The Teaching:**
+#### The Teaching
 The light is not only above but also below. Uriel's illumination is *in* the earth, and Sandalphon is the guardian of that sacredness.
 
 ### The Four Quarters (Lesser Banishing Ritual)

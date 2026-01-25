@@ -120,7 +120,7 @@ The Tribal Ego Circuit is not about collective service or individual empowerment
 
 Gate 40 forms **Channel 37-40: Community** when connected to Gate 37 in the Solar Plexus.
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 
 - **Gate 40 (Heart/Ego):** "I have the will to provide, to work, to fulfill my end of the bargain."
 - **Gate 37 (Solar Plexus):** "I feel friendship and connection; I want to bond through reciprocal support."
@@ -130,7 +130,7 @@ When this channel is defined, the individual has **consistent access to tribal c
 
 **Without the channel defined** (only Gate 40 activated), the individual experiences **willingness to provide** but may lack the emotional connection or friendship that makes provision meaningful. They need someone with Gate 37 to complete the circuit.
 
-**Interpersonal Electromagnetic Dynamics:**
+#### Interpersonal Electromagnetic Dynamics
 
 - **Both have Channel 37-40:** Mutual capacity for friendship and provision. Potential for strong tribal bonds or competing agreements.
 - **One has Gate 40, other has Gate 37:** The Gate 40 person provides willful work; the Gate 37 person provides emotional bonding. This is classic partnership.
@@ -140,14 +140,14 @@ When this channel is defined, the individual has **consistent access to tribal c
 
 Gate 40 is located in the **Heart/Ego Center**, which corresponds biologically to the **heart, stomach, thymus, and will power**. The Heart/Ego is the center of **material willpower**—the capacity to commit, provide, and work in the material world.
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 40 defined may experience:
 - **Strong willpower when rested**, but **depletion when will is overextended** (exhaustion from not honoring rest)
 - **Stomach/digestive sensitivity** when pushing beyond will's limits (the stomach digests food; Gate 40 "digests" work)
 - **Heart strength** when provision is reciprocal and rest is honored
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Heart/Ego Center radiates **willpower** into the aura. When Gate 40 is active, the aura carries a frequency that says: "I will provide for you, but I must rest alone to sustain this." Others may feel this as **reliable**, **committed**, or (if in Not-Self) **exhausted and unavailable**.
 
@@ -189,7 +189,7 @@ The will to provide is inconsistent (activated by transits or others). The Refle
 - **Rigidity Without Flexibility:** Maintaining boundaries so strictly that adaptation is impossible (line 5 detriment).
 - **Inability to Cut Ties:** Continuing to provide even when will is exhausted, unable to decapitate draining agreements (line 6 detriment).
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Feeling constantly exhausted despite having Gate 40's will
 - Working without satisfaction or reciprocity
@@ -217,7 +217,7 @@ The **7-year deconditioning cycle** for Gate 40 involves learning to recognize w
 
 **Year 7:** Integration phase—provision becomes **resolve** (Gene Keys Gift) rather than exhaustion. The individual works to provide and rests to restore. Will becomes divine.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice where the will to provide arises in the body. Is it the heart/ego (Gate 40)? The gut (Sacral)? Or absorbed from others?
 - Practice **honoring rest cycles**—withdrawing to aloneness when will is depleted, returning when restored.
@@ -261,14 +261,14 @@ In Jungian terms, Gate 40 corresponds to the **Provider Archetype** and the psyc
 
 The Provider works to ensure the tribe survives, withdraws to restore capacity, maintains boundaries to preserve will. This is the breadwinner, the worker, the one who says "I will take care of us."
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 40** manifests as:
 - **Workaholism:** Using provision to avoid inner emptiness or intimacy.
 - **Martyrdom:** "I work so hard for you" used as manipulation.
 - **Inability to Receive:** Providing without allowing others to reciprocate, creating one-sided dependency.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 40, individuation requires:
 1. **Separation from Over-Provision:** Recognizing when work is service versus when it is avoidance or proving worth.
@@ -281,7 +281,7 @@ When integrated, Gate 40 becomes the expression of **Divine Will**—providing a
 
 When the individual with Gate 40 operates according to their Strategy and Authority, the gift that emerges is **Resolve** (Gene Keys) and **Disciplined Provision** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Provision is **reciprocal**—working for those who reciprocate, not for those who deplete.
 - Rest is **honored**—withdrawing to aloneness without guilt, restoring will.
@@ -296,7 +296,7 @@ The Signature of the Heart/Ego Center is **rest and material success**. For Gate
 - Resting without guilt
 - Providing for those who reciprocate
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 40 teaches that **provision requires rest**. When the individual honors the rhythm of work and aloneness, they become a **living example** of sustainable will.
 

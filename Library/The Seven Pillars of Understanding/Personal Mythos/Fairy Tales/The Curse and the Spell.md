@@ -114,7 +114,7 @@ The curse is **repression made literal**: the capacity for feeling, sexuality, a
 
 Von Franz notes that those under a curse often develop a **fated narrative**: "This is just how it is. I was born this way. There's nothing I can do." The curse becomes an explanation, a resignation, a way of avoiding responsibility for one's own awakening.
 
-**Examples:**
+#### Examples
 - "I'm just not a sexual person" (repressed Eros)
 - "I've always been this way" (frozen development)
 - "No one could ever love me" (the Beast's belief)
@@ -240,7 +240,7 @@ If the environment is hostile (abusive, envious, or simply unequipped to support
 
 Those living under a curse often develop **rigid, repetitive patterns** that resist change:
 
-**Examples:**
+#### Examples
 - The woman who "cannot" feel sexual desire (repressed Eros, frozen at the moment of wounding)
 - The man who remains in perpetual adolescence, unable to commit or claim adult responsibility (the Peter Pan curse)
 - The individual who repeats the same relational pattern (choosing unavailable partners, sabotaging intimacy) as if under a spell
@@ -351,7 +351,7 @@ This is the psyche's **defense against premature awakening**:
 
 Von Franz warns against the **just-so story** that develops around curses: "This is just how it is. I was born this way. There's nothing I can do."
 
-**Examples:**
+#### Examples
 - "I'm just not a sexual person" (repressed Eros naturalized as identity)
 - "I've always been depressed" (the curse as fate, not symptom)
 - "No one in my family has ever been happy" (the family curse as determinism)
@@ -579,7 +579,7 @@ For those living in a **false self** (performing the domesticated swan, the sile
 
 ## Internal Links (Cross-References)
 
-**Archetypal Figures:**
+#### Archetypal Figures
 [[The Shadow]] • [[The Muse]] • [[The Idol]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] • [[The Alchemist]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] • [[The Wise Old Man]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Hero]] • [[The Changeling]] • [[The Nightmare]]
 
 **Jungian Concepts:**
@@ -588,25 +588,25 @@ For those living in a **false self** (performing the domesticated swan, the sile
 **Tarot Keys:**
 [[15 - The Devil]] • [[18 - The Moon]] • [[Death]] • [[The High Priestess]] • [[The Tower]] • [[The Star]] • [[Temperance]] • [[The Hanged Man]] • [[The Sun]] • [[Strength]]
 
-**Alchemical Stages:**
+#### Alchemical Stages
 [[Coagulation]] • [[Dissolution]] • [[Nigredo]] • [[Albedo]] • [[Rubedo]] • [[Calcination]] • [[Separation]] • [[Conjunction]] • [[Fermentation]]
 
-**Mythological Parallels:**
+#### Mythological Parallels
 [[Persephone and Demeter]] • [[Psyche and Eros]] • [[Hades and Persephone]] • [[Orpheus and Eurydice]] • [[Inanna's Descent]] • [[Medusa]] • [[Pandora]]
 
 **Fairy Tale Entries:**
 [[Beauty and the Beast]] • [[Snow White]] • [[Sleeping Beauty]] • [[The Frog Prince]] • [[Rapunzel]] • [[Cinderella]] • [[The Handless Maiden]] • [[Bluebeard]] • [[Hansel and Gretel]] • [[The Two Brothers]]
 
-**Fairy Tale Motifs:**
+#### Fairy Tale Motifs
 [[The Wicked Stepmother]] • [[The Magic Mirror]] • [[The Poisoned Gift]] • [[The Thirteenth Fairy]] • [[The Animal Bridegroom]] • [[The Swan Maiden]] • [[The Stolen Voice]] • [[The Awakening Kiss]] • [[The Hedge of Thorns]] • [[The Glass Coffin]]
 
-**Individuation Process:**
+#### Individuation Process
 [[Confrontation with Shadow]] • [[Encounter with Anima-Animus]] • [[Confrontation with the Self]] • [[Integration and Wholeness]] • [[Ego Formation and Childhood]] • [[Persona Development]]
 
-**Hero's Journey Stages:**
+#### Hero's Journey Stages
 [[The Call to Adventure]] • [[Refusal of the Call]] • [[Crossing the First Threshold]] • [[Belly of the Whale]] • [[The Ordeal]] • [[The Resurrection]] • [[Return with the Elixir]]
 
-**Human Design Connections:**
+#### Human Design Connections
 [[Emotional Solar Plexus]] • [[Sacral Center]] • [[Spleen Center]] • [[Emotional Authority]] • [[Sacral Authority]] • [[Tribal Circuitry]] • [[Individual Circuitry]]
 
 **Astrology:**

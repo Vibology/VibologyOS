@@ -122,7 +122,7 @@ Because the Logic Circuit seeks to understand how things work, stillness is the 
 
 Gate 52 forms **Channel 52-9: Concentration** when connected to Gate 9 in the Sacral Center.
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 
 - **Gate 52 (Root Center):** "I need to pause and assess before acting."
 - **Gate 9 (Sacral Center):** "I have the sustained focus to concentrate on detail."
@@ -132,7 +132,7 @@ When this channel is defined, the individual has **consistent access to sustaine
 
 **Without the channel defined** (only Gate 52 activated), the individual experiences the pressure to be still but may lack the Sacral endurance to sustain focus over time. They need another person with Gate 9 to complete the circuit—someone who can provide the energy to hold concentration.
 
-**Interpersonal Electromagnetic Dynamics:**
+#### Interpersonal Electromagnetic Dynamics
 
 - **Both have Channel 52-9:** Potential for mutual concentration or competition for focus resources, depending on maturity.
 - **One has Gate 52, other has Gate 9:** The Gate 52 person provides the restraint to pause; the Gate 9 person provides the energy to sustain. This can be profoundly generative in partnerships requiring deep work.
@@ -142,7 +142,7 @@ When this channel is defined, the individual has **consistent access to sustaine
 
 Gate 52 is located in the **Root Center**, which corresponds biologically to the **adrenal glands** (stress hormones: cortisol, adrenaline), the **kidneys** (fight-or-flight response), and the **parasympathetic nervous system** (rest-and-digest).
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 52 defined may experience:
 - A **somatic capacity to remain still under pressure**—the nervous system can downregulate even when stress hormones are present
@@ -150,7 +150,7 @@ Individuals with Gate 52 defined may experience:
 - **Lower back tension or kidney sensitivity** when the pressure to remain still is prolonged or when action is being inappropriately delayed
 - Difficulty **initiating action** even when stillness is no longer necessary (inertia from prolonged restraint)
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Root Center radiates **pressure and stress** into the aura. When Gate 52 is active, the aura carries a frequency that says: "Wait. Pause. Do not act yet." Others may feel this as **calming**, **frustrating** (if they are impatient), or (if the individual is in Not-Self) **stuck and paralyzed**.
 
@@ -188,7 +188,7 @@ The 28-day lunar cycle is naturally aligned with Gate 52's stillness. The Reflec
 - **Over-Control:** Attempting to force stillness on oneself or others when movement is natural and correct.
 - **Anxiety Masquerading as Patience:** Restlessness disguised as restraint; the body is still but the mind is racing.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Feeling stuck, unable to move forward even when clarity has arrived
 - Chronic adrenal fatigue from prolonged stress without resolution
@@ -217,7 +217,7 @@ The **7-year deconditioning cycle** for Gate 52 involves learning to recognize w
 
 **Year 7:** Integration phase—stillness becomes aligned with Strategy and Authority. The individual pauses when correct, acts when correct, and no longer confuses the two. Restraint flows naturally (Gene Keys Gift).
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice where stillness arises in the body. Is it the adrenals (stress response)? The muscles (tension)? Or a deep, quiet knowing in the bones?
 - Practice **releasing stillness when it is complete**—allowing the body to move after the pause, rather than holding stillness beyond its usefulness.
@@ -267,14 +267,14 @@ In Jungian terms, Gate 52 corresponds to the **Senex (Wise Old Man) Archetype** 
 
 The Sage archetype seeks wisdom through observation, patience, and restraint. This is not the hermit fleeing the world, but the contemplative who knows when to act and when to wait. Gate 52 is the sage's capacity to **hold stillness even when pressure demands motion**.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 52** manifests as:
 - **Rigidity:** Stillness becoming paralysis; the inability to move even when action is correct.
 - **Passive-Aggression:** Using stillness as a weapon—withholding action to punish or control.
 - **Fear Disguised as Wisdom:** Justifying avoidance by calling it "strategic restraint."
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 52, individuation requires:
 1. **Integration of Action and Stillness:** Recognizing that both are necessary; neither is superior.
@@ -287,7 +287,7 @@ When integrated, Gate 52 becomes the expression of the **Wise Restraint**—the 
 
 When the individual with Gate 52 operates according to their Strategy and Authority, the gift that emerges is **Restraint** (Gene Keys) and **Strategic Stillness** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Stillness flows naturally, without force or rigidity.
 - The individual pauses when assessment is incomplete, but acts decisively when clarity arrives.
@@ -302,7 +302,7 @@ The Signature of the Root Center (for all gates within it) is the experience of 
 - **Being at peace with stillness**, even if others judge it as hesitation
 - **Acting without haste**, trusting that the right moment will reveal itself
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 52 teaches that **stillness is not weakness; it is wisdom**. When the individual honors their need to pause for assessment, they become a **living example** of what it means to think before acting, to restrain before regret, to wait until the pattern is clear. This is the essence of the Collective Logic stream—not to rush, but to **understand before sharing**.
 

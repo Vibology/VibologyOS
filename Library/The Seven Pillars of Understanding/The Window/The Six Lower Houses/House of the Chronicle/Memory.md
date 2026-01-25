@@ -86,18 +86,18 @@ In sacred traditions, this is the enlightened mind whose concepts participate in
 ---
 
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 Memory signals that **ideas give the narrative coherence**. You are being called to hold concepts that make the story memorable, to preserve frameworks that give meaning structure, to refine your ideas until they illuminate rather than obscure. The question is: **what concepts shape your narrative? Are they clarifying or complicating? Do they serve meaning or serve ego?**
 
 The appearance of Memory also suggests that **mental peace is available through refined ideation**. Gate 11's conceptual clarity is activating—circumstances support contemplative refinement, the narrative is ready for ideas that illuminate. The question is whether you will refine toward clarity or elaborate toward obscurity.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware the trap of **complexity masking as profundity**—ideas so abstract they fragment the narrative, concepts that impress but do not illuminate, frameworks so elaborate they prevent rather than preserve memory. Check whether your ideas serve meaning or merely demonstrate intellectual sophistication. Shadow also warns against **ideational chaos**: generating concepts without refinement, holding contradictory frameworks without synthesis, letting mental activity substitute for mental clarity.
 
-**Gift Aspect:**
+#### Gift Aspect
 When Memory expresses its gift, you embody **idealism that illuminates the narrative**. Your concepts give the story structure, your ideas make meaning memorable, your frameworks have been refined through contemplation until only essential truth remains. This is the gift of **clarifying vision**: you hold concepts that allow experience to be understood and transmitted. From this idealism, the narrative endures through time because it can be remembered.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 In its highest expression, Memory becomes **Light**—ideas so clear they illuminate the entire narrative, concepts that allow the story to be seen by all. You embody mental clarity as spiritual service, ideation as act of revelation. Those who touch this frequency become **beacons whose ideas preserve meaning across generations, whose memory illuminates the collective narrative, whose concepts participate in eternal wisdom**.
 
 ---

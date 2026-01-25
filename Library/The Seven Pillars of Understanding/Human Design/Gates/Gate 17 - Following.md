@@ -122,7 +122,7 @@ Because the Collective Logic Circuit is designed to **recognize and share reliab
 
 Gate 17 forms **Channel 17-62: Acceptance (The Channel of Organizational Awareness)** when connected to Gate 62 in the Throat Center.
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 
 - **Gate 17 (Ajna):** "I have formulated opinions about patterns through sustained observation and service."
 - **Gate 62 (Throat):** "I can articulate these opinions with precise detail and logical clarity."
@@ -132,7 +132,7 @@ When this channel is defined, the individual has **consistent access to organiza
 
 **Without the channel defined** (only Gate 17 activated), the individual experiences mental opinions but may struggle to express them clearly. They need another person with Gate 62 to complete the electromagnetic circuit—someone who can help them articulate their frameworks with precision.
 
-**Interpersonal Electromagnetic Dynamics:**
+#### Interpersonal Electromagnetic Dynamics
 
 - **Both have Channel 17-62:** Potential intellectual collaboration or conflict over whose organizational framework is correct. Can be profoundly generative if both honor each other's observations.
 - **One has Gate 17, other has Gate 62:** The Gate 17 person provides mental frameworks; the Gate 62 person provides precise articulation. This can create balanced partnership—vision and voice.
@@ -142,7 +142,7 @@ When this channel is defined, the individual has **consistent access to organiza
 
 Gate 17 is located in the **Ajna Center**, which corresponds biologically to the **pituitary gland** (anterior lobe)—the master gland that regulates mental processing, conceptualization, and awareness.
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 17 defined may experience:
 - A **somatic drive to observe and organize mentally**—the mind wants to categorize, structure, and formulate opinions
@@ -150,7 +150,7 @@ Individuals with Gate 17 defined may experience:
 - A felt sense of **mental clarity** when patterns are observed long enough to produce coherent frameworks
 - **Headaches or mental fatigue** when forced to form opinions without adequate observation (mental Not-Self pressure)
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Ajna Center radiates **conceptual awareness** into the aura. When Gate 17 is active, the aura carries a frequency that says: "I am here to observe patterns and formulate opinions that serve collective organization." Others may feel this as **intelligent**, **organized**, or (if the individual is in Not-Self) **opinionated** or **rigid**.
 
@@ -188,7 +188,7 @@ The opinion formation is inconsistent (activated only by transits or others). Th
 - **Opinionated Judgment:** Weaponizing mental frameworks to judge others, using logic to dominate rather than organize.
 - **Disconnected Theory:** Formulating opinions without serving the patterns—intellectual frameworks that look good on paper but don't work in practice.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Mental pressure to have opinions about everything, even without adequate observation
 - Frustration when opinions are not accepted or implemented (for Generators/MGs)
@@ -216,7 +216,7 @@ The **7-year deconditioning cycle** for Gate 17 involves learning to recognize w
 
 **Year 7:** Integration phase—opinion formation becomes aligned with Strategy and Authority. The individual formulates frameworks from **far-sightedness** (Gene Keys Gift) rather than reactive judgment. Opinions serve the collective's organizational needs rather than personal intellectual validation.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice where the impulse to form opinions arises in the body. Is it the head (mental pressure)? The throat (need to express)? Or genuine mental clarity from sustained observation?
 - Practice **observation without judgment**—seeing patterns without immediately organizing them into frameworks. Allow opinions to emerge organically.
@@ -262,14 +262,14 @@ In Jungian terms, Gate 17 corresponds to the **Observer Archetype** and the driv
 
 The Observer archetype seeks to understand patterns deeply through sustained attention, to formulate frameworks that organize complexity, to serve the truth of what is rather than impose the fantasy of what should be.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 17** manifests as:
 - **The Opinionator:** Forming judgments compulsively, using mental frameworks to control or judge rather than organize and serve.
 - **The Intellectual:** Identifying with opinions, believing that mental clarity equals superiority, using frameworks as weapons.
 - **The Servant:** Formulating opinions to please authority figures, sacrificing mental integrity for approval.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 17, individuation requires:
 1. **Service to Patterns:** Recognizing that true opinions emerge from observing and serving reality, not from imposing personal preference.
@@ -282,7 +282,7 @@ When integrated, Gate 17 becomes the expression of **organizational wisdom**—t
 
 When the individual with Gate 17 operates according to their Strategy and Authority, the gift that emerges is **Far-Sightedness** (Gene Keys) and **Organizational Awareness Through Service** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Opinions form naturally from sustained observation rather than reactive judgment.
 - The individual serves patterns before attempting to organize them, ensuring frameworks reflect reality.
@@ -298,7 +298,7 @@ The Signature of the Ajna Center varies by Type, but for Gate 17 specifically, t
 - **Recognition** when opinions are shared at correct invitation (for Projectors)
 - **Trust** in the process of sustained observation before framework formation
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 17 teaches that **true authority comes from service to patterns**. When the individual honors their Strategy and Authority, observes deeply before formulating opinions, and shares frameworks when correct, they become a **living example** of organizational wisdom. This is the essence of the Collective Logic Circuit—to recognize patterns and organize them for collective benefit.
 

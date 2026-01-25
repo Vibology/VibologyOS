@@ -16,6 +16,7 @@ planetary: Saturn in Taurus
 decan: Third decan of Taurus (20°-30°)
 title: Lord of Success Unfulfilled
 ---
+# Seven of Pentacles
 
 *Saturn in Taurus - The third decan of Taurus*
 

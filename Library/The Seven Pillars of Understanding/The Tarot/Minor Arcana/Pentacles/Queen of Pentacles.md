@@ -14,6 +14,7 @@ court_rank: Queen
 elemental_formula: Water of Earth
 zodiac_correspondence: Taurus, Virgo, Capricorn (earth signs embodied)
 ---
+# Queen of Pentacles
 
 *The Earth Mother, the Generous Provider*
 

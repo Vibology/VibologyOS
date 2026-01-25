@@ -8,6 +8,7 @@ verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Huang 1998, Rudd 2013, Ra Uru Hu 2011, Blueprint 2026) + Vibology Synthesis"
 ---
+# The Window
 *A Contemporary 1980s-themed Archetypal Resonance and Oracle Divination System*
 
 ---

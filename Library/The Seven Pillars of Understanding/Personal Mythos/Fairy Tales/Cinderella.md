@@ -240,7 +240,7 @@ Baba Yaga's gift—the **skull with burning eyes**—is the **third eye**, the v
 - **The burning gaze** – Fire as **purification and destruction**, the light that reveals and incinerates
 - **The weapon against the shadow** – The skull follows the stepfamily wherever they hide, burning them to ash. **Acute seeing destroys what cannot bear to be seen.**
 
-**Psychological Function:**
+#### Psychological Function
 When Vasilisa returns with the skull, she has **integrated Baba Yaga's power**—she now carries the wild, unflinching vision of the Crone. She can see her stepfamily for what they are: **parasitic complexes**, false selves, inner persecutors. The skull's fire is the **psyche's immune response**, burning away the pathology.
 
 **Estés:** The fiery skull is the **wild woman's refusal to tolerate psychic parasites**. Once the soul has been to Baba Yaga and earned the fire, it can no longer be colonized by cruelty or mediocrity.
@@ -268,7 +268,7 @@ The **glass slipper** (or golden shoe, or radiant cloth) is the tale's most icon
 
 The **ball** (or visit to the church in some variants) is the **liminal space**, the threshold between the old world (hearth, ashes, stepfamily) and the new (palace, throne, marriage). It operates at **midnight**, the hour when day becomes night, conscious meets unconscious.
 
-**Psychological Function:**
+#### Psychological Function
 - **The ball is the ego's first glimpse of the Self's radiance** – For one night, Cinderella appears as she truly is (the magical gown is not disguise but **revelation**)
 - **The flight at midnight** – The Self cannot remain in the conscious world permanently until integration is complete. Cinderella flees because **the transformation is not yet stable**—she is still partly identified with the ash-girl.
 - **Leaving the slipper** – The slipper is the **trace**, the clue, the soul-fragment left behind so the Animus can find the source
@@ -515,7 +515,7 @@ Write a dialogue between yourself and your inner stepmother. Let her speak:
 
 #### 2. Feed Your Doll (Restore Intuition)
 
-**Practice:**
+#### Practice
 - **Daily check-in:** "Doll, what do you know?" (Ask your gut, your body, your deep knowing)
 - **Feed it:** Give the doll attention (meditation, journaling, dreamwork), nourishment (beauty, rest, nature), trust (act on its counsel)
 - **Track its accuracy:** Notice when you ignored the doll and regretted it; when you obeyed and were saved
@@ -554,7 +554,7 @@ Write a dialogue between yourself and your inner stepmother. Let her speak:
 - *What "fits" me perfectly—and what have I been forcing myself into?*
 - *If the Prince (Animus, inner authority, the Self) were searching for me, what would he recognize me by?*
 
-**Practice:**
+#### Practice
 - Create or identify a physical object that represents your soul-signature (a piece of art, a written piece, a craft, a way of being)
 - Place it somewhere visible
 - When you doubt your worth, return to it: **"This is mine. This fits. This is proof."**
@@ -587,7 +587,7 @@ Write a dialogue between yourself and your inner stepmother. Let her speak:
 ---
 
 ## Cross-References
-**Archetypal Figures:**
+#### Archetypal Figures
 [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] • [[The Alchemist]] • [[The Idol]] • [[The Shadow]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Persona]] • [[The Wise Old Man]]
 
 **Jungian Concepts:**
@@ -596,16 +596,16 @@ Write a dialogue between yourself and your inner stepmother. Let her speak:
 **Tarot Keys:**
 [[The Star]] • [[The Empress]] • [[Justice]] • [[Death]] • [[Temperance]] • [[The Moon]] • [[Strength]] • [[The Lovers]]
 
-**Alchemical Stages:**
+#### Alchemical Stages
 [[Nigredo]] • [[Albedo]] • [[Citrinitas]] • [[Rubedo]] • [[Solve et Coagula]] • [[Philosopher's Stone]] • [[Coniunctio]] • [[Prima Materia]]
 
-**Mythological Parallels:**
+#### Mythological Parallels
 [[Psyche and Eros]] • [[Persephone and Demeter]] • [[Inanna's Descent]] • [[Orpheus and Eurydice]] • [[Hades and Persephone]]
 
-**Fairy Tale Motifs:**
+#### Fairy Tale Motifs
 [[The Dead Mother]] • [[The Helpful Animal]] • [[The Impossible Task]] • [[The Magic Object]] • [[The Recognition Token]] • [[The Transformed Bride]]
 
-**Related Tales:**
+#### Related Tales
 [[Beauty and the Beast]] • [[Snow White]] • [[The Handless Maiden]] • [[Vasilisa the Beautiful]] • [[Allerleirauh]] • [[Cap O' Rushes]] • [[The Goose Girl]]
 
 **Hero's Journey / Individuation Process:**

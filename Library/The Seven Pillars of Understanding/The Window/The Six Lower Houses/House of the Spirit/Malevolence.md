@@ -86,18 +86,18 @@ In sacred traditions, this is the being whose precision has become transparent t
 ---
 
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 Malevolence signals that **precision has been weaponized**. You are being warned against using knowledge to harm, against deploying understanding to control, against allowing consciousness to become instrument of cruelty. This is a time to **check whether your awareness serves life or dominates it**. The card cautions: your soul is using precision to wound. Return to ethical consciousness.
 
 The appearance of Malevolence also suggests that **intellectual capacity has been divorced from compassion**. Gate 62's shadow is expressing—knowledge without conscience, precision without ethics. The question is whether you will reorient your understanding toward service or continue weaponizing it.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware the trap of **malevolent precision**—consciousness weaponizing knowledge, soul health corrupted into using details to control or destroy. The shadow manifests as: calculated cruelty, rationalized harm, intellectual justification of unethical action, precision deployed to wound rather than heal. Your inner divinity has become instrument of destruction.
 
-**Gift Aspect:**
+#### Gift Aspect
 The way through Malevolence is **ethical precision**—consciousness that deploys detail mastery to serve truth, understanding organized to illuminate rather than harm. Reorient your knowledge. Choose whom and what your precision serves. The gift transforms weaponized intellect into healing articulation—precision as service rather than weapon.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 In its highest healing, Malevolence dissolves into **Impeccability**—consciousness incapable of weaponizing knowledge because it has merged with the love that gives knowledge purpose. Those who touch this frequency recognize that all awareness is sacred—that precision serves truth by nature, not by choice. They demonstrate that **the end of malevolence is not less knowledge but more love**.
 
 ---

@@ -120,7 +120,7 @@ The Abstract Circuit cannot learn through safety or comfort—it must **feel dee
 
 Gate 36 forms **Channel 35-36: Transitoriness** when connected to Gate 35 in the Throat.
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 
 - **Gate 36 (Solar Plexus):** "I feel the crisis, the emotional depth of experience."
 - **Gate 35 (Throat):** "I articulate my hunger for new experience."
@@ -130,7 +130,7 @@ When this channel is defined, the individual has **consistent access to experien
 
 **Without the channel defined** (only Gate 36 activated), the individual experiences **emotional crisis** but may lack the hunger for experience that transforms crisis into evolution. They need someone with Gate 35 to complete the circuit.
 
-**Interpersonal Electromagnetic Dynamics:**
+#### Interpersonal Electromagnetic Dynamics
 
 - **Both have Channel 35-36:** Mutual hunger for experience and shared emotional intensity. Potential for co-creating crisis or profound growth.
 - **One has Gate 36, other has Gate 35:** The Gate 36 person provides emotional depth; the Gate 35 person provides hunger for change. This can be transformative.
@@ -140,14 +140,14 @@ When this channel is defined, the individual has **consistent access to experien
 
 Gate 36 is located in the **Solar Plexus Center**, which corresponds biologically to the **solar plexus/nerve plexus** and the **kidneys**. The Solar Plexus is the **Awareness Center of Spirit**—emotional intelligence, the wave of feeling, the chemistry of mood.
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 36 defined may experience:
 - **Intense emotional waves**, especially descending into the valley—deep feeling, melancholy, crisis
 - **Nervous system sensitivity** during emotional lows (the nerve plexus is the biological correlate)
 - **Kidney stress** if emotional intensity is chronic or unprocessed (kidneys process emotional toxins)
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Solar Plexus Center radiates **emotional wave** into the aura. When Gate 36 is active, the aura carries a frequency that says: "I am feeling deeply. I am in crisis. This darkness is teaching me." Others may feel this as **intense**, **vulnerable**, or (if in Not-Self) **turbulent and chaotic**.
 
@@ -189,7 +189,7 @@ The crisis is inconsistent (activated by transits or others). The Reflector must
 - **Emotional Manipulation:** Using crisis to control others, weaponizing vulnerability.
 - **Isolation in Suffering:** Refusing support (line 2 detriment), enduring darkness alone unnecessarily.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Feeling constantly in crisis without resolution
 - Seeking drama or intensity to feel alive
@@ -217,7 +217,7 @@ The **7-year deconditioning cycle** for Gate 36 involves learning to recognize w
 
 **Year 7:** Integration phase—crisis becomes **humanity** (Gene Keys Gift) rather than turbulence. The individual feels deeply without identifying with suffering. Crisis teaches compassion.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice where emotional intensity arises in the body. Is it the solar plexus (Gate 36)? The throat (expression)? Or absorbed from others?
 - Practice **waiting through the wave**—not making decisions in the valley, trusting the cycle.
@@ -263,14 +263,14 @@ In Jungian terms, Gate 36 corresponds to the **Wounded Healer Archetype** and th
 
 The Wounded Healer learns compassion through personal suffering, descends into crisis, and emerges with the capacity to hold space for others' pain.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 36** manifests as:
 - **Victim Identity:** Confusing crisis with permanent state, believing "I am my suffering."
 - **Crisis Addiction:** Seeking drama to feel alive, unable to tolerate peace.
 - **Martyrdom:** Using suffering to manipulate or control others.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 36, individuation requires:
 1. **Separation from Victim Consciousness:** Recognizing crisis as transitional, not identity.
@@ -283,7 +283,7 @@ When integrated, Gate 36 becomes the expression of **Compassion**—holding spac
 
 When the individual with Gate 36 operates according to their Strategy and Authority, the gift that emerges is **Humanity** (Gene Keys) and **Emotional Wisdom** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Crisis becomes **teacher**—darkness reveals what light cannot.
 - The individual **trusts the wave**—knowing the valley will give way to the peak.
@@ -298,7 +298,7 @@ The Signature of the Solar Plexus Center is **emotional clarity over time**. For
 - Allowing crisis without resistance or addiction
 - Emerging from darkness with wisdom
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 36 teaches that **darkness is not pathology—it is necessity**. When the individual honors the emotional wave and trusts the cycle, they become a **living example** of compassion forged in crisis.
 

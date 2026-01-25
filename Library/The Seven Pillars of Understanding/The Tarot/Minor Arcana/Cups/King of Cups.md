@@ -14,6 +14,7 @@ element_primary: Fire
 element_secondary: Water
 title: Lord of the Waves and Waters, King of the Hosts of the Sea
 ---
+# King of Cups
 *Lord of the Waves and Waters, King of the Hosts of the Sea*
 
 ---
@@ -73,7 +74,7 @@ The King of Cups as a **Process** or **Energy**: The activation of emotional sov
 
 **Keywords**: Emotional sovereignty, compassionate authority, creative intelligence, wise counsel, the calm in the storm, feeling with will, mastery applied, leadership through understanding.
 
-**Reversed (per Waite):**
+#### Reversed (per Waite)
 
 Dishonest, double-dealing man. Roguery, exaction, injustice. The reversal corrupts the King's watery gifts. The reversed King can signify:
 - **Emotional manipulation**: Understanding used to control rather than serve

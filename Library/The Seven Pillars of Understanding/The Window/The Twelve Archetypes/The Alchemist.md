@@ -12,6 +12,7 @@ gate: 43
 hexagram: 43 (Breakthrough)
 gene_keys: Deafness → Insight → Epiphany
 ---
+# The Alchemist
 *Prince - The Integrated Totality*
 
 ---
@@ -74,18 +75,18 @@ In sacred traditions, Epiphany corresponds to enlightenment—the moment when th
 
 ---
 ## Oracle Reading
-**When this card appears:**
+#### When this card appears
 You are being called to **breakthrough into totality**. Something wants to emerge that has never existed before—an insight, an identity, an expression that transcends conventional categories. This is not the time for conformity or incremental change. Trust inner knowing. Mutate. Become what has never been. The Alchemist is individuating through you.
 
 The appearance of The Alchemist also suggests that **integration is completing or required**. Gate 43's breakthrough function is activating—the pressure of insight building toward release. The question is whether you will proclaim your knowing at the court of the king or remain deaf to what's trying to emerge.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware deafness disguised as practicality—refusing to hear the breakthrough because it would require transformation too radical. The Alchemist un-integrated clings to categories (gender, role, identity) because totality is terrifying. Beware also premature announcement (Line 3 detriment): sharing insight before it's matured, speaking breakthrough before dedication has solidified knowing into clarity. Check whether you're avoiding the breakthrough or forcing it before its time.
 
-**Gift Aspect:**
+#### Gift Aspect
 Your insight mutates consciousness. You hear what others cannot hear, know what has never been known, become what defies category. You are the Individual whose breakthrough empowers collective evolution—not by conforming but by **demonstrating totality**. Your refusal to be defined gives others permission to become wholly themselves. The gift is announcing what you know, even when it challenges the king.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 You embody Epiphany—the recognition that The Self is not personal achievement but cosmic principle. You have transcended the question "who am I?" because you know: **I am totality expressing uniquely through this form**. You are eternal breakthrough: consciousness recognizing itself as infinite creativity refusing all limitation. At this frequency, becoming and being are one; individuation reveals what was always present.
 
 ---

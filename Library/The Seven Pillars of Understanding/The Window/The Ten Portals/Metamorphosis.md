@@ -11,6 +11,7 @@ gate: 3
 hexagram: 3 (Difficulty at the Beginning)
 gene_keys: Chaos → Innovation → Innocence
 ---
+# Metamorphosis
 *Difficulty at the Beginning - Biological and Essential Change*
 
 ---
@@ -63,16 +64,16 @@ Chaos → Innovation → Innocence
 
 ---
 ## Oracle Reading
-**When this portal appears:**
+#### When this portal appears
 You are in metamorphosis. Something fundamentally new is emerging—identity, vocation, consciousness, biological state—and the beginning is difficult. You are in chaos, confusion, the turbulent early stage where new order has not yet crystallized. The question is: can you persist through this difficulty? Does your Sacral have the life force to sustain innovation through its chaotic birth? Can you trust that order will emerge if you simply continue responding "yes" to what arises? Metamorphosis calls: **move through the chaos**—difficulty at the beginning is not evidence of failure but proof that mutation is underway.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware retreat disguised as wisdom—abandoning innovation because initial chaos feels overwhelming, mistaking the necessary difficulty of new beginnings for evidence that transformation is wrong. The shadow lacks Sacral endurance, quits before mutation can complete, remains in old patterns because they feel safer than chaos. Beware also forcing order prematurely: trying to control the metamorphosis, imposing structure before organic pattern emerges. True innovation requires **patience with chaos**—the caterpillar cannot rush its liquefaction.
 
-**Gift Aspect:**
+#### Gift Aspect
 Your Sacral has responded "yes" to this mutation. You have **life force adequate to the chaos**. Now persist: clouds and thunder precede clearing, the seed pushes through soil through sheer vitality, order emerges organically when you continue moving through difficulty. You are the innovator who brings unprecedented form from chaos, who trusts that synthesis will occur if you simply sustain the energy of new beginning.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 You embody Innocence—the recognition that all metamorphosis is guided by intelligence beyond conscious control, that life knows how to transform itself, that difficulty at the beginning is biological necessity not cosmic punishment. You are the seed sprouting, the caterpillar dissolving, the storm that clears. Metamorphosis as cosmic principle: **chaos is the womb of innovation**. The innocent trust that life, meeting resistance, always finds its way to new form.
 
 ---

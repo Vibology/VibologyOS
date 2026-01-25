@@ -84,7 +84,7 @@ The Enochian alphabet consists of 21 characters, each with:
 
 **Word Order:** Subject-Verb-Object (similar to English)
 
-**Example:**
+#### Example
 - **Enochian:** "Ol Sonf Vors G"
 - **Literal:** "I reign over you"
 - **English:** "I reign over you"
@@ -458,7 +458,7 @@ Some Enochian manuscripts indicate that certain Keys should be spoken **in rever
 
 **Purpose:** Open a specific Aethyr for vision
 
-**Method:**
+#### Method
 1. Prepare sacred space (LBRP, Tablet of Union)
 2. Vibrate the **19th Key**, inserting the Aethyr name (e.g., "TEX")
 3. Gaze into crystal or enter trance
@@ -469,7 +469,7 @@ Some Enochian manuscripts indicate that certain Keys should be spoken **in rever
 
 **Purpose:** Call the elemental King for guidance or power
 
-**Method:**
+#### Method
 1. Determine the appropriate Watchtower (Air/East, Fire/South, Water/West, Earth/North)
 2. Vibrate the Tablet of Union
 3. Vibrate the name of the King (e.g., **BATAIVAH** for Air)

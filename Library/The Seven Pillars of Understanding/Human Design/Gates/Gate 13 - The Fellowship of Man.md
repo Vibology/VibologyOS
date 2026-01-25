@@ -122,7 +122,7 @@ Because the Sharing Circuit operates to **gather universal patterns**, Gate 13 m
 
 Gate 13 forms **Channel 13-33: The Prodigal (The Witness)** when connected to Gate 33 in the Throat Center.
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 
 - **Gate 13 (G Center):** "I listen to and witness the stories of human experience."
 - **Gate 33 (Throat):** "I will share the wisdom gained from listening, when privacy ends and the time is right."
@@ -132,7 +132,7 @@ When this channel is defined, the individual has **consistent access to both lis
 
 **Without the channel defined** (only Gate 13 activated), the individual experiences **listening without expression**. They hear deeply, witness profoundly, but may struggle to articulate or share what they've learned. They may need another person with Gate 33 to complete the electromagnetic circuit—someone who can help them find the words or the timing to express collective wisdom.
 
-**Interpersonal Electromagnetic Dynamics:**
+#### Interpersonal Electromagnetic Dynamics
 
 - **Both have Channel 13-33:** Potential mutual witnessing, or competition over who holds/shares collective wisdom.
 - **One has Gate 13, other has Gate 33:** The Gate 13 person provides the listening; the Gate 33 person provides the voice. This can be profoundly generative—listener and speaker, witness and teacher.
@@ -142,7 +142,7 @@ When this channel is defined, the individual has **consistent access to both lis
 
 Gate 13 is located in the **G Center**, which corresponds biologically to the **liver** and the **magnetic monopole**—the orientation mechanism that determines direction, identity, and the experience of love.
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 13 defined may experience:
 - A **somatic capacity to "hold" others' stories**—feeling them in the body, the liver processing emotional/energetic material
@@ -150,7 +150,7 @@ Individuals with Gate 13 defined may experience:
 - A felt sense of **universal direction**—knowing that their path involves being present to collective human experience
 - **Liver sensitivity** if they violate boundaries and listen to too much without discernment
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The G Center radiates **identity and direction** into the aura. When Gate 13 is active, the aura carries a frequency that says: "I am safe to confide in. I will witness your story without judgment." Others may feel this as **inviting**, **trustworthy**, or (if the individual is in Not-Self) **overwhelming** if they project "fix me" onto the listener.
 
@@ -188,7 +188,7 @@ The listening is inconsistent (activated only by transits or others). The Reflec
 - **Listening Fatigue:** Becoming apathetic or numb from witnessing too much, shutting down empathy entirely.
 - **Toxic Positivity:** Refusing to witness darkness or pain, insisting on "positive" stories only, invalidating real suffering.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Feeling overwhelmed by others' stories, unable to maintain boundaries
 - Compulsively listening to everyone without discernment
@@ -216,7 +216,7 @@ The **7-year deconditioning cycle** for Gate 13 involves learning to recognize w
 
 **Year 7:** Integration phase—listening becomes aligned with Strategy and Authority. The individual witnesses from **discernment** (Gene Keys Gift) rather than discord. They recognize which stories are theirs to hold and which are not. Empathy flows naturally without self-sacrifice.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Notice where others' stories land in the body. Do they settle in the liver (G Center)? The gut (Sacral)? The heart (Solar Plexus)? Or do they pass through without attachment?
 - Practice **empathic boundaries**—witnessing without absorbing, holding space without taking on.
@@ -262,14 +262,14 @@ In Jungian terms, Gate 13 corresponds to the **Witness Archetype** and the **Col
 
 The Witness archetype observes without intervention, holds space without fixing, and recognizes patterns across time and culture. This is the therapist, the historian, the elder who has "heard it all" and can say: "Yes, this is part of being human."
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 13** manifests as:
 - **The Martyr:** Absorbing everyone's pain, believing one must "save" the collective, collapsing under the weight of collective suffering.
 - **The Judge:** Refusing to witness stories that challenge one's worldview, creating separation and bigotry.
 - **The Empath Who Lost the Self:** Dissolving into others' experiences, losing one's own identity and direction.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 13, individuation requires:
 1. **Recognizing that witnessing is service, not sacrifice:** Listening does not require self-dissolution.
@@ -282,7 +282,7 @@ When integrated, Gate 13 becomes the expression of **compassionate witness**—t
 
 When the individual with Gate 13 operates according to their Strategy and Authority, the gift that emerges is **Discernment** (Gene Keys) and **Sacred Witness** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Listening is offered with clear boundaries, serving both the individual and the collective.
 - The individual witnesses **when invited** (if Projector), **after response** (if Generator), or **with awareness** (if Manifestor)—always aligned with Strategy and Authority.
@@ -297,7 +297,7 @@ The Signature of the G Center (for all gates within it) is the experience of **L
 - **Direction through witness**—knowing that one's path involves holding collective memory
 - **Empathy without boundary violation**—compassionate witness that does not require self-sacrifice
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 13 teaches that **listening is a sacred act**. When the individual honors their capacity to witness, maintains clear boundaries, and shares collective wisdom only when aligned with Strategy and Authority, they become a **living example** of what it means to hold space for humanity. This is the essence of the Collective Sharing Circuit—to gather universal wisdom and offer it in service to the future.
 

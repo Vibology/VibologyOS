@@ -15,6 +15,7 @@ planetary: Moon in Aquarius
 decan: Third decan of Aquarius (20-30 degrees)
 title: Lord of Unstable Effort
 ---
+# Seven of Swords
 
 *Lord of Unstable Effort*
 

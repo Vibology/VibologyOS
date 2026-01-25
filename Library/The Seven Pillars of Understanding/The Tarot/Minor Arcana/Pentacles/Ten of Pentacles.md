@@ -16,6 +16,7 @@ planetary: Mercury in Virgo
 decan: Third decan of Virgo (20°-30°)
 title: Lord of Wealth
 ---
+# Ten of Pentacles
 
 *Mercury in Virgo - The third decan of Virgo*
 

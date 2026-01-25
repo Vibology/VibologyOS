@@ -68,7 +68,7 @@ Virgo is the mutable earth sign that refines, edits, and perfects. Mercury, as r
 
 The **ruler of the 6th House** (the planet ruling the sign on the 6th House cusp) reveals *how* you approach daily work, health, and service.
 
-**Examples:**
+#### Examples
 - **Venus ruling 6th → Taurus/Libra on 6th cusp** — Work must be beautiful; service through aesthetics, harmony
 - **Jupiter ruling 6th → Sagittarius/Pisces on 6th cusp** — Work as teaching, service through meaning, optimistic health practices
 - **Saturn ruling 6th → Capricorn/Aquarius on 6th cusp** — Work as duty; health through discipline, service as obligation

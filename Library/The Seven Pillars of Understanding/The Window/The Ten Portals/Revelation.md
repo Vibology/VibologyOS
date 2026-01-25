@@ -11,6 +11,7 @@ gate: 33
 hexagram: 33 (Retreat)
 gene_keys: Forgetting → Mindfulness → Revelation
 ---
+# Revelation
 *Retreat - Uncovering Absolute Truth*
 
 ---
@@ -63,16 +64,16 @@ Forgetting → Mindfulness → Revelation
 
 ---
 ## Oracle Reading
-**When this portal appears:**
+#### When this portal appears
 You are being called to revelation through retreat. Something you have experienced requires **withdrawal and reflection** to be understood. The truth you seek will not emerge in collective noise but in strategic privacy. The question is: can you retreat with dignity rather than defeat? Can you withdraw not to escape but to process, to remember mindfully, to allow solitude to distill experience into wisdom? Revelation calls: **heaven retreats before mountain**—preserve what is valuable by creating distance, then return to share what reflection has uncovered.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware forgetting disguised as retreat—withdrawing to avoid rather than process, using privacy to escape collective engagement rather than to reflect on it meaningfully. The shadow isolates and forgets; experience dissolves into amnesia rather than distilling into wisdom. Beware also premature revelation: sharing before reflection is complete, speaking memory before it has transformed into story, articulating experience that has not yet revealed its meaning. True revelation requires **timing**—knowing when withdrawal has completed its work.
 
-**Gift Aspect:**
+#### Gift Aspect
 Your retreat is serving revelation. The withdrawal you're experiencing is **strategic, not escape**—you are processing experience, distilling memory, allowing privacy to transform what you've lived into wisdom worth sharing. Line 3 (Spirit) actualized: maintaining morale even in retreat, trusting that solitude renews rather than depletes. Now be mindful: reflect consciously, remember with intention, allow the story to emerge at its own pace.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 You embody Revelation—the recognition that all truth emerges from the alchemy of solitude transforming experience, that collective memory is born in individual privacy, that the prophet must withdraw before they can illuminate. You are mountain under heaven, the stillness that preserves wisdom when movement would corrupt it, the voice that returns from retreat carrying truth. Revelation as cosmic principle: **absolute truth requires absolute privacy to gestate**. The revelation that changes the world is born in the cave, the wilderness, the hermit's cell.
 
 ---

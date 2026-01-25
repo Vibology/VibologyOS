@@ -188,7 +188,7 @@ Mercury retrogrades **three to four times per year**, each cycle lasting approxi
 ## Shadow Expression
 Mercury's shadow is **deception**—both self-deception and the manipulation of others through language. The Trickster who serves consciousness can also betray it.
 
-**Shadow expressions:**
+#### Shadow expressions
 - **The Sophist:** Argument for argument's sake; language as weapon, not bridge
 - **The Gossip:** Communication without integrity; spreading information to wound or elevate the self
 - **The Intellectual:** Hiding in abstraction; thought divorced from embodiment or action

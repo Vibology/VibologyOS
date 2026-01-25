@@ -11,6 +11,7 @@ gate: 42
 hexagram: 42 (Increase)
 gene_keys: Expectation → Detachment → Celebration
 ---
+# Consecration
 *Increase - Ritual Entry into a New Role*
 
 ---
@@ -63,16 +64,16 @@ Expectation → Detachment → Celebration
 
 ---
 ## Oracle Reading
-**When this portal appears:**
+#### When this portal appears
 You are approaching consecration. Something you have been growing—skill, experience, understanding, relationship—is reaching **fullness and completion**. This is not just ending but **maturation that creates new beginning**. The question is: can you allow completion to occur organically? Can you maximize this experience without forcing, bringing it to fullness through patient endurance? Can you recognize that completion consecrates you for new role? Consecration calls: **growth toward fullness creates authority**—what you have brought to maturity now qualifies you for what comes next.
 
-**Shadow Aspect:**
+#### Shadow Aspect
 Beware expectation disguised as dedication—forcing completion according to timeline, pushing for consecration before experience has naturally reached fullness, seeking new role while old phase remains incomplete. The shadow rushes ordination, claims mastery prematurely, demands initiation it has not earned through patient growth. Beware also inability to complete: starting many experiences but finishing none, avoiding the endurance required to maximize what you begin. True consecration requires **bringing experiences to actual fullness**, not declaring them complete when they remain immature.
 
-**Gift Aspect:**
+#### Gift Aspect
 You have the Sacral endurance to bring this to completion. The experience you're maximizing is **worth finishing**—your life force has responded "yes" to seeing this through to fullness. Now practice detachment: release timeline, release expectation of specific outcome, simply allow the growth to reach its natural conclusion. Line 3 (Trial and Error) actualized: learning through experience which commitments serve growth. When completion arrives organically, consecration follows naturally.
 
-**Siddhi/Transcendent Aspect:**
+#### Siddhi/Transcendent Aspect
 You embody Celebration—the recognition that every experience brought to fullness is sacred, that completion itself is the ritual that consecrates new beginning, that growth maximized creates authority not through ambition but through natural overflow. You are wind and thunder augmenting, the cup that fills until it spills, the apprentice who becomes master simply by completing the journey. Consecration as cosmic principle: **fullness creates capacity**. The vessel expanded through patient growth can now hold what was previously too vast. Celebrate the completion. Enter the new role it has prepared.
 
 ---

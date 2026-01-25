@@ -122,7 +122,7 @@ Because the Logic Circuit seeks to understand **repeatable patterns**, it must r
 
 Gate 5 forms **Channel 5-15: Rhythm (also called "Being in the Flow")** when connected to Gate 15 in the G Center.
 
-**Electromagnetic Function:**
+#### Electromagnetic Function
 
 - **Gate 5 (Sacral):** "I have the life force attuned to natural rhythms and cycles."
 - **Gate 15 (G Center):** "I embody love of humanity through honoring extremes and finding balance."
@@ -136,7 +136,7 @@ This channel creates individuals who are **naturally rhythmic**—they know when
 
 **Without the channel defined** (only Gate 5 activated), the individual has the Sacral capacity to attune to rhythm but may lack the consistent **directional alignment** (Gate 15, G Center) that allows rhythm to guide identity and movement. They need someone with Gate 15 to complete the electromagnetic circuit.
 
-**Interpersonal Electromagnetic Dynamics:**
+#### Interpersonal Electromagnetic Dynamics
 
 - **Both have Channel 5-15:** Potential rhythmic alignment or conflict, depending on whether their natural rhythms are compatible.
 - **One has Gate 5, other has Gate 15:** The Gate 5 person brings Sacral rhythm; the Gate 15 person brings directional love of humanity. Together they create flow.
@@ -146,7 +146,7 @@ This channel creates individuals who are **naturally rhythmic**—they know when
 
 Gate 5 is located in the **Sacral Center**, which corresponds biologically to the **ovaries** (in those assigned female at birth) or **testes** (in those assigned male at birth). The Sacral is the **life force center**—fertility, sexuality, creativity, work capacity, and sustainability.
 
-**Physiological Signature:**
+#### Physiological Signature
 
 Individuals with Gate 5 defined may experience:
 - Strong **circadian rhythm sensitivity**—the body knows when to wake, when to sleep, when to eat
@@ -154,7 +154,7 @@ Individuals with Gate 5 defined may experience:
 - Sensitivity to **seasonal shifts**—energy levels change with solstices, equinoxes, or lunar cycles
 - **Work rhythm clarity**—knowing when peak energy occurs and when rest is needed
 
-**Energetic Signature:**
+#### Energetic Signature
 
 The Sacral Center radiates **life force and fertility** into the aura. When Gate 5 is active, the aura carries a frequency of **"I am aligned with natural timing."** Others may perceive this as **grounded**, **patient**, or (if the individual is in Not-Self) **rigid or stuck**.
 
@@ -192,7 +192,7 @@ The rhythmic attunement is experienced only through transits or proximity to oth
 - **Ignoring Cycles:** Pushing through fallow periods rather than honoring rest, leading to burnout.
 - **Imposing Rhythm on Others:** Believing one's rhythm is universal, judging others for different timing.
 
-**Not-Self Indicators:**
+#### Not-Self Indicators
 
 - Feeling chronically out of sync with life
 - Forcing productivity during low-energy cycles
@@ -220,7 +220,7 @@ The **7-year deconditioning cycle** for Gate 5 involves learning to trust the bo
 
 **Year 7:** Integration phase—rhythm becomes second nature. The individual moves from **impatience** (Gene Keys Shadow) to **patience** (Gift) to **timelessness** (Siddhi)—the recognition that all timing is perfect when aligned with natural law.
 
-**Somatic Practice:**
+#### Somatic Practice
 
 - Track energy cycles daily, weekly, monthly, and seasonally. Notice patterns.
 - Honor bodily signals for rest, food, movement, and connection without overriding them.
@@ -271,14 +271,14 @@ In Jungian terms, Gate 5 corresponds to the **Crone Archetype** (the wise elder 
 
 The Keeper of Cycles is the one who knows when to plant, when to harvest, when to rest. This is the wisdom of elders, farmers, midwives—those who recognize that **life has its own timing** and cannot be forced.
 
-**Shadow Work Implications:**
+#### Shadow Work Implications
 
 The **Shadow of Gate 5** manifests as:
 - **Impatience as Control:** Using busyness or forced action to avoid uncertainty or vulnerability.
 - **Fear of Stillness:** Believing that waiting means stagnation, leading to constant movement without direction.
 - **Rigid Adherence to Rhythm:** Using "rhythm" as an excuse to avoid necessary change or adaptation.
 
-**Individuation Path:**
+#### Individuation Path
 
 For the individual with Gate 5, individuation requires:
 1. **Developing Perseverance (Line 1):** Learning to wait through long cycles without losing trust.
@@ -292,7 +292,7 @@ When integrated, Gate 5 becomes the **embodied capacity to trust rhythm**—to m
 
 When the individual with Gate 5 operates according to their Strategy and Authority, the gift that emerges is **Patience** (Gene Keys) and **Rhythmic Flow** (Human Design).
 
-**What This Looks Like:**
+#### What This Looks Like
 
 - Action arises from Sacral response aligned with natural timing, not mental urgency.
 - The individual honors bodily rhythms—rest when tired, work when energized, connect when open.
@@ -307,7 +307,7 @@ The Signature of the Sacral Center (for Generators/MGs) is **Satisfaction**. For
 - **Fulfillment in honoring natural cycles**—seasonal work, daily rhythms, relational timing
 - **Joy in the wait**, recognizing that patience is not suffering but trust
 
-**The Contribution to Living One's Design:**
+#### The Contribution to Living One's Design
 
 Gate 5 teaches that **timing is everything**. When the individual honors their Sacral Authority, waits for correct timing, and trusts natural rhythms, they become a **living example** of effortless flow. This is the essence of the Logic Circuit—not to impose patterns, but to **recognize and align with the patterns already present in nature**.
 

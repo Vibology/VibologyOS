@@ -15,6 +15,7 @@ planetary: Venus in Scorpio
 decan: Scorpio 20°-30° (3rd Decan)
 title: Lord of Illusory Success
 ---
+# Seven of Cups
 *The Lord of Illusory Success*
 
 ---
@@ -305,7 +306,7 @@ The Six of Cups is healthy memory—the past received with tenderness, the garde
 **Following Card: [[Eight of Cups]]**
 The Eight of Cups is departure—the figure walking away from the cups (now arranged on the ground, not in clouds), seeking something deeper. If the Seven is paralysis, the Eight is *action*. The Eight has *chosen*—not one of the Seven's visions, but something beyond them all. The movement from Seven to Eight is the movement from fantasy to quest.
 
-**Corresponding Cards in Other Suits:**
+#### Corresponding Cards in Other Suits
 - **[[Seven of Wands]]** (Fire): Valour and defense. Where Cups is paralyzed by choices, Wands is *fighting* for its position.
 - **[[Seven of Swords]]** (Air): Futility and stealth. Both Sevens involve deception—Cups deceives the self, Swords attempts to deceive others.
 - **[[Seven of Pentacles]]** (Earth): Assessment and patience. Where Cups imagines harvest, Pentacles *waits* for real growth.

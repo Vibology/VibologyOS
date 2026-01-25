@@ -68,7 +68,7 @@ Libra is the cardinal air sign that initiates through **negotiation**—not thro
 
 The **Descendant sign** (the sign on the 7th House cusp) reveals **what you project onto others**—the qualities you disown in yourself and seek in partners.
 
-**Examples:**
+#### Examples
 - **Aries Rising → Libra Descendant** — Projects diplomacy, harmony-seeking, indecisiveness onto partners; seeks someone to "balance" their directness
 - **Scorpio Rising → Taurus Descendant** — Projects stability, simplicity, groundedness onto partners; seeks someone to anchor their intensity
 - **Capricorn Rising → Cancer Descendant** — Projects emotion, nurturance, vulnerability onto partners; seeks someone to soften their rigidity
@@ -80,7 +80,7 @@ The 7th House challenge is to **reclaim the projection**—to recognize that the
 
 The **ruler of the 7th House** (the planet ruling the Descendant sign) reveals *how* you approach partnership and what you need from the other.
 
-**Examples:**
+#### Examples
 - **Mars ruling 7th → Aries/Scorpio on 7th cusp** — Partnership requires challenge, intensity, passion
 - **Saturn ruling 7th → Capricorn/Aquarius on 7th cusp** — Partnership requires commitment, structure, earned trust
 - **Neptune ruling 7th → Pisces on 7th cusp** — Partnership as spiritual merger; risk of idealizing or losing self
