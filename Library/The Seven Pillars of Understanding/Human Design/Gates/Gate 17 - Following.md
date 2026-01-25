@@ -4,7 +4,8 @@ system: Human Design
 date_created: 2026-01-16
 source: NotebookLM Esoteric Grimoire
 source_verified: true
-verification_date: 2026-01-23
+verified: true
+verification_date: 2026-01-25
 grimoire_source: "Human Design/Gates"
 category: Gate
 gate_number: 17
