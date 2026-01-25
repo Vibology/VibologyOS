@@ -2,6 +2,9 @@
 tags: [angelology, hierarchy, thrones, first-triad, binah, saturn]
 system: Angelology
 date_created: 2026-01-17
+date_updated: 2026-01-25
+verified: 2026-01-25
+verification_source: Esoteric Grimoire
 category: Angelic Order
 order_number: 3
 order_name: Thrones
@@ -601,6 +604,31 @@ To integrate the Thrones is to become the **sacred container**—the womb, the t
 ### Cross-System Synthesis
 - [[Saturn Return at 29]] (Synthesis piece) — Astrology + HD + Tarot integration of Throne/Saturn initiation
 - [[The Throat as Manifestation Gateway]] (Potential synthesis) — HD + Angelology + Qabalah
+
+---
+
+## References
+
+*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
+
+**Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.
+- Davidson cites Pseudo-Dionysius: Thrones are third order of First Triad, established in the Most High
+- Quote: "Through the Thrones, God brings his justice to bear upon us" (Pseudo-Dionysius, cited via Davidson)
+
+**Wang, Robert.** *The Qabalistic Tarot: A Textbook of Mystical Philosophy.* Red Wheel/Weiser, 1983.
+- Angelic choir of Binah: Aralim ("Mighty Ones")
+- Binah correspondences: Divine Name YHVH Elohim, Saturn, colors across Four Worlds
+- Archangel of Binah: Tzaphkiel
+
+**The Bible** (English Standard Version, New International Version)
+- Ezekiel 1:15-21: The vision of the wheels within wheels (Ophanim)
+- Colossians 1:16: "Whether thrones or dominions or rulers or authorities"
+
+**Pseudo-Dionysius the Areopagite.** *The Celestial Hierarchy* (6th century, cited via Davidson)
+- Thrones as third order bringing divine justice to bear (Davidson)
+- First Triad structure: direct contemplation of God (Davidson)
+
+> *Vibology Synthesis: Cross-system correspondences (Human Design Throat Center, Jungian Great Mother archetype, Tarot attributions, astrological Saturn correspondences) represent original integrative frameworks developed for this system. Human Design correspondences (Throat Center, Manifestor/Generator types, Authority) are based on Ra Uru Hu's system as interpreted through angelic hierarchy. Mythological parallels (Themis, Ma'at, Brahma, The Norns) are comparative frameworks, not sourced claims.*
 
 ---
 
