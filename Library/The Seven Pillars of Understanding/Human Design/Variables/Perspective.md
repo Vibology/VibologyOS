@@ -2,8 +2,12 @@
 tags: [human-design, variables, perspective, view, cognition, distraction, personality-nodes, awareness]
 system: Human Design
 date_created: 2026-01-18
-date_updated: 2026-01-18
+date_updated: 2026-01-25
 category: Variables
+source_verified: true
+verification_date: 2026-01-25
+grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
+verification_notes: "Variables mechanics verified against Grimoire. Advanced layer (Color/Tone/Base calculations) marked as educational synthesis."
 ---
 *How the Personality "sees" the world*
 
@@ -506,4 +510,20 @@ Perspective requires a full [[Human Design]] chart with **Tone/Color/Base** calc
 - [[Jungian Archetypes]] - Cognitive function parallels
 - [[The Window]] - Archetypal House resonances
 
+
+## References
+
+*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
+
+Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
+- Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority
+
+**Verification Notes:**
+- Human Design system synthesizes I-Ching (64 hexagrams → 64 Gates), Astrology (planetary activations), Kabbalah/Tree of Life (Sephiroth → 9 Centers), and Hindu-Brahmin Chakra system
+- Ra Uru Hu received the system in 1987 on Ibiza; he systematized and taught it, but did not "create" it
+- Variables represent advanced layer of HD system: Four Transformations (Determination, Environment, Perspective, Motivation) calculated from Color/Tone/Base
+- Variable mechanics verified against *The Definitive Book of Human Design* (2011); detailed implementation marked as educational synthesis
+- Cross-system correspondences (Jungian, Tarot, Qabalah) marked as Vibology Synthesis where applicable
+
 ---
+
