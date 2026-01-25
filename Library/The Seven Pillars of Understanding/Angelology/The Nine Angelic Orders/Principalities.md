@@ -2,6 +2,9 @@
 tags: [angelology, hierarchy, principalities, third-triad]
 system: Angelology
 date_created: 2026-01-17
+date_updated: 2026-01-25
+verified: 2026-01-25
+verification_source: Esoteric Grimoire
 category: Angelic Order
 order_number: 7
 order_name: Principalities
@@ -833,6 +836,30 @@ To integrate the Principalities is to become the **conscious participant in coll
 ### Cross-System Synthesis
 - [[Venus and the Spleen Center]] (Potential synthesis) — Astrology + HD integration of belonging consciousness
 - [[The Guardian of Nations]] (Potential synthesis) — Angelology + Qabalah + Jungian integration of collective consciousness
+
+---
+
+## References
+
+*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
+
+**Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.
+- Pseudo-Dionysius on Principalities possessing "princely and truly royal authority": p. 233
+- Principalities' capacity to lead others in "divinely befitting order": p. 233
+
+**The Bible** (New International Version, English Standard Version)
+- Colossians 1:16: Naming of Principalities (*archai*)
+- Ephesians 1:21: Christ's supremacy over all principalities
+- Ephesians 3:10: Wisdom of God made known to principalities and powers
+- Ephesians 6:12: Spiritual warfare against rulers and authorities
+- Daniel 10:13, 10:20: Prince of Persia and Prince of Greece (angelic princes over nations)
+- Deuteronomy 32:8: God dividing nations according to number of divine beings
+
+**Pseudo-Dionysius the Areopagite.** *The Celestial Hierarchy* (6th century, cited via Davidson)
+- Principalities possess "princely and truly royal authority" (Davidson, p. 233)
+- Principalities lead others in "divinely befitting order" (Davidson, p. 233)
+
+> *Vibology Synthesis: Cross-system correspondences (Human Design Spleen Center, Venus/Netzach associations, Tarot Empress/Sevens, Jungian collective unconscious) represent original integrative frameworks developed for this system. The Spleen Center correspondence (survival instincts, tribal belonging, immune system) synthesizes Human Design mechanics with angelic hierarchy. Mythological parallels (Athena Polias, Tutelary deities) are comparative analysis, not direct citations from primary angelology sources.*
 
 ---
 
