@@ -2,6 +2,7 @@
 tags: [folklore, mythology, greek, archetypes, olympians, hero-journey]
 system: Personal Mythos
 date_created: 2026-01-18
+date_updated: 2026-01-25
 source_verified: synthesis
 verification_date: 2026-01-23
 grimoire_source: "Mythology reference sources (tradition-specific)"
@@ -597,6 +598,23 @@ The Eleusinian grain = the Philosopher's Stone—the simple, eternal truth revea
 7. **Heracles' Humility:** Strength tempered by service, divine power submitted to human limitation—*without* masochism or grandiosity.
 
 **The ultimate Greek lesson:** The Ego is not the Self. Hubris (ego inflation) always meets Nemesis (compensatory destruction). Wholeness requires conscious relationship with the gods (archetypes)—not identification, not repression, but *ethical dialogue*.
+
+---
+
+## References
+
+**Jungian Analytical Psychology:**
+- Jung, C.G. *Nietzsche's Zarathustra: Notes of the Seminar Given in 1934-1939*. Edited by James L. Jarrett. Princeton University Press, 1988.
+- Jung, C.G. *Commentary on "The Secret of the Golden Flower."* In *Alchemical Studies* (CW 13). Princeton University Press, 1967.
+- Jung, C.G. *Symbols of Transformation* (CW 5). Princeton University Press, 1956.
+- Jung, C.G. *The Archetypes and the Collective Unconscious* (CW 9i). Princeton University Press, 1959.
+- Von Franz, Marie-Louise. *The Interpretation of Fairy Tales*. Shambhala, 1996.
+
+**Primary Greek Sources:**
+Core mythological narratives (Theogony, Titanomachy, Olympian pantheon, hero cycles, tragic patterns, and Mystery traditions) are drawn from canonical ancient Greek sources including Hesiod's *Theogony*, Homer's *Iliad* and *Odyssey*, Greek tragedies (Aeschylus, Sophocles, Euripides), Orphic hymns, and Eleusinian mystery traditions. These sources are part of the Western literary canon and inform the archetypal framework.
+
+**Vibrology Synthesis:**
+All Jungian archetypal analysis (interpreting Greek myths through the lens of Shadow, Anima/Animus, Self, Individuation, etc.) represents scholarly synthesis rather than ancient Greek understanding. Cross-system correspondences (Tarot, Astrology, Alchemy, Human Design, Qabalah) are Vibrology's integrative framework, not part of the original mythological tradition. The alchemical correlations (Nigredo, Albedo, Citrinitas, Rubedo) apply Renaissance hermetic symbolism to Greek narrative patterns.
 
 ---
 
