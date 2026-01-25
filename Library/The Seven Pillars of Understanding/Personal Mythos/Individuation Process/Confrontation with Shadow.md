@@ -372,3 +372,27 @@ A **real person** who has descended into their own underworld and returned with 
 *"One does not become enlightened by imagining figures of light, but by making the darkness conscious."*
 
 — C.G. Jung, *Psychology and Alchemy* (CW 13, ¶335)
+
+---
+
+## Sources & Further Reading
+
+### Primary Texts (Jung)
+- **Jung, Carl Gustav.** *Aion: Researches into the Phenomenology of the Self* (CW 9ii). Comprehensive analysis of the shadow and the problem of evil.
+- **Jung, Carl Gustav.** *Psychology and Alchemy* (CW 12). The shadow in alchemical symbolism and transformation.
+- **Jung, Carl Gustav.** *Two Essays on Analytical Psychology* (CW 7). Foundational description of shadow and persona dynamics.
+- **Jung, Carl Gustav.** *The Archetypes and the Collective Unconscious* (CW 9i). The shadow as archetype.
+
+### Jungian Interpretation
+- **Von Franz, Marie-Louise.** *Shadow and Evil in Fairy Tales* (1974). Analysis of shadow in folklore and individuation.
+- **Edinger, Edward F.** *Ego and Archetype* (1972). Shadow confrontation in the individuation process.
+- **Johnson, Robert A.** *Owning Your Own Shadow* (1991). Practical guide to shadow integration.
+- **Zweig, Connie and Jeremiah Abrams** (editors). *Meeting the Shadow: The Hidden Power of the Dark Side of Human Nature* (1991). Anthology of shadow work perspectives.
+
+### Depth Psychology
+- **Neumann, Erich.** *Depth Psychology and a New Ethic* (1949). Ethics, shadow, and collective responsibility.
+- **Hillman, James.** *A Blue Fire* (1989). Shadow as necessary darkness, not pathology.
+
+### Comparative & Mythological
+- **Campbell, Joseph.** *The Hero with a Thousand Faces* (1949). The shadow in the hero's journey (belly of the whale, meeting with the goddess).
+- **Eliade, Mircea.** *The Sacred and the Profane* (1957). Darkness, chaos, and sacred encounter.

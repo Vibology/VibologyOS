@@ -385,3 +385,28 @@ A **soul-connected individual** who has built the bridge between ego and unconsc
 *"Every man carries within him the eternal image of woman... This image is fundamentally unconscious, an hereditary factor of primordial origin... an imprint or 'archetype' of all the ancestral experiences of the female."*
 
 — C.G. Jung, *The Development of Personality* (CW 17, ¶338)
+
+---
+
+## Sources & Further Reading
+
+### Primary Texts (Jung)
+- **Jung, Carl Gustav.** *Aion: Researches into the Phenomenology of the Self* (CW 9ii). Comprehensive treatment of anima and animus as syzygy.
+- **Jung, Carl Gustav.** *Two Essays on Analytical Psychology* (CW 7). Foundational description of anima/animus.
+- **Jung, Carl Gustav.** *The Archetypes and the Collective Unconscious* (CW 9i). The anima/animus as archetypes.
+- **Jung, Carl Gustav.** *Mysterium Coniunctionis* (CW 14). The sacred marriage and integration of opposites.
+
+### Jungian Interpretation
+- **Von Franz, Marie-Louise.** *The Feminine in Fairy Tales* (1972). Animus development in fairy tales.
+- **Von Franz, Marie-Louise.** *Animus and Anima in Fairy Tales* (2002). Comprehensive analysis of contrasexual archetypes.
+- **Sanford, John A.** *The Invisible Partners* (1980). Anima and animus in relationships and projection.
+- **Johnson, Robert A.** *She: Understanding Feminine Psychology* (1976). Anima development through Psyche and Eros myth.
+- **Johnson, Robert A.** *He: Understanding Masculine Psychology* (1974). Animus development through Parsifal/Grail legend.
+
+### Gender & Shadow
+- **Emma Jung.** *Animus and Anima* (1957). Pioneering analysis by Jung's wife and collaborator.
+- **Hillman, James.** *Anima: An Anatomy of a Personified Notion* (1985). Deconstruction and re-visioning of anima concept.
+
+### Comparative Mythology
+- **Neumann, Erich.** *Amor and Psyche: The Psychic Development of the Feminine* (1956). Psyche's encounter with Eros as animus integration.
+- **Campbell, Joseph.** *The Hero with a Thousand Faces* (1949). Meeting with the goddess and sacred marriage.
