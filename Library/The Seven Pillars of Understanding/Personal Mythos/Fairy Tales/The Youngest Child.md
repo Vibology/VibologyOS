@@ -675,3 +675,23 @@ Von Franz's final word (from *Shadow and Evil in Fairy Tales*, p. 50):
 The Youngest Child does not conquer the unconscious. He **bows to it, serves it, receives from it**. And in that surrender, he becomes king.
 
 This is the [[Integration and Wholeness|path of individuation]]: not the triumph of the ego but the **coronation of the fool**—the despised made sacred, the last made first, the stone the builders rejected becoming the cornerstone of the psyche's wholeness.
+
+---
+
+## Sources & Further Reading
+
+### Primary Texts
+- **Grimm, Jacob and Wilhelm.** *Kinder- und Hausmärchen* (1812). Multiple tales: "The Golden Bird," "The Queen Bee," "The Three Feathers," "The Golden Goose," "Simpleton" variants.
+- **Afanasyev, Alexander.** *Russian Fairy Tales* (collected 1855-1863). "Ivan the Fool" and related youngest-child narratives.
+
+### Jungian Analysis
+- **Von Franz, Marie-Louise.** *Shadow and Evil in Fairy Tales* (1974). The youngest child as inferior function and transformation catalyst.
+- **Von Franz, Marie-Louise.** *The Feminine in Fairy Tales* (1972). The despised child and alchemical reversal.
+- **Jung, Carl Gustav.** *Psychological Types* (CW 6). The inferior function and its redemptive potential.
+- **Jung, Carl Gustav.** *The Archetypes and the Collective Unconscious* (CW 9i). The Divine Child archetype.
+
+### Jungian Typology
+- **Von Franz, Marie-Louise and James Hillman.** *Lectures on Jung's Typology* (1971). The inferior function and its role in individuation.
+
+### Comparative Mythology
+- **Campbell, Joseph.** *The Hero with a Thousand Faces* (1949). The unlikely hero and the monomyth structure.

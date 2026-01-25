@@ -554,3 +554,24 @@ The psyche's response: **Anxiety, depression, addiction**—the return of the re
 
 **Folklore Themes:**
 [[Initiation Rites]] • [[Death and Rebirth]] • [[The Descent Motif]] • [[The Sacred Marriage]] • [[Patience and Endurance]] • [[Instinct Over Intellect]]
+
+---
+
+## Sources & Further Reading
+
+### Primary Texts
+- **Grimm, Jacob and Wilhelm.** *Kinder- und Hausmärchen* (1812). Trial-centered tales: "The Golden Bird," "The Water of Life," "Allerleirauh," "Psyche and Eros" variants.
+- **Apuleius.** *The Golden Ass* (2nd century CE). Book includes "Cupid and Psyche" with four impossible tasks.
+
+### Jungian Analysis
+- **Von Franz, Marie-Louise.** *The Feminine in Fairy Tales* (1972). Analysis of trials as stages of transformation.
+- **Neumann, Erich.** *Amor and Psyche: The Psychic Development of the Feminine* (1956). Comprehensive analysis of Psyche's four tasks.
+- **Jung, Carl Gustav.** *The Archetypes and the Collective Unconscious* (CW 9i). Trials as activation of Self.
+
+### Comparative Mythology & Initiation
+- **Campbell, Joseph.** *The Hero with a Thousand Faces* (1949). Tests, allies, and enemies on the hero's journey.
+- **Eliade, Mircea.** *Rites and Symbols of Initiation* (1958). Trials in initiation ceremonies across cultures.
+
+### Alchemical & Symbolic
+- **Jung, Carl Gustav.** *Mysterium Coniunctionis* (CW 14). The stages of alchemical transformation as trials.
+- **Edinger, Edward F.** *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy* (1985). The seven alchemical operations as psychological trials.

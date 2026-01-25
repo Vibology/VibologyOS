@@ -1529,3 +1529,28 @@ The beast is the prince.
 The soul cannot be possessed—only loved.
 
 **To integrate this motif is to become whole.**
+
+---
+
+## Sources & Further Reading
+
+### Primary Texts
+- **Grimm, Jacob and Wilhelm.** *Kinder- und Hausmärchen* (1812). Animal-bridegroom tales: "Beauty and the Beast," "The Frog Prince," "The White Snake," "The Singing, Soaring Lark."
+- **Apuleius.** *The Golden Ass* (2nd century CE). "Cupid and Psyche" - Eros as invisible/monstrous bridegroom.
+
+### Jungian Analysis
+- **Von Franz, Marie-Louise.** *The Interpretation of Fairy Tales* (1970). The animal-bridegroom as shadow integration.
+- **Von Franz, Marie-Louise.** *The Feminine in Fairy Tales* (1972). The animal lover as positive animus requiring redemption.
+- **Jung, Carl Gustav.** *Mysterium Coniunctionis* (CW 14). The coniunctio and sacred marriage of opposites.
+- **Neumann, Erich.** *Amor and Psyche: The Psychic Development of the Feminine* (1956). Psyche's acceptance of monstrous Eros.
+
+### Feminist & Depth Psychology
+- **Estés, Clarissa Pinkola.** *Women Who Run With the Wolves* (1992). The wild bridegroom and instinctual nature.
+- **Bettelheim, Bruno.** *The Uses of Enchantment* (1976). Animal-bridegroom tales as sexual maturation narratives.
+
+### Comparative & Literary
+- **Hearne, Betsy.** *Beauty and the Beast: Visions and Revisions of an Old Tale* (1989). Comprehensive analysis of animal-bridegroom variants.
+- **Warner, Marina.** *From the Beast to the Blonde: On Fairy Tales and Their Tellers* (1994). Gender, transformation, and power in fairy tales.
+
+### Alchemical & Symbolic
+- **Jung, Carl Gustav.** *Psychology and Alchemy* (CW 12). The chemical wedding and hieros gamos.

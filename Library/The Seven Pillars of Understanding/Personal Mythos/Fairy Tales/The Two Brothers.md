@@ -650,3 +650,24 @@ With him, you are whole.
 ---
 
 *The petrified hero awaits rescue. The Dark Brother descends. Wholeness is restored.*
+
+---
+
+## Sources & Further Reading
+
+### Primary Texts
+- **Grimm, Jacob and Wilhelm.** *Kinder- und Hausmärchen* (1812). "The Two Brothers" (Tale 60).
+- **Biblical.** Genesis 4 (Cain and Abel), Genesis 25-33 (Jacob and Esau).
+
+### Jungian Analysis
+- **Von Franz, Marie-Louise.** *Shadow and Evil in Fairy Tales* (1974). The dark brother as positive shadow.
+- **Jung, Carl Gustav.** *Aion* (CW 9ii). The syzygy and the problem of opposites.
+- **Jung, Carl Gustav.** *Mysterium Coniunctionis* (CW 14). The union of opposites and the dark/light brother dynamic.
+- **Neumann, Erich.** *The Origins and History of Consciousness* (1949). The hostile brothers and separation of consciousness.
+
+### Comparative Mythology
+- **Campbell, Joseph.** *The Hero with a Thousand Faces* (1949). The shadow as brother/rival.
+- **Rank, Otto.** *The Myth of the Birth of the Hero* (1909). Twin and rival brother motifs.
+
+### Biblical & Literary
+- **Girard, René.** *Violence and the Sacred* (1972). Cain and Abel, rivalry, and scapegoat mechanism.
