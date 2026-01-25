@@ -2,7 +2,7 @@
 
 **Last Updated:** 2026-01-24
 **System Status:** Prima Materia Verification - Phase 3 In Progress
-**Current Focus:** 23/643 files verified (4% complete) - Angelology Batch 2 complete
+**Current Focus:** 27/643 files verified (4% complete) - Angelology Batch 3 complete
 
 ---
 
@@ -43,7 +43,7 @@
 - Jung, *Memories, Dreams, Reflections*
 - Huxley, *The Perennial Philosophy*
 
-**Phase 3 In Progress: Angelology (10/31 files - Batch 2 complete)**
+**Phase 3 In Progress: Angelology (14/31 files - Batch 3 complete)**
 
 **Batch 1 complete (5/5):**
 - ✅ Angelology.md
@@ -52,19 +52,26 @@
 - ✅ The Nine Angelic Orders/The Nine Angelic Orders.md
 - ✅ The Archangels/The Archangels.md
 
-**Batch 2 complete (5/5) - First Triad orders:**
+**Batch 2 complete (5/5) - First & Second Triad orders:**
 - ✅ The Nine Angelic Orders/Seraphim.md
 - ✅ The Nine Angelic Orders/Cherubim.md
 - ✅ The Nine Angelic Orders/Thrones.md
 - ✅ The Nine Angelic Orders/Dominations.md
 - ✅ The Nine Angelic Orders/Virtues.md
 
-**Key Corrections Made (Batch 2):**
-- Removed unverifiable Pseudo-Dionysius direct quotes
-- All PD content now cited as "Davidson cites Pseudo-Dionysius"
-- Clarified Hebrew names vs Qabalistic choir names
-- Chaioth ha-Qadesh noted as rabbinic equation, not absolute identity
-- All Sephirotic/planetary correspondences verified
+**Batch 3 complete (4/4) - Third Triad orders:**
+- ✅ The Nine Angelic Orders/Powers.md
+- ✅ The Nine Angelic Orders/Principalities.md
+- ✅ The Nine Angelic Orders/Archangels.md
+- ✅ The Nine Angelic Orders/Angels.md
+
+**Key Corrections Made (Batch 3):**
+- Powers Hebrew name: Elohim → Seraphim (per Wang)
+- Distinguished Seraphim of Geburah from Seraphim of Kether
+- All Pseudo-Dionysius quotes now cited via Davidson
+- Principalities: Elohim verified (correct)
+- Archangels: Beni Elohim verified (correct)
+- Angels: Kerubim verified (correct, distinct from Cherubim)
 
 **Key Sources Verified (Angelology):**
 - Gustav Davidson, *A Dictionary of Angels*
@@ -73,13 +80,13 @@
 - Pseudo-Dionysius the Areopagite, *The Celestial Hierarchy* (via Davidson)
 
 **Remaining in Phase 3:**
-- Batch 3: Powers, Principalities, Archangels (order), Angels (order) - 4 files
 - Batch 4-5: Individual archangel entries (11 files)
 - Batch 6: Enochian Tradition (6 files)
-- 21 files remaining
+- 17 files remaining
 
 **Next Phase Options:**
-- Continue Phase 3: Angelology Batch 3 (files 11-14)
+- Continue Phase 3: Angelology Batch 4-5 (Individual Archangels, 11 files)
+- Continue Phase 3: Angelology Batch 6 (Enochian Tradition, 6 files)
 - Phase 4: Astrology (37 files)
 - Other priorities as directed
 
@@ -144,13 +151,13 @@ chart.makeSVG(minify=False, remove_css_variables=True)
 ## Available Work Paths
 
 ### Priority 1: Prima Materia Verification
-**Status:** Phase 3 Batch 2 complete (Angelology 10/31)
-**Progress:** 23/643 files verified (4%)
+**Status:** Phase 3 Batch 3 complete (Angelology 14/31)
+**Progress:** 27/643 files verified (4%)
 **Breakdown:**
   - Phase 1: Magdalene Path 8/8 ✅
   - Phase 2: Core Foundations 5/5 ✅
-  - Phase 3: Angelology 10/31 (32%)
-**Next:** Angelology Batch 3 (files 11-14) or as directed
+  - Phase 3: Angelology 14/31 (45%)
+**Next:** Angelology Batch 4-5 (Individual Archangels) or Batch 6 (Enochian) or as directed
 
 ### Priority 2: Client Work
 **Status:** Full chart generation workflow operational
