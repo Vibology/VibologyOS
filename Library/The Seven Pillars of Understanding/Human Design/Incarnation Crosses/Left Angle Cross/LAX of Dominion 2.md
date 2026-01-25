@@ -12,7 +12,8 @@ theme: Purpose fulfilled through Bonding
 source: NotebookLM Esoteric Grimoire
 tier: 2
 source_verified: true
-verification_date: 2026-01-23
+verified: true
+verification_date: 2026-01-25
 grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
