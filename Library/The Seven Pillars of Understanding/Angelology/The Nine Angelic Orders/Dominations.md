@@ -2,6 +2,9 @@
 tags: [angelology, hierarchy, dominations, second-triad, chesed, jupiter]
 system: Angelology
 date_created: 2026-01-17
+date_updated: 2026-01-25
+verified: 2026-01-25
+verification_source: Esoteric Grimoire
 category: Angelic Order
 order_number: 4
 order_name: Dominations
@@ -635,6 +638,32 @@ To integrate the Dominations is to become the **inner king/queen**—the soverei
 - [[Chesed and Jupiter - The Expansive Father]] (Potential synthesis) — Qabalah + Astrology integration
 - [[The G-Center as Throne - Sovereignty in Human Design]] (Potential synthesis) — HD + Angelology + Qabalah
 - [[Authority vs. Tyranny - The Domination Paradox]] (Potential synthesis) — Angelology + Jungian psychology + Astrology
+
+---
+
+## References
+
+*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
+
+**Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.
+- Pseudo-Dionysius on Dominations regulating angelic duties and manifesting God's majesty: p. 97
+- Dominations do not incline to tyrannical dominion but lift to true lordship: p. 97
+- Second order of heavenly beings receives illumination through the first: p. 97
+
+**The Bible** (New International Version, English Standard Version)
+- Colossians 1:16: Naming of the Dominations (*kyriotetes*)
+- Ephesians 1:21: Christ's supremacy over Dominations
+- Jude 1:8-9: Warning against rejecting authority (*kyrioteta*)
+
+**Pseudo-Dionysius the Areopagite.** *The Celestial Hierarchy* (6th century, cited via Davidson)
+- Dominations regulate angels' duties and aspire to true lordship (Davidson, p. 97)
+- First hierarchy purified directly from Divine Source (Davidson, p. 97)
+
+**Fortune, Dion.** *The Mystical Qabalah.* Weiser Books, 1935.
+- Chesed as sphere of benevolence, majesty, organized government (quoted in text)
+- **Note:** Not verified in Esoteric Grimoire; cited as traditional Qabalistic teaching
+
+> *Vibology Synthesis: Cross-system correspondences (Human Design G-Center, Jungian Sovereign archetype, Tarot Emperor, Jupiter/astrological associations) represent original integrative frameworks developed for this system. The G-Center correspondence (identity, love, direction as sovereignty) synthesizes Human Design mechanics with angelic hierarchy. Jungian correspondences (Sovereign/King archetype, Wise Father) integrate analytical psychology with Qabalistic theology. Mythological parallels (Zeus, Jupiter, Amun-Ra, Indra) are comparative analysis, not direct citations from primary angelology sources.*
 
 ---
 
