@@ -24,22 +24,31 @@ REFERENCES_TEMPLATE = """## References
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material."""
 
 def update_file(filepath):
-    """Replace Sources section with References section."""
+    """Replace Sources section with References section, or add if missing."""
     content = filepath.read_text()
 
     # Pattern to match old Sources section (from ## Sources to next ## or ---)
     pattern = r'## Sources\n\n.*?(?=\n---\n|\n## |\Z)'
 
-    if not re.search(pattern, content, re.DOTALL):
-        print(f"  ⚠️  No Sources section found in {filepath.name}")
-        return False
+    if re.search(pattern, content, re.DOTALL):
+        # Replace existing Sources section
+        new_content = re.sub(pattern, REFERENCES_TEMPLATE, content, flags=re.DOTALL)
+        filepath.write_text(new_content)
+        print(f"  ✓ Replaced Sources in {filepath.name}")
+        return True
+    else:
+        # No Sources section - add References before final ---
+        # Find the last --- marker
+        if content.rstrip().endswith('---'):
+            # Insert before final ---
+            new_content = content.rstrip()[:-3].rstrip() + '\n\n' + REFERENCES_TEMPLATE + '\n\n---\n'
+        else:
+            # Append at end
+            new_content = content.rstrip() + '\n\n---\n\n' + REFERENCES_TEMPLATE + '\n\n---\n'
 
-    # Replace with new References template
-    new_content = re.sub(pattern, REFERENCES_TEMPLATE, content, flags=re.DOTALL)
-
-    filepath.write_text(new_content)
-    print(f"  ✓ Updated {filepath.name}")
-    return True
+        filepath.write_text(new_content)
+        print(f"  ✓ Added References to {filepath.name}")
+        return True
 
 def main():
     if len(sys.argv) < 2:

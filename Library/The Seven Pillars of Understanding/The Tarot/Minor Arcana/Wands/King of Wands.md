@@ -2,10 +2,11 @@
 tags: [tarot, minor-arcana, wands, fire, court, fire-of-fire, king, sovereignty, mastery]
 system: Tarot
 date_created: 2026-01-09
+date_updated: 2026-01-25
 source: NotebookLM Esoteric Grimoire
-source_verified: true
-verification_date: 2026-01-23
-grimoire_source: "Tarot/Minor Arcana"
+verified: true
+verification_date: 2026-01-25
+verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 suit: Wands
 rank: King
 element_primary: Fire
@@ -524,13 +525,20 @@ To honor the King is to honor *creative sovereignty*, to claim your authority th
 
 ---
 
-## Sources
+## References
 
-- A.E. Waite, *The Pictorial Key to the Tarot* (1911) - Divinatory meanings
-- Golden Dawn tradition - Qabalistic correspondences, sephirothic attributions, and esoteric titles
-- Aleister Crowley, *The Book of Thoth* (1944) - Elemental dignities and deeper attributions where noted
+### Primary Sources (Uploaded to Esoteric Grimoire)
 
+- Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
+- Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983.
 
+### Secondary Sources (Referenced via Primary Sources)
+
+- Crowley, Aleister. *The Book of Thoth*. New York: Samuel Weiser, Inc., 1974. (Originally published in *The Equinox*, Vol. III, No. V, 1944) — Referenced via Wang 1983
+
+### Vibology Synthesis Notes
+
+Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
 
 *"True kingship is not inherited—it is forged in the fire of vision made manifest. The world bows not to titles but to those who create, who build, who transform reality through mastery and will. Claim your throne, King. The kingdom awaits your command."*

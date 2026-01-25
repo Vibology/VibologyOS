@@ -2,10 +2,11 @@
 tags: [tarot, minor-arcana, wands, fire, court, air-of-fire, knight, quest]
 system: Tarot
 date_created: 2026-01-09
+date_updated: 2026-01-25
 source: NotebookLM Esoteric Grimoire
-source_verified: true
-verification_date: 2026-01-23
-grimoire_source: "Tarot/Minor Arcana"
+verified: true
+verification_date: 2026-01-25
+verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 suit: Wands
 rank: Knight
 element_primary: Air
@@ -510,13 +511,20 @@ To honor the Knight is to honor the *departure*, the moment of total commitment,
 
 ---
 
-## Sources
+## References
 
-- A.E. Waite, *The Pictorial Key to the Tarot* (1911) - Divinatory meanings
-- Golden Dawn tradition - Qabalistic correspondences, sephirothic attributions, and esoteric titles
-- Aleister Crowley, *The Book of Thoth* (1944) - Elemental dignities and deeper attributions where noted
+### Primary Sources (Uploaded to Esoteric Grimoire)
 
+- Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
+- Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983.
 
+### Secondary Sources (Referenced via Primary Sources)
+
+- Crowley, Aleister. *The Book of Thoth*. New York: Samuel Weiser, Inc., 1974. (Originally published in *The Equinox*, Vol. III, No. V, 1944) — Referenced via Wang 1983
+
+### Vibology Synthesis Notes
+
+Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
 
 *"The quest begins not when the map is complete, but when the horse is saddled, the wand is raised, and the horizon burns with the promise of something worth pursuing. Ride well, Knight—and may your fire light the way."*
