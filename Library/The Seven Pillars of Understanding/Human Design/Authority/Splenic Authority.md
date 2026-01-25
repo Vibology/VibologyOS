@@ -6,7 +6,7 @@ compatible_types: [Manifestor, Projector]
 hierarchy: Third (after Emotional and Sacral)
 date_created: 2026-01-08
 source_verified: true
-verification_date: 2026-01-23
+verification_date: 2026-01-25
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
 verification_notes: "Individual verification complete. Core mechanics (Spleen Center source, below Emotional, Sacral, Ego, Self-Projected hierarchy, Instantaneous knowing principle) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
@@ -14,8 +14,7 @@ verification_notes: "Individual verification complete. Core mechanics (Spleen Ce
 
 ---
 
-[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011), Spleen Center: Body consciousness, survival awareness
-[^2]: *Definitive Book of Human Design*, Splenic Authority: Instantaneous, in-the-moment knowing that speaks once
+
 
 *The Intelligence of the Now*
 
@@ -165,3 +164,18 @@ Individuals with Splenic Authority bring:
 ---
 
 *Splenic Authority is the intelligence of the present moment—a quiet, ancient knowing that speaks once and does not repeat. It is the body's guardian, attuned to survival and health, and it requires absolute presence and trust. To honor the Spleen is to live spontaneously, to act without hesitation, and to trust that the body's first knowing is the truest knowing.*
+
+## References
+
+*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
+
+Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
+- Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority
+
+**Verification Notes:**
+- Human Design system synthesizes I-Ching (64 hexagrams → 64 Gates), Astrology (planetary activations), Kabbalah/Tree of Life (Sephiroth → 9 Centers), and Hindu-Brahmin Chakra system
+- Ra Uru Hu received the system in 1987 on Ibiza; he systematized and taught it, but did not "create" it
+- All mechanical definitions verified against *The Definitive Book of Human Design* (2011)
+- Cross-system correspondences (Jungian, Tarot, Qabalah) marked as Vibology Synthesis where applicable
+
+---

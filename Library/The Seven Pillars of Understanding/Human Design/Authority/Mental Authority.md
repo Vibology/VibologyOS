@@ -6,7 +6,7 @@ compatible_types: [Projector]
 hierarchy: Sixth (lowest inner authority)
 date_created: 2026-01-08
 source_verified: true
-verification_date: 2026-01-23
+verification_date: 2026-01-25
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
 verification_notes: "Individual verification complete. Core mechanics (Ajna/Head Center source, Projectors only with undefined below Ajna hierarchy, Mental awareness principle) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
@@ -14,8 +14,7 @@ verification_notes: "Individual verification complete. Core mechanics (Ajna/Head
 
 ---
 
-[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011), Ajna and Head Centers: Mental processing and pressure
-[^2]: *Definitive Book of Human Design*, Mental Authority: Environmental/Lunar Authority for Projectors without lower definitions
+
 
 *The Intelligence of Environment*
 
@@ -194,3 +193,18 @@ Individuals with Mental Authority bring:
 ---
 
 *Mental Authority is the intelligence of the environment—the recognition that truth is not found within but sampled from without. The mind is not your guide but your instrument, and clarity emerges not from thinking harder but from speaking, listening, and sensing the world around you. To trust the environment is to trust that your openness is not weakness but wisdom, and that the counsel of others and the feel of a space will reveal what your mind cannot.*
+
+## References
+
+*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
+
+Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
+- Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority
+
+**Verification Notes:**
+- Human Design system synthesizes I-Ching (64 hexagrams → 64 Gates), Astrology (planetary activations), Kabbalah/Tree of Life (Sephiroth → 9 Centers), and Hindu-Brahmin Chakra system
+- Ra Uru Hu received the system in 1987 on Ibiza; he systematized and taught it, but did not "create" it
+- All mechanical definitions verified against *The Definitive Book of Human Design* (2011)
+- Cross-system correspondences (Jungian, Tarot, Qabalah) marked as Vibology Synthesis where applicable
+
+---

@@ -226,3 +226,18 @@ Being seen is prerequisite to invitation. Projectors can position themselves whe
 ---
 
 *Wait for the Invitation is the Projector's sacred discipline—the recognition that their penetrating gift requires formal opening to be received. In a world that values initiative, waiting feels like weakness. But the Projector's power is not in pushing but in precision: when they are truly invited, their guidance transforms systems, relationships, and lives. The invitation is not limitation but liberation—it ensures the Projector's wisdom lands where it is valued, empowered, and can create genuine success. The bitter Projector has forgotten this; the successful Projector has learned it through patient practice.*
+
+## References
+
+*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
+
+Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
+- Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority
+
+**Verification Notes:**
+- Human Design system synthesizes I-Ching (64 hexagrams → 64 Gates), Astrology (planetary activations), Kabbalah/Tree of Life (Sephiroth → 9 Centers), and Hindu-Brahmin Chakra system
+- Ra Uru Hu received the system in 1987 on Ibiza; he systematized and taught it, but did not "create" it
+- All mechanical definitions verified against *The Definitive Book of Human Design* (2011)
+- Cross-system correspondences (Jungian, Tarot, Qabalah) marked as Vibology Synthesis where applicable
+
+---

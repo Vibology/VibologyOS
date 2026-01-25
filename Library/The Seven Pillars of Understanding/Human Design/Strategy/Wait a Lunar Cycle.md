@@ -269,3 +269,18 @@ For this reason, wise communities value their Reflectors—not as participants i
 ---
 
 *Wait a Lunar Cycle is the Reflector's patient discipline—the recognition that their completely open chart requires external rhythm to find clarity. In a world obsessed with instant decisions, the Reflector's 28-day process feels impossibly slow. But their wisdom cannot be rushed: it emerges through sampling every energetic configuration, filtering conditioning from truth, observing what remains consistent across the cycle. The disappointed Reflector has forgotten this; the surprised Reflector has learned to trust the Moon's rhythm as their own. When the Reflector honors their lunar cycle, they become the clearest mirror the community has—reflecting not distortion but truth, not sickness but possibility.*
+
+## References
+
+*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
+
+Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
+- Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority
+
+**Verification Notes:**
+- Human Design system synthesizes I-Ching (64 hexagrams → 64 Gates), Astrology (planetary activations), Kabbalah/Tree of Life (Sephiroth → 9 Centers), and Hindu-Brahmin Chakra system
+- Ra Uru Hu received the system in 1987 on Ibiza; he systematized and taught it, but did not "create" it
+- All mechanical definitions verified against *The Definitive Book of Human Design* (2011)
+- Cross-system correspondences (Jungian, Tarot, Qabalah) marked as Vibology Synthesis where applicable
+
+---

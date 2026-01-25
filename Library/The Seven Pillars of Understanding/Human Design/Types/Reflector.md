@@ -10,7 +10,7 @@ signature: Surprise
 authority: Lunar Authority
 date_created: 2026-01-08
 source_verified: true
-verification_date: 2026-01-23
+verification_date: 2026-01-25
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
 verification_notes: "Individual verification complete. Core mechanics (All centers undefined, ~1% of population, Strategy: Wait a Lunar Cycle, Signature: Surprise) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
@@ -48,9 +48,7 @@ The Reflector is the barometer of community health, the "canary in the coal mine
 
 ---
 
-[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011), Reflector Type: All nine centers undefined (rarest Type)
-[^2]: *Definitive Book of Human Design*, Reflector Strategy: Wait 28-29 days (full lunar cycle) for major decisions
-[^3]: *Definitive Book of Human Design*, Reflector Signature: Surprise
+
 
 **To Wait a Full Lunar Cycle** is the Reflector's alchemical law. Because their design is entirely lunar (no fixed definition), they require a full 28-day cycle to experience clarity on major decisions.
 
@@ -182,3 +180,18 @@ The Reflector's challenge is accepting that their gift is **not to fit in** but 
 ---
 
 *The Reflector is the living mirror—the one who samples the world without becoming it, who reflects the health of community without taking on its sickness, who waits through the full lunar cycle to know what is true. Their gift is not in doing, guiding, or initiating, but in revealing: by their presence, they show us what we have become, and by their surprise, they remind us what is still possible.*
+
+## References
+
+*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
+
+Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
+- Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority
+
+**Verification Notes:**
+- Human Design system synthesizes I-Ching (64 hexagrams → 64 Gates), Astrology (planetary activations), Kabbalah/Tree of Life (Sephiroth → 9 Centers), and Hindu-Brahmin Chakra system
+- Ra Uru Hu received the system in 1987 on Ibiza; he systematized and taught it, but did not "create" it
+- All mechanical definitions verified against *The Definitive Book of Human Design* (2011)
+- Cross-system correspondences (Jungian, Tarot, Qabalah) marked as Vibology Synthesis where applicable
+
+---

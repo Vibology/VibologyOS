@@ -6,7 +6,7 @@ compatible_types: [Manifestor, Generator, Projector]
 hierarchy: Highest (overrides all other authorities)
 date_created: 2026-01-08
 source_verified: true
-verification_date: 2026-01-23
+verification_date: 2026-01-25
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
 verification_notes: "Individual verification complete. Core mechanics (Solar Plexus Center source, highest hierarchy, "No truth in the now" principle) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
@@ -14,8 +14,7 @@ verification_notes: "Individual verification complete. Core mechanics (Solar Ple
 
 ---
 
-[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011), Solar Plexus Center: Emotional/Spirit consciousness, supreme authority when defined
-[^2]: *Definitive Book of Human Design*, "No truth in the now" - decision-making over time through emotional wave
+
 
 *Clarity Through the Wave*
 
@@ -157,3 +156,18 @@ Emotionally defined individuals bring:
 ---
 
 *Emotional Authority is the intelligence of the wave—the recognition that truth is not found in the intensity of the moment but in the calm that follows the storm. To wait for clarity is not weakness but wisdom, and to trust the wave is to honor the body's ancient knowing that all things must cycle before they can be seen whole.*
+
+## References
+
+*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
+
+Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
+- Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority
+
+**Verification Notes:**
+- Human Design system synthesizes I-Ching (64 hexagrams → 64 Gates), Astrology (planetary activations), Kabbalah/Tree of Life (Sephiroth → 9 Centers), and Hindu-Brahmin Chakra system
+- Ra Uru Hu received the system in 1987 on Ibiza; he systematized and taught it, but did not "create" it
+- All mechanical definitions verified against *The Definitive Book of Human Design* (2011)
+- Cross-system correspondences (Jungian, Tarot, Qabalah) marked as Vibology Synthesis where applicable
+
+---

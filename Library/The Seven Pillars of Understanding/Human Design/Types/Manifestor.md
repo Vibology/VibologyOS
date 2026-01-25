@@ -9,7 +9,7 @@ not_self_theme: Anger
 signature: Peace
 date_created: 2026-01-08
 source_verified: true
-verification_date: 2026-01-23
+verification_date: 2026-01-25
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
 verification_notes: "Individual verification complete. Core mechanics (Motor-to-Throat without Sacral, ~9% of population, Strategy: Inform before acting, Signature: Peace) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
@@ -37,9 +37,7 @@ This energetic signature often creates unconscious resistance in others, a pheno
 
 ---
 
-[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011), Manifestor Type: Motor-to-Throat connection without defined Sacral
-[^2]: *Definitive Book of Human Design*, Manifestor Strategy: Inform before initiating
-[^3]: *Definitive Book of Human Design*, Manifestor Signature: Peace
+
 
 **To Inform** is the Manifestor's alchemical key to transformation. Before initiating action, the Manifestor must inform those who will be impacted by their decision. This is not asking permission—it is declaration, a courtesy that eliminates resistance.
 
@@ -150,3 +148,18 @@ The Manifestor's minority status is not accidental—their role is to **initiate
 ---
 
 *The Manifestor is the lightning strike—sudden, powerful, and impossible to predict. Their gift to the world is initiation itself: the courage to begin without waiting for permission, the clarity to move when inner truth calls, and the peace that comes from informing the world of their sovereign intent.*
+
+## References
+
+*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
+
+Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
+- Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority
+
+**Verification Notes:**
+- Human Design system synthesizes I-Ching (64 hexagrams → 64 Gates), Astrology (planetary activations), Kabbalah/Tree of Life (Sephiroth → 9 Centers), and Hindu-Brahmin Chakra system
+- Ra Uru Hu received the system in 1987 on Ibiza; he systematized and taught it, but did not "create" it
+- All mechanical definitions verified against *The Definitive Book of Human Design* (2011)
+- Cross-system correspondences (Jungian, Tarot, Qabalah) marked as Vibology Synthesis where applicable
+
+---

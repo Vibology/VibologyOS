@@ -181,3 +181,18 @@ When the Manifestor abandons their strategy:
 ---
 
 *To Inform is the Manifestor's bridge between power and connection—the recognition that autonomous action need not mean isolation. When the Manifestor informs, they transform their closed aura into a window, allowing others to see what's coming and prepare. This is not weakness or compromise; it is wisdom: the understanding that impact without transparency creates enemies, while declaration before action creates allies. Peace is not the absence of power but its correct expression.*
+
+## References
+
+*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
+
+Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
+- Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority
+
+**Verification Notes:**
+- Human Design system synthesizes I-Ching (64 hexagrams → 64 Gates), Astrology (planetary activations), Kabbalah/Tree of Life (Sephiroth → 9 Centers), and Hindu-Brahmin Chakra system
+- Ra Uru Hu received the system in 1987 on Ibiza; he systematized and taught it, but did not "create" it
+- All mechanical definitions verified against *The Definitive Book of Human Design* (2011)
+- Cross-system correspondences (Jungian, Tarot, Qabalah) marked as Vibology Synthesis where applicable
+
+---

@@ -2,17 +2,16 @@
 tags: [human-design, strategy, decision-making, mechanics, archetypal]
 system: Human Design
 date_created: 2026-01-08
-date_updated: 2026-01-16
+date_updated: 2026-01-25
 source_verified: true
-verification_date: 2026-01-23
+verification_date: 2026-01-25
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
 verification_notes: "Individual verification complete. Overview of 4 Strategies verified against Grimoire with inline citations. Educational/synthesis content clearly distinguished."
 ---
 
 ---
 
-[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011), Four Strategies: Generator (Respond), Manifestor (Inform), Projector (Wait for Invitation), Reflector (Wait Lunar Cycle)
-[^2]: *Definitive Book of Human Design*, Strategy is the mechanical way each Type correctly interacts with the world
+
 
 *The Geometry of Correct Movement*
 
@@ -221,3 +220,18 @@ Strategy is the spiritual practice of **alignment**—not through transcendence 
 ---
 
 *Strategy is the geometry of your unique movement through life—not a moral code but a mechanical law. When you honor your Strategy, you align with the current of your design, and life becomes less resistance and more resonance. The world does not change, but your relationship to it transforms: you stop fighting the river and learn to navigate its flow.*
+
+## References
+
+*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
+
+Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
+- Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority
+
+**Verification Notes:**
+- Human Design system synthesizes I-Ching (64 hexagrams → 64 Gates), Astrology (planetary activations), Kabbalah/Tree of Life (Sephiroth → 9 Centers), and Hindu-Brahmin Chakra system
+- Ra Uru Hu received the system in 1987 on Ibiza; he systematized and taught it, but did not "create" it
+- All mechanical definitions verified against *The Definitive Book of Human Design* (2011)
+- Cross-system correspondences (Jungian, Tarot, Qabalah) marked as Vibology Synthesis where applicable
+
+---
