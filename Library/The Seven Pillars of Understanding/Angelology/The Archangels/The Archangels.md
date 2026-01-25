@@ -2,6 +2,9 @@
 tags: [angelology, archangels, overview, hierarchy]
 system: Angelology
 date_created: 2026-01-18
+date_updated: 2026-01-24
+verified: 2026-01-24
+verification_source: Esoteric Grimoire
 category: Overview
 ---
 # The Archangels
@@ -14,7 +17,9 @@ category: Overview
 ---
 ## Overview
 
-The **Archangels** are the **named angels**—the individual celestial intelligences who have revealed themselves throughout sacred history, bearing specific names, functions, and personalities. Unlike the nine orders of angels (which represent *classes* or *types* of angelic consciousness), the Archangels are **distinct beings**, each with a unique mission, sphere of influence, and relationship to humanity.
+> *Vibology Synthesis: Individual archangel names and scriptural appearances are verified in the Esoteric Grimoire (Davidson). The Qabalistic Sephirothic assignments (Wang, Golden Dawn system) are verified. The eleven-archangel framework and cross-system correspondences are Vibology integrations.*
+
+The **Archangels** are the **named angels**—the individual celestial intelligences who have revealed themselves throughout sacred history, bearing specific names, functions, and personalities (Davidson, *A Dictionary of Angels*). Unlike the nine orders of angels (which represent *classes* or *types* of angelic consciousness), the Archangels are **distinct beings**, each with a unique mission, sphere of influence, and relationship to humanity.
 
 In the celestial hierarchy, the term "Archangel" appears in two distinct but related senses:
 
@@ -259,3 +264,24 @@ For comprehensive treatment of each archangel, see their individual entries:
 ---
 
 *"The Archangels are not merely cosmic functionaries. They are the living intelligence of divine attributes, the personal faces of impersonal forces, the voices through which the Infinite speaks to the finite. To know them is to recognize that the universe is not a cold mechanism but a living conversation between Creator and creation."*
+
+---
+
+## References
+
+*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
+
+Davidson, Gustav. *A Dictionary of Angels: Including the Fallen Angels*. New York: Free Press, 1967.
+- Individual archangel names, functions, and attributes
+- Hebrew names and etymologies
+- Scriptural and apocryphal appearances
+
+Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, ME: Samuel Weiser, 1983.
+- Archangelic assignments to Sephiroth
+- Golden Dawn system
+
+**Scriptural References:**
+- Daniel 10-12, Jude 1:9, Revelation 12:7-9 (Michael)
+- Daniel 8-9, Luke 1:11-38 (Gabriel - Annunciation)
+- Book of Tobit, Book of Enoch (Raphael)
+- 2 Esdras, Book of Enoch (Uriel)
