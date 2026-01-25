@@ -29,9 +29,7 @@ function: Spiritual strife against evil, form-giver, contemplation
 
 Tzaphkiel is the archetype of **contemplative stillness**, the intelligence that does not act but **witnesses**. In that witnessing, all structures are upheld, all forms are given birth, all cosmic laws are maintained. Tzaphkiel is the **silent presence** at the heart of manifestation—the one who sees without speaking, knows without moving, and gives form without force.
 
-In the Qabalistic tradition, Dion Fortune writes in *The Mystical Qabalah*:
-
-> *"Tzaphkiel is the Archangel of Binah, the sphere of Saturn and the Great Mother. Tzaphkiel is the Beholder of God, the one who contemplates the divine mysteries and gives them form. To invoke Tzaphkiel is to stand before the abyss of infinite potential and ask: 'What form shall emerge from this darkness?'"*
+In the Qabalistic tradition, Wang (drawing from the Golden Dawn Knowledge Lecture) describes Binah as "a thick darkness which yet veileth the Divine Glory... wherein is mystery and depth and silence." Tzaphkiel is called "the Prince of the Spiritual Strife against Evil," the Beholder of God who contemplates the divine mysteries and presides over the giving of form.
 
 Where [[Michael]] wields the sword of discrimination, where [[Gabriel]] delivers the divine word, where [[Raphael]] heals through divine knowledge, Tzaphkiel **holds the space**. Tzaphkiel is the container, the womb, the throne upon which all other angelic action rests.
 
@@ -375,8 +373,9 @@ Tzaphkiel does not *make* forms in the way an artisan makes a pot. Tzaphkiel **h
 ---
 
 ## X. Human Consciousness Parallel: The Throat Center and the Great Mother
+**Vibology Synthesis — Cross-System Integration**
 
-In **[[Human Design]]**, Tzaphkiel corresponds to the **[[Throat Center]]**—the manifestation gateway—and to the archetypal **Great Mother** within the psyche.
+In **[[Human Design]]**, Tzaphkiel corresponds to the **[[Throat Center]]**—the manifestation gateway—and to the archetypal **Great Mother** within the psyche. (Note: The Angelic Architecture of the BodyGraph maps the Aralim/Thrones, the angelic order of Binah, directly to the Throat Center.)
 
 ### The Throat as Manifestation Gateway
 
@@ -815,14 +814,17 @@ To integrate Tzaphkiel is to become the **sacred womb**—the one who holds, wit
 
 ### Tarot
 
-**Major Arcana:**
-- **[[The Empress]]** (III) — The Divine Mother, form-giver, Binah personified, Tzaphkiel's Tarot face
-- **[[The Hierophant]]** (V) — Cosmic law, structure, tradition, authority (Tzaphkiel's law-upholding function)
-- **[[The Hanged Man]]** (XII) — Suspension, gestation, the womb-time before birth (Tzaphkiel's holding space)
-- **[[The World]]** (XXI) — Completion of form, manifestation achieved, Saturn's final gift
-
-**Minor Arcana:**
+**Verified per Wang:**
 - **All Threes** — Binah's number, the first stable structure (triangle), form emerging from duality
+- **All Queens** — The Mother aspect in four elements
+
+**Path of Daleth (Vibology Synthesis):**
+- **[[The Empress]]** (III) — Path connecting Chokmah and Binah (not Binah itself). Wang states "She is Binah... the Great Mother" conceptually, though the card is the path, not the Sephirah
+
+**Thematic Associations (Vibology Synthesis):**
+- **[[The Hierophant]]** (V) — Cosmic law, structure, tradition, authority
+- **[[The Hanged Man]]** (XII) — Suspension, gestation, womb-time before birth
+- **[[The World]]** (XXI) — Completion of form, manifestation achieved, Saturn's final gift
   - Three of Wands (Binah in Fire) — Established strength
   - Three of Cups (Binah in Water) — Emotional foundation
   - Three of Swords (Binah in Air) — Sorrow, the price of limitation
