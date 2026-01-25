@@ -17,8 +17,7 @@ domain: Physical/Material Groundedness
 
 ---
 
-## House Symbolism & Meaning
-
+## Core Domain
 The House of the Land represents the **earth domain of physical existence**—the realm where consciousness meets matter, where abstract potential becomes grounded reality, where being incarnate requires practical engagement with material form. This is the domain of embodied stability, tangible presence, structural integrity. Land is not metaphor but **literal ground beneath feet**—the domain where you stand, build, and establish foundation.
 
 Land governs the spectrum from rootedness to rigidity, from confidence born of solid footing to insecurity arising from unstable foundation. This House asks: **Can you trust the ground you stand on?** Can you build structures that endure without calcifying into brittleness? Can you remain embodied without becoming imprisoned by form?
@@ -57,8 +56,7 @@ The gates cluster in **Spleen (4 gates) and Throat (2 gates)**, with one Sacral 
 
 ---
 
-## Cross-System Correspondences
-
+## Correspondences
 **Tarot:**
 - **Pentacles/Disks:** The material suit governing health, wealth, craft, embodiment
 - **The Empress (III):** Earth mother; abundance through nourishing presence
@@ -124,8 +122,7 @@ The five senses, physical pleasure, somatic awareness. Land is where consciousne
 
 ---
 
-## Divinatory Meaning
-
+## Oracle Reading
 **When cards from the House of the Land appear:**
 
 You are being called to **ground yourself in material reality**. This is not the time for abstract theorizing (Chronicle), emotional processing (Sea), or spiritual transcendence (Spirit). The question before you requires **embodied action, practical discernment, physical presence**. Trust your instincts. Feel what your body knows. Stand on the ground and build from there.

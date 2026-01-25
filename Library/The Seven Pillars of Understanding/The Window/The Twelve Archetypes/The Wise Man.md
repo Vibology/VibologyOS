@@ -15,8 +15,7 @@ gene_keys: Exhaustion → Resolve → Divine Will
 *Mr. Miyagi - The Solitary Master*
 
 ---
-## Card Symbolism & Meaning
-
+## Core Domain
 The Wise Man represents the archetypal **mentor who emerges from obscurity**—the one who has mastered self through discipline, who guides others through practical wisdom, who provides teaching but requires solitude to restore will. Embodied by Mr. Miyagi, this archetype carries the discerning precision of Virgo: the capacity to work for the student's liberation while maintaining boundaries, to deliver technique without depleting self.
 
 The Wise Man is not perpetually available teacher but **solitary master with finite will**—the one who says "I will train you" and also "now I rest alone." Miyagi works the bonsai garden, fixes Daniel-san's car, teaches through wax-on wax-off—but he also drinks sake alone, tends his grief privately, withdraws to restore.
@@ -74,8 +73,7 @@ Divine Will represents the transcendent recognition that **all will serves cosmi
 In sacred traditions, Divine Will corresponds to the master whose teaching flows from source rather than personal reservoir. At this frequency, teaching is what the universe does through the Wise Man; rest is what the universe does through the Wise Man. There is no separation between work and rest because both are divine expression.
 
 ---
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 You are being called to **provide with boundaries**. This is not the time for infinite availability. Work with resolve, teach with commitment—then rest alone to restore will. The tribe needs your provision, but you need solitude to sustain capacity. Deliverance requires rhythm: work and rest, provide and recuperate. The Wise Man is awakening in you.
 
@@ -91,8 +89,7 @@ Your resolve sustains the tribe. You provide practical wisdom through humble wor
 You embody Divine Will—provision that flows effortlessly because rest is complete. You are the cosmic master whose teaching liberates because exhaustion is impossible. You have transcended the struggle between self and service because you recognize both as one. Your work is the universe providing for itself; your rest is the universe restoring itself. At this frequency, teaching and solitude are both expressions of divine will flowing through form.
 
 ---
-## Synthesis & Integration
-
+## Synthesis Notes
 The Wise Man as archetype unifies Virgo earth (precision in discipline, humility in service, practical wisdom), Mr. Miyagi mythology (practical master who teaches through work, solitary mentor who honors rest), Gate 40's Heart/Ego will (provision sustained through recuperation), and Hexagram 40's teaching (deliverance comes after struggle, liberation requires knowing when to act and when to rest).
 
 This card appears when **wisdom demands boundaries**, when teaching requires solitude, when provision must be balanced with recuperation. The question is not "will you help?" but "can you help without depleting? Can you rest without guilt?"

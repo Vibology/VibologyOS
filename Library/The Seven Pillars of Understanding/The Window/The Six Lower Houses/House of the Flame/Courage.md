@@ -21,8 +21,7 @@ aspect: positive
 
 ---
 
-## Card Symbolism & Meaning
-
+## Core Domain
 Courage represents the gift of **righteous action in service to survival**—the soul's capacity to apply force not from cruelty but from necessity, to control resources and overcome obstacles when the vitality of the tribe demands it. This is not the courage of abstract ideals or distant heroism but courage as **visceral willpower**—the Hunter who secures resources, the Enforcer who removes interference, the Authority who says "this must be done" and possesses the ego strength to act.
 
 In The Window system, Courage is the archetype of justified enforcement built from tribal willpower. This is the parent who protects children against threat, the leader who makes difficult decisions in crisis, the warrior who faces danger because the collective cannot. Courage understands that **fire must sometimes consume to preserve**—that boundaries require enforcement, that survival requires decisive action.
@@ -86,8 +85,7 @@ In sacred traditions, this is the spiritual warrior whose bravery serves dharma 
 
 ---
 
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 Courage signals that **the moment for decisive action has arrived**. You are being called to bite through the obstacle, remove the interference, enforce the boundary that survival requires. This is not a time for hesitation or moral equivocation; it is a time for **justified force in service to vitality**. The question is: **can you act decisively without becoming tyrannical? Can you control without being controlled by control itself?**
 

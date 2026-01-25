@@ -21,8 +21,7 @@ aspect: negative
 
 ---
 
-## Card Symbolism & Meaning
-
+## Core Domain
 Violence represents the shadow of **ego-driven initiation without center**—the soul's capacity for willpower to shock not to awaken but to destroy, to break through not to create but to annihilate. This is not violence as justified force but violence as **chaotic destruction from lost center**—the fire that conflagrates because the ego has become unmoored from its grounding in spirit.
 
 In The Window system, Violence is the archetype of destructive shock built from agitated ego that has lost its anchor. This is the competitor who must win by destroying others, the leader who initiates through terror rather than inspiration, the individual whose willpower has become weapon rather than tool. Violence understands that **shock can awaken or destroy**—and has lost the center required to direct shock toward awakening.
@@ -86,8 +85,7 @@ In sacred traditions, this is the enlightening power of sudden realization—the
 
 ---
 
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 Violence signals that **agitation has hijacked your willpower**. You are being warned against shocking to destroy, against competing to dominate, against initiating from fragmented ego rather than centered strength. The question is: **what agitation drives your violence? What inner chaos are you trying to escape through external destruction?**
 

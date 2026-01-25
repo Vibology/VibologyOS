@@ -15,8 +15,7 @@ gene_keys: Selfishness → Altruism → Selflessness
 *Sarah Connor - The Fierce Protector*
 
 ---
-## Card Symbolism & Meaning
-
+## Core Domain
 The Great Mother represents the archetypal **nurturer-warrior**—the one who feeds the tribe while simultaneously defending it from annihilation. Embodied by Sarah Connor, this archetype carries the earthy determination of Taurus: the capacity to sustain life through both provision and protection.
 
 The Great Mother is not passive caretaker or gentle nurturer alone—she merges the **life-giving aspect with the life-defending aspect**. Sarah Connor becomes the warrior-mother who prepares her son for apocalypse, who trains him to survive, who will sacrifice everything to ensure the tribe's continuity. This is nourishment as responsibility, caring as fierce protection.
@@ -74,8 +73,7 @@ Selflessness represents the transcendent nurturer whose caring flows effortlessl
 In sacred traditions, Selflessness corresponds to the divine mother whose being is giving—who doesn't decide to nourish but whose nature is nourishment itself. At this frequency, there is no separation between self and tribe; caring for others is caring for self because the boundary has dissolved into unity.
 
 ---
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 You are being called to **nourish with fierce discernment**. The situation demands both provision and protection. This is not the time for indiscriminate caring—your Sacral must respond to true tribal need. Who are your people? What genuinely requires your life-force? Feed yourself first, then defend what you love. The Great Mother is awakening in you.
 
@@ -91,8 +89,7 @@ Your caring creates sustainable tribal strength. You nourish strategically—you
 You embody Selflessness—caring that flows from infinite source. You no longer choose between self and other because you recognize both as one. Your nourishment enhances all life, effortlessly. You have become the Great Mother in her cosmic aspect—the womb that births worlds, the breast that feeds galaxies. At this frequency, giving is receiving; nourishment is your nature, not your choice.
 
 ---
-## Synthesis & Integration
-
+## Synthesis Notes
 The Great Mother as archetype unifies Taurus earth (sustaining determination, practical provision, material security), Sarah Connor mythology (warrior-mother defending the tribe from annihilation), Gate 27's Sacral caring (responsive nourishment, tribal protection), and Hexagram 27's teaching (fill your own mouth to feed others, be careful what you take in and give out).
 
 This card appears when **caring demands strength**, when nourishment is not soft but fierce. The question is not "will you care?" but "can you care without depleting? Can you discern who truly needs your life-force?"

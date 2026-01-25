@@ -21,8 +21,7 @@ aspect: negative
 
 ---
 
-## Card Symbolism & Meaning
-
+## Core Domain
 Pride represents the **shadow of material achievement corrupted into ego-inflation**—the soul's capacity for mastery perverted into self-obsession, excellence degraded into vanity, accomplishment mistaken for identity. This is not healthy self-confidence earned through genuine competence but the pathological identification of the self with its achievements—**the soul that believes it is what it has done**.
 
 In The Window system, Pride is the archetype of **corrupted mastery**. This is the executive who cannot distinguish their worth from their title, the artist who believes their talent makes them superior, the achiever who uses accomplishment to inflate ego rather than serve life. When Pride appears, it signals that success has become a trap—that achievement, rather than liberating, has imprisoned the soul in performance.
@@ -86,8 +85,7 @@ In sacred traditions, this is the realized being who acts without attachment to 
 
 ---
 
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 Pride signals that **achievement has become ego-inflation**. You are being shown a place where mastery has been corrupted by self-obsession, where excellence has degraded into performance, where accomplishment is being used to manufacture identity rather than serve life. This is a wake-up call: the success you're pursuing (or have achieved) may be building a prison rather than liberation. The card asks: who are you apart from what you've done?
 

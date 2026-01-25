@@ -14,8 +14,7 @@ gene_keys: Forgetting → Mindfulness → Revelation
 *Retreat - Uncovering Absolute Truth*
 
 ---
-## Portal Symbolism & Meaning
-
+## Core Domain
 Revelation represents the archetypal **truth emerging from privacy**—the moment when strategic withdrawal transforms experience into wisdom, when memory processed in solitude becomes story worth sharing, when mountain under heaven knows to retreat from inferior forces so that what is valuable can be preserved. This is not passive hiding but **active revelation**: the storyteller who withdraws to reflect, then returns to speak what reflection has uncovered.
 
 The Portal of Revelation marks the threshold where **experience becomes meaning**—where lived events, when processed through contemplative retreat, reveal truths that could not be seen in the midst of action. This is the hermit descending from the mountain, the prophet returning from wilderness, the individual whose privacy has distilled experience into revelation worth articulating.
@@ -63,8 +62,7 @@ Forgetting → Mindfulness → Revelation
 **Revelation (Siddhi):** The transcendent recognition that **all memory, fully processed, reveals absolute truth**. The story told after years of reflection carries wisdom that raw experience could never convey. Revelation as cosmic principle: **privacy is the womb where collective memory is born**. The prophet withdraws to wilderness and returns with scripture. The mystic retreats to cave and emerges with teaching. All revelation requires **the alchemy of solitude** transforming experience into truth.
 
 ---
-## Divination Meanings
-
+## Oracle Reading
 **When this portal appears:**
 You are being called to revelation through retreat. Something you have experienced requires **withdrawal and reflection** to be understood. The truth you seek will not emerge in collective noise but in strategic privacy. The question is: can you retreat with dignity rather than defeat? Can you withdraw not to escape but to process, to remember mindfully, to allow solitude to distill experience into wisdom? Revelation calls: **heaven retreats before mountain**—preserve what is valuable by creating distance, then return to share what reflection has uncovered.
 
@@ -78,8 +76,7 @@ Your retreat is serving revelation. The withdrawal you're experiencing is **stra
 You embody Revelation—the recognition that all truth emerges from the alchemy of solitude transforming experience, that collective memory is born in individual privacy, that the prophet must withdraw before they can illuminate. You are mountain under heaven, the stillness that preserves wisdom when movement would corrupt it, the voice that returns from retreat carrying truth. Revelation as cosmic principle: **absolute truth requires absolute privacy to gestate**. The revelation that changes the world is born in the cave, the wilderness, the hermit's cell.
 
 ---
-## Synthesis & Integration
-
+## Synthesis Notes
 Revelation as Portal unifies Gate 33's narrative reflection (withdrawal that transforms experience into story), Hexagram 33's wisdom (strategic retreat to preserve value), and the Gene Keys transformation (forgetting through avoidance → mindfulness in solitude → revelation as truth emerging from privacy).
 
 This Portal appears when **experience requires withdrawal to reveal meaning**—when you cannot understand what you've lived until you retreat from it, when truth will not emerge in collective noise but only in strategic privacy, when the question is not "should I engage?" but "what will revelation uncover if I withdraw to reflect?"

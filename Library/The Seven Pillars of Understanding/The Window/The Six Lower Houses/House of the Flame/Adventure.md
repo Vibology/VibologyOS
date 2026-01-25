@@ -21,8 +21,7 @@ aspect: positive
 
 ---
 
-## Card Symbolism & Meaning
-
+## Core Domain
 Adventure represents the gift of **meaningful struggle in the face of transience**—the soul's capacity to recognize that power, influence, and life itself are temporary, and yet to choose full engagement anyway. This is not adventure as thrill-seeking or reckless escapade but adventure as **existential commitment**—the Game Player's recognition that the struggle itself creates meaning, that risk is the price of aliveness.
 
 In The Window system, Adventure is the archetype of purposeful risk built from existential awareness. This is the entrepreneur who risks everything on a vision, the artist who sacrifices security for creation, the lover who opens fully knowing heartbreak is possible. Adventure understands that **meaning emerges through engagement with uncertainty**—that the safe life, while comfortable, often lacks the vitality that struggle provides.
@@ -86,8 +85,7 @@ In sacred traditions, this is the hero whose adventure becomes myth—not throug
 
 ---
 
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 Adventure signals that **the game is worth playing, the struggle is worth engaging**. You are being called to risk, to commit fully, to embrace life's critical mass as opportunity rather than threat. This is not a time for safety or guaranteed outcomes; it is a time for **totality of commitment to what matters**. The question is: **what struggle calls for your complete engagement? What would you risk everything for?**
 

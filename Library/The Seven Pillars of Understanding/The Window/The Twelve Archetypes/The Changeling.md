@@ -15,8 +15,7 @@ gene_keys: Immaturity → Expansion → Superabundance
 *The Thing - The Unstable Identity*
 
 ---
-## Card Symbolism & Meaning
-
+## Core Domain
 The Changeling represents the archetypal **fluidity of form**—the terrifying and liberating recognition that identity is not fixed but perpetually beginning anew. Embodied by The Thing, this archetype carries the mercurial duality of Gemini: the capacity to adapt to any environment by becoming anything, the horror of never knowing what is real beneath the mask.
 
 The Changeling is not transformation in the sense of metamorphosis (which has completion)—it is **perpetual beginning**. The Thing never finishes becoming; it starts, and starts, and starts again, assimilating and mimicking without ever arriving at a stable self. This is identity as process, not destination.
@@ -72,8 +71,7 @@ Superabundance represents the transcendent recognition that **all forms are one 
 In sacred traditions, Superabundance corresponds to the recognition of infinite creativity—the divine that creates endlessly without exhaustion. At this frequency, The Changeling is not unstable but omniform: infinite potential manifesting in infinite variety without attachment to any single expression. The Thing as cosmic principle: pure adaptability, life finding its way through any form available.
 
 ---
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 You are being called to **honor the pressure to begin without demanding completion**. Identity is shifting. The self you were is dissolving; the self you are becoming has not yet arrived. This is not failure—this is the natural cycle of development. Start. Experiment. Adapt. Do not cling to finished form. The Changeling is awakening.
 
@@ -89,8 +87,7 @@ Your fluidity is power. You can adapt to any environment, learn any role, become
 You embody Superabundance—the recognition that all forms are expressions of single source. You shapeshift not because you lack identity but because you **contain all identities**. You are the cosmic actor playing infinite roles, the divine artist experimenting with infinite mediums. Beginning is not failure to complete—it is the eternal creative impulse itself. At this frequency, shifting and stability are one movement.
 
 ---
-## Synthesis & Integration
-
+## Synthesis Notes
 The Changeling as archetype unifies Gemini air (mental fluidity, adaptability, duality, multiplicity), The Thing mythology (identity as unstable mimicry, form as perpetual process), Gate 53's Root pressure (irresistible initiation without natural completion), and Hexagram 53's teaching (development is gradual, rooted ascent—but The Changeling never roots long enough to complete the climb).
 
 This card appears when **identity is in flux**, when the old self is insufficient and the new self is not yet formed. The question is not "who am I?" but "can I honor this state of becoming without collapsing into either rigid clinging to past identity or formless dissolution?"

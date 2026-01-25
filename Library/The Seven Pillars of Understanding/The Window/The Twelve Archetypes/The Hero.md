@@ -15,8 +15,7 @@ gene_keys: Force → Strength → Majesty
 *Superman - The First Responder*
 
 ---
-## Card Symbolism & Meaning
-
+## Core Domain
 The Hero represents the archetypal **pioneer of moral action**—the one who possesses raw power and wields it in service to others. Embodied by Superman, this archetype carries the driven fire of Aries: the courage to lead the charge, to be first into danger, to respond to the call without hesitation.
 
 The Hero is not defined by invulnerability but by the **decision to act when action is needed**. This is the archetype of the first responder, the one whose power creates safety for others. Superman's moral compass—his refusal to abuse godlike power—transforms brute force into majesty.
@@ -74,8 +73,7 @@ Majesty represents the full realization of power as divine right action. Effortl
 In sacred traditions, Majesty corresponds to the realized warrior whose actions are the Tao acting through them. There is no separation between personal will and cosmic will. The Hero embodying Majesty doesn't decide to help—helping flows through them as natural expression of aligned power.
 
 ---
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 You are being called to **act with power in service to what is right**. The situation demands a hero—someone willing to be first, to take the risk, to use their strength for others. This is not the time for hesitation or self-doubt. Your power is needed. The Hero's journey is beginning, or you are being tested at a threshold. Answer the call.
 
@@ -91,8 +89,7 @@ Your strength empowers others. When you act from alignment—moral compass calib
 You embody Majesty—power so aligned with cosmic order that it requires no justification. Your presence alone transforms situations. You have become the superior man who treads only upon paths that accord with rightness. Force has dissolved into grace. At this frequency, you don't decide to help—helping is what you are. The Hero has merged with heroism itself.
 
 ---
-## Synthesis & Integration
-
+## Synthesis Notes
 The Hero as archetype unifies Aries fire (pioneering courage, initiating action), Superman mythology (moral use of supreme power, the immigrant who becomes protector), Gate 34's Sacral life-force (pure power to empower), and Hexagram 34's teaching (power is only great when rightly directed).
 
 This card appears at the intersection of **capacity and calling**. You have the power—the question is how you wield it. Will you bully or empower? Will you perform machismo or defend principle? Will you exhaust yourself in busy-ness or channel momentum toward aligned goals?

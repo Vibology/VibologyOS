@@ -21,8 +21,7 @@ aspect: positive
 
 ---
 
-## Card Symbolism & Meaning
-
+## Core Domain
 Perseverance represents the **gift of sustained effort through opposition**—the soul's capacity to continue striving despite resistance, to fight for what matters without surrendering to difficulty, to honor the struggle as the path to mastery rather than resenting it as obstacle. This is not perseverance as stubborn refusal to adapt but perseverance as **the dignified willingness to face opposition and continue**.
 
 In The Window system, Perseverance is the archetype of **honorable fighting spirit applied to achievement**. This is the athlete who continues training through setback, the entrepreneur who rebuilds after failure, the artist who creates despite rejection. When Perseverance appears, it signals that mastery requires fighting—that the opposition itself is part of the achievement, that honor is earned through the struggle you're willing to endure.
@@ -86,8 +85,7 @@ In sacred traditions, this is the warrior whose honor is not contingent on victo
 
 ---
 
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 Perseverance signals that **mastery requires fighting through opposition**. You are being called to continue despite difficulty, to honor the struggle rather than resent it, to recognize that what you're facing is not obstacle but crucible. This is not a time to surrender or seek easier paths; it is a time to dig in and fight with integrity. The card affirms: this struggle is part of your achievement. Will you endure it with honor?
 

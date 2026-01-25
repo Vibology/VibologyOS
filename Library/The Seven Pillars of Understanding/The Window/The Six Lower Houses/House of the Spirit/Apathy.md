@@ -21,8 +21,7 @@ aspect: negative
 
 ---
 
-## Card Symbolism & Meaning
-
+## Core Domain
 Apathy represents the **shadow of consciousness scattered by chronic distraction**—the soul's vitality dispersed across superficial stimulation, inner divinity lost to wandering that never enriches, awareness fragmented by the endless consumption of experience without integration. This is not the creative wandering of the storyteller but apathy as **soul death through distraction**—consciousness so scattered it can no longer care.
 
 In The Window system, Apathy is the archetype of **fragmented consciousness**. This is the person endlessly scrolling but never reading, consuming content but never digesting, stimulated but never nourished. When Apathy appears, it signals soul health degraded through inability to settle—**attention so dispersed that nothing can matter anymore**.
@@ -86,8 +85,7 @@ In sacred traditions, this is the realized being drunk on divine presence—who 
 
 ---
 
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 Apathy signals that **distraction has fragmented consciousness**. You are being warned against chronic stimulation-seeking, against wandering that never enriches, against consuming experience without metabolizing it. This is a time to **check whether your consciousness integrates or merely consumes**. The card cautions: your soul is scattered. Return to what nourishes through depth rather than breadth.
 

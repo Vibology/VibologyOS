@@ -15,8 +15,7 @@ gene_keys: Interference → Teamwork → Synarchy
 *Michael Myers - The Unkillable Shadow*
 
 ---
-## Card Symbolism & Meaning
-
+## Core Domain
 The Shape represents the archetypal **collective shadow**—the silent, indestructible embodiment of metaphysical facts that consciousness cannot domesticate, the pattern that keeps returning because it is not personal material but ontological reality. Embodied by Michael Myers (whom Carpenter called "The Shape"), this archetype carries the deadly intensity of Scorpio: pure predation without motive, death incarnate, the boundary marker showing what cannot be integrated.
 
 The Shape is not individual person but **existential fact made visible**—the one who came home, who walks among us, who cannot be stopped because he is not your shadow but death itself. Michael Myers in the white mask is not human but **archetypal presence**: the killer who doesn't speak, doesn't hurry, doesn't explain, only returns. Again. And again. Not as invitation to integration but as **reminder of what exceeds human control**.
@@ -74,8 +73,7 @@ Synarchy represents the transcendent recognition that **acknowledging the unassi
 In sacred traditions, Synarchy corresponds to divine governance that includes limitation, death, entropy—the cosmic facts that consciousness must acknowledge rather than absorb. At this frequency, The Shape serves by marking boundaries: this far, no further. Michael Myers as eternal archetype: the marker who appears whenever consciousness inflates into believing it can integrate everything.
 
 ---
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 You are encountering **the unassimilable**. Something in your situation is not personal material calling for integration but metaphysical fact demanding recognition. This is survival memory alerting: "This is not yours to own. This is collective shadow—death, entropy, predation, radical evil—manifesting in your experience." The Shape is approaching. Do not try to integrate it. Recognize it. Maintain boundaries. Respond with ethical clarity. The unkillable pattern is appearing.
 
@@ -91,8 +89,7 @@ Your instincts recognize what cannot be integrated. You've been here before; you
 You embody mature consciousness—the recognition that **not all shadow is yours**. The Shape serves divine order by marking boundaries: this far, no further. You have learned the teaching of humility: you are not reducible to entropy, death, or predation. These exist as facts of reality, but they are not you. What keeps returning is not asking for integration—it is teaching recognition. At this frequency, acknowledging limits is wisdom, not failure.
 
 ---
-## Synthesis & Integration
-
+## Synthesis Notes
 The Shape as archetype unifies Scorpio water (death as fact, transformation through annihilation, unkillable instinct), Michael Myers mythology (collective shadow incarnate, pure evil without cause, the pattern that returns), Gate 44's Spleen memory (pattern recognition, survival boundary, tribal alerting), and Hexagram 44's teaching (beware seductive patterns that promise union but carry annihilation).
 
 This card appears when **the unassimilable manifests**, when you encounter what cannot be psychologized away, when survival instinct screams "This is not mine!" The question is not "how do I integrate this?" but "what metaphysical fact am I encountering? What boundary am I being asked to maintain?"

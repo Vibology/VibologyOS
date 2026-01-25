@@ -14,8 +14,7 @@ gene_keys: Reaction → Revolution → Rebirth
 *Revolution - External Upheaval of Order*
 
 ---
-## Portal Symbolism & Meaning
-
+## Core Domain
 Revolution represents the archetypal **overturning of outdated structures**—the moment when emotional sensitivity to injustice reaches critical mass, when tribal principles demand the rejection of what no longer serves, when fire beneath the lake evaporates old forms to make way for fundamental transformation. This is not reform or adjustment but **revolutionary change**: molting, divorce, the willingness to burn down what violates principle.
 
 The Portal of Revolution marks the threshold where **principle becomes action**—where emotional awareness of violation transforms into the demand for change, where the question "is this right?" dissolves into the mandate "this must be transformed." This is the revolutionary seizing power, the people overthrowing tyranny, the individual rejecting relationships and structures that betray tribal law written in the heart.
@@ -63,8 +62,7 @@ Reaction → Revolution → Rebirth
 **Rebirth (Siddhi):** The transcendent recognition that **all revolution is rebirth**. The caterpillar does not reform into a better caterpillar; it dissolves completely and emerges as butterfly. Revolution as cosmic principle: **transformation requires death of old form**. The marriage ends so new partnership can be born. The government falls so just society can emerge. The self dissolves so authentic being can manifest. Rebirth is **radical transformation through principled destruction**.
 
 ---
-## Divination Meanings
-
+## Oracle Reading
 **When this portal appears:**
 You are facing revolution. Something in your life—relationship, career, belief system, social structure—has violated principles that matter deeply to your emotional body. Gradual reform has failed. The question is: are you willing to overturn existing order? Can you trust that your emotional sensitivity to injustice is valid? Can you initiate revolutionary change knowing it will be chaotic but necessary? Revolution calls: **principle demands upheaval**—the old order must be transformed, not adjusted.
 
@@ -78,8 +76,7 @@ Your emotional body has reached clarity. This is not reaction but **principled r
 You embody Rebirth—the recognition that revolution is not destruction but transformation, that all endings are beginnings, that molting is necessary for growth. You are fire dissolving water, old form becoming new, death that births life. Revolution as cosmic principle: **nothing is destroyed that is not simultaneously reborn**. The butterfly remembers being caterpillar. The revolutionized world contains the wisdom of what was overturned.
 
 ---
-## Synthesis & Integration
-
+## Synthesis Notes
 Revolution as Portal unifies Gate 49's emotional principle (sensitivity to injustice demanding change), Hexagram 49's wisdom (fire beneath lake evaporates old form when timing is correct), and the Gene Keys transformation (reaction as wounded upheaval → revolution as principled change → rebirth as radical transformation).
 
 This Portal appears when **existing order has violated principles**—when emotional sensitivity to injustice can no longer be ignored, when gradual change has proven inadequate, when fundamental transformation becomes necessary despite its chaos. The question is not "can I adjust this?" but "do my principles demand that I overturn this completely?"

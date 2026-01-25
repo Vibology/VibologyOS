@@ -14,8 +14,7 @@ gene_keys: Chaos → Innovation → Innocence
 *Difficulty at the Beginning - Biological and Essential Change*
 
 ---
-## Portal Symbolism & Meaning
-
+## Core Domain
 Metamorphosis represents the archetypal **transformation at the cellular level**—the moment when mutation emerges from chaos, when new life pushes through soil despite difficulty, when the Sacral responds "yes" to the turbulence of fundamental change. This is not conscious evolution but **biological imperative**: the caterpillar dissolving, the seed sprouting, the storm that precedes clearing because new form cannot emerge without chaos.
 
 The Portal of Metamorphosis marks the threshold where **old structure becomes new being**—where innovation requires moving through confusion, where the question "how do I do this?" dissolves into the recognition "I must simply persist through the difficulty inherent to all new beginnings." This is the larva liquefying, the seedling cracking concrete, the innovator bringing order from chaos through sheer life force.
@@ -63,8 +62,7 @@ Chaos → Innovation → Innocence
 **Innocence (Siddhi):** The transcendent recognition that **all creation returns to primordial innocence**. The mutation that emerges from chaos is not sophisticated elaboration but **simple, elegant, innocent**. The seed knows how to sprout. The caterpillar knows how to dissolve. Metamorphosis as cosmic principle: **difficulty at the beginning is life force meeting resistance**, and life always finds its way. Innocence is **trust in the biological imperative** that guides transformation beyond conscious understanding.
 
 ---
-## Divination Meanings
-
+## Oracle Reading
 **When this portal appears:**
 You are in metamorphosis. Something fundamentally new is emerging—identity, vocation, consciousness, biological state—and the beginning is difficult. You are in chaos, confusion, the turbulent early stage where new order has not yet crystallized. The question is: can you persist through this difficulty? Does your Sacral have the life force to sustain innovation through its chaotic birth? Can you trust that order will emerge if you simply continue responding "yes" to what arises? Metamorphosis calls: **move through the chaos**—difficulty at the beginning is not evidence of failure but proof that mutation is underway.
 
@@ -78,8 +76,7 @@ Your Sacral has responded "yes" to this mutation. You have **life force adequate
 You embody Innocence—the recognition that all metamorphosis is guided by intelligence beyond conscious control, that life knows how to transform itself, that difficulty at the beginning is biological necessity not cosmic punishment. You are the seed sprouting, the caterpillar dissolving, the storm that clears. Metamorphosis as cosmic principle: **chaos is the womb of innovation**. The innocent trust that life, meeting resistance, always finds its way to new form.
 
 ---
-## Synthesis & Integration
-
+## Synthesis Notes
 Metamorphosis as Portal unifies Gate 3's mutative life force (Sacral energy to persist through chaos of new beginnings), Hexagram 3's wisdom (order emerges from confusion through perseverance), and the Gene Keys transformation (overwhelmed by chaos → innovation through sustained response → innocence as trust in biological transformation).
 
 This Portal appears when **fundamental change is underway**—when you are in the difficult early stages of mutation, when chaos feels overwhelming but retreat would abort necessary transformation, when the question is not "should I transform?" but "do I have the life force to sustain this metamorphosis through its turbulent birth?"

@@ -21,8 +21,7 @@ aspect: positive
 
 ---
 
-## Card Symbolism & Meaning
-
+## Core Domain
 Memory represents the gift of **visionary ideation that preserves meaning across time**—the soul's capacity to hold ideas, concepts, and mental frameworks that give the narrative coherence, that allow the story to be remembered and retold, that transform lived experience into transmissible wisdom. This is not memory as nostalgic attachment or mere recall but memory as **earned clarity**—the mental peace that emerges when ideas have been refined through contemplation until only essential truth remains.
 
 In The Window system, Memory is the archetype of ideational preservation built from mental harmony. This is the philosopher whose concepts give life structure, the storyteller whose frameworks make experience meaningful, the teacher whose ideas allow wisdom to transmit across generations. Memory understands that **narrative requires concepts**—without ideas that give shape to experience, the story dissolves into chaos.
@@ -86,8 +85,7 @@ In sacred traditions, this is the enlightened mind whose concepts participate in
 
 ---
 
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 Memory signals that **ideas give the narrative coherence**. You are being called to hold concepts that make the story memorable, to preserve frameworks that give meaning structure, to refine your ideas until they illuminate rather than obscure. The question is: **what concepts shape your narrative? Are they clarifying or complicating? Do they serve meaning or serve ego?**
 

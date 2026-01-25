@@ -21,8 +21,7 @@ aspect: positive
 
 ---
 
-## Card Symbolism & Meaning
-
+## Core Domain
 Humility represents the **gift of receptive orientation to divine will**—the soul's capacity to receive direction from the Higher Self rather than forcing it through ego, to trust the sacred geometry that guides consciousness toward unity. This is not humility as self-effacement or false modesty but humility as **the soul's willingness to listen before speaking, to receive before acting, to follow divine direction rather than manufacturing purpose through will alone**.
 
 In The Window system, Humility is the archetype of **oriented consciousness built through receptive trust**. This is the leader who knows their role comes from listening rather than asserting, the seeker who allows the path to reveal itself rather than forcing direction, the soul whose confidence emerges from alignment with something greater rather than ego inflation. When Humility appears, it signals soul health manifesting as **orientation through surrender**—knowing where to go because you've stopped trying to figure it out.
@@ -86,8 +85,7 @@ In sacred traditions, this is the realized being whose will has merged with cosm
 
 ---
 
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 Humility signals that **direction comes through receptivity to divine will**. You are being called to cease forcing purpose, to receive your sacred orientation through humble listening rather than ego assertion. This is not a time for manufacturing direction; it is a time for **surrendering into alignment**. The card affirms: your soul knows the way. Receive it humbly.
 

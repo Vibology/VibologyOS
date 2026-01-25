@@ -14,8 +14,7 @@ gene_keys: Dishonesty → Intimacy → Transparency
 *Dispersion - Severing of Known Support*
 
 ---
-## Portal Symbolism & Meaning
-
+## Core Domain
 Betrayal represents the archetypal **dissolution of bonding**—the moment when barriers that were broken down to create intimacy are re-erected, when sexual energy that penetrated aura fields withdraws, when wind over water disperses what was gathered. This is not gentle distancing but **violent severing**: the tribal bond broken, the intimate connection betrayed, the walls rebuilt after vulnerability was risked.
 
 The Portal of Betrayal marks the threshold where **intimacy becomes violation**—where the capacity to break down barriers transforms into the wound of barriers forced, where the question "with whom do I bond?" receives the answer "not with those who betray tribal law." This is the divorce, the excommunication, the severing of ties that once felt unbreakable because dishonesty has fractured what transparency created.
@@ -63,8 +62,7 @@ Dishonesty → Intimacy → Transparency
 **Transparency (Siddhi):** The transcendent recognition that **all true intimacy dissolves into transparency**. When barriers are fully dissolved, when sexual energy creates complete bonding, when dishonesty is impossible because there is nothing left to hide—this is **radical openness**. Betrayal as Portal inverted becomes its opposite: the intimacy so complete that self and other become transparent to each other. Transparency is **the death of separation** through honest communion.
 
 ---
-## Divination Meanings
-
+## Oracle Reading
 **When this portal appears:**
 You are experiencing betrayal. An intimate bond—marriage, partnership, friendship, tribal membership—is being severed or has been violated. Barriers you broke down to create connection have been dishonored. The question is: can you grieve this dispersion? Can you recognize that the intimacy created was real even if it was betrayed? Can you rebuild your barriers without closing your heart completely? Betrayal calls: **wind disperses water**—what was gathered will scatter, and the severing is necessary to protect what remains.
 
@@ -78,8 +76,7 @@ The betrayal, though painful, is teaching you **discernment in intimacy**. You a
 You embody Transparency—the recognition that betrayal reveals where dishonesty existed, that severing clears space for bonds built on truth, that radical openness is only possible with those who honor vulnerability. You are wind that disperses false intimacy so true communion can form. Betrayal as Portal inverted: **transparency purifies connection**. Only honest bonds survive the wind. Only sacred intimacy nourishes the tribe.
 
 ---
-## Synthesis & Integration
-
+## Synthesis Notes
 Betrayal as Portal unifies Gate 59's sexual energy (breaking barriers to create intimacy), Hexagram 59's wisdom (wind disperses water, dissolving what was gathered), and the Gene Keys transformation (dishonesty as false intimacy → discerning intimacy through honesty → transparency as radical openness).
 
 This Portal appears when **intimate bonds are severed**—when barriers broken are betrayed, when sexual energy used to create connection is withdrawn or violated, when tribal relationships fracture because dishonesty has corrupted what should have been nourishing. The question is not "how do I prevent betrayal?" but "can I grieve this severing while learning discernment for future intimacy?"

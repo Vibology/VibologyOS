@@ -21,8 +21,7 @@ aspect: positive
 
 ---
 
-## Card Symbolism & Meaning
-
+## Core Domain
 Stability represents the gift of **embodied presence in the now**—the soul's capacity to stand firm in physical reality not through rigidity but through conscious, contemplative awareness of what is. This is not the stability of stone that refuses to move but stability as **living groundedness**—the tree whose roots run deep enough to allow flexible response to wind without being uprooted.
 
 In The Window system, Stability is the archetype of unshakeable foundation built from present-moment recognition. This is the person who knows where they stand because they are actually standing there—not mentally projecting into future anxiety or past regret but physically, consciously present in the body, in this moment, in this place. Stability understands that **true foundation is attention anchored in now**—and that most instability comes from consciousness fragmented across time.
@@ -86,8 +85,7 @@ In sacred traditions, this is the realized master whose every gesture manifests 
 
 ---
 
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 Stability signals that **your foundation is solid when you are present to it**. You are being called to recognize and trust the ground you stand on—not through anxious preparation or defensive rigidity but through conscious presence in this moment. The question is: **are you actually here? Is your attention in your body, in this place, in this moment?**
 

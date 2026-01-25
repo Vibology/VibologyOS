@@ -21,8 +21,7 @@ aspect: positive
 
 ---
 
-## Card Symbolism & Meaning
-
+## Core Domain
 Discipline represents the **gift of mastery through self-imposed limitation**—the soul's recognition that constraints are not obstacles to excellence but the very conditions that enable it. This is not discipline as punishment or deprivation but discipline as **the wisdom of focused effort**, understanding that boundaries create form, that saying "no" to distractions enables "yes" to mastery.
 
 In The Window system, Discipline is the archetype of **liberation through limitation**. This is the musician who practices scales before composing symphonies, the athlete who trains fundamental movements before attempting competition, the craftsperson who masters basic techniques before innovating. When Discipline appears, it signals that achievement requires accepting constraints—that the path to mastery runs through focused limitation rather than scattered expansion.
@@ -86,8 +85,7 @@ In sacred traditions, this is the understanding that dharma (correct action) req
 
 ---
 
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 Discipline signals that **mastery requires accepting appropriate limitation**. You are being called to discern which constraints serve your achievement and which merely frustrate without purpose. This is not a time for scattered expansion or fighting against all boundaries; it is a time to identify the limitations that will focus your energy and accept them fully. The card affirms: excellence emerges within structure. Will you accept the discipline required?
 

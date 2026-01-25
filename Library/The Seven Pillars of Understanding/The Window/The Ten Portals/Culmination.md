@@ -14,8 +14,7 @@ gene_keys: Addiction → Invention → Silence
 *The Return - Completion of the Cycle*
 
 ---
-## Portal Symbolism & Meaning
-
+## Core Domain
 Culmination represents the archetypal **completion of a cycle**—the moment when energy returns to its source having transformed, when the harvest is gathered after seasons of growth, when understanding crystallizes after repetitive contemplation. This is not mere ending but **renewal through completion**: thunder stirring beneath earth after winter's dormancy, the mind returning again and again until insight finally emerges whole.
 
 The Portal of Culmination marks the threshold where **linear time becomes circular**—where you recognize that what appears as conclusion is actually preparation for new beginning. This is harvest season: reaping what was sown, gathering the fruit of effort, completing what was started so the cycle can begin anew.
@@ -63,8 +62,7 @@ Addiction → Invention → Silence
 **Silence (Siddhi):** The transcendent recognition that **all completion is return to silence**. The mind that has rationalized fully falls quiet—not from exhaustion but from wholeness. The life that has lived its cycles returns to stillness without regret. Culmination as cosmic principle: the harvest is not achievement but **return to empty ground** from which new seeds emerge. Silence is the space between last breath and next beginning.
 
 ---
-## Divination Meanings
-
+## Oracle Reading
 **When this portal appears:**
 You are completing a cycle. Something that has been building—project, relationship, understanding, life phase—has reached **natural conclusion**. This is not failure or abandonment but **organic completion**. The question is: can you recognize the harvest? Can you gather what this cycle has yielded without addictive repetition, without forcing continuation past its season? Culmination calls: **return to origin, integrate the fruit, allow the cycle to complete so the next can begin**.
 
@@ -78,8 +76,7 @@ Your repetitive return has created invention. The cycling was not waste but refi
 You embody the wisdom of return. You have learned that all cycles complete themselves, that completion is return to silence from which new beginning emerges. You are the thunder beneath earth, the stirring that knows its season, the mind that thinks until thinking dissolves into understanding. Culmination as cosmic principle: **going out and coming in without error**, trusting the seventh day, allowing harvest to gather itself when time is ripe.
 
 ---
-## Synthesis & Integration
-
+## Synthesis Notes
 Culmination as Portal unifies Gate 24's mental cycling (rationalization that returns until understanding emerges), Hexagram 24's cosmic teaching (all things return to origin for renewal), and the Gene Keys transformation (addiction to compulsive repetition → invention through conscious return → silence as completion of all cycles).
 
 This Portal appears when **life demands harvest**—when what has been building must be gathered, when understanding that has been cycling must crystallize, when relationships/projects/understandings reach natural conclusion. The question is not "should I continue?" but "can I recognize completion and allow the return to origin that permits new beginning?"

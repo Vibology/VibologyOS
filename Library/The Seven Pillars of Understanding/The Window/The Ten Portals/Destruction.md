@@ -14,8 +14,7 @@ gene_keys: Doubt → Inquiry → Truth
 *After Completion - Violent Clearing of Space*
 
 ---
-## Portal Symbolism & Meaning
-
+## Core Domain
 Destruction represents the archetypal **dismantling of completed patterns**—the moment when what has been achieved begins to unravel, when water over fire creates precarious balance that invites collapse, when logical doubt questions completion so relentlessly that structure must be torn down and rebuilt. This is not creative destruction but **necessary skepticism**: the pressure to verify, test, and question what seems finished until either truth is confirmed or false pattern is destroyed.
 
 The Portal of Destruction marks the threshold where **completion becomes vulnerability**—where achievement invites complacency, where the question "is this truly complete?" generates the pressure that either strengthens structure through verification or collapses it through exposure of flaws. This is the doubter testing foundations, the skeptic demanding proof, the logical mind that cannot rest until patterns are verified or destroyed.
@@ -63,8 +62,7 @@ Doubt → Inquiry → Truth
 **Truth (Siddhi):** The transcendent recognition that **all doubt dissolves into Truth**. When patterns are tested relentlessly and survive verification, doubt transforms into certainty. When patterns collapse under scrutiny, destruction serves truth by clearing space for what is real. Destruction as cosmic principle: **nothing false can withstand inquiry**. Only Truth remains after all questioning is complete. Truth is **what survives the fire of doubt**.
 
 ---
-## Divination Meanings
-
+## Oracle Reading
 **When this portal appears:**
 You are in destruction. Something that seemed complete—relationship, career, belief system, achievement—is being questioned. Doubt is arising. Patterns that appeared stable are being tested, and the testing may reveal flaws that require dismantling. The question is: can you inquire without destroying unnecessarily? Can you doubt systematically, testing what needs verification without collapsing everything from fear? Can you trust that if destruction is necessary, it serves truth? Destruction calls: **question completion**—what survives testing is real; what collapses needed to fall.
 
@@ -78,8 +76,7 @@ Your doubt is serving truth. The questioning arising is **logical inquiry**, not
 You embody Truth—the recognition that all doubt ultimately serves certainty, that destruction clears space for what cannot be destroyed, that inquiry is love of what is real over attachment to what seems complete. You are water testing fire, skepticism serving verification, doubt that purifies. Destruction as cosmic principle: **only Truth survives relentless questioning**. What collapses was false. What remains is unshakeable.
 
 ---
-## Synthesis & Integration
-
+## Synthesis Notes
 Destruction as Portal unifies Gate 63's mental pressure (doubt that questions completed patterns), Hexagram 63's wisdom (completion is precarious and invites dissolution), and the Gene Keys transformation (paralytic doubt → systematic inquiry → Truth as what survives all testing).
 
 This Portal appears when **completed patterns must be verified**—when achievement cannot be trusted without testing, when doubt arises not from insecurity but from logical necessity, when the question is not "am I being negative?" but "is this pattern truly complete, or does it require destruction to serve truth?"

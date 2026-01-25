@@ -21,8 +21,7 @@ aspect: negative
 
 ---
 
-## Card Symbolism & Meaning
-
+## Core Domain
 Heartbreak represents **the wound of betrayed vulnerability**—the devastation that comes when you open your heart and it is shattered, when emotional trust is broken, when the very act of feeling deeply becomes source of agony. This is heartbreak not as melodrama but as **genuine crisis**: the darkening of emotional light, the descent into grief so profound it questions whether feeling is worth the cost.
 
 In The Window system, Heartbreak is the archetype of **emotional crisis within Sea's domain**. This is the valley of the wave, the night of the emotional soul, the moment when **openness becomes wound**. When Heartbreak appears, it signals that vulnerability has been met with betrayal, that emotional risk has resulted in devastation, that the heart that opened has been broken.
@@ -86,8 +85,7 @@ In sacred traditions, this is the wounded healer whose broken heart becomes vess
 
 ---
 
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 Heartbreak signals that **emotional crisis is active**—vulnerability has been betrayed, trust has been broken, the heart is in devastation. This card acknowledges: the pain is real, the wound is valid, the grief is profound. The question is: **will you let this breaking deepen or harden you? Will you protect your heart while allowing it to heal, or will you close it forever?**
 

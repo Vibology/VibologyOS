@@ -21,8 +21,7 @@ aspect: positive
 
 ---
 
-## Card Symbolism & Meaning
-
+## Core Domain
 Vision represents the **gift of creative perception that sees possibilities before they manifest**—the soul's capacity to envision what has not yet been, to perceive the unique contribution that only you can make, to orient mastery toward individual expression rather than mere competence. This is not vision as fantasy or escapism but vision as **creative direction**, the guiding star that orients the long journey of skill development.
 
 In The Window system, Vision is the archetype of **individual creative force channeled toward achievement**. This is the artist who sees the sculpture within the stone, the entrepreneur who perceives the business that doesn't yet exist, the leader who envisions the organization's potential. When Vision appears, it signals that mastery requires more than technique—it requires the creative direction that makes your achievement uniquely yours.
@@ -86,8 +85,7 @@ In sacred traditions, this is the artist who becomes transparent to beauty rathe
 
 ---
 
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 Vision signals that **creative direction is available to guide your mastery**. You are being called to clarify what you specifically are here to contribute, to orient your skill development toward unique expression rather than generic competence. This is not a time for scattered accumulation of abilities; it is a time to identify the vision that makes your mastery meaningful. The card affirms: you have creative direction to offer. Will you follow it?
 

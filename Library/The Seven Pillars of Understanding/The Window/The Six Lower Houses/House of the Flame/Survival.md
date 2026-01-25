@@ -21,8 +21,7 @@ aspect: positive
 
 ---
 
-## Card Symbolism & Meaning
-
+## Core Domain
 Survival represents the gift of **accumulated wisdom applied to sustaining vitality**—the soul's capacity to remember what has worked, what has proven valuable, and to use that memory strategically to ensure life continues. This is not survival as desperate scrabbling but survival as **refined intelligence**—the Egoist's memory serving the tribe's continuity rather than personal aggrandizement.
 
 In The Window system, Survival is the archetype of strategic resourcefulness built from historical knowledge. This is the elder whose memory of past crises informs present response, the merchant whose knowledge of value preserves resources through scarcity, the storyteller whose recollection of what mattered transmits wisdom across generations. Survival understands that **memory is fuel for continuation**—that knowing what has worked allows fire to burn efficiently rather than consuming everything at once.
@@ -86,8 +85,7 @@ In sacred traditions, this is the humble master whose wisdom sustains generation
 
 ---
 
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 Survival signals that **memory and strategy will sustain you through this passage**. You are being called to remember what has worked, to apply historical wisdom, to use accumulated knowledge in service to vitality. This is not a time for untested experiments or prideful reinvention; it is a time for **artful application of proven methods**. The question is: **what wisdom do you already possess that this situation requires? What has history taught you about sustaining fire?**
 

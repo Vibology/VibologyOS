@@ -21,8 +21,7 @@ aspect: positive
 
 ---
 
-## Card Symbolism & Meaning
-
+## Core Domain
 Service represents the **gift of consciousness that organizes understanding through humble observation**—the soul's capacity to follow before leading, to serve collective patterns long enough to understand them, to develop far-sighted comprehension through sustained attention rather than premature opinion. This is not service as self-sacrifice but service as **the wisdom that genuine authority emerges from first understanding what one serves**.
 
 In The Window system, Service is the archetype of **organized consciousness built through patient observation**. This is the mentor who teaches from experience rather than theory, the consultant who understands the system before advising, the wise soul whose guidance carries weight because it emerges from deep familiarity with what is. When Service appears, it signals soul health manifesting as **far-sighted understanding**—seeing where patterns lead because you've served them long enough to know.
@@ -86,8 +85,7 @@ In sacred traditions, this is the realized being whose service has become so com
 
 ---
 
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 Service signals that **consciousness must serve before guiding**. You are being called to follow patterns before organizing them, to observe before opining, to earn understanding through experience rather than assuming it through intelligence. This is not a time for premature authority; it is a time for **humble service to what you seek to understand**. The card affirms: far-sightedness emerges from service. Follow before you lead.
 

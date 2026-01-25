@@ -21,8 +21,7 @@ aspect: negative
 
 ---
 
-## Card Symbolism & Meaning
-
+## Core Domain
 Stagnation represents the **shadow of mastery paralyzed by excessive discrimination**—the soul's capacity for discernment corrupted into vanity that prevents action, excellence degraded into paralysis through over-refinement. This is not the wise pause of genuine discernment but the frozen state of the perfectionist who cannot act because **nothing is ever good enough**.
 
 In The Window system, Stagnation is the archetype of **perfectionist paralysis**. This is the writer who never finishes because no draft meets their standards, the entrepreneur who never launches because the conditions aren't perfect, the artist who never shows their work because it might be criticized. When Stagnation appears, it signals that the pursuit of excellence has collapsed into the prevention of action—that discrimination has become the enemy of creation.
@@ -86,8 +85,7 @@ In sacred traditions, this is the teaching that the purest offering is the one g
 
 ---
 
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 Stagnation signals that **perfectionism has paralyzed action**. You are being shown a place where discrimination has become excessive, where standards have become imprisonment, where the pursuit of excellence has stopped actually pursuing. This is a wake-up call: the refinement you're engaged in may be avoidance disguised as quality control. The card asks: are you perfecting your work or preventing its completion?
 

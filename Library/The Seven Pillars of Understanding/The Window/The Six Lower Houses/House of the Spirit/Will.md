@@ -21,8 +21,7 @@ aspect: positive
 
 ---
 
-## Card Symbolism & Meaning
-
+## Core Domain
 Will represents the **gift of consciousness that knows its role in guiding the collective**—the soul's capacity to step into leadership not from ego but from recognition of sacred responsibility, to organize society through virtuous awareness of one's place in divine order. This is not will as personal desire or domination but will as **the soul's understanding of its function**, the inner divinity that guides because it has recognized its role.
 
 In The Window system, Will is the archetype of **guiding consciousness built through role recognition**. This is the leader whose authority comes from understanding their function rather than from desire for power, the guide whose direction emerges from virtue rather than ambition, the soul who leads because leading is their role—not because leading feeds their ego. When Will appears, it signals soul health manifesting as **virtuous leadership**.
@@ -86,8 +85,7 @@ In sacred traditions, this is the realized leader whose will has merged with cos
 
 ---
 
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 Will signals that **consciousness must accept its guiding role**. You are being called to step into leadership not from ego but from recognition of sacred function, to guide through virtue rather than ambition. This is not a time for shrinking from responsibility or grabbing for power; it is a time for **accepting your role in divine order**. The card affirms: your soul knows its function. Guide virtuously.
 

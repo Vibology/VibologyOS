@@ -18,8 +18,7 @@ aspect: positive
 
 ---
 
-## Card Symbolism & Meaning
-
+## Core Domain
 Hope represents the gift of **sustained emotional commitment to the narrative despite recognizing fate's constraints**—the soul's capacity to cling to experience with lightness rather than desperation, to desire the story's continuation even knowing freedom is illusion. This is not naive optimism that denies limitation but hope as **earned grace**—the willingness to invest emotionally in meaning precisely because such investment makes life beautiful.
 
 In The Window system, Hope is the archetype of emotional fuel for the metanarrative. This is the fire that illuminates the story, the desire that keeps us engaged with meaning despite knowing we are bound by fate. Hope understands that **clinging itself creates beauty**—not despite being bound but through conscious acceptance of bondage. The person who hopes with lightness has stopped fighting fate and started dancing with it.
@@ -83,8 +82,7 @@ In sacred traditions, this is the devotee who loves God without expectation of r
 
 ---
 
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 Hope signals that **your emotional investment sustains the narrative**. You are being called to cling with lightness, to desire with grace, to fuel the story with committed engagement while accepting that you are not free to choose your desires—only how you carry them. The question is: **can you hope without demanding, desire without grasping, cling without being crushed?**
 

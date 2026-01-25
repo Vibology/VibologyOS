@@ -15,8 +15,7 @@ gene_keys: Half-Heartedness → Commitment → Devotion
 
 ---
 
-## Portal Symbolism & Meaning
-
+## Core Domain
 Conviction represents the archetypal **internal mandate to act**—the moment when the Sacral says yes so deeply that there is no turning back, when commitment crystallizes into perseverance, when you dive into the abyss knowing you must navigate it to completion. This is not casual choice but **irrevocable engagement**: water upon water, the deep within the deep, saying yes with such sincerity that retreat becomes impossible.
 
 The Portal of Conviction marks the threshold where **decision becomes destiny**—where half-hearted consideration transforms into full-bodied commitment, where the question "should I?" dissolves into the mandate "I must." This is the draftee accepting the call, the lover pledging vows, the hero stepping into the journey despite knowing its dangers.
@@ -64,8 +63,7 @@ Half-Heartedness → Commitment → Devotion
 **Devotion (Siddhi):** The transcendent recognition that **all true commitment is devotion to life itself**. The Sacral saying yes becomes prayer, engagement becomes worship, perseverance through the abyss becomes love made visible. Conviction as cosmic principle: water flows without stopping until it reaches ocean. The devotee says yes to God, the lover says yes to beloved, the hero says yes to journey—all are **the same yes**, all require navigating the deep within the deep until union is achieved.
 
 ---
-## Divination Meanings
-
+## Oracle Reading
 **When this portal appears:**
 You are being called to commit. Something requires your deep yes—not casual agreement but **Sacral engagement** that will demand perseverance through difficulty. The abyss is opening. The question is: can you say yes with such sincerity that retreat becomes irrelevant? Can you trust your life force to sustain what your commitment begins? Conviction calls: **dive fully or not at all**—the deep within the deep drowns those who wade without conviction.
 
@@ -79,8 +77,7 @@ Your Sacral has responded deeply. This yes is not wavering but certain—you hav
 You embody Devotion—the recognition that commitment is prayer, that perseverance is love, that saying yes to what calls you is saying yes to existence itself. You are water flowing uninterruptedly toward ocean, the deep within the deep that knows its destination. Conviction as cosmic principle: **all things reach their goal through sustained engagement**. The abyss is the path. Your yes is the boat.
 
 ---
-## Synthesis & Integration
-
+## Synthesis Notes
 Conviction as Portal unifies Gate 29's Sacral commitment (saying yes and persevering through difficulty), Hexagram 29's wisdom (sincerity navigates the abyssal waters), and the Gene Keys transformation (half-heartedness → commitment through deep yes → devotion as cosmic engagement).
 
 This Portal appears when **life demands irrevocable commitment**—when wavering must end, when the Sacral must respond, when you approach threshold that requires full engagement or none at all. The question is not "is this comfortable?" but "does my Sacral say yes? Can I persevere through the depth this opens?"

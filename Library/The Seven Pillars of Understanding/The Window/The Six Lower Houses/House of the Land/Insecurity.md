@@ -21,8 +21,7 @@ aspect: negative
 
 ---
 
-## Card Symbolism & Meaning
-
+## Core Domain
 Insecurity represents the **fear of inadequacy**—the persistent anxiety that foundation is not deep enough, that resources will run dry, that the well will prove too shallow to sustain what is being attempted. This is insecurity not as surface self-doubt but as **existential fear about structural adequacy**: the terror that when crisis comes, depth will prove insufficient.
 
 In The Window system, Insecurity is the archetype of **destabilized foundation within Land's domain**. This is not emotional insecurity (Sea) or identity crisis (Chronicle), but **material insecurity**: the fear that physical resources, embodied skills, practical competence are not enough. When Insecurity appears, it signals the collapse of trust in one's ground—the anxious question "What if I don't have what it takes?" repeated endlessly without resolution.
@@ -86,8 +85,7 @@ In sacred traditions, this is the sage who lives from the well without fear of d
 
 ---
 
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 Insecurity signals that **fear of inadequacy is active**—the anxiety that your foundation lacks sufficient depth to sustain what is being attempted. This card calls you to examine: Is this fear offering genuine discernment about over-extension, or is it shadow-frequency inadequacy creating false limitation? The question is: **have you actually measured your depth, or are you assuming insufficiency?**
 

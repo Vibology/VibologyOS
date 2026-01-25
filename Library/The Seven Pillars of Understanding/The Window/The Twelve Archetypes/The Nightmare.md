@@ -15,8 +15,7 @@ gene_keys: Provocation → Dynamism → Liberation
 *Freddy Krueger - The Gatekeeper of the Unconscious*
 
 ---
-## Card Symbolism & Meaning
-
+## Core Domain
 The Nightmare represents the archetypal **gatekeeper between worlds**—the provocative tester who guards the boundary between conscious and unconscious, waking and dreaming, safety and transformation. Embodied by Freddy Krueger, this archetype carries the dissolving waters of Pisces: the capacity to provoke through obstruction, to test readiness through confrontation, to guard the threshold that only the prepared may cross.
 
 The Nightmare is not enemy but **necessary obstruction**—the one who appears when you approach transformation, who provokes spirit through resistance, who asks: "Are you ready? Have you done the work? Can you face what waits on the other side?" Freddy in the dream world is the psyche's own defense mechanism: **if you haven't integrated your shadow, you cannot pass**.
@@ -74,8 +73,7 @@ Liberation represents the transcendent recognition that **all obstruction is ini
 In sacred traditions, Liberation corresponds to the recognition that there is no guardian to defeat—only readiness to demonstrate. At this frequency, Freddy as eternal principle: the provocateur who appears at every threshold, in every psyche, forever testing readiness. The threshold opens when you stop fighting obstruction and recognize it as teacher. Liberation is understanding: the test and the passage are one.
 
 ---
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 You are being called to **face the threshold guardian**. Something is blocking your path forward—not randomly but purposefully. You are being provoked, tested, obstructed because you are approaching transformation you're not yet ready for. Do not force through. Turn inward. Ask: "What am I being provoked to face? What readiness am I being asked to demonstrate?" The Guardian is awakening.
 
@@ -91,8 +89,7 @@ Your obstruction is purposeful catalyst. The provocation you face is precisely c
 You embody Liberation—the recognition that guardian and threshold are one, that obstruction is initiation, that every provocation is the psyche strengthening itself. You have transcended the question "how do I defeat the guardian?" because you know: **the guardian dissolves when readiness is demonstrated**. You are eternal threshold: the boundary between worlds that tests all who would cross, the provocation that serves liberation.
 
 ---
-## Synthesis & Integration
-
+## Synthesis Notes
 The Nightmare as archetype unifies Pisces water (boundary between conscious/unconscious, collective dreamscape, dissolution of ego barriers), Freddy Krueger mythology (dream stalker who tests through provocation, gatekeeper who guards unconscious territory), Gate 39's Root provocation (obstruction that tests spirit, pressure that creates readiness), and Hexagram 39's teaching (water on mountain, turn inward when path is blocked, obstruction as teacher of character).
 
 This card appears when **transformation requires testing**, when you approach threshold you're not yet ready to cross, when obstruction is purposeful catalyst rather than random resistance. The question is not "how do I force through?" but "what readiness is required? What am I being provoked to integrate?"

@@ -15,8 +15,7 @@ gene_keys: Deafness → Insight → Epiphany
 *Prince - The Integrated Totality*
 
 ---
-## Card Symbolism & Meaning
-
+## Core Domain
 The Alchemist represents the archetypal **individuated wholeness**—the transcendent unification of all internal dualities (gender, race, spirit, matter) into unique, complete totality of being. Embodied by Prince, this archetype carries the revolutionary air of Aquarius: the capacity to break through conventional categories, to mutate consciousness through insight that has never existed before, to become fully oneself by refusing all limiting definitions.
 
 The Alchemist is not ego or persona but **Jung's ultimate realization**—the one who has integrated anima and animus, shadow and light, individual and collective, into unified expression so unique it becomes universal. Prince is not man or woman, Black or white, sacred or profane—he is **totality**, the breakthrough that restructures what it means to be human.
@@ -74,8 +73,7 @@ Epiphany represents the transcendent recognition that **all categories dissolve 
 In sacred traditions, Epiphany corresponds to enlightenment—the moment when the seeking self recognizes it was always the sought. At this frequency, The Alchemist is not achievement but recognition: what you have been becoming is what you always were. The lake has poured into heaven and heaven has poured into lake—**breakthrough is dissolution of all boundaries into unified being**.
 
 ---
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 You are being called to **breakthrough into totality**. Something wants to emerge that has never existed before—an insight, an identity, an expression that transcends conventional categories. This is not the time for conformity or incremental change. Trust inner knowing. Mutate. Become what has never been. The Alchemist is individuating through you.
 
@@ -91,8 +89,7 @@ Your insight mutates consciousness. You hear what others cannot hear, know what 
 You embody Epiphany—the recognition that The Self is not personal achievement but cosmic principle. You have transcended the question "who am I?" because you know: **I am totality expressing uniquely through this form**. You are eternal breakthrough: consciousness recognizing itself as infinite creativity refusing all limitation. At this frequency, becoming and being are one; individuation reveals what was always present.
 
 ---
-## Synthesis & Integration
-
+## Synthesis Notes
 The Alchemist as archetype unifies Aquarius air (revolutionary breakthrough, unique mutation, collective evolution through individual insight), Prince mythology (gender-transcendent, category-destroying, totality embodied), Gate 43's Ajna breakthrough (inner knowing that restructures consciousness), and Hexagram 43's teaching (accumulated pressure bursting through to proclaim truth that challenges authority).
 
 This card appears when **individuation demands mutation**, when the old categories no longer contain what you're becoming, when insight is breaking through that requires courageous proclamation. The question is not "what role should I play?" but "what totality am I being called to embody?"

@@ -14,8 +14,7 @@ gene_keys: Victimisation → Freedom → Freedom
 *Abundance - Alignment Creating New Path*
 
 ---
-## Portal Symbolism & Meaning
-
+## Core Domain
 Convergence represents the archetypal **emotional abundance that creates destiny**—the moment when spirit determines reality, when the emotional wave crests at abundance and path becomes visible, when thunder above fire creates the peak of richness where energy and clarity align to generate new direction. This is not logical planning but **emotional knowing**: the recognition that abundance of spirit, not material resource, determines which paths open and which remain closed.
 
 The Portal of Convergence marks the threshold where **feeling becomes fate**—where emotional depth creates or destroys possibility, where the question "which way should I go?" is answered by "which way does my spirit see as abundant?" This is the poet whose emotional richness reveals vocation, the mystic whose depth of feeling illuminates path, the individual who converges on destiny through spirit rather than strategy.
@@ -63,8 +62,7 @@ Victimisation → Freedom → Freedom (doubled)
 **Freedom (Siddhi - Doubled):** The transcendent recognition that **freedom and abundance are identical**—that spirit liberated from victimhood experiences all states as fullness, that convergence on true path occurs when emotional depth is no longer dependent on wave position. The doubled Freedom reveals: **liberation is the abundance**, and abundance is the liberation. Convergence as cosmic principle: **spirit at its fullest sees infinite paths**; spirit liberated walks the one that serves mutation. Freedom is **emotional sovereignty** that makes destiny visible.
 
 ---
-## Divination Meanings
-
+## Oracle Reading
 **When this portal appears:**
 You are experiencing convergence. Multiple paths are becoming visible—or all paths are closing—based purely on **your emotional spirit's state**. This is not about external opportunity; it's about whether your spirit experiences abundance or emptiness. The question is: can you trust that your emotional depth will reveal the correct path? Can you wait for the high of the wave to see clearly rather than deciding from the low? Can you recognize that convergence follows spirit, not strategy? Convergence calls: **be like the sun at midday**—when spirit is abundant, the path illuminates itself.
 
@@ -78,8 +76,7 @@ Your spirit is revealing the path. At this moment, with emotional abundance pres
 You embody Freedom—the recognition that emotional sovereignty creates destiny, that spirit liberated from victimhood converges on paths that serve the highest mutation, that abundance and freedom are the same truth. You are thunder and lightning together, arousal meeting clarity, the sun at zenith that illuminates all directions simultaneously. Convergence as cosmic principle: **when spirit is full and free, the path is not chosen but revealed**. You walk where emotional depth indicates, trusting that spirit, not strategy, creates alignment with destiny.
 
 ---
-## Synthesis & Integration
-
+## Synthesis Notes
 Convergence as Portal unifies Gate 55's emotional spirit (abundance as question of depth, not circumstance), Hexagram 55's wisdom (fullness at peak creates clarity that permits direction), and the Gene Keys transformation (victimisation through emotional poverty → freedom through integrated spirit → doubled freedom as sovereignty that creates destiny).
 
 This Portal appears when **emotional state is determining which paths you can see**—when spirit rich with feeling reveals possibilities invisible to depleted mood, when convergence on destiny follows emotional abundance rather than logical planning, when the question is not "which path is correct?" but "what does my spirit, in its fullness, reveal as abundant?"

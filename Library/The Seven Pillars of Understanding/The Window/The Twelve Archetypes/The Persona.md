@@ -15,8 +15,7 @@ gene_keys: Expectation → Anticipation → Ecstasy
 *Ziggy Stardust - The Constructed Mask*
 
 ---
-## Card Symbolism & Meaning
-
+## Core Domain
 The Persona represents the archetypal **theatrical self**—the artificially constructed identity designed for performance, the mask worn to navigate the material world while shielding true essence. Embodied by Ziggy Stardust, this archetype carries the radiant creativity of Leo: the capacity to imagine an ideal self and then become it, to withdraw into fantasy and emerge as star.
 
 The Persona is not deception but **strategic construction**—the recognition that the authentic self is too raw, too vulnerable for public consumption. David Bowie creates Ziggy, performs him, lives through him, and eventually must kill him. The Persona is the character we imagine in the contraction, the role we play in the expansion.
@@ -74,8 +73,7 @@ Ecstasy represents the transcendent recognition that **all identity is performan
 In sacred traditions, Ecstasy corresponds to the recognition that consciousness itself is the ultimate performer—the divine playing all roles in the cosmic drama. At this frequency, The Persona is not limitation but liberation: life itself is the stage, identity is costume, ecstasy is the willingness to play without clinging.
 
 ---
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 You are being called to **construct the self the moment requires**. This is not the time for raw authenticity. Withdraw into imagination. Fantasize the ideal character for this stage. Then perform brilliantly. The Persona is not deception—it is strategic creation. Who do you need to become? The theatrical self is awakening.
 
@@ -91,8 +89,7 @@ Your imagination creates the self. You can withdraw into fantasy, design the ide
 You embody Ecstasy—the recognition that consciousness itself is the ultimate Persona, that the universe performs infinite identities for its own delight. You have transcended the question "which self is real?" because you know: **all are real, none are final, ecstasy is the play itself**. You are the cosmic performer who has realized that performing and being are not opposites but one movement.
 
 ---
-## Synthesis & Integration
-
+## Synthesis Notes
 The Persona as archetype unifies Leo fire (radiant performance, creative self-construction, solar identity), Ziggy Stardust mythology (theatrical identity consciously created and destroyed), Gate 41's Root pressure (withdrawal into fantasy before expansion into experience), and Hexagram 41's teaching (decrease to focus essence, simplify to strengthen).
 
 This card appears when **identity must be performed**, when authentic rawness is insufficient and strategic construction is required. The question is not "who am I really?" but "who serves this moment? What character does this stage demand?"

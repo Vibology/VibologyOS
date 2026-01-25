@@ -18,8 +18,7 @@ aspect: negative
 
 ---
 
-## Card Symbolism & Meaning
-
+## Core Domain
 Despair represents the shadow of **mental oppression that drains narrative of significance**—the metanarrative under such pressure to make sense that it exhausts into meaninglessness, the story that cannot find coherence and collapses into hopelessness. This is not temporary doubt or passing discouragement but despair as **fundamental collapse**—the mind's surrender when no framework can render the story meaningful.
 
 In The Window system, Despair is the archetype of narrative exhaustion built from mental pressure that finds no resolution. This is the philosopher who has contemplated until concepts mean nothing, the seeker who has searched until all paths seem futile, the sufferer who has endured until pain has erased all purpose. Despair understands that **meaning requires mental coherence**—and when coherence fails, meaning collapses.
@@ -83,8 +82,7 @@ In sacred traditions, this is the dark night of the soul that precedes illuminat
 
 ---
 
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 Despair signals that **mental pressure has exhausted meaning**. You are being confronted with narrative collapse—the possibility that no framework will make the story comprehensible. This is a serious warning: do not surrender to hopelessness, but do acknowledge that ordinary approaches have failed. The question is: **can you allow transmutation? Can you trust that oppression may precede breakthrough?**
 

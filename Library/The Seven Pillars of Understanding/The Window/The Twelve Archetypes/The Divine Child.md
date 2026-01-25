@@ -15,8 +15,7 @@ gene_keys: Weakness → Equality → Tenderness
 *E.T. - The Vulnerable Miracle*
 
 ---
-## Card Symbolism & Meaning
-
+## Core Domain
 The Divine Child represents the archetypal **innocence that heals**—the pure, vulnerable being whose very presence creates family, whose weakness evokes fierce protection, whose longing for home awakens the heart. Embodied by E.T., this archetype carries the watery emotional depth of Cancer: the capacity to create tribe through vulnerability, to bond through mutual need, to transform strangers into family.
 
 The Divine Child is not naive ignorance but **sacred innocence**—the one who arrives helpless yet miraculous, who needs everything yet gives everything, whose frailty becomes the very foundation of tribal bonding. E.T. is dying, lost, powerless—and yet his presence creates the family, the bargain: "I'll protect you if you help me phone home."
@@ -74,8 +73,7 @@ Tenderness represents the transcendent recognition that all tribal bonding is di
 In sacred traditions, Tenderness corresponds to the recognition that all beings are divine children—vulnerable, needing care, offering their unique gifts. At this frequency, the family expands to include all life; tenderness becomes the basic orientation to existence.
 
 ---
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 You are being called to **honor vulnerability as foundation for connection**. This is not the time for invulnerability or self-sufficiency. Your need creates the bargain that forms family. Allow yourself to be helpless. Allow others to care. The tribe emerges around the one who needs protection. The Divine Child is awakening—either in you or in your life.
 
@@ -91,8 +89,7 @@ Your frailty evokes tenderness. Your need creates the bargain that bonds tribe. 
 You embody Tenderness—the recognition that all connection is divine vulnerability met with sacred care. You are the cosmic child whose innocence reminds the universe of its own need for love. Your presence alone creates family because you reveal the truth: we are all fragile, we all need home, we all long to be protected and protect in turn. At this frequency, every encounter becomes family.
 
 ---
-## Synthesis & Integration
-
+## Synthesis Notes
 The Divine Child as archetype unifies Cancer water (emotional vulnerability, longing for belonging, home-seeking), E.T. mythology (alien innocence healing fractured family, the miracle that creates tribe), Gate 37's Solar Plexus bonding (friendship through reciprocal bargains), and Hexagram 37's teaching (family sustained through honored agreements, the perseverance of care).
 
 This card appears when **vulnerability must be honored**, when connection requires allowing need. The question is not "am I strong enough to survive alone?" but "can I trust that my frailty will evoke care? Can I offer wonder in exchange for protection?"

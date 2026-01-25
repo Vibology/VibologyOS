@@ -21,8 +21,7 @@ aspect: positive
 
 ---
 
-## Card Symbolism & Meaning
-
+## Core Domain
 Confidence represents the **trust in one's unique creative expression as valuable contribution to the collective**—the capacity to stand in one's individual style without apology, knowing that authentic being-ness serves the whole. This is confidence not as arrogance but as **grounded self-worth born from embodied creative truth**.
 
 In The Window system, Confidence is the archetype of **individual contribution within Land's domain**. This is not the confidence of achievement (Stars) or emotional certainty (Sea), but the confidence that emerges from knowing **"I am here, and my being here matters."** When Confidence appears, it signals the capacity to offer one's unique creative expression to group goals without sacrificing authenticity or seeking external validation.
@@ -86,8 +85,7 @@ In sacred traditions, this is the realized artisan whose every creation manifest
 
 ---
 
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 Confidence signals that **your unique creative contribution is needed and valuable**. You are being called to trust your individual style, to offer what is genuinely yours rather than what you believe the collective wants. This is not a time for imitation or performance; it is a time for **authentic creative expression grounded in your embodied truth**. The question is: **what can you contribute that could come from no one else? What is uniquely yours to offer?**
 

@@ -21,8 +21,7 @@ aspect: negative
 
 ---
 
-## Card Symbolism & Meaning
-
+## Core Domain
 Envy represents **desire turned poisonous through comparison**—the corrosive longing that looks at what another has and feels lack, that measures your emotional life against others' and finds it wanting, that allows comparison to destroy gratitude. This is envy not as momentary wish but as **chronic emotional toxicity**: the resentment that poisons connection, the comparison that corrupts contentment, the greed disguised as ambition.
 
 In The Window system, Envy is the archetype of **corrupted desire within Sea's domain**. This is what emerges when healthy longing (wanting connection, desiring intimacy) becomes **comparative lack**: you want what they have, resent what you lack, measure your emotional reality against external standards. When Envy appears, it signals that desire has become weapon against self and others.
@@ -86,8 +85,7 @@ In sacred traditions, this is the realized heart that loves all beings equally b
 
 ---
 
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 Envy signals that **comparison is poisoning emotional reality**—you are measuring your relational life against others' and finding it lacking, allowing what they have to diminish what you are. This card warns: comparison is the thief of joy, envy is the corruption of desire. The question is: **what do you actually long for beneath the comparison? What authentic aspiration hides behind the envious measurement?**
 

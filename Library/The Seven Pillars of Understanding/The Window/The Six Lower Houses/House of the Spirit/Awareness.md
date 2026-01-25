@@ -21,8 +21,7 @@ aspect: positive
 
 ---
 
-## Card Symbolism & Meaning
-
+## Core Domain
 Awareness represents the **gift of consciousness that transforms mental confusion into imaginative vision**—the soul's capacity to sustain the pressure of not-knowing until patterns reveal themselves, to allow awareness itself to become the bridge between chaos and illumination. This is not awareness as intellectual certainty but awareness as **patient receptivity**, the consciousness that trusts the mystery long enough for meaning to emerge.
 
 In The Window system, Awareness is the archetype of **lucid consciousness built through imaginative patience**. This is the meditator who sits with confusion until clarity dawns, the artist who trusts the creative process before the image forms, the seeker who allows questions to deepen rather than grasping for premature answers. When Awareness appears, it signals soul health manifesting as the capacity to remain present with uncertainty—**seeing clearly precisely because one is not forcing clarity**.
@@ -86,8 +85,7 @@ In sacred traditions, this is the enlightened consciousness that sees through al
 
 ---
 
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 Awareness signals that **consciousness can illuminate confusion through patient imagination**. You are being called to sustain not-knowing, to trust that vision emerges through presence rather than grasping, to allow your awareness to become receptive space for meaning to reveal itself. This is not a time for forced answers or anxious certainty; it is a time for **cultivated patience with mystery**. The card affirms: your consciousness creates space for revelation. Trust the process.
 

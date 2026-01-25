@@ -21,8 +21,7 @@ aspect: negative
 
 ---
 
-## Card Symbolism & Meaning
-
+## Core Domain
 Corruption represents **the degradation of values and the rot of foundation from within**—not sudden collapse but slow poison, not external threat but internal decay. This is the cauldron that was meant to nourish but has been neglected, contaminated, allowed to fester until what it offers is toxic rather than sustaining.
 
 In The Window system, Corruption is the archetype of **moral and structural decay within Land's domain**. This is not the corruption of political scandal or financial crime, but **the deeper corruption of foundation compromised**: values abandoned for convenience, integrity sacrificed for comfort, responsibility shirked until what was meant to preserve life becomes agent of destruction.
@@ -86,8 +85,7 @@ In sacred traditions, this is the master who sees that values must sometimes be 
 
 ---
 
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 Corruption signals that **values have been compromised and foundation has begun to rot**. This card calls you to honest assessment: What have you abandoned for convenience? What principles have you sacrificed for comfort? Where has the vessel you were meant to maintain become contaminated? The question is: **what decay have you allowed to accumulate through inattention? What custodial responsibility have you abandoned?**
 

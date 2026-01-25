@@ -14,8 +14,7 @@ gene_keys: Complexity → Simplicity → Quintessence
 *Splitting Apart - The Shock of New Consciousness*
 
 ---
-## Portal Symbolism & Meaning
-
+## Core Domain
 Awakening represents the archetypal **shattering of old understanding**—the moment when accumulated complexity splits apart, when the mountain crumbles to reveal bedrock truth, when assimilated insight suddenly demands to be spoken despite knowing it will fracture consensus. This is not gentle illumination but **violent knowing**: the voice that has waited for full assimilation finally breaking through, the truth that splits worlds.
 
 The Portal of Awakening marks the threshold where **silence becomes speech**—where individual knowing can no longer remain private, where understanding has fermented long enough that expression becomes inevitable. This is the mutant speaking what they know, the freak articulating what they see, the individual voice that says "I know" without apology or permission.
@@ -63,8 +62,7 @@ Complexity → Simplicity → Quintessence
 **Quintessence (Siddhi):** The transcendent recognition that **all awakening reveals the same essential truth**. Every individual knowing, every mutative insight, every consciousness-shattering moment ultimately points to the **quintessence**—the fifth element beyond earth, water, fire, air. Awakening as cosmic principle: complexity splits apart to reveal the irreducible essence at the heart of all being. Quintessence is **truth so simple it cannot be simplified further**.
 
 ---
-## Divination Meanings
-
+## Oracle Reading
 **When this portal appears:**
 You are experiencing awakening. Something you have been assimilating—insight, truth, understanding—has reached **critical mass**. Complexity is splitting apart. What remains is simple, clear, and demands to be spoken. The question is: can you articulate what you know, even if it fractures consensus? Can you trust that your individual voice, however mutative, carries truth worth expressing? Awakening calls: **speak your knowing**—the old world must split apart so new understanding can emerge.
 
@@ -78,8 +76,7 @@ Your knowing has been fully assimilated. What you see is **simple, clear, undeni
 You embody Quintessence—the recognition that all complexity distills to irreducible essence, that all individual knowing reveals the same fundamental truth. You are the mountain crumbling to bedrock, the surface peeling to reveal core, the voice that articulates what cannot be simplified further. Awakening as cosmic principle: **the many become one, the complex becomes simple, and simple truth shatters worlds**.
 
 ---
-## Synthesis & Integration
-
+## Synthesis Notes
 Awakening as Portal unifies Gate 23's metabolic knowing (assimilation and expression of individual insight), Hexagram 23's wisdom (complexity must split apart for simplicity to emerge), and the Gene Keys transformation (lost in complexity → clarity through simplicity → quintessence as irreducible truth).
 
 This Portal appears when **consciousness can no longer be contained**—when knowing demands expression, when assimilation is complete and the voice must speak, when old understanding must fracture to make space for new truth. The question is not "should I speak?" but "can I trust that what I've assimilated is real? Can I allow my knowing to split apart consensus?"

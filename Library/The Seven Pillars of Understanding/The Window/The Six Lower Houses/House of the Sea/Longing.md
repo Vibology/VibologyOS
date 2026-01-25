@@ -21,8 +21,7 @@ aspect: positive
 
 ---
 
-## Card Symbolism & Meaning
-
+## Core Domain
 Longing represents **desire that deepens rather than depletes**—the yearning that opens the heart, the reaching toward connection that creates intimacy, the recognition of need that makes relationship possible. This is longing not as lack but as **sacred hunger**: the ache that reminds you that you are alive, relational, not self-sufficient.
 
 In The Window system, Longing is the archetype of **emotional need within Sea's domain**. This is not codependent grasping but **mature desire**: acknowledging that you need others, that connection matters, that the heart hungers for encounter. When Longing appears, it signals the gift of **vulnerability through desire**—allowing yourself to want and be wanted.
@@ -86,8 +85,7 @@ In sacred traditions, this is divine yearning—God longing for creation, creati
 
 ---
 
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 Longing signals that **desire for connection is arising**—the hunger for intimacy, the need to be seen, the yearning to matter. You are being called to honor this longing rather than defend against it, to allow yourself to want rather than pretend self-sufficiency. This is a time for **vulnerability through desire**. The question is: **can you express your longing honestly? Can you approach with desire while remaining whole?**
 

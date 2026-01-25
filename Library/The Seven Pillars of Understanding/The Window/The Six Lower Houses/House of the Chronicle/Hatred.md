@@ -18,8 +18,7 @@ aspect: negative
 
 ---
 
-## Card Symbolism & Meaning
-
+## Core Domain
 Hatred represents the shadow of **intolerance that poisons the narrative**—the metanarrative that condemns rather than understands, that cannot forgive human folly and hardens into toxic judgment. This is not righteous anger or justified boundaries but hatred as **weaponized certainty**—the mind's refusal to accept that ignorance is part of the human condition, transformed into contempt for those who do not know.
 
 In The Window system, Hatred is the archetype of poisoned narrative built from intolerance of human limitation. This is the expert who despises beginners, the teacher who condemns students' confusion, the elder who judges the young for not knowing what only time can teach. Hatred understands that **narrative requires compassion for folly**—and when compassion fails, the story becomes toxic.
@@ -83,8 +82,7 @@ In sacred traditions, this is the enlightened teacher who sees no one as truly i
 
 ---
 
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 Hatred signals that **intolerance has poisoned the narrative**. You are being warned against contempt for human folly, against weaponizing your frameworks against those who do not know, against the toxic certainty that condemns rather than teaches. The question is: **what ignorance are you refusing to forgive? Whose limitation have you judged unacceptable? Where has your understanding become intolerance?**
 

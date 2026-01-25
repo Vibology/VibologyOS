@@ -17,8 +17,7 @@ aspect: negative
 *The Paralysis of Narrative Frozen by Chronic Stress*
 
 ---
-## Card Symbolism & Meaning
-
+## Core Domain
 Bitterness represents the shadow of **narrative hardened by inability to move forward**—the metanarrative trapped in stillness that has become rigidity, the story that cannot evolve because stress has calcified into resentment. This is not temporary frustration or passing anger but bitterness as **chronic poisoning**—the slow acidification of meaning through unresolved pressure that has nowhere to go.
 
 In The Window system, Bitterness is the archetype of frozen narrative built from unprocessed stress. This is the employee who stayed too long in a toxic job, the spouse who endured too much without resolution, the artist who compromised too often without acknowledgment. Bitterness understands that **narrative requires movement**—and when movement is blocked by chronic stress, the story curdles into resentment.
@@ -78,8 +77,7 @@ At the transcendent level, the antidote to Bitterness is **Stillness**—the sac
 In sacred traditions, this is meditation as liberation rather than escape—the capacity to stop completely without losing capacity to move. Stillness recognizes that true peace is not dependent on circumstances changing but on relationship to circumstances transforming. The still person is not stuck but centered; not bitter but clear; not paralyzed but poised.
 
 ---
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 Bitterness signals that **chronic stress has frozen the narrative**. You are being warned against resentment that prevents evolution, against calcification disguised as patience, against the slow poisoning of meaning through unresolved pressure. The question is: **what stress remains unprocessed? What resentment has accumulated without release? Where has your stillness become stuckness?**
 

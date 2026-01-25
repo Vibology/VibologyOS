@@ -21,8 +21,7 @@ aspect: positive
 
 ---
 
-## Card Symbolism & Meaning
-
+## Core Domain
 Excellence represents the **gift of material mastery achieved through developed competence**—the soul's capacity to work skillfully with resources, to transform potential into actualized achievement, to become genuinely excellent at what one does through sustained practice and honest self-development. This is not excellence as perfectionism or external validation but excellence as **the natural expression of competence cultivated over time**.
 
 In The Window system, Excellence is the archetype of **material empowerment through skill**. This is the master craftsperson whose work speaks for itself, the entrepreneur who builds sustainable abundance, the professional whose competence earns respect not through boasting but through demonstrated capability. When Excellence appears, it signals that mastery is available through honest engagement with the work itself—that power comes from being genuinely good at what you do.
@@ -86,8 +85,7 @@ In sacred traditions, this is the realized being who possesses everything by nee
 
 ---
 
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 Excellence signals that **material mastery is available through developed competence**. You are being called to take your skills seriously, to invest in genuine excellence rather than settling for adequacy. This is not a time for false humility or comfortable mediocrity; it is a time to pursue mastery with dignity. The card affirms: you have the capacity for genuine excellence. Will you develop it?
 

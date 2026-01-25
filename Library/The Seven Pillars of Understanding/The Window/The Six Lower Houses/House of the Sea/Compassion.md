@@ -21,8 +21,7 @@ aspect: positive
 
 ---
 
-## Card Symbolism & Meaning
-
+## Core Domain
 Compassion represents **empathic witness to another's emotional reality**—the capacity to hold space for suffering and joy without needing to fix, judge, or merge. This is compassion not as pity but as **profound presence**: feeling into another's experience while maintaining your own ground, listening to pain without being overwhelmed by it.
 
 In The Window system, Compassion is the archetype of **relational emotional depth within Sea's domain**. This is the gift of **listening that heals through being witnessed**, the capacity to say "I hear you, I feel with you" without collapsing into codependence or retreating into detachment. When Compassion appears, it signals the maturation of empathy—feeling for others without losing yourself.
@@ -86,8 +85,7 @@ In sacred traditions, this is the bodhisattva who weeps for all beings because a
 
 ---
 
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 Compassion signals that **empathic presence is needed**—yours to offer or yours to receive. You are being called to witness emotional truth without judgment, to hold space for feeling without needing to control it. This is a time for **deep listening**: to yourself, to another, to the emotional undercurrents seeking expression. The question is: **can you feel with without becoming? Can you witness without needing to fix?**
 

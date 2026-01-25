@@ -21,8 +21,7 @@ aspect: positive
 
 ---
 
-## Card Symbolism & Meaning
-
+## Core Domain
 Joy represents the **aliveness that emerges from feeling deeply**—not shallow happiness or emotional bypassing, but the vitality that comes from engaging the full spectrum of emotional reality. This is joy as **capacity to be moved**, to allow feeling to flow through you, to remain open to life's affective impact.
 
 In The Window system, Joy is the archetype of **emotional vitality within Sea's domain**. This is not the happiness of having what you want but the **aliveness of feeling what is**: grief that cracks open the heart, delight that spills over in laughter, the charged intensity of being emotionally present. When Joy appears, it signals the capacity to engage feeling without numbness, to dive into emotional depth without drowning.
@@ -86,8 +85,7 @@ In sacred traditions, this is the realized being who weeps and laughs with equal
 
 ---
 
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 Joy signals that **emotional vitality is available through full engagement with feeling**. You are being called to say yes to being moved, to allow emotional reality to impact you without defense. This is not a time for emotional control or stoicism; it is a time for **diving into feeling**. The question is: **what are you numbing that wants to be felt? What emotional reality are you defending against that would bring aliveness if engaged?**
 

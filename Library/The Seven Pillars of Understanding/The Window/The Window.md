@@ -125,8 +125,7 @@ Each card in The Window integrates multiple esoteric systems:
 - **Jungian Psychology** - Archetypes directly correlate to Jung's framework
 
 ---
-## Divination Use
-
+## Oracle Reading
 The Window functions as **oracle system** for:
 
 **Personal Guidance:**

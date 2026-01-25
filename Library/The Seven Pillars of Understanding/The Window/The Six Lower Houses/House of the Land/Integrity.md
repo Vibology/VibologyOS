@@ -21,8 +21,7 @@ aspect: positive
 
 ---
 
-## Card Symbolism & Meaning
-
+## Core Domain
 Integrity represents the **capacity to recognize what is corrupt, spoiled, or misaligned and work persistently toward restoration**—not through harsh judgment but through dedication to wholeness. This is integrity as **structural soundness**: the building that stands because every beam is true, the body that thrives because every system functions properly, the foundation that endures because decay is addressed before collapse.
 
 In The Window system, Integrity is the archetype of **correction within Land's domain**. This is not moral righteousness or ideological purity, but the practical discernment that asks: **"What needs fixing here? What has been neglected? Where has decay begun?"** When Integrity appears, it signals the capacity to identify imperfection instinctually and work toward pattern restoration with determination.
@@ -86,8 +85,7 @@ In sacred traditions, this is the realized teacher who sees that even corruption
 
 ---
 
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 Integrity signals that **something requires correction or restoration**. You are being called to identify what has been neglected, what has begun to decay, what foundation has weakened. This is not a time for denial or spiritual bypassing; it is a time for **honest assessment and dedicated repair**. The question is: **what needs fixing that you have been avoiding? Where has decay begun that requires attention?**
 

@@ -21,8 +21,7 @@ aspect: negative
 
 ---
 
-## Card Symbolism & Meaning
-
+## Core Domain
 Aggression represents the shadow of **impatient force disrupting natural timing**—the soul's capacity for vitality to become violent when rhythm is broken, when the instinct to act overrides the wisdom to wait. This is not aggression as justified force but aggression as **compulsive violation of cycles**—the fire that consumes because it cannot tolerate the patience required for sustainable burning.
 
 In The Window system, Aggression is the archetype of disrupted rhythm built from impatience that has become chronic. This is the executive who pushes through exhaustion until collapse, the athlete who forces performance beyond the body's recovery capacity, the lover who demands response when the partner needs space. Aggression understands that **vitality has seasons**—and refuses to honor them, breaking cycles because waiting feels intolerable.
@@ -86,8 +85,7 @@ In sacred traditions, this is the sage whose action arises from timeless presenc
 
 ---
 
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 Aggression signals that **your vitality has lost rhythm**. You are being warned against impatient force, compulsive action, disrupting natural timing because you cannot tolerate waiting. The question is: **what cycles are you violating? What rhythms are you breaking because patience feels impossible?**
 

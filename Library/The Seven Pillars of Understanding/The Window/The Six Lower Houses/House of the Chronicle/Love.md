@@ -21,8 +21,7 @@ aspect: positive
 
 ---
 
-## Card Symbolism & Meaning
-
+## Core Domain
 Love represents the gift of **inclusive compassion through embodied understanding of extremes**—the soul's capacity to embrace all patterns within the narrative without judgment, to love humanity by living the full spectrum of human behavior, to hold the story with such breadth that nothing human is excluded. This is not abstract idealism or performative kindness but love as **earned wisdom**—the magnetic result of having been everywhere, done everything, understood the full range of what it means to be human.
 
 In The Window system, Love is the archetype of compassionate inclusion built from experiential depth. This is the elder who has lived enough to judge no one, the artist who has explored enough darkness to portray it with tenderness, the healer who has suffered enough to hold others' pain without flinching. Love understands that **breadth creates compassion**—the person who has experienced extremes cannot condemn them in others.
@@ -86,8 +85,7 @@ In sacred traditions, this is the divine garden where all flowers bloom—not de
 
 ---
 
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 Love signals that **the narrative requires inclusive embrace of all patterns**. You are being called to expand your compassion, to include characters you have judged, to recognize that the story is impoverished when any pattern is excluded. The question is: **what are you excluding from love? What patterns do you condemn in others that you have not acknowledged in yourself?**
 

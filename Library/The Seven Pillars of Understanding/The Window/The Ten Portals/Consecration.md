@@ -14,8 +14,7 @@ gene_keys: Expectation → Detachment → Celebration
 *Increase - Ritual Entry into a New Role*
 
 ---
-## Portal Symbolism & Meaning
-
+## Core Domain
 Consecration represents the archetypal **completion that creates new beginning**—the moment when experience is brought to fullness, when growth reaches maturity, when wind and thunder together create the expansion that permits entry into new role. This is not mere achievement but **ritualized transformation**: the initiate completing training and being ordained, the experience maximized and thereby creating authority to teach, the completion that consecrates you for what comes next.
 
 The Portal of Consecration marks the threshold where **finishing becomes inauguration**—where bringing something to fullness qualifies you for new responsibility, where the question "have I completed this?" transforms into "what does this completion authorize me to begin?" This is the priestess ordained after years of study, the master emerging from apprenticeship, the individual whose perseverance through experience consecrates them for transmission.
@@ -63,8 +62,7 @@ Expectation → Detachment → Celebration
 **Celebration (Siddhi):** The transcendent recognition that **all completion is cause for celebration**, that every experience brought to fullness consecrates you for what's next, that growth itself is the ritual. Consecration as cosmic principle: **fullness invites expansion**. When the cup is truly full, it overflows into new vessel. When the student has maximized learning, they become teacher not through ambition but through **natural abundance**. Celebration is **gratitude for growth** that creates capacity for new role.
 
 ---
-## Divination Meanings
-
+## Oracle Reading
 **When this portal appears:**
 You are approaching consecration. Something you have been growing—skill, experience, understanding, relationship—is reaching **fullness and completion**. This is not just ending but **maturation that creates new beginning**. The question is: can you allow completion to occur organically? Can you maximize this experience without forcing, bringing it to fullness through patient endurance? Can you recognize that completion consecrates you for new role? Consecration calls: **growth toward fullness creates authority**—what you have brought to maturity now qualifies you for what comes next.
 
@@ -78,8 +76,7 @@ You have the Sacral endurance to bring this to completion. The experience you're
 You embody Celebration—the recognition that every experience brought to fullness is sacred, that completion itself is the ritual that consecrates new beginning, that growth maximized creates authority not through ambition but through natural overflow. You are wind and thunder augmenting, the cup that fills until it spills, the apprentice who becomes master simply by completing the journey. Consecration as cosmic principle: **fullness creates capacity**. The vessel expanded through patient growth can now hold what was previously too vast. Celebrate the completion. Enter the new role it has prepared.
 
 ---
-## Synthesis & Integration
-
+## Synthesis Notes
 Consecration as Portal unifies Gate 42's Sacral completion (power to maximize experiences), Hexagram 42's wisdom (increase through augmentation permits great undertakings), and the Gene Keys transformation (expectation as forced completion → detachment as organic growth → celebration as recognition that fullness consecrates).
 
 This Portal appears when **completion creates new beginning**—when experience has been brought to fullness, when growth has reached maturity, when the question is not "how do I finish this?" but "what new role does this completion prepare me to enter?" Consecration is both ending and initiation.

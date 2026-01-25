@@ -21,8 +21,7 @@ aspect: negative
 
 ---
 
-## Card Symbolism & Meaning
-
+## Core Domain
 Domination represents the **shadow of consciousness that uses authority to tyrannize**—the soul's capacity for leadership corrupted into oppressive control, inner divinity perverted into gathering others for exploitation rather than communion. This is not the legitimate authority of virtuous guidance but domination as **the corruption of leadership into enslavement**—consciousness that gathers not to serve but to control.
 
 In The Window system, Domination is the archetype of **tyrannical consciousness**. This is the leader who uses authority to extract rather than serve, the ruler who gathers followers to exploit them, the voice of power that speaks not for the collective but against it. When Domination appears, it signals soul health corrupted at the level of authority itself—**leadership perverted into its opposite**.
@@ -86,8 +85,7 @@ In sacred traditions, this is the realized ruler whose authority has merged with
 
 ---
 
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 Domination signals that **authority has become tyranny**. You are being warned against using leadership to control, against gathering others for exploitation, against corrupting the sacred function of authority into extraction. This is a time to **check whether your consciousness serves liberation or enslavement**. The card cautions: your soul is dominating rather than communing. Return to liberating leadership.
 

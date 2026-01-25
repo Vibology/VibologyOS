@@ -21,8 +21,7 @@ aspect: positive
 
 ---
 
-## Card Symbolism & Meaning
-
+## Core Domain
 Ambition represents the **dedication to mastery through repetitive practice**—not the ambition of status-seeking or ego-driven achievement, but the quiet determination to refine skill until it becomes second nature. This is ambition as **devotion to craft**: the musician who practices scales for hours, the athlete who trains the same movement until muscle learns, the artisan who repeats technique until hand and tool become one.
 
 In The Window system, Ambition is the archetype of **skillful striving within Land's domain**. This is not abstract aspiration or strategic career-building, but **embodied mastery earned through persistent physical practice**. When Ambition appears, it signals the capacity to channel energy into repetitive action with enthusiasm, trusting that excellence emerges from dedication rather than talent.
@@ -86,8 +85,7 @@ In sacred traditions, this is the realized craftsperson whose work is indistingu
 
 ---
 
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 Ambition signals that **mastery is available through dedicated practice**. You are being called to commit to repetition, to trust that excellence emerges not from talent but from persistent physical practice. This is not a time for shortcuts or intellectual understanding; it is a time for **embodied dedication to craft**. The question is: **what skill requires your devoted practice? What mastery awaits your committed repetition?**
 

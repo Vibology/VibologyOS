@@ -18,8 +18,7 @@ aspect: positive
 
 ---
 
-## Card Symbolism & Meaning
-
+## Core Domain
 Faith represents the gift of **trust in continuity despite the fear of failure**—the soul's capacity to believe that what matters will endure, that the narrative can continue across generations, that preservation serves meaning rather than mere survival. This is not blind faith or naive optimism but faith as **earned trust**—the willingness to invest in what may fail precisely because what endures is worth the risk of loss.
 
 In The Window system, Faith is the archetype of enduring commitment built from survival wisdom. This is the grandmother who preserves recipes knowing most will be forgotten, the teacher who transmits knowledge knowing most students will abandon it, the artist who creates knowing most work will be lost to time. Faith understands that **preservation is an act of love**—not desperate clinging but conscious choice to carry forward what deserves to last.
@@ -83,8 +82,7 @@ In sacred traditions, this is the lineage holder who transmits not merely inform
 
 ---
 
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 Faith signals that **continuity is possible through committed investment**. You are being called to trust that what matters will endure—not through passive hope but through active preservation. This is not a time for abandoning values when they're tested, for rejecting traditions when they become difficult, or for concluding that nothing lasts simply because everything changes. The question is: **can you distinguish between what deserves your faith and what has served its purpose?**
 

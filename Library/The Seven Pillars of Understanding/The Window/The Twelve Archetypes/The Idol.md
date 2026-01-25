@@ -15,8 +15,7 @@ gene_keys: Arrogance → Leadership → Humility
 *Madonna - The Material Girl*
 
 ---
-## Card Symbolism & Meaning
-
+## Core Domain
 The Idol represents the archetypal **masculine spirit channeled through the feminine**—the assertive, driving, uncompromising force used to achieve mastery over the external world, to build empires through pattern recognition and strategic articulation. Embodied by Madonna, this archetype carries the ambitious earth of Capricorn: the capacity to lead through influence, to manifest authority through relentless reinvention, to climb the mountain by recognizing patterns others miss.
 
 The Idol is not borrowed power but **internalized masculine force**—the one who wields assertion as naturally as breath, who uses logic as weapon, who achieves total external authority through pattern mastery. Madonna doesn't ask permission; she articulates direction and the world aligns. "I lead" is not arrogance but recognition of earned influence.
@@ -77,8 +76,7 @@ In sacred traditions, Humility corresponds to the recognition that the leader do
 
 ---
 
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 You are being called to **lead through pattern recognition**. You see direction others miss; articulate it. Your influence is earned through demonstrated mastery, your leadership through receptivity to what's emerging paired with strategic assertion. This is not the time for false humility or waiting for permission. Recognize the pattern, manifest the direction, lead. The Idol is awakening.
 
@@ -95,8 +93,7 @@ You embody Humility—the recognition that leadership is service to pattern, tha
 
 ---
 
-## Synthesis & Integration
-
+## Synthesis Notes
 The Idol as archetype unifies Capricorn earth (strategic ambition, pattern mastery, mountain climbing through stages), Madonna mythology (relentless reinvention, earned authority, uncompromising assertion channeled through feminine form), Gate 31's Throat leadership (influence through articulated pattern recognition), and Hexagram 31's teaching (wooing through receptivity, leadership through invitation rather than command).
 
 This card appears when **leadership requires pattern recognition**, when influence must be earned rather than seized, when strategic assertion serves collective evolution. The question is not "should I lead?" but "what pattern am I recognizing that requires articulation?"

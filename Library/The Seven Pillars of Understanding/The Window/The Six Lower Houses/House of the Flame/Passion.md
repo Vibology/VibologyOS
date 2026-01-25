@@ -21,8 +21,7 @@ aspect: positive
 
 ---
 
-## Card Symbolism & Meaning
-
+## Core Domain
 Passion represents the gift of **spontaneous vitality born from innocence**—the soul's capacity to love life without agenda, to act from the spirit's unconditioned essence rather than from calculated desire. This is not passion as obsession or compulsive wanting but passion as **uncontrived aliveness**—the natural state of a being whose vitality has not been squeezed into acceptable channels.
 
 In The Window system, Passion is the archetype of innocent vitality built from the spirit's unconditional love of existence. This is the child who delights in being alive before learning to apologize for enthusiasm, the artist who creates from pure impulse before calculating market value, the lover who gives without counting what returns. Passion understands that **vitality is inherently innocent**—that life loves itself through us when we stop constricting that love.
@@ -86,8 +85,7 @@ In sacred traditions, this is the saint whose love requires no object because th
 
 ---
 
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 Passion signals that **your vitality is innocent and deserves expression**. You are being called to love existence without agenda, to allow the spirit's natural fire to burn freely, to stop constricting your aliveness into acceptable channels. The question is: **where are you holding back your natural passion? What conditioning tells you that innocent enthusiasm is inappropriate?**
 

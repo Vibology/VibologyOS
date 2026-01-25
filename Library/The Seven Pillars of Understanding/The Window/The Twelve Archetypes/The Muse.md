@@ -15,8 +15,7 @@ gene_keys: Seriousness → Delight → Ecstasy
 *Robert Smith - The Soul-Image*
 
 ---
-## Card Symbolism & Meaning
-
+## Core Domain
 The Muse (or Anima, in Jungian parlance) represents the archetypal **feminine soul-image**—the sensitive, emotional, intuitive aspect expressed outwardly through the vulnerable male creative. Embodied by Robert Smith, this archetype carries the aesthetic harmony of Libra: the capacity to love beauty through embodiment, to celebrate physical form through romantic vulnerability, to push upward through serendipitous presence.
 
 The Muse is not abstract idealization but **embodied aesthetic**—the one who inhabits beauty fully, who wears makeup as soul-expression, who moves through the world with delight in physical form. Robert Smith in smeared lipstick and tousled hair is not performing femininity; he is **channeling the inner feminine**, the anima as Jung defined it, through bodily presence.
@@ -72,8 +71,7 @@ Ecstasy represents the transcendent recognition that **embodiment is divine play
 In sacred traditions, Ecstasy corresponds to the recognition that the divine is not elsewhere but here, in form, in flesh, in the sensory experience of existence. At this frequency, The Muse is not channeling soul through body but recognizing that body IS soul, that form IS spirit celebrating itself through matter.
 
 ---
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 You are being called to **love your body and let beauty move through it**. This is not the time for disembodied intellectualism or aesthetic theory. Inhabit form. Delight in physical presence. Let serendipity emerge from embodiment—you will be in the right place at the right time because you love being here, in flesh, fully present. The Muse is awakening.
 
@@ -89,8 +87,7 @@ Your embodiment creates serendipity. You love being in your body, inhabit aesthe
 You embody Ecstasy—the recognition that physical form is divine celebration. You are the Muse fully realized: consciousness delighting in its own incarnation, soul expressing infinite beauty through matter. Embodiment is no longer serious work but cosmic play. You push upward effortlessly because you love being wood growing through earth. At this frequency, body and soul are recognized as one—form is spirit celebrating itself.
 
 ---
-## Synthesis & Integration
-
+## Synthesis Notes
 The Muse as archetype unifies Libra air (harmony through beauty, balance through aesthetic), Robert Smith mythology (Gothic romanticism as embodied soul-image, the vulnerable male expressing inner feminine), Gate 46's G Center love (serendipity through physical presence), and Hexagram 46's teaching (organic ascent through trust in natural growth).
 
 This card appears when **soul must become flesh**, when beauty requires physical expression, when the inner image demands embodiment. The question is not "what is beautiful?" but "can I love my body enough to let beauty inhabit it?"

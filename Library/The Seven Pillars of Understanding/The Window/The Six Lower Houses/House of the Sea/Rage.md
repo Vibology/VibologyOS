@@ -21,8 +21,7 @@ aspect: negative
 
 ---
 
-## Card Symbolism & Meaning
-
+## Core Domain
 Rage represents **emotional friction turned destructive**—the anger that erupts when boundaries are violated, when intimacy becomes suffocation, when conflict escalates beyond productive tension into annihilating fury. This is rage not as momentary irritation but as **volcanic emotional force**: the explosion that shatters relationship, the fury that forgets care, the wrath that destroys what it once cherished.
 
 In The Window system, Rage is the archetype of **destructive emotional conflict within Sea's domain**. This is what emerges when the healthy friction necessary for intimacy (opening and closing, approach and withdrawal) becomes **toxic polarization**: you against me, attack and defense, emotional warfare. When Rage appears, it signals that conflict has crossed from connective to corrosive.
@@ -86,8 +85,7 @@ In sacred traditions, this is the wrathful deity whose rage protects rather than
 
 ---
 
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 Rage signals that **emotional conflict has become destructive**—friction has escalated into warfare, anger has crossed into attack, boundaries are being violated or violently defended. This card warns: you are in danger of destroying what you claim to care about. The question is: **can you catch yourself before the words are said that cannot be unsaid? Can you remember what you're fighting for?**
 

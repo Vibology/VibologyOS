@@ -21,8 +21,7 @@ aspect: negative
 
 ---
 
-## Card Symbolism & Meaning
-
+## Core Domain
 Resignation represents the **shadow of mastery abandoned through premature surrender**—the soul's capacity for determination corrupted into inertia, the focused drive toward achievement collapsing into defeated acceptance that "it will never work." This is not the wise acceptance of genuine limitation but the tragic surrender that abandons pursuit before mastery is achieved.
 
 In The Window system, Resignation is the archetype of **defeated potential**. This is the talented person who stopped trying, the aspiring master who convinced themselves they weren't capable, the achiever who surrendered to difficulty before breaking through. When Resignation appears, it signals that determination has collapsed into inertia—that the soul is accepting defeat prematurely.
@@ -86,8 +85,7 @@ In sacred traditions, this is the realized being whose will is aligned with cosm
 
 ---
 
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 Resignation signals that **you are surrendering prematurely**. You are being shown a place where determination has collapsed into inertia, where focused pursuit has been abandoned, where defeat has been accepted before mastery was achieved. This is a wake-up call: the giving up you're experiencing (or contemplating) may be premature. The card asks: is this wisdom recognizing genuine limitation, or exhaustion disguised as acceptance?
 

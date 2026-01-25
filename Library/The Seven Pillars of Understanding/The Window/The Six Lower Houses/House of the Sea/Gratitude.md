@@ -21,8 +21,7 @@ aspect: positive
 
 ---
 
-## Card Symbolism & Meaning
-
+## Core Domain
 Gratitude represents **emotional openness that honors the capacity to feel** not as burden but as blessing. This is gratitude born not from having what you want but from **being able to feel what is**—the recognition that a heart capable of breaking is a heart capable of loving, that vulnerability is privilege.
 
 In The Window system, Gratitude is the archetype of **emotional grace within Sea's domain**. This is not performative thankfulness or spiritual bypassing, but the genuine appreciation for **being alive to affective reality**. When Gratitude appears, it signals the shift from seeing emotional sensitivity as weakness to honoring it as gift.
@@ -86,8 +85,7 @@ In sacred traditions, this is the realization that emotional sensitivity is not 
 
 ---
 
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 Gratitude signals that **your emotional sensitivity is gift, not burden**. You are being called to honor the capacity to feel deeply, to recognize that vulnerability is strength, that openness is courage. This is not a time for emotional armor or defensive numbing; it is a time for **appreciation of your tender heart**. The question is: **can you be grateful for the sensitivity that allows both pain and love? Can you honor the heart that breaks?**
 

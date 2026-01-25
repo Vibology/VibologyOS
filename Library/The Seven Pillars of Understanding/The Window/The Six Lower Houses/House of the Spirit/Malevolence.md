@@ -21,8 +21,7 @@ aspect: negative
 
 ---
 
-## Card Symbolism & Meaning
-
+## Core Domain
 Malevolence represents the **shadow of consciousness that uses precise knowledge to harm**—the soul's capacity for detail corrupted into weaponized information, inner divinity perverted into calculated cruelty, awareness organized not to illuminate but to wound. This is not the innocent misuse of knowledge but malevolence as **deliberate precision in service of harm**—consciousness that knows exactly how to hurt and chooses to.
 
 In The Window system, Malevolence is the archetype of **weaponized consciousness**. This is the strategist who uses understanding to manipulate, the intellectual who deploys knowledge to dominate, the analyst who organizes information to control rather than serve. When Malevolence appears, it signals soul health corrupted at the deepest level—**consciousness turned against life itself**.
@@ -86,8 +85,7 @@ In sacred traditions, this is the being whose precision has become transparent t
 
 ---
 
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 Malevolence signals that **precision has been weaponized**. You are being warned against using knowledge to harm, against deploying understanding to control, against allowing consciousness to become instrument of cruelty. This is a time to **check whether your awareness serves life or dominates it**. The card cautions: your soul is using precision to wound. Return to ethical consciousness.
 

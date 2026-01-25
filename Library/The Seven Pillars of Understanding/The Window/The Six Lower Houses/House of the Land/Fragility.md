@@ -21,8 +21,7 @@ aspect: negative
 
 ---
 
-## Card Symbolism & Meaning
-
+## Core Domain
 Fragility represents **the vulnerability that comes from rigidity**—foundation that appears solid but shatters under pressure because it has lost flexibility. This is not the healthy vulnerability of openness but the dangerous brittleness of over-hardened structure: the tree that breaks in the storm because it cannot bend, the wall that crumbles because mortar has dried without give, the body that injures because muscles have lost elasticity.
 
 In The Window system, Fragility is the archetype of **unstable foundation within Land's domain**—but instability born not from lack of solidity but from **excess rigidity**. When Fragility appears, it signals that what appears grounded may be on the verge of catastrophic failure because it has become too hard, too fixed, too defended to adapt.
@@ -86,8 +85,7 @@ In sacred traditions, this is the master whose movements are perfectly adaptive�
 
 ---
 
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 Fragility signals that **defensive rigidity is creating vulnerability**—what appears solid may be brittle, what seems strong may be on the verge of shattering. This card calls you to examine: Where have you hardened against imagined threat? Where has fear of future collapse created present-moment inflexibility? The question is: **what structure are you defending so rigidly that it has become fragile?**
 

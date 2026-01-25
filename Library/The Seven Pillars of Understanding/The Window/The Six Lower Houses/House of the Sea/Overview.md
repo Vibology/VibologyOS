@@ -17,8 +17,7 @@ domain: Emotional/Relational Depth
 
 ---
 
-## House Symbolism & Meaning
-
+## Core Domain
 The House of the Sea represents the **water domain of emotional reality**—the realm where feelings ebb and flow, where relational depth requires vulnerability, where the heart opens or closes in response to encounter. This is the domain of **emotional honesty, relational intimacy, affective authenticity**. Sea is not sentiment but **depth of feeling**—the capacity to be moved, touched, broken open by encounter with other.
 
 Sea governs the spectrum from joy to heartbreak, from gratitude that overflows to envy that corrodes, from compassionate longing to rageful grief. This House asks: **Can you feel deeply without drowning?** Can you open your heart knowing it may shatter? Can you honor emotional truth without being swept away by every wave?
@@ -57,8 +56,7 @@ The gates cluster in **Solar Plexus (3 gates) and Root (3 gates)**, with one G C
 
 ---
 
-## Cross-System Correspondences
-
+## Correspondences
 **Tarot:**
 - **Cups:** The emotional suit governing love, intuition, relationships, feeling
 - **The High Priestess (II):** Lunar receptivity; emotional depths hidden beneath surface
@@ -127,8 +125,7 @@ The domain where emotional wounds are held and processed. Gate 36's darkening te
 
 ---
 
-## Divinatory Meaning
-
+## Oracle Reading
 **When cards from the House of the Sea appear:**
 
 You are being called into **emotional depth and relational vulnerability**. This is not the time for practical groundedness (Land), instinctual action (Flame), or intellectual narrative (Chronicle). The question before you requires **feeling, not thinking**. Open your heart. Allow yourself to be moved. Honor the emotional truth beneath surface appearances.

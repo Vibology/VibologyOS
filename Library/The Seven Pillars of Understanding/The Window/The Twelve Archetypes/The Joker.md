@@ -15,8 +15,7 @@ gene_keys: Hunger → Adventure → Boundlessness
 *The Joker - The Chaotic Disruptor*
 
 ---
-## Card Symbolism & Meaning
-
+## Core Domain
 The Joker represents the archetypal **agent of chaos**—the wild archer whose hunger for new experience punctures every established order, whose brutal honesty disrupts civilized pretense, whose philosophical nihilism forces evolution through destruction. Embodied by The Joker, this archetype carries the untamed fire of Sagittarius: the capacity to progress through transgression, to advance by destroying what's stagnant, to speak truth no one wants to hear.
 
 The Joker is not random but **purposefully chaotic**—the one who creates crisis to force change, who hungers for experience so intensely that stability becomes intolerable. "Why so serious?" is not joke but philosophical challenge: your order is pretense, your civilization is fragile, your progress requires my disruption.
@@ -74,8 +73,7 @@ Boundlessness represents the transcendent recognition that **chaos is cosmic cre
 In sacred traditions, Boundlessness corresponds to the recognition that all boundaries are provisional, all structures temporary, all order eventual chaos. At this frequency, The Joker is not villain but cosmic function—the universe playing with its own boundaries, refusing to let any form become permanent. "Introduce a little anarchy, upset the established order." Boundlessness is freedom from all structure—not as nihilism but as infinite creative potential.
 
 ---
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 You are being called to **disrupt the established order**. Something is stagnant and your hunger for new experience is the signal. Progress cannot happen in vacuum—you must introduce chaos, challenge pretense, force evolution through crisis. This is not the time for civility or patience. Ask: "Why so serious?" and then burn what needs burning. The Joker is awakening.
 
@@ -91,8 +89,7 @@ Your chaos catalyzes progress. You see through civilized pretense, speak truth n
 You embody Boundlessness—the recognition that chaos is cosmic play, that disruption serves creation, that The Joker is the universe delighting in its own capacity to exceed all boundaries. You have transcended the question "is chaos good or evil?" because you know: **progress requires the agent who refuses all limits**. You are eternal change incarnate, the cosmic function that ensures nothing ever ossifies into permanent form.
 
 ---
-## Synthesis & Integration
-
+## Synthesis Notes
 The Joker as archetype unifies Sagittarius fire (untamed philosophy, brutal honesty, wild adventure), Joker mythology (agent of chaos forcing evolution through crisis), Gate 35's Throat hunger (insatiable need for new experience, progress through change), and Hexagram 35's teaching (advancement through rising light—inverted into advancement through burning everything).
 
 This card appears when **order has ossified**, when progress demands disruption, when hunger for new experience exceeds capacity for patience. The question is not "should I maintain stability?" but "what needs to burn so something new can rise?"

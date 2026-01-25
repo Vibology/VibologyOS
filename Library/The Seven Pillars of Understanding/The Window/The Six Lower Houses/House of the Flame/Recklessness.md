@@ -21,8 +21,7 @@ aspect: negative
 
 ---
 
-## Card Symbolism & Meaning
-
+## Core Domain
 Recklessness represents the shadow of **mental pressure forcing instinctual action without inspiration**—the soul's capacity for the drive to know the unknowable to generate chaotic movement when revelation has not yet arrived. This is not recklessness as meaningful risk but recklessness as **flight from existential torment**—the fire ignited by psychic pressure rather than inspired knowing.
 
 In The Window system, Recklessness is the archetype of pressured chaos built from unresolved existential questions that have become unbearable. This is the spiritual seeker who takes dangerous risks to force revelation, the philosopher who acts destructively to escape unanswerable questions, the visionary who moves chaotically because stillness means facing the void. Recklessness understands that **mystery creates pressure**—and cannot tolerate that pressure without discharge through action.
@@ -86,8 +85,7 @@ In sacred traditions, this is the mystic who finds the unknowable to be holy rat
 
 ---
 
-## Divination Meanings
-
+## Oracle Reading
 **When this card appears:**
 Recklessness signals that **mental pressure is generating chaotic action**. You are being warned against movement born from existential anxiety, against acting recklessly to escape the discomfort of not knowing. The question is: **is your action inspired or merely pressured? Are you moving toward something or fleeing from the void?**
 
