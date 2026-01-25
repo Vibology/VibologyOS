@@ -343,4 +343,11 @@ Both interpretations recognize that the 10th House represents **the authoritativ
 
 ---
 
+## References
+
+- Lilly, William. *Christian Astrology Modestly Treated of in Three Books*. London: Printed by Tho. Brundell for John Partridge and Humphrey Blunden, 1647. The Second Edition Corrected, and Amended.
+- Ptolemy, Claudius. *Ptolemy's Tetrabiblos, or Quadripartite*. Translated by J. M. Ashmand from the Greek Paraphrase of Proclus. London: Davis and Dickson, St. Martin's-le-Grand, 1822.
+
+---
+
 *"The 10th House is the peak. The view is magnificent—but the descent is inevitable. What you build at the MC must rest on the foundation of the IC. Public success without private wholeness is hollow. Reputation is not managed; it is earned. Authority is not taken; it is given by those who recognize mastery. You are not here to be famous. You are here to contribute. Build something that survives your death. That is legacy."*

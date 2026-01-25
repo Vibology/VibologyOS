@@ -262,4 +262,11 @@ Derivative houses reveal how the 2nd House theme manifests in different life dom
 
 ---
 
+## References
+
+- Lilly, William. *Christian Astrology Modestly Treated of in Three Books*. London: Printed by Tho. Brundell for John Partridge and Humphrey Blunden, 1647. The Second Edition Corrected, and Amended.
+- Ptolemy, Claudius. *Ptolemy's Tetrabiblos, or Quadripartite*. Translated by J. M. Ashmand from the Greek Paraphrase of Proclus. London: Davis and Dickson, St. Martin's-le-Grand, 1822.
+
+---
+
 *"The 2nd House is the ground. What you stand on must be solid before you can climb. And the ground is not just matter—it is belief. If you do not believe you deserve to exist, no amount of wealth will fill the void. Value is not earned; it is recognized. You are worth having before you prove it."*

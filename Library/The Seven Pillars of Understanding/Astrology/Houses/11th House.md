@@ -337,4 +337,11 @@ The 11th House challenge is to **build community consciously**—to recognize th
 
 ---
 
+## References
+
+- Lilly, William. *Christian Astrology Modestly Treated of in Three Books*. London: Printed by Tho. Brundell for John Partridge and Humphrey Blunden, 1647. The Second Edition Corrected, and Amended.
+- Ptolemy, Claudius. *Ptolemy's Tetrabiblos, or Quadripartite*. Translated by J. M. Ashmand from the Greek Paraphrase of Proclus. London: Davis and Dickson, St. Martin's-le-Grand, 1822.
+
+---
+
 *"The 11th House is the network. No one ascends alone. Your vision is not yours—it is the future speaking through you. Friendship is not obligation; it is chosen resonance. Community is not tribe; it is voluntary alignment. Hope is not naivety; it is the refusal to accept the present as inevitable. You serve the collective, but you are not the collective. Keep your center. Offer your gift. Trust that others are doing the same."*

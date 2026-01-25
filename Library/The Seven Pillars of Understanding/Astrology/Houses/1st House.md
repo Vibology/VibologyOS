@@ -264,4 +264,11 @@ The evolution of the 1st House is learning that **identity is not fixed**—the 
 
 ---
 
+## References
+
+- Lilly, William. *Christian Astrology Modestly Treated of in Three Books*. London: Printed by Tho. Brundell for John Partridge and Humphrey Blunden, 1647. The Second Edition Corrected, and Amended.
+- Ptolemy, Claudius. *Ptolemy's Tetrabiblos, or Quadripartite*. Translated by J. M. Ashmand from the Greek Paraphrase of Proclus. London: Davis and Dickson, St. Martin's-le-Grand, 1822.
+
+---
+
 *"The 1st House is the doorway. What crosses the threshold is not yet the self—but it is the first gesture toward selfhood. The Ascendant is not who you are; it is how you arrive. And in a world of masks, the one who wears theirs consciously is the one who is free."*

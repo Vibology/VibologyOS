@@ -329,4 +329,11 @@ The 8th House challenge is to **receive the inheritance consciously**—to take 
 
 ---
 
+## References
+
+- Lilly, William. *Christian Astrology Modestly Treated of in Three Books*. London: Printed by Tho. Brundell for John Partridge and Humphrey Blunden, 1647. The Second Edition Corrected, and Amended.
+- Ptolemy, Claudius. *Ptolemy's Tetrabiblos, or Quadripartite*. Translated by J. M. Ashmand from the Greek Paraphrase of Proclus. London: Davis and Dickson, St. Martin's-le-Grand, 1822.
+
+---
+
 *"The 8th House is the descent. You cannot retrieve the treasure without facing the dragon. What you fear most is guarding what you need most. Death is not the enemy—it is the doorway. Surrender is not defeat—it is the only victory that lasts. The wound you refuse to touch is the wound that controls your life. Go down. The underworld is not punishment. It is initiation."*

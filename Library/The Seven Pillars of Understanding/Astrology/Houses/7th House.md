@@ -304,4 +304,11 @@ The 7th House challenge is to recognize that **your enemy is your dark twin**—
 
 ---
 
+## References
+
+- Lilly, William. *Christian Astrology Modestly Treated of in Three Books*. London: Printed by Tho. Brundell for John Partridge and Humphrey Blunden, 1647. The Second Edition Corrected, and Amended.
+- Ptolemy, Claudius. *Ptolemy's Tetrabiblos, or Quadripartite*. Translated by J. M. Ashmand from the Greek Paraphrase of Proclus. London: Davis and Dickson, St. Martin's-le-Grand, 1822.
+
+---
+
 *"The 7th House is the mirror. What you see in the other is what you refuse to see in yourself. Every partnership is an invitation to wholeness—not because the other completes you, but because they reflect what you have disowned. Love without projection is rare. But it is the only love that does not eventually turn to resentment. The other is not your answer. They are your question."*

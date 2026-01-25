@@ -288,4 +288,11 @@ The 6th House challenge is to **listen to the body before it screams**—to trea
 
 ---
 
+## References
+
+- Lilly, William. *Christian Astrology Modestly Treated of in Three Books*. London: Printed by Tho. Brundell for John Partridge and Humphrey Blunden, 1647. The Second Edition Corrected, and Amended.
+- Ptolemy, Claudius. *Ptolemy's Tetrabiblos, or Quadripartite*. Translated by J. M. Ashmand from the Greek Paraphrase of Proclus. London: Davis and Dickson, St. Martin's-le-Grand, 1822.
+
+---
+
 *"The 6th House is the discipline. Mastery is not inspiration—it is showing up. The sacred is not in the cathedral but in the broom that sweeps its floor. Your body is not a machine; it is a teacher. Your work is not punishment; it is the practice that makes you whole. Service is not self-negation; it is the act that proves you are still capable of devotion."*

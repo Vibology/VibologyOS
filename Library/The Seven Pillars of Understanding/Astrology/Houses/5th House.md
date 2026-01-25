@@ -282,4 +282,11 @@ When romance becomes partnership, it moves from the 5th House (joy) to the 7th H
 
 ---
 
+## References
+
+- Lilly, William. *Christian Astrology Modestly Treated of in Three Books*. London: Printed by Tho. Brundell for John Partridge and Humphrey Blunden, 1647. The Second Edition Corrected, and Amended.
+- Ptolemy, Claudius. *Ptolemy's Tetrabiblos, or Quadripartite*. Translated by J. M. Ashmand from the Greek Paraphrase of Proclus. London: Davis and Dickson, St. Martin's-le-Grand, 1822.
+
+---
+
 *"The 5th House is the playground. The soul does not need justification to rejoice. You are allowed to create, to play, to love, to risk—not because it is productive, but because you are alive. Joy is not a reward. It is the proof that you have not yet forgotten how to be."*

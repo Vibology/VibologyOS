@@ -274,4 +274,11 @@ Derivative houses reveal cyclical patterns: what is built (10th) returns to foun
 
 ---
 
+## References
+
+- Lilly, William. *Christian Astrology Modestly Treated of in Three Books*. London: Printed by Tho. Brundell for John Partridge and Humphrey Blunden, 1647. The Second Edition Corrected, and Amended.
+- Ptolemy, Claudius. *Ptolemy's Tetrabiblos, or Quadripartite*. Translated by J. M. Ashmand from the Greek Paraphrase of Proclus. London: Davis and Dickson, St. Martin's-le-Grand, 1822.
+
+---
+
 *"The 4th House is the roots. You cannot know where you're going until you know where you came from. But knowing where you came from does not mean you must stay there. The tree does not cling to the seed. It honors the root, then grows toward the light."*

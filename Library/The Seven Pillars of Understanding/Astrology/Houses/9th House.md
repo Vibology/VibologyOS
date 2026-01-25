@@ -334,4 +334,11 @@ When belief becomes **identity** rather than tool, it hardens into dogma. The 9t
 
 ---
 
+## References
+
+- Lilly, William. *Christian Astrology Modestly Treated of in Three Books*. London: Printed by Tho. Brundell for John Partridge and Humphrey Blunden, 1647. The Second Edition Corrected, and Amended.
+- Ptolemy, Claudius. *Ptolemy's Tetrabiblos, or Quadripartite*. Translated by J. M. Ashmand from the Greek Paraphrase of Proclus. London: Davis and Dickson, St. Martin's-le-Grand, 1822.
+
+---
+
 *"The 9th House is the mountain. The view from the peak is worth the climb. But the peak is not the end—it is the vantage point from which you see the next mountain. Truth is not conclusion; it is horizon. What you believe today must be willing to die tomorrow. The teacher who clings to their teaching has stopped learning. Wisdom is not possession. It is pilgrimage."*
