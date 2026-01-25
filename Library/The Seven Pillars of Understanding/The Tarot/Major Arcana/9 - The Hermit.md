@@ -37,8 +37,7 @@ The reversed card can also indicate false humility—the spiritual teacher who c
 The key insight is that The Hermit always deals with **the paradox of solitude as preparation for service**—upright or reversed, he governs whether withdrawal leads to illumination or merely to isolation.
 
 ---
-## Core Correspondences
-
+## Qabalistic Position
 | System | Correspondence |
 |--------|----------------|
 | **Number** | 9 - The final single digit, completion before new cycle, three times three (Wang 1983 cites Crowley)|
@@ -52,8 +51,7 @@ The key insight is that The Hermit always deals with **the paradox of solitude a
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:** Prudence, circumspection, divine inspiration, withdrawal, solitude, wisdom sought and found, self-examination, the light of truth, voluntary isolation for spiritual purpose, the Ancient of Days. Keywords: Wisdom, solitude, introspection, guidance from above, self-knowledge.
 
 **Reversed (per Waite):**
@@ -61,8 +59,7 @@ Concealment, disguise, policy, unreasoned caution. Isolation as avoidance, withd
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 **Yod as Hand: The Divine Seed**
 
 Yod is the smallest Hebrew letter, a single point—yet it is considered the foundation from which all other letters are formed. It means "Hand" (specifically the hand of God reaching into creation) and symbolizes the seed, the spermatozoon, the concentrated essence of life-power.

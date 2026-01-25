@@ -30,8 +30,7 @@ The Golden Dawn reversal indicates "lack of skill; mediocre work; loss of reputa
 The key teaching: **Mastery is earned through disciplined, collaborative effort**. The Three of Pentacles offers the opportunity to build real skill—but you must do the work, accept feedback, and recognize that no cathedral is built by a single hand. If you cut corners, the structure will collapse. If you refuse collaboration, the vision will remain incomplete.
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Number** | 3 - Creativity, synthesis, the first stable form (triangle) |
@@ -48,15 +47,14 @@ The key teaching: **Mastery is earned through disciplined, collaborative effort*
 | **Dates** | January 1 - January 10 (Sun in mid-Capricorn) |
 
 ---
-## Divination Meanings
+## Divination Use
 **Upright:** Skilled labor, craftsmanship, work recognized and rewarded. Collaboration, teamwork, the integration of maker, planner, and patron. Paid employment, commercial transactions, renown for competence. The middle phase of apprenticeship—past beginner, not yet master, but capable and trusted. Building with discipline, structure rising stone by stone. Learning through doing. Feedback received and integrated. The satisfaction of work well done, even if the project is not yet complete.
 *Keywords:* Craftsmanship, skill, collaboration, teamwork, employment, recognition, competence, building, learning, progress, constructive effort.
 **Reversed (per Waite):** Mediocrity, puerility, weakness. Substandard work, incompetence, lack of skill. Collaboration breaks down—conflict between artist and patron, or refusal to work with others. The craftsman treated as a child, or the craftsman behaving childishly. Corners cut, structure unstable. Reputation lost through poor workmanship. The lone wolf who refuses guidance and produces inferior results.
 *Keywords:* Mediocrity, incompetence, conflict, immaturity, refusal to collaborate, poor workmanship, corners cut, reputation lost.
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### The Sephirotic Lens: Binah as Form and Structure
 
 **Binah** is the third Sephirah, titled **Understanding** (*Binah* in Hebrew). It is the **Great Mother**, the principle of *form*, *structure*, and *limitation*—the container that receives the creative force of Chokmah and shapes it into manifest reality.

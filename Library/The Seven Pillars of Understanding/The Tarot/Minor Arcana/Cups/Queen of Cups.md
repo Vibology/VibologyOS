@@ -45,8 +45,7 @@ The key teaching: **Depth without discernment becomes dissolution.** The Queen's
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Rank** | Queen - The receptive master, mature feminine expression of the element, inner authority |
@@ -65,8 +64,7 @@ The key teaching: **Depth without discernment becomes dissolution.** The Queen's
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:**
 
 The Queen of Cups as a **Person**: A mature woman (or mature feminine presence in any person) with water-sign energy (Cancer, Scorpio, Pisces) expressed through receptive mastery. The therapist who really listens. The mother who understands without words. The healer whose presence itself is medicine. Someone with profound emotional intelligence—feeling as a form of knowing. A devoted, honest woman who serves the querent's best interests. The psychic or intuitive who uses gifts wisely. The artist whose work emerges from depths. The lover who loves with vision as well as feeling.
@@ -87,8 +85,7 @@ Vice, dishonor, depravity—or a distinguished woman not to be trusted. The reve
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### Elemental Dignity Analysis: Water of Water
 
 The Court Cards operate according to a formula: each rank (King, Queen, Knight, Page) embodies a primary element, and each suit embodies a secondary element. The interaction between these creates the Court card's unique character.

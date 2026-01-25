@@ -35,8 +35,7 @@ galism, the letter that kills while the spirit gives life. "Bigotry" and "bias" 
 The key insight is that Justice always deals with **the relationship between action and consequence**—upright or reversed, she governs whether we accept the teaching of cause and effect or resist it to our detriment.
 
 ---
-## Core Correspondences
-
+## Qabalistic Position
 | System | Correspondence |
 |--------|----------------|
 | **Number** | 11 - Beyond the perfection of 10, the first step into new complexity (Wang 1983 cites Crowley)|
@@ -51,8 +50,7 @@ The key insight is that Justice always deals with **the relationship between act
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:** Equity, rightness, probity, executive force, balance, self-assessment, karmic adjustment, legal matters resolved fairly, truth revealed, accounts settled, the weighing of the soul. Keywords: Justice, balance, truth, karma, righteous adjustment.
 
 **Reversed (per Waite):**
@@ -60,8 +58,7 @@ Law in all departments, legal complications, bigotry, bias, excessive severity. 
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 **Lamed as Ox-Goad: Directing the Beast**
 
 Lamed means "Ox-goad"—the pointed rod used to spur on the ox (Aleph, The Fool). Justice as Lamed represents the principle that guides behavior through consequence, not coercion. The ox-goad doesn't force the beast but directs it—a gentle pressure that indicates the path.

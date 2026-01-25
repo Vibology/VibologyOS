@@ -38,8 +38,7 @@ The key teaching: **The mind that believes itself trapped becomes the trap**. Th
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Number** | 8 - Structure, power, manifestation of the will, Strength/Justice axis |
@@ -56,8 +55,7 @@ The key teaching: **The mind that believes itself trapped becomes the trap**. Th
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:** Restriction, imprisonment, feeling trapped. The crisis that seems inescapable. Mental bonds—fear, anxiety, self-doubt—that prevent action. Paralysis by analysis. The belief that one is more trapped than one actually is. Blindness to options that exist. Feeling powerless, censured, criticized. Sickness (mental or physical) that restricts movement. Interference with plans. Bad news that seems final but may not be.
 
 *Keywords:* Restriction, imprisonment, trapped, paralysis, anxiety, self-imposed bonds, blindness, interference, helplessness, crisis.
@@ -68,8 +66,7 @@ The key teaching: **The mind that believes itself trapped becomes the trap**. Th
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### The Sephirotic Lens: Hod in Yetzirah
 
 **Hod** is the eighth Sephirah, titled **Splendor** (*Hod* in Hebrew). It represents the principle of *intellect*—systematic thought, pattern recognition, communication, the analytical function of the mind.

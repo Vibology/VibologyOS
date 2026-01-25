@@ -39,8 +39,7 @@ The key teaching: **The cup that is full but does not nourish must be set down, 
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Number** | 8 - Intellect, pattern, recognition preceding action, Mercury's number |
@@ -56,8 +55,7 @@ The key teaching: **The cup that is full but does not nourish must be set down, 
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:** Departure, abandonment of what no longer serves, the wisdom to leave. Decline of interest in what once mattered. Success recognized as hollow. The seeker's journey, the hermit's path, the pilgrimage toward deeper meaning. Voluntary renunciation. Turning away from the material toward the spiritual. The courage to disappoint others in order to be true to yourself.
 
 *Keywords:* Departure, abandonment, seeking, disillusionment, walking away, pilgrimage, renunciation, deeper calling, leaving success behind.
@@ -66,8 +64,7 @@ The key teaching: **The cup that is full but does not nourish must be set down, 
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### The Sephirotic Lens: Hod as the Eight
 
 **Hod** is the eighth Sephirah, titled **Splendor** (*Hod* in Hebrew). It is the sphere of intellect, communication, and the mind's capacity to perceive patterns. Where Netzach (the seventh Sephirah) is emotion and desire, Hod is *thought* and *form*—the mental framework that gives shape to experience.

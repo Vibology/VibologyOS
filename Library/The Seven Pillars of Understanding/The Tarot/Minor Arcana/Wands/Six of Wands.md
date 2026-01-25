@@ -44,8 +44,7 @@ The key teaching: **Victory is a moment, not a destination.** The Six of Wands a
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Number** | 6 - Harmony, balance, beauty, the heart of the Tree, integration of opposites |
@@ -63,8 +62,7 @@ The key teaching: **Victory is a moment, not a destination.** The Six of Wands a
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:** Victory, triumph, success, public recognition, advancement, earned achievement. Great news. Expectation crowned with its own desire. The experience of "cruising easy"—when the hard work has been done and the rewards flow naturally. Leadership acknowledged by others. The crown of hope. Success through energy and industry. The moment when your mastery is witnessed and affirmed by the community.
 
 *Keywords:* Victory, recognition, triumph, success, advancement, leadership, public acclaim, earned mastery, "Established Strength," grace in winning, radiant achievement, the laurel wreath, the crowd's approval.
@@ -73,8 +71,7 @@ The key teaching: **Victory is a moment, not a destination.** The Six of Wands a
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### The Sephirotic Lens: Tiphareth as the Six
 
 **Tiphareth** is the sixth Sephirah, titled **Beauty** (*Tiferet* in Hebrew). It occupies the central position on the Tree of Life—the heart, the solar plexus, the point of balance and integration. Tiphareth is called the **"Mediating Intelligence"** in the *Sepher Yetzirah* because "in it are multiplied the influxes of the emanations"—it receives from all the Sephiroth above and distributes to all the Sephiroth below. It is the meeting place of heaven and earth, the bridge between the divine and the human.

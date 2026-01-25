@@ -31,8 +31,7 @@ The core teaching: **The Moon does not create illusion. She reveals the illusion
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | **Attribute**            | **Correspondence**                                                                                       |
 |--------------------------|----------------------------------------------------------------------------------------------------------|
 | **Number**               | 18 (Reduction to 9: the number of completion, endings, the hermit's wisdom earned through isolation)     |
@@ -48,8 +47,7 @@ The core teaching: **The Moon does not create illusion. She reveals the illusion
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright**: Illusion, deception, confusion, hidden enemies. Danger, terror, occult forces. Projection, paranoia, the distortion of perception by the unconscious. The fog, the twilight, the realm where clarity is impossible. Instinct over reason. The animal mind, the fears of the natural mind. The necessity of waiting, of not acting until the light returns.
 
 *Keywords*: Illusion, deception, confusion, hidden enemies, fear, projection, the unconscious, twilight, the Dark Night.
@@ -58,8 +56,7 @@ The core teaching: **The Moon does not create illusion. She reveals the illusion
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### Hebrew Letter: Qoph (ק) – The Back of the Head
 
 **Qoph** means "back of the head"—the **occipital region**, the part of the skull where the brain processes vision and where the unconscious mind operates. With a gematria value of **100** (10 x 10), Qoph resonates with the number of **completion through manifestation**, the full cycle brought down into material form.

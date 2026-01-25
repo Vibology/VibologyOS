@@ -45,8 +45,7 @@ The key teaching: **True mastery includes vulnerability.** The King who cannot b
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Rank** | King - The active sovereign, mature masculine expression of the element, outer authority |
@@ -65,8 +64,7 @@ The key teaching: **True mastery includes vulnerability.** The King who cannot b
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:**
 
 The King of Cups as a **Person**: A mature man (or mature masculine presence in any person) with water-sign energy (Cancer, Scorpio, Pisces) expressed through active sovereignty. The therapist who can guide others through crisis. The leader who inspires through emotional intelligence rather than coercion. A man of business, law, or divinity—someone in a position of authority who exercises it with compassion. The father who teaches emotional wisdom by embodying it. The artist whose creative work channels the unconscious into form. The judge who understands mercy as well as justice. Responsible, disposed to help, equitable.
@@ -87,8 +85,7 @@ Dishonest, double-dealing man. Roguery, exaction, injustice. The reversal corrup
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### Elemental Dignity Analysis: Fire of Water
 
 The Court Cards operate according to a formula: each rank (King, Queen, Knight, Page) embodies a primary element, and each suit embodies a secondary element. The interaction between these creates the Court card's unique character.

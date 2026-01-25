@@ -33,8 +33,7 @@ The key teaching: **The sword must be learned before it can be mastered**. The P
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Court Rank** | Page - The Earth component, the student, the messenger |
@@ -50,8 +49,7 @@ The key teaching: **The sword must be learned before it can be mastered**. The P
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:** Vigilance, watchfulness, investigation. The gathering of information before action. An air-sign young person (Gemini, Libra, Aquarius). The student of intellectual pursuits. Examination, research, scrutiny. Secret service, spying, reconnaissance. The messenger who brings news (often of conflict or challenge). Mental alertness, quick thinking. The first use of reason to navigate difficulty.
 
 *Keywords:* Vigilance, investigation, curiosity, alertness, study, information-gathering, the messenger, the student, examination.
@@ -62,8 +60,7 @@ The key teaching: **The sword must be learned before it can be mastered**. The P
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### The Elemental Formula: Earth of Air
 
 Understanding the court cards requires understanding their **elemental formula**—the combination of the suit's element with the rank's element.

@@ -33,8 +33,7 @@ The reversed Wheel speaks to excess—fortune turned to overindulgence, expansio
 The key insight is that the Wheel always deals with **the paradox of change as the only constant**—upright or reversed, it governs whether we flow with cycles or fight against them.
 
 ---
-## Core Correspondences
-
+## Qabalistic Position
 | System | Correspondence |
 |--------|----------------|
 | **Number** | 10 - New cycle beginning, completion returning to unity, the perfect number (Wang 1983 cites Crowley)|
@@ -48,8 +47,7 @@ The key insight is that the Wheel always deals with **the paradox of change as t
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:** Destiny, fortune, success, good luck, karmic ripening, the turning of cycles in your favor, recognition of pattern in apparent chaos, alignment with cosmic rhythm, the end of chance. Keywords: Cycles, karma, destiny, fortune, change.
 
 **Reversed (per Waite):**
@@ -57,8 +55,7 @@ Increase, abundance, superfluity. Excess, inability to accept downturns, hoardin
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 **Kaph as Palm: Grasping the Pattern**
 
 Kaph means "Palm" or "Fist"—the hand that grasps, the comprehension that holds truth. The Wheel of Fortune as Kaph represents the capacity to grasp the pattern of cycles, to hold comprehension of how fortune operates, to close the fist around understanding that would otherwise remain abstract.

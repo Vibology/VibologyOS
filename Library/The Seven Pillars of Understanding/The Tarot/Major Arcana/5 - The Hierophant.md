@@ -37,8 +37,7 @@ But "overkindness" and "weakness" reveal the shadow: the teacher who cannot set 
 The key insight is that The Hierophant always deals with **the transmission of wisdom across time**—upright or reversed, he governs the relationship between tradition and innovation, between the tested path and the uncharted territory.
 
 ---
-## Core Correspondences
-
+## Qabalistic Position
 | System | Correspondence |
 |--------|----------------|
 | **Number** | 5 - The pentagram, humanity reaching toward the divine(Wang 1983 cites Crowley) |
@@ -53,8 +52,7 @@ The key insight is that The Hierophant always deals with **the transmission of w
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:** Marriage, alliance, tradition, teaching, spiritual authority, initiation into lineage, mercy, goodness, organized religion, conventional wisdom, the path that has been tested, submission to legitimate authority. Keywords: Tradition, teaching, hierarch, sacred law, orthodox practice.
 
 **Reversed (per Waite):**
@@ -62,8 +60,7 @@ Society, good understanding, concord, overkindness, weakness. Rejection of tradi
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 **Vau as Nail: The Principle That Binds**
 
 Vau means "Nail" or "Hook"—that which fastens, connects, holds together what would otherwise separate. The Hierophant as Vau represents the *binding principle*: he links the Great Universe (Macroprosopus, the divine) with manifestation (Microprosopus, the human realm). He is the Pontifex—literally "bridge-maker"—the one who builds and maintains the connection between heaven and earth.

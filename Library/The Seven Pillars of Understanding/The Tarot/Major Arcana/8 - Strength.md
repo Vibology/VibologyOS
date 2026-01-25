@@ -35,8 +35,7 @@ The reversed Strength speaks to power misapplied—either through tyranny (using
 The key insight is that Strength always deals with **the relationship between higher consciousness and animal nature**—upright or reversed, it governs whether beast and beauty can coexist in productive partnership.
 
 ---
-## Core Correspondences
-
+## Qabalistic Position
 | System | Correspondence |
 |--------|----------------|
 | **Number** | 8 - The octave, completion of one cycle before the next, infinity horizontal (Wang 1983 cites Crowley)|
@@ -50,8 +49,7 @@ The key insight is that Strength always deals with **the relationship between hi
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:** Power, energy, courage, fortitude, action, magnanimity, complete success, mastery over animal nature, gentle strength, self-control, facing fear without being consumed, the higher subduing the lower through love. Keywords: Courage, fortitude, taming, spiritual power, Leo vitality.
 
 **Reversed (per Waite):**
@@ -59,8 +57,7 @@ Despotism, abuse of power, weakness, discord, disgrace. Tyranny instead of maste
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 **Teth as Serpent: The Coiled Fire**
 
 Teth means "Serpent"—the primal life force, the Kundalini coiled at the base of the spine, the sexual-creative-spiritual energy that can destroy or illuminate depending on how it's directed. Strength as Teth represents the conscious awakening and mastery of this serpentine power.

@@ -42,8 +42,7 @@ The key teaching: **The Page is not the destination—it is the first step.** Al
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Rank** | Page - The Throne of the Ace, the first stabilization of elemental force, the receptive and learning stage |
@@ -64,8 +63,7 @@ The key teaching: **The Page is not the destination—it is the first step.** Al
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:**
 
 The Page of Wands as a **Person**: A young person (or someone young in spirit) with fire-sign energy (Aries, Leo, Sagittarius). Enthusiastic, creative, impulsive, sincere. A child or adolescent (literal or psychological). A student of creative arts, magic, entrepreneurship. Someone beginning a new venture with genuine passion. The faithful messenger—someone who delivers news with earnestness. A lover (in the sense of one who is passionate, devoted to their interest). An envoy bearing important tidings. A dangerous rival if representing competition for creative attention or romantic interest (especially if followed by Page of Cups—emotional competition).
@@ -86,8 +84,7 @@ Bad news, unwelcome announcements, anecdotes without substance. Indecision—una
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### Elemental Dignity Analysis: Earth of Fire
 
 The Court Cards operate according to a formula: each rank (King, Queen, Knight, Page) embodies a primary element, and each suit embodies a secondary element. The interaction between these creates the Court card's unique character.

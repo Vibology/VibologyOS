@@ -39,8 +39,7 @@ The key teaching: **Completion is itself a form of creation.** To finish well, t
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Number** | 4 - The square, stability, foundation, the material quaternary |
@@ -56,8 +55,7 @@ The key teaching: **Completion is itself a form of creation.** To finish well, t
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:** Perfected work, completion of a phase, rest after labor, celebration, prosperity, harmony, concord. Country life, haven of refuge, domestic harvest. Romance, marriage, engagement. Festivals, parties, gatherings that honor achievement. Homecoming, the foundation secured and stable. Community witnessing your success. The threshold between labor and leisure.
 
 *Keywords:* Celebration, completion, harmony, stability, marriage, festival, homecoming, prosperity, rest, perfected work, foundation.
@@ -66,8 +64,7 @@ The key teaching: **Completion is itself a form of creation.** To finish well, t
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### The Sephirotic Lens: Chesed as the Four
 
 **Chesed** is the fourth Sephirah, titled **Mercy** (*Chesed* in Hebrew, also spelled Hesed). It is the first Sephirah below the Abyss—the first realm that is fully "manifest" in a structural sense. Where the Supernal Triad (Kether, Chokmah, Binah) exists in pure archetypal abstraction, Chesed begins the process of *concretization*.

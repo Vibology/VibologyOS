@@ -36,8 +36,7 @@ The key teaching: **Joy shared is joy multiplied—but joy without discernment b
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Number** | 3 - Synthesis, fruition, the first complete form, creativity manifested |
@@ -53,8 +52,7 @@ The key teaching: **Joy shared is joy multiplied—but joy without discernment b
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:** Celebration, abundance, fulfillment, happy conclusion. The harvest festival, the wedding reception, the graduation party. Creative collaboration that bears fruit. Female friendship and solidarity. The joy that multiplies by being shared. Hospitality given and received. Community that nourishes without demanding conformity.
 
 *Keywords:* Celebration, abundance, community, sisterhood, fruition, hospitality, creative fulfillment, shared joy.
@@ -65,8 +63,7 @@ The key teaching: **Joy shared is joy multiplied—but joy without discernment b
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### The Sephirotic Lens: Binah as the Three
 
 **Binah** is the third Sephirah, titled **Understanding** (*Binah* in Hebrew). It is the Great Mother of the Supernal Triad—the receptive feminine that receives the dynamic masculine force of Chokmah and gives it *form*. Where Chokmah is the seed, Binah is the womb. Where Chokmah is the lightning flash, Binah is the vessel that contains it.

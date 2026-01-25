@@ -45,8 +45,7 @@ The key teaching: **The gift must be tended, or it withers.** The Page's sensiti
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Rank** | Page - The Throne of the Ace, the first stabilization of elemental force, the receptive and learning stage |
@@ -66,8 +65,7 @@ The key teaching: **The gift must be tended, or it withers.** The Page's sensiti
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:**
 
 The Page of Cups as a **Person**: A young person (or someone young in spirit) with water-sign energy (Cancer, Scorpio, Pisces). Sensitive, artistic, dreamy, intuitive. A child or adolescent (literal or psychological). A student of art, poetry, music, or any emotionally expressive discipline. Someone beginning to explore their inner world. The faithful messenger—someone who delivers emotional news with gentleness. A studious youth given to reflection and meditation. One impelled to render service through emotional or creative gifts.
@@ -88,8 +86,7 @@ Taste, inclination, attachment—but also seduction, deception, artifice. The re
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### Elemental Dignity Analysis: Earth of Water
 
 The Court Cards operate according to a formula: each rank (King, Queen, Knight, Page) embodies a primary element, and each suit embodies a secondary element. The interaction between these creates the Court card's unique character.

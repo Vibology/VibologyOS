@@ -39,8 +39,7 @@ The key teaching: **The dreamer who never wakes builds castles in the air. The v
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Number** | 7 - Completion and exhaustion, Venus's number, the astral plane |
@@ -56,8 +55,7 @@ The key teaching: **The dreamer who never wakes builds castles in the air. The v
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:** Illusion, fantasy, wishful thinking. Multiple options that overwhelm rather than empower. Daydreaming as escape from reality. The astral plane—where thought takes form but lacks substance. Temptation, glamour, the seduction of possibility. Self-deception, castle-building, the refusal to commit.
 
 *Keywords:* Illusion, fantasy, choices, daydreaming, wishful thinking, temptation, confusion, imagination, deception, overwhelm.
@@ -66,8 +64,7 @@ The key teaching: **The dreamer who never wakes builds castles in the air. The v
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### The Sephirotic Lens: Netzach as the Seven
 
 **Netzach** is the seventh Sephirah, titled **Victory** (*Netzach* in Hebrew). It is the sphere of emotion, desire, passion, and the creative imagination. Where Hod (the eighth Sephirah) is intellect and form, Netzach is *feeling* and *force*.

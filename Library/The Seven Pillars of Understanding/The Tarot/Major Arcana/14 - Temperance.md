@@ -33,8 +33,7 @@ The core teaching: **Transformation is not violence but precision**. Temperance 
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | **Attribute**            | **Correspondence**                                                                                       |
 |--------------------------|----------------------------------------------------------------------------------------------------------|
 | **Number**               | 14 (Reduction to 5: the number of humanity, the pentagram, the microcosm reflecting the macrocosm)       |
@@ -50,8 +49,7 @@ The core teaching: **Transformation is not violence but precision**. Temperance 
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright**: Combination of forces, alchemy, balance, moderation. The blending of opposites within the physical vessel. Management, economy, frugality. Patience, self-control, strategic waiting. The creation of a "third force" that transcends both extremes. The tempering process—neither too hot nor too cold, but the precise temperature required for transformation.
 
 *Keywords*: Balance, moderation, patience, alchemy, synthesis, the middle way, integration, tempering, combination.
@@ -60,8 +58,7 @@ The core teaching: **Transformation is not violence but precision**. Temperance 
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### Hebrew Letter: Samekh (ס) – The Prop That Sustains
 
 **Samekh** means "prop" or "support"—the framework, the scaffolding, the structure that holds something in place during the ordeal. With a gematria value of **60**, Samekh resonates with the number of completion through cycles (60 seconds, 60 minutes—the return to beginning after traversing the circle).

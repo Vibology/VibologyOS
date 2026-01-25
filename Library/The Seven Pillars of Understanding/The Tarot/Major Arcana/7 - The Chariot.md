@@ -37,8 +37,7 @@ The reversed Chariot speaks to control lost, the opposing forces no longer harne
 The key insight is that The Chariot always deals with **the paradox of victory through containment**—upright or reversed, it governs the capacity to hold opposing forces in productive tension rather than allowing them to tear the self apart.
 
 ---
-## Core Correspondences
-
+## Qabalistic Position
 | System | Correspondence |
 |--------|----------------|
 | **Number** | 7 - The sacred seven, completion of first cycle, rest in motion (Wang 1983 cites Crowley)|
@@ -53,8 +52,7 @@ The key insight is that The Chariot always deals with **the paradox of victory t
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:** Triumph, victory, conquest on all planes, providence, success through discipline, mastery of opposing forces, ego-strength, forward motion, the mobile fortress, leading captivity captive. Keywords: Victory, control, willpower, directed energy, triumph through integration.
 
 **Reversed (per Waite):**
@@ -62,8 +60,7 @@ Riot, quarrel, dispute, litigation, defeat. Loss of control, internal division e
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 **Cheth as Fence: The Protective Enclosure**
 
 Cheth means "Fence" or "Enclosure"—not a prison but a boundary that protects, a hedge of safety that allows cultivation within. The Chariot as Cheth represents the ego-structure necessary for movement through the world—the armor, the vehicle, the container that preserves integrity while traversing hostile territory.

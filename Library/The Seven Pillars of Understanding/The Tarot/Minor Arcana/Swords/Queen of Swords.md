@@ -33,8 +33,7 @@ The key teaching: **Clarity need not be cruel**. The Queen of Swords is the most
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Court Rank** | Queen - The Water/receptive component, the master, the internalized wisdom |
@@ -50,8 +49,7 @@ The key teaching: **Clarity need not be cruel**. The Queen of Swords is the most
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:** Perceptive intelligence. Clear sight earned through sorrow. An air-sign woman (Gemini, Libra, Aquarius) familiar with loss. The widow archetype (literal or symbolic). The capacity to speak truth without cruelty, to see through illusion without malice. Emotional intelligence—feeling deeply while thinking clearly. The counselor, the judge, the mediator. Wisdom that includes suffering. Liberation through clarity. The one who helps others see what they cannot see themselves.
 
 *Keywords:* Perceptive intelligence, emotional intelligence, clarity tempered by compassion, the widow, truth without cruelty, liberation, wisdom through loss, clear communication.
@@ -62,8 +60,7 @@ The key teaching: **Clarity need not be cruel**. The Queen of Swords is the most
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### The Elemental Formula: Water of Air
 
 Understanding the court cards requires understanding their **elemental formula**—the combination of the suit's element with the rank's quality.

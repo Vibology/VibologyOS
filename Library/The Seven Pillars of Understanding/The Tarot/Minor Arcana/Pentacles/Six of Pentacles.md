@@ -29,8 +29,7 @@ When the Six of Pentacles appears **reversed**, Waite identifies meanings of **d
 The key teaching: **How you give matters as much as what you give**. The Six of Pentacles offers the opportunity to restore balance, to share abundance, to lift others from poverty—but if the giving comes from ego (to be seen as generous), or creates dependency (the receiver can never rise to equality), or reinforces hierarchy (reminding the poor of their place), then the gift becomes a chain.
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Number** | 6 - Harmony, balance, beauty, the equilibrium after struggle |
@@ -47,15 +46,14 @@ The key teaching: **How you give matters as much as what you give**. The Six of 
 | **Dates** | May 1 - May 10 (Sun in mid-Taurus) |
 
 ---
-## Divination Meanings
+## Divination Use
 **Upright:** Material success, prosperity, the capacity to give from abundance. Gifts, philanthropy, charity, generosity. Resources flowing from those who have to those who need. Fair distribution (or at least, distribution according to some principle of justice). The restoration of balance after the crisis of the Five. Help arrives, the door opens, the sanctuary shares its pentacles. But also: the power dynamics of charity—the giver stands above, the receiver kneels below. The one who gives holds the scale and decides who receives what.
 *Keywords:* Generosity, charity, gifts, success, prosperity, balance restored, fair distribution, giving and receiving, philanthropy, power dynamics.
 **Reversed (per Waite):** Desire, cupidity, envy, jealousy, illusion. The generosity becomes manipulation—gifts with strings attached, charity used to control or obligate. Or the receiver resents the giver's power, envies their wealth, feels humiliated by needing help. Or the giver becomes stingy, withholding what was previously shared. Unfairness in giving—some receive more than they need, others receive less. The scale is unbalanced, justice is absent.
 *Keywords:* Manipulation through giving, strings attached, envy, resentment, stinginess, unfair distribution, charity as control, humiliation.
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### The Sephirotic Lens: Tiphareth as Harmonious Beauty
 
 **Tiphareth** is the sixth Sephirah, titled **Beauty** (*Tiphareth* in Hebrew). It is the **heart** of the Tree of Life, the center where all paths meet, the harmonizing force that balances mercy (Chesed) and severity (Geburah).

@@ -27,8 +27,7 @@ When the Page of Pentacles appears **reversed**, Waite identifies meanings of **
 The key teaching: **Wisdom begins with attention to what is**. The Page of Pentacles offers the path of practical learning: observe carefully, ask questions, respect the laws of matter and value, and build competence one lesson at a time.
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Court Rank** | Page - The student, the herald, the youth |
@@ -42,15 +41,14 @@ The key teaching: **Wisdom begins with attention to what is**. The Page of Penta
 | **Archetypal Role** | The Student, the Apprentice, the Herald of Opportunity |
 
 ---
-## Divination Meanings
+## Divination Use
 **Upright:** Application, study, scholarship, practical learning. News of financial opportunity—job offer, investment, inheritance. Messages concerning material matters. The beginning of apprenticeship or vocational training. Studious attention to the physical world—how money works, how the body functions, how to build something real. An earth-sign child or young person (Taurus, Virgo, Capricorn) characterized by groundedness and practicality. Management of resources, careful examination of value. The seed of ambition—not yet manifested, but being thoughtfully cultivated.
 *Keywords:* Study, practical learning, scholarship, financial news, apprenticeship, attention to detail, grounded youth, examination of opportunity.
 **Reversed (per Waite):** Prodigality, dissipation, luxury, liberality. Unfavorable news concerning finances or work. The student who does not apply themselves, wasted opportunity, refusal to learn practical skills. Scattered attention, inability to focus on material realities. Materialism—mistaking accumulation for wisdom. Or: over-focus on the practical to the exclusion of meaning, using "realism" to dismiss the numinous. Greed disguised as ambition.
 *Keywords:* Wastefulness, unfavorable news, scattered attention, squandered opportunity, materialism, refusal to learn, impracticality.
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### The Elemental Formula: Earth of Earth
 
 In the Golden Dawn system, each Court card embodies an **elemental formula**—the interaction of two elements. Pages are associated with **Earth**, representing groundedness, youth, and the receptive student energy. The Page of *Pentacles* channels this Earth energy through the *Earth* suit, creating **Earth of Earth**—the densest, most material of all Court cards.

@@ -37,8 +37,7 @@ The reversed Empress speaks to blocked creativity, fertility stifled, the genera
 The key insight is that The Empress always deals with **the relationship between potential and manifestation**—upright or reversed, she governs the threshold where spirit becomes matter.
 
 ---
-## Core Correspondences
-
+## Qabalistic Position
 | System | Correspondence |
 |--------|----------------|
 | **Number** | 3 - The creative triad, synthesis of opposites(Wang 1983 cites Crowley) |
@@ -53,8 +52,7 @@ The key insight is that The Empress always deals with **the relationship between
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:** Fruitfulness, fertility, abundance, creativity manifest, motherhood, nature's bounty, beauty, pleasure, success, gestation, the ripening harvest, initiative bearing fruit. Keywords: Generativity, nurturing, embodiment, natural rhythm.
 
 **Reversed (per Waite):**
@@ -62,8 +60,7 @@ Light, truth, unravelling of complexity, vacillation. Blocked creativity, stifle
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 **The Door: Daleth and the Transition from One to Many**
 
 Daleth means "Door"—not merely an entrance, but the threshold that effects transformation. To pass through a door is to move from one state to another, from outside to inside, from profane to sacred. The Empress *is* this threshold: she is the gateway through which the abstract One (Kether) becomes the differentiated Many (the manifest world).

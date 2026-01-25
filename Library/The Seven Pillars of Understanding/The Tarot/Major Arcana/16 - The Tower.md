@@ -31,8 +31,7 @@ The core teaching: **The Tower does not destroy what is true. She destroys what 
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | **Attribute**            | **Correspondence**                                                                                       |
 |--------------------------|----------------------------------------------------------------------------------------------------------|
 | **Number**               | 16 (Reduction to 7: the number of completion, the seven days of creation—here, the un-creation)          |
@@ -47,8 +46,7 @@ The core teaching: **The Tower does not destroy what is true. She destroys what 
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright**: Sudden upheaval, catastrophe, disruption. The shattering of false structures. Unforeseen disaster, lightning-strike revelation. Ego-death, the fall of the persona. Liberation through destruction. Ambition ruined, pride humbled. The demolition of what was built on lies. The moment when everything changes in an instant.
 
 *Keywords*: Upheaval, catastrophe, sudden change, destruction, revelation, liberation, ego-shattering, collapse, breakthrough.
@@ -57,8 +55,7 @@ The core teaching: **The Tower does not destroy what is true. She destroys what 
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### Hebrew Letter: Peh (פ) – The Mouth That Speaks Truth
 
 **Peh** means "mouth"—the orifice for speech, breath, nourishment, and the utterance of the divine Word. With a gematria value of **80** (the word *Peh* itself totals **85**), Peh resonates with the number of **maturity, completion through cycles**, and the power of vibration.

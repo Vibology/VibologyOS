@@ -38,8 +38,7 @@ The key teaching: **Love is an art of seeing clearly**. The Two of Cups demands 
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Number** | 2 - Duality, polarity, the first division, relationship, reflection |
@@ -55,8 +54,7 @@ The key teaching: **Love is an art of seeing clearly**. The Two of Cups demands 
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:** Love, harmony, partnership, mutual recognition, sacred friendship, betrothal, pledge, emotional reciprocity. Two individuals choosing to create a shared vessel while remaining whole. The experience of being *seen* and choosing to *see* in return. Authentic connection that honors both union and differentiation.
 
 *Keywords:* Partnership, mutuality, affinity, pledge, recognition, emotional harmony, sacred union, reciprocity.
@@ -65,8 +63,7 @@ The key teaching: **Love is an art of seeing clearly**. The Two of Cups demands 
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### The Sephirotic Lens: Chokmah as the Two
 
 **Chokmah** is the second Sephirah, titled **Wisdom** (*Chokhmah* in Hebrew). It is the first emanation from Kether (the Crown), the first movement from undifferentiated unity into polarity. Where Kether is "I," Chokmah is "I AM"—the masculine principle, the Supernal Father, the first conscious act of being.

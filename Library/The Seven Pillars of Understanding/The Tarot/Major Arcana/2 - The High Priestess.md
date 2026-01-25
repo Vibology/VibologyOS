@@ -37,8 +37,7 @@ The reversed High Priestess speaks to gnosis degraded into mere information, mys
 The key insight is that The High Priestess always deals with the **threshold between knowing and unknowing**—upright or reversed, spiritual or material. The question is: are you willing to cross it with humility?
 
 ---
-## Core Correspondences
-
+## Qabalistic Position
 | System | Correspondence |
 |--------|----------------|
 | **Number** | 2 - Duality held in balance, the witness consciousness(Wang 1983 cites Crowley) |
@@ -53,8 +52,7 @@ The key insight is that The High Priestess always deals with the **threshold bet
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:** Secrets, hidden knowledge, the future unrevealed, intuition, inner wisdom, the unconscious source, divine feminine, silence that knows, waiting for the right time, initiation. Keywords: Gnosis, mystery, receptivity, patience, the veil between worlds.
 
 **Reversed (per Waite):**
@@ -62,8 +60,7 @@ Passion, moral or physical ardour, conceit, surface knowledge. Mystery degraded 
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 **The Light That Conceals**
 
 The High Priestess's central mystery is that she is known as the "Soul of Light"—yet paradoxically, her brilliance is so intense it actually *conceals* rather than reveals. She hides the "True Spirit" or "Fiery Darkness" of the Supernals by her own radiance. This encodes a profound teaching: divine knowledge blinds as much as it illuminates. The full truth would obliterate the unprepared mind, so the High Priestess veils it in graduated degrees of revelation.

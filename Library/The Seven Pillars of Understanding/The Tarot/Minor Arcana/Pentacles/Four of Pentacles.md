@@ -30,8 +30,7 @@ The Golden Dawn reversal suggests "loss through avarice; miserliness leading to 
 The key teaching: **What you cling to, you cannot use**. The Four of Pentacles offers the opportunity to secure your foundation—but if you grasp too tightly, the resources become frozen, the wealth becomes burden, and the fortress becomes your cage. Security is meant to *support* life, not *replace* it.
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Number** | 4 - Stability, structure, foundation, the square (four corners) |
@@ -48,15 +47,14 @@ The key teaching: **What you cling to, you cannot use**. The Four of Pentacles o
 | **Dates** | January 11 - January 19 (Sun in late Capricorn) |
 
 ---
-## Divination Meanings
+## Divination Use
 **Upright:** Gain of money and influence, surety of possessions, material power secured. Savings, property, inheritance, legacy. The capacity to hold what you have earned, to defend your boundaries, to protect your resources. Financial responsibility, stewardship, prudence. But also: the beginning of hoarding, the fear of loss, the inability to give or receive freely. Security that becomes rigidity. The fortress that protects but also confines. Clinging to what is known because change feels threatening. Control prioritized over flow.
 *Keywords:* Security, possession, control, hoarding, boundaries, savings, inheritance, material power, established authority, rigidity, defensiveness, fear of loss.
 **Reversed (per Waite):** Suspense, delay, opposition. Security threatened—the fortress breached, resources lost, position undermined. Or, conversely, the grip loosened—generosity emerging, flow restored, the fortress voluntarily opened. Can also indicate reckless spending, squandered resources, or the collapse of defenses. Miserliness leading to isolation. Avarice. The king becomes the dragon, the wealth becomes the curse.
 *Keywords:* Loss of security, threat to resources, reckless spending, grip loosened, generosity (finally), isolation through hoarding, avarice, defenses collapsed.
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### The Sephirotic Lens: Chesed as Abundance Solidified
 
 **Chesed** is the fourth Sephirah, titled **Mercy** (*Chesed* in Hebrew). It is the principle of *abundance*, *generosity*, *benevolent order*—the overflowing grace of the divine, the bounty that flows without conditions.

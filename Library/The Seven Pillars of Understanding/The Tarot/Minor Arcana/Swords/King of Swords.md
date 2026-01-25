@@ -33,8 +33,7 @@ The key teaching: **Authority without compassion is tyranny**. The King of Sword
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Court Rank** | King - The Fire/commanding component, the sovereign, the authority |
@@ -50,8 +49,7 @@ The key teaching: **Authority without compassion is tyranny**. The King of Sword
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:** Intellectual authority. Sovereign judgment. The power to decide, to judge, to command. An air-sign man (Gemini, Libra, Aquarius) in a position of authority. The judge who rules by principle, not sentiment. The general who commands through strategy. The father who teaches consequence and logic. Impartial judgment—detachment in service of justice. The enforcement of boundaries and law. Militant intelligence—thought brought to bear with decisive force. Clear verdicts spoken without wavering.
 
 *Keywords:* Authority, judgment, command, intellectual sovereignty, law, justice, impartiality, decisive action, strategic mind, the verdict.
@@ -62,8 +60,7 @@ The key teaching: **Authority without compassion is tyranny**. The King of Sword
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### The Elemental Formula: Fire of Air
 
 Understanding the court cards requires understanding their **elemental formula**—the combination of the suit's element with the rank's quality.

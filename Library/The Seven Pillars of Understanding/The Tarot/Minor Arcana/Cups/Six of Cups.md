@@ -39,8 +39,7 @@ The key teaching: **The past is not a prison unless you try to live there. Remem
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Number** | 6 - Balance, harmony, integration of opposites, the hexagram |
@@ -56,8 +55,7 @@ The key teaching: **The past is not a prison unless you try to live there. Remem
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:** Nostalgia, memories of childhood, the past revisited with tenderness. Innocence recovered (not naivety, but openness). Gifts from the past—inheritance, reunion with old friends, return to a childhood home. Generosity, sharing, the gift freely given. The beginning of healing after loss.
 
 *Keywords:* Nostalgia, memory, childhood, innocence, reunion, inheritance, the past, gentleness, healing, gift-giving.
@@ -66,8 +64,7 @@ The key teaching: **The past is not a prison unless you try to live there. Remem
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### The Sephirotic Lens: Tiphareth as the Six
 
 **Tiphareth** is the sixth Sephirah, titled **Beauty** (*Tiferet* in Hebrew). It occupies the center of the Tree of Life—the heart position where all paths converge. Tiphareth is the point of balance between above and below, severity and mercy, expansion and contraction.

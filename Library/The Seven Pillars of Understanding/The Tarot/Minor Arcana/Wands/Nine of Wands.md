@@ -42,8 +42,7 @@ The key teaching: **Resilience is not the same as invulnerability.** The Nine of
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Number** | 9 - The final single digit, completion before return, the threshold, the liminal, near-completion |
@@ -61,8 +60,7 @@ The key teaching: **Resilience is not the same as invulnerability.** The Nine of
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:** Great strength, steady force that cannot be shaken. Resilience forged through adversity. Recovery from illness, injury, or setback—still wounded but functional. Vigilance born of experience—the wisdom that knows when to advance and when to conserve. Guarding one's words, resources, and energy. The expectant look—awaiting the next challenge but prepared for it. Defensive positioning—holding ground rather than advancing. The final stretch of a long ordeal. Tremendous endurance. The strength of the survivor—not unscathed but unbroken. Delay, suspension, adjournment—the pause before the final push. The watcher on the wall.
 
 *Keywords:* Resilience, endurance, vigilance, defensive strength, wounded but standing, hard-won wisdom, guarding resources, expectation of challenge, last stand, near-completion, fortitude, survivor strength, caution born of experience.
@@ -71,8 +69,7 @@ The key teaching: **Resilience is not the same as invulnerability.** The Nine of
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### The Sephirotic Lens: Yesod as the Nine
 
 **Yesod** is the ninth Sephirah, titled **Foundation** (*Yesod* in Hebrew, meaning "Foundation" or "Base"). Yesod occupies a crucial position on the Tree of Life—it is the third and final of the **Astral Triangle** (Netzach, Hod, Yesod), the realm of the Personality, and it sits directly above **Malkuth** (the Kingdom, the material world), serving as the *foundation upon which manifestation rests*.

@@ -29,8 +29,7 @@ When the Five of Pentacles appears **reversed**, Waite identifies meanings of **
 The key teaching: **Material loss reveals what is real**. The Five of Pentacles strips away the fortress of the Four, the competence of the Three, the security of the Two, the gift of the Ace. You are left with nothing but yourself—and the question: *What will you do now? Will you walk past the door, or will you knock?*
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Number** | 5 - Instability, conflict, disruption, the breaking of order |
@@ -47,15 +46,14 @@ The key teaching: **Material loss reveals what is real**. The Five of Pentacles 
 | **Dates** | April 21 - April 30 (Sun in early Taurus) |
 
 ---
-## Divination Meanings
+## Divination Use
 **Upright:** Material trouble, monetary anxiety, loss of profession or income. Poverty (literal or spiritual), illness, physical hardship. The experience of being excluded from abundance, of being on the outside while others are warm and secure inside. Homelessness (literal or metaphorical), unemployment, disability that prevents work. The dark night of material loss. But also: help is available—you are walking past the door. The sanctuary is there; you do not see it or do not believe you deserve it. The spiritual test of faith in scarcity.
 *Keywords:* Hardship, poverty, loss, illness, exclusion, material crisis, unemployment, anxiety, walking past help, spiritual test, humility needed.
 **Reversed (per Waite):** Disorder, chaos, ruin, discord, profligacy. The crisis deepens—what was unstable collapses entirely. Or, conversely, the reversal can indicate *recovery beginning*—help arrives, the door opens, the figures finally see the sanctuary. Can also indicate reckless spending that *creates* poverty, or the refusal of help due to pride.
 *Keywords:* Deepening crisis, chaos, ruin, help arrives (finally), recovery begins, pride preventing assistance, reckless spending.
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### The Sephirotic Lens: Geburah as Severity
 
 **Geburah** is the fifth Sephirah, titled **Severity** (*Geburah* in Hebrew). It is the principle of *judgment*, *correction*, *strength*, and *the removal of what is diseased or unsustainable*. Where Chesed (the fourth Sephirah) is mercy and abundance, Geburah is *severity* and *restriction*.

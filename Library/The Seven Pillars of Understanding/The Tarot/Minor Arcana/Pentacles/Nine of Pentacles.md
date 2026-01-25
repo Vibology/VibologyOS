@@ -29,8 +29,7 @@ When the Nine of Pentacles appears **reversed**, Waite identifies meanings of **
 The key teaching: **You are allowed to enjoy what you have built**. The Nine of Pentacles offers permission to claim your harvest without apology, to stand in your garden and savor the fruits of disciplined effort. Self-sufficiency is not selfishness. Solitary contentment is not isolation. You have earned this abundance—now enjoy it fully.
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Number** | 9 - Completion of a cycle, the threshold before return to unity, Yesod |
@@ -47,15 +46,14 @@ The key teaching: **You are allowed to enjoy what you have built**. The Nine of 
 | **Dates** | September 2 - September 11 (Venus in middle Virgo) |
 
 ---
-## Divination Meanings
+## Divination Use
 **Upright:** Self-sufficiency, financial independence, refined abundance. Material gain earned through your own effort, intelligence, and discipline. The capacity to enjoy what you have built without guilt or apology. Solitary contentment—complete within yourself, not dependent on external validation. Discernment, refined taste, the ability to recognize and cultivate quality. The garden you grew, the wealth you earned, the life you designed. Inheritance (not of money but of capacity—you inherit your own competence). Good faith, prudence, the pleasure of a beautiful life built on solid foundations.
 *Keywords:* Self-sufficiency, financial independence, refined abundance, solitary contentment, discernment, earned success, self-made wealth, cultivated beauty.
 **Reversed (per Waite):** Roguery, deception, bad faith, voided project. Abundance achieved through questionable means. Self-sufficiency that has curdled into isolation—fear of intimacy disguised as independence. Refinement as snobbery, using wealth to create hierarchy. The garden with locked gates. Material success that feels empty because it cannot be shared. Workaholism that prevents relationship. Discernment that has become judgment. Or: the abundance is threatened, the project fails, the self-made wealth proves less secure than hoped.
 *Keywords:* Isolation disguised as independence, materialism as defense, snobbery, bad faith, wealth that cannot be shared, overwork preventing intimacy.
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### The Sephirotic Lens: Yesod as Foundation
 
 **Yesod** is the ninth Sephirah, titled **Foundation** (*Yesod* in Hebrew). It is the principle of *the lunar sphere*—the realm where images, dreams, and potentials coalesce into manifest form. Yesod is the foundation upon which the material world (Malkuth) rests, the executive power that shapes reality from vision.

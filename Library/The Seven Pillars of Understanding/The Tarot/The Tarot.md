@@ -12,8 +12,7 @@ verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983, De Angeles 2006,
 *The Legend of the Soul* 
 
 ---
-## Introduction
-
+## Qabalistic Position
 The **Tarot** is a symbolic language encoded in 78 archetypal images, operating simultaneously as:
 
 - **A divination system** — Revealing hidden patterns, future trajectories, and unconscious dynamics
@@ -467,8 +466,7 @@ The 22 Major Arcana tell a **sequential narrative**—the soul's journey from in
 - Shadow work by pathworking difficult cards ([[15 - The Devil]], [[16 - The Tower]], [[13 - Death]])
 
 ---
-## Cross-System Correspondences
-
+## Correspondences
 ### Tarot and Astrology
 
 **Planetary Cards (7):**

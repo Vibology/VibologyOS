@@ -42,8 +42,7 @@ The key teaching: **Movement is not inherently virtue.** The Knight must learn t
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Rank** | Knight - The Active Executor, the questing warrior, immature but mobile |
@@ -64,8 +63,7 @@ The key teaching: **Movement is not inherently virtue.** The Knight must learn t
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:**
 
 The Knight of Wands as a **Person**: A young man (or young-in-spirit individual) with intense fire-sign energy (especially Sagittarius, Aries). Bold, confident, charismatic, impulsive. The adventurer, the entrepreneur, the artist who acts on inspiration immediately. Someone who inspires others through sheer force of enthusiasm and commitment. The friend who arrives suddenly with a plan ("We're going to do this—NOW"). The lover whose passion is intoxicating but whose presence is fleeting. The mentor who teaches through action rather than theory. Someone who values freedom, movement, and intensity over security, stability, or caution.
@@ -87,8 +85,7 @@ Rupture, division, discord, interruption. The Knight's energy becomes fractured 
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### Elemental Dignity Analysis: Air of Fire
 
 The Court Cards operate by combining the rank's element with the suit's element. The Knight rank is **Air**—movement, intellect, speed, communication, the realm of thought made visible.

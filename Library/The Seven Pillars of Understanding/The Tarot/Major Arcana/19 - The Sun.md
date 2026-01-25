@@ -31,8 +31,7 @@ The core teaching: **The Sun does not earn its light. It is light—and in being
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | **Attribute**            | **Correspondence**                                                                                       |
 |--------------------------|----------------------------------------------------------------------------------------------------------|
 | **Number**               | 19 (Reduction to 10/1: completion and new beginning, the return to unity after the full cycle)           |
@@ -47,8 +46,7 @@ The core teaching: **The Sun does not earn its light. It is light—and in being
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright**: Material happiness, success, contentment, joy. Fortunate marriage, partnership, collaboration. Clarity, direct illumination, the light of truth. Victory, triumph, the completion of the journey. The blessing of the Self realized. Innocence restored. The recognition that you are the light.
 
 *Keywords*: Success, happiness, joy, clarity, illumination, triumph, victory, contentment, blessing, innocence.
@@ -57,8 +55,7 @@ The core teaching: **The Sun does not earn its light. It is light—and in being
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### Hebrew Letter: Resh (ר) – The Head
 
 **Resh** means "head"—the crown, the seat of consciousness, the place where the individual "I" meets the universal "I Am." With a gematria value of **200** (2 x 100), Resh resonates with the number of **duality perfected**, the completion of the cycle of manifestation (100) doubled and returned to unity.

@@ -35,8 +35,7 @@ The reversed Magician speaks to a corrupted or blocked channel. Where the uprigh
 The key insight is that The Magician always deals with **transmission**—upright or reversed, spiritual or material, he is the conduit. The question is: what is being transmitted, and to what end?
 
 ---
-## Core Correspondences
-
+## Qabalistic Position
 | System | Correspondence |
 |--------|----------------|
 | **Number** | 1 - The first conscious act, directed will(Wang 1983 cites Crowley) |
@@ -50,8 +49,7 @@ The key insight is that The Magician always deals with **transmission**—uprigh
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:** Skill, diplomacy, focused will, mastery through practice, conscious creation, channeling higher powers, adaptation, the tools are at hand. Keywords: Agency, manifestation, technique, concentration, "As above, so below."
 
 **Reversed (per Waite):**
@@ -59,8 +57,7 @@ Mental disease, disgrace, disquiet, the physician or Magus functioning corruptly
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 **The Paradox of Transmission**
 
 The Magician's central mystery is that he is ***both that which transmits and that which is transmitted***. He is the messenger and the message itself. As the first vibration through which the One Spirit (The Fool) begins manifestation, he is simultaneously the act of creation and the creator acting. This is the ultimate paradox: in the moment of willful doing, the doer and the deed collapse into singular identity.

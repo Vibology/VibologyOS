@@ -31,8 +31,7 @@ The core teaching: **What must die, dies**. The only variable is whether you con
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | **Attribute**            | **Correspondence**                                                                                       |
 |--------------------------|----------------------------------------------------------------------------------------------------------|
 | **Number**               | 13 (The "unlucky" number, the threshold beyond the zodiacal cycle, the number of transformation)         |
@@ -48,8 +47,7 @@ The core teaching: **What must die, dies**. The only variable is whether you con
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright**: Endings, transformation, transition. The death of the old self. The close of a chapter. Time's inevitability. Letting go of what no longer serves. The dissolution that precedes rebirth. The willingness to die (psychologically, spiritually) so something truer can emerge.
 
 *Keywords*: Transformation, endings, transition, release, mortality, impermanence, regeneration, the close of a cycle.
@@ -58,8 +56,7 @@ The core teaching: **What must die, dies**. The only variable is whether you con
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### Hebrew Letter: Nun (נ) – The Fish That Sprouts
 
 **Nun** carries a dual etymology: it means "fish" (the creature of the depths, swimming in the unconscious waters) and also "to sprout" or "to grow" (the seed breaking through soil). This dual meaning encapsulates the paradox of Death: **to sprout, the seed must first rot**.

@@ -45,8 +45,7 @@ The key teaching: **The Knight must eventually arrive somewhere, or the journey 
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Rank** | Knight - The active, questing stage; motion, pursuit, the journey itself |
@@ -65,8 +64,7 @@ The key teaching: **The Knight must eventually arrive somewhere, or the journey 
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:**
 
 The Knight of Cups as a **Person**: A young man (or young-spirited person) with water-sign energy (Cancer, Scorpio, Pisces) expressed through action and pursuit. The romantic hero, the poet in motion, the artist actively pursuing their muse. Someone approaching with an offer—emotional, creative, or relational. A messenger bearing news of love, invitation, or artistic opportunity. Graceful, dreamy, aesthetically sensitive, perhaps easily influenced. The lover who appears at the threshold with a gift. The idealist in active pursuit of beauty.
@@ -87,8 +85,7 @@ Trickery, artifice, subtlety, swindling, duplicity, fraud. The reversal corrupts
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### Elemental Dignity Analysis: Air of Water
 
 The Court Cards operate according to a formula: each rank (King, Queen, Knight, Page) embodies a primary element, and each suit embodies a secondary element. The interaction between these creates the Court card's unique character.

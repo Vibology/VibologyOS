@@ -27,8 +27,7 @@ When the King of Pentacles appears **reversed**, Waite identifies meanings of **
 The key teaching: **True sovereignty is generative, not extractive**. The King of Pentacles invites you to step into mastery—not to hoard or dominate, but to *build* systems that generate prosperity for all. Real power creates wealth that flows; false power hoards wealth that stagnates. The King who builds kingdoms that outlast him is wealthier than the emperor who clutches gold that will be scattered when he dies.
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Court Rank** | King - The master, the sovereign, mature masculine authority |
@@ -42,15 +41,14 @@ The key teaching: **True sovereignty is generative, not extractive**. The King o
 | **Archetypal Role** | The Sovereign, the Master Builder, the Executive, the Provider-Father |
 
 ---
-## Divination Meanings
+## Divination Use
 **Upright:** Valor, realization, intelligence, business aptitude, mathematical and strategic gifts. Material mastery, executive competence, the capacity to build enduring prosperity. An earth-sign man (Taurus, Virgo, Capricorn) who embodies practical wisdom and generative power. The entrepreneur who builds enterprises, the executive who creates systems, the father who provides through competence. Disciplined intelligence applied to material reality. Wealth created through understanding how things work. Generosity rooted in abundance—giving because you have, not to prove you have. The throne earned through results, not inherited. Authority grounded in demonstrated competence.
 *Keywords:* Material mastery, business success, executive power, strategic intelligence, generative wealth, competent authority, the master builder.
 **Reversed (per Waite):** Vice, weakness, ugliness, perversity, corruption, peril. Mastery becomes greed—hoarding rather than building. Discipline becomes tyranny—using power to dominate. Material success achieved at cost of soul. The Midas curse—everything becomes gold, including what should remain alive. Workaholism, defining self entirely by productivity. Using wealth to control or to avoid vulnerability. Materialism as substitute for meaning. Corruption, using business for exploitation. Or: incompetence in the material realm, inability to manage resources, weakness in executing plans.
 *Keywords:* Greed, tyranny, materialism, corruption, the Midas curse, workaholism, wealth used to dominate, incompetence.
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### The Elemental Formula: Fire of Earth
 
 In the Golden Dawn system, Kings are associated with **Fire**—the element of will, creativity, sovereignty, and active force. The King of *Pentacles* channels this Fire energy through the *Earth* suit, creating **Fire of Earth**—will manifesting as tangible reality, creative force applied to material building, sovereignty expressed through mastery of resources.

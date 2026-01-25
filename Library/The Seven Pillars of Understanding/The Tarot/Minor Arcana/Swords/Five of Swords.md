@@ -38,8 +38,7 @@ The key teaching: **Some victories are worse than defeat**. The Five of Swords i
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Number** | 5 - Conflict, instability, disruption of the four's stability |
@@ -56,8 +55,7 @@ The key teaching: **Some victories are worse than defeat**. The Five of Swords i
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:** Defeat, dishonor, degradation. Hollow victory—you won but lost what mattered. Humiliation, shame, the experience of being vanquished. Intellectual cruelty, using words as weapons. Arguments that destroy relationships. Winning at any cost. Gloating, schadenfreude. The battlefield where everyone loses. Treachery, unfair tactics. Being cheated. Having your weakness exploited.
 
 *Keywords:* Defeat, dishonor, hollow victory, humiliation, cruelty, Pyrrhic victory, isolation, winning at any cost, treachery, degradation.
@@ -68,8 +66,7 @@ The key teaching: **Some victories are worse than defeat**. The Five of Swords i
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### The Sephirotic Lens: Geburah in Yetzirah
 
 **Geburah** is the fifth Sephirah, titled **Severity** (*Geburah* in Hebrew, also called *Din*, "Judgment," or *Pachad*, "Fear"). It represents the principle of *necessary destruction*—the surgeon's knife, the warrior's sword, the pruning shear that cuts away what is diseased so that life can continue.

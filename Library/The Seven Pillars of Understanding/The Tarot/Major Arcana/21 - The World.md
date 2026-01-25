@@ -31,8 +31,7 @@ The core teaching: **The World is not the destination. It is the pause before th
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | **Attribute**            | **Correspondence**                                                                                       |
 |--------------------------|----------------------------------------------------------------------------------------------------------|
 | **Number**               | 21 (Reduction to 3: the triad, synthesis, the emergence of the Third from the union of opposites)        |
@@ -47,8 +46,7 @@ The core teaching: **The World is not the destination. It is the pause before th
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright**: Assured success, completion, fulfillment. Recompense for efforts, the harvest gathered. Voyage, travel, change of place (physical or metaphorical). The synthesis of all that was learned. The mandala of the Self, the integration of all opposites. The dance that contains all movement. Cosmic citizenship, the recognition of one's place in the whole.
 
 *Keywords*: Completion, success, fulfillment, synthesis, integration, travel, the harvest, the dance, wholeness.
@@ -57,8 +55,7 @@ The core teaching: **The World is not the destination. It is the pause before th
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### Hebrew Letter: Tau (ת) – The Cross / The Seal
 
 **Tau** is the **final letter** of the Hebrew alphabet—the last, the omega, the seal that closes the circle. With a gematria value of **400** (the largest single-letter value in Hebrew), Tau represents **completion through manifestation**, the fullness of form, the end of the cycle.

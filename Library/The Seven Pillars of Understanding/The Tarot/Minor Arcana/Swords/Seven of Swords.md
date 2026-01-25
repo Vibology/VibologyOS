@@ -38,8 +38,7 @@ The key teaching: **Cunning can win battles, but it cannot build trust**. The Se
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Number** | 7 - Analysis, reflection, the lone seeker, the quest |
@@ -56,8 +55,7 @@ The key teaching: **Cunning can win battles, but it cannot build trust**. The Se
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:** Cunning, strategy, stealth. The use of cleverness to achieve goals. Deception—by you or against you. Taking what you need through indirect means. Partial success (getting some, but not all, of what you seek). Spy, scout, reconnaissance. Independent action. Getting away with something. Avoiding confrontation through cleverness. The necessary lie. Unreliable behavior. Plans that may not succeed.
 
 *Keywords:* Cunning, strategy, stealth, deception, partial success, cleverness, the trickster, indirect action, unreliable, sneaking.
@@ -68,8 +66,7 @@ The key teaching: **Cunning can win battles, but it cannot build trust**. The Se
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### The Sephirotic Lens: Netzach in Yetzirah
 
 **Netzach** is the seventh Sephirah, titled **Victory** (*Netzach* in Hebrew, also meaning "Eternity" or "Endurance"). It represents the principle of *emotional victory*—the triumph that comes through desire, persistence, and the refusal to give up.

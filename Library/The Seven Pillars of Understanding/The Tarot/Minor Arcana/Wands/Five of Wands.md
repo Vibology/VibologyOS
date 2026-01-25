@@ -39,8 +39,7 @@ The key teaching: **Strife is the crucible. What emerges depends on whether you 
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Number** | 5 - Disruption, challenge, instability, the breaking of symmetry |
@@ -56,8 +55,7 @@ The key teaching: **Strife is the crucible. What emerges depends on whether you 
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:** Strife, conflict, competition, struggle, obstacles. Mimic warfare, contests of skill or will. Verbal disputes, arguments, quarrels. Multitasking that creates chaos rather than progress. Energy abundant but uncoordinated. The exhausting experience of trying to move forward while others block your path—or while you block your own path with scattered attention. Affairs of honor, proving yourself, establishing hierarchy through contest.
 
 *Keywords:* Conflict, competition, struggle, strife, challenge, friction, rivalry, scattered energy, chaos, testing.
@@ -66,8 +64,7 @@ The key teaching: **Strife is the crucible. What emerges depends on whether you 
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### The Sephirotic Lens: Geburah as the Five
 
 **Geburah** is the fifth Sephirah, titled **Severity** (*Gevurah* in Hebrew, also spelled Geburah). It is the left pillar of the Tree of Life—the pillar of form, judgment, and restriction. Where Chesed (the fourth Sephirah, Mercy) is expansive and giving, Geburah is *contracting and cutting*. Geburah is the principle of necessary destruction.

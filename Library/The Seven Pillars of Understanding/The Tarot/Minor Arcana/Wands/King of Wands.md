@@ -42,8 +42,7 @@ The key teaching: **Sovereignty is responsibility, not license.** The King must 
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Rank** | King - The Sovereign Commander, mature and active, initiating and transforming |
@@ -64,8 +63,7 @@ The key teaching: **Sovereignty is responsibility, not license.** The King must 
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:**
 
 The King of Wands as a **Person**: A mature man (or masculine-identified person, or anyone embodying mature masculine creative energy) with fire-sign dominance—often Aries, Leo, or Sagittarius, or with strong Mars/Sun placements. Commanding presence, natural authority, visionary clarity. The entrepreneur who builds empires, the CEO who transforms industries, the general who leads through strategy and charisma, the creative director whose vision defines the field, the father who raises confident, autonomous children through firm love and high standards. Honest, noble, generous with those who earn his respect. Fierce in pursuit of his vision but just in his dealings. Strategic, decisive, relentless in execution. Someone who *creates* rather than *manages*, who *initiates* rather than *maintains*, who *transforms* reality through will and vision. The leader others follow not out of obligation but because his vision is compelling and his confidence is contagious.
@@ -103,8 +101,7 @@ The King of Wands as a **Process** or **Energy**: Visionary leadership in action
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### Elemental Dignity Analysis: Fire of Fire
 
 The King rank is **Fire**—the element of will, spirit, transformation, initiation, and sovereignty. Fire is the active, masculine, initiating principle—the spark that ignites creation, the flame that transforms.

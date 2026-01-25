@@ -42,8 +42,7 @@ The key teaching: **Love perfected is love that has survived its own imperfectio
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Number** | 10 - Completion, Malkuth (Kingdom), the end that seeds the beginning |
@@ -59,8 +58,7 @@ The key teaching: **Love perfected is love that has survived its own imperfectio
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:** Perfected success. Complete happiness. Lasting fulfillment. Family harmony. Emotional completion. The "happily ever after" achieved through work, not luck. The home established. The community formed. Love that has proven itself through time.
 
 The Ten of Cups appears when the emotional journey reaches its destination—not a destination of stasis, but of *flourishing*. This is not one good day; this is a *good life*. The structures of happiness are in place: relationships that nourish, a home that shelters, a community that holds.
@@ -83,8 +81,7 @@ In practical readings, the Ten of Cups indicates:
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### The Sephirotic Lens: Malkuth as the Ten
 
 **Malkuth** is the tenth Sephirah, titled **Kingdom** (*Malkuth* in Hebrew). It is the final station on the Tree of Life—the point where all the higher forces crystallize into material reality. Malkuth is the body, the earth, the physical world, the Kingdom where spirit finally *lands*.

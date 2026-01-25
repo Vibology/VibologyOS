@@ -29,8 +29,7 @@ When the Seven of Pentacles appears **reversed**, Waite identifies meanings of *
 The key teaching: **Most projects are abandoned in the final stretch**. The Seven of Pentacles is the test of *perseverance*—can you endure the space between planting and harvest? Can you trust that growth is happening even when you cannot see it accelerating? Can you resist the temptation to pull up the roots to check if they're growing?
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Number** | 7 - The spiritual number, the test, the pause for reflection |
@@ -47,15 +46,14 @@ The key teaching: **Most projects are abandoned in the final stretch**. The Seve
 | **Dates** | May 11 - May 20 (Sun in late Taurus) |
 
 ---
-## Divination Meanings
+## Divination Use
 **Upright:** Modest gain after significant labor. The pause to assess progress. Patience required—the harvest is not yet ready. Investment of time, energy, or money that has not yet yielded full returns. Cultivation mid-cycle: the crop is growing, but you must wait. Contemplation of whether the effort is worthwhile. The temptation to quit just before success. Trust in process. The 70-80% completion point where doubt arises. "Almost there"—but not quite.
 *Keywords:* Patience, assessment, waiting, cultivation, delayed reward, investment not yet mature, temptation to quit, trust in process, "almost there."
 **Reversed (per Waite):** Anxiety about money to be lent or invested. Imprudence, impatience leading to loss. Abandoning the project just before harvest. Harvesting too early (destroying potential). Paralysis by analysis—obsessive assessment prevents action. Refusal to trust process. Loss through premature withdrawal. Chronic dissatisfaction with progress.
 *Keywords:* Impatience, premature quitting, anxiety, overthinking, disappointment, loss through timing, abandonment before completion.
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### The Sephirotic Lens: Netzach as Victory Delayed
 
 **Netzach** is the seventh Sephirah, titled **Victory** (*Netzach* in Hebrew). It is the principle of *endurance*, *perseverance*, *the capacity to sustain effort over time*. Netzach is the artist's dedication, the lover's faithfulness, the warrior's refusal to surrender.

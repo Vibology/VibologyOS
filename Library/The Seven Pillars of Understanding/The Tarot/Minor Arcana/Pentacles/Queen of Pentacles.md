@@ -27,8 +27,7 @@ When the Queen of Pentacles appears **reversed**, Waite identifies meanings of *
 The key teaching: **True wealth is generative, not hoarded**. The Queen of Pentacles invites you to sit in the garden, to tend what grows, to use your resources to nurture life—your own body, your relationships, your community. Abundance is not meant to be clutched but *shared*, not accumulated but *flowing*, like water nourishing earth.
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Court Rank** | Queen - The nurturer, the throne, the one who manifests and sustains |
@@ -42,15 +41,14 @@ The key teaching: **True wealth is generative, not hoarded**. The Queen of Penta
 | **Archetypal Role** | The Earth Mother, the Provider, the Hostess, the Gardener |
 
 ---
-## Divination Meanings
+## Divination Use
 **Upright:** Opulence, generosity, magnificence, security, liberty. Practical nurturing, the capacity to provide for oneself and others. An earth-sign woman (Taurus, Virgo, Capricorn) who is both competent and kind, wealthy and generous. The mother who ensures everyone is fed, the hostess who creates abundance, the gardener who tends what grows. Embodied wisdom—knowing through the senses, through the body. Financial security achieved through both skill and care. The one who makes material success *feel* warm, welcoming, abundant. Sensual pleasure without guilt. The throne in the garden—authority resting on tangible results.
 *Keywords:* Nurturing abundance, practical generosity, embodied care, financial security, the Earth Mother, provision, sensual wisdom, the generous host.
 **Reversed (per Waite):** Evil, suspicion, suspense, fear, mistrust. Nurturing becomes smothering or manipulative—using care to control or prevent independence. Generosity with strings attached. Materialism—hoarding wealth rather than sharing it, or using provision to dominate others. Neglect of body or home—disconnection from the physical, refusal to tend what matters. Greed disguised as need. Or: fear of scarcity that prevents generosity, suspicion that poisons relationships, the home that feels like prison rather than sanctuary.
 *Keywords:* Smothering care, materialism, control through provision, neglect of body/home, greed, fear of scarcity, abundance withheld.
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### The Elemental Formula: Water of Earth
 
 In the Golden Dawn system, Queens are associated with **Water**—the element of emotion, nurturing, intuition, and receptivity. The Queen of *Pentacles* channels this Water energy through the *Earth* suit, creating **Water of Earth**—emotion grounding matter, love expressed through tangible provision, care manifesting as abundance.

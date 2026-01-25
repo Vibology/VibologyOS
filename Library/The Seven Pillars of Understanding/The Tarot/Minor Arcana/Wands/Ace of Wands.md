@@ -35,8 +35,7 @@ The key teaching: **The Ace of Wands is an offer, not a guarantee**. The creativ
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Number** | 1 (Ace) - Unity, the monad, undifferentiated potential, the beginning |
@@ -53,8 +52,7 @@ The key teaching: **The Ace of Wands is an offer, not a guarantee**. The creativ
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:** Birth, invention, creation, enterprise, beginning, source, the powers that result in action. A surge of creative or entrepreneurial energy. New projects, new ventures, new life. The spark of inspiration that demands immediate action. Vitality, potency, the phallus, the inseminating principle. The gift of creative force from the divine.
 
 *Keywords:* Initiative, beginning, creation, spark, will, potency, enterprise, invention, ignition, vitality.
@@ -63,8 +61,7 @@ The key teaching: **The Ace of Wands is an offer, not a guarantee**. The creativ
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### The Sephirotic Lens: Kether as the Ace
 
 **Kether** is the first Sephirah, titled **Crown** (*Kether* in Hebrew). It is the initial point of manifestation, the first stirring of the Unmanifest into form. Kether is not "God" (which would be the Ain Soph, the Limitless beyond the Tree), but the *first emanation* of divinity—the point at which "nothing" becomes "something."

@@ -29,8 +29,7 @@ When the Eight of Pentacles appears **reversed**, Waite identifies meanings of *
 The key teaching: **Mastery is not talent—it is commitment to daily practice**. The Eight of Pentacles offers the path to excellence: show up, focus, do the work with care, repeat. There is no shortcut, no hack, no secret. Only the bench, the tools, and the willingness to practice one more time.
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Number** | 8 - Mastery, accomplishment, the octave, perfect balance |
@@ -47,15 +46,14 @@ The key teaching: **Mastery is not talent—it is commitment to daily practice**
 | **Dates** | August 23 - September 1 (Sun in early Virgo) |
 
 ---
-## Divination Meanings
+## Divination Use
 **Upright:** Skill, craftsmanship, mastery through practice. Dedicated work, focus, absorption in the craft. The artisan perfecting technique through repetition. Employment, apprenticeship completed, professional competence. Prudence, attention to detail, doing the work right. Flow state—losing self in the work. The satisfaction of a job well done. Excellence built one repetition at a time. Work as meditation, craft as spiritual practice.
 *Keywords:* Mastery, skill, craftsmanship, practice, dedication, focus, attention to detail, flow state, work ethic, professional competence.
 **Reversed (per Waite):** Voided ambition, vanity, skill misused. Usury, cunning, intrigue—using craft to exploit. Perfectionism that prevents completion. Workaholism, craft without joy. Obsession with detail that misses the whole. Skill used to control or prove worth. Work that has become mechanical, soulless.
 *Keywords:* Perfectionism, workaholism, skill misused, exploitation, obsession with detail, joyless work, paralysis by analysis.
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### The Sephirotic Lens: Hod as Form and Pattern
 
 **Hod** is the eighth Sephirah, titled **Splendor** (*Hod* in Hebrew). It is the principle of *intellect*, *pattern*, *form*, and *communication*—the capacity to perceive structure, to replicate patterns, to master technique through understanding.

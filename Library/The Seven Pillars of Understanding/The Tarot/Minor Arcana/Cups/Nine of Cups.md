@@ -42,8 +42,7 @@ The key teaching: **Gratitude is the practice of recognizing that abundance is a
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Number** | 9 - Culmination, the penultimate stage, Yesod (Foundation), the Moon's number |
@@ -59,8 +58,7 @@ The key teaching: **Gratitude is the practice of recognizing that abundance is a
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:** Complete success. Wishes fulfilled. Contentment. Material happiness. Physical well-being and satisfaction. The "wish card"—when the Nine appears, what you have hoped for is arriving or has already arrived. Concord in relationships. Victory and advantage. Self-satisfaction that is *earned*, not merely assumed.
 
 The Nine of Cups appears when you have aligned your desires with reality and reality has *responded*. This is not the fleeting pleasure of indulgence, nor the illusory satisfaction of fantasy—this is the *real thing*. You asked; you received. The appropriate response is gratitude.
@@ -85,8 +83,7 @@ The reversed Nine can also signify:
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### The Sephirotic Lens: Yesod as the Nine
 
 **Yesod** is the ninth Sephirah, titled **Foundation** (*Yesod* in Hebrew). It is the sphere of the Moon, of the astral plane, of images and dreams—the *foundation* upon which material reality (Malkuth) is built. Yesod is where thoughts and emotions crystallize into the forms that will eventually manifest in the physical world.

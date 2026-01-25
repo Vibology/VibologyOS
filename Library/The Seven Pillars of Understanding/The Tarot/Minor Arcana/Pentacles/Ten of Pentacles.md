@@ -29,8 +29,7 @@ When the Ten of Pentacles appears **reversed**, Waite identifies meanings of **c
 The key teaching: **True wealth serves generations**. The Ten of Pentacles invites you to think beyond your individual lifespan—to build structures that will endure, to steward abundance as covenant (received, built upon, passed forward), to recognize that the highest form of material success is that which nourishes those who come after you.
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Number** | 10 - Completion, return to unity, Malkuth, the Kingdom established |
@@ -47,15 +46,14 @@ The key teaching: **True wealth serves generations**. The Ten of Pentacles invit
 | **Dates** | September 12 - September 22 (Mercury in late Virgo) |
 
 ---
-## Divination Meanings
+## Divination Use
 **Upright:** Wealth, riches, family matters, inheritance, legacy. Material success that endures across generations. The family home, the estate, the business passed from parent to child. Archives—the record of what has been built. Permanence, stability, structures that outlast the individual. Generational prosperity, dynasty. Abundance shared across time. The patriarch/matriarch blessing those who come after. Security so established it becomes foundation for future generations. Dwelling, property, the place where family gathers.
 *Keywords:* Generational wealth, legacy, inheritance, family prosperity, dynasty, permanence, archives, property, tradition that serves.
 **Reversed (per Waite):** Chance, fatality, loss, robbery. The dynasty collapses, the inheritance squandered or stolen. Family discord, the system breaks under its own weight. Tradition becomes prison—the heir trapped by expectation. Wealth mismanaged, legacy lost. The burden of inheritance that crushes rather than supports. Clinging to structures that no longer serve. The old refusing to make way for the new. Or: material loss through chance, robbery, market collapse—the supposedly permanent proving fragile.
 *Keywords:* Dynasty collapse, squandered inheritance, family discord, tradition as prison, wealth mismanaged, legacy lost, burden of expectation.
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### The Sephirotic Lens: Malkuth as Kingdom
 
 **Malkuth** is the tenth Sephirah, titled **Kingdom** (*Malkuth* in Hebrew). It is the principle of *the material world itself*—the final crystallization of divine energy into physical form, earth, matter, manifestation complete.

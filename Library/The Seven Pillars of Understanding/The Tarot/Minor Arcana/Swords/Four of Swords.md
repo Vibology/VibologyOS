@@ -38,8 +38,7 @@ The key teaching: **Rest is not retreat—it is the gathering of strength**. The
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Number** | 4 - Stability, structure, foundation, completion of first cycle |
@@ -56,8 +55,7 @@ The key teaching: **Rest is not retreat—it is the gathering of strength**. The
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:** Rest, retreat, recovery. Strategic withdrawal from conflict. Convalescence after illness or crisis. Meditation, contemplation, the hermit's solitude. Sanctuary. The wisdom to stop fighting. Hospital, retreat center, monastery. Time away from the fray. Sabbath. Sleep. Healing through stillness. Mental peace after mental struggle.
 
 *Keywords:* Rest, retreat, recovery, sanctuary, convalescence, meditation, stillness, strategic withdrawal, sabbath, healing, peace.
@@ -68,8 +66,7 @@ The key teaching: **Rest is not retreat—it is the gathering of strength**. The
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### The Sephirotic Lens: Chesed in Yetzirah
 
 **Chesed** is the fourth Sephirah, titled **Mercy** (*Chesed* in Hebrew, sometimes called *Gedulah*, "Greatness"). It represents the first Sephirah below the Abyss, the beginning of manifest creation, the principle of *benevolent ordering* that establishes stability and peace.

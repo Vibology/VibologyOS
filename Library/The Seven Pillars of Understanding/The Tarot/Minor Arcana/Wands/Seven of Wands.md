@@ -42,8 +42,7 @@ The key teaching: **Valor requires discernment.** The Seven of Wands asks: *What
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Number** | 7 - The spiritual seeker, the unique, the one who stands apart, the mystic number |
@@ -61,8 +60,7 @@ The key teaching: **Valor requires discernment.** The Seven of Wands asks: *What
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:** Valor, courage, defiant defense. Success through holding the vantage position. Standing firm against opposition, challenge, or criticism. Strategic advantage—high ground (literal or metaphorical). Discussions, wordy strife, negotiations, competition, war of trade. The willingness to stand alone when your position is correct. Defending boundaries, principles, or creative work. The courage to be unpopular when integrity demands it. Long-distance communication or defense across space/time (telephone, internet, defending your position from afar).
 
 *Keywords:* Valor, defense, high ground, strategic advantage, standing firm, courage under fire, outnumbered but not outmatched, holding the line, boundary defense, competitive positioning, refusing to yield.
@@ -71,8 +69,7 @@ The key teaching: **Valor requires discernment.** The Seven of Wands asks: *What
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### The Sephirotic Lens: Netzach as the Seven
 
 **Netzach** is the seventh Sephirah, titled **Victory** (*Netzach* in Hebrew, also translated as "Firmness," "Eternity," or "Endurance"). Netzach occupies a crucial position on the Tree of Life—it is the first of the **Astral Triangle** (Netzach, Hod, Yesod), the realm of the Personality, the sphere where divine forces begin to take on more individuated, less universal form.

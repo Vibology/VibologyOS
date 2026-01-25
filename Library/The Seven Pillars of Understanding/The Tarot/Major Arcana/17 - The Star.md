@@ -31,8 +31,7 @@ The core teaching: **The Star does not promise that suffering will end. She prom
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | **Attribute**            | **Correspondence**                                                                                       |
 |--------------------------|----------------------------------------------------------------------------------------------------------|
 | **Number**               | 17 (Reduction to 8: the number of power, mastery, and the infinite loop of renewal)                     |
@@ -48,8 +47,7 @@ The core teaching: **The Star does not promise that suffering will end. She prom
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright**: Hope, faith, inspiration, renewal. Unexpected help, gifts of the spirit. The promise of healing after trauma. Grace, serenity, openness to the new. The vision of what could be. Post-traumatic growth. The sense that unseen forces are working in your favor. The willingness to begin again after devastation.
 
 *Keywords*: Hope, renewal, faith, inspiration, healing, grace, serenity, unexpected help, gifts, post-traumatic growth.
@@ -58,8 +56,7 @@ The core teaching: **The Star does not promise that suffering will end. She prom
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### Hebrew Letter: Tzaddi (צ) – The Fish Hook
 
 **Tzaddi** means "fish hook"—the tool that draws the hidden to the surface, that catches what swims in the depths. With a gematria value of **90**, Tzaddi resonates with the number of **completion through tens** (9 x 10), the perfection of the manifest world, the fulfillment of cycles.

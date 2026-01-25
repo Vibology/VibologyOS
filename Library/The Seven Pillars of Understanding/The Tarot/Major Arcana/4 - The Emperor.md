@@ -35,8 +35,7 @@ The reversed Emperor speaks to authority corrupted or authority abdicated. "Bene
 The key insight is that The Emperor always deals with **the right use of power**—upright or reversed, he governs the relationship between authority and service. The question is: does your power serve life, or does it serve ego?
 
 ---
-## Core Correspondences
-
+## Qabalistic Position
 | System | Correspondence |
 |--------|----------------|
 | **Number** | 4 - Stability, foundation, the four corners of manifestation(Wang 1983 cites Crowley) |
@@ -51,8 +50,7 @@ The key insight is that The Emperor always deals with **the right use of power**
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:** Stability, power, authority, protection, leadership, structure, paternal energy, law and order, realization, conviction, dominion, the establishment of civilization. Keywords: Sovereignty, governance, discipline, strength through organization.
 
 **Reversed (per Waite):**
@@ -60,8 +58,7 @@ Benevolence and compassion misapplied, confusion to enemies, obstruction, immatu
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 **Heh as Window: The Passage for Light**
 
 Heh means "Window"—not a door like Daleth (The Empress), but a transparent opening through which light passes. A window allows vision in both directions: looking out to survey the kingdom, looking in to reveal what is sheltered. The Emperor as Heh represents *sight*—the capacity to see pattern, to perceive structure, to recognize law.

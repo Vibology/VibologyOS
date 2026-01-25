@@ -38,8 +38,7 @@ The key teaching: **Sorrow is not the enemy of wisdom—it is the doorway**. The
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Number** | 3 - Synthesis, first completion, the triangle, the third term |
@@ -56,8 +55,7 @@ The key teaching: **Sorrow is not the enemy of wisdom—it is the doorway**. The
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:** Heartbreak, sorrow, grief. The pain of clarity—seeing what you did not want to see, knowing what you did not want to know. Separation, loss, rupture. Betrayal—by a partner, a friend, or by your own illusions. The end of a relationship, a belief, a chapter. Tears that need to fall. Surgery of the soul. The wound that teaches. Necessary suffering.
 
 *Keywords:* Heartbreak, grief, sorrow, separation, betrayal, loss, disillusionment, rupture, tears, surgery, initiation through pain.
@@ -68,8 +66,7 @@ The key teaching: **Sorrow is not the enemy of wisdom—it is the doorway**. The
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### The Sephirotic Lens: Binah in Yetzirah
 
 **Binah** is the third Sephirah, titled **Understanding** (*Binah* in Hebrew). It represents the Great Mother, the Sea from which all form arises, the principle of *limitation* that gives shape to the unlimited.

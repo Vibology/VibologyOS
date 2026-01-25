@@ -36,8 +36,7 @@ The key teaching: **The Ace of Swords is a power, not a verdict**. The mental fo
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Number** | 1 (Ace) - Unity, the monad, undifferentiated potential, the beginning |
@@ -54,8 +53,7 @@ The key teaching: **The Ace of Swords is a power, not a verdict**. The mental fo
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:** Triumph, conquest, the power of the intellect to cut through complexity and see with absolute clarity. Victory achieved through reason, strategy, and the disciplined mind. Mental breakthrough, the "aha" moment, sudden insight. The power to speak truth, to name what has been unspoken, to sever what must be severed. Legal victory. New ideas. The beginning of intellectual enterprise. A great force invoked.
 
 *Keywords:* Clarity, truth, breakthrough, decision, conquest, intellect, precision, discrimination, invoked force, victory of mind.
@@ -66,8 +64,7 @@ The key teaching: **The Ace of Swords is a power, not a verdict**. The mental fo
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### The Sephirotic Lens: Kether as the Ace
 
 **Kether** is the first Sephirah, titled **Crown** (*Kether* in Hebrew). It is the initial point of manifestation, the first stirring of the Unmanifest into form. Kether is not "God" (which would be the Ain Soph, the Limitless beyond the Tree), but the *first emanation* of divinity—the point at which "nothing" becomes "something."

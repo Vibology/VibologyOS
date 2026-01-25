@@ -30,8 +30,7 @@ The Golden Dawn reversal indicates "trouble through change; instability; loss th
 The key teaching: **Balance in the material world is an active practice, not a passive state**. The Two of Pentacles offers the gift of adaptability—but you must *use* that gift. If you let the rhythm falter, the balance fails. If you try to hold still in a world that moves, you will fall.
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Number** | 2 - Duality, polarity, balance, choice between opposites |
@@ -48,15 +47,14 @@ The key teaching: **Balance in the material world is an active practice, not a p
 | **Dates** | December 22 - December 31 (Sun in early Capricorn) |
 
 ---
-## Divination Meanings
+## Divination Use
 **Upright:** Harmonious change, dynamic balance, skillful juggling of multiple priorities. The capacity to adapt to shifting circumstances while maintaining equilibrium. Work-life balance achieved through flexibility, not rigidity. Pleasant communications, good news in writing, favorable correspondence. Recreation, play, joy found in the dance of managing complexity. Financial or practical affairs kept in motion—income and expenses balanced through active management. Multitasking with grace. The recognition that change is opportunity, not threat.
 *Keywords:* Balance, flexibility, adaptability, juggling, harmonious change, multitasking, playfulness, flow, dynamic stability, skillful management.
 **Reversed (per Waite):** Enforced gaiety, false cheerfulness, simulated enjoyment. The juggling becomes burdensome; the balance becomes precarious or collapses. Trouble through change, instability, loss through fluctuation. Difficulty maintaining equilibrium. Chronic busyness as avoidance—staying in motion to avoid commitment or stillness. Overwhelm disguised as competence. The ships capsize; the juggler drops the balls. Change becomes chaos rather than harmony.
 *Keywords:* Overwhelm, false cheerfulness, instability, chaos, precarious balance, avoidance, inability to commit, dropped responsibilities, scattered energy.
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### The Sephirotic Lens: Chokmah as Dynamic Wisdom
 
 **Chokmah** is the second Sephirah, titled **Wisdom** (*Chokmah* in Hebrew). It is the first *differentiation* of unity—the moment when the single point (Kether) extends into a line, when the monad becomes dyad, when "I AM" becomes "I AM THIS" (implying "and not that").

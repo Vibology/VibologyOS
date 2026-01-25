@@ -36,8 +36,7 @@ The key teaching: **The Ace of Cups is an invitation, not a guarantee**. Grace i
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Number** | 1 (Ace) - Unity, the monad, undifferentiated potential, the source |
@@ -54,8 +53,7 @@ The key teaching: **The Ace of Cups is an invitation, not a guarantee**. Grace i
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:** Fertility, productiveness, beauty, pleasure, happiness. The beginning of love—not merely romantic, but any relationship where the heart genuinely opens. New emotional connections, spiritual awakening, creative inspiration from the depths. The gift of grace from the divine. Intuition activated, psychic receptivity heightened. The capacity to *feel* restored after a period of numbness.
 
 *Keywords:* Love, grace, receptivity, fertility, spiritual awakening, emotional beginning, intuition, the heart opening, abundance of feeling.
@@ -66,8 +64,7 @@ The key teaching: **The Ace of Cups is an invitation, not a guarantee**. Grace i
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### The Sephirotic Lens: Kether as the Ace
 
 **Kether** is the first Sephirah, titled **Crown** (*Kether* in Hebrew). It is the initial point of manifestation, the first stirring of the Unmanifest into form. Kether is not "God" (which would be the Ain Soph, the Limitless beyond the Tree), but the *first emanation* of divinity—the point at which "nothing" becomes "something."

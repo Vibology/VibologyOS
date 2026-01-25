@@ -35,8 +35,7 @@ The reversed Lovers speak to union thwarted—by external circumstance, internal
 The key insight is that The Lovers always deal with **the paradox of union through differentiation**—upright or reversed, they govern the mystery that true joining requires distinct identities, that love emerges from two who remain two yet become one.
 
 ---
-## Core Correspondences
-
+## Qabalistic Position
 | System | Correspondence |
 |--------|----------------|
 | **Number** | 6 - The hexagram, balance of opposites, perfect harmony(Wang 1983 cites Crowley) |
@@ -51,8 +50,7 @@ The key insight is that The Lovers always deal with **the paradox of union throu
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:** Love, attraction, choice, union, beauty, harmony, trials overcome, the Royal Marriage, inspiration, conscious commitment, integration of opposites, human love as spiritual path. Keywords: Choice, partnership, sacred union, discrimination.
 
 **Reversed (per Waite):**
@@ -60,8 +58,7 @@ Failure, foolish designs, marriage frustrated, contrarieties of all kinds. Wrong
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 **Zayin as Sword: The Cut That Unites**
 
 Zayin means "Sword" or "Weapon"—the instrument of division, the blade that cuts through confusion to reveal truth. The Lovers as Zayin represent the paradox that **discrimination is the prerequisite for union**. You cannot join what you cannot distinguish; you cannot choose what you cannot differentiate.

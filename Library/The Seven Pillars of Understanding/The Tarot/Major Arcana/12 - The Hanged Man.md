@@ -31,8 +31,7 @@ The core gift of The Hanged Man is this: **what cannot be reached by climbing mu
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | **Attribute**            | **Correspondence**                                                                                       |
 |--------------------------|----------------------------------------------------------------------------------------------------------|
 | **Number**               | 12 (Reduction to 3: the triad, the synthesis, the "Third" that emerges from duality)                    |
@@ -47,8 +46,7 @@ The core gift of The Hanged Man is this: **what cannot be reached by climbing mu
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright**: Enforced sacrifice, suspension, detachment, trials. Wisdom through surrender. The pause that precedes revelation. Intuition, prophecy, divination—insight gained not by seeking but by *ceasing to seek*. A period of waiting that feels like stuckness but is actually gestation.
 
 *Keywords*: Surrender, sacrifice, waiting, new perspective, letting go, suspended animation, spiritual awakening through ordeal.
@@ -57,8 +55,7 @@ The core gift of The Hanged Man is this: **what cannot be reached by climbing mu
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### Hebrew Letter: Mem (מ) – The Maternal Waters
 
 **Mem** means "Water"—the element that dissolves all form, erases all boundary, returns all differentiation to oceanic unity. With a gematria value of **40**, Mem carries the symbolism of **trial and purification**: the 40 days of the Flood, the 40 years in the wilderness, the 40 days of Christ's temptation. It is the number of necessary ordeal—the time required for transformation to complete.

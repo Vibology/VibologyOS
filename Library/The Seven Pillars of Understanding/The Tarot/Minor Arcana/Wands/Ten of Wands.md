@@ -42,8 +42,7 @@ The key teaching: **Completion is not worth your destruction.** The Ten of Wands
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Number** | 10 - Completion, the return to unity (1+0=1), the full cycle, manifestation in matter |
@@ -61,8 +60,7 @@ The key teaching: **Completion is not worth your destruction.** The Ten of Wands
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:** Oppression, heavy burden, overwhelming responsibility. Carrying too much—physically, emotionally, mentally, spiritually. Shouldering work that should be shared or delegated. The exhaustion of success—the business that grows until it consumes you, the project that expands until it crushes you. Moving things from place to place (logistics, management, coordination). Crude material force—fire turned to ash, spirit turned to weight. Difficulties and contradictions in business. Perils, anxieties, toil. A severe and perhaps improbable burden. The inability to say "no" to new demands. The belief that "if I don't do it, it won't get done." Martyrdom disguised as service. The savior complex. Unsustainable workload. Near the destination but bent under the load. One more push—but at what cost?
 
 *Keywords:* Oppression, overburdening, excessive responsibility, carrying too much, exhaustion of success, unsustainable workload, inability to delegate, the weight of achievement, burnout, the burden that obscures vision, near-completion but crushed, Atlas complex.
@@ -71,8 +69,7 @@ The key teaching: **Completion is not worth your destruction.** The Ten of Wands
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### The Sephirotic Lens: Malkuth as the Ten
 
 **Malkuth** is the tenth and final Sephirah, titled **The Kingdom** (*Malkuth* in Hebrew, meaning "Kingdom" or "Sovereignty"). Malkuth occupies the lowest position on the Tree of Life—it is the *material world*, the *physical plane*, the realm where all the emanations from the higher Sephiroth finally *manifest* in dense, tangible form.

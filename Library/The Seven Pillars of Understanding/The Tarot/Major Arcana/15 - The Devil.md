@@ -31,8 +31,7 @@ The core teaching: **What you resist, persists. What you integrate, liberates.**
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | **Attribute**            | **Correspondence**                                                                                       |
 |--------------------------|----------------------------------------------------------------------------------------------------------|
 | **Number**               | 15 (Reduction to 6: the number of beauty, harmony, and the reconciliation of opposites—inverted)         |
@@ -48,8 +47,7 @@ The core teaching: **What you resist, persists. What you integrate, liberates.**
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright**: Bondage, temptation, materialism, addiction. Enslavement to desire, whether for pleasure, power, or possessions. Compulsion, obsession, the ego's attachment to form. Ravage, violence, extraordinary efforts, fatality. The belief that matter is all there is. The chains are loose, but you have not yet noticed. Temptation that masquerades as liberation.
 
 *Keywords*: Bondage, addiction, materialism, temptation, shadow, compulsion, obsession, enslavement, mirth, animal nature.
@@ -58,8 +56,7 @@ The core teaching: **What you resist, persists. What you integrate, liberates.**
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### Hebrew Letter: Ayin (ע) – The Eye That Sees (and Does Not See)
 
 **Ayin** carries a dual meaning: it means "eye" and also "nothingness" (*ayin* as in *ein sof*, the infinite void). This paradox is the essence of The Devil: the eye that sees only surface, that perceives form as substance, that mistakes appearance for reality.

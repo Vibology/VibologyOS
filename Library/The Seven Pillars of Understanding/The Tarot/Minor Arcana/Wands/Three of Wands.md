@@ -39,8 +39,7 @@ The key teaching: **True strength is not proven in the act of doing, but in the 
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Number** | 3 - The triangle, synthesis, the first stable structure, growth |
@@ -56,8 +55,7 @@ The key teaching: **True strength is not proven in the act of doing, but in the 
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:** Established strength, enterprise underway, commerce, trade, partnerships functioning well. The realization of hope, effort bearing fruit. Ships at sea (ventures in progress), waiting with confidence for return on investment. Looking outward toward the next horizon while the current venture matures. Cooperation, well-ordered partnerships, things happening at a distance that will benefit you.
 
 *Keywords:* Expansion, confidence, enterprise, patience, fruition, trade, partnership, waiting, trust, established foundation.
@@ -66,8 +64,7 @@ The key teaching: **True strength is not proven in the act of doing, but in the 
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### The Sephirotic Lens: Binah as the Three
 
 **Binah** is the third Sephirah, titled **Understanding** (*Binah* in Hebrew). It is the Great Mother, the Supernal Mother, the principle of *form* that receives the undifferentiated creative force of Chokmah (the Father) and gives it structure, boundary, limitation. Where Chokmah is the seed, Binah is the womb. Where Chokmah is expansion, Binah is contraction. Where Chokmah is "Yes," Binah is "No"—but it is the "No" that makes manifestation possible.

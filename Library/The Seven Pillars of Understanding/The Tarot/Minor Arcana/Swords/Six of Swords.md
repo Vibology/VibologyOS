@@ -38,8 +38,7 @@ The key teaching: **Sometimes the only way forward is away**. The Six of Swords 
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Number** | 6 - Harmony, balance, the center, beauty, resolution |
@@ -56,8 +55,7 @@ The key teaching: **Sometimes the only way forward is away**. The Six of Swords 
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:** Transition, passage, journey. Leaving behind difficulty and moving toward something better. Success earned through struggle, now being carried forward. Travel by water, literally or metaphorically. The guide or helper who ferries you across. Recovery after crisis. Moving on from painful situations. Strategic withdrawal. Emigration, relocation, escape. The liminal space between what was and what will be.
 
 *Keywords:* Transition, passage, journey, moving on, recovery, guide, calm waters, leaving behind, strategic withdrawal, earned success.
@@ -68,8 +66,7 @@ The key teaching: **Sometimes the only way forward is away**. The Six of Swords 
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### The Sephirotic Lens: Tiphareth in Yetzirah
 
 **Tiphareth** is the sixth Sephirah, titled **Beauty** (*Tiphareth* in Hebrew). It represents the harmonizing center of the Tree of Life, the heart, the place where the forces of severity and mercy, expansion and limitation, are balanced and reconciled.

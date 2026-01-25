@@ -39,8 +39,7 @@ The key teaching: **Dominion is not a destination but a responsibility**. To hav
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Number** | 2 - Duality, polarity, choice, the first division, reflection |
@@ -56,8 +55,7 @@ The key teaching: **Dominion is not a destination but a responsibility**. To hav
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:** Dominion, authority, established power, strategic vision, planning from a position of strength. The capacity to influence outcomes and direct resources. Choice between consolidation and expansion. A merchant, emporium, wealth earned through initiative. Coastal cities, trade routes, the surveying of new territories. The pause between achievement and the next campaign.
 
 *Keywords:* Authority, dominion, strategy, planning, vision, expansion, influence, power, sovereignty, choice.
@@ -66,8 +64,7 @@ The key teaching: **Dominion is not a destination but a responsibility**. To hav
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### The Sephirotic Lens: Chokmah as the Two
 
 **Chokmah** is the second Sephirah, titled **Wisdom** (*Chokhmah* in Hebrew, also spelled Hochmah or Hokmah). It is the first movement from the absolute unity of Kether—the first differentiation, the first "Yes" that creates polarity by implying a "No." Where Kether is the point, Chokmah is the *line*—extension, direction, trajectory.

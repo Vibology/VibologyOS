@@ -38,8 +38,7 @@ The key teaching: **Peace Restored is not Peace Achieved**. The Two of Swords bu
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Number** | 2 - Duality, polarity, balance, choice, division |
@@ -56,8 +55,7 @@ The key teaching: **Peace Restored is not Peace Achieved**. The Two of Swords bu
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:** Truce, stalemate, balanced forces. The decision to *not decide*—deliberately maintaining equilibrium between conflicting options. Courage to hold a difficult position. Conformity to an uneasy agreement. Friendship or intimacy that exists within boundaries. Self-protection through selective blindness. The need for meditation, retreat, or reflection before action. Refusing to be drawn into conflict. Maintaining neutrality.
 
 *Keywords:* Truce, stalemate, balance, indecision, avoidance, neutrality, peace restored, blindfolded choice, protected heart, impasse.
@@ -68,8 +66,7 @@ The key teaching: **Peace Restored is not Peace Achieved**. The Two of Swords bu
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### The Sephirotic Lens: Chokmah in Yetzirah
 
 **Chokmah** is the second Sephirah, titled **Wisdom** (*Chokmah* in Hebrew). It represents the first differentiation from the undivided unity of Kether—the moment when the One becomes Two, when unity gives rise to duality.

@@ -41,8 +41,7 @@ The key teaching: **Comfort is not the same as fulfillment.** The soul that has 
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Number** | 4 - The square, stability, foundation, the material quaternary |
@@ -58,8 +57,7 @@ The key teaching: **Comfort is not the same as fulfillment.** The soul that has 
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:** Weariness, satiety, disgust. Emotional stagnation despite abundance. The feeling of "is this all there is?" Blended pleasure—joy mixed with dissatisfaction. Apathy, ennui, the inability to appreciate what you have. A new offer or opportunity unnoticed or refused. Withdrawal from engagement. The discontent that precedes growth.
 
 *Keywords:* Satiety, apathy, discontent, withdrawal, contemplation, missed opportunity, emotional stagnation, boredom, dissatisfaction, acedia.
@@ -68,8 +66,7 @@ The key teaching: **Comfort is not the same as fulfillment.** The soul that has 
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### The Sephirotic Lens: Chesed as the Four
 
 **Chesed** is the fourth Sephirah, titled **Mercy** (*Chesed* in Hebrew). It is the first Sephirah below the Abyss—the first realm that is fully "manifest" in a structural sense. Where the Supernal Triad (Kether, Chokmah, Binah) exists in pure archetypal abstraction, Chesed begins the process of *concretization*.

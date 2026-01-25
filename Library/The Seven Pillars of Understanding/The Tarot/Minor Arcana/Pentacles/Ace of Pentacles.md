@@ -28,8 +28,7 @@ The Golden Dawn reversal suggests "great wealth, but with corruption and avarice
 The key teaching: **The Ace of Pentacles is an offer, not a guarantee**. The material resources descend—but you must work the ground, plant the seed, and tend the growth. If you do not, the opportunity withers. If you grasp too tightly, the abundance corrupts. The gift must be *used*, not merely *possessed*.
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Number** | 1 (Ace) - Unity, the monad, undifferentiated potential, the beginning |
@@ -45,15 +44,14 @@ The key teaching: **The Ace of Pentacles is an offer, not a guarantee**. The mat
 | **Color** | Deep green and gold (Kether in Assiah) - Fertile earth, living gold |
 
 ---
-## Divination Meanings
+## Divination Use
 **Upright:** Material gain, prosperity, abundance manifest. New financial opportunity, job offer, inheritance, or tangible reward. Health, vitality, physical well-being. The beginning of material security. Fertile ground for new ventures. The gift of embodiment—spirit descending into flesh. The foundation upon which all else will be built. The promise of harvest if you tend the garden.
 *Keywords:* Abundance, prosperity, material gain, embodiment, manifestation, health, wealth, tangible opportunity, fertile ground, gift of matter.
 **Reversed (per Waite):** The evil side of wealth—corruption, greed, material obsession. Prosperity without soul. Great riches but spiritual emptiness. Bad intelligence in material matters. Fool's gold. Opportunity squandered or rejected. Wealth misused. The body neglected. Materialism as defense against feeling. Hoarding, avarice, the inability to share or let go.
 *Keywords:* Greed, corruption, materialism, spiritual emptiness, squandered opportunity, hoarding, wealth without meaning, the body as prison.
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### The Sephirotic Lens: Kether as the Ace
 
 **Kether** is the first Sephirah, titled **Crown** (*Kether* in Hebrew). It is the initial point of manifestation, the first stirring of the Unmanifest into form. Kether is not "God" (which would be the Ain Soph, the Limitless beyond the Tree), but the *first emanation* of divinity—the point at which "nothing" becomes "something."

@@ -38,8 +38,7 @@ The key teaching: **Some things must end completely before new things can begin*
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Number** | 10 - Completion, ending, the fullness of the cycle, Malkuth |
@@ -56,8 +55,7 @@ The key teaching: **Some things must end completely before new things can begin*
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:** Ruin, total defeat, complete ending. The worst has happened. Rock bottom. The collapse of a project, belief system, relationship, or identity. Pain, affliction, tears. But also: the *end* of suffering, because there is nothing left to lose. The dawn after the darkest night. Relief that the waiting is over. The death that precedes rebirth.
 
 *Keywords:* Ruin, defeat, ending, rock bottom, complete collapse, worst-case scenario, death of the old, dawn, relief, finality.
@@ -68,8 +66,7 @@ The key teaching: **Some things must end completely before new things can begin*
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### The Sephirotic Lens: Malkuth in Yetzirah
 
 **Malkuth** is the tenth Sephirah, titled **Kingdom** (*Malkuth* in Hebrew). It represents the final point of the Tree of Life—the material world, the complete manifestation of all that has descended from Kether through the preceding Sephiroth.

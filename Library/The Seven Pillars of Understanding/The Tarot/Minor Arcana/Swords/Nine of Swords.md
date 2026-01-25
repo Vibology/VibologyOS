@@ -38,8 +38,7 @@ The key teaching: **Not every thought is true, and not every voice in your head 
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Number** | 9 - Completion before ending, the hermit's number, intensity |
@@ -56,8 +55,7 @@ The key teaching: **Not every thought is true, and not every voice in your head 
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:** Despair, anguish, mental torment. Nightmares, insomnia, the 3 AM terror. Anxiety that overwhelms. Guilt disproportionate to offense. Shame that will not release. Intrusive thoughts, obsessive worry, rumination. The mind as its own torturer. Grief that has become pathological. The inner critic run amok. Mental suffering that feels inescapable.
 
 *Keywords:* Despair, anguish, nightmares, anxiety, guilt, shame, rumination, mental cruelty, insomnia, torment.
@@ -68,8 +66,7 @@ The key teaching: **Not every thought is true, and not every voice in your head 
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### The Sephirotic Lens: Yesod in Yetzirah
 
 **Yesod** is the ninth Sephirah, titled **Foundation** (*Yesod* in Hebrew). It represents the principle of *the unconscious mind*—the realm of dreams, images, instincts, and the lunar light that illuminates only partially.

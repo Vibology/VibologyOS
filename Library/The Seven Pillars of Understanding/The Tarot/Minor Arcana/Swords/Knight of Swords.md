@@ -33,8 +33,7 @@ The key teaching: **Clarity without compassion becomes cruelty**. The Knight of 
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Court Rank** | Knight - The Fire/active component, the warrior, the one in motion |
@@ -50,8 +49,7 @@ The key teaching: **Clarity without compassion becomes cruelty**. The Knight of 
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:** Speed, aggression, swift action. Brilliant argument, intellectual dominance. The capacity to cut through complexity with decisive clarity. The warrior of words and ideas. Bravery in speaking truth. Defense of intellectual position. But also: the danger of acting without feeling, thinking without compassion. Enmity created through harsh truth. Destruction in the name of clarity.
 
 *Keywords:* Speed, aggression, decisiveness, intellectual warfare, swift action, brilliant argument, charging forward, no compromise.
@@ -62,8 +60,7 @@ The key teaching: **Clarity without compassion becomes cruelty**. The Knight of 
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### The Elemental Formula: Air of Air
 
 Understanding the court cards requires understanding their **elemental formula**—the combination of the suit's element with the rank's quality.

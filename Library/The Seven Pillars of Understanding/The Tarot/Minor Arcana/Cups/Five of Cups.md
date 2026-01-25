@@ -39,8 +39,7 @@ The key teaching: **Grief is holy, but it is not meant to be eternal.** The Five
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Number** | 5 - Disruption, instability, the breaking of the Four's foundation |
@@ -56,8 +55,7 @@ The key teaching: **Grief is holy, but it is not meant to be eternal.** The Five
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:** Loss, grief, mourning. The end of a relationship, the death of hope, the spilling of what was precious. Regret, disappointment, broken partnerships. The fixation on what is gone rather than what remains. Legitimate sorrow that must be felt before it can be released.
 
 *Keywords:* Grief, loss, mourning, regret, disappointment, betrayal, broken bonds, spilled cups, fixation on the past, sorrow.
@@ -66,8 +64,7 @@ The key teaching: **Grief is holy, but it is not meant to be eternal.** The Five
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### The Sephirotic Lens: Geburah as the Five
 
 **Geburah** is the fifth Sephirah, titled **Severity** (*Gevurah* in Hebrew, also spelled Geburah). It is the left hand of God—where Chesed (the fourth Sephirah) gives, Geburah *takes away*. Where Chesed expands, Geburah *contracts*. This is not cruelty; it is the necessary principle of limit and consequence.

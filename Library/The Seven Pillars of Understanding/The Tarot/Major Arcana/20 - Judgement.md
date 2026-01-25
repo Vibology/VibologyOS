@@ -31,8 +31,7 @@ The core teaching: **Judgement does not condemn. She calls—and those who answe
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | **Attribute**            | **Correspondence**                                                                                       |
 |--------------------------|----------------------------------------------------------------------------------------------------------|
 | **Number**               | 20 (Reduction to 2: duality resolved, the return to unity through integration)                           |
@@ -47,8 +46,7 @@ The core teaching: **Judgement does not condemn. She calls—and those who answe
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright**: Renewal, resurrection, awakening. Change of position, outcome, final decision. The completion of a cycle, the harvest of what was planted. The call to integrate, to review, to recognize what you have become. The weighing of the soul, the self-assessment. Absolution, forgiveness, the release of karmic debt. The moment of truth.
 
 *Keywords*: Renewal, resurrection, awakening, outcome, decision, harvest, integration, absolution, the call.
@@ -57,8 +55,7 @@ The core teaching: **Judgement does not condemn. She calls—and those who answe
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### Hebrew Letter: Shin (ש) – The Tooth / The Primal Fire
 
 **Shin** means "tooth"—the organ that grinds, that breaks down food, that makes digestion possible. With a gematria value of **300**, Shin resonates with the number of **completion through transformation**, the fire that refines base matter into gold.

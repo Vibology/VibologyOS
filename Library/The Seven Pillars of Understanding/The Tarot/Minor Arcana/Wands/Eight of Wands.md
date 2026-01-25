@@ -42,8 +42,7 @@ The key teaching: **Swiftness is not virtue in itself.** The Eight of Wands asks
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Number** | 8 - The number of structure, manifestation, Mercury's number, the octave, the realm of form |
@@ -61,8 +60,7 @@ The key teaching: **Swiftness is not virtue in itself.** The Eight of Wands asks
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:** Swiftness, rapid movement, acceleration. Messages arriving suddenly—emails, letters, texts, phone calls. Swift communication across distance. News of an unforeseen nature. Movement through open country or rural land. Travel (especially air travel or journeys that cover distance quickly). Activity in undertakings—things happening fast. Great haste, great hope. Speed toward an end that promises assured felicity. That which is on the move. Arrows of love—romantic communication, the message that changes everything. The path clearing, obstacles removed, momentum sustained. The "green light"—permission to proceed at speed.
 
 *Keywords:* Swiftness, velocity, rapid communication, messages in transit, acceleration, open path, momentum, travel, flight, trajectory, things happening fast, news arriving, the arrow loosed, movement freed from impediment.
@@ -71,8 +69,7 @@ The key teaching: **Swiftness is not virtue in itself.** The Eight of Wands asks
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### The Sephirotic Lens: Hod as the Eight
 
 **Hod** is the eighth Sephirah, titled **Splendor** (*Hod* in Hebrew, also translated as "Glory" or "Reverberation"). Hod occupies a crucial position on the Tree of Life—it is the second of the **Astral Triangle** (Netzach, Hod, Yesod), the realm of the Personality, and it stands opposite **Netzach** (Victory/Firmness) on the Pillar of Form (the left pillar).

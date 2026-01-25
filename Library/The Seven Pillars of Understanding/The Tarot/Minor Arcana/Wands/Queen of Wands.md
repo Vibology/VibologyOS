@@ -42,8 +42,7 @@ The key teaching: **Presence is power, but power without compassion becomes tyra
 
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Rank** | Queen - The Throne of the element, mature and receptive, embodied and sustaining |
@@ -64,8 +63,7 @@ The key teaching: **Presence is power, but power without compassion becomes tyra
 
 ---
 
-## Divination Meanings
-
+## Divination Use
 **Upright:**
 
 The Queen of Wands as a **Person**: A woman (or feminine-identified person) with fire-sign energy, often Aries, Leo, or Sagittarius, or with fire dominance in the chart. Physically, she may have red or auburn hair, freckles, warm coloring, an expressive and animated presence. Charismatic, magnetic, warm, generous, confident. Self-possessed without being arrogant. She is the entrepreneur who has built her empire and now rules it with grace. The artist who knows her worth. The mother who raises independent, creative children with firm love and clear boundaries. The leader who inspires through presence, not force. The mentor who sees your potential and challenges you to rise. The friend whose warmth is genuine, whose loyalty is fierce. Someone who loves life, embraces pleasure, creates beauty, and refuses to dim her light for anyone.
@@ -93,8 +91,7 @@ The reversed Queen presents a paradox—Waite assigns both positive qualities ("
 
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### Elemental Dignity Analysis: Water of Fire
 
 The Queen rank is **Water**—the element of emotion, intuition, receptivity, depth, and the unconscious. Water is the realm of feeling, of the relational, of the numinous depths that cannot be grasped by intellect alone.

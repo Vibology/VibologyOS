@@ -27,8 +27,7 @@ When the Knight of Pentacles appears **reversed**, Waite identifies meanings of 
 The key teaching: **Some work cannot be hurried**. The Knight of Pentacles offers the wisdom of the plow: you cannot rush the furrow, you cannot cheat the field. You work at the pace the earth allows, consistently, reliably, until the field is ready for seed. This is not glamorous—but it is *necessary*.
 ---
 
-## Core Correspondences
-
+## Qabalistic Position
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Court Rank** | Knight - The quester, the worker, active energy in motion |
@@ -42,15 +41,14 @@ The key teaching: **Some work cannot be hurried**. The Knight of Pentacles offer
 | **Archetypal Role** | The Worker, the Plow Horse, the Reliable One |
 
 ---
-## Divination Meanings
+## Divination Use
 **Upright:** Utility, serviceableness, reliability, responsibility, rectitude. Methodical progress toward material goals. The capacity to follow through on commitments with patient, consistent effort. Slow but steady advancement. Thoroughness, attention to detail, doing things *right* rather than fast. The worker who shows up every day and completes the task. Integrity in action—doing what you said you would do. The marathon runner, not the sprinter. Labor that may not be glamorous but is absolutely necessary. Persistence, endurance, the wisdom of consistency over intensity.
 *Keywords:* Reliability, persistence, methodical work, slow progress, thoroughness, responsibility, patient effort, follow-through, integrity.
 **Reversed (per Waite):** Inertia, idleness, stagnation, placidity, repose. The Knight's reliability becomes rigidity—refusing to adapt to changed circumstances. Plodding movement that has lost its purpose, labor that goes nowhere. Chronic caution that prevents any real progress. Using "responsibility" as an excuse to avoid risk or growth. Stubbornness disguised as patience. Or: inability to sustain effort, abandoning projects halfway, the worker who cannot commit to the plow.
 *Keywords:* Inertia, stagnation, stubbornness, refusal to adapt, idle labor, chronic caution, inability to commit, work without purpose.
 ---
 
-## Synthesis Notes
-
+## Esoteric Interpretation
 ### The Elemental Formula: Air of Earth
 
 In the Golden Dawn system, Knights are associated with **Air**—the element of intellect, planning, communication, and directed movement. The Knight of *Pentacles* channels this Air energy through the *Earth* suit, creating **Air of Earth**—thought directing matter, intellect applied to practical goals, systematic action in the material world.
