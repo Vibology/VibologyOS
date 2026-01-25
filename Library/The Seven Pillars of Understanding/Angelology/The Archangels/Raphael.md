@@ -121,9 +121,7 @@ In the Tobit narrative, Raphael **reconciles**:
 - Tobias's fear with courage
 - Heaven (the angelic) with Earth (the human)
 
-Dion Fortune writes in *The Mystical Qabalah*:
-
-> *"Raphael is the Archangel of the Sun, and therefore of Tiphareth, though in the Qabalistic attributions he is also associated with Hod, the sphere of Mercury, because he is the Divine Physician and the Messenger."*
+Raphael is the Archangel of the Sun (Shemesh) and therefore of Tiphareth. Wang confirms his attribution to the solar sphere and identifies him as the supreme angel of healing, science, and knowledge.
 
 **Secondary Attribution: Hod (Splendor, the Eighth Sephirah)**
 
@@ -266,9 +264,7 @@ Tiphareth is the **sixth Sephirah**, positioned at the **heart of the Tree of Li
 - **Reconciliation of Pillars:** Chokmah (Wisdom, masculine, force) to the right, Binah (Understanding, feminine, form) to the left—Tiphareth **unites** the creative impulse with the receptive matrix
 - **Balancing Chesed and Geburah:** Mercy (Chesed) and Severity (Geburah) flow into Tiphareth, which harmonizes them into **Beauty**—not a compromise, but a **third thing**, a transcendent synthesis
 
-Dion Fortune writes:
-
-> *"Tiphareth is the sphere of the Redeemer, the Sacrificed God, the Dying God who rises again. It is the Christ-center, the solar Logos, the Higher Self."*
+In Qabalistic teaching, Tiphareth is understood as the sphere of the Redeemer, the Sacrificed God, the Dying God who rises again—the Christ-center, the solar Logos, the Higher Self.
 
 Tiphareth is the seat of **sacrifice**—not in the sense of loss, but in the sense of **making sacred** (Latin *sacer facere*). The ego is sacrificed to the Self; the personal will surrenders to divine will; fragmentation is sacrificed to wholeness. This is the **healing sacrifice**—the death of the false self that allows the true self to emerge.
 
@@ -343,9 +339,7 @@ In the Tobit narrative, Raphael **reconciles**:
 - Tobias's fear with courage
 - Heaven (the angelic) with Earth (the human)
 
-Dion Fortune writes in *The Mystical Qabalah*:
-
-> *"Raphael is the Archangel of the Sun, and therefore of Tiphareth, though in the Qabalistic attributions he is also associated with Hod, the sphere of Mercury, because he is the Divine Physician and the Messenger."*
+Raphael is the Archangel of the Sun (Shemesh) and therefore of Tiphareth. Wang confirms his attribution to the solar sphere and identifies him as the supreme angel of healing, science, and knowledge.
 
 **Secondary Attribution: Hod (Splendor, the Eighth Sephirah)**
 
@@ -861,7 +855,7 @@ Metatron holds the blueprint; Raphael teaches how to read it and apply it to dai
 - [[Virgo ♍]] (♍︎—sign of service, healing, discernment, practical wisdom, Mercury's exaltation)
 - [[Gemini ♊]] (♊︎—sign of communication, duality reconciled, Mercury's domicile)
 
-**Human Design:**
+**Human Design (Vibology Synthesis):**
 
 - [[G-Center]] (Identity, Love, Direction—the inner compass, the guide, the magnetic monopole)
 - [[Throat Center]] (Communication, Manifestation—the voice that transmits healing knowledge)
@@ -963,7 +957,7 @@ Metatron holds the blueprint; Raphael teaches how to read it and apply it to dai
 - [[Virgo ♍]] (♍︎—sign of service, healing, discernment, practical wisdom, Mercury's exaltation)
 - [[Gemini ♊]] (♊︎—sign of communication, duality reconciled, Mercury's domicile)
 
-**Human Design:**
+**Human Design (Vibology Synthesis):**
 
 - [[G-Center]] (Identity, Love, Direction—the inner compass, the guide, the magnetic monopole)
 - [[Throat Center]] (Communication, Manifestation—the voice that transmits healing knowledge)
@@ -1398,7 +1392,7 @@ The individual radiates **clarity**—not the blinding glory of Metatron, not th
 - [[Virgo ♍]] (♍︎—sign of service, healing, discernment, practical wisdom, Mercury's exaltation)
 - [[Gemini ♊]] (♊︎—sign of communication, duality reconciled, Mercury's domicile)
 
-**Human Design:**
+**Human Design (Vibology Synthesis):**
 
 - [[G-Center]] (Identity, Love, Direction—the inner compass, the guide, the magnetic monopole)
 - [[Throat Center]] (Communication, Manifestation—the voice that transmits healing knowledge)
