@@ -72,8 +72,7 @@ Pluto is a **modern outer planet**, discovered in 1930. Traditional astrology (p
 **Not subject to sect:** Because Pluto operates on a generational timescale and was unknown to traditional astrology, it does not follow diurnal/nocturnal sect distinctions. Its force is *transpersonal*—it does not soften or harden based on day/night birth; it erupts when the pressure becomes unsustainable, regardless of chart conditions.
 
 ---
-## Psychological & Jungian Depth
-
+## Psychological Depth
 Pluto represents **the Shadow in its most confrontational aspect**—the disowned, repressed, buried material that will not remain underground. In Jungian terms, Pluto is the **[[Shadow]] work**: the descent into the personal and collective unconscious to retrieve what has been exiled.
 
 Psychologically, a strong Pluto correlates with:
@@ -189,7 +188,7 @@ In esoteric anatomy, Pluto governs the **reproductive organs** (death and birth 
 - **[[Angelology]]:** Powers (warriors against entropy, guardians of transformation)
 
 ---
-## Shadow Expressions and the Plutonian Wound
+## Shadow Expression
 
 Pluto's shadow is **power wielded without conscience**—the tyrant who destroys for control, the victim who manipulates through suffering, the force that annihilates without regeneration.
 
@@ -208,8 +207,7 @@ Pluto's shadow is **power wielded without conscience**—the tyrant who destroys
 **Integration:** The mature Pluto knows that **power is not domination**—it is the capacity to transform without annihilating the soul in the process. True Plutonian mastery is not control but *surrender to the process*—the willingness to die to what is false and be reborn into what is real. The gift of Pluto is **sovereignty**—the reclamation of power from the underworld, the treasure mined from darkness, the phoenix that rises not from ashes but *as* the ashes, transmuted into something unrecognizable but truer than what came before.
 
 ---
-## Invitation for Contemplation
-
+## Interpretation Guide
 What have you buried—and what will it cost you if it remains underground? Pluto does not negotiate. He does not wait for readiness. He erupts when the pressure becomes unsustainable, and the soul must choose: transformation or annihilation.
 
 The Plutonian question is not "Why is this happening?" but "What truth am I being forced to see, and am I willing to die to who I was before I saw it?"

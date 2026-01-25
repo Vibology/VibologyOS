@@ -181,8 +181,7 @@ When [[Pluto ♇]] is in the 10th House, **power is destiny**. These individuals
 **Challenge:** Power struggles, public destruction, obsession with control
 
 ---
-## Psychological & Jungian Depth
-
+## Psychological Depth
 The 10th House represents the **Social Persona**—the public role, the mask worn in service to the collective. In Jungian terms, this is the **Senex** (Wise Elder) archetype: earned authority, the one who has climbed and now guides others.
 
 **Healthy 10th House:**
@@ -209,8 +208,7 @@ In [[Human Design]], the 10th House corresponds to the **Throat Center** (manife
 In Qabalistic terms, the 10th House corresponds to **Binah** (Understanding)—the sphere of form, structure, and the Great Mother who births all manifestation.
 
 ---
-## Evolved vs. Unevolved Expression
-
+## Shadow Expression
 **Unevolved 10th House:**
 - **Ambition without integrity** — Success at any cost
 - **The tyrant** — Authority as weapon, power as domination
@@ -303,8 +301,7 @@ Traditional astrology assigns the **10th House to the mother** and the **4th Hou
 Both interpretations recognize that the 10th House represents **the authoritative parent**—the one who shows you how to navigate the public world.
 
 ---
-## Practical Guidance
-
+## Interpretation Guide
 ### For Those with a Strong 10th House (Planets in 10th)
 
 1. **You are designed to lead.** Do not shame yourself for needing recognition—visibility is your power.

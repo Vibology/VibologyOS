@@ -165,8 +165,7 @@ When [[Pluto ♇]] is in the 8th House (Pluto's natural domain), **this is maste
 **Challenge:** Obsession with death or power, compulsive cycles, inability to surface, destructive use of power
 
 ---
-## Psychological & Jungian Depth
-
+## Psychological Depth
 The 8th House represents the **Shadow**—the disowned aspects of self that Jung identified as exiled into the unconscious. The 8th House is where you meet what you have buried.
 
 **Healthy 8th House:**
@@ -193,8 +192,7 @@ In [[Human Design]], the 8th House corresponds to the **Root Center** (survival 
 In Qabalistic terms, the 8th House corresponds to **Geburah** (Severity)—the sphere of destruction, discipline, and the surgical removal of what no longer serves.
 
 ---
-## Evolved vs. Unevolved Expression
-
+## Shadow Expression
 **Unevolved 8th House:**
 - **Compulsion** — Addiction, obsession, destructive cycles
 - **Manipulation** — Using power to control others
@@ -288,8 +286,7 @@ The 8th House governs **what is passed down**—material wealth, family patterns
 The 8th House challenge is to **receive the inheritance consciously**—to take the gold and leave the curse, to honor ancestors without becoming them.
 
 ---
-## Practical Guidance
-
+## Interpretation Guide
 ### For Those with a Strong 8th House (Planets in 8th)
 
 1. **You are designed for depth.** Do not shame yourself for needing intensity—surface life depletes you.

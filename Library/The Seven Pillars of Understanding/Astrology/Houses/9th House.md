@@ -164,8 +164,7 @@ When [[Pluto ♇]] is in the 9th House, **transformation occurs through belief s
 **Challenge:** Fanatical beliefs, destruction of faith, obsessive search for ultimate truth
 
 ---
-## Psychological & Jungian Depth
-
+## Psychological Depth
 The 9th House represents the **Higher Self**—the part of the psyche that seeks ultimate meaning, that asks "Why?" where others ask "How?" In Jungian terms, this is the **Wise Old Man/Woman** archetype: the inner teacher, the one who knows.
 
 **Healthy 9th House:**
@@ -192,8 +191,7 @@ In [[Human Design]], the 9th House corresponds to the **Ajna Center** (conceptua
 In Qabalistic terms, the 9th House corresponds to **Chesed** (Mercy)—the sphere of expansion, benevolence, and the generous teaching that gives without demanding return.
 
 ---
-## Evolved vs. Unevolved Expression
-
+## Shadow Expression
 **Unevolved 9th House:**
 - **Dogmatism** — "My way is the only way"; belief as weapon
 - **Spiritual tourism** — Consuming foreign wisdom without integration
@@ -294,8 +292,7 @@ The 9th House governs **belief systems**—but belief can become **dogma** when 
 When belief becomes **identity** rather than tool, it hardens into dogma. The 9th House challenge is to hold philosophy **as hypothesis**, not conclusion—to remain open to the next horizon.
 
 ---
-## Practical Guidance
-
+## Interpretation Guide
 ### For Those with a Strong 9th House (Planets in 9th)
 
 1. **You are designed for expansion.** Do not shame yourself for needing meaning—surface life suffocates you.

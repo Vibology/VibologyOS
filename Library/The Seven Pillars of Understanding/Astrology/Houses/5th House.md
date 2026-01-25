@@ -169,8 +169,7 @@ When [[Pluto ♇]] is in the 5th House, **there is creative intensity and transf
 
 ---
 
-## Psychological & Jungian Depth
-
+## Psychological Depth
 The 5th House represents the **Inner Child**—the part of the psyche that plays, creates, and delights without needing justification. In Jungian terms, this is the **Puer/Puella** (eternal youth) that refuses to grow old, that demands joy as birthright.
 
 **Healthy 5th House:**
@@ -197,8 +196,7 @@ In [[Human Design]], the 5th House corresponds to the **Sacral Center** (creativ
 In Qabalistic terms, the 5th House corresponds to **Tiphareth** (Beauty)—the sphere of the individuated Self, the solar center that harmonizes and radiates.
 
 ---
-## Evolved vs. Unevolved Expression
-
+## Shadow Expression
 **Unevolved 5th House:**
 - **Narcissism** — Creativity as ego performance; needing applause to exist
 - **Hedonism** — Pleasure-seeking without purpose; empty indulgence
@@ -242,8 +240,7 @@ The 5th House governs **romance and courtship**—the early phase of love as pla
 When romance becomes partnership, it moves from the 5th House (joy) to the 7th House (mirror, contract, commitment). The challenge is to maintain 5th House playfulness within 7th House commitment—to not let marriage kill romance.
 
 ---
-## Practical Guidance
-
+## Interpretation Guide
 ### For Those with a Strong 5th House (Planets in 5th)
 
 1. **Create for its own sake.** You do not need permission to express; joy is sufficient justification.

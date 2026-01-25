@@ -178,8 +178,7 @@ When [[Pluto ♇]] is in the 1st House, **identity is forged through crisis**. T
 
 ---
 
-## Psychological & Jungian Depth
-
+## Psychological Depth
 The 1st House represents the **ego-mask** or **[[Persona]]**—the face shown to the world. In Jungian terms, the Persona is not false, but it is **partial**: a simplification that allows social navigation without overwhelming others with the totality of the Self.
 
 **Healthy 1st House:**
@@ -208,8 +207,7 @@ In esoteric astrology, the Ascendant represents the **Ray of Personality**—the
 
 ---
 
-## Evolved vs. Unevolved Expression
-
+## Shadow Expression
 **Unevolved 1st House:**
 - **Narcissism** — Identity as performance; needing constant external validation
 - **Rigidity** — Over-identification with the mask; inability to adapt or evolve
@@ -224,8 +222,7 @@ The evolution of the 1st House is learning that **identity is not fixed**—the 
 
 ---
 
-## Practical Guidance
-
+## Interpretation Guide
 ### For Those with a Strong 1st House (Planets in 1st)
 
 1. **Own your visibility.** You are designed to be seen; hiding drains vitality.

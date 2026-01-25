@@ -178,8 +178,7 @@ When [[Pluto ♇]] is in the 7th House, **partnership is transformation**. These
 **Challenge:** Power struggles, obsession, destructive partnerships
 
 ---
-## Psychological & Jungian Depth
-
+## Psychological Depth
 The 7th House represents **the Syzygy**—the archetypal pairing (anima/animus) that Jung identified as the contrasexual other within. The 7th House is where you meet your **inner other** projected outward.
 
 **Healthy 7th House:**
@@ -206,8 +205,7 @@ In [[Human Design]], the 7th House corresponds to the **G Center** (identity thr
 In Qabalistic terms, the 7th House corresponds to **Netzach** (Victory/Eternity)—the sphere of desire, relationship, and the feminine receptive principle.
 
 ---
-## Evolved vs. Unevolved Expression
-
+## Shadow Expression
 **Unevolved 7th House:**
 - **Fusion** — "We" obliterates "I"; identity lost in relationship
 - **Projection** — Idealizing or demonizing the other; refusing to see reality
@@ -263,8 +261,7 @@ Because **enemies are mirrors too**. The qualities you despise in your adversary
 The 7th House challenge is to recognize that **your enemy is your dark twin**—they hold the shadow you refuse to own.
 
 ---
-## Practical Guidance
-
+## Interpretation Guide
 ### For Those with a Strong 7th House (Planets in 7th)
 
 1. **You are not half a person.** Partnership is enhancement, not completion—work on wholeness first.

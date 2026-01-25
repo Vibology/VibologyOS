@@ -180,8 +180,7 @@ When [[Pluto ♇]] is in the 4th House, **the roots are toxic**. These individua
 **Challenge:** Obsession with family wounds, inability to forgive or release
 
 ---
-## Psychological & Jungian Depth
-
+## Psychological Depth
 The 4th House represents the **Personal Unconscious**—the family patterns, the ancestral memory, the emotional substrate from which ego (1st House) emerges. In Jungian terms, this is the **Mother Complex**: the unconscious matrix that nourishes or devours.
 
 **Healthy 4th House:**
@@ -208,8 +207,7 @@ In [[Human Design]], the 4th House corresponds to the **Solar Plexus Center** (e
 In Qabalistic terms, the 4th House corresponds to **Malkuth** (Kingdom)—the physical plane, the earth, the ground. The IC is where consciousness touches matter.
 
 ---
-## Evolved vs. Unevolved Expression
-
+## Shadow Expression
 **Unevolved 4th House:**
 - **Enmeshment** — Cannot leave home; identity fused with family
 - **Exile** — Fleeing roots; no sanctuary, perpetual displacement
@@ -234,8 +232,7 @@ The **4th House principle** (roots, foundation, end of matter) applies to every 
 Derivative houses reveal cyclical patterns: what is built (10th) returns to foundation (4th), which births new identity (1st).
 
 ---
-## Practical Guidance
-
+## Interpretation Guide
 ### For Those with a Strong 4th House (Planets in 4th)
 
 1. **Home is your power source.** Protect your sanctuary; do not sacrifice it for ambition.

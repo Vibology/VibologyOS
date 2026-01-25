@@ -52,8 +52,7 @@ The Moon is the **nocturnal (night) sect light**. In traditional astrology, a ch
 **Diurnal charts (Moon below horizon at birth):** The lunar self is more hidden, operating beneath the solar will. These natives may experience a lifelong tension between what the mind wants and what the body needs.
 
 ---
-## Psychological & Jungian Depth
-
+## Psychological Depth
 The Moon represents **somatic intelligence**—the body's capacity to know before the mind articulates. In Human Design, the Moon is the second-most weighted planet in the Personality calculation, revealing the "costume's" emotional texture.
 
 Psychologically, a strong lunar principle correlates with:
@@ -159,8 +158,7 @@ The Moon's aspects to other planets reveal how emotional and somatic intelligenc
 - **Moon-Pluto:** Emotional intensity, ancestral trauma, the capacity for deep transformation. The body as site of karmic release.
 
 ---
-## Shadow and the Maternal Complex
-
+## Shadow Expression
 The Moon's shadow is **merged boundaries**—the loss of self in emotional fusion with others, or its opposite: **emotional fortressing** (the refusal to feel, the body locked in survival mode).
 
 **Shadow expressions:**
@@ -183,8 +181,7 @@ The Moon's **phase at birth** (New, Crescent, First Quarter, Gibbous, Full, Diss
 The Moon also marks the fastest-moving "planet," transiting through the entire zodiac in ~27 days. **Lunar transits** activate emotional themes daily, making the Moon the primary timer for *mood, receptivity, and when to act vs. when to wait*.
 
 ---
-## Invitation for Contemplation
-
+## Interpretation Guide
 What does your body *know* that your mind refuses to hear? The lunar intelligence does not argue or justify—it simply responds, like the tide to the pull of unseen forces.
 
 The Moon teaches that not all wisdom is conscious. Some truths arrive in the gut, in the dream, in the sudden shiver that says *no* before reason can intervene.

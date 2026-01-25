@@ -146,8 +146,7 @@ Aries naturally corresponds to the **1st House**—the domain of the **body**, t
 **Aries in the 1st House (or Aries Rising):** The entire chart is oriented around **initiation and autonomy**. These natives lead with their bodies, their instincts, their immediate desires. They do not wait; they *act*. The challenge is learning that not all battles need to be fought, not all impulses need to be obeyed.
 
 ---
-## Psychological & Jungian Depth
-
+## Psychological Depth
 Aries represents the **ego's first assertion**—the "I want" that precedes "I should." In Jungian terms, Aries is the **[[Hero]] at the threshold**: the moment when the individual separates from the maternal womb ([[Cancer ♋]]) and claims autonomy.
 
 Psychologically, strong Aries placement correlates with:
@@ -214,8 +213,7 @@ In esoteric anatomy, Aries governs the **head** (the crown of the self, the firs
 - **[[Jungian Archetypes]]:** The Hero (threshold crossing, the quest begins)
 - **[[Human Design]]:** Ego/Heart Center (willpower, self-assertion)
 
-## Invitation for Contemplation
-
+## Interpretation Guide
 Where in your life are you waiting for permission to begin—and what would happen if you simply *charged*? Aries does not ask if the timing is right. It **makes** the timing right by moving.
 
 The Aries question is not "Am I ready?" but "Am I *willing* to discover my readiness in the act itself?"

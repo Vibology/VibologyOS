@@ -52,8 +52,7 @@ Venus is the **nocturnal (night) sect planet** and the **lesser benefic** (the g
 **Diurnal charts (Venus out of sect):** Venusian gifts are more performative, social, and visible. Beauty and love are expressed outwardly; relationships are more public. Venus here still gives fortune but requires conscious effort to avoid superficiality.
 
 ---
-## Psychological & Jungian Depth
-
+## Psychological Depth
 Venus represents **aesthetic intelligence**—the capacity to discern what is harmonious, what "fits." In Jungian terms, Venus correlates with the **Feeling** function: not emotion (that is the [[Moon ☽]]), but **valuation**—the subjective judgment that says "this matters to me."
 
 Psychologically, a strong Venus correlates with:
@@ -194,8 +193,7 @@ Venus has a unique relationship with the [[Sun ☉]], never straying more than *
 **Venus retrograde by transit** is a time to *review, revise, and reclaim* what is truly valued. Old lovers return, old aesthetic patterns resurface, and the question becomes: "Do I still love this, or have I outgrown it?"
 
 ---
-## Shadow and Inflation
-
+## Shadow Expression
 The shadow of Venus is **vanity and superficiality**—the collapse of value into appearance, the equation of worth with beauty, wealth, or approval.
 
 **Shadow expressions:**
@@ -210,8 +208,7 @@ The shadow of Venus is **vanity and superficiality**—the collapse of value int
 **Integration:** The mature Venus knows that beauty is not ornament but **essence**. She does not perform for approval but radiates from the coherence of form with function. The venusian gift is **discernment**—the capacity to recognize true value beneath the surface, to love what is aligned and release what is not.
 
 ---
-## Invitation for Contemplation
-
+## Interpretation Guide
 What do you *actually* value—not what you were taught to value, but what your body, your time, your attention reveal as worthy? Venus does not negotiate. She simply knows: this yes, that no.
 
 The venusian question is not "Am I lovable?" but "Do I love myself enough to accept only what mirrors that love back to me?"

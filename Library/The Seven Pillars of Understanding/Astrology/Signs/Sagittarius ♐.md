@@ -146,8 +146,7 @@ Sagittarius naturally corresponds to the **9th House**—the domain of **philoso
 **Sagittarius in the 9th House (or Sagittarius Sun/Rising):** The entire chart is oriented around **the quest for meaning**. These natives must explore—whether through physical travel, intellectual study, or spiritual practice—or they stagnate. The challenge is learning that the quest itself *is* the meaning, not the destination.
 
 ---
-## Psychological & Jungian Depth
-
+## Psychological Depth
 Sagittarius represents **the quest for meaning**—the refusal to accept surface explanations, the hunger for the "why" beneath the "what." In Jungian terms, Sagittarius is the **[[Hero]] on the journey**: the one who leaves the homeland ([[Gemini ♊]]) in search of the Holy Grail.
 
 Psychologically, strong Sagittarius placement correlates with:
@@ -214,8 +213,7 @@ In esoteric anatomy, Sagittarius governs the **thighs** (the muscles that propel
 - **[[Human Design]]:** Throat Center (manifestation of vision into speech)
 
 ---
-## Invitation for Contemplation
-
+## Interpretation Guide
 What are you aiming for—and is it *yours*, or is it the target you were given? Sagittarius at its shadow mistakes inherited belief for personal truth. Sagittarius at its height knows that meaning is earned through **direct encounter**, not secondhand testimony.
 
 The Sagittarius question is not "What should I believe?" but "What am I willing to *risk* to discover if this is true?"

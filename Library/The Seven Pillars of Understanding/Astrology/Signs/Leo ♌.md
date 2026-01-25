@@ -146,8 +146,7 @@ Leo naturally corresponds to the **5th House**—the domain of **creativity**, *
 **Leo in the 5th House (or Leo Sun/Rising):** The entire chart is oriented around **creative self-expression and joy**. These natives must create—whether art, children, experiences—or they wither. The challenge is learning that creation is not performance; authenticity does not require an audience.
 
 ---
-## Psychological & Jungian Depth
-
+## Psychological Depth
 Leo represents **creative self-expression**—the capacity to *play*, to make art, to perform the self as a deliberate act. In Jungian terms, Leo is the **[[Hero]] in triumph**: the moment when the individual claims their throne, not through conquest but through *self-recognition*.
 
 Psychologically, strong Leo placement correlates with:
@@ -215,8 +214,7 @@ In esoteric anatomy, Leo governs the **heart** (the seat of courage, the organ o
 - **[[Human Design]]:** Ego/Heart Center (willpower, self-esteem, commitment)
 
 ---
-## Invitation for Contemplation
-
+## Interpretation Guide
 When was the last time you did something *solely* because it brought you joy—not because it was productive, useful, or impressive? Leo energy at its highest is **play for its own sake**, creation without justification.
 
 The Leo question is not "Do I deserve to shine?" but "What am I withholding from the world because I fear being seen as too much?"

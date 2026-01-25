@@ -141,8 +141,7 @@ When planets occupy the 8th House or Scorpio, the soul's work is deeply tied to 
 Shadow: The 8th House can also represent **obsession, compulsion, and the abuse of power**. Scorpio's work is to wield power responsibly, to transform without destroying, to descend into the underworld and **return**.
 
 ---
-## Psychological & Jungian Depth
-
+## Psychological Depth
 Scorpio represents **Shadow work**—the willingness to face what has been disowned, repressed, or denied. In Jungian terms, Scorpio is the **descent into the unconscious**: the voluntary confrontation with the [[Shadow]] so that it may be integrated rather than projected.
 
 Psychologically, strong Scorpio placement correlates with:
@@ -182,7 +181,7 @@ In traditional medical astrology, Scorpio governs the **regenerative and elimina
 **Remediation (traditional):** Martian and Plutonian herbs (nettle, cayenne, garlic—purifying, detoxifying), foods that support elimination (fiber, fermented foods, bitters), practices that facilitate release (fasting, detox protocols, sexual expression), shadow work (therapy, journaling, confronting repressed material), and rituals of death and rebirth (symbolic burials, fire ceremonies, the conscious descent into grief).
 
 ---
-## Shadow Expressions and the Scorpionic Wound
+## Shadow Expression
 
 Scorpio's shadow is **the Tyrant**—power wielded without compassion, destruction without regeneration, control masquerading as intimacy.
 
@@ -210,8 +209,7 @@ In the [[Human Design]] system, Scorpio corresponds to the **Sacral Center** (li
 In esoteric anatomy, Scorpio governs the **reproductive organs** (death and birth as one cycle), the **colon** (elimination, the release of waste), and the **immune system** (the body's capacity to destroy what does not belong).
 
 ---
-## Invitation for Contemplation
-
+## Interpretation Guide
 What are you refusing to release—and what is the cost of clinging? Scorpio does not negotiate with the ego's demand for continuity. It **takes** what must be taken, destroys what must be destroyed, and leaves you with the truth.
 
 The Scorpio question is not "Will I survive this?" but "What will I become when this version of me dies?"

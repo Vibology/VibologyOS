@@ -53,8 +53,7 @@ The Sun is the **diurnal (day) sect light**. In traditional astrology, a chart b
 **Nocturnal charts (Sun below horizon at birth):** The solar self is internalized, reflective, and may take longer to crystallize. These natives often develop a stronger lunar (receptive, adaptive) orientation early in life before the Sun fully emerges.
 
 ---
-## Psychological & Jungian Depth
-
+## Psychological Depth
 The Sun represents **core identity**—the subjective experience of selfhood that persists beneath shifting moods, circumstances, and conditioning. In Human Design, it is the most heavily weighted planet (70% conscious personality calculation), marking the "costume" through which the soul expresses in this incarnation.
 
 Psychologically, a strong solar principle correlates with:
@@ -156,8 +155,7 @@ The Sun's aspects to other planets reveal how the core identity interfaces with 
 - **Sun-Pluto:** The will encounters the underworld. Identity is transformed through crisis, power struggles, and regeneration. The solar self becomes the phoenix.
 
 ---
-## Shadow and Inflation
-
+## Shadow Expression
 The Sun's shadow is **grandiosity**—the ego that believes itself to be the Self, the solar inflation that demands constant validation and recognition.
 
 **Shadow expressions:**
@@ -170,8 +168,7 @@ The Sun's shadow is **grandiosity**—the ego that believes itself to be the Sel
 **Integration:** The mature Sun does not perform. It *is*—and in that being, it gives permission for others to shine as well. The solar gift is not domination but **illumination**: to light the way without casting shadow over others.
 
 ---
-## Invitation for Contemplation
-
+## Interpretation Guide
 Where does your Sun *actually* shine—not where you were told it should, but where it cannot help but radiate? The solar question is not "What do I want to be?" but "What am I already, beneath the costume?"
 
 The Sun does not perform. It simply *is*—and in that being, the world organizes itself around your light.

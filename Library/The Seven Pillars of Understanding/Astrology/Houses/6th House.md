@@ -167,8 +167,7 @@ When [[Pluto ♇]] is in the 6th House, **work becomes ritual death and rebirth*
 
 ---
 
-## Psychological & Jungian Depth
-
+## Psychological Depth
 The 6th House represents the **disciplined ego**—the part of the psyche that organizes, maintains, and serves. In Jungian terms, this is the **adaptive function**: the capacity to subordinate desire (5th House) to necessity.
 
 **Healthy 6th House:**
@@ -195,8 +194,7 @@ In [[Human Design]], the 6th House corresponds to the **Spleen Center** (health,
 In Qabalistic terms, the 6th House corresponds to **Tiphareth** (Beauty)—not as aesthetic but as **harmony achieved through discipline**. The 6th House is the daily practice that maintains solar center.
 
 ---
-## Evolved vs. Unevolved Expression
-
+## Shadow Expression
 **Unevolved 6th House:**
 - **Martyrdom** — Service as self-sacrifice; health destroyed for others
 - **Perfectionism** — Work paralyzed by impossible standards
@@ -248,8 +246,7 @@ The 6th House governs **health**—not just physical symptoms but the body as fe
 The 6th House challenge is to **listen to the body before it screams**—to treat illness as teacher, not enemy.
 
 ---
-## Practical Guidance
-
+## Interpretation Guide
 ### For Those with a Strong 6th House (Planets in 6th)
 
 1. **Service is not martyrdom.** You are designed to serve, but not to the point of self-destruction.

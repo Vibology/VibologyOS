@@ -55,8 +55,7 @@ However, in modern esoteric interpretation, Uranus aligns with **diurnal (day) c
 Uranus does not favor either sect; he ruptures both. His appearance in any chart is a **deviation event**—the point where the inherited pattern (Saturn) is broken and the new pattern (not yet named) begins to emerge.
 
 ---
-## Psychological & Jungian Depth
-
+## Psychological Depth
 Uranus represents **individuation through rupture**—the capacity to break with consensus reality and forge a unique path. In Jungian terms, Uranus is the **call to differentiation**: the moment when the psyche refuses to remain unconscious and demands autonomy.
 
 Psychologically, a strong Uranus correlates with:
@@ -185,7 +184,7 @@ Uranus's **orbital period of 84 years** means that most individuals do *not* exp
 **Note:** Because Uranus moves slowly, its transits are *generational*—entire cohorts experience the same Uranus square or opposition within a few years of each other. This is why certain ages (21, 42) are marked by collective rupture and transformation.
 
 ---
-## Shadow Expressions and the Uranian Wound
+## Shadow Expression
 
 Uranus's shadow is **chaos for its own sake**—the rupture that destroys without offering an alternative, the rebellion that serves only the ego's need to differentiate.
 
@@ -202,8 +201,7 @@ Uranus's shadow is **chaos for its own sake**—the rupture that destroys withou
 **Integration:** The mature Uranus knows that *not all structure is oppressive* and *not all tradition is dead*. He ruptures what is ossified, not what is living. He builds the new *while honoring what was generative in the old*. The Uranian gift is not alienation but **authentic differentiation**—the courage to be genuinely oneself without needing to destroy the world in the process.
 
 ---
-## Invitation for Contemplation
-
+## Interpretation Guide
 What part of you is *too weird* to show the world—and what would happen if you stopped hiding it? Uranus does not ask for permission. He simply *is*—and in that being, he gives permission to everyone else to be equally strange.
 
 The Uranian question is not "How do I fit in?" but "What am I here to disrupt, and do I have the courage to do it?"

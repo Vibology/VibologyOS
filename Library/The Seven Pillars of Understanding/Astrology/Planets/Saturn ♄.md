@@ -69,8 +69,7 @@ Saturn is the **diurnal sect light** among the malefics. In traditional astrolog
 In sect, Saturn is the **master craftsman**—patient, exacting, rewarding competence. Out of sect, Saturn is the **tyrant**—cold, withholding, the weight that crushes without mercy.
 
 ---
-## Psychological & Jungian Depth
-
+## Psychological Depth
 Saturn represents **boundaries and structure**—the capacity to say "no," to delay gratification, to endure discomfort for future reward. In Jungian terms, Saturn is the **[[Shadow]] of the Self**: the part we reject because it reminds us of our limitations.
 
 Psychologically, a strong Saturn correlates with:
@@ -189,7 +188,7 @@ In esoteric anatomy, Saturn governs the **bones** (structure, endurance), the **
 - **[[Angelology]]:** Thrones (divine judgment crystallized into form)
 
 ---
-## Shadow Expressions and the Saturnian Wound
+## Shadow Expression
 
 Saturn's shadow is **tyranny without mercy**—the judge who offers no appeal, the structure that crushes rather than supports, the limitation that is arbitrary rather than instructive.
 
@@ -206,8 +205,7 @@ Saturn's shadow is **tyranny without mercy**—the judge who offers no appeal, t
 **Integration:** The mature Saturn knows that **limitation is not punishment**—it is the boundary that makes form possible. Without edges, there is no vessel; without consequence, there is no meaning. The Saturnian gift is not harshness but **clarity**—the capacity to see what is real, to accept it, and to build within its constraints.
 
 ---
-## Invitation for Contemplation
-
+## Interpretation Guide
 What have you been *delaying*, and what has been delaying *you*? Saturn does not hurry. He waits for readiness—and if readiness does not come, he removes the opportunity.
 
 The Saturnian question is not "Why is this hard?" but "What is this difficulty *teaching* me, and am I willing to learn?"

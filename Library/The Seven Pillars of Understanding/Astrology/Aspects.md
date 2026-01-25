@@ -104,8 +104,7 @@ The closer to exactitude (0° orb), the more intense the aspect's expression. To
 [^6]: Lilly, *Christian Astrology*, Book 2 (planetary orbs and moiety calculation)
 
 ---
-## Psychological & Jungian Depth
-
+## Psychological Depth
 Aspects are the **conversations** between planetary archetypes within the psyche. They reveal:
 - **Integration** (trines, sextiles): where psychic energy flows without obstruction
 - **Tension** (squares, oppositions): where growth is demanded through crisis
@@ -121,8 +120,7 @@ Aspects are the **geometry of fate**—the angles through which archetypal force
 The work is not to eliminate hard aspects but to **consciously engage** them—to transform tension into creative force, opposition into synthesis.
 
 ---
-## Invitation for Contemplation
-
+## Interpretation Guide
 Where in your chart do you feel the most **friction**—and have you mistaken that friction for failure, rather than recognizing it as the forge?
 
 Aspects teach that ease is not always growth. Sometimes, the square is the call. Sometimes, the opposition is the mirror. And sometimes, the conjunction is the annihilation that precedes rebirth.

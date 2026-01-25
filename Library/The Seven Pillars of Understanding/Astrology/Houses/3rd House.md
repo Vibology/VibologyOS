@@ -169,8 +169,7 @@ When [[Pluto ♇]] is in the 3rd House, **communication becomes weapon or excava
 
 ---
 
-## Psychological & Jungian Depth
-
+## Psychological Depth
 The 3rd House represents **the cognitive substrate**—the unconscious patterns of thought that shape how you perceive reality. In Jungian terms, this is the **thinking function** (not philosophical thinking, but associative, networked cognition).
 
 **Healthy 3rd House:**
@@ -197,8 +196,7 @@ In [[Human Design]], the 3rd House corresponds to the **Ajna Center** (mental aw
 In Qabalistic terms, the 3rd House corresponds to **Hod** (Splendor/Glory)—the sphere of intellect, language, and the structuring of thought.
 
 ---
-## Evolved vs. Unevolved Expression
-
+## Shadow Expression
 **Unevolved 3rd House:**
 - **Gossip and chatter** — Communication without substance; words as noise
 - **Mental arrogance** — Confusing intelligence with wisdom
@@ -229,8 +227,7 @@ The 3rd House governs **siblings**—the first lateral relationships (not vertic
 The 3rd House challenge is to heal sibling wounds so they do not contaminate all lateral relationships (peers, colleagues, community).
 
 ---
-## Practical Guidance
-
+## Interpretation Guide
 ### For Those with a Strong 3rd House (Planets in 3rd)
 
 1. **Your mind is a gift, not your identity.** Thoughts are tools; do not become them.

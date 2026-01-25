@@ -54,8 +54,7 @@ Unlike the [[Sun ☉]] (diurnal) and [[Moon ☽]] (nocturnal), Mercury is **sect
 **Mercury's chameleon nature:** He is the ultimate adapter, shifting tone, speed, and style based on context. This makes Mercury the most flexible planetary principle—but also the most susceptible to conditioning and environmental influence.
 
 ---
-## Psychological & Jungian Depth
-
+## Psychological Depth
 Mercury represents **cognitive function**—the mind's capacity to observe, categorize, and articulate. In Jungian typology, Mercury correlates with the **Thinking** function (logic, analysis) and the **Sensation** function (empirical perception).
 
 Psychologically, a strong Mercury correlates with:
@@ -186,8 +185,7 @@ Mercury retrogrades **three to four times per year**, each cycle lasting approxi
 **Birth chart Mercury retrograde:** Natives born with Mercury retrograde often process information differently—they may be slower to speak but deeper in thought, more introspective, more comfortable with ambiguity. The mercurial function is **internalized**; these natives think *before* they speak, often questioning consensus narratives.
 
 ---
-## Shadow and the Trickster's Trap
-
+## Shadow Expression
 Mercury's shadow is **deception**—both self-deception and the manipulation of others through language. The Trickster who serves consciousness can also betray it.
 
 **Shadow expressions:**
@@ -209,8 +207,7 @@ Mercury's shadow is **deception**—both self-deception and the manipulation of 
 - **[[Angelology]]:** Principalities (messengers of divine law to earthly realms)
 
 ---
-## Invitation for Contemplation
-
+## Interpretation Guide
 What are you *thinking about* versus what is **thinking you**? Mercury's gift is awareness—but awareness, left unexamined, becomes the prison of repetitive thought patterns.
 
 The mercurial question is not "What do I know?" but "How am I organizing the data of my experience, and who benefits from that organization?"

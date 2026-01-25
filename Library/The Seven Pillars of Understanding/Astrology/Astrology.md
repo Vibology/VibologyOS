@@ -12,8 +12,7 @@ verification_notes: "Pillar overview file. Content is meta-level synthesis and e
 *The Language of Planetary Timing and Cosmic Positioning*
 
 ---
-## What is Astrology?
-
+## Archetypal Essence
 **Astrology** is the ancient practice of reading meaning from celestial patterns—a symbolic language that correlates the positions and movements of planets, luminaries, and stars with terrestrial events and human consciousness. At its core, astrology operates on the principle of **"as above, so below"**—the Hermetic axiom that the macrocosm (celestial sphere) mirrors the microcosm (individual soul, collective culture, earthly events).
 
 Astrology does not claim that planets *cause* events through mechanical force, but rather that they **signify** and **synchronize** with unfolding patterns. The cosmos is not a clockwork mechanism but a living **field of correspondences**—a web of meaning where every planetary configuration reflects archetypal dynamics playing out at multiple scales simultaneously.

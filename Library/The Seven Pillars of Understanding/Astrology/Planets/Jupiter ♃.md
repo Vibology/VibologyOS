@@ -52,8 +52,7 @@ Jupiter is the **diurnal (day) sect planet** and the **greater benefic** (the le
 **Nocturnal charts (Jupiter out of sect):** Jovian gifts are more internalized, private, or spiritual. Wisdom is cultivated through inner reflection rather than external study. Jupiter here still protects and expands, but the native must actively claim their faith rather than receiving it effortlessly.
 
 ---
-## Psychological & Jungian Depth
-
+## Psychological Depth
 Jupiter represents **expansion of consciousness**—not merely accumulation of knowledge, but the synthesis of experience into wisdom. In Jungian terms, Jupiter is the **[[Wise Old Man]]**, the archetypal guide who offers perspective from a higher vantage.
 
 Psychologically, a strong Jupiter correlates with:
@@ -196,8 +195,7 @@ Jupiter completes one orbit of the zodiac approximately every **11.86 years**, m
 **Jupiter transits:** Each time transiting Jupiter aspects natal planets or angles, the native experiences a **temporary expansion** in the domain governed by that planet or point. Jupiter transits are generally protective and fortunate, though they can also bring excess, inflation, or the temptation to overextend.
 
 ---
-## Shadow and Inflation
-
+## Shadow Expression
 The shadow of Jupiter is **excess and false faith**—the expansion beyond what can be sustained, the belief that refuses to be tested by reality.
 
 **Shadow expressions:**
@@ -215,8 +213,7 @@ The shadow of Jupiter is **excess and false faith**—the expansion beyond what 
 True Jovian wisdom is not the accumulation of knowledge but the **humility to know what one does not know**, and the generosity to share what one has learned without attachment to being right.
 
 ---
-## Invitation for Contemplation
-
+## Interpretation Guide
 What do you *believe*—not in the sense of religious creed, but in the sense of the unspoken assumptions that structure your reality? Jupiter governs the **Inner Law**: the ethical framework that emerges when external authority is stripped away.
 
 The Jovian question is not "What do I know?" but "What do I trust to be true, and what am I willing to stake my life upon?"

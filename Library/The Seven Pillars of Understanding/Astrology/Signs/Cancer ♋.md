@@ -140,8 +140,7 @@ When planets occupy the 4th House or Cancer, the soul's work is deeply tied to *
 Shadow: The 4th House can also represent **ancestral wounds**, unmetabolized family trauma, the inheritance of patterns that must be broken. Cancer's work is to honor the ancestors without being enslaved by them, to create home without being imprisoned by it.
 
 ---
-## Psychological & Jungian Depth
-
+## Psychological Depth
 Cancer represents **belonging**—the primal need for connection to clan, to home, to the matrix from which the individual emerged. In Jungian terms, Cancer is the **[[Great Mother]] in her protective aspect**: the womb, the breast, the safe haven.
 
 Psychologically, strong Cancer placement correlates with:
@@ -181,7 +180,7 @@ In traditional medical astrology, Cancer governs the **receptive and digestive o
 **Remediation (traditional):** Lunar herbs (chamomile, jasmine, white willow—soothing, cooling), foods that nourish the stomach (broths, warming soups, easily digestible proteins), practices that honor the mother-lineage (ancestral veneration, matrilineal ritual), water therapy (baths, swimming, the literal return to the womb of the ocean), and emotional boundary work (learning to say "no" without guilt, claiming one's own needs).
 
 ---
-## Shadow Expressions and the Cancerian Wound
+## Shadow Expression
 
 Cancer's shadow is **the Devouring Mother**—love that consumes, protection that imprisons, nurturance that creates dependency rather than autonomy.
 
@@ -208,8 +207,7 @@ In the [[Human Design]] system, Cancer corresponds to the **G-Center**: the seat
 In esoteric anatomy, Cancer governs the **breasts** (nourishment), the **stomach** (digestion, the body's capacity to receive), and the **womb** (gestation, the creation of new life).
 
 ---
-## Invitation for Contemplation
-
+## Interpretation Guide
 Where do you *belong*—and have you confused belonging with **approval**? Cancer at its highest knows the difference: belonging is unconditional, approval is earned. You do not need to perform to be held.
 
 The Cancer question is not "Am I lovable?" but "Can I hold myself with the same tenderness I offer others?"

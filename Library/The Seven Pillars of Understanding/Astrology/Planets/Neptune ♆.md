@@ -67,8 +67,7 @@ Neptune was discovered in **1846**, long after the development of traditional se
 However, Neptune's archetypal function is fundamentally **nocturnal** in spirit: he governs the dream, the unconscious, the dissolution of solar (diurnal) certainty. In practice, Neptune operates beyond the diurnal/nocturnal polarity—he dissolves the distinction between day and night, conscious and unconscious, real and unreal.
 
 ---
-## Psychological & Jungian Depth
-
+## Psychological Depth
 Neptune represents **the collective unconscious**—the oceanic realm where individual identity dissolves into archetypal currents. In Jungian terms, Neptune is the **numinous**: the encounter with the sacred that cannot be rationalized.
 
 Psychologically, a strong Neptune correlates with:
@@ -192,7 +191,7 @@ In esoteric anatomy, Neptune governs the **pineal gland** (gateway to non-ordina
 - **[[Angelology]]:** Seraphim (closest to the Divine, beyond form)
 
 ---
-## Shadow Expressions and the Neptunian Wound
+## Shadow Expression
 
 Neptune's shadow is **dissolution without discernment**—the veil that obscures rather than reveals, the surrender that becomes self-erasure, the dream that becomes delusion.
 
@@ -213,8 +212,7 @@ Neptune's shadow is **dissolution without discernment**—the veil that obscures
 True Neptunian wisdom is not the dissolution of all boundaries but the **discernment of which boundaries to dissolve and which to honor**. The mystic who cannot return to the world is lost; the mystic who can navigate between worlds is whole.
 
 ---
-## Invitation for Contemplation
-
+## Interpretation Guide
 What are you *certain* of, and what would dissolve if you stopped defending that certainty? Neptune does not argue with your beliefs. He simply washes them away, leaving only what is essential.
 
 The Neptunian question is not "What is real?" but "What remains when all illusions are stripped away—and can I bear to see it?"

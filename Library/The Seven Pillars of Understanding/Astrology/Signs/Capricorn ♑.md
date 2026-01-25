@@ -112,8 +112,7 @@ This is the axis of **parenthood and legacy**—the Father who builds the struct
 The integration of this axis is **compassionate leadership**: building with care, leading with warmth, knowing when to be the authority and when to be the nurturer. The mature Capricorn knows when to descend; the mature Cancer knows when to let go.
 
 ---
-## Psychological & Jungian Depth
-
+## Psychological Depth
 Capricorn represents **the mature ego**—the self that has survived initiation and emerged with competence. In Jungian terms, Capricorn is the **[[Wise Old Man]]**: the archetype that offers structure, discipline, and the hard-won wisdom of experience.
 
 Psychologically, strong Capricorn placement correlates with:
@@ -198,7 +197,7 @@ In esoteric anatomy, Capricorn governs the **knees** (the joints that allow asce
 - **Element Tradition:** Cardinal Earth (Mountain, the initiating foundation upon which civilization stands)
 
 ---
-## Internal Links & Related Concepts
+## Cross-References
 
 - **Signs:** [[Sagittarius ♐]] (vision that Capricorn applies), [[Cancer ♋]] (polarity—nurturance vs. structure), [[Taurus ♉]] (earth as embodiment), [[Virgo ♍]] (earth as refinement)
 - **Planets:** [[Saturn ♄]] (ruler), [[Mars ♂]] (exalted at 28°), [[Moon ☽]] (detriment), [[Jupiter ♃]] (fall at 15°)
@@ -208,8 +207,7 @@ In esoteric anatomy, Capricorn governs the **knees** (the joints that allow asce
 - **Themes:** [[Shadow]] (tyranny, workaholism), [[Wise Old Man]] (earned mastery), [[Individuation]] (learning when to climb, when to descend)
 
 ---
-## Invitation for Contemplation
-
+## Interpretation Guide
 What are you building—and for whom? Capricorn at its shadow builds to prove worth, to earn love, to escape the wound of inadequacy. Capricorn at its height builds because the work **demands** to be done, and you are the one equipped to do it.
 
 The Capricorn question is not "Am I successful?" but "Am I building something that serves life, or am I building a monument to my fear of death?"

@@ -153,8 +153,7 @@ When planets occupy the 12th House or Pisces, the soul's work is deeply tied to 
 Shadow: The 12th House can also represent **escapism, addiction, and the loss of self**. Pisces' work is to surrender without being consumed, to dissolve boundaries without losing discernment, to serve the whole without martyring the self.
 
 ---
-## Psychological & Jungian Depth
-
+## Psychological Depth
 Pisces represents **the oceanic experience**—the pre-verbal, pre-egoic state of fusion with the whole. In Jungian terms, Pisces is the **[[Collective Unconscious]] in its most numinous aspect**: the mystical encounter that dissolves the boundaries of the personal psyche.
 
 Psychologically, strong Pisces placement correlates with:
@@ -196,7 +195,7 @@ In traditional medical astrology, Pisces governs the **dissolution and purificat
 **Remediation (traditional):** Neptunian herbs (mugwort, blue lotus, skullcap—visionary, sedative, dream-enhancing), practices that honor rest and dissolution (sleep hygiene, dream work, meditation, flotation tanks), grounding practices (walking barefoot, foot massage, earthing), lymphatic support (dry brushing, rebounding, hydration), and boundary work (learning to say "no," distinguishing self from other, reclaiming personal will).
 
 ---
-## Shadow Expressions and the Piscean Wound
+## Shadow Expression
 
 Pisces' shadow is **the Victim**—suffering as identity, martyrdom as defense, the refusal to claim agency or boundaries.
 
@@ -224,8 +223,7 @@ In the [[Human Design]] system, Pisces corresponds to the **Solar Plexus Center*
 In esoteric anatomy, Pisces governs the **feet** (the ground of incarnation, the final contact with earth), the **lymphatic system** (purification, the dissolution of toxins), and the **pineal gland** (gateway to non-ordinary states).
 
 ---
-## Invitation for Contemplation
-
+## Interpretation Guide
 What are you *holding onto*, and what would happen if you let it dissolve? Pisces at its shadow clings to suffering because it is familiar, because dissolution feels like death. Pisces at its height knows that **death is not the end**—it is the return to the source so the soul may be reborn.
 
 The Pisces question is not "How do I protect myself?" but "Can I trust that if I dissolve, I will reform—and that what reforms will be closer to truth than what dissolved?"

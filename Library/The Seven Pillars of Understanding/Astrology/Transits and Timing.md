@@ -118,8 +118,7 @@ Carl Jung's concept of **[[Individuation]]**[^2] is fundamentally a *temporal pr
 By following transits with awareness, the individual learns to **trust the timing**—to recognize that delays, crises, and losses are not failures but **initiations**.
 
 ---
-## Invitation for Contemplation
-
+## Interpretation Guide
 What are you resisting *right now*—and is it possible that the resistance itself is the lesson?
 
 Transits teach that you cannot control the weather. You can only **learn to navigate** it—and in that navigation, discover whether you are the puppet or the sailor.

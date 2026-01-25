@@ -122,8 +122,7 @@ The 3rd House governs:
 Where the **[[9th House]]** (Sagittarius) seeks distant horizons and grand meaning, the 3rd House explores the **near and the particular**. The question is not "What is the ultimate truth?" but "What is happening *here*, in this conversation, right now?"
 
 ---
-## Psychological & Jungian Depth
-
+## Psychological Depth
 Gemini represents **cognitive flexibility**—the capacity to hold multiple perspectives simultaneously without collapsing into one. In Jungian terms, Gemini is the **[[Trickster]]**: the archetype that destabilizes fixed meanings, that reveals the arbitrary nature of all categories.
 
 Psychologically, strong Gemini placement correlates with:
@@ -166,7 +165,7 @@ In the [[Human Design]] system, Gemini corresponds to the **Ajna Center**: the c
 In esoteric anatomy, Gemini governs the **lungs** (breath, the exchange between inner and outer), the **arms and hands** (reach, manipulation, gesture), and the **nervous system** (network, signal transmission).
 
 ---
-## Shadow Expressions and the Gemini Wound
+## Shadow Expression
 
 Gemini's shadow is **scatteredness without coherence**—the collector of fragments who never assembles them into whole, the conversationalist who never listens, the shapeshifter who forgets which face is theirs.
 
@@ -189,8 +188,7 @@ Gemini's shadow is **scatteredness without coherence**—the collector of fragme
 - **[[Human Design]]:** Ajna Center (conceptualization, mental pattern-making)
 
 ---
-## Invitation for Contemplation
-
+## Interpretation Guide
 How many versions of yourself do you perform—and which one is real? Gemini teaches that the question is misplaced: there is no "real" self beneath the masks. **You are the act of performance itself.**
 
 The Gemini question is not "Who am I?" but "What happens when I allow myself to be many things, and trust the coherence to emerge from the dance?"

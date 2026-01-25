@@ -139,8 +139,7 @@ The 11th House governs:
 Where the **[[5th House]]** (Leo) is the individual's creative expression, the 11th House is the collective's **co-creation**. The question is not "What do I want to create?" but "What does the collective need, and how do I contribute to it?"
 
 ---
-## Psychological & Jungian Depth
-
+## Psychological Depth
 Aquarius represents **the collective psyche**—the recognition that consciousness is not private property but a shared field. In Jungian terms, Aquarius is the **[[Collective Unconscious]]** made conscious: the archetypes, the myths, the patterns that structure human experience across culture and time.
 
 Psychologically, strong Aquarius placement correlates with:
@@ -185,7 +184,7 @@ In the [[Human Design]] system, Aquarius corresponds to the **Head Center** (men
 In esoteric anatomy, Aquarius governs the **ankles** (flexibility, the capacity to pivot), the **circulatory system** (distribution of life force), and the **nervous system** (network, signal transmission).
 
 ---
-## Shadow Expressions and the Aquarius Wound
+## Shadow Expression
 
 Aquarius's shadow is **fanaticism disguised as humanitarianism**—the revolutionary who sacrifices the individual for the ideology, the visionary who cannot see the human beings in front of them because they are fixated on the abstract collective.
 
@@ -207,8 +206,7 @@ Aquarius's shadow is **fanaticism disguised as humanitarianism**—the revolutio
 - **[[Jungian Archetypes]]:** The Collective Unconscious, The Revolutionary
 - **[[Human Design]]:** Head Center (inspiration, mental pressure)
 
-## Invitation for Contemplation
-
+## Interpretation Guide
 What vision are you carrying for the collective—and have you mistaken it for your *personal* salvation? Aquarius at its shadow loses itself in the abstract, forgetting that the collective is made of *individuals* with bodies, hearts, and needs.
 
 The Aquarius question is not "What does humanity need?" but "How do I serve the whole without betraying my own essence?"

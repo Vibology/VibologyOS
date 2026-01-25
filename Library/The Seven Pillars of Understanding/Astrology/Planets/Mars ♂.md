@@ -54,8 +54,7 @@ Mars is the **nocturnal sect light** among the malefics. In traditional astrolog
 In sect, Mars is the **surgeon's blade**—precise, necessary, life-saving. Out of sect, Mars is the **wound that festers**—unchecked aggression turned inward or outward without discrimination.
 
 ---
-## Psychological & Jungian Depth
-
+## Psychological Depth
 Mars represents **drive and assertion**—the capacity to initiate, to act, to claim space. In Jungian terms, Mars is the **aggressive instinct**: not evil, but necessary for survival and [[Individuation]]. Without Mars, the psyche collapses into passivity, resentment, and the slow death of unexpressed desire.
 
 Psychologically, a strong Mars correlates with:
@@ -185,8 +184,7 @@ Mars has an **orbital period of ~687 days** (~2 years to complete one zodiacal c
 **Integration:** Use Mars retrograde to *sharpen the blade*—train, prepare, strategize. When Mars stations direct, the warrior is ready to act with precision rather than blind force.
 
 ---
-## Shadow Expressions and the Martial Wound
-
+## Shadow Expression
 Mars's shadow is **violence without purpose**—the force that destroys for the sake of destruction, the rage that consumes everything in its path.
 
 **Shadow expressions:**
@@ -201,8 +199,7 @@ Mars's shadow is **violence without purpose**—the force that destroys for the 
 **Integration:** The mature Mars knows *when* to strike and *when* to sheathe the blade. He fights *for* something (purpose, protection, transformation) rather than *against* everything. The martial gift is not violence but **clarity of desire**—the capacity to say "I want this" and move toward it without apology, without cruelty, without collapse.
 
 ---
-## Invitation for Contemplation
-
+## Interpretation Guide
 What are you *not saying*, not doing, not claiming—because you fear the violence of your own desire? Mars does not apologize for wanting. He moves toward what he hungers for, and the world rearranges itself around his trajectory.
 
 The martial question is not "Am I too much?" but "Am I willing to *be* the mutation that ruptures the status quo?"

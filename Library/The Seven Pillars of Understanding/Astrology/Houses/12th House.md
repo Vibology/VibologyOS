@@ -165,8 +165,7 @@ When [[Pluto ♇]] is in the 12th House, **the underworld is home**. These indiv
 **Challenge:** Self-destruction, addiction, institutionalization, inability to surface from the depths
 
 ---
-## Psychological & Jungian Depth
-
+## Psychological Depth
 The 12th House represents the **Personal and Collective Unconscious**—the reservoir of forgotten memories, inherited trauma, and archetypal images. In Jungian terms, this is the **Shadow at its deepest**—not just disowned qualities but the primordial void from which all emerges.
 
 **Healthy 12th House:**
@@ -193,8 +192,7 @@ In [[Human Design]], the 12th House corresponds to the **Solar Plexus Center** (
 In Qabalistic terms, the 12th House corresponds to **Kether** (Crown)—the point before manifestation, the void from which all emerges and to which all returns.
 
 ---
-## Evolved vs. Unevolved Expression
-
+## Shadow Expression
 **Unevolved 12th House:**
 - **Self-sabotage** — Unconscious patterns that destroy what is built
 - **Addiction** — Using escape to avoid pain
@@ -321,8 +319,7 @@ The 12th House is the **gateway to the numinous**—the place where ego dissolve
 The 12th House challenge is to recognize that **mysticism is not escape**—it is the return to Source that makes embodied life sacred.
 
 ---
-## Practical Guidance
-
+## Interpretation Guide
 ### For Those with a Strong 12th House (Planets in 12th)
 
 1. **You are designed for solitude.** Do not shame yourself for needing withdrawal—it is your spiritual practice.

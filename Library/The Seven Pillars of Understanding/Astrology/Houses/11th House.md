@@ -164,8 +164,7 @@ When [[Pluto ♇]] is in the 11th House, **transformation occurs through communi
 **Challenge:** Cult dynamics, manipulation within communities, obsessive ideological allegiance, power struggles in groups
 
 ---
-## Psychological & Jungian Depth
-
+## Psychological Depth
 The 11th House represents the **Collective Unconscious**—the shared dreams, hopes, and ideals of humanity. In Jungian terms, this is the **Social Self**: the part of identity that exists only in relation to the group.
 
 **Healthy 11th House:**
@@ -192,8 +191,7 @@ In [[Human Design]], the 11th House corresponds to the **Throat Center** (manife
 In Qabalistic terms, the 11th House corresponds to **Chokmah** (Wisdom)—the sphere of vision, the masculine principle that sees the pattern before it manifests.
 
 ---
-## Evolved vs. Unevolved Expression
-
+## Shadow Expression
 **Unevolved 11th House:**
 - **Isolation** — Refusing community, fearing connection
 - **Utopianism** — Vision disconnected from reality, ideals that cannot be enacted
@@ -296,8 +294,7 @@ The 11th House governs **community**—not tribe (4th House) or partnership (7th
 The 11th House challenge is to **build community consciously**—to recognize that the collective is only as healthy as its individuals.
 
 ---
-## Practical Guidance
-
+## Interpretation Guide
 ### For Those with a Strong 11th House (Planets in 11th)
 
 1. **You are designed for community.** Do not shame yourself for needing collective belonging—isolation depletes you.

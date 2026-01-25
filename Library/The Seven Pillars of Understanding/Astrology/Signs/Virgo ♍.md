@@ -110,8 +110,7 @@ This is the axis of **healing and faith**—the Maiden who heals through analysi
 The integration of this axis is **compassionate service**: analyzing without judgment, refining without cruelty, knowing when to work and when to rest. The mature Virgo knows when to surrender; the mature Pisces knows what is worth saving.
 
 ---
-## Psychological & Jungian Depth
-
+## Psychological Depth
 Virgo represents **the sacred in service**—the recognition that care for detail is a spiritual discipline. In Jungian terms, Virgo is the **[[Wise Old Man]] in apprentice form**: the one who seeks mastery not for glory but for the sake of the work itself.
 
 Psychologically, strong Virgo placement correlates with:
@@ -196,7 +195,7 @@ In esoteric anatomy, Virgo governs the **intestines** (discernment, the body's c
 - **Element Tradition:** Mutable Earth (Soil, adaptable foundation that nourishes growth)
 
 ---
-## Internal Links & Related Concepts
+## Cross-References
 
 - **Signs:** [[Leo ♌]] (celebration that Virgo refines), [[Pisces ♓]] (polarity—dissolution vs. discernment), [[Taurus ♉]] (earth as embodiment), [[Capricorn ♑]] (earth as structure)
 - **Planets:** [[Astrology/Planets/Mercury # ☿]] (ruler and exaltation at 15°), [[Jupiter ♃]] (detriment), [[Venus ♀]] (fall at 27°)
@@ -206,8 +205,7 @@ In esoteric anatomy, Virgo governs the **intestines** (discernment, the body's c
 - **Themes:** [[Shadow]] (perfectionism, criticism), [[Wise Old Man]] (mastery through apprenticeship), [[Individuation]] (learning when to analyze, when to surrender)
 
 ---
-## Invitation for Contemplation
-
+## Interpretation Guide
 What are you *perfecting*, and for whom? Virgo energy at its shadow believes that love is earned through flawlessness. Virgo at its height knows that love is the **ground of refinement**, not its reward.
 
 The Virgo question is not "Am I good enough?" but "Am I willing to tend this work with love, knowing it will never be finished?"

@@ -168,8 +168,7 @@ When [[Pluto ♇]] is in the 2nd House, **death and rebirth occur around resourc
 
 ---
 
-## Psychological & Jungian Depth
-
+## Psychological Depth
 The 2nd House represents **self-worth and deservingness**—the unconscious belief about whether you are entitled to exist, to have, to take up space.
 
 **Healthy 2nd House:**
@@ -196,8 +195,7 @@ In [[Human Design]], the 2nd House corresponds to the **Sacral Center** (sustain
 In Qabalistic terms, the 2nd House corresponds to **Yesod** (Foundation)—the sphere that gathers and stabilizes energy before it manifests in Malkuth (physical reality).
 
 ---
-## Evolved vs. Unevolved Expression
-
+## Shadow Expression
 **Unevolved 2nd House:**
 - **Materialism** — Worth measured by possessions; spiritual bankruptcy
 - **Greed** — Hoarding resources out of fear; never enough
@@ -222,8 +220,7 @@ The **2nd House principle** (resources, values) applies to every house through *
 Derivative houses reveal how the 2nd House theme manifests in different life domains.
 
 ---
-## Practical Guidance
-
+## Interpretation Guide
 ### For Those with a Strong 2nd House (Planets in 2nd)
 
 1. **Your worth is not your net worth.** Resources are tools, not identity.

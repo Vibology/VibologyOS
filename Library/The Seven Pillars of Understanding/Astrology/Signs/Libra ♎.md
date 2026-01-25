@@ -125,8 +125,7 @@ The 7th House governs:
 Where the **[[1st House]]** (Aries) is the self in isolation, the 7th House is the self **in relationship**. The question is not "Who am I?" but "Who do I become when I stand before the other?"
 
 ---
-## Psychological & Jungian Depth
-
+## Psychological Depth
 Libra represents **the mirror of relationship**—the other as the screen onto which the [[Shadow]] is projected. In Jungian terms, Libra is the **[[Syzygy]]**: the union of opposites (anima/animus, masculine/feminine) that catalyzes [[Individuation]].
 
 Psychologically, strong Libra placement correlates with:
@@ -169,7 +168,7 @@ In the [[Human Design]] system, Libra corresponds to the **Ajna Center** (concep
 In esoteric anatomy, Libra governs the **kidneys** (filtration, the body's capacity to balance fluids) and the **lower back** (the fulcrum of the physical form).
 
 ---
-## Shadow Expressions and the Libra Wound
+## Shadow Expression
 
 Libra's shadow is **codependency disguised as love**—the one who loses themselves in the other, who mistakes self-erasure for harmony, who cannot name their needs for fear of disrupting the peace.
 
@@ -192,8 +191,7 @@ Libra's shadow is **codependency disguised as love**—the one who loses themsel
 - **[[Human Design]]:** G-Center (love, direction, identity in relationship)
 
 ---
-## Invitation for Contemplation
-
+## Interpretation Guide
 Who are you when no one is watching—and is that different from who you are in relationship? Libra at its shadow believes identity is *performed* for the other. Libra at its height knows that relationship **reveals** the self, not replaces it.
 
 The Libra question is not "How do I make them happy?" but "Can I hold my truth while honoring theirs, and trust that the tension is generative?"
