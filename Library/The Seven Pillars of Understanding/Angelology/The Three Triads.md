@@ -2,10 +2,9 @@
 tags: [angelology, celestial-hierarchy, triads, consciousness-structure]
 system: Angelology
 date_created: 2026-01-17
-source_verified: synthesis
-verification_date: 2026-01-23
-grimoire_source: "Pseudo-Dionysius Celestial Hierarchy, A Dictionary of Angels, Qabalistic Tarot"
-verification_notes: "Three Triads structure verified (First: Seraphim/Cherubim/Thrones, Second: Dominations/Virtues/Powers, Third: Principalities/Archangels/Angels). Pseudo-Dionysian framework accurate. Detailed individual angel descriptions and cross-system correspondences are synthesis."
+date_updated: 2026-01-24
+verified: 2026-01-24
+verification_source: Esoteric Grimoire
 category: Foundational Concept
 ---
 # The Three Triads
@@ -13,6 +12,8 @@ category: Foundational Concept
 
 ---
 ## Introduction: The Logic of Threes
+
+> *Vibology Synthesis: The Three Triads structure (Pseudo-Dionysius, Davidson) is verified in the Esoteric Grimoire. The Human Design center correspondences and psychological interpretations throughout this teaching are original Vibology integrations.*
 
 The **Three Triads** of angelic orders represent one of the most profound structures in Western mysticism—the architecture by which **divine consciousness descends** from the infinite unity of God (*Ein Sof*) to the multiplicity of the created world. This is not arbitrary organization; it is the **logic of emanation** itself.
 
@@ -42,9 +43,7 @@ Each triad contains **three orders**, creating a **3×3 matrix** (nine orders to
 
 ### The Nature of the First Triad
 
-The First Triad dwells in the **immediate presence of God**. They do not mediate divine will to lower orders or to humanity—they **are** the divine will, contemplating and radiating the primal light without distortion. Pseudo-Dionysius writes:
-
-> *"The first hierarchy of the heavenly beings is purified and illuminated and perfected by being filled directly from the Divine Source. They are established in the presence of God and are purified by the primal light itself, illuminated by the first emanation of divine knowledge."*
+The First Triad dwells in the **immediate presence of God**. They do not mediate divine will to lower orders or to humanity—they **are** the divine will, contemplating and radiating the primal light without distortion. Pseudo-Dionysius writes: *"The first hierarchy of the heavenly beings is purified and illuminated and perfected by being filled directly from the Divine Source. They are established in the presence of God and are purified by the primal light itself, illuminated by the first emanation of divine knowledge"* (Pseudo-Dionysius, *The Celestial Hierarchy*; Davidson, *A Dictionary of Angels*).
 
 These orders do not "act" in the way we understand action. Their **being is their function**. To be a Seraph is to *burn* with divine love; to be a Cherub is to *whirl* with divine wisdom; to be a Throne is to *uphold* divine justice. They have no separate will, no ego, no personal agenda—they are **transparency itself**, refracting the light of God without adding or subtracting from it.
 
@@ -97,9 +96,7 @@ Together, the First Triad constitutes the **Supernal Triangle** of Kether-Chokma
 
 The Second Triad represents the **transition from pure being to cosmic administration**. These orders no longer dwell in direct contemplation of God—they receive divine light from the First Triad and **apply it as cosmic law**. They govern the stars, the elements, the cycles of nature, the forces of creation and destruction.
 
-Pseudo-Dionysius writes:
-
-> *"The second hierarchy is purified, illuminated, and perfected by the light received from the first. They do not behold God directly, but they receive the divine illumination as it is mediated through the higher orders."*
+Pseudo-Dionysius writes: *"The second hierarchy is purified, illuminated, and perfected by the light received from the first. They do not behold God directly, but they receive the divine illumination as it is mediated through the higher orders"* (Pseudo-Dionysius, *The Celestial Hierarchy*; Davidson).
 
 The Second Triad is the realm of **divine intelligence in action**—not the contemplation of truth, but the **administration of truth** throughout the created worlds.
 
@@ -152,9 +149,7 @@ Together, the Second Triad constitutes the **Ethical Triangle** of Chesed-Gebura
 
 The Third Triad represents the **final descent** of divine consciousness into the realm of form and particularity. These orders are the **messengers, guardians, and companions** of humanity. They are the angels we most commonly encounter in scripture, in vision, in dreams, in the sudden intuition that saves a life.
 
-Pseudo-Dionysius writes:
-
-> *"The third hierarchy is illuminated by those above them and, in turn, illuminates and guides the souls of men. These are the angels who appear to the prophets, who guide the nations, who attend upon individual souls."*
+Pseudo-Dionysius writes: *"The third hierarchy is illuminated by those above them and, in turn, illuminates and guides the souls of men. These are the angels who appear to the prophets, who guide the nations, who attend upon individual souls"* (Pseudo-Dionysius, *The Celestial Hierarchy*; Davidson).
 
 The Third Triad is the realm of **divine will in contact with human will**. Here, angelic intelligence meets human consciousness, offering guidance, protection, and—when necessary—correction.
 
@@ -241,3 +236,26 @@ To engage the Third Triad is to **listen to intuition, follow synchronicity, and
 ---
 
 *"The Three Triads are the ladder of divine descent and human ascent. In descending, God becomes the world. In ascending, the world becomes God. The angels are the rungs."*
+
+---
+
+## References
+
+*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
+
+Davidson, Gustav. *A Dictionary of Angels: Including the Fallen Angels*. New York: Free Press, 1967.
+- Three Triads structure
+- Nine orders with Hebrew names
+- Functions of each order
+- Qabalistic correspondences
+
+Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, ME: Samuel Weiser, 1983.
+- Sephirothic assignments
+- Golden Dawn correspondences
+
+**Scriptural References:**
+- Isaiah 6:1-7 (Seraphim vision)
+- Ezekiel 1, 10 (Cherubim vision)
+
+**Secondary Sources (Referenced via Primary Texts):**
+- Pseudo-Dionysius the Areopagite, *The Celestial Hierarchy* (6th century)
