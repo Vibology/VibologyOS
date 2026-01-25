@@ -697,3 +697,24 @@ When the curse is consciously engaged and the spell is broken, the following gif
 — Alchemical Wisdom
 
 ---
+
+## Sources & Further Reading
+
+### Primary Texts
+- **Grimm, Jacob and Wilhelm.** *Kinder- und Hausmärchen* (1812). Tales featuring curses and spells: "Sleeping Beauty," "Beauty and the Beast," "The Frog Prince," "The Six Swans," "Rapunzel."
+
+### Jungian Analysis
+- **Von Franz, Marie-Louise.** *The Interpretation of Fairy Tales* (1970). Enchantment as psychic dissociation and transformation catalyst.
+- **Von Franz, Marie-Louise.** *Shadow and Evil in Fairy Tales* (1974). The curse as shadow projection and frozen development.
+- **Jung, Carl Gustav.** *Mysterium Coniunctionis* (CW 14). The spell as alchemical fixatio and liberation through coniunctio.
+- **Jung, Carl Gustav.** *The Archetypes and the Collective Unconscious* (CW 9i). Enchantment and the activation of archetypes.
+
+### Feminist & Depth Psychology
+- **Estés, Clarissa Pinkola.** *Women Who Run With the Wolves* (1992). Breaking spells and reclaiming stolen voice/skin/soul.
+- **Bettelheim, Bruno.** *The Uses of Enchantment* (1976). Enchantment as developmental arrest and transformation.
+
+### Alchemical & Symbolic
+- **Jung, Carl Gustav.** *Psychology and Alchemy* (CW 12). Fixatio, mortificatio, and resurrection in alchemical work.
+- **Edinger, Edward F.** *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy* (1985). The spell as psychic fixation requiring solutio.
+
+---

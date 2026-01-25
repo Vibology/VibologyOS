@@ -638,3 +638,29 @@ The forest teaches that **consciousness requires periodic withdrawal**:
 ---
 
 *The forest is the great teacher. Enter often. Return transformed.*
+
+---
+
+## Sources & Further Reading
+
+### Primary Texts
+- **Grimm, Jacob and Wilhelm.** *Kinder- und Hausmärchen* (1812). Forest-centered tales: "Hansel and Gretel," "Little Red Riding Hood," "Snow White," "The Two Brothers."
+
+### Jungian Analysis
+- **Von Franz, Marie-Louise.** *The Interpretation of Fairy Tales* (1970). The forest as unconscious and wilderness initiation.
+- **Von Franz, Marie-Louise.** *Shadow and Evil in Fairy Tales* (1974). The forest as place of shadow encounter.
+- **Jung, Carl Gustav.** *The Archetypes and the Collective Unconscious* (CW 9i). The forest as symbol of the unconscious.
+- **Neumann, Erich.** *The Origins and History of Consciousness* (1949). The forest as the primordial mother-world and chaos.
+
+### Feminist & Depth Psychology
+- **Estés, Clarissa Pinkola.** *Women Who Run With the Wolves* (1992). The forest as Wild Woman's domain and instinctual home.
+
+### Comparative Mythology & Ritual
+- **Eliade, Mircea.** *Shamanism: Archaic Techniques of Ecstasy* (1951). The forest/wilderness as initiation space.
+- **Campbell, Joseph.** *The Hero with a Thousand Faces* (1949). The dark forest as threshold and belly of the whale.
+
+### Symbolic & Literary
+- **Tatar, Maria.** *The Hard Facts of the Grimms' Fairy Tales* (1987). Analysis of forest symbolism and danger in Grimm tales.
+- **Bettelheim, Bruno.** *The Uses of Enchantment* (1976). The forest as place of testing and transformation.
+
+---
