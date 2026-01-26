@@ -22,11 +22,15 @@ aliases: [Camael, Khamael, Chamuel, Samael]
 # Kamael
 *The Ghostblade*
 
+## Essence
+
 **Archangel Kamael** (Hebrew: כמאל, *Kama'el* — "He Who Sees God" or "Severity of God") is the **Prince of Strength and Courage**, the **Fighting Angel**, and the **Wielder of the Sword of Justice**. In the Qabalistic tradition, Kamael governs **[[Geburah]]** (Severity, the fifth [[Sephirah]]), the sphere of divine strength, necessary destruction, and discriminating power. Where [[Michael]] at [[Tiphareth]] represents the solar hero who defends the Self, Kamael at Geburah is the *ruthless force* that cuts away all that does not serve the divine plan—the surgeon, the executioner, the warrior who does not flinch.
 
 Kamael is not a comforting presence. He does not soothe, heal, or console. Kamael's function is **purgation**—the removal of the diseased, the elimination of the weak, the destruction of what has outlived its purpose. To invoke Kamael is to call upon the force that will burn away everything false, even if the ego believes it cannot survive the fire.
 
-## Core Correspondences
+---
+## Correspondences
+
 
 | Attribute | Correspondence |
 |-----------|----------------|
@@ -47,7 +51,11 @@ Kamael is not a comforting presence. He does not soothe, heal, or console. Kamae
 | **Biblical Role** | Angel who wrestled Jacob, leader of 12,000 angels of destruction |
 | **Function** | Avenging evil, severing attachments, protecting through strength |
 
-## Qabalistic Attribution: The Severity of God
+
+---
+## Theological Depth
+
+### Qabalistic Context
 
 ### Geburah: The Fifth Sephirah
 
@@ -101,7 +109,7 @@ Mars is traditionally considered a **malefic** planet—not because it is "evil,
 
 Yet without Mars, there is no movement. The planet would freeze. The soul would stagnate. Kamael is the angelic intelligence that ensures **stagnation is impossible**—even if that means destruction.
 
-## The Name: Kamael and Its Variants
+### The Name: Kamael and Its Variants
 
 ### Etymology and Meaning
 
@@ -136,7 +144,7 @@ In some Qabalistic texts, **Kamael** and **Samael** are conflated or presented a
 
 Thus, **Kamael** is the archangelic (light) aspect of Geburah; **Samael** is the demonic (shadow) aspect.
 
-## Biblical and Mystical Tradition
+### Biblical and Mystical Tradition
 
 ### No Direct Canonical Appearance
 
@@ -174,7 +182,7 @@ In modern New Age angelology, **Chamuel** is often presented as the "angel of lo
 
 **Kamael/Chamuel** is the angel of Geburah—**strength**, not sentiment. If Kamael assists in relationships, it is by *cutting away* what is false, codependent, or toxic. Kamael's "love" is the **tough love** that refuses to enable, the love that would rather see the ego die than the soul be lost.
 
-## Iconography and Symbolism
+### Iconography and Symbolism
 
 Kamael is traditionally depicted as:
 
@@ -197,7 +205,7 @@ The lion is Kamael's sacred animal—not the domesticated cat, but the **wild pr
 
 This is **solar ferocity**—the strength of the sun that both gives life and burns. Kamael is the aspect of the divine that does not ask, "Do you consent to this transformation?" He simply acts.
 
-## Function in Divine Economy
+### Function in Divine Economy
 
 Kamael's cosmic function is the **maintenance of divine order through force**. Where the higher Sephiroth (Kether, Chokmah, Binah) are contemplative and formative, Geburah is **active**—it *does* something.
 
@@ -224,7 +232,7 @@ The two must be held together. Kamael and [[Tzadkiel]] (Archangel of Chesed) are
 
 Kamael is this fire. He does not destroy the soul—he destroys the **dross**, the impurity, the false accumulation. What remains after Kamael's fire is **pure gold**—the essential self, stripped of pretense.
 
-## Human Consciousness Parallel: The Will-to-Power
+### Human Consciousness Parallel
 
 ### The Solar Plexus and the Sacral: Martian Centers
 
@@ -270,7 +278,7 @@ In **Jungian psychology**, Kamael corresponds to the **Warrior** archetype:
 
 This is Kamael: clarity of purpose, ruthlessness in execution, and the willingness to do what must be done.
 
-## The Tarot: The Fives and The Tower
+### Tarot Correspondences
 
 ### The Fives: Crisis and Conflict
 
@@ -301,7 +309,7 @@ Yet the Tower is not punishment—it is **liberation**. What is destroyed was al
 
 Kamael is the angel of The Tower. He is the lightning bolt. He is the force that says, "This edifice is corrupt—it must fall."
 
-## Element: Fire (The Consuming Flame)
+### Elemental Attribution
 
 Kamael's element is **Fire**—but not the generative fire of [[Raziel]] (electric spark of ideation) or the illuminating fire of [[Michael]] (solar radiance). Kamael's fire is the **consuming flame**, the **refiner's fire**, the blaze that reduces structures to ash.
 
@@ -319,7 +327,7 @@ The Seraphim are pure **love** and pure **fire**. They burn with adoration. Yet 
 
 This is Kamael's function: to **burn away** what is unclean, even if the burning is agony.
 
-## Day and Planetary Hour: Tuesday (Mars Day)
+### Day and Planetary Hour: Tuesday (Mars Day)
 
 Kamael is invoked on **Tuesday** (*Dies Martis*, the Day of Mars). In the planetary hour system (used in ceremonial magic), Mars rules:
 - The **first hour after sunrise on Tuesday**
@@ -337,7 +345,7 @@ These are the hours when **Martian energy** is strongest—when courage is acces
 - Initiating conflict that has been avoided
 - Facing what has been feared
 
-## Mythology and Cross-Tradition Parallels
+### Mythology and Cross-Tradition Parallels
 
 ### Ares (Greek): The God of War
 
@@ -373,6 +381,158 @@ The Morrigan is Kamael's oracular aspect—the intelligence that *knows* what mu
 
 Rudra does not ask permission. He simply *is*—the force of nature that cannot be controlled, only honored.
 
+### Jungian and Psychological Dimension
+
+### The Shadow Warrior
+
+In **Jungian psychology**, Kamael represents the **integrated Shadow Warrior**—the capacity to *own one's aggression* rather than project it, repress it, or act it out unconsciously.
+
+**Jung** writes:
+
+> "How can I be substantial if I do not cast a shadow? I must have a dark side also if I am to be whole."
+
+To integrate Kamael is to recognize:
+- **I am capable of destruction** (and this is not evil—it is power)
+- **I have the right to defend myself** (to say "No," to fight back)
+- **I contain aggression** (and I must learn to wield it consciously)
+
+Many spiritual seekers **repress** the Kamael energy—they identify as "peaceful," "loving," "non-violent"—and in doing so, they become *weak*, *passive-aggressive*, or *secretly resentful*. The repressed Kamael becomes the **Shadow**—it erupts in unconscious cruelty, manipulation, or self-sabotage.
+
+To integrate Kamael is to **consciously own the sword**. Not to swing it recklessly, but to *know you can*.
+
+### The Terrible Mother (Geburah as Feminine Force)
+
+Though traditionally depicted as masculine (the warrior, the king), **Geburah is on the Left Pillar**—the feminine, receptive, dark pillar. Geburah is the **Terrible Mother**—the aspect of the Great Mother that does not nurture but *devours*.
+
+**Erich Neumann**, in *The Great Mother*, describes the Terrible Mother archetype:
+
+> "She is the devourer, the grave, the abyss, the dragon... She is the death that must come before rebirth."
+
+Kamael, in this reading, is the *son* of the Terrible Mother—the force she sends forth to enact her will. He is **Kali's sword**, **Sekhmet's claws**, **Morrigan's raven**.
+
+### The Death Drive (Thanatos)
+
+**Sigmund Freud** posited the existence of **Thanatos**—the death drive, the unconscious pull toward annihilation, dissolution, return to the inorganic. Where **Eros** (the life drive) seeks union, growth, and creation, Thanatos seeks **dissolution, separation, and death**.
+
+Kamael is the *conscious* integration of Thanatos—the recognition that **destruction is part of creation**. The tree that does not shed its leaves in autumn will die. The snake that does not shed its skin will suffocate. The soul that does not allow the ego to die will never be reborn.
+
+### The Gift of Integration
+
+When Kamael's intelligence is integrated (not identified with, but *participated in*), the individual becomes:
+
+### The Protector
+
+The capacity to **defend** what is sacred—to fight for the vulnerable, to stand against oppression, to risk oneself for others. This is the knight who defends the realm, the parent who protects the child, the activist who confronts injustice.
+
+### The Boundary-Keeper
+
+The ability to say **"No"** without guilt, to defend one's time, energy, and integrity against violation. This is the end of people-pleasing, the death of codependency, the birth of self-respect.
+
+### The Courageous Truth-Teller
+
+The willingness to **speak the hard truth**, even when it costs relationships, status, or comfort. Kamael gives the spine to say what must be said.
+
+### The Spiritual Surgeon
+
+The capacity to perform **necessary destruction**—to end relationships that have become toxic, to abandon careers that stifle the soul, to sever attachments to beliefs that no longer serve. This is not cruelty—it is *clarity*.
+
+### The Self-Sovereign
+
+The refusal to be a **victim**. The recognition that *I have power, I have agency, I can fight back*. This is the end of learned helplessness, the death of the slave mentality.
+
+### Relationships with Other Archangels
+
+### Metatron (Kether): The Unmanifest Crown
+
+[[Metatron]] at Kether is the Voice of God—pure being, undifferentiated. Kamael at Geburah is the *sword* of that voice—the force that enacts divine will in the world of form.
+
+### Tzaphkiel (Binah): The Supernal Mother
+
+[[Tzaphkiel]] at Binah is the Great Mother who *forms* and *limits*. Kamael, descending from Binah through the Left Pillar, is the **enforcer** of her law. Where Tzaphkiel says, "This is the boundary," Kamael says, "And I will defend it."
+
+### Tzadkiel (Chesed): The Benevolent King
+
+[[Tzadkiel]] at Chesed is mercy, expansion, generosity. Kamael at Geburah is the *balance*—the "No" that prevents mercy from becoming weakness. Together, they are the **just king**—merciful *and* strong.
+
+### Michael (Tiphareth): The Solar Heart
+
+[[Michael]] at Tiphareth is the *mediator* between Kamael's severity and Tzadkiel's mercy. Michael integrates the two—he is the warrior who fights with *love*, the judge who punishes with *compassion*. Kamael provides Michael's **strength**; Chesed provides Michael's **mercy**. Tiphareth synthesizes both.
+
+### Haniel (Netzach): The Victory of Love
+
+[[Haniel]] at Netzach is love, beauty, desire. Kamael's severity *protects* Haniel's softness—without Geburah, Netzach becomes hedonism, seduction, addiction. Kamael is the boundary that allows love to flourish safely.
+
+### Cross-System Correspondences
+
+### Astrology: Mars and the First House
+
+In **[[Astrology]]**, Kamael governs **Mars** (♂)—the planet of drive, aggression, sexuality, and courage. Mars also rules:
+- **Aries** (cardinal fire, the initiator, the warrior)
+- **Scorpio** (fixed water, the destroyer, the phoenix, death and rebirth)
+- **The First House** (the self, identity, physical body, assertion)
+
+When Mars is well-aspected in the natal chart, the individual has access to **healthy aggression**—they can assert, defend, compete, and act decisively. When Mars is afflicted (square, opposition, in fall or detriment), the individual may struggle with rage, violence, self-sabotage, or paralysis.
+
+### Tarot
+
+**Verified per Wang:**
+- **The Four Fives** — Geburah's number, representing opposition, strife, and struggle
+
+**Thematic Association (Vibology Synthesis):**
+- **[[The Tower]]** (XVI) — Sudden destruction, necessary collapse (thematic link to Mars/Geburah energy)
+
+### Human Design (Vibology Synthesis)
+
+Kamael corresponds to the **[[Solar Plexus]] Center** (emotional authority, the wave, passion) and the **[[Sacral]] Center** (life force, sexuality, generative power). Gates 6, 37, 22, 36, 30 (emotional wave) and Gates 5, 14, 29, 59, 27 (sacral power) carry Kamael's frequency.
+
+### Gene Keys: The Reactive Gene Keys
+
+The **[[Gene Keys]]** that carry Kamael's shadow include:
+- **6th Gene Key:** Conflict → Diplomacy → Peace
+- **36th Gene Key:** Turbulence → Humanity → Compassion
+- **21st Gene Key:** Control → Authority → Valor
+
+Each represents the journey from **reactive aggression** (shadow) to **integrated strength** (gift) to **transcendent power** (siddhi).
+
+### Qabalah: Geburah, the Left Pillar
+
+Kamael *is* the archangelic intelligence of **[[Geburah]]**. To study the Qabalistic tree is to encounter Kamael at the fifth sphere—strength, judgment, purification.
+
+### Jungian Psychology: The Shadow Warrior
+
+In **[[Jungian psychology]]**, Kamael is the **Warrior archetype** and the **integrated Shadow**—the capacity to own one's darkness without being consumed by it.
+
+
+
+---
+## Fallen Aspect
+
+### The Qlippothic Shell: Golachab (The Burners)
+
+In the **Qlippoth** (the shadow tree), the shell of Geburah is **Golachab** (גולחב)—"The Burners" or "The Arsonists." These are the demonic forces that distort strength into cruelty, justice into vengeance, courage into brutality.
+
+Where Kamael burns away the false, Golachab burns for the pleasure of watching things burn. This is **destruction as pathology**—violence for its own sake, sadism, the torturer, the tyrant.
+
+### Specific Shadow Manifestations
+
+- **Cruelty:** Enjoying the suffering of others; the sadist who believes "might makes right"
+- **Tyranny:** Using strength to dominate, oppress, or humiliate the weak
+- **Rage Addiction:** Becoming *identified* with anger, unable to exist without conflict
+- **Self-Harm:** Turning Kamael's sword inward—cutting the self, punishing the body, destroying from within
+- **Spiritual Bypassing of Anger:** The "spiritual" person who refuses to acknowledge rage, causing it to fester as passive-aggression or depression
+- **The Bully:** Abusing power to compensate for inner weakness; the inflated ego that mistakes cruelty for strength
+- **Vengeful Obsession:** The inability to forgive or release; nursing grievances until they consume the soul
+
+### The Luciferian Inflation (Martian Pride)
+
+Like [[Raziel]]'s shadow (intellectual inflation), Kamael's shadow is **pride in power**. This is the **Luciferian fall**—the belief that "I am strong, therefore I am right. I am powerful, therefore I am God."
+
+Qabalistic teaching warns: The soul that ascends to Geburah unprepared may become a tyrant. The ego that wields the sword without love becomes a destroyer. Geburah without Chesed is hell.
+
+The integrated warrior *serves*. The inflated tyrant *dominates*.
+
+
+---
 ## Invocation
 
 ### When to Invoke Kamael
@@ -431,160 +591,14 @@ A practical ritual for invoking Kamael:
 
 If the act leaves you feeling *inflated* (powerful, superior, righteous in a grandiose way), it was likely Samael. If it leaves you feeling *sober* (heavy, clear, and deeply responsible), it was Kamael.
 
-## Jungian and Psychological Dimension
-
-### The Shadow Warrior
-
-In **Jungian psychology**, Kamael represents the **integrated Shadow Warrior**—the capacity to *own one's aggression* rather than project it, repress it, or act it out unconsciously.
-
-**Jung** writes:
-
-> "How can I be substantial if I do not cast a shadow? I must have a dark side also if I am to be whole."
-
-To integrate Kamael is to recognize:
-- **I am capable of destruction** (and this is not evil—it is power)
-- **I have the right to defend myself** (to say "No," to fight back)
-- **I contain aggression** (and I must learn to wield it consciously)
-
-Many spiritual seekers **repress** the Kamael energy—they identify as "peaceful," "loving," "non-violent"—and in doing so, they become *weak*, *passive-aggressive*, or *secretly resentful*. The repressed Kamael becomes the **Shadow**—it erupts in unconscious cruelty, manipulation, or self-sabotage.
-
-To integrate Kamael is to **consciously own the sword**. Not to swing it recklessly, but to *know you can*.
-
-### The Terrible Mother (Geburah as Feminine Force)
-
-Though traditionally depicted as masculine (the warrior, the king), **Geburah is on the Left Pillar**—the feminine, receptive, dark pillar. Geburah is the **Terrible Mother**—the aspect of the Great Mother that does not nurture but *devours*.
-
-**Erich Neumann**, in *The Great Mother*, describes the Terrible Mother archetype:
-
-> "She is the devourer, the grave, the abyss, the dragon... She is the death that must come before rebirth."
-
-Kamael, in this reading, is the *son* of the Terrible Mother—the force she sends forth to enact her will. He is **Kali's sword**, **Sekhmet's claws**, **Morrigan's raven**.
-
-### The Death Drive (Thanatos)
-
-**Sigmund Freud** posited the existence of **Thanatos**—the death drive, the unconscious pull toward annihilation, dissolution, return to the inorganic. Where **Eros** (the life drive) seeks union, growth, and creation, Thanatos seeks **dissolution, separation, and death**.
-
-Kamael is the *conscious* integration of Thanatos—the recognition that **destruction is part of creation**. The tree that does not shed its leaves in autumn will die. The snake that does not shed its skin will suffocate. The soul that does not allow the ego to die will never be reborn.
-
-## Fallen Aspect
-
-### The Qlippothic Shell: Golachab (The Burners)
-
-In the **Qlippoth** (the shadow tree), the shell of Geburah is **Golachab** (גולחב)—"The Burners" or "The Arsonists." These are the demonic forces that distort strength into cruelty, justice into vengeance, courage into brutality.
-
-Where Kamael burns away the false, Golachab burns for the pleasure of watching things burn. This is **destruction as pathology**—violence for its own sake, sadism, the torturer, the tyrant.
-
-### Specific Shadow Manifestations
-
-- **Cruelty:** Enjoying the suffering of others; the sadist who believes "might makes right"
-- **Tyranny:** Using strength to dominate, oppress, or humiliate the weak
-- **Rage Addiction:** Becoming *identified* with anger, unable to exist without conflict
-- **Self-Harm:** Turning Kamael's sword inward—cutting the self, punishing the body, destroying from within
-- **Spiritual Bypassing of Anger:** The "spiritual" person who refuses to acknowledge rage, causing it to fester as passive-aggression or depression
-- **The Bully:** Abusing power to compensate for inner weakness; the inflated ego that mistakes cruelty for strength
-- **Vengeful Obsession:** The inability to forgive or release; nursing grievances until they consume the soul
-
-### The Luciferian Inflation (Martian Pride)
-
-Like [[Raziel]]'s shadow (intellectual inflation), Kamael's shadow is **pride in power**. This is the **Luciferian fall**—the belief that "I am strong, therefore I am right. I am powerful, therefore I am God."
-
-Qabalistic teaching warns: The soul that ascends to Geburah unprepared may become a tyrant. The ego that wields the sword without love becomes a destroyer. Geburah without Chesed is hell.
-
-The integrated warrior *serves*. The inflated tyrant *dominates*.
-
-## The Gift of Integration: Righteous Strength
-
-When Kamael's intelligence is integrated (not identified with, but *participated in*), the individual becomes:
-
-### The Protector
-
-The capacity to **defend** what is sacred—to fight for the vulnerable, to stand against oppression, to risk oneself for others. This is the knight who defends the realm, the parent who protects the child, the activist who confronts injustice.
-
-### The Boundary-Keeper
-
-The ability to say **"No"** without guilt, to defend one's time, energy, and integrity against violation. This is the end of people-pleasing, the death of codependency, the birth of self-respect.
-
-### The Courageous Truth-Teller
-
-The willingness to **speak the hard truth**, even when it costs relationships, status, or comfort. Kamael gives the spine to say what must be said.
-
-### The Spiritual Surgeon
-
-The capacity to perform **necessary destruction**—to end relationships that have become toxic, to abandon careers that stifle the soul, to sever attachments to beliefs that no longer serve. This is not cruelty—it is *clarity*.
-
-### The Self-Sovereign
-
-The refusal to be a **victim**. The recognition that *I have power, I have agency, I can fight back*. This is the end of learned helplessness, the death of the slave mentality.
-
-## Kamael and the Other Archangels
-
-### Metatron (Kether): The Unmanifest Crown
-
-[[Metatron]] at Kether is the Voice of God—pure being, undifferentiated. Kamael at Geburah is the *sword* of that voice—the force that enacts divine will in the world of form.
-
-### Tzaphkiel (Binah): The Supernal Mother
-
-[[Tzaphkiel]] at Binah is the Great Mother who *forms* and *limits*. Kamael, descending from Binah through the Left Pillar, is the **enforcer** of her law. Where Tzaphkiel says, "This is the boundary," Kamael says, "And I will defend it."
-
-### Tzadkiel (Chesed): The Benevolent King
-
-[[Tzadkiel]] at Chesed is mercy, expansion, generosity. Kamael at Geburah is the *balance*—the "No" that prevents mercy from becoming weakness. Together, they are the **just king**—merciful *and* strong.
-
-### Michael (Tiphareth): The Solar Heart
-
-[[Michael]] at Tiphareth is the *mediator* between Kamael's severity and Tzadkiel's mercy. Michael integrates the two—he is the warrior who fights with *love*, the judge who punishes with *compassion*. Kamael provides Michael's **strength**; Chesed provides Michael's **mercy**. Tiphareth synthesizes both.
-
-### Haniel (Netzach): The Victory of Love
-
-[[Haniel]] at Netzach is love, beauty, desire. Kamael's severity *protects* Haniel's softness—without Geburah, Netzach becomes hedonism, seduction, addiction. Kamael is the boundary that allows love to flourish safely.
-
-## Cross-System Correspondences
-
-### Astrology: Mars and the First House
-
-In **[[Astrology]]**, Kamael governs **Mars** (♂)—the planet of drive, aggression, sexuality, and courage. Mars also rules:
-- **Aries** (cardinal fire, the initiator, the warrior)
-- **Scorpio** (fixed water, the destroyer, the phoenix, death and rebirth)
-- **The First House** (the self, identity, physical body, assertion)
-
-When Mars is well-aspected in the natal chart, the individual has access to **healthy aggression**—they can assert, defend, compete, and act decisively. When Mars is afflicted (square, opposition, in fall or detriment), the individual may struggle with rage, violence, self-sabotage, or paralysis.
-
-### Tarot
-
-**Verified per Wang:**
-- **The Four Fives** — Geburah's number, representing opposition, strife, and struggle
-
-**Thematic Association (Vibology Synthesis):**
-- **[[The Tower]]** (XVI) — Sudden destruction, necessary collapse (thematic link to Mars/Geburah energy)
-
-### Human Design (Vibology Synthesis)
-
-Kamael corresponds to the **[[Solar Plexus]] Center** (emotional authority, the wave, passion) and the **[[Sacral]] Center** (life force, sexuality, generative power). Gates 6, 37, 22, 36, 30 (emotional wave) and Gates 5, 14, 29, 59, 27 (sacral power) carry Kamael's frequency.
-
-### Gene Keys: The Reactive Gene Keys
-
-The **[[Gene Keys]]** that carry Kamael's shadow include:
-- **6th Gene Key:** Conflict → Diplomacy → Peace
-- **36th Gene Key:** Turbulence → Humanity → Compassion
-- **21st Gene Key:** Control → Authority → Valor
-
-Each represents the journey from **reactive aggression** (shadow) to **integrated strength** (gift) to **transcendent power** (siddhi).
-
-### Qabalah: Geburah, the Left Pillar
-
-Kamael *is* the archangelic intelligence of **[[Geburah]]**. To study the Qabalistic tree is to encounter Kamael at the fifth sphere—strength, judgment, purification.
-
-### Jungian Psychology: The Shadow Warrior
-
-In **[[Jungian psychology]]**, Kamael is the **Warrior archetype** and the **integrated Shadow**—the capacity to own one's darkness without being consumed by it.
-
-
-## A Prayer to Kamael
+### A Prayer to Kamael
 
 *Kamael, Wielder of the Sword, Angel of Geburah, stand before me and show me what must be destroyed. I do not ask for comfort. I do not ask for ease. I ask for the courage to face what I have avoided, to sever what I have clung to, to burn away what has poisoned me. Grant me the strength to wield the sword, the clarity to strike true, and the humility to know that I am not the sword but the servant of the one who wields it. By the name Elohim Gibor, the God of Battles, I stand ready. Let the fire consume what is false. Let the blade fall on what is weak. Let me emerge from the crucible as gold. Amen.*
 
 ---
 
+
+---
 ## Cross-References
 ### Sephirotic Connections
 - [[Geburah]] — Kamael's Sephirah, Severity and Strength
@@ -653,6 +667,8 @@ In **[[Jungian psychology]]**, Kamael is the **Warrior archetype** and the **int
 
 ---
 
+
+---
 ## Sources
 
 **Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.

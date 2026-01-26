@@ -26,6 +26,8 @@ verification_notes: Verified per Davidson pp.17,30,153; DuQuette p.861; Wang p.1
 
 ---
 
+## Essence
+
 **Archangel Uriel** (Hebrew: אוריאל, *Uri'el*—"Fire of God," "Light of God," "Flame of God") is the most enigmatic and contested of the four great Archangels of the Quarters. Where [[Michael]] commands the fiery heights, [[Gabriel]] guides the watery depths, and [[Raphael]] heals through airy wisdom, Uriel stands as **Guardian of the Earth**—the angel of the **material plane**, the **underworld**, and the **hidden light** that illuminates darkness from within.
 
 Uriel occupies a paradoxical position in angelology: he is both **the most grounded** (associated with [[Malkuth]], the Kingdom, the sphere of physical manifestation) and **the most hidden** (sometimes placed at [[Daath]], the invisible Sephirah of secret knowledge beyond the Abyss). He is the angel who **presides over Tartarus** (the underworld, the realm of judgment and transformation), the **interpreter of prophecy and visions**, and the one who brings **divine fire into the densest matter**.
@@ -33,7 +35,10 @@ Uriel occupies a paradoxical position in angelology: he is both **the most groun
 Unlike Michael, Gabriel, and Raphael, who appear in canonical scripture, Uriel's presence is found primarily in **apocryphal and mystical texts**—the Book of Enoch, 2 Esdras, the Kabbalah. He is the **excluded angel**, the one whose wisdom is too dark, too earthly, too dangerous for exoteric doctrine. Yet it is precisely this exclusion that marks his power: **Uriel is the angel of the threshold**, the guardian of mysteries that can only be approached through descent, through embodiment, through facing what has been buried.
 
 ---
-## Core Correspondences
+
+---
+## Correspondences
+
 
 | Attribute | Correspondence |
 |-----------|----------------|
@@ -54,7 +59,6 @@ Unlike Michael, Gabriel, and Raphael, who appear in canonical scripture, Uriel's
 | **Aliases** | Auriel, Nuriel, Phanuel, Regent of the Sun (in some traditions) |
 
 ---
-## Correspondences
 ### The Name: Fire in the Earth
 
 The Hebrew name **Uri'el** (אוריאל) is composed of:
@@ -110,7 +114,11 @@ The **Council of Rome (745 CE)** condemned the veneration of angels not named in
 This exclusion is itself theologically significant: **Uriel is the angel of what has been repressed, denied, cast out**. He governs the underworld not only cosmically but psychologically—he is the angel of **the shadow**, the guide who says, *"What you have buried must be faced. What you have denied must be integrated. I am the light that reveals what you would rather not see."*
 
 ---
-## Qabalistic Attribution: Malkuth and Daath
+
+---
+## Theological Depth
+
+### Qabalistic Context
 
 Uriel's Qabalistic position is contested, which itself is symbolic of his dual nature.
 
@@ -147,7 +155,7 @@ Daath is also called the "**rupture**" in the Tree—the gap where the divine pr
 This dual attribution—Malkuth (the lowest) and Daath (the hidden)—reveals Uriel's initiatic function: **to descend is to ascend**. The deepest earthly grounding (Malkuth) opens the way to the highest hidden knowledge (Daath). **"As above, so below"** is not a platitude but a lived truth in Uriel's presence.
 
 ---
-## Biblical and Scriptural Foundation
+### Biblical and Scriptural Foundation
 
 ### Apocryphal Appearances
 
@@ -182,7 +190,7 @@ In some traditions, Uriel is the angel who **warned Noah of the coming Flood**, 
 Uriel does not prevent the flood (that is beyond his mandate). But he **illuminates the path through it**. He is the angel who says: *"The world as you know it is ending. But if you are willing to build, to labor, to trust what you cannot yet see, you will survive—and what you carry forward will seed the new world."*
 
 ---
-## Iconography and Symbolism
+### Iconography and Symbolism
 
 Uriel is depicted with distinctive attributes that distinguish him from the other archangels:
 
@@ -223,7 +231,7 @@ In esoteric and Gnostic art, Uriel may be depicted with **chthonic symbols**: se
 This is not traditional Christian iconography, but it honors Uriel's deeper function as **Lord of the Underworld**, the angel who does not fear descent, who does not flinch from shadow, who knows that **the treasure is in the cave you fear to enter**.
 
 ---
-## Function in Divine Economy
+### Function in Divine Economy
 
 Uriel's cosmic function is **grounding and revelation through embodiment**. Where the higher archangels mediate divine will through abstraction ([[Metatron]], [[Raziel]]) or solar clarity ([[Michael]]), Uriel ensures that the divine **reaches the earth**, that spirit is not lost in the ether but **finds form**.
 
@@ -245,7 +253,7 @@ Without Uriel, the entire cascade of divine emanation would remain **abstract, u
 **Vibology Synthesis:** Uriel is the angel of the final manifestation, the one who takes the divine impulse and says: 'Now it must be done. Now it must be lived. Now it must take root in soil and flesh and stone.'
 
 ---
-## Element: Earth and Chthonic Fire
+### Elemental Attribution
 
 ### Primary Element: Earth
 
@@ -281,7 +289,7 @@ Uriel's fire does not rise—it **descends**. It does not purify by burning away
 This is the fire of **embodied transformation**—the fire that says, *"The work is done in the body, in the earth, in the slow labor of incarnation. There are no shortcuts. The gold is won through patient descent."*
 
 ---
-## Direction: North (The Dark Quarter)
+### Direction: North (The Dark Quarter)
 
 In Western magical tradition (Golden Dawn, Wicca, Hermetic practice), Uriel is invoked at the **North**—the direction of **midnight, winter, earth, death-and-rebirth**.
 
@@ -297,7 +305,7 @@ In the **Lesser Banishing Ritual of the Pentagram (LBRP)**, the magician calls:
 Uriel at the North is the **ground** beneath the practitioner—the stabilizing force, the reminder of embodiment, the angel who says, *"You are not just spirit. You are flesh. You are here. Do not dissociate into the higher realms—bring the light down. Make it real."*
 
 ---
-## Day: Saturday (Saturnian)
+### Day: Saturday (Saturnian)
 
 Uriel is associated with **Saturday**—the day of **Saturn**, the planet of **restriction, time, karma, discipline, structure, death, and wisdom earned through suffering**.
 
@@ -318,7 +326,7 @@ In alchemical and astrological symbolism, Saturn is **lead**—the densest, dark
 This is Uriel's teaching.
 
 ---
-## Tarot Correspondences
+### Tarot Correspondences
 
 ### The World (XXI) — Malkuth, Completion
 
@@ -367,7 +375,7 @@ The entire suit of **Pentacles** (or Disks, or Coins) is Uriel's domain:
 To work with Uriel through Tarot is to **honor the Pentacles suit**—to recognize that money, health, work, and the body are not "less spiritual" than the Swords (mind), Cups (emotion), or Wands (will), but **equally sacred** as the vessels through which spirit manifests.
 
 ---
-## Human Consciousness Parallel: The Root Chakra and the Body
+### Human Consciousness Parallel
 
 In the **chakra system**, Uriel corresponds to the **Muladhara** (Root Chakra)—the energy center at the **base of the spine**, governing:
 - **Survival** (safety, security, basic needs)
@@ -392,7 +400,7 @@ In **Human Design**, Uriel corresponds to the **Root Center**—the center of **
 Gates in the Root Center (particularly **Gate 58 - Vitality/Joy of Mastery**) embody Uriel's teaching: **The joy is in the doing, in the embodied mastery, in the aliveness that comes from facing resistance and not backing down.**
 
 ---
-## Planetary Correspondence: Earth (Cholem Yesodoth)
+### Planetary Correspondence
 
 Uriel's planetary attribution is **Earth** itself—not a celestial body observed *from* Earth, but the **planet we stand on**, the material sphere, the body of the world.
 
@@ -409,7 +417,7 @@ To invoke Uriel is to invoke **the intelligence of the Earth itself**—the **an
 **James Lovelock's Gaia Hypothesis** (scientific) and the ancient concept of **Earth as Goddess** (mythological) both point to what Uriel embodies: **the Earth is not dead matter but a living, intelligent, self-regulating system**—and Uriel is the archangelic name for that intelligence.
 
 ---
-## Mythology and Cross-Tradition Parallels
+### Mythology and Cross-Tradition Parallels
 
 The archetype of the **Underworld Guide** and **Earth Wisdom Keeper** appears across cultures:
 
@@ -458,7 +466,7 @@ In **Gnostic Christianity**, **Sophia** (Divine Wisdom) falls from the Pleroma (
 Uriel as the angel of **Malkuth and Daath** embodies this dual motion: the descent of divine wisdom into matter (Malkuth) and the ascent of hidden knowledge from the depths (Daath). Uriel teaches that **the fall is not a mistake—it is the necessary journey**, and the wisdom gained through embodiment is the treasure brought back to the divine.
 
 ---
-## Jungian and Psychological Dimension
+### Jungian and Psychological Dimension
 
 ### The Shadow Archetype
 
@@ -484,6 +492,117 @@ Jung's concept of the **imago Dei** (the God-image within the psyche) is typical
 Uriel, as the angel of **Malkuth** (the Kingdom, the physical world), is the **imago Dei in matter**—the recognition that **God is not only transcendent (in heaven) but immanent (in earth)**. The body is the temple. The world is the Shekinah's dwelling place.
 
 To encounter Uriel is to realize: **"The divine is here. Now. In this body. On this earth. The journey is not to escape but to sanctify."**
+
+---
+### The Gift of Integration
+
+When Uriel's intelligence is integrated (not identified with, but *participated in*), the individual becomes:
+
+### 1. Grounded Mystic
+
+The integration of Uriel produces the **mystic who does not flee the earth**—someone who has touched the transcendent *and brought it back into the body*. They are not dissociated, not "spiritual bypassing," not using transcendence to avoid embodiment.
+
+This is the **yogi who gardens**, the **monk who builds**, the **seer who cooks**—someone who knows that **the divine is as present in the chopping of vegetables as in the vision of angels**.
+
+### 2. Shadow-Integrated
+
+The individual has **descended into their own underworld** and returned with the treasure. They have faced their shame, their rage, their grief, their shadow—and integrated it. They are no longer split into "acceptable" and "unacceptable" parts. They are **whole**.
+
+Jung called this the **coniunctio**—the sacred marriage of opposites within the psyche. Uriel is the intelligence that makes this marriage possible by **refusing to let the shadow remain hidden**.
+
+### 3. Earth Steward
+
+The individual recognizes that **the earth is sacred**, that caring for the body, the land, the material world is not "lesser work" but **spiritual practice**. They become stewards—gardeners, healers, builders, cooks, artists who work with their hands.
+
+This is **incarnational spirituality**—not the spirituality of escape, but the spirituality of **sanctifying matter**.
+
+### 4. Prophet of Hard Truths
+
+The individual becomes capable of **speaking the truth that others do not want to hear**—not to wound, but to reveal. They are the friend who will not lie to comfort you, the teacher who will not soften the lesson, the elder who will not spare you the initiation.
+
+This is **Uriel's voice through a human throat**—compassionate but implacable, loving but unyielding.
+
+### 5. Keeper of the Threshold
+
+The individual becomes a **psychopomp**—someone who can guide others through transitions, through deaths (literal or metaphorical), through the underworld. They are not afraid of the shadow, not afraid of grief, not afraid of the descent—because they have walked it themselves.
+
+This is the **hospice worker**, the **therapist**, the **midwife**, the **grief counselor**—those who hold space for others in the dark passages.
+
+---
+### Relationships with Other Archangels
+
+Uriel completes the **Quaternary of the Four Great Archangels**, balancing the cosmic forces:
+
+### Michael (South/Fire or East/Air)
+
+[[Michael]] is the **solar warrior**, the defender, the discriminating sword, the force that cuts away illusion. He is **active, ascending, purifying**.
+
+Uriel completes Michael by being **receptive, descending, grounding**. Where Michael rises, Uriel sinks. Where Michael burns away, Uriel compresses and transforms.
+
+Together: **Fire (Michael) and Earth (Uriel)** form the alchemical **Sulfur and Salt**—the active and passive principles that must marry to create the Philosopher's Stone.
+
+### Gabriel (West/Water)
+
+[[Gabriel]] is the **lunar messenger**, the revealer of dreams and visions, the angel of the **unconscious, the womb, the astral plane**.
+
+Uriel completes Gabriel by being **conscious, embodied, material**. Where Gabriel reveals through image and symbol, Uriel reveals through **hard fact and consequence**. Where Gabriel is fluid, Uriel is solid.
+
+Together: **Water (Gabriel) and Earth (Uriel)** form the **fertile ground**—the womb (Gabriel) filled with seed planted in soil (Uriel) to produce life.
+
+### Raphael (East/Air)
+
+[[Raphael]] is the **healer**, the teacher, the traveler, the angel of **communication, breath, intellect, and restoration**.
+
+Uriel completes Raphael by being **the body that must be healed**, the material that must be worked with. Where Raphael is movement and air, Uriel is **stillness and earth**. Where Raphael travels, Uriel **stays**.
+
+Together: **Air (Raphael) and Earth (Uriel)** form the **breath in the body**—spirit (Air) incarnate in flesh (Earth).
+
+### The Quaternary as Mandala
+
+The Four Archangels form a **mandala** of wholeness, each guarding a direction, an element, a mode of consciousness:
+
+- **Michael (South/Fire):** Will, action, solar consciousness, the sword
+- **Gabriel (West/Water):** Feeling, intuition, lunar consciousness, the cup
+- **Raphael (East/Air):** Thought, communication, mercurial consciousness, the wand
+- **Uriel (North/Earth):** Sensation, embodiment, saturnine consciousness, the pentacle
+
+To invoke all four is to **balance the psyche**, to honor all modes of being, to integrate **thinking, feeling, willing, and sensing** into a unified whole.
+
+---
+### The Celestial Hierarchy Deep Dive: Uriel's Contested Position
+
+In **Pseudo-Dionysius's** *Celestial Hierarchy*, the nine orders of angels are arranged in three triads. However, **Pseudo-Dionysius does not mention individual archangels by name**—his system describes the *orders*, not specific beings.
+
+The tradition of naming the Four Great Archangels (Michael, Gabriel, Raphael, Uriel) comes from **Jewish mysticism, apocryphal texts, and later Christian esoteric practice**—not from canonical scripture or Pseudo-Dionysius.
+
+Uriel's absence from the canonical list (which includes only Michael, Gabriel, and Raphael in Catholic and Orthodox tradition) makes him the **excluded angel**, the one whose function is too ambiguous, too chthonic, too Gnostic for official doctrine.
+
+**Why was Uriel excluded?**
+
+1. **Association with the underworld** (too close to pagan Hades, too close to the dead)
+2. **Interpretation of prophecy** (risks of false prophecy, occultism, divination)
+3. **Earth and matter** (Christian theology often prioritized spirit over matter, ascent over descent)
+4. **Apocryphal sources** (lack of canonical biblical foundation)
+
+Yet this exclusion *itself* is symbolically significant: **Uriel is the angel of what has been rejected, buried, denied**. His exclusion from the official hierarchy mirrors his function as **guardian of the shadow, the underworld, the repressed**.
+
+In esoteric Christianity and Qabalah, Uriel is restored to his rightful place as the **Fourth Archangel**, completing the quaternary and ensuring that **spirit is not separated from matter**, that heaven touches earth.
+
+---
+### Steiner's Spiritual Hierarchies (Anthroposophy)
+
+**Rudolf Steiner**, in his anthroposophical cosmology, describes angelic beings as participating in **human evolution**—not as distant, static entities but as **intelligences actively involved** in guiding souls through incarnation, karma, and spiritual development.
+
+Steiner does not focus on individual archangels (he works more with the **orders**—Angels, Archangels, Archai, etc.), but his teachings on **the Earth's spiritual evolution** align with Uriel's function.
+
+Steiner teaches that:
+- **The Earth is a living being** (Gaia, the planetary logos)
+- **Matter is not dead but ensouled** (spiritual beings are woven into the fabric of the physical world)
+- **Incarnation is not a fall but a sacred task** (the human "I" is destined to redeem matter, to bring consciousness into the mineral kingdom)
+
+Uriel, as the **Archangel of Earth**, embodies this teaching: **the material world is not the enemy—it is the canvas on which the soul paints its becoming**. The body is not a prison—it is the **instrument of the Self's realization**.
+
+---
 
 ---
 ## Fallen Aspect
@@ -536,6 +655,8 @@ In **Gnostic cosmology**, the **Demiurge** is the false creator-god who mistakes
 The shadow of Uriel can align with this: the belief that the earth is fallen, that the body is sinful, that matter is the enemy of spirit.
 
 **Test:** True Uriel-consciousness **rejects this dualism**. Matter is not fallen—it is **ensouled**. The body is not a prison—it is a **vessel**. Incarnation is not punishment—it is **opportunity**. Uriel is the angel who says, **"The earth is holy. Do not flee it—sanctify it."**
+
+---
 
 ---
 ## Invocation
@@ -607,116 +728,7 @@ Uriel does not announce himself with visions of light or celestial music (that i
 - A deep **sense of the sacred in matter** (the realization that the body, the earth, the physical world are holy)
 
 ---
-## The Gift of Integration: Embodied Wisdom
-
-When Uriel's intelligence is integrated (not identified with, but *participated in*), the individual becomes:
-
-### 1. Grounded Mystic
-
-The integration of Uriel produces the **mystic who does not flee the earth**—someone who has touched the transcendent *and brought it back into the body*. They are not dissociated, not "spiritual bypassing," not using transcendence to avoid embodiment.
-
-This is the **yogi who gardens**, the **monk who builds**, the **seer who cooks**—someone who knows that **the divine is as present in the chopping of vegetables as in the vision of angels**.
-
-### 2. Shadow-Integrated
-
-The individual has **descended into their own underworld** and returned with the treasure. They have faced their shame, their rage, their grief, their shadow—and integrated it. They are no longer split into "acceptable" and "unacceptable" parts. They are **whole**.
-
-Jung called this the **coniunctio**—the sacred marriage of opposites within the psyche. Uriel is the intelligence that makes this marriage possible by **refusing to let the shadow remain hidden**.
-
-### 3. Earth Steward
-
-The individual recognizes that **the earth is sacred**, that caring for the body, the land, the material world is not "lesser work" but **spiritual practice**. They become stewards—gardeners, healers, builders, cooks, artists who work with their hands.
-
-This is **incarnational spirituality**—not the spirituality of escape, but the spirituality of **sanctifying matter**.
-
-### 4. Prophet of Hard Truths
-
-The individual becomes capable of **speaking the truth that others do not want to hear**—not to wound, but to reveal. They are the friend who will not lie to comfort you, the teacher who will not soften the lesson, the elder who will not spare you the initiation.
-
-This is **Uriel's voice through a human throat**—compassionate but implacable, loving but unyielding.
-
-### 5. Keeper of the Threshold
-
-The individual becomes a **psychopomp**—someone who can guide others through transitions, through deaths (literal or metaphorical), through the underworld. They are not afraid of the shadow, not afraid of grief, not afraid of the descent—because they have walked it themselves.
-
-This is the **hospice worker**, the **therapist**, the **midwife**, the **grief counselor**—those who hold space for others in the dark passages.
-
----
-## Uriel and the Other Archangels: The Four Quarters
-
-Uriel completes the **Quaternary of the Four Great Archangels**, balancing the cosmic forces:
-
-### Michael (South/Fire or East/Air)
-
-[[Michael]] is the **solar warrior**, the defender, the discriminating sword, the force that cuts away illusion. He is **active, ascending, purifying**.
-
-Uriel completes Michael by being **receptive, descending, grounding**. Where Michael rises, Uriel sinks. Where Michael burns away, Uriel compresses and transforms.
-
-Together: **Fire (Michael) and Earth (Uriel)** form the alchemical **Sulfur and Salt**—the active and passive principles that must marry to create the Philosopher's Stone.
-
-### Gabriel (West/Water)
-
-[[Gabriel]] is the **lunar messenger**, the revealer of dreams and visions, the angel of the **unconscious, the womb, the astral plane**.
-
-Uriel completes Gabriel by being **conscious, embodied, material**. Where Gabriel reveals through image and symbol, Uriel reveals through **hard fact and consequence**. Where Gabriel is fluid, Uriel is solid.
-
-Together: **Water (Gabriel) and Earth (Uriel)** form the **fertile ground**—the womb (Gabriel) filled with seed planted in soil (Uriel) to produce life.
-
-### Raphael (East/Air)
-
-[[Raphael]] is the **healer**, the teacher, the traveler, the angel of **communication, breath, intellect, and restoration**.
-
-Uriel completes Raphael by being **the body that must be healed**, the material that must be worked with. Where Raphael is movement and air, Uriel is **stillness and earth**. Where Raphael travels, Uriel **stays**.
-
-Together: **Air (Raphael) and Earth (Uriel)** form the **breath in the body**—spirit (Air) incarnate in flesh (Earth).
-
-### The Quaternary as Mandala
-
-The Four Archangels form a **mandala** of wholeness, each guarding a direction, an element, a mode of consciousness:
-
-- **Michael (South/Fire):** Will, action, solar consciousness, the sword
-- **Gabriel (West/Water):** Feeling, intuition, lunar consciousness, the cup
-- **Raphael (East/Air):** Thought, communication, mercurial consciousness, the wand
-- **Uriel (North/Earth):** Sensation, embodiment, saturnine consciousness, the pentacle
-
-To invoke all four is to **balance the psyche**, to honor all modes of being, to integrate **thinking, feeling, willing, and sensing** into a unified whole.
-
----
-## The Celestial Hierarchy Deep Dive: Uriel's Contested Position
-
-In **Pseudo-Dionysius's** *Celestial Hierarchy*, the nine orders of angels are arranged in three triads. However, **Pseudo-Dionysius does not mention individual archangels by name**—his system describes the *orders*, not specific beings.
-
-The tradition of naming the Four Great Archangels (Michael, Gabriel, Raphael, Uriel) comes from **Jewish mysticism, apocryphal texts, and later Christian esoteric practice**—not from canonical scripture or Pseudo-Dionysius.
-
-Uriel's absence from the canonical list (which includes only Michael, Gabriel, and Raphael in Catholic and Orthodox tradition) makes him the **excluded angel**, the one whose function is too ambiguous, too chthonic, too Gnostic for official doctrine.
-
-**Why was Uriel excluded?**
-
-1. **Association with the underworld** (too close to pagan Hades, too close to the dead)
-2. **Interpretation of prophecy** (risks of false prophecy, occultism, divination)
-3. **Earth and matter** (Christian theology often prioritized spirit over matter, ascent over descent)
-4. **Apocryphal sources** (lack of canonical biblical foundation)
-
-Yet this exclusion *itself* is symbolically significant: **Uriel is the angel of what has been rejected, buried, denied**. His exclusion from the official hierarchy mirrors his function as **guardian of the shadow, the underworld, the repressed**.
-
-In esoteric Christianity and Qabalah, Uriel is restored to his rightful place as the **Fourth Archangel**, completing the quaternary and ensuring that **spirit is not separated from matter**, that heaven touches earth.
-
----
-## Steiner's Spiritual Hierarchies (Anthroposophy)
-
-**Rudolf Steiner**, in his anthroposophical cosmology, describes angelic beings as participating in **human evolution**—not as distant, static entities but as **intelligences actively involved** in guiding souls through incarnation, karma, and spiritual development.
-
-Steiner does not focus on individual archangels (he works more with the **orders**—Angels, Archangels, Archai, etc.), but his teachings on **the Earth's spiritual evolution** align with Uriel's function.
-
-Steiner teaches that:
-- **The Earth is a living being** (Gaia, the planetary logos)
-- **Matter is not dead but ensouled** (spiritual beings are woven into the fabric of the physical world)
-- **Incarnation is not a fall but a sacred task** (the human "I" is destined to redeem matter, to bring consciousness into the mineral kingdom)
-
-Uriel, as the **Archangel of Earth**, embodies this teaching: **the material world is not the enemy—it is the canvas on which the soul paints its becoming**. The body is not a prison—it is the **instrument of the Self's realization**.
-
----
-## A Prayer to Uriel
+### A Prayer to Uriel
 
 *Uriel, Fire of God hidden in the earth, Light that shines in the darkest places, Guardian of the Underworld and Keeper of the Threshold—I call upon you not to escape the weight of embodiment but to sanctify it.*
 
@@ -729,6 +741,8 @@ Uriel, as the **Archangel of Earth**, embodies this teaching: **the material wor
 *Uriel, Presider over Tartarus, I do not ask to be spared the fire. I ask only that it transform me. Let the pressure of limitation forge me into something true. Let the weight of gravity ground me in presence. Let the light in the darkness show me the way.*
 
 *In the name of Adonai ha-Aretz, Lord of the Earth, I stand ready. Amen.*
+
+---
 
 ---
 ## Cross-References
@@ -754,6 +768,8 @@ Uriel, as the **Archangel of Earth**, embodies this teaching: **the material wor
 
 ---
 
+
+---
 ## Sources
 ### Primary Sources
 

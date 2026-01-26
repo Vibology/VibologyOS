@@ -21,11 +21,15 @@ aliases: [Akrasiel, Galizur, Saraqael, Suriel]
 # Raziel
 *The Patron of Shadowhunters*
 
+## Essence
+
 **Archangel Raziel** (Hebrew: רזיאל, *Razi'el* — "Secret of God" or "Herald of Deity") is the **Prince of Hidden Knowledge**, the **Revealer of Mysteries**, and the **Angel of the Supreme Secrets**. In the Qabalistic tradition, Raziel governs **[[Chokmah]]** (Wisdom, the second [[Sephirah]]), the primal masculine force of creation—the explosive first emanation from the Absolute, the divine spark that initiates all manifestation. Where [[Metatron]] at [[Kether]] represents the Unmanifest Crown, Raziel at Chokmah is the *first intelligible principle*, the Logos, the divine intelligence that structures the cosmos.
 
 Raziel is not a comforting presence. He does not protect in the manner of [[Michael]], nor does he heal like [[Raphael]]. Raziel's function is **revelation**—the unveiling of what has been concealed, the granting of wisdom too vast for mortal comprehension, the opening of the sealed book. To invoke Raziel is to ask for knowledge that may shatter the structures of the ego, for truth that cannot be unlearned.
 
-## Core Correspondences
+---
+## Correspondences
+
 
 | Attribute | Correspondence |
 |-----------|----------------|
@@ -45,7 +49,11 @@ Raziel is not a comforting presence. He does not protect in the manner of [[Mich
 | **Day of Week** | No specific day (Supernal sphere transcends planetary week) |
 | **Human Faculty** | Intuitive Intellect, the "Aha!" moment, pattern recognition |
 
-## Qabalistic Attribution: The Supernal Father
+
+---
+## Theological Depth
+
+### Qabalistic Context
 
 ### Chokmah: The First Emanation of Consciousness
 
@@ -73,7 +81,7 @@ Chokmah is the **Yod**, the single point, the initial spark. This is why Raziel'
 
 Raziel governs Chokmah in **Briah** (the World of Creation), the realm where divine ideas first take archetypal form. In this sense, Raziel mediates between the unmanifest (Atziluth/Kether) and the conceptual (Yetzirah/the lower Sephiroth). He is the **archangel of the architects**, the revealer of the divine blueprints.
 
-## The Sefer Raziel HaMalakh: The Book of Mysteries
+### The Sefer Raziel HaMalakh: The Book of Mysteries
 
 The most famous myth of Raziel is his gift to Adam of the **Sefer Raziel HaMalakh** (*The Book of the Angel Raziel*), a grimoire containing "1,500 keys to the mystery of the world not revealed even to the holy angels."
 
@@ -103,7 +111,7 @@ The lesser angels, envious that such knowledge had been given to a mortal, stole
 
 The *Sefer Raziel* is not merely a historical grimoire (though medieval texts bearing this name exist). It is a **symbol of the capacity for revelation**—the ability of human consciousness to receive direct gnosis from the supernal realms. The "book" is the **Higher Mind** itself, the Ajna center opened, the third eye activated. To "read the Sefer Raziel" is to access the **Akashic Records**, the imprint of all that has been and will be.
 
-## Raziel in Biblical and Mystical Tradition
+### Raziel in Biblical and Mystical Tradition
 
 ### The Zohar: Herald of the Throne
 
@@ -123,7 +131,7 @@ In Christian angelology, Raziel is rarely mentioned. **Pseudo-Dionysius** does n
 
 Raziel, as the angel of Chokmah, is the *angelic reflection* of the Logos—the divine reason that orders chaos, the pattern-maker, the revealer of the hidden structure.
 
-## Iconography and Symbolism
+### Iconography and Symbolism
 
 Raziel is traditionally depicted as:
 
@@ -139,7 +147,7 @@ Raziel is associated with the **Auphanim** (אופנים), the "Wheels" or "Whir
 
 The "eyes" symbolize **omniscience**—the capacity to see all patterns, all connections, all possibilities simultaneously.
 
-## Function in Divine Economy
+### Function in Divine Economy
 
 Raziel's cosmic function is **revelation of the blueprint**. Where the Seraphim at Kether are pure adoration (love without comprehension), Raziel at Chokmah is the first *knowing*. He mediates between:
 - The **Unmanifest** (Kether/Ein Sof) and the **Manifest** (the lower Sephiroth)
@@ -150,7 +158,7 @@ In Qabalistic teaching, Chokmah is understood as the storehouse of archetypal im
 
 Raziel does not *create* the patterns—God does. But Raziel **reveals** them. He is the angelic intelligence that makes it possible for human consciousness to *participate* in divine wisdom.
 
-## Human Consciousness Parallel: Intuitive Intellect
+### Human Consciousness Parallel
 **Vibology Synthesis — Cross-System Integration**
 
 ### The Ajna Center: The Third Eye
@@ -176,7 +184,7 @@ In the **[[Gene Keys]]** system, the Ajna center houses Gates 47, 24, 4, and 17.
 
 When Raziel's intelligence is integrated, the individual moves from *thinking about* truth to *recognizing* truth. The mind becomes transparent, a clear lens through which the divine pattern shines.
 
-## The Tarot: Twos and Kings
+### Tarot Correspondences
 
 ### The Twos: First Polarity
 
@@ -204,7 +212,7 @@ Raziel also governs the **Kings** (in the Golden Dawn system, called "Knights" o
 
 The Kings are the **active intelligence** in each suit—the spark that sets the element into motion. This is Raziel's function: to *initiate* the movement from potential to manifestation.
 
-## Element: Fire and Air
+### Elemental Attribution
 
 ### Fire: The Primary Attribution
 
@@ -218,7 +226,7 @@ Raziel's secondary element is **Air**, reflecting his governance of the **[[Ajna
 
 Air represents the realm of **Ruach** (the intellect, the thinking mind). Raziel mediates between the fiery spark of Chokmah and the airy formulation of thought. He is the bridge between **inspiration** (Fire) and **articulation** (Air).
 
-## Planetary Correspondence: Masloth (The Zodiac)
+### Planetary Correspondence
 
 Raziel's planetary attribution is **Masloth**—the Sphere of the Zodiac, the realm of the fixed stars. This is the highest "planetary" sphere before the supernal triad (Kether, Chokmah, Binah).
 
@@ -226,7 +234,7 @@ The Zodiac represents the **archetypal patterns** that govern all manifestation.
 
 This is why Raziel is invoked in **astrological magic**—he is the intelligence that reveals the *meaning* of the stars, the esoteric significance of planetary placements, the hidden structure of the natal chart.
 
-## Mythology and Cross-Tradition Parallels
+### Mythology and Cross-Tradition Parallels
 
 ### Thoth (Egyptian): The Scribe of the Gods
 
@@ -250,6 +258,124 @@ In Norse mythology, **Odin** sacrifices an eye at Mimir's well to gain cosmic wi
 
 In Gnostic Christianity, **Sophia** is the personification of divine wisdom—the feminine counterpart to the Logos. Raziel (Chokmah/masculine) and Sophia (Binah/feminine) together form the **Supernal Syzgy**—the divine parents from whom all creation flows. Raziel is the spark; Sophia is the womb that gives it form.
 
+### Jungian and Psychological Dimension
+
+### The Wise Old Man Archetype
+
+In **[[Jungian psychology]]**, Raziel corresponds to the **Wise Old Man** archetype—the inner figure who appears in dreams or active imagination as a guide, teacher, or mentor. Jung writes:
+
+> "The Wise Old Man appears in dreams as a magician, doctor, priest, teacher, professor, grandfather, or any other person possessing authority. He represents knowledge, reflection, insight, wisdom, cleverness, and intuition on the one hand, and on the other, moral qualities such as goodwill and readiness to help."
+
+Raziel is the personification of this archetype at the transpersonal level. He is not the personal wise man (the integrated Senex) but the **cosmic intelligence** that mediates the Self's wisdom to the ego.
+
+### The Tension Between Ego and Self
+
+Raziel represents the moment when the **ego** encounters the **Self**—the moment of gnosis when the small "I" realizes there is a larger intelligence operating through it. This can be:
+- **Liberating:** The ego relaxes, recognizing it does not need to "figure everything out"
+- **Terrifying:** The ego fears annihilation, resists the dissolution of its illusion of control
+
+Jung's concept of **individuation** requires navigating this tension—integrating the wisdom of the Self without inflating the ego into godhood.
+
+### Projection vs. Autonomous Reality
+
+From a Jungian perspective, is Raziel "real" or merely a projection of the unconscious? Jung would say: **both**. Raziel is a **psychoid archetype**—a figure that exists both in the objective psyche (the collective unconscious) and in the transpersonal realms. To invoke Raziel is to activate this archetype, whether one conceives of it as an "angel" or an "inner intelligence."
+
+### The Gift of Integration
+
+When Raziel's intelligence is integrated (not identified with, but *participated in*), the individual becomes:
+
+### The Synthesizer
+
+The capacity to hold multiple systems, perspectives, and traditions simultaneously and recognize the **meta-pattern** that unifies them. This is not eclecticism (mixing systems randomly) but **synthesis**—the recognition of the single truth expressed through multiple languages.
+
+### The Pattern-Seer
+
+The ability to perceive the archetypal structure underlying apparent chaos. Where others see randomness, the Raziel-integrated consciousness sees **intelligent design**—not in the fundamentalist sense, but in the recognition that the cosmos operates according to discoverable laws.
+
+### The Humble Knower
+
+The integration of Raziel does not produce the arrogant guru but the **humble teacher**—one who knows that all knowledge is *received*, not possessed. The Raziel-integrated individual does not say, "I know the secrets," but "I have been shown the secrets, and I offer them freely."
+
+### The Prophetic Voice
+
+Not fortune-telling, but the capacity to speak the **pattern** that is unfolding. The prophet does not predict the future—they *recognize the trajectory* and name it, allowing others to align with or resist it.
+
+### Relationships with Other Archangels
+
+### Metatron (Kether): The Unmanifest Crown
+
+[[Metatron]] stands at Kether, the point of no dimension. Raziel stands at Chokmah, the first dimension—the point that has moved, creating a line. Metatron is the "Voice of God"; Raziel is the "Secret of God." Where Metatron mediates pure being, Raziel mediates the first *knowing* of that being.
+
+### Tzaphkiel (Binah): The Divine Mother
+
+[[Tzaphkiel]] governs Binah, the Supernal Mother. Where Raziel (Chokmah) is the seed, Tzaphkiel (Binah) is the womb. Raziel gives the flash of insight; Tzaphkiel gives it form, structure, and gestation. Together, they are the divine parents—the cosmic syzgy from which all emanates.
+
+### Michael (Tiphareth): The Solar Heart
+
+[[Michael]] at Tiphareth is the *integration* of Raziel's wisdom and Tzaphkiel's form into the balanced center—the Higher Self. Where Raziel offers the vision, Michael provides the *courage* to embody it. Raziel reveals; Michael enacts.
+
+### Gabriel (Yesod): The Lunar Messenger
+
+[[Gabriel]] at Yesod receives the wisdom of Raziel (filtered through the Sephiroth) and translates it into *images, dreams, and symbols*—the language of the unconscious. Where Raziel speaks in archetypal patterns, Gabriel speaks in personal revelation.
+
+### Cross-System Correspondences
+
+### Qabalah (Verified per Wang, Davidson, Zohar)
+- **Sephirah:** [[Chokmah]] (Wisdom, 2nd emanation, Supernal Father)
+- **Divine Name:** Yah (יה) — Wang
+- **Angelic Choir:** Auphanim (Wheels/Whirling Forces) — Wang; or Erelim (Valiant Ones) — Davidson via Maimonides
+- **Planetary Sphere:** Masloth (Starry Heaven/Zodiac) — Wang
+- **Element:** Fire (Yod) — Wang; Air as secondary (path of Aleph/The Fool)
+
+### Tarot (Verified per Wang)
+- **The Four Twos:** Initial polarity, first differentiation from unity
+- **The Four Kings:** Yod force (fiery, initiatory principle) in four worlds
+
+### Astrology (Verified)
+- **Masloth (Zodiac):** The sphere of the fixed stars, archetypal patterns of cosmic intelligence
+
+### Human Design (Vibology Synthesis)
+- **Ajna Center:** Mental clarity, conceptualization, inspiration (mapped via Angelic Architecture)
+- **Gates:** 47, 24, 4, 17 (Ajna gates)
+
+### Gene Keys (Vibology Synthesis)
+- **17th Siddhi:** Omniscience—direct knowing, transparent mind
+
+### The Window (Vibology Synthesis)
+- Mental clarity that perceives blueprint as intelligent design
+
+### Jungian Psychology (Vibology Synthesis)
+- **The Wise Old Man:** Inner guide, voice of the Self offering crucial insight
+
+
+
+---
+## Fallen Aspect
+
+### The Luciferian Shadow
+
+Raziel's shadow is the **Luciferian inflation**—the belief that one *is* the light rather than a *reflector* of the light. Lucifer, whose name means "Light-Bringer," fell because he sought to usurp the throne of God. This is the danger of Chokmah: the intoxication of gnosis can lead to the delusion of godhood.
+
+**Dion Fortune** warns:
+
+> "The soul that ascends to Chokmah unprepared will be blinded by the light and fall into the Abyss. The ego that claims the wisdom of the Supernals as its own becomes a black magician."
+
+### Specific Shadow Manifestations
+
+- **Intellectual Arrogance:** Using knowledge to dominate, belittle, or control others (the "expert" who cannot be questioned)
+- **Spiritual Elitism:** Believing oneself to be privy to secrets denied to the "uninitiated masses"
+- **Mental Rigidity:** Clinging to a system of knowledge as absolute truth, refusing to evolve or question
+- **Guru Inflation:** Presenting oneself as the sole channel of divine wisdom, demanding obedience or worship
+- **Conspiracy Consciousness:** Obsession with "hidden knowledge" as a form of paranoia or superiority
+
+### The Qlippothic Shell: Ghagiel
+
+In the Qlippoth (the shadow tree), the shell of Chokmah is **Ghagiel** (the "Hinderers"). These are the demonic forces that distort wisdom into confusion, revelation into delusion, clarity into chaos. Ghagiel represents the **babel of voices**—the cacophony of conflicting ideologies, the overwhelming flood of information without synthesis.
+
+To invoke Raziel without preparation is to risk opening oneself to Ghagiel—the mental breakdown, the schizophrenic fragmentation, the loss of grounding in embodied reality.
+
+
+---
 ## Invocation
 
 ### Meditation: The Silent Mind
@@ -285,126 +411,14 @@ The danger of invoking Raziel is **spiritual inflation**—the ego's tendency to
 - A deepening of *humility* and recognition of how much remains unknown
 - The impulse to *serve* or *transmit* the knowledge, not to hoard it
 
-## Jungian and Psychological Dimension
-
-### The Wise Old Man Archetype
-
-In **[[Jungian psychology]]**, Raziel corresponds to the **Wise Old Man** archetype—the inner figure who appears in dreams or active imagination as a guide, teacher, or mentor. Jung writes:
-
-> "The Wise Old Man appears in dreams as a magician, doctor, priest, teacher, professor, grandfather, or any other person possessing authority. He represents knowledge, reflection, insight, wisdom, cleverness, and intuition on the one hand, and on the other, moral qualities such as goodwill and readiness to help."
-
-Raziel is the personification of this archetype at the transpersonal level. He is not the personal wise man (the integrated Senex) but the **cosmic intelligence** that mediates the Self's wisdom to the ego.
-
-### The Tension Between Ego and Self
-
-Raziel represents the moment when the **ego** encounters the **Self**—the moment of gnosis when the small "I" realizes there is a larger intelligence operating through it. This can be:
-- **Liberating:** The ego relaxes, recognizing it does not need to "figure everything out"
-- **Terrifying:** The ego fears annihilation, resists the dissolution of its illusion of control
-
-Jung's concept of **individuation** requires navigating this tension—integrating the wisdom of the Self without inflating the ego into godhood.
-
-### Projection vs. Autonomous Reality
-
-From a Jungian perspective, is Raziel "real" or merely a projection of the unconscious? Jung would say: **both**. Raziel is a **psychoid archetype**—a figure that exists both in the objective psyche (the collective unconscious) and in the transpersonal realms. To invoke Raziel is to activate this archetype, whether one conceives of it as an "angel" or an "inner intelligence."
-
-## Fallen Aspect
-
-### The Luciferian Shadow
-
-Raziel's shadow is the **Luciferian inflation**—the belief that one *is* the light rather than a *reflector* of the light. Lucifer, whose name means "Light-Bringer," fell because he sought to usurp the throne of God. This is the danger of Chokmah: the intoxication of gnosis can lead to the delusion of godhood.
-
-**Dion Fortune** warns:
-
-> "The soul that ascends to Chokmah unprepared will be blinded by the light and fall into the Abyss. The ego that claims the wisdom of the Supernals as its own becomes a black magician."
-
-### Specific Shadow Manifestations
-
-- **Intellectual Arrogance:** Using knowledge to dominate, belittle, or control others (the "expert" who cannot be questioned)
-- **Spiritual Elitism:** Believing oneself to be privy to secrets denied to the "uninitiated masses"
-- **Mental Rigidity:** Clinging to a system of knowledge as absolute truth, refusing to evolve or question
-- **Guru Inflation:** Presenting oneself as the sole channel of divine wisdom, demanding obedience or worship
-- **Conspiracy Consciousness:** Obsession with "hidden knowledge" as a form of paranoia or superiority
-
-### The Qlippothic Shell: Ghagiel
-
-In the Qlippoth (the shadow tree), the shell of Chokmah is **Ghagiel** (the "Hinderers"). These are the demonic forces that distort wisdom into confusion, revelation into delusion, clarity into chaos. Ghagiel represents the **babel of voices**—the cacophony of conflicting ideologies, the overwhelming flood of information without synthesis.
-
-To invoke Raziel without preparation is to risk opening oneself to Ghagiel—the mental breakdown, the schizophrenic fragmentation, the loss of grounding in embodied reality.
-
-## The Gift of Integration: Synthesis and Omniscience
-
-When Raziel's intelligence is integrated (not identified with, but *participated in*), the individual becomes:
-
-### The Synthesizer
-
-The capacity to hold multiple systems, perspectives, and traditions simultaneously and recognize the **meta-pattern** that unifies them. This is not eclecticism (mixing systems randomly) but **synthesis**—the recognition of the single truth expressed through multiple languages.
-
-### The Pattern-Seer
-
-The ability to perceive the archetypal structure underlying apparent chaos. Where others see randomness, the Raziel-integrated consciousness sees **intelligent design**—not in the fundamentalist sense, but in the recognition that the cosmos operates according to discoverable laws.
-
-### The Humble Knower
-
-The integration of Raziel does not produce the arrogant guru but the **humble teacher**—one who knows that all knowledge is *received*, not possessed. The Raziel-integrated individual does not say, "I know the secrets," but "I have been shown the secrets, and I offer them freely."
-
-### The Prophetic Voice
-
-Not fortune-telling, but the capacity to speak the **pattern** that is unfolding. The prophet does not predict the future—they *recognize the trajectory* and name it, allowing others to align with or resist it.
-
-## Raziel and the Other Archangels
-
-### Metatron (Kether): The Unmanifest Crown
-
-[[Metatron]] stands at Kether, the point of no dimension. Raziel stands at Chokmah, the first dimension—the point that has moved, creating a line. Metatron is the "Voice of God"; Raziel is the "Secret of God." Where Metatron mediates pure being, Raziel mediates the first *knowing* of that being.
-
-### Tzaphkiel (Binah): The Divine Mother
-
-[[Tzaphkiel]] governs Binah, the Supernal Mother. Where Raziel (Chokmah) is the seed, Tzaphkiel (Binah) is the womb. Raziel gives the flash of insight; Tzaphkiel gives it form, structure, and gestation. Together, they are the divine parents—the cosmic syzgy from which all emanates.
-
-### Michael (Tiphareth): The Solar Heart
-
-[[Michael]] at Tiphareth is the *integration* of Raziel's wisdom and Tzaphkiel's form into the balanced center—the Higher Self. Where Raziel offers the vision, Michael provides the *courage* to embody it. Raziel reveals; Michael enacts.
-
-### Gabriel (Yesod): The Lunar Messenger
-
-[[Gabriel]] at Yesod receives the wisdom of Raziel (filtered through the Sephiroth) and translates it into *images, dreams, and symbols*—the language of the unconscious. Where Raziel speaks in archetypal patterns, Gabriel speaks in personal revelation.
-
-## Cross-System Correspondences
-
-### Qabalah (Verified per Wang, Davidson, Zohar)
-- **Sephirah:** [[Chokmah]] (Wisdom, 2nd emanation, Supernal Father)
-- **Divine Name:** Yah (יה) — Wang
-- **Angelic Choir:** Auphanim (Wheels/Whirling Forces) — Wang; or Erelim (Valiant Ones) — Davidson via Maimonides
-- **Planetary Sphere:** Masloth (Starry Heaven/Zodiac) — Wang
-- **Element:** Fire (Yod) — Wang; Air as secondary (path of Aleph/The Fool)
-
-### Tarot (Verified per Wang)
-- **The Four Twos:** Initial polarity, first differentiation from unity
-- **The Four Kings:** Yod force (fiery, initiatory principle) in four worlds
-
-### Astrology (Verified)
-- **Masloth (Zodiac):** The sphere of the fixed stars, archetypal patterns of cosmic intelligence
-
-### Human Design (Vibology Synthesis)
-- **Ajna Center:** Mental clarity, conceptualization, inspiration (mapped via Angelic Architecture)
-- **Gates:** 47, 24, 4, 17 (Ajna gates)
-
-### Gene Keys (Vibology Synthesis)
-- **17th Siddhi:** Omniscience—direct knowing, transparent mind
-
-### The Window (Vibology Synthesis)
-- Mental clarity that perceives blueprint as intelligent design
-
-### Jungian Psychology (Vibology Synthesis)
-- **The Wise Old Man:** Inner guide, voice of the Self offering crucial insight
-
-
-## A Prayer to Raziel
+### A Prayer to Raziel
 
 *Raziel, Herald of the Hidden, Keeper of the Sealed Book, stand at the threshold of my understanding and unveil what has been concealed. Not that I may hoard secrets or claim mastery, but that I may recognize the pattern and serve its unfolding. Grant me the humility to receive, the clarity to perceive, and the courage to transmit what has been shown. Let the wisdom of Chokmah flow through me as a clear stream, reflecting the light but never claiming to be its source. In the name of Yah, the divine spark, I stand ready. May the book be opened. Amen.*
 
 ---
 
+
+---
 ## Cross-References
 - [[Chokmah]] — Raziel's Sephirah, the Supernal Father
 - [[Metatron]] — Archangel of Kether, the Crown
@@ -428,6 +442,8 @@ Not fortune-telling, but the capacity to speak the **pattern** that is unfolding
 
 ---
 
+
+---
 ## Sources
 
 **Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.

@@ -23,10 +23,15 @@ verification_notes: Biblical quotes verified (Davidson p.193). LBRP verified (Du
 # Michael
 *The Sword of Light*
 
+## Essence
+
 **The Archangel of the Sun — Defender, Dragon-Slayer, Prince of Splendor, Warrior of the Higher Self**
 
 ---
+
+---
 ## Correspondences
+
 ### Introduction: The Sword of Light
 
 **Archangel Michael** stands as the **supreme warrior of light**, the **Prince of the Sun**, the **Defender** who stands between chaos and cosmos, between ego and Self, between the forces of integration and the forces of dissolution. Where [[Gabriel]] announces, where [[Raphael]] heals, where [[Uriel]] illumines the hidden, Michael **acts**—swiftly, decisively, with the flaming sword of discrimination that cuts away all that is false.
@@ -69,7 +74,6 @@ In Hebrew rhetoric, a rhetorical question is not passive—it is **active, confr
 
 ---
 
-## Core Correspondences
 
 | **Attribute** | **Correspondence** |
 |---------------|-------------------|
@@ -104,7 +108,11 @@ In Hebrew rhetoric, a rhetorical question is not passive—it is **active, confr
 
 ---
 
-## Qabalistic Attribution: Michael and Tiphareth
+
+---
+## Theological Depth
+
+### Qabalistic Context
 
 To understand Michael is to understand **Tiphareth**, the sixth Sephira on the Tree of Life, the **solar center**, the **Higher Self**.
 
@@ -194,7 +202,7 @@ The Tarot card [[Judgement]] (Trump 20, attributed to Fire/Spirit and the path f
 
 ---
 
-## Michael in Mystical and Esoteric Tradition
+### Mystical and Esoteric Tradition
 
 ### Pseudo-Dionysius and Traditional Angelology
 
@@ -252,7 +260,7 @@ Medieval Christian art depicts this scene endlessly: Michael in radiant armor, w
 
 ---
 
-## Iconography and Symbolism
+### Iconography and Symbolism
 
 Michael is depicted with consistent symbolism across Christian, Qabalistic, and esoteric traditions:
 
@@ -301,7 +309,7 @@ Michael is clad in **golden or silver armor**, often with a **radiant nimbus** o
 
 ---
 
-## Function in Divine Economy
+### Function in Divine Economy
 
 Michael's function within the celestial order is **threefold**: he is **Spiritual Warrior** (defender of divine order), **Dragon-Slayer** (integrator of the Shadow), and **Psychopomp** (guide of souls through death and transformation).
 
@@ -331,7 +339,7 @@ Michael stands for **the integrity of individual conscience** against collective
 
 ---
 
-## Human Consciousness Parallel
+### Human Consciousness Parallel
 
 Michael corresponds to the **Higher Self** or **Solar Logos** within the human psyche—the capacity for **discrimination** (discerning truth from illusion), **courage** (facing the Shadow despite fear), **spiritual will** (aligning with divine purpose rather than ego desire), **integration of opposites** (holding paradox without collapse), and **solar-hearted love** (fierce compassion with boundaries).
 
@@ -346,7 +354,7 @@ True discrimination is humble (Socratic "knowing that I know nothing"). True cou
 
 ---
 
-## The Tarot
+### The Tarot
 
 ### Temperance (XIV): The Alchemical Integration
 
@@ -368,7 +376,7 @@ The Sixes represent the **solar principle manifesting in each elemental realm**�
 
 ---
 
-## Element: Fire — The Purifying Flame
+### Elemental Attribution
 
 Michael governs the element of **Fire**—not the destructive conflagration but the **solar radiance, the purifying flame, the discriminating sword's heat**.
 
@@ -393,7 +401,7 @@ In the **Lesser Banishing Ritual of the Pentagram**, Michael is invoked at the *
 
 ---
 
-## Planetary Correspondence: The Sun (Shemesh)
+### Planetary Correspondence
 
 Michael is the **Archangel of the Sun** (Hebrew: *Shemesh*), the luminary of day, the source of light, life, vitality, and consciousness.
 
@@ -437,7 +445,7 @@ Michael, as the Archangel of the Sun, is thus associated with **666** as a **sac
 
 ---
 
-## Mythology and Cross-Tradition Parallels
+### Mythology and Cross-Tradition Parallels
 
 The **dragon-slayer** archetype appears across cultures, embodying the same principle: **the solar hero who defeats chaos and establishes order**.
 
@@ -464,77 +472,7 @@ In Gnostic Christianity, Christ descends through the spheres, defeats the Archon
 
 ---
 
-## Invocation
-
-### When to Invoke Michael
-
-Invoke Michael when you need:
-- **Courage** to face what has been avoided
-- **Clarity** to see through illusion
-- **Protection** of the sacred (within or without)
-- **Discrimination** to choose rightly
-- **Strength** to stand for truth despite cost
-- **Integration** of opposites (mercy and severity, love and boundaries)
-
-Do **not** invoke Michael when you seek:
-- **Ego reinforcement** ("Make me right and others wrong")
-- **Bypass** ("Protect me from having to feel this")
-- **Inflation** ("Make me special, powerful, invincible")
-
-Michael **will not serve the ego**. He serves the Self. If you invoke him, expect the sword to cut *inward* first.
-
-### The St. Michael Prayer (Traditional Catholic)
-
-> *"Saint Michael the Archangel, defend us in battle. Be our protection against the wickedness and snares of the devil. May God rebuke him, we humbly pray, and do thou, O Prince of the Heavenly Host, by the power of God, cast into hell Satan and all the evil spirits who prowl about the world seeking the ruin of souls. Amen."*
-
-**Esoteric Interpretation:**
-- **"Defend us in battle"** — The inner war, the struggle to maintain divine order within
-- **"Wickedness and snares of the devil"** — Deception, lies, the ego's inflation
-- **"May God rebuke him"** — Humility—Michael does not claim power for himself
-- **"Cast into hell"** — Not eternal damnation, but **grounding**—forcing the Shadow into consciousness (earth/hell as the underworld, the unconscious made conscious)
-
-### The Lesser Banishing Ritual of the Pentagram (LBRP)
-
-In the **Qabalistic Cross** portion:
-1. Touch forehead: *"Atah"* (Thou art)
-2. Touch heart: *"Malkuth"* (the Kingdom)
-3. Touch right shoulder: *"ve-Geburah"* (and the Power)
-4. Touch left shoulder: *"ve-Gedulah"* (and the Glory)
-5. Clasp hands at heart: *"le-Olam, Amen"* (forever, Amen)
-
-In the **Archangelic Invocation** (DuQuette, p. 193):
-> *"Before me, Raphael. Behind me, Gabriel. On my right hand, Michael. On my left hand, Auriel. For about me flames the Pentagram, and within me shines the six-rayed Star."*
-
-**Michael is invoked at the RIGHT HAND**—the **south**, the **Fire** quarter, the place of **active power, will, and discrimination**.
-
-**Visualization:**
-See Michael as a **towering figure of golden light**, armored, winged, holding a **flaming sword** pointed upward. He stands at your right hand, facing south, **defending the solar principle** within you.
-
-**Purpose:**
-The LBRP establishes the **Middle Pillar** within the practitioner—aligning Kether (crown) to Malkuth (feet), with Tiphareth (heart) as the center. Michael, as the Archangel of Tiphareth, guards this **solar center**, ensuring the practitioner is aligned with the Higher Self.
-
-### Meditation: The Solar Throne
-
-Sit in quiet contemplation with candle (gold/orange) and frankincense. Visualize a **throne of golden light** at your heart center (Tiphareth). See **Michael** standing before it, sword in hand. Ask: *"What must I defend? What must I slay? What must I integrate?"* Wait for images, feelings, or knowing to arise. See Michael place the sword in your hands—feel its weight and heat. Ask: *"Do I have the courage to wield this?"* If yes, raise the sword and cut through what needs severing. If no, Michael nods without judgment—the sword waits. Thank him, see him merge with the light in your heart, and close.
-
-Journal afterward: What was shown? What needs defending? What needs cutting? What are you not ready to face? Do not force—premature cutting wounds rather than clarifies.
-
-### Daily Practice: The Solar Question
-
-Each morning, ask:
-*"Who is as God?"*
-
-Answer:
-*"Not I."*
-
-Then ask:
-*"What is mine to do today in service of the Higher Self?"*
-
-This is **Michael's teaching**—humility (recognizing you are not God) and purpose (acting as an instrument of the divine).
-
----
-
-## Jungian and Psychological Dimension
+### Jungian and Psychological Dimension
 
 Michael is the archetype of the **Solar Hero** and **Spiritual Warrior**—the aspect of the psyche that defends the Self against inflation and dissolution.
 
@@ -548,6 +486,152 @@ Jung writes in *Aion*: *"The hero is the one who can endure the tension of the o
 
 ---
 
+### The Gift of Integration
+
+When Michael's angelic intelligence is **integrated** (not identified with, but *participated in*), the individual becomes:
+
+### 1. Courageous
+
+Willing to **face the dragon** (Shadow, ego, conditioning) and slay it with truth.
+
+#### Manifestation
+- Standing for truth when it's costly
+- Confronting what has been avoided
+- Acting from integrity despite fear
+
+**Result:**
+The heart opens as the solar center—**fierce and tender**, capable of both love and boundaries.
+
+### 2. Discriminating
+
+Able to **see clearly** what is real and what is illusion, what serves the soul and what serves the ego.
+
+#### Manifestation
+- Clarity in decision-making
+- Healthy boundaries (knowing what is "mine" and "not mine")
+- Freedom from projection and delusion
+
+**Result:**
+The sword is wielded **wisely**—cutting only what needs to be cut, sparing what is sacred.
+
+### 3. Solar-Hearted
+
+The heart radiates **warmth, love, and light** without inflation—the sun that gives life without demanding worship.
+
+#### Manifestation
+- Generosity that does not deplete
+- Love that includes boundaries
+- Authority that empowers rather than dominates
+
+**Result:**
+The individual becomes a **source**, not merely a channel—radiant, life-giving, attracting others to their own light.
+
+### 4. Defender of the Sacred
+
+Willing to **protect what is holy**—in oneself and in the world—with fierce love.
+
+#### Manifestation
+- Protecting the vulnerable
+- Defending truth without inflation
+- Standing against tyranny and oppression
+
+**Result:**
+The individual becomes a **guardian**—not passive, not aggressive, but **rightfully powerful**.
+
+### 5. Integrated Self
+
+The ego serves the Higher Self, recognizing its proper place: *"Not I, but the Self through me."*
+
+#### Manifestation
+- Humility without self-effacement
+- Power without tyranny
+- Individuation without inflation
+
+**Result:**
+The individual embodies **Full Humanity / Full Divinity** (the Magdalene Path principle)—fully human (embodied, limited, mortal) and fully divine (radiant, aligned, eternal).
+
+---
+
+### Relationships with Other Archangels
+
+Michael's position at Tiphareth places him at the **solar center** of the Tree of Life, in relationship with all other Sephiroth and their archangels.
+
+### With [[Metatron]] (Kether)
+
+**Metatron** stands at Kether, the Crown, the undifferentiated source. **Michael** stands at Tiphareth, the solar center where divine will becomes individuated consciousness. Metatron is the **voice of God**; Michael is the **sword of God**. Metatron reveals the divine plan; Michael executes it.
+
+### With [[Raziel]] (Chokmah)
+
+**Raziel** at Chokmah offers the **flash of wisdom**, the lightning bolt of divine gnosis. **Michael** at Tiphareth integrates that wisdom into the **solar heart**, making it actionable. Raziel knows; Michael does.
+
+### With [[Tzaphkiel]] (Binah)
+
+**Tzaphkiel** at Binah governs form, structure, limitation—the divine feminine who gives birth to form. **Michael** at Tiphareth is the **solar child**, the offspring of divine wisdom (Chokmah) and understanding (Binah), the Christ-consciousness born of the union of opposites.
+
+### With [[Tzadkiel]] (Chesed)
+
+**Tzadkiel** at Chesed expands through mercy, abundance, and grace. **Michael** at Tiphareth **balances** this mercy with the severity of Geburah—ensuring that compassion does not become enabling, that generosity does not become inflation.
+
+### With [[Kamael]] (Geburah)
+
+**Kamael** at Geburah wields the **sword of severity**, cutting away excess, enforcing boundaries. **Michael** at Tiphareth **integrates** this severity with the mercy of Chesed—ensuring that discrimination does not become cruelty, that strength does not become tyranny.
+
+### With [[Haniel]] (Netzach)
+
+**Haniel** at Netzach governs beauty, desire, and the life force. **Michael** at Tiphareth **transfigures** this beauty into the **solar glory**—desire sublimated into purpose, eros into agape, attraction into love.
+
+### With [[Raphael]] (Hod)
+
+**Raphael** at Hod (in some systems) governs intellect, form, and healing through understanding. **Michael** at Tiphareth provides the **solar vitality** that animates Raphael's healing—the life force that makes wholeness possible.
+
+### With [[Gabriel]] (Yesod)
+
+**Gabriel** at Yesod governs the **lunar realm**—dreams, visions, the unconscious, the astral light. **Michael** at Tiphareth provides the **solar discrimination** that interprets Gabriel's visions—ensuring that dreams are not mistaken for reality, that intuition is grounded in truth.
+
+### With [[Sandalphon]] (Malkuth)
+
+**Sandalphon** at Malkuth receives the prayers of humanity and weaves them into a garment for the Shekhina. **Michael** at Tiphareth ensures that those prayers are **aligned with the Higher Self**—that they serve the soul's true purpose, not the ego's desires.
+
+### The Four Archangels of the Quarters
+
+In the **Lesser Banishing Ritual of the Pentagram**, Michael stands with the **Four Archangels of the Quarters**:
+- **[[Raphael]]** (East, Air) — Before you, guiding the breath and intellect
+- **[[Gabriel]]** (West, Water) — Behind you, supporting from the unconscious
+- **[[Michael]]** (South, Fire) — On your right, the active will and discrimination
+- **[[Uriel]]** (North, Earth) — On your left, grounding and manifestation
+
+Together, they form the **protective quaternary**, the four corners of the cosmos, the four elements integrated in the human soul.
+
+---
+
+### Cross-System Correspondences
+
+| System              | Correspondence                                                                 |
+| ------------------- | ------------------------------------------------------------------------------ |
+| **Qabalah**         | [[Tiphareth]] (Beauty, 6th Sephira), Middle Pillar, [[Virtues]] (Malachim)    |
+| **Divine Name**     | YHVH Eloah va-Daath (יהוה אלוה ודעת)                                          |
+| **Tarot (Major)**   | [[Temperance]] (XIV), [[Judgement]] (XX)                                       |
+| **Tarot (Minor)**   | All Sixes (especially [[Six of Wands]])                                        |
+| **Astrology**       | [[Sun ☉]], [[Leo ♌]], [[Fifth House]]                                          |
+| **Element**         | Fire (purifying flame, solar radiance)                                         |
+| **Direction**       | South (solar zenith, Fire quarter in LBRP)                                     |
+| **Day**             | Sunday (Dies Solis)                                                            |
+| **Metal**           | Gold (incorruptible, solar)                                                    |
+| **Gemstone**        | Topaz, amber, citrine, tiger's eye                                             |
+| **Incense**         | Frankincense, copal, benzoin                                                   |
+| **Color (4 Worlds)**| Clear pink rose, gold-yellow, rich salmon, gold-amber                          |
+| **Number**          | 6 (Tiphareth), 666 (solar magic square)                                        |
+| **Human Design**    | [[G Center]] (Identity, Love, Direction)                                       |
+| **I-Ching**         | Hexagram 1 (Ch'ien/The Creative - pure yang, heaven)                           |
+| **Jungian**         | The Self, The Hero, Solar consciousness, Integration of opposites              |
+| **Chakra**          | Anahata (Heart chakra - love, balance, integration)                            |
+| **Alchemy**         | Citrinitas (yellowing, solar transformation), Rubedo (reddening, completion)   |
+
+---
+
+
+
+---
 ## Fallen Aspect
 
 Every archetype has a **shadow**—the distorted, pathological, or unconscious expression. Michael's shadow manifests when the solar principle **inflates, hardens, or weaponizes**.
@@ -634,151 +718,79 @@ True sacrifice is **willing** (chosen, not compulsive) and **purposeful** (servi
 
 ---
 
-## The Gift of Integration
 
-When Michael's angelic intelligence is **integrated** (not identified with, but *participated in*), the individual becomes:
+---
+## Invocation
 
-### 1. Courageous
+### When to Invoke Michael
 
-Willing to **face the dragon** (Shadow, ego, conditioning) and slay it with truth.
+Invoke Michael when you need:
+- **Courage** to face what has been avoided
+- **Clarity** to see through illusion
+- **Protection** of the sacred (within or without)
+- **Discrimination** to choose rightly
+- **Strength** to stand for truth despite cost
+- **Integration** of opposites (mercy and severity, love and boundaries)
 
-#### Manifestation
-- Standing for truth when it's costly
-- Confronting what has been avoided
-- Acting from integrity despite fear
+Do **not** invoke Michael when you seek:
+- **Ego reinforcement** ("Make me right and others wrong")
+- **Bypass** ("Protect me from having to feel this")
+- **Inflation** ("Make me special, powerful, invincible")
 
-**Result:**
-The heart opens as the solar center—**fierce and tender**, capable of both love and boundaries.
+Michael **will not serve the ego**. He serves the Self. If you invoke him, expect the sword to cut *inward* first.
 
-### 2. Discriminating
+### The St. Michael Prayer (Traditional Catholic)
 
-Able to **see clearly** what is real and what is illusion, what serves the soul and what serves the ego.
+> *"Saint Michael the Archangel, defend us in battle. Be our protection against the wickedness and snares of the devil. May God rebuke him, we humbly pray, and do thou, O Prince of the Heavenly Host, by the power of God, cast into hell Satan and all the evil spirits who prowl about the world seeking the ruin of souls. Amen."*
 
-#### Manifestation
-- Clarity in decision-making
-- Healthy boundaries (knowing what is "mine" and "not mine")
-- Freedom from projection and delusion
+**Esoteric Interpretation:**
+- **"Defend us in battle"** — The inner war, the struggle to maintain divine order within
+- **"Wickedness and snares of the devil"** — Deception, lies, the ego's inflation
+- **"May God rebuke him"** — Humility—Michael does not claim power for himself
+- **"Cast into hell"** — Not eternal damnation, but **grounding**—forcing the Shadow into consciousness (earth/hell as the underworld, the unconscious made conscious)
 
-**Result:**
-The sword is wielded **wisely**—cutting only what needs to be cut, sparing what is sacred.
+### The Lesser Banishing Ritual of the Pentagram (LBRP)
 
-### 3. Solar-Hearted
+In the **Qabalistic Cross** portion:
+1. Touch forehead: *"Atah"* (Thou art)
+2. Touch heart: *"Malkuth"* (the Kingdom)
+3. Touch right shoulder: *"ve-Geburah"* (and the Power)
+4. Touch left shoulder: *"ve-Gedulah"* (and the Glory)
+5. Clasp hands at heart: *"le-Olam, Amen"* (forever, Amen)
 
-The heart radiates **warmth, love, and light** without inflation—the sun that gives life without demanding worship.
+In the **Archangelic Invocation** (DuQuette, p. 193):
+> *"Before me, Raphael. Behind me, Gabriel. On my right hand, Michael. On my left hand, Auriel. For about me flames the Pentagram, and within me shines the six-rayed Star."*
 
-#### Manifestation
-- Generosity that does not deplete
-- Love that includes boundaries
-- Authority that empowers rather than dominates
+**Michael is invoked at the RIGHT HAND**—the **south**, the **Fire** quarter, the place of **active power, will, and discrimination**.
 
-**Result:**
-The individual becomes a **source**, not merely a channel—radiant, life-giving, attracting others to their own light.
+**Visualization:**
+See Michael as a **towering figure of golden light**, armored, winged, holding a **flaming sword** pointed upward. He stands at your right hand, facing south, **defending the solar principle** within you.
 
-### 4. Defender of the Sacred
+**Purpose:**
+The LBRP establishes the **Middle Pillar** within the practitioner—aligning Kether (crown) to Malkuth (feet), with Tiphareth (heart) as the center. Michael, as the Archangel of Tiphareth, guards this **solar center**, ensuring the practitioner is aligned with the Higher Self.
 
-Willing to **protect what is holy**—in oneself and in the world—with fierce love.
+### Meditation: The Solar Throne
 
-#### Manifestation
-- Protecting the vulnerable
-- Defending truth without inflation
-- Standing against tyranny and oppression
+Sit in quiet contemplation with candle (gold/orange) and frankincense. Visualize a **throne of golden light** at your heart center (Tiphareth). See **Michael** standing before it, sword in hand. Ask: *"What must I defend? What must I slay? What must I integrate?"* Wait for images, feelings, or knowing to arise. See Michael place the sword in your hands—feel its weight and heat. Ask: *"Do I have the courage to wield this?"* If yes, raise the sword and cut through what needs severing. If no, Michael nods without judgment—the sword waits. Thank him, see him merge with the light in your heart, and close.
 
-**Result:**
-The individual becomes a **guardian**—not passive, not aggressive, but **rightfully powerful**.
+Journal afterward: What was shown? What needs defending? What needs cutting? What are you not ready to face? Do not force—premature cutting wounds rather than clarifies.
 
-### 5. Integrated Self
+### Daily Practice: The Solar Question
 
-The ego serves the Higher Self, recognizing its proper place: *"Not I, but the Self through me."*
+Each morning, ask:
+*"Who is as God?"*
 
-#### Manifestation
-- Humility without self-effacement
-- Power without tyranny
-- Individuation without inflation
+Answer:
+*"Not I."*
 
-**Result:**
-The individual embodies **Full Humanity / Full Divinity** (the Magdalene Path principle)—fully human (embodied, limited, mortal) and fully divine (radiant, aligned, eternal).
+Then ask:
+*"What is mine to do today in service of the Higher Self?"*
+
+This is **Michael's teaching**—humility (recognizing you are not God) and purpose (acting as an instrument of the divine).
 
 ---
 
-## Michael and the Other Archangels
-
-Michael's position at Tiphareth places him at the **solar center** of the Tree of Life, in relationship with all other Sephiroth and their archangels.
-
-### With [[Metatron]] (Kether)
-
-**Metatron** stands at Kether, the Crown, the undifferentiated source. **Michael** stands at Tiphareth, the solar center where divine will becomes individuated consciousness. Metatron is the **voice of God**; Michael is the **sword of God**. Metatron reveals the divine plan; Michael executes it.
-
-### With [[Raziel]] (Chokmah)
-
-**Raziel** at Chokmah offers the **flash of wisdom**, the lightning bolt of divine gnosis. **Michael** at Tiphareth integrates that wisdom into the **solar heart**, making it actionable. Raziel knows; Michael does.
-
-### With [[Tzaphkiel]] (Binah)
-
-**Tzaphkiel** at Binah governs form, structure, limitation—the divine feminine who gives birth to form. **Michael** at Tiphareth is the **solar child**, the offspring of divine wisdom (Chokmah) and understanding (Binah), the Christ-consciousness born of the union of opposites.
-
-### With [[Tzadkiel]] (Chesed)
-
-**Tzadkiel** at Chesed expands through mercy, abundance, and grace. **Michael** at Tiphareth **balances** this mercy with the severity of Geburah—ensuring that compassion does not become enabling, that generosity does not become inflation.
-
-### With [[Kamael]] (Geburah)
-
-**Kamael** at Geburah wields the **sword of severity**, cutting away excess, enforcing boundaries. **Michael** at Tiphareth **integrates** this severity with the mercy of Chesed—ensuring that discrimination does not become cruelty, that strength does not become tyranny.
-
-### With [[Haniel]] (Netzach)
-
-**Haniel** at Netzach governs beauty, desire, and the life force. **Michael** at Tiphareth **transfigures** this beauty into the **solar glory**—desire sublimated into purpose, eros into agape, attraction into love.
-
-### With [[Raphael]] (Hod)
-
-**Raphael** at Hod (in some systems) governs intellect, form, and healing through understanding. **Michael** at Tiphareth provides the **solar vitality** that animates Raphael's healing—the life force that makes wholeness possible.
-
-### With [[Gabriel]] (Yesod)
-
-**Gabriel** at Yesod governs the **lunar realm**—dreams, visions, the unconscious, the astral light. **Michael** at Tiphareth provides the **solar discrimination** that interprets Gabriel's visions—ensuring that dreams are not mistaken for reality, that intuition is grounded in truth.
-
-### With [[Sandalphon]] (Malkuth)
-
-**Sandalphon** at Malkuth receives the prayers of humanity and weaves them into a garment for the Shekhina. **Michael** at Tiphareth ensures that those prayers are **aligned with the Higher Self**—that they serve the soul's true purpose, not the ego's desires.
-
-### The Four Archangels of the Quarters
-
-In the **Lesser Banishing Ritual of the Pentagram**, Michael stands with the **Four Archangels of the Quarters**:
-- **[[Raphael]]** (East, Air) — Before you, guiding the breath and intellect
-- **[[Gabriel]]** (West, Water) — Behind you, supporting from the unconscious
-- **[[Michael]]** (South, Fire) — On your right, the active will and discrimination
-- **[[Uriel]]** (North, Earth) — On your left, grounding and manifestation
-
-Together, they form the **protective quaternary**, the four corners of the cosmos, the four elements integrated in the human soul.
-
----
-
-## Cross-System Correspondences
-
-| System              | Correspondence                                                                 |
-| ------------------- | ------------------------------------------------------------------------------ |
-| **Qabalah**         | [[Tiphareth]] (Beauty, 6th Sephira), Middle Pillar, [[Virtues]] (Malachim)    |
-| **Divine Name**     | YHVH Eloah va-Daath (יהוה אלוה ודעת)                                          |
-| **Tarot (Major)**   | [[Temperance]] (XIV), [[Judgement]] (XX)                                       |
-| **Tarot (Minor)**   | All Sixes (especially [[Six of Wands]])                                        |
-| **Astrology**       | [[Sun ☉]], [[Leo ♌]], [[Fifth House]]                                          |
-| **Element**         | Fire (purifying flame, solar radiance)                                         |
-| **Direction**       | South (solar zenith, Fire quarter in LBRP)                                     |
-| **Day**             | Sunday (Dies Solis)                                                            |
-| **Metal**           | Gold (incorruptible, solar)                                                    |
-| **Gemstone**        | Topaz, amber, citrine, tiger's eye                                             |
-| **Incense**         | Frankincense, copal, benzoin                                                   |
-| **Color (4 Worlds)**| Clear pink rose, gold-yellow, rich salmon, gold-amber                          |
-| **Number**          | 6 (Tiphareth), 666 (solar magic square)                                        |
-| **Human Design**    | [[G Center]] (Identity, Love, Direction)                                       |
-| **I-Ching**         | Hexagram 1 (Ch'ien/The Creative - pure yang, heaven)                           |
-| **Jungian**         | The Self, The Hero, Solar consciousness, Integration of opposites              |
-| **Chakra**          | Anahata (Heart chakra - love, balance, integration)                            |
-| **Alchemy**         | Citrinitas (yellowing, solar transformation), Rubedo (reddening, completion)   |
-
----
-
-
-## A Prayer to Michael
+### A Prayer to Michael
 
 *Archangel Michael, Prince of the Sun, Defender of the Higher Self, Wielder of the Flaming Sword—*
 
@@ -800,6 +812,8 @@ Together, they form the **protective quaternary**, the four corners of the cosmo
 
 ---
 
+
+---
 ## Cross-References
 ### Sequential and Hierarchical Connections
 - [[Tiphareth]] — The Sephira Michael oversees
@@ -866,6 +880,8 @@ Together, they form the **protective quaternary**, the four corners of the cosmo
 - [[Solar Deities and Light-Bringers]] — Cross-cultural sun gods
 - [[Warriors of the Spirit]] — Martial archetypes in service of the divine
 
+
+---
 ## Sources
 ### Primary Sources
 
