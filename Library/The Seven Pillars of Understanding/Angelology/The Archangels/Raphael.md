@@ -22,11 +22,10 @@ invocation: Prayer of Tobias, LBRP (East Quarter)
 # Raphael
 *The Divine Physician*
 
+---
 ## Essence
 
 **The Healing Archangel — God's Medicine, Prince of Brightness, Guide and Companion, Reconciler of Heaven and Earth**
-
----
 
 ---
 ## Correspondences
@@ -256,8 +255,6 @@ Raphael transmits **knowledge**—practical, applicable wisdom. He teaches Tobia
 | **Function** | Divine healing (physical, emotional, spiritual), guidance on journeys, teaching practical wisdom, harmonizing opposites, binding destructive forces |
 | **Invocation (LBRP)** | *"Before me, Raphael!"* (East Quarter, Air) |
 | **Traditional Prayer** | *"Raphael, Divine Physician, heal me in body, mind, and soul. Guide me on the path of wholeness. Teach me the wisdom that restores what has been broken. Amen."* |
-
----
 
 ---
 ## Theological Depth

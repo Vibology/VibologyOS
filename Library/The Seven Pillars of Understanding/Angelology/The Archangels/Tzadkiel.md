@@ -20,16 +20,8 @@ function: Mercy, beneficence, divine justice
 # Tzadkiel
 *The Prince of Mercy*
 
+---
 ## Essence
-
-**The Angel of Abundance — Bestower of Grace, Ruler of Chesed, Guardian of Beneficent Justice**
-
----
-
----
-## Correspondences
-
-### Introduction: The Merciful Sovereign
 
 **Archangel Tzadkiel** stands as the **Prince of Chesed**, the guardian of Mercy, the embodiment of divine grace that flows ceaselessly from the throne of God. Where [[Tzaphkiel]] (Binah) contracts and gives form through limitation, Tzadkiel **expands and gives life through abundance**. Where severity restricts, mercy liberates. Where law judges, grace forgives.
 
@@ -42,7 +34,28 @@ Where [[Michael]] wields the sword of truth, where [[Gabriel]] delivers the annu
 To encounter Tzadkiel is to meet **the overwhelming generosity of the cosmos**—the understanding that the universe is not a hostile scarcity machine, but an abundant wellspring of grace. But Tzadkiel's mercy is not permissive indulgence—it is **righteous generosity**, the gift that empowers rather than enables, the blessing that calls forth greatness rather than encouraging stagnation.
 
 ---
+## Correspondences
 
+### The Name: Righteousness of God
+
+The name **Tzadkiel** (צדקיאל) breaks down as:
+
+**צדק** (*Tzedek*) = "righteousness," "justice," "rightness," "what is right and true"
+**אל** (*El*) = "God"
+
+Thus: **"Righteousness of God"** or **"Justice of God"**
+
+This is not the harsh justice of retribution—this is **restorative justice**, the justice that seeks to make whole, to heal, to restore right relationship. *Tzedek* in Hebrew encompasses both justice and righteousness, the understanding that true justice is not punitive but **corrective and generous**.
+
+### Biblical Foundation: The Blessing of Abraham
+
+The **Blessing of Abraham** (Genesis 12:2-3) establishes Tzadkiel's function embodied: *"I will make of you a great nation, and I will bless you and make your name great, so that you will be a blessing."* This is the blessing that overflows, the abundance that is not hoarded but shared, the sovereignty that empowers others.
+
+### The Pattern: Mercy Through Expansion
+
+Tzadkiel's function is **expansion and abundant grace**—the overflowing generosity of the divine, the principle that there is enough for all. Where Tzaphkiel contracts and gives form through limitation, Tzadkiel expands and gives life through abundance. The teaching: mercy is not weakness but the strength to give freely, trusting cosmic generosity.
+
+---
 
 | **Attribute** | **Correspondence** |
 |---------------|-------------------|
@@ -75,23 +88,11 @@ To encounter Tzadkiel is to meet **the overwhelming generosity of the cosmos**�
 | **Function** | Divine mercy, abundance, grace, benevolent sovereignty, righteous generosity |
 
 ---
-
-
----
 ## Theological Depth
 
 ### Hebrew Etymology and Mystical Significance
 
-### The Name Tzadkiel (צדקיאל)
-
-The name **Tzadkiel** (צדקיאל) breaks down as:
-
-**צדק** (*Tzedek*) = "righteousness," "justice," "rightness," "what is right and true"
-**אל** (*El*) = "God"
-
-Thus: **"Righteousness of God"** or **"Justice of God"**
-
-This is not the harsh justice of retribution—this is **restorative justice**, the justice that seeks to make whole, to heal, to restore right relationship. *Tzedek* in Hebrew encompasses both justice and righteousness, the understanding that true justice is not punitive but **corrective and generous**.
+Tzadkiel is thus the **archetype of the righteous sovereign**—the one whose justice is inseparable from generosity, whose authority is expressed through blessing.
 
 The root *tzedek* also forms:
 - **Tzedakah** (צדקה) — "Charity," "righteousness," the obligation to give generously

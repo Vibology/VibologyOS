@@ -21,6 +21,7 @@ aliases: [Akrasiel, Galizur, Saraqael, Suriel]
 # Raziel
 *The Patron of Shadowhunters*
 
+---
 ## Essence
 
 **Archangel Raziel** (Hebrew: רזיאל, *Razi'el* — "Secret of God" or "Herald of Deity") is the **Prince of Hidden Knowledge**, the **Revealer of Mysteries**, and the **Angel of the Supreme Secrets**. In the Qabalistic tradition, Raziel governs **[[Chokmah]]** (Wisdom, the second [[Sephirah]]), the primal masculine force of creation—the explosive first emanation from the Absolute, the divine spark that initiates all manifestation. Where [[Metatron]] at [[Kether]] represents the Unmanifest Crown, Raziel at Chokmah is the *first intelligible principle*, the Logos, the divine intelligence that structures the cosmos.
@@ -30,6 +31,58 @@ Raziel is not a comforting presence. He does not protect in the manner of [[Mich
 ---
 ## Correspondences
 
+### The Name: Secret of God
+
+The Hebrew name **Razi'el** (רזיאל) is composed of:
+- **Raz** (רז) — "secret, mystery" (Aramaic loanword in Hebrew)
+- **El** (אל) — "God"
+
+Thus: **"Secret of God,"** **"Mystery of God,"** or **"Herald of Deity."**
+
+Unlike other archangelic names ending in *-el* (Michael, Gabriel, Raphael), which describe *actions* or *qualities* of God, Raziel's name points to *hiddenness*—the knowledge that is concealed, the wisdom accessible only to the initiated. His very name is an invocation of the esoteric, the gnostic, the occult (meaning "hidden," not "evil").
+
+### Apocryphal Foundation: The Gift of the Book of Mysteries
+
+The most famous myth of Raziel is his gift to Adam of the **Sefer Raziel HaMalakh** (*The Book of the Angel Raziel*), a grimoire containing "1,500 keys to the mystery of the world not revealed even to the holy angels."
+
+#### 1. Raziel's Gift to Adam
+
+After Adam's expulsion from the Garden of Eden, he sat in despair, grieving the loss of divine intimacy. God, in compassion, sent Raziel to deliver to Adam a book containing the secrets of:
+- The structure of the cosmos
+- The names of angels and spirits
+- The art of healing
+- The movements of the stars
+- The mysteries of life and death
+- The knowledge to foretell future events
+
+The **Zohar** recounts:
+
+> "The angel Raziel is the keeper of all secrets and the 'herald of the deity.' He stands so close to the throne of God that he hears all that is decreed concerning the universe."
+
+#### 2. The Theft and Recovery
+
+The lesser angels, envious that such knowledge had been given to a mortal, stole the book and cast it into the sea. God commanded **Rahab** (the Angel of the Deep) to retrieve it. The book was returned to Adam, and from him it passed to:
+1. **Seth** (Adam's son, the inheritor of the mysteries)
+2. **Enoch** (who may have transcribed it as the *Book of Enoch*)
+3. **Noah** (who used its wisdom to build the Ark and survive the Flood)
+4. **Solomon** (who derived his legendary wisdom and command over spirits from it)
+
+#### 3. Esoteric Interpretation: The Book as Consciousness
+
+The *Sefer Raziel* is not merely a historical grimoire (though medieval texts bearing this name exist). It is a **symbol of the capacity for revelation**—the ability of human consciousness to receive direct gnosis from the supernal realms. The "book" is the **Higher Mind** itself, the Ajna center opened, the third eye activated. To "read the Sefer Raziel" is to access the **Akashic Records**, the imprint of all that has been and will be.
+
+### The Pattern: Raziel Appears as Herald of Hidden Wisdom
+
+All traditions about Raziel share a common structure:
+1. **Proximity to the Source** (standing at the foot of God's throne, hearing all decrees)
+2. **Gift of esoteric knowledge** (the book given to Adam, secrets revealed to initiates)
+3. **Transmission through lineage** (Adam → Seth → Enoch → Noah → Solomon)
+4. **Theft and recovery** (knowledge is challenged, tested, but divinely protected and restored)
+5. **Hiddenness and revelation** (Raziel governs what is concealed yet must be known)
+
+Raziel does not appear to the masses. He does not announce to nations or fight dragons. Raziel appears **to the seeker who has descended into despair and asks the ultimate question**: *"What is the meaning of this? Show me the pattern. Reveal the hidden structure."* When that question is asked sincerely, Raziel opens the book.
+
+---
 
 | Attribute | Correspondence |
 |-----------|----------------|
@@ -81,37 +134,9 @@ Chokmah is the **Yod**, the single point, the initial spark. This is why Raziel'
 
 Raziel governs Chokmah in **Briah** (the World of Creation), the realm where divine ideas first take archetypal form. In this sense, Raziel mediates between the unmanifest (Atziluth/Kether) and the conceptual (Yetzirah/the lower Sephiroth). He is the **archangel of the architects**, the revealer of the divine blueprints.
 
-### The Sefer Raziel HaMalakh: The Book of Mysteries
+---
 
-The most famous myth of Raziel is his gift to Adam of the **Sefer Raziel HaMalakh** (*The Book of the Angel Raziel*), a grimoire containing "1,500 keys to the mystery of the world not revealed even to the holy angels."
-
-### The Myth: Raziel's Gift to Adam
-
-After Adam's expulsion from the Garden of Eden, he sat in despair, grieving the loss of divine intimacy. God, in compassion, sent Raziel to deliver to Adam a book containing the secrets of:
-- The structure of the cosmos
-- The names of angels and spirits
-- The art of healing
-- The movements of the stars
-- The mysteries of life and death
-- The knowledge to foretell future events
-
-The **Zohar** recounts:
-
-> "The angel Raziel is the keeper of all secrets and the 'herald of the deity.' He stands so close to the throne of God that he hears all that is decreed concerning the universe."
-
-### The Theft and Recovery
-
-The lesser angels, envious that such knowledge had been given to a mortal, stole the book and cast it into the sea. God commanded **Rahab** (the Angel of the Deep) to retrieve it. The book was returned to Adam, and from him it passed to:
-1. **Seth** (Adam's son, the inheritor of the mysteries)
-2. **Enoch** (who may have transcribed it as the *Book of Enoch*)
-3. **Noah** (who used its wisdom to build the Ark and survive the Flood)
-4. **Solomon** (who derived his legendary wisdom and command over spirits from it)
-
-### Esoteric Interpretation: The Book as Consciousness
-
-The *Sefer Raziel* is not merely a historical grimoire (though medieval texts bearing this name exist). It is a **symbol of the capacity for revelation**—the ability of human consciousness to receive direct gnosis from the supernal realms. The "book" is the **Higher Mind** itself, the Ajna center opened, the third eye activated. To "read the Sefer Raziel" is to access the **Akashic Records**, the imprint of all that has been and will be.
-
-### Raziel in Biblical and Mystical Tradition
+### Mystical and Esoteric Tradition
 
 ### The Zohar: Herald of the Throne
 
@@ -131,7 +156,9 @@ In Christian angelology, Raziel is rarely mentioned. **Pseudo-Dionysius** does n
 
 Raziel, as the angel of Chokmah, is the *angelic reflection* of the Logos—the divine reason that orders chaos, the pattern-maker, the revealer of the hidden structure.
 
-### Iconography and Symbolism
+---
+
+## Iconography and Symbolism
 
 Raziel is traditionally depicted as:
 

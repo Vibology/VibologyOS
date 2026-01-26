@@ -23,6 +23,7 @@ aliases: [Camael, Khamael, Chamuel, Samael]
 # Kamael
 *The Ghostblade*
 
+---
 ## Essence
 
 **Archangel Kamael** (Hebrew: כמאל, *Kama'el* — "He Who Sees God" or "Severity of God") is the **Prince of Strength and Courage**, the **Fighting Angel**, and the **Wielder of the Sword of Justice**. In the Qabalistic tradition, Kamael governs **[[Geburah]]** (Severity, the fifth [[Sephirah]]), the sphere of divine strength, necessary destruction, and discriminating power. Where [[Michael]] at [[Tiphareth]] represents the solar hero who defends the Self, Kamael at Geburah is the *ruthless force* that cuts away all that does not serve the divine plan—the surgeon, the executioner, the warrior who does not flinch.
@@ -32,6 +33,24 @@ Kamael is not a comforting presence. He does not soothe, heal, or console. Kamae
 ---
 ## Correspondences
 
+### The Name: He Who Sees God
+
+The name **Kamael** (כמאל) is typically translated as:
+- **"He Who Sees God"** (from *kam* = "rise up," *El* = "God")
+- **"Severity of God"** (emphasizing the Geburah attribution)
+- **"God's Champion"** (the warrior aspect)
+
+Kamael's name reflects his function: the one who sees with divine clarity and acts with divine severity, cutting away all that does not serve the sacred.
+
+### Apocryphal Foundation: The Angel Who Wrestled Jacob
+
+Some Qabalistic sources identify Kamael as the angel who wrestled with Jacob at Peniel (Genesis 32:24-30). The angel who wounds Jacob (dislocating his hip) yet blesses him reflects **Kamael's dual function**: he tests through struggle, wounds through necessity, yet the wound becomes the mark of initiation. Jacob becomes **Israel** ("he who strives with God") only *after* the ordeal.
+
+### The Pattern: Necessary Destruction
+
+Kamael's function is **purgation**—the removal of the diseased, the elimination of the weak, the destruction of what has outlived its purpose. The cancer must be removed. The rotted foundation must be torn down. The false self must die that the true Self might emerge. This is not cruelty but *clarity*.
+
+---
 
 | Attribute | Correspondence |
 |-----------|----------------|
@@ -52,13 +71,10 @@ Kamael is not a comforting presence. He does not soothe, heal, or console. Kamae
 | **Biblical Role** | Angel who wrestled Jacob, leader of 12,000 angels of destruction |
 | **Function** | Avenging evil, severing attachments, protecting through strength |
 
-
 ---
 ## Theological Depth
 
 ### Qabalistic Context
-
-### Geburah: The Fifth Sephirah
 
 In the structure of the [[Tree of Life]], **[[Geburah]]** is the **Left Pillar of Severity**, the balancing force to [[Chesed]] (Mercy/Expansion) on the Right Pillar. Where Chesed is the benevolent king who gives freely, Geburah is the stern judge who *withholds*, who says "No," who establishes boundaries through force.
 

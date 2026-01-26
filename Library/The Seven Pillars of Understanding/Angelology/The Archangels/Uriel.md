@@ -35,10 +35,74 @@ Uriel occupies a paradoxical position in angelology: he is both **the most groun
 Unlike Michael, Gabriel, and Raphael, who appear in canonical scripture, Uriel's presence is found primarily in **apocryphal and mystical texts**—the Book of Enoch, 2 Esdras, the Kabbalah. He is the **excluded angel**, the one whose wisdom is too dark, too earthly, too dangerous for exoteric doctrine. Yet it is precisely this exclusion that marks his power: **Uriel is the angel of the threshold**, the guardian of mysteries that can only be approached through descent, through embodiment, through facing what has been buried.
 
 ---
-
----
 ## Correspondences
 
+### The Name: Fire in the Earth
+
+The Hebrew name **Uri'el** (אוריאל) is composed of:
+
+- Light/Fire = **אור** (*Or*)
+- God = **אל** (*El*)
+
+Thus: **"Fire of God"** or **"Light of God"** or **"God is my Light."**
+
+This name is profoundly paradoxical when paired with Uriel's earthly attribution. How can the angel of Earth be named "Fire"? The answer lies in understanding the nature of **chthonic fire**—not the ascending, purifying fire of the Seraphim or Michael's solar flame, but the **fire within the earth**: volcanic, subterranean, transformative through pressure and heat. This is the fire that turns carbon into diamond, the fire of the forge, the fire of **alchemical transmutation** that works through **embodiment**, not transcendence.
+
+Uriel is the light that shines **in darkness**, not the light that dispels darkness. He is the candle flame in the cave, the lantern carried into the underworld, the **phosphorescence** of decay that makes the hidden visible. His light does not ascend to heaven—it **descends into matter** and illuminates from within.
+
+### Apocryphal Foundation: The Contested Angel
+
+Uriel's primary appearances are in **apocryphal texts**—scriptures excluded from the Protestant and Jewish canons, though honored in the Orthodox and Catholic traditions (to varying degrees).
+
+#### 1. 1 Enoch: The Angel of Judgment
+
+In the **Book of Enoch** (1 Enoch), Uriel appears as one of the four great archangels who stand before God:
+
+> *"Uriel, one of the holy angels, who is over the world and over Tartarus."* (1 Enoch 20:2)
+
+Tartarus, in Jewish and Christian cosmology, is the deepest, darkest region of the underworld—the place of **judgment and punishment**, where fallen angels and unrepentant souls are held. Uriel's governance over this realm marks him as the **angel of divine justice**, the overseer of karmic consequence, the one who ensures that what has been done in darkness is brought to light and accounted for.
+
+Enoch also describes Uriel as showing him the **movements of the heavenly bodies**—the sun, moon, stars, and the mechanics of cosmic time. Uriel is thus both **above** (astronomy, celestial order) and **below** (Tartarus, chthonic judgment)—bridging heaven and earth, light and shadow.
+
+#### 2. 2 Esdras: The Interpreter of Visions
+
+In **2 Esdras** (4 Ezra), an apocalyptic text, Uriel appears to the prophet Ezra to interpret visions and answer profound theological questions:
+
+> *"I am Uriel, who was sent to you to answer your questions and to speak with you."* (2 Esdras 4:1)
+
+Ezra asks Uriel why Israel suffers, why the righteous are afflicted, why evil seems to prosper. Uriel's responses are not comforting—he offers **hard wisdom**, the kind that forces the questioner to expand their understanding beyond dualistic good/evil into the mysteries of divine justice, timing, and cosmic law.
+
+Uriel tells Ezra:
+> *"You cannot understand the things with which you have grown up; how then can your mind comprehend the way of the Most High?"* (2 Esdras 4:10-11)
+
+This is classic Uriel: he does not soothe the ego's need for certainty. He **challenges the questioner** to transcend limited perspective, to accept mystery, to humble themselves before the vastness of divine intelligence. Uriel is the angel who says: *"You do not yet have the eyes to see what I could show you—but if you persist, if you descend, if you are willing to bear the weight of knowledge, I will guide you."*
+
+#### 3. The Book of Adam and Eve: The Angel of Repentance
+
+In the **Life of Adam and Eve** (Vita Adae et Evae), Uriel is sent to instruct Adam and Eve after their expulsion from Eden. He teaches them how to **work the earth**, how to plant, how to survive in the material world they now inhabit. He is the angel who bridges the gap between paradise lost and survival in the fallen world—**the angel of incarnation's necessity**.
+
+In this narrative, Uriel becomes the patron of **repentance and transformation through labor**. Adam and Eve are cast out, but Uriel ensures they are not abandoned. He teaches them the sacred work of **tilling the soil**—a metaphor for tilling the soul, for working with the material of one's own life to transform suffering into wisdom.
+
+#### 4. Non-Canonical Status and Exclusion
+
+It is critical to note that Uriel does **not** appear in canonical Protestant or Jewish scripture. While Michael, Gabriel, and Raphael are named in the Bible, Uriel is absent—or rather, **deliberately excluded**.
+
+The **Council of Rome (745 CE)** condemned the veneration of angels not named in canonical scripture, specifically targeting Uriel along with other apocryphal angels. Why? Because Uriel's association with the **underworld, prophecy, and hidden knowledge** was deemed too dangerous, too prone to misuse, too **Gnostic** in its implication that salvation requires descent into shadow rather than ascent into light.
+
+This exclusion is itself theologically significant: **Uriel is the angel of what has been repressed, denied, cast out**. He governs the underworld not only cosmically but psychologically—he is the angel of **the shadow**, the guide who says, *"What you have buried must be faced. What you have denied must be integrated. I am the light that reveals what you would rather not see."*
+
+### The Pattern: Uriel Appears at Thresholds of Descent
+
+All of Uriel's apocryphal appearances share a common structure:
+1. **Descent and judgment** (Tartarus, the underworld, the realm below)
+2. **Hard wisdom, not comfort** (challenging questions, forcing expansion of perspective)
+3. **Illumination through embodiment** (teaching earthly survival, cosmic mechanics, grounded knowledge)
+4. **Exclusion and repression** (the angel deemed too dangerous, too shadow-oriented)
+5. **Integration of the rejected** (the light that reveals what has been denied)
+
+Uriel does not appear in moments of ascension or heavenly revelation. Uriel appears when **descent is required**, when the soul must go down into matter, into shadow, into the buried and forgotten, to retrieve what has been lost. He is the psychopomp of the underworld journey, the guide who says: *"The way up is through the way down. I will show you the fire hidden in the earth."*
+
+---
 
 | Attribute | Correspondence |
 |-----------|----------------|
@@ -57,63 +121,6 @@ Unlike Michael, Gabriel, and Raphael, who appear in canonical scripture, Uriel's
 | **Function** | Presider over Tartarus/Hades, interpreter of prophecy, illuminator of hidden truths, guardian of earth wisdom, patron of repentance |
 | **Invocation** | Lesser Banishing Ritual of the Pentagram (North Quarter), prayers for illumination in darkness, guidance through underworld journeys |
 | **Aliases** | Auriel, Nuriel, Phanuel, Regent of the Sun (in some traditions) |
-
----
-### The Name: Fire in the Earth
-
-The Hebrew name **Uri'el** (אוריאל) is composed of:
-
-- Light/Fire = **אור** (*Or*)
-- God = **אל** (*El*)
-
-Thus: **"Fire of God"** or **"Light of God"** or **"God is my Light."**
-
-This name is profoundly paradoxical when paired with Uriel's earthly attribution. How can the angel of Earth be named "Fire"? The answer lies in understanding the nature of **chthonic fire**—not the ascending, purifying fire of the Seraphim or Michael's solar flame, but the **fire within the earth**: volcanic, subterranean, transformative through pressure and heat. This is the fire that turns carbon into diamond, the fire of the forge, the fire of **alchemical transmutation** that works through **embodiment**, not transcendence.
-
-Uriel is the light that shines **in darkness**, not the light that dispels darkness. He is the candle flame in the cave, the lantern carried into the underworld, the **phosphorescence** of decay that makes the hidden visible. His light does not ascend to heaven—it **descends into matter** and illuminates from within.
-
-### Apocryphal Foundation: The Contested Angel
-
-Uriel's primary appearances are in **apocryphal texts**—scriptures excluded from the Protestant and Jewish canons, though honored in the Orthodox and Catholic traditions (to varying degrees).
-
-#### 1 Enoch: The Angel of Judgment
-
-In the **Book of Enoch** (1 Enoch), Uriel appears as one of the four great archangels who stand before God:
-
-> *"Uriel, one of the holy angels, who is over the world and over Tartarus."* (1 Enoch 20:2)
-
-Tartarus, in Jewish and Christian cosmology, is the deepest, darkest region of the underworld—the place of **judgment and punishment**, where fallen angels and unrepentant souls are held. Uriel's governance over this realm marks him as the **angel of divine justice**, the overseer of karmic consequence, the one who ensures that what has been done in darkness is brought to light and accounted for.
-
-Enoch also describes Uriel as showing him the **movements of the heavenly bodies**—the sun, moon, stars, and the mechanics of cosmic time. Uriel is thus both **above** (astronomy, celestial order) and **below** (Tartarus, chthonic judgment)—bridging heaven and earth, light and shadow.
-
-#### 2 Esdras: The Interpreter of Visions
-
-In **2 Esdras** (4 Ezra), an apocalyptic text, Uriel appears to the prophet Ezra to interpret visions and answer profound theological questions:
-
-> *"I am Uriel, who was sent to you to answer your questions and to speak with you."* (2 Esdras 4:1)
-
-Ezra asks Uriel why Israel suffers, why the righteous are afflicted, why evil seems to prosper. Uriel's responses are not comforting—he offers **hard wisdom**, the kind that forces the questioner to expand their understanding beyond dualistic good/evil into the mysteries of divine justice, timing, and cosmic law.
-
-Uriel tells Ezra:
-> *"You cannot understand the things with which you have grown up; how then can your mind comprehend the way of the Most High?"* (2 Esdras 4:10-11)
-
-This is classic Uriel: he does not soothe the ego's need for certainty. He **challenges the questioner** to transcend limited perspective, to accept mystery, to humble themselves before the vastness of divine intelligence. Uriel is the angel who says: *"You do not yet have the eyes to see what I could show you—but if you persist, if you descend, if you are willing to bear the weight of knowledge, I will guide you."*
-
-#### The Book of Adam and Eve: The Angel of Repentance
-
-In the **Life of Adam and Eve** (Vita Adae et Evae), Uriel is sent to instruct Adam and Eve after their expulsion from Eden. He teaches them how to **work the earth**, how to plant, how to survive in the material world they now inhabit. He is the angel who bridges the gap between paradise lost and survival in the fallen world—**the angel of incarnation's necessity**.
-
-In this narrative, Uriel becomes the patron of **repentance and transformation through labor**. Adam and Eve are cast out, but Uriel ensures they are not abandoned. He teaches them the sacred work of **tilling the soil**—a metaphor for tilling the soul, for working with the material of one's own life to transform suffering into wisdom.
-
-### Non-Canonical Status and Exclusion
-
-It is critical to note that Uriel does **not** appear in canonical Protestant or Jewish scripture. While Michael, Gabriel, and Raphael are named in the Bible, Uriel is absent—or rather, **deliberately excluded**.
-
-The **Council of Rome (745 CE)** condemned the veneration of angels not named in canonical scripture, specifically targeting Uriel along with other apocryphal angels. Why? Because Uriel's association with the **underworld, prophecy, and hidden knowledge** was deemed too dangerous, too prone to misuse, too **Gnostic** in its implication that salvation requires descent into shadow rather than ascent into light.
-
-This exclusion is itself theologically significant: **Uriel is the angel of what has been repressed, denied, cast out**. He governs the underworld not only cosmically but psychologically—he is the angel of **the shadow**, the guide who says, *"What you have buried must be faced. What you have denied must be integrated. I am the light that reveals what you would rather not see."*
-
----
 
 ---
 ## Theological Depth

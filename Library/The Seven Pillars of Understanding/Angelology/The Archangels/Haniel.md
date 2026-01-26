@@ -23,6 +23,7 @@ verification_notes: All quotes verified against Agrippa, Davidson, Jung, Peterso
 # Haniel
 *The Prince of Virtues*
 
+---
 ## Essence
 
 **Archangel Haniel** (Hebrew: חניאל, *Chani'el* — "Grace of God" or "Glory of God") is the **Prince of Love and Harmony**, the **Ruler of the Vegetable Kingdom**, and the **Angel of Venus**. In the Qabalistic tradition, Haniel governs **[[Netzach]]** (Victory, Eternity—the seventh [[Sephirah]]), the sphere of **nature, desire, beauty, and the life force that endures**. Where [[Raphael]] at [[Tiphareth]] mediates the solar heart of the Higher Self, Haniel at Netzach mediates the **magnetic pull of love, the verdant beauty of nature, and the grace that makes existence desirable**.
@@ -34,6 +35,25 @@ To invoke Haniel is to ask not for abstract spiritual truths but for **the capac
 ---
 ## Correspondences
 
+### The Name: Grace of God
+
+The name **Haniel** (חניאל) derives from:
+**חן** (*chen*) = "grace," "charm," "favor"
+**אל** (*El*) = "God"
+
+Thus: **"Grace of God"** or **"Glory of God"**
+
+Haniel is the intelligence through which divine grace becomes tangible—the beauty that calls forth devotion, the love that binds beings together, the fertility of the natural world.
+
+### Grimoire Foundation: The Angel of Venus
+
+In medieval and Renaissance grimoires—*The Key of Solomon*, *The Heptameron*, *The Arbatel of Magic*—Haniel (often as **Anael**) is invoked as the **Angel of Venus**, governing love, beauty, fertility, harmony, and peace. Agrippa writes that divine influence is "received by the angel Haniel, and communicated through the sphere of Venus, giving zeal, fervency, and righteousness of heart."
+
+### The Pattern: Beauty as Sacred
+
+Haniel's function is to ensure that creation is not merely functional but **lovely**, that existence is not merely ordered but **delightful**. The teaching: beauty is not frivolous—it is the visible signature of the Divine, the face of God made manifest in form.
+
+---
 
 | Attribute | Correspondence |
 |-----------|----------------|
@@ -52,13 +72,10 @@ To invoke Haniel is to ask not for abstract spiritual truths but for **the capac
 | **Function** | Mediator of divine love, beauty, grace, harmony, and the life force; ruler of nature |
 | **Human Faculty** | Capacity for aesthetic appreciation, relational love, desire aligned with divine will |
 
-
 ---
 ## Theological Depth
 
 ### Qabalistic Context
-
-### Netzach: The Eternal Life Force
 
 In the structure of the [[Tree of Life]], **[[Netzach]]** is the seventh Sephirah, positioned on the **Pillar of Mercy** (the right-hand pillar of expansion, grace, and love). Where [[Hod]] (the eighth Sephirah, on the Pillar of Severity) is the sphere of **form, intellect, and pattern**, Netzach is the sphere of **force, feeling, and vitality**.
 
