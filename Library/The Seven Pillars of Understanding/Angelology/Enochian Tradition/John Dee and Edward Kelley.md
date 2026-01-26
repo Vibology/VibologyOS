@@ -13,7 +13,7 @@ verification_source: "Davidson (Dictionary of Angels), DuQuette (Enochian Vision
 
 ---
 ## Essence
-The [[Enochian System Overview|Enochian system]]—its language, hierarchies, cosmology, and magical technology—was not discovered through scholarship or meditation but **received through direct angelic revelation** to two men: **Dr. John Dee** (1527-1608/9) and **Edward Kelley** (1555-1597). Their partnership, spanning 1581 to 1587, produced one of the most comprehensive and controversial bodies of esoteric knowledge in Western history.
+The [[Enochian Tradition|Enochian system]]—its language, hierarchies, cosmology, and magical technology—was not discovered through scholarship or meditation but **received through direct angelic revelation** to two men: **Dr. John Dee** (1527-1608/9) and **Edward Kelley** (1555-1597). Their partnership, spanning 1581 to 1587, produced one of the most comprehensive and controversial bodies of esoteric knowledge in Western history.
 
 **John Dee** was the architect—mathematician, astronomer, geographer, philosopher, and advisor to Queen Elizabeth I. He **interpreted** the visions, organized the material, and recorded the dialogues.
 
@@ -358,7 +358,7 @@ Dee embodies the **Hermetic ideal**:
 - **Magician** (practical invocation)
 - **Seeker of Divine Wisdom** (angelic communication)
 
-**Tarot:** [[The Magician]] (I) — Mastery of tools, mediation between divine and earthly
+**Tarot:** [[The Magician (I)|The Magician]] — Mastery of tools, mediation between divine and earthly
 **Jungian:** The **Wise Old Man** archetype—seeking ultimate knowledge
 
 ### Kelley as the Mercurial Trickster
@@ -368,7 +368,7 @@ Kelley embodies the **Mercurial Trickster**:
 - **Psychopomp** (mediator between worlds, channel for angels)
 - **Shadow-bearer** (flawed, morally questionable, yet essential)
 
-**Tarot:** [[The Magician]] (I, reversed) or [[The Fool]] (0)—the chaotic, ungrounded wanderer
+**Tarot:** [[The Magician (I)|The Magician]] (reversed) or [[The Fool (0)]]—the chaotic, ungrounded wanderer
 **Jungian:** The **Trickster** archetype—necessary chaos, the Shadow that reveals hidden truths
 
 ### The Partnership as Syzygy
@@ -418,7 +418,7 @@ Their work endures because it **speaks to something real**—whether that "real"
 ---
 ## Cross-References
 ### Within Enochian
-- [[Enochian System Overview]] — The complete system they revealed
+- [[Enochian Tradition]] — The complete system they revealed
 - [[The Four Watchtowers]] — Received 1584
 - [[The 30 Aethyrs]] — Received 1584-1585
 - [[Enochian Language and the 48 Keys]] — The angelic alphabet and invocations
@@ -429,8 +429,8 @@ Their work endures because it **speaks to something real**—whether that "real"
 - [[Aleister Crowley]] — Scried all 30 Aethyrs in 1909
 
 ### Jungian and Archetypal
-- [[The Magician]] — Dee as Logos, mastery of knowledge
-- [[The Fool]] — Kelley as Trickster, chaos and revelation
+- [[The Magician (I)|The Magician]] — Dee as Logos, mastery of knowledge
+- [[The Fool (0)]] — Kelley as Trickster, chaos and revelation
 - [[The Wise Old Man]] — Dee's archetype
 - [[The Shadow]] — Kelley's role as shadow-bearer
 
