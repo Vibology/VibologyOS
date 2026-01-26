@@ -384,7 +384,7 @@ However, the Thrones transcend the Freudian Superego. Where the Superego is ofte
 
 ### Shadow Integration and the Thrones
 
-The **[[Shadow]]** in Jungian psychology is the unconscious material that has been rejected or repressed. To integrate the Shadow requires **Throne consciousness**—the unwavering willingness to **face judgment** without flinching, to confront what has been hidden, to accept the consequences of one's actions.
+The **[[The Shadow|Shadow]]** in Jungian psychology is the unconscious material that has been rejected or repressed. To integrate the Shadow requires **Throne consciousness**—the unwavering willingness to **face judgment** without flinching, to confront what has been hidden, to accept the consequences of one's actions.
 
 The Thrones do not punish—they **reflect**. They are the mirror that shows you what you have sown, so you may reap it consciously.
 
@@ -591,8 +591,8 @@ To integrate the Thrones is to become the **sacred container**—the womb, the t
 ### Jungian Psychology
 - [[Folklore/Jungian Archetypes/The Great Mother]] — Archetypal womb, container, form-giver
 - [[The Superego]] — Internalized law and authority (Throne function in psyche)
-- [[Shadow]] — Unconscious material requiring Throne-consciousness accountability to integrate
-- [[Individuation]] — The process of giving form to the Self, requiring Throne stability
+- [[The Shadow|Shadow]] — Unconscious material requiring Throne-consciousness accountability to integrate
+- [[Individuation Process|Individuation]] — The process of giving form to the Self, requiring Throne stability
 
 ### Mythological Parallels
 - [[Themis]] (Greek) — Divine law and justice personified

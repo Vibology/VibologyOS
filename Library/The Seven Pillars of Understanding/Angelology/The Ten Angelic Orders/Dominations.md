@@ -411,7 +411,7 @@ The Dominations represent the **Self's sovereignty**—the inner king/queen who 
 
 ### Shadow Integration and the Dominations
 
-The **[[Shadow]]** of the Dominations is the **tyrant**—the sovereign who has become inflated, who exercises authority for his own aggrandizement rather than for the common good.
+The **[[The Shadow|Shadow]]** of the Dominations is the **tyrant**—the sovereign who has become inflated, who exercises authority for his own aggrandizement rather than for the common good.
 
 To integrate the Domination shadow requires:
 - **Recognizing when one's authority is self-serving rather than service-oriented**
@@ -624,8 +624,8 @@ To integrate the Dominations is to become the **inner king/queen**—the soverei
 - [[The Sovereign]] — Archetypal king/queen, the ordering principle of the psyche
 - [[The Wise Father]] — The benevolent, expansive father (Chesed archetype)
 - [[Folklore/Jungian Archetypes/The Self]] — The center around which the psyche orbits (like the G-Center, like Domination sovereignty)
-- [[Shadow]] — The tyrannical sovereign, the inflated ego (Domination shadow)
-- [[Individuation]] — The process of becoming sovereign over one's own life
+- [[The Shadow|Shadow]] — The tyrannical sovereign, the inflated ego (Domination shadow)
+- [[Individuation Process|Individuation]] — The process of becoming sovereign over one's own life
 
 ### Mythological Parallels
 - [[Zeus]] (Greek) — King of the Olympians, sovereign of gods and mortals

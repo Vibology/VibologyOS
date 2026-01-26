@@ -482,7 +482,7 @@ The individual becomes a **channel** through which divine will flows into the wo
 - **Tarot:** [[The Lovers (VI)|The Lovers]] | [[Temperance (XIV)|Temperance]] | [[Judgement (XX)|Judgment]]
 - **Astrology:** [[Astrology/Planets/Mercury # ☿]] | [[Gemini ♊]] | [[Virgo ♍]]
 - **Human Design:** [[Sacral Center]] | [[Gate 05 - Waiting|Gate 5]] | [[Gate 14 - Possession in Great Measure|Gate 14]] | [[Gate 29 - The Abysmal|Gate 29]] | [[Generator]] | [[Manifesting Generator]]
-- **Jungian Psychology:** [[Vocation]] | [[Individuation]] | [[Folklore/Jungian Archetypes/The Self]] | [[The Voice]] | [[Numinous Encounter]]
+- **Jungian Psychology:** [[Vocation]] | [[Individuation Process|Individuation]] | [[Folklore/Jungian Archetypes/The Self]] | [[The Voice]] | [[Numinous Encounter]]
 
 ---
 

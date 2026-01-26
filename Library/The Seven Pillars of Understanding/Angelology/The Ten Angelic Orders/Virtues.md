@@ -725,7 +725,7 @@ The Virtues teach the middle way:
 ### Within Angelology
 - [[Angelology]]
 - [[The Three Triads]] (The Virtues are the middle order of the Second Triad)
-- [[Dominions]] (Order 4, above the Virtues in the Second Triad)
+- [[Dominations]] (Order 4, above the Virtues in the Second Triad)
 - [[Powers]] (Order 5, below the Virtues in the Second Triad)
 - [[Seraphim]] (Order 1, the highest contemplatives)
 - [[Cherubim]] (Order 2, the throne-bearers)
@@ -763,10 +763,10 @@ The Virtues teach the middle way:
 ### Astrology
 - [[Sun ☉]] (☉) — vitality, identity, the Higher Self, the source of light
 - [[Leo ♌]] — courage, generosity, solar heart, the royal sign
-- [[Sixth House]] — health, service, daily work, the integration of spirit into matter
+- [[6th House]] — health, service, daily work, the integration of spirit into matter
 
 ### Human Design
-- [[Solar Plexus Center]] (Emotional Awareness, the wave, spirit)
+- [[Solar Plexus]] (Emotional Awareness, the wave, spirit)
 - [[Gate 06 - Conflict|Gate 6]] (Friction / Conflict) — emotional intimacy
 - [[Gate 22 - Grace|Gate 22]] (Grace / Openness) — aesthetic sensitivity, emotional surrender
 - [[Gate 36 - Darkening of the Light|Gate 36]] (Crisis / Darkening of the Light) — emotional depth
@@ -777,9 +777,9 @@ The Virtues teach the middle way:
 
 ### Jungian Psychology
 - [[Transcendent Function]] (the reconciliation of opposites)
-- [[Coniunctio]] (the alchemical marriage, the union of polarities)
+- [[Conjunction|Coniunctio]] (the alchemical marriage, the union of polarities)
 - [[Folklore/Jungian Archetypes/The Self]] (the totality of the psyche, manifesting through the heart)
-- [[Individuation]] (the journey to wholeness)
+- [[Individuation Process|Individuation]] (the journey to wholeness)
 - [[Integration]] (making the unconscious conscious)
 
 ### Cross-Tradition
@@ -793,7 +793,7 @@ The Virtues teach the middle way:
 ### Practical Mysticism
 - [[Prayer for Healing]]
 - [[Invocation of Raphael]]
-- [[Qabalistic Pathworking]]
+- [[Pathworking|Qabalistic Pathworking]]
 - [[Heart Chakra Meditation]] (Anahata)
 - [[Contemplative Prayer]]
 - [[Discernment of Spirits]]

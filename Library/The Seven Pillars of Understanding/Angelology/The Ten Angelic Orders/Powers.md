@@ -420,7 +420,7 @@ This is Power consciousness. The integrated animus wields the Powers' sword—cu
 
 ### Shadow Integration and the Powers
 
-The **[[Shadow]]** in Jungian psychology includes not only repressed darkness but also **repressed strength**. Many individuals (particularly those conditioned to be "nice," "agreeable," or "accommodating") have **disowned their Power function**, relegating their capacity for anger, assertion, and discrimination to the unconscious.
+The **[[The Shadow|Shadow]]** in Jungian psychology includes not only repressed darkness but also **repressed strength**. Many individuals (particularly those conditioned to be "nice," "agreeable," or "accommodating") have **disowned their Power function**, relegating their capacity for anger, assertion, and discrimination to the unconscious.
 
 To integrate the Shadow requires **reclaiming the Powers**—learning to say "No," to establish boundaries, to combat dysfunction without apology. This is not about becoming cruel or aggressive; it is about **honoring one's own limits and protecting what is sacred**.
 
@@ -609,7 +609,7 @@ To integrate the Powers is to become the **sacred warrior**—the one who defend
 - [[Chesed]] — Fourth Sephira, Mercy, the Dominations' domain (balances Geburah)
 - [[Tiphareth]] — Sixth Sephira, Beauty, the Virtues' domain (synthesizes Chesed and Geburah)
 - [[Binah]] — Third Sephira, Understanding, the Thrones' domain (transmits law to Geburah)
-- [[The Pillar of Severity]] — Binah-Geburah-Hod, the left pillar of the Tree
+- [[Pillar of Severity|The Pillar of Severity]] — Binah-Geburah-Hod, the left pillar of the Tree
 - [[Qlippoth]] — The shadow side of the Sephiroth; Asmodeus as fallen Power
 
 ### Astrological Correspondences
@@ -640,8 +640,8 @@ To integrate the Powers is to become the **sacred warrior**—the one who defend
 - [[The Sword Archetype]] — The capacity to cut, sever, discriminate
 - [[The Warrior Archetype]] — The defender of boundaries and sacred order
 - [[Folklore/Jungian Archetypes/The Animus]] — Masculine aspect of the psyche, often appearing as sword-bearer
-- [[Shadow]] — Repressed strength and anger requiring integration
-- [[Individuation]] — The process requiring discrimination (cutting away what is not-Self)
+- [[The Shadow|Shadow]] — Repressed strength and anger requiring integration
+- [[Individuation Process|Individuation]] — The process requiring discrimination (cutting away what is not-Self)
 
 ### Mythological Parallels
 - [[Athena]] (Greek) — Strategic warfare, strength in service of justice

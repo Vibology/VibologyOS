@@ -66,6 +66,8 @@ def build_file_map():
         "Ain Soph": "The Tarot/Qabalah/Ain Soph Aur.md",  # Related concept
         "Pillar of Mercy": "The Tarot/Qabalah/Pillar of Mercy.md",
         "The Pillar of Mercy": "The Tarot/Qabalah/Pillar of Mercy.md",
+        "Pillar of Severity": "The Tarot/Qabalah/Pillar of Severity.md",
+        "The Pillar of Severity": "The Tarot/Qabalah/Pillar of Severity.md",
         "Middle Pillar": "The Tarot/Qabalah/Middle Pillar.md",
 
         # Angelology
@@ -73,6 +75,13 @@ def build_file_map():
         "The Three Triads": "Angelology/The Three Triads.md",
         "The Ten Angelic Orders": "Angelology/The Ten Angelic Orders/The Ten Angelic Orders.md",
         "The Archangels": "Angelology/The Archangels/The Archangels.md",
+
+        # Personal Mythos - Aliases for existing files
+        "Individuation": "Personal Mythos/Individuation Process/Individuation Process.md",
+        "Coniunctio": "Personal Mythos/Alchemical Stages/Conjunction.md",
+        "Archetypes": "Personal Mythos/Jungian Archetypes/Jungian Archetypes.md",
+        "Qabalistic Pathworking": "The Tarot/Pathworking.md",
+        "Shadow": "Personal Mythos/Jungian Archetypes/The Shadow.md",
 
         # Pillars
         "Astrology": "Astrology/Astrology.md",

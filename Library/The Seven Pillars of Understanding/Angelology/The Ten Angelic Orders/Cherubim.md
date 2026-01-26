@@ -879,12 +879,12 @@ For those who consciously align with Cherubic intelligence, a vow may be taken (
 - [[Strategy and Authority]] (The Ajna perceives but does not decide)
 
 ### Jungian Psychology
-- [[Archetypes]]
+- [[Jungian Archetypes|Archetypes]]
 - [[The Wise Old Man]]
 - [[Folklore/Jungian Archetypes/The Self]] (Organizing intelligence, totality)
 - [[Psychoid Archetype]] (Threshold between psyche and matter)
-- [[Individuation]] (Integration of unconscious contents)
-- [[Shadow]] (The inflated intellect, Leviathan)
+- [[Individuation Process|Individuation]] (Integration of unconscious contents)
+- [[The Shadow|Shadow]] (The inflated intellect, Leviathan)
 - [[Imago Dei]] (The God-image within the psyche)
 
 ### Biblical and Scriptural

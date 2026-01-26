@@ -745,7 +745,7 @@ Listen.
 - [[Folklore/Jungian Archetypes/The Self]] (the God-image, the transpersonal center)
 - [[Psychoid Archetype]] (structures at the boundary of psyche and matter)
 - [[Intuition]] (the subtle knowing, the guardian angel's voice)
-- [[Shadow]] (the rejected, the repressed—the Angels illuminate it)
+- [[The Shadow|Shadow]] (the rejected, the repressed—the Angels illuminate it)
 
 ### Cross-Tradition
 - [[Daimon]] (Greek guardian spirit)

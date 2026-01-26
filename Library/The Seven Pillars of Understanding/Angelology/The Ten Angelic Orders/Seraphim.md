@@ -694,7 +694,7 @@ This is the Seraphim's gift: the **dissolution of the illusion of separation**.
 - [[Numinous Experience]] (mysterium tremendum et fascinans)
 - [[Psychoid Archetype]] (structures at the boundary of psyche and matter)
 - [[Inflation]] (the ego identifying as the archetype)
-- [[Individuation]] (the integration of the Self, Seraphic realization)
+- [[Individuation Process|Individuation]] (the integration of the Self, Seraphic realization)
 
 ### Cross-Tradition
 - [[Agni]] (Hindu fire-god, transformer of offerings)
@@ -710,7 +710,7 @@ This is the Seraphim's gift: the **dissolution of the illusion of separation**.
 - [[Ego-Death]] (the dissolution of the separate self)
 - [[Dark Night of the Soul]] (the purifying fire)
 - [[Contemplative Prayer]]
-- [[Qabalistic Pathworking]]
+- [[Pathworking|Qabalistic Pathworking]]
 
 ---
 
