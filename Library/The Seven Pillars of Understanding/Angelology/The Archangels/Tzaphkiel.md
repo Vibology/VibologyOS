@@ -63,7 +63,7 @@ To encounter Tzaphkiel is to meet the **cosmic pressure of form-giving**—the s
 | **Tarot (Major)** | [[The Empress]] (III) - Divine Mother, form-giver |
 | **Tarot (Minor)** | All Threes (Binah's number), all Queens (Mother aspect) |
 | **I-Ching** | Hexagram 2 (K'un/The Receptive) - Pure yin, Earth |
-| **Human Design** | [[Throat Center]] (manifestation, form-giving) |
+| **Human Design** | [[Throat]] Center (manifestation, form-giving) |
 | **Astrological** | [[Saturn ♄]] (planet), [[Capricorn ♑]] (cardinal earth) |
 | **Metal** | Lead (Saturn's metal - dense, enduring, grounding) |
 | **Gemstone** | Onyx, obsidian, jet (black stones of containment) |

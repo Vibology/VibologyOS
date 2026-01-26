@@ -32,7 +32,7 @@ Raziel is not a comforting presence. He does not protect in the manner of [[Mich
 | **Name** | Raziel (רזיאל) |
 | **Meaning** | "Secret of God," "Mystery of God," "Herald of Deity" |
 | **Sephirah Overseen** | [[Chokmah]] (Wisdom, 2nd emanation) |
-| **Angelic Order** | Auphanim (Wheels/Whirling Forces) or Erelim (Valiant Ones) |
+| **Angelic Order** | [[Auphanim]] (Wheels/Whirling Forces) or Erelim (Valiant Ones) |
 | **Cosmic Sphere** | Masloth (The Sphere of the Zodiac/Starry Heaven) |
 | **Element** | Fire (primary), Air (secondary) |
 | **Color** | Grey (illuminated, cloud-like) |

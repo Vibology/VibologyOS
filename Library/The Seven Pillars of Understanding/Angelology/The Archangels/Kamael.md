@@ -33,7 +33,7 @@ Kamael is not a comforting presence. He does not soothe, heal, or console. Kamae
 | **Name** | Kamael (כמאל) |
 | **Meaning** | "He Who Sees God," "Severity of God," "God's Champion" |
 | **Sephirah Overseen** | [[Geburah]] (Severity, Strength, 5th emanation) |
-| **Angelic Order** | Seraphim (Burning Ones) or Powers (Elohim Gibor) |
+| **Angelic Order** | [[Seraphim]] (Burning Ones) or [[Powers]] (Elohim Gibor) |
 | **Divine Name** | Elohim Gibor (אלהים גבור) — "God of Battles," "Mighty God" |
 | **Planetary** | Mars (♂) — The Red Planet, god of war, strength, courage |
 | **Element** | Fire (consuming, purifying, destructive) |

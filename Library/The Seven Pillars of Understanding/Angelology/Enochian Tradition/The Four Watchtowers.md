@@ -507,7 +507,6 @@ The Watchtowers are not abstract philosophy—they are a **functional tool** for
 - [[Human Design]] — Center-element parallels
 
 ---
-
 ## Sources
 ### Primary Sources
 

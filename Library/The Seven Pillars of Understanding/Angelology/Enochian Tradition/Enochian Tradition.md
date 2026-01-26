@@ -402,7 +402,6 @@ The system demands **humility, discipline, and relentless self-honesty**. It is 
 - [[The Hero's Journey]] — Monomythic structure in the 30 Aethyrs
 
 ---
-
 ## Sources
 ### Primary Sources
 

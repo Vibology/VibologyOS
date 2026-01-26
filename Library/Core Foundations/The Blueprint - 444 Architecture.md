@@ -579,7 +579,6 @@ By the end of the contemplation period, the pattern is **embodied**—you don't 
 ---
 ## Sources
 
-
 Huang, Alfred. *The Complete I Ching: The Definitive Translation*. Rochester, VT: Inner Traditions, 2010.
 - I-Ching structure, hexagram translations, Wilhelm comparisons
 

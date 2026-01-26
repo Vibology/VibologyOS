@@ -103,7 +103,7 @@ Gabriel does not appear in moments of comfort or confirmation. Gabriel appears w
 | **Name**                  | Gabriel (גבריאל, *Gavri'el*)                                                                          |
 | **Meaning**               | "God is my Strength," "Strength of God," "Hero of God"                                                |
 | **Sephirah Overseen**     | [[Yesod]] (Foundation, 9th emanation)                                                                 |
-| **Angelic Order**         | [[The Archangels]] (8th order, messengers to humanity)                                                    |
+| **Angelic Order**         | [[Archangels]] (8th order, messengers to humanity)                                                |
 | **Choir of Yesod**        | [[Kerubim]] / [[Ashim]] ("Angels," "Flames")                                                          |
 | **Cosmic Sphere**         | The Moon (☽) — Dreams, visions, cycles, the unconscious, astral light                                 |
 | **Element**               | Water (primary—flow, emotion, intuition, the unconscious)                                             |
@@ -682,13 +682,11 @@ In **[[The Window]]** system, Gabriel corresponds to patterns involving **intuit
 In **[[Jungian psychology]]**, Gabriel is the **archetypal messenger**—the bridge between ego and Self, the voice of the collective unconscious, the dream-bringer, the one who says, *"The soul has something to tell you. Listen."*
 
 ---
-
 ## A Prayer to Gabriel
 
 *Gabriel, Angel of the Annunciation, Messenger of the Most High, Guardian of the Threshold, I call upon thee. Teach me to listen when the Divine speaks. Open my inner eye that I may see the visions sent in the night. Unstop my ears that I may hear the still, small voice. Soften my heart that I may receive the word, even when it shatters all I have known. Grant me the courage to say "yes" to the sacred annunciation, to bear the message, to cross the threshold from the old life into the new. By the authority of Shaddai El Chai, the Almighty Living God, by the light of the Moon, by the waters of the deep, by the lily that blooms in darkness, let thy presence be known. May I stand at the threshold between waking and sleeping, conscious and unconscious, the known and the unknown, and trust that the threshold itself is holy ground. Ave Gabriel. Amen.*
 
 ---
-
 ## Cross-References
 - [[Yesod]] — Gabriel's Sephirah, the sphere of Foundation and the Astral Light
 - [[The Archangels]] — The eighth angelic order, messengers to humanity
@@ -727,6 +725,7 @@ In **[[Jungian psychology]]**, Gabriel is the **archetypal messenger**—the bri
 - [[Annunciation]] — The moment of sacred pronouncement that changes reality
 - [[Psychopomp]] — Guide of souls between worlds
 
+---
 ## Sources
 ### Primary Sources
 

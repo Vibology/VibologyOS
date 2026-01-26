@@ -62,7 +62,7 @@ To encounter Tzadkiel is to meet **the overwhelming generosity of the cosmos**�
 | **Tarot (Major)** | [[The Emperor]] (IV) - sovereign authority, structured benevolence |
 | **Tarot (Minor)** | All Fours (Chesed's number - stability, foundation, structure of mercy) |
 | **I-Ching** | Hexagram 14 (Ta Yu/Possession in Great Measure) - abundance, sovereignty |
-| **Human Design** | [[Heart Center]] (will, sovereignty, self-worth, material mastery) |
+| **Human Design** | [[Heart]] Center (will, sovereignty, self-worth, material mastery) |
 | **Astrological** | [[Jupiter ♃]] (planet), [[Sagittarius ♐]] (mutable fire, expansion, wisdom) |
 | **Metal** | Tin (Jupiter's metal - abundant, malleable, non-toxic) |
 | **Gemstone** | Amethyst, sapphire, lapis lazuli (Jupiter stones of wisdom and sovereignty) |

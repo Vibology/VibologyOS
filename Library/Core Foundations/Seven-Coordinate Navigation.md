@@ -459,7 +459,6 @@ Until then: navigate with all seven.
 ---
 ## Sources
 
-
 **The Seven Pillars Framework:** Vibology Synthesis (original integration)
 
 **Pillar Source Texts (Confirmed in Grimoire):**

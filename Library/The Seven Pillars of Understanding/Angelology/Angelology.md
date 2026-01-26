@@ -318,7 +318,6 @@ The goal is not to *become* an angel but to **participate in angelic consciousne
 *"The angelic hierarchies are not distant forces. They are the very breath of God, descending through infinite gradations until they touch the human soul. To know them is to know the architecture of your own becoming."*
 
 ---
-
 ## Sources
 
 Agrippa, Heinrich Cornelius. *The Occult Philosophy* (Three Books of Occult Philosophy). 1531.

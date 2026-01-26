@@ -110,7 +110,7 @@ They are **co-brothers** because they are **two sides of the same function**: th
 | **Name** | Sandalphon (סנדלפון) |
 | **Hebrew** | Sandalfon (no *-el* suffix; Greek origin: *sym-adelphos* = "co-brother") |
 | **Meaning** | Co-Brother, Prince of Prayer, The Tall Angel |
-| **Sephirah Overseen** | **[[Malkuth]]** (Kingdom, Earth, the tenth Sephira, the physical plane) |
+| **Sephirah Overseen** | [[Malkuth]] (Kingdom, Earth, the tenth Sephira, the physical plane) |
 | **Planetary** | Earth (☍) — the sphere of manifestation, embodiment, grounding |
 | **Element** | Earth — matter, body, soil, foundation, the manifest world |
 | **Direction** | Below (Nadir), the roots, the foundation beneath the feet |
@@ -121,8 +121,8 @@ They are **co-brothers** because they are **two sides of the same function**: th
 | **Color (Assiah)** | Black rayed with Yellow (the dark soil from which golden grain emerges) |
 | **Tarot** | **[[The World]] (XXI)** — Completion, Malkuth embodied, the Cosmic Dancer; **Princesses (Pages)** — The earthly, grounded aspect of each suit |
 | **Divine Name** | **Adonai ha-Aretz** (אדני הארץ) — "Lord of the Earth" |
-| **Angelic Choir** | **[[Ishim]]** (אישים) — "Souls of Fire," "Just Men," sanctified humanity |
-| **Human Design** | [[Root Center]] (pressure, drive, stress, the motor that pushes manifestation into form) |
+| **Angelic Choir** | [[Ishim]] (אישים) — "Souls of Fire," "Just Men," sanctified humanity |
+| **Human Design** | [[Root]] Center (pressure, drive, stress, the motor that pushes manifestation into form) |
 | **Chakra** | Muladhara (Root Chakra) — survival, grounding, connection to earth, the foundation |
 | **Biblical Role** | Identified with the prophet **Elijah**, taken alive into heaven in a chariot of fire (2 Kings 2:11) |
 | **Function** | **Gathering and weaving prayers** into crowns for the Creator; **grounding spiritual work** into embodied reality; guardian of the threshold between heaven and earth |
@@ -847,7 +847,7 @@ This creates a **six-directional** sacred space—encompassing not just the hori
 | **Qabalah** | [[Malkuth]] (Kingdom, 10th Sephira, Earth, embodiment); Path 32 ([[The World]]); Divine Name: [[Adonai ha-Aretz]]; Angelic Choir: [[Ishim]] |
 | **Tarot** | [[The World]] (XXI) — Completion, Malkuth embodied; [[Princesses (Pages)]] — Earth of each suit; [[Ten of Pentacles]] — Completion of material cycle |
 | **Astrology** | [[Earth]] (☍) — Manifestation, grounding; [[Taurus ♉]] — Fixed Earth, stability, rootedness; [[Capricorn ♑]] — Cardinal Earth, structure, completion; [[Virgo ♍]] — Mutable Earth, service, refinement |
-| **Human Design** | [[Root Center]] — Pressure, drive, stress, the motor that pushes manifestation; [[Gate 58]] (The Joyous) — Vitality, aliveness; [[Gate 38]] (The Fighter) — Struggle for meaning; [[Gate 54]] (The Marrying Maiden) — Ambition through service |
+| **Human Design** | [[Root]] Center — Pressure, drive, stress, the motor that pushes manifestation; [[Gate 58]] (The Joyous) — Vitality, aliveness; [[Gate 38]] (The Fighter) — Struggle for meaning; [[Gate 54]] (The Marrying Maiden) — Ambition through service |
 | **I-Ching** | Hexagram 52 (Keeping Still, Mountain) — Grounding, stillness, meditation rooted in body; Hexagram 2 (The Receptive, Earth) — The yielding, receptive, grounding force |
 | **Jungian Psychology** | [[Incarnation]] — The Self becoming embodied; [[The Body as Temple]] — Honoring the physical; [[Completion of the Work]] — Grounding insight into action |
 | **Alchemy** | **Rubedo** (Reddening) — The final stage, the embodiment of the Philosopher's Stone in tangible reality; **The Multiplication** — The fruit of the Work made real |

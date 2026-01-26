@@ -595,7 +595,6 @@ The language is not to be learned like French or Spanish—it is to be **embodie
 - [[Jungian Archetypes]] — The language as a bridge to the collective unconscious
 
 ---
-
 ## Sources
 ### Primary Sources
 

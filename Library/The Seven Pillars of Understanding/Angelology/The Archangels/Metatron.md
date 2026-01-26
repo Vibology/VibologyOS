@@ -125,10 +125,10 @@ According to Davidson, legend holds that the *Sefer Raziel ha-Malakh* (Book of t
 | **Color (Yetzirah)** | White Brilliance |
 | **Color (Assiah)** | White flecked with gold |
 | **Divine Name** | Eheieh (אהיה) — "I Am" / "I Will Be" |
-| **Angelic Choir** | Chaioth ha-Qadesh (Holy Living Creatures, the Seraphim) |
+| **Angelic Choir** | Chaioth ha-Qadesh (Holy Living Creatures, the [[Seraphim]]) |
 | **Tarot** | The Four Aces (Kether in the Four Worlds), The Fool (0) (the divine spark before manifestation), Judgment (XX) (resurrection, apotheosis) |
 | **Astrological** | The Primum Mobile (precession of the equinoxes, the slowest cosmic motion) |
-| **Human Design** | Head Center (Inspiration/Pressure) — The crown pressure to know, to become, to return to source |
+| **Human Design** | [[Head]] Center (Inspiration/Pressure) — The crown pressure to know, to become, to return to source |
 | **Chakra** | Sahasrara (Crown Chakra) — Union with the Divine, transcendence of individuality |
 | **Jungian** | The Self in its highest aspect, the imago Dei, the God-image within the psyche |
 | **Direction** | Above (Zenith) — Beyond the four directions, the vertical axis toward transcendence |

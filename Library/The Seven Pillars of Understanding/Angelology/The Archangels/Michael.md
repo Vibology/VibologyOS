@@ -93,7 +93,7 @@ In Hebrew rhetoric, a rhetorical question is not passive—it is **active, confr
 | **Tarot (Major)** | [[Temperance]] (XIV - Art, alchemy, solar integration), [[Judgement]] (XX - resurrection, the weighing) |
 | **Tarot (Minor)** | All Sixes (Tiphareth's number - harmony, integration, the centered heart), especially [[Six of Wands]] (victory, the solar hero crowned) |
 | **I-Ching** | Hexagram 1 (Ch'ien/The Creative) - pure yang, solar force, heaven's will |
-| **Human Design** | [[G-Center]] (Identity, Love, Direction - the Self's seat) |
+| **Human Design** | [[G Center]] (Identity, Love, Direction - the Self's seat) |
 | **Astrological** | [[Sun ☉]] (luminary, vital center, core identity, will to individuate) |
 | **Metal** | Gold (incorruptible, solar, the king of metals) |
 | **Gemstone** | Topaz, amber, citrine, tiger's eye (solar stones of clarity and courage) |
@@ -769,7 +769,7 @@ Together, they form the **protective quaternary**, the four corners of the cosmo
 | **Incense**         | Frankincense, copal, benzoin                                                   |
 | **Color (4 Worlds)**| Clear pink rose, gold-yellow, rich salmon, gold-amber                          |
 | **Number**          | 6 (Tiphareth), 666 (solar magic square)                                        |
-| **Human Design**    | [[G-Center]] (Identity, Love, Direction)                                       |
+| **Human Design**    | [[G Center]] (Identity, Love, Direction)                                       |
 | **I-Ching**         | Hexagram 1 (Ch'ien/The Creative - pure yang, heaven)                           |
 | **Jungian**         | The Self, The Hero, Solar consciousness, Integration of opposites              |
 | **Chakra**          | Anahata (Heart chakra - love, balance, integration)                            |
@@ -834,7 +834,7 @@ Together, they form the **protective quaternary**, the four corners of the cosmo
 - [[Fifth House]] — House of the Sun, creativity, self-expression
 
 ### Human Design Correspondences
-- [[G-Center]] — Identity, Love, Direction—the Self's seat
+- [[G Center]] — Identity, Love, Direction—the Self's seat
 - [[Defined G-Center]] — Consistent solar identity, fixed direction
 - [[Undefined G-Center]] — Fluid identity, sampling others' direction
 

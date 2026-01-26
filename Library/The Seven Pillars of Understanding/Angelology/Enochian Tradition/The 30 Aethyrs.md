@@ -673,7 +673,6 @@ The Aethyrs are not a doctrine to believe but a **journey to undertake**. They d
 - [[Astrology]] — Potential zodiacal correspondences
 
 ---
-
 ## Sources
 ### Primary Sources
 

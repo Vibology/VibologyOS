@@ -427,7 +427,6 @@ The Heptarchia is the **training ground** of Enochian magic. Those who learn to 
 - [[Tree of Life]] — Sephirotic-planetary mapping
 
 ---
-
 ## Sources
 ### Primary Sources
 
