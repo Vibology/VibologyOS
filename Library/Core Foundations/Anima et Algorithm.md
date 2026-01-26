@@ -13,7 +13,7 @@ category: Foundational Paradigm
 ---
 ## Introduction: The Essential Paradox
 
-**Anima et Algorithm** is the foundational paradigm of [[Vibology]]—the recognition that authentic spiritual development requires **both** the systematic organization of knowledge (Algorithm) **and** the embodied validation of experience (Anima). Neither alone is sufficient; together, they create the conditions for **Syn-Gnosis**: synthesized, verified, personal knowing.
+**Anima et Algorithm** is the foundational paradigm of Vibology—the recognition that authentic spiritual development requires **both** the systematic organization of knowledge (Algorithm) **and** the embodied validation of experience (Anima). Neither alone is sufficient; together, they create the conditions for **Syn-Gnosis**: synthesized, verified, personal knowing.
 
 This is not a new idea. It is the perennial tension at the heart of all mystical traditions. Aldous Huxley argues in *The Perennial Philosophy* that "knowledge is a function of being"—one's state of existence limits or expands what one can know (Huxley, *Perennial Philosophy*). He distinguishes between theology (words about facts) and mysticism (immediate apprehension of facts), suggesting the "best way" is to approach the Ultimate from both within (experiential) and without (structural):
 
@@ -38,7 +38,7 @@ The **Algorithm** is the systematic, structural, comparative framework that orga
 - **Queried** for specific insights
 - **Mapped** onto reproducible structures
 
-The Algorithm is the **map**, the blueprint, the architecture. It is the recognition that the spiritual traditions of humanity—[[Tarot]], [[Astrology]], [[Human Design]], [[Angelology]], the [[I-Ching]], Jungian psychology—are not incompatible or contradictory, but **coordinate systems** describing the same underlying terrain of consciousness from different vantage points.
+The Algorithm is the **map**, the blueprint, the architecture. It is the recognition that the spiritual traditions of humanity—[[The Tarot]], [[Astrology]], [[Human Design]], [[Angelology]], the I-Ching, Jungian psychology—are not incompatible or contradictory, but **coordinate systems** describing the same underlying terrain of consciousness from different vantage points.
 
 ### Historical Precedents for the Algorithmic Impulse
 
@@ -126,7 +126,7 @@ In [[Human Design]], this embodied knowing is called **[[Inner Authority and Str
 
 The Anima is also the dimension of **prayer, ritual, contemplation, and devotion**—practices that activate the soul's direct relationship with the Divine:
 
-- **Daily Invocation:** Calling upon the [[Angelology|angelic orders]], the planetary intelligences, or the archetypal powers through ritual speech.
+- **Daily Invocation:** Calling upon the angels, the planetary intelligences, or the archetypal powers through ritual speech.
 
 - **Tarot Contemplation:** Not just reading cards intellectually, but **sitting with the image** until it speaks—pathworking, visionary engagement, allowing the archetype to constellate within.
 
@@ -180,7 +180,7 @@ The result is **knowledge that has been lived**, wisdom that has been **tested a
 
 **Example 2: Working with a Tarot Card**
 
-- **Algorithm:** Studies the Qabalistic correspondences, astrological attributions, numerological patterns of [[The Tower]] (XVI, Mars, Peh, Path 27, Netzach to Hod).
+- **Algorithm:** Studies the Qabalistic correspondences, astrological attributions, numerological patterns of [[The Tower (XVI)]] (XVI, Mars, Peh, Path 27, Netzach to Hod).
 - **Anima:** Pulls The Tower in a reading during a life crisis—job loss, relationship ending, ego collapse. **Feels** the archetype activate in real time.
 - **Syn-Gnosis:** The Tower is no longer an abstract symbol but a **known ally**—you recognize its presence in future transits, dreams, synchronicities. You can invoke it consciously when the false must be shattered.
 
@@ -356,10 +356,10 @@ When the Anima operates without Algorithm:
 - [[Seven-Coordinate Navigation]] - The Seven Pillars as coordinates
 
 ### Cross-System Integration
-- **Human Design:** [[Strategy and Authority]] | [[The BodyGraph]] | [[Centers]] | [[Gates]]
-- **Jungian Psychology:** [[Individuation]] | [[Active Imagination]] | [[Shadow Work]] | [[Archetypes]]
+- **Human Design:** [[Strategy]] and [[Authority]] | [[The BodyGraph]] | [[Centers]] | [[Gates]]
+- **Jungian Psychology:** [[Individuation Process]] | [[Active Imagination]] | [[Confrontation with Shadow]] | [[Jungian Archetypes]]
 - **Tarot:** [[Pathworking]] | [[Divination]] | [[The Fool's Journey]]
-- **Astrology:** [[Transits]] | [[Natal Chart]] | [[Timing]]
+- **Astrology:** [[Transits and Timing|Transits]] | [[Natal Chart]] | [[Transits and Timing|Timing]]
 - **Angelology:** [[Invocation]] | [[The Three Triads]] | [[Archangels]]
 
 ---
