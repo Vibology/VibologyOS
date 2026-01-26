@@ -156,7 +156,7 @@ The Renaissance saw the **integration of angelology with Qabalistic philosophy**
 - **Marsilio Ficino** (1433-1499): Translated the *Corpus Hermeticum* and Platonic texts, creating a Christian Hermeticism where angels functioned as planetary intelligences.
 - **Giovanni Pico della Mirandola** (1463-1494): Synthesized Qabalah with Christian theology in *Oration on the Dignity of Man*, arguing that the **Hebrew divine names** correspond to angelic orders.
 - **Heinrich Cornelius Agrippa** (1486-1535): *Three Books of Occult Philosophy* (1531) systematized angelic magic, providing tables of correspondences linking angels to planets, elements, days of the week, and magical operations.
-- **John Dee and Edward Kelley** (1581-1587): Received the **[[Enochian System Overview|Enochian Tradition]]**, an alternative angelic hierarchy revealed through scrying sessions. The Enochian angels (49 Good Angels of the Heptarchia, the angels of the Four Watchtowers, and the 91 Governors of the 30 Aethyrs) represent a distinct lineage parallel to the Pseudo-Dionysian system.
+- **John Dee and Edward Kelley** (1581-1587): Received the **[[Enochian Tradition]]**, an alternative angelic hierarchy revealed through scrying sessions. The Enochian angels (49 Good Angels of the Heptarchia, the angels of the Four Watchtowers, and the 91 Governors of the 30 Aethyrs) represent a distinct lineage parallel to the Pseudo-Dionysian system.
 
 **The Qabalistic Tree of Life** became the primary framework for mapping the Nine Orders onto the **Ten Sephiroth** (emanations), creating a vertical ladder of consciousness from Kether (Crown/Seraphim) to Malkuth (Kingdom/Ishim).
 
@@ -308,10 +308,10 @@ The goal is not to *become* an angel but to **participate in angelic consciousne
 
 ### Cross-System Integration
 - **Qabalah**: [[Tree of Life]] | [[Sephiroth]] | [[Qlippoth]]
-- **Tarot**: [[Temperance]] (Michael) | [[The High Priestess]] (Gabriel) | [[The Lovers]] (Raphael) | [[Judgement]] (XX)
-- **Astrology**: [[Sun ☉]] (Michael/Raphael) | [[Moon ☽]] (Gabriel) | [[Astrology/Planets/Mercury # ☿]] (Michael/Raphael) | [[Venus ♀]] (Haniel) | [[Mars ♂]] (Kamael) | [[Jupiter ♃]] (Tzadkiel) | [[Saturn ♄]] (Tzaphkiel)
-- **Human Design**: [[Head Center]] | [[Ajna Center]] | [[Throat Center]] | [[G-Center]] | [[Heart Center]] | [[Solar Plexus]] | [[Spleen Center]] | [[Sacral Center]] | [[Root Center]]
-- **Jungian Psychology**: [[Archetypes]] | [[Imago Dei]] | [[Psychoid Archetype]] | [[Shadow]] | [[Individuation]]
+- **Tarot**: [[Temperance (XIV)]] (Michael) | [[The High Priestess (II)]] (Gabriel) | [[The Lovers (VI)]] (Raphael) | [[Judgement (XX)]]
+- **Astrology**: [[Sun ☉]] (Michael/Raphael) | [[Moon ☽]] (Gabriel) | [[Mercury ☿]] (Michael/Raphael) | [[Venus ♀]] (Haniel) | [[Mars ♂]] (Kamael) | [[Jupiter ♃]] (Tzadkiel) | [[Saturn ♄]] (Tzaphkiel)
+- **Human Design**: [[Head]] | [[Ajna]] | [[Throat]] | [[G Center]] | [[Heart]] | [[Solar Plexus]] | [[Spleen]] | [[Sacral]] | [[Root]]
+- **Jungian Psychology**: [[Jungian Archetypes]] | [[Imago Dei]] | [[Psychoid Archetype]] | [[The Shadow]] | [[Individuation Process]]
 
 ---
 
