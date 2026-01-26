@@ -737,9 +737,9 @@ Listen.
 - [[Cancer ♋]] (Moon-ruled sign, the mother, the nurturer, the intimate)
 
 ### Human Design
-- [[Root Center]] (pressure, momentum, drive, stress, adrenaline)
+- [[Root|Root Center]] (pressure, momentum, drive, stress, adrenaline)
 - [[Gate 58 - The Joyous|Gate 58]] | [[Gate 38 - Opposition|Gate 38]] | [[Gate 54 - The Marrying Maiden|Gate 54]] | [[Gate 53 - Development|Gate 53]] | [[Gate 60 - Limitation|Gate 60]] | [[Gate 52 - Keeping Still|Gate 52]] | [[Gate 19 - Approach|Gate 19]] | [[Gate 39 - Obstruction|Gate 39]] | [[Gate 41 - Decrease|Gate 41]] (the nine gates of the Root)
-- [[Sacral Center]] (life force, generative power—linked to Yesod's fertility)
+- [[Sacral|Sacral Center]] (life force, generative power—linked to Yesod's fertility)
 
 ### Jungian Psychology
 - [[Folklore/Jungian Archetypes/The Self]] (the God-image, the transpersonal center)

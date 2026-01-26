@@ -798,7 +798,7 @@ To integrate the Principalities is to become the **conscious participant in coll
 - [[Seventh House]] — Partnerships, relationships, social contracts
 
 ### Human Design System
-- [[Spleen Center]] — Intuitive awareness, survival, immune system, tribal bonds
+- [[Spleen|Spleen Center]] — Intuitive awareness, survival, immune system, tribal bonds
 - [[Gate 18 - Work on What Has Been Spoilt|Gate 18]] — Correction, tribal loyalty, challenging authority
 - [[Gate 28 - Preponderance of the Great|Gate 28]] — The Game Player, knowing what is worth fighting for
 - [[Gate 32 - Duration|Gate 32]] — Continuity, preservation of collective survival

@@ -89,7 +89,7 @@ To cultivate Cherubic consciousness is to develop **wisdom** (*Chokmah*)—not m
 | **Iconography** | Four faces (human, lion, ox, eagle), wheels within wheels, eyes covering all surfaces, wings, fire and gleaming metal |
 | **Pseudo-Dionysius** | Second highest order, "excel in knowledge" and transmit divine wisdom (per Davidson) |
 | **Human Faculty** | Wisdom, conceptualization, pattern recognition, intellectual brilliance |
-| **Human Design Center** | [[Ajna Center]] (mental processing, awareness, conceptualization) |
+| **Human Design Center** | [[Ajna|Ajna Center]] (mental processing, awareness, conceptualization) |
 | **Chakra** | Ajna Chakra (third eye, insight, inner vision) |
 | **Jungian Archetype** | The Wise Old Man, the Sage, the pattern-seeing Self |
 
@@ -872,7 +872,7 @@ For those who consciously align with Cherubic intelligence, a vow may be taken (
 - [[Precession of the Equinoxes]] (The great wheel, ages, cosmic cycles)
 
 ### Human Design
-- [[Ajna Center]] (Mental awareness, conceptualization, pattern recognition)
+- [[Ajna|Ajna Center]] (Mental awareness, conceptualization, pattern recognition)
 - [[Gate 47 - Oppression|Gate 47]] (Realizing) | [[Gate 24 - The Return|Gate 24]] (Rationalizing) | [[Gate 04 - Youthful Folly|Gate 4]] (Formulization)
 - [[Gate 17 - Following|Gate 17]] (Opinions) | [[Gate 43 - Breakthrough|Gate 43]] (Insight) | [[Gate 11 - Peace|Gate 11]] (Ideas) | [[Gate 64 - Before Completion|Gate 64]] (Confusion)
 - [[Defined vs. Undefined Centers]]

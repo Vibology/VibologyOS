@@ -83,6 +83,17 @@ def build_file_map():
         "Qabalistic Pathworking": "The Tarot/Pathworking.md",
         "Shadow": "Personal Mythos/Jungian Archetypes/The Shadow.md",
 
+        # Human Design Centers - Map "[Name] Center" to actual file names
+        "Head Center": "Human Design/Centers/Head.md",
+        "Throat Center": "Human Design/Centers/Throat.md",
+        "G-Center": "Human Design/Centers/G Center.md",
+        "Heart Center": "Human Design/Centers/Heart.md",
+        "Spleen Center": "Human Design/Centers/Spleen.md",
+        "Sacral Center": "Human Design/Centers/Sacral.md",
+        "Root Center": "Human Design/Centers/Root.md",
+        "Ajna Center": "Human Design/Centers/Ajna.md",
+        "Solar Plexus Center": "Human Design/Centers/Solar Plexus.md",
+
         # Pillars
         "Astrology": "Astrology/Astrology.md",
         "Human Design": "Human Design/Human Design.md",
@@ -93,14 +104,15 @@ def build_file_map():
     return file_map
 
 
-def extract_link_text(wikilink_content):
-    """Extract the display text from a wikilink (handles existing aliases)."""
+def extract_link_parts(wikilink_content):
+    """Extract target and display text from a wikilink."""
     if "|" in wikilink_content:
         # Already has alias: [[target|display]]
-        return wikilink_content.split("|")[-1]
+        parts = wikilink_content.split("|", 1)
+        return parts[0].strip(), parts[1].strip()
     else:
-        # No alias: [[display]]
-        return wikilink_content
+        # No alias: [[text]]
+        return wikilink_content.strip(), wikilink_content.strip()
 
 
 def normalize_wikilinks(content, file_map):
@@ -110,22 +122,31 @@ def normalize_wikilinks(content, file_map):
 
     def replace_link(match):
         original_link = match.group(1)
-        link_text = extract_link_text(original_link)
+        link_target, display_text = extract_link_parts(original_link)
 
-        # Check if this link needs normalization
-        if link_text in file_map:
-            actual_file = file_map[link_text]
+        # Check if the link TARGET needs normalization
+        if link_target in file_map:
+            actual_file = file_map[link_target]
             actual_filename = Path(actual_file).stem
 
-            # If the link text matches the actual filename, no alias needed
-            if link_text == actual_filename:
-                return f"[[{actual_filename}]]"
+            # If the target already matches the actual filename, check display
+            if link_target == actual_filename:
+                # Already correct target, keep as is
+                return match.group(0)
             else:
-                # Use alias syntax: [[actual-file|display-text]]
-                changes.append(f"  [[{link_text}]] → [[{actual_filename}|{link_text}]]")
-                return f"[[{actual_filename}|{link_text}]]"
+                # Target needs to be updated
+                # If there was no original alias, use link_target as display
+                if link_target == display_text:
+                    # Simple link like [[Gate 6]] → [[Gate 06 - Conflict|Gate 6]]
+                    changes.append(f"  [[{link_target}]] → [[{actual_filename}|{link_target}]]")
+                    return f"[[{actual_filename}|{link_target}]]"
+                else:
+                    # Already had alias like [[Heart Center|Heart (Ego) Center]]
+                    # Update target, keep display: [[Heart|Heart (Ego) Center]]
+                    changes.append(f"  [[{link_target}|{display_text}]] → [[{actual_filename}|{display_text}]]")
+                    return f"[[{actual_filename}|{display_text}]]"
         else:
-            # Link not found in map - leave unchanged but log it
+            # Link not found in map - leave unchanged
             return match.group(0)
 
     new_content = wikilink_pattern.sub(replace_link, content)

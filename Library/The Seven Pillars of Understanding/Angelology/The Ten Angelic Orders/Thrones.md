@@ -46,7 +46,7 @@ To encounter Throne consciousness is to meet the **unyielding stability of divin
 | **Divine Function**    | Form-giving, justice, steadfastness, upholding law   |
 | **Iconography**        | Many-eyed thrones, wheels of fire, seats of God      |
 | **Human Faculty**      | Manifestation, capacity for form-giving, justice     |
-| **HD Center**          | [[Throat Center]] (Manifestation/Metamorphosis)      |
+| **HD Center**          | [[Throat|Throat Center]] (Manifestation/Metamorphosis)      |
 | **Element**            | Earth/Water (Form and Matrix)                        |
 | **Divine Names**       | YHVH Elohim (Jehovah Elohim)                         |
 | **Archangel**          | Tzaphkiel (Contemplation of God)                     |
@@ -245,7 +245,7 @@ This is why the Thrones are associated with **Saturn**—the great taskmaster, t
 ---
 ## Human Consciousness Parallel: The Throat Center
 
-In **[[Human Design]]**, the Thrones correspond to the **[[Throat Center]]**—the center of manifestation, communication, and metamorphosis.
+In **[[Human Design]]**, the Thrones correspond to the **[[Throat|Throat Center]]**—the center of manifestation, communication, and metamorphosis.
 
 ### The Throat as Manifestation Gate
 
@@ -574,7 +574,7 @@ To integrate the Thrones is to become the **sacred container**—the womb, the t
 - [[Aquarius ♒]] — Saturn's traditional co-rulership, embodying cosmic law
 
 ### Human Design System
-- [[Throat Center]] — Manifestation center, the human microcosm of Throne function
+- [[Throat|Throat Center]] — Manifestation center, the human microcosm of Throne function
 - [[Manifestor]] — Type with motor-to-Throat connection, embodying Throne manifestation power
 - [[Generator]] — Type with Sacral-to-Throat connection, sustainable manifestation
 - [[Authority]] — The internal decision-making mechanism that governs correct manifestation

@@ -682,7 +682,7 @@ This is the Seraphim's gift: the **dissolution of the illusion of separation**.
 - [[Fixed Stars]] (the eternal, unchanging cosmic order)
 
 ### Human Design
-- [[Head Center]] (inspiration, pressure to know, existential questioning)
+- [[Head|Head Center]] (inspiration, pressure to know, existential questioning)
 - [[Gate 64 - Before Completion|Gate 64]] (Confusion / Before Completion — the pressure to make sense)
 - [[Gate 61 - Inner Truth|Gate 61]] (Inner Truth / Mystery — the pressure to know the unknowable)
 - [[Defined Head Center]] (constant mental pressure, Seraphic longing)

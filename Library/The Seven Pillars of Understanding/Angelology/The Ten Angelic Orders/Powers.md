@@ -46,7 +46,7 @@ To encounter Power consciousness is to meet the **unyielding strength of cosmic 
 | **Divine Function**    | Combat chaos, enforce cosmic law, discrimination     |
 | **Iconography**        | Armored warriors, flaming swords, defenders          |
 | **Human Faculty**      | Courage, discrimination, strength, capacity to say no|
-| **HD Center**          | [[Heart Center|Heart (Ego) Center]] (Willpower)      |
+| **HD Center**          | [[Heart|Heart (Ego) Center]] (Willpower)      |
 | **Element**            | Fire (martial, purifying)                            |
 | **Divine Names**       | Elohim Gibor (God of Battles)                        |
 | **Archangel**          | Kamael (He Who Sees God / Severity of God)           |
@@ -251,7 +251,7 @@ This is the mystery of Mars, of Geburah, of the Fifth Sephira: **Severity is mer
 ---
 ## Human Consciousness Parallel: The Heart (Ego) Center
 
-In **[[Human Design]]**, the Powers correspond to the **[[Heart Center|Heart (Ego) Center]]**—the center of willpower, promises, material resources, and the capacity to say "No."
+In **[[Human Design]]**, the Powers correspond to the **[[Heart|Heart (Ego) Center]]**—the center of willpower, promises, material resources, and the capacity to say "No."
 
 ### The Heart Center as Willpower
 
@@ -619,7 +619,7 @@ To integrate the Powers is to become the **sacred warrior**—the one who defend
 - [[Mars transits]] — Periods of increased energy, conflict, and boundary work
 
 ### Human Design System
-- [[Heart Center|Heart (Ego) Center]] — Willpower center, the human microcosm of Power function
+- [[Heart|Heart (Ego) Center]] — Willpower center, the human microcosm of Power function
 - [[Manifestor]] — Type with motor-to-Throat connection, embodying initiation and impact
 - [[Authority]] — The internal decision-making mechanism that governs correct use of strength
 - [[Defined vs. Undefined Heart]] — The differentiation in access to willpower and commitment

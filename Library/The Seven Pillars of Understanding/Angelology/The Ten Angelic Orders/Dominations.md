@@ -48,7 +48,7 @@ To encounter Domination consciousness is to experience **benevolent authority**�
 | **Divine Function**    | Regulation of angelic duties, sovereignty, expansion |
 | **Iconography**        | Scepter and orb, crowned figures, radiant glory      |
 | **Human Faculty**      | Sovereignty over one's own life, self-governance     |
-| **HD Center**          | [[G-Center]] (Identity, Love, Direction)             |
+| **HD Center**          | [[G Center|G-Center]] (Identity, Love, Direction)             |
 | **Element**            | Fire/Water (Passionate expansion, flowing grace)     |
 | **Divine Names**       | El (God)                                             |
 | **Archangel**          | Tzadkiel (Righteousness of God)                      |
@@ -245,7 +245,7 @@ This is the Domination gift: the recognition that **you are sovereign over your 
 ---
 ## Human Consciousness Parallel: The G-Center
 
-In **[[Human Design]]**, the Dominations correspond to the **[[G-Center]]**—the center of identity, love, and direction.
+In **[[Human Design]]**, the Dominations correspond to the **[[G Center|G-Center]]**—the center of identity, love, and direction.
 
 ### The G-Center as the Seat of Identity
 
@@ -603,7 +603,7 @@ To integrate the Dominations is to become the **inner king/queen**—the soverei
 - [[Saturn ♄]] — Balances Jupiter; where Jupiter expands, Saturn contracts (Thrones/Dominations tension)
 
 ### Human Design System
-- [[G-Center]] — Identity, Love, Direction center (the human microcosm of Domination function)
+- [[G Center|G-Center]] — Identity, Love, Direction center (the human microcosm of Domination function)
 - [[Gate 01 - The Creative|Gate 1]] — The Creative, self-expression as sovereignty
 - [[Gate 07 - The Army|Gate 7]] — The Role of the Self, leadership through identity
 - [[Gate 10 - Treading|Gate 10]] — Behavior of the Self, self-love as foundation
