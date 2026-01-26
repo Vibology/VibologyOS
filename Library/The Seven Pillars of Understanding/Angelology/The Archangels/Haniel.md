@@ -26,7 +26,7 @@ verification_notes: All quotes verified against Agrippa, Davidson, Jung, Peterso
 ---
 ## Essence
 
-**Archangel Haniel** (Hebrew: חניאל, *Chani'el* — "Grace of God" or "Glory of God") is the **Prince of Love and Harmony**, the **Ruler of the Vegetable Kingdom**, and the **Angel of Venus**. In the Qabalistic tradition, Haniel governs **[[Netzach]]** (Victory, Eternity—the seventh [[Sephirah]]), the sphere of **nature, desire, beauty, and the life force that endures**. Where [[Raphael]] at [[Tiphareth]] mediates the solar heart of the Higher Self, Haniel at Netzach mediates the **magnetic pull of love, the verdant beauty of nature, and the grace that makes existence desirable**.
+**Archangel Haniel** (Hebrew: חניאל, *Chani'el* — "Grace of God" or "Glory of God") is the **Prince of Love and Harmony**, the **Ruler of the Vegetable Kingdom**, and the **Angel of Venus**. In the Qabalistic tradition, Haniel governs **[[Netzach]]** (Victory, Eternity—the seventh [[Sephiroth|Sephirah]]), the sphere of **nature, desire, beauty, and the life force that endures**. Where [[Raphael]] at [[Tiphareth]] mediates the solar heart of the Higher Self, Haniel at Netzach mediates the **magnetic pull of love, the verdant beauty of nature, and the grace that makes existence desirable**.
 
 Haniel is not the intellectual love of the Cherubim, nor the fiery passion of the Seraphim. Haniel's love is **embodied, relational, aesthetic**—the love that recognizes beauty in form, the grace that binds beings together in affection, the fertility of the natural world. Haniel is the intelligence through which the Divine whispers: *"It is good. It is beautiful. It is worthy of devotion."*
 
@@ -407,7 +407,7 @@ Haniel, like Sophia, embodies the **sacred longing**—the yearning of the soul 
 
 ### The Anima: The Soul-Image of Beauty and Relatedness
 
-In **[[Jungian psychology]]**, Haniel corresponds to the **Anima** (in the male psyche) or the **relational, aesthetic, feeling function** (in all psyches)—the inner figure who mediates the capacity for love, beauty, relationship, and emotional depth.
+In **[[Jungian Archetypes|Jungian Psychology]]**, Haniel corresponds to the **Anima** (in the male psyche) or the **relational, aesthetic, feeling function** (in all psyches)—the inner figure who mediates the capacity for love, beauty, relationship, and emotional depth.
 
 Jung describes the Anima as "a feminine aspect of the male psyche," an inner "soul" figure that "interfere[s] with me from within" (Jung, *Memories, Dreams, Reflections*, pp. 186-187). He identifies Eros as "a kosmogonos, a creator and father-mother of all higher consciousness" (Jung, p. 353).
 
@@ -551,7 +551,7 @@ In **[[The Window]]** system, Haniel corresponds to patterns involving **relatio
 
 ### Jungian Psychology: The Anima and Eros
 
-In **[[Jungian psychology]]**, Haniel is the **Anima**—the soul-image of beauty, the bridge to the world of feeling and relationship, the inner voice that says, *"You are worthy of love. The world is worthy of your devotion."*
+In **[[Jungian Archetypes|Jungian Psychology]]**, Haniel is the **Anima**—the soul-image of beauty, the bridge to the world of feeling and relationship, the inner voice that says, *"You are worthy of love. The world is worthy of your devotion."*
 
 ---
 ## Fallen Aspect
@@ -647,7 +647,7 @@ If the "love" leads to **loss of self**, it is not Haniel but the Qlippothic she
 - [[Tree of Life]] — The Qabalistic map of divine emanation
 - [[Spleen|Spleen Center]] — Human Design center of intuition and vitality
 - [[Gene Keys]] — 57th Gene Key (Unease/Intuition/Clarity)
-- [[Jungian psychology]] — Anima archetype, Eros principle
+- [[Jungian Archetypes|Jungian Psychology]] — Anima archetype, Eros principle
 - [[Astrology]] — Venus, Taurus, Libra, 7th House
 - [[Qlippoth]] — Shadow tree, A'arab Zaraq as distortion of Netzach
 - [[Individuation Process|Individuation]] — Jungian process of integrating Logos and Eros

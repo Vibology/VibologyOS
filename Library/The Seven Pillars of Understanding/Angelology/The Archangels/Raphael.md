@@ -1142,7 +1142,7 @@ This is Raphael's initiatic question. Every wound, when met consciously, reveals
 - [[Michael]] (Fellow Archangel of the Four Quarters—South/Fire)
 - [[Gabriel]] (Fellow Archangel of the Four Quarters—West/Water)
 - [[Uriel]] (Fellow Archangel of the Four Quarters—North/Earth)
-- [[The Seven Who Stand Before the Throne]] (Raphael's place among the highest archangelic mediators)
+- [[The Seven Angels Who Stand Before the Throne|The Seven Who Stand Before the Throne]] (Raphael's place among the highest archangelic mediators)
 - [[The Celestial Hierarchy]] (Pseudo-Dionysius's structure—Archangels as the eighth order)
 - [[Angelology and Human Design Integration]] (Raphael corresponds to G-Center and Throat Center)
 
@@ -1155,7 +1155,7 @@ This is Raphael's initiatic question. Every wound, when met consciously, reveals
 - [[YHVH Eloah va-Daath]] (Divine Name of Tiphareth—The Lord God of Knowledge)
 - [[Elohim Tzabaoth]] (Divine Name of Hod—God of Hosts)
 - [[Tree of Life]] (Raphael's position on the central and left pillars)
-- [[The Middle Pillar]] (Tiphareth as the solar heart on the axis of consciousness)
+- [[Middle Pillar|The Middle Pillar]] (Tiphareth as the solar heart on the axis of consciousness)
 - [[Four Worlds]] (Raphael's manifestation across Atziluth/Briah/Yetzirah/Assiah)
 
 **Tarot:**
@@ -1353,7 +1353,7 @@ Steiner also teaches that Archangels are involved in **individual human karma an
 - [[Michael]] (Fellow Archangel of the Four Quarters—South/Fire)
 - [[Gabriel]] (Fellow Archangel of the Four Quarters—West/Water)
 - [[Uriel]] (Fellow Archangel of the Four Quarters—North/Earth)
-- [[The Seven Who Stand Before the Throne]] (Raphael's place among the highest archangelic mediators)
+- [[The Seven Angels Who Stand Before the Throne|The Seven Who Stand Before the Throne]] (Raphael's place among the highest archangelic mediators)
 - [[The Celestial Hierarchy]] (Pseudo-Dionysius's structure—Archangels as the eighth order)
 - [[Angelology and Human Design Integration]] (Raphael corresponds to G-Center and Throat Center)
 
@@ -1366,7 +1366,7 @@ Steiner also teaches that Archangels are involved in **individual human karma an
 - [[YHVH Eloah va-Daath]] (Divine Name of Tiphareth—The Lord God of Knowledge)
 - [[Elohim Tzabaoth]] (Divine Name of Hod—God of Hosts)
 - [[Tree of Life]] (Raphael's position on the central and left pillars)
-- [[The Middle Pillar]] (Tiphareth as the solar heart on the axis of consciousness)
+- [[Middle Pillar|The Middle Pillar]] (Tiphareth as the solar heart on the axis of consciousness)
 - [[Four Worlds]] (Raphael's manifestation across Atziluth/Briah/Yetzirah/Assiah)
 
 **Tarot:**

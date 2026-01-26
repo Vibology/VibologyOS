@@ -601,7 +601,7 @@ In **[[The Window]]** system, Gabriel corresponds to patterns involving **intuit
 
 ### Jungian Psychology: The Collective Unconscious and the Archetypal Messenger
 
-In **[[Jungian psychology]]**, Gabriel is the **archetypal messenger**—the bridge between ego and Self, the voice of the collective unconscious, the dream-bringer, the one who says, *"The soul has something to tell you. Listen."*
+In **[[Jungian Archetypes|Jungian Psychology]]**, Gabriel is the **archetypal messenger**—the bridge between ego and Self, the voice of the collective unconscious, the dream-bringer, the one who says, *"The soul has something to tell you. Listen."*
 
 ---
 ## Fallen Aspect
@@ -714,7 +714,7 @@ If the "message" leads to **inflation, fear, or ego-serving action**, it is not 
 - [[Tree of Life]] — The Qabalistic map of divine emanation
 - [[Sacral]] Center — Human Design center of life force and generative power
 - [[Gene Keys]] — 37th Gene Key (Weakness/Equality/Tenderness)
-- [[Jungian Psychology]] — Collective unconscious, archetypes, Anima/Animus
+- [[Jungian Archetypes|Jungian Psychology]] — Collective unconscious, archetypes, Anima/Animus
 - [[Astrology]] — Moon, Cancer, 4th House
 - [[Qlippoth]] — Shadow tree, Gamaliel as distortion of Yesod
 - [[The Celestial Hierarchy]] — Pseudo-Dionysius's angelic orders

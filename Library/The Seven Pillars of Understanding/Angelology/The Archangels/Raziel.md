@@ -24,7 +24,7 @@ aliases: [Akrasiel, Galizur, Saraqael, Suriel]
 ---
 ## Essence
 
-**Archangel Raziel** (Hebrew: רזיאל, *Razi'el* — "Secret of God" or "Herald of Deity") is the **Prince of Hidden Knowledge**, the **Revealer of Mysteries**, and the **Angel of the Supreme Secrets**. In the Qabalistic tradition, Raziel governs **[[Chokmah]]** (Wisdom, the second [[Sephirah]]), the primal masculine force of creation—the explosive first emanation from the Absolute, the divine spark that initiates all manifestation. Where [[Metatron]] at [[Kether]] represents the Unmanifest Crown, Raziel at Chokmah is the *first intelligible principle*, the Logos, the divine intelligence that structures the cosmos.
+**Archangel Raziel** (Hebrew: רזיאל, *Razi'el* — "Secret of God" or "Herald of Deity") is the **Prince of Hidden Knowledge**, the **Revealer of Mysteries**, and the **Angel of the Supreme Secrets**. In the Qabalistic tradition, Raziel governs **[[Chokmah]]** (Wisdom, the second [[Sephiroth|Sephirah]]), the primal masculine force of creation—the explosive first emanation from the Absolute, the divine spark that initiates all manifestation. Where [[Metatron]] at [[Kether]] represents the Unmanifest Crown, Raziel at Chokmah is the *first intelligible principle*, the Logos, the divine intelligence that structures the cosmos.
 
 Raziel is not a comforting presence. He does not protect in the manner of [[Michael]], nor does he heal like [[Raphael]]. Raziel's function is **revelation**—the unveiling of what has been concealed, the granting of wisdom too vast for mortal comprehension, the opening of the sealed book. To invoke Raziel is to ask for knowledge that may shatter the structures of the ego, for truth that cannot be unlearned.
 
@@ -450,7 +450,7 @@ Like Raziel, Quetzalcoatl is a **culture-bringer**, a revealer of cosmic pattern
 
 ### The Wise Old Man Archetype
 
-In **[[Jungian psychology]]**, Raziel corresponds to the **Wise Old Man** archetype—the inner figure who appears in dreams or active imagination as a guide, teacher, or mentor. Jung writes:
+In **[[Jungian Archetypes|Jungian Psychology]]**, Raziel corresponds to the **Wise Old Man** archetype—the inner figure who appears in dreams or active imagination as a guide, teacher, or mentor. Jung writes:
 
 > "The Wise Old Man appears in dreams as a magician, doctor, priest, teacher, professor, grandfather, or any other person possessing authority. He represents knowledge, reflection, insight, wisdom, cleverness, and intuition on the one hand, and on the other, moral qualities such as goodwill and readiness to help."
 
@@ -703,7 +703,7 @@ The danger of invoking Raziel is **spiritual inflation**—the ego's tendency to
 - [[The Tarot|Tarot]] — The Twos and Kings correspond to Raziel
 - [[Human Design]] — Ajna Center, mental clarity
 - [[Gene Keys]] — 17th Gene Key (Opinion/Far-Sightedness/Omniscience)
-- [[Jungian psychology]] — Wise Old Man archetype
+- [[Jungian Archetypes|Jungian Psychology]] — Wise Old Man archetype
 - [[Sophia]] — Divine Wisdom, feminine counterpart
 - [[Logos]] — The Word, divine reason
 - [[The Celestial Hierarchy]] — Pseudo-Dionysius's angelic orders

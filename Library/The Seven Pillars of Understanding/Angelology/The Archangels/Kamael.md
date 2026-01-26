@@ -26,7 +26,7 @@ aliases: [Camael, Khamael, Chamuel, Samael]
 ---
 ## Essence
 
-**Archangel Kamael** (Hebrew: כמאל, *Kama'el* — "He Who Sees God" or "Severity of God") is the **Prince of Strength and Courage**, the **Fighting Angel**, and the **Wielder of the Sword of Justice**. In the Qabalistic tradition, Kamael governs **[[Geburah]]** (Severity, the fifth [[Sephirah]]), the sphere of divine strength, necessary destruction, and discriminating power. Where [[Michael]] at [[Tiphareth]] represents the solar hero who defends the Self, Kamael at Geburah is the *ruthless force* that cuts away all that does not serve the divine plan—the surgeon, the executioner, the warrior who does not flinch.
+**Archangel Kamael** (Hebrew: כמאל, *Kama'el* — "He Who Sees God" or "Severity of God") is the **Prince of Strength and Courage**, the **Fighting Angel**, and the **Wielder of the Sword of Justice**. In the Qabalistic tradition, Kamael governs **[[Geburah]]** (Severity, the fifth [[Sephiroth|Sephirah]]), the sphere of divine strength, necessary destruction, and discriminating power. Where [[Michael]] at [[Tiphareth]] represents the solar hero who defends the Self, Kamael at Geburah is the *ruthless force* that cuts away all that does not serve the divine plan—the surgeon, the executioner, the warrior who does not flinch.
 
 Kamael is not a comforting presence. He does not soothe, heal, or console. Kamael's function is **purgation**—the removal of the diseased, the elimination of the weak, the destruction of what has outlived its purpose. To invoke Kamael is to call upon the force that will burn away everything false, even if the ego believes it cannot survive the fire.
 
@@ -566,7 +566,7 @@ Kamael *is* the archangelic intelligence of **[[Geburah]]**. To study the Qabali
 
 ### Jungian Psychology: The Shadow Warrior
 
-In **[[Jungian psychology]]**, Kamael is the **Warrior archetype** and the **integrated Shadow**—the capacity to own one's darkness without being consumed by it.
+In **[[Jungian Archetypes|Jungian Psychology]]**, Kamael is the **Warrior archetype** and the **integrated Shadow**—the capacity to own one's darkness without being consumed by it.
 
 
 
@@ -703,10 +703,10 @@ If the act leaves you feeling *inflated* (powerful, superior, righteous in a gra
 - [[First House]] — The house of self and identity
 
 ### Jungian and Archetypal
-- [[Jungian psychology]] — Shadow integration, Warrior archetype
+- [[Jungian Archetypes|Jungian Psychology]] — Shadow integration, Warrior archetype
 - [[The Shadow]] — The rejected, dark aspects of the psyche
-- [[Warrior Archetype]] — Discipline, focus, courage
-- [[Terrible Mother]] — The devouring, destructive feminine
+- [[The Hero|Warrior Archetype]] — Discipline, focus, courage
+- [[The Great Mother|Terrible Mother]] — The devouring, destructive feminine
 - [[Individuation Process|Individuation]] — Jungian process of becoming whole
 
 ### Cross-Tradition Parallels
