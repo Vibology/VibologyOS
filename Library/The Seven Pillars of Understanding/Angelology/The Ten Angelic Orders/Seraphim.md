@@ -661,7 +661,7 @@ This is the Seraphim's gift: the **dissolution of the illusion of separation**.
 - [[Kether]] (The Crown, the Seraphim's Sephira)
 - [[Chokmah]] (Wisdom, the Cherubim's Sephira)
 - [[Binah]] (Understanding, the Thrones' Sephira)
-- [[Ein Sof]] (The Limitless, the source beyond the Seraphim)
+- [[Ain Soph Aur|Ein Sof]] (The Limitless, the source beyond the Seraphim)
 - [[Four Worlds]] (Atziluth, Briah, Yetzirah, Assiah)
 - [[Divine Names]]
 - [[Qlippoth]] (The shadow side, the fallen Seraphim)

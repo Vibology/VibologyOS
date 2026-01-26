@@ -788,7 +788,7 @@ To integrate the Principalities is to become the **conscious participant in coll
 - [[Hod]] — Eighth Sephira, Splendor, the Archangels' domain (balances Netzach)
 - [[Chesed]] — Fourth Sephira, Mercy, the Dominations' domain (above Netzach on the right pillar)
 - [[Yesod]] — Ninth Sephira, Foundation, the Angels' domain (below Netzach)
-- [[The Pillar of Mercy]] — Chesed-Netzach-Yesod, the right pillar of the Tree
+- [[Pillar of Mercy|The Pillar of Mercy]] — Chesed-Netzach-Yesod, the right pillar of the Tree
 - [[Four Worlds]] — Atziluth, Briah, Yetzirah, Assiah
 
 ### Astrological Correspondences

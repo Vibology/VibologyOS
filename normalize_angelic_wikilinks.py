@@ -35,6 +35,7 @@ def build_file_map():
 
     # Add special mappings for ambiguous cases
     special_mappings = {
+        # Tarot Major Arcana
         "Judgement": "The Tarot/Major Arcana/Judgement (XX).md",
         "Judgment": "The Tarot/Major Arcana/Judgement (XX).md",
         "Justice": "The Tarot/Major Arcana/Justice (VIII or XI).md",
@@ -43,6 +44,8 @@ def build_file_map():
         "The World": "The Tarot/Major Arcana/The World (XXI).md",
         "The Wheel of Fortune": "The Tarot/Major Arcana/The Wheel of Fortune (X).md",
         "Wheel of Fortune": "The Tarot/Major Arcana/The Wheel of Fortune (X).md",
+
+        # Qabalah - Sephiroth
         "Tree of Life": "The Tarot/Qabalah/Tree of Life.md",
         "Kether": "The Tarot/Qabalah/Kether.md",
         "Chokmah": "The Tarot/Qabalah/Chokmah.md",
@@ -54,12 +57,24 @@ def build_file_map():
         "Hod": "The Tarot/Qabalah/Hod.md",
         "Yesod": "The Tarot/Qabalah/Yesod.md",
         "Malkuth": "The Tarot/Qabalah/Malkuth.md",
+        "Daath": "The Tarot/Qabalah/Daath.md",
+
+        # Qabalah - Other concepts
         "Four Worlds": "The Tarot/Qabalah/Four Worlds.md",
         "Qlippoth": "The Tarot/Qabalah/Qlippoth.md",
+        "Ein Sof": "The Tarot/Qabalah/Ain Soph Aur.md",  # Alternate spelling
+        "Ain Soph": "The Tarot/Qabalah/Ain Soph Aur.md",  # Related concept
+        "Pillar of Mercy": "The Tarot/Qabalah/Pillar of Mercy.md",
+        "The Pillar of Mercy": "The Tarot/Qabalah/Pillar of Mercy.md",
+        "Middle Pillar": "The Tarot/Qabalah/Middle Pillar.md",
+
+        # Angelology
         "Angelology": "Angelology/Angelology.md",
         "The Three Triads": "Angelology/The Three Triads.md",
         "The Ten Angelic Orders": "Angelology/The Ten Angelic Orders/The Ten Angelic Orders.md",
         "The Archangels": "Angelology/The Archangels/The Archangels.md",
+
+        # Pillars
         "Astrology": "Astrology/Astrology.md",
         "Human Design": "Human Design/Human Design.md",
         "The Tarot|Tarot": "The Tarot/The Tarot.md",  # Handle existing alias
