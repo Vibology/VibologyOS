@@ -578,7 +578,7 @@ The language is not to be learned like French or Spanish—it is to be **embodie
 ---
 ## Cross-References
 ### Within Enochian
-- [[Enochian System Overview]] — Complete introduction to Enochian magic
+- [[Enochian Tradition]] — Complete introduction to Enochian magic
 - [[The Four Watchtowers]] — Elemental tablets and divine names
 - [[The 30 Aethyrs]] — Opened using the 19th Key
 - [[Heptarchia Mystica]] — Planetary magic and the Sigillum Dei Aemeth
