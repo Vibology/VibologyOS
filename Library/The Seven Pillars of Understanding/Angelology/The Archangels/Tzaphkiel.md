@@ -40,8 +40,8 @@ To encounter Tzaphkiel is to meet the **cosmic pressure of form-giving**—the s
 
 The name **Tzaphkiel** (צפקיאל) breaks down as:
 
-**צפה** (*Tzaphah*) = "to watch," "to behold," "to contemplate," "to look out"
-**אל** (*El*) = "God"
+- **Tzaphah** (צפה) — "to watch," "to behold," "to contemplate," "to look out"
+- **El** (אל) — "God"
 
 Thus: **"Beholder of God"** or **"Contemplation of God"**
 

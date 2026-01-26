@@ -40,8 +40,8 @@ To encounter Tzadkiel is to meet **the overwhelming generosity of the cosmos**�
 
 The name **Tzadkiel** (צדקיאל) breaks down as:
 
-**צדק** (*Tzedek*) = "righteousness," "justice," "rightness," "what is right and true"
-**אל** (*El*) = "God"
+- **Tzedek** (צדק) — "righteousness," "justice," "rightness," "what is right and true"
+- **El** (אל) — "God"
 
 Thus: **"Righteousness of God"** or **"Justice of God"**
 

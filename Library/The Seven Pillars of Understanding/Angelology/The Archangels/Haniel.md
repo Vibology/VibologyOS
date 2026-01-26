@@ -38,8 +38,8 @@ To invoke Haniel is to ask not for abstract spiritual truths but for **the capac
 ### The Name: Grace of God
 
 The name **Haniel** (חניאל) derives from:
-**חן** (*chen*) = "grace," "charm," "favor"
-**אל** (*El*) = "God"
+- **Chen** (חן) — "grace," "charm," "favor"
+- **El** (אל) — "God"
 
 Thus: **"Grace of God"** or **"Glory of God"**
 

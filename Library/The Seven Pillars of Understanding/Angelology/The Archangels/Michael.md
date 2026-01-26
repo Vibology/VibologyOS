@@ -53,9 +53,9 @@ To encounter Michael is to meet **the demand for spiritual integrity**. He does 
 
 The name **Mikha'el** (מיכאל) is constructed as a **rhetorical question**:
 
-**מי** (*mi*) = "Who?"
-**כ** (*ka* or *kha*) = "like" or "as"
-**אל** (*El*) = "God"
+- **Mi** (מי) — "Who?"
+- **Ka/Kha** (כ) — "like" or "as"
+- **El** (אל) — "God"
 
 Thus: **"Who is like God?"** or **"Who is as God?"**
 
