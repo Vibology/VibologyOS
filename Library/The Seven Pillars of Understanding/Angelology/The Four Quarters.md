@@ -26,7 +26,7 @@ The **Four Quarters** are the cardinal directions associated with the four class
 | **West** | Sunset | Water | [[Gabriel]] | Dusk | Autumn |
 | **North** | Nadir | Earth | [[Uriel]] | Midnight | Winter |
 
-This system underlies the **Lesser Banishing Ritual of the Pentagram** ([[LBRP]]), the **Watchtower system** of Enochian magic, and countless other Western magical practices.
+This system underlies the **Lesser Banishing Ritual of the Pentagram** ([[Lesser Banishing Ritual of the Pentagram]]), the **Watchtower system** of Enochian magic, and countless other Western magical practices.
 
 ---
 
@@ -43,7 +43,7 @@ The quarter-element correspondences derive from observing the natural world:
 ## Cross-References
 
 - [[The Four Archangels of the Quarters]] — The archangelic guardians
-- [[LBRP]] — The foundational ritual using the quarters
+- [[Lesser Banishing Ritual of the Pentagram]] — The foundational ritual using the quarters
 - [[The Four Watchtowers]] — Enochian expansion of the quarter system
 
 ---

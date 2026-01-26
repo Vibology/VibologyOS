@@ -17,7 +17,7 @@ expansion_needed: true
 
 ## Overview
 
-The **Four Archangels of the Quarters** are the four great archangels invoked as guardians of the elemental directions in Western ceremonial magic, most notably in the **Lesser Banishing Ritual of the Pentagram** ([[LBRP]]):
+The **Four Archangels of the Quarters** are the four great archangels invoked as guardians of the elemental directions in Western ceremonial magic, most notably in the **Lesser Banishing Ritual of the Pentagram** ([[Lesser Banishing Ritual of the Pentagram]]):
 
 | Direction | Archangel | Element | Color | Quality |
 |-----------|-----------|---------|-------|---------|
@@ -44,7 +44,7 @@ This invocation establishes the four archangels as **protective guardians** of s
 - [[Michael]] — Archangel of the South/Fire
 - [[Gabriel]] — Archangel of the West/Water
 - [[Uriel]] — Archangel of the North/Earth
-- [[LBRP]] — The ritual in which they are invoked
+- [[Lesser Banishing Ritual of the Pentagram]] — The ritual in which they are invoked
 - [[The Four Quarters]] — The elemental directions
 
 ---
