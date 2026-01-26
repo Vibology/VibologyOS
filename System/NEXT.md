@@ -28,14 +28,17 @@
 
 **Dead Wikilink Resolution (2026-01-26):**
 - ✅ Built normalization script mapping 778 Library files to wikilink references
-- ✅ Fixed 82 dead wikilinks across 9 angelic order files using Obsidian alias syntax
+- ✅ Fixed 130 dead wikilinks across 9 angelic order files using Obsidian alias syntax
 - ✅ Comprehensive Library search verified existing files (Qlippoth, Pillar of Mercy, Daath, Ain Soph Aur/Ein Sof)
-- ✅ Reduced dead links: 233 → 127 (45.5% reduction, 106 links fixed)
-- ✅ Normalized: Tarot Major Arcana, Gates, Sephiroth, Qabalah concepts
-- 📊 Remaining 127 dead links: Files not yet created in Library
-  - High-priority (7): Lucifer, Guardian Angel, Divine Names, Merkabah Mysticism, Path 25, Pillar of Severity, The Abyss
-  - Medium-priority (17): Jungian concepts (Shadow, Individuation, Collective Unconscious, Transcendent Function), mystical practices
-  - Lower-priority (103): Mythology, synthesis topics, HD/Astrology cross-refs
+- ✅ Created 19 high/medium-priority stub files in appropriate Library categories
+- ✅ Added wikilink aliases for files with alternate names (Individuation Process, Conjunction, The Shadow, Pathworking)
+- ✅ Reduced dead links: 233 → 103 (55.8% reduction, 130 links fixed)
+- ✅ All 7 high-priority links resolved (Lucifer, Guardian Angel, Divine Names, Merkabah Mysticism, Path 25, Pillar of Severity, The Abyss)
+- 📊 Remaining 103 dead links: Lower-priority files not yet created
+  - Mythology entries (Zeus, Athena, Thor, Durga, etc.)
+  - Synthesis topics (Christ Consciousness, Mystical Union)
+  - HD/Astrology cross-refs (specific Centers, Houses, etc.)
+  - Cultural concepts (Bodhisattvas, Amesha Spentas, etc.)
 
 **Commits:**
 - bd88371: Fix Hebrew name formatting (4 files)
@@ -45,11 +48,12 @@
 - 86d2185: Ensure consistency in The Ten Angelic Orders.md
 - b5d3de0: Fix 80 dead wikilinks using alias syntax (normalize_angelic_wikilinks.py)
 - 01dcc51: Fix 2 additional high-priority wikilinks (Ein Sof, Pillar of Mercy)
-- 7643646: Update NEXT.md: Document dead wikilink resolution progress
+- e91dac7: Create 19 high/medium-priority stub files + fix 48 more wikilinks
+- 7643646, bcc7ce9: Update NEXT.md with progress documentation
 
 **Sources Verified:** NotebookLM confirmed Wang p.115, 266; Davidson p.336-337
 
-**Status:** Angelology structural consistency complete ✅ | Dead link resolution: 45.5% complete (106/233 fixed, 127 reference non-existent files)
+**Status:** Angelology structural consistency complete ✅ | Dead link resolution: 55.8% complete (130/233 fixed, 19 stub files created, 103 lower-priority links remain)
 
 ---
 
