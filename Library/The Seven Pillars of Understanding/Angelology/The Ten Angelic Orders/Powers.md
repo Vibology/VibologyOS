@@ -52,7 +52,7 @@ To encounter Power consciousness is to meet the **unyielding strength of cosmic 
 | **Archangel**          | Kamael (He Who Sees God / Severity of God)           |
 | **Color (Atziluth)**   | Orange (fiery strength)                              |
 | **Color (Briah)**      | Scarlet red (blood and battle)                       |
-| **Tarot**              | [[The Tower]] (XVI) — Necessary destruction          |
+| **Tarot**              | [[The Tower (XVI)|The Tower]] (XVI) — Necessary destruction          |
 |                        | [[Five of Wands]] — Conflict and testing             |
 |                        | [[Five of Swords]] — Defeat of opposition            |
 |                        | [[Five of Cups]] — Sacrifice and loss                |
@@ -625,13 +625,13 @@ To integrate the Powers is to become the **sacred warrior**—the one who defend
 - [[Defined vs. Undefined Heart]] — The differentiation in access to willpower and commitment
 
 ### Tarot Correspondences
-- [[The Tower]] (XVI) — Necessary destruction, the lightning bolt that clears corruption
-- [[Strength]] (VIII) — Courage and discriminating force (Leo/solar strength vs. Mars/martial strength)
+- [[The Tower (XVI)|The Tower]] (XVI) — Necessary destruction, the lightning bolt that clears corruption
+- [[Strength (VIII or XI)|Strength]] (VIII) — Courage and discriminating force (Leo/solar strength vs. Mars/martial strength)
 - [[Five of Wands]] — Conflict, testing, the struggle that reveals truth
 - [[Five of Swords]] — Defeat of opposition, the cost of combat
 - [[Five of Cups]] — Sacrifice, loss, what must be released
 - [[Five of Pentacles]] — Material hardship, the testing of resources
-- [[Justice]] (XI) — The sword of discrimination, cosmic law
+- [[Justice (VIII or XI)|Justice]] (XI) — The sword of discrimination, cosmic law
 
 ### I-Ching
 - [[Hexagram 6 - Sung (Conflict)]] — Necessary opposition, the testing that reveals truth

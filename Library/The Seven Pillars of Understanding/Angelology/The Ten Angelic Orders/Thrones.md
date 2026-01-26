@@ -52,7 +52,7 @@ To encounter Throne consciousness is to meet the **unyielding stability of divin
 | **Archangel**          | Tzaphkiel (Contemplation of God)                     |
 | **Color (Atziluth)**   | Crimson                                              |
 | **Color (Briah)**      | Black                                                |
-| **Tarot**              | [[The Empress]] (III) — Divine Mother, form-giving   |
+| **Tarot**              | [[The Empress (III)|The Empress]] (III) — Divine Mother, form-giving   |
 | **I-Ching**            | Hexagram 2 (K'un/The Receptive) — Earth principle    |
 
 ---
@@ -580,10 +580,10 @@ To integrate the Thrones is to become the **sacred container**—the womb, the t
 - [[Authority]] — The internal decision-making mechanism that governs correct manifestation
 
 ### Tarot Correspondences
-- [[The Empress]] (III) — The Divine Mother, form-giver, archetypal Binah
-- [[The Hierophant]] (V) — Cosmic law, structure, tradition, authority
-- [[Justice]] (XI) — Divine justice, cosmic balance, the scales
-- [[The World]] (XXI) — Completion of form, manifestation achieved, Saturn's final gift
+- [[The Empress (III)|The Empress]] (III) — The Divine Mother, form-giver, archetypal Binah
+- [[The Hierophant (V)|The Hierophant]] (V) — Cosmic law, structure, tradition, authority
+- [[Justice (VIII or XI)|Justice]] (XI) — Divine justice, cosmic balance, the scales
+- [[The World (XXI)|The World]] (XXI) — Completion of form, manifestation achieved, Saturn's final gift
 
 ### I-Ching
 - [[Hexagram 2 - K'un (The Receptive)]] — Pure yin, the Earth principle, receptive form-giving (Throne function)

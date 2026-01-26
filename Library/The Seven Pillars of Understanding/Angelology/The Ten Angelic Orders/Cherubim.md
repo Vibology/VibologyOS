@@ -860,8 +860,8 @@ For those who consciously align with Cherubic intelligence, a vow may be taken (
 
 ### Tarot
 - [[The Fool (0)]] (Trump 0, the path between Chokmah and Kether)
-- [[The Wheel of Fortune]] (Trump X, the Zodiac, cycles, wheels within wheels)
-- [[Temperance]] (Trump XIV, angelic intelligence, alchemy)
+- [[The Wheel of Fortune (X)|The Wheel of Fortune]] (Trump X, the Zodiac, cycles, wheels within wheels)
+- [[Temperance (XIV)|Temperance]] (Trump XIV, angelic intelligence, alchemy)
 - [[Two of Wands]] (Chokmah in Fire, dominion through wisdom)
 - [[Ace of Swords]] (Mental clarity, divine intellect)
 
@@ -873,8 +873,8 @@ For those who consciously align with Cherubic intelligence, a vow may be taken (
 
 ### Human Design
 - [[Ajna Center]] (Mental awareness, conceptualization, pattern recognition)
-- [[Gate 47]] (Realizing) | [[Gate 24]] (Rationalizing) | [[Gate 4]] (Formulization)
-- [[Gate 17]] (Opinions) | [[Gate 43]] (Insight) | [[Gate 11]] (Ideas) | [[Gate 64]] (Confusion)
+- [[Gate 47 - Oppression|Gate 47]] (Realizing) | [[Gate 24 - The Return|Gate 24]] (Rationalizing) | [[Gate 04 - Youthful Folly|Gate 4]] (Formulization)
+- [[Gate 17 - Following|Gate 17]] (Opinions) | [[Gate 43 - Breakthrough|Gate 43]] (Insight) | [[Gate 11 - Peace|Gate 11]] (Ideas) | [[Gate 64 - Before Completion|Gate 64]] (Confusion)
 - [[Defined vs. Undefined Centers]]
 - [[Strategy and Authority]] (The Ajna perceives but does not decide)
 

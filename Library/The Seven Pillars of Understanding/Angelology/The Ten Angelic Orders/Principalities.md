@@ -194,9 +194,9 @@ In Jungian terms, the Principalities correspond to the **collective unconscious*
 - **Color:** Emerald green (life force), amber (warmth of desire), yellow-green (vitality)
 
 **Tarot:**
-- [[The Empress]] (III) — Venus-ruled card, fertility, abundance, the nurturing collective, the mother of nations
-- [[The Lovers]] (VI) — Choice, relationship, the bond between individuals and collectives
-- [[The Hierophant]] (V) — Tradition, religious/cultural authority, the guardian of collective wisdom
+- [[The Empress (III)|The Empress]] (III) — Venus-ruled card, fertility, abundance, the nurturing collective, the mother of nations
+- [[The Lovers (VI)|The Lovers]] (VI) — Choice, relationship, the bond between individuals and collectives
+- [[The Hierophant (V)|The Hierophant]] (V) — Tradition, religious/cultural authority, the guardian of collective wisdom
 - [[Seven of Wands]] (Valor) — Netzach in Fire, defense of position, standing firm for the collective
 - [[Seven of Cups]] (Debauch/Illusion) — Netzach in Water, the seduction of false belonging, tribalism
 - [[Seven of Swords]] (Futility) — Netzach in Air, intellectual disconnection from the collective
@@ -799,18 +799,18 @@ To integrate the Principalities is to become the **conscious participant in coll
 
 ### Human Design System
 - [[Spleen Center]] — Intuitive awareness, survival, immune system, tribal bonds
-- [[Gate 18]] — Correction, tribal loyalty, challenging authority
-- [[Gate 28]] — The Game Player, knowing what is worth fighting for
-- [[Gate 32]] — Continuity, preservation of collective survival
-- [[Gate 44]] — Coming to Meet, tribal gatekeeping, sensing who belongs
-- [[Gate 48]] — The Well, tribal depth and wisdom
-- [[Gate 50]] — The Cauldron, tribal values
-- [[Gate 57]] — The Gentle, intuitive clarity about collective dynamics
+- [[Gate 18 - Work on What Has Been Spoilt|Gate 18]] — Correction, tribal loyalty, challenging authority
+- [[Gate 28 - Preponderance of the Great|Gate 28]] — The Game Player, knowing what is worth fighting for
+- [[Gate 32 - Duration|Gate 32]] — Continuity, preservation of collective survival
+- [[Gate 44 - Coming to Meet|Gate 44]] — Coming to Meet, tribal gatekeeping, sensing who belongs
+- [[Gate 48 - The Well|Gate 48]] — The Well, tribal depth and wisdom
+- [[Gate 50 - The Cauldron|Gate 50]] — The Cauldron, tribal values
+- [[Gate 57 - The Gentle|Gate 57]] — The Gentle, intuitive clarity about collective dynamics
 
 ### Tarot Correspondences
-- [[The Empress]] (III) — Venus, fertility, abundance, mother of nations
-- [[The Hierophant]] (V) — Tradition, religious/cultural authority, collective wisdom
-- [[The Lovers]] (VI) — Choice, relationship, bond between individual and collective
+- [[The Empress (III)|The Empress]] (III) — Venus, fertility, abundance, mother of nations
+- [[The Hierophant (V)|The Hierophant]] (V) — Tradition, religious/cultural authority, collective wisdom
+- [[The Lovers (VI)|The Lovers]] (VI) — Choice, relationship, bond between individual and collective
 - [[Seven of Wands]] (Valor) — Netzach in Fire, defense of collective position
 - [[Seven of Cups]] (Debauch/Illusion) — Netzach in Water, false belonging, tribalism
 - [[Seven of Swords]] (Futility) — Netzach in Air, intellectual disconnection from collective

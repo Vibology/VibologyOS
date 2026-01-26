@@ -54,7 +54,7 @@ To encounter Domination consciousness is to experience **benevolent authority**�
 | **Archangel**          | Tzadkiel (Righteousness of God)                      |
 | **Color (Atziluth)**   | Deep violet                                          |
 | **Color (Briah)**      | Blue                                                 |
-| **Tarot**              | [[The Emperor]] (IV) — Sovereign authority           |
+| **Tarot**              | [[The Emperor (IV)|The Emperor]] (IV) — Sovereign authority           |
 | **I-Ching**            | Hexagram 26 (Ta Ch'u/Great Accumulating)             |
 
 ---
@@ -604,17 +604,17 @@ To integrate the Dominations is to become the **inner king/queen**—the soverei
 
 ### Human Design System
 - [[G-Center]] — Identity, Love, Direction center (the human microcosm of Domination function)
-- [[Gate 1]] — The Creative, self-expression as sovereignty
-- [[Gate 7]] — The Role of the Self, leadership through identity
-- [[Gate 10]] — Behavior of the Self, self-love as foundation
-- [[Gate 25]] — Innocence, love of spirit
+- [[Gate 01 - The Creative|Gate 1]] — The Creative, self-expression as sovereignty
+- [[Gate 07 - The Army|Gate 7]] — The Role of the Self, leadership through identity
+- [[Gate 10 - Treading|Gate 10]] — Behavior of the Self, self-love as foundation
+- [[Gate 25 - Innocence|Gate 25]] — Innocence, love of spirit
 - [[Projector]] — Type with G-Center often defined, embodying Domination recognition and guidance
 
 ### Tarot Correspondences
-- [[The Emperor]] (IV) — Sovereign authority, structure, benevolent governance (Domination card)
-- [[The Hierophant]] (V) — Spiritual authority, tradition, the teacher-king
-- [[Wheel of Fortune]] (X) — Jupiter's card, expansion and cycles of fortune
-- [[Temperance]] (XIV) — Balance of mercy (Chesed) and severity (Geburah), the angel regulating flow
+- [[The Emperor (IV)|The Emperor]] (IV) — Sovereign authority, structure, benevolent governance (Domination card)
+- [[The Hierophant (V)|The Hierophant]] (V) — Spiritual authority, tradition, the teacher-king
+- [[The Wheel of Fortune (X)|Wheel of Fortune]] (X) — Jupiter's card, expansion and cycles of fortune
+- [[Temperance (XIV)|Temperance]] (XIV) — Balance of mercy (Chesed) and severity (Geburah), the angel regulating flow
 
 ### I-Ching
 - [[Hexagram 26 - Ta Ch'u (Great Accumulating)]] — The sovereign who accumulates power to distribute blessing

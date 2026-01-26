@@ -170,8 +170,8 @@ In Jungian terms, the Virtues correspond to the **Transcendent Function**—the 
 - **Color:** Golden yellow (solar light), rose-pink (grace), rich salmon (vitality)
 
 **Tarot:**
-- [[The Sun]] (XIX) — joy, vitality, illumination, the solar center
-- [[Temperance]] (XIV) — the angel pouring water between vessels, the reconciliation of opposites, alchemy
+- [[The Sun (XIX)|The Sun]] (XIX) — joy, vitality, illumination, the solar center
+- [[Temperance (XIV)|Temperance]] (XIV) — the angel pouring water between vessels, the reconciliation of opposites, alchemy
 - [[Six of Wands]] (Victory) — Tiphareth in Fire, triumph through grace
 - [[Six of Cups]] (Nostalgia) — Tiphareth in Water, emotional harmony
 - [[Six of Swords]] (Science) — Tiphareth in Air, mental clarity through integration
@@ -751,14 +751,14 @@ The Virtues teach the middle way:
 - [[Middle Pillar]] (the central axis of the Tree)
 
 ### Tarot
-- [[The Sun]] (XIX) — joy, vitality, solar radiance, the illuminated heart
-- [[Temperance]] (XIV) — the angel of alchemy, the reconciliation of opposites
+- [[The Sun (XIX)|The Sun]] (XIX) — joy, vitality, solar radiance, the illuminated heart
+- [[Temperance (XIV)|Temperance]] (XIV) — the angel of alchemy, the reconciliation of opposites
 - [[Six of Wands]] (Victory) — Tiphareth in Fire, triumph through grace
 - [[Six of Cups]] (Nostalgia) — Tiphareth in Water, emotional harmony
 - [[Six of Swords]] (Science) — Tiphareth in Air, mental clarity
 - [[Six of Pentacles]] (Success) — Tiphareth in Earth, material harmony
-- [[The Lovers]] (VI) — choice, union, the reconciliation of polarities
-- [[The Chariot]] (VII) — mastery through integration, solar will
+- [[The Lovers (VI)|The Lovers]] (VI) — choice, union, the reconciliation of polarities
+- [[The Chariot (VII)|The Chariot]] (VII) — mastery through integration, solar will
 
 ### Astrology
 - [[Sun ☉]] (☉) — vitality, identity, the Higher Self, the source of light
@@ -767,12 +767,12 @@ The Virtues teach the middle way:
 
 ### Human Design
 - [[Solar Plexus Center]] (Emotional Awareness, the wave, spirit)
-- [[Gate 6]] (Friction / Conflict) — emotional intimacy
-- [[Gate 22]] (Grace / Openness) — aesthetic sensitivity, emotional surrender
-- [[Gate 36]] (Crisis / Darkening of the Light) — emotional depth
-- [[Gate 37]] (Friendship / The Family) — tribal bonds
-- [[Gate 49]] (Revolution) — principles and emotional sensitivity
-- [[Gate 55]] (Spirit / Abundance) — emotional spirit, fullness
+- [[Gate 06 - Conflict|Gate 6]] (Friction / Conflict) — emotional intimacy
+- [[Gate 22 - Grace|Gate 22]] (Grace / Openness) — aesthetic sensitivity, emotional surrender
+- [[Gate 36 - Darkening of the Light|Gate 36]] (Crisis / Darkening of the Light) — emotional depth
+- [[Gate 37 - The Family|Gate 37]] (Friendship / The Family) — tribal bonds
+- [[Gate 49 - Revolution|Gate 49]] (Revolution) — principles and emotional sensitivity
+- [[Gate 55 - Abundance|Gate 55]] (Spirit / Abundance) — emotional spirit, fullness
 - [[Emotional Authority]] (waiting through the wave for clarity)
 
 ### Jungian Psychology

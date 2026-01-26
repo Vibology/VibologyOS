@@ -189,7 +189,7 @@ The Archangels do not force. They **announce**, and then they wait. The response
 **Qabalah:**
 - **Sephirah:** [[Hod]] (Splendor, intellect, communication, divine thought made manifest)
 - **Planetary:** Mercury (☿) — The messenger, the psychopomp, the guide between worlds
-- **Path:** The Archangels illuminate the paths connecting Hod to other Sephiroth—particularly the path to [[Netzach]] (Tarot: [[The Tower]]) and the path to [[Tiphareth]] (Tarot: [[The Sun]])
+- **Path:** The Archangels illuminate the paths connecting Hod to other Sephiroth—particularly the path to [[Netzach]] (Tarot: [[The Tower (XVI)|The Tower]]) and the path to [[Tiphareth]] (Tarot: [[The Sun (XIX)|The Sun]])
 - **Divine Name:** [[Elohim Tzabaoth]] (God of Hosts)
 
 **Tarot:**
@@ -479,9 +479,9 @@ The individual becomes a **channel** through which divine will flows into the wo
 
 ### Cross-System Integration
 - **Qabalah:** [[Hod]] | [[Tree of Life]] | [[Elohim Tzabaoth]] | [[Astrology/Planets/Mercury # ☿]] | [[Sephiroth]]
-- **Tarot:** [[The Lovers]] | [[Temperance]] | [[Judgment]]
+- **Tarot:** [[The Lovers (VI)|The Lovers]] | [[Temperance (XIV)|Temperance]] | [[Judgement (XX)|Judgment]]
 - **Astrology:** [[Astrology/Planets/Mercury # ☿]] | [[Gemini ♊]] | [[Virgo ♍]]
-- **Human Design:** [[Sacral Center]] | [[Gate 5]] | [[Gate 14]] | [[Gate 29]] | [[Generator]] | [[Manifesting Generator]]
+- **Human Design:** [[Sacral Center]] | [[Gate 05 - Waiting|Gate 5]] | [[Gate 14 - Possession in Great Measure|Gate 14]] | [[Gate 29 - The Abysmal|Gate 29]] | [[Generator]] | [[Manifesting Generator]]
 - **Jungian Psychology:** [[Vocation]] | [[Individuation]] | [[Folklore/Jungian Archetypes/The Self]] | [[The Voice]] | [[Numinous Encounter]]
 
 ---

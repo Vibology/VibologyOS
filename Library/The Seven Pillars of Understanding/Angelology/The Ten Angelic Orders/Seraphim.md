@@ -158,7 +158,7 @@ Jung called this the **Self**—the totality of the psyche, the God-image within
 **Tarot:**
 - The **Aces** (primal force of each suit, undifferentiated potential)
 - [[The Fool (0)]] (0) — the fool is "above" the numbered cards, just as the Seraphim are "above" the other orders
-- [[The World]] (XXI) — completion, union, the dancer in ecstatic oneness
+- [[The World (XXI)|The World]] (XXI) — completion, union, the dancer in ecstatic oneness
 
 **Astrology:**
 - **Primum Mobile** (the First Motion, beyond the planets)
@@ -672,8 +672,8 @@ This is the Seraphim's gift: the **dissolution of the illusion of separation**.
 - [[Ace of Cups]] (primal love, Seraphic devotion)
 - [[Ace of Swords]] (primal truth, Seraphic clarity)
 - [[Ace of Pentacles]] (primal manifestation, the descent from Kether)
-- [[Judgement]] (XX) — resurrection, purification, the burning away of the old
-- [[The World]] (XXI) — completion, union, the dancer in ecstatic oneness
+- [[Judgement (XX)|Judgement]] (XX) — resurrection, purification, the burning away of the old
+- [[The World (XXI)|The World]] (XXI) — completion, union, the dancer in ecstatic oneness
 
 ### Astrology
 - [[Primum Mobile]] (The First Motion, beyond the planets)
@@ -683,8 +683,8 @@ This is the Seraphim's gift: the **dissolution of the illusion of separation**.
 
 ### Human Design
 - [[Head Center]] (inspiration, pressure to know, existential questioning)
-- [[Gate 64]] (Confusion / Before Completion — the pressure to make sense)
-- [[Gate 61]] (Inner Truth / Mystery — the pressure to know the unknowable)
+- [[Gate 64 - Before Completion|Gate 64]] (Confusion / Before Completion — the pressure to make sense)
+- [[Gate 61 - Inner Truth|Gate 61]] (Inner Truth / Mystery — the pressure to know the unknowable)
 - [[Defined Head Center]] (constant mental pressure, Seraphic longing)
 - [[Undefined Head Center]] (receptivity to Seraphic inspiration)
 

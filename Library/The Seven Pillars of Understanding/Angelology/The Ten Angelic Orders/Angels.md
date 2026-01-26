@@ -182,9 +182,9 @@ To work with Angelic consciousness is to cultivate:
 - **Symbol:** The Moon, the mirror, the womb
 
 **Tarot:**
-- [[The High Priestess]] (II) — the Moon, the veil, the guardian of the threshold, the keeper of secrets
-- [[The Moon]] (XVIII) — Yesod itself, the astral plane, dreams, the unconscious, the path through illusion
-- [[The World]] (XXI) — the 32nd Path, crossing from Yesod to Malkuth, the dance of completion
+- [[The High Priestess (II)|The High Priestess]] (II) — the Moon, the veil, the guardian of the threshold, the keeper of secrets
+- [[The Moon (XVIII)|The Moon]] (XVIII) — Yesod itself, the astral plane, dreams, the unconscious, the path through illusion
+- [[The World (XXI)|The World]] (XXI) — the 32nd Path, crossing from Yesod to Malkuth, the dance of completion
 
 **Astrology:**
 - **Moon** (☽) — emotions, unconscious, cycles, tides, mothering, receptivity
@@ -727,9 +727,9 @@ Listen.
 - [[Moon ☽]] (planetary sphere of Yesod)
 
 ### Tarot
-- [[The High Priestess]] (II) — the veil, the threshold, the guardian of secrets
-- [[The Moon]] (XVIII) — Yesod itself, the astral plane, dreams, intuition
-- [[The World]] (XXI) — the 32nd Path, crossing from Yesod to Malkuth
+- [[The High Priestess (II)|The High Priestess]] (II) — the veil, the threshold, the guardian of secrets
+- [[The Moon (XVIII)|The Moon]] (XVIII) — Yesod itself, the astral plane, dreams, intuition
+- [[The World (XXI)|The World]] (XXI) — the 32nd Path, crossing from Yesod to Malkuth
 
 ### Astrology
 - [[Moon ☽]] (☽) — emotions, unconscious, cycles, receptivity
@@ -738,7 +738,7 @@ Listen.
 
 ### Human Design
 - [[Root Center]] (pressure, momentum, drive, stress, adrenaline)
-- [[Gate 58]] | [[Gate 38]] | [[Gate 54]] | [[Gate 53]] | [[Gate 60]] | [[Gate 52]] | [[Gate 19]] | [[Gate 39]] | [[Gate 41]] (the nine gates of the Root)
+- [[Gate 58 - The Joyous|Gate 58]] | [[Gate 38 - Opposition|Gate 38]] | [[Gate 54 - The Marrying Maiden|Gate 54]] | [[Gate 53 - Development|Gate 53]] | [[Gate 60 - Limitation|Gate 60]] | [[Gate 52 - Keeping Still|Gate 52]] | [[Gate 19 - Approach|Gate 19]] | [[Gate 39 - Obstruction|Gate 39]] | [[Gate 41 - Decrease|Gate 41]] (the nine gates of the Root)
 - [[Sacral Center]] (life force, generative power—linked to Yesod's fertility)
 
 ### Jungian Psychology
