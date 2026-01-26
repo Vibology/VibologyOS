@@ -367,7 +367,6 @@ Jung's **Syzygy** (the divine couple—animus/anima united) parallels the Bridal
 ---
 
 ## Sources
-*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Bourgeault, Cynthia. *The Meaning of Mary Magdalene: Discovering the Woman at the Heart of Christianity*. Boston: Shambhala, 2010.
 - Ihidaya/Singleness: p. 97

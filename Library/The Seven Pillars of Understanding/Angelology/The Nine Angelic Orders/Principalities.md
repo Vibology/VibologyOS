@@ -837,7 +837,6 @@ To integrate the Principalities is to become the **conscious participant in coll
 ---
 
 ## Sources
-*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 **Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.
 - Pseudo-Dionysius on Principalities possessing "princely and truly royal authority": p. 233

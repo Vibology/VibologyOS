@@ -269,7 +269,6 @@ For this reason, wise communities value their Reflectors—not as participants i
 *Wait a Lunar Cycle is the Reflector's patient discipline—the recognition that their completely open chart requires external rhythm to find clarity. In a world obsessed with instant decisions, the Reflector's 28-day process feels impossibly slow. But their wisdom cannot be rushed: it emerges through sampling every energetic configuration, filtering conditioning from truth, observing what remains consistent across the cycle. The disappointed Reflector has forgotten this; the surprised Reflector has learned to trust the Moon's rhythm as their own. When the Reflector honors their lunar cycle, they become the clearest mirror the community has—reflecting not distortion but truth, not sickness but possibility.*
 
 ## Sources
-*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
 - Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority

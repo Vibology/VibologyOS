@@ -180,7 +180,6 @@ The Reflector's challenge is accepting that their gift is **not to fit in** but 
 *The Reflector is the living mirror—the one who samples the world without becoming it, who reflects the health of community without taking on its sickness, who waits through the full lunar cycle to know what is true. Their gift is not in doing, guiding, or initiating, but in revealing: by their presence, they show us what we have become, and by their surprise, they remind us what is still possible.*
 
 ## Sources
-*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
 - Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority

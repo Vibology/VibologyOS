@@ -429,7 +429,6 @@ Not fortune-telling, but the capacity to speak the **pattern** that is unfolding
 ---
 
 ## Sources
-*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 **Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.
 - Raziel as "Secret of God," angel of mysteries: p. 245-246

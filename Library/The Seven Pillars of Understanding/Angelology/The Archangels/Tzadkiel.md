@@ -995,7 +995,6 @@ To integrate Tzadkiel is to become the **generous king**—the one who blesses, 
 ---
 
 ## Sources
-*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 **Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.
 - Tzadkiel as "Righteousness of God," archangel of Chesed: p. 296

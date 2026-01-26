@@ -266,7 +266,6 @@ For comprehensive treatment of each archangel, see their individual entries:
 ---
 
 ## Sources
-*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Davidson, Gustav. *A Dictionary of Angels: Including the Fallen Angels*. New York: Free Press, 1967.
 - Individual archangel names, functions, and attributes

@@ -574,7 +574,6 @@ Metatron oversees this entire descent, ensuring that the **chain remains unbroke
 ---
 
 ## Sources
-*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 **Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.
 - Metatron as "Prince of Countenances," highest angel, Chancellor of Heaven: p. 192-194

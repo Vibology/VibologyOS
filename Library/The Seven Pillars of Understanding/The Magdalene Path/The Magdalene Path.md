@@ -398,7 +398,6 @@ For those with **undefined Head and Ajna centers** (particularly [[Reflector|Ref
 
 ---
 ## Sources
-*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Bourgeault, Cynthia. *The Meaning of Mary Magdalene: Discovering the Woman at the Heart of Christianity*. Boston: Shambhala, 2010.
 - Fifth Way definition: p. 109

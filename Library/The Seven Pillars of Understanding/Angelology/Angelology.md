@@ -320,7 +320,6 @@ The goal is not to *become* an angel but to **participate in angelic consciousne
 ---
 
 ## Sources
-*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Agrippa, Heinrich Cornelius. *The Occult Philosophy* (Three Books of Occult Philosophy). 1531.
 - Three hierarchies and nine orders as "entrance to empyrean heaven"

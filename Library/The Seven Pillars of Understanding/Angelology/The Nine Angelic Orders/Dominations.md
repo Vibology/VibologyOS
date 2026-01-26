@@ -641,7 +641,6 @@ To integrate the Dominations is to become the **inner king/queen**—the soverei
 ---
 
 ## Sources
-*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 **Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.
 - Pseudo-Dionysius on Dominations regulating angelic duties and manifesting God's majesty: p. 97

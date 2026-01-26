@@ -509,9 +509,7 @@ The third shadow: **fear of what Authority reveals**:
 *"The mind is a magnificent servant but a terrible master. Inner Authority returns sovereignty to the body—the only intelligence that knows, without thought, what is correct for you."*
 
 ---
-
 ## Sources
-*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Ra Uru Hu. *The Definitive Book of Human Design*. HDC Publishing, 2011.
 - Authority hierarchy: Emotional (strongest), Sacral, Splenic, Ego, Self-Projected, Environmental, Lunar

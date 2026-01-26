@@ -905,7 +905,6 @@ For those who consciously align with Cherubic intelligence, a vow may be taken (
 ---
 
 ## Sources
-*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 **Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.
 - Cherubim "excel in knowledge" and serve as bearers of God's throne: p. 69

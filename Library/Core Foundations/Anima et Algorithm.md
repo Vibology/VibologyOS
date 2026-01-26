@@ -367,9 +367,7 @@ When the Anima operates without Algorithm:
 *"The map is not the territory, but without a map, you wander lost. The compass is not the destination, but without a compass, you circle endlessly. Anima et Algorithm: the marriage of soul and system, the union that creates the pilgrim who knows both where they are going and how to verify they have arrived."*
 
 ---
-
 ## Sources
-*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Davis, Erik. *TechGnosis: Myth, Magic, and Mysticism in the Age of Information*. Harmony Books, 1998.
 - Spirit vs. Soul distinction (digital/abstract vs. analog/embodied)

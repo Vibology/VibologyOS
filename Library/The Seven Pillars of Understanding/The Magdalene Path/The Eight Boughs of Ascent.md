@@ -1008,7 +1008,6 @@ The fruit of the higher boughs **nourishes** those at the lower boughs. Your cla
 ---
 
 ## Sources
-*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Bourgeault, Cynthia. *The Meaning of Mary Magdalene: Discovering the Woman at the Heart of Christianity*. Boston: Shambhala, 2010.
 - The Nous as "eye of the heart" and "mystical intertidal zone": Ch. 5

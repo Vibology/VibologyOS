@@ -803,7 +803,6 @@ The Virtues teach the middle way:
 ---
 
 ## Sources
-*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 **Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.
 - Pseudo-Dionysius places Virtues as sixth order in hierarchy: p. 303

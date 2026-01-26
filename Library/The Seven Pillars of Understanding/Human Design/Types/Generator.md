@@ -185,7 +185,6 @@ The Generator-majority world is designed to *respond to life*, not force it into
 *The Generator is the heartbeat of humanity—the sustainable life force that builds, masters, and sustains the world. Their gift is not initiation but response, not force but magnetism, not endless striving but deep satisfaction found through work they love. When the Generator honors their Sacral, they become the living proof that fulfillment is not found by chasing, but by recognizing what is correct when it arrives.*
 
 ## Sources
-*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
 - Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority

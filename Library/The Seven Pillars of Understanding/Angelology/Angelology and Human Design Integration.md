@@ -241,7 +241,6 @@ You are not here to rush. The pressure you feel is not yours—it belongs to the
 ---
 
 ## Sources
-*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Davidson, Gustav. *A Dictionary of Angels: Including the Fallen Angels*. New York: Free Press, 1967.
 - Nine angelic orders and their functions

@@ -495,7 +495,6 @@ Motivation requires a full [[Human Design]] chart with **Tone/Color/Base** calcu
 
 
 ## Sources
-*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
 - Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority

@@ -457,9 +457,8 @@ Until then: navigate with all seven.
 *"The soul's position cannot be known from a single coordinate. Like a ship at sea requires latitude and longitude, the pilgrim requires seven dimensions to know where they stand, where they came from, and where they are going. The seven pillars are not separate paths—they are seven views of the One Path."*
 
 ---
-
 ## Sources
-*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
+
 
 **The Seven Pillars Framework:** Vibology Synthesis (original integration)
 

@@ -1404,7 +1404,6 @@ The individual radiates **clarity**—not the blinding glory of Metatron, not th
 *"Raphael does not heal you by removing the wound. He teaches you to transmute the wound into medicine. The fish that leapt at Tobias was meant to devour him—but Raphael said, 'Catch it. Open it. Use its organs to heal and to protect.' This is the alchemical teaching: the thing that attacks you, when rightly engaged, becomes the source of your restoration."*
 
 ## Sources
-*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 **Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.
 - Raphael as "God Heals," archangel of Tiphareth: p. 241-242

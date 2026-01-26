@@ -184,7 +184,6 @@ ed Identity** — They know who they are through speaking
 *Self-Projected Authority is the intelligence of the voice—the recognition that your truth is not known until it is spoken, heard, and recognized through sound. To speak is to know, and to listen to yourself is to witness your own becoming. The sounding board is not your guide but your mirror, and in the resonance of your own voice, you hear who you are and where you are meant to go.*
 
 ## Sources
-*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
 - Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority

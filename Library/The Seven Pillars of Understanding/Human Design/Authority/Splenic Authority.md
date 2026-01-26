@@ -164,7 +164,6 @@ Individuals with Splenic Authority bring:
 *Splenic Authority is the intelligence of the present moment—a quiet, ancient knowing that speaks once and does not repeat. It is the body's guardian, attuned to survival and health, and it requires absolute presence and trust. To honor the Spleen is to live spontaneously, to act without hesitation, and to trust that the body's first knowing is the truest knowing.*
 
 ## Sources
-*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
 - Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority

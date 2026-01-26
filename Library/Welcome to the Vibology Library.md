@@ -14,14 +14,8 @@ The map is not the territory. **You** are the territory.
 
 Use this Library as the **Algorithm**—the external structure that organizes what is known. But always return to the **Anima**—your inner authority, your lived experience, the compass that validates all knowledge through the body.
 
-> [!tip] Begin Here
-> If you are new, start with **[[Anima et Algorithm]]**—the foundational paradigm that explains how these systems work together.
->
-> Then explore **[[Seven-Coordinate Navigation]]** to understand how the seven pillars interrelate.
-
 ---
-
-## The Seven Pillars
+## The Seven Pillars of Understanding
 
 Each pillar is a complete wisdom tradition. Each contains an Overview as your entry point 
 
@@ -36,7 +30,6 @@ Each pillar is a complete wisdom tradition. Each contains an Overview as your en
 | [[The Window]] | Contemporary archetypal resonance (the emotional field) |
 
 ---
-
 ## Core Foundations
 
 Before diving into any pillar, these five entries establish the framework:
@@ -48,7 +41,6 @@ Before diving into any pillar, these five entries establish the framework:
 - [[Techgnosis]] — Spiritual knowledge through technological means
 
 ---
-
 ## Using This Library
 
 **Graph View** — Use Obsidian's graph to see how concepts interconnect across pillars. Every entry is woven into the whole.

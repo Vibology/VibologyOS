@@ -607,7 +607,6 @@ To integrate the Thrones is to become the **sacred container**—the womb, the t
 ---
 
 ## Sources
-*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 **Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.
 - Davidson cites Pseudo-Dionysius: Thrones are third order of First Triad, established in the Most High

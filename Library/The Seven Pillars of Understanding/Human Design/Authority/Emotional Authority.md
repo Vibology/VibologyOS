@@ -156,7 +156,6 @@ Emotionally defined individuals bring:
 *Emotional Authority is the intelligence of the wave—the recognition that truth is not found in the intensity of the moment but in the calm that follows the storm. To wait for clarity is not weakness but wisdom, and to trust the wave is to honor the body's ancient knowing that all things must cycle before they can be seen whole.*
 
 ## Sources
-*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
 - Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority

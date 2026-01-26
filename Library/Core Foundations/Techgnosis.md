@@ -551,9 +551,7 @@ The answer is yes—**if used wisely**.
 *"Technology is the externalization of human intelligence. When we use it to map consciousness, we create mirrors that reflect patterns we couldn't see alone. But the mirror is not the face. The map is not the territory. The synthesis is not the gnosis. At a certain point, you must close the laptop, step away from the screen, and stand naked before the Mystery—knowing that no algorithm, however brilliant, can substitute for direct encounter with the Divine."*
 
 ---
-
 ## Sources
-*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Davis, Erik. *TechGnosis: Myth, Magic, and Mysticism in the Age of Information*. Harmony Books, 1998.
 - Spirit vs. Soul distinction (digital/abstract vs. analog/embodied)

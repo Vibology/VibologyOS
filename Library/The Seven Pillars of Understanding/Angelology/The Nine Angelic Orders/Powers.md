@@ -657,7 +657,6 @@ To integrate the Powers is to become the **sacred warrior**—the one who defend
 ---
 
 ## Sources
-*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 **Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.
 - Pseudo-Dionysius on Powers characterized by "masculine and unflinching courage": referenced in text

@@ -490,7 +490,6 @@ Those with **[[Emotional Authority]]** (Solar Plexus defined) must **wait throug
 ---
 
 ## Sources
-*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Bourgeault, Cynthia. *The Meaning of Mary Magdalene: Discovering the Woman at the Heart of Christianity*. Boston: Shambhala, 2010.
 - Primary source for Magdalene Path recovery

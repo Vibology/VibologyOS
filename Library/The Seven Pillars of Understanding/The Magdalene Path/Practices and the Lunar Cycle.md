@@ -417,7 +417,6 @@ Jung's practice of **Active Imagination** (dialoguing with the unconscious) para
 ---
 
 ## Sources
-*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Ra Uru Hu. *The Definitive Book of Human Design*. Carlsbad: HDC Publishing, 2011.
 - Moon as "Driving Force" of the design

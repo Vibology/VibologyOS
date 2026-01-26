@@ -577,9 +577,8 @@ By the end of the contemplation period, the pattern is **embodied**—you don't 
 *"The Blueprint is not destiny—it is design. You are not the 64-fold structure; you are the consciousness experiencing it. The gates do not define you; they describe the vehicle through which you navigate existence. Know your design, honor your mechanics, but never forget: you are the one who chose this particular configuration before incarnation. The Blueprint is your gift to yourself—the precise instrument needed for the work you came to do."*
 
 ---
-
 ## Sources
-*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
+
 
 Huang, Alfred. *The Complete I Ching: The Definitive Translation*. Rochester, VT: Inner Traditions, 2010.
 - I-Ching structure, hexagram translations, Wilhelm comparisons

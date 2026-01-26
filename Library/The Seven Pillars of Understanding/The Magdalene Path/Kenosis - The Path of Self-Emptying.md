@@ -345,7 +345,6 @@ The **[[Seraphim]]** (Burning Ones) represent the fire that **consumes**—kenos
 ---
 
 ## Sources
-*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 Bourgeault, Cynthia. *The Meaning of Mary Magdalene: Discovering the Woman at the Heart of Christianity*. Boston: Shambhala, 2010.
 - Kenosis as "nonclinging" / "letting be": p. 114, Ch. 9

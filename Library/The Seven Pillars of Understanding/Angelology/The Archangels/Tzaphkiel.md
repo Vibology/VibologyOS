@@ -948,7 +948,6 @@ To integrate Tzaphkiel is to become the **sacred womb**—the one who holds, wit
 ---
 
 ## Sources
-*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 **Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.
 - Tzaphkiel as "Contemplation of God," archangel of Binah: p. 298

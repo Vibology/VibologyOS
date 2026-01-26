@@ -487,7 +487,6 @@ The individual becomes a **channel** through which divine will flows into the wo
 ---
 
 ## Sources
-*All citations trace to sources in the Esoteric Grimoire (NotebookLM).*
 
 **Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.
 - Pseudo-Dionysius on Archangels as bearers of divine decrees: referenced in text
