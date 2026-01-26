@@ -145,13 +145,45 @@ Haniel mediates between:
 
 ### Human Consciousness Parallel
 
-### The Spleen Center: Intuitive Survival and Vitality
+### The Emotional Solar Plexus: The Wave of Desire and Devotion
 
-In the synthesis of Qabalah and **[[Human Design]]**, Haniel corresponds to the **[[Spleen]] Center**—the center of **intuition, immune function, survival instinct, and vitality**. This is the oldest awareness center in the bodygraph, operating in the **now** with split-second recognition of what is healthy or unhealthy, safe or dangerous, life-affirming or life-depleting.
+In the synthesis of Qabalah and **[[Human Design]]**, Haniel corresponds primarily to the **[[Emotional Solar Plexus]]** (also called the Solar Plexus Center)—the center of **emotion, desire, sensitivity, and the wave**. This is the second-most powerful motor in the bodygraph, the engine of **feeling, passion, and relational depth**. The Emotional Solar Plexus governs:
 
-The Spleen is the body's "yes" or "no" to existence—the same function as Netzach. Haniel's intelligence manifests in the human vehicle as:
-- **Instinctive recognition of beauty** (the body knows what nourishes it)
-- **Relational harmony** (the capacity to attune to others, to create resonance)
+- **The emotional wave** (the natural rhythm of clarity and non-clarity, the cycling between hope and melancholy)
+- **Desire and longing** (the magnetic pull toward what the soul loves)
+- **Sensitivity to beauty** (the capacity to be moved by art, music, nature, human connection)
+- **Relational intimacy** (the ability to feel *with* others, to attune, to resonate)
+
+Haniel's intelligence manifests in the Emotional Solar Plexus as the **capacity to wait through the wave**—to honor the emotional rhythm, to not act in the peaks or troughs of feeling, but to allow the wave to clarify before making decisions. This is the **patience of Venus**, the understanding that **true beauty is revealed over time**, not seized in the moment of infatuation.
+
+**Gates of Haniel in the Emotional Solar Plexus:**
+- **Gate 6** (Friction/Intimacy) — The Gate of emotional honesty in relationship, the capacity to navigate conflict through vulnerability
+- **Gate 37** (The Family) — The Gate of tribal agreements, emotional bonds, the warmth of belonging
+- **Gate 22** (Grace/Openness) — The Gate of listening, receptivity, allowing beauty to flow through
+- **Gate 36** (Crisis/Darkening of the Light) — The Gate of emotional depth, the willingness to feel the full spectrum
+- **Gate 49** (Revolution/Principles) — The Gate of emotional rejection or acceptance, the right to say "yes" or "no" from the heart
+- **Gate 55** (Spirit/Abundance) — The Gate of emotional richness, the capacity to feel deeply and trust the wave
+
+When the Emotional Solar Plexus is **defined** (consistent access to emotional processing), Haniel's intelligence operates as **Emotional Authority**—the capacity to make aligned decisions by waiting through the emotional wave until clarity emerges. When **undefined** (open, absorbing the emotions of others), Haniel's intelligence requires **discernment**—learning to recognize which emotions are one's own and which are the collective's.
+
+### The Sacral Center: Life Force and Generative Power
+
+Haniel also corresponds to the **[[Sacral]] Center**—the center of **life force, vitality, fertility, and creative power**. This is the generator motor, the sustainable energy that builds, creates, and sustains. The Sacral governs:
+
+- **Fertility** (literal and metaphorical—conception, creation, growth)
+- **Response** (the body's "uh-huh" or "uh-uh," the visceral yes or no)
+- **Vitality** (the life force that nourishes and sustains)
+- **Creative power** (the capacity to bring forth beauty, art, children, gardens)
+
+Haniel's intelligence in the Sacral Center manifests as the **joyful response to beauty**, the body's instinctive recognition of what is life-affirming, what is worthy of devotion. This is the Sacral's "yes" to love, to creation, to the beloved.
+
+### The Spleen Center: Intuitive Survival and Aesthetic Knowing
+
+In some attributions, Haniel also touches the **[[Spleen]] Center**—the center of **intuition, immune function, survival instinct, and in-the-moment awareness**. The Spleen is the oldest awareness center in the bodygraph, operating in the **now** with split-second recognition of what is healthy or unhealthy, beautiful or discordant, life-affirming or life-depleting.
+
+Haniel's intelligence in the Spleen manifests as:
+- **Instinctive recognition of beauty** (the body knows what nourishes it aesthetically, relationally, environmentally)
+- **Relational attunement** (the capacity to sense resonance or dissonance in relationships)
 - **Survival through grace** (not aggression, but adaptation, cooperation, magnetic belonging)
 - **Aesthetic sensitivity** (the ability to create and appreciate beauty as a life-sustaining force)
 
@@ -159,16 +191,16 @@ The Spleen is the body's "yes" or "no" to existence—the same function as Netza
 
 In the **chakra system**, Haniel corresponds to **Anahata**, the **heart chakra**—the center of love, compassion, relationship, and aesthetic sensitivity. This is the chakra where the **individual** (lower three chakras) meets the **universal** (upper three chakras), where personal love expands into transpersonal grace.
 
-When Haniel's intelligence is integrated, the heart opens not sentimentally but **authentically**—capable of both fierce devotion and necessary boundaries, both tender affection and wise discernment.
+When Haniel's intelligence is integrated, the heart opens not sentimentally but **authentically**—capable of both fierce devotion and necessary boundaries, both tender affection and wise discernment. The heart chakra, like Netzach, is the place where the soul learns to **endure in love**, to persist through relational trials, to remain open even after betrayal or loss.
 
 ### The Gift: From Desire to Devotion
 
-In the **[[Gene Keys]]** system, the Spleen center houses Gates 48, 57, 50, 32, 28, 44, and 18. The **57th Gene Key** (Spleen's gate of intuitive clarity) reflects Haniel's journey:
-- **Shadow:** Unease (anxiety, restlessness, inability to trust the body's wisdom)
-- **Gift:** Intuition (clear, split-second knowing, alignment with life force)
-- **Siddhi:** Clarity (transparency, the mind and body as flawless instruments of divine will)
+In the **[[Gene Keys]]** system, the Emotional Solar Plexus houses Gates 6, 37, 22, 36, 49, 55, and 30. The **22nd Gene Key** (Gate of Grace) reflects Haniel's journey most directly:
+- **Shadow:** Dishonor (the inability to listen, the closing of the heart, the refusal of grace)
+- **Gift:** Graciousness (openness, receptivity, the capacity to allow beauty and love to flow through)
+- **Siddhi:** Grace (the state of effortless divine presence, where the soul becomes a flawless vessel for love)
 
-When Haniel's intelligence is integrated, the individual moves from *anxiety about survival* to *trust in divine provision*, from *grasping at pleasure* to *devotion to beauty as sacred*.
+When Haniel's intelligence is integrated, the individual moves from *grasping at pleasure* to *devotion to beauty as sacred*, from *fear of emotional pain* to *trust in the wave*, from *performance of love* to *authentic relational presence*.
 
 ### Tarot Correspondences
 
@@ -183,19 +215,44 @@ When Haniel's intelligence is integrated, the individual moves from *anxiety abo
 | **Seven of Swords** | Moon in Aquarius (Netzach of Air) | **Futility** — Strategic retreat, the limits of intellect alone |
 | **Seven of Pentacles** | Saturn in Taurus (Netzach of Earth) | **Failure** (Crowley) / **Assessment** — Patience, waiting for harvest |
 
-Each Seven shows the **testing of the life force**—the moment when the soul must recommit to its path, align desire with divine will, and persist not through force but through **faith, grace, and the recognition that what is beautiful is worth enduring for**.
+Each Seven shows the **testing of the life force**—the moment when the soul must recommit to its path, align desire with divine will, and persist not through force but through **faith, grace, and the recognition that what is beautiful is worth enduring for**. The Sevens are Netzach in the four worlds: Fire (the courage to persist in will), Water (the endurance through emotional trials), Air (the perseverance of mind when intellect alone fails), Earth (the patience to wait for the harvest, trusting the slow work of growth).
+
+The **Seven of Cups** (Venus in Scorpio) is particularly revelatory of Haniel's shadow: Venus (beauty, desire, pleasure) submerged in Scorpio (the depths, obsession, compulsion) creates the state of **intoxication by desire**—the hallucination of beauty where there is only glamour, the pursuit of shadow pleasures that deplete rather than nourish. This is the test: **Can the soul discern true beauty from false, sacred desire from addiction, love from possession?** Haniel, integrated, is the intelligence that guides the soul *through* the seven cups without drinking from the poisoned chalices.
 
 ### The Empress (III): Mother, Fertility, Beauty
 
 **Vibology Synthesis:** Haniel is deeply associated with **The Empress** (Trump III in the Major Arcana), the archetype of **the Divine Feminine as Mother, Creator, and Embodiment of Beauty**. Wang notes that "the perfectly developed female type is THE EMPRESS," representing the Anima archetype in Jungian terms (Wang, p. 228).
 
 The Empress is:
-- **Crowned with stars** (Venus as the Morning and Evening Star)
-- **Seated in a garden** (the abundance of Netzach)
-- **Holding a scepter** (sovereignty over the natural world)
-- **Pregnant** (fertility, the life force made manifest)
+- **Crowned with twelve stars** (Venus as the Morning and Evening Star, the zodiac, the cycles of time)
+- **Seated in a lush garden** (the abundance of Netzach, the vegetable kingdom in full bloom)
+- **Holding a scepter** (sovereignty over the natural world, rulership through grace rather than force)
+- **Pregnant or full-bodied** (fertility, the life force made manifest, beauty as fecundity not thinness)
+- **Reclining or at ease** (receptivity, the capacity to rest, to allow, to receive)
 
-Haniel is the angelic intelligence behind this archetype—the force that affirms: *"The body is sacred. Pleasure is sacred. Beauty is not frivolous—it is the face of God."*
+The Empress is **Venus enthroned**—beauty not as ornament but as **creative power**, love not as sentiment but as **generative force**. She is the intelligence that says: *"The body is sacred. Pleasure is sacred. Fertility is sacred. Beauty is not frivolous—it is the face of God made visible in form."*
+
+Haniel is the angelic intelligence behind this archetype—the force that ensures creation is not merely functional but **lovely**, that existence is not merely ordered but **delightful**. The Empress's garden (roses, wheat, a flowing river) is Haniel's domain: the place where divine beauty descends into matter, where grace takes root, where the soul is nourished by beauty as much as by bread.
+
+### The Star (XVII): Hope, Grace, Divine Beauty
+
+Haniel also governs **The Star** (Trump XVII in some attributions), the card of:
+- **Hope after devastation** (The Star follows The Tower—grace after destruction)
+- **Divine beauty revealed** (the naked woman pouring water—vulnerability, transparency, gift)
+- **The seven stars** (Netzach as the seventh Sephirah, the seven classical planets, the Pleiades)
+- **Healing waters** (the flow of grace, the restoration of vitality)
+
+The Star is the promise that **beauty endures**, that after the darkest night, the Morning Star (Venus) rises. The figure on the card pours water from two vessels—one onto the earth (embodied grace), one into the pool (emotional/spiritual grace)—symbolizing Haniel's dual attribution to Earth and Water. She is naked (unashamed embodiment), vulnerable (openness without defense), radiant (beauty as essence, not performance).
+
+### Qabalistic Path Connections
+
+Haniel, as the archangel of Netzach, governs the **paths** (on the Tree of Life) that connect Netzach to other Sephiroth:
+
+- **Path of The Empress (Daleth, ד):** Connecting Chokmah (Wisdom) to Binah (Understanding)—though not directly connected to Netzach on the traditional Tree, The Empress's Venusian energy resonates with Haniel's sphere
+- **Path of The Tower (Peh, פ):** Connecting Netzach to Hod—the path of *disruption, revelation, the shattering of illusion*. This is where Haniel's beauty meets Michael's sword, where grace must endure the test of truth.
+- **Path of The Star (Heh, ה):** Connecting Netzach to Yesod (in some systems)—the path of *hope, healing, the descent of grace into the realm of dreams and visions*
+
+These paths teach that **Haniel's beauty is not fragile**—it endures the Tower's lightning strike, it bridges the gap between feeling (Netzach) and form (Hod), it pours healing water into the unconscious (Yesod).
 
 ### Elemental Attribution
 
@@ -262,7 +319,17 @@ Haniel guides the soul from Venus's shadow into its light—from grasping to rec
 - Mediates harmony and reconciliation
 - Rules over gardens, springs, and fertile lands
 
-Like Haniel, Aphrodite is not merely a "goddess of romance"—she is the **cosmic principle of attraction**, the force that binds atoms into molecules, planets into orbits, lovers into union. **Diotima**, in Plato's *Symposium*, teaches that Eros (love) is the ladder by which the soul ascends from physical beauty to divine beauty—the same function Haniel performs.
+Like Haniel, Aphrodite is not merely a "goddess of romance"—she is the **cosmic principle of attraction**, the force that binds atoms into molecules, planets into orbits, lovers into union. **Diotima**, in Plato's *Symposium*, teaches that Eros (love) is the ladder by which the soul ascends from physical beauty to divine beauty—the same function Haniel performs. Aphrodite's sacred animals (the dove, the swan, the sparrow) and plants (the rose, the myrtle, the apple) all symbolize fertility, beauty, and the grace of embodied love. Her dual epithets—*Aphrodite Ourania* (Heavenly Aphrodite, spiritual love) and *Aphrodite Pandemos* (Common Aphrodite, earthly love)—mirror Haniel's function as mediator between divine beauty and material form.
+
+### Inanna/Ishtar (Sumerian/Babylonian): Queen of Heaven and Earth
+
+**Inanna** (Sumerian) / **Ishtar** (Babylonian) is the goddess of:
+- **Love and sexuality** (the sacred prostitute, the divine lover)
+- **War and sovereignty** (the fierce protector, the warrior queen)
+- **The planet Venus** (the Morning and Evening Star)
+- **Fertility and harvest** (ensures abundance of crops and livestock)
+
+Inanna's **Descent into the Underworld**—where she is stripped of all her regalia, dies, and is resurrected—is the archetypal journey of Venus through death and rebirth. Like Haniel at Netzach (Victory through endurance), Inanna teaches that **beauty and love must descend into the depths** to be purified, that grace is won through suffering transmuted. Inanna returns from the underworld not diminished but **empowered**, having integrated the shadow.
 
 ### Hathor (Egyptian): Goddess of Love, Music, and Joy
 
@@ -272,33 +339,44 @@ Like Haniel, Aphrodite is not merely a "goddess of romance"—she is the **cosmi
 - **Fertility and motherhood** (the divine cow who nourishes)
 - **Joy and celebration** (the "Lady of Drunkenness," ecstatic intoxication)
 
-Hathor's iconography—crowned with the solar disk, holding the sistrum (sacred rattle), nursing the pharaoh—mirrors Haniel's function: the **nurturing, beautifying, joy-giving** aspect of the divine.
+Hathor's iconography—crowned with the solar disk between cow horns, holding the sistrum (sacred rattle), nursing the pharaoh—mirrors Haniel's function: the **nurturing, beautifying, joy-giving** aspect of the divine. Her mirror (the *ankh* with a reflective surface) symbolizes **self-knowledge through beauty**—the soul seeing its own divine radiance reflected. Hathor's dual nature as both gentle nurturer and fierce **Sekhmet** (when angered) reflects Netzach's endurance: love that persists, beauty that does not flee from necessary force.
 
-### Freyja (Norse): Goddess of Love, Fertility, and War
+### Freyja (Norse): Goddess of Love, Fertility, and Seidr
 
 **Freyja**, the Norse goddess, governs:
 - **Love and sexuality** (patroness of lovers, invoked for fertility)
-- **Beauty and adornment** (owner of the Brísingamen necklace, the most beautiful jewel)
+- **Beauty and adornment** (owner of the Brísingamen necklace, the most beautiful jewel in the Nine Worlds)
 - **Fertility and harvest** (ensures abundance of crops and livestock)
 - **Battle and sovereignty** (receives half the slain warriors in her hall, Fólkvangr)
+- **Seidr magic** (shamanic practice, prophecy, shape-shifting)
 
-Freyja's dual nature—lover and warrior, nurturer and sovereign—reflects the **full spectrum of Netzach**: life force that persists *through* challenge, beauty that does not flinch from necessary fierceness.
+Freyja's dual nature—lover and warrior, nurturer and sovereign—reflects the **full spectrum of Netzach**: life force that persists *through* challenge, beauty that does not flinch from necessary fierceness. The Brísingamen necklace (acquired by spending four nights with four dwarves) symbolizes that **sacred beauty requires sacrifice, commitment, and the willingness to descend into the forge**. Like Haniel, Freyja teaches that **beauty is power**, not weakness.
+
+### Oshun (Yoruba/Santeria): Goddess of Rivers, Love, and Abundance
+
+**Oshun** (Yoruba) / **Ochún** (Santeria) is the orisha of:
+- **Rivers and fresh water** (flowing grace, life-giving nourishment)
+- **Love and sensuality** (the archetype of the beloved, the one who inspires desire)
+- **Beauty and adornment** (honey, gold, mirrors, perfume)
+- **Fertility and prosperity** (ensures conception, wealth, abundance)
+
+Oshun is depicted dressed in yellow and gold, dancing, adorned with jewelry, carrying a mirror and a pot of honey. Her sacred number is five (the number of Venus in some Qabalistic systems, the pentagram). Like Haniel, Oshun teaches that **sweetness is strength**—that grace, beauty, and love are not passive but actively creative forces. Oshun's myths often involve her **saving the world through beauty and diplomacy** when masculine force fails—the same reconciliatory function Haniel performs at Netzach.
 
 ### Lakshmi (Hindu): Goddess of Wealth, Beauty, and Prosperity
 
 **Lakshmi**, consort of Vishnu, is the goddess of:
-- **Beauty and grace** (the embodiment of divine radiance)
+- **Beauty and grace** (the embodiment of divine radiance, *shri*)
 - **Wealth and prosperity** (not merely material, but spiritual abundance)
 - **Fertility and growth** (ensures the continuation of life)
 - **Harmony and balance** (brings peace to households and kingdoms)
 
-Lakshmi is often depicted seated on a lotus, flanked by elephants, showering gold coins—symbols of abundance, purity, and grace. Like Haniel, Lakshmi teaches that **beauty and prosperity are divine blessings, to be received with gratitude and shared with generosity**.
+Lakshmi is often depicted seated on a lotus, flanked by elephants, showering gold coins—symbols of abundance, purity, and grace. Like Haniel, Lakshmi teaches that **beauty and prosperity are divine blessings, to be received with gratitude and shared with generosity**. The lotus upon which she sits (rooted in mud, blooming above water) symbolizes Haniel's function: **beauty arising from the material world, yet pointing toward the divine**.
 
 ### Sophia (Gnostic): Divine Wisdom as Desire for Union
 
 In Gnostic Christianity, **Sophia** (Wisdom) is the emanation who **desires** to know the Divine, whose longing becomes the impulse for creation. Sophia's "fall" and restoration mirror the Venusian journey from shadow (desire as grasping) to light (desire as devotion).
 
-Haniel, like Sophia, embodies the **sacred longing**—the yearning of the soul for union, the magnetic pull toward the Divine experienced not as cold intellect but as *ache, as beauty, as love*.
+Haniel, like Sophia, embodies the **sacred longing**—the yearning of the soul for union, the magnetic pull toward the Divine experienced not as cold intellect but as *ache, as beauty, as love*. Sophia's restoration through the intervention of Christ (the Logos) parallels Haniel's mediation between Eros and Logos, desire and wisdom.
 
 ### Jungian and Psychological Dimension
 
@@ -310,6 +388,19 @@ Jung describes the Anima as "a feminine aspect of the male psyche," an inner "so
 
 Haniel is the **transpersonal Anima**—the cosmic intelligence that reminds the soul: *"You are not here merely to achieve. You are here to love, to create, to delight, to be delighted in."*
 
+### The Haniel Progression: From Shadow Venus to Sacred Beauty
+
+The integration of Haniel's intelligence follows a developmental arc:
+
+1. **Unconscious Beauty** (the infant's experience of maternal grace, sensory delight without self-consciousness)
+2. **Projection** (beauty and worth located entirely *outside* the self—in lovers, art, nature—leading to dependency)
+3. **Shadow Inflation** (vanity, narcissism, beauty weaponized, pleasure as compulsion)
+4. **Descent** (the loss of external beauty, aging, rejection, betrayal—Venus's dark night)
+5. **Integration** (beauty recognized as *gift*, not possession; love as devotion, not grasping)
+6. **Sacred Embodiment** (the soul as artist, lover, gardener—one who creates and tends beauty as prayer)
+
+This progression mirrors the journey of **Aphrodite rising from the sea**—from formless potential, through material embodiment, into conscious participation in divine beauty.
+
 ### The Tension Between Logos and Eros
 
 Jung distinguished between:
@@ -318,9 +409,27 @@ Jung distinguished between:
 
 A psyche dominated by Logos alone becomes **rigid, cold, disconnected**. A psyche dominated by Eros alone becomes **chaotic, boundary-less, overwhelmed by feeling**. **Individuation** requires the integration of both—the marriage of reason and love, structure and flow, Michael and Haniel.
 
+The Eros principle, mediated by Haniel, is not sentimentality or romantic escapism—it is the **connective intelligence** that allows the psyche to relate, to create, to participate in the world not as subject analyzing object, but as **lover meeting beloved**. Without Eros, the soul becomes a machine; with Eros unintegrated, the soul dissolves into the collective.
+
+### Shadow Work: Beauty as Bypass vs. Beauty as Devotion
+
+Haniel's shadow manifests as **aesthetic bypassing**—the use of beauty, pleasure, and "love and light" rhetoric to avoid necessary confrontation with darkness, pain, or truth. This is the "spiritual Instagram" syndrome—the performance of grace without depth, the cultivation of surface beauty while the inner garden lies fallow.
+
+True Haniel integration requires **discernment**: beauty that arises from wholeness (including shadow work) versus beauty that masks fragmentation. The rose has thorns; Venus owns both the dove and the serpent. Haniel teaches the soul to honor beauty without using it as armor against reality.
+
 ### Projection vs. Autonomous Reality
 
 From a Jungian perspective, is Haniel "real" or merely a projection of the unconscious? Jung would say: **both**. Haniel is a **psychoid archetype**—a figure that exists both in the objective psyche (the collective unconscious) and in the transpersonal realms. To invoke Haniel is to activate this archetype, whether one conceives of it as an "angel" or an "inner intelligence."
+
+### Practical Psychological Application: Aesthetic Therapy
+
+Haniel's integration can be practiced through **aesthetic therapy**—the conscious use of beauty, sensory delight, and relational harmony as healing modalities:
+- **Art therapy** (creating beauty as a way of processing emotion, trauma, or archetypal material)
+- **Music therapy** (harmonizing the nervous system through sound)
+- **Horticultural therapy** (gardening as spiritual practice, tending the outer garden to restore the inner)
+- **Relational attunement** (learning to offer presence, kindness, and grace in relationships as a form of love-in-action)
+
+Haniel reminds the therapeutic process: healing is not only analysis and insight (Logos), but also **rest, delight, beauty, and belonging** (Eros).
 
 ### The Gift of Integration
 
@@ -350,27 +459,35 @@ The shift from **desire as grasping** to **desire as devotion**. The lover who l
 
 ### Metatron (Kether): The Crown
 
-[[Metatron]] stands at Kether, the undifferentiated unity. Haniel stands at Netzach, the sphere where divine unity becomes *desirable, beautiful, worthy of love*. Metatron mediates the **divine will**; Haniel mediates the **divine allure**.
+[[Metatron]] stands at Kether, the undifferentiated unity—pure divine will, white brilliance beyond form. Haniel stands at Netzach, the sphere where divine unity becomes *desirable, beautiful, worthy of love*. Metatron mediates the **divine will** ("Let there be"); Haniel mediates the **divine allure** ("It is good"). Where Metatron is the architect of the blueprint, Haniel is the artist who makes the creation *lovely*, who ensures that existence is not merely ordered but **delightful**. Metatron commands; Haniel invites.
 
 ### Raziel (Chokmah): The Revealer of Patterns
 
-[[Raziel]] at Chokmah offers the **flash of insight**, the revelation of divine structure. Haniel at Netzach asks: *"But does this insight inspire love? Does it call forth devotion? Does it make the soul say yes?"* Raziel reveals; Haniel attracts.
+[[Raziel]] at Chokmah offers the **flash of insight**, the revelation of divine structure—the lightning bolt of wisdom, the pattern behind all phenomena. Haniel at Netzach asks: *"But does this insight inspire love? Does it call forth devotion? Does it make the soul say yes?"* Raziel reveals the *blueprint*; Haniel reveals the **beauty** of that blueprint. Without Raziel, Haniel's beauty becomes sentimental decoration; without Haniel, Raziel's wisdom becomes cold abstraction. Together, they teach: **truth is beautiful, and beauty is true**.
 
 ### Tzaphkiel (Binah): The Divine Mother
 
-[[Tzaphkiel]] governs Binah, the Supernal Mother who gives **form and structure**. Haniel receives these forms and asks: *"Are they beautiful? Do they inspire love? Will they endure?"* Tzaphkiel shapes; Haniel adorns.
+[[Tzaphkiel]] governs Binah, the Supernal Mother who gives **form and structure**, the great womb that receives the seed of Chokmah and gestates it into manifestation. Haniel receives these forms and asks: *"Are they beautiful? Do they inspire love? Will they endure?"* Tzaphkiel is the **necessity** of form (the boundaries that make existence possible); Haniel is the **grace** of form (the beauty that makes existence *desirable*). Tzaphkiel shapes the vessel; Haniel fills it with flowers. Their relationship is that of potter and gardener—structure and adornment, containment and overflow.
+
+### Tzadkiel (Chesed): The King of Mercy
+
+[[Tzadkiel]] at Chesed governs **expansion, abundance, benevolence**—the overflowing generosity of the divine, the principle of *more*. Haniel at Netzach governs **attraction, beauty, endurance**—the principle of *what is worth preserving*. Tzadkiel gives freely; Haniel cultivates what is given. Together, they form the axis of grace: Tzadkiel's blessing descends as abundance; Haniel's intelligence ensures that abundance is **received, tended, and beautified**. Without Tzadkiel, Haniel becomes miserly (beauty hoarded, love withheld); without Haniel, Tzadkiel becomes wasteful (abundance scattered without care).
+
+### Kamael (Geburah): The Sword of Severity
+
+[[Kamael]] at Geburah is Haniel's **polar opposite** on the Tree—severity to Haniel's mercy, destruction to Haniel's cultivation, the sword to the rose. Kamael governs **necessary force, boundaries, purification through fire**. Haniel governs **nurturance, flow, beautification**. Yet they are complementary: Kamael **prunes the garden** so that the roses bloom more vibrantly; Haniel **softens the warrior** so that strength does not become tyranny. Their dynamic tension creates **sustainable beauty**—the rose protected by thorns, the garden tended by discernment. Kamael asks, *"What must be cut away?"*; Haniel asks, *"What must be preserved?"*
 
 ### Raphael (Tiphareth): The Solar Heart
 
-[[Raphael]] at Tiphareth is the **Higher Self**, the solar heart. Haniel at Netzach is the **desire** that propels the soul toward that solar center—the longing for wholeness, the magnetic pull toward integration. Raphael heals; Haniel inspires the *will to be healed*.
+[[Raphael]] at Tiphareth is the **Higher Self**, the solar heart, the reconciling center of the Tree. Haniel at Netzach is the **desire** that propels the soul toward that solar center—the longing for wholeness, the magnetic pull toward integration. Raphael heals by **restoring balance**; Haniel heals by **inspiring the will to be whole**. Without desire (Haniel), the soul does not seek healing; without the healer (Raphael), desire remains unfulfilled. Together, they form the axis of restoration: Haniel as the **motivation** (eros, longing, the ache for beauty), Raphael as the **actualization** (the physician who restores what was fragmented).
 
 ### Michael (Hod): The Sword of Discrimination
 
-[[Michael]] at Hod (in some systems) represents **intellect, form, analysis**. Haniel at Netzach represents **feeling, force, synthesis**. Together, they form a **dynamic polarity**—Michael's sword and Haniel's rose, reason and love, structure and flow. Michael discerns; Haniel harmonizes.
+[[Michael]] at Hod (in some systems) represents **intellect, form, analysis, structure**. Haniel at Netzach represents **feeling, force, synthesis, flow**. Together, they form a **horizontal polarity** across the Tree—Michael's sword and Haniel's rose, reason and love, Logos and Eros, structure and vitality. Michael governs the **form** of communication (language, grammar, logic); Haniel governs the **heart** of communication (poetry, song, affection). A psyche dominated by Michael alone becomes rigid, critical, disconnected from feeling; a psyche dominated by Haniel alone becomes chaotic, boundary-less, overwhelmed by emotion. Their integration creates the **artist-scholar**, the **poet-philosopher**, the one who thinks with the heart and feels with the mind.
 
 ### Gabriel (Yesod): The Lunar Messenger
 
-[[Gabriel]] at Yesod receives Haniel's **beauty and desire** and translates them into **dreams, images, and visions**. Where Haniel offers the *experience* of love, Gabriel offers the *vision* of what that love might become. Haniel feels; Gabriel reveals.
+[[Gabriel]] at Yesod receives Haniel's **beauty and desire** and translates them into **dreams, images, and visions**. Where Haniel offers the *experience* of love (the warmth of the beloved's hand, the scent of roses, the ache of longing), Gabriel offers the *vision* of what that love might become (the dream of union, the image of the sacred marriage, the prophecy of the child to be born). Haniel is the **felt reality** of the garden; Gabriel is the **dream** of the garden reflected in the moon-lit pool. Together, they form the path from Netzach to Yesod—from embodied desire to visionary imagination, from Venus to the Moon.
 
 ### Cross-System Correspondences
 
