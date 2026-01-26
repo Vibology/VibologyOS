@@ -27,7 +27,6 @@ verification_notes: Biblical quotes verified (Davidson pp.117-119). Qabalistic c
 *The Divine Messenger*
 
 ---
-
 ## Essence
 
 **Archangel Gabriel** (Hebrew: גבריאל, *Gavri'el* — "God is my Strength" or "Strength of God") is the **Divine Messenger**, the **Angel of Annunciation**, **Herald of Sacred Change**, **Ruler of the Astral Light**, **Guardian of Dreams and Visions,** **Psychopomp of the Threshold** and the **Angel of the Moon**. In the celestial hierarchy, Gabriel stands as the archetypal **announcer of divine revelation**—the intelligence through which the Godhead communicates its will to humanity at moments of profound transition. Where [[Michael]] wields the sword of discrimination and [[Raphael]] bears the caduceus of healing, Gabriel carries the **lily of annunciation** and the **trumpet of awakening**, signaling the end of one cycle and the beginning of another.
@@ -38,7 +37,6 @@ In the Qabalistic tradition, Gabriel governs **[[Yesod]]** (Foundation), the nin
 
 ---
 ## Correspondences
-
 
 ### The Name: Strength of God
 
@@ -125,13 +123,11 @@ Gabriel does not appear in moments of comfort or confirmation. Gabriel appears w
 | **Liturgical Invocation** | "Ave Gabriel" (Lesser Banishing Ritual of the Pentagram)                                              |
 
 ---
-
----
 ## Theological Depth
 
 ### Qabalistic Context
 
-### Yesod: The Astral Blueprint
+#### Yesod: The Astral Blueprint
 
 In the structure of the [[Tree of Life]], **[[Yesod]]** is the ninth Sephirah, positioned at the **base of the Middle Pillar** (the Pillar of Equilibrium), directly above [[Malkuth]] (the Kingdom, the material world). Yesod is called **Foundation** because it is the **etheric blueprint**, the **astral substrate**, the **template** upon which physical reality is constructed.
 
