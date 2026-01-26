@@ -109,7 +109,7 @@ Gabriel does not appear in moments of comfort or confirmation. Gabriel appears w
 | **Element**               | Water (primary—flow, emotion, intuition, the unconscious)                                             |
 | **Direction**             | West (traditional) / North (some traditions)                                                          |
 | **Color**                 | Violet, Purple, Silver, Pale Blue (lunar hues)                                                        |
-| **Tarot**                 | The High Priestess (II), The Moon (XVIII), The Nines (Yesod in all suits)                             |
+| **Tarot**                 | [[The High Priestess]] (II), [[The Moon]] (XVIII), The Nines (Yesod in all suits)                             |
 | **Divine Name**           | Shaddai El Chai (שדי אל חי) — "Almighty Living God"                                                   |
 | **Planetary Day**         | Monday (Day of the Moon)                                                                              |
 | **Biblical Role**         | Messenger, interpreter of visions, announcer of births, herald of the Incarnation                     |
@@ -277,7 +277,7 @@ Gabriel does not *create* the divine will—Gabriel **announces** it. Gabriel do
 
 ### The Sacral Center: Emotional Intelligence and Flow
 
-In the synthesis of Qabalah and **[[Human Design]]**, Gabriel corresponds to the **Sacral Center**—the center of **life force, emotional intelligence, responsiveness, and generative power**. This is the center that says "yes" or "no" in the moment, that responds to life with gut-level knowing, that pulses with creative and sexual energy.
+In the synthesis of Qabalah and **[[Human Design]]**, Gabriel corresponds to the **[[Sacral]] Center**—the center of **life force, emotional intelligence, responsiveness, and generative power**. This is the center that says "yes" or "no" in the moment, that responds to life with gut-level knowing, that pulses with creative and sexual energy.
 
 The Sacral is the **generative womb** of the bodygraph—the source of sustainable energy, the power to create, to build, to bring forth. Gabriel's intelligence manifests in the human vehicle as:
 - **Intuitive responsiveness** (the capacity to feel one's way through life)
@@ -663,7 +663,7 @@ The **[[Tarot]]** High Priestess (II), The Moon (XVIII), and the Nines are Gabri
 
 ### Human Design: The Sacral Center and Emotional Authority
 
-In **[[Human Design]]**, Gabriel corresponds to the **Sacral Center** (generative life force) and **Emotional Authority** (the wave of emotional clarity over time). When the Sacral is defined, the individual has consistent access to creative energy; when undefined, they must learn to wait for clarity before committing. Gabriel teaches: *Trust the gut. Honor the wave. Do not force. Wait for the inner yes.*
+In **[[Human Design]]**, Gabriel corresponds to the **[[Sacral]] Center** (generative life force) and **Emotional Authority** (the wave of emotional clarity over time). When the Sacral is defined, the individual has consistent access to creative energy; when undefined, they must learn to wait for clarity before committing. Gabriel teaches: *Trust the gut. Honor the wave. Do not force. Wait for the inner yes.*
 
 ### Gene Keys: The 37th Siddhi (Tenderness)
 

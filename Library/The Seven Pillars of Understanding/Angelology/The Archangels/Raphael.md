@@ -243,7 +243,7 @@ Raphael transmits **knowledge**—practical, applicable wisdom. He teaches Tobia
 | **Color (Assiah)** | Gold flecked with rose (Tiphareth) |
 | **Divine Names** | YHVH Eloah va-Daath (יהוה אלוה ודעת) — Tiphareth: "The Lord God of Knowledge"<br>Elohim Tzabaoth (אלהים צבאות) — Hod: "God of Hosts" |
 | **Angelic Choir** | Malachim (מלאכים) — "The Kings" or "The [[Angels]]" (Tiphareth—messengers, mediators)<br>Bene Elohim (בני אלהים) — "Sons of God" (Hod) |
-| **Tarot** | The Lovers (VI) — Choice, union, harmony, healing relationship (Tiphareth attribution in some systems)<br>The Magician (I) — Mercury, communication, skill, practical wisdom (Hod)<br>The Hermit (IX) — Guide, teacher, inner light, solitary wisdom |
+| **Tarot** | [[The Lovers]] (VI) — Choice, union, harmony, healing relationship (Tiphareth attribution in some systems)<br>[[The Magician]] (I) — Mercury, communication, skill, practical wisdom (Hod)<br>[[The Hermit]] (IX) — Guide, teacher, inner light, solitary wisdom |
 | **Astrological** | Mercury (☿) — Communication, travel, medicine, intellect<br>Sun (☉) — Vitality, life-force, radiant health |
 | **Human Design** | [[G Center]] (Identity, Love, Direction) — The heart's knowing, the compass, the guide<br>[[Throat]] Center (Communication, manifestation) — The voice that transmits healing knowledge |
 | **Chakra** | Anahata (Heart Chakra) — Compassion, balance, healing love<br>Vishuddha (Throat Chakra) — Communication, expression, truth |

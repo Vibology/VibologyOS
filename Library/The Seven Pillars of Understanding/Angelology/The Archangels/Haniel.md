@@ -40,7 +40,7 @@ To invoke Haniel is to ask not for abstract spiritual truths but for **the capac
 | **Cosmic Sphere** | Venus (♀) — Love, beauty, harmony, desire, fertility |
 | **Element** | Earth (primary—fertility, embodiment) / Water (secondary—flow, emotion) |
 | **Color** | Emerald Green (life force, growth), Rose Pink (love, grace), Amber (warmth) |
-| **Tarot** | The Sevens (endurance, persistence, tests of faith), The Empress (III—Mother, fertility, beauty) |
+| **Tarot** | The Sevens (endurance, persistence, tests of faith), [[The Empress]] (III—Mother, fertility, beauty) |
 | **Divine Name** | YHVH Tzabaoth (יהוה צבאות) — "The Lord of Hosts" (commander of living armies) |
 | **Planetary Day** | Friday (Dies Veneris, "Day of Venus") |
 | **Aliases** | Anael, Hamiel, Hanael, Aniel, Onoel |
@@ -139,7 +139,7 @@ Haniel mediates between:
 
 ### The Spleen Center: Intuitive Survival and Vitality
 
-In the synthesis of Qabalah and **[[Human Design]]**, Haniel corresponds to the **Spleen Center**—the center of **intuition, immune function, survival instinct, and vitality**. This is the oldest awareness center in the bodygraph, operating in the **now** with split-second recognition of what is healthy or unhealthy, safe or dangerous, life-affirming or life-depleting.
+In the synthesis of Qabalah and **[[Human Design]]**, Haniel corresponds to the **[[Spleen]] Center**—the center of **intuition, immune function, survival instinct, and vitality**. This is the oldest awareness center in the bodygraph, operating in the **now** with split-second recognition of what is healthy or unhealthy, safe or dangerous, life-affirming or life-depleting.
 
 The Spleen is the body's "yes" or "no" to existence—the same function as Netzach. Haniel's intelligence manifests in the human vehicle as:
 - **Instinctive recognition of beauty** (the body knows what nourishes it)
@@ -452,7 +452,7 @@ The **[[Tarot]]** Sevens (endurance, persistence, tests of faith) and **The Empr
 
 ### Human Design: The Spleen Center
 
-In **[[Human Design]]**, Haniel corresponds to the **Spleen Center**—intuition, immune function, survival, vitality. When the Spleen is defined, the individual has consistent access to instinctive knowing; when undefined, they are sensitive to the collective fear field and must learn to trust their body's "yes" and "no."
+In **[[Human Design]]**, Haniel corresponds to the **[[Spleen]] Center**—intuition, immune function, survival, vitality. When the Spleen is defined, the individual has consistent access to instinctive knowing; when undefined, they are sensitive to the collective fear field and must learn to trust their body's "yes" and "no."
 
 ### Gene Keys: The 57th Siddhi (Clarity)
 

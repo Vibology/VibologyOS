@@ -155,7 +155,7 @@ Raziel does not *create* the patterns—God does. But Raziel **reveals** them. H
 
 ### The Ajna Center: The Third Eye
 
-In the synthesis of Qabalah and **[[Human Design]]**, Raziel corresponds to the **Ajna Center**—the center of conceptualization, mental clarity, and inspiration. This is the "third eye," the seat of the intuitive intellect. (Note: The Angelic Architecture of the BodyGraph maps the Cherubim/Auphanim, the angelic order of Chokmah, directly to the Ajna Center.)
+In the synthesis of Qabalah and **[[Human Design]]**, Raziel corresponds to the **[[Ajna]] Center**—the center of conceptualization, mental clarity, and inspiration. This is the "third eye," the seat of the intuitive intellect. (Note: The Angelic Architecture of the BodyGraph maps the Cherubim/Auphanim, the angelic order of Chokmah, directly to the Ajna Center.)
 
 The Ajna is not the *logical* mind (that is the lower mental faculties). It is the **flash of insight**, the sudden recognition of a pattern, the "Aha!" moment when disparate pieces of information suddenly cohere into a unified vision.
 
@@ -214,7 +214,7 @@ This fire does not warm—it *illuminates*. It does not comfort—it *reveals*. 
 
 ### Air: The Secondary Attribution
 
-Raziel's secondary element is **Air**, reflecting his governance of the **Ajna Center** (mental consciousness) and his association with the **King of Swords** (Fire of Air—the flash of intellectual insight).
+Raziel's secondary element is **Air**, reflecting his governance of the **[[Ajna]] Center** (mental consciousness) and his association with the **King of Swords** (Fire of Air—the flash of intellectual insight).
 
 Air represents the realm of **Ruach** (the intellect, the thinking mind). Raziel mediates between the fiery spark of Chokmah and the airy formulation of thought. He is the bridge between **inspiration** (Fire) and **articulation** (Air).
 

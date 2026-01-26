@@ -40,7 +40,7 @@ Kamael is not a comforting presence. He does not soothe, heal, or console. Kamae
 | **Direction** | South (in some traditions) or no fixed direction (transcendent force) |
 | **Day of Week** | Tuesday (Mars day — *Dies Martis*) |
 | **Color** | Red, scarlet, deep crimson (blood, fire, sacrifice) |
-| **Tarot** | The Fives (Geburah in four suits), The Tower (XVI) — sudden destruction |
+| **Tarot** | The Fives (Geburah in four suits), [[The Tower]] (XVI) — sudden destruction |
 | **Number** | Five (the number of severity, testing, conflict) |
 | **Aliases** | Camael, Chamuel, Khamael, Qemuel, Samael (controversial) |
 | **Human Faculty** | Will-to-Power, Courage, Discernment, Necessary Destruction |
@@ -228,7 +228,7 @@ Kamael is this fire. He does not destroy the soul—he destroys the **dross**, t
 
 ### The Solar Plexus and the Sacral: Martian Centers
 
-In the synthesis of Qabalah and **[[Human Design]]**, Kamael corresponds to the **Solar Plexus Center** (emotional power, waves of feeling) and the **Sacral Center** (life force, sexual energy, raw power).
+In the synthesis of Qabalah and **[[Human Design]]**, Kamael corresponds to the **[[Solar Plexus]] Center** (emotional power, waves of feeling) and the **[[Sacral]] Center** (life force, sexual energy, raw power).
 
 Mars governs:
 - **Assertion** (the capacity to say "I want" and *act* on it)
@@ -559,7 +559,7 @@ When Mars is well-aspected in the natal chart, the individual has access to **he
 
 ### Human Design (Vibology Synthesis)
 
-Kamael corresponds to the **Solar Plexus Center** (emotional authority, the wave, passion) and the **Sacral Center** (life force, sexuality, generative power). Gates 6, 37, 22, 36, 30 (emotional wave) and Gates 5, 14, 29, 59, 27 (sacral power) carry Kamael's frequency.
+Kamael corresponds to the **[[Solar Plexus]] Center** (emotional authority, the wave, passion) and the **[[Sacral]] Center** (life force, sexuality, generative power). Gates 6, 37, 22, 36, 30 (emotional wave) and Gates 5, 14, 29, 59, 27 (sacral power) carry Kamael's frequency.
 
 ### Gene Keys: The Reactive Gene Keys
 
