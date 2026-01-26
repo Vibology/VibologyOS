@@ -28,17 +28,21 @@
 
 **Dead Wikilink Resolution (2026-01-26):**
 - ✅ Built normalization script mapping 778 Library files to wikilink references
-- ✅ Fixed 130 dead wikilinks across 9 angelic order files using Obsidian alias syntax
+- ✅ Fixed 139 dead wikilinks across 9 angelic order files using Obsidian alias syntax
 - ✅ Comprehensive Library search verified existing files (Qlippoth, Pillar of Mercy, Daath, Ain Soph Aur/Ein Sof)
 - ✅ Created 19 high/medium-priority stub files in appropriate Library categories
-- ✅ Added wikilink aliases for files with alternate names (Individuation Process, Conjunction, The Shadow, Pathworking)
-- ✅ Reduced dead links: 233 → 103 (55.8% reduction, 130 links fixed)
+- ✅ Added wikilink aliases for files with alternate names (Individuation Process, Conjunction, The Shadow, Pathworking, HD Centers)
+- ✅ Fixed all 9 Human Design Center links (Head, Throat, G Center, Heart, Sacral, Root, Ajna, Spleen, Solar Plexus)
+- ✅ Improved script to handle existing alias syntax (preserves display text while fixing link targets)
+- ✅ Reduced dead links: 233 → 94 (59.7% reduction, 139 links fixed)
 - ✅ All 7 high-priority links resolved (Lucifer, Guardian Angel, Divine Names, Merkabah Mysticism, Path 25, Pillar of Severity, The Abyss)
-- 📊 Remaining 103 dead links: Lower-priority files not yet created
-  - Mythology entries (Zeus, Athena, Thor, Durga, etc.)
-  - Synthesis topics (Christ Consciousness, Mystical Union)
-  - HD/Astrology cross-refs (specific Centers, Houses, etc.)
-  - Cultural concepts (Bodhisattvas, Amesha Spentas, etc.)
+- 📊 Remaining 94 dead links: Lower-priority forward references
+  - Mythology entries (Zeus, Athena, Thor, Durga, etc.) - 20+
+  - Synthesis topics (Christ Consciousness, Mystical Union, Mars/Heart, Venus/Spleen) - 10+
+  - HD section references (Defined/Undefined variations) - 3
+  - Astrology details (transits, specific aspects) - 5+
+  - Cultural concepts (Bodhisattvas, Amesha Spentas, etc.) - 15+
+  - Miscellaneous forward references - 40+
 
 **Commits:**
 - bd88371: Fix Hebrew name formatting (4 files)
@@ -49,11 +53,12 @@
 - b5d3de0: Fix 80 dead wikilinks using alias syntax (normalize_angelic_wikilinks.py)
 - 01dcc51: Fix 2 additional high-priority wikilinks (Ein Sof, Pillar of Mercy)
 - e91dac7: Create 19 high/medium-priority stub files + fix 48 more wikilinks
-- 7643646, bcc7ce9: Update NEXT.md with progress documentation
+- 7f2a719: Fix 9 Human Design Center wikilinks + improve script logic for existing aliases
+- 7643646, bcc7ce9, 4f04c73: Update NEXT.md with progress documentation
 
 **Sources Verified:** NotebookLM confirmed Wang p.115, 266; Davidson p.336-337
 
-**Status:** Angelology structural consistency complete ✅ | Dead link resolution: 55.8% complete (130/233 fixed, 19 stub files created, 103 lower-priority links remain)
+**Status:** Angelology structural consistency complete ✅ | Dead link resolution: 59.7% complete (139/233 fixed, 19 stub files created, 94 forward references remain)
 
 ---
 
