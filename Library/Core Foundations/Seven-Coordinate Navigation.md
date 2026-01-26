@@ -22,7 +22,7 @@ Each of the **Seven Pillars** provides a distinct vantage point:
 - **Where you are now** (current location)
 - **Where you are going** (destination)
 
-No single system tells the whole story. [[Astrology]] reveals *when* and *where* in cosmic cycles. [[Human Design]] reveals *how* you are mechanically configured. [[Tarot]] reveals *what* archetypal forces are active. [[Angelology]] reveals the *hierarchical consciousness structure* through which all patterns descend. [[Personal Mythos]] reveals the *cultural and psychological narratives* that shape your journey. [[The Window]] reveals contemporary archetypal resonances via I-Ching and Gene Keys. **[[The Magdalene Path]]** unifies all seven into a single vertical ascent.
+No single system tells the whole story. [[Astrology]] reveals *when* and *where* in cosmic cycles. [[Human Design]] reveals *how* you are mechanically configured. [[The Tarot]] reveals *what* archetypal forces are active. [[Angelology]] reveals the *hierarchical consciousness structure* through which all patterns descend. [[Personal Mythos]] reveals the *cultural and psychological narratives* that shape your journey. [[The Window]] reveals contemporary archetypal resonances via I-Ching and Gene Keys. **[[The Magdalene Path]]** unifies all seven into a single vertical ascent.
 
 This is not syncretism for its own sake—it is **triangulated gnosis**: using multiple systems to verify, deepen, and cross-reference insights until the **Third Meaning** emerges that no single system could reveal alone. These are not seven _different_ destinations, but seven _simultaneous lenses_ required to view a single, complex object (the soul) that is otherwise invisible from any one perspective.
 
@@ -293,7 +293,7 @@ The power of Seven-Coordinate Navigation is **triangulation**—using multiple s
 
 **Astrology:** Pluto is transiting your 10th House (career, public identity), squaring natal Sun in the 7th House (relationships). This is a **death-rebirth initiation** lasting ~2 years, dismantling false identities.
 
-**Tarot:** The Tower (XVI) is active—Mars energy, sudden destruction of what was built on false foundations. The Tower clears space for [[The Star]] (XVII)—hope, renewal, cosmic guidance.
+**Tarot:** The Tower (XVI) is active—Mars energy, sudden destruction of what was built on false foundations. The Tower clears space for [[The Star (XVII)]]—hope, renewal, cosmic guidance.
 
 **Human Design:** Your chart shows Gate 51 (Shock) defined in the Heart Center. You are **designed for initiatory shocks** that awaken consciousness. But you've been living as a Projector waiting for invitation while your undefined Sacral has been saying "no" to misaligned work. The collapse is the correction.
 
@@ -444,7 +444,7 @@ Until then: navigate with all seven.
 - [[Personal Mythos]] - Archetypal narratives and psychological patterns
 - [[Human Design]] - Mechanical configuration and somatic authority
 - [[The Magdalene Path]] - Vertical soul ascent and sacred feminine
-- [[Tarot]] - Qabalistic pathways and archetypal visualization
+- [[The Tarot]] - Qabalistic pathways and archetypal visualization
 - [[The Window]] - Contemporary I-Ching and Gene Keys framework
 
 ### Synthesis Practices
