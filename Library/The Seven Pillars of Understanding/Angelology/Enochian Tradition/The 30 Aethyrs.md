@@ -13,7 +13,7 @@ verification_source: "Davidson (Dictionary of Angels), Crowley (Vision and the V
 
 ---
 ## Essence
-The **30 Aethyrs** (also called Aires or Ethers) are concentric spheres of consciousness revealed to [[John Dee and Edward Kelley]] as part of the complete [[Enochian System Overview|Enochian system]]. Each Aethyr represents a **distinct level of reality**, ascending from the densest material manifestation (30th Aethyr, TEX) to the highest divine unity (1st Aethyr, LIL).
+The **30 Aethyrs** (also called Aires or Ethers) are concentric spheres of consciousness revealed to [[John Dee and Edward Kelley]] as part of the complete [[Enochian Tradition|Enochian system]]. Each Aethyr represents a **distinct level of reality**, ascending from the densest material manifestation (30th Aethyr, TEX) to the highest divine unity (1st Aethyr, LIL).
 
 **Key Characteristics:**
 
@@ -652,7 +652,7 @@ The Aethyrs are not a doctrine to believe but a **journey to undertake**. They d
 ---
 ## Cross-References
 ### Within Enochian
-- [[Enochian System Overview]] — Complete introduction to Enochian magic
+- [[Enochian Tradition]] — Complete introduction to Enochian magic
 - [[The Four Watchtowers]] — Source of the 91 Governors
 - [[Enochian Language and the 48 Keys]] — The 19th Call used to invoke Aethyrs
 - [[John Dee and Edward Kelley]] — Historical context of the revelation
