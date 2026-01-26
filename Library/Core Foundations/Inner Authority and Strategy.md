@@ -67,7 +67,7 @@ Emotional Authority beings become **masters of discernment**—they know the dif
 > *Vibology Synthesis: The following correspondences are original integrations.*
 
 - **[[Angelology]]:** The [[Virtues]] (Tiphareth)—the emotional wave integrates opposites into beauty and harmony
-- **[[Tarot]]:** [[Temperance]] (XIV)—the alchemical process of mixing and waiting for the elixir to emerge
+- **[[The Tarot]]:** [[Temperance (XIV)]]—the alchemical process of mixing and waiting for the elixir to emerge
 - **[[Astrology]]:** Moon phases—honoring cyclical knowing rather than linear urgency
 
 ### 2. Sacral Authority (Sacral Defined, Solar Plexus Undefined)
@@ -106,7 +106,7 @@ Sacral beings who honor their Authority become **generative powerhouses**—they
 > *Vibology Synthesis: The following correspondences are original integrations.*
 
 - **[[Angelology]]:** The [[Archangels]] (Hod)—direct messengers of divine will, the gut "decree"
-- **[[Tarot]]:** [[Strength]] (VIII)—the lion (instinct) guided gently, not forced
+- **[[The Tarot]]:** [[Strength (VIII)]]—the lion (instinct) guided gently, not forced
 - **[[Astrology]]:** Mars in its pure, responsive form—action arising from authentic impulse
 
 ### 3. Splenic Authority (Spleen Defined, Sacral and Solar Plexus Undefined)
@@ -146,7 +146,7 @@ Splenic Authority beings who trust their hits become **masters of the moment**�
 > *Vibology Synthesis: The following correspondences are original integrations.*
 
 - **[[Angelology]]:** The [[Principalities]] (Netzach)—guardians of collective identity, knowing what belongs
-- **[[Tarot]]:** [[The High Priestess]] (II)—silent knowing, the veil between worlds
+- **[[The Tarot]]:** [[The High Priestess (II)]]—silent knowing, the veil between worlds
 - **[[Astrology]]:** Uranus—sudden insight, lightning-fast downloads
 
 ### 4. Ego Authority (Heart/Ego Defined, Lower Centers Undefined)
@@ -188,7 +188,7 @@ Ego Authority beings who honor their will become **pillars of reliability**—wh
 > *Vibology Synthesis: The following correspondences are original integrations.*
 
 - **[[Angelology]]:** The [[Powers]] (Geburah)—strength, judgment, the sword that cuts away the unnecessary
-- **[[Tarot]]:** [[The Emperor]] (IV)—sovereign will, material mastery
+- **[[The Tarot]]:** [[The Emperor (IV)]]—sovereign will, material mastery
 - **[[Astrology]]:** Mars in Capricorn—disciplined, strategic will
 
 ### 5. Self-Projected Authority (G-Center Defined to Throat, All Motors Undefined)
@@ -223,7 +223,7 @@ Self-Projected beings who honor their need to speak become **articulate knowers 
 > *Vibology Synthesis: The following correspondences are original integrations.*
 
 - **[[Angelology]]:** The [[Dominations]] (Chesed)—sovereignty, self-knowledge, true lordship
-- **[[Tarot]]:** [[The Lovers]] (VI)—choice revealed through relationship and communication
+- **[[The Tarot]]:** [[The Lovers (VI)]]—choice revealed through relationship and communication
 - **[[Astrology]]:** Mercury in Gemini—truth through speaking
 
 ### 6. Mental/Environmental Authority (All Motors and Spleen Undefined)
@@ -260,7 +260,7 @@ Mental Authority beings who honor their process become **synthesizers of collect
 > *Vibology Synthesis: The following correspondences are original integrations.*
 
 - **[[Angelology]]:** The [[Cherubim]] (Chokmah)—wheels within wheels, omniscient perspective
-- **[[Tarot]]:** [[The Hermit]] (IX)—seeking wisdom through contemplation and counsel
+- **[[The Tarot]]:** [[The Hermit (IX)]]—seeking wisdom through contemplation and counsel
 - **[[Astrology]]:** Mercury retrograde—revisiting, reconsidering, refining through repetition
 
 ### 7. Lunar Authority (All Centers Undefined)
@@ -297,7 +297,7 @@ Reflectors who honor their lunar cycle become **profound judges of correctness**
 > *Vibology Synthesis: The following correspondences are original integrations.*
 
 - **[[Angelology]]:** The [[Seraphim]] (Kether)—pure contemplation, beyond action
-- **[[Tarot]]:** [[The Moon]] (XVIII)—cyclical knowing, the long initiation
+- **[[The Tarot]]:** [[The Moon (XVIII)]]—cyclical knowing, the long initiation
 - **[[Astrology]]:** The Moon itself—honoring the full cycle
 
 ---
@@ -492,16 +492,16 @@ The third shadow: **fear of what Authority reveals**:
 - [[Techgnosis]] - Authority grounds AI-accelerated synthesis
 
 ### Human Design System
-- [[Strategy and Authority]] - The foundational mechanics
+- [[Strategy]] and [[Authority]] - The foundational mechanics
 - [[The BodyGraph]] - Visual map of centers determining Authority
 - [[Centers]] - Defined vs. undefined centers and their intelligence
 - [[Types]] - The four Type strategies
 - [[Deconditioning]] - The 7-year process of living your design
 
 ### Cross-System Integration
-- **Jungian Psychology:** [[Individuation]] - Authority as the voice of the Self
-- **Tarot:** [[The Hermit]] (Mental Authority), [[Strength]] (Sacral Authority), [[The High Priestess]] (Splenic Authority)
-- **Astrology:** [[Moon]] (Emotional Authority), [[Mars]] (Sacral Authority), [[Uranus]] (Splenic Authority)
+- **Jungian Psychology:** [[Individuation Process]] - Authority as the voice of the Self
+- **Tarot:** [[The Hermit (IX)]] (Mental Authority), [[Strength (VIII)]] (Sacral Authority), [[The High Priestess (II)]] (Splenic Authority)
+- **Astrology:** [[Moon ☽]] (Emotional Authority), [[Mars ♂]] (Sacral Authority), [[Uranus ♅]] (Splenic Authority)
 - **Angelology:** Each Authority corresponds to angelic orders embodied in centers
 
 ---
@@ -526,4 +526,3 @@ Ra Uru Hu. *The Definitive Book of Human Design*. HDC Publishing, 2011.
 - "The moment your mind stops making decisions you actually get a life"
 - Mind = Outer Authority (information); Body = Inner Authority (decisions)
 
----

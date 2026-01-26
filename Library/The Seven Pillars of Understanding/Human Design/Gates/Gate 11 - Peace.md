@@ -34,7 +34,7 @@ The keynote is **ideas seeking expression**. This is the Ajna's capacity to gene
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 11 |
-| **I-Ching Hexagram** | 11 - 泰 Peace / Standstill Resolved |
+| **I-Ching Hexagram** | 11 - ䷊ Peace / Standstill Resolved |
 | **Center** | Ajna (Mind, Conceptualization, Awareness) |
 | **Circuitry** | Individual - Knowing Circuit (Mutation) |
 | **Channel** | 11-56 (Curiosity) - Ajna to Throat |

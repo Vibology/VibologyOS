@@ -34,7 +34,7 @@ The keynote here is **influence through friction**. Leadership emerges when the 
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 31 |
-| **I-Ching Hexagram** | 31 - 咸 Influence / Wooing |
+| **I-Ching Hexagram** | 31 - ䷞ Influence / Wooing |
 | **Center** | Throat (Manifestation, Expression) |
 | **Circuitry** | Collective - Logic Circuit (Pattern Recognition) |
 | **Channel** | 31-7 (The Alpha) - Throat to G Center |

@@ -445,7 +445,7 @@ The forest is the **Nigredo** (blackening), the first alchemical stage:
 
 ### The Hermit (IX) – Voluntary Withdrawal
 
-**[[9 - The Hermit|The Hermit]]** embodies the **conscious choice** to enter the forest:
+**[[The Hermit (IX)|The Hermit]]** embodies the **conscious choice** to enter the forest:
 
 - **The lantern** – The Hermit carries his own light into the darkness; he does not wait for the sun (external validation) but **illuminates from within**
 - **Solitude as path** – He withdraws **not from misanthropy** but from the recognition that **truth cannot be found in crowds**
@@ -455,7 +455,7 @@ The forest is the **Nigredo** (blackening), the first alchemical stage:
 
 ### The Moon (XVIII) – The Dark Forest of Illusion
 
-**[[18 - The Moon|The Moon]]** is the forest at **night**—the realm of **fear, illusion, and projection**:
+**[[The Moon (XVIII)|The Moon]]** is the forest at **night**—the realm of **fear, illusion, and projection**:
 
 - **The path between the towers** – The narrow way through the forest, flanked by **wolf and dog** (wild instinct vs. domesticated instinct)
 - **The crayfish** – Emerging from the depths (the unconscious, the swamp), the **primordial life** that preceded consciousness
@@ -608,7 +608,7 @@ The forest teaches that **consciousness requires periodic withdrawal**:
 [[Nigredo]] • [[Albedo]] • [[Rubedo]] • [[Calcinatio]] • [[Dissolution]] • [[Coagulation]] • [[Conjunction]] • [[Fermentation]] • [[Distillation]]
 
 **Tarot Keys:**
-[[9 - The Hermit]] • [[18 - The Moon]] • [[17 - The Star]] • [[13 - Death]] • [[0 - The Fool]] • [[2 - The High Priestess]] • [[15 - The Devil]] • [[16 - The Tower]] • [[19 - The Sun]]
+[[The Hermit (IX)]] • [[The Moon (XVIII)]] • [[The Star (XVII)]] • [[Death (XIII)]] • [[The Fool (0)]] • [[The High Priestess (II)]] • [[The Devil (XV)]] • [[The Tower (XVI)]] • [[The Sun (XIX)]]
 
 #### Mythology
 [[Greek Mythology]] • [[Norse Mythology]] • [[Slavic and Eastern European Mythology]] • [[Native American Mythology]] • [[Celtic Mythology]] • [[Japanese Mythology]]

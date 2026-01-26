@@ -880,7 +880,7 @@ The **Grail/Cauldron** is the **alembic**—the vessel where all operations occu
 - [[Native American Mythology]] (Hollow hills, ancestor reverence, head cult)
 
 ### Tarot
-- [[The Fool]] (Parzival naive, Merlin's madness)
+- [[The Fool (0)]] (Parzival naive, Merlin's madness)
 - [[The Magician]] (Merlin as psychopomp, shapeshifter)
 - [[The High Priestess]] (Sovereignty Goddess, Grail Bearer)
 - [[The Empress]] (Brigid, Land as Mother)

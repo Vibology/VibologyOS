@@ -112,8 +112,8 @@ When The Great Mother appears in a reading, the querent is being tested: will yo
 - [[Hexagram 27]] - I-Ching hexagram
 - [[Gene Key 27]] - Selfishness → Altruism → Selflessness
 - [[Taurus ♉]] - Astrological sustainer and builder
-- [[3 - The Empress]] - Tarot correspondence to nurturing abundance
-- [[2 - The High Priestess]] - Tarot's receptive feminine wisdom
+- [[The Empress (III)]] - Tarot correspondence to nurturing abundance
+- [[The High Priestess (II)]] - Tarot's receptive feminine wisdom
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

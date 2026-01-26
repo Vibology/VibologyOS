@@ -128,7 +128,7 @@ Joy is the antidote to Sea's shadow states—particularly numbness and dissatisf
 - [[Heartbreak]] - Gate 36 shadow in House of the Sea (opposite pole)
 - [[Root Center]] - Pressure and drive toward engagement
 - [[Collective Logic Circuit]] - Pattern-based vitality
-- [[19 - The Sun]] - Tarot's pure joy and vital radiance
+- [[The Sun (XIX)]] - Tarot's pure joy and vital radiance
 - [[Ace of Cups]] - Tarot's emotional fullness and capacity to feel
 - [[Jupiter ♃]] - Expansion, abundance, and joyous growth
 - [[Sagittarius ♐]] - Astrological enthusiasm and vital engagement

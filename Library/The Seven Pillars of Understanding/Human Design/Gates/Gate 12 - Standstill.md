@@ -34,7 +34,7 @@ The keynote is **caution as mutative articulation**. This is the Throat's capaci
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 12 |
-| **I-Ching Hexagram** | 12 - 否 Standstill / Stagnation |
+| **I-Ching Hexagram** | 12 - ䷋ Standstill / Stagnation |
 | **Center** | Throat (Manifestation, Action, Communication) |
 | **Circuitry** | Individual - Knowing Circuit (Mutation) |
 | **Channel** | 12-22 (Openness) - Throat to Solar Plexus |

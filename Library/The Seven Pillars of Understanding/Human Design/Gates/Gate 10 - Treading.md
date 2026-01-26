@@ -34,7 +34,7 @@ The keynote is **behavior as self-love**. This is the G Center's capacity to kno
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 10 |
-| **I-Ching Hexagram** | 10 - 履 Treading / Conduct |
+| **I-Ching Hexagram** | 10 - ䷉ Treading / Conduct |
 | **Center** | G Center (Identity, Direction, Love) |
 | **Circuitry** | Integration / Centering Circuit |
 | **Channels** | 10-20 (Awakening), 10-34 (Exploration), 10-57 (Perfected Form) |

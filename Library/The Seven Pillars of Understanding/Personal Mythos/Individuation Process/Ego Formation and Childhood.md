@@ -281,7 +281,7 @@ A **coherent Ego** capable of observing the world without being overwhelmed by i
 - [[Coagulatio]] (elderhood crystallization of wisdom)
 
 **Tarot:**
-- [[0 - The Fool]] (innocent potential, beginning of journey)
+- [[The Fool (0)]] (innocent potential, beginning of journey)
 - [[III - The Empress]] (Great Mother, nurturing matrix)
 - [[XVIII - The Moon]] (unconscious, the night-sea journey)
 

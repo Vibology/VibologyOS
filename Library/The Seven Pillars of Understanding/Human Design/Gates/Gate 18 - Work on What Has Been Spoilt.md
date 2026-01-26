@@ -34,7 +34,7 @@ The keynote here is **vigilant correction balanced with fear of authority**. Thi
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 18 |
-| **I-Ching Hexagram** | 18 - 蠱 Work on What Has Been Spoilt / Decay |
+| **I-Ching Hexagram** | 18 - ䷑ Work on What Has Been Spoilt / Decay |
 | **Center** | Spleen (Survival, Immune System, Instinct) |
 | **Circuitry** | Collective - Logic Circuit (Pattern Recognition) |
 | **Channel** | 18-58 (Judgment) - Spleen to Root |

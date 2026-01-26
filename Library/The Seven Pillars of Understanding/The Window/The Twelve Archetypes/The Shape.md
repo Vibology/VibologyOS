@@ -111,8 +111,8 @@ When The Shape appears in a reading, the querent is being tested: will you recog
 - [[Hexagram 44]] - I-Ching hexagram
 - [[Gene Key 44]] - Interference → Teamwork → Synarchy
 - [[Scorpio ♏]] - Astrological death and transformation
-- [[13 - Death]] - Tarot correspondence to inevitable endings
-- [[15 - The Devil]] - Tarot's shadow encounter
+- [[Death (XIII)]] - Tarot correspondence to inevitable endings
+- [[The Devil (XV)]] - Tarot's shadow encounter
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

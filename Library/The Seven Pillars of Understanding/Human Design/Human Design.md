@@ -9,11 +9,6 @@ grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
 verification_notes: "Individual verification complete. System overview verified against Grimoire with inline citations. Educational/synthesis content clearly distinguished."
 ---
 # Human Design
-
----
-
-
-
 *The Science of Human Differentiation*
 
 ---

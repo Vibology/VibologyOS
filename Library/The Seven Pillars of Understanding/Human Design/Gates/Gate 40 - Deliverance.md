@@ -34,7 +34,7 @@ The keynote here is **deliverance as transition**—the moment when struggle (wo
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 40 |
-| **I-Ching Hexagram** | 40 - 解 Deliverance / Liberation |
+| **I-Ching Hexagram** | 40 - ䷧ Deliverance / Liberation |
 | **Center** | Heart/Ego (Will, Material World, Resources) |
 | **Circuitry** | Tribal - Ego Circuit (Support and Resources) |
 | **Channel** | 37-40 (Community) - Heart/Ego to Solar Plexus |

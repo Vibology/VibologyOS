@@ -129,7 +129,7 @@ The practice is straightforward: **engage emotionally with what you value, and a
 - [[Bitterness]] - Gate 52 shadow in House of the Chronicle (frozen narrative)
 - [[Solar Plexus Center]] - Emotional awareness and wave
 - [[Abstract Circuit]] - Collective experience through sensing
-- [[17 - The Star]] - Tarot's sustained hope and guidance
+- [[The Star (XVII)]] - Tarot's sustained hope and guidance
 - [[30 - The Clinging Fire]] - Hexagram correspondence
 - [[Pisces ♓]] - Astrological faith and emotional surrender
 - [[Neptune ♆]] - Transcendence, longing, and dissolution of boundaries

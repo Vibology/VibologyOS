@@ -129,7 +129,7 @@ The path through requires the positive Sea cards—particularly **Gratitude** (h
 - [[Solar Plexus Center]] - Emotional waves and crisis
 - [[Collective Abstract Circuit]] - Experience through emotional depth
 - [[3 of Swords]] - Tarot's heartbreak and pierced heart
-- [[18 - The Moon]] - Tarot's emotional darkness and descent
+- [[The Moon (XVIII)]] - Tarot's emotional darkness and descent
 - [[Pluto ♇]] - Death and transformation through emotional crisis
 - [[Scorpio ♏]] - Astrological emotional intensity and transformative loss
 

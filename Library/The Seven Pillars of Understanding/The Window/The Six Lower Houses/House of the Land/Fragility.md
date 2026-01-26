@@ -128,7 +128,7 @@ Fragility is also illuminated by its relationship to **Integrity** (Gate 18)—w
 - [[Corruption]] - Gate 50 shadow in House of the Land (compounds brittleness)
 - [[Spleen Center]] - Instinctual awareness and survival fear
 - [[Individual Knowing Circuit]] - Mutative intuition through presence
-- [[16 - The Tower]] - Tarot's shattering of rigid structures
+- [[The Tower (XVI)]] - Tarot's shattering of rigid structures
 - [[8 of Swords]] - Tarot's self-imposed restriction through fear
 - [[Saturn ♄]] - Shadow crystallization and defensive rigidity
 - [[Capricorn ♑]] - Shadow hardening through excessive structure

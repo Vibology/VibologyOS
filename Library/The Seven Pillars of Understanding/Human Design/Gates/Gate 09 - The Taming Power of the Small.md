@@ -34,7 +34,7 @@ The keynote is **potential fulfilled through detailed attention**. This is the S
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 9 |
-| **I-Ching Hexagram** | 9 - 小畜 The Taming Power of the Small / Small Accumulation |
+| **I-Ching Hexagram** | 9 - ䷈ The Taming Power of the Small / Small Accumulation |
 | **Center** | Sacral (Life Force, Fertility, Response) |
 | **Circuitry** | Collective - Logic Circuit (Understanding) |
 | **Channel** | 9-52 (Concentration) - Sacral to Root |

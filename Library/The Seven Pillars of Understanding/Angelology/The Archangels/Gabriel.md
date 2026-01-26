@@ -697,8 +697,7 @@ If the "message" leads to **inflation, fear, or ego-serving action**, it is not 
 ## Cross-References
 - [[Yesod]] — Gabriel's Sephirah, the sphere of Foundation and the Astral Light
 - [[Archangels]] — The eighth angelic order, messengers to humanity
-- [[Cherubim|Kerubim]] — The angelic choir of Yesod (in some traditions)
-- [[Ashim]] — "Flames," the angels of Yesod
+- [[Angels|Kerubim]] — The angelic choir of Yesod
 - [[Moon ☽]] — Gabriel's planetary sphere, governing cycles, dreams, and the unconscious
 - [[The High Priestess (II)]] — Tarot Trump II, the archetype of hidden knowledge
 - [[The Moon (XVIII)]] — Tarot Trump XVIII, the card of dreams, illusion, and intuition

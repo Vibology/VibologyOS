@@ -34,7 +34,7 @@ The keynote here is **existential awareness in the now**. This is the Throat Cen
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 20 |
-| **I-Ching Hexagram** | 20 - 觀 Contemplation / View |
+| **I-Ching Hexagram** | 20 - ䷓ Contemplation / View |
 | **Center** | Throat (Communication, Manifestation, Action) |
 | **Circuitry** | Integration (Individual Empowerment) |
 | **Channels** | 20-10 (Awakening), 20-34 (Charisma), 20-57 (The Brain Wave) |

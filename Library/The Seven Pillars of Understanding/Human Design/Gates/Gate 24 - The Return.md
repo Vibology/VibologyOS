@@ -34,7 +34,7 @@ The keynote is **the natural and spontaneous process of transformation and renew
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 24 |
-| **I-Ching Hexagram** | 24 - 復 The Return / Returning |
+| **I-Ching Hexagram** | 24 - ䷗ The Return / Returning |
 | **Center** | Ajna (Mental Awareness, Conceptualization) |
 | **Circuitry** | Individual - Knowing Circuit (Mutation through Individual Expression) |
 | **Channel** | 24-61 (Awareness) - Ajna to Head |

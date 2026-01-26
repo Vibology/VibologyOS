@@ -34,7 +34,7 @@ The keynote here is **talent through repetition**. This is the Throat Center's c
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 16 |
-| **I-Ching Hexagram** | 16 - 豫 Enthusiasm / Providing For |
+| **I-Ching Hexagram** | 16 - ䷏ Enthusiasm / Providing For |
 | **Center** | Throat (Communication, Manifestation, Action) |
 | **Circuitry** | Collective - Logic Circuit (Pattern Recognition) |
 | **Channel** | 16-48 (The Wavelength) - Throat to Spleen |

@@ -131,8 +131,8 @@ The practice is straightforward: **experience widely and judge rarely**. Not as 
 - [[Bitterness]] - Gate 52 shadow in House of the Chronicle (frozen narrative)
 - [[G Center]] - Identity, direction, and love
 - [[Logic Circuit]] - Collective understanding through patterns
-- [[6 - The Lovers]] - Tarot's choice and union
-- [[10 - Wheel of Fortune]] - Tarot's cycles and all-encompassing fate
+- [[The Lovers (VI)]] - Tarot's choice and union
+- [[Wheel of Fortune (X)]] - Tarot's cycles and all-encompassing fate
 - [[Venus ♀]] - Beauty, attraction, and inclusive love
 - [[Libra ♎]] - Astrological balance and relationship harmony
 

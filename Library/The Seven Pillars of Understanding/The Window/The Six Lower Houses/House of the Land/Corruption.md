@@ -129,8 +129,8 @@ Recovery from Corruption requires more than correction—it demands **complete r
 - [[Fragility]] - Gate 57 shadow in House of the Land (compounds decay)
 - [[Spleen Center]] - Instinctual values and protective awareness
 - [[Tribal Ego Circuit]] - Defense, loyalty, and custodial responsibility
-- [[13 - Death]] - Tarot's necessary ending and transformation of the corrupted
-- [[15 - The Devil]] - Tarot's bondage to degraded values
+- [[Death (XIII)]] - Tarot's necessary ending and transformation of the corrupted
+- [[The Devil (XV)]] - Tarot's bondage to degraded values
 - [[Pluto ♇]] - Transformation through confrontation with decay
 - [[Scorpio ♏]] - The shadow of buried corruption and necessary purging
 

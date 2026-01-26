@@ -34,7 +34,7 @@ The keynote here is **mutation through revelation**. This is the Ajna's pressure
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 43 |
-| **I-Ching Hexagram** | 43 - 夬 Breakthrough / Resoluteness |
+| **I-Ching Hexagram** | 43 - ䷪ Breakthrough / Resoluteness |
 | **Center** | Ajna Center (Mind, Conceptualization, Awareness) |
 | **Circuitry** | Individual - Knowing Circuit (Mutation) |
 | **Channel** | 43-23 (Structuring / Genius to Freak) - Ajna to Throat |

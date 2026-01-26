@@ -34,7 +34,7 @@ The keynote here is **the pulse**. This is the Root Center's capacity to generat
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 60 |
-| **I-Ching Hexagram** | 60 - 節 Limitation / Water over Lake |
+| **I-Ching Hexagram** | 60 - ䷻ Limitation / Water over Lake |
 | **Center** | Root - Pressure, Adrenaline, Stress, Fuel |
 | **Circuitry** | Individual - Knowing Circuit (Mutation through Limitation) |
 | **Channels** | 60-3 (Mutation - The Energy for Change) |

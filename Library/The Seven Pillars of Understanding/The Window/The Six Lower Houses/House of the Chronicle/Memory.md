@@ -131,8 +131,8 @@ The practice is straightforward: **refine your ideas until they illuminate**. No
 - [[Hatred]] - Gate 4 shadow in House of the Chronicle (intolerant formulas)
 - [[Ajna Center]] - Mental awareness and conceptualization
 - [[Knowing Circuit]] - Individual mutation through inspiration
-- [[2 - The High Priestess]] - Tarot's memory and esoteric knowledge
-- [[9 - The Hermit]] - Tarot's contemplation and wisdom
+- [[The High Priestess (II)]] - Tarot's memory and esoteric knowledge
+- [[The Hermit (IX)]] - Tarot's contemplation and wisdom
 - [[Mercury ☿]] - Mental processing and communication
 - [[Gemini ♊]] - Astrological ideation and conceptual agility
 

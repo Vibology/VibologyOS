@@ -408,7 +408,7 @@ The curse motif maps directly onto the alchemical operations of **Coagulatio** (
 
 ### The Devil (Key XV): Bondage and Illusion
 
-**[[15 - The Devil]]** in the Tarot depicts two figures chained to a pedestal where the Devil sits. The chains are loose—the figures could remove them, but they do not. This is the **bondage of illusion**, the curse of believing oneself to be powerless.
+**[[The Devil (XV)]]** in the Tarot depicts two figures chained to a pedestal where the Devil sits. The chains are loose—the figures could remove them, but they do not. This is the **bondage of illusion**, the curse of believing oneself to be powerless.
 
 **The Devil as curse motif:**
 - **The chains are loose** – The curse is often **self-perpetuating illusion**. "I can't leave. I can't change. I'm trapped." But the chains can be removed at any time.
@@ -422,7 +422,7 @@ The curse motif maps directly onto the alchemical operations of **Coagulatio** (
 
 ### The Moon (Key XVIII): Enchantment and Illusion
 
-**[[18 - The Moon]]** depicts a path leading between two towers toward distant mountains, with a crayfish emerging from water, a dog and wolf howling, and a glowing moon above. The card represents **illusion, enchantment, the twilight realm where the unconscious rules**.
+**[[The Moon (XVIII)]]** depicts a path leading between two towers toward distant mountains, with a crayfish emerging from water, a dog and wolf howling, and a glowing moon above. The card represents **illusion, enchantment, the twilight realm where the unconscious rules**.
 
 **The Moon as curse motif:**
 - **Bewitchment** – Being "under the Moon's spell," lost in fantasy, illusion, or the unconscious
@@ -586,7 +586,7 @@ For those living in a **false self** (performing the domesticated swan, the sile
 [[Individuation]] • [[Shadow Integration]] • [[Coniunctio]] • [[Transcendent Function]] • [[Active Imagination]] • [[Projection]] • [[Ego-Self Axis]] • [[Persona Development]] • [[Complex]] • [[Repression]]
 
 **Tarot Keys:**
-[[15 - The Devil]] • [[18 - The Moon]] • [[Death]] • [[The High Priestess]] • [[The Tower]] • [[The Star]] • [[Temperance]] • [[The Hanged Man]] • [[The Sun]] • [[Strength]]
+[[The Devil (XV)]] • [[The Moon (XVIII)]] • [[Death]] • [[The High Priestess]] • [[The Tower]] • [[The Star]] • [[Temperance]] • [[The Hanged Man]] • [[The Sun]] • [[Strength]]
 
 #### Alchemical Stages
 [[Coagulation]] • [[Dissolution]] • [[Nigredo]] • [[Albedo]] • [[Rubedo]] • [[Calcination]] • [[Separation]] • [[Conjunction]] • [[Fermentation]]

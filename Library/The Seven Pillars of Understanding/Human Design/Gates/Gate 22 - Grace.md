@@ -34,7 +34,7 @@ The keynote is **grace under pressure**. Gate 22 does not seek to solve problems
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 22 |
-| **I-Ching Hexagram** | 22 - 賁 Grace / Adorning |
+| **I-Ching Hexagram** | 22 - ䷕ Grace / Adorning |
 | **Center** | Solar Plexus (Emotional Awareness and Sensitivity) |
 | **Circuitry** | Individual - Knowing Circuit (Mutation through Individual Expression) |
 | **Channel** | 22-12 (Openness) - Solar Plexus to Throat |

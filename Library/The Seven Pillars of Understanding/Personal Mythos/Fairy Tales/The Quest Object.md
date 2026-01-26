@@ -624,7 +624,7 @@ Psychologically: **The Self (the Grail) is not conquered but revealed. It appear
 - [[The Tarot/Major Arcana/07 - The Chariot|The Chariot]] – The hero's vehicle; moving toward the treasure with will and control
 - [[Ace of Cups|Ace of Cups]] – The Grail offered; the treasure of love, the Self as overflowing abundance
 - [[Ace of Pentacles|Ace of Pentacles]] – The golden coin, the earthly treasure; the Self embodied in the world
-- [[21 - The World|The World]] – The ultimate Quest Object; wholeness, the mandala, the Self achieved
+- [[The World (XXI)|The World]] – The ultimate Quest Object; wholeness, the mandala, the Self achieved
 
 ### Astrology
 - [[Sun ☉|Sun]] – The golden ball, the solar treasure; ego-consciousness seeking the Self

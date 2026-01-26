@@ -562,7 +562,7 @@ Inanna enters the underworld **naked and powerless** (like Snow White in the gla
 [[Individuation]] • [[Shadow Integration]] • [[Coniunctio]] • [[Transcendent Function]] • [[Active Imagination]] • [[Projection]] • [[Ego-Self Axis]] • [[Persona Development]] • [[Inflation]]
 
 **Tarot Keys:**
-[[7 - The Chariot]] • [[17 - The Star]] • [[Death]] • [[The High Priestess]] • [[The Empress]] • [[The Tower]] • [[The Sun]] • [[Temperance]] • [[The Hermit]]
+[[The Chariot (VII)]] • [[The Star (XVII)]] • [[Death]] • [[The High Priestess]] • [[The Empress]] • [[The Tower]] • [[The Sun]] • [[Temperance]] • [[The Hermit]]
 
 #### Alchemical Stages
 [[Nigredo]] • [[Albedo]] • [[Citrinitas]] • [[Rubedo]] • [[Solve et Coagula]] • [[Calcination]] • [[Dissolution]] • [[Separation]] • [[Conjunction]] • [[Fermentation]] • [[Distillation]] • [[Coagulation]] • [[Iteratio]] • [[Philosopher's Stone]]

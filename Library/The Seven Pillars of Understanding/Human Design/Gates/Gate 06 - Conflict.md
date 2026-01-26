@@ -34,7 +34,7 @@ The keynote is **friction as the mechanism of intimacy**. This is the Solar Plex
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 6 |
-| **I-Ching Hexagram** | 6 - 訟 Conflict / Contention |
+| **I-Ching Hexagram** | 6 - ䷅ Conflict / Contention |
 | **Center** | Solar Plexus (Emotional Awareness, Spirit) |
 | **Circuitry** | Tribal - Defense Circuit (Support) |
 | **Channel** | 6-59 (Mating) - Solar Plexus to Sacral |

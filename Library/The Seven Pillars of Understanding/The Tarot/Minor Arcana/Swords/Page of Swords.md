@@ -301,7 +301,7 @@ The sword is not a toy, but it is also not a trophy to be admired from a distanc
 - [[Hermes/Mercury]] - The divine messenger, the trickster god
 - [[I Ching Hexagram 4]] - Youthful Folly: the student seeking knowledge
 - [[Athena's Owl]] - The bird of vigilance and wisdom
-- [[The Fool]] - The innocent who begins to think
+- [[The Fool (0)]] - The innocent who begins to think
 
 ### Psychological
 - [[Critical Thinking]] - The development of logical, independent thought

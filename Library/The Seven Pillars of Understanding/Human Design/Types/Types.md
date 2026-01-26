@@ -4,7 +4,6 @@ system: Human Design
 date_created: 2026-01-26
 category: Index
 ---
-
 # The Four Types
 *Energy Configurations of Human Design*
 

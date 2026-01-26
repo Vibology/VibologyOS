@@ -34,7 +34,7 @@ The keynote here is that **darkness is cyclical, not permanent**—the emotional
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 36 |
-| **I-Ching Hexagram** | 36 - 明夷 Darkening of the Light / The Wounding of the Bright |
+| **I-Ching Hexagram** | 36 - ䷣ Darkening of the Light / The Wounding of the Bright |
 | **Center** | Solar Plexus (Emotional Awareness, Spirit) |
 | **Circuitry** | Collective - Abstract/Sensing Circuit (Experience) |
 | **Channel** | 35-36 (Transitoriness) - Solar Plexus to Throat |

@@ -835,7 +835,7 @@ Jung: *"The alchemical vessel is the psyche itself. The fire is suffering. The w
 - [[Egyptian Mythology]] (Ma'at as cosmic order like Tao, immortality quests)
 
 ### Tarot
-- [[The Fool]] (Wu wei, spontaneous action, beginner's mind)
+- [[The Fool (0)]] (Wu wei, spontaneous action, beginner's mind)
 - [[The Hermit]] (Sage withdrawing to mountain, inner light)
 - [[The High Priestess]] (Yin principle, receptive wisdom, Queen Mother)
 - [[The Hierophant]] (Spiritual tradition, Jade Emperor as cosmic order)

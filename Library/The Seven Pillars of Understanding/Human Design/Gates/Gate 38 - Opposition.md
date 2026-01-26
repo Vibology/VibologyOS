@@ -34,7 +34,7 @@ The keynote here is **opposition as preservation**—the individual fights not t
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 38 |
-| **I-Ching Hexagram** | 38 - 睽 Opposition / Contradiction |
+| **I-Ching Hexagram** | 38 - ䷥ Opposition / Contradiction |
 | **Center** | Root (Pressure, Drive, Stress) |
 | **Circuitry** | Individual - Knowing Circuit (Mutation) |
 | **Channel** | 38-28 (Struggle) - Root to Spleen |

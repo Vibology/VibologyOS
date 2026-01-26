@@ -34,7 +34,7 @@ The keynote is **listening as witness to the collective**. This is the G Center'
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 13 |
-| **I-Ching Hexagram** | 13 - 同人 Fellowship with Men / Community |
+| **I-Ching Hexagram** | 13 - ䷌ Fellowship with Men / Community |
 | **Center** | G Center (Identity, Direction, Love) |
 | **Circuitry** | Collective - Sharing Circuit (Abstract Process) |
 | **Channel** | 13-33 (The Prodigal) - G to Throat |

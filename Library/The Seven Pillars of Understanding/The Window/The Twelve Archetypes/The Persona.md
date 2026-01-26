@@ -112,8 +112,8 @@ When The Persona appears in a reading, the querent is being tested: can you with
 - [[Hexagram 41]] - I-Ching hexagram
 - [[Gene Key 41]] - Expectation → Anticipation → Ecstasy
 - [[Leo ♌]] - Astrological performer and creator
-- [[1 - The Magician]] - Tarot correspondence to conscious creation
-- [[7 - The Chariot]] - Tarot's mastery through constructed will
+- [[The Magician (I)]] - Tarot correspondence to conscious creation
+- [[The Chariot (VII)]] - Tarot's mastery through constructed will
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

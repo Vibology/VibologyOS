@@ -129,8 +129,8 @@ The practice is clarification: **see what you specifically are here to contribut
 - [[Perseverance]] - Gate 38 in House of the Stars (endurance toward vision)
 - [[Stagnation]] - Gate 12 shadow in House of the Stars (opposite pole)
 - [[G Center]] - Identity and direction
-- [[17 - The Star]] - Tarot correspondence to guiding vision
-- [[21 - The World]] - Tarot's completion of creative journey
+- [[The Star (XVII)]] - Tarot correspondence to guiding vision
+- [[The World (XXI)]] - Tarot's completion of creative journey
 - [[Leo ♌]] - Astrological creative expression and self-realization
 
 ## Sources

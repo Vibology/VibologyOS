@@ -34,7 +34,7 @@ The keynote here is **insatiable vitality**. This is the Root Center's capacity 
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 58 |
-| **I-Ching Hexagram** | 58 - 兌 The Joyous / Lake |
+| **I-Ching Hexagram** | 58 - ䷹ The Joyous / Lake |
 | **Center** | Root - Pressure, Adrenaline, Stress, Fuel |
 | **Circuitry** | Collective - Logic Circuit (Understanding through Pattern Recognition) |
 | **Channels** | 58-18 (Judgment - The Critic) |

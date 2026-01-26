@@ -34,7 +34,7 @@ The keynote here is **stimulation through narrative**. This is the Throat Center
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 56 |
-| **I-Ching Hexagram** | 56 - 旅 The Wanderer / The Traveler |
+| **I-Ching Hexagram** | 56 - ䷷ The Wanderer / The Traveler |
 | **Center** | Throat - Expression, Manifestation, Communication |
 | **Circuitry** | Collective - Sensing/Abstract Circuit (Experience and Reflection) |
 | **Channel** | 11-56 (Curiosity) - Ajna to Throat |

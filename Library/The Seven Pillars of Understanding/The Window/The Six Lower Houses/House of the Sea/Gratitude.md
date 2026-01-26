@@ -129,7 +129,7 @@ Gratitude is the antidote to **Envy** (Gate 54 shadow)—because when you apprec
 - [[Heartbreak]] - Gate 36 shadow in House of the Sea (transformed by gratitude)
 - [[Solar Plexus Center]] - Emotional awareness and spirit
 - [[Individual Knowing Circuit]] - Mutative emotional expression
-- [[17 - The Star]] - Tarot's hope and grace after difficulty
+- [[The Star (XVII)]] - Tarot's hope and grace after difficulty
 - [[9 of Cups]] - Tarot's emotional fulfillment and contentment
 - [[Venus ♀]] - Beauty, appreciation, and emotional value
 - [[Cancer ♋]] - Astrological emotional depth and honoring sensitivity

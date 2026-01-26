@@ -34,7 +34,7 @@ The keynote here is **intuitive clarity in the present**. This is the Spleen Cen
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 57 |
-| **I-Ching Hexagram** | 57 - 巽 The Gentle / Wind |
+| **I-Ching Hexagram** | 57 - ䷸ The Gentle / Wind |
 | **Center** | Spleen - Intuition, Survival, Health, Now |
 | **Circuitry** | Individual - Knowing Circuit (Mutation through Intuitive Awareness) |
 | **Channels** | 57-10 (Perfected Form), 57-20 (Brainwave), 57-34 (Power) |

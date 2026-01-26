@@ -887,7 +887,7 @@ The **Middle Passage as Alchemical Vessel:** Slavery was horrific—but the trad
 - [[Native American Mythology]] (Coyote/Anansi, ancestor veneration, embodied spirituality)
 
 ### Tarot
-- [[The Fool]] (Eshu's divine disorder, threshold walker)
+- [[The Fool (0)]] (Eshu's divine disorder, threshold walker)
 - [[The Magician]] (Eshu as master of crossroads, Orunmila as diviner)
 - [[The High Priestess]] (Oshun's mysteries, Yemoja's depths)
 - [[The Empress]] (Yemoja as mother, Oshun as fertility)

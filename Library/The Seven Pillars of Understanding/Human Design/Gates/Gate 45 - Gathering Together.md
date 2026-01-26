@@ -34,7 +34,7 @@ The keynote here is **gathering through authority**. The I-Ching name "Gathering
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 45 |
-| **I-Ching Hexagram** | 45 - 萃 Gathering Together / Collecting |
+| **I-Ching Hexagram** | 45 - ䷬ Gathering Together / Collecting |
 | **Center** | Throat Center (Communication, Manifestation, Action) |
 | **Circuitry** | Tribal - Ego Circuit (Defense) |
 | **Channel** | 45-21 (Money / The Treasurer) - Throat to Heart/Ego |

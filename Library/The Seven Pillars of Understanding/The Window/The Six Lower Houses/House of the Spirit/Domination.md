@@ -130,8 +130,8 @@ The practice is service: **remember that authority exists to serve**. Not abando
 - [[Malevolence]] - Gate 62 shadow in House of the Spirit (parallel shadow)
 - [[Throat Center]] - Expression and manifestation
 - [[Tribal Circuit]] - Support and resources
-- [[4 - The Emperor]] - Tarot's structured authority (reversed: tyranny)
-- [[15 - The Devil]] - Tarot's bondage and control
+- [[The Emperor (IV)]] - Tarot's structured authority (reversed: tyranny)
+- [[The Devil (XV)]] - Tarot's bondage and control
 - [[Capricorn ♑]] - Astrological authority that can serve or dominate
 
 ## Sources

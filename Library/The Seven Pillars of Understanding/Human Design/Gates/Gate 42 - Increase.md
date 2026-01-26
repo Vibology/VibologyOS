@@ -34,7 +34,7 @@ The keynote here is **expansion after contraction**. The I-Ching name "Increase"
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 42 |
-| **I-Ching Hexagram** | 42 - 益 Increase / Augmenting |
+| **I-Ching Hexagram** | 42 - ䷩ Increase / Augmenting |
 | **Center** | Sacral Center (Life Force, Work Energy, Fertility) |
 | **Circuitry** | Collective - Abstract Circuit (Sensing Stream) |
 | **Channel** | 42-53 (Maturation / Cyclical) - Sacral to Root |

@@ -130,7 +130,7 @@ The practice is continuation: **take one more step**. Not heroic transformation 
 - [[Stagnation]] - Gate 12 shadow in House of the Stars (parallel shadow)
 - [[Sacral Center]] - Life force and sustained effort
 - [[Five of Cups]] - Tarot correspondence to mourning before the journey is complete
-- [[4 - The Emperor]] - Tarot's structured will (reversed: collapsed authority)
+- [[The Emperor (IV)]] - Tarot's structured will (reversed: collapsed authority)
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

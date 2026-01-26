@@ -113,8 +113,8 @@ When The Hero appears in a reading, the querent is being tested: do you have the
 - [[Hexagram 34]] - I-Ching hexagram
 - [[Gene Key 34]] - Force → Strength → Majesty
 - [[Aries ♈]] - Astrological pioneer and warrior
-- [[8 - Strength]] - Tarot correspondence to power rightly wielded
-- [[7 - The Chariot]] - Tarot's directed will and victory
+- [[Strength (VIII)]] - Tarot correspondence to power rightly wielded
+- [[The Chariot (VII)]] - Tarot's directed will and victory
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

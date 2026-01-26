@@ -328,7 +328,7 @@ A **whole human being** who has shifted the center of gravity from ego to Self, 
 - [[XXI - The World]] (completion, wholeness, the Self realized)
 - [[VI - The Lovers]] (union of opposites, sacred choice)
 - [[X - Wheel of Fortune]] (fate, the Self's teleological movement)
-- [[0 - The Fool]] (return to innocence at higher octave)
+- [[The Fool (0)]] (return to innocence at higher octave)
 
 **Astrology:**
 - [[Sun ☉]] (center, Self, conscious identity reconciled with totality)

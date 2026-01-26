@@ -127,7 +127,7 @@ Compassion is the antidote to **Rage** (Gate 6 shadow)—because empathic witnes
 - [[Heartbreak]] - Gate 36 shadow in House of the Sea (held by compassion)
 - [[G Center]] - Identity and direction through love
 - [[Collective Sharing Circuit]] - Abstract pattern witnessing
-- [[2 - The High Priestess]] - Tarot's receptive witnessing and deep listening
+- [[The High Priestess (II)]] - Tarot's receptive witnessing and deep listening
 - [[Queen of Cups]] - Tarot's empathic presence and emotional containment
 - [[Neptune ♆]] - Compassion, dissolution of boundaries, collective feeling
 - [[Pisces ♓]] - Astrological empathy and oceanic emotional connection

@@ -129,8 +129,8 @@ The practice for healing Violence is **stillness that allows center to return**.
 - [[Recklessness]] - Gate 61 shadow in House of the Flame (fire without inspiration)
 - [[Heart Center]] - Willpower and ego strength
 - [[Centering Circuit]] - Individual empowerment through authenticity
-- [[16 - The Tower]] - Tarot's violent breakdown of structures
-- [[15 - The Devil]] - Tarot's bondage to destructive patterns
+- [[The Tower (XVI)]] - Tarot's violent breakdown of structures
+- [[The Devil (XV)]] - Tarot's bondage to destructive patterns
 - [[Mars ♂]] - Warrior energy in shadow as destructive force
 - [[Pluto ♇]] - Transformation's shadow as annihilation
 

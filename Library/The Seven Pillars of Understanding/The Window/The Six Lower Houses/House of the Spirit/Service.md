@@ -130,8 +130,8 @@ The practice is following: **serve the patterns you seek to understand**. Not pa
 - [[Malevolence]] - Gate 62 shadow in House of the Spirit (corrupted precision)
 - [[Ajna Center]] - Mental awareness and conceptualization
 - [[Logic Circuit]] - Collective pattern recognition
-- [[5 - The Hierophant]] - Tarot correspondence to teaching through tradition
-- [[12 - The Hanged Man]] - Tarot's surrender that yields wisdom
+- [[The Hierophant (V)]] - Tarot correspondence to teaching through tradition
+- [[The Hanged Man (XII)]] - Tarot's surrender that yields wisdom
 - [[Sagittarius ♐]] - Astrological quest for higher understanding
 
 ## Sources

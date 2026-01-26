@@ -34,7 +34,7 @@ The keynote here is **intimacy through penetration**. This is the Sacral Center'
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 59 |
-| **I-Ching Hexagram** | 59 - 渙 Dispersion / Wind over Water |
+| **I-Ching Hexagram** | 59 - ䷺ Dispersion / Wind over Water |
 | **Center** | Sacral - Life Force, Sexuality, Work, Response |
 | **Circuitry** | Tribal - Defense Circuit (Support, Intimacy, Bargaining) |
 | **Channels** | 59-6 (Mating - The Channel of Intimacy) |

@@ -777,7 +777,7 @@ Mesopotamian mythology dramatizes the **Ego's violent emergence from the Uroboro
 - [[Buddhist Cosmology]] (Samsara's cycle parallels Dumuzi's descent/return)
 
 ### Tarot
-- [[The Fool]] (Enkidu's innocence before civilization)
+- [[The Fool (0)]] (Enkidu's innocence before civilization)
 - [[The Magician]] (Ea as wise trickster, cunning intelligence)
 - [[The High Priestess]] (Ereshkigal as underworld wisdom keeper)
 - [[The Empress]] (Inanna as fertile goddess, creator)

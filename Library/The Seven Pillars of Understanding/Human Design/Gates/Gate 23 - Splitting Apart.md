@@ -34,7 +34,7 @@ The keynote is **assimilation**. Gate 23 does not speak immediately—it waits f
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 23 |
-| **I-Ching Hexagram** | 23 - 剝 Splitting Apart / Peeling Off |
+| **I-Ching Hexagram** | 23 - ䷖ Splitting Apart / Peeling Off |
 | **Center** | Throat (Expression, Manifestation, Action) |
 | **Circuitry** | Individual - Knowing Circuit (Mutation through Individual Expression) |
 | **Channel** | 23-43 (Structuring) - Throat to Ajna |

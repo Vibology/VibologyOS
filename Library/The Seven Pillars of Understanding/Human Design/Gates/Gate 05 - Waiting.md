@@ -34,7 +34,7 @@ The keynote is **fixed patterns and rhythm**. This is the Sacral's capacity to r
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 5 |
-| **I-Ching Hexagram** | 5 - 需 Waiting / Nourishment |
+| **I-Ching Hexagram** | 5 - ䷄ Waiting / Nourishment |
 | **Center** | Sacral (Life Force, Fertility, Response) |
 | **Circuitry** | Collective - Logic Circuit (Understanding) |
 | **Channel** | 5-15 (Rhythm) - Sacral to G Center |

@@ -34,7 +34,7 @@ The keynote here is **detail and naming**. This is the Throat Center's capacity 
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 62 |
-| **I-Ching Hexagram** | 62 - 小過 Preponderance of the Small / Thunder over Mountain |
+| **I-Ching Hexagram** | 62 - ䷽ Preponderance of the Small / Thunder over Mountain |
 | **Center** | Throat - Expression, Manifestation, Communication |
 | **Circuitry** | Collective - Logic Circuit (Understanding through Pattern Recognition) |
 | **Channels** | 62-17 (Acceptance - The Organizing Being) |

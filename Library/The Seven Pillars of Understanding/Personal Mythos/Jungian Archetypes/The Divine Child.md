@@ -845,7 +845,7 @@ For those who do not identify within the gender binary, the Divine Child may man
 
 ### Tarot
 
-- [[The Fool]] (0) - The Divine Child as primordial innocence and unlimited potential
+- [[The Fool (0)]] (0) - The Divine Child as primordial innocence and unlimited potential
 - [[The Sun]] (XIX) - The radiant child, conscious spirit, joy embodied
 - [[Six of Cups]] - Nostalgia, childhood innocence, return to wonder
 - [[The Star]] (XVII) - Hope, futurity, renewal after crisis

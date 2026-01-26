@@ -128,7 +128,7 @@ Ambition stands in contrast to the negative Land cards, particularly **Fragility
 - [[Fragility]] - Gate 57 in House of the Land (opposite pole: brittleness from lack of practice)
 - [[Throat Center]] - Expression of embodied mastery
 - [[Collective Logic Circuit]] - Pattern-based skill development
-- [[8 - Strength]] - Tarot's mastery through patient dedication
+- [[Strength (VIII)]] - Tarot's mastery through patient dedication
 - [[3 of Pentacles]] - Tarot's skilled craftsmanship and practice
 - [[Saturn ♄]] - Discipline, structure, and mastery through time
 - [[Capricorn ♑]] - Astrological dedication to excellence through persistent effort

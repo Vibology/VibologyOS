@@ -129,8 +129,8 @@ The practice is counterintuitive: **embrace limitation to achieve liberation**. 
 - [[Vision]] - Gate 1 in House of the Stars (direction given form)
 - [[Resignation]] - Gate 9 shadow in House of the Stars (opposite pole)
 - [[Root Center]] - Pressure and drive toward action
-- [[7 - The Chariot]] - Tarot correspondence to disciplined will
-- [[9 - The Hermit]] - Tarot's solitary discipline toward mastery
+- [[The Chariot (VII)]] - Tarot correspondence to disciplined will
+- [[The Hermit (IX)]] - Tarot's solitary discipline toward mastery
 - [[Saturn ♄]] - Astrological discipline, limitation, structure
 
 ## Sources

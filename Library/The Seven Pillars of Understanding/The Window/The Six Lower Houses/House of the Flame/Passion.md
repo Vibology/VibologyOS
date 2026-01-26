@@ -130,8 +130,8 @@ The practice is straightforward: **stop constricting your natural vitality and l
 - [[Violence]] - Gate 51 shadow in House of the Flame (fire against life)
 - [[G Center]] - Identity, direction, and love
 - [[Centering Circuit]] - Individual empowerment through authenticity
-- [[19 - The Sun]] - Tarot's innocent vitality and radiant joy
-- [[0 - The Fool]] - Tarot's uncontrived beginning
+- [[The Sun (XIX)]] - Tarot's innocent vitality and radiant joy
+- [[The Fool (0)]] - Tarot's uncontrived beginning
 - [[Sun ☉]] - Life force and vital radiance
 - [[Leo ♌]] - Astrological joy in self-expression
 

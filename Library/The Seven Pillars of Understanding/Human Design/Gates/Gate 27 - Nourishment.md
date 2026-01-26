@@ -34,7 +34,7 @@ The keynote is **enhancement of quality and substance of activities through cari
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 27 |
-| **I-Ching Hexagram** | 27 - 頤 Nourishment / Providing Nourishment / The Corners of the Mouth |
+| **I-Ching Hexagram** | 27 - ䷚ Nourishment / Providing Nourishment / The Corners of the Mouth |
 | **Center** | Sacral (Life Force, Fertility, Response) |
 | **Circuitry** | Tribal - Defense Circuit (Protection, Caring, Support) |
 | **Channel** | 27-50 (Preservation) - Sacral to Spleen |

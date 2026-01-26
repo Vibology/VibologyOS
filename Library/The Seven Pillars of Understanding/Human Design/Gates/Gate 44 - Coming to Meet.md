@@ -34,7 +34,7 @@ The keynote here is **survival memory**. The I-Ching name "Coming to Meet" refle
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 44 |
-| **I-Ching Hexagram** | 44 - 姤 Coming to Meet / Encountering |
+| **I-Ching Hexagram** | 44 - ䷫ Coming to Meet / Encountering |
 | **Center** | Spleen Center (Survival, Instinct, Health, Fear) |
 | **Circuitry** | Tribal - Ego Circuit (Defense) |
 | **Channel** | 44-26 (Surrender / The Egoist) - Spleen to Heart/Ego |

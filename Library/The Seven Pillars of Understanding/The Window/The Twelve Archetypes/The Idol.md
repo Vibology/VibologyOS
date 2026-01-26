@@ -118,8 +118,8 @@ When The Idol appears in a reading, the querent is being tested: will you claim 
 - [[Hexagram 31]] - I-Ching hexagram
 - [[Gene Key 31]] - Arrogance → Leadership → Humility
 - [[Capricorn ♑]] - Astrological ambition and mastery
-- [[4 - The Emperor]] - Tarot correspondence to masculine authority
-- [[11 - Justice]] - Tarot's balanced discernment
+- [[The Emperor (IV)]] - Tarot correspondence to masculine authority
+- [[Justice (XI)]] - Tarot's balanced discernment
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

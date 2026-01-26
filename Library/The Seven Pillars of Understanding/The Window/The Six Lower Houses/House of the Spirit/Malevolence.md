@@ -130,8 +130,8 @@ The practice is ethics: **reorient your precision toward service**. Not less kno
 - [[Domination]] - Gate 45 shadow in House of the Spirit (parallel shadow)
 - [[Throat Center]] - Expression and manifestation
 - [[Logic Circuit]] - Collective pattern recognition
-- [[8 - Strength]] - Tarot's ethical power (reversed: cruelty)
-- [[15 - The Devil]] - Tarot's bondage through corrupted knowledge
+- [[Strength (VIII)]] - Tarot's ethical power (reversed: cruelty)
+- [[The Devil (XV)]] - Tarot's bondage through corrupted knowledge
 - [[Scorpio ♏]] - Astrological depth that can heal or destroy
 
 ## Sources

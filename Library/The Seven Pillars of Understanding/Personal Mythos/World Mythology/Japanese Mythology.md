@@ -882,7 +882,7 @@ Shinto cosmology maps the **individuation process** with precision:
 - [[Native American Mythology]] (Animism, nature spirits, threshold consciousness)
 
 ### Tarot
-- [[The Fool]] (Susanoo's wild innocence before maturity)
+- [[The Fool (0)]] (Susanoo's wild innocence before maturity)
 - [[The High Priestess]] (Izanami as Queen of the Underworld, lunar mysteries)
 - [[The Empress]] (Izanami as creator, Great Mother)
 - [[The Emperor]] (Izanagi establishing cosmic order)

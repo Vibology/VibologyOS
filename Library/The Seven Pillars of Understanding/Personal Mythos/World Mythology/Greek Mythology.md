@@ -638,7 +638,7 @@ The Eleusinian grain = the Philosopher's Stone—the simple, eternal truth revea
 - [[Buddhist Cosmology]] (Six Realms as psychological states like Greek Underworld)
 
 ### Tarot
-- [[The Fool]] (Dionysian innocence, divine madness)
+- [[The Fool (0)]] (Dionysian innocence, divine madness)
 - [[The Magician]] (Hermes as psychopomp, trickster)
 - [[The High Priestess]] (Persephone as Queen of Underworld)
 - [[The Emperor]] (Zeus as sovereign)

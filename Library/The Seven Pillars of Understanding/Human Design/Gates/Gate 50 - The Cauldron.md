@@ -34,7 +34,7 @@ The keynote here is **values as protection**. The I-Ching name "The Cauldron" re
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 50 |
-| **I-Ching Hexagram** | 50 - 鼎 The Cauldron / The Sacrificial Vessel |
+| **I-Ching Hexagram** | 50 - ䷱ The Cauldron / The Sacrificial Vessel |
 | **Center** | Spleen Center (Survival, Instinct, Health, Fear) |
 | **Circuitry** | Tribal - Ego Circuit (Defense) |
 | **Channel** | 50-27 (Preservation / Caring) - Spleen to Sacral |

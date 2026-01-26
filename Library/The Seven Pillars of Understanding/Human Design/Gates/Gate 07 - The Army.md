@@ -34,7 +34,7 @@ The keynote is **role-based leadership for collective order**. This is the G Cen
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 7 |
-| **I-Ching Hexagram** | 7 - 師 The Army / Leading |
+| **I-Ching Hexagram** | 7 - ䷆ The Army / Leading |
 | **Center** | G Center (Identity, Direction, Love) |
 | **Circuitry** | Collective - Logic Circuit (Understanding) |
 | **Channel** | 7-31 (The Alpha) - G to Throat |

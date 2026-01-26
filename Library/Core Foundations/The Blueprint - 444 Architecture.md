@@ -15,7 +15,7 @@ category: Structural Framework
 
 > *Vibology Synthesis: The "Blueprint - 444 Architecture" terminology and the unified framing presented here are original integrations. The underlying correspondences between DNA, I-Ching, Human Design, and Gene Keys are documented in individual source traditions.*
 
-**The Blueprint - 444 Architecture** refers to the **shared 64-fold mechanical substrate** that unifies multiple wisdom traditions within [[Vibology]]. This is not metaphor or analogy—it is **structural identity**: the recognition that DNA codons, Human Design gates, I-Ching hexagrams, and Gene Keys all operate on the **same 4×4×4 mathematical foundation**.
+**The Blueprint - 444 Architecture** refers to the **shared 64-fold mechanical substrate** that unifies multiple wisdom traditions within Vibology. This is not metaphor or analogy—it is **structural identity**: the recognition that DNA codons, Human Design gates, I-Ching hexagrams, and Gene Keys all operate on the **same 4×4×4 mathematical foundation**.
 
 #### The Pattern
 - **4** nucleotide bases (DNA): Adenine, Thymine, Cytosine, Guanine (A-T-C-G)
@@ -415,7 +415,7 @@ This is [[Techgnosis]] enabled by the Blueprint—consciousness mapped as **navi
 
 **Truth:** The Blueprint shows **mechanical predisposition**, not destiny. You have free will within the structure.
 
-**Antidote:** Live your **Strategy and Authority** (see [[Inner Authority and Strategy]])—experiment with your design rather than using it as excuse.
+**Antidote:** Live your **Strategy and Authority** (see [[Strategy]] and [[Authority]])—experiment with your design rather than using it as excuse.
 
 ### 3. Paralysis by Analysis
 

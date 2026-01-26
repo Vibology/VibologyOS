@@ -157,7 +157,7 @@ The 3/5 brings:
 - **Line 3:** Adaptation and experimentation
 - **Line 5:** Universalization and reputation
 - **Jungian Parallel:** The [[Trickster]] who breaks rules to reveal truth
-- **Tarot:** [[The Fool]] (Line 3 leaping) and [[The Tower]] (Line 5 breaking systems)
+- **Tarot:** [[The Fool (0)]] (Line 3 leaping) and [[The Tower]] (Line 5 breaking systems)
 
 ---
 

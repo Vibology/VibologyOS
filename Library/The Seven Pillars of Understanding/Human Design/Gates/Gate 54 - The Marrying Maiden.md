@@ -34,7 +34,7 @@ The keynote here is **ambition as biological pressure**. This is the Root Center
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 54 |
-| **I-Ching Hexagram** | 54 - 歸妹 The Marrying Maiden |
+| **I-Ching Hexagram** | 54 - ䷵ The Marrying Maiden |
 | **Center** | Root - Pressure, Stress, Adrenalization |
 | **Circuitry** | Tribal - Ego Circuit (Support and Bargains) |
 | **Channel** | 32-54 (Transformation) - Root to Spleen |

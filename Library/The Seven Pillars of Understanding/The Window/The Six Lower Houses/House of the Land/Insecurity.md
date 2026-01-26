@@ -128,7 +128,7 @@ The antidote to Insecurity is found in the positive Land cards—particularly **
 - [[Corruption]] - Gate 50 shadow in House of the Land (deepens inadequacy)
 - [[Spleen Center]] - Instinctual fear and survival awareness
 - [[Collective Logic Circuit]] - Pattern-based resource assessment
-- [[18 - The Moon]] - Tarot's fear and illusion creating false limitation
+- [[The Moon (XVIII)]] - Tarot's fear and illusion creating false limitation
 - [[4 of Pentacles]] - Tarot's fear-based hoarding from inadequacy
 - [[Saturn ♄]] - Fear of insufficiency and survival anxiety
 - [[Virgo ♍]] - Shadow perfectionism creating chronic inadequacy

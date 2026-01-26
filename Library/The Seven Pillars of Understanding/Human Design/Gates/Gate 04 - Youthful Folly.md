@@ -34,7 +34,7 @@ The keynote is **formulization through mental agility**. This is the Ajna's capa
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 4 |
-| **I-Ching Hexagram** | 4 - 蒙 Youthful Folly / Inexperience |
+| **I-Ching Hexagram** | 4 - ䷃ Youthful Folly / Inexperience |
 | **Center** | Ajna (Mental Awareness, Conceptualization) |
 | **Circuitry** | Collective - Logic Circuit (Understanding) |
 | **Channel** | 4-63 (Logic) - Ajna to Head |

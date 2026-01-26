@@ -786,7 +786,7 @@ Metatron holds the blueprint; Raphael teaches how to read it and apply it to dai
 - **Sephiroth:** [[Tiphareth]] (primary—solar heart, beauty, Higher Self) | [[Hod]] (secondary—Mercury, intellect, communication)
 - **Path:** The **Path of Samekh** (Yesod to Tiphareth, Trump XIV Temperance—alchemical blending, the art of balance)
 - **Divine Names:** [[YHVH Eloah va-Daath]] (Tiphareth) | [[Elohim Tzabaoth]] (Hod)
-- **Angelic Choir:** [[Malachim]] (Tiphareth—Kings, messengers) | [[Bene Elohim]] (Hod—Sons of God)
+- **Angelic Choir:** [[Virtues|Malachim]] (Tiphareth—Kings, messengers) | [[Archangels|Bene Elohim]] (Hod—Sons of God)
 
 **Tarot:**
 
@@ -1137,8 +1137,8 @@ This is Raphael's initiatic question. Every wound, when met consciously, reveals
 
 - [[Tiphareth]] (Primary Sephirah governed by Raphael)
 - [[Hod]] (Secondary Sephirah—Raphael as Mercurial intelligence)
-- [[Malachim]] (Angelic choir of Tiphareth—The Kings/Messengers)
-- [[Bene Elohim]] (Angelic choir of Hod—Sons of God)
+- [[Virtues|Malachim]] (Angelic choir of Tiphareth—The Kings/Messengers)
+- [[Archangels|Bene Elohim]] (Angelic choir of Hod—Sons of God)
 - [[Michael]] (Fellow Archangel of the Four Quarters—South/Fire)
 - [[Gabriel]] (Fellow Archangel of the Four Quarters—West/Water)
 - [[Uriel]] (Fellow Archangel of the Four Quarters—North/Earth)
@@ -1281,7 +1281,7 @@ The individual recognizes, often in retrospect, that **grace was present through
 - **Sephiroth:** [[Tiphareth]] (primary—solar heart, beauty, Higher Self) | [[Hod]] (secondary—Mercury, intellect, communication)
 - **Path:** The **Path of Samekh** (Yesod to Tiphareth, Trump XIV Temperance—alchemical blending, the art of balance)
 - **Divine Names:** [[YHVH Eloah va-Daath]] (Tiphareth) | [[Elohim Tzabaoth]] (Hod)
-- **Angelic Choir:** [[Malachim]] (Tiphareth—Kings, messengers) | [[Bene Elohim]] (Hod—Sons of God)
+- **Angelic Choir:** [[Virtues|Malachim]] (Tiphareth—Kings, messengers) | [[Archangels|Bene Elohim]] (Hod—Sons of God)
 
 **Tarot:**
 
@@ -1348,8 +1348,8 @@ Steiner also teaches that Archangels are involved in **individual human karma an
 
 - [[Tiphareth]] (Primary Sephirah governed by Raphael)
 - [[Hod]] (Secondary Sephirah—Raphael as Mercurial intelligence)
-- [[Malachim]] (Angelic choir of Tiphareth—The Kings/Messengers)
-- [[Bene Elohim]] (Angelic choir of Hod—Sons of God)
+- [[Virtues|Malachim]] (Angelic choir of Tiphareth—The Kings/Messengers)
+- [[Archangels|Bene Elohim]] (Angelic choir of Hod—Sons of God)
 - [[Michael]] (Fellow Archangel of the Four Quarters—South/Fire)
 - [[Gabriel]] (Fellow Archangel of the Four Quarters—West/Water)
 - [[Uriel]] (Fellow Archangel of the Four Quarters—North/Earth)

@@ -34,7 +34,7 @@ The keynote here is **pressure to approach with sensitivity to needs**. This is 
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 19 |
-| **I-Ching Hexagram** | 19 - 臨 Approach / Nearing |
+| **I-Ching Hexagram** | 19 - ䷒ Approach / Nearing |
 | **Center** | Root (Pressure, Stress, Adrenaline) |
 | **Circuitry** | Tribal - Ego Circuit (Support and Resources) |
 | **Channel** | 19-49 (Synthesis) - Root to Solar Plexus |

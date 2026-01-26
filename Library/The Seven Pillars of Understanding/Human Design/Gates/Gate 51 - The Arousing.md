@@ -34,7 +34,7 @@ The keynote here is **individual initiative through ego strength**. This is the 
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 51 |
-| **I-Ching Hexagram** | 51 - 震 The Arousing / Thunder |
+| **I-Ching Hexagram** | 51 - ䷲ The Arousing / Thunder |
 | **Center** | Heart (Ego) - Willpower, Self-Worth, Material World |
 | **Circuitry** | Individual - Centering Circuit (Mutation through Self-Empowerment) |
 | **Channel** | 25-51 (Initiation) - Heart to G Center |

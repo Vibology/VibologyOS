@@ -832,7 +832,7 @@ The Wise Old Man interacts dynamically with other archetypal structures:
 - [[The Hermit]] — The Senex at the peak of wisdom; solitary reflection
 - [[The Hierophant]] — Spiritual authority, tradition, teacher
 - [[The Emperor]] — The king; positive Senex (just ruler) or shadow Senex (tyrant)
-- [[The Fool]] — The Puer; Senex's complementary opposite
+- [[The Fool (0)]] — The Puer; Senex's complementary opposite
 - [[The Magician]] — The young magician (Puer); becomes the Senex (Hermit) through the journey
 - [[Judgement]] — The final reckoning; the Senex prepares for death
 - [[The World]] — Completion of the cycle; the integrated Senex

@@ -34,7 +34,7 @@ The keynote here is **love through experiential understanding**. This is the G C
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 15 |
-| **I-Ching Hexagram** | 15 - 謙 Modesty / Humility |
+| **I-Ching Hexagram** | 15 - ䷎ Modesty / Humility |
 | **Center** | G Center (Identity, Direction, Love) |
 | **Circuitry** | Collective - Logic Circuit (Pattern Recognition) |
 | **Channel** | 15-5 (Rhythm) - G to Sacral |

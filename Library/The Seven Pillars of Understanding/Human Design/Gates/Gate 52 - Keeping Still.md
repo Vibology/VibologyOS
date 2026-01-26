@@ -34,7 +34,7 @@ The keynote here is **stillness under pressure**. This is the Root Center's capa
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 52 |
-| **I-Ching Hexagram** | 52 - 艮 Keeping Still / Mountain |
+| **I-Ching Hexagram** | 52 - ䷳ Keeping Still / Mountain |
 | **Center** | Root - Pressure, Stress, Adrenalization |
 | **Circuitry** | Collective - Logic/Understanding Circuit (Pattern Recognition) |
 | **Channel** | 52-9 (Concentration) - Root to Sacral |

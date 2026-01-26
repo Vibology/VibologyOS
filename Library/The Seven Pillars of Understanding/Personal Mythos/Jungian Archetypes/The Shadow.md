@@ -784,7 +784,7 @@ The Shadow interacts dynamically with other archetypal structures:
 - [[Rubedo]] — Integration of shadow into embodied wholeness
 
 ### Tarot
-- [[The Fool]] — The wolf at the Fool's heels (shadow as instinct)
+- [[The Fool (0)]] — The wolf at the Fool's heels (shadow as instinct)
 - [[The Devil]] — Bondage to shadow; Dweller on the Threshold
 - [[Death]] — Surrender of ego's desire nature (Nigredo)
 - [[The Moon]] — Realm of illusion and shadow phantoms

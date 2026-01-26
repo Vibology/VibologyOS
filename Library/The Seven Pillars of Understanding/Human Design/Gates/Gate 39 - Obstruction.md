@@ -34,7 +34,7 @@ The keynote here is **obstruction as value**—what blocks us provokes us to go 
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 39 |
-| **I-Ching Hexagram** | 39 - 蹇 Obstruction / Difficulty |
+| **I-Ching Hexagram** | 39 - ䷦ Obstruction / Difficulty |
 | **Center** | Root (Pressure, Drive, Provocation) |
 | **Circuitry** | Individual - Knowing Circuit (Mutation) |
 | **Channel** | 39-55 (Emoting) - Root to Solar Plexus |

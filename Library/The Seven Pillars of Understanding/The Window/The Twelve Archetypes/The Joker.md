@@ -112,8 +112,8 @@ When The Joker appears in a reading, the querent is being tested: will you honor
 - [[Hexagram 35]] - I-Ching hexagram
 - [[Gene Key 35]] - Hunger → Adventure → Boundlessness
 - [[Sagittarius ♐]] - Astrological archer and philosopher
-- [[0 - The Fool]] - Tarot correspondence to chaos and beginning
-- [[16 - The Tower]] - Tarot's sudden destruction of false structures
+- [[The Fool (0)]] - Tarot correspondence to chaos and beginning
+- [[The Tower (XVI)]] - Tarot's sudden destruction of false structures
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

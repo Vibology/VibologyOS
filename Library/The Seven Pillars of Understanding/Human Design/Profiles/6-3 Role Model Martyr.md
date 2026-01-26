@@ -198,7 +198,7 @@ The 6/3 brings:
 - **Line 6:** Transition and role modeling
 - **Line 3:** Adaptation and experimentation
 - **Jungian Parallel:** The [[Individuation Process]] through chaos and integration
-- **Tarot:** [[The Fool]] (Line 3 leaping), [[The Hermit]] (Stage 2 withdrawal), [[The World]] (Stage 3 integration and completion)
+- **Tarot:** [[The Fool (0)]] (Line 3 leaping), [[The Hermit]] (Stage 2 withdrawal), [[The World]] (Stage 3 integration and completion)
 
 ---
 

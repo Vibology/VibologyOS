@@ -130,8 +130,8 @@ The practice is straightforward: **be where you are, fully**. Not as concept, no
 - [[Insecurity]] - Gate 48 shadow in House of the Land (opposite pole)
 - [[Throat Center]] - Expression and manifestation
 - [[Integration Circuit]] - Individual empowerment through awareness
-- [[3 - The Empress]] - Tarot's grounded abundance and present nurturing
-- [[21 - The World]] - Tarot's complete embodiment and presence
+- [[The Empress (III)]] - Tarot's grounded abundance and present nurturing
+- [[The World (XXI)]] - Tarot's complete embodiment and presence
 - [[Saturn ♄]] - Grounded structure through present responsibility
 - [[Taurus ♉]] - Astrological stability and embodied presence
 

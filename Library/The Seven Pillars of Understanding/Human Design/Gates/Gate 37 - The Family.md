@@ -34,7 +34,7 @@ The keynote here is **equality through exchange**—friendship is not one-sided 
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 37 |
-| **I-Ching Hexagram** | 37 - 家人 The Family / The Clan |
+| **I-Ching Hexagram** | 37 - ䷤ The Family / The Clan |
 | **Center** | Solar Plexus (Emotional Awareness, Tribal Bonding) |
 | **Circuitry** | Tribal - Ego Circuit (Support and Resources) |
 | **Channel** | 37-40 (Community) - Solar Plexus to Heart/Ego |

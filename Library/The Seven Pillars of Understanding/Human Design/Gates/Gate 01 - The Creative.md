@@ -34,7 +34,7 @@ The keynote here is **self-expression through creative direction**. This is the 
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 1 |
-| **I-Ching Hexagram** | 1 - 乾 The Creative / The Creative Heaven |
+| **I-Ching Hexagram** | 1 - ䷀ The Creative / The Creative Heaven |
 | **Center** | G Center (Identity, Direction, Love) |
 | **Circuitry** | Individual - Knowing Circuit (Mutation) |
 | **Channel** | 1-8 (Inspiration) - G to Throat |

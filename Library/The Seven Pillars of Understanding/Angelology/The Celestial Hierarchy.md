@@ -39,7 +39,7 @@ Pseudo-Dionysius taught that divine illumination flows **downward** through the 
 
 ## Cross-References
 
-- [[The Nine Angelic Orders]] — Detailed entries on each order
+- [[The Ten Angelic Orders]] — Detailed entries on each order
 - [[The Three Triads]] — The triadic structure
 - [[The Archangels]] — The eighth order (distinct from the seven named archangels)
 

@@ -129,7 +129,7 @@ The practice for healing Aggression is **rhythm restoration through active waiti
 - [[Violence]] - Gate 51 shadow in House of the Flame (action without center)
 - [[Sacral Center]] - Life force, fertility, and response
 - [[Logic Circuit]] - Collective understanding through patterns
-- [[16 - The Tower]] - Tarot's violent disruption of structures
+- [[The Tower (XVI)]] - Tarot's violent disruption of structures
 - [[5 - Five of Wands]] - Tarot's conflict and forceful competition
 - [[Mars ♂]] - The shadow of force without wisdom
 - [[Aries ♈]] - The shadow of impatience and premature action

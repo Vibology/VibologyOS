@@ -130,8 +130,8 @@ The practice is surrender: **receive your sacred direction rather than manufactu
 - [[Domination]] - Gate 45 shadow in House of the Spirit (corrupted authority)
 - [[G Center]] - Identity, direction, and love
 - [[Knowing Circuit]] - Individual mutation through inspiration
-- [[2 - The High Priestess]] - Tarot's receptive inner wisdom
-- [[9 - The Hermit]] - Tarot's solitary inner guidance
+- [[The High Priestess (II)]] - Tarot's receptive inner wisdom
+- [[The Hermit (IX)]] - Tarot's solitary inner guidance
 - [[Virgo ♍]] - Astrological service through discernment
 
 ## Sources

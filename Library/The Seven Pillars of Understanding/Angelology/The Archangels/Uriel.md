@@ -108,7 +108,7 @@ Uriel does not appear in moments of ascension or heavenly revelation. Uriel appe
 | **Name** | Uriel (אוריאל) |
 | **Meaning** | "Fire of God," "Light of God," "Flame of God" |
 | **Sephirah Overseen** | [[Malkuth]] (Kingdom, 10th emanation) OR [[Daath]] (Knowledge, hidden Sephirah) |
-| **Angelic Order** | [[Ishim]] (Souls of Fire, Malkuth) or [[Tarshishim]] (Brilliant Ones) |
+| **Angelic Order** | [[Ishim]] (Souls of Fire, Malkuth) or Tarshishim (Brilliant Ones, variant tradition) |
 | **Element** | Earth (primary), Fire (secondary—the fire *within* earth, volcanic, chthonic) |
 | **Direction** | North (in Western magical tradition) OR South (in some Kabbalistic systems) |
 | **Day of Week** | Saturday (Saturnian—restriction, judgment, earth, time) |

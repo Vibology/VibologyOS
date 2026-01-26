@@ -110,8 +110,8 @@ When The Changeling appears in a reading, the querent is being tested: can you b
 - [[Hexagram 53]] - I-Ching hexagram
 - [[Gene Key 53]] - Immaturity → Expansion → Superabundance
 - [[Gemini ♊]] - Astrological twins and duality
-- [[0 - The Fool]] - Tarot correspondence to perpetual beginning
-- [[18 - The Moon]] - Tarot's shifting forms and illusion
+- [[The Fool (0)]] - Tarot correspondence to perpetual beginning
+- [[The Moon (XVIII)]] - Tarot's shifting forms and illusion
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

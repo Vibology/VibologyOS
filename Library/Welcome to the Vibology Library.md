@@ -19,15 +19,15 @@ Use this Library as the **Algorithm**—the external structure that organizes wh
 
 Each pillar is a complete wisdom tradition. Each contains an Overview as your entry point 
 
-| Pillar | Domain |
-|--------|--------|
-| [[Angelology]] | Hierarchical consciousness and divine emanation |
-| [[Astrology]] | Planetary timing and cosmic positioning |
-| [[Personal Mythos]] | Archetypal encoding, Jungian psychology, the Personal Myth |
-| [[Human Design]] | Individual genetic imprinting and mechanical navigation |
-| [[The Magdalene Path Overview\|The Magdalene Path]] | The unifying core—vertical soul ascent |
-| [[The Tarot]] | Qabalistic pathways and archetypal progression |
-| [[The Window]] | Contemporary archetypal resonance (the emotional field) |
+| Pillar                 | Domain                                                     |
+| ---------------------- | ---------------------------------------------------------- |
+| [[Angelology]]         | Hierarchical consciousness and divine emanation            |
+| [[Astrology]]          | Planetary timing and cosmic positioning                    |
+| [[Personal Mythos]]    | Archetypal encoding, Jungian psychology, the Personal Myth |
+| [[Human Design]]       | Individual genetic imprinting and mechanical navigation    |
+| [[The Magdalene Path]] | The unifying core—vertical soul ascent                     |
+| [[The Tarot]]          | Qabalistic pathways and archetypal progression             |
+| [[The Window]]         | Contemporary archetypal resonance (the emotional field)    |
 
 ---
 ## Core Foundations

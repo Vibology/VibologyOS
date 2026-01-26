@@ -34,7 +34,7 @@ The keynote here is **hunger as spiritual necessity**—the need for new experie
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 35 |
-| **I-Ching Hexagram** | 35 - 晉 Progress / Advancement |
+| **I-Ching Hexagram** | 35 - ䷢ Progress / Advancement |
 | **Center** | Throat (Manifestation, Expression) |
 | **Circuitry** | Collective - Abstract/Sensing Circuit (Experience) |
 | **Channel** | 35-36 (Transitoriness) - Throat to Solar Plexus |

@@ -797,7 +797,7 @@ Jung: *"The Indian's relationship to his gods is not one of belief but of experi
 - [[Buddhist Cosmology]] (Interdependence parallels Web-of-All-Relations)
 
 ### Tarot
-- [[The Fool]] (Coyote/Raven—sacred fool, divine madness)
+- [[The Fool (0)]] (Coyote/Raven—sacred fool, divine madness)
 - [[The Magician]] (Trickster transforming reality)
 - [[The High Priestess]] (Spider Woman, Corn Mother—sacred feminine wisdom)
 - [[The Hermit]] (Vision quest, wilderness ordeal, seeking guidance)

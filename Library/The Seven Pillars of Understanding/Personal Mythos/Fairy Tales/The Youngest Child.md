@@ -397,15 +397,15 @@ The Fool's **zero** is not absence but **pregnant emptiness**—the void that co
 
 ### The Fool's Journey Through the Major Arcana
 
-In Tarot, the **Fool's Journey** is the progression through all 22 Major Arcana cards, from **0 (The Fool)** to **21 ([[21 - The World|The World]])**. This journey represents the **path of individuation**: from unconscious wholeness (the Fool) through ego-development, shadow-encounter, death-rebirth, and integration, to conscious wholeness (The World).
+In Tarot, the **Fool's Journey** is the progression through all 22 Major Arcana cards, from **0 (The Fool)** to **21 ([[The World (XXI)|The World]])**. This journey represents the **path of individuation**: from unconscious wholeness (the Fool) through ego-development, shadow-encounter, death-rebirth, and integration, to conscious wholeness (The World).
 
 The **Youngest Child's fairy tale arc** mirrors this journey:
 - **Fool (0):** The youngest is naive, despised, without ego-strategies
 - **[[The Tarot/Major Arcana/01 - The Magician|The Magician]] (1) / [[The Tarot/Major Arcana/02 - The High Priestess|High Priestess]] (2):** He encounters the helper (the magical figure who sees his potential)
 - **[[The Tarot/Major Arcana/06 - The Lovers|The Lovers]] (6):** He makes the choice to be authentic (to share his food, to be kind to animals)
-- **[[12 - The Hanged Man|The Hanged Man]] (12):** He experiences the suspension of ego-mastery (the impossible tasks he cannot solve alone)
-- **[[13 - Death|Death]] (13):** The elder siblings' strategies "die" (they fail, are turned to stone, are exposed)
-- **[[21 - The World|The World]] (21):** He claims the treasure, marries the princess, becomes king (integration, wholeness)
+- **[[The Hanged Man (XII)|The Hanged Man]] (12):** He experiences the suspension of ego-mastery (the impossible tasks he cannot solve alone)
+- **[[Death (XIII)|Death]] (13):** The elder siblings' strategies "die" (they fail, are turned to stone, are exposed)
+- **[[The World (XXI)|The World]] (21):** He claims the treasure, marries the princess, becomes king (integration, wholeness)
 
 The Fool's journey is **circular**: at the end (The World), the Fool **returns to himself**, but now as **conscious wholeness** rather than unconscious naivety. This is the Youngest Child becoming king: **the fool redeemed, the despised exalted, the stone the builders rejected becoming the cornerstone**.
 
@@ -630,9 +630,9 @@ This practice trains the psyche to operate from **abundance rather than scarcity
 - [[The Tarot/Major Arcana/02 - The High Priestess|The High Priestess (2)]] – The unconscious wisdom the Fool can access
 - [[The Tarot/Major Arcana/06 - The Lovers|The Lovers (6)]] – The choice to be authentic (sharing the bread)
 - [[The Tarot/Major Arcana/09 - The Hermit|The Hermit (9)]] – The elder who returns to beginner's mind
-- [[12 - The Hanged Man|The Hanged Man (12)]] – The suspension of ego-mastery (the impossible task)
-- [[13 - Death|Death (13)]] – The death of the elder brothers' strategies
-- [[21 - The World|The World (21)]] – The Fool's journey complete (conscious wholeness)
+- [[The Hanged Man (XII)|The Hanged Man (12)]] – The suspension of ego-mastery (the impossible task)
+- [[Death (XIII)|Death (13)]] – The death of the elder brothers' strategies
+- [[The World (XXI)|The World (21)]] – The Fool's journey complete (conscious wholeness)
 
 ### World Mythology
 - [[Folklore/World Mythology/Greek Mythology]] – Hermes as the divine trickster-child

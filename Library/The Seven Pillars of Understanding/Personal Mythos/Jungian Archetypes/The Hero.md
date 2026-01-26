@@ -795,7 +795,7 @@ The Hero interacts dynamically with other archetypal structures:
 - [[Conjunction]] — Sacred marriage; hero and Anima united
 
 ### Tarot
-- [[The Fool]] — Beginning the journey; innocence, trust, the leap
+- [[The Fool (0)]] — Beginning the journey; innocence, trust, the leap
 - [[The Magician]] — The hero's will and skill; "As above, so below"
 - [[The Chariot]] — Conquest, control, willpower, triumph
 - [[Strength]] — Taming instinct (the lion) through gentleness, not force

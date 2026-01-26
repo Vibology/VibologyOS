@@ -34,7 +34,7 @@ The keynote here is that **power serves best when it empowers**, not dominates. 
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 34 |
-| **I-Ching Hexagram** | 34 - 大壯 The Power of the Great / Great Vigor |
+| **I-Ching Hexagram** | 34 - ䷡ The Power of the Great / Great Vigor |
 | **Center** | Sacral (Life Force, Sexual Energy, Generative Power) |
 | **Circuitry** | Integration / Centering (Individual Empowerment) |
 | **Channels** | 34-57 (Power), 34-20 (Charisma), 34-10 (Treading) |

@@ -34,7 +34,7 @@ The keynote is **ordering through challenge**. This is the Sacral's capacity to 
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 3 |
-| **I-Ching Hexagram** | 3 - 屯 Difficulty at the Beginning / Sprouting |
+| **I-Ching Hexagram** | 3 - ䷂ Difficulty at the Beginning / Sprouting |
 | **Center** | Sacral (Life Force, Fertility, Response) |
 | **Circuitry** | Individual - Knowing Circuit (Mutation) |
 | **Channel** | 3-60 (Mutation) - Sacral to Root |

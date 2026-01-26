@@ -34,7 +34,7 @@ The keynote here is **mental organization through service to patterns**. This is
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 17 |
-| **I-Ching Hexagram** | 17 - 隨 Following / Adapting |
+| **I-Ching Hexagram** | 17 - ䷐ Following / Adapting |
 | **Center** | Ajna (Awareness, Conceptualization, Mental Processing) |
 | **Circuitry** | Collective - Logic Circuit (Pattern Recognition) |
 | **Channel** | 17-62 (Acceptance) - Ajna to Throat |

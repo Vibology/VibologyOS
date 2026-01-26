@@ -5,7 +5,6 @@ date_created: 2026-01-26
 status: stub
 expansion_needed: true
 ---
-
 # Invocation
 *The Art of Calling Upon Angelic Presence*
 
@@ -106,7 +105,7 @@ Each [[The Archangels|Archangel]] governs specific domains:
 
 - [[Angelology]] — System overview
 - [[The Archangels]] — The great messengers
-- [[The Nine Angelic Orders]] — The celestial hierarchy
+- [[The Ten Angelic Orders]] — The celestial hierarchy
 - [[The Three Triads]] — Structural organization of the orders
 - [[Enochian Tradition]] — Advanced angelic ceremonial magic
 

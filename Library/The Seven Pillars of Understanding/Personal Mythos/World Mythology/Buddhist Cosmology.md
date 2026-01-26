@@ -1101,7 +1101,7 @@ The **grain of wheat** in the Eleusinian mysteries = the **lotus in the mud** in
 - [[Christian Mysticism]] (Desert Fathers, kenosis, Christ's temptation parallels Mara)
 
 ### Tarot
-- [[The Fool]] (Beginner's mind, openness to the path)
+- [[The Fool (0)]] (Beginner's mind, openness to the path)
 - [[The Magician]] (Manjushri, skillful means, upaya)
 - [[The High Priestess]] (Prajnaparamita, the perfection of wisdom)
 - [[The Hierophant]] (The Buddha as teacher, the Dharma)

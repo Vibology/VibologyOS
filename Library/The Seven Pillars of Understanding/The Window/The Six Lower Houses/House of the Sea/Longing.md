@@ -128,7 +128,7 @@ The practice is straightforward: **allow yourself to want, express desire honest
 - [[Envy]] - Gate 54 shadow in House of the Sea (opposite pole: comparative vs authentic desire)
 - [[Root Center]] - Pressure toward connection
 - [[Tribal Ego Circuit]] - Support through mutual need
-- [[2 - The High Priestess]] - Tarot's receptive waiting and sacred desire
+- [[The High Priestess (II)]] - Tarot's receptive waiting and sacred desire
 - [[Ace of Cups]] - Tarot's emotional openness and capacity for connection
 - [[Moon ☽]] - Emotional needs and the soul's longing
 - [[Cancer ♋]] - Astrological need for belonging and emotional security

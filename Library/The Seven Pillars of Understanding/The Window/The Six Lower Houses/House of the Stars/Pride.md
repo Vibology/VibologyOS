@@ -129,8 +129,8 @@ The practice is humility: **release the performance and discover who you are wit
 - [[Stagnation]] - Gate 12 shadow in House of the Stars (parallel shadow)
 - [[Resignation]] - Gate 9 shadow in House of the Stars (parallel shadow)
 - [[G Center]] - Identity and direction
-- [[16 - The Tower]] - Tarot correspondence to pride's fall
-- [[19 - The Sun]] - Tarot's authentic radiance (reversed: performance)
+- [[The Tower (XVI)]] - Tarot correspondence to pride's fall
+- [[The Sun (XIX)]] - Tarot's authentic radiance (reversed: performance)
 - [[Leo ♌]] - Astrological self-expression and ego development
 
 ## Sources

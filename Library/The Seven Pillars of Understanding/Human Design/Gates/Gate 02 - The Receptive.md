@@ -31,19 +31,19 @@ The keynote is **direction through receptivity**. Unlike Gate 1's initiating cre
 
 ## Core Correspondences
 
-| Attribute | Correspondence |
-|-----------|----------------|
-| **Gate Number** | 2 |
-| **I-Ching Hexagram** | 2 - 坤 The Receptive / The Receptive Earth |
-| **Center** | G Center (Identity, Direction, Love) |
-| **Circuitry** | Individual - Knowing Circuit (Mutation) |
-| **Channel** | 2-14 (The Beat) - G to Sacral |
-| **Keynote** | The Driver (Higher Self); receptivity as foundation for response |
-| **Biology** | Magnetic monopole, liver (direction, identity) |
-| **Line Themes** | 1) Intuition 2) Genius 3) Patience 4) Secretiveness 5) Intelligent Application 6) Fixation |
-| **Gene Keys** | Shadow: Dislocation / Gift: Orientation / Siddhi: Unity |
-| **Harmonic Gate** | Gate 14 (Possession in Great Measure - Sacral) |
-| **Codon Ring** | Ring of Illusion (Gates 1, 2, 7, 13) |
+| Attribute            | Correspondence                                                                             |
+| -------------------- | ------------------------------------------------------------------------------------------ |
+| **Gate Number**      | 2                                                                                          |
+| **I-Ching Hexagram** | 2 - ䷁ The Receptive / The Receptive Earth                                                  |
+| **Center**           | G Center (Identity, Direction, Love)                                                       |
+| **Circuitry**        | Individual - Knowing Circuit (Mutation)                                                    |
+| **Channel**          | 2-14 (The Beat) - G to Sacral                                                              |
+| **Keynote**          | The Driver (Higher Self); receptivity as foundation for response                           |
+| **Biology**          | Magnetic monopole, liver (direction, identity)                                             |
+| **Line Themes**      | 1) Intuition 2) Genius 3) Patience 4) Secretiveness 5) Intelligent Application 6) Fixation |
+| **Gene Keys**        | Shadow: Dislocation / Gift: Orientation / Siddhi: Unity                                    |
+| **Harmonic Gate**    | Gate 14 (Possession in Great Measure - Sacral)                                             |
+| **Codon Ring**       | Ring of Illusion (Gates 1, 2, 7, 13)                                                       |
 
 ## I-Ching Hexagram Analysis
 

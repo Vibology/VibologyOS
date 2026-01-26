@@ -128,7 +128,7 @@ The antidote to Envy is **Gratitude**—returning to appreciation for your actua
 - [[Root Center]] - Pressure and ambition
 - [[Tribal Ego Circuit]] - Status and hierarchical positioning
 - [[7 of Cups]] - Tarot's illusory desires and comparative fantasy
-- [[15 - The Devil]] - Tarot's bondage to material/emotional acquisition
+- [[The Devil (XV)]] - Tarot's bondage to material/emotional acquisition
 - [[Saturn ♄]] - Scarcity thinking and comparative measurement
 - [[Capricorn ♑]] - Shadow ambition and status-seeking through comparison
 

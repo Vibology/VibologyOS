@@ -34,7 +34,7 @@ The keynote is **transitoriness of power and influence**. Gate 28 knows that not
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 28 |
-| **I-Ching Hexagram** | 28 - 大過 Preponderance of the Great / Critical Mass / The Great Exceeding |
+| **I-Ching Hexagram** | 28 - ䷛ Preponderance of the Great / Critical Mass / The Great Exceeding |
 | **Center** | Spleen (Instinctual Awareness, Survival, Fear) |
 | **Circuitry** | Individual - Knowing Circuit (Mutation through Individual Expression) |
 | **Channel** | 28-38 (Struggle) - Spleen to Root |

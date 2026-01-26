@@ -126,7 +126,7 @@ The path through Rage requires returning to **Compassion**—not abandoning ange
 - [[Longing]] - Gate 19 in House of the Sea (underlying need)
 - [[Solar Plexus Center]] - Emotional waves and friction
 - [[Tribal Defense Circuit]] - Boundaries and intimacy
-- [[16 - The Tower]] - Tarot's explosive breakdown and destruction
+- [[The Tower (XVI)]] - Tarot's explosive breakdown and destruction
 - [[5 of Wands]] - Tarot's conflict and competitive friction
 - [[Mars ♂]] - Aggression, anger, and the warrior's fury
 - [[Aries ♈]] - Astrological impulse and unregulated fire

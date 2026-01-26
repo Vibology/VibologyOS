@@ -129,8 +129,8 @@ The practice is straightforward: **become genuinely good at what you do**. Not a
 - [[Vision]] - Gate 1 in House of the Stars (creative direction)
 - [[Pride]] - Gate 10 shadow in House of the Stars (opposite pole)
 - [[Sacral Center]] - Life force and sustained work capacity
-- [[1 - The Magician]] - Tarot correspondence to skilled manifestation
-- [[19 - The Sun]] - Tarot's radiant success and material flourishing
+- [[The Magician (I)]] - Tarot correspondence to skilled manifestation
+- [[The Sun (XIX)]] - Tarot's radiant success and material flourishing
 - [[Capricorn ♑]] - Astrological mastery through discipline
 
 ## Sources

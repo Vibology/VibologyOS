@@ -34,7 +34,7 @@ The keynote here is **mental oppression seeking liberation**. The I-Ching name "
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 47 |
-| **I-Ching Hexagram** | 47 - 困 Oppression / Exhaustion |
+| **I-Ching Hexagram** | 47 - ䷮ Oppression / Exhaustion |
 | **Center** | Ajna Center (Mind, Conceptualization, Awareness) |
 | **Circuitry** | Collective - Understanding Circuit (Logic) |
 | **Channel** | 47-64 (Abstraction / Mental Clarity) - Ajna to Head |

@@ -612,7 +612,7 @@ The Self is not an escape from life, but the **fullest engagement** with life. I
 
 ### Tarot
 
-- [[The Fool]] (0) - The Self as primordial potential
+- [[The Fool (0)]] (0) - The Self as primordial potential
 - [[The Magician]] (I) - The Self as conscious will
 - [[The High Priestess]] (II) - The Self as hidden wisdom
 - [[The Sun]] (XIX) - The Self as conscious spirit and Divine Child

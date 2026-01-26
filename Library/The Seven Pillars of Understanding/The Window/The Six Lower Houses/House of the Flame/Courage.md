@@ -130,8 +130,8 @@ The practice is straightforward: **act decisively when survival requires it, and
 - [[Violence]] - Gate 51 shadow in House of the Flame (opposite pole)
 - [[Heart Center]] - Willpower and material resources
 - [[Tribal Circuit]] - Support, loyalty, and collective survival
-- [[4 - The Emperor]] - Tarot's justified authority and protective structure
-- [[7 - The Chariot]] - Tarot's disciplined will overcoming obstacles
+- [[The Emperor (IV)]] - Tarot's justified authority and protective structure
+- [[The Chariot (VII)]] - Tarot's disciplined will overcoming obstacles
 - [[Mars ♂]] - Warrior energy and decisive action
 - [[Aries ♈]] - Astrological courage and initiating force
 

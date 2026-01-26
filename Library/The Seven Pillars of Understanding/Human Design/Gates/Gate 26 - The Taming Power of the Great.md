@@ -34,7 +34,7 @@ The keynote is **maximization of memory applied to nurturing continuity**. Gate 
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 26 |
-| **I-Ching Hexagram** | 26 - 大畜 The Taming Power of the Great / Great Accumulation |
+| **I-Ching Hexagram** | 26 - ䷙ The Taming Power of the Great / Great Accumulation |
 | **Center** | Heart (Ego) - Willpower and Material Resources |
 | **Circuitry** | Tribal - Ego Circuit (Support, Resources, Loyalty) |
 | **Channel** | 26-44 (Surrender) - Ego to Spleen |

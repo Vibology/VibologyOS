@@ -34,7 +34,7 @@ The keynote here is **depth and adequacy**. The I-Ching name "The Well" reflects
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 48 |
-| **I-Ching Hexagram** | 48 - 井 The Well / The Water Source |
+| **I-Ching Hexagram** | 48 - ䷯ The Well / The Water Source |
 | **Center** | Spleen Center (Survival, Instinct, Health, Fear) |
 | **Circuitry** | Collective - Understanding Circuit (Logic) |
 | **Channel** | 48-16 (Wavelength / Talent) - Spleen to Throat |

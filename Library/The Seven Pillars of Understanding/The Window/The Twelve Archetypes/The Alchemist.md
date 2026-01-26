@@ -112,8 +112,8 @@ When The Alchemist appears in a reading, the querent is being tested: will you t
 - [[Hexagram 43]] - I-Ching hexagram
 - [[Gene Key 43]] - Deafness → Insight → Epiphany
 - [[Aquarius ♒]] - Astrological revolutionary and visionary
-- [[21 - The World]] - Tarot correspondence to completion and integration
-- [[10 - Wheel of Fortune]] - Tarot's cycles of becoming
+- [[The World (XXI)]] - Tarot correspondence to completion and integration
+- [[Wheel of Fortune (X)]] - Tarot's cycles of becoming
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

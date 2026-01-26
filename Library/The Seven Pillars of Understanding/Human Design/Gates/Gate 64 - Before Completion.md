@@ -34,7 +34,7 @@ The keynote here is **pressure of confusion**. This is the Head Center's capacit
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 64 |
-| **I-Ching Hexagram** | 64 - 未濟 Before Completion / Fire over Water |
+| **I-Ching Hexagram** | 64 - ䷿ Before Completion / Fire over Water |
 | **Center** | Head - Inspiration, Mental Pressure, Cosmic Questions |
 | **Circuitry** | Collective - Sensing/Abstract Circuit (Understanding through Experience over Time) |
 | **Channels** | 64-47 (Abstraction - The Realized Being) |

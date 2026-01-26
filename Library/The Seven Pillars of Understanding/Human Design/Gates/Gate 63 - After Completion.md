@@ -34,7 +34,7 @@ The keynote here is **pressure of doubt**. This is the Head Center's capacity to
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 63 |
-| **I-Ching Hexagram** | 63 - 既濟 After Completion / Water over Fire |
+| **I-Ching Hexagram** | 63 - ䷾ After Completion / Water over Fire |
 | **Center** | Head - Inspiration, Mental Pressure, Cosmic Questions |
 | **Circuitry** | Collective - Logic Circuit (Understanding through Pattern Recognition) |
 | **Channels** | 63-4 (Logic - The Formula) |

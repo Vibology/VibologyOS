@@ -112,8 +112,8 @@ When The Wise Man appears in a reading, the querent is being tested: will you ho
 - [[Hexagram 40]] - I-Ching hexagram
 - [[Gene Key 40]] - Exhaustion → Resolve → Divine Will
 - [[Virgo ♍]] - Astrological service and precision
-- [[9 - The Hermit]] - Tarot correspondence to solitary wisdom
-- [[5 - The Hierophant]] - Tarot's teaching through tradition
+- [[The Hermit (IX)]] - Tarot correspondence to solitary wisdom
+- [[The Hierophant (V)]] - Tarot's teaching through tradition
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

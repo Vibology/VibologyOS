@@ -34,7 +34,7 @@ The keynote here is **the paradox of duration**: the only thing that endures is 
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 32 |
-| **I-Ching Hexagram** | 32 - 恆 Duration / The Long Enduring |
+| **I-Ching Hexagram** | 32 - ䷟ Duration / The Long Enduring |
 | **Center** | Spleen (Survival, Intuition, Health) |
 | **Circuitry** | Tribal - Ego Circuit (Support and Resources) |
 | **Channel** | 32-54 (Transformation) - Spleen to Root |

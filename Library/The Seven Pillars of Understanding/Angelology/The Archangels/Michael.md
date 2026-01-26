@@ -234,7 +234,7 @@ Tiphareth sits on the **Middle Pillar** of the Tree of Life, called the **Pillar
 
 5. **[[Malkuth]]** (Kingdom) — The material, the world, the body
    - Archangel: **Sandalphon** (Co-Brother)
-   - Order: [[Ashim]] (Souls of Fire)
+   - Order: [[Ishim|Ashim]] (Souls of Fire)
 
 The Middle Pillar is the **path of equilibrium**—the integration of Mercy (right) and Severity (left). Michael, as the Archangel of Tiphareth, is the **guardian of this equilibrium**, ensuring that the soul neither inflates into grandiosity (false Kether) nor collapses into materialism (lost in Malkuth).
 

@@ -34,7 +34,7 @@ The keynote here is **spirit as the source of abundance**. This is the Solar Ple
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 55 |
-| **I-Ching Hexagram** | 55 - 豐 Abundance / Fullness |
+| **I-Ching Hexagram** | 55 - ䷶ Abundance / Fullness |
 | **Center** | Solar Plexus - Emotion, Feeling, Sensation |
 | **Circuitry** | Individual - Knowing Circuit (Mutation through Emotional Depth) |
 | **Channel** | 39-55 (Emoting) - Root to Solar Plexus |

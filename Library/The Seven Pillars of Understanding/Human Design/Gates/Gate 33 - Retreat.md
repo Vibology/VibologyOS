@@ -34,7 +34,7 @@ The keynote here is **strategic retreat**—not cowardice or avoidance, but the 
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 33 |
-| **I-Ching Hexagram** | 33 - 遯 Retreat / Withdrawal |
+| **I-Ching Hexagram** | 33 - ䷠ Retreat / Withdrawal |
 | **Center** | Throat (Manifestation, Expression) |
 | **Circuitry** | Collective - Abstract/Sensing Circuit (Experience and Sharing) |
 | **Channel** | 33-13 (The Prodigal) - Throat to G Center |

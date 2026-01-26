@@ -34,7 +34,7 @@ The keynote here is **pressure to know mystery**. This is the Head Center's capa
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 61 |
-| **I-Ching Hexagram** | 61 - 中孚 Inner Truth / Wind over Lake |
+| **I-Ching Hexagram** | 61 - ䷼ Inner Truth / Wind over Lake |
 | **Center** | Head - Inspiration, Mental Pressure, Cosmic Questions |
 | **Circuitry** | Individual - Knowing Circuit (Mutation through Inspiration) |
 | **Channels** | 61-24 (Awareness - The Thinker) |

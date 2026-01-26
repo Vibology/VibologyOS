@@ -994,7 +994,7 @@ This is controversial but psychologically valid: individuation in the West requi
 - [[Buddhist Cosmology]] (Shares Samsara, Karma, but rejects Atman)
 
 ### Tarot
-- [[The Fool]] (Krishna's Lila, divine play)
+- [[The Fool (0)]] (Krishna's Lila, divine play)
 - [[The Magician]] (Krishna as cosmic creator-teacher)
 - [[The High Priestess]] (Saraswati, Kali as mystery)
 - [[The Emperor]] (Rama as dharmic king)

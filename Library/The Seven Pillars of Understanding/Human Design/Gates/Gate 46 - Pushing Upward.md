@@ -34,7 +34,7 @@ The keynote here is **serendipity through embodiment**. When the individual love
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 46 |
-| **I-Ching Hexagram** | 46 - 升 Pushing Upward / Ascending |
+| **I-Ching Hexagram** | 46 - ䷭ Pushing Upward / Ascending |
 | **Center** | G Center (Identity, Direction, Love) |
 | **Circuitry** | Collective - Understanding Circuit (Logic) |
 | **Channel** | 46-29 (Discovery / Succeeding Where Others Have Failed) - G to Sacral |

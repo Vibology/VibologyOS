@@ -128,8 +128,8 @@ Confidence stands in contrast to the negative Land cards, particularly **Insecur
 - [[Insecurity]] - Gate 48 in House of the Land (shadow polarity)
 - [[Throat Center]] - Manifestation of creative truth
 - [[Individual Knowing Circuit]] - Mutation through authentic expression
-- [[3 - The Empress]] - Tarot's creative abundance and authentic nurturing
-- [[1 - The Magician]] - Tarot's manifestation of individual will
+- [[The Empress (III)]] - Tarot's creative abundance and authentic nurturing
+- [[The Magician (I)]] - Tarot's manifestation of individual will
 - [[Venus ♀]] - Creative beauty and authentic value
 - [[Leo ♌]] - Astrological creative expression and authentic presence
 

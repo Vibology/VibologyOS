@@ -378,7 +378,7 @@ The system demands **humility, discipline, and relentless self-honesty**. It is 
 ## Cross-References
 ### Within Angelology
 - [[The Archangels]] — The eleven Qabalistic archangels
-- [[The Nine Angelic Orders]] — The nine orders of the Pseudo-Dionysian hierarchy
+- [[The Ten Angelic Orders]] — The nine orders of the Pseudo-Dionysian hierarchy
 - [[Michael]] | [[Gabriel]] | [[Raphael]] | [[Uriel]] — The four directional archangels
 - [[Metatron]] — The Voice of God, comparable to the revealing angels of Enochian
 

@@ -914,7 +914,7 @@ Jung: *"Odin is the god of poets, the dead, and the hanged—those who have pass
 - [[Celtic Mythology]] (Dagda vs. Odin, Morrigan vs. Freyja, Otherworld vs. Helheim)
 
 ### Tarot
-- [[The Fool]] (Odin's wandering, Loki's chaos)
+- [[The Fool (0)]] (Odin's wandering, Loki's chaos)
 - [[The Magician]] (Odin wielding runes, Loki shapeshifting)
 - [[The High Priestess]] (Frigg knowing all fates, Freyja's seiðr)
 - [[The Emperor]] (Odin as Allfather, Thor as defender)

@@ -129,8 +129,8 @@ The practice is endurance: **continue fighting for what matters with integrity**
 - [[Vision]] - Gate 1 in House of the Stars (direction to fight for)
 - [[Resignation]] - Gate 9 shadow in House of the Stars (opposite pole)
 - [[Root Center]] - Pressure and drive to act
-- [[8 - Strength]] - Tarot correspondence to courage through challenge
-- [[5 - The Hierophant]] - Tarot's principled persistence
+- [[Strength (VIII)]] - Tarot correspondence to courage through challenge
+- [[The Hierophant (V)]] - Tarot's principled persistence
 - [[Mars ♂]] - Astrological warrior energy and drive
 
 ## Sources

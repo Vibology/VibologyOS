@@ -112,8 +112,8 @@ When The Divine Child appears in a reading, the querent is being tested: will yo
 - [[Hexagram 37]] - I-Ching hexagram
 - [[Gene Key 37]] - Weakness → Equality → Tenderness
 - [[Cancer ♋]] - Astrological nurturer and home-seeker
-- [[0 - The Fool]] - Tarot correspondence to innocent beginning
-- [[19 - The Sun]] - Tarot's radiant childlike joy
+- [[The Fool (0)]] - Tarot correspondence to innocent beginning
+- [[The Sun (XIX)]] - Tarot's radiant childlike joy
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

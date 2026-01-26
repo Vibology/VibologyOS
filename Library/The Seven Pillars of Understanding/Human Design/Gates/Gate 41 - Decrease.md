@@ -34,7 +34,7 @@ The keynote here is **contraction before expansion**. The I-Ching name "Decrease
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 41 |
-| **I-Ching Hexagram** | 41 - 損 Decrease / Diminishing |
+| **I-Ching Hexagram** | 41 - ䷨ Decrease / Diminishing |
 | **Center** | Root Center (Pressure, Stress, Fuel) |
 | **Circuitry** | Collective - Abstract Circuit (Sensing Stream) |
 | **Channel** | 41-30 (Recognition / Format Energy) - Root to Solar Plexus |

@@ -34,7 +34,7 @@ The keynote is **justified and necessary power**. Gate 21 does not seek control 
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 21 |
-| **I-Ching Hexagram** | 21 - 噬嗑 Biting Through / Gnawing Bite |
+| **I-Ching Hexagram** | 21 - ䷔ Biting Through / Gnawing Bite |
 | **Center** | Heart (Ego) - Willpower and Material Resources |
 | **Circuitry** | Tribal - Ego Circuit (Support, Resources, Loyalty) |
 | **Channel** | 21-45 (The Money Line) - Ego to Throat |

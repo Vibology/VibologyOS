@@ -34,7 +34,7 @@ The keynote is **creative contribution through individual style**. This is the T
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 8 |
-| **I-Ching Hexagram** | 8 - 比 Holding Together / Union |
+| **I-Ching Hexagram** | 8 - ䷇ Holding Together / Union |
 | **Center** | Throat (Manifestation, Voice, Action) |
 | **Circuitry** | Individual - Knowing Circuit (Mutation) |
 | **Channel** | 1-8 (Inspiration) - G to Throat |

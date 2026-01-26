@@ -127,7 +127,7 @@ The practice for healing Hatred is **remembering your own ignorance and extendin
 - [[Despair]] - Gate 47 shadow in House of the Chronicle (collapsed narrative)
 - [[Ajna Center]] - Mental awareness and conceptualization
 - [[Logic Circuit]] - Collective understanding through patterns
-- [[15 - The Devil]] - Tarot's bondage and toxic attachment
+- [[The Devil (XV)]] - Tarot's bondage and toxic attachment
 - [[5 - The Hierophant reversed]] - Tarot's dogmatism and rigid teaching
 - [[Pluto ♇]] - The shadow of power when used to dominate
 - [[Scorpio ♏]] - The capacity for both transformation and toxic judgment

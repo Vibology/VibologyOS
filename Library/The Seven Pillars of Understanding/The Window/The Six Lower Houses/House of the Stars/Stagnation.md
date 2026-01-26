@@ -130,8 +130,8 @@ The practice is completion: **finish something imperfect rather than polishing n
 - [[Pride]] - Gate 10 shadow in House of the Stars (parallel shadow)
 - [[Resignation]] - Gate 9 shadow in House of the Stars (parallel shadow)
 - [[Throat Center]] - Manifestation and expression
-- [[12 - The Hanged Man]] - Tarot correspondence to suspended action
-- [[4 - The Emperor]] - Tarot's structured will (reversed: paralyzed authority)
+- [[The Hanged Man (XII)]] - Tarot correspondence to suspended action
+- [[The Emperor (IV)]] - Tarot's structured will (reversed: paralyzed authority)
 - [[Virgo ♍]] - Astrological discrimination and refinement
 
 ## Sources

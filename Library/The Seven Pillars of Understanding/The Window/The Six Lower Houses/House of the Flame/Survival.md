@@ -130,8 +130,8 @@ The practice is straightforward: **remember what has sustained life and apply th
 - [[Aggression]] - Gate 5 shadow in House of the Flame (force without patience)
 - [[Heart Center]] - Willpower and material resources
 - [[Tribal Circuit]] - Support, loyalty, and collective survival
-- [[9 - The Hermit]] - Tarot's accumulated wisdom through experience
-- [[4 - The Emperor]] - Tarot's structured preservation and stewardship
+- [[The Hermit (IX)]] - Tarot's accumulated wisdom through experience
+- [[The Emperor (IV)]] - Tarot's structured preservation and stewardship
 - [[Saturn ♄]] - Time, structure, and what endures
 - [[Capricorn ♑]] - Astrological mastery through patient accumulation
 

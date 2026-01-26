@@ -34,7 +34,7 @@ The keynote is **power as resource for empowerment**. This is the Sacral's capac
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 14 |
-| **I-Ching Hexagram** | 14 - 大有 Possession in Great Measure / Great Possessing |
+| **I-Ching Hexagram** | 14 - ䷍ Possession in Great Measure / Great Possessing |
 | **Center** | Sacral (Life Force, Fertility, Response) |
 | **Circuitry** | Individual - Centering Circuit (Empowerment) |
 | **Channel** | 14-2 (The Beat) - Sacral to G Center |

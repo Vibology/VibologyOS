@@ -130,8 +130,8 @@ The practice is presence: **sustain the pressure of not-knowing with patient awa
 - [[Apathy]] - Gate 56 shadow in House of the Spirit (scattered consciousness)
 - [[Head Center]] - Mental pressure and inspiration
 - [[Sensing Circuit]] - Collective experiential wisdom
-- [[2 - The High Priestess]] - Tarot correspondence to inner knowing
-- [[18 - The Moon]] - Tarot's imagination and uncertainty
+- [[The High Priestess (II)]] - Tarot correspondence to inner knowing
+- [[The Moon (XVIII)]] - Tarot's imagination and uncertainty
 - [[Pisces ♓]] - Astrological receptivity and visionary perception
 
 ## Sources

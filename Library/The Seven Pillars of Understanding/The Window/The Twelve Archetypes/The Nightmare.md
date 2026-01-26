@@ -112,8 +112,8 @@ When The Nightmare appears in a reading, the querent is being tested: will you r
 - [[Hexagram 39]] - I-Ching hexagram
 - [[Gene Key 39]] - Provocation → Dynamism → Liberation
 - [[Pisces ♓]] - Astrological mystic and dissolver
-- [[12 - The Hanged Man]] - Tarot correspondence to surrender at threshold
-- [[15 - The Devil]] - Tarot's shadow guardian
+- [[The Hanged Man (XII)]] - Tarot correspondence to surrender at threshold
+- [[The Devil (XV)]] - Tarot's shadow guardian
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

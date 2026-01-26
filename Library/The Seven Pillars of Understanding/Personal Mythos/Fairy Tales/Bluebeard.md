@@ -359,15 +359,15 @@ Though traditionally a tale for women, men can encounter Bluebeard as the **inte
 
 ### Tarot
 
-**[[15 - The Devil]]** – Bondage to the predator, the chains that feel like love but are actually captivity. Bluebeard's castle is the Devil's domain: luxury masking enslavement, charm concealing coercion. The Devil teaches: **See the chains. Recognize they are unlocked. You can leave.**
+**[[The Devil (XV)]]** – Bondage to the predator, the chains that feel like love but are actually captivity. Bluebeard's castle is the Devil's domain: luxury masking enslavement, charm concealing coercion. The Devil teaches: **See the chains. Recognize they are unlocked. You can leave.**
 
-**[[16 - The Tower]]** – The shock of opening the forbidden door, the destruction of the false marriage, the collapse of the illusion. The Tower is the **moment the bloody key reveals the truth**—the lightning strike of undeniable reality. Everything built on lies must fall.
+**[[The Tower (XVI)]]** – The shock of opening the forbidden door, the destruction of the false marriage, the collapse of the illusion. The Tower is the **moment the bloody key reveals the truth**—the lightning strike of undeniable reality. Everything built on lies must fall.
 
-**[[8 - Strength]] (Reversed)** – Where upright Strength tames the lion through love, Bluebeard is the **failure of love to redeem**. Not all beasts are redeemable. Reversed Strength is the **recognition that this is not a Beast to be loved but a predator to be destroyed**.
+**[[Strength (VIII)]] (Reversed)** – Where upright Strength tames the lion through love, Bluebeard is the **failure of love to redeem**. Not all beasts are redeemable. Reversed Strength is the **recognition that this is not a Beast to be loved but a predator to be destroyed**.
 
-**[[3 - The Empress]] (Threatened)** – The Empress as **creative life force under siege**. The corpses in the chamber are the murdered Empress—fertility, creation, instinct, Eros, all slaughtered by the predator.
+**[[The Empress (III)]] (Threatened)** – The Empress as **creative life force under siege**. The corpses in the chamber are the murdered Empress—fertility, creation, instinct, Eros, all slaughtered by the predator.
 
-**[[7 - The Chariot]]** – The brothers riding to the rescue, the **swift decisive action** that ends the predator's reign. The Chariot is the Animus function activated: clarity, willpower, and the capacity to **fight**.
+**[[The Chariot (VII)]]** – The brothers riding to the rescue, the **swift decisive action** that ends the predator's reign. The Chariot is the Animus function activated: clarity, willpower, and the capacity to **fight**.
 
 ### Mythology
 
@@ -576,7 +576,7 @@ The Bluebeard pattern maps precisely onto **coercive control dynamics**:
 [[Individuation]] • [[Shadow Integration]] • [[Projection]] • [[Active Imagination]] • [[Transcendent Function]] • [[Syzygy]] • [[Animus Possession]]
 
 **Tarot Keys:**
-[[15 - The Devil]] • [[16 - The Tower]] • [[8 - Strength]] • [[3 - The Empress]] • [[7 - The Chariot]] • [[13 - Death]] • [[18 - The Moon]]
+[[The Devil (XV)]] • [[The Tower (XVI)]] • [[Strength (VIII)]] • [[The Empress (III)]] • [[The Chariot (VII)]] • [[Death (XIII)]] • [[The Moon (XVIII)]]
 
 #### Alchemical Stages
 [[Mortificatio]] • [[Nigredo]] • [[Solve et Coagula]] • [[Putrefaction]] • [[Calcination]]

@@ -803,7 +803,7 @@ The Trickster appears in dreams with specific motifs:
 - [[Coniunctio]] — Trickster as mediating agent between opposites
 
 ### Tarot
-- [[The Fool]] — Zero Point, leap into unknown, divine madness, beginner's mind
+- [[The Fool (0)]] — Zero Point, leap into unknown, divine madness, beginner's mind
 - [[The Magician]] — Hermes/Mercury, cunning intelligence, threshold mastery
 - [[The Devil]] — Dionysian possession, bondage to appetite, shadow Trickster
 - [[The Moon]] — Illusions, shapeshifting, the Trickster's realm of ambiguity

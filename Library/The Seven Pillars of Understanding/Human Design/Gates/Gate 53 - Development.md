@@ -34,7 +34,7 @@ The keynote here is **initiation of cycles**. This is the Root Center's pressure
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 53 |
-| **I-Ching Hexagram** | 53 - 漸 Development / Gradual Progress |
+| **I-Ching Hexagram** | 53 - ䷴ Development / Gradual Progress |
 | **Center** | Root - Pressure, Stress, Adrenalization |
 | **Circuitry** | Collective - Sensing/Abstract Circuit (Experience and Reflection) |
 | **Channel** | 42-53 (Maturation) - Root to Sacral |

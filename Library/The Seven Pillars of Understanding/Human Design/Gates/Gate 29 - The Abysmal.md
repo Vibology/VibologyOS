@@ -34,7 +34,7 @@ The keynote is **the deep within the deep**. Gate 29 does not commit superficial
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 29 |
-| **I-Ching Hexagram** | 29 - 坎 The Abysmal / The Deep Water / Danger |
+| **I-Ching Hexagram** | 29 - ䷜ The Abysmal / The Deep Water / Danger |
 | **Center** | Sacral (Life Force, Fertility, Response) |
 | **Circuitry** | Collective - Sensing/Abstract Circuit (Experience and Wisdom) |
 | **Channel** | 29-46 (Discovery) - Sacral to G Center |

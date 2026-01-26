@@ -130,8 +130,8 @@ The practice is acceptance: **recognize your role and fulfill it with virtue**. 
 - [[Domination]] - Gate 45 shadow in House of the Spirit (corrupted authority)
 - [[G Center]] - Identity, direction, and love
 - [[Logic Circuit]] - Collective pattern recognition
-- [[4 - The Emperor]] - Tarot correspondence to structured leadership
-- [[11 - Justice]] - Tarot's moral authority and balance
+- [[The Emperor (IV)]] - Tarot correspondence to structured leadership
+- [[Justice (XI)]] - Tarot's moral authority and balance
 - [[Leo ♌]] - Astrological leadership and creative will
 
 ## Sources

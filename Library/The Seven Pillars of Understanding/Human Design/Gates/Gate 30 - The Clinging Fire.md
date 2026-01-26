@@ -34,7 +34,7 @@ The keynote is **freedom recognized as an illusion and limitation accepted as a 
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 30 |
-| **I-Ching Hexagram** | 30 - 離 The Clinging Fire / The Clinging / Radiance |
+| **I-Ching Hexagram** | 30 - ䷝ The Clinging Fire / The Clinging / Radiance |
 | **Center** | Solar Plexus (Emotional Awareness and Sensitivity) |
 | **Circuitry** | Collective - Sensing/Abstract Circuit (Experience and Wisdom) |
 | **Channel** | 30-41 (Recognition) - Solar Plexus to Root |

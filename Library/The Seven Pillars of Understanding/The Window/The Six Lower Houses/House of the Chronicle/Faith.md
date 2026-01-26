@@ -129,8 +129,8 @@ The practice is straightforward: **invest in what you believe deserves to endure
 - [[Despair]] - Gate 47 shadow in House of the Chronicle (meaning collapse)
 - [[Spleen Center]] - Survival, intuition, and splenic knowing
 - [[Tribal Circuit]] - Support, loyalty, and collective preservation
-- [[5 - The Hierophant]] - Tarot's preserved tradition and teaching authority
-- [[4 - The Emperor]] - Tarot's structural endurance and fatherly protection
+- [[The Hierophant (V)]] - Tarot's preserved tradition and teaching authority
+- [[The Emperor (IV)]] - Tarot's structural endurance and fatherly protection
 - [[Capricorn ♑]] - Astrological endurance through disciplined commitment
 - [[Saturn ♄]] - Time, structure, and what endures through limitation
 

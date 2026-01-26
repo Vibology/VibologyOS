@@ -128,8 +128,8 @@ Integrity stands in direct opposition to **Corruption** (Gate 50 shadow)—the d
 - [[Corruption]] - Gate 50 in House of the Land (opposite pole and what integrity prevents)
 - [[Spleen Center]] - Instinctual awareness and immune function
 - [[Collective Logic Circuit]] - Pattern-based correction and understanding
-- [[11 - Justice]] - Tarot's structural balance and righteous correction
-- [[9 - The Hermit]] - Tarot's discerning wisdom and careful examination
+- [[Justice (XI)]] - Tarot's structural balance and righteous correction
+- [[The Hermit (IX)]] - Tarot's discerning wisdom and careful examination
 - [[Virgo ♍]] - Astrological discernment and corrective service
 - [[Saturn ♄]] - Structure, standards, and maintenance through discipline
 

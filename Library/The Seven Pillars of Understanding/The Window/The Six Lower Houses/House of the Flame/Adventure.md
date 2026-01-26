@@ -130,8 +130,8 @@ The practice is straightforward: **find the struggle worth your total commitment
 - [[Recklessness]] - Gate 61 shadow in House of the Flame (action without wisdom)
 - [[Spleen Center]] - Instinctual awareness and survival wisdom
 - [[Knowing Circuit]] - Individual mutation through inspiration and risk
-- [[0 - The Fool]] - Tarot's leap into the unknown
-- [[7 - The Chariot]] - Tarot's willful engagement with challenge
+- [[The Fool (0)]] - Tarot's leap into the unknown
+- [[The Chariot (VII)]] - Tarot's willful engagement with challenge
 - [[Mars ♂]] - Warrior energy and willingness to fight
 - [[Sagittarius ♐]] - Astrological adventure and meaningful quest
 

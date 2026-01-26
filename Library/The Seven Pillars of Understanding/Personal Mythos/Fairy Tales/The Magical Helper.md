@@ -680,7 +680,7 @@ When facing an **impossible task** (the problem the ego alone cannot solve):
 [[Individuation]] • [[Transcendent Function]] • [[Active Imagination]] • [[Shadow Integration]] • [[Collective Unconscious]] • [[Synchronicity]] • [[Projection]] • [[Syzygy]] • [[Coniunctio]] • [[Helpful Instinct]] • [[Objective Psyche]]
 
 **Tarot Keys:**
-[[The Star]] • [[The Magician]] • [[Strength]] • [[Temperance]] • [[The High Priestess]] • [[The Hermit]] • [[The Fool]] • [[The Empress]] • [[The Moon]]
+[[The Star]] • [[The Magician]] • [[Strength]] • [[Temperance]] • [[The High Priestess]] • [[The Hermit]] • [[The Fool (0)]] • [[The Empress]] • [[The Moon]]
 
 **Alchemical Concepts:**
 [[Mercurius]] • [[Philosopher's Stone]] • [[Solve et Coagula]] • [[Nigredo]] • [[Albedo]] • [[Rubedo]] • [[Prima Materia]] • [[Homunculus]] • [[Athanor]]

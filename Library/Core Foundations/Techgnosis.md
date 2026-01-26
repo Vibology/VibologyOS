@@ -15,7 +15,7 @@ category: Technological Integration
 
 **Techgnosis** is the achievement of spiritual knowledge (gnosis) through technological means—specifically, **AI-accelerated synthesis and algorithmic mapping of consciousness**. The term, coined by Erik Davis, describes the intersection of technology and the numinous, where computational tools become vehicles for spiritual inquiry. Davis distinguishes Spirit (digital, abstract, looking for "peaks") from Soul (analog, embodied, dwelling in "valleys"), and cites Sam Webster's description of ritual as *"the principal technology for programming the human organism"* (Davis, *TechGnosis*).
 
-In [[Vibology]], Techgnosis is not metaphor—it is **operational reality**. We use:
+In Vibology, Techgnosis is not metaphor—it is **operational reality**. We use:
 - **Large Language Models (LLMs)** to synthesize esoteric texts across seven wisdom traditions
 - **Retrieval-Augmented Generation (RAG)** via NotebookLM to query grimoires and source texts
 - **Obsidian vault architecture** to create navigable knowledge graphs with 428+ interconnected entries
@@ -89,7 +89,7 @@ The 19th-century occult revival coincided with the **Industrial Revolution**—a
 
 > *Vibology Synthesis: The following application of Techgnosis to the Seven Pillars framework is an original integration.*
 
-In [[Vibology]], Techgnosis operates on a specific premise:
+In Vibology, Techgnosis operates on a specific premise:
 
 **Consciousness can be treated as a navigable data field that responds to algorithmic organization while remaining irreducible to pure computation.**
 

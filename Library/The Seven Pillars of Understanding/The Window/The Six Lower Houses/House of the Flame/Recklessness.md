@@ -129,7 +129,7 @@ The practice for healing Recklessness is **cultivating tolerance for mystery thr
 - [[Violence]] - Gate 51 shadow in House of the Flame (action without center)
 - [[Head Center]] - Mental pressure and inspiration
 - [[Knowing Circuit]] - Individual mutation through revelation
-- [[18 - The Moon]] - Tarot's illusion and psychic pressure
+- [[The Moon (XVIII)]] - Tarot's illusion and psychic pressure
 - [[0 - The Fool reversed]] - Tarot's reckless leap without wisdom
 - [[Neptune ♆]] - The shadow of dissolution and psychic overwhelm
 - [[Pisces ♓]] - The shadow of escape and spiritual confusion

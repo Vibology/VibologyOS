@@ -130,8 +130,8 @@ The practice is presence: **slow down and let something nourish you**. Not consu
 - [[Domination]] - Gate 45 shadow in House of the Spirit (parallel shadow)
 - [[Throat Center]] - Expression and manifestation
 - [[Sensing Circuit]] - Collective experiential wisdom
-- [[7 - The Chariot]] - Tarot's directed will (reversed: scattered movement)
-- [[0 - The Fool]] - Tarot's journey (shadow: purposeless wandering)
+- [[The Chariot (VII)]] - Tarot's directed will (reversed: scattered movement)
+- [[The Fool (0)]] - Tarot's journey (shadow: purposeless wandering)
 - [[Gemini ♊]] - Astrological mental scattering and variety-seeking
 
 ## Sources

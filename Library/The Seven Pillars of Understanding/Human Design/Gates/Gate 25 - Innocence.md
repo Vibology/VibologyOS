@@ -34,7 +34,7 @@ The keynote is **the perfection of action through uncontrived and spontaneous na
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 25 |
-| **I-Ching Hexagram** | 25 - 無妄 Innocence / The Unexpected / No Deception |
+| **I-Ching Hexagram** | 25 - ䷘ Innocence / The Unexpected / No Deception |
 | **Center** | G Center (Identity, Love, Direction) |
 | **Circuitry** | Individual - Centering Circuit (Empowerment) |
 | **Channel** | 25-51 (Initiation) - G Center to Heart (Ego) |

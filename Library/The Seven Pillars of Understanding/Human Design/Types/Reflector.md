@@ -150,7 +150,7 @@ The Reflector's challenge is accepting that their gift is **not to fit in** but 
 
 ## Cross-References
 
-- **Jungian Archetype:** The [[Mirror]] (reflecting the unconscious) and [[The Fool]] (open to all experience)
+- **Jungian Archetype:** The [[Mirror]] (reflecting the unconscious) and [[The Fool (0)]] (open to all experience)
 - **Tarot:** [[The Moon]] (cycles, reflection, fluidity) and [[The Hanged Man]] (surrender to time)
 - **Mythology:** Selene (lunar goddess), Narcissus (the mirroring pool), changelings and shapeshifters
 - **Lunar Wisdom:** Traditional lunar calendars, menstrual cycle attunement, tidal rhythms

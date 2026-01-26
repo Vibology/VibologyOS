@@ -34,7 +34,7 @@ The keynote here is **emotional sensitivity to injustice**. The I-Ching name "Re
 | Attribute | Correspondence |
 |-----------|----------------|
 | **Gate Number** | 49 |
-| **I-Ching Hexagram** | 49 - 革 Revolution / Molting |
+| **I-Ching Hexagram** | 49 - ䷰ Revolution / Molting |
 | **Center** | Solar Plexus (Emotional Center) |
 | **Circuitry** | Tribal - Ego Circuit (Defense) |
 | **Channel** | 49-19 (Synthesis / Sensitivity) - Solar Plexus to Root |
