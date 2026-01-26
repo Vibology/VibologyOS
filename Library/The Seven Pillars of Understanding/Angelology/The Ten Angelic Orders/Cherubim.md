@@ -8,7 +8,8 @@ verification_source: Esoteric Grimoire
 category: Angelic Order
 order_number: 2
 order_name: Cherubim
-hebrew_name: Kerubim (Davidson); Qabalistic choir: Auphanim (Wang)
+hebrew_name: Auphanim
+alternate_names: "Kerubim (Davidson), Ophanim"
 triad: First Triad
 sephirah: Chokmah
 planetary: Zodiac (Masloth)
