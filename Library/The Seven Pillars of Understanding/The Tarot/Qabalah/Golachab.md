@@ -1,7 +1,7 @@
 ---
-tags: [angelology, qlippoth, golachab, geburah, stub]
-system: Angelology
-subsystem: Qlippoth
+tags: [tarot, qabalah, qlippoth, golachab, geburah, stub]
+system: Tarot
+subsystem: Qabalah
 date_created: 2026-01-26
 status: stub
 expansion_needed: true
@@ -31,10 +31,11 @@ In psychological terms, Golachab represents the **shadow of righteous anger**: r
 
 ## Cross-References
 
+- [[Qlippoth]] — The complete shadow Tree
 - [[Geburah]] — The Sephirah whose shadow Golachab represents
 - [[Kamael]] — The Archangel of Geburah (light aspect)
 - [[Samael]] — Sometimes associated with Geburah's severity
-- [[Qlippoth]] — The complete shadow Tree
+- [[Tree of Life]] — The complete Qabalistic structure
 
 ---
 
