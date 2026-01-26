@@ -685,7 +685,7 @@ To integrate Tzaphkiel is to become the **sacred womb**—the one who holds, wit
 
 - **[[Folklore/Jungian Archetypes/The Great Mother]]** — Archetypal womb, container, form-giver, both creative and devouring
 - **[[Folklore/Jungian Archetypes/The Self]]** — The totality of the psyche, the God-image within (encountered through Binah/Tzaphkiel)
-- **[[The Abyss]]** (Dark Night) — The threshold between ego and Self, guarded by Tzaphkiel
+- **[[Daath|The Abyss]]** (Dark Night) — The threshold between ego and Self, guarded by Tzaphkiel
 - **[[The Shadow|Shadow]]** — Unconscious material requiring Tzaphkiel's witnessing to integrate
 - **[[Individuation Process|Individuation]]** — The process of giving form to the Self, requiring Tzaphkiel's form-giving capacity
 
@@ -951,7 +951,7 @@ Trust the answer will come when the time is right.
 
 ### Jungian Psychology
 - [[Folklore/Jungian Archetypes/The Great Mother]] — Tzaphkiel as archetype
-- [[The Abyss]] — Dark Night of the Soul, Tzaphkiel's threshold
+- [[Daath|The Abyss]] — Dark Night of the Soul, Tzaphkiel's threshold
 - [[The Shadow|Shadow]] — Material requiring Tzaphkiel's witnessing
 - [[Individuation Process|Individuation]] — Process requiring Tzaphkiel's form-giving
 

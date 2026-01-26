@@ -721,10 +721,10 @@ If the "message" leads to **inflation, fear, or ego-serving action**, it is not 
 - [[Human Design]] — BodyGraph as angelic hierarchy embodied
 - [[The Window]] — Contemporary archetypal pattern system
 - [[Shaddai El Chai]] — Divine name of Yesod, "Almighty Living God"
-- [[LBRP]] — Lesser Banishing Ritual of the Pentagram
+- [[Lesser Banishing Ritual of the Pentagram]] — Lesser Banishing Ritual of the Pentagram
 - [[Hermes]] — Greek psychopomp, divine messenger
 - [[Thoth]] — Egyptian god of the Moon and divine scribe
-- [[Shekhina]] — Divine feminine presence, indwelling glory
+- [[Shekinah|Shekhina]] — Divine feminine presence, indwelling glory
 - [[Individuation Process]] — Jungian process of integrating conscious and unconscious
 - [[Active Imagination]] — Jungian practice of dialoguing with the unconscious
 - [[Liminal Space]] — Threshold between worlds, states, identities
