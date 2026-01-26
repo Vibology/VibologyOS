@@ -385,7 +385,7 @@ Tzaphkiel does not *make* forms in the way an artisan makes a pot. Tzaphkiel **h
 ### Human Consciousness Parallel
 **Vibology Synthesis — Cross-System Integration**
 
-In **[[Human Design]]**, Tzaphkiel corresponds to the **[[Throat Center]]**—the manifestation gateway—and to the archetypal **Great Mother** within the psyche. (Note: The Angelic Architecture of the BodyGraph maps the Aralim/Thrones, the angelic order of Binah, directly to the Throat Center.)
+In **[[Human Design]]**, Tzaphkiel corresponds to the **[[Throat|Throat Center]]**—the manifestation gateway—and to the archetypal **Great Mother** within the psyche. (Note: The Angelic Architecture of the BodyGraph maps the Aralim/Thrones, the angelic order of Binah, directly to the Throat Center.)
 
 ### The Throat as Manifestation Gateway
 
@@ -659,7 +659,7 @@ To integrate Tzaphkiel is to become the **sacred womb**—the one who holds, wit
 
 ### Human Design
 
-- **[[Throat Center]]** — Manifestation gateway, form-giving through expression (Tzaphkiel's function embodied)
+- **[[Throat|Throat Center]]** — Manifestation gateway, form-giving through expression (Tzaphkiel's function embodied)
 - **[[Manifestor]]** — Type with motor-to-Throat, embodying initiation and form-giving power
 - **Gate 62** (Throat) — Expressing details, giving form to thought
 - **Gate 23** (Throat) — Assimilation and expression, knowing when to speak
@@ -686,8 +686,8 @@ To integrate Tzaphkiel is to become the **sacred womb**—the one who holds, wit
 - **[[Folklore/Jungian Archetypes/The Great Mother]]** — Archetypal womb, container, form-giver, both creative and devouring
 - **[[Folklore/Jungian Archetypes/The Self]]** — The totality of the psyche, the God-image within (encountered through Binah/Tzaphkiel)
 - **[[The Abyss]]** (Dark Night) — The threshold between ego and Self, guarded by Tzaphkiel
-- **[[Shadow]]** — Unconscious material requiring Tzaphkiel's witnessing to integrate
-- **[[Individuation]]** — The process of giving form to the Self, requiring Tzaphkiel's form-giving capacity
+- **[[The Shadow|Shadow]]** — Unconscious material requiring Tzaphkiel's witnessing to integrate
+- **[[Individuation Process|Individuation]]** — The process of giving form to the Self, requiring Tzaphkiel's form-giving capacity
 
 ### Cross-Tradition Deities
 
@@ -929,7 +929,7 @@ Trust the answer will come when the time is right.
 - [[Kether]] — First Sephira, Crown, Metatron's realm
 - [[Chokmah]] — Second Sephira, Wisdom, Raziel's realm
 - [[Supernal Triangle]] — Kether-Chokmah-Binah, the First Triad's domain
-- [[Da'ath]] — The Abyss, the threshold Tzaphkiel guards
+- [[Daath|Da'ath]] — The Abyss, the threshold Tzaphkiel guards
 - [[Saturn ♄]] — Binah's planetary sphere
 - [[Qlippoth]] — Shadow Tree; Sathariel is Binah's shadow
 
@@ -939,7 +939,7 @@ Trust the answer will come when the time is right.
 - [[Capricorn ♑]] — Saturn-ruled sign, form-giving through discipline
 
 ### Human Design
-- [[Throat Center]] — Manifestation center, Tzaphkiel embodied
+- [[Throat|Throat Center]] — Manifestation center, Tzaphkiel embodied
 - [[Manifestor]] — Type with initiation power, Throne function active
 - [[Authority]] — Internal cosmic law governing decisions
 
@@ -952,8 +952,8 @@ Trust the answer will come when the time is right.
 ### Jungian Psychology
 - [[Folklore/Jungian Archetypes/The Great Mother]] — Tzaphkiel as archetype
 - [[The Abyss]] — Dark Night of the Soul, Tzaphkiel's threshold
-- [[Shadow]] — Material requiring Tzaphkiel's witnessing
-- [[Individuation]] — Process requiring Tzaphkiel's form-giving
+- [[The Shadow|Shadow]] — Material requiring Tzaphkiel's witnessing
+- [[Individuation Process|Individuation]] — Process requiring Tzaphkiel's form-giving
 
 ### Synthesis Pieces
 - [[Saturn Return at 29]] — Astrology + HD + Tarot integration of Tzaphkiel initiation

@@ -89,7 +89,7 @@ Raziel does not appear to the masses. He does not announce to nations or fight d
 | **Name** | Raziel (רזיאל) |
 | **Meaning** | "Secret of God," "Mystery of God," "Herald of Deity" |
 | **Sephirah Overseen** | [[Chokmah]] (Wisdom, 2nd emanation) |
-| **Angelic Order** | [[Auphanim]] (Wheels/Whirling Forces) or Erelim (Valiant Ones) |
+| **Angelic Order** | [[Thrones|Auphanim]] (Wheels/Whirling Forces) or Erelim (Valiant Ones) |
 | **Cosmic Sphere** | Masloth (The Sphere of the Zodiac/Starry Heaven) |
 | **Element** | Fire (primary), Air (secondary) |
 | **Color** | Grey (illuminated, cloud-like) |
@@ -200,7 +200,7 @@ The Ajna is not the *logical* mind (that is the lower mental faculties, the algo
 
 ### The Head Center: Questions and Inspiration
 
-Raziel also corresponds to the **[[Head Center]]** (the Crown in the BodyGraph)—the center of **inspiration, mental pressure, and the questions that drive seeking**. The Head Center asks: *"Why? What does this mean? What is the pattern?"* This is the Raziel impulse—the drive to *know*, to penetrate the mystery, to receive the revelation.
+Raziel also corresponds to the **[[Head|Head Center]]** (the Crown in the BodyGraph)—the center of **inspiration, mental pressure, and the questions that drive seeking**. The Head Center asks: *"Why? What does this mean? What is the pattern?"* This is the Raziel impulse—the drive to *know*, to penetrate the mystery, to receive the revelation.
 
 The Head Center gates (64, 61, 63) represent different flavors of this seeking:
 - **Gate 64** (Confusion/Imagination/Certainty) — The pressure to make sense of the past, to find meaning in chaos
@@ -698,9 +698,9 @@ The danger of invoking Raziel is **spiritual inflation**—the ego's tendency to
 - [[Gabriel]] — Archangel of Yesod, the Lunar Messenger
 - [[Raphael]] — Archangel of Tiphareth (Healing aspect)
 - [[Tree of Life]] — The Qabalistic map of divine emanation
-- [[Auphanim]] — The Wheels, angelic order of Chokmah
+- [[Thrones|Auphanim]] — The Wheels, angelic order of Chokmah
 - [[Seraphim]] — First angelic order, pure adoration
-- [[Tarot]] — The Twos and Kings correspond to Raziel
+- [[The Tarot|Tarot]] — The Twos and Kings correspond to Raziel
 - [[Human Design]] — Ajna Center, mental clarity
 - [[Gene Keys]] — 17th Gene Key (Opinion/Far-Sightedness/Omniscience)
 - [[Jungian psychology]] — Wise Old Man archetype
@@ -708,7 +708,7 @@ The danger of invoking Raziel is **spiritual inflation**—the ego's tendency to
 - [[Logos]] — The Word, divine reason
 - [[The Celestial Hierarchy]] — Pseudo-Dionysius's angelic orders
 - [[Qlippoth]] — Shadow tree, Ghagiel as distortion of Chokmah
-- [[Individuation]] — Jungian process of integrating the Self
+- [[Individuation Process|Individuation]] — Jungian process of integrating the Self
 - [[Gnosis]] — Direct knowing, unmediated revelation
 
 ---

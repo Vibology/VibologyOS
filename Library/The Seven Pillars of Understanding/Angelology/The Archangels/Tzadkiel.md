@@ -417,7 +417,7 @@ This is the mystical principle: **"Mercy rejoices over judgment"** (James 2:13).
 
 ### Human Consciousness Parallel
 
-In **[[Human Design]]**, Tzadkiel corresponds to the **[[Heart Center]]** (also called the Ego or Will Center)—the seat of sovereignty, self-worth, and material mastery.
+In **[[Human Design]]**, Tzadkiel corresponds to the **[[Heart|Heart Center]]** (also called the Ego or Will Center)—the seat of sovereignty, self-worth, and material mastery.
 
 ### The Heart as the Throne of the Self
 
@@ -693,7 +693,7 @@ To integrate Tzadkiel is to become the **generous king**—the one who blesses, 
 - **All Fours** — Chesed's number, stability, foundation, structure built on mercy
 
 **Path Correspondence (Verified):**
-- **[[The Wheel of Fortune]]** (X) — Path of Caph, attributed to Jupiter (Wang) — the turning of fate, expansion
+- **[[Wheel of Fortune (X)|The Wheel of Fortune]]** (X) — Path of Caph, attributed to Jupiter (Wang) — the turning of fate, expansion
 
 **Thematic Associations (Vibology Synthesis):**
 - **[[The Emperor (IV)|The Emperor]]** (IV) — Sovereign authority, structured benevolence (thematic link to Chesed's kingship)
@@ -716,7 +716,7 @@ To integrate Tzadkiel is to become the **generous king**—the one who blesses, 
 
 ### Human Design (Vibology Synthesis)
 
-- **[[Heart Center]]** — Sovereignty, willpower, self-worth, material mastery (Tzadkiel's function embodied)
+- **[[Heart|Heart Center]]** — Sovereignty, willpower, self-worth, material mastery (Tzadkiel's function embodied)
 - **[[Manifestor]]** — Type with motor-to-Throat, embodying initiation and sovereign action
 - **Gate 51** (Heart) — The Shocking, the competitive will, the capacity to initiate
 - **Gate 21** (Heart) — The Treasurer, control of resources, sovereignty over material realm
@@ -741,7 +741,7 @@ To integrate Tzadkiel is to become the **generous king**—the one who blesses, 
 
 - **[[The King/Queen]]** — Archetypal sovereign, ruler of the psyche, benevolent authority
 - **[[Folklore/Jungian Archetypes/The Self]]** — The totality of the psyche, the sovereign center (accessed through Chesed/Tzadkiel)
-- **[[Individuation]]** — The process of becoming sovereign, claiming the Inner Throne
+- **[[Individuation Process|Individuation]]** — The process of becoming sovereign, claiming the Inner Throne
 
 ### Cross-Tradition Deities
 
@@ -985,19 +985,19 @@ Choose one person (including yourself) to **forgive this week**. Mercy is not we
 - [[Pisces ♓]] — Jupiter's ancient rulership, boundless compassion
 
 ### Human Design
-- [[Heart Center]] — Sovereignty center, Tzadkiel embodied
+- [[Heart|Heart Center]] — Sovereignty center, Tzadkiel embodied
 - [[Manifestor]] — Type with initiation power, sovereign action
 - [[Authority]] — Internal cosmic law governing decisions
 
 ### Tarot
 - [[The Emperor (IV)|The Emperor]] — Tzadkiel's Tarot face, benevolent sovereignty
-- [[The Wheel of Fortune]] — Jupiter's wheel, the turn toward blessing
+- [[Wheel of Fortune (X)|The Wheel of Fortune]] — Jupiter's wheel, the turn toward blessing
 - [[The World (XXI)|The World]] — Completion and fulfillment, blessing achieved
 
 ### Jungian Psychology
 - [[The King/Queen]] — Tzadkiel as archetype
 - [[Folklore/Jungian Archetypes/The Self]] — Sovereign center of the psyche
-- [[Individuation]] — Process of claiming the Inner Throne
+- [[Individuation Process|Individuation]] — Process of claiming the Inner Throne
 
 ### Synthesis Pieces
 - [[Jupiter Return and the Sovereignty Initiation]] (potential) — Astrology + HD + Angelology synthesis

@@ -390,7 +390,7 @@ Metatron oversees this entire descent, ensuring that the **chain remains unbroke
 - **Sephirah:** [[Kether]] (Crown, divine unity, "I Am")
 - **Path:** Metatron does not walk the paths—he **is the destination** of all paths. He stands at the apex, waiting.
 - **Divine Name:** [[Eheieh]] (I Am / I Will Be) — Wang, *The Qabalistic Tarot*
-- **Angelic Choir:** [[Chaioth ha-Qadesh]] (Holy Living Creatures, the Seraphim) — Wang, Davidson
+- **Angelic Choir:** [[Seraphim|Chaioth ha-Qadesh]] (Holy Living Creatures, the Seraphim) — Wang, Davidson
 - **Planetary Sphere:** Primum Mobile (Rashith ha-Gilgalim, "beginning of whirling") — Wang, Agrippa
 
 **Tarot** (Verified per Wang):
@@ -529,17 +529,17 @@ Metatron is the guide of the greatest threshold—the passage from human to divi
 ## Cross-References
 ### Within Angelology
 - [[Kether]] (Sephirah governed by Metatron)
-- [[Chaioth ha-Qadesh]] (Seraphim, the angelic choir of Kether)
+- [[Seraphim|Chaioth ha-Qadesh]] (Seraphim, the angelic choir of Kether)
 - [[Sandalphon]] (Archangel of Malkuth, Metatron's "twin" or counterpart)
 - [[The Three Triads]] (Metatron exists above the triadic structure)
 - [[Angelology and Human Design Integration]] (Metatron corresponds to Head Center)
 
 ### Cross-System Integration
 - **Qabalah:** [[Kether]] | [[Tree of Life]] | [[Eheieh]] | [[Ain Soph Aur]] | [[Middle Pillar]]
-- **Tarot:** [[The Fool (0)]] | [[Ace of Wands]] | [[Ace of Cups]] | [[Ace of Swords]] | [[Ace of Pentacles]] | [[Judgment]]
+- **Tarot:** [[The Fool (0)]] | [[Ace of Wands]] | [[Ace of Cups]] | [[Ace of Swords]] | [[Ace of Pentacles]] | [[Judgement (XX)|Judgment]]
 - **Astrology:** [[Primum Mobile]] | [[Precession of the Equinoxes]]
-- **Human Design:** [[Head Center]] | [[Gate 64]] | [[Gate 61]]
-- **Jungian Psychology:** [[Folklore/Jungian Archetypes/The Self]] | [[Individuation]] | [[Apotheosis]] | [[Imago Dei]]
+- **Human Design:** [[Head|Head Center]] | [[Gate 64 - Before Completion|Gate 64]] | [[Gate 61 - Inner Truth|Gate 61]]
+- **Jungian Psychology:** [[Folklore/Jungian Archetypes/The Self]] | [[Individuation Process|Individuation]] | [[Apotheosis]] | [[Imago Dei]]
 
 ---
 

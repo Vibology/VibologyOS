@@ -866,7 +866,7 @@ This is **Michael's teaching**—humility (recognizing you are not God) and purp
 - [[Folklore/Jungian Archetypes/The Self]] — The Higher Self, the imago Dei, the solar logos
 - [[Folklore/Jungian Archetypes/The Hero]] — The solar hero, dragon-slayer, individuation journey
 - [[The Shadow]] — The dragon, what is denied, must be integrated
-- [[Individuation]] — The process Michael facilitates through discrimination
+- [[Individuation Process|Individuation]] — The process Michael facilitates through discrimination
 - [[The Transcendent Function]] — Holding opposites until the third emerges
 
 ### Cross-Tradition Parallels

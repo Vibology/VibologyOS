@@ -168,7 +168,7 @@ Haniel mediates between:
 
 ### The Emotional Solar Plexus: The Wave of Desire and Devotion
 
-In the synthesis of Qabalah and **[[Human Design]]**, Haniel corresponds primarily to the **[[Emotional Solar Plexus]]** (also called the Solar Plexus Center)—the center of **emotion, desire, sensitivity, and the wave**. This is the second-most powerful motor in the bodygraph, the engine of **feeling, passion, and relational depth**. The Emotional Solar Plexus governs:
+In the synthesis of Qabalah and **[[Human Design]]**, Haniel corresponds primarily to the **[[Solar Plexus|Emotional Solar Plexus]]** (also called the Solar Plexus Center)—the center of **emotion, desire, sensitivity, and the wave**. This is the second-most powerful motor in the bodygraph, the engine of **feeling, passion, and relational depth**. The Emotional Solar Plexus governs:
 
 - **The emotional wave** (the natural rhythm of clarity and non-clarity, the cycling between hope and melancholy)
 - **Desire and longing** (the magnetic pull toward what the soul loves)
@@ -531,7 +531,7 @@ A strong Venus in the natal chart (well-aspected, dignified) reflects Haniel's b
 
 ### Tarot: The Sevens and The Empress
 
-The **[[Tarot]]** Sevens (endurance, persistence, tests of faith) and **The Empress** (fertility, beauty, embodied love) are Haniel's domain. Every Seven-card in a reading signals the question: *"Will you persist? Will you remain devoted to what is beautiful, even when it is difficult?"*
+The **[[The Tarot|Tarot]]** Sevens (endurance, persistence, tests of faith) and **The Empress** (fertility, beauty, embodied love) are Haniel's domain. Every Seven-card in a reading signals the question: *"Will you persist? Will you remain devoted to what is beautiful, even when it is difficult?"*
 
 ### Human Design: The Spleen Center
 
@@ -645,12 +645,12 @@ If the "love" leads to **loss of self**, it is not Haniel but the Qlippothic she
 - [[Gabriel]] — Archangel of Yesod, the Lunar Messenger
 - [[Sandalphon]] — Archangel of Malkuth, the Prince of Prayer
 - [[Tree of Life]] — The Qabalistic map of divine emanation
-- [[Spleen Center]] — Human Design center of intuition and vitality
+- [[Spleen|Spleen Center]] — Human Design center of intuition and vitality
 - [[Gene Keys]] — 57th Gene Key (Unease/Intuition/Clarity)
 - [[Jungian psychology]] — Anima archetype, Eros principle
 - [[Astrology]] — Venus, Taurus, Libra, 7th House
 - [[Qlippoth]] — Shadow tree, A'arab Zaraq as distortion of Netzach
-- [[Individuation]] — Jungian process of integrating Logos and Eros
+- [[Individuation Process|Individuation]] — Jungian process of integrating Logos and Eros
 - [[The Celestial Hierarchy]] — Pseudo-Dionysius's angelic orders
 - [[Human Design]] — BodyGraph as angelic hierarchy embodied
 - [[The Window]] — Contemporary archetypal pattern system

@@ -707,7 +707,7 @@ If the act leaves you feeling *inflated* (powerful, superior, righteous in a gra
 - [[The Shadow]] — The rejected, dark aspects of the psyche
 - [[Warrior Archetype]] — Discipline, focus, courage
 - [[Terrible Mother]] — The devouring, destructive feminine
-- [[Individuation]] — Jungian process of becoming whole
+- [[Individuation Process|Individuation]] — Jungian process of becoming whole
 
 ### Cross-Tradition Parallels
 - [[Ares]] — Greek god of war

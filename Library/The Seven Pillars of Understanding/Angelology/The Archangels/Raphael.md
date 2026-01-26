@@ -806,11 +806,11 @@ Metatron holds the blueprint; Raphael teaches how to read it and apply it to dai
 
 **Human Design (Vibology Synthesis):**
 
-- [[G-Center]] (Identity, Love, Direction—the inner compass, the guide, the magnetic monopole)
-- [[Throat Center]] (Communication, Manifestation—the voice that transmits healing knowledge)
-- [[Gate 7]] (The Role of the Self in Interaction—leadership through example, the guide)
-- [[Gate 62]] (The Gate of Detail—practical thinking, precise articulation, teaching)
-- [[Gate 1]] (The Creative—self-expression, purpose, unique contribution)
+- [[G Center|G-Center]] (Identity, Love, Direction—the inner compass, the guide, the magnetic monopole)
+- [[Throat|Throat Center]] (Communication, Manifestation—the voice that transmits healing knowledge)
+- [[Gate 07 - The Army|Gate 7]] (The Role of the Self in Interaction—leadership through example, the guide)
+- [[Gate 62 - Preponderance of the Small|Gate 62]] (The Gate of Detail—practical thinking, precise articulation, teaching)
+- [[Gate 01 - The Creative|Gate 1]] (The Creative—self-expression, purpose, unique contribution)
 
 **Jungian Psychology:**
 
@@ -819,7 +819,7 @@ Metatron holds the blueprint; Raphael teaches how to read it and apply it to dai
 - [[The Psychopomp]] (guide of souls through thresholds—birth, death, initiation)
 - [[The Transcendent Function]] (the psyche's capacity to reconcile opposites and generate a third, integrative symbol)
 - [[Folklore/Jungian Archetypes/The Self]] (the totality of the psyche—Tiphareth as the Higher Self in Qabalistic psychology)
-- [[Individuation]] (the journey toward wholeness—Raphael as the guide of the process)
+- [[Individuation Process|Individuation]] (the journey toward wholeness—Raphael as the guide of the process)
 
 #### Mythology
 
@@ -1176,11 +1176,11 @@ This is Raphael's initiatic question. Every wound, when met consciously, reveals
 
 **Human Design (Vibology Synthesis):**
 
-- [[G-Center]] (Identity, Love, Direction—the inner compass, the guide, the magnetic monopole)
-- [[Throat Center]] (Communication, Manifestation—the voice that transmits healing knowledge)
-- [[Gate 7]] (The Role of the Self in Interaction—leadership through example, the guide)
-- [[Gate 62]] (The Gate of Detail—practical thinking, precise articulation, teaching)
-- [[Gate 1]] (The Creative—self-expression, purpose, unique contribution)
+- [[G Center|G-Center]] (Identity, Love, Direction—the inner compass, the guide, the magnetic monopole)
+- [[Throat|Throat Center]] (Communication, Manifestation—the voice that transmits healing knowledge)
+- [[Gate 07 - The Army|Gate 7]] (The Role of the Self in Interaction—leadership through example, the guide)
+- [[Gate 62 - Preponderance of the Small|Gate 62]] (The Gate of Detail—practical thinking, precise articulation, teaching)
+- [[Gate 01 - The Creative|Gate 1]] (The Creative—self-expression, purpose, unique contribution)
 
 **Jungian Psychology:**
 
@@ -1189,7 +1189,7 @@ This is Raphael's initiatic question. Every wound, when met consciously, reveals
 - [[The Psychopomp]] (guide of souls through thresholds—birth, death, initiation)
 - [[The Transcendent Function]] (the psyche's capacity to reconcile opposites and generate a third, integrative symbol)
 - [[Folklore/Jungian Archetypes/The Self]] (the totality of the psyche—Tiphareth as the Higher Self in Qabalistic psychology)
-- [[Individuation]] (the journey toward wholeness—Raphael as the guide of the process)
+- [[Individuation Process|Individuation]] (the journey toward wholeness—Raphael as the guide of the process)
 
 #### Mythology
 
@@ -1387,11 +1387,11 @@ Steiner also teaches that Archangels are involved in **individual human karma an
 
 **Human Design (Vibology Synthesis):**
 
-- [[G-Center]] (Identity, Love, Direction—the inner compass, the guide, the magnetic monopole)
-- [[Throat Center]] (Communication, Manifestation—the voice that transmits healing knowledge)
-- [[Gate 7]] (The Role of the Self in Interaction—leadership through example, the guide)
-- [[Gate 62]] (The Gate of Detail—practical thinking, precise articulation, teaching)
-- [[Gate 1]] (The Creative—self-expression, purpose, unique contribution)
+- [[G Center|G-Center]] (Identity, Love, Direction—the inner compass, the guide, the magnetic monopole)
+- [[Throat|Throat Center]] (Communication, Manifestation—the voice that transmits healing knowledge)
+- [[Gate 07 - The Army|Gate 7]] (The Role of the Self in Interaction—leadership through example, the guide)
+- [[Gate 62 - Preponderance of the Small|Gate 62]] (The Gate of Detail—practical thinking, precise articulation, teaching)
+- [[Gate 01 - The Creative|Gate 1]] (The Creative—self-expression, purpose, unique contribution)
 
 **Jungian Psychology:**
 
@@ -1400,7 +1400,7 @@ Steiner also teaches that Archangels are involved in **individual human karma an
 - [[The Psychopomp]] (guide of souls through thresholds—birth, death, initiation)
 - [[The Transcendent Function]] (the psyche's capacity to reconcile opposites and generate a third, integrative symbol)
 - [[Folklore/Jungian Archetypes/The Self]] (the totality of the psyche—Tiphareth as the Higher Self in Qabalistic psychology)
-- [[Individuation]] (the journey toward wholeness—Raphael as the guide of the process)
+- [[Individuation Process|Individuation]] (the journey toward wholeness—Raphael as the guide of the process)
 
 #### Mythology
 

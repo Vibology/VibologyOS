@@ -513,7 +513,7 @@ The [[Moon ☽]] governs the astral realm (Yesod), but when the Moon is in an Ea
 **4. Capricorn Season (Winter Solstice)**
 Capricorn, ruled by Saturn, is the sign of **earned authority**, **structure built over time**, and **mastery through discipline**. The Winter Solstice (when the Sun enters Capricorn) is the **nadir** of the solar year—the point of deepest darkness before the return of the light. This is Sandalphon's time: the descent into matter before the rebirth.
 
-**Vibology Synthesis:** In natal chart work, Sandalphon's intelligence manifests through the **Earth houses** (2nd—material resources and embodiment; 6th—daily work and service; 10th—vocation and legacy) and through planets in Earth signs. A strong Sandalphon signature indicates an individual whose spiritual path is *through* matter, not away from it—the mystic who gardens, the priest who builds, the healer whose hands carry the medicine. In [[Human Design]], this resonates with the [[Root Center]] (pressure to manifest) and [[Sacral Center]] (life-force embodied in form).
+**Vibology Synthesis:** In natal chart work, Sandalphon's intelligence manifests through the **Earth houses** (2nd—material resources and embodiment; 6th—daily work and service; 10th—vocation and legacy) and through planets in Earth signs. A strong Sandalphon signature indicates an individual whose spiritual path is *through* matter, not away from it—the mystic who gardens, the priest who builds, the healer whose hands carry the medicine. In [[Human Design]], this resonates with the [[Root|Root Center]] (pressure to manifest) and [[Sacral|Sacral Center]] (life-force embodied in form).
 
 ### Planetary Hours for Invocation
 
@@ -749,7 +749,7 @@ This creates a **six-directional** sacred space—encompassing not just the hori
 | **Qabalah** | [[Malkuth]] (Kingdom, 10th Sephira, Earth, embodiment); Path 32 ([[The World (XXI)|The World]]); Divine Name: [[Adonai ha-Aretz]]; Angelic Choir: [[Ishim]] |
 | **Tarot** | [[The World (XXI)|The World]] (XXI) — Completion, Malkuth embodied; [[Princesses (Pages)]] — Earth of each suit; [[Ten of Pentacles]] — Completion of material cycle |
 | **Astrology** | [[Earth]] (☍) — Manifestation, grounding; [[Taurus ♉]] — Fixed Earth, stability, rootedness; [[Capricorn ♑]] — Cardinal Earth, structure, completion; [[Virgo ♍]] — Mutable Earth, service, refinement |
-| **Human Design** | [[Root]] Center — Pressure, drive, stress, the motor that pushes manifestation; [[Gate 58]] (The Joyous) — Vitality, aliveness; [[Gate 38]] (The Fighter) — Struggle for meaning; [[Gate 54]] (The Marrying Maiden) — Ambition through service |
+| **Human Design** | [[Root]] Center — Pressure, drive, stress, the motor that pushes manifestation; [[Gate 58 - The Joyous|Gate 58]] (The Joyous) — Vitality, aliveness; [[Gate 38 - Opposition|Gate 38]] (The Fighter) — Struggle for meaning; [[Gate 54 - The Marrying Maiden|Gate 54]] (The Marrying Maiden) — Ambition through service |
 | **I-Ching** | Hexagram 52 (Keeping Still, Mountain) — Grounding, stillness, meditation rooted in body; Hexagram 2 (The Receptive, Earth) — The yielding, receptive, grounding force |
 | **Jungian Psychology** | [[Incarnation]] — The Self becoming embodied; [[The Body as Temple]] — Honoring the physical; [[Completion of the Work]] — Grounding insight into action |
 | **Alchemy** | **Rubedo** (Reddening) — The final stage, the embodiment of the Philosopher's Stone in tangible reality; **The Multiplication** — The fruit of the Work made real |
@@ -979,7 +979,7 @@ Invoke Sandalphon when you need:
 - **Qabalah:** [[Malkuth]] | [[Tree of Life]] | [[Adonai ha-Aretz]] | [[Ishim]] | [[Kether]] | [[Yesod]] | [[Tiphareth]] | [[Hod]] | [[Netzach]]
 - **Tarot:** [[The World (XXI)|The World]] (XXI) | [[Princesses (Pages)]] | [[Ten of Pentacles]] | [[Ace of Pentacles]] | [[The Hanged Man (XII)|The Hanged Man]] (surrender)
 - **Astrology:** [[Earth]] | [[Taurus ♉]] | [[Capricorn ♑]] | [[Virgo ♍]] | [[Saturn ♄]]
-- **Human Design:** [[Root Center]] | [[Gate 58]] | [[Gate 38]] | [[Gate 54]]
+- **Human Design:** [[Root|Root Center]] | [[Gate 58 - The Joyous|Gate 58]] | [[Gate 38 - Opposition|Gate 38]] | [[Gate 54 - The Marrying Maiden|Gate 54]]
 - **Jungian Psychology:** [[Incarnation]] | [[Folklore/Jungian Archetypes/The Self]] | [[Embodiment]] | [[Completion]] | [[The Body as Temple]]
 
 ---
