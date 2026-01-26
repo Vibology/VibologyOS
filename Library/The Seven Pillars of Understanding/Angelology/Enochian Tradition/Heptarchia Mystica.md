@@ -13,7 +13,7 @@ verification_source: "Davidson (Dictionary of Angels), DuQuette (Enochian Vision
 
 ---
 ## Essence
-The **Heptarchia Mystica** ("Mystical Sevenfold Rule") is the earliest component of the [[Enochian System Overview|Enochian system]], revealed to [[John Dee and Edward Kelley]] in **1582**, before the reception of [[The Four Watchtowers]] or [[The 30 Aethyrs]]. It constitutes a complete system of **planetary magic**, centered on:
+The **Heptarchia Mystica** ("Mystical Sevenfold Rule") is the earliest component of the [[Enochian Tradition|Enochian system]], revealed to [[John Dee and Edward Kelley]] in **1582**, before the reception of [[The Four Watchtowers]] or [[The 30 Aethyrs]]. It constitutes a complete system of **planetary magic**, centered on:
 
 1. **The Sigillum Dei Aemeth** — The Seal of God's Truth, a complex wax talisman inscribed with divine names
 2. **49 Good Angels** — Seven sets of seven angels, each governing a day of the week and a classical planet
@@ -242,13 +242,13 @@ The seven planets correspond to seven Sephiroth:
 
 The seven planets govern specific Major Arcana:
 
-- **Sun (Carmara)** → [[The Sun]] (XIX)
-- **Moon (Hagonel)** → [[The Moon]] (XVIII), [[The High Priestess]] (II)
-- **Mars (Baligon)** → [[The Tower]] (XVI)
-- **Mercury (Babalel)** → [[The Magician]] (I)
-- **Jupiter (Bornogo)** → [[The Wheel of Fortune]] (X)
-- **Venus (Bnapsen)** → [[The Empress]] (III)
-- **Saturn (Bnaspol)** → [[The World]] (XXI), [[The Devil]] (XV)
+- **Sun (Carmara)** → [[The Sun (XIX)|The Sun]] (XIX)
+- **Moon (Hagonel)** → [[The Moon (XVIII)|The Moon]] (XVIII), [[The High Priestess (II)|The High Priestess]] (II)
+- **Mars (Baligon)** → [[The Tower (XVI)|The Tower]] (XVI)
+- **Mercury (Babalel)** → [[The Magician (I)|The Magician]] (I)
+- **Jupiter (Bornogo)** → [[Wheel of Fortune (X)|The Wheel of Fortune]] (X)
+- **Venus (Bnapsen)** → [[The Empress (III)|The Empress]] (III)
+- **Saturn (Bnaspol)** → [[The World (XXI)|The World]] (XXI), [[The Devil (XV)|The Devil]] (XV)
 
 ### Astrology
 
@@ -407,7 +407,7 @@ The Heptarchia is the **training ground** of Enochian magic. Those who learn to 
 ---
 ## Cross-References
 ### Within Enochian
-- [[Enochian System Overview]] — Complete introduction to Enochian magic
+- [[Enochian Tradition]] — Complete introduction to Enochian magic
 - [[The Four Watchtowers]] — Elemental magic building on Heptarchic foundations
 - [[The 30 Aethyrs]] — Visionary ascent requiring the Sigillum's protection
 - [[Enochian Language and the 48 Keys]] — The linguistic framework for invocations
