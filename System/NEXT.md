@@ -26,16 +26,24 @@
 - ✅ Fixed Cherubim.md YAML syntax error (unquoted colon)
 - ✅ Ensured consistency throughout The Ten Angelic Orders.md (all "nine" → "ten" where appropriate)
 
+**Dead Wikilink Resolution (2026-01-26):**
+- ✅ Built normalization script mapping 778 Library files to wikilink references
+- ✅ Fixed 80 dead wikilinks across 9 angelic order files using Obsidian alias syntax
+- ✅ Reduced dead links: 233 → 129 (44% reduction)
+- ✅ Normalized: Tarot Major Arcana, Gates, Sephiroth cross-references
+- 📊 Remaining 129 dead links: Files not yet created (Lucifer, Guardian Angel, Ein Sof, Divine Names, Jungian concepts, mythology entries, mystical practices)
+
 **Commits:**
 - bd88371: Fix Hebrew name formatting (4 files)
 - 075f04f: Restructure Nine → Ten Angelic Orders (major)
 - 17f1e5b: Move Golachab to Qabalah section
 - 376dafe: Fix Cherubim YAML syntax
 - 86d2185: Ensure consistency in The Ten Angelic Orders.md
+- b5d3de0: Fix 80 dead wikilinks using alias syntax (normalize_angelic_wikilinks.py)
 
 **Sources Verified:** NotebookLM confirmed Wang p.115, 266; Davidson p.336-337
 
-**Status:** Angelology structural consistency complete ✅
+**Status:** Angelology structural consistency complete ✅ | Dead link resolution: 44% complete (80/233 fixed, 129 reference non-existent files)
 
 ---
 
