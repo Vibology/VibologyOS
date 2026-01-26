@@ -34,7 +34,7 @@ Where [[Michael]] wields the sword of discrimination, where [[Gabriel]] delivers
 To encounter Tzaphkiel is to meet the **cosmic pressure of form-giving**—the sacred responsibility of bringing potential into manifestation, the unwavering demand that what is born into form must align with divine law.
 
 ---
-## Correspondences
+## Fundamental Knowledge
 
 ### The Name: Contemplation of God
 
@@ -76,7 +76,7 @@ Tzaphkiel is the archetype of **contemplative stillness**, the intelligence that
 | **Color (Yetzirah)** | Dark brown (earth, foundation) |
 | **Color (Assiah)** | Grey flecked with pink (materialization) |
 | **Divine Name** | YHVH Elohim (יהוה אלהים) - "Lord God" |
-| **Tarot (Major)** | [[The Empress]] (III) - Divine Mother, form-giver |
+| **Tarot (Major)** | [[The Empress (III)|The Empress]] (III) - Divine Mother, form-giver |
 | **Tarot (Minor)** | All Threes (Binah's number), all Queens (Mother aspect) |
 | **I-Ching** | Hexagram 2 (K'un/The Receptive) - Pure yin, Earth |
 | **Human Design** | [[Throat]] Center (manifestation, form-giving) |
@@ -633,12 +633,12 @@ To integrate Tzaphkiel is to become the **sacred womb**—the one who holds, wit
 - **All Queens** — The Mother aspect in four elements
 
 **Path of Daleth (Vibology Synthesis):**
-- **[[The Empress]]** (III) — Path connecting Chokmah and Binah (not Binah itself). Wang states "She is Binah... the Great Mother" conceptually, though the card is the path, not the Sephirah
+- **[[The Empress (III)|The Empress]]** (III) — Path connecting Chokmah and Binah (not Binah itself). Wang states "She is Binah... the Great Mother" conceptually, though the card is the path, not the Sephirah
 
 **Thematic Associations (Vibology Synthesis):**
-- **[[The Hierophant]]** (V) — Cosmic law, structure, tradition, authority
-- **[[The Hanged Man]]** (XII) — Suspension, gestation, womb-time before birth
-- **[[The World]]** (XXI) — Completion of form, manifestation achieved, Saturn's final gift
+- **[[The Hierophant (V)|The Hierophant]]** (V) — Cosmic law, structure, tradition, authority
+- **[[The Hanged Man (XII)|The Hanged Man]]** (XII) — Suspension, gestation, womb-time before birth
+- **[[The World (XXI)|The World]]** (XXI) — Completion of form, manifestation achieved, Saturn's final gift
   - Three of Wands (Binah in Fire) — Established strength
   - Three of Cups (Binah in Water) — Emotional foundation
   - Three of Swords (Binah in Air) — Sorrow, the price of limitation
@@ -944,10 +944,10 @@ Trust the answer will come when the time is right.
 - [[Authority]] — Internal cosmic law governing decisions
 
 ### Tarot
-- [[The Empress]] — Tzaphkiel's Tarot face, the Divine Mother
-- [[The Hierophant]] — Cosmic law and structure
-- [[The Hanged Man]] — Gestation, womb-time
-- [[The World]] — Saturn's completion, manifestation achieved
+- [[The Empress (III)|The Empress]] — Tzaphkiel's Tarot face, the Divine Mother
+- [[The Hierophant (V)|The Hierophant]] — Cosmic law and structure
+- [[The Hanged Man (XII)|The Hanged Man]] — Gestation, womb-time
+- [[The World (XXI)|The World]] — Saturn's completion, manifestation achieved
 
 ### Jungian Psychology
 - [[Folklore/Jungian Archetypes/The Great Mother]] — Tzaphkiel as archetype

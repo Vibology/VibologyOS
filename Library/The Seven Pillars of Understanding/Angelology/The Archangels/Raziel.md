@@ -29,7 +29,7 @@ aliases: [Akrasiel, Galizur, Saraqael, Suriel]
 Raziel is not a comforting presence. He does not protect in the manner of [[Michael]], nor does he heal like [[Raphael]]. Raziel's function is **revelation**—the unveiling of what has been concealed, the granting of wisdom too vast for mortal comprehension, the opening of the sealed book. To invoke Raziel is to ask for knowledge that may shatter the structures of the ego, for truth that cannot be unlearned.
 
 ---
-## Correspondences
+## Fundamental Knowledge
 
 ### The Name: Secret of God
 

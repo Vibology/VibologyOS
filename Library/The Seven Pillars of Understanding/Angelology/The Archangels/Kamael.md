@@ -31,7 +31,7 @@ aliases: [Camael, Khamael, Chamuel, Samael]
 Kamael is not a comforting presence. He does not soothe, heal, or console. Kamael's function is **purgation**—the removal of the diseased, the elimination of the weak, the destruction of what has outlived its purpose. To invoke Kamael is to call upon the force that will burn away everything false, even if the ego believes it cannot survive the fire.
 
 ---
-## Correspondences
+## Fundamental Knowledge
 
 ### The Name: He Who Sees God
 
@@ -51,6 +51,7 @@ Some Qabalistic sources identify Kamael as the angel who wrestled with Jacob at 
 Kamael's function is **purgation**—the removal of the diseased, the elimination of the weak, the destruction of what has outlived its purpose. The cancer must be removed. The rotted foundation must be torn down. The false self must die that the true Self might emerge. This is not cruelty but *clarity*.
 
 ---
+## Core Correspondences
 
 | Attribute | Correspondence |
 |-----------|----------------|
@@ -64,7 +65,7 @@ Kamael's function is **purgation**—the removal of the diseased, the eliminatio
 | **Direction** | South (in some traditions) or no fixed direction (transcendent force) |
 | **Day of Week** | Tuesday (Mars day — *Dies Martis*) |
 | **Color** | Red, scarlet, deep crimson (blood, fire, sacrifice) |
-| **Tarot** | The Fives (Geburah in four suits), [[The Tower]] (XVI) — sudden destruction |
+| **Tarot** | The Fives (Geburah in four suits), [[The Tower (XVI)|The Tower]] (XVI) — sudden destruction |
 | **Number** | Five (the number of severity, testing, conflict) |
 | **Aliases** | Camael, Chamuel, Khamael, Qemuel, Samael (controversial) |
 | **Human Faculty** | Will-to-Power, Courage, Discernment, Necessary Destruction |
@@ -544,7 +545,7 @@ When Mars is well-aspected in the natal chart, the individual has access to **he
 - **The Four Fives** — Geburah's number, representing opposition, strife, and struggle
 
 **Thematic Association (Vibology Synthesis):**
-- **[[The Tower]]** (XVI) — Sudden destruction, necessary collapse (thematic link to Mars/Geburah energy)
+- **[[The Tower (XVI)|The Tower]]** (XVI) — Sudden destruction, necessary collapse (thematic link to Mars/Geburah energy)
 
 ### Human Design (Vibology Synthesis)
 
@@ -689,7 +690,7 @@ If the act leaves you feeling *inflated* (powerful, superior, righteous in a gra
 - [[The Celestial Hierarchy]] — Pseudo-Dionysius's angelic structure
 
 ### Tarot Correspondences
-- [[The Tower]] — Trump XVI, sudden destruction and liberation
+- [[The Tower (XVI)|The Tower]] — Trump XVI, sudden destruction and liberation
 - [[Five of Wands]] — Strife, conflict in Fire
 - [[Five of Cups]] — Disappointment, loss in Water
 - [[Five of Swords]] — Defeat, cruelty in Air

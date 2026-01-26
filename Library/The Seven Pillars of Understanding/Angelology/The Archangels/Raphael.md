@@ -25,10 +25,14 @@ invocation: Prayer of Tobias, LBRP (East Quarter)
 ---
 ## Essence
 
-**The Healing Archangel — God's Medicine, Prince of Brightness, Guide and Companion, Reconciler of Heaven and Earth**
+**Archangel Raphael** (Hebrew: רפאל, *Rafa'el* — "God has Healed" or "Healing of God") is the **Divine Physician**, the **Prince of Brightness**, and the **Guide and Companion** on the soul's journey. His name derives from the Hebrew root *רפא* (*rafa*—"to heal, to mend, to restore") combined with *אל* (*El*—"God"), indicating that Raphael is not merely an agent of healing but the embodiment of God's healing nature made active. The healing is not merely physical but ontological—a restoration to wholeness, to alignment with divine order (Exodus 15:26: "I am YHVH who heals you").
+
+Raphael's most detailed scriptural appearance is in the Book of Tobit, where he travels incognito as "Azarias" to guide the young Tobias on a journey of healing and deliverance. He teaches Tobias to use the organs of a fish to drive away the demon Asmodeus and restore his father Tobit's blindness. At journey's end, Raphael reveals himself: "I am Raphael, one of the seven angels who stand ready and enter before the glory of the Lord... All these days I merely appeared to you and did not eat or drink, but you were seeing a vision" (Tobit 12:15, 19-20). This narrative establishes Raphael as the angel who conceals his nature while guiding, teaching, and healing—the divine assistance that arrives in disguise.
+
+In the Qabalistic tradition, Raphael occupies a dual attribution: **[[Tiphareth]]** (Beauty, the solar heart) and **[[Hod]]** (Splendor, Mercury, the intellect). This reflects his nature as both the mercurial messenger—swift, communicative, intellectually agile—and the solar healer—radiant, life-giving, heart-centered. He is the bridge between mind and heart, between knowledge and love, between the healing power of understanding and the healing power of presence. In the Lesser Banishing Ritual of the Pentagram, Raphael stands at the East, the direction of dawn and the element of Air, as the guide who illuminates the path ahead (DuQuette, p. 193).
 
 ---
-## Correspondences
+## Fundamental Knowledge
 
 **Raphael** (Hebrew: רפאל, *Rafa'el* or *Rephael*) is the **Archangel of Healing**, the **Divine Physician**, and the **Prince of Brightness**—a designation that speaks not merely to light, but to the *luminosity of intelligence*, the clarity that heals ignorance, the knowledge that restores wholeness. His name, derived from the Hebrew root *רפא* (*rafa*—"to heal") and *אל* (*El*—"God"), translates as **"God has healed,"** **"Healing of God,"** or **"God heals."** Raphael is the active principle of divine restoration, the intelligence through which fragmentation returns to unity, sickness to health, ignorance to wisdom.
 
@@ -246,7 +250,7 @@ Raphael transmits **knowledge**—practical, applicable wisdom. He teaches Tobia
 | **Color (Assiah)** | Gold flecked with rose (Tiphareth) |
 | **Divine Names** | YHVH Eloah va-Daath (יהוה אלוה ודעת) — Tiphareth: "The Lord God of Knowledge"<br>Elohim Tzabaoth (אלהים צבאות) — Hod: "God of Hosts" |
 | **Angelic Choir** | Malachim (מלאכים) — "The Kings" or "The [[Angels]]" (Tiphareth—messengers, mediators)<br>Bene Elohim (בני אלהים) — "Sons of God" (Hod) |
-| **Tarot** | [[The Lovers]] (VI) — Choice, union, harmony, healing relationship (Tiphareth attribution in some systems)<br>[[The Magician]] (I) — Mercury, communication, skill, practical wisdom (Hod)<br>[[The Hermit]] (IX) — Guide, teacher, inner light, solitary wisdom |
+| **Tarot** | [[The Lovers (VI)|The Lovers]] (VI) — Choice, union, harmony, healing relationship (Tiphareth attribution in some systems)<br>[[The Magician (I)|The Magician]] (I) — Mercury, communication, skill, practical wisdom (Hod)<br>[[The Hermit (IX)|The Hermit]] (IX) — Guide, teacher, inner light, solitary wisdom |
 | **Astrological** | Mercury (☿) — Communication, travel, medicine, intellect<br>Sun (☉) — Vitality, life-force, radiant health |
 | **Human Design** | [[G Center]] (Identity, Love, Direction) — The heart's knowing, the compass, the guide<br>[[Throat]] Center (Communication, manifestation) — The voice that transmits healing knowledge |
 | **Chakra** | Anahata (Heart Chakra) — Compassion, balance, healing love<br>Vishuddha (Throat Chakra) — Communication, expression, truth |
@@ -786,10 +790,10 @@ Metatron holds the blueprint; Raphael teaches how to read it and apply it to dai
 
 **Tarot:**
 
-- [[The Lovers]] (Trump VI—union, choice, harmony, sacred marriage, Raphael as the blessing above)
-- [[The Magician]] (Trump I—Mercury, communication, skill, "as above, so below," practical magic)
-- [[The Hermit]] (Trump IX—guide, teacher, lantern-bearer, solitary wisdom)
-- [[Temperance]] (Trump XIV—alchemy, reconciliation of opposites, the path to Tiphareth)
+- [[The Lovers (VI)|The Lovers]] (Trump VI—union, choice, harmony, sacred marriage, Raphael as the blessing above)
+- [[The Magician (I)|The Magician]] (Trump I—Mercury, communication, skill, "as above, so below," practical magic)
+- [[The Hermit (IX)|The Hermit]] (Trump IX—guide, teacher, lantern-bearer, solitary wisdom)
+- [[Temperance (XIV)|Temperance]] (Trump XIV—alchemy, reconciliation of opposites, the path to Tiphareth)
 - [[Ace of Swords]] (Hod in Air—clarity, truth, intellectual discrimination)
 - [[Six of Swords]] (Tiphareth in Air—journey, transition, guidance across troubled waters)
 
@@ -1156,10 +1160,10 @@ This is Raphael's initiatic question. Every wound, when met consciously, reveals
 
 **Tarot:**
 
-- [[The Lovers]] (Trump VI—union, choice, harmony, sacred marriage, Raphael as the blessing above)
-- [[The Magician]] (Trump I—Mercury, communication, skill, "as above, so below," practical magic)
-- [[The Hermit]] (Trump IX—guide, teacher, lantern-bearer, solitary wisdom)
-- [[Temperance]] (Trump XIV—alchemy, reconciliation of opposites, the path to Tiphareth)
+- [[The Lovers (VI)|The Lovers]] (Trump VI—union, choice, harmony, sacred marriage, Raphael as the blessing above)
+- [[The Magician (I)|The Magician]] (Trump I—Mercury, communication, skill, "as above, so below," practical magic)
+- [[The Hermit (IX)|The Hermit]] (Trump IX—guide, teacher, lantern-bearer, solitary wisdom)
+- [[Temperance (XIV)|Temperance]] (Trump XIV—alchemy, reconciliation of opposites, the path to Tiphareth)
 - [[Ace of Swords]] (Hod in Air—clarity, truth, intellectual discrimination)
 - [[Six of Swords]] (Tiphareth in Air—journey, transition, guidance across troubled waters)
 
@@ -1367,10 +1371,10 @@ Steiner also teaches that Archangels are involved in **individual human karma an
 
 **Tarot:**
 
-- [[The Lovers]] (Trump VI—union, choice, harmony, sacred marriage, Raphael as the blessing above)
-- [[The Magician]] (Trump I—Mercury, communication, skill, "as above, so below," practical magic)
-- [[The Hermit]] (Trump IX—guide, teacher, lantern-bearer, solitary wisdom)
-- [[Temperance]] (Trump XIV—alchemy, reconciliation of opposites, the path to Tiphareth)
+- [[The Lovers (VI)|The Lovers]] (Trump VI—union, choice, harmony, sacred marriage, Raphael as the blessing above)
+- [[The Magician (I)|The Magician]] (Trump I—Mercury, communication, skill, "as above, so below," practical magic)
+- [[The Hermit (IX)|The Hermit]] (Trump IX—guide, teacher, lantern-bearer, solitary wisdom)
+- [[Temperance (XIV)|Temperance]] (Trump XIV—alchemy, reconciliation of opposites, the path to Tiphareth)
 - [[Ace of Swords]] (Hod in Air—clarity, truth, intellectual discrimination)
 - [[Six of Swords]] (Tiphareth in Air—journey, transition, guidance across troubled waters)
 

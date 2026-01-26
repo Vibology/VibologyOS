@@ -35,7 +35,7 @@ Sandalphon and Metatron are described in mystical tradition as **twins** or **br
 Yet where Metatron ascended to the highest heights—dwelling in **Kether** (the Crown, the First Sephira, the threshold of the Unknowable), serving as the **Lesser YHVH**, the Scribe of God who records all deeds in the Book of Life—Sandalphon descended to the lowest depths, rooting himself in **Malkuth** (the Kingdom, the Tenth Sephira, the physical plane, the embodied world). The two brothers form a **vertical axis**: Metatron at the Crown, Sandalphon at the Kingdom. Together, they are the **pillars of the Tree**, the channel through which divine will descends and human prayer ascends.
 
 ---
-## Correspondences
+## Fundamental Knowledge
 
 ### The Name: Co-Brother
 
@@ -96,7 +96,7 @@ The crown is not merely functional—it is **beautiful**. Sandalphon is an artis
 | **Color (Briah)** | Citrine, Olive, Russet, Black (the four colors of Malkuth in Briah—the quartered earth) |
 | **Color (Yetzirah)** | Citrine flecked with Azure (earth touched by sky, matter infused with spirit) |
 | **Color (Assiah)** | Black rayed with Yellow (the dark soil from which golden grain emerges) |
-| **Tarot** | **[[The World]] (XXI)** — Completion, Malkuth embodied, the Cosmic Dancer; **Princesses (Pages)** — The earthly, grounded aspect of each suit |
+| **Tarot** | **[[The World (XXI)|The World]] (XXI)** — Completion, Malkuth embodied, the Cosmic Dancer; **Princesses (Pages)** — The earthly, grounded aspect of each suit |
 | **Divine Name** | **Adonai ha-Aretz** (אדני הארץ) — "Lord of the Earth" |
 | **Angelic Choir** | [[Ishim]] (אישים) — "Souls of Fire," "Just Men," sanctified humanity |
 | **Human Design** | [[Root]] Center (pressure, drive, stress, the motor that pushes manifestation into form) |
@@ -341,7 +341,7 @@ Sandalphon represents the stage of development where **spiritual realization mus
 ---
 ### Tarot Correspondences
 
-Sandalphon is associated with two primary Tarot correspondences: **[[The World]] (Key XXI)**, the final card of the Major Arcana, and the **Princesses (Pages)**, the earthy aspect of each suit.
+Sandalphon is associated with two primary Tarot correspondences: **[[The World (XXI)|The World]] (Key XXI)**, the final card of the Major Arcana, and the **Princesses (Pages)**, the earthy aspect of each suit.
 
 ### The World (XXI): Malkuth Embodied
 
@@ -746,8 +746,8 @@ This creates a **six-directional** sacred space—encompassing not just the hori
 
 | **System** | **Correspondence** |
 |------------|-------------------|
-| **Qabalah** | [[Malkuth]] (Kingdom, 10th Sephira, Earth, embodiment); Path 32 ([[The World]]); Divine Name: [[Adonai ha-Aretz]]; Angelic Choir: [[Ishim]] |
-| **Tarot** | [[The World]] (XXI) — Completion, Malkuth embodied; [[Princesses (Pages)]] — Earth of each suit; [[Ten of Pentacles]] — Completion of material cycle |
+| **Qabalah** | [[Malkuth]] (Kingdom, 10th Sephira, Earth, embodiment); Path 32 ([[The World (XXI)|The World]]); Divine Name: [[Adonai ha-Aretz]]; Angelic Choir: [[Ishim]] |
+| **Tarot** | [[The World (XXI)|The World]] (XXI) — Completion, Malkuth embodied; [[Princesses (Pages)]] — Earth of each suit; [[Ten of Pentacles]] — Completion of material cycle |
 | **Astrology** | [[Earth]] (☍) — Manifestation, grounding; [[Taurus ♉]] — Fixed Earth, stability, rootedness; [[Capricorn ♑]] — Cardinal Earth, structure, completion; [[Virgo ♍]] — Mutable Earth, service, refinement |
 | **Human Design** | [[Root]] Center — Pressure, drive, stress, the motor that pushes manifestation; [[Gate 58]] (The Joyous) — Vitality, aliveness; [[Gate 38]] (The Fighter) — Struggle for meaning; [[Gate 54]] (The Marrying Maiden) — Ambition through service |
 | **I-Ching** | Hexagram 52 (Keeping Still, Mountain) — Grounding, stillness, meditation rooted in body; Hexagram 2 (The Receptive, Earth) — The yielding, receptive, grounding force |
@@ -878,7 +878,7 @@ The individual prays constantly—beautiful, eloquent, pious prayers—but their
 
 **Qabalistic Pathworking to Malkuth:**
 1. Begin in **[[Yesod]]** (the astral plane, the realm of dreams and images).
-2. Descend Path 32—**[[The World]]** (Tau)—from Yesod to Malkuth, the final descent into embodiment.
+2. Descend Path 32—**[[The World (XXI)|The World]]** (Tau)—from Yesod to Malkuth, the final descent into embodiment.
 3. In Malkuth, visualize **earth, soil, roots, the foundation**. Feel the ground beneath your feet.
 4. Invoke Sandalphon: *"Sandalphon, Prince of Prayer, Tall Angel who stands between earth and heaven—teach me to root my prayers in this body, this earth, this life."*
 5. Visualize Sandalphon as a **towering, rooted presence**—his feet deep in the soil, his head reaching to the stars. He is the **Tree itself**, the axis that connects all realms.
@@ -977,7 +977,7 @@ Invoke Sandalphon when you need:
 
 ### Cross-System Integration
 - **Qabalah:** [[Malkuth]] | [[Tree of Life]] | [[Adonai ha-Aretz]] | [[Ishim]] | [[Kether]] | [[Yesod]] | [[Tiphareth]] | [[Hod]] | [[Netzach]]
-- **Tarot:** [[The World]] (XXI) | [[Princesses (Pages)]] | [[Ten of Pentacles]] | [[Ace of Pentacles]] | [[The Hanged Man]] (surrender)
+- **Tarot:** [[The World (XXI)|The World]] (XXI) | [[Princesses (Pages)]] | [[Ten of Pentacles]] | [[Ace of Pentacles]] | [[The Hanged Man (XII)|The Hanged Man]] (surrender)
 - **Astrology:** [[Earth]] | [[Taurus ♉]] | [[Capricorn ♑]] | [[Virgo ♍]] | [[Saturn ♄]]
 - **Human Design:** [[Root Center]] | [[Gate 58]] | [[Gate 38]] | [[Gate 54]]
 - **Jungian Psychology:** [[Incarnation]] | [[Folklore/Jungian Archetypes/The Self]] | [[Embodiment]] | [[Completion]] | [[The Body as Temple]]

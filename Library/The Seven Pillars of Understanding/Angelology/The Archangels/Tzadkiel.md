@@ -34,7 +34,7 @@ Where [[Michael]] wields the sword of truth, where [[Gabriel]] delivers the annu
 To encounter Tzadkiel is to meet **the overwhelming generosity of the cosmos**—the understanding that the universe is not a hostile scarcity machine, but an abundant wellspring of grace. But Tzadkiel's mercy is not permissive indulgence—it is **righteous generosity**, the gift that empowers rather than enables, the blessing that calls forth greatness rather than encouraging stagnation.
 
 ---
-## Correspondences
+## Fundamental Knowledge
 
 ### The Name: Righteousness of God
 
@@ -76,7 +76,7 @@ Tzadkiel's function is **expansion and abundant grace**—the overflowing genero
 | **Color (Yetzirah)** | Purple (rich manifestation) |
 | **Color (Assiah)** | Deep azure flecked with yellow (material blessing) |
 | **Divine Name** | El (אל) - "God" (the simple, sovereign name) |
-| **Tarot (Major)** | [[The Emperor]] (IV) - sovereign authority, structured benevolence |
+| **Tarot (Major)** | [[The Emperor (IV)|The Emperor]] (IV) - sovereign authority, structured benevolence |
 | **Tarot (Minor)** | All Fours (Chesed's number - stability, foundation, structure of mercy) |
 | **I-Ching** | Hexagram 14 (Ta Yu/Possession in Great Measure) - abundance, sovereignty |
 | **Human Design** | [[Heart]] Center (will, sovereignty, self-worth, material mastery) |
@@ -696,9 +696,9 @@ To integrate Tzadkiel is to become the **generous king**—the one who blesses, 
 - **[[The Wheel of Fortune]]** (X) — Path of Caph, attributed to Jupiter (Wang) — the turning of fate, expansion
 
 **Thematic Associations (Vibology Synthesis):**
-- **[[The Emperor]]** (IV) — Sovereign authority, structured benevolence (thematic link to Chesed's kingship)
-- **[[Temperance]]** (XIV) — Balance of mercy and severity (Tiphareth function)
-- **[[The World]]** (XXI) — Completion, fulfillment, manifestation achieved
+- **[[The Emperor (IV)|The Emperor]]** (IV) — Sovereign authority, structured benevolence (thematic link to Chesed's kingship)
+- **[[Temperance (XIV)|Temperance]]** (XIV) — Balance of mercy and severity (Tiphareth function)
+- **[[The World (XXI)|The World]]** (XXI) — Completion, fulfillment, manifestation achieved
 
 **Minor Arcana (Verified):**
   - Four of Wands (Chesed in Fire) — Completion, celebration, established joy
@@ -990,9 +990,9 @@ Choose one person (including yourself) to **forgive this week**. Mercy is not we
 - [[Authority]] — Internal cosmic law governing decisions
 
 ### Tarot
-- [[The Emperor]] — Tzadkiel's Tarot face, benevolent sovereignty
+- [[The Emperor (IV)|The Emperor]] — Tzadkiel's Tarot face, benevolent sovereignty
 - [[The Wheel of Fortune]] — Jupiter's wheel, the turn toward blessing
-- [[The World]] — Completion and fulfillment, blessing achieved
+- [[The World (XXI)|The World]] — Completion and fulfillment, blessing achieved
 
 ### Jungian Psychology
 - [[The King/Queen]] — Tzadkiel as archetype

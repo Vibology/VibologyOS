@@ -25,7 +25,6 @@ verification_notes: Verified per Davidson pp.17,30,153; DuQuette p.861; Wang p.1
 *Guardian of the Gates*
 
 ---
-
 ## Essence
 
 **Archangel Uriel** (Hebrew: אוריאל, *Uri'el*—"Fire of God," "Light of God," "Flame of God") is the most enigmatic and contested of the four great Archangels of the Quarters. Where [[Michael]] commands the fiery heights, [[Gabriel]] guides the watery depths, and [[Raphael]] heals through airy wisdom, Uriel stands as **Guardian of the Earth**—the angel of the **material plane**, the **underworld**, and the **hidden light** that illuminates darkness from within.
@@ -35,7 +34,7 @@ Uriel occupies a paradoxical position in angelology: he is both **the most groun
 Unlike Michael, Gabriel, and Raphael, who appear in canonical scripture, Uriel's presence is found primarily in **apocryphal and mystical texts**—the Book of Enoch, 2 Esdras, the Kabbalah. He is the **excluded angel**, the one whose wisdom is too dark, too earthly, too dangerous for exoteric doctrine. Yet it is precisely this exclusion that marks his power: **Uriel is the angel of the threshold**, the guardian of mysteries that can only be approached through descent, through embodiment, through facing what has been buried.
 
 ---
-## Correspondences
+## Fundamental Knowledge
 
 ### The Name: Fire in the Earth
 
@@ -114,7 +113,7 @@ Uriel does not appear in moments of ascension or heavenly revelation. Uriel appe
 | **Direction** | North (in Western magical tradition) OR South (in some Kabbalistic systems) |
 | **Day of Week** | Saturday (Saturnian—restriction, judgment, earth, time) |
 | **Color (Malkuth)** | Citrine, Olive, Russet, Black (the four quarters in Malkuth—earth's colors) |
-| **Tarot** | [[The World]] (XXI—Malkuth, completion, embodiment), [[The Hierophant]] (V—hidden wisdom, tradition), [[The Devil]] (XV—chthonic power, earth-bound wisdom), the Pentacles suit (earthly manifestation) |
+| **Tarot** | [[The World (XXI)|The World]] (XXI—Malkuth, completion, embodiment), [[The Hierophant (V)|The Hierophant]] (V—hidden wisdom, tradition), [[The Devil (XV)|The Devil]] (XV—chthonic power, earth-bound wisdom), the Pentacles suit (earthly manifestation) |
 | **Planetary** | Earth (the planet itself, the material sphere) |
 | **Cosmic Sphere** | Earth (Cholem Yesodoth—the Sphere of the Elements) |
 | **Biblical Role** | Interpreter of visions to Ezra (2 Esdras), guide in the Book of Enoch, angel who warned Noah of the Flood |
@@ -766,7 +765,7 @@ Uriel does not announce himself with visions of light or celestial music (that i
 
 ### Cross-System Integration
 - **Qabalah:** [[Malkuth]] | [[Daath]] | [[Tree of Life]] | [[Adonai ha-Aretz]] | [[The Shekinah]] | [[Qlippoth]] (shadow of Malkuth)
-- **Tarot:** [[The World]] | [[The Hierophant]] | [[The Devil]] | [[Ace of Pentacles]] | [[Pentacles Suit]]
+- **Tarot:** [[The World (XXI)|The World]] | [[The Hierophant (V)|The Hierophant]] | [[The Devil (XV)|The Devil]] | [[Ace of Pentacles]] | [[Pentacles Suit]]
 - **Astrology:** [[Saturn ♄]] (rulership of Saturday, earth, time, karma) | [[Capricorn ♑]] (earth sign, Saturn-ruled) | [[Taurus ♉]] (fixed earth, embodiment)
 - **Human Design:** [[Root Center]] (pressure, stress, adrenaline) | [[Gate 58]] (Vitality, Joy of Mastery)
 - **Jungian Psychology:** [[The Shadow]] | [[Katabasis]] (descent archetype) | [[Imago Dei]] (God-image in matter) | [[Coniunctio]] (sacred marriage of opposites)

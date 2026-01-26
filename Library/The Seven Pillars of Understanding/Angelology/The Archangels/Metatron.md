@@ -22,10 +22,14 @@ function: Prince of Countenances, link between human and divine
 ---
 ## Essence
 
-**The Supreme Archangel — Prince of Countenances, The Lesser YHVH, The Sustainer of Mankind, Bridge Between Human and Divine**
+**Archangel Metatron** (Hebrew: מטטרון — "Beside the Throne" or "Chancellor of Heaven") is the **Prince of Countenances** (*Sar ha-Panim*), the **Lesser YHVH**, the **Sustainer of Mankind**, and the **Bridge Between Human and Divine**. His name, variously translated as "One Who Serves Behind the Throne," positions him as the immediate presence of the Divine Will—the first emanation through which the ineffable Godhead becomes comprehensible to lesser intelligences. Davidson describes Metatron as "the link between God and man," the spiritual being nearest to humanity who is yet divine (Davidson, p. 192-194).
+
+Metatron is unique among the archangels for two extraordinary reasons. First, he is the only angel associated with **[[Kether]]** (the Crown), the first and highest Sephirah on the Tree of Life—the sphere of pure divine unity before differentiation, governed by the Divine Name *Eheieh* ("I Am"). Second, according to *3 Enoch* (*Sefer Hekhalot*), Metatron was once human—the patriarch Enoch, who "walked with God, and he was not, for God took him" (Genesis 5:24). This transformation from mortal to supreme angel makes Metatron the exemplar of human apotheosis, living proof that the soul can ascend to the highest angelic station.
+
+The *Zohar* refers to Metatron as "The Lesser YHVH" (*YHVH ha-Katan*), suggesting he bears the Tetragrammaton within his nature. Exodus 23:20-21 speaks of an angel in whom God's "name is in him"—traditionally interpreted as referring to Metatron. As the Archangel of Kether, Metatron translates infinite unity into knowable presence; he "steps down the voltage" of pure divinity, making it survivable for ascending souls. To encounter Metatron is to stand at the apex of all paths, where the only teaching is *Eheieh*—"I Am."
 
 ---
-## Correspondences
+## Fundamental Knowledge
 
 **Metatron** (Hebrew: מטטרון, *Metatron* or *Mettatron*) is the most exalted and mysterious of all the Archangels, occupying a position so elevated that he stands at the **threshold between the created and the Uncreated**. His name, variously translated as *"Beside the Throne,"* *"Chancellor of Heaven,"* or *"One Who Serves Behind the Throne,"* positions him as the **immediate presence** of the Divine Will, the first emanation through which the ineffable Godhead becomes comprehensible to lesser intelligences.
 
@@ -84,7 +88,7 @@ Metatron does not descend to intervene in human affairs like Gabriel or Michael.
 | **Color (Assiah)** | White flecked with gold |
 | **Divine Name** | Eheieh (אהיה) — "I Am" / "I Will Be" |
 | **Angelic Choir** | Chaioth ha-Qadesh (Holy Living Creatures, the [[Seraphim]]) |
-| **Tarot** | The Four Aces (Kether in the Four Worlds), [[The Fool]] (0) (the divine spark before manifestation), [[Judgement]] (XX) (resurrection, apotheosis) |
+| **Tarot** | The Four Aces (Kether in the Four Worlds), [[The Fool (0)]] (0) (the divine spark before manifestation), [[Judgement (XX)|Judgement]] (XX) (resurrection, apotheosis) |
 | **Astrological** | The Primum Mobile (precession of the equinoxes, the slowest cosmic motion) |
 | **Human Design** | [[Head]] Center (Inspiration/Pressure) — The crown pressure to know, to become, to return to source |
 | **Chakra** | Sahasrara (Crown Chakra) — Union with the Divine, transcendence of individuality |
@@ -532,7 +536,7 @@ Metatron is the guide of the greatest threshold—the passage from human to divi
 
 ### Cross-System Integration
 - **Qabalah:** [[Kether]] | [[Tree of Life]] | [[Eheieh]] | [[Ain Soph Aur]] | [[Middle Pillar]]
-- **Tarot:** [[The Fool]] | [[Ace of Wands]] | [[Ace of Cups]] | [[Ace of Swords]] | [[Ace of Pentacles]] | [[Judgment]]
+- **Tarot:** [[The Fool (0)]] | [[Ace of Wands]] | [[Ace of Cups]] | [[Ace of Swords]] | [[Ace of Pentacles]] | [[Judgment]]
 - **Astrology:** [[Primum Mobile]] | [[Precession of the Equinoxes]]
 - **Human Design:** [[Head Center]] | [[Gate 64]] | [[Gate 61]]
 - **Jungian Psychology:** [[Folklore/Jungian Archetypes/The Self]] | [[Individuation]] | [[Apotheosis]] | [[Imago Dei]]

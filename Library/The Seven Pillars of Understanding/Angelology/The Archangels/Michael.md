@@ -26,10 +26,14 @@ verification_notes: Biblical quotes verified (Davidson p.193). LBRP verified (Du
 ---
 ## Essence
 
-**The Archangel of the Sun — Defender, Dragon-Slayer, Prince of Splendor, Warrior of the Higher Self**
+**Archangel Michael** (Hebrew: מיכאל, *Mikha'el* — "Who is Like God?") is the **Supreme Warrior of Light**, the **Prince of the Sun**, the **Defender**, and the **Dragon-Slayer**. His name is constructed as a rhetorical question—*mi* ("who") + *ka* ("like") + *El* ("God")—with the implied answer: "No one." This is not a question seeking information but a proclamation of divine uniqueness, a rebuke to pride and inflation that answers the serpent's lie in Eden and refutes every ego that claims divinity for itself (Davidson, p. 193).
+
+Michael appears in scripture at moments of cosmic crisis: defending Israel against angelic princes (*Daniel 10:13*), contending with Satan over the body of Moses (*Jude 1:9*), and leading the heavenly armies in the war against the dragon (*Revelation 12:7-9*). Even when contending with Satan, Michael does not presume to pronounce judgment himself but says, "The Lord rebuke you"—embodying the humility that is the antithesis of inflation (Davidson, p. 193). He is the archetypal warrior not of earthly battles but of spiritual warfare—the struggle to maintain divine order against chaos, to defend the integrity of the Self against dissolution.
+
+In the Qabalistic tradition, Michael is associated with **[[Tiphareth]]** (Beauty, the Sun), the solar center and seat of the Higher Self, though the Golden Dawn system assigns him to Hod (Wang, p. 266). Davidson notes Michael is called the "Angel of the Sun" or "Regent of the Sun" (Davidson, p. 193-194). His sword does not hack indiscriminately; it cuts with surgical precision, separating truth from illusion, Self from ego. To encounter Michael is to meet the demand for spiritual integrity—he does not protect the ego from discomfort; he hands you the sword and says: *"The dragon is within. Slay it yourself."*
 
 ---
-## Correspondences
+## Fundamental Knowledge
 
 ### The Name: Mikha'el (Who is Like God?)
 
@@ -141,7 +145,7 @@ Michael does not appear in moments of peace or comfort. Michael appears when **t
 | **Color (Yetzirah)** | Rich salmon (warm vitality, embodied light) |
 | **Color (Assiah)** | Gold-amber (material manifestation of solar consciousness) |
 | **Divine Name** | YHVH Eloah va-Daath (יהוה אלוה ודעת) - "The Lord God of Knowledge" |
-| **Tarot (Major)** | [[Temperance]] (XIV - Art, alchemy, solar integration), [[Judgement]] (XX - resurrection, the weighing) |
+| **Tarot (Major)** | [[Temperance (XIV)|Temperance]] (XIV - Art, alchemy, solar integration), [[Judgement (XX)|Judgement]] (XX - resurrection, the weighing) |
 | **Tarot (Minor)** | All Sixes (Tiphareth's number - harmony, integration, the centered heart), especially [[Six of Wands]] (victory, the solar hero crowned) |
 | **I-Ching** | Hexagram 1 (Ch'ien/The Creative) - pure yang, solar force, heaven's will |
 | **Human Design** | [[G Center]] (Identity, Love, Direction - the Self's seat) |
@@ -240,9 +244,9 @@ In Christian Qabalah, Tiphareth is associated with **the Christ**—not the hist
 
 Michael, as the Archangel of Tiphareth, is the **defender of the Christ within**—the Higher Self, the divine spark, the solar logos that is both human and divine. To invoke Michael is to invoke the courage to **become fully human and fully divine**, to undergo the crucifixion of the ego (death) so that the Self might be resurrected (rebirth).
 
-The Tarot card [[Temperance]] (Trump 14, attributed to Sagittarius and the path from Yesod to Tiphareth) depicts this alchemical process: the angel (Michael) pours water (mercy) and fire (severity) back and forth, blending opposites, creating the **Philosopher's Stone** (the integrated Self).
+The Tarot card [[Temperance (XIV)|Temperance]] (Trump 14, attributed to Sagittarius and the path from Yesod to Tiphareth) depicts this alchemical process: the angel (Michael) pours water (mercy) and fire (severity) back and forth, blending opposites, creating the **Philosopher's Stone** (the integrated Self).
 
-The Tarot card [[Judgement]] (Trump 20, attributed to Fire/Spirit and the path from Hod to Malkuth or the general resurrection theme) depicts Michael as the **psychopomp**, the angel blowing the trumpet, summoning the dead to rise—the awakening of consciousness, the call to individuation.
+The Tarot card [[Judgement (XX)|Judgement]] (Trump 20, attributed to Fire/Spirit and the path from Hod to Malkuth or the general resurrection theme) depicts Michael as the **psychopomp**, the angel blowing the trumpet, summoning the dead to rise—the awakening of consciousness, the call to individuation.
 
 ---
 
@@ -364,11 +368,11 @@ True discrimination is humble (Socratic "knowing that I know nothing"). True cou
 
 ### Temperance (XIV): The Alchemical Integration
 
-The Tarot card [[Temperance]] (Trump 14, attributed to Sagittarius and the path from Yesod to Tiphareth) depicts this alchemical process: the angel (Michael) pours water (mercy) and fire (severity) back and forth, blending opposites, creating the **Philosopher's Stone** (the integrated Self).
+The Tarot card [[Temperance (XIV)|Temperance]] (Trump 14, attributed to Sagittarius and the path from Yesod to Tiphareth) depicts this alchemical process: the angel (Michael) pours water (mercy) and fire (severity) back and forth, blending opposites, creating the **Philosopher's Stone** (the integrated Self).
 
 ### Judgement (XX): The Resurrection
 
-The Tarot card [[Judgement]] (Trump 20, attributed to Fire/Spirit and the path from Hod to Malkuth or the general resurrection theme) depicts Michael as the **psychopomp**, the angel blowing the trumpet, summoning the dead to rise—the awakening of consciousness, the call to individuation.
+The Tarot card [[Judgement (XX)|Judgement]] (Trump 20, attributed to Fire/Spirit and the path from Hod to Malkuth or the general resurrection theme) depicts Michael as the **psychopomp**, the angel blowing the trumpet, summoning the dead to rise—the awakening of consciousness, the call to individuation.
 
 ### The Sixes: Tiphareth in the Four Suits
 
@@ -616,7 +620,7 @@ Together, they form the **protective quaternary**, the four corners of the cosmo
 | ------------------- | ------------------------------------------------------------------------------ |
 | **Qabalah**         | [[Tiphareth]] (Beauty, 6th Sephira), Middle Pillar, [[Virtues]] (Malachim)    |
 | **Divine Name**     | YHVH Eloah va-Daath (יהוה אלוה ודעת)                                          |
-| **Tarot (Major)**   | [[Temperance]] (XIV), [[Judgement]] (XX)                                       |
+| **Tarot (Major)**   | [[Temperance (XIV)|Temperance]] (XIV), [[Judgement (XX)|Judgement]] (XX)                                       |
 | **Tarot (Minor)**   | All Sixes (especially [[Six of Wands]])                                        |
 | **Astrology**       | [[Sun ☉]], [[Leo ♌]], [[Fifth House]]                                          |
 | **Element**         | Fire (purifying flame, solar radiance)                                         |
@@ -842,8 +846,8 @@ This is **Michael's teaching**—humility (recognizing you are not God) and purp
 - [[Sandalphon]] — Archangel of Malkuth, the Kingdom, prayers rising
 
 ### Tarot Correspondences
-- [[Temperance]] — Trump 14, Art, alchemical integration, solar harmony
-- [[Judgement]] — Trump 20, resurrection, Michael as psychopomp
+- [[Temperance (XIV)|Temperance]] — Trump 14, Art, alchemical integration, solar harmony
+- [[Judgement (XX)|Judgement]] — Trump 20, resurrection, Michael as psychopomp
 - [[Six of Wands]] — Victory, the solar hero crowned
 - [[Ace of Swords]] — The flaming sword, discrimination, truth
 

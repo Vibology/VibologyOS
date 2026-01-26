@@ -33,7 +33,7 @@ Haniel is not the intellectual love of the Cherubim, nor the fiery passion of th
 To invoke Haniel is to ask not for abstract spiritual truths but for **the capacity to love deeply, to recognize beauty, to participate in the sacred relationship between self and world, to root spiritual vision in the fertile soil of embodied existence**.
 
 ---
-## Correspondences
+## Fundamental Knowledge
 
 ### The Name: Grace of God
 
@@ -54,6 +54,7 @@ In medieval and Renaissance grimoires—*The Key of Solomon*, *The Heptameron*, 
 Haniel's function is to ensure that creation is not merely functional but **lovely**, that existence is not merely ordered but **delightful**. The teaching: beauty is not frivolous—it is the visible signature of the Divine, the face of God made manifest in form.
 
 ---
+## Core Correspondences
 
 | Attribute | Correspondence |
 |-----------|----------------|
@@ -64,7 +65,7 @@ Haniel's function is to ensure that creation is not merely functional but **love
 | **Cosmic Sphere** | Venus (♀) — Love, beauty, harmony, desire, fertility |
 | **Element** | Earth (primary—fertility, embodiment) / Water (secondary—flow, emotion) |
 | **Color** | Emerald Green (life force, growth), Rose Pink (love, grace), Amber (warmth) |
-| **Tarot** | The Sevens (endurance, persistence, tests of faith), [[The Empress]] (III—Mother, fertility, beauty) |
+| **Tarot** | The Sevens (endurance, persistence, tests of faith), [[The Empress (III)|The Empress]] (III—Mother, fertility, beauty) |
 | **Divine Name** | YHVH Tzabaoth (יהוה צבאות) — "The Lord of Hosts" (commander of living armies) |
 | **Planetary Day** | Friday (Dies Veneris, "Day of Venus") |
 | **Aliases** | Anael, Hamiel, Hanael, Aniel, Onoel |
@@ -83,25 +84,25 @@ Wang, citing Dion Fortune's *The Mystical Qabalah*, describes Netzach as the sph
 
 Haniel, as the archangel of Netzach, is the intelligence through which the **life force persists**—the magnetic pull that binds lovers, the fertility of soil and womb, the beauty that calls forth devotion, the grace that makes existence not merely tolerable but *desirable*.
 
-### The Divine Name: YHVH Tzabaoth (The Lord of Hosts)
+#### The Divine Name: YHVH Tzabaoth (The Lord of Hosts)
 
 The divine name of Netzach is **YHVH Tzabaoth** (יהוה צבאות), *"The Lord of Hosts."* The term *Tzabaoth* (צבאות) means "hosts" or "armies"—not military forces, but the **legions of living beings**, the swarms of angels, the multitudes of life that fill creation.
 
 This is the God of **abundance, fertility, vitality**—the God who commands not through fear but through the **magnetic pull of desire and belonging**. Haniel, as the archangel of this divine name, does not coerce—Haniel *attracts, inspires, calls forth the life force in all beings*.
 
-### The Tetragrammaton: Final Heh (Earth)
+#### The Tetragrammaton: Final Heh (Earth)
 
 In the schema of the **Four Worlds**, Netzach corresponds to the sphere where divine force begins to take **concrete, embodied form**. While not as dense as [[Malkuth]] (the Kingdom), Netzach is the realm where the abstract beauty of [[Tiphareth]] (the solar heart) becomes **tangible, aesthetic, relational**.
 
 In some attributions, Netzach is associated with the **final Heh (ה)** of the Tetragrammaton when considered as the **emotional/desiring principle**—the Daughter who yearns, who reaches out, who seeks union. Haniel mediates this longing, ensuring it remains aligned with divine purpose rather than descending into shadow.
 
-### The Four Worlds: Haniel in Briah
+#### The Four Worlds: Haniel in Briah
 
 Haniel governs Netzach in **Briah** (the World of Creation), the realm where divine ideas take archetypal form. In this sense, Haniel is the **archangel of the lovers, the artists, the gardeners**—those who recognize divine beauty in created form and seek to cultivate, nurture, and celebrate it.
 
 ### Mystical and Esoteric Tradition
 
-### No Direct Biblical Appearance
+#### No Direct Biblical Appearance
 
 Unlike [[Michael]], [[Gabriel]], or [[Raphael]], Haniel does not appear by name in canonical scripture. Haniel is a figure of **esoteric tradition**—the grimoires, the Qabalah, the angelic hierarchies transmitted in mystery school lineages. This is fitting: Haniel governs *beauty, love, and grace*—qualities experienced intimately, not legislated externally.
 
@@ -125,7 +126,8 @@ Wang describes Netzach as the sphere associated with "instincts and emotions" an
 
 Haniel, as the archangel of this sphere, is the **Ruler of the Vegetable Kingdom**—not in the sense of dominion, but in the sense of the intelligence that **animates, nourishes, and sustains** all growing things.
 
-### Iconography and Symbolism
+---
+## Iconography and Symbolism
 
 Haniel is traditionally depicted as:
 
@@ -149,7 +151,8 @@ The rose is Venus's flower, and Haniel is the intelligence that teaches: *"Beaut
 
 In alchemical symbolism, **emerald green** is the color of the **Prima Materia** (the primal matter) in its state of **growth and transformation**. The **Emerald Tablet** of Hermes Trismegistus begins: *"As above, so below"*—the axiom that divine beauty reflects into material beauty, that heaven is mirrored in earth. Haniel is the mediator of this reflection.
 
-### Function in Divine Economy
+---
+## Function in Divine Economy
 
 Haniel's cosmic function is **the mediation of divine love, beauty, and grace into embodied, relational, aesthetic form**. Where the Seraphim at [[Kether]] are pure adoration (love without form), Haniel at Netzach is love **made tangible**—the warmth of a lover's hand, the scent of jasmine at dusk, the curve of a sculpture, the harmony of a song.
 
@@ -160,7 +163,8 @@ Haniel mediates between:
 - The **Eternal** (the unchanging beauty of the archetypes) and the **Temporal** (the fleeting beauty of spring blossoms)
 - The **Universal** (divine grace offered to all) and the **Particular** (the grace experienced in a single moment of kindness)
 
-### Human Consciousness Parallel
+---
+## Human Consciousness Parallel
 
 ### The Emotional Solar Plexus: The Wave of Desire and Devotion
 
@@ -219,24 +223,25 @@ In the **[[Gene Keys]]** system, the Emotional Solar Plexus houses Gates 6, 37, 
 
 When Haniel's intelligence is integrated, the individual moves from *grasping at pleasure* to *devotion to beauty as sacred*, from *fear of emotional pain* to *trust in the wave*, from *performance of love* to *authentic relational presence*.
 
-### Tarot Correspondences
+---
+## Tarot Correspondences
 
 ### The Sevens: Endurance and the Test of Faith
 
 **Verified per Wang:** Haniel governs the **Sevens** of the Tarot, which represent the **challenge of persistence**—the moment when initial enthusiasm wanes, when obstacles appear, when the soul must choose: *Will I continue? Will I endure?* (Wang, p. 98)
 
-| Card | Correspondence | Meaning |
-|------|----------------|---------|
-| **Seven of Wands** | Mars in Leo (Netzach of Fire) | **Valor** — Standing one's ground, defiant endurance |
-| **Seven of Cups** | Venus in Scorpio (Netzach of Water) | **Debauch** — Intoxication, illusion, shadow desires |
-| **Seven of Swords** | Moon in Aquarius (Netzach of Air) | **Futility** — Strategic retreat, the limits of intellect alone |
-| **Seven of Pentacles** | Saturn in Taurus (Netzach of Earth) | **Failure** (Crowley) / **Assessment** — Patience, waiting for harvest |
+| Card                       | Correspondence                      | Meaning                                                                |
+| -------------------------- | ----------------------------------- | ---------------------------------------------------------------------- |
+| **[[Seven of Wands]]**     | Mars in Leo (Netzach of Fire)       | **Valor** — Standing one's ground, defiant endurance                   |
+| **[[Seven of Cups]]**      | Venus in Scorpio (Netzach of Water) | **Debauch** — Intoxication, illusion, shadow desires                   |
+| **[[Seven of Swords]]**    | Moon in Aquarius (Netzach of Air)   | **Futility** — Strategic retreat, the limits of intellect alone        |
+| **[[Seven of Pentacles]]** | Saturn in Taurus (Netzach of Earth) | **Failure** (Crowley) / **Assessment** — Patience, waiting for harvest |
 
 Each Seven shows the **testing of the life force**—the moment when the soul must recommit to its path, align desire with divine will, and persist not through force but through **faith, grace, and the recognition that what is beautiful is worth enduring for**. The Sevens are Netzach in the four worlds: Fire (the courage to persist in will), Water (the endurance through emotional trials), Air (the perseverance of mind when intellect alone fails), Earth (the patience to wait for the harvest, trusting the slow work of growth).
 
 The **Seven of Cups** (Venus in Scorpio) is particularly revelatory of Haniel's shadow: Venus (beauty, desire, pleasure) submerged in Scorpio (the depths, obsession, compulsion) creates the state of **intoxication by desire**—the hallucination of beauty where there is only glamour, the pursuit of shadow pleasures that deplete rather than nourish. This is the test: **Can the soul discern true beauty from false, sacred desire from addiction, love from possession?** Haniel, integrated, is the intelligence that guides the soul *through* the seven cups without drinking from the poisoned chalices.
 
-### The Empress (III): Mother, Fertility, Beauty
+### [[The Empress (III)]]: Mother, Fertility, Beauty
 
 **Vibology Synthesis:** Haniel is deeply associated with **The Empress** (Trump III in the Major Arcana), the archetype of **the Divine Feminine as Mother, Creator, and Embodiment of Beauty**. Wang notes that "the perfectly developed female type is THE EMPRESS," representing the Anima archetype in Jungian terms (Wang, p. 228).
 
@@ -271,7 +276,8 @@ Haniel, as the archangel of Netzach, governs the **paths** (on the Tree of Life)
 
 These paths teach that **Haniel's beauty is not fragile**—it endures the Tower's lightning strike, it bridges the gap between feeling (Netzach) and form (Hod), it pours healing water into the unconscious (Yesod).
 
-### Elemental Attribution
+---
+## Elemental Attribution
 
 ### Earth: The Primary Attribution
 
@@ -326,7 +332,8 @@ The **light of Venus** (Haniel integrated) is:
 
 Haniel guides the soul from Venus's shadow into its light—from grasping to receiving, from envy to appreciation, from vanity to authentic radiance.
 
-### Mythology and Cross-Tradition Parallels
+---
+## Mythology and Cross-Tradition Parallels
 
 ### Aphrodite/Venus (Greco-Roman): Goddess of Love and Beauty
 
@@ -395,7 +402,8 @@ In Gnostic Christianity, **Sophia** (Wisdom) is the emanation who **desires** to
 
 Haniel, like Sophia, embodies the **sacred longing**—the yearning of the soul for union, the magnetic pull toward the Divine experienced not as cold intellect but as *ache, as beauty, as love*. Sophia's restoration through the intervention of Christ (the Logos) parallels Haniel's mediation between Eros and Logos, desire and wisdom.
 
-### Jungian and Psychological Dimension
+---
+## Jungian and Psychological Dimension
 
 ### The Anima: The Soul-Image of Beauty and Relatedness
 
@@ -448,7 +456,8 @@ Haniel's integration can be practiced through **aesthetic therapy**—the consci
 
 Haniel reminds the therapeutic process: healing is not only analysis and insight (Logos), but also **rest, delight, beauty, and belonging** (Eros).
 
-### The Gift of Integration
+---
+## The Gift of Integration
 
 When Haniel's intelligence is integrated (not identified with, but *participated in*), the individual becomes:
 
@@ -472,7 +481,8 @@ The gift of **relational grace**—the ability to mediate conflicts, to find com
 
 The shift from **desire as grasping** to **desire as devotion**. The lover who loves not to possess but to *serve the beloved's highest unfolding*. The mystic who longs for God not as escape but as *consummation*.
 
-### Relationships with Other Archangels
+---
+## Relationships with Other Archangels
 
 ### Metatron (Kether): The Crown
 
@@ -506,7 +516,8 @@ The shift from **desire as grasping** to **desire as devotion**. The lover who l
 
 [[Gabriel]] at Yesod receives Haniel's **beauty and desire** and translates them into **dreams, images, and visions**. Where Haniel offers the *experience* of love (the warmth of the beloved's hand, the scent of roses, the ache of longing), Gabriel offers the *vision* of what that love might become (the dream of union, the image of the sacred marriage, the prophecy of the child to be born). Haniel is the **felt reality** of the garden; Gabriel is the **dream** of the garden reflected in the moon-lit pool. Together, they form the path from Netzach to Yesod—from embodied desire to visionary imagination, from Venus to the Moon.
 
-### Cross-System Correspondences
+---
+## Cross-System Correspondences
 
 ### Astrology: Venus, Taurus, Libra, and the 7th House
 
@@ -542,8 +553,6 @@ In **[[The Window]]** system, Haniel corresponds to patterns involving **relatio
 
 In **[[Jungian psychology]]**, Haniel is the **Anima**—the soul-image of beauty, the bridge to the world of feeling and relationship, the inner voice that says, *"You are worthy of love. The world is worthy of your devotion."*
 
-
-
 ---
 ## Fallen Aspect
 
@@ -572,7 +581,6 @@ To invoke Haniel without preparation is to risk opening oneself to A'arab Zaraq�
 Lucifer, whose name means *"Light-Bringer,"* is associated with **Venus as the Morning Star**. His fall represents the **inflation of beauty into pride**, the belief that one's radiance is *self-generated* rather than *reflected*. This is the shadow of Haniel: the moment when the ego claims beauty as its own possession, when grace becomes entitlement.
 
 The antidote is **humility**—the recognition that all beauty is *gift*, all love is *grace*, all capacity for relationship is *received, not earned*.
-
 
 ---
 ## Invocation
@@ -617,19 +625,17 @@ From grimoire tradition (adapted):
 
 If the "love" leads to **loss of self**, it is not Haniel but the Qlippothic shell. Haniel's love *nourishes identity*; it does not devour it.
 
-### A Prayer to Haniel
+---
+## A Prayer to Haniel
 
 *Haniel, Angel of Grace, Ruler of the Garden, Prince of Love and Harmony, I call upon thee. Soften my heart where it has hardened. Restore my eyes to the beauty I have ceased to see. Teach me to love wisely and deeply—to give without losing myself, to receive without grasping. Let me honor the body as temple, pleasure as sacrament, beauty as the visible face of God. By the authority of YHVH Tzabaoth, the Lord of Hosts, by the power of Venus, the Evening Star, let thy grace descend upon me. May I walk in emerald light, rooted in fertile earth, flowing as the waters of life, crowned with roses. Let all that I create be beautiful. Let all that I love be sacred. Amen.*
-
----
-
 
 ---
 ## Cross-References
 - [[Netzach]] — Haniel's Sephirah, the sphere of Victory and the Life Force
 - [[Principalities]] — Angelic order governed by Haniel
 - [[Venus ♀]] — Planetary sphere of love, beauty, harmony
-- [[The Empress]] — Tarot Trump III, the archetype of fertility and beauty
+- [[The Empress (III)|The Empress]] — Tarot Trump III, the archetype of fertility and beauty
 - [[Sevens]] — Tarot cards of endurance and persistence (Haniel's domain)
 - [[Metatron]] — Archangel of Kether, the Crown
 - [[Raziel]] — Archangel of Chokmah, the Revealer of Mysteries
@@ -649,7 +655,6 @@ If the "love" leads to **loss of self**, it is not Haniel but the Qlippothic she
 - [[Human Design]] — BodyGraph as angelic hierarchy embodied
 - [[The Window]] — Contemporary archetypal pattern system
 - [[YHVH Tzabaoth]] — Divine name of Netzach, "Lord of Hosts"
-
 
 ---
 ## Sources

@@ -194,11 +194,11 @@ In Jungian terms, the archangels represent **archetypal intelligences**—autono
 ## Cross-System Correspondences
 
 ### Tarot
-- **Michael:** [[The Sun]] (XIX), [[Temperance]] (XIV), [[Judgement]] (XX)
-- **Gabriel:** [[The High Priestess]] (II), [[The Moon]] (XVIII)
-- **Raphael:** [[The Lovers]] (VI), [[The Magician]] (I)
-- **Uriel:** [[The Devil]] (XV), [[The Hierophant]] (V), [[The World]] (XXI)
-- **Metatron:** [[The Fool]] (0), [[The World]] (XXI)
+- **Michael:** [[The Sun (XIX)|The Sun]] (XIX), [[Temperance (XIV)|Temperance]] (XIV), [[Judgement (XX)|Judgement]] (XX)
+- **Gabriel:** [[The High Priestess (II)|The High Priestess]] (II), [[The Moon (XVIII)|The Moon]] (XVIII)
+- **Raphael:** [[The Lovers (VI)|The Lovers]] (VI), [[The Magician (I)|The Magician]] (I)
+- **Uriel:** [[The Devil (XV)|The Devil]] (XV), [[The Hierophant (V)|The Hierophant]] (V), [[The World (XXI)|The World]] (XXI)
+- **Metatron:** [[The Fool (0)]] (0), [[The World (XXI)|The World]] (XXI)
 
 ### Human Design
 Each archangel corresponds to centers, gates, and channels that embody their function:

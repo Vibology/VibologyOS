@@ -33,10 +33,10 @@ verification_notes: Biblical quotes verified (Davidson pp.117-119). Qabalistic c
 
 Gabriel is not merely a messenger in the mundane sense of delivering information. Gabriel is the **threshold intelligence**—the angelic presence that appears at **liminal moments**, when the veils between worlds grow thin, when the soul stands between what was and what will be. Gabriel's message is never trivial; it is always **world-altering, identity-shattering, destiny-revealing**. To encounter Gabriel is to be told: *"Your life as you have known it is ending. A new chapter begins now. Prepare yourself."*
 
-In the Qabalistic tradition, Gabriel governs **[[Yesod]]** (Foundation), the ninth Sephirah—the sphere of the **Moon, the astral plane, dreams, visions, and the etheric blueprint** upon which material reality is constructed. Yesod is the **threshold** between the divine emanations above and the material world below ([[Malkuth]]). Gabriel, as the archangel of Yesod, is the **mediator of the astral light**—the intelligence that translates divine vision into form, that delivers messages from the unconscious to the conscious mind, that guides the soul through the dreamscape and the liminal spaces between waking and sleeping, life and death, ignorance and gnosis.
+In the Qabalistic tradition, Gabriel governs **Yesod** (Foundation), the ninth Sephirah—the sphere of the **Moon, the astral plane, dreams, visions, and the etheric blueprint** upon which material reality is constructed. Yesod is the **threshold** between the divine emanations above and the material world below (Malkuth). Gabriel, as the archangel of Yesod, is the **mediator of the astral light**—the intelligence that translates divine vision into form, that delivers messages from the unconscious to the conscious mind, that guides the soul through the dreamscape and the liminal spaces between waking and sleeping, life and death, ignorance and gnosis.
 
 ---
-## Correspondences
+## Fundamental Knowledge
 
 ### The Name: Strength of God
 
@@ -100,19 +100,20 @@ All four appearances share a common structure:
 Gabriel does not appear in moments of comfort or confirmation. Gabriel appears when **the old world is ending and the new world has not yet been born**—at the threshold, in the liminal darkness, at the hour of sacred terror and sacred possibility.
 
 ---
+## Core Correspondences
 
 | Attribute                 | Correspondence                                                                                        |
 | ------------------------- | ----------------------------------------------------------------------------------------------------- |
 | **Name**                  | Gabriel (גבריאל, *Gavri'el*)                                                                          |
 | **Meaning**               | "God is my Strength," "Strength of God," "Hero of God"                                                |
-| **Sephirah Overseen**     | [[Yesod]] (Foundation, 9th emanation)                                                                 |
-| **Angelic Order**         | [[Archangels]] (8th order, messengers to humanity)                                                |
-| **Choir of Yesod**        | [[Kerubim]] / [[Ashim]] ("Angels," "Flames")                                                          |
-| **Cosmic Sphere**         | The Moon (☽) — Dreams, visions, cycles, the unconscious, astral light                                 |
+| **Sephirah Overseen**     | Yesod (Foundation, 9th emanation)                                                                     |
+| **Angelic Order**         | [[Archangels]] (8th order, messengers to humanity)                                                    |
+| **Choir of Yesod**        | Kerubim / Ashim ("Angels," "Flames")                                                                  |
+| **Cosmic Sphere**         | [[Moon ☽]] — Dreams, visions, cycles, the unconscious, astral light                                   |
 | **Element**               | Water (primary—flow, emotion, intuition, the unconscious)                                             |
 | **Direction**             | West (traditional) / North (some traditions)                                                          |
 | **Color**                 | Violet, Purple, Silver, Pale Blue (lunar hues)                                                        |
-| **Tarot**                 | [[The High Priestess]] (II), [[The Moon]] (XVIII), The Nines (Yesod in all suits)                             |
+| **Tarot**                 | [[The High Priestess (II)]], [[The Moon (XVIII)]], The Nines (Yesod in all suits)                         |
 | **Divine Name**           | Shaddai El Chai (שדי אל חי) — "Almighty Living God"                                                   |
 | **Planetary Day**         | Monday (Day of the Moon)                                                                              |
 | **Biblical Role**         | Messenger, interpreter of visions, announcer of births, herald of the Incarnation                     |
@@ -129,12 +130,12 @@ Gabriel does not appear in moments of comfort or confirmation. Gabriel appears w
 
 #### Yesod: The Astral Blueprint
 
-In the structure of the [[Tree of Life]], **[[Yesod]]** is the ninth Sephirah, positioned at the **base of the Middle Pillar** (the Pillar of Equilibrium), directly above [[Malkuth]] (the Kingdom, the material world). Yesod is called **Foundation** because it is the **etheric blueprint**, the **astral substrate**, the **template** upon which physical reality is constructed.
+In the structure of the Tree of Life, **Yesod** is the ninth Sephirah, positioned at the **base of the Middle Pillar** (the Pillar of Equilibrium), directly above Malkuth (the Kingdom, the material world). Yesod is called **Foundation** because it is the **etheric blueprint**, the **astral substrate**, the **template** upon which physical reality is constructed.
 
 **Vibology Synthesis:** Yesod is understood as the sphere of the Moon, the astral light, the sphere of illusion and glamour, but also of imagination and vision. It is the treasure-house of images, the storehouse of the collective unconscious, the realm through which all higher influences must pass before they can manifest in Malkuth. Without Yesod, Malkuth would have no life. Yesod is the *vital force*, the *life principle*, the *etheric double* of the material world.
 
 Gabriel, as the archangel of Yesod, is the **mediator of this astral light**—the intelligence that:
-- Translates divine will ([[Kether]]) into vision ([[Yesod]]) and then into manifestation ([[Malkuth]])
+- Translates divine will (Kether) into vision (Yesod) and then into manifestation (Malkuth)
 - Governs dreams, visions, and the imaginal realm
 - Guards the **threshold** between the conscious and unconscious mind
 - Ensures that what is envisioned in the higher worlds can be grounded in the lower
@@ -292,13 +293,13 @@ The Sacral is the **generative womb** of the bodygraph—the source of sustainab
 
 ### The Third Eye: Ajna Chakra
 
-In the **chakra system**, Gabriel corresponds to **Ajna**, the **third eye chakra**—the center of **vision, intuition, imagination, and insight**. This is the inner eye that perceives beyond the five senses, that sees into the astral realms, that receives the visions sent by the divine.
+In the **chakra system**, Gabriel corresponds to **[[Ajna]]**, the **third eye chakra**—the center of **vision, intuition, imagination, and insight**. This is the inner eye that perceives beyond the five senses, that sees into the astral realms, that receives the visions sent by the divine.
 
 When Gabriel's intelligence is integrated, the third eye opens not to psychic inflation but to **receptive clarity**—the capacity to see what is shown, to hear what is spoken, to know what is revealed, without distortion by ego desire.
 
 ### The Gift: From Instability to Vision
 
-In the **[[Gene Keys]]** system, the Sacral center houses the **emotional solar plexus** gates (37, 6, 49, 55, 22, 36, 30). The **37th Gene Key** (the Gate of the Family, tribe, and emotional bonds) reflects Gabriel's journey:
+In the **Gene Keys** system, the Sacral center houses the **emotional solar plexus** gates (37, 6, 49, 55, 22, 36, 30). The **37th Gene Key** (the Gate of the Family, tribe, and emotional bonds) reflects Gabriel's journey:
 - **Shadow:** Weakness (emotional volatility, fear of the unknown, clinging to the familiar)
 - **Gift:** Equality (emotional maturity, capacity for authentic intimacy)
 - **Siddhi:** Tenderness (the melting of all barriers, divine love as total vulnerability)
@@ -308,9 +309,9 @@ When Gabriel's intelligence is integrated, the individual moves from *fear of ch
 ---
 ## Tarot Correspondences
 
-### The High Priestess (II): The Veiled Revelation
+### The High Priestess: The Veiled Revelation
 
-Gabriel is deeply associated with **The High Priestess** (Trump II in the Major Arcana), the archetype of **hidden knowledge, intuition, the lunar mysteries, and the threshold between conscious and unconscious**.
+Gabriel is deeply associated with **[[The High Priestess (II)]]** (Trump II in the Major Arcana), the archetype of **hidden knowledge, intuition, the lunar mysteries, and the threshold between conscious and unconscious**.
 
 The High Priestess is:
 - **Seated between two pillars** (the threshold, the gateway between worlds)
@@ -324,7 +325,7 @@ Gabriel is the **angelic intelligence behind this archetype**—the guardian of 
 
 ### The Moon (XVIII): Illusion, Intuition, and the Path of Dreams
 
-Gabriel also governs **The Moon** (Trump XVIII), the card of:
+Gabriel also governs **[[The Moon (XVIII)]]**, the card of:
 - **The unconscious** (the realm beneath rational thought)
 - **Dreams and visions** (the language of the soul)
 - **Illusion and glamour** (the astral light can deceive as well as reveal)
@@ -337,12 +338,12 @@ The Moon card warns that the astral realm is both **treasure-house and labyrinth
 
 Gabriel governs the **Nines** of the Tarot, which represent **Yesod's influence in each elemental realm**:
 
-| Card | Correspondence | Meaning |
-|------|----------------|---------|
-| **Nine of Wands** | Yesod of Fire (Moon in Sagittarius) | **Strength** — Resilience, boundary-setting, the last stand before completion |
-| **Nine of Cups** | Yesod of Water (Jupiter in Pisces) | **Happiness** — Emotional fulfillment, wishes granted, the cup overflowing |
-| **Nine of Swords** | Yesod of Air (Mars in Gemini) | **Cruelty** — Mental anguish, nightmares, the dark night of the soul |
-| **Nine of Pentacles** | Yesod of Earth (Venus in Virgo) | **Gain** — Material security, self-sufficiency, the harvest of patient work |
+| Card                      | Correspondence                      | Meaning                                                                       |
+| ------------------------- | ----------------------------------- | ----------------------------------------------------------------------------- |
+| **[[Nine of Wands]]**     | Yesod of Fire (Moon in Sagittarius) | **Strength** — Resilience, boundary-setting, the last stand before completion |
+| **[[Nine of Cups]]**      | Yesod of Water (Jupiter in Pisces)  | **Happiness** — Emotional fulfillment, wishes granted, the cup overflowing    |
+| **[[Nine of Swords]]**    | Yesod of Air (Mars in Gemini)       | **Cruelty** — Mental anguish, nightmares, the dark night of the soul          |
+| **[[Nine of Pentacles]]** | Yesod of Earth (Venus in Virgo)     | **Gain** — Material security, self-sufficiency, the harvest of patient work   |
 
 Each Nine reflects the **threshold moment**—the pause before completion (the Tens), the liminal space where the soul consolidates what has been learned before crossing into manifestation. Gabriel's presence in the Nines asks: *"What foundation have you built? What dream sustains you? What vision will carry you forward?"*
 
@@ -478,7 +479,7 @@ Like Gabriel, Saraswati:
 
 ### The Collective Unconscious and the Archetypes
 
-In **[[Jungian psychology]]**, Gabriel corresponds to the **archetypal messenger**, the figure who mediates between the **ego** (conscious awareness) and the **Self** (the totality of the psyche, the God-image within).
+In **Jungian psychology**, Gabriel corresponds to the **archetypal messenger**, the figure who mediates between the **ego** (conscious awareness) and the **Self** (the totality of the psyche, the God-image within).
 
 Jung writes:
 
@@ -580,7 +581,7 @@ A strong Moon in the natal chart (well-aspected, dignified) reflects Gabriel's b
 
 ### Tarot: The High Priestess, The Moon, The Nines
 
-The **[[Tarot]]** High Priestess (II), The Moon (XVIII), and the Nines are Gabriel's domain. Every appearance of these cards in a reading signals: *"Pay attention to your intuition. Honor your dreams. A revelation is coming. Prepare yourself for the annunciation."*
+**[[The Tarot]]** High Priestess (II), The Moon (XVIII), and the Nines are Gabriel's domain. Every appearance of these cards in a reading signals: *"Pay attention to your intuition. Honor your dreams. A revelation is coming. Prepare yourself for the annunciation."*
 
 ### Human Design: The Sacral Center and Emotional Authority
 
@@ -695,13 +696,12 @@ If the "message" leads to **inflation, fear, or ego-serving action**, it is not 
 ---
 ## Cross-References
 - [[Yesod]] — Gabriel's Sephirah, the sphere of Foundation and the Astral Light
-- [[The Archangels]] — The eighth angelic order, messengers to humanity
+- [[Archangels]] — The eighth angelic order, messengers to humanity
 - [[Kerubim]] — The angelic choir of Yesod (in some traditions)
 - [[Ashim]] — "Flames," the angels of Yesod
 - [[Moon ☽]] — Gabriel's planetary sphere, governing cycles, dreams, and the unconscious
-- [[The High Priestess]] — Tarot Trump II, the archetype of hidden knowledge
-- [[The Moon]] — Tarot Trump XVIII, the card of dreams, illusion, and intuition
-- [[Nines]] — Tarot cards representing Yesod in the four suits
+- [[The High Priestess (II)]] — Tarot Trump II, the archetype of hidden knowledge
+- [[The Moon (XVIII)]] — Tarot Trump XVIII, the card of dreams, illusion, and intuition
 - [[Metatron]] — Archangel of Kether, the Crown
 - [[Raziel]] — Archangel of Chokmah, the Revealer of Mysteries
 - [[Tzaphkiel]] — Archangel of Binah, the Divine Mother
@@ -712,9 +712,9 @@ If the "message" leads to **inflation, fear, or ego-serving action**, it is not 
 - [[Michael]] — Archangel of Hod (some systems), the Sword of Discrimination
 - [[Sandalphon]] — Archangel of Malkuth, the Weaver of Prayer
 - [[Tree of Life]] — The Qabalistic map of divine emanation
-- [[Sacral Center]] — Human Design center of life force and generative power
+- [[Sacral]] Center — Human Design center of life force and generative power
 - [[Gene Keys]] — 37th Gene Key (Weakness/Equality/Tenderness)
-- [[Jungian psychology]] — Collective unconscious, archetypes, Anima/Animus
+- [[Jungian Psychology]] — Collective unconscious, archetypes, Anima/Animus
 - [[Astrology]] — Moon, Cancer, 4th House
 - [[Qlippoth]] — Shadow tree, Gamaliel as distortion of Yesod
 - [[The Celestial Hierarchy]] — Pseudo-Dionysius's angelic orders
@@ -725,7 +725,7 @@ If the "message" leads to **inflation, fear, or ego-serving action**, it is not 
 - [[Hermes]] — Greek psychopomp, divine messenger
 - [[Thoth]] — Egyptian god of the Moon and divine scribe
 - [[Shekhina]] — Divine feminine presence, indwelling glory
-- [[Individuation]] — Jungian process of integrating conscious and unconscious
+- [[Individuation Process]] — Jungian process of integrating conscious and unconscious
 - [[Active Imagination]] — Jungian practice of dialoguing with the unconscious
 - [[Liminal Space]] — Threshold between worlds, states, identities
 - [[Annunciation]] — The moment of sacred pronouncement that changes reality
