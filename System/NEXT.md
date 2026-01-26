@@ -28,10 +28,14 @@
 
 **Dead Wikilink Resolution (2026-01-26):**
 - ✅ Built normalization script mapping 778 Library files to wikilink references
-- ✅ Fixed 80 dead wikilinks across 9 angelic order files using Obsidian alias syntax
-- ✅ Reduced dead links: 233 → 129 (44% reduction)
-- ✅ Normalized: Tarot Major Arcana, Gates, Sephiroth cross-references
-- 📊 Remaining 129 dead links: Files not yet created (Lucifer, Guardian Angel, Ein Sof, Divine Names, Jungian concepts, mythology entries, mystical practices)
+- ✅ Fixed 82 dead wikilinks across 9 angelic order files using Obsidian alias syntax
+- ✅ Comprehensive Library search verified existing files (Qlippoth, Pillar of Mercy, Daath, Ain Soph Aur/Ein Sof)
+- ✅ Reduced dead links: 233 → 127 (45.5% reduction, 106 links fixed)
+- ✅ Normalized: Tarot Major Arcana, Gates, Sephiroth, Qabalah concepts
+- 📊 Remaining 127 dead links: Files not yet created in Library
+  - High-priority (7): Lucifer, Guardian Angel, Divine Names, Merkabah Mysticism, Path 25, Pillar of Severity, The Abyss
+  - Medium-priority (17): Jungian concepts (Shadow, Individuation, Collective Unconscious, Transcendent Function), mystical practices
+  - Lower-priority (103): Mythology, synthesis topics, HD/Astrology cross-refs
 
 **Commits:**
 - bd88371: Fix Hebrew name formatting (4 files)
@@ -40,10 +44,12 @@
 - 376dafe: Fix Cherubim YAML syntax
 - 86d2185: Ensure consistency in The Ten Angelic Orders.md
 - b5d3de0: Fix 80 dead wikilinks using alias syntax (normalize_angelic_wikilinks.py)
+- 01dcc51: Fix 2 additional high-priority wikilinks (Ein Sof, Pillar of Mercy)
+- 7643646: Update NEXT.md: Document dead wikilink resolution progress
 
 **Sources Verified:** NotebookLM confirmed Wang p.115, 266; Davidson p.336-337
 
-**Status:** Angelology structural consistency complete ✅ | Dead link resolution: 44% complete (80/233 fixed, 129 reference non-existent files)
+**Status:** Angelology structural consistency complete ✅ | Dead link resolution: 45.5% complete (106/233 fixed, 127 reference non-existent files)
 
 ---
 
