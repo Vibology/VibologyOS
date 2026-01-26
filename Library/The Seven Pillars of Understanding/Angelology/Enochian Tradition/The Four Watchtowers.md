@@ -13,7 +13,7 @@ verification_source: "Davidson (Dictionary of Angels), DuQuette (Enochian Vision
 
 ---
 ## Essence
-The **Four Watchtowers** (also called the **Great Table** or **Tablets of the Earth**) constitute the architectural core of [[Enochian System Overview|Enochian magic]]. Revealed to [[John Dee and Edward Kelley]] between 1583-1584, these four elemental tablets form a unified grid containing:
+The **Four Watchtowers** (also called the **Great Table** or **Tablets of the Earth**) constitute the architectural core of [[Enochian Tradition|Enochian magic]]. Revealed to [[John Dee and Edward Kelley]] between 1583-1584, these four elemental tablets form a unified grid containing:
 
 - **Divine names** (Names of God governing each element)
 - **Angelic hierarchies** (Kings, Seniors, and lesser angels)
@@ -488,7 +488,7 @@ The Watchtowers are not abstract philosophy—they are a **functional tool** for
 ---
 ## Cross-References
 ### Within Enochian
-- [[Enochian System Overview]] — Complete introduction to Enochian magic
+- [[Enochian Tradition]] — Complete introduction to Enochian magic
 - [[The 30 Aethyrs]] — The visionary spheres of consciousness
 - [[Enochian Language and the 48 Keys]] — The 48 Calls and angelic alphabet
 - [[Heptarchia Mystica]] — Planetary magic and the 49 Good Angels
