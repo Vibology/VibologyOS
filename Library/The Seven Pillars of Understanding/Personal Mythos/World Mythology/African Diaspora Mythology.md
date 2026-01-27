@@ -13,7 +13,6 @@ central_figures: Olodumare, Eshu, Orunmila, Oshun, Shango, Yemoja, Oya, Anansi
 core_theme: Survival through syncretism, ancestral continuity, threshold consciousness
 cultural_notice: LIVING SPIRITUAL TRADITION - Practice respect and proper attribution
 ---
-
 # African Diaspora Mythology
 
 ## Overview

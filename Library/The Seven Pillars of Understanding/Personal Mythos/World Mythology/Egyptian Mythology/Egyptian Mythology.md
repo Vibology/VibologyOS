@@ -12,7 +12,6 @@ myth_origin: Ancient Egypt
 central_figures: Ra, Osiris, Isis, Horus, Set, Thoth, Anubis
 core_theme: Resurrection and cosmic order
 ---
-
 # Egyptian Mythology
 
 ## Overview

@@ -12,7 +12,6 @@ myth_origin: Ancient Greece
 central_figures: Zeus, Hera, Apollo, Dionysus, Hermes, Persephone, Psyche
 core_theme: Architecture of the Ego, differentiation from unconscious
 ---
-
 # Greek Mythology
 
 ## Overview
