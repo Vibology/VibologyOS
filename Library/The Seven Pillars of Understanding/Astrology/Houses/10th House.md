@@ -334,7 +334,7 @@ Both interpretations recognize that the 10th House represents **the authoritativ
 
 ### Cross-System Integration
 - **[[Human Design]]:** Throat Center (manifestation), G Center (direction, purpose)
-- **[[Tarot]]:** [[The Emperor]] (Key IV) — Authority, structure, mastery
+- **[[The Tarot]]:** [[The Emperor (IV)|The Emperor]] (Key IV) — Authority, structure, mastery
 - **[[Jungian Archetypes]]:** The [[Senex]] (Wise Elder)—earned authority, the one who has climbed
 - **[[The Window]]:** Binah (Understanding) — Form, structure, the Great Mother
 

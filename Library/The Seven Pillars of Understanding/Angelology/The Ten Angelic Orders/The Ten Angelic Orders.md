@@ -10,8 +10,6 @@ category: Overview
 # The Ten Angelic Orders
 *The Architecture of Heaven — Ten Choirs, Three Triads (Plus Malkuth), One Divine Purpose*
 
-**The Tenfold Structure of Created Intelligence in the Qabalistic Tradition**
-
 ---
 ## Essence
 

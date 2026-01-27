@@ -328,8 +328,8 @@ The 11th House challenge is to **build community consciously**—to recognize th
 
 ### Cross-System Integration
 - **[[Human Design]]:** Throat Center (manifestation), G Center (love for humanity)
-- **[[Tarot]]:** [[The Star]] (Key XVII) — Hope, vision, collective healing
-- **[[Jungian Archetypes]]:** The [[Collective Unconscious]]—shared dreams of humanity
+- **[[The Tarot]]:** [[The Star (XVII)|The Star]] (Key XVII) — Hope, vision, collective healing
+- **[[Jungian Archetypes]]:** [[The Collective Unconscious]]—shared dreams of humanity
 - **[[The Window]]:** Chokmah (Wisdom) — Vision, the masculine principle, the pattern before manifestation
 
 ---

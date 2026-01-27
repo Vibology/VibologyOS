@@ -253,8 +253,8 @@ Derivative houses reveal how the 2nd House theme manifests in different life dom
 
 ### Cross-System Integration
 - **[[Human Design]]:** Sacral Center (sustainable life force), Root Center (material pressure)
-- **[[Tarot]]:** [[The Empress]] (Key III) — Abundance, embodied pleasure, material manifestation
-- **[[Jungian Archetypes]]:** The [[Great Mother]] (nourishment, provision)
+- **[[The Tarot]]:** [[The Empress (III)|The Empress]] (Key III) — Abundance, embodied pleasure, material manifestation
+- **[[Jungian Archetypes]]:** [[The Great Mother]] (nourishment, provision)
 - **[[The Window]]:** Yesod (Foundation) — The etheric body that gathers and sustains
 
 ---

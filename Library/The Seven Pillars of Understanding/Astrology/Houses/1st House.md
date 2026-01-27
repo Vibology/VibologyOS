@@ -179,7 +179,7 @@ When [[Pluto ♇]] is in the 1st House, **identity is forged through crisis**. T
 ---
 
 ## Psychological Depth
-The 1st House represents the **ego-mask** or **[[Persona]]**—the face shown to the world. In Jungian terms, the Persona is not false, but it is **partial**: a simplification that allows social navigation without overwhelming others with the totality of the Self.
+The 1st House represents the **ego-mask** or **[[The Seven Pillars of Understanding/Personal Mythos/Jungian Archetypes/The Persona|The Persona]]**—the face shown to the world. In Jungian terms, the Persona is not false, but it is **partial**: a simplification that allows social navigation without overwhelming others with the totality of the Self.
 
 **Healthy 1st House:**
 - Clear sense of identity and self-direction
@@ -190,7 +190,7 @@ The 1st House represents the **ego-mask** or **[[Persona]]**—the face shown to
 **Afflicted 1st House:**
 - Identity confusion or fragmentation (undefined sense of "I")
 - Physical weakness or chronic health issues
-- The [[Shadow]] of the **False Self**: performance without substance, mask without face
+- The [[The Shadow]] of the **False Self**: performance without substance, mask without face
 - Rigidity (over-identification with Persona) or collapse (inability to maintain boundaries)
 
 The 1st House challenge is to **wear the mask consciously**—to recognize that the Ascendant is a role, not the totality, but a necessary role nonetheless.
@@ -255,8 +255,8 @@ The evolution of the 1st House is learning that **identity is not fixed**—the 
 
 ### Cross-System Integration
 - **[[Human Design]]:** Ascendant degree activates Gates in conscious Personality (Design Sun)
-- **[[Tarot]]:** [[The Magician]] (Key I) — "I am," the first act of manifestation
-- **[[Jungian Archetypes]]:** The [[Persona]]—the social mask that mediates between Self and world
+- **[[The Tarot]]:** [[The Magician (I)|The Magician]] (Key I) — "I am," the first act of manifestation
+- **[[Jungian Archetypes]]:** [[The Persona]]—the social mask that mediates between Self and world
 - **[[The Window]]:** The Maverick (Aries correspondence)—the one who initiates without permission
 
 ---

@@ -265,8 +265,8 @@ Derivative houses reveal cyclical patterns: what is built (10th) returns to foun
 
 ### Cross-System Integration
 - **[[Human Design]]:** Solar Plexus Center (emotional wave), G Center (identity through belonging)
-- **[[Tarot]]:** [[The Empress]] (Key III) — Nurturance, maternal matrix, the womb
-- **[[Jungian Archetypes]]:** The [[Great Mother]] (nourishment or devouring)
+- **[[The Tarot]]:** [[The Empress (III)|The Empress]] (Key III) — Nurturance, maternal matrix, the womb
+- **[[Jungian Archetypes]]:** [[The Great Mother]] (nourishment or devouring)
 - **[[The Window]]:** Malkuth (Kingdom) — Physical plane, earth, matter
 
 ---
