@@ -106,11 +106,11 @@ When The Great Mother appears in a reading, the querent is being tested: will yo
 - [[The Divine Child]] - What the Great Mother protects
 - [[The Wise Man]] - Mentor who guides without consuming
 - [[The Alchemist]] - Integration of nurturing and devouring aspects
-- [[Personal Mythos/Jungian Archetypes/The Great Mother]] - Jungian framework for maternal archetype
-- [[Personal Mythos/Hero's Journey/Meeting the Mentor]] - The mother as first mentor
-- [[Gate 27 - Nourishment]] - Human Design gate mechanics
-- [[Hexagram 27]] - I-Ching hexagram
-- [[Gene Key 27]] - Selfishness → Altruism → Selflessness
+- [[The Great Mother]] - Jungian framework for maternal archetype
+- [[Meeting the Mentor]] - The mother as first mentor
+- Gate 27 - Nourishment - Human Design gate mechanics
+- Hexagram 27 - I-Ching hexagram
+- Gene Key 27 - Selfishness → Altruism → Selflessness
 - [[Taurus ♉]] - Astrological sustainer and builder
 - [[The Empress (III)]] - Tarot correspondence to nurturing abundance
 - [[The High Priestess (II)]] - Tarot's receptive feminine wisdom

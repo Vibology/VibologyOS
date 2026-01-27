@@ -87,14 +87,14 @@ The Portal's teaching is **trust principled upheaval**: when emotional clarity c
 When Revolution appears in a reading, the querent is being asked: what principle has been violated? What structure in your life no longer serves tribal law? Can you trust your emotional sensitivity to injustice enough to initiate revolutionary change? Fire teaches: **heat transforms**. The lake that was once solid form becomes vapor, becomes cloud, becomes rain that nourishes new growth. Revolution is not ending but molting—the necessary death that permits rebirth.
 
 ## Cross-References
-- [[The Tower]] - Violent upheaval and necessary destruction
-- [[Death]] - Transformation through radical change
-- [[Gate 49 - Revolution]]
-- [[Gene Key 49 - Reaction to Rebirth]]
-- [[Hexagram 49 - Revolution]]
-- [[Solar Plexus Center]] - Emotional authority
-- [[Tribal Circuit]] - Defense of collective integrity
-- [[Emotional Wave]] - Clarity over time
+- [[The Tower (XVI)]] - Violent upheaval and necessary destruction
+- [[Death (XIII)]] - Transformation through radical change
+- Gate 49 - Revolution
+- Gene Key 49 - Reaction to Rebirth
+- Hexagram 49 - Revolution
+- [[Solar Plexus]] - Emotional authority
+- Tribal Circuit - Defense of collective integrity
+- Emotional Wave - Clarity over time
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

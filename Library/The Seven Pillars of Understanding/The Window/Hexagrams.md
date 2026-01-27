@@ -90,9 +90,9 @@ Lines that are "old Yang" or "old Yin" transform into their opposite, generating
 ## Cross-References
 
 - [[The Window]] — System overview
-- [[I-Ching]] — The Book of Changes
+- I-Ching — The Book of Changes
 - [[Gates]] — Human Design's mapping of hexagrams to the body
-- [[Gene Keys]] — Contemplative approach to hexagrams
+- Gene Keys — Contemplative approach to hexagrams
 - [[Oracles]] — Divination methodology
 - [[The Blueprint - 444 Architecture]] — The 64-fold substrate
 

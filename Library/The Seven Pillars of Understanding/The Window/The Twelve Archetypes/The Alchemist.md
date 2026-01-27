@@ -106,11 +106,11 @@ When The Alchemist appears in a reading, the querent is being tested: will you t
 - [[The Muse]] - Soul-image integrated into Alchemist
 - [[The Idol]] - Spirit-force integrated into Alchemist
 - [[The Shape]] - Shadow integrated into Alchemist
-- [[Personal Mythos/Jungian Archetypes/The Self]] - Jungian framework for totality
-- [[Personal Mythos/Individuation Process/Confrontation with the Self]] - The ultimate stage
-- [[Gate 43 - Breakthrough]] - Human Design gate mechanics
-- [[Hexagram 43]] - I-Ching hexagram
-- [[Gene Key 43]] - Deafness → Insight → Epiphany
+- [[The Self]] - Jungian framework for totality
+- [[Confrontation with the Self]] - The ultimate stage
+- Gate 43 - Breakthrough - Human Design gate mechanics
+- Hexagram 43 - I-Ching hexagram
+- Gene Key 43 - Deafness → Insight → Epiphany
 - [[Aquarius ♒]] - Astrological revolutionary and visionary
 - [[The World (XXI)]] - Tarot correspondence to completion and integration
 - [[Wheel of Fortune (X)]] - Tarot's cycles of becoming

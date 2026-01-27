@@ -152,22 +152,22 @@ Take action. Face the danger. Engage the risk. Lead when leadership is required 
 ---
 
 ## Cross-References
-- [[House of the Land]] - Grounded stability vs. vital movement
-- [[House of the Sea]] - Emotional depth vs. instinctual action
-- [[House of the Chronicle]] - Narrative meaning vs. immediate movement
-- [[House of the Spirit]] - Conscious awareness vs. vital instinct
-- [[House of the Stars]] - Disciplined mastery vs. raw passion
-- [[Gate 21 - The Hunter]]
-- [[Gate 28 - The Game Player]]
-- [[Gate 25 - The Spirit of the Self]]
-- [[Gate 26 - The Egoist]]
-- [[Gate 5 - Fixed Rhythms]]
-- [[Gate 61 - Inner Truth]]
-- [[Gate 51 - Arousing]]
-- [[Wands]] - Tarot's vital suit
-- [[The Tower]] - Tarot's shock and initiation
-- [[Strength]] - Tarot's courage and integration
-- [[Heart/Ego Center]] - Willpower mechanics in HD
+- House of the Land - Grounded stability vs. vital movement
+- House of the Sea - Emotional depth vs. instinctual action
+- House of the Chronicle - Narrative meaning vs. immediate movement
+- House of the Spirit - Conscious awareness vs. vital instinct
+- House of the Stars - Disciplined mastery vs. raw passion
+- Gate 21 - The Hunter
+- Gate 28 - The Game Player
+- Gate 25 - The Spirit of the Self
+- Gate 26 - The Egoist
+- Gate 5 - Fixed Rhythms
+- Gate 61 - Inner Truth
+- Gate 51 - Arousing
+- Wands - Tarot's vital suit
+- [[The Tower (XVI)]] - Tarot's shock and initiation
+- [[Strength (VIII)]] - Tarot's courage and integration
+- [[Heart]] - Willpower mechanics in HD
 - [[Geburah]] - Qabalistic severity and Mars force
 - [[The Hero's Journey]] - Jungian initiation pattern
 

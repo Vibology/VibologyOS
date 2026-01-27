@@ -120,16 +120,16 @@ The practice is straightforward: **find the struggle worth your total commitment
 ---
 
 ## Cross-References
-- [[House of the Flame]] - The domain of vital/instinctual action and movement
-- [[Gate 28 - Preponderance of the Great]] - The Game Player and meaningful struggle (Spleen)
-- [[Hexagram 28]] - Preponderance of the Great (I-Ching)
-- [[Gene Key 28]] - Purposelessness → Totality → Immortality
+- House of the Flame - The domain of vital/instinctual action and movement
+- Gate 28 - Preponderance of the Great - The Game Player and meaningful struggle (Spleen)
+- Hexagram 28 - Preponderance of the Great (I-Ching)
+- Gene Key 28 - Purposelessness → Totality → Immortality
 - [[Courage]] - Gate 21 in House of the Flame (justified authority for adventure)
 - [[Passion]] - Gate 25 in House of the Flame (innocent love behind adventure)
 - [[Survival]] - Gate 26 in House of the Flame (strategic memory for adventure)
 - [[Recklessness]] - Gate 61 shadow in House of the Flame (action without wisdom)
-- [[Spleen Center]] - Instinctual awareness and survival wisdom
-- [[Knowing Circuit]] - Individual mutation through inspiration and risk
+- [[Spleen]] - Instinctual awareness and survival wisdom
+- Knowing Circuit - Individual mutation through inspiration and risk
 - [[The Fool (0)]] - Tarot's leap into the unknown
 - [[The Chariot (VII)]] - Tarot's willful engagement with challenge
 - [[Mars ♂]] - Warrior energy and willingness to fight

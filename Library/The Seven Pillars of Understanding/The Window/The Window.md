@@ -16,7 +16,7 @@ verification_source: "Esoteric Grimoire (Huang 1998, Rudd 2013, Ra Uru Hu 2011, 
 
 The Window is a **64-card oracle deck** that translates the timeless 64-fold architecture (I-Ching hexagrams / Human Design gates / Gene Keys) into contemporary 1980s cultural encoding.(Blueprint 2026; Huang 1998; Rudd 2013; Ra Uru Hu 2011) It provides a divination system grounded in ancient wisdom while speaking through modern archetypal imagery—pop culture icons, catalytic life events, and parallel domains of human experience.(Blueprint 2026)
 
-The Window bridges **[[Human Design]]'s mechanical precision**, **[[I-Ching]]'s wisdom**, **[[Gene Keys]]' transformative arc**, and **[[Personal Mythos]]'s mythic resonance** into a coherent oracle system accessible to contemporary consciousness.
+The Window bridges **[[Human Design]]'s mechanical precision**, **I-Ching's wisdom**, **Gene Keys' transformative arc**, and **[[Personal Mythos]]'s mythic resonance** into a coherent oracle system accessible to contemporary consciousness.
 
 ---
 ## The Three Parallel Categorical Domains
@@ -143,7 +143,7 @@ The Window functions as **oracle system** for:
 
 **Integration with VibologyOS:**
 - Complements [[Human Design]] chart readings
-- Provides contemporary access point for [[I-Ching]] wisdom
+- Provides contemporary access point for I-Ching wisdom
 - Bridges ancient systems with modern consciousness
 - Offers divination layer for practical application
 
@@ -159,18 +159,18 @@ Ancient 64-fold architecture (I-Ching/HD/Gene Keys) becomes accessible through 1
 Practical oracle system for daily guidance, shadow work, and transformation tracking. The Window makes esoteric knowledge actionable.
 
 **3. Cultural Bridge**
-Links [[Human Design]]'s mechanical precision + [[I-Ching]]'s timeless wisdom + [[Personal Mythos]]'s mythic depth through contemporary imagery. The Window is where ancient meets modern.
+Links [[Human Design]]'s mechanical precision + I-Ching's timeless wisdom + [[Personal Mythos]]'s mythic depth through contemporary imagery. The Window is where ancient meets modern.
 
 ---
 ## Related Systems
 
 - **[[Human Design]]** - Mechanical foundation (64 gates, centers, circuits)
-- **[[I-Ching]]** - Ancient wisdom (64 hexagrams, judgments, images)
-- **[[Gene Keys]]** - Transformation framework (Shadow → Gift → Siddhi)
+- **I-Ching** - Ancient wisdom (64 hexagrams, judgments, images)
+- **Gene Keys** - Transformation framework (Shadow → Gift → Siddhi)
 - **[[Personal Mythos]]** - Jungian archetypes (12 archetypes directly mapped)
 - **[[The Tarot]]** - Western divination tradition (structural parallels)
 - **[[Astrology]]** - Zodiac wheel (12 archetypes mapped to signs)
-- **[[Qabalah]]** - Vertical hierarchy (Houses relate to Sephiroth)
+- **Qabalah** - Vertical hierarchy (Houses relate to Sephiroth)
 
 ---
 ## Usage Notes

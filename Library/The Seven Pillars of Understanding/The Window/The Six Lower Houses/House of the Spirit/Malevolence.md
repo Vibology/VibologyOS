@@ -119,17 +119,17 @@ The practice is ethics: **reorient your precision toward service**. Not less kno
 ---
 
 ## Cross-References
-- [[House of the Spirit]] - The domain of consciousness, soul health, inner divinity
-- [[Gate 62 - Preponderance of the Small]] - Detailed articulation (Throat Center)
-- [[Hexagram 62]] - Preponderance of the Small (I-Ching)
-- [[Gene Key 62]] - Intellect → Precision → Impeccability
+- House of the Spirit - The domain of consciousness, soul health, inner divinity
+- Gate 62 - Preponderance of the Small - Detailed articulation (Throat Center)
+- Hexagram 62 - Preponderance of the Small (I-Ching)
+- Gene Key 62 - Intellect → Precision → Impeccability
 - [[Awareness]] - Gate 64 in House of the Spirit (illuminating consciousness)
 - [[Service]] - Gate 17 in House of the Spirit (ethical organization)
 - [[Will]] - Gate 7 in House of the Spirit (virtuous guidance)
 - [[Apathy]] - Gate 56 shadow in House of the Spirit (parallel shadow)
 - [[Domination]] - Gate 45 shadow in House of the Spirit (parallel shadow)
-- [[Throat Center]] - Expression and manifestation
-- [[Logic Circuit]] - Collective pattern recognition
+- [[Throat]] - Expression and manifestation
+- Logic Circuit - Collective pattern recognition
 - [[Strength (VIII)]] - Tarot's ethical power (reversed: cruelty)
 - [[The Devil (XV)]] - Tarot's bondage through corrupted knowledge
 - [[Scorpio ♏]] - Astrological depth that can heal or destroy

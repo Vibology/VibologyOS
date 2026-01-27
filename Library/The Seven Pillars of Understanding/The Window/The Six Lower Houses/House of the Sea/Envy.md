@@ -117,17 +117,17 @@ The antidote to Envy is **Gratitude**—returning to appreciation for your actua
 ---
 
 ## Cross-References
-- [[House of the Sea]] - The domain of emotional depth and relational encounter
-- [[Gate 54 - The Marrying Maiden]] - Drive and ambition (Root)
-- [[Hexagram 54]] - The Marrying Maiden (I-Ching)
-- [[Gene Key 54]] - Greed → Aspiration → Ascension
+- House of the Sea - The domain of emotional depth and relational encounter
+- Gate 54 - The Marrying Maiden - Drive and ambition (Root)
+- Hexagram 54 - The Marrying Maiden (I-Ching)
+- Gene Key 54 - Greed → Aspiration → Ascension
 - [[Heartbreak]] - Gate 36 shadow in House of the Sea (compounds envy)
 - [[Rage]] - Gate 6 shadow in House of the Sea (fuels envy)
 - [[Gratitude]] - Gate 22 in House of the Sea (antidote)
 - [[Longing]] - Gate 19 in House of the Sea (authentic vs comparative desire)
-- [[Root Center]] - Pressure and ambition
-- [[Tribal Ego Circuit]] - Status and hierarchical positioning
-- [[7 of Cups]] - Tarot's illusory desires and comparative fantasy
+- [[Root]] - Pressure and ambition
+- Tribal Ego Circuit - Status and hierarchical positioning
+- 7 of Cups - Tarot's illusory desires and comparative fantasy
 - [[The Devil (XV)]] - Tarot's bondage to material/emotional acquisition
 - [[Saturn ♄]] - Scarcity thinking and comparative measurement
 - [[Capricorn ♑]] - Shadow ambition and status-seeking through comparison

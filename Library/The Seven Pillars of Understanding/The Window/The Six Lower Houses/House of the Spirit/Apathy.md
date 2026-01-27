@@ -119,17 +119,17 @@ The practice is presence: **slow down and let something nourish you**. Not consu
 ---
 
 ## Cross-References
-- [[House of the Spirit]] - The domain of consciousness, soul health, inner divinity
-- [[Gate 56 - The Wanderer]] - Stimulation and storytelling (Throat Center)
-- [[Hexagram 56]] - The Wanderer (I-Ching)
-- [[Gene Key 56]] - Distraction → Enrichment → Intoxication
+- House of the Spirit - The domain of consciousness, soul health, inner divinity
+- Gate 56 - The Wanderer - Stimulation and storytelling (Throat Center)
+- Hexagram 56 - The Wanderer (I-Ching)
+- Gene Key 56 - Distraction → Enrichment → Intoxication
 - [[Awareness]] - Gate 64 in House of the Spirit (focused consciousness)
 - [[Humility]] - Gate 2 in House of the Spirit (receptive orientation)
 - [[Service]] - Gate 17 in House of the Spirit (deep observation)
 - [[Malevolence]] - Gate 62 shadow in House of the Spirit (parallel shadow)
 - [[Domination]] - Gate 45 shadow in House of the Spirit (parallel shadow)
-- [[Throat Center]] - Expression and manifestation
-- [[Sensing Circuit]] - Collective experiential wisdom
+- [[Throat]] - Expression and manifestation
+- Sensing Circuit - Collective experiential wisdom
 - [[The Chariot (VII)]] - Tarot's directed will (reversed: scattered movement)
 - [[The Fool (0)]] - Tarot's journey (shadow: purposeless wandering)
 - [[Gemini ♊]] - Astrological mental scattering and variety-seeking

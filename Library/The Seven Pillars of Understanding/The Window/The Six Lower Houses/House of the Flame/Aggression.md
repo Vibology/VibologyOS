@@ -119,18 +119,18 @@ The practice for healing Aggression is **rhythm restoration through active waiti
 ---
 
 ## Cross-References
-- [[House of the Flame]] - The domain of vital/instinctual action and movement
-- [[Gate 5 - Waiting]] - Fixed Patterns and natural timing (Sacral)
-- [[Hexagram 5]] - Waiting (I-Ching)
-- [[Gene Key 5]] - Impatience → Patience → Timelessness
+- House of the Flame - The domain of vital/instinctual action and movement
+- Gate 5 - Waiting - Fixed Patterns and natural timing (Sacral)
+- Hexagram 5 - Waiting (I-Ching)
+- Gene Key 5 - Impatience → Patience → Timelessness
 - [[Survival]] - Gate 26 in House of the Flame (antidote: intelligent pacing)
 - [[Courage]] - Gate 21 in House of the Flame (antidote: justified timing)
 - [[Recklessness]] - Gate 61 shadow in House of the Flame (action without inspiration)
 - [[Violence]] - Gate 51 shadow in House of the Flame (action without center)
-- [[Sacral Center]] - Life force, fertility, and response
-- [[Logic Circuit]] - Collective understanding through patterns
+- [[Sacral]] - Life force, fertility, and response
+- Logic Circuit - Collective understanding through patterns
 - [[The Tower (XVI)]] - Tarot's violent disruption of structures
-- [[5 - Five of Wands]] - Tarot's conflict and forceful competition
+- 5 - Five of Wands - Tarot's conflict and forceful competition
 - [[Mars ♂]] - The shadow of force without wisdom
 - [[Aries ♈]] - The shadow of impatience and premature action
 

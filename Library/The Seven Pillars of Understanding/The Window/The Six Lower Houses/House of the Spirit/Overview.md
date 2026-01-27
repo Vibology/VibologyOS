@@ -159,24 +159,24 @@ Turn inward. How is your soul? Practice receptivity (Gate 2)—listen for divine
 ---
 
 ## Cross-References
-- [[House of the Land]] - Physical embodiment vs. consciousness clarity
-- [[House of the Sea]] - Emotional awareness vs. psychospiritual witness
-- [[House of the Flame]] - Vital action vs. aligned will
-- [[House of the Chronicle]] - Narrative frame vs. consciousness observing story
-- [[House of the Stars]] - Material mastery vs. soul integrity
-- [[Gate 64 - Before Completion]]
-- [[Gate 2 - The Receptive]]
-- [[Gate 17 - Following]]
-- [[Gate 7 - The Army]]
-- [[Gate 56 - The Wanderer]]
-- [[Gate 62 - Preponderance of the Small]]
-- [[Gate 45 - Gathering Together]]
-- [[The High Priestess]] - Tarot's receptive wisdom
-- [[Temperance]] - Tarot's alignment and integrity
+- House of the Land - Physical embodiment vs. consciousness clarity
+- House of the Sea - Emotional awareness vs. psychospiritual witness
+- House of the Flame - Vital action vs. aligned will
+- House of the Chronicle - Narrative frame vs. consciousness observing story
+- House of the Stars - Material mastery vs. soul integrity
+- Gate 64 - Before Completion
+- Gate 2 - The Receptive
+- Gate 17 - Following
+- Gate 7 - The Army
+- Gate 56 - The Wanderer
+- Gate 62 - Preponderance of the Small
+- Gate 45 - Gathering Together
+- [[The High Priestess (II)]] - Tarot's receptive wisdom
+- [[Temperance (XIV)]] - Tarot's alignment and integrity
 - [[G Center]] - Identity and direction in HD
-- [[Folklore/Jungian Archetypes/The Self]] - Jungian wholeness
+- [[The Self]] - Jungian wholeness
 - [[Kether]] - Qabalistic crown and pure consciousness
-- [[Individuation]] - Jungian process of becoming conscious
+- [[Individuation Process]] - Jungian process of becoming conscious
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

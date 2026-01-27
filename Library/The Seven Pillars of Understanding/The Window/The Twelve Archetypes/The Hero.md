@@ -106,12 +106,12 @@ When The Hero appears in a reading, the querent is being tested: do you have the
 - [[The Shape]] - Power's dark reflection; collective shadow
 - [[The Alchemist]] - Integration of all power expressions
 - [[The Nightmare]] - The test before heroic action
-- [[Personal Mythos/Hero's Journey/The Call to Adventure]] - Beginning of the Hero's path
-- [[Personal Mythos/Hero's Journey/The Ordeal]] - The Hero's supreme test
-- [[Personal Mythos/Jungian Archetypes/The Hero]] - Jungian framework for heroic consciousness
-- [[Gate 34 - The Power of the Great]] - Human Design gate mechanics
-- [[Hexagram 34]] - I-Ching hexagram
-- [[Gene Key 34]] - Force → Strength → Majesty
+- [[The Call to Adventure]] - Beginning of the Hero's path
+- [[The Ordeal]] - The Hero's supreme test
+- [[The Hero]] - Jungian framework for heroic consciousness
+- Gate 34 - The Power of the Great - Human Design gate mechanics
+- Hexagram 34 - I-Ching hexagram
+- Gene Key 34 - Force → Strength → Majesty
 - [[Aries ♈]] - Astrological pioneer and warrior
 - [[Strength (VIII)]] - Tarot correspondence to power rightly wielded
 - [[The Chariot (VII)]] - Tarot's directed will and victory

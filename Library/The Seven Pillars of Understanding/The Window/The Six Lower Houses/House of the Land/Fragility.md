@@ -117,19 +117,19 @@ Fragility is also illuminated by its relationship to **Integrity** (Gate 18)—w
 ---
 
 ## Cross-References
-- [[House of the Land]] - The domain of embodied foundation and material grounding
-- [[Gate 57 - The Gentle]] - Intuitive clarity and fear of tomorrow (Spleen)
-- [[Hexagram 57]] - The Gentle (I-Ching)
-- [[Gene Key 57]] - Unease → Intuition → Clarity
+- House of the Land - The domain of embodied foundation and material grounding
+- Gate 57 - The Gentle - Intuitive clarity and fear of tomorrow (Spleen)
+- Hexagram 57 - The Gentle (I-Ching)
+- Gene Key 57 - Unease → Intuition → Clarity
 - [[Stability]] - Gate 20 in House of the Land (antidote: present-moment flexibility)
 - [[Ambition]] - Gate 16 in House of the Land (antidote: resilience through practice)
 - [[Integrity]] - Gate 18 in House of the Land (contrast: flexible correction vs. rigid defense)
 - [[Insecurity]] - Gate 48 shadow in House of the Land (feeds unease)
 - [[Corruption]] - Gate 50 shadow in House of the Land (compounds brittleness)
-- [[Spleen Center]] - Instinctual awareness and survival fear
-- [[Individual Knowing Circuit]] - Mutative intuition through presence
+- [[Spleen]] - Instinctual awareness and survival fear
+- Individual Knowing Circuit - Mutative intuition through presence
 - [[The Tower (XVI)]] - Tarot's shattering of rigid structures
-- [[8 of Swords]] - Tarot's self-imposed restriction through fear
+- 8 of Swords - Tarot's self-imposed restriction through fear
 - [[Saturn ♄]] - Shadow crystallization and defensive rigidity
 - [[Capricorn ♑]] - Shadow hardening through excessive structure
 

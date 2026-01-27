@@ -87,10 +87,10 @@ The Portal's teaching is **trust in cycles**: winter follows harvest, silence fo
 When Culmination appears in a reading, the querent is being asked: what cycle are you completing? Can you gather the harvest without clinging to the field? Can you trust that return to origin is not regression but renewal? The thunder beneath earth knows: **completion is preparation**. Silence between breaths allows next inhalation. Empty ground receives new seed.
 
 ## Cross-References
-- [[Folklore/Jungian Archetypes/The Self]] - Integration as culmination of individuation
-- [[Gate 24 - The Return]]
-- [[Gene Key 24 - Addiction to Silence]]
-- [[Hexagram 24 - The Return]]
+- [[The Self]] - Integration as culmination of individuation
+- Gate 24 - The Return
+- Gene Key 24 - Addiction to Silence
+- Hexagram 24 - The Return
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

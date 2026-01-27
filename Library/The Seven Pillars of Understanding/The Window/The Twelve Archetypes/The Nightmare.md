@@ -106,11 +106,11 @@ When The Nightmare appears in a reading, the querent is being tested: will you r
 - [[The Shape]] - Shadow patterns guarding threshold
 - [[The Alchemist]] - Integration that allows passage
 - [[The Joker]] - Chaos vs purposeful provocation
-- [[Personal Mythos/Jungian Archetypes/The Threshold Guardian]] - Jungian framework for gatekeepers
-- [[Personal Mythos/Hero's Journey/Crossing the First Threshold]] - The narrative moment
-- [[Gate 39 - Obstruction]] - Human Design gate mechanics
-- [[Hexagram 39]] - I-Ching hexagram
-- [[Gene Key 39]] - Provocation → Dynamism → Liberation
+- [[The Threshold Guardian]] - Jungian framework for gatekeepers
+- [[Crossing the First Threshold]] - The narrative moment
+- Gate 39 - Obstruction - Human Design gate mechanics
+- Hexagram 39 - I-Ching hexagram
+- Gene Key 39 - Provocation → Dynamism → Liberation
 - [[Pisces ♓]] - Astrological mystic and dissolver
 - [[The Hanged Man (XII)]] - Tarot correspondence to surrender at threshold
 - [[The Devil (XV)]] - Tarot's shadow guardian

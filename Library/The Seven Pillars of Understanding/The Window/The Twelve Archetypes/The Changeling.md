@@ -104,11 +104,11 @@ When The Changeling appears in a reading, the querent is being tested: can you b
 - [[The Alchemist]] - Integration beyond shifting
 - [[The Divine Child]] - Innocent beginning vs perpetual beginning
 - [[The Joker]] - Chaos vs fluidity
-- [[Personal Mythos/Jungian Archetypes/The Shapeshifter]] - Jungian framework for unstable forms
-- [[Personal Mythos/Hero's Journey/Tests, Allies, and Enemies]] - Where the Changeling appears
-- [[Gate 53 - Development]] - Human Design gate mechanics
-- [[Hexagram 53]] - I-Ching hexagram
-- [[Gene Key 53]] - Immaturity → Expansion → Superabundance
+- [[The Shapeshifter]] - Jungian framework for unstable forms
+- [[Tests, Allies, and Enemies]] - Where the Changeling appears
+- Gate 53 - Development - Human Design gate mechanics
+- Hexagram 53 - I-Ching hexagram
+- Gene Key 53 - Immaturity → Expansion → Superabundance
 - [[Gemini ♊]] - Astrological twins and duality
 - [[The Fool (0)]] - Tarot correspondence to perpetual beginning
 - [[The Moon (XVIII)]] - Tarot's shifting forms and illusion

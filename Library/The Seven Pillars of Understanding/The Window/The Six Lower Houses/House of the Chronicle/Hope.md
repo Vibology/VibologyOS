@@ -118,19 +118,19 @@ The practice is straightforward: **engage emotionally with what you value, and a
 ---
 
 ## Cross-References
-- [[House of the Chronicle]] - The domain of metanarrative and meaning-shaping virtues
-- [[Gate 30 - The Clinging Fire]] - Feelings and desire as fate (Solar Plexus)
-- [[Hexagram 30]] - The Clinging Fire (I-Ching)
-- [[Gene Key 30]] - Desire → Lightness → Rapture
+- House of the Chronicle - The domain of metanarrative and meaning-shaping virtues
+- Gate 30 - The Clinging Fire - Feelings and desire as fate (Solar Plexus)
+- Hexagram 30 - The Clinging Fire (I-Ching)
+- Gene Key 30 - Desire → Lightness → Rapture
 - [[Faith]] - Gate 32 in House of the Chronicle (continuity for hope)
 - [[Love]] - Gate 15 in House of the Chronicle (inclusive scope for hope)
 - [[Memory]] - Gate 11 in House of the Chronicle (ideational content for hope)
 - [[Despair]] - Gate 47 shadow in House of the Chronicle (opposite pole)
 - [[Bitterness]] - Gate 52 shadow in House of the Chronicle (frozen narrative)
-- [[Solar Plexus Center]] - Emotional awareness and wave
-- [[Abstract Circuit]] - Collective experience through sensing
+- [[Solar Plexus]] - Emotional awareness and wave
+- Abstract Circuit - Collective experience through sensing
 - [[The Star (XVII)]] - Tarot's sustained hope and guidance
-- [[30 - The Clinging Fire]] - Hexagram correspondence
+- 30 - The Clinging Fire - Hexagram correspondence
 - [[Pisces ♓]] - Astrological faith and emotional surrender
 - [[Neptune ♆]] - Transcendence, longing, and dissolution of boundaries
 

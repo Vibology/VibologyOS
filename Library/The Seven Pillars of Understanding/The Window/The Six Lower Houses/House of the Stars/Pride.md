@@ -119,10 +119,10 @@ The practice is humility: **release the performance and discover who you are wit
 ---
 
 ## Cross-References
-- [[House of the Stars]] - The domain of mastery and material excellence
-- [[Gate 10 - Treading]] - Self-behavior and authenticity (G Center)
-- [[Hexagram 10]] - Treading (I-Ching)
-- [[Gene Key 10]] - Self-Obsession → Naturalness → Being
+- House of the Stars - The domain of mastery and material excellence
+- Gate 10 - Treading - Self-behavior and authenticity (G Center)
+- Hexagram 10 - Treading (I-Ching)
+- Gene Key 10 - Self-Obsession → Naturalness → Being
 - [[Excellence]] - Gate 14 in House of the Stars (genuine mastery)
 - [[Discipline]] - Gate 60 in House of the Stars (limitation that enables growth)
 - [[Vision]] - Gate 1 in House of the Stars (creative direction)

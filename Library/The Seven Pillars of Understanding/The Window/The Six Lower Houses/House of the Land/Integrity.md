@@ -118,16 +118,16 @@ Integrity stands in direct opposition to **Corruption** (Gate 50 shadow)—the d
 ---
 
 ## Cross-References
-- [[House of the Land]] - The domain of embodied foundation and material grounding
-- [[Gate 18 - Work on What Has Been Spoilt]] - Correction through vigilance (Spleen)
-- [[Hexagram 18]] - Work on What Has Been Spoilt (I-Ching)
-- [[Gene Key 18]] - Judgement → Integrity → Perfection
+- House of the Land - The domain of embodied foundation and material grounding
+- Gate 18 - Work on What Has Been Spoilt - Correction through vigilance (Spleen)
+- Hexagram 18 - Work on What Has Been Spoilt (I-Ching)
+- Gene Key 18 - Judgement → Integrity → Perfection
 - [[Stability]] - Gate 20 in House of the Land (present awareness for correction)
 - [[Confidence]] - Gate 8 in House of the Land (authenticity maintained through integrity)
 - [[Ambition]] - Gate 16 in House of the Land (mastery refined through correction)
 - [[Corruption]] - Gate 50 in House of the Land (opposite pole and what integrity prevents)
-- [[Spleen Center]] - Instinctual awareness and immune function
-- [[Collective Logic Circuit]] - Pattern-based correction and understanding
+- [[Spleen]] - Instinctual awareness and immune function
+- Collective Logic Circuit - Pattern-based correction and understanding
 - [[Justice (XI)]] - Tarot's structural balance and righteous correction
 - [[The Hermit (IX)]] - Tarot's discerning wisdom and careful examination
 - [[Virgo ♍]] - Astrological discernment and corrective service

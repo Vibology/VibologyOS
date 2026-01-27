@@ -120,15 +120,15 @@ The practice is counterintuitive: **embrace limitation to achieve liberation**. 
 ---
 
 ## Cross-References
-- [[House of the Stars]] - The domain of mastery and material excellence
-- [[Gate 60 - Limitation]] - Accepted constraint (Root)
-- [[Hexagram 60]] - Limitation (I-Ching)
-- [[Gene Key 60]] - Limitation → Realism → Justice
+- House of the Stars - The domain of mastery and material excellence
+- Gate 60 - Limitation - Accepted constraint (Root)
+- Hexagram 60 - Limitation (I-Ching)
+- Gene Key 60 - Limitation → Realism → Justice
 - [[Excellence]] - Gate 14 in House of the Stars (competence to focus)
 - [[Perseverance]] - Gate 38 in House of the Stars (endurance through constraint)
 - [[Vision]] - Gate 1 in House of the Stars (direction given form)
 - [[Resignation]] - Gate 9 shadow in House of the Stars (opposite pole)
-- [[Root Center]] - Pressure and drive toward action
+- [[Root]] - Pressure and drive toward action
 - [[The Chariot (VII)]] - Tarot correspondence to disciplined will
 - [[The Hermit (IX)]] - Tarot's solitary discipline toward mastery
 - [[Saturn ♄]] - Astrological discipline, limitation, structure

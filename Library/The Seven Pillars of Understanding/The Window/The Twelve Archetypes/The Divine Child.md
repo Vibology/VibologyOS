@@ -106,11 +106,11 @@ When The Divine Child appears in a reading, the querent is being tested: will yo
 - [[The Hero]] - The defender of innocence
 - [[The Nightmare]] - The test the child must pass
 - [[The Alchemist]] - The wholeness the child carries as seed
-- [[Personal Mythos/Jungian Archetypes/The Divine Child]] - Jungian framework for child archetype
-- [[Personal Mythos/Hero's Journey/The Ordinary World]] - Where the child begins
-- [[Gate 37 - The Family]] - Human Design gate mechanics
-- [[Hexagram 37]] - I-Ching hexagram
-- [[Gene Key 37]] - Weakness → Equality → Tenderness
+- [[The Divine Child]] - Jungian framework for child archetype
+- [[The Ordinary World]] - Where the child begins
+- Gate 37 - The Family - Human Design gate mechanics
+- Hexagram 37 - I-Ching hexagram
+- Gene Key 37 - Weakness → Equality → Tenderness
 - [[Cancer ♋]] - Astrological nurturer and home-seeker
 - [[The Fool (0)]] - Tarot correspondence to innocent beginning
 - [[The Sun (XIX)]] - Tarot's radiant childlike joy

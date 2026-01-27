@@ -120,16 +120,16 @@ The practice is straightforward: **stop constricting your natural vitality and l
 ---
 
 ## Cross-References
-- [[House of the Flame]] - The domain of vital/instinctual action and movement
-- [[Gate 25 - Innocence]] - The Spirit of the Self (G Center)
-- [[Hexagram 25]] - Innocence (I-Ching)
-- [[Gene Key 25]] - Constriction → Acceptance → Universal Love
+- House of the Flame - The domain of vital/instinctual action and movement
+- Gate 25 - Innocence - The Spirit of the Self (G Center)
+- Hexagram 25 - Innocence (I-Ching)
+- Gene Key 25 - Constriction → Acceptance → Universal Love
 - [[Courage]] - Gate 21 in House of the Flame (protection for passion)
 - [[Adventure]] - Gate 28 in House of the Flame (direction for passion)
 - [[Survival]] - Gate 26 in House of the Flame (sustainability for passion)
 - [[Violence]] - Gate 51 shadow in House of the Flame (fire against life)
 - [[G Center]] - Identity, direction, and love
-- [[Centering Circuit]] - Individual empowerment through authenticity
+- Centering Circuit - Individual empowerment through authenticity
 - [[The Sun (XIX)]] - Tarot's innocent vitality and radiant joy
 - [[The Fool (0)]] - Tarot's uncontrived beginning
 - [[Sun ☉]] - Life force and vital radiance

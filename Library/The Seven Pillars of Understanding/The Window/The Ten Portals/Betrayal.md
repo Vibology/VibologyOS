@@ -89,12 +89,12 @@ When Betrayal appears in a reading, the querent is being asked: what intimate bo
 ## Cross-References
 - [[Three of Swords]] - Heartbreak and severed bonds
 - [[Five of Pentacles]] - Exile and loss of tribal support
-- [[Gate 59 - Dispersion]]
-- [[Gene Key 59 - Dishonesty to Transparency]]
-- [[Hexagram 59 - Dispersion]]
-- [[Sacral Center]] - Sexual and generative energy
-- [[Tribal Circuit]] - Bonds of support and intimacy
-- [[Channel 6-59]] - The Channel of Mating
+- Gate 59 - Dispersion
+- Gene Key 59 - Dishonesty to Transparency
+- Hexagram 59 - Dispersion
+- [[Sacral]] - Sexual and generative energy
+- Tribal Circuit - Bonds of support and intimacy
+- Channel 6-59 - The Channel of Mating
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

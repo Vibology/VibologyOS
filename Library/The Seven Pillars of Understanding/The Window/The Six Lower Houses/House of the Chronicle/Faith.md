@@ -118,17 +118,17 @@ The practice is straightforward: **invest in what you believe deserves to endure
 ---
 
 ## Cross-References
-- [[House of the Chronicle]] - The domain of metanarrative and meaning-shaping virtues
-- [[Gate 32 - Duration]] - Continuity and fear of failure (Spleen)
-- [[Hexagram 32]] - Duration (I-Ching)
-- [[Gene Key 32]] - Failure → Preservation → Veneration
+- House of the Chronicle - The domain of metanarrative and meaning-shaping virtues
+- Gate 32 - Duration - Continuity and fear of failure (Spleen)
+- Hexagram 32 - Duration (I-Ching)
+- Gene Key 32 - Failure → Preservation → Veneration
 - [[Hope]] - Gate 30 in House of the Chronicle (emotional fuel for Faith)
 - [[Love]] - Gate 15 in House of the Chronicle (inclusive scope for Faith)
 - [[Memory]] - Gate 11 in House of the Chronicle (ideational content for Faith)
 - [[Bitterness]] - Gate 52 shadow in House of the Chronicle (opposite pole)
 - [[Despair]] - Gate 47 shadow in House of the Chronicle (meaning collapse)
-- [[Spleen Center]] - Survival, intuition, and splenic knowing
-- [[Tribal Circuit]] - Support, loyalty, and collective preservation
+- [[Spleen]] - Survival, intuition, and splenic knowing
+- Tribal Circuit - Support, loyalty, and collective preservation
 - [[The Hierophant (V)]] - Tarot's preserved tradition and teaching authority
 - [[The Emperor (IV)]] - Tarot's structural endurance and fatherly protection
 - [[Capricorn ♑]] - Astrological endurance through disciplined commitment

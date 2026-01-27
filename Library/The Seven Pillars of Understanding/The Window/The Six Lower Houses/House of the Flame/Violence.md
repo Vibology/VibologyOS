@@ -119,16 +119,16 @@ The practice for healing Violence is **stillness that allows center to return**.
 ---
 
 ## Cross-References
-- [[House of the Flame]] - The domain of vital/instinctual action and movement
-- [[Gate 51 - The Arousing]] - Shock and initiative (Heart)
-- [[Hexagram 51]] - The Arousing (I-Ching)
-- [[Gene Key 51]] - Agitation → Initiative → Awakening
+- House of the Flame - The domain of vital/instinctual action and movement
+- Gate 51 - The Arousing - Shock and initiative (Heart)
+- Hexagram 51 - The Arousing (I-Ching)
+- Gene Key 51 - Agitation → Initiative → Awakening
 - [[Courage]] - Gate 21 in House of the Flame (antidote: centered authority)
 - [[Passion]] - Gate 25 in House of the Flame (antidote: innocent vitality)
 - [[Aggression]] - Gate 5 shadow in House of the Flame (fire without rhythm)
 - [[Recklessness]] - Gate 61 shadow in House of the Flame (fire without inspiration)
-- [[Heart Center]] - Willpower and ego strength
-- [[Centering Circuit]] - Individual empowerment through authenticity
+- [[Heart]] - Willpower and ego strength
+- Centering Circuit - Individual empowerment through authenticity
 - [[The Tower (XVI)]] - Tarot's violent breakdown of structures
 - [[The Devil (XV)]] - Tarot's bondage to destructive patterns
 - [[Mars ♂]] - Warrior energy in shadow as destructive force

@@ -119,17 +119,17 @@ The practice is completion: **finish something imperfect rather than polishing n
 ---
 
 ## Cross-References
-- [[House of the Stars]] - The domain of mastery and material excellence
-- [[Gate 12 - Standstill]] - Caution and discrimination (Throat)
-- [[Hexagram 12]] - Standstill (I-Ching)
-- [[Gene Key 12]] - Vanity → Discrimination → Purity
+- House of the Stars - The domain of mastery and material excellence
+- Gate 12 - Standstill - Caution and discrimination (Throat)
+- Hexagram 12 - Standstill (I-Ching)
+- Gene Key 12 - Vanity → Discrimination → Purity
 - [[Excellence]] - Gate 14 in House of the Stars (what stagnation prevents)
 - [[Discipline]] - Gate 60 in House of the Stars (constraint that enables)
 - [[Vision]] - Gate 1 in House of the Stars (direction toward action)
 - [[Perseverance]] - Gate 38 in House of the Stars (acting despite imperfection)
 - [[Pride]] - Gate 10 shadow in House of the Stars (parallel shadow)
 - [[Resignation]] - Gate 9 shadow in House of the Stars (parallel shadow)
-- [[Throat Center]] - Manifestation and expression
+- [[Throat]] - Manifestation and expression
 - [[The Hanged Man (XII)]] - Tarot correspondence to suspended action
 - [[The Emperor (IV)]] - Tarot's structured will (reversed: paralyzed authority)
 - [[Virgo ♍]] - Astrological discrimination and refinement

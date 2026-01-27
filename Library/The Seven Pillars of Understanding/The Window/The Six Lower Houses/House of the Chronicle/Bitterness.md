@@ -109,18 +109,18 @@ Together with **Despair** (Gate 47) and **Hatred** (Gate 4), Bitterness forms th
 The practice for healing Bitterness is **conscious release of accumulated stress before resuming movement**. The bitter soul must process the pressure that created the freeze before the narrative can evolve. This requires acknowledging resentment rather than suppressing it, expressing what has accumulated rather than holding it further, and ultimately releasing what cannot be changed so the story can move again.
 
 ## Cross-References
-- [[House of the Chronicle]] - The domain of metanarrative and meaning-shaping virtues
-- [[Gate 52 - Keeping Still]] - Inaction and stillness (Root)
-- [[Hexagram 52]] - Keeping Still (I-Ching)
-- [[Gene Key 52]] - Stress → Restraint → Stillness
+- House of the Chronicle - The domain of metanarrative and meaning-shaping virtues
+- Gate 52 - Keeping Still - Inaction and stillness (Root)
+- Hexagram 52 - Keeping Still (I-Ching)
+- Gene Key 52 - Stress → Restraint → Stillness
 - [[Faith]] - Gate 32 in House of the Chronicle (antidote: continuity despite difficulty)
 - [[Hope]] - Gate 30 in House of the Chronicle (antidote: sustained engagement)
 - [[Despair]] - Gate 47 shadow in House of the Chronicle (collapsed narrative)
 - [[Hatred]] - Gate 4 shadow in House of the Chronicle (poisoned narrative)
-- [[Root Center]] - Pressure, stress, and drive
-- [[Logic Circuit]] - Collective pattern recognition
-- [[4 - Four of Cups]] - Tarot's dissatisfaction and stagnation
-- [[5 - Five of Cups]] - Tarot's bitter disappointment
+- [[Root]] - Pressure, stress, and drive
+- Logic Circuit - Collective pattern recognition
+- 4 - Four of Cups - Tarot's dissatisfaction and stagnation
+- 5 - Five of Cups - Tarot's bitter disappointment
 - [[Saturn ♄]] - Limitation, restriction, and chronic pressure
 - [[Scorpio ♏]] - The shadow of resentment when transformation is blocked
 

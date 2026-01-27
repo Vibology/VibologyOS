@@ -118,16 +118,16 @@ Confidence stands in contrast to the negative Land cards, particularly **Insecur
 ---
 
 ## Cross-References
-- [[House of the Land]] - The domain of embodied foundation and material grounding
-- [[Gate 08 - Holding Together]] - Contribution through creative expression (Throat)
-- [[Hexagram 08]] - Holding Together (I-Ching)
-- [[Gene Key 8]] - Mediocrity → Style → Exquisiteness
+- House of the Land - The domain of embodied foundation and material grounding
+- Gate 08 - Holding Together - Contribution through creative expression (Throat)
+- Hexagram 08 - Holding Together (I-Ching)
+- Gene Key 8 - Mediocrity → Style → Exquisiteness
 - [[Stability]] - Gate 20 in House of the Land (grounded presence for confidence)
 - [[Integrity]] - Gate 18 in House of the Land (truth-serving correction)
 - [[Ambition]] - Gate 16 in House of the Land (style refined through practice)
 - [[Insecurity]] - Gate 48 in House of the Land (shadow polarity)
-- [[Throat Center]] - Manifestation of creative truth
-- [[Individual Knowing Circuit]] - Mutation through authentic expression
+- [[Throat]] - Manifestation of creative truth
+- Individual Knowing Circuit - Mutation through authentic expression
 - [[The Empress (III)]] - Tarot's creative abundance and authentic nurturing
 - [[The Magician (I)]] - Tarot's manifestation of individual will
 - [[Venus ♀]] - Creative beauty and authentic value

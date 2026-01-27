@@ -106,11 +106,11 @@ When The Joker appears in a reading, the querent is being tested: will you honor
 - [[The Shape]] - Pattern that returns vs chaos that destroys
 - [[The Alchemist]] - Integration beyond disruption
 - [[The Nightmare]] - Tests vs disruptions
-- [[Personal Mythos/Jungian Archetypes/The Joker]] - Jungian framework for Trickster
-- [[Personal Mythos/Hero's Journey/Tests, Allies, and Enemies]] - Where The Joker appears
-- [[Gate 35 - Progress]] - Human Design gate mechanics
-- [[Hexagram 35]] - I-Ching hexagram
-- [[Gene Key 35]] - Hunger → Adventure → Boundlessness
+- [[The Joker]] - Jungian framework for Trickster
+- [[Tests, Allies, and Enemies]] - Where The Joker appears
+- Gate 35 - Progress - Human Design gate mechanics
+- Hexagram 35 - I-Ching hexagram
+- Gene Key 35 - Hunger → Adventure → Boundlessness
 - [[Sagittarius ♐]] - Astrological archer and philosopher
 - [[The Fool (0)]] - Tarot correspondence to chaos and beginning
 - [[The Tower (XVI)]] - Tarot's sudden destruction of false structures

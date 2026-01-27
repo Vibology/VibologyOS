@@ -120,17 +120,17 @@ The practice is straightforward: **experience widely and judge rarely**. Not as 
 ---
 
 ## Cross-References
-- [[House of the Chronicle]] - The domain of metanarrative and meaning-shaping virtues
-- [[Gate 15 - Modesty]] - Extremes and love of humanity (G Center)
-- [[Hexagram 15]] - Modesty (I-Ching)
-- [[Gene Key 15]] - Dullness → Magnetism → Florescence
+- House of the Chronicle - The domain of metanarrative and meaning-shaping virtues
+- Gate 15 - Modesty - Extremes and love of humanity (G Center)
+- Hexagram 15 - Modesty (I-Ching)
+- Gene Key 15 - Dullness → Magnetism → Florescence
 - [[Faith]] - Gate 32 in House of the Chronicle (continuity for love)
 - [[Hope]] - Gate 30 in House of the Chronicle (emotional fuel for love)
 - [[Memory]] - Gate 11 in House of the Chronicle (ideational breadth for love)
 - [[Hatred]] - Gate 4 shadow in House of the Chronicle (opposite pole)
 - [[Bitterness]] - Gate 52 shadow in House of the Chronicle (frozen narrative)
 - [[G Center]] - Identity, direction, and love
-- [[Logic Circuit]] - Collective understanding through patterns
+- Logic Circuit - Collective understanding through patterns
 - [[The Lovers (VI)]] - Tarot's choice and union
 - [[Wheel of Fortune (X)]] - Tarot's cycles and all-encompassing fate
 - [[Venus ♀]] - Beauty, attraction, and inclusive love

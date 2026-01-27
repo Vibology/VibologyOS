@@ -120,10 +120,10 @@ The practice is clarification: **see what you specifically are here to contribut
 ---
 
 ## Cross-References
-- [[House of the Stars]] - The domain of mastery and material excellence
-- [[Gate 01 - The Creative]] - Creative force and direction (G Center)
-- [[Hexagram 1]] - The Creative (I-Ching)
-- [[Gene Key 1]] - Entropy → Freshness → Beauty
+- House of the Stars - The domain of mastery and material excellence
+- Gate 01 - The Creative - Creative force and direction (G Center)
+- Hexagram 1 - The Creative (I-Ching)
+- Gene Key 1 - Entropy → Freshness → Beauty
 - [[Excellence]] - Gate 14 in House of the Stars (competence to direct)
 - [[Discipline]] - Gate 60 in House of the Stars (structure for vision)
 - [[Perseverance]] - Gate 38 in House of the Stars (endurance toward vision)

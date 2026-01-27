@@ -120,15 +120,15 @@ The practice is straightforward: **become genuinely good at what you do**. Not a
 ---
 
 ## Cross-References
-- [[House of the Stars]] - The domain of mastery and material excellence
-- [[Gate 14 - Possession in Great Measure]] - Material empowerment (Sacral)
-- [[Hexagram 14]] - Possession in Great Measure (I-Ching)
-- [[Gene Key 14]] - Compromise → Competence → Bounteousness
+- House of the Stars - The domain of mastery and material excellence
+- Gate 14 - Possession in Great Measure - Material empowerment (Sacral)
+- Hexagram 14 - Possession in Great Measure (I-Ching)
+- Gene Key 14 - Compromise → Competence → Bounteousness
 - [[Discipline]] - Gate 60 in House of the Stars (constraint enabling mastery)
 - [[Perseverance]] - Gate 38 in House of the Stars (enduring effort)
 - [[Vision]] - Gate 1 in House of the Stars (creative direction)
 - [[Pride]] - Gate 10 shadow in House of the Stars (opposite pole)
-- [[Sacral Center]] - Life force and sustained work capacity
+- [[Sacral]] - Life force and sustained work capacity
 - [[The Magician (I)]] - Tarot correspondence to skilled manifestation
 - [[The Sun (XIX)]] - Tarot's radiant success and material flourishing
 - [[Capricorn ♑]] - Astrological mastery through discipline

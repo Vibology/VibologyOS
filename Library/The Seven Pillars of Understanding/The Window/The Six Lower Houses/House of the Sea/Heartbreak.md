@@ -117,18 +117,18 @@ The path through requires the positive Sea cards—particularly **Gratitude** (h
 ---
 
 ## Cross-References
-- [[House of the Sea]] - The domain of emotional depth and relational encounter
-- [[Gate 36 - Darkening of the Light]] - Crisis and emotional descent (Solar Plexus)
-- [[Hexagram 36]] - Darkening of the Light (I-Ching)
-- [[Gene Key 36]] - Turbulence → Humanity → Compassion
+- House of the Sea - The domain of emotional depth and relational encounter
+- Gate 36 - Darkening of the Light - Crisis and emotional descent (Solar Plexus)
+- Hexagram 36 - Darkening of the Light (I-Ching)
+- Gene Key 36 - Turbulence → Humanity → Compassion
 - [[Joy]] - Gate 58 in House of the Sea (opposite pole: vitality vs devastation)
 - [[Gratitude]] - Gate 22 in House of the Sea (antidote: honoring capacity to feel)
 - [[Compassion]] - Gate 13 in House of the Sea (Siddhi destination)
 - [[Rage]] - Gate 6 shadow in House of the Sea (compounds heartbreak)
 - [[Envy]] - Gate 54 shadow in House of the Sea (poisons heartbreak)
-- [[Solar Plexus Center]] - Emotional waves and crisis
-- [[Collective Abstract Circuit]] - Experience through emotional depth
-- [[3 of Swords]] - Tarot's heartbreak and pierced heart
+- [[Solar Plexus]] - Emotional waves and crisis
+- Collective Abstract Circuit - Experience through emotional depth
+- 3 of Swords - Tarot's heartbreak and pierced heart
 - [[The Moon (XVIII)]] - Tarot's emotional darkness and descent
 - [[Pluto ♇]] - Death and transformation through emotional crisis
 - [[Scorpio ♏]] - Astrological emotional intensity and transformative loss

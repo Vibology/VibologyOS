@@ -158,26 +158,26 @@ Focus on mastery. Accept discipline (Gate 60) as path to excellence. Build mater
 ---
 
 ## Cross-References
-- [[House of the Land]] - Embodied skill vs. aspirational mastery
-- [[House of the Sea]] - Emotional depth vs. material achievement
-- [[House of the Flame]] - Instinctual action vs. disciplined excellence
-- [[House of the Chronicle]] - Narrative meaning vs. material mastery
-- [[House of the Spirit]] - Soul integrity vs. outer achievement
-- [[Gate 14 - Possession in Great Measure]]
-- [[Gate 38 - Opposition]]
-- [[Gate 9 - The Taming Power of the Small]]
-- [[Gate 1 - The Creative]]
-- [[Gate 10 - Treading]]
-- [[Gate 12 - Standstill]]
-- [[Gate 60 - Limitation]]
-- [[The Magician]] - Tarot's mastery and skill
-- [[The Star]] - Tarot's vision and guidance
-- [[The World]] - Tarot's completion and totality
+- House of the Land - Embodied skill vs. aspirational mastery
+- House of the Sea - Emotional depth vs. material achievement
+- House of the Flame - Instinctual action vs. disciplined excellence
+- House of the Chronicle - Narrative meaning vs. material mastery
+- House of the Spirit - Soul integrity vs. outer achievement
+- Gate 14 - Possession in Great Measure
+- Gate 38 - Opposition
+- Gate 9 - The Taming Power of the Small
+- Gate 1 - The Creative
+- Gate 10 - Treading
+- Gate 12 - Standstill
+- Gate 60 - Limitation
+- [[The Magician (I)]] - Tarot's mastery and skill
+- [[The Star (XVII)]] - Tarot's vision and guidance
+- [[The World (XXI)]] - Tarot's completion and totality
 - [[Capricorn ♑]] - Astrological mastery and discipline
 - [[Saturn ♄]] - Astrological limitation and structure
 - [[Chokmah]] - Qabalistic creative force
 - [[Geburah]] - Qabalistic severity and discipline
-- [[Individuation]] - Jungian process toward wholeness
+- [[Individuation Process]] - Jungian process toward wholeness
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

@@ -120,15 +120,15 @@ The practice is endurance: **continue fighting for what matters with integrity**
 ---
 
 ## Cross-References
-- [[House of the Stars]] - The domain of mastery and material excellence
-- [[Gate 38 - Opposition]] - Fighting spirit and struggle (Root)
-- [[Hexagram 38]] - Opposition (I-Ching)
-- [[Gene Key 38]] - Struggle → Perseverance → Honor
+- House of the Stars - The domain of mastery and material excellence
+- Gate 38 - Opposition - Fighting spirit and struggle (Root)
+- Hexagram 38 - Opposition (I-Ching)
+- Gene Key 38 - Struggle → Perseverance → Honor
 - [[Excellence]] - Gate 14 in House of the Stars (competence to defend)
 - [[Discipline]] - Gate 60 in House of the Stars (constraint for focused fighting)
 - [[Vision]] - Gate 1 in House of the Stars (direction to fight for)
 - [[Resignation]] - Gate 9 shadow in House of the Stars (opposite pole)
-- [[Root Center]] - Pressure and drive to act
+- [[Root]] - Pressure and drive to act
 - [[Strength (VIII)]] - Tarot correspondence to courage through challenge
 - [[The Hierophant (V)]] - Tarot's principled persistence
 - [[Mars ♂]] - Astrological warrior energy and drive

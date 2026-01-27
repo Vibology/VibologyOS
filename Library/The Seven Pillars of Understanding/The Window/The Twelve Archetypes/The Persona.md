@@ -106,11 +106,11 @@ When The Persona appears in a reading, the querent is being tested: can you with
 - [[The Muse]] - Soul-image vs constructed mask
 - [[The Idol]] - Spirit-force vs theatrical role
 - [[The Changeling]] - Fluid forms vs constructed masks
-- [[Personal Mythos/Jungian Archetypes/The Persona]] - Jungian framework for social mask
-- [[Personal Mythos/Individuation Process/Persona Development]] - Early individuation stage
-- [[Gate 41 - Decrease]] - Human Design gate mechanics
-- [[Hexagram 41]] - I-Ching hexagram
-- [[Gene Key 41]] - Expectation → Anticipation → Ecstasy
+- [[The Persona]] - Jungian framework for social mask
+- [[Persona Development]] - Early individuation stage
+- Gate 41 - Decrease - Human Design gate mechanics
+- Hexagram 41 - I-Ching hexagram
+- Gene Key 41 - Expectation → Anticipation → Ecstasy
 - [[Leo ♌]] - Astrological performer and creator
 - [[The Magician (I)]] - Tarot correspondence to conscious creation
 - [[The Chariot (VII)]] - Tarot's mastery through constructed will

@@ -120,16 +120,16 @@ The practice is acceptance: **recognize your role and fulfill it with virtue**. 
 ---
 
 ## Cross-References
-- [[House of the Spirit]] - The domain of consciousness, soul health, inner divinity
-- [[Gate 7 - The Army]] - Role of the self in leadership (G Center)
-- [[Hexagram 7]] - The Army (I-Ching)
-- [[Gene Key 7]] - Division → Guidance → Virtue
+- House of the Spirit - The domain of consciousness, soul health, inner divinity
+- Gate 7 - The Army - Role of the self in leadership (G Center)
+- Hexagram 7 - The Army (I-Ching)
+- Gene Key 7 - Division → Guidance → Virtue
 - [[Awareness]] - Gate 64 in House of the Spirit (visionary perception)
 - [[Humility]] - Gate 2 in House of the Spirit (receptive orientation)
 - [[Service]] - Gate 17 in House of the Spirit (organized service)
 - [[Domination]] - Gate 45 shadow in House of the Spirit (corrupted authority)
 - [[G Center]] - Identity, direction, and love
-- [[Logic Circuit]] - Collective pattern recognition
+- Logic Circuit - Collective pattern recognition
 - [[The Emperor (IV)]] - Tarot correspondence to structured leadership
 - [[Justice (XI)]] - Tarot's moral authority and balance
 - [[Leo ♌]] - Astrological leadership and creative will

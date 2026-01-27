@@ -112,11 +112,11 @@ When The Idol appears in a reading, the querent is being tested: will you claim 
 - [[The Hero]] - Power in action vs authority through pattern
 - [[The Alchemist]] - Integration of Muse and Idol
 - [[The Persona]] - Constructed mask vs integrated leadership
-- [[Personal Mythos/Jungian Archetypes/The Animus]] - Jungian framework for spirit-image
-- [[Personal Mythos/Individuation Process/Encounter with Anima-Animus]] - The integration stage
-- [[Gate 31 - Influence]] - Human Design gate mechanics
-- [[Hexagram 31]] - I-Ching hexagram
-- [[Gene Key 31]] - Arrogance → Leadership → Humility
+- [[The Animus]] - Jungian framework for spirit-image
+- [[Encounter with Anima-Animus]] - The integration stage
+- Gate 31 - Influence - Human Design gate mechanics
+- Hexagram 31 - I-Ching hexagram
+- Gene Key 31 - Arrogance → Leadership → Humility
 - [[Capricorn ♑]] - Astrological ambition and mastery
 - [[The Emperor (IV)]] - Tarot correspondence to masculine authority
 - [[Justice (XI)]] - Tarot's balanced discernment

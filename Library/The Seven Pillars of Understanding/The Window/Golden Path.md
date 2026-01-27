@@ -92,7 +92,7 @@ Each sequence takes **months to years** to properly contemplate. This is not int
 ## Cross-References
 
 - [[The Window]] — System overview
-- [[Gene Keys]] — Richard Rudd's system
+- Gene Keys — Richard Rudd's system
 - [[Shadow-Gift-Siddhi]] — The three frequencies
 - [[Hexagrams]] — The 64 archetypal patterns
 - [[Human Design]] — The mechanical counterpart to Gene Keys

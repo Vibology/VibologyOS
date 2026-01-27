@@ -106,11 +106,11 @@ When The Wise Man appears in a reading, the querent is being tested: will you ho
 - [[The Divine Child]] - What the Wise Man teaches
 - [[The Great Mother]] - Nourishment vs provision
 - [[The Alchemist]] - Integration of teaching and solitude
-- [[Personal Mythos/Jungian Archetypes/The Wise Old Man]] - Jungian framework for mentor archetype
-- [[Personal Mythos/Hero's Journey/Meeting the Mentor]] - The Wise Man's role in the journey
-- [[Gate 40 - Deliverance]] - Human Design gate mechanics
-- [[Hexagram 40]] - I-Ching hexagram
-- [[Gene Key 40]] - Exhaustion → Resolve → Divine Will
+- [[The Wise Old Man]] - Jungian framework for mentor archetype
+- [[Meeting the Mentor]] - The Wise Man's role in the journey
+- Gate 40 - Deliverance - Human Design gate mechanics
+- Hexagram 40 - I-Ching hexagram
+- Gene Key 40 - Exhaustion → Resolve → Divine Will
 - [[Virgo ♍]] - Astrological service and precision
 - [[The Hermit (IX)]] - Tarot correspondence to solitary wisdom
 - [[The Hierophant (V)]] - Tarot's teaching through tradition

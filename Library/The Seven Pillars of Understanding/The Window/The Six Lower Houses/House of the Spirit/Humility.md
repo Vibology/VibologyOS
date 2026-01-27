@@ -120,16 +120,16 @@ The practice is surrender: **receive your sacred direction rather than manufactu
 ---
 
 ## Cross-References
-- [[House of the Spirit]] - The domain of consciousness, soul health, inner divinity
-- [[Gate 2 - The Receptive]] - Direction and Higher Self (G Center)
-- [[Hexagram 2]] - The Receptive (I-Ching)
-- [[Gene Key 2]] - Dislocation → Orientation → Unity
+- House of the Spirit - The domain of consciousness, soul health, inner divinity
+- Gate 2 - The Receptive - Direction and Higher Self (G Center)
+- Hexagram 2 - The Receptive (I-Ching)
+- Gene Key 2 - Dislocation → Orientation → Unity
 - [[Awareness]] - Gate 64 in House of the Spirit (visionary perception)
 - [[Service]] - Gate 17 in House of the Spirit (organized guidance)
 - [[Will]] - Gate 7 in House of the Spirit (virtuous leadership)
 - [[Domination]] - Gate 45 shadow in House of the Spirit (corrupted authority)
 - [[G Center]] - Identity, direction, and love
-- [[Knowing Circuit]] - Individual mutation through inspiration
+- Knowing Circuit - Individual mutation through inspiration
 - [[The High Priestess (II)]] - Tarot's receptive inner wisdom
 - [[The Hermit (IX)]] - Tarot's solitary inner guidance
 - [[Virgo ♍]] - Astrological service through discernment

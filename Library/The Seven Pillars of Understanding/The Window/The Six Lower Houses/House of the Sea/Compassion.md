@@ -116,17 +116,17 @@ Compassion is the antidote to **Rage** (Gate 6 shadow)—because empathic witnes
 ---
 
 ## Cross-References
-- [[House of the Sea]] - The domain of emotional depth and relational encounter
-- [[Gate 13 - The Fellowship of Man]] - The Listener (G Center)
-- [[Hexagram 13]] - The Fellowship of Man (I-Ching)
-- [[Gene Key 13]] - Discord → Discernment → Empathy
+- House of the Sea - The domain of emotional depth and relational encounter
+- Gate 13 - The Fellowship of Man - The Listener (G Center)
+- Hexagram 13 - The Fellowship of Man (I-Ching)
+- Gene Key 13 - Discord → Discernment → Empathy
 - [[Joy]] - Gate 58 in House of the Sea (vitality extended empathically)
 - [[Gratitude]] - Gate 22 in House of the Sea (appreciation for empathic capacity)
 - [[Longing]] - Gate 19 in House of the Sea (desire for connection)
 - [[Rage]] - Gate 6 shadow in House of the Sea (transformed by compassion)
 - [[Heartbreak]] - Gate 36 shadow in House of the Sea (held by compassion)
 - [[G Center]] - Identity and direction through love
-- [[Collective Sharing Circuit]] - Abstract pattern witnessing
+- Collective Sharing Circuit - Abstract pattern witnessing
 - [[The High Priestess (II)]] - Tarot's receptive witnessing and deep listening
 - [[Queen of Cups]] - Tarot's empathic presence and emotional containment
 - [[Neptune ♆]] - Compassion, dissolution of boundaries, collective feeling

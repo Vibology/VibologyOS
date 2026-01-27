@@ -87,13 +87,13 @@ The Portal's teaching is **trust the awakening**: when individual insight has be
 When Awakening appears in a reading, the querent is being asked: what knowing can you no longer contain? What truth has been fully assimilated and now demands expression? Can you speak with the metabolic certainty of the thyroid, even knowing your voice may fracture what others believe? The mountain teaches: **solidity is temporary**. All complexity eventually splits apart to reveal the simple truth that was always at the core.
 
 ## Cross-References
-- [[The Hierophant]] - Speaking received wisdom
-- [[The Hermit]] - Solitary assimilation before expression
-- [[Gate 23 - Splitting Apart]]
-- [[Gene Key 23 - Complexity to Quintessence]]
-- [[Hexagram 23 - Splitting Apart]]
-- [[Individual Knowing Circuit]] - Context for mutative expression
-- [[Throat Center]] - Mechanics of manifestation
+- [[The Hierophant (V)]] - Speaking received wisdom
+- [[The Hermit (IX)]] - Solitary assimilation before expression
+- Gate 23 - Splitting Apart
+- Gene Key 23 - Complexity to Quintessence
+- Hexagram 23 - Splitting Apart
+- Individual Knowing Circuit - Context for mutative expression
+- [[Throat]] - Mechanics of manifestation
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

@@ -105,11 +105,11 @@ When The Shape appears in a reading, the querent is being tested: will you recog
 - [[The Hero]] - Conscious light vs unconscious shadow
 - [[The Nightmare]] - Guardian tested by what returns
 - [[The Alchemist]] - Integration that knows its limits
-- [[Personal Mythos/Jungian Archetypes/The Shadow]] - Jungian framework for shadow
-- [[Personal Mythos/Individuation Process/Confrontation with Shadow]] - The distinction between shadows
-- [[Gate 44 - Coming to Meet]] - Human Design gate mechanics
-- [[Hexagram 44]] - I-Ching hexagram
-- [[Gene Key 44]] - Interference → Teamwork → Synarchy
+- [[The Shadow]] - Jungian framework for shadow
+- [[Confrontation with Shadow]] - The distinction between shadows
+- Gate 44 - Coming to Meet - Human Design gate mechanics
+- Hexagram 44 - I-Ching hexagram
+- Gene Key 44 - Interference → Teamwork → Synarchy
 - [[Scorpio ♏]] - Astrological death and transformation
 - [[Death (XIII)]] - Tarot correspondence to inevitable endings
 - [[The Devil (XV)]] - Tarot's shadow encounter

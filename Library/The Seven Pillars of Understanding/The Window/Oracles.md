@@ -92,7 +92,7 @@ Software or apps that simulate random casting.
 
 - [[The Window]] — System overview
 - [[Hexagrams]] — The 64 archetypal situations
-- [[I-Ching]] — The Book of Changes
+- I-Ching — The Book of Changes
 - [[Divination]] — Tarot's parallel oracular practice
 - [[Synchronicity]] — The acausal principle underlying oracles
 

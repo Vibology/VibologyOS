@@ -104,11 +104,11 @@ When The Muse appears in a reading, the querent is being tested: will you love y
 - [[The Persona]] - Performed identity vs embodied soul
 - [[The Alchemist]] - Integration of Muse and Idol
 - [[The Great Mother]] - Feminine as nurturing vs feminine as beauty
-- [[Personal Mythos/Jungian Archetypes/The Anima]] - Jungian framework for soul-image
-- [[Personal Mythos/Individuation Process/Encounter with Anima-Animus]] - The integration stage
-- [[Gate 46 - Pushing Upward]] - Human Design gate mechanics
-- [[Hexagram 46]] - I-Ching hexagram
-- [[Gene Key 46]] - Seriousness → Delight → Ecstasy
+- [[The Anima]] - Jungian framework for soul-image
+- [[Encounter with Anima-Animus]] - The integration stage
+- Gate 46 - Pushing Upward - Human Design gate mechanics
+- Hexagram 46 - I-Ching hexagram
+- Gene Key 46 - Seriousness → Delight → Ecstasy
 - [[Libra ♎]] - Astrological harmony and beauty
 - [[The Empress (III)]] - Tarot correspondence to embodied feminine beauty
 - [[The Star (XVII)]] - Tarot's vulnerable beauty and hope

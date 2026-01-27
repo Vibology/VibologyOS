@@ -117,18 +117,18 @@ The practice for healing Hatred is **remembering your own ignorance and extendin
 ---
 
 ## Cross-References
-- [[House of the Chronicle]] - The domain of metanarrative and meaning-shaping virtues
-- [[Gate 4 - Youthful Folly]] - Formulization and mental solutions (Ajna)
-- [[Hexagram 4]] - Youthful Folly (I-Ching)
-- [[Gene Key 4]] - Intolerance → Understanding → Forgiveness
+- House of the Chronicle - The domain of metanarrative and meaning-shaping virtues
+- Gate 4 - Youthful Folly - Formulization and mental solutions (Ajna)
+- Hexagram 4 - Youthful Folly (I-Ching)
+- Gene Key 4 - Intolerance → Understanding → Forgiveness
 - [[Love]] - Gate 15 in House of the Chronicle (antidote: inclusive embrace)
 - [[Memory]] - Gate 11 in House of the Chronicle (antidote: teaching frameworks)
 - [[Bitterness]] - Gate 52 shadow in House of the Chronicle (frozen narrative)
 - [[Despair]] - Gate 47 shadow in House of the Chronicle (collapsed narrative)
-- [[Ajna Center]] - Mental awareness and conceptualization
-- [[Logic Circuit]] - Collective understanding through patterns
+- [[Ajna]] - Mental awareness and conceptualization
+- Logic Circuit - Collective understanding through patterns
 - [[The Devil (XV)]] - Tarot's bondage and toxic attachment
-- [[5 - The Hierophant reversed]] - Tarot's dogmatism and rigid teaching
+- 5 - The Hierophant reversed - Tarot's dogmatism and rigid teaching
 - [[Pluto ♇]] - The shadow of power when used to dominate
 - [[Scorpio ♏]] - The capacity for both transformation and toxic judgment
 

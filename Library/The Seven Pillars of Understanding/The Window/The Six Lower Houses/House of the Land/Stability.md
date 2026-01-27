@@ -120,16 +120,16 @@ The practice is straightforward: **be where you are, fully**. Not as concept, no
 ---
 
 ## Cross-References
-- [[House of the Land]] - The domain of embodied foundation and material grounding
-- [[Gate 20 - Contemplation]] - The Now and present-moment awareness (Throat)
-- [[Hexagram 20]] - Contemplation (I-Ching)
-- [[Gene Key 20]] - Superficiality → Self Assurance → Presence
+- House of the Land - The domain of embodied foundation and material grounding
+- Gate 20 - Contemplation - The Now and present-moment awareness (Throat)
+- Hexagram 20 - Contemplation (I-Ching)
+- Gene Key 20 - Superficiality → Self Assurance → Presence
 - [[Confidence]] - Gate 8 in House of the Land (creative expression from stability)
 - [[Integrity]] - Gate 18 in House of the Land (correction maintaining stability)
 - [[Ambition]] - Gate 16 in House of the Land (mastery enabled by stability)
 - [[Insecurity]] - Gate 48 shadow in House of the Land (opposite pole)
-- [[Throat Center]] - Expression and manifestation
-- [[Integration Circuit]] - Individual empowerment through awareness
+- [[Throat]] - Expression and manifestation
+- Integration Circuit - Individual empowerment through awareness
 - [[The Empress (III)]] - Tarot's grounded abundance and present nurturing
 - [[The World (XXI)]] - Tarot's complete embodiment and presence
 - [[Saturn ♄]] - Grounded structure through present responsibility

@@ -120,17 +120,17 @@ The practice is straightforward: **refine your ideas until they illuminate**. No
 ---
 
 ## Cross-References
-- [[House of the Chronicle]] - The domain of metanarrative and meaning-shaping virtues
-- [[Gate 11 - Peace]] - Ideas and mental peace (Ajna)
-- [[Hexagram 11]] - Peace (I-Ching)
-- [[Gene Key 11]] - Obscurity → Idealism → Light
+- House of the Chronicle - The domain of metanarrative and meaning-shaping virtues
+- Gate 11 - Peace - Ideas and mental peace (Ajna)
+- Hexagram 11 - Peace (I-Ching)
+- Gene Key 11 - Obscurity → Idealism → Light
 - [[Faith]] - Gate 32 in House of the Chronicle (continuity for memory)
 - [[Hope]] - Gate 30 in House of the Chronicle (emotional fuel for memory)
 - [[Love]] - Gate 15 in House of the Chronicle (inclusive scope for memory)
 - [[Despair]] - Gate 47 shadow in House of the Chronicle (opposite pole)
 - [[Hatred]] - Gate 4 shadow in House of the Chronicle (intolerant formulas)
-- [[Ajna Center]] - Mental awareness and conceptualization
-- [[Knowing Circuit]] - Individual mutation through inspiration
+- [[Ajna]] - Mental awareness and conceptualization
+- Knowing Circuit - Individual mutation through inspiration
 - [[The High Priestess (II)]] - Tarot's memory and esoteric knowledge
 - [[The Hermit (IX)]] - Tarot's contemplation and wisdom
 - [[Mercury ☿]] - Mental processing and communication

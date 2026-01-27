@@ -110,7 +110,7 @@ Richard Rudd's methodology:
 ## Cross-References
 
 - [[The Window]] — System overview
-- [[Gene Keys]] — Richard Rudd's system
+- Gene Keys — Richard Rudd's system
 - [[Hexagrams]] — The 64 archetypal patterns
 - [[Golden Path]] — The contemplative journey through your primary Keys
 - [[The Blueprint - 444 Architecture]] — The 64-fold substrate

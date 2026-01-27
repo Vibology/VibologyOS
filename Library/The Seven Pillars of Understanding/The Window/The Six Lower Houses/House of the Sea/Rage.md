@@ -116,18 +116,18 @@ The path through Rage requires returning to **Compassion**—not abandoning ange
 ---
 
 ## Cross-References
-- [[House of the Sea]] - The domain of emotional depth and relational encounter
-- [[Gate 6 - Conflict]] - Friction and intimacy regulation (Solar Plexus)
-- [[Hexagram 6]] - Conflict (I-Ching)
-- [[Gene Key 6]] - Conflict → Diplomacy → Peace
+- House of the Sea - The domain of emotional depth and relational encounter
+- Gate 6 - Conflict - Friction and intimacy regulation (Solar Plexus)
+- Hexagram 6 - Conflict (I-Ching)
+- Gene Key 6 - Conflict → Diplomacy → Peace
 - [[Heartbreak]] - Gate 36 shadow in House of the Sea (compounds rage)
 - [[Envy]] - Gate 54 shadow in House of the Sea (poisons rage)
 - [[Compassion]] - Gate 13 in House of the Sea (antidote)
 - [[Longing]] - Gate 19 in House of the Sea (underlying need)
-- [[Solar Plexus Center]] - Emotional waves and friction
-- [[Tribal Defense Circuit]] - Boundaries and intimacy
+- [[Solar Plexus]] - Emotional waves and friction
+- Tribal Defense Circuit - Boundaries and intimacy
 - [[The Tower (XVI)]] - Tarot's explosive breakdown and destruction
-- [[5 of Wands]] - Tarot's conflict and competitive friction
+- 5 of Wands - Tarot's conflict and competitive friction
 - [[Mars ♂]] - Aggression, anger, and the warrior's fury
 - [[Aries ♈]] - Astrological impulse and unregulated fire
 

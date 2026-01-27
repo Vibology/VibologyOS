@@ -155,23 +155,23 @@ Step back from immediacy to see the arc. What story are you living? Does it serv
 ---
 
 ## Cross-References
-- [[House of the Land]] - Material foundation vs. narrative frame
-- [[House of the Sea]] - Emotional truth vs. conceptual meaning
-- [[House of the Flame]] - Instinctual action vs. reflective narrative
-- [[House of the Spirit]] - Consciousness vs. story about consciousness
-- [[House of the Stars]] - Material mastery vs. ideal pursued
-- [[Gate 32 - Continuity]]
-- [[Gate 30 - Fates]]
-- [[Gate 15 - Extremes]]
-- [[Gate 11 - Ideas]]
-- [[Gate 52 - Keeping Still]]
-- [[Gate 47 - Oppression]]
-- [[Gate 4 - Youthful Folly]]
-- [[Swords]] - Tarot's mental suit
-- [[The Hermit]] - Tarot's stillness and wisdom
-- [[Wheel of Fortune]] - Tarot's fate and pattern
-- [[Ajna Center]] - Mental conceptualization in HD
-- [[Thinking Function]] - Jungian typology
+- House of the Land - Material foundation vs. narrative frame
+- House of the Sea - Emotional truth vs. conceptual meaning
+- House of the Flame - Instinctual action vs. reflective narrative
+- House of the Spirit - Consciousness vs. story about consciousness
+- House of the Stars - Material mastery vs. ideal pursued
+- Gate 32 - Continuity
+- Gate 30 - Fates
+- Gate 15 - Extremes
+- Gate 11 - Ideas
+- Gate 52 - Keeping Still
+- Gate 47 - Oppression
+- Gate 4 - Youthful Folly
+- Swords - Tarot's mental suit
+- [[The Hermit (IX)]] - Tarot's stillness and wisdom
+- [[Wheel of Fortune (X)]] - Tarot's fate and pattern
+- [[Ajna]] - Mental conceptualization in HD
+- Thinking Function - Jungian typology
 - [[Binah]] - Qabalistic understanding and form
 
 ## Sources
