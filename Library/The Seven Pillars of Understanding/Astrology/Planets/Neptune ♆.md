@@ -78,9 +78,9 @@ Psychologically, a strong Neptune correlates with:
 A weak or afflicted Neptune manifests as:
 - Escapism and addiction (dissolution without container)
 - Delusion and gaslighting (inability to discern real from unreal)
-- The [[Shadow]] of the Victim (surrender without agency) or the Martyr (suffering as identity)
+- The [[The Shadow]] of the Victim (surrender without agency) or the Martyr (suffering as identity)
 
-Neptune is the **[[Anima]] in its most numinous aspect**—the soul's longing for reunion with the source, for the end of separation.
+Neptune is the **[[The Anima]] in its most numinous aspect**—the soul's longing for reunion with the source, for the end of separation.
 
 ---
 ## Neptune Through the Twelve Houses
@@ -185,7 +185,7 @@ In esoteric anatomy, Neptune governs the **pineal gland** (gateway to non-ordina
 ---
 ## Cross-System Resonances
 
-- **[[Tarot]]:** The Hanged Man (Key XII) — Surrender, suspension, seeing from an inverted perspective
+- **[[The Tarot]]:** [[The Hanged Man (XII)|The Hanged Man]] (Key XII) — Surrender, suspension, seeing from an inverted perspective
 - **[[Human Design]]:** Solar Plexus Center (emotional wave, the experience of dissolution and reformation)
 - **[[Jungian Archetypes]]:** The Mystic, the Anima in her oceanic aspect
 - **[[Angelology]]:** Seraphim (closest to the Divine, beyond form)
@@ -226,7 +226,7 @@ Neptune teaches that surrender is not weakness. It is the **willingness to be un
 - [[Cancer ♋]] — Neptune's exaltation, emotional depths and protected waters
 - [[The Hanged Man (Tarot)]] — Key XII, surrender and inverted perspective
 - [[Human Design]] — Solar Plexus Center (emotional wave, dissolution and reformation)
-- [[Anima]] — The Jungian archetype of soul and mystical longing
+- [[The Anima]] — The Jungian archetype of soul and mystical longing
 - [[12th House]] — Neptune's modern association via Pisces rulership, the unconscious and transcendent
 - [[Jupiter ♃]] — Traditional ruler of Pisces, faith and benevolent surrender
 

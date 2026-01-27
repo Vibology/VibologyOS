@@ -70,7 +70,7 @@ In sect, Saturn is the **master craftsman**—patient, exacting, rewarding compe
 
 ---
 ## Psychological Depth
-Saturn represents **boundaries and structure**—the capacity to say "no," to delay gratification, to endure discomfort for future reward. In Jungian terms, Saturn is the **[[Shadow]] of the Self**: the part we reject because it reminds us of our limitations.
+Saturn represents **boundaries and structure**—the capacity to say "no," to delay gratification, to endure discomfort for future reward. In Jungian terms, Saturn is the **[[The Shadow]] of the Self**: the part we reject because it reminds us of our limitations.
 
 Psychologically, a strong Saturn correlates with:
 - Discipline and mastery (capacity for sustained effort)
@@ -80,7 +80,7 @@ Psychologically, a strong Saturn correlates with:
 A weak or afflicted Saturn manifests as:
 - Fear of failure (paralysis, avoidance)
 - Rigidity or authoritarianism (defense against chaos)
-- The [[Shadow]] of the Tyrant (punitive judgment) or the Victim (collapse under pressure)
+- The [[The Shadow]] of the Tyrant (punitive judgment) or the Victim (collapse under pressure)
 
 Saturn is the **internalized parent**—the voice that judges, but also the voice that *teaches* through consequence.
 
@@ -182,7 +182,7 @@ In esoteric anatomy, Saturn governs the **bones** (structure, endurance), the **
 ---
 ## Cross-System Resonances
 
-- **[[Tarot]]:** Death (Key XIII) — Transformation through release, the harvesting of what has ripened
+- **[[The Tarot]]:** [[Death (XIII)|Death]] (Key XIII) — Transformation through release, the harvesting of what has ripened
 - **[[Human Design]]:** Root Center (pressure to evolve, survival imperative)
 - **[[Jungian Archetypes]]:** The Senex (wise elder), the Shadow
 - **[[Angelology]]:** Thrones (divine judgment crystallized into form)
@@ -220,7 +220,7 @@ Saturn teaches that limitation is not punishment. It is **initiation**—the ord
 - [[Libra ♎]] — Saturn's exaltation, justice as impartial consequence
 - [[Death (Tarot)]] — Key XIII, transformation through release and harvest
 - [[Human Design]] — Root Center (pressure to evolve), Gate 60 (limitation)
-- [[Shadow]] — Saturn as the rejected part of the Self
+- [[The Shadow]] — Saturn as the rejected part of the Self
 - [[12th House]] — Saturn's traditional joy, hidden burdens and karmic consequence
 - [[10th House]] — Saturn's natural rulership via Capricorn, public authority and ambition
 - [[11th House]] — Saturn's natural rulership via Aquarius (traditional), collective structures

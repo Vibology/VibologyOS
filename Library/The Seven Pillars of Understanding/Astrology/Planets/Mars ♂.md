@@ -55,7 +55,7 @@ In sect, Mars is the **surgeon's blade**—precise, necessary, life-saving. Out 
 
 ---
 ## Psychological Depth
-Mars represents **drive and assertion**—the capacity to initiate, to act, to claim space. In Jungian terms, Mars is the **aggressive instinct**: not evil, but necessary for survival and [[Individuation]]. Without Mars, the psyche collapses into passivity, resentment, and the slow death of unexpressed desire.
+Mars represents **drive and assertion**—the capacity to initiate, to act, to claim space. In Jungian terms, Mars is the **aggressive instinct**: not evil, but necessary for survival and [[Individuation Process]]. Without Mars, the psyche collapses into passivity, resentment, and the slow death of unexpressed desire.
 
 Psychologically, a strong Mars correlates with:
 - Healthy aggression (ability to defend boundaries)
@@ -67,7 +67,7 @@ A weak or afflicted Mars manifests as:
 - Passive-aggression or impotent rage
 - Physical depletion (chronic fatigue, anemia)
 - Sexual dysfunction or dissociation from desire
-- The [[Shadow]] of the Tyrant (unchecked aggression) or the Victim (disowned anger)
+- The [[The Shadow]] of the Tyrant (unchecked aggression) or the Victim (disowned anger)
 
 Mars is the **life force in motion**—the yang to Venus's yin, the thrust to her receptivity. Where Venus asks, "What do I desire?" Mars answers, "I will take it."
 
@@ -82,7 +82,7 @@ In esoteric anatomy, Mars governs the **muscles** (capacity for action), the **b
 
 ## Cross-System Resonances
 
-- **[[Tarot]]:** The Tower (Key XVI) — Destruction, breakthrough, the lightning strike
+- **[[The Tarot]]:** [[The Tower (XVI)|The Tower]] (Key XVI) — Destruction, breakthrough, the lightning strike
 - **[[Human Design]]:** Root Center (pressure to act, motor force)
 - **[[Jungian Archetypes]]:** The Warrior, the Destroyer
 - **[[Angelology]]:** Powers (warriors against spiritual entropy)
@@ -165,7 +165,7 @@ Mars's aspects to other planets reveal how desire and aggression interface with 
 - **Mars-Sun:** The will (Sun) energized by desire and assertion (Mars). Harmonious = courageous action, vitality; tense = willfulness, ego battles, burnout.
 - **Mars-Moon:** Instinct (Moon) and assertion (Mars). Harmonious = courageous emotional expression; tense = reactive anger, emotional volatility, the fight-or-flight response stuck "on."
 - **Mars-Mercury:** The mind (Mercury) armed with aggression. Harmonious = sharp intellect, decisive communication; tense = argumentativeness, mental aggression, impulsive speech.
-- **Mars-Venus:** The ultimate [[Syzygy]]—desire (Venus) meets assertion (Mars). Harmonious = sexual magnetism, creative passion, the lover and the warrior integrated; tense = conflict in relationships, attraction/repulsion dynamics, violence toward what is loved.
+- **Mars-Venus:** The ultimate [[The Syzygy]]—desire (Venus) meets assertion (Mars). Harmonious = sexual magnetism, creative passion, the lover and the warrior integrated; tense = conflict in relationships, attraction/repulsion dynamics, violence toward what is loved.
 - **Mars-Jupiter:** Desire (Mars) expanded by optimism and meaning (Jupiter). Harmonious = adventurous courage, ideological passion; tense = reckless risk-taking, crusading violence, the warrior without limits.
 - **Mars-Saturn:** Force (Mars) meets limitation (Saturn). Harmonious = disciplined aggression, strategic mastery, the warrior trained; tense = blocked desire, impotent rage, chronic frustration, the blade that cannot strike.
 - **Mars-Uranus:** Aggression (Mars) meets revolution (Uranus). Sudden outbursts, explosive energy, the capacity to break free violently. Risk: accidents, impulsive destruction, the rebel without a cause.
@@ -214,7 +214,7 @@ Mars teaches that transformation is not gentle. It is the breaking of the old fo
 - [[Capricorn ♑]] — Mars's exaltation, force disciplined into mastery
 - [[The Tower (Tarot)]] — Key XVI, destruction and breakthrough
 - [[Human Design]] — Root Center (motor force and pressure to act)
-- [[Syzygy]] — Mars-Venus as archetypal opposition (desire and assertion)
+- [[The Syzygy]] — Mars-Venus as archetypal opposition (desire and assertion)
 - [[6th House]] — Mars's traditional joy, labor and the struggle against sickness
 - [[1st House]] — Mars's natural rulership via Aries, the body as primary assertion
 - [[8th House]] — Mars's natural rulership via Scorpio, death and regeneration

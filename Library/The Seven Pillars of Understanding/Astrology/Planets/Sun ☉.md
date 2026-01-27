@@ -15,7 +15,7 @@ verification_notes: "Core dignities and traditional meanings verified against Gr
 ---
 ## Archetypal Essence
 
-The Sun is **The Father**—the primordial source of vital power and the animating principle of conscious identity. In the astrological schema, it represents the [[Self]] in Jungian terms: not the ego alone, but the totality toward which the process of [[Individuation]] aims. The Sun is what *is*; it does not seek validation, for it radiates from its own core.
+The Sun is **The Father**—the primordial source of vital power and the animating principle of conscious identity. In the astrological schema, it represents the [[The Self]] in Jungian terms: not the ego alone, but the totality toward which the process of [[Individuation Process]] aims. The Sun is what *is*; it does not seek validation, for it radiates from its own core.
 
 The Greek [[Apollo]], the Roman [[Sol]], and the Egyptian [[Ra]] converge in this archetype: the deity who sees all, who brings light to shadow, and whose daily journey across the heavens mirrors the soul's ascent from unconsciousness to self-awareness.
 
@@ -63,21 +63,21 @@ Psychologically, a strong solar principle correlates with:
 
 A weak or afflicted Sun manifests as:
 - Identity diffusion, living through others' expectations
-- The [[Shadow]] of grandiosity (inflated solar ego) or self-negation (collapsed solar will)
+- The [[The Shadow]] of grandiosity (inflated solar ego) or self-negation (collapsed solar will)
 
 ---
 ## Esoteric & Alchemical Significance
 
 The Sun is the **Vital Spirit** in alchemical work—the animating fire that transforms base matter (the unexamined life) into Gold (the individuated Self). It is the "fixed" principle that anchors consciousness during the volatile stages of transformation.
 
-In the **[[Transcendent Function]]**, the Sun represents the synthesizing force: it does not choose between opposites but radiates from the center, holding the tension until a third way emerges.
+In the **[[The Transcendent Function]]**, the Sun represents the synthesizing force: it does not choose between opposites but radiates from the center, holding the tension until a third way emerges.
 
 The Sun's exaltation degree (**Aries 19°**) corresponds to Gate 51 in the [[Human Design]] BodyGraph—the Gate of Shock, where the individual is initiated into their own authority through crisis. This is the solar ordeal: the death of who you thought you were, so the Self can emerge.
 
 ---
 ## Cross-System Resonances
 
-- **[[Tarot]]:** The Sun (Key XIX) — Innocence, vitality, the solar child
+- **[[The Tarot]]:** [[The Sun (XIX)|The Sun]] (Key XIX) — Innocence, vitality, the solar child
 - **[[Human Design]]:** Conscious Personality Sun (70% of Profile calculation)
 - **[[Jungian Archetypes]]:** The Self, the Hero's conscious will
 - **[[Angelology]]:** Seraphim (highest order, closest to Divine Light)
@@ -180,7 +180,7 @@ The Sun does not perform. It simply *is*—and in that being, the world organize
 - [[Aries ♈]] — The Sun's exaltation, pure initiation
 - [[The Sun (Tarot)]] — Key XIX, innocence and solar radiance
 - [[Human Design]] — Conscious Personality Sun (70% weighting)
-- [[Individuation]] — The Jungian process toward the Self
+- [[Individuation Process]] — The Jungian process toward the Self
 - [[5th House]] — The Sun's natural joy, creative expression
 - [[9th House]] — The Sun's traditional joy, quest for meaning
 

@@ -73,7 +73,7 @@ Pluto is a **modern outer planet**, discovered in 1930. Traditional astrology (p
 
 ---
 ## Psychological Depth
-Pluto represents **the Shadow in its most confrontational aspect**—the disowned, repressed, buried material that will not remain underground. In Jungian terms, Pluto is the **[[Shadow]] work**: the descent into the personal and collective unconscious to retrieve what has been exiled.
+Pluto represents **the Shadow in its most confrontational aspect**—the disowned, repressed, buried material that will not remain underground. In Jungian terms, Pluto is the **[[The Shadow]] work**: the descent into the personal and collective unconscious to retrieve what has been exiled.
 
 Psychologically, a strong Pluto correlates with:
 - Capacity for deep transformation (phoenix from ashes)
@@ -83,7 +83,7 @@ Psychologically, a strong Pluto correlates with:
 A weak or afflicted Pluto manifests as:
 - Compulsion and obsession (the shadow possessing the ego)
 - Power struggles and manipulation (shadow projected onto others)
-- The [[Shadow]] of the Tyrant (domination) or the Victim (collapse under pressure)
+- The [[The Shadow]] of the Tyrant (domination) or the Victim (collapse under pressure)
 
 Pluto is the **initiation by ordeal**—the trial that proves whether the soul is ready for the next level of consciousness.
 
@@ -182,7 +182,7 @@ In esoteric anatomy, Pluto governs the **reproductive organs** (death and birth 
 ---
 ## Cross-System Resonances
 
-- **[[Tarot]]:** Judgement (Key XX) — The resurrection, the call from the depths, the weighing of the soul; Death (Key XIII) — transformation through annihilation
+- **[[The Tarot]]:** [[Judgement (XX)|Judgement]] (Key XX) — The resurrection, the call from the depths, the weighing of the soul; [[Death (XIII)|Death]] (Key XIII) — transformation through annihilation
 - **[[Human Design]]:** Sacral Center (life force, generative power, the cycle of creation and destruction)
 - **[[Jungian Archetypes]]:** The Shadow, the Phoenix
 - **[[Angelology]]:** Powers (warriors against entropy, guardians of transformation)
@@ -223,7 +223,7 @@ Pluto teaches that there is **light within the darkness**—but you cannot acces
 - [[Judgement (Tarot)]] — Key XX, resurrection and the call from the depths
 - [[Death (Tarot)]] — Key XIII, transformation through annihilation
 - [[Human Design]] — Sacral Center (generative power and life/death cycle)
-- [[Shadow]] — Pluto as confrontation with the buried, disowned self
+- [[The Shadow]] — Pluto as confrontation with the buried, disowned self
 - [[8th House]] — Pluto's modern association via Scorpio rulership, death, sex, shared resources, transformation
 - [[Persephone]] — The maiden abducted to the underworld, transformed into Queen of the Dead
 - [[Hades]] — Greek god of the underworld, keeper of hidden wealth and buried souls

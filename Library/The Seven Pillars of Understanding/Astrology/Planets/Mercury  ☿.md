@@ -65,7 +65,7 @@ Psychologically, a strong Mercury correlates with:
 A weak or afflicted Mercury manifests as:
 - Cognitive rigidity or mental scatteredness
 - Language as defense mechanism (intellectualization)
-- The [[Shadow]] of the Trickster: deception, gossip, sophistry
+- The [[The Shadow]] of the Trickster: deception, gossip, sophistry
 
 Mercury is the **mediator** in the psyche—the voice that narrates experience and, in doing so, transforms raw sensation into meaning.
 
@@ -201,7 +201,7 @@ Mercury's shadow is **deception**—both self-deception and the manipulation of 
 ---
 ## Cross-System Resonances
 
-- **[[Tarot]]:** The Magician (Key I) — "As above, so below"; the bridge between worlds
+- **[[The Tarot]]:** [[The Magician (I)|The Magician]] (Key I) — "As above, so below"; the bridge between worlds
 - **[[Human Design]]:** Ajna Center (conceptualization, mental pressure)
 - **[[Jungian Archetypes]]:** The Trickster, the Herald
 - **[[Angelology]]:** Principalities (messengers of divine law to earthly realms)

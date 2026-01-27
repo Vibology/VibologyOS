@@ -53,7 +53,7 @@ Jupiter is the **diurnal (day) sect planet** and the **greater benefic** (the le
 
 ---
 ## Psychological Depth
-Jupiter represents **expansion of consciousness**—not merely accumulation of knowledge, but the synthesis of experience into wisdom. In Jungian terms, Jupiter is the **[[Wise Old Man]]**, the archetypal guide who offers perspective from a higher vantage.
+Jupiter represents **expansion of consciousness**—not merely accumulation of knowledge, but the synthesis of experience into wisdom. In Jungian terms, Jupiter is **[[The Wise Old Man]]**, the archetypal guide who offers perspective from a higher vantage.
 
 Psychologically, a strong Jupiter correlates with:
 - Optimism and faith in life's benevolence
@@ -63,7 +63,7 @@ Psychologically, a strong Jupiter correlates with:
 A weak or afflicted Jupiter manifests as:
 - Excess and inflation (unchecked expansion)
 - Dogmatism (belief as defense against uncertainty)
-- The [[Shadow]] of the False Prophet (grandiose vision without grounding)
+- [[The Shadow]] of the False Prophet (grandiose vision without grounding)
 
 Jupiter is the **protector of the soul's journey**—the force that says, "Go forth, and the universe will support you."
 
@@ -79,9 +79,9 @@ In esoteric anatomy, Jupiter governs the **liver** (detoxification, metabolic ex
 ---
 ## Cross-System Resonances
 
-- **[[Tarot]]:** The Wheel of Fortune (Key X) — Expansion, cycles, the turning of fate
+- **[[The Tarot]]:** [[Wheel of Fortune (X)|The Wheel of Fortune]] (Key X) — Expansion, cycles, the turning of fate
 - **[[Human Design]]:** Ajna Center (conceptual expansion, seeing the larger pattern); Gate 29 (Jupiter's exaltation degree, perseverance through faith)
-- **[[Jungian Archetypes]]:** The Wise Old Man, the Benevolent King
+- **[[Jungian Archetypes]]:** [[The Wise Old Man]], the Benevolent King
 - **[[Angelology]]:** Dominions (governance of cosmic law)
 
 ---

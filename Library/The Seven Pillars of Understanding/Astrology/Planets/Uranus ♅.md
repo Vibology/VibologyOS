@@ -66,14 +66,14 @@ Psychologically, a strong Uranus correlates with:
 A weak or afflicted Uranus manifests as:
 - Rebellion without purpose (chaos for its own sake)
 - Alienation (disconnection from human warmth)
-- The [[Shadow]] of the Iconoclast (destruction of tradition without offering an alternative)
+- The [[The Shadow]] of the Iconoclast (destruction of tradition without offering an alternative)
 
 Uranus is the **lightning bolt** in the psyche—the sudden insight that cannot be unseen, the shock that wakes the sleeper.
 
 ---
 ## Esoteric & Alchemical Significance
 
-In alchemy, Uranus is the **catalyst of transmutation**—the external shock that accelerates the work. He is the **Tower** moment in the [[Tarot]]: the structure that must fall so the truth can be revealed.
+In alchemy, Uranus is the **catalyst of transmutation**—the external shock that accelerates the work. He is the **Tower** moment in [[The Tarot]]: the structure that must fall so the truth can be revealed.
 
 In esoteric history, the Uranian Era (post-1781) marks the shift from **authority-based knowing** (Saturn, tradition) to **experiential knowing** (Uranus, individual experiment). Human Design calls this the transition from 7-centered (tribal, solar plexus authority) to 9-centered (splenic, in-the-moment awareness).
 
@@ -82,7 +82,7 @@ In esoteric anatomy, Uranus governs the **nervous system** (electrical impulse, 
 ---
 ## Cross-System Resonances
 
-- **[[Tarot]]:** The Tower (Key XVI) — The lightning-struck tower, the rupture of false structure; The Fool (Key 0, secondary) — The leap into the unknown
+- **[[The Tarot]]:** [[The Tower (XVI)|The Tower]] (Key XVI) — The lightning-struck tower, the rupture of false structure; [[The Fool (0)|The Fool]] (Key 0, secondary) — The leap into the unknown
 - **[[Human Design]]:** Spleen Center (in-the-moment awareness, survival intelligence)
 - **[[Jungian Archetypes]]:** The Rebel, the Trickster (in its disruptive aspect), Prometheus (the fire-bringer)
 - **[[Angelology]]:** Virtues (miracles, sudden shifts in reality)

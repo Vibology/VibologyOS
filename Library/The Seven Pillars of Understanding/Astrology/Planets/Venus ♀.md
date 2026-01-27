@@ -63,9 +63,9 @@ Psychologically, a strong Venus correlates with:
 A weak or afflicted Venus manifests as:
 - Codependency or people-pleasing (collapsed boundaries)
 - Aesthetic confusion (unable to distinguish signal from noise)
-- The [[Shadow]] of vanity (inflated self-worth) or self-negation (collapsed self-worth)
+- The [[The Shadow]] of vanity (inflated self-worth) or self-negation (collapsed self-worth)
 
-Venus is the **[[Anima]]** in the male psyche and the **embodied feminine** in the female psyche—the part that knows its worth without needing external validation.
+Venus is the **[[The Anima]]** in the male psyche and the **embodied feminine** in the female psyche—the part that knows its worth without needing external validation.
 
 ---
 ## Esoteric & Alchemical Significance
@@ -79,7 +79,7 @@ In esoteric anatomy, Venus governs the **throat** (expression of values through 
 ---
 ## Cross-System Resonances
 
-- **[[Tarot]]:** The Empress (Key III) — Abundance, embodied feminine, sensory richness
+- **[[The Tarot]]:** [[The Empress (III)|The Empress]] (Key III) — Abundance, embodied feminine, sensory richness
 - **[[Human Design]]:** Throat Center (manifestation, bringing inner truth into form)
 - **[[Jungian Archetypes]]:** The Anima, the Lover
 - **[[Angelology]]:** Thrones (crystallization of divine will into form)
@@ -223,7 +223,7 @@ Venus teaches that self-love is not narcissism. It is **discernment**—the refu
 - [[Pisces ♓]] — Venus's exaltation, universal compassion
 - [[The Empress (Tarot)]] — Key III, abundance and embodied feminine
 - [[Human Design]] — Gate 37 (Venus exaltation degree), the Gate of Friendship
-- [[Anima]] — The Jungian feminine principle in the male psyche
+- [[The Anima]] — The Jungian feminine principle in the male psyche
 - [[5th House]] — Venus's traditional joy, pleasure and creative expression
 - [[2nd House]] — Venus's natural rulership via Taurus, values and resources
 - [[7th House]] — Venus's natural rulership via Libra, partnership and projection

@@ -63,14 +63,14 @@ Psychologically, a strong lunar principle correlates with:
 A weak or afflicted Moon manifests as:
 - Disconnection from the body's signals (chronic override)
 - Emotional flooding or numbing (loss of rhythmic capacity)
-- The [[Shadow]] of codependency (merged boundaries) or emotional withdrawal (fortress moon)
+- The [[The Shadow]] of codependency (merged boundaries) or emotional withdrawal (fortress moon)
 
-The Moon is the **[[Anima]]** in the male psyche and the **embodied self** in the female psyche—the part that remembers what consciousness forgets.
+The Moon is the **[[The Anima]]** in the male psyche and the **embodied self** in the female psyche—the part that remembers what consciousness forgets.
 
 ---
 ## Esoteric & Alchemical Significance
 
-The Moon is the **receptive womb** of alchemical transformation. She does not create ex nihilo but gestates what the Sun seeds. In the [[Transcendent Function]], the Moon provides the **container**—the safe space where opposites can be held without premature resolution.
+The Moon is the **receptive womb** of alchemical transformation. She does not create ex nihilo but gestates what the Sun seeds. In the [[The Transcendent Function]], the Moon provides the **container**—the safe space where opposites can be held without premature resolution.
 
 The Moon's exaltation degree (**Taurus 3°**) corresponds to Gate 27 in the [[Human Design]] BodyGraph—the Gate of Nourishment, where responsibility for the tribe's survival is embodied as a somatic drive.
 
@@ -79,7 +79,7 @@ In esoteric anatomy, the Moon governs the **solar plexus** (despite the name)—
 ---
 ## Cross-System Resonances
 
-- **[[Tarot]]:** The High Priestess (Key II) — Mystery, intuition, the veil between worlds
+- **[[The Tarot]]:** [[The High Priestess (II)|The High Priestess]] (Key II) — Mystery, intuition, the veil between worlds
 - **[[Human Design]]:** Design Moon (unconscious conditioning, bodily imprinting)
 - **[[Jungian Archetypes]]:** The Anima, the Great Mother
 - **[[Angelology]]:** Cherubim (guardians of sacred thresholds)
@@ -193,7 +193,7 @@ The Moon teaches that not all wisdom is conscious. Some truths arrive in the gut
 - [[Taurus ♉]] — The Moon's exaltation, instinct grounded in sensory peace
 - [[The High Priestess (Tarot)]] — Key II, lunar mystery and threshold
 - [[Human Design]] — Design Moon (unconscious emotional conditioning)
-- [[Anima]] — The Jungian feminine principle in the male psyche
+- [[The Anima]] — The Jungian feminine principle in the male psyche
 - [[3rd House]] — The Moon's traditional joy, messenger of somatic intelligence
 - [[4th House]] — The Moon's natural rulership, private foundations
 
