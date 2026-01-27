@@ -115,19 +115,19 @@ Ra's phrase "essential and inspired information which others need or want to hea
 
 ### Related Crosses
 - [[LAX of the Clarion 1]] (Quarter of Initiation)
-- [[Channel 57-10 - Perfected Form]]
+- Channel 57-10 - Perfected Form
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Crosses - Trans-Personal Destiny]]
-- [[Spleen Center]]
-- [[Heart (Ego) Center]]
-- [[Throat Center]]
-- [[Head Center]]
-- [[Quarter of Duality]]
-- [[Individual Knowing Circuit]]
-- [[Individual Centering Circuit]]
-- [[Collective Logic Circuit]]
+- [[Incarnation Crosses]]
+- Left Angle Crosses - Trans-Personal Destiny
+- [[Spleen]]
+- [[Heart]]
+- [[Throat]]
+- [[Head]]
+- Quarter of Duality
+- Individual Knowing Circuit
+- Individual Centering Circuit
+- Collective Logic Circuit
 
 ---
 

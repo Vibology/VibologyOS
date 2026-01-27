@@ -108,12 +108,12 @@ The fuel (Gate 58) is specifically oriented toward **civilizational patterns**. 
 - [[RAX of Service 4]] (Quarter of Mutation)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Root Center]]
-- [[Ajna Center]]
-- [[Spleen Center]]
-- [[Quarter of Civilization]]
-- [[Collective Logic Circuit]]
+- [[Incarnation Crosses]]
+- [[Root]]
+- [[Ajna]]
+- [[Spleen]]
+- Quarter of Civilization
+- Collective Logic Circuit
 
 ---
 

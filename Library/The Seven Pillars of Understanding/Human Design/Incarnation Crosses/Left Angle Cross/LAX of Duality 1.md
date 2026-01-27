@@ -111,16 +111,16 @@ The duality is not contradiction—it is synthesis. The individual is simultaneo
 - [[RAX of the Sleeping Phoenix 1]] (Related Gate 20 cross)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Crosses]]
-- [[Trans-Personal Destiny]]
-- [[Throat Center]]
-- [[Sacral Center]]
-- [[Solar Plexus Center]]
-- [[Heart-Ego Center]]
-- [[Quarter of Civilization]]
-- [[Integration Circuit]]
-- [[Tribal Ego Circuit]]
+- [[Incarnation Crosses]]
+- Left Angle Crosses
+- Trans-Personal Destiny
+- [[Throat]]
+- [[Sacral]]
+- [[Solar Plexus]]
+- [[Heart]]
+- Quarter of Civilization
+- Integration Circuit
+- Tribal Ego Circuit
 
 ---
 

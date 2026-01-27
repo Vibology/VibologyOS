@@ -116,14 +116,14 @@ Profiles 5/1, 5/2, 6/2, and 6/3 carry this cross, each bringing their unique tra
 - [[RAX of the Vessel of Love 2]] (shares Gate 10)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Crosses - Trans-Personal Destiny]]
+- [[Incarnation Crosses]]
+- Left Angle Crosses - Trans-Personal Destiny
 - [[G Center]]
-- [[Spleen Center]]
-- [[Ajna Center]]
-- [[Quarter of Mutation]]
-- [[Collective Logic Circuit]]
-- [[Integration Circuit]]
+- [[Spleen]]
+- [[Ajna]]
+- Quarter of Mutation
+- Collective Logic Circuit
+- Integration Circuit
 
 ---
 

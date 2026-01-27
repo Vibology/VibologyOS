@@ -111,18 +111,18 @@ The Quarter of Mutation asks: "What needs to change? What can be transformed?" F
 ### Related Crosses
 - [[LAX of Confrontation 1]] (Quarter of Civilization)
 - [[RAX of Rulership 2]] (shares Gate 26)
-- [[JXC of Crisis]] (shares Gate 6)
+- [[JAX of Crisis]] (shares Gate 6)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Crosses - Trans-Personal Destiny]]
-- [[Solar Plexus Center]]
-- [[Throat Center]]
-- [[Heart Center]]
-- [[Quarter of Mutation]]
-- [[Tribal Ego Circuit]]
-- [[Tribal Defense Circuit]]
-- [[Collective Abstract Circuit]]
+- [[Incarnation Crosses]]
+- Left Angle Crosses - Trans-Personal Destiny
+- [[Solar Plexus]]
+- [[Throat]]
+- [[Heart]]
+- Quarter of Mutation
+- Tribal Ego Circuit
+- Tribal Defense Circuit
+- Collective Abstract Circuit
 
 ---
 

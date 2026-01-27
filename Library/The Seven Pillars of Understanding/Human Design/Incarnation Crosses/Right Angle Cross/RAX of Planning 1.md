@@ -108,12 +108,12 @@ The initiatory quality demands that planning begin with clear thinking. Planning
 - [[RAX of Planning 4]] (Quarter of Mutation)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Solar Plexus Center]]
-- [[Heart Center]]
-- [[Sacral Center]]
-- [[Throat Center]]
-- [[Quarter of Initiation]]
+- [[Incarnation Crosses]]
+- [[Solar Plexus]]
+- [[Heart]]
+- [[Sacral]]
+- [[Throat]]
+- Quarter of Initiation
 
 ---
 

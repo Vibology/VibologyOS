@@ -108,12 +108,12 @@ The duality quality demands that planning honor relationship. Planning poses the
 - [[RAX of Planning 4]] (Quarter of Mutation)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Heart Center]]
-- [[Solar Plexus Center]]
-- [[Throat Center]]
-- [[Sacral Center]]
-- [[Quarter of Duality]]
+- [[Incarnation Crosses]]
+- [[Heart]]
+- [[Solar Plexus]]
+- [[Throat]]
+- [[Sacral]]
+- Quarter of Duality
 
 ---
 

@@ -110,23 +110,23 @@ The trans-personal nature means others are essential to the purpose. The Revolut
 ### Related Crosses
 - [[LAX of Revolution 2]] (Quarter of Duality)
 - [[RAX of Explanation 1]] (Related 49/4 axis)
-- [[JXC of Contribution]] (Related 14/8 channel)
+- [[JAX of Contribution]] (Related 14/8 channel)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Cross - Trans-Personal Destiny]]
-- [[Solar Plexus Center]]
-- [[Ajna Center]]
-- [[Sacral Center]]
-- [[Throat Center]]
-- [[Quarter of Initiation]]
-- [[Tribal Ego Circuit]]
-- [[Collective Logic Circuit]]
-- [[Individual Knowing Circuit]]
-- [[Profile 5/1]]
-- [[Profile 5/2]]
-- [[Profile 6/2]]
-- [[Profile 6/3]]
+- [[Incarnation Crosses]]
+- Left Angle Cross - Trans-Personal Destiny
+- [[Solar Plexus]]
+- [[Ajna]]
+- [[Sacral]]
+- [[Throat]]
+- Quarter of Initiation
+- Tribal Ego Circuit
+- Collective Logic Circuit
+- Individual Knowing Circuit
+- 5/1 Profile
+- 5/2 Profile
+- 6/2 Profile
+- 6/3 Profile
 
 ---
 

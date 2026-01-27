@@ -108,12 +108,12 @@ Gate 58's vitality is oriented toward **challenging the norm**. The joy isn't pa
 - [[RAX of Service 3]] (Quarter of Duality)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Root Center]]
-- [[Spleen Center]]
-- [[Ajna Center]]
-- [[Quarter of Mutation]]
-- [[Collective Logic Circuit]]
+- [[Incarnation Crosses]]
+- [[Root]]
+- [[Spleen]]
+- [[Ajna]]
+- Quarter of Mutation
+- Collective Logic Circuit
 
 ---
 

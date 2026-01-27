@@ -110,21 +110,21 @@ The trans-personal nature means the building serves others. The Industry does no
 ### Related Crosses
 - [[LAX of Industry 2]] (Quarter of Duality)
 - [[RAX of Contagion 1]] (Related 30/29 axis)
-- [[JXC of Charisma]] (Related 34/20 channel)
+- JAX of Charisma (Related 34/20 channel)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Cross - Trans-Personal Destiny]]
-- [[Solar Plexus Center]]
-- [[Sacral Center]]
-- [[Throat Center]]
-- [[Quarter of Initiation]]
-- [[Collective Abstract Circuit]]
-- [[Integration Circuit]]
-- [[Profile 5/1]]
-- [[Profile 5/2]]
-- [[Profile 6/2]]
-- [[Profile 6/3]]
+- [[Incarnation Crosses]]
+- Left Angle Cross - Trans-Personal Destiny
+- [[Solar Plexus]]
+- [[Sacral]]
+- [[Throat]]
+- Quarter of Initiation
+- Collective Abstract Circuit
+- Integration Circuit
+- 5/1 Profile
+- 5/2 Profile
+- 6/2 Profile
+- 6/3 Profile
 
 ---
 

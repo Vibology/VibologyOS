@@ -111,16 +111,16 @@ Ra's saints comparison emphasizes both the beauty and the danger. These individu
 - [[Channel 29-46 - Discovery]]
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Sacral Center]]
-- [[Solar Plexus Center]]
-- [[Throat Center]]
-- [[Quarter of Duality]]
-- [[Collective Abstract Circuit]]
-- [[Individual Integration Circuit]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Sacral]]
+- [[Solar Plexus]]
+- [[Throat]]
+- Quarter of Duality
+- Collective Abstract Circuit
+- Individual Integration Circuit
 
 ---
 

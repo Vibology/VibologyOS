@@ -116,14 +116,14 @@ Profiles 5/1, 5/2, 6/2, and 6/3 carry this cross, each bringing their unique tra
 - [[RAX of Penetration 2]] (shares Gate 54)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Crosses - Trans-Personal Destiny]]
-- [[Root Center]]
-- [[Spleen Center]]
-- [[Sacral Center]]
-- [[Quarter of Mutation]]
-- [[Tribal Ego Circuit]]
-- [[Collective Abstract Circuit]]
+- [[Incarnation Crosses]]
+- Left Angle Crosses - Trans-Personal Destiny
+- [[Root]]
+- [[Spleen]]
+- [[Sacral]]
+- Quarter of Mutation
+- Tribal Ego Circuit
+- Collective Abstract Circuit
 
 ---
 

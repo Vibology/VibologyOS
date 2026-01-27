@@ -108,12 +108,12 @@ This is service rooted in **comprehension**: understanding what it means to be h
 - [[RAX of Service 4]] (Quarter of Mutation)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Ajna Center]]
-- [[Spleen Center]]
-- [[Root Center]]
-- [[Quarter of Initiation]]
-- [[Collective Logic Circuit]]
+- [[Incarnation Crosses]]
+- [[Ajna]]
+- [[Spleen]]
+- [[Root]]
+- Quarter of Initiation
+- Collective Logic Circuit
 
 ---
 

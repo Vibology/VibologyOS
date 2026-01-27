@@ -108,12 +108,12 @@ The question posed: "What makes a bond worth preserving?" The answer: the spleni
 - [[RAX of the Maya 4]] (Quarter of Mutation)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Spleen Center]]
-- [[Sacral Center]]
-- [[Throat Center]]
-- [[Head Center]]
-- [[Quarter of Duality]]
+- [[Incarnation Crosses]]
+- [[Spleen]]
+- [[Sacral]]
+- [[Throat]]
+- [[Head]]
+- Quarter of Duality
 
 ---
 

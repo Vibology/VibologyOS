@@ -111,18 +111,18 @@ Ra emphasizes the inspiring quality—these formulas don't merely organize but e
 - [[Channel 4-63 - Logic]]
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Ajna Center]]
-- [[Solar Plexus Center]]
-- [[Throat Center]]
-- [[Sacral Center]]
-- [[Quarter of Duality]]
-- [[Collective Logic Circuit]]
-- [[Tribal Ego Circuit]]
-- [[Individual Knowing Circuit]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Ajna]]
+- [[Solar Plexus]]
+- [[Throat]]
+- [[Sacral]]
+- Quarter of Duality
+- Collective Logic Circuit
+- Tribal Ego Circuit
+- Individual Knowing Circuit
 
 ---
 

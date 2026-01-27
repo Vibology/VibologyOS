@@ -107,21 +107,21 @@ Ra emphasizes the crisis dimension. These individuals may not seek leadership in
 
 ### Related Crosses
 - [[RAX of Rulership 1]] (Related Gate 45 cross)
-- [[Channel 45-26 - Surrender]]
+- Channel 45-26 - Surrender
 - [[Channel 6-59 - Intimacy]]
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Throat Center]]
-- [[Heart Center]]
-- [[Solar Plexus Center]]
-- [[Quarter of Civilization]]
-- [[Tribal Ego Circuit]]
-- [[Collective Abstract Circuit]]
-- [[Tribal Defense Circuit]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Throat]]
+- [[Heart]]
+- [[Solar Plexus]]
+- Quarter of Civilization
+- Tribal Ego Circuit
+- Collective Abstract Circuit
+- Tribal Defense Circuit
 
 ---
 

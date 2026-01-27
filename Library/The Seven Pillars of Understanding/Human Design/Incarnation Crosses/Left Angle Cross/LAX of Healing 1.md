@@ -111,13 +111,13 @@ The "medicine" in Ra's keynote encompasses all forms of healing intervention—p
 - [[RAX of the Vessel of Love 1]] (Related through Gate 25)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Crosses - Trans-Personal Destiny]]
+- [[Incarnation Crosses]]
+- Left Angle Crosses - Trans-Personal Destiny
 - [[G Center]]
-- [[Root Center]]
-- [[Quarter of Initiation]]
-- [[Individual Centering Circuit]]
-- [[Collective Logic Circuit]]
+- [[Root]]
+- Quarter of Initiation
+- Individual Centering Circuit
+- Collective Logic Circuit
 
 ---
 

@@ -108,12 +108,12 @@ The question posed: "How does language build form?" The answer: by giving precis
 - [[RAX of the Maya 4]] (Quarter of Mutation)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Throat Center]]
-- [[Head Center]]
-- [[Sacral Center]]
-- [[Spleen Center]]
-- [[Quarter of Civilization]]
+- [[Incarnation Crosses]]
+- [[Throat]]
+- [[Head]]
+- [[Sacral]]
+- [[Spleen]]
+- Quarter of Civilization
 
 ---
 

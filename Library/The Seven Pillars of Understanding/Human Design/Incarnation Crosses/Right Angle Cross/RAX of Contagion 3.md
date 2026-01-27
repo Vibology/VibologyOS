@@ -110,13 +110,13 @@ The contagion spreads through the example of total commitment. Others witness so
 - [[RAX of Contagion 4]] (Quarter of Mutation)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Sacral Center]]
-- [[Solar Plexus Center]]
-- [[Throat Center]]
-- [[Quarter of Duality]]
-- [[Collective Abstract Circuit]]
-- [[Individual Knowing Circuit]]
+- [[Incarnation Crosses]]
+- [[Sacral]]
+- [[Solar Plexus]]
+- [[Throat]]
+- Quarter of Duality
+- Collective Abstract Circuit
+- Individual Knowing Circuit
 
 ---
 

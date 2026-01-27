@@ -108,9 +108,9 @@ The Sphinx (4) poses the eternal question: "What will endure beyond me?" The ans
 - [[RAX of the Sphinx 3]] (Quarter of Duality)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
+- [[Incarnation Crosses]]
 - [[G Center]]
-- [[Quarter of Mutation]]
+- Quarter of Mutation
 
 ---
 

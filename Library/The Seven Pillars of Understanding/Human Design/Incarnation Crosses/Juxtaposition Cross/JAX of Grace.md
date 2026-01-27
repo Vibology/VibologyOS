@@ -110,16 +110,16 @@ Ra identifies them as "potent mutative agents"—the Individual circuitry gives 
 - [[LAX of Obscuration 1]] (Related Gate 22 cross)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Solar Plexus Center]]
-- [[Ajna Center]]
-- [[Throat Center]]
-- [[Quarter of Initiation]]
-- [[Individual Knowing Circuit]]
-- [[Collective Abstract Circuit]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Solar Plexus]]
+- [[Ajna]]
+- [[Throat]]
+- Quarter of Initiation
+- Individual Knowing Circuit
+- Collective Abstract Circuit
 
 ---
 

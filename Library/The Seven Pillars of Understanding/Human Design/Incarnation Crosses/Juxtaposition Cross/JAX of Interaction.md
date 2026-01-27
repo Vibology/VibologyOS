@@ -112,17 +112,17 @@ Ra emphasizes "influence without being influenced"—these individuals must main
 - [[Channel 23-43 - Structuring]]
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
 - [[G Center]]
-- [[Throat Center]]
-- [[Ajna Center]]
-- [[Quarter of Duality]]
-- [[Collective Logic Circuit]]
-- [[Collective Abstract Circuit]]
-- [[Individual Knowing Circuit]]
+- [[Throat]]
+- [[Ajna]]
+- Quarter of Duality
+- Collective Logic Circuit
+- Collective Abstract Circuit
+- Individual Knowing Circuit
 
 ---
 

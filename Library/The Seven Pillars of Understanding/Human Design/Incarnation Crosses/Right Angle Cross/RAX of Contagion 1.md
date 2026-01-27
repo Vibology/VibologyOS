@@ -110,13 +110,13 @@ The innocence in Ra's keynote is essential: the Contagion does not set out to ch
 - [[RAX of Contagion 4]] (Quarter of Mutation)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Solar Plexus Center]]
-- [[Sacral Center]]
-- [[Throat Center]]
-- [[Quarter of Initiation]]
-- [[Collective Abstract Circuit]]
-- [[Individual Knowing Circuit]]
+- [[Incarnation Crosses]]
+- [[Solar Plexus]]
+- [[Sacral]]
+- [[Throat]]
+- Quarter of Initiation
+- Collective Abstract Circuit
+- Individual Knowing Circuit
 
 ---
 

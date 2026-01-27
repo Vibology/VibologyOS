@@ -108,20 +108,20 @@ Ra's phrase "subject to the ego's interpretation/manipulation" is honest rather 
 
 ### Related Crosses
 - [[RAX of Consciousness 4]] (Related Gate 64 cross)
-- [[Channel 45-26 - Surrender]]
+- Channel 45-26 - Surrender
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Head Center]]
-- [[Throat Center]]
-- [[Heart Center]]
-- [[Quarter of Duality]]
-- [[Collective Abstract Circuit]]
-- [[Collective Logic Circuit]]
-- [[Tribal Ego Circuit]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Head]]
+- [[Throat]]
+- [[Heart]]
+- Quarter of Duality
+- Collective Abstract Circuit
+- Collective Logic Circuit
+- Tribal Ego Circuit
 
 ---
 

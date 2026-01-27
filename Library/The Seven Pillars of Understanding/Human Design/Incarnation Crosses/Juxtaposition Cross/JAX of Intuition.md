@@ -112,18 +112,18 @@ Ra emphasizes "break you open"—this is not gentle guidance but penetrating int
 - [[Channel 25-51 - Initiation]]
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Spleen Center]]
-- [[Heart Center]]
-- [[Throat Center]]
-- [[Head Center]]
-- [[Quarter of Duality]]
-- [[Individual Knowing Circuit]]
-- [[Individual Centering Circuit]]
-- [[Collective Logic Circuit]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Spleen]]
+- [[Heart]]
+- [[Throat]]
+- [[Head]]
+- Quarter of Duality
+- Individual Knowing Circuit
+- Individual Centering Circuit
+- Collective Logic Circuit
 
 ---
 

@@ -111,18 +111,18 @@ The inclusion of self-care is crucial. These individuals must retreat (Gate 33),
 - [[Channel 27-50 - Preservation]]
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Sacral Center]]
-- [[Spleen Center]]
-- [[Root Center]]
-- [[Throat Center]]
-- [[Quarter of Initiation]]
-- [[Tribal Defense Circuit]]
-- [[Individual Knowing Circuit]]
-- [[Collective Abstract Circuit]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Sacral]]
+- [[Spleen]]
+- [[Root]]
+- [[Throat]]
+- Quarter of Initiation
+- Tribal Defense Circuit
+- Individual Knowing Circuit
+- Collective Abstract Circuit
 
 ---
 

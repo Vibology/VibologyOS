@@ -108,9 +108,9 @@ The Eden archetype poses the eternal question: "What must be risked to truly kno
 - [[RAX of Eden 4]] (Quarter of Mutation)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Solar Plexus Center]]
-- [[Quarter of Initiation]]
+- [[Incarnation Crosses]]
+- [[Solar Plexus]]
+- Quarter of Initiation
 
 ---
 

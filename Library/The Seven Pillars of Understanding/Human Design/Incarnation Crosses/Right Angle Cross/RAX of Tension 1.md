@@ -108,14 +108,14 @@ This is tension in service of **supervision and guidance**. The policing functio
 - [[RAX of Tension 4]] (Quarter of Mutation)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Heart Center]]
-- [[Spleen Center]]
-- [[Root Center]]
-- [[Quarter of Initiation]]
-- [[Tribal Ego Circuit]]
-- [[Collective Logic Circuit]]
-- [[Individual Knowing Circuit]]
+- [[Incarnation Crosses]]
+- [[Heart]]
+- [[Spleen]]
+- [[Root]]
+- Quarter of Initiation
+- Tribal Ego Circuit
+- Collective Logic Circuit
+- Individual Knowing Circuit
 
 ---
 

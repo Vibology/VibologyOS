@@ -109,16 +109,16 @@ The dedication is to change itself—explaining insights that further evolution,
 - [[RAX of Explanation 1]] (Related Gate 23 cross)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Crosses]]
-- [[Trans-Personal Destiny]]
-- [[Throat Center]]
-- [[Ajna Center]]
-- [[Solar Plexus Center]]
-- [[Sacral Center]]
-- [[Quarter of Civilization]]
-- [[Individual Knowing Circuit]]
-- [[Collective Abstract Circuit]]
+- [[Incarnation Crosses]]
+- Left Angle Crosses
+- Trans-Personal Destiny
+- [[Throat]]
+- [[Ajna]]
+- [[Solar Plexus]]
+- [[Sacral]]
+- Quarter of Civilization
+- Individual Knowing Circuit
+- Collective Abstract Circuit
 
 ---
 

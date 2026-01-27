@@ -108,12 +108,12 @@ The Initiation context asks: "What principles must guide our ordering?" The answ
 - [[RAX of Laws 4]] (Quarter of Mutation)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Sacral Center]]
-- [[Spleen Center]]
-- [[Root Center]]
-- [[Throat Center]]
-- [[Quarter of Initiation]]
+- [[Incarnation Crosses]]
+- [[Sacral]]
+- [[Spleen]]
+- [[Root]]
+- [[Throat]]
+- Quarter of Initiation
 
 ---
 

@@ -110,12 +110,12 @@ Venus's influence colors this with beauty: tradition is offered gracefully, not 
 - [[RAX of Rulership 4]] (Quarter of Mutation)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Ajna Center]]
-- [[Solar Plexus Center]]
-- [[Throat Center]]
-- [[Heart Center]]
-- [[Quarter of Duality]]
+- [[Incarnation Crosses]]
+- [[Ajna]]
+- [[Solar Plexus]]
+- [[Throat]]
+- [[Heart]]
+- Quarter of Duality
 
 ---
 

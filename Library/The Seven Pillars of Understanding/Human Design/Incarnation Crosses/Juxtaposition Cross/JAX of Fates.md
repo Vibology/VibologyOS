@@ -110,16 +110,16 @@ The "charismatic" quality emerges from the Channel 20-34 (Charisma) that forms b
 - [[Channel 20-34 - Charisma]]
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Solar Plexus Center]]
-- [[Sacral Center]]
-- [[Throat Center]]
-- [[Quarter of Initiation]]
-- [[Collective Abstract Circuit]]
-- [[Individual Integration Circuit]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Solar Plexus]]
+- [[Sacral]]
+- [[Throat]]
+- Quarter of Initiation
+- Collective Abstract Circuit
+- Individual Integration Circuit
 
 ---
 

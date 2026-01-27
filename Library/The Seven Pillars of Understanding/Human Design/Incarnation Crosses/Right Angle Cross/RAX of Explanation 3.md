@@ -111,11 +111,11 @@ The "untested individual knowing" quality suggests that this Explainer must work
 - [[RAX of Explanation 4]] (Quarter of Mutation)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Ajna Center]]
-- [[Solar Plexus Center]]
-- [[Throat Center]]
-- [[Quarter of Duality]]
+- [[Incarnation Crosses]]
+- [[Ajna]]
+- [[Solar Plexus]]
+- [[Throat]]
+- Quarter of Duality
 
 ---
 

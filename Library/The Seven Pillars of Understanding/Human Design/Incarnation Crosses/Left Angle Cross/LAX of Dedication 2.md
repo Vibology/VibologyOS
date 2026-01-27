@@ -109,16 +109,16 @@ The dedication is to efficiency—not mechanical efficiency but evolutionary eff
 - [[RAX of Explanation 2]] (Related Gate 43 cross)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Crosses]]
-- [[Trans-Personal Destiny]]
-- [[Ajna Center]]
-- [[Throat Center]]
-- [[Sacral Center]]
-- [[Solar Plexus Center]]
-- [[Quarter of Mutation]]
-- [[Individual Knowing Circuit]]
-- [[Collective Abstract Circuit]]
+- [[Incarnation Crosses]]
+- Left Angle Crosses
+- Trans-Personal Destiny
+- [[Ajna]]
+- [[Throat]]
+- [[Sacral]]
+- [[Solar Plexus]]
+- Quarter of Mutation
+- Individual Knowing Circuit
+- Collective Abstract Circuit
 
 ---
 

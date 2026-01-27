@@ -108,9 +108,9 @@ The Vessel of Love archetype poses the eternal question: "Can love exist without
 - [[RAX of the Vessel of Love 4]] (Quarter of Mutation)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
+- [[Incarnation Crosses]]
 - [[G Center]]
-- [[Quarter of Initiation]]
+- Quarter of Initiation
 
 ---
 

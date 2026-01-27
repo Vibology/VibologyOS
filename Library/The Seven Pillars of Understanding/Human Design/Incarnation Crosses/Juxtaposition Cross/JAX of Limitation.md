@@ -111,18 +111,18 @@ Ra emphasizes "test the boundaries of each limitation." These individuals don't 
 - [[Channel 3-60 - Mutation]]
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Root Center]]
-- [[Throat Center]]
-- [[Spleen Center]]
-- [[Sacral Center]]
-- [[Quarter of Mutation]]
-- [[Individual Knowing Circuit]]
-- [[Collective Abstract Circuit]]
-- [[Tribal Defense Circuit]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Root]]
+- [[Throat]]
+- [[Spleen]]
+- [[Sacral]]
+- Quarter of Mutation
+- Individual Knowing Circuit
+- Collective Abstract Circuit
+- Tribal Defense Circuit
 
 ---
 

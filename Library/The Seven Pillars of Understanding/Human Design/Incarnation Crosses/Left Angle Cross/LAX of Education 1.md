@@ -111,18 +111,18 @@ The Quarter of Civilization asks: "What can be built? What form can this take?" 
 ### Related Crosses
 - [[LAX of Education 2]] (Quarter of Mutation)
 - [[RAX of Eden 1]] (shares Gate 12)
-- [[JXC of the Vessel of Love]] (shares Gate 25)
+- JAX of the Vessel of Love (shares Gate 25)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Crosses - Trans-Personal Destiny]]
+- [[Incarnation Crosses]]
+- Left Angle Crosses - Trans-Personal Destiny
 - [[G Center]]
-- [[Throat Center]]
-- [[Ajna Center]]
-- [[Quarter of Civilization]]
-- [[Individual Knowing Circuit]]
-- [[Individual Centering Circuit]]
-- [[Collective Logic Circuit]]
+- [[Throat]]
+- [[Ajna]]
+- Quarter of Civilization
+- Individual Knowing Circuit
+- Individual Centering Circuit
+- Collective Logic Circuit
 
 ---
 

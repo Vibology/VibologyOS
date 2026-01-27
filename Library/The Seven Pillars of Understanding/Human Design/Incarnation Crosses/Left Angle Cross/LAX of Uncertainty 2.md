@@ -109,15 +109,15 @@ The mutation is in the exchange itself—resources given transform not just the 
 - [[RAX of Contagion 2]] (Related Gate 14 cross)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Crosses]]
-- [[Trans-Personal Destiny]]
-- [[Sacral Center]]
-- [[Throat Center]]
-- [[Solar Plexus Center]]
-- [[Quarter of Mutation]]
-- [[Individual Knowing Circuit]]
-- [[Tribal Defense Circuit]]
+- [[Incarnation Crosses]]
+- Left Angle Crosses
+- Trans-Personal Destiny
+- [[Sacral]]
+- [[Throat]]
+- [[Solar Plexus]]
+- Quarter of Mutation
+- Individual Knowing Circuit
+- Tribal Defense Circuit
 
 ---
 

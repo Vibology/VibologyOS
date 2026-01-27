@@ -108,9 +108,9 @@ The Sphinx (2) poses the eternal question: "How does direction manifest into for
 - [[RAX of the Sphinx 4]] (Quarter of Mutation)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
+- [[Incarnation Crosses]]
 - [[G Center]]
-- [[Quarter of Civilization]]
+- Quarter of Civilization
 
 ---
 

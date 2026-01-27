@@ -116,17 +116,17 @@ The "securing the future" Ra mentions is essential—this is not leadership for 
 - [[RAX of the Unexpected 1]] (Related Gate 44 theme)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Crosses - Trans-Personal Destiny]]
-- [[Throat Center]]
-- [[Root Center]]
-- [[Ajna Center]]
-- [[Spleen Center]]
-- [[Quarter of Civilization]]
-- [[Collective Logic Circuit]]
-- [[Collective Abstract Circuit]]
-- [[Individual Knowing Circuit]]
-- [[Tribal Defense Circuit]]
+- [[Incarnation Crosses]]
+- Left Angle Crosses - Trans-Personal Destiny
+- [[Throat]]
+- [[Root]]
+- [[Ajna]]
+- [[Spleen]]
+- Quarter of Civilization
+- Collective Logic Circuit
+- Collective Abstract Circuit
+- Individual Knowing Circuit
+- Tribal Defense Circuit
 
 ---
 

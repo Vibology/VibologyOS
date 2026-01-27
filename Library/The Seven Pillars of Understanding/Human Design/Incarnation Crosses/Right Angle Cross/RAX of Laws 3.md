@@ -108,12 +108,12 @@ The Duality context asks: "How must our laws evolve to serve authentic connectio
 - [[RAX of Laws 4]] (Quarter of Mutation)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Spleen Center]]
-- [[Sacral Center]]
-- [[Throat Center]]
-- [[Root Center]]
-- [[Quarter of Duality]]
+- [[Incarnation Crosses]]
+- [[Spleen]]
+- [[Sacral]]
+- [[Throat]]
+- [[Root]]
+- Quarter of Duality
 
 ---
 

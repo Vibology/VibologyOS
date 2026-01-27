@@ -109,16 +109,16 @@ The trans-personal nature means this defiance is never just about the individual
 - [[RAX of the Sphinx 2]] (Related Gate 1 cross)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Crosses]]
-- [[Trans-Personal Destiny]]
+- [[Incarnation Crosses]]
+- Left Angle Crosses
+- Trans-Personal Destiny
 - [[G Center]]
-- [[Solar Plexus Center]]
-- [[Ajna Center]]
-- [[Quarter of Civilization]]
-- [[Individual Knowing Circuit]]
-- [[Tribal Ego Circuit]]
-- [[Collective Logic Circuit]]
+- [[Solar Plexus]]
+- [[Ajna]]
+- Quarter of Civilization
+- Individual Knowing Circuit
+- Tribal Ego Circuit
+- Collective Logic Circuit
 
 ---
 

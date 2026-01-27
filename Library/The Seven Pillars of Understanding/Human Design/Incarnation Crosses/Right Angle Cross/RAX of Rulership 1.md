@@ -110,12 +110,12 @@ Alcyone's influence suggests leadership that illuminates: the graceful ruler bri
 - [[RAX of Rulership 4]] (Quarter of Mutation)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Solar Plexus Center]]
-- [[Ajna Center]]
-- [[Heart Center]]
-- [[Throat Center]]
-- [[Quarter of Initiation]]
+- [[Incarnation Crosses]]
+- [[Solar Plexus]]
+- [[Ajna]]
+- [[Heart]]
+- [[Throat]]
+- Quarter of Initiation
 
 ---
 

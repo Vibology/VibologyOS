@@ -110,16 +110,16 @@ Ra identifies the connection between "melancholic spirit" and "financial securit
 - [[Channel 2-14 - The Beat]]
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Sacral Center]]
-- [[Throat Center]]
-- [[Solar Plexus Center]]
-- [[Quarter of Mutation]]
-- [[Individual Knowing Circuit]]
-- [[Tribal Defense Circuit]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Sacral]]
+- [[Throat]]
+- [[Solar Plexus]]
+- Quarter of Mutation
+- Individual Knowing Circuit
+- Tribal Defense Circuit
 
 ---
 

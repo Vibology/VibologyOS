@@ -111,17 +111,17 @@ Ra emphasizes "questions which have not yet been asked"—these individuals are 
 - [[Channel 1-8 - Inspiration]]
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
 - [[G Center]]
-- [[Ajna Center]]
-- [[Solar Plexus Center]]
-- [[Quarter of Mutation]]
-- [[Individual Knowing Circuit]]
-- [[Collective Logic Circuit]]
-- [[Tribal Ego Circuit]]
+- [[Ajna]]
+- [[Solar Plexus]]
+- Quarter of Mutation
+- Individual Knowing Circuit
+- Collective Logic Circuit
+- Tribal Ego Circuit
 
 ---
 

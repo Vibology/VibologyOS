@@ -109,17 +109,17 @@ The Quarter of Civilization asks: "What can be built? What form can this take?" 
 ### Related Crosses
 - [[LAX of Identification 2]] (Quarter of Mutation)
 - [[RAX of Planning 1]] (shares Gate 16)
-- [[JXC of Experimentation]] (shares Gate 16)
+- [[JAX of Experimentation]] (shares Gate 16)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Crosses - Trans-Personal Destiny]]
-- [[Head Center]]
-- [[Throat Center]]
-- [[Sacral Center]]
-- [[Quarter of Civilization]]
-- [[Collective Logic Circuit]]
-- [[Collective Abstract Circuit]]
+- [[Incarnation Crosses]]
+- Left Angle Crosses - Trans-Personal Destiny
+- [[Head]]
+- [[Throat]]
+- [[Sacral]]
+- Quarter of Civilization
+- Collective Logic Circuit
+- Collective Abstract Circuit
 
 ---
 

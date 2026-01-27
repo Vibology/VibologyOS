@@ -114,15 +114,15 @@ Ra's keynote speaks of "the vagaries of humanity (good/bad/ugly)"—this cross h
 - [[RAX of Eden 1]] (Related experiential theme)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Crosses - Trans-Personal Destiny]]
-- [[Solar Plexus Center]]
+- [[Incarnation Crosses]]
+- Left Angle Crosses - Trans-Personal Destiny
+- [[Solar Plexus]]
 - [[G Center]]
-- [[Quarter of Initiation]]
-- [[Collective Abstract Circuit]]
-- [[Tribal Defense Circuit]]
-- [[Integration Circuit]]
-- [[Collective Logic Circuit]]
+- Quarter of Initiation
+- Collective Abstract Circuit
+- Tribal Defense Circuit
+- Integration Circuit
+- Collective Logic Circuit
 
 ---
 

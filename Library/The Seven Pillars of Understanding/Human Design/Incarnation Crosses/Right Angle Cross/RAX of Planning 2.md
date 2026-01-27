@@ -108,12 +108,12 @@ The civilizing quality demands that planning produce results. Planning poses the
 - [[RAX of Planning 4]] (Quarter of Mutation)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Throat Center]]
-- [[Sacral Center]]
-- [[Solar Plexus Center]]
-- [[Heart Center]]
-- [[Quarter of Civilization]]
+- [[Incarnation Crosses]]
+- [[Throat]]
+- [[Sacral]]
+- [[Solar Plexus]]
+- [[Heart]]
+- Quarter of Civilization
 
 ---
 

@@ -108,11 +108,11 @@ The question posed: "How does material transformation serve spiritual awakening?
 - [[RAX of Penetration 3]] (Quarter of Duality)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Root Center]]
-- [[Spleen Center]]
-- [[Heart Center]]
-- [[Quarter of Mutation]]
+- [[Incarnation Crosses]]
+- [[Root]]
+- [[Spleen]]
+- [[Heart]]
+- Quarter of Mutation
 
 ---
 

@@ -115,15 +115,15 @@ The "fulfillment of purpose" Ra mentions is not separate from the beauty—they 
 - [[RAX of the Four Ways 2]] (Related Gate 1/2 theme)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Crosses - Trans-Personal Destiny]]
-- [[Root Center]]
-- [[Throat Center]]
+- [[Incarnation Crosses]]
+- Left Angle Crosses - Trans-Personal Destiny
+- [[Root]]
+- [[Throat]]
 - [[G Center]]
-- [[Quarter of Mutation]]
-- [[Tribal Ego Circuit]]
-- [[Collective Abstract Circuit]]
-- [[Individual Knowing Circuit]]
+- Quarter of Mutation
+- Tribal Ego Circuit
+- Collective Abstract Circuit
+- Individual Knowing Circuit
 
 ---
 

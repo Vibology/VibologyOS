@@ -111,16 +111,16 @@ The artistic dimension Ra emphasizes reflects the Individual circuitry: the insi
 - [[LAX of the Alpha 1]] (Related Gate 7 cross)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
 - [[G Center]]
-- [[Ajna Center]]
-- [[Throat Center]]
-- [[Quarter of Initiation]]
-- [[Collective Abstract Circuit]]
-- [[Individual Knowing Circuit]]
+- [[Ajna]]
+- [[Throat]]
+- Quarter of Initiation
+- Collective Abstract Circuit
+- Individual Knowing Circuit
 
 ---
 

@@ -108,12 +108,12 @@ The Mutation context asks: "What unexpected leadership must emerge to transform 
 - [[RAX of the Unexpected 3]] (Quarter of Duality)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Root Center]]
-- [[Throat Center]]
-- [[Spleen Center]]
-- [[Sacral Center]]
-- [[Quarter of Mutation]]
+- [[Incarnation Crosses]]
+- [[Root]]
+- [[Throat]]
+- [[Spleen]]
+- [[Sacral]]
+- Quarter of Mutation
 
 ---
 

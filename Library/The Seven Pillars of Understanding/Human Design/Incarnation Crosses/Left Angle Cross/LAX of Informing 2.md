@@ -111,14 +111,14 @@ Ra's keynote emphasizes "turning people's attention toward the plight of those w
 - [[RAX of Eden 2]] (Related Individual theme)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Crosses - Trans-Personal Destiny]]
-- [[Ajna Center]]
-- [[Solar Plexus Center]]
-- [[Throat Center]]
-- [[Quarter of Duality]]
-- [[Collective Understanding Circuit]]
-- [[Individual Knowing Circuit]]
+- [[Incarnation Crosses]]
+- Left Angle Crosses - Trans-Personal Destiny
+- [[Ajna]]
+- [[Solar Plexus]]
+- [[Throat]]
+- Quarter of Duality
+- Collective Understanding Circuit
+- Individual Knowing Circuit
 
 ---
 

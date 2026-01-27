@@ -116,16 +116,16 @@ Ra's phrase "prepared to accept the details" is crucial. The Clarion doesn't jus
 - [[Channel 25-51 - Initiation]]
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Crosses - Trans-Personal Destiny]]
-- [[Heart (Ego) Center]]
-- [[Spleen Center]]
-- [[Head Center]]
-- [[Throat Center]]
-- [[Quarter of Initiation]]
-- [[Individual Centering Circuit]]
-- [[Individual Knowing Circuit]]
-- [[Collective Logic Circuit]]
+- [[Incarnation Crosses]]
+- Left Angle Crosses - Trans-Personal Destiny
+- [[Heart]]
+- [[Spleen]]
+- [[Head]]
+- [[Throat]]
+- Quarter of Initiation
+- Individual Centering Circuit
+- Individual Knowing Circuit
+- Collective Logic Circuit
 
 ---
 

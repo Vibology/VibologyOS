@@ -108,19 +108,19 @@ The combination of Root gates (58/52) provides the energy foundation: the pressu
 
 ### Related Crosses
 - [[RAX of the Vessel of Love 1]] (Related Gate 25 cross)
-- [[Channel 52-9 - Concentration]]
+- Channel 52-9 - Concentration
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
 - [[G Center]]
-- [[Root Center]]
-- [[Quarter of Initiation]]
-- [[Individual Centering Circuit]]
-- [[Collective Abstract Circuit]]
-- [[Collective Logic Circuit]]
+- [[Root]]
+- Quarter of Initiation
+- Individual Centering Circuit
+- Collective Abstract Circuit
+- Collective Logic Circuit
 
 ---
 

@@ -112,12 +112,12 @@ The Four Ways (1) poses the eternal question: "How does thinking evolve consciou
 - [[RAX of the Four Ways 4]] (Quarter of Mutation)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Ajna Center]]
-- [[Spleen Center]]
-- [[Root Center]]
-- [[Throat Center]]
-- [[Quarter of Initiation]]
+- [[Incarnation Crosses]]
+- [[Ajna]]
+- [[Spleen]]
+- [[Root]]
+- [[Throat]]
+- Quarter of Initiation
 
 ---
 

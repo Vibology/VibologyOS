@@ -112,18 +112,18 @@ The combination of Head (61) and Throat (62) creates a direct pressure-expressio
 - [[Channel 3-60 - Mutation]]
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Throat Center]]
-- [[Head Center]]
-- [[Sacral Center]]
-- [[Spleen Center]]
-- [[Quarter of Civilization]]
-- [[Collective Logic Circuit]]
-- [[Individual Knowing Circuit]]
-- [[Tribal Defense Circuit]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Throat]]
+- [[Head]]
+- [[Sacral]]
+- [[Spleen]]
+- Quarter of Civilization
+- Collective Logic Circuit
+- Individual Knowing Circuit
+- Tribal Defense Circuit
 
 ---
 

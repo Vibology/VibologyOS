@@ -111,18 +111,18 @@ The Channel 35-36 would connect to Gate 36 (Crisis), but here Gate 35 stands alo
 - [[Channel 35-36 - Transitoriness]]
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Throat Center]]
-- [[Sacral Center]]
-- [[Solar Plexus Center]]
-- [[Ajna Center]]
-- [[Quarter of Civilization]]
-- [[Collective Abstract Circuit]]
-- [[Collective Logic Circuit]]
-- [[Individual Knowing Circuit]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Throat]]
+- [[Sacral]]
+- [[Solar Plexus]]
+- [[Ajna]]
+- Quarter of Civilization
+- Collective Abstract Circuit
+- Collective Logic Circuit
+- Individual Knowing Circuit
 
 ---
 

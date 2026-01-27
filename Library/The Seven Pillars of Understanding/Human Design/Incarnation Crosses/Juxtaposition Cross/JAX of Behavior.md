@@ -111,16 +111,16 @@ The shadow edge is clear: "quick to organize or challenge that of others" can be
 - [[Channel 10-34 - Exploration]]
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
 - [[G Center]]
-- [[Spleen Center]]
-- [[Ajna Center]]
-- [[Quarter of Mutation]]
-- [[Individual Integration Circuit]]
-- [[Collective Logic Circuit]]
+- [[Spleen]]
+- [[Ajna]]
+- Quarter of Mutation
+- Individual Integration Circuit
+- Collective Logic Circuit
 
 ---
 

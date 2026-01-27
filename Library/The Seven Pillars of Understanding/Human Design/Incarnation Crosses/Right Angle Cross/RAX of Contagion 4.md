@@ -110,13 +110,13 @@ The contagion spreads through the example of power wisely wielded. Others witnes
 - [[RAX of Contagion 3]] (Quarter of Duality)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Sacral Center]]
-- [[Throat Center]]
-- [[Solar Plexus Center]]
-- [[Quarter of Mutation]]
-- [[Individual Knowing Circuit]]
-- [[Collective Abstract Circuit]]
+- [[Incarnation Crosses]]
+- [[Sacral]]
+- [[Throat]]
+- [[Solar Plexus]]
+- Quarter of Mutation
+- Individual Knowing Circuit
+- Collective Abstract Circuit
 
 ---
 

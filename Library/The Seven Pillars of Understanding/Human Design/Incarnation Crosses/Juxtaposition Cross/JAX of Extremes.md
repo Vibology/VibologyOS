@@ -110,16 +110,16 @@ Ra notes they are "unaware" of their corrective function. This is crucial—they
 - [[Channel 10-20 - Awakening]]
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
 - [[G Center]]
-- [[Ajna Center]]
-- [[Spleen Center]]
-- [[Quarter of Civilization]]
-- [[Collective Logic Circuit]]
-- [[Individual Integration Circuit]]
+- [[Ajna]]
+- [[Spleen]]
+- Quarter of Civilization
+- Collective Logic Circuit
+- Individual Integration Circuit
 
 ---
 

@@ -113,13 +113,13 @@ The "focused, committed connection" implies that casual encounters may not activ
 - [[RAX of the Vessel of Love 2]] (Related through Gate 25)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Crosses - Trans-Personal Destiny]]
+- [[Incarnation Crosses]]
+- Left Angle Crosses - Trans-Personal Destiny
 - [[G Center]]
-- [[Root Center]]
-- [[Quarter of Duality]]
-- [[Individual Centering Circuit]]
-- [[Collective Logic Circuit]]
+- [[Root]]
+- Quarter of Duality
+- Individual Centering Circuit
+- Collective Logic Circuit
 
 ---
 

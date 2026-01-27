@@ -111,18 +111,18 @@ Ra identifies two motivations: "to get what they need" and "to find purpose and 
 - [[Channel 28-38 - The Fighter]]
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Spleen Center]]
-- [[Sacral Center]]
-- [[Throat Center]]
-- [[Root Center]]
-- [[Quarter of Duality]]
-- [[Individual Knowing Circuit]]
-- [[Tribal Defense Circuit]]
-- [[Collective Abstract Circuit]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Spleen]]
+- [[Sacral]]
+- [[Throat]]
+- [[Root]]
+- Quarter of Duality
+- Individual Knowing Circuit
+- Tribal Defense Circuit
+- Collective Abstract Circuit
 
 ---
 

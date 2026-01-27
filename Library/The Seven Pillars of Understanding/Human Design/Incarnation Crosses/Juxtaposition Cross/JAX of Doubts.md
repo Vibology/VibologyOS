@@ -108,20 +108,20 @@ Ra calls them "bright, convincing and influential"—this is not mere contrarian
 
 ### Related Crosses
 - [[RAX of Consciousness 1]] (Related Gate 63 cross)
-- [[Channel 45-26 - Surrender]]
+- Channel 45-26 - Surrender
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Head Center]]
-- [[Heart Center]]
-- [[Throat Center]]
-- [[Quarter of Initiation]]
-- [[Collective Logic Circuit]]
-- [[Collective Abstract Circuit]]
-- [[Tribal Ego Circuit]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Head]]
+- [[Heart]]
+- [[Throat]]
+- Quarter of Initiation
+- Collective Logic Circuit
+- Collective Abstract Circuit
+- Tribal Ego Circuit
 
 ---
 

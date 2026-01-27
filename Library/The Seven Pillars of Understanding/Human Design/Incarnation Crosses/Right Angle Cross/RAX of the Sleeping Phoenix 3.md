@@ -108,11 +108,11 @@ The duality quality demands that transformation serve the bond. The Phoenix pose
 - [[RAX of the Sleeping Phoenix 4]] (Quarter of Mutation)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Sacral Center]]
-- [[Solar Plexus Center]]
-- [[Throat Center]]
-- [[Quarter of Duality]]
+- [[Incarnation Crosses]]
+- [[Sacral]]
+- [[Solar Plexus]]
+- [[Throat]]
+- Quarter of Duality
 
 ---
 

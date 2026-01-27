@@ -107,19 +107,19 @@ The "potential depth/solutions" points to Gate 48. These individuals have genuin
 
 ### Related Crosses
 - [[RAX of Service 2]] (Related Gate 52 cross)
-- [[Channel 52-9 - Concentration]]
+- Channel 52-9 - Concentration
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Root Center]]
-- [[Heart Center]]
-- [[Spleen Center]]
-- [[Quarter of Civilization]]
-- [[Collective Logic Circuit]]
-- [[Tribal Ego Circuit]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Root]]
+- [[Heart]]
+- [[Spleen]]
+- Quarter of Civilization
+- Collective Logic Circuit
+- Tribal Ego Circuit
 
 ---
 

@@ -108,9 +108,9 @@ The Vessel of Love (3) archetype poses the eternal question: "What does love fee
 - [[RAX of the Vessel of Love 4]] (Quarter of Mutation)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
+- [[Incarnation Crosses]]
 - [[G Center]]
-- [[Quarter of Duality]]
+- Quarter of Duality
 
 ---
 

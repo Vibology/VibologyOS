@@ -112,19 +112,19 @@ Ra's phrase "consequences commensurate with the crime" captures the function. Th
 - [[Channel 27-50 - Preservation]]
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Spleen Center]]
-- [[Sacral Center]]
-- [[Throat Center]]
-- [[Root Center]]
-- [[Quarter of Duality]]
-- [[Tribal Defense Circuit]]
-- [[Individual Knowing Circuit]]
-- [[Collective Logic Circuit]]
-- [[Collective Abstract Circuit]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Spleen]]
+- [[Sacral]]
+- [[Throat]]
+- [[Root]]
+- Quarter of Duality
+- Tribal Defense Circuit
+- Individual Knowing Circuit
+- Collective Logic Circuit
+- Collective Abstract Circuit
 
 ---
 

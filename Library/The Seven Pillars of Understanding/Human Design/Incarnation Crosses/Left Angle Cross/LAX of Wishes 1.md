@@ -115,17 +115,17 @@ The 5/1, 5/2, 6/2, and 6/3 profiles associated with Left Angle Crosses bring the
 - [[RAX of Eden 1]] (Related thematic: visionary possibility)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Sacral Center]]
-- [[Spleen Center]]
-- [[Root Center]]
-- [[Throat Center]]
-- [[Quarter of Initiation]]
-- [[Individual Knowing Circuit]]
-- [[Tribal Ego Circuit]]
-- [[Collective Abstract Circuit]]
-- [[Collective Logic Circuit]]
-- [[Left Angle Cross - Trans-Personal Destiny]]
+- [[Incarnation Crosses]]
+- [[Sacral]]
+- [[Spleen]]
+- [[Root]]
+- [[Throat]]
+- Quarter of Initiation
+- Individual Knowing Circuit
+- Tribal Ego Circuit
+- Collective Abstract Circuit
+- Collective Logic Circuit
+- Left Angle Cross - Trans-Personal Destiny
 
 ---
 

@@ -112,12 +112,12 @@ The Four Ways (2) poses the eternal question: "What becomes of experience when g
 - [[RAX of the Four Ways 4]] (Quarter of Mutation)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Throat Center]]
-- [[Root Center]]
-- [[Ajna Center]]
-- [[Spleen Center]]
-- [[Quarter of Civilization]]
+- [[Incarnation Crosses]]
+- [[Throat]]
+- [[Root]]
+- [[Ajna]]
+- [[Spleen]]
+- Quarter of Civilization
 
 ---
 

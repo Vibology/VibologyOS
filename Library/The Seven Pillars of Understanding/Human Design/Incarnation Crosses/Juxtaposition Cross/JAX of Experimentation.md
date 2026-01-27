@@ -110,16 +110,16 @@ Both Head gates (63/64) create powerful mental pressure, which flows down to the
 - [[Channel 16-48 - Wavelength]]
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Throat Center]]
-- [[Sacral Center]]
-- [[Head Center]]
-- [[Quarter of Civilization]]
-- [[Collective Logic Circuit]]
-- [[Collective Abstract Circuit]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Throat]]
+- [[Sacral]]
+- [[Head]]
+- Quarter of Civilization
+- Collective Logic Circuit
+- Collective Abstract Circuit
 
 ---
 

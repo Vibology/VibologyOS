@@ -111,16 +111,16 @@ Ra emphasizes both the potency and the moodiness. These individuals carry intens
 - [[Channel 25-51 - Initiation]]
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Root Center]]
-- [[Heart Center]]
-- [[Spleen Center]]
-- [[Quarter of Civilization]]
-- [[Individual Knowing Circuit]]
-- [[Individual Centering Circuit]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Root]]
+- [[Heart]]
+- [[Spleen]]
+- Quarter of Civilization
+- Individual Knowing Circuit
+- Individual Centering Circuit
 
 ---
 

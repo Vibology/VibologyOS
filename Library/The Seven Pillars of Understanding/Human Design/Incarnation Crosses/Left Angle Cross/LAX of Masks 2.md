@@ -110,22 +110,22 @@ The trans-personal karma of this cross is worked out through partnership. The in
 ### Related Crosses
 - [[LAX of Masks 1]] (Quarter of Initiation)
 - [[RAX of the Sphinx 2]] (Related 7/13 axis)
-- [[JXC of Assimilation]] (Related 23/43 channel)
+- [[JAX of Assimilation]] (Related 23/43 channel)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Cross - Trans-Personal Destiny]]
+- [[Incarnation Crosses]]
+- Left Angle Cross - Trans-Personal Destiny
 - [[G Center]]
-- [[Throat Center]]
-- [[Ajna Center]]
-- [[Quarter of Duality]]
-- [[Collective Logic Circuit]]
-- [[Collective Sharing Circuit]]
-- [[Individual Knowing Circuit]]
-- [[Profile 5/1]]
-- [[Profile 5/2]]
-- [[Profile 6/2]]
-- [[Profile 6/3]]
+- [[Throat]]
+- [[Ajna]]
+- Quarter of Duality
+- Collective Logic Circuit
+- Collective Sharing Circuit
+- Individual Knowing Circuit
+- 5/1 Profile
+- 5/2 Profile
+- 6/2 Profile
+- 6/3 Profile
 
 ---
 

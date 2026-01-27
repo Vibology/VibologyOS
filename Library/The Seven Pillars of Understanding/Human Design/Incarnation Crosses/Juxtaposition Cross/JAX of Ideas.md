@@ -112,17 +112,17 @@ Ra notes they are "often fixed in a single direction." The abundance of ideas do
 - [[Channel 12-22 - Openness]]
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Ajna Center]]
-- [[Throat Center]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Ajna]]
+- [[Throat]]
 - [[G Center]]
-- [[Quarter of Mutation]]
-- [[Collective Abstract Circuit]]
-- [[Individual Knowing Circuit]]
-- [[Individual Centering Circuit]]
+- Quarter of Mutation
+- Collective Abstract Circuit
+- Individual Knowing Circuit
+- Individual Centering Circuit
 
 ---
 

@@ -116,17 +116,17 @@ The "promised land" Ra mentions is the destination of the dream—not a fixed pl
 - [[RAX of the Unexpected 2]] (Related Gate 44 theme)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Crosses - Trans-Personal Destiny]]
-- [[Root Center]]
-- [[Throat Center]]
-- [[Spleen Center]]
-- [[Ajna Center]]
-- [[Quarter of Mutation]]
-- [[Collective Abstract Circuit]]
-- [[Collective Logic Circuit]]
-- [[Tribal Defense Circuit]]
-- [[Individual Knowing Circuit]]
+- [[Incarnation Crosses]]
+- Left Angle Crosses - Trans-Personal Destiny
+- [[Root]]
+- [[Throat]]
+- [[Spleen]]
+- [[Ajna]]
+- Quarter of Mutation
+- Collective Abstract Circuit
+- Collective Logic Circuit
+- Tribal Defense Circuit
+- Individual Knowing Circuit
 
 ---
 

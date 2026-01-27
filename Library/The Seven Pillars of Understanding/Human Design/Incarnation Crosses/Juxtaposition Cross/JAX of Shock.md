@@ -111,18 +111,18 @@ The combination of intuition (57), mystery (61), and detail (62) creates shocks 
 - [[Channel 25-51 - Initiation]]
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Heart Center]]
-- [[Spleen Center]]
-- [[Head Center]]
-- [[Throat Center]]
-- [[Quarter of Initiation]]
-- [[Individual Centering Circuit]]
-- [[Individual Knowing Circuit]]
-- [[Collective Logic Circuit]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Heart]]
+- [[Spleen]]
+- [[Head]]
+- [[Throat]]
+- Quarter of Initiation
+- Individual Centering Circuit
+- Individual Knowing Circuit
+- Collective Logic Circuit
 
 ---
 

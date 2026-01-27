@@ -114,14 +114,14 @@ The emphasis on practicality is crucial: Gate 18's correction must actually work
 - [[LAX of Upheaval 1]] (Quarter of Initiation)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Crosses - Trans-Personal Destiny]]
-- [[Spleen Center]]
-- [[Ajna Center]]
-- [[Root Center]]
-- [[Quarter of Duality]]
-- [[Collective Logic Circuit]]
-- [[Individual Knowing Circuit]]
+- [[Incarnation Crosses]]
+- Left Angle Crosses - Trans-Personal Destiny
+- [[Spleen]]
+- [[Ajna]]
+- [[Root]]
+- Quarter of Duality
+- Collective Logic Circuit
+- Individual Knowing Circuit
 
 ---
 

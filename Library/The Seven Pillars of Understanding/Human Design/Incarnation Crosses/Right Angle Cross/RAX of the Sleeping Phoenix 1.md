@@ -108,11 +108,11 @@ The initiatory quality demands that spirit be sought actively, even if the trans
 - [[RAX of the Sleeping Phoenix 4]] (Quarter of Mutation)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Solar Plexus Center]]
-- [[Sacral Center]]
-- [[Throat Center]]
-- [[Quarter of Initiation]]
+- [[Incarnation Crosses]]
+- [[Solar Plexus]]
+- [[Sacral]]
+- [[Throat]]
+- Quarter of Initiation
 
 ---
 

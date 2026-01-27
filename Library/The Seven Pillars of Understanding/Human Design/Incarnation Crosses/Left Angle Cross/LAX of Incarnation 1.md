@@ -115,16 +115,16 @@ The 5/1, 5/2, 6/2, and 6/3 profiles associated with Left Angle Crosses bring the
 - [[RAX of the Sphinx 1]] (Related thematic: identity and direction)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Ajna Center]]
-- [[Spleen Center]]
+- [[Incarnation Crosses]]
+- [[Ajna]]
+- [[Spleen]]
 - [[G Center]]
-- [[Quarter of Initiation]]
-- [[Individual Knowing Circuit]]
-- [[Tribal Ego Circuit]]
-- [[Collective Sharing Circuit]]
-- [[Collective Logic Circuit]]
-- [[Left Angle Cross - Trans-Personal Destiny]]
+- Quarter of Initiation
+- Individual Knowing Circuit
+- Tribal Ego Circuit
+- Collective Sharing Circuit
+- Collective Logic Circuit
+- Left Angle Cross - Trans-Personal Destiny
 
 ---
 

@@ -111,17 +111,17 @@ The 5/1, 5/2, 6/2, and 6/3 profiles associated with Left Angle Crosses bring the
 - [[RAX of Laws 1]] (Related thematic: values and collective order)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Spleen Center]]
-- [[Sacral Center]]
-- [[Throat Center]]
-- [[Root Center]]
-- [[Quarter of Duality]]
-- [[Tribal Ego Circuit]]
-- [[Individual Knowing Circuit]]
-- [[Collective Logic Circuit]]
-- [[Collective Abstract Circuit]]
-- [[Left Angle Cross - Trans-Personal Destiny]]
+- [[Incarnation Crosses]]
+- [[Spleen]]
+- [[Sacral]]
+- [[Throat]]
+- [[Root]]
+- Quarter of Duality
+- Tribal Ego Circuit
+- Individual Knowing Circuit
+- Collective Logic Circuit
+- Collective Abstract Circuit
+- Left Angle Cross - Trans-Personal Destiny
 
 ---
 

@@ -109,16 +109,16 @@ The mutation is profound: humanity has long assumed that Individual power leads 
 - [[RAX of the Sleeping Phoenix 2]] (Related Gate 34 cross)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Crosses]]
-- [[Trans-Personal Destiny]]
-- [[Sacral Center]]
-- [[Throat Center]]
-- [[Heart-Ego Center]]
-- [[Solar Plexus Center]]
-- [[Quarter of Mutation]]
-- [[Integration Circuit]]
-- [[Tribal Ego Circuit]]
+- [[Incarnation Crosses]]
+- Left Angle Crosses
+- Trans-Personal Destiny
+- [[Sacral]]
+- [[Throat]]
+- [[Heart]]
+- [[Solar Plexus]]
+- Quarter of Mutation
+- Integration Circuit
+- Tribal Ego Circuit
 
 ---
 

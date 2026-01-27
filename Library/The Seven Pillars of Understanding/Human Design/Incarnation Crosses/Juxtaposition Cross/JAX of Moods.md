@@ -111,17 +111,17 @@ The "need for depth" reflects Gate 55's spiritual hunger—this is not shallow e
 - [[LAX of Spirit 1]] (Related Gate 55 cross)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Solar Plexus Center]]
-- [[Sacral Center]]
-- [[Throat Center]]
-- [[Quarter of Initiation]]
-- [[Individual Knowing Circuit]]
-- [[Tribal Defense Circuit]]
-- [[Collective Logic Circuit]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Solar Plexus]]
+- [[Sacral]]
+- [[Throat]]
+- Quarter of Initiation
+- Individual Knowing Circuit
+- Tribal Defense Circuit
+- Collective Logic Circuit
 
 ---
 

@@ -108,12 +108,12 @@ Gate 18's correction instinct is oriented toward **relational spoilage**—the w
 - [[RAX of Service 4]] (Quarter of Mutation)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Spleen Center]]
-- [[Ajna Center]]
-- [[Root Center]]
-- [[Quarter of Duality]]
-- [[Collective Logic Circuit]]
+- [[Incarnation Crosses]]
+- [[Spleen]]
+- [[Ajna]]
+- [[Root]]
+- Quarter of Duality
+- Collective Logic Circuit
 
 ---
 

@@ -112,15 +112,15 @@ Ra's keynote speaks of "enjoying their work"—this is crucial. The material cel
 - [[RAX of Eden 2]] (Related experiential theme)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Crosses - Trans-Personal Destiny]]
-- [[Solar Plexus Center]]
+- [[Incarnation Crosses]]
+- Left Angle Crosses - Trans-Personal Destiny
+- [[Solar Plexus]]
 - [[G Center]]
-- [[Quarter of Duality]]
-- [[Tribal Defense Circuit]]
-- [[Collective Abstract Circuit]]
-- [[Collective Logic Circuit]]
-- [[Integration Circuit]]
+- Quarter of Duality
+- Tribal Defense Circuit
+- Collective Abstract Circuit
+- Collective Logic Circuit
+- Integration Circuit
 
 ---
 

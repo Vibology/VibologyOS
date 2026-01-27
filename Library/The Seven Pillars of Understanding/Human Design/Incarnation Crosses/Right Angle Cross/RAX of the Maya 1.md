@@ -108,12 +108,12 @@ The question posed: "What is the illusion?" The answer: that process is more imp
 - [[RAX of the Maya 4]] (Quarter of Mutation)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Sacral Center]]
-- [[Spleen Center]]
-- [[Head Center]]
-- [[Throat Center]]
-- [[Quarter of Initiation]]
+- [[Incarnation Crosses]]
+- [[Sacral]]
+- [[Spleen]]
+- [[Head]]
+- [[Throat]]
+- Quarter of Initiation
 
 ---
 

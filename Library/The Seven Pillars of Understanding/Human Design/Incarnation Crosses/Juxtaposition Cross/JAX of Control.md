@@ -108,19 +108,19 @@ The depth (Gate 48) is crucial: these individuals are not shallow controllers bu
 ### Related Crosses
 - [[RAX of Tension 1]] (Related Gate 21 cross)
 - [[Channel 21-45 - Money]]
-- [[Channel 53-42 - Maturation]]
+- Channel 53-42 - Maturation
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Heart Center]]
-- [[Spleen Center]]
-- [[Root Center]]
-- [[Quarter of Initiation]]
-- [[Tribal Ego Circuit]]
-- [[Collective Logic Circuit]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Heart]]
+- [[Spleen]]
+- [[Root]]
+- Quarter of Initiation
+- Tribal Ego Circuit
+- Collective Logic Circuit
 
 ---
 

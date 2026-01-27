@@ -111,17 +111,17 @@ The Channel 1-2 (Keeper of the Keys) forms between Design Sun and Earth—the fu
 - [[Channel 1-8 - Inspiration]]
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Root Center]]
-- [[Throat Center]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Root]]
+- [[Throat]]
 - [[G Center]]
-- [[Quarter of Mutation]]
-- [[Tribal Ego Circuit]]
-- [[Collective Abstract Circuit]]
-- [[Individual Knowing Circuit]]
+- Quarter of Mutation
+- Tribal Ego Circuit
+- Collective Abstract Circuit
+- Individual Knowing Circuit
 
 ---
 

@@ -111,14 +111,14 @@ Ra's keynote emphasizes "mutating through teaching what is new." This is Individ
 - [[RAX of Eden 1]] (Related Individual theme)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Crosses - Trans-Personal Destiny]]
-- [[Solar Plexus Center]]
-- [[Ajna Center]]
-- [[Throat Center]]
-- [[Quarter of Initiation]]
-- [[Individual Knowing Circuit]]
-- [[Collective Understanding Circuit]]
+- [[Incarnation Crosses]]
+- Left Angle Crosses - Trans-Personal Destiny
+- [[Solar Plexus]]
+- [[Ajna]]
+- [[Throat]]
+- Quarter of Initiation
+- Individual Knowing Circuit
+- Collective Understanding Circuit
 
 ---
 

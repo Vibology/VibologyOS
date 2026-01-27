@@ -113,18 +113,18 @@ Jupiter's realm emphasizes expansion through relationship. The self-created work
 
 ### Related Crosses
 - [[LAX of Endeavor 1]] (Quarter of Initiation)
-- [[Channel 48-16 - Wavelength]]
+- Channel 48-16 - Wavelength
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Crosses - Trans-Personal Destiny]]
-- [[Spleen Center]]
-- [[Heart (Ego) Center]]
-- [[Root Center]]
-- [[Quarter of Duality]]
-- [[Collective Understanding Circuit]]
-- [[Tribal Ego Circuit]]
-- [[Collective Sensing Circuit]]
+- [[Incarnation Crosses]]
+- Left Angle Crosses - Trans-Personal Destiny
+- [[Spleen]]
+- [[Heart]]
+- [[Root]]
+- Quarter of Duality
+- Collective Understanding Circuit
+- Tribal Ego Circuit
+- Collective Sensing Circuit
 
 ---
 

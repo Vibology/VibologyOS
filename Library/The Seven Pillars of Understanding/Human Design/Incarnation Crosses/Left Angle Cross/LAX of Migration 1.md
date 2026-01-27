@@ -111,16 +111,16 @@ The "greener pastures" in Ra's keynote are not about dissatisfaction but about e
 - [[RAX of Planning 1]] (Related tribal theme)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Crosses - Trans-Personal Destiny]]
-- [[Solar Plexus Center]]
-- [[Heart (Ego) Center]]
-- [[Sacral Center]]
-- [[Throat Center]]
-- [[Quarter of Initiation]]
-- [[Tribal Ego Circuit]]
-- [[Collective Logic Circuit]]
-- [[Collective Abstract Circuit]]
+- [[Incarnation Crosses]]
+- Left Angle Crosses - Trans-Personal Destiny
+- [[Solar Plexus]]
+- [[Heart]]
+- [[Sacral]]
+- [[Throat]]
+- Quarter of Initiation
+- Tribal Ego Circuit
+- Collective Logic Circuit
+- Collective Abstract Circuit
 
 ---
 

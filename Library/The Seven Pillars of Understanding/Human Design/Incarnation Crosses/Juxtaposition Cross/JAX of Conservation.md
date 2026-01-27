@@ -108,21 +108,21 @@ Ra emphasizes "wary risk takers"—these individuals are not fearful but prudent
 
 ### Related Crosses
 - [[RAX of the Maya 3]] (Related Gate 32 cross)
-- [[Channel 54-32 - Transformation]]
+- Channel 54-32 - Transformation
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Spleen Center]]
-- [[Sacral Center]]
-- [[Throat Center]]
-- [[Root Center]]
-- [[Quarter of Duality]]
-- [[Tribal Ego Circuit]]
-- [[Collective Abstract Circuit]]
-- [[Individual Knowing Circuit]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Spleen]]
+- [[Sacral]]
+- [[Throat]]
+- [[Root]]
+- Quarter of Duality
+- Tribal Ego Circuit
+- Collective Abstract Circuit
+- Individual Knowing Circuit
 
 ---
 

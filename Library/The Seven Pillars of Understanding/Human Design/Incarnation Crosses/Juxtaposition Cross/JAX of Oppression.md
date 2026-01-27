@@ -110,16 +110,16 @@ The Channel 12-22 (Openness) forms between Design Sun and Personality Earth—th
 - [[Channel 12-22 - Openness]]
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Ajna Center]]
-- [[Solar Plexus Center]]
-- [[Throat Center]]
-- [[Quarter of Duality]]
-- [[Collective Abstract Circuit]]
-- [[Individual Knowing Circuit]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Ajna]]
+- [[Solar Plexus]]
+- [[Throat]]
+- Quarter of Duality
+- Collective Abstract Circuit
+- Individual Knowing Circuit
 
 ---
 

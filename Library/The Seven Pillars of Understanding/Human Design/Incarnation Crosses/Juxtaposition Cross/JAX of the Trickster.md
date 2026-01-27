@@ -108,20 +108,20 @@ The Channel 45-26 (Surrender) forms between Personality Sun and Earth—the full
 
 ### Related Crosses
 - [[RAX of Rulership 3]] (Related Gate 26 cross)
-- [[Channel 45-26 - Surrender]]
+- Channel 45-26 - Surrender
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Heart Center]]
-- [[Throat Center]]
-- [[Solar Plexus Center]]
-- [[Quarter of Mutation]]
-- [[Tribal Ego Circuit]]
-- [[Tribal Defense Circuit]]
-- [[Collective Abstract Circuit]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Heart]]
+- [[Throat]]
+- [[Solar Plexus]]
+- Quarter of Mutation
+- Tribal Ego Circuit
+- Tribal Defense Circuit
+- Collective Abstract Circuit
 
 ---
 

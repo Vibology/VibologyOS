@@ -107,19 +107,19 @@ Both Head gates (64/63) create mental pressure that flows to the Sacral (9) for 
 
 ### Related Crosses
 - [[RAX of Planning 4]] (Related Gate 9 cross)
-- [[Channel 52-9 - Concentration]]
+- Channel 52-9 - Concentration
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Sacral Center]]
-- [[Throat Center]]
-- [[Head Center]]
-- [[Quarter of Mutation]]
-- [[Collective Logic Circuit]]
-- [[Collective Abstract Circuit]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Sacral]]
+- [[Throat]]
+- [[Head]]
+- Quarter of Mutation
+- Collective Logic Circuit
+- Collective Abstract Circuit
 
 ---
 

@@ -108,14 +108,14 @@ Gate 38's fight is oriented toward **meaning and purpose**. The opposition is cr
 - [[RAX of Tension 3]] (Quarter of Duality)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Root Center]]
-- [[Spleen Center]]
-- [[Heart Center]]
-- [[Quarter of Mutation]]
-- [[Individual Knowing Circuit]]
-- [[Collective Logic Circuit]]
-- [[Tribal Ego Circuit]]
+- [[Incarnation Crosses]]
+- [[Root]]
+- [[Spleen]]
+- [[Heart]]
+- Quarter of Mutation
+- Individual Knowing Circuit
+- Collective Logic Circuit
+- Tribal Ego Circuit
 
 ---
 

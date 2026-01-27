@@ -111,18 +111,18 @@ Ra emphasizes "put the brakes on the Collective's run-away progress." These indi
 - [[Channel 37-40 - Community]]
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Heart Center]]
-- [[Solar Plexus Center]]
-- [[Throat Center]]
-- [[Sacral Center]]
-- [[Quarter of Duality]]
-- [[Tribal Ego Circuit]]
-- [[Collective Abstract Circuit]]
-- [[Collective Logic Circuit]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Heart]]
+- [[Solar Plexus]]
+- [[Throat]]
+- [[Sacral]]
+- Quarter of Duality
+- Tribal Ego Circuit
+- Collective Abstract Circuit
+- Collective Logic Circuit
 
 ---
 

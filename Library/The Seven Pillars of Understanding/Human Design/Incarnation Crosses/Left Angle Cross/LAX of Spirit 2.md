@@ -111,22 +111,22 @@ The trans-personal karma of this cross is worked out through sexual and romantic
 ### Related Crosses
 - [[LAX of Spirit 1]] (Quarter of Initiation)
 - [[RAX of Penetration 3]] (Related 59/55 axis)
-- [[JXC of The Wavelength]] (Related 16/9 channel)
+- JAX of The Wavelength (Related 16/9 channel)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Cross - Trans-Personal Destiny]]
-- [[Sacral Center]]
-- [[Solar Plexus Center]]
-- [[Throat Center]]
-- [[Quarter of Duality]]
-- [[Tribal Defense Circuit]]
-- [[Individual Knowing Circuit]]
-- [[Collective Logic Circuit]]
-- [[Profile 5/1]]
-- [[Profile 5/2]]
-- [[Profile 6/2]]
-- [[Profile 6/3]]
+- [[Incarnation Crosses]]
+- Left Angle Cross - Trans-Personal Destiny
+- [[Sacral]]
+- [[Solar Plexus]]
+- [[Throat]]
+- Quarter of Duality
+- Tribal Defense Circuit
+- Individual Knowing Circuit
+- Collective Logic Circuit
+- 5/1 Profile
+- 5/2 Profile
+- 6/2 Profile
+- 6/3 Profile
 
 ---
 

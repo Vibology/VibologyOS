@@ -113,17 +113,17 @@ Ra's phrase "bridge the loss of innocence" captures the function. These individu
 - [[Channel 35-36 - Transitoriness]]
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Solar Plexus Center]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Solar Plexus]]
 - [[G Center]]
-- [[Quarter of Duality]]
-- [[Tribal Defense Circuit]]
-- [[Collective Abstract Circuit]]
-- [[Collective Logic Circuit]]
-- [[Individual Integration Circuit]]
+- Quarter of Duality
+- Tribal Defense Circuit
+- Collective Abstract Circuit
+- Collective Logic Circuit
+- Individual Integration Circuit
 
 ---
 

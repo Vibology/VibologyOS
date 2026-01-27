@@ -112,12 +112,12 @@ The Four Ways (3) poses the eternal question: "What is worth the tribe's investm
 - [[RAX of the Four Ways 4]] (Quarter of Mutation)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Spleen Center]]
-- [[Ajna Center]]
-- [[Throat Center]]
-- [[Root Center]]
-- [[Quarter of Duality]]
+- [[Incarnation Crosses]]
+- [[Spleen]]
+- [[Ajna]]
+- [[Throat]]
+- [[Root]]
+- Quarter of Duality
 
 ---
 

@@ -112,19 +112,19 @@ Ra's "virtual reality" reference captures the modern application—these individ
 - [[Channel 30-41 - Fantasy]]
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Root Center]]
-- [[Throat Center]]
-- [[Spleen Center]]
-- [[Ajna Center]]
-- [[Quarter of Mutation]]
-- [[Collective Abstract Circuit]]
-- [[Collective Logic Circuit]]
-- [[Tribal Ego Circuit]]
-- [[Individual Knowing Circuit]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Root]]
+- [[Throat]]
+- [[Spleen]]
+- [[Ajna]]
+- Quarter of Mutation
+- Collective Abstract Circuit
+- Collective Logic Circuit
+- Tribal Ego Circuit
+- Individual Knowing Circuit
 
 ---
 

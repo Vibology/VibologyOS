@@ -111,17 +111,17 @@ Ra identifies the "push-pull" tension. These individuals are deeply needed by th
 - [[Channel 37-40 - Community]]
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Throat Center]]
-- [[Sacral Center]]
-- [[Solar Plexus Center]]
-- [[Heart Center]]
-- [[Quarter of Civilization]]
-- [[Individual Integration Circuit]]
-- [[Tribal Ego Circuit]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Throat]]
+- [[Sacral]]
+- [[Solar Plexus]]
+- [[Heart]]
+- Quarter of Civilization
+- Individual Integration Circuit
+- Tribal Ego Circuit
 
 ---
 

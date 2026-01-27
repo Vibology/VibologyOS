@@ -110,11 +110,11 @@ Venus's influence colors this with grace: the meaning-making is offered as gift,
 - [[RAX of Consciousness 4]] (Quarter of Mutation)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Head Center]]
-- [[Throat Center]]
-- [[Sacral Center]]
-- [[Quarter of Duality]]
+- [[Incarnation Crosses]]
+- [[Head]]
+- [[Throat]]
+- [[Sacral]]
+- Quarter of Duality
 
 ---
 

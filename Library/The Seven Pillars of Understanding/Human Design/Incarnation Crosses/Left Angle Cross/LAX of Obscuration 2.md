@@ -112,19 +112,19 @@ The "details about absolute laws" Ra mentions are the specific articulations (Ga
 
 ### Related Crosses
 - [[LAX of Obscuration 1]] (Quarter of Civilization)
-- [[RAX of Maya 2]] (Related theme of illusion/clarity)
+- RAX of the Maya 2 (Related theme of illusion/clarity)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Crosses - Trans-Personal Destiny]]
-- [[Head Center]]
-- [[Throat Center]]
-- [[Spleen Center]]
-- [[Sacral Center]]
-- [[Quarter of Mutation]]
-- [[Individual Knowing Circuit]]
-- [[Collective Logic Circuit]]
-- [[Tribal Defense Circuit]]
+- [[Incarnation Crosses]]
+- Left Angle Crosses - Trans-Personal Destiny
+- [[Head]]
+- [[Throat]]
+- [[Spleen]]
+- [[Sacral]]
+- Quarter of Mutation
+- Individual Knowing Circuit
+- Collective Logic Circuit
+- Tribal Defense Circuit
 
 ---
 

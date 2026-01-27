@@ -110,16 +110,16 @@ The blind spot—"everything except themselves"—is crucial wisdom. Correction 
 - [[Channel 18-58 - Judgment]]
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Spleen Center]]
-- [[Ajna Center]]
-- [[Root Center]]
-- [[Quarter of Duality]]
-- [[Collective Logic Circuit]]
-- [[Individual Knowing Circuit]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Spleen]]
+- [[Ajna]]
+- [[Root]]
+- Quarter of Duality
+- Collective Logic Circuit
+- Individual Knowing Circuit
 
 ---
 

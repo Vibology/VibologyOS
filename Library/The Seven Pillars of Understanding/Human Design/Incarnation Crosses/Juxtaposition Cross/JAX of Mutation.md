@@ -112,19 +112,19 @@ Ra emphasizes "unjust laws"—these individuals feel the wrong in structures, th
 - [[Channel 3-60 - Mutation]]
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Sacral Center]]
-- [[Spleen Center]]
-- [[Root Center]]
-- [[Throat Center]]
-- [[Quarter of Initiation]]
-- [[Individual Knowing Circuit]]
-- [[Tribal Defense Circuit]]
-- [[Collective Abstract Circuit]]
-- [[Collective Logic Circuit]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Sacral]]
+- [[Spleen]]
+- [[Root]]
+- [[Throat]]
+- Quarter of Initiation
+- Individual Knowing Circuit
+- Tribal Defense Circuit
+- Collective Abstract Circuit
+- Collective Logic Circuit
 
 ---
 

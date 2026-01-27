@@ -111,18 +111,18 @@ Ra emphasizes the paradox: habits enable change. The consistency creates a stabl
 - [[Channel 5-15 - Rhythm]]
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Sacral Center]]
-- [[Throat Center]]
-- [[Ajna Center]]
-- [[Solar Plexus Center]]
-- [[Quarter of Mutation]]
-- [[Collective Logic Circuit]]
-- [[Collective Abstract Circuit]]
-- [[Individual Knowing Circuit]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Sacral]]
+- [[Throat]]
+- [[Ajna]]
+- [[Solar Plexus]]
+- Quarter of Mutation
+- Collective Logic Circuit
+- Collective Abstract Circuit
+- Individual Knowing Circuit
 
 ---
 

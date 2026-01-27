@@ -108,11 +108,11 @@ The placement in Initiation suggests this is foundational consciousness work: be
 - [[RAX of Consciousness 4]] (Quarter of Mutation)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Head Center]]
-- [[Sacral Center]]
-- [[Throat Center]]
-- [[Quarter of Initiation]]
+- [[Incarnation Crosses]]
+- [[Head]]
+- [[Sacral]]
+- [[Throat]]
+- Quarter of Initiation
 
 ---
 

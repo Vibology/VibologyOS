@@ -110,18 +110,18 @@ The Quarter of Civilization asks: "What can be built? What form can this take?" 
 ### Related Crosses
 - [[LAX of Separation 2]] (Quarter of Mutation)
 - [[RAX of Consciousness 1]] (shares Gate 35)
-- [[JXC of Crisis]] (shares Gate 35)
+- [[JAX of Crisis]] (shares Gate 35)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Crosses - Trans-Personal Destiny]]
-- [[Solar Plexus Center]]
-- [[Throat Center]]
-- [[Sacral Center]]
-- [[Ajna Center]]
-- [[Quarter of Civilization]]
-- [[Collective Abstract Circuit]]
-- [[Individual Knowing Circuit]]
+- [[Incarnation Crosses]]
+- Left Angle Crosses - Trans-Personal Destiny
+- [[Solar Plexus]]
+- [[Throat]]
+- [[Sacral]]
+- [[Ajna]]
+- Quarter of Civilization
+- Collective Abstract Circuit
+- Individual Knowing Circuit
 
 ---
 

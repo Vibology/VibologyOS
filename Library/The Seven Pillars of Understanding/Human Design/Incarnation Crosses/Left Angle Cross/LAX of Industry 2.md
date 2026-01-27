@@ -110,21 +110,21 @@ The trans-personal karma of this cross is worked out through the bonds formed wi
 ### Related Crosses
 - [[LAX of Industry 1]] (Quarter of Initiation)
 - [[RAX of Contagion 3]] (Related 29/30 axis)
-- [[JXC of Charisma]] (Related 20/34 channel)
+- JAX of Charisma (Related 20/34 channel)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Cross - Trans-Personal Destiny]]
-- [[Sacral Center]]
-- [[Solar Plexus Center]]
-- [[Throat Center]]
-- [[Quarter of Duality]]
-- [[Collective Abstract Circuit]]
-- [[Integration Circuit]]
-- [[Profile 5/1]]
-- [[Profile 5/2]]
-- [[Profile 6/2]]
-- [[Profile 6/3]]
+- [[Incarnation Crosses]]
+- Left Angle Cross - Trans-Personal Destiny
+- [[Sacral]]
+- [[Solar Plexus]]
+- [[Throat]]
+- Quarter of Duality
+- Collective Abstract Circuit
+- Integration Circuit
+- 5/1 Profile
+- 5/2 Profile
+- 6/2 Profile
+- 6/3 Profile
 
 ---
 

@@ -110,16 +110,16 @@ Ra emphasizes the combination of self-interest and service—furthering ambition
 - [[Channel 16-48 - Wavelength]]
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Spleen Center]]
-- [[Heart Center]]
-- [[Root Center]]
-- [[Quarter of Duality]]
-- [[Collective Logic Circuit]]
-- [[Tribal Ego Circuit]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Spleen]]
+- [[Heart]]
+- [[Root]]
+- Quarter of Duality
+- Collective Logic Circuit
+- Tribal Ego Circuit
 
 ---
 

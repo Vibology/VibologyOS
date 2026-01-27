@@ -112,19 +112,19 @@ The "extraordinary discovery" Ra mentions emerges when the obscure details are p
 
 ### Related Crosses
 - [[LAX of Obscuration 2]] (Quarter of Mutation)
-- [[RAX of Maya 1]] (Related theme of illusion/clarity)
+- RAX of the Maya 1 (Related theme of illusion/clarity)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Crosses - Trans-Personal Destiny]]
-- [[Throat Center]]
-- [[Head Center]]
-- [[Sacral Center]]
-- [[Spleen Center]]
-- [[Quarter of Civilization]]
-- [[Collective Logic Circuit]]
-- [[Individual Knowing Circuit]]
-- [[Tribal Defense Circuit]]
+- [[Incarnation Crosses]]
+- Left Angle Crosses - Trans-Personal Destiny
+- [[Throat]]
+- [[Head]]
+- [[Sacral]]
+- [[Spleen]]
+- Quarter of Civilization
+- Collective Logic Circuit
+- Individual Knowing Circuit
+- Tribal Defense Circuit
 
 ---
 

@@ -108,9 +108,9 @@ The Eden (4) archetype poses the eternal question: "What can we learn from the f
 - [[RAX of Eden 3]] (Quarter of Duality)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Ajna Center]]
-- [[Quarter of Mutation]]
+- [[Incarnation Crosses]]
+- [[Ajna]]
+- Quarter of Mutation
 
 ---
 

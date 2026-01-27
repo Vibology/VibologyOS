@@ -111,18 +111,18 @@ Ra emphasizes "change what is known/accepted"—this is not knowledge accumulati
 - [[Channel 24-61 - Awareness]]
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Head Center]]
-- [[Throat Center]]
-- [[Spleen Center]]
-- [[Sacral Center]]
-- [[Quarter of Mutation]]
-- [[Individual Knowing Circuit]]
-- [[Collective Logic Circuit]]
-- [[Tribal Defense Circuit]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Head]]
+- [[Throat]]
+- [[Spleen]]
+- [[Sacral]]
+- Quarter of Mutation
+- Individual Knowing Circuit
+- Collective Logic Circuit
+- Tribal Defense Circuit
 
 ---
 

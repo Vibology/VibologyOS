@@ -108,11 +108,11 @@ The mutative quality demands that transformation serve something beyond the self
 - [[RAX of the Sleeping Phoenix 3]] (Quarter of Duality)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Sacral Center]]
-- [[Throat Center]]
-- [[Solar Plexus Center]]
-- [[Quarter of Mutation]]
+- [[Incarnation Crosses]]
+- [[Sacral]]
+- [[Throat]]
+- [[Solar Plexus]]
+- Quarter of Mutation
 
 ---
 

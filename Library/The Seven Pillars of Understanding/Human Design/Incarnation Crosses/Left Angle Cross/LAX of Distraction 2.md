@@ -115,16 +115,16 @@ The "art form" Ra mentions distinguishes this from mere entertainment—this is 
 - [[RAX of Laws 2]] (Related Gate 60 theme)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Crosses - Trans-Personal Destiny]]
-- [[Root Center]]
-- [[Throat Center]]
-- [[Spleen Center]]
-- [[Sacral Center]]
-- [[Quarter of Mutation]]
-- [[Individual Knowing Circuit]]
-- [[Collective Abstract Circuit]]
-- [[Tribal Defense Circuit]]
+- [[Incarnation Crosses]]
+- Left Angle Crosses - Trans-Personal Destiny
+- [[Root]]
+- [[Throat]]
+- [[Spleen]]
+- [[Sacral]]
+- Quarter of Mutation
+- Individual Knowing Circuit
+- Collective Abstract Circuit
+- Tribal Defense Circuit
 
 ---
 

@@ -108,11 +108,11 @@ The question posed: "How does one choose whom to bond with?" The answer: through
 - [[RAX of Penetration 4]] (Quarter of Mutation)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Spleen Center]]
-- [[Heart Center]]
-- [[Root Center]]
-- [[Quarter of Duality]]
+- [[Incarnation Crosses]]
+- [[Spleen]]
+- [[Heart]]
+- [[Root]]
+- Quarter of Duality
 
 ---
 

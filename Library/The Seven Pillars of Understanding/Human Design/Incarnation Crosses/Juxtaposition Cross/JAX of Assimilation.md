@@ -110,17 +110,17 @@ Ra emphasizes "repeating"—the insight may need to be stated many ways, many ti
 - [[Channel 23-43 - Structuring]]
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Throat Center]]
-- [[Ajna Center]]
-- [[Solar Plexus Center]]
-- [[Sacral Center]]
-- [[Quarter of Civilization]]
-- [[Individual Knowing Circuit]]
-- [[Collective Abstract Circuit]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Throat]]
+- [[Ajna]]
+- [[Solar Plexus]]
+- [[Sacral]]
+- Quarter of Civilization
+- Individual Knowing Circuit
+- Collective Abstract Circuit
 
 ---
 

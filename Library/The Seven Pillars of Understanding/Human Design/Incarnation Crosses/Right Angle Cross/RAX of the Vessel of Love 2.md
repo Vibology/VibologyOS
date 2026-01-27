@@ -108,9 +108,9 @@ The Vessel of Love (2) archetype poses the eternal question: "How do we love hum
 - [[RAX of the Vessel of Love 4]] (Quarter of Mutation)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
+- [[Incarnation Crosses]]
 - [[G Center]]
-- [[Quarter of Civilization]]
+- Quarter of Civilization
 
 ---
 

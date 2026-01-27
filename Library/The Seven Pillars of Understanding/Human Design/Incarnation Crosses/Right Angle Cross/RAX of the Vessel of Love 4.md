@@ -108,9 +108,9 @@ The Vessel of Love (4) archetype poses the eternal question: "How do we change t
 - [[RAX of the Vessel of Love 3]] (Quarter of Duality)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
+- [[Incarnation Crosses]]
 - [[G Center]]
-- [[Quarter of Mutation]]
+- Quarter of Mutation
 
 ---
 

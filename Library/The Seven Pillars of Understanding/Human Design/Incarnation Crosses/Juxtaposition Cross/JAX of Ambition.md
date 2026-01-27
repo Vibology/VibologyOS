@@ -108,21 +108,21 @@ Ra identifies "fear of failure" not as weakness but as design. These individuals
 
 ### Related Crosses
 - [[RAX of Penetration 3]] (Related Gate 54 cross)
-- [[Channel 54-32 - Transformation]]
-- [[Channel 53-42 - Maturation]]
+- Channel 54-32 - Transformation
+- Channel 53-42 - Maturation
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Root Center]]
-- [[Spleen Center]]
-- [[Sacral Center]]
-- [[Quarter of Mutation]]
-- [[Tribal Ego Circuit]]
-- [[Collective Logic Circuit]]
-- [[Collective Abstract Circuit]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Root]]
+- [[Spleen]]
+- [[Sacral]]
+- Quarter of Mutation
+- Tribal Ego Circuit
+- Collective Logic Circuit
+- Collective Abstract Circuit
 
 ---
 

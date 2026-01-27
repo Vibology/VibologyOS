@@ -111,17 +111,17 @@ The Quarter of Mutation asks: "What needs to change? What can be transformed?" F
 ### Related Crosses
 - [[LAX of Identification 1]] (Quarter of Civilization)
 - [[RAX of Planning 2]] (shares Gate 9)
-- [[JXC of Experimentation]] (shares Gate 9)
+- [[JAX of Experimentation]] (shares Gate 9)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Crosses - Trans-Personal Destiny]]
-- [[Head Center]]
-- [[Throat Center]]
-- [[Sacral Center]]
-- [[Quarter of Mutation]]
-- [[Collective Logic Circuit]]
-- [[Collective Abstract Circuit]]
+- [[Incarnation Crosses]]
+- Left Angle Crosses - Trans-Personal Destiny
+- [[Head]]
+- [[Throat]]
+- [[Sacral]]
+- Quarter of Mutation
+- Collective Logic Circuit
+- Collective Abstract Circuit
 
 ---
 

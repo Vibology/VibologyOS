@@ -110,12 +110,12 @@ Jupiter's expansive influence amplifies the scope: these rulers build large, gat
 - [[RAX of Rulership 4]] (Quarter of Mutation)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Throat Center]]
-- [[Heart Center]]
-- [[Solar Plexus Center]]
-- [[Ajna Center]]
-- [[Quarter of Civilization]]
+- [[Incarnation Crosses]]
+- [[Throat]]
+- [[Heart]]
+- [[Solar Plexus]]
+- [[Ajna]]
+- Quarter of Civilization
 
 ---
 

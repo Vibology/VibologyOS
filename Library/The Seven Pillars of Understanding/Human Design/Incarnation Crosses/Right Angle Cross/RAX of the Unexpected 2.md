@@ -108,12 +108,12 @@ The Civilization context asks: "What unexpected leaders must emerge to give form
 - [[RAX of the Unexpected 4]] (Quarter of Mutation)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Throat Center]]
-- [[Root Center]]
-- [[Sacral Center]]
-- [[Spleen Center]]
-- [[Quarter of Civilization]]
+- [[Incarnation Crosses]]
+- [[Throat]]
+- [[Root]]
+- [[Sacral]]
+- [[Spleen]]
+- Quarter of Civilization
 
 ---
 

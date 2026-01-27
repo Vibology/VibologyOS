@@ -115,16 +115,16 @@ The "drawing attention" Ra mentions is not self-aggrandizement but **trans-perso
 - [[RAX of Laws 1]] (Related Gate 56 theme)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Crosses - Trans-Personal Destiny]]
-- [[Throat Center]]
-- [[Root Center]]
-- [[Sacral Center]]
-- [[Spleen Center]]
-- [[Quarter of Civilization]]
-- [[Collective Abstract Circuit]]
-- [[Individual Knowing Circuit]]
-- [[Tribal Defense Circuit]]
+- [[Incarnation Crosses]]
+- Left Angle Crosses - Trans-Personal Destiny
+- [[Throat]]
+- [[Root]]
+- [[Sacral]]
+- [[Spleen]]
+- Quarter of Civilization
+- Collective Abstract Circuit
+- Individual Knowing Circuit
+- Tribal Defense Circuit
 
 ---
 

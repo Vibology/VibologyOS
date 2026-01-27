@@ -108,9 +108,9 @@ The Sphinx (3) poses the eternal question: "What gives one the right to lead?" T
 - [[RAX of the Sphinx 4]] (Quarter of Mutation)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
+- [[Incarnation Crosses]]
 - [[G Center]]
-- [[Quarter of Duality]]
+- Quarter of Duality
 
 ---
 

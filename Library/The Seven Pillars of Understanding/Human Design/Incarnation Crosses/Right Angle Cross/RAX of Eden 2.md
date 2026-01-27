@@ -108,9 +108,9 @@ The Eden (2) archetype poses the eternal question: "How do we make suffering mea
 - [[RAX of Eden 4]] (Quarter of Mutation)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Throat Center]]
-- [[Quarter of Civilization]]
+- [[Incarnation Crosses]]
+- [[Throat]]
+- Quarter of Civilization
 
 ---
 

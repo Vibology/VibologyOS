@@ -116,14 +116,14 @@ Profiles 5/1, 5/2, 6/2, and 6/3 carry this cross, each bringing their unique tra
 - [[RAX of Tension 2]] (shares Gate 38)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Crosses - Trans-Personal Destiny]]
-- [[Root Center]]
-- [[Heart (Ego) Center]]
-- [[Spleen Center]]
-- [[Quarter of Civilization]]
-- [[Individual Knowing Circuit]]
-- [[Individual Centering Circuit]]
+- [[Incarnation Crosses]]
+- Left Angle Crosses - Trans-Personal Destiny
+- [[Root]]
+- [[Heart]]
+- [[Spleen]]
+- Quarter of Civilization
+- Individual Knowing Circuit
+- Individual Centering Circuit
 
 ---
 

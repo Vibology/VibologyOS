@@ -110,11 +110,11 @@ Jupiter's expansive influence fits perfectly: these are individuals who expand c
 - [[RAX of Consciousness 4]] (Quarter of Mutation)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Throat Center]]
-- [[Sacral Center]]
-- [[Head Center]]
-- [[Quarter of Civilization]]
+- [[Incarnation Crosses]]
+- [[Throat]]
+- [[Sacral]]
+- [[Head]]
+- Quarter of Civilization
 
 ---
 

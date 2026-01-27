@@ -111,18 +111,18 @@ The Quarter of Mutation asks: "What needs to change? What can be transformed?" F
 ### Related Crosses
 - [[LAX of Separation 1]] (Quarter of Civilization)
 - [[RAX of Consciousness 2]] (shares Gate 5)
-- [[JXC of Crisis]] (shares Gate 5)
+- [[JAX of Crisis]] (shares Gate 5)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Crosses - Trans-Personal Destiny]]
-- [[Solar Plexus Center]]
-- [[Throat Center]]
-- [[Sacral Center]]
-- [[Ajna Center]]
-- [[Quarter of Mutation]]
-- [[Collective Abstract Circuit]]
-- [[Individual Knowing Circuit]]
+- [[Incarnation Crosses]]
+- Left Angle Crosses - Trans-Personal Destiny
+- [[Solar Plexus]]
+- [[Throat]]
+- [[Sacral]]
+- [[Ajna]]
+- Quarter of Mutation
+- Collective Abstract Circuit
+- Individual Knowing Circuit
 
 ---
 

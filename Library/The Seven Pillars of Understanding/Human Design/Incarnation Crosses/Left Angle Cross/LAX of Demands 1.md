@@ -116,14 +116,14 @@ Profiles 5/1, 5/2, 6/2, and 6/3 carry this cross, each bringing their unique tra
 - [[RAX of Service 2]] (shares Gate 58)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Crosses - Trans-Personal Destiny]]
-- [[Root Center]]
-- [[Heart (Ego) Center]]
-- [[Spleen Center]]
-- [[Quarter of Civilization]]
-- [[Collective Logic Circuit]]
-- [[Tribal Ego Circuit]]
+- [[Incarnation Crosses]]
+- Left Angle Crosses - Trans-Personal Destiny
+- [[Root]]
+- [[Heart]]
+- [[Spleen]]
+- Quarter of Civilization
+- Collective Logic Circuit
+- Tribal Ego Circuit
 
 ---
 

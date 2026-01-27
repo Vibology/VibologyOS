@@ -108,14 +108,14 @@ Gate 48's well of understanding is applied to **partnership and connection**. Th
 - [[RAX of Tension 4]] (Quarter of Mutation)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Spleen Center]]
-- [[Heart Center]]
-- [[Root Center]]
-- [[Quarter of Duality]]
-- [[Collective Logic Circuit]]
-- [[Tribal Ego Circuit]]
-- [[Individual Knowing Circuit]]
+- [[Incarnation Crosses]]
+- [[Spleen]]
+- [[Heart]]
+- [[Root]]
+- Quarter of Duality
+- Collective Logic Circuit
+- Tribal Ego Circuit
+- Individual Knowing Circuit
 
 ---
 

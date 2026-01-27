@@ -111,11 +111,11 @@ The itinerant quality suggests one who travels—not geographically, but concept
 - [[RAX of Explanation 4]] (Quarter of Mutation)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Solar Plexus Center]]
-- [[Ajna Center]]
-- [[Throat Center]]
-- [[Quarter of Initiation]]
+- [[Incarnation Crosses]]
+- [[Solar Plexus]]
+- [[Ajna]]
+- [[Throat]]
+- Quarter of Initiation
 
 ---
 

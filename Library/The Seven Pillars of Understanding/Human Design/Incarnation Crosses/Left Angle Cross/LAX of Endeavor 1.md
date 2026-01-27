@@ -111,18 +111,18 @@ The endeavors Ra describes—"communal, business, or scientific structures"—al
 
 ### Related Crosses
 - [[LAX of Endeavor 2]] (Quarter of Duality)
-- [[Channel 21-45 - The Money Line]]
+- [[Channel 21-45 - Money]]
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Crosses - Trans-Personal Destiny]]
-- [[Heart (Ego) Center]]
-- [[Spleen Center]]
-- [[Root Center]]
-- [[Quarter of Initiation]]
-- [[Tribal Ego Circuit]]
-- [[Collective Understanding Circuit]]
-- [[Collective Sensing Circuit]]
+- [[Incarnation Crosses]]
+- Left Angle Crosses - Trans-Personal Destiny
+- [[Heart]]
+- [[Spleen]]
+- [[Root]]
+- Quarter of Initiation
+- Tribal Ego Circuit
+- Collective Understanding Circuit
+- Collective Sensing Circuit
 
 ---
 

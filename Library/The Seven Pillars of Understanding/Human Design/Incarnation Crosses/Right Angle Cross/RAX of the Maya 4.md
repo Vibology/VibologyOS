@@ -108,12 +108,12 @@ The question posed: "How does one think about the unknowable without going mad?"
 - [[RAX of the Maya 3]] (Quarter of Duality)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Head Center]]
-- [[Throat Center]]
-- [[Spleen Center]]
-- [[Sacral Center]]
-- [[Quarter of Mutation]]
+- [[Incarnation Crosses]]
+- [[Head]]
+- [[Throat]]
+- [[Spleen]]
+- [[Sacral]]
+- Quarter of Mutation
 
 ---
 

@@ -107,19 +107,19 @@ The intimate dimension (Gate 59) is essential. These individuals need to dissolv
 
 ### Related Crosses
 - [[RAX of Contagion 2]] (Related Gate 8 cross)
-- [[Channel 8-1 - Inspiration]]
+- Channel 8-1 - Inspiration
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Throat Center]]
-- [[Sacral Center]]
-- [[Solar Plexus Center]]
-- [[Quarter of Civilization]]
-- [[Individual Knowing Circuit]]
-- [[Tribal Defense Circuit]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Throat]]
+- [[Sacral]]
+- [[Solar Plexus]]
+- Quarter of Civilization
+- Individual Knowing Circuit
+- Tribal Defense Circuit
 
 ---
 

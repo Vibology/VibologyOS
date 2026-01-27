@@ -111,18 +111,18 @@ Ra describes them as "warm-hearted"—this is not manipulative deal-making but g
 - [[Channel 37-40 - Community]]
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Solar Plexus Center]]
-- [[Heart Center]]
-- [[Sacral Center]]
-- [[Throat Center]]
-- [[Quarter of Initiation]]
-- [[Tribal Ego Circuit]]
-- [[Collective Logic Circuit]]
-- [[Collective Abstract Circuit]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Solar Plexus]]
+- [[Heart]]
+- [[Sacral]]
+- [[Throat]]
+- Quarter of Initiation
+- Tribal Ego Circuit
+- Collective Logic Circuit
+- Collective Abstract Circuit
 
 ---
 

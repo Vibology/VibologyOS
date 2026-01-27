@@ -111,16 +111,16 @@ Ra's keynote emphasizes "wanting to bring progress, development, and change to t
 - [[RAX of Planning 2]] (Related tribal theme)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Crosses - Trans-Personal Destiny]]
-- [[Heart (Ego) Center]]
-- [[Solar Plexus Center]]
-- [[Throat Center]]
-- [[Sacral Center]]
-- [[Quarter of Duality]]
-- [[Tribal Ego Circuit]]
-- [[Collective Abstract Circuit]]
-- [[Collective Logic Circuit]]
+- [[Incarnation Crosses]]
+- Left Angle Crosses - Trans-Personal Destiny
+- [[Heart]]
+- [[Solar Plexus]]
+- [[Throat]]
+- [[Sacral]]
+- Quarter of Duality
+- Tribal Ego Circuit
+- Collective Abstract Circuit
+- Collective Logic Circuit
 
 ---
 

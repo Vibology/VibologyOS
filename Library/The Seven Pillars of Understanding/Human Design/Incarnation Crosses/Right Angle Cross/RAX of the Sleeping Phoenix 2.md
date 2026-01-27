@@ -108,11 +108,11 @@ The civilizing quality demands that transformation serve collective building. Th
 - [[RAX of the Sleeping Phoenix 4]] (Quarter of Mutation)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Throat Center]]
-- [[Sacral Center]]
-- [[Solar Plexus Center]]
-- [[Quarter of Civilization]]
+- [[Incarnation Crosses]]
+- [[Throat]]
+- [[Sacral]]
+- [[Solar Plexus]]
+- Quarter of Civilization
 
 ---
 

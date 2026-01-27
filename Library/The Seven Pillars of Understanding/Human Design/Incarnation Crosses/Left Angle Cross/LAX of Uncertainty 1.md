@@ -109,15 +109,15 @@ The teaching is clear: uncertainty requires both right spirit and right resource
 - [[RAX of Contagion 1]] (Related Gate 8 cross)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Crosses]]
-- [[Trans-Personal Destiny]]
-- [[Throat Center]]
-- [[Sacral Center]]
-- [[Solar Plexus Center]]
-- [[Quarter of Civilization]]
-- [[Individual Knowing Circuit]]
-- [[Tribal Defense Circuit]]
+- [[Incarnation Crosses]]
+- Left Angle Crosses
+- Trans-Personal Destiny
+- [[Throat]]
+- [[Sacral]]
+- [[Solar Plexus]]
+- Quarter of Civilization
+- Individual Knowing Circuit
+- Tribal Defense Circuit
 
 ---
 

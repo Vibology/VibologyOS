@@ -108,14 +108,14 @@ Gate 39's provocation is oriented toward **leadership and purpose**. The obstruc
 - [[RAX of Tension 4]] (Quarter of Mutation)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Root Center]]
-- [[Heart Center]]
-- [[Spleen Center]]
-- [[Quarter of Civilization]]
-- [[Individual Knowing Circuit]]
-- [[Tribal Ego Circuit]]
-- [[Collective Logic Circuit]]
+- [[Incarnation Crosses]]
+- [[Root]]
+- [[Heart]]
+- [[Spleen]]
+- Quarter of Civilization
+- Individual Knowing Circuit
+- Tribal Ego Circuit
+- Collective Logic Circuit
 
 ---
 

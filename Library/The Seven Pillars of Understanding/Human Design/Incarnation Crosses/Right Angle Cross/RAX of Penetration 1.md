@@ -108,11 +108,11 @@ The question posed: "What breaks through?" The answer: intuitive truth delivered
 - [[RAX of Penetration 4]] (Quarter of Mutation)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Heart Center]]
-- [[Spleen Center]]
-- [[Root Center]]
-- [[Quarter of Initiation]]
+- [[Incarnation Crosses]]
+- [[Heart]]
+- [[Spleen]]
+- [[Root]]
+- Quarter of Initiation
 
 ---
 

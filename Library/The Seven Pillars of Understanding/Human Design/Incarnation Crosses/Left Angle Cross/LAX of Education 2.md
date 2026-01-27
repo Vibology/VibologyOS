@@ -111,18 +111,18 @@ The Quarter of Mutation asks: "What needs to change? What can be transformed?" F
 ### Related Crosses
 - [[LAX of Education 1]] (Quarter of Civilization)
 - [[RAX of Eden 2]] (shares Gate 11)
-- [[JXC of the Vessel of Love]] (shares Gate 46)
+- JAX of the Vessel of Love (shares Gate 46)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Crosses - Trans-Personal Destiny]]
+- [[Incarnation Crosses]]
+- Left Angle Crosses - Trans-Personal Destiny
 - [[G Center]]
-- [[Throat Center]]
-- [[Ajna Center]]
-- [[Quarter of Mutation]]
-- [[Individual Knowing Circuit]]
-- [[Individual Centering Circuit]]
-- [[Collective Logic Circuit]]
+- [[Throat]]
+- [[Ajna]]
+- Quarter of Mutation
+- Individual Knowing Circuit
+- Individual Centering Circuit
+- Collective Logic Circuit
 
 ---
 

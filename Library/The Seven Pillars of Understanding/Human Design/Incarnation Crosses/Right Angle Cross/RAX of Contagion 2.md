@@ -110,13 +110,13 @@ The contagion here spreads through the example of what has been constructed. Oth
 - [[RAX of Contagion 4]] (Quarter of Mutation)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Throat Center]]
-- [[Sacral Center]]
-- [[Solar Plexus Center]]
-- [[Quarter of Civilization]]
-- [[Individual Knowing Circuit]]
-- [[Collective Abstract Circuit]]
+- [[Incarnation Crosses]]
+- [[Throat]]
+- [[Sacral]]
+- [[Solar Plexus]]
+- Quarter of Civilization
+- Individual Knowing Circuit
+- Collective Abstract Circuit
 
 ---
 

@@ -111,16 +111,16 @@ The purpose is not to win arguments but to "provoke you to expose/examine your s
 - [[Channel 18-58 - Judgment]]
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Ajna Center]]
-- [[Spleen Center]]
-- [[Root Center]]
-- [[Quarter of Initiation]]
-- [[Collective Logic Circuit]]
-- [[Individual Knowing Circuit]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Ajna]]
+- [[Spleen]]
+- [[Root]]
+- Quarter of Initiation
+- Collective Logic Circuit
+- Individual Knowing Circuit
 
 ---
 

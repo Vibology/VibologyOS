@@ -112,17 +112,17 @@ The Channel 1-2 (Keeper of the Keys) forms between Personality Sun and Earth—t
 - [[Channel 1-8 - Inspiration]]
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
 - [[G Center]]
-- [[Solar Plexus Center]]
-- [[Ajna Center]]
-- [[Quarter of Civilization]]
-- [[Individual Knowing Circuit]]
-- [[Tribal Ego Circuit]]
-- [[Collective Logic Circuit]]
+- [[Solar Plexus]]
+- [[Ajna]]
+- Quarter of Civilization
+- Individual Knowing Circuit
+- Tribal Ego Circuit
+- Collective Logic Circuit
 
 ---
 

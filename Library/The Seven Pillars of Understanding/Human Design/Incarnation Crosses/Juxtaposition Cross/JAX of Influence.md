@@ -112,19 +112,19 @@ Ra emphasizes the intentionality—these individuals deliberately use their capa
 - [[Channel 7-31 - The Alpha]]
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Throat Center]]
-- [[Root Center]]
-- [[Ajna Center]]
-- [[Spleen Center]]
-- [[Quarter of Civilization]]
-- [[Collective Logic Circuit]]
-- [[Collective Abstract Circuit]]
-- [[Individual Knowing Circuit]]
-- [[Tribal Ego Circuit]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Throat]]
+- [[Root]]
+- [[Ajna]]
+- [[Spleen]]
+- Quarter of Civilization
+- Collective Logic Circuit
+- Collective Abstract Circuit
+- Individual Knowing Circuit
+- Tribal Ego Circuit
 
 ---
 

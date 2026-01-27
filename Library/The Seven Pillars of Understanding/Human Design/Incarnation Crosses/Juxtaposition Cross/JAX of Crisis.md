@@ -112,17 +112,17 @@ The "love for themselves and humanity" is crucial. Without self-love (Gate 10), 
 - [[Channel 6-59 - Intimacy]]
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Solar Plexus Center]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Solar Plexus]]
 - [[G Center]]
-- [[Quarter of Initiation]]
-- [[Collective Abstract Circuit]]
-- [[Tribal Defense Circuit]]
-- [[Individual Integration Circuit]]
-- [[Collective Logic Circuit]]
+- Quarter of Initiation
+- Collective Abstract Circuit
+- Tribal Defense Circuit
+- Individual Integration Circuit
+- Collective Logic Circuit
 
 ---
 

@@ -110,12 +110,12 @@ Hades' influence gives this cross power: the promise of a better tomorrow carrie
 - [[RAX of Rulership 3]] (Quarter of Duality)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Heart Center]]
-- [[Throat Center]]
-- [[Ajna Center]]
-- [[Solar Plexus Center]]
-- [[Quarter of Mutation]]
+- [[Incarnation Crosses]]
+- [[Heart]]
+- [[Throat]]
+- [[Ajna]]
+- [[Solar Plexus]]
+- Quarter of Mutation
 
 ---
 

@@ -112,18 +112,18 @@ Ra identifies them as "bright, intellectual but incredibly fixed"—the returnin
 - [[Channel 24-61 - Awareness]]
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Ajna Center]]
-- [[Spleen Center]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Ajna]]
+- [[Spleen]]
 - [[G Center]]
-- [[Quarter of Initiation]]
-- [[Individual Knowing Circuit]]
-- [[Tribal Ego Circuit]]
-- [[Collective Abstract Circuit]]
-- [[Collective Logic Circuit]]
+- Quarter of Initiation
+- Individual Knowing Circuit
+- Tribal Ego Circuit
+- Collective Abstract Circuit
+- Collective Logic Circuit
 
 ---
 

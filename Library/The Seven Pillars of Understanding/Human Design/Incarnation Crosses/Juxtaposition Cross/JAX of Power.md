@@ -111,17 +111,17 @@ The "busyness" Ra mentions is characteristic of this cross. Power in service cre
 - [[Channel 37-40 - Community]]
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Sacral Center]]
-- [[Throat Center]]
-- [[Heart Center]]
-- [[Solar Plexus Center]]
-- [[Quarter of Mutation]]
-- [[Individual Integration Circuit]]
-- [[Tribal Ego Circuit]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Sacral]]
+- [[Throat]]
+- [[Heart]]
+- [[Solar Plexus]]
+- Quarter of Mutation
+- Individual Integration Circuit
+- Tribal Ego Circuit
 
 ---
 

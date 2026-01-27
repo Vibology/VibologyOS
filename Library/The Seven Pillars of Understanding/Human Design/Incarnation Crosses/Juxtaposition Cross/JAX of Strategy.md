@@ -111,17 +111,17 @@ The spiritual dimension (Gate 55) elevates the strategy beyond mere connecting. 
 - [[Channel 6-59 - Intimacy]]
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Sacral Center]]
-- [[Solar Plexus Center]]
-- [[Throat Center]]
-- [[Quarter of Duality]]
-- [[Tribal Defense Circuit]]
-- [[Individual Knowing Circuit]]
-- [[Collective Logic Circuit]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Sacral]]
+- [[Solar Plexus]]
+- [[Throat]]
+- Quarter of Duality
+- Tribal Defense Circuit
+- Individual Knowing Circuit
+- Collective Logic Circuit
 
 ---
 

@@ -115,15 +115,15 @@ The "beauty that heals" Ra mentions distinguishes this from mere decoration—th
 - [[RAX of the Four Ways 1]] (Related Gate 2/1 theme)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Crosses - Trans-Personal Destiny]]
-- [[Throat Center]]
-- [[Root Center]]
+- [[Incarnation Crosses]]
+- Left Angle Crosses - Trans-Personal Destiny
+- [[Throat]]
+- [[Root]]
 - [[G Center]]
-- [[Quarter of Civilization]]
-- [[Collective Abstract Circuit]]
-- [[Tribal Ego Circuit]]
-- [[Individual Knowing Circuit]]
+- Quarter of Civilization
+- Collective Abstract Circuit
+- Tribal Ego Circuit
+- Individual Knowing Circuit
 
 ---
 

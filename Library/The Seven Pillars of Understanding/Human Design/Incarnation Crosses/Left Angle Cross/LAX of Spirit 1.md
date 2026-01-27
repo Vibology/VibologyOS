@@ -111,22 +111,22 @@ The trans-personal nature means these pleasures are shared. The Spirit does not 
 ### Related Crosses
 - [[LAX of Spirit 2]] (Quarter of Duality)
 - [[RAX of Penetration 1]] (Related 55/59 axis)
-- [[JXC of The Wavelength]] (Related 9/16 channel)
+- JAX of The Wavelength (Related 9/16 channel)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Cross - Trans-Personal Destiny]]
-- [[Solar Plexus Center]]
-- [[Sacral Center]]
-- [[Throat Center]]
-- [[Quarter of Initiation]]
-- [[Individual Knowing Circuit]]
-- [[Tribal Defense Circuit]]
-- [[Collective Logic Circuit]]
-- [[Profile 5/1]]
-- [[Profile 5/2]]
-- [[Profile 6/2]]
-- [[Profile 6/3]]
+- [[Incarnation Crosses]]
+- Left Angle Cross - Trans-Personal Destiny
+- [[Solar Plexus]]
+- [[Sacral]]
+- [[Throat]]
+- Quarter of Initiation
+- Individual Knowing Circuit
+- Tribal Defense Circuit
+- Collective Logic Circuit
+- 5/1 Profile
+- 5/2 Profile
+- 6/2 Profile
+- 6/3 Profile
 
 ---
 

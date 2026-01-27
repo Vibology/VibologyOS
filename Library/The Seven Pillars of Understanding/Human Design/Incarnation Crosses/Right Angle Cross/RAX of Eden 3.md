@@ -108,9 +108,9 @@ The Eden (3) archetype poses the eternal question: "Can love survive the truth?"
 - [[RAX of Eden 4]] (Quarter of Mutation)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Solar Plexus Center]]
-- [[Quarter of Duality]]
+- [[Incarnation Crosses]]
+- [[Solar Plexus]]
+- Quarter of Duality
 
 ---
 

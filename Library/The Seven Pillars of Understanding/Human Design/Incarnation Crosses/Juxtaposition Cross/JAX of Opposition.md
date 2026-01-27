@@ -111,16 +111,16 @@ The "adrenalized energy" comes from both Root gates (38/39). These individuals a
 - [[Channel 25-51 - Initiation]]
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Root Center]]
-- [[Spleen Center]]
-- [[Heart Center]]
-- [[Quarter of Mutation]]
-- [[Individual Knowing Circuit]]
-- [[Individual Centering Circuit]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Root]]
+- [[Spleen]]
+- [[Heart]]
+- Quarter of Mutation
+- Individual Knowing Circuit
+- Individual Centering Circuit
 
 ---
 

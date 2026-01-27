@@ -112,12 +112,12 @@ The Four Ways (4) poses the eternal question: "What does it mean to truly provid
 - [[RAX of the Four Ways 3]] (Quarter of Duality)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Root Center]]
-- [[Throat Center]]
-- [[Spleen Center]]
-- [[Ajna Center]]
-- [[Quarter of Mutation]]
+- [[Incarnation Crosses]]
+- [[Root]]
+- [[Throat]]
+- [[Spleen]]
+- [[Ajna]]
+- Quarter of Mutation
 
 ---
 

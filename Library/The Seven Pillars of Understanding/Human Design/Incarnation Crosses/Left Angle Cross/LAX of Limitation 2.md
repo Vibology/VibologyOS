@@ -110,16 +110,16 @@ The 5/1, 5/2, 6/2, and 6/3 profiles associated with Left Angle Crosses bring the
 - [[RAX of the Maya 2]] (Related thematic: material assessment)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Spleen Center]]
-- [[Sacral Center]]
-- [[Throat Center]]
-- [[Root Center]]
-- [[Quarter of Duality]]
-- [[Tribal Ego Circuit]]
-- [[Collective Abstract Circuit]]
-- [[Individual Knowing Circuit]]
-- [[Left Angle Cross - Trans-Personal Destiny]]
+- [[Incarnation Crosses]]
+- [[Spleen]]
+- [[Sacral]]
+- [[Throat]]
+- [[Root]]
+- Quarter of Duality
+- Tribal Ego Circuit
+- Collective Abstract Circuit
+- Individual Knowing Circuit
+- Left Angle Cross - Trans-Personal Destiny
 
 ---
 

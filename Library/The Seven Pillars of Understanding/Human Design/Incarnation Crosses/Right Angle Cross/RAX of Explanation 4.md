@@ -111,11 +111,11 @@ The "root of understanding" quality suggests that this Explainer gets to the fou
 - [[RAX of Explanation 3]] (Quarter of Duality)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Ajna Center]]
-- [[Throat Center]]
-- [[Solar Plexus Center]]
-- [[Quarter of Mutation]]
+- [[Incarnation Crosses]]
+- [[Ajna]]
+- [[Throat]]
+- [[Solar Plexus]]
+- Quarter of Mutation
 
 ---
 

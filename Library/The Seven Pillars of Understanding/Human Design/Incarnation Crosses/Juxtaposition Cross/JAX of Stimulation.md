@@ -111,18 +111,18 @@ Ra emphasizes the risk-taking and the personal nature—"their own story." These
 - [[Channel 11-56 - The Searcher]]
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Throat Center]]
-- [[Root Center]]
-- [[Sacral Center]]
-- [[Spleen Center]]
-- [[Quarter of Civilization]]
-- [[Collective Abstract Circuit]]
-- [[Individual Knowing Circuit]]
-- [[Tribal Defense Circuit]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Throat]]
+- [[Root]]
+- [[Sacral]]
+- [[Spleen]]
+- Quarter of Civilization
+- Collective Abstract Circuit
+- Individual Knowing Circuit
+- Tribal Defense Circuit
 
 ---
 

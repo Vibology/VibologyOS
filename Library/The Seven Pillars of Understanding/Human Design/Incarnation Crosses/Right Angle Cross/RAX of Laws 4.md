@@ -108,12 +108,12 @@ The Mutation context asks: "What must be preserved even as everything transforms
 - [[RAX of Laws 3]] (Quarter of Duality)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Root Center]]
-- [[Throat Center]]
-- [[Spleen Center]]
-- [[Sacral Center]]
-- [[Quarter of Mutation]]
+- [[Incarnation Crosses]]
+- [[Root]]
+- [[Throat]]
+- [[Spleen]]
+- [[Sacral]]
+- Quarter of Mutation
 
 ---
 

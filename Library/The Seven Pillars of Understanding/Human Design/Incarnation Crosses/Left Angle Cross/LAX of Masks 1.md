@@ -110,22 +110,22 @@ The trans-personal nature means others are essential to the purpose. The Masks d
 ### Related Crosses
 - [[LAX of Masks 2]] (Quarter of Duality)
 - [[RAX of the Sphinx 1]] (Related 13/7 axis)
-- [[JXC of Experimentation]] (Related individual knowing gates)
+- [[JAX of Experimentation]] (Related individual knowing gates)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Cross - Trans-Personal Destiny]]
+- [[Incarnation Crosses]]
+- Left Angle Cross - Trans-Personal Destiny
 - [[G Center]]
-- [[Ajna Center]]
-- [[Throat Center]]
-- [[Quarter of Initiation]]
-- [[Collective Sharing Circuit]]
-- [[Collective Logic Circuit]]
-- [[Individual Knowing Circuit]]
-- [[Profile 5/1]]
-- [[Profile 5/2]]
-- [[Profile 6/2]]
-- [[Profile 6/3]]
+- [[Ajna]]
+- [[Throat]]
+- Quarter of Initiation
+- Collective Sharing Circuit
+- Collective Logic Circuit
+- Individual Knowing Circuit
+- 5/1 Profile
+- 5/2 Profile
+- 6/2 Profile
+- 6/3 Profile
 
 ---
 

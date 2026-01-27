@@ -111,17 +111,17 @@ The 5/1, 5/2, 6/2, and 6/3 profiles associated with Left Angle Crosses bring the
 - [[RAX of the Unexpected 2]] (Related thematic: transition and change)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Spleen Center]]
-- [[Sacral Center]]
-- [[Throat Center]]
-- [[Root Center]]
-- [[Quarter of Duality]]
-- [[Individual Knowing Circuit]]
-- [[Tribal Defense Circuit]]
-- [[Collective Abstract Circuit]]
-- [[Tribal Ego Circuit]]
-- [[Left Angle Cross - Trans-Personal Destiny]]
+- [[Incarnation Crosses]]
+- [[Spleen]]
+- [[Sacral]]
+- [[Throat]]
+- [[Root]]
+- Quarter of Duality
+- Individual Knowing Circuit
+- Tribal Defense Circuit
+- Collective Abstract Circuit
+- Tribal Ego Circuit
+- Left Angle Cross - Trans-Personal Destiny
 
 ---
 

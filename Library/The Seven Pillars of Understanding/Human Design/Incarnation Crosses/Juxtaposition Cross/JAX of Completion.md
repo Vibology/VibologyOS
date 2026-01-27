@@ -108,21 +108,21 @@ The storytelling dimension (Gate 56) ensures that completed journeys become tran
 
 ### Related Crosses
 - [[RAX of the Maya 1]] (Related Gate 42 cross)
-- [[Channel 53-42 - Maturation]]
+- Channel 53-42 - Maturation
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Sacral Center]]
-- [[Spleen Center]]
-- [[Root Center]]
-- [[Throat Center]]
-- [[Quarter of Initiation]]
-- [[Collective Abstract Circuit]]
-- [[Tribal Ego Circuit]]
-- [[Individual Knowing Circuit]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Sacral]]
+- [[Spleen]]
+- [[Root]]
+- [[Throat]]
+- Quarter of Initiation
+- Collective Abstract Circuit
+- Tribal Ego Circuit
+- Individual Knowing Circuit
 
 ---
 

@@ -111,18 +111,18 @@ Human rights emerges as a common theme because Gate 49's sensitivity to tribal b
 - [[LAX of Defiance 1]] (Related Gate 49 cross)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Solar Plexus Center]]
-- [[Ajna Center]]
-- [[Sacral Center]]
-- [[Throat Center]]
-- [[Quarter of Initiation]]
-- [[Tribal Ego Circuit]]
-- [[Collective Logic Circuit]]
-- [[Individual Knowing Circuit]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Solar Plexus]]
+- [[Ajna]]
+- [[Sacral]]
+- [[Throat]]
+- Quarter of Initiation
+- Tribal Ego Circuit
+- Collective Logic Circuit
+- Individual Knowing Circuit
 
 ---
 

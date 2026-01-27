@@ -110,11 +110,11 @@ Hades' influence gives this cross depth: consciousness here is not surface aware
 - [[RAX of Consciousness 3]] (Quarter of Duality)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Sacral Center]]
-- [[Throat Center]]
-- [[Head Center]]
-- [[Quarter of Mutation]]
+- [[Incarnation Crosses]]
+- [[Sacral]]
+- [[Throat]]
+- [[Head]]
+- Quarter of Mutation
 
 ---
 

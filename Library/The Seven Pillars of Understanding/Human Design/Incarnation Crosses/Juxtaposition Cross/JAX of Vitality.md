@@ -110,16 +110,16 @@ Ra emphasizes "controlling how and to whom"—this is not stingy but wise. Not e
 - [[Channel 18-58 - Judgment]]
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Root Center]]
-- [[Spleen Center]]
-- [[Heart Center]]
-- [[Quarter of Mutation]]
-- [[Collective Logic Circuit]]
-- [[Tribal Ego Circuit]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Root]]
+- [[Spleen]]
+- [[Heart]]
+- Quarter of Mutation
+- Collective Logic Circuit
+- Tribal Ego Circuit
 
 ---
 

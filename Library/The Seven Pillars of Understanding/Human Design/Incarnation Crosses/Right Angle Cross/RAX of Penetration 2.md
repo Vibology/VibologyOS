@@ -108,11 +108,11 @@ The question posed: "What begins civilization?" The answer: someone with the pre
 - [[RAX of Penetration 4]] (Quarter of Mutation)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Root Center]]
-- [[Heart Center]]
-- [[Spleen Center]]
-- [[Quarter of Civilization]]
+- [[Incarnation Crosses]]
+- [[Root]]
+- [[Heart]]
+- [[Spleen]]
+- Quarter of Civilization
 
 ---
 

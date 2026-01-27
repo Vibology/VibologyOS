@@ -111,17 +111,17 @@ Ra emphasizes "vocal inflection"—this is not about content alone but about the
 - [[Channel 12-22 - Openness]]
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Throat Center]]
-- [[Ajna Center]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Throat]]
+- [[Ajna]]
 - [[G Center]]
-- [[Quarter of Civilization]]
-- [[Individual Knowing Circuit]]
-- [[Collective Abstract Circuit]]
-- [[Individual Centering Circuit]]
+- Quarter of Civilization
+- Individual Knowing Circuit
+- Collective Abstract Circuit
+- Individual Centering Circuit
 
 ---
 

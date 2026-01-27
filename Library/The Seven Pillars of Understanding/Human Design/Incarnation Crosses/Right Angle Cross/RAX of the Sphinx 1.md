@@ -108,9 +108,9 @@ The Sphinx poses the eternal question: "What is the purpose of remembering?" The
 - [[RAX of the Sphinx 4]] (Quarter of Mutation)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
+- [[Incarnation Crosses]]
 - [[G Center]]
-- [[Quarter of Initiation]]
+- Quarter of Initiation
 
 ---
 

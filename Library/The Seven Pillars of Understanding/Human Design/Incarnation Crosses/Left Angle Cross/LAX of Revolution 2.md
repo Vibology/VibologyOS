@@ -110,23 +110,23 @@ The trans-personal karma of this cross is worked out through the bonds formed wi
 ### Related Crosses
 - [[LAX of Revolution 1]] (Quarter of Initiation)
 - [[RAX of Explanation 2]] (Related 4/49 axis)
-- [[JXC of Contribution]] (Related 8/14 channel)
+- [[JAX of Contribution]] (Related 8/14 channel)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Cross - Trans-Personal Destiny]]
-- [[Ajna Center]]
-- [[Solar Plexus Center]]
-- [[Throat Center]]
-- [[Sacral Center]]
-- [[Quarter of Duality]]
-- [[Collective Logic Circuit]]
-- [[Tribal Ego Circuit]]
-- [[Individual Knowing Circuit]]
-- [[Profile 5/1]]
-- [[Profile 5/2]]
-- [[Profile 6/2]]
-- [[Profile 6/3]]
+- [[Incarnation Crosses]]
+- Left Angle Cross - Trans-Personal Destiny
+- [[Ajna]]
+- [[Solar Plexus]]
+- [[Throat]]
+- [[Sacral]]
+- Quarter of Duality
+- Collective Logic Circuit
+- Tribal Ego Circuit
+- Individual Knowing Circuit
+- 5/1 Profile
+- 5/2 Profile
+- 6/2 Profile
+- 6/3 Profile
 
 ---
 

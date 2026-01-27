@@ -108,21 +108,21 @@ Ra emphasizes these individuals are "highly sought after"—their capacity to en
 
 ### Related Crosses
 - [[RAX of Penetration 1]] (Related Gate 53 cross)
-- [[Channel 53-42 - Maturation]]
-- [[Channel 54-32 - Transformation]]
+- Channel 53-42 - Maturation
+- Channel 54-32 - Transformation
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Juxtaposition Crosses]]
-- [[Fixed Fate]]
-- [[Profile 4-1 Opportunist Investigator]]
-- [[Root Center]]
-- [[Sacral Center]]
-- [[Spleen Center]]
-- [[Quarter of Civilization]]
-- [[Collective Logic Circuit]]
-- [[Tribal Ego Circuit]]
-- [[Collective Abstract Circuit]]
+- [[Incarnation Crosses]]
+- Juxtaposition Crosses
+- Fixed Fate
+- [[4-1 Opportunist Investigator]]
+- [[Root]]
+- [[Sacral]]
+- [[Spleen]]
+- Quarter of Civilization
+- Collective Logic Circuit
+- Tribal Ego Circuit
+- Collective Abstract Circuit
 
 ---
 

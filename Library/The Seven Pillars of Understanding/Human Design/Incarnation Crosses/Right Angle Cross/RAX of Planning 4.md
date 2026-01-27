@@ -108,12 +108,12 @@ The mutative quality demands that planning serve genuine change. Planning poses 
 - [[RAX of Planning 3]] (Quarter of Duality)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Sacral Center]]
-- [[Throat Center]]
-- [[Heart Center]]
-- [[Solar Plexus Center]]
-- [[Quarter of Mutation]]
+- [[Incarnation Crosses]]
+- [[Sacral]]
+- [[Throat]]
+- [[Heart]]
+- [[Solar Plexus]]
+- Quarter of Mutation
 
 ---
 

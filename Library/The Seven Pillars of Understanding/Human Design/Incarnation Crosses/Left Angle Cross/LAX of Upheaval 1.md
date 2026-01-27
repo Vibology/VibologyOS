@@ -112,14 +112,14 @@ The purpose of the upheaval is clear: "to redirect humanity in healthy direction
 - [[LAX of Upheaval 2]] (Quarter of Duality)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Crosses - Trans-Personal Destiny]]
-- [[Ajna Center]]
-- [[Spleen Center]]
-- [[Root Center]]
-- [[Quarter of Initiation]]
-- [[Collective Logic Circuit]]
-- [[Individual Knowing Circuit]]
+- [[Incarnation Crosses]]
+- Left Angle Crosses - Trans-Personal Destiny
+- [[Ajna]]
+- [[Spleen]]
+- [[Root]]
+- Quarter of Initiation
+- Collective Logic Circuit
+- Individual Knowing Circuit
 
 ---
 

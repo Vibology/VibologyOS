@@ -111,16 +111,16 @@ Society needs what they carry, but society's tendency to normalize threatens it.
 - [[RAX of the Sphinx 2]] (Related Gate 2 cross)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Crosses]]
-- [[Trans-Personal Destiny]]
+- [[Incarnation Crosses]]
+- Left Angle Crosses
+- Trans-Personal Destiny
 - [[G Center]]
-- [[Ajna Center]]
-- [[Solar Plexus Center]]
-- [[Quarter of Mutation]]
-- [[Individual Knowing Circuit]]
-- [[Collective Logic Circuit]]
-- [[Tribal Ego Circuit]]
+- [[Ajna]]
+- [[Solar Plexus]]
+- Quarter of Mutation
+- Individual Knowing Circuit
+- Collective Logic Circuit
+- Tribal Ego Circuit
 
 ---
 

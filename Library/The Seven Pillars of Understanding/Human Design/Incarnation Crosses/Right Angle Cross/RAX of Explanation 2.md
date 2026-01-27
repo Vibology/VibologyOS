@@ -110,11 +110,11 @@ The perpetual outsider quality suggests one who serves civilization precisely by
 - [[RAX of Explanation 4]] (Quarter of Mutation)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Throat Center]]
-- [[Ajna Center]]
-- [[Solar Plexus Center]]
-- [[Quarter of Civilization]]
+- [[Incarnation Crosses]]
+- [[Throat]]
+- [[Ajna]]
+- [[Solar Plexus]]
+- Quarter of Civilization
 
 ---
 

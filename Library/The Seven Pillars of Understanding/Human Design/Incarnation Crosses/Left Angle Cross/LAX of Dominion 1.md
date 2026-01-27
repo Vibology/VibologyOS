@@ -111,15 +111,15 @@ Ra's keynote reveals the shadow potential: "capable of creating doubt and confus
 - [[RAX of Consciousness 1]] (Related mental theme)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Crosses - Trans-Personal Destiny]]
-- [[Head Center]]
-- [[Heart (Ego) Center]]
-- [[Throat Center]]
-- [[Quarter of Initiation]]
-- [[Collective Logic Circuit]]
-- [[Collective Abstract Circuit]]
-- [[Tribal Ego Circuit]]
+- [[Incarnation Crosses]]
+- Left Angle Crosses - Trans-Personal Destiny
+- [[Head]]
+- [[Heart]]
+- [[Throat]]
+- Quarter of Initiation
+- Collective Logic Circuit
+- Collective Abstract Circuit
+- Tribal Ego Circuit
 
 ---
 

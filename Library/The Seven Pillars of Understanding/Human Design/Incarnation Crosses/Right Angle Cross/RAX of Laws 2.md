@@ -108,12 +108,12 @@ The Civilization context asks: "What stories must we tell to build enduring form
 - [[RAX of Laws 4]] (Quarter of Mutation)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Throat Center]]
-- [[Root Center]]
-- [[Sacral Center]]
-- [[Spleen Center]]
-- [[Quarter of Civilization]]
+- [[Incarnation Crosses]]
+- [[Throat]]
+- [[Root]]
+- [[Sacral]]
+- [[Spleen]]
+- Quarter of Civilization
 
 ---
 

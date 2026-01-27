@@ -111,15 +111,15 @@ Ra's keynote emphasizes "using information to assume positions of power or autho
 - [[RAX of Consciousness 2]] (Related mental theme)
 
 ### Related Concepts
-- [[Incarnation Crosses Overview]]
-- [[Left Angle Crosses - Trans-Personal Destiny]]
-- [[Head Center]]
-- [[Throat Center]]
-- [[Heart (Ego) Center]]
-- [[Quarter of Duality]]
-- [[Collective Abstract Circuit]]
-- [[Collective Logic Circuit]]
-- [[Tribal Ego Circuit]]
+- [[Incarnation Crosses]]
+- Left Angle Crosses - Trans-Personal Destiny
+- [[Head]]
+- [[Throat]]
+- [[Heart]]
+- Quarter of Duality
+- Collective Abstract Circuit
+- Collective Logic Circuit
+- Tribal Ego Circuit
 
 ---
 
