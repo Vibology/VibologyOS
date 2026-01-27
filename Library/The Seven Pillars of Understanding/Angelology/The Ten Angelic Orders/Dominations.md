@@ -613,30 +613,30 @@ To integrate the Dominations is to become the **inner king/queen**—the soverei
 ### Tarot Correspondences
 - [[The Emperor (IV)|The Emperor]] (IV) — Sovereign authority, structure, benevolent governance (Domination card)
 - [[The Hierophant (V)|The Hierophant]] (V) — Spiritual authority, tradition, the teacher-king
-- [[The Wheel of Fortune (X)|Wheel of Fortune]] (X) — Jupiter's card, expansion and cycles of fortune
+- [[Wheel of Fortune (X)]] (X) — Jupiter's card, expansion and cycles of fortune
 - [[Temperance (XIV)|Temperance]] (XIV) — Balance of mercy (Chesed) and severity (Geburah), the angel regulating flow
 
 ### I-Ching
-- [[Hexagram 26 - Ta Ch'u (Great Accumulating)]] — The sovereign who accumulates power to distribute blessing
-- [[Hexagram 14 - Ta Yu (Great Possession)]] — Abundance, sovereignty, the capacity to rule justly
+- Hexagram 26 - Ta Ch'u (Great Accumulating) — The sovereign who accumulates power to distribute blessing
+- Hexagram 14 - Ta Yu (Great Possession) — Abundance, sovereignty, the capacity to rule justly
 
 ### Jungian Psychology
-- [[The Sovereign]] — Archetypal king/queen, the ordering principle of the psyche
-- [[The Wise Father]] — The benevolent, expansive father (Chesed archetype)
-- [[Folklore/Jungian Archetypes/The Self]] — The center around which the psyche orbits (like the G-Center, like Domination sovereignty)
+- The Sovereign — Archetypal king/queen, the ordering principle of the psyche
+- The Wise Father — The benevolent, expansive father (Chesed archetype)
+- [[The Self]] — The center around which the psyche orbits (like the G-Center, like Domination sovereignty)
 - [[The Shadow|Shadow]] — The tyrannical sovereign, the inflated ego (Domination shadow)
 - [[Individuation Process|Individuation]] — The process of becoming sovereign over one's own life
 
 ### Mythological Parallels
 - [[Zeus]] (Greek) — King of the Olympians, sovereign of gods and mortals
 - [[Jupiter ♃]] (Roman) — Protector of the state, embodiment of sovereignty and good faith
-- [[Amun-Ra]] (Egyptian) — Hidden king, regulator of cosmic order
-- [[Indra]] (Hindu) — King of the devas, wielder of the vajra, commander of the heavens
+- Amun-Ra (Egyptian) — Hidden king, regulator of cosmic order
+- Indra (Hindu) — King of the devas, wielder of the vajra, commander of the heavens
 
 ### Cross-System Synthesis
-- [[Chesed and Jupiter - The Expansive Father]] (Potential synthesis) — Qabalah + Astrology integration
-- [[The G-Center as Throne - Sovereignty in Human Design]] (Potential synthesis) — HD + Angelology + Qabalah
-- [[Authority vs. Tyranny - The Domination Paradox]] (Potential synthesis) — Angelology + Jungian psychology + Astrology
+- Chesed and Jupiter - The Expansive Father (Potential synthesis) — Qabalah + Astrology integration
+- The G-Center as Throne - Sovereignty in Human Design (Potential synthesis) — HD + Angelology + Qabalah
+- Authority vs. Tyranny - The Domination Paradox (Potential synthesis) — Angelology + Jungian psychology + Astrology
 
 ---
 

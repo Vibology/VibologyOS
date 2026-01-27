@@ -747,11 +747,11 @@ This creates a **six-directional** sacred space—encompassing not just the hori
 | **System** | **Correspondence** |
 |------------|-------------------|
 | **Qabalah** | [[Malkuth]] (Kingdom, 10th Sephira, Earth, embodiment); Path 32 ([[The World (XXI)|The World]]); Divine Name: [[Adonai ha-Aretz]]; Angelic Choir: [[Ishim]] |
-| **Tarot** | [[The World (XXI)|The World]] (XXI) — Completion, Malkuth embodied; [[Princesses (Pages)]] — Earth of each suit; [[Ten of Pentacles]] — Completion of material cycle |
-| **Astrology** | [[Earth]] (☍) — Manifestation, grounding; [[Taurus ♉]] — Fixed Earth, stability, rootedness; [[Capricorn ♑]] — Cardinal Earth, structure, completion; [[Virgo ♍]] — Mutable Earth, service, refinement |
+| **Tarot** | [[The World (XXI)|The World]] (XXI) — Completion, Malkuth embodied; Princesses (Pages) — Earth of each suit; [[Ten of Pentacles]] — Completion of material cycle |
+| **Astrology** | Earth (☍) — Manifestation, grounding; [[Taurus ♉]] — Fixed Earth, stability, rootedness; [[Capricorn ♑]] — Cardinal Earth, structure, completion; [[Virgo ♍]] — Mutable Earth, service, refinement |
 | **Human Design** | [[Root]] Center — Pressure, drive, stress, the motor that pushes manifestation; [[Gate 58 - The Joyous|Gate 58]] (The Joyous) — Vitality, aliveness; [[Gate 38 - Opposition|Gate 38]] (The Fighter) — Struggle for meaning; [[Gate 54 - The Marrying Maiden|Gate 54]] (The Marrying Maiden) — Ambition through service |
 | **I-Ching** | Hexagram 52 (Keeping Still, Mountain) — Grounding, stillness, meditation rooted in body; Hexagram 2 (The Receptive, Earth) — The yielding, receptive, grounding force |
-| **Jungian Psychology** | [[Incarnation]] — The Self becoming embodied; [[The Body as Temple]] — Honoring the physical; [[Completion of the Work]] — Grounding insight into action |
+| **Jungian Psychology** | Incarnation — The Self becoming embodied; The Body as Temple — Honoring the physical; Completion of the Work — Grounding insight into action |
 | **Alchemy** | **Rubedo** (Reddening) — The final stage, the embodiment of the Philosopher's Stone in tangible reality; **The Multiplication** — The fruit of the Work made real |
 | **Chakras** | **Muladhara** (Root Chakra) — Survival, grounding, connection to earth, foundation, the base of the energy body |
 
@@ -977,10 +977,10 @@ Invoke Sandalphon when you need:
 
 ### Cross-System Integration
 - **Qabalah:** [[Malkuth]] | [[Tree of Life]] | [[Adonai ha-Aretz]] | [[Ishim]] | [[Kether]] | [[Yesod]] | [[Tiphareth]] | [[Hod]] | [[Netzach]]
-- **Tarot:** [[The World (XXI)|The World]] (XXI) | [[Princesses (Pages)]] | [[Ten of Pentacles]] | [[Ace of Pentacles]] | [[The Hanged Man (XII)|The Hanged Man]] (surrender)
-- **Astrology:** [[Earth]] | [[Taurus ♉]] | [[Capricorn ♑]] | [[Virgo ♍]] | [[Saturn ♄]]
+- **Tarot:** [[The World (XXI)|The World]] (XXI) | Princesses (Pages) | [[Ten of Pentacles]] | [[Ace of Pentacles]] | [[The Hanged Man (XII)|The Hanged Man]] (surrender)
+- **Astrology:** Earth | [[Taurus ♉]] | [[Capricorn ♑]] | [[Virgo ♍]] | [[Saturn ♄]]
 - **Human Design:** [[Root|Root Center]] | [[Gate 58 - The Joyous|Gate 58]] | [[Gate 38 - Opposition|Gate 38]] | [[Gate 54 - The Marrying Maiden|Gate 54]]
-- **Jungian Psychology:** [[Incarnation]] | [[Folklore/Jungian Archetypes/The Self]] | [[Embodiment]] | [[Completion]] | [[The Body as Temple]]
+- **Jungian Psychology:** Incarnation | [[The Self]] | Embodiment | Completion | The Body as Temple
 
 ---
 

@@ -227,9 +227,9 @@ You are not here to rush. The pressure you feel is not yours—it belongs to the
 - [[The Three Triads]]
 
 ### Human Design Centers
-- [[Head Center]] | [[Ajna Center]] | [[Throat Center]]
-- [[G-Center]] | [[Heart Center]] | [[Solar Plexus]]
-- [[Spleen Center]] | [[Sacral Center]] | [[Root Center]]
+- [[Head]] | [[Ajna]] | [[Throat]]
+- [[G Center]] | [[Heart]] | [[Solar Plexus]]
+- [[Spleen]] | [[Sacral]] | [[Root]]
 
 ### Qabalah
 - [[Tree of Life]] | [[Kether]] | [[Chokmah]] | [[Binah]] | [[Chesed]] | [[Geburah]] | [[Tiphareth]] | [[Netzach]] | [[Hod]] | [[Yesod]]

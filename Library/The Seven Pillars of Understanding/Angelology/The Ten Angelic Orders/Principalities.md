@@ -795,7 +795,7 @@ To integrate the Principalities is to become the **conscious participant in coll
 - [[Venus ♀]] — Planet of love, beauty, desire, values, relationship, social cohesion
 - [[Libra ♎]] — Venus-ruled sign, balance, partnership, social harmony
 - [[Taurus ♉]] — Venus-ruled sign, security, belonging, fertility
-- [[Seventh House]] — Partnerships, relationships, social contracts
+- Seventh House — Partnerships, relationships, social contracts
 
 ### Human Design System
 - [[Spleen|Spleen Center]] — Intuitive awareness, survival, immune system, tribal bonds
@@ -817,22 +817,22 @@ To integrate the Principalities is to become the **conscious participant in coll
 - [[Seven of Pentacles]] (Failure/Patience) — Netzach in Earth, collective efforts bearing fruit
 
 ### Jungian Psychology
-- [[Collective Unconscious]] — Shared reservoir of archetypes and cultural patterns
-- [[Cultural Archetypes]] — Hero, Mother, Trickster expressed through collective consciousness
-- [[Anima Mundi]] — The World Soul, consciousness of the collective field
-- [[Belonging and Identity]] — Psychological need for collective participation
+- Collective Unconscious — Shared reservoir of archetypes and cultural patterns
+- Cultural Archetypes — Hero, Mother, Trickster expressed through collective consciousness
+- Anima Mundi — The World Soul, consciousness of the collective field
+- Belonging and Identity — Psychological need for collective participation
 
 ### Mythological Parallels
-- [[Genius Loci]] (Roman) — Spirit of place, guardian of cities and regions
-- [[Athena]] (Greek) — Patron of Athens, guardian of wisdom and culture
-- [[Lokapalas]] (Hindu) — Guardians of directions, protectors of cosmic order
-- [[Landvaettir]] (Norse) — Land spirits, protectors of regions
-- [[Orisha]] (Yoruba) — Divine intermediaries, collective guardians
-- [[Ancestral Spirits]] — Egun, Disir, Lares—protectors of families and tribes
+- Genius Loci (Roman) — Spirit of place, guardian of cities and regions
+- Athena (Greek) — Patron of Athens, guardian of wisdom and culture
+- Lokapalas (Hindu) — Guardians of directions, protectors of cosmic order
+- Landvaettir (Norse) — Land spirits, protectors of regions
+- Orisha (Yoruba) — Divine intermediaries, collective guardians
+- Ancestral Spirits — Egun, Disir, Lares—protectors of families and tribes
 
 ### Cross-System Synthesis
-- [[Venus and the Spleen Center]] (Potential synthesis) — Astrology + HD integration of belonging consciousness
-- [[The Guardian of Nations]] (Potential synthesis) — Angelology + Qabalah + Jungian integration of collective consciousness
+- Venus and the Spleen Center (Potential synthesis) — Astrology + HD integration of belonging consciousness
+- The Guardian of Nations (Potential synthesis) — Angelology + Qabalah + Jungian integration of collective consciousness
 
 ---
 

@@ -776,19 +776,19 @@ The Virtues teach the middle way:
 - [[Emotional Authority]] (waiting through the wave for clarity)
 
 ### Jungian Psychology
-- [[Transcendent Function]] (the reconciliation of opposites)
+- Transcendent Function (the reconciliation of opposites)
 - [[Conjunction|Coniunctio]] (the alchemical marriage, the union of polarities)
-- [[Folklore/Jungian Archetypes/The Self]] (the totality of the psyche, manifesting through the heart)
+- [[The Self]] (the totality of the psyche, manifesting through the heart)
 - [[Individuation Process|Individuation]] (the journey to wholeness)
-- [[Integration]] (making the unconscious conscious)
+- Integration (making the unconscious conscious)
 
 ### Cross-Tradition
-- [[Charites]] (Greek Graces, goddesses of beauty and goodwill)
-- [[Shakti]] (Hindu divine feminine power, creative energy)
-- [[Siddhis]] (yogic supernatural powers)
-- [[Paramitas]] (Buddhist perfections, especially Virya/Courage)
-- [[Valkyries]] (Norse warrior-maidens, bestowers of valor)
-- [[Christ Consciousness]] (the solar Logos, the archetypal Redeemer)
+- Charites (Greek Graces, goddesses of beauty and goodwill)
+- Shakti (Hindu divine feminine power, creative energy)
+- Siddhis (yogic supernatural powers)
+- Paramitas (Buddhist perfections, especially Virya/Courage)
+- Valkyries (Norse warrior-maidens, bestowers of valor)
+- Christ Consciousness (the solar Logos, the archetypal Redeemer)
 
 ### Practical Mysticism
 - [[Prayer for Healing]]
@@ -797,8 +797,8 @@ The Virtues teach the middle way:
 - [[Heart Chakra Meditation]] (Anahata)
 - [[Contemplative Prayer]]
 - [[Discernment of Spirits]]
-- [[Grace as Unearned Gift]]
-- [[Miracles and Divine Intervention]]
+- Grace as Unearned Gift
+- Miracles and Divine Intervention
 
 ---
 

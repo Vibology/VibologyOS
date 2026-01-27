@@ -616,43 +616,43 @@ To integrate the Powers is to become the **sacred warrior**—the one who defend
 - [[Mars ♂]] — Planet of strength, combat, courage, discrimination (Power planet)
 - [[Aries ♈]] — Mars-ruled sign, embodying assertion and initiation
 - [[Scorpio ♏]] — Mars's traditional co-rulership (modern Pluto), embodying transformation through destruction
-- [[Mars transits]] — Periods of increased energy, conflict, and boundary work
+- Mars transits — Periods of increased energy, conflict, and boundary work
 
 ### Human Design System
 - [[Heart|Heart (Ego) Center]] — Willpower center, the human microcosm of Power function
 - [[Manifestor]] — Type with motor-to-Throat connection, embodying initiation and impact
 - [[Authority]] — The internal decision-making mechanism that governs correct use of strength
-- [[Defined vs. Undefined Heart]] — The differentiation in access to willpower and commitment
+- [[Heart]] — The differentiation in access to willpower and commitment
 
 ### Tarot Correspondences
 - [[The Tower (XVI)|The Tower]] (XVI) — Necessary destruction, the lightning bolt that clears corruption
-- [[Strength (VIII or XI)|Strength]] (VIII) — Courage and discriminating force (Leo/solar strength vs. Mars/martial strength)
+- [[Strength (VIII)]] (VIII) — Courage and discriminating force (Leo/solar strength vs. Mars/martial strength)
 - [[Five of Wands]] — Conflict, testing, the struggle that reveals truth
 - [[Five of Swords]] — Defeat of opposition, the cost of combat
 - [[Five of Cups]] — Sacrifice, loss, what must be released
 - [[Five of Pentacles]] — Material hardship, the testing of resources
-- [[Justice (VIII or XI)|Justice]] (XI) — The sword of discrimination, cosmic law
+- [[Justice (XI)]] (XI) — The sword of discrimination, cosmic law
 
 ### I-Ching
-- [[Hexagram 6 - Sung (Conflict)]] — Necessary opposition, the testing that reveals truth
+- Hexagram 6 - Sung (Conflict) — Necessary opposition, the testing that reveals truth
 
 ### Jungian Psychology
-- [[The Sword Archetype]] — The capacity to cut, sever, discriminate
-- [[The Warrior Archetype]] — The defender of boundaries and sacred order
-- [[Folklore/Jungian Archetypes/The Animus]] — Masculine aspect of the psyche, often appearing as sword-bearer
+- The Sword Archetype — The capacity to cut, sever, discriminate
+- The Warrior Archetype — The defender of boundaries and sacred order
+- [[The Animus]] — Masculine aspect of the psyche, often appearing as sword-bearer
 - [[The Shadow|Shadow]] — Repressed strength and anger requiring integration
 - [[Individuation Process|Individuation]] — The process requiring discrimination (cutting away what is not-Self)
 
 ### Mythological Parallels
-- [[Athena]] (Greek) — Strategic warfare, strength in service of justice
-- [[Durga]] (Hindu) — Slayer of demons, defender of dharma
-- [[Thor]] (Norse) — Defender of Midgard, warrior against chaos
-- [[Sekhmet]] (Egyptian) — Fierce solar power, destroyer of corruption (and its shadow)
-- [[Manjushri]] (Buddhist) — The bodhisattva who wields the sword of wisdom, cutting through illusion
+- Athena (Greek) — Strategic warfare, strength in service of justice
+- Durga (Hindu) — Slayer of demons, defender of dharma
+- Thor (Norse) — Defender of Midgard, warrior against chaos
+- Sekhmet (Egyptian) — Fierce solar power, destroyer of corruption (and its shadow)
+- Manjushri (Buddhist) — The bodhisattva who wields the sword of wisdom, cutting through illusion
 
 ### Cross-System Synthesis
-- [[Mars and the Heart Center]] (Potential synthesis) — Astrology + HD integration of martial consciousness
-- [[The Sword of Discrimination]] (Potential synthesis) — Qabalah + Tarot + Jungian integration of discernment
+- Mars and the Heart Center (Potential synthesis) — Astrology + HD integration of martial consciousness
+- The Sword of Discrimination (Potential synthesis) — Qabalah + Tarot + Jungian integration of discernment
 
 ---
 

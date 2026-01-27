@@ -216,7 +216,7 @@ When Haniel's intelligence is integrated, the heart opens not sentimentally but 
 
 ### The Gift: From Desire to Devotion
 
-In the **[[Gene Keys]]** system, the Emotional Solar Plexus houses Gates 6, 37, 22, 36, 49, 55, and 30. The **22nd Gene Key** (Gate of Grace) reflects Haniel's journey most directly:
+In the **Gene Keys** system, the Emotional Solar Plexus houses Gates 6, 37, 22, 36, 49, 55, and 30. The **22nd Gene Key** (Gate of Grace) reflects Haniel's journey most directly:
 - **Shadow:** Dishonor (the inability to listen, the closing of the heart, the refusal of grace)
 - **Gift:** Graciousness (openness, receptivity, the capacity to allow beauty and love to flow through)
 - **Siddhi:** Grace (the state of effortless divine presence, where the soul becomes a flawless vessel for love)
@@ -539,7 +539,7 @@ In **[[Human Design]]**, Haniel corresponds to the **[[Spleen]] Center**—intui
 
 ### Gene Keys: The 57th Siddhi (Clarity)
 
-The **[[Gene Keys]]** 57th Siddhi—Clarity—is an expression of Haniel's gift. This is the state where the body becomes a **flawless instrument of divine knowing**, where intuition is no longer clouded by fear, where every choice aligns effortlessly with the life force.
+The **Gene Keys** 57th Siddhi—Clarity—is an expression of Haniel's gift. This is the state where the body becomes a **flawless instrument of divine knowing**, where intuition is no longer clouded by fear, where every choice aligns effortlessly with the life force.
 
 ### Qabalah: Netzach, the Pillar of Mercy
 
@@ -636,7 +636,7 @@ If the "love" leads to **loss of self**, it is not Haniel but the Qlippothic she
 - [[Principalities]] — Angelic order governed by Haniel
 - [[Venus ♀]] — Planetary sphere of love, beauty, harmony
 - [[The Empress (III)|The Empress]] — Tarot Trump III, the archetype of fertility and beauty
-- [[Sevens]] — Tarot cards of endurance and persistence (Haniel's domain)
+- Sevens — Tarot cards of endurance and persistence (Haniel's domain)
 - [[Metatron]] — Archangel of Kether, the Crown
 - [[Raziel]] — Archangel of Chokmah, the Revealer of Mysteries
 - [[Tzaphkiel]] — Archangel of Binah, the Divine Mother
@@ -646,7 +646,7 @@ If the "love" leads to **loss of self**, it is not Haniel but the Qlippothic she
 - [[Sandalphon]] — Archangel of Malkuth, the Prince of Prayer
 - [[Tree of Life]] — The Qabalistic map of divine emanation
 - [[Spleen|Spleen Center]] — Human Design center of intuition and vitality
-- [[Gene Keys]] — 57th Gene Key (Unease/Intuition/Clarity)
+- Gene Keys — 57th Gene Key (Unease/Intuition/Clarity)
 - [[Jungian Archetypes|Jungian Psychology]] — Anima archetype, Eros principle
 - [[Astrology]] — Venus, Taurus, Libra, 7th House
 - [[Qlippoth]] — Shadow tree, A'arab Zaraq as distortion of Netzach

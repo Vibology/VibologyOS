@@ -221,7 +221,7 @@ This is the **Eureka moment**, the **Archimedes leap**, the instant when Newton 
 
 ### The Gift: From Opinion to Omniscience
 
-In the **[[Gene Keys]]** system, the Ajna center houses Gates 47, 24, 4, and 17. The **17th Gene Key** (the Gate of Opinions), in particular, reflects Raziel's journey:
+In the **Gene Keys** system, the Ajna center houses Gates 47, 24, 4, and 17. The **17th Gene Key** (the Gate of Opinions), in particular, reflects Raziel's journey:
 - **Shadow:** Opinion (rigid mental positions, intellectual arrogance, clinging to "my" truth)
 - **Gift:** Far-Sightedness (the capacity to see multiple perspectives simultaneously, mental flexibility, the recognition that truth has many faces)
 - **Siddhi:** Omniscience (the state of knowing without thinking, pure recognition, the transparent mind)
@@ -702,14 +702,14 @@ The danger of invoking Raziel is **spiritual inflation**—the ego's tendency to
 - [[Seraphim]] — First angelic order, pure adoration
 - [[The Tarot|Tarot]] — The Twos and Kings correspond to Raziel
 - [[Human Design]] — Ajna Center, mental clarity
-- [[Gene Keys]] — 17th Gene Key (Opinion/Far-Sightedness/Omniscience)
+- Gene Keys — 17th Gene Key (Opinion/Far-Sightedness/Omniscience)
 - [[Jungian Archetypes|Jungian Psychology]] — Wise Old Man archetype
-- [[Sophia]] — Divine Wisdom, feminine counterpart
+- Sophia — Divine Wisdom, feminine counterpart
 - [[Logos]] — The Word, divine reason
 - [[The Celestial Hierarchy]] — Pseudo-Dionysius's angelic orders
 - [[Qlippoth]] — Shadow tree, Ghagiel as distortion of Chokmah
 - [[Individuation Process|Individuation]] — Jungian process of integrating the Self
-- [[Gnosis]] — Direct knowing, unmediated revelation
+- Gnosis — Direct knowing, unmediated revelation
 
 ---
 

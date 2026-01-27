@@ -799,7 +799,7 @@ Metatron holds the blueprint; Raphael teaches how to read it and apply it to dai
 
 **Astrology:**
 
-- [[Astrology/Planets/Mercury # ☿]] (☿—communication, travel, intellect, medicine, psychopomp)
+- [[Mercury ☿]] (☿—communication, travel, intellect, medicine, psychopomp)
 - [[Sun ☉]] (☉—vitality, life-force, radiant health, solar heart)
 - [[Virgo ♍]] (♍︎—sign of service, healing, discernment, practical wisdom, Mercury's exaltation)
 - [[Gemini ♊]] (♊︎—sign of communication, duality reconciled, Mercury's domicile)
@@ -814,26 +814,26 @@ Metatron holds the blueprint; Raphael teaches how to read it and apply it to dai
 
 **Jungian Psychology:**
 
-- [[The Wounded Healer]] (Chiron archetype—the healer who has been wounded, whose suffering becomes wisdom)
+- The Wounded Healer (Chiron archetype—the healer who has been wounded, whose suffering becomes wisdom)
 - [[The Wise Old Man]] (Senex—the guide, mentor, teacher in dreams and visions)
-- [[The Psychopomp]] (guide of souls through thresholds—birth, death, initiation)
+- The Psychopomp (guide of souls through thresholds—birth, death, initiation)
 - [[The Transcendent Function]] (the psyche's capacity to reconcile opposites and generate a third, integrative symbol)
-- [[Folklore/Jungian Archetypes/The Self]] (the totality of the psyche—Tiphareth as the Higher Self in Qabalistic psychology)
+- [[The Self]] (the totality of the psyche—Tiphareth as the Higher Self in Qabalistic psychology)
 - [[Individuation Process|Individuation]] (the journey toward wholeness—Raphael as the guide of the process)
 
 #### Mythology
 
-- [[Asclepius]] (Greek god of medicine, healer who could raise the dead)
+- Asclepius (Greek god of medicine, healer who could raise the dead)
 - [[Apollo]] (Greek god of light, prophecy, healing, purification)
-- [[Hermes Psychopompos]] (Greek psychopomp, guide of souls, bearer of the caduceus)
-- [[Chiron]] (the wounded centaur, teacher of heroes, healer who cannot heal himself)
-- [[Dhanvantari]] (Hindu god of Ayurveda, physician of the gods)
+- Hermes Psychopompos (Greek psychopomp, guide of souls, bearer of the caduceus)
+- Chiron (the wounded centaur, teacher of heroes, healer who cannot heal himself)
+- Dhanvantari (Hindu god of Ayurveda, physician of the gods)
 - [[Thoth]] (Egyptian god of wisdom, writing, magic, healing, psychopomp)
 
 **Biblical and Apocryphal:**
 
-- [[The Book of Tobit]] (primary scriptural source for Raphael's narrative)
-- [[1 Enoch]] (Raphael binds Azazel, one of the fallen Watchers)
+- The Book of Tobit (primary scriptural source for Raphael's narrative)
+- 1 Enoch (Raphael binds Azazel, one of the fallen Watchers)
 - [[The Seven Angels Who Stand Before the Throne]] (Revelation 8:2, Tobit 12:15)
 
 
@@ -1169,7 +1169,7 @@ This is Raphael's initiatic question. Every wound, when met consciously, reveals
 
 **Astrology:**
 
-- [[Astrology/Planets/Mercury # ☿]] (☿—communication, travel, intellect, medicine, psychopomp)
+- [[Mercury ☿]] (☿—communication, travel, intellect, medicine, psychopomp)
 - [[Sun ☉]] (☉—vitality, life-force, radiant health, solar heart)
 - [[Virgo ♍]] (♍︎—sign of service, healing, discernment, practical wisdom, Mercury's exaltation)
 - [[Gemini ♊]] (♊︎—sign of communication, duality reconciled, Mercury's domicile)
@@ -1184,26 +1184,26 @@ This is Raphael's initiatic question. Every wound, when met consciously, reveals
 
 **Jungian Psychology:**
 
-- [[The Wounded Healer]] (Chiron archetype—the healer who has been wounded, whose suffering becomes wisdom)
+- The Wounded Healer (Chiron archetype—the healer who has been wounded, whose suffering becomes wisdom)
 - [[The Wise Old Man]] (Senex—the guide, mentor, teacher in dreams and visions)
-- [[The Psychopomp]] (guide of souls through thresholds—birth, death, initiation)
+- The Psychopomp (guide of souls through thresholds—birth, death, initiation)
 - [[The Transcendent Function]] (the psyche's capacity to reconcile opposites and generate a third, integrative symbol)
-- [[Folklore/Jungian Archetypes/The Self]] (the totality of the psyche—Tiphareth as the Higher Self in Qabalistic psychology)
+- [[The Self]] (the totality of the psyche—Tiphareth as the Higher Self in Qabalistic psychology)
 - [[Individuation Process|Individuation]] (the journey toward wholeness—Raphael as the guide of the process)
 
 #### Mythology
 
-- [[Asclepius]] (Greek god of medicine, healer who could raise the dead)
+- Asclepius (Greek god of medicine, healer who could raise the dead)
 - [[Apollo]] (Greek god of light, prophecy, healing, purification)
-- [[Hermes Psychopompos]] (Greek psychopomp, guide of souls, bearer of the caduceus)
-- [[Chiron]] (the wounded centaur, teacher of heroes, healer who cannot heal himself)
-- [[Dhanvantari]] (Hindu god of Ayurveda, physician of the gods)
+- Hermes Psychopompos (Greek psychopomp, guide of souls, bearer of the caduceus)
+- Chiron (the wounded centaur, teacher of heroes, healer who cannot heal himself)
+- Dhanvantari (Hindu god of Ayurveda, physician of the gods)
 - [[Thoth]] (Egyptian god of wisdom, writing, magic, healing, psychopomp)
 
 **Biblical and Apocryphal:**
 
-- [[The Book of Tobit]] (primary scriptural source for Raphael's narrative)
-- [[1 Enoch]] (Raphael binds Azazel, one of the fallen Watchers)
+- The Book of Tobit (primary scriptural source for Raphael's narrative)
+- 1 Enoch (Raphael binds Azazel, one of the fallen Watchers)
 - [[The Seven Angels Who Stand Before the Throne]] (Revelation 8:2, Tobit 12:15)
 
 ---
@@ -1380,7 +1380,7 @@ Steiner also teaches that Archangels are involved in **individual human karma an
 
 **Astrology:**
 
-- [[Astrology/Planets/Mercury # ☿]] (☿—communication, travel, intellect, medicine, psychopomp)
+- [[Mercury ☿]] (☿—communication, travel, intellect, medicine, psychopomp)
 - [[Sun ☉]] (☉—vitality, life-force, radiant health, solar heart)
 - [[Virgo ♍]] (♍︎—sign of service, healing, discernment, practical wisdom, Mercury's exaltation)
 - [[Gemini ♊]] (♊︎—sign of communication, duality reconciled, Mercury's domicile)
@@ -1395,26 +1395,26 @@ Steiner also teaches that Archangels are involved in **individual human karma an
 
 **Jungian Psychology:**
 
-- [[The Wounded Healer]] (Chiron archetype—the healer who has been wounded, whose suffering becomes wisdom)
+- The Wounded Healer (Chiron archetype—the healer who has been wounded, whose suffering becomes wisdom)
 - [[The Wise Old Man]] (Senex—the guide, mentor, teacher in dreams and visions)
-- [[The Psychopomp]] (guide of souls through thresholds—birth, death, initiation)
+- The Psychopomp (guide of souls through thresholds—birth, death, initiation)
 - [[The Transcendent Function]] (the psyche's capacity to reconcile opposites and generate a third, integrative symbol)
-- [[Folklore/Jungian Archetypes/The Self]] (the totality of the psyche—Tiphareth as the Higher Self in Qabalistic psychology)
+- [[The Self]] (the totality of the psyche—Tiphareth as the Higher Self in Qabalistic psychology)
 - [[Individuation Process|Individuation]] (the journey toward wholeness—Raphael as the guide of the process)
 
 #### Mythology
 
-- [[Asclepius]] (Greek god of medicine, healer who could raise the dead)
+- Asclepius (Greek god of medicine, healer who could raise the dead)
 - [[Apollo]] (Greek god of light, prophecy, healing, purification)
-- [[Hermes Psychopompos]] (Greek psychopomp, guide of souls, bearer of the caduceus)
-- [[Chiron]] (the wounded centaur, teacher of heroes, healer who cannot heal himself)
-- [[Dhanvantari]] (Hindu god of Ayurveda, physician of the gods)
+- Hermes Psychopompos (Greek psychopomp, guide of souls, bearer of the caduceus)
+- Chiron (the wounded centaur, teacher of heroes, healer who cannot heal himself)
+- Dhanvantari (Hindu god of Ayurveda, physician of the gods)
 - [[Thoth]] (Egyptian god of wisdom, writing, magic, healing, psychopomp)
 
 **Biblical and Apocryphal:**
 
-- [[The Book of Tobit]] (primary scriptural source for Raphael's narrative)
-- [[1 Enoch]] (Raphael binds Azazel, one of the fallen Watchers)
+- The Book of Tobit (primary scriptural source for Raphael's narrative)
+- 1 Enoch (Raphael binds Azazel, one of the fallen Watchers)
 - [[The Seven Angels Who Stand Before the Throne]] (Revelation 8:2, Tobit 12:15)
 
 ---

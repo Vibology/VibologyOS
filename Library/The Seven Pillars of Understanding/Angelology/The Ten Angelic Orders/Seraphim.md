@@ -676,20 +676,20 @@ This is the Seraphim's gift: the **dissolution of the illusion of separation**.
 - [[The World (XXI)|The World]] (XXI) — completion, union, the dancer in ecstatic oneness
 
 ### Astrology
-- [[Primum Mobile]] (The First Motion, beyond the planets)
+- Primum Mobile (The First Motion, beyond the planets)
 - [[Uranus ♅]] (sudden awakening, lightning-strike illumination)
 - [[Pluto ♇]] (death and rebirth, the burning coal)
-- [[Fixed Stars]] (the eternal, unchanging cosmic order)
+- Fixed Stars (the eternal, unchanging cosmic order)
 
 ### Human Design
 - [[Head|Head Center]] (inspiration, pressure to know, existential questioning)
 - [[Gate 64 - Before Completion|Gate 64]] (Confusion / Before Completion — the pressure to make sense)
 - [[Gate 61 - Inner Truth|Gate 61]] (Inner Truth / Mystery — the pressure to know the unknowable)
-- [[Defined Head Center]] (constant mental pressure, Seraphic longing)
-- [[Undefined Head Center]] (receptivity to Seraphic inspiration)
+- [[Head]] (constant mental pressure, Seraphic longing)
+- [[Head]] (receptivity to Seraphic inspiration)
 
 ### Jungian Psychology
-- [[Folklore/Jungian Archetypes/The Self]] (the God-image, the totality of the psyche)
+- [[The Self]] (the God-image, the totality of the psyche)
 - [[Imago Dei]] (the image of God within the human soul)
 - [[Numinous Experience]] (mysterium tremendum et fascinans)
 - [[Psychoid Archetype]] (structures at the boundary of psyche and matter)
@@ -697,18 +697,18 @@ This is the Seraphim's gift: the **dissolution of the illusion of separation**.
 - [[Individuation Process|Individuation]] (the integration of the Self, Seraphic realization)
 
 ### Cross-Tradition
-- [[Agni]] (Hindu fire-god, transformer of offerings)
+- Agni (Hindu fire-god, transformer of offerings)
 - [[Prometheus]] (Greek fire-bearer)
-- [[Bodhisattvas]] (Buddhist enlightened beings of compassion)
-- [[Amesha Spentas]] (Zoroastrian divine attributes)
-- [[Muqarrabun]] (Islamic angels brought near to Allah)
+- Bodhisattvas (Buddhist enlightened beings of compassion)
+- Amesha Spentas (Zoroastrian divine attributes)
+- Muqarrabun (Islamic angels brought near to Allah)
 
 ### Practical Mysticism
-- [[Trisagion]] (the Seraphic prayer: "Holy, Holy, Holy")
-- [[Theosis]] (divinization, becoming God)
-- [[Mystical Union]] (non-dual consciousness)
+- Trisagion (the Seraphic prayer: "Holy, Holy, Holy")
+- Theosis (divinization, becoming God)
+- Mystical Union (non-dual consciousness)
 - [[Ego-Death]] (the dissolution of the separate self)
-- [[Dark Night of the Soul]] (the purifying fire)
+- Dark Night of the Soul (the purifying fire)
 - [[Contemplative Prayer]]
 - [[Pathworking|Qabalistic Pathworking]]
 

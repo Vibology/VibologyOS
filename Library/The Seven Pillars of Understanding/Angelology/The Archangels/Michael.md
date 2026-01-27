@@ -134,7 +134,7 @@ Michael does not appear in moments of peace or comfort. Michael appears when **t
 | **Title** | Prince of the Presence, Commander of the Heavenly Hosts, Angel of the Sun, Defender |
 | **Sephirah Overseen** | [[Tiphareth]] (Beauty, Harmony, the Higher Self, 6th emanation) |
 | **Order Commanded** | [[Virtues]] (*Malachim* - "Kings" or "Angelic Kings") |
-| **Triad** | [[The Three Triads\|Second Triad]] (Governors of cosmic forces) |
+| **Triad** | [[The Three Triads|Second Triad]] (Governors of cosmic forces) |
 | **Planetary Sphere** | [[Sun ☉]] (Shemesh) - radiance, vitality, center, Higher Self |
 | **Element** | Fire (purifying flame, solar radiance, the sword's heat) |
 | **Direction** | South (zenith, height of the sun, Fire quarter) |
@@ -622,7 +622,7 @@ Together, they form the **protective quaternary**, the four corners of the cosmo
 | **Divine Name**     | YHVH Eloah va-Daath (יהוה אלוה ודעת)                                          |
 | **Tarot (Major)**   | [[Temperance (XIV)|Temperance]] (XIV), [[Judgement (XX)|Judgement]] (XX)                                       |
 | **Tarot (Minor)**   | All Sixes (especially [[Six of Wands]])                                        |
-| **Astrology**       | [[Sun ☉]], [[Leo ♌]], [[Fifth House]]                                          |
+| **Astrology**       | [[Sun ☉]], [[Leo ♌]], Fifth House                                          |
 | **Element**         | Fire (purifying flame, solar radiance)                                         |
 | **Direction**       | South (solar zenith, Fire quarter in LBRP)                                     |
 | **Day**             | Sunday (Dies Solis)                                                            |
@@ -854,41 +854,41 @@ This is **Michael's teaching**—humility (recognizing you are not God) and purp
 ### Astrological and Planetary
 - [[Sun ☉]] — Michael's luminary, vitality, Higher Self
 - [[Leo ♌]] — The Sun's rulership, solar sovereignty, the lion-hearted
-- [[Solar Return]] — Annual chart marking the Sun's return to natal position
-- [[Fifth House]] — House of the Sun, creativity, self-expression
+- Solar Return — Annual chart marking the Sun's return to natal position
+- Fifth House — House of the Sun, creativity, self-expression
 
 ### Human Design Correspondences
 - [[G Center]] — Identity, Love, Direction—the Self's seat
-- [[Defined G-Center]] — Consistent solar identity, fixed direction
-- [[Undefined G-Center]] — Fluid identity, sampling others' direction
+- [[G Center]] — Consistent solar identity, fixed direction
+- [[G Center]] — Fluid identity, sampling others' direction
 
 ### Jungian and Archetypal
-- [[Folklore/Jungian Archetypes/The Self]] — The Higher Self, the imago Dei, the solar logos
-- [[Folklore/Jungian Archetypes/The Hero]] — The solar hero, dragon-slayer, individuation journey
+- [[The Self]] — The Higher Self, the imago Dei, the solar logos
+- [[The Hero]] — The solar hero, dragon-slayer, individuation journey
 - [[The Shadow]] — The dragon, what is denied, must be integrated
 - [[Individuation Process|Individuation]] — The process Michael facilitates through discrimination
 - [[The Transcendent Function]] — Holding opposites until the third emerges
 
 ### Cross-Tradition Parallels
-- [[Horus]] — Egyptian solar god, avenger, falcon-headed
+- Horus — Egyptian solar god, avenger, falcon-headed
 - [[Apollo]] — Greek god of light, truth, prophecy, dragon-slayer
-- [[Thor]] — Norse defender of Midgard, wielder of Mjölnir
-- [[Indra]] — Hindu king of devas, slayer of Vritra, wielder of vajra
-- [[Mithra]] — Persian/Roman solar mediator, cosmic warrior
-- [[Marduk]] — Babylonian creator, slayer of Tiamat
+- Thor — Norse defender of Midgard, wielder of Mjölnir
+- Indra — Hindu king of devas, slayer of Vritra, wielder of vajra
+- Mithra — Persian/Roman solar mediator, cosmic warrior
+- Marduk — Babylonian creator, slayer of Tiamat
 
 ### Magdalene Path Integration
-- [[Full Humanity Full Divinity]] — Tiphareth as the Christ-center
-- [[The Sacred Well]] — Inner Authority, listening to the Higher Self
-- [[Vertical Ascent]] — Michael as guardian of the ascent from ego to Self
-- [[Sword of Discrimination]] — The tool of spiritual discernment
-- [[The Dragon as Shadow]] — Integration work, making conscious the unconscious
+- Full Humanity Full Divinity — Tiphareth as the Christ-center
+- The Sacred Well — Inner Authority, listening to the Higher Self
+- Vertical Ascent — Michael as guardian of the ascent from ego to Self
+- Sword of Discrimination — The tool of spiritual discernment
+- The Dragon as Shadow — Integration work, making conscious the unconscious
 
 ### Thematic Collections
-- [[Dragon-Slayers Across Traditions]] — The universal solar hero
+- Dragon-Slayers Across Traditions — The universal solar hero
 - [[The Four Archangels of the Quarters]] — Michael (South/Fire), Raphael (East/Air), Gabriel (West/Water), Uriel (North/Earth)
-- [[Solar Deities and Light-Bringers]] — Cross-cultural sun gods
-- [[Warriors of the Spirit]] — Martial archetypes in service of the divine
+- Solar Deities and Light-Bringers — Cross-cultural sun gods
+- Warriors of the Spirit — Martial archetypes in service of the divine
 
 
 ---

@@ -23,7 +23,7 @@ expansion_needed: true
 
 1. **[[Seraphim]]** — The "Burning Ones" (from Hebrew *saraph*, "to burn"), the highest angelic order, who surround the throne crying "Holy, Holy, Holy" (Isaiah 6:2-3)
 
-2. **[[Ashim]] / [[Ishim]]** — "Souls of Fire" or "Flames," the order at Malkuth composed of fire and snow
+2. **Ashim / [[Ishim]]** — "Souls of Fire" or "Flames," the order at Malkuth composed of fire and snow
 
 3. **[[Michael]]** — The Archangel of the Sun and Fire, guardian of the South in the LBRP
 
@@ -44,7 +44,7 @@ Fire in angelic symbolism represents:
 - [[Seraphim]] — The highest order, the "Burning Ones"
 - [[Michael]] — Archangel of Fire and the South
 - [[Uriel]] — "Fire of God"
-- [[Ashim]] — "Souls of Fire"
+- Ashim — "Souls of Fire"
 
 ---
 

@@ -860,28 +860,28 @@ For those who consciously align with Cherubic intelligence, a vow may be taken (
 
 ### Tarot
 - [[The Fool (0)]] (Trump 0, the path between Chokmah and Kether)
-- [[The Wheel of Fortune (X)|The Wheel of Fortune]] (Trump X, the Zodiac, cycles, wheels within wheels)
+- [[Wheel of Fortune (X)]] (Trump X, the Zodiac, cycles, wheels within wheels)
 - [[Temperance (XIV)|Temperance]] (Trump XIV, angelic intelligence, alchemy)
 - [[Two of Wands]] (Chokmah in Fire, dominion through wisdom)
 - [[Ace of Swords]] (Mental clarity, divine intellect)
 
 ### Astrology
-- [[The Zodiac]] (Masloth, the twelve archetypal patterns)
+- The Zodiac (Masloth, the twelve archetypal patterns)
 - [[Uranus ♅]] (Sudden illumination, awakening, pattern-breaking insight)
-- [[Fixed Signs]] (Aquarius, Leo, Taurus, Scorpio—the four faces)
-- [[Precession of the Equinoxes]] (The great wheel, ages, cosmic cycles)
+- Fixed Signs (Aquarius, Leo, Taurus, Scorpio—the four faces)
+- Precession of the Equinoxes (The great wheel, ages, cosmic cycles)
 
 ### Human Design
 - [[Ajna|Ajna Center]] (Mental awareness, conceptualization, pattern recognition)
 - [[Gate 47 - Oppression|Gate 47]] (Realizing) | [[Gate 24 - The Return|Gate 24]] (Rationalizing) | [[Gate 04 - Youthful Folly|Gate 4]] (Formulization)
 - [[Gate 17 - Following|Gate 17]] (Opinions) | [[Gate 43 - Breakthrough|Gate 43]] (Insight) | [[Gate 11 - Peace|Gate 11]] (Ideas) | [[Gate 64 - Before Completion|Gate 64]] (Confusion)
-- [[Defined vs. Undefined Centers]]
-- [[Strategy and Authority]] (The Ajna perceives but does not decide)
+- [[Centers]]
+- Strategy and Authority (The Ajna perceives but does not decide)
 
 ### Jungian Psychology
 - [[Jungian Archetypes|Archetypes]]
 - [[The Wise Old Man]]
-- [[Folklore/Jungian Archetypes/The Self]] (Organizing intelligence, totality)
+- [[The Self]] (Organizing intelligence, totality)
 - [[Psychoid Archetype]] (Threshold between psyche and matter)
 - [[Individuation Process|Individuation]] (Integration of unconscious contents)
 - [[The Shadow|Shadow]] (The inflated intellect, Leviathan)
@@ -898,10 +898,10 @@ For those who consciously align with Cherubic intelligence, a vow may be taken (
 
 ### Cross-System Integration
 - [[Merkabah Mysticism]] (Chariot-throne, ascent practices)
-- [[I-Ching]] (64 hexagrams, wheels of transformation)
+- I-Ching (64 hexagrams, wheels of transformation)
 - [[Synchronicity]] (Meaningful coincidence, pattern recognition)
-- [[Chakra System]] (Ajna Chakra, third eye, inner vision)
-- [[Mythology]] (Tetramorphs, Lamassu, Four Mahārājas, Four Sons of Horus)
+- Chakra System (Ajna Chakra, third eye, inner vision)
+- Mythology (Tetramorphs, Lamassu, Four Mahārājas, Four Sons of Horus)
 
 ---
 

@@ -65,7 +65,7 @@ Tzadkiel's function is **expansion and abundant grace**—the overflowing genero
 | **Title** | Prince of Mercy and Beneficence |
 | **Sephirah Overseen** | [[Chesed]] (Mercy, 4th emanation) |
 | **Order Commanded** | [[Dominations]] (*Chashmalim* - "Shining Ones" or "Brilliant Ones") |
-| **Triad** | [[The Three Triads\|Second Triad]] (Governors) |
+| **Triad** | [[The Three Triads|Second Triad]] (Governors) |
 | **Planetary Sphere** | [[Jupiter ♃]] (Tzedek) - expansion, beneficence, abundance, sovereignty |
 | **Element** | Water (flow, receptivity, nourishment, abundance) |
 | **Direction** | South (traditional Jupiter attribution in some systems) |
@@ -712,7 +712,7 @@ To integrate Tzadkiel is to become the **generous king**—the one who blesses, 
 - **[[Sagittarius ♐]]** — Mutable fire, the seeker of wisdom, the generous philosopher
 - **[[Pisces ♓]]** — Mutable water, boundless compassion, universal mercy (Jupiter's ancient rulership)
 - **9th House** — Jupiter's natural house, higher learning, philosophy, expansion of worldview
-- **[[Jupiter Return]]** (every ~12 years) — Tzadkiel initiation, the opening of a new cycle of blessing
+- **Jupiter Return** (every ~12 years) — Tzadkiel initiation, the opening of a new cycle of blessing
 
 ### Human Design (Vibology Synthesis)
 
@@ -734,24 +734,24 @@ To integrate Tzadkiel is to become the **generous king**—the one who blesses, 
 
 ### I-Ching
 
-- **[[Hexagram 14 - Ta Yu (Possession in Great Measure)]]** — Abundance, great harvest, sovereignty through blessing (Tzadkiel's function in I-Ching)
+- **Hexagram 14 - Ta Yu (Possession in Great Measure)** — Abundance, great harvest, sovereignty through blessing (Tzadkiel's function in I-Ching)
 - **Hexagram 42 - I (Increase)** — Expansion, blessing, the flow of abundance
 
 ### Jungian Psychology
 
-- **[[The King/Queen]]** — Archetypal sovereign, ruler of the psyche, benevolent authority
-- **[[Folklore/Jungian Archetypes/The Self]]** — The totality of the psyche, the sovereign center (accessed through Chesed/Tzadkiel)
+- **The King/Queen** — Archetypal sovereign, ruler of the psyche, benevolent authority
+- **[[The Self]]** — The totality of the psyche, the sovereign center (accessed through Chesed/Tzadkiel)
 - **[[Individuation Process|Individuation]]** — The process of becoming sovereign, claiming the Inner Throne
 
 ### Cross-Tradition Deities
 
 - **[[Zeus]]** (Greek) — King of gods, wielder of lightning, sovereign authority
 - **[[Jupiter ♃]]** (Roman) — God of sky and thunder, the Great Benefic
-- **[[Osiris]]** (Egyptian) — Benevolent king, teacher of civilization, just judge
-- **[[Vishnu]]** (Hindu) — The Preserver, maintainer of cosmic order
-- **[[Lakshmi]]** (Hindu) — Goddess of abundance, wealth, prosperity
-- **[[Odin]]** (Norse) — All-Father, wisdom-giver, generous sharer of runes
-- **[[Ptah]]** (Egyptian) — Creator god, builder, generous craftsman
+- **Osiris** (Egyptian) — Benevolent king, teacher of civilization, just judge
+- **Vishnu** (Hindu) — The Preserver, maintainer of cosmic order
+- **Lakshmi** (Hindu) — Goddess of abundance, wealth, prosperity
+- **Odin** (Norse) — All-Father, wisdom-giver, generous sharer of runes
+- **Ptah** (Egyptian) — Creator god, builder, generous craftsman
 
 ### Other Archangels
 
@@ -958,7 +958,7 @@ Choose one person (including yourself) to **forgive this week**. Mercy is not we
 ---
 ## Cross-References
 ### Angelology
-- [[The Seven Pillars of Understanding/The Window/The Six Lower Houses/House of the Sea/Overview]] — Introduction to the angelic hierarchies
+- House of the Sea — Introduction to the angelic hierarchies
 - [[The Three Triads]] — The ninefold structure of angelic orders
 - [[Dominations]] — The order Tzadkiel commands
 - [[Seraphim]] — Order 1, pure fire (first triad)
@@ -980,7 +980,7 @@ Choose one person (including yourself) to **forgive this week**. Mercy is not we
 
 ### Astrology
 - [[Jupiter ♃]] — Tzadkiel's planet
-- [[Jupiter Return]] — The Tzadkiel initiation (every ~12 years)
+- Jupiter Return — The Tzadkiel initiation (every ~12 years)
 - [[Sagittarius ♐]] — Jupiter-ruled sign, expansion through wisdom
 - [[Pisces ♓]] — Jupiter's ancient rulership, boundless compassion
 
@@ -995,13 +995,13 @@ Choose one person (including yourself) to **forgive this week**. Mercy is not we
 - [[The World (XXI)|The World]] — Completion and fulfillment, blessing achieved
 
 ### Jungian Psychology
-- [[The King/Queen]] — Tzadkiel as archetype
-- [[Folklore/Jungian Archetypes/The Self]] — Sovereign center of the psyche
+- The King/Queen — Tzadkiel as archetype
+- [[The Self]] — Sovereign center of the psyche
 - [[Individuation Process|Individuation]] — Process of claiming the Inner Throne
 
 ### Synthesis Pieces
-- [[Jupiter Return and the Sovereignty Initiation]] (potential) — Astrology + HD + Angelology synthesis
-- [[The Heart as Throne]] (potential) — HD + Angelology + Qabalah integration
+- Jupiter Return and the Sovereignty Initiation (potential) — Astrology + HD + Angelology synthesis
+- The Heart as Throne (potential) — HD + Angelology + Qabalah integration
 
 ---
 

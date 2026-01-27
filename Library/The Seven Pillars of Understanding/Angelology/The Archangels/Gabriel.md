@@ -589,7 +589,7 @@ In **[[Human Design]]**, Gabriel corresponds to the **[[Sacral]] Center** (gener
 
 ### Gene Keys: The 37th Siddhi (Tenderness)
 
-The **[[Gene Keys]]** 37th Siddhi—Tenderness—is an expression of Gabriel's gift. This is the state where emotional maturity flowers into **divine vulnerability**, where the heart softens so completely that there is no separation between self and other, where love becomes **total receptivity to the divine**.
+The **Gene Keys** 37th Siddhi—Tenderness—is an expression of Gabriel's gift. This is the state where emotional maturity flowers into **divine vulnerability**, where the heart softens so completely that there is no separation between self and other, where love becomes **total receptivity to the divine**.
 
 ### Qabalah: Yesod, the Pillar of Equilibrium
 
@@ -712,7 +712,7 @@ If the "message" leads to **inflation, fear, or ego-serving action**, it is not 
 - [[Sandalphon]] — Archangel of Malkuth, the Weaver of Prayer
 - [[Tree of Life]] — The Qabalistic map of divine emanation
 - [[Sacral]] Center — Human Design center of life force and generative power
-- [[Gene Keys]] — 37th Gene Key (Weakness/Equality/Tenderness)
+- Gene Keys — 37th Gene Key (Weakness/Equality/Tenderness)
 - [[Jungian Archetypes|Jungian Psychology]] — Collective unconscious, archetypes, Anima/Animus
 - [[Astrology]] — Moon, Cancer, 4th House
 - [[Qlippoth]] — Shadow tree, Gamaliel as distortion of Yesod
@@ -726,9 +726,9 @@ If the "message" leads to **inflation, fear, or ego-serving action**, it is not 
 - [[Shekinah|Shekhina]] — Divine feminine presence, indwelling glory
 - [[Individuation Process]] — Jungian process of integrating conscious and unconscious
 - [[Active Imagination]] — Jungian practice of dialoguing with the unconscious
-- [[Liminal Space]] — Threshold between worlds, states, identities
-- [[Annunciation]] — The moment of sacred pronouncement that changes reality
-- [[Psychopomp]] — Guide of souls between worlds
+- Liminal Space — Threshold between worlds, states, identities
+- Annunciation — The moment of sacred pronouncement that changes reality
+- Psychopomp — Guide of souls between worlds
 
 ---
 ## Sources

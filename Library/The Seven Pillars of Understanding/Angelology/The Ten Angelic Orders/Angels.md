@@ -742,26 +742,26 @@ Listen.
 - [[Sacral|Sacral Center]] (life force, generative power—linked to Yesod's fertility)
 
 ### Jungian Psychology
-- [[Folklore/Jungian Archetypes/The Self]] (the God-image, the transpersonal center)
+- [[The Self]] (the God-image, the transpersonal center)
 - [[Psychoid Archetype]] (structures at the boundary of psyche and matter)
-- [[Intuition]] (the subtle knowing, the guardian angel's voice)
+- Intuition (the subtle knowing, the guardian angel's voice)
 - [[The Shadow|Shadow]] (the rejected, the repressed—the Angels illuminate it)
 
 ### Cross-Tradition
-- [[Daimon]] (Greek guardian spirit)
-- [[Genius]] (Roman guardian spirit)
-- [[Ishta Devata]] (Hindu personal deity)
-- [[Kiraman Katibin]] (Islamic recording angels)
-- [[Yidam]] (Tibetan Buddhist meditation deity)
-- [[Bodhisattvas]] (Buddhist enlightened helpers)
-- [[Spirit Guide]] (Indigenous traditions)
+- Daimon (Greek guardian spirit)
+- Genius (Roman guardian spirit)
+- Ishta Devata (Hindu personal deity)
+- Kiraman Katibin (Islamic recording angels)
+- Yidam (Tibetan Buddhist meditation deity)
+- Bodhisattvas (Buddhist enlightened helpers)
+- Spirit Guide (Indigenous traditions)
 
 ### Practical Mysticism
 - [[Guardian Angel]] (personal angelic companion)
 - [[Bedtime Shema]] (Jewish invocation of angelic protection)
-- [[Subtle Listening]] (the art of hearing the quiet voice)
+- Subtle Listening (the art of hearing the quiet voice)
 - [[Synchronicity]] (meaningful coincidence, angelic guidance)
-- [[Discernment]] (distinguishing true guidance from ego)
+- Discernment (distinguishing true guidance from ego)
 
 ---
 

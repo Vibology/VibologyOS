@@ -569,7 +569,7 @@ To integrate the Thrones is to become the **sacred container**—the womb, the t
 
 ### Astrological Correspondences
 - [[Saturn ♄]] — Planet of structure, time, limitation, karma (Throne planet)
-- [[Saturn Return]] — The confrontation with Throne consciousness at ages ~29, 58, 87
+- Saturn Return — The confrontation with Throne consciousness at ages ~29, 58, 87
 - [[Capricorn ♑]] — Saturn-ruled sign, embodying structure and authority
 - [[Aquarius ♒]] — Saturn's traditional co-rulership, embodying cosmic law
 
@@ -582,27 +582,27 @@ To integrate the Thrones is to become the **sacred container**—the womb, the t
 ### Tarot Correspondences
 - [[The Empress (III)|The Empress]] (III) — The Divine Mother, form-giver, archetypal Binah
 - [[The Hierophant (V)|The Hierophant]] (V) — Cosmic law, structure, tradition, authority
-- [[Justice (VIII or XI)|Justice]] (XI) — Divine justice, cosmic balance, the scales
+- [[Justice (XI)]] (XI) — Divine justice, cosmic balance, the scales
 - [[The World (XXI)|The World]] (XXI) — Completion of form, manifestation achieved, Saturn's final gift
 
 ### I-Ching
-- [[Hexagram 2 - K'un (The Receptive)]] — Pure yin, the Earth principle, receptive form-giving (Throne function)
+- Hexagram 2 - K'un (The Receptive) — Pure yin, the Earth principle, receptive form-giving (Throne function)
 
 ### Jungian Psychology
-- [[Folklore/Jungian Archetypes/The Great Mother]] — Archetypal womb, container, form-giver
-- [[The Superego]] — Internalized law and authority (Throne function in psyche)
+- [[The Great Mother]] — Archetypal womb, container, form-giver
+- The Superego — Internalized law and authority (Throne function in psyche)
 - [[The Shadow|Shadow]] — Unconscious material requiring Throne-consciousness accountability to integrate
 - [[Individuation Process|Individuation]] — The process of giving form to the Self, requiring Throne stability
 
 ### Mythological Parallels
-- [[Themis]] (Greek) — Divine law and justice personified
-- [[Ma'at]] (Egyptian) — Cosmic order, truth, and the weighing of the heart
-- [[Brahma]] (Hindu) — The creator god, form-giver
-- [[The Norns]] (Norse) — Weavers of fate, cosmic law
+- Themis (Greek) — Divine law and justice personified
+- Ma'at (Egyptian) — Cosmic order, truth, and the weighing of the heart
+- Brahma (Hindu) — The creator god, form-giver
+- The Norns (Norse) — Weavers of fate, cosmic law
 
 ### Cross-System Synthesis
-- [[Saturn Return at 29]] (Synthesis piece) — Astrology + HD + Tarot integration of Throne/Saturn initiation
-- [[The Throat as Manifestation Gateway]] (Potential synthesis) — HD + Angelology + Qabalah
+- Saturn Return at 29 (Synthesis piece) — Astrology + HD + Tarot integration of Throne/Saturn initiation
+- The Throat as Manifestation Gateway (Potential synthesis) — HD + Angelology + Qabalah
 
 ---
 

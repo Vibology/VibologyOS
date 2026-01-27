@@ -37,9 +37,9 @@ While the seven are not all named in canonical scripture, tradition identifies t
 2. [[Gabriel]] — "Strength of God"
 3. [[Raphael]] — "Healing of God"
 4. [[Uriel]] — "Light of God"
-5. [[Chamuel]] / [[Kamael]] — "Severity of God"
-6. [[Jophiel]] / [[Raziel]] — "Beauty/Secret of God"
-7. [[Zadkiel]] / [[Tzadkiel]] — "Righteousness of God"
+5. Chamuel / [[Kamael]] — "Severity of God"
+6. Jophiel / [[Raziel]] — "Beauty/Secret of God"
+7. Zadkiel / [[Tzadkiel]] — "Righteousness of God"
 
 Lists vary across traditions (Jewish, Christian, Islamic, Qabalistic).
 

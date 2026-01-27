@@ -765,12 +765,12 @@ Uriel does not announce himself with visions of light or celestial music (that i
 
 ### Cross-System Integration
 - **Qabalah:** [[Malkuth]] | [[Daath]] | [[Tree of Life]] | [[Adonai ha-Aretz]] | [[Shekinah|The Shekinah]] | [[Qlippoth]] (shadow of Malkuth)
-- **Tarot:** [[The World (XXI)|The World]] | [[The Hierophant (V)|The Hierophant]] | [[The Devil (XV)|The Devil]] | [[Ace of Pentacles]] | [[Pentacles Suit]]
+- **Tarot:** [[The World (XXI)|The World]] | [[The Hierophant (V)|The Hierophant]] | [[The Devil (XV)|The Devil]] | [[Ace of Pentacles]] | Pentacles Suit
 - **Astrology:** [[Saturn ♄]] (rulership of Saturday, earth, time, karma) | [[Capricorn ♑]] (earth sign, Saturn-ruled) | [[Taurus ♉]] (fixed earth, embodiment)
 - **Human Design:** [[Root|Root Center]] (pressure, stress, adrenaline) | [[Gate 58 - The Joyous|Gate 58]] (Vitality, Joy of Mastery)
-- **Jungian Psychology:** [[The Shadow]] | [[Katabasis]] (descent archetype) | [[Imago Dei]] (God-image in matter) | [[Coniunctio]] (sacred marriage of opposites)
-- **Alchemy:** [[Nigredo]] (blackening, putrefaction) | [[Coagulation]] (final solidification) | [[The Philosopher's Stone]]
-- **Mythology:** [[Hades]] | [[Persephone]] | [[Anubis]] | [[Hecate]] | [[Prometheus]] | [[Thoth]] | [[Sophia]]
+- **Jungian Psychology:** [[The Shadow]] | Katabasis (descent archetype) | [[Imago Dei]] (God-image in matter) | Coniunctio (sacred marriage of opposites)
+- **Alchemy:** [[Nigredo]] (blackening, putrefaction) | [[Coagulation]] (final solidification) | The Philosopher's Stone
+- **Mythology:** [[Hades]] | [[Persephone]] | Anubis | Hecate | [[Prometheus]] | [[Thoth]] | Sophia
 
 ---
 

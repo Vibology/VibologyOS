@@ -553,7 +553,7 @@ Kamael corresponds to the **[[Solar Plexus]] Center** (emotional authority, the 
 
 ### Gene Keys: The Reactive Gene Keys
 
-The **[[Gene Keys]]** that carry Kamael's shadow include:
+The **Gene Keys** that carry Kamael's shadow include:
 - **6th Gene Key:** Conflict → Diplomacy → Peace
 - **36th Gene Key:** Turbulence → Humanity → Compassion
 - **21st Gene Key:** Control → Authority → Valor
@@ -700,7 +700,7 @@ If the act leaves you feeling *inflated* (powerful, superior, righteous in a gra
 - [[Mars ♂]] — The Red Planet, god of war and strength
 - [[Aries ♈]] — Cardinal Fire, the warrior sign
 - [[Scorpio ♏]] — Fixed Water, death and transformation
-- [[First House]] — The house of self and identity
+- First House — The house of self and identity
 
 ### Jungian and Archetypal
 - [[Jungian Archetypes|Jungian Psychology]] — Shadow integration, Warrior archetype
@@ -711,10 +711,10 @@ If the act leaves you feeling *inflated* (powerful, superior, righteous in a gra
 
 ### Cross-Tradition Parallels
 - [[Ares]] — Greek god of war
-- [[Kali]] — Hindu goddess of destruction
-- [[Sekhmet]] — Egyptian lioness goddess
-- [[Morrigan]] — Celtic goddess of war and fate
-- [[Rudra]] — Vedic storm god, proto-Shiva
+- Kali — Hindu goddess of destruction
+- Sekhmet — Egyptian lioness goddess
+- Morrigan — Celtic goddess of war and fate
+- Rudra — Vedic storm god, proto-Shiva
 
 ### Qlippothic and Shadow
 - [[Qlippoth]] — The shadow tree, demonic distortions
@@ -724,8 +724,8 @@ If the act leaves you feeling *inflated* (powerful, superior, righteous in a gra
 ### Thematic Collections
 - [[Angels of Fire]] — Kamael, Michael, Seraphim
 - [[Angels of Judgment]] — Kamael, Tzaphkiel, Powers
-- [[Archangels of the Sephiroth]] — The seven (or ten) planetary archangels
-- [[Mars Correspondences]] — Planetary, elemental, and symbolic associations
+- Archangels of the Sephiroth — The seven (or ten) planetary archangels
+- Mars Correspondences — Planetary, elemental, and symbolic associations
 
 ---
 

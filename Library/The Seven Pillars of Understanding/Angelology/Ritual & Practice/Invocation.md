@@ -18,7 +18,7 @@ expansion_needed: true
 
 **Invocation** is the ritual practice of calling upon angelic beings—requesting their presence, guidance, protection, or assistance. Unlike evocation (which summons entities into external manifestation), invocation is an **interior act**: opening the self to receive angelic influence, aligning consciousness with higher frequencies.
 
-Invocation is the **Anima** dimension of Angelology—the lived practice that transforms intellectual knowledge of the angelic hierarchies into direct experiential relationship. One can study the [[The Nine Angelic Orders|Nine Orders]] and [[The Archangels|Archangels]] as taxonomy; invocation makes them allies.
+Invocation is the **Anima** dimension of Angelology—the lived practice that transforms intellectual knowledge of the angelic hierarchies into direct experiential relationship. One can study the [[The Ten Angelic Orders]] and [[The Archangels|Archangels]] as taxonomy; invocation makes them allies.
 
 ---
 

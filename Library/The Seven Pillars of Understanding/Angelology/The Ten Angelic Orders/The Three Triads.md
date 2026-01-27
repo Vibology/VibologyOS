@@ -230,8 +230,8 @@ To engage the Third Triad is to **listen to intuition, follow synchronicity, and
 
 ### Cross-System Integration
 - **Qabalah:** [[Tree of Life]] | [[Kether]] | [[Chokmah]] | [[Binah]] | [[Chesed]] | [[Geburah]] | [[Tiphareth]] | [[Netzach]] | [[Hod]] | [[Yesod]]
-- **Human Design:** [[Head Center]] | [[Ajna Center]] | [[Throat Center]] | [[G-Center]] | [[Heart Center]] | [[Solar Plexus]] | [[Spleen Center]] | [[Sacral Center]] | [[Root Center]]
-- **Jungian Psychology:** [[Transpersonal]] | [[Conscious]] | [[Unconscious]] | [[Individuation]]
+- **Human Design:** [[Head]] | [[Ajna]] | [[Throat]] | [[G Center]] | [[Heart]] | [[Solar Plexus]] | [[Spleen]] | [[Sacral]] | [[Root]]
+- **Jungian Psychology:** Transpersonal | Conscious | Unconscious | Individuation
 
 ---
 

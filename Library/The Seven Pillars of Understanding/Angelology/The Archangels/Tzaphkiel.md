@@ -65,7 +65,7 @@ Tzaphkiel is the archetype of **contemplative stillness**, the intelligence that
 | **Title** | Prince of Spiritual Strife Against Evil |
 | **Sephirah Overseen** | [[Binah]] (Understanding, 3rd emanation) |
 | **Order Commanded** | [[Thrones]] (*Aralim* - "Mighty Ones") |
-| **Triad** | [[The Three Triads\|First Triad]] (Counselors) |
+| **Triad** | [[The Three Triads|First Triad]] (Counselors) |
 | **Planetary Sphere** | [[Saturn ♄]] (Shabbatai) - limitation, time, karma, structure |
 | **Element** | Water (Great Sea, womb) / Earth (form, stability) |
 | **Direction** | North (traditional Saturn attribution) |
@@ -653,7 +653,7 @@ To integrate Tzaphkiel is to become the **sacred womb**—the one who holds, wit
 
 - **[[Saturn ♄]]** — Planet of structure, limitation, time, karma, cosmic law (Tzaphkiel's planetary correspondence)
 - **[[Capricorn ♑]]** — Cardinal Earth, the builder, the manifestor of form through discipline
-- **[[Saturn Return]]** (ages ~29, 58, 87) — Tzaphkiel initiation, confrontation with cosmic law
+- **Saturn Return** (ages ~29, 58, 87) — Tzaphkiel initiation, confrontation with cosmic law
 - **10th House** — Saturn's natural house, authority, structure, public form
 - **[[Aquarius ♒]]** (traditional Saturn co-ruler) — Cosmic law, detachment, higher order
 
@@ -678,26 +678,26 @@ To integrate Tzaphkiel is to become the **sacred womb**—the one who holds, wit
 
 ### I-Ching
 
-- **[[Hexagram 2 - K'un (The Receptive)]]** — Pure yin, Earth principle, receptive form-giving, the Great Mother (Tzaphkiel's function in I-Ching)
+- **Hexagram 2 - K'un (The Receptive)** — Pure yin, Earth principle, receptive form-giving, the Great Mother (Tzaphkiel's function in I-Ching)
 - **Hexagram 8 - Pi (Holding Together/Union)** — Structure through relationship, form through unity
 
 ### Jungian Psychology
 
-- **[[Folklore/Jungian Archetypes/The Great Mother]]** — Archetypal womb, container, form-giver, both creative and devouring
-- **[[Folklore/Jungian Archetypes/The Self]]** — The totality of the psyche, the God-image within (encountered through Binah/Tzaphkiel)
+- **[[The Great Mother]]** — Archetypal womb, container, form-giver, both creative and devouring
+- **[[The Self]]** — The totality of the psyche, the God-image within (encountered through Binah/Tzaphkiel)
 - **[[Daath|The Abyss]]** (Dark Night) — The threshold between ego and Self, guarded by Tzaphkiel
 - **[[The Shadow|Shadow]]** — Unconscious material requiring Tzaphkiel's witnessing to integrate
 - **[[Individuation Process|Individuation]]** — The process of giving form to the Self, requiring Tzaphkiel's form-giving capacity
 
 ### Cross-Tradition Deities
 
-- **[[Themis]]** (Greek) — Divine law, justice, prophecy, counsel
-- **[[Ananke]]** (Greek) — Necessity, inevitability, cosmic compulsion
-- **[[Nut]]** (Egyptian) — Sky goddess, cosmic womb, container of stars
-- **[[Neith]]** (Egyptian) — Primordial creatrix, weaver, veiled wisdom
-- **[[Kali]]** (Hindu) — Time, destruction, transformation, the womb and tomb
-- **[[Shakti]]** (Hindu) — Cosmic mother, generative power, form-giver
-- **[[Urd]]** (Norse) — Norn of the past, guardian of the Well of Fate, cosmic law
+- **Themis** (Greek) — Divine law, justice, prophecy, counsel
+- **Ananke** (Greek) — Necessity, inevitability, cosmic compulsion
+- **Nut** (Egyptian) — Sky goddess, cosmic womb, container of stars
+- **Neith** (Egyptian) — Primordial creatrix, weaver, veiled wisdom
+- **Kali** (Hindu) — Time, destruction, transformation, the womb and tomb
+- **Shakti** (Hindu) — Cosmic mother, generative power, form-giver
+- **Urd** (Norse) — Norn of the past, guardian of the Well of Fate, cosmic law
 
 ### Other Archangels
 
@@ -916,7 +916,7 @@ Trust the answer will come when the time is right.
 ---
 ## Cross-References
 ### Angelology
-- [[The Seven Pillars of Understanding/The Window/The Six Lower Houses/House of the Sea/Overview]] — Introduction to the angelic hierarchies
+- House of the Sea — Introduction to the angelic hierarchies
 - [[The Three Triads]] — The ninefold structure of angelic orders
 - [[Thrones]] — The order Tzaphkiel commands
 - [[Seraphim]] — Order 1, pure fire (above Tzaphkiel)
@@ -935,7 +935,7 @@ Trust the answer will come when the time is right.
 
 ### Astrology
 - [[Saturn ♄]] — Tzaphkiel's planet
-- [[Saturn Return]] — The Tzaphkiel initiation
+- Saturn Return — The Tzaphkiel initiation
 - [[Capricorn ♑]] — Saturn-ruled sign, form-giving through discipline
 
 ### Human Design
@@ -950,14 +950,14 @@ Trust the answer will come when the time is right.
 - [[The World (XXI)|The World]] — Saturn's completion, manifestation achieved
 
 ### Jungian Psychology
-- [[Folklore/Jungian Archetypes/The Great Mother]] — Tzaphkiel as archetype
+- [[The Great Mother]] — Tzaphkiel as archetype
 - [[Daath|The Abyss]] — Dark Night of the Soul, Tzaphkiel's threshold
 - [[The Shadow|Shadow]] — Material requiring Tzaphkiel's witnessing
 - [[Individuation Process|Individuation]] — Process requiring Tzaphkiel's form-giving
 
 ### Synthesis Pieces
-- [[Saturn Return at 29]] — Astrology + HD + Tarot integration of Tzaphkiel initiation
-- [[The Throat as Manifestation Gateway]] (potential) — HD + Angelology + Qabalah synthesis
+- Saturn Return at 29 — Astrology + HD + Tarot integration of Tzaphkiel initiation
+- The Throat as Manifestation Gateway (potential) — HD + Angelology + Qabalah synthesis
 
 ---
 
