@@ -230,8 +230,8 @@ The Lion teaches that you do not need to dim your light to make others comfortab
 - [[Strength (VIII)|Strength]] — Key VIII, mastery through presence
 - [[The Hero]] — The archetype of triumph and self-recognition
 - [[The Wise Old Man|The King]] — The sovereign archetype, earned authority
-- [[Fire Element]] — Leo as Fixed Fire, sustained radiance
-- [[Fixed Modality]] — Leo as sustainer, the bonfire that endures
+- Fire Element — Leo as Fixed Fire, sustained radiance
+- Fixed Modality — Leo as sustainer, the bonfire that endures
 
 ---
 

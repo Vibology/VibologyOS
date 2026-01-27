@@ -200,8 +200,8 @@ In esoteric anatomy, Virgo governs the **intestines** (discernment, the body's c
 - **Signs:** [[Leo ♌]] (celebration that Virgo refines), [[Pisces ♓]] (polarity—dissolution vs. discernment), [[Taurus ♉]] (earth as embodiment), [[Capricorn ♑]] (earth as structure)
 - **Planets:** [[Mercury ☿]] (ruler and exaltation at 15°), [[Jupiter ♃]] (detriment), [[Venus ♀]] (fall at 27°)
 - **Houses:** [[6th House]] (natural affinity—service, health, daily work)
-- **Modalities:** [[Mutable Signs]] (adapting, distributing, refining energy)
-- **Elements:** [[Earth Signs]] (grounding, practical expression)
+- **Modalities:** Mutable Signs (adapting, distributing, refining energy)
+- **Elements:** Earth Signs (grounding, practical expression)
 - **Themes:** [[The Shadow]] (perfectionism, criticism), [[The Wise Old Man]] (mastery through apprenticeship), [[Individuation Process]] (learning when to analyze, when to surrender)
 
 ---

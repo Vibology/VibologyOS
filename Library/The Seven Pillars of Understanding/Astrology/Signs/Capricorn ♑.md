@@ -202,8 +202,8 @@ In esoteric anatomy, Capricorn governs the **knees** (the joints that allow asce
 - **Signs:** [[Sagittarius ♐]] (vision that Capricorn applies), [[Cancer ♋]] (polarity—nurturance vs. structure), [[Taurus ♉]] (earth as embodiment), [[Virgo ♍]] (earth as refinement)
 - **Planets:** [[Saturn ♄]] (ruler), [[Mars ♂]] (exalted at 28°), [[Moon ☽]] (detriment), [[Jupiter ♃]] (fall at 15°)
 - **Houses:** [[10th House]] (natural affinity—career, public standing, legacy)
-- **Modalities:** [[Cardinal Signs]] (initiating, building energy)
-- **Elements:** [[Earth Signs]] (grounding, structural expression)
+- **Modalities:** Cardinal Signs (initiating, building energy)
+- **Elements:** Earth Signs (grounding, structural expression)
 - **Themes:** [[The Shadow]] (tyranny, workaholism), [[The Wise Old Man]] (earned mastery), [[Individuation Process]] (learning when to climb, when to descend)
 
 ---
