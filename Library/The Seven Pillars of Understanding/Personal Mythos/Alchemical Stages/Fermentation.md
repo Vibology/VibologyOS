@@ -628,10 +628,10 @@ Fermentation is dangerous. The unconscious, stirred, can overwhelm the ego (psyc
 
 ### Related Folklore & Mythology
 - Dionysus (when created) - God of wine, fermentation, death-rebirth
-- [[Osiris]] (when created) - Dismembered, resurrected, Lord of the Underworld
+- Osiris (when created) - Dismembered, resurrected, Lord of the Underworld
 - [[Persephone]] (when created) - Descent to Hades (putrefaction), return as Spring (fermentation)
 - Christ Mythos (when created) - Passion, tomb, resurrection—the central Fermentation myth
-- [[Shamanic Dismemberment]] (when created) - Death, rot, reassembly with spiritual organs
+- Shamanic Dismemberment (when created) - Death, rot, reassembly with spiritual organs
 
 ---
 

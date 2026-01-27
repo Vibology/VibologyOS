@@ -19,7 +19,7 @@ verification_notes: "Fairy tale narratives accurate (Grimm, Perrault canon). Jun
 
 Unlike ordinary objects, the Quest Object is **numinous**—it glows, it shines, it calls. It is always **difficult to reach**: hidden in the abyss, guarded by a dragon, locked behind seven doors, concealed in the underworld, or obtainable only through impossible trials. This difficulty is not arbitrary but **psychologically necessary**—the treasure represents the [[The Self]], and the Self can only be won through confrontation with the [[The Shadow]], descent into the unconscious, and the surrender of ego inflation.
 
-**Marie-Louise von Franz** describes the Quest Object as the "center that gives meaning to the chaos"—the organizing principle around which the fragmented psyche can cohere. **Joseph Campbell** identifies it as the **Ultimate Boon** of [[Folklore/Hero's Journey/The Call to Adventure|the Hero's Journey]]—the treasure consciousness brings back from the unconscious to renew life. The Quest Object is not an end in itself but a **symbol**—what it represents (wholeness, Self, God-image, the missing piece of soul) is the true goal.
+**Marie-Louise von Franz** describes the Quest Object as the "center that gives meaning to the chaos"—the organizing principle around which the fragmented psyche can cohere. **Joseph Campbell** identifies it as the **Ultimate Boon** of [[The Call to Adventure]]—the treasure consciousness brings back from the unconscious to renew life. The Quest Object is not an end in itself but a **symbol**—what it represents (wholeness, Self, God-image, the missing piece of soul) is the true goal.
 
 **Developmental Context:** The Quest Object constellates most powerfully during **major life transitions**—adolescence (leaving the nursery), young adulthood (establishing identity and vocation), midlife (the search for meaning after achievement feels hollow), and elderhood (the final quest for wisdom and completion). It appears when **life feels gray, flat, or meaningless**—the signal that the psyche is demanding a new center, a new organizing value.
 
@@ -131,7 +131,7 @@ Psychologically: **The treasure is what you are missing**—the value, the meani
 
 ### The Call to Adventure – The Rolling Away of the Ball
 
-**Campbell** identifies the Quest Object as the trigger for [[Folklore/Hero's Journey/The Call to Adventure|The Call to Adventure]]. The ball rolls away (childhood ends). The oracle prophesies the Grail (the old order is dying). The mentor offers the map to the treasure (the Self calls).
+**Campbell** identifies the Quest Object as the trigger for [[The Call to Adventure]]. The ball rolls away (childhood ends). The oracle prophesies the Grail (the old order is dying). The mentor offers the map to the treasure (the Self calls).
 
 The Quest Object **disrupts the ordinary world**. It signals that the current life, the current ego structure, is insufficient. Something is missing, and the psyche demands you go find it.
 
@@ -372,7 +372,7 @@ Psychologically: **You cannot go back to the golden age of childhood, but you ca
 
 ### Campbell: The Ultimate Boon
 
-**Joseph Campbell** identifies the Quest Object as the **Ultimate Boon**—the treasure the hero brings back from the [[Folklore/Hero's Journey/The Ordeal|Ordeal]] to renew the world.
+**Joseph Campbell** identifies the Quest Object as the **Ultimate Boon**—the treasure the hero brings back from the [[The Ordeal]] to renew the world.
 
 **Campbell:** "The boon is what the hero wins from the unconscious—consciousness, fire, wisdom, the elixir. But it is not for the hero alone; it must be brought back and shared with the community. The hero who hoards the boon becomes the tyrant; the hero who shares it becomes the savior."
 
@@ -586,42 +586,42 @@ Psychologically: **The Self (the Grail) is not conquered but revealed. It appear
 - [[The Great Mother]] – The dragon in her devouring aspect; the abyss that swallows and guards the treasure
 
 ### Hero's Journey Stages (Campbell)
-- [[Folklore/Hero's Journey/The Call to Adventure]] – The Quest Object calls; the ball rolls away, the vision appears
-- [[Folklore/Hero's Journey/Crossing the First Threshold]] – Entering the quest; leaving the ordinary world to seek the treasure
-- [[Folklore/Hero's Journey/Tests, Allies, and Enemies]] – Trials on the road to the treasure; shadow confrontations
-- [[Folklore/Hero's Journey/Approach to the Inmost Cave]] – The dragon's lair, the abyss, the Grail Castle—where the treasure is hidden
-- [[Folklore/Hero's Journey/The Ordeal]] – Confronting the guardian (dragon, lion, wound); the crisis that unlocks the treasure
-- [[Folklore/Hero's Journey/The Reward]] – Claiming the Quest Object; the boon, the treasure, the Self
-- [[Folklore/Hero's Journey/The Road Back]] – Returning with the treasure; integration, embodiment, sharing the boon
-- [[Folklore/Hero's Journey/Return with the Elixir]] – The treasure brought back to renew the world; service, not hoarding
+- [[The Call to Adventure]] – The Quest Object calls; the ball rolls away, the vision appears
+- [[Crossing the First Threshold]] – Entering the quest; leaving the ordinary world to seek the treasure
+- [[Tests, Allies, and Enemies]] – Trials on the road to the treasure; shadow confrontations
+- [[Approach to the Inmost Cave]] – The dragon's lair, the abyss, the Grail Castle—where the treasure is hidden
+- [[The Ordeal]] – Confronting the guardian (dragon, lion, wound); the crisis that unlocks the treasure
+- [[The Reward]] – Claiming the Quest Object; the boon, the treasure, the Self
+- [[The Road Back]] – Returning with the treasure; integration, embodiment, sharing the boon
+- [[Return with the Elixir]] – The treasure brought back to renew the world; service, not hoarding
 
 ### Individuation Process
-- [[Folklore/Individuation Process/Ego Formation and Childhood]] – The golden ball (childhood wholeness) before the quest
-- [[Folklore/Individuation Process/Confrontation with Shadow]] – The dragon, the guardian; shadow work unlocks the treasure
-- [[Folklore/Individuation Process/Encounter with Anima-Animus]] – The Maiden/Prince as treasure; integrating the contrasexual soul-image
-- [[Folklore/Individuation Process/Confrontation with the Self]] – The Grail, the Stone, the ultimate Quest Object
-- [[Folklore/Individuation Process/Integration and Wholeness]] – The treasure embodied; the Self as lived reality, not abstraction
+- [[Ego Formation and Childhood]] – The golden ball (childhood wholeness) before the quest
+- [[Confrontation with Shadow]] – The dragon, the guardian; shadow work unlocks the treasure
+- [[Encounter with Anima-Animus]] – The Maiden/Prince as treasure; integrating the contrasexual soul-image
+- [[Confrontation with the Self]] – The Grail, the Stone, the ultimate Quest Object
+- [[Integration and Wholeness]] – The treasure embodied; the Self as lived reality, not abstraction
 
 ### Fairy Tales
-- [[Folklore/Fairy Tales/Frog Prince]] – The golden ball as Quest Object; childhood wholeness lost and retrieved through shadow integration
-- [[Folklore/Fairy Tales/Beauty and the Beast]] – The Beast as the treasure; the shadow integrated becomes the Prince (the Self)
-- [[Folklore/Fairy Tales/Snow White]] – Snow White as the treasure (the innocent Self); the glass coffin, the awakening kiss
-- [[Folklore/Fairy Tales/Cinderella]] – The ball (the initiation), the slipper (the proof of identity), the Prince (the Self)
+- [[Frog Prince]] – The golden ball as Quest Object; childhood wholeness lost and retrieved through shadow integration
+- [[Beauty and the Beast]] – The Beast as the treasure; the shadow integrated becomes the Prince (the Self)
+- [[Snow White]] – Snow White as the treasure (the innocent Self); the glass coffin, the awakening kiss
+- [[Cinderella]] – The ball (the initiation), the slipper (the proof of identity), the Prince (the Self)
 - [[Rapunzel]] – Rapunzel herself as the treasure; the soul locked in the tower, freed through love and ordeal
-- [[Folklore/Fairy Tales/Hansel and Gretel]] – The treasure (jewels from the witch's house); shadow confronted, boon claimed
-- [[Folklore/Fairy Tales/The Two Brothers]] – The Water of Life, the healing apples; multiple Quest Objects in stages
+- [[Hansel and Gretel]] – The treasure (jewels from the witch's house); shadow confronted, boon claimed
+- [[The Two Brothers]] – The Water of Life, the healing apples; multiple Quest Objects in stages
 
 ### Alchemical Stages
-- [[Folklore/Alchemical Stages/Nigredo]] – The blackening, the descent into the abyss where the treasure is buried
-- [[Folklore/Alchemical Stages/Albedo]] – The whitening, purification; the first glimpse of the treasure
-- [[Folklore/Alchemical Stages/Rubedo]] – The reddening, embodiment; the treasure (the stone) achieved and lived
-- [[Folklore/Alchemical Stages/Separatio]] – Separating the pure (the treasure) from the impure (the dross, the shadow)
-- [[Folklore/Alchemical Stages/Coniunctio]] – The sacred marriage; the union of opposites that produces the treasure (the stone, the child)
+- [[Nigredo]] – The blackening, the descent into the abyss where the treasure is buried
+- [[Albedo]] – The whitening, purification; the first glimpse of the treasure
+- [[Rubedo]] – The reddening, embodiment; the treasure (the stone) achieved and lived
+- [[Separation]] – Separating the pure (the treasure) from the impure (the dross, the shadow)
+- [[Conjunction]] – The sacred marriage; the union of opposites that produces the treasure (the stone, the child)
 
 ### Tarot
 - [[The Fool (0)]] – Beginning the quest; trust, innocence, the leap toward the treasure
-- [[The Magician|The Magician]] – "As above, so below"; the treasure (the Self) is both within and without
-- [[The Chariot|The Chariot]] – The hero's vehicle; moving toward the treasure with will and control
+- [[The Magician (I)|The Magician – "As above, so below"; the treasure (the Self) is both within and without
+- [[The Chariot (VII)|The Chariot – The hero's vehicle; moving toward the treasure with will and control
 - [[Ace of Cups|Ace of Cups]] – The Grail offered; the treasure of love, the Self as overflowing abundance
 - [[Ace of Pentacles|Ace of Pentacles]] – The golden coin, the earthly treasure; the Self embodied in the world
 - [[The World (XXI)|The World]] – The ultimate Quest Object; wholeness, the mandala, the Self achieved
@@ -637,10 +637,10 @@ Psychologically: **The Self (the Grail) is not conquered but revealed. It appear
 - [[12th House|12th House]] – The treasure hidden in the unconscious, the abyss, the mystical union
 
 ### Human Design
-- [[Human Design/Centers/Sacral Center|Sacral Center]] – Life force, the Water of Life; generative power, the treasure of vitality
+- [[Sacral]] – Life force, the Water of Life; generative power, the treasure of vitality
 - [[G Center|G Center]] – Identity, direction, love; the Self as the organizing center, the treasure of "I am"
-- [[Human Design/Gates/Gate 1 - The Creative|Gate 1 - The Creative]] – Self-expression, uniqueness; the treasure of your authentic contribution
-- [[Human Design/Gates/Gate 2 - The Receptive|Gate 2 - The Receptive]] – The feminine vessel, the Grail; receiving the treasure as grace
+- [[Gate 01 - The Creative]] – Self-expression, uniqueness; the treasure of your authentic contribution
+- [[Gate 02 - The Receptive]] – The feminine vessel, the Grail; receiving the treasure as grace
 - [[Gate 25 - Innocence]] – Love of the Self, universal love; the treasure of the Divine Child within
 - [[Gate 10 - Treading]] – Behavior of the Self, embodiment; living the treasure authentically
 
@@ -649,7 +649,7 @@ Psychologically: **The Self (the Grail) is not conquered but revealed. It appear
 - [[Norse Mythology]] – The mead of poetry, the ring of power (cursed treasure), Odin's sacrifice for runes
 - [[Celtic Mythology]] – The cauldron of plenty, the Grail legends, the Salmon of Wisdom
 - [[Seraphim|Seraphim]] – The burning ones, the treasure of divine fire; proximity to the Source
-- [[The Tarot/The Tree of Life (Qabalah)|Qabalah]] – Keter (the crown, the ultimate treasure), the lightning flash descending, the path of return
+- Qabalah – Keter (the crown, the ultimate treasure), the lightning flash descending, the path of return
 - [[The Collective Unconscious]] – The treasure buried in the shared psychic depths
 - [[Personal Mythos]] – Your unique Quest Object, the treasure only you can find
 - Libido – Psychic energy mobilized by the Quest Object; what calls you forward

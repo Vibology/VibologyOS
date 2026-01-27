@@ -267,7 +267,7 @@ Traditional cultures understood: the private ordeal must be followed by **public
 **Examples**:
 
 **1. Apache Sunrise Ceremony (Na'ii'ees)**
-- Girls undergo four days of dancing, fasting, and ritual reenacting the journey of [[White Painted Woman]] (the first woman).
+- Girls undergo four days of dancing, fasting, and ritual reenacting the journey of White Painted Woman (the first woman).
 - The private ordeal is physical exhaustion, spiritual opening, encounter with the sacred.
 - The Resurrection is the **final dawn**—the girl emerges publicly as woman, blessed by the tribe, witnessed by community. She is transformed; the community affirms it.
 
@@ -539,9 +539,9 @@ The future of the Resurrection archetype may be **gender-integrative**—recogni
 
 ### Folklore and Mythology
 - The Phoenix: The ultimate Resurrection symbol—consumed by flames, reborn from ashes. The cycle is eternal: death, fire, rebirth. The Resurrection is phoenixian.
-- [[The Dying and Rising God]]: Osiris, Dionysus, Christ, Tammuz, Adonis—gods who die and return. The Resurrection archetype is this pattern incarnate in human life.
+- The Dying and Rising God: Osiris, Dionysus, Christ, Tammuz, Adonis—gods who die and return. The Resurrection archetype is this pattern incarnate in human life.
 - The Underworld: The Ordeal involves descent into the Underworld (Hades, Duat, Xibalba, Hel). The Resurrection is **ascent**—climbing back to light, life, the living.
-- [[The Hero's Return]]: Every hero must return. The Resurrection is the **proof** they can cross back without losing themselves.
+- The Hero's Return: Every hero must return. The Resurrection is the **proof** they can cross back without losing themselves.
 - The Grail: The object of the quest. The Ordeal is the moment of finding; the Resurrection is proving you can **carry it home** without spilling it.
 
 ### Alchemy
@@ -549,7 +549,7 @@ The future of the Resurrection archetype may be **gender-integrative**—recogni
 - [[Coagulation]]: The alchemical operation corresponding to Resurrection—dissolved substance reconstitutes at higher order. Lead is now gold.
 - The Philosopher's Stone: The goal of the Great Work. The Resurrection **is** the Stone—transmutation complete, integration embodied.
 - Solve et Coagula: Dissolve (Ordeal) and coagulate (Resurrection). The alchemical maxim describes the two-death pattern.
-- [[The Chemical Wedding]]: The union of opposites—King and Queen, Sun and Moon, masculine and feminine. The Resurrection consummates the wedding—wholeness embodied.
+- The Chemical Wedding: The union of opposites—King and Queen, Sun and Moon, masculine and feminine. The Resurrection consummates the wedding—wholeness embodied.
 
 ### Modern Psychology
 - **Post-Traumatic Growth**: The Ordeal is trauma; the Resurrection is **growth** from trauma. Not just survival but **thriving**—new capacities, deeper meaning, expanded identity.

@@ -867,9 +867,9 @@ Jung: *"The alchemical vessel is the psyche itself. The fire is suffering. The w
 
 ### The Window (I-Ching Framework)
 - House of the Spirit (Shen, upper dantian, consciousness)
-- [[House of the Sea]] (Yin, Water element, emotional flow)
-- [[House of the Flame]] (Yang, Fire element, passion and will)
-- [[House of the Land]] (Earth element, grounding, embodiment)
+- House of the Sea (Yin, Water element, emotional flow)
+- House of the Flame (Yang, Fire element, passion and will)
+- House of the Land (Earth element, grounding, embodiment)
 - The I-Ching itself is foundational to Taoist cosmology (64 hexagrams as Tao's patterns)
 
 ### Angelology

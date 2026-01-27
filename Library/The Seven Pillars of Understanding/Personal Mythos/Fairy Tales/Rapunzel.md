@@ -378,7 +378,7 @@ The masculine journey is **from heroic inflation (the Prince) to wounding (the b
 
 **Danaë** – The Greek princess locked in a tower (or bronze chamber) by her father to prevent prophecy. Zeus enters as golden rain, impregnating her. Danaë gives birth to Perseus in captivity, then is exiled in a chest on the sea. The motif of **tower imprisonment + secret union + exile** parallels Rapunzel's arc.
 
-**[[Sleeping Beauty (Briar Rose)]]** – Another tower/castle imprisonment tale, where the princess is frozen in time (sleep, not captivity) until the masculine awakens her. Both encode the **suspended animation** of the feminine psyche awaiting the Animus's arrival to trigger development.
+**Sleeping Beauty (Briar Rose)** – Another tower/castle imprisonment tale, where the princess is frozen in time (sleep, not captivity) until the masculine awakens her. Both encode the **suspended animation** of the feminine psyche awaiting the Animus's arrival to trigger development.
 
 ### Alchemy
 
@@ -414,7 +414,7 @@ The masculine journey is **from heroic inflation (the Prince) to wounding (the b
 
 **[[Gate 59 - Dispersion]]** – The破坏 of barriers (the tower, the hair, the mother's control) to allow true intimacy, sexuality, and the merging that produces new life (the twins).
 
-**[[Channel 27-50: Preservation]]** – The mother's bargain (Channel 27-50: preservation of life at all costs) leads to Rapunzel's imprisonment. The Witch "preserves" Rapunzel (keeps her safe, alive, controlled) but prevents her from **living**. True preservation requires **release**, not possession.
+**Channel 27-50: Preservation** – The mother's bargain (Channel 27-50: preservation of life at all costs) leads to Rapunzel's imprisonment. The Witch "preserves" Rapunzel (keeps her safe, alive, controlled) but prevents her from **living**. True preservation requires **release**, not possession.
 
 ### I-Ching / The Window
 
@@ -506,10 +506,10 @@ The masculine journey is **from heroic inflation (the Prince) to wounding (the b
 
 ## Cross-References
 #### Archetypal Figures
-[[The Shadow]] • [[The Muse]] • [[The Idol]] • [[The Divine Child]] • [[The Alchemist]] • [[The Great Mother]] • The Terrible Mother • The Puella Aeterna • [[The Wild Woman]] • [[The Hero]]
+[[The Shadow]] • [[The Muse]] • [[The Idol]] • [[The Divine Child]] • [[The Alchemist]] • [[The Great Mother]] • The Terrible Mother • The Puella Aeterna • The Wild Woman • [[The Hero]]
 
 **Jungian Concepts:**
-Individuation • Shadow Integration • Mother Complex • [[Negative Mother]] • Coniunctio • [[The Transcendent Function]] • Syzygy • Active Imagination • Projection
+Individuation • Shadow Integration • Mother Complex • Negative Mother • Coniunctio • [[The Transcendent Function]] • Syzygy • Active Imagination • Projection
 
 **Tarot Keys:**
 [[The Tower (XVI)]] • [[The High Priestess (II)]] • [[The Hermit (IX)]] • [[The Moon (XVIII)]] • [[The Star (XVII)]] • [[Strength (VIII)]] • [[Temperance (XIV)]] • [[The Empress (III)]]
@@ -521,7 +521,7 @@ Individuation • Shadow Integration • Mother Complex • [[Negative Mother]] 
 Persephone and Demeter • Psyche and Eros • Danaë • Sleeping Beauty • [[Bluebeard]] • The Handless Maiden
 
 #### Fairy Tale Motifs
-[[The Tower Imprisonment]] • [[The Golden Hair]] • The Devouring Mother • [[The Secret Lover]] • [[The Exile and Return]] • [[The Healing Tears]] • [[The Divine Twins]]
+The Tower Imprisonment • The Golden Hair • The Devouring Mother • The Secret Lover • The Exile and Return • The Healing Tears • The Divine Twins
 
 #### Human Design Connections
 [[Sacral]] • [[Emotional Authority]] • [[Gate 59 - Dispersion]] • [[Channel 27-50 - Preservation]] • Tribal Circuitry

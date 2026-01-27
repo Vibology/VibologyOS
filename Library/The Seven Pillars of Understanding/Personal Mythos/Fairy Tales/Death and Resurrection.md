@@ -861,10 +861,10 @@ Collective Unconscious • Individuation • Shadow Integration • Coniunctio �
 [[Death (XIII)]] (XIII) • [[Judgement (XX)]] (XX) • [[The Tower (XVI)]] (XVI) • [[The Hanged Man (XII)]] (XII) • [[The Star (XVII)]] (XVII) • [[Temperance (XIV)]] (XIV) • [[The Moon (XVIII)]] (XVIII)
 
 #### Mythological Parallels
-Inanna's Descent • Persephone and Demeter • Psyche and Eros • [[Osiris Dismemberment]] • Orpheus and Eurydice • Dionysus • [[Jonah and the Whale]] • Christ's Resurrection
+Inanna's Descent • Persephone and Demeter • Psyche and Eros • Osiris Dismemberment • Orpheus and Eurydice • Dionysus • Jonah and the Whale • Christ's Resurrection
 
 #### Fairy Tale Motifs
-[[The Poisoned Apple]] • The Glass Coffin • [[The Forbidden Chamber]] • The Helpful Animal • The Magic Object • The Impossible Task • The Recognition Token
+The Poisoned Apple • The Glass Coffin • [[The Forbidden Chamber]] • The Helpful Animal • The Magic Object • The Impossible Task • The Recognition Token
 
 **Related Fairy Tales:**
 [[Snow White]] • Sleeping Beauty • [[Hansel and Gretel]] • [[Bluebeard]] • The Juniper Tree • Fitcher's Bird • [[The Two Brothers]] • [[Rapunzel]] • [[Beauty and the Beast]]

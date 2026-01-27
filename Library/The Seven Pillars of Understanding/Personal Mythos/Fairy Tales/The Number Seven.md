@@ -568,13 +568,13 @@ Individuation • Shadow Integration • Coniunctio • [[The Transcendent Funct
 [[Nigredo]] • [[Albedo]] • [[Citrinitas]] • [[Rubedo]] • Solve et Coagula • [[Calcination]] • [[Dissolution]] • [[Separation]] • [[Conjunction]] • [[Fermentation]] • [[Distillation]] • [[Coagulation]] • Iteratio • Philosopher's Stone
 
 #### Mythological Parallels
-Inanna's Descent • Persephone and Demeter • Psyche and Eros • The Seven Heavens • [[The Ladder of Jacob]] • The Ogdoad • [[Merkabah Mysticism]]
+Inanna's Descent • Persephone and Demeter • Psyche and Eros • The Seven Heavens • The Ladder of Jacob • The Ogdoad • [[Merkabah Mysticism]]
 
 #### Fairy Tale Motifs
 [[The Three Trials]] • [[The Wicked Stepmother]] • The Magic Mirror • The Poisoned Gift • The Glass Coffin • The Awakening Kiss • The Animal Helpers • [[The Youngest Child]]
 
 #### Related Tales
-[[Snow White]] • The Seven Ravens • The Six Swans • The Twelve Brothers • [[The Goose Girl at the Well]] • [[Beauty and the Beast]] • Sleeping Beauty • [[Cinderella]] • [[Rapunzel]]
+[[Snow White]] • The Seven Ravens • The Six Swans • The Twelve Brothers • The Goose Girl at the Well • [[Beauty and the Beast]] • Sleeping Beauty • [[Cinderella]] • [[Rapunzel]]
 
 #### Individuation Process
 [[Ego Formation and Childhood]] • [[Confrontation with Shadow]] • [[Encounter with Anima-Animus]] • [[Confrontation with the Self]] • [[Integration and Wholeness]] • [[Persona Development]]
@@ -583,16 +583,16 @@ Inanna's Descent • Persephone and Demeter • Psyche and Eros • The Seven He
 [[The Call to Adventure]] • [[Crossing the First Threshold]] • [[Tests, Allies, and Enemies]] • [[The Ordeal]] • [[The Reward]] • The Road Back • [[The Resurrection]] • [[Return with the Elixir]]
 
 **Astrological Correspondences:**
-[[Saturn ♄]] • [[Saturn ♄]] • [[The Moon (XVIII)]] • [[Cancer ♋]] • [[Lunar Cycles]] • [[The Seven Classical Planets]] • [[Pluto ♇]]
+[[Saturn ♄]] • [[Saturn ♄]] • [[The Moon (XVIII)]] • [[Cancer ♋]] • Lunar Cycles • The Seven Classical Planets • [[Pluto ♇]]
 
 **Cross-Cultural Parallels:**
-[[Seven Chakras]] • [[Kundalini]] • The Seven Heavens • [[Buddhist Cosmology]] • [[Hindu Mythology]] • [[Islamic Mysticism]] • [[Jewish Mysticism]] • [[Egyptian Mythology]]
+Seven Chakras • Kundalini • The Seven Heavens • [[Buddhist Cosmology]] • [[Hindu Mythology]] • Islamic Mysticism • Jewish Mysticism • [[Egyptian Mythology]]
 
 #### Human Design Connections
 [[Emotional Authority]] • [[Splenic Authority]] • [[Sacral]] • [[Root]] • [[Gate 50 - The Cauldron]] • [[Channel 27-50 - Preservation]]
 
 **Numerical Symbolism:**
-[[The Number Three]] • [[The Number Four]] • [[The Number Eight]] • [[The Number Twelve]] • The Ogdoad • [[The Quaternary]] • [[Sacred Geometry]]
+The Number Three • The Number Four • The Number Eight • The Number Twelve • The Ogdoad • The Quaternary • Sacred Geometry
 
 ---
 

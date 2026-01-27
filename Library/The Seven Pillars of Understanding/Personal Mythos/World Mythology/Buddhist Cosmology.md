@@ -1085,7 +1085,7 @@ The **grain of wheat** in the Eleusinian mysteries = the **lotus in the mud** in
 - [[Confrontation with Shadow]] (Recognizing the Three Poisons, Mara encounter)
 - [[Encounter with Anima-Animus]] (Tara devotion, Manjushri wisdom)
 - [[Confrontation with the Self]] (Enlightenment, Buddha-nature recognition)
-- [[The Individuation Process]] (The Noble Eightfold Path, Bodhisattva journey)
+- [[Individuation Process]] (The Noble Eightfold Path, Bodhisattva journey)
 
 ### Alchemical Stages
 - [[Nigredo]] (The Four Sights, Hell Realm, Mara's assault, Vipassana dark night)
@@ -1133,7 +1133,7 @@ The **grain of wheat** in the Eleusinian mysteries = the **lotus in the mud** in
 - Channel 10-20 (Awakening) = Buddha-nature recognition
 
 ### Related Systems
-- [[The I-Ching]] (Book of Changes parallels impermanence teaching)
+- The I-Ching (Book of Changes parallels impermanence teaching)
 - Qabalah (Tree of Life parallels the graduated path, Ten Sephiroth as stages)
 - [[Angelology]] (Bodhisattvas as "angelic" intermediaries)
 - [[The Window]] (Contemporary archetypal resonance with Buddhist themes)

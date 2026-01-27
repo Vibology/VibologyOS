@@ -67,7 +67,7 @@ Zeus's weapon is not the sword (Mars) but the thunderbolt—**judgment from abov
 
 ### Within Personal Mythos
 - **Greek Mythology Overview:** [[Greek Mythology]]
-- **Related Deities:** [[Hera]] (wife/queen), [[Kronos]] (father), [[Poseidon]] (brother), [[Hades]] (brother)
+- **Related Deities:** Hera (wife/queen), Kronos (father), [[Poseidon]] (brother), [[Hades]] (brother)
 
 ### Cross-System Integration
 - **[[Astrology]]:** [[Jupiter ♃]] as planetary embodiment

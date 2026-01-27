@@ -519,7 +519,7 @@ The psyche's response: **Anxiety, depression, addiction**—the return of the re
 [[The Hero]] • [[The Muse]] • [[The Idol]] • [[The Shadow]] • [[The Alchemist]] • [[The Great Mother]] • [[The Wise Old Man]] • [[The Divine Child]] • [[The Nightmare]]
 
 **Jungian Concepts:**
-Individuation • Shadow Integration • Active Imagination • [[The Transcendent Function]] • Projection • [[Inflation]] • Syzygy • [[Quaternary]]
+Individuation • Shadow Integration • Active Imagination • [[The Transcendent Function]] • Projection • [[Inflation]] • Syzygy • Quaternary
 
 **Tarot Keys:**
 [[The Hanged Man (XII)]] • [[Strength (VIII)]] • [[The Star (XVII)]] • [[Death (XIII)]] • [[Temperance (XIV)]] • [[The Hermit (IX)]] • [[The Tower (XVI)]] • [[The World (XXI)]]
@@ -528,10 +528,10 @@ Individuation • Shadow Integration • Active Imagination • [[The Transcende
 [[Nigredo]] • [[Albedo]] • [[Citrinitas]] • [[Rubedo]] • Solve et Coagula • Coniunctio • Iteratio • Philosopher's Stone
 
 #### Mythological Parallels
-Psyche and Eros • Inanna's Descent • [[Heracles]] • [[Persephone]] • Orpheus and Eurydice • [[The Odyssey]] • [[The Epic of Gilgamesh]]
+Psyche and Eros • Inanna's Descent • Heracles • [[Persephone]] • Orpheus and Eurydice • The Odyssey • The Epic of Gilgamesh
 
 #### Fairy Tale Motifs
-The Animal Bridegroom • The Impossible Task • [[The Helpful Animals]] • [[The Descent to the Underworld]] • [[The Sacred Number Three]] • [[The Jealous Goddess]]
+The Animal Bridegroom • The Impossible Task • The Helpful Animals • The Descent to the Underworld • The Sacred Number Three • The Jealous Goddess
 
 #### Related Tales
 [[Beauty and the Beast]] • [[Cinderella]] • Vasilisa the Beautiful • The Handless Maiden • The Six Swans • The Twelve Brothers • East of the Sun, West of the Moon
@@ -552,7 +552,7 @@ The Animal Bridegroom • The Impossible Task • [[The Helpful Animals]] • [[
 [[Greek Mythology]] • [[Norse Mythology]] • [[Egyptian Mythology]] • [[Mesopotamian Mythology]] • [[Hindu Mythology]] • [[Buddhist Cosmology]]
 
 **Folklore Themes:**
-Initiation Rites • [[Death and Rebirth]] • [[The Descent Motif]] • The Sacred Marriage • [[Patience and Endurance]] • [[Instinct Over Intellect]]
+Initiation Rites • Death and Rebirth • The Descent Motif • The Sacred Marriage • Patience and Endurance • Instinct Over Intellect
 
 ---
 

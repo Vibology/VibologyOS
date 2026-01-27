@@ -481,7 +481,7 @@ Individuation • Shadow Integration • Coniunctio • [[The Transcendent Funct
 Persephone and Demeter • Inanna's Descent • Aphrodite and Psyche • Sleeping Beauty • The Handless Maiden • [[Bluebeard]]
 
 #### Fairy Tale Motifs
-[[The Wicked Stepmother]] • The Magic Mirror • The Poisoned Gift • [[The Seven as Cycle]] • The Glass Coffin • The Awakening Kiss • The Animal Helpers
+[[The Wicked Stepmother]] • The Magic Mirror • The Poisoned Gift • The Seven as Cycle • The Glass Coffin • The Awakening Kiss • The Animal Helpers
 
 #### Individuation Process
 [[Confrontation with Shadow]] • [[Encounter with Anima-Animus]] • [[Confrontation with the Self]] • [[Integration and Wholeness]] • [[Ego Formation and Childhood]]

@@ -328,7 +328,7 @@ A **real person** who has descended into their own underworld and returned with 
 - [[8th House]] (crisis, shared resources, death, regeneration)
 - [[Scorpio ♏]] (depth, intensity, shadow work, transformation)
 - **Saturn Opposite Saturn** (age 44—midlife crisis transit)
-- [[Pluto Square Pluto]] (age 40-42—generational crisis)
+- Pluto Square Pluto (age 40-42—generational crisis)
 
 **Human Design:**
 - [[Root]] (pressure to transform, fear as motivator)
@@ -340,7 +340,7 @@ A **real person** who has descended into their own underworld and returned with 
 #### Mythology
 - [[Greek Mythology]] (Persephone's abduction, Orpheus' descent)
 - [[Mesopotamian Mythology]] (Inanna's descent to Ereshkigal)
-- [[Dante's Divine Comedy]] (*Inferno*—circles of hell as shadow aspects)
+- Dante's Divine Comedy (*Inferno*—circles of hell as shadow aspects)
 - Christian Mythology (Christ's Harrowing of Hell, descent before resurrection)
 
 **Fairy Tales:**
@@ -353,9 +353,9 @@ A **real person** who has descended into their own underworld and returned with 
 - Midlife Crisis (cultural term for this stage)
 - Projection (seeing one's shadow in others)
 - Active Imagination (method for shadow dialogue)
-- [[Moral Inflation]] (identifying as "all good")
-- [[Shadow Possession]] (overwhelmed by repressed contents)
-- [[Scapegoating]] (collective shadow projection)
+- Moral Inflation (identifying as "all good")
+- Shadow Possession (overwhelmed by repressed contents)
+- Scapegoating (collective shadow projection)
 - Dark Night of the Soul (mystical parallel to Nigredo)
 
 ---

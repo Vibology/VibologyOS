@@ -511,7 +511,7 @@ Individuation • Shadow Integration • Mother Complex • [[The Transcendent F
 Baba Yaga • Demeter and Persephone • Psyche and Eros • Chronos • Philomela and Procne • [[Bluebeard]] • The Juniper Tree
 
 #### Fairy Tale Motifs
-Abandonment in the Forest • [[The Devouring Witch]] • [[The Gingerbread House]] • [[Sibling Bond]] • [[The Treasure from the Underworld]] • [[The Helper Animal]] • [[The Wicked Stepmother]]
+Abandonment in the Forest • The Devouring Witch • The Gingerbread House • Sibling Bond • The Treasure from the Underworld • The Helper Animal • [[The Wicked Stepmother]]
 
 #### Human Design Connections
 [[Sacral]] • [[Spleen]] • [[Solar Plexus]] • [[Emotional Authority]] • [[Channel 27-50 - Preservation]] • Tribal Circuitry

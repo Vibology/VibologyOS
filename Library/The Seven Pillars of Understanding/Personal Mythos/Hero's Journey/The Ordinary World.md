@@ -570,7 +570,7 @@ The future of the Ordinary World archetype may be **gender-integrative**—honor
 - Comfort Zone: The psychological term for the Ordinary World—the range of behaviors and experiences that feel safe, familiar, non-threatening. Growth requires leaving the comfort zone.
 - Homeostasis: The psyche's tendency toward equilibrium. The Ordinary World is homeostasis; the Call is the disruption that forces evolution.
 - Midlife Crisis: The Ordinary World calcified—job, marriage, identity feel like prisons. The [[The Self]] revolts, demanding renegotiation.
-- [[Depression]]: Often the psyche's signal that the Ordinary World is **insufficient**—the flatness, the numbness, the *"What's the point?"* are the Call refused too long.
+- Depression: Often the psyche's signal that the Ordinary World is **insufficient**—the flatness, the numbness, the *"What's the point?"* are the Call refused too long.
 
 ---
 

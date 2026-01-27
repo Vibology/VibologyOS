@@ -701,11 +701,11 @@ The Rubedo is the lived experience of the Self—the center and the circumferenc
 - [[Astrology]] - The wounded healer (shadow integrated, Rubedo compassion)
 
 ### Related Human Design
-- [[Defined Sacral]] - Life force embodied (Rubedo vitality)
-- [[Defined G-Center]] - Identity fixed, Self embodied (Rubedo center)
+- [[Sacral]] - Life force embodied (Rubedo vitality)
+- [[G Center]] - Identity fixed, Self embodied (Rubedo center)
 - Channel 10-20 - The Channel of Awakening/Being (Rubedo as living the Self)
-- [[Channel 51-25]] - Initiation (the shock that brings Rubedo)
-- [[Manifesting Generator]] - Vitality in action (Rubedo as embodied service)
+- Channel 51-25 - Initiation (the shock that brings Rubedo)
+- Manifesting Generator - Vitality in action (Rubedo as embodied service)
 - [[Manifestor]] - Initiating (the Rubedo elder who initiates the new)
 
 ### Related Angelology

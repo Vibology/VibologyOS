@@ -626,7 +626,7 @@ Dissolution *is* making the darkness conscious. The waters are dark, cold, terri
 ### Related Angelology
 - [[Raphael]] - Archangel of healing and water, the one who stirs the healing pool
 - [[Gabriel]] - Archangel of annunciation and revelation, emotional truth
-- [[Undines]] - Water elementals, guardians of emotional and psychic waters
+- Undines - Water elementals, guardians of emotional and psychic waters
 
 ### Related Folklore & Mythology
 - [[Greek Mythology]] - Deucalion's Flood, Ophelia, River Lethe, Oceanus

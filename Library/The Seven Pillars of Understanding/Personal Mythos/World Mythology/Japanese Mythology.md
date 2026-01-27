@@ -922,7 +922,7 @@ Shinto cosmology maps the **individuation process** with precision:
 - [[The Shadow]] (Oni, yokai, Susanoo unleashed)
 - [[The Joker]] (Kitsune, tanuki, shapeshifters, boundary-crossers)
 - Sacred Marriage (Izanagi/Izanami, Susanoo/Kushinada, coniunctio)
-- [[Katabasis]] (Izanagi's Yomi descent, hero's underworld journey)
+- Katabasis (Izanagi's Yomi descent, hero's underworld journey)
 - Psychopomp (Ancestral kami, torii as threshold, guiding souls)
 
 ---

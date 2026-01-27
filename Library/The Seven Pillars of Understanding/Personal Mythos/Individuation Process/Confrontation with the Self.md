@@ -356,9 +356,9 @@ A **whole human being** who has shifted the center of gravity from ego to Self, 
 **Related Concepts:**
 - Ego-Self Axis (relationship between ego and totality)
 - [[Inflation]] (ego identifying with Self = megalomania)
-- [[Mandala]] (symbol of the Self, wholeness)
-- [[God-Image]] (the Self as experienced divine)
-- [[Teleology]] (sense of purpose, destiny, direction)
+- Mandala (symbol of the Self, wholeness)
+- God-Image (the Self as experienced divine)
+- Teleology (sense of purpose, destiny, direction)
 - [[Synchronicity]] (the Self's manifestation in matter)
 - Unus Mundus (One World—spirit and matter continuous)
 - Philosopher's Stone (Lapis—the realized Self)

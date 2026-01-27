@@ -668,9 +668,9 @@ Separation is differentiation. Without it, there is only unconscious fusion (par
 
 ### Related Folklore & Mythology
 - Athena (when created) - Goddess of wisdom, strategy, and discrimination
-- [[The Sword]] (when created) - Universal symbol of Separation and discernment
-- [[The Scales]] (when created) - Universal symbol of weighing, judgment, balance
-- [[Mercury/Hermes]] (when created) - Trickster and messenger, separator and connector
+- The Sword (when created) - Universal symbol of Separation and discernment
+- The Scales (when created) - Universal symbol of weighing, judgment, balance
+- Mercury/Hermes (when created) - Trickster and messenger, separator and connector
 - [[Personal Mythos]] (when created) - How Separation appears in individual story
 
 ### Related I-Ching & The Window

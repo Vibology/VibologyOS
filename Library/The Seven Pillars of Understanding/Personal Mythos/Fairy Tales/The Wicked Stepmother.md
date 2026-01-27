@@ -806,10 +806,10 @@ If you answered "yes" to multiple questions, the **Inner Stepmother is active**.
 [[The Shadow]] • [[The Great Mother]] • The Terrible Mother • [[The Muse]] • [[The Idol]] • [[The Divine Child]] • [[The Alchemist]] • [[The Hero]] • [[The Wise Old Man]] • [[The Nightmare]] • [[The Changeling]]
 
 **Jungian Concepts:**
-Individuation • Shadow Integration • [[Negative Mother Complex]] • [[Mother Archetype]] • Projection • [[Separation Anxiety]] • Ego-Self Axis • [[Persona Development]] • Active Imagination • [[The Transcendent Function]]
+Individuation • Shadow Integration • Negative Mother Complex • Mother Archetype • Projection • Separation Anxiety • Ego-Self Axis • [[Persona Development]] • Active Imagination • [[The Transcendent Function]]
 
 **Fairy Tales:**
-[[Snow White]] • [[Cinderella]] • [[Hansel and Gretel]] • [[Rapunzel]] • Sleeping Beauty • The Juniper Tree • [[Mother Holle]] • [[Beauty and the Beast]] • The Goose Girl • Rumpelstiltskin
+[[Snow White]] • [[Cinderella]] • [[Hansel and Gretel]] • [[Rapunzel]] • Sleeping Beauty • The Juniper Tree • Mother Holle • [[Beauty and the Beast]] • The Goose Girl • Rumpelstiltskin
 
 #### Alchemical Stages
 [[Separation]] • [[Calcination]] • [[Dissolution]] • [[Nigredo]] • [[Albedo]] • [[Rubedo]] • Solve et Coagula • [[Coagulation]]
@@ -821,7 +821,7 @@ Individuation • Shadow Integration • [[Negative Mother Complex]] • [[Mothe
 [[Saturn ♄]] • [[Pluto ♇]] • [[Astrology]] • [[8th House]] • [[12th House]] • [[Scorpio ♏]] • [[Capricorn ♑]] • [[Astrology]]
 
 **Human Design:**
-Open Centers • [[Solar Plexus]] • [[Strategy]] • [[Spleen Authority]] • [[Gate 18 - Work on What Has Been Spoilt]] • [[Gate 06 - Conflict]] • [[Gate 48 - The Well]]
+Open Centers • [[Solar Plexus]] • [[Strategy]] • [[Splenic Authority]] • [[Gate 18 - Work on What Has Been Spoilt]] • [[Gate 06 - Conflict]] • [[Gate 48 - The Well]]
 
 **Mythology & Folklore:**
 [[Greek Mythology]] • [[Norse Mythology]] • Slavic Mythology • [[Hindu Mythology]] • Baba Yaga • Kali • Ereshkigal • Persephone and Demeter • Inanna's Descent
@@ -833,7 +833,7 @@ Open Centers • [[Solar Plexus]] • [[Strategy]] • [[Spleen Authority]] • 
 [[The Call to Adventure]] • [[Refusal of the Call]] • [[Crossing the First Threshold]] • [[The Ordeal]] • The Road Back • [[Return with the Elixir]] • [[Tests, Allies, and Enemies]]
 
 **Related Motifs:**
-The Magic Mirror • The Poisoned Gift • The Glass Coffin • [[The Tower as Prison]] • [[The Sorting Task]] • The Animal Helpers • The Fairy Godmother • [[The Hostile Sisters]]
+The Magic Mirror • The Poisoned Gift • The Glass Coffin • The Tower as Prison • The Sorting Task • The Animal Helpers • The Fairy Godmother • The Hostile Sisters
 
 ---
 

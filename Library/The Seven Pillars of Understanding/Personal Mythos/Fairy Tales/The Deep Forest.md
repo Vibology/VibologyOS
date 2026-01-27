@@ -79,7 +79,7 @@ Von Franz identifies the forest as the **vegetative level of consciousness**—t
 The forest is **inhabited**—not by humans but by **animals** (literal and symbolic), representing the **instinctual forces** of the psyche:
 
 - **The wolf** – Predator, hunter, pack intelligence; in Little Red Riding Hood, the wolf is both **danger** (projection of sexual/aggressive instinct) and **initiator** (the force that breaks naivety)
-- **The bear** – Maternal ferocity, hibernation (descent into darkness), resurrection (emerging from the winter cave); in [[Snow White and Rose Red]], the bear is the cursed prince awaiting recognition
+- **The bear** – Maternal ferocity, hibernation (descent into darkness), resurrection (emerging from the winter cave); in Snow White and Rose Red, the bear is the cursed prince awaiting recognition
 - **The raven/crow** – Psychopomp, messenger between worlds, oracle of death and transformation
 - **The deer** – The elusive, the sacred quarry, the soul-animal that leads the hero into the forest (often in Arthurian legends)
 - **The serpent** – Chthonic wisdom, the kundalini coiled at the base of the tree, guardian of treasures
@@ -620,7 +620,7 @@ Individuation • Shadow Integration • Mother Complex • [[The Transcendent F
 [[Spleen]] • [[Solar Plexus]] • [[Sacral]] • [[Gate 27 - Nourishment]] • [[Human Design]]
 
 **Related Concepts:**
-Uroboros • Prima Materia • [[Temenos]] • Dark Night of the Soul • [[Via Negativa]] • Anima Mundi • [[Sacred Grove]] • Vision Quest • [[Initiation]] • [[Liminality]]
+Uroboros • Prima Materia • Temenos • Dark Night of the Soul • Via Negativa • Anima Mundi • Sacred Grove • Vision Quest • Initiation • Liminality
 
 ---
 

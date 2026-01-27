@@ -366,9 +366,9 @@ A **soul-connected individual** who has built the bridge between ego and unconsc
 - Active Imagination (dialoguing with soul-image)
 - Sacred Marriage (*Hierosgamos*)
 - Syzygy (divine couple, union of opposites)
-- [[Muse]] (Anima as creative source)
+- Muse (Anima as creative source)
 - Eros (relatedness, soul, feminine principle)
-- [[Logos]] (meaning, word, masculine principle)
+- Logos (meaning, word, masculine principle)
 - Psychopomp (guide between worlds)
 
 ---

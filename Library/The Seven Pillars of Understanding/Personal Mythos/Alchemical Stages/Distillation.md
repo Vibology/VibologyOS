@@ -577,7 +577,7 @@ When the psyche embraces the work of circulation—when insights are patiently b
 
 ### Related Hero's Journey Stages
 - [[Tests, Allies, and Enemies]] - Repeated trials that refine the hero
-- [[The Return with the Elixir]] - Bringing the distilled essence home
+- The Return with the Elixir - Bringing the distilled essence home
 - [[Meeting the Mentor]] - The mentor as one who has already distilled wisdom
 - [[The Ordeal]] - The central crisis that must be circulated, reflected upon, integrated
 
@@ -609,14 +609,14 @@ When the psyche embraces the work of circulation—when insights are patiently b
 - [[Gabriel]] - The messenger angel, bringing annunciations from heaven to earth (Distillation of divine will)
 
 ### Related Folklore & Mythology
-- [[Jacob's Ladder]] (when created) - Angels ascending and descending, archetypal Distillation image
-- [[Hermes Trismegistus]] (when created) - The thrice-great, author of Emerald Tablet, master of Distillation
+- Jacob's Ladder (when created) - Angels ascending and descending, archetypal Distillation image
+- Hermes Trismegistus (when created) - The thrice-great, author of Emerald Tablet, master of Distillation
 - The Water of Life (when created) - Fairy tale motif of distilled healing essence
-- [[Soma]] (when created) - Hindu divine nectar, distilled from cosmic churning
+- Soma (when created) - Hindu divine nectar, distilled from cosmic churning
 
 ### Related Individuation Process
-- [[Self-Reflection]] (when created) - The primary function of Distillation in individuation
-- [[Shadow Confrontation]] - Shadow content must be distilled (recognized, integrated) through repeated circulation
+- Self-Reflection (when created) - The primary function of Distillation in individuation
+- Shadow Confrontation - Shadow content must be distilled (recognized, integrated) through repeated circulation
 - [[The Anima]] - Soul-image projections withdrawn and distilled into inner relationship
 
 ---

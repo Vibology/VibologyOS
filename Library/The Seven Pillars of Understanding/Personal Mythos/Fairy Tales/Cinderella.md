@@ -603,7 +603,7 @@ Individuation • Shadow Integration • Coniunctio • [[Nigredo]] • [[Albedo
 Psyche and Eros • Persephone and Demeter • Inanna's Descent • Orpheus and Eurydice • Hades and Persephone
 
 #### Fairy Tale Motifs
-[[The Dead Mother]] • The Helpful Animal • The Impossible Task • The Magic Object • The Recognition Token • [[The Transformed Bride]]
+The Dead Mother • The Helpful Animal • The Impossible Task • The Magic Object • The Recognition Token • The Transformed Bride
 
 #### Related Tales
 [[Beauty and the Beast]] • [[Snow White]] • The Handless Maiden • Vasilisa the Beautiful • Allerleirauh • Cap O' Rushes • The Goose Girl

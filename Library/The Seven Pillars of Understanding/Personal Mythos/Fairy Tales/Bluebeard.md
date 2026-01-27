@@ -582,22 +582,22 @@ Individuation • Shadow Integration • Projection • Active Imagination • [
 Mortificatio • [[Nigredo]] • Solve et Coagula • Putrefaction • [[Calcination]]
 
 #### Mythological Parallels
-Hades and Persephone • Orpheus and Eurydice • Psyche and Eros • [[Beauty and the Beast]] • The Handless Maiden • [[Vasalisa the Wise]]
+Hades and Persephone • Orpheus and Eurydice • Psyche and Eros • [[Beauty and the Beast]] • The Handless Maiden • Vasalisa the Wise
 
 #### Fairy Tale Motifs
-[[The Forbidden Chamber]] • [[The Bloody Key]] • The Animal Bridegroom • [[The Predatory Husband]] • [[The Rescuing Brothers]] • Curiosity as Initiation
+[[The Forbidden Chamber]] • The Bloody Key • The Animal Bridegroom • The Predatory Husband • The Rescuing Brothers • Curiosity as Initiation
 
 #### Human Design Connections
 [[Emotional Authority]] • Tribal Circuitry • [[Gate 61 - Inner Truth]] • [[Gate 60 - Limitation]] • [[Head]]
 
 #### Individuation Process
-[[Confrontation with Shadow]] • [[Encounter with Anima-Animus]] • [[Integration and Wholeness]] • [[Shadow Recognition vs. Integration]]
+[[Confrontation with Shadow]] • [[Encounter with Anima-Animus]] • [[Integration and Wholeness]] • Shadow Recognition vs. Integration
 
 #### Hero's Journey Stages
 [[The Call to Adventure]] • [[Crossing the First Threshold]] • [[The Ordeal]] • [[The Resurrection]] • [[Return with the Elixir]]
 
 #### Related Tales
-[[Beauty and the Beast]] • Fitcher's Bird • [[The Robber Bridegroom]] • [[Mr. Fox]] • [[The White Dove]] • The Handless Maiden
+[[Beauty and the Beast]] • Fitcher's Bird • The Robber Bridegroom • Mr. Fox • The White Dove • The Handless Maiden
 
 ---
 

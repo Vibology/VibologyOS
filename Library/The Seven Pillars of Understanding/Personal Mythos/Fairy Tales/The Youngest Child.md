@@ -401,8 +401,8 @@ In Tarot, the **Fool's Journey** is the progression through all 22 Major Arcana 
 
 The **Youngest Child's fairy tale arc** mirrors this journey:
 - **Fool (0):** The youngest is naive, despised, without ego-strategies
-- **[[The Magician|The Magician]] (1) / [[The High Priestess|High Priestess]] (2):** He encounters the helper (the magical figure who sees his potential)
-- **[[The Lovers|The Lovers]] (6):** He makes the choice to be authentic (to share his food, to be kind to animals)
+- **[[The Magician (I)|The Magician (1) / [[The High Priestess (II)|High Priestess (2):** He encounters the helper (the magical figure who sees his potential)
+- **[[The Lovers (VI)|The Lovers (6):** He makes the choice to be authentic (to share his food, to be kind to animals)
 - **[[The Hanged Man (XII)|The Hanged Man]] (12):** He experiences the suspension of ego-mastery (the impossible tasks he cannot solve alone)
 - **[[Death (XIII)|Death]] (13):** The elder siblings' strategies "die" (they fail, are turned to stone, are exposed)
 - **[[The World (XXI)|The World]] (21):** He claims the treasure, marries the princess, becomes king (integration, wholeness)
@@ -626,10 +626,10 @@ This practice trains the psyche to operate from **abundance rather than scarcity
 
 ### Tarot Major Arcana
 - [[The Fool (0)]] – The primary Tarot correspondence (innocence, potential, the leap)
-- [[The Magician|The Magician (1)]] – The helper who sees the Fool's potential
-- [[The High Priestess|The High Priestess (2)]] – The unconscious wisdom the Fool can access
-- [[The Lovers|The Lovers (6)]] – The choice to be authentic (sharing the bread)
-- [[The Hermit|The Hermit (9)]] – The elder who returns to beginner's mind
+- [[The Magician (I)|The Magician (1) – The helper who sees the Fool's potential
+- [[The High Priestess (II)|The High Priestess (2) – The unconscious wisdom the Fool can access
+- [[The Lovers (VI)|The Lovers (6) – The choice to be authentic (sharing the bread)
+- [[The Hermit (IX)|The Hermit (9) – The elder who returns to beginner's mind
 - [[The Hanged Man (XII)|The Hanged Man (12)]] – The suspension of ego-mastery (the impossible task)
 - [[Death (XIII)|Death (13)]] – The death of the elder brothers' strategies
 - [[The World (XXI)|The World (21)]] – The Fool's journey complete (conscious wholeness)

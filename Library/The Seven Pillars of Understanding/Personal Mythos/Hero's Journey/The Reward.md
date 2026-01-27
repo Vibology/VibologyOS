@@ -16,7 +16,7 @@ verification_notes: "Campbell's monomyth[^1] framework (12-stage Hero's Journey)
 
 The Reward represents the **first fruits of transformation**, the boon seized in the immediate aftermath of the [[The Ordeal]]. In Campbell's topology[^1], this is Stage 9 of the monomyth, positioned at the precise moment when descent pivots toward ascent. The hero, having survived death—literal, symbolic, or psychological—now claims the treasure that was the quest's objective.
 
-Jung's concept of[^2] the **[[Treasure Hard to Attain]]**—the [[The Self]] as the goal of Individuation—provides the psychological substrate. The Reward is not merely an external object but the **first conscious glimpse of wholeness**, the integration of what was lost in the [[The Ordeal]]'s death. It is compensation, proof of transformation, and the fragile beginning of a new relationship between Ego and Self.
+Jung's concept of[^2] the **Treasure Hard to Attain**—the [[The Self]] as the goal of Individuation—provides the psychological substrate. The Reward is not merely an external object but the **first conscious glimpse of wholeness**, the integration of what was lost in the [[The Ordeal]]'s death. It is compensation, proof of transformation, and the fragile beginning of a new relationship between Ego and Self.
 
 In alchemical terms, the Reward corresponds to the **[[Albedo]]** (whitening)—the purification and first light after the [[Nigredo]]'s darkness. The blackened matter has been cooked; what emerges is refined, luminous, transformed. Yet the Work is not complete—the boon must be defended, tested, and ultimately brought home.
 
@@ -40,13 +40,13 @@ The Reward appears across mythological traditions with archetypal consistency:
 
 **1. Material Boon**
 - **Jason and the Golden Fleece**: The fleece represents rightful kingship, inheritance reclaimed. Jason's quest was to prove his worthiness; the Fleece is the proof.
-- **Theseus and Freedom from the Labyrinth**: Ariadne's thread was the tool; escape from the [[Minotaur]]'s lair is the Reward—freedom, recognition as hero.
+- **Theseus and Freedom from the Labyrinth**: Ariadne's thread was the tool; escape from the Minotaur's lair is the Reward—freedom, recognition as hero.
 - **Prometheus and Fire**: Stolen from the gods, fire is both literal (technology, civilization) and symbolic (consciousness, divine knowledge). The Reward that serves humanity but incurs divine wrath.
-- **Percival and the Holy Grail**: The Grail heals the [[Fisher King]] and restores the [[Wasteland]]. The Reward is not for the hero alone but for the wounded king and the dying land.
+- **Percival and the Holy Grail**: The Grail heals the Fisher King and restores the Wasteland. The Reward is not for the hero alone but for the wounded king and the dying land.
 
 **2. Knowledge Boon**
-- **Odin and the Runes**: After hanging on [[Yggdrasil]] for nine nights (the [[The Ordeal]]), Odin seizes the runes—archetypal wisdom, the secret names of reality. Knowledge purchased with suffering.
-- **Buddha and Enlightenment**: After defeating [[Mara]] (the tempter) under the Bodhi tree, the Buddha attains enlightenment—direct knowledge of suffering's cessation. The Reward is awakening itself.
+- **Odin and the Runes**: After hanging on Yggdrasil for nine nights (the [[The Ordeal]]), Odin seizes the runes—archetypal wisdom, the secret names of reality. Knowledge purchased with suffering.
+- **Buddha and Enlightenment**: After defeating Mara (the tempter) under the Bodhi tree, the Buddha attains enlightenment—direct knowledge of suffering's cessation. The Reward is awakening itself.
 - **Moses and the Ten Commandments**: Ascending Sinai (the Ordeal of the mountain, the theophany), Moses receives the Law—divine structure for human community.
 - **Inanna's Return from the Underworld**: Having died and been resurrected, Inanna returns with knowledge of death and rebirth, the wisdom of Ereshkigal (her shadow sister).
 
@@ -188,7 +188,7 @@ The Reward is the **first reversal of fortune**—the lowest point has passed, a
 
 **Relationship to Other Stages**:
 - **The [[The Ordeal]] (Stage 8)** is the death; the Reward is the resurrection's first evidence.
-- **The [[Road Back]] (Stage 10)** tests whether the hero can *keep* the Reward under pressure.
+- **The Road Back (Stage 10)** tests whether the hero can *keep* the Reward under pressure.
 - **The [[Return with the Elixir]] (Stage 12)** refines the Reward into medicine for the community.
 
 **Skipping the Reward**: If the hero bypasses this stage—fleeing the underworld empty-handed or refusing the boon—the journey aborts. They return traumatized, not transformed. The [[The Shadow]] will force another cycle.
@@ -560,7 +560,7 @@ The future of the Reward archetype is **gender-integrative**—honoring both con
 ### Folklore and Mythology
 - The Grail: The ultimate Reward—healing for the Fisher King, restoration of the Wasteland.
 - The Golden Fleece: Material Reward symbolizing rightful kingship, inheritance reclaimed.
-- [[The Elixir of Immortality]]: The Reward as transcendence—freedom from death, eternal life.
+- The Elixir of Immortality: The Reward as transcendence—freedom from death, eternal life.
 - The Sacred Marriage: Union with the divine—Psyche and Eros, Beauty and Beast, Odysseus and Penelope.
 - The Underworld: The Reward is what the hero brings back from the underworld—knowledge, treasure, or a rescued soul.
 - The Boon: Campbell's term for the Reward—the prize, the gift, the object of the quest.

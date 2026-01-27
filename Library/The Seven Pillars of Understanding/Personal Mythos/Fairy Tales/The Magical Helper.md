@@ -677,25 +677,25 @@ When facing an **impossible task** (the problem the ego alone cannot solve):
 [[The Alchemist]] • [[The Muse]] • [[The Idol]] • [[The Great Mother]] • [[The Wise Old Man]] • [[The Divine Child]] • [[The Shadow]] • [[The Joker]] • [[The Hero]]
 
 **Jungian Concepts:**
-Individuation • [[The Transcendent Function]] • Active Imagination • Shadow Integration • Collective Unconscious • [[Synchronicity]] • Projection • Syzygy • Coniunctio • [[Helpful Instinct]] • Objective Psyche
+Individuation • [[The Transcendent Function]] • Active Imagination • Shadow Integration • Collective Unconscious • [[Synchronicity]] • Projection • Syzygy • Coniunctio • Helpful Instinct • Objective Psyche
 
 **Tarot Keys:**
 [[The Star (XVII)]] • [[The Magician (I)]] • [[Strength (VIII)]] • [[Temperance (XIV)]] • [[The High Priestess (II)]] • [[The Hermit (IX)]] • [[The Fool (0)]] • [[The Empress (III)]] • [[The Moon (XVIII)]]
 
 **Alchemical Concepts:**
-Mercurius • Philosopher's Stone • Solve et Coagula • [[Nigredo]] • [[Albedo]] • [[Rubedo]] • Prima Materia • [[Homunculus]] • Athanor
+Mercurius • Philosopher's Stone • Solve et Coagula • [[Nigredo]] • [[Albedo]] • [[Rubedo]] • Prima Materia • Homunculus • Athanor
 
 #### Mythological Parallels
-Athena • [[Hermes]] • Psyche and Eros • Demeter and Persephone • Baba Yaga • Avalokiteshvara • Tara • [[The Loathly Lady]] • [[Sovereignty Goddess]]
+Athena • [[Hermes]] • Psyche and Eros • Demeter and Persephone • Baba Yaga • Avalokiteshvara • Tara • The Loathly Lady • Sovereignty Goddess
 
 #### Fairy Tale Motifs
-[[The Doll]] • The Helpful Animal • The Impossible Task • The Fairy Godmother • [[The Talking Bird]] • The Magic Object • [[The Disguised Helper]] • [[The Three Gifts]] • [[The White Duck]]
+The Doll • The Helpful Animal • The Impossible Task • The Fairy Godmother • The Talking Bird • The Magic Object • The Disguised Helper • The Three Gifts • The White Duck
 
 #### Related Tales
 [[Cinderella]] • [[Beauty and the Beast]] • [[Hansel and Gretel]] • [[Snow White]] • Sleeping Beauty • [[Frog Prince]] • [[The Two Brothers]] • [[Rapunzel]] • Vasilisa the Beautiful
 
 #### Human Design Connections
-[[Spleen]] • [[Sacral]] • [[G Center]] • [[Emotional Authority]] • [[Splenic Authority]] • [[Intuition]] • [[Instinct]]
+[[Spleen]] • [[Sacral]] • [[G Center]] • [[Emotional Authority]] • [[Splenic Authority]] • Intuition • Instinct
 
 #### Individuation Process
 [[Ego Formation and Childhood]] • [[Confrontation with Shadow]] • [[Encounter with Anima-Animus]] • [[Confrontation with the Self]] • [[Integration and Wholeness]]

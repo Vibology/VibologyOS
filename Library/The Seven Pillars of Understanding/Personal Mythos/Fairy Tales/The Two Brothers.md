@@ -616,7 +616,7 @@ Individuation • Shadow Integration • Projection • Coniunctio • [[The Tra
 [[The Call to Adventure]] • [[Crossing the First Threshold]] • [[Tests, Allies, and Enemies]] • [[The Ordeal]] • [[The Ordeal]] • [[The Resurrection]] • [[Return with the Elixir]]
 
 **Astrological Correspondences:**
-[[Gemini ♊]] • [[Mercury ☿]] • [[Saturn ♄]] • [[Pluto ♇]] • [[8th House]] • [[Nodes of the Moon]] • [[Astrology]] • [[Astrology]]
+[[Gemini ♊]] • [[Mercury ☿]] • [[Saturn ♄]] • [[Pluto ♇]] • [[8th House]] • Nodes of the Moon • [[Astrology]] • [[Astrology]]
 
 **I-Ching Hexagrams:**
 Hexagram 38 - Opposition • Hexagram 31 - Influence • Hexagram 29 - The Abysmal

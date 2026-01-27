@@ -643,7 +643,7 @@ The Citrinitas is the making of the Self conscious. It is the ripening of wisdom
 ### Related Folklore
 - Fairy tales of wisdom: Rumplestiltskin (false gold), Beauty and the Beast (golden heart), the golden goose
 - [[Personal Mythos]] (when created) - How Citrinitas appears in individual life story
-- [[The Elder Initiation]] (when created) - Becoming the Wise Old Man/Woman
+- The Elder Initiation (when created) - Becoming the Wise Old Man/Woman
 
 ### Related Esoteric Traditions
 - Qabalah (when created) - Tiphareth (the golden sun center, the heart of the Tree)

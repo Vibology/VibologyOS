@@ -311,7 +311,7 @@ A **functional Persona** that serves the Self's aims—a mask that can be worn w
 - [[Saturn ♄]] (age 29—testing of Persona, first crisis)
 
 **Human Design:**
-- [[Ego-Heart Center]] (willpower, self-worth, tribal bargains)
+- [[Heart]] (willpower, self-worth, tribal bargains)
 - [[Throat]] (manifestation, speaking one's role into reality)
 - [[Manifestor]] (initiating, making things happen)
 
@@ -326,12 +326,12 @@ A **functional Persona** that serves the Self's aims—a mask that can be worn w
 - Rumpelstiltskin (shadow of faked competence)
 
 **Related Concepts:**
-- [[Persona Identification]] (believing one *is* their role)
-- [[Imposter Syndrome]] (fear of Persona being exposed as false)
+- Persona Identification (believing one *is* their role)
+- Imposter Syndrome (fear of Persona being exposed as false)
 - Midlife Crisis (inevitable if Persona is not relativized)
-- [[First Half of Life]] (Jung's framework for this stage)
+- First Half of Life (Jung's framework for this stage)
 - Puer Aeternus (pathology of refusing to develop Persona)
-- [[Empty Shell Syndrome]] (all mask, no authentic core)
+- Empty Shell Syndrome (all mask, no authentic core)
 - [[Saturn ♄]] (astrological crisis of Persona at age 29)
 
 ---

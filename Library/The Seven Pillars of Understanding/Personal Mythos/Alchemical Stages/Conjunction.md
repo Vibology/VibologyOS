@@ -606,7 +606,7 @@ When the opposites unite—when the ego surrenders to partnership with the contr
 - [[The Anima]] - The man's unconscious feminine, the primary partner in coniunctio
 - [[The Animus]] - The woman's unconscious masculine, the primary partner in coniunctio
 - [[The Divine Child]] - The product of coniunctio (creativity, new life, the Philosopher's Stone)
-- [[The Lover]] - The archetype driving toward union and relationship
+- The Lover - The archetype driving toward union and relationship
 - [[The Self]] - The ultimate coniunctio is between ego and Self
 - [[Persona Development]] - What must be removed for authentic coniunctio (see Individuation Process)
 - [[The Syzygy]] - Jung's term for the integrated Anima-Animus pair
@@ -636,13 +636,13 @@ When the opposites unite—when the ego surrenders to partnership with the contr
 - [[7th House]] - House of marriage, partnership, and the other
 - [[Libra ♎]] - Sign of balance, the scales weighing opposites
 - Conjunctions (aspect) - Planets united in the same degree (literal coniunctio)
-- [[Nodes]] - North and South Node as the union of fate and will
+- Nodes - North and South Node as the union of fate and will
 
 ### Related Human Design
 - [[G Center]] - Identity and direction through relationship and union
-- [[Sacral-Solar Plexus Connection]] - Instinct meeting emotion (union of body and feeling)
-- [[Channel 27-50]] - Preservation through caring partnership
-- [[Split Definition]] - The need for external bridging to complete internal union
+- Sacral-Solar Plexus Connection - Instinct meeting emotion (union of body and feeling)
+- Channel 27-50 - Preservation through caring partnership
+- Split Definition - The need for external bridging to complete internal union
 
 ### Related Angelology
 - [[Tzadkiel]] - Archangel of mercy, forgiveness, and reconciliation

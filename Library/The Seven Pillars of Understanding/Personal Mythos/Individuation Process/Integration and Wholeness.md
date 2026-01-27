@@ -307,11 +307,11 @@ A **completed human being** who has lived the full arc from birth to death **con
 - [[The Wise Old Man]] (crone, wisdom-keeper, death-midwife)
 - [[The Shadow]] (fully integrated, acknowledged without shame)
 - [[The Joker]] (cosmic humor, the final laugh)
-- [[The Ancestor]] (mediator between living and dead)
+- The Ancestor (mediator between living and dead)
 
 **Hero's Journey:**
 - [[Return with the Elixir]] (service, giving the boon to the community)
-- [[The Freedom to Live]] (Campbell's final stage, freedom from death-fear)
+- The Freedom to Live (Campbell's final stage, freedom from death-fear)
 
 #### Individuation Process
 - [[Ego Formation and Childhood]] (Stage 1—the ego emerges from Self)
@@ -350,17 +350,17 @@ A **completed human being** who has lived the full arc from birth to death **con
 **Fairy Tales:**
 - The Handless Maiden (restoration in old age, wholeness through suffering)
 - The Water of Life (elder healed by next generation's quest)
-- [[Iron Hans]] (wild man becomes wise mentor)
+- Iron Hans (wild man becomes wise mentor)
 
 **Related Concepts:**
-- [[Ego Integrity vs. Despair]] (Erikson's final crisis)
+- Ego Integrity vs. Despair (Erikson's final crisis)
 - Unus Mundus (One World—spirit and matter continuous)
-- [[Lapis Philosophorum]] (Philosopher's Stone—crystallized Self)
-- [[Generativity]] (creating and mentoring for the next generation)
-- [[Life Review]] (integrating memories, finding coherence)
+- Lapis Philosophorum (Philosopher's Stone—crystallized Self)
+- Generativity (creating and mentoring for the next generation)
+- Life Review (integrating memories, finding coherence)
 - Conscious Death (dying as transition, not annihilation)
 - Ancestor (mediating between living and dead)
-- [[Diamond Body]] (imperishable, crystallized essence)
+- Diamond Body (imperishable, crystallized essence)
 
 ---
 

@@ -47,7 +47,7 @@ The Approach appears across mythological traditions with remarkable consistency:
 
 **1. Greek Mythology**
 - **Theseus Entering the Labyrinth**: After receiving Ariadne's thread, Theseus walks into the maze's darkness, each turn bringing him closer to the [[The Ordeal|Minotaur]]. The labyrinth itself is the Approach—the winding path to the center where death awaits.
-- **Orpheus Descending to Hades' Throne Room**: After passing Charon and Cerberus, Orpheus must walk through the [[Underworld|underworld]] chambers to petition Hades and Persephone directly. Each step is preparation, rehearsing his song, steeling his resolve not to look back.
+- **Orpheus Descending to Hades' Throne Room**: After passing Charon and Cerberus, Orpheus must walk through the Underworld chambers to petition Hades and Persephone directly. Each step is preparation, rehearsing his song, steeling his resolve not to look back.
 - **Heracles Approaching the Stymphalian Birds' Lake**: Before confronting the bronze-beaked birds, Heracles scouts the location, receives bronze castanets from Athena, and positions himself strategically.
 
 **2. Norse Mythology**
@@ -55,7 +55,7 @@ The Approach appears across mythological traditions with remarkable consistency:
 - **Thor Approaching Jötunheimr**: When Thor journeys to the giants' realm for his trials, the approach involves crossing boundaries, facing illusions (Skrymir), and mentally preparing for contests he cannot win through strength alone.
 
 **3. Sumerian Mythology**
-- **Inanna at the Seven Gates**: Inanna's descent to the [[Underworld|underworld]] involves approaching seven gates. At each gate, she must remove a garment or piece of jewelry—symbolic ego-stripping. The Approach *is* the descent; the [[The Ordeal|Ordeal]] is Ereshkigal's death-judgment at the bottom.
+- **Inanna at the Seven Gates**: Inanna's descent to the Underworld involves approaching seven gates. At each gate, she must remove a garment or piece of jewelry—symbolic ego-stripping. The Approach *is* the descent; the [[The Ordeal|Ordeal]] is Ereshkigal's death-judgment at the bottom.
 
 **4. Christian Tradition**
 - **Christ in Gethsemane**: Before the crucifixion, Jesus withdraws to the garden to pray. *"Let this cup pass from me; nevertheless, not my will but yours be done."* This is the Approach—the psychological preparation for the coming death, the wrestling with human fear, the final choice to proceed.
@@ -216,7 +216,7 @@ The Approach is the final moment of **conscious volition** before the [[The Orde
 
 ### 4.2 Jungian Depth Psychology: The Approach as Ego's Recognition of the Shadow[^2]
 
-Jung would frame the Approach not as a geographic journey but as the moment when the [[Ego|ego]] **recognizes** the [[The Shadow]]—not yet integrating it, but acknowledging its presence and power[^2].
+Jung would frame the Approach not as a geographic journey but as the moment when the Ego **recognizes** the [[The Shadow]]—not yet integrating it, but acknowledging its presence and power[^2].
 
 In *Aion*, Jung describes the first encounter with the Shadow:[^2]
 
@@ -395,7 +395,7 @@ The unconscious stages Approaches nightly to prepare the waking ego for consciou
 2. **Descending Stairs or Ladders**: Going down, down—into basement, cavern, underground chamber. Waking life Approach to unconscious material
 3. **Standing Before a Locked Door**: You have the key (or are searching for it). The door represents the [[The Shadow]], trauma, or forbidden knowledge
 4. **Approaching a Cliff Edge**: Each step closer to the precipice; you know you must jump but resist
-5. **Walking Toward a Figure in Shadow**: The figure is familiar but terrifying—often your own [[The Shadow]] or [[The Devouring Mother|Devouring Mother]]/[[The Terrible Father|Terrible Father]] archetype
+5. **Walking Toward a Figure in Shadow**: The figure is familiar but terrifying—often your own [[The Shadow]] or The Devouring Mother/The Terrible Father archetype
 
 **Integration**:
 

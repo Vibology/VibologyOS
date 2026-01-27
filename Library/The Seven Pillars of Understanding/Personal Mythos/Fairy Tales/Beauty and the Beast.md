@@ -335,7 +335,7 @@ Individuation • Shadow Integration • Coniunctio • [[The Transcendent Funct
 Psyche and Eros • Hades and Persephone • Orpheus and Eurydice • [[Bluebeard]] • East of the Sun, West of the Moon • [[Frog Prince]]
 
 #### Fairy Tale Motifs
-The Animal Bridegroom • [[The Enchanted Castle]] • The Curse and Redemption • [[The Sacrificial Daughter]] • [[The Three Sisters]] • [[The Magic Rose]]
+The Animal Bridegroom • The Enchanted Castle • The Curse and Redemption • The Sacrificial Daughter • The Three Sisters • The Magic Rose
 
 #### Human Design Connections
 [[Sacral]] • [[Emotional Authority]] • Tribal Circuitry • [[Gate 59 - Dispersion]] • [[Channel 27-50 - Preservation]]

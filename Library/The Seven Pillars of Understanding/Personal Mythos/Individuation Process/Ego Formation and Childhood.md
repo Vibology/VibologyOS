@@ -307,10 +307,10 @@ A **coherent Ego** capable of observing the world without being overwhelmed by i
 
 **Related Concepts:**
 - Uroboros (the great round, undifferentiated unity)
-- [[Participation Mystique]] (unconscious identity with environment)
+- Participation Mystique (unconscious identity with environment)
 - Mother Complex (failure to separate from mother archetype)
 - Puer Aeternus (eternal child, refusal to grow up)
-- [[Object Permanence]] (developmental milestone of separation)
+- Object Permanence (developmental milestone of separation)
 - Ego-Self Axis (relationship between ego and totality)
 
 ---

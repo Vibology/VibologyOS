@@ -67,7 +67,7 @@ The union of Ares and Aphrodite encodes the **syzygy of desire and assertion**â€
 
 ### Within Personal Mythos
 - **Greek Mythology Overview:** [[Greek Mythology]]
-- **Related Deities:** [[Aphrodite]] (lover), Athena (strategic counterpart), [[Hephaestus]] (cuckolded husband)
+- **Related Deities:** [[Aphrodite]] (lover), Athena (strategic counterpart), Hephaestus (cuckolded husband)
 
 ### Cross-System Integration
 - **[[Astrology]]:** [[Mars â™‚]] as planetary embodiment

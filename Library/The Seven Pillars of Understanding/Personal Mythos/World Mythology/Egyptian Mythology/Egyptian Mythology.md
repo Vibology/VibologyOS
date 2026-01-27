@@ -1023,7 +1023,7 @@ Death is transformation, not annihilation. The Self (Ra, Osiris, Akh) is indestr
 - [[Confrontation with Shadow]] (Set's violence, Apep's chaos, demons of Duat)
 - [[Encounter with Anima-Animus]] (Isis gathering Osiris, Hathor/Sekhmet integration)
 - [[Confrontation with the Self]] (Weighing of the Heart, becoming Akh)
-- [[Ego Death and Rebirth]] (Osirian dismemberment and resurrection, Ra's nightly cycle)
+- Ego Death and Rebirth (Osirian dismemberment and resurrection, Ra's nightly cycle)
 
 ### Alchemical Stages
 - [[Nigredo]] (Osiris's murder, Ra's descent into Duat, Apep's attack)

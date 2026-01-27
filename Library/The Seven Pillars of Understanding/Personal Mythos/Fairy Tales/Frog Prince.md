@@ -463,7 +463,7 @@ Individuation • Shadow Integration • Coniunctio • [[The Transcendent Funct
 Psyche and Eros • [[Beauty and the Beast]] • Melusine • Perseus and Medusa • East of the Sun, West of the Moon • Cupid and Psyche
 
 #### Fairy Tale Motifs
-The Animal Bridegroom • [[The Enchanted Prince]] • The Curse and Redemption • [[The Golden Object]] • [[The Sacred Bargain]] • [[The Well and Spring]]
+The Animal Bridegroom • The Enchanted Prince • The Curse and Redemption • The Golden Object • The Sacred Bargain • The Well and Spring
 
 #### Human Design Connections
 [[Sacral]] • [[Sacral Authority]] • [[Emotional Authority]] • [[Root]] • [[Gate 59 - Dispersion]] • [[Channel 27-50 - Preservation]]

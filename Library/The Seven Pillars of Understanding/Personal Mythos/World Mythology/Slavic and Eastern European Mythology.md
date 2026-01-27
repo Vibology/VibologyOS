@@ -853,16 +853,16 @@ Wait like Ilya when:
 - [[Norse Mythology]] — Comparison: World Tree, thunder god, death mysteries
 - [[Hindu Mythology]] — Comparison: Kali/Baba Yaga as Terrible Mother, Maya/frog skin illusion
 - [[Buddhist Cosmology]] — Comparison: ego-deconstructive paths, patience with process
-- [[Death (Tarot)]] — Baba Yaga as transformation, Morana as necessary ending
-- [[The High Priestess (Tarot)]] — Baba Yaga as gateway, threshold
-- [[The Moon (Tarot)]] — Rusalki as illusion, dangerous anima projection
-- [[The Star (Tarot)]] — Vasilisa's doll as hope/guidance
+- [[Death (XIII)]] — Baba Yaga as transformation, Morana as necessary ending
+- [[The High Priestess (II)]] — Baba Yaga as gateway, threshold
+- [[The Moon (XVIII)]] — Rusalki as illusion, dangerous anima projection
+- [[The Star (XVII)]] — Vasilisa's doll as hope/guidance
 - Nigredo (Alchemy) — Baba Yaga's hut, the Black Rider, Morana's winter
 - Albedo (Alchemy) — Washing linen, the White Rider, purification tasks
-- [[Rubedo (Alchemy)]] — Fire-skull, the Red Rider, Firebird as completion
-- [[Saturn (Astrology)]] — Baba Yaga as tests/maturity, Koschei as rigidity
-- [[Pluto (Astrology)]] — Veles as underworld, transformation through descent
-- [[Moon (Astrology)]] — Mokosh as earth/instinct, Rusalki as anima
+- [[Rubedo]] — Fire-skull, the Red Rider, Firebird as completion
+- [[Saturn ♄]] — Baba Yaga as tests/maturity, Koschei as rigidity
+- [[Pluto ♇]] — Veles as underworld, transformation through descent
+- [[Moon ☽]] — Mokosh as earth/instinct, Rusalki as anima
 - [[Gate 29 - The Abysmal]] — Baba Yaga's ordeal, commitment to the abyss
 - [[Gate 39 - Obstruction]] — Koschei as provocation, breaking the complex
 - [[Gate 59 - Dispersion]] — Rusalki as intimacy/breakthrough, dispersing projection

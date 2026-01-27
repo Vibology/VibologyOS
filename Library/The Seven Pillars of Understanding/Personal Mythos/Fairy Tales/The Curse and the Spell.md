@@ -583,7 +583,7 @@ For those living in a **false self** (performing the domesticated swan, the sile
 [[The Shadow]] • [[The Muse]] • [[The Idol]] • [[The Divine Child]] • [[The Alchemist]] • [[The Great Mother]] • [[The Wise Old Man]] • [[The Hero]] • [[The Changeling]] • [[The Nightmare]]
 
 **Jungian Concepts:**
-Individuation • Shadow Integration • Coniunctio • [[The Transcendent Function]] • Active Imagination • Projection • Ego-Self Axis • [[Persona Development]] • Complex • [[Repression]]
+Individuation • Shadow Integration • Coniunctio • [[The Transcendent Function]] • Active Imagination • Projection • Ego-Self Axis • [[Persona Development]] • Complex • Repression
 
 **Tarot Keys:**
 [[The Devil (XV)]] • [[The Moon (XVIII)]] • [[Death (XIII)]] • [[The High Priestess (II)]] • [[The Tower (XVI)]] • [[The Star (XVII)]] • [[Temperance (XIV)]] • [[The Hanged Man (XII)]] • [[The Sun (XIX)]] • [[Strength (VIII)]]
@@ -592,13 +592,13 @@ Individuation • Shadow Integration • Coniunctio • [[The Transcendent Funct
 [[Coagulation]] • [[Dissolution]] • [[Nigredo]] • [[Albedo]] • [[Rubedo]] • [[Calcination]] • [[Separation]] • [[Conjunction]] • [[Fermentation]]
 
 #### Mythological Parallels
-Persephone and Demeter • Psyche and Eros • Hades and Persephone • Orpheus and Eurydice • Inanna's Descent • [[Medusa]] • [[Pandora]]
+Persephone and Demeter • Psyche and Eros • Hades and Persephone • Orpheus and Eurydice • Inanna's Descent • Medusa • Pandora
 
 **Fairy Tale Entries:**
 [[Beauty and the Beast]] • [[Snow White]] • Sleeping Beauty • [[Frog Prince]] • [[Rapunzel]] • [[Cinderella]] • The Handless Maiden • [[Bluebeard]] • [[Hansel and Gretel]] • [[The Two Brothers]]
 
 #### Fairy Tale Motifs
-[[The Wicked Stepmother]] • The Magic Mirror • The Poisoned Gift • [[The Thirteenth Fairy]] • The Animal Bridegroom • [[The Swan Maiden]] • [[The Stolen Voice]] • The Awakening Kiss • The Hedge of Thorns • The Glass Coffin
+[[The Wicked Stepmother]] • The Magic Mirror • The Poisoned Gift • The Thirteenth Fairy • The Animal Bridegroom • The Swan Maiden • The Stolen Voice • The Awakening Kiss • The Hedge of Thorns • The Glass Coffin
 
 #### Individuation Process
 [[Confrontation with Shadow]] • [[Encounter with Anima-Animus]] • [[Confrontation with the Self]] • [[Integration and Wholeness]] • [[Ego Formation and Childhood]] • [[Persona Development]]

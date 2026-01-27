@@ -806,7 +806,7 @@ The Animus interacts dynamically with other archetypal structures:
 - Hexagram 1 - The Creative — Initiating force, yang energy
 
 ### Related Concepts
-- [[Logos]] — Word, meaning, reflective consciousness (Animus function)
+- Logos — Word, meaning, reflective consciousness (Animus function)
 - Eros — Relationship, feeling, connectedness (complementary to Animus)
 - Projection — Primary mechanism of Animus operation
 - Active Imagination — Method for dialoguing with Animus

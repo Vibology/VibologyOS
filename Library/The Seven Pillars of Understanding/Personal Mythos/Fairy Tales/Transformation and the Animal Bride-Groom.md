@@ -880,8 +880,8 @@ The transformation is thus **not individual healing alone** but **cultural resto
 
 The figure who casts the curse is almost always **feminine**:
 
-- The 13th Wise Woman ([[Folklore/Fairy Tales/Beauty and the Beast|Sleeping Beauty]])
-- The Wicked Queen ([[Folklore/Fairy Tales/Snow White]])
+- The 13th Wise Woman ([[Beauty and the Beast]])
+- The Wicked Queen ([[Snow White]])
 - Aphrodite (Psyche—cursing her out of jealousy)
 - The Witch (various)
 
@@ -1436,12 +1436,12 @@ Every human being must reconcile with the "animal within" to become whole.
 - Coniunctio — The alchemical wedding, union of opposites
 - Solutio — Dissolution in tears, emotional surrender
 - The White Queen — Beauty, Psyche, the purified Anima
-- [[The Red King]] — The Beast, the instinctual masculine
+- The Red King — The Beast, the instinctual masculine
 
 ### Tarot
 - [[The Lovers (VI)]] — Choice, union of opposites, the Sacred Marriage
 - [[Strength (VIII)]] — Embracing the lion (beast), love over force
-- [[Lust]] — Erotic integration, riding the beast
+- Lust — Erotic integration, riding the beast
 - [[Temperance (XIV)]] — Alchemical union, balance of opposites
 - [[The Devil (XV)]] — Bondage to instinct (shadow), liberation through integration
 - [[The High Priestess (II)]] — The mystery, the prohibition against looking
@@ -1468,16 +1468,16 @@ Every human being must reconcile with the "animal within" to become whole.
 - [[Emotional Authority]] — Waiting through the wave, endurance
 - [[Centers]] — Projection and conditioning dynamics
 - [[Gate 06 - Conflict]] — Intimate friction, the beast's demand
-- [[Channel 59-6]] — Intimacy, reproduction, the drive for union
+- Channel 59-6 — Intimacy, reproduction, the drive for union
 
 ### Mythology & Fairy Tales
-- [[Folklore/Fairy Tales/Beauty and the Beast]] — Love and acceptance
-- [[Folklore/Fairy Tales/Frog Prince]] — Violent confrontation
-- [[Folklore/Fairy Tales/Cinderella]] — The rejected self becomes the bride
-- [[Folklore/Fairy Tales/Snow White]] — The pure Anima persecuted
+- [[Beauty and the Beast]] — Love and acceptance
+- [[Frog Prince]] — Violent confrontation
+- [[Cinderella]] — The rejected self becomes the bride
+- [[Snow White]] — The pure Anima persecuted
 - [[Rapunzel]] — The captive Anima freed
-- [[Folklore/Fairy Tales/Bluebeard]] — The predator vs. the transformable beast
-- [[Folklore/Fairy Tales/Hansel and Gretel]] — The devouring witch (Terrible Mother)
+- [[Bluebeard]] — The predator vs. the transformable beast
+- [[Hansel and Gretel]] — The devouring witch (Terrible Mother)
 - [[Greek Mythology]] — Persephone and Hades, Cupid and Psyche, Dionysus
 - [[Norse Mythology]] — Freya and the dwarves, shape-shifting gods
 - [[Celtic Mythology]] — The Selkie, Swan Maiden, Tam Lin

@@ -869,7 +869,7 @@ The Wise Old Man interacts dynamically with other archetypal structures:
 - Hexagram 26 - The Taming Power of the Great — Accumulated wisdom, restraint, mastery
 
 ### Related Concepts
-- [[Logos]] — The ordering principle; the Senex function
+- Logos — The ordering principle; the Senex function
 - Eros — The relatedness principle; the Anima function (complementary to Senex)
 - The Superior Personality — Jung's term for the Self's representative (Senex)
 - Active Imagination — Method for dialoguing with the Senex (Jung's Philemon)
