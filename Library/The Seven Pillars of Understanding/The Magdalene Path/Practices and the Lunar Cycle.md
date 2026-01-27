@@ -13,7 +13,7 @@ category: Practice
 ---
 ## Core Teaching
 
-[[The Magdalene Path Overview|The Magdalene Path]] is not a single event or realization—it is a **daily discipline** lived in rhythm with natural cycles. The practices are **progressive**, **repetitive**, and **embodied**—requiring sustained commitment over years, not weeks.
+[[The Magdalene Path]] is not a single event or realization—it is a **daily discipline** lived in rhythm with natural cycles. The practices are **progressive**, **repetitive**, and **embodied**—requiring sustained commitment over years, not weeks.
 
 **The Two Rhythms:**
 
@@ -68,7 +68,7 @@ The lunar cycle is still valuable but operates differently:
 - **Evening:** Light a candle and sit in silence—receive what the darkness reveals
 - **Shadow Work:** What am I gripping? What must be released this cycle? (See [[Kenosis - The Path of Self-Emptying|Kenosis]])
 
-**Correspondence:** [[The Eight Boughs of Ascent#First Bough: The Foundation|The Base]]—grounding in the physical, setting foundation
+**Correspondence:** [[The Eight Boughs of Ascent|The Base]]—grounding in the physical, setting foundation
 
 #### **Waxing Moon (Days 8-14): Building and Expansion**
 
@@ -79,9 +79,9 @@ The lunar cycle is still valuable but operates differently:
 - **Midday:** Study and research—read texts, engage with teachings, gather knowledge
 - **Evening:** Journaling—what is emerging? What patterns are visible?
 
-**Relationship Practice:** Share your growing insights with your partner/friend—practice **transparency** ([[The Bridal Chamber and Sacred Union#Transparency and Vulnerability|Bridal Chamber practice]])
+**Relationship Practice:** Share your growing insights with your partner/friend—practice **transparency** ([[The Bridal Chamber and Sacred Union|Bridal Chamber practice]])
 
-**Correspondence:** [[The Eight Boughs of Ascent#Second Bough: The Mind|The Gate]] and [[The Eight Boughs of Ascent#Third Bough: The Ego/Self|Lower Astral]]—crossing thresholds, purification
+**Correspondence:** [[The Eight Boughs of Ascent|The Gate]] and [[The Eight Boughs of Ascent|Lower Astral]]—crossing thresholds, purification
 
 #### **Full Moon (Days 15-21): Illumination and Harvest**
 
@@ -90,24 +90,24 @@ The lunar cycle is still valuable but operates differently:
 #### Practice
 - **Morning:** Gratitude practice—acknowledge what has been revealed
 - **Midday:** Integration—how does this insight change your life? What action is required?
-- **Evening:** Ritual—[[Anointing and Substituted Love#Practical Anointing|anoint]] yourself or be anointed by a partner, sealing the realization
+- **Evening:** Ritual—[[Anointing and Substituted Love|anoint]] yourself or be anointed by a partner, sealing the realization
 
 **Shadow Watch:** The Full Moon can trigger **spiritual bypassing**—believing the insight is the same as embodiment. You must **live** the realization, not just "have" it.
 
-**Correspondence:** [[The Eight Boughs of Ascent#Fourth Bough: The Flesh|The Abyss]] and [[The Eight Boughs of Ascent#Fifth Bough: The Awakening|Higher Astral]]—the crossing, clarity emerging from chaos
+**Correspondence:** [[The Eight Boughs of Ascent|The Abyss]] and [[The Eight Boughs of Ascent|Higher Astral]]—the crossing, clarity emerging from chaos
 
 #### **Waning Moon (Days 22-28): Release and Completion**
 
 **Energy:** Letting go, composting, returning to darkness
 
 #### Practice
-- **Morning:** [[Kenosis - The Path of Self-Emptying#Morning: Setting the Intention|Kenosis practice]]—open your hands, release what you learned
+- **Morning:** [[Kenosis - The Path of Self-Emptying|Kenosis practice]]—open your hands, release what you learned
 - **Evening:** Review the cycle—what served? What is complete? What must be composted?
 - **Dark Moon (Days 26-28):** Complete silence if possible—no input, no output, rest
 
 **The Teaching:** The Dark Moon is as sacred as the Full Moon. **Emptiness** is not failure—it is preparation for the next cycle.
 
-**Correspondence:** [[The Eight Boughs of Ascent#Eighth Bough: The Apex|The Zenith]]—resting in the void, wholeness in emptiness
+**Correspondence:** [[The Eight Boughs of Ascent|The Zenith]]—resting in the void, wholeness in emptiness
 
 ### The Lunar Cycle for Reflectors
 
@@ -160,7 +160,7 @@ The lunar cycle is still valuable but operates differently:
 
 1. **Stop:** Literally stop what you're doing—put down the phone, step away from the screen
 2. **Breathe:** Three deep breaths—feel the belly expand and contract
-3. **Check:** Where am I gripping? What am I controlling? (See [[Kenosis - The Path of Self-Emptying#During Conflict: The Pause|Kenosis during conflict]])
+3. **Check:** Where am I gripping? What am I controlling? (See [[Kenosis - The Path of Self-Emptying|Kenosis during conflict]])
 4. **Release:** Open your hands—physically, energetically—let it go
 
 **Why It Works:** The midday pause prevents **accumulation** of tension. You release in real-time rather than carrying it to evening.
@@ -178,7 +178,7 @@ The lunar cycle is still valuable but operates differently:
 3. **Forgive:** For yourself and others—"I forgive myself for gripping. I forgive others for their gripping."
 4. **Release the Day:** Visualize opening your hands—each finger releasing a specific attachment (outcome, resentment, fear, identity, control)
 
-**Why It Works:** Sleep is a **nightly death**—practicing release before sleep prepares you for the final letting go. (See [[Kenosis - The Path of Self-Emptying#Evening: Releasing the Day|Evening Kenosis]])
+**Why It Works:** Sleep is a **nightly death**—practicing release before sleep prepares you for the final letting go. (See [[Kenosis - The Path of Self-Emptying|Evening Kenosis]])
 
 **Shadow Watch:** Do not use the review to **judge** yourself—this is ego masquerading as discernment. The review is witnessing, not prosecuting.
 
@@ -196,11 +196,11 @@ The lunar cycle is still valuable but operates differently:
 
 **Dream Markers by Stage:**
 
-- **[[The Eight Boughs of Ascent#First Bough: The Foundation|Base]]:** Dreams of survival—being chased, falling, material lack
-- **[[The Eight Boughs of Ascent#Third Bough: The Ego/Self|Lower Astral]]:** Dreams of death, decay, dismemberment—the false self dying
-- **[[The Eight Boughs of Ascent#Fourth Bough: The Flesh|Abyss]]:** Dreams of the void—falling into blackness, ego dissolution
-- **[[The Eight Boughs of Ascent#Fifth Bough: The Awakening|Higher Astral]]:** Dreams of light, guides, celestial beings
-- **[[The Eight Boughs of Ascent#Eighth Bough: The Apex|Zenith]]:** Dreams cease or become lucid—the boundary between waking/sleeping dissolves
+- **[[The Eight Boughs of Ascent|Base]]:** Dreams of survival—being chased, falling, material lack
+- **[[The Eight Boughs of Ascent|Lower Astral]]:** Dreams of death, decay, dismemberment—the false self dying
+- **[[The Eight Boughs of Ascent|Abyss]]:** Dreams of the void—falling into blackness, ego dissolution
+- **[[The Eight Boughs of Ascent|Higher Astral]]:** Dreams of light, guides, celestial beings
+- **[[The Eight Boughs of Ascent|Zenith]]:** Dreams cease or become lucid—the boundary between waking/sleeping dissolves
 
 ---
 ## Practices at Each Stage of Ascent
@@ -257,7 +257,7 @@ The lunar cycle is still valuable but operates differently:
 
 **Lunar Phase:** Dark Moon (complete emptiness before the new cycle)
 
-**Support:** This is where [[Anointing and Substituted Love#Substituted Love: Holding the Post|Substituted Love]] is critical—you need someone to **hold the post** while you cross
+**Support:** This is where [[Anointing and Substituted Love|Substituted Love]] is critical—you need someone to **hold the post** while you cross
 
 **Duration:** Hours, days, weeks—it cannot be rushed
 
@@ -294,7 +294,7 @@ The lunar cycle is still valuable but operates differently:
 
 ### For Singles: The Inner Beloved
 
-**The Practice:** Even without an external partner, practice **[[The Bridal Chamber and Sacred Union#Singleness (Ihidaya)|Singleness]]**—the inner union of masculine and feminine.
+**The Practice:** Even without an external partner, practice **[[The Bridal Chamber and Sacred Union|Singleness]]**—the inner union of masculine and feminine.
 
 **Daily Rhythm:**
 - **Morning:** Dialogue with the inner masculine (structure, direction, logos) and inner feminine (flow, receptivity, eros)
@@ -316,15 +316,15 @@ The lunar cycle is still valuable but operates differently:
 
 **Evening Gratitude (5 minutes):**
 - Share three things you're grateful for from the day—one personal, one about the partner, one about the relationship
-- Close with touch—hand-holding, embrace, or [[Anointing and Substituted Love#Eucharistic Anointing|anointing]]
+- Close with touch—hand-holding, embrace, or [[Anointing and Substituted Love|anointing]]
 
 **Why It Works:** Gratitude rewires the nervous system from scarcity to abundance
 
 
 **Weekly Bridal Chamber Practice (1-2 hours):**
 - Set aside sacred time—no screens, no distractions
-- Begin with [[Anointing and Substituted Love#The Seven-Point Anointing|seven-point anointing]]
-- Engage in [[The Bridal Chamber and Sacred Union#Eucharistic Sex: "This Is My Body"|eucharistic union]]—sexual or non-sexual
+- Begin with [[Anointing and Substituted Love|seven-point anointing]]
+- Engage in [[The Bridal Chamber and Sacred Union|eucharistic union]]—sexual or non-sexual
 - Close with silence—rest in the **Wedding Garment** (unified field)
 
 **Why It Works:** The Bridal Chamber requires **tending**—it is not automatic
@@ -338,7 +338,7 @@ The lunar cycle is still valuable but operates differently:
 
 ### For Parents: Holding the Post for Children
 
-**The Teaching:** Children are constantly crossing thresholds—each developmental stage is a mini-[[The Eight Boughs of Ascent#Fourth Bough: The Flesh|Abyss]]. Parents practice [[Anointing and Substituted Love#Substituted Love: Holding the Post|Substituted Love]] by holding steady while the child transforms.
+**The Teaching:** Children are constantly crossing thresholds—each developmental stage is a mini-[[The Eight Boughs of Ascent|Abyss]]. Parents practice [[Anointing and Substituted Love|Substituted Love]] by holding steady while the child transforms.
 
 **Daily Practice:**
 - **Morning:** Before engaging with the child, ground yourself—"I am whole. I do not need them to behave a certain way to validate my worth."
@@ -358,13 +358,13 @@ The lunar cycle is still valuable but operates differently:
 
 While the Magdalene Path is **lunar** (receptive, cyclical), it honors the **solar cycle** (active, seasonal) as well:
 
-**Winter Solstice (December 21):** Darkest night—practice [[Kenosis - The Path of Self-Emptying#The Abyss: Total Surrender|Abyss meditation]], honor the void
+**Winter Solstice (December 21):** Darkest night—practice [[Kenosis - The Path of Self-Emptying|Abyss meditation]], honor the void
 
-**Spring Equinox (March 20):** Balance—practice [[The Eight Boughs of Ascent#Second Bough: The Mind|Gate crossing]], initiate new commitments
+**Spring Equinox (March 20):** Balance—practice [[The Eight Boughs of Ascent|Gate crossing]], initiate new commitments
 
-**Summer Solstice (June 21):** Brightest day—practice [[The Eight Boughs of Ascent#Eighth Bough: The Apex|Zenith celebration]], honor fullness
+**Summer Solstice (June 21):** Brightest day—practice [[The Eight Boughs of Ascent|Zenith celebration]], honor fullness
 
-**Autumn Equinox (September 22):** Balance—practice [[Kenosis - The Path of Self-Emptying#Kenosis at Each Stage of Ascent|harvest and release]]
+**Autumn Equinox (September 22):** Balance—practice [[Kenosis - The Path of Self-Emptying|harvest and release]]
 
 
 ### The Seven-Year Cycle: Saturn and Uranus
@@ -381,7 +381,7 @@ While the Magdalene Path is **lunar** (receptive, cyclical), it honors the **sol
 ## Pillar Integration
 ### Tarot: The Moon (XVIII)
 
-**[[The Moon]]** is the card of cycles, the unconscious, and the 28-day rhythm. It governs dreams, intuition, and the liminal spaces where the Magdalene Path unfolds.
+**[[The Moon (XVIII)]]** is the card of cycles, the unconscious, and the 28-day rhythm. It governs dreams, intuition, and the liminal spaces where the Magdalene Path unfolds.
 
 ### Human Design: Undefined Head and Ajna Centers
 
@@ -399,7 +399,7 @@ Jung's practice of **Active Imagination** (dialoguing with the unconscious) para
 ---
 ## Cross-References
 ### Core Magdalene Path Entries
-- [[The Magdalene Path Overview]] - Overview of the Fifth Way
+- [[The Magdalene Path]] - Overview of the Fifth Way
 - [[Mary Magdalene - Apostle and Beloved]] - The archetype and model
 - [[The Eight Boughs of Ascent]] - Framework for the vertical journey
 - [[The Bridal Chamber and Sacred Union]] - Partnership practices
@@ -407,12 +407,12 @@ Jung's practice of **Active Imagination** (dialoguing with the unconscious) para
 - [[Anointing and Substituted Love]] - Holding the post, sacred touch
 
 ### Cross-System Integration
-- [[The Moon]] (Tarot XVIII) - The card of cycles and the unconscious
+- [[The Moon (XVIII)]] (Tarot XVIII) - The card of cycles and the unconscious
 - [[Splenic Authority]] - Instinctual knowing in the present moment
 - [[Emotional Authority]] - Waiting through the wave for clarity
 - [[Reflector]] - Lunar authority, 28-day decision cycle
-- [[Jungian Archetypes#The Self]] - The center that emerges through practice
-- [[Saturn]] - Seven-year cycles and developmental thresholds
+- [[Jungian Archetypes]] - The center that emerges through practice
+- Saturn - Seven-year cycles and developmental thresholds
 
 ---
 

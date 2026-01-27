@@ -13,7 +13,7 @@ category: Practice
 ---
 ## Core Teaching
 
-**Anointing** is the central sacrament of [[The Magdalene Path Overview|The Magdalene Path]]—the act of consecrating through touch, preparing for transformation, and sealing with love (Bourgeault, Ch. 15). It is:
+**Anointing** is the central sacrament of [[The Magdalene Path]]—the act of consecrating through touch, preparing for transformation, and sealing with love (Bourgeault, Ch. 15). It is:
 
 - **Healing** - The oils soothe and restore
 - **Preparation for Death** - Readying the body/soul for passage
@@ -112,7 +112,7 @@ When someone is dying, anointing:
 
 **Metaphoric Death:**
 
-During [[The Eight Boughs of Ascent#Third Bough: The Ego/Self|the Lower Astral]] or [[The Eight Boughs of Ascent#Fourth Bough: The Flesh|the Abyss]], the soul undergoes **ego death**—anointing supports this:
+During [[The Eight Boughs of Ascent|the Lower Astral]] or [[The Eight Boughs of Ascent|the Abyss]], the soul undergoes **ego death**—anointing supports this:
 - The beloved anoints you as the false self dies
 - The touch says: "You are safe. I am holding the space."
 - This creates **container** for transformation
@@ -202,7 +202,7 @@ When someone is in the bardo:
 
 **The Application:**
 - A parent holding vigil while a child goes through addiction recovery
-- A partner standing steady while the other crosses [[The Eight Boughs of Ascent#Fourth Bough: The Flesh|the Abyss]]
+- A partner standing steady while the other crosses [[The Eight Boughs of Ascent|the Abyss]]
 - A friend anointing someone as they die
 
 ---
@@ -246,25 +246,25 @@ If you **need** them to succeed (to validate your worth), you are not practicing
 
 ### Base: Grounding
 
-At [[The Eight Boughs of Ascent#First Bough: The Foundation|the Base]], anointing is **grounding**—bringing presence into the physical body.
+At [[The Eight Boughs of Ascent|the Base]], anointing is **grounding**—bringing presence into the physical body.
 
 **The Practice:** Anoint the feet—honoring the body's contact with earth.
 
 ### Lower Astral: Purification
 
-At [[The Eight Boughs of Ascent#Third Bough: The Ego/Self|the Lower Astral]], anointing supports the **stripping away** of false self.
+At [[The Eight Boughs of Ascent|the Lower Astral]], anointing supports the **stripping away** of false self.
 
 **The Practice:** Anoint with water (baptismal) or fire (camphor/alcohol-based oils that burn cool)—symbolizing purification.
 
 ### The Abyss: Safe Passage
 
-At [[The Eight Boughs of Ascent#Fourth Bough: The Flesh|the Abyss]], anointing creates **safe passage** through ego death.
+At [[The Eight Boughs of Ascent|the Abyss]], anointing creates **safe passage** through ego death.
 
 **The Practice:** The beloved anoints you as you **fall**—their touch is the anchor, the thread back to embodiment.
 
 ### Zenith: Consecration
 
-At [[The Eight Boughs of Ascent#Eighth Bough: The Apex|the Zenith]], anointing is **consecration**—sealing the soul for Cosmic Service.
+At [[The Eight Boughs of Ascent|the Zenith]], anointing is **consecration**—sealing the soul for Cosmic Service.
 
 **The Practice:** Anoint the crown (fontanelle)—the place where spirit enters and exits the body.
 
@@ -318,7 +318,7 @@ Hold the oil and pray (your own words or traditional):
 
 ### Tarot: The Star (XVII)
 
-**[[The Star]]** pours water (anointing fluid) onto land and sea—offering healing, hope, nourishment. She is the anointer, the one who restores.
+**[[The Star (XVII)]]** pours water (anointing fluid) onto land and sea—offering healing, hope, nourishment. She is the anointer, the one who restores.
 
 ### Human Design: Splenic Authority
 
@@ -336,7 +336,7 @@ Jung's **Transcendent Function** describes how two opposing forces (conscious/un
 ---
 ## Cross-References
 ### Core Magdalene Path Entries
-- [[The Magdalene Path Overview]] - Anointing as central practice
+- [[The Magdalene Path]] - Anointing as central practice
 - [[Mary Magdalene - Apostle and Beloved]] - Mary as the anointer
 - [[The Eight Boughs of Ascent]] - Anointing at each stage
 - [[The Bridal Chamber and Sacred Union]] - Eucharistic anointing in partnership
@@ -344,10 +344,10 @@ Jung's **Transcendent Function** describes how two opposing forces (conscious/un
 - [[Practices and the Lunar Cycle]] - Rhythms of anointing
 
 ### Cross-System Integration
-- [[The Star]] (Tarot XVII) - The anointer, pouring healing waters
+- [[The Star (XVII)]] (Tarot XVII) - The anointer, pouring healing waters
 - [[Splenic Authority]] - Instinctual anointing in the moment
 - [[Raphael]] - Archangel of healing
-- [[Jungian Archetypes#The Self]] - The third term, the Abler Soul
+- [[Jungian Archetypes]] - The third term, the Abler Soul
 
 ---
 

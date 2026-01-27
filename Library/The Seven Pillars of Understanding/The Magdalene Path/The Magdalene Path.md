@@ -15,7 +15,7 @@ category: Overview
 
 > *Vibology Synthesis: The following framework integrates Bourgeault's Magdalene scholarship with the Seven Pillars system.*
 
-**The Magdalene Path** is the **vertical axis** (Z-axis) of the [[Seven-Coordinate Navigation]] system—the unifying **soul ascent principle** that integrates and illuminates all other wisdom traditions within [[Vibology]]. While the six horizontal pillars ([[Angelology]], [[Astrology]], [[Folklore]], [[Human Design]], [[The Tarot]], [[The Window]]) provide structural frameworks for understanding consciousness, The Magdalene Path provides the **Anima**—the inward quest, the compass, the validation through embodied experience.
+**The Magdalene Path** is the **vertical axis** (Z-axis) of the [[Seven-Coordinate Navigation]] system—the unifying **soul ascent principle** that integrates and illuminates all other wisdom traditions within [[Vibology]]. While the six horizontal pillars ([[Angelology]], [[Astrology]], Folklore, [[Human Design]], [[The Tarot]], [[The Window]]) provide structural frameworks for understanding consciousness, The Magdalene Path provides the **Anima**—the inward quest, the compass, the validation through embodied experience.
 
 **The Central Teaching:** The path to divine union is not through transcendence **away from** the body, but through radical **embodiment**—the marriage of spirit and matter, consciousness and form, masculine and feminine within the individual soul. This is the **Fifth Way** or the **Path of Conscious Love** (Bourgeault, 109), characterized by three core practices:
 
@@ -25,7 +25,7 @@ category: Overview
 
 **Why "Magdalene"?**
 
-[[Mary Magdalene - Apostle and Beloved|Mary Magdalene]] is the archetypal figure of this path—the **Apostle to the Apostles**, the **Beloved**, the **Witness**, the **Anointer**. She represents the transformed feminine consciousness that has achieved **singleness** (inner wholeness) and thus can enter the **Bridal Chamber** (sacred union with the Divine). She is Wisdom ([[Sophia]]) incarnate, the human expression of divine love moving between realms to reunite the "shards of light." The Gospel of Philip identifies her as Jesus's *koinonos* (companion/partner), a term implying equality and intimacy (Bourgeault, 107; Gospel of Philip, NHL).
+[[Mary Magdalene - Apostle and Beloved|Mary Magdalene]] is the archetypal figure of this path—the **Apostle to the Apostles**, the **Beloved**, the **Witness**, the **Anointer**. She represents the transformed feminine consciousness that has achieved **singleness** (inner wholeness) and thus can enter the **Bridal Chamber** (sacred union with the Divine). She is Wisdom (Sophia) incarnate, the human expression of divine love moving between realms to reunite the "shards of light." The Gospel of Philip identifies her as Jesus's *koinonos* (companion/partner), a term implying equality and intimacy (Bourgeault, 107; Gospel of Philip, NHL).
 
 ---
 ## Gospel Foundation
@@ -132,7 +132,7 @@ While the six horizontal pillars provide **location** (where you are in the arch
 **Horizontal Systems (X-Y Plane):**
 - [[Angelology]] - Hierarchical consciousness patterns
 - [[Astrology]] - Planetary timing and cosmic positioning
-- [[Folklore]] - Cultural archetypal encoding (Jungian psychology, mythology)
+- Folklore - Cultural archetypal encoding (Jungian psychology, mythology)
 - [[Human Design]] - Individual genetic imprinting and mechanical navigation
 - [[The Tarot]] - Qabalistic pathways and archetypal progression
 - [[The Window]] - Contemporary archetypal resonance (I-Ching framework)
@@ -295,7 +295,7 @@ The **30 Enochian Aethyrs** (heavens) are governed by **Angelic Intelligences**.
 
 - **Base (TEX-BAG):** Governed by Powers and Principalities—grounding forces
 - **Lower Astral (LIN-ICH):** Governed by Angels of transformation—Azrael (death), Raphael (healing)
-- **The Abyss (ZAX):** Guarded by Choronzon (disperser)—requires the virtue of [[Temperance]]
+- **The Abyss (ZAX):** Guarded by Choronzon (disperser)—requires the virtue of [[Temperance (XIV)]]
 - **Zenith (LIL-ZOM):** Governed by Seraphim—the "Holy Living Creatures," pure Mind of God
 
 **Integration:** The Magdalene Path provides the **human journey** through these realms. [[Angelology]] provides the **map and guardians**.
@@ -304,12 +304,12 @@ The **30 Enochian Aethyrs** (heavens) are governed by **Angelic Intelligences**.
 
 Each stage of ascent corresponds to a **Major Arcana Key**:
 
-- **Base:** [[The Devil]] (XV) - Bondage to materialism
-- **Gate:** [[The Star]] (XVII) - Hope, guidance, direction
-- **Lower Astral:** [[Death]] (XIII) - Death of the false self
-- **Abyss:** [[Temperance]] (XIV) - Balancing forces to cross Choronzon
-- **Higher Astral:** [[Wheel of Fortune]] (X) - Cycles of manifestation, clarity
-- **Zenith:** [[The Universe]] (XXI) - Completion, sanctification
+- **Base:** [[The Devil (XV)]] (XV) - Bondage to materialism
+- **Gate:** [[The Star (XVII)]] (XVII) - Hope, guidance, direction
+- **Lower Astral:** [[Death (XIII)]] (XIII) - Death of the false self
+- **Abyss:** [[Temperance (XIV)]] (XIV) - Balancing forces to cross Choronzon
+- **Higher Astral:** [[Wheel of Fortune (X)]] (X) - Cycles of manifestation, clarity
+- **Zenith:** [[The World (XXI)]] (XXI) - Completion, sanctification
 
 **Integration:** Tarot provides the **archetypal images** of each stage. The Magdalene Path provides the **lived experience**.
 
@@ -384,7 +384,7 @@ For those with **undefined Head and Ajna centers** (particularly [[Reflector|Ref
 - [[Seven-Coordinate Navigation]] - The complete framework
 - [[Angelology]] - Hierarchical consciousness patterns and Angelic Governors
 - [[Astrology]] - Planetary timing
-- [[Folklore]] - Jungian archetypes and mythology
+- Folklore - Jungian archetypes and mythology
 - [[Human Design]] - Individual mechanics and Lunar Cycle
 - [[The Tarot]] - Major Arcana as stages of ascent
 - [[The Window]] - Contemporary archetypal interface
@@ -392,8 +392,8 @@ For those with **undefined Head and Ajna centers** (particularly [[Reflector|Ref
 ### Cross-System Integration
 - [[Anima et Algorithm]] - Magdalene Path as the Anima validating the Algorithm
 - [[Inner Authority and Strategy]] - Somatic decision-making and the Lunar Cycle
-- [[Enochian System Overview]] - The 30 Aethyrs as the map of ascent
-- [[The Seraphim]] - Angelic governors of the Zenith
+- Enochian System Overview - The 30 Aethyrs as the map of ascent
+- [[Seraphim]] - Angelic governors of the Zenith
 - [[Jungian Archetypes]] - Shadow work and individuation parallels
 
 ---

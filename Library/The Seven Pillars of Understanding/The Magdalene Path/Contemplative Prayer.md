@@ -31,8 +31,8 @@ Contemplative prayer is the Christian equivalent of meditation—a descent into 
 ## Cross-References
 
 - [[Kenosis - The Path of Self-Emptying]]
-- [[Mystical Union]]
-- [[Theosis]]
+- Mystical Union
+- Theosis
 - [[The Bridal Chamber and Sacred Union]]
 
 ---

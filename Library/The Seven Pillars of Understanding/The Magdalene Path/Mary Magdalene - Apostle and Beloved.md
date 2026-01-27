@@ -25,7 +25,7 @@ category: Archetype
 
 **Why She Matters for the Path:**
 
-Mary is not an object of worship but a **model**—the one who has walked [[The Magdalene Path Overview|The Magdalene Path]] completely. By studying her story (canonical and gnostic), we learn the **mechanics** of soul ascent: radical presence, anointing (healing touch), kenosis (witnessing death without fleeing), recognition (seeing the Risen Christ), and proclamation (carrying the message).
+Mary is not an object of worship but a **model**—the one who has walked [[The Magdalene Path]] completely. By studying her story (canonical and gnostic), we learn the **mechanics** of soul ascent: radical presence, anointing (healing touch), kenosis (witnessing death without fleeing), recognition (seeing the Risen Christ), and proclamation (carrying the message).
 
 ---
 ## Gospel Foundation
@@ -84,7 +84,7 @@ Mary Magdalene is first introduced as:
 6. **Foolishness** (acting without wisdom)
 7. **Wisdom Perverted** (spiritual bypassing, using truth to avoid truth)
 
-**The Teaching:** Mary Magdalene underwent a **radical purification**—the stripping away of the egoic "garments" that obscure the true self. This is the work of [[The Eight Boughs of Ascent#Third Bough: The Ego/Self|the Lower Astral]]—confronting and releasing the False Self before crossing [[The Eight Boughs of Ascent#Fourth Bough: The Flesh|the Abyss]].
+**The Teaching:** Mary Magdalene underwent a **radical purification**—the stripping away of the egoic "garments" that obscure the true self. This is the work of [[The Eight Boughs of Ascent|the Lower Astral]]—confronting and releasing the False Self before crossing [[The Eight Boughs of Ascent|the Abyss]].
 
 **Result:** She emerged **Single** (ihidaya)—whole, undivided, internally integrated. This qualified her for what came next.
 
@@ -100,7 +100,7 @@ While the male disciples fled, **Mary Magdalene stood at the cross**:
 
 Jesus' crucifixion is the ultimate **kenosis** (self-emptying)—the total surrender of egoic will, physical form, and attachment to life. Mary's presence is the **feminine mirroring** of this kenosis—she empties herself of the need for control, safety, or understanding. She simply **is there**.
 
-**Parallel:** This is the practice required at [[The Eight Boughs of Ascent#Fourth Bough: The Flesh|The Abyss]]—the capacity to witness the death of everything you thought was real without fleeing into distraction or denial.
+**Parallel:** This is the practice required at [[The Eight Boughs of Ascent|The Abyss]]—the capacity to witness the death of everything you thought was real without fleeing into distraction or denial.
 
 ### The Burial: Anointing and Vigil (Mark 15:47, John 19:39-42)
 
@@ -143,7 +143,7 @@ Mary is commissioned to **announce the Good News** to the apostles—thus earnin
 2. **Non-clinging** - "Do not hold on to me" is the teaching of kenosis—even the Risen Christ must be released
 3. **Proclamation** - True gnosis is not hoarded but **shared**—Mary runs to tell the others
 
-**Parallel:** This is [[The Eight Boughs of Ascent#Eighth Bough: The Apex|the Zenith]]—the resurrection into the Primal State, followed by the return to ordinary life to serve.
+**Parallel:** This is [[The Eight Boughs of Ascent|the Zenith]]—the resurrection into the Primal State, followed by the return to ordinary life to serve.
 
 ---
 ## The Wisdom Gospels: The Beloved
@@ -160,7 +160,7 @@ After Jesus' departure, the disciples are distraught. Mary rises and speaks:
 
 > "Do not weep and do not grieve nor be irresolute, for His grace will be entirely with you and will protect you. But rather, let us praise His greatness, for He has prepared us and made us into Men."
 
-**The Teaching:** Mary has **stabilized** through her inner work (singleness). She can hold the spiritual post for others when they falter. This is [[Anointing and Substituted Love#Substituted Love: Holding the Post|substituted love]]—standing in the gap.
+**The Teaching:** Mary has **stabilized** through her inner work (singleness). She can hold the spiritual post for others when they falter. This is [[Anointing and Substituted Love|substituted love]]—standing in the gap.
 
 **2. Peter's Challenge (9:3-10):**
 
@@ -178,7 +178,7 @@ Levi (Matthew) defends her:
 
 Mary recounts a vision Jesus gave her about the **soul's ascent through the seven powers** (the False Self system). The soul must **strip away** the garments (egoic identifications) to pass through each realm.
 
-**The Teaching:** This is the map of [[The Eight Boughs of Ascent#Third Bough: The Ego/Self|the Lower Astral]]—confronting and releasing the seven demons (powers of wrath) before crossing the Abyss.
+**The Teaching:** This is the map of [[The Eight Boughs of Ascent|the Lower Astral]]—confronting and releasing the seven demons (powers of wrath) before crossing the Abyss.
 
 ### The Gospel of Philip (3rd Century, Nag Hammadi)
 
@@ -345,7 +345,7 @@ Mary is the **model of the path**:
 ---
 ## Cross-References
 ### Core Magdalene Path Entries
-- [[The Magdalene Path Overview]] - Complete introduction to the path
+- [[The Magdalene Path]] - Complete introduction to the path
 - [[The Eight Boughs of Ascent]] - Mary's journey through the stages
 - [[The Bridal Chamber and Sacred Union]] - Mary as model of sacred partnership
 - [[Kenosis - The Path of Self-Emptying]] - Witnessing the crucifixion without fleeing
@@ -354,10 +354,10 @@ Mary is the **model of the path**:
 - [[Sources, Shadows, and Contemporary Practice]] - Historical texts and modern recovery
 
 ### Cross-System Integration
-- [[Sophia]] - Mary as Wisdom incarnate
-- [[The Seraphim]] - Angelic parallels to Mary's elevation
-- [[The Universe]] (Tarot XXI) - Completion and sanctification
-- [[Jungian Archetypes#The Anima]] - Mary as archetypal feminine
+- Sophia - Mary as Wisdom incarnate
+- [[Seraphim]] - Angelic parallels to Mary's elevation
+- [[The World (XXI)]] (Tarot XXI) - Completion and sanctification
+- [[Jungian Archetypes]] - Mary as archetypal feminine
 - [[Inner Authority and Strategy]] - Mary's somatic gnosis
 
 ---

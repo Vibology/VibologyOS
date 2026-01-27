@@ -13,7 +13,7 @@ category: Practice
 ---
 ## Core Teaching
 
-**The Bridal Chamber** (Greek: *nymphōn*) is the **holiest of holies** in [[The Magdalene Path Overview|The Magdalene Path]]—the sacred union of two **Single** (whole, integrated) beings that creates a "third term" or **Wedding Garment** (unified consciousness). It is the culmination of the **Fifth Way** (Path of Conscious Love) and surpasses baptism and eucharist as the central sacrament. The Gospel of Philip identifies it as the "Holy of Holies" (Gospel of Philip, Nag Hammadi Codex II,3).
+**The Bridal Chamber** (Greek: *nymphōn*) is the **holiest of holies** in [[The Magdalene Path]]—the sacred union of two **Single** (whole, integrated) beings that creates a "third term" or **Wedding Garment** (unified consciousness). It is the culmination of the **Fifth Way** (Path of Conscious Love) and surpasses baptism and eucharist as the central sacrament. The Gospel of Philip identifies it as the "Holy of Holies" (Gospel of Philip, Nag Hammadi Codex II,3).
 
 **The Central Teaching** (Gospel of Philip, NHL):
 
@@ -336,7 +336,7 @@ The [[Seraphim]] (Burning Ones) embody the fire of divine love—the union of co
 
 **The Lovers (VI):** The choice between egoic attachment and conscious love—choosing the sacred path.
 
-**The Universe (XXI):** The completion—the Bridal Chamber at [[The Eight Boughs of Ascent#Eighth Bough: The Apex|the Zenith]], the soul dancing in freedom.
+**The Universe (XXI):** The completion—the Bridal Chamber at [[The Eight Boughs of Ascent|the Zenith]], the soul dancing in freedom.
 
 ### Human Design: Emotional Authority and Partnership
 
@@ -350,7 +350,7 @@ Jung's **Syzygy** (the divine couple—animus/anima united) parallels the Bridal
 ---
 ## Cross-References
 ### Core Magdalene Path Entries
-- [[The Magdalene Path Overview]] - The Fifth Way and conscious love
+- [[The Magdalene Path]] - The Fifth Way and conscious love
 - [[Mary Magdalene - Apostle and Beloved]] - Mary and Jesus as model of sacred partnership
 - [[The Eight Boughs of Ascent]] - The Zenith prepares for the Bridal Chamber
 - [[Kenosis - The Path of Self-Emptying]] - Self-giving in union
@@ -359,10 +359,10 @@ Jung's **Syzygy** (the divine couple—animus/anima united) parallels the Bridal
 
 ### Cross-System Integration
 - [[Seraphim]] - Divine love and union
-- [[The Lovers]] (Tarot VI) - Choice of conscious love
-- [[The Universe]] (Tarot XXI) - Completion and sacred dance
+- [[The Lovers (VI)]] (Tarot VI) - Choice of conscious love
+- [[The World (XXI)]] (Tarot XXI) - Completion and sacred dance
 - [[Emotional Authority]] - Waiting for clarity in partnership
-- [[Jungian Archetypes#The Animus]] and [[Jungian Archetypes#The Anima]] - Inner masculine/feminine integration
+- [[Jungian Archetypes]] and [[Jungian Archetypes]] - Inner masculine/feminine integration
 
 ---
 

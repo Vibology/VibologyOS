@@ -13,7 +13,7 @@ category: Practice
 ---
 ## Core Teaching
 
-**Kenosis** (Greek: κένωσις, from *kenosein*, "to empty oneself") is the foundational practice of [[The Magdalene Path Overview|The Magdalene Path]]—the discipline of **letting go** of egoic grasping to create space for the Divine. Bourgeault defines kenosis not as ascetic renunciation or pushing away, but as "nonclinging" or "letting be"—the willingness to let things come and go without grabbing on (Bourgeault, 114; Ch. 9). It functions as a tool to cleanse the lens of perception rather than merely a moral virtue.
+**Kenosis** (Greek: κένωσις, from *kenosein*, "to empty oneself") is the foundational practice of [[The Magdalene Path]]—the discipline of **letting go** of egoic grasping to create space for the Divine. Bourgeault defines kenosis not as ascetic renunciation or pushing away, but as "nonclinging" or "letting be"—the willingness to let things come and go without grabbing on (Bourgeault, 114; Ch. 9). It functions as a tool to cleanse the lens of perception rather than merely a moral virtue.
 
 **The Paradox:** By emptying, you become full. By releasing control, you gain freedom. By dying to the false self, you are born into the true self. While Buddhism responds to "all form is emptiness" with nonattachment, Jesus's vision (as Bourgeault interprets it) is that letting go leads to *fullness* (*pleroma*) (Bourgeault, Ch. 9).
 
@@ -21,7 +21,7 @@ category: Practice
 
 > "Let the same mind be in you that was in Christ Jesus, who, though he was in the form of God, did not regard equality with God as something to be exploited, but emptied himself [ἐκένωσεν - ekenosen], taking the form of a slave, being born in human likeness."
 
-**The Teaching:** Bourgeault identifies this passage as the "touchstone" of Jesus's path—his divine selfhood realized not through acquiring power, but through voluntary divestment (Bourgeault, Ch. 9). [[The Magdalene Path Overview|The Magdalene path]] invites the same movement: emptying the egoic self to receive the Divine.
+**The Teaching:** Bourgeault identifies this passage as the "touchstone" of Jesus's path—his divine selfhood realized not through acquiring power, but through voluntary divestment (Bourgeault, Ch. 9). [[The Magdalene Path]] invites the same movement: emptying the egoic self to receive the Divine.
 
 ---
 ## Gospel Foundation
@@ -104,7 +104,7 @@ Grasping creates **contraction**—the field of awareness narrows, possibilities
 
 ### The Seven Demons: What Must Be Emptied
 
-According to [[Mary Magdalene - Apostle and Beloved|Mary Magdalene's]] story (Luke 8:2), she had **seven demons** cast out. Esoterically, these correspond to the **Seven Powers of Wrath** encountered in the Gospel of Mary, where the soul faces the fourth power (Wrath) manifesting in seven forms (Gospel of Mary, Berlin Codex). These represent the **False Self System**—the egoic structures that must be emptied during [[The Eight Boughs of Ascent#Third Bough: The Ego/Self|the Lower Astral]]:
+According to [[Mary Magdalene - Apostle and Beloved|Mary Magdalene's]] story (Luke 8:2), she had **seven demons** cast out. Esoterically, these correspond to the **Seven Powers of Wrath** encountered in the Gospel of Mary, where the soul faces the fourth power (Wrath) manifesting in seven forms (Gospel of Mary, Berlin Codex). These represent the **False Self System**—the egoic structures that must be emptied during [[The Eight Boughs of Ascent|the Lower Astral]]:
 
 **1. Craving (Attachment)**
 - **What It Is:** Insatiable wanting—"If I just get X, then I'll be happy"
@@ -186,14 +186,14 @@ According to [[Mary Magdalene - Apostle and Beloved|Mary Magdalene's]] story (Lu
 - Listen without needing to be heard
 - Serve without needing gratitude
 
-**Why It Works:** This is [[The Bridal Chamber and Sacred Union#Eucharistic Sex: "This Is My Body"|eucharistic love]]—"This is my body, given for you." It transforms relationship from transaction (I give so you'll give back) to kenosis (I give because I am full).
+**Why It Works:** This is [[The Bridal Chamber and Sacred Union|eucharistic love]]—"This is my body, given for you." It transforms relationship from transaction (I give so you'll give back) to kenosis (I give because I am full).
 
 ---
 ## Kenosis at Each Stage of Ascent
 
 ### Base: Releasing Materialism
 
-**The Challenge:** At [[The Eight Boughs of Ascent#First Bough: The Foundation|the Base]], the soul is gripping **material security**—money, possessions, physical safety.
+**The Challenge:** At [[The Eight Boughs of Ascent|the Base]], the soul is gripping **material security**—money, possessions, physical safety.
 
 **The Practice:** Not rejecting material things, but releasing the belief that they will ultimately save you.
 
@@ -201,7 +201,7 @@ According to [[Mary Magdalene - Apostle and Beloved|Mary Magdalene's]] story (Lu
 
 ### Lower Astral: Releasing the False Self
 
-**The Challenge:** At [[The Eight Boughs of Ascent#Third Bough: The Ego/Self|the Lower Astral]], the soul is gripping **identity**—roles, beliefs, self-image.
+**The Challenge:** At [[The Eight Boughs of Ascent|the Lower Astral]], the soul is gripping **identity**—roles, beliefs, self-image.
 
 **The Practice:** Allowing the false self to die—the one who "knows," who is "spiritual," who is "good."
 
@@ -209,7 +209,7 @@ According to [[Mary Magdalene - Apostle and Beloved|Mary Magdalene's]] story (Lu
 
 ### The Abyss: Total Surrender
 
-**The Challenge:** At [[The Eight Boughs of Ascent#Fourth Bough: The Flesh|the Abyss]], the soul must release **everything**—even the grip on existence itself.
+**The Challenge:** At [[The Eight Boughs of Ascent|the Abyss]], the soul must release **everything**—even the grip on existence itself.
 
 **The Practice:** The leap—letting go so completely that there is no you left to hold on.
 
@@ -217,7 +217,7 @@ According to [[Mary Magdalene - Apostle and Beloved|Mary Magdalene's]] story (Lu
 
 ### Zenith: Resting in Emptiness
 
-**The Challenge:** At [[The Eight Boughs of Ascent#Eighth Bough: The Apex|the Zenith]], there is nothing left to release—you **are** emptiness.
+**The Challenge:** At [[The Eight Boughs of Ascent|the Zenith]], there is nothing left to release—you **are** emptiness.
 
 **The Practice:** Simply being—no effort, no striving, no seeking.
 
@@ -283,7 +283,7 @@ According to [[Mary Magdalene - Apostle and Beloved|Mary Magdalene's]] story (Lu
 
 **Reality:** Kenosis requires **feeling fully** before releasing—not skipping the feeling.
 
-**Antidote:** [[The Magdalene Path Overview|The Fifth Way]] is embodied. You must **live** it before you can let it go.
+**Antidote:** [[The Magdalene Path]] is embodied. You must **live** it before you can let it go.
 
 ### 3. Self-Annihilation
 
@@ -311,7 +311,7 @@ According to [[Mary Magdalene - Apostle and Beloved|Mary Magdalene's]] story (Lu
 
 ### Tarot: The Hanged Man (XII)
 
-**[[The Hanged Man]]** embodies kenosis—the figure suspended upside down, **surrendering** to a perspective that inverts ordinary reality. He releases control, trusts the process, sees from a new vantage.
+**[[The Hanged Man (XII)]]** embodies kenosis—the figure suspended upside down, **surrendering** to a perspective that inverts ordinary reality. He releases control, trusts the process, sees from a new vantage.
 
 ### Human Design: Emotional Authority and the Wave
 
@@ -319,7 +319,7 @@ Those with **[[Emotional Authority]]** practice kenosis naturally—they must **
 
 ### Jungian Psychology: Shadow Integration
 
-**[[Jungian Archetypes#The Shadow|Shadow work]]** is a form of kenosis—releasing the grip on the "good self" image, allowing the rejected parts to surface and integrate.
+**[[Jungian Archetypes|Shadow work]]** is a form of kenosis—releasing the grip on the "good self" image, allowing the rejected parts to surface and integrate.
 
 ### Angelology: Seraphim and the Fire of Love
 
@@ -329,7 +329,7 @@ The **[[Seraphim]]** (Burning Ones) represent the fire that **consumes**—kenos
 ---
 ## Cross-References
 ### Core Magdalene Path Entries
-- [[The Magdalene Path Overview]] - Kenosis as foundational practice
+- [[The Magdalene Path]] - Kenosis as foundational practice
 - [[Mary Magdalene - Apostle and Beloved]] - Mary's release of the seven demons
 - [[The Eight Boughs of Ascent]] - Kenosis at each stage
 - [[The Bridal Chamber and Sacred Union]] - Self-giving in sacred union
@@ -337,9 +337,9 @@ The **[[Seraphim]]** (Burning Ones) represent the fire that **consumes**—kenos
 - [[Practices and the Lunar Cycle]] - Daily rhythms of releasing
 
 ### Cross-System Integration
-- [[The Hanged Man]] (Tarot XII) - Surrender and inverted vision
+- [[The Hanged Man (XII)]] (Tarot XII) - Surrender and inverted vision
 - [[Emotional Authority]] - Waiting as kenosis
-- [[Jungian Archetypes#The Shadow]] - Releasing the grip on the "good self"
+- [[Jungian Archetypes]] - Releasing the grip on the "good self"
 - [[Seraphim]] - The fire that burns away all but love
 
 ---

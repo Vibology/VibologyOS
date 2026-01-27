@@ -27,7 +27,7 @@ category: Stages
 
 **Why This Teaching Matters:**
 
-This is **not** metaphor or poetry—it is a **map of consciousness** based on direct visionary experience. Mary teaches what she has **seen**, providing precise instructions for navigating the same terrain. This is the vertical axis (Z-axis) of [[The Magdalene Path Overview|The Magdalene Path]]—the dimension of elevation that complements horizontal mapping.
+This is **not** metaphor or poetry—it is a **map of consciousness** based on direct visionary experience. Mary teaches what she has **seen**, providing precise instructions for navigating the same terrain. This is the vertical axis (Z-axis) of [[The Magdalene Path]]—the dimension of elevation that complements horizontal mapping.
 
 ---
 ## The Great Tree: Structure and Symbolism
@@ -123,13 +123,13 @@ Can you release the **righteousness** of your anger? Can you see those who harme
 
 > *Vibology Synthesis: The following cross-system correspondences are original integrations.*
 
-**Tarot:** [[The Empress]] (III) - Love, compassion, nurturing, the heart opening
+**Tarot:** [[The Empress (III)]] (III) - Love, compassion, nurturing, the heart opening
 
 **Enochian Aethyrs:** TEX, RII, BAG (30th-28th Aethyrs) - The densest realms where wrath and judgment dominate
 
 **Human Design:** [[Emotional Authority]] - Learning to wait through the wave rather than reacting from anger
 
-**Jungian:** [[Jungian Archetypes#The Shadow|The Shadow]] - Integrating the rejected "wrathful" parts
+**Jungian:** [[Jungian Archetypes|The Shadow]] - Integrating the rejected "wrathful" parts
 
 **Practice Duration:** Months to years—this is foundational work that never fully ends
 
@@ -186,7 +186,7 @@ Can you **not-know**? Can you release the security of fixed beliefs and enter th
 
 > *Vibology Synthesis: The following cross-system correspondences are original integrations.*
 
-**Tarot:** [[The High Priestess]] (II) - Hidden wisdom, the veil between worlds, gnosis
+**Tarot:** [[The High Priestess (II)]] (II) - Hidden wisdom, the veil between worlds, gnosis
 
 **Enochian Aethyrs:** DES, ZAA, UTI (27th-25th Aethyrs) - Entry into seeking, guidance becomes available
 
@@ -249,13 +249,13 @@ Can you **neither collapse nor inflate**? Can you walk with quiet dignity—neit
 
 > *Vibology Synthesis: The following cross-system correspondences are original integrations.*
 
-**Tarot:** [[The Emperor]] (IV) - Healthy ego structure, authority without tyranny
+**Tarot:** [[The Emperor (IV)]] (IV) - Healthy ego structure, authority without tyranny
 
 **Enochian Aethyrs:** 22nd-24th Aethyrs - The ego begins to be tested, boundaries dissolve
 
 **Human Design:** [[Ego Authority]] (Heart/Will Center) - Decision-making through self-worth and willpower
 
-**Jungian:** Integration of [[Jungian Archetypes#The Persona|Persona]]—the mask you show the world must align with inner truth
+**Jungian:** Integration of [[Jungian Archetypes|Persona]]—the mask you show the world must align with inner truth
 
 **Practice Duration:** Years—ego work is ongoing until transparency is achieved
 
@@ -326,11 +326,11 @@ This is the **Abyss crossing**—ego death, the collapse of identification with 
 
 > *Vibology Synthesis: The following cross-system correspondences are original integrations.*
 
-**Tarot:** [[Death]] (XIII) - Ego death, transformation, the shedding of form
+**Tarot:** [[Death (XIII)]] (XIII) - Ego death, transformation, the shedding of form
 
 **Enochian Aethyrs:** ZAX (10th Aethyr) - **The Abyss**, the crossing where all form dissolves
 
-**Human Design:** Crossing the [[Human Design#The Abyss|Abyss]] of conditioning—releasing Not-Self identity
+**Human Design:** Crossing the [[Human Design|Abyss]] of conditioning—releasing Not-Self identity
 
 **Jungian:** The **Dark Night of the Soul** (John of the Cross), where all supports collapse
 
@@ -383,13 +383,13 @@ What remains is **integration**—stabilizing in the new awareness.
 
 > *Vibology Synthesis: The following cross-system correspondences are original integrations.*
 
-**Tarot:** [[The Star]] (XVII) - Hope, clarity, the light after the dark night
+**Tarot:** [[The Star (XVII)]] (XVII) - Hope, clarity, the light after the dark night
 
 **Enochian Aethyrs:** 9th-6th Aethyrs - The Higher Astral, where clarity and vision emerge
 
-**Human Design:** Living from [[Inner Authority and Strategy|True Self]]—decisions aligned with authentic nature
+**Human Design:** Living from [[Inner Authority and Strategy]]—decisions aligned with authentic nature
 
-**Jungian:** The emergence of [[Jungian Archetypes#The Self|the Self]]—the center beyond ego
+**Jungian:** The emergence of [[Jungian Archetypes|the Self]]—the center beyond ego
 
 **Practice Duration:** Stabilization takes years—the realization may be sudden, but integration is gradual
 
@@ -447,13 +447,13 @@ Believing you are "healed enough" to heal others **before** you have fully heale
 
 > *Vibology Synthesis: The following cross-system correspondences are original integrations.*
 
-**Tarot:** [[Temperance]] (XIV) - Alchemy, integration, healing through balance
+**Tarot:** [[Temperance (XIV)]] (XIV) - Alchemy, integration, healing through balance
 
 **Enochian Aethyrs:** 5th-3rd Aethyrs - The realm of divine power and service
 
-**Human Design:** Generators and Manifesting Generators living in [[Inner Authority and Strategy#Sacral Response|Sacral Response]]—sustainable creative power
+**Human Design:** Generators and Manifesting Generators living in [[Inner Authority and Strategy]]—sustainable creative power
 
-**Jungian:** Integration of [[Jungian Archetypes#The Anima|Anima]]/[[Jungian Archetypes#The Animus|Animus]]—the inner masculine and feminine united
+**Jungian:** Integration of [[Jungian Archetypes|Anima]]/[[Jungian Archetypes|Animus]]—the inner masculine and feminine united
 
 **Practice Duration:** Years—healing is layered, spiral work
 
@@ -509,13 +509,13 @@ You **cannot skip boughs**. The tree must be climbed in order. If you try to lea
 
 > *Vibology Synthesis: The following cross-system correspondences are original integrations.*
 
-**Tarot:** [[The Sun]] (XIX) - Illumination, joy, radiant wholeness
+**Tarot:** [[The Sun (XIX)]] (XIX) - Illumination, joy, radiant wholeness
 
 **Enochian Aethyrs:** 2nd Aethyr (ARN) - The realm of pure light before final union
 
-**Human Design:** Living as [[Human Design#The Unique Self|Unique Self]]—fully individuated, radiant
+**Human Design:** Living as [[Human Design|Unique Self]]—fully individuated, radiant
 
-**Jungian:** [[Jungian Archetypes#The Self|The Self]] fully manifest—individuation complete
+**Jungian:** [[Jungian Archetypes|The Self]] fully manifest—individuation complete
 
 **Practice Duration:** This is not a permanent state for most—it is a **visitation**, a **glimpse**, that you return to repeatedly
 
@@ -579,17 +579,17 @@ Having reached the Apex, the soul **rests**. This is not passivity—it is the *
 
 **And Then:**
 
-Most souls **return**—descending the tree to serve, to teach, to bring the fruit back to those still climbing. This is **Cosmic Service** (see [[The Magdalene Path Overview#The Fifth Way|The Fifth Way]]).
+Most souls **return**—descending the tree to serve, to teach, to bring the fruit back to those still climbing. This is **Cosmic Service** (see [[The Magdalene Path]]).
 
 ### Cross-System Correspondences
 
 > *Vibology Synthesis: The following cross-system correspondences are original integrations.*
 
-**Tarot:** [[The World]] (XXI) - Completion, wholeness, the dance of integration
+**Tarot:** [[The World (XXI)]] (XXI) - Completion, wholeness, the dance of integration
 
 **Enochian Aethyrs:** LIL (1st Aethyr) - The highest heaven, union with the Divine
 
-**Human Design:** The [[Human Design#Transpersonal Life|Transpersonal Life]]—living as instrument of evolution
+**Human Design:** The [[Human Design|Transpersonal Life]]—living as instrument of evolution
 
 **Jungian:** The **unus mundus** (one world)—the unified field where psyche and matter are one
 
@@ -811,14 +811,14 @@ The **30 Enochian Aethyrs** (from the Angelology pillar) can be mapped to the Ei
 
 ### Tarot Major Arcana (Archetypal Markers)
 
-**First Bough:** [[The Empress]] (III) - Love, compassion
-**Second Bough:** [[The High Priestess]] (II) - Wisdom, hidden knowledge
-**Third Bough:** [[The Emperor]] (IV) - Ego structure, authority
-**Fourth Bough:** [[Death]] (XIII) - Transformation, ego death
-**Fifth Bough:** [[The Star]] (XVII) - Clarity, hope after darkness
-**Sixth Bough:** [[Temperance]] (XIV) - Healing, integration
-**Seventh Bough:** [[The Sun]] (XIX) - Illumination, radiance
-**Eighth Bough:** [[The World]] (XXI) - Completion, wholeness
+**First Bough:** [[The Empress (III)]] (III) - Love, compassion
+**Second Bough:** [[The High Priestess (II)]] (II) - Wisdom, hidden knowledge
+**Third Bough:** [[The Emperor (IV)]] (IV) - Ego structure, authority
+**Fourth Bough:** [[Death (XIII)]] (XIII) - Transformation, ego death
+**Fifth Bough:** [[The Star (XVII)]] (XVII) - Clarity, hope after darkness
+**Sixth Bough:** [[Temperance (XIV)]] (XIV) - Healing, integration
+**Seventh Bough:** [[The Sun (XIX)]] (XIX) - Illumination, radiance
+**Eighth Bough:** [[The World (XXI)]] (XXI) - Completion, wholeness
 
 ### Gospel of Philip: The Three Chambers
 
@@ -835,7 +835,7 @@ The Gospel of Philip (Nag Hammadi Codex II,3) describes **three chambers** in th
 > *Vibology Synthesis: This mapping between the Three Chambers and the Eight Boughs is an original integration.*
 
 - **Boughs 1-4** = Baptism (purification, shadow work)
-- **Boughs 5-6** = Restoration (awakening, healing—achieving [[The Bridal Chamber and Sacred Union#Singleness (Ihidaya)|Singleness]])
+- **Boughs 5-6** = Restoration (awakening, healing—achieving [[The Bridal Chamber and Sacred Union|Singleness]])
 - **Boughs 7-8** = Bridal Chamber (illumination, union with Spirit)
 
 #### The Teaching
@@ -846,7 +846,7 @@ You **cannot skip chambers**. Baptism must precede restoration, which must prece
 
 **Boughs 1-3:** Releasing **conditioning** and **Not-Self** patterns
 **Bough 4:** Crossing the **Abyss** of false identity
-**Boughs 5-8:** Living as **True Self**, aligned with [[Inner Authority and Strategy|Inner Authority]]
+**Boughs 5-8:** Living as **True Self**, aligned with [[Inner Authority and Strategy]]
 
 ### Jungian Psychology: Individuation
 
@@ -961,7 +961,7 @@ Most souls do not **remain** at the Eighth Bough. They **return**—descending t
 **Why Return?**
 
 - **Compassion** (First Bough fruit) compels you—you cannot rest while others suffer in darkness
-- **Cosmic Service** (see [[The Magdalene Path Overview#The Fifth Way|The Fifth Way]])—the union is **not for you alone**, but for the healing of the world
+- **Cosmic Service** (see [[The Magdalene Path]])—the union is **not for you alone**, but for the healing of the world
 - **Embodied Integration**—the vision must be **lived**, not just seen
 
 **The Bodhisattva Vow:**
@@ -984,7 +984,7 @@ The fruit of the higher boughs **nourishes** those at the lower boughs. Your cla
 ---
 ## Cross-References
 ### Core Magdalene Path Entries
-- [[The Magdalene Path Overview]] - The Fifth Way and vertical axis
+- [[The Magdalene Path]] - The Fifth Way and vertical axis
 - [[Mary Magdalene - Apostle and Beloved]] - The teacher of this vision
 - [[The Bridal Chamber and Sacred Union]] - The Eighth Bough as Bridal Chamber
 - [[Kenosis - The Path of Self-Emptying]] - Shedding the garments, releasing the guardians
@@ -993,17 +993,17 @@ The fruit of the higher boughs **nourishes** those at the lower boughs. Your cla
 - [[Sources, Shadows, and Contemporary Practice]] - Gospel texts and contemporary recovery
 
 ### Cross-System Integration
-- [[The Empress]] - First Bough (Love/Compassion)
-- [[The High Priestess]] - Second Bough (Wisdom)
-- [[The Emperor]] - Third Bough (Ego/Honor)
-- [[Death]] - Fourth Bough (Flesh/Transformation)
-- [[The Star]] - Fifth Bough (Clarity/Awakening)
-- [[Temperance]] - Sixth Bough (Healing/Integration)
-- [[The Sun]] - Seventh Bough (Illumination)
-- [[The World]] - Eighth Bough (Completion/Union)
+- [[The Empress (III)]] - First Bough (Love/Compassion)
+- [[The High Priestess (II)]] - Second Bough (Wisdom)
+- [[The Emperor (IV)]] - Third Bough (Ego/Honor)
+- [[Death (XIII)]] - Fourth Bough (Flesh/Transformation)
+- [[The Star (XVII)]] - Fifth Bough (Clarity/Awakening)
+- [[Temperance (XIV)]] - Sixth Bough (Healing/Integration)
+- [[The Sun (XIX)]] - Seventh Bough (Illumination)
+- [[The World (XXI)]] - Eighth Bough (Completion/Union)
 - [[Inner Authority and Strategy]] - Human Design True Self journey
-- [[Jungian Archetypes#The Self]] - The center beyond ego
-- [[Jungian Archetypes#The Shadow]] - The guardians to be faced
+- [[Jungian Archetypes]] - The center beyond ego
+- [[Jungian Archetypes]] - The guardians to be faced
 
 ---
 

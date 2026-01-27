@@ -13,7 +13,7 @@ category: Context
 ---
 ## Core Teaching
 
-[[The Magdalene Path Overview|The Magdalene Path]] is both **ancient** and **newly recovered**. For nearly 2,000 years, the tradition was **obscured**—first by the conflation of [[Mary Magdalene - Apostle and Beloved|Mary Magdalene]] with other women in the gospels, then by the church's reduction of her to a "penitent prostitute," and finally by the complete suppression of the **Wisdom gospels** (Gnostic texts) that preserved her teachings.
+[[The Magdalene Path]] is both **ancient** and **newly recovered**. For nearly 2,000 years, the tradition was **obscured**—first by the conflation of [[Mary Magdalene - Apostle and Beloved|Mary Magdalene]] with other women in the gospels, then by the church's reduction of her to a "penitent prostitute," and finally by the complete suppression of the **Wisdom gospels** (Gnostic texts) that preserved her teachings.
 
 **The Recovery (20th-21st Century):**
 
@@ -131,7 +131,7 @@ Found in Nag Hammadi Codex II,2; considered one of the earliest non-canonical te
 
 **Interpretation (Not Literal):**
 - "Male" and "female" are symbolic—**masculine = active/logos**, **feminine = receptive/eros**
-- Jesus is teaching that Mary (and all seekers) must **integrate** both polarities—become **Single** (see [[The Bridal Chamber and Sacred Union#Singleness (Ihidaya)|Singleness]])
+- Jesus is teaching that Mary (and all seekers) must **integrate** both polarities—become **Single** (see [[The Bridal Chamber and Sacred Union|Singleness]])
 - This is **internal alchemy**, not gender essentialism
 
 **What It Reveals:**
@@ -265,7 +265,7 @@ Even the **authentic** Magdalene Path carries shadows—ways the teaching can be
 
 ### Shadow 2: Codependency Disguised as Sacred Love
 
-**The Distortion:** Using [[Anointing and Substituted Love#Substituted Love: Holding the Post|Substituted Love]] or [[The Bridal Chamber and Sacred Union|the Bridal Chamber]] to justify **enmeshment** or **codependency**.
+**The Distortion:** Using [[Anointing and Substituted Love|Substituted Love]] or [[The Bridal Chamber and Sacred Union|the Bridal Chamber]] to justify **enmeshment** or **codependency**.
 
 #### Example
 - "I'm holding the post for my partner, so I need to stay even though the relationship is abusive."
@@ -283,7 +283,7 @@ Even the **authentic** Magdalene Path carries shadows—ways the teaching can be
 
 ### Shadow 3: Premature Abyss Crossing
 
-**The Distortion:** Trying to leap to [[The Eight Boughs of Ascent#Fourth Bough: The Flesh|the Abyss]] without doing the preparatory work at [[The Eight Boughs of Ascent#Third Bough: The Ego/Self|the Lower Astral]].
+**The Distortion:** Trying to leap to [[The Eight Boughs of Ascent|the Abyss]] without doing the preparatory work at [[The Eight Boughs of Ascent|the Lower Astral]].
 
 #### Example
 - Taking psychedelics or engaging in extreme practices to "force" ego death
@@ -296,7 +296,7 @@ Even the **authentic** Magdalene Path carries shadows—ways the teaching can be
 - You cannot let go of what you haven't yet **inhabited**
 
 #### Antidote
-- If you're at [[The Eight Boughs of Ascent#First Bough: The Foundation|the Base]] or [[The Eight Boughs of Ascent#Second Bough: The Mind|the Gate]], do that work **fully**
+- If you're at [[The Eight Boughs of Ascent|the Base]] or [[The Eight Boughs of Ascent|the Gate]], do that work **fully**
 - The Abyss will come when you're ready—forcing it is ego trying to control the path
 
 
@@ -311,7 +311,7 @@ Even the **authentic** Magdalene Path carries shadows—ways the teaching can be
 **Reality:**
 - The path is not a **status**—it is a **practice**
 - If it makes you **arrogant**, you have left the path
-- [[The Eight Boughs of Ascent#Eighth Bough: The Apex|The Zenith]] is characterized by **humility**, not superiority
+- [[The Eight Boughs of Ascent|The Zenith]] is characterized by **humility**, not superiority
 
 #### Antidote
 - The teaching is for **service**, not self-aggrandizement
@@ -369,12 +369,12 @@ Bourgeault **synthesizes**:
 **Substituted Love:**
 - The practice of "laying down your life" for another—not martyrdom, but **exchanging places**
 - When you stand in the beloved's place and hold their wholeness when they cannot
-- See [[Anointing and Substituted Love#Substituted Love: Holding the Post|Substituted Love]]
+- See [[Anointing and Substituted Love|Substituted Love]]
 
 **Singleness (Ihidaya):**
 - The restoration of internal wholeness—union of masculine and feminine within
 - You must become **Single** (whole) before entering sacred partnership
-- See [[The Bridal Chamber and Sacred Union#Singleness (Ihidaya)|Singleness]]
+- See [[The Bridal Chamber and Sacred Union|Singleness]]
 
 
 ### Other Contemporary Teachers
@@ -414,26 +414,26 @@ Bourgeault **synthesizes**:
 
 3. **The Examen** (Ignatian practice, adapted)
    - Evening review—witnessing the day without judgment
-   - See [[Practices and the Lunar Cycle#Evening: The Review|Evening Review]]
+   - See [[Practices and the Lunar Cycle|Evening Review]]
 
 4. **Shadow Work** (Jungian integration)
    - Identifying and integrating rejected parts of the psyche
-   - Required at [[The Eight Boughs of Ascent#Third Bough: The Ego/Self|the Lower Astral]]
+   - Required at [[The Eight Boughs of Ascent|the Lower Astral]]
 
 
 #### **For Partnerships:**
 
 1. **Substituted Love Practice**
    - When your partner is suffering, **stand in their place**—feel what they feel, hold their wholeness
-   - See [[Anointing and Substituted Love#The Practice|Substituted Love Practice]]
+   - See [[Anointing and Substituted Love|Substituted Love Practice]]
 
 2. **Eucharistic Sex**
    - Sexual union as **sacrament**—"This is my body, given for you"
-   - See [[The Bridal Chamber and Sacred Union#Eucharistic Sex: "This Is My Body"|Eucharistic Sex]]
+   - See [[The Bridal Chamber and Sacred Union|Eucharistic Sex]]
 
 3. **Weekly Sacred Time**
    - Set aside 1-2 hours weekly for **Bridal Chamber practice**—no screens, full presence
-   - See [[Practices and the Lunar Cycle#Weekly Bridal Chamber Practice (1-2 hours)|Weekly Bridal Chamber Practice]]
+   - See [[Practices and the Lunar Cycle|Weekly Bridal Chamber Practice]]
 
 
 #### **For Communities:**
@@ -454,11 +454,11 @@ Bourgeault **synthesizes**:
 ## Pillar Integration
 ### Tarot: The High Priestess (II)
 
-**[[The High Priestess]]** embodies the **Wisdom** tradition—hidden knowledge, the veil between worlds, the path that must be **sought** rather than given. She is the Magdalene, holding the scrolls of gnosis.
+**[[The High Priestess (II)]]** embodies the **Wisdom** tradition—hidden knowledge, the veil between worlds, the path that must be **sought** rather than given. She is the Magdalene, holding the scrolls of gnosis.
 
 ### Jungian Psychology: Anima and Integration
 
-Jung's **[[Jungian Archetypes#The Anima|Anima]]** (the inner feminine in men) and **[[Jungian Archetypes#The Animus|Animus]]** (the inner masculine in women) must be integrated to achieve wholeness. This is **Singleness** (Ihidaya) on the Magdalene Path.
+Jung's **[[Jungian Archetypes|Anima]]** (the inner feminine in men) and **[[Jungian Archetypes|Animus]]** (the inner masculine in women) must be integrated to achieve wholeness. This is **Singleness** (Ihidaya) on the Magdalene Path.
 
 ### Human Design: Emotional Authority and the Wave
 
@@ -472,7 +472,7 @@ Those with **[[Emotional Authority]]** (Solar Plexus defined) must **wait throug
 ---
 ## Cross-References
 ### Core Magdalene Path Entries
-- [[The Magdalene Path Overview]] - Overview of the Fifth Way
+- [[The Magdalene Path]] - Overview of the Fifth Way
 - [[Mary Magdalene - Apostle and Beloved]] - The archetype and historical figure
 - [[The Eight Boughs of Ascent]] - The vertical journey
 - [[The Bridal Chamber and Sacred Union]] - Sacred partnership and union
@@ -481,11 +481,11 @@ Those with **[[Emotional Authority]]** (Solar Plexus defined) must **wait throug
 - [[Practices and the Lunar Cycle]] - Daily and cyclical practices
 
 ### Cross-System Integration
-- [[The High Priestess]] (Tarot II) - Wisdom, hidden knowledge, the veil
+- [[The High Priestess (II)]] (Tarot II) - Wisdom, hidden knowledge, the veil
 - [[Emotional Authority]] - Waiting through the wave for clarity
-- [[Jungian Archetypes#The Anima]] - Inner feminine, integration
-- [[Jungian Archetypes#The Animus]] - Inner masculine, integration
-- [[Jungian Archetypes#The Shadow]] - Rejected parts requiring integration
+- [[Jungian Archetypes]] - Inner feminine, integration
+- [[Jungian Archetypes]] - Inner masculine, integration
+- [[Jungian Archetypes]] - Rejected parts requiring integration
 
 ---
 
