@@ -338,8 +338,8 @@ Gate 59 teaches that **intimacy is sacred**. When the individual honors their se
 - [[Yesod (Qabalah)]] — Foundation, sexuality, generation
 
 ### Thematic Collections
-- [[Gates of the Sacral Center]] — All gates within Life Force center
-- [[Tribal Circuit Gates]] — All gates within Tribal stream
+- Gates of the Sacral Center — All gates within Life Force center
+- Tribal Circuit Gates — All gates within Tribal stream
 - [[Defense Circuit Gates]] — All gates within Defense stream
 - [[Gates of Sexuality]] — Gates related to bonding and intimacy
 
@@ -350,15 +350,15 @@ Gate 59 teaches that **intimacy is sacred**. When the individual honors their se
 - [[Eros (Greek Mythology)]] — God of sexual love and desire
 
 ### Biological and Somatic
-- [[Sacral Center]] — Life force, sexuality, work, response
+- [[Sacral]] — Life force, sexuality, work, response
 - [[Reproductive System]] — Gonads, hormones, fertility
 - [[Sexual Hormones]] — Estrogen, testosterone, libido
 
 ### Practical Application
-- [[Strategy and Authority]] — Decision-making framework
-- [[Sacral Response]] — Uh-huh/uhn-uhn mechanism
-- [[Defined vs. Undefined Centers]] — Fixed vs. variable energy
-- [[The 7-Year Deconditioning Cycle]] — Returning to authentic design
+- Strategy and [[Authority]] — Decision-making framework
+- Sacral Response — Uh-huh/uhn-uhn mechanism
+- Defined vs. Undefined Centers — Fixed vs. variable energy
+- The 7-Year Deconditioning Cycle — Returning to authentic design
 
 ---
 

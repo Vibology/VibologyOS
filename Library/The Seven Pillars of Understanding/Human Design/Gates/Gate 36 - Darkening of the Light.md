@@ -336,11 +336,11 @@ Gate 36 teaches that **darkness is not pathology—it is necessity**. When the i
 - [[I-Ching Hexagram 36 - Darkening of the Light]] — The source hexagram
 - [[Gene Keys 36 - Turbulence to Compassion]] — Shadow-gift-siddhi framework
 - [[The Moon (Tarot)]] — The night journey, navigating darkness
-- [[Binah (Qabalah)]] — Understanding through darkness
+- Binah (Qabalah) — Understanding through darkness
 
 ### Thematic Collections
-- [[Gates of the Solar Plexus Center]] — All six emotional gates
-- [[Collective Circuit Gates]] — Logic and Abstract
+- Gates of the Solar Plexus Center — All six emotional gates
+- Collective Circuit Gates — Logic and Abstract
 - [[Gates of Crisis]] — Learning through darkness
 - [[Gates of Compassion]] — Empathy through suffering
 
@@ -350,15 +350,15 @@ Gate 36 teaches that **darkness is not pathology—it is necessity**. When the i
 - [[Descent into the Underworld]] — The hero's journey through darkness
 
 ### Biological and Somatic
-- [[Solar Plexus Center]] — Emotional awareness and wave
+- [[Solar Plexus]] — Emotional awareness and wave
 - [[Nerve Plexus]] — Biological correlate of emotional chemistry
 - [[Kidneys]] — Processing emotional toxins
 - [[Emotional Authority]] — Decision-making through the wave
 
 ### Practical Application
-- [[Strategy and Authority]] — HD decision-making
-- [[Defined vs. Undefined Centers]] — Fixed vs. variable energy
-- [[The 7-Year Deconditioning Cycle]] — Returning to design
+- Strategy and [[Authority]] — HD decision-making
+- Defined vs. Undefined Centers — Fixed vs. variable energy
+- The 7-Year Deconditioning Cycle — Returning to design
 - [[Emotional Wave]] — Understanding peaks and valleys
 
 ---

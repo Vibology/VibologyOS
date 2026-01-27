@@ -336,14 +336,14 @@ Gate 3 teaches that **mutation is not easy, and it shouldn't be**. When the indi
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 3 - Difficulty at the Beginning]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 03 - Chaos to Innocence]] — Richard Rudd's shadow-gift-siddhi framework for Gate 3
-- [[The Tower (Tarot)]] — Resonance with necessary destruction before rebuilding
-- [[Binah (Qabalah)]] — Understanding through form and limitation
+- [[The Tower (XVI)]] — Resonance with necessary destruction before rebuilding
+- Binah (Qabalah) — Understanding through form and limitation
 - [[Uranus (Astrology)]] — Planet of mutation, innovation, sudden change
 
 ### Thematic Collections
-- [[Gates of the Sacral Center]] — All nine gates within the Life Force center
-- [[Individual Circuit Gates]] — All gates within the Individual stream
-- [[Gates of Mutation]] — Gates carrying the mutative, empowering frequency
+- Gates of the Sacral Center — All nine gates within the Life Force center
+- Individual Circuit Gates — All gates within the Individual stream
+- Gates of Mutation — Gates carrying the mutative, empowering frequency
 - [[Gates of Innovation]] — Gates specifically related to bringing forth the new
 
 ### Archetypal and Mythological
@@ -353,14 +353,14 @@ Gate 3 teaches that **mutation is not easy, and it shouldn't be**. When the indi
 - [[The Seed (Universal Symbol)]] — Life pushing through earth, difficulty at emergence
 
 ### Biological and Somatic
-- [[Sacral Center]] — The center of life force, fertility, and response
+- [[Sacral]] — The center of life force, fertility, and response
 - [[Ovaries and Testes (Biology)]] — Reproductive organs associated with the Sacral
 - [[The Pulse (Energy Pattern)]] — On/off rhythm of Individual energy
 
 ### Practical Application
-- [[Strategy and Authority]] — The foundational Human Design decision-making framework
-- [[Sacral Response]] — The uh-huh/uhn-uhn gut response of the Sacral
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- Strategy and [[Authority]] — The foundational Human Design decision-making framework
+- Sacral Response — The uh-huh/uhn-uhn gut response of the Sacral
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Honoring the Pulse]] — Working with Individual energy's on/off rhythm
 - [[Mutation vs. Evolution]] — Understanding the difference between Individual mutation and Collective/Tribal evolution
 

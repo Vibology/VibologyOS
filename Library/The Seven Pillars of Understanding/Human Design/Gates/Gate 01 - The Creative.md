@@ -332,9 +332,9 @@ Gate 1 teaches that **authentic identity is expressed through unique creativity*
 - [[Kether (Qabalah)]] — The Crown, primal point of manifestation
 
 ### Thematic Collections
-- [[Gates of the G Center]] — All eight gates within the Identity/Direction center
-- [[Individual Circuit Gates]] — All gates within the Individual stream
-- [[Gates of Mutation]] — Gates carrying the mutative, empowering frequency
+- Gates of the G Center — All eight gates within the Identity/Direction center
+- Individual Circuit Gates — All gates within the Individual stream
+- Gates of Mutation — Gates carrying the mutative, empowering frequency
 - [[Gates of Creative Expression]] — Gates specifically related to bringing forth new forms
 
 ### Archetypal and Mythological
@@ -345,13 +345,13 @@ Gate 1 teaches that **authentic identity is expressed through unique creativity*
 
 ### Biological and Somatic
 - [[G Center]] — The center of identity, direction, and love
-- [[Magnetic Monopole]] — Ra's term for the orientation mechanism in the G Center
+- Magnetic Monopole — Ra's term for the orientation mechanism in the G Center
 - [[Liver (Biology)]] — The organ associated with the G Center
 
 ### Practical Application
-- [[Strategy and Authority]] — The foundational Human Design decision-making framework
-- [[Defined vs. Undefined Centers]] — Understanding fixed vs. variable energy in the bodygraph
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- Strategy and [[Authority]] — The foundational Human Design decision-making framework
+- Defined vs. Undefined Centers — Understanding fixed vs. variable energy in the bodygraph
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Individual Empowerment vs. Collective Leadership]] — Distinguishing Individual from Tribal/Collective roles
 
 ---

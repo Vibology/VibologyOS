@@ -335,11 +335,11 @@ Gate 52 teaches that **stillness is not weakness; it is wisdom**. When the indiv
 - [[I-Ching Hexagram 52 - Keeping Still]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 52 - Stress to Stillness]] — Richard Rudd's shadow-gift-siddhi framework for Gate 52
 - [[The Hanged Man (Tarot)]] — Resonance with voluntary suspension and waiting
-- [[Binah (Qabalah)]] — The sephira of understanding, form, and containment
+- Binah (Qabalah) — The sephira of understanding, form, and containment
 
 ### Thematic Collections
-- [[Gates of the Root Center]] — All nine gates within the Pressure/Stress center
-- [[Collective Circuit Gates]] — All gates within the Collective stream
+- Gates of the Root Center — All nine gates within the Pressure/Stress center
+- Collective Circuit Gates — All gates within the Collective stream
 - [[Gates of Stillness]] — Gates specifically related to pause, waiting, restraint
 - [[Gates of Assessment]] — Gates related to evaluation and pattern recognition
 
@@ -350,14 +350,14 @@ Gate 52 teaches that **stillness is not weakness; it is wisdom**. When the indiv
 - [[The Mountain (Symbolism)]] — Universal symbol of stillness, immovability, and endurance
 
 ### Biological and Somatic
-- [[Root Center]] — The center of pressure, stress, and adrenalization
-- [[Adrenal Glands]] — The biological correspondence for stress response
+- [[Root]] — The center of pressure, stress, and adrenalization
+- Adrenal Glands — The biological correspondence for stress response
 - [[Parasympathetic Nervous System]] — The rest-and-digest response that supports stillness
 
 ### Practical Application
-- [[Strategy and Authority]] — The foundational Human Design decision-making framework
-- [[Defined vs. Undefined Centers]] — Understanding fixed vs. variable energy in the bodygraph
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- Strategy and [[Authority]] — The foundational Human Design decision-making framework
+- Defined vs. Undefined Centers — Understanding fixed vs. variable energy in the bodygraph
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Collective Sharing vs. Individual Empowerment]] — Distinguishing Collective from Tribal/Individual roles
 
 ---

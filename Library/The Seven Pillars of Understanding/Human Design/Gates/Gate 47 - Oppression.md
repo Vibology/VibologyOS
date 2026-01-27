@@ -328,10 +328,10 @@ Gate 47 teaches that **mental pressure is sacred**. When the individual honors t
 - [[I-Ching Hexagram 47 - Oppression]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 47 - Oppression to Transfiguration]] — Richard Rudd's shadow-gift-siddhi framework for Gate 47
 - [[The Hanged Man (Tarot)]] — Resonance with surrender and realization through constraint
-- [[Binah (Qabalah)]] — Understanding, structure, contemplative gestation
+- Binah (Qabalah) — Understanding, structure, contemplative gestation
 
 ### Thematic Collections
-- [[Gates of the Ajna Center]] — All seven gates within the Awareness center
+- Gates of the Ajna Center — All seven gates within the Awareness center
 - [[Collective Understanding Circuit Gates]] — All gates within the Logic stream
 - [[Gates of Mental Pressure]] — Gates related to contemplation and realization
 - [[Gates of Transmutation]] — Gates that transform oppression into clarity
@@ -339,17 +339,17 @@ Gate 47 teaches that **mental pressure is sacred**. When the individual honors t
 ### Archetypal and Mythological
 - [[The Contemplative Archetype]] — Jungian archetypal pattern of deep mental processing
 - [[The Alchemist]] — Transforming base confusion into golden understanding
-- [[Saturn (Astrology)]] — Constraint, limitation, karmic realization
+- Saturn — Constraint, limitation, karmic realization
 
 ### Biological and Somatic
-- [[Ajna Center]] — The center of mental awareness and conceptualization
+- [[Ajna]] — The center of mental awareness and conceptualization
 - [[Pineal Gland]] — The biological organ of mental pressure
 - [[Cognitive Processing]] — Mental mechanisms of contemplation
 
 ### Practical Application
-- [[Strategy and Authority]] — The foundational Human Design decision-making framework
-- [[Defined vs. Undefined Centers]] — Understanding fixed vs. variable energy in the bodygraph
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- Strategy and [[Authority]] — The foundational Human Design decision-making framework
+- Defined vs. Undefined Centers — Understanding fixed vs. variable energy in the bodygraph
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Mental Awareness vs. Authority]] — Distinguishing Ajna (awareness) from decision-making centers
 
 ---

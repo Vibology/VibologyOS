@@ -328,10 +328,10 @@ Gate 48 teaches that **depth is sacred**. When the individual honors their insti
 - [[I-Ching Hexagram 48 - The Well]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 48 - Inadequacy to Wisdom]] — Richard Rudd's shadow-gift-siddhi framework for Gate 48
 - [[The Star (Tarot)]] — Resonance with inexhaustible source
-- [[Hod (Qabalah)]] — Splendor, intellectual depth
+- Hod (Qabalah) — Splendor, intellectual depth
 
 ### Thematic Collections
-- [[Gates of the Spleen Center]] — All seven gates within the Survival center
+- Gates of the Spleen Center — All seven gates within the Survival center
 - [[Collective Understanding Circuit Gates]] — All gates within the Logic stream
 - [[Gates of Resource Depth]] — Gates related to adequacy and sustainability
 - [[Gates of Instinctual Awareness]] — Gates that provide survival knowing
@@ -342,14 +342,14 @@ Gate 48 teaches that **depth is sacred**. When the individual honors their insti
 - [[Ceres (Astrology)]] — Nurturance and resource management
 
 ### Biological and Somatic
-- [[Spleen Center]] — The center of survival, instinct, and health
+- [[Spleen]] — The center of survival, instinct, and health
 - [[Lymphatic System]] — The biological mechanism of deep immune reserves
 - [[Resource Assessment]] — Instinctual knowing of adequacy
 
 ### Practical Application
-- [[Strategy and Authority]] — The foundational Human Design decision-making framework
-- [[Defined vs. Undefined Centers]] — Understanding fixed vs. variable energy in the bodygraph
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- Strategy and [[Authority]] — The foundational Human Design decision-making framework
+- Defined vs. Undefined Centers — Understanding fixed vs. variable energy in the bodygraph
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Splenic Authority]] — Instinctual decision-making in the present moment
 
 ---

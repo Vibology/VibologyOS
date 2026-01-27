@@ -340,8 +340,8 @@ Gate 30 teaches that **desire is not the enemy—unconscious desire is**. When t
 - [[Neptune (Astrology)]] — The planet of longing and fantasy
 
 ### Thematic Collections
-- [[Gates of the Solar Plexus Center]] — All gates within the Emotional Awareness center
-- [[Collective Circuit Gates]] — All gates within the Collective stream
+- Gates of the Solar Plexus Center — All gates within the Emotional Awareness center
+- Collective Circuit Gates — All gates within the Collective stream
 - [[Gates of Desire and Feeling]] — Gates related to emotional intensity and clinging
 - [[Gates of Emotional Wisdom]] — Gates that learn through feeling
 
@@ -352,14 +352,14 @@ Gate 30 teaches that **desire is not the enemy—unconscious desire is**. When t
 - [[Eros Function (Psychology)]] — The drive toward connection and clinging
 
 ### Biological and Somatic
-- [[Solar Plexus Center]] — The center of emotional awareness and sensitivity
+- [[Solar Plexus]] — The center of emotional awareness and sensitivity
 - [[Kidneys and Emotional Processing]] — Biological correlation with desire and release
 - [[Pancreas and Energy]] — Regulation of desire and burnout
 
 ### Practical Application
-- [[Strategy and Authority]] — The foundational Human Design decision-making framework
+- Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - [[Emotional Authority]] — Riding the wave to clarity over time
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Conscious Desire]] — Distinguishing authentic feeling from compulsive craving
 
 ---

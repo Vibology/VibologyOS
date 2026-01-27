@@ -339,8 +339,8 @@ Gate 55 teaches that **spirit is the source of abundance**. When the individual 
 - [[Netzach (Qabalah)]] — The sephira of victory, desire, and emotional depth
 
 ### Thematic Collections
-- [[Gates of the Solar Plexus Center]] — All gates within the Emotional center
-- [[Individual Circuit Gates]] — All gates within the Individual stream
+- Gates of the Solar Plexus Center — All gates within the Emotional center
+- Individual Circuit Gates — All gates within the Individual stream
 - [[Gates of Spirit]] — Gates specifically related to emotional richness and depth
 - [[Gates of Freedom]] — Gates related to liberation through feeling
 
@@ -351,15 +351,15 @@ Gate 55 teaches that **spirit is the source of abundance**. When the individual 
 - [[The Cup (Symbolism)]] — Universal symbol of receptivity and emotional fullness
 
 ### Biological and Somatic
-- [[Solar Plexus Center]] — The center of emotion, feeling, and sensation
+- [[Solar Plexus]] — The center of emotion, feeling, and sensation
 - [[Kidneys]] — The biological correspondence for emotional processing
 - [[Nervous System]] — The somatic sensitivity to emotional waves
 
 ### Practical Application
-- [[Strategy and Authority]] — The foundational Human Design decision-making framework
+- Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - [[Emotional Authority]] — Decision-making through riding the emotional wave
-- [[Defined vs. Undefined Centers]] — Understanding fixed vs. variable energy
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- Defined vs. Undefined Centers — Understanding fixed vs. variable energy
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 
 ---
 

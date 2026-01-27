@@ -4,12 +4,10 @@ system: Human Design
 date_created: 2026-01-26
 category: Index
 ---
-
 # The 64 Gates
 *Genetic Archetypes of Human Experience*
 
 ---
-
 ## Overview
 
 The **64 Gates** are the fundamental building blocks of Human Design, corresponding directly to the 64 hexagrams of the I-Ching and the 64 codons of human DNA. Each Gate represents a specific archetypal theme—a frequency of consciousness that manifests as particular gifts, challenges, and life patterns.
@@ -21,7 +19,6 @@ Gates are activated by planetary positions at two critical moments:
 When two Gates at opposite ends of a Channel are both activated, a **Channel** is formed, creating definition and consistent energy flow between Centers.
 
 ---
-
 ## The I-Ching Connection
 
 Human Design inherits the 64-fold structure of the I-Ching, the ancient Chinese oracle:
@@ -36,7 +33,6 @@ Human Design inherits the 64-fold structure of the I-Ching, the ancient Chinese 
 Each Gate name in Human Design derives from its corresponding I-Ching hexagram, preserving the archetypal essence while integrating it into the BodyGraph mechanics.
 
 ---
-
 ## Gates by Center
 
 ### Head Center (3 Gates)
@@ -140,13 +136,12 @@ Each Gate name in Human Design derives from its corresponding I-Ching hexagram, 
 | [[Gate 60 - Limitation]] | Acceptance | Mutation pressure |
 
 ---
-
 ## Cross-References
 
 - [[Human Design]] — System overview
 - [[Centers]] — The nine energy hubs containing the Gates
 - [[Channels]] — Gate pairings that create definition
-- [[I-Ching]] — The ancient source of the 64-fold structure
+- I-Ching — The ancient source of the 64-fold structure
 - [[The Blueprint - 444 Architecture]] — The 64-fold substrate across systems
 
 ---

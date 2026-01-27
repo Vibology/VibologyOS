@@ -343,11 +343,11 @@ Gate 56 teaches that **stories are sacred**. When the individual honors their st
 - [[I-Ching Hexagram 56 - The Wanderer]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 56 - Distraction to Intoxication]] — Richard Rudd's shadow-gift-siddhi framework
 - [[The Fool (Tarot)]] — Resonance with wandering and experiential learning
-- [[Hod (Qabalah)]] — The sephira of communication and narrative
+- Hod (Qabalah) — The sephira of communication and narrative
 
 ### Thematic Collections
-- [[Gates of the Throat Center]] — All gates within the Expression center
-- [[Collective Circuit Gates]] — All gates within the Collective stream
+- Gates of the Throat Center — All gates within the Expression center
+- Collective Circuit Gates — All gates within the Collective stream
 - [[Gates of Storytelling]] — Gates specifically related to narrative and teaching through metaphor
 - [[Gates of Stimulation]] — Gates related to engagement and enrichment
 
@@ -359,14 +359,14 @@ Gate 56 teaches that **stories are sacred**. When the individual honors their st
 - [[The Wandering Jew (Folklore)]] — The eternal traveler condemned to witness and share
 
 ### Biological and Somatic
-- [[Throat Center]] — The center of expression, manifestation, and communication
+- [[Throat]] — The center of expression, manifestation, and communication
 - [[Thyroid]] — The biological correspondence for vocal power and metabolic regulation
 - [[Narrative Processing]] — The cognitive capacity to organize experience as story
 
 ### Practical Application
-- [[Strategy and Authority]] — The foundational Human Design decision-making framework
-- [[Defined vs. Undefined Centers]] — Understanding fixed vs. variable energy in the bodygraph
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- Strategy and [[Authority]] — The foundational Human Design decision-making framework
+- Defined vs. Undefined Centers — Understanding fixed vs. variable energy in the bodygraph
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Collective Sharing vs. Individual Empowerment]] — Distinguishing Collective from Tribal/Individual roles
 
 ---

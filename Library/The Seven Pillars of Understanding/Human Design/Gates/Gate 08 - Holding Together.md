@@ -347,12 +347,12 @@ Gate 8 teaches that **creative contribution is not about being the best—it is 
 - [[I-Ching Hexagram 8 - Holding Together]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 08 - Mediocrity to Exquisiteness]] — Richard Rudd's shadow-gift-siddhi framework for Gate 8
 - [[Strength (Tarot)]] — Resonance with authentic power through gentle expression
-- [[Hod (Qabalah)]] — Splendor, glory, and the manifestation of beauty
-- [[Mercury (Astrology)]] — Planet of expression and communication
+- Hod (Qabalah) — Splendor, glory, and the manifestation of beauty
+- Mercury — Planet of expression and communication
 
 ### Thematic Collections
-- [[Gates of the Throat Center]] — All manifestation gates
-- [[Individual Circuit Gates]] — All gates within the Individual stream
+- Gates of the Throat Center — All manifestation gates
+- Individual Circuit Gates — All gates within the Individual stream
 - [[Gates of Creative Expression]] — Gates specifically related to bringing forth unique forms
 - [[Gates of Style and Authenticity]] — Gates carrying the capacity to express genuine uniqueness
 
@@ -363,14 +363,14 @@ Gate 8 teaches that **creative contribution is not about being the best—it is 
 - [[The Drop and the Ocean]] — Individual contributing to collective while maintaining essence
 
 ### Biological and Somatic
-- [[Throat Center]] — The center of manifestation, voice, and action
+- [[Throat]] — The center of manifestation, voice, and action
 - [[Thyroid (Biology)]] — The gland regulating metabolism and energy expression
 - [[Vocal Cords (Biology)]] — The physical mechanism of voice
 
 ### Practical Application
-- [[Strategy and Authority]] — The foundational Human Design decision-making framework
+- Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - [[Self-Projected Authority]] — Hearing oneself speak to know what is correct (for those with Channel 1-8)
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Honoring the Individual Pulse]] — Working with creative cycles rather than forcing constant expression
 - [[Creative Authenticity vs. Performance]] — Distinguishing genuine expression from phoniness
 

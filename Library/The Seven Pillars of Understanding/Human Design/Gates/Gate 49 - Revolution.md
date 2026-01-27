@@ -332,11 +332,11 @@ Gate 49 teaches that **revolution is sacred**. When the individual honors their 
 - [[I-Ching Hexagram 49 - Revolution]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 49 - Reaction to Rebirth]] — Richard Rudd's shadow-gift-siddhi framework for Gate 49
 - [[Death (Tarot)]] — Resonance with transformation and rebirth
-- [[Geburah (Qabalah)]] — Severity, destructive mercy
+- Geburah (Qabalah) — Severity, destructive mercy
 
 ### Thematic Collections
-- [[Gates of the Solar Plexus Center]] — All seven gates within the Emotional center
-- [[Tribal Circuit Gates]] — All gates within the Tribal stream
+- Gates of the Solar Plexus Center — All seven gates within the Emotional center
+- Tribal Circuit Gates — All gates within the Tribal stream
 - [[Gates of Transformation]] — Gates related to endings and renewal
 - [[Gates of Emotional Sensitivity]] — Gates carrying emotional awareness
 
@@ -346,14 +346,14 @@ Gate 49 teaches that **revolution is sacred**. When the individual honors their 
 - [[Pluto (Astrology)]] — Death, rebirth, fundamental transformation
 
 ### Biological and Somatic
-- [[Solar Plexus Center]] — The center of emotional wave and sensitivity
+- [[Solar Plexus]] — The center of emotional wave and sensitivity
 - [[Emotional Wave]] — The biological rhythm of emotional clarity
 - [[Hormonal Regulation]] — The body's response to emotional sensitivity
 
 ### Practical Application
-- [[Strategy and Authority]] — The foundational Human Design decision-making framework
-- [[Defined vs. Undefined Centers]] — Understanding fixed vs. variable energy in the bodygraph
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- Strategy and [[Authority]] — The foundational Human Design decision-making framework
+- Defined vs. Undefined Centers — Understanding fixed vs. variable energy in the bodygraph
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Emotional Authority]] — Riding the wave to clarity
 
 ---

@@ -343,8 +343,8 @@ Gate 58 teaches that **dissatisfaction is fuel, not failure**. When the individu
 - [[Malkuth (Qabalah)]] — Kingdom, manifestation, grounded reality
 
 ### Thematic Collections
-- [[Gates of the Root Center]] — All gates within Pressure center
-- [[Collective Circuit Gates]] — All gates within Collective stream
+- Gates of the Root Center — All gates within Pressure center
+- Collective Circuit Gates — All gates within Collective stream
 - [[Logic Circuit Gates]] — All gates within Logic stream
 - [[Gates of Correction]] — Gates related to pattern refinement
 
@@ -355,14 +355,14 @@ Gate 58 teaches that **dissatisfaction is fuel, not failure**. When the individu
 - [[Hephaestus (Greek Mythology)]] — God of craft and perfection through work
 
 ### Biological and Somatic
-- [[Root Center]] — Pressure, adrenaline, fuel, stress response
-- [[Adrenal Glands]] — Cortisol and adrenaline production
+- [[Root]] — Pressure, adrenaline, fuel, stress response
+- Adrenal Glands — Cortisol and adrenaline production
 - [[Stress Response System]] — Fight/flight/freeze mechanisms
 
 ### Practical Application
-- [[Strategy and Authority]] — Decision-making framework
-- [[Defined vs. Undefined Centers]] — Fixed vs. variable energy
-- [[The 7-Year Deconditioning Cycle]] — Returning to authentic design
+- Strategy and [[Authority]] — Decision-making framework
+- Defined vs. Undefined Centers — Fixed vs. variable energy
+- The 7-Year Deconditioning Cycle — Returning to authentic design
 - [[Pressure Centers]] — Root and Head as fuel generators
 
 ---

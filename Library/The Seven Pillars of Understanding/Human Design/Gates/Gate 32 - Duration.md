@@ -334,11 +334,11 @@ Gate 32 teaches that **endurance is not rigidity—it is adaptive wisdom**. When
 - [[I-Ching Hexagram 32 - Duration]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 32 - Failure to Veneration]] — Richard Rudd's shadow-gift-siddhi framework for Gate 32
 - [[The Four of Pentacles (Tarot)]] — Resonance with conservation and fear of material loss
-- [[Geburah (Qabalah)]] — Severity, discernment, pruning what does not serve
+- Geburah (Qabalah) — Severity, discernment, pruning what does not serve
 
 ### Thematic Collections
-- [[Gates of the Spleen Center]] — All seven gates within the survival/intuition center
-- [[Tribal Circuit Gates]] — All gates within the Tribal stream (Ego and Defense)
+- Gates of the Spleen Center — All seven gates within the survival/intuition center
+- Tribal Circuit Gates — All gates within the Tribal stream (Ego and Defense)
 - [[Gates of Survival]] — Gates specifically related to existential continuity and preservation
 - [[Gates of Fear]] — Splenic gates carrying survival-based fear awareness
 
@@ -348,14 +348,14 @@ Gate 32 teaches that **endurance is not rigidity—it is adaptive wisdom**. When
 - [[The Wise Elder]] — Tribal wisdom earned through experience and failure
 
 ### Biological and Somatic
-- [[Spleen Center]] — The center of survival, intuition, and immune response
+- [[Spleen]] — The center of survival, intuition, and immune response
 - [[Lymphatic System]] — The biological network associated with the Spleen Center
 - [[Splenic Authority]] — Immediate, spontaneous intuitive knowing
 
 ### Practical Application
-- [[Strategy and Authority]] — The foundational Human Design decision-making framework
-- [[Defined vs. Undefined Centers]] — Understanding fixed vs. variable energy in the bodygraph
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- Strategy and [[Authority]] — The foundational Human Design decision-making framework
+- Defined vs. Undefined Centers — Understanding fixed vs. variable energy in the bodygraph
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Tribal vs. Individual vs. Collective]] — Distinguishing the three streams of circuitry
 
 ---

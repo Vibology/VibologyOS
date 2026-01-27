@@ -331,17 +331,17 @@ Gate 23 teaches that **true knowing requires assimilation and the courage to spe
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 23 - Splitting Apart]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 23 - Complexity to Quintessence]] — Richard Rudd's shadow-gift-siddhi framework for Gate 23
-- [[The Hermit (Tarot)]] — Archetypal withdrawal to know truth
-- [[The Tower (Tarot)]] — Necessary destruction of illusion
-- [[Binah (Qabalah)]] — The Sephirah of Understanding and form-giving
-- [[Mercury (Astrology)]] — The planet of communication and knowing
+- [[The Hermit (IX)]] — Archetypal withdrawal to know truth
+- [[The Tower (XVI)]] — Necessary destruction of illusion
+- Binah (Qabalah) — The Sephirah of Understanding and form-giving
+- Mercury — The planet of communication and knowing
 - [[Uranus (Astrology)]] — The planet of mutation and breakthrough
 
 ### Thematic Collections
-- [[Gates of the Throat Center]] — All gates within the Expression center
-- [[Individual Circuit Gates]] — All gates within the Individual stream
+- Gates of the Throat Center — All gates within the Expression center
+- Individual Circuit Gates — All gates within the Individual stream
 - [[Gates of Knowing and Insight]] — Gates related to understanding and articulation
-- [[Gates of Mutation]] — Gates that introduce new possibilities
+- Gates of Mutation — Gates that introduce new possibilities
 
 ### Archetypal and Mythological
 - [[The Hermit Archetype]] — The figure who withdraws to know
@@ -350,13 +350,13 @@ Gate 23 teaches that **true knowing requires assimilation and the courage to spe
 - [[The Thinking Function (Jung)]] — Psychological discrimination and structure
 
 ### Biological and Somatic
-- [[Throat Center]] — The center of expression and manifestation
+- [[Throat]] — The center of expression and manifestation
 - [[Thyroid and Metabolism]] — Biological correlation with voice and energy regulation
 - [[Vocal Cords]] — Physical mechanism of individual expression
 
 ### Practical Application
-- [[Strategy and Authority]] — The foundational Human Design decision-making framework
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- Strategy and [[Authority]] — The foundational Human Design decision-making framework
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Assimilation Process]] — Waiting for knowing to settle before speaking
 - [[Individual Mutation]] — How unique expression introduces new possibilities
 

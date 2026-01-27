@@ -341,8 +341,8 @@ Gate 53 teaches that **beginnings are sacred**. When the individual honors their
 - [[Kether (Qabalah)]] — The Crown, the first emanation and source of all cycles
 
 ### Thematic Collections
-- [[Gates of the Root Center]] — All nine gates within the Pressure/Stress center
-- [[Collective Circuit Gates]] — All gates within the Collective stream
+- Gates of the Root Center — All nine gates within the Pressure/Stress center
+- Collective Circuit Gates — All gates within the Collective stream
 - [[Gates of Beginnings]] — Gates specifically related to initiation and starting
 - [[Gates of Development]] — Gates related to growth and maturation
 
@@ -353,14 +353,14 @@ Gate 53 teaches that **beginnings are sacred**. When the individual honors their
 - [[The Seed (Symbolism)]] — Universal symbol of beginning and potential
 
 ### Biological and Somatic
-- [[Root Center]] — The center of pressure, stress, and adrenalization
-- [[Adrenal Glands]] — The biological correspondence for initiation response
+- [[Root]] — The center of pressure, stress, and adrenalization
+- Adrenal Glands — The biological correspondence for initiation response
 - [[Reproductive Organs]] — The biological correspondence for beginning life cycles
 
 ### Practical Application
-- [[Strategy and Authority]] — The foundational Human Design decision-making framework
-- [[Defined vs. Undefined Centers]] — Understanding fixed vs. variable energy in the bodygraph
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- Strategy and [[Authority]] — The foundational Human Design decision-making framework
+- Defined vs. Undefined Centers — Understanding fixed vs. variable energy in the bodygraph
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Collective Sharing vs. Individual Empowerment]] — Distinguishing Collective from Tribal/Individual roles
 
 ---

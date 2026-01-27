@@ -332,13 +332,13 @@ Gate 60 teaches that **limitation is the doorway to mutation**. When the individ
 - [[I-Ching Hexagram 60 - Limitation]] — Source hexagram and traditional interpretation
 - [[Gene Keys 60 - Limitation to Justice]] — Shadow-gift-siddhi framework
 - [[Temperance (Tarot)]] — Resonance with balance and alchemical process
-- [[Geburah (Qabalah)]] — Severity, discipline, necessary constraint
+- Geburah (Qabalah) — Severity, discipline, necessary constraint
 
 ### Thematic Collections
-- [[Gates of the Root Center]] — All gates within Pressure center
-- [[Individual Circuit Gates]] — All gates within Individual stream
+- Gates of the Root Center — All gates within Pressure center
+- Individual Circuit Gates — All gates within Individual stream
 - [[Knowing Circuit Gates]] — All gates within Knowing stream
-- [[Gates of Mutation]] — Gates related to evolutionary change
+- Gates of Mutation — Gates related to evolutionary change
 
 ### Archetypal and Mythological
 - [[The Realist Archetype]] — Pattern of clear-eyed acceptance
@@ -347,14 +347,14 @@ Gate 60 teaches that **limitation is the doorway to mutation**. When the individ
 - [[Prometheus (Greek Mythology)]] — Mutation through acceptance of constraint
 
 ### Biological and Somatic
-- [[Root Center]] — Pressure, adrenaline, fuel, stress response
-- [[Adrenal Glands]] — Cortisol and adrenaline production
+- [[Root]] — Pressure, adrenaline, fuel, stress response
+- Adrenal Glands — Cortisol and adrenaline production
 - [[Genetic Mutation]] — Biological evolution through constraint
 
 ### Practical Application
-- [[Strategy and Authority]] — Decision-making framework
-- [[Defined vs. Undefined Centers]] — Fixed vs. variable energy
-- [[The 7-Year Deconditioning Cycle]] — Returning to authentic design
+- Strategy and [[Authority]] — Decision-making framework
+- Defined vs. Undefined Centers — Fixed vs. variable energy
+- The 7-Year Deconditioning Cycle — Returning to authentic design
 - [[Pressure Centers]] — Root and Head as fuel generators
 
 ---

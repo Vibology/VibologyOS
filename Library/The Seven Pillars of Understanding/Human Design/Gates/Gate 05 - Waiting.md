@@ -339,13 +339,13 @@ Gate 5 teaches that **timing is everything**. When the individual honors their S
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 5 - Waiting]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 05 - Impatience to Timelessness]] — Richard Rudd's shadow-gift-siddhi framework for Gate 5
-- [[The Hermit (Tarot)]] — Resonance with patient withdrawal and awaiting illumination
-- [[Binah (Qabalah)]] — Understanding through time and cycles
-- [[Saturn (Astrology)]] — Planet of timing, structure, and natural law
+- [[The Hermit (IX)]] — Resonance with patient withdrawal and awaiting illumination
+- Binah (Qabalah) — Understanding through time and cycles
+- Saturn — Planet of timing, structure, and natural law
 
 ### Thematic Collections
-- [[Gates of the Sacral Center]] — All nine gates within the Life Force center
-- [[Collective Circuit Gates]] — All gates within the Collective stream
+- Gates of the Sacral Center — All nine gates within the Life Force center
+- Collective Circuit Gates — All gates within the Collective stream
 - [[Gates of Rhythm and Timing]] — Gates specifically related to natural cycles
 - [[Gates of Patience]] — Gates carrying the capacity to wait
 
@@ -356,14 +356,14 @@ Gate 5 teaches that **timing is everything**. When the individual honors their S
 - [[The Harvest (Universal Symbol)]] — Reaping what has been sown when timing is correct
 
 ### Biological and Somatic
-- [[Sacral Center]] — The center of life force, fertility, and response
+- [[Sacral]] — The center of life force, fertility, and response
 - [[Circadian Rhythms (Biology)]] — Daily cycles of energy and rest
 - [[Hormonal Cycles (Biology)]] — Menstrual, testosterone, and other hormonal patterns
 
 ### Practical Application
-- [[Strategy and Authority]] — The foundational Human Design decision-making framework
-- [[Sacral Response]] — The uh-huh/uhn-uhn gut response of the Sacral
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- Strategy and [[Authority]] — The foundational Human Design decision-making framework
+- Sacral Response — The uh-huh/uhn-uhn gut response of the Sacral
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Honoring Natural Rhythms]] — The practice of aligning with bodily and seasonal cycles
 - [[Active Waiting vs. Passive Resignation]] — Distinguishing patient presence from inaction
 

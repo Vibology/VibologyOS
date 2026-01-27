@@ -330,8 +330,8 @@ Gate 64 teaches that **confusion is sacred**. When the individual honors their p
 - [[Kether (Qabalah)]] — Crown, source, unmanifest potential
 
 ### Thematic Collections
-- [[Gates of the Head Center]] — All gates within Inspiration center
-- [[Collective Circuit Gates]] — All gates within Collective stream
+- Gates of the Head Center — All gates within Inspiration center
+- Collective Circuit Gates — All gates within Collective stream
 - [[Abstract Circuit Gates]] — All gates within Abstract/Sensing stream
 - [[Gates of Imagination]] — Gates related to creative abstraction
 
@@ -342,14 +342,14 @@ Gate 64 teaches that **confusion is sacred**. When the individual honors their p
 - [[Morpheus (Greek Mythology)]] — God of dreams and forms
 
 ### Biological and Somatic
-- [[Head Center]] — Inspiration, mental pressure, cosmic questions
+- [[Head]] — Inspiration, mental pressure, cosmic questions
 - [[Pineal Gland]] — Dream regulation, abstract processing
 - [[Dream State]] — Unconscious pattern processing
 
 ### Practical Application
-- [[Strategy and Authority]] — Decision-making framework
-- [[Defined vs. Undefined Centers]] — Fixed vs. variable energy
-- [[The 7-Year Deconditioning Cycle]] — Returning to authentic design
+- Strategy and [[Authority]] — Decision-making framework
+- Defined vs. Undefined Centers — Fixed vs. variable energy
+- The 7-Year Deconditioning Cycle — Returning to authentic design
 - [[Pressure Centers]] — Root and Head as fuel generators
 
 ---

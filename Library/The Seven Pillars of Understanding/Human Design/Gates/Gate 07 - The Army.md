@@ -341,12 +341,12 @@ Gate 7 teaches that **leadership is a role, not an identity**. When the individu
 - [[I-Ching Hexagram 7 - The Army]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 07 - Division to Virtue]] — Richard Rudd's shadow-gift-siddhi framework for Gate 7
 - [[The Emperor (Tarot)]] — Resonance with structure, order, and authority
-- [[Chesed (Qabalah)]] — Mercy, benevolent authority
-- [[Saturn (Astrology)]] — Planet of structure, authority, and roles
+- Chesed (Qabalah) — Mercy, benevolent authority
+- Saturn — Planet of structure, authority, and roles
 
 ### Thematic Collections
-- [[Gates of the G Center]] — All eight gates within the Identity/Direction center
-- [[Collective Circuit Gates]] — All gates within the Collective stream
+- Gates of the G Center — All eight gates within the Identity/Direction center
+- Collective Circuit Gates — All gates within the Collective stream
 - [[Gates of Leadership]] — Gates specifically related to guiding and organizing
 - [[Gates of Role and Identity]] — Gates carrying the capacity to recognize one's place in the collective
 
@@ -358,12 +358,12 @@ Gate 7 teaches that **leadership is a role, not an identity**. When the individu
 
 ### Biological and Somatic
 - [[G Center]] — The center of identity, direction, and love
-- [[Magnetic Monopole]] — Ra's term for the orientation mechanism in the G Center
+- Magnetic Monopole — Ra's term for the orientation mechanism in the G Center
 - [[Role as Somatic Experience]] — The felt sense of "this is my place"
 
 ### Practical Application
-- [[Strategy and Authority]] — The foundational Human Design decision-making framework
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- Strategy and [[Authority]] — The foundational Human Design decision-making framework
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Leadership as Service]] — Distinguishing authority from domination
 - [[Provisional Roles]] — Understanding that all roles are temporary
 - [[Stepping Into and Out of Role]] — The wisdom of knowing when to lead and when to follow

@@ -344,8 +344,8 @@ Gate 6 teaches that **intimacy requires friction**. When the individual honors t
 - [[Venus (Astrology)]] — Planet of love, bonding, and intimacy
 
 ### Thematic Collections
-- [[Gates of the Solar Plexus Center]] — All emotional awareness gates
-- [[Tribal Circuit Gates]] — All gates within the Tribal stream
+- Gates of the Solar Plexus Center — All emotional awareness gates
+- Tribal Circuit Gates — All gates within the Tribal stream
 - [[Gates of Intimacy]] — Gates specifically related to bonding and connection
 - [[Gates of Emotional Friction]] — Gates carrying the capacity to navigate conflict
 
@@ -356,14 +356,14 @@ Gate 6 teaches that **intimacy requires friction**. When the individual honors t
 - [[Conflict as Teacher]] — The friction that refines and deepens
 
 ### Biological and Somatic
-- [[Solar Plexus Center]] — The center of emotional awareness and spirit
+- [[Solar Plexus]] — The center of emotional awareness and spirit
 - [[Kidneys (Biology)]] — Organs of filtration and regulation
 - [[Emotional Chemistry (Biology)]] — Hormones of bonding and stress (oxytocin, cortisol)
 
 ### Practical Application
-- [[Strategy and Authority]] — The foundational Human Design decision-making framework
+- Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - [[Emotional Authority]] — Waiting through the wave for clarity
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Navigating Emotional Friction]] — The practice of using conflict to deepen intimacy
 - [[Boundaries in Intimacy]] — Asserting needs while maintaining connection
 

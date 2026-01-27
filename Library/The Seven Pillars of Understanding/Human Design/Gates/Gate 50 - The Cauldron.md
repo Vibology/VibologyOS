@@ -329,28 +329,28 @@ Gate 50 teaches that **values are sacred**. When the individual honors their ins
 - [[I-Ching Hexagram 50 - The Cauldron]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 50 - Corruption to Harmony]] — Richard Rudd's shadow-gift-siddhi framework for Gate 50
 - [[Justice (Tarot)]] — Resonance with balance and law
-- [[Chesed (Qabalah)]] — Mercy, benevolent law
+- Chesed (Qabalah) — Mercy, benevolent law
 
 ### Thematic Collections
-- [[Gates of the Spleen Center]] — All seven gates within the Survival center
-- [[Tribal Circuit Gates]] — All gates within the Tribal stream
+- Gates of the Spleen Center — All seven gates within the Survival center
+- Tribal Circuit Gates — All gates within the Tribal stream
 - [[Gates of Values]] — Gates related to law and custodianship
 - [[Gates of Preservation]] — Gates that protect tribal integrity
 
 ### Archetypal and Mythological
 - [[The Guardian Archetype]] — Jungian archetypal pattern of custodianship
 - [[The Lawgiver]] — Figures who establish and maintain law (Moses, Hammurabi)
-- [[Saturn (Astrology)]] — Law, structure, responsibility
+- Saturn — Law, structure, responsibility
 
 ### Biological and Somatic
-- [[Spleen Center]] — The center of survival, instinct, and health
+- [[Spleen]] — The center of survival, instinct, and health
 - [[Immune System]] — The biological mechanism of protection
 - [[Instinctual Values]] — Somatic knowing of right and wrong
 
 ### Practical Application
-- [[Strategy and Authority]] — The foundational Human Design decision-making framework
-- [[Defined vs. Undefined Centers]] — Understanding fixed vs. variable energy in the bodygraph
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- Strategy and [[Authority]] — The foundational Human Design decision-making framework
+- Defined vs. Undefined Centers — Understanding fixed vs. variable energy in the bodygraph
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Splenic Authority]] — Instinctual decision-making in the present moment
 
 ---

@@ -325,29 +325,29 @@ Gate 44 teaches that **memory is sacred**. When the individual honors their inst
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 44 - Coming to Meet]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 44 - Interference to Synarchy]] — Richard Rudd's shadow-gift-siddhi framework for Gate 44
-- [[The Hermit (Tarot)]] — Resonance with memory and wisdom
-- [[Binah (Qabalah)]] — Understanding, structure, protective memory
+- [[The Hermit (IX)]] — Resonance with memory and wisdom
+- Binah (Qabalah) — Understanding, structure, protective memory
 
 ### Thematic Collections
-- [[Gates of the Spleen Center]] — All seven gates within the Survival center
-- [[Tribal Circuit Gates]] — All gates within the Tribal stream
+- Gates of the Spleen Center — All seven gates within the Survival center
+- Tribal Circuit Gates — All gates within the Tribal stream
 - [[Gates of Pattern Recognition]] — Gates related to memory and recognition
 - [[Gates of Survival Instinct]] — Gates that protect tribal well-being
 
 ### Archetypal and Mythological
 - [[The Guardian Archetype]] — Jungian archetypal pattern of protection through memory
 - [[Ancestral Memory]] — Collective unconscious patterns
-- [[Saturn (Astrology)]] — Time, structure, karmic memory
+- Saturn — Time, structure, karmic memory
 
 ### Biological and Somatic
-- [[Spleen Center]] — The center of survival, instinct, and health
+- [[Spleen]] — The center of survival, instinct, and health
 - [[Immune System]] — The biological mechanism of memory and pattern recognition
 - [[Instinctual Awareness]] — Somatic intelligence in the present moment
 
 ### Practical Application
-- [[Strategy and Authority]] — The foundational Human Design decision-making framework
-- [[Defined vs. Undefined Centers]] — Understanding fixed vs. variable energy in the bodygraph
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- Strategy and [[Authority]] — The foundational Human Design decision-making framework
+- Defined vs. Undefined Centers — Understanding fixed vs. variable energy in the bodygraph
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Tribal vs. Individual vs. Collective]] — Distinguishing the three streams of the bodygraph
 
 ---

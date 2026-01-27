@@ -324,13 +324,13 @@ Gate 21 teaches that **true power is justified power**. When the individual hono
 - [[Gene Keys 21 - Control to Valour]] — Richard Rudd's shadow-gift-siddhi framework for Gate 21
 - [[Justice (Tarot)]] — Archetypal enforcement and cosmic balance
 - [[The Emperor (Tarot)]] — Sovereign control and material authority
-- [[Geburah (Qabalah)]] — The Sephirah of Severity and disciplined power
+- Geburah (Qabalah) — The Sephirah of Severity and disciplined power
 - [[Mars (Astrology)]] — The planet of action, enforcement, and will
 - [[Pluto (Astrology)]] — The planet of power, transformation, and control
 
 ### Thematic Collections
 - [[Gates of the Ego Center]] — All gates within the Willpower center
-- [[Tribal Circuit Gates]] — All gates within the Tribal stream
+- Tribal Circuit Gates — All gates within the Tribal stream
 - [[Gates of Control and Authority]] — Gates related to power and enforcement
 - [[Gates of Material Survival]] — Gates that manage resources and physical security
 
@@ -346,8 +346,8 @@ Gate 21 teaches that **true power is justified power**. When the individual hono
 - [[Stomach and Gallbladder]] — Organs of digestion and control, processing material resources
 
 ### Practical Application
-- [[Strategy and Authority]] — The foundational Human Design decision-making framework
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- Strategy and [[Authority]] — The foundational Human Design decision-making framework
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Control vs. Authority]] — Distinguishing fear-based domination from natural authority
 - [[Tribal Bargains]] — The loyalty and support dynamics of the Tribal Circuit
 

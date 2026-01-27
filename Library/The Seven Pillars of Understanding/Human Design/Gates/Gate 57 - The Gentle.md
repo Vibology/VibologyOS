@@ -352,8 +352,8 @@ Gate 57 teaches that **the body knows**. When the individual honors their Spleni
 - [[Yesod (Qabalah)]] — Foundation, subconscious knowing
 
 ### Thematic Collections
-- [[Gates of the Spleen Center]] — All gates within Intuition center
-- [[Individual Circuit Gates]] — All gates within Individual stream
+- Gates of the Spleen Center — All gates within Intuition center
+- Individual Circuit Gates — All gates within Individual stream
 - [[Gates of Intuition]] — Gates of immediate knowing
 - [[Gates of Survival]] — Gates related to safety and health
 
@@ -364,15 +364,15 @@ Gate 57 teaches that **the body knows**. When the individual honors their Spleni
 - [[Artemis (Greek Mythology)]] — Goddess of intuitive knowing and protection
 
 ### Biological and Somatic
-- [[Spleen Center]] — Intuition, survival, health, now
+- [[Spleen]] — Intuition, survival, health, now
 - [[Immune System]] — Biological recognition of self/non-self
 - [[Right Brain]] — Holistic, intuitive processing
 
 ### Practical Application
-- [[Strategy and Authority]] — Decision-making framework
+- Strategy and [[Authority]] — Decision-making framework
 - [[Splenic Authority]] — First hit is correct
-- [[Defined vs. Undefined Centers]] — Fixed vs. variable energy
-- [[The 7-Year Deconditioning Cycle]] — Returning to authentic design
+- Defined vs. Undefined Centers — Fixed vs. variable energy
+- The 7-Year Deconditioning Cycle — Returning to authentic design
 
 ---
 

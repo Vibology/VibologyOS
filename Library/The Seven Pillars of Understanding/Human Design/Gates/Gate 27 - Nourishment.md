@@ -330,13 +330,13 @@ Gate 27 teaches that **true caring is responsive and sustainable**. When the ind
 - [[Gene Keys 27 - Selfishness to Selflessness]] — Richard Rudd's shadow-gift-siddhi framework
 - [[The Empress (Tarot)]] — Archetypal nurturer and provider
 - [[Strength (Tarot)]] — Gentle power and caring
-- [[Binah (Qabalah)]] — The Great Mother sphere
+- Binah (Qabalah) — The Great Mother sphere
 - [[Moon (Astrology)]] — The planet of nurturing and emotional care
 - [[Ceres (Astrology)]] — The asteroid of harvest and caretaking
 
 ### Thematic Collections
-- [[Gates of the Sacral Center]] — All gates within the Life Force center
-- [[Tribal Circuit Gates]] — All gates within the Tribal stream
+- Gates of the Sacral Center — All gates within the Life Force center
+- Tribal Circuit Gates — All gates within the Tribal stream
 - [[Gates of Caring and Provision]] — Gates related to nourishment and caretaking
 - [[Gates of Responsibility]] — Gates that take care of and protect others
 
@@ -347,14 +347,14 @@ Gate 27 teaches that **true caring is responsive and sustainable**. When the ind
 - [[The Nourishing Function (Psychology)]] — The capacity to sustain life
 
 ### Biological and Somatic
-- [[Sacral Center]] — The center of life force and response
+- [[Sacral]] — The center of life force and response
 - [[Ovaries and Testes]] — Generative organs, creative nourishment
 - [[Digestive System]] — Processing what we take in to nourish the body
 
 ### Practical Application
-- [[Strategy and Authority]] — The foundational Human Design decision-making framework
-- [[Sacral Response]] — How to recognize and trust the Sacral "uh-huh" and "uhn-uhn"
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- Strategy and [[Authority]] — The foundational Human Design decision-making framework
+- Sacral Response — How to recognize and trust the Sacral "uh-huh" and "uhn-uhn"
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Boundaries in Caretaking]] — How to nourish sustainably without depletion
 
 ---

@@ -324,13 +324,13 @@ Gate 26 teaches that **true influence is service, not ego**. When the individual
 - [[Gene Keys 26 - Pride to Invisibility]] — Richard Rudd's shadow-gift-siddhi framework
 - [[The Hierophant (Tarot)]] — Keeper of tradition and historical authority
 - [[The Magician (Tarot)]] — The trickster who influences through skill
-- [[Chesed (Qabalah)]] — The Sephirah of Mercy and benevolent memory
-- [[Saturn (Astrology)]] — The planet of time, memory, and authority
-- [[Mercury (Astrology)]] — The planet of communication and clever influence
+- Chesed (Qabalah) — The Sephirah of Mercy and benevolent memory
+- Saturn — The planet of time, memory, and authority
+- Mercury — The planet of communication and clever influence
 
 ### Thematic Collections
 - [[Gates of the Ego Center]] — All gates within the Willpower center
-- [[Tribal Circuit Gates]] — All gates within the Tribal stream
+- Tribal Circuit Gates — All gates within the Tribal stream
 - [[Gates of Memory and History]] — Gates that accumulate and apply past knowledge
 - [[Gates of Influence and Persuasion]] — Gates that sell, convince, and guide
 
@@ -346,8 +346,8 @@ Gate 26 teaches that **true influence is service, not ego**. When the individual
 - [[Stomach and Material Processing]] — Digestion as metaphor for assimilating and selling resources
 
 ### Practical Application
-- [[Strategy and Authority]] — The foundational Human Design decision-making framework
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- Strategy and [[Authority]] — The foundational Human Design decision-making framework
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Artful Persuasion vs. Manipulation]] — Distinguishing service-based influence from exploitation
 - [[Tribal Memory-Keeping]] — How to honor and transmit historical knowledge
 

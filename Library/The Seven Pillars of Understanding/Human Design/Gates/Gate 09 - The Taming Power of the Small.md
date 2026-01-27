@@ -340,14 +340,14 @@ Gate 9 teaches that **power lies in the small**. When the individual honors thei
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 9 - The Taming Power of the Small]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 09 - Inertia to Invincibility]] — Richard Rudd's shadow-gift-siddhi framework for Gate 9
-- [[The Hermit (Tarot)]] — Resonance with focused solitude and patient refinement
+- [[The Hermit (IX)]] — Resonance with focused solitude and patient refinement
 - [[Yesod (Qabalah)]] — Foundation built through accumulation
-- [[Mercury (Astrology)]] — Planet of detail and precision
-- [[Saturn (Astrology)]] — Planet of patience, mastery, and sustained effort
+- Mercury — Planet of detail and precision
+- Saturn — Planet of patience, mastery, and sustained effort
 
 ### Thematic Collections
-- [[Gates of the Sacral Center]] — All nine gates within the Life Force center
-- [[Collective Circuit Gates]] — All gates within the Collective stream
+- Gates of the Sacral Center — All nine gates within the Life Force center
+- Collective Circuit Gates — All gates within the Collective stream
 - [[Gates of Focus and Concentration]] — Gates specifically related to sustained attention
 - [[Gates of Mastery]] — Gates carrying the capacity to build skill through accumulation
 
@@ -358,14 +358,14 @@ Gate 9 teaches that **power lies in the small**. When the individual honors thei
 - [[Invincibility Through Foundation]] — Unshakable mastery created by patient accumulation
 
 ### Biological and Somatic
-- [[Sacral Center]] — The center of life force, fertility, and response
+- [[Sacral]] — The center of life force, fertility, and response
 - [[Sustained Work Capacity (Biology)]] — The body's ability to maintain focus over time
 - [[Metabolic Focus (Biology)]] — The physiological state of concentrated attention
 
 ### Practical Application
-- [[Strategy and Authority]] — The foundational Human Design decision-making framework
-- [[Sacral Response]] — The uh-huh/uhn-uhn gut response of the Sacral
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- Strategy and [[Authority]] — The foundational Human Design decision-making framework
+- Sacral Response — The uh-huh/uhn-uhn gut response of the Sacral
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Honoring the Edge of Sustainable Focus]] — Knowing when to work and when to rest
 - [[Small Accumulation vs. Grand Strategy]] — Distinguishing detailed work from big-picture vision
 

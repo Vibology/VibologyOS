@@ -325,12 +325,12 @@ Gate 40 teaches that **provision requires rest**. When the individual honors the
 - [[I-Ching Hexagram 40 - Deliverance]] — The source hexagram
 - [[Gene Keys 40 - Exhaustion to Divine Will]] — Shadow-gift-siddhi framework
 - [[Four of Pentacles (Tarot)]] — Material provision
-- [[The Hermit (Tarot)]] — Withdrawal, aloneness
+- [[The Hermit (IX)]] — Withdrawal, aloneness
 - [[Chesed and Geburah (Qabalah)]] — Mercy and severity in provision
 
 ### Thematic Collections
 - [[Gates of the Heart/Ego Center]] — All four will gates
-- [[Tribal Circuit Gates]] — Ego and Defense circuits
+- Tribal Circuit Gates — Ego and Defense circuits
 - [[Gates of Provision]] — Work and material support
 - [[Gates of Aloneness]] — Solitary restoration
 
@@ -345,9 +345,9 @@ Gate 40 teaches that **provision requires rest**. When the individual honors the
 - [[Ego Authority]] — Willful in-the-moment commitment
 
 ### Practical Application
-- [[Strategy and Authority]] — HD decision-making
-- [[Defined vs. Undefined Centers]] — Fixed vs. variable energy
-- [[The 7-Year Deconditioning Cycle]] — Returning to design
+- Strategy and [[Authority]] — HD decision-making
+- Defined vs. Undefined Centers — Fixed vs. variable energy
+- The 7-Year Deconditioning Cycle — Returning to design
 - [[Tribal vs. Individual vs. Collective]] — Distinguishing streams
 
 ---

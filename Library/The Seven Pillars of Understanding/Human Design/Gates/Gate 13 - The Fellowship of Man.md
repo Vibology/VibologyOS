@@ -326,11 +326,11 @@ Gate 13 teaches that **listening is a sacred act**. When the individual honors t
 - [[I-Ching Hexagram 13 - Fellowship with Men]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 13 - Discord to Empathy]] — Richard Rudd's shadow-gift-siddhi framework for Gate 13
 - [[The Hierophant (Tarot)]] — Resonance with holding tradition and collective wisdom
-- [[Chesed (Qabalah)]] — The Sephirah of Mercy and loving-kindness
+- Chesed (Qabalah) — The Sephirah of Mercy and loving-kindness
 
 ### Thematic Collections
-- [[Gates of the G Center]] — All eight gates within the Identity/Direction center
-- [[Collective Circuit Gates]] — All gates within the Collective stream
+- Gates of the G Center — All eight gates within the Identity/Direction center
+- Collective Circuit Gates — All gates within the Collective stream
 - [[Gates of Witness and Listening]] — Gates that hold space for others' experiences
 - [[Gates of Universal Patterns]] — Gates that recognize collective themes
 
@@ -341,13 +341,13 @@ Gate 13 teaches that **listening is a sacred act**. When the individual honors t
 
 ### Biological and Somatic
 - [[G Center]] — The center of identity, direction, and love
-- [[Magnetic Monopole]] — Ra's term for the orientation mechanism in the G Center
+- Magnetic Monopole — Ra's term for the orientation mechanism in the G Center
 - [[Liver (Biology)]] — The organ associated with the G Center and emotional processing
 
 ### Practical Application
-- [[Strategy and Authority]] — The foundational Human Design decision-making framework
+- Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - [[Empathic Boundaries in Human Design]] — How to witness without absorption
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Collective vs. Individual vs. Tribal]] — Distinguishing the three streams of circuitry
 
 ---

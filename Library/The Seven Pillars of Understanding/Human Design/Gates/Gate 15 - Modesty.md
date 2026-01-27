@@ -330,8 +330,8 @@ Gate 15 teaches that **true love is acceptance of the full spectrum**. When the 
 - [[Venus (Astrology)]] — The planet of love and attraction
 
 ### Thematic Collections
-- [[Gates of the G Center]] — All eight gates within the Identity/Direction center
-- [[Collective Circuit Gates]] — All gates within the Collective stream
+- Gates of the G Center — All eight gates within the Identity/Direction center
+- Collective Circuit Gates — All gates within the Collective stream
 - [[Gates of Love and Acceptance]] — Gates specifically related to inclusive humanity
 - [[Gates of Pattern Recognition]] — Gates that recognize and share patterns
 
@@ -343,13 +343,13 @@ Gate 15 teaches that **true love is acceptance of the full spectrum**. When the 
 
 ### Biological and Somatic
 - [[G Center]] — The center of identity, direction, and love
-- [[Magnetic Monopole]] — Ra's term for the orientation mechanism in the G Center
+- Magnetic Monopole — Ra's term for the orientation mechanism in the G Center
 - [[Liver (Biology)]] — The organ associated with the G Center
 
 ### Practical Application
-- [[Strategy and Authority]] — The foundational Human Design decision-making framework
-- [[Defined vs. Undefined Centers]] — Understanding fixed vs. variable energy in the bodygraph
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- Strategy and [[Authority]] — The foundational Human Design decision-making framework
+- Defined vs. Undefined Centers — Understanding fixed vs. variable energy in the bodygraph
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Collective Pattern Sharing]] — How the Collective Logic Circuit disseminates knowledge
 
 ---

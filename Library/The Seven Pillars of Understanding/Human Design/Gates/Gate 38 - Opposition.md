@@ -329,11 +329,11 @@ Gate 38 teaches that **opposition preserves integrity**. When the individual hon
 - [[I-Ching Hexagram 38 - Opposition]] — The source hexagram
 - [[Gene Keys 38 - Struggle to Honour]] — Shadow-gift-siddhi framework
 - [[Seven of Wands (Tarot)]] — The lone fighter, opposition
-- [[Geburah (Qabalah)]] — Severity, the warrior's discipline
+- Geburah (Qabalah) — Severity, the warrior's discipline
 
 ### Thematic Collections
-- [[Gates of the Root Center]] — All nine pressure gates
-- [[Individual Circuit Gates]] — Knowing, Centering, Integration
+- Gates of the Root Center — All nine pressure gates
+- Individual Circuit Gates — Knowing, Centering, Integration
 - [[Gates of Opposition]] — Struggle and fight
 - [[Gates of Integrity]] — Preserving truth through opposition
 
@@ -343,14 +343,14 @@ Gate 38 teaches that **opposition preserves integrity**. When the individual hon
 - [[Honour and Combat]] — Ethical struggle
 
 ### Biological and Somatic
-- [[Root Center]] — Pressure, drive, stress
-- [[Adrenal Glands]] — Stress hormones and fight response
+- [[Root]] — Pressure, drive, stress
+- Adrenal Glands — Stress hormones and fight response
 - [[Root Pressure]] — Understanding drive mechanics
 
 ### Practical Application
-- [[Strategy and Authority]] — HD decision-making
-- [[Defined vs. Undefined Centers]] — Fixed vs. variable energy
-- [[The 7-Year Deconditioning Cycle]] — Returning to design
+- Strategy and [[Authority]] — HD decision-making
+- Defined vs. Undefined Centers — Fixed vs. variable energy
+- The 7-Year Deconditioning Cycle — Returning to design
 - [[Individual vs. Tribal vs. Collective]] — Distinguishing streams
 
 ---

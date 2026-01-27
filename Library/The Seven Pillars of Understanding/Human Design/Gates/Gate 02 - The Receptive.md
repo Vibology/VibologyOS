@@ -335,13 +335,13 @@ Gate 2 teaches that **direction is not something to be found—it is something t
 - [[I-Ching Hexagram 2 - The Receptive]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 02 - Dislocation to Unity]] — Richard Rudd's shadow-gift-siddhi framework for Gate 2
 - [[The High Priestess (Tarot)]] — Resonance with receptive knowing
-- [[Binah (Qabalah)]] — The Great Mother, receptive understanding
+- Binah (Qabalah) — The Great Mother, receptive understanding
 - [[Chokmah (Qabalah)]] — Wisdom emerging through receptivity
 
 ### Thematic Collections
-- [[Gates of the G Center]] — All eight gates within the Identity/Direction center
-- [[Individual Circuit Gates]] — All gates within the Individual stream
-- [[Gates of Mutation]] — Gates carrying the mutative, empowering frequency
+- Gates of the G Center — All eight gates within the Identity/Direction center
+- Individual Circuit Gates — All gates within the Individual stream
+- Gates of Mutation — Gates carrying the mutative, empowering frequency
 - [[Gates of Receptivity]] — Gates specifically related to receiving rather than initiating
 
 ### Archetypal and Mythological
@@ -352,13 +352,13 @@ Gate 2 teaches that **direction is not something to be found—it is something t
 
 ### Biological and Somatic
 - [[G Center]] — The center of identity, direction, and love
-- [[Magnetic Monopole]] — Ra's term for the orientation mechanism in the G Center
+- Magnetic Monopole — Ra's term for the orientation mechanism in the G Center
 - [[Liver (Biology)]] — The organ associated with the G Center
 
 ### Practical Application
-- [[Strategy and Authority]] — The foundational Human Design decision-making framework
-- [[Defined vs. Undefined Centers]] — Understanding fixed vs. variable energy in the bodygraph
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- Strategy and [[Authority]] — The foundational Human Design decision-making framework
+- Defined vs. Undefined Centers — Understanding fixed vs. variable energy in the bodygraph
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Receptivity vs. Passivity]] — Distinguishing active receptivity from passive surrender
 
 ---

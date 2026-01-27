@@ -333,7 +333,7 @@ Gate 41 teaches that **fantasy is sacred fuel**. When the individual honors thei
 - [[Yesod (Qabalah)]] — Foundation, imagination, astral realm
 
 ### Thematic Collections
-- [[Gates of the Root Center]] — All nine gates within the Pressure center
+- Gates of the Root Center — All nine gates within the Pressure center
 - [[Collective Abstract Circuit Gates]] — All gates within the Abstract process
 - [[Gates of Experiential Fuel]] — Gates that drive new experience
 - [[Gates of Emotional Anticipation]] — Gates related to future feeling states
@@ -344,14 +344,14 @@ Gate 41 teaches that **fantasy is sacred fuel**. When the individual honors thei
 - [[The Moon (Astrology)]] — Emotional tides and anticipatory longing
 
 ### Biological and Somatic
-- [[Root Center]] — The center of pressure, stress, and fuel
-- [[Adrenal Glands]] — The biological organ associated with Root pressure
+- [[Root]] — The center of pressure, stress, and fuel
+- Adrenal Glands — The biological organ associated with Root pressure
 - [[Stress Response]] — The physiological activation of pressure
 
 ### Practical Application
-- [[Strategy and Authority]] — The foundational Human Design decision-making framework
-- [[Defined vs. Undefined Centers]] — Understanding fixed vs. variable energy in the bodygraph
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- Strategy and [[Authority]] — The foundational Human Design decision-making framework
+- Defined vs. Undefined Centers — Understanding fixed vs. variable energy in the bodygraph
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Abstract vs. Logical vs. Tribal]] — Distinguishing the three streams of the bodygraph
 
 ---

@@ -340,20 +340,20 @@ Gate 35 teaches that **progress requires movement**. When the individual honors 
 - [[Chokmah (Qabalah)]] — Wisdom through exploration
 
 ### Thematic Collections
-- [[Gates of the Throat Center]] — All eleven gates
-- [[Collective Circuit Gates]] — Logic and Abstract
+- Gates of the Throat Center — All eleven gates
+- Collective Circuit Gates — Logic and Abstract
 - [[Gates of Experience]] — Learning through living
 - [[Gates of Change]] — Evolution and progress
 
 ### Biological and Somatic
-- [[Throat Center]] — Manifestation and expression
+- [[Throat]] — Manifestation and expression
 - [[Thyroid]] — Metabolic regulation
 - [[Voice]] — Expression of hunger
 
 ### Practical Application
-- [[Strategy and Authority]] — HD decision-making
-- [[Defined vs. Undefined Centers]] — Fixed vs. variable energy
-- [[The 7-Year Deconditioning Cycle]] — Returning to design
+- Strategy and [[Authority]] — HD decision-making
+- Defined vs. Undefined Centers — Fixed vs. variable energy
+- The 7-Year Deconditioning Cycle — Returning to design
 
 ---
 

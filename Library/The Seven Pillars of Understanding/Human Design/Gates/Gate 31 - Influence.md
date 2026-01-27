@@ -338,11 +338,11 @@ Gate 31 teaches that **authentic leadership is service, not status**. When the i
 - [[I-Ching Hexagram 31 - Influence]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 31 - Arrogance to Humility]] — Richard Rudd's shadow-gift-siddhi framework for Gate 31
 - [[The Emperor (Tarot)]] — Resonance with established authority and structure
-- [[Chesed (Qabalah)]] — Mercy, benevolent structure, the merciful king
+- Chesed (Qabalah) — Mercy, benevolent structure, the merciful king
 
 ### Thematic Collections
-- [[Gates of the Throat Center]] — All eleven gates within the manifestation center
-- [[Collective Circuit Gates]] — All gates within the Collective stream (Logic and Abstract)
+- Gates of the Throat Center — All eleven gates within the manifestation center
+- Collective Circuit Gates — All gates within the Collective stream (Logic and Abstract)
 - [[Gates of Leadership]] — Gates specifically related to guiding and influencing others
 - [[Gates of Pattern Recognition]] — Gates carrying the Logic Circuit's pattern-seeing function
 
@@ -352,14 +352,14 @@ Gate 31 teaches that **authentic leadership is service, not status**. When the i
 - [[The Wise Elder]] — Leadership earned through experience and pattern accuracy
 
 ### Biological and Somatic
-- [[Throat Center]] — The center of manifestation and expression
+- [[Throat]] — The center of manifestation and expression
 - [[Thyroid]] — The gland associated with the Throat Center's metabolic regulation
 - [[Voice and Vocal Cords]] — The biological instrument of Gate 31's influence
 
 ### Practical Application
-- [[Strategy and Authority]] — The foundational Human Design decision-making framework
-- [[Defined vs. Undefined Centers]] — Understanding fixed vs. variable energy in the bodygraph
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- Strategy and [[Authority]] — The foundational Human Design decision-making framework
+- Defined vs. Undefined Centers — Understanding fixed vs. variable energy in the bodygraph
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Collective vs. Individual vs. Tribal]] — Distinguishing the three streams of circuitry
 
 ---

@@ -332,7 +332,7 @@ Gate 46 teaches that **the body is sacred**. When the individual honors their lo
 - [[Malkuth (Qabalah)]] — Kingdom, physical manifestation
 
 ### Thematic Collections
-- [[Gates of the G Center]] — All eight gates within the Identity center
+- Gates of the G Center — All eight gates within the Identity center
 - [[Collective Understanding Circuit Gates]] — All gates within the Logic stream
 - [[Gates of Embodiment]] — Gates related to physical presence
 - [[Gates of Serendipity]] — Gates that create synchronistic encounters
@@ -348,9 +348,9 @@ Gate 46 teaches that **the body is sacred**. When the individual honors their lo
 - [[Embodied Presence]] — Somatic awareness and incarnation
 
 ### Practical Application
-- [[Strategy and Authority]] — The foundational Human Design decision-making framework
-- [[Defined vs. Undefined Centers]] — Understanding fixed vs. variable energy in the bodygraph
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- Strategy and [[Authority]] — The foundational Human Design decision-making framework
+- Defined vs. Undefined Centers — Understanding fixed vs. variable energy in the bodygraph
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Serendipity Through Presence]] — The mechanics of synchronicity
 
 ---

@@ -326,13 +326,13 @@ Gate 51 teaches that **courage is the foundation of individuation**. When the in
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 51 - The Arousing]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 51 - Agitation to Awakening]] — Richard Rudd's shadow-gift-siddhi framework for Gate 51
-- [[The Tower (Tarot)]] — Resonance with divine shock and necessary disruption
-- [[Geburah (Qabalah)]] — The sephira of severity, strength, and willpower
+- [[The Tower (XVI)]] — Resonance with divine shock and necessary disruption
+- Geburah (Qabalah) — The sephira of severity, strength, and willpower
 
 ### Thematic Collections
-- [[Gates of the Heart Center]] — All four gates within the Ego/Willpower center
-- [[Individual Circuit Gates]] — All gates within the Individual stream
-- [[Gates of Mutation]] — Gates carrying the mutative, empowering frequency
+- Gates of the Heart Center — All four gates within the Ego/Willpower center
+- Individual Circuit Gates — All gates within the Individual stream
+- Gates of Mutation — Gates carrying the mutative, empowering frequency
 - [[Gates of Initiation]] — Gates specifically related to being first, pioneering, risking
 
 ### Archetypal and Mythological
@@ -347,9 +347,9 @@ Gate 51 teaches that **courage is the foundation of individuation**. When the in
 - [[Adrenal Response]] — The fight-or-flight mechanism activated by Gate 51's shock
 
 ### Practical Application
-- [[Strategy and Authority]] — The foundational Human Design decision-making framework
-- [[Defined vs. Undefined Centers]] — Understanding fixed vs. variable energy in the bodygraph
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- Strategy and [[Authority]] — The foundational Human Design decision-making framework
+- Defined vs. Undefined Centers — Understanding fixed vs. variable energy in the bodygraph
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Individual Empowerment vs. Collective Leadership]] — Distinguishing Individual from Tribal/Collective roles
 
 ---

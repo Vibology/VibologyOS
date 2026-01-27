@@ -340,11 +340,11 @@ Gate 4 teaches that **the mind is a beautiful tool for understanding, not for de
 - [[Gene Keys 04 - Intolerance to Forgiveness]] — Richard Rudd's shadow-gift-siddhi framework for Gate 4
 - [[The Fool (Tarot)]] — Resonance with inexperience and potential
 - [[Da'at (Qabalah)]] — Knowledge as provisional understanding
-- [[Mercury (Astrology)]] — Planet of mental formulation and communication
+- Mercury — Planet of mental formulation and communication
 
 ### Thematic Collections
-- [[Gates of the Ajna Center]] — All mental awareness gates
-- [[Collective Circuit Gates]] — All gates within the Collective stream
+- Gates of the Ajna Center — All mental awareness gates
+- Collective Circuit Gates — All gates within the Collective stream
 - [[Gates of Pattern Recognition]] — Gates specifically related to seeing and organizing patterns
 - [[Gates of Mental Pressure]] — Gates carrying the pressure to understand
 
@@ -355,14 +355,14 @@ Gate 4 teaches that **the mind is a beautiful tool for understanding, not for de
 - [[The Student and the Teacher]] — The dynamic of seeking and receiving knowledge
 
 ### Biological and Somatic
-- [[Ajna Center]] — The center of mental awareness and conceptualization
+- [[Ajna]] — The center of mental awareness and conceptualization
 - [[Neocortex (Biology)]] — The brain region associated with pattern recognition
 - [[Pituitary Gland (Biology)]] — The "master gland" associated with the Ajna
 
 ### Practical Application
-- [[Strategy and Authority]] — The foundational Human Design decision-making framework
+- Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - [[Mind is Not Authority]] — Understanding that mental clarity does not equal decision-making capacity
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Holding Mental Frameworks Lightly]] — The practice of formulating without dogmatizing
 - [[Testing Formulas Through Experience]] — Moving mental understanding into embodied knowing
 

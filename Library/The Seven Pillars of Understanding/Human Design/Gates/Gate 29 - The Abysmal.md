@@ -336,13 +336,13 @@ Gate 29 teaches that **true commitment is responsive, not obligatory**. When the
 - [[Gene Keys 29 - Half-Heartedness to Devotion]] — Richard Rudd's shadow-gift-siddhi framework
 - [[The Hanged Man (Tarot)]] — Archetypal suspension and commitment to ordeal
 - [[Temperance (Tarot)]] — Sustained alchemical commitment
-- [[Binah (Qabalah)]] — The sphere of Understanding and depth
+- Binah (Qabalah) — The sphere of Understanding and depth
 - [[Pluto (Astrology)]] — The planet of depth and transformation
 - [[Moon (Astrology)]] — The planet of emotional commitment
 
 ### Thematic Collections
-- [[Gates of the Sacral Center]] — All gates within the Life Force center
-- [[Collective Circuit Gates]] — All gates within the Collective stream
+- Gates of the Sacral Center — All gates within the Life Force center
+- Collective Circuit Gates — All gates within the Collective stream
 - [[Gates of Commitment and Perseverance]] — Gates related to sustained engagement
 - [[Gates of Depth and Experience]] — Gates that navigate the abyss
 
@@ -353,14 +353,14 @@ Gate 29 teaches that **true commitment is responsive, not obligatory**. When the
 - [[Persephone (Greek Mythology)]] — The journey into the abyss and return
 
 ### Biological and Somatic
-- [[Sacral Center]] — The center of life force and response
+- [[Sacral]] — The center of life force and response
 - [[Ovaries and Testes]] — Generative commitment at biological level
 - [[Endurance]] — Sustained physical engagement
 
 ### Practical Application
-- [[Strategy and Authority]] — The foundational Human Design decision-making framework
-- [[Sacral Response]] — How to recognize and trust the Sacral "uh-huh" and "uhn-uhn"
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- Strategy and [[Authority]] — The foundational Human Design decision-making framework
+- Sacral Response — How to recognize and trust the Sacral "uh-huh" and "uhn-uhn"
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Saying Yes Wisely]] — Distinguishing authentic commitment from obligation
 
 ---

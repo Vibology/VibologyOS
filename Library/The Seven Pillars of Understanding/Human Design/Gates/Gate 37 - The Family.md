@@ -328,11 +328,11 @@ Gate 37 teaches that **friendship requires reciprocity**. When the individual ho
 - [[Gene Keys 37 - Weakness to Tenderness]] — Shadow-gift-siddhi framework
 - [[The Lovers (Tarot)]] — Partnership, union
 - [[Two of Cups (Tarot)]] — Emotional bonding
-- [[Chesed (Qabalah)]] — Mercy, benevolent structure
+- Chesed (Qabalah) — Mercy, benevolent structure
 
 ### Thematic Collections
-- [[Gates of the Solar Plexus Center]] — All six emotional gates
-- [[Tribal Circuit Gates]] — Ego and Defense circuits
+- Gates of the Solar Plexus Center — All six emotional gates
+- Tribal Circuit Gates — Ego and Defense circuits
 - [[Gates of Friendship]] — Bonding and relationship
 - [[Gates of Bargaining]] — Reciprocal exchange
 
@@ -342,14 +342,14 @@ Gate 37 teaches that **friendship requires reciprocity**. When the individual ho
 - [[Oxytocin]] — The bonding hormone
 
 ### Biological and Somatic
-- [[Solar Plexus Center]] — Emotional awareness and wave
+- [[Solar Plexus]] — Emotional awareness and wave
 - [[Oxytocin]] — Bonding chemistry
 - [[Emotional Authority]] — Decision-making through the wave
 
 ### Practical Application
-- [[Strategy and Authority]] — HD decision-making
-- [[Defined vs. Undefined Centers]] — Fixed vs. variable energy
-- [[The 7-Year Deconditioning Cycle]] — Returning to design
+- Strategy and [[Authority]] — HD decision-making
+- Defined vs. Undefined Centers — Fixed vs. variable energy
+- The 7-Year Deconditioning Cycle — Returning to design
 - [[Tribal vs. Individual vs. Collective]] — Distinguishing streams
 
 ---

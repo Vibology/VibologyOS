@@ -349,7 +349,7 @@ Gate 10 teaches that **loving oneself is expressed through behavior**. When the 
 - [[The Sun (Astrology)]] — Planet of identity and self-expression
 
 ### Thematic Collections
-- [[Gates of the G Center]] — All eight gates within the Identity/Direction center
+- Gates of the G Center — All eight gates within the Identity/Direction center
 - [[Integration Circuit Gates]] — All gates within the Integration stream
 - [[Gates of Behavior and Self-Expression]] — Gates specifically related to how one moves through life
 - [[Gates of Self-Love]] — Gates carrying the capacity to honor oneself
@@ -362,12 +362,12 @@ Gate 10 teaches that **loving oneself is expressed through behavior**. When the 
 
 ### Biological and Somatic
 - [[G Center]] — The center of identity, direction, and love
-- [[Magnetic Monopole]] — Ra's term for the orientation mechanism in the G Center
+- Magnetic Monopole — Ra's term for the orientation mechanism in the G Center
 - [[Self-Regard (Psychological/Somatic)]] — The felt sense of loving oneself
 
 ### Practical Application
-- [[Strategy and Authority]] — The foundational Human Design decision-making framework
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- Strategy and [[Authority]] — The foundational Human Design decision-making framework
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Behavioral Authenticity vs. Performance]] — Distinguishing natural behavior from conditioned adaptation
 - [[Self-Love as Foundation]] — Understanding that honoring oneself is not narcissism
 - [[Being vs. Teaching]] — The Individual inspires through example, not instruction

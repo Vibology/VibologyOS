@@ -331,11 +331,11 @@ Gate 45 teaches that **rulership is sacred service**. When the individual honors
 - [[I-Ching Hexagram 45 - Gathering Together]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 45 - Dominance to Liberation]] — Richard Rudd's shadow-gift-siddhi framework for Gate 45
 - [[The Emperor (Tarot)]] — Resonance with authority and structure
-- [[Chesed (Qabalah)]] — Mercy, benevolent rulership
+- Chesed (Qabalah) — Mercy, benevolent rulership
 
 ### Thematic Collections
-- [[Gates of the Throat Center]] — All eleven gates within the Manifestation center
-- [[Tribal Circuit Gates]] — All gates within the Tribal stream
+- Gates of the Throat Center — All eleven gates within the Manifestation center
+- Tribal Circuit Gates — All gates within the Tribal stream
 - [[Gates of Leadership]] — Gates related to governance and authority
 - [[Gates of Resource Management]] — Gates focused on material security
 
@@ -345,14 +345,14 @@ Gate 45 teaches that **rulership is sacred service**. When the individual honors
 - [[The Sun (Astrology)]] — Centralized authority and vitality
 
 ### Biological and Somatic
-- [[Throat Center]] — The center of communication and manifestation
+- [[Throat]] — The center of communication and manifestation
 - [[Thyroid Gland]] — The biological organ of metabolism and energy regulation
 - [[Vocal Authority]] — The somatic expression of leadership
 
 ### Practical Application
-- [[Strategy and Authority]] — The foundational Human Design decision-making framework
-- [[Defined vs. Undefined Centers]] — Understanding fixed vs. variable energy in the bodygraph
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- Strategy and [[Authority]] — The foundational Human Design decision-making framework
+- Defined vs. Undefined Centers — Understanding fixed vs. variable energy in the bodygraph
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Tribal vs. Individual vs. Collective]] — Distinguishing the three streams of the bodygraph
 
 ---

@@ -332,12 +332,12 @@ Gate 17 teaches that **true authority comes from service to patterns**. When the
 - [[I-Ching Hexagram 17 - Following]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 17 - Opinion to Omniscience]] — Richard Rudd's shadow-gift-siddhi framework for Gate 17
 - [[The Emperor (Tarot)]] — Resonance with organizational structure and law
-- [[Hod (Qabalah)]] — The Sephirah of pattern recognition and intellectual form
-- [[Mercury (Astrology)]] — The planet of intellect and communication
+- Hod (Qabalah) — The Sephirah of pattern recognition and intellectual form
+- Mercury — The planet of intellect and communication
 
 ### Thematic Collections
-- [[Gates of the Ajna Center]] — All gates within the awareness/conceptualization center
-- [[Collective Circuit Gates]] — All gates within the Collective stream
+- Gates of the Ajna Center — All gates within the awareness/conceptualization center
+- Collective Circuit Gates — All gates within the Collective stream
 - [[Gates of Mental Organization]] — Gates specifically related to framework formation
 - [[Gates of Pattern Recognition]] — Gates that observe and organize patterns
 
@@ -348,14 +348,14 @@ Gate 17 teaches that **true authority comes from service to patterns**. When the
 - [[Confucian Virtue]] — Service to patterns through ethical observation
 
 ### Biological and Somatic
-- [[Ajna Center]] — The center of awareness and mental processing
+- [[Ajna]] — The center of awareness and mental processing
 - [[Pituitary Gland]] — The biological correlation for the Ajna Center
 - [[Mental Processing]] — How the Ajna formulates frameworks and opinions
 
 ### Practical Application
-- [[Strategy and Authority]] — The foundational Human Design decision-making framework
-- [[Defined vs. Undefined Centers]] — Understanding fixed vs. variable energy in the bodygraph
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- Strategy and [[Authority]] — The foundational Human Design decision-making framework
+- Defined vs. Undefined Centers — Understanding fixed vs. variable energy in the bodygraph
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Collective Pattern Sharing]] — How the Collective Logic Circuit disseminates knowledge
 
 ---

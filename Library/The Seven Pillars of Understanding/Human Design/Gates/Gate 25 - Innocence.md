@@ -333,8 +333,8 @@ Gate 25 teaches that **true love is unconditional and includes the Self**. When 
 - [[Venus (Astrology)]] — The planet of love and harmony
 
 ### Thematic Collections
-- [[Gates of the G Center]] — All gates within the Identity center
-- [[Individual Circuit Gates]] — All gates within the Individual stream
+- Gates of the G Center — All gates within the Identity center
+- Individual Circuit Gates — All gates within the Individual stream
 - [[Gates of Love and Spirit]] — Gates related to Universal Love and spiritual innocence
 - [[Gates of the Self]] — Gates that express identity and authentic being
 
@@ -350,8 +350,8 @@ Gate 25 teaches that **true love is unconditional and includes the Self**. When 
 - [[Cellular Identity]] — The Self beyond personal history
 
 ### Practical Application
-- [[Strategy and Authority]] — The foundational Human Design decision-making framework
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- Strategy and [[Authority]] — The foundational Human Design decision-making framework
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Spiritual Discernment]] — Distinguishing authentic innocence from spiritual bypassing
 - [[Boundaries and Love]] — How self-preservation serves Universal Love
 

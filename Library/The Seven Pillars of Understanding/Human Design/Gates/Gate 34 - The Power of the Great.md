@@ -344,23 +344,23 @@ Gate 34 teaches that **power is only great when it serves**. When the individual
 - [[I-Ching Hexagram 34 - The Power of the Great]] — The source hexagram
 - [[Gene Keys 34 - Force to Majesty]] — Shadow-gift-siddhi framework
 - [[Strength (Tarot)]] — Power as mastery, not domination
-- [[Geburah (Qabalah)]] — Severity, strength, disciplined power
+- Geburah (Qabalah) — Severity, strength, disciplined power
 
 ### Thematic Collections
-- [[Gates of the Sacral Center]] — All nine gates within the life-force motor
+- Gates of the Sacral Center — All nine gates within the life-force motor
 - [[Integration Circuit Gates]] — Gates 10, 20, 34, 57
 - [[Gates of Power]] — Gates carrying empowerment energy
 - [[Sexual/Generative Gates]] — Gates related to life-force and sexuality
 
 ### Biological and Somatic
-- [[Sacral Center]] — The life-force motor, generative power
+- [[Sacral]] — The life-force motor, generative power
 - [[Gonads]] — Biological correspondence (ovaries/testes)
 - [[Sacral Authority]] — Response-based decision-making
 
 ### Practical Application
-- [[Strategy and Authority]] — Foundational HD decision-making
-- [[Defined vs. Undefined Centers]] — Fixed vs. variable energy
-- [[The 7-Year Deconditioning Cycle]] — Returning to authentic design
+- Strategy and [[Authority]] — Foundational HD decision-making
+- Defined vs. Undefined Centers — Fixed vs. variable energy
+- The 7-Year Deconditioning Cycle — Returning to authentic design
 
 ---
 

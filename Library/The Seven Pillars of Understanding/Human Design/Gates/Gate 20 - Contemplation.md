@@ -357,7 +357,7 @@ Gate 20 teaches that **true power is presence**. When the individual honors thei
 - [[Mercury/Sun (Astrology)]] — Communication/identity expressed through the now
 
 ### Thematic Collections
-- [[Gates of the Throat Center]] — All gates within the manifestation/communication center
+- Gates of the Throat Center — All gates within the manifestation/communication center
 - [[Integration Circuit Gates]] — All gates within the Integration stream
 - [[Gates of Presence and Awareness]] — Gates specifically related to being in the now
 - [[Gates of Existential Recognition]] — Gates that embody lived truth
@@ -369,14 +369,14 @@ Gate 20 teaches that **true power is presence**. When the individual honors thei
 - [[The Eternal Now (Philosophy)]] — The collapse of time into presence
 
 ### Biological and Somatic
-- [[Throat Center]] — The center of manifestation, communication, and action
+- [[Throat]] — The center of manifestation, communication, and action
 - [[Thyroid and Parathyroid]] — The glands associated with the Throat Center
 - [[Metabolic Expression]] — How energy is manifested in the moment
 
 ### Practical Application
-- [[Strategy and Authority]] — The foundational Human Design decision-making framework
-- [[Defined vs. Undefined Centers]] — Understanding fixed vs. variable energy in the bodygraph
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- Strategy and [[Authority]] — The foundational Human Design decision-making framework
+- Defined vs. Undefined Centers — Understanding fixed vs. variable energy in the bodygraph
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Individual Empowerment]] — How the Integration Circuit demonstrates what is possible through embodiment
 
 ---

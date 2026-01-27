@@ -336,7 +336,7 @@ Gate 42 teaches that **completion is sacred**. When the individual honors their 
 - [[Malkuth (Qabalah)]] — Kingdom, material manifestation
 
 ### Thematic Collections
-- [[Gates of the Sacral Center]] — All nine gates within the Life Force center
+- Gates of the Sacral Center — All nine gates within the Life Force center
 - [[Collective Abstract Circuit Gates]] — All gates within the Abstract process
 - [[Gates of Completion]] — Gates related to finishing and maximizing
 - [[Gates of Cyclical Growth]] — Gates that honor natural rhythms
@@ -347,15 +347,15 @@ Gate 42 teaches that **completion is sacred**. When the individual honors their 
 - [[Jupiter (Astrology)]] — Expansion and benevolent completion
 
 ### Biological and Somatic
-- [[Sacral Center]] — The center of life force, work energy, and fertility
+- [[Sacral]] — The center of life force, work energy, and fertility
 - [[Growth Hormone]] — The biological mechanism of increase
 - [[Reproductive Cycles]] — The somatic rhythm of fertility and regeneration
 
 ### Practical Application
-- [[Strategy and Authority]] — The foundational Human Design decision-making framework
-- [[Defined vs. Undefined Centers]] — Understanding fixed vs. variable energy in the bodygraph
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
-- [[Sacral Response]] — The Generator/MG decision-making mechanism
+- Strategy and [[Authority]] — The foundational Human Design decision-making framework
+- Defined vs. Undefined Centers — Understanding fixed vs. variable energy in the bodygraph
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
+- Sacral Response — The Generator/MG decision-making mechanism
 
 ---
 

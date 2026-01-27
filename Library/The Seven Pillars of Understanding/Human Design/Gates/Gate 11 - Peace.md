@@ -330,25 +330,25 @@ Gate 11 teaches that **authentic ideas cannot be forced or manufactured**. When 
 - [[Chokmah (Qabalah)]] — The Sephirah of Wisdom, pure ideation
 
 ### Thematic Collections
-- [[Gates of the Ajna Center]] — All gates within the Mind/Conceptualization center
-- [[Individual Circuit Gates]] — All gates within the Individual stream
+- Gates of the Ajna Center — All gates within the Mind/Conceptualization center
+- Individual Circuit Gates — All gates within the Individual stream
 - [[Gates of Mental Pressure]] — Gates that create mental pressure or stimulation
-- [[Gates of Mutation]] — Gates carrying the mutative, empowering frequency
+- Gates of Mutation — Gates carrying the mutative, empowering frequency
 
 ### Archetypal and Mythological
 - [[The Visionary Archetype]] — The pattern of seeing beyond current reality
 - [[Jung's Thinking Function]] — The mental capacity for conceptualization and analysis
-- [[The Hermit (Tarot)]] — Solitude as necessary for wisdom and insight
+- [[The Hermit (IX)]] — Solitude as necessary for wisdom and insight
 
 ### Biological and Somatic
-- [[Ajna Center]] — The center of mind, conceptualization, and mental awareness
+- [[Ajna]] — The center of mind, conceptualization, and mental awareness
 - [[Pituitary Gland]] — The biological correlation for the Ajna Center
 - [[Mental Pressure Systems]] — How mental gates create cognitive pressure or clarity
 
 ### Practical Application
-- [[Strategy and Authority]] — The foundational Human Design decision-making framework
-- [[Defined vs. Undefined Centers]] — Understanding fixed vs. variable mental energy
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic mental design
+- Strategy and [[Authority]] — The foundational Human Design decision-making framework
+- Defined vs. Undefined Centers — Understanding fixed vs. variable mental energy
+- The 7-Year Deconditioning Cycle — The process of returning to authentic mental design
 - [[Individual Empowerment vs. Collective Leadership]] — Distinguishing Individual from Tribal/Collective mental roles
 
 ---

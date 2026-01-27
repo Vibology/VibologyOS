@@ -332,12 +332,12 @@ Gate 18 teaches that **integrity requires vigilant correction**. When the indivi
 - [[I-Ching Hexagram 18 - Work on What Has Been Spoilt]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 18 - Judgement to Perfection]] — Richard Rudd's shadow-gift-siddhi framework for Gate 18
 - [[Justice (Tarot)]] — Resonance with balance and correction
-- [[Geburah (Qabalah)]] — The Sephirah of severity and necessary destruction
-- [[Saturn (Astrology)]] — The planet of structure and correction through time
+- Geburah (Qabalah) — The Sephirah of severity and necessary destruction
+- Saturn — The planet of structure and correction through time
 
 ### Thematic Collections
-- [[Gates of the Spleen Center]] — All gates within the survival/immune center
-- [[Collective Circuit Gates]] — All gates within the Collective stream
+- Gates of the Spleen Center — All gates within the survival/immune center
+- Collective Circuit Gates — All gates within the Collective stream
 - [[Gates of Correction and Integrity]] — Gates specifically related to restoration
 - [[Gates of Authority Challenge]] — Gates that question and correct power structures
 
@@ -348,15 +348,15 @@ Gate 18 teaches that **integrity requires vigilant correction**. When the indivi
 - [[Kali (Hindu Mythology)]] — Destroyer of corruption and decay
 
 ### Biological and Somatic
-- [[Spleen Center]] — The center of survival and immune function
+- [[Spleen]] — The center of survival and immune function
 - [[Lymphatic System]] — The biological correlation for the Spleen Center
 - [[Immune Response]] — How the body recognizes and eliminates toxicity
 
 ### Practical Application
-- [[Strategy and Authority]] — The foundational Human Design decision-making framework
+- Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - [[Splenic Authority]] — In-the-moment instinctual awareness
-- [[Defined vs. Undefined Centers]] — Understanding fixed vs. variable energy in the bodygraph
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- Defined vs. Undefined Centers — Understanding fixed vs. variable energy in the bodygraph
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 
 ---
 

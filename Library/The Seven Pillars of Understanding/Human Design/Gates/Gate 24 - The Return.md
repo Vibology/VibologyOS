@@ -327,15 +327,15 @@ Gate 24 teaches that **true understanding requires patience and trust in mental 
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 24 - The Return]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 24 - Addiction to Silence]] — Richard Rudd's shadow-gift-siddhi framework for Gate 24
-- [[The Hermit (Tarot)]] — Archetypal withdrawal and contemplation
+- [[The Hermit (IX)]] — Archetypal withdrawal and contemplation
 - [[Judgment (Tarot)]] — Return, renewal, and awakening
-- [[Hod (Qabalah)]] — The Sephirah of Intellect and mental splendor
-- [[Mercury (Astrology)]] — The planet of thinking and mental processing
+- Hod (Qabalah) — The Sephirah of Intellect and mental splendor
+- Mercury — The planet of thinking and mental processing
 - [[Moon (Astrology)]] — The planet of cycles and rhythms
 
 ### Thematic Collections
-- [[Gates of the Ajna Center]] — All gates within the Mental Awareness center
-- [[Individual Circuit Gates]] — All gates within the Individual stream
+- Gates of the Ajna Center — All gates within the Mental Awareness center
+- Individual Circuit Gates — All gates within the Individual stream
 - [[Gates of Mental Processing]] — Gates related to thinking and conceptualization
 - [[Gates of Renewal and Cycling]] — Gates that operate through repetition and return
 
@@ -346,13 +346,13 @@ Gate 24 teaches that **true understanding requires patience and trust in mental 
 - [[The Thinking Function (Jung)]] — Psychological rationalization and mental processing
 
 ### Biological and Somatic
-- [[Ajna Center]] — The center of mental awareness and conceptualization
+- [[Ajna]] — The center of mental awareness and conceptualization
 - [[Pituitary Gland]] — Master gland regulating cycles and rhythms
 - [[Mental Cycling and Sleep]] — The relationship between thinking and rest
 
 ### Practical Application
-- [[Strategy and Authority]] — The foundational Human Design decision-making framework
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- Strategy and [[Authority]] — The foundational Human Design decision-making framework
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Mental Hygiene]] — Distinguishing healthy rationalization from compulsive thinking
 - [[Contemplative Practice]] — Allowing mental renewal through patient cycling
 

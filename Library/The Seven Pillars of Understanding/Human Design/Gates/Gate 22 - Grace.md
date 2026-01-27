@@ -334,8 +334,8 @@ Gate 22 teaches that **true grace is not performance but presence**. When the in
 - [[Moon (Astrology)]] — The planet of emotional receptivity and sensitivity
 
 ### Thematic Collections
-- [[Gates of the Solar Plexus Center]] — All gates within the Emotional Awareness center
-- [[Individual Circuit Gates]] — All gates within the Individual stream
+- Gates of the Solar Plexus Center — All gates within the Emotional Awareness center
+- Individual Circuit Gates — All gates within the Individual stream
 - [[Gates of Emotional Intelligence]] — Gates related to feeling, presence, and sensitivity
 - [[Gates of Social Navigation]] — Gates that facilitate connection and interaction
 
@@ -346,14 +346,14 @@ Gate 22 teaches that **true grace is not performance but presence**. When the in
 - [[The Feeling Function (Jung)]] — Psychological evaluation through emotional tone
 
 ### Biological and Somatic
-- [[Solar Plexus Center]] — The center of emotional awareness and sensitivity
+- [[Solar Plexus]] — The center of emotional awareness and sensitivity
 - [[Kidneys and Emotional Processing]] — Biological correlation with fear and boundaries
 - [[Nervous System Sensitivity]] — Energetic correlation with emotional reactivity
 
 ### Practical Application
-- [[Strategy and Authority]] — The foundational Human Design decision-making framework
+- Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - [[Emotional Authority]] — Riding the wave to clarity over time
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Emotional Boundaries]] — Distinguishing presence from performance, listening from absorbing
 
 ---

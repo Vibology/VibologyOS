@@ -334,8 +334,8 @@ Gate 61 teaches that **inner truth cannot be forced**. When the individual honor
 - [[Kether (Qabalah)]] — Crown, source, unknowable divine
 
 ### Thematic Collections
-- [[Gates of the Head Center]] — All gates within Inspiration center
-- [[Individual Circuit Gates]] — All gates within Individual stream
+- Gates of the Head Center — All gates within Inspiration center
+- Individual Circuit Gates — All gates within Individual stream
 - [[Knowing Circuit Gates]] — All gates within Knowing stream
 - [[Gates of Inspiration]] — Gates related to spontaneous knowing
 
@@ -346,14 +346,14 @@ Gate 61 teaches that **inner truth cannot be forced**. When the individual honor
 - [[Oracle of Delphi (Greek Mythology)]] — Inspiration through divine pressure
 
 ### Biological and Somatic
-- [[Head Center]] — Inspiration, mental pressure, cosmic questions
+- [[Head]] — Inspiration, mental pressure, cosmic questions
 - [[Pineal Gland]] — Third eye, cosmic attunement
 - [[Mental Pressure System]] — Drive to question and seek
 
 ### Practical Application
-- [[Strategy and Authority]] — Decision-making framework
-- [[Defined vs. Undefined Centers]] — Fixed vs. variable energy
-- [[The 7-Year Deconditioning Cycle]] — Returning to authentic design
+- Strategy and [[Authority]] — Decision-making framework
+- Defined vs. Undefined Centers — Fixed vs. variable energy
+- The 7-Year Deconditioning Cycle — Returning to authentic design
 - [[Pressure Centers]] — Root and Head as fuel generators
 
 ---

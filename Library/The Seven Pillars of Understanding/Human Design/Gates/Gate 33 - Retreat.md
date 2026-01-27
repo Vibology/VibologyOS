@@ -341,12 +341,12 @@ Gate 33 teaches that **wisdom requires distance**. When the individual honors th
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 33 - Retreat]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 33 - Forgetting to Revelation]] — Richard Rudd's shadow-gift-siddhi framework for Gate 33
-- [[The Hermit (Tarot)]] — Resonance with solitary withdrawal and inner light
-- [[Binah (Qabalah)]] — Understanding, the womb of contemplation
+- [[The Hermit (IX)]] — Resonance with solitary withdrawal and inner light
+- Binah (Qabalah) — Understanding, the womb of contemplation
 
 ### Thematic Collections
-- [[Gates of the Throat Center]] — All eleven gates within the manifestation center
-- [[Collective Circuit Gates]] — All gates within the Collective stream (Logic and Abstract)
+- Gates of the Throat Center — All eleven gates within the manifestation center
+- Collective Circuit Gates — All gates within the Collective stream (Logic and Abstract)
 - [[Gates of Storytelling]] — Gates related to narrative and memory
 - [[Gates of Privacy]] — Gates carrying the energy of withdrawal and solitude
 
@@ -356,14 +356,14 @@ Gate 33 teaches that **wisdom requires distance**. When the individual honors th
 - [[The Wise Storyteller]] — Sharing reflective wisdom through narrative
 
 ### Biological and Somatic
-- [[Throat Center]] — The center of manifestation and expression
+- [[Throat]] — The center of manifestation and expression
 - [[Thyroid]] — The gland associated with the Throat Center's metabolic regulation
 - [[Voice and Narrative]] — The biological instrument of Gate 33's storytelling
 
 ### Practical Application
-- [[Strategy and Authority]] — The foundational Human Design decision-making framework
-- [[Defined vs. Undefined Centers]] — Understanding fixed vs. variable energy in the bodygraph
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- Strategy and [[Authority]] — The foundational Human Design decision-making framework
+- Defined vs. Undefined Centers — Understanding fixed vs. variable energy in the bodygraph
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Collective vs. Individual vs. Tribal]] — Distinguishing the three streams of circuitry
 
 ---

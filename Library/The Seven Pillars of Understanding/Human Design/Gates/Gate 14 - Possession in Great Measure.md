@@ -328,12 +328,12 @@ Gate 14 teaches that **true power is earned through sustained work**. When the i
 - [[I-Ching Hexagram 14 - Possession in Great Measure]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 14 - Compromise to Bounteousness]] — Richard Rudd's shadow-gift-siddhi framework for Gate 14
 - [[Strength (Tarot)]] — Resonance with mastery through gentle power
-- [[Geburah (Qabalah)]] — The Sephirah of Strength and disciplined power
+- Geburah (Qabalah) — The Sephirah of Strength and disciplined power
 - [[The Sun (Astrology)]] — The source of vitality and creative life force
 
 ### Thematic Collections
-- [[Gates of the Sacral Center]] — All gates within the Life Force center
-- [[Individual Circuit Gates]] — All gates within the Individual stream
+- Gates of the Sacral Center — All gates within the Life Force center
+- Individual Circuit Gates — All gates within the Individual stream
 - [[Gates of Mastery and Skill]] — Gates related to competence and craft
 - [[Gates of Power and Resources]] — Gates that build and manage energy and capability
 
@@ -343,14 +343,14 @@ Gate 14 teaches that **true power is earned through sustained work**. When the i
 - [[The Competence Drive (Psychology)]] — The human need for efficacy and capability
 
 ### Biological and Somatic
-- [[Sacral Center]] — The center of life force, fertility, and response
+- [[Sacral]] — The center of life force, fertility, and response
 - [[Ovaries and Testes]] — The biological correlation for the Sacral Center
 - [[Generative Energy]] — How the Sacral creates sustainable work capacity
 
 ### Practical Application
-- [[Strategy and Authority]] — The foundational Human Design decision-making framework
-- [[Sacral Response]] — How to recognize and trust the Sacral "uh-huh" and "uhn-uhn"
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- Strategy and [[Authority]] — The foundational Human Design decision-making framework
+- Sacral Response — How to recognize and trust the Sacral "uh-huh" and "uhn-uhn"
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Empowerment vs. Leadership]] — Distinguishing Individual empowerment from Collective/Tribal leadership
 
 ---

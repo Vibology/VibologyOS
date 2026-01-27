@@ -347,11 +347,11 @@ Gate 62 teaches that **details matter**. When the individual honors their voice 
 - [[I-Ching Hexagram 62 - Preponderance of the Small]] — Source hexagram and traditional interpretation
 - [[Gene Keys 62 - Intellect to Impeccability]] — Shadow-gift-siddhi framework
 - [[The Magician (Tarot)]] — Resonance with naming and manifestation
-- [[Hod (Qabalah)]] — Splendor, form, intellectual structure
+- Hod (Qabalah) — Splendor, form, intellectual structure
 
 ### Thematic Collections
-- [[Gates of the Throat Center]] — All gates within Expression center
-- [[Collective Circuit Gates]] — All gates within Collective stream
+- Gates of the Throat Center — All gates within Expression center
+- Collective Circuit Gates — All gates within Collective stream
 - [[Logic Circuit Gates]] — All gates within Logic stream
 - [[Gates of Detail]] — Gates related to precision and organization
 
@@ -362,14 +362,14 @@ Gate 62 teaches that **details matter**. When the individual honors their voice 
 - [[Thoth (Egyptian Mythology)]] — God of writing and knowledge
 
 ### Biological and Somatic
-- [[Throat Center]] — Expression, manifestation, communication
+- [[Throat]] — Expression, manifestation, communication
 - [[Thyroid Gland]] — Metabolism and energy regulation
 - [[Language Processing]] — Naming and verbal organization
 
 ### Practical Application
-- [[Strategy and Authority]] — Decision-making framework
-- [[Defined vs. Undefined Centers]] — Fixed vs. variable energy
-- [[The 7-Year Deconditioning Cycle]] — Returning to authentic design
+- Strategy and [[Authority]] — Decision-making framework
+- Defined vs. Undefined Centers — Fixed vs. variable energy
+- The 7-Year Deconditioning Cycle — Returning to authentic design
 - [[Manifestation Centers]] — Throat as expression gateway
 
 ---

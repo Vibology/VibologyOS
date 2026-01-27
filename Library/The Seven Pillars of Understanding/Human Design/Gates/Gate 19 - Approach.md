@@ -331,12 +331,12 @@ Gate 19 teaches that **true sensitivity honors interdependence without losing se
 - [[I-Ching Hexagram 19 - Approach]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 19 - Co-dependence to Sacrifice]] — Richard Rudd's shadow-gift-siddhi framework for Gate 19
 - [[The Empress (Tarot)]] — Resonance with nurturing and abundance
-- [[Chesed (Qabalah)]] — The Sephirah of mercy and loving-kindness
+- Chesed (Qabalah) — The Sephirah of mercy and loving-kindness
 - [[The Moon (Astrology)]] — The body that governs needs and nurturing
 
 ### Thematic Collections
-- [[Gates of the Root Center]] — All gates within the pressure/adrenaline center
-- [[Tribal Circuit Gates]] — All gates within the Tribal stream
+- Gates of the Root Center — All gates within the pressure/adrenaline center
+- Tribal Circuit Gates — All gates within the Tribal stream
 - [[Gates of Sensitivity and Needs]] — Gates specifically related to interdependence
 - [[Gates of Resource Exchange]] — Gates that govern tribal support
 
@@ -347,14 +347,14 @@ Gate 19 teaches that **true sensitivity honors interdependence without losing se
 - [[Mother Teresa (Historical)]] — Embodiment of approaching the suffering with sensitivity
 
 ### Biological and Somatic
-- [[Root Center]] — The center of pressure and stress
-- [[Adrenal Glands]] — The biological correlation for the Root Center
+- [[Root]] — The center of pressure and stress
+- Adrenal Glands — The biological correlation for the Root Center
 - [[Stress Response]] — How the body creates pressure to act
 
 ### Practical Application
-- [[Strategy and Authority]] — The foundational Human Design decision-making framework
-- [[Defined vs. Undefined Centers]] — Understanding fixed vs. variable energy in the bodygraph
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- Strategy and [[Authority]] — The foundational Human Design decision-making framework
+- Defined vs. Undefined Centers — Understanding fixed vs. variable energy in the bodygraph
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Tribal Bargains]] — How the Tribal Ego Circuit creates exchange-based relationships
 
 ---

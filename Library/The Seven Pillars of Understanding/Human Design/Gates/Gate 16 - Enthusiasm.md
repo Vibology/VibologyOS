@@ -336,12 +336,12 @@ Gate 16 teaches that **true mastery is earned through dedication**. When the ind
 - [[I-Ching Hexagram 16 - Enthusiasm]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 16 - Indifference to Mastery]] — Richard Rudd's shadow-gift-siddhi framework for Gate 16
 - [[The Hierophant (Tarot)]] — Resonance with transmission through practice and tradition
-- [[Hod (Qabalah)]] — The Sephirah of form, pattern, and ritual practice
+- Hod (Qabalah) — The Sephirah of form, pattern, and ritual practice
 - [[Jupiter (Astrology)]] — The planet of expansion and enrichment
 
 ### Thematic Collections
-- [[Gates of the Throat Center]] — All gates within the manifestation/communication center
-- [[Collective Circuit Gates]] — All gates within the Collective stream
+- Gates of the Throat Center — All gates within the manifestation/communication center
+- Collective Circuit Gates — All gates within the Collective stream
 - [[Gates of Skill and Mastery]] — Gates specifically related to expertise development
 - [[Gates of Practice and Repetition]] — Gates that honor sustained dedication
 
@@ -352,14 +352,14 @@ Gate 16 teaches that **true mastery is earned through dedication**. When the ind
 - [[The Muses (Greek Mythology)]] — Inspiration that emerges through dedicated practice
 
 ### Biological and Somatic
-- [[Throat Center]] — The center of manifestation, communication, and action
+- [[Throat]] — The center of manifestation, communication, and action
 - [[Thyroid and Parathyroid]] — The glands associated with the Throat Center
 - [[Metabolic Expression]] — How energy is channeled into manifestation
 
 ### Practical Application
-- [[Strategy and Authority]] — The foundational Human Design decision-making framework
-- [[Defined vs. Undefined Centers]] — Understanding fixed vs. variable energy in the bodygraph
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- Strategy and [[Authority]] — The foundational Human Design decision-making framework
+- Defined vs. Undefined Centers — Understanding fixed vs. variable energy in the bodygraph
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Collective Pattern Sharing]] — How the Collective Logic Circuit disseminates knowledge
 
 ---

@@ -338,12 +338,12 @@ Gate 63 teaches that **doubt serves truth**. When the individual honors their pr
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 63 - After Completion]] — Source hexagram and traditional interpretation
 - [[Gene Keys 63 - Doubt to Truth]] — Shadow-gift-siddhi framework
-- [[The Hermit (Tarot)]] — Resonance with solitary inquiry and truth-seeking
-- [[Binah (Qabalah)]] — Understanding, form, verification through testing
+- [[The Hermit (IX)]] — Resonance with solitary inquiry and truth-seeking
+- Binah (Qabalah) — Understanding, form, verification through testing
 
 ### Thematic Collections
-- [[Gates of the Head Center]] — All gates within Inspiration center
-- [[Collective Circuit Gates]] — All gates within Collective stream
+- Gates of the Head Center — All gates within Inspiration center
+- Collective Circuit Gates — All gates within Collective stream
 - [[Logic Circuit Gates]] — All gates within Logic stream
 - [[Gates of Questioning]] — Gates related to doubt and verification
 
@@ -354,14 +354,14 @@ Gate 63 teaches that **doubt serves truth**. When the individual honors their pr
 - [[Diogenes (Greek Philosophy)]] — Cynic who questioned all patterns
 
 ### Biological and Somatic
-- [[Head Center]] — Inspiration, mental pressure, cosmic questions
+- [[Head]] — Inspiration, mental pressure, cosmic questions
 - [[Pineal Gland]] — Mental pressure and verification drive
 - [[Skepticism Response]] — Biological questioning mechanism
 
 ### Practical Application
-- [[Strategy and Authority]] — Decision-making framework
-- [[Defined vs. Undefined Centers]] — Fixed vs. variable energy
-- [[The 7-Year Deconditioning Cycle]] — Returning to authentic design
+- Strategy and [[Authority]] — Decision-making framework
+- Defined vs. Undefined Centers — Fixed vs. variable energy
+- The 7-Year Deconditioning Cycle — Returning to authentic design
 - [[Pressure Centers]] — Root and Head as fuel generators
 
 ---

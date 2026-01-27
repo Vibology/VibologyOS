@@ -325,13 +325,13 @@ Gate 12 teaches that **not all action is progress**. When the individual honors 
 - [[I-Ching Hexagram 12 - Standstill]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 12 - Vanity to Purity]] — Richard Rudd's shadow-gift-siddhi framework for Gate 12
 - [[The Hanged Man (Tarot)]] — Resonance with sacred suspension and standstill
-- [[Binah (Qabalah)]] — The Sephirah of Understanding and divine limitation
-- [[Saturn (Astrology)]] — The planet of boundaries, time, and necessary restraint
+- Binah (Qabalah) — The Sephirah of Understanding and divine limitation
+- Saturn — The planet of boundaries, time, and necessary restraint
 
 ### Thematic Collections
-- [[Gates of the Throat Center]] — All gates within the Manifestation center
-- [[Individual Circuit Gates]] — All gates within the Individual stream
-- [[Gates of Mutation]] — Gates carrying the mutative, empowering frequency
+- Gates of the Throat Center — All gates within the Manifestation center
+- Individual Circuit Gates — All gates within the Individual stream
+- Gates of Mutation — Gates carrying the mutative, empowering frequency
 - [[Gates of Caution and Restraint]] — Gates that articulate boundaries and "no"
 
 ### Archetypal and Mythological
@@ -340,14 +340,14 @@ Gate 12 teaches that **not all action is progress**. When the individual honors 
 - [[Kronos/Saturn (Mythology)]] — The deity of time, harvest, and necessary endings
 
 ### Biological and Somatic
-- [[Throat Center]] — The center of manifestation, action, and communication
+- [[Throat]] — The center of manifestation, action, and communication
 - [[Thyroid and Parathyroid Glands]] — The biological correlation for the Throat Center
 - [[Metabolic Regulation]] — How the thyroid controls energy and standstill cycles
 
 ### Practical Application
-- [[Strategy and Authority]] — The foundational Human Design decision-making framework
-- [[Defined vs. Undefined Centers]] — Understanding fixed vs. variable expression
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- Strategy and [[Authority]] — The foundational Human Design decision-making framework
+- Defined vs. Undefined Centers — Understanding fixed vs. variable expression
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Boundary-Setting in Human Design]] — How different gates and types establish healthy limits
 
 ---

@@ -336,8 +336,8 @@ Gate 54 teaches that **ambition is sacred when aligned**. When the individual ho
 - [[Netzach (Qabalah)]] — The sephira of victory and desire
 
 ### Thematic Collections
-- [[Gates of the Root Center]] — All nine gates within the Pressure/Stress center
-- [[Tribal Circuit Gates]] — All gates within the Tribal stream
+- Gates of the Root Center — All nine gates within the Pressure/Stress center
+- Tribal Circuit Gates — All gates within the Tribal stream
 - [[Gates of Ambition]] — Gates specifically related to drive and advancement
 - [[Gates of Transformation]] — Gates related to change and evolution
 
@@ -348,14 +348,14 @@ Gate 54 teaches that **ambition is sacred when aligned**. When the individual ho
 - [[The Ladder (Symbolism)]] — Universal symbol of ascension and hierarchy
 
 ### Biological and Somatic
-- [[Root Center]] — The center of pressure, stress, and adrenalization
-- [[Adrenal Glands]] — The biological correspondence for drive and competition
+- [[Root]] — The center of pressure, stress, and adrenalization
+- Adrenal Glands — The biological correspondence for drive and competition
 - [[Social Positioning Instinct]] — The evolutionary mechanism for hierarchy
 
 ### Practical Application
-- [[Strategy and Authority]] — The foundational Human Design decision-making framework
-- [[Defined vs. Undefined Centers]] — Understanding fixed vs. variable energy in the bodygraph
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- Strategy and [[Authority]] — The foundational Human Design decision-making framework
+- Defined vs. Undefined Centers — Understanding fixed vs. variable energy in the bodygraph
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Tribal Support vs. Collective Sharing]] — Distinguishing Tribal from Collective/Individual roles
 
 ---
