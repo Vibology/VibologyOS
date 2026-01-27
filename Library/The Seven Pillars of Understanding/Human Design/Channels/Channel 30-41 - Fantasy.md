@@ -110,7 +110,7 @@ When recognized and invited, the 30-41 individual becomes the **initiator of col
 - [[Channel 47-64 - Abstraction]] — Making sense of experiences initiated by 30-41
 - [[Solar Plexus]] — Emotional awareness and the wave
 - [[Root]] — Pressure and drive
-- [[Collective Sensing Circuit]] — Experience-based learning
+- Collective Sensing Circuit — Experience-based learning
 - [[Emotional Authority]] — Decision-making through the emotional wave
 
 ## Sources

@@ -313,7 +313,7 @@ When recognized and invited, the 21-45 individual becomes the **benevolent sover
 - [[Channel 37-40 - Community]] — Tribal Ego partner (bargains and affection)
 - [[Heart (Ego) Center]] — Willpower and material authority
 - [[Throat]] — Manifestation and voice
-- [[Tribal Ego Circuit]] — Support, material needs, bargains
+- Tribal Ego Circuit — Support, material needs, bargains
 - [[Manifestor Type]] — Informing, initiating, independence
 - [[Gene Keys]] — Shadow/Gift/Siddhi framework
 - [[The Emperor (IV)]] — Material authority and structure

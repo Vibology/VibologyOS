@@ -409,8 +409,8 @@ This is the essence of the Tribal Defense Circuit: **protecting the tribe's futu
 - [[Channel 32-54 - Transformation]] — Spleen-Root tribal ambition
 
 ### Circuit Connections (Tribal Stream)
-- [[Tribal Ego Circuit]] — Channels 21-45 (Money), 26-44 (Surrender), 40-37 (Community), 19-49 (Synthesis)
-- [[Tribal Defense Circuit]] — All channels protecting tribal future through caring and intimacy
+- Tribal Ego Circuit — Channels 21-45 (Money), 26-44 (Surrender), 40-37 (Community), 19-49 (Synthesis)
+- Tribal Defense Circuit — All channels protecting tribal future through caring and intimacy
 
 ### Cross-System Correspondences
 - I-Ching Hexagram 27 - Nourishment — Providing and receiving nourishment
@@ -419,17 +419,17 @@ This is the essence of the Tribal Defense Circuit: **protecting the tribe's futu
 - Gene Keys 50 - Corruption to Harmony — Shadow-Gift-Siddhi framework for Gate 50
 - [[The Empress (III)]] — Abundant nurturing and fertility
 - [[The Emperor (IV)]] — Structure, law, and boundaries
-- [[Chesed and Geburah (Qabalah)]] — Mercy and Severity balanced
+- Chesed and Geburah (Qabalah) — Mercy and Severity balanced
 
 ### Thematic Collections
 - [[Sacral Center Channels]] — All channels involving life-force energy
 - [[Spleen Center Channels]] — All channels involving instinctive awareness
 - [[Generated Channels]] — Channels requiring Sacral response
-- [[Channels of Caring]] — Channels related to nurturing and preservation
+- Channels of Caring — Channels related to nurturing and preservation
 
 ### Archetypal and Mythological
-- [[The Caregiver Archetype]] — The nurturer who sustains life
-- [[Folklore/Jungian Archetypes/The Great Mother]] — Demeter, Isis—archetypal mothers and protectors
+- The Caregiver Archetype — The nurturer who sustains life
+- Folklore/Jungian Archetypes/The Great Mother — Demeter, Isis—archetypal mothers and protectors
 - [[The Moon (Astrology)]] — Planetary archetype of nurturing and mothering
 - [[Saturn (Astrology)]] — Planetary archetype of structure and boundaries
 
@@ -441,8 +441,8 @@ This is the essence of the Tribal Defense Circuit: **protecting the tribe's futu
 
 ### Practical Application
 - Strategy and [[Authority]] — Waiting for Sacral response before caring
-- [[Defined vs. Undefined Centers]] — Understanding fixed vs. variable caring energy
-- [[The 7-Year Deconditioning Cycle]] — Returning to sustainable caring
+- Defined vs. Undefined Centers — Understanding fixed vs. variable caring energy
+- The 7-Year Deconditioning Cycle — Returning to sustainable caring
 - [[Tribal Dynamics]] — Understanding caring, values, and tribal responsibility
 
 ## Sources

@@ -344,7 +344,7 @@ Jung's process of individuation requires **questioning inherited patterns** (Gat
 - [[Ajna]] — The center of mental awareness and conceptualization
 
 ### Circuit Family
-- [[Collective Logic Circuit]] — The broader circuit family
+- Collective Logic Circuit — The broader circuit family
 - [[Channel 17-62 - Acceptance]] — Organizing details in the Logic stream
 - [[Channel 16-48 - Wavelength]] — Mastery through repetition
 - [[Channel 7-31 - The Alpha]] — Democratic leadership
@@ -353,7 +353,7 @@ Jung's process of individuation requires **questioning inherited patterns** (Gat
 - [[Projector]] — The natural Type for this Projected channel
 - Strategy and [[Authority]] — The decision-making framework
 - Wait for the Invitation — The Projector's Strategy
-- [[Bitterness (Not-Self)]] — The Projector's Not-Self theme
+- Bitterness (Not-Self theme) — The Projector's Not-Self theme
 
 ### Cross-System Correspondences
 - I-Ching Hexagram 4 - Youthful Folly — The source hexagram for Gate 4
@@ -364,7 +364,7 @@ Jung's process of individuation requires **questioning inherited patterns** (Gat
 - [[Death (XIII)]] — Resonance with completion and questioning
 
 ### Psychological and Archetypal
-- [[The Scientist Archetype]] — The one who questions and tests
+- The Scientist Archetype — The one who questions and tests
 - [[Individuation Process]] — Jung's concept of becoming whole
 - [[Senex and Puer]] — The integration of elder wisdom and youthful formulation
 
@@ -374,7 +374,7 @@ Jung's process of individuation requires **questioning inherited patterns** (Gat
 - Visual Thinking — The Logic Circuit's dominant sensory mode
 
 ### Practical Application
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Honoring Doubt]] — Allowing questions to remain unanswered until tested
 - [[Pattern Testing]] — Verifying formulas over time
 

@@ -312,7 +312,7 @@ When recognized and invited, the 19-49 individual becomes the **emotional heart 
 - [[Channel 37-40 - Community]] — Tribal Ego partner (bargains and affection)
 - [[Root]] — Pressure and drive
 - [[Solar Plexus]] — Emotion and the wave
-- [[Tribal Ego Circuit]] — Support, material needs, bargains
+- Tribal Ego Circuit — Support, material needs, bargains
 - [[Emotional Authority]] — Decision-making through the wave
 - [[Projector Type]] — Recognition, invitation, and guidance
 - [[Gene Keys]] — Shadow/Gift/Siddhi framework

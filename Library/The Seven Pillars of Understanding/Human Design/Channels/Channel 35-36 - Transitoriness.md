@@ -107,7 +107,7 @@ When aligned (waiting through the wave, informing before initiating), the 35-36 
 - [[Channel 12-22 - Openness]] — Individual emotional voice
 - [[Solar Plexus]] — Emotional awareness and the wave
 - [[Throat]] — Voice and manifestation
-- [[Collective Sensing Circuit]] — Experience-based abstract learning
+- Collective Sensing Circuit — Experience-based abstract learning
 - [[Emotional Authority]] — Waiting through the wave for clarity
 
 ## Sources

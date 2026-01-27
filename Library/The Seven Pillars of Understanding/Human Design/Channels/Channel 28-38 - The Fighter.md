@@ -407,9 +407,9 @@ This is the essence of the Individual Knowing Circuit: **empowering others throu
 - [[Channel 34-57 - Power]] — Archetype of human power and intuition
 
 ### Circuit Connections (Individual Stream)
-- [[Individual Knowing Circuit]] — All channels expressing mutation and acoustic knowing
-- [[Individual Centering Circuit]] — Channels 25-51, 10-34
-- [[Individual Integration Channels]] — Channels 10-20, 20-34, 10-57, 34-57
+- Individual Knowing Circuit — All channels expressing mutation and acoustic knowing
+- Individual Centering Circuit — Channels 25-51, 10-34
+- Individual Integration Channels — Channels 10-20, 20-34, 10-57, 34-57
 
 ### Cross-System Correspondences
 - I-Ching Hexagram 28 - Preponderance of the Great — Critical mass and risk
@@ -418,16 +418,16 @@ This is the essence of the Individual Knowing Circuit: **empowering others throu
 - Gene Keys 38 - Struggle to Honour — Shadow-Gift-Siddhi framework
 - [[The Tower (XVI)]] — Breaking structures through crisis
 - [[Strength (VIII)]] — Courage and perseverance
-- [[Geburah (Qabalah)]] — Severity, strength, Mars principle
+- Geburah (Qabalah) — Severity, strength, Mars principle
 
 ### Thematic Collections
 - [[Spleen Center Channels]] — All channels involving instinctive awareness
 - [[Root Center Channels]] — All channels involving pressure and drive
 - [[Projected Channels]] — Channels requiring recognition and invitation
-- [[Channels of Courage]] — Channels related to fighting and opposition
+- Channels of Courage — Channels related to fighting and opposition
 
 ### Archetypal and Mythological
-- [[The Warrior Archetype]] — Ares, Athena, Mulan—fighters and heroes
+- The Warrior Archetype — Ares, Athena, Mulan—fighters and heroes
 - [[Mars (Astrology)]] — Planetary archetype of will and fighting spirit
 - [[Pluto (Astrology)]] — Planetary archetype of transformation through crisis
 - [[The Hero's Journey]] — Campbell's monomyth of struggle and transformation
@@ -440,8 +440,8 @@ This is the essence of the Individual Knowing Circuit: **empowering others throu
 
 ### Practical Application
 - Strategy and [[Authority]] — Waiting for recognition before engaging in struggle
-- [[Defined vs. Undefined Centers]] — Understanding fixed vs. variable fighting energy
-- [[The 7-Year Deconditioning Cycle]] — Returning to purposeful struggle
+- Defined vs. Undefined Centers — Understanding fixed vs. variable fighting energy
+- The 7-Year Deconditioning Cycle — Returning to purposeful struggle
 - [[Individual Empowerment]] — Understanding mutation and unique contribution
 
 ## Sources

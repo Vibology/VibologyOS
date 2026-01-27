@@ -342,7 +342,7 @@ Jung's process of individuation requires **trusting the psyche's intuitive guida
 - [[Spleen]] — The center of intuition, survival, and health
 
 ### Circuit Family
-- [[Integration Channels]] — The four channels of self-empowerment (10-20, 10-34, 10-57, 20-34)
+- Integration Channels — The four channels of self-empowerment (10-20, 10-34, 10-57, 20-34)
 - [[Channel 10-20 - Awakening]] — Commitment to higher principles
 - [[Channel 10-34 - Exploration]] — Following convictions
 
@@ -361,7 +361,7 @@ Jung's process of individuation requires **trusting the psyche's intuitive guida
 - [[The Hermit (IX)]] — Resonance with intuitive guidance
 
 ### Psychological and Archetypal
-- [[The Artist Archetype]] — The one who perfects through beauty
+- The Artist Archetype — The one who perfects through beauty
 - [[The Wise Old One]] — The archetype of intuitive knowing
 - [[The Self]] — The totality of the psyche
 - [[Individuation Process]] — Jung's concept of trusting psyche's guidance
@@ -370,11 +370,11 @@ Jung's process of individuation requires **trusting the psyche's intuitive guida
 - Liver (Biology) — The organ associated with the G Center
 - Immune System — The biological guardian in the Spleen
 - Lymphatic System — The Spleen's detoxification network
-- [[Splenic Awareness]] — The instant, quiet knowing
+- Splenic Awareness — The instant, quiet knowing
 
 ### Practical Application
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
-- [[Trusting Intuition]] — Acting on the Spleen's instant knowing
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
+- Trusting Intuition — Acting on the Spleen's instant knowing
 - [[Perfected Form as Survival]] — Beauty and grace as the path to safety
 
 ## Sources

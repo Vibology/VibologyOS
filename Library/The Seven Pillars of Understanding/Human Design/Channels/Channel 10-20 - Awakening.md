@@ -335,7 +335,7 @@ Jung's process of individuation is the journey to the Self. The Channel 10-20 in
 - [[Throat]] — The center of manifestation and expression
 
 ### Circuit Family
-- [[Integration Channels]] — The four channels of self-empowerment (10-20, 10-34, 10-57, 20-34)
+- Integration Channels — The four channels of self-empowerment (10-20, 10-34, 10-57, 20-34)
 - [[Channel 10-34 - Exploration]] — Following convictions
 - [[Channel 10-57 - Survival]] — Perfected form
 
@@ -343,7 +343,7 @@ Jung's process of individuation is the journey to the Self. The Channel 10-20 in
 - [[Projector]] — The natural Type for this Projected channel
 - Strategy and [[Authority]] — The decision-making framework
 - Wait for the Invitation — The Projector's Strategy
-- [[Bitterness (Not-Self)]] — The Projector's Not-Self theme
+- Bitterness (Not-Self theme) — The Projector's Not-Self theme
 
 ### Cross-System Correspondences
 - I-Ching Hexagram 10 - Treading — The source hexagram for Gate 10
@@ -354,7 +354,7 @@ Jung's process of individuation is the journey to the Self. The Channel 10-20 in
 - [[Judgement (XX)]] — Resonance with awakening presence
 
 ### Psychological and Archetypal
-- [[The Awakened One Archetype]] — The being who embodies "I Am"
+- The Awakened One Archetype — The being who embodies "I Am"
 - [[The Self]] — The totality of the psyche
 - [[Individuation Process]] — Jung's concept of becoming whole
 
@@ -364,7 +364,7 @@ Jung's process of individuation is the journey to the Self. The Channel 10-20 in
 - Metabolic Alignment — The connection between authentic expression and energy
 
 ### Practical Application
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Self-Love as Survival]] — Loving oneself as the foundation of Integration
 - Present-Moment Awareness — Living in the now
 

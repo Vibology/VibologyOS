@@ -402,8 +402,8 @@ This is the essence of the Individual Centering Circuit: **centering in one's ow
 - [[Channel 26-44 - Surrender]] — Ego-Spleen tribal ego dynamics
 
 ### Circuit Connections (Individual Stream)
-- [[Individual Knowing Circuit]] — Mutation, uniqueness, empowerment through example
-- [[Individual Integration Channels]] — Self-empowerment channels (10-20, 20-34, 10-57, 34-57)
+- Individual Knowing Circuit — Mutation, uniqueness, empowerment through example
+- Individual Integration Channels — Self-empowerment channels (10-20, 20-34, 10-57, 34-57)
 
 ### Cross-System Correspondences
 - I-Ching Hexagram 25 - Innocence — Uncontrived spontaneous action
@@ -412,13 +412,13 @@ This is the essence of the Individual Centering Circuit: **centering in one's ow
 - Gene Keys 51 - Agitation to Awakening — Shadow-Gift-Siddhi framework for Gate 51
 - [[The Fool (0)]] — Innocent leap into the unknown
 - [[The Tower (XVI)]] — Sudden shock and awakening
-- [[Tiphareth (Qabalah)]] — The heart/beauty sphere balancing will and spirit
+- Tiphareth (Qabalah) — The heart/beauty sphere balancing will and spirit
 
 ### Thematic Collections
-- [[Ego Center Channels]] — All channels involving the Heart/Ego Center
-- [[G Center Channels]] — All channels involving the Identity/Direction center
+- [[Heart]] Channels — All channels involving the Heart/Ego Center
+- G Center Channels — All channels involving the Identity/Direction center
 - [[Projected Channels]] — Channels requiring recognition and invitation
-- [[Channels of Courage]] — Channels related to willpower and bravery
+- Channels of Courage — Channels related to willpower and bravery
 
 ### Archetypal and Mythological
 - [[The Hero's Journey]] — Campbell's monomyth of initiation and transformation
@@ -427,16 +427,16 @@ This is the essence of the Individual Centering Circuit: **centering in one's ow
 - [[Mars (Astrology)]] — Planetary archetype of will, courage, and initiation
 
 ### Biological and Somatic
-- [[Ego Center]] — The center of willpower, promises, and material world engagement
+- [[Heart]] — The center of willpower, promises, and material world engagement
 - [[G Center]] — The center of identity, direction, and love
 - Thymus/Heart — Biological correspondence to Ego Center
-- [[Liver/Magnetic Monopole]] — Biological correspondence to G Center
+- Liver/Magnetic Monopole — Biological correspondence to G Center
 
 ### Practical Application
 - Strategy and [[Authority]] — Waiting for recognition (Projector strategy) despite competitive urge
-- [[Defined vs. Undefined Centers]] — Understanding fixed vs. variable initiatory energy
-- [[The 7-Year Deconditioning Cycle]] — Returning to authentic initiatory alignment
-- [[Ego Sustainability]] — Understanding the Ego's need for rest and conservation
+- Defined vs. Undefined Centers — Understanding fixed vs. variable initiatory energy
+- The 7-Year Deconditioning Cycle — Returning to authentic initiatory alignment
+- Ego Sustainability — Understanding the Ego's need for rest and conservation
 
 ## Sources
 **Primary Source:**

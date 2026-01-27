@@ -107,7 +107,7 @@ When recognized and aligned (not identifying with moods, waiting for clarity), t
 - [[Channel 12-22 - Openness]] — Individual emotional voice (Solar Plexus-Throat)
 - [[Root]] — Pressure and drive
 - [[Solar Plexus]] — Emotional awareness and wave
-- [[Individual Knowing Circuit]] — Mutation, uniqueness, acoustic knowing
+- Individual Knowing Circuit — Mutation, uniqueness, acoustic knowing
 - [[Emotional Authority]] — Waiting through the wave for clarity
 
 ## Sources

@@ -341,16 +341,16 @@ Jung's process of individuation requires **reflecting on one's experiences and i
 - [[Throat]] — The center of manifestation and expression
 
 ### Circuit Family
-- [[Collective Abstract Circuit]] — The broader circuit family
+- Collective Abstract Circuit — The broader circuit family
 - [[Channel 47-64 - Abstraction]] — Making sense of the past
 - [[Channel 35-36 - Transitoriness]] — Emotional crisis and progress
-- [[Collective Circuit Gates]] — All gates within the Collective stream
+- Collective Circuit Gates — All gates within the Collective stream
 
 ### Type and Strategy
 - [[Projector]] — The natural Type for this Projected channel
 - Strategy and [[Authority]] — The decision-making framework
 - Wait for the Invitation — The Projector's Strategy
-- [[Bitterness (Not-Self)]] — The Projector's Not-Self theme
+- Bitterness (Not-Self theme) — The Projector's Not-Self theme
 
 ### Cross-System Correspondences
 - I-Ching Hexagram 11 - Peace — The source hexagram for Gate 11
@@ -361,9 +361,9 @@ Jung's process of individuation requires **reflecting on one's experiences and i
 - [[The Lovers (VI)]] — Resonance with stimulating narrative
 
 ### Psychological and Archetypal
-- [[The Storyteller Archetype]] — The one who shares wisdom through narrative
-- [[The Wanderer Archetype]] — The one who gathers experiences
-- [[The Sage Archetype]] — The one who contemplates meaning
+- The Storyteller Archetype — The one who shares wisdom through narrative
+- The Wanderer Archetype — The one who gathers experiences
+- The Sage Archetype — The one who contemplates meaning
 - [[Individuation Process]] — Jung's concept of integrating experience
 
 ### Biological and Somatic
@@ -372,8 +372,8 @@ Jung's process of individuation requires **reflecting on one's experiences and i
 - [[Mental Stimulation]] — The drive to ideate and express
 
 ### Practical Application
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
-- [[Waiting for Invitation to Share]] — Storytelling only when recognized
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
+- Waiting for Invitation to Share — Storytelling only when recognized
 - [[Searching and Reflecting]] — Gathering experiences and distilling meaning
 
 ## Sources

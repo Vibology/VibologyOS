@@ -349,16 +349,16 @@ This is the melancholy of the Individual: **to be oneself is to be alone**. But 
 - [[Throat]] — The center of manifestation and expression
 
 ### Circuit Family
-- [[Individual Knowing Circuit]] — The broader circuit family
+- Individual Knowing Circuit — The broader circuit family
 - [[Channel 24-61 - Awareness]] — Mental knowing in the Individual stream
 - [[Channel 43-23 - Structuring]] — Efficiency and insight in the Individual stream
-- [[Individual Circuit Gates]] — All gates within the Individual stream
+- Individual Circuit Gates — All gates within the Individual stream
 
 ### Type and Strategy
 - [[Projector]] — The natural Type for this Projected channel
 - Strategy and [[Authority]] — The decision-making framework
 - Wait for the Invitation — The Projector's Strategy
-- [[Bitterness (Not-Self)]] — The Projector's Not-Self theme
+- Bitterness (Not-Self theme) — The Projector's Not-Self theme
 
 ### Cross-System Correspondences
 - I-Ching Hexagram 1 - The Creative — The source hexagram for Gate 1
@@ -369,20 +369,20 @@ This is the melancholy of the Individual: **to be oneself is to be alone**. But 
 - [[Strength (VIII)]] — Resonance with disciplined creative expression
 
 ### Psychological and Archetypal
-- [[The Creator Archetype]] — Jungian pattern of bringing forth new realities
+- The Creator Archetype — Jungian pattern of bringing forth new realities
 - [[Individuation Process]] — Jung's concept of becoming oneself
 - [[Self and Persona]] — The integration of inner truth and outer expression
 - [[Melancholy (Individual)]] — The existential aloneness of mutation
 
 ### Biological and Somatic
-- [[Magnetic Monopole]] — The orientation mechanism in the G Center
+- Magnetic Monopole — The orientation mechanism in the G Center
 - Liver (Biology) — The organ associated with the G Center
 - Thyroid and Parathyroid — The glands associated with the Throat Center
-- [[Defined vs. Undefined Centers]] — Understanding fixed vs. variable energy
+- Defined vs. Undefined Centers — Understanding fixed vs. variable energy
 
 ### Practical Application
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
-- [[Electromagnetic Completion]] — How channels complete in relationships
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
+- Electromagnetic Completion — How channels complete in relationships
 - [[Individual Empowerment vs. Collective Leadership]] — Distinguishing roles
 
 ## Sources

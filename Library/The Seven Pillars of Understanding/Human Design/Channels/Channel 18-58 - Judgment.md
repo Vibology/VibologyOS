@@ -308,7 +308,7 @@ When recognized and invited, the 18-58 individual becomes the **guardian of qual
 - [[Channel 17-62 - Acceptance]] — Logic Circuit partner (opinions and details)
 - [[Root]] — Pressure and drive
 - [[Spleen]] — Instinct, health, in-the-now awareness
-- [[Collective Understanding Circuit]] — Logic, patterns, security
+- Collective Understanding Circuit — Logic, patterns, security
 - [[Projector Type]] — Recognition, invitation, and guidance
 - [[Gene Keys]] — Shadow/Gift/Siddhi framework
 - [[Justice (XI)]] — Discernment and correction

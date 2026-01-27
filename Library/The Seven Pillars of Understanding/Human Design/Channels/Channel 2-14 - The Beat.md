@@ -338,7 +338,7 @@ Jung's process of individuation requires **reclaiming projected power**. The Cha
 - [[Sacral]] — The center of life force, sexuality, and sustainable energy
 
 ### Circuit Family
-- [[Individual Knowing Circuit]] — The broader circuit family
+- Individual Knowing Circuit — The broader circuit family
 - [[Channel 1-8 - Inspiration]] — Creative contribution in the Individual stream
 - [[Channel 3-60 - Mutation]] — Format energy in the Individual stream
 - [[Tantric Channels]] — The three Sacral-to-G channels (2-14, 5-15, 29-46)
@@ -359,19 +359,19 @@ Jung's process of individuation requires **reclaiming projected power**. The Cha
 - [[Temperance (XIV)]] — Resonance with accumulated mastery
 
 ### Psychological and Archetypal
-- [[The Sovereign Archetype]] — Ruler of one's own kingdom
+- The Sovereign Archetype — Ruler of one's own kingdom
 - [[Individuation Process]] — Jung's concept of becoming whole
 - [[Self and Shadow]] — The integration of identity and reclaimed power
 
 ### Biological and Somatic
-- [[Magnetic Monopole]] — The orientation mechanism in the G Center
+- Magnetic Monopole — The orientation mechanism in the G Center
 - Liver (Biology) — The organ associated with the G Center
 - Ovaries and Testes — The reproductive organs associated with the Sacral
 - [[Tantric Energy]] — Sexual energy as fuel for identity and direction
 
 ### Practical Application
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
-- [[Electromagnetic Completion]] — How channels complete in relationships
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
+- Electromagnetic Completion — How channels complete in relationships
 - [[Individual Empowerment vs. Collective Leadership]] — Distinguishing roles
 
 ## Sources

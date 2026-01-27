@@ -337,16 +337,16 @@ Jung's process of individuation requires **recognizing the difference between eg
 - [[Throat]] — The center of manifestation and expression
 
 ### Circuit Family
-- [[Collective Logic Circuit]] — The broader circuit family
+- Collective Logic Circuit — The broader circuit family
 - [[Channel 4-63 - Logic]] — Questioning patterns in the Logic stream
 - [[Channel 5-15 - Rhythm]] — Living in flow in the Logic stream
-- [[Collective Circuit Gates]] — All gates within the Collective stream
+- Collective Circuit Gates — All gates within the Collective stream
 
 ### Type and Strategy
 - [[Projector]] — The natural Type for this Projected channel
 - Strategy and [[Authority]] — The decision-making framework
 - Wait for the Invitation — The Projector's Strategy
-- [[Bitterness (Not-Self)]] — The Projector's Not-Self theme
+- Bitterness (Not-Self theme) — The Projector's Not-Self theme
 
 ### Cross-System Correspondences
 - I-Ching Hexagram 7 - The Army — The source hexagram for Gate 7
@@ -357,8 +357,8 @@ Jung's process of individuation requires **recognizing the difference between eg
 - [[Judgement (XX)]] — Resonance with influential voice
 
 ### Psychological and Archetypal
-- [[The King/Queen Archetype]] — The mature, recognized leader
-- [[Democratic Leadership]] — Leading by consent, not force
+- The King/Queen Archetype — The mature, recognized leader
+- Democratic Leadership — Leading by consent, not force
 - [[Individuation Process]] — Jung's concept of ego vs. Self
 
 ### Biological and Somatic
@@ -367,8 +367,8 @@ Jung's process of individuation requires **recognizing the difference between eg
 - [[Magnetic Presence]] — The leadership aura of the G-to-Throat connection
 
 ### Practical Application
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
-- [[Waiting for Recognition]] — Leading only when invited
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
+- Waiting for Recognition — Leading only when invited
 - [[Stepping Down]] — Releasing leadership when the role is complete
 
 ## Sources

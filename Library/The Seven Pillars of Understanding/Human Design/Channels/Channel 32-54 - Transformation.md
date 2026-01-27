@@ -108,7 +108,7 @@ When recognized and invited, the 32-54 individual becomes the **strategic adviso
 - [[Channel 21-45 - Money]] — Tribal resource control
 - [[Spleen]] — Instinctive awareness and survival
 - [[Root]] — Pressure and drive
-- [[Tribal Ego Circuit]] — Channels of material support and hierarchy
+- Tribal Ego Circuit — Channels of material support and hierarchy
 - [[Projected Channels]] — Recognition and invitation required
 
 ## Sources

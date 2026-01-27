@@ -108,8 +108,8 @@ When aligned with Sacral response (starting when correct, completing when sustai
 - [[Channel 9-52 - Concentration]] — Format Energy (focus through stillness)
 - [[Root]] — Pressure and drive
 - [[Sacral]] — Life-force and response
-- [[Collective Sensing Circuit]] — Experience-based abstract learning
-- [[Format Channels]] — Pulsing energy (3-60, 9-52, 42-53)
+- Collective Sensing Circuit — Experience-based abstract learning
+- Format Channels — Pulsing energy (3-60, 9-52, 42-53)
 
 ## Sources
 **Primary Source:**

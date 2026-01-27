@@ -312,7 +312,7 @@ When recognized and invited, the 23-43 individual becomes the **voice of mutatio
 - [[Channel 28-38 - The Fighter]] — Individual Knowing partner (struggle for purpose)
 - [[Ajna]] — Conceptualization and mental processing
 - [[Throat]] — Manifestation and voice
-- [[Individual Knowing Circuit]] — Mutation, empowerment, acoustic awareness
+- Individual Knowing Circuit — Mutation, empowerment, acoustic awareness
 - [[Projector Type]] — Recognition, invitation, and guidance
 - [[Gene Keys]] — Shadow/Gift/Siddhi framework
 - [[The Fool (0)]] — Individual mutation and leap of faith

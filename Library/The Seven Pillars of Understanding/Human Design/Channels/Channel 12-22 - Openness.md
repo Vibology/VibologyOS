@@ -424,14 +424,14 @@ When the individual honors the wave, waits for clarity, and speaks only what is 
 - [[Gate 22 - Grace]]
 - [[Throat]]
 - [[Solar Plexus]]
-- [[Individual Knowing Circuit]]
+- Individual Knowing Circuit
 - [[Manifestor Type]]
 - [[Manifesting Generator Type]]
 - [[Emotional Authority]]
-- [[Definition - Single Definition]]
+- Single Definition
 - Strategy and [[Authority]]
-- [[Not-Self Theme]]
-- [[Deconditioning Process]]
+- Not-Self Theme
+- Deconditioning Process
 
 **I-Ching:**
 - [[Hexagram 12 - Standstill (Pi)]]
@@ -459,9 +459,9 @@ When the individual honors the wave, waits for clarity, and speaks only what is 
 
 **Jungian Psychology:**
 - [[The Transcendent Function]]
-- [[Shadow Integration]]
+- Shadow Integration
 - [[Individuation]]
-- [[The Poet Archetype]]
+- The Poet Archetype
 - Feeling Function
 
 **Related Channels:**

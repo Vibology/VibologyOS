@@ -337,10 +337,10 @@ Jung's process of individuation requires **focused attention on the psyche's con
 - [[Sacral]] — The center of life force, sexuality, and sustainable energy
 
 ### Circuit Family
-- [[Collective Logic Circuit]] — The broader circuit family
+- Collective Logic Circuit — The broader circuit family
 - [[Channel 4-63 - Logic]] — Questioning patterns in the Logic stream
 - [[Channel 5-15 - Rhythm]] — Living in flow in the Logic stream
-- [[Format Energy Channels]] — The three pulsing channels (3-60, 9-52, 42-53)
+- Format Energy Channels — The three pulsing channels (3-60, 9-52, 42-53)
 
 ### Type and Strategy
 - [[Generator]] — The natural Type for this Generated channel
@@ -358,18 +358,18 @@ Jung's process of individuation requires **focused attention on the psyche's con
 - [[Temperance (XIV)]] — Resonance with restraint and stillness
 
 ### Psychological and Archetypal
-- [[The Master Archetype]] — The one who perfects through focus
+- The Master Archetype — The one who perfects through focus
 - [[Individuation Process]] — Jung's concept of becoming whole
 - [[Senex and Puer]] — The integration of wisdom and determination
 
 ### Biological and Somatic
 - Adrenal Glands — The stress-response system in the Root
 - Ovaries and Testes — The reproductive organs in the Sacral
-- [[Format Energy]] — The pulsing rhythm that structures time
+- Format Energy — The pulsing rhythm that structures time
 - Burnout and Adrenal Fatigue — The consequence of ignoring the pulse
 
 ### Practical Application
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Honoring the Pulse]] — Learning to focus during "on" periods and rest during "off" periods
 - [[Mastery Through Rhythm]] — Perfecting skills through the cycle of concentration and stillness
 

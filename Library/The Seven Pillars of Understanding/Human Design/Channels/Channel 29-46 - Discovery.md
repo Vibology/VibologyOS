@@ -417,8 +417,8 @@ This is the essence of the Tantric channels: **the life-force energy reveals ide
 - [[Channel 29-46 - Discovery]] — Sacral-G Collective Abstract serendipity
 
 ### Circuit Connections (Collective Stream)
-- [[Collective Understanding (Logic) Circuit]] — Patterns, security, future focus
-- [[Collective Sensing (Abstract) Circuit]] — Experience, reflection, past focus
+- Collective Understanding (Logic) Circuit — Patterns, security, future focus
+- Collective Sensing (Abstract) Circuit — Experience, reflection, past focus
 
 ### Cross-System Correspondences
 - I-Ching Hexagram 29 - The Abysmal — Persistence through danger
@@ -427,16 +427,16 @@ This is the essence of the Tantric channels: **the life-force energy reveals ide
 - Gene Keys 46 - Seriousness to Ecstasy — Shadow-Gift-Siddhi framework
 - [[The Hanged Man (XII)]] — Surrender and committed perspective shift
 - [[The Wheel of Fortune (X)]] — Luck, serendipity, cycles
-- [[Chesed and Netzach (Qabalah)]] — Mercy and Victory
+- Chesed and Netzach (Qabalah) — Mercy and Victory
 
 ### Thematic Collections
 - [[Sacral Center Channels]] — All channels involving life-force energy
-- [[G Center Channels]] — All channels involving identity and direction
+- G Center Channels — All channels involving identity and direction
 - [[Generated Channels]] — All channels requiring Sacral response
 - [[Tantric Channels]] — Sacral-G connections (5-15, 2-14, 29-46)
 
 ### Archetypal and Mythological
-- [[The Seeker Archetype]] — Odysseus, the Wanderer, the Pilgrim
+- The Seeker Archetype — Odysseus, the Wanderer, the Pilgrim
 - [[Neptune (Astrology)]] — Planetary archetype of surrender and flow
 - [[Jupiter (Astrology)]] — Planetary archetype of expansion and luck
 - [[The Hero's Journey]] — Discovery through committed experience
@@ -444,13 +444,13 @@ This is the essence of the Tantric channels: **the life-force energy reveals ide
 ### Biological and Somatic
 - [[Sacral]] — The center of life-force and sexual energy
 - [[G Center]] — The center of identity, direction, and love
-- [[Magnetic Monopole]] — Ra's term for the orientation mechanism
+- Magnetic Monopole — Ra's term for the orientation mechanism
 - [[Reproductive/Sexual Energy]] — Biological correspondence to Tantric channels
 
 ### Practical Application
 - Strategy and [[Authority]] — Waiting for Sacral response before committing
-- [[Defined vs. Undefined Centers]] — Understanding fixed vs. variable commitment energy
-- [[The 7-Year Deconditioning Cycle]] — Returning to aligned commitment
+- Defined vs. Undefined Centers — Understanding fixed vs. variable commitment energy
+- The 7-Year Deconditioning Cycle — Returning to aligned commitment
 - [[Tantric Practice]] — Understanding Sacral-G energy and sexual/creative force
 
 ## Sources

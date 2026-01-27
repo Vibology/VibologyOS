@@ -108,7 +108,7 @@ When recognized and invited, the 47-64 individual becomes the **wise reflector**
 - [[Channel 24-61 - Awareness]] — Head-Ajna individual knowing (Individual Circuit)
 - [[Head]] — Mental pressure and inspiration
 - [[Ajna]] — Mental awareness and processing
-- [[Collective Sensing Circuit]] — Experience-based abstract learning
+- Collective Sensing Circuit — Experience-based abstract learning
 - [[Projected Channels]] — Recognition and invitation required
 
 ## Sources

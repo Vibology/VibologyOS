@@ -413,8 +413,8 @@ This is the essence of the Tribal Ego Circuit: **using willpower to serve the tr
 - [[Channel 27-50 - Preservation]] — Sacral-Spleen tribal nurturing and values
 
 ### Circuit Connections (Tribal Stream)
-- [[Tribal Defense Circuit]] — Channels 6-59 (Mating), 27-50 (Preservation)
-- [[Tribal Ego Circuit]] — All channels connecting Ego to other centers for tribal support
+- Tribal Defense Circuit — Channels 6-59 (Mating), 27-50 (Preservation)
+- Tribal Ego Circuit — All channels connecting Ego to other centers for tribal support
 
 ### Cross-System Correspondences
 - I-Ching Hexagram 26 - Taming Power of the Great — Accumulation and strategic deployment
@@ -423,31 +423,31 @@ This is the essence of the Tribal Ego Circuit: **using willpower to serve the tr
 - Gene Keys 44 - Interference to Synarchy — Shadow-Gift-Siddhi framework for Gate 44
 - [[The Magician (I)]] — Manipulation through will and presentation
 - [[The Hierophant (V)]] — Gatekeeper of tradition and pattern
-- [[Geburah (Qabalah)]] — Sphere of severity, strength, and willful control
+- Geburah (Qabalah) — Sphere of severity, strength, and willful control
 
 ### Thematic Collections
-- [[Ego Center Channels]] — All channels involving the Heart/Ego Center
+- [[Heart]] Channels — All channels involving the Heart/Ego Center
 - [[Spleen Center Channels]] — All channels involving instinctive awareness
 - [[Projected Channels]] — Channels requiring recognition and invitation
-- [[Channels of Influence]] — Channels related to persuasion and narrative control
+- Channels of Influence — Channels related to persuasion and narrative control
 
 ### Archetypal and Mythological
-- [[The Trickster Archetype]] — Hermes, Loki, Anansi—shapeshifters and boundary-crossers
+- The Trickster Archetype — Hermes, Loki, Anansi—shapeshifters and boundary-crossers
 - [[The Salesperson/Marketer]] — Modern embodiment of persuasive transmission
 - [[Mercury (Astrology)]] — Planetary archetype of intelligence and communication
 - [[Saturn (Astrology)]] — Planetary archetype of authority and structure
 
 ### Biological and Somatic
-- [[Ego Center]] — The center of willpower, promises, and material engagement
+- [[Heart]] — The center of willpower, promises, and material engagement
 - [[Spleen]] — The center of instinct, immune system, and survival awareness
 - Thymus/Heart — Biological correspondence to Ego Center
 - Immune System — Biological correspondence to Spleen Center
 
 ### Practical Application
 - Strategy and [[Authority]] — Waiting for recognition (Projector strategy) despite persuasive urge
-- [[Defined vs. Undefined Centers]] — Understanding fixed vs. variable transmissive energy
-- [[The 7-Year Deconditioning Cycle]] — Returning to authentic tribal service
-- [[Ego Sustainability]] — Understanding the Ego's need for rest and conservation
+- Defined vs. Undefined Centers — Understanding fixed vs. variable transmissive energy
+- The 7-Year Deconditioning Cycle — Returning to authentic tribal service
+- Ego Sustainability — Understanding the Ego's need for rest and conservation
 - [[Tribal Dynamics]] — Understanding bargains, promises, and tribal hierarchy
 
 ## Sources

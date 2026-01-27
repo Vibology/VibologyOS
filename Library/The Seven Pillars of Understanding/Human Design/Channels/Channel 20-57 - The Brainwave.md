@@ -325,8 +325,8 @@ When recognized and invited, the 20-57 individual becomes the **intuitive oracle
 - [[Channel 34-57 - Power]] — Integration Circuit partner (Spleen-Sacral)
 - [[Spleen]] — Intuition, immunity, fear, survival awareness
 - [[Throat]] — Manifestation, voice, action
-- [[Integration Circuit]] — Self-empowerment, survival, presence
-- [[Individual Knowing Circuit]] — Mutation, melancholy, acoustic knowing
+- Integration Circuit — Self-empowerment, survival, presence
+- Individual Knowing Circuit — Mutation, melancholy, acoustic knowing
 - [[Projector Type]] — Recognition, invitation, guidance
 - [[Splenic Authority]] — Instantaneous, in-the-moment knowing
 - [[Gene Keys]] — Shadow/Gift/Siddhi framework

@@ -414,12 +414,12 @@ When the 13-33 shares from full integration (adequate retreat, invitation honore
 - [[Gate 33 - Retreat]]
 - [[G Center]]
 - [[Throat]]
-- [[Collective Sensing/Abstract Circuit]]
+- Collective Sensing/Abstract Circuit
 - [[Projector Type]]
 - [[Strategy - Wait for Invitation]]
-- [[Definition - Single Definition]]
-- [[Not-Self Theme]]
-- [[Deconditioning Process]]
+- Single Definition
+- Not-Self Theme
+- Deconditioning Process
 
 **I-Ching:**
 - [[Hexagram 13 - Fellowship of Man (Tóng Rén)]]
@@ -445,8 +445,8 @@ When the 13-33 shares from full integration (adequate retreat, invitation honore
 
 **Jungian Psychology:**
 - [[The Collective Unconscious]]
-- [[The Witness Archetype]]
-- [[The Storyteller Archetype]]
+- The Witness Archetype
+- The Storyteller Archetype
 - [[The Prodigal Journey]]
 
 **Related Channels:**

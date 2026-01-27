@@ -312,7 +312,7 @@ When recognized and invited, the 17-62 individual becomes the **architect of log
 - [[Channel 18-58 - Judgment]] — Logic Circuit partner (correction and perfection)
 - [[Ajna]] — Conceptualization and mental processing
 - [[Throat]] — Expression and manifestation
-- [[Collective Understanding Circuit]] — Logic, patterns, security
+- Collective Understanding Circuit — Logic, patterns, security
 - [[Projector Type]] — Recognition, invitation, and guidance
 - [[Gene Keys]] — Shadow/Gift/Siddhi framework
 - [[The Hierophant (V)]] — Organized systems and teaching

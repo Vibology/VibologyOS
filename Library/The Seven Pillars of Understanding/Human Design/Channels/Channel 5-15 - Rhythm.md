@@ -334,7 +334,7 @@ Jung's process of individuation requires **patience with the psyche's natural rh
 - [[G Center]] — The center of identity, direction, and love
 
 ### Circuit Family
-- [[Collective Logic Circuit]] — The broader circuit family
+- Collective Logic Circuit — The broader circuit family
 - [[Channel 4-63 - Logic]] — Questioning patterns in the Logic stream
 - [[Channel 7-31 - The Alpha]] — Democratic leadership in the Logic stream
 - [[Tantric Channels]] — The three Sacral-to-G channels (2-14, 5-15, 29-46)
@@ -355,7 +355,7 @@ Jung's process of individuation requires **patience with the psyche's natural rh
 - [[Temperance (XIV)]] — Resonance with balance and alchemy
 
 ### Psychological and Archetypal
-- [[The Gardener Archetype]] — The one who attunes to natural cycles
+- The Gardener Archetype — The one who attunes to natural cycles
 - [[Individuation Process]] — Jung's concept of becoming whole
 - [[Self and Lover]] — The integration of patience and loving expression
 
@@ -366,9 +366,9 @@ Jung's process of individuation requires **patience with the psyche's natural rh
 - [[Natural Rhythms]] — Seasons, lunar cycles, personal energy patterns
 
 ### Practical Application
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Honoring Rhythm]] — Living in sync with natural cycles
-- [[Balanced Expression]] — Expressing extremes with humility
+- Balanced Expression — Expressing extremes with humility
 
 ## Sources
 **Primary Source:**

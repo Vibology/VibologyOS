@@ -331,10 +331,10 @@ Jung's process of individuation requires **accepting the limitations of the ego*
 - [[Sacral]] — The center of life force, sexuality, and sustainable energy
 
 ### Circuit Family
-- [[Individual Knowing Circuit]] — The broader circuit family
+- Individual Knowing Circuit — The broader circuit family
 - [[Channel 1-8 - Inspiration]] — Creative contribution in the Individual stream
 - [[Channel 2-14 - The Beat]] — Direction and power in the Individual stream
-- [[Format Energy Channels]] — The three pulsing channels (3-60, 9-52, 42-53)
+- Format Energy Channels — The three pulsing channels (3-60, 9-52, 42-53)
 
 ### Type and Strategy
 - [[Generator]] — The natural Type for this Generated channel
@@ -352,18 +352,18 @@ Jung's process of individuation requires **accepting the limitations of the ego*
 - [[The Hanged Man (XII)]] — Resonance with accepting limitation
 
 ### Psychological and Archetypal
-- [[The Revolutionary Archetype]] — The one who births the new
+- The Revolutionary Archetype — The one who births the new
 - [[Individuation Process]] — Jung's concept of becoming whole
 - [[Self and Trickster]] — The integration of order and chaos
 
 ### Biological and Somatic
 - Adrenal Glands — The stress-response system in the Root
 - Ovaries and Testes — The reproductive organs in the Sacral
-- [[Format Energy]] — The pulsing rhythm that structures time
+- Format Energy — The pulsing rhythm that structures time
 - Burnout and Adrenal Fatigue — The consequence of ignoring the pulse
 
 ### Practical Application
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Honoring the Pulse]] — Learning to rest during "off" periods
 - [[Limitation as Doorway]] — Using constraints as catalysts for innovation
 

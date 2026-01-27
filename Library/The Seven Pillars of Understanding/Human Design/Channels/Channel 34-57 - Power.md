@@ -108,7 +108,7 @@ When aligned with Strategy and Authority (responding to intuition in the now), t
 - [[Channel 20-57 - Brainwave]] — Throat-Spleen penetrating awareness
 - [[Sacral]] — Life-force and response
 - [[Spleen]] — Instinct and survival awareness
-- [[Integration Channels]] — Pure self-empowerment (10-20, 20-34, 10-57, 34-57)
+- Integration Channels — Pure self-empowerment (10-20, 20-34, 10-57, 34-57)
 - [[Splenic Authority]] — In-the-now intuitive decision-making
 
 ## Sources

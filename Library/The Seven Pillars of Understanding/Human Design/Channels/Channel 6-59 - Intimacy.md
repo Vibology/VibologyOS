@@ -334,9 +334,9 @@ Jung's process of individuation requires **differentiation before integration**.
 - [[Sacral]] — The center of life force, sexuality, and reproductive energy
 
 ### Circuit Family
-- [[Tribal Defense Circuit]] — The broader circuit family
+- Tribal Defense Circuit — The broader circuit family
 - [[Channel 27-50 - Preservation]] — Nurturing and values in the Tribal stream
-- [[Tribal Circuit Gates]] — All gates within the Tribal stream
+- Tribal Circuit Gates — All gates within the Tribal stream
 - [[Mating and Reproduction]] — The biological imperative of the Defense Circuit
 
 ### Type and Strategy
@@ -355,20 +355,20 @@ Jung's process of individuation requires **differentiation before integration**.
 - [[The Moon (XVIII)]] — Resonance with dissolution of barriers
 
 ### Psychological and Archetypal
-- [[The Lovers Archetype]] — The one who seeks union
+- The Lovers Archetype — The one who seeks union
 - [[The Syzygy (Divine Couple)]] — Jung's concept of sacred union
 - [[Individuation Process]] — Jung's concept of differentiation before integration
 
 ### Biological and Somatic
 - [[Kidney-Pancreas Complex]] — The Solar Plexus organs
 - Ovaries and Testes — The Sacral reproductive organs
-- [[Emotional Wave]] — The highs, lows, and clarity of emotional authority
+- Emotional Wave — The highs, lows, and clarity of emotional authority
 - Aura Penetration — The unique capacity of Gate 59
 
 ### Practical Application
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Honoring Friction]] — Using conflict to test and strengthen bonds
-- [[Waiting for Emotional Clarity]] — Riding the wave before committing
+- Waiting for Emotional Clarity — Riding the wave before committing
 
 ## Sources
 **Primary Source:**

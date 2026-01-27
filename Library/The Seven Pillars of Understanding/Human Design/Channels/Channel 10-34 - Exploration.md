@@ -332,7 +332,7 @@ Jung's process of individuation requires **living the Self's truth in the world*
 - [[Sacral]] — The center of life force, sexuality, and sustainable energy
 
 ### Circuit Family
-- [[Integration Channels]] — The four channels of self-empowerment (10-20, 10-34, 10-57, 20-34)
+- Integration Channels — The four channels of self-empowerment (10-20, 10-34, 10-57, 20-34)
 - [[Channel 10-20 - Awakening]] — Commitment to higher principles
 - [[Channel 10-57 - Survival]] — Perfected form
 
@@ -352,8 +352,8 @@ Jung's process of individuation requires **living the Self's truth in the world*
 - [[The Emperor (IV)]] — Resonance with empowered authority
 
 ### Psychological and Archetypal
-- [[The Explorer Archetype]] — The one who ventures by their own convictions
-- [[The Hero Archetype]] — The one who has the power to live their truth
+- The Explorer Archetype — The one who ventures by their own convictions
+- The Hero Archetype — The one who has the power to live their truth
 - [[The Self]] — The totality of the psyche
 - [[Individuation Process]] — Jung's concept of living the Self's truth
 
@@ -363,8 +363,8 @@ Jung's process of individuation requires **living the Self's truth in the world*
 - [[Self-Love as Vitality]] — The link between authentic behavior and energy
 
 ### Practical Application
-- [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
-- [[Following Convictions]] — Living by one's own rules
+- The 7-Year Deconditioning Cycle — The process of returning to authentic design
+- Following Convictions — Living by one's own rules
 - [[Self-Empowerment as Survival]] — Being oneself as the foundation of Integration
 
 ## Sources
