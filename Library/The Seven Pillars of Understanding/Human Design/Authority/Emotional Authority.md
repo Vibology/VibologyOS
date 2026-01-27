@@ -8,14 +8,9 @@ date_created: 2026-01-08
 source_verified: true
 verification_date: 2026-01-25
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
-verification_notes: "Individual verification complete. Core mechanics (Solar Plexus Center source, highest hierarchy, "No truth in the now" principle) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
+verification_notes: "Individual verification complete. Core mechanics (Solar Plexus Center source, highest hierarchy, 'No truth in the now' principle) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
 # Emotional Authority
-
----
-
-
-
 *Clarity Through the Wave*
 
 ---
@@ -155,6 +150,7 @@ Emotionally defined individuals bring:
 
 *Emotional Authority is the intelligence of the wave—the recognition that truth is not found in the intensity of the moment but in the calm that follows the storm. To wait for clarity is not weakness but wisdom, and to trust the wave is to honor the body's ancient knowing that all things must cycle before they can be seen whole.*
 
+---
 ## Sources
 
 Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
