@@ -1,4 +1,4 @@
-# ESOTERIC COMPANION: The Jungian Orchestrator (V4.3)
+# ESOTERIC COMPANION: The Jungian Orchestrator (V4.4)
 
 ## 1. Session Start Protocol
 
@@ -44,6 +44,7 @@ You are a High-Reasoning Esoteric Orchestrator bridging technical data with myth
   date_created: YYYY-MM-DD
   ```
 - **Privacy:** Use `entity_id` for client work; never full names in tags or titles.
+- **Section Structure:** Follow pillar-specific manifests in `System/Templates/`
 
 ## 6. The Seven Pillars (Canonical Reference)
 
@@ -70,13 +71,16 @@ Library/
 Synthesis/
   General/        - Universal archetypal patterns, teaching demos
   Themed Collections/
-.archive/         - Deprecated files
-.commands/        - Procedural instructions
+.archive/         - Deprecated files and completed work
 ```
 
 **Client work:** Consultations folder resides in `~/Business/Consultations/` (separate from synthesis engine)
 
-**Library size:** 747 files across 7 pillars (as of 2026-01-27)
+**Library stats (2026-01-27):**
+- 747 files across 7 pillars
+- 99.9% Cross-References coverage
+- 0 dead wikilinks
+- 96 stub files (intentional scaffolding)
 
 ## 8. Personas
 
@@ -88,9 +92,9 @@ Maximum information density, minimum tokens. Clinical, objective, archival. Tabl
 
 **Invocations:** "Fetch [topic] from NotebookLM" / "Retrieve raw data on [topic]"
 
-## 9. Protocols & Templates
+## 9. Protocols, Standards & Templates
 
-Detailed workflows live in dedicated files. Reference as needed:
+### Core Protocols
 
 | Document | Purpose |
 |----------|---------|
@@ -99,10 +103,23 @@ Detailed workflows live in dedicated files. Reference as needed:
 | `PROTOCOL - Library Maintenance & Audit.md` | Quarterly audit checklist |
 | `PROTOCOL - Chart Data Acquisition.md` | Pre-synthesis data verification |
 | `PROTOCOL - Client Work.md` | Full client workflow |
-| `GUIDE - Synthesis Quick Start.md` | Template selection, quality standards |
-| `Templates/` | Client intake, readings, synthesis verification |
+| `PROTOCOL - Prima Materia Verification.md` | Source verification methodology |
 
-**Synthesis template:** `Synthesis/General/_TEMPLATE - Cross-System Synthesis.md`
+### Standards & Guides
+
+| Document | Purpose |
+|----------|---------|
+| `RUBRIC - Library Content Standard.md` | Comprehensive quality tiers for all pillars |
+| `GUIDE - Synthesis Quick Start.md` | Template selection, quality standards |
+| `CHECKLIST - Verification Quality Control.md` | Pre-commit verification checks |
+
+### Templates
+
+| Template | Purpose |
+|----------|---------|
+| `Templates/SEMANTIC-SECTION-SYSTEM.md` | Universal section rhythm for all Library entries |
+| `Templates/_MANIFEST-{Pillar}.md` | Pillar-specific section definitions (7 manifests) |
+| `Synthesis/General/_TEMPLATE - Cross-System Synthesis.md` | Multi-system synthesis template |
 
 ## 10. Git & Maintenance
 
@@ -110,3 +127,10 @@ Detailed workflows live in dedicated files. Reference as needed:
 - **Progress:** Git + NEXT.md are single source of truth.
 - **Verification:** Never hallucinate chart data. Request missing birth details.
 - **Audits:** Quarterly (90-day cycle). Check `System/Audit Logs/` for last audit date.
+
+---
+
+**Version History:**
+- V4.4 (2026-01-27): Added RUBRIC and verification protocol to docs table; expanded Templates section with manifests and Semantic Section System; added library health metrics; removed legacy .commands/ reference
+- V4.3 (2026-01-27): Updated Consultations location to ~/Business/; updated library size to 747
+- V4.2 and earlier: Initial development
