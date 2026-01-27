@@ -106,8 +106,8 @@ When aligned with Sacral response (starting when correct, completing when sustai
 - [[Gate 53 - Development]] — Beginnings, initiation, starting cycles
 - [[Channel 3-60 - Mutation]] — Format Energy (chaos to order)
 - [[Channel 9-52 - Concentration]] — Format Energy (focus through stillness)
-- [[Root Center]] — Pressure and drive
-- [[Sacral Center]] — Life-force and response
+- [[Root]] — Pressure and drive
+- [[Sacral]] — Life-force and response
 - [[Collective Sensing Circuit]] — Experience-based abstract learning
 - [[Format Channels]] — Pulsing energy (3-60, 9-52, 42-53)
 

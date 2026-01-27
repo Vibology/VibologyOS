@@ -421,8 +421,8 @@ This is the essence of the Tribal Ego Circuit: **using willpower to serve the tr
 - [[I-Ching Hexagram 44 - Coming to Meet]] — Caution in engagement, pattern recognition
 - [[Gene Keys 26 - Pride to Invisibility]] — Shadow-Gift-Siddhi framework for Gate 26
 - [[Gene Keys 44 - Interference to Synarchy]] — Shadow-Gift-Siddhi framework for Gate 44
-- [[The Magician (Tarot)]] — Manipulation through will and presentation
-- [[The Hierophant (Tarot)]] — Gatekeeper of tradition and pattern
+- [[The Magician (I)]] — Manipulation through will and presentation
+- [[The Hierophant (V)]] — Gatekeeper of tradition and pattern
 - [[Geburah (Qabalah)]] — Sphere of severity, strength, and willful control
 
 ### Thematic Collections
@@ -439,12 +439,12 @@ This is the essence of the Tribal Ego Circuit: **using willpower to serve the tr
 
 ### Biological and Somatic
 - [[Ego Center]] — The center of willpower, promises, and material engagement
-- [[Spleen Center]] — The center of instinct, immune system, and survival awareness
+- [[Spleen]] — The center of instinct, immune system, and survival awareness
 - [[Thymus/Heart]] — Biological correspondence to Ego Center
 - [[Immune System]] — Biological correspondence to Spleen Center
 
 ### Practical Application
-- [[Strategy and Authority]] — Waiting for recognition (Projector strategy) despite persuasive urge
+- Strategy and [[Authority]] — Waiting for recognition (Projector strategy) despite persuasive urge
 - [[Defined vs. Undefined Centers]] — Understanding fixed vs. variable transmissive energy
 - [[The 7-Year Deconditioning Cycle]] — Returning to authentic tribal service
 - [[Ego Sustainability]] — Understanding the Ego's need for rest and conservation

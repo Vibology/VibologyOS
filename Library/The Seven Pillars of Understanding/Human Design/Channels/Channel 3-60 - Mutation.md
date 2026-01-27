@@ -327,8 +327,8 @@ Jung's process of individuation requires **accepting the limitations of the ego*
 ### Channel and Gate Connections
 - [[Gate 03 - Difficulty at the Beginning]] — The Sacral anchor of innovation and new beginnings
 - [[Gate 60 - Limitation]] — The Root anchor of accepting constraints
-- [[Root Center]] — The center of pressure, stress, and drive
-- [[Sacral Center]] — The center of life force, sexuality, and sustainable energy
+- [[Root]] — The center of pressure, stress, and drive
+- [[Sacral]] — The center of life force, sexuality, and sustainable energy
 
 ### Circuit Family
 - [[Individual Knowing Circuit]] — The broader circuit family
@@ -337,19 +337,19 @@ Jung's process of individuation requires **accepting the limitations of the ego*
 - [[Format Energy Channels]] — The three pulsing channels (3-60, 9-52, 42-53)
 
 ### Type and Strategy
-- [[Generators]] — The natural Type for this Generated channel
-- [[Manifesting Generators]] — The multi-passionate variant
-- [[Strategy and Authority]] — The decision-making framework
+- [[Generator]] — The natural Type for this Generated channel
+- Manifesting [[Generator]]s — The multi-passionate variant
+- Strategy and [[Authority]] — The decision-making framework
 - [[Sacral Authority]] — The gut response
-- [[Waiting to Respond]] — The Generator's Strategy
+- Wait to Respond — The Generator's Strategy
 
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 3 - Difficulty at the Beginning]] — The source hexagram for Gate 3
 - [[I-Ching Hexagram 60 - Limitation]] — The source hexagram for Gate 60
 - [[Gene Keys 03 - Chaos to Innocence]] — Richard Rudd's framework for Gate 3
 - [[Gene Keys 60 - Limitation to Justice]] — Richard Rudd's framework for Gate 60
-- [[The Empress (Tarot)]] — Resonance with birthing new life
-- [[The Hanged Man (Tarot)]] — Resonance with accepting limitation
+- [[The Empress (III)]] — Resonance with birthing new life
+- [[The Hanged Man (XII)]] — Resonance with accepting limitation
 
 ### Psychological and Archetypal
 - [[The Revolutionary Archetype]] — The one who births the new

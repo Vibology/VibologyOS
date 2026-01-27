@@ -334,7 +334,7 @@ Jung's process of individuation requires **recognizing the difference between eg
 - [[Gate 07 - The Army]] — The G Center anchor of leadership role
 - [[Gate 31 - Influence]] — The Throat anchor of articulated leadership
 - [[G Center]] — The center of identity, direction, and love
-- [[Throat Center]] — The center of manifestation and expression
+- [[Throat]] — The center of manifestation and expression
 
 ### Circuit Family
 - [[Collective Logic Circuit]] — The broader circuit family
@@ -343,9 +343,9 @@ Jung's process of individuation requires **recognizing the difference between eg
 - [[Collective Circuit Gates]] — All gates within the Collective stream
 
 ### Type and Strategy
-- [[Projectors]] — The natural Type for this Projected channel
-- [[Strategy and Authority]] — The decision-making framework
-- [[Waiting for Invitation]] — The Projector's Strategy
+- [[Projector]] — The natural Type for this Projected channel
+- Strategy and [[Authority]] — The decision-making framework
+- Wait for the Invitation — The Projector's Strategy
 - [[Bitterness (Not-Self)]] — The Projector's Not-Self theme
 
 ### Cross-System Correspondences
@@ -353,8 +353,8 @@ Jung's process of individuation requires **recognizing the difference between eg
 - [[I-Ching Hexagram 31 - Influence]] — The source hexagram for Gate 31
 - [[Gene Keys 07 - Division to Virtue]] — Richard Rudd's framework for Gate 7
 - [[Gene Keys 31 - Arrogance to Humility]] — Richard Rudd's framework for Gate 31
-- [[The Chariot (Tarot)]] — Resonance with disciplined leadership
-- [[Judgement (Tarot)]] — Resonance with influential voice
+- [[The Chariot (VII)]] — Resonance with disciplined leadership
+- [[Judgement (XX)]] — Resonance with influential voice
 
 ### Psychological and Archetypal
 - [[The King/Queen Archetype]] — The mature, recognized leader

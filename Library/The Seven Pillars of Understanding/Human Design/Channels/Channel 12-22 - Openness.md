@@ -422,14 +422,14 @@ When the individual honors the wave, waits for clarity, and speaks only what is 
 **Human Design:**
 - [[Gate 12 - Standstill (Caution)]]
 - [[Gate 22 - Grace (Openness)]]
-- [[Throat Center]]
-- [[Solar Plexus Center]]
+- [[Throat]]
+- [[Solar Plexus]]
 - [[Individual Knowing Circuit]]
 - [[Manifestor Type]]
 - [[Manifesting Generator Type]]
 - [[Emotional Authority]]
 - [[Definition - Single Definition]]
-- [[Strategy and Authority]]
+- Strategy and [[Authority]]
 - [[Not-Self Theme]]
 - [[Deconditioning Process]]
 

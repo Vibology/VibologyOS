@@ -335,7 +335,7 @@ Jung's process of individuation requires **reclaiming projected power**. The Cha
 - [[Gate 02 - The Receptive]] — The G Center anchor of direction and the Higher Self
 - [[Gate 14 - Possession in Great Measure]] — The Sacral anchor of power and resources
 - [[G Center]] — The center of identity, direction, and love
-- [[Sacral Center]] — The center of life force, sexuality, and sustainable energy
+- [[Sacral]] — The center of life force, sexuality, and sustainable energy
 
 ### Circuit Family
 - [[Individual Knowing Circuit]] — The broader circuit family
@@ -344,19 +344,19 @@ Jung's process of individuation requires **reclaiming projected power**. The Cha
 - [[Tantric Channels]] — The three Sacral-to-G channels (2-14, 5-15, 29-46)
 
 ### Type and Strategy
-- [[Generators]] — The natural Type for this Generated channel
-- [[Manifesting Generators]] — The multi-passionate variant
-- [[Strategy and Authority]] — The decision-making framework
+- [[Generator]] — The natural Type for this Generated channel
+- Manifesting [[Generator]]s — The multi-passionate variant
+- Strategy and [[Authority]] — The decision-making framework
 - [[Sacral Authority]] — The gut response
-- [[Waiting to Respond]] — The Generator's Strategy
+- Wait to Respond — The Generator's Strategy
 
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 2 - The Receptive]] — The source hexagram for Gate 2
 - [[I-Ching Hexagram 14 - Possession in Great Measure]] — The source hexagram for Gate 14
 - [[Gene Keys 02 - Dislocation to Unity]] — Richard Rudd's framework for Gate 2
 - [[Gene Keys 14 - Compromise to Bounteousness]] — Richard Rudd's framework for Gate 14
-- [[The High Priestess (Tarot)]] — Resonance with receptive direction
-- [[Temperance (Tarot)]] — Resonance with accumulated mastery
+- [[The High Priestess (II)]] — Resonance with receptive direction
+- [[Temperance (XIV)]] — Resonance with accumulated mastery
 
 ### Psychological and Archetypal
 - [[The Sovereign Archetype]] — Ruler of one's own kingdom

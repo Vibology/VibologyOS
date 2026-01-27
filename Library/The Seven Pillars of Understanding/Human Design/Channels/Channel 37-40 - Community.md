@@ -106,7 +106,7 @@ When recognized and invited, the 37-40 individual becomes the **foundation of tr
 - [[Gate 40 - Deliverance]] — Willpower to provide, and will to rest alone
 - [[Channel 19-49 - Synthesis]] — Tribal needs and principles
 - [[Channel 21-45 - Money]] — Tribal resource control
-- [[Solar Plexus Center]] — Emotional awareness and wave
+- [[Solar Plexus]] — Emotional awareness and wave
 - [[Ego Center]] — Willpower, promises, material engagement
 - [[Tribal Ego Circuit]] — Channels of support and provision
 - [[Emotional Authority]] — Waiting through the wave before committing

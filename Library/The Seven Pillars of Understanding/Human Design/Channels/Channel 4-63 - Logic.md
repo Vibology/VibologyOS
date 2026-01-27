@@ -340,8 +340,8 @@ Jung's process of individuation requires **questioning inherited patterns** (Gat
 ### Channel and Gate Connections
 - [[Gate 04 - Youthful Folly]] — The Ajna anchor of logical formulation
 - [[Gate 63 - After Completion]] — The Head anchor of doubt and questioning
-- [[Head Center]] — The center of inspiration and mental pressure
-- [[Ajna Center]] — The center of mental awareness and conceptualization
+- [[Head]] — The center of inspiration and mental pressure
+- [[Ajna]] — The center of mental awareness and conceptualization
 
 ### Circuit Family
 - [[Collective Logic Circuit]] — The broader circuit family
@@ -350,9 +350,9 @@ Jung's process of individuation requires **questioning inherited patterns** (Gat
 - [[Channel 7-31 - The Alpha]] — Democratic leadership
 
 ### Type and Strategy
-- [[Projectors]] — The natural Type for this Projected channel
-- [[Strategy and Authority]] — The decision-making framework
-- [[Waiting for Invitation]] — The Projector's Strategy
+- [[Projector]] — The natural Type for this Projected channel
+- Strategy and [[Authority]] — The decision-making framework
+- Wait for the Invitation — The Projector's Strategy
 - [[Bitterness (Not-Self)]] — The Projector's Not-Self theme
 
 ### Cross-System Correspondences
@@ -360,8 +360,8 @@ Jung's process of individuation requires **questioning inherited patterns** (Gat
 - [[I-Ching Hexagram 63 - After Completion]] — The source hexagram for Gate 63
 - [[Gene Keys 04 - Intolerance to Forgiveness]] — Richard Rudd's framework
 - [[Gene Keys 63 - Doubt to Truth]] — Richard Rudd's framework
-- [[The Emperor (Tarot)]] — Resonance with logical structure
-- [[Death (Tarot)]] — Resonance with completion and questioning
+- [[The Emperor (IV)]] — Resonance with logical structure
+- [[Death (XIII)]] — Resonance with completion and questioning
 
 ### Psychological and Archetypal
 - [[The Scientist Archetype]] — The one who questions and tests

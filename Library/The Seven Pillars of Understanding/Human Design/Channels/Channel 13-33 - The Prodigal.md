@@ -413,7 +413,7 @@ When the 13-33 shares from full integration (adequate retreat, invitation honore
 - [[Gate 13 - The Listener (Fellowship of Man)]]
 - [[Gate 33 - Privacy (Retreat)]]
 - [[G Center]]
-- [[Throat Center]]
+- [[Throat]]
 - [[Collective Sensing/Abstract Circuit]]
 - [[Projector Type]]
 - [[Strategy - Wait for Invitation]]

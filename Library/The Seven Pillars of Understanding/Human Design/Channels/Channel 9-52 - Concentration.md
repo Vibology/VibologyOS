@@ -333,8 +333,8 @@ Jung's process of individuation requires **focused attention on the psyche's con
 ### Channel and Gate Connections
 - [[Gate 09 - The Taming Power of the Small]] — The Sacral anchor of focused determination
 - [[Gate 52 - Keeping Still]] — The Root anchor of stillness and restraint
-- [[Root Center]] — The center of pressure, stress, and drive
-- [[Sacral Center]] — The center of life force, sexuality, and sustainable energy
+- [[Root]] — The center of pressure, stress, and drive
+- [[Sacral]] — The center of life force, sexuality, and sustainable energy
 
 ### Circuit Family
 - [[Collective Logic Circuit]] — The broader circuit family
@@ -343,19 +343,19 @@ Jung's process of individuation requires **focused attention on the psyche's con
 - [[Format Energy Channels]] — The three pulsing channels (3-60, 9-52, 42-53)
 
 ### Type and Strategy
-- [[Generators]] — The natural Type for this Generated channel
-- [[Manifesting Generators]] — The multi-passionate variant
-- [[Strategy and Authority]] — The decision-making framework
+- [[Generator]] — The natural Type for this Generated channel
+- Manifesting [[Generator]]s — The multi-passionate variant
+- Strategy and [[Authority]] — The decision-making framework
 - [[Sacral Authority]] — The gut response
-- [[Waiting to Respond]] — The Generator's Strategy
+- Wait to Respond — The Generator's Strategy
 
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 9 - Taming Power of the Small]] — The source hexagram for Gate 9
 - [[I-Ching Hexagram 52 - Keeping Still]] — The source hexagram for Gate 52
 - [[Gene Keys 09 - Inertia to Invincibility]] — Richard Rudd's framework for Gate 9
 - [[Gene Keys 52 - Stress to Stillness]] — Richard Rudd's framework for Gate 52
-- [[The Hermit (Tarot)]] — Resonance with focused mastery
-- [[Temperance (Tarot)]] — Resonance with restraint and stillness
+- [[The Hermit (IX)]] — Resonance with focused mastery
+- [[Temperance (XIV)]] — Resonance with restraint and stillness
 
 ### Psychological and Archetypal
 - [[The Master Archetype]] — The one who perfects through focus

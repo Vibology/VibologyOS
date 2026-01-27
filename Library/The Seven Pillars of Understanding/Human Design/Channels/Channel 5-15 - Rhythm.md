@@ -330,7 +330,7 @@ Jung's process of individuation requires **patience with the psyche's natural rh
 ### Channel and Gate Connections
 - [[Gate 05 - Waiting]] — The Sacral anchor of rhythm and patience
 - [[Gate 15 - Modesty]] — The G Center anchor of balanced extremes and love of humanity
-- [[Sacral Center]] — The center of life force, sexuality, and sustainable energy
+- [[Sacral]] — The center of life force, sexuality, and sustainable energy
 - [[G Center]] — The center of identity, direction, and love
 
 ### Circuit Family
@@ -340,19 +340,19 @@ Jung's process of individuation requires **patience with the psyche's natural rh
 - [[Tantric Channels]] — The three Sacral-to-G channels (2-14, 5-15, 29-46)
 
 ### Type and Strategy
-- [[Generators]] — The natural Type for this Generated channel
-- [[Manifesting Generators]] — The multi-passionate variant
-- [[Strategy and Authority]] — The decision-making framework
+- [[Generator]] — The natural Type for this Generated channel
+- Manifesting [[Generator]]s — The multi-passionate variant
+- Strategy and [[Authority]] — The decision-making framework
 - [[Sacral Authority]] — The gut response
-- [[Waiting to Respond]] — The Generator's Strategy
+- Wait to Respond — The Generator's Strategy
 
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 5 - Waiting]] — The source hexagram for Gate 5
 - [[I-Ching Hexagram 15 - Modesty]] — The source hexagram for Gate 15
 - [[Gene Keys 05 - Impatience to Timelessness]] — Richard Rudd's framework for Gate 5
 - [[Gene Keys 15 - Dullness to Florescence]] — Richard Rudd's framework for Gate 15
-- [[The Hierophant (Tarot)]] — Resonance with patience and divine timing
-- [[Temperance (Tarot)]] — Resonance with balance and alchemy
+- [[The Hierophant (V)]] — Resonance with patience and divine timing
+- [[Temperance (XIV)]] — Resonance with balance and alchemy
 
 ### Psychological and Archetypal
 - [[The Gardener Archetype]] — The one who attunes to natural cycles

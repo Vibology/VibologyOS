@@ -337,8 +337,8 @@ Jung's process of individuation requires **reflecting on one's experiences and i
 ### Channel and Gate Connections
 - [[Gate 11 - Peace]] — The Ajna anchor of ideas and contemplation
 - [[Gate 56 - The Wanderer]] — The Throat anchor of stimulation and storytelling
-- [[Ajna Center]] — The center of mental awareness and conceptualization
-- [[Throat Center]] — The center of manifestation and expression
+- [[Ajna]] — The center of mental awareness and conceptualization
+- [[Throat]] — The center of manifestation and expression
 
 ### Circuit Family
 - [[Collective Abstract Circuit]] — The broader circuit family
@@ -347,9 +347,9 @@ Jung's process of individuation requires **reflecting on one's experiences and i
 - [[Collective Circuit Gates]] — All gates within the Collective stream
 
 ### Type and Strategy
-- [[Projectors]] — The natural Type for this Projected channel
-- [[Strategy and Authority]] — The decision-making framework
-- [[Waiting for Invitation]] — The Projector's Strategy
+- [[Projector]] — The natural Type for this Projected channel
+- Strategy and [[Authority]] — The decision-making framework
+- Wait for the Invitation — The Projector's Strategy
 - [[Bitterness (Not-Self)]] — The Projector's Not-Self theme
 
 ### Cross-System Correspondences
@@ -357,8 +357,8 @@ Jung's process of individuation requires **reflecting on one's experiences and i
 - [[I-Ching Hexagram 56 - The Wanderer]] — The source hexagram for Gate 56
 - [[Gene Keys 11 - Obscurity to Light]] — Richard Rudd's framework for Gate 11
 - [[Gene Keys 56 - Distraction to Intoxication]] — Richard Rudd's framework for Gate 56
-- [[Justice (Tarot)]] — Resonance with contemplative ideation
-- [[The Lovers (Tarot)]] — Resonance with stimulating narrative
+- [[Justice (XI)]] — Resonance with contemplative ideation
+- [[The Lovers (VI)]] — Resonance with stimulating narrative
 
 ### Psychological and Archetypal
 - [[The Storyteller Archetype]] — The one who shares wisdom through narrative

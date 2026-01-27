@@ -425,8 +425,8 @@ This is the essence of the Tantric channels: **the life-force energy reveals ide
 - [[I-Ching Hexagram 46 - Pushing Upward]] — Gradual steady ascent
 - [[Gene Keys 29 - Half-Heartedness to Devotion]] — Shadow-Gift-Siddhi framework
 - [[Gene Keys 46 - Seriousness to Ecstasy]] — Shadow-Gift-Siddhi framework
-- [[The Hanged Man (Tarot)]] — Surrender and committed perspective shift
-- [[The Wheel of Fortune (Tarot)]] — Luck, serendipity, cycles
+- [[The Hanged Man (XII)]] — Surrender and committed perspective shift
+- [[The Wheel of Fortune (X)]] — Luck, serendipity, cycles
 - [[Chesed and Netzach (Qabalah)]] — Mercy and Victory
 
 ### Thematic Collections
@@ -442,13 +442,13 @@ This is the essence of the Tantric channels: **the life-force energy reveals ide
 - [[The Hero's Journey]] — Discovery through committed experience
 
 ### Biological and Somatic
-- [[Sacral Center]] — The center of life-force and sexual energy
+- [[Sacral]] — The center of life-force and sexual energy
 - [[G Center]] — The center of identity, direction, and love
 - [[Magnetic Monopole]] — Ra's term for the orientation mechanism
 - [[Reproductive/Sexual Energy]] — Biological correspondence to Tantric channels
 
 ### Practical Application
-- [[Strategy and Authority]] — Waiting for Sacral response before committing
+- Strategy and [[Authority]] — Waiting for Sacral response before committing
 - [[Defined vs. Undefined Centers]] — Understanding fixed vs. variable commitment energy
 - [[The 7-Year Deconditioning Cycle]] — Returning to aligned commitment
 - [[Tantric Practice]] — Understanding Sacral-G energy and sexual/creative force

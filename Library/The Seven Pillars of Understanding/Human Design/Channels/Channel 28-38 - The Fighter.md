@@ -416,8 +416,8 @@ This is the essence of the Individual Knowing Circuit: **empowering others throu
 - [[I-Ching Hexagram 38 - Opposition]] — Natural opposition and friction
 - [[Gene Keys 28 - Purposelessness to Immortality]] — Shadow-Gift-Siddhi framework
 - [[Gene Keys 38 - Struggle to Honour]] — Shadow-Gift-Siddhi framework
-- [[The Tower (Tarot)]] — Breaking structures through crisis
-- [[Strength (Tarot)]] — Courage and perseverance
+- [[The Tower (XVI)]] — Breaking structures through crisis
+- [[Strength (VIII)]] — Courage and perseverance
 - [[Geburah (Qabalah)]] — Severity, strength, Mars principle
 
 ### Thematic Collections
@@ -433,13 +433,13 @@ This is the essence of the Individual Knowing Circuit: **empowering others throu
 - [[The Hero's Journey]] — Campbell's monomyth of struggle and transformation
 
 ### Biological and Somatic
-- [[Spleen Center]] — The center of instinct and survival awareness
-- [[Root Center]] — The center of pressure and adrenaline
+- [[Spleen]] — The center of instinct and survival awareness
+- [[Root]] — The center of pressure and adrenaline
 - [[Immune System]] — Biological correspondence to knowing what is worth fighting for
 - [[Adrenal System]] — Biological correspondence to pressure and stress response
 
 ### Practical Application
-- [[Strategy and Authority]] — Waiting for recognition before engaging in struggle
+- Strategy and [[Authority]] — Waiting for recognition before engaging in struggle
 - [[Defined vs. Undefined Centers]] — Understanding fixed vs. variable fighting energy
 - [[The 7-Year Deconditioning Cycle]] — Returning to purposeful struggle
 - [[Individual Empowerment]] — Understanding mutation and unique contribution

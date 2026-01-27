@@ -310,12 +310,12 @@ When recognized and invited, the 17-62 individual becomes the **architect of log
 - [[Gate 62 - Preponderance of the Small]] — Details, naming, precision
 - [[Channel 16-48 - Wavelength]] — Logic Circuit partner (talent and depth)
 - [[Channel 18-58 - Judgment]] — Logic Circuit partner (correction and perfection)
-- [[Ajna Center]] — Conceptualization and mental processing
-- [[Throat Center]] — Expression and manifestation
+- [[Ajna]] — Conceptualization and mental processing
+- [[Throat]] — Expression and manifestation
 - [[Collective Understanding Circuit]] — Logic, patterns, security
 - [[Projector Type]] — Recognition, invitation, and guidance
 - [[Gene Keys]] — Shadow/Gift/Siddhi framework
-- [[The Hierophant (Tarot)]] — Organized systems and teaching
+- [[The Hierophant (V)]] — Organized systems and teaching
 
 ## Sources
 **Primary Source:**

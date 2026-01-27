@@ -417,8 +417,8 @@ This is the essence of the Tribal Defense Circuit: **protecting the tribe's futu
 - [[I-Ching Hexagram 50 - The Cauldron]] — Sacred vessel holding values
 - [[Gene Keys 27 - Selfishness to Selflessness]] — Shadow-Gift-Siddhi framework for Gate 27
 - [[Gene Keys 50 - Corruption to Harmony]] — Shadow-Gift-Siddhi framework for Gate 50
-- [[The Empress (Tarot)]] — Abundant nurturing and fertility
-- [[The Emperor (Tarot)]] — Structure, law, and boundaries
+- [[The Empress (III)]] — Abundant nurturing and fertility
+- [[The Emperor (IV)]] — Structure, law, and boundaries
 - [[Chesed and Geburah (Qabalah)]] — Mercy and Severity balanced
 
 ### Thematic Collections
@@ -434,13 +434,13 @@ This is the essence of the Tribal Defense Circuit: **protecting the tribe's futu
 - [[Saturn (Astrology)]] — Planetary archetype of structure and boundaries
 
 ### Biological and Somatic
-- [[Sacral Center]] — The center of life-force, work, and reproduction
-- [[Spleen Center]] — The center of instinct, immune system, and survival
+- [[Sacral]] — The center of life-force, work, and reproduction
+- [[Spleen]] — The center of instinct, immune system, and survival
 - [[Immune System]] — Biological correspondence to values and preservation
 - [[Reproductive System]] — Biological correspondence to caring and nurturing
 
 ### Practical Application
-- [[Strategy and Authority]] — Waiting for Sacral response before caring
+- Strategy and [[Authority]] — Waiting for Sacral response before caring
 - [[Defined vs. Undefined Centers]] — Understanding fixed vs. variable caring energy
 - [[The 7-Year Deconditioning Cycle]] — Returning to sustainable caring
 - [[Tribal Dynamics]] — Understanding caring, values, and tribal responsibility

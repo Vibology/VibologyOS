@@ -339,7 +339,7 @@ Jung's process of individuation requires **trusting the psyche's intuitive guida
 - [[Gate 10 - Treading]] — The G Center anchor of behavior and self-love
 - [[Gate 57 - The Gentle]] — The Spleen anchor of intuitive clarity
 - [[G Center]] — The center of identity, direction, and love
-- [[Spleen Center]] — The center of intuition, survival, and health
+- [[Spleen]] — The center of intuition, survival, and health
 
 ### Circuit Family
 - [[Integration Channels]] — The four channels of self-empowerment (10-20, 10-34, 10-57, 20-34)
@@ -347,23 +347,23 @@ Jung's process of individuation requires **trusting the psyche's intuitive guida
 - [[Channel 10-34 - Exploration]] — Following convictions
 
 ### Type and Strategy
-- [[Projectors]] — The natural Type for this Projected channel
-- [[Strategy and Authority]] — The decision-making framework
+- [[Projector]] — The natural Type for this Projected channel
+- Strategy and [[Authority]] — The decision-making framework
 - [[Splenic Authority]] — The intuitive, in-the-moment awareness
-- [[Waiting for Invitation]] — The Projector's Strategy
+- Wait for the Invitation — The Projector's Strategy
 
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 10 - Treading]] — The source hexagram for Gate 10
 - [[I-Ching Hexagram 57 - The Gentle]] — The source hexagram for Gate 57
 - [[Gene Keys 10 - Self-Obsession to Being]] — Richard Rudd's framework for Gate 10
 - [[Gene Keys 57 - Unease to Clarity]] — Richard Rudd's framework for Gate 57
-- [[The Wheel of Fortune (Tarot)]] — Resonance with behavior of self
-- [[The Hermit (Tarot)]] — Resonance with intuitive guidance
+- [[The Wheel of Fortune (X)]] — Resonance with behavior of self
+- [[The Hermit (IX)]] — Resonance with intuitive guidance
 
 ### Psychological and Archetypal
 - [[The Artist Archetype]] — The one who perfects through beauty
 - [[The Wise Old One]] — The archetype of intuitive knowing
-- [[The Self (Jungian)]] — The totality of the psyche
+- [[The Self]] — The totality of the psyche
 - [[Individuation Process]] — Jung's concept of trusting psyche's guidance
 
 ### Biological and Somatic

@@ -313,12 +313,12 @@ When they honor the Sacral's rhythm—responding fully, pivoting freely, resting
 - [[Channel 10-20 - Awakening]] — Integration Circuit partner (G-Throat)
 - [[Channel 10-57 - Survival]] — Integration Circuit partner (Spleen-G)
 - [[Channel 34-57 - Power]] — Integration Circuit partner (Spleen-Sacral)
-- [[Sacral Center]] — Life force, response, generative energy
-- [[Throat Center]] — Manifestation, voice, action
+- [[Sacral]] — Life force, response, generative energy
+- [[Throat]] — Manifestation, voice, action
 - [[Integration Circuit]] — Self-empowerment, survival, presence
 - [[Manifesting Generator Type]] — The only pure MG channel
 - [[Gene Keys]] — Shadow/Gift/Siddhi framework
-- [[The Chariot (Tarot)]] — Harnessed power in motion
+- [[The Chariot (VII)]] — Harnessed power in motion
 
 ## Sources
 **Primary Source:**

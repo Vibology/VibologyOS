@@ -330,8 +330,8 @@ Jung's process of individuation requires **differentiation before integration**.
 ### Channel and Gate Connections
 - [[Gate 06 - Conflict]] — The Solar Plexus anchor of friction and emotional regulation
 - [[Gate 59 - Dispersion]] — The Sacral anchor of sexuality and barrier-breaking
-- [[Solar Plexus Center]] — The center of emotion, wave, and emotional authority
-- [[Sacral Center]] — The center of life force, sexuality, and reproductive energy
+- [[Solar Plexus]] — The center of emotion, wave, and emotional authority
+- [[Sacral]] — The center of life force, sexuality, and reproductive energy
 
 ### Circuit Family
 - [[Tribal Defense Circuit]] — The broader circuit family
@@ -340,19 +340,19 @@ Jung's process of individuation requires **differentiation before integration**.
 - [[Mating and Reproduction]] — The biological imperative of the Defense Circuit
 
 ### Type and Strategy
-- [[Generators]] — The natural Type for this Generated channel
-- [[Manifesting Generators]] — The multi-passionate variant
-- [[Strategy and Authority]] — The decision-making framework
+- [[Generator]] — The natural Type for this Generated channel
+- Manifesting [[Generator]]s — The multi-passionate variant
+- Strategy and [[Authority]] — The decision-making framework
 - [[Emotional Authority]] — Waiting through the wave for clarity
-- [[Waiting to Respond]] — The Generator's Strategy
+- Wait to Respond — The Generator's Strategy
 
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 6 - Conflict]] — The source hexagram for Gate 6
 - [[I-Ching Hexagram 59 - Dispersion]] — The source hexagram for Gate 59
 - [[Gene Keys 06 - Conflict to Peace]] — Richard Rudd's framework for Gate 6
 - [[Gene Keys 59 - Dishonesty to Transparency]] — Richard Rudd's framework for Gate 59
-- [[The Lovers (Tarot)]] — Resonance with union and choice
-- [[The Moon (Tarot)]] — Resonance with dissolution of barriers
+- [[The Lovers (VI)]] — Resonance with union and choice
+- [[The Moon (XVIII)]] — Resonance with dissolution of barriers
 
 ### Psychological and Archetypal
 - [[The Lovers Archetype]] — The one who seeks union

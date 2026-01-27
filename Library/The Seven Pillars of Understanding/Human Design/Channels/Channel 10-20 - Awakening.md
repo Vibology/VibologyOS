@@ -332,7 +332,7 @@ Jung's process of individuation is the journey to the Self. The Channel 10-20 in
 - [[Gate 10 - Treading]] — The G Center anchor of behavior and self-love
 - [[Gate 20 - Contemplation]] — The Throat anchor of present-moment expression
 - [[G Center]] — The center of identity, direction, and love
-- [[Throat Center]] — The center of manifestation and expression
+- [[Throat]] — The center of manifestation and expression
 
 ### Circuit Family
 - [[Integration Channels]] — The four channels of self-empowerment (10-20, 10-34, 10-57, 20-34)
@@ -340,9 +340,9 @@ Jung's process of individuation is the journey to the Self. The Channel 10-20 in
 - [[Channel 10-57 - Survival]] — Perfected form
 
 ### Type and Strategy
-- [[Projectors]] — The natural Type for this Projected channel
-- [[Strategy and Authority]] — The decision-making framework
-- [[Waiting for Invitation]] — The Projector's Strategy
+- [[Projector]] — The natural Type for this Projected channel
+- Strategy and [[Authority]] — The decision-making framework
+- Wait for the Invitation — The Projector's Strategy
 - [[Bitterness (Not-Self)]] — The Projector's Not-Self theme
 
 ### Cross-System Correspondences
@@ -350,12 +350,12 @@ Jung's process of individuation is the journey to the Self. The Channel 10-20 in
 - [[I-Ching Hexagram 20 - Contemplation]] — The source hexagram for Gate 20
 - [[Gene Keys 10 - Self-Obsession to Being]] — Richard Rudd's framework for Gate 10
 - [[Gene Keys 20 - Superficiality to Presence]] — Richard Rudd's framework for Gate 20
-- [[The Wheel of Fortune (Tarot)]] — Resonance with behavior of self
-- [[Judgement (Tarot)]] — Resonance with awakening presence
+- [[The Wheel of Fortune (X)]] — Resonance with behavior of self
+- [[Judgement (XX)]] — Resonance with awakening presence
 
 ### Psychological and Archetypal
 - [[The Awakened One Archetype]] — The being who embodies "I Am"
-- [[The Self (Jungian)]] — The totality of the psyche
+- [[The Self]] — The totality of the psyche
 - [[Individuation Process]] — Jung's concept of becoming whole
 
 ### Biological and Somatic

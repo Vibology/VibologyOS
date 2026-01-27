@@ -329,7 +329,7 @@ Jung's process of individuation requires **living the Self's truth in the world*
 - [[Gate 10 - Treading]] — The G Center anchor of behavior and self-love
 - [[Gate 34 - The Power of the Great]] — The Sacral anchor of pure power
 - [[G Center]] — The center of identity, direction, and love
-- [[Sacral Center]] — The center of life force, sexuality, and sustainable energy
+- [[Sacral]] — The center of life force, sexuality, and sustainable energy
 
 ### Circuit Family
 - [[Integration Channels]] — The four channels of self-empowerment (10-20, 10-34, 10-57, 20-34)
@@ -337,24 +337,24 @@ Jung's process of individuation requires **living the Self's truth in the world*
 - [[Channel 10-57 - Survival]] — Perfected form
 
 ### Type and Strategy
-- [[Generators]] — The natural Type for this Generated channel
-- [[Manifesting Generators]] — The multi-passionate variant
-- [[Strategy and Authority]] — The decision-making framework
+- [[Generator]] — The natural Type for this Generated channel
+- Manifesting [[Generator]]s — The multi-passionate variant
+- Strategy and [[Authority]] — The decision-making framework
 - [[Sacral Authority]] — The gut response
-- [[Waiting to Respond]] — The Generator's Strategy
+- Wait to Respond — The Generator's Strategy
 
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 10 - Treading]] — The source hexagram for Gate 10
 - [[I-Ching Hexagram 34 - Power of the Great]] — The source hexagram for Gate 34
 - [[Gene Keys 10 - Self-Obsession to Being]] — Richard Rudd's framework for Gate 10
 - [[Gene Keys 34 - Force to Majesty]] — Richard Rudd's framework for Gate 34
-- [[The Wheel of Fortune (Tarot)]] — Resonance with behavior of self
-- [[The Emperor (Tarot)]] — Resonance with empowered authority
+- [[The Wheel of Fortune (X)]] — Resonance with behavior of self
+- [[The Emperor (IV)]] — Resonance with empowered authority
 
 ### Psychological and Archetypal
 - [[The Explorer Archetype]] — The one who ventures by their own convictions
 - [[The Hero Archetype]] — The one who has the power to live their truth
-- [[The Self (Jungian)]] — The totality of the psyche
+- [[The Self]] — The totality of the psyche
 - [[Individuation Process]] — Jung's concept of living the Self's truth
 
 ### Biological and Somatic

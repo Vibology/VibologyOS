@@ -346,7 +346,7 @@ This is the melancholy of the Individual: **to be oneself is to be alone**. But 
 - [[Gate 01 - The Creative]] — The G Center anchor of creative direction
 - [[Gate 08 - Holding Together]] — The Throat anchor of creative contribution
 - [[G Center]] — The center of identity, direction, and love
-- [[Throat Center]] — The center of manifestation and expression
+- [[Throat]] — The center of manifestation and expression
 
 ### Circuit Family
 - [[Individual Knowing Circuit]] — The broader circuit family
@@ -355,9 +355,9 @@ This is the melancholy of the Individual: **to be oneself is to be alone**. But 
 - [[Individual Circuit Gates]] — All gates within the Individual stream
 
 ### Type and Strategy
-- [[Projectors]] — The natural Type for this Projected channel
-- [[Strategy and Authority]] — The decision-making framework
-- [[Waiting for Invitation]] — The Projector's Strategy
+- [[Projector]] — The natural Type for this Projected channel
+- Strategy and [[Authority]] — The decision-making framework
+- Wait for the Invitation — The Projector's Strategy
 - [[Bitterness (Not-Self)]] — The Projector's Not-Self theme
 
 ### Cross-System Correspondences
@@ -365,8 +365,8 @@ This is the melancholy of the Individual: **to be oneself is to be alone**. But 
 - [[I-Ching Hexagram 8 - Holding Together]] — The source hexagram for Gate 8
 - [[Gene Keys 01 - Entropy to Beauty]] — Richard Rudd's framework for Gate 1
 - [[Gene Keys 08 - Mediocrity to Exquisiteness]] — Richard Rudd's framework for Gate 8
-- [[The Magician (Tarot)]] — Resonance with creative initiation
-- [[Strength (Tarot)]] — Resonance with disciplined creative expression
+- [[The Magician (I)]] — Resonance with creative initiation
+- [[Strength (VIII)]] — Resonance with disciplined creative expression
 
 ### Psychological and Archetypal
 - [[The Creator Archetype]] — Jungian pattern of bringing forth new realities

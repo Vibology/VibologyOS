@@ -306,12 +306,12 @@ When recognized and invited, the 18-58 individual becomes the **guardian of qual
 - [[Gate 58 - The Joyous]] — Vitality, joy of life, insatiability
 - [[Channel 16-48 - Wavelength]] — Logic Circuit partner (talent and depth)
 - [[Channel 17-62 - Acceptance]] — Logic Circuit partner (opinions and details)
-- [[Root Center]] — Pressure and drive
-- [[Spleen Center]] — Instinct, health, in-the-now awareness
+- [[Root]] — Pressure and drive
+- [[Spleen]] — Instinct, health, in-the-now awareness
 - [[Collective Understanding Circuit]] — Logic, patterns, security
 - [[Projector Type]] — Recognition, invitation, and guidance
 - [[Gene Keys]] — Shadow/Gift/Siddhi framework
-- [[Justice (Tarot)]] — Discernment and correction
+- [[Justice (XI)]] — Discernment and correction
 
 ## Sources
 **Primary Source:**

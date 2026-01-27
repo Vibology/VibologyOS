@@ -106,8 +106,8 @@ When recognized and invited, the 47-64 individual becomes the **wise reflector**
 - [[Gate 64 - Before Completion]] — Confusion, images, mental pressure
 - [[Channel 4-63 - Logic]] — Head-Ajna doubt and pattern questioning (Logic Circuit)
 - [[Channel 24-61 - Awareness]] — Head-Ajna individual knowing (Individual Circuit)
-- [[Head Center]] — Mental pressure and inspiration
-- [[Ajna Center]] — Mental awareness and processing
+- [[Head]] — Mental pressure and inspiration
+- [[Ajna]] — Mental awareness and processing
 - [[Collective Sensing Circuit]] — Experience-based abstract learning
 - [[Projected Channels]] — Recognition and invitation required
 

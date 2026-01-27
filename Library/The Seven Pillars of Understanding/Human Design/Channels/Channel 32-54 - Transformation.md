@@ -106,8 +106,8 @@ When recognized and invited, the 32-54 individual becomes the **strategic adviso
 - [[Gate 54 - The Marrying Maiden]] — Drive, ambition, strategic advancement
 - [[Channel 26-44 - Surrender]] — Tribal memory and influence
 - [[Channel 21-45 - Money]] — Tribal resource control
-- [[Spleen Center]] — Instinctive awareness and survival
-- [[Root Center]] — Pressure and drive
+- [[Spleen]] — Instinctive awareness and survival
+- [[Root]] — Pressure and drive
 - [[Tribal Ego Circuit]] — Channels of material support and hierarchy
 - [[Projected Channels]] — Recognition and invitation required
 

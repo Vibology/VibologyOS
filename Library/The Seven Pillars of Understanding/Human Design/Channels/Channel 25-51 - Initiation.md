@@ -410,8 +410,8 @@ This is the essence of the Individual Centering Circuit: **centering in one's ow
 - [[I-Ching Hexagram 51 - The Arousing]] — Shock and awakening
 - [[Gene Keys 25 - Constriction to Universal Love]] — Shadow-Gift-Siddhi framework for Gate 25
 - [[Gene Keys 51 - Agitation to Awakening]] — Shadow-Gift-Siddhi framework for Gate 51
-- [[The Fool (Tarot)]] — Innocent leap into the unknown
-- [[The Tower (Tarot)]] — Sudden shock and awakening
+- [[The Fool (0)]] — Innocent leap into the unknown
+- [[The Tower (XVI)]] — Sudden shock and awakening
 - [[Tiphareth (Qabalah)]] — The heart/beauty sphere balancing will and spirit
 
 ### Thematic Collections
@@ -433,7 +433,7 @@ This is the essence of the Individual Centering Circuit: **centering in one's ow
 - [[Liver/Magnetic Monopole]] — Biological correspondence to G Center
 
 ### Practical Application
-- [[Strategy and Authority]] — Waiting for recognition (Projector strategy) despite competitive urge
+- Strategy and [[Authority]] — Waiting for recognition (Projector strategy) despite competitive urge
 - [[Defined vs. Undefined Centers]] — Understanding fixed vs. variable initiatory energy
 - [[The 7-Year Deconditioning Cycle]] — Returning to authentic initiatory alignment
 - [[Ego Sustainability]] — Understanding the Ego's need for rest and conservation

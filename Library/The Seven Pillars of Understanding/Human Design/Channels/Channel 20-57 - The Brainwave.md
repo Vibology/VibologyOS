@@ -323,14 +323,14 @@ When recognized and invited, the 20-57 individual becomes the **intuitive oracle
 - [[Channel 10-20 - Awakening]] — Integration Circuit partner (G-Throat)
 - [[Channel 10-57 - Survival]] — Integration Circuit partner (Spleen-G)
 - [[Channel 34-57 - Power]] — Integration Circuit partner (Spleen-Sacral)
-- [[Spleen Center]] — Intuition, immunity, fear, survival awareness
-- [[Throat Center]] — Manifestation, voice, action
+- [[Spleen]] — Intuition, immunity, fear, survival awareness
+- [[Throat]] — Manifestation, voice, action
 - [[Integration Circuit]] — Self-empowerment, survival, presence
 - [[Individual Knowing Circuit]] — Mutation, melancholy, acoustic knowing
 - [[Projector Type]] — Recognition, invitation, guidance
 - [[Splenic Authority]] — Instantaneous, in-the-moment knowing
 - [[Gene Keys]] — Shadow/Gift/Siddhi framework
-- [[The High Priestess (Tarot)]] — Intuitive knowing, inner voice
+- [[The High Priestess (II)]] — Intuitive knowing, inner voice
 
 ## Sources
 **Primary Source:**

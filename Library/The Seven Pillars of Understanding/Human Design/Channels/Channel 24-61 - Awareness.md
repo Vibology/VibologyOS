@@ -306,12 +306,12 @@ When recognized and invited, the 24-61 individual becomes the **voice of mystery
 - [[Gate 61 - Inner Truth]] — Mystery, inspiration, pressure to know
 - [[Channel 4-63 - Logic]] — Head-Ajna partner in Logic Circuit (doubt and proof)
 - [[Channel 47-64 - Abstraction]] — Head-Ajna partner in Abstract Circuit (making sense of the past)
-- [[Head Center]] — Inspiration and mental pressure
-- [[Ajna Center]] — Conceptualization and awareness
+- [[Head]] — Inspiration and mental pressure
+- [[Ajna]] — Conceptualization and awareness
 - [[Individual Knowing Circuit]] — Mutation, empowerment, acoustic awareness
 - [[Projector Type]] — Recognition, invitation, and guidance
 - [[Gene Keys]] — Shadow/Gift/Siddhi framework
-- [[The Hermit (Tarot)]] — Contemplative wisdom and inner truth
+- [[The Hermit (IX)]] — Contemplative wisdom and inner truth
 
 ## Sources
 **Primary Source:**

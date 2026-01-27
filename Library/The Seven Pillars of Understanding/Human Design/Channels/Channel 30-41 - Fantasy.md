@@ -108,8 +108,8 @@ When recognized and invited, the 30-41 individual becomes the **initiator of col
 - [[Gate 41 - Decrease]] — Contraction, desire, the Start Codon
 - [[Channel 42-53 - Maturation]] — The ending of cycles that 30-41 initiates
 - [[Channel 47-64 - Abstraction]] — Making sense of experiences initiated by 30-41
-- [[Solar Plexus Center]] — Emotional awareness and the wave
-- [[Root Center]] — Pressure and drive
+- [[Solar Plexus]] — Emotional awareness and the wave
+- [[Root]] — Pressure and drive
 - [[Collective Sensing Circuit]] — Experience-based learning
 - [[Emotional Authority]] — Decision-making through the emotional wave
 
