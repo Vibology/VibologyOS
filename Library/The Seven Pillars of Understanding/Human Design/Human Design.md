@@ -95,7 +95,7 @@ Example: The **[[3-5 Martyr Heretic|3/5 Profile]]** is "The Great Fixer"—someo
 
 ### 5. The 64 Gates
 
-The **Gates** are genetic expressions corresponding to the 64 hexagrams of the **[[I-Ching]]**. Each Gate represents a specific archetypal theme activated by planetary positions at birth. Gates are activated in pairs (Personality/Design) and form **Channels** when both ends are defined.
+The **Gates** are genetic expressions corresponding to the 64 hexagrams of the **I-Ching**. Each Gate represents a specific archetypal theme activated by planetary positions at birth. Gates are activated in pairs (Personality/Design) and form **Channels** when both ends are defined.
 
 *Gates are planned for future Library expansion but not yet documented.*
 
@@ -162,7 +162,7 @@ This is not transcendence. It is **alignment**—the recognition that you are a 
 ### Within Human Design
 - **Types:** [[Manifestor]], [[Generator]], [[Projector]], [[Reflector]]
 - **Centers:** [[Sacral]], [[Throat]], [[Solar Plexus]], [[Ajna]], [[Spleen]], [[Heart]], [[G Center]], [[Root]], [[Head]]
-- **Strategy & Authority:** [[Strategy Overview]], [[Emotional Authority]], [[Sacral Authority]], [[Splenic Authority]]
+- **Strategy & Authority:** [[Strategy]], [[Emotional Authority]], [[Sacral Authority]], [[Splenic Authority]]
 - **Profiles:** [[3-5 Martyr Heretic]], [[6-2 Role Model Hermit]], and ten others
 
 ### Cross-System Integration
@@ -170,10 +170,10 @@ This is not transcendence. It is **alignment**—the recognition that you are a 
 - **[[The Window]]** — I-Ching/Qabalah foundation underlying the 64 Gates
 - **[[Astrology]]** — Planetary activations determining Gate imprints
 - **[[The Tarot]]** — Archetypal resonances with Types and mechanics
-- **[[Folklore|Jungian Psychology]]** — Types as archetypes, Strategy/Authority as Individuation path
+- **[[Jungian Archetypes|Jungian Psychology]]** — Types as archetypes, Strategy/Authority as Individuation path
 
 ### Synthesis Work
-- **[[Projector_Invitation_as_Jungian_Call]]** — Jungian integration of Projector mechanics (⚛ Synthesis)
+- **Projector Invitation as Jungian Call** — Jungian integration of Projector mechanics (⚛ Synthesis)
 - **[[Seven-Coordinate Navigation]]** — HD as one coordinate in multi-system synthesis
 
 ---
