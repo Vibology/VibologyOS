@@ -353,10 +353,10 @@ Jung's process of individuation requires **trusting the psyche's intuitive guida
 - Wait for the Invitation — The Projector's Strategy
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 10 - Treading]] — The source hexagram for Gate 10
-- [[I-Ching Hexagram 57 - The Gentle]] — The source hexagram for Gate 57
-- [[Gene Keys 10 - Self-Obsession to Being]] — Richard Rudd's framework for Gate 10
-- [[Gene Keys 57 - Unease to Clarity]] — Richard Rudd's framework for Gate 57
+- I-Ching Hexagram 10 - Treading — The source hexagram for Gate 10
+- I-Ching Hexagram 57 - The Gentle — The source hexagram for Gate 57
+- Gene Keys 10 - Self-Obsession to Being — Richard Rudd's framework for Gate 10
+- Gene Keys 57 - Unease to Clarity — Richard Rudd's framework for Gate 57
 - [[The Wheel of Fortune (X)]] — Resonance with behavior of self
 - [[The Hermit (IX)]] — Resonance with intuitive guidance
 
@@ -367,9 +367,9 @@ Jung's process of individuation requires **trusting the psyche's intuitive guida
 - [[Individuation Process]] — Jung's concept of trusting psyche's guidance
 
 ### Biological and Somatic
-- [[Liver (Biology)]] — The organ associated with the G Center
-- [[Immune System]] — The biological guardian in the Spleen
-- [[Lymphatic System]] — The Spleen's detoxification network
+- Liver (Biology) — The organ associated with the G Center
+- Immune System — The biological guardian in the Spleen
+- Lymphatic System — The Spleen's detoxification network
 - [[Splenic Awareness]] — The instant, quiet knowing
 
 ### Practical Application

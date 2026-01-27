@@ -349,10 +349,10 @@ Jung's process of individuation requires **recognizing the difference between eg
 - [[Bitterness (Not-Self)]] — The Projector's Not-Self theme
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 7 - The Army]] — The source hexagram for Gate 7
-- [[I-Ching Hexagram 31 - Influence]] — The source hexagram for Gate 31
-- [[Gene Keys 07 - Division to Virtue]] — Richard Rudd's framework for Gate 7
-- [[Gene Keys 31 - Arrogance to Humility]] — Richard Rudd's framework for Gate 31
+- I-Ching Hexagram 7 - The Army — The source hexagram for Gate 7
+- I-Ching Hexagram 31 - Influence — The source hexagram for Gate 31
+- Gene Keys 07 - Division to Virtue — Richard Rudd's framework for Gate 7
+- Gene Keys 31 - Arrogance to Humility — Richard Rudd's framework for Gate 31
 - [[The Chariot (VII)]] — Resonance with disciplined leadership
 - [[Judgement (XX)]] — Resonance with influential voice
 
@@ -362,8 +362,8 @@ Jung's process of individuation requires **recognizing the difference between eg
 - [[Individuation Process]] — Jung's concept of ego vs. Self
 
 ### Biological and Somatic
-- [[Liver (Biology)]] — The organ associated with the G Center
-- [[Thyroid and Parathyroid]] — The glands associated with the Throat
+- Liver (Biology) — The organ associated with the G Center
+- Thyroid and Parathyroid — The glands associated with the Throat
 - [[Magnetic Presence]] — The leadership aura of the G-to-Throat connection
 
 ### Practical Application

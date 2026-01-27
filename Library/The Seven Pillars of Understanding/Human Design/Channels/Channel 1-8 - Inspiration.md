@@ -361,10 +361,10 @@ This is the melancholy of the Individual: **to be oneself is to be alone**. But 
 - [[Bitterness (Not-Self)]] — The Projector's Not-Self theme
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 1 - The Creative]] — The source hexagram for Gate 1
-- [[I-Ching Hexagram 8 - Holding Together]] — The source hexagram for Gate 8
-- [[Gene Keys 01 - Entropy to Beauty]] — Richard Rudd's framework for Gate 1
-- [[Gene Keys 08 - Mediocrity to Exquisiteness]] — Richard Rudd's framework for Gate 8
+- I-Ching Hexagram 1 - The Creative — The source hexagram for Gate 1
+- I-Ching Hexagram 8 - Holding Together — The source hexagram for Gate 8
+- Gene Keys 01 - Entropy to Beauty — Richard Rudd's framework for Gate 1
+- Gene Keys 08 - Mediocrity to Exquisiteness — Richard Rudd's framework for Gate 8
 - [[The Magician (I)]] — Resonance with creative initiation
 - [[Strength (VIII)]] — Resonance with disciplined creative expression
 
@@ -376,8 +376,8 @@ This is the melancholy of the Individual: **to be oneself is to be alone**. But 
 
 ### Biological and Somatic
 - [[Magnetic Monopole]] — The orientation mechanism in the G Center
-- [[Liver (Biology)]] — The organ associated with the G Center
-- [[Thyroid and Parathyroid]] — The glands associated with the Throat Center
+- Liver (Biology) — The organ associated with the G Center
+- Thyroid and Parathyroid — The glands associated with the Throat Center
 - [[Defined vs. Undefined Centers]] — Understanding fixed vs. variable energy
 
 ### Practical Application

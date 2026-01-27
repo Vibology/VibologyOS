@@ -413,10 +413,10 @@ This is the essence of the Tribal Defense Circuit: **protecting the tribe's futu
 - [[Tribal Defense Circuit]] — All channels protecting tribal future through caring and intimacy
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 27 - Nourishment]] — Providing and receiving nourishment
-- [[I-Ching Hexagram 50 - The Cauldron]] — Sacred vessel holding values
-- [[Gene Keys 27 - Selfishness to Selflessness]] — Shadow-Gift-Siddhi framework for Gate 27
-- [[Gene Keys 50 - Corruption to Harmony]] — Shadow-Gift-Siddhi framework for Gate 50
+- I-Ching Hexagram 27 - Nourishment — Providing and receiving nourishment
+- I-Ching Hexagram 50 - The Cauldron — Sacred vessel holding values
+- Gene Keys 27 - Selfishness to Selflessness — Shadow-Gift-Siddhi framework for Gate 27
+- Gene Keys 50 - Corruption to Harmony — Shadow-Gift-Siddhi framework for Gate 50
 - [[The Empress (III)]] — Abundant nurturing and fertility
 - [[The Emperor (IV)]] — Structure, law, and boundaries
 - [[Chesed and Geburah (Qabalah)]] — Mercy and Severity balanced
@@ -436,7 +436,7 @@ This is the essence of the Tribal Defense Circuit: **protecting the tribe's futu
 ### Biological and Somatic
 - [[Sacral]] — The center of life-force, work, and reproduction
 - [[Spleen]] — The center of instinct, immune system, and survival
-- [[Immune System]] — Biological correspondence to values and preservation
+- Immune System — Biological correspondence to values and preservation
 - [[Reproductive System]] — Biological correspondence to caring and nurturing
 
 ### Practical Application

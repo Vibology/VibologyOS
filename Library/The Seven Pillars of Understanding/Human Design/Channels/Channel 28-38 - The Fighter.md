@@ -412,10 +412,10 @@ This is the essence of the Individual Knowing Circuit: **empowering others throu
 - [[Individual Integration Channels]] — Channels 10-20, 20-34, 10-57, 34-57
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 28 - Preponderance of the Great]] — Critical mass and risk
-- [[I-Ching Hexagram 38 - Opposition]] — Natural opposition and friction
-- [[Gene Keys 28 - Purposelessness to Immortality]] — Shadow-Gift-Siddhi framework
-- [[Gene Keys 38 - Struggle to Honour]] — Shadow-Gift-Siddhi framework
+- I-Ching Hexagram 28 - Preponderance of the Great — Critical mass and risk
+- I-Ching Hexagram 38 - Opposition — Natural opposition and friction
+- Gene Keys 28 - Purposelessness to Immortality — Shadow-Gift-Siddhi framework
+- Gene Keys 38 - Struggle to Honour — Shadow-Gift-Siddhi framework
 - [[The Tower (XVI)]] — Breaking structures through crisis
 - [[Strength (VIII)]] — Courage and perseverance
 - [[Geburah (Qabalah)]] — Severity, strength, Mars principle
@@ -435,8 +435,8 @@ This is the essence of the Individual Knowing Circuit: **empowering others throu
 ### Biological and Somatic
 - [[Spleen]] — The center of instinct and survival awareness
 - [[Root]] — The center of pressure and adrenaline
-- [[Immune System]] — Biological correspondence to knowing what is worth fighting for
-- [[Adrenal System]] — Biological correspondence to pressure and stress response
+- Immune System — Biological correspondence to knowing what is worth fighting for
+- Adrenal System — Biological correspondence to pressure and stress response
 
 ### Practical Application
 - Strategy and [[Authority]] — Waiting for recognition before engaging in struggle

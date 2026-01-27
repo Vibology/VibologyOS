@@ -462,7 +462,7 @@ When the individual honors the wave, waits for clarity, and speaks only what is 
 - [[Shadow Integration]]
 - [[Individuation]]
 - [[The Poet Archetype]]
-- [[Feeling Function]]
+- Feeling Function
 
 **Related Channels:**
 - [[Channel 39-55 - Emoting]] (Individual emotional spirit)

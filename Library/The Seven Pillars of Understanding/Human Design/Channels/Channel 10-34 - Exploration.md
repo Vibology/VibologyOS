@@ -344,10 +344,10 @@ Jung's process of individuation requires **living the Self's truth in the world*
 - Wait to Respond — The Generator's Strategy
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 10 - Treading]] — The source hexagram for Gate 10
-- [[I-Ching Hexagram 34 - Power of the Great]] — The source hexagram for Gate 34
-- [[Gene Keys 10 - Self-Obsession to Being]] — Richard Rudd's framework for Gate 10
-- [[Gene Keys 34 - Force to Majesty]] — Richard Rudd's framework for Gate 34
+- I-Ching Hexagram 10 - Treading — The source hexagram for Gate 10
+- I-Ching Hexagram 34 - Power of the Great — The source hexagram for Gate 34
+- Gene Keys 10 - Self-Obsession to Being — Richard Rudd's framework for Gate 10
+- Gene Keys 34 - Force to Majesty — Richard Rudd's framework for Gate 34
 - [[The Wheel of Fortune (X)]] — Resonance with behavior of self
 - [[The Emperor (IV)]] — Resonance with empowered authority
 
@@ -358,8 +358,8 @@ Jung's process of individuation requires **living the Self's truth in the world*
 - [[Individuation Process]] — Jung's concept of living the Self's truth
 
 ### Biological and Somatic
-- [[Liver (Biology)]] — The organ associated with the G Center
-- [[Ovaries and Testes]] — The reproductive organs in the Sacral
+- Liver (Biology) — The organ associated with the G Center
+- Ovaries and Testes — The reproductive organs in the Sacral
 - [[Self-Love as Vitality]] — The link between authentic behavior and energy
 
 ### Practical Application

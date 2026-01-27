@@ -350,10 +350,10 @@ Jung's process of individuation requires **focused attention on the psyche's con
 - Wait to Respond — The Generator's Strategy
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 9 - Taming Power of the Small]] — The source hexagram for Gate 9
-- [[I-Ching Hexagram 52 - Keeping Still]] — The source hexagram for Gate 52
-- [[Gene Keys 09 - Inertia to Invincibility]] — Richard Rudd's framework for Gate 9
-- [[Gene Keys 52 - Stress to Stillness]] — Richard Rudd's framework for Gate 52
+- I-Ching Hexagram 9 - Taming Power of the Small — The source hexagram for Gate 9
+- I-Ching Hexagram 52 - Keeping Still — The source hexagram for Gate 52
+- Gene Keys 09 - Inertia to Invincibility — Richard Rudd's framework for Gate 9
+- Gene Keys 52 - Stress to Stillness — Richard Rudd's framework for Gate 52
 - [[The Hermit (IX)]] — Resonance with focused mastery
 - [[Temperance (XIV)]] — Resonance with restraint and stillness
 
@@ -363,10 +363,10 @@ Jung's process of individuation requires **focused attention on the psyche's con
 - [[Senex and Puer]] — The integration of wisdom and determination
 
 ### Biological and Somatic
-- [[Adrenal Glands]] — The stress-response system in the Root
-- [[Ovaries and Testes]] — The reproductive organs in the Sacral
+- Adrenal Glands — The stress-response system in the Root
+- Ovaries and Testes — The reproductive organs in the Sacral
 - [[Format Energy]] — The pulsing rhythm that structures time
-- [[Burnout and Adrenal Fatigue]] — The consequence of ignoring the pulse
+- Burnout and Adrenal Fatigue — The consequence of ignoring the pulse
 
 ### Practical Application
 - [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design

@@ -353,10 +353,10 @@ Jung's process of individuation requires **reflecting on one's experiences and i
 - [[Bitterness (Not-Self)]] — The Projector's Not-Self theme
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 11 - Peace]] — The source hexagram for Gate 11
-- [[I-Ching Hexagram 56 - The Wanderer]] — The source hexagram for Gate 56
-- [[Gene Keys 11 - Obscurity to Light]] — Richard Rudd's framework for Gate 11
-- [[Gene Keys 56 - Distraction to Intoxication]] — Richard Rudd's framework for Gate 56
+- I-Ching Hexagram 11 - Peace — The source hexagram for Gate 11
+- I-Ching Hexagram 56 - The Wanderer — The source hexagram for Gate 56
+- Gene Keys 11 - Obscurity to Light — Richard Rudd's framework for Gate 11
+- Gene Keys 56 - Distraction to Intoxication — Richard Rudd's framework for Gate 56
 - [[Justice (XI)]] — Resonance with contemplative ideation
 - [[The Lovers (VI)]] — Resonance with stimulating narrative
 
@@ -367,8 +367,8 @@ Jung's process of individuation requires **reflecting on one's experiences and i
 - [[Individuation Process]] — Jung's concept of integrating experience
 
 ### Biological and Somatic
-- [[Pituitary Gland]] — The conceptual processing center in the Ajna
-- [[Thyroid and Parathyroid]] — The glands associated with the Throat
+- Pituitary Gland — The conceptual processing center in the Ajna
+- Thyroid and Parathyroid — The glands associated with the Throat
 - [[Mental Stimulation]] — The drive to ideate and express
 
 ### Practical Application

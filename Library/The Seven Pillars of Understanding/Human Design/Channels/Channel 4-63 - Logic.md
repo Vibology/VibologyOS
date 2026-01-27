@@ -356,10 +356,10 @@ Jung's process of individuation requires **questioning inherited patterns** (Gat
 - [[Bitterness (Not-Self)]] — The Projector's Not-Self theme
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 4 - Youthful Folly]] — The source hexagram for Gate 4
-- [[I-Ching Hexagram 63 - After Completion]] — The source hexagram for Gate 63
-- [[Gene Keys 04 - Intolerance to Forgiveness]] — Richard Rudd's framework
-- [[Gene Keys 63 - Doubt to Truth]] — Richard Rudd's framework
+- I-Ching Hexagram 4 - Youthful Folly — The source hexagram for Gate 4
+- I-Ching Hexagram 63 - After Completion — The source hexagram for Gate 63
+- Gene Keys 04 - Intolerance to Forgiveness — Richard Rudd's framework
+- Gene Keys 63 - Doubt to Truth — Richard Rudd's framework
 - [[The Emperor (IV)]] — Resonance with logical structure
 - [[Death (XIII)]] — Resonance with completion and questioning
 
@@ -369,9 +369,9 @@ Jung's process of individuation requires **questioning inherited patterns** (Gat
 - [[Senex and Puer]] — The integration of elder wisdom and youthful formulation
 
 ### Biological and Somatic
-- [[Pineal Gland]] — The mental pressure center in the Head
-- [[Pituitary Gland]] — The conceptual processing center in the Ajna
-- [[Visual Thinking]] — The Logic Circuit's dominant sensory mode
+- Pineal Gland — The mental pressure center in the Head
+- Pituitary Gland — The conceptual processing center in the Ajna
+- Visual Thinking — The Logic Circuit's dominant sensory mode
 
 ### Practical Application
 - [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design

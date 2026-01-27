@@ -406,10 +406,10 @@ This is the essence of the Individual Centering Circuit: **centering in one's ow
 - [[Individual Integration Channels]] — Self-empowerment channels (10-20, 20-34, 10-57, 34-57)
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 25 - Innocence]] — Uncontrived spontaneous action
-- [[I-Ching Hexagram 51 - The Arousing]] — Shock and awakening
-- [[Gene Keys 25 - Constriction to Universal Love]] — Shadow-Gift-Siddhi framework for Gate 25
-- [[Gene Keys 51 - Agitation to Awakening]] — Shadow-Gift-Siddhi framework for Gate 51
+- I-Ching Hexagram 25 - Innocence — Uncontrived spontaneous action
+- I-Ching Hexagram 51 - The Arousing — Shock and awakening
+- Gene Keys 25 - Constriction to Universal Love — Shadow-Gift-Siddhi framework for Gate 25
+- Gene Keys 51 - Agitation to Awakening — Shadow-Gift-Siddhi framework for Gate 51
 - [[The Fool (0)]] — Innocent leap into the unknown
 - [[The Tower (XVI)]] — Sudden shock and awakening
 - [[Tiphareth (Qabalah)]] — The heart/beauty sphere balancing will and spirit
@@ -429,7 +429,7 @@ This is the essence of the Individual Centering Circuit: **centering in one's ow
 ### Biological and Somatic
 - [[Ego Center]] — The center of willpower, promises, and material world engagement
 - [[G Center]] — The center of identity, direction, and love
-- [[Thymus/Heart]] — Biological correspondence to Ego Center
+- Thymus/Heart — Biological correspondence to Ego Center
 - [[Liver/Magnetic Monopole]] — Biological correspondence to G Center
 
 ### Practical Application

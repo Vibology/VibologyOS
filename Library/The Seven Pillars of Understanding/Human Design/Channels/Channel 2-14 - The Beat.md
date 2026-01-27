@@ -351,10 +351,10 @@ Jung's process of individuation requires **reclaiming projected power**. The Cha
 - Wait to Respond — The Generator's Strategy
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 2 - The Receptive]] — The source hexagram for Gate 2
-- [[I-Ching Hexagram 14 - Possession in Great Measure]] — The source hexagram for Gate 14
-- [[Gene Keys 02 - Dislocation to Unity]] — Richard Rudd's framework for Gate 2
-- [[Gene Keys 14 - Compromise to Bounteousness]] — Richard Rudd's framework for Gate 14
+- I-Ching Hexagram 2 - The Receptive — The source hexagram for Gate 2
+- I-Ching Hexagram 14 - Possession in Great Measure — The source hexagram for Gate 14
+- Gene Keys 02 - Dislocation to Unity — Richard Rudd's framework for Gate 2
+- Gene Keys 14 - Compromise to Bounteousness — Richard Rudd's framework for Gate 14
 - [[The High Priestess (II)]] — Resonance with receptive direction
 - [[Temperance (XIV)]] — Resonance with accumulated mastery
 
@@ -365,8 +365,8 @@ Jung's process of individuation requires **reclaiming projected power**. The Cha
 
 ### Biological and Somatic
 - [[Magnetic Monopole]] — The orientation mechanism in the G Center
-- [[Liver (Biology)]] — The organ associated with the G Center
-- [[Ovaries and Testes]] — The reproductive organs associated with the Sacral
+- Liver (Biology) — The organ associated with the G Center
+- Ovaries and Testes — The reproductive organs associated with the Sacral
 - [[Tantric Energy]] — Sexual energy as fuel for identity and direction
 
 ### Practical Application

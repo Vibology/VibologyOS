@@ -344,10 +344,10 @@ Jung's process of individuation requires **accepting the limitations of the ego*
 - Wait to Respond — The Generator's Strategy
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 3 - Difficulty at the Beginning]] — The source hexagram for Gate 3
-- [[I-Ching Hexagram 60 - Limitation]] — The source hexagram for Gate 60
-- [[Gene Keys 03 - Chaos to Innocence]] — Richard Rudd's framework for Gate 3
-- [[Gene Keys 60 - Limitation to Justice]] — Richard Rudd's framework for Gate 60
+- I-Ching Hexagram 3 - Difficulty at the Beginning — The source hexagram for Gate 3
+- I-Ching Hexagram 60 - Limitation — The source hexagram for Gate 60
+- Gene Keys 03 - Chaos to Innocence — Richard Rudd's framework for Gate 3
+- Gene Keys 60 - Limitation to Justice — Richard Rudd's framework for Gate 60
 - [[The Empress (III)]] — Resonance with birthing new life
 - [[The Hanged Man (XII)]] — Resonance with accepting limitation
 
@@ -357,10 +357,10 @@ Jung's process of individuation requires **accepting the limitations of the ego*
 - [[Self and Trickster]] — The integration of order and chaos
 
 ### Biological and Somatic
-- [[Adrenal Glands]] — The stress-response system in the Root
-- [[Ovaries and Testes]] — The reproductive organs in the Sacral
+- Adrenal Glands — The stress-response system in the Root
+- Ovaries and Testes — The reproductive organs in the Sacral
 - [[Format Energy]] — The pulsing rhythm that structures time
-- [[Burnout and Adrenal Fatigue]] — The consequence of ignoring the pulse
+- Burnout and Adrenal Fatigue — The consequence of ignoring the pulse
 
 ### Practical Application
 - [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design

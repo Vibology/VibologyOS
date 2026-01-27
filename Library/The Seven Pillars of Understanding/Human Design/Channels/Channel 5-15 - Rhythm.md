@@ -347,10 +347,10 @@ Jung's process of individuation requires **patience with the psyche's natural rh
 - Wait to Respond — The Generator's Strategy
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 5 - Waiting]] — The source hexagram for Gate 5
-- [[I-Ching Hexagram 15 - Modesty]] — The source hexagram for Gate 15
-- [[Gene Keys 05 - Impatience to Timelessness]] — Richard Rudd's framework for Gate 5
-- [[Gene Keys 15 - Dullness to Florescence]] — Richard Rudd's framework for Gate 15
+- I-Ching Hexagram 5 - Waiting — The source hexagram for Gate 5
+- I-Ching Hexagram 15 - Modesty — The source hexagram for Gate 15
+- Gene Keys 05 - Impatience to Timelessness — Richard Rudd's framework for Gate 5
+- Gene Keys 15 - Dullness to Florescence — Richard Rudd's framework for Gate 15
 - [[The Hierophant (V)]] — Resonance with patience and divine timing
 - [[Temperance (XIV)]] — Resonance with balance and alchemy
 
@@ -360,8 +360,8 @@ Jung's process of individuation requires **patience with the psyche's natural rh
 - [[Self and Lover]] — The integration of patience and loving expression
 
 ### Biological and Somatic
-- [[Ovaries and Testes]] — The reproductive organs in the Sacral
-- [[Liver (Biology)]] — The organ associated with the G Center
+- Ovaries and Testes — The reproductive organs in the Sacral
+- Liver (Biology) — The organ associated with the G Center
 - [[Tantric Energy]] — Sexual energy as fuel for identity and direction
 - [[Natural Rhythms]] — Seasons, lunar cycles, personal energy patterns
 

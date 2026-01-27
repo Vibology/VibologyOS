@@ -421,10 +421,10 @@ This is the essence of the Tantric channels: **the life-force energy reveals ide
 - [[Collective Sensing (Abstract) Circuit]] — Experience, reflection, past focus
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 29 - The Abysmal]] — Persistence through danger
-- [[I-Ching Hexagram 46 - Pushing Upward]] — Gradual steady ascent
-- [[Gene Keys 29 - Half-Heartedness to Devotion]] — Shadow-Gift-Siddhi framework
-- [[Gene Keys 46 - Seriousness to Ecstasy]] — Shadow-Gift-Siddhi framework
+- I-Ching Hexagram 29 - The Abysmal — Persistence through danger
+- I-Ching Hexagram 46 - Pushing Upward — Gradual steady ascent
+- Gene Keys 29 - Half-Heartedness to Devotion — Shadow-Gift-Siddhi framework
+- Gene Keys 46 - Seriousness to Ecstasy — Shadow-Gift-Siddhi framework
 - [[The Hanged Man (XII)]] — Surrender and committed perspective shift
 - [[The Wheel of Fortune (X)]] — Luck, serendipity, cycles
 - [[Chesed and Netzach (Qabalah)]] — Mercy and Victory

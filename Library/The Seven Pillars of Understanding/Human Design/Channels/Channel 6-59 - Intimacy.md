@@ -347,10 +347,10 @@ Jung's process of individuation requires **differentiation before integration**.
 - Wait to Respond — The Generator's Strategy
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 6 - Conflict]] — The source hexagram for Gate 6
-- [[I-Ching Hexagram 59 - Dispersion]] — The source hexagram for Gate 59
-- [[Gene Keys 06 - Conflict to Peace]] — Richard Rudd's framework for Gate 6
-- [[Gene Keys 59 - Dishonesty to Transparency]] — Richard Rudd's framework for Gate 59
+- I-Ching Hexagram 6 - Conflict — The source hexagram for Gate 6
+- I-Ching Hexagram 59 - Dispersion — The source hexagram for Gate 59
+- Gene Keys 06 - Conflict to Peace — Richard Rudd's framework for Gate 6
+- Gene Keys 59 - Dishonesty to Transparency — Richard Rudd's framework for Gate 59
 - [[The Lovers (VI)]] — Resonance with union and choice
 - [[The Moon (XVIII)]] — Resonance with dissolution of barriers
 
@@ -361,9 +361,9 @@ Jung's process of individuation requires **differentiation before integration**.
 
 ### Biological and Somatic
 - [[Kidney-Pancreas Complex]] — The Solar Plexus organs
-- [[Ovaries and Testes]] — The Sacral reproductive organs
+- Ovaries and Testes — The Sacral reproductive organs
 - [[Emotional Wave]] — The highs, lows, and clarity of emotional authority
-- [[Aura Penetration]] — The unique capacity of Gate 59
+- Aura Penetration — The unique capacity of Gate 59
 
 ### Practical Application
 - [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design

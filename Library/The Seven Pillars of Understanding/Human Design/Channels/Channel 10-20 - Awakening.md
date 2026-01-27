@@ -346,10 +346,10 @@ Jung's process of individuation is the journey to the Self. The Channel 10-20 in
 - [[Bitterness (Not-Self)]] — The Projector's Not-Self theme
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 10 - Treading]] — The source hexagram for Gate 10
-- [[I-Ching Hexagram 20 - Contemplation]] — The source hexagram for Gate 20
-- [[Gene Keys 10 - Self-Obsession to Being]] — Richard Rudd's framework for Gate 10
-- [[Gene Keys 20 - Superficiality to Presence]] — Richard Rudd's framework for Gate 20
+- I-Ching Hexagram 10 - Treading — The source hexagram for Gate 10
+- I-Ching Hexagram 20 - Contemplation — The source hexagram for Gate 20
+- Gene Keys 10 - Self-Obsession to Being — Richard Rudd's framework for Gate 10
+- Gene Keys 20 - Superficiality to Presence — Richard Rudd's framework for Gate 20
 - [[The Wheel of Fortune (X)]] — Resonance with behavior of self
 - [[Judgement (XX)]] — Resonance with awakening presence
 
@@ -359,14 +359,14 @@ Jung's process of individuation is the journey to the Self. The Channel 10-20 in
 - [[Individuation Process]] — Jung's concept of becoming whole
 
 ### Biological and Somatic
-- [[Liver (Biology)]] — The organ associated with the G Center
-- [[Thyroid and Parathyroid]] — The glands associated with the Throat
-- [[Metabolic Alignment]] — The connection between authentic expression and energy
+- Liver (Biology) — The organ associated with the G Center
+- Thyroid and Parathyroid — The glands associated with the Throat
+- Metabolic Alignment — The connection between authentic expression and energy
 
 ### Practical Application
 - [[The 7-Year Deconditioning Cycle]] — The process of returning to authentic design
 - [[Self-Love as Survival]] — Loving oneself as the foundation of Integration
-- [[Present-Moment Awareness]] — Living in the now
+- Present-Moment Awareness — Living in the now
 
 ## Sources
 **Primary Source:**
