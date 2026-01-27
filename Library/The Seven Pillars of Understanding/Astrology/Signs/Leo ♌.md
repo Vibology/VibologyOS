@@ -147,7 +147,7 @@ Leo naturally corresponds to the **5th House**—the domain of **creativity**, *
 
 ---
 ## Psychological Depth
-Leo represents **creative self-expression**—the capacity to *play*, to make art, to perform the self as a deliberate act. In Jungian terms, Leo is the **[[Hero]] in triumph**: the moment when the individual claims their throne, not through conquest but through *self-recognition*.
+Leo represents **creative self-expression**—the capacity to *play*, to make art, to perform the self as a deliberate act. In Jungian terms, Leo is the **[[The Hero]] in triumph**: the moment when the individual claims their throne, not through conquest but through *self-recognition*.
 
 Psychologically, strong Leo placement correlates with:
 - Confidence and self-possession
@@ -227,9 +227,9 @@ The Lion teaches that you do not need to dim your light to make others comfortab
 - [[Sun ☉]] — Leo's ruler, the core identity and life force
 - [[Aquarius ♒]] — Leo's polarity, the axis of self and collective
 - [[5th House]] — Leo's natural domain, creativity and joy
-- [[Strength (Tarot)]] — Key VIII, mastery through presence
+- [[Strength (VIII)|Strength]] — Key VIII, mastery through presence
 - [[The Hero]] — The archetype of triumph and self-recognition
-- [[King (Jungian)]] — The sovereign archetype, earned authority
+- [[The Wise Old Man|The King]] — The sovereign archetype, earned authority
 - [[Fire Element]] — Leo as Fixed Fire, sustained radiance
 - [[Fixed Modality]] — Leo as sustainer, the bonfire that endures
 

@@ -204,7 +204,7 @@ In esoteric anatomy, Capricorn governs the **knees** (the joints that allow asce
 - **Houses:** [[10th House]] (natural affinity—career, public standing, legacy)
 - **Modalities:** [[Cardinal Signs]] (initiating, building energy)
 - **Elements:** [[Earth Signs]] (grounding, structural expression)
-- **Themes:** [[The Shadow]] (tyranny, workaholism), [[The Wise Old Man]] (earned mastery), [[Individuation]] (learning when to climb, when to descend)
+- **Themes:** [[The Shadow]] (tyranny, workaholism), [[The Wise Old Man]] (earned mastery), [[Individuation Process]] (learning when to climb, when to descend)
 
 ---
 ## Interpretation Guide

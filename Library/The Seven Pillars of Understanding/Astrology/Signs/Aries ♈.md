@@ -147,7 +147,7 @@ Aries naturally corresponds to the **1st House**—the domain of the **body**, t
 
 ---
 ## Psychological Depth
-Aries represents the **ego's first assertion**—the "I want" that precedes "I should." In Jungian terms, Aries is the **[[Hero]] at the threshold**: the moment when the individual separates from the maternal womb ([[Cancer ♋]]) and claims autonomy.
+Aries represents the **ego's first assertion**—the "I want" that precedes "I should." In Jungian terms, Aries is the **[[The Hero]] at the threshold**: the moment when the individual separates from the maternal womb ([[Cancer ♋]]) and claims autonomy.
 
 Psychologically, strong Aries placement correlates with:
 - Courage and willingness to risk
@@ -233,7 +233,6 @@ The Ram teaches that the greatest risk is not failure but **hesitation**—the r
 - [[Cardinal Modality]] — Aries as season-starter, the beginning of spring
 
 ---
-
 ## Sources
 [^1]: Lilly, *Christian Astrology*, Book 1: Mars rules Aries as Day House
 [^2]: Lilly, *Christian Astrology*, Book 1; Ptolemy, *Tetrabiblos*, Book 1: Sun exalted in Aries at 19°

@@ -223,7 +223,7 @@ The Scorpion teaches that there is **light within the darkness**—but you canno
 - [[Mars ♂]] — Scorpio's traditional ruler, the warrior and surgeon
 - [[Pluto ♇]] — Scorpio's modern ruler, underworld lord and transformer
 - [[8th House]] — Scorpio's natural domain, death and shared resources
-- [[Death (Tarot)]] — Key XIII, transformation and harvest
+- [[Death (XIII)|Death]] — Key XIII, transformation and harvest
 - [[The Shadow]] — Jungian archetype, the repressed and disowned
 - [[Human Design]] — Sacral Center (life force), Solar Plexus (emotional wave)
 - [[Venus ♀]] — Detriment in Scorpio, desire clashing with death

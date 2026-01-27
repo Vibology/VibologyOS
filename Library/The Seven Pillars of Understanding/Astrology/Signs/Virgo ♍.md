@@ -202,7 +202,7 @@ In esoteric anatomy, Virgo governs the **intestines** (discernment, the body's c
 - **Houses:** [[6th House]] (natural affinity—service, health, daily work)
 - **Modalities:** [[Mutable Signs]] (adapting, distributing, refining energy)
 - **Elements:** [[Earth Signs]] (grounding, practical expression)
-- **Themes:** [[The Shadow]] (perfectionism, criticism), [[The Wise Old Man]] (mastery through apprenticeship), [[Individuation]] (learning when to analyze, when to surrender)
+- **Themes:** [[The Shadow]] (perfectionism, criticism), [[The Wise Old Man]] (mastery through apprenticeship), [[Individuation Process]] (learning when to analyze, when to surrender)
 
 ---
 ## Interpretation Guide

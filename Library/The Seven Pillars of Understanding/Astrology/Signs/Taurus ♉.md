@@ -205,7 +205,7 @@ In esoteric anatomy, Taurus governs the **throat** (manifestation, the voice tha
 - **Houses:** [[2nd House]] (natural affinity—resources, self-worth, embodiment)
 - **Modalities:** [[Fixed Signs]] (sustaining, enduring energy)
 - **Elements:** [[Earth Signs]] (grounding, material expression)
-- **Themes:** [[The Shadow]] (inertia, possessiveness), [[The Great Mother]] (nourishing archetype), [[Individuation]] (learning when to hold, when to release)
+- **Themes:** [[The Shadow]] (inertia, possessiveness), [[The Great Mother]] (nourishing archetype), [[Individuation Process]] (learning when to hold, when to release)
 
 ---
 ## Interpretation Guide

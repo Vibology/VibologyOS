@@ -126,7 +126,7 @@ Where the **[[1st House]]** (Aries) is the self in isolation, the 7th House is t
 
 ---
 ## Psychological Depth
-Libra represents **the mirror of relationship**—the other as the screen onto which the [[The Shadow]] is projected. In Jungian terms, Libra is the **[[Syzygy]]**: the union of opposites (anima/animus, masculine/feminine) that catalyzes [[Individuation]].
+Libra represents **the mirror of relationship**—the other as the screen onto which the [[The Shadow]] is projected. In Jungian terms, Libra is the **[[The Syzygy]]**: the union of opposites (anima/animus, masculine/feminine) that catalyzes [[Individuation Process]].
 
 Psychologically, strong Libra placement correlates with:
 - Diplomatic skill and social grace
@@ -205,8 +205,8 @@ The Scales teach that justice is not sameness. It is **right relationship**—an
 - [[Aries ♈]] — Polarity axis, the "I" to Libra's "we"
 - [[7th House]] — Natural domain, partnership and contracts
 - [[Saturn ♄]] — Exalted in Libra, justice as cosmic law
-- [[Syzygy]] — Jungian union of opposites, marriage as individuation
-- [[Justice (Tarot)]] — Key XI, the weighing of consequence
+- [[The Syzygy]] — Jungian union of opposites, marriage as individuation
+- [[Justice (XI)|Justice]] — Key XI, the weighing of consequence
 - [[G-Center]] — Human Design love and identity in relationship
 
 ---

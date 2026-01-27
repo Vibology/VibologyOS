@@ -150,7 +150,7 @@ Psychologically, strong Aquarius placement correlates with:
 Afflicted Aquarius manifests as:
 - Emotional coldness and dissociation (the collective without the personal)
 - Ideological rigidity (the vision becomes dogma)
-- The [[The Shadow]] of the Fanatic: sacrifice of the individual for the abstract collective
+- [[The Shadow]] of the Fanatic: sacrifice of the individual for the abstract collective
 
 The **Aquarius wound** is the terror of ordinariness—the fear that if you are not special, revolutionary, ahead of your time, you have no value. The native with strong Aquarius often exiles themselves from human warmth, believing that connection equals conformity, that intimacy is the death of innovation.
 
@@ -222,10 +222,9 @@ The Water Bearer teaches that the future is not elsewhere. It is **here**, waiti
 - [[11th House]] — Natural domain, community and collective vision
 - [[The Collective Unconscious]] — Jungian archetype, shared human patterns
 - [[The Star (XVII)|The Star]] — Key XVII, hope and future vision
-- [[Head Center]] — Human Design inspiration and mental pressure
+- [[Head]] — Human Design inspiration and mental pressure
 
 ---
-
 ## Sources
 
 - Lilly, William. *Christian Astrology*. Book 1 (planetary dignities, house joys, zodiacal anatomy)

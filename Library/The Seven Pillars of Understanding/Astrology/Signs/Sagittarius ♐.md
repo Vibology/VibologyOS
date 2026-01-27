@@ -147,7 +147,7 @@ Sagittarius naturally corresponds to the **9th House**—the domain of **philoso
 
 ---
 ## Psychological Depth
-Sagittarius represents **the quest for meaning**—the refusal to accept surface explanations, the hunger for the "why" beneath the "what." In Jungian terms, Sagittarius is the **[[Hero]] on the journey**: the one who leaves the homeland ([[Gemini ♊]]) in search of the Holy Grail.
+Sagittarius represents **the quest for meaning**—the refusal to accept surface explanations, the hunger for the "why" beneath the "what." In Jungian terms, Sagittarius is the **[[The Hero]] on the journey**: the one who leaves the homeland ([[Gemini ♊]]) in search of the Holy Grail.
 
 Psychologically, strong Sagittarius placement correlates with:
 - Optimism and faith in life's benevolence
@@ -228,7 +228,7 @@ The Archer teaches that the arrow cannot return to the bow. Once released, you a
 - [[9th House]] — Sagittarius' natural domain, the quest for meaning
 - [[Temperance (Tarot)]] — Key XIV, alchemical synthesis
 - [[The Hero]] — The archetype of the journey, the quest
-- [[Sage (Jungian)]] — The wisdom archetype, earned truth
+- [[The Wise Old Man|The Sage]] — The wisdom archetype, earned truth
 - [[Fire Element]] — Sagittarius as Mutable Fire, the spreading flame
 - [[Mutable Modality]] — Sagittarius as distributor, the wandering prophet
 
