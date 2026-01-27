@@ -261,7 +261,7 @@ The 3rd House challenge is to heal sibling wounds so they do not contaminate all
 ### Cross-System Integration
 - **[[Human Design]]:** Ajna Center (mental awareness), Throat Center (articulation)
 - **[[The Tarot]]:** [[The Magician (I)|The Magician]] (Key I) — Mercury as messenger, communication as magic
-- **[[Jungian Archetypes]]:** The [[Trickster]] (Mercury archetype)—playful, boundary-crossing communication
+- **[[Jungian Archetypes]]:** [[The Joker|The Trickster]] (Mercury archetype)—playful, boundary-crossing communication
 - **[[The Window]]:** Hod (Splendor) — Intellect, language, structured thought
 
 ---
