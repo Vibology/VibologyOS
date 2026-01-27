@@ -274,7 +274,7 @@ When romance becomes partnership, it moves from the 5th House (joy) to the 7th H
 ### Cross-System Integration
 - **[[Human Design]]:** Sacral Center (creative life force), Heart Center (ego-will)
 - **[[The Tarot]]:** [[The Sun (XIX)|The Sun]] (Key XIX) — Joy, innocence, creative radiance
-- **[[Jungian Archetypes]]:** The [[Puer/Puella]] (eternal youth), The [[Inner Child]]
+- **[[Jungian Archetypes]]:** [[Puer and Puella]] (eternal youth), [[The Inner Child]]
 - **[[The Window]]:** Tiphareth (Beauty) — The solar center that harmonizes and creates
 
 ---

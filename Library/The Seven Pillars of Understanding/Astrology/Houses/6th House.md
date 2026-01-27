@@ -280,7 +280,7 @@ The 6th House challenge is to **listen to the body before it screams**—to trea
 ### Cross-System Integration
 - **[[Human Design]]:** Spleen Center (health, survival), Sacral Center (sustainable work)
 - **[[The Tarot]]:** [[The Hermit (IX)|The Hermit]] (Key IX) — Solitary discipline, refinement through withdrawal
-- **[[Jungian Archetypes]]:** The [[Craftsman]] (mastery through repetition)
+- **[[Jungian Archetypes]]:** [[The Craftsman]] (mastery through repetition)
 - **[[The Window]]:** Tiphareth (Beauty) — Harmony achieved through discipline
 
 ---
