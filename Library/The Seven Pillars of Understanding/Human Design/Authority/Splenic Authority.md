@@ -138,8 +138,8 @@ Individuals with Splenic Authority bring:
 
 - **Spleen Center:** See [[Spleen]] for the mechanical basis of Splenic Authority
 - **Other Authorities:** See [[Emotional Authority]], [[Sacral Authority]], [[Ego Authority]], [[Self-Projected Authority]], [[Mental Authority]]
-- **Jungian Parallel:** The [[Instinct]] (pre-rational knowing) and [[Synchronicity]] (alignment with the moment)
-- **Tarot:** [[The Fool (0)]] (trust in the leap), [[The Magician]] (acting in the present)
+- **Jungian Parallel:** The Instinct (pre-rational knowing) and [[Synchronicity]] (alignment with the moment)
+- **Tarot:** [[The Fool (0)]] (trust in the leap), [[The Magician (I)]] (acting in the present)
 
 ---
 ## Strategy Integration

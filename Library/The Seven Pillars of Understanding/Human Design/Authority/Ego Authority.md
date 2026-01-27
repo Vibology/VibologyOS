@@ -147,8 +147,8 @@ Individuals with Ego Authority bring:
 
 - **Heart Center:** See [[Heart]] for the mechanical basis of Ego Authority
 - **Other Authorities:** See [[Emotional Authority]], [[Sacral Authority]], [[Splenic Authority]], [[Self-Projected Authority]], [[Mental Authority]]
-- **Jungian Parallel:** The [[Ego]] as necessary structure (not to be dissolved but honored)
-- **Tarot:** [[The Emperor]] (willful sovereignty), [[The Chariot]] (commitment and control)
+- **Jungian Parallel:** The Ego as necessary structure (not to be dissolved but honored)
+- **Tarot:** [[The Emperor (IV)]] (willful sovereignty), [[The Chariot (VII)]] (commitment and control)
 
 ---
 

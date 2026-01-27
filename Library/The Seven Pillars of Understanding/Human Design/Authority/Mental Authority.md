@@ -166,8 +166,8 @@ Individuals with Mental Authority bring:
 - **Open Centers:** See [[Sacral]], [[Solar Plexus]], [[Spleen]], [[Heart]], [[G Center]], [[Root]] for the mechanics of openness
 - **Projector Strategy:** See [[Projector#Strategy: To Wait for the Invitation]]
 - **Other Authorities:** See [[Emotional Authority]], [[Sacral Authority]], [[Splenic Authority]], [[Ego Authority]], [[Self-Projected Authority]]
-- **Jungian Parallel:** The [[Collective Unconscious]] (sampling the field)
-- **Tarot:** [[The Hermit]] (seeking counsel), [[The Star]] (trust in the environment)
+- **Jungian Parallel:** [[The Collective Unconscious]] (sampling the field)
+- **Tarot:** [[The Hermit (IX)]] (seeking counsel), [[The Star (XVII)]] (trust in the environment)
 
 ---
 ## Strategy Integration

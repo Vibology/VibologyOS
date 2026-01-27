@@ -146,8 +146,8 @@ Generators with Sacral Authority bring:
 - **Sacral Center:** See [[Sacral]] for the mechanical basis of Sacral Authority
 - **Generator Strategy:** See [[Generator#Strategy: To Wait to Respond]]
 - **Other Authorities:** See [[Emotional Authority]], [[Splenic Authority]], [[Ego Authority]], [[Self-Projected Authority]], [[Mental Authority]]
-- **Jungian Parallel:** The [[Body]] as oracle—soma over psyche
-- **Tarot:** [[Strength]] (trusting the inner beast), [[The Empress]] (fertile response)
+- **Jungian Parallel:** The Body as oracle—soma over psyche
+- **Tarot:** [[Strength (VIII)]] (trusting the inner beast), [[The Empress (III)]] (fertile response)
 
 ---
 ## Strategy Integration

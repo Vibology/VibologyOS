@@ -130,8 +130,8 @@ Emotionally defined individuals bring:
 
 - **Solar Plexus Center:** See [[Solar Plexus]] for the mechanical basis of Emotional Authority
 - **Other Authorities:** See [[Sacral Authority]], [[Splenic Authority]], [[Ego Authority]], [[Self-Projected Authority]], [[Mental Authority]]
-- **Jungian Parallel:** The [[Descent]] (katabasis) and return—clarity through the underworld
-- **Tarot:** [[The Moon]] (cycles and tides), [[Death]] (necessary transformation through endings)
+- **Jungian Parallel:** The Descent (katabasis) and return—clarity through the underworld
+- **Tarot:** [[The Moon (XVIII)]] (cycles and tides), [[Death (XIII)]] (necessary transformation through endings)
 
 ---
 ## Strategy Integration
