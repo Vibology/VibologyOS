@@ -97,7 +97,7 @@ When the [[Moon ☽]] is in the 11th House, **emotion requires community**. Thes
 
 ### Mercury in the 11th House
 
-When [[Mercury  ☿]] is in the 11th House, **the mind networks and collaborates**. Thought is collective, innovative, concerned with future possibilities and group ideals. These individuals connect ideas across communities and translate visions into shared language.
+When [[Mercury ☿]] is in the 11th House, **the mind networks and collaborates**. Thought is collective, innovative, concerned with future possibilities and group ideals. These individuals connect ideas across communities and translate visions into shared language.
 
 **Gift:** Networking intelligence, collaborative thinking, capacity to articulate collective vision, innovative communication
 **Challenge:** Scattered across too many networks, intellectual dilettantism, inability to commit to one community

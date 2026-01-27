@@ -210,12 +210,13 @@ Uranus teaches that evolution is not gradual. It is **punctuated equilibrium**�
 
 ---
 
-**Cross-References:**
+## Cross-References
+
 - [[Aquarius ♒]] — Uranus's modern domicile, the collective vision of the future
 - [[Scorpio ♏]] — Uranus's exaltation, mutation embraced as transformation
 - [[Saturn ♄]] — Traditional ruler of Aquarius, the tension between structure and rupture
-- [[The Tower (Tarot)]] — Key XVI, lightning strike and necessary destruction
-- [[The Fool (Tarot)]] — Key 0, the leap into the unknown
+- [[The Tower (XVI)]] — Key XVI, lightning strike and necessary destruction
+- [[The Fool (0)]] — Key 0, the leap into the unknown
 - [[Human Design]] — Spleen Center (in-the-moment awareness, Uranian consciousness)
 - [[11th House]] — Uranus's modern association via Aquarius rulership, collective patterns and future vision
 - [[Prometheus]] — Mythic archetype of the fire-bringer, the unrepentant deviant

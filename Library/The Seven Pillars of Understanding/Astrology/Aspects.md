@@ -126,6 +126,18 @@ Where in your chart do you feel the most **friction**—and have you mistaken th
 Aspects teach that ease is not always growth. Sometimes, the square is the call. Sometimes, the opposition is the mirror. And sometimes, the conjunction is the annihilation that precedes rebirth.
 
 ---
+## Cross-References
+
+- [[Sun ☉]] — Core identity, the center around which aspects orbit
+- [[Moon ☽]] — Emotional nature, the receptive principle
+- [[The Shadow]] — Opposition and square aspects reveal shadow material
+- [[Human Design]] — Neutrino weather, transiting planets activating gates
+- [[Natal Chart]] — The map where aspects reveal planetary dialogue
+- [[Transits and Timing]] — When aspects become active through transit
+- [[Individuation Process]] — Hard aspects as the forge of transformation
+
+---
+
 ## Sources
 - Lilly, William. *Christian Astrology Modestly Treated of in Three Books*. London: Printed by Tho. Brundell for John Partridge and Humphrey Blunden, 1647. The Second Edition Corrected, and Amended.
 - Ptolemy, Claudius. *Ptolemy's Tetrabiblos, or Quadripartite*. Translated by J. M. Ashmand from the Greek Paraphrase of Proclus. London: Davis and Dickson, St. Martin's-le-Grand, 1822.

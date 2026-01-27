@@ -200,7 +200,8 @@ The Scales teach that justice is not sameness. It is **right relationship**—an
 
 ---
 
-**Cross-References:**
+## Cross-References
+
 - [[Venus ♀]] — Libra's ruler, love as aesthetic harmony and balance
 - [[Aries ♈]] — Polarity axis, the "I" to Libra's "we"
 - [[7th House]] — Natural domain, partnership and contracts

@@ -1400,7 +1400,7 @@ Every human being must reconcile with the "animal within" to become whole.
 
 ---
 
-## Internal Links and Cross-References
+## Cross-References
 
 ### Jungian Archetypes
 - [[The Anima]] — Feminine soul-image; the Beast as contaminated Anima

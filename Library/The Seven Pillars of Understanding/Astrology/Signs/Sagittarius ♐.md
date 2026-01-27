@@ -222,7 +222,8 @@ The Archer teaches that the arrow cannot return to the bow. Once released, you a
 
 ---
 
-**Cross-References:**
+## Cross-References
+
 - [[Jupiter ♃]] — Sagittarius' ruler, expansion and synthesis
 - [[Gemini ♊]] — Sagittarius' polarity, the axis of meaning and data
 - [[9th House]] — Sagittarius' natural domain, the quest for meaning

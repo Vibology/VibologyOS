@@ -215,7 +215,8 @@ The Water Bearer teaches that the future is not elsewhere. It is **here**, waiti
 
 ---
 
-**Cross-References:**
+## Cross-References
+
 - [[Saturn ♄]] — Aquarius's traditional ruler, collective law and structure
 - [[Uranus ♅]] — Aquarius's modern ruler, revolution and innovation
 - [[Leo ♌]] — Polarity axis, the individual to Aquarius's collective

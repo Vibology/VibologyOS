@@ -222,7 +222,8 @@ The Ram teaches that the greatest risk is not failure but **hesitation**—the r
 
 ---
 
-**Cross-References:**
+## Cross-References
+
 - [[Mars ♂]] — Aries' ruler, the warrior's force
 - [[Libra ♎]] — Aries' polarity, the axis of I and We
 - [[Sun ☉]] — Exalted in Aries, the will in action

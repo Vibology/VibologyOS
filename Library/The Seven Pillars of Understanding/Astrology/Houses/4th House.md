@@ -111,7 +111,7 @@ When the [[Moon ☽]] is in the 4th House (its natural home), **emotional securi
 
 ### Mercury in the 4th House
 
-When [[Mercury  ☿]] is in the 4th House, **the mind processes ancestry and emotional foundation**. Thought is private, interior, focused on family narratives and psychological roots. These individuals think about home, analyze family dynamics, and articulate the unspoken.
+When [[Mercury ☿]] is in the 4th House, **the mind processes ancestry and emotional foundation**. Thought is private, interior, focused on family narratives and psychological roots. These individuals think about home, analyze family dynamics, and articulate the unspoken.
 
 **Gift:** Psychological insight into family, articulate about emotions, intellectual roots
 **Challenge:** Overthinking family history, difficulty leaving the past mentally

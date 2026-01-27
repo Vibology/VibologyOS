@@ -98,7 +98,7 @@ When the [[Moon ☽]] is in the 8th House, **emotion is volcanic**. These indivi
 
 ### Mercury in the 8th House
 
-When [[Mercury  ☿]] is in the 8th House, **the mind investigates the hidden**. Thought is psychological, occult, focused on depth and transformation. These individuals analyze shadow, research taboo subjects, and communicate the unspoken. The mind probes beneath surface reality to uncover buried truth.
+When [[Mercury ☿]] is in the 8th House, **the mind investigates the hidden**. Thought is psychological, occult, focused on depth and transformation. These individuals analyze shadow, research taboo subjects, and communicate the unspoken. The mind probes beneath surface reality to uncover buried truth.
 
 **Gift:** Psychological insight, investigative intelligence, capacity to articulate the unconscious, research skill
 **Challenge:** Obsessive thinking, paranoia, mental fixation on death or trauma, difficulty with lighthearted communication

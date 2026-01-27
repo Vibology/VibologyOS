@@ -100,7 +100,7 @@ When the [[Moon ☽]] is in the 3rd House (the Moon's traditional joy), **emotio
 
 ### Mercury in the 3rd House
 
-When [[Astrology/Planets/Mercury # ☿]] is in the 3rd House (its natural home), **communication is effortless**. These individuals process information rapidly, adapt easily, and translate complex ideas into accessible language.
+When [[Mercury ☿]] is in the 3rd House (its natural home), **communication is effortless**. These individuals process information rapidly, adapt easily, and translate complex ideas into accessible language.
 
 **Gift:** Mental agility, linguistic skill, quick wit
 **Challenge:** Superficiality, scattered focus, difficulty with depth
@@ -253,7 +253,7 @@ The 3rd House challenge is to heal sibling wounds so they do not contaminate all
 
 ### Within Astrology
 - **[[Gemini ♊]]:** Natural ruler of the 3rd House
-- **[[Astrology/Planets/Mercury # ☿]]:** Planetary ruler of Gemini and significator of communication, learning
+- **[[Mercury ☿]]:** Planetary ruler of Gemini and significator of communication, learning
 - **[[Moon ☽]]:** Planetary joy in 3rd House—instinctual knowing
 - **9th House:** The philosophical opposite (local vs. distant, facts vs. meaning)
 - **[[Saturn ♄]]:** Tests and restrictions in communication, learning

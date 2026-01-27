@@ -124,6 +124,17 @@ What are you resisting *right now*—and is it possible that the resistance itse
 Transits teach that you cannot control the weather. You can only **learn to navigate** it—and in that navigation, discover whether you are the puppet or the sailor.
 
 ---
+## Cross-References
+
+- [[Aspects]] — The angular relationships activated by transits
+- [[Saturn ♄]] — The great teacher, Saturn returns and transits
+- [[Natal Chart]] — The birth chart that transits activate
+- [[Human Design]] — Neutrino weather, planetary conditioning
+- [[The Shadow]] — Challenging transits surface shadow material
+- [[Individuation Process]] — Transits as timing for psychological work
+
+---
+
 ## Sources
 
 - Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Jovian Archive (transits as neutrino programming, deconditioning process)

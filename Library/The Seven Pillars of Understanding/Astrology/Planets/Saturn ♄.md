@@ -214,11 +214,12 @@ Saturn teaches that limitation is not punishment. It is **initiation**—the ord
 
 ---
 
-**Cross-References:**
+## Cross-References
+
 - [[Capricorn ♑]] — Saturn's domicile, the mountain climb and earned mastery
 - [[Aquarius ♒]] — Saturn's traditional domicile, crystallization of collective law
 - [[Libra ♎]] — Saturn's exaltation, justice as impartial consequence
-- [[Death (Tarot)]] — Key XIII, transformation through release and harvest
+- [[Death (XIII)]] — Key XIII, transformation through release and harvest
 - [[Human Design]] — Root Center (pressure to evolve), Gate 60 (limitation)
 - [[The Shadow]] — Saturn as the rejected part of the Self
 - [[12th House]] — Saturn's traditional joy, hidden burdens and karmic consequence

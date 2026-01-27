@@ -97,7 +97,7 @@ When the [[Moon ☽]] is in the 6th House, **emotion requires routine**. These i
 
 ### Mercury in the 6th House
 
-When [[Mercury  ☿]] is in the 6th House (Mercury's second domicile), **the mind refines through repetition**. Thought is analytical, detail-oriented, focused on craft and service. These individuals perfect through mental precision and systematic work.
+When [[Mercury ☿]] is in the 6th House (Mercury's second domicile), **the mind refines through repetition**. Thought is analytical, detail-oriented, focused on craft and service. These individuals perfect through mental precision and systematic work.
 
 **Gift:** Analytical excellence, attention to detail, mastery through practice
 **Challenge:** Overthinking health, mental exhaustion from perfectionism
@@ -272,7 +272,7 @@ The 6th House challenge is to **listen to the body before it screams**—to trea
 
 ### Within Astrology
 - **[[Virgo ♍]]:** Natural ruler of the 6th House
-- **[[Astrology/Planets/Mercury # ☿]]:** Planetary ruler of Virgo and significator of analysis, discernment
+- **[[Mercury ☿]]:** Planetary ruler of Virgo and significator of analysis, discernment
 - **[[Mars ♂]]:** Planetary joy in 6th House—the warrior as craftsman
 - **5th House:** Creative joy transitions to disciplined labor (5th to 6th)
 - **10th House:** Employment (6th) vs. vocation (10th)

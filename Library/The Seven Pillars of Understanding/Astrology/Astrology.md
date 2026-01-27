@@ -30,11 +30,11 @@ Astrology is one of humanity's oldest sciences, practiced for over 4,000 years a
 
 Astrology is a **symbolic language** composed of three primary elements:
 
-1. **[[Planets]]** (the *what*) — The archetypal actors or psychological functions. Each planet represents a fundamental drive, need, or principle (e.g., Mars = assertion and desire, Venus = attraction and harmony, Saturn = structure and limitation).
+1. **Planets** (the *what*) — The archetypal actors or psychological functions. Each planet represents a fundamental drive, need, or principle (e.g., Mars = assertion and desire, Venus = attraction and harmony, Saturn = structure and limitation).
 
-2. **[[Signs]]** (the *how*) — The twelve zodiacal archetypes that color and condition how a planet expresses. Signs are modes of being, each with its element (Fire, Earth, Air, Water), modality (Cardinal, Fixed, Mutable), and ruling planet. A planet in a sign is like an actor in costume—Mars in Aries (its domicile) is the warrior unbound; Mars in Libra (its detriment) is the warrior forced to negotiate.
+2. **Signs** (the *how*) — The twelve zodiacal archetypes that color and condition how a planet expresses. Signs are modes of being, each with its element (Fire, Earth, Air, Water), modality (Cardinal, Fixed, Mutable), and ruling planet. A planet in a sign is like an actor in costume—Mars in Aries (its domicile) is the warrior unbound; Mars in Libra (its detriment) is the warrior forced to negotiate.
 
-3. **[[Houses]]** (the *where*) — The twelve domains of lived experience, determined by the rotation of the Earth at the moment of birth. Houses anchor the chart in *place* and *time*, revealing where planetary energies manifest in tangible life areas (e.g., 1st House = identity and body, 7th House = partnership and projection, 10th House = public role and vocation).
+3. **Houses** (the *where*) — The twelve domains of lived experience, determined by the rotation of the Earth at the moment of birth. Houses anchor the chart in *place* and *time*, revealing where planetary energies manifest in tangible life areas (e.g., 1st House = identity and body, 7th House = partnership and projection, 10th House = public role and vocation).
 
 These three components interact dynamically:
 - **Planets in Signs** reveal psychological temperament and archetypal style
@@ -99,18 +99,18 @@ When a transiting planet returns to its natal position (e.g., Saturn Return at a
 Slow-moving outer planets (Uranus, Neptune, Pluto) mark **generational themes** and collective evolutionary pressures. The Pluto in Scorpio generation (1984-1995) carries different soul curriculum than Pluto in Sagittarius (1995-2008).
 
 ### Precession and Aeons
-The [[Precession of the Equinoxes]]—the 26,000-year wobble of Earth's axis—shifts the backdrop of the zodiac against the constellations, marking vast ages (Age of Pisces → Age of Aquarius). This is the largest temporal cycle astrology tracks.
+The **Precession of the Equinoxes**—the 26,000-year wobble of Earth's axis—shifts the backdrop of the zodiac against the constellations, marking vast ages (Age of Pisces → Age of Aquarius). This is the largest temporal cycle astrology tracks.
 
 ---
 ## The Fundamental Components
 
-### [[Planets]]
+### Planets
 The ten primary bodies (Sun, Moon, Mercury, Venus, Mars, Jupiter, Saturn, Uranus, Neptune, Pluto) plus significant points (Lunar Nodes, Chiron, major asteroids). Planets are **archetypal principles**—drives, needs, functions within the psyche and cosmos.
 
-### [[Signs]]
+### Signs
 The twelve zodiacal archetypes (Aries through Pisces), each representing a distinct mode of consciousness, element, and seasonal energy. Signs **condition** how planets express.
 
-### [[Houses]]
+### Houses
 The twelve life domains (1st through 12th), determined by the Earth's rotation. Houses are **angular** (1st, 4th, 7th, 10th—strongest), **succedent** (2nd, 5th, 8th, 11th—stable), or **cadent** (3rd, 6th, 9th, 12th—mutable, preparatory).
 
 ### [[Aspects]]
@@ -125,7 +125,7 @@ Within the [[Vibology]] framework, **Astrology** provides the **temporal coordin
 - **[[The Tarot]]** reads the *present moment* and immediate trajectory
 - **[[Astrology]]** tracks the *unfolding cycles* and ambient field conditions over time
 
-**Example:** A [[Generator]] (HD) experiences a Saturn Return (Astrology) while drawing [[The Tower]] (Tarot)—three systems converging on a single theme: *the collapse of false structures to reveal authentic power*. Each system offers a distinct lens on the same archetypal event.
+**Example:** A [[Generator]] (HD) experiences a Saturn Return (Astrology) while drawing [[The Tower (XVI)]] (Tarot)—three systems converging on a single theme: *the collapse of false structures to reveal authentic power*. Each system offers a distinct lens on the same archetypal event.
 
 Astrology also provides the **ambient field** context: What was the cosmic weather at birth? What evolutionary pressures shaped the soul's incarnation? The chart is not a prison but a **map of the territory**—revealing the landscape the soul chose to navigate.
 
@@ -253,28 +253,29 @@ Both matter. The Ascendant = *how* you move through the world (your vehicle, you
 ## Navigating This Pillar
 
 The Astrology pillar contains:
-- **10 [[Planets]]** — From Sun to Pluto, plus Lunar Nodes
-- **12 [[Signs]]** — Aries through Pisces, elemental and modal analysis
-- **12 [[Houses]]** — Life domains from identity (1st) to dissolution (12th)
+- **10 Planets** — From Sun to Pluto, plus Lunar Nodes
+- **12 Signs** — Aries through Pisces, elemental and modal analysis
+- **12 Houses** — Life domains from identity (1st) to dissolution (12th)
 - **[[Aspects]]** — Geometric relationships and their meanings
 - **[[Transits and Timing]]** — How current sky activates natal chart
-- **[[Global Cycles]]** — Collective evolutionary markers
+- **Global Cycles** — Collective evolutionary markers
 
 Each entry includes:
 - Traditional foundations (essential dignities, sect, mythology)
 - Jungian and archetypal depth
-- Cross-system correspondences ([[Human Design]], [[Tarot]], [[Qabalah]])
+- Cross-system correspondences ([[Human Design]], [[The Tarot]], Qabalah)
 - Practical application (natal interpretation, transits, shadow work)
 
-Begin with the fundamentals—understand [[Planets]], [[Signs]], and [[Houses]] individually before synthesizing their interactions. Astrology rewards patience; it is a language learned through immersion, not memorization.
+Begin with the fundamentals—understand Planets, Signs, and Houses individually before synthesizing their interactions. Astrology rewards patience; it is a language learned through immersion, not memorization.
 
 ---
 
-**Cross-References:**
+## Cross-References
+
 - [[Human Design]] — The bodygraph as astro-genetic imprint
 - [[The Tarot]] — Qabalistic and astrological correspondences in the cards
 - [[Seven-Coordinate Navigation]] — Astrology as temporal/ambient coordinate
-- [[Qabalah]] — Planetary and zodiacal Sephirotic correspondences
+- [[Tree of Life]] — Planetary and zodiacal Sephirotic correspondences
 
 ---
 

@@ -162,13 +162,13 @@ Purpose is not something to chase. It **reveals itself** through correct living.
 
 ## Cross-References
 ### Cross Geometries
-- [[Right Angle Crosses]]
-- [[Left Angle Crosses]]
-- [[Juxtaposition Crosses]]
+- **Right Angle Crosses** — Personal destiny (64 variations)
+- **Left Angle Crosses** — Transpersonal destiny (64 variations)
+- **Juxtaposition Crosses** — Fixed destiny (64 variations)
 
 ### Related Concepts
 - [[Profiles]]
-- [[Strategy and Authority]]
+- [[Authority]] and Strategy
 - [[Types]]
 - [[G Center]]
 

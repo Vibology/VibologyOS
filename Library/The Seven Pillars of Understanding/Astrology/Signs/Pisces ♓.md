@@ -232,7 +232,8 @@ The two fish teach that there is no arrival. There is only the **current**—and
 
 ---
 
-**Cross-References:**
+## Cross-References
+
 - [[Virgo ♍]] — Pisces' polarity, discernment and analysis
 - [[Jupiter ♃]] — Pisces' traditional ruler, faith and expansion
 - [[Neptune ♆]] — Pisces' modern ruler, dissolution and mysticism

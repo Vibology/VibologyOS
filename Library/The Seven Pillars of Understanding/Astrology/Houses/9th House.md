@@ -97,7 +97,7 @@ When the [[Moon ☽]] is in the 9th House, **emotion requires meaning**. These i
 
 ### Mercury in the 9th House
 
-When [[Mercury  ☿]] is in the 9th House, **the mind seeks meaning and expansion**. Thought is philosophical, synthesizing, concerned with belief systems and long-range vision. These individuals are natural teachers and scholars who translate complex ideas into accessible language.
+When [[Mercury ☿]] is in the 9th House, **the mind seeks meaning and expansion**. Thought is philosophical, synthesizing, concerned with belief systems and long-range vision. These individuals are natural teachers and scholars who translate complex ideas into accessible language.
 
 **Gift:** Philosophical intelligence, teaching skill, capacity to synthesize diverse ideas, intellectual curiosity
 **Challenge:** Intellectual arrogance, scattered focus across too many philosophies, difficulty committing to one truth

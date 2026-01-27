@@ -89,7 +89,7 @@ Channels focused on family, community, bargains, and material support. Tribal en
 - [[Gates]] — The 64 gates that form channels
 - [[Centers]] — The nine hubs connected by channels
 - [[Types]] — How channels determine Type
-- [[Definition]] — Single, Split, Triple Split patterns
+- **Definition** — Single, Split, Triple Split patterns
 
 ---
 

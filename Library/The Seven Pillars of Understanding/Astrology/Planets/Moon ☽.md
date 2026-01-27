@@ -188,10 +188,11 @@ The Moon teaches that not all wisdom is conscious. Some truths arrive in the gut
 
 ---
 
-**Cross-References:**
+## Cross-References
+
 - [[Cancer ♋]] — The Moon's domicile, womb and clan
 - [[Taurus ♉]] — The Moon's exaltation, instinct grounded in sensory peace
-- [[The High Priestess (Tarot)]] — Key II, lunar mystery and threshold
+- [[The High Priestess (II)]] — Key II, lunar mystery and threshold
 - [[Human Design]] — Design Moon (unconscious emotional conditioning)
 - [[The Anima]] — The Jungian feminine principle in the male psyche
 - [[3rd House]] — The Moon's traditional joy, messenger of somatic intelligence

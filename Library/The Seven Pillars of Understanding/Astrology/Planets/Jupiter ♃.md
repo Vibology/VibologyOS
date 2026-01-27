@@ -222,13 +222,14 @@ Jupiter teaches that faith is not blind. It is the willingness to act *as if* th
 
 ---
 
-**Cross-References:**
+## Cross-References
+
 - [[Sagittarius ♐]] — Jupiter's domicile, the quest for meaning and expansion
 - [[Pisces ♓]] — Jupiter's domicile (traditional), universal compassion and dissolution
 - [[Cancer ♋]] — Jupiter's exaltation, protection and nourishment
-- [[The Wheel of Fortune (Tarot)]] — Key X, expansion and the turning of fate
+- [[Wheel of Fortune (X)]] — Key X, expansion and the turning of fate
 - [[Human Design]] — Gate 29 (Jupiter exaltation degree), perseverance through faith
-- [[Wise Old Man]] — The Jungian archetype of perspective and guidance
+- [[The Wise Old Man]] — The Jungian archetype of perspective and guidance
 - [[11th House]] — Jupiter's traditional joy, friends, hopes, and trust
 - [[9th House]] — Jupiter's natural rulership via Sagittarius, higher learning and philosophy
 - [[12th House]] — Jupiter's natural rulership via Pisces (traditional), compassion and hidden wisdom

@@ -98,7 +98,7 @@ When the [[Moon ☽]] is in the 12th House, **emotion is unconscious**. These in
 
 ### Mercury in the 12th House
 
-When [[Mercury  ☿]] is in the 12th House, **the mind dissolves into the transpersonal**. Thought is intuitive, non-linear, often unconscious. These individuals communicate the symbolic and mystical, accessing knowledge from the collective unconscious.
+When [[Mercury ☿]] is in the 12th House, **the mind dissolves into the transpersonal**. Thought is intuitive, non-linear, often unconscious. These individuals communicate the symbolic and mystical, accessing knowledge from the collective unconscious.
 
 **Gift:** Intuitive intelligence, symbolic thinking, capacity to articulate the ineffable, mystical communication
 **Challenge:** Scattered thinking, difficulty with linear logic, unconscious mental patterns, communication breakdowns

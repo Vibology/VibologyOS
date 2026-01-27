@@ -114,7 +114,7 @@ When the [[Moon ☽]] is in the 10th House, **emotion is public**. These individ
 
 ### Mercury in the 10th House
 
-When [[Mercury  ☿]] is in the 10th House, **the mind serves public role**. Thought is strategic, professional, focused on reputation and authority. These individuals build careers through communication, writing, teaching, or intellectual leadership.
+When [[Mercury ☿]] is in the 10th House, **the mind serves public role**. Thought is strategic, professional, focused on reputation and authority. These individuals build careers through communication, writing, teaching, or intellectual leadership.
 
 **Gift:** Strategic thinking, professional communication, reputation for intelligence, teaching authority
 **Challenge:** Reputation dependent on intellectual performance, overthinking public image, analysis paralysis in leadership

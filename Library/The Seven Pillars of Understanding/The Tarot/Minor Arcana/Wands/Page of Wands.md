@@ -511,6 +511,19 @@ To honor the Page is to honor the beginning. And the beginning, however fragile,
 
 ---
 
+## Cross-References
+
+- [[Ace of Wands]] — The pure spark of creative will
+- [[The Emperor (IV)]] — Authority, sovereignty, strategic command
+- [[The Magician (I)]] — Will as the power to transform reality
+- [[The Sun (XIX)]] — Creative vitality, radiant presence
+- [[Leo ♌]] — Solar sovereignty, creative self-expression
+- [[Aries ♈]] — Initiating fire, the will to begin
+- [[Sagittarius ♐]] — Visionary fire, the quest for meaning
+- [[Human Design]] — Manifestor type, Gate 51 (Shock/Initiation)
+
+---
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 

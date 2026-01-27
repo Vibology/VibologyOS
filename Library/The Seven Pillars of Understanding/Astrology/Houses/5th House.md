@@ -99,7 +99,7 @@ When the [[Moon ☽]] is in the 5th House, **emotion seeks creative outlet**. Th
 
 ### Mercury in the 5th House
 
-When [[Mercury  ☿]] is in the 5th House, **the mind expresses creatively**. Thought becomes art, play, and storytelling. Communication equals performance, teaching, and joy. These individuals create through language, wit, and intellectual playfulness.
+When [[Mercury ☿]] is in the 5th House, **the mind expresses creatively**. Thought becomes art, play, and storytelling. Communication equals performance, teaching, and joy. These individuals create through language, wit, and intellectual playfulness.
 
 **Gift:** Creative writing, teaching through play, intellectual creativity, wit
 **Challenge:** Mental performance anxiety, creativity dependent on cleverness

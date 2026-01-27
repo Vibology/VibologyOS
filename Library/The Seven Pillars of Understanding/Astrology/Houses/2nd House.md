@@ -99,7 +99,7 @@ When the [[Moon ☽]] is in the 2nd House, **emotional security requires materia
 
 ### Mercury in the 2nd House
 
-When [[Mercury  ☿]] is in the 2nd House, **the mind organizes resources**. Thought is practical, focused on value, security, and skill acquisition. These individuals earn through communication, intellect, and commercial savvy—communication equals commerce.
+When [[Mercury ☿]] is in the 2nd House, **the mind organizes resources**. Thought is practical, focused on value, security, and skill acquisition. These individuals earn through communication, intellect, and commercial savvy—communication equals commerce.
 
 **Gift:** Financial intelligence, practical thinking, skill monetization, commercial acumen
 **Challenge:** Over-intellectualizing worth; restless pursuit of financial security

@@ -223,7 +223,8 @@ The Lion teaches that you do not need to dim your light to make others comfortab
 
 ---
 
-**Cross-References:**
+## Cross-References
+
 - [[Sun ☉]] — Leo's ruler, the core identity and life force
 - [[Aquarius ♒]] — Leo's polarity, the axis of self and collective
 - [[5th House]] — Leo's natural domain, creativity and joy

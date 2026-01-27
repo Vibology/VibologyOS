@@ -8,12 +8,10 @@ verification_date: 2026-01-27
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
 verification_notes: "Hub article synthesizing individual Authority entries. Hierarchy and mechanics verified against Grimoire."
 ---
-
 # Authority
 *The Inner Intelligence of Decision-Making*
 
 ---
-
 ## Overview
 
 **Authority** in Human Design is the body's inner intelligence for determining what is correct—the somatic compass that reveals truth when [[Strategy]] has positioned you properly. Where Strategy governs *how* you engage with life's opportunities, Authority determines *what* is true for you within that engagement.
@@ -23,7 +21,6 @@ Authority is not mental. The mind thinks, analyzes, compares, and worries—but 
 Each Authority type corresponds to a specific defined Center (or configuration of Centers) in the [[The BodyGraph|BodyGraph]]. The defined Center with highest priority in the hierarchy becomes your Authority, overriding all centers below it.
 
 ---
-
 ## The Authority Hierarchy
 
 Human Design establishes a strict **hierarchy of Authority** based on Center definition. If multiple potential Authority centers are defined, only the highest in the hierarchy operates as your decision-making intelligence:
@@ -41,7 +38,6 @@ Human Design establishes a strict **hierarchy of Authority** based on Center def
 **The rule is simple:** If your Solar Plexus is defined, you have Emotional Authority—regardless of what else is defined. If your Solar Plexus is *undefined* but your Sacral is defined, you have Sacral Authority. And so on down the hierarchy.
 
 ---
-
 ## The Seven Authorities
 
 ### Emotional Authority
@@ -56,7 +52,6 @@ The most common Authority. Decisions emerge through the **emotional wave**—an 
 → [[Emotional Authority]]
 
 ---
-
 ### Sacral Authority
 *The Intelligence of the Gut*
 
@@ -69,7 +64,6 @@ The intelligence of immediate, non-verbal response. The Sacral speaks in guttura
 → [[Sacral Authority]]
 
 ---
-
 ### Splenic Authority
 *The Intelligence of the Now*
 
@@ -82,7 +76,6 @@ The body's survival intelligence—instantaneous, instinctual, and non-repeating
 → [[Splenic Authority]]
 
 ---
-
 ### Ego Authority
 *The Intelligence of Willpower*
 
@@ -95,7 +88,6 @@ Decisions rooted in **will and commitment**—what you genuinely *want*, not wha
 → [[Ego Authority]]
 
 ---
-
 ### Self-Projected Authority
 *The Intelligence of the Voice*
 
@@ -108,7 +100,6 @@ Truth is not known internally—it is **heard externally** through the sound of 
 → [[Self-Projected Authority]]
 
 ---
-
 ### Mental Authority
 *The Intelligence of Environment*
 
@@ -121,7 +112,6 @@ Also called **Environmental Authority** or **No Inner Authority**. The mind thin
 → [[Mental Authority]]
 
 ---
-
 ### Lunar Authority
 *The Intelligence of the Moon*
 
@@ -134,7 +124,6 @@ The rarest Authority, belonging to the rarest Type. With no fixed definition, Re
 → [[Reflector]]
 
 ---
-
 ## Authority by Type
 
 | Type | Possible Authorities |
@@ -152,7 +141,6 @@ The rarest Authority, belonging to the rarest Type. With no fixed definition, Re
 **Reflectors** have no choice; their complete openness mandates Lunar Authority.
 
 ---
-
 ## Authority and Deconditioning
 
 The practice of living according to your Authority is the heart of **[[Deconditioning]]**—the process of liberating the body's intelligence from the mind's conditioned control. For most people, years (even decades) of mental decision-making have overridden the body's natural knowing.
@@ -165,7 +153,6 @@ The experiment is simple:
 As you trust Authority over mind, the **Signature** of your Type emerges—Peace (Manifestor), Satisfaction (Generator), Success (Projector), Surprise (Reflector)—confirming alignment with your design.
 
 ---
-
 ## Cross-References
 
 ### Within Human Design

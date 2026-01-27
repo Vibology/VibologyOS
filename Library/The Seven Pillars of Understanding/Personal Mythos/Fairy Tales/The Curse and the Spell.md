@@ -577,7 +577,7 @@ For those living in a **false self** (performing the domesticated swan, the sile
 
 ---
 
-## Internal Links (Cross-References)
+## Cross-References
 
 #### Archetypal Figures
 [[The Shadow]] • [[The Muse]] • [[The Idol]] • [[The Divine Child]] • [[The Alchemist]] • [[The Great Mother]] • [[The Wise Old Man]] • [[The Hero]] • [[The Changeling]] • [[The Nightmare]]

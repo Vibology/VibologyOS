@@ -162,7 +162,7 @@ Practical oracle system for daily guidance, shadow work, and transformation trac
 Links [[Human Design]]'s mechanical precision + I-Ching's timeless wisdom + [[Personal Mythos]]'s mythic depth through contemporary imagery. The Window is where ancient meets modern.
 
 ---
-## Related Systems
+## Cross-References
 
 - **[[Human Design]]** - Mechanical foundation (64 gates, centers, circuits)
 - **I-Ching** - Ancient wisdom (64 hexagrams, judgments, images)

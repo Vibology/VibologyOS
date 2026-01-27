@@ -217,11 +217,12 @@ Venus teaches that self-love is not narcissism. It is **discernment**—the refu
 
 ---
 
-**Cross-References:**
+## Cross-References
+
 - [[Taurus ♉]] — Venus's domicile, embodied sensory pleasure
 - [[Libra ♎]] — Venus's domicile, relational aesthetic harmony
 - [[Pisces ♓]] — Venus's exaltation, universal compassion
-- [[The Empress (Tarot)]] — Key III, abundance and embodied feminine
+- [[The Empress (III)]] — Key III, abundance and embodied feminine
 - [[Human Design]] — Gate 37 (Venus exaltation degree), the Gate of Friendship
 - [[The Anima]] — The Jungian feminine principle in the male psyche
 - [[5th House]] — Venus's traditional joy, pleasure and creative expression

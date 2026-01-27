@@ -221,10 +221,11 @@ Neptune teaches that surrender is not weakness. It is the **willingness to be un
 
 ---
 
-**Cross-References:**
+## Cross-References
+
 - [[Pisces ♓]] — Neptune's domicile (modern), boundarylessness and universal compassion
 - [[Cancer ♋]] — Neptune's exaltation, emotional depths and protected waters
-- [[The Hanged Man (Tarot)]] — Key XII, surrender and inverted perspective
+- [[The Hanged Man (XII)]] — Key XII, surrender and inverted perspective
 - [[Human Design]] — Solar Plexus Center (emotional wave, dissolution and reformation)
 - [[The Anima]] — The Jungian archetype of soul and mystical longing
 - [[12th House]] — Neptune's modern association via Pisces rulership, the unconscious and transcendent

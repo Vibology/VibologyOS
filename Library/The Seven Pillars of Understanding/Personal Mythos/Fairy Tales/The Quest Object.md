@@ -574,7 +574,7 @@ Psychologically: **The Self (the Grail) is not conquered but revealed. It appear
 
 ---
 
-## Internal Links: Cross-References
+## Cross-References
 
 ### Jungian Archetypes
 - [[The Self]] – The Quest Object as symbol of the Self; wholeness, the God-image within

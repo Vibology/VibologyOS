@@ -216,10 +216,11 @@ Mercury does not care about truth in the absolute sense. He cares about **transm
 
 ---
 
-**Cross-References:**
+## Cross-References
+
 - [[Gemini ♊]] — Mercury's first domicile, the networked mind
 - [[Virgo ♍]] — Mercury's second domicile and exaltation, the discerning mind
-- [[The Magician (Tarot)]] — Key I, mercurial mediation between realms
+- [[The Magician (I)]] — Key I, mercurial mediation between realms
 - [[Human Design]] — Ajna Center (mental processing, conceptualization)
 - [[Hermes]] — The Trickster, psychopomp, divine messenger
 - [[Thoth]] — Egyptian scribe of divine law, cosmic intelligence

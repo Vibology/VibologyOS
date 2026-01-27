@@ -150,7 +150,7 @@ ed Identity** — They know who they are through speaking
 ## Cross-References
 
 - **G Center:** See [[G Center]] for the mechanical basis of Self-Projected Authority
-- **Projector Strategy:** See [[Projector#Strategy: To Wait for the Invitation]]
+- **Projector Strategy:** See [[Projector]] (Strategy: To Wait for the Invitation)
 - **Other Authorities:** See [[Emotional Authority]], [[Sacral Authority]], [[Splenic Authority]], [[Ego Authority]], [[Mental Authority]]
 - **Jungian Parallel:** The Voice as the carrier of the Self
 - **Tarot:** [[The High Priestess (II)]] (inner knowing articulated), [[The Hierophant (V)]] (speaking truth)

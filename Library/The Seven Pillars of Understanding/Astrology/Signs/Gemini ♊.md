@@ -197,7 +197,8 @@ The Twins teach that duality is not a problem to be solved but a **generative te
 
 ---
 
-**Cross-References:**
+## Cross-References
+
 - [[Mercury ☿]] — Gemini's ruler, the messenger and trickster
 - [[Sagittarius ♐]] — Polarity axis, synthesis to Gemini's analysis
 - [[3rd House]] — Natural domain, communication and learning

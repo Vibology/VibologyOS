@@ -175,10 +175,11 @@ The Sun does not perform. It simply *is*—and in that being, the world organize
 
 ---
 
-**Cross-References:**
+## Cross-References
+
 - [[Leo ♌]] — The Sun's domicile, sovereign creative will
 - [[Aries ♈]] — The Sun's exaltation, pure initiation
-- [[The Sun (Tarot)]] — Key XIX, innocence and solar radiance
+- [[The Sun (XIX)]] — Key XIX, innocence and solar radiance
 - [[Human Design]] — Conscious Personality Sun (70% weighting)
 - [[Individuation Process]] — The Jungian process toward the Self
 - [[5th House]] — The Sun's natural joy, creative expression

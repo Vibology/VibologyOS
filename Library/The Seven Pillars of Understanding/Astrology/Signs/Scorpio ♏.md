@@ -218,7 +218,8 @@ The Scorpion teaches that there is **light within the darkness**—but you canno
 
 ---
 
-**Cross-References:**
+## Cross-References
+
 - [[Taurus ♉]] — Scorpio's polarity, consolidation and embodiment
 - [[Mars ♂]] — Scorpio's traditional ruler, the warrior and surgeon
 - [[Pluto ♇]] — Scorpio's modern ruler, underworld lord and transformer

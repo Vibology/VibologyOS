@@ -109,7 +109,7 @@ When the [[Moon ☽]] is in the 7th House, **emotional security requires partner
 
 ### Mercury in the 7th House
 
-When [[Mercury  ☿]] is in the 7th House, **the mind knows itself through dialogue**. Thought is relational; understanding emerges in conversation, negotiation, and partnership. These individuals think best when engaging with another mind.
+When [[Mercury ☿]] is in the 7th House, **the mind knows itself through dialogue**. Thought is relational; understanding emerges in conversation, negotiation, and partnership. These individuals think best when engaging with another mind.
 
 **Gift:** Relational intelligence, mediation skills, clarity through dialogue
 **Challenge:** Mental dependency on others, inability to think alone, argumentative partnerships

@@ -216,7 +216,8 @@ The Crab teaches that vulnerability is not weakness. It is the **courage to be s
 
 ---
 
-**Cross-References:**
+## Cross-References
+
 - [[Capricorn ♑]] — Cancer's polarity, structure and earned authority
 - [[Moon ☽]] — Cancer's ruler, instinct and somatic intelligence
 - [[4th House]] — Cancer's natural domain, home and ancestry

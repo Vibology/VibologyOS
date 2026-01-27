@@ -208,11 +208,12 @@ Mars teaches that transformation is not gentle. It is the breaking of the old fo
 
 ---
 
-**Cross-References:**
+## Cross-References
+
 - [[Aries ♈]] — Mars's domicile, the warrior's charge
 - [[Scorpio ♏]] — Mars's co-rulership, the surgeon's blade
 - [[Capricorn ♑]] — Mars's exaltation, force disciplined into mastery
-- [[The Tower (Tarot)]] — Key XVI, destruction and breakthrough
+- [[The Tower (XVI)]] — Key XVI, destruction and breakthrough
 - [[Human Design]] — Root Center (motor force and pressure to act)
 - [[The Syzygy]] — Mars-Venus as archetypal opposition (desire and assertion)
 - [[6th House]] — Mars's traditional joy, labor and the struggle against sickness

@@ -73,7 +73,7 @@ All profiles containing Line 6 experience life in three distinct phases:
 
 ## Profile and Purpose
 
-Your Profile works with your [[Incarnation Cross]] to define your purpose:
+Your Profile works with your [[Incarnation Crosses]] to define your purpose:
 - **Incarnation Cross:** The *what* of your purpose (the theme)
 - **Profile:** The *how* of your purpose (the costume, the style)
 
@@ -86,7 +86,7 @@ A 1/3 and a 5/1 with the same Incarnation Cross will fulfill similar themes thro
 - [[Human Design]] — System overview
 - [[The BodyGraph]] — Visual architecture showing Profile
 - [[Gates]] — Lines within gates determine Profile
-- [[Incarnation Cross]] — Purpose theme that Profile expresses
+- [[Incarnation Crosses]] — Purpose theme that Profile expresses
 - [[Types]] — How you engage; Profile is how you appear
 
 ---

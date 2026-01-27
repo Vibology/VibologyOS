@@ -216,12 +216,13 @@ Pluto teaches that there is **light within the darkness**—but you cannot acces
 
 ---
 
-**Cross-References:**
+## Cross-References
+
 - [[Scorpio ♏]] — Pluto's modern domicile, the death-rebirth cycle and excavation of truth
 - [[Mars ♂]] — Traditional ruler of Scorpio, the blade that cuts away disease
 - [[Leo ♌]] — Pluto's exaltation, the solar will tested by underworld ordeal
-- [[Judgement (Tarot)]] — Key XX, resurrection and the call from the depths
-- [[Death (Tarot)]] — Key XIII, transformation through annihilation
+- [[Judgement (XX)]] — Key XX, resurrection and the call from the depths
+- [[Death (XIII)]] — Key XIII, transformation through annihilation
 - [[Human Design]] — Sacral Center (generative power and life/death cycle)
 - [[The Shadow]] — Pluto as confrontation with the buried, disowned self
 - [[8th House]] — Pluto's modern association via Scorpio rulership, death, sex, shared resources, transformation

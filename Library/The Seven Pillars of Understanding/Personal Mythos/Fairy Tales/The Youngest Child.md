@@ -586,7 +586,7 @@ This practice trains the psyche to operate from **abundance rather than scarcity
 
 ---
 
-## Internal Links: Web of Correspondences
+## Cross-References
 
 ### Jungian Archetypes & Concepts
 - [[The Shadow]] – The despised parts of the self the Youngest Child embodies

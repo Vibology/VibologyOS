@@ -108,7 +108,7 @@ When the [[Moon ☽]] is in the 1st House, **emotion is the primary identity**. 
 
 ### Mercury in the 1st House
 
-When [[Mercury  ☿]] is in the 1st House, **the mind is the self**. Identity equals thought, speech, and constant mental movement. These individuals talk, write, and think their way into existence—articulating themselves through language, wit, and intellectual agility. They are naturally curious, quick-witted, and communicative.
+When [[Mercury ☿]] is in the 1st House, **the mind is the self**. Identity equals thought, speech, and constant mental movement. These individuals talk, write, and think their way into existence—articulating themselves through language, wit, and intellectual agility. They are naturally curious, quick-witted, and communicative.
 
 **Gift:** Mental agility, eloquence, adaptability, youthful energy
 **Challenge:** Identity dependent on intellectual performance; restlessness; scattered focus
@@ -179,7 +179,7 @@ When [[Pluto ♇]] is in the 1st House, **identity is forged through crisis**. T
 ---
 
 ## Psychological Depth
-The 1st House represents the **ego-mask** or **[[The Seven Pillars of Understanding/Personal Mythos/Jungian Archetypes/The Persona|The Persona]]**—the face shown to the world. In Jungian terms, the Persona is not false, but it is **partial**: a simplification that allows social navigation without overwhelming others with the totality of the Self.
+The 1st House represents the **ego-mask** or **[[The Persona]]**—the face shown to the world. In Jungian terms, the Persona is not false, but it is **partial**: a simplification that allows social navigation without overwhelming others with the totality of the Self.
 
 **Healthy 1st House:**
 - Clear sense of identity and self-direction
@@ -190,7 +190,7 @@ The 1st House represents the **ego-mask** or **[[The Seven Pillars of Understand
 **Afflicted 1st House:**
 - Identity confusion or fragmentation (undefined sense of "I")
 - Physical weakness or chronic health issues
-- The [[The Shadow]] of the **False Self**: performance without substance, mask without face
+- [[The Shadow]] of the **False Self**: performance without substance, mask without face
 - Rigidity (over-identification with Persona) or collapse (inability to maintain boundaries)
 
 The 1st House challenge is to **wear the mask consciously**—to recognize that the Ascendant is a role, not the totality, but a necessary role nonetheless.
