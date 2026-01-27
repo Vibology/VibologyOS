@@ -38,7 +38,7 @@ verification_notes: "Variables mechanics verified against Grimoire. Advanced lay
 
 ### The Voice and the Crystals (1987)
 
-During Ra Uru Hu's eight-day encounter with "the Voice" on Ibiza, the revelation included not only the surface mechanics ([[Type]], [[Strategy and Authority]], [[Gates]], [[Channels]]) but also the **deep substructure**—the Crystals of Consciousness.
+During Ra Uru Hu's eight-day encounter with "the Voice" on Ibiza, the revelation included not only the surface mechanics ([[Types]], Strategy and [[Authority]], [[Gates]], [[Channels]]) but also the **deep substructure**—the Crystals of Consciousness.
 
 **What was revealed:**
 - **Two Crystals** structure consciousness: the **Design Crystal** (body/unconscious) and the **Personality Crystal** (mind/conscious)
@@ -54,7 +54,7 @@ During Ra Uru Hu's eight-day encounter with "the Voice" on Ibiza, the revelation
 
 ### The Mandala and the 64
 
-The Human Design [[The Blueprint - 444 Architecture|Mandala]] is based on the **64 hexagrams** of the I-Ching, which correspond to the 64 codons of DNA. Each hexagram is divided into **six Lines** (the structure of the hexagram), which are further divided into:
+The Human Design Mandala is based on the **64 hexagrams** of the I-Ching, which correspond to the 64 codons of DNA. Each hexagram is divided into **six Lines** (the structure of the hexagram), which are further divided into:
 
 **6 Colors per Line** (6 × 6 = 36 total Color positions per hexagram)
 **6 Tones per Color** (6 × 36 = 216 total Tone positions per hexagram)
@@ -359,7 +359,7 @@ The Not-Self mind resists this. It wants to be "flexible," "adaptive," "open to 
 
 ### 1. Information Overload
 
-**The Danger:** Obsessing over Tone/Color/Base complexity without living [[Strategy and Authority]].
+**The Danger:** Obsessing over Tone/Color/Base complexity without living Strategy and [[Authority]].
 
 **Example:** A person studying their Tone 3, Base 4, Color 1 matrix endlessly, analyzing every detail, without ever experimenting with their dietary regimen.
 
@@ -414,7 +414,7 @@ The Not-Self mind resists this. It wants to be "flexible," "adaptive," "open to 
 
 ## Cross-References
 ### Core Variables
-- [[Variables Overview]] - Introduction to all four Variables
+- [[Variables]] - Introduction to all four Variables
 - [[Determination]] - Dietary regimen (Design Sun/Earth Color)
 - [[Environment]] - Physical surroundings (Design Nodes Color)
 - [[Perspective]] - Cognitive lens (Personality Nodes Color)
@@ -422,16 +422,16 @@ The Not-Self mind resists this. It wants to be "flexible," "adaptive," "open to 
 - [[Primary Health System]] - Practical PHS application using Tone/Color/Base
 
 ### Related Human Design Components
-- [[Strategy and Authority]] - The prerequisite for accessing Variables
-- [[Type]] - Your energetic role
-- [[The Magnetic Monopole]] - The driver organizing consciousness
-- [[Design Sun]], [[Design Earth]], [[Personality Sun]], [[Personality Earth]] - Calculation points
-- [[Design Nodes]], [[Personality Nodes]] - Trajectory and Independent Variable
+- Strategy and [[Authority]] - The prerequisite for accessing Variables
+- [[Types]] - Your energetic role
+- The Magnetic Monopole - The driver organizing consciousness
+- Design Sun, Design Earth, Personality Sun, Personality Earth - Calculation points
+- Design Nodes, Personality Nodes - Trajectory and Independent Variable
 
 ### Cross-System Integration
 - [[The Blueprint - 444 Architecture]] - The 64-fold substrate
 - [[Anima et Algorithm]] - The marriage of embodied knowing and systematic architecture
-- [[Qabalah]] - Tree of Life emanation parallels
+- Qabalah - Tree of Life emanation parallels
 - [[Jungian Archetypes]] - Fixed patterns in consciousness
 
 

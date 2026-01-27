@@ -70,7 +70,7 @@ The Nodes are called the **Independent Variable** because they operate as a **si
 
 **Mechanic:**
 - Colors move in **harmonics**: 1 and 4 are harmonic, 2 and 5 are harmonic, 3 and 6 are harmonic
-- When operating from the Not-Self (incorrect [[Strategy and Authority]], wrong [[Environment]]), the mind **transfers** to the harmonic Color
+- When operating from the Not-Self (incorrect Strategy and [[Authority]], wrong [[Environment]]), the mind **transfers** to the harmonic Color
 - This creates **conceptualizing with inferior information**—the mind builds frameworks from the wrong lens
 
 #### Example
@@ -295,7 +295,7 @@ Perspective stabilizes **only** after the body is in the correct [[Environment]]
 - **No effort required**—the View emerges as a byproduct of correct placement
 
 **Timeline:**
-- **Years 1-7:** Live by [[Strategy and Authority]]
+- **Years 1-7:** Live by Strategy and [[Authority]]
 - **Year 7+:** Align dietary regimen ([[Determination]])
 - **Year 14+:** Align physical surroundings ([[Environment]])
 - **Year 21+:** Perspective stabilizes naturally
@@ -352,7 +352,7 @@ A Right Color 1 being passively **absorbs** foundational details by being presen
 
 When Perspective is operating correctly, it becomes your **Outer Authority**—the unique intelligence you offer the world.
 
-**Inner Authority** ([[Strategy and Authority]]): How you make **decisions** for yourself
+**Inner Authority** (Strategy and [[Authority]]): How you make **decisions** for yourself
 **Outer Authority** (Perspective + [[Motivation]]): How you **contribute** to others
 
 #### Example
@@ -420,7 +420,7 @@ Perspective requires a full [[Human Design]] chart with **Tone/Color/Base** calc
 
 **Example:** A Color 2 (Hope) being forcing themselves to "think positively" to access possibilities.
 
-**Reality:** Perspective is **mechanical**, not psychological. It emerges from correct operation ([[Strategy and Authority]] + [[Determination]] + [[Environment]]), not mental discipline.
+**Reality:** Perspective is **mechanical**, not psychological. It emerges from correct operation (Strategy and [[Authority]] + [[Determination]] + [[Environment]]), not mental discipline.
 
 **Antidote:** Surrender the mind. Trust the body to place you correctly.
 
@@ -485,18 +485,18 @@ Perspective requires a full [[Human Design]] chart with **Tone/Color/Base** calc
 
 ## Cross-References
 ### Core Variables
-- [[Variables Overview]] - Introduction to all four Variables
+- [[Variables]] - Introduction to all four Variables
 - [[Determination]] - The first transformation (dietary regimen)
 - [[Environment]] - The second transformation (physical surroundings)
 - [[Motivation]] - The fourth transformation (underlying drive)
 - [[Tone - Color - Base]] - The deeper substructure underlying Perspective
 
 ### Related Human Design Components
-- [[Strategy and Authority]] - The prerequisite for accessing Perspective
-- [[Personality Nodes]] - The calculation point for Perspective
-- [[Type]] - Your energetic role
-- [[Profile]] - Your life trajectory
-- [[The Magnetic Monopole]] - The driver organizing consciousness
+- Strategy and [[Authority]] - The prerequisite for accessing Perspective
+- Personality Nodes - The calculation point for Perspective
+- [[Types]] - Your energetic role
+- [[Profiles]] - Your life trajectory
+- The Magnetic Monopole - The driver organizing consciousness
 
 ### Cross-System Integration
 - [[Anima et Algorithm]] - Perspective as the Algorithm's lens

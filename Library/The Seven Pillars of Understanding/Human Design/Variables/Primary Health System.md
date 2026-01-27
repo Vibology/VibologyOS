@@ -21,7 +21,7 @@ verification_notes: "Variables mechanics verified against Grimoire. Advanced lay
 **The Central Claim:** Your brain and body are designed to be fueled in a **specific way**—not based on nutritional content (calories, macros, vitamins) but on the **conditions and circumstances** under which you eat. Correct dietary regimen, practiced consistently over **seven years**, produces measurable **brain differentiation**—heightened sensory acuity, sharper cognition, improved immune function, and longevity.
 
 **Why PHS matters:**
-- It is **experimental**—you can test it immediately (after living [[Strategy and Authority]] for years)
+- It is **experimental**—you can test it immediately (after living Strategy and [[Authority]] for years)
 - It is **somatic**—results are felt in the body, not just conceptualized
 - It is the **foundation** for accessing the other [[Variables]] ([[Environment]], [[Perspective]], [[Motivation]])
 - It challenges cultural conditioning about "healthy eating" and invites radical individualization
@@ -37,7 +37,7 @@ verification_notes: "Variables mechanics verified against Grimoire. Advanced lay
 After teaching the surface mechanics of Human Design for nearly two decades (1987-2000s), Ra Uru Hu began revealing the **advanced layer**—Rave Psychology and Primary Health System.
 
 **Why the delay?**
-- Variables cannot be accessed without first living [[Strategy and Authority]]
+- Variables cannot be accessed without first living Strategy and [[Authority]]
 - Teaching PHS prematurely feeds the Not-Self mind's desire for control
 - PHS requires **years of experimentation**—it is not a quick fix
 
@@ -113,7 +113,7 @@ These regimens focus on the **atmosphere/environment** while eating.
 
 ### Prerequisites
 
-**1. You must be living [[Strategy and Authority]] consistently.**
+**1. You must be living Strategy and [[Authority]] consistently.**
 If you are still in the Not-Self mind, PHS experiments will only feed mental control. The body must be driving decisions before dietary differentiation can occur.
 
 **2. You must know your Determination Color.**
@@ -261,7 +261,7 @@ PHS (Determination) is the **gateway** to the other Variables. You cannot access
 - Everything downstream depends on upstream differentiation
 
 **Timeline:**
-- **Years 1-7:** Live by [[Strategy and Authority]]
+- **Years 1-7:** Live by Strategy and [[Authority]]
 - **Year 7+:** Begin PHS experimentation ([[Determination]])
 - **Year 14+:** The body gravitates toward correct [[Environment]]
 - **Year 21+:** [[Perspective]] and [[Motivation]] stabilize naturally
@@ -289,7 +289,7 @@ The six Colors correspond to the six **Tones** ([[Tone - Color - Base]]):
 ### When to Consult a Practitioner
 
 **Ideal timing:**
-- You have been living [[Strategy and Authority]] for **7+ years**
+- You have been living Strategy and [[Authority]] for **7+ years**
 - You are ready to commit to **long-term experimentation** (7-year cycle)
 - You want professional guidance interpreting your **Advanced Imaging** chart
 
@@ -464,7 +464,7 @@ PHS consultations are typically high-investment ($200-$500+ per session) because
 
 ## Cross-References
 ### Core Variables
-- [[Variables Overview]] - Introduction to all four Variables
+- [[Variables]] - Introduction to all four Variables
 - [[Determination]] - Comprehensive treatment of all six dietary regimens
 - [[Environment]] - The second transformation (physical surroundings)
 - [[Perspective]] - The third transformation (cognitive lens)
@@ -472,10 +472,10 @@ PHS consultations are typically high-investment ($200-$500+ per session) because
 - [[Tone - Color - Base]] - The deeper substructure underlying PHS
 
 ### Related Human Design Components
-- [[Strategy and Authority]] - The prerequisite for PHS practice
-- [[Type]] - Your energetic role
-- [[Design Sun]] and [[Design Earth]] - The calculation points for Determination
-- [[The Magnetic Monopole]] - The driver organizing the body's intelligence
+- Strategy and [[Authority]] - The prerequisite for PHS practice
+- [[Types]] - Your energetic role
+- Design Sun and Design Earth - The calculation points for Determination
+- The Magnetic Monopole - The driver organizing the body's intelligence
 
 ### Cross-System Integration
 - [[Anima et Algorithm]] - PHS as the Anima's fuel source

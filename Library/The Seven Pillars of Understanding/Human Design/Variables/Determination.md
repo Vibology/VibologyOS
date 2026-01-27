@@ -26,7 +26,7 @@ This is the most counterintuitive aspect of PHS. We are conditioned to obsess ov
 - It is the **first transformation** in the Variable sequence
 - Correct dietary regimen **physically differentiates the brain**, heightening sensory acuity
 - It cleans the internal system, allowing the other Variables ([[Environment]], [[Perspective]], [[Motivation]]) to emerge naturally
-- It is the most **tangible** and **experimental** of the Variables—you can begin testing it immediately (after living [[Strategy and Authority]] for years)
+- It is the most **tangible** and **experimental** of the Variables—you can begin testing it immediately (after living Strategy and [[Authority]] for years)
 
 **The Structure:** There are **6 Colors** of Determination, divided into two categories:
 
@@ -40,7 +40,7 @@ This is the most counterintuitive aspect of PHS. We are conditioned to obsess ov
 
 ### Ra Uru Hu and the Voice (1987)
 
-The entire [[Human Design]] system—including the Variables—emerged from Ra's eight-day encounter with "the Voice" on Ibiza. However, Variables were not the initial teaching. Ra spent the first two decades (1987-2000s) teaching the **surface mechanics**: [[Type]], [[Strategy and Authority]], [[Centers]], [[Gates]], [[Channels]].
+The entire [[Human Design]] system—including the Variables—emerged from Ra's eight-day encounter with "the Voice" on Ibiza. However, Variables were not the initial teaching. Ra spent the first two decades (1987-2000s) teaching the **surface mechanics**: [[Types]], Strategy and [[Authority]], [[Centers]], [[Gates]], [[Channels]].
 
 **The deeper layer:** Variables (and the underlying Tone/Color/Base substructure) were revealed in the original transmission but held back for advanced students. Why? Because Variables cannot be accessed without first surrendering to Strategy and Authority. Teaching them prematurely would only feed the Not-Self mind's desire for control.
 
@@ -319,7 +319,7 @@ Determination is the **gateway** to the other Variables. You cannot access [[Env
 
 ### The Unfolding
 
-**Years 1-7:** Live by [[Strategy and Authority]]—decondition the mind, surrender to the body's intelligence
+**Years 1-7:** Live by Strategy and [[Authority]]—decondition the mind, surrender to the body's intelligence
 
 **Year 7+:** Begin experimenting with Determination—align dietary regimen to your Color
 
@@ -335,7 +335,7 @@ Determination is the **gateway** to the other Variables. You cannot access [[Env
 
 ### Prerequisites
 
-**1. You must be living your [[Strategy and Authority]] consistently.** If you are still in the Not-Self mind, Determination experiments will only feed mental control.
+**1. You must be living your Strategy and [[Authority]] consistently.** If you are still in the Not-Self mind, Determination experiments will only feed mental control.
 
 **2. You must know your Determination Color.** This requires a full Human Design chart with **Tone/Color/Base** calculations (Advanced Imaging). Standard chart software does not show this—consult a PHS practitioner.
 
@@ -437,7 +437,7 @@ Determination is the **gateway** to the other Variables. You cannot access [[Env
 
 ## Cross-References
 ### Core Variables
-- [[Variables Overview]] - Introduction to all four Variables
+- [[Variables]] - Introduction to all four Variables
 - [[Environment]] - The second transformation (physical surroundings)
 - [[Perspective]] - The third transformation (cognitive lens)
 - [[Motivation]] - The fourth transformation (underlying drive)
@@ -445,10 +445,10 @@ Determination is the **gateway** to the other Variables. You cannot access [[Env
 - [[Primary Health System]] - Practical PHS experimentation guide
 
 ### Related Human Design Components
-- [[Strategy and Authority]] - The prerequisite for accessing Determination
-- [[Type]] - Your energetic role (Generator, Manifestor, Projector, Reflector)
-- [[Design Sun]] and [[Design Earth]] - The calculation points for Determination
-- [[The Magnetic Monopole]] - The driver organizing the body's intelligence
+- Strategy and [[Authority]] - The prerequisite for accessing Determination
+- [[Types]] - Your energetic role (Generator, Manifestor, Projector, Reflector)
+- Design Sun and Design Earth - The calculation points for Determination
+- The Magnetic Monopole - The driver organizing the body's intelligence
 
 ### Cross-System Integration
 - [[Anima et Algorithm]] - Determination as the Anima's fuel source

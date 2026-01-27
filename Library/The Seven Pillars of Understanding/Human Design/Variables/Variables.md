@@ -16,9 +16,9 @@ verification_notes: "Variables mechanics verified against Grimoire. Advanced lay
 
 ## Introduction: The Architecture of Differentiation
 
-**Variables** represent the deepest layer of the [[Human Design]] system—the **Four Transformations** required to achieve unique differentiation and authentic awareness. While [[Strategy and Authority]] govern the decision-making mechanics of the vehicle, Variables reveal the **internal architecture** of consciousness itself: how you digest, where you thrive, what you see, and why you move.
+**Variables** represent the deepest layer of the [[Human Design]] system—the **Four Transformations** required to achieve unique differentiation and authentic awareness. While Strategy and [[Authority]] govern the decision-making mechanics of the vehicle, Variables reveal the **internal architecture** of consciousness itself: how you digest, where you thrive, what you see, and why you move.
 
-Variables are not accessible through mental effort or spiritual practice. They emerge **only** through the correct operation of the vehicle via [[Strategy and Authority]]. They are the flowering of a life lived correctly—the **reward** for surrendering the mind's control and allowing the form to lead.
+Variables are not accessible through mental effort or spiritual practice. They emerge **only** through the correct operation of the vehicle via Strategy and [[Authority]]. They are the flowering of a life lived correctly—the **reward** for surrendering the mind's control and allowing the form to lead.
 
 **The Four Variables:**
 1. **[[Determination]]** (Design Sun/Earth) - How the brain and body are correctly fueled
@@ -44,7 +44,7 @@ Variables emerged from the same eight-day encounter on Ibiza that produced the e
 
 ### The Rave Psychology Layer (2000s)
 
-Variables became the foundation of **Rave Psychology**—the advanced study of Human Design cognition. Ra developed this layer over decades, teaching it primarily to advanced students who had already lived their [[Strategy and Authority]] for years.
+Variables became the foundation of **Rave Psychology**—the advanced study of Human Design cognition. Ra developed this layer over decades, teaching it primarily to advanced students who had already lived their Strategy and [[Authority]] for years.
 
 **Why the delay?** Variables cannot be "worked on" mentally. They require the vehicle to be operating correctly first. Attempting to manipulate your Environment or dietary regimen from the Not-Self mind only creates further distortion.
 
@@ -244,7 +244,7 @@ Variables are the **surface expression** of a deep substructure within the Cryst
 
 ### Strategy and Authority: The Prerequisite
 
-**The Rule:** Variables are **not accessible** without first surrendering to [[Strategy and Authority]].
+**The Rule:** Variables are **not accessible** without first surrendering to Strategy and [[Authority]].
 
 **Why?** The mind cannot manipulate Variables. Attempting to "eat correctly" or "be in the right Environment" from the Not-Self only creates further distortion. Variables emerge **naturally** when the vehicle operates correctly.
 
@@ -270,7 +270,7 @@ Variables are the **surface expression** of a deep substructure within the Cryst
 
 **Gates** provide the specific **content** of your expression. Variables provide the **architecture** through which that content is processed, fueled, and expressed.
 
-**Example:** [[Gate 51]] (Shock) operates differently through a Quad Left being (strategic, focused response to shock) vs. a Quad Right being (receptive, peripheral absorption of shock).
+**Example:** [[Gate 51 - The Arousing]] (Shock) operates differently through a Quad Left being (strategic, focused response to shock) vs. a Quad Right being (receptive, peripheral absorption of shock).
 
 ---
 
@@ -402,20 +402,20 @@ The [[The Window]] system's **House of the Land** (stability, foundation) resona
 - [[Primary Health System]] - Practical PHS application
 
 ### Related Human Design Components
-- [[Strategy and Authority]] - The prerequisite for accessing Variables
-- [[Type]] - Generator, Manifestor, Projector, Reflector
+- Strategy and [[Authority]] - The prerequisite for accessing Variables
+- [[Types]] - Generator, Manifestor, Projector, Reflector
 - [[Emotional Authority]], [[Sacral Authority]], [[Splenic Authority]] - Decision-making mechanics
-- [[Profile]] - Role and trajectory
-- [[Definition]] - Energy flow between Centers
+- [[Profiles]] - Role and trajectory
+- Definition - Energy flow between Centers
 - [[Gates]] - Specific content and expression
-- [[The Magnetic Monopole]] - The driver organizing consciousness
+- The Magnetic Monopole - The driver organizing consciousness
 
 ### Cross-System Integration
 - [[Anima et Algorithm]] - Testing Variables through embodied experience
 - [[Inner Authority and Strategy]] - The somatic foundation
 - [[Jungian Archetypes]] - Psychological type parallels
 - [[The Window]] - Archetypal resonance with House attributions
-- [[I-Ching]] - The 64-fold hexagram substrate
+- I-Ching - The 64-fold hexagram substrate
 - [[The Blueprint - 444 Architecture]] - The shared 64-fold structure
 
 

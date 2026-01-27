@@ -303,7 +303,7 @@ Environment becomes relevant **after** the body has been cleaned and differentia
 **Why?** A clouded, undifferentiated brain cannot accurately perceive whether it's in the correct Environment. The body might feel uncomfortable anywhere because the internal system is misaligned. Only after PHS (Primary Health System) practice does the body gain the clarity to recognize: "This place feels right" or "This place feels wrong."
 
 **Timeline:**
-- **Years 1-7:** Live by [[Strategy and Authority]]
+- **Years 1-7:** Live by Strategy and [[Authority]]
 - **Year 7+:** Begin [[Determination]] experimentation
 - **Year 14+:** The body begins to crave or reject specific Environments—this is when Environment alignment becomes practical
 
@@ -418,7 +418,7 @@ After age 30, if chronic exhaustion or "stuckness" persists, consider **relocati
 
 **Example:** A Color 4 (Mountains) being thinking, "Once I move to Colorado, everything will be perfect."
 
-**Reality:** Environment is **one Variable**. If you're not living [[Strategy and Authority]], eating correctly ([[Determination]]), and operating from true [[Motivation]], changing location won't fix misalignment.
+**Reality:** Environment is **one Variable**. If you're not living Strategy and [[Authority]], eating correctly ([[Determination]]), and operating from true [[Motivation]], changing location won't fix misalignment.
 
 **Antidote:** Environment is the **second transformation**, not the first. Do the internal work first.
 
@@ -481,18 +481,18 @@ After age 30, if chronic exhaustion or "stuckness" persists, consider **relocati
 
 ## Cross-References
 ### Core Variables
-- [[Variables Overview]] - Introduction to all four Variables
+- [[Variables]] - Introduction to all four Variables
 - [[Determination]] - The first transformation (dietary regimen)
 - [[Perspective]] - The third transformation (cognitive lens)
 - [[Motivation]] - The fourth transformation (underlying drive)
 - [[Tone - Color - Base]] - The deeper substructure underlying Environment
 
 ### Related Human Design Components
-- [[Strategy and Authority]] - The prerequisite for accessing Environment
-- [[Design Nodes]] - The calculation point for Environment
-- [[Type]] - Your energetic role
-- [[Profile]] - Your life trajectory
-- [[The Magnetic Monopole]] - The driver organizing spatial alignment
+- Strategy and [[Authority]] - The prerequisite for accessing Environment
+- Design Nodes - The calculation point for Environment
+- [[Types]] - Your energetic role
+- [[Profiles]] - Your life trajectory
+- The Magnetic Monopole - The driver organizing spatial alignment
 
 ### Cross-System Integration
 - [[Anima et Algorithm]] - Environment as the Anima's external container

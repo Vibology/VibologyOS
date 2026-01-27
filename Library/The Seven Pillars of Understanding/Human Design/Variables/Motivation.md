@@ -24,7 +24,7 @@ verification_notes: "Variables mechanics verified against Grimoire. Advanced lay
 - It is the **final flowering** of the Variable sequence—the deepest layer of differentiation
 - Correct Motivation is your **authentic drive**—the frequency from which you naturally operate when deconditioned
 - When operating from the Not-Self, you experience **Transference**—the mind moves to the harmonic Color (1↔4, 2↔5, 3↔6), creating confusion, instability, and homogenization
-- Motivation stabilizes **only** after years of living [[Strategy and Authority]], aligning [[Determination]], [[Environment]], and [[Perspective]]
+- Motivation stabilizes **only** after years of living Strategy and [[Authority]], aligning [[Determination]], [[Environment]], and [[Perspective]]
 
 **The Structure:** There are **6 Colors** of Motivation:
 
@@ -66,11 +66,11 @@ The **Earth** (opposite the Sun) represents:
 
 ### What is Transference?
 
-**Transference** is the primary distraction mechanism at the Motivation level. It occurs when the [[The Magnetic Monopole|Magnetic Monopole]] fails to capture the correct Color frequency due to Not-Self conditioning, and consciousness **transfers** to the harmonic Color.
+**Transference** is the primary distraction mechanism at the Motivation level. It occurs when the Magnetic Monopole fails to capture the correct Color frequency due to Not-Self conditioning, and consciousness **transfers** to the harmonic Color.
 
 **The Mechanic:**
 - Colors move in **harmonics**: 1↔4, 2↔5, 3↔6
-- When not operating correctly ([[Strategy and Authority]] compromised, wrong [[Environment]], [[Determination]] misaligned), the Monopole cannot hold the correct Color
+- When not operating correctly (Strategy and [[Authority]] compromised, wrong [[Environment]], [[Determination]] misaligned), the Monopole cannot hold the correct Color
 - Consciousness **transfers** to the harmonic—creating a false Motivation
 
 #### Example
@@ -353,7 +353,7 @@ The **Earth** (opposite the Sun) represents:
 ### Sequence: Motivation Last
 
 Motivation is the **final flowering** of the Variable sequence. It stabilizes **only** after years of living:
-1. [[Strategy and Authority]] (years 1-7)
+1. Strategy and [[Authority]] (years 1-7)
 2. [[Determination]] (year 7+)
 3. [[Environment]] (year 14+)
 4. [[Perspective]] (year 21+)
@@ -439,7 +439,7 @@ Motivation requires a full [[Human Design]] chart with **Tone/Color/Base** calcu
 
 **If you recognize Transference:**
 - **Do not try to "fix your motivation" mentally**
-- Check: Are you living [[Strategy and Authority]]? Eating correctly ([[Determination]])? In correct [[Environment]]? Seeing clearly ([[Perspective]])?
+- Check: Are you living Strategy and [[Authority]]? Eating correctly ([[Determination]])? In correct [[Environment]]? Seeing clearly ([[Perspective]])?
 - Motivation stabilizes **as a byproduct** of upstream alignment
 
 ---
@@ -474,18 +474,18 @@ Motivation requires a full [[Human Design]] chart with **Tone/Color/Base** calcu
 
 ## Cross-References
 ### Core Variables
-- [[Variables Overview]] - Introduction to all four Variables
+- [[Variables]] - Introduction to all four Variables
 - [[Determination]] - The first transformation (dietary regimen)
 - [[Environment]] - The second transformation (physical surroundings)
 - [[Perspective]] - The third transformation (cognitive lens)
 - [[Tone - Color - Base]] - The deeper substructure underlying Motivation
 
 ### Related Human Design Components
-- [[Strategy and Authority]] - The prerequisite for accessing Motivation
-- [[Personality Sun]] and [[Personality Earth]] - The calculation points for Motivation
-- [[The Magnetic Monopole]] - The driver organizing frequency
-- [[Type]] - Your energetic role
-- [[Profile]] - Your life trajectory
+- Strategy and [[Authority]] - The prerequisite for accessing Motivation
+- Personality Sun and Personality Earth - The calculation points for Motivation
+- The Magnetic Monopole - The driver organizing frequency
+- [[Types]] - Your energetic role
+- [[Profiles]] - Your life trajectory
 
 ### Cross-System Integration
 - [[Anima et Algorithm]] - Motivation as the Anima's drive
