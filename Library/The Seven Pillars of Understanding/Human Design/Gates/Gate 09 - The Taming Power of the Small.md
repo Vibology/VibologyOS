@@ -315,31 +315,31 @@ Gate 9 teaches that **power lies in the small**. When the individual honors thei
 ## Cross-References
 
 ### Sequential Connections (Within Sacral Gates)
-- [[Gate 03 - Difficulty at the Beginning]] — Ordering through chaos (Individual Knowing)
-- [[Gate 05 - Waiting]] — Fixed patterns and natural rhythms (Collective Logic)
-- [[Gate 14 - Possession in Great Measure]] — Power skills and accumulation (Individual Knowing)
-- [[Gate 27 - Nourishment]] — Caring and enhancement of quality (Tribal Defense)
-- [[Gate 29 - The Abysmal]] — Commitment and saying yes (Collective Sensing)
-- [[Gate 34 - The Power of the Great]] — Raw power and strength (Integration)
-- [[Gate 42 - Increase]] — Growth and expansion (Tribal Ego)
-- [[Gate 59 - Dispersion]] — Intimacy and breaking down barriers (Tribal Defense)
+- Gate 03 - Difficulty at the Beginning — Ordering through chaos (Individual Knowing)
+- Gate 05 - Waiting — Fixed patterns and natural rhythms (Collective Logic)
+- Gate 14 - Possession in Great Measure — Power skills and accumulation (Individual Knowing)
+- Gate 27 - Nourishment — Caring and enhancement of quality (Tribal Defense)
+- Gate 29 - The Abysmal — Commitment and saying yes (Collective Sensing)
+- Gate 34 - The Power of the Great — Raw power and strength (Integration)
+- Gate 42 - Increase — Growth and expansion (Tribal Ego)
+- Gate 59 - Dispersion — Intimacy and breaking down barriers (Tribal Defense)
 
 ### Channel Connections
-- [[Channel 9-52 - Concentration (Determination)]] — The full electromagnetic connection from pressure to focus (Root) to life force to sustain it (Sacral)
-- [[Gate 52 - Keeping Still]] — The harmonic partner that provides Root pressure to concentrate
+- Channel 9-52 - Concentration (Determination) — The full electromagnetic connection from pressure to focus (Root) to life force to sustain it (Sacral)
+- Gate 52 - Keeping Still — The harmonic partner that provides Root pressure to concentrate
 
 ### Circuit Connections (Collective Logic)
-- [[Gate 04 - Youthful Folly]] — Mental formulation through uncertainty (Ajna)
-- [[Gate 05 - Waiting]] — Fixed patterns and natural rhythms (Sacral)
-- [[Gate 07 - The Army]] — Role of self in leadership (G Center)
-- [[Gate 16 - Enthusiasm]] — Skills and talent through repetition (Throat)
-- [[Gate 17 - Following]] — Opinions and mental organization (Ajna)
-- [[Gate 18 - Work on What Has Been Spoilt]] — Correction and judgment (Spleen)
-- [[Gate 62 - Preponderance of the Small]] — Details and organizational thinking (Throat)
+- Gate 04 - Youthful Folly — Mental formulation through uncertainty (Ajna)
+- Gate 05 - Waiting — Fixed patterns and natural rhythms (Sacral)
+- Gate 07 - The Army — Role of self in leadership (G Center)
+- Gate 16 - Enthusiasm — Skills and talent through repetition (Throat)
+- Gate 17 - Following — Opinions and mental organization (Ajna)
+- Gate 18 - Work on What Has Been Spoilt — Correction and judgment (Spleen)
+- Gate 62 - Preponderance of the Small — Details and organizational thinking (Throat)
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 9 - The Taming Power of the Small]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 09 - Inertia to Invincibility]] — Richard Rudd's shadow-gift-siddhi framework for Gate 9
+- I-Ching Hexagram 9 - The Taming Power of the Small — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 09 - Inertia to Invincibility — Richard Rudd's shadow-gift-siddhi framework for Gate 9
 - [[The Hermit (IX)]] — Resonance with focused solitude and patient refinement
 - [[Yesod]] — Foundation built through accumulation
 - Mercury — Planet of detail and precision
@@ -348,8 +348,8 @@ Gate 9 teaches that **power lies in the small**. When the individual honors thei
 ### Thematic Collections
 - Gates of the Sacral Center — All nine gates within the Life Force center
 - Collective Circuit Gates — All gates within the Collective stream
-- [[Gates of Focus and Concentration]] — Gates specifically related to sustained attention
-- [[Gates of Mastery]] — Gates carrying the capacity to build skill through accumulation
+- Gates of Focus and Concentration — Gates specifically related to sustained attention
+- Gates of Mastery — Gates carrying the capacity to build skill through accumulation
 
 ### Archetypal and Mythological
 - [[The Master Craftsman]] — Archetypal pattern of mastery through patient work

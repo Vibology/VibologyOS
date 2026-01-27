@@ -306,44 +306,44 @@ Gate 30 teaches that **desire is not the enemy—unconscious desire is**. When t
 ## Cross-References
 
 ### Sequential Connections (Within Solar Plexus Gates)
-- [[Gate 06 - Conflict]] — Friction and intimacy, emotional regulation
-- [[Gate 22 - Grace]] — Emotional openness and listening
-- [[Gate 36 - Darkening of the Light]] — Crisis and emotional depth
-- [[Gate 37 - The Family]] — Friendship and tribal bargains
-- [[Gate 49 - Revolution]] — Principles and emotional sensitivity
-- [[Gate 55 - Abundance]] — Emotional spirit and mood
+- Gate 06 - Conflict — Friction and intimacy, emotional regulation
+- Gate 22 - Grace — Emotional openness and listening
+- Gate 36 - Darkening of the Light — Crisis and emotional depth
+- Gate 37 - The Family — Friendship and tribal bargains
+- Gate 49 - Revolution — Principles and emotional sensitivity
+- Gate 55 - Abundance — Emotional spirit and mood
 
 ### Channel Connections
-- [[Channel 30-41 - Recognition]] — The full electromagnetic connection from desire (Solar Plexus) to initiating pressure (Root)
-- [[Gate 41 - Decrease]] — The harmonic partner that provides the pressure to begin new experiences
+- Channel 30-41 - Recognition — The full electromagnetic connection from desire (Solar Plexus) to initiating pressure (Root)
+- Gate 41 - Decrease — The harmonic partner that provides the pressure to begin new experiences
 
 ### Circuit Connections (Collective Sensing)
-- [[Gate 06 - Conflict]] — Friction and intimacy
-- [[Gate 11 - Peace]] — Ideas and reflection
-- [[Gate 29 - The Abysmal]] — Commitment and perseverance
-- [[Gate 36 - Darkening of the Light]] — Crisis and depth
-- [[Gate 37 - The Family]] — Friendship and community
-- [[Gate 46 - The Serendipity]] — Embodied knowing
-- [[Gate 47 - Oppression]] — Mental pressure
-- [[Gate 48 - The Well]] — Depth and adequacy
-- [[Gate 55 - Abundance]] — Spirit and mood
-- [[Gate 63 - After Completion]] — Doubt and questioning
+- Gate 06 - Conflict — Friction and intimacy
+- Gate 11 - Peace — Ideas and reflection
+- Gate 29 - The Abysmal — Commitment and perseverance
+- Gate 36 - Darkening of the Light — Crisis and depth
+- Gate 37 - The Family — Friendship and community
+- Gate 46 - The Serendipity — Embodied knowing
+- Gate 47 - Oppression — Mental pressure
+- Gate 48 - The Well — Depth and adequacy
+- Gate 55 - Abundance — Spirit and mood
+- Gate 63 - After Completion — Doubt and questioning
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 30 - The Clinging Fire]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 30 - Desire to Rapture]] — Richard Rudd's shadow-gift-siddhi framework
+- I-Ching Hexagram 30 - The Clinging Fire — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 30 - Desire to Rapture — Richard Rudd's shadow-gift-siddhi framework
 - [[The Devil (Tarot)]] — Archetypal bondage and desire
 - [[The Lovers (VI)]] — The choice to engage with desire
 - [[Tiphareth]] — The sphere of Beauty and emotional heart
-- [[Netzach (Qabalah)]] — The sphere of Victory and Desire
+- [[Netzach]] — The sphere of Victory and Desire
 - [[Venus ♀]] — The planet of love and desire
-- [[Neptune (Astrology)]] — The planet of longing and fantasy
+- [[Neptune ♆]] — The planet of longing and fantasy
 
 ### Thematic Collections
 - Gates of the Solar Plexus Center — All gates within the Emotional Awareness center
 - Collective Circuit Gates — All gates within the Collective stream
-- [[Gates of Desire and Feeling]] — Gates related to emotional intensity and clinging
-- [[Gates of Emotional Wisdom]] — Gates that learn through feeling
+- Gates of Desire and Feeling — Gates related to emotional intensity and clinging
+- Gates of Emotional Wisdom — Gates that learn through feeling
 
 ### Archetypal and Mythological
 - The Lover Archetype — The one who desires and clings
@@ -353,8 +353,8 @@ Gate 30 teaches that **desire is not the enemy—unconscious desire is**. When t
 
 ### Biological and Somatic
 - [[Solar Plexus]] — The center of emotional awareness and sensitivity
-- [[Kidneys and Emotional Processing]] — Biological correlation with desire and release
-- [[Pancreas and Energy]] — Regulation of desire and burnout
+- Kidneys and Emotional Processing — Biological correlation with desire and release
+- Pancreas and Energy — Regulation of desire and burnout
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework

@@ -303,29 +303,29 @@ Gate 37 teaches that **friendship requires reciprocity**. When the individual ho
 ## Cross-References
 
 ### Sequential Connections (Within Solar Plexus Gates)
-- [[Gate 06 - Conflict]] — Emotional friction
-- [[Gate 22 - Grace]] — Emotional openness
-- [[Gate 30 - The Clinging Fire]] — Emotional desire
-- [[Gate 36 - Darkening of the Light]] — Crisis
-- [[Gate 49 - Revolution]] — Principles
-- [[Gate 55 - Abundance]] — Spirit
+- Gate 06 - Conflict — Emotional friction
+- Gate 22 - Grace — Emotional openness
+- Gate 30 - The Clinging Fire — Emotional desire
+- Gate 36 - Darkening of the Light — Crisis
+- Gate 49 - Revolution — Principles
+- Gate 55 - Abundance — Spirit
 
 ### Channel Connections
-- [[Channel 37-40 - Community]] — Friendship to willful provision
-- [[Gate 40 - Deliverance]] — The will to provide and rest
+- Channel 37-40 - Community — Friendship to willful provision
+- Gate 40 - Deliverance — The will to provide and rest
 
 ### Circuit Connections (Tribal Ego)
-- [[Gate 19 - Approach]] — The pressure to be needed (Root)
-- [[Gate 21 - Biting Through]] — Control (Heart/Ego)
-- [[Gate 26 - The Taming Power of the Great]] — The egoist (Heart/Ego)
-- [[Gate 32 - Duration]] — Continuity (Spleen)
-- [[Gate 40 - Deliverance]] — Provision (Heart/Ego)
-- [[Gate 45 - Gathering Together]] — Leadership (Throat)
-- [[Gate 54 - Ambition]] — Transformation (Root)
+- Gate 19 - Approach — The pressure to be needed (Root)
+- Gate 21 - Biting Through — Control (Heart/Ego)
+- Gate 26 - The Taming Power of the Great — The egoist (Heart/Ego)
+- Gate 32 - Duration — Continuity (Spleen)
+- Gate 40 - Deliverance — Provision (Heart/Ego)
+- Gate 45 - Gathering Together — Leadership (Throat)
+- Gate 54 - Ambition — Transformation (Root)
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 37 - The Family]] — The source hexagram
-- [[Gene Keys 37 - Weakness to Tenderness]] — Shadow-gift-siddhi framework
+- I-Ching Hexagram 37 - The Family — The source hexagram
+- Gene Keys 37 - Weakness to Tenderness — Shadow-gift-siddhi framework
 - [[The Lovers (VI)]] — Partnership, union
 - [[Two of Cups (Tarot)]] — Emotional bonding
 - Chesed (Qabalah) — Mercy, benevolent structure
@@ -333,8 +333,8 @@ Gate 37 teaches that **friendship requires reciprocity**. When the individual ho
 ### Thematic Collections
 - Gates of the Solar Plexus Center — All six emotional gates
 - Tribal Circuit Gates — Ego and Defense circuits
-- [[Gates of Friendship]] — Bonding and relationship
-- [[Gates of Bargaining]] — Reciprocal exchange
+- Gates of Friendship — Bonding and relationship
+- Gates of Bargaining — Reciprocal exchange
 
 ### Archetypal and Mythological
 - The Family Archetype — Belonging and tribal structure

@@ -299,43 +299,43 @@ Gate 38 teaches that **opposition preserves integrity**. When the individual hon
 ## Cross-References
 
 ### Sequential Connections (Within Root Gates)
-- [[Gate 19 - Approach]] — Pressure to be needed (Tribal)
-- [[Gate 39 - Obstruction]] — Provocation and spirit (Individual)
-- [[Gate 41 - Decrease]] — Fantasy and desire (Collective)
-- [[Gate 52 - Keeping Still]] — Stillness and concentration (Collective Logic)
-- [[Gate 53 - Development]] — Beginning and growth (Collective Abstract)
-- [[Gate 54 - The Marrying Maiden]] — Ambition (Tribal)
-- [[Gate 58 - The Joyous]] — Vitality and correction (Collective Logic)
-- [[Gate 60 - Limitation]] — Acceptance of limitation (Individual)
+- Gate 19 - Approach — Pressure to be needed (Tribal)
+- Gate 39 - Obstruction — Provocation and spirit (Individual)
+- Gate 41 - Decrease — Fantasy and desire (Collective)
+- Gate 52 - Keeping Still — Stillness and concentration (Collective Logic)
+- Gate 53 - Development — Beginning and growth (Collective Abstract)
+- Gate 54 - The Marrying Maiden — Ambition (Tribal)
+- Gate 58 - The Joyous — Vitality and correction (Collective Logic)
+- Gate 60 - Limitation — Acceptance of limitation (Individual)
 
 ### Channel Connections
-- [[Channel 38-28 - Struggle]] — Pressure to fight to intuitive purpose
-- [[Gate 28 - Preponderance of the Great]] — The game player, risk for meaning
+- Channel 38-28 - Struggle — Pressure to fight to intuitive purpose
+- Gate 28 - Preponderance of the Great — The game player, risk for meaning
 
 ### Circuit Connections (Individual Knowing)
-- [[Gate 01 - The Creative]] — Self-expression (G Center)
-- [[Gate 02 - The Receptive]] — Direction of self (G Center)
-- [[Gate 03 - Difficulty at the Beginning]] — Ordering chaos (Sacral)
-- [[Gate 12 - Standstill]] — Caution (Throat)
-- [[Gate 14 - Possession in Great Measure]] — Power skills (Sacral)
-- [[Gate 22 - Grace]] — Openness (Solar Plexus)
-- [[Gate 23 - Splitting Apart]] — Assimilation (Throat)
-- [[Gate 24 - The Return]] — Rationalization (Ajna)
-- [[Gate 28 - Preponderance of the Great]] — Risk (Spleen)
-- [[Gate 43 - Breakthrough]] — Insight (Ajna)
-- [[Gate 61 - Inner Truth]] — Mystery (Ajna)
+- Gate 01 - The Creative — Self-expression (G Center)
+- Gate 02 - The Receptive — Direction of self (G Center)
+- Gate 03 - Difficulty at the Beginning — Ordering chaos (Sacral)
+- Gate 12 - Standstill — Caution (Throat)
+- Gate 14 - Possession in Great Measure — Power skills (Sacral)
+- Gate 22 - Grace — Openness (Solar Plexus)
+- Gate 23 - Splitting Apart — Assimilation (Throat)
+- Gate 24 - The Return — Rationalization (Ajna)
+- Gate 28 - Preponderance of the Great — Risk (Spleen)
+- Gate 43 - Breakthrough — Insight (Ajna)
+- Gate 61 - Inner Truth — Mystery (Ajna)
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 38 - Opposition]] — The source hexagram
-- [[Gene Keys 38 - Struggle to Honour]] — Shadow-gift-siddhi framework
+- I-Ching Hexagram 38 - Opposition — The source hexagram
+- Gene Keys 38 - Struggle to Honour — Shadow-gift-siddhi framework
 - [[Seven of Wands (Tarot)]] — The lone fighter, opposition
 - Geburah (Qabalah) — Severity, the warrior's discipline
 
 ### Thematic Collections
 - Gates of the Root Center — All nine pressure gates
 - Individual Circuit Gates — Knowing, Centering, Integration
-- [[Gates of Opposition]] — Struggle and fight
-- [[Gates of Integrity]] — Preserving truth through opposition
+- Gates of Opposition — Struggle and fight
+- Gates of Integrity — Preserving truth through opposition
 
 ### Archetypal and Mythological
 - The Warrior Archetype — Standing for principle through opposition

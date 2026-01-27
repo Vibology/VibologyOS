@@ -306,25 +306,25 @@ Gate 44 teaches that **memory is sacred**. When the individual honors their inst
 ## Cross-References
 
 ### Sequential Connections (Within Spleen Center Gates)
-- [[Gate 18 - Work on What Has Been Spoilt]] — Correction and tribal improvement
-- [[Gate 28 - Preponderance of the Great]] — Risk-taking and struggle for purpose
-- [[Gate 32 - Duration]] — Continuity and transformation
-- [[Gate 48 - The Well]] — Depth of resources and tribal knowledge
-- [[Gate 50 - The Cauldron]] — Values and tribal law
-- [[Gate 57 - The Gentle]] — Intuitive clarity and survival instinct
+- Gate 18 - Work on What Has Been Spoilt — Correction and tribal improvement
+- Gate 28 - Preponderance of the Great — Risk-taking and struggle for purpose
+- Gate 32 - Duration — Continuity and transformation
+- Gate 48 - The Well — Depth of resources and tribal knowledge
+- Gate 50 - The Cauldron — Values and tribal law
+- Gate 57 - The Gentle — Intuitive clarity and survival instinct
 
 ### Channel Connections
-- [[Channel 44-26 - Surrender]] — The full electromagnetic connection from pattern recognition (Spleen) to willpower (Ego)
-- [[Gate 26 - The Taming Power of the Great]] — The harmonic partner that mobilizes resources based on pattern recognition
+- Channel 44-26 - Surrender — The full electromagnetic connection from pattern recognition (Spleen) to willpower (Ego)
+- Gate 26 - The Taming Power of the Great — The harmonic partner that mobilizes resources based on pattern recognition
 
 ### Circuit Connections (Tribal Ego - Defense)
-- [[Gate 21 - Biting Through]] — Control and tribal authority
-- [[Gate 40 - Deliverance]] — Will to rest and restore
-- [[Gate 51 - The Arousing]] — Competition and tribal hierarchy
+- Gate 21 - Biting Through — Control and tribal authority
+- Gate 40 - Deliverance — Will to rest and restore
+- Gate 51 - The Arousing — Competition and tribal hierarchy
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 44 - Coming to Meet]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 44 - Interference to Synarchy]] — Richard Rudd's shadow-gift-siddhi framework for Gate 44
+- I-Ching Hexagram 44 - Coming to Meet — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 44 - Interference to Synarchy — Richard Rudd's shadow-gift-siddhi framework for Gate 44
 - [[The Hermit (IX)]] — Resonance with memory and wisdom
 - Binah (Qabalah) — Understanding, structure, protective memory
 
@@ -332,7 +332,7 @@ Gate 44 teaches that **memory is sacred**. When the individual honors their inst
 - Gates of the Spleen Center — All seven gates within the Survival center
 - Tribal Circuit Gates — All gates within the Tribal stream
 - Gates of Pattern Recognition — Gates related to memory and recognition
-- [[Gates of Survival Instinct]] — Gates that protect tribal well-being
+- Gates of Survival Instinct — Gates that protect tribal well-being
 
 ### Archetypal and Mythological
 - The Guardian Archetype — Jungian archetypal pattern of protection through memory
@@ -341,7 +341,7 @@ Gate 44 teaches that **memory is sacred**. When the individual honors their inst
 
 ### Biological and Somatic
 - [[Spleen]] — The center of survival, instinct, and health
-- [[Immune System]] — The biological mechanism of memory and pattern recognition
+- Immune System — The biological mechanism of memory and pattern recognition
 - [[Instinctual Awareness]] — Somatic intelligence in the present moment
 
 ### Practical Application

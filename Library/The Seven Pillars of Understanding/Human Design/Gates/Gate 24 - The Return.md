@@ -306,27 +306,27 @@ Gate 24 teaches that **true understanding requires patience and trust in mental 
 ## Cross-References
 
 ### Sequential Connections (Within Ajna Gates)
-- [[Gate 04 - Youthful Folly]] — Formulization and mental doubt
-- [[Gate 11 - Peace]] — Ideas and reflection
-- [[Gate 17 - Following]] — Opinions and mental organization
-- [[Gate 43 - Breakthrough]] — Insight and the inner ear
-- [[Gate 47 - Oppression]] — Mental pressure and realization
-- [[Gate 61 - Inner Truth]] — Mystery and mental pressure
+- Gate 04 - Youthful Folly — Formulization and mental doubt
+- Gate 11 - Peace — Ideas and reflection
+- Gate 17 - Following — Opinions and mental organization
+- Gate 43 - Breakthrough — Insight and the inner ear
+- Gate 47 - Oppression — Mental pressure and realization
+- Gate 61 - Inner Truth — Mystery and mental pressure
 
 ### Channel Connections
-- [[Channel 24-61 - Awareness]] — The full electromagnetic connection from rationalization (Ajna) to mental pressure (Head)
-- [[Gate 61 - Inner Truth]] — The harmonic partner that provides the pressure to know
+- Channel 24-61 - Awareness — The full electromagnetic connection from rationalization (Ajna) to mental pressure (Head)
+- Gate 61 - Inner Truth — The harmonic partner that provides the pressure to know
 
 ### Circuit Connections (Individual Knowing)
-- [[Gate 12 - Standstill]] — Caution and mutative voice
-- [[Gate 22 - Grace]] — Emotional openness and listening
-- [[Gate 23 - Splitting Apart]] — Assimilation and individual knowing
-- [[Gate 43 - Breakthrough]] — Insight and genius
-- [[Gate 39 - Obstruction]] — Provocation and spirit
+- Gate 12 - Standstill — Caution and mutative voice
+- Gate 22 - Grace — Emotional openness and listening
+- Gate 23 - Splitting Apart — Assimilation and individual knowing
+- Gate 43 - Breakthrough — Insight and genius
+- Gate 39 - Obstruction — Provocation and spirit
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 24 - The Return]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 24 - Addiction to Silence]] — Richard Rudd's shadow-gift-siddhi framework for Gate 24
+- I-Ching Hexagram 24 - The Return — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 24 - Addiction to Silence — Richard Rudd's shadow-gift-siddhi framework for Gate 24
 - [[The Hermit (IX)]] — Archetypal withdrawal and contemplation
 - [[Judgment (Tarot)]] — Return, renewal, and awakening
 - Hod (Qabalah) — The Sephirah of Intellect and mental splendor
@@ -336,8 +336,8 @@ Gate 24 teaches that **true understanding requires patience and trust in mental 
 ### Thematic Collections
 - Gates of the Ajna Center — All gates within the Mental Awareness center
 - Individual Circuit Gates — All gates within the Individual stream
-- [[Gates of Mental Processing]] — Gates related to thinking and conceptualization
-- [[Gates of Renewal and Cycling]] — Gates that operate through repetition and return
+- Gates of Mental Processing — Gates related to thinking and conceptualization
+- Gates of Renewal and Cycling — Gates that operate through repetition and return
 
 ### Archetypal and Mythological
 - The Philosopher Archetype — The figure who thinks deeply over time

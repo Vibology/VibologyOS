@@ -302,29 +302,29 @@ Gate 15 teaches that **true love is acceptance of the full spectrum**. When the 
 ## Cross-References
 
 ### Sequential Connections (Within G Center Gates)
-- [[Gate 01 - The Creative]] — Individual creative direction
-- [[Gate 02 - The Receptive]] — Higher self receptivity
-- [[Gate 07 - The Army]] — Role of self in collective leadership
-- [[Gate 10 - Treading]] — Behavior of self in interaction
-- [[Gate 13 - The Fellowship of Man]] — The listener who receives stories
-- [[Gate 25 - Innocence]] — Spirit of self, universal love
+- Gate 01 - The Creative — Individual creative direction
+- Gate 02 - The Receptive — Higher self receptivity
+- Gate 07 - The Army — Role of self in collective leadership
+- Gate 10 - Treading — Behavior of self in interaction
+- Gate 13 - The Fellowship of Man — The listener who receives stories
+- Gate 25 - Innocence — Spirit of self, universal love
 
 ### Channel Connections
-- [[Channel 15-5 - Rhythm]] — The full electromagnetic connection from pattern diversity (G) to natural timing (Sacral)
-- [[Gate 05 - Waiting]] — The harmonic partner that provides rhythm and timing for Gate 15's extremes
+- Channel 15-5 - Rhythm — The full electromagnetic connection from pattern diversity (G) to natural timing (Sacral)
+- Gate 05 - Waiting — The harmonic partner that provides rhythm and timing for Gate 15's extremes
 
 ### Circuit Connections (Collective Logic)
-- [[Gate 04 - Youthful Folly]] — Mental formulization (Ajna)
-- [[Gate 07 - The Army]] — Leadership role (G Center)
-- [[Gate 16 - Enthusiasm]] — Skill through repetition (Throat)
-- [[Gate 17 - Following]] — Mental organization of opinions (Ajna)
-- [[Gate 18 - Work on What Has Been Spoilt]] — Correction and integrity (Spleen)
-- [[Gate 62 - Preponderance of the Small]] — Detail orientation (Throat)
-- [[Gate 63 - After Completion]] — Doubt and questioning (Head)
+- Gate 04 - Youthful Folly — Mental formulization (Ajna)
+- Gate 07 - The Army — Leadership role (G Center)
+- Gate 16 - Enthusiasm — Skill through repetition (Throat)
+- Gate 17 - Following — Mental organization of opinions (Ajna)
+- Gate 18 - Work on What Has Been Spoilt — Correction and integrity (Spleen)
+- Gate 62 - Preponderance of the Small — Detail orientation (Throat)
+- Gate 63 - After Completion — Doubt and questioning (Head)
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 15 - Modesty]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 15 - Dullness to Florescence]] — Richard Rudd's shadow-gift-siddhi framework for Gate 15
+- I-Ching Hexagram 15 - Modesty — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 15 - Dullness to Florescence — Richard Rudd's shadow-gift-siddhi framework for Gate 15
 - [[Temperance (XIV)]] — Resonance with balancing extremes
 - [[Yesod]] — The Foundation that balances all forces
 - [[Venus ♀]] — The planet of love and attraction
@@ -332,7 +332,7 @@ Gate 15 teaches that **true love is acceptance of the full spectrum**. When the 
 ### Thematic Collections
 - Gates of the G Center — All eight gates within the Identity/Direction center
 - Collective Circuit Gates — All gates within the Collective stream
-- [[Gates of Love and Acceptance]] — Gates specifically related to inclusive humanity
+- Gates of Love and Acceptance — Gates specifically related to inclusive humanity
 - Gates of Pattern Recognition — Gates that recognize and share patterns
 
 ### Archetypal and Mythological
@@ -350,7 +350,7 @@ Gate 15 teaches that **true love is acceptance of the full spectrum**. When the 
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - Defined vs. Undefined Centers — Understanding fixed vs. variable energy in the bodygraph
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
-- [[Collective Pattern Sharing]] — How the Collective Logic Circuit disseminates knowledge
+- Collective Pattern Sharing — How the Collective Logic Circuit disseminates knowledge
 
 ---
 

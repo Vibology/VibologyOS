@@ -320,39 +320,39 @@ Gate 10 teaches that **loving oneself is expressed through behavior**. When the 
 ## Cross-References
 
 ### Sequential Connections (Within G Center Gates)
-- [[Gate 01 - The Creative]] — Creative force and self-expression
-- [[Gate 02 - The Receptive]] — Receptive directional force
-- [[Gate 07 - The Army]] — Role of self in leadership
-- [[Gate 13 - The Fellowship of Man]] — The listener who receives collective stories
-- [[Gate 15 - Modesty]] — Love of humanity through balanced extremes
-- [[Gate 25 - Innocence]] — The spirit of self, universal love
+- Gate 01 - The Creative — Creative force and self-expression
+- Gate 02 - The Receptive — Receptive directional force
+- Gate 07 - The Army — Role of self in leadership
+- Gate 13 - The Fellowship of Man — The listener who receives collective stories
+- Gate 15 - Modesty — Love of humanity through balanced extremes
+- Gate 25 - Innocence — The spirit of self, universal love
 
 ### Channel Connections
-- [[Channel 10-20 - Awakening (Commitment to Higher Principles)]] — Behavioral identity to present-moment awareness
-- [[Channel 10-34 - Exploration (Following One's Convictions)]] — Behavioral identity to Sacral power
-- [[Channel 10-57 - Perfected Form (Survival)]] — Behavioral identity to Splenic intuition
-- [[Gate 20 - Contemplation]] — Awareness in the now (Throat)
-- [[Gate 34 - The Power of the Great]] — Raw power and strength (Sacral)
-- [[Gate 57 - The Gentle]] — Intuitive clarity (Spleen)
+- Channel 10-20 - Awakening (Commitment to Higher Principles) — Behavioral identity to present-moment awareness
+- Channel 10-34 - Exploration (Following One's Convictions) — Behavioral identity to Sacral power
+- Channel 10-57 - Perfected Form (Survival) — Behavioral identity to Splenic intuition
+- Gate 20 - Contemplation — Awareness in the now (Throat)
+- Gate 34 - The Power of the Great — Raw power and strength (Sacral)
+- Gate 57 - The Gentle — Intuitive clarity (Spleen)
 
 ### Circuit Connections (Integration/Centering)
-- [[Gate 25 - Innocence]] — Spirit of self, universal love (G Center)
-- [[Gate 46 - The Determination of the Self]] — Embodiment and physical experience (G Center)
-- [[Gate 51 - The Arousing]] — Initiation and competitive individualism (Heart/Ego)
-- [[Gate 55 - Abundance]] — Emotional depth and spirit (Solar Plexus)
+- Gate 25 - Innocence — Spirit of self, universal love (G Center)
+- Gate 46 - The Determination of the Self — Embodiment and physical experience (G Center)
+- Gate 51 - The Arousing — Initiation and competitive individualism (Heart/Ego)
+- Gate 55 - Abundance — Emotional depth and spirit (Solar Plexus)
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 10 - Treading]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 10 - Self-Obsession to Being]] — Richard Rudd's shadow-gift-siddhi framework for Gate 10
+- I-Ching Hexagram 10 - Treading — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 10 - Self-Obsession to Being — Richard Rudd's shadow-gift-siddhi framework for Gate 10
 - [[The Sun (Tarot)]] — Resonance with natural radiance and authenticity
 - [[Tiphareth]] — Beauty, harmony, and the balanced self
-- [[The Sun (Astrology)]] — Planet of identity and self-expression
+- [[Sun ☉]] — Planet of identity and self-expression
 
 ### Thematic Collections
 - Gates of the G Center — All eight gates within the Identity/Direction center
-- [[Integration Circuit Gates]] — All gates within the Integration stream
-- [[Gates of Behavior and Self-Expression]] — Gates specifically related to how one moves through life
-- [[Gates of Self-Love]] — Gates carrying the capacity to honor oneself
+- Integration Circuit Gates — All gates within the Integration stream
+- Gates of Behavior and Self-Expression — Gates specifically related to how one moves through life
+- Gates of Self-Love — Gates carrying the capacity to honor oneself
 
 ### Archetypal and Mythological
 - [[The Authentic Self (Jung)]] — The totality of the psyche expressing truthfully

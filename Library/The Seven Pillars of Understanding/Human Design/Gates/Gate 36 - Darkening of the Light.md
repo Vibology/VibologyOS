@@ -305,44 +305,44 @@ Gate 36 teaches that **darkness is not pathology—it is necessity**. When the i
 ## Cross-References
 
 ### Sequential Connections (Within Solar Plexus Gates)
-- [[Gate 06 - Conflict]] — Emotional friction
-- [[Gate 22 - Grace]] — Emotional openness
-- [[Gate 30 - The Clinging Fire]] — Emotional desire
-- [[Gate 37 - The Family]] — Friendship and bargains
-- [[Gate 49 - Revolution]] — Principles and sensitivity
-- [[Gate 55 - Abundance]] — Emotional spirit
+- Gate 06 - Conflict — Emotional friction
+- Gate 22 - Grace — Emotional openness
+- Gate 30 - The Clinging Fire — Emotional desire
+- Gate 37 - The Family — Friendship and bargains
+- Gate 49 - Revolution — Principles and sensitivity
+- Gate 55 - Abundance — Emotional spirit
 
 ### Channel Connections
-- [[Channel 35-36 - Transitoriness]] — Experiential hunger to emotional crisis
-- [[Gate 35 - Progress]] — The voice of experience
+- Channel 35-36 - Transitoriness — Experiential hunger to emotional crisis
+- Gate 35 - Progress — The voice of experience
 
 ### Circuit Connections (Collective Abstract/Sensing)
-- [[Gate 06 - Conflict]] — Friction
-- [[Gate 11 - Peace]] — Ideas
-- [[Gate 22 - Grace]] — Openness
-- [[Gate 29 - Perseverance]] — Saying yes
-- [[Gate 30 - The Clinging Fire]] — Desire
-- [[Gate 35 - Progress]] — Experience
-- [[Gate 37 - The Family]] — Friendship
-- [[Gate 41 - Decrease]] — Fantasy
-- [[Gate 42 - Increase]] — Completion
-- [[Gate 46 - Pushing Upward]] — Serendipity
-- [[Gate 47 - Oppression]] — Realization
-- [[Gate 49 - Revolution]] — Principles
-- [[Gate 55 - Abundance]] — Spirit
-- [[Gate 56 - The Wanderer]] — Stimulation
+- Gate 06 - Conflict — Friction
+- Gate 11 - Peace — Ideas
+- Gate 22 - Grace — Openness
+- Gate 29 - Perseverance — Saying yes
+- Gate 30 - The Clinging Fire — Desire
+- Gate 35 - Progress — Experience
+- Gate 37 - The Family — Friendship
+- Gate 41 - Decrease — Fantasy
+- Gate 42 - Increase — Completion
+- Gate 46 - Pushing Upward — Serendipity
+- Gate 47 - Oppression — Realization
+- Gate 49 - Revolution — Principles
+- Gate 55 - Abundance — Spirit
+- Gate 56 - The Wanderer — Stimulation
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 36 - Darkening of the Light]] — The source hexagram
-- [[Gene Keys 36 - Turbulence to Compassion]] — Shadow-gift-siddhi framework
+- I-Ching Hexagram 36 - Darkening of the Light — The source hexagram
+- Gene Keys 36 - Turbulence to Compassion — Shadow-gift-siddhi framework
 - [[The Moon (Tarot)]] — The night journey, navigating darkness
 - Binah (Qabalah) — Understanding through darkness
 
 ### Thematic Collections
 - Gates of the Solar Plexus Center — All six emotional gates
 - Collective Circuit Gates — Logic and Abstract
-- [[Gates of Crisis]] — Learning through darkness
-- [[Gates of Compassion]] — Empathy through suffering
+- Gates of Crisis — Learning through darkness
+- Gates of Compassion — Empathy through suffering
 
 ### Archetypal and Mythological
 - The Wounded Healer Archetype — Compassion through personal suffering
@@ -352,7 +352,7 @@ Gate 36 teaches that **darkness is not pathology—it is necessity**. When the i
 ### Biological and Somatic
 - [[Solar Plexus]] — Emotional awareness and wave
 - [[Nerve Plexus]] — Biological correlate of emotional chemistry
-- [[Kidneys]] — Processing emotional toxins
+- Kidneys — Processing emotional toxins
 - [[Emotional Authority]] — Decision-making through the wave
 
 ### Practical Application

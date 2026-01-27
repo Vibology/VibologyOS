@@ -306,36 +306,36 @@ Gate 46 teaches that **the body is sacred**. When the individual honors their lo
 ## Cross-References
 
 ### Sequential Connections (Within G Center Gates)
-- [[Gate 01 - The Creative]] — Creative direction and self-expression
-- [[Gate 02 - The Receptive]] — Receptive direction and response
-- [[Gate 07 - The Army]] — Role of self in leading
-- [[Gate 10 - Treading]] — Behavior of self
-- [[Gate 13 - The Fellowship of Man]] — Listener and witness
-- [[Gate 15 - Modesty]] — Love of humanity through extremes
-- [[Gate 25 - Innocence]] — Spirit of self, universal love
+- Gate 01 - The Creative — Creative direction and self-expression
+- Gate 02 - The Receptive — Receptive direction and response
+- Gate 07 - The Army — Role of self in leading
+- Gate 10 - Treading — Behavior of self
+- Gate 13 - The Fellowship of Man — Listener and witness
+- Gate 15 - Modesty — Love of humanity through extremes
+- Gate 25 - Innocence — Spirit of self, universal love
 
 ### Channel Connections
-- [[Channel 46-29 - Discovery]] — The full electromagnetic connection from embodied love (G) to committed perseverance (Sacral)
-- [[Gate 29 - The Abysmal]] — The harmonic partner that provides Sacral commitment
+- Channel 46-29 - Discovery — The full electromagnetic connection from embodied love (G) to committed perseverance (Sacral)
+- Gate 29 - The Abysmal — The harmonic partner that provides Sacral commitment
 
 ### Circuit Connections (Collective Understanding - Logic)
-- [[Gate 04 - Youthful Folly]] — Mental formulation
-- [[Gate 11 - Peace]] — Mental attunement
-- [[Gate 17 - Following]] — Mental recognition of patterns
-- [[Gate 18 - Work on What Has Been Spoilt]] — Correction
-- [[Gate 48 - The Well]] — Depth of resources
+- Gate 04 - Youthful Folly — Mental formulation
+- Gate 11 - Peace — Mental attunement
+- Gate 17 - Following — Mental recognition of patterns
+- Gate 18 - Work on What Has Been Spoilt — Correction
+- Gate 48 - The Well — Depth of resources
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 46 - Pushing Upward]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 46 - Seriousness to Ecstasy]] — Richard Rudd's shadow-gift-siddhi framework for Gate 46
+- I-Ching Hexagram 46 - Pushing Upward — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 46 - Seriousness to Ecstasy — Richard Rudd's shadow-gift-siddhi framework for Gate 46
 - [[The Empress (III)]] — Resonance with embodied abundance
-- [[Malkuth (Qabalah)]] — Kingdom, physical manifestation
+- [[Malkuth]] — Kingdom, physical manifestation
 
 ### Thematic Collections
 - Gates of the G Center — All eight gates within the Identity center
-- [[Collective Understanding Circuit Gates]] — All gates within the Logic stream
-- [[Gates of Embodiment]] — Gates related to physical presence
-- [[Gates of Serendipity]] — Gates that create synchronistic encounters
+- Collective Understanding Circuit Gates — All gates within the Logic stream
+- Gates of Embodiment — Gates related to physical presence
+- Gates of Serendipity — Gates that create synchronistic encounters
 
 ### Archetypal and Mythological
 - The Lover Archetype — Jungian archetypal pattern of embodied celebration

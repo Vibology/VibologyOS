@@ -304,35 +304,35 @@ Gate 13 teaches that **listening is a sacred act**. When the individual honors t
 ## Cross-References
 
 ### Sequential Connections (Within G Center Gates)
-- [[Gate 01 - The Creative]] — Creative direction seeking expression
-- [[Gate 02 - The Receptive]] — Receptive direction, higher knowing
-- [[Gate 07 - The Army]] — The role of self in leading/guiding
-- [[Gate 10 - Treading]] — The behavior of self in interaction
-- [[Gate 15 - Modesty]] — Love of humanity through balanced extremes
-- [[Gate 25 - Innocence]] — The spirit of self, universal love
+- Gate 01 - The Creative — Creative direction seeking expression
+- Gate 02 - The Receptive — Receptive direction, higher knowing
+- Gate 07 - The Army — The role of self in leading/guiding
+- Gate 10 - Treading — The behavior of self in interaction
+- Gate 15 - Modesty — Love of humanity through balanced extremes
+- Gate 25 - Innocence — The spirit of self, universal love
 
 ### Channel Connections
-- [[Channel 13-33 - The Prodigal]] — The full electromagnetic connection from listening (G) to sharing (Throat)
-- [[Gate 33 - Privacy]] — The harmonic partner that gives voice to Gate 13's witnessing
+- Channel 13-33 - The Prodigal — The full electromagnetic connection from listening (G) to sharing (Throat)
+- Gate 33 - Privacy — The harmonic partner that gives voice to Gate 13's witnessing
 
 ### Circuit Connections (Collective Sharing)
-- [[Gate 22 - Grace]] — Emotional openness and social grace
-- [[Gate 36 - Crisis]] — Emotional depth through experience
-- [[Gate 37 - The Family]] — Tribal/familial agreements
-- [[Gate 39 - Provocation]] — Emotional provocation and spirit
-- [[Gate 55 - Abundance]] — Emotional abundance and spirit
+- Gate 22 - Grace — Emotional openness and social grace
+- Gate 36 - Crisis — Emotional depth through experience
+- Gate 37 - The Family — Tribal/familial agreements
+- Gate 39 - Provocation — Emotional provocation and spirit
+- Gate 55 - Abundance — Emotional abundance and spirit
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 13 - Fellowship with Men]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 13 - Discord to Empathy]] — Richard Rudd's shadow-gift-siddhi framework for Gate 13
-- [[The Hierophant (Tarot)]] — Resonance with holding tradition and collective wisdom
+- I-Ching Hexagram 13 - Fellowship with Men — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 13 - Discord to Empathy — Richard Rudd's shadow-gift-siddhi framework for Gate 13
+- [[The Hierophant (V)]] — Resonance with holding tradition and collective wisdom
 - Chesed (Qabalah) — The Sephirah of Mercy and loving-kindness
 
 ### Thematic Collections
 - Gates of the G Center — All eight gates within the Identity/Direction center
 - Collective Circuit Gates — All gates within the Collective stream
-- [[Gates of Witness and Listening]] — Gates that hold space for others' experiences
-- [[Gates of Universal Patterns]] — Gates that recognize collective themes
+- Gates of Witness and Listening — Gates that hold space for others' experiences
+- Gates of Universal Patterns — Gates that recognize collective themes
 
 ### Archetypal and Mythological
 - The Witness Archetype — The pattern of observing without intervention
@@ -348,7 +348,7 @@ Gate 13 teaches that **listening is a sacred act**. When the individual honors t
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - [[Empathic Boundaries in Human Design]] — How to witness without absorption
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
-- [[Collective vs. Individual vs. Tribal]] — Distinguishing the three streams of circuitry
+- Collective vs. Individual vs. Tribal — Distinguishing the three streams of circuitry
 
 ---
 

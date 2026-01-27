@@ -307,35 +307,35 @@ Gate 1 teaches that **authentic identity is expressed through unique creativity*
 ## Cross-References
 
 ### Sequential Connections (Within G Center Gates)
-- [[Gate 02 - The Receptive]] — The complementary force to Gate 1's initiating creative power
-- [[Gate 07 - The Army]] — The role of self in leading/guiding collective direction
-- [[Gate 10 - Treading]] — The behavior of self in interaction
-- [[Gate 13 - The Fellowship of Man]] — The listener who receives collective stories
-- [[Gate 15 - Modesty]] — Love of humanity expressed through balanced extremes
-- [[Gate 25 - Innocence]] — The spirit of self, universal love
+- Gate 02 - The Receptive — The complementary force to Gate 1's initiating creative power
+- Gate 07 - The Army — The role of self in leading/guiding collective direction
+- Gate 10 - Treading — The behavior of self in interaction
+- Gate 13 - The Fellowship of Man — The listener who receives collective stories
+- Gate 15 - Modesty — Love of humanity expressed through balanced extremes
+- Gate 25 - Innocence — The spirit of self, universal love
 
 ### Channel Connections
-- [[Channel 1-8 - Inspiration]] — The full electromagnetic connection from creative identity (G) to contribution (Throat)
-- [[Gate 08 - Holding Together]] — The harmonic partner that gives voice to Gate 1's creative direction
+- Channel 1-8 - Inspiration — The full electromagnetic connection from creative identity (G) to contribution (Throat)
+- Gate 08 - Holding Together — The harmonic partner that gives voice to Gate 1's creative direction
 
 ### Circuit Connections (Individual Knowing)
-- [[Gate 12 - Standstill]] — Mutative voice (Throat) expressing caution
-- [[Gate 22 - Grace]] — Emotional openness (Solar Plexus) in individual expression
-- [[Gate 23 - Splitting Apart]] — Individual knowing expressed through assimilation
-- [[Gate 24 - The Return]] — Mental rationalization (Ajna) returning to truth
-- [[Gate 61 - Inner Truth]] — Mystery and inner knowing (Ajna)
+- Gate 12 - Standstill — Mutative voice (Throat) expressing caution
+- Gate 22 - Grace — Emotional openness (Solar Plexus) in individual expression
+- Gate 23 - Splitting Apart — Individual knowing expressed through assimilation
+- Gate 24 - The Return — Mental rationalization (Ajna) returning to truth
+- Gate 61 - Inner Truth — Mystery and inner knowing (Ajna)
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 1 - The Creative]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 01 - Entropy to Beauty]] — Richard Rudd's shadow-gift-siddhi framework for Gate 1
-- [[The Magician (Tarot)]] — Resonance with initiating creative force
+- I-Ching Hexagram 1 - The Creative — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 01 - Entropy to Beauty — Richard Rudd's shadow-gift-siddhi framework for Gate 1
+- [[The Magician (I)]] — Resonance with initiating creative force
 - [[Kether]] — The Crown, primal point of manifestation
 
 ### Thematic Collections
 - Gates of the G Center — All eight gates within the Identity/Direction center
 - Individual Circuit Gates — All gates within the Individual stream
 - Gates of Mutation — Gates carrying the mutative, empowering frequency
-- [[Gates of Creative Expression]] — Gates specifically related to bringing forth new forms
+- Gates of Creative Expression — Gates specifically related to bringing forth new forms
 
 ### Archetypal and Mythological
 - The Creator Archetype — Jungian archetypal pattern of bringing forth new realities
@@ -352,7 +352,7 @@ Gate 1 teaches that **authentic identity is expressed through unique creativity*
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - Defined vs. Undefined Centers — Understanding fixed vs. variable energy in the bodygraph
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
-- [[Individual Empowerment vs. Collective Leadership]] — Distinguishing Individual from Tribal/Collective roles
+- Individual Empowerment vs. Collective Leadership — Distinguishing Individual from Tribal/Collective roles
 
 ---
 

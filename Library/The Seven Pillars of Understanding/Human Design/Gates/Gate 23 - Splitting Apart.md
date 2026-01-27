@@ -306,41 +306,41 @@ Gate 23 teaches that **true knowing requires assimilation and the courage to spe
 ## Cross-References
 
 ### Sequential Connections (Within Throat Gates)
-- [[Gate 08 - Holding Together]] — Contribution and individual expression
-- [[Gate 12 - Standstill]] — Caution and mutative voice
-- [[Gate 16 - Enthusiasm]] — Skills and repetitive mastery
-- [[Gate 20 - Contemplation]] — Awareness in the now
-- [[Gate 31 - Influence]] — Leadership and collective voice
-- [[Gate 33 - Retreat]] — Privacy and remembering
-- [[Gate 35 - Progress]] — Change and experience
-- [[Gate 45 - The Gatherer]] — Tribal voice and distribution
-- [[Gate 56 - The Wanderer]] — Storytelling and stimulation
-- [[Gate 62 - Preponderance of the Small]] — Details and logical thinking
+- Gate 08 - Holding Together — Contribution and individual expression
+- Gate 12 - Standstill — Caution and mutative voice
+- Gate 16 - Enthusiasm — Skills and repetitive mastery
+- Gate 20 - Contemplation — Awareness in the now
+- Gate 31 - Influence — Leadership and collective voice
+- Gate 33 - Retreat — Privacy and remembering
+- Gate 35 - Progress — Change and experience
+- Gate 45 - The Gatherer — Tribal voice and distribution
+- Gate 56 - The Wanderer — Storytelling and stimulation
+- Gate 62 - Preponderance of the Small — Details and logical thinking
 
 ### Channel Connections
-- [[Channel 23-43 - Structuring]] — The full electromagnetic connection from voice (Throat) to insight (Ajna)
-- [[Gate 43 - Breakthrough]] — The harmonic partner that provides individual knowing to Gate 23's voice
+- Channel 23-43 - Structuring — The full electromagnetic connection from voice (Throat) to insight (Ajna)
+- Gate 43 - Breakthrough — The harmonic partner that provides individual knowing to Gate 23's voice
 
 ### Circuit Connections (Individual Knowing)
-- [[Gate 12 - Standstill]] — Caution and restraint in individual voice
-- [[Gate 22 - Grace]] — Emotional openness and listening
-- [[Gate 24 - The Return]] — Rationalization and mental renewal
-- [[Gate 43 - Breakthrough]] — Insight and the inner ear
-- [[Gate 39 - Obstruction]] — Provocation and spirit
+- Gate 12 - Standstill — Caution and restraint in individual voice
+- Gate 22 - Grace — Emotional openness and listening
+- Gate 24 - The Return — Rationalization and mental renewal
+- Gate 43 - Breakthrough — Insight and the inner ear
+- Gate 39 - Obstruction — Provocation and spirit
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 23 - Splitting Apart]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 23 - Complexity to Quintessence]] — Richard Rudd's shadow-gift-siddhi framework for Gate 23
+- I-Ching Hexagram 23 - Splitting Apart — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 23 - Complexity to Quintessence — Richard Rudd's shadow-gift-siddhi framework for Gate 23
 - [[The Hermit (IX)]] — Archetypal withdrawal to know truth
 - [[The Tower (XVI)]] — Necessary destruction of illusion
 - Binah (Qabalah) — The Sephirah of Understanding and form-giving
 - Mercury — The planet of communication and knowing
-- [[Uranus (Astrology)]] — The planet of mutation and breakthrough
+- [[Uranus ♅]] — The planet of mutation and breakthrough
 
 ### Thematic Collections
 - Gates of the Throat Center — All gates within the Expression center
 - Individual Circuit Gates — All gates within the Individual stream
-- [[Gates of Knowing and Insight]] — Gates related to understanding and articulation
+- Gates of Knowing and Insight — Gates related to understanding and articulation
 - Gates of Mutation — Gates that introduce new possibilities
 
 ### Archetypal and Mythological

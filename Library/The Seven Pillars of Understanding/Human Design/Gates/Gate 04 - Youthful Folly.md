@@ -316,28 +316,28 @@ Gate 4 teaches that **the mind is a beautiful tool for understanding, not for de
 ## Cross-References
 
 ### Sequential Connections (Within Ajna Gates)
-- [[Gate 11 - Peace]] — Ideas as tools for reflection (Collective Sensing/Abstract)
-- [[Gate 17 - Following]] — Opinions and mental organization (Collective Logic)
-- [[Gate 24 - The Return]] — Rationalization and mental renewal (Individual Knowing)
-- [[Gate 43 - Breakthrough]] — Insight and individual mental knowing (Individual Knowing)
-- [[Gate 47 - Oppression]] — Mental pressure and realization (Collective Sensing/Abstract)
+- Gate 11 - Peace — Ideas as tools for reflection (Collective Sensing/Abstract)
+- Gate 17 - Following — Opinions and mental organization (Collective Logic)
+- Gate 24 - The Return — Rationalization and mental renewal (Individual Knowing)
+- Gate 43 - Breakthrough — Insight and individual mental knowing (Individual Knowing)
+- Gate 47 - Oppression — Mental pressure and realization (Collective Sensing/Abstract)
 
 ### Channel Connections
-- [[Channel 4-63 - Logic]] — The full electromagnetic connection from mental pressure (Head) to mental formulation (Ajna)
-- [[Gate 63 - After Completion]] — The harmonic partner that provides the doubt/pressure driving formulation
+- Channel 4-63 - Logic — The full electromagnetic connection from mental pressure (Head) to mental formulation (Ajna)
+- Gate 63 - After Completion — The harmonic partner that provides the doubt/pressure driving formulation
 
 ### Circuit Connections (Collective Logic)
-- [[Gate 05 - Waiting]] — Fixed patterns and natural rhythms (Sacral)
-- [[Gate 07 - The Army]] — Role of self in leadership (G Center)
-- [[Gate 09 - The Taming Power of the Small]] — Focus and detailed attention (Sacral)
-- [[Gate 16 - Enthusiasm]] — Skills and talent through repetition (Throat)
-- [[Gate 17 - Following]] — Opinions and mental organization (Ajna)
-- [[Gate 18 - Work on What Has Been Spoilt]] — Correction and judgment (Spleen)
-- [[Gate 62 - Preponderance of the Small]] — Details and organizational thinking (Throat)
+- Gate 05 - Waiting — Fixed patterns and natural rhythms (Sacral)
+- Gate 07 - The Army — Role of self in leadership (G Center)
+- Gate 09 - The Taming Power of the Small — Focus and detailed attention (Sacral)
+- Gate 16 - Enthusiasm — Skills and talent through repetition (Throat)
+- Gate 17 - Following — Opinions and mental organization (Ajna)
+- Gate 18 - Work on What Has Been Spoilt — Correction and judgment (Spleen)
+- Gate 62 - Preponderance of the Small — Details and organizational thinking (Throat)
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 4 - Youthful Folly]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 04 - Intolerance to Forgiveness]] — Richard Rudd's shadow-gift-siddhi framework for Gate 4
+- I-Ching Hexagram 4 - Youthful Folly — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 04 - Intolerance to Forgiveness — Richard Rudd's shadow-gift-siddhi framework for Gate 4
 - [[The Fool (0)]] — Resonance with inexperience and potential
 - [[Da'at (Qabalah)]] — Knowledge as provisional understanding
 - Mercury — Planet of mental formulation and communication
@@ -346,7 +346,7 @@ Gate 4 teaches that **the mind is a beautiful tool for understanding, not for de
 - Gates of the Ajna Center — All mental awareness gates
 - Collective Circuit Gates — All gates within the Collective stream
 - Gates of Pattern Recognition — Gates specifically related to seeing and organizing patterns
-- [[Gates of Mental Pressure]] — Gates carrying the pressure to understand
+- Gates of Mental Pressure — Gates carrying the pressure to understand
 
 ### Archetypal and Mythological
 - [[The Seeker of Patterns]] — Archetypal pattern of creating mental frameworks
@@ -356,8 +356,8 @@ Gate 4 teaches that **the mind is a beautiful tool for understanding, not for de
 
 ### Biological and Somatic
 - [[Ajna]] — The center of mental awareness and conceptualization
-- [[Neocortex (Biology)]] — The brain region associated with pattern recognition
-- [[Pituitary Gland (Biology)]] — The "master gland" associated with the Ajna
+- Neocortex — The brain region associated with pattern recognition
+- Pituitary Gland — The "master gland" associated with the Ajna
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework

@@ -306,27 +306,27 @@ Gate 43 teaches that **unique knowing is sacred**. When the individual honors th
 ## Cross-References
 
 ### Sequential Connections (Within Ajna Center Gates)
-- [[Gate 04 - Youthful Folly]] — Mental formulation through questioning
-- [[Gate 11 - Peace]] — Mental attunement to universal patterns
-- [[Gate 17 - Following]] — Mental recognition of patterns to follow
-- [[Gate 24 - The Return]] — Mental rationalization and return to truth
-- [[Gate 47 - Oppression]] — Mental pressure and realization
-- [[Gate 61 - Inner Truth]] — Mental mystery and contemplation
+- Gate 04 - Youthful Folly — Mental formulation through questioning
+- Gate 11 - Peace — Mental attunement to universal patterns
+- Gate 17 - Following — Mental recognition of patterns to follow
+- Gate 24 - The Return — Mental rationalization and return to truth
+- Gate 47 - Oppression — Mental pressure and realization
+- Gate 61 - Inner Truth — Mental mystery and contemplation
 
 ### Channel Connections
-- [[Channel 43-23 - Structuring]] — The full electromagnetic connection from insight (Ajna) to articulation (Throat)
-- [[Gate 23 - Splitting Apart]] — The harmonic partner that gives voice to breakthrough knowing
+- Channel 43-23 - Structuring — The full electromagnetic connection from insight (Ajna) to articulation (Throat)
+- Gate 23 - Splitting Apart — The harmonic partner that gives voice to breakthrough knowing
 
 ### Circuit Connections (Individual Knowing)
-- [[Gate 01 - The Creative]] — Creative direction and self-expression
-- [[Gate 08 - Holding Together]] — Contribution through unique voice
-- [[Gate 12 - Standstill]] — Mutative caution and articulation
-- [[Gate 22 - Grace]] — Emotional openness in individual expression
-- [[Gate 61 - Inner Truth]] — Mystery and inner knowing
+- Gate 01 - The Creative — Creative direction and self-expression
+- Gate 08 - Holding Together — Contribution through unique voice
+- Gate 12 - Standstill — Mutative caution and articulation
+- Gate 22 - Grace — Emotional openness in individual expression
+- Gate 61 - Inner Truth — Mystery and inner knowing
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 43 - Breakthrough]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 43 - Deafness to Epiphany]] — Richard Rudd's shadow-gift-siddhi framework for Gate 43
+- I-Ching Hexagram 43 - Breakthrough — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 43 - Deafness to Epiphany — Richard Rudd's shadow-gift-siddhi framework for Gate 43
 - [[The Tower (XVI)]] — Resonance with sudden revelation and breakthrough
 - [[Chokmah]] — Wisdom, sudden illumination
 
@@ -334,12 +334,12 @@ Gate 43 teaches that **unique knowing is sacred**. When the individual honors th
 - Gates of the Ajna Center — All seven gates within the Awareness center
 - Individual Circuit Gates — All gates within the Individual stream
 - Gates of Mutation — Gates carrying the mutative, empowering frequency
-- [[Gates of Insight]] — Gates specifically related to unique knowing
+- Gates of Insight — Gates specifically related to unique knowing
 
 ### Archetypal and Mythological
 - The Genius Archetype — Jungian archetypal pattern of unique knowing
 - Prometheus (Greek mythology) — The bringer of breakthrough knowledge
-- [[Uranus (Astrology)]] — Sudden revelation and mental mutation
+- [[Uranus ♅]] — Sudden revelation and mental mutation
 
 ### Biological and Somatic
 - [[Ajna]] — The center of mental awareness and conceptualization

@@ -309,23 +309,23 @@ Gate 51 teaches that **courage is the foundation of individuation**. When the in
 ## Cross-References
 
 ### Sequential Connections (Within Heart Center Gates)
-- [[Gate 21 - The Hunter]] — The will to control resources through ego strength
-- [[Gate 26 - The Taming Power of the Great]] — The trickster's will to persuade
-- [[Gate 40 - Deliverance]] — The will to provide for the tribe, and the will to rest
+- Gate 21 - The Hunter — The will to control resources through ego strength
+- Gate 26 - The Taming Power of the Great — The trickster's will to persuade
+- Gate 40 - Deliverance — The will to provide for the tribe, and the will to rest
 
 ### Channel Connections
-- [[Channel 25-51 - Initiation]] — The full electromagnetic connection from spiritual innocence (G) to courageous action (Heart)
-- [[Gate 25 - Innocence]] — The harmonic partner that provides universal love and spiritual purpose to Gate 51's willpower
+- Channel 25-51 - Initiation — The full electromagnetic connection from spiritual innocence (G) to courageous action (Heart)
+- Gate 25 - Innocence — The harmonic partner that provides universal love and spiritual purpose to Gate 51's willpower
 
 ### Circuit Connections (Individual Centering)
-- [[Gate 10 - Treading]] — The behavior of the self, empowered by Gate 34 (Sacral power)
-- [[Gate 34 - The Power of the Great]] — The raw Sacral power that fuels individual behavior
-- [[Gate 20 - Contemplation]] — The voice of the individual "I am" expressed through the now
-- [[Gate 57 - The Gentle]] — Splenic intuition guiding the self in the now
+- Gate 10 - Treading — The behavior of the self, empowered by Gate 34 (Sacral power)
+- Gate 34 - The Power of the Great — The raw Sacral power that fuels individual behavior
+- Gate 20 - Contemplation — The voice of the individual "I am" expressed through the now
+- Gate 57 - The Gentle — Splenic intuition guiding the self in the now
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 51 - The Arousing]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 51 - Agitation to Awakening]] — Richard Rudd's shadow-gift-siddhi framework for Gate 51
+- I-Ching Hexagram 51 - The Arousing — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 51 - Agitation to Awakening — Richard Rudd's shadow-gift-siddhi framework for Gate 51
 - [[The Tower (XVI)]] — Resonance with divine shock and necessary disruption
 - Geburah (Qabalah) — The sephira of severity, strength, and willpower
 
@@ -333,24 +333,24 @@ Gate 51 teaches that **courage is the foundation of individuation**. When the in
 - Gates of the Heart Center — All four gates within the Ego/Willpower center
 - Individual Circuit Gates — All gates within the Individual stream
 - Gates of Mutation — Gates carrying the mutative, empowering frequency
-- [[Gates of Initiation]] — Gates specifically related to being first, pioneering, risking
+- Gates of Initiation — Gates specifically related to being first, pioneering, risking
 
 ### Archetypal and Mythological
 - The Warrior Archetype — Jungian archetypal pattern of courage and initiation
-- [[Mars (Mythology)]] — The Roman god of war and action
+- Mars (mythology) — The Roman god of war and action
 - Ares (Greek mythology) — The Greek god of battle and competitive spirit
 - [[Thor (Norse Mythology)]] — The thunder god whose hammer shocks and protects
 
 ### Biological and Somatic
-- [[Heart (Ego) Center]] — The center of willpower, self-worth, and material world engagement
-- [[Thymus Gland]] — The biological correspondence for the Heart Center (immunity, self-recognition)
+- [[Heart]] — The center of willpower, self-worth, and material world engagement
+- Thymus Gland — The biological correspondence for the Heart Center (immunity, self-recognition)
 - [[Adrenal Response]] — The fight-or-flight mechanism activated by Gate 51's shock
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - Defined vs. Undefined Centers — Understanding fixed vs. variable energy in the bodygraph
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
-- [[Individual Empowerment vs. Collective Leadership]] — Distinguishing Individual from Tribal/Collective roles
+- Individual Empowerment vs. Collective Leadership — Distinguishing Individual from Tribal/Collective roles
 
 ---
 

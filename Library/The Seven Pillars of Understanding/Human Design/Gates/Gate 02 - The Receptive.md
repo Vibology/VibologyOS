@@ -312,28 +312,28 @@ Gate 2 teaches that **direction is not something to be found—it is something t
 ## Cross-References
 
 ### Sequential Connections (Within G Center Gates)
-- [[Gate 01 - The Creative]] — The complementary initiating force to Gate 2's receptive power
-- [[Gate 07 - The Army]] — The role of self in leading/guiding collective direction
-- [[Gate 10 - Treading]] — The behavior of self in interaction
-- [[Gate 13 - The Fellowship of Man]] — The listener who receives collective stories
-- [[Gate 15 - Modesty]] — Love of humanity expressed through balanced extremes
-- [[Gate 25 - Innocence]] — The spirit of self, universal love
+- Gate 01 - The Creative — The complementary initiating force to Gate 2's receptive power
+- Gate 07 - The Army — The role of self in leading/guiding collective direction
+- Gate 10 - Treading — The behavior of self in interaction
+- Gate 13 - The Fellowship of Man — The listener who receives collective stories
+- Gate 15 - Modesty — Love of humanity expressed through balanced extremes
+- Gate 25 - Innocence — The spirit of self, universal love
 
 ### Channel Connections
-- [[Channel 2-14 - The Beat (Keeper of the Keys)]] — The full electromagnetic connection from directional receptivity (G) to resourced power (Sacral)
-- [[Gate 14 - Possession in Great Measure]] — The harmonic partner that provides power and resources for Gate 2's direction
+- Channel 2-14 - The Beat (Keeper of the Keys) — The full electromagnetic connection from directional receptivity (G) to resourced power (Sacral)
+- Gate 14 - Possession in Great Measure — The harmonic partner that provides power and resources for Gate 2's direction
 
 ### Circuit Connections (Individual Knowing)
-- [[Gate 01 - The Creative]] — Initiating creative force within the Knowing Circuit
-- [[Gate 12 - Standstill]] — Mutative voice (Throat) expressing caution
-- [[Gate 22 - Grace]] — Emotional openness (Solar Plexus) in individual expression
-- [[Gate 23 - Splitting Apart]] — Individual knowing expressed through assimilation
-- [[Gate 24 - The Return]] — Mental rationalization (Ajna) returning to truth
-- [[Gate 61 - Inner Truth]] — Mystery and inner knowing (Ajna)
+- Gate 01 - The Creative — Initiating creative force within the Knowing Circuit
+- Gate 12 - Standstill — Mutative voice (Throat) expressing caution
+- Gate 22 - Grace — Emotional openness (Solar Plexus) in individual expression
+- Gate 23 - Splitting Apart — Individual knowing expressed through assimilation
+- Gate 24 - The Return — Mental rationalization (Ajna) returning to truth
+- Gate 61 - Inner Truth — Mystery and inner knowing (Ajna)
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 2 - The Receptive]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 02 - Dislocation to Unity]] — Richard Rudd's shadow-gift-siddhi framework for Gate 2
+- I-Ching Hexagram 2 - The Receptive — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 02 - Dislocation to Unity — Richard Rudd's shadow-gift-siddhi framework for Gate 2
 - [[The High Priestess (II)]] — Resonance with receptive knowing
 - Binah (Qabalah) — The Great Mother, receptive understanding
 - [[Chokmah]] — Wisdom emerging through receptivity
@@ -342,7 +342,7 @@ Gate 2 teaches that **direction is not something to be found—it is something t
 - Gates of the G Center — All eight gates within the Identity/Direction center
 - Individual Circuit Gates — All gates within the Individual stream
 - Gates of Mutation — Gates carrying the mutative, empowering frequency
-- [[Gates of Receptivity]] — Gates specifically related to receiving rather than initiating
+- Gates of Receptivity — Gates specifically related to receiving rather than initiating
 
 ### Archetypal and Mythological
 - [[The Receptive Feminine Principle]] — Archetypal pattern of receiving, holding, and allowing

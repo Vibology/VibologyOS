@@ -309,52 +309,52 @@ Gate 56 teaches that **stories are sacred**. When the individual honors their st
 ## Cross-References
 
 ### Sequential Connections (Within Throat Center Gates)
-- [[Gate 08 - Holding Together]] — Voice of contribution and creative expression
-- [[Gate 12 - Standstill]] — Voice of caution and social grace
-- [[Gate 16 - Enthusiasm]] — Voice of skill and depth
-- [[Gate 20 - Contemplation]] — Voice of the now, self-expression
-- [[Gate 23 - Splitting Apart]] — Voice of individual knowing and assimilation
-- [[Gate 31 - Influence]] — Voice of democratic leadership
-- [[Gate 33 - Retreat]] — Voice of memory and witness
-- [[Gate 35 - Progress]] — Voice of experiential crisis
-- [[Gate 45 - Gathering Together]] — Voice of the tribe "I have"
-- [[Gate 62 - Preponderance of the Small]] — Voice of detail and facts
+- Gate 08 - Holding Together — Voice of contribution and creative expression
+- Gate 12 - Standstill — Voice of caution and social grace
+- Gate 16 - Enthusiasm — Voice of skill and depth
+- Gate 20 - Contemplation — Voice of the now, self-expression
+- Gate 23 - Splitting Apart — Voice of individual knowing and assimilation
+- Gate 31 - Influence — Voice of democratic leadership
+- Gate 33 - Retreat — Voice of memory and witness
+- Gate 35 - Progress — Voice of experiential crisis
+- Gate 45 - Gathering Together — Voice of the tribe "I have"
+- Gate 62 - Preponderance of the Small — Voice of detail and facts
 
 ### Channel Connections
-- [[Channel 11-56 - Curiosity]] — The full electromagnetic connection from ideas (Ajna) to storytelling (Throat)
-- [[Gate 11 - Peace]] — The harmonic partner that provides ideas and concepts for Gate 56's narratives
+- Channel 11-56 - Curiosity — The full electromagnetic connection from ideas (Ajna) to storytelling (Throat)
+- Gate 11 - Peace — The harmonic partner that provides ideas and concepts for Gate 56's narratives
 
 ### Circuit Connections (Collective Sensing/Abstract)
-- [[Gate 47 - Oppression]] — Mental pressure to conceptualize the past (Head)
-- [[Gate 64 - Before Completion]] — Mental confusion before understanding (Head)
-- [[Gate 11 - Peace]] — Ideas and concepts awaiting articulation (Ajna)
-- [[Gate 35 - Progress]] — Emotional crisis and experiential learning (Solar Plexus)
-- [[Gate 36 - Darkening of the Light]] — Emotional intensity and adventure (Solar Plexus)
-- [[Gate 30 - The Clinging Fire]] — Emotional desire and recognition (Solar Plexus)
-- [[Gate 41 - Decrease]] — Fantasy, desire, and anticipation (Root)
-- [[Gate 53 - Development]] — Beginning new cycles (Root)
-- [[Gate 42 - Increase]] — Completion and maturation (Sacral)
-- [[Gate 29 - The Abysmal]] — Commitment and perseverance (Sacral)
-- [[Gate 46 - Pushing Upward]] — Serendipity and love of body (G Center)
-- [[Gate 13 - The Fellowship of Man]] — Listening and witnessing (G Center)
-- [[Gate 33 - Retreat]] — Memory storage and sharing (Throat)
+- Gate 47 - Oppression — Mental pressure to conceptualize the past (Head)
+- Gate 64 - Before Completion — Mental confusion before understanding (Head)
+- Gate 11 - Peace — Ideas and concepts awaiting articulation (Ajna)
+- Gate 35 - Progress — Emotional crisis and experiential learning (Solar Plexus)
+- Gate 36 - Darkening of the Light — Emotional intensity and adventure (Solar Plexus)
+- Gate 30 - The Clinging Fire — Emotional desire and recognition (Solar Plexus)
+- Gate 41 - Decrease — Fantasy, desire, and anticipation (Root)
+- Gate 53 - Development — Beginning new cycles (Root)
+- Gate 42 - Increase — Completion and maturation (Sacral)
+- Gate 29 - The Abysmal — Commitment and perseverance (Sacral)
+- Gate 46 - Pushing Upward — Serendipity and love of body (G Center)
+- Gate 13 - The Fellowship of Man — Listening and witnessing (G Center)
+- Gate 33 - Retreat — Memory storage and sharing (Throat)
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 56 - The Wanderer]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 56 - Distraction to Intoxication]] — Richard Rudd's shadow-gift-siddhi framework
+- I-Ching Hexagram 56 - The Wanderer — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 56 - Distraction to Intoxication — Richard Rudd's shadow-gift-siddhi framework
 - [[The Fool (0)]] — Resonance with wandering and experiential learning
 - Hod (Qabalah) — The sephira of communication and narrative
 
 ### Thematic Collections
 - Gates of the Throat Center — All gates within the Expression center
 - Collective Circuit Gates — All gates within the Collective stream
-- [[Gates of Storytelling]] — Gates specifically related to narrative and teaching through metaphor
-- [[Gates of Stimulation]] — Gates related to engagement and enrichment
+- Gates of Storytelling — Gates specifically related to narrative and teaching through metaphor
+- Gates of Stimulation — Gates related to engagement and enrichment
 
 ### Archetypal and Mythological
 - The Storyteller Archetype — Universal pattern of teaching through narrative
 - The Trickster Archetype — Jungian pattern of teaching through playfulness
-- [[Mercury (Mythology)]] — The Roman messenger god, patron of travelers and storytellers
+- Mercury (mythology) — The Roman messenger god, patron of travelers and storytellers
 - Hermes (Greek mythology) — The Greek god of communication, travel, and boundaries
 - [[The Wandering Jew (Folklore)]] — The eternal traveler condemned to witness and share
 
@@ -367,7 +367,7 @@ Gate 56 teaches that **stories are sacred**. When the individual honors their st
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - Defined vs. Undefined Centers — Understanding fixed vs. variable energy in the bodygraph
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
-- [[Collective Sharing vs. Individual Empowerment]] — Distinguishing Collective from Tribal/Individual roles
+- Collective Sharing vs. Individual Empowerment — Distinguishing Collective from Tribal/Individual roles
 
 ---
 

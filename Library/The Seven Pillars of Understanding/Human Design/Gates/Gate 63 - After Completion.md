@@ -308,54 +308,54 @@ Gate 63 teaches that **doubt serves truth**. When the individual honors their pr
 ## Cross-References
 
 ### Sequential Connections (Within Head Center Gates)
-- [[Gate 61 - Inner Truth]] — Pressure to know mystery and inspiration
-- [[Gate 64 - Before Completion]] — Mental confusion and abstract processing
+- Gate 61 - Inner Truth — Pressure to know mystery and inspiration
+- Gate 64 - Before Completion — Mental confusion and abstract processing
 
 ### Channel Connections
-- [[Channel 63-4 - Logic]] — Head to Ajna (the formula, logical thinking)
-- [[Gate 4 - Youthful Folly]] — Formulation of answers (Ajna Center)
+- Channel 63-4 - Logic — Head to Ajna (the formula, logical thinking)
+- Gate 4 - Youthful Folly — Formulation of answers (Ajna Center)
 
 ### Circuit Connections (Collective Logic)
-- [[Gate 04 - Youthful Folly]] — Formulation of mental answers (Ajna)
-- [[Gate 05 - Waiting]] — Fixed patterns and rhythms (Sacral)
-- [[Gate 09 - The Taming Power of the Small]] — Focus and detail (Sacral)
-- [[Gate 11 - Peace]] — Ideas for the collective (Ajna)
-- [[Gate 16 - Enthusiasm]] — Skills and mastery (Throat)
-- [[Gate 17 - Following]] — Opinions and perspectives (Ajna)
-- [[Gate 18 - Work on What Has Been Spoilt]] — Correction (Spleen)
-- [[Gate 20 - Contemplation]] — The now (Throat)
-- [[Gate 24 - The Return]] — Rationalization (Ajna)
-- [[Gate 31 - Influence]] — Leading through influence (Throat)
-- [[Gate 33 - Retreat]] — Privacy and withdrawal (Throat)
-- [[Gate 40 - Deliverance]] — Aloneness and rest (Heart/Will)
-- [[Gate 43 - Breakthrough]] — Individual insight (Ajna)
-- [[Gate 45 - Gathering Together]] — Tribal leadership (Throat)
-- [[Gate 47 - Oppression]] — Abstract processing (Ajna)
-- [[Gate 48 - The Well]] — Depth and adequacy (Spleen)
-- [[Gate 58 - The Joyous]] — Vitality and correction (Root)
-- [[Gate 62 - Preponderance of the Small]] — Details and naming (Throat)
+- Gate 04 - Youthful Folly — Formulation of mental answers (Ajna)
+- Gate 05 - Waiting — Fixed patterns and rhythms (Sacral)
+- Gate 09 - The Taming Power of the Small — Focus and detail (Sacral)
+- Gate 11 - Peace — Ideas for the collective (Ajna)
+- Gate 16 - Enthusiasm — Skills and mastery (Throat)
+- Gate 17 - Following — Opinions and perspectives (Ajna)
+- Gate 18 - Work on What Has Been Spoilt — Correction (Spleen)
+- Gate 20 - Contemplation — The now (Throat)
+- Gate 24 - The Return — Rationalization (Ajna)
+- Gate 31 - Influence — Leading through influence (Throat)
+- Gate 33 - Retreat — Privacy and withdrawal (Throat)
+- Gate 40 - Deliverance — Aloneness and rest (Heart/Will)
+- Gate 43 - Breakthrough — Individual insight (Ajna)
+- Gate 45 - Gathering Together — Tribal leadership (Throat)
+- Gate 47 - Oppression — Abstract processing (Ajna)
+- Gate 48 - The Well — Depth and adequacy (Spleen)
+- Gate 58 - The Joyous — Vitality and correction (Root)
+- Gate 62 - Preponderance of the Small — Details and naming (Throat)
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 63 - After Completion]] — Source hexagram and traditional interpretation
-- [[Gene Keys 63 - Doubt to Truth]] — Shadow-gift-siddhi framework
+- I-Ching Hexagram 63 - After Completion — Source hexagram and traditional interpretation
+- Gene Keys 63 - Doubt to Truth — Shadow-gift-siddhi framework
 - [[The Hermit (IX)]] — Resonance with solitary inquiry and truth-seeking
 - Binah (Qabalah) — Understanding, form, verification through testing
 
 ### Thematic Collections
 - Gates of the Head Center — All gates within Inspiration center
 - Collective Circuit Gates — All gates within Collective stream
-- [[Logic Circuit Gates]] — All gates within Logic stream
-- [[Gates of Questioning]] — Gates related to doubt and verification
+- Logic Circuit Gates — All gates within Logic stream
+- Gates of Questioning — Gates related to doubt and verification
 
 ### Archetypal and Mythological
 - The Skeptic Archetype — Pattern of productive doubt
 - The Scientist Archetype — Verification through testing
-- [[Saturn (Mythology)]] — God of time and testing
+- Saturn (mythology) — God of time and testing
 - [[Diogenes (Greek Philosophy)]] — Cynic who questioned all patterns
 
 ### Biological and Somatic
 - [[Head]] — Inspiration, mental pressure, cosmic questions
-- [[Pineal Gland]] — Mental pressure and verification drive
+- Pineal Gland — Mental pressure and verification drive
 - [[Skepticism Response]] — Biological questioning mechanism
 
 ### Practical Application

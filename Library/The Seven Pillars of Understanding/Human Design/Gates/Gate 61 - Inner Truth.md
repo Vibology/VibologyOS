@@ -308,36 +308,36 @@ Gate 61 teaches that **inner truth cannot be forced**. When the individual honor
 ## Cross-References
 
 ### Sequential Connections (Within Head Center Gates)
-- [[Gate 63 - After Completion]] — Doubt and logical questioning
-- [[Gate 64 - Before Completion]] — Mental confusion and abstract processing
+- Gate 63 - After Completion — Doubt and logical questioning
+- Gate 64 - Before Completion — Mental confusion and abstract processing
 
 ### Channel Connections
-- [[Channel 61-24 - Awareness]] — Head to Ajna (the thinker, rationalizing inspiration)
-- [[Gate 24 - The Return]] — Rationalization (Ajna Center)
+- Channel 61-24 - Awareness — Head to Ajna (the thinker, rationalizing inspiration)
+- Gate 24 - The Return — Rationalization (Ajna Center)
 
 ### Circuit Connections (Individual Knowing)
-- [[Gate 01 - The Creative]] — Creative self-expression (G Center)
-- [[Gate 08 - Holding Together]] — Voice of contribution (Throat)
-- [[Gate 12 - Standstill]] — Cautious voice (Throat)
-- [[Gate 22 - Grace]] — Emotional openness (Solar Plexus)
-- [[Gate 23 - Splitting Apart]] — Individual knowing (Throat)
-- [[Gate 24 - The Return]] — Rationalization (Ajna)
-- [[Gate 43 - Breakthrough]] — Individual insight (Ajna)
-- [[Gate 55 - Abundance]] — Emotional spirit (Solar Plexus)
-- [[Gate 57 - The Gentle]] — Intuition (Spleen)
-- [[Gate 60 - Limitation]] — Acceptance of limitation (Root)
+- Gate 01 - The Creative — Creative self-expression (G Center)
+- Gate 08 - Holding Together — Voice of contribution (Throat)
+- Gate 12 - Standstill — Cautious voice (Throat)
+- Gate 22 - Grace — Emotional openness (Solar Plexus)
+- Gate 23 - Splitting Apart — Individual knowing (Throat)
+- Gate 24 - The Return — Rationalization (Ajna)
+- Gate 43 - Breakthrough — Individual insight (Ajna)
+- Gate 55 - Abundance — Emotional spirit (Solar Plexus)
+- Gate 57 - The Gentle — Intuition (Spleen)
+- Gate 60 - Limitation — Acceptance of limitation (Root)
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 61 - Inner Truth]] — Source hexagram and traditional interpretation
-- [[Gene Keys 61 - Psychosis to Sanctity]] — Shadow-gift-siddhi framework
+- I-Ching Hexagram 61 - Inner Truth — Source hexagram and traditional interpretation
+- Gene Keys 61 - Psychosis to Sanctity — Shadow-gift-siddhi framework
 - [[The High Priestess (II)]] — Resonance with hidden knowing
 - [[Kether]] — Crown, source, unknowable divine
 
 ### Thematic Collections
 - Gates of the Head Center — All gates within Inspiration center
 - Individual Circuit Gates — All gates within Individual stream
-- [[Knowing Circuit Gates]] — All gates within Knowing stream
-- [[Gates of Inspiration]] — Gates related to spontaneous knowing
+- Knowing Circuit Gates — All gates within Knowing stream
+- Gates of Inspiration — Gates related to spontaneous knowing
 
 ### Archetypal and Mythological
 - The Mystic Archetype — Pattern of direct knowing
@@ -347,7 +347,7 @@ Gate 61 teaches that **inner truth cannot be forced**. When the individual honor
 
 ### Biological and Somatic
 - [[Head]] — Inspiration, mental pressure, cosmic questions
-- [[Pineal Gland]] — Third eye, cosmic attunement
+- Pineal Gland — Third eye, cosmic attunement
 - [[Mental Pressure System]] — Drive to question and seek
 
 ### Practical Application

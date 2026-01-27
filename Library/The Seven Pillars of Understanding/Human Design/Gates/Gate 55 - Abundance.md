@@ -309,40 +309,40 @@ Gate 55 teaches that **spirit is the source of abundance**. When the individual 
 ## Cross-References
 
 ### Sequential Connections (Within Solar Plexus Gates)
-- [[Gate 06 - Conflict]] — Emotional intimacy and friction
-- [[Gate 22 - Grace]] — Emotional openness and listening
-- [[Gate 30 - The Clinging Fire]] — Emotional desire and recognition
-- [[Gate 36 - Darkening of the Light]] — Emotional crisis and adventure
-- [[Gate 37 - The Family]] — Emotional bargains and community
-- [[Gate 49 - Revolution]] — Emotional principles of acceptance/rejection
+- Gate 06 - Conflict — Emotional intimacy and friction
+- Gate 22 - Grace — Emotional openness and listening
+- Gate 30 - The Clinging Fire — Emotional desire and recognition
+- Gate 36 - Darkening of the Light — Emotional crisis and adventure
+- Gate 37 - The Family — Emotional bargains and community
+- Gate 49 - Revolution — Emotional principles of acceptance/rejection
 
 ### Channel Connections
-- [[Channel 39-55 - Emoting]] — The full electromagnetic connection from provocation (Root) to emotional spirit (Solar Plexus)
-- [[Gate 39 - Obstruction]] — The harmonic partner that provides provoking pressure to Gate 55's spirit
+- Channel 39-55 - Emoting — The full electromagnetic connection from provocation (Root) to emotional spirit (Solar Plexus)
+- Gate 39 - Obstruction — The harmonic partner that provides provoking pressure to Gate 55's spirit
 
 ### Circuit Connections (Individual Knowing)
-- [[Gate 01 - The Creative]] — Creative self-expression (G Center)
-- [[Gate 08 - Holding Together]] — Voice of contribution (Throat)
-- [[Gate 12 - Standstill]] — Cautious voice (Throat)
-- [[Gate 22 - Grace]] — Emotional openness (Solar Plexus)
-- [[Gate 23 - Splitting Apart]] — Individual knowing expressed through assimilation (Throat)
-- [[Gate 24 - The Return]] — Rationalization and inner truth (Ajna)
-- [[Gate 43 - Breakthrough]] — Individual insight (Ajna)
-- [[Gate 57 - The Gentle]] — Intuitive clarity (Spleen)
-- [[Gate 60 - Limitation]] — Acceptance of limitation (Root)
-- [[Gate 61 - Inner Truth]] — Pressure to know mystery (Head)
+- Gate 01 - The Creative — Creative self-expression (G Center)
+- Gate 08 - Holding Together — Voice of contribution (Throat)
+- Gate 12 - Standstill — Cautious voice (Throat)
+- Gate 22 - Grace — Emotional openness (Solar Plexus)
+- Gate 23 - Splitting Apart — Individual knowing expressed through assimilation (Throat)
+- Gate 24 - The Return — Rationalization and inner truth (Ajna)
+- Gate 43 - Breakthrough — Individual insight (Ajna)
+- Gate 57 - The Gentle — Intuitive clarity (Spleen)
+- Gate 60 - Limitation — Acceptance of limitation (Root)
+- Gate 61 - Inner Truth — Pressure to know mystery (Head)
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 55 - Abundance]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 55 - Victimisation to Freedom]] — Richard Rudd's shadow-gift-siddhi framework
+- I-Ching Hexagram 55 - Abundance — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 55 - Victimisation to Freedom — Richard Rudd's shadow-gift-siddhi framework
 - [[The Star (XVII)]] — Resonance with hope and emotional renewal
-- [[Netzach (Qabalah)]] — The sephira of victory, desire, and emotional depth
+- [[Netzach]] — The sephira of victory, desire, and emotional depth
 
 ### Thematic Collections
 - Gates of the Solar Plexus Center — All gates within the Emotional center
 - Individual Circuit Gates — All gates within the Individual stream
-- [[Gates of Spirit]] — Gates specifically related to emotional richness and depth
-- [[Gates of Freedom]] — Gates related to liberation through feeling
+- Gates of Spirit — Gates specifically related to emotional richness and depth
+- Gates of Freedom — Gates related to liberation through feeling
 
 ### Archetypal and Mythological
 - The Mystic Archetype — Pattern of spiritual and emotional depth
@@ -352,7 +352,7 @@ Gate 55 teaches that **spirit is the source of abundance**. When the individual 
 
 ### Biological and Somatic
 - [[Solar Plexus]] — The center of emotion, feeling, and sensation
-- [[Kidneys]] — The biological correspondence for emotional processing
+- Kidneys — The biological correspondence for emotional processing
 - [[Nervous System]] — The somatic sensitivity to emotional waves
 
 ### Practical Application

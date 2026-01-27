@@ -318,36 +318,36 @@ Gate 6 teaches that **intimacy requires friction**. When the individual honors t
 ## Cross-References
 
 ### Sequential Connections (Within Solar Plexus Gates)
-- [[Gate 22 - Grace]] — Emotional openness and individual spirit (Individual Knowing)
-- [[Gate 36 - Darkening of the Light]] — Emotional crisis and learning through experience (Tribal Defense)
-- [[Gate 37 - The Family]] — Emotional bonding and tribal agreements (Tribal Defense)
-- [[Gate 49 - Revolution]] — Emotional rejection and tribal law (Tribal Ego)
-- [[Gate 55 - Abundance]] — Emotional depth and spirit (Individual Centering)
+- Gate 22 - Grace — Emotional openness and individual spirit (Individual Knowing)
+- Gate 36 - Darkening of the Light — Emotional crisis and learning through experience (Tribal Defense)
+- Gate 37 - The Family — Emotional bonding and tribal agreements (Tribal Defense)
+- Gate 49 - Revolution — Emotional rejection and tribal law (Tribal Ego)
+- Gate 55 - Abundance — Emotional depth and spirit (Individual Centering)
 
 ### Channel Connections
-- [[Channel 6-59 - Mating (Intimacy)]] — The full electromagnetic connection from Sacral intimacy energy to Solar Plexus emotional regulation
-- [[Gate 59 - Dispersion]] — The harmonic partner that provides Sacral energy to break down barriers
+- Channel 6-59 - Mating (Intimacy) — The full electromagnetic connection from Sacral intimacy energy to Solar Plexus emotional regulation
+- Gate 59 - Dispersion — The harmonic partner that provides Sacral energy to break down barriers
 
 ### Circuit Connections (Tribal Defense)
-- [[Gate 27 - Nourishment]] — Caring and enhancement through nurturing (Sacral)
-- [[Gate 36 - Darkening of the Light]] — Emotional crisis teaching resilience (Solar Plexus)
-- [[Gate 37 - The Family]] — Tribal bonding and agreements (Solar Plexus)
-- [[Gate 50 - The Cauldron]] — Values and tribal law (Spleen)
-- [[Gate 59 - Dispersion]] — Breaking barriers to create intimacy (Sacral)
+- Gate 27 - Nourishment — Caring and enhancement through nurturing (Sacral)
+- Gate 36 - Darkening of the Light — Emotional crisis teaching resilience (Solar Plexus)
+- Gate 37 - The Family — Tribal bonding and agreements (Solar Plexus)
+- Gate 50 - The Cauldron — Values and tribal law (Spleen)
+- Gate 59 - Dispersion — Breaking barriers to create intimacy (Sacral)
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 6 - Conflict]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 06 - Conflict to Peace]] — Richard Rudd's shadow-gift-siddhi framework for Gate 6
+- I-Ching Hexagram 6 - Conflict — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 06 - Conflict to Peace — Richard Rudd's shadow-gift-siddhi framework for Gate 6
 - [[The Lovers (VI)]] — Resonance with intimate union and choice
 - [[Gevurah (Qabalah)]] — Severity, boundaries, and strength
-- [[Mars (Astrology)]] — Planet of assertion, conflict, and defense
+- [[Mars ♂]] — Planet of assertion, conflict, and defense
 - [[Venus ♀]] — Planet of love, bonding, and intimacy
 
 ### Thematic Collections
 - Gates of the Solar Plexus Center — All emotional awareness gates
 - Tribal Circuit Gates — All gates within the Tribal stream
-- [[Gates of Intimacy]] — Gates specifically related to bonding and connection
-- [[Gates of Emotional Friction]] — Gates carrying the capacity to navigate conflict
+- Gates of Intimacy — Gates specifically related to bonding and connection
+- Gates of Emotional Friction — Gates carrying the capacity to navigate conflict
 
 ### Archetypal and Mythological
 - [[The Sacred Marriage (Hieros Gamos)]] — Union of opposites through friction
@@ -357,8 +357,8 @@ Gate 6 teaches that **intimacy requires friction**. When the individual honors t
 
 ### Biological and Somatic
 - [[Solar Plexus]] — The center of emotional awareness and spirit
-- [[Kidneys (Biology)]] — Organs of filtration and regulation
-- [[Emotional Chemistry (Biology)]] — Hormones of bonding and stress (oxytocin, cortisol)
+- Kidneys — Organs of filtration and regulation
+- Emotional Chemistry — Hormones of bonding and stress (oxytocin, cortisol)
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework

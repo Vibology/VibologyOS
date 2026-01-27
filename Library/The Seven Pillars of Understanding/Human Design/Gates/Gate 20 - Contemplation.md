@@ -322,45 +322,45 @@ Gate 20 teaches that **true power is presence**. When the individual honors thei
 ## Cross-References
 
 ### Sequential Connections (Within Throat Gates)
-- [[Gate 08 - Holding Together]] — Individual contribution through creative voice
-- [[Gate 12 - Standstill]] — Individual caution and restraint
-- [[Gate 16 - Enthusiasm]] — Collective skill through repetition
-- [[Gate 20 - Contemplation]] — Integration awareness in the now (current entry)
-- [[Gate 23 - Splitting Apart]] — Individual assimilation and knowing
-- [[Gate 31 - Influence]] — Collective leadership voice
-- [[Gate 33 - Retreat]] — Collective privacy and memory
-- [[Gate 35 - Progress]] — Tribal experience and stories
-- [[Gate 45 - Gathering Together]] — Tribal rulership and resources
-- [[Gate 56 - The Wanderer]] — Collective stimulation through stories
-- [[Gate 62 - Preponderance of the Small]] — Collective detail articulation
+- Gate 08 - Holding Together — Individual contribution through creative voice
+- Gate 12 - Standstill — Individual caution and restraint
+- Gate 16 - Enthusiasm — Collective skill through repetition
+- Gate 20 - Contemplation — Integration awareness in the now (current entry)
+- Gate 23 - Splitting Apart — Individual assimilation and knowing
+- Gate 31 - Influence — Collective leadership voice
+- Gate 33 - Retreat — Collective privacy and memory
+- Gate 35 - Progress — Tribal experience and stories
+- Gate 45 - Gathering Together — Tribal rulership and resources
+- Gate 56 - The Wanderer — Collective stimulation through stories
+- Gate 62 - Preponderance of the Small — Collective detail articulation
 
 ### Channel Connections
-- [[Channel 20-10 - Awakening]] — Present awareness connected to self-love and behavior (G Center)
-- [[Channel 20-34 - Charisma]] — Present awareness connected to pure power (Sacral)
-- [[Channel 20-57 - The Brain Wave]] — Present awareness connected to intuitive clarity (Spleen)
-- [[Gate 10 - Treading]] — Behavior of self in interaction (G Center)
-- [[Gate 34 - The Power of the Great]] — Pure Sacral power (Sacral)
-- [[Gate 57 - The Gentle]] — Intuitive clarity (Spleen)
+- Channel 20-10 - Awakening — Present awareness connected to self-love and behavior (G Center)
+- Channel 20-34 - Charisma — Present awareness connected to pure power (Sacral)
+- Channel 20-57 - The Brain Wave — Present awareness connected to intuitive clarity (Spleen)
+- Gate 10 - Treading — Behavior of self in interaction (G Center)
+- Gate 34 - The Power of the Great — Pure Sacral power (Sacral)
+- Gate 57 - The Gentle — Intuitive clarity (Spleen)
 
 ### Circuit Connections (Integration)
-- [[Gate 10 - Treading]] — Behavior of self (G Center)
-- [[Gate 20 - Contemplation]] — Awareness in the now (Throat) - current entry
-- [[Gate 25 - Innocence]] — Spirit of self (G Center)
-- [[Gate 34 - The Power of the Great]] — Pure power (Sacral)
-- [[Gate 57 - The Gentle]] — Intuitive clarity (Spleen)
+- Gate 10 - Treading — Behavior of self (G Center)
+- Gate 20 - Contemplation — Awareness in the now (Throat) - current entry
+- Gate 25 - Innocence — Spirit of self (G Center)
+- Gate 34 - The Power of the Great — Pure power (Sacral)
+- Gate 57 - The Gentle — Intuitive clarity (Spleen)
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 20 - Contemplation]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 20 - Superficiality to Presence]] — Richard Rudd's shadow-gift-siddhi framework for Gate 20
+- I-Ching Hexagram 20 - Contemplation — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 20 - Superficiality to Presence — Richard Rudd's shadow-gift-siddhi framework for Gate 20
 - [[Judgment (Tarot)]] — Resonance with awakening and recognition
 - [[Kether]] — The Crown, pure point of presence
-- [[Mercury/Sun (Astrology)]] — Communication/identity expressed through the now
+- Mercury/Sun — Communication/identity expressed through the now
 
 ### Thematic Collections
 - Gates of the Throat Center — All gates within the manifestation/communication center
-- [[Integration Circuit Gates]] — All gates within the Integration stream
-- [[Gates of Presence and Awareness]] — Gates specifically related to being in the now
-- [[Gates of Existential Recognition]] — Gates that embody lived truth
+- Integration Circuit Gates — All gates within the Integration stream
+- Gates of Presence and Awareness — Gates specifically related to being in the now
+- Gates of Existential Recognition — Gates that embody lived truth
 
 ### Archetypal and Mythological
 - The Witness Archetype — The pattern of observing without judgment

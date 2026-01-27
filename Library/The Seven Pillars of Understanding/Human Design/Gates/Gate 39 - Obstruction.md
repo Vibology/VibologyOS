@@ -299,44 +299,44 @@ Gate 39 teaches that **obstruction serves growth**. When the individual honors t
 ## Cross-References
 
 ### Sequential Connections (Within Root Gates)
-- [[Gate 19 - Approach]] — Pressure to be needed (Tribal)
-- [[Gate 38 - Opposition]] — Struggle and fighter (Individual)
-- [[Gate 41 - Decrease]] — Fantasy and desire (Collective)
-- [[Gate 52 - Keeping Still]] — Stillness (Collective Logic)
-- [[Gate 53 - Development]] — Beginning (Collective Abstract)
-- [[Gate 54 - The Marrying Maiden]] — Ambition (Tribal)
-- [[Gate 58 - The Joyous]] — Vitality (Collective Logic)
-- [[Gate 60 - Limitation]] — Acceptance (Individual)
+- Gate 19 - Approach — Pressure to be needed (Tribal)
+- Gate 38 - Opposition — Struggle and fighter (Individual)
+- Gate 41 - Decrease — Fantasy and desire (Collective)
+- Gate 52 - Keeping Still — Stillness (Collective Logic)
+- Gate 53 - Development — Beginning (Collective Abstract)
+- Gate 54 - The Marrying Maiden — Ambition (Tribal)
+- Gate 58 - The Joyous — Vitality (Collective Logic)
+- Gate 60 - Limitation — Acceptance (Individual)
 
 ### Channel Connections
-- [[Channel 39-55 - Emoting]] — Provocation pressure to emotional spirit
-- [[Gate 55 - Abundance]] — Emotional spirit and mood
+- Channel 39-55 - Emoting — Provocation pressure to emotional spirit
+- Gate 55 - Abundance — Emotional spirit and mood
 
 ### Circuit Connections (Individual Knowing)
-- [[Gate 01 - The Creative]] — Self-expression (G Center)
-- [[Gate 02 - The Receptive]] — Direction (G Center)
-- [[Gate 03 - Difficulty at the Beginning]] — Ordering (Sacral)
-- [[Gate 12 - Standstill]] — Caution (Throat)
-- [[Gate 14 - Possession in Great Measure]] — Power skills (Sacral)
-- [[Gate 22 - Grace]] — Openness (Solar Plexus)
-- [[Gate 23 - Splitting Apart]] — Assimilation (Throat)
-- [[Gate 24 - The Return]] — Rationalization (Ajna)
-- [[Gate 28 - Preponderance of the Great]] — Risk (Spleen)
-- [[Gate 38 - Opposition]] — Fighter (Root)
-- [[Gate 43 - Breakthrough]] — Insight (Ajna)
-- [[Gate 61 - Inner Truth]] — Mystery (Ajna)
+- Gate 01 - The Creative — Self-expression (G Center)
+- Gate 02 - The Receptive — Direction (G Center)
+- Gate 03 - Difficulty at the Beginning — Ordering (Sacral)
+- Gate 12 - Standstill — Caution (Throat)
+- Gate 14 - Possession in Great Measure — Power skills (Sacral)
+- Gate 22 - Grace — Openness (Solar Plexus)
+- Gate 23 - Splitting Apart — Assimilation (Throat)
+- Gate 24 - The Return — Rationalization (Ajna)
+- Gate 28 - Preponderance of the Great — Risk (Spleen)
+- Gate 38 - Opposition — Fighter (Root)
+- Gate 43 - Breakthrough — Insight (Ajna)
+- Gate 61 - Inner Truth — Mystery (Ajna)
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 39 - Obstruction]] — The source hexagram
-- [[Gene Keys 39 - Provocation to Liberation]] — Shadow-gift-siddhi framework
+- I-Ching Hexagram 39 - Obstruction — The source hexagram
+- Gene Keys 39 - Provocation to Liberation — Shadow-gift-siddhi framework
 - [[The Tower (XVI)]] — Disruption, awakening
 - Geburah (Qabalah) — Severity, disruption that serves
 
 ### Thematic Collections
 - Gates of the Root Center — All nine pressure gates
 - Individual Circuit Gates — Knowing, Centering, Integration
-- [[Gates of Provocation]] — Challenge and awakening
-- [[Gates of Spirit]] — Accessing emotional depth
+- Gates of Provocation — Challenge and awakening
+- Gates of Spirit — Accessing emotional depth
 
 ### Archetypal and Mythological
 - The Trickster Archetype — Disruption as awakening

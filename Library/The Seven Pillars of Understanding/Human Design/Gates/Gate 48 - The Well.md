@@ -306,35 +306,35 @@ Gate 48 teaches that **depth is sacred**. When the individual honors their insti
 ## Cross-References
 
 ### Sequential Connections (Within Spleen Center Gates)
-- [[Gate 18 - Work on What Has Been Spoilt]] — Correction and tribal improvement
-- [[Gate 28 - Preponderance of the Great]] — Risk-taking and struggle for purpose
-- [[Gate 32 - Duration]] — Continuity and transformation
-- [[Gate 44 - Coming to Meet]] — Pattern recognition for survival
-- [[Gate 50 - The Cauldron]] — Values and tribal law
-- [[Gate 57 - The Gentle]] — Intuitive clarity and survival instinct
+- Gate 18 - Work on What Has Been Spoilt — Correction and tribal improvement
+- Gate 28 - Preponderance of the Great — Risk-taking and struggle for purpose
+- Gate 32 - Duration — Continuity and transformation
+- Gate 44 - Coming to Meet — Pattern recognition for survival
+- Gate 50 - The Cauldron — Values and tribal law
+- Gate 57 - The Gentle — Intuitive clarity and survival instinct
 
 ### Channel Connections
-- [[Channel 48-16 - Wavelength]] — The full electromagnetic connection from depth (Spleen) to talent (Throat)
-- [[Gate 16 - Enthusiasm]] — The harmonic partner that expresses depth through skillful enthusiasm
+- Channel 48-16 - Wavelength — The full electromagnetic connection from depth (Spleen) to talent (Throat)
+- Gate 16 - Enthusiasm — The harmonic partner that expresses depth through skillful enthusiasm
 
 ### Circuit Connections (Collective Understanding - Logic)
-- [[Gate 04 - Youthful Folly]] — Mental formulation
-- [[Gate 11 - Peace]] — Mental attunement
-- [[Gate 17 - Following]] — Mental pattern recognition
-- [[Gate 18 - Work on What Has Been Spoilt]] — Correction
-- [[Gate 46 - Pushing Upward]] — Love of the body and embodiment
+- Gate 04 - Youthful Folly — Mental formulation
+- Gate 11 - Peace — Mental attunement
+- Gate 17 - Following — Mental pattern recognition
+- Gate 18 - Work on What Has Been Spoilt — Correction
+- Gate 46 - Pushing Upward — Love of the body and embodiment
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 48 - The Well]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 48 - Inadequacy to Wisdom]] — Richard Rudd's shadow-gift-siddhi framework for Gate 48
+- I-Ching Hexagram 48 - The Well — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 48 - Inadequacy to Wisdom — Richard Rudd's shadow-gift-siddhi framework for Gate 48
 - [[The Star (XVII)]] — Resonance with inexhaustible source
 - Hod (Qabalah) — Splendor, intellectual depth
 
 ### Thematic Collections
 - Gates of the Spleen Center — All seven gates within the Survival center
-- [[Collective Understanding Circuit Gates]] — All gates within the Logic stream
-- [[Gates of Resource Depth]] — Gates related to adequacy and sustainability
-- [[Gates of Instinctual Awareness]] — Gates that provide survival knowing
+- Collective Understanding Circuit Gates — All gates within the Logic stream
+- Gates of Resource Depth — Gates related to adequacy and sustainability
+- Gates of Instinctual Awareness — Gates that provide survival knowing
 
 ### Archetypal and Mythological
 - The Well-Keeper Archetype — Guardian of communal resources

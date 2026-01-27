@@ -304,26 +304,26 @@ Gate 12 teaches that **not all action is progress**. When the individual honors 
 ## Cross-References
 
 ### Sequential Connections (Within Throat Gates)
-- [[Gate 08 - Holding Together]] — Individual contribution (Throat)
-- [[Gate 16 - Enthusiasm]] — Repetition and skill (Throat)
-- [[Gate 20 - Contemplation]] — The now, awareness (Throat)
-- [[Gate 31 - Influence]] — Leading through influence (Throat)
-- [[Gate 33 - Retreat]] — Privacy and withdrawal (Throat)
+- Gate 08 - Holding Together — Individual contribution (Throat)
+- Gate 16 - Enthusiasm — Repetition and skill (Throat)
+- Gate 20 - Contemplation — The now, awareness (Throat)
+- Gate 31 - Influence — Leading through influence (Throat)
+- Gate 33 - Retreat — Privacy and withdrawal (Throat)
 
 ### Channel Connections
-- [[Channel 12-22 - Openness]] — The full electromagnetic connection from caution (Throat) to grace (Solar Plexus)
-- [[Gate 22 - Grace]] — The harmonic partner that brings emotional openness to Gate 12's restraint
+- Channel 12-22 - Openness — The full electromagnetic connection from caution (Throat) to grace (Solar Plexus)
+- Gate 22 - Grace — The harmonic partner that brings emotional openness to Gate 12's restraint
 
 ### Circuit Connections (Individual Knowing)
-- [[Gate 01 - The Creative]] — Creative direction (G Center)
-- [[Gate 10 - Treading]] — Behavior of the self (G Center)
-- [[Gate 11 - Peace]] — Mental ideation (Ajna)
-- [[Gate 13 - The Fellowship of Man]] — Listening (G Center)
-- [[Gate 25 - Innocence]] — Spirit of self (G Center)
+- Gate 01 - The Creative — Creative direction (G Center)
+- Gate 10 - Treading — Behavior of the self (G Center)
+- Gate 11 - Peace — Mental ideation (Ajna)
+- Gate 13 - The Fellowship of Man — Listening (G Center)
+- Gate 25 - Innocence — Spirit of self (G Center)
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 12 - Standstill]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 12 - Vanity to Purity]] — Richard Rudd's shadow-gift-siddhi framework for Gate 12
+- I-Ching Hexagram 12 - Standstill — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 12 - Vanity to Purity — Richard Rudd's shadow-gift-siddhi framework for Gate 12
 - [[The Hanged Man (XII)]] — Resonance with sacred suspension and standstill
 - Binah (Qabalah) — The Sephirah of Understanding and divine limitation
 - Saturn — The planet of boundaries, time, and necessary restraint
@@ -332,7 +332,7 @@ Gate 12 teaches that **not all action is progress**. When the individual honors 
 - Gates of the Throat Center — All gates within the Manifestation center
 - Individual Circuit Gates — All gates within the Individual stream
 - Gates of Mutation — Gates carrying the mutative, empowering frequency
-- [[Gates of Caution and Restraint]] — Gates that articulate boundaries and "no"
+- Gates of Caution and Restraint — Gates that articulate boundaries and "no"
 
 ### Archetypal and Mythological
 - The Guardian Archetype — The pattern of protecting through discernment

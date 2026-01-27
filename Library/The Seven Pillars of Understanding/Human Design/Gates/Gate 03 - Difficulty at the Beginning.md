@@ -312,39 +312,39 @@ Gate 3 teaches that **mutation is not easy, and it shouldn't be**. When the indi
 ## Cross-References
 
 ### Sequential Connections (Within Sacral Gates)
-- [[Gate 05 - Waiting]] — Fixed patterns and attunement to natural rhythms (Collective Logic)
-- [[Gate 09 - The Taming Power of the Small]] — Focus and detailed attention (Collective Logic)
-- [[Gate 14 - Possession in Great Measure]] — Power skills and accumulation (Individual Knowing)
-- [[Gate 27 - Nourishment]] — Caring and enhancement of quality (Tribal Defense)
-- [[Gate 29 - The Abysmal]] — Commitment and saying yes (Collective Sensing)
-- [[Gate 34 - The Power of the Great]] — Raw power and strength (Integration)
-- [[Gate 42 - Increase]] — Growth and expansion (Tribal Ego)
-- [[Gate 59 - Dispersion]] — Intimacy and breaking down barriers (Tribal Defense)
+- Gate 05 - Waiting — Fixed patterns and attunement to natural rhythms (Collective Logic)
+- Gate 09 - The Taming Power of the Small — Focus and detailed attention (Collective Logic)
+- Gate 14 - Possession in Great Measure — Power skills and accumulation (Individual Knowing)
+- Gate 27 - Nourishment — Caring and enhancement of quality (Tribal Defense)
+- Gate 29 - The Abysmal — Commitment and saying yes (Collective Sensing)
+- Gate 34 - The Power of the Great — Raw power and strength (Integration)
+- Gate 42 - Increase — Growth and expansion (Tribal Ego)
+- Gate 59 - Dispersion — Intimacy and breaking down barriers (Tribal Defense)
 
 ### Channel Connections
-- [[Channel 3-60 - Mutation]] — The full electromagnetic connection from mutative pressure (Root) to life force to sustain it (Sacral)
-- [[Gate 60 - Limitation]] — The harmonic partner that provides the pressure to mutate within constraint
+- Channel 3-60 - Mutation — The full electromagnetic connection from mutative pressure (Root) to life force to sustain it (Sacral)
+- Gate 60 - Limitation — The harmonic partner that provides the pressure to mutate within constraint
 
 ### Circuit Connections (Individual Knowing)
-- [[Gate 01 - The Creative]] — Initiating creative force within the Knowing Circuit
-- [[Gate 02 - The Receptive]] — Receptive directional force within the Knowing Circuit
-- [[Gate 12 - Standstill]] — Mutative voice (Throat) expressing caution
-- [[Gate 22 - Grace]] — Emotional openness (Solar Plexus) in individual expression
-- [[Gate 23 - Splitting Apart]] — Individual knowing expressed through assimilation
-- [[Gate 24 - The Return]] — Mental rationalization (Ajna) returning to truth
+- Gate 01 - The Creative — Initiating creative force within the Knowing Circuit
+- Gate 02 - The Receptive — Receptive directional force within the Knowing Circuit
+- Gate 12 - Standstill — Mutative voice (Throat) expressing caution
+- Gate 22 - Grace — Emotional openness (Solar Plexus) in individual expression
+- Gate 23 - Splitting Apart — Individual knowing expressed through assimilation
+- Gate 24 - The Return — Mental rationalization (Ajna) returning to truth
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 3 - Difficulty at the Beginning]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 03 - Chaos to Innocence]] — Richard Rudd's shadow-gift-siddhi framework for Gate 3
+- I-Ching Hexagram 3 - Difficulty at the Beginning — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 03 - Chaos to Innocence — Richard Rudd's shadow-gift-siddhi framework for Gate 3
 - [[The Tower (XVI)]] — Resonance with necessary destruction before rebuilding
 - Binah (Qabalah) — Understanding through form and limitation
-- [[Uranus (Astrology)]] — Planet of mutation, innovation, sudden change
+- [[Uranus ♅]] — Planet of mutation, innovation, sudden change
 
 ### Thematic Collections
 - Gates of the Sacral Center — All nine gates within the Life Force center
 - Individual Circuit Gates — All gates within the Individual stream
 - Gates of Mutation — Gates carrying the mutative, empowering frequency
-- [[Gates of Innovation]] — Gates specifically related to bringing forth the new
+- Gates of Innovation — Gates specifically related to bringing forth the new
 
 ### Archetypal and Mythological
 - The Birth Archetype — The psychological and creative act of bringing forth new life
@@ -354,7 +354,7 @@ Gate 3 teaches that **mutation is not easy, and it shouldn't be**. When the indi
 
 ### Biological and Somatic
 - [[Sacral]] — The center of life force, fertility, and response
-- [[Ovaries and Testes (Biology)]] — Reproductive organs associated with the Sacral
+- Ovaries and Testes — Reproductive organs associated with the Sacral
 - [[The Pulse (Energy Pattern)]] — On/off rhythm of Individual energy
 
 ### Practical Application

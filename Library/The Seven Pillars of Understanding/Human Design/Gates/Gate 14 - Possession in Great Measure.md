@@ -304,38 +304,38 @@ Gate 14 teaches that **true power is earned through sustained work**. When the i
 ## Cross-References
 
 ### Sequential Connections (Within Sacral Gates)
-- [[Gate 03 - Difficulty at the Beginning]] — Innovation through mutation
-- [[Gate 05 - Waiting]] — Fixed patterns and timing
-- [[Gate 09 - The Taming Power of the Small]] — Focus on details
-- [[Gate 27 - Nourishment]] — Caring and responsibility
-- [[Gate 29 - The Abysmal]] — Commitment and saying yes
-- [[Gate 34 - The Power of the Great]] — Pure power and strength
-- [[Gate 42 - Increase]] — Completion and growth
-- [[Gate 59 - Dispersion]] — Intimacy and breaking down barriers
+- Gate 03 - Difficulty at the Beginning — Innovation through mutation
+- Gate 05 - Waiting — Fixed patterns and timing
+- Gate 09 - The Taming Power of the Small — Focus on details
+- Gate 27 - Nourishment — Caring and responsibility
+- Gate 29 - The Abysmal — Commitment and saying yes
+- Gate 34 - The Power of the Great — Pure power and strength
+- Gate 42 - Increase — Completion and growth
+- Gate 59 - Dispersion — Intimacy and breaking down barriers
 
 ### Channel Connections
-- [[Channel 14-2 - The Beat]] — The full electromagnetic connection from power (Sacral) to direction (G Center)
-- [[Gate 02 - The Receptive]] — The harmonic partner that provides direction for Gate 14's power
+- Channel 14-2 - The Beat — The full electromagnetic connection from power (Sacral) to direction (G Center)
+- Gate 02 - The Receptive — The harmonic partner that provides direction for Gate 14's power
 
 ### Circuit Connections (Individual Centering)
-- [[Gate 10 - Treading]] — Behavior of the self (G Center)
-- [[Gate 20 - Contemplation]] — Awareness of the now (Throat)
-- [[Gate 25 - Innocence]] — Spirit of the self (G Center)
-- [[Gate 34 - The Power of the Great]] — Pure Sacral power
-- [[Gate 51 - The Arousing]] — Ego willpower and shock
+- Gate 10 - Treading — Behavior of the self (G Center)
+- Gate 20 - Contemplation — Awareness of the now (Throat)
+- Gate 25 - Innocence — Spirit of the self (G Center)
+- Gate 34 - The Power of the Great — Pure Sacral power
+- Gate 51 - The Arousing — Ego willpower and shock
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 14 - Possession in Great Measure]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 14 - Compromise to Bounteousness]] — Richard Rudd's shadow-gift-siddhi framework for Gate 14
+- I-Ching Hexagram 14 - Possession in Great Measure — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 14 - Compromise to Bounteousness — Richard Rudd's shadow-gift-siddhi framework for Gate 14
 - [[Strength (VIII)]] — Resonance with mastery through gentle power
 - Geburah (Qabalah) — The Sephirah of Strength and disciplined power
-- [[The Sun (Astrology)]] — The source of vitality and creative life force
+- [[Sun ☉]] — The source of vitality and creative life force
 
 ### Thematic Collections
 - Gates of the Sacral Center — All gates within the Life Force center
 - Individual Circuit Gates — All gates within the Individual stream
-- [[Gates of Mastery and Skill]] — Gates related to competence and craft
-- [[Gates of Power and Resources]] — Gates that build and manage energy and capability
+- Gates of Mastery and Skill — Gates related to competence and craft
+- Gates of Power and Resources — Gates that build and manage energy and capability
 
 ### Archetypal and Mythological
 - The Master Archetype — The pattern of perfecting a craft
@@ -344,7 +344,7 @@ Gate 14 teaches that **true power is earned through sustained work**. When the i
 
 ### Biological and Somatic
 - [[Sacral]] — The center of life force, fertility, and response
-- [[Ovaries and Testes]] — The biological correlation for the Sacral Center
+- Ovaries and Testes — The biological correlation for the Sacral Center
 - [[Generative Energy]] — How the Sacral creates sustainable work capacity
 
 ### Practical Application

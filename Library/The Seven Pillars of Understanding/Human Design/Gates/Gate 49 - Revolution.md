@@ -310,35 +310,35 @@ Gate 49 teaches that **revolution is sacred**. When the individual honors their 
 ## Cross-References
 
 ### Sequential Connections (Within Solar Plexus Center Gates)
-- [[Gate 06 - Conflict]] — Emotional intimacy through friction
-- [[Gate 22 - Grace]] — Emotional openness and surrender
-- [[Gate 30 - The Clinging Fire]] — Emotional recognition of experience
-- [[Gate 36 - Darkening of the Light]] — Emotional exploration through crisis
-- [[Gate 37 - The Family]] — Emotional bargaining and agreements
-- [[Gate 55 - Abundance]] — Emotional spirit and fullness
+- Gate 06 - Conflict — Emotional intimacy through friction
+- Gate 22 - Grace — Emotional openness and surrender
+- Gate 30 - The Clinging Fire — Emotional recognition of experience
+- Gate 36 - Darkening of the Light — Emotional exploration through crisis
+- Gate 37 - The Family — Emotional bargaining and agreements
+- Gate 55 - Abundance — Emotional spirit and fullness
 
 ### Channel Connections
-- [[Channel 49-19 - Synthesis]] — The full electromagnetic connection from emotional sensitivity (Solar Plexus) to survival pressure (Root)
-- [[Gate 19 - Approach]] — The harmonic partner that provides survival pressure
+- Channel 49-19 - Synthesis — The full electromagnetic connection from emotional sensitivity (Solar Plexus) to survival pressure (Root)
+- Gate 19 - Approach — The harmonic partner that provides survival pressure
 
 ### Circuit Connections (Tribal Ego - Defense)
-- [[Gate 21 - Biting Through]] — Control and tribal authority
-- [[Gate 26 - The Taming Power of the Great]] — Willpower and sales
-- [[Gate 40 - Deliverance]] — Will to rest and restore
-- [[Gate 44 - Coming to Meet]] — Pattern recognition
-- [[Gate 45 - Gathering Together]] — Rulership and gathering
+- Gate 21 - Biting Through — Control and tribal authority
+- Gate 26 - The Taming Power of the Great — Willpower and sales
+- Gate 40 - Deliverance — Will to rest and restore
+- Gate 44 - Coming to Meet — Pattern recognition
+- Gate 45 - Gathering Together — Rulership and gathering
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 49 - Revolution]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 49 - Reaction to Rebirth]] — Richard Rudd's shadow-gift-siddhi framework for Gate 49
+- I-Ching Hexagram 49 - Revolution — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 49 - Reaction to Rebirth — Richard Rudd's shadow-gift-siddhi framework for Gate 49
 - [[Death (Tarot)]] — Resonance with transformation and rebirth
 - Geburah (Qabalah) — Severity, destructive mercy
 
 ### Thematic Collections
 - Gates of the Solar Plexus Center — All seven gates within the Emotional center
 - Tribal Circuit Gates — All gates within the Tribal stream
-- [[Gates of Transformation]] — Gates related to endings and renewal
-- [[Gates of Emotional Sensitivity]] — Gates carrying emotional awareness
+- Gates of Transformation — Gates related to endings and renewal
+- Gates of Emotional Sensitivity — Gates carrying emotional awareness
 
 ### Archetypal and Mythological
 - The Revolutionary Archetype — Jungian archetypal pattern of transformative destruction

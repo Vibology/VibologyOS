@@ -307,43 +307,43 @@ Gate 31 teaches that **authentic leadership is service, not status**. When the i
 ## Cross-References
 
 ### Sequential Connections (Within Throat Gates)
-- [[Gate 08 - Holding Together]] — Individual contribution through creative voice
-- [[Gate 12 - Standstill]] — Mutative caution and discernment in speech
-- [[Gate 16 - Enthusiasm]] — Skill and talent expressed through voice
-- [[Gate 20 - Contemplation]] — The voice of the now, existential awareness
-- [[Gate 23 - Splitting Apart]] — Individual knowing articulated through assimilation
-- [[Gate 33 - Retreat]] — Memory and storytelling, privacy in expression
-- [[Gate 35 - Progress]] — The voice of change and experience
-- [[Gate 45 - Gathering Together]] — Tribal leadership, the king/queen voice
-- [[Gate 56 - The Wanderer]] — Stimulation through storytelling
-- [[Gate 62 - Preponderance of the Small]] — Details and facts organized for expression
+- Gate 08 - Holding Together — Individual contribution through creative voice
+- Gate 12 - Standstill — Mutative caution and discernment in speech
+- Gate 16 - Enthusiasm — Skill and talent expressed through voice
+- Gate 20 - Contemplation — The voice of the now, existential awareness
+- Gate 23 - Splitting Apart — Individual knowing articulated through assimilation
+- Gate 33 - Retreat — Memory and storytelling, privacy in expression
+- Gate 35 - Progress — The voice of change and experience
+- Gate 45 - Gathering Together — Tribal leadership, the king/queen voice
+- Gate 56 - The Wanderer — Stimulation through storytelling
+- Gate 62 - Preponderance of the Small — Details and facts organized for expression
 
 ### Channel Connections
-- [[Channel 31-7 - The Alpha]] — The full electromagnetic connection from leadership role (G) to leadership voice (Throat)
-- [[Gate 07 - The Army]] — The harmonic partner that provides leadership identity and direction
+- Channel 31-7 - The Alpha — The full electromagnetic connection from leadership role (G) to leadership voice (Throat)
+- Gate 07 - The Army — The harmonic partner that provides leadership identity and direction
 
 ### Circuit Connections (Collective Logic)
-- [[Gate 04 - Youthful Folly]] — Mental formulization (Ajna)
-- [[Gate 05 - Waiting]] — Fixed rhythms and patterns (Sacral)
-- [[Gate 09 - The Taming Power of the Small]] — Focus and detail (Sacral)
-- [[Gate 15 - Modesty]] — Love of humanity through extremes (G Center)
-- [[Gate 17 - Following]] — Opinions and mental organization (Ajna)
-- [[Gate 18 - Work on What Has Been Spoilt]] — Correction and integrity (Spleen)
-- [[Gate 48 - The Well]] — Depth and competence (Spleen)
-- [[Gate 52 - Keeping Still]] — Stillness and concentration (Root)
-- [[Gate 57 - The Gentle]] — Intuitive clarity (Spleen)
-- [[Gate 58 - The Joyous]] — Vitality and correction (Root)
+- Gate 04 - Youthful Folly — Mental formulization (Ajna)
+- Gate 05 - Waiting — Fixed rhythms and patterns (Sacral)
+- Gate 09 - The Taming Power of the Small — Focus and detail (Sacral)
+- Gate 15 - Modesty — Love of humanity through extremes (G Center)
+- Gate 17 - Following — Opinions and mental organization (Ajna)
+- Gate 18 - Work on What Has Been Spoilt — Correction and integrity (Spleen)
+- Gate 48 - The Well — Depth and competence (Spleen)
+- Gate 52 - Keeping Still — Stillness and concentration (Root)
+- Gate 57 - The Gentle — Intuitive clarity (Spleen)
+- Gate 58 - The Joyous — Vitality and correction (Root)
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 31 - Influence]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 31 - Arrogance to Humility]] — Richard Rudd's shadow-gift-siddhi framework for Gate 31
+- I-Ching Hexagram 31 - Influence — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 31 - Arrogance to Humility — Richard Rudd's shadow-gift-siddhi framework for Gate 31
 - [[The Emperor (IV)]] — Resonance with established authority and structure
 - Chesed (Qabalah) — Mercy, benevolent structure, the merciful king
 
 ### Thematic Collections
 - Gates of the Throat Center — All eleven gates within the manifestation center
 - Collective Circuit Gates — All gates within the Collective stream (Logic and Abstract)
-- [[Gates of Leadership]] — Gates specifically related to guiding and influencing others
+- Gates of Leadership — Gates specifically related to guiding and influencing others
 - Gates of Pattern Recognition — Gates carrying the Logic Circuit's pattern-seeing function
 
 ### Archetypal and Mythological
@@ -360,7 +360,7 @@ Gate 31 teaches that **authentic leadership is service, not status**. When the i
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - Defined vs. Undefined Centers — Understanding fixed vs. variable energy in the bodygraph
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
-- [[Collective vs. Individual vs. Tribal]] — Distinguishing the three streams of circuitry
+- Collective vs. Individual vs. Tribal — Distinguishing the three streams of circuitry
 
 ---
 

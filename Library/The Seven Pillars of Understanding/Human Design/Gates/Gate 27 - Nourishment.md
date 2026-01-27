@@ -306,28 +306,28 @@ Gate 27 teaches that **true caring is responsive and sustainable**. When the ind
 ## Cross-References
 
 ### Sequential Connections (Within Sacral Gates)
-- [[Gate 03 - Difficulty at the Beginning]] — Innovation through mutation
-- [[Gate 05 - Waiting]] — Fixed patterns and timing
-- [[Gate 09 - The Taming Power of the Small]] — Focus on details
-- [[Gate 14 - Possession in Great Measure]] — Power through skills
-- [[Gate 29 - The Abysmal]] — Commitment and saying yes
-- [[Gate 34 - The Power of the Great]] — Pure power
-- [[Gate 42 - Increase]] — Completion and growth
-- [[Gate 59 - Dispersion]] — Intimacy and breaking barriers
+- Gate 03 - Difficulty at the Beginning — Innovation through mutation
+- Gate 05 - Waiting — Fixed patterns and timing
+- Gate 09 - The Taming Power of the Small — Focus on details
+- Gate 14 - Possession in Great Measure — Power through skills
+- Gate 29 - The Abysmal — Commitment and saying yes
+- Gate 34 - The Power of the Great — Pure power
+- Gate 42 - Increase — Completion and growth
+- Gate 59 - Dispersion — Intimacy and breaking barriers
 
 ### Channel Connections
-- [[Channel 27-50 - Preservation]] — The full electromagnetic connection from caring (Sacral) to values (Spleen)
-- [[Gate 50 - The Cauldron]] — The harmonic partner that provides instinctual values and boundaries
+- Channel 27-50 - Preservation — The full electromagnetic connection from caring (Sacral) to values (Spleen)
+- Gate 50 - The Cauldron — The harmonic partner that provides instinctual values and boundaries
 
 ### Circuit Connections (Tribal Defense)
-- [[Gate 50 - The Cauldron]] — Values and tribal laws
-- [[Gate 32 - Duration]] — Continuity and fear of failure
-- [[Gate 28 - Preponderance of the Great]] — Struggle for meaning
-- [[Gate 44 - Coming to Meet]] — Instinctual memory
+- Gate 50 - The Cauldron — Values and tribal laws
+- Gate 32 - Duration — Continuity and fear of failure
+- Gate 28 - Preponderance of the Great — Struggle for meaning
+- Gate 44 - Coming to Meet — Instinctual memory
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 27 - Nourishment]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 27 - Selfishness to Selflessness]] — Richard Rudd's shadow-gift-siddhi framework
+- I-Ching Hexagram 27 - Nourishment — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 27 - Selfishness to Selflessness — Richard Rudd's shadow-gift-siddhi framework
 - [[The Empress (III)]] — Archetypal nurturer and provider
 - [[Strength (VIII)]] — Gentle power and caring
 - Binah (Qabalah) — The Great Mother sphere
@@ -337,8 +337,8 @@ Gate 27 teaches that **true caring is responsive and sustainable**. When the ind
 ### Thematic Collections
 - Gates of the Sacral Center — All gates within the Life Force center
 - Tribal Circuit Gates — All gates within the Tribal stream
-- [[Gates of Caring and Provision]] — Gates related to nourishment and caretaking
-- [[Gates of Responsibility]] — Gates that take care of and protect others
+- Gates of Caring and Provision — Gates related to nourishment and caretaking
+- Gates of Responsibility — Gates that take care of and protect others
 
 ### Archetypal and Mythological
 - The Great Mother Archetype — The nurturing and devouring mother
@@ -348,7 +348,7 @@ Gate 27 teaches that **true caring is responsive and sustainable**. When the ind
 
 ### Biological and Somatic
 - [[Sacral]] — The center of life force and response
-- [[Ovaries and Testes]] — Generative organs, creative nourishment
+- Ovaries and Testes — Generative organs, creative nourishment
 - [[Digestive System]] — Processing what we take in to nourish the body
 
 ### Practical Application

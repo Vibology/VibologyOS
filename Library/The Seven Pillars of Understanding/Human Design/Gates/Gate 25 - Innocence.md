@@ -306,37 +306,37 @@ Gate 25 teaches that **true love is unconditional and includes the Self**. When 
 ## Cross-References
 
 ### Sequential Connections (Within G Center Gates)
-- [[Gate 01 - The Creative]] — Self-expression and creative being
-- [[Gate 02 - The Receptive]] — Direction of the Self
-- [[Gate 07 - The Army]] — Role of the Self in leadership
-- [[Gate 10 - Treading]] — Behavior of the Self
-- [[Gate 13 - The Fellowship of Man]] — The Listener
-- [[Gate 15 - Modesty]] — Extremes and humanity
+- Gate 01 - The Creative — Self-expression and creative being
+- Gate 02 - The Receptive — Direction of the Self
+- Gate 07 - The Army — Role of the Self in leadership
+- Gate 10 - Treading — Behavior of the Self
+- Gate 13 - The Fellowship of Man — The Listener
+- Gate 15 - Modesty — Extremes and humanity
 
 ### Channel Connections
-- [[Channel 25-51 - Initiation]] — The full electromagnetic connection from innocent spirit (G) to initiating will (Ego)
-- [[Gate 51 - The Arousing]] — The harmonic partner that provides willpower and competitive initiation
+- Channel 25-51 - Initiation — The full electromagnetic connection from innocent spirit (G) to initiating will (Ego)
+- Gate 51 - The Arousing — The harmonic partner that provides willpower and competitive initiation
 
 ### Circuit Connections (Individual Centering)
-- [[Gate 10 - Treading]] — Behavior and self-love
-- [[Gate 20 - Contemplation]] — Awareness in the now
-- [[Gate 34 - The Power of the Great]] — Pure Sacral power
-- [[Gate 51 - The Arousing]] — Ego willpower and initiation
+- Gate 10 - Treading — Behavior and self-love
+- Gate 20 - Contemplation — Awareness in the now
+- Gate 34 - The Power of the Great — Pure Sacral power
+- Gate 51 - The Arousing — Ego willpower and initiation
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 25 - Innocence]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 25 - Constriction to Universal Love]] — Richard Rudd's shadow-gift-siddhi framework
+- I-Ching Hexagram 25 - Innocence — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 25 - Constriction to Universal Love — Richard Rudd's shadow-gift-siddhi framework
 - [[The Fool (0)]] — Archetypal innocence and divine trust
 - [[The Star (XVII)]] — Universal Love and spiritual renewal
 - [[Tiphareth]] — The Sephirah of Beauty and the Higher Self
-- [[Neptune (Astrology)]] — The planet of Universal Love and spirituality
+- [[Neptune ♆]] — The planet of Universal Love and spirituality
 - [[Venus ♀]] — The planet of love and harmony
 
 ### Thematic Collections
 - Gates of the G Center — All gates within the Identity center
 - Individual Circuit Gates — All gates within the Individual stream
-- [[Gates of Love and Spirit]] — Gates related to Universal Love and spiritual innocence
-- [[Gates of the Self]] — Gates that express identity and authentic being
+- Gates of Love and Spirit — Gates related to Universal Love and spiritual innocence
+- Gates of the Self — Gates that express identity and authentic being
 
 ### Archetypal and Mythological
 - The Innocent Archetype — The figure who trusts existence

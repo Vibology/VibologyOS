@@ -306,33 +306,33 @@ Gate 26 teaches that **true influence is service, not ego**. When the individual
 ## Cross-References
 
 ### Sequential Connections (Within Ego Center Gates)
-- [[Gate 21 - Biting Through]] — Control and enforcement
-- [[Gate 40 - Deliverance]] — Willpower to provide and rest
-- [[Gate 51 - The Arousing]] — Competitive willpower and initiation
+- Gate 21 - Biting Through — Control and enforcement
+- Gate 40 - Deliverance — Willpower to provide and rest
+- Gate 51 - The Arousing — Competitive willpower and initiation
 
 ### Channel Connections
-- [[Channel 26-44 - Surrender]] — The full electromagnetic connection from ego-memory (Heart) to instinctual-memory (Spleen)
-- [[Gate 44 - Coming to Meet]] — The harmonic partner that provides instinctual awareness and timing
+- Channel 26-44 - Surrender — The full electromagnetic connection from ego-memory (Heart) to instinctual-memory (Spleen)
+- Gate 44 - Coming to Meet — The harmonic partner that provides instinctual awareness and timing
 
 ### Circuit Connections (Tribal Ego)
-- [[Gate 21 - Biting Through]] — Control and resource enforcement
-- [[Gate 40 - Deliverance]] — Willpower through provision
-- [[Gate 51 - The Arousing]] — Competitive ego and initiation
+- Gate 21 - Biting Through — Control and resource enforcement
+- Gate 40 - Deliverance — Willpower through provision
+- Gate 51 - The Arousing — Competitive ego and initiation
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 26 - The Taming Power of the Great]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 26 - Pride to Invisibility]] — Richard Rudd's shadow-gift-siddhi framework
-- [[The Hierophant (Tarot)]] — Keeper of tradition and historical authority
-- [[The Magician (Tarot)]] — The trickster who influences through skill
+- I-Ching Hexagram 26 - The Taming Power of the Great — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 26 - Pride to Invisibility — Richard Rudd's shadow-gift-siddhi framework
+- [[The Hierophant (V)]] — Keeper of tradition and historical authority
+- [[The Magician (I)]] — The trickster who influences through skill
 - Chesed (Qabalah) — The Sephirah of Mercy and benevolent memory
 - Saturn — The planet of time, memory, and authority
 - Mercury — The planet of communication and clever influence
 
 ### Thematic Collections
-- [[Gates of the Ego Center]] — All gates within the Willpower center
+- Gates of the Ego Center — All gates within the Willpower center
 - Tribal Circuit Gates — All gates within the Tribal stream
-- [[Gates of Memory and History]] — Gates that accumulate and apply past knowledge
-- [[Gates of Influence and Persuasion]] — Gates that sell, convince, and guide
+- Gates of Memory and History — Gates that accumulate and apply past knowledge
+- Gates of Influence and Persuasion — Gates that sell, convince, and guide
 
 ### Archetypal and Mythological
 - The Trickster Archetype — The cunning figure who influences through cleverness
@@ -341,8 +341,8 @@ Gate 26 teaches that **true influence is service, not ego**. When the individual
 - [[The Senex (Jung)]] — The wise elder who holds historical authority
 
 ### Biological and Somatic
-- [[Heart (Ego) Center]] — The center of willpower and material commitment
-- [[Thymus and Immune Memory]] — Cellular memory of past threats, parallel to tribal memory
+- [[Heart]] — The center of willpower and material commitment
+- Thymus and Immune Memory — Cellular memory of past threats, parallel to tribal memory
 - [[Stomach and Material Processing]] — Digestion as metaphor for assimilating and selling resources
 
 ### Practical Application

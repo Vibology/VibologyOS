@@ -318,34 +318,34 @@ Gate 8 teaches that **creative contribution is not about being the best—it is 
 ## Cross-References
 
 ### Sequential Connections (Within Throat Gates)
-- [[Gate 12 - Standstill]] — Mutative voice expressing caution (Individual Knowing)
-- [[Gate 16 - Enthusiasm]] — Skills and talent through repetition (Collective Logic)
-- [[Gate 20 - Contemplation]] — Recognition and awareness in the now (Integration)
-- [[Gate 23 - Splitting Apart]] — Individual knowing through assimilation (Individual Knowing)
-- [[Gate 31 - Influence]] — Leadership voice (Collective Logic)
-- [[Gate 33 - Retreat]] — Privacy and withdrawal (Collective Sensing)
-- [[Gate 35 - Progress]] — Change and experience (Individual Centering)
-- [[Gate 45 - Gathering Together]] — Tribal leadership and resources (Tribal Ego)
-- [[Gate 56 - The Wanderer]] — Stimulation and storytelling (Collective Sensing)
-- [[Gate 62 - Preponderance of the Small]] — Details and organizational thinking (Collective Logic)
+- Gate 12 - Standstill — Mutative voice expressing caution (Individual Knowing)
+- Gate 16 - Enthusiasm — Skills and talent through repetition (Collective Logic)
+- Gate 20 - Contemplation — Recognition and awareness in the now (Integration)
+- Gate 23 - Splitting Apart — Individual knowing through assimilation (Individual Knowing)
+- Gate 31 - Influence — Leadership voice (Collective Logic)
+- Gate 33 - Retreat — Privacy and withdrawal (Collective Sensing)
+- Gate 35 - Progress — Change and experience (Individual Centering)
+- Gate 45 - Gathering Together — Tribal leadership and resources (Tribal Ego)
+- Gate 56 - The Wanderer — Stimulation and storytelling (Collective Sensing)
+- Gate 62 - Preponderance of the Small — Details and organizational thinking (Collective Logic)
 
 ### Channel Connections
-- [[Channel 1-8 - Inspiration (Creative Expression)]] — The full electromagnetic connection from creative direction (G) to creative manifestation (Throat)
-- [[Gate 01 - The Creative]] — The harmonic partner that provides creative direction and impulse
+- Channel 1-8 - Inspiration (Creative Expression) — The full electromagnetic connection from creative direction (G) to creative manifestation (Throat)
+- Gate 01 - The Creative — The harmonic partner that provides creative direction and impulse
 
 ### Circuit Connections (Individual Knowing)
-- [[Gate 01 - The Creative]] — Initiating creative force within the Knowing Circuit (G Center)
-- [[Gate 02 - The Receptive]] — Receptive directional force within the Knowing Circuit (G Center)
-- [[Gate 03 - Difficulty at the Beginning]] — Ordering through chaos (Sacral)
-- [[Gate 12 - Standstill]] — Mutative voice (Throat)
-- [[Gate 14 - Possession in Great Measure]] — Power skills (Sacral)
-- [[Gate 22 - Grace]] — Emotional openness (Solar Plexus)
-- [[Gate 23 - Splitting Apart]] — Assimilation (Throat)
-- [[Gate 24 - The Return]] — Mental rationalization (Ajna)
+- Gate 01 - The Creative — Initiating creative force within the Knowing Circuit (G Center)
+- Gate 02 - The Receptive — Receptive directional force within the Knowing Circuit (G Center)
+- Gate 03 - Difficulty at the Beginning — Ordering through chaos (Sacral)
+- Gate 12 - Standstill — Mutative voice (Throat)
+- Gate 14 - Possession in Great Measure — Power skills (Sacral)
+- Gate 22 - Grace — Emotional openness (Solar Plexus)
+- Gate 23 - Splitting Apart — Assimilation (Throat)
+- Gate 24 - The Return — Mental rationalization (Ajna)
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 8 - Holding Together]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 08 - Mediocrity to Exquisiteness]] — Richard Rudd's shadow-gift-siddhi framework for Gate 8
+- I-Ching Hexagram 8 - Holding Together — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 08 - Mediocrity to Exquisiteness — Richard Rudd's shadow-gift-siddhi framework for Gate 8
 - [[Strength (VIII)]] — Resonance with authentic power through gentle expression
 - Hod (Qabalah) — Splendor, glory, and the manifestation of beauty
 - Mercury — Planet of expression and communication
@@ -353,8 +353,8 @@ Gate 8 teaches that **creative contribution is not about being the best—it is 
 ### Thematic Collections
 - Gates of the Throat Center — All manifestation gates
 - Individual Circuit Gates — All gates within the Individual stream
-- [[Gates of Creative Expression]] — Gates specifically related to bringing forth unique forms
-- [[Gates of Style and Authenticity]] — Gates carrying the capacity to express genuine uniqueness
+- Gates of Creative Expression — Gates specifically related to bringing forth unique forms
+- Gates of Style and Authenticity — Gates carrying the capacity to express genuine uniqueness
 
 ### Archetypal and Mythological
 - [[The Authentic Artist]] — Creator expressing from truth rather than trend
@@ -365,7 +365,7 @@ Gate 8 teaches that **creative contribution is not about being the best—it is 
 ### Biological and Somatic
 - [[Throat]] — The center of manifestation, voice, and action
 - [[Thyroid (Biology)]] — The gland regulating metabolism and energy expression
-- [[Vocal Cords (Biology)]] — The physical mechanism of voice
+- Vocal Cords — The physical mechanism of voice
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework

@@ -307,48 +307,48 @@ Gate 33 teaches that **wisdom requires distance**. When the individual honors th
 ## Cross-References
 
 ### Sequential Connections (Within Throat Gates)
-- [[Gate 08 - Holding Together]] — Individual contribution through creative voice
-- [[Gate 12 - Standstill]] — Mutative caution and discernment in speech
-- [[Gate 16 - Enthusiasm]] — Skill and talent expressed through voice
-- [[Gate 20 - Contemplation]] — The voice of the now, existential awareness
-- [[Gate 23 - Splitting Apart]] — Individual knowing articulated through assimilation
-- [[Gate 31 - Influence]] — Democratic leadership through articulated patterns
-- [[Gate 35 - Progress]] — The voice of change and experience
-- [[Gate 45 - Gathering Together]] — Tribal leadership, the king/queen voice
-- [[Gate 56 - The Wanderer]] — Stimulation through storytelling
-- [[Gate 62 - Preponderance of the Small]] — Details and facts organized for expression
+- Gate 08 - Holding Together — Individual contribution through creative voice
+- Gate 12 - Standstill — Mutative caution and discernment in speech
+- Gate 16 - Enthusiasm — Skill and talent expressed through voice
+- Gate 20 - Contemplation — The voice of the now, existential awareness
+- Gate 23 - Splitting Apart — Individual knowing articulated through assimilation
+- Gate 31 - Influence — Democratic leadership through articulated patterns
+- Gate 35 - Progress — The voice of change and experience
+- Gate 45 - Gathering Together — Tribal leadership, the king/queen voice
+- Gate 56 - The Wanderer — Stimulation through storytelling
+- Gate 62 - Preponderance of the Small — Details and facts organized for expression
 
 ### Channel Connections
-- [[Channel 33-13 - The Prodigal]] — The full electromagnetic connection from reflective memory (Throat) to universal listening (G Center)
-- [[Gate 13 - The Fellowship of Man]] — The harmonic partner that provides listening and openness to universal stories
+- Channel 33-13 - The Prodigal — The full electromagnetic connection from reflective memory (Throat) to universal listening (G Center)
+- Gate 13 - The Fellowship of Man — The harmonic partner that provides listening and openness to universal stories
 
 ### Circuit Connections (Collective Abstract/Sensing)
-- [[Gate 06 - Conflict]] — Emotional friction and intimacy (Solar Plexus)
-- [[Gate 11 - Peace]] — Ideas and reflection (Ajna)
-- [[Gate 22 - Grace]] — Emotional openness and grace (Solar Plexus)
-- [[Gate 29 - Perseverance]] — Saying yes to experience (Sacral)
-- [[Gate 30 - The Clinging Fire]] — Emotional desire and feelings (Solar Plexus)
-- [[Gate 36 - Darkening of the Light]] — Emotional crisis (Solar Plexus)
-- [[Gate 37 - The Family]] — Tribal friendship and bargains (Solar Plexus)
-- [[Gate 41 - Decrease]] — Initiating desire and fantasy (Root)
-- [[Gate 42 - Increase]] — Bringing things to completion (Sacral)
-- [[Gate 46 - Pushing Upward]] — Love of the body and serendipity (G Center)
-- [[Gate 47 - Oppression]] — Mental realization over time (Ajna)
-- [[Gate 49 - Revolution]] — Principles and sensitivity (Solar Plexus)
-- [[Gate 55 - Abundance]] — Emotional spirit and mood (Solar Plexus)
-- [[Gate 56 - The Wanderer]] — Storytelling and stimulation (Throat)
+- Gate 06 - Conflict — Emotional friction and intimacy (Solar Plexus)
+- Gate 11 - Peace — Ideas and reflection (Ajna)
+- Gate 22 - Grace — Emotional openness and grace (Solar Plexus)
+- Gate 29 - Perseverance — Saying yes to experience (Sacral)
+- Gate 30 - The Clinging Fire — Emotional desire and feelings (Solar Plexus)
+- Gate 36 - Darkening of the Light — Emotional crisis (Solar Plexus)
+- Gate 37 - The Family — Tribal friendship and bargains (Solar Plexus)
+- Gate 41 - Decrease — Initiating desire and fantasy (Root)
+- Gate 42 - Increase — Bringing things to completion (Sacral)
+- Gate 46 - Pushing Upward — Love of the body and serendipity (G Center)
+- Gate 47 - Oppression — Mental realization over time (Ajna)
+- Gate 49 - Revolution — Principles and sensitivity (Solar Plexus)
+- Gate 55 - Abundance — Emotional spirit and mood (Solar Plexus)
+- Gate 56 - The Wanderer — Storytelling and stimulation (Throat)
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 33 - Retreat]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 33 - Forgetting to Revelation]] — Richard Rudd's shadow-gift-siddhi framework for Gate 33
+- I-Ching Hexagram 33 - Retreat — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 33 - Forgetting to Revelation — Richard Rudd's shadow-gift-siddhi framework for Gate 33
 - [[The Hermit (IX)]] — Resonance with solitary withdrawal and inner light
 - Binah (Qabalah) — Understanding, the womb of contemplation
 
 ### Thematic Collections
 - Gates of the Throat Center — All eleven gates within the manifestation center
 - Collective Circuit Gates — All gates within the Collective stream (Logic and Abstract)
-- [[Gates of Storytelling]] — Gates related to narrative and memory
-- [[Gates of Privacy]] — Gates carrying the energy of withdrawal and solitude
+- Gates of Storytelling — Gates related to narrative and memory
+- Gates of Privacy — Gates carrying the energy of withdrawal and solitude
 
 ### Archetypal and Mythological
 - The Hermit Archetype — Jungian pattern of solitary wisdom-seeking
@@ -364,7 +364,7 @@ Gate 33 teaches that **wisdom requires distance**. When the individual honors th
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - Defined vs. Undefined Centers — Understanding fixed vs. variable energy in the bodygraph
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
-- [[Collective vs. Individual vs. Tribal]] — Distinguishing the three streams of circuitry
+- Collective vs. Individual vs. Tribal — Distinguishing the three streams of circuitry
 
 ---
 

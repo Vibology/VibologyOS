@@ -306,43 +306,43 @@ Gate 45 teaches that **rulership is sacred service**. When the individual honors
 ## Cross-References
 
 ### Sequential Connections (Within Throat Center Gates)
-- [[Gate 08 - Holding Together]] — Individual contribution through unique voice
-- [[Gate 12 - Standstill]] — Individual caution articulated
-- [[Gate 16 - Enthusiasm]] — Logical identification and skills
-- [[Gate 20 - Contemplation]] — Awareness of the now
-- [[Gate 23 - Splitting Apart]] — Individual knowing articulated
-- [[Gate 31 - Influence]] — Democratic leadership
-- [[Gate 33 - Retreat]] — Privacy and withdrawal
-- [[Gate 35 - Progress]] — Collective change and experience
-- [[Gate 56 - The Wanderer]] — Stimulation through stories
-- [[Gate 62 - Preponderance of the Small]] — Details and facts
+- Gate 08 - Holding Together — Individual contribution through unique voice
+- Gate 12 - Standstill — Individual caution articulated
+- Gate 16 - Enthusiasm — Logical identification and skills
+- Gate 20 - Contemplation — Awareness of the now
+- Gate 23 - Splitting Apart — Individual knowing articulated
+- Gate 31 - Influence — Democratic leadership
+- Gate 33 - Retreat — Privacy and withdrawal
+- Gate 35 - Progress — Collective change and experience
+- Gate 56 - The Wanderer — Stimulation through stories
+- Gate 62 - Preponderance of the Small — Details and facts
 
 ### Channel Connections
-- [[Channel 45-21 - Money]] — The full electromagnetic connection from vocal authority (Throat) to willful control (Ego)
-- [[Gate 21 - Biting Through]] — The harmonic partner that provides willpower for resource control
+- Channel 45-21 - Money — The full electromagnetic connection from vocal authority (Throat) to willful control (Ego)
+- Gate 21 - Biting Through — The harmonic partner that provides willpower for resource control
 
 ### Circuit Connections (Tribal Ego - Defense)
-- [[Gate 26 - The Taming Power of the Great]] — Willpower and tribal sales
-- [[Gate 40 - Deliverance]] — Will to rest and restore
-- [[Gate 44 - Coming to Meet]] — Pattern recognition for survival
-- [[Gate 51 - The Arousing]] — Competition and tribal hierarchy
+- Gate 26 - The Taming Power of the Great — Willpower and tribal sales
+- Gate 40 - Deliverance — Will to rest and restore
+- Gate 44 - Coming to Meet — Pattern recognition for survival
+- Gate 51 - The Arousing — Competition and tribal hierarchy
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 45 - Gathering Together]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 45 - Dominance to Liberation]] — Richard Rudd's shadow-gift-siddhi framework for Gate 45
+- I-Ching Hexagram 45 - Gathering Together — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 45 - Dominance to Liberation — Richard Rudd's shadow-gift-siddhi framework for Gate 45
 - [[The Emperor (IV)]] — Resonance with authority and structure
 - Chesed (Qabalah) — Mercy, benevolent rulership
 
 ### Thematic Collections
 - Gates of the Throat Center — All eleven gates within the Manifestation center
 - Tribal Circuit Gates — All gates within the Tribal stream
-- [[Gates of Leadership]] — Gates related to governance and authority
-- [[Gates of Resource Management]] — Gates focused on material security
+- Gates of Leadership — Gates related to governance and authority
+- Gates of Resource Management — Gates focused on material security
 
 ### Archetypal and Mythological
 - The Sovereign Archetype — Jungian archetypal pattern of rulership
 - [[The Benevolent King/Queen]] — Mythological figures of wise governance
-- [[The Sun (Astrology)]] — Centralized authority and vitality
+- [[Sun ☉]] — Centralized authority and vitality
 
 ### Biological and Somatic
 - [[Throat]] — The center of communication and manifestation

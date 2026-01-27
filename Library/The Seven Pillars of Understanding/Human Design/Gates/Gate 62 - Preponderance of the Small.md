@@ -308,57 +308,57 @@ Gate 62 teaches that **details matter**. When the individual honors their voice 
 ## Cross-References
 
 ### Sequential Connections (Within Throat Center Gates)
-- [[Gate 08 - Holding Together]] — Contribution and individuality
-- [[Gate 12 - Standstill]] — Caution and moodiness
-- [[Gate 16 - Enthusiasm]] — Skills and mastery
-- [[Gate 20 - Contemplation]] — The now, charisma
-- [[Gate 23 - Splitting Apart]] — Individual knowing
-- [[Gate 31 - Influence]] — Leading through alpha
-- [[Gate 33 - Retreat]] — Privacy and secrets
-- [[Gate 35 - Progress]] — Experience and change
-- [[Gate 45 - Gathering Together]] — Tribal leadership
-- [[Gate 56 - The Wanderer]] — Stimulation through story
+- Gate 08 - Holding Together — Contribution and individuality
+- Gate 12 - Standstill — Caution and moodiness
+- Gate 16 - Enthusiasm — Skills and mastery
+- Gate 20 - Contemplation — The now, charisma
+- Gate 23 - Splitting Apart — Individual knowing
+- Gate 31 - Influence — Leading through alpha
+- Gate 33 - Retreat — Privacy and secrets
+- Gate 35 - Progress — Experience and change
+- Gate 45 - Gathering Together — Tribal leadership
+- Gate 56 - The Wanderer — Stimulation through story
 
 ### Channel Connections
-- [[Channel 62-17 - Acceptance]] — Throat to Ajna (organizing being, logical expression)
-- [[Gate 17 - Following]] — Opinions and mental organization (Ajna Center)
+- Channel 62-17 - Acceptance — Throat to Ajna (organizing being, logical expression)
+- Gate 17 - Following — Opinions and mental organization (Ajna Center)
 
 ### Circuit Connections (Collective Logic)
-- [[Gate 04 - Youthful Folly]] — Formulation of mental answers (Ajna)
-- [[Gate 05 - Waiting]] — Fixed patterns and rhythms (Sacral)
-- [[Gate 09 - The Taming Power of the Small]] — Focus and detail (Sacral)
-- [[Gate 11 - Peace]] — Ideas for the collective (Ajna)
-- [[Gate 16 - Enthusiasm]] — Skills and mastery (Throat)
-- [[Gate 17 - Following]] — Opinions and perspectives (Ajna)
-- [[Gate 18 - Work on What Has Been Spoilt]] — Correction (Spleen)
-- [[Gate 20 - Contemplation]] — The now (Throat)
-- [[Gate 24 - The Return]] — Rationalization (Ajna)
-- [[Gate 31 - Influence]] — Leading through influence (Throat)
-- [[Gate 33 - Retreat]] — Privacy and withdrawal (Throat)
-- [[Gate 40 - Deliverance]] — Aloneness and rest (Heart/Will)
-- [[Gate 43 - Breakthrough]] — Individual insight (Ajna)
-- [[Gate 45 - Gathering Together]] — Tribal leadership (Throat)
-- [[Gate 47 - Oppression]] — Abstract processing (Ajna)
-- [[Gate 48 - The Well]] — Depth and adequacy (Spleen)
-- [[Gate 58 - The Joyous]] — Vitality and correction (Root)
-- [[Gate 63 - After Completion]] — Doubt and questioning (Head)
+- Gate 04 - Youthful Folly — Formulation of mental answers (Ajna)
+- Gate 05 - Waiting — Fixed patterns and rhythms (Sacral)
+- Gate 09 - The Taming Power of the Small — Focus and detail (Sacral)
+- Gate 11 - Peace — Ideas for the collective (Ajna)
+- Gate 16 - Enthusiasm — Skills and mastery (Throat)
+- Gate 17 - Following — Opinions and perspectives (Ajna)
+- Gate 18 - Work on What Has Been Spoilt — Correction (Spleen)
+- Gate 20 - Contemplation — The now (Throat)
+- Gate 24 - The Return — Rationalization (Ajna)
+- Gate 31 - Influence — Leading through influence (Throat)
+- Gate 33 - Retreat — Privacy and withdrawal (Throat)
+- Gate 40 - Deliverance — Aloneness and rest (Heart/Will)
+- Gate 43 - Breakthrough — Individual insight (Ajna)
+- Gate 45 - Gathering Together — Tribal leadership (Throat)
+- Gate 47 - Oppression — Abstract processing (Ajna)
+- Gate 48 - The Well — Depth and adequacy (Spleen)
+- Gate 58 - The Joyous — Vitality and correction (Root)
+- Gate 63 - After Completion — Doubt and questioning (Head)
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 62 - Preponderance of the Small]] — Source hexagram and traditional interpretation
-- [[Gene Keys 62 - Intellect to Impeccability]] — Shadow-gift-siddhi framework
-- [[The Magician (Tarot)]] — Resonance with naming and manifestation
+- I-Ching Hexagram 62 - Preponderance of the Small — Source hexagram and traditional interpretation
+- Gene Keys 62 - Intellect to Impeccability — Shadow-gift-siddhi framework
+- [[The Magician (I)]] — Resonance with naming and manifestation
 - Hod (Qabalah) — Splendor, form, intellectual structure
 
 ### Thematic Collections
 - Gates of the Throat Center — All gates within Expression center
 - Collective Circuit Gates — All gates within Collective stream
-- [[Logic Circuit Gates]] — All gates within Logic stream
-- [[Gates of Detail]] — Gates related to precision and organization
+- Logic Circuit Gates — All gates within Logic stream
+- Gates of Detail — Gates related to precision and organization
 
 ### Archetypal and Mythological
 - The Scribe Archetype — Pattern of recording and naming
 - The Cataloger Archetype — Organization through detail
-- [[Mercury (Mythology)]] — God of communication and intellect
+- Mercury (mythology) — God of communication and intellect
 - [[Thoth (Egyptian Mythology)]] — God of writing and knowledge
 
 ### Biological and Somatic

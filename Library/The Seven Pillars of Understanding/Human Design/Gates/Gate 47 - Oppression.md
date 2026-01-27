@@ -306,35 +306,35 @@ Gate 47 teaches that **mental pressure is sacred**. When the individual honors t
 ## Cross-References
 
 ### Sequential Connections (Within Ajna Center Gates)
-- [[Gate 04 - Youthful Folly]] — Mental formulation through questioning
-- [[Gate 11 - Peace]] — Mental attunement to universal patterns
-- [[Gate 17 - Following]] — Mental recognition of patterns to follow
-- [[Gate 24 - The Return]] — Mental rationalization and return to truth
-- [[Gate 43 - Breakthrough]] — Breakthrough insight and inner knowing
-- [[Gate 61 - Inner Truth]] — Mental mystery and contemplation
+- Gate 04 - Youthful Folly — Mental formulation through questioning
+- Gate 11 - Peace — Mental attunement to universal patterns
+- Gate 17 - Following — Mental recognition of patterns to follow
+- Gate 24 - The Return — Mental rationalization and return to truth
+- Gate 43 - Breakthrough — Breakthrough insight and inner knowing
+- Gate 61 - Inner Truth — Mental mystery and contemplation
 
 ### Channel Connections
-- [[Channel 47-64 - Abstraction]] — The full electromagnetic connection from realization (Ajna) to contemplation (Head)
-- [[Gate 64 - Before Completion]] — The harmonic partner that provides mental contemplation
+- Channel 47-64 - Abstraction — The full electromagnetic connection from realization (Ajna) to contemplation (Head)
+- Gate 64 - Before Completion — The harmonic partner that provides mental contemplation
 
 ### Circuit Connections (Collective Understanding - Logic)
-- [[Gate 04 - Youthful Folly]] — Mental formulation
-- [[Gate 11 - Peace]] — Mental attunement
-- [[Gate 17 - Following]] — Mental pattern recognition
-- [[Gate 18 - Work on What Has Been Spoilt]] — Correction
-- [[Gate 48 - The Well]] — Depth of resources
+- Gate 04 - Youthful Folly — Mental formulation
+- Gate 11 - Peace — Mental attunement
+- Gate 17 - Following — Mental pattern recognition
+- Gate 18 - Work on What Has Been Spoilt — Correction
+- Gate 48 - The Well — Depth of resources
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 47 - Oppression]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 47 - Oppression to Transfiguration]] — Richard Rudd's shadow-gift-siddhi framework for Gate 47
+- I-Ching Hexagram 47 - Oppression — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 47 - Oppression to Transfiguration — Richard Rudd's shadow-gift-siddhi framework for Gate 47
 - [[The Hanged Man (XII)]] — Resonance with surrender and realization through constraint
 - Binah (Qabalah) — Understanding, structure, contemplative gestation
 
 ### Thematic Collections
 - Gates of the Ajna Center — All seven gates within the Awareness center
-- [[Collective Understanding Circuit Gates]] — All gates within the Logic stream
-- [[Gates of Mental Pressure]] — Gates related to contemplation and realization
-- [[Gates of Transmutation]] — Gates that transform oppression into clarity
+- Collective Understanding Circuit Gates — All gates within the Logic stream
+- Gates of Mental Pressure — Gates related to contemplation and realization
+- Gates of Transmutation — Gates that transform oppression into clarity
 
 ### Archetypal and Mythological
 - The Contemplative Archetype — Jungian archetypal pattern of deep mental processing
@@ -343,7 +343,7 @@ Gate 47 teaches that **mental pressure is sacred**. When the individual honors t
 
 ### Biological and Somatic
 - [[Ajna]] — The center of mental awareness and conceptualization
-- [[Pineal Gland]] — The biological organ of mental pressure
+- Pineal Gland — The biological organ of mental pressure
 - [[Cognitive Processing]] — Mental mechanisms of contemplation
 
 ### Practical Application

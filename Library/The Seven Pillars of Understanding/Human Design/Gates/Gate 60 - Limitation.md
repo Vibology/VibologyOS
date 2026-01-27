@@ -304,46 +304,46 @@ Gate 60 teaches that **limitation is the doorway to mutation**. When the individ
 ## Cross-References
 
 ### Sequential Connections (Within Root Center Gates)
-- [[Gate 38 - Opposition]] — Opposition and struggle for meaning
-- [[Gate 39 - Obstruction]] — Provocation and emotional depth
-- [[Gate 41 - Decrease]] — Contraction and fantasy
-- [[Gate 52 - Keeping Still]] — Stillness and focus
-- [[Gate 53 - Development]] — Beginnings and maturation
-- [[Gate 54 - The Marrying Maiden]] — Ambition and drive
-- [[Gate 58 - The Joyous]] — Vitality and correction
+- Gate 38 - Opposition — Opposition and struggle for meaning
+- Gate 39 - Obstruction — Provocation and emotional depth
+- Gate 41 - Decrease — Contraction and fantasy
+- Gate 52 - Keeping Still — Stillness and focus
+- Gate 53 - Development — Beginnings and maturation
+- Gate 54 - The Marrying Maiden — Ambition and drive
+- Gate 58 - The Joyous — Vitality and correction
 
 ### Channel Connections
-- [[Channel 60-3 - Mutation]] — Root to Sacral (evolutionary change through limitation)
-- [[Gate 3 - Difficulty at the Beginning]] — Ordering chaos (Sacral Center)
+- Channel 60-3 - Mutation — Root to Sacral (evolutionary change through limitation)
+- Gate 3 - Difficulty at the Beginning — Ordering chaos (Sacral Center)
 
 ### Circuit Connections (Individual Knowing)
-- [[Gate 01 - The Creative]] — Creative self-expression (G Center)
-- [[Gate 08 - Holding Together]] — Voice of contribution (Throat)
-- [[Gate 12 - Standstill]] — Cautious voice (Throat)
-- [[Gate 22 - Grace]] — Emotional openness (Solar Plexus)
-- [[Gate 23 - Splitting Apart]] — Individual knowing (Throat)
-- [[Gate 24 - The Return]] — Rationalization (Ajna)
-- [[Gate 43 - Breakthrough]] — Individual insight (Ajna)
-- [[Gate 55 - Abundance]] — Emotional spirit (Solar Plexus)
-- [[Gate 57 - The Gentle]] — Intuition (Spleen)
-- [[Gate 61 - Inner Truth]] — Pressure to know mystery (Head)
+- Gate 01 - The Creative — Creative self-expression (G Center)
+- Gate 08 - Holding Together — Voice of contribution (Throat)
+- Gate 12 - Standstill — Cautious voice (Throat)
+- Gate 22 - Grace — Emotional openness (Solar Plexus)
+- Gate 23 - Splitting Apart — Individual knowing (Throat)
+- Gate 24 - The Return — Rationalization (Ajna)
+- Gate 43 - Breakthrough — Individual insight (Ajna)
+- Gate 55 - Abundance — Emotional spirit (Solar Plexus)
+- Gate 57 - The Gentle — Intuition (Spleen)
+- Gate 61 - Inner Truth — Pressure to know mystery (Head)
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 60 - Limitation]] — Source hexagram and traditional interpretation
-- [[Gene Keys 60 - Limitation to Justice]] — Shadow-gift-siddhi framework
+- I-Ching Hexagram 60 - Limitation — Source hexagram and traditional interpretation
+- Gene Keys 60 - Limitation to Justice — Shadow-gift-siddhi framework
 - [[Temperance (XIV)]] — Resonance with balance and alchemical process
 - Geburah (Qabalah) — Severity, discipline, necessary constraint
 
 ### Thematic Collections
 - Gates of the Root Center — All gates within Pressure center
 - Individual Circuit Gates — All gates within Individual stream
-- [[Knowing Circuit Gates]] — All gates within Knowing stream
+- Knowing Circuit Gates — All gates within Knowing stream
 - Gates of Mutation — Gates related to evolutionary change
 
 ### Archetypal and Mythological
 - The Realist Archetype — Pattern of clear-eyed acceptance
 - The Mutant Archetype — Evolution through constraint
-- [[Saturn (Mythology)]] — God of limitation and time
+- Saturn (mythology) — God of limitation and time
 - Prometheus (Greek mythology) — Mutation through acceptance of constraint
 
 ### Biological and Somatic

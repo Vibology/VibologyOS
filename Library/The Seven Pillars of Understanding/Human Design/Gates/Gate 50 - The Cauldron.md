@@ -306,36 +306,36 @@ Gate 50 teaches that **values are sacred**. When the individual honors their ins
 ## Cross-References
 
 ### Sequential Connections (Within Spleen Center Gates)
-- [[Gate 18 - Work on What Has Been Spoilt]] — Correction and tribal improvement
-- [[Gate 28 - Preponderance of the Great]] — Risk-taking and struggle for purpose
-- [[Gate 32 - Duration]] — Continuity and transformation
-- [[Gate 44 - Coming to Meet]] — Pattern recognition for survival
-- [[Gate 48 - The Well]] — Depth of resources and knowledge
-- [[Gate 57 - The Gentle]] — Intuitive clarity and survival instinct
+- Gate 18 - Work on What Has Been Spoilt — Correction and tribal improvement
+- Gate 28 - Preponderance of the Great — Risk-taking and struggle for purpose
+- Gate 32 - Duration — Continuity and transformation
+- Gate 44 - Coming to Meet — Pattern recognition for survival
+- Gate 48 - The Well — Depth of resources and knowledge
+- Gate 57 - The Gentle — Intuitive clarity and survival instinct
 
 ### Channel Connections
-- [[Channel 50-27 - Preservation]] — The full electromagnetic connection from values (Spleen) to caring (Sacral)
-- [[Gate 27 - Nourishment]] — The harmonic partner that provides nurturing care
+- Channel 50-27 - Preservation — The full electromagnetic connection from values (Spleen) to caring (Sacral)
+- Gate 27 - Nourishment — The harmonic partner that provides nurturing care
 
 ### Circuit Connections (Tribal Ego - Defense)
-- [[Gate 21 - Biting Through]] — Control and tribal authority
-- [[Gate 26 - The Taming Power of the Great]] — Willpower and sales
-- [[Gate 40 - Deliverance]] — Will to rest and restore
-- [[Gate 44 - Coming to Meet]] — Pattern recognition
-- [[Gate 45 - Gathering Together]] — Rulership and gathering
-- [[Gate 49 - Revolution]] — Emotional sensitivity to injustice
+- Gate 21 - Biting Through — Control and tribal authority
+- Gate 26 - The Taming Power of the Great — Willpower and sales
+- Gate 40 - Deliverance — Will to rest and restore
+- Gate 44 - Coming to Meet — Pattern recognition
+- Gate 45 - Gathering Together — Rulership and gathering
+- Gate 49 - Revolution — Emotional sensitivity to injustice
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 50 - The Cauldron]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 50 - Corruption to Harmony]] — Richard Rudd's shadow-gift-siddhi framework for Gate 50
-- [[Justice (Tarot)]] — Resonance with balance and law
+- I-Ching Hexagram 50 - The Cauldron — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 50 - Corruption to Harmony — Richard Rudd's shadow-gift-siddhi framework for Gate 50
+- [[Justice (XI)]] — Resonance with balance and law
 - Chesed (Qabalah) — Mercy, benevolent law
 
 ### Thematic Collections
 - Gates of the Spleen Center — All seven gates within the Survival center
 - Tribal Circuit Gates — All gates within the Tribal stream
-- [[Gates of Values]] — Gates related to law and custodianship
-- [[Gates of Preservation]] — Gates that protect tribal integrity
+- Gates of Values — Gates related to law and custodianship
+- Gates of Preservation — Gates that protect tribal integrity
 
 ### Archetypal and Mythological
 - The Guardian Archetype — Jungian archetypal pattern of custodianship
@@ -344,7 +344,7 @@ Gate 50 teaches that **values are sacred**. When the individual honors their ins
 
 ### Biological and Somatic
 - [[Spleen]] — The center of survival, instinct, and health
-- [[Immune System]] — The biological mechanism of protection
+- Immune System — The biological mechanism of protection
 - [[Instinctual Values]] — Somatic knowing of right and wrong
 
 ### Practical Application

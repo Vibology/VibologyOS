@@ -305,41 +305,41 @@ Gate 18 teaches that **integrity requires vigilant correction**. When the indivi
 ## Cross-References
 
 ### Sequential Connections (Within Spleen Gates)
-- [[Gate 18 - Work on What Has Been Spoilt]] — Correction and integrity (current entry)
-- [[Gate 28 - Preponderance of the Great]] — Risk and struggle for meaning
-- [[Gate 32 - Duration]] — Continuity and fear of failure
-- [[Gate 44 - Coming to Meet]] — Instinctual alertness to patterns
-- [[Gate 48 - The Well]] — Depth and adequacy of wisdom
-- [[Gate 50 - The Cauldron]] — Values and responsibility
-- [[Gate 57 - The Gentle]] — Intuitive clarity in the moment
+- Gate 18 - Work on What Has Been Spoilt — Correction and integrity (current entry)
+- Gate 28 - Preponderance of the Great — Risk and struggle for meaning
+- Gate 32 - Duration — Continuity and fear of failure
+- Gate 44 - Coming to Meet — Instinctual alertness to patterns
+- Gate 48 - The Well — Depth and adequacy of wisdom
+- Gate 50 - The Cauldron — Values and responsibility
+- Gate 57 - The Gentle — Intuitive clarity in the moment
 
 ### Channel Connections
-- [[Channel 18-58 - Judgment]] — The full electromagnetic connection from instinctual correction (Spleen) to vitality for perfection (Root)
-- [[Gate 58 - The Joyous]] — The harmonic partner that provides energy and joy for sustained corrective work
+- Channel 18-58 - Judgment — The full electromagnetic connection from instinctual correction (Spleen) to vitality for perfection (Root)
+- Gate 58 - The Joyous — The harmonic partner that provides energy and joy for sustained corrective work
 
 ### Circuit Connections (Collective Logic)
-- [[Gate 04 - Youthful Folly]] — Mental formulization (Ajna)
-- [[Gate 05 - Waiting]] — Fixed patterns and timing (Sacral)
-- [[Gate 07 - The Army]] — Leadership role (G Center)
-- [[Gate 09 - The Taming Power of the Small]] — Focus and concentration (Sacral)
-- [[Gate 15 - Modesty]] — Love of humanity through extremes (G Center)
-- [[Gate 16 - Enthusiasm]] — Skill through repetition (Throat)
-- [[Gate 17 - Following]] — Mental organization of opinions (Ajna)
-- [[Gate 62 - Preponderance of the Small]] — Detail orientation (Throat)
-- [[Gate 63 - After Completion]] — Doubt and questioning (Head)
+- Gate 04 - Youthful Folly — Mental formulization (Ajna)
+- Gate 05 - Waiting — Fixed patterns and timing (Sacral)
+- Gate 07 - The Army — Leadership role (G Center)
+- Gate 09 - The Taming Power of the Small — Focus and concentration (Sacral)
+- Gate 15 - Modesty — Love of humanity through extremes (G Center)
+- Gate 16 - Enthusiasm — Skill through repetition (Throat)
+- Gate 17 - Following — Mental organization of opinions (Ajna)
+- Gate 62 - Preponderance of the Small — Detail orientation (Throat)
+- Gate 63 - After Completion — Doubt and questioning (Head)
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 18 - Work on What Has Been Spoilt]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 18 - Judgement to Perfection]] — Richard Rudd's shadow-gift-siddhi framework for Gate 18
-- [[Justice (Tarot)]] — Resonance with balance and correction
+- I-Ching Hexagram 18 - Work on What Has Been Spoilt — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 18 - Judgement to Perfection — Richard Rudd's shadow-gift-siddhi framework for Gate 18
+- [[Justice (XI)]] — Resonance with balance and correction
 - Geburah (Qabalah) — The Sephirah of severity and necessary destruction
 - Saturn — The planet of structure and correction through time
 
 ### Thematic Collections
 - Gates of the Spleen Center — All gates within the survival/immune center
 - Collective Circuit Gates — All gates within the Collective stream
-- [[Gates of Correction and Integrity]] — Gates specifically related to restoration
-- [[Gates of Authority Challenge]] — Gates that question and correct power structures
+- Gates of Correction and Integrity — Gates specifically related to restoration
+- Gates of Authority Challenge — Gates that question and correct power structures
 
 ### Archetypal and Mythological
 - The Reformer Archetype — The pattern of challenging corruption

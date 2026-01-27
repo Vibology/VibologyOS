@@ -306,27 +306,27 @@ Gate 22 teaches that **true grace is not performance but presence**. When the in
 ## Cross-References
 
 ### Sequential Connections (Within Solar Plexus Gates)
-- [[Gate 06 - Conflict]] — Friction and intimacy, emotional regulation
-- [[Gate 30 - The Clinging Fire]] — Feelings and desire, emotional intensity
-- [[Gate 36 - Darkening of the Light]] — Crisis and emotional depth
-- [[Gate 37 - The Family]] — Friendship and tribal bargains
-- [[Gate 49 - Revolution]] — Principles and emotional sensitivity to injustice
-- [[Gate 55 - Abundance]] — Emotional spirit and mood
+- Gate 06 - Conflict — Friction and intimacy, emotional regulation
+- Gate 30 - The Clinging Fire — Feelings and desire, emotional intensity
+- Gate 36 - Darkening of the Light — Crisis and emotional depth
+- Gate 37 - The Family — Friendship and tribal bargains
+- Gate 49 - Revolution — Principles and emotional sensitivity to injustice
+- Gate 55 - Abundance — Emotional spirit and mood
 
 ### Channel Connections
-- [[Channel 22-12 - Openness]] — The full electromagnetic connection from grace (Solar Plexus) to caution (Throat)
-- [[Gate 12 - Standstill]] — The harmonic partner that provides verbal restraint and mutative voice to Gate 22's grace
+- Channel 22-12 - Openness — The full electromagnetic connection from grace (Solar Plexus) to caution (Throat)
+- Gate 12 - Standstill — The harmonic partner that provides verbal restraint and mutative voice to Gate 22's grace
 
 ### Circuit Connections (Individual Knowing)
-- [[Gate 12 - Standstill]] — Caution and mutative voice
-- [[Gate 23 - Splitting Apart]] — Assimilation and individual knowing
-- [[Gate 24 - The Return]] — Rationalization and mental renewal
-- [[Gate 43 - Breakthrough]] — Insight and the inner ear
-- [[Gate 39 - Obstruction]] — Provocation and spirit
+- Gate 12 - Standstill — Caution and mutative voice
+- Gate 23 - Splitting Apart — Assimilation and individual knowing
+- Gate 24 - The Return — Rationalization and mental renewal
+- Gate 43 - Breakthrough — Insight and the inner ear
+- Gate 39 - Obstruction — Provocation and spirit
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 22 - Grace]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 22 - Dishonour to Grace]] — Richard Rudd's shadow-gift-siddhi framework for Gate 22
+- I-Ching Hexagram 22 - Grace — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 22 - Dishonour to Grace — Richard Rudd's shadow-gift-siddhi framework for Gate 22
 - [[The Empress (III)]] — Archetypal beauty, receptivity, and nurturing presence
 - [[Temperance (XIV)]] — Alchemical balance and grace
 - [[Tiphareth]] — The Sephirah of Beauty and harmonic balance
@@ -336,8 +336,8 @@ Gate 22 teaches that **true grace is not performance but presence**. When the in
 ### Thematic Collections
 - Gates of the Solar Plexus Center — All gates within the Emotional Awareness center
 - Individual Circuit Gates — All gates within the Individual stream
-- [[Gates of Emotional Intelligence]] — Gates related to feeling, presence, and sensitivity
-- [[Gates of Social Navigation]] — Gates that facilitate connection and interaction
+- Gates of Emotional Intelligence — Gates related to feeling, presence, and sensitivity
+- Gates of Social Navigation — Gates that facilitate connection and interaction
 
 ### Archetypal and Mythological
 - The Host/Hostess Archetype — The figure who creates space through presence
@@ -347,7 +347,7 @@ Gate 22 teaches that **true grace is not performance but presence**. When the in
 
 ### Biological and Somatic
 - [[Solar Plexus]] — The center of emotional awareness and sensitivity
-- [[Kidneys and Emotional Processing]] — Biological correlation with fear and boundaries
+- Kidneys and Emotional Processing — Biological correlation with fear and boundaries
 - [[Nervous System Sensitivity]] — Energetic correlation with emotional reactivity
 
 ### Practical Application

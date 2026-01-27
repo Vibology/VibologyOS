@@ -317,29 +317,29 @@ Gate 7 teaches that **leadership is a role, not an identity**. When the individu
 ## Cross-References
 
 ### Sequential Connections (Within G Center Gates)
-- [[Gate 01 - The Creative]] — Creative force and self-expression
-- [[Gate 02 - The Receptive]] — Receptive directional force
-- [[Gate 10 - Treading]] — Behavior of self in interaction
-- [[Gate 13 - The Fellowship of Man]] — The listener who receives collective stories
-- [[Gate 15 - Modesty]] — Love of humanity through balanced extremes
-- [[Gate 25 - Innocence]] — The spirit of self, universal love
+- Gate 01 - The Creative — Creative force and self-expression
+- Gate 02 - The Receptive — Receptive directional force
+- Gate 10 - Treading — Behavior of self in interaction
+- Gate 13 - The Fellowship of Man — The listener who receives collective stories
+- Gate 15 - Modesty — Love of humanity through balanced extremes
+- Gate 25 - Innocence — The spirit of self, universal love
 
 ### Channel Connections
-- [[Channel 7-31 - The Alpha (Leadership)]] — The full electromagnetic connection from role-based identity (G) to influential voice (Throat)
-- [[Gate 31 - Influence]] — The harmonic partner that provides the voice and influence to lead
+- Channel 7-31 - The Alpha (Leadership) — The full electromagnetic connection from role-based identity (G) to influential voice (Throat)
+- Gate 31 - Influence — The harmonic partner that provides the voice and influence to lead
 
 ### Circuit Connections (Collective Logic)
-- [[Gate 04 - Youthful Folly]] — Mental formulation through uncertainty (Ajna)
-- [[Gate 05 - Waiting]] — Fixed patterns and natural rhythms (Sacral)
-- [[Gate 09 - The Taming Power of the Small]] — Focus and detailed attention (Sacral)
-- [[Gate 16 - Enthusiasm]] — Skills and talent through repetition (Throat)
-- [[Gate 17 - Following]] — Opinions and mental organization (Ajna)
-- [[Gate 18 - Work on What Has Been Spoilt]] — Correction and judgment (Spleen)
-- [[Gate 62 - Preponderance of the Small]] — Details and organizational thinking (Throat)
+- Gate 04 - Youthful Folly — Mental formulation through uncertainty (Ajna)
+- Gate 05 - Waiting — Fixed patterns and natural rhythms (Sacral)
+- Gate 09 - The Taming Power of the Small — Focus and detailed attention (Sacral)
+- Gate 16 - Enthusiasm — Skills and talent through repetition (Throat)
+- Gate 17 - Following — Opinions and mental organization (Ajna)
+- Gate 18 - Work on What Has Been Spoilt — Correction and judgment (Spleen)
+- Gate 62 - Preponderance of the Small — Details and organizational thinking (Throat)
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 7 - The Army]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 07 - Division to Virtue]] — Richard Rudd's shadow-gift-siddhi framework for Gate 7
+- I-Ching Hexagram 7 - The Army — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 07 - Division to Virtue — Richard Rudd's shadow-gift-siddhi framework for Gate 7
 - [[The Emperor (IV)]] — Resonance with structure, order, and authority
 - Chesed (Qabalah) — Mercy, benevolent authority
 - Saturn — Planet of structure, authority, and roles
@@ -347,8 +347,8 @@ Gate 7 teaches that **leadership is a role, not an identity**. When the individu
 ### Thematic Collections
 - Gates of the G Center — All eight gates within the Identity/Direction center
 - Collective Circuit Gates — All gates within the Collective stream
-- [[Gates of Leadership]] — Gates specifically related to guiding and organizing
-- [[Gates of Role and Identity]] — Gates carrying the capacity to recognize one's place in the collective
+- Gates of Leadership — Gates specifically related to guiding and organizing
+- Gates of Role and Identity — Gates carrying the capacity to recognize one's place in the collective
 
 ### Archetypal and Mythological
 - The King Archetype — The ruler who serves the people

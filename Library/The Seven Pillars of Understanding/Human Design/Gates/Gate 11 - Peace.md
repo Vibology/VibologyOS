@@ -306,33 +306,33 @@ Gate 11 teaches that **authentic ideas cannot be forced or manufactured**. When 
 ## Cross-References
 
 ### Sequential Connections (Within Ajna Gates)
-- [[Gate 17 - Following]] — Opinions seeking to become accepted patterns
-- [[Gate 24 - The Return]] — Rationalization, mental return to truth
-- [[Gate 43 - Breakthrough]] — Individual knowing expressed as insight
-- [[Gate 47 - Oppression]] — Mental pressure, abstract confusion
-- [[Gate 61 - Inner Truth]] — Mystery, unknowable knowing
+- Gate 17 - Following — Opinions seeking to become accepted patterns
+- Gate 24 - The Return — Rationalization, mental return to truth
+- Gate 43 - Breakthrough — Individual knowing expressed as insight
+- Gate 47 - Oppression — Mental pressure, abstract confusion
+- Gate 61 - Inner Truth — Mystery, unknowable knowing
 
 ### Channel Connections
-- [[Channel 11-56 - Curiosity]] — The full electromagnetic connection from mental ideation (Ajna) to storytelling (Throat)
-- [[Gate 56 - The Wanderer]] — The harmonic partner that gives voice to Gate 11's ideas
+- Channel 11-56 - Curiosity — The full electromagnetic connection from mental ideation (Ajna) to storytelling (Throat)
+- Gate 56 - The Wanderer — The harmonic partner that gives voice to Gate 11's ideas
 
 ### Circuit Connections (Individual Knowing)
-- [[Gate 01 - The Creative]] — Creative direction (G Center) seeking expression
-- [[Gate 08 - Holding Together]] — Individual contribution (Throat)
-- [[Gate 10 - Treading]] — Behavior of the self (G Center)
-- [[Gate 12 - Standstill]] — Mutative voice, caution (Throat)
-- [[Gate 13 - The Fellowship of Man]] — Listening to collective stories (G Center)
+- Gate 01 - The Creative — Creative direction (G Center) seeking expression
+- Gate 08 - Holding Together — Individual contribution (Throat)
+- Gate 10 - Treading — Behavior of the self (G Center)
+- Gate 12 - Standstill — Mutative voice, caution (Throat)
+- Gate 13 - The Fellowship of Man — Listening to collective stories (G Center)
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 11 - Peace]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 11 - Obscurity to Light]] — Richard Rudd's shadow-gift-siddhi framework for Gate 11
+- I-Ching Hexagram 11 - Peace — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 11 - Obscurity to Light — Richard Rudd's shadow-gift-siddhi framework for Gate 11
 - [[The High Priestess (II)]] — Resonance with hidden knowledge and esoteric wisdom
 - [[Chokmah]] — The Sephirah of Wisdom, pure ideation
 
 ### Thematic Collections
 - Gates of the Ajna Center — All gates within the Mind/Conceptualization center
 - Individual Circuit Gates — All gates within the Individual stream
-- [[Gates of Mental Pressure]] — Gates that create mental pressure or stimulation
+- Gates of Mental Pressure — Gates that create mental pressure or stimulation
 - Gates of Mutation — Gates carrying the mutative, empowering frequency
 
 ### Archetypal and Mythological
@@ -349,7 +349,7 @@ Gate 11 teaches that **authentic ideas cannot be forced or manufactured**. When 
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - Defined vs. Undefined Centers — Understanding fixed vs. variable mental energy
 - The 7-Year Deconditioning Cycle — The process of returning to authentic mental design
-- [[Individual Empowerment vs. Collective Leadership]] — Distinguishing Individual from Tribal/Collective mental roles
+- Individual Empowerment vs. Collective Leadership — Distinguishing Individual from Tribal/Collective mental roles
 
 ---
 

@@ -306,33 +306,33 @@ Gate 21 teaches that **true power is justified power**. When the individual hono
 ## Cross-References
 
 ### Sequential Connections (Within Ego Center Gates)
-- [[Gate 26 - The Taming Power of the Great]] — The Egoist/Trickster, memory as resource
-- [[Gate 40 - Deliverance]] — Willpower to provide and rest, aloneness as strength
-- [[Gate 51 - The Arousing]] — Competitive willpower, initiation through shock
+- Gate 26 - The Taming Power of the Great — The Egoist/Trickster, memory as resource
+- Gate 40 - Deliverance — Willpower to provide and rest, aloneness as strength
+- Gate 51 - The Arousing — Competitive willpower, initiation through shock
 
 ### Channel Connections
-- [[Channel 21-45 - The Money Line]] — The full electromagnetic connection from control (Ego) to tribal voice (Throat)
-- [[Gate 45 - The Gatherer]] — The harmonic partner that provides voice and gathering power to Gate 21's control
+- Channel 21-45 - The Money Line — The full electromagnetic connection from control (Ego) to tribal voice (Throat)
+- Gate 45 - The Gatherer — The harmonic partner that provides voice and gathering power to Gate 21's control
 
 ### Circuit Connections (Tribal Ego)
-- [[Gate 26 - The Taming Power of the Great]] — Ego willpower through memory and influence
-- [[Gate 40 - Deliverance]] — Ego willpower through provision and rest
-- [[Gate 51 - The Arousing]] — Ego willpower through competition and initiation
+- Gate 26 - The Taming Power of the Great — Ego willpower through memory and influence
+- Gate 40 - Deliverance — Ego willpower through provision and rest
+- Gate 51 - The Arousing — Ego willpower through competition and initiation
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 21 - Biting Through]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 21 - Control to Valour]] — Richard Rudd's shadow-gift-siddhi framework for Gate 21
-- [[Justice (Tarot)]] — Archetypal enforcement and cosmic balance
+- I-Ching Hexagram 21 - Biting Through — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 21 - Control to Valour — Richard Rudd's shadow-gift-siddhi framework for Gate 21
+- [[Justice (XI)]] — Archetypal enforcement and cosmic balance
 - [[The Emperor (IV)]] — Sovereign control and material authority
 - Geburah (Qabalah) — The Sephirah of Severity and disciplined power
-- [[Mars (Astrology)]] — The planet of action, enforcement, and will
+- [[Mars ♂]] — The planet of action, enforcement, and will
 - [[Pluto ♇]] — The planet of power, transformation, and control
 
 ### Thematic Collections
-- [[Gates of the Ego Center]] — All gates within the Willpower center
+- Gates of the Ego Center — All gates within the Willpower center
 - Tribal Circuit Gates — All gates within the Tribal stream
-- [[Gates of Control and Authority]] — Gates related to power and enforcement
-- [[Gates of Material Survival]] — Gates that manage resources and physical security
+- Gates of Control and Authority — Gates related to power and enforcement
+- Gates of Material Survival — Gates that manage resources and physical security
 
 ### Archetypal and Mythological
 - The King Archetype — The sovereign who controls the realm
@@ -341,15 +341,15 @@ Gate 21 teaches that **true power is justified power**. When the individual hono
 - [[The Hunter/Huntress]] — The primal archetype of control over resources
 
 ### Biological and Somatic
-- [[Heart (Ego) Center]] — The center of willpower and material commitment
-- [[Thymus and Immune System]] — The biological defense mechanism, enforcement at cellular level
+- [[Heart]] — The center of willpower and material commitment
+- Thymus and Immune System — The biological defense mechanism, enforcement at cellular level
 - [[Stomach and Gallbladder]] — Organs of digestion and control, processing material resources
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - [[Control vs. Authority]] — Distinguishing fear-based domination from natural authority
-- [[Tribal Bargains]] — The loyalty and support dynamics of the Tribal Circuit
+- Tribal Bargains — The loyalty and support dynamics of the Tribal Circuit
 
 ---
 

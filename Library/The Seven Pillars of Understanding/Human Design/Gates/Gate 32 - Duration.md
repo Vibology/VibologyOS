@@ -311,36 +311,36 @@ Gate 32 teaches that **endurance is not rigidity—it is adaptive wisdom**. When
 ## Cross-References
 
 ### Sequential Connections (Within Spleen Gates)
-- [[Gate 18 - Work on What Has Been Spoilt]] — Correction and integrity
-- [[Gate 28 - Preponderance of the Great]] — Risk and the game player
-- [[Gate 44 - Coming to Meet]] — Alertness to patterns and memory
-- [[Gate 48 - The Well]] — Depth and competence
-- [[Gate 50 - The Cauldron]] — Values and preservation
-- [[Gate 57 - The Gentle]] — Intuitive clarity in the now
+- Gate 18 - Work on What Has Been Spoilt — Correction and integrity
+- Gate 28 - Preponderance of the Great — Risk and the game player
+- Gate 44 - Coming to Meet — Alertness to patterns and memory
+- Gate 48 - The Well — Depth and competence
+- Gate 50 - The Cauldron — Values and preservation
+- Gate 57 - The Gentle — Intuitive clarity in the now
 
 ### Channel Connections
-- [[Channel 32-54 - Transformation]] — The full electromagnetic connection from survival intuition (Spleen) to ambition (Root)
-- [[Gate 54 - Ambition]] — The harmonic partner that provides the drive to transform position
+- Channel 32-54 - Transformation — The full electromagnetic connection from survival intuition (Spleen) to ambition (Root)
+- Gate 54 - Ambition — The harmonic partner that provides the drive to transform position
 
 ### Circuit Connections (Tribal Ego)
-- [[Gate 19 - Approach]] — The pressure to be needed and approach (Root)
-- [[Gate 21 - Biting Through]] — Control and the hunter/huntress (Heart/Ego)
-- [[Gate 26 - The Taming Power of the Great]] — The egoist and memory (Heart/Ego)
-- [[Gate 40 - Deliverance]] — The will to provide and rest (Heart/Ego)
-- [[Gate 45 - Gathering Together]] — The king/queen and tribal leadership (Throat)
-- [[Gate 54 - Ambition]] — The drive to transform position (Root)
+- Gate 19 - Approach — The pressure to be needed and approach (Root)
+- Gate 21 - Biting Through — Control and the hunter/huntress (Heart/Ego)
+- Gate 26 - The Taming Power of the Great — The egoist and memory (Heart/Ego)
+- Gate 40 - Deliverance — The will to provide and rest (Heart/Ego)
+- Gate 45 - Gathering Together — The king/queen and tribal leadership (Throat)
+- Gate 54 - Ambition — The drive to transform position (Root)
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 32 - Duration]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 32 - Failure to Veneration]] — Richard Rudd's shadow-gift-siddhi framework for Gate 32
+- I-Ching Hexagram 32 - Duration — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 32 - Failure to Veneration — Richard Rudd's shadow-gift-siddhi framework for Gate 32
 - [[The Four of Pentacles (Tarot)]] — Resonance with conservation and fear of material loss
 - Geburah (Qabalah) — Severity, discernment, pruning what does not serve
 
 ### Thematic Collections
 - Gates of the Spleen Center — All seven gates within the survival/intuition center
 - Tribal Circuit Gates — All gates within the Tribal stream (Ego and Defense)
-- [[Gates of Survival]] — Gates specifically related to existential continuity and preservation
-- [[Gates of Fear]] — Splenic gates carrying survival-based fear awareness
+- Gates of Survival — Gates specifically related to existential continuity and preservation
+- Gates of Fear — Splenic gates carrying survival-based fear awareness
 
 ### Archetypal and Mythological
 - The Conservator Archetype — Preserving what is valuable through strategic caution

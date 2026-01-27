@@ -305,32 +305,32 @@ Gate 17 teaches that **true authority comes from service to patterns**. When the
 ## Cross-References
 
 ### Sequential Connections (Within Ajna Gates)
-- [[Gate 04 - Youthful Folly]] — Mental formulization and doubt
-- [[Gate 11 - Peace]] — Ideas and reflection
-- [[Gate 17 - Following]] — Opinions and organization (current entry)
-- [[Gate 24 - The Return]] — Mental rationalization
-- [[Gate 43 - Breakthrough]] — Individual mental insight
-- [[Gate 47 - Oppression]] — Abstract mental pressure
-- [[Gate 61 - Inner Truth]] — Individual knowing and mystery
+- Gate 04 - Youthful Folly — Mental formulization and doubt
+- Gate 11 - Peace — Ideas and reflection
+- Gate 17 - Following — Opinions and organization (current entry)
+- Gate 24 - The Return — Mental rationalization
+- Gate 43 - Breakthrough — Individual mental insight
+- Gate 47 - Oppression — Abstract mental pressure
+- Gate 61 - Inner Truth — Individual knowing and mystery
 
 ### Channel Connections
-- [[Channel 17-62 - Acceptance]] — The full electromagnetic connection from mental opinion (Ajna) to detailed articulation (Throat)
-- [[Gate 62 - Preponderance of the Small]] — The harmonic partner that provides precise detail and expression
+- Channel 17-62 - Acceptance — The full electromagnetic connection from mental opinion (Ajna) to detailed articulation (Throat)
+- Gate 62 - Preponderance of the Small — The harmonic partner that provides precise detail and expression
 
 ### Circuit Connections (Collective Logic)
-- [[Gate 04 - Youthful Folly]] — Mental formulization (Ajna)
-- [[Gate 05 - Waiting]] — Fixed patterns and timing (Sacral)
-- [[Gate 07 - The Army]] — Leadership role (G Center)
-- [[Gate 09 - The Taming Power of the Small]] — Focus and concentration (Sacral)
-- [[Gate 15 - Modesty]] — Love of humanity through extremes (G Center)
-- [[Gate 16 - Enthusiasm]] — Skill through repetition (Throat)
-- [[Gate 18 - Work on What Has Been Spoilt]] — Correction and integrity (Spleen)
-- [[Gate 62 - Preponderance of the Small]] — Detail orientation (Throat)
-- [[Gate 63 - After Completion]] — Doubt and questioning (Head)
+- Gate 04 - Youthful Folly — Mental formulization (Ajna)
+- Gate 05 - Waiting — Fixed patterns and timing (Sacral)
+- Gate 07 - The Army — Leadership role (G Center)
+- Gate 09 - The Taming Power of the Small — Focus and concentration (Sacral)
+- Gate 15 - Modesty — Love of humanity through extremes (G Center)
+- Gate 16 - Enthusiasm — Skill through repetition (Throat)
+- Gate 18 - Work on What Has Been Spoilt — Correction and integrity (Spleen)
+- Gate 62 - Preponderance of the Small — Detail orientation (Throat)
+- Gate 63 - After Completion — Doubt and questioning (Head)
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 17 - Following]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 17 - Opinion to Omniscience]] — Richard Rudd's shadow-gift-siddhi framework for Gate 17
+- I-Ching Hexagram 17 - Following — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 17 - Opinion to Omniscience — Richard Rudd's shadow-gift-siddhi framework for Gate 17
 - [[The Emperor (IV)]] — Resonance with organizational structure and law
 - Hod (Qabalah) — The Sephirah of pattern recognition and intellectual form
 - Mercury — The planet of intellect and communication
@@ -338,7 +338,7 @@ Gate 17 teaches that **true authority comes from service to patterns**. When the
 ### Thematic Collections
 - Gates of the Ajna Center — All gates within the awareness/conceptualization center
 - Collective Circuit Gates — All gates within the Collective stream
-- [[Gates of Mental Organization]] — Gates specifically related to framework formation
+- Gates of Mental Organization — Gates specifically related to framework formation
 - Gates of Pattern Recognition — Gates that observe and organize patterns
 
 ### Archetypal and Mythological
@@ -356,7 +356,7 @@ Gate 17 teaches that **true authority comes from service to patterns**. When the
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - Defined vs. Undefined Centers — Understanding fixed vs. variable energy in the bodygraph
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
-- [[Collective Pattern Sharing]] — How the Collective Logic Circuit disseminates knowledge
+- Collective Pattern Sharing — How the Collective Logic Circuit disseminates knowledge
 
 ---
 

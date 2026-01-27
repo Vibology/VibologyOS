@@ -323,33 +323,33 @@ Gate 34 teaches that **power is only great when it serves**. When the individual
 ## Cross-References
 
 ### Sequential Connections (Within Sacral Gates)
-- [[Gate 03 - Difficulty at the Beginning]] — Ordering chaos, mutation
-- [[Gate 05 - Waiting]] — Fixed rhythms and patterns
-- [[Gate 09 - The Taming Power of the Small]] — Focus and detail
-- [[Gate 14 - Possession in Great Measure]] — Power skills and resources
-- [[Gate 27 - Nourishment]] — Caring and nurturing
-- [[Gate 29 - Perseverance]] — Saying yes, commitment
-- [[Gate 42 - Increase]] — Growth and completion
-- [[Gate 59 - Dispersion]] — Intimacy and bonding
+- Gate 03 - Difficulty at the Beginning — Ordering chaos, mutation
+- Gate 05 - Waiting — Fixed rhythms and patterns
+- Gate 09 - The Taming Power of the Small — Focus and detail
+- Gate 14 - Possession in Great Measure — Power skills and resources
+- Gate 27 - Nourishment — Caring and nurturing
+- Gate 29 - Perseverance — Saying yes, commitment
+- Gate 42 - Increase — Growth and completion
+- Gate 59 - Dispersion — Intimacy and bonding
 
 ### Channel Connections
-- [[Channel 34-57 - Power]] — Intuitive power in the now
-- [[Channel 34-20 - Charisma]] — Manifested power through presence (via Gate 10)
-- [[Channel 34-10 - Treading]] — Self-empowered behavior
-- [[Gate 57 - The Gentle]] — Splenic clarity for power
-- [[Gate 20 - Contemplation]] — The now, manifestation
-- [[Gate 10 - Treading]] — Behavior of self, self-love
+- Channel 34-57 - Power — Intuitive power in the now
+- Channel 34-20 - Charisma — Manifested power through presence (via Gate 10)
+- Channel 34-10 - Treading — Self-empowered behavior
+- Gate 57 - The Gentle — Splenic clarity for power
+- Gate 20 - Contemplation — The now, manifestation
+- Gate 10 - Treading — Behavior of self, self-love
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 34 - The Power of the Great]] — The source hexagram
-- [[Gene Keys 34 - Force to Majesty]] — Shadow-gift-siddhi framework
+- I-Ching Hexagram 34 - The Power of the Great — The source hexagram
+- Gene Keys 34 - Force to Majesty — Shadow-gift-siddhi framework
 - [[Strength (VIII)]] — Power as mastery, not domination
 - Geburah (Qabalah) — Severity, strength, disciplined power
 
 ### Thematic Collections
 - Gates of the Sacral Center — All nine gates within the life-force motor
-- [[Integration Circuit Gates]] — Gates 10, 20, 34, 57
-- [[Gates of Power]] — Gates carrying empowerment energy
+- Integration Circuit Gates — Gates 10, 20, 34, 57
+- Gates of Power — Gates carrying empowerment energy
 - [[Sexual/Generative Gates]] — Gates related to life-force and sexuality
 
 ### Biological and Somatic

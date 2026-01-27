@@ -308,40 +308,40 @@ Gate 59 teaches that **intimacy is sacred**. When the individual honors their se
 ## Cross-References
 
 ### Sequential Connections (Within Sacral Center Gates)
-- [[Gate 03 - Difficulty at the Beginning]] — Ordering and mutation
-- [[Gate 05 - Waiting]] — Fixed patterns and rhythms
-- [[Gate 09 - The Taming Power of the Small]] — Focus and detail
-- [[Gate 14 - Possession in Great Measure]] — Power skills and resources
-- [[Gate 27 - Nourishment]] — Caring and responsibility
-- [[Gate 29 - The Abysmal]] — Commitment and saying yes
-- [[Gate 34 - The Power of the Great]] — Power and strength
-- [[Gate 42 - Increase]] — Growth and completion
+- Gate 03 - Difficulty at the Beginning — Ordering and mutation
+- Gate 05 - Waiting — Fixed patterns and rhythms
+- Gate 09 - The Taming Power of the Small — Focus and detail
+- Gate 14 - Possession in Great Measure — Power skills and resources
+- Gate 27 - Nourishment — Caring and responsibility
+- Gate 29 - The Abysmal — Commitment and saying yes
+- Gate 34 - The Power of the Great — Power and strength
+- Gate 42 - Increase — Growth and completion
 
 ### Channel Connections
-- [[Channel 59-6 - Mating]] — Sacral to Solar Plexus (intimacy and emotional bonding)
-- [[Gate 6 - Conflict]] — Friction and emotional clarity (Solar Plexus Center)
+- Channel 59-6 - Mating — Sacral to Solar Plexus (intimacy and emotional bonding)
+- Gate 6 - Conflict — Friction and emotional clarity (Solar Plexus Center)
 
 ### Circuit Connections (Tribal Defense)
-- [[Gate 19 - Approach]] — Sensitivity to needs (Root)
-- [[Gate 27 - Nourishment]] — Caring for others (Sacral)
-- [[Gate 37 - The Family]] — Bargaining and family bonds (Solar Plexus)
-- [[Gate 40 - Deliverance]] — Aloneness and work (Heart/Will)
-- [[Gate 44 - Coming to Meet]] — Instinctive memory (Spleen)
-- [[Gate 49 - Revolution]] — Principles and rejection (Solar Plexus)
-- [[Gate 50 - The Cauldron]] — Values and responsibility (Spleen)
-- [[Gate 6 - Conflict]] — Friction in intimacy (Solar Plexus)
+- Gate 19 - Approach — Sensitivity to needs (Root)
+- Gate 27 - Nourishment — Caring for others (Sacral)
+- Gate 37 - The Family — Bargaining and family bonds (Solar Plexus)
+- Gate 40 - Deliverance — Aloneness and work (Heart/Will)
+- Gate 44 - Coming to Meet — Instinctive memory (Spleen)
+- Gate 49 - Revolution — Principles and rejection (Solar Plexus)
+- Gate 50 - The Cauldron — Values and responsibility (Spleen)
+- Gate 6 - Conflict — Friction in intimacy (Solar Plexus)
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 59 - Dispersion]] — Source hexagram and traditional interpretation
-- [[Gene Keys 59 - Dishonesty to Transparency]] — Shadow-gift-siddhi framework
+- I-Ching Hexagram 59 - Dispersion — Source hexagram and traditional interpretation
+- Gene Keys 59 - Dishonesty to Transparency — Shadow-gift-siddhi framework
 - [[The Lovers (VI)]] — Resonance with union and choice
 - [[Yesod]] — Foundation, sexuality, generation
 
 ### Thematic Collections
 - Gates of the Sacral Center — All gates within Life Force center
 - Tribal Circuit Gates — All gates within Tribal stream
-- [[Defense Circuit Gates]] — All gates within Defense stream
-- [[Gates of Sexuality]] — Gates related to bonding and intimacy
+- Defense Circuit Gates — All gates within Defense stream
+- Gates of Sexuality — Gates related to bonding and intimacy
 
 ### Archetypal and Mythological
 - The Lover Archetype — Pattern of union and intimacy

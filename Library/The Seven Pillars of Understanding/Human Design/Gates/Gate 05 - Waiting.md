@@ -314,31 +314,31 @@ Gate 5 teaches that **timing is everything**. When the individual honors their S
 ## Cross-References
 
 ### Sequential Connections (Within Sacral Gates)
-- [[Gate 03 - Difficulty at the Beginning]] — Ordering through chaos (Individual Knowing)
-- [[Gate 09 - The Taming Power of the Small]] — Focus and detailed attention (Collective Logic)
-- [[Gate 14 - Possession in Great Measure]] — Power skills and accumulation (Individual Knowing)
-- [[Gate 27 - Nourishment]] — Caring and enhancement of quality (Tribal Defense)
-- [[Gate 29 - The Abysmal]] — Commitment and saying yes (Collective Sensing)
-- [[Gate 34 - The Power of the Great]] — Raw power and strength (Integration)
-- [[Gate 42 - Increase]] — Growth and expansion (Tribal Ego)
-- [[Gate 59 - Dispersion]] — Intimacy and breaking down barriers (Tribal Defense)
+- Gate 03 - Difficulty at the Beginning — Ordering through chaos (Individual Knowing)
+- Gate 09 - The Taming Power of the Small — Focus and detailed attention (Collective Logic)
+- Gate 14 - Possession in Great Measure — Power skills and accumulation (Individual Knowing)
+- Gate 27 - Nourishment — Caring and enhancement of quality (Tribal Defense)
+- Gate 29 - The Abysmal — Commitment and saying yes (Collective Sensing)
+- Gate 34 - The Power of the Great — Raw power and strength (Integration)
+- Gate 42 - Increase — Growth and expansion (Tribal Ego)
+- Gate 59 - Dispersion — Intimacy and breaking down barriers (Tribal Defense)
 
 ### Channel Connections
-- [[Channel 5-15 - Rhythm (Being in the Flow)]] — The full electromagnetic connection from Sacral rhythm to G Center love of humanity
-- [[Gate 15 - Modesty]] — The harmonic partner that brings directional love through honoring extremes
+- Channel 5-15 - Rhythm (Being in the Flow) — The full electromagnetic connection from Sacral rhythm to G Center love of humanity
+- Gate 15 - Modesty — The harmonic partner that brings directional love through honoring extremes
 
 ### Circuit Connections (Collective Logic)
-- [[Gate 04 - Youthful Folly]] — Mental formulation through uncertainty (Ajna)
-- [[Gate 07 - The Army]] — Role of self in leadership (G Center)
-- [[Gate 09 - The Taming Power of the Small]] — Focus and detailed attention (Sacral)
-- [[Gate 16 - Enthusiasm]] — Skills and talent through repetition (Throat)
-- [[Gate 17 - Following]] — Opinions and mental organization (Ajna)
-- [[Gate 18 - Work on What Has Been Spoilt]] — Correction and judgment (Spleen)
-- [[Gate 62 - Preponderance of the Small]] — Details and organizational thinking (Throat)
+- Gate 04 - Youthful Folly — Mental formulation through uncertainty (Ajna)
+- Gate 07 - The Army — Role of self in leadership (G Center)
+- Gate 09 - The Taming Power of the Small — Focus and detailed attention (Sacral)
+- Gate 16 - Enthusiasm — Skills and talent through repetition (Throat)
+- Gate 17 - Following — Opinions and mental organization (Ajna)
+- Gate 18 - Work on What Has Been Spoilt — Correction and judgment (Spleen)
+- Gate 62 - Preponderance of the Small — Details and organizational thinking (Throat)
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 5 - Waiting]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 05 - Impatience to Timelessness]] — Richard Rudd's shadow-gift-siddhi framework for Gate 5
+- I-Ching Hexagram 5 - Waiting — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 05 - Impatience to Timelessness — Richard Rudd's shadow-gift-siddhi framework for Gate 5
 - [[The Hermit (IX)]] — Resonance with patient withdrawal and awaiting illumination
 - Binah (Qabalah) — Understanding through time and cycles
 - Saturn — Planet of timing, structure, and natural law
@@ -346,8 +346,8 @@ Gate 5 teaches that **timing is everything**. When the individual honors their S
 ### Thematic Collections
 - Gates of the Sacral Center — All nine gates within the Life Force center
 - Collective Circuit Gates — All gates within the Collective stream
-- [[Gates of Rhythm and Timing]] — Gates specifically related to natural cycles
-- [[Gates of Patience]] — Gates carrying the capacity to wait
+- Gates of Rhythm and Timing — Gates specifically related to natural cycles
+- Gates of Patience — Gates carrying the capacity to wait
 
 ### Archetypal and Mythological
 - [[The Keeper of Cycles]] — Archetypal pattern of honoring natural rhythms
@@ -357,8 +357,8 @@ Gate 5 teaches that **timing is everything**. When the individual honors their S
 
 ### Biological and Somatic
 - [[Sacral]] — The center of life force, fertility, and response
-- [[Circadian Rhythms (Biology)]] — Daily cycles of energy and rest
-- [[Hormonal Cycles (Biology)]] — Menstrual, testosterone, and other hormonal patterns
+- Circadian Rhythms — Daily cycles of energy and rest
+- Hormonal Cycles — Menstrual, testosterone, and other hormonal patterns
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework

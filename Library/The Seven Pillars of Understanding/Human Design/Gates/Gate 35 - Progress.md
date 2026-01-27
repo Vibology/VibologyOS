@@ -302,48 +302,48 @@ Gate 35 teaches that **progress requires movement**. When the individual honors 
 ## Cross-References
 
 ### Sequential Connections (Within Throat Gates)
-- [[Gate 08 - Holding Together]] — Individual contribution
-- [[Gate 12 - Standstill]] — Mutative caution
-- [[Gate 16 - Enthusiasm]] — Skill through repetition
-- [[Gate 20 - Contemplation]] — The now
-- [[Gate 23 - Splitting Apart]] — Assimilation
-- [[Gate 31 - Influence]] — Democratic leadership
-- [[Gate 33 - Retreat]] — Privacy and memory
-- [[Gate 45 - Gathering Together]] — Tribal leadership
-- [[Gate 56 - The Wanderer]] — Stimulation
-- [[Gate 62 - Preponderance of the Small]] — Details
+- Gate 08 - Holding Together — Individual contribution
+- Gate 12 - Standstill — Mutative caution
+- Gate 16 - Enthusiasm — Skill through repetition
+- Gate 20 - Contemplation — The now
+- Gate 23 - Splitting Apart — Assimilation
+- Gate 31 - Influence — Democratic leadership
+- Gate 33 - Retreat — Privacy and memory
+- Gate 45 - Gathering Together — Tribal leadership
+- Gate 56 - The Wanderer — Stimulation
+- Gate 62 - Preponderance of the Small — Details
 
 ### Channel Connections
-- [[Channel 35-36 - Transitoriness]] — Experiential hunger to emotional crisis
-- [[Gate 36 - Darkening of the Light]] — Emotional depth of experience
+- Channel 35-36 - Transitoriness — Experiential hunger to emotional crisis
+- Gate 36 - Darkening of the Light — Emotional depth of experience
 
 ### Circuit Connections (Collective Abstract/Sensing)
-- [[Gate 06 - Conflict]] — Emotional friction
-- [[Gate 11 - Peace]] — Ideas and reflection
-- [[Gate 22 - Grace]] — Emotional openness
-- [[Gate 29 - Perseverance]] — Saying yes
-- [[Gate 30 - The Clinging Fire]] — Emotional desire
-- [[Gate 36 - Darkening of the Light]] — Crisis
-- [[Gate 37 - The Family]] — Friendship
-- [[Gate 41 - Decrease]] — Fantasy and desire
-- [[Gate 42 - Increase]] — Completion
-- [[Gate 46 - Pushing Upward]] — Serendipity
-- [[Gate 47 - Oppression]] — Realization
-- [[Gate 49 - Revolution]] — Principles
-- [[Gate 55 - Abundance]] — Spirit
-- [[Gate 56 - The Wanderer]] — Stimulation
+- Gate 06 - Conflict — Emotional friction
+- Gate 11 - Peace — Ideas and reflection
+- Gate 22 - Grace — Emotional openness
+- Gate 29 - Perseverance — Saying yes
+- Gate 30 - The Clinging Fire — Emotional desire
+- Gate 36 - Darkening of the Light — Crisis
+- Gate 37 - The Family — Friendship
+- Gate 41 - Decrease — Fantasy and desire
+- Gate 42 - Increase — Completion
+- Gate 46 - Pushing Upward — Serendipity
+- Gate 47 - Oppression — Realization
+- Gate 49 - Revolution — Principles
+- Gate 55 - Abundance — Spirit
+- Gate 56 - The Wanderer — Stimulation
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 35 - Progress]] — The source hexagram
-- [[Gene Keys 35 - Hunger to Boundlessness]] — Shadow-gift-siddhi framework
+- I-Ching Hexagram 35 - Progress — The source hexagram
+- Gene Keys 35 - Hunger to Boundlessness — Shadow-gift-siddhi framework
 - [[The Fool (0)]] — Adventure, new experience
 - [[Chokmah]] — Wisdom through exploration
 
 ### Thematic Collections
 - Gates of the Throat Center — All eleven gates
 - Collective Circuit Gates — Logic and Abstract
-- [[Gates of Experience]] — Learning through living
-- [[Gates of Change]] — Evolution and progress
+- Gates of Experience — Learning through living
+- Gates of Change — Evolution and progress
 
 ### Biological and Somatic
 - [[Throat]] — Manifestation and expression

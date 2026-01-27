@@ -303,36 +303,36 @@ Gate 40 teaches that **provision requires rest**. When the individual honors the
 ## Cross-References
 
 ### Sequential Connections (Within Heart/Ego Gates)
-- [[Gate 21 - Biting Through]] — Control, the hunter/huntress
-- [[Gate 26 - The Taming Power of the Great]] — The egoist, memory
-- [[Gate 40 - Deliverance]] — Provision and rest
-- [[Gate 51 - The Arousing]] — Initiation and shock (if considering G Center gates with Ego connection)
+- Gate 21 - Biting Through — Control, the hunter/huntress
+- Gate 26 - The Taming Power of the Great — The egoist, memory
+- Gate 40 - Deliverance — Provision and rest
+- Gate 51 - The Arousing — Initiation and shock (if considering G Center gates with Ego connection)
 
 ### Channel Connections
-- [[Channel 37-40 - Community]] — Emotional friendship to willful provision
-- [[Gate 37 - The Family]] — Tribal bonding and bargains
+- Channel 37-40 - Community — Emotional friendship to willful provision
+- Gate 37 - The Family — Tribal bonding and bargains
 
 ### Circuit Connections (Tribal Ego)
-- [[Gate 19 - Approach]] — Pressure to be needed (Root)
-- [[Gate 21 - Biting Through]] — Control (Heart/Ego)
-- [[Gate 26 - The Taming Power of the Great]] — Egoist (Heart/Ego)
-- [[Gate 32 - Duration]] — Continuity (Spleen)
-- [[Gate 37 - The Family]] — Friendship (Solar Plexus)
-- [[Gate 45 - Gathering Together]] — Leadership (Throat)
-- [[Gate 54 - Ambition]] — Transformation (Root)
+- Gate 19 - Approach — Pressure to be needed (Root)
+- Gate 21 - Biting Through — Control (Heart/Ego)
+- Gate 26 - The Taming Power of the Great — Egoist (Heart/Ego)
+- Gate 32 - Duration — Continuity (Spleen)
+- Gate 37 - The Family — Friendship (Solar Plexus)
+- Gate 45 - Gathering Together — Leadership (Throat)
+- Gate 54 - Ambition — Transformation (Root)
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 40 - Deliverance]] — The source hexagram
-- [[Gene Keys 40 - Exhaustion to Divine Will]] — Shadow-gift-siddhi framework
+- I-Ching Hexagram 40 - Deliverance — The source hexagram
+- Gene Keys 40 - Exhaustion to Divine Will — Shadow-gift-siddhi framework
 - [[Four of Pentacles (Tarot)]] — Material provision
 - [[The Hermit (IX)]] — Withdrawal, aloneness
 - [[Chesed and Geburah (Qabalah)]] — Mercy and severity in provision
 
 ### Thematic Collections
-- [[Gates of the Heart/Ego Center]] — All four will gates
+- Gates of the Heart/Ego Center — All four will gates
 - Tribal Circuit Gates — Ego and Defense circuits
-- [[Gates of Provision]] — Work and material support
-- [[Gates of Aloneness]] — Solitary restoration
+- Gates of Provision — Work and material support
+- Gates of Aloneness — Solitary restoration
 
 ### Archetypal and Mythological
 - The Provider Archetype — Working to ensure survival

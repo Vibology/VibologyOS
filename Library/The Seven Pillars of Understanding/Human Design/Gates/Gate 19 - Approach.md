@@ -305,31 +305,31 @@ Gate 19 teaches that **true sensitivity honors interdependence without losing se
 ## Cross-References
 
 ### Sequential Connections (Within Root Gates)
-- [[Gate 19 - Approach]] — Sensitivity to needs (current entry)
-- [[Gate 38 - Opposition]] — Individual struggle for meaning
-- [[Gate 39 - Obstruction]] — Individual provocation
-- [[Gate 41 - Decrease]] — Tribal pressure for new experience
-- [[Gate 52 - Keeping Still]] — Collective pressure for stillness
-- [[Gate 53 - Development]] — Tribal pressure to begin
-- [[Gate 54 - The Marrying Maiden]] — Tribal pressure for ambition
-- [[Gate 58 - The Joyous]] — Collective pressure for perfection
-- [[Gate 60 - Limitation]] — Individual pressure for mutation
+- Gate 19 - Approach — Sensitivity to needs (current entry)
+- Gate 38 - Opposition — Individual struggle for meaning
+- Gate 39 - Obstruction — Individual provocation
+- Gate 41 - Decrease — Tribal pressure for new experience
+- Gate 52 - Keeping Still — Collective pressure for stillness
+- Gate 53 - Development — Tribal pressure to begin
+- Gate 54 - The Marrying Maiden — Tribal pressure for ambition
+- Gate 58 - The Joyous — Collective pressure for perfection
+- Gate 60 - Limitation — Individual pressure for mutation
 
 ### Channel Connections
-- [[Channel 19-49 - Synthesis]] — The full electromagnetic connection from pressured approach (Root) to emotional relationship clarity (Solar Plexus)
-- [[Gate 49 - Revolution]] — The harmonic partner that provides emotional discernment about relationships
+- Channel 19-49 - Synthesis — The full electromagnetic connection from pressured approach (Root) to emotional relationship clarity (Solar Plexus)
+- Gate 49 - Revolution — The harmonic partner that provides emotional discernment about relationships
 
 ### Circuit Connections (Tribal Ego)
-- [[Gate 21 - Biting Through]] — Tribal control and authority (Ego)
-- [[Gate 26 - The Taming Power of the Great]] — Tribal memory and sales (Ego)
-- [[Gate 40 - Deliverance]] — Tribal aloneness and restoration (Ego)
-- [[Gate 45 - Gathering Together]] — Tribal rulership (Throat)
-- [[Gate 50 - The Cauldron]] — Tribal values (Spleen)
-- [[Gate 51 - The Arousing]] — Individual ego willpower (Ego)
+- Gate 21 - Biting Through — Tribal control and authority (Ego)
+- Gate 26 - The Taming Power of the Great — Tribal memory and sales (Ego)
+- Gate 40 - Deliverance — Tribal aloneness and restoration (Ego)
+- Gate 45 - Gathering Together — Tribal rulership (Throat)
+- Gate 50 - The Cauldron — Tribal values (Spleen)
+- Gate 51 - The Arousing — Individual ego willpower (Ego)
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 19 - Approach]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 19 - Co-dependence to Sacrifice]] — Richard Rudd's shadow-gift-siddhi framework for Gate 19
+- I-Ching Hexagram 19 - Approach — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 19 - Co-dependence to Sacrifice — Richard Rudd's shadow-gift-siddhi framework for Gate 19
 - [[The Empress (III)]] — Resonance with nurturing and abundance
 - Chesed (Qabalah) — The Sephirah of mercy and loving-kindness
 - [[The Moon (Astrology)]] — The body that governs needs and nurturing
@@ -337,8 +337,8 @@ Gate 19 teaches that **true sensitivity honors interdependence without losing se
 ### Thematic Collections
 - Gates of the Root Center — All gates within the pressure/adrenaline center
 - Tribal Circuit Gates — All gates within the Tribal stream
-- [[Gates of Sensitivity and Needs]] — Gates specifically related to interdependence
-- [[Gates of Resource Exchange]] — Gates that govern tribal support
+- Gates of Sensitivity and Needs — Gates specifically related to interdependence
+- Gates of Resource Exchange — Gates that govern tribal support
 
 ### Archetypal and Mythological
 - The Caretaker Archetype — The pattern of nurturing and support
@@ -355,7 +355,7 @@ Gate 19 teaches that **true sensitivity honors interdependence without losing se
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - Defined vs. Undefined Centers — Understanding fixed vs. variable energy in the bodygraph
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
-- [[Tribal Bargains]] — How the Tribal Ego Circuit creates exchange-based relationships
+- Tribal Bargains — How the Tribal Ego Circuit creates exchange-based relationships
 
 ---
 

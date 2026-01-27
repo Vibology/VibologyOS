@@ -318,54 +318,54 @@ Gate 57 teaches that **the body knows**. When the individual honors their Spleni
 ## Cross-References
 
 ### Sequential Connections (Within Spleen Center Gates)
-- [[Gate 18 - Work on What Has Been Spoilt]] — Correction and perfection
-- [[Gate 28 - The Game Player]] — Struggle for purpose
-- [[Gate 32 - Continuity]] — Instinct for what endures
-- [[Gate 44 - Coming to Meet]] — Instinctive memory of patterns
-- [[Gate 48 - The Well]] — Depth and resourcefulness
-- [[Gate 50 - The Cauldron]] — Guardian of tribal law and values
+- Gate 18 - Work on What Has Been Spoilt — Correction and perfection
+- Gate 28 - The Game Player — Struggle for purpose
+- Gate 32 - Continuity — Instinct for what endures
+- Gate 44 - Coming to Meet — Instinctive memory of patterns
+- Gate 48 - The Well — Depth and resourcefulness
+- Gate 50 - The Cauldron — Guardian of tribal law and values
 
 ### Channel Connections
-- [[Channel 57-10 - Perfected Form]] — Spleen to G Center (intuitive behavior)
-- [[Channel 57-20 - The Brainwave]] — Spleen to Throat (intuitive voice of the now)
-- [[Channel 57-34 - Power]] — Spleen to Sacral (intuitive action)
-- [[Gate 10 - Treading]] — Behavior of the self (G Center)
-- [[Gate 20 - Contemplation]] — The now, self-expression (Throat)
-- [[Gate 34 - The Power of the Great]] — Sacral power and strength
+- Channel 57-10 - Perfected Form — Spleen to G Center (intuitive behavior)
+- Channel 57-20 - The Brainwave — Spleen to Throat (intuitive voice of the now)
+- Channel 57-34 - Power — Spleen to Sacral (intuitive action)
+- Gate 10 - Treading — Behavior of the self (G Center)
+- Gate 20 - Contemplation — The now, self-expression (Throat)
+- Gate 34 - The Power of the Great — Sacral power and strength
 
 ### Circuit Connections (Individual Knowing)
-- [[Gate 01 - The Creative]] — Creative self-expression (G Center)
-- [[Gate 08 - Holding Together]] — Voice of contribution (Throat)
-- [[Gate 12 - Standstill]] — Cautious voice (Throat)
-- [[Gate 22 - Grace]] — Emotional openness (Solar Plexus)
-- [[Gate 23 - Splitting Apart]] — Individual knowing (Throat)
-- [[Gate 24 - The Return]] — Rationalization (Ajna)
-- [[Gate 43 - Breakthrough]] — Individual insight (Ajna)
-- [[Gate 55 - Abundance]] — Emotional spirit (Solar Plexus)
-- [[Gate 60 - Limitation]] — Acceptance of limitation (Root)
-- [[Gate 61 - Inner Truth]] — Pressure to know mystery (Head)
+- Gate 01 - The Creative — Creative self-expression (G Center)
+- Gate 08 - Holding Together — Voice of contribution (Throat)
+- Gate 12 - Standstill — Cautious voice (Throat)
+- Gate 22 - Grace — Emotional openness (Solar Plexus)
+- Gate 23 - Splitting Apart — Individual knowing (Throat)
+- Gate 24 - The Return — Rationalization (Ajna)
+- Gate 43 - Breakthrough — Individual insight (Ajna)
+- Gate 55 - Abundance — Emotional spirit (Solar Plexus)
+- Gate 60 - Limitation — Acceptance of limitation (Root)
+- Gate 61 - Inner Truth — Pressure to know mystery (Head)
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 57 - The Gentle]] — Source hexagram and traditional interpretation
-- [[Gene Keys 57 - Unease to Clarity]] — Shadow-gift-siddhi framework
+- I-Ching Hexagram 57 - The Gentle — Source hexagram and traditional interpretation
+- Gene Keys 57 - Unease to Clarity — Shadow-gift-siddhi framework
 - [[The High Priestess (II)]] — Resonance with intuition and hidden knowing
 - [[Yesod]] — Foundation, subconscious knowing
 
 ### Thematic Collections
 - Gates of the Spleen Center — All gates within Intuition center
 - Individual Circuit Gates — All gates within Individual stream
-- [[Gates of Intuition]] — Gates of immediate knowing
-- [[Gates of Survival]] — Gates related to safety and health
+- Gates of Intuition — Gates of immediate knowing
+- Gates of Survival — Gates related to safety and health
 
 ### Archetypal and Mythological
 - The Clairaudient Archetype — Pattern of hearing truth
 - The Oracle Archetype — Knowing without knowing how
-- [[Mercury (Mythology)]] — Messenger god, quick perception
+- Mercury (mythology) — Messenger god, quick perception
 - Artemis (Greek mythology) — Goddess of intuitive knowing and protection
 
 ### Biological and Somatic
 - [[Spleen]] — Intuition, survival, health, now
-- [[Immune System]] — Biological recognition of self/non-self
+- Immune System — Biological recognition of self/non-self
 - [[Right Brain]] — Holistic, intuitive processing
 
 ### Practical Application

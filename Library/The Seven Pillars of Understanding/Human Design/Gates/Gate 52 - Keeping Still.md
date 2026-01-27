@@ -309,43 +309,43 @@ Gate 52 teaches that **stillness is not weakness; it is wisdom**. When the indiv
 ## Cross-References
 
 ### Sequential Connections (Within Root Center Gates)
-- [[Gate 53 - Development]] — The pressure to start new cycles (complementary to Gate 52's stillness)
-- [[Gate 54 - The Marrying Maiden]] — The pressure to rise up and achieve
-- [[Gate 38 - Opposition]] — The pressure to struggle for purpose
-- [[Gate 39 - Obstruction]] — The pressure to provoke emotion and spirit
-- [[Gate 41 - Decrease]] — The initiating fuel of desire and fantasy
-- [[Gate 58 - The Joyous]] — The pressure to perfect and correct
-- [[Gate 60 - Limitation]] — The pulse of mutation; accepting limitation as transcendence
+- Gate 53 - Development — The pressure to start new cycles (complementary to Gate 52's stillness)
+- Gate 54 - The Marrying Maiden — The pressure to rise up and achieve
+- Gate 38 - Opposition — The pressure to struggle for purpose
+- Gate 39 - Obstruction — The pressure to provoke emotion and spirit
+- Gate 41 - Decrease — The initiating fuel of desire and fantasy
+- Gate 58 - The Joyous — The pressure to perfect and correct
+- Gate 60 - Limitation — The pulse of mutation; accepting limitation as transcendence
 
 ### Channel Connections
-- [[Channel 52-9 - Concentration]] — The full electromagnetic connection from stillness (Root) to sustained focus (Sacral)
-- [[Gate 09 - The Taming Power of the Small]] — The harmonic partner that provides focus and detail-orientation to Gate 52's restraint
+- Channel 52-9 - Concentration — The full electromagnetic connection from stillness (Root) to sustained focus (Sacral)
+- Gate 09 - The Taming Power of the Small — The harmonic partner that provides focus and detail-orientation to Gate 52's restraint
 
 ### Circuit Connections (Collective Logic)
-- [[Gate 04 - Youthful Folly]] — Mental pressure to find formulaic answers (Head)
-- [[Gate 63 - After Completion]] — Mental pressure of doubt and questioning (Head)
-- [[Gate 17 - Following]] — Opinions and organizational thinking (Ajna)
-- [[Gate 62 - Preponderance of the Small]] — Detail and naming (Throat)
-- [[Gate 16 - Enthusiasm]] — Depth and skill through repetition (Throat)
-- [[Gate 18 - Work on What Has Been Spoilt]] — Correction and perfection (Spleen)
-- [[Gate 58 - The Joyous]] — Vitality and insatiability for improvement (Root)
-- [[Gate 09 - Focus of the Small]] — Concentration and detail (Sacral)
+- Gate 04 - Youthful Folly — Mental pressure to find formulaic answers (Head)
+- Gate 63 - After Completion — Mental pressure of doubt and questioning (Head)
+- Gate 17 - Following — Opinions and organizational thinking (Ajna)
+- Gate 62 - Preponderance of the Small — Detail and naming (Throat)
+- Gate 16 - Enthusiasm — Depth and skill through repetition (Throat)
+- Gate 18 - Work on What Has Been Spoilt — Correction and perfection (Spleen)
+- Gate 58 - The Joyous — Vitality and insatiability for improvement (Root)
+- Gate 09 - Focus of the Small — Concentration and detail (Sacral)
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 52 - Keeping Still]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 52 - Stress to Stillness]] — Richard Rudd's shadow-gift-siddhi framework for Gate 52
+- I-Ching Hexagram 52 - Keeping Still — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 52 - Stress to Stillness — Richard Rudd's shadow-gift-siddhi framework for Gate 52
 - [[The Hanged Man (XII)]] — Resonance with voluntary suspension and waiting
 - Binah (Qabalah) — The sephira of understanding, form, and containment
 
 ### Thematic Collections
 - Gates of the Root Center — All nine gates within the Pressure/Stress center
 - Collective Circuit Gates — All gates within the Collective stream
-- [[Gates of Stillness]] — Gates specifically related to pause, waiting, restraint
-- [[Gates of Assessment]] — Gates related to evaluation and pattern recognition
+- Gates of Stillness — Gates specifically related to pause, waiting, restraint
+- Gates of Assessment — Gates related to evaluation and pattern recognition
 
 ### Archetypal and Mythological
 - The Sage Archetype — Jungian archetypal pattern of wisdom through observation
-- [[Saturn (Mythology)]] — The Roman god of time, discipline, and limitation
+- Saturn (mythology) — The Roman god of time, discipline, and limitation
 - Kronos (Greek mythology) — The Greek god of time and harvest
 - [[The Mountain (Symbolism)]] — Universal symbol of stillness, immovability, and endurance
 
@@ -358,7 +358,7 @@ Gate 52 teaches that **stillness is not weakness; it is wisdom**. When the indiv
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - Defined vs. Undefined Centers — Understanding fixed vs. variable energy in the bodygraph
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
-- [[Collective Sharing vs. Individual Empowerment]] — Distinguishing Collective from Tribal/Individual roles
+- Collective Sharing vs. Individual Empowerment — Distinguishing Collective from Tribal/Individual roles
 
 ---
 

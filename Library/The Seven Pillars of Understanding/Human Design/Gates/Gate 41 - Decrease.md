@@ -306,37 +306,37 @@ Gate 41 teaches that **fantasy is sacred fuel**. When the individual honors thei
 ## Cross-References
 
 ### Sequential Connections (Within Root Center Gates)
-- [[Gate 19 - Approach]] — The pressure for belonging and basic needs
-- [[Gate 39 - Obstruction]] — The pressure to provoke emotional response
-- [[Gate 38 - Opposition]] — The pressure to fight for individuality
-- [[Gate 54 - The Marrying Maiden]] — The pressure for ambition and transformation
-- [[Gate 53 - Development]] — The pressure to begin new cycles
-- [[Gate 60 - Limitation]] — The pressure to accept and mutate limitations
-- [[Gate 52 - Keeping Still]] — The pressure to be still and focused
-- [[Gate 58 - The Joyous]] — The pressure to correct and vitalize
+- Gate 19 - Approach — The pressure for belonging and basic needs
+- Gate 39 - Obstruction — The pressure to provoke emotional response
+- Gate 38 - Opposition — The pressure to fight for individuality
+- Gate 54 - The Marrying Maiden — The pressure for ambition and transformation
+- Gate 53 - Development — The pressure to begin new cycles
+- Gate 60 - Limitation — The pressure to accept and mutate limitations
+- Gate 52 - Keeping Still — The pressure to be still and focused
+- Gate 58 - The Joyous — The pressure to correct and vitalize
 
 ### Channel Connections
-- [[Channel 41-30 - Recognition]] — The full electromagnetic connection from fantasy (Root) to emotional recognition (Solar Plexus)
-- [[Gate 30 - The Clinging Fire]] — The harmonic partner that recognizes which experiences are worth pursuing
+- Channel 41-30 - Recognition — The full electromagnetic connection from fantasy (Root) to emotional recognition (Solar Plexus)
+- Gate 30 - The Clinging Fire — The harmonic partner that recognizes which experiences are worth pursuing
 
 ### Circuit Connections (Collective Abstract - Sensing)
-- [[Gate 36 - Darkening of the Light]] — Emotional exploration through crisis
-- [[Gate 22 - Grace]] — Emotional openness and surrender
-- [[Gate 37 - The Family]] — Emotional bargaining and agreements
-- [[Gate 06 - Conflict]] — Emotional intimacy through friction
-- [[Gate 49 - Revolution]] — Emotional sensitivity to what needs to change
+- Gate 36 - Darkening of the Light — Emotional exploration through crisis
+- Gate 22 - Grace — Emotional openness and surrender
+- Gate 37 - The Family — Emotional bargaining and agreements
+- Gate 06 - Conflict — Emotional intimacy through friction
+- Gate 49 - Revolution — Emotional sensitivity to what needs to change
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 41 - Decrease]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 41 - Expectation to Ecstasy]] — Richard Rudd's shadow-gift-siddhi framework for Gate 41
+- I-Ching Hexagram 41 - Decrease — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 41 - Expectation to Ecstasy — Richard Rudd's shadow-gift-siddhi framework for Gate 41
 - [[The Star (XVII)]] — Resonance with hope and anticipation
 - [[Yesod]] — Foundation, imagination, astral realm
 
 ### Thematic Collections
 - Gates of the Root Center — All nine gates within the Pressure center
-- [[Collective Abstract Circuit Gates]] — All gates within the Abstract process
-- [[Gates of Experiential Fuel]] — Gates that drive new experience
-- [[Gates of Emotional Anticipation]] — Gates related to future feeling states
+- Collective Abstract Circuit Gates — All gates within the Abstract process
+- Gates of Experiential Fuel — Gates that drive new experience
+- Gates of Emotional Anticipation — Gates related to future feeling states
 
 ### Archetypal and Mythological
 - The Dreamer Archetype — Jungian archetypal pattern of imagining future possibilities

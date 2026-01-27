@@ -309,42 +309,42 @@ Gate 53 teaches that **beginnings are sacred**. When the individual honors their
 ## Cross-References
 
 ### Sequential Connections (Within Root Center Gates)
-- [[Gate 52 - Keeping Still]] — The pressure to pause and assess (complementary to Gate 53's beginning)
-- [[Gate 54 - The Marrying Maiden]] — The pressure to rise up and achieve
-- [[Gate 38 - Opposition]] — The pressure to struggle for purpose
-- [[Gate 39 - Obstruction]] — The pressure to provoke emotion and spirit
-- [[Gate 41 - Decrease]] — The initiating fuel of desire and fantasy
-- [[Gate 58 - The Joyous]] — The pressure to perfect and correct
-- [[Gate 60 - Limitation]] — The pulse of mutation; accepting limitation
+- Gate 52 - Keeping Still — The pressure to pause and assess (complementary to Gate 53's beginning)
+- Gate 54 - The Marrying Maiden — The pressure to rise up and achieve
+- Gate 38 - Opposition — The pressure to struggle for purpose
+- Gate 39 - Obstruction — The pressure to provoke emotion and spirit
+- Gate 41 - Decrease — The initiating fuel of desire and fantasy
+- Gate 58 - The Joyous — The pressure to perfect and correct
+- Gate 60 - Limitation — The pulse of mutation; accepting limitation
 
 ### Channel Connections
-- [[Channel 42-53 - Maturation]] — The full electromagnetic connection from beginning (Root) to completion (Sacral)
-- [[Gate 42 - Increase]] — The harmonic partner that provides completion energy to Gate 53's beginnings
+- Channel 42-53 - Maturation — The full electromagnetic connection from beginning (Root) to completion (Sacral)
+- Gate 42 - Increase — The harmonic partner that provides completion energy to Gate 53's beginnings
 
 ### Circuit Connections (Collective Sensing/Abstract)
-- [[Gate 47 - Oppression]] — Mental pressure to make sense of the past (Head)
-- [[Gate 64 - Before Completion]] — Mental confusion before clarity (Head)
-- [[Gate 11 - Peace]] — Ideas and mental stimulation (Ajna)
-- [[Gate 56 - The Wanderer]] — Storytelling and stimulation (Throat)
-- [[Gate 35 - Progress]] — Emotional crisis and experience (Solar Plexus)
-- [[Gate 36 - Darkening of the Light]] — Emotional intensity and adventure (Solar Plexus)
-- [[Gate 30 - The Clinging Fire]] — Emotional desire and recognition (Solar Plexus)
-- [[Gate 41 - Decrease]] — Fantasy and desire (Root)
-- [[Gate 42 - Increase]] — Completion and maturation (Sacral)
-- [[Gate 29 - The Abysmal]] — Commitment and perseverance (Sacral)
-- [[Gate 46 - Pushing Upward]] — Love of the body and serendipity (G Center)
+- Gate 47 - Oppression — Mental pressure to make sense of the past (Head)
+- Gate 64 - Before Completion — Mental confusion before clarity (Head)
+- Gate 11 - Peace — Ideas and mental stimulation (Ajna)
+- Gate 56 - The Wanderer — Storytelling and stimulation (Throat)
+- Gate 35 - Progress — Emotional crisis and experience (Solar Plexus)
+- Gate 36 - Darkening of the Light — Emotional intensity and adventure (Solar Plexus)
+- Gate 30 - The Clinging Fire — Emotional desire and recognition (Solar Plexus)
+- Gate 41 - Decrease — Fantasy and desire (Root)
+- Gate 42 - Increase — Completion and maturation (Sacral)
+- Gate 29 - The Abysmal — Commitment and perseverance (Sacral)
+- Gate 46 - Pushing Upward — Love of the body and serendipity (G Center)
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 53 - Development]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 53 - Immaturity to Superabundance]] — Richard Rudd's shadow-gift-siddhi framework
+- I-Ching Hexagram 53 - Development — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 53 - Immaturity to Superabundance — Richard Rudd's shadow-gift-siddhi framework
 - [[The Fool (0)]] — Resonance with new beginnings and innocent starts
 - [[Kether]] — The Crown, the first emanation and source of all cycles
 
 ### Thematic Collections
 - Gates of the Root Center — All nine gates within the Pressure/Stress center
 - Collective Circuit Gates — All gates within the Collective stream
-- [[Gates of Beginnings]] — Gates specifically related to initiation and starting
-- [[Gates of Development]] — Gates related to growth and maturation
+- Gates of Beginnings — Gates specifically related to initiation and starting
+- Gates of Development — Gates related to growth and maturation
 
 ### Archetypal and Mythological
 - The Puer Aeternus Archetype — Jungian archetypal pattern of eternal youth
@@ -361,7 +361,7 @@ Gate 53 teaches that **beginnings are sacred**. When the individual honors their
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - Defined vs. Undefined Centers — Understanding fixed vs. variable energy in the bodygraph
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
-- [[Collective Sharing vs. Individual Empowerment]] — Distinguishing Collective from Tribal/Individual roles
+- Collective Sharing vs. Individual Empowerment — Distinguishing Collective from Tribal/Individual roles
 
 ---
 

@@ -310,41 +310,41 @@ Gate 42 teaches that **completion is sacred**. When the individual honors their 
 ## Cross-References
 
 ### Sequential Connections (Within Sacral Center Gates)
-- [[Gate 05 - Waiting]] — The power to wait for the correct timing
-- [[Gate 14 - Possession in Great Measure]] — The power to fuel skills and resources
-- [[Gate 29 - The Abysmal]] — The power to commit and persevere
-- [[Gate 59 - Dispersion]] — The power to break down barriers to intimacy
-- [[Gate 09 - The Taming Power of the Small]] — The power to focus on details
-- [[Gate 03 - Difficulty at the Beginning]] — The power to innovate through mutation
-- [[Gate 27 - Nourishment]] — The power to nurture and care
+- Gate 05 - Waiting — The power to wait for the correct timing
+- Gate 14 - Possession in Great Measure — The power to fuel skills and resources
+- Gate 29 - The Abysmal — The power to commit and persevere
+- Gate 59 - Dispersion — The power to break down barriers to intimacy
+- Gate 09 - The Taming Power of the Small — The power to focus on details
+- Gate 03 - Difficulty at the Beginning — The power to innovate through mutation
+- Gate 27 - Nourishment — The power to nurture and care
 
 ### Channel Connections
-- [[Channel 42-53 - Maturation]] — The full electromagnetic connection from completion (Sacral) to initiation (Root)
-- [[Gate 53 - Development]] — The harmonic partner that initiates new cycles
+- Channel 42-53 - Maturation — The full electromagnetic connection from completion (Sacral) to initiation (Root)
+- Gate 53 - Development — The harmonic partner that initiates new cycles
 
 ### Circuit Connections (Collective Abstract - Sensing)
-- [[Gate 41 - Decrease]] — The initiating fantasy pressure
-- [[Gate 30 - The Clinging Fire]] — Emotional recognition of experience
-- [[Gate 36 - Darkening of the Light]] — Emotional exploration through crisis
-- [[Gate 22 - Grace]] — Emotional openness and surrender
-- [[Gate 37 - The Family]] — Emotional bargaining and agreements
+- Gate 41 - Decrease — The initiating fantasy pressure
+- Gate 30 - The Clinging Fire — Emotional recognition of experience
+- Gate 36 - Darkening of the Light — Emotional exploration through crisis
+- Gate 22 - Grace — Emotional openness and surrender
+- Gate 37 - The Family — Emotional bargaining and agreements
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 42 - Increase]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 42 - Expectation to Celebration]] — Richard Rudd's shadow-gift-siddhi framework for Gate 42
+- I-Ching Hexagram 42 - Increase — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 42 - Expectation to Celebration — Richard Rudd's shadow-gift-siddhi framework for Gate 42
 - [[The World (Tarot)]] — Resonance with completion and wholeness
-- [[Malkuth (Qabalah)]] — Kingdom, material manifestation
+- [[Malkuth]] — Kingdom, material manifestation
 
 ### Thematic Collections
 - Gates of the Sacral Center — All nine gates within the Life Force center
-- [[Collective Abstract Circuit Gates]] — All gates within the Abstract process
-- [[Gates of Completion]] — Gates related to finishing and maximizing
-- [[Gates of Cyclical Growth]] — Gates that honor natural rhythms
+- Collective Abstract Circuit Gates — All gates within the Abstract process
+- Gates of Completion — Gates related to finishing and maximizing
+- Gates of Cyclical Growth — Gates that honor natural rhythms
 
 ### Archetypal and Mythological
 - The Completer Archetype — Jungian archetypal pattern of bringing things to wholeness
 - [[Cycles and Seasons]] — Natural rhythms of growth and completion
-- [[Jupiter (Astrology)]] — Expansion and benevolent completion
+- [[Jupiter ♃]] — Expansion and benevolent completion
 
 ### Biological and Somatic
 - [[Sacral]] — The center of life force, work energy, and fertility

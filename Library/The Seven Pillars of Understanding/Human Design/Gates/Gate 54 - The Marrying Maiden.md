@@ -309,41 +309,41 @@ Gate 54 teaches that **ambition is sacred when aligned**. When the individual ho
 ## Cross-References
 
 ### Sequential Connections (Within Root Center Gates)
-- [[Gate 52 - Keeping Still]] — The pressure to pause and assess
-- [[Gate 53 - Development]] — The pressure to start new cycles
-- [[Gate 38 - Opposition]] — The pressure to struggle for purpose
-- [[Gate 39 - Obstruction]] — The pressure to provoke emotion and spirit
-- [[Gate 41 - Decrease]] — The initiating fuel of desire and fantasy
-- [[Gate 58 - The Joyous]] — The pressure to perfect and correct
-- [[Gate 60 - Limitation]] — The pulse of mutation; accepting limitation
+- Gate 52 - Keeping Still — The pressure to pause and assess
+- Gate 53 - Development — The pressure to start new cycles
+- Gate 38 - Opposition — The pressure to struggle for purpose
+- Gate 39 - Obstruction — The pressure to provoke emotion and spirit
+- Gate 41 - Decrease — The initiating fuel of desire and fantasy
+- Gate 58 - The Joyous — The pressure to perfect and correct
+- Gate 60 - Limitation — The pulse of mutation; accepting limitation
 
 ### Channel Connections
-- [[Channel 32-54 - Transformation]] — The full electromagnetic connection from ambition (Root) to instinctual continuity (Spleen)
-- [[Gate 32 - Continuity]] — The harmonic partner that provides discernment about what will endure
+- Channel 32-54 - Transformation — The full electromagnetic connection from ambition (Root) to instinctual continuity (Spleen)
+- Gate 32 - Continuity — The harmonic partner that provides discernment about what will endure
 
 ### Circuit Connections (Tribal Ego)
-- [[Gate 21 - The Hunter]] — The will to control resources (Heart/Ego to Throat)
-- [[Gate 26 - The Taming Power of the Great]] — The trickster's will (Spleen to Heart/Ego)
-- [[Gate 40 - Deliverance]] — The will to provide and rest (Solar Plexus to Heart/Ego)
-- [[Gate 45 - Gathering Together]] — The voice of the tribe "I have" (Throat)
-- [[Gate 19 - Approach]] — Sensitivity to tribal needs (Root to Solar Plexus)
-- [[Gate 49 - Revolution]] — Principles of acceptance/rejection (Solar Plexus)
+- Gate 21 - The Hunter — The will to control resources (Heart/Ego to Throat)
+- Gate 26 - The Taming Power of the Great — The trickster's will (Spleen to Heart/Ego)
+- Gate 40 - Deliverance — The will to provide and rest (Solar Plexus to Heart/Ego)
+- Gate 45 - Gathering Together — The voice of the tribe "I have" (Throat)
+- Gate 19 - Approach — Sensitivity to tribal needs (Root to Solar Plexus)
+- Gate 49 - Revolution — Principles of acceptance/rejection (Solar Plexus)
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 54 - The Marrying Maiden]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 54 - Greed to Ascension]] — Richard Rudd's shadow-gift-siddhi framework
+- I-Ching Hexagram 54 - The Marrying Maiden — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 54 - Greed to Ascension — Richard Rudd's shadow-gift-siddhi framework
 - [[The Chariot (Tarot)]] — Resonance with willpower and directed ambition
-- [[Netzach (Qabalah)]] — The sephira of victory and desire
+- [[Netzach]] — The sephira of victory and desire
 
 ### Thematic Collections
 - Gates of the Root Center — All nine gates within the Pressure/Stress center
 - Tribal Circuit Gates — All gates within the Tribal stream
-- [[Gates of Ambition]] — Gates specifically related to drive and advancement
-- [[Gates of Transformation]] — Gates related to change and evolution
+- Gates of Ambition — Gates specifically related to drive and advancement
+- Gates of Transformation — Gates related to change and evolution
 
 ### Archetypal and Mythological
 - The Climber Archetype — Universal pattern of striving and ascent
-- [[Saturn (Mythology)]] — The Roman god of time, achievement, and authority
+- Saturn (mythology) — The Roman god of time, achievement, and authority
 - Icarus (Greek mythology) — The cautionary tale of ambition without wisdom
 - [[The Ladder (Symbolism)]] — Universal symbol of ascension and hierarchy
 

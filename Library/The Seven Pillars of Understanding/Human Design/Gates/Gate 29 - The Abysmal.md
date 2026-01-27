@@ -306,34 +306,34 @@ Gate 29 teaches that **true commitment is responsive, not obligatory**. When the
 ## Cross-References
 
 ### Sequential Connections (Within Sacral Gates)
-- [[Gate 03 - Difficulty at the Beginning]] — Innovation through mutation
-- [[Gate 05 - Waiting]] — Fixed patterns and timing
-- [[Gate 09 - The Taming Power of the Small]] — Focus on details
-- [[Gate 14 - Possession in Great Measure]] — Power through skills
-- [[Gate 27 - Nourishment]] — Caring and responsibility
-- [[Gate 34 - The Power of the Great]] — Pure power
-- [[Gate 42 - Increase]] — Completion and growth
-- [[Gate 59 - Dispersion]] — Intimacy and breaking barriers
+- Gate 03 - Difficulty at the Beginning — Innovation through mutation
+- Gate 05 - Waiting — Fixed patterns and timing
+- Gate 09 - The Taming Power of the Small — Focus on details
+- Gate 14 - Possession in Great Measure — Power through skills
+- Gate 27 - Nourishment — Caring and responsibility
+- Gate 34 - The Power of the Great — Pure power
+- Gate 42 - Increase — Completion and growth
+- Gate 59 - Dispersion — Intimacy and breaking barriers
 
 ### Channel Connections
-- [[Channel 29-46 - Discovery]] — The full electromagnetic connection from commitment (Sacral) to serendipity (G Center)
-- [[Gate 46 - The Serendipity]] — The harmonic partner that provides body knowing and direction
+- Channel 29-46 - Discovery — The full electromagnetic connection from commitment (Sacral) to serendipity (G Center)
+- Gate 46 - The Serendipity — The harmonic partner that provides body knowing and direction
 
 ### Circuit Connections (Collective Sensing)
-- [[Gate 06 - Conflict]] — Friction and intimacy
-- [[Gate 11 - Peace]] — Ideas and reflection
-- [[Gate 30 - The Clinging Fire]] — Feelings and desire
-- [[Gate 36 - Darkening of the Light]] — Crisis and depth
-- [[Gate 37 - The Family]] — Friendship and bargains
-- [[Gate 46 - The Serendipity]] — Embodied knowing
-- [[Gate 47 - Oppression]] — Mental pressure
-- [[Gate 48 - The Well]] — Depth and adequacy
-- [[Gate 55 - Abundance]] — Spirit and mood
-- [[Gate 63 - After Completion]] — Doubt and questioning
+- Gate 06 - Conflict — Friction and intimacy
+- Gate 11 - Peace — Ideas and reflection
+- Gate 30 - The Clinging Fire — Feelings and desire
+- Gate 36 - Darkening of the Light — Crisis and depth
+- Gate 37 - The Family — Friendship and bargains
+- Gate 46 - The Serendipity — Embodied knowing
+- Gate 47 - Oppression — Mental pressure
+- Gate 48 - The Well — Depth and adequacy
+- Gate 55 - Abundance — Spirit and mood
+- Gate 63 - After Completion — Doubt and questioning
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 29 - The Abysmal]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 29 - Half-Heartedness to Devotion]] — Richard Rudd's shadow-gift-siddhi framework
+- I-Ching Hexagram 29 - The Abysmal — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 29 - Half-Heartedness to Devotion — Richard Rudd's shadow-gift-siddhi framework
 - [[The Hanged Man (XII)]] — Archetypal suspension and commitment to ordeal
 - [[Temperance (XIV)]] — Sustained alchemical commitment
 - Binah (Qabalah) — The sphere of Understanding and depth
@@ -343,8 +343,8 @@ Gate 29 teaches that **true commitment is responsive, not obligatory**. When the
 ### Thematic Collections
 - Gates of the Sacral Center — All gates within the Life Force center
 - Collective Circuit Gates — All gates within the Collective stream
-- [[Gates of Commitment and Perseverance]] — Gates related to sustained engagement
-- [[Gates of Depth and Experience]] — Gates that navigate the abyss
+- Gates of Commitment and Perseverance — Gates related to sustained engagement
+- Gates of Depth and Experience — Gates that navigate the abyss
 
 ### Archetypal and Mythological
 - The Pilgrim Archetype — The one who commits to the journey
@@ -354,7 +354,7 @@ Gate 29 teaches that **true commitment is responsive, not obligatory**. When the
 
 ### Biological and Somatic
 - [[Sacral]] — The center of life force and response
-- [[Ovaries and Testes]] — Generative commitment at biological level
+- Ovaries and Testes — Generative commitment at biological level
 - [[Endurance]] — Sustained physical engagement
 
 ### Practical Application

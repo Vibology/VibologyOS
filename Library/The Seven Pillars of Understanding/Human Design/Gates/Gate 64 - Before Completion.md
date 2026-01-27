@@ -308,32 +308,32 @@ Gate 64 teaches that **confusion is sacred**. When the individual honors their p
 ## Cross-References
 
 ### Sequential Connections (Within Head Center Gates)
-- [[Gate 61 - Inner Truth]] — Pressure to know mystery and inspiration
-- [[Gate 63 - After Completion]] — Doubt and logical questioning
+- Gate 61 - Inner Truth — Pressure to know mystery and inspiration
+- Gate 63 - After Completion — Doubt and logical questioning
 
 ### Channel Connections
-- [[Channel 64-47 - Abstraction]] — Head to Ajna (realized being, abstract processing)
-- [[Gate 47 - Oppression]] — Mental processing of limitation (Ajna Center)
+- Channel 64-47 - Abstraction — Head to Ajna (realized being, abstract processing)
+- Gate 47 - Oppression — Mental processing of limitation (Ajna Center)
 
 ### Circuit Connections (Collective Abstract/Sensing)
-- [[Gate 11 - Peace]] — Ideas and concepts (Ajna)
-- [[Gate 29 - The Abysmal]] — Commitment and saying yes (Sacral)
-- [[Gate 36 - Darkening of the Light]] — Emotional crisis (Solar Plexus)
-- [[Gate 41 - Decrease]] — Contraction and fantasy (Root)
-- [[Gate 47 - Oppression]] — Mental oppression (Ajna)
-- [[Gate 64 - Before Completion]] — Confusion and abstraction (Head)
+- Gate 11 - Peace — Ideas and concepts (Ajna)
+- Gate 29 - The Abysmal — Commitment and saying yes (Sacral)
+- Gate 36 - Darkening of the Light — Emotional crisis (Solar Plexus)
+- Gate 41 - Decrease — Contraction and fantasy (Root)
+- Gate 47 - Oppression — Mental oppression (Ajna)
+- Gate 64 - Before Completion — Confusion and abstraction (Head)
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 64 - Before Completion]] — Source hexagram and traditional interpretation
-- [[Gene Keys 64 - Confusion to Illumination]] — Shadow-gift-siddhi framework
+- I-Ching Hexagram 64 - Before Completion — Source hexagram and traditional interpretation
+- Gene Keys 64 - Confusion to Illumination — Shadow-gift-siddhi framework
 - [[The Fool (0)]] — Resonance with infinite potential and the unknown
 - [[Kether]] — Crown, source, unmanifest potential
 
 ### Thematic Collections
 - Gates of the Head Center — All gates within Inspiration center
 - Collective Circuit Gates — All gates within Collective stream
-- [[Abstract Circuit Gates]] — All gates within Abstract/Sensing stream
-- [[Gates of Imagination]] — Gates related to creative abstraction
+- Abstract Circuit Gates — All gates within Abstract/Sensing stream
+- Gates of Imagination — Gates related to creative abstraction
 
 ### Archetypal and Mythological
 - The Dreamer Archetype — Pattern of symbolic processing
@@ -343,7 +343,7 @@ Gate 64 teaches that **confusion is sacred**. When the individual honors their p
 
 ### Biological and Somatic
 - [[Head]] — Inspiration, mental pressure, cosmic questions
-- [[Pineal Gland]] — Dream regulation, abstract processing
+- Pineal Gland — Dream regulation, abstract processing
 - [[Dream State]] — Unconscious pattern processing
 
 ### Practical Application

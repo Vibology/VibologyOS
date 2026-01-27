@@ -304,54 +304,54 @@ Gate 58 teaches that **dissatisfaction is fuel, not failure**. When the individu
 ## Cross-References
 
 ### Sequential Connections (Within Root Center Gates)
-- [[Gate 38 - Opposition]] — Opposition and struggle for meaning
-- [[Gate 39 - Obstruction]] — Provocation and emotional depth
-- [[Gate 41 - Decrease]] — Contraction and fantasy
-- [[Gate 52 - Keeping Still]] — Stillness and focus
-- [[Gate 53 - Development]] — Beginnings and maturation
-- [[Gate 54 - The Marrying Maiden]] — Ambition and drive
-- [[Gate 60 - Limitation]] — Acceptance of limitation as pulse
+- Gate 38 - Opposition — Opposition and struggle for meaning
+- Gate 39 - Obstruction — Provocation and emotional depth
+- Gate 41 - Decrease — Contraction and fantasy
+- Gate 52 - Keeping Still — Stillness and focus
+- Gate 53 - Development — Beginnings and maturation
+- Gate 54 - The Marrying Maiden — Ambition and drive
+- Gate 60 - Limitation — Acceptance of limitation as pulse
 
 ### Channel Connections
-- [[Channel 58-18 - Judgment]] — Root to Spleen (correction and perfection)
-- [[Gate 18 - Work on What Has Been Spoilt]] — Correction of patterns (Spleen Center)
+- Channel 58-18 - Judgment — Root to Spleen (correction and perfection)
+- Gate 18 - Work on What Has Been Spoilt — Correction of patterns (Spleen Center)
 
 ### Circuit Connections (Collective Logic)
-- [[Gate 04 - Youthful Folly]] — Formulation of mental answers (Ajna)
-- [[Gate 05 - Waiting]] — Fixed patterns and rhythms (Sacral)
-- [[Gate 09 - The Taming Power of the Small]] — Focus and detail (Sacral)
-- [[Gate 11 - Peace]] — Ideas for the collective (Ajna)
-- [[Gate 16 - Enthusiasm]] — Skills and mastery (Throat)
-- [[Gate 17 - Following]] — Opinions and perspectives (Ajna)
-- [[Gate 18 - Work on What Has Been Spoilt]] — Correction (Spleen)
-- [[Gate 20 - Contemplation]] — The now (Throat)
-- [[Gate 24 - The Return]] — Rationalization (Ajna)
-- [[Gate 31 - Influence]] — Leading through influence (Throat)
-- [[Gate 33 - Retreat]] — Privacy and withdrawal (Throat)
-- [[Gate 40 - Deliverance]] — Aloneness and rest (Heart/Will)
-- [[Gate 43 - Breakthrough]] — Individual insight (Ajna)
-- [[Gate 45 - Gathering Together]] — Tribal leadership (Throat)
-- [[Gate 47 - Oppression]] — Abstract processing (Ajna)
-- [[Gate 48 - The Well]] — Depth and adequacy (Spleen)
-- [[Gate 62 - Preponderance of the Small]] — Details and naming (Throat)
-- [[Gate 63 - After Completion]] — Doubt and questioning (Head)
+- Gate 04 - Youthful Folly — Formulation of mental answers (Ajna)
+- Gate 05 - Waiting — Fixed patterns and rhythms (Sacral)
+- Gate 09 - The Taming Power of the Small — Focus and detail (Sacral)
+- Gate 11 - Peace — Ideas for the collective (Ajna)
+- Gate 16 - Enthusiasm — Skills and mastery (Throat)
+- Gate 17 - Following — Opinions and perspectives (Ajna)
+- Gate 18 - Work on What Has Been Spoilt — Correction (Spleen)
+- Gate 20 - Contemplation — The now (Throat)
+- Gate 24 - The Return — Rationalization (Ajna)
+- Gate 31 - Influence — Leading through influence (Throat)
+- Gate 33 - Retreat — Privacy and withdrawal (Throat)
+- Gate 40 - Deliverance — Aloneness and rest (Heart/Will)
+- Gate 43 - Breakthrough — Individual insight (Ajna)
+- Gate 45 - Gathering Together — Tribal leadership (Throat)
+- Gate 47 - Oppression — Abstract processing (Ajna)
+- Gate 48 - The Well — Depth and adequacy (Spleen)
+- Gate 62 - Preponderance of the Small — Details and naming (Throat)
+- Gate 63 - After Completion — Doubt and questioning (Head)
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 58 - The Joyous]] — Source hexagram and traditional interpretation
-- [[Gene Keys 58 - Dissatisfaction to Bliss]] — Shadow-gift-siddhi framework
+- I-Ching Hexagram 58 - The Joyous — Source hexagram and traditional interpretation
+- Gene Keys 58 - Dissatisfaction to Bliss — Shadow-gift-siddhi framework
 - [[Strength (VIII)]] — Resonance with vitality harnessed
-- [[Malkuth (Qabalah)]] — Kingdom, manifestation, grounded reality
+- [[Malkuth]] — Kingdom, manifestation, grounded reality
 
 ### Thematic Collections
 - Gates of the Root Center — All gates within Pressure center
 - Collective Circuit Gates — All gates within Collective stream
-- [[Logic Circuit Gates]] — All gates within Logic stream
-- [[Gates of Correction]] — Gates related to pattern refinement
+- Logic Circuit Gates — All gates within Logic stream
+- Gates of Correction — Gates related to pattern refinement
 
 ### Archetypal and Mythological
 - The Craftsman Archetype — Pattern of refinement and mastery
 - The Critic Archetype — Discernment through judgment
-- [[Mars (Mythology)]] — God of drive and action
+- Mars (mythology) — God of drive and action
 - Hephaestus (Greek mythology) — God of craft and perfection through work
 
 ### Biological and Somatic

@@ -306,39 +306,39 @@ Gate 28 teaches that **life's meaning is found in the struggle itself, not in pe
 ## Cross-References
 
 ### Sequential Connections (Within Spleen Gates)
-- [[Gate 18 - Work on What Has Been Spoilt]] — Correction and fear of authority
-- [[Gate 32 - Duration]] — Continuity and fear of failure
-- [[Gate 44 - Coming to Meet]] — Alertness and tribal memory
-- [[Gate 48 - The Well]] — Depth and adequacy
-- [[Gate 50 - The Cauldron]] — Values and tribal laws
-- [[Gate 57 - The Gentle]] — Intuitive clarity in the now
+- Gate 18 - Work on What Has Been Spoilt — Correction and fear of authority
+- Gate 32 - Duration — Continuity and fear of failure
+- Gate 44 - Coming to Meet — Alertness and tribal memory
+- Gate 48 - The Well — Depth and adequacy
+- Gate 50 - The Cauldron — Values and tribal laws
+- Gate 57 - The Gentle — Intuitive clarity in the now
 
 ### Channel Connections
-- [[Channel 28-38 - Struggle]] — The full electromagnetic connection from risk awareness (Spleen) to oppositional pressure (Root)
-- [[Gate 38 - Opposition]] — The harmonic partner that provides the pressure to fight
+- Channel 28-38 - Struggle — The full electromagnetic connection from risk awareness (Spleen) to oppositional pressure (Root)
+- Gate 38 - Opposition — The harmonic partner that provides the pressure to fight
 
 ### Circuit Connections (Individual Knowing)
-- [[Gate 12 - Standstill]] — Caution and mutative voice
-- [[Gate 22 - Grace]] — Emotional openness and listening
-- [[Gate 23 - Splitting Apart]] — Assimilation and individual knowing
-- [[Gate 24 - The Return]] — Rationalization and mental renewal
-- [[Gate 43 - Breakthrough]] — Insight and genius
-- [[Gate 39 - Obstruction]] — Provocation and spirit
+- Gate 12 - Standstill — Caution and mutative voice
+- Gate 22 - Grace — Emotional openness and listening
+- Gate 23 - Splitting Apart — Assimilation and individual knowing
+- Gate 24 - The Return — Rationalization and mental renewal
+- Gate 43 - Breakthrough — Insight and genius
+- Gate 39 - Obstruction — Provocation and spirit
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 28 - Preponderance of the Great]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 28 - Purposelessness to Immortality]] — Richard Rudd's shadow-gift-siddhi framework
+- I-Ching Hexagram 28 - Preponderance of the Great — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 28 - Purposelessness to Immortality — Richard Rudd's shadow-gift-siddhi framework
 - [[Death (Tarot)]] — Archetypal transformation and impermanence
 - [[The Tower (XVI)]] — Necessary destruction and struggle
 - Geburah (Qabalah) — The Sephirah of Severity and war
-- [[Mars (Astrology)]] — The planet of action and warrior energy
+- [[Mars ♂]] — The planet of action and warrior energy
 - [[Pluto ♇]] — The planet of death, transformation, and depth
 
 ### Thematic Collections
 - Gates of the Spleen Center — All gates within the Instinctual Awareness center
 - Individual Circuit Gates — All gates within the Individual stream
-- [[Gates of Struggle and Risk]] — Gates related to fighting and meaningful conflict
-- [[Gates of Existential Awareness]] — Gates that confront impermanence and meaning
+- Gates of Struggle and Risk — Gates related to fighting and meaningful conflict
+- Gates of Existential Awareness — Gates that confront impermanence and meaning
 
 ### Archetypal and Mythological
 - The Warrior Archetype — The fighter who struggles for purpose

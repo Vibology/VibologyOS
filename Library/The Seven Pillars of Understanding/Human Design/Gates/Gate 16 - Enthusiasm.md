@@ -305,45 +305,45 @@ Gate 16 teaches that **true mastery is earned through dedication**. When the ind
 ## Cross-References
 
 ### Sequential Connections (Within Throat Gates)
-- [[Gate 08 - Holding Together]] — Individual contribution through creative voice
-- [[Gate 12 - Standstill]] — Individual caution and restraint
-- [[Gate 16 - Enthusiasm]] — Collective skill through repetition (current entry)
-- [[Gate 20 - Contemplation]] — Integration of awareness in the now
-- [[Gate 23 - Splitting Apart]] — Individual assimilation and knowing
-- [[Gate 31 - Influence]] — Collective leadership voice
-- [[Gate 33 - Retreat]] — Collective privacy and memory
-- [[Gate 35 - Progress]] — Tribal experience and stories
-- [[Gate 45 - Gathering Together]] — Tribal rulership and resources
-- [[Gate 56 - The Wanderer]] — Collective stimulation through stories
-- [[Gate 62 - Preponderance of the Small]] — Collective detail articulation
+- Gate 08 - Holding Together — Individual contribution through creative voice
+- Gate 12 - Standstill — Individual caution and restraint
+- Gate 16 - Enthusiasm — Collective skill through repetition (current entry)
+- Gate 20 - Contemplation — Integration of awareness in the now
+- Gate 23 - Splitting Apart — Individual assimilation and knowing
+- Gate 31 - Influence — Collective leadership voice
+- Gate 33 - Retreat — Collective privacy and memory
+- Gate 35 - Progress — Tribal experience and stories
+- Gate 45 - Gathering Together — Tribal rulership and resources
+- Gate 56 - The Wanderer — Collective stimulation through stories
+- Gate 62 - Preponderance of the Small — Collective detail articulation
 
 ### Channel Connections
-- [[Channel 16-48 - The Wavelength]] — The full electromagnetic connection from practiced skill (Throat) to instinctual adequacy (Spleen)
-- [[Gate 48 - The Well]] — The harmonic partner that provides depth and knowing of sufficiency
+- Channel 16-48 - The Wavelength — The full electromagnetic connection from practiced skill (Throat) to instinctual adequacy (Spleen)
+- Gate 48 - The Well — The harmonic partner that provides depth and knowing of sufficiency
 
 ### Circuit Connections (Collective Logic)
-- [[Gate 04 - Youthful Folly]] — Mental formulization (Ajna)
-- [[Gate 05 - Waiting]] — Fixed patterns and timing (Sacral)
-- [[Gate 07 - The Army]] — Leadership role (G Center)
-- [[Gate 09 - The Taming Power of the Small]] — Focus and concentration (Sacral)
-- [[Gate 15 - Modesty]] — Love of humanity through extremes (G Center)
-- [[Gate 17 - Following]] — Mental organization of opinions (Ajna)
-- [[Gate 18 - Work on What Has Been Spoilt]] — Correction and integrity (Spleen)
-- [[Gate 62 - Preponderance of the Small]] — Detail orientation (Throat)
-- [[Gate 63 - After Completion]] — Doubt and questioning (Head)
+- Gate 04 - Youthful Folly — Mental formulization (Ajna)
+- Gate 05 - Waiting — Fixed patterns and timing (Sacral)
+- Gate 07 - The Army — Leadership role (G Center)
+- Gate 09 - The Taming Power of the Small — Focus and concentration (Sacral)
+- Gate 15 - Modesty — Love of humanity through extremes (G Center)
+- Gate 17 - Following — Mental organization of opinions (Ajna)
+- Gate 18 - Work on What Has Been Spoilt — Correction and integrity (Spleen)
+- Gate 62 - Preponderance of the Small — Detail orientation (Throat)
+- Gate 63 - After Completion — Doubt and questioning (Head)
 
 ### Cross-System Correspondences
-- [[I-Ching Hexagram 16 - Enthusiasm]] — The source hexagram and traditional I-Ching interpretation
-- [[Gene Keys 16 - Indifference to Mastery]] — Richard Rudd's shadow-gift-siddhi framework for Gate 16
-- [[The Hierophant (Tarot)]] — Resonance with transmission through practice and tradition
+- I-Ching Hexagram 16 - Enthusiasm — The source hexagram and traditional I-Ching interpretation
+- Gene Keys 16 - Indifference to Mastery — Richard Rudd's shadow-gift-siddhi framework for Gate 16
+- [[The Hierophant (V)]] — Resonance with transmission through practice and tradition
 - Hod (Qabalah) — The Sephirah of form, pattern, and ritual practice
-- [[Jupiter (Astrology)]] — The planet of expansion and enrichment
+- [[Jupiter ♃]] — The planet of expansion and enrichment
 
 ### Thematic Collections
 - Gates of the Throat Center — All gates within the manifestation/communication center
 - Collective Circuit Gates — All gates within the Collective stream
-- [[Gates of Skill and Mastery]] — Gates specifically related to expertise development
-- [[Gates of Practice and Repetition]] — Gates that honor sustained dedication
+- Gates of Skill and Mastery — Gates specifically related to expertise development
+- Gates of Practice and Repetition — Gates that honor sustained dedication
 
 ### Archetypal and Mythological
 - The Craftsperson Archetype — The pattern of mastery through practice
@@ -360,7 +360,7 @@ Gate 16 teaches that **true mastery is earned through dedication**. When the ind
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - Defined vs. Undefined Centers — Understanding fixed vs. variable energy in the bodygraph
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
-- [[Collective Pattern Sharing]] — How the Collective Logic Circuit disseminates knowledge
+- Collective Pattern Sharing — How the Collective Logic Circuit disseminates knowledge
 
 ---
 
