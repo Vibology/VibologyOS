@@ -304,13 +304,13 @@ When recognized and invited, the 16-48 individual becomes the **living demonstra
 
 - [[Gate 16 - Enthusiasm]] — Skills, talent, harmonic energy
 - [[Gate 48 - The Well]] — Depth, resourcefulness, wisdom
-- [[Channel 17-62 - Acceptance]] — Logic Circuit partner (opinions and details)
-- [[Channel 18-58 - Judgment]] — Logic Circuit partner (correction and perfection)
+- Channel 17-62 - Acceptance — Logic Circuit partner (opinions and details)
+- Channel 18-58 - Judgment — Logic Circuit partner (correction and perfection)
 - [[Throat]] — Expression and manifestation
 - [[Spleen]] — Instinct, health, and in-the-now awareness
 - Collective Understanding Circuit — Logic, patterns, security
-- [[Projector Type]] — Recognition, invitation, and guidance
-- [[Gene Keys]] — Shadow/Gift/Siddhi framework
+- [[Projector]] — Recognition, invitation, and guidance
+- Gene Keys — Shadow/Gift/Siddhi framework
 - [[The Magician (I)]] — Skill and channeled mastery
 
 ## Sources

@@ -425,8 +425,8 @@ When the individual honors the wave, waits for clarity, and speaks only what is 
 - [[Throat]]
 - [[Solar Plexus]]
 - Individual Knowing Circuit
-- [[Manifestor Type]]
-- [[Manifesting Generator Type]]
+- [[Manifestor]]
+- Manifesting [[Generator]]
 - [[Emotional Authority]]
 - Single Definition
 - Strategy and [[Authority]]
@@ -434,17 +434,17 @@ When the individual honors the wave, waits for clarity, and speaks only what is 
 - Deconditioning Process
 
 **I-Ching:**
-- [[Hexagram 12 - Standstill (Pi)]]
-- [[Hexagram 22 - Grace (Bi)]]
+- Hexagram 12 - Standstill (Pi)
+- Hexagram 22 - Grace (Bi)
 
 **Gene Keys:**
-- [[Gene Key 12 - Vanity to Purity]]
-- [[Gene Key 22 - Dishonour to Grace]]
+- Gene Key 12 - Vanity to Purity
+- Gene Key 22 - Dishonour to Grace
 
 **Astrology:**
 - [[Venus ♀]] (beauty, grace, emotional truth)
-- [[Astrology/Planets/Mercury # ☿]] (communication, voice, articulation)
-- [[Moon in 3rd House]] (emotional communication)
+- [[Mercury ☿]] (communication, voice, articulation)
+- Moon in 3rd House (emotional communication)
 - [[Pisces ♓]] (emotional openness)
 - [[Gemini ♊]] (articulation, duality)
 
@@ -455,19 +455,19 @@ When the individual honors the wave, waits for clarity, and speaks only what is 
 **Qabalah:**
 - [[Tiphareth]] (Beauty, solar principle)
 - [[Yesod]] (Foundation, lunar receptive)
-- [[Path of Daleth]] (The Empress path)
+- Path of Daleth (The Empress path)
 
 **Jungian Psychology:**
 - [[The Transcendent Function]]
 - Shadow Integration
-- [[Individuation]]
+- Individuation
 - The Poet Archetype
 - Feeling Function
 
 **Related Channels:**
-- [[Channel 39-55 - Emoting]] (Individual emotional spirit)
-- [[Channel 35-36 - Transitoriness]] (Collective emotional expression)
-- [[Channel 30-41 - Recognition]] (Abstract emotional fuel)
+- Channel 39-55 - Emoting (Individual emotional spirit)
+- Channel 35-36 - Transitoriness (Collective emotional expression)
+- Channel 30-41 - Recognition (Abstract emotional fuel)
 
 ## Sources
 **Primary Source:**

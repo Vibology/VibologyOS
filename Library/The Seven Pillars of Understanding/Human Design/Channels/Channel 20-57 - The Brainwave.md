@@ -320,16 +320,16 @@ When recognized and invited, the 20-57 individual becomes the **intuitive oracle
 
 - [[Gate 20 - Contemplation]] — The Now, awareness in the present moment
 - [[Gate 57 - The Gentle]] — Intuitive clarity, acoustic knowing, penetration
-- [[Channel 10-20 - Awakening]] — Integration Circuit partner (G-Throat)
-- [[Channel 10-57 - Survival]] — Integration Circuit partner (Spleen-G)
-- [[Channel 34-57 - Power]] — Integration Circuit partner (Spleen-Sacral)
+- Channel 10-20 - Awakening — Integration Circuit partner (G-Throat)
+- Channel 10-57 - Survival — Integration Circuit partner (Spleen-G)
+- Channel 34-57 - Power — Integration Circuit partner (Spleen-Sacral)
 - [[Spleen]] — Intuition, immunity, fear, survival awareness
 - [[Throat]] — Manifestation, voice, action
 - Integration Circuit — Self-empowerment, survival, presence
 - Individual Knowing Circuit — Mutation, melancholy, acoustic knowing
-- [[Projector Type]] — Recognition, invitation, guidance
+- [[Projector]] — Recognition, invitation, guidance
 - [[Splenic Authority]] — Instantaneous, in-the-moment knowing
-- [[Gene Keys]] — Shadow/Gift/Siddhi framework
+- Gene Keys — Shadow/Gift/Siddhi framework
 - [[The High Priestess (II)]] — Intuitive knowing, inner voice
 
 ## Sources

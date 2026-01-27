@@ -398,13 +398,13 @@ This is the essence of the Individual Knowing Circuit: **empowering others throu
 ### Sequential Connections (Within Individual Knowing Circuit)
 - [[Gate 28 - Preponderance of the Great]] — Preponderance of the Great, Spleen Center risk
 - [[Gate 38 - Opposition]] — Opposition, Root Center pressure to oppose
-- [[Channel 1-8 - Inspiration]] — Creative contribution
-- [[Channel 12-22 - Openness]] — Emotional social expression
-- [[Channel 23-43 - Structuring]] — Individual insights explained
+- Channel 1-8 - Inspiration — Creative contribution
+- Channel 12-22 - Openness — Emotional social expression
+- Channel 23-43 - Structuring — Individual insights explained
 
 ### Channel Connections (Related Themes)
-- [[Channel 25-51 - Initiation]] — Individual courage to leap into the unknown
-- [[Channel 34-57 - Power]] — Archetype of human power and intuition
+- Channel 25-51 - Initiation — Individual courage to leap into the unknown
+- Channel 34-57 - Power — Archetype of human power and intuition
 
 ### Circuit Connections (Individual Stream)
 - Individual Knowing Circuit — All channels expressing mutation and acoustic knowing
@@ -421,15 +421,15 @@ This is the essence of the Individual Knowing Circuit: **empowering others throu
 - Geburah (Qabalah) — Severity, strength, Mars principle
 
 ### Thematic Collections
-- [[Spleen Center Channels]] — All channels involving instinctive awareness
-- [[Root Center Channels]] — All channels involving pressure and drive
-- [[Projected Channels]] — Channels requiring recognition and invitation
+- Spleen Center Channels — All channels involving instinctive awareness
+- Root Center Channels — All channels involving pressure and drive
+- Projected Channels — Channels requiring recognition and invitation
 - Channels of Courage — Channels related to fighting and opposition
 
 ### Archetypal and Mythological
 - The Warrior Archetype — Ares, Athena, Mulan—fighters and heroes
-- [[Mars (Astrology)]] — Planetary archetype of will and fighting spirit
-- [[Pluto (Astrology)]] — Planetary archetype of transformation through crisis
+- Mars — Planetary archetype of will and fighting spirit
+- Pluto — Planetary archetype of transformation through crisis
 - [[The Hero's Journey]] — Campbell's monomyth of struggle and transformation
 
 ### Biological and Somatic
@@ -442,7 +442,7 @@ This is the essence of the Individual Knowing Circuit: **empowering others throu
 - Strategy and [[Authority]] — Waiting for recognition before engaging in struggle
 - Defined vs. Undefined Centers — Understanding fixed vs. variable fighting energy
 - The 7-Year Deconditioning Cycle — Returning to purposeful struggle
-- [[Individual Empowerment]] — Understanding mutation and unique contribution
+- Individual Empowerment — Understanding mutation and unique contribution
 
 ## Sources
 **Primary Source:**

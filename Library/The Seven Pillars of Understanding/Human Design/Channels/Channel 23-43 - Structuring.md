@@ -308,13 +308,13 @@ When recognized and invited, the 23-43 individual becomes the **voice of mutatio
 
 - [[Gate 23 - Splitting Apart]] — Assimilation, simplicity, amoral knowing
 - [[Gate 43 - Breakthrough]] — Insight, inner ear, acoustic knowing
-- [[Channel 1-8 - Inspiration]] — Individual Knowing partner (creative role model)
-- [[Channel 28-38 - The Fighter]] — Individual Knowing partner (struggle for purpose)
+- Channel 1-8 - Inspiration — Individual Knowing partner (creative role model)
+- Channel 28-38 - The Fighter — Individual Knowing partner (struggle for purpose)
 - [[Ajna]] — Conceptualization and mental processing
 - [[Throat]] — Manifestation and voice
 - Individual Knowing Circuit — Mutation, empowerment, acoustic awareness
-- [[Projector Type]] — Recognition, invitation, and guidance
-- [[Gene Keys]] — Shadow/Gift/Siddhi framework
+- [[Projector]] — Recognition, invitation, and guidance
+- Gene Keys — Shadow/Gift/Siddhi framework
 - [[The Fool (0)]] — Individual mutation and leap of faith
 
 ## Sources

@@ -104,7 +104,7 @@ When recognized and aligned (not identifying with moods, waiting for clarity), t
 
 - [[Gate 39 - Obstruction]] — Provocation, Root pressure to obstruct and transform
 - [[Gate 55 - Abundance]] — Spirit, Solar Plexus emotional richness
-- [[Channel 12-22 - Openness]] — Individual emotional voice (Solar Plexus-Throat)
+- Channel 12-22 - Openness — Individual emotional voice (Solar Plexus-Throat)
 - [[Root]] — Pressure and drive
 - [[Solar Plexus]] — Emotional awareness and wave
 - Individual Knowing Circuit — Mutation, uniqueness, acoustic knowing

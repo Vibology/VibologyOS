@@ -104,8 +104,8 @@ When aligned with Strategy and Authority (responding to intuition in the now), t
 
 - [[Gate 34 - The Power of the Great]] — Pure power to empower
 - [[Gate 57 - The Gentle]] — Intuitive clarity in the now
-- [[Channel 10-57 - Perfected Form]] — G-Spleen survival intuition
-- [[Channel 20-57 - Brainwave]] — Throat-Spleen penetrating awareness
+- Channel 10-57 - Perfected Form — G-Spleen survival intuition
+- Channel 20-57 - Brainwave — Throat-Spleen penetrating awareness
 - [[Sacral]] — Life-force and response
 - [[Spleen]] — Instinct and survival awareness
 - Integration Channels — Pure self-empowerment (10-20, 20-34, 10-57, 34-57)

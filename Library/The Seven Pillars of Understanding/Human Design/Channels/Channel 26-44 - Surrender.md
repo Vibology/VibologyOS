@@ -404,13 +404,13 @@ This is the essence of the Tribal Ego Circuit: **using willpower to serve the tr
 ### Sequential Connections (Within Tribal Ego Circuit)
 - [[Gate 26 - The Taming Power of the Great]] — Taming Power of the Great, Ego Center control
 - [[Gate 44 - Coming to Meet]] — Coming to Meet, Spleen Center pattern recognition
-- [[Channel 21-45 - Money]] — Ego-Throat tribal control and resources
-- [[Channel 40-37 - Community]] — Ego-Solar Plexus tribal support and bargains
-- [[Channel 19-49 - Synthesis]] — Root-Solar Plexus tribal needs and principles
+- Channel 21-45 - Money — Ego-Throat tribal control and resources
+- Channel 40-37 - Community — Ego-Solar Plexus tribal support and bargains
+- Channel 19-49 - Synthesis — Root-Solar Plexus tribal needs and principles
 
 ### Channel Connections (Related Themes)
-- [[Channel 32-54 - Transformation]] — Spleen-Root tribal ambition and fear of failure
-- [[Channel 27-50 - Preservation]] — Sacral-Spleen tribal nurturing and values
+- Channel 32-54 - Transformation — Spleen-Root tribal ambition and fear of failure
+- Channel 27-50 - Preservation — Sacral-Spleen tribal nurturing and values
 
 ### Circuit Connections (Tribal Stream)
 - Tribal Defense Circuit — Channels 6-59 (Mating), 27-50 (Preservation)
@@ -427,15 +427,15 @@ This is the essence of the Tribal Ego Circuit: **using willpower to serve the tr
 
 ### Thematic Collections
 - [[Heart]] Channels — All channels involving the Heart/Ego Center
-- [[Spleen Center Channels]] — All channels involving instinctive awareness
-- [[Projected Channels]] — Channels requiring recognition and invitation
+- Spleen Center Channels — All channels involving instinctive awareness
+- Projected Channels — Channels requiring recognition and invitation
 - Channels of Influence — Channels related to persuasion and narrative control
 
 ### Archetypal and Mythological
 - The Trickster Archetype — Hermes, Loki, Anansi—shapeshifters and boundary-crossers
-- [[The Salesperson/Marketer]] — Modern embodiment of persuasive transmission
-- [[Mercury (Astrology)]] — Planetary archetype of intelligence and communication
-- [[Saturn (Astrology)]] — Planetary archetype of authority and structure
+- The Salesperson/Marketer — Modern embodiment of persuasive transmission
+- Mercury — Planetary archetype of intelligence and communication
+- Saturn — Planetary archetype of authority and structure
 
 ### Biological and Somatic
 - [[Heart]] — The center of willpower, promises, and material engagement
@@ -448,7 +448,7 @@ This is the essence of the Tribal Ego Circuit: **using willpower to serve the tr
 - Defined vs. Undefined Centers — Understanding fixed vs. variable transmissive energy
 - The 7-Year Deconditioning Cycle — Returning to authentic tribal service
 - Ego Sustainability — Understanding the Ego's need for rest and conservation
-- [[Tribal Dynamics]] — Understanding bargains, promises, and tribal hierarchy
+- Tribal Dynamics — Understanding bargains, promises, and tribal hierarchy
 
 ## Sources
 **Primary Source:**

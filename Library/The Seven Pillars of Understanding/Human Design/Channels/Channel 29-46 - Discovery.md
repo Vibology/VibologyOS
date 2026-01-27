@@ -406,15 +406,15 @@ This is the essence of the Tantric channels: **the life-force energy reveals ide
 ### Sequential Connections (Within Collective Abstract Circuit)
 - [[Gate 29 - The Abysmal]] — The Abysmal, Sacral commitment
 - [[Gate 46 - Pushing Upward]] — Pushing Upward, G Center serendipity
-- [[Channel 30-41 - Recognition]] — Root-Solar Plexus desire and expectation
-- [[Channel 35-36 - Transitoriness]] — Solar Plexus-Throat emotional crisis
-- [[Channel 42-53 - Maturation]] — Root-Sacral cycles of beginning and ending
-- [[Channel 47-64 - Abstraction]] — Head-Ajna making sense of the past
+- Channel 30-41 - Recognition — Root-Solar Plexus desire and expectation
+- Channel 35-36 - Transitoriness — Solar Plexus-Throat emotional crisis
+- Channel 42-53 - Maturation — Root-Sacral cycles of beginning and ending
+- Channel 47-64 - Abstraction — Head-Ajna making sense of the past
 
 ### Channel Connections (Related Themes - Tantric Channels)
-- [[Channel 5-15 - Rhythm]] — Sacral-G Collective Logic fixed patterns
-- [[Channel 2-14 - The Beat]] — Sacral-G Individual Knowing power skills
-- [[Channel 29-46 - Discovery]] — Sacral-G Collective Abstract serendipity
+- Channel 5-15 - Rhythm — Sacral-G Collective Logic fixed patterns
+- Channel 2-14 - The Beat — Sacral-G Individual Knowing power skills
+- Channel 29-46 - Discovery — Sacral-G Collective Abstract serendipity
 
 ### Circuit Connections (Collective Stream)
 - Collective Understanding (Logic) Circuit — Patterns, security, future focus
@@ -426,32 +426,32 @@ This is the essence of the Tantric channels: **the life-force energy reveals ide
 - Gene Keys 29 - Half-Heartedness to Devotion — Shadow-Gift-Siddhi framework
 - Gene Keys 46 - Seriousness to Ecstasy — Shadow-Gift-Siddhi framework
 - [[The Hanged Man (XII)]] — Surrender and committed perspective shift
-- [[The Wheel of Fortune (X)]] — Luck, serendipity, cycles
+- [[Wheel of Fortune (X)]] — Luck, serendipity, cycles
 - Chesed and Netzach (Qabalah) — Mercy and Victory
 
 ### Thematic Collections
-- [[Sacral Center Channels]] — All channels involving life-force energy
+- Sacral Center Channels — All channels involving life-force energy
 - G Center Channels — All channels involving identity and direction
-- [[Generated Channels]] — All channels requiring Sacral response
-- [[Tantric Channels]] — Sacral-G connections (5-15, 2-14, 29-46)
+- Generated Channels — All channels requiring Sacral response
+- Tantric Channels — Sacral-G connections (5-15, 2-14, 29-46)
 
 ### Archetypal and Mythological
 - The Seeker Archetype — Odysseus, the Wanderer, the Pilgrim
-- [[Neptune (Astrology)]] — Planetary archetype of surrender and flow
-- [[Jupiter (Astrology)]] — Planetary archetype of expansion and luck
+- Neptune — Planetary archetype of surrender and flow
+- Jupiter — Planetary archetype of expansion and luck
 - [[The Hero's Journey]] — Discovery through committed experience
 
 ### Biological and Somatic
 - [[Sacral]] — The center of life-force and sexual energy
 - [[G Center]] — The center of identity, direction, and love
 - Magnetic Monopole — Ra's term for the orientation mechanism
-- [[Reproductive/Sexual Energy]] — Biological correspondence to Tantric channels
+- Reproductive/Sexual Energy — Biological correspondence to Tantric channels
 
 ### Practical Application
 - Strategy and [[Authority]] — Waiting for Sacral response before committing
 - Defined vs. Undefined Centers — Understanding fixed vs. variable commitment energy
 - The 7-Year Deconditioning Cycle — Returning to aligned commitment
-- [[Tantric Practice]] — Understanding Sacral-G energy and sexual/creative force
+- Tantric Practice — Understanding Sacral-G energy and sexual/creative force
 
 ## Sources
 **Primary Source:**

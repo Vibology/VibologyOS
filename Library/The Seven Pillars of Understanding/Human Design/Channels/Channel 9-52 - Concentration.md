@@ -338,8 +338,8 @@ Jung's process of individuation requires **focused attention on the psyche's con
 
 ### Circuit Family
 - Collective Logic Circuit — The broader circuit family
-- [[Channel 4-63 - Logic]] — Questioning patterns in the Logic stream
-- [[Channel 5-15 - Rhythm]] — Living in flow in the Logic stream
+- Channel 4-63 - Logic — Questioning patterns in the Logic stream
+- Channel 5-15 - Rhythm — Living in flow in the Logic stream
 - Format Energy Channels — The three pulsing channels (3-60, 9-52, 42-53)
 
 ### Type and Strategy
@@ -360,7 +360,7 @@ Jung's process of individuation requires **focused attention on the psyche's con
 ### Psychological and Archetypal
 - The Master Archetype — The one who perfects through focus
 - [[Individuation Process]] — Jung's concept of becoming whole
-- [[Senex and Puer]] — The integration of wisdom and determination
+- [[The Senex]] and [[Puer and Puella]] — The integration of wisdom and determination
 
 ### Biological and Somatic
 - Adrenal Glands — The stress-response system in the Root
@@ -370,8 +370,8 @@ Jung's process of individuation requires **focused attention on the psyche's con
 
 ### Practical Application
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
-- [[Honoring the Pulse]] — Learning to focus during "on" periods and rest during "off" periods
-- [[Mastery Through Rhythm]] — Perfecting skills through the cycle of concentration and stillness
+- Honoring the Pulse — Learning to focus during "on" periods and rest during "off" periods
+- Mastery Through Rhythm — Perfecting skills through the cycle of concentration and stillness
 
 ## Sources
 **Primary Source:**

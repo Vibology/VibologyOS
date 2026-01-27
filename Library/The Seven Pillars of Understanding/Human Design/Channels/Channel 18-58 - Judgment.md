@@ -304,13 +304,13 @@ When recognized and invited, the 18-58 individual becomes the **guardian of qual
 
 - [[Gate 18 - Work on What Has Been Spoilt]] — Correction, vigilance, healing dysfunction
 - [[Gate 58 - The Joyous]] — Vitality, joy of life, insatiability
-- [[Channel 16-48 - Wavelength]] — Logic Circuit partner (talent and depth)
-- [[Channel 17-62 - Acceptance]] — Logic Circuit partner (opinions and details)
+- Channel 16-48 - Wavelength — Logic Circuit partner (talent and depth)
+- Channel 17-62 - Acceptance — Logic Circuit partner (opinions and details)
 - [[Root]] — Pressure and drive
 - [[Spleen]] — Instinct, health, in-the-now awareness
 - Collective Understanding Circuit — Logic, patterns, security
-- [[Projector Type]] — Recognition, invitation, and guidance
-- [[Gene Keys]] — Shadow/Gift/Siddhi framework
+- [[Projector]] — Recognition, invitation, and guidance
+- Gene Keys — Shadow/Gift/Siddhi framework
 - [[Justice (XI)]] — Discernment and correction
 
 ## Sources

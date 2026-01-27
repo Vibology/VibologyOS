@@ -415,24 +415,24 @@ When the 13-33 shares from full integration (adequate retreat, invitation honore
 - [[G Center]]
 - [[Throat]]
 - Collective Sensing/Abstract Circuit
-- [[Projector Type]]
-- [[Strategy - Wait for Invitation]]
+- [[Projector]]
+- [[Wait for the Invitation]]
 - Single Definition
 - Not-Self Theme
 - Deconditioning Process
 
 **I-Ching:**
-- [[Hexagram 13 - Fellowship of Man (Tóng Rén)]]
-- [[Hexagram 33 - Retreat (Dùn)]]
+- Hexagram 13 - Fellowship of Man (Tóng Rén)
+- Hexagram 33 - Retreat (Dùn)
 
 **Gene Keys:**
-- [[Gene Key 13 - Discord to Empathy]]
-- [[Gene Key 33 - Forgetting to Revelation]]
+- Gene Key 13 - Discord to Empathy
+- Gene Key 33 - Forgetting to Revelation
 
 **Astrology:**
-- [[Moon in 3rd House]] (memory and communication)
-- [[Saturn in 12th House]] (retreat as discipline)
-- [[Mercury-Neptune]] (voice of collective memory)
+- Moon in 3rd House (memory and communication)
+- Saturn in 12th House (retreat as discipline)
+- Mercury-Neptune (voice of collective memory)
 
 **Tarot:**
 - [[The Hermit (IX)]] (retreat for wisdom)
@@ -441,18 +441,18 @@ When the 13-33 shares from full integration (adequate retreat, invitation honore
 **Qabalah:**
 - [[Binah]] (Understanding, receptivity)
 - [[Chokmah]] (Wisdom, revelation)
-- [[The Emperor Path (He)]]
+- The Emperor Path (He)
 
 **Jungian Psychology:**
 - [[The Collective Unconscious]]
 - The Witness Archetype
 - The Storyteller Archetype
-- [[The Prodigal Journey]]
+- The Prodigal Journey
 
 **Related Channels:**
-- [[Channel 11-56 - Curiosity]] (Collective storytelling through ideas)
-- [[Channel 35-36 - Transitoriness]] (Collective emotional experience)
-- [[Channel 7-31 - The Alpha]] (Collective logical leadership)
+- Channel 11-56 - Curiosity (Collective storytelling through ideas)
+- Channel 35-36 - Transitoriness (Collective emotional experience)
+- Channel 7-31 - The Alpha (Collective logical leadership)
 
 ## Sources
 **Primary Source:**

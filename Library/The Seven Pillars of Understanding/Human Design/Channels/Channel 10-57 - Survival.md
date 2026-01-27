@@ -343,8 +343,8 @@ Jung's process of individuation requires **trusting the psyche's intuitive guida
 
 ### Circuit Family
 - Integration Channels — The four channels of self-empowerment (10-20, 10-34, 10-57, 20-34)
-- [[Channel 10-20 - Awakening]] — Commitment to higher principles
-- [[Channel 10-34 - Exploration]] — Following convictions
+- Channel 10-20 - Awakening — Commitment to higher principles
+- Channel 10-34 - Exploration — Following convictions
 
 ### Type and Strategy
 - [[Projector]] — The natural Type for this Projected channel
@@ -357,12 +357,12 @@ Jung's process of individuation requires **trusting the psyche's intuitive guida
 - I-Ching Hexagram 57 - The Gentle — The source hexagram for Gate 57
 - Gene Keys 10 - Self-Obsession to Being — Richard Rudd's framework for Gate 10
 - Gene Keys 57 - Unease to Clarity — Richard Rudd's framework for Gate 57
-- [[The Wheel of Fortune (X)]] — Resonance with behavior of self
+- [[Wheel of Fortune (X)]] — Resonance with behavior of self
 - [[The Hermit (IX)]] — Resonance with intuitive guidance
 
 ### Psychological and Archetypal
 - The Artist Archetype — The one who perfects through beauty
-- [[The Wise Old One]] — The archetype of intuitive knowing
+- [[The Wise Old Man]] — The archetype of intuitive knowing
 - [[The Self]] — The totality of the psyche
 - [[Individuation Process]] — Jung's concept of trusting psyche's guidance
 
@@ -375,7 +375,7 @@ Jung's process of individuation requires **trusting the psyche's intuitive guida
 ### Practical Application
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - Trusting Intuition — Acting on the Spleen's instant knowing
-- [[Perfected Form as Survival]] — Beauty and grace as the path to safety
+- Perfected Form as Survival — Beauty and grace as the path to safety
 
 ## Sources
 **Primary Source:**

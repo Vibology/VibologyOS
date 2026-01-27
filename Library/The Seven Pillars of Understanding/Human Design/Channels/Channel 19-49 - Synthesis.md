@@ -308,14 +308,14 @@ When recognized and invited, the 19-49 individual becomes the **emotional heart 
 
 - [[Gate 19 - Approach]] — Needs, wanting, interdependence
 - [[Gate 49 - Revolution]] — Principles, acceptance and rejection, marriage/divorce
-- [[Channel 21-45 - Money]] — Tribal Ego partner (control and gathering)
-- [[Channel 37-40 - Community]] — Tribal Ego partner (bargains and affection)
+- Channel 21-45 - Money — Tribal Ego partner (control and gathering)
+- Channel 37-40 - Community — Tribal Ego partner (bargains and affection)
 - [[Root]] — Pressure and drive
 - [[Solar Plexus]] — Emotion and the wave
 - Tribal Ego Circuit — Support, material needs, bargains
 - [[Emotional Authority]] — Decision-making through the wave
-- [[Projector Type]] — Recognition, invitation, and guidance
-- [[Gene Keys]] — Shadow/Gift/Siddhi framework
+- [[Projector]] — Recognition, invitation, and guidance
+- Gene Keys — Shadow/Gift/Siddhi framework
 - [[The Lovers (VI)]] — Union and principles of relationship
 
 ## Sources

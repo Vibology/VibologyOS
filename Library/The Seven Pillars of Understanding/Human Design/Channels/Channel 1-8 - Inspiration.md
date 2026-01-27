@@ -350,8 +350,8 @@ This is the melancholy of the Individual: **to be oneself is to be alone**. But 
 
 ### Circuit Family
 - Individual Knowing Circuit — The broader circuit family
-- [[Channel 24-61 - Awareness]] — Mental knowing in the Individual stream
-- [[Channel 43-23 - Structuring]] — Efficiency and insight in the Individual stream
+- Channel 24-61 - Awareness — Mental knowing in the Individual stream
+- Channel 43-23 - Structuring — Efficiency and insight in the Individual stream
 - Individual Circuit Gates — All gates within the Individual stream
 
 ### Type and Strategy
@@ -371,8 +371,8 @@ This is the melancholy of the Individual: **to be oneself is to be alone**. But 
 ### Psychological and Archetypal
 - The Creator Archetype — Jungian pattern of bringing forth new realities
 - [[Individuation Process]] — Jung's concept of becoming oneself
-- [[Self and Persona]] — The integration of inner truth and outer expression
-- [[Melancholy (Individual)]] — The existential aloneness of mutation
+- Self and Persona — The integration of inner truth and outer expression
+- Melancholy (Individual) — The existential aloneness of mutation
 
 ### Biological and Somatic
 - Magnetic Monopole — The orientation mechanism in the G Center
@@ -383,7 +383,7 @@ This is the melancholy of the Individual: **to be oneself is to be alone**. But 
 ### Practical Application
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - Electromagnetic Completion — How channels complete in relationships
-- [[Individual Empowerment vs. Collective Leadership]] — Distinguishing roles
+- Individual Empowerment vs. Collective Leadership — Distinguishing roles
 
 ## Sources
 **Primary Source:**

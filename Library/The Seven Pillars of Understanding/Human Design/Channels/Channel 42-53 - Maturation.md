@@ -104,8 +104,8 @@ When aligned with Sacral response (starting when correct, completing when sustai
 
 - [[Gate 42 - Increase]] — Growth, completion, bringing to fullness
 - [[Gate 53 - Development]] — Beginnings, initiation, starting cycles
-- [[Channel 3-60 - Mutation]] — Format Energy (chaos to order)
-- [[Channel 9-52 - Concentration]] — Format Energy (focus through stillness)
+- Channel 3-60 - Mutation — Format Energy (chaos to order)
+- Channel 9-52 - Concentration — Format Energy (focus through stillness)
 - [[Root]] — Pressure and drive
 - [[Sacral]] — Life-force and response
 - Collective Sensing Circuit — Experience-based abstract learning

@@ -336,8 +336,8 @@ Jung's process of individuation is the journey to the Self. The Channel 10-20 in
 
 ### Circuit Family
 - Integration Channels — The four channels of self-empowerment (10-20, 10-34, 10-57, 20-34)
-- [[Channel 10-34 - Exploration]] — Following convictions
-- [[Channel 10-57 - Survival]] — Perfected form
+- Channel 10-34 - Exploration — Following convictions
+- Channel 10-57 - Survival — Perfected form
 
 ### Type and Strategy
 - [[Projector]] — The natural Type for this Projected channel
@@ -350,7 +350,7 @@ Jung's process of individuation is the journey to the Self. The Channel 10-20 in
 - I-Ching Hexagram 20 - Contemplation — The source hexagram for Gate 20
 - Gene Keys 10 - Self-Obsession to Being — Richard Rudd's framework for Gate 10
 - Gene Keys 20 - Superficiality to Presence — Richard Rudd's framework for Gate 20
-- [[The Wheel of Fortune (X)]] — Resonance with behavior of self
+- [[Wheel of Fortune (X)]] — Resonance with behavior of self
 - [[Judgement (XX)]] — Resonance with awakening presence
 
 ### Psychological and Archetypal
@@ -365,7 +365,7 @@ Jung's process of individuation is the journey to the Self. The Channel 10-20 in
 
 ### Practical Application
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
-- [[Self-Love as Survival]] — Loving oneself as the foundation of Integration
+- Self-Love as Survival — Loving oneself as the foundation of Integration
 - Present-Moment Awareness — Living in the now
 
 ## Sources

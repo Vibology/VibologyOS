@@ -401,12 +401,12 @@ This is the essence of the Tribal Defense Circuit: **protecting the tribe's futu
 ### Sequential Connections (Within Tribal Defense Circuit)
 - [[Gate 27 - Nourishment]] — Caring, Sacral Center life-force for nurturing
 - [[Gate 50 - The Cauldron]] — Values, Spleen Center instinctive preservation
-- [[Channel 6-59 - Mating]] — Sacral-Solar Plexus intimacy and reproduction
+- Channel 6-59 - Mating — Sacral-Solar Plexus intimacy and reproduction
 
 ### Channel Connections (Related Themes)
-- [[Channel 19-49 - Synthesis]] — Root-Solar Plexus tribal needs and principles
-- [[Channel 26-44 - Surrender]] — Spleen-Ego tribal memory and influence
-- [[Channel 32-54 - Transformation]] — Spleen-Root tribal ambition
+- Channel 19-49 - Synthesis — Root-Solar Plexus tribal needs and principles
+- Channel 26-44 - Surrender — Spleen-Ego tribal memory and influence
+- Channel 32-54 - Transformation — Spleen-Root tribal ambition
 
 ### Circuit Connections (Tribal Stream)
 - Tribal Ego Circuit — Channels 21-45 (Money), 26-44 (Surrender), 40-37 (Community), 19-49 (Synthesis)
@@ -422,28 +422,28 @@ This is the essence of the Tribal Defense Circuit: **protecting the tribe's futu
 - Chesed and Geburah (Qabalah) — Mercy and Severity balanced
 
 ### Thematic Collections
-- [[Sacral Center Channels]] — All channels involving life-force energy
-- [[Spleen Center Channels]] — All channels involving instinctive awareness
-- [[Generated Channels]] — Channels requiring Sacral response
+- Sacral Center Channels — All channels involving life-force energy
+- Spleen Center Channels — All channels involving instinctive awareness
+- Generated Channels — Channels requiring Sacral response
 - Channels of Caring — Channels related to nurturing and preservation
 
 ### Archetypal and Mythological
 - The Caregiver Archetype — The nurturer who sustains life
 - Folklore/Jungian Archetypes/The Great Mother — Demeter, Isis—archetypal mothers and protectors
-- [[The Moon (Astrology)]] — Planetary archetype of nurturing and mothering
-- [[Saturn (Astrology)]] — Planetary archetype of structure and boundaries
+- The Moon — Planetary archetype of nurturing and mothering
+- Saturn — Planetary archetype of structure and boundaries
 
 ### Biological and Somatic
 - [[Sacral]] — The center of life-force, work, and reproduction
 - [[Spleen]] — The center of instinct, immune system, and survival
 - Immune System — Biological correspondence to values and preservation
-- [[Reproductive System]] — Biological correspondence to caring and nurturing
+- Reproductive System — Biological correspondence to caring and nurturing
 
 ### Practical Application
 - Strategy and [[Authority]] — Waiting for Sacral response before caring
 - Defined vs. Undefined Centers — Understanding fixed vs. variable caring energy
 - The 7-Year Deconditioning Cycle — Returning to sustainable caring
-- [[Tribal Dynamics]] — Understanding caring, values, and tribal responsibility
+- Tribal Dynamics — Understanding caring, values, and tribal responsibility
 
 ## Sources
 **Primary Source:**

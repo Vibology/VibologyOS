@@ -104,7 +104,7 @@ When aligned (waiting through the wave, informing before initiating), the 35-36 
 
 - [[Gate 35 - Progress]] — Change, new experience, hunger for growth
 - [[Gate 36 - Darkening of the Light]] — Crisis, emotional darkness, resilience
-- [[Channel 12-22 - Openness]] — Individual emotional voice
+- Channel 12-22 - Openness — Individual emotional voice
 - [[Solar Plexus]] — Emotional awareness and the wave
 - [[Throat]] — Voice and manifestation
 - Collective Sensing Circuit — Experience-based abstract learning

@@ -338,8 +338,8 @@ Jung's process of individuation requires **recognizing the difference between eg
 
 ### Circuit Family
 - Collective Logic Circuit — The broader circuit family
-- [[Channel 4-63 - Logic]] — Questioning patterns in the Logic stream
-- [[Channel 5-15 - Rhythm]] — Living in flow in the Logic stream
+- Channel 4-63 - Logic — Questioning patterns in the Logic stream
+- Channel 5-15 - Rhythm — Living in flow in the Logic stream
 - Collective Circuit Gates — All gates within the Collective stream
 
 ### Type and Strategy
@@ -364,12 +364,12 @@ Jung's process of individuation requires **recognizing the difference between eg
 ### Biological and Somatic
 - Liver (Biology) — The organ associated with the G Center
 - Thyroid and Parathyroid — The glands associated with the Throat
-- [[Magnetic Presence]] — The leadership aura of the G-to-Throat connection
+- Magnetic Presence — The leadership aura of the G-to-Throat connection
 
 ### Practical Application
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - Waiting for Recognition — Leading only when invited
-- [[Stepping Down]] — Releasing leadership when the role is complete
+- Stepping Down — Releasing leadership when the role is complete
 
 ## Sources
 **Primary Source:**

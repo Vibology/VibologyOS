@@ -308,14 +308,14 @@ When recognized and invited, the 21-45 individual becomes the **benevolent sover
 
 - [[Gate 21 - Biting Through]] — Control, the Hunter/Huntress, justified force
 - [[Gate 45 - Gathering Together]] — The Gatherer, "I have," tribal voice
-- [[Channel 19-49 - Synthesis]] — Tribal Ego partner (needs and principles)
-- [[Channel 26-44 - Surrender]] — Tribal Ego partner (sales and manipulation)
-- [[Channel 37-40 - Community]] — Tribal Ego partner (bargains and affection)
-- [[Heart (Ego) Center]] — Willpower and material authority
+- Channel 19-49 - Synthesis — Tribal Ego partner (needs and principles)
+- Channel 26-44 - Surrender — Tribal Ego partner (sales and manipulation)
+- Channel 37-40 - Community — Tribal Ego partner (bargains and affection)
+- [[Heart]] — Willpower and material authority
 - [[Throat]] — Manifestation and voice
 - Tribal Ego Circuit — Support, material needs, bargains
-- [[Manifestor Type]] — Informing, initiating, independence
-- [[Gene Keys]] — Shadow/Gift/Siddhi framework
+- [[Manifestor]] — Informing, initiating, independence
+- Gene Keys — Shadow/Gift/Siddhi framework
 - [[The Emperor (IV)]] — Material authority and structure
 
 ## Sources

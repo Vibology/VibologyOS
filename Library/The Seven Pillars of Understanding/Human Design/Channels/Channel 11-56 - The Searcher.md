@@ -342,8 +342,8 @@ Jung's process of individuation requires **reflecting on one's experiences and i
 
 ### Circuit Family
 - Collective Abstract Circuit — The broader circuit family
-- [[Channel 47-64 - Abstraction]] — Making sense of the past
-- [[Channel 35-36 - Transitoriness]] — Emotional crisis and progress
+- Channel 47-64 - Abstraction — Making sense of the past
+- Channel 35-36 - Transitoriness — Emotional crisis and progress
 - Collective Circuit Gates — All gates within the Collective stream
 
 ### Type and Strategy
@@ -369,12 +369,12 @@ Jung's process of individuation requires **reflecting on one's experiences and i
 ### Biological and Somatic
 - Pituitary Gland — The conceptual processing center in the Ajna
 - Thyroid and Parathyroid — The glands associated with the Throat
-- [[Mental Stimulation]] — The drive to ideate and express
+- Mental Stimulation — The drive to ideate and express
 
 ### Practical Application
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - Waiting for Invitation to Share — Storytelling only when recognized
-- [[Searching and Reflecting]] — Gathering experiences and distilling meaning
+- Searching and Reflecting — Gathering experiences and distilling meaning
 
 ## Sources
 **Primary Source:**

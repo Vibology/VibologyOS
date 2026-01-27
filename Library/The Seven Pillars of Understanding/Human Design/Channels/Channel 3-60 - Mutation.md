@@ -332,8 +332,8 @@ Jung's process of individuation requires **accepting the limitations of the ego*
 
 ### Circuit Family
 - Individual Knowing Circuit — The broader circuit family
-- [[Channel 1-8 - Inspiration]] — Creative contribution in the Individual stream
-- [[Channel 2-14 - The Beat]] — Direction and power in the Individual stream
+- Channel 1-8 - Inspiration — Creative contribution in the Individual stream
+- Channel 2-14 - The Beat — Direction and power in the Individual stream
 - Format Energy Channels — The three pulsing channels (3-60, 9-52, 42-53)
 
 ### Type and Strategy
@@ -354,7 +354,7 @@ Jung's process of individuation requires **accepting the limitations of the ego*
 ### Psychological and Archetypal
 - The Revolutionary Archetype — The one who births the new
 - [[Individuation Process]] — Jung's concept of becoming whole
-- [[Self and Trickster]] — The integration of order and chaos
+- Self and Trickster — The integration of order and chaos
 
 ### Biological and Somatic
 - Adrenal Glands — The stress-response system in the Root
@@ -364,8 +364,8 @@ Jung's process of individuation requires **accepting the limitations of the ego*
 
 ### Practical Application
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
-- [[Honoring the Pulse]] — Learning to rest during "off" periods
-- [[Limitation as Doorway]] — Using constraints as catalysts for innovation
+- Honoring the Pulse — Learning to rest during "off" periods
+- Limitation as Doorway — Using constraints as catalysts for innovation
 
 ## Sources
 **Primary Source:**

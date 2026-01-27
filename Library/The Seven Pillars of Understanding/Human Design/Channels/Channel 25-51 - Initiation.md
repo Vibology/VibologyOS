@@ -394,12 +394,12 @@ This is the essence of the Individual Centering Circuit: **centering in one's ow
 ### Sequential Connections (Within Individual Centering Circuit)
 - [[Gate 25 - Innocence]] — The Spirit of the Self, universal love, G Center identity
 - [[Gate 51 - The Arousing]] — The Arousing, willpower, Ego Center courage
-- [[Channel 10-34 - Exploration]] — The other Centering Circuit channel (Sacral-G connection)
+- Channel 10-34 - Exploration — The other Centering Circuit channel (Sacral-G connection)
 
 ### Channel Connections (Related Themes)
-- [[Channel 10-20 - Awakening]] — Another G Center-Throat awakening dynamic
-- [[Channel 21-45 - Money]] — Ego-Throat manifestation of tribal control
-- [[Channel 26-44 - Surrender]] — Ego-Spleen tribal ego dynamics
+- Channel 10-20 - Awakening — Another G Center-Throat awakening dynamic
+- Channel 21-45 - Money — Ego-Throat manifestation of tribal control
+- Channel 26-44 - Surrender — Ego-Spleen tribal ego dynamics
 
 ### Circuit Connections (Individual Stream)
 - Individual Knowing Circuit — Mutation, uniqueness, empowerment through example
@@ -417,14 +417,14 @@ This is the essence of the Individual Centering Circuit: **centering in one's ow
 ### Thematic Collections
 - [[Heart]] Channels — All channels involving the Heart/Ego Center
 - G Center Channels — All channels involving the Identity/Direction center
-- [[Projected Channels]] — Channels requiring recognition and invitation
+- Projected Channels — Channels requiring recognition and invitation
 - Channels of Courage — Channels related to willpower and bravery
 
 ### Archetypal and Mythological
 - [[The Hero's Journey]] — Campbell's monomyth of initiation and transformation
-- [[The Spiritual Warrior]] — Archetype of courage aligned with spiritual truth
-- [[Initiation Rites]] — Cross-cultural rituals of transformation through ordeal
-- [[Mars (Astrology)]] — Planetary archetype of will, courage, and initiation
+- The Spiritual Warrior — Archetype of courage aligned with spiritual truth
+- Initiation Rites — Cross-cultural rituals of transformation through ordeal
+- Mars — Planetary archetype of will, courage, and initiation
 
 ### Biological and Somatic
 - [[Heart]] — The center of willpower, promises, and material world engagement

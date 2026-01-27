@@ -345,9 +345,9 @@ Jung's process of individuation requires **questioning inherited patterns** (Gat
 
 ### Circuit Family
 - Collective Logic Circuit — The broader circuit family
-- [[Channel 17-62 - Acceptance]] — Organizing details in the Logic stream
-- [[Channel 16-48 - Wavelength]] — Mastery through repetition
-- [[Channel 7-31 - The Alpha]] — Democratic leadership
+- Channel 17-62 - Acceptance — Organizing details in the Logic stream
+- Channel 16-48 - Wavelength — Mastery through repetition
+- Channel 7-31 - The Alpha — Democratic leadership
 
 ### Type and Strategy
 - [[Projector]] — The natural Type for this Projected channel
@@ -366,7 +366,7 @@ Jung's process of individuation requires **questioning inherited patterns** (Gat
 ### Psychological and Archetypal
 - The Scientist Archetype — The one who questions and tests
 - [[Individuation Process]] — Jung's concept of becoming whole
-- [[Senex and Puer]] — The integration of elder wisdom and youthful formulation
+- [[The Senex]] and [[Puer and Puella]] — The integration of elder wisdom and youthful formulation
 
 ### Biological and Somatic
 - Pineal Gland — The mental pressure center in the Head
@@ -375,8 +375,8 @@ Jung's process of individuation requires **questioning inherited patterns** (Gat
 
 ### Practical Application
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
-- [[Honoring Doubt]] — Allowing questions to remain unanswered until tested
-- [[Pattern Testing]] — Verifying formulas over time
+- Honoring Doubt — Allowing questions to remain unanswered until tested
+- Pattern Testing — Verifying formulas over time
 
 ## Sources
 **Primary Source:**

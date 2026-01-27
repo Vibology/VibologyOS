@@ -333,8 +333,8 @@ Jung's process of individuation requires **living the Self's truth in the world*
 
 ### Circuit Family
 - Integration Channels — The four channels of self-empowerment (10-20, 10-34, 10-57, 20-34)
-- [[Channel 10-20 - Awakening]] — Commitment to higher principles
-- [[Channel 10-57 - Survival]] — Perfected form
+- Channel 10-20 - Awakening — Commitment to higher principles
+- Channel 10-57 - Survival — Perfected form
 
 ### Type and Strategy
 - [[Generator]] — The natural Type for this Generated channel
@@ -348,7 +348,7 @@ Jung's process of individuation requires **living the Self's truth in the world*
 - I-Ching Hexagram 34 - Power of the Great — The source hexagram for Gate 34
 - Gene Keys 10 - Self-Obsession to Being — Richard Rudd's framework for Gate 10
 - Gene Keys 34 - Force to Majesty — Richard Rudd's framework for Gate 34
-- [[The Wheel of Fortune (X)]] — Resonance with behavior of self
+- [[Wheel of Fortune (X)]] — Resonance with behavior of self
 - [[The Emperor (IV)]] — Resonance with empowered authority
 
 ### Psychological and Archetypal
@@ -360,12 +360,12 @@ Jung's process of individuation requires **living the Self's truth in the world*
 ### Biological and Somatic
 - Liver (Biology) — The organ associated with the G Center
 - Ovaries and Testes — The reproductive organs in the Sacral
-- [[Self-Love as Vitality]] — The link between authentic behavior and energy
+- Self-Love as Vitality — The link between authentic behavior and energy
 
 ### Practical Application
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - Following Convictions — Living by one's own rules
-- [[Self-Empowerment as Survival]] — Being oneself as the foundation of Integration
+- Self-Empowerment as Survival — Being oneself as the foundation of Integration
 
 ## Sources
 **Primary Source:**
