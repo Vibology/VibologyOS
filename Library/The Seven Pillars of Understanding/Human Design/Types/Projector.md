@@ -69,7 +69,7 @@ The Projector must wait to be invited, yet their aura is *always* reading and re
 
 This is the ordeal of the Projector—**sacred passivity**, the discipline of withholding wisdom until it is genuinely wanted.
 
-For deeper synthesis on this theme, see [[Projector_Invitation_as_Jungian_Call]].
+For deeper synthesis on this theme, see Projector Invitation as Jungian Call.
 
 ---
 
@@ -148,10 +148,10 @@ The Projector's challenge is learning to value their **insight** over output, th
 
 ## Cross-References
 
-- **Jungian Archetype:** The [[Wise Old Man]] / [[Wise Woman]] who offers counsel when sought
-- **Tarot:** [[The Hermit]] (wisdom through withdrawal) and [[The High Priestess]] (penetrating sight)
+- **Jungian Archetype:** The [[The Wise Old Man]] / Wise Woman who offers counsel when sought
+- **Tarot:** [[The Hermit (IX)]] (wisdom through withdrawal) and [[The High Priestess (II)]] (penetrating sight)
 - **Mythology:** Chiron (wounded healer), Athena (strategic wisdom), Merlin (advisor to the king)
-- **Synthesis:** See [[Projector_Invitation_as_Jungian_Call]] for Jungian integration
+- **Synthesis:** See Projector Invitation as Jungian Call for Jungian integration
 
 ---
 

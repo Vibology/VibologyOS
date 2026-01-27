@@ -155,8 +155,8 @@ The Generator-majority world is designed to *respond to life*, not force it into
 
 ## Cross-References
 
-- **Jungian Archetype:** The [[Craftsman]] (mastery through work) and [[Great Mother]] (sustaining life force)
-- **Tarot:** [[The Empress]] (fertile abundance) and [[Strength]] (endurance through engagement)
+- **Jungian Archetype:** The Craftsman (mastery through work) and [[The Great Mother]] (sustaining life force)
+- **Tarot:** [[The Empress (III)]] (fertile abundance) and [[Strength (VIII)]] (endurance through engagement)
 - **Mythology:** Hephaestus (divine craftsman), Demeter (cycle of work and harvest)
 - **Strategy Contrast:** See [[Manifestor#Strategy: To Inform]] for the initiating opposite
 

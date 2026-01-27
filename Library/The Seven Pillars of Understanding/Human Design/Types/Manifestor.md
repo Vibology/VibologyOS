@@ -121,8 +121,8 @@ The Manifestor's minority status is not accidental—their role is to **initiate
 
 ## Cross-References
 
-- **Jungian Archetype:** The [[Hero]] who answers the Call without external permission
-- **Tarot:** [[The Magus]] (Mercury/Initiation) and [[The Tower]] (sudden disruption)
+- **Jungian Archetype:** The Hero who answers the Call without external permission
+- **Tarot:** The Magus (Mercury/Initiation) and [[The Tower (XVI)]] (sudden disruption)
 - **Mythology:** Prometheus (stealing fire), Lucifer (bearer of light through rebellion)
 - **Strategy Contrast:** See [[Generator#Strategy: To Wait to Respond]] for the energetic opposite
 
