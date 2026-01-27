@@ -134,8 +134,8 @@ For those with Emotional Authority[^4]:
 
 - **Emotional Authority:** See [[Emotional Authority]] for decision-making through the wave
 - **Motor Centers:** See [[Sacral]], [[Heart]], [[Root]] for the other motors
-- **Jungian Parallel:** The [[Shadow]] (the wave reveals what is hidden) and [[Descent]] (katabasis)
-- **Tarot:** [[The Moon]] (emotional cycles), [[Death]] (transformation through endings)
+- **Jungian Parallel:** [[The Shadow]] (the wave reveals what is hidden) and Descent (katabasis)
+- **Tarot:** [[The Moon (XVIII)]] (emotional cycles), [[Death (XIII)]] (transformation through endings)
 
 ---
 ## Strategy Integration

@@ -117,8 +117,8 @@ The Head has three gates, each with a distinct flavor of mental pressure[^4]:
 
 - **Ajna Center:** See [[Ajna]] for where Head pressure is conceptualized
 - **Pineal Gland:** The biological seat of inspiration and circadian rhythms
-- **Jungian Parallel:** The [[Archetype]] of the Questioner—Prometheus, Pandora, the seeker who cannot rest
-- **Tarot:** [[The Hermit]] (seeking understanding in solitude), [[The Star]] (inspiration from above)
+- **Jungian Parallel:** The Archetype of the Questioner—Prometheus, Pandora, the seeker who cannot rest
+- **Tarot:** [[The Hermit (IX)]] (seeking understanding in solitude), [[The Star (XVII)]] (inspiration from above)
 
 ---
 ## Strategy Integration

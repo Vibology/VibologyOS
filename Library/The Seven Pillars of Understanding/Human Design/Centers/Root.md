@@ -141,8 +141,8 @@ The Root:
 
 - **Motor Centers:** See [[Sacral]], [[Solar Plexus]], [[Heart]] for the other motors
 - **Pressure Centers:** See [[Head]] for the other pressure center (mental vs. physical)
-- **Jungian Parallel:** The [[Shadow]] of urgency—the unconscious drive to escape pressure
-- **Tarot:** [[The Devil]] (bondage to urgency), [[The Tower]] (pressure that breaks structures)
+- **Jungian Parallel:** [[The Shadow]] of urgency—the unconscious drive to escape pressure
+- **Tarot:** [[The Devil (XV)]] (bondage to urgency), [[The Tower (XVI)]] (pressure that breaks structures)
 
 ---
 ## Strategy Integration

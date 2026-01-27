@@ -121,8 +121,8 @@ For all other Types, the G Center:
 
 - **Self-Projected Authority:** See [[Self-Projected Authority]] for Projectors with G-to-Throat connection
 - **Magnetic Monopole:** The geometric force that pulls you along your path
-- **Jungian Parallel:** The [[Self]] (not ego, but archetypal identity)
-- **Tarot:** [[The Lovers]] (identity through relationship), [[The World]] (completion of self)
+- **Jungian Parallel:** [[The Self]] (not ego, but archetypal identity)
+- **Tarot:** [[The Lovers (VI)]] (identity through relationship), [[The World (XXI)]] (completion of self)
 
 ---
 ## Strategy Integration

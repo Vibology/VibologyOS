@@ -128,8 +128,8 @@ For all Types, the Spleen:
 
 - **Splenic Authority:** See [[Splenic Authority]] for decision-making through instinct
 - **Awareness Centers:** See [[Ajna]], [[Solar Plexus]] for the other awareness centers
-- **Jungian Parallel:** The [[Instinct]] (pre-rational knowing) and [[Synchronicity]] (alignment with the moment)
-- **Tarot:** [[The Fool (0)]] (trust in the leap), [[The Magician]] (acting in the present)
+- **Jungian Parallel:** The Instinct (pre-rational knowing) and [[Synchronicity]] (alignment with the moment)
+- **Tarot:** [[The Fool (0)]] (trust in the leap), [[The Magician (I)]] (acting in the present)
 
 ---
 ## Strategy Integration

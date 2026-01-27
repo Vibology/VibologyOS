@@ -106,7 +106,7 @@ Manifestation requires **motor energy** connected to the Throat[^4]. The four mo
 When a motor is connected to the Throat:
 - The individual can **manifest** (bring energy into action)
 - **[[Manifestor]]s** have a motor-to-Throat connection *without* Sacral definition
-- **[[Manifesting Generator]]s** have a Sacral-to-Throat connection
+- **Manifesting [[Generator]]s** have a Sacral-to-Throat connection
 
 ### No Motor Connection
 
@@ -135,8 +135,8 @@ The Throat has **eleven gates**, more than any other center. Each gate represent
 
 - **Motor Centers:** See [[Sacral]], [[Solar Plexus]], [[Heart]], [[Root]] for the sources of manifestation energy
 - **Types:** See [[Manifestor]], [[Generator]], [[Projector]], [[Reflector]] for how the Throat functions in each Type
-- **Jungian Parallel:** The [[Logos]] (the Word that creates reality)
-- **Tarot:** [[The Magician]] (manifestation), [[The Hierophant]] (speaking truth)
+- **Jungian Parallel:** [[Logos]] (the Word that creates reality)
+- **Tarot:** [[The Magician (I)]] (manifestation), [[The Hierophant (V)]] (speaking truth)
 
 ---
 ## Strategy Integration

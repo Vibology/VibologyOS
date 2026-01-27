@@ -126,9 +126,9 @@ All Types must learn to **trust their Authority**, not their Ajna, for decision-
 
 - **Head Center:** See [[Head]] for the source of mental pressure
 - **Throat Center:** See [[Throat]] for where the Ajna's concepts are articulated
-- **Authority:** See [[Strategy Overview]] for why the mind is not Inner Authority
-- **Jungian Parallel:** The [[Mind]] as observer, not director
-- **Tarot:** [[The High Priestess]] (mental awareness), [[The Magician]] (conceptualization)
+- **Authority:** See [[Strategy]] for why the mind is not Inner Authority
+- **Jungian Parallel:** The Mind as observer, not director
+- **Tarot:** [[The High Priestess (II)]] (mental awareness), [[The Magician (I)]] (conceptualization)
 
 ---
 ## Strategy Integration

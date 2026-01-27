@@ -133,8 +133,8 @@ For all Types, the Heart:
 
 - **Ego Authority:** See [[Ego Authority]] for decision-making through willpower
 - **Motor Centers:** See [[Sacral]], [[Solar Plexus]], [[Root]] for the other motors
-- **Jungian Parallel:** The [[Ego]] as necessary structure (not to be dissolved but honored)
-- **Tarot:** [[The Emperor]] (willful sovereignty), [[Strength]] (taming the ego)
+- **Jungian Parallel:** The Ego as necessary structure (not to be dissolved but honored)
+- **Tarot:** [[The Emperor (IV)]] (willful sovereignty), [[Strength (VIII)]] (taming the ego)
 
 ---
 ## Strategy Integration

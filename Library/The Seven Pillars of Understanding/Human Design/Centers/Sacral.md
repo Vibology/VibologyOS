@@ -124,8 +124,8 @@ The Sacral is also the source of **[[Sacral Authority]]**[^4] (for Generators wi
 - **Generator Type:** See [[Generator]] for the mechanics of Sacral life force
 - **Sacral Authority:** See [[Sacral Authority]] for decision-making through gut response
 - **Motor Centers:** See [[Solar Plexus]], [[Heart]], [[Root]] for the other motors
-- **Jungian Parallel:** The [[Anima]] (life-giving, generative force)
-- **Tarot:** [[The Empress]] (fertile abundance), [[Strength]] (sustained engagement)
+- **Jungian Parallel:** [[The Anima]] (life-giving, generative force)
+- **Tarot:** [[The Empress (III)]] (fertile abundance), [[Strength (VIII)]] (sustained engagement)
 
 ---
 ## Strategy Integration
