@@ -102,7 +102,7 @@ When aligned with Strategy and Authority (responding to intuition in the now), t
 ---
 ## Cross-References
 
-- [[Gate 34 - Power]] — Pure power to empower
+- [[Gate 34 - The Power of the Great]] — Pure power to empower
 - [[Gate 57 - The Gentle]] — Intuitive clarity in the now
 - [[Channel 10-57 - Perfected Form]] — G-Spleen survival intuition
 - [[Channel 20-57 - Brainwave]] — Throat-Spleen penetrating awareness

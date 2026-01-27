@@ -393,7 +393,7 @@ This is the essence of the Individual Centering Circuit: **centering in one's ow
 
 ### Sequential Connections (Within Individual Centering Circuit)
 - [[Gate 25 - Innocence]] — The Spirit of the Self, universal love, G Center identity
-- [[Gate 51 - Shock]] — The Arousing, willpower, Ego Center courage
+- [[Gate 51 - The Arousing]] — The Arousing, willpower, Ego Center courage
 - [[Channel 10-34 - Exploration]] — The other Centering Circuit channel (Sacral-G connection)
 
 ### Channel Connections (Related Themes)

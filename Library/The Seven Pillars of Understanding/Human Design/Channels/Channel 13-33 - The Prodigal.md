@@ -410,8 +410,8 @@ When the 13-33 shares from full integration (adequate retreat, invitation honore
 ## Cross-References
 
 **Human Design:**
-- [[Gate 13 - The Listener (Fellowship of Man)]]
-- [[Gate 33 - Privacy (Retreat)]]
+- [[Gate 13 - The Fellowship of Man]]
+- [[Gate 33 - Retreat]]
 - [[G Center]]
 - [[Throat]]
 - [[Collective Sensing/Abstract Circuit]]

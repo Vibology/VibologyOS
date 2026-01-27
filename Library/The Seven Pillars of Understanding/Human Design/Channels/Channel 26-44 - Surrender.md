@@ -402,8 +402,8 @@ This is the essence of the Tribal Ego Circuit: **using willpower to serve the tr
 ## Cross-References
 
 ### Sequential Connections (Within Tribal Ego Circuit)
-- [[Gate 26 - The Egoist]] — Taming Power of the Great, Ego Center control
-- [[Gate 44 - Alertness]] — Coming to Meet, Spleen Center pattern recognition
+- [[Gate 26 - The Taming Power of the Great]] — Taming Power of the Great, Ego Center control
+- [[Gate 44 - Coming to Meet]] — Coming to Meet, Spleen Center pattern recognition
 - [[Channel 21-45 - Money]] — Ego-Throat tribal control and resources
 - [[Channel 40-37 - Community]] — Ego-Solar Plexus tribal support and bargains
 - [[Channel 19-49 - Synthesis]] — Root-Solar Plexus tribal needs and principles

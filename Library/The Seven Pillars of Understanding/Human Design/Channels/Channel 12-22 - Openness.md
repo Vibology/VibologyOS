@@ -420,8 +420,8 @@ When the individual honors the wave, waits for clarity, and speaks only what is 
 ## Cross-References
 
 **Human Design:**
-- [[Gate 12 - Standstill (Caution)]]
-- [[Gate 22 - Grace (Openness)]]
+- [[Gate 12 - Standstill]]
+- [[Gate 22 - Grace]]
 - [[Throat]]
 - [[Solar Plexus]]
 - [[Individual Knowing Circuit]]

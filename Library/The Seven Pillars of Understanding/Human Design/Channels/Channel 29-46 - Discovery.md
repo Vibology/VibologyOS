@@ -404,8 +404,8 @@ This is the essence of the Tantric channels: **the life-force energy reveals ide
 ## Cross-References
 
 ### Sequential Connections (Within Collective Abstract Circuit)
-- [[Gate 29 - Perseverance]] — The Abysmal, Sacral commitment
-- [[Gate 46 - Determination of the Self]] — Pushing Upward, G Center serendipity
+- [[Gate 29 - The Abysmal]] — The Abysmal, Sacral commitment
+- [[Gate 46 - Pushing Upward]] — Pushing Upward, G Center serendipity
 - [[Channel 30-41 - Recognition]] — Root-Solar Plexus desire and expectation
 - [[Channel 35-36 - Transitoriness]] — Solar Plexus-Throat emotional crisis
 - [[Channel 42-53 - Maturation]] — Root-Sacral cycles of beginning and ending

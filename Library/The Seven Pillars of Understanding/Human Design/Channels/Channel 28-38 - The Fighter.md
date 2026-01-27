@@ -396,8 +396,8 @@ This is the essence of the Individual Knowing Circuit: **empowering others throu
 ## Cross-References
 
 ### Sequential Connections (Within Individual Knowing Circuit)
-- [[Gate 28 - The Game Player]] — Preponderance of the Great, Spleen Center risk
-- [[Gate 38 - The Fighter]] — Opposition, Root Center pressure to oppose
+- [[Gate 28 - Preponderance of the Great]] — Preponderance of the Great, Spleen Center risk
+- [[Gate 38 - Opposition]] — Opposition, Root Center pressure to oppose
 - [[Channel 1-8 - Inspiration]] — Creative contribution
 - [[Channel 12-22 - Openness]] — Emotional social expression
 - [[Channel 23-43 - Structuring]] — Individual insights explained

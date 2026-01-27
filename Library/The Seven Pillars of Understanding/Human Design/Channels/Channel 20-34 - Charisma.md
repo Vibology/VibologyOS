@@ -309,7 +309,7 @@ When they honor the Sacral's rhythm—responding fully, pivoting freely, resting
 ## Cross-References
 
 - [[Gate 20 - Contemplation]] — The Now, awareness in the present moment
-- [[Gate 34 - Power of the Great]] — Pure power, life force, empowerment
+- [[Gate 34 - The Power of the Great]] — Pure power, life force, empowerment
 - [[Channel 10-20 - Awakening]] — Integration Circuit partner (G-Throat)
 - [[Channel 10-57 - Survival]] — Integration Circuit partner (Spleen-G)
 - [[Channel 34-57 - Power]] — Integration Circuit partner (Spleen-Sacral)
