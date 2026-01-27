@@ -344,13 +344,13 @@ Gate 17 teaches that **true authority comes from service to patterns**. When the
 ### Archetypal and Mythological
 - The Observer Archetype — The pattern of sustained attention and framework formation
 - Athena (Greek mythology) — Goddess of wisdom, strategy, and intelligent organization
-- [[The Witness (Buddhism)]] — Awareness that observes without attachment
-- [[Confucian Virtue]] — Service to patterns through ethical observation
+- The Witness (Buddhism) — Awareness that observes without attachment
+- Confucian Virtue — Service to patterns through ethical observation
 
 ### Biological and Somatic
 - [[Ajna]] — The center of awareness and mental processing
 - Pituitary Gland — The biological correlation for the Ajna Center
-- [[Mental Processing]] — How the Ajna formulates frameworks and opinions
+- Mental Processing — How the Ajna formulates frameworks and opinions
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework

@@ -339,19 +339,19 @@ Gate 46 teaches that **the body is sacred**. When the individual honors their lo
 
 ### Archetypal and Mythological
 - The Lover Archetype — Jungian archetypal pattern of embodied celebration
-- [[The Sensate Function]] — Jung's typology of physical presence
+- The Sensate Function — Jung's typology of physical presence
 - [[Venus ♀]] — Love and physical pleasure
 
 ### Biological and Somatic
 - [[G Center]] — The center of identity, direction, and love
 - Liver (Biology) — The organ of physical vitality
-- [[Embodied Presence]] — Somatic awareness and incarnation
+- Embodied Presence — Somatic awareness and incarnation
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - Defined vs. Undefined Centers — Understanding fixed vs. variable energy in the bodygraph
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
-- [[Serendipity Through Presence]] — The mechanics of synchronicity
+- Serendipity Through Presence — The mechanics of synchronicity
 
 ---
 

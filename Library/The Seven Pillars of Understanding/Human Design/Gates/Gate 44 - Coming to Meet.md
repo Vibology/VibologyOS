@@ -336,13 +336,13 @@ Gate 44 teaches that **memory is sacred**. When the individual honors their inst
 
 ### Archetypal and Mythological
 - The Guardian Archetype — Jungian archetypal pattern of protection through memory
-- [[Ancestral Memory]] — Collective unconscious patterns
+- Ancestral Memory — Collective unconscious patterns
 - Saturn — Time, structure, karmic memory
 
 ### Biological and Somatic
 - [[Spleen]] — The center of survival, instinct, and health
 - Immune System — The biological mechanism of memory and pattern recognition
-- [[Instinctual Awareness]] — Somatic intelligence in the present moment
+- Instinctual Awareness — Somatic intelligence in the present moment
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework

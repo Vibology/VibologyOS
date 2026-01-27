@@ -340,19 +340,19 @@ Gate 39 teaches that **obstruction serves growth**. When the individual honors t
 
 ### Archetypal and Mythological
 - The Trickster Archetype — Disruption as awakening
-- [[The Provocateur]] — Challenge that serves growth
-- [[Sacred Disruption]] — Obstruction as teacher
+- The Provocateur — Challenge that serves growth
+- Sacred Disruption — Obstruction as teacher
 
 ### Biological and Somatic
 - [[Root]] — Pressure, drive, stress
 - Adrenal Glands — Challenge response
-- [[Root Pressure]] — Understanding drive mechanics
+- Root Pressure — Understanding drive mechanics
 
 ### Practical Application
 - Strategy and [[Authority]] — HD decision-making
 - Defined vs. Undefined Centers — Fixed vs. variable energy
 - The 7-Year Deconditioning Cycle — Returning to design
-- [[Individual vs. Tribal vs. Collective]] — Distinguishing streams
+- Individual vs. Tribal vs. Collective — Distinguishing streams
 
 ---
 

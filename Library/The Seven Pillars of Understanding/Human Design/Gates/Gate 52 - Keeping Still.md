@@ -347,12 +347,12 @@ Gate 52 teaches that **stillness is not weakness; it is wisdom**. When the indiv
 - The Sage Archetype — Jungian archetypal pattern of wisdom through observation
 - Saturn (mythology) — The Roman god of time, discipline, and limitation
 - Kronos (Greek mythology) — The Greek god of time and harvest
-- [[The Mountain (Symbolism)]] — Universal symbol of stillness, immovability, and endurance
+- The Mountain (Symbolism) — Universal symbol of stillness, immovability, and endurance
 
 ### Biological and Somatic
 - [[Root]] — The center of pressure, stress, and adrenalization
 - Adrenal Glands — The biological correspondence for stress response
-- [[Parasympathetic Nervous System]] — The rest-and-digest response that supports stillness
+- Parasympathetic Nervous System — The rest-and-digest response that supports stillness
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework

@@ -352,22 +352,22 @@ Gate 9 teaches that **power lies in the small**. When the individual honors thei
 - Gates of Mastery — Gates carrying the capacity to build skill through accumulation
 
 ### Archetypal and Mythological
-- [[The Master Craftsman]] — Archetypal pattern of mastery through patient work
-- [[The Accumulation (Universal Symbol)]] — Power built through small efforts over time
-- [[The Wind (I-Ching Symbol)]] — Gentle, persistent force that shapes through sustained pressure
-- [[Invincibility Through Foundation]] — Unshakable mastery created by patient accumulation
+- The Master Craftsman — Archetypal pattern of mastery through patient work
+- The Accumulation (Universal Symbol) — Power built through small efforts over time
+- The Wind (I-Ching Symbol) — Gentle, persistent force that shapes through sustained pressure
+- Invincibility Through Foundation — Unshakable mastery created by patient accumulation
 
 ### Biological and Somatic
 - [[Sacral]] — The center of life force, fertility, and response
-- [[Sustained Work Capacity (Biology)]] — The body's ability to maintain focus over time
-- [[Metabolic Focus (Biology)]] — The physiological state of concentrated attention
+- Sustained Work Capacity (Biology) — The body's ability to maintain focus over time
+- Metabolic Focus (Biology) — The physiological state of concentrated attention
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - Sacral Response — The uh-huh/uhn-uhn gut response of the Sacral
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
-- [[Honoring the Edge of Sustainable Focus]] — Knowing when to work and when to rest
-- [[Small Accumulation vs. Grand Strategy]] — Distinguishing detailed work from big-picture vision
+- Honoring the Edge of Sustainable Focus — Knowing when to work and when to rest
+- Small Accumulation vs. Grand Strategy — Distinguishing detailed work from big-picture vision
 
 ---
 

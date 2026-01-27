@@ -348,13 +348,13 @@ Gate 31 teaches that **authentic leadership is service, not status**. When the i
 
 ### Archetypal and Mythological
 - The King/Queen Archetype — Jungian archetypal pattern of leadership and sovereignty
-- [[Democratic Leadership]] — Modern political structures reflected in HD mechanics
-- [[The Wise Elder]] — Leadership earned through experience and pattern accuracy
+- Democratic Leadership — Modern political structures reflected in HD mechanics
+- The Wise Elder — Leadership earned through experience and pattern accuracy
 
 ### Biological and Somatic
 - [[Throat]] — The center of manifestation and expression
 - Thyroid — The gland associated with the Throat Center's metabolic regulation
-- [[Voice and Vocal Cords]] — The biological instrument of Gate 31's influence
+- Voice and Vocal Cords — The biological instrument of Gate 31's influence
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework

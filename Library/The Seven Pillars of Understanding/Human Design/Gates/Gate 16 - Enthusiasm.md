@@ -348,13 +348,13 @@ Gate 16 teaches that **true mastery is earned through dedication**. When the ind
 ### Archetypal and Mythological
 - The Craftsperson Archetype — The pattern of mastery through practice
 - Hephaestus (Greek mythology) — The god of craft, forge, and skilled labor
-- [[The Practice Path (Buddhism)]] — Sustained repetition as spiritual discipline
+- The Practice Path (Buddhism) — Sustained repetition as spiritual discipline
 - The Muses (Greek mythology) — Inspiration that emerges through dedicated practice
 
 ### Biological and Somatic
 - [[Throat]] — The center of manifestation, communication, and action
-- [[Thyroid and Parathyroid]] — The glands associated with the Throat Center
-- [[Metabolic Expression]] — How energy is channeled into manifestation
+- Thyroid and Parathyroid — The glands associated with the Throat Center
+- Metabolic Expression — How energy is channeled into manifestation
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework

@@ -338,13 +338,13 @@ Gate 64 teaches that **confusion is sacred**. When the individual honors their p
 ### Archetypal and Mythological
 - The Dreamer Archetype — Pattern of symbolic processing
 - The Visionary Archetype — Seeing patterns through imagination
-- [[Neptune (Mythology)]] — God of the deep, dreams, dissolution
+- Neptune (Mythology) — God of the deep, dreams, dissolution
 - Morpheus (Greek mythology) — God of dreams and forms
 
 ### Biological and Somatic
 - [[Head]] — Inspiration, mental pressure, cosmic questions
 - Pineal Gland — Dream regulation, abstract processing
-- [[Dream State]] — Unconscious pattern processing
+- Dream State — Unconscious pattern processing
 
 ### Practical Application
 - Strategy and [[Authority]] — Decision-making framework

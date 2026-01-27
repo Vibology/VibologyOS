@@ -339,12 +339,12 @@ Gate 51 teaches that **courage is the foundation of individuation**. When the in
 - The Warrior Archetype — Jungian archetypal pattern of courage and initiation
 - Mars (mythology) — The Roman god of war and action
 - Ares (Greek mythology) — The Greek god of battle and competitive spirit
-- [[Thor (Norse Mythology)]] — The thunder god whose hammer shocks and protects
+- Thor (Norse Mythology) — The thunder god whose hammer shocks and protects
 
 ### Biological and Somatic
 - [[Heart]] — The center of willpower, self-worth, and material world engagement
 - Thymus Gland — The biological correspondence for the Heart Center (immunity, self-recognition)
-- [[Adrenal Response]] — The fight-or-flight mechanism activated by Gate 51's shock
+- Adrenal Response — The fight-or-flight mechanism activated by Gate 51's shock
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework

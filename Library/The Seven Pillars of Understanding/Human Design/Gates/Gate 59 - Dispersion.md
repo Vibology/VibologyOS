@@ -334,7 +334,7 @@ Gate 59 teaches that **intimacy is sacred**. When the individual honors their se
 ### Cross-System Correspondences
 - I-Ching Hexagram 59 - Dispersion — Source hexagram and traditional interpretation
 - Gene Keys 59 - Dishonesty to Transparency — Shadow-gift-siddhi framework
-- [[The Lovers (VI)]] — Resonance with union and choice
+- The Lovers (VI) — Resonance with union and choice
 - [[Yesod]] — Foundation, sexuality, generation
 
 ### Thematic Collections
@@ -346,13 +346,13 @@ Gate 59 teaches that **intimacy is sacred**. When the individual honors their se
 ### Archetypal and Mythological
 - The Lover Archetype — Pattern of union and intimacy
 - The Seducer Archetype — Penetration through magnetism
-- [[Venus (Mythology)]] — Goddess of love and attraction
+- Venus (Mythology) — Goddess of love and attraction
 - Eros (Greek mythology) — God of sexual love and desire
 
 ### Biological and Somatic
 - [[Sacral]] — Life force, sexuality, work, response
-- [[Reproductive System]] — Gonads, hormones, fertility
-- [[Sexual Hormones]] — Estrogen, testosterone, libido
+- Reproductive System — Gonads, hormones, fertility
+- Sexual Hormones — Estrogen, testosterone, libido
 
 ### Practical Application
 - Strategy and [[Authority]] — Decision-making framework

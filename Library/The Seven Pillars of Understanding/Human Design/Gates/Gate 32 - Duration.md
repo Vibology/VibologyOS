@@ -333,7 +333,7 @@ Gate 32 teaches that **endurance is not rigidity—it is adaptive wisdom**. When
 ### Cross-System Correspondences
 - I-Ching Hexagram 32 - Duration — The source hexagram and traditional I-Ching interpretation
 - Gene Keys 32 - Failure to Veneration — Richard Rudd's shadow-gift-siddhi framework for Gate 32
-- [[The Four of Pentacles (Tarot)]] — Resonance with conservation and fear of material loss
+- The Four of Pentacles (Tarot) — Resonance with conservation and fear of material loss
 - Geburah (Qabalah) — Severity, discernment, pruning what does not serve
 
 ### Thematic Collections
@@ -344,8 +344,8 @@ Gate 32 teaches that **endurance is not rigidity—it is adaptive wisdom**. When
 
 ### Archetypal and Mythological
 - The Conservator Archetype — Preserving what is valuable through strategic caution
-- [[The Fear of Annihilation]] — Jungian theme of survival anxiety and existential fear
-- [[The Wise Elder]] — Tribal wisdom earned through experience and failure
+- The Fear of Annihilation — Jungian theme of survival anxiety and existential fear
+- The Wise Elder — Tribal wisdom earned through experience and failure
 
 ### Biological and Somatic
 - [[Spleen]] — The center of survival, intuition, and immune response

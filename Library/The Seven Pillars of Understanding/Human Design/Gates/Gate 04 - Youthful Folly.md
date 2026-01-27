@@ -339,7 +339,7 @@ Gate 4 teaches that **the mind is a beautiful tool for understanding, not for de
 - I-Ching Hexagram 4 - Youthful Folly — The source hexagram and traditional I-Ching interpretation
 - Gene Keys 04 - Intolerance to Forgiveness — Richard Rudd's shadow-gift-siddhi framework for Gate 4
 - [[The Fool (0)]] — Resonance with inexperience and potential
-- [[Da'at (Qabalah)]] — Knowledge as provisional understanding
+- Da'at (Qabalah) — Knowledge as provisional understanding
 - Mercury — Planet of mental formulation and communication
 
 ### Thematic Collections
@@ -349,10 +349,10 @@ Gate 4 teaches that **the mind is a beautiful tool for understanding, not for de
 - Gates of Mental Pressure — Gates carrying the pressure to understand
 
 ### Archetypal and Mythological
-- [[The Seeker of Patterns]] — Archetypal pattern of creating mental frameworks
-- [[Puer Aeternus (Jung)]] — The eternal youth, inexperience as potential
-- [[The Spring (Universal Symbol)]] — Fresh water emerging, youthful potential
-- [[The Student and the Teacher]] — The dynamic of seeking and receiving knowledge
+- The Seeker of Patterns — Archetypal pattern of creating mental frameworks
+- Puer Aeternus (Jung) — The eternal youth, inexperience as potential
+- The Spring (Universal Symbol) — Fresh water emerging, youthful potential
+- The Student and the Teacher — The dynamic of seeking and receiving knowledge
 
 ### Biological and Somatic
 - [[Ajna]] — The center of mental awareness and conceptualization
@@ -361,10 +361,10 @@ Gate 4 teaches that **the mind is a beautiful tool for understanding, not for de
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework
-- [[Mind is Not Authority]] — Understanding that mental clarity does not equal decision-making capacity
+- Mind is Not Authority — Understanding that mental clarity does not equal decision-making capacity
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
-- [[Holding Mental Frameworks Lightly]] — The practice of formulating without dogmatizing
-- [[Testing Formulas Through Experience]] — Moving mental understanding into embodied knowing
+- Holding Mental Frameworks Lightly — The practice of formulating without dogmatizing
+- Testing Formulas Through Experience — Moving mental understanding into embodied knowing
 
 ---
 

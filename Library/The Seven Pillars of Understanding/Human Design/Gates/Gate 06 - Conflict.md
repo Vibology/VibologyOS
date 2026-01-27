@@ -338,8 +338,8 @@ Gate 6 teaches that **intimacy requires friction**. When the individual honors t
 ### Cross-System Correspondences
 - I-Ching Hexagram 6 - Conflict — The source hexagram and traditional I-Ching interpretation
 - Gene Keys 06 - Conflict to Peace — Richard Rudd's shadow-gift-siddhi framework for Gate 6
-- [[The Lovers (VI)]] — Resonance with intimate union and choice
-- [[Gevurah (Qabalah)]] — Severity, boundaries, and strength
+- The Lovers (VI) — Resonance with intimate union and choice
+- Gevurah (Qabalah) — Severity, boundaries, and strength
 - [[Mars ♂]] — Planet of assertion, conflict, and defense
 - [[Venus ♀]] — Planet of love, bonding, and intimacy
 
@@ -350,10 +350,10 @@ Gate 6 teaches that **intimacy requires friction**. When the individual honors t
 - Gates of Emotional Friction — Gates carrying the capacity to navigate conflict
 
 ### Archetypal and Mythological
-- [[The Sacred Marriage (Hieros Gamos)]] — Union of opposites through friction
-- [[Mars Archetype]] — Assertion, conflict, and defense
-- [[The Diaphragm (Physiological Symbol)]] — Regulating breath, openness, and closure
-- [[Conflict as Teacher]] — The friction that refines and deepens
+- The Sacred Marriage (Hieros Gamos) — Union of opposites through friction
+- Mars Archetype — Assertion, conflict, and defense
+- The Diaphragm (Physiological Symbol) — Regulating breath, openness, and closure
+- Conflict as Teacher — The friction that refines and deepens
 
 ### Biological and Somatic
 - [[Solar Plexus]] — The center of emotional awareness and spirit
@@ -364,8 +364,8 @@ Gate 6 teaches that **intimacy requires friction**. When the individual honors t
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - [[Emotional Authority]] — Waiting through the wave for clarity
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
-- [[Navigating Emotional Friction]] — The practice of using conflict to deepen intimacy
-- [[Boundaries in Intimacy]] — Asserting needs while maintaining connection
+- Navigating Emotional Friction — The practice of using conflict to deepen intimacy
+- Boundaries in Intimacy — Asserting needs while maintaining connection
 
 ---
 

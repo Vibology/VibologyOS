@@ -347,18 +347,18 @@ Gate 23 teaches that **true knowing requires assimilation and the courage to spe
 - The Hermit Archetype — The figure who withdraws to know
 - The Outsider Archetype — The one who stands apart from consensus
 - Prometheus (Greek mythology) — Bringing fire (knowing) to humanity, suffering for truth
-- [[The Thinking Function (Jung)]] — Psychological discrimination and structure
+- The Thinking Function (Jung) — Psychological discrimination and structure
 
 ### Biological and Somatic
 - [[Throat]] — The center of expression and manifestation
-- [[Thyroid and Metabolism]] — Biological correlation with voice and energy regulation
-- [[Vocal Cords]] — Physical mechanism of individual expression
+- Thyroid and Metabolism — Biological correlation with voice and energy regulation
+- Vocal Cords — Physical mechanism of individual expression
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
-- [[Assimilation Process]] — Waiting for knowing to settle before speaking
-- [[Individual Mutation]] — How unique expression introduces new possibilities
+- Assimilation Process — Waiting for knowing to settle before speaking
+- Individual Mutation — How unique expression introduces new possibilities
 
 ---
 

@@ -337,13 +337,13 @@ Gate 11 teaches that **authentic ideas cannot be forced or manufactured**. When 
 
 ### Archetypal and Mythological
 - The Visionary Archetype — The pattern of seeing beyond current reality
-- [[Jung's Thinking Function]] — The mental capacity for conceptualization and analysis
+- Jung's Thinking Function — The mental capacity for conceptualization and analysis
 - [[The Hermit (IX)]] — Solitude as necessary for wisdom and insight
 
 ### Biological and Somatic
 - [[Ajna]] — The center of mind, conceptualization, and mental awareness
 - Pituitary Gland — The biological correlation for the Ajna Center
-- [[Mental Pressure Systems]] — How mental gates create cognitive pressure or clarity
+- Mental Pressure Systems — How mental gates create cognitive pressure or clarity
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework

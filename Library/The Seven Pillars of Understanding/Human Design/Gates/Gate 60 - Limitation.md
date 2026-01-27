@@ -349,7 +349,7 @@ Gate 60 teaches that **limitation is the doorway to mutation**. When the individ
 ### Biological and Somatic
 - [[Root]] — Pressure, adrenaline, fuel, stress response
 - Adrenal Glands — Cortisol and adrenaline production
-- [[Genetic Mutation]] — Biological evolution through constraint
+- Genetic Mutation — Biological evolution through constraint
 
 ### Practical Application
 - Strategy and [[Authority]] — Decision-making framework

@@ -339,8 +339,8 @@ Gate 1 teaches that **authentic identity is expressed through unique creativity*
 
 ### Archetypal and Mythological
 - The Creator Archetype — Jungian archetypal pattern of bringing forth new realities
-- [[Individuation Process]] — Jung's concept of becoming who one is meant to be
-- [[The Dragon (Chinese Mythology)]] — Symbol of Hexagram 1 in I-Ching tradition
+- Individuation Process — Jung's concept of becoming who one is meant to be
+- The Dragon (Chinese Mythology) — Symbol of Hexagram 1 in I-Ching tradition
 - Prometheus (Greek mythology) — The bringer of creative fire to humanity
 
 ### Biological and Somatic

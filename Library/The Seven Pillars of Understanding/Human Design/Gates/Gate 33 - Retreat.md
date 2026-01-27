@@ -352,13 +352,13 @@ Gate 33 teaches that **wisdom requires distance**. When the individual honors th
 
 ### Archetypal and Mythological
 - The Hermit Archetype — Jungian pattern of solitary wisdom-seeking
-- [[The Prodigal]] — Leaving, learning, and returning with wisdom
-- [[The Wise Storyteller]] — Sharing reflective wisdom through narrative
+- The Prodigal — Leaving, learning, and returning with wisdom
+- The Wise Storyteller — Sharing reflective wisdom through narrative
 
 ### Biological and Somatic
 - [[Throat]] — The center of manifestation and expression
 - Thyroid — The gland associated with the Throat Center's metabolic regulation
-- [[Voice and Narrative]] — The biological instrument of Gate 33's storytelling
+- Voice and Narrative — The biological instrument of Gate 33's storytelling
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework

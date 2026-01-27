@@ -332,7 +332,7 @@ Gate 42 teaches that **completion is sacred**. When the individual honors their 
 ### Cross-System Correspondences
 - I-Ching Hexagram 42 - Increase — The source hexagram and traditional I-Ching interpretation
 - Gene Keys 42 - Expectation to Celebration — Richard Rudd's shadow-gift-siddhi framework for Gate 42
-- [[The World (Tarot)]] — Resonance with completion and wholeness
+- The World (Tarot) — Resonance with completion and wholeness
 - [[Malkuth]] — Kingdom, material manifestation
 
 ### Thematic Collections
@@ -343,13 +343,13 @@ Gate 42 teaches that **completion is sacred**. When the individual honors their 
 
 ### Archetypal and Mythological
 - The Completer Archetype — Jungian archetypal pattern of bringing things to wholeness
-- [[Cycles and Seasons]] — Natural rhythms of growth and completion
+- Cycles and Seasons — Natural rhythms of growth and completion
 - [[Jupiter ♃]] — Expansion and benevolent completion
 
 ### Biological and Somatic
 - [[Sacral]] — The center of life force, work energy, and fertility
-- [[Growth Hormone]] — The biological mechanism of increase
-- [[Reproductive Cycles]] — The somatic rhythm of fertility and regeneration
+- Growth Hormone — The biological mechanism of increase
+- Reproductive Cycles — The somatic rhythm of fertility and regeneration
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework

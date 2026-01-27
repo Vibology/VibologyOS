@@ -339,13 +339,13 @@ Gate 50 teaches that **values are sacred**. When the individual honors their ins
 
 ### Archetypal and Mythological
 - The Guardian Archetype — Jungian archetypal pattern of custodianship
-- [[The Lawgiver]] — Figures who establish and maintain law (Moses, Hammurabi)
+- The Lawgiver — Figures who establish and maintain law (Moses, Hammurabi)
 - Saturn — Law, structure, responsibility
 
 ### Biological and Somatic
 - [[Spleen]] — The center of survival, instinct, and health
 - Immune System — The biological mechanism of protection
-- [[Instinctual Values]] — Somatic knowing of right and wrong
+- Instinctual Values — Somatic knowing of right and wrong
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework

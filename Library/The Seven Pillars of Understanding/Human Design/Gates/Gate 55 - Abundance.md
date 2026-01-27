@@ -346,14 +346,14 @@ Gate 55 teaches that **spirit is the source of abundance**. When the individual 
 
 ### Archetypal and Mythological
 - The Mystic Archetype — Pattern of spiritual and emotional depth
-- [[Jupiter (Mythology)]] — The Roman god of abundance and expansion
+- Jupiter (Mythology) — The Roman god of abundance and expansion
 - Dionysus (Greek mythology) — The god of emotional ecstasy and spirit
-- [[The Cup (Symbolism)]] — Universal symbol of receptivity and emotional fullness
+- The Cup (Symbolism) — Universal symbol of receptivity and emotional fullness
 
 ### Biological and Somatic
 - [[Solar Plexus]] — The center of emotion, feeling, and sensation
 - Kidneys — The biological correspondence for emotional processing
-- [[Nervous System]] — The somatic sensitivity to emotional waves
+- Nervous System — The somatic sensitivity to emotional waves
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework

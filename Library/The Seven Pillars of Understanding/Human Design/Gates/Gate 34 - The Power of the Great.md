@@ -350,11 +350,11 @@ Gate 34 teaches that **power is only great when it serves**. When the individual
 - Gates of the Sacral Center — All nine gates within the life-force motor
 - Integration Circuit Gates — Gates 10, 20, 34, 57
 - Gates of Power — Gates carrying empowerment energy
-- [[Sexual/Generative Gates]] — Gates related to life-force and sexuality
+- Sexual/Generative Gates — Gates related to life-force and sexuality
 
 ### Biological and Somatic
 - [[Sacral]] — The life-force motor, generative power
-- [[Gonads]] — Biological correspondence (ovaries/testes)
+- Gonads — Biological correspondence (ovaries/testes)
 - [[Sacral Authority]] — Response-based decision-making
 
 ### Practical Application

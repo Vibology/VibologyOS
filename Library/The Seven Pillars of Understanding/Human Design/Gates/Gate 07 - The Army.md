@@ -352,21 +352,21 @@ Gate 7 teaches that **leadership is a role, not an identity**. When the individu
 
 ### Archetypal and Mythological
 - The King Archetype — The ruler who serves the people
-- [[The General (Military Leadership)]] — Strategic guidance of collective action
-- [[The Steward (Leadership as Service)]] — Authority as responsibility
-- [[The Army (Organized Collective)]] — Disciplined action guided by leadership
+- The General (Military Leadership) — Strategic guidance of collective action
+- The Steward (Leadership as Service) — Authority as responsibility
+- The Army (Organized Collective) — Disciplined action guided by leadership
 
 ### Biological and Somatic
 - [[G Center]] — The center of identity, direction, and love
 - Magnetic Monopole — Ra's term for the orientation mechanism in the G Center
-- [[Role as Somatic Experience]] — The felt sense of "this is my place"
+- Role as Somatic Experience — The felt sense of "this is my place"
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
-- [[Leadership as Service]] — Distinguishing authority from domination
-- [[Provisional Roles]] — Understanding that all roles are temporary
-- [[Stepping Into and Out of Role]] — The wisdom of knowing when to lead and when to follow
+- Leadership as Service — Distinguishing authority from domination
+- Provisional Roles — Understanding that all roles are temporary
+- Stepping Into and Out of Role — The wisdom of knowing when to lead and when to follow
 
 ---
 

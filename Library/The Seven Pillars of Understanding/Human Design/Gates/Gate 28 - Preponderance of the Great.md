@@ -328,7 +328,7 @@ Gate 28 teaches that **life's meaning is found in the struggle itself, not in pe
 ### Cross-System Correspondences
 - I-Ching Hexagram 28 - Preponderance of the Great — The source hexagram and traditional I-Ching interpretation
 - Gene Keys 28 - Purposelessness to Immortality — Richard Rudd's shadow-gift-siddhi framework
-- [[Death (Tarot)]] — Archetypal transformation and impermanence
+- Death (Tarot) — Archetypal transformation and impermanence
 - [[The Tower (XVI)]] — Necessary destruction and struggle
 - Geburah (Qabalah) — The Sephirah of Severity and war
 - [[Mars ♂]] — The planet of action and warrior energy
@@ -342,20 +342,20 @@ Gate 28 teaches that **life's meaning is found in the struggle itself, not in pe
 
 ### Archetypal and Mythological
 - The Warrior Archetype — The fighter who struggles for purpose
-- [[The Existentialist]] — The philosopher who confronts meaninglessness
+- The Existentialist — The philosopher who confronts meaninglessness
 - Achilles (Greek mythology) — The warrior who chose glory over longevity
 - Sisyphus (Greek mythology) — The eternal struggle as meaning itself
 
 ### Biological and Somatic
 - [[Spleen]] — The center of instinctual awareness and survival
 - Lymphatic System — Defense and immune response
-- [[Existential Anxiety]] — Fear manifesting in the body as urgency
+- Existential Anxiety — Fear manifesting in the body as urgency
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
-- [[Discerning Meaningful Struggle]] — How to know when fighting serves purpose
-- [[Embracing Transience]] — Finding meaning despite impermanence
+- Discerning Meaningful Struggle — How to know when fighting serves purpose
+- Embracing Transience — Finding meaning despite impermanence
 
 ---
 

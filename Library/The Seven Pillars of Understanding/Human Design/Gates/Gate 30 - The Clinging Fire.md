@@ -332,8 +332,8 @@ Gate 30 teaches that **desire is not the enemy—unconscious desire is**. When t
 ### Cross-System Correspondences
 - I-Ching Hexagram 30 - The Clinging Fire — The source hexagram and traditional I-Ching interpretation
 - Gene Keys 30 - Desire to Rapture — Richard Rudd's shadow-gift-siddhi framework
-- [[The Devil (Tarot)]] — Archetypal bondage and desire
-- [[The Lovers (VI)]] — The choice to engage with desire
+- The Devil (Tarot) — Archetypal bondage and desire
+- The Lovers (VI) — The choice to engage with desire
 - [[Tiphareth]] — The sphere of Beauty and emotional heart
 - [[Netzach]] — The sphere of Victory and Desire
 - [[Venus ♀]] — The planet of love and desire
@@ -348,8 +348,8 @@ Gate 30 teaches that **desire is not the enemy—unconscious desire is**. When t
 ### Archetypal and Mythological
 - The Lover Archetype — The one who desires and clings
 - The Seeker Archetype — The one who longs for experience
-- [[Aphrodite/Venus (Mythology)]] — Goddess of love, desire, and beauty
-- [[Eros Function (Psychology)]] — The drive toward connection and clinging
+- Aphrodite/Venus (Mythology) — Goddess of love, desire, and beauty
+- Eros Function (Psychology) — The drive toward connection and clinging
 
 ### Biological and Somatic
 - [[Solar Plexus]] — The center of emotional awareness and sensitivity
@@ -360,7 +360,7 @@ Gate 30 teaches that **desire is not the enemy—unconscious desire is**. When t
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - [[Emotional Authority]] — Riding the wave to clarity over time
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
-- [[Conscious Desire]] — Distinguishing authentic feeling from compulsive craving
+- Conscious Desire — Distinguishing authentic feeling from compulsive craving
 
 ---
 

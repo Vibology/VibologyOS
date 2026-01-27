@@ -337,19 +337,19 @@ Gate 26 teaches that **true influence is service, not ego**. When the individual
 ### Archetypal and Mythological
 - The Trickster Archetype — The cunning figure who influences through cleverness
 - The Historian Archetype — The keeper of tribal memory
-- [[Hermes/Mercury (Mythology)]] — God of commerce, communication, and trickery
-- [[The Senex (Jung)]] — The wise elder who holds historical authority
+- Hermes/Mercury (Mythology) — God of commerce, communication, and trickery
+- The Senex (Jung) — The wise elder who holds historical authority
 
 ### Biological and Somatic
 - [[Heart]] — The center of willpower and material commitment
 - Thymus and Immune Memory — Cellular memory of past threats, parallel to tribal memory
-- [[Stomach and Material Processing]] — Digestion as metaphor for assimilating and selling resources
+- Stomach and Material Processing — Digestion as metaphor for assimilating and selling resources
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
-- [[Artful Persuasion vs. Manipulation]] — Distinguishing service-based influence from exploitation
-- [[Tribal Memory-Keeping]] — How to honor and transmit historical knowledge
+- Artful Persuasion vs. Manipulation — Distinguishing service-based influence from exploitation
+- Tribal Memory-Keeping — How to honor and transmit historical knowledge
 
 ---
 

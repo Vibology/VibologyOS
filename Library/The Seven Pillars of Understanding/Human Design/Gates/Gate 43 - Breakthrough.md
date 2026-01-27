@@ -343,14 +343,14 @@ Gate 43 teaches that **unique knowing is sacred**. When the individual honors th
 
 ### Biological and Somatic
 - [[Ajna]] — The center of mental awareness and conceptualization
-- [[Inner Ear]] — The biological organ associated with Gate 43
+- Inner Ear — The biological organ associated with Gate 43
 - Pituitary Gland — The master gland of the Ajna Center
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - Defined vs. Undefined Centers — Understanding fixed vs. variable energy in the bodygraph
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
-- [[Individual Empowerment vs. Collective Knowledge]] — Distinguishing Individual from Collective mental processes
+- Individual Empowerment vs. Collective Knowledge — Distinguishing Individual from Collective mental processes
 
 ---
 

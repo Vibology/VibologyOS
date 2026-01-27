@@ -359,18 +359,18 @@ Gate 62 teaches that **details matter**. When the individual honors their voice 
 - The Scribe Archetype — Pattern of recording and naming
 - The Cataloger Archetype — Organization through detail
 - Mercury (mythology) — God of communication and intellect
-- [[Thoth (Egyptian Mythology)]] — God of writing and knowledge
+- Thoth (Egyptian Mythology) — God of writing and knowledge
 
 ### Biological and Somatic
 - [[Throat]] — Expression, manifestation, communication
-- [[Thyroid Gland]] — Metabolism and energy regulation
-- [[Language Processing]] — Naming and verbal organization
+- Thyroid Gland — Metabolism and energy regulation
+- Language Processing — Naming and verbal organization
 
 ### Practical Application
 - Strategy and [[Authority]] — Decision-making framework
 - Defined vs. Undefined Centers — Fixed vs. variable energy
 - The 7-Year Deconditioning Cycle — Returning to authentic design
-- [[Manifestation Centers]] — Throat as expression gateway
+- Manifestation Centers — Throat as expression gateway
 
 ---
 

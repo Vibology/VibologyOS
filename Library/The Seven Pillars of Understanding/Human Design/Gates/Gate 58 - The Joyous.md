@@ -357,7 +357,7 @@ Gate 58 teaches that **dissatisfaction is fuel, not failure**. When the individu
 ### Biological and Somatic
 - [[Root]] — Pressure, adrenaline, fuel, stress response
 - Adrenal Glands — Cortisol and adrenaline production
-- [[Stress Response System]] — Fight/flight/freeze mechanisms
+- Stress Response System — Fight/flight/freeze mechanisms
 
 ### Practical Application
 - Strategy and [[Authority]] — Decision-making framework

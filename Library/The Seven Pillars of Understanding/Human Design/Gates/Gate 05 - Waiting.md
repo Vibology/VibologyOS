@@ -350,10 +350,10 @@ Gate 5 teaches that **timing is everything**. When the individual honors their S
 - Gates of Patience — Gates carrying the capacity to wait
 
 ### Archetypal and Mythological
-- [[The Keeper of Cycles]] — Archetypal pattern of honoring natural rhythms
+- The Keeper of Cycles — Archetypal pattern of honoring natural rhythms
 - The Crone (Archetype) — The wise elder who knows the seasons
-- [[The Hunter (Universal Symbol)]] — Waiting with focused readiness
-- [[The Harvest (Universal Symbol)]] — Reaping what has been sown when timing is correct
+- The Hunter (Universal Symbol) — Waiting with focused readiness
+- The Harvest (Universal Symbol) — Reaping what has been sown when timing is correct
 
 ### Biological and Somatic
 - [[Sacral]] — The center of life force, fertility, and response
@@ -364,8 +364,8 @@ Gate 5 teaches that **timing is everything**. When the individual honors their S
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - Sacral Response — The uh-huh/uhn-uhn gut response of the Sacral
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
-- [[Honoring Natural Rhythms]] — The practice of aligning with bodily and seasonal cycles
-- [[Active Waiting vs. Passive Resignation]] — Distinguishing patient presence from inaction
+- Honoring Natural Rhythms — The practice of aligning with bodily and seasonal cycles
+- Active Waiting vs. Passive Resignation — Distinguishing patient presence from inaction
 
 ---
 

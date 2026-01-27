@@ -331,7 +331,7 @@ Gate 49 teaches that **revolution is sacred**. When the individual honors their 
 ### Cross-System Correspondences
 - I-Ching Hexagram 49 - Revolution — The source hexagram and traditional I-Ching interpretation
 - Gene Keys 49 - Reaction to Rebirth — Richard Rudd's shadow-gift-siddhi framework for Gate 49
-- [[Death (Tarot)]] — Resonance with transformation and rebirth
+- Death (Tarot) — Resonance with transformation and rebirth
 - Geburah (Qabalah) — Severity, destructive mercy
 
 ### Thematic Collections
@@ -342,13 +342,13 @@ Gate 49 teaches that **revolution is sacred**. When the individual honors their 
 
 ### Archetypal and Mythological
 - The Revolutionary Archetype — Jungian archetypal pattern of transformative destruction
-- [[Death and Rebirth Myths]] — Universal cycles of ending and renewal
+- Death and Rebirth Myths — Universal cycles of ending and renewal
 - [[Pluto ♇]] — Death, rebirth, fundamental transformation
 
 ### Biological and Somatic
 - [[Solar Plexus]] — The center of emotional wave and sensitivity
-- [[Emotional Wave]] — The biological rhythm of emotional clarity
-- [[Hormonal Regulation]] — The body's response to emotional sensitivity
+- Emotional Wave — The biological rhythm of emotional clarity
+- Hormonal Regulation — The body's response to emotional sensitivity
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework

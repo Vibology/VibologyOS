@@ -356,12 +356,12 @@ Gate 56 teaches that **stories are sacred**. When the individual honors their st
 - The Trickster Archetype — Jungian pattern of teaching through playfulness
 - Mercury (mythology) — The Roman messenger god, patron of travelers and storytellers
 - Hermes (Greek mythology) — The Greek god of communication, travel, and boundaries
-- [[The Wandering Jew (Folklore)]] — The eternal traveler condemned to witness and share
+- The Wandering Jew (Folklore) — The eternal traveler condemned to witness and share
 
 ### Biological and Somatic
 - [[Throat]] — The center of expression, manifestation, and communication
 - Thyroid — The biological correspondence for vocal power and metabolic regulation
-- [[Narrative Processing]] — The cognitive capacity to organize experience as story
+- Narrative Processing — The cognitive capacity to organize experience as story
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework

@@ -345,10 +345,10 @@ Gate 2 teaches that **direction is not something to be found—it is something t
 - Gates of Receptivity — Gates specifically related to receiving rather than initiating
 
 ### Archetypal and Mythological
-- [[The Receptive Feminine Principle]] — Archetypal pattern of receiving, holding, and allowing
-- [[Individuation Process]] — Jung's concept of becoming who one is meant to be
-- [[The Mare (Chinese Symbolism)]] — Symbol of Hexagram 2 in I-Ching tradition
-- [[The Womb (Universal Symbol)]] — The space within which creation unfolds
+- The Receptive Feminine Principle — Archetypal pattern of receiving, holding, and allowing
+- Individuation Process — Jung's concept of becoming who one is meant to be
+- The Mare (Chinese Symbolism) — Symbol of Hexagram 2 in I-Ching tradition
+- The Womb (Universal Symbol) — The space within which creation unfolds
 
 ### Biological and Somatic
 - [[G Center]] — The center of identity, direction, and love
@@ -359,7 +359,7 @@ Gate 2 teaches that **direction is not something to be found—it is something t
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - Defined vs. Undefined Centers — Understanding fixed vs. variable energy in the bodygraph
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
-- [[Receptivity vs. Passivity]] — Distinguishing active receptivity from passive surrender
+- Receptivity vs. Passivity — Distinguishing active receptivity from passive surrender
 
 ---
 

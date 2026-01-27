@@ -338,13 +338,13 @@ Gate 48 teaches that **depth is sacred**. When the individual honors their insti
 
 ### Archetypal and Mythological
 - The Well-Keeper Archetype — Guardian of communal resources
-- [[The Infinite Source]] — Mythological wells and springs that never run dry
-- [[Ceres (Astrology)]] — Nurturance and resource management
+- The Infinite Source — Mythological wells and springs that never run dry
+- Ceres (Astrology) — Nurturance and resource management
 
 ### Biological and Somatic
 - [[Spleen]] — The center of survival, instinct, and health
 - Lymphatic System — The biological mechanism of deep immune reserves
-- [[Resource Assessment]] — Instinctual knowing of adequacy
+- Resource Assessment — Instinctual knowing of adequacy
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework

@@ -366,7 +366,7 @@ Gate 57 teaches that **the body knows**. When the individual honors their Spleni
 ### Biological and Somatic
 - [[Spleen]] — Intuition, survival, health, now
 - Immune System — Biological recognition of self/non-self
-- [[Right Brain]] — Holistic, intuitive processing
+- Right Brain — Holistic, intuitive processing
 
 ### Practical Application
 - Strategy and [[Authority]] — Decision-making framework

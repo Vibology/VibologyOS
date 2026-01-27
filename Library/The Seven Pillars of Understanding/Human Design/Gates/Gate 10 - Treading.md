@@ -344,7 +344,7 @@ Gate 10 teaches that **loving oneself is expressed through behavior**. When the 
 ### Cross-System Correspondences
 - I-Ching Hexagram 10 - Treading — The source hexagram and traditional I-Ching interpretation
 - Gene Keys 10 - Self-Obsession to Being — Richard Rudd's shadow-gift-siddhi framework for Gate 10
-- [[The Sun (Tarot)]] — Resonance with natural radiance and authenticity
+- The Sun (Tarot) — Resonance with natural radiance and authenticity
 - [[Tiphareth]] — Beauty, harmony, and the balanced self
 - [[Sun ☉]] — Planet of identity and self-expression
 
@@ -355,22 +355,22 @@ Gate 10 teaches that **loving oneself is expressed through behavior**. When the 
 - Gates of Self-Love — Gates carrying the capacity to honor oneself
 
 ### Archetypal and Mythological
-- [[The Authentic Self (Jung)]] — The totality of the psyche expressing truthfully
-- [[The Tiger's Tail (I-Ching Symbol)]] — Navigating danger through correct conduct
-- [[The Role Model]] — Inspiring through being, not teaching
-- [[Natural Law]] — Behavior aligned with inherent design
+- The Authentic Self (Jung) — The totality of the psyche expressing truthfully
+- The Tiger's Tail (I-Ching Symbol) — Navigating danger through correct conduct
+- The Role Model — Inspiring through being, not teaching
+- Natural Law — Behavior aligned with inherent design
 
 ### Biological and Somatic
 - [[G Center]] — The center of identity, direction, and love
 - Magnetic Monopole — Ra's term for the orientation mechanism in the G Center
-- [[Self-Regard (Psychological/Somatic)]] — The felt sense of loving oneself
+- Self-Regard (Psychological/Somatic) — The felt sense of loving oneself
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
-- [[Behavioral Authenticity vs. Performance]] — Distinguishing natural behavior from conditioned adaptation
-- [[Self-Love as Foundation]] — Understanding that honoring oneself is not narcissism
-- [[Being vs. Teaching]] — The Individual inspires through example, not instruction
+- Behavioral Authenticity vs. Performance — Distinguishing natural behavior from conditioned adaptation
+- Self-Love as Foundation — Understanding that honoring oneself is not narcissism
+- Being vs. Teaching — The Individual inspires through example, not instruction
 
 ---
 

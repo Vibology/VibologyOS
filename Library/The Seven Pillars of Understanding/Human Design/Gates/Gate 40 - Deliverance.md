@@ -324,9 +324,9 @@ Gate 40 teaches that **provision requires rest**. When the individual honors the
 ### Cross-System Correspondences
 - I-Ching Hexagram 40 - Deliverance — The source hexagram
 - Gene Keys 40 - Exhaustion to Divine Will — Shadow-gift-siddhi framework
-- [[Four of Pentacles (Tarot)]] — Material provision
+- Four of Pentacles (Tarot) — Material provision
 - [[The Hermit (IX)]] — Withdrawal, aloneness
-- [[Chesed and Geburah (Qabalah)]] — Mercy and severity in provision
+- Chesed and Geburah (Qabalah) — Mercy and severity in provision
 
 ### Thematic Collections
 - Gates of the Heart/Ego Center — All four will gates
@@ -336,12 +336,12 @@ Gate 40 teaches that **provision requires rest**. When the individual honors the
 
 ### Archetypal and Mythological
 - The Provider Archetype — Working to ensure survival
-- [[Work-Rest Balance]] — Sustainable will through rhythm
-- [[Aloneness as Restoration]] — Solitude as necessity
+- Work-Rest Balance — Sustainable will through rhythm
+- Aloneness as Restoration — Solitude as necessity
 
 ### Biological and Somatic
-- [[Heart/Ego Center]] — Will power, material commitment
-- [[Stomach]] — Digestive strength, "digesting" work
+- Heart/Ego Center — Will power, material commitment
+- Stomach — Digestive strength, "digesting" work
 - [[Ego Authority]] — Willful in-the-moment commitment
 
 ### Practical Application

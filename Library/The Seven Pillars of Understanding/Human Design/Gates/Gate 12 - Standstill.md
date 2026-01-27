@@ -336,19 +336,19 @@ Gate 12 teaches that **not all action is progress**. When the individual honors 
 
 ### Archetypal and Mythological
 - The Guardian Archetype — The pattern of protecting through discernment
-- [[The Senex (Old Man)]] — Jungian archetype of Saturn, wisdom through limitation
-- [[Kronos/Saturn (Mythology)]] — The deity of time, harvest, and necessary endings
+- The Senex (Old Man) — Jungian archetype of Saturn, wisdom through limitation
+- Kronos/Saturn (Mythology) — The deity of time, harvest, and necessary endings
 
 ### Biological and Somatic
 - [[Throat]] — The center of manifestation, action, and communication
-- [[Thyroid and Parathyroid Glands]] — The biological correlation for the Throat Center
-- [[Metabolic Regulation]] — How the thyroid controls energy and standstill cycles
+- Thyroid and Parathyroid Glands — The biological correlation for the Throat Center
+- Metabolic Regulation — How the thyroid controls energy and standstill cycles
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - Defined vs. Undefined Centers — Understanding fixed vs. variable expression
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
-- [[Boundary-Setting in Human Design]] — How different gates and types establish healthy limits
+- Boundary-Setting in Human Design — How different gates and types establish healthy limits
 
 ---
 

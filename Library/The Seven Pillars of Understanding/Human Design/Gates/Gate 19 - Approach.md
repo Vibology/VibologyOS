@@ -332,7 +332,7 @@ Gate 19 teaches that **true sensitivity honors interdependence without losing se
 - Gene Keys 19 - Co-dependence to Sacrifice — Richard Rudd's shadow-gift-siddhi framework for Gate 19
 - [[The Empress (III)]] — Resonance with nurturing and abundance
 - Chesed (Qabalah) — The Sephirah of mercy and loving-kindness
-- [[The Moon (Astrology)]] — The body that governs needs and nurturing
+- The Moon (Astrology) — The body that governs needs and nurturing
 
 ### Thematic Collections
 - Gates of the Root Center — All gates within the pressure/adrenaline center
@@ -343,13 +343,13 @@ Gate 19 teaches that **true sensitivity honors interdependence without losing se
 ### Archetypal and Mythological
 - The Caretaker Archetype — The pattern of nurturing and support
 - Demeter (Greek mythology) — Goddess of harvest and nourishment
-- [[The Bodhisattva (Buddhism)]] — The enlightened being who approaches all with compassion
-- [[Mother Teresa (Historical)]] — Embodiment of approaching the suffering with sensitivity
+- The Bodhisattva (Buddhism) — The enlightened being who approaches all with compassion
+- Mother Teresa (Historical) — Embodiment of approaching the suffering with sensitivity
 
 ### Biological and Somatic
 - [[Root]] — The center of pressure and stress
 - Adrenal Glands — The biological correlation for the Root Center
-- [[Stress Response]] — How the body creates pressure to act
+- Stress Response — How the body creates pressure to act
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework

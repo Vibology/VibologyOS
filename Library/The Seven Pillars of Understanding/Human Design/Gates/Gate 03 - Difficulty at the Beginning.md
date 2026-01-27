@@ -348,21 +348,21 @@ Gate 3 teaches that **mutation is not easy, and it shouldn't be**. When the indi
 
 ### Archetypal and Mythological
 - The Birth Archetype — The psychological and creative act of bringing forth new life
-- [[Nigredo (Alchemy)]] — The blackening stage, necessary chaos before transformation
-- [[The Storm (Universal Symbol)]] — Chaos that clears the way for new weather
-- [[The Seed (Universal Symbol)]] — Life pushing through earth, difficulty at emergence
+- Nigredo (Alchemy) — The blackening stage, necessary chaos before transformation
+- The Storm (Universal Symbol) — Chaos that clears the way for new weather
+- The Seed (Universal Symbol) — Life pushing through earth, difficulty at emergence
 
 ### Biological and Somatic
 - [[Sacral]] — The center of life force, fertility, and response
 - Ovaries and Testes — Reproductive organs associated with the Sacral
-- [[The Pulse (Energy Pattern)]] — On/off rhythm of Individual energy
+- The Pulse (Energy Pattern) — On/off rhythm of Individual energy
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - Sacral Response — The uh-huh/uhn-uhn gut response of the Sacral
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
-- [[Honoring the Pulse]] — Working with Individual energy's on/off rhythm
-- [[Mutation vs. Evolution]] — Understanding the difference between Individual mutation and Collective/Tribal evolution
+- Honoring the Pulse — Working with Individual energy's on/off rhythm
+- Mutation vs. Evolution — Understanding the difference between Individual mutation and Collective/Tribal evolution
 
 ---
 

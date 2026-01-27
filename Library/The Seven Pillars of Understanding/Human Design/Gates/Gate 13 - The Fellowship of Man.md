@@ -336,8 +336,8 @@ Gate 13 teaches that **listening is a sacred act**. When the individual honors t
 
 ### Archetypal and Mythological
 - The Witness Archetype — The pattern of observing without intervention
-- [[The Collective Unconscious (Jung)]] — Universal patterns shared across humanity
-- [[Chiron (Astrology)]] — The wounded healer who witnesses suffering
+- The Collective Unconscious (Jung) — Universal patterns shared across humanity
+- Chiron (Astrology) — The wounded healer who witnesses suffering
 
 ### Biological and Somatic
 - [[G Center]] — The center of identity, direction, and love
@@ -346,7 +346,7 @@ Gate 13 teaches that **listening is a sacred act**. When the individual honors t
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework
-- [[Empathic Boundaries in Human Design]] — How to witness without absorption
+- Empathic Boundaries in Human Design — How to witness without absorption
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - Collective vs. Individual vs. Tribal — Distinguishing the three streams of circuitry
 

@@ -348,7 +348,7 @@ Gate 35 teaches that **progress requires movement**. When the individual honors 
 ### Biological and Somatic
 - [[Throat]] — Manifestation and expression
 - Thyroid — Metabolic regulation
-- [[Voice]] — Expression of hunger
+- Voice — Expression of hunger
 
 ### Practical Application
 - Strategy and [[Authority]] — HD decision-making

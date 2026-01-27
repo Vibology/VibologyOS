@@ -342,13 +342,13 @@ Gate 61 teaches that **inner truth cannot be forced**. When the individual honor
 ### Archetypal and Mythological
 - The Mystic Archetype — Pattern of direct knowing
 - The Seer Archetype — Revelation through vision
-- [[Neptune (Mythology)]] — God of the deep, the mysterious
+- Neptune (Mythology) — God of the deep, the mysterious
 - Oracle of Delphi (Greek mythology) — Inspiration through divine pressure
 
 ### Biological and Somatic
 - [[Head]] — Inspiration, mental pressure, cosmic questions
 - Pineal Gland — Third eye, cosmic attunement
-- [[Mental Pressure System]] — Drive to question and seek
+- Mental Pressure System — Drive to question and seek
 
 ### Practical Application
 - Strategy and [[Authority]] — Decision-making framework

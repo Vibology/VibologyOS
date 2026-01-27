@@ -344,13 +344,13 @@ Gate 47 teaches that **mental pressure is sacred**. When the individual honors t
 ### Biological and Somatic
 - [[Ajna]] — The center of mental awareness and conceptualization
 - Pineal Gland — The biological organ of mental pressure
-- [[Cognitive Processing]] — Mental mechanisms of contemplation
+- Cognitive Processing — Mental mechanisms of contemplation
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - Defined vs. Undefined Centers — Understanding fixed vs. variable energy in the bodygraph
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
-- [[Mental Awareness vs. Authority]] — Distinguishing Ajna (awareness) from decision-making centers
+- Mental Awareness vs. Authority — Distinguishing Ajna (awareness) from decision-making centers
 
 ---
 

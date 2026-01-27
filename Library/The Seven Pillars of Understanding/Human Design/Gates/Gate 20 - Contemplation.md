@@ -352,7 +352,7 @@ Gate 20 teaches that **true power is presence**. When the individual honors thei
 ### Cross-System Correspondences
 - I-Ching Hexagram 20 - Contemplation — The source hexagram and traditional I-Ching interpretation
 - Gene Keys 20 - Superficiality to Presence — Richard Rudd's shadow-gift-siddhi framework for Gate 20
-- [[Judgment (Tarot)]] — Resonance with awakening and recognition
+- Judgment (Tarot) — Resonance with awakening and recognition
 - [[Kether]] — The Crown, pure point of presence
 - Mercury/Sun — Communication/identity expressed through the now
 
@@ -364,20 +364,20 @@ Gate 20 teaches that **true power is presence**. When the individual honors thei
 
 ### Archetypal and Mythological
 - The Witness Archetype — The pattern of observing without judgment
-- [[The Buddha (Buddhism)]] — Awakening through presence
-- [[Eckhart Tolle (Contemporary)]] — Teacher of present-moment awareness
-- [[The Eternal Now (Philosophy)]] — The collapse of time into presence
+- The Buddha (Buddhism) — Awakening through presence
+- Eckhart Tolle (Contemporary) — Teacher of present-moment awareness
+- The Eternal Now (Philosophy) — The collapse of time into presence
 
 ### Biological and Somatic
 - [[Throat]] — The center of manifestation, communication, and action
-- [[Thyroid and Parathyroid]] — The glands associated with the Throat Center
-- [[Metabolic Expression]] — How energy is manifested in the moment
+- Thyroid and Parathyroid — The glands associated with the Throat Center
+- Metabolic Expression — How energy is manifested in the moment
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - Defined vs. Undefined Centers — Understanding fixed vs. variable energy in the bodygraph
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
-- [[Individual Empowerment]] — How the Integration Circuit demonstrates what is possible through embodiment
+- Individual Empowerment — How the Integration Circuit demonstrates what is possible through embodiment
 
 ---
 

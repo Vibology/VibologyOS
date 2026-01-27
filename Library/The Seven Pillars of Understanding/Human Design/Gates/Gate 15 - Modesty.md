@@ -338,8 +338,8 @@ Gate 15 teaches that **true love is acceptance of the full spectrum**. When the 
 ### Archetypal and Mythological
 - The Wanderer Archetype — The pattern of experiencing all paths
 - The Mystic Archetype — One who has walked all extremes and judges none
-- [[Shadow Integration (Jung)]] — The process of accepting all aspects of psyche
-- [[The Middle Way (Buddhism)]] — Balance between extremes
+- Shadow Integration (Jung) — The process of accepting all aspects of psyche
+- The Middle Way (Buddhism) — Balance between extremes
 
 ### Biological and Somatic
 - [[G Center]] — The center of identity, direction, and love

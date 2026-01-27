@@ -357,22 +357,22 @@ Gate 8 teaches that **creative contribution is not about being the best—it is 
 - Gates of Style and Authenticity — Gates carrying the capacity to express genuine uniqueness
 
 ### Archetypal and Mythological
-- [[The Authentic Artist]] — Creator expressing from truth rather than trend
-- [[The Voice (Universal Symbol)]] — Expression as manifestation of inner truth
-- [[Union Through Differentiation]] — Unity that honors uniqueness
-- [[The Drop and the Ocean]] — Individual contributing to collective while maintaining essence
+- The Authentic Artist — Creator expressing from truth rather than trend
+- The Voice (Universal Symbol) — Expression as manifestation of inner truth
+- Union Through Differentiation — Unity that honors uniqueness
+- The Drop and the Ocean — Individual contributing to collective while maintaining essence
 
 ### Biological and Somatic
 - [[Throat]] — The center of manifestation, voice, and action
-- [[Thyroid (Biology)]] — The gland regulating metabolism and energy expression
+- Thyroid (Biology) — The gland regulating metabolism and energy expression
 - Vocal Cords — The physical mechanism of voice
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - [[Self-Projected Authority]] — Hearing oneself speak to know what is correct (for those with Channel 1-8)
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
-- [[Honoring the Individual Pulse]] — Working with creative cycles rather than forcing constant expression
-- [[Creative Authenticity vs. Performance]] — Distinguishing genuine expression from phoniness
+- Honoring the Individual Pulse — Working with creative cycles rather than forcing constant expression
+- Creative Authenticity vs. Performance — Distinguishing genuine expression from phoniness
 
 ---
 

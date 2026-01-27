@@ -351,12 +351,12 @@ Gate 63 teaches that **doubt serves truth**. When the individual honors their pr
 - The Skeptic Archetype — Pattern of productive doubt
 - The Scientist Archetype — Verification through testing
 - Saturn (mythology) — God of time and testing
-- [[Diogenes (Greek Philosophy)]] — Cynic who questioned all patterns
+- Diogenes (Greek Philosophy) — Cynic who questioned all patterns
 
 ### Biological and Somatic
 - [[Head]] — Inspiration, mental pressure, cosmic questions
 - Pineal Gland — Mental pressure and verification drive
-- [[Skepticism Response]] — Biological questioning mechanism
+- Skepticism Response — Biological questioning mechanism
 
 ### Practical Application
 - Strategy and [[Authority]] — Decision-making framework

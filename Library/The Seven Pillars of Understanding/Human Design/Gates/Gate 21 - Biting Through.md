@@ -338,17 +338,17 @@ Gate 21 teaches that **true power is justified power**. When the individual hono
 - The King Archetype — The sovereign who controls the realm
 - The Warrior Archetype — The enforcer who protects and defends
 - Athena (Greek mythology) — Goddess of strategic warfare and just authority
-- [[The Hunter/Huntress]] — The primal archetype of control over resources
+- The Hunter/Huntress — The primal archetype of control over resources
 
 ### Biological and Somatic
 - [[Heart]] — The center of willpower and material commitment
 - Thymus and Immune System — The biological defense mechanism, enforcement at cellular level
-- [[Stomach and Gallbladder]] — Organs of digestion and control, processing material resources
+- Stomach and Gallbladder — Organs of digestion and control, processing material resources
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
-- [[Control vs. Authority]] — Distinguishing fear-based domination from natural authority
+- Control vs. Authority — Distinguishing fear-based domination from natural authority
 - Tribal Bargains — The loyalty and support dynamics of the Tribal Circuit
 
 ---

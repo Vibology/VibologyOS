@@ -340,18 +340,18 @@ Gate 14 teaches that **true power is earned through sustained work**. When the i
 ### Archetypal and Mythological
 - The Master Archetype — The pattern of perfecting a craft
 - Hephaestus (Greek mythology) — The craftsman god, master of forge and skill
-- [[The Competence Drive (Psychology)]] — The human need for efficacy and capability
+- The Competence Drive (Psychology) — The human need for efficacy and capability
 
 ### Biological and Somatic
 - [[Sacral]] — The center of life force, fertility, and response
 - Ovaries and Testes — The biological correlation for the Sacral Center
-- [[Generative Energy]] — How the Sacral creates sustainable work capacity
+- Generative Energy — How the Sacral creates sustainable work capacity
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - Sacral Response — How to recognize and trust the Sacral "uh-huh" and "uhn-uhn"
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
-- [[Empowerment vs. Leadership]] — Distinguishing Individual empowerment from Collective/Tribal leadership
+- Empowerment vs. Leadership — Distinguishing Individual empowerment from Collective/Tribal leadership
 
 ---
 

@@ -341,13 +341,13 @@ Gate 45 teaches that **rulership is sacred service**. When the individual honors
 
 ### Archetypal and Mythological
 - The Sovereign Archetype — Jungian archetypal pattern of rulership
-- [[The Benevolent King/Queen]] — Mythological figures of wise governance
+- The Benevolent King/Queen — Mythological figures of wise governance
 - [[Sun ☉]] — Centralized authority and vitality
 
 ### Biological and Somatic
 - [[Throat]] — The center of communication and manifestation
-- [[Thyroid Gland]] — The biological organ of metabolism and energy regulation
-- [[Vocal Authority]] — The somatic expression of leadership
+- Thyroid Gland — The biological organ of metabolism and energy regulation
+- Vocal Authority — The somatic expression of leadership
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework

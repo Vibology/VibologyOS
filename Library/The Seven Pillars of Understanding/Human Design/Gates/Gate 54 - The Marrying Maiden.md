@@ -332,7 +332,7 @@ Gate 54 teaches that **ambition is sacred when aligned**. When the individual ho
 ### Cross-System Correspondences
 - I-Ching Hexagram 54 - The Marrying Maiden — The source hexagram and traditional I-Ching interpretation
 - Gene Keys 54 - Greed to Ascension — Richard Rudd's shadow-gift-siddhi framework
-- [[The Chariot (Tarot)]] — Resonance with willpower and directed ambition
+- The Chariot (Tarot) — Resonance with willpower and directed ambition
 - [[Netzach]] — The sephira of victory and desire
 
 ### Thematic Collections
@@ -345,18 +345,18 @@ Gate 54 teaches that **ambition is sacred when aligned**. When the individual ho
 - The Climber Archetype — Universal pattern of striving and ascent
 - Saturn (mythology) — The Roman god of time, achievement, and authority
 - Icarus (Greek mythology) — The cautionary tale of ambition without wisdom
-- [[The Ladder (Symbolism)]] — Universal symbol of ascension and hierarchy
+- The Ladder (Symbolism) — Universal symbol of ascension and hierarchy
 
 ### Biological and Somatic
 - [[Root]] — The center of pressure, stress, and adrenalization
 - Adrenal Glands — The biological correspondence for drive and competition
-- [[Social Positioning Instinct]] — The evolutionary mechanism for hierarchy
+- Social Positioning Instinct — The evolutionary mechanism for hierarchy
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - Defined vs. Undefined Centers — Understanding fixed vs. variable energy in the bodygraph
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
-- [[Tribal Support vs. Collective Sharing]] — Distinguishing Tribal from Collective/Individual roles
+- Tribal Support vs. Collective Sharing — Distinguishing Tribal from Collective/Individual roles
 
 ---
 

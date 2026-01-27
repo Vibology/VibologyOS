@@ -328,7 +328,7 @@ Gate 24 teaches that **true understanding requires patience and trust in mental 
 - I-Ching Hexagram 24 - The Return — The source hexagram and traditional I-Ching interpretation
 - Gene Keys 24 - Addiction to Silence — Richard Rudd's shadow-gift-siddhi framework for Gate 24
 - [[The Hermit (IX)]] — Archetypal withdrawal and contemplation
-- [[Judgment (Tarot)]] — Return, renewal, and awakening
+- Judgment (Tarot) — Return, renewal, and awakening
 - Hod (Qabalah) — The Sephirah of Intellect and mental splendor
 - Mercury — The planet of thinking and mental processing
 - [[Moon ☽]] — The planet of cycles and rhythms
@@ -342,19 +342,19 @@ Gate 24 teaches that **true understanding requires patience and trust in mental 
 ### Archetypal and Mythological
 - The Philosopher Archetype — The figure who thinks deeply over time
 - The Contemplative Archetype — The one who withdraws to understand
-- [[Hermes Trismegistus]] — The alchemical philosopher of mental transformation
-- [[The Thinking Function (Jung)]] — Psychological rationalization and mental processing
+- Hermes Trismegistus — The alchemical philosopher of mental transformation
+- The Thinking Function (Jung) — Psychological rationalization and mental processing
 
 ### Biological and Somatic
 - [[Ajna]] — The center of mental awareness and conceptualization
 - Pituitary Gland — Master gland regulating cycles and rhythms
-- [[Mental Cycling and Sleep]] — The relationship between thinking and rest
+- Mental Cycling and Sleep — The relationship between thinking and rest
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
-- [[Mental Hygiene]] — Distinguishing healthy rationalization from compulsive thinking
-- [[Contemplative Practice]] — Allowing mental renewal through patient cycling
+- Mental Hygiene — Distinguishing healthy rationalization from compulsive thinking
+- Contemplative Practice — Allowing mental renewal through patient cycling
 
 ---
 

@@ -340,20 +340,20 @@ Gate 25 teaches that **true love is unconditional and includes the Self**. When 
 
 ### Archetypal and Mythological
 - The Innocent Archetype — The figure who trusts existence
-- [[The Self (Jung)]] — The totality and divine center of the psyche
-- [[Christ Consciousness]] — Archetypal Universal Love and innocent spirit
-- [[The Mystic]] — Direct experience of divine love
+- The Self (Jung) — The totality and divine center of the psyche
+- Christ Consciousness — Archetypal Universal Love and innocent spirit
+- The Mystic — Direct experience of divine love
 
 ### Biological and Somatic
 - [[G Center]] — The center of identity, love, and direction
-- [[Liver]] — Biological correlation with blood purification and life force
-- [[Cellular Identity]] — The Self beyond personal history
+- Liver — Biological correlation with blood purification and life force
+- Cellular Identity — The Self beyond personal history
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
-- [[Spiritual Discernment]] — Distinguishing authentic innocence from spiritual bypassing
-- [[Boundaries and Love]] — How self-preservation serves Universal Love
+- Spiritual Discernment — Distinguishing authentic innocence from spiritual bypassing
+- Boundaries and Love — How self-preservation serves Universal Love
 
 ---
 

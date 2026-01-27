@@ -326,8 +326,8 @@ Gate 37 teaches that **friendship requires reciprocity**. When the individual ho
 ### Cross-System Correspondences
 - I-Ching Hexagram 37 - The Family — The source hexagram
 - Gene Keys 37 - Weakness to Tenderness — Shadow-gift-siddhi framework
-- [[The Lovers (VI)]] — Partnership, union
-- [[Two of Cups (Tarot)]] — Emotional bonding
+- The Lovers (VI) — Partnership, union
+- Two of Cups (Tarot) — Emotional bonding
 - Chesed (Qabalah) — Mercy, benevolent structure
 
 ### Thematic Collections
@@ -338,12 +338,12 @@ Gate 37 teaches that **friendship requires reciprocity**. When the individual ho
 
 ### Archetypal and Mythological
 - The Family Archetype — Belonging and tribal structure
-- [[Reciprocity]] — Fair exchange as spiritual principle
-- [[Oxytocin]] — The bonding hormone
+- Reciprocity — Fair exchange as spiritual principle
+- Oxytocin — The bonding hormone
 
 ### Biological and Somatic
 - [[Solar Plexus]] — Emotional awareness and wave
-- [[Oxytocin]] — Bonding chemistry
+- Oxytocin — Bonding chemistry
 - [[Emotional Authority]] — Decision-making through the wave
 
 ### Practical Application

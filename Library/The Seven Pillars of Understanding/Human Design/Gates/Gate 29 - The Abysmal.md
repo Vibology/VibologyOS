@@ -349,19 +349,19 @@ Gate 29 teaches that **true commitment is responsive, not obligatory**. When the
 ### Archetypal and Mythological
 - The Pilgrim Archetype — The one who commits to the journey
 - The Devotee Archetype — Sacred commitment and perseverance
-- [[Katabasis]] — The descent into the underworld
+- Katabasis — The descent into the underworld
 - Persephone (Greek mythology) — The journey into the abyss and return
 
 ### Biological and Somatic
 - [[Sacral]] — The center of life force and response
 - Ovaries and Testes — Generative commitment at biological level
-- [[Endurance]] — Sustained physical engagement
+- Endurance — Sustained physical engagement
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - Sacral Response — How to recognize and trust the Sacral "uh-huh" and "uhn-uhn"
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
-- [[Saying Yes Wisely]] — Distinguishing authentic commitment from obligation
+- Saying Yes Wisely — Distinguishing authentic commitment from obligation
 
 ---
 

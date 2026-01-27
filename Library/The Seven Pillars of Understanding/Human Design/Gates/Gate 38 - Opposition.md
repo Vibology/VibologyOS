@@ -328,7 +328,7 @@ Gate 38 teaches that **opposition preserves integrity**. When the individual hon
 ### Cross-System Correspondences
 - I-Ching Hexagram 38 - Opposition — The source hexagram
 - Gene Keys 38 - Struggle to Honour — Shadow-gift-siddhi framework
-- [[Seven of Wands (Tarot)]] — The lone fighter, opposition
+- Seven of Wands (Tarot) — The lone fighter, opposition
 - Geburah (Qabalah) — Severity, the warrior's discipline
 
 ### Thematic Collections
@@ -339,19 +339,19 @@ Gate 38 teaches that **opposition preserves integrity**. When the individual hon
 
 ### Archetypal and Mythological
 - The Warrior Archetype — Standing for principle through opposition
-- [[The Lone Fighter]] — Preserving integrity in solitude
-- [[Honour and Combat]] — Ethical struggle
+- The Lone Fighter — Preserving integrity in solitude
+- Honour and Combat — Ethical struggle
 
 ### Biological and Somatic
 - [[Root]] — Pressure, drive, stress
 - Adrenal Glands — Stress hormones and fight response
-- [[Root Pressure]] — Understanding drive mechanics
+- Root Pressure — Understanding drive mechanics
 
 ### Practical Application
 - Strategy and [[Authority]] — HD decision-making
 - Defined vs. Undefined Centers — Fixed vs. variable energy
 - The 7-Year Deconditioning Cycle — Returning to design
-- [[Individual vs. Tribal vs. Collective]] — Distinguishing streams
+- Individual vs. Tribal vs. Collective — Distinguishing streams
 
 ---
 

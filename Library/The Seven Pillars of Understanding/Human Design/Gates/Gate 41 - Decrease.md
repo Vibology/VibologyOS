@@ -340,19 +340,19 @@ Gate 41 teaches that **fantasy is sacred fuel**. When the individual honors thei
 
 ### Archetypal and Mythological
 - The Dreamer Archetype — Jungian archetypal pattern of imagining future possibilities
-- [[Longing and Desire]] — Psychological themes of anticipation
-- [[The Moon (Astrology)]] — Emotional tides and anticipatory longing
+- Longing and Desire — Psychological themes of anticipation
+- The Moon (Astrology) — Emotional tides and anticipatory longing
 
 ### Biological and Somatic
 - [[Root]] — The center of pressure, stress, and fuel
 - Adrenal Glands — The biological organ associated with Root pressure
-- [[Stress Response]] — The physiological activation of pressure
+- Stress Response — The physiological activation of pressure
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - Defined vs. Undefined Centers — Understanding fixed vs. variable energy in the bodygraph
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
-- [[Abstract vs. Logical vs. Tribal]] — Distinguishing the three streams of the bodygraph
+- Abstract vs. Logical vs. Tribal — Distinguishing the three streams of the bodygraph
 
 ---
 

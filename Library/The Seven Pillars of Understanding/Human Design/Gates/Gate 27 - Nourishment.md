@@ -332,7 +332,7 @@ Gate 27 teaches that **true caring is responsive and sustainable**. When the ind
 - [[Strength (VIII)]] — Gentle power and caring
 - Binah (Qabalah) — The Great Mother sphere
 - [[Moon ☽]] — The planet of nurturing and emotional care
-- [[Ceres (Astrology)]] — The asteroid of harvest and caretaking
+- Ceres (Astrology) — The asteroid of harvest and caretaking
 
 ### Thematic Collections
 - Gates of the Sacral Center — All gates within the Life Force center
@@ -343,19 +343,19 @@ Gate 27 teaches that **true caring is responsive and sustainable**. When the ind
 ### Archetypal and Mythological
 - The Great Mother Archetype — The nurturing and devouring mother
 - The Caretaker Archetype — The one who provides and sustains
-- [[Demeter/Ceres (Mythology)]] — Goddess of harvest, nourishment, and mothering
-- [[The Nourishing Function (Psychology)]] — The capacity to sustain life
+- Demeter/Ceres (Mythology) — Goddess of harvest, nourishment, and mothering
+- The Nourishing Function (Psychology) — The capacity to sustain life
 
 ### Biological and Somatic
 - [[Sacral]] — The center of life force and response
 - Ovaries and Testes — Generative organs, creative nourishment
-- [[Digestive System]] — Processing what we take in to nourish the body
+- Digestive System — Processing what we take in to nourish the body
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - Sacral Response — How to recognize and trust the Sacral "uh-huh" and "uhn-uhn"
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
-- [[Boundaries in Caretaking]] — How to nourish sustainably without depletion
+- Boundaries in Caretaking — How to nourish sustainably without depletion
 
 ---
 

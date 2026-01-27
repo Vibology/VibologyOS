@@ -348,14 +348,14 @@ Gate 53 teaches that **beginnings are sacred**. When the individual honors their
 
 ### Archetypal and Mythological
 - The Puer Aeternus Archetype — Jungian archetypal pattern of eternal youth
-- [[Jupiter (Mythology)]] — The Roman god of expansion and growth
+- Jupiter (Mythology) — The Roman god of expansion and growth
 - Persephone (Greek mythology) — The goddess of cycles, beginnings, and returns
-- [[The Seed (Symbolism)]] — Universal symbol of beginning and potential
+- The Seed (Symbolism) — Universal symbol of beginning and potential
 
 ### Biological and Somatic
 - [[Root]] — The center of pressure, stress, and adrenalization
 - Adrenal Glands — The biological correspondence for initiation response
-- [[Reproductive Organs]] — The biological correspondence for beginning life cycles
+- Reproductive Organs — The biological correspondence for beginning life cycles
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework
