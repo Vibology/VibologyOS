@@ -25,7 +25,7 @@ Strategy aligns your vehicle (the BodyGraph) with its role in the totality. When
 ---
 ## The Four Strategies
 
-Each [[Type]] has a unique Strategy:
+Each [[Types]] has a unique Strategy:
 
 | Type | Strategy | Purpose |
 |------|----------|---------|
@@ -195,9 +195,9 @@ Strategy is the spiritual practice of **alignment**—not through transcendence 
 ## Cross-References
 
 - **Types:** See [[Manifestor]], [[Generator]], [[Projector]], [[Reflector]] for Type-specific Strategies
-- **Authority:** See [[Authority Overview]] for the decision-making intelligence that works *within* Strategy
+- **Authority:** See [[Authority]] for the decision-making intelligence that works *within* Strategy
 - **Jungian Parallel:** Strategy as the [[Individuation Process]]—the specific path unique to each psyche
-- **Tarot:** [[The Chariot]] (alignment of vehicle and will) and [[Temperance]] (right timing)
+- **Tarot:** [[The Chariot (VII)]] (alignment of vehicle and will) and [[Temperance (XIV)]] (right timing)
 
 ---
 ## Strategy Integration

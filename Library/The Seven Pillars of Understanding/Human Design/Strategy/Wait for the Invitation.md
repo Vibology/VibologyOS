@@ -196,8 +196,8 @@ Being seen is prerequisite to invitation. Projectors can position themselves whe
 - **Projector Type:** See [[Projector]] for the complete Type mechanics
 - **Authorities:** See [[Emotional Authority]], [[Splenic Authority]], [[Ego Authority]], [[Self-Projected Authority]], [[Mental Authority]]
 - **Other Strategies:** See [[To Inform]], [[To Respond]], [[Wait a Lunar Cycle]]
-- **Jungian Parallel:** The [[Wise Old Man]] who speaks only when asked
-- **Tarot:** [[The Hermit]] (waiting with lamp lit), [[Justice]] (recognition and correct exchange)
+- **Jungian Parallel:** The [[The Wise Old Man]] who speaks only when asked
+- **Tarot:** [[The Hermit (IX)]] (waiting with lamp lit), [[Justice (XI)]] (recognition and correct exchange)
 
 ---
 

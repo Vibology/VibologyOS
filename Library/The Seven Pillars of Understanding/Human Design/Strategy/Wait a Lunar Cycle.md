@@ -236,11 +236,11 @@ For this reason, wise communities value their Reflectors—not as participants i
 ## Cross-References
 
 - **Reflector Type:** See [[Reflector]] for the complete Type mechanics
-- **Moon Transit:** See [[Lunar Cycle]] for the mechanics of lunar transit through gates
+- **Moon Transit:** See Lunar Cycle for the mechanics of lunar transit through gates
 - **Environment:** The Reflector's well-being depends on environment more than any other Type
 - **Other Strategies:** See [[To Inform]], [[To Respond]], [[Wait for the Invitation]]
-- **Jungian Parallel:** The [[Mirror]] archetype—reflecting without distorting
-- **Tarot:** [[The Moon]] (lunar wisdom), [[The High Priestess]] (receptive knowing through cycles)
+- **Jungian Parallel:** The Mirror archetype—reflecting without distorting
+- **Tarot:** [[The Moon (XVIII)]] (lunar wisdom), [[The High Priestess (II)]] (receptive knowing through cycles)
 
 ---
 

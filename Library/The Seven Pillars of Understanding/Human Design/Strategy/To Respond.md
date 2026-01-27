@@ -191,8 +191,8 @@ When the Generator abandons their strategy:
 - **Sacral Center:** See [[Sacral]] for the motor that enables response
 - **Authorities:** See [[Sacral Authority]], [[Emotional Authority]]
 - **Other Strategies:** See [[To Inform]], [[Wait for the Invitation]], [[Wait a Lunar Cycle]]
-- **Jungian Parallel:** The [[Great Mother]] who receives before she creates
-- **Tarot:** [[The Empress]] (fertile response), [[Strength]] (trusting the inner beast)
+- **Jungian Parallel:** The [[The Great Mother]] who receives before she creates
+- **Tarot:** [[The Empress (III)]] (fertile response), [[Strength (VIII)]] (trusting the inner beast)
 
 ---
 

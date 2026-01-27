@@ -153,8 +153,8 @@ When the Manifestor abandons their strategy:
 - **Manifestor Type:** See [[Manifestor]] for the complete Type mechanics
 - **Authorities:** See [[Emotional Authority]], [[Splenic Authority]], [[Ego Authority]]
 - **Other Strategies:** See [[To Respond]], [[Wait for the Invitation]], [[Wait a Lunar Cycle]]
-- **Jungian Parallel:** The [[Hero]] who must announce the quest before departing
-- **Tarot:** [[The Magician]] (initiating power) and [[The Emperor]] (authority that communicates)
+- **Jungian Parallel:** The Hero who must announce the quest before departing
+- **Tarot:** [[The Magician (I)]] (initiating power) and [[The Emperor (IV)]] (authority that communicates)
 
 ---
 
