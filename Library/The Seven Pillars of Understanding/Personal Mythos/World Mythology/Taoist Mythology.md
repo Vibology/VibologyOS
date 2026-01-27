@@ -801,12 +801,12 @@ Jung: *"The alchemical vessel is the psyche itself. The fire is suffering. The w
 ### Jungian Archetypes
 - [[The Wise Old Man]] (Lao Tzu, Zhuangzi, Sage archetype)
 - [[The Alchemist]] (Tao as Nameless Source, Unus Mundus)
-- [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] (Queen Mother of the West, Yin principle)
+- [[The Great Mother]] (Queen Mother of the West, Yin principle)
 - [[The Muse]] (Queen Mother, Yin as soul-guide)
 - [[The Idol]] (Yang principle, Jade Emperor as spirit-authority)
 - [[The Changeling]] (Zhuangzi's Butterfly, fluid identity)
 - [[The Shadow]] (Ego-grasping, wei/forced action, projection dynamics)
-- [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] (Primordial state of wu wei before ego formation)
+- [[The Divine Child]] (Primordial state of wu wei before ego formation)
 
 ### Hero's Journey
 - [[The Ordinary World]] (Already the Tao, unconscious unity)
@@ -836,17 +836,17 @@ Jung: *"The alchemical vessel is the psyche itself. The fire is suffering. The w
 
 ### Tarot
 - [[The Fool (0)]] (Wu wei, spontaneous action, beginner's mind)
-- [[The Hermit]] (Sage withdrawing to mountain, inner light)
-- [[The High Priestess]] (Yin principle, receptive wisdom, Queen Mother)
-- [[The Hierophant]] (Spiritual tradition, Jade Emperor as cosmic order)
-- [[The Lovers]] (Yin-Yang union, sacred marriage)
-- [[Temperance]] (Alchemical mixing, Fire and Water balance)
-- [[The Hanged Man]] (Surrender, wu wei, reversal of perspective)
-- [[Death]] (Ego death, dissolution into Tao)
-- [[The Moon]] (Yin, unconscious, Water element, cyclical flow)
-- [[The Sun]] (Yang, consciousness, Fire element, clarity)
-- [[Judgement]] (Awakening, Diamond Body realized)
-- [[The World]] (Return to Tao, wholeness embodied, circulation complete)
+- [[The Hermit (IX)]] (Sage withdrawing to mountain, inner light)
+- [[The High Priestess (II)]] (Yin principle, receptive wisdom, Queen Mother)
+- [[The Hierophant (V)]] (Spiritual tradition, Jade Emperor as cosmic order)
+- [[The Lovers (VI)]] (Yin-Yang union, sacred marriage)
+- [[Temperance (XIV)]] (Alchemical mixing, Fire and Water balance)
+- [[The Hanged Man (XII)]] (Surrender, wu wei, reversal of perspective)
+- [[Death (XIII)]] (Ego death, dissolution into Tao)
+- [[The Moon (XVIII)]] (Yin, unconscious, Water element, cyclical flow)
+- [[The Sun (XIX)]] (Yang, consciousness, Fire element, clarity)
+- [[Judgement (XX)]] (Awakening, Diamond Body realized)
+- [[The World (XXI)]] (Return to Tao, wholeness embodied, circulation complete)
 
 ### Astrology
 - [[Moon ☽]] (Yin principle, receptivity, unconscious flow)
@@ -856,17 +856,17 @@ Jung: *"The alchemical vessel is the psyche itself. The fire is suffering. The w
 - [[Neptune ♆]] (Dissolution, Tao as oceanic unconscious)
 
 ### Human Design
-- [[Gate 2]] (Receptivity, Yin, allowing vs. forcing)
-- [[Gate 1]] (Yang creative force, direction, self-expression)
-- [[Gate 61]] (Inner truth, mystical knowing, Circulation of Light)
-- [[Gate 62]] (Details, thinking, Mercury/Hermetic precision in wu wei)
+- [[Gate 02 - The Receptive]] (Receptivity, Yin, allowing vs. forcing)
+- [[Gate 01 - The Creative]] (Yang creative force, direction, self-expression)
+- [[Gate 61 - Inner Truth]] (Inner truth, mystical knowing, Circulation of Light)
+- [[Gate 62 - Preponderance of the Small]] (Details, thinking, Mercury/Hermetic precision in wu wei)
 - [[Manifestor]] (Yang initiating, needs to inform to avoid resistance)
 - [[Generator]] (Wu wei embodied—responding, not initiating)
 - [[Projector]] (Recognizing patterns, guiding without forcing)
 - [[Reflector]] (Empty Boat—mirroring, no fixed identity)
 
 ### The Window (I-Ching Framework)
-- [[House of the Spirit]] (Shen, upper dantian, consciousness)
+- House of the Spirit (Shen, upper dantian, consciousness)
 - [[House of the Sea]] (Yin, Water element, emotional flow)
 - [[House of the Flame]] (Yang, Fire element, passion and will)
 - [[House of the Land]] (Earth element, grounding, embodiment)

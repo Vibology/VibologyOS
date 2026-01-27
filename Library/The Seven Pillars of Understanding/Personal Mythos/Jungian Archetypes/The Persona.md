@@ -702,21 +702,21 @@ The Persona interacts dynamically with other archetypal structures:
 
 ### Jungian Archetypes
 - [[The Shadow]] — The dark brother to the Persona's light brother
-- [[Folklore/Jungian Archetypes/The Anima]] — Feminine soul-image; challenges masculine Persona
-- [[Folklore/Jungian Archetypes/The Animus]] — Masculine soul-image; challenges feminine Persona
-- [[Folklore/Jungian Archetypes/The Self]] — Totality beyond all Personas
-- [[Folklore/Jungian Archetypes/The Hero]] — Must leave Persona to begin journey, return with new Persona
+- [[The Anima]] — Feminine soul-image; challenges masculine Persona
+- [[The Animus]] — Masculine soul-image; challenges feminine Persona
+- [[The Self]] — Totality beyond all Personas
+- [[The Hero]] — Must leave Persona to begin journey, return with new Persona
 - [[The Wise Old Man]] — Has transcended Persona rigidity
-- [[Folklore/Jungian Archetypes/The Divine Child]] — Spontaneity and authenticity repressed by Persona
-- [[Folklore/Jungian Archetypes/The Great Mother]] — Can become rigid Persona (nothing but mother)
+- [[The Divine Child]] — Spontaneity and authenticity repressed by Persona
+- [[The Great Mother]] — Can become rigid Persona (nothing but mother)
 - [[The Syzygy]] — Sacred marriage requires Persona permeability
 
 ### Hero's Journey Stages
 - [[The Ordinary World]] — Realm of Persona and social conformity
 - [[Refusal of the Call]] — Clinging to Persona out of fear
 - [[Crossing the First Threshold]] — Leaving Persona behind
-- [[The Belly of the Whale]] — Persona dissolved (Solutio)
-- [[The Road of Trials]] — Navigating without Persona's protection
+- [[Crossing the First Threshold]] — Persona dissolved (Solutio)
+- [[Tests, Allies, and Enemies]] — Navigating without Persona's protection
 - [[Return with the Elixir]] — Constructing new Persona aligned with Self
 
 ### Individuation Process
@@ -728,56 +728,56 @@ The Persona interacts dynamically with other archetypal structures:
 - [[Integration and Wholeness]] — Wearing Persona lightly, consciously
 
 ### Alchemical Stages
-- [[Solutio]] — Dissolution of rigid Persona
-- [[Separatio]] — Discriminating essence from appearance
-- [[Coagulatio]] — Reconstructing Persona aligned with Self
+- Solutio — Dissolution of rigid Persona
+- Separatio — Discriminating essence from appearance
+- Coagulatio — Reconstructing Persona aligned with Self
 - [[Nigredo]] — Dark night when Persona collapses
 - [[Rubedo]] — Integration: Persona as vehicle for Self
 
 ### Tarot
-- [[The Emperor]] — Structure, authority, Persona as order
-- [[The Chariot]] — Persona as vehicle/armor
-- [[The Hierophant]] — Institutional Persona and tradition
-- [[The Hanged Man]] — Voluntary Persona suspension
-- [[Death]] — Dissolution of outworn Persona
-- [[The Star]] — Nakedness, authenticity beyond Persona
-- [[The World]] — Integration, transparent Persona
+- [[The Emperor (IV)]] — Structure, authority, Persona as order
+- [[The Chariot (VII)]] — Persona as vehicle/armor
+- [[The Hierophant (V)]] — Institutional Persona and tradition
+- [[The Hanged Man (XII)]] — Voluntary Persona suspension
+- [[Death (XIII)]] — Dissolution of outworn Persona
+- [[The Star (XVII)]] — Nakedness, authenticity beyond Persona
+- [[The World (XXI)]] — Integration, transparent Persona
 
 ### Astrology
-- [[Ascendant (Rising Sign)]] — The Persona presented to the world
+- Ascendant (Rising Sign) — The Persona presented to the world
 - [[Saturn ♄]] — Structure, duty, social role, Persona rigidity
-- [[10th House (Midheaven)]] — Career, public reputation, legacy
+- [[10th House]] — Career, public reputation, legacy
 - [[Libra ♎]] — Social adaptation, relationship Personas
 - [[Capricorn ♑]] — Professionalization, achievement Persona
-- [[Sun Sign]] — Core identity often conflated with Persona
+- Sun Sign — Core identity often conflated with Persona
 
 ### Human Design
-- [[Profile]] — Costume of incarnation (e.g., 1/3, 4/6)
-- [[Personality Crystal]] — Conscious, visible aspects (Persona)
-- [[Design Crystal]] — Unconscious aspects (Shadow beneath Persona)
-- [[Conscious Sun]] — Identified role in life
-- [[Defined Centers]] — Consistent Personas
-- [[Undefined Centers]] — Absorbing others' Personas (conditioning)
+- Profile — Costume of incarnation (e.g., 1/3, 4/6)
+- Personality Crystal — Conscious, visible aspects (Persona)
+- Design Crystal — Unconscious aspects (Shadow beneath Persona)
+- Conscious Sun — Identified role in life
+- Defined Centers — Consistent Personas
+- [[Centers]] — Absorbing others' Personas (conditioning)
 
 ### Mythology & Fairy Tales
 - [[Greek Mythology]] — Theatrical masks, Narcissus, Olympian disguises
 - [[Egyptian Mythology]] — Animal-headed gods, death masks, Pharaoh's regalia
 - [[Norse Mythology]] — Odin the Wanderer, berserker skins
 - [[Cinderella]] — Ash-disguise vs. true Persona
-- [[The Goose Girl]] — False Persona usurping authentic identity
-- [[Parsifal]] — Hollow knighthood vs. integrated Grail Knight
+- The Goose Girl — False Persona usurping authentic identity
+- Parsifal — Hollow knighthood vs. integrated Grail Knight
 - [[Beauty and the Beast]] — Beast's monstrous Persona concealing prince
 
 ### The Window (I-Ching)
-- [[Hexagram 61 - Inner Truth]] — Sincerity beneath appearance
-- [[Hexagram 22 - Grace]] — Form and adornment enhancing essence
-- [[Hexagram 33 - Retreat]] — Withdrawing from social Persona
-- [[Hexagram 57 - The Gentle]] — Penetrating beneath surface
+- Hexagram 61 - Inner Truth — Sincerity beneath appearance
+- Hexagram 22 - Grace — Form and adornment enhancing essence
+- Hexagram 33 - Retreat — Withdrawing from social Persona
+- Hexagram 57 - The Gentle — Penetrating beneath surface
 
 ### Related Concepts
-- [[Individuation]] — Persona work as foundational stage
-- [[Projection]] — Idealizing or rejecting Personas in others
-- [[Active Imagination]] — Dialoguing with the Persona
+- Individuation — Persona work as foundational stage
+- Projection — Idealizing or rejecting Personas in others
+- Active Imagination — Dialoguing with the Persona
 - [[The Collective Unconscious]] — Source of archetypal Personas
 - [[Synchronicity]] — Persona often challenged via meaningful coincidence
 - [[The Transcendent Function]] — Ego-Persona tension births new consciousness

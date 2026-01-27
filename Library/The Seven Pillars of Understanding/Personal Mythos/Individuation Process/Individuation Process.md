@@ -107,7 +107,7 @@ Jung discovered that medieval alchemy was a symbolic expression of the individua
 - [[The Self]] — The archetype of wholeness, goal of individuation
 
 ### Cross-System Integration
-- [[Active Imagination]] — Jung's technique for conscious-unconscious dialogue
+- Active Imagination — Jung's technique for conscious-unconscious dialogue
 - [[Pathworking]] — Tarot's equivalent of inner journey work
 - [[The Fool's Journey]] — Tarot's archetypal individuation narrative
 

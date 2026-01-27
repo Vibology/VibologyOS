@@ -752,33 +752,33 @@ The Hero interacts dynamically with other archetypal structures:
 
 ### Jungian Archetypes
 - [[The Shadow]] — The hero's primary adversary and teacher; must be integrated, not destroyed
-- [[Folklore/Jungian Archetypes/The Anima]] — The feminine soul-image; the maiden the hero rescues (must be internalized, not projected)
-- [[Folklore/Jungian Archetypes/The Animus]] — The masculine soul-image; the heroine's inner warrior and guide
-- [[Folklore/Jungian Archetypes/The Self]] — The goal of the hero's journey; the Grail, the treasure, the boon
-- [[Folklore/Jungian Archetypes/The Great Mother]] — Both ally (Good Mother) and adversary (Terrible Mother/dragon)
+- [[The Anima]] — The feminine soul-image; the maiden the hero rescues (must be internalized, not projected)
+- [[The Animus]] — The masculine soul-image; the heroine's inner warrior and guide
+- [[The Self]] — The goal of the hero's journey; the Grail, the treasure, the boon
+- [[The Great Mother]] — Both ally (Good Mother) and adversary (Terrible Mother/dragon)
 - [[The Wise Old Man]] — The mentor who provides supernatural aid; guide through the ordeal
-- [[Folklore/Jungian Archetypes/The Divine Child]] — The hero's origin; innocence and potential before the journey begins
-- [[Folklore/Jungian Archetypes/The Persona]] — The social mask the hero must shed to individuate
-- [[The Trickster]] — The chaotic helper/saboteur who teaches the hero flexibility
-- [[The Wounded Healer]] — The hero transformed by wounding; Chiron, Amfortas, the Fisher King
+- [[The Divine Child]] — The hero's origin; innocence and potential before the journey begins
+- [[The Persona]] — The social mask the hero must shed to individuate
+- [[The Joker]] — The chaotic helper/saboteur who teaches the hero flexibility
+- The Wounded Healer — The hero transformed by wounding; Chiron, Amfortas, the Fisher King
 
 ### Hero's Journey Stages (Campbell's Monomyth)
 - [[The Call to Adventure]] — The hero summoned to the quest (Stage 2)
 - [[Refusal of the Call]] — Ego resistance to change (Stage 3)
 - [[Meeting the Mentor]] — Supernatural aid provided (Stage 4)
 - [[Crossing the First Threshold]] — Entering the unconscious/Special World (Stage 5)
-- [[The Belly of the Whale]] — Symbolic death and rebirth (Stage 6)
-- [[The Road of Trials]] — Shadow work through ordeals (Stage 7)
-- [[Meeting with the Goddess]] — Encountering the Anima (Stage 8)
-- [[Woman as Temptress]] — Resisting regressive pull (Stage 9)
-- [[Atonement with the Father]] — Reconciling with authority/superego (Stage 10)
-- [[Apotheosis]] — Ego dies to separateness, unites with Self (Stage 11)
-- [[The Ultimate Boon]] — Claiming the treasure/consciousness (Stage 12)
-- [[Refusal of the Return]] — Spiritual inflation, resisting embodiment (Stage 13)
-- [[The Magic Flight]] — Escaping with the boon (Stage 14)
-- [[Rescue from Without]] — External aid for return (Stage 15)
-- [[Crossing the Return Threshold]] — Integrating transcendent into mundane (Stage 16)
-- [[Master of Two Worlds]] — Ego-Self harmony, freedom to live (Stage 17)
+- [[Crossing the First Threshold]] — Symbolic death and rebirth (Stage 6)
+- [[Tests, Allies, and Enemies]] — Shadow work through ordeals (Stage 7)
+- [[The Reward]] — Encountering the Anima (Stage 8)
+- Woman as Temptress — Resisting regressive pull (Stage 9)
+- [[The Ordeal]] — Reconciling with authority/superego (Stage 10)
+- [[The Resurrection]] — Ego dies to separateness, unites with Self (Stage 11)
+- [[The Reward]] — Claiming the treasure/consciousness (Stage 12)
+- Refusal of the Return — Spiritual inflation, resisting embodiment (Stage 13)
+- The Magic Flight — Escaping with the boon (Stage 14)
+- Rescue from Without — External aid for return (Stage 15)
+- Crossing the Return Threshold — Integrating transcendent into mundane (Stage 16)
+- Master of Two Worlds — Ego-Self harmony, freedom to live (Stage 17)
 
 ### Individuation Process
 - [[Ego Formation and Childhood]] — Hero fantasies emerge; ego differentiates from Mother
@@ -789,26 +789,26 @@ The Hero interacts dynamically with other archetypal structures:
 - [[Integration and Wholeness]] — Master of Two Worlds; hero becomes elder/guide
 
 ### Alchemical Stages
-- [[Separatio]] — Hero separates from Mother/unconscious/prima materia
+- Separatio — Hero separates from Mother/unconscious/prima materia
 - [[Rubedo]] — The hero returns transformed and embodied; the Philosopher's Stone
-- [[Sol Invictus]] — Unconquered sun; solar consciousness triumphant
+- Sol Invictus — Unconquered sun; solar consciousness triumphant
 - [[Conjunction]] — Sacred marriage; hero and Anima united
 
 ### Tarot
 - [[The Fool (0)]] — Beginning the journey; innocence, trust, the leap
-- [[The Magician]] — The hero's will and skill; "As above, so below"
-- [[The Chariot]] — Conquest, control, willpower, triumph
-- [[Strength]] — Taming instinct (the lion) through gentleness, not force
-- [[The Hermit]] — The hero's descent into solitude for wisdom
-- [[The Wheel of Fortune]] — The hero's rise and fall; fate and free will
-- [[The Hanged Man]] — The hero's necessary sacrifice and surrender
-- [[Death]] — The hero's ego-death; transformation through ordeal
-- [[Temperance]] — Integration and balance after the trials
-- [[The Devil]] — The shadow the hero must confront
-- [[The Tower]] — The hero's fall from inflation; necessary destruction
-- [[The Star]] — Hope and guidance after the ordeal
-- [[The Sun]] — The boon achieved; solar triumph and joy
-- [[Judgement]] — Resurrection; the hero reborn and called to serve
+- [[The Magician (I)]] — The hero's will and skill; "As above, so below"
+- [[The Chariot (VII)]] — Conquest, control, willpower, triumph
+- [[Strength (VIII)]] — Taming instinct (the lion) through gentleness, not force
+- [[The Hermit (IX)]] — The hero's descent into solitude for wisdom
+- [[Wheel of Fortune (X)]] — The hero's rise and fall; fate and free will
+- [[The Hanged Man (XII)]] — The hero's necessary sacrifice and surrender
+- [[Death (XIII)]] — The hero's ego-death; transformation through ordeal
+- [[Temperance (XIV)]] — Integration and balance after the trials
+- [[The Devil (XV)]] — The shadow the hero must confront
+- [[The Tower (XVI)]] — The hero's fall from inflation; necessary destruction
+- [[The Star (XVII)]] — Hope and guidance after the ordeal
+- [[The Sun (XIX)]] — The boon achieved; solar triumph and joy
+- [[Judgement (XX)]] — Resurrection; the hero reborn and called to serve
 
 ### Astrology
 - [[Sun ☉]] — Ego, vitality, heroic will, self-expression
@@ -821,47 +821,47 @@ The Hero interacts dynamically with other archetypal structures:
 - [[1st House]] — Self-assertion, identity, the hero's emergence
 - [[5th House]] — Creative self-expression, risk-taking, joy
 - [[9th House]] — The quest for truth, philosophy, long journeys
-- [[Midheaven (MC)]] — Public achievement, the hero's legacy
+- Midheaven (MC) — Public achievement, the hero's legacy
 
 ### Human Design
-- [[Manifestor Type]] — Initiating action, independence, impacting others
-- [[Defined Ego/Heart Center]] — Willpower, self-worth, competitive drive
-- [[Gate 51 - Shock]] — Initiation, competitive spirit, arousal
+- [[Manifestor]] — Initiating action, independence, impacting others
+- Defined Ego/Heart Center — Willpower, self-worth, competitive drive
+- [[Gate 51 - The Arousing]] — Initiation, competitive spirit, arousal
 - [[Gate 25 - Innocence]] — Universal love, love of the Self, spontaneity
-- [[Gate 34 - Power]] — Raw power, momentum, sacredness of action
-- [[Gate 14 - Power Skills]] — Direction of will, keys to the kingdom
-- [[Gate 1 - The Creative]] — Self-expression, individuation, uniqueness
-- [[Gate 13 - The Listener]] — Witnessing and remembering the journey
+- [[Gate 34 - The Power of the Great]] — Raw power, momentum, sacredness of action
+- [[Gate 14 - Possession in Great Measure]] — Direction of will, keys to the kingdom
+- [[Gate 01 - The Creative]] — Self-expression, individuation, uniqueness
+- [[Gate 13 - The Fellowship of Man]] — Witnessing and remembering the journey
 
 ### Mythology & Fairy Tales
 - [[Greek Mythology]] — Heracles, Theseus, Perseus, Odysseus, Prometheus
 - [[Norse Mythology]] — Sigurd, Thor, Beowulf, Odin's self-sacrifice
 - [[Egyptian Mythology]] — Osiris, Horus, the dying-resurrecting god
 - [[Hindu Mythology]] — Arjuna, Rama, Krishna as divine hero
-- [[Biblical Mythology]] — Moses, David, Christ as archetypal hero
-- [[Arthurian Legend]] — Arthur, Parsifal, Galahad, the Grail Quest
-- [[Jack and the Beanstalk]] — Raiding the unconscious for treasure
-- [[The Dragon-Slayer]] — Slaying the Mother/shadow to claim the soul
-- [[Perseus and Medusa]] — Confronting the petrifying unconscious obliquely
-- [[Parzival]] — The wounded hero who heals through compassion
+- Biblical Mythology — Moses, David, Christ as archetypal hero
+- Arthurian Legend — Arthur, Parsifal, Galahad, the Grail Quest
+- Jack and the Beanstalk — Raiding the unconscious for treasure
+- The Dragon-Slayer — Slaying the Mother/shadow to claim the soul
+- Perseus and Medusa — Confronting the petrifying unconscious obliquely
+- Parzival — The wounded hero who heals through compassion
 
 ### The Window (I-Ching)
-- [[Hexagram 34 - The Power of the Great]] — Strength, forward momentum
-- [[Hexagram 51 - Shock]] — Initiation, sudden arousal, thunder
-- [[Hexagram 24 - Return]] — The return journey, renewal, cyclical completion
-- [[Hexagram 1 - The Creative]] — Yang energy, creative will, heaven
+- Hexagram 34 - The Power of the Great — Strength, forward momentum
+- Hexagram 51 - Shock — Initiation, sudden arousal, thunder
+- Hexagram 24 - Return — The return journey, renewal, cyclical completion
+- Hexagram 1 - The Creative — Yang energy, creative will, heaven
 
 ### Related Concepts
-- [[The Monomyth]] — Campbell's universal hero pattern
-- [[Initiation Rites]] — Cultural enactment of the hero's journey
-- [[The Dragon]] — The hero's primary adversary; Mother/chaos/shadow
-- [[The Boon]] — The treasure, elixir, wisdom brought back
-- [[Puer Aeternus]] — Eternal youth pathology; refusal to mature
+- The Monomyth — Campbell's universal hero pattern
+- Initiation Rites — Cultural enactment of the hero's journey
+- The Dragon — The hero's primary adversary; Mother/chaos/shadow
+- The Boon — The treasure, elixir, wisdom brought back
+- Puer Aeternus — Eternal youth pathology; refusal to mature
 - [[Inflation]] — Ego identifying with the hero archetype
-- [[Hubris]] — Pride before the fall; hero's tragic flaw
-- [[The Wounded King]] — The hero wounded and in need of healing (Amfortas)
+- Hubris — Pride before the fall; hero's tragic flaw
+- The Wounded King — The hero wounded and in need of healing (Amfortas)
 - [[The Transcendent Function]] — Ego-Self tension births new consciousness
-- [[Active Imagination]] — Dialoguing with the hero or adversary within
+- Active Imagination — Dialoguing with the hero or adversary within
 
 ---
 

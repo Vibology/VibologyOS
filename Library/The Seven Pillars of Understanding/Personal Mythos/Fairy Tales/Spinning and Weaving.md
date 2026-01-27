@@ -17,9 +17,9 @@ verification_notes: "Fairy tale narratives accurate (Grimm, Perrault canon). Jun
 
 **Spinning and Weaving** constitutes one of the most ancient and psychologically profound motifs in fairy tale and mythological literature, encoding the fundamental process by which **raw instinct becomes conscious form**, fantasy becomes reality, and the thread of individual fate is spun from the undifferentiated wool of the collective unconscious. At its archetypal core, this motif reveals the **feminine principle as creator of reality itself**—not through conquest or rational planning but through the patient, circular, repetitive work of **turning chaos into pattern, fiber into thread, thread into cloth**.
 
-The spinning wheel appears at thresholds of transformation: the young woman who must spin straw into gold ([[Rumpelstiltskin]]), the princess cursed to prick her finger and sleep ([[Sleeping Beauty]]), the three Fates who spin, measure, and cut the thread of every human life. These are not coincidental images but precise psychological maps of **manifestation**—the process by which the unconscious (raw wool, unspun flax, the pile of straw) becomes conscious (thread, cloth, gold). **Marie-Louise von Franz** identifies spinning as the "mind of nature working," the autonomous psychic function that operates below consciousness, continuously weaving the fabric of experience, story, and identity.
+The spinning wheel appears at thresholds of transformation: the young woman who must spin straw into gold (Rumpelstiltskin), the princess cursed to prick her finger and sleep (Sleeping Beauty), the three Fates who spin, measure, and cut the thread of every human life. These are not coincidental images but precise psychological maps of **manifestation**—the process by which the unconscious (raw wool, unspun flax, the pile of straw) becomes conscious (thread, cloth, gold). **Marie-Louise von Franz** identifies spinning as the "mind of nature working," the autonomous psychic function that operates below consciousness, continuously weaving the fabric of experience, story, and identity.
 
-The motif's shadow dimension reveals itself in **obsessive spinning**—the neurotic fixation where consciousness becomes trapped in repetitive thought patterns, spinning fantasies that never manifest, weaving stories about life rather than living it. [[Rumpelstiltskin]] embodies this shadow: the dwarf who spins gold (consciousness, value) but demands the firstborn child (future, new life) as payment. The tale warns against the **Faustian bargain** of achieving consciousness through compulsive work divorced from relationship, feeling, and embodied life.
+The motif's shadow dimension reveals itself in **obsessive spinning**—the neurotic fixation where consciousness becomes trapped in repetitive thought patterns, spinning fantasies that never manifest, weaving stories about life rather than living it. Rumpelstiltskin embodies this shadow: the dwarf who spins gold (consciousness, value) but demands the firstborn child (future, new life) as payment. The tale warns against the **Faustian bargain** of achieving consciousness through compulsive work divorced from relationship, feeling, and embodied life.
 
 **Developmental Context:** Constellates during periods of **life transition** requiring the integration of unconscious material into conscious form—adolescence (spinning the thread of adult identity), pregnancy (weaving new life), creative work (manifesting vision into reality), and midlife (weaving the second half of life from the raw material of the first).
 
@@ -106,7 +106,7 @@ The **shadow** of spinning manifests as:
 
 ### Sleeping Beauty – The Spindle as Initiation
 
-At her christening, the thirteenth fairy (the uninvited, the [[Shadow]]) curses the princess: on her fifteenth birthday, she will **prick her finger on a spindle and die**. A kinder fairy softens the curse to **sleep for one hundred years**. The king bans all spinning wheels from the kingdom, but fate cannot be thwarted. On her fifteenth birthday, the princess discovers an old woman spinning in a tower and, compelled by curiosity, touches the spindle—and falls unconscious.
+At her christening, the thirteenth fairy (the uninvited, the [[The Shadow]]) curses the princess: on her fifteenth birthday, she will **prick her finger on a spindle and die**. A kinder fairy softens the curse to **sleep for one hundred years**. The king bans all spinning wheels from the kingdom, but fate cannot be thwarted. On her fifteenth birthday, the princess discovers an old woman spinning in a tower and, compelled by curiosity, touches the spindle—and falls unconscious.
 
 #### Psychological Reading
 - **The spindle prick** = Loss of virginity, sexual awakening, the wound of embodiment
@@ -119,7 +119,7 @@ At her christening, the thirteenth fairy (the uninvited, the [[Shadow]]) curses 
 
 ### Rumpelstiltskin – The Faustian Bargain
 
-A miller boasts that his daughter can **spin straw into gold**. The king locks her in a room with straw and a spinning wheel, demanding gold by morning or death. A strange little man ([[Rumpelstiltskin]]) appears and offers to spin the straw into gold in exchange for her necklace. The next night, her ring. The third night, when she has nothing left to give, he demands her **firstborn child**. Desperate, she agrees. Later, married to the king and pregnant, Rumpelstiltskin returns to claim the child. She begs for mercy. He offers one chance: **guess his name in three days, and keep the child**.
+A miller boasts that his daughter can **spin straw into gold**. The king locks her in a room with straw and a spinning wheel, demanding gold by morning or death. A strange little man (Rumpelstiltskin) appears and offers to spin the straw into gold in exchange for her necklace. The next night, her ring. The third night, when she has nothing left to give, he demands her **firstborn child**. Desperate, she agrees. Later, married to the king and pregnant, Rumpelstiltskin returns to claim the child. She begs for mercy. He offers one chance: **guess his name in three days, and keep the child**.
 
 Through cunning (a messenger overhears him singing his name), she succeeds. In his rage, Rumpelstiltskin **tears himself in two**.
 
@@ -154,7 +154,7 @@ The three **Moirai** (Fates) appear at every birth:
 - **Lachesis** ("the Allotter") – Measures the thread, determining the length and events of life
 - **Atropos** ("the Inevitable") – Cuts the thread, ending life. Her shears cannot be escaped, even by gods.
 
-**Psychological Function:** The Moirai represent the **autonomous processes of the unconscious** that determine life's structure beyond ego control. You do not choose when you are born ([[Clotho]]), the span of your years ([[Lachesis]]), or when you die ([[Atropos]]). The ego's task is not to control fate but to **align with it**—to discover **what wants to be lived** through you.
+**Psychological Function:** The Moirai represent the **autonomous processes of the unconscious** that determine life's structure beyond ego control. You do not choose when you are born (Clotho), the span of your years (Lachesis), or when you die (Atropos). The ego's task is not to control fate but to **align with it**—to discover **what wants to be lived** through you.
 
 **Von Franz:** "The Fates are older than the gods. They represent the **impersonal, cosmic law**—the patterns that govern existence. Even Zeus cannot overrule them. This is the psyche acknowledging that **consciousness does not create reality**; it participates in a reality already being woven."
 
@@ -343,15 +343,15 @@ The **Bean Nighe** (Washer Woman) appears at rivers, washing the bloodstained cl
 
 ## Cross-References
 **Jungian Archetypes:**
-- [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] – Weaver of reality, container of potential
+- [[The Great Mother]] – Weaver of reality, container of potential
 - [[The Shadow]] – Rumpelstiltskin, compulsive productivity, obsessive spinning
 - [[The Muse]] – Sleeping Beauty, the soul-function wounded and awakened by the spindle
 - [[The Alchemist]] – The Fates, the autonomous intelligence weaving destiny
 - [[The Wise Old Man]] – The old women who spin, the carriers of sacred knowledge
 
 **Fairy Tales:**
-- [[Sleeping Beauty]] – The spindle as initiation, the prick that activates transformation
-- [[Rumpelstiltskin]] – The shadow of manifestation, spinning straw into gold
+- Sleeping Beauty – The spindle as initiation, the prick that activates transformation
+- Rumpelstiltskin – The shadow of manifestation, spinning straw into gold
 - [[Rapunzel]] – Golden hair as Eros-thread, the lifeline between tower and earth
 - [[Cinderella]] – Sorting lentils (preparation of raw material) before manifestation
 
@@ -379,14 +379,14 @@ The **Bean Nighe** (Washer Woman) appears at rivers, washing the bloodstained cl
 - [[Japanese Mythology]] – Orihime, the weaving princess
 
 **Tarot:**
-- [[The Wheel of Fortune]] – Fate, rotation, the spinning wheel of destiny
-- [[The Empress]] – The fertile weaver, pregnant with potential
-- [[The Hermit]] – The solitary spinner, turning inward to weave wisdom
-- [[The World]] – The completed tapestry, the Self as woven wholeness
+- [[Wheel of Fortune (X)]] – Fate, rotation, the spinning wheel of destiny
+- [[The Empress (III)]] – The fertile weaver, pregnant with potential
+- [[The Hermit (IX)]] – The solitary spinner, turning inward to weave wisdom
+- [[The World (XXI)]] – The completed tapestry, the Self as woven wholeness
 
 **Human Design:**
-- [[Gate 27]] – Caring and nourishment, the sacred feminine work of preservation
-- [[Gate 50]] – Values and the cauldron, what is preserved and passed down
+- [[Gate 27 - Nourishment]] – Caring and nourishment, the sacred feminine work of preservation
+- [[Gate 50 - The Cauldron]] – Values and the cauldron, what is preserved and passed down
 
 **Astrology:**
 - [[Saturn ♄]] – The cosmic weaver, karmic patterns, time's threads
@@ -396,7 +396,7 @@ The **Bean Nighe** (Washer Woman) appears at rivers, washing the bloodstained cl
 **Esoteric Concepts:**
 - [[Manifestation]] – Spinning fantasy into reality, fixing the volatile
 - [[Synchronicity]] – The web of wyrd, acausal connection
-- [[Active Imagination]] – The trance state of spinning, hands busy while unconscious surfaces
+- Active Imagination – The trance state of spinning, hands busy while unconscious surfaces
 - [[The Transcendent Function]] – Weaving conscious and unconscious into new synthesis
 
 ---

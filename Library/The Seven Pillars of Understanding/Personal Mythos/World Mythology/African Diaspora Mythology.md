@@ -848,14 +848,14 @@ The **Middle Passage as Alchemical Vessel:** Slavery was horrific—but the trad
 ## Cross-References
 
 ### Jungian Archetypes
-- [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Joker]] (Eshu/Legba, Anansi as Trickster)
+- [[The Joker]] (Eshu/Legba, Anansi as Trickster)
 - [[The Shadow]] (Petro lwa, Eshu's chaos, ancestral trauma)
 - [[The Muse]] (Oshun, Yemoja, Oya, Erzulie)
 - [[The Idol]] (Shango, Ogun, Orunmila)
-- [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] (Yemoja as ocean womb, Erzulie Dantor as fierce protector)
+- [[The Great Mother]] (Yemoja as ocean womb, Erzulie Dantor as fierce protector)
 - [[The Wise Old Man]] (Orunmila, Obatala, babalawos)
 - [[The Alchemist]] (Olodumare as Unknowable, Ifa's 256 Odu as archetypal totality)
-- [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] (Unborn souls, future ancestors)
+- [[The Divine Child]] (Unborn souls, future ancestors)
 - [[The Nightmare]] (Eshu/Legba at crossroads)
 
 ### Hero's Journey
@@ -887,27 +887,27 @@ The **Middle Passage as Alchemical Vessel:** Slavery was horrific—but the trad
 
 ### Tarot
 - [[The Fool (0)]] (Eshu's divine disorder, threshold walker)
-- [[The Magician]] (Eshu as master of crossroads, Orunmila as diviner)
-- [[The High Priestess]] (Oshun's mysteries, Yemoja's depths)
-- [[The Empress]] (Yemoja as mother, Oshun as fertility)
-- [[The Emperor]] (Shango as king)
-- [[The Hierophant]] (Orunmila, initiated priests, Ifa tradition)
-- [[The Lovers]] (Oshun and Shango, sacred marriage)
-- [[The Chariot]] (Ogun's directed will)
-- [[Strength]] (Oya's fierce power, Shango's controlled fire)
-- [[The Hermit]] (Orunmila's wisdom)
-- [[Wheel of Fortune]] (Ifa divination, destiny recognition)
-- [[Death]] (Oya guarding cemetery gates, transformation)
-- [[Temperance]] (Obatala's purity, balance)
-- [[The Tower]] (Middle Passage rupture, Shango's lightning)
-- [[The Star]] (Yemoja's hope, Oshun's beauty after catastrophe)
-- [[The Moon]] (Ancestral realm, possession trance, unconscious)
-- [[The Sun]] (Cultural reclamation, diaspora renaissance)
-- [[Judgement]] (Ancestors calling, spiritual awakening)
-- [[The World]] (Wholeness through survival, embodied spirituality)
+- [[The Magician (I)]] (Eshu as master of crossroads, Orunmila as diviner)
+- [[The High Priestess (II)]] (Oshun's mysteries, Yemoja's depths)
+- [[The Empress (III)]] (Yemoja as mother, Oshun as fertility)
+- [[The Emperor (IV)]] (Shango as king)
+- [[The Hierophant (V)]] (Orunmila, initiated priests, Ifa tradition)
+- [[The Lovers (VI)]] (Oshun and Shango, sacred marriage)
+- [[The Chariot (VII)]] (Ogun's directed will)
+- [[Strength (VIII)]] (Oya's fierce power, Shango's controlled fire)
+- [[The Hermit (IX)]] (Orunmila's wisdom)
+- [[Wheel of Fortune (X)]] (Ifa divination, destiny recognition)
+- [[Death (XIII)]] (Oya guarding cemetery gates, transformation)
+- [[Temperance (XIV)]] (Obatala's purity, balance)
+- [[The Tower (XVI)]] (Middle Passage rupture, Shango's lightning)
+- [[The Star (XVII)]] (Yemoja's hope, Oshun's beauty after catastrophe)
+- [[The Moon (XVIII)]] (Ancestral realm, possession trance, unconscious)
+- [[The Sun (XIX)]] (Cultural reclamation, diaspora renaissance)
+- [[Judgement (XX)]] (Ancestors calling, spiritual awakening)
+- [[The World (XXI)]] (Wholeness through survival, embodied spirituality)
 
 ### Astrology
-- [[Astrology/Planets/Mercury # ☿]] (Eshu/Legba as messenger, trickster, psychopomp)
+- [[Mercury ☿]] (Eshu/Legba as messenger, trickster, psychopomp)
 - [[Venus ♀]] (Oshun as love, beauty, rivers, eros)
 - [[Mars ♂]] (Ogun as iron/war, Shango as fiery will)
 - [[Jupiter ♃]] (Shango as king/sovereignty)
@@ -917,13 +917,13 @@ The **Middle Passage as Alchemical Vessel:** Slavery was horrific—but the trad
 - [[Pluto ♇]] (Oya as death/transformation, underworld, shadow)
 
 ### Human Design
-- [[Gate 21]] (Control/Treasurer) — Shango's sovereignty
-- [[Gate 25]] (Innocence/Spirit of Self) — Eshu's divine disorder
-- [[Gate 36]] (Crisis/Darkening of Light) — Middle Passage descent, Oya's darkness
-- [[Gate 41]] (Decrease/Contraction) — Ancestral contraction, preparing for rebirth
-- [[Gate 42]] (Increase/Growth) — Diaspora expansion, cultural reclamation
-- [[Gate 57]] (Intuition/Gentle) — Oshun's intuitive knowing
-- [[Gate 64]] (Before Completion) — Crossroads moment, Eshu's threshold
+- [[Gate 21 - Biting Through]] (Control/Treasurer) — Shango's sovereignty
+- [[Gate 25 - Innocence]] (Innocence/Spirit of Self) — Eshu's divine disorder
+- [[Gate 36 - Darkening of the Light]] (Crisis/Darkening of Light) — Middle Passage descent, Oya's darkness
+- [[Gate 41 - Decrease]] (Decrease/Contraction) — Ancestral contraction, preparing for rebirth
+- [[Gate 42 - Increase]] (Increase/Growth) — Diaspora expansion, cultural reclamation
+- [[Gate 57 - The Gentle]] (Intuition/Gentle) — Oshun's intuitive knowing
+- [[Gate 64 - Before Completion]] (Before Completion) — Crossroads moment, Eshu's threshold
 
 ### I Ching (via The Window)
 - **Hexagram 21 (Biting Through):** Shango's justice, cutting through to truth

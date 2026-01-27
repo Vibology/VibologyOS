@@ -18,7 +18,7 @@ verification_notes: "Core Jung archetype definitions verified via NotebookLM. Ke
 ## Overview
 ### Jung's Definition
 
-The Animus is Jung's term for the **masculine soul-image in women**—the contrasexual archetype that mediates between the conscious mind and the deeper layers of the unconscious. Where the [[Folklore/Jungian Archetypes/The Anima|Anima]] in men appears as mood and relatedness, the Animus in women manifests as **opinion, conviction, and the capacity for Logos** (meaning-making through word and spirit).
+The Animus is Jung's term for the **masculine soul-image in women**—the contrasexual archetype that mediates between the conscious mind and the deeper layers of the unconscious. Where the [[The Anima]] in men appears as mood and relatedness, the Animus in women manifests as **opinion, conviction, and the capacity for Logos** (meaning-making through word and spirit).
 
 In *Aion* (CW 9ii, par. 28), Jung writes[^1]:
 
@@ -717,7 +717,7 @@ The Animus interacts dynamically with other archetypal structures:
 - Integration requires **reclaiming what was denied** by culture, not by nature.
 
 **In Men (for context):**
-- Men do **not have an Animus**—they have an [[Folklore/Jungian Archetypes/The Anima|Anima]] (feminine soul-image).
+- Men do **not have an Animus**—they have an [[The Anima]] (feminine soul-image).
 - The Anima in men produces **moods** (emotional flooding), while the Animus in women produces **opinions** (dogmatic conviction).
 - Men's work: Integrating the Anima (developing Eros, feeling, relationship) after Shadow work.
 
@@ -726,54 +726,54 @@ The Animus interacts dynamically with other archetypal structures:
 ## Cross-References
 
 ### Jungian Archetypes
-- [[Folklore/Jungian Archetypes/The Anima]] — Feminine soul-image in men; mirror of the Animus
+- [[The Anima]] — Feminine soul-image in men; mirror of the Animus
 - [[The Shadow]] — Prerequisite for Animus work; the apprentice-piece
-- [[Folklore/Jungian Archetypes/The Self]] — Totality that contains the Animus; union of Eros and Logos
-- [[Folklore/Jungian Archetypes/The Great Mother]] — Animus helps differentiate from maternal matrix
+- [[The Self]] — Totality that contains the Animus; union of Eros and Logos
+- [[The Great Mother]] — Animus helps differentiate from maternal matrix
 - [[The Wise Old Man]] — Positive Animus in highest form; sage and guide
-- [[Folklore/Jungian Archetypes/The Hero]] — The Animus often appears as guide or adversary in the heroine's journey
-- [[Folklore/Jungian Archetypes/The Divine Child]] — Emerges from union of Animus (Logos) and feminine ego (Eros)
-- [[Folklore/Jungian Archetypes/The Persona]] — Animus is what the feminine Persona suppresses
+- [[The Hero]] — The Animus often appears as guide or adversary in the heroine's journey
+- [[The Divine Child]] — Emerges from union of Animus (Logos) and feminine ego (Eros)
+- [[The Persona]] — Animus is what the feminine Persona suppresses
 - [[The Syzygy]] — Sacred marriage of Animus and feminine consciousness
-- [[Folklore/Jungian Archetypes/The Joker]] — Mercurial Animus as trickster (Loki, Hermes)
+- [[The Joker]] — Mercurial Animus as trickster (Loki, Hermes)
 
 ### Hero's Journey Stages (Heroine's Journey)
 - [[The Call to Adventure]] — Often comes through the Animus (dream, vision, guide)
-- [[Meeting with the Mentor]] — Wise guide as positive Animus figure
+- Meeting with the Mentor — Wise guide as positive Animus figure
 - [[Crossing the First Threshold]] — Leaving the mother's world via Animus
-- [[The Road of Trials]] — Battling negative Animus (critic, dogma, demon lover)
-- [[The Meeting with the Goddess]] — Encountering divine feminine after Animus integration
-- [[Atonement with the Father]] — Healing father wound; withdrawing Animus projection
+- [[Tests, Allies, and Enemies]] — Battling negative Animus (critic, dogma, demon lover)
+- [[The Reward]] — Encountering divine feminine after Animus integration
+- [[The Ordeal]] — Healing father wound; withdrawing Animus projection
 - [[Return with the Elixir]] — Returning with Logos (capacity to teach and lead)
 
 ### Individuation Process
 - [[Ego Formation and Childhood]] — Father as first Animus projection
 - [[Persona Development]] — Feminine Persona suppresses Logos
 - [[Confrontation with Shadow]] — Prerequisite for clean Animus work (apprentice-piece)
-- [[Encounter with Animus]] — The masterpiece of individuation (Jung)
+- [[Encounter with Anima-Animus]] — The masterpiece of individuation (Jung)
 - [[Confrontation with the Self]] — Self contains integrated Animus
 - [[Integration and Wholeness]] — Union of Eros and Logos; sacred marriage
 
 ### Alchemical Stages
-- [[The Coniunctio]] — Sacred marriage of King (Animus) and Queen (feminine consciousness)
-- [[Sulfur]] — Masculine, solar, active principle (the King)
-- [[Mercurius]] — Psychopomp, quicksilver, mediator (mercurial Animus)
+- The Coniunctio — Sacred marriage of King (Animus) and Queen (feminine consciousness)
+- Sulfur — Masculine, solar, active principle (the King)
+- Mercurius — Psychopomp, quicksilver, mediator (mercurial Animus)
 - [[Rubedo]] — The red work; integration of Animus into embodied wholeness
-- [[The Philosopher's Stone]] — Product of Animus-Eros union (the Self)
+- The Philosopher's Stone — Product of Animus-Eros union (the Self)
 
 ### Tarot
-- [[The Emperor]] — Structure, authority, Logos, fatherhood (Animus as ruling principle)
-- [[The Magician]] — Creative Word, "As above, so below" (Animus as creator)
-- [[The Hierophant]] — Spiritual authority, tradition, teaching (Animus as priest)
-- [[The Hermit]] — Inner guide, solitude, wisdom (positive Animus)
+- [[The Emperor (IV)]] — Structure, authority, Logos, fatherhood (Animus as ruling principle)
+- [[The Magician (I)]] — Creative Word, "As above, so below" (Animus as creator)
+- [[The Hierophant (V)]] — Spiritual authority, tradition, teaching (Animus as priest)
+- [[The Hermit (IX)]] — Inner guide, solitude, wisdom (positive Animus)
 - [[King of Swords]] — Clarity, judgment, cutting truth (Animus discernment)
-- [[The Lovers]] — Sacred marriage, union of opposites (Eros and Logos)
-- [[Judgement]] — The trumpet call (Animus as awakener)
+- [[The Lovers (VI)]] — Sacred marriage, union of opposites (Eros and Logos)
+- [[Judgement (XX)]] — The trumpet call (Animus as awakener)
 
 ### Astrology
 - [[Sun ☉]] — Core identity, authority, spirit (Animus as solar principle)
 - [[Mars ♂]] — Drive, assertion, warrior energy (Animus as action)
-- [[Astrology/Planets/Mercury # ☿]] — Communication, Logos, the messenger (Animus as Word)
+- [[Mercury ☿]] — Communication, Logos, the messenger (Animus as Word)
 - [[Saturn ♄]] — Structure, discipline, judgment (Animus as lawgiver)
 - [[Jupiter ♃]] — Philosophy, meaning-making, expansion (Animus as teacher)
 - [[9th House]] — Philosophy, higher mind, quest for truth (Animus realm)
@@ -782,39 +782,39 @@ The Animus interacts dynamically with other archetypal structures:
 
 ### Human Design
 - [[Manifestor]] — Initiating energy, independent authority (Animus type)
-- [[Gate 51 - Shock]] — Competitive spirit, initiating force (Animus energy)
+- [[Gate 51 - The Arousing]] — Competitive spirit, initiating force (Animus energy)
 - [[Gate 31 - Influence]] — Leadership through word (Animus as Logos)
 - [[Gate 38 - Opposition]] — Fighter for meaning (Animus struggle)
-- [[Gate 7 - The Army]] — Leadership, direction (Animus authority)
-- [[Throat Center]] — Authority through voice (Animus expression)
-- [[Ajna Center]] — Mental authority, conceptualization (Animus realm)
+- [[Gate 07 - The Army]] — Leadership, direction (Animus authority)
+- [[Throat]] — Authority through voice (Animus expression)
+- [[Ajna]] — Mental authority, conceptualization (Animus realm)
 
 ### Mythology & Fairy Tales
 - [[Greek Mythology]] — Hermes, Apollo, Dionysus, Eros (Cupid and Psyche)
 - [[Egyptian Mythology]] — Thoth, Anubis, Osiris (scribe, psychopomp, king)
 - [[Norse Mythology]] — Odin, Loki, the Valkyries (wisdom seeker, trickster, warrior women)
-- [[Arthurian Legend]] — Merlin, Lancelot, Parsifal (guide, hero, seeker)
+- Arthurian Legend — Merlin, Lancelot, Parsifal (guide, hero, seeker)
 - [[Bluebeard]] — Demon lover who murders feminine consciousness
 - [[Beauty and the Beast]] — Transformation through love; Logos development
-- [[The Flying Dutchman]] — Eternal wanderer redeemed by Eros
+- The Flying Dutchman — Eternal wanderer redeemed by Eros
 - [[Snow White]] — Prince as awakener; dwarfs as plurality
 
 ### The Window (I-Ching)
-- [[Hexagram 1 - The Creative]] — Pure yang, heaven, creative power (Animus principle)
-- [[Hexagram 14 - Possession in Great Measure]] — Authority wielded wisely
-- [[Hexagram 43 - Breakthrough]] — Resolute decision (Animus conviction)
-- [[Hexagram 1 - The Creative]] — Initiating force, yang energy
+- Hexagram 1 - The Creative — Pure yang, heaven, creative power (Animus principle)
+- Hexagram 14 - Possession in Great Measure — Authority wielded wisely
+- Hexagram 43 - Breakthrough — Resolute decision (Animus conviction)
+- Hexagram 1 - The Creative — Initiating force, yang energy
 
 ### Related Concepts
 - [[Logos]] — Word, meaning, reflective consciousness (Animus function)
-- [[Eros]] — Relationship, feeling, connectedness (complementary to Animus)
-- [[Projection]] — Primary mechanism of Animus operation
-- [[Active Imagination]] — Method for dialoguing with Animus
+- Eros — Relationship, feeling, connectedness (complementary to Animus)
+- Projection — Primary mechanism of Animus operation
+- Active Imagination — Method for dialoguing with Animus
 - [[The Collective Unconscious]] — Source of archetypal Animus
 - [[Synchronicity]] — Animus often appears via meaningful coincidence
 - [[The Transcendent Function]] — Union of Eros and Logos births new consciousness
 - [[Inflation]] — Ego identifying with Animus (possession)
-- [[The Father Wound]] — Early Animus wounding through father relationship
+- The Father Wound — Early Animus wounding through father relationship
 
 ---
 

@@ -25,7 +25,7 @@ Examples:
 - Dreaming of a symbol that appears the next day
 - Encountering the exact book/person/information needed at a critical moment
 
-Jung proposed synchronicity as evidence of the **psychoid** nature of reality—that psyche and matter share a common ground in the **unus mundus** (one world). Synchronicities increase during times of heightened emotional intensity, crisis, or [[Individuation]].
+Jung proposed synchronicity as evidence of the **psychoid** nature of reality—that psyche and matter share a common ground in the **unus mundus** (one world). Synchronicities increase during times of heightened emotional intensity, crisis, or Individuation.
 
 ---
 
@@ -34,7 +34,7 @@ Jung proposed synchronicity as evidence of the **psychoid** nature of reality—
 - [[The Collective Unconscious]]
 - [[Psychoid Archetype]]
 - [[Numinous Experience]]
-- [[The Wheel of Fortune (X)]]
+- [[Wheel of Fortune (X)]]
 
 ---
 

@@ -29,7 +29,7 @@ psychological_function: Release of emotion, dissolution of rigid structures
 ## Overview
 ### Jungian Definition
 
-Carl Jung understood **Dissolution** as the necessary descent into the waters of the unconscious—the regression that follows the fire of [[Calcination]]. Where fire burns away the [[Persona]], water dissolves what remains. In *Psychology and Alchemy* (CW 12), Jung writes of the alchemical waters as both womb and tomb:
+Carl Jung understood **Dissolution** as the necessary descent into the waters of the unconscious—the regression that follows the fire of [[Calcination]]. Where fire burns away the [[The Persona]], water dissolves what remains. In *Psychology and Alchemy* (CW 12), Jung writes of the alchemical waters as both womb and tomb:
 
 > "Water is the commonest symbol for the unconscious... The lake in the valley is the unconscious, which lies, as it were, underneath consciousness, so that it is often referred to as the 'subconscious,' usually with the pejorative connotation of an inferior consciousness."
 > — C.G. Jung, *Psychology and Alchemy* (CW 12, par. 21)
@@ -116,7 +116,7 @@ Water as dissolution, death, and rebirth appears across all mythologies:
 Dissolution follows [[Calcination]]—it is the release that comes after the burning. While Calcination can be sudden and violent, Dissolution is often slower, deeper, more oceanic. It is the *aftermath* of crisis.
 
 1. **Early Childhood (0-7):**
-   - The infant lives in a dissolved state—no firm ego boundaries, merged with the mother. [[Folklore/Jungian Archetypes/The Great Mother]]'s waters are both womb and ocean. Separation from this state is traumatic (birth, weaning, individuation). Early Dissolution is the natural state.
+   - The infant lives in a dissolved state—no firm ego boundaries, merged with the mother. [[The Great Mother]]'s waters are both womb and ocean. Separation from this state is traumatic (birth, weaning, individuation). Early Dissolution is the natural state.
    - **Trauma:** If the child is flooded with overwhelming emotion (neglect, abuse, loss), they may remain stuck in Dissolution, unable to form a stable ego.
 
 2. **Adolescence (12-18):**
@@ -523,7 +523,7 @@ Common dream motifs:
   - Dissolution releases Shadow material—repressed grief, rage, shame, longing. The tears are the Shadow's voice. Crying is the Shadow's prayer.
 
 - **The Great Mother:**
-  - [[Folklore/Jungian Archetypes/The Great Mother]] is the archetype of the waters—womb and tomb, nourishing and devouring. Dissolution is return to the Mother. This can be healing (renewal) or deadly (drowning, regression).
+  - [[The Great Mother]] is the archetype of the waters—womb and tomb, nourishing and devouring. Dissolution is return to the Mother. This can be healing (renewal) or deadly (drowning, regression).
 
 - **The Anima/Animus:**
   - The soul-image often appears as a water figure—mermaid, sea god, Lady of the Lake. Falling in love is Dissolution into the Anima/Animus. Tears of longing, tears of union.
@@ -581,10 +581,10 @@ Dissolution *is* making the darkness conscious. The waters are dark, cold, terri
 
 ### Related Archetypes
 - [[The Shadow]] - Repressed grief and emotion surfacing through tears
-- [[Folklore/Jungian Archetypes/The Great Mother]] - Womb and tomb, nourishing and devouring waters
-- [[Folklore/Jungian Archetypes/The Anima]] - Soul-image as water figure (mermaid, Lady of the Lake)
-- [[Folklore/Jungian Archetypes/The Animus]] - Soul-image as sea god, flood, or ocean
-- [[Folklore/Jungian Archetypes/The Divine Child]] - The infant in the womb (natural Dissolution state)
+- [[The Great Mother]] - Womb and tomb, nourishing and devouring waters
+- [[The Anima]] - Soul-image as water figure (mermaid, Lady of the Lake)
+- [[The Animus]] - Soul-image as sea god, flood, or ocean
+- [[The Divine Child]] - The infant in the womb (natural Dissolution state)
 - [[The Wise Old Man]] - The one who has survived the flood (Noah, Utnapishtim)
 
 ### Related Alchemical Operations
@@ -595,16 +595,16 @@ Dissolution *is* making the darkness conscious. The waters are dark, cold, terri
 - [[Coagulation]] - The final solidification; Dissolution's opposite and complement
 
 ### Related Hero's Journey Stages
-- [[Belly of the Whale]] - Swallowed, dissolved, immersed in the womb/tomb
+- Belly of the Whale - Swallowed, dissolved, immersed in the womb/tomb
 - [[Meeting the Mentor]] - Wisdom drawn from the depths, the Water of Life
 - [[Approach to the Inmost Cave]] - Descent into the watery underworld
 - [[Return with the Elixir]] - Bringing back the healing waters
 
 ### Related Tarot
-- [[The Hanged Man]] - Suspended in water, surrendered, immersed (Major Arcana)
-- [[Death]] - Dissolution of form, the end that precedes rebirth (Major Arcana)
-- [[The Star]] - Healing waters poured from vessels, renewal after crisis (Major Arcana)
-- [[The Moon]] - Tides, tears, the unconscious as dark waters (Major Arcana)
+- [[The Hanged Man (XII)]] - Suspended in water, surrendered, immersed (Major Arcana)
+- [[Death (XIII)]] - Dissolution of form, the end that precedes rebirth (Major Arcana)
+- [[The Star (XVII)]] - Healing waters poured from vessels, renewal after crisis (Major Arcana)
+- [[The Moon (XVIII)]] - Tides, tears, the unconscious as dark waters (Major Arcana)
 - [[Ace of Cups]] - Elemental water, overflowing emotion, the Water of Life
 - [[Five of Cups]] - Grief, spilled cups, tears over loss
 - [[Queen of Cups]] - Emotional depth, the one who holds the waters
@@ -618,10 +618,10 @@ Dissolution *is* making the darkness conscious. The waters are dark, cold, terri
 - [[12th House]] - House of dissolution, the unconscious, loss of ego
 
 ### Related Human Design
-- [[Emotional Solar Plexus]] - The wave, tidal emotion, clarity through emotional release
-- [[Spleen Center]] - Intuitive knowing drawn from the waters of the unconscious
-- [[Open Centers]] - Flooded by others' energy (Dissolution without boundaries)
-- [[Gate 47]] - Realization through oppression (dissolving in the pressure)
+- [[Solar Plexus]] - The wave, tidal emotion, clarity through emotional release
+- [[Spleen]] - Intuitive knowing drawn from the waters of the unconscious
+- Open Centers - Flooded by others' energy (Dissolution without boundaries)
+- [[Gate 47 - Oppression]] - Realization through oppression (dissolving in the pressure)
 
 ### Related Angelology
 - [[Raphael]] - Archangel of healing and water, the one who stirs the healing pool

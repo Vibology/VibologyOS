@@ -144,7 +144,7 @@ For all other Types, the G Center:
 
 *The G Center is the seat of the Self—the place where identity, direction, and love converge. For some, it is a fixed compass, always pointing true north. For others, it is a mirror, reflecting the environment and becoming anew in each context. To honor the G is to recognize that knowing who you are—or not knowing—is both sacred, and that the Magnetic Monopole pulls you along your path whether you understand it or not.*
 
-
+---
 ## Sources
 
 Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.

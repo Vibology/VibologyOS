@@ -22,15 +22,15 @@ The **Transcendent Function** is Jung's term for the psyche's capacity to hold *
 
 Example: Thesis (freedom) + Antithesis (responsibility) → Synthesis (mature autonomy that honors both)
 
-The transcendent function operates through dreams, active imagination, art, and symbolic work. It is central to the process of [[Individuation]]—the integration of unconscious contents into conscious awareness.
+The transcendent function operates through dreams, active imagination, art, and symbolic work. It is central to the process of Individuation—the integration of unconscious contents into conscious awareness.
 
 ---
 
 ## Cross-References
 
-- [[Coniunctio]]
-- [[Individuation]]
-- [[Active Imagination]]
+- Coniunctio
+- Individuation
+- Active Imagination
 - [[Temperance (XIV)]]
 
 ---

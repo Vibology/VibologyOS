@@ -5,16 +5,12 @@ date_created: 2026-01-26
 status: stub
 expansion_needed: true
 ---
-
 # The Natal Chart
 *Celestial Snapshot at the Moment of Birth*
-
----
 
 > **Note:** This entry is a structural stub. Core framework established; detailed content pending.
 
 ---
-
 ## Overview
 
 The **Natal Chart** (also called the birth chart or horoscope) is the fundamental document of astrological analysis—a two-dimensional map of the heavens as seen from the exact location and moment of an individual's birth. It captures the positions of the Sun, Moon, planets, and mathematical points (Ascendant, Midheaven, lunar nodes) relative to the zodiac and the local horizon.
@@ -22,7 +18,6 @@ The **Natal Chart** (also called the birth chart or horoscope) is the fundamenta
 The natal chart is the **Algorithm** of astrological practice—the fixed, calculable structure from which all interpretation proceeds. Unlike [[Transits and Timing|transits]] (which track ongoing planetary movement), the natal chart is static: a permanent signature imprinted at the first breath.
 
 ---
-
 ## Components
 
 ### The Planets
@@ -61,7 +56,6 @@ Angular relationships between planets indicating how energies interact:
 - **Sextile** (60°) — Opportunity, cooperation
 
 ---
-
 ## Calculating the Chart
 
 Required data:
@@ -72,7 +66,6 @@ Required data:
 Without accurate birth time, the Ascendant and house positions remain unknown—significantly limiting interpretation.
 
 ---
-
 ## Reading the Chart
 
 Interpretation proceeds through layers:
@@ -83,7 +76,6 @@ Interpretation proceeds through layers:
 5. **Rulers and dispositors** — Chains of influence
 
 ---
-
 ## Cross-References
 
 - [[Astrology]] — System overview

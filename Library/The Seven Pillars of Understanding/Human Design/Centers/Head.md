@@ -140,7 +140,7 @@ The Head has three gates, each with a distinct flavor of mental pressure[^4]:
 
 *The Head Center is the pressure to wonder—the ancient impulse to question existence, to seek meaning, to demand answers from the void. It does not answer; it only asks. And in that asking, it drives the mind forward, restless and relentless, until the mystery reveals itself or the question dissolves into silence.*
 
-
+---
 ## Sources
 
 Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.

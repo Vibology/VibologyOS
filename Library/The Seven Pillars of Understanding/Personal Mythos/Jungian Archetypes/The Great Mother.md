@@ -686,24 +686,24 @@ The Great Mother interacts dynamically with other archetypal structures:
 
 ### Jungian Archetypes
 - [[The Shadow]] — The Terrible Mother merges with shadow material (rejected rage, dependency)
-- [[Folklore/Jungian Archetypes/The Anima]] — Men must differentiate Mother from Anima to avoid contaminated projections
-- [[Folklore/Jungian Archetypes/The Animus]] — Women integrate Mother and Animus (receptive and assertive)
-- [[Folklore/Jungian Archetypes/The Self]] — The Mother is the matrix of the Self (the Great Round, totality)
-- [[Folklore/Jungian Archetypes/The Hero]] — The hero must leave the Mother to individuate (slay the dragon)
+- [[The Anima]] — Men must differentiate Mother from Anima to avoid contaminated projections
+- [[The Animus]] — Women integrate Mother and Animus (receptive and assertive)
+- [[The Self]] — The Mother is the matrix of the Self (the Great Round, totality)
+- [[The Hero]] — The hero must leave the Mother to individuate (slay the dragon)
 - [[The Wise Old Man]] — The Crone (third aspect: Maiden, Mother, Crone) as initiator
-- [[Folklore/Jungian Archetypes/The Joker]] — Disrupts the Mother's order, aids escape from possession
-- [[Folklore/Jungian Archetypes/The Divine Child]] — The Mother births the Divine Child (new consciousness)
+- [[The Joker]] — Disrupts the Mother's order, aids escape from possession
+- [[The Divine Child]] — The Mother births the Divine Child (new consciousness)
 - [[The Syzygy]] — Sacred marriage requires Mother integration first
-- [[Folklore/Jungian Archetypes/The Threshold Guardian]] — The Mother's realm is the first threshold
+- Threshold Guardian — The Mother's realm is the first threshold
 
 ### Hero's Journey Stages
 - [[The Ordinary World]] — The Mother's realm (home, safety, containment)
 - [[The Call to Adventure]] — The call to leave the Mother
 - [[Refusal of the Call]] — Fear of the Terrible Mother (abandonment, death)
 - [[Crossing the First Threshold]] — Leaving the Mother's house
-- [[The Belly of the Whale]] — Swallowed by the Mother (death-rebirth)
+- [[Crossing the First Threshold]] — Swallowed by the Mother (death-rebirth)
 - [[The Ordeal]] — Confronting the dragon/witch (Terrible Mother)
-- [[Meeting with the Goddess]] — Differentiating Mother from Anima
+- [[The Reward]] — Differentiating Mother from Anima
 - [[Return with the Elixir]] — Returning to the Mother's realm transformed
 
 ### Individuation Process
@@ -716,20 +716,20 @@ The Great Mother interacts dynamically with other archetypal structures:
 
 ### Alchemical Stages
 - [[Nigredo]] — The Terrible Mother as death, putrefaction, tomb
-- [[Solutio]] — Dissolution in the Mother (return to the waters)
-- [[Mortificatio]] — Death in the Mother's belly (decomposition)
-- [[Coniunctio]] — Sacred marriage (Mother as Queen, receptive principle)
+- Solutio — Dissolution in the Mother (return to the waters)
+- Mortificatio — Death in the Mother's belly (decomposition)
+- Coniunctio — Sacred marriage (Mother as Queen, receptive principle)
 - [[Rubedo]] — Embodied integration of the Mother's gifts
 
 ### Tarot
-- [[The Empress]] — The Good Mother (abundance, fertility, nourishment)
-- [[The High Priestess]] — The lunar Mother (mystery, the veil, hidden wisdom)
-- [[The Moon]] — The Terrible Mother (illusion, regression, the abyss)
-- [[Death]] — The Mother's death aspect (transformation, endings)
-- [[The Star]] — The Mother's healing waters (renewal after destruction)
-- [[The Tower]] — The Mother's destructive power (necessary collapse)
-- [[Temperance]] — The alchemical Mother (the vessel of transformation)
-- [[The World]] — The Great Round (completion, the Mother's cosmic dance)
+- [[The Empress (III)]] — The Good Mother (abundance, fertility, nourishment)
+- [[The High Priestess (II)]] — The lunar Mother (mystery, the veil, hidden wisdom)
+- [[The Moon (XVIII)]] — The Terrible Mother (illusion, regression, the abyss)
+- [[Death (XIII)]] — The Mother's death aspect (transformation, endings)
+- [[The Star (XVII)]] — The Mother's healing waters (renewal after destruction)
+- [[The Tower (XVI)]] — The Mother's destructive power (necessary collapse)
+- [[Temperance (XIV)]] — The alchemical Mother (the vessel of transformation)
+- [[The World (XXI)]] — The Great Round (completion, the Mother's cosmic dance)
 
 ### Astrology
 - [[Moon ☽]] — The personal mother, emotional matrix, instinctual responses
@@ -738,38 +738,38 @@ The Great Mother interacts dynamically with other archetypal structures:
 - [[Pluto ♇]] — The Terrible Mother (death, transformation, underworld)
 - [[Scorpio ♏]] — The death-rebirth Mother (intensity, shadow, regeneration)
 - [[Venus ♀]] — The nurturing, relational feminine (Good Mother in relationships)
-- [[Ceres (asteroid)]] — The grain goddess, nourishment, mother-child bond
-- [[Black Moon Lilith]] — The rejected, wild feminine (shadow Mother)
+- Ceres (asteroid) — The grain goddess, nourishment, mother-child bond
+- Black Moon Lilith — The rejected, wild feminine (shadow Mother)
 
 ### Human Design
-- [[Gate 27 - Nourishing]] — Caring, providing sustenance, responsibility
+- [[Gate 27 - Nourishment]] — Caring, providing sustenance, responsibility
 - [[Gate 50 - The Cauldron]] — Values, rules, the guardian of culture
-- [[Spleen Center]] — Instinctual survival, the body's "inner mother"
-- [[Sacral Center]] — Life force, fertility, generative womb
-- [[Emotional Solar Plexus]] — The ocean of feeling, the Mother's emotional body
-- [[Tribal Circuit]] — Support, loyalty, the mother's protective bonds
+- [[Spleen]] — Instinctual survival, the body's "inner mother"
+- [[Sacral]] — Life force, fertility, generative womb
+- [[Solar Plexus]] — The ocean of feeling, the Mother's emotional body
+- [[Human Design]] — Support, loyalty, the mother's protective bonds
 
 ### Mythology & Fairy Tales
 - [[Greek Mythology]] — Demeter, Persephone, Hera, Gaia
 - [[Egyptian Mythology]] — Isis, Nut, the resurrection mysteries
 - [[Hindu Mythology]] — Kali, Parvati, Durga, Shakti
-- [[Sumerian Mythology]] — Inanna, Ereshkigal, Tiamat
+- Sumerian Mythology — Inanna, Ereshkigal, Tiamat
 - [[Hansel and Gretel]] — The devouring witch (Terrible Mother)
 - [[Rapunzel]] — The possessive mother (Mother Gothel)
 - [[Snow White]] — The jealous queen (shadow Mother)
 - [[Cinderella]] — The wicked stepmother and fairy godmother (split Mother)
 
 ### The Window (I-Ching)
-- [[Hexagram 2 - The Receptive]] — Pure yin, the yielding feminine
-- [[Hexagram 48 - The Well]] — Inexhaustible nourishment
-- [[Hexagram 50 - The Cauldron]] — Transformation, the vessel of culture
-- [[Hexagram 23 - Splitting Apart]] — The Terrible Mother (dissolution, decay)
+- Hexagram 2 - The Receptive — Pure yin, the yielding feminine
+- Hexagram 48 - The Well — Inexhaustible nourishment
+- Hexagram 50 - The Cauldron — Transformation, the vessel of culture
+- Hexagram 23 - Splitting Apart — The Terrible Mother (dissolution, decay)
 
 ### Related Concepts
-- [[Mother Complex]] — Unconscious constellation around the mother imago
-- [[Uroboros]] — The tail-eating serpent (Great Round, life-death unity)
-- [[Projection]] — Mother as most heavily projected archetype
-- [[Active Imagination]] — Dialoguing with the Mother archetype
+- Mother Complex — Unconscious constellation around the mother imago
+- Uroboros — The tail-eating serpent (Great Round, life-death unity)
+- Projection — Mother as most heavily projected archetype
+- Active Imagination — Dialoguing with the Mother archetype
 - [[The Collective Unconscious]] — Source of archetypal Mother images
 - [[Synchronicity]] — The Mother often appears via meaningful coincidence
 - [[The Transcendent Function]] — Holding tension between Good and Terrible Mother

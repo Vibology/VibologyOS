@@ -14,9 +14,9 @@ verification_notes: "Campbell's monomyth[^1] framework (12-stage Hero's Journey)
 ## Overview
 ### Jung's Archetypal Context
 
-The Reward represents the **first fruits of transformation**, the boon seized in the immediate aftermath of the [[Ordeal]]. In Campbell's topology[^1], this is Stage 9 of the monomyth, positioned at the precise moment when descent pivots toward ascent. The hero, having survived death—literal, symbolic, or psychological—now claims the treasure that was the quest's objective.
+The Reward represents the **first fruits of transformation**, the boon seized in the immediate aftermath of the [[The Ordeal]]. In Campbell's topology[^1], this is Stage 9 of the monomyth, positioned at the precise moment when descent pivots toward ascent. The hero, having survived death—literal, symbolic, or psychological—now claims the treasure that was the quest's objective.
 
-Jung's concept of[^2] the **[[Treasure Hard to Attain]]**—the [[Self]] as the goal of [[Individuation]]—provides the psychological substrate. The Reward is not merely an external object but the **first conscious glimpse of wholeness**, the integration of what was lost in the [[Ordeal]]'s death. It is compensation, proof of transformation, and the fragile beginning of a new relationship between [[Ego]] and Self.
+Jung's concept of[^2] the **[[Treasure Hard to Attain]]**—the [[The Self]] as the goal of Individuation—provides the psychological substrate. The Reward is not merely an external object but the **first conscious glimpse of wholeness**, the integration of what was lost in the [[The Ordeal]]'s death. It is compensation, proof of transformation, and the fragile beginning of a new relationship between Ego and Self.
 
 In alchemical terms, the Reward corresponds to the **[[Albedo]]** (whitening)—the purification and first light after the [[Nigredo]]'s darkness. The blackened matter has been cooked; what emerges is refined, luminous, transformed. Yet the Work is not complete—the boon must be defended, tested, and ultimately brought home.
 
@@ -28,7 +28,7 @@ Campbell frames the Reward as the moment when the hero takes possession of what 
 
 Key characteristics:
 
-1. **Proof of Transformation**: The Reward is not given—it is *earned*. The [[Ordeal]]'s death makes space for this resurrection.
+1. **Proof of Transformation**: The Reward is not given—it is *earned*. The [[The Ordeal]]'s death makes space for this resurrection.
 2. **Forms of the Boon**: Material object (Grail, Fleece, sword), knowledge (enlightenment, runes, secret teaching), power (kingship, immortality), relationship (sacred marriage, reconciliation), or freedom (liberation from curse, captivity).
 3. **Temporary Possession**: The hero is not yet home. The Reward can be lost, stolen, or misused. Stages 10-12 test whether the transformation holds.
 4. **First Taste of Wholeness**: The Self becomes partially conscious. The ego recognizes: *"I have changed. Something died; something new lives."*
@@ -45,14 +45,14 @@ The Reward appears across mythological traditions with archetypal consistency:
 - **Percival and the Holy Grail**: The Grail heals the [[Fisher King]] and restores the [[Wasteland]]. The Reward is not for the hero alone but for the wounded king and the dying land.
 
 **2. Knowledge Boon**
-- **Odin and the Runes**: After hanging on [[Yggdrasil]] for nine nights (the [[Ordeal]]), Odin seizes the runes—archetypal wisdom, the secret names of reality. Knowledge purchased with suffering.
+- **Odin and the Runes**: After hanging on [[Yggdrasil]] for nine nights (the [[The Ordeal]]), Odin seizes the runes—archetypal wisdom, the secret names of reality. Knowledge purchased with suffering.
 - **Buddha and Enlightenment**: After defeating [[Mara]] (the tempter) under the Bodhi tree, the Buddha attains enlightenment—direct knowledge of suffering's cessation. The Reward is awakening itself.
 - **Moses and the Ten Commandments**: Ascending Sinai (the Ordeal of the mountain, the theophany), Moses receives the Law—divine structure for human community.
-- **Inanna's Return from the Underworld**: Having died and been resurrected, Inanna returns with knowledge of death and rebirth, the wisdom of [[Ereshkigal]] (her shadow sister).
+- **Inanna's Return from the Underworld**: Having died and been resurrected, Inanna returns with knowledge of death and rebirth, the wisdom of Ereshkigal (her shadow sister).
 
 **3. Sacred Marriage**
 - **Psyche and Eros**: After completing Aphrodite's impossible tasks (the Ordeal), Psyche is reunited with Eros and deified. The Reward is union—human and divine reconciled.
-- **Beauty and the Beast**: Beauty's love breaks the curse; the Beast becomes the prince. The Reward is recognition—the [[Shadow]] transformed, love's alchemical power revealed.
+- **Beauty and the Beast**: Beauty's love breaks the curse; the Beast becomes the prince. The Reward is recognition—the [[The Shadow]] transformed, love's alchemical power revealed.
 - **Odysseus and Penelope**: After twenty years of wandering (the extended Ordeal), Odysseus reunites with Penelope. The Reward is homecoming, marriage restored, kingdom reclaimed.
 
 **4. Fairy Tale Examples**
@@ -68,7 +68,7 @@ Psychologically, the Reward corresponds to:
 
 **Young Adulthood (20-30)**: First career success, committed relationship, creative breakthrough. The ego tastes mastery but has not yet learned to sustain it. The boon can be lost if not integrated.
 
-**Midlife (35-45)**: After the [[Saturn Return]]'s crucible, the Reward is often **clarity**—knowing what matters, discarding what doesn't. The prize is discernment, not achievement.
+**Midlife (35-45)**: After the [[Saturn ♄]]'s crucible, the Reward is often **clarity**—knowing what matters, discarding what doesn't. The prize is discernment, not achievement.
 
 **Elderhood (65+)**: The Reward is often **acceptance**—of mortality, limitations, the life lived. The boon is peace, the war with reality ended.
 
@@ -83,7 +83,7 @@ Psychologically, the Reward corresponds to:
 | **I-Ching** | **Hexagram 11 (T'ai / Peace)**<br>**Hexagram 14 (Ta Yu / Possession in Great Measure)**<br>**Hexagram 46 (Sheng / Pushing Upward)** | Peace: Heaven and earth in harmony, spring arrives<br>Great Possession: Abundance, treasures amassed<br>Pushing Upward: Progress, ascent after descent | The I-Ching's counsel for the Reward: *"The time of darkness has passed. Light returns. All things flourish."* The cycle turns from winter to spring |
 | **Qabalah** | **Tiphareth (Beauty)**<br>**Chesed (Mercy)**<br>**Middle Pillar** (equilibrium) | Tiphareth: The harmonized Self, the heart center<br>Chesed: Abundance, grace, divine generosity<br>Middle Pillar: Balance between severity and mercy | The Reward often involves ascending to Tiphareth—the Self as integrated beauty, the heart opened after the Ordeal's contraction |
 | **Angelology** | [[Raphael]] (Healing)<br>[[Haniel]] (Grace, Venus)<br>**Holy Guardian Angel** (conscious contact) | Raphael: Integration, mending, restoration<br>Haniel: Beauty, love, venusian blessings<br>HGA: The angel appears after the abyss is crossed | Angels of healing and grace replace angels of severity. [[Raphael]] stitches the psyche back together; [[Haniel]] restores beauty and love |
-| **Jungian Archetypes** | [[Folklore/Jungian Archetypes/The Self]]<br>[[The Anima and Animus]]<br>[[Folklore/Jungian Archetypes/The Divine Child]]<br>[[The Treasure Hard to Attain]] | Self: Wholeness glimpsed, integration begun<br>Anima/Animus: Sacred marriage, inner union<br>Divine Child: Rebirth, innocence restored<br>Treasure: The goal of individuation made conscious | The Reward is often the *first conscious encounter with the Self*—not as annihilating totality (the Ordeal) but as benevolent wholeness |[^2]
+| **Jungian Archetypes** | [[The Self]]<br>[[The Anima]]<br>[[The Divine Child]]<br>The Treasure Hard to Attain | Self: Wholeness glimpsed, integration begun<br>Anima/Animus: Sacred marriage, inner union<br>Divine Child: Rebirth, innocence restored<br>Treasure: The goal of individuation made conscious | The Reward is often the *first conscious encounter with the Self*—not as annihilating totality (the Ordeal) but as benevolent wholeness |[^2]
 
 ## Practical Application
 
@@ -93,7 +93,7 @@ The Reward is unmistakable when present:
 
 1. **Relief After Crisis**: The worst has passed. The body/psyche exhales. Sleep returns, appetite returns, laughter returns.
 2. **Tangible Evidence**: Degree in hand, relationship repaired, clear medical test, sobriety milestone, creative work completed.
-3. **Internal Shift**: *"I am not who I was before the [[Ordeal]]. Something has changed permanently."*
+3. **Internal Shift**: *"I am not who I was before the [[The Ordeal]]. Something has changed permanently."*
 4. **First Joy**: After months or years of descent, the capacity for joy reappears—a sunrise, a friend's smile, music that moves you.
 5. **Recognition from Others**: Those who witnessed your struggle acknowledge the transformation. *"You've changed. You're different now."*
 6. **Desire to Share**: The impulse to give back, to tell the story, to help others still trapped in their Ordeals. (This matures into the [[Return with the Elixir]].)
@@ -101,18 +101,18 @@ The Reward is unmistakable when present:
 
 ### Active Engagement: How to Honor the Reward
 
-Unlike the [[Ordeal]], which demanded radical surrender, the Reward requires **conscious stewardship**:
+Unlike the [[The Ordeal]], which demanded radical surrender, the Reward requires **conscious stewardship**:
 
 **1. Acknowledge the Gift**
 - Do not minimize what was earned. The Reward is proof of your transformation.
 - Ritual acknowledgment: *"I have crossed the abyss. I have died and returned. This [boon] is evidence."*
 
 **2. Resist Inflation**
-- The ego's temptation: *"I did this. I am special."* The truth: forces beyond you (the [[Self]], grace, synchronicity, archetypal currents) participated.
+- The ego's temptation: *"I did this. I am special."* The truth: forces beyond you (the [[The Self]], grace, synchronicity, archetypal currents) participated.
 - Humility protocol: *"I survived, but I do not know why. I am grateful."*
 
 **3. Do Not Celebrate Prematurely**
-- The hero is not yet home. Enemies may pursue (see [[The Road Back]]). The boon must be defended.
+- The hero is not yet home. Enemies may pursue (see The Road Back). The boon must be defended.
 - Remain vigilant: *"I have the treasure, but the journey is incomplete."*
 
 **4. Integrate, Do Not Hoard**
@@ -128,7 +128,7 @@ Unlike the [[Ordeal]], which demanded radical surrender, the Reward requires **c
 - Discernment questions:
   - *"Does this boon align with my deepest values?"*
   - *"Am I using this to avoid further growth?"*
-  - *"Would my [[Mentor]] recognize this as the true prize, or a distraction?"*
+  - *"Would my [[The Wise Old Man]] recognize this as the true prize, or a distraction?"*
 
 ### Integration: After Claiming the Reward
 
@@ -141,7 +141,7 @@ If the Reward is genuine, integration demands:
 - If the Reward is **relationship** (sacred marriage, reconciliation), what inner union does this mirror?
 
 **2. Defend Against Theft**
-- The [[Shadow]] will attempt to reclaim the boon. Inner voices: *"You don't deserve this. You'll lose it. You're a fraud."*
+- The [[The Shadow]] will attempt to reclaim the boon. Inner voices: *"You don't deserve this. You'll lose it. You're a fraud."*
 - External forces: envious others, systemic obstacles, circumstantial reversals.
 - Practice: *"I have earned this. I will not relinquish it to fear or shame."*
 
@@ -152,7 +152,7 @@ If the Reward is genuine, integration demands:
 - Example: Healing from trauma (Reward) → Becoming a therapist for trauma survivors (Elixir).
 
 **4. Prepare for the Road Back**
-- The next stage ([[The Road Back]]) tests whether the transformation holds under pressure.
+- The next stage (The Road Back) tests whether the transformation holds under pressure.
 - Anticipate: returning to the Ordinary World will trigger doubt, resistance, and attack. Fortify now.
 
 ### Relationships During and After the Reward
@@ -187,23 +187,23 @@ The Reward is the **first reversal of fortune**—the lowest point has passed, a
 > "Having faced and overcome his greatest fear, the hero is now free to claim the treasure. This is the moment of grace—unearned, unexpected, and utterly transformative."[^1]
 
 **Relationship to Other Stages**:
-- **The [[Ordeal]] (Stage 8)** is the death; the Reward is the resurrection's first evidence.
+- **The [[The Ordeal]] (Stage 8)** is the death; the Reward is the resurrection's first evidence.
 - **The [[Road Back]] (Stage 10)** tests whether the hero can *keep* the Reward under pressure.
 - **The [[Return with the Elixir]] (Stage 12)** refines the Reward into medicine for the community.
 
-**Skipping the Reward**: If the hero bypasses this stage—fleeing the underworld empty-handed or refusing the boon—the journey aborts. They return traumatized, not transformed. The [[Shadow]] will force another cycle.
+**Skipping the Reward**: If the hero bypasses this stage—fleeing the underworld empty-handed or refusing the boon—the journey aborts. They return traumatized, not transformed. The [[The Shadow]] will force another cycle.
 
 ### 4.2 Jungian Depth Psychology: The Reward as First Glimpse of the Self[^2]
 
-Jung would frame the Reward not as an external prize but as the moment when the [[Ego]] **first recognizes the [[Self]]** as ally rather than annihilator[^2].
+Jung would frame the Reward not as an external prize but as the moment when the Ego **first recognizes the [[The Self]]** as ally rather than annihilator[^2].
 
-In the [[Ordeal]], the Self appeared as overwhelming totality—death, dissolution, the abyss. In the Reward, the Self reveals its benevolent aspect: wholeness, integration, the treasure that makes suffering meaningful.
+In the [[The Ordeal]], the Self appeared as overwhelming totality—death, dissolution, the abyss. In the Reward, the Self reveals its benevolent aspect: wholeness, integration, the treasure that makes suffering meaningful.
 
-**The Treasure Hard to Attain**: Jung describes the Self as the "treasure hard to attain"—the goal of [[Individuation]]. The Reward is the *first glimpse* of this treasure. The ego realizes:[^2]
+**The Treasure Hard to Attain**: Jung describes the Self as the "treasure hard to attain"—the goal of Individuation. The Reward is the *first glimpse* of this treasure. The ego realizes:[^2]
 
-> "I am more than I thought I was. The parts of me I rejected (the [[Shadow]]), the inner opposites I denied ([[Anima and Animus|Anima/Animus]]), the suffering I endured—all of this has forged something new. I am becoming whole."
+> "I am more than I thought I was. The parts of me I rejected (the [[The Shadow]]), the inner opposites I denied ([[Encounter with Anima-Animus]]), the suffering I endured—all of this has forged something new. I am becoming whole."
 
-**The Ego-Self Axis Restored**: The [[Ordeal]] ruptured the ego-Self axis. The ego could no longer maintain its illusion of control. The Reward is the **reconstitution of the axis** at a higher order:
+**The Ego-Self Axis Restored**: The [[The Ordeal]] ruptured the ego-Self axis. The ego could no longer maintain its illusion of control. The Reward is the **reconstitution of the axis** at a higher order:
 
 - **Before the Ordeal**: Ego as tyrant, Self as unconscious.
 - **During the Ordeal**: Ego annihilated, Self as devouring chaos.
@@ -211,7 +211,7 @@ In the [[Ordeal]], the Self appeared as overwhelming totality—death, dissoluti
 
 Post-Reward, the ego no longer believes it is sovereign. It recognizes the Self as the true center and adjusts accordingly. This is the essence of psychological maturation.
 
-**The Divine Child**: The Reward often constellates the [[Divine Child]] archetype—new life, innocence restored, potential reborn. After the death of the old self (the Ordeal), the Divine Child represents the resurrected self: fragile, luminous, filled with possibility.
+**The Divine Child**: The Reward often constellates the [[The Divine Child]] archetype—new life, innocence restored, potential reborn. After the death of the old self (the Ordeal), the Divine Child represents the resurrected self: fragile, luminous, filled with possibility.
 
 ### 4.3 Alchemical Correlation: The Albedo and First Whitening
 
@@ -241,9 +241,9 @@ Jung interprets the Albedo as the **emergence of consciousness after shadow inte
 The Reward's shadow includes **egoic appropriation**—the hero misidentifies the boon as personal achievement rather than grace.
 
 **When the Reward Fails**:
-1. **Inflation**: The ego claims ownership. *"I conquered death. I am the hero."* This is egoic theft of a [[Self]]-driven process. The psyche will correct this inflation—often painfully.
+1. **Inflation**: The ego claims ownership. *"I conquered death. I am the hero."* This is egoic theft of a [[The Self]]-driven process. The psyche will correct this inflation—often painfully.
 2. **Greed**: Taking more than was earned. The myth of the dragon's hoard: the hero who claims excessive treasure becomes cursed (dragon sickness, Gollum's obsession with the Ring).
-3. **Premature Celebration**: Forgetting the journey is incomplete. The hero throws a feast, drops their guard, and enemies strike (see [[The Road Back]]).
+3. **Premature Celebration**: Forgetting the journey is incomplete. The hero throws a feast, drops their guard, and enemies strike (see The Road Back).
 4. **Spiritual Bypassing**: Using the Reward to avoid further shadow work. *"I'm enlightened now. I don't need therapy/accountability/humility."*
 5. **Hoarding**: Refusing to refine the Reward into the Elixir. The boon is kept private, not shared. The hero becomes the dragon guarding treasure, not the sage distributing medicine.
 
@@ -302,7 +302,7 @@ In feminine-coded myths, the Reward often takes the form of **sacred marriage** 
 
 **Persephone and Hades**: After abduction and eating the pomegranate seeds (Ordeal of irreversible transformation), Persephone becomes Queen of the Underworld (Reward). The boon is **dual sovereignty**—she rules both above and below, maiden and queen.
 
-**Psychological Meaning**: The feminine Reward often centers on **inner union**—the reconciliation of [[Anima and Animus|Anima/Animus]], the integration of opposites. The "sacred marriage" is not only external (partnership) but **internal** (the ego marrying the Self, consciousness wedding the unconscious).
+**Psychological Meaning**: The feminine Reward often centers on **inner union**—the reconciliation of [[Encounter with Anima-Animus]], the integration of opposites. The "sacred marriage" is not only external (partnership) but **internal** (the ego marrying the Self, consciousness wedding the unconscious).
 
 **Modern Application**: For women (and individuals of any gender integrating the feminine), the Reward may be:
 - **Embodied sovereignty**: Reclaiming the body after trauma, illness, or objectification.
@@ -322,7 +322,7 @@ Fairy tales compress the Reward into symbolic forms accessible to children:
 
 **"Sleeping Beauty"**: The prince's kiss awakens the princess (Reward). The boon is **life after stasis**, time restarted, curse broken.
 
-**"The Frog Prince"**: The princess's reluctant obedience (kissing the frog or throwing him against the wall, depending on version) breaks the spell (Reward). The frog becomes a prince; the boon is **transformation through acceptance** of the [[Shadow]].
+**"The Frog Prince"**: The princess's reluctant obedience (kissing the frog or throwing him against the wall, depending on version) breaks the spell (Reward). The frog becomes a prince; the boon is **transformation through acceptance** of the [[The Shadow]].
 
 **Psychological Function**: Fairy tales teach that **suffering is compensated**. The abused child (Cinderella) receives justice. The poor boy (Jack) gains wealth. The cursed maiden (Sleeping Beauty) is awakened. The Reward is proof that endurance, courage, and transformation are **rewarded**—not always in life, but in the psyche's moral economy.
 
@@ -332,7 +332,7 @@ The unconscious often stages Rewards in dreams to signal integration progress:
 
 **Common Reward Dream Motifs**:
 1. **Finding Treasure**: Gold, jewels, hidden rooms filled with riches—the psyche presenting the fruits of inner work.
-2. **Reunion with the Beloved**: After dreams of loss or searching, the loved one appears—the [[Anima and Animus|Anima/Animus]] integrated, wholeness glimpsed.
+2. **Reunion with the Beloved**: After dreams of loss or searching, the loved one appears—the [[Encounter with Anima-Animus]] integrated, wholeness glimpsed.
 3. **Healing Waters**: Springs, pools, rain after drought—the psyche's self-healing capacity activated.
 4. **Ascending from Depths**: Climbing out of caves, basements, or oceans—the return from the underworld, the Reward of surfacing.
 5. **Receiving a Gift**: An elder, animal, or divine figure hands you an object—book, key, seed. The Reward as archetypal bestowal.
@@ -369,7 +369,7 @@ The hero's task during collective Reward: **celebrate without complacency**, hon
 
 ### 4.10 The Reward and the Mentor: First Independent Success
 
-A defining feature of the Reward: the hero claims it **without the [[Mentor]]'s direct aid**.
+A defining feature of the Reward: the hero claims it **without the [[The Wise Old Man]]'s direct aid**.
 
 **Why the Mentor Is Absent**:
 1. **Proof of Internalization**: The Reward is evidence that the hero has internalized the teaching. They no longer need the Mentor's hand-holding.
@@ -401,7 +401,7 @@ A critical distinction:
 - **Stable**: The transformation is permanent; the boon is secure.
 - **Public**: Shared with the community, teaching the next generation.
 
-**The Alchemy**: The Reward is **raw material**; the Elixir is the **Philosopher's Stone**. Stages 10-11 ([[The Road Back]] and [[Resurrection]]) are the refining process.
+**The Alchemy**: The Reward is **raw material**; the Elixir is the **Philosopher's Stone**. Stages 10-11 (The Road Back and [[The Resurrection]]) are the refining process.
 
 **Example Progressions**:
 - **Sobriety chip (Reward)** → **Sponsoring others in recovery (Elixir)**
@@ -422,13 +422,13 @@ If the Reward is genuine and honored (not inflated, hoarded, or bypassed), it co
 - The Reward is **tangible evidence** that inner work manifests outwardly. The psyche's labor becomes visible.
 
 **3. First Taste of Wholeness**
-- The fragmented self (the Ordeal's result) begins to cohere. The Reward is the **first integration** of [[Shadow]], [[Anima and Animus|Anima/Animus]], and [[Self]].
+- The fragmented self (the Ordeal's result) begins to cohere. The Reward is the **first integration** of [[The Shadow]], [[Encounter with Anima-Animus]], and [[The Self]].
 
 **4. Motivation for the Return**
-- The Reward is so precious that the hero is willing to defend it ([[The Road Back]]) and refine it (Resurrection). The boon *matters*.
+- The Reward is so precious that the hero is willing to defend it (The Road Back) and refine it (Resurrection). The boon *matters*.
 
 **5. Gratitude**
-- Unlike achievements earned through ego-effort alone, the Reward often feels **unearned**—a gift from the [[Self]], the gods, or fate. This cultivates humility and gratitude.
+- Unlike achievements earned through ego-effort alone, the Reward often feels **unearned**—a gift from the [[The Self]], the gods, or fate. This cultivates humility and gratitude.
 
 **6. Responsibility**
 - The hero realizes: *"This boon is not mine alone. I am being prepared to serve."* The Reward carries obligation.
@@ -436,7 +436,7 @@ If the Reward is genuine and honored (not inflated, hoarded, or bypassed), it co
 **7. Joy**
 - After the Ordeal's unrelenting darkness, the Reward is **permission to feel joy again**. The psyche exhales. Life becomes livable.
 
-**Jung's Insight**: The Reward is the moment when the ego realizes the [[Self]] is not only annihilating (as in the Ordeal) but also **generative**. The Self destroys what is false to birth what is true. The Reward is the birth.
+**Jung's Insight**: The Reward is the moment when the ego realizes the [[The Self]] is not only annihilating (as in the Ordeal) but also **generative**. The Self destroys what is false to birth what is true. The Reward is the birth.
 
 ## Shadow Dynamics
 ### Masculine-Coded Reward: The Boon as Conquest
@@ -480,7 +480,7 @@ For non-binary, transgender, and queer individuals, the Reward often centers on 
 
 **Psychological Function**: The Reward is **alignment**—the outer life matching the inner truth. The teaching: *"I am who I am. I no longer hide."*
 
-**Archetypal Resonance**: [[Folklore/Jungian Archetypes/The Shapeshifter]], [[Hermes]]/[[Astrology/Planets/Mercury # ☿]] (fluidity, boundary-crossing), [[Dionysus]] (androgyny, liberation from rigid categories)[^2].
+**Archetypal Resonance**: [[The Shapeshifter]], [[Hermes]]/[[Mercury ☿]] (fluidity, boundary-crossing), Dionysus (androgyny, liberation from rigid categories)[^2].
 
 ### Integrated Approach
 
@@ -493,27 +493,27 @@ The future of the Reward archetype is **gender-integrative**—honoring both con
 ## Cross-References
 
 ### Jungian Archetypes[^2]
-- [[Folklore/Jungian Archetypes/The Self]]: The Reward is often the first conscious encounter with the Self as benevolent wholeness (not the annihilating totality of the Ordeal)[^2].
-- [[The Anima and Animus]]: Sacred marriage as Reward—inner union of masculine and feminine, conscious and unconscious.
-- [[Folklore/Jungian Archetypes/The Divine Child]]: The Reward constellates rebirth—innocence restored, new life emerging from the Ordeal's death[^2].
-- [[The Treasure Hard to Attain]]: Jung's term for the Self as goal of individuation. The Reward is the first glimpse of this treasure.
+- [[The Self]]: The Reward is often the first conscious encounter with the Self as benevolent wholeness (not the annihilating totality of the Ordeal)[^2].
+- [[The Anima]]: Sacred marriage as Reward—inner union of masculine and feminine, conscious and unconscious.
+- [[The Divine Child]]: The Reward constellates rebirth—innocence restored, new life emerging from the Ordeal's death[^2].
+- The Treasure Hard to Attain: Jung's term for the Self as goal of individuation. The Reward is the first glimpse of this treasure.
 - [[The Shadow]]: The Reward may involve integrating shadow material—reclaiming disowned strength, creativity, or power.
-- [[The Wise Old Man]] / [[Folklore/Jungian Archetypes/The Great Mother]]: These archetypes may bestow the Reward—the elder handing the hero a gift, the goddess granting a boon[^2].
+- [[The Wise Old Man]] / [[The Great Mother]]: These archetypes may bestow the Reward—the elder handing the hero a gift, the goddess granting a boon[^2].
 
 ### Hero's Journey Stages
 - [[The Call to Adventure]]: The Reward fulfills what the Call promised. The initial lack or wound is now compensated.
 - [[Meeting the Mentor]]: The Mentor's teaching enabled the Reward. The talisman or wisdom sustains the hero through the Ordeal.
 - [[Crossing the First Threshold]]: The initial commitment to the journey; the Reward is the fruit of that commitment.
-- [[Tests, Allies, Enemies]]: Practice for the Ordeal; the Reward is proof the training worked.
+- [[Tests, Allies, and Enemies]]: Practice for the Ordeal; the Reward is proof the training worked.
 - [[Approach to the Inmost Cave]]: Final preparation; the Reward is what awaited inside the cave.
 - [[The Ordeal]]: The death that makes space for the Reward's resurrection. No Ordeal, no Reward.
-- [[The Road Back]]: The next stage—the hero must defend the Reward and carry it home under pressure.
-- [[Resurrection]]: The second Ordeal, the final test. The Reward must prove its worth again.
+- The Road Back: The next stage—the hero must defend the Reward and carry it home under pressure.
+- [[The Resurrection]]: The second Ordeal, the final test. The Reward must prove its worth again.
 - [[Return with the Elixir]]: The Reward refined into medicine for the community. The journey's ultimate purpose.
 
 ### Tarot
 - [[The Star (XVII)]]: Hope after devastation. The Star is the Reward's essence—healing begins, faith restored.
-- [[Temperance (XIV)]]: Alchemical integration. The Reward is the balanced mixture of opposites—[[Solve et Coagula]].
+- [[Temperance (XIV)]]: Alchemical integration. The Reward is the balanced mixture of opposites—Solve et Coagula.
 - [[The Sun (XIX)]]: Joy, vitality, success. The Reward as unambiguous blessing—light after darkness.
 - [[The World (XXI)]]: Completion, wholeness. The Reward hints at this final integration (fully realized in the Elixir stage).
 - [[The Lovers (VI)]]: Sacred marriage, union. The Reward as relational wholeness or inner syzygy.
@@ -558,17 +558,17 @@ The future of the Reward archetype is **gender-integrative**—honoring both con
 - [[Gabriel]] (Archangel of Revelation): Gabriel may deliver the Reward as **message** or **annunciation**—new life revealed.
 
 ### Folklore and Mythology
-- [[The Grail]]: The ultimate Reward—healing for the Fisher King, restoration of the Wasteland.
-- [[The Golden Fleece]]: Material Reward symbolizing rightful kingship, inheritance reclaimed.
+- The Grail: The ultimate Reward—healing for the Fisher King, restoration of the Wasteland.
+- The Golden Fleece: Material Reward symbolizing rightful kingship, inheritance reclaimed.
 - [[The Elixir of Immortality]]: The Reward as transcendence—freedom from death, eternal life.
-- [[The Sacred Marriage]]: Union with the divine—Psyche and Eros, Beauty and Beast, Odysseus and Penelope.
-- [[The Underworld]]: The Reward is what the hero brings back from the underworld—knowledge, treasure, or a rescued soul.
-- [[The Boon]]: Campbell's term for the Reward—the prize, the gift, the object of the quest.
+- The Sacred Marriage: Union with the divine—Psyche and Eros, Beauty and Beast, Odysseus and Penelope.
+- The Underworld: The Reward is what the hero brings back from the underworld—knowledge, treasure, or a rescued soul.
+- The Boon: Campbell's term for the Reward—the prize, the gift, the object of the quest.
 
 ### Alchemy
 - [[Albedo]] (Whitening): The alchemical stage corresponding to the Reward—purification, first light after the Nigredo's blackness.
-- [[Solve et Coagula]]: The Reward is the "coagula" phase—after dissolution (Ordeal), the substance reconstitutes at a higher order.
-- [[The Philosopher's Stone]]: The Reward hints at the Stone (fully realized in the Rubedo/Elixir stage).
+- Solve et Coagula: The Reward is the "coagula" phase—after dissolution (Ordeal), the substance reconstitutes at a higher order.
+- The Philosopher's Stone: The Reward hints at the Stone (fully realized in the Rubedo/Elixir stage).
 - [[Conjunction]]: The union of opposites. The Reward as alchemical marriage—sulfur and mercury, king and queen.
 
 ### Modern Psychology
@@ -579,7 +579,7 @@ The future of the Reward archetype is **gender-integrative**—honoring both con
 
 ---
 
-**Final Reflection**: The Reward is not the journey's end—it is the **first evidence that the journey was worth it**. The hero has died and returned changed. The boon claimed in the underworld is proof: transformation is real, suffering is not meaningless, and wholeness is possible. But the work is not complete. The Reward must be defended ([[The Road Back]]), tested again ([[Resurrection]]), and ultimately refined into medicine for the world ([[Return with the Elixir]]). The Reward is the promise; the Elixir is the fulfillment.
+**Final Reflection**: The Reward is not the journey's end—it is the **first evidence that the journey was worth it**. The hero has died and returned changed. The boon claimed in the underworld is proof: transformation is real, suffering is not meaningless, and wholeness is possible. But the work is not complete. The Reward must be defended (The Road Back), tested again ([[The Resurrection]]), and ultimately refined into medicine for the world ([[Return with the Elixir]]). The Reward is the promise; the Elixir is the fulfillment.
 
 
 ## Sources

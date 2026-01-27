@@ -274,12 +274,12 @@ A **functional Persona** that serves the Self's aims—a mask that can be worn w
 ## Cross-References
 
 **Jungian Archetypes:**
-- [[Folklore/Jungian Archetypes/The Persona]] (primary archetype of this stage)
-- [[Folklore/Jungian Archetypes/The Hero]] (drive for achievement and conquest)
+- [[The Persona]] (primary archetype of this stage)
+- [[The Hero]] (drive for achievement and conquest)
 - [[The Shadow]] (begins forming from repressed authentic self)
 - [[The Wise Old Man]] (projected onto mentors and authority figures)
-- [[Folklore/Jungian Archetypes/The Anima]] (projected onto women by men seeking completion)
-- [[Folklore/Jungian Archetypes/The Animus]] (projected onto men by women seeking meaning)
+- [[The Anima]] (projected onto women by men seeking completion)
+- [[The Animus]] (projected onto men by women seeking meaning)
 
 **Hero's Journey:**
 - [[Tests, Allies, and Enemies]] (skill acquisition, social navigation)
@@ -294,26 +294,26 @@ A **functional Persona** that serves the Self's aims—a mask that can be worn w
 
 #### Alchemical Stages
 - [[Calcination]] (primary operation of this stage)
-- [[Separatio]] (childhood differentiation, foundation for this stage)
+- Separatio (childhood differentiation, foundation for this stage)
 - [[Nigredo]] (follows when Persona is shattered in midlife)
 
 **Tarot:**
-- [[VII - The Chariot]] (conquest, willpower, mastery)
-- [[V - The Hierophant]] (tradition, social role, collective values)
-- [[VIII - Strength]] (discipline, taming the beast/instinct)
-- [[XVI - The Tower]] (shattering of Persona in midlife crisis)
+- [[The Chariot (VII)]] (conquest, willpower, mastery)
+- [[The Hierophant (V)]] (tradition, social role, collective values)
+- [[Strength (VIII)]] (discipline, taming the beast/instinct)
+- [[The Tower (XVI)]] (shattering of Persona in midlife crisis)
 
 **Astrology:**
 - [[Saturn ♄]] (structure, discipline, mastery, time)
 - [[Sun ☉]] (ego, conscious identity, heroic will)
 - [[10th House]] (career, public role, authority, reputation)
 - [[Capricorn ♑]] (ambition, achievement, social climbing)
-- [[Saturn Return]] (age 29—testing of Persona, first crisis)
+- [[Saturn ♄]] (age 29—testing of Persona, first crisis)
 
 **Human Design:**
 - [[Ego-Heart Center]] (willpower, self-worth, tribal bargains)
-- [[Throat Center]] (manifestation, speaking one's role into reality)
-- [[Manifestor Type]] (initiating, making things happen)
+- [[Throat]] (manifestation, speaking one's role into reality)
+- [[Manifestor]] (initiating, making things happen)
 
 #### Mythology
 - [[Greek Mythology]] (Jason, Theseus, Odysseus at Troy, Heracles' labors)
@@ -322,17 +322,17 @@ A **functional Persona** that serves the Self's aims—a mask that can be worn w
 
 **Fairy Tales:**
 - [[Cinderella]] (proving worthiness through trials)
-- [[The Frog Prince]] (honoring social contracts and roles)
-- [[Rumpelstiltskin]] (shadow of faked competence)
+- [[Frog Prince]] (honoring social contracts and roles)
+- Rumpelstiltskin (shadow of faked competence)
 
 **Related Concepts:**
 - [[Persona Identification]] (believing one *is* their role)
 - [[Imposter Syndrome]] (fear of Persona being exposed as false)
-- [[Midlife Crisis]] (inevitable if Persona is not relativized)
+- Midlife Crisis (inevitable if Persona is not relativized)
 - [[First Half of Life]] (Jung's framework for this stage)
-- [[Puer Aeternus]] (pathology of refusing to develop Persona)
+- Puer Aeternus (pathology of refusing to develop Persona)
 - [[Empty Shell Syndrome]] (all mask, no authentic core)
-- [[Saturn Return]] (astrological crisis of Persona at age 29)
+- [[Saturn ♄]] (astrological crisis of Persona at age 29)
 
 ---
 

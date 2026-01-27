@@ -737,14 +737,14 @@ Mesopotamian mythology dramatizes the **Ego's violent emergence from the Uroboro
 ## Cross-References
 
 ### Jungian Archetypes
-- [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Hero]] (Gilgamesh, Marduk—ego formation through ordeal)
+- [[The Hero]] (Gilgamesh, Marduk—ego formation through ordeal)
 - [[The Shadow]] (Enkidu, Tiamat, Ereshkigal, Humbaba)
 - [[The Muse]] (Inanna/Ishtar, Shamhat, Ereshkigal as shadow anima)
 - [[The Idol]] (Marduk, Dumuzi, Ea as wise helper)
-- [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] (Tiamat as Uroboros, Ninhursag as nurturing, Ereshkigal as devouring)
+- [[The Great Mother]] (Tiamat as Uroboros, Ninhursag as nurturing, Ereshkigal as devouring)
 - [[The Wise Old Man]] (Utnapishtim, Ea/Enki)
-- [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Joker]] (Ea as trickster-magician)
-- [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] (Marduk hidden from Tiamat's wrath)
+- [[The Joker]] (Ea as trickster-magician)
+- [[The Divine Child]] (Marduk hidden from Tiamat's wrath)
 - [[The Alchemist]] (Anu as remote transcendent, the pattern of descent/return)
 - [[The Nightmare]] (Seven gatekeepers of Underworld, Humbaba)
 - [[The Changeling]] (Ea's cunning transformations, Ishtar's many faces)
@@ -767,7 +767,7 @@ Mesopotamian mythology dramatizes the **Ego's violent emergence from the Uroboro
 - [[Albedo]] (Inanna's resurrection, Gilgamesh's purification)
 - [[Citrinitas]] (Utnapishtim's wisdom, the dawn after dark night)
 - [[Rubedo]] (Gilgamesh accepting mortality and returning, Inanna as transformed Queen)
-- [[Separatio]] (Marduk splitting Tiamat, creating Heaven/Earth duality)
+- Separatio (Marduk splitting Tiamat, creating Heaven/Earth duality)
 
 ### World Mythology
 - [[Greek Mythology]] (Persephone parallels Inanna; Heracles parallels Gilgamesh)
@@ -778,22 +778,22 @@ Mesopotamian mythology dramatizes the **Ego's violent emergence from the Uroboro
 
 ### Tarot
 - [[The Fool (0)]] (Enkidu's innocence before civilization)
-- [[The Magician]] (Ea as wise trickster, cunning intelligence)
-- [[The High Priestess]] (Ereshkigal as underworld wisdom keeper)
-- [[The Empress]] (Inanna as fertile goddess, creator)
-- [[The Emperor]] (Marduk as sovereign, Gilgamesh as king)
-- [[The Hierophant]] (Utnapishtim as teacher of mortality)
-- [[The Lovers]] (Inanna/Dumuzi, sacred marriage and separation)
-- [[Strength]] (Gilgamesh wrestling Enkidu, shadow integration)
-- [[The Hermit]] (Utnapishtim at edge of world, solitary wisdom)
-- [[The Hanged Man]] (Inanna hung on hook, voluntary sacrifice)
-- [[Death]] (Inanna's descent, Enkidu's death, ego death)
-- [[The Tower]] (Marduk slaying Tiamat, violent disruption)
-- [[The Star]] (Hope after ordeal, water of life reviving Inanna)
-- [[The Moon]] (Ereshkigal's underworld, unconscious depths)
-- [[The Sun]] (Consciousness emerging from Tiamat's corpse)
-- [[Judgement]] (Inanna's resurrection, Gilgamesh's return)
-- [[The World]] (Completion of journey, wholeness through ordeal)
+- [[The Magician (I)]] (Ea as wise trickster, cunning intelligence)
+- [[The High Priestess (II)]] (Ereshkigal as underworld wisdom keeper)
+- [[The Empress (III)]] (Inanna as fertile goddess, creator)
+- [[The Emperor (IV)]] (Marduk as sovereign, Gilgamesh as king)
+- [[The Hierophant (V)]] (Utnapishtim as teacher of mortality)
+- [[The Lovers (VI)]] (Inanna/Dumuzi, sacred marriage and separation)
+- [[Strength (VIII)]] (Gilgamesh wrestling Enkidu, shadow integration)
+- [[The Hermit (IX)]] (Utnapishtim at edge of world, solitary wisdom)
+- [[The Hanged Man (XII)]] (Inanna hung on hook, voluntary sacrifice)
+- [[Death (XIII)]] (Inanna's descent, Enkidu's death, ego death)
+- [[The Tower (XVI)]] (Marduk slaying Tiamat, violent disruption)
+- [[The Star (XVII)]] (Hope after ordeal, water of life reviving Inanna)
+- [[The Moon (XVIII)]] (Ereshkigal's underworld, unconscious depths)
+- [[The Sun (XIX)]] (Consciousness emerging from Tiamat's corpse)
+- [[Judgement (XX)]] (Inanna's resurrection, Gilgamesh's return)
+- [[The World (XXI)]] (Completion of journey, wholeness through ordeal)
 
 ### Astrology
 - [[Mars ♂]] (Marduk's violence, heroic ego, warrior energy)
@@ -802,14 +802,14 @@ Mesopotamian mythology dramatizes the **Ego's violent emergence from the Uroboro
 - [[Neptune ♆]] (Tiamat as oceanic unconscious, Apsu as primordial waters)
 - [[Pluto ♇]] (Ereshkigal as underworld queen, death/rebirth, shadow)
 - [[Jupiter ♃]] (Anu as sky father, sovereign authority)
-- [[Astrology/Planets/Mercury # ☿]] (Ea as trickster, messenger, cunning intelligence)
+- [[Mercury ☿]] (Ea as trickster, messenger, cunning intelligence)
 
 ### Human Design
-- [[Gate 51]] (The Arousing/Shock) = Marduk's violent separation, initiation through ordeal
-- [[Gate 28]] (Preponderance of the Great) = Inanna's descent, confronting the great below
-- [[Gate 41]] (Decrease/Contraction) = Stripping at the Seven Gates, voluntary loss
-- [[Gate 23]] (Splitting Apart) = Tiamat's dismemberment, Separatio
-- [[Gate 36]] (Darkening of the Light) = House of Dust, Ereshkigal's realm, depression as initiation
+- [[Gate 51 - The Arousing]] (The Arousing/Shock) = Marduk's violent separation, initiation through ordeal
+- [[Gate 28 - Preponderance of the Great]] (Preponderance of the Great) = Inanna's descent, confronting the great below
+- [[Gate 41 - Decrease]] (Decrease/Contraction) = Stripping at the Seven Gates, voluntary loss
+- [[Gate 23 - Splitting Apart]] (Splitting Apart) = Tiamat's dismemberment, Separatio
+- [[Gate 36 - Darkening of the Light]] (Darkening of the Light) = House of Dust, Ereshkigal's realm, depression as initiation
 
 ---
 

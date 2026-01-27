@@ -556,43 +556,43 @@ Inanna enters the underworld **naked and powerless** (like Snow White in the gla
 
 ## Cross-References
 #### Archetypal Figures
-[[The Shadow]] • [[The Muse]] • [[The Idol]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] • [[The Alchemist]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Hero]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] • [[The Wise Old Man]] • [[The Nightmare]]
+[[The Shadow]] • [[The Muse]] • [[The Idol]] • [[The Divine Child]] • [[The Alchemist]] • [[The Hero]] • [[The Great Mother]] • [[The Wise Old Man]] • [[The Nightmare]]
 
 **Jungian Concepts:**
-[[Individuation]] • [[Shadow Integration]] • [[Coniunctio]] • [[Transcendent Function]] • [[Active Imagination]] • [[Projection]] • [[Ego-Self Axis]] • [[Persona Development]] • [[Inflation]]
+Individuation • Shadow Integration • Coniunctio • [[The Transcendent Function]] • Active Imagination • Projection • Ego-Self Axis • [[Persona Development]] • [[Inflation]]
 
 **Tarot Keys:**
-[[The Chariot (VII)]] • [[The Star (XVII)]] • [[Death]] • [[The High Priestess]] • [[The Empress]] • [[The Tower]] • [[The Sun]] • [[Temperance]] • [[The Hermit]]
+[[The Chariot (VII)]] • [[The Star (XVII)]] • [[Death (XIII)]] • [[The High Priestess (II)]] • [[The Empress (III)]] • [[The Tower (XVI)]] • [[The Sun (XIX)]] • [[Temperance (XIV)]] • [[The Hermit (IX)]]
 
 #### Alchemical Stages
-[[Nigredo]] • [[Albedo]] • [[Citrinitas]] • [[Rubedo]] • [[Solve et Coagula]] • [[Calcination]] • [[Dissolution]] • [[Separation]] • [[Conjunction]] • [[Fermentation]] • [[Distillation]] • [[Coagulation]] • [[Iteratio]] • [[Philosopher's Stone]]
+[[Nigredo]] • [[Albedo]] • [[Citrinitas]] • [[Rubedo]] • Solve et Coagula • [[Calcination]] • [[Dissolution]] • [[Separation]] • [[Conjunction]] • [[Fermentation]] • [[Distillation]] • [[Coagulation]] • Iteratio • Philosopher's Stone
 
 #### Mythological Parallels
-[[Inanna's Descent]] • [[Persephone and Demeter]] • [[Psyche and Eros]] • [[The Seven Heavens]] • [[The Ladder of Jacob]] • [[The Ogdoad]] • [[Merkabah Mysticism]]
+Inanna's Descent • Persephone and Demeter • Psyche and Eros • The Seven Heavens • [[The Ladder of Jacob]] • The Ogdoad • [[Merkabah Mysticism]]
 
 #### Fairy Tale Motifs
-[[The Three Trials]] • [[The Wicked Stepmother]] • [[The Magic Mirror]] • [[The Poisoned Gift]] • [[The Glass Coffin]] • [[The Awakening Kiss]] • [[The Animal Helpers]] • [[The Youngest Child]]
+[[The Three Trials]] • [[The Wicked Stepmother]] • The Magic Mirror • The Poisoned Gift • The Glass Coffin • The Awakening Kiss • The Animal Helpers • [[The Youngest Child]]
 
 #### Related Tales
-[[Snow White]] • [[The Seven Ravens]] • [[The Six Swans]] • [[The Twelve Brothers]] • [[The Goose Girl at the Well]] • [[Beauty and the Beast]] • [[Sleeping Beauty]] • [[Cinderella]] • [[Rapunzel]]
+[[Snow White]] • The Seven Ravens • The Six Swans • The Twelve Brothers • [[The Goose Girl at the Well]] • [[Beauty and the Beast]] • Sleeping Beauty • [[Cinderella]] • [[Rapunzel]]
 
 #### Individuation Process
 [[Ego Formation and Childhood]] • [[Confrontation with Shadow]] • [[Encounter with Anima-Animus]] • [[Confrontation with the Self]] • [[Integration and Wholeness]] • [[Persona Development]]
 
 #### Hero's Journey Stages
-[[The Call to Adventure]] • [[Crossing the First Threshold]] • [[Tests, Allies, and Enemies]] • [[The Ordeal]] • [[The Reward]] • [[The Road Back]] • [[The Resurrection]] • [[Return with the Elixir]]
+[[The Call to Adventure]] • [[Crossing the First Threshold]] • [[Tests, Allies, and Enemies]] • [[The Ordeal]] • [[The Reward]] • The Road Back • [[The Resurrection]] • [[Return with the Elixir]]
 
 **Astrological Correspondences:**
-[[Saturn ♄]] • [[Saturn Return]] • [[The Moon]] • [[Cancer ♋]] • [[Lunar Cycles]] • [[The Seven Classical Planets]] • [[Pluto Transits]]
+[[Saturn ♄]] • [[Saturn ♄]] • [[The Moon (XVIII)]] • [[Cancer ♋]] • [[Lunar Cycles]] • [[The Seven Classical Planets]] • [[Pluto ♇]]
 
 **Cross-Cultural Parallels:**
-[[Seven Chakras]] • [[Kundalini]] • [[The Seven Heavens]] • [[Buddhist Cosmology]] • [[Hindu Mythology]] • [[Islamic Mysticism]] • [[Jewish Mysticism]] • [[Egyptian Mythology]]
+[[Seven Chakras]] • [[Kundalini]] • The Seven Heavens • [[Buddhist Cosmology]] • [[Hindu Mythology]] • [[Islamic Mysticism]] • [[Jewish Mysticism]] • [[Egyptian Mythology]]
 
 #### Human Design Connections
-[[Emotional Authority]] • [[Splenic Authority]] • [[Sacral Center]] • [[Root Center]] • [[Gate 50 - The Cauldron]] • [[Channel 27-50 - Preservation]]
+[[Emotional Authority]] • [[Splenic Authority]] • [[Sacral]] • [[Root]] • [[Gate 50 - The Cauldron]] • [[Channel 27-50 - Preservation]]
 
 **Numerical Symbolism:**
-[[The Number Three]] • [[The Number Four]] • [[The Number Eight]] • [[The Number Twelve]] • [[The Ogdoad]] • [[The Quaternary]] • [[Sacred Geometry]]
+[[The Number Three]] • [[The Number Four]] • [[The Number Eight]] • [[The Number Twelve]] • The Ogdoad • [[The Quaternary]] • [[Sacred Geometry]]
 
 ---
 

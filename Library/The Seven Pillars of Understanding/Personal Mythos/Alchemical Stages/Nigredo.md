@@ -183,7 +183,7 @@ The Nigredo is not a single event but a *recurring pattern* throughout the lifes
 | **Fairy Tale Motifs** | Snow White's coffin, Sleeping Beauty's sleep, Jonah in whale, Hansel & Gretel in forest, dark forest as exile |
 | **Alchemical Symbols** | Black sun (*Sol Niger*), raven (*corvus*), corpse in vessel, tomb, skull, rotting matter, prima materia |
 | **Hero's Journey Stage** | [[The Ordeal]] (Stage 8 - ego death), [[Refusal of the Call]] (Stage 3 - resistance to descent), [[Crossing the First Threshold]] (Stage 5 - entering the Nigredo) |
-| **Tarot Correspondence** | [[The Tower]] (lightning destruction), [[Death]] (transformation through loss), [[The Devil]] (bondage to shadow), [[The Moon]] (unconscious flooding), [[The Hanged Man]] (suspension, sacrifice) |
+| **Tarot Correspondence** | [[The Tower (XVI)]] (lightning destruction), [[Death (XIII)]] (transformation through loss), [[The Devil (XV)]] (bondage to shadow), [[The Moon (XVIII)]] (unconscious flooding), [[The Hanged Man (XII)]] (suspension, sacrifice) |
 | **I-Ching Hexagram** | 23 - Splitting Apart (Po), 29 - The Abysmal (K'an), 47 - Oppression (K'un) |
 | **Astrology** | Saturn (restriction, limitation), Pluto (death and rebirth), 8th House (death, transformation, crisis), 12th House (dissolution, isolation, hospital/prison) |
 | **Zodiac Signs** | Scorpio (death, transformation), Capricorn (Saturn's domain, restriction), Pisces (dissolution, oceanic merging) |
@@ -607,9 +607,9 @@ The Nigredo is the making of the darkness conscious. It is painful. It is unavoi
 ### Related Archetypes
 - [[The Shadow]] - The primary archetype of the Nigredo
 - [[The Wise Old Man]] - Saturn, the senex, the lord of Nigredo
-- [[Folklore/Jungian Archetypes/The Great Mother]] - The devouring mother, Kali, the death goddess
-- [[Folklore/Jungian Archetypes/The Hero]] - Must endure the Ordeal (Nigredo) to transform
-- [[Folklore/Jungian Archetypes/The Divine Child]] - Dies in the Nigredo to be reborn
+- [[The Great Mother]] - The devouring mother, Kali, the death goddess
+- [[The Hero]] - Must endure the Ordeal (Nigredo) to transform
+- [[The Divine Child]] - Dies in the Nigredo to be reborn
 
 ### Related Individuation Stages
 - [[Confrontation with Shadow]] - Phase 3 of individuation (Nigredo phase)
@@ -623,11 +623,11 @@ The Nigredo is the making of the darkness conscious. It is painful. It is unavoi
 - [[Approach to the Inmost Cave]] - Preparing for deepest Nigredo
 
 ### Related Tarot
-- [[The Tower]] - Lightning destruction (Calcination aspect)
-- [[Death]] - Transformation through loss (Nigredo personified)
-- [[The Devil]] - Bondage to shadow (stuck in Nigredo)
-- [[The Moon]] - Unconscious flooding (Dissolution aspect)
-- [[The Hanged Man]] - Suspension, sacrifice, waiting in Nigredo
+- [[The Tower (XVI)]] - Lightning destruction (Calcination aspect)
+- [[Death (XIII)]] - Transformation through loss (Nigredo personified)
+- [[The Devil (XV)]] - Bondage to shadow (stuck in Nigredo)
+- [[The Moon (XVIII)]] - Unconscious flooding (Dissolution aspect)
+- [[The Hanged Man (XII)]] - Suspension, sacrifice, waiting in Nigredo
 
 ### Related Astrology
 - [[Saturn ♄]] - Lord of Nigredo, restriction, time, death
@@ -638,10 +638,10 @@ The Nigredo is the making of the darkness conscious. It is painful. It is unavoi
 - [[Capricorn ♑]] - Saturn's domain, restriction, mortality
 
 ### Related Human Design
-- [[Emotional Solar Plexus]] - Emotional waves as Nigredo experience
-- [[Root Center]] - Pressure, stress, existential anxiety
-- [[Gate 47]] - Oppression (I-Ching: K'un - the darkening of the light)
-- [[Gate 29]] - The Abysmal (commitment to the depths)
+- [[Solar Plexus]] - Emotional waves as Nigredo experience
+- [[Root]] - Pressure, stress, existential anxiety
+- [[Gate 47 - Oppression]] - Oppression (I-Ching: K'un - the darkening of the light)
+- [[Gate 29 - The Abysmal]] - The Abysmal (commitment to the depths)
 
 ### Related Angelology
 - [[Tzaphkiel]] - Sephirah Binah (Saturn, form, limitation)
@@ -655,7 +655,7 @@ The Nigredo is the making of the darkness conscious. It is painful. It is unavoi
 
 ### Related Folklore
 - Fairy tales of descent: Snow White, Sleeping Beauty, Hansel & Gretel, Jonah
-- [[The Personal Myth]] (when created) - How Nigredo appears in individual life story
+- [[Personal Mythos]] (when created) - How Nigredo appears in individual life story
 
 ---
 

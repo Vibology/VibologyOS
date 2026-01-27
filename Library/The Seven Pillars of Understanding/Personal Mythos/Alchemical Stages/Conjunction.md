@@ -38,7 +38,7 @@ Jung also notes in *Memories, Dreams, Reflections*:
 
 > "The unavoidable internal contradictions in the image of a Creator-god can be reconciled in the unity and wholeness of the self as the coniunctio oppositorum of the alchemists."
 
-Psychologically, **Conjunction is the integration of the contrasexual other**—the man's encounter and union with his [[Anima]] (the unconscious feminine within), and the woman's union with her [[Animus]] (the unconscious masculine). It is the moment when opposites, previously held in tension or conflict, recognize their essential complementarity and unite to produce something new: the **Lesser Stone** or the **Rebis** (the divine androgyne).
+Psychologically, **Conjunction is the integration of the contrasexual other**—the man's encounter and union with his [[The Anima]] (the unconscious feminine within), and the woman's union with her [[The Animus]] (the unconscious masculine). It is the moment when opposites, previously held in tension or conflict, recognize their essential complementarity and unite to produce something new: the **Lesser Stone** or the **Rebis** (the divine androgyne).
 
 ### Traditional Alchemical Description
 
@@ -90,11 +90,11 @@ The Sacred Marriage appears across all mythologies as the union of archetypal op
 
 1. **Beauty and the Beast:**
    - Beauty (consciousness, refinement, spirit) must learn to love the Beast (instinct, shadow, body). When she does, the Beast transforms—the marriage of opposites produces the integrated prince. The "true love" that breaks the curse is coniunctio.
-   - **Psychological Reading:** The [[Anima]] (Beauty's unconscious masculine) and [[Animus]] (Beast's unconscious feminine) unite when both partners have been purified through trials. The Beast's transformation is the gift of integration.
+   - **Psychological Reading:** The [[The Anima]] (Beauty's unconscious masculine) and [[The Animus]] (Beast's unconscious feminine) unite when both partners have been purified through trials. The Beast's transformation is the gift of integration.
 
 2. **The Frog Prince:**
    - The princess (ego) must accept the repulsive frog (shadow, instinct, rejected masculine). When she keeps her promise and allows the frog into her bed (intimacy, vulnerability), he transforms into the prince. Union with the rejected other produces wholeness.
-   - **Psychological Reading:** The frog is the woman's unlived [[Animus]]—instinctual, earthy, uncivilized. The marriage bed is the site of coniunctio.
+   - **Psychological Reading:** The frog is the woman's unlived [[The Animus]]—instinctual, earthy, uncivilized. The marriage bed is the site of coniunctio.
 
 3. **Tam Lin (Scottish Ballad):**
    - Janet must hold onto her fairy lover Tam Lin as he transforms through multiple terrifying forms (lion, serpent, burning coal). She does not let go, and he transforms into a man. Her steadfast embrace is the holding container for coniunctio.
@@ -108,14 +108,14 @@ The Sacred Marriage appears across all mythologies as the union of archetypal op
 
 **When does Conjunction constellate in a life?**
 
-Conjunction occurs when the individual has sufficiently confronted the [[Shadow]] and is ready for the deeper work of integrating the contrasexual other. It is rarely a singular event but rather a **recurring pattern** that deepens over time.
+Conjunction occurs when the individual has sufficiently confronted the [[The Shadow]] and is ready for the deeper work of integrating the contrasexual other. It is rarely a singular event but rather a **recurring pattern** that deepens over time.
 
 1. **First Love (Adolescence 15-25):**
-   - The first projection of the [[Anima]] or [[Animus]] onto another person. The "falling in love" experience is an unconscious coniunctio—the beloved carries the projection of the inner opposite.
+   - The first projection of the [[The Anima]] or [[The Animus]] onto another person. The "falling in love" experience is an unconscious coniunctio—the beloved carries the projection of the inner opposite.
    - **Danger:** Confusing the projection with the person. The relationship fails when the projection is withdrawn and the real (flawed, human) partner is revealed.
 
 2. **Mature Relationship (25-45):**
-   - If individuation is occurring, the individual begins to **withdraw projections** and recognize the [[Anima]]/[[Animus]] as *internal* figures. The external relationship becomes a **container** for the internal coniunctio.
+   - If individuation is occurring, the individual begins to **withdraw projections** and recognize the [[The Anima]]/[[The Animus]] as *internal* figures. The external relationship becomes a **container** for the internal coniunctio.
    - The partnership is no longer about "completing me" (unconscious fusion) but about "two wholes choosing to unite" (conscious coniunctio).
 
 3. **Midlife Integration (40-60):**
@@ -165,7 +165,7 @@ Conjunction is unmistakable when it is authentic. It feels like **synthesis**, n
 - **Holding the Tension:** The ability to hold two opposing truths simultaneously without collapsing into either pole. "I am both strong and vulnerable." "I am both independent and connected."
 - **Creative Fertility:** New ideas, projects, or life directions emerge when opposites unite. The "third thing" born from synthesis.
 - **Wholeness Emerging:** The sense of being more complete, not because someone else completes you, but because you've integrated your own opposite.
-- **The Beloved Within:** Recognizing your [[Anima]] or [[Animus]] as an internal figure—a guide, muse, or inner partner—rather than only projecting them onto external lovers.
+- **The Beloved Within:** Recognizing your [[The Anima]] or [[The Animus]] as an internal figure—a guide, muse, or inner partner—rather than only projecting them onto external lovers.
 - **Reconciliation:** Long-standing conflicts (internal or external) suddenly find resolution. The warring parts of the psyche make peace.
 
 #### In Dreams
@@ -183,7 +183,7 @@ Conjunction is unmistakable when it is authentic. It feels like **synthesis**, n
 **How to work with Conjunction consciously:**
 
 1. **The Inner Marriage (Active Imagination):**
-   - Visualize your [[Anima]] (for men) or [[Animus]] (for women) as a distinct figure. Invite them to dialogue. Ask: "What quality do you bring that I have rejected or denied?" "What will our union produce?"
+   - Visualize your [[The Anima]] (for men) or [[The Animus]] (for women) as a distinct figure. Invite them to dialogue. Ask: "What quality do you bring that I have rejected or denied?" "What will our union produce?"
    - Allow the conversation to unfold without control. The figure may be seductive, challenging, or frightening. This is normal—the contrasexual other is numinous.
 
 2. **The King and Queen Meditation:**
@@ -193,7 +193,7 @@ Conjunction is unmistakable when it is authentic. It feels like **synthesis**, n
    - When you feel torn between two opposing desires or values (career vs. relationship, freedom vs. commitment, logic vs. intuition), resist choosing one. Instead, hold both in consciousness. Imagine them as two figures in dialogue. What third possibility emerges from their conversation?
 
 4. **Reclaiming Projections:**
-   - Identify the qualities you most admire or despise in your partner (or an idealized crush). Write them down. Now ask: "Where do I deny this quality in myself?" The work is to integrate the projected [[Anima]]/[[Animus]] *internally* before seeking it externally.
+   - Identify the qualities you most admire or despise in your partner (or an idealized crush). Write them down. Now ask: "Where do I deny this quality in myself?" The work is to integrate the projected [[The Anima]]/[[The Animus]] *internally* before seeking it externally.
 
 ### Integration Practices
 
@@ -207,7 +207,7 @@ Conjunction is unmistakable when it is authentic. It feels like **synthesis**, n
    - Conjunction produces **fertility**—ideas, art, projects. If you're in a coniunctio phase, *make something*. Write, paint, build, compose. The "divine child" born from the marriage wants to be expressed.
 
 3. **Shadow Integration First:**
-   - Conjunction cannot occur authentically until [[Shadow]] work is sufficiently complete. If you try to unite with the contrasexual other while still denying your Shadow, the union will be false—a [[Persona]] marriage, not a soul marriage.
+   - Conjunction cannot occur authentically until [[The Shadow]] work is sufficiently complete. If you try to unite with the contrasexual other while still denying your Shadow, the union will be false—a [[The Persona]] marriage, not a soul marriage.
 
 4. **Patience with the Process:**
    - The alchemical texts show the King and Queen entering the bath together, dying, putrefying, and *then* resurrecting as the Rebis. Coniunctio is not instant. There may be a **death phase** (the union fails, the projection withdraws, the relationship ends) before the true union stabilizes.
@@ -217,9 +217,9 @@ Conjunction is unmistakable when it is authentic. It feels like **synthesis**, n
 
 ### In Relationships and Projection
 
-- **Projection of the Beloved:** The person you fall in love with is *always* carrying your [[Anima]]/[[Animus]] projection initially. The question is: Will you do the work to recognize and integrate the projection, or will you remain unconscious and demand the other person *be* your missing half?
+- **Projection of the Beloved:** The person you fall in love with is *always* carrying your [[The Anima]]/[[The Animus]] projection initially. The question is: Will you do the work to recognize and integrate the projection, or will you remain unconscious and demand the other person *be* your missing half?
 - **The Soulmate Trap:** The belief in "the one"—a single perfect partner who will complete you—is the inflated, unconscious version of coniunctio. True union requires *two individuated selves* choosing to partner, not two halves seeking fusion.
-- **Same-Sex Relationships:** Conjunction is not limited to heterosexual pairings. The [[Anima]]/[[Animus]] are internal psychological functions, not gender-locked. Same-sex couples navigate the same internal coniunctio process—integrating their own contrasexual dynamics and projecting/withdrawing the archetypal other.
+- **Same-Sex Relationships:** Conjunction is not limited to heterosexual pairings. The [[The Anima]]/[[The Animus]] are internal psychological functions, not gender-locked. Same-sex couples navigate the same internal coniunctio process—integrating their own contrasexual dynamics and projecting/withdrawing the archetypal other.
 - **The Syzygy:** Jung's term for the integrated Anima-Animus pair within the psyche. The goal is to form the *internal* syzygy, so that external relationships become expressions of it, not desperate attempts to find it outside.
 
 ### Keywords and Themes
@@ -236,7 +236,7 @@ For Jung, **Conjunction** represents the **most critical operation in individuat
 > "The coniunctio is a symbol of the self, of wholeness... It is the supreme and ultimate secret of the opus magnum."
 > — C.G. Jung, *Mysterium Coniunctionis* (CW 14)
 
-Jung understood the alchemical King and Queen as symbols of **consciousness and the unconscious**—not as external genders but as internal polarities. For a man, the King is his ego-consciousness (logos, thinking, rationality), and the Queen is his unconscious [[Anima]] (eros, feeling, relatedness). For a woman, the Queen is her ego-consciousness (eros, relatedness), and the King is her unconscious [[Animus]] (logos, assertion, spirit).
+Jung understood the alchemical King and Queen as symbols of **consciousness and the unconscious**—not as external genders but as internal polarities. For a man, the King is his ego-consciousness (logos, thinking, rationality), and the Queen is his unconscious [[The Anima]] (eros, feeling, relatedness). For a woman, the Queen is her ego-consciousness (eros, relatedness), and the King is her unconscious [[The Animus]] (logos, assertion, spirit).
 
 **The Stages of Coniunctio (Rosarium Sequence):**
 
@@ -257,7 +257,7 @@ Jung analyzed the *Rosarium Philosophorum*'s ten-image sequence as a map of psyc
 
 **The Anima and Animus:**
 
-Jung's concepts of [[Anima]] (the man's unconscious feminine) and [[Animus]] (the woman's unconscious masculine) are central to understanding Conjunction:
+Jung's concepts of [[The Anima]] (the man's unconscious feminine) and [[The Animus]] (the woman's unconscious masculine) are central to understanding Conjunction:
 
 - **Anima:** The man's soul-image, his connection to feeling, intuition, and eros. She appears in dreams and projections as the Muse, the Beloved, the Siren, the Wise Woman.
 - **Animus:** The woman's spirit-image, her connection to thinking, assertiveness, and logos. He appears as the Hero, the Sage, the Father, the Warrior.
@@ -311,7 +311,7 @@ Jung warned against premature or false coniunctio:
 - **The Curse:** The separation of spirit and matter, soul and body. The prince (integrated self) has been split into Beauty (pure spirit) and Beast (pure matter).
 - **The Trials:** Beauty must learn to love the Beast *as he is*—not demanding he change first. This is the alchemical patience required for coniunctio. She must accept the rejected, ugly, instinctual masculine.
 - **The Transformation:** When Beauty loves the Beast (coniunctio), the curse breaks. The Beast transforms—not because he *changes*, but because Beauty's *perception* changes. She sees the prince (the integrated masculine) that was always present beneath the bestial exterior.
-- **Psychological Insight:** The tale teaches that **the unlived opposite appears monstrous**. The woman's [[Animus]] (or the man's [[Anima]]) initially seems repulsive, dangerous, or inferior. Only through relationship—dialogue, proximity, acceptance—does the archetypal figure transform into its true, regal form.
+- **Psychological Insight:** The tale teaches that **the unlived opposite appears monstrous**. The woman's [[The Animus]] (or the man's [[The Anima]]) initially seems repulsive, dangerous, or inferior. Only through relationship—dialogue, proximity, acceptance—does the archetypal figure transform into its true, regal form.
 
 **The Gift:** Their union produces not just a happy marriage but the restoration of the kingdom (wholeness of the psyche). The divine child (not shown in most versions, but implied) is the fruit of integrated opposites.
 
@@ -325,7 +325,7 @@ Jung warned against premature or false coniunctio:
 - **The Promise:** The conscious ego (princess) must make a *commitment* to the unconscious figure (frog). This is the alchemical vow—the willingness to engage.
 - **The Progression (Eat, Drink, Sleep):** This is the deepening intimacy required for coniunctio. Sharing food (communion), sharing drink (mingling substances), sharing the bed (full union, vulnerability, sexuality). The frog is not content to remain at a distance—he demands *full* union.
 - **The Violence:** In some versions, the princess kisses the frog. In the Grimm version, she throws him against the wall. Both are forms of **breaking**—the ego's resistance must *shatter* before union occurs. The violence is the final death of the ego's refusal.
-- **The Transformation:** The frog becomes the prince. The rejected [[Animus]] (earthy, instinctual, assertive) is revealed as regal when accepted. He is not "saved" by the princess; he is *recognized*.
+- **The Transformation:** The frog becomes the prince. The rejected [[The Animus]] (earthy, instinctual, assertive) is revealed as regal when accepted. He is not "saved" by the princess; he is *recognized*.
 
 **Psychological Insight:** The tale teaches that **the contrasexual other cannot be kept at a polite distance**. Coniunctio requires intimacy, even when it's uncomfortable or disgusting to the ego. The frog demands access to the princess's most private spaces (her plate, her cup, her bed)—this is the unconscious demanding full integration, not partial acknowledgment.
 
@@ -335,15 +335,15 @@ Jung warned against premature or false coniunctio:
 
 **When does Conjunction occur in the lifespan?**
 
-- **Childhood (Absent):** Children are pre-differentiated. They have not yet formed a stable ego or Persona, so they cannot experience coniunctio (which requires two differentiated poles to unite). However, the child's early experiences of "good mother" and "bad mother," "strong father" and "weak father," begin to shape the archetypal images that will later become [[Anima]]/[[Animus]].
+- **Childhood (Absent):** Children are pre-differentiated. They have not yet formed a stable ego or Persona, so they cannot experience coniunctio (which requires two differentiated poles to unite). However, the child's early experiences of "good mother" and "bad mother," "strong father" and "weak father," begin to shape the archetypal images that will later become [[The Anima]]/[[The Animus]].
 
 - **Adolescence / Young Adulthood (18-30):**
-  - **First Projections:** The first experiences of romantic love are almost always unconscious coniunctio—the beloved carries the entire projection of the [[Anima]]/[[Animus]]. The young person believes they have found "the one."
+  - **First Projections:** The first experiences of romantic love are almost always unconscious coniunctio—the beloved carries the entire projection of the [[The Anima]]/[[The Animus]]. The young person believes they have found "the one."
   - **Fusion Phase:** Relationships at this stage often involve fusion, not true coniunctio. Boundaries collapse; identities merge. "We are one." This is necessary as an initiation but is not sustainable.
   - **Heartbreak as Alchemy:** When the relationship ends (as most early relationships do), the projection is violently withdrawn. This is painful but alchemically necessary—it forces the individual to recognize that the "perfect beloved" was an internal figure, not the actual person.
 
 - **Mature Adulthood (30-50):**
-  - **Withdrawal of Projections:** If individuation is occurring, the individual begins to **reclaim** the [[Anima]]/[[Animus]] from external partners. The question shifts from "Who will complete me?" to "What internal opposite must I integrate?"
+  - **Withdrawal of Projections:** If individuation is occurring, the individual begins to **reclaim** the [[The Anima]]/[[The Animus]] from external partners. The question shifts from "Who will complete me?" to "What internal opposite must I integrate?"
   - **Conscious Partnership:** Relationships at this stage can become containers for true coniunctio—two differentiated individuals choosing to unite, not two halves seeking fusion.
   - **Midlife Coniunctio:** Jung's midlife individuation often centers on Anima/Animus integration. The man who has lived in his thinking function encounters his feeling function (Anima); the woman who has lived in her relational function encounters her assertive, intellectual function (Animus). This is often disruptive—affairs, crises, sudden passions—but it is the psyche demanding integration.
 
@@ -358,7 +358,7 @@ Jung warned against premature or false coniunctio:
 In Joseph Campbell's monomyth, **Conjunction** appears at the following stages:
 
 1. **Meeting with the Goddess (Stage 6):**
-   - The hero encounters the archetypal feminine—the Goddess, the Queen, the Beloved. For a male hero, this is the projection of his [[Anima]]. For a female hero, this is the encounter with the Great Mother or the inner Feminine.
+   - The hero encounters the archetypal feminine—the Goddess, the Queen, the Beloved. For a male hero, this is the projection of his [[The Anima]]. For a female hero, this is the encounter with the Great Mother or the inner Feminine.
    - **Alchemical Meaning:** This is the first glimpse of the opposite. The hero is attracted, terrified, or both. The Goddess offers union, but the hero is not yet ready—more trials are needed.
 
 2. **The Reward / Seizing the Sword (Stage 9):**
@@ -372,7 +372,7 @@ In Joseph Campbell's monomyth, **Conjunction** appears at the following stages:
 
 **Key Insight:** The Hero's Journey is fundamentally a coniunctio story. The hero (consciousness) must descend into the underworld (the unconscious), face death (the Ordeal), and unite with the opposite (the Goddess, the treasure) before returning transformed. The "happy ending" marriage is not romantic fluff—it is alchemical symbolism for the integrated psyche.
 
-**Female Heroes:** When the hero is female (Psyche, Inanna, Beauty), the Goddess stage is often replaced by the **encounter with the masculine other**—Eros, the Beast, the Prince. The woman's journey involves integrating her [[Animus]].
+**Female Heroes:** When the hero is female (Psyche, Inanna, Beauty), the Goddess stage is often replaced by the **encounter with the masculine other**—Eros, the Beast, the Prince. The woman's journey involves integrating her [[The Animus]].
 
 ### 6. Individuation Process
 
@@ -385,7 +385,7 @@ In Joseph Campbell's monomyth, **Conjunction** appears at the following stages:
   - The ego builds a Persona (social mask) and begins to project the Anima/Animus onto romantic partners, crushes, or idealized figures. This is unconscious coniunctio—fusion, not integration.
 
 - **Phase 3: Confrontation with Shadow (Midlife 35-50):**
-  - [[Shadow]] work is a prerequisite for authentic coniunctio. You cannot unite with the opposite (Anima/Animus) if you are still denying the same-sex shadow. The man must integrate his shadow masculine before he can integrate his Anima. The woman must integrate her shadow feminine before she can integrate her Animus.
+  - [[The Shadow]] work is a prerequisite for authentic coniunctio. You cannot unite with the opposite (Anima/Animus) if you are still denying the same-sex shadow. The man must integrate his shadow masculine before he can integrate his Anima. The woman must integrate her shadow feminine before she can integrate her Animus.
 
 - **Phase 4: Encounter with Anima/Animus (40-65):**
   - **This is the primary Conjunction phase.** The individual encounters the contrasexual archetype—in dreams, in projections, in creative work, in crisis. The task is to:
@@ -396,7 +396,7 @@ In Joseph Campbell's monomyth, **Conjunction** appears at the following stages:
   - The result is the **syzygy**—the internal marriage.
 
 - **Phase 5: Confrontation with the Self (50-70):**
-  - The integrated Anima/Animus (the syzygy) bows before the [[Self]]. The internal marriage is not the final goal—it is preparation for the encounter with the totality. The Self is the supreme coniunctio—the union of all opposites (ego and Self, conscious and unconscious, personal and transpersonal).
+  - The integrated Anima/Animus (the syzygy) bows before the [[The Self]]. The internal marriage is not the final goal—it is preparation for the encounter with the totality. The Self is the supreme coniunctio—the union of all opposites (ego and Self, conscious and unconscious, personal and transpersonal).
 
 - **Phase 6: Embodiment of the Self (70+):**
   - The elder who has completed the work embodies the Rebis—the integrated androgyne, the Philosopher's Stone, the wholeness of the Self. They are no longer driven by the need for external validation or projection. They are complete.
@@ -466,14 +466,14 @@ The alchemical marriage is both spiritual (union of soul and spirit) and somatic
 
 - **Splitting (Rejection of One Pole):**
   - The individual refuses one side of the polarity. The hyper-masculine man rejects all "feminine" qualities (tenderness, receptivity, vulnerability) as weak. The hyper-feminine woman rejects all "masculine" qualities (assertion, boundaries, independence) as unfeminine. The opposites remain at war.
-  - **In Culture:** Gender rigidity, homophobia, transphobia often stem from terror of the internal contrasexual other. The man who violently rejects gay men is often fleeing his own [[Anima]]. The woman who denigrates "masculine" women is fleeing her own [[Animus]].
+  - **In Culture:** Gender rigidity, homophobia, transphobia often stem from terror of the internal contrasexual other. The man who violently rejects gay men is often fleeing his own [[The Anima]]. The woman who denigrates "masculine" women is fleeing her own [[The Animus]].
 
 - **Projection Addiction:**
   - The individual endlessly seeks the "perfect partner" who will complete them. Each new relationship begins with inflation ("This is the one!") and ends with disillusionment ("They're not who I thought they were"). The cycle repeats because the projection is never withdrawn and integrated.
   - **Serial Monogamy:** Constantly changing partners in search of the elusive "soulmate." The real work—integrating the internal Anima/Animus—is avoided.
 
 - **Premature Union:**
-  - Attempting coniunctio before completing [[Shadow]] work, [[Calcination]], [[Dissolution]], or [[Separation]]. The union is built on unexamined projections and unconscious patterns. It will collapse when the illusions are confronted.
+  - Attempting coniunctio before completing [[The Shadow]] work, [[Calcination]], [[Dissolution]], or [[Separation]]. The union is built on unexamined projections and unconscious patterns. It will collapse when the illusions are confronted.
   - **In Relationships:** The "whirlwind romance" that burns out quickly. The couple fuses in ecstasy, then discovers they have no idea who the other person actually is.
 
 ### 9. Projection Dynamics
@@ -481,7 +481,7 @@ The alchemical marriage is both spiritual (union of soul and spirit) and somatic
 **How is Conjunction projected onto others?**
 
 - **The Soulmate Projection:**
-  - The belief that *this person* is your destined other half. They carry the full weight of the [[Anima]]/[[Animus]] projection. When the projection is withdrawn (as it always eventually is), the relationship either deepens into conscious partnership or collapses.
+  - The belief that *this person* is your destined other half. They carry the full weight of the [[The Anima]]/[[The Animus]] projection. When the projection is withdrawn (as it always eventually is), the relationship either deepens into conscious partnership or collapses.
   - **Withdrawal:** Recognize the qualities you worship in your partner. Ask: "Where do I deny this in myself?" Begin dialoguing with the internal figure they represent.
 
 - **The Idealized Beloved:**
@@ -490,7 +490,7 @@ The alchemical marriage is both spiritual (union of soul and spirit) and somatic
 
 - **The Rejected Opposite:**
   - The person who embodies everything you despise—the aggressive woman, the sensitive man, the person who is "too masculine" or "too feminine." This is the rejected Anima/Animus projected outward as disgust.
-  - **Withdrawal:** The qualities you reject in them are the qualities you deny in yourself. The aggressive woman triggers the woman who has repressed her own [[Animus]]. The sensitive man triggers the man who has repressed his own [[Anima]].
+  - **Withdrawal:** The qualities you reject in them are the qualities you deny in yourself. The aggressive woman triggers the woman who has repressed her own [[The Animus]]. The sensitive man triggers the man who has repressed his own [[The Anima]].
 
 - **The Hermaphrodite Terror:**
   - Encountering someone who is visibly androgynous (non-binary, gender-fluid, intersex) can trigger intense discomfort or fascination. This is the Rebis—the integrated coniunctio—appearing in external form, reminding the viewer of their own unintegrated opposites.
@@ -506,7 +506,7 @@ Common dream motifs:
   - Ask: Who is being married? What qualities do they represent? Am I ready for this union?
 
 - **Sexual Union with an Archetypal Figure:**
-  - Erotic dreams with a numinous, unknown beloved (not a literal person you know). This is often the [[Anima]] (for men) or [[Animus]] (for women) appearing as a lover.
+  - Erotic dreams with a numinous, unknown beloved (not a literal person you know). This is often the [[The Anima]] (for men) or [[The Animus]] (for women) appearing as a lover.
   - The dream is not literal; it's symbolic—the psyche is uniting with its opposite.
 
 - **The Hermaphrodite or Androgyne:**
@@ -535,13 +535,13 @@ Common dream motifs:
   - Conjunction *is* the integration of these archetypes. The entire operation revolves around uniting the conscious ego with the contrasexual unconscious.
 
 - **The Shadow:**
-  - [[Shadow]] integration is a prerequisite. You cannot unite with the opposite-sexed archetype (Anima/Animus) if you haven't integrated the same-sex shadow. The man must own his shadow masculine (rage, ambition, cruelty) before he can safely encounter his Anima. Otherwise, the Anima becomes contaminated with shadow projections.
+  - [[The Shadow]] integration is a prerequisite. You cannot unite with the opposite-sexed archetype (Anima/Animus) if you haven't integrated the same-sex shadow. The man must own his shadow masculine (rage, ambition, cruelty) before he can safely encounter his Anima. Otherwise, the Anima becomes contaminated with shadow projections.
 
 - **The Divine Child:**
-  - The product of coniunctio is often the [[Divine Child]]—the "third thing" born from the union of opposites. This is creativity, new life, the Philosopher's Stone, the renewed Self.
+  - The product of coniunctio is often the [[The Divine Child]]—the "third thing" born from the union of opposites. This is creativity, new life, the Philosopher's Stone, the renewed Self.
 
 - **The Self:**
-  - Coniunctio is preparation for encounter with the [[Self]]. The integrated Anima/Animus (the syzygy) is the vehicle through which the Self is approached. The ultimate coniunctio is between the ego and the Self.
+  - Coniunctio is preparation for encounter with the [[The Self]]. The integrated Anima/Animus (the syzygy) is the vehicle through which the Self is approached. The ultimate coniunctio is between the ego and the Self.
 
 - **Calcination:**
   - [[Calcination]] burns away the false structures; Conjunction rebuilds through union. Fire separates; Earth unites.
@@ -588,7 +588,7 @@ When the opposites unite—when the ego surrenders to partnership with the contr
    - If in a relationship, it becomes a true coniunctio—two sovereigns choosing union. If not in a relationship, you no longer desperately seek one. You are whole alone and whole together.
 
 7. **The Syzygy (Internal Marriage):**
-   - The [[Anima]] and [[Animus]] are integrated as an internal pair—your inner council, your creative partnership, your soul and spirit in dialogue. They guide you toward the Self.
+   - The [[The Anima]] and [[The Animus]] are integrated as an internal pair—your inner council, your creative partnership, your soul and spirit in dialogue. They guide you toward the Self.
 
 #### Jung's Teaching
 
@@ -603,11 +603,11 @@ When the opposites unite—when the ego surrenders to partnership with the contr
 ## Cross-References
 
 ### Related Archetypes
-- [[Folklore/Jungian Archetypes/The Anima]] - The man's unconscious feminine, the primary partner in coniunctio
-- [[Folklore/Jungian Archetypes/The Animus]] - The woman's unconscious masculine, the primary partner in coniunctio
-- [[Folklore/Jungian Archetypes/The Divine Child]] - The product of coniunctio (creativity, new life, the Philosopher's Stone)
+- [[The Anima]] - The man's unconscious feminine, the primary partner in coniunctio
+- [[The Animus]] - The woman's unconscious masculine, the primary partner in coniunctio
+- [[The Divine Child]] - The product of coniunctio (creativity, new life, the Philosopher's Stone)
 - [[The Lover]] - The archetype driving toward union and relationship
-- [[Folklore/Jungian Archetypes/The Self]] - The ultimate coniunctio is between ego and Self
+- [[The Self]] - The ultimate coniunctio is between ego and Self
 - [[Persona Development]] - What must be removed for authentic coniunctio (see Individuation Process)
 - [[The Syzygy]] - Jung's term for the integrated Anima-Animus pair
 
@@ -619,23 +619,23 @@ When the opposites unite—when the ego surrenders to partnership with the contr
 - [[Citrinitas]] (when created) - The Yellowing phase that Conjunction initiates
 
 ### Related Hero's Journey Stages
-- [[Meeting with the Goddess]] - The first encounter with the opposite
+- [[The Reward]] - The first encounter with the opposite
 - [[The Reward]] - Claiming the boon, often symbolized as winning the beloved
-- [[The Road Back]] - Bringing the integrated union back to ordinary life
+- The Road Back - Bringing the integrated union back to ordinary life
 - [[Return with the Elixir]] - The gift of wholeness to the community
 
 ### Related Tarot
-- [[The Lovers]] - The choice of union, the sacred marriage (Major Arcana)
-- [[Temperance]] - Alchemical mixing, the angel as androgyne (Major Arcana)
-- [[The Sun]] - Citrinitas, the golden light of integrated opposites (Major Arcana)
+- [[The Lovers (VI)]] - The choice of union, the sacred marriage (Major Arcana)
+- [[Temperance (XIV)]] - Alchemical mixing, the angel as androgyne (Major Arcana)
+- [[The Sun (XIX)]] - Citrinitas, the golden light of integrated opposites (Major Arcana)
 - [[Two of Cups]] - Partnership, sacred union, commitment
-- [[The Hierophant]] - The one who officiates the sacred marriage (Major Arcana)
+- [[The Hierophant (V)]] - The one who officiates the sacred marriage (Major Arcana)
 
 ### Related Astrology
 - [[Venus ♀]] - Planet of love, union, harmony, and attraction
 - [[7th House]] - House of marriage, partnership, and the other
 - [[Libra ♎]] - Sign of balance, the scales weighing opposites
-- [[Conjunctions]] (aspect) - Planets united in the same degree (literal coniunctio)
+- Conjunctions (aspect) - Planets united in the same degree (literal coniunctio)
 - [[Nodes]] - North and South Node as the union of fate and will
 
 ### Related Human Design
@@ -650,11 +650,11 @@ When the opposites unite—when the ego surrenders to partnership with the contr
 - [[Archangels]] - Often depicted in male-female pairs (syzygy)
 
 ### Related Folklore & Mythology
-- [[Hieros Gamos]] (when created) - Sacred marriage ritual across cultures
-- [[The Sacred Marriage]] (when created) - Mythological unions of god and goddess
+- Hieros Gamos (when created) - Sacred marriage ritual across cultures
+- The Sacred Marriage (when created) - Mythological unions of god and goddess
 - [[Beauty and the Beast]] (when created) - Fairy tale as coniunctio teaching
-- [[The Frog Prince]] (when created) - Integration of the rejected other
-- [[The Personal Myth]] (when created) - How Conjunction appears in the individual's life story
+- [[Frog Prince]] (when created) - Integration of the rejected other
+- [[Personal Mythos]] (when created) - How Conjunction appears in the individual's life story
 
 ---
 

@@ -371,17 +371,17 @@ Though traditionally a tale for women, men can encounter Bluebeard as the **inte
 
 ### Mythology
 
-**[[Hades and Persephone]]** – Inverted. Hades is the underworld king who abducts Persephone but does not murder her; she becomes queen of the depths. Bluebeard abducts and murders. Where Hades is the **redeemable darkness**, Bluebeard is the **unredeemable predator**.
+**Hades and Persephone** – Inverted. Hades is the underworld king who abducts Persephone but does not murder her; she becomes queen of the depths. Bluebeard abducts and murders. Where Hades is the **redeemable darkness**, Bluebeard is the **unredeemable predator**.
 
-**[[Orpheus and Eurydice]]** – The forbidden glance (looking back, opening the door) as the **moment of truth that cannot be undone**. But where Orpheus loses Eurydice by looking, the wife **saves herself** by seeing.
+**Orpheus and Eurydice** – The forbidden glance (looking back, opening the door) as the **moment of truth that cannot be undone**. But where Orpheus loses Eurydice by looking, the wife **saves herself** by seeing.
 
-**[[Lilith]]** – The wife's disobedience echoes Lilith's refusal to submit to Adam. Both are punished for **autonomy and consciousness**. Bluebeard is the patriarchal force that says "Obey or die." The wife's survival is the **reclamation of Lilith's refusal**.
+**Lilith** – The wife's disobedience echoes Lilith's refusal to submit to Adam. Both are punished for **autonomy and consciousness**. Bluebeard is the patriarchal force that says "Obey or die." The wife's survival is the **reclamation of Lilith's refusal**.
 
-**[[Kali]]** – The brothers as **Kali energy**, the sacred destroyer, the force that severs what must be severed. Kali's sword is the weapon that cuts the predator's head from his shoulders—**fierce compassion, protective rage**.
+**Kali** – The brothers as **Kali energy**, the sacred destroyer, the force that severs what must be severed. Kali's sword is the weapon that cuts the predator's head from his shoulders—**fierce compassion, protective rage**.
 
 ### Alchemy
 
-**[[Mortificatio]]** – The death stage, the **putrefaction**. But where healthy mortificatio is death that leads to resurrection (the compost that becomes new soil), Bluebeard's chamber is **mortificatio without redemption**—rot without renewal, death that stays dead. The corpses do not transform; they decay.
+**Mortificatio** – The death stage, the **putrefaction**. But where healthy mortificatio is death that leads to resurrection (the compost that becomes new soil), Bluebeard's chamber is **mortificatio without redemption**—rot without renewal, death that stays dead. The corpses do not transform; they decay.
 
 **Solve et Coagula (Failed)** – Bluebeard is the **solve without coagula**—dissolution without reconstitution. He breaks down (kills) but does not rebuild. He is the **anti-alchemist**, the sorcerer who destroys the prima materia instead of transmuting it.
 
@@ -570,25 +570,25 @@ The Bluebeard pattern maps precisely onto **coercive control dynamics**:
 
 ## Cross-References
 #### Archetypal Figures
-[[The Shadow]] • [[The Idol]] • [[The Wise Old Man]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Hero]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] • [[The Alchemist]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] • [[Lilith]] • [[Kali]]
+[[The Shadow]] • [[The Idol]] • [[The Wise Old Man]] • [[The Hero]] • [[The Great Mother]] • [[The Alchemist]] • [[The Divine Child]] • Lilith • Kali
 
 **Jungian Concepts:**
-[[Individuation]] • [[Shadow Integration]] • [[Projection]] • [[Active Imagination]] • [[Transcendent Function]] • [[Syzygy]] • [[Animus Possession]]
+Individuation • Shadow Integration • Projection • Active Imagination • [[The Transcendent Function]] • Syzygy • Animus Possession
 
 **Tarot Keys:**
 [[The Devil (XV)]] • [[The Tower (XVI)]] • [[Strength (VIII)]] • [[The Empress (III)]] • [[The Chariot (VII)]] • [[Death (XIII)]] • [[The Moon (XVIII)]]
 
 #### Alchemical Stages
-[[Mortificatio]] • [[Nigredo]] • [[Solve et Coagula]] • [[Putrefaction]] • [[Calcination]]
+Mortificatio • [[Nigredo]] • Solve et Coagula • Putrefaction • [[Calcination]]
 
 #### Mythological Parallels
-[[Hades and Persephone]] • [[Orpheus and Eurydice]] • [[Psyche and Eros]] • [[Beauty and the Beast]] • [[The Handless Maiden]] • [[Vasalisa the Wise]]
+Hades and Persephone • Orpheus and Eurydice • Psyche and Eros • [[Beauty and the Beast]] • The Handless Maiden • [[Vasalisa the Wise]]
 
 #### Fairy Tale Motifs
-[[The Forbidden Chamber]] • [[The Bloody Key]] • [[The Animal Bridegroom]] • [[The Predatory Husband]] • [[The Rescuing Brothers]] • [[Curiosity as Initiation]]
+[[The Forbidden Chamber]] • [[The Bloody Key]] • The Animal Bridegroom • [[The Predatory Husband]] • [[The Rescuing Brothers]] • Curiosity as Initiation
 
 #### Human Design Connections
-[[Emotional Authority]] • [[Tribal Circuitry]] • [[Gate 61 - Inner Truth]] • [[Gate 60 - Limitation]] • [[Defined Head Center]]
+[[Emotional Authority]] • Tribal Circuitry • [[Gate 61 - Inner Truth]] • [[Gate 60 - Limitation]] • [[Head]]
 
 #### Individuation Process
 [[Confrontation with Shadow]] • [[Encounter with Anima-Animus]] • [[Integration and Wholeness]] • [[Shadow Recognition vs. Integration]]
@@ -597,7 +597,7 @@ The Bluebeard pattern maps precisely onto **coercive control dynamics**:
 [[The Call to Adventure]] • [[Crossing the First Threshold]] • [[The Ordeal]] • [[The Resurrection]] • [[Return with the Elixir]]
 
 #### Related Tales
-[[Beauty and the Beast]] • [[Fitcher's Bird]] • [[The Robber Bridegroom]] • [[Mr. Fox]] • [[The White Dove]] • [[The Handless Maiden]]
+[[Beauty and the Beast]] • Fitcher's Bird • [[The Robber Bridegroom]] • [[Mr. Fox]] • [[The White Dove]] • The Handless Maiden
 
 ---
 

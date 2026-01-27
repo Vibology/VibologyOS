@@ -59,7 +59,7 @@ Jung's controversial contribution: the God-image includes **both light and shado
 
 - [[The Self]] — The archetype of wholeness, functionally equivalent
 - [[Individuation Process]] — The journey toward the Self/God-image
-- [[Numinous]] — Rudolf Otto's term for the experience of the holy
+- Numinous — Rudolf Otto's term for the experience of the holy
 - [[Angelology]] — Angels as differentiated aspects of the God-image
 - [[Psychoid Archetype]] — The transpersonal dimension of archetypes
 

@@ -70,7 +70,7 @@ In *Sleeping Beauty*, the curse is triggered by the **spinning wheel**—the for
 
 ### The Thirteenth Godmother / Uninvited Fairy
 
-The curse's origin is often the **excluded goddess**—the thirteenth fairy not invited to the christening (only twelve golden plates), the goddess Eris not invited to the wedding (the golden apple of discord), Hel or the dark Norns excluded from the feast. She is the **repressed feminine principle**, the dark pole of [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] whom civilized consciousness refuses to honor.
+The curse's origin is often the **excluded goddess**—the thirteenth fairy not invited to the christening (only twelve golden plates), the goddess Eris not invited to the wedding (the golden apple of discord), Hel or the dark Norns excluded from the feast. She is the **repressed feminine principle**, the dark pole of [[The Great Mother]] whom civilized consciousness refuses to honor.
 
 **Von Franz's interpretation:** The thirteenth fairy represents **nature itself**—the wild, instinctual, chthonic feminine that cannot be controlled or domesticated. When the parents (ego, society, patriarchal order) try to exclude her (repress instinct, deny the body, control nature), she returns with a curse. The curse is **nature's revenge**: "If you will not honor me, I will claim the child at puberty, at the threshold where my power is undeniable."
 
@@ -284,7 +284,7 @@ In Jung's model, a **complex** is a split-off portion of the psyche that operate
 
 ### The Repressed Feminine Strikes (The Thirteenth Godmother)
 
-The **thirteenth godmother** is the quintessential representation of the **repressed feminine**—the dark pole of [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]], the wild instinctual nature that civilized consciousness (the King, the ego, the patriarchal order) attempts to exclude.
+The **thirteenth godmother** is the quintessential representation of the **repressed feminine**—the dark pole of [[The Great Mother]], the wild instinctual nature that civilized consciousness (the King, the ego, the patriarchal order) attempts to exclude.
 
 **Von Franz's reading:** The King in Sleeping Beauty tries to protect Briar Rose by **banning all spindles** (repressing the tool of the Fates, the instrument of the dark feminine). This is the ego's fantasy: "If I control the environment, I can prevent fate." But **what is repressed in consciousness returns through the unconscious**, often as symptom, fate, or curse.
 
@@ -580,37 +580,37 @@ For those living in a **false self** (performing the domesticated swan, the sile
 ## Internal Links (Cross-References)
 
 #### Archetypal Figures
-[[The Shadow]] • [[The Muse]] • [[The Idol]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] • [[The Alchemist]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] • [[The Wise Old Man]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Hero]] • [[The Changeling]] • [[The Nightmare]]
+[[The Shadow]] • [[The Muse]] • [[The Idol]] • [[The Divine Child]] • [[The Alchemist]] • [[The Great Mother]] • [[The Wise Old Man]] • [[The Hero]] • [[The Changeling]] • [[The Nightmare]]
 
 **Jungian Concepts:**
-[[Individuation]] • [[Shadow Integration]] • [[Coniunctio]] • [[Transcendent Function]] • [[Active Imagination]] • [[Projection]] • [[Ego-Self Axis]] • [[Persona Development]] • [[Complex]] • [[Repression]]
+Individuation • Shadow Integration • Coniunctio • [[The Transcendent Function]] • Active Imagination • Projection • Ego-Self Axis • [[Persona Development]] • Complex • [[Repression]]
 
 **Tarot Keys:**
-[[The Devil (XV)]] • [[The Moon (XVIII)]] • [[Death]] • [[The High Priestess]] • [[The Tower]] • [[The Star]] • [[Temperance]] • [[The Hanged Man]] • [[The Sun]] • [[Strength]]
+[[The Devil (XV)]] • [[The Moon (XVIII)]] • [[Death (XIII)]] • [[The High Priestess (II)]] • [[The Tower (XVI)]] • [[The Star (XVII)]] • [[Temperance (XIV)]] • [[The Hanged Man (XII)]] • [[The Sun (XIX)]] • [[Strength (VIII)]]
 
 #### Alchemical Stages
 [[Coagulation]] • [[Dissolution]] • [[Nigredo]] • [[Albedo]] • [[Rubedo]] • [[Calcination]] • [[Separation]] • [[Conjunction]] • [[Fermentation]]
 
 #### Mythological Parallels
-[[Persephone and Demeter]] • [[Psyche and Eros]] • [[Hades and Persephone]] • [[Orpheus and Eurydice]] • [[Inanna's Descent]] • [[Medusa]] • [[Pandora]]
+Persephone and Demeter • Psyche and Eros • Hades and Persephone • Orpheus and Eurydice • Inanna's Descent • [[Medusa]] • [[Pandora]]
 
 **Fairy Tale Entries:**
-[[Beauty and the Beast]] • [[Snow White]] • [[Sleeping Beauty]] • [[The Frog Prince]] • [[Rapunzel]] • [[Cinderella]] • [[The Handless Maiden]] • [[Bluebeard]] • [[Hansel and Gretel]] • [[The Two Brothers]]
+[[Beauty and the Beast]] • [[Snow White]] • Sleeping Beauty • [[Frog Prince]] • [[Rapunzel]] • [[Cinderella]] • The Handless Maiden • [[Bluebeard]] • [[Hansel and Gretel]] • [[The Two Brothers]]
 
 #### Fairy Tale Motifs
-[[The Wicked Stepmother]] • [[The Magic Mirror]] • [[The Poisoned Gift]] • [[The Thirteenth Fairy]] • [[The Animal Bridegroom]] • [[The Swan Maiden]] • [[The Stolen Voice]] • [[The Awakening Kiss]] • [[The Hedge of Thorns]] • [[The Glass Coffin]]
+[[The Wicked Stepmother]] • The Magic Mirror • The Poisoned Gift • [[The Thirteenth Fairy]] • The Animal Bridegroom • [[The Swan Maiden]] • [[The Stolen Voice]] • The Awakening Kiss • The Hedge of Thorns • The Glass Coffin
 
 #### Individuation Process
 [[Confrontation with Shadow]] • [[Encounter with Anima-Animus]] • [[Confrontation with the Self]] • [[Integration and Wholeness]] • [[Ego Formation and Childhood]] • [[Persona Development]]
 
 #### Hero's Journey Stages
-[[The Call to Adventure]] • [[Refusal of the Call]] • [[Crossing the First Threshold]] • [[Belly of the Whale]] • [[The Ordeal]] • [[The Resurrection]] • [[Return with the Elixir]]
+[[The Call to Adventure]] • [[Refusal of the Call]] • [[Crossing the First Threshold]] • Belly of the Whale • [[The Ordeal]] • [[The Resurrection]] • [[Return with the Elixir]]
 
 #### Human Design Connections
-[[Emotional Solar Plexus]] • [[Sacral Center]] • [[Spleen Center]] • [[Emotional Authority]] • [[Sacral Authority]] • [[Tribal Circuitry]] • [[Individual Circuitry]]
+[[Solar Plexus]] • [[Sacral]] • [[Spleen]] • [[Emotional Authority]] • [[Sacral Authority]] • Tribal Circuitry • Individual Circuitry
 
 **Astrology:**
-[[Saturn ♄]] • [[Neptune ♆]] • [[Pluto ♇]] • [[Moon ☽]] • [[Chiron]] • [[12th House]] • [[8th House]] • [[Pisces ♓]] • [[Scorpio ♏]] • [[Capricorn ♑]]
+[[Saturn ♄]] • [[Neptune ♆]] • [[Pluto ♇]] • [[Moon ☽]] • [[Astrology]] • [[12th House]] • [[8th House]] • [[Pisces ♓]] • [[Scorpio ♏]] • [[Capricorn ♑]]
 
 **Angelology:**
 [[Raphael]] • [[Gabriel]] • [[Tzaphkiel]] • [[Sandalphon]] • [[Thrones]] • [[Powers]]

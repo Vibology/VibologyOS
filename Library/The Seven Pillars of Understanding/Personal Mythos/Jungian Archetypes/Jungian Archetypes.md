@@ -134,7 +134,7 @@ The Jungian archetypes correspond to patterns in other wisdom traditions:
 - [[Confrontation with Shadow]] — Stage 3 of individuation
 - [[Encounter with Anima-Animus]] — Stage 4 of individuation
 - [[Confrontation with the Self]] — Stage 5 of individuation
-- [[Active Imagination]] — Jung's technique for archetype engagement
-- [[The Twelve Archetypes]] — The Window's contemporary archetypal system
+- Active Imagination — Jung's technique for archetype engagement
+- The Twelve Archetypes — The Window's contemporary archetypal system
 
 ---

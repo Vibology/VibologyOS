@@ -11,11 +11,6 @@ grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
 verification_notes: "Individual verification complete. Core mechanics (Sacral Center source, below Emotional hierarchy, Gut response principle) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
 # Sacral Authority
-
----
-
-
-
 *The Intelligence of the Gut*
 
 ---
@@ -172,6 +167,7 @@ Generators with Sacral Authority bring:
 
 *Sacral Authority is the intelligence of the body's life force—immediate, non-verbal, and unerring. It does not explain itself, justify its knowing, or wait for the mind's approval. To trust the Sacral is to trust that the body knows what it has energy for, and to honor that knowing is to live in correct use of your life force, building only what truly satisfies.*
 
+---
 ## Sources
 
 Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.

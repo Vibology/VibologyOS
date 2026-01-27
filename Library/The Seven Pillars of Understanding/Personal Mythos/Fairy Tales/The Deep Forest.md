@@ -21,7 +21,7 @@ Unlike the domesticated garden or the cleared field, the forest **cannot be cont
 
 **Marie-Louise von Franz** and **Clarissa Pinkola Estés** both identify the forest as the **vegetative level of the psyche**—the pre-verbal, pre-rational, **instinctual substrate** where healing happens not through analysis or willpower but through **organic growth**, the slow work of roots finding water, wounds scarring over, seeds germinating in darkness. The forest teaches patience, surrender, and trust in processes the conscious mind cannot direct.
 
-The forest is the realm of the **[[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother|Great Mother]]** in her wild, untamed aspect—**Baba Yaga's** domain, the place where the Old Crone dwells, where the She-Wolf nurtures Romulus and Remus, where Snow White finds refuge with the dwarves (elemental earth-spirits), where Hansel and Gretel encounter the witch. It is the **threshold between the known and the unknown**, the boundary where consciousness meets the vast, dark, teeming unconscious.
+The forest is the realm of the **[[The Great Mother]]** in her wild, untamed aspect—**Baba Yaga's** domain, the place where the Old Crone dwells, where the She-Wolf nurtures Romulus and Remus, where Snow White finds refuge with the dwarves (elemental earth-spirits), where Hansel and Gretel encounter the witch. It is the **threshold between the known and the unknown**, the boundary where consciousness meets the vast, dark, teeming unconscious.
 
 **Developmental Context:** The forest motif constellates during **life transitions** that demand regression and renewal—adolescence (leaving childhood safety), midlife crisis (when the old identity no longer fits), grief and loss (when the familiar world collapses), creative blocks (when the well runs dry), and spiritual emergencies (the Dark Night of the Soul). The forest is where you go when linear progress fails and **circular time** must be honored.
 
@@ -78,7 +78,7 @@ Von Franz identifies the forest as the **vegetative level of consciousness**—t
 
 The forest is **inhabited**—not by humans but by **animals** (literal and symbolic), representing the **instinctual forces** of the psyche:
 
-- **The wolf** – Predator, hunter, pack intelligence; in [[Little Red Riding Hood]], the wolf is both **danger** (projection of sexual/aggressive instinct) and **initiator** (the force that breaks naivety)
+- **The wolf** – Predator, hunter, pack intelligence; in Little Red Riding Hood, the wolf is both **danger** (projection of sexual/aggressive instinct) and **initiator** (the force that breaks naivety)
 - **The bear** – Maternal ferocity, hibernation (descent into darkness), resurrection (emerging from the winter cave); in [[Snow White and Rose Red]], the bear is the cursed prince awaiting recognition
 - **The raven/crow** – Psychopomp, messenger between worlds, oracle of death and transformation
 - **The deer** – The elusive, the sacred quarry, the soul-animal that leads the hero into the forest (often in Arthurian legends)
@@ -92,7 +92,7 @@ In Slavic fairy tales, the forest's heart holds **Baba Yaga's hut**—a house on
 
 - **The hut on chicken legs** – Unstable, mobile, **uroboric** (self-rotating); the unconscious cannot be pinned down, domesticated
 - **The fence of skulls** – Those who failed the initiation; the forest does not guarantee survival—only **transformation or death**
-- **Baba Yaga herself** – The **[[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother|Terrible Mother]]** in her rawest form: cannibalistic, ancient, wild, yet also the **giver of fire** (Vasilisa the Beautiful), the keeper of wisdom earned through ordeal
+- **Baba Yaga herself** – The **[[The Great Mother]]** in her rawest form: cannibalistic, ancient, wild, yet also the **giver of fire** (Vasilisa the Beautiful), the keeper of wisdom earned through ordeal
 
 **Von Franz:** *"Baba Yaga is the forest personified—she is utterly amoral, neither good nor evil, simply **nature**. She devours those who approach with ego, but she blesses those who serve her with humility and pure intent."*
 
@@ -120,7 +120,7 @@ In [[Hansel and Gretel]], the forest is the **place of parental betrayal**—the
 
 ### Little Red Riding Hood's Path – The Forest as Sexual Initiation
 
-In [[Little Red Riding Hood]], the forest is the **threshold of sexual maturation**, the dangerous passage from innocent child to sexually aware woman:
+In Little Red Riding Hood, the forest is the **threshold of sexual maturation**, the dangerous passage from innocent child to sexually aware woman:
 
 - **The mother's warning** – "Stay on the path, don't talk to strangers"—the old generation's attempt to **control** the daughter's sexuality
 - **The wolf's seduction** – "Why don't you look at the flowers, little girl?"—the **lure of instinct**, the temptation to **leave the path** (disobey the Persona)
@@ -423,7 +423,7 @@ In alchemy, the forest corresponds to **Silva**—the primal matter, the chaos, 
 The forest embodies the **massa confusa**—the stage before differentiation:
 
 - **No separation of opposites** – In the forest, **sacred and profane, life and death, light and dark** are **not yet split**
-- **The uroboric state** – The tail-eating serpent, the unity before consciousness, the **Great Round** ([[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother|Great Mother]])
+- **The uroboric state** – The tail-eating serpent, the unity before consciousness, the **Great Round** ([[The Great Mother]])
 - **The necessity of descent** – You must **enter the confusion** (the forest, the unconscious) to retrieve the **gold** (the Self, the treasure)
 
 **Alchemical motto:** *"Visita Interiora Terrae Rectificando Invenies Occultum Lapidem"* (Visit the interior of the earth, and by rectifying, you will find the hidden stone). The forest is the **interior of the earth**, the **underworld**, the place of **descent and retrieval**.
@@ -590,22 +590,22 @@ The forest teaches that **consciousness requires periodic withdrawal**:
 
 ## Cross-References
 #### Archetypal Figures
-[[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] • [[The Shadow]] • [[The Alchemist]] • [[The Wise Old Man]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Hero]] • [[The Muse]] • [[The Idol]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Joker]] • [[The Nightmare]]
+[[The Great Mother]] • [[The Shadow]] • [[The Alchemist]] • [[The Wise Old Man]] • [[The Hero]] • [[The Muse]] • [[The Idol]] • [[The Divine Child]] • [[The Joker]] • [[The Nightmare]]
 
 **Fairy Tale Motifs & Tales:**
-[[Hansel and Gretel]] • [[Snow White]] • [[Little Red Riding Hood]] • [[Beauty and the Beast]] • [[Rapunzel]] • [[The Juniper Tree]] • [[Vasilisa the Beautiful]] • [[Baba Yaga]] • [[The Wicked Stepmother]] • [[The Quest Object]] • [[The Three Trials]] • [[Spinning and Weaving]]
+[[Hansel and Gretel]] • [[Snow White]] • Little Red Riding Hood • [[Beauty and the Beast]] • [[Rapunzel]] • The Juniper Tree • Vasilisa the Beautiful • Baba Yaga • [[The Wicked Stepmother]] • [[The Quest Object]] • [[The Three Trials]] • [[Spinning and Weaving]]
 
 **Jungian Concepts:**
-[[Individuation]] • [[Shadow Integration]] • [[Mother Complex]] • [[Transcendent Function]] • [[Active Imagination]] • [[Projection]] • [[Regression]] • [[Libido]] • [[Collective Unconscious]] • [[Archetypes]] • [[Persona Development]] • [[Syzygy]]
+Individuation • Shadow Integration • Mother Complex • [[The Transcendent Function]] • Active Imagination • Projection • Regression • Libido • Collective Unconscious • Archetypes • [[Persona Development]] • Syzygy
 
 #### Individuation Process
 [[Ego Formation and Childhood]] • [[Persona Development]] • [[Confrontation with Shadow]] • [[Encounter with Anima-Animus]] • [[Confrontation with the Self]] • [[Integration and Wholeness]]
 
 #### Hero's Journey Stages
-[[The Ordinary World]] • [[The Call to Adventure]] • [[Refusal of the Call]] • [[Meeting the Mentor]] • [[Crossing the First Threshold]] • [[Tests, Allies, and Enemies]] • [[Approach to the Inmost Cave]] • [[The Ordeal]] • [[The Reward]] • [[The Road Back]] • [[The Resurrection]] • [[Return with the Elixir]]
+[[The Ordinary World]] • [[The Call to Adventure]] • [[Refusal of the Call]] • [[Meeting the Mentor]] • [[Crossing the First Threshold]] • [[Tests, Allies, and Enemies]] • [[Approach to the Inmost Cave]] • [[The Ordeal]] • [[The Reward]] • The Road Back • [[The Resurrection]] • [[Return with the Elixir]]
 
 #### Alchemical Stages
-[[Nigredo]] • [[Albedo]] • [[Rubedo]] • [[Calcinatio]] • [[Dissolution]] • [[Coagulation]] • [[Conjunction]] • [[Fermentation]] • [[Distillation]]
+[[Nigredo]] • [[Albedo]] • [[Rubedo]] • Calcinatio • [[Dissolution]] • [[Coagulation]] • [[Conjunction]] • [[Fermentation]] • [[Distillation]]
 
 **Tarot Keys:**
 [[The Hermit (IX)]] • [[The Moon (XVIII)]] • [[The Star (XVII)]] • [[Death (XIII)]] • [[The Fool (0)]] • [[The High Priestess (II)]] • [[The Devil (XV)]] • [[The Tower (XVI)]] • [[The Sun (XIX)]]
@@ -617,10 +617,10 @@ The forest teaches that **consciousness requires periodic withdrawal**:
 [[Moon ☽]] • [[Neptune ♆]] • [[Pluto ♇]] • [[Virgo ♍]] • [[Pisces ♓]] • [[12th House]] • [[4th House]]
 
 **Human Design:**
-[[Spleen Center]] • [[Emotional Solar Plexus]] • [[Sacral Center]] • [[Gate 27 - Nourishing]] • [[Tribal Circuit]]
+[[Spleen]] • [[Solar Plexus]] • [[Sacral]] • [[Gate 27 - Nourishment]] • [[Human Design]]
 
 **Related Concepts:**
-[[Uroboros]] • [[Prima Materia]] • [[Temenos]] • [[Dark Night of the Soul]] • [[Via Negativa]] • [[Anima Mundi]] • [[Sacred Grove]] • [[Vision Quest]] • [[Initiation]] • [[Liminality]]
+Uroboros • Prima Materia • [[Temenos]] • Dark Night of the Soul • [[Via Negativa]] • Anima Mundi • [[Sacred Grove]] • Vision Quest • [[Initiation]] • [[Liminality]]
 
 ---
 

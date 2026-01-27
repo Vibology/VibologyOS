@@ -759,15 +759,15 @@ Jung: *"The Indian's relationship to his gods is not one of belief but of experi
 ## Cross-References
 
 ### Jungian Archetypes
-- [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Joker]] (Coyote, Raven as ultimate Trickster)
+- [[The Joker]] (Coyote, Raven as ultimate Trickster)
 - [[The Shadow]] (Windigo, skin-walker, imbalance)
-- [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] (Spider Woman, Corn Mother, Buffalo Woman)
+- [[The Great Mother]] (Spider Woman, Corn Mother, Buffalo Woman)
 - [[The Wise Old Man]] (Elders, ancestors, Thunderbird)
-- [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] (Hero Twins, emergence stories)
+- [[The Divine Child]] (Hero Twins, emergence stories)
 - [[The Muse]] (White Buffalo Calf Woman, animal spirits for men)
 - [[The Idol]] (Thunderbird, Eagle for women)
 - [[The Alchemist]] (Medicine Wheel, Sacred Hoop, Web-of-All-Relations)
-- [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Hero]] (Monster Slayers, vision quester)
+- [[The Hero]] (Monster Slayers, vision quester)
 - [[The Nightmare]] (Animal spirits, vision quest ordeal)
 - [[The Changeling]] (Trickster transformations, skin-walker)
 
@@ -798,19 +798,19 @@ Jung: *"The Indian's relationship to his gods is not one of belief but of experi
 
 ### Tarot
 - [[The Fool (0)]] (Coyote/Raven—sacred fool, divine madness)
-- [[The Magician]] (Trickster transforming reality)
-- [[The High Priestess]] (Spider Woman, Corn Mother—sacred feminine wisdom)
-- [[The Hermit]] (Vision quest, wilderness ordeal, seeking guidance)
-- [[Wheel of Fortune]] (Medicine Wheel, Sacred Hoop, cyclical time)
-- [[Strength]] (Bear medicine, gentle power)
-- [[The Hanged Man]] (Sun Dance sacrifice, voluntary ordeal)
-- [[Death]] (Transformation, vision quest ego-death, West direction)
-- [[Temperance]] (Balance, Medicine Wheel integration)
-- [[The Star]] (Vision received, hope after ordeal)
-- [[The Moon]] (West/Water, dreams, intuition, Coyote's realm)
-- [[The Sun]] (East/Fire, Eagle's vision, clarity)
-- [[Judgement]] (Ancestral call, becoming elder, passing on teaching)
-- [[The World]] (Sacred Hoop complete, Web-of-All-Relations, wholeness)
+- [[The Magician (I)]] (Trickster transforming reality)
+- [[The High Priestess (II)]] (Spider Woman, Corn Mother—sacred feminine wisdom)
+- [[The Hermit (IX)]] (Vision quest, wilderness ordeal, seeking guidance)
+- [[Wheel of Fortune (X)]] (Medicine Wheel, Sacred Hoop, cyclical time)
+- [[Strength (VIII)]] (Bear medicine, gentle power)
+- [[The Hanged Man (XII)]] (Sun Dance sacrifice, voluntary ordeal)
+- [[Death (XIII)]] (Transformation, vision quest ego-death, West direction)
+- [[Temperance (XIV)]] (Balance, Medicine Wheel integration)
+- [[The Star (XVII)]] (Vision received, hope after ordeal)
+- [[The Moon (XVIII)]] (West/Water, dreams, intuition, Coyote's realm)
+- [[The Sun (XIX)]] (East/Fire, Eagle's vision, clarity)
+- [[Judgement (XX)]] (Ancestral call, becoming elder, passing on teaching)
+- [[The World (XXI)]] (Sacred Hoop complete, Web-of-All-Relations, wholeness)
 
 ### Astrology
 - [[Jupiter ♃]] (Expansion, vision, abundance—Buffalo medicine)
@@ -821,17 +821,17 @@ Jung: *"The Indian's relationship to his gods is not one of belief but of experi
 - [[Moon ☽]] (Changing Woman, cyclical time, feminine wisdom)
 
 ### Human Design
-- [[Gate 25]] (Innocence) = Coyote's foolishness, Trickster teaching
-- [[Gate 51]] (The Arousing/Shock) = Thunderbird vision, initiation
-- [[Gate 64]] (Before Completion) = Vision quest threshold, awaiting vision
-- [[Gate 63]] (After Completion) = Elder wisdom, integration
-- [[Gate 1]] (Creative Power) = Spider Woman weaving creation
+- [[Gate 25 - Innocence]] (Innocence) = Coyote's foolishness, Trickster teaching
+- [[Gate 51 - The Arousing]] (The Arousing/Shock) = Thunderbird vision, initiation
+- [[Gate 64 - Before Completion]] (Before Completion) = Vision quest threshold, awaiting vision
+- [[Gate 63 - After Completion]] (After Completion) = Elder wisdom, integration
+- [[Gate 01 - The Creative]] (Creative Power) = Spider Woman weaving creation
 
 ### Folklore
-- [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Hero]] (Monster Slayers as balance-restorers, not dominators)
-- [[The Trickster]] (Coyote/Raven as archetypal exemplars)
-- [[Vision Quest]] (as universal initiatory structure)
-- [[Animal Totems]] (theriomorphic archetypes across cultures)
+- [[The Hero]] (Monster Slayers as balance-restorers, not dominators)
+- [[The Joker]] (Coyote/Raven as archetypal exemplars)
+- Vision Quest (as universal initiatory structure)
+- Animal Totems (theriomorphic archetypes across cultures)
 
 ---
 

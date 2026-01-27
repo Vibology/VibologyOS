@@ -874,14 +874,14 @@ Jung: *"Odin is the god of poets, the dead, and the hanged—those who have pass
 ## Cross-References
 
 ### Jungian Archetypes
-- [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Hero]] (Thor, Sigurd, Tyr)
+- [[The Hero]] (Thor, Sigurd, Tyr)
 - [[The Shadow]] (Loki, Fenrir, Jörmungandr, Giants)
 - [[The Muse]] (Freyja, Brynhildr, Frigg, Hel)
 - [[The Idol]] (Odin, Thor, Loki)
-- [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] (Frigg, Jörð, Hel, Norns)
+- [[The Great Mother]] (Frigg, Jörð, Hel, Norns)
 - [[The Wise Old Man]] (Odin, Mimir)
-- [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Joker]] (Loki as Trickster)
-- [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] (Baldr)
+- [[The Joker]] (Loki as Trickster)
+- [[The Divine Child]] (Baldr)
 - [[The Alchemist]] (Yggdrasil, Wyrd, post-Ragnarök cosmos)
 - [[The Nightmare]] (Garmr, Níðhöggr, Hel's gate)
 - [[The Changeling]] (Loki, Odin in disguise, Freyja's falcon cloak)
@@ -915,44 +915,44 @@ Jung: *"Odin is the god of poets, the dead, and the hanged—those who have pass
 
 ### Tarot
 - [[The Fool (0)]] (Odin's wandering, Loki's chaos)
-- [[The Magician]] (Odin wielding runes, Loki shapeshifting)
-- [[The High Priestess]] (Frigg knowing all fates, Freyja's seiðr)
-- [[The Emperor]] (Odin as Allfather, Thor as defender)
-- [[The Hierophant]] (Mimir's wisdom, rune-master)
-- [[The Lovers]] (Sigurd and Brynhildr)
-- [[The Chariot]] (Thor's goat-drawn chariot, warrior will)
-- [[Strength]] (Thor with Mjölnir, Tyr feeding Fenrir)
-- [[The Hermit]] (Odin wandering, seeking wisdom alone)
-- [[The Hanged Man]] (Odin on Yggdrasil)
-- [[Death]] (Hel, Ragnarök, Baldr in underworld)
-- [[Temperance]] (Balancing Aesir/Vanir, order/chaos)
-- [[The Devil]] (Fenrir bound, Loki chained, shadow repressed)
-- [[The Tower]] (Ragnarök, structures collapsing)
-- [[The Star]] (Hope after Ragnarök, new world emerging)
-- [[The Moon]] (Freyja's magic, seiðr, unconscious depths)
-- [[The Sun]] (Baldr's radiance, Thor's strength)
-- [[Judgement]] (Valkyries choosing slain, Ragnarök as reckoning)
-- [[The World]] (Yggdrasil, post-Ragnarök completion)
+- [[The Magician (I)]] (Odin wielding runes, Loki shapeshifting)
+- [[The High Priestess (II)]] (Frigg knowing all fates, Freyja's seiðr)
+- [[The Emperor (IV)]] (Odin as Allfather, Thor as defender)
+- [[The Hierophant (V)]] (Mimir's wisdom, rune-master)
+- [[The Lovers (VI)]] (Sigurd and Brynhildr)
+- [[The Chariot (VII)]] (Thor's goat-drawn chariot, warrior will)
+- [[Strength (VIII)]] (Thor with Mjölnir, Tyr feeding Fenrir)
+- [[The Hermit (IX)]] (Odin wandering, seeking wisdom alone)
+- [[The Hanged Man (XII)]] (Odin on Yggdrasil)
+- [[Death (XIII)]] (Hel, Ragnarök, Baldr in underworld)
+- [[Temperance (XIV)]] (Balancing Aesir/Vanir, order/chaos)
+- [[The Devil (XV)]] (Fenrir bound, Loki chained, shadow repressed)
+- [[The Tower (XVI)]] (Ragnarök, structures collapsing)
+- [[The Star (XVII)]] (Hope after Ragnarök, new world emerging)
+- [[The Moon (XVIII)]] (Freyja's magic, seiðr, unconscious depths)
+- [[The Sun (XIX)]] (Baldr's radiance, Thor's strength)
+- [[Judgement (XX)]] (Valkyries choosing slain, Ragnarök as reckoning)
+- [[The World (XXI)]] (Yggdrasil, post-Ragnarök completion)
 
 ### Astrology
 - [[Jupiter ♃]] as Odin/Thor (expansion, sovereignty, thunder)
 - [[Saturn ♄]] as Norns/Wyrd (fate, limitation, time)
 - [[Mars ♂]] as Thor/Tyr (warrior energy, courage, conflict)
 - [[Venus ♀]] as Freyja (love, beauty, erotic power)
-- [[Astrology/Planets/Mercury # ☿]] as Loki (trickster, messenger, shapeshifter)
+- [[Mercury ☿]] as Loki (trickster, messenger, shapeshifter)
 - [[Pluto ♇]] as Hel/Ragnarök (death, transformation, underworld)
 - [[Neptune ♆]] as Yggdrasil/Mimir's well (cosmic ocean, gnosis, dissolution)
 - [[Uranus ♅]] as Ragnarök/Loki (disruption, revolution, chaos)
-- [[Chiron]] as Tyr's wound (sacrificial wound, teaching through suffering)
+- [[Astrology]] as Tyr's wound (sacrificial wound, teaching through suffering)
 
 ### Human Design
-- [[Gate 51]] (The Arousing/Shock) = Odin's initiation, Ragnarök disruption
-- [[Gate 25]] (Innocence) = Baldr's purity, Divine Child
-- [[Gate 64]] (Before Completion) = Pre-Ragnarök tension, threshold state
-- [[Gate 36]] (Darkening of the Light) = Helheim, shadow descent
-- [[Gate 5]] (Waiting) = Knowing wyrd, waiting for fated time
-- [[Gate 26]] (Taming Power of the Great) = Odin's accumulated wisdom
-- [[Gate 23]] (Splitting Apart) = Ragnarök dissolution
+- [[Gate 51 - The Arousing]] (The Arousing/Shock) = Odin's initiation, Ragnarök disruption
+- [[Gate 25 - Innocence]] (Innocence) = Baldr's purity, Divine Child
+- [[Gate 64 - Before Completion]] (Before Completion) = Pre-Ragnarök tension, threshold state
+- [[Gate 36 - Darkening of the Light]] (Darkening of the Light) = Helheim, shadow descent
+- [[Gate 05 - Waiting]] (Waiting) = Knowing wyrd, waiting for fated time
+- [[Gate 26 - The Taming Power of the Great]] (Taming Power of the Great) = Odin's accumulated wisdom
+- [[Gate 23 - Splitting Apart]] (Splitting Apart) = Ragnarök dissolution
 
 ### Angelology
 - [[Metatron]] as Odin (heavenly scribe, wisdom keeper)

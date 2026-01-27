@@ -260,10 +260,10 @@ A **coherent Ego** capable of observing the world without being overwhelmed by i
 ## Cross-References
 
 **Jungian Archetypes:**
-- [[Folklore/Jungian Archetypes/The Divine Child]] (primary identification of this stage)
-- [[Folklore/Jungian Archetypes/The Great Mother]] (primary environment and constellation)
-- [[Folklore/Jungian Archetypes/The Hero]] (nascent drive to overcome and separate)
-- [[Folklore/Jungian Archetypes/The Self]] (the totality from which the ego emerges)
+- [[The Divine Child]] (primary identification of this stage)
+- [[The Great Mother]] (primary environment and constellation)
+- [[The Hero]] (nascent drive to overcome and separate)
+- [[The Self]] (the totality from which the ego emerges)
 - [[The Shadow]] (begins forming as "bad" impulses are repressed)
 
 **Hero's Journey:**
@@ -275,15 +275,15 @@ A **coherent Ego** capable of observing the world without being overwhelmed by i
 - [[Integration and Wholeness]] (Stage 6—returns to unity, but consciously)
 
 #### Alchemical Stages
-- [[Separatio]] (primary operation of this stage)
+- Separatio (primary operation of this stage)
 - [[Calcination]] (follows in adolescence/Persona Development)
 - [[Nigredo]] (midlife Shadow work, requires ego foundation)
-- [[Coagulatio]] (elderhood crystallization of wisdom)
+- Coagulatio (elderhood crystallization of wisdom)
 
 **Tarot:**
 - [[The Fool (0)]] (innocent potential, beginning of journey)
-- [[III - The Empress]] (Great Mother, nurturing matrix)
-- [[XVIII - The Moon]] (unconscious, the night-sea journey)
+- [[The Empress (III)]] (Great Mother, nurturing matrix)
+- [[The Moon (XVIII)]] (unconscious, the night-sea journey)
 
 **Astrology:**
 - [[Moon ☽]] (mother, unconscious, emotional foundation)
@@ -292,9 +292,9 @@ A **coherent Ego** capable of observing the world without being overwhelmed by i
 - [[4th House]] (roots, family, foundation)
 
 **Human Design:**
-- [[G-Center]] (identity, love, direction—core sense of self)
-- [[Sacral Center]] (life force, vitality, response to world)
-- [[Emotional Solar Plexus]] (wave of emotional maturation)
+- [[G Center]] (identity, love, direction—core sense of self)
+- [[Sacral]] (life force, vitality, response to world)
+- [[Solar Plexus]] (wave of emotional maturation)
 
 #### Mythology
 - [[Greek Mythology]] (Dionysus, Perseus as Divine Child)
@@ -303,15 +303,15 @@ A **coherent Ego** capable of observing the world without being overwhelmed by i
 
 **Fairy Tales:**
 - [[Hansel and Gretel]] (separation from parents, defeating devouring mother)
-- [[Sleeping Beauty]] (ego in stasis, awaiting awakening)
+- Sleeping Beauty (ego in stasis, awaiting awakening)
 
 **Related Concepts:**
-- [[Uroboros]] (the great round, undifferentiated unity)
+- Uroboros (the great round, undifferentiated unity)
 - [[Participation Mystique]] (unconscious identity with environment)
-- [[Mother Complex]] (failure to separate from mother archetype)
-- [[Puer Aeternus]] (eternal child, refusal to grow up)
+- Mother Complex (failure to separate from mother archetype)
+- Puer Aeternus (eternal child, refusal to grow up)
 - [[Object Permanence]] (developmental milestone of separation)
-- [[Ego-Self Axis]] (relationship between ego and totality)
+- Ego-Self Axis (relationship between ego and totality)
 
 ---
 

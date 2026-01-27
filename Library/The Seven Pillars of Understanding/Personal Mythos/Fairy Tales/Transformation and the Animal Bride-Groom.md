@@ -321,7 +321,7 @@ The figure who casts the curse is almost always **feminine**:
 - Aphrodite (Psyche—she curses Psyche to marry a monster out of jealousy)
 - The Witch (various tales)
 
-This is the **Terrible Mother**—the devouring, jealous, controlling aspect of the [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] archetype. She represents:
+This is the **Terrible Mother**—the devouring, jealous, controlling aspect of the [[The Great Mother]] archetype. She represents:
 
 - The **negative mother complex** (the mother who cannot release the child)
 - The **patriarchal feminine** (the woman who enforces patriarchy's rejection of the wild)
@@ -885,7 +885,7 @@ The figure who casts the curse is almost always **feminine**:
 - Aphrodite (Psyche—cursing her out of jealousy)
 - The Witch (various)
 
-This is the **Terrible Mother**—the devouring, jealous, controlling aspect of [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] archetype. She represents:
+This is the **Terrible Mother**—the devouring, jealous, controlling aspect of [[The Great Mother]] archetype. She represents:
 
 - The **negative mother complex** (the mother who cannot release the child)
 - The **patriarchal feminine** (the woman who enforces patriarchy's rejection of the wild)
@@ -1403,14 +1403,14 @@ Every human being must reconcile with the "animal within" to become whole.
 ## Internal Links and Cross-References
 
 ### Jungian Archetypes
-- [[Folklore/Jungian Archetypes/The Anima]] — Feminine soul-image; the Beast as contaminated Anima
-- [[Folklore/Jungian Archetypes/The Animus]] — Masculine soul-image; the animal groom in women's psyche
-- [[Folklore/Jungian Archetypes/The Shadow]] — Rejected instinctual self; must be integrated before Anima work
-- [[Folklore/Jungian Archetypes/The Self]] — Totality; product of the Coniunctio
-- [[Folklore/Jungian Archetypes/The Great Mother]] — The witch/stepmother as Terrible Mother
+- [[The Anima]] — Feminine soul-image; the Beast as contaminated Anima
+- [[The Animus]] — Masculine soul-image; the animal groom in women's psyche
+- [[The Shadow]] — Rejected instinctual self; must be integrated before Anima work
+- [[The Self]] — Totality; product of the Coniunctio
+- [[The Great Mother]] — The witch/stepmother as Terrible Mother
 - [[The Wise Old Man]] — The father/king who enforces the promise
-- [[Folklore/Jungian Archetypes/The Divine Child]] — Product of the Sacred Marriage (Voluptas)
-- [[Folklore/Jungian Archetypes/The Persona]] — What the ego presents vs. what it represses (the beast)
+- [[The Divine Child]] — Product of the Sacred Marriage (Voluptas)
+- [[The Persona]] — What the ego presents vs. what it represses (the beast)
 - [[The Syzygy]] — Sacred union of opposites; the Coniunctio
 
 ### Hero's Journey Stages
@@ -1420,8 +1420,8 @@ Every human being must reconcile with the "animal within" to become whole.
 - [[The Ordeal]] — The transformation crisis (Beast dying, Eros fleeing)
 - [[The Reward]] — The transformation, the Sacred Marriage
 - [[Return with the Elixir]] — The gift of integration brought back to the world
-- [[The Meeting with the Goddess]] — Beauty encountering the Beast, Psyche meeting Eros
-- [[The Sacred Marriage]] — The hieros gamos, the Coniunctio
+- [[The Reward]] — Beauty encountering the Beast, Psyche meeting Eros
+- The Sacred Marriage — The hieros gamos, the Coniunctio
 
 ### Individuation Process
 - [[Confrontation with Shadow]] — The Beast as rejected instinct
@@ -1433,23 +1433,23 @@ Every human being must reconcile with the "animal within" to become whole.
 - [[Nigredo]] — The curse, the beast form, the exile
 - [[Albedo]] — Purification through love, the tears
 - [[Rubedo]] — Transformation into prince, the Sacred Marriage
-- [[Coniunctio]] — The alchemical wedding, union of opposites
-- [[Solutio]] — Dissolution in tears, emotional surrender
-- [[The White Queen]] — Beauty, Psyche, the purified Anima
+- Coniunctio — The alchemical wedding, union of opposites
+- Solutio — Dissolution in tears, emotional surrender
+- The White Queen — Beauty, Psyche, the purified Anima
 - [[The Red King]] — The Beast, the instinctual masculine
 
 ### Tarot
-- [[The Lovers]] — Choice, union of opposites, the Sacred Marriage
-- [[Strength]] — Embracing the lion (beast), love over force
+- [[The Lovers (VI)]] — Choice, union of opposites, the Sacred Marriage
+- [[Strength (VIII)]] — Embracing the lion (beast), love over force
 - [[Lust]] — Erotic integration, riding the beast
-- [[Temperance]] — Alchemical union, balance of opposites
-- [[The Devil]] — Bondage to instinct (shadow), liberation through integration
-- [[The High Priestess]] — The mystery, the prohibition against looking
-- [[The Empress]] — Fertility, embodiment, the sacred feminine
-- [[The Star]] — Hope through the ordeal, guidance through darkness
-- [[The Moon]] — Realm of the unconscious, the water where the Selkie dwells
-- [[Death]] — Transformation, the Beast's death and rebirth
-- [[The World]] — Completion, the hieros gamos, the Self
+- [[Temperance (XIV)]] — Alchemical union, balance of opposites
+- [[The Devil (XV)]] — Bondage to instinct (shadow), liberation through integration
+- [[The High Priestess (II)]] — The mystery, the prohibition against looking
+- [[The Empress (III)]] — Fertility, embodiment, the sacred feminine
+- [[The Star (XVII)]] — Hope through the ordeal, guidance through darkness
+- [[The Moon (XVIII)]] — Realm of the unconscious, the water where the Selkie dwells
+- [[Death (XIII)]] — Transformation, the Beast's death and rebirth
+- [[The World (XXI)]] — Completion, the hieros gamos, the Self
 
 ### Astrology
 - [[Venus ♀]] — Erotic Anima, desire, beauty, Eros
@@ -1462,12 +1462,12 @@ Every human being must reconcile with the "animal within" to become whole.
 - [[Libra ♎]] — Balance, relationship, the choice (The Lovers)
 
 ### Human Design
-- [[Gate 59 - Sexuality]] — Intimacy, union, the "Aura Breaker"
-- [[Sacral Center]] — Life force, erotic energy, the body's yes/no
-- [[Solar Plexus Center]] — Emotional wave, desire, the ordeal
+- [[Gate 59 - Dispersion]] — Intimacy, union, the "Aura Breaker"
+- [[Sacral]] — Life force, erotic energy, the body's yes/no
+- [[Solar Plexus]] — Emotional wave, desire, the ordeal
 - [[Emotional Authority]] — Waiting through the wave, endurance
-- [[Defined vs Undefined Centers]] — Projection and conditioning dynamics
-- [[Gate 6 - Conflict]] — Intimate friction, the beast's demand
+- [[Centers]] — Projection and conditioning dynamics
+- [[Gate 06 - Conflict]] — Intimate friction, the beast's demand
 - [[Channel 59-6]] — Intimacy, reproduction, the drive for union
 
 ### Mythology & Fairy Tales
@@ -1475,7 +1475,7 @@ Every human being must reconcile with the "animal within" to become whole.
 - [[Folklore/Fairy Tales/Frog Prince]] — Violent confrontation
 - [[Folklore/Fairy Tales/Cinderella]] — The rejected self becomes the bride
 - [[Folklore/Fairy Tales/Snow White]] — The pure Anima persecuted
-- [[Folklore/Fairy Tales/Rapunzel]] — The captive Anima freed
+- [[Rapunzel]] — The captive Anima freed
 - [[Folklore/Fairy Tales/Bluebeard]] — The predator vs. the transformable beast
 - [[Folklore/Fairy Tales/Hansel and Gretel]] — The devouring witch (Terrible Mother)
 - [[Greek Mythology]] — Persephone and Hades, Cupid and Psyche, Dionysus
@@ -1483,22 +1483,22 @@ Every human being must reconcile with the "animal within" to become whole.
 - [[Celtic Mythology]] — The Selkie, Swan Maiden, Tam Lin
 
 ### The Window (I-Ching)
-- [[Hexagram 31 - Influence]] — Attraction, courtship, wooing
-- [[Hexagram 44 - Coming to Meet]] — The feminine rising to meet the masculine
-- [[Hexagram 29 - The Abysmal]] — Descent into the depths (ordeal)
-- [[Hexagram 59 - Dispersion]] — Breaking down barriers (Gate 59)
+- Hexagram 31 - Influence — Attraction, courtship, wooing
+- Hexagram 44 - Coming to Meet — The feminine rising to meet the masculine
+- Hexagram 29 - The Abysmal — Descent into the depths (ordeal)
+- Hexagram 59 - Dispersion — Breaking down barriers (Gate 59)
 
 ### Related Concepts
-- [[Projection]] — Mechanism of Anima/Animus operation
-- [[Active Imagination]] — Dialoguing with the beast, the soul-image
+- Projection — Mechanism of Anima/Animus operation
+- Active Imagination — Dialoguing with the beast, the soul-image
 - [[The Collective Unconscious]] — Source of archetypal patterns
 - [[Synchronicity]] — The animal appearing in waking life
 - [[The Transcendent Function]] — Holding opposites births the Self
 - [[Inflation]] — Identifying with the archetype (becoming the beast)
-- [[Eros and Logos]] — Anima carries Eros (relatedness, love)
-- [[The Mother Complex]] — The witch/stepmother as negative mother
-- [[The Hieros Gamos]] — Sacred Marriage, alchemical union
-- [[The Unus Mundus]] — The unified world before the split
+- Eros and Logos — Anima carries Eros (relatedness, love)
+- The Mother Complex — The witch/stepmother as negative mother
+- The Hieros Gamos — Sacred Marriage, alchemical union
+- The Unus Mundus — The unified world before the split
 
 ---
 

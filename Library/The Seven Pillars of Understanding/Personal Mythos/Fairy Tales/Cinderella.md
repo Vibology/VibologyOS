@@ -68,7 +68,7 @@ The tale begins with **catastrophic loss**: the mother who loves and protects th
 
 Psychologically, the Good Mother represents:
 
-- **The positive [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother|Great Mother]]** – Nourishing, blessing, protective
+- **The positive [[The Great Mother]]** – Nourishing, blessing, protective
 - **The foundation of self-worth** – The child who has been loved *knows* she is valuable, even when external voices deny it
 - **The internalized voice of guidance** – The dying mother's gift (the doll) externalizes the **mother-imago** now carried within, a piece of soul-wisdom that survives death
 
@@ -405,17 +405,17 @@ Once a woman has been to Baba Yaga and earned the fire, she **cannot return to t
 
 ### Tarot
 
-**[[The Star]] (Key XVII)** – The guiding light in the darkness, hope maintained through the dark night. Cinderella at the hearth, tending the inner flame, trusting the doll's guidance even when all seems lost.
+**[[The Star (XVII)]] (Key XVII)** – The guiding light in the darkness, hope maintained through the dark night. Cinderella at the hearth, tending the inner flame, trusting the doll's guidance even when all seems lost.
 
-**[[The Empress]] (Key III)** – The final realization: Cinderella as Queen, the soul enthroned, fertility and creativity restored. The Empress is the woman who has reclaimed her inner nobility, wearing the crown that was always hers.
+**[[The Empress (III)]] (Key III)** – The final realization: Cinderella as Queen, the soul enthroned, fertility and creativity restored. The Empress is the woman who has reclaimed her inner nobility, wearing the crown that was always hers.
 
-**[[Justice]] (Key XI)** – The sorting, the weighing, the discrimination. Justice holds the scales and the sword—separating truth from illusion, meting out consequence. The stepsisters are blinded (Grimm) or burned (Vasilisa) not from vengeance but from **cosmic law**: falsity cannot survive the Self's emergence.
+**[[Justice (XI)]] (Key XI)** – The sorting, the weighing, the discrimination. Justice holds the scales and the sword—separating truth from illusion, meting out consequence. The stepsisters are blinded (Grimm) or burned (Vasilisa) not from vengeance but from **cosmic law**: falsity cannot survive the Self's emergence.
 
-**[[Death]] (Key XIII)** – The Good Mother's death, the initiating loss. Also the death of the false self (stepfamily incinerated), making way for resurrection (Cinderella as Queen).
+**[[Death (XIII)]] (Key XIII)** – The Good Mother's death, the initiating loss. Also the death of the false self (stepfamily incinerated), making way for resurrection (Cinderella as Queen).
 
-**[[Temperance]] (Key XIV)** – The alchemical process: ashes (Nigredo) transformed into gold (Rubedo). The angel mixing opposites (degradation and nobility, outer rags and inner radiance) until they synthesize into wholeness.
+**[[Temperance (XIV)]] (Key XIV)** – The alchemical process: ashes (Nigredo) transformed into gold (Rubedo). The angel mixing opposites (degradation and nobility, outer rags and inner radiance) until they synthesize into wholeness.
 
-**[[The Moon]] (Key XVIII)** – The midnight flight from the ball, the liminal zone between worlds. The moon governs tides, cycles, the unconscious—the pull back to the hearth before the final integration.
+**[[The Moon (XVIII)]] (Key XVIII)** – The midnight flight from the ball, the liminal zone between worlds. The moon governs tides, cycles, the unconscious—the pull back to the hearth before the final integration.
 
 ### Alchemy
 
@@ -433,7 +433,7 @@ Once a woman has been to Baba Yaga and earned the fire, she **cannot return to t
 
 ### Jungian Archetypes
 
-**[[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]]** – In dual aspect:
+**[[The Great Mother]]** – In dual aspect:
 - **Good Mother** (blessing, doll, protection) vs. **Terrible Mother** (stepmother, devouring, persecution)
 - **Baba Yaga as Wild Mother**, beyond good and evil, the Life/Death/Life force
 
@@ -443,17 +443,17 @@ Once a woman has been to Baba Yaga and earned the fire, she **cannot return to t
 
 **[[The Idol]]** – The Prince as positive Animus, capable of recognizing essence. Also the passive father as failed Animus, unable to protect the soul.
 
-**[[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]]** – The implicit result of the marriage: the new Self, innocent yet wise, born from the union of opposites.
+**[[The Divine Child]]** – The implicit result of the marriage: the new Self, innocent yet wise, born from the union of opposites.
 
-**[[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Persona]]** – The stepsisters' false beauty (painted faces, cut feet), the ego's desperate performance to win love. Destroyed by the Prince's test (slipper) and the doves' truth-telling (pecked eyes).
+**[[The Persona]]** – The stepsisters' false beauty (painted faces, cut feet), the ego's desperate performance to win love. Destroyed by the Prince's test (slipper) and the doves' truth-telling (pecked eyes).
 
 ### Mythology
 
-**[[Psyche and Eros]]** – Near-identical structure: Psyche must complete impossible tasks (sorting grain, fetching golden fleece, descending to underworld) to reunite with Eros (the divine masculine). Both tales encode the soul's ordeal to earn the marriage with the god.
+**Psyche and Eros** – Near-identical structure: Psyche must complete impossible tasks (sorting grain, fetching golden fleece, descending to underworld) to reunite with Eros (the divine masculine). Both tales encode the soul's ordeal to earn the marriage with the god.
 
-**[[Persephone and Demeter]]** – The Good Mother (Demeter) loses the Maiden (Persephone) to the underworld (Hades/stepfamily/Baba Yaga's hut). The Maiden must learn to be Queen of the depths, integrating the Death aspect of the Great Mother.
+**Persephone and Demeter** – The Good Mother (Demeter) loses the Maiden (Persephone) to the underworld (Hades/stepfamily/Baba Yaga's hut). The Maiden must learn to be Queen of the depths, integrating the Death aspect of the Great Mother.
 
-**[[Inanna's Descent]]** – Inanna stripped of her regalia, killed, hung on a hook in the underworld—the same pattern as Cinderella stripped, degraded, reduced to ashes. Both must **die to the old identity** to be reborn as Sovereign.
+**Inanna's Descent** – Inanna stripped of her regalia, killed, hung on a hook in the underworld—the same pattern as Cinderella stripped, degraded, reduced to ashes. Both must **die to the old identity** to be reborn as Sovereign.
 
 ### Human Design
 
@@ -588,34 +588,34 @@ Write a dialogue between yourself and your inner stepmother. Let her speak:
 
 ## Cross-References
 #### Archetypal Figures
-[[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] • [[The Alchemist]] • [[The Idol]] • [[The Shadow]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Persona]] • [[The Wise Old Man]]
+[[The Great Mother]] • [[The Alchemist]] • [[The Idol]] • [[The Shadow]] • [[The Divine Child]] • [[The Persona]] • [[The Wise Old Man]]
 
 **Jungian Concepts:**
-[[Individuation]] • [[Shadow Integration]] • [[Coniunctio]] • [[Nigredo]] • [[Albedo]] • [[Rubedo]] • [[Transcendent Function]] • [[Active Imagination]] • [[Syzygy]]
+Individuation • Shadow Integration • Coniunctio • [[Nigredo]] • [[Albedo]] • [[Rubedo]] • [[The Transcendent Function]] • Active Imagination • Syzygy
 
 **Tarot Keys:**
-[[The Star]] • [[The Empress]] • [[Justice]] • [[Death]] • [[Temperance]] • [[The Moon]] • [[Strength]] • [[The Lovers]]
+[[The Star (XVII)]] • [[The Empress (III)]] • [[Justice (XI)]] • [[Death (XIII)]] • [[Temperance (XIV)]] • [[The Moon (XVIII)]] • [[Strength (VIII)]] • [[The Lovers (VI)]]
 
 #### Alchemical Stages
-[[Nigredo]] • [[Albedo]] • [[Citrinitas]] • [[Rubedo]] • [[Solve et Coagula]] • [[Philosopher's Stone]] • [[Coniunctio]] • [[Prima Materia]]
+[[Nigredo]] • [[Albedo]] • [[Citrinitas]] • [[Rubedo]] • Solve et Coagula • Philosopher's Stone • Coniunctio • Prima Materia
 
 #### Mythological Parallels
-[[Psyche and Eros]] • [[Persephone and Demeter]] • [[Inanna's Descent]] • [[Orpheus and Eurydice]] • [[Hades and Persephone]]
+Psyche and Eros • Persephone and Demeter • Inanna's Descent • Orpheus and Eurydice • Hades and Persephone
 
 #### Fairy Tale Motifs
-[[The Dead Mother]] • [[The Helpful Animal]] • [[The Impossible Task]] • [[The Magic Object]] • [[The Recognition Token]] • [[The Transformed Bride]]
+[[The Dead Mother]] • The Helpful Animal • The Impossible Task • The Magic Object • The Recognition Token • [[The Transformed Bride]]
 
 #### Related Tales
-[[Beauty and the Beast]] • [[Snow White]] • [[The Handless Maiden]] • [[Vasilisa the Beautiful]] • [[Allerleirauh]] • [[Cap O' Rushes]] • [[The Goose Girl]]
+[[Beauty and the Beast]] • [[Snow White]] • The Handless Maiden • Vasilisa the Beautiful • Allerleirauh • Cap O' Rushes • The Goose Girl
 
 **Hero's Journey / Individuation Process:**
 [[Confrontation with Shadow]] • [[Encounter with Anima-Animus]] • [[Confrontation with the Self]] • [[Integration and Wholeness]] • [[The Ordeal]] • [[Return with the Elixir]]
 
 **Human Design:**
-[[Sacral Center]] • [[Emotional Authority]] • [[Spleen Center]] • [[G-Center]] • [[Tribal Circuitry]]
+[[Sacral]] • [[Emotional Authority]] • [[Spleen]] • [[G Center]] • Tribal Circuitry
 
 **I-Ching / The Window:**
-[[Hexagram 5 - Waiting]] • [[Hexagram 29 - The Abysmal]] • [[Hexagram 37 - The Family]] • [[Hexagram 50 - The Caldron]]
+Hexagram 5 - Waiting • Hexagram 29 - The Abysmal • Hexagram 37 - The Family • Hexagram 50 - The Caldron
 
 ---
 

@@ -614,9 +614,9 @@ Separation is differentiation. Without it, there is only unconscious fusion (par
 ### Related Archetypes
 - [[The Wise Old Man]] - The discriminating elder who separates truth from illusion
 - [[The Shadow]] - What must be separated from projection and integrated
-- [[Folklore/Jungian Archetypes/The Anima]] - Inner feminine often projected; Separation withdraws the projection
-- [[Folklore/Jungian Archetypes/The Animus]] - Inner masculine often projected; requires discrimination to integrate
-- [[Folklore/Jungian Archetypes/The Hero]] - Must learn to discriminate ally from enemy (Tests stage)
+- [[The Anima]] - Inner feminine often projected; Separation withdraws the projection
+- [[The Animus]] - Inner masculine often projected; requires discrimination to integrate
+- [[The Hero]] - Must learn to discriminate ally from enemy (Tests stage)
 - [[Persona Development]] - What Separation distinguishes from the true Self
 
 ### Related Alchemical Operations
@@ -633,8 +633,8 @@ Separation is differentiation. Without it, there is only unconscious fusion (par
 - [[Crossing the First Threshold]] - Leaving the known, entering the unknown
 
 ### Related Tarot
-- [[Justice]] - The scales of discrimination and balanced judgment (Major Arcana)
-- [[The Magician]] - Master of separating and recombining the elements (Major Arcana)
+- [[Justice (XI)]] - The scales of discrimination and balanced judgment (Major Arcana)
+- [[The Magician (I)]] - Master of separating and recombining the elements (Major Arcana)
 - [[Ace of Swords]] - The pure intellect, discriminating mind
 - [[Two of Swords]] - The decision point; must separate one path from another
 - [[Queen of Swords]] - Embodiment of clear, discriminating intellect
@@ -642,7 +642,7 @@ Separation is differentiation. Without it, there is only unconscious fusion (par
 - [[King of Swords]] - Mastery of intellectual discrimination, fair judgment
 
 ### Related Astrology
-- [[Astrology/Planets/Mercury # ☿]] - Planet of intellect, communication, and discrimination
+- [[Mercury ☿]] - Planet of intellect, communication, and discrimination
 - [[Saturn ♄]] - Planet of boundaries, structure, and separation
 - [[Uranus ♅]] - Sudden clarity, breakthrough insight, cutting away the old
 - [[Gemini ♊]] - Sign of mental discrimination, duality, sorting
@@ -653,12 +653,12 @@ Separation is differentiation. Without it, there is only unconscious fusion (par
 - [[6th House]] - House of work, service, analytical refinement
 
 ### Related Human Design
-- [[Ajna Center]] - The center of mental clarity, conceptualization, and certainty
-- [[Throat Center]] - The center of expression, articulation of discrimination
-- [[Gate 4]] - Mental Solutions (Ajna) - Formulating mental clarity
-- [[Gate 17]] - Opinions (Ajna) - Following ideas through mental discrimination
-- [[Gate 20]] - The Now (Throat) - Contemplation and presence (witnessing)
-- [[Gate 47]] - Realization (Ajna) - Abstract mental clarity over time
+- [[Ajna]] - The center of mental clarity, conceptualization, and certainty
+- [[Throat]] - The center of expression, articulation of discrimination
+- [[Gate 04 - Youthful Folly]] - Mental Solutions (Ajna) - Formulating mental clarity
+- [[Gate 17 - Following]] - Opinions (Ajna) - Following ideas through mental discrimination
+- [[Gate 20 - Contemplation]] - The Now (Throat) - Contemplation and presence (witnessing)
+- [[Gate 47 - Oppression]] - Realization (Ajna) - Abstract mental clarity over time
 
 ### Related Angelology
 - [[Cherubim]] - Guardians of sacred thresholds, separating holy from profane
@@ -667,15 +667,15 @@ Separation is differentiation. Without it, there is only unconscious fusion (par
 - [[Uriel]] - Archangel of wisdom and illumination (light of discrimination)
 
 ### Related Folklore & Mythology
-- [[Athena]] (when created) - Goddess of wisdom, strategy, and discrimination
+- Athena (when created) - Goddess of wisdom, strategy, and discrimination
 - [[The Sword]] (when created) - Universal symbol of Separation and discernment
 - [[The Scales]] (when created) - Universal symbol of weighing, judgment, balance
 - [[Mercury/Hermes]] (when created) - Trickster and messenger, separator and connector
-- [[The Personal Myth]] (when created) - How Separation appears in individual story
+- [[Personal Mythos]] (when created) - How Separation appears in individual story
 
 ### Related I-Ching & The Window
-- [[Hexagram 20 - Contemplation]] - Observing, witnessing, gaining perspective
-- [[Hexagram 43 - Breakthrough]] - Resoluteness, cutting away the old
+- Hexagram 20 - Contemplation - Observing, witnessing, gaining perspective
+- Hexagram 43 - Breakthrough - Resoluteness, cutting away the old
 - [[The Window]] (when created) - Contemporary oracle system integrating I-Ching wisdom
 
 ---

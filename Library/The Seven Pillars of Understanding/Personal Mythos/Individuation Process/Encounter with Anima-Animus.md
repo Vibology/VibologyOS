@@ -305,13 +305,13 @@ A **soul-connected individual** who has built the bridge between ego and unconsc
 ## Cross-References
 
 **Jungian Archetypes:**
-- [[Folklore/Jungian Archetypes/The Anima]] (primary archetype of this stage for men)
-- [[Folklore/Jungian Archetypes/The Animus]] (primary archetype of this stage for women)
+- [[The Anima]] (primary archetype of this stage for men)
+- [[The Animus]] (primary archetype of this stage for women)
 - [[The Shadow]] (must be integrated before Anima/Animus work)
-- [[Folklore/Jungian Archetypes/The Self]] (the Anima/Animus is the bridge to the Self)
-- [[Folklore/Jungian Archetypes/The Divine Child]] (product of the sacred marriage)
+- [[The Self]] (the Anima/Animus is the bridge to the Self)
+- [[The Divine Child]] (product of the sacred marriage)
 - [[The Wise Old Man]] (mature Animus)
-- [[Folklore/Jungian Archetypes/The Great Mother]] (contains the Anima)
+- [[The Great Mother]] (contains the Anima)
 
 **Hero's Journey:**
 - [[The Reward]] (claiming the bride, the sacred marriage)
@@ -326,14 +326,14 @@ A **soul-connected individual** who has built the bridge between ego and unconsc
 - [[Albedo]] (primary operation of this stage—whitening, purification)
 - [[Nigredo]] (preceded this—blackening, shadow work)
 - [[Rubedo]] (follows this—reddening, union with Self)
-- [[Coniunctio]] (sacred marriage of opposites)
+- Coniunctio (sacred marriage of opposites)
 
 **Tarot:**
-- [[II - The High Priestess]] (Anima—mystery, intuition, soul)
-- [[V - The Hierophant]] (Animus—tradition, logos, authority)
-- [[VI - The Lovers]] (union, choice, sacred marriage)
-- [[XIV - Temperance]] (alchemy, blending opposites)
-- [[XVII - The Star]] (Anima as muse, hope, inspiration)
+- [[The High Priestess (II)]] (Anima—mystery, intuition, soul)
+- [[The Hierophant (V)]] (Animus—tradition, logos, authority)
+- [[The Lovers (VI)]] (union, choice, sacred marriage)
+- [[Temperance (XIV)]] (alchemy, blending opposites)
+- [[The Star (XVII)]] (Anima as muse, hope, inspiration)
 
 **Astrology:**
 - [[Venus ♀]] (Anima—desire, beauty, eros, attraction)
@@ -343,11 +343,11 @@ A **soul-connected individual** who has built the bridge between ego and unconsc
 - [[7th House]] (partnerships, projection, the other as mirror)
 
 **Human Design:**
-- [[Emotional Solar Plexus]] (soul-feeling, emotional wave, depth)
-- [[Splenic Center]] (intuition, instinct, spontaneous knowing)
-- [[G-Center]] (love, direction, identity, soul's compass)
-- [[Gate 13]] (The Listener—receptivity to collective narratives)
-- [[Gate 55]] (Abundance—emotional depth and spirit)
+- [[Solar Plexus]] (soul-feeling, emotional wave, depth)
+- [[Spleen]] (intuition, instinct, spontaneous knowing)
+- [[G Center]] (love, direction, identity, soul's compass)
+- [[Gate 13 - The Fellowship of Man]] (The Listener—receptivity to collective narratives)
+- [[Gate 55 - Abundance]] (Abundance—emotional depth and spirit)
 
 #### Mythology
 - [[Greek Mythology]] (Psyche & Eros, Orpheus & Eurydice)
@@ -357,19 +357,19 @@ A **soul-connected individual** who has built the bridge between ego and unconsc
 
 **Fairy Tales:**
 - [[Beauty and the Beast]] (accepting the beastly/instinctual)
-- [[The Frog Prince]] (honoring the soul's demand)
+- [[Frog Prince]] (honoring the soul's demand)
 - [[Bluebeard]] (shadow of Animus—murderous masculine)
-- [[The Handless Maiden]] (reclaiming agency and logos)
+- The Handless Maiden (reclaiming agency and logos)
 
 **Related Concepts:**
-- [[Projection]] (seeing soul in others)
-- [[Active Imagination]] (dialoguing with soul-image)
-- [[Sacred Marriage]] (*Hierosgamos*)
-- [[Syzygy]] (divine couple, union of opposites)
+- Projection (seeing soul in others)
+- Active Imagination (dialoguing with soul-image)
+- Sacred Marriage (*Hierosgamos*)
+- Syzygy (divine couple, union of opposites)
 - [[Muse]] (Anima as creative source)
-- [[Eros]] (relatedness, soul, feminine principle)
+- Eros (relatedness, soul, feminine principle)
 - [[Logos]] (meaning, word, masculine principle)
-- [[Psychopomp]] (guide between worlds)
+- Psychopomp (guide between worlds)
 
 ---
 

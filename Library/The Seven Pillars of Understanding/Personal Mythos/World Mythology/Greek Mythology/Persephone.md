@@ -67,7 +67,7 @@ Persephone holds the paradox of **innocence and sovereignty**—the flower-picki
 
 ### Within Personal Mythos
 - **Greek Mythology Overview:** [[Greek Mythology]]
-- **Related Deities:** [[Hades]] (consort/abductor), [[Demeter]] (mother), [[Zeus]] (father)
+- **Related Deities:** [[Hades]] (consort/abductor), Demeter (mother), [[Zeus]] (father)
 - **Eleusinian Mysteries:** Central figure in initiation rites
 
 ### Cross-System Integration

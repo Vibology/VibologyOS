@@ -52,7 +52,7 @@ Campbell built explicitly on Jung's work. The Hero's Journey corresponds to:
 
 - **[[The Hero]]** — The ego-archetype that undertakes the journey
 - **[[The Shadow]]** — Encountered in trials and the Ordeal
-- **[[Anima and Animus]]** — Often appears as the Goddess or the Beloved
+- **[[Encounter with Anima-Animus]]** — Often appears as the Goddess or the Beloved
 - **[[The Self]]** — The ultimate goal, the "elixir" or "grail"
 - **[[The Wise Old Man]]** — The Mentor figure
 
@@ -88,7 +88,7 @@ The [[Deconditioning]] process mirrors the journey:
 - [[Individuation Process]] — The psychological parallel
 - [[The Fool's Journey]] — Tarot's version of the monomyth
 - [[The 30 Aethyrs]] — Enochian mapping
-- [[World Mythology]] — Cultural expressions of the pattern
+- [[Personal Mythos]] — Cultural expressions of the pattern
 
 ---
 

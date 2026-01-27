@@ -43,7 +43,7 @@ The children raid the witch's house, finding **chests of pearls and precious sto
 
 ### The Witch – The Terrible Mother / Devouring Aspect
 
-The witch is the **negative pole of the [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother|Great Mother]] archetype**, the mother who does not nurture but **consumes**. She embodies:
+The witch is the **negative pole of the [[The Great Mother]] archetype**, the mother who does not nurture but **consumes**. She embodies:
 
 - **Oral regression and engulfment** – The gingerbread house is the ultimate infantile fantasy: a world made entirely of food, a return to the breast, the womb, the state of total dependency
 - **The too-good mother** – She offers unlimited sweetness, comfort, safety—*too good to be true*, because it is a trap
@@ -347,13 +347,13 @@ The tale teaches men: **logos alone cannot defeat the mother-complex**. You need
 
 ### The Sibling Bond as Proto-Syzygy
 
-Unlike romantic fairy tales ([[Beauty and the Beast]], [[The Frog Prince]]), **Hansel and Gretel** features **sibling partnership**, the **pre-sexual union of masculine and feminine**:
+Unlike romantic fairy tales ([[Beauty and the Beast]], [[Frog Prince]]), **Hansel and Gretel** features **sibling partnership**, the **pre-sexual union of masculine and feminine**:
 
 - **Hansel = Logos** – Mapping, planning, rational deception (the bone)
 - **Gretel = Eros** – Relational cunning, instinctual timing, decisive action (the oven)
 - **Together = Survival** – Neither alone could escape; the psyche requires **both principles**
 
-This is the **child's rehearsal** for the later [[Coniunctio]]—the Sacred Marriage of [[The Muse|Anima]] and [[The Idol|Animus]] in mature individuation. The tale teaches that **consciousness is not masculine OR feminine but the cooperation of both**.
+This is the **child's rehearsal** for the later Coniunctio—the Sacred Marriage of [[The Muse|Anima]] and [[The Idol|Animus]] in mature individuation. The tale teaches that **consciousness is not masculine OR feminine but the cooperation of both**.
 
 ---
 
@@ -361,25 +361,25 @@ This is the **child's rehearsal** for the later [[Coniunctio]]—the Sacred Marr
 
 ### Tarot
 
-**[[The Devil]] (Key XV)** – The bondage to appetite, the chains of oral dependency. The gingerbread house is the Devil's card enacted: the lure of material pleasure that becomes a prison. The children's escape is the **liberation from false comfort**.
+**[[The Devil (XV)]] (Key XV)** – The bondage to appetite, the chains of oral dependency. The gingerbread house is the Devil's card enacted: the lure of material pleasure that becomes a prison. The children's escape is the **liberation from false comfort**.
 
-**[[The Tower]] (Key XVI)** – The witch's house is the Tower: the false structure (too-good mother) that must be **destroyed by fire** for truth to emerge. Gretel's act is the lightning bolt that shatters the illusion.
+**[[The Tower (XVI)]] (Key XVI)** – The witch's house is the Tower: the false structure (too-good mother) that must be **destroyed by fire** for truth to emerge. Gretel's act is the lightning bolt that shatters the illusion.
 
-**[[The Moon]] (Key XVIII)** – The forest, the night, the birds eating the breadcrumbs; the realm of **illusion, fear, regression**. The children must navigate the unconscious (the dark wood) to reach consciousness (home).
+**[[The Moon (XVIII)]] (Key XVIII)** – The forest, the night, the birds eating the breadcrumbs; the realm of **illusion, fear, regression**. The children must navigate the unconscious (the dark wood) to reach consciousness (home).
 
-**[[The Sun]] (Key XIX)** – The return home, the treasure, the reunion with the father; the emergence into **clarity, joy, conscious life** after the ordeal.
+**[[The Sun (XIX)]] (Key XIX)** – The return home, the treasure, the reunion with the father; the emergence into **clarity, joy, conscious life** after the ordeal.
 
-**[[Judgment]] (Key XX)** – The witch's burning as the **resurrection motif**; what is corrupt is burned away, what is pure emerges. The children rise from the ashes of the mother-complex.
+**[[Judgement (XX)]] (Key XX)** – The witch's burning as the **resurrection motif**; what is corrupt is burned away, what is pure emerges. The children rise from the ashes of the mother-complex.
 
 ### Mythology
 
-**[[Baba Yaga]]** – Slavic parallel: the witch in the forest who devours children, whose house has legs (mobility, uncanny presence). Both witches represent the **Terrible Mother**, the feminine that does not nurture but consumes.
+**Baba Yaga** – Slavic parallel: the witch in the forest who devours children, whose house has legs (mobility, uncanny presence). Both witches represent the **Terrible Mother**, the feminine that does not nurture but consumes.
 
-**[[Demeter and Persephone]]** – The separation from the mother (Demeter's grief, the children's abandonment) and the descent into the underworld (Hades, the witch's house). Both myths require the **death of the old maternal bond** for new life to emerge.
+**Demeter and Persephone** – The separation from the mother (Demeter's grief, the children's abandonment) and the descent into the underworld (Hades, the witch's house). Both myths require the **death of the old maternal bond** for new life to emerge.
 
-**[[Chronos Devouring His Children]]** – The archetypal **parent who consumes offspring** to preserve their own life/power. The witch is the feminine Chronos, eating children to sustain herself.
+**Chronos Devouring His Children** – The archetypal **parent who consumes offspring** to preserve their own life/power. The witch is the feminine Chronos, eating children to sustain herself.
 
-**[[Philomela and Procne]]** – Sisters who cooperate to escape and exact vengeance on the devouring masculine (Tereus). Parallel structure: sibling bond enables liberation from the archetype that would consume them.
+**Philomela and Procne** – Sisters who cooperate to escape and exact vengeance on the devouring masculine (Tereus). Parallel structure: sibling bond enables liberation from the archetype that would consume them.
 
 ### Alchemy
 
@@ -395,11 +395,11 @@ This is the **child's rehearsal** for the later [[Coniunctio]]—the Sacred Marr
 
 ### Jungian Archetypes
 
-**[[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]]** – Both poles: the stepmother (negative, abandoning) and the witch (negative, devouring). The tale insists on **destroying the toxic maternal imago**, not redeeming it.
+**[[The Great Mother]]** – Both poles: the stepmother (negative, abandoning) and the witch (negative, devouring). The tale insists on **destroying the toxic maternal imago**, not redeeming it.
 
 **[[The Shadow]]** – The witch as the **projected shadow** of the mother, the disowned aspect of maternal care (control, consumption, unconsciousness).
 
-**[[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]]** – Hansel and Gretel as the **archetypal children**, innocent yet capable, vulnerable yet resourceful. Their triumph is the **birth of the individuating ego**.
+**[[The Divine Child]]** – Hansel and Gretel as the **archetypal children**, innocent yet capable, vulnerable yet resourceful. Their triumph is the **birth of the individuating ego**.
 
 **[[The Alchemist]]** – The white duck as the **helper**, the Transcendent Function that guides the children across the threshold from unconscious to conscious.
 
@@ -496,34 +496,34 @@ This is the **child's rehearsal** for the later [[Coniunctio]]—the Sacred Marr
 
 ## Cross-References
 #### Archetypal Figures
-[[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] • [[The Shadow]] • [[The Muse]] • [[The Idol]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] • [[The Alchemist]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Hero]] • [[The Wise Old Man]] • [[The Terrible Mother]]
+[[The Great Mother]] • [[The Shadow]] • [[The Muse]] • [[The Idol]] • [[The Divine Child]] • [[The Alchemist]] • [[The Hero]] • [[The Wise Old Man]] • The Terrible Mother
 
 **Jungian Concepts:**
-[[Individuation]] • [[Shadow Integration]] • [[Mother Complex]] • [[Transcendent Function]] • [[Active Imagination]] • [[Projection]] • [[Regression]] • [[Libido]] • [[Syzygy]]
+Individuation • Shadow Integration • Mother Complex • [[The Transcendent Function]] • Active Imagination • Projection • Regression • Libido • Syzygy
 
 **Tarot Keys:**
-[[The Devil]] • [[The Tower]] • [[The Moon]] • [[The Sun]] • [[Judgment]] • [[Strength]] • [[Temperance]] • [[The Star]] • [[The Hermit]]
+[[The Devil (XV)]] • [[The Tower (XVI)]] • [[The Moon (XVIII)]] • [[The Sun (XIX)]] • [[Judgement (XX)]] • [[Strength (VIII)]] • [[Temperance (XIV)]] • [[The Star (XVII)]] • [[The Hermit (IX)]]
 
 #### Alchemical Stages
-[[Nigredo]] • [[Albedo]] • [[Rubedo]] • [[Calcinatio]] • [[Solve et Coagula]] • [[Philosopher's Stone]] • [[Prima Materia]] • [[Athanor]]
+[[Nigredo]] • [[Albedo]] • [[Rubedo]] • Calcinatio • Solve et Coagula • Philosopher's Stone • Prima Materia • Athanor
 
 #### Mythological Parallels
-[[Baba Yaga]] • [[Demeter and Persephone]] • [[Psyche and Eros]] • [[Chronos]] • [[Philomela and Procne]] • [[Bluebeard]] • [[The Juniper Tree]]
+Baba Yaga • Demeter and Persephone • Psyche and Eros • Chronos • Philomela and Procne • [[Bluebeard]] • The Juniper Tree
 
 #### Fairy Tale Motifs
-[[Abandonment in the Forest]] • [[The Devouring Witch]] • [[The Gingerbread House]] • [[Sibling Bond]] • [[The Treasure from the Underworld]] • [[The Helper Animal]] • [[The Wicked Stepmother]]
+Abandonment in the Forest • [[The Devouring Witch]] • [[The Gingerbread House]] • [[Sibling Bond]] • [[The Treasure from the Underworld]] • [[The Helper Animal]] • [[The Wicked Stepmother]]
 
 #### Human Design Connections
-[[Sacral Center]] • [[Spleen Center]] • [[Solar Plexus]] • [[Emotional Authority]] • [[Channel 27-50 - Preservation]] • [[Tribal Circuitry]]
+[[Sacral]] • [[Spleen]] • [[Solar Plexus]] • [[Emotional Authority]] • [[Channel 27-50 - Preservation]] • Tribal Circuitry
 
 #### Individuation Process
 [[Ego Formation and Childhood]] • [[Confrontation with Shadow]] • [[Encounter with Anima-Animus]] • [[Integration and Wholeness]] • [[Persona Development]]
 
 #### Hero's Journey Stages
-[[The Call to Adventure]] • [[Refusal of the Call]] • [[Crossing the First Threshold]] • [[Tests, Allies, and Enemies]] • [[The Ordeal]] • [[The Reward]] • [[The Road Back]] • [[The Resurrection]] • [[Return with the Elixir]]
+[[The Call to Adventure]] • [[Refusal of the Call]] • [[Crossing the First Threshold]] • [[Tests, Allies, and Enemies]] • [[The Ordeal]] • [[The Reward]] • The Road Back • [[The Resurrection]] • [[Return with the Elixir]]
 
 #### Related Tales
-[[Beauty and the Beast]] • [[Snow White]] • [[Sleeping Beauty]] • [[Little Red Riding Hood]] • [[The Juniper Tree]] • [[The Handless Maiden]] • [[Baba Yaga]] • [[Vasilisa the Beautiful]]
+[[Beauty and the Beast]] • [[Snow White]] • Sleeping Beauty • Little Red Riding Hood • The Juniper Tree • The Handless Maiden • Baba Yaga • Vasilisa the Beautiful
 
 ---
 

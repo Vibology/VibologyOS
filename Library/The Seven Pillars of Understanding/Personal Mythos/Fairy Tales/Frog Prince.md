@@ -284,7 +284,7 @@ Ultimately, the tale is a **Syzygy myth** (the union of masculine and feminine w
 - **Prince** (Animus, instinct-made-conscious, drive)
 - **Their union** – The integrated Self, the marriage of opposites
 
-This is the **alchemical wedding**, the *Coniunctio Oppositorum*, producing the [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child|Divine Child]] (the Self).
+This is the **alchemical wedding**, the *Coniunctio Oppositorum*, producing the [[The Divine Child]] (the Self).
 
 ---
 
@@ -292,15 +292,15 @@ This is the **alchemical wedding**, the *Coniunctio Oppositorum*, producing the 
 
 ### Tarot
 
-**[[The Tower]] (Key XVI)** – The shattering lightning bolt that destroys false structures. The throw against the wall is the Tower moment: the violent destruction of the neurotic shell (Frog-form) to liberate the trapped consciousness (Prince). The Tower represents **necessary crisis**, the moment when what cannot stand must fall.
+**[[The Tower (XVI)]] (Key XVI)** – The shattering lightning bolt that destroys false structures. The throw against the wall is the Tower moment: the violent destruction of the neurotic shell (Frog-form) to liberate the trapped consciousness (Prince). The Tower represents **necessary crisis**, the moment when what cannot stand must fall.
 
-**[[Strength]] (Key VIII/XI)** – The woman gently closing the lion's jaws. While this is the **opposite strategy** (gentleness vs. violence), both Strength and the Frog Prince address the same task: **integrating the animal nature**. Strength uses compassion; the Frog Prince uses confrontation. Both are valid paths depending on developmental stage.
+**[[Strength (VIII)]] (Key VIII/XI)** – The woman gently closing the lion's jaws. While this is the **opposite strategy** (gentleness vs. violence), both Strength and the Frog Prince address the same task: **integrating the animal nature**. Strength uses compassion; the Frog Prince uses confrontation. Both are valid paths depending on developmental stage.
 
-**[[Death]] (Key XIII)** – The Mortificatio, the death that precedes rebirth. The Frog's shell shatters (dies) so the Prince can emerge (resurrect). Death represents transformation through destruction of the old form.
+**[[Death (XIII)]] (Key XIII)** – The Mortificatio, the death that precedes rebirth. The Frog's shell shatters (dies) so the Prince can emerge (resurrect). Death represents transformation through destruction of the old form.
 
-**[[The Moon]] (Key XVIII)** – The descent into the unconscious waters, the realm of instinct and shadow. The golden ball falling into the well is the ego's descent into the Moon's domain, where the Frog (the creature of the abyss) dwells.
+**[[The Moon (XVIII)]] (Key XVIII)** – The descent into the unconscious waters, the realm of instinct and shadow. The golden ball falling into the well is the ego's descent into the Moon's domain, where the Frog (the creature of the abyss) dwells.
 
-**[[The Sun]] (Key XIX)** – The golden ball as solar symbol, the intact ego, childhood wholeness. The tale moves from Sun (innocence) to Moon (descent) to Tower (crisis) to Sun again (the Prince revealed, but now integrated with shadow).
+**[[The Sun (XIX)]] (Key XIX)** – The golden ball as solar symbol, the intact ego, childhood wholeness. The tale moves from Sun (innocence) to Moon (descent) to Tower (crisis) to Sun again (the Prince revealed, but now integrated with shadow).
 
 ### Alchemy
 
@@ -320,19 +320,19 @@ This is the **alchemical wedding**, the *Coniunctio Oppositorum*, producing the 
 
 **[[The Idol]]** – For the Princess, the Frog represents the unconscious masculine, the drive and instinctuality she must integrate to become whole.
 
-**[[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]]** – The implicit "child" of the marriage, the new consciousness born from the union of Princess (ego) and Prince (Animus).
+**[[The Divine Child]]** – The implicit "child" of the marriage, the new consciousness born from the union of Princess (ego) and Prince (Animus).
 
-**[[The Alchemist]]** – The Prince revealed, the integrated totality, the goal of [[Individuation]].
+**[[The Alchemist]]** – The Prince revealed, the integrated totality, the goal of Individuation.
 
-**[[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Hero]]** – Ironically, the Princess enacts a heroic journey: she loses her treasure, faces the loathly herald, resists the call, is forced by the father to cross the threshold, confronts the shadow (the Frog), undergoes the ordeal (the crisis of the throw), and returns transformed (married, adult).
+**[[The Hero]]** – Ironically, the Princess enacts a heroic journey: she loses her treasure, faces the loathly herald, resists the call, is forced by the father to cross the threshold, confronts the shadow (the Frog), undergoes the ordeal (the crisis of the throw), and returns transformed (married, adult).
 
 ### Mythology
 
-**[[Psyche and Eros]]** – Both tales involve a young woman confronting a mysterious masculine figure in the dark (Psyche forbidden to see Eros; the Princess forced to let the Frog into her bed). Both involve a crisis/betrayal followed by redemption and sacred marriage.
+**Psyche and Eros** – Both tales involve a young woman confronting a mysterious masculine figure in the dark (Psyche forbidden to see Eros; the Princess forced to let the Frog into her bed). Both involve a crisis/betrayal followed by redemption and sacred marriage.
 
-**[[Melusine]]** – The serpent-woman who transforms, often involving a prohibition and a violent breaking of enchantment. The Frog Prince is the masculine mirror: the male in animal form requiring crisis for transformation.
+**Melusine** – The serpent-woman who transforms, often involving a prohibition and a violent breaking of enchantment. The Frog Prince is the masculine mirror: the male in animal form requiring crisis for transformation.
 
-**[[Perseus and Medusa]]** – The hero who confronts the Gorgon (loathly feminine) and beheads her, releasing her hidden power. The Frog Prince reverses the gender but shares the pattern: confronting the repulsive releases the treasure.
+**Perseus and Medusa** – The hero who confronts the Gorgon (loathly feminine) and beheads her, releasing her hidden power. The Frog Prince reverses the gender but shares the pattern: confronting the repulsive releases the treasure.
 
 ### Human Design
 
@@ -448,25 +448,25 @@ Heinrich represents the **loyal unconscious**, the part of the psyche that **hol
 
 ## Cross-References
 #### Archetypal Figures
-[[The Shadow]] • [[The Muse]] • [[The Idol]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] • [[The Alchemist]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Hero]] • [[The Wise Old Man]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]]
+[[The Shadow]] • [[The Muse]] • [[The Idol]] • [[The Divine Child]] • [[The Alchemist]] • [[The Hero]] • [[The Wise Old Man]] • [[The Great Mother]]
 
 **Jungian Concepts:**
-[[Individuation]] • [[Shadow Integration]] • [[Coniunctio]] • [[Transcendent Function]] • [[Active Imagination]] • [[Projection]] • [[Syzygy]]
+Individuation • Shadow Integration • Coniunctio • [[The Transcendent Function]] • Active Imagination • Projection • Syzygy
 
 **Tarot Keys:**
-[[The Tower]] • [[Strength]] • [[Death]] • [[The Moon]] • [[The Sun]] • [[The Lovers]] • [[The Empress]] • [[The Emperor]]
+[[The Tower (XVI)]] • [[Strength (VIII)]] • [[Death (XIII)]] • [[The Moon (XVIII)]] • [[The Sun (XIX)]] • [[The Lovers (VI)]] • [[The Empress (III)]] • [[The Emperor (IV)]]
 
 #### Alchemical Stages
-[[Nigredo]] • [[Albedo]] • [[Rubedo]] • [[Solve et Coagula]] • [[Mortificatio]] • [[Solutio]] • [[Philosopher's Stone]] • [[Hieros Gamos]]
+[[Nigredo]] • [[Albedo]] • [[Rubedo]] • Solve et Coagula • Mortificatio • Solutio • Philosopher's Stone • Hieros Gamos
 
 #### Mythological Parallels
-[[Psyche and Eros]] • [[Beauty and the Beast]] • [[Melusine]] • [[Perseus and Medusa]] • [[East of the Sun, West of the Moon]] • [[Cupid and Psyche]]
+Psyche and Eros • [[Beauty and the Beast]] • Melusine • Perseus and Medusa • East of the Sun, West of the Moon • Cupid and Psyche
 
 #### Fairy Tale Motifs
-[[The Animal Bridegroom]] • [[The Enchanted Prince]] • [[The Curse and Redemption]] • [[The Golden Object]] • [[The Sacred Bargain]] • [[The Well and Spring]]
+The Animal Bridegroom • [[The Enchanted Prince]] • The Curse and Redemption • [[The Golden Object]] • [[The Sacred Bargain]] • [[The Well and Spring]]
 
 #### Human Design Connections
-[[Sacral Center]] • [[Sacral Authority]] • [[Emotional Authority]] • [[Root Center]] • [[Gate 59 - Intimacy]] • [[Channel 27-50 - Preservation]]
+[[Sacral]] • [[Sacral Authority]] • [[Emotional Authority]] • [[Root]] • [[Gate 59 - Dispersion]] • [[Channel 27-50 - Preservation]]
 
 #### Individuation Process
 [[Confrontation with Shadow]] • [[Encounter with Anima-Animus]] • [[Confrontation with the Self]] • [[Integration and Wholeness]]
@@ -475,7 +475,7 @@ Heinrich represents the **loyal unconscious**, the part of the psyche that **hol
 [[The Call to Adventure]] • [[Refusal of the Call]] • [[Crossing the First Threshold]] • [[The Ordeal]] • [[The Resurrection]] • [[Return with the Elixir]]
 
 #### Related Tales
-[[Beauty and the Beast]] • [[Snow White]] • [[Sleeping Beauty]] • [[The Handless Maiden]] • [[Rapunzel]] • [[Bluebeard]]
+[[Beauty and the Beast]] • [[Snow White]] • Sleeping Beauty • The Handless Maiden • [[Rapunzel]] • [[Bluebeard]]
 
 ---
 
@@ -485,7 +485,7 @@ Heinrich represents the **loyal unconscious**, the part of the psyche that **hol
 
 The tale encodes the psychological law that **sometimes passion, not compassion, breaks the spell**. Sometimes the neurotic structure is too rigid for gentle persuasion and requires a **shattering blow**—a crisis, a breakdown, an eruption of genuine emotion—to liberate the trapped consciousness. The King (Superego) plays the essential role of enforcing the psyche's law: **what you have promised, you must perform**. The adolescent cannot flee the shadow's demand; the door must be opened, the bargain honored, the Frog (instinct) integrated into conscious life.
 
-The tale concludes with the Sacred Marriage ([[Coniunctio]]), the union of Princess (ego) and Prince (Animus), producing the [[The Alchemist|Self]]—the integrated personality capable of intimacy, embodied consciousness, and the transition from the nursery to the bridal bed. The presence of Faithful Heinrich (Iron Henry) reminds us that even during neurotic dissociation, some deeper part of the psyche remains faithful, awaiting the moment of reunion and release.
+The tale concludes with the Sacred Marriage (Coniunctio), the union of Princess (ego) and Prince (Animus), producing the [[The Alchemist|Self]]—the integrated personality capable of intimacy, embodied consciousness, and the transition from the nursery to the bridal bed. The presence of Faithful Heinrich (Iron Henry) reminds us that even during neurotic dissociation, some deeper part of the psyche remains faithful, awaiting the moment of reunion and release.
 
 **Developmental Timing:** Puberty (12-16), the crisis of emerging sexuality and the shattering of childhood wholeness.
 

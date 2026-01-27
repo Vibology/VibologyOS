@@ -11,11 +11,6 @@ grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
 verification_notes: "Individual verification complete. Core mechanics (Ajna/Head Center source, Projectors only with undefined below Ajna hierarchy, Mental awareness principle) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
 # Mental Authority
-
----
-
-
-
 *The Intelligence of Environment*
 
 ---
@@ -77,7 +72,7 @@ If the environment feels "off," it is off—even if the mind says it "should" be
 
 ### 4. Allow Time
 
-Mental Authority does not operate on a fixed timeline (like [[Emotional Authority]]'s wave or [[Reflector]]'s lunar cycle), but it requires:
+Mental Authority does not operate on a fixed timeline (like [[Emotional Authority|Emotional Authority's]] wave or [[Reflector|Reflector's]] lunar cycle), but it requires:
 - **Multiple conversations** over days or weeks
 - **Sampling the environment** repeatedly
 - **Allowing clarity to emerge** through accumulated data
@@ -192,6 +187,7 @@ Individuals with Mental Authority bring:
 
 *Mental Authority is the intelligence of the environment—the recognition that truth is not found within but sampled from without. The mind is not your guide but your instrument, and clarity emerges not from thinking harder but from speaking, listening, and sensing the world around you. To trust the environment is to trust that your openness is not weakness but wisdom, and that the counsel of others and the feel of a space will reveal what your mind cannot.*
 
+---
 ## Sources
 
 Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.

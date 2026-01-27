@@ -833,23 +833,23 @@ The Anima interacts dynamically with other archetypal structures:
 
 ### Jungian Archetypes
 - [[The Shadow]] — Must be integrated before Anima work; Anima often contaminated by Shadow
-- [[Folklore/Jungian Archetypes/The Animus]] — Feminine soul-image's masculine counterpart; logos-bearer in women
-- [[Folklore/Jungian Archetypes/The Self]] — Anima is psychopomp leading ego to the Self
-- [[Folklore/Jungian Archetypes/The Great Mother]] — Anima can merge with mother-image (Eve stage)
+- [[The Animus]] — Feminine soul-image's masculine counterpart; logos-bearer in women
+- [[The Self]] — Anima is psychopomp leading ego to the Self
+- [[The Great Mother]] — Anima can merge with mother-image (Eve stage)
 - [[The Wise Old Man]] — Masculine parallel to Sophia Anima; guides wisdom
-- [[Folklore/Jungian Archetypes/The Hero]] — Anima is the beloved and goal of the hero's journey
-- [[Folklore/Jungian Archetypes/The Divine Child]] — Product of the Coniunctio (sacred marriage)
-- [[Folklore/Jungian Archetypes/The Persona]] — Outward mask; Anima is the inward bridge
+- [[The Hero]] — Anima is the beloved and goal of the hero's journey
+- [[The Divine Child]] — Product of the Coniunctio (sacred marriage)
+- [[The Persona]] — Outward mask; Anima is the inward bridge
 - [[The Syzygy]] — Sacred marriage of opposites; union of Anima and ego
-- [[Folklore/Jungian Archetypes/The Joker]] — Shape-shifting, boundary-crossing energy of the unconscious
+- [[The Joker]] — Shape-shifting, boundary-crossing energy of the unconscious
 
 ### Hero's Journey Stages
-- [[Supernatural Aid]] — Anima as fairy godmother or wise woman
-- [[The Meeting with the Goddess]] — Central encounter with the Anima as beloved
-- [[Woman as Temptress]] — Negative Anima when ego cannot integrate sexuality
-- [[Atonement with the Father]] — Anima mediates reconciliation with Senex
-- [[The Ultimate Boon]] — Anima as vessel of the elixir
-- [[The Sacred Marriage]] — Hieros gamos; union of hero and goddess
+- Supernatural Aid — Anima as fairy godmother or wise woman
+- [[The Reward]] — Central encounter with the Anima as beloved
+- Woman as Temptress — Negative Anima when ego cannot integrate sexuality
+- [[The Ordeal]] — Anima mediates reconciliation with Senex
+- [[The Reward]] — Anima as vessel of the elixir
+- The Sacred Marriage — Hieros gamos; union of hero and goddess
 
 ### Individuation Process
 - [[Ego Formation and Childhood]] — Anima fused with mother
@@ -861,22 +861,22 @@ The Anima interacts dynamically with other archetypal structures:
 
 ### Alchemical Stages
 - [[Albedo]] — The whitening; Anima as White Queen
-- [[Solutio]] — Dissolution in water; ego surrender to Anima
-- [[Coniunctio]] — Sacred marriage; union of Anima and ego
+- Solutio — Dissolution in water; ego surrender to Anima
+- Coniunctio — Sacred marriage; union of Anima and ego
 - [[Rubedo]] — Integration of soul into embodied wholeness
-- [[The White Queen]] — Anima as purified soul-image
+- The White Queen — Anima as purified soul-image
 
 ### Tarot
-- [[The High Priestess]] — Virgin Anima; guardian of mysteries
-- [[The Empress]] — Mother Anima; abundance, nature, vessel
-- [[The Star]] — Anima as hope, muse, inspiration
-- [[The Moon]] — Realm of Anima's illusions and depth
-- [[The Lovers]] — Sacred marriage; union of opposites
-- [[Temperance]] — Anima as mediator and alchemist
-- [[The World]] — Sophia Anima; cosmic wholeness
+- [[The High Priestess (II)]] — Virgin Anima; guardian of mysteries
+- [[The Empress (III)]] — Mother Anima; abundance, nature, vessel
+- [[The Star (XVII)]] — Anima as hope, muse, inspiration
+- [[The Moon (XVIII)]] — Realm of Anima's illusions and depth
+- [[The Lovers (VI)]] — Sacred marriage; union of opposites
+- [[Temperance (XIV)]] — Anima as mediator and alchemist
+- [[The World (XXI)]] — Sophia Anima; cosmic wholeness
 
 ### Astrology
-- [[The Moon]] — Emotional nature, fluctuations, mother-image
+- [[The Moon (XVIII)]] — Emotional nature, fluctuations, mother-image
 - [[Venus ♀]] — Erotic Anima, attraction, beauty, aesthetic
 - [[Neptune ♆]] — Divine longing, dissolution, mystical union
 - [[7th House]] — Relationships, projection, the "other"
@@ -885,40 +885,40 @@ The Anima interacts dynamically with other archetypal structures:
 - [[Libra ♎]] — Relational, aesthetic, harmonizing Anima
 
 ### Human Design
-- [[Gate 59 - Sexuality]] — The "Aura Breaker"; drive for intimacy and union
-- [[Solar Plexus Center]] — Emotional motor; wave of moods and desire
+- [[Gate 59 - Dispersion]] — The "Aura Breaker"; drive for intimacy and union
+- [[Solar Plexus]] — Emotional motor; wave of moods and desire
 - [[Emotional Authority]] — Waiting through the wave for clarity
-- [[Sacral Center]] — Life force; sexual and creative energy
-- [[Gate 6 - Conflict]] — Emotional intimacy through friction
-- [[Defined vs Undefined Centers]] — Projection and conditioning dynamics
+- [[Sacral]] — Life force; sexual and creative energy
+- [[Gate 06 - Conflict]] — Emotional intimacy through friction
+- [[Centers]] — Projection and conditioning dynamics
 
 ### Mythology & Fairy Tales
 - [[Greek Mythology]] — Aphrodite, Persephone, Psyche, Artemis
-- [[Gnostic Texts]] — Sophia, Mary Magdalene, Helena
+- Gnostic Texts — Sophia, Mary Magdalene, Helena
 - [[Hindu Mythology]] — Shakti, Kali, Saraswati, Parvati
 - [[Egyptian Mythology]] — Isis, Hathor, Nephthys
 - [[Celtic Mythology]] — The Fairy Bride, Melusine, Lady of the Lake
-- [[Sleeping Beauty]] — Dormant soul awaiting conscious engagement
-- [[The Little Mermaid]] — Sacrifice of soul for ego; loss of voice
+- Sleeping Beauty — Dormant soul awaiting conscious engagement
+- The Little Mermaid — Sacrifice of soul for ego; loss of voice
 - [[Rapunzel]] — Captive Anima freed from mother complex
 - [[Cinderella]] — Rejected soul recognized by conscious ego
 
 ### The Window (I-Ching)
-- [[Hexagram 29 - The Abysmal]] — Water, danger, heart's devotion
-- [[Hexagram 30 - The Clinging]] — Fire, desire, passion, clarity
-- [[Hexagram 31 - Influence]] — Attraction, courtship, mutual resonance
-- [[Hexagram 44 - Coming to Meet]] — The feminine rising; encounter with Anima
+- Hexagram 29 - The Abysmal — Water, danger, heart's devotion
+- Hexagram 30 - The Clinging — Fire, desire, passion, clarity
+- Hexagram 31 - Influence — Attraction, courtship, mutual resonance
+- Hexagram 44 - Coming to Meet — The feminine rising; encounter with Anima
 
 ### Related Concepts
-- [[Projection]] — Primary mechanism of Anima operation
-- [[Active Imagination]] — Method for dialoguing with Anima
+- Projection — Primary mechanism of Anima operation
+- Active Imagination — Method for dialoguing with Anima
 - [[The Collective Unconscious]] — Source of archetypal Anima
 - [[Synchronicity]] — Anima often appears via meaningful coincidence
 - [[The Transcendent Function]] — Ego-Anima tension births new consciousness
 - [[Inflation]] — Ego identifying with Anima archetype (possession)
-- [[Eros and Logos]] — Anima carries Eros; Animus carries Logos
-- [[The Mother Complex]] — Anima fused with mother-image
-- [[The Hieros Gamos]] — Sacred marriage; alchemical union
+- Eros and Logos — Anima carries Eros; Animus carries Logos
+- The Mother Complex — Anima fused with mother-image
+- The Hieros Gamos — Sacred marriage; alchemical union
 
 ---
 

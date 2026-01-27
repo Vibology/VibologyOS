@@ -561,17 +561,17 @@ When the psyche embraces the work of circulation—when insights are patiently b
 
 ### Related Archetypes
 - [[Hermes]] (when created) - The psychopomp, messenger, agent of circulation
-- [[The Hermit]] - Withdrawal for refinement, then return with distilled wisdom
-- [[Temperance]] (see Tarot entry) - The card of mixing, circulation, and balance
-- [[Folklore/Jungian Archetypes/The Anima]] - Projection and withdrawal as circulation
-- [[Folklore/Jungian Archetypes/The Animus]] - Same dynamic in reverse
+- [[The Hermit (IX)]] - Withdrawal for refinement, then return with distilled wisdom
+- [[Temperance (XIV)]] (see Tarot entry) - The card of mixing, circulation, and balance
+- [[The Anima]] - Projection and withdrawal as circulation
+- [[The Animus]] - Same dynamic in reverse
 - [[The Wise Old Man]] - The one who has distilled a lifetime into essential teaching
 
 ### Related Alchemical Operations
 - [[Calcination]] - The previous operation: fire destroys the false
 - [[Dissolution]] - Parallel operation: water releases the bound
 - [[Separation]] - The next operation: discernment of what is essential
-- [[Sublimation]] (when created) - Distillation taken to extreme: matter to vapor directly
+- Sublimation (when created) - Distillation taken to extreme: matter to vapor directly
 - [[Conjunction]] - The union that follows after Distillation purifies
 - [[Albedo]] (when created) - The Whitening phase, of which Distillation is the primary operation
 
@@ -582,14 +582,14 @@ When the psyche embraces the work of circulation—when insights are patiently b
 - [[The Ordeal]] - The central crisis that must be circulated, reflected upon, integrated
 
 ### Related Tarot
-- [[Temperance]] - The angel pouring water between vessels (circulation, mixing, Distillation) (Major Arcana XIV)
-- [[The Star]] - Celestial water (dew, grace) descending to earth (Major Arcana XVII)
-- [[The Hermit]] - Withdrawal for refinement, the lamp of distilled wisdom (Major Arcana IX)
+- [[Temperance (XIV)]] - The angel pouring water between vessels (circulation, mixing, Distillation) (Major Arcana XIV)
+- [[The Star (XVII)]] - Celestial water (dew, grace) descending to earth (Major Arcana XVII)
+- [[The Hermit (IX)]] - Withdrawal for refinement, the lamp of distilled wisdom (Major Arcana IX)
 - [[Ace of Cups]] - The overflowing cup (distilled emotion, love, spirituality)
 - [[Two of Pentacles]] - Juggling, balancing, circulation of resources and energy
 
 ### Related Astrology
-- [[Astrology/Planets/Mercury # ☿]] - Planet of communication, circulation, the psychopomp
+- [[Mercury ☿]] - Planet of communication, circulation, the psychopomp
 - [[Moon ☽]] - Cycles, tides, dew, the circulation of light (waxing/waning)
 - [[Neptune ♆]] - Spirit, vapor, dissolution into the transcendent (must be distilled back to earth)
 - [[Gemini ♊]] - Mercury-ruled, sign of duality, circulation between opposites
@@ -598,10 +598,10 @@ When the psyche embraces the work of circulation—when insights are patiently b
 - [[12th House]] - House of withdrawal, meditation, spiritual refinement (ascent before descent)
 
 ### Related Human Design
-- [[Ajna Center]] - The mind, processing information through repeated reflection (Distillation)
-- [[Head Center]] - Receiving inspiration from above, distilling into mental questions
-- [[Gate 47]] - Realization, sudden insight that must be distilled over time
-- [[Gate 4]] - Mental solutions, the mind's repeated attempts to formulate answers (Distillation process)
+- [[Ajna]] - The mind, processing information through repeated reflection (Distillation)
+- [[Head]] - Receiving inspiration from above, distilling into mental questions
+- [[Gate 47 - Oppression]] - Realization, sudden insight that must be distilled over time
+- [[Gate 04 - Youthful Folly]] - Mental solutions, the mind's repeated attempts to formulate answers (Distillation process)
 
 ### Related Angelology
 - [[Cherubim]] - Guardians of divine knowledge, mediating its descent to humanity
@@ -611,13 +611,13 @@ When the psyche embraces the work of circulation—when insights are patiently b
 ### Related Folklore & Mythology
 - [[Jacob's Ladder]] (when created) - Angels ascending and descending, archetypal Distillation image
 - [[Hermes Trismegistus]] (when created) - The thrice-great, author of Emerald Tablet, master of Distillation
-- [[The Water of Life]] (when created) - Fairy tale motif of distilled healing essence
+- The Water of Life (when created) - Fairy tale motif of distilled healing essence
 - [[Soma]] (when created) - Hindu divine nectar, distilled from cosmic churning
 
 ### Related Individuation Process
 - [[Self-Reflection]] (when created) - The primary function of Distillation in individuation
 - [[Shadow Confrontation]] - Shadow content must be distilled (recognized, integrated) through repeated circulation
-- [[Anima/Animus]] - Soul-image projections withdrawn and distilled into inner relationship
+- [[The Anima]] - Soul-image projections withdrawn and distilled into inner relationship
 
 ---
 

@@ -18,7 +18,7 @@ The Approach to the Inmost Cave represents the **final threshold before the supr
 
 Unlike earlier threshold crossings, which may occur through accident, coercion, or naive enthusiasm, the Approach is characterized by **conscious choice** and **full awareness of consequence**. The hero knows what awaits. The ego's self-preservation instinct screams its loudest warnings. Yet the hero proceeds.
 
-Jung's concept of[^2] the **confrontation with the [[Shadow]]** begins here—not yet in direct encounter, but in the mounting dread as the hero approaches the place where the Shadow resides. This is the psychological equivalent of walking down a darkening corridor toward a door one knows must be opened, each step requiring renewed commitment.
+Jung's concept of[^2] the **confrontation with the [[The Shadow]]** begins here—not yet in direct encounter, but in the mounting dread as the hero approaches the place where the Shadow resides. This is the psychological equivalent of walking down a darkening corridor toward a door one knows must be opened, each step requiring renewed commitment.
 
 In *The Hero with a Thousand Faces*, Campbell identifies this stage as preparation:
 
@@ -85,7 +85,7 @@ Psychologically, the Approach corresponds to:
 
 **Early Adulthood (25-30)**: Walking into the hospital for surgery. Sitting in the car outside the rehab facility. The night before the wedding. These are Approaches—moments when you *could* still flee, but know you won't.
 
-**Midlife (38-42)**: The drive to the lawyer's office to file for divorce. Scheduling the biopsy appointment. Confronting the affair. The [[Saturn Return|Saturn Return]] intensifies, demanding reckoning. The Approach is the preparation for systems to collapse.
+**Midlife (38-42)**: The drive to the lawyer's office to file for divorce. Scheduling the biopsy appointment. Confronting the affair. The [[Saturn ♄]] intensifies, demanding reckoning. The Approach is the preparation for systems to collapse.
 
 **Elderhood (70+)**: Entering hospice, signing DNR paperwork, final conversations with family. The Approach to literal death—conscious preparation, steeling the psyche, release of attachments.
 
@@ -97,8 +97,8 @@ Psychologically, the Approach corresponds to:
 | **Human Design** | **Undefined Spleen** (fear amplified)<br>**Gate 52** (Stillness/Meditation)<br>**Emotional Wave** (low point before crisis) | Undefined Spleen: Primal fear magnified by collective anxiety<br>Gate 52: The discipline of stillness before action, mountain meditation<br>Emotional Wave: The trough before the crest—clarity comes from waiting | The biological systems activate—undefined Spleen amplifies survival terror; Gate 52 teaches preparation through stillness rather than panic. Emotional beings must wait for clarity before entering the Cave |
 | **I-Ching** | **Hexagram 5 (Hsü / Waiting)**<br>**Hexagram 29 (K'an / The Abysmal)**<br>**Hexagram 61 (Chung Fu / Inner Truth)** | Hsü: Nourishment while pausing, patience before the inevitable<br>K'an: Recognizing danger, the abyss visible ahead<br>Chung Fu: Preparation through meditation, centering in truth | The I-Ching counsels: *"Wait with sincerity. Nourish yourself in the pause."* The Approach requires recognition of danger (K'an) and centering in truth (Chung Fu) before proceeding |
 | **Qabalah** | **Approaching Daath** (The Abyss)<br>**Veil of Paroketh** (crossing from personal to transpersonal)<br>**Path to Geburah** (severity approaching) | Daath: The non-Sephirah, the rupture ahead<br>Paroketh: The veil between Tiphareth (Beauty/Self) and higher consciousness<br>Geburah: Mars-ruled severity, pruning, sacrifice | The magician stands before the Abyss, knowing all attainment must be relinquished. Crossing Paroketh requires ego-death; approaching Geburah means facing divine severity without comfort |
-| **Angelology** | [[Azrael]] (Death's presence)<br>[[Michael]] (courage to face)<br>[[Samael]] (severity, truth without mercy) | Azrael: Death visible on the horizon<br>Michael: The warrior's courage to walk forward<br>Samael: The left-hand angel, poison of God, stripping illusions | Angels of the Approach prepare the psyche—Azrael's presence ensures the coming death is accepted, Michael lends courage, Samael strips away final illusions before the descent |
-| **Jungian Archetypes** | [[The Shadow]] (awaiting in darkness)<br>[[The Devouring Mother]] (Cave as womb/tomb)<br>[[The Terrible Father]] (Cave as judgment chamber) | Shadow: The disowned self waiting to be faced<br>Devouring Mother: The Cave as regressive pull, return to womb/death<br>Terrible Father: The Cave as law, judgment, impossibility | The Approach is recognizing what archetype waits in the Cave—Shadow (integration), Devouring Mother (autonomy test), Terrible Father (authority challenge). Naming the archetype is half the battle |[^2]
+| **Angelology** | Azrael (Death's presence)<br>[[Michael]] (courage to face)<br>[[Samael]] (severity, truth without mercy) | Azrael: Death visible on the horizon<br>Michael: The warrior's courage to walk forward<br>Samael: The left-hand angel, poison of God, stripping illusions | Angels of the Approach prepare the psyche—Azrael's presence ensures the coming death is accepted, Michael lends courage, Samael strips away final illusions before the descent |
+| **Jungian Archetypes** | [[The Shadow]] (awaiting in darkness)<br>The Devouring Mother (Cave as womb/tomb)<br>The Terrible Father (Cave as judgment chamber) | Shadow: The disowned self waiting to be faced<br>Devouring Mother: The Cave as regressive pull, return to womb/death<br>Terrible Father: The Cave as law, judgment, impossibility | The Approach is recognizing what archetype waits in the Cave—Shadow (integration), Devouring Mother (autonomy test), Terrible Father (authority challenge). Naming the archetype is half the battle |[^2]
 
 ## Practical Application
 
@@ -125,7 +125,7 @@ Create ceremonies to mark the transition:
 - **Knight's Vigil**: Spend the night before in prayer, meditation, or reflection—awake, alone, focused on the task ahead
 - **Purification**: Ritual bathing, fasting, smudging, confession—symbolic cleansing before sacred encounter
 - **Arming**: Gather tools (literal or symbolic)—crystals, mantras, phone numbers of allies, medications, legal documents. Externalize readiness
-- **Blessing**: Seek witnessing from [[The Mentor|mentor]], therapist, trusted friend—be seen before descending into isolation
+- **Blessing**: Seek witnessing from [[Meeting the Mentor]], therapist, trusted friend—be seen before descending into isolation
 
 **2. Psychological Steeling**
 
@@ -135,7 +135,7 @@ Create ceremonies to mark the transition:
 
 **3. Gather Talismans**
 
-The [[The Mentor|Mentor]] provides gifts before this stage:
+The [[Meeting the Mentor]] provides gifts before this stage:
 
 - **Mantra or Prayer**: A phrase to repeat when terror threatens fragmentation (*"I am held. I am witnessed. This too shall pass."*)
 - **Physical Object**: A stone, photo, letter—something to ground in the body when the mind spirals
@@ -200,15 +200,15 @@ The Approach to the Inmost Cave (Stage 7) serves as the **hinge** between the jo
 - The hero is called away from the Ordinary World and crosses the First Threshold
 
 **Act 2A (Descent)**: Stages 6-7
-- [[Tests, Allies, Enemies]] → **APPROACH TO THE INMOST CAVE**
+- [[Tests, Allies, and Enemies]] → **APPROACH TO THE INMOST CAVE**
 
 **Act 2B (Nadir and Ascent)**: Stages 8-10
-- [[The Ordeal|Ordeal]] → [[The Reward|Reward]] → [[The Road Back]]
+- [[The Ordeal|Ordeal]] → [[The Reward|Reward]] → The Road Back
 
 The Approach is the final moment of **conscious volition** before the [[The Ordeal|Ordeal]]'s surrender. After this point, the hero does not control events—events control the hero. Thus the Approach is the ego's last stand, the final exercise of choice before choice is stripped away.
 
 **Relationship to Other Stages**:
-- **[[Tests, Allies, Enemies]] (Stage 6)** prepares the hero with skills and alliances tested during the Approach
+- **[[Tests, Allies, and Enemies]] (Stage 6)** prepares the hero with skills and alliances tested during the Approach
 - **[[The Ordeal|The Ordeal]] (Stage 8)** is what awaits inside the Cave—the Approach is the threshold, the Ordeal is the chamber beyond
 - **[[The Call to Adventure]] (Stage 2)** sets the destination; the Approach is arrival at that destination's most dangerous heart
 
@@ -216,7 +216,7 @@ The Approach is the final moment of **conscious volition** before the [[The Orde
 
 ### 4.2 Jungian Depth Psychology: The Approach as Ego's Recognition of the Shadow[^2]
 
-Jung would frame the Approach not as a geographic journey but as the moment when the [[Ego|ego]] **recognizes** the [[Shadow]]—not yet integrating it, but acknowledging its presence and power[^2].
+Jung would frame the Approach not as a geographic journey but as the moment when the [[Ego|ego]] **recognizes** the [[The Shadow]]—not yet integrating it, but acknowledging its presence and power[^2].
 
 In *Aion*, Jung describes the first encounter with the Shadow:[^2]
 
@@ -226,13 +226,13 @@ The Approach *is* standing before that narrow door, hand on the latch, knowing w
 
 **The Ego-Shadow Axis During the Approach**:
 
-- **Early Journey (Stages 1-6)**: The [[Shadow]] is projected outward—enemies, obstacles, challenges appear external
+- **Early Journey (Stages 1-6)**: The [[The Shadow]] is projected outward—enemies, obstacles, challenges appear external
 - **The Approach (Stage 7)**: The hero begins to suspect: *"What I seek to confront may be myself. What I hunt may be hunting me."*
 - **[[The Ordeal|The Ordeal]] (Stage 8)**: The projection collapses—*"I am the monster. I am the treasure. I am the sacrifice."*
 
 The Approach is the psychological space where this recognition dawns but has not yet been fully metabolized. The hero knows—intellectually, intuitively—but has not yet *experienced* the truth in the body.
 
-**Individuation Crisis**: The Approach often manifests during midlife when the persona (social mask) cracks. The person realizes they cannot continue performing the role they've inhabited. The Inmost Cave is the unconscious itself—entering requires relinquishing ego control and trusting the [[Self]]'s guidance.
+**Individuation Crisis**: The Approach often manifests during midlife when the persona (social mask) cracks. The person realizes they cannot continue performing the role they've inhabited. The Inmost Cave is the unconscious itself—entering requires relinquishing ego control and trusting the [[The Self]]'s guidance.
 
 ### 4.3 The Cave as Archetypal Symbol: Womb, Tomb, and Underworld
 
@@ -256,13 +256,13 @@ The **Inmost Cave** is one of mythology's most potent symbols—simultaneously w
 
 - **Womb**: Regression to the pre-egoic state—dissolution, dependency, potential rebirth
 - **Tomb**: Death of the old self—burial, stillness, the waiting darkness before resurrection
-- **[[Underworld]]**: Descent into the unconscious—hidden knowledge, ancestral wisdom, confrontation with what has been repressed
+- **Underworld**: Descent into the unconscious—hidden knowledge, ancestral wisdom, confrontation with what has been repressed
 
 **The Cave's Dual Nature**: The Cave both protects (shelter, hiddenness) and imprisons (isolation, suffocation). The hero's task is to enter consciously, extract what is needed (wisdom, treasure, initiation), and exit before entrapment becomes permanent.
 
 ### 4.4 Gatekeepers and Threshold Guardians of the Inmost Cave
 
-Unlike [[Crossing the Threshold|Threshold Guardians]] at Stage 5 (who test readiness for the journey itself), the guardians at the Inmost Cave test readiness for **ego death**.
+Unlike [[Crossing the First Threshold]] at Stage 5 (who test readiness for the journey itself), the guardians at the Inmost Cave test readiness for **ego death**.
 
 **Mythological Gatekeepers**:
 
@@ -313,14 +313,14 @@ Many Approach narratives emphasize **silence and stillness**—a paradoxical pau
 
 **Psychological Function**:
 
-Stillness is not passivity—it is **active reception**. The psyche must shift from doing to being, from controlling to witnessing. In stillness, the ego relinquishes its frenetic attempts at dominance and opens to guidance from the [[Self]].
+Stillness is not passivity—it is **active reception**. The psyche must shift from doing to being, from controlling to witnessing. In stillness, the ego relinquishes its frenetic attempts at dominance and opens to guidance from the [[The Self]].
 
 **Practices for Ritual Stillness**:
 
 - **Meditation**: Sit in silence for an hour. Notice every fear that arises. Do not suppress or indulge—witness
 - **Journaling**: Write: *"What I carry into the Cave. What I hope to retrieve. What I am willing to lose."*
 - **Vigil**: Stay awake through the night, holding the question: *"Am I ready?"*—knowing the answer is both yes and no
-- **Prayer**: Invoke archetypal presences—[[Michael]] for courage, [[Azrael]] for acceptance of death, [[The Hermit (IX)|The Hermit]] for inner light
+- **Prayer**: Invoke archetypal presences—[[Michael]] for courage, Azrael for acceptance of death, [[The Hermit (IX)|The Hermit]] for inner light
 
 ### 4.6 The Approach in Fairy Tales: The Forbidden Door
 
@@ -332,7 +332,7 @@ The bride is given keys to every room but told never to open the smallest. The A
 
 When she opens the door, she finds the corpses of Bluebeard's previous wives—a vision of her own impending death. The Approach is the threshold; opening the door is entering the Cave. The [[The Ordeal|Ordeal]] is escaping before she joins the dead.
 
-**Psychological Meaning**: The forbidden chamber is the [[Shadow]]—what the psyche knows it should not examine but cannot resist. The Approach is the moment before curiosity or compulsion overpowers prohibition. The lesson: some doors must be opened for wholeness, even if trauma lies behind them.
+**Psychological Meaning**: The forbidden chamber is the [[The Shadow]]—what the psyche knows it should not examine but cannot resist. The Approach is the moment before curiosity or compulsion overpowers prohibition. The lesson: some doors must be opened for wholeness, even if trauma lies behind them.
 
 **"Beauty and the Beast"**
 
@@ -370,7 +370,7 @@ In feminine myth, the Approach is often **internalized and surrendered**:
 
 - **Persephone**: Abducted while picking flowers—no conscious choice to approach Hades. The Approach is realizing the earth has swallowed her, descent is inevitable
 - **Inanna**: Chooses to descend but at each of the seven gates must remove garments/jewelry—ego-stripping as the Approach itself
-- **Psyche**: Commanded by Aphrodite to descend to the [[Underworld]] for beauty ointment—obedience rather than heroic choice
+- **Psyche**: Commanded by Aphrodite to descend to the Underworld for beauty ointment—obedience rather than heroic choice
 
 **Psychological Function**: The feminine Approach emphasizes **receptivity, stripping, and trust**. The message: you cannot control this; you can only prepare by releasing what you carry.
 
@@ -393,9 +393,9 @@ The unconscious stages Approaches nightly to prepare the waking ego for consciou
 
 1. **Walking Down a Dark Corridor**: Each step takes you deeper into darkness; you know something waits at the end but cannot turn back
 2. **Descending Stairs or Ladders**: Going down, down—into basement, cavern, underground chamber. Waking life Approach to unconscious material
-3. **Standing Before a Locked Door**: You have the key (or are searching for it). The door represents the [[Shadow]], trauma, or forbidden knowledge
+3. **Standing Before a Locked Door**: You have the key (or are searching for it). The door represents the [[The Shadow]], trauma, or forbidden knowledge
 4. **Approaching a Cliff Edge**: Each step closer to the precipice; you know you must jump but resist
-5. **Walking Toward a Figure in Shadow**: The figure is familiar but terrifying—often your own [[Shadow]] or [[The Devouring Mother|Devouring Mother]]/[[The Terrible Father|Terrible Father]] archetype
+5. **Walking Toward a Figure in Shadow**: The figure is familiar but terrifying—often your own [[The Shadow]] or [[The Devouring Mother|Devouring Mother]]/[[The Terrible Father|Terrible Father]] archetype
 
 **Integration**:
 
@@ -445,17 +445,17 @@ In the absence of cultural structures, individuals can design their own:
 
 ### 4.10 The Talisman: What the Mentor Provides Before the Approach
 
-A defining feature of the Approach: the [[The Mentor|Mentor]] provides a **talisman**—a gift to sustain the hero during the [[The Ordeal|Ordeal]].
+A defining feature of the Approach: the [[Meeting the Mentor]] provides a **talisman**—a gift to sustain the hero during the [[The Ordeal|Ordeal]].
 
 **Mythological Talismans**:
 
 **1. Ariadne's Thread** (Theseus)
 - Ariadne gives Theseus a ball of thread to mark his path through the labyrinth. The Approach involves tying the thread at the entrance, knowing it is his only chance of return.
-- **Symbolic Meaning**: The thread is connection—to the beloved, to the surface, to hope of return. It represents the ego's lifeline when the [[Shadow]] threatens to trap the hero in the underworld forever.
+- **Symbolic Meaning**: The thread is connection—to the beloved, to the surface, to hope of return. It represents the ego's lifeline when the [[The Shadow]] threatens to trap the hero in the underworld forever.
 
 **2. Athena's Bronze Castanets** (Heracles)
 - Before facing the Stymphalian Birds, Athena gives Heracles castanets to startle the birds into flight.
-- **Symbolic Meaning**: Divine aid—the [[The Mentor|Mentor]] provides what the hero lacks. Heracles has strength but not strategy; Athena supplements with wisdom.
+- **Symbolic Meaning**: Divine aid—the [[Meeting the Mentor]] provides what the hero lacks. Heracles has strength but not strategy; Athena supplements with wisdom.
 
 **3. The Force** (Luke Skywalker)
 - Obi-Wan teaches Luke to *"Trust the Force"* before his death. The Approach to the Death Star involves Luke internalizing this teaching—turning off the targeting computer, trusting intuition.
@@ -502,7 +502,7 @@ The Approach is the ego's final opportunity to abort transformation. It will dep
 - **Set a Deadline**: *"On [date], I enter the Cave, ready or not"*—time-bound commitment
 - **Accountability**: Tell someone your intention—witnessing reduces escape routes
 - **Small First Step**: The Approach does not require entering the Cave's deepest chamber immediately. Walk to the threshold. Stand before the door. Breathe. The body's movement will carry the psyche forward
-- **Invoke the [[Self]]**: Pray: *"I cannot do this alone. I trust the forces beyond my ego to carry me through what I cannot carry myself."*
+- **Invoke the [[The Self]]**: Pray: *"I cannot do this alone. I trust the forces beyond my ego to carry me through what I cannot carry myself."*
 
 **Discernment**:
 
@@ -531,13 +531,13 @@ The Approach teaches: *"Not all Caves must be entered. But some must—and wisdo
 
 **4. Trust in the Process**
 
-By the time you reach the Cave's threshold, you have survived [[The Call to Adventure|the Call]], [[Crossing the Threshold|crossed the First Threshold]], endured [[Tests, Allies, Enemies|Tests]]. The Approach is trusting: *"The journey brought me here. I am ready, even if I feel unready."*
+By the time you reach the Cave's threshold, you have survived [[The Call to Adventure|the Call]], [[Crossing the First Threshold]], endured [[Tests, Allies, and Enemies]]. The Approach is trusting: *"The journey brought me here. I am ready, even if I feel unready."*
 
 **5. Preparation as Prayer**
 
 Ritual preparation is not control—it is **reverence**. The knight's vigil, the samurai's tea ceremony, the initiate's purification—these acts say: *"I honor what I am about to face. I prepare my vessel to receive what must be given."*
 
-**6. Relationship with the [[The Mentor|Mentor]]**
+**6. Relationship with the [[Meeting the Mentor]]**
 
 The talisman provided during the Approach creates a bond that transcends physical presence. When the [[The Ordeal|Ordeal]] isolates the hero, the Mentor's gift whispers: *"You carry my faith. I believe you can do this."*
 
@@ -564,7 +564,7 @@ In feminine myth, the Approach emphasizes **stripping, release, and trust**:
 **Examples**:
 - **Inanna**: Approaches each of seven gates, forced to remove clothing/jewelry—arriving naked
 - **Persephone**: Realizes descent is inevitable, releases attachment to surface world (flowers, mother, maidenhood)
-- **Psyche**: Receives instructions from the tower for [[Underworld]] descent—must carry no weapons, only obedience
+- **Psyche**: Receives instructions from the tower for Underworld descent—must carry no weapons, only obedience
 
 **Psychological Function**: The feminine Approach models **receptivity, humility, and egoic release**. The teaching: *"You cannot control this. Release what you carry."*
 
@@ -583,7 +583,7 @@ For non-binary and transgender individuals, the Approach often centers on **cros
 
 **Psychological Function**: The Approach is the liminal space itself—no longer the old self, not yet fully the new. The teaching: *"I am becoming. The discomfort is proof of movement."*
 
-**Archetypal Resonance**: [[Folklore/Jungian Archetypes/The Shapeshifter]], [[Hermes]]/[[Astrology/Planets/Mercury # ☿]] (boundary-crosser), [[The Hanged Man (XII)]] (suspension between states)[^2].
+**Archetypal Resonance**: [[The Shapeshifter]], [[Hermes]]/[[Mercury ☿]] (boundary-crosser), [[The Hanged Man (XII)]] (suspension between states)[^2].
 
 ### Cultural Context
 
@@ -598,17 +598,17 @@ The future of the Approach archetype is **gender-integrative**—honoring both t
 
 ### Jungian Archetypes[^2]
 - [[The Shadow]]: The Approach is the growing awareness of the Shadow's presence. The hero senses what waits in the Cave—the disowned, the denied, the projected. Naming the Shadow is half the Approach.
-- [[Folklore/Jungian Archetypes/The Self]]: The Approach is the ego recognizing it walks toward a confrontation orchestrated by the [[Self]]. The hero does not control the journey; the Self does. The Approach is trusting the Self's wisdom even when it demands the ego's death[^2].
-- [[The Devouring Mother]]: The Cave as womb/tomb—the Approach involves recognizing the pull to regress (return to dependency, avoid autonomy). Entering requires differentiation from the mother complex.
-- [[The Terrible Father]]: The Cave as judgment chamber—the Approach involves recognizing the internalized critic, the impossibility of meeting paternal standards. Entering requires self-forgiveness or defiance.
-- [[Folklore/Jungian Archetypes/The Threshold Guardian[^1]]]: These guardians test whether the hero is ready for the [[The Ordeal|Ordeal]]. Unlike earlier Threshold Guardians (Stage 5), these are more formidable—Cerberus, the Sphinx, the Dark Doppelgänger[^2].
+- [[The Self]]: The Approach is the ego recognizing it walks toward a confrontation orchestrated by the [[The Self]]. The hero does not control the journey; the Self does. The Approach is trusting the Self's wisdom even when it demands the ego's death[^2].
+- The Devouring Mother: The Cave as womb/tomb—the Approach involves recognizing the pull to regress (return to dependency, avoid autonomy). Entering requires differentiation from the mother complex.
+- The Terrible Father: The Cave as judgment chamber—the Approach involves recognizing the internalized critic, the impossibility of meeting paternal standards. Entering requires self-forgiveness or defiance.
+- Threshold Guardian: These guardians test whether the hero is ready for the [[The Ordeal|Ordeal]]. Unlike earlier Threshold Guardians (Stage 5), these are more formidable—Cerberus, the Sphinx, the Dark Doppelgänger[^2].
 
 ### Hero's Journey Stages
 - [[The Call to Adventure]]: The initial wound/lack that sets the journey in motion will often be confronted in the Cave. The Call foreshadows; the Approach delivers.
 - [[Refusal of the Call]]: If refused too long, the Approach will be imposed—forced entry into the Cave through crisis (diagnosis, betrayal, collapse).
 - [[Meeting the Mentor]]: The Mentor's teaching reaches culmination during the Approach—the talisman provided, the final words spoken, the blessing given before the hero enters alone.
-- [[Crossing the Threshold]]: The First Threshold was leaving the Ordinary World. The Approach is the Second Threshold—entering the innermost sanctum where the [[The Ordeal|Ordeal]] awaits.
-- [[Tests, Allies, Enemies]]: All previous tests were preparation for the Approach. Skills learned, alliances forged, and enemies identified now become relevant.
+- [[Crossing the First Threshold]]: The First Threshold was leaving the Ordinary World. The Approach is the Second Threshold—entering the innermost sanctum where the [[The Ordeal|Ordeal]] awaits.
+- [[Tests, Allies, and Enemies]]: All previous tests were preparation for the Approach. Skills learned, alliances forged, and enemies identified now become relevant.
 - [[The Ordeal]]: What waits inside the Cave—the Approach is the threshold, the Ordeal is the chamber beyond.
 - [[The Reward]]: The Approach's purpose—entering the Cave makes the Reward possible. Without the Approach, no boon is retrieved.
 
@@ -622,7 +622,7 @@ The future of the Approach archetype is **gender-integrative**—honoring both t
 ### Astrology
 - [[8th House]]: House of death, transformation, inheritance. When planets transit the 8th House, the Approach begins—you sense the coming crisis, prepare psychologically, gather resources.
 - [[Pluto ♇]]: Approaching crisis, underworld descent. Pluto transits catalyze the Approach—relationships, careers, identities begin to crumble before the final collapse (the [[The Ordeal|Ordeal]]).
-- [[Saturn ♄]]: Reckoning, test, limitation. [[Saturn Return|Saturn Return]] (ages 28-30, 58-60) is a prolonged Approach—years of mounting pressure before the breaking point.
+- [[Saturn ♄]]: Reckoning, test, limitation. [[Saturn ♄]] (ages 28-30, 58-60) is a prolonged Approach—years of mounting pressure before the breaking point.
 - [[Scorpio ♏]]: Sign of death/rebirth, ruled by Mars and Pluto. Scorpio energy *is* the Approach—descending into shadow, stinger poised, transformation imminent.
 - [[12th House]]: House of dissolution, isolation, the unconscious. Transits through the 12th are the Approach to spiritual death-rebirth—hospitalization, retreat, mystical crisis.
 
@@ -648,27 +648,27 @@ The future of the Approach archetype is **gender-integrative**—honoring both t
 - **The Qlippoth (Tree of Death)**: Sometimes the Cave is the shadow Tree—the inverted Sephiroth. The Approach involves recognizing: *"I must descend into the demonic, the rejected, the husks, before I can ascend."*
 
 ### Angelology
-- [[Azrael]] (Angel of Death): Azrael's presence becomes palpable during the Approach—death is visible on the horizon. Azrael does not kill but **witnesses**—ensuring the coming death is honored, not avoided.
+- Azrael (Angel of Death): Azrael's presence becomes palpable during the Approach—death is visible on the horizon. Azrael does not kill but **witnesses**—ensuring the coming death is honored, not avoided.
 - [[Michael]] (Courage): Michael lends courage during the Approach—the strength to walk toward what terrifies you. Invocation: *"Michael, grant me the courage to face what I must face."*
 - [[Samael]] (Severity): The left-hand angel, poison of God. Samael's role in the Approach: strip away final illusions, expose weakness, demand truth without comfort. Samael is the voice that says: *"You are not ready, and you must go anyway."*
 - [[Metatron]] (Transformation): Metatron awaits on the far side—the transformed Enoch, proof that death is not the end. The Approach is trusting Metatron's example: *"What I am about to lose, I will become."*
 
 ### Folklore and Mythology
-- [[The Underworld]]: The Approach is the descent path—Orpheus walking down to Hades, Inanna passing through gates, Dante descending circles. The underworld is the Cave's most primal form.
-- [[The Labyrinth]]: Theseus's maze is the Approach itself—winding, disorienting, each turn a choice. The Minotaur waits at the center (the [[The Ordeal|Ordeal]]), but the labyrinth is the preparation.
-- [[The Dragon]]: Guardian of the Cave's treasure. The Approach involves scouting the dragon's lair, understanding its patterns, preparing to fight or negotiate. Often, the dragon *is* the [[The Ordeal|Ordeal]].
+- The Underworld: The Approach is the descent path—Orpheus walking down to Hades, Inanna passing through gates, Dante descending circles. The underworld is the Cave's most primal form.
+- The Labyrinth: Theseus's maze is the Approach itself—winding, disorienting, each turn a choice. The Minotaur waits at the center (the [[The Ordeal|Ordeal]]), but the labyrinth is the preparation.
+- The Dragon: Guardian of the Cave's treasure. The Approach involves scouting the dragon's lair, understanding its patterns, preparing to fight or negotiate. Often, the dragon *is* the [[The Ordeal|Ordeal]].
 - [[The Forbidden Chamber]]: Bluebeard's smallest room, the door in "Coraline," Pandora's box. The Approach is standing before the forbidden, knowing transgression is necessary for wholeness.
 
 ### Alchemy
 - [[Nigredo]] (Blackening): The Approach is the final step before the alchemical death. The prima materia is placed in the crucible, heat is applied—the Approach is the rising temperature before combustion.
-- [[Mortificatio]]: The death operation. The Approach is preparing the vessel (psyche) for intentional destruction—knowing the old form must die for the new to emerge.
-- [[Solve et Coagula]]: Dissolve and coagulate. The Approach is the moment before dissolution—recognizing the ego must dissolve (the [[The Ordeal|Ordeal]]) before it can reconstitute (the [[The Reward|Reward]]).
+- Mortificatio: The death operation. The Approach is preparing the vessel (psyche) for intentional destruction—knowing the old form must die for the new to emerge.
+- Solve et Coagula: Dissolve and coagulate. The Approach is the moment before dissolution—recognizing the ego must dissolve (the [[The Ordeal|Ordeal]]) before it can reconstitute (the [[The Reward|Reward]]).
 
 ### Modern Psychology
-- [[Anticipatory Anxiety]]: Clinical term for the Approach's psychological state—dread of future event. The body/mind activate fight-or-flight even before the threat is present.
-- [[Threshold Experience]]: Liminality theorist Victor Turner's concept—being "betwixt and between" states. The Approach is the threshold—no longer in safety, not yet in the [[The Ordeal|Ordeal]].
-- [[Exposure Therapy]]: Psychological treatment for phobias/trauma. The Approach is gradual—incremental steps toward the feared object/situation before full confrontation.
-- [[Rite of Passage]]: Anthropologist Arnold van Gennep's three stages—separation, liminality, reintegration. The Approach is the liminal phase—separated from the old, not yet arrived at the new.
+- Anticipatory Anxiety: Clinical term for the Approach's psychological state—dread of future event. The body/mind activate fight-or-flight even before the threat is present.
+- Threshold Experience: Liminality theorist Victor Turner's concept—being "betwixt and between" states. The Approach is the threshold—no longer in safety, not yet in the [[The Ordeal|Ordeal]].
+- Exposure Therapy: Psychological treatment for phobias/trauma. The Approach is gradual—incremental steps toward the feared object/situation before full confrontation.
+- Rite of Passage: Anthropologist Arnold van Gennep's three stages—separation, liminality, reintegration. The Approach is the liminal phase—separated from the old, not yet arrived at the new.
 
 ---
 

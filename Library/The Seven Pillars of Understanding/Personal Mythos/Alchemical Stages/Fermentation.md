@@ -112,7 +112,7 @@ The death-and-resurrection motif, central to Fermentation, appears in every myth
 
 4. **The Frog Prince:**
    - The prince is cursed to live as a frog (putrefaction—a low, slimy, "rotting" form). Only the princess's kiss (or, in older versions, throwing him against the wall in disgust) breaks the curse (fermentation). The frog must be "killed" (thrown) to become human again.
-   - **Psychological Reading:** The masculine principle ([[Folklore/Jungian Archetypes/The Animus]]) is in a degraded, unrecognizable form. The feminine must accept the rot (the repulsive frog) before spirit (the prince) can emerge.
+   - **Psychological Reading:** The masculine principle ([[The Animus]]) is in a degraded, unrecognizable form. The feminine must accept the rot (the repulsive frog) before spirit (the prince) can emerge.
 
 ### Developmental Context
 
@@ -306,7 +306,7 @@ Fermentation is the operation that frees the spirit from the chains of matter (e
 - **Putrefactio:** Aurora's sleep is not true death, but a death-like suspension—putrefaction. She is in the tomb (the tower). Her body does not rot, but she is lifeless. The kingdom also sleeps—collective putrefaction.
 - **The Thorns:** The thorns that surround the castle are the protective barrier around the fermentation vessel. Premature awakening would kill her; she must gestate in darkness for the full term (a hundred years = symbolic completion).
 - **Fermentatio:** The prince's arrival (new consciousness, the masculine principle) catalyzes the resurrection. Aurora awakens—not as the child she was, but as the woman she has become. The sleep was gestation; the awakening is birth of spirit.
-- **Psychological Insight:** The feminine self (Aurora) must "die" to her innocent, childlike identity (the prick of the spindle = initiation, first blood, sexuality). She enters the Dark Night (sleep) where the unconscious ferments her into mature consciousness. The prince represents the [[Folklore/Jungian Archetypes/The Animus|Animus]]—the inner masculine that awakens the fermented feminine. The kingdom's awakening is the collective psyche resurrecting with her.
+- **Psychological Insight:** The feminine self (Aurora) must "die" to her innocent, childlike identity (the prick of the spindle = initiation, first blood, sexuality). She enters the Dark Night (sleep) where the unconscious ferments her into mature consciousness. The prince represents the [[The Animus]]—the inner masculine that awakens the fermented feminine. The kingdom's awakening is the collective psyche resurrecting with her.
 
 **Shadow Element:** If the prince arrives too early (before the hundred years), he is torn apart by the thorns. This is the danger of rushing Fermentation—the spirit is not ready. Forced resurrection is death.
 
@@ -504,7 +504,7 @@ Common dream motifs:
 - **[[The Transcendent Function]]:**
   - Fermentation *is* the operation where the Transcendent Function emerges. The conscious and unconscious, having united in Conjunction, now "die" together (putrefaction) and are reborn as a third thing—spirit, inspiration, gnosis.
 
-- **[[Folklore/Jungian Archetypes/The Self]]:**
+- **[[The Self]]:**
   - Fermentation is the operation where the Self announces its sovereignty. The ego, in the tomb, realizes it is not the master. The Self is the ferment—the hidden life that causes resurrection.
 
 - **[[Conjunction]] (Previous Operation):**
@@ -518,11 +518,11 @@ Common dream motifs:
 
 #### Archetypal Constellation
 When Fermentation is active, the following archetypes are often present:
-- **[[The Hanged Man]]** (Tarot) - Suspended, waiting, fermenting
-- **[[Death]]** (Tarot) - Putrefaction, the necessary ending
-- **[[Temperance]]** (Tarot) - The alchemical mixing, the fermentation vessel
-- **[[Folklore/Jungian Archetypes/The Divine Child]]** - The new life born from the rot
-- **[[The Wise Old Man]]** / **[[Folklore/Jungian Archetypes/The Great Mother]]** - The one who has fermented, the elder, the crone
+- **[[The Hanged Man (XII)]]** (Tarot) - Suspended, waiting, fermenting
+- **[[Death (XIII)]]** (Tarot) - Putrefaction, the necessary ending
+- **[[Temperance (XIV)]]** (Tarot) - The alchemical mixing, the fermentation vessel
+- **[[The Divine Child]]** - The new life born from the rot
+- **[[The Wise Old Man]]** / **[[The Great Mother]]** - The one who has fermented, the elder, the crone
 
 ### 12. The Gift of Integration
 
@@ -568,12 +568,12 @@ Fermentation is dangerous. The unconscious, stirred, can overwhelm the ego (psyc
 ### Related Archetypes
 - [[The Shadow]] - The compost, the rejected material that feeds fermentation
 - [[The Transcendent Function]] - The "third thing" born from Fermentation
-- [[Folklore/Jungian Archetypes/The Self]] - The ferment, the hidden life that causes resurrection
-- [[Folklore/Jungian Archetypes/The Divine Child]] - The new life born from putrefaction
+- [[The Self]] - The ferment, the hidden life that causes resurrection
+- [[The Divine Child]] - The new life born from putrefaction
 - [[The Wise Old Man]] - The fermented elder, the one who has endured the tomb
-- [[Folklore/Jungian Archetypes/The Great Mother]] - The womb-tomb, the vessel of fermentation
-- [[Folklore/Jungian Archetypes/The Anima]] - The soul-guide through the Dark Night (for men)
-- [[Folklore/Jungian Archetypes/The Animus]] - The awakening force, the prince who breaks the spell (for women)
+- [[The Great Mother]] - The womb-tomb, the vessel of fermentation
+- [[The Anima]] - The soul-guide through the Dark Night (for men)
+- [[The Animus]] - The awakening force, the prince who breaks the spell (for women)
 
 ### Related Alchemical Operations
 - [[Conjunction]] - The previous operation; the sacred marriage that must "die" in Fermentation
@@ -585,25 +585,25 @@ Fermentation is dangerous. The unconscious, stirred, can overwhelm the ego (psyc
 ### Related Alchemical Colors & Symbols
 - [[Nigredo]] - The Blackening; Fermentation returns to Nigredo (putrefaction phase)
 - [[Citrinitas]] - The Yellowing; the color of fermentation, the dawn after the Dark Night
-- [[Cauda Pavonis]] (Peacock's Tail) - The iridescent sign that fermentation is occurring
+- Cauda Pavonis (Peacock's Tail) - The iridescent sign that fermentation is occurring
 
 ### Related Hero's Journey Stages
-- [[The Road Back]] - The crisis after winning the boon (putrefaction)
+- The Road Back - The crisis after winning the boon (putrefaction)
 - [[The Resurrection]] - The second death and second birth (fermentation)
 - [[Return with the Elixir]] - Bringing the fermented spirit back to the world
 
 ### Related Tarot
-- [[Death]] - Putrefaction, the necessary ending (Major Arcana XIII)
-- [[The Hanged Man]] - Suspended, waiting, fermenting in the tomb (Major Arcana XII)
-- [[Temperance]] - The alchemical vessel, the mixing of opposites (Major Arcana XIV)
-- [[Judgment]] - Resurrection, the rising of the dead (Major Arcana XX)
-- [[The Moon]] - The dark night, the unconscious fermentation (Major Arcana XVIII)
-- [[The Star]] - Hope after the Dark Night, the first light of spirit (Major Arcana XVII)
+- [[Death (XIII)]] - Putrefaction, the necessary ending (Major Arcana XIII)
+- [[The Hanged Man (XII)]] - Suspended, waiting, fermenting in the tomb (Major Arcana XII)
+- [[Temperance (XIV)]] - The alchemical vessel, the mixing of opposites (Major Arcana XIV)
+- [[Judgement (XX)]] - Resurrection, the rising of the dead (Major Arcana XX)
+- [[The Moon (XVIII)]] - The dark night, the unconscious fermentation (Major Arcana XVIII)
+- [[The Star (XVII)]] - Hope after the Dark Night, the first light of spirit (Major Arcana XVII)
 
 ### Related I-Ching
-- [[Hexagram 23 - Splitting Apart]] - Putrefaction, the structure falling apart
-- [[Hexagram 24 - Return]] - Fermentation, the resurrection, the turning point
-- [[Hexagram 48 - The Well]] - Drawing spirit from the depths, the hidden ferment
+- Hexagram 23 - Splitting Apart - Putrefaction, the structure falling apart
+- Hexagram 24 - Return - Fermentation, the resurrection, the turning point
+- Hexagram 48 - The Well - Drawing spirit from the depths, the hidden ferment
 
 ### Related Astrology
 - [[Neptune ♆]] - Planet of dissolution, intoxication, spirit, divine madness
@@ -615,10 +615,10 @@ Fermentation is dangerous. The unconscious, stirred, can overwhelm the ego (psyc
 - [[12th House]] - House of the tomb, the Dark Night, hidden gestation
 
 ### Related Human Design
-- [[Splenic Center]] - Intuition born from the rot, the instinct that rises from the unconscious
-- [[G-Center]] - Identity dying and reforming, the Self emerging
+- [[Spleen]] - Intuition born from the rot, the instinct that rises from the unconscious
+- [[G Center]] - Identity dying and reforming, the Self emerging
 - [[Gate 23 - Splitting Apart]] - Breakdown before breakthrough, putrefaction
-- [[Gate 24 - Return]] - The resurrection, the return of spirit after the Dark Night
+- [[Gate 24 - The Return]] - The resurrection, the return of spirit after the Dark Night
 - [[Gate 36 - Darkening of the Light]] - The Dark Night, crisis, putrefaction
 
 ### Related Angelology
@@ -627,10 +627,10 @@ Fermentation is dangerous. The unconscious, stirred, can overwhelm the ego (psyc
 - [[Tzaphkiel]] - Archangel of Binah (the Great Mother), womb-tomb mysteries
 
 ### Related Folklore & Mythology
-- [[Dionysus]] (when created) - God of wine, fermentation, death-rebirth
+- Dionysus (when created) - God of wine, fermentation, death-rebirth
 - [[Osiris]] (when created) - Dismembered, resurrected, Lord of the Underworld
 - [[Persephone]] (when created) - Descent to Hades (putrefaction), return as Spring (fermentation)
-- [[Christ Mythos]] (when created) - Passion, tomb, resurrection—the central Fermentation myth
+- Christ Mythos (when created) - Passion, tomb, resurrection—the central Fermentation myth
 - [[Shamanic Dismemberment]] (when created) - Death, rot, reassembly with spiritual organs
 
 ---

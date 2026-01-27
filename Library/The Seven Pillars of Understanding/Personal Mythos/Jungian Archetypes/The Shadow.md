@@ -747,24 +747,24 @@ The Shadow interacts dynamically with other archetypal structures:
 ## Cross-References
 
 ### Jungian Archetypes
-- [[Folklore/Jungian Archetypes/The Hero]] — The shadow is the hero's primary adversary and teacher
-- [[Folklore/Jungian Archetypes/The Anima]] — Feminine soul-image; shadow work is prerequisite
-- [[Folklore/Jungian Archetypes/The Animus]] — Masculine soul-image; contaminated by unintegrated shadow
-- [[Folklore/Jungian Archetypes/The Self]] — Totality that embraces both ego and shadow
-- [[Folklore/Jungian Archetypes/The Great Mother]] — Shadow merges with the Terrible Mother (devouring aspect)
+- [[The Hero]] — The shadow is the hero's primary adversary and teacher
+- [[The Anima]] — Feminine soul-image; shadow work is prerequisite
+- [[The Animus]] — Masculine soul-image; contaminated by unintegrated shadow
+- [[The Self]] — Totality that embraces both ego and shadow
+- [[The Great Mother]] — Shadow merges with the Terrible Mother (devouring aspect)
 - [[The Wise Old Man]] — Guide through shadow work; or shadow Senex (tyrant)
-- [[Folklore/Jungian Archetypes/The Joker]] — Shadow's shape-shifting, boundary-crossing energy
-- [[Folklore/Jungian Archetypes/The Divine Child]] — Innocence that shadow threatens or protects
-- [[Folklore/Jungian Archetypes/The Persona]] — Social mask; shadow is what the mask hides
+- [[The Joker]] — Shadow's shape-shifting, boundary-crossing energy
+- [[The Divine Child]] — Innocence that shadow threatens or protects
+- [[The Persona]] — Social mask; shadow is what the mask hides
 - [[The Syzygy]] — Sacred marriage requires shadow integration first
 
 ### Hero's Journey Stages
 - [[The Call to Adventure]] — Shadow often appears as the call
 - [[Refusal of the Call]] — Fear of shadow confrontation
 - [[Crossing the First Threshold]] — Entering shadow territory
-- [[The Belly of the Whale]] — Consumed by shadow (Nigredo)
-- [[The Road of Trials]] — Shadow work in action
-- [[Atonement with the Father]] — Shadow projection onto authority
+- [[Crossing the First Threshold]] — Consumed by shadow (Nigredo)
+- [[Tests, Allies, and Enemies]] — Shadow work in action
+- [[The Ordeal]] — Shadow projection onto authority
 - [[The Ordeal]] — Central shadow confrontation
 - [[Return with the Elixir]] — Integrated shadow becomes gift
 
@@ -785,12 +785,12 @@ The Shadow interacts dynamically with other archetypal structures:
 
 ### Tarot
 - [[The Fool (0)]] — The wolf at the Fool's heels (shadow as instinct)
-- [[The Devil]] — Bondage to shadow; Dweller on the Threshold
-- [[Death]] — Surrender of ego's desire nature (Nigredo)
-- [[The Moon]] — Realm of illusion and shadow phantoms
-- [[The Tower]] — Shadow eruption; sudden destruction of ego defenses
-- [[The Hermit]] — Descent into shadow for self-knowledge
-- [[Judgement]] — Resurrection after shadow integration
+- [[The Devil (XV)]] — Bondage to shadow; Dweller on the Threshold
+- [[Death (XIII)]] — Surrender of ego's desire nature (Nigredo)
+- [[The Moon (XVIII)]] — Realm of illusion and shadow phantoms
+- [[The Tower (XVI)]] — Shadow eruption; sudden destruction of ego defenses
+- [[The Hermit (IX)]] — Descent into shadow for self-knowledge
+- [[Judgement (XX)]] — Resurrection after shadow integration
 
 ### Astrology
 - [[Pluto ♇]] — Lord of the underworld; death/rebirth; shadow material
@@ -798,18 +798,18 @@ The Shadow interacts dynamically with other archetypal structures:
 - [[Saturn ♄]] — Guardian of the Threshold; limitation and test
 - [[Scorpio ♏]] — Descent into shadow; intensity, sexuality, transformation
 - [[12th House]] — Hidden enemies, unconscious, shadow realm
-- [[Chiron]] — The wounded healer; shadow wound that becomes gift
-- [[South Node]] — Past-life shadow; karmic material to integrate
+- [[Astrology]] — The wounded healer; shadow wound that becomes gift
+- [[Astrology]] — Past-life shadow; karmic material to integrate
 
 ### Human Design
-- [[Open Centers]] — Not-Self conditioning patterns (shadow territory)
+- Open Centers — Not-Self conditioning patterns (shadow territory)
 - [[Gate 18 - Work on What Has Been Spoilt]] — Shadow of judgment
 - [[Gate 38 - Opposition]] — Shadow of struggle
 - [[Gate 48 - The Well]] — Shadow of inadequacy
-- [[Gate 6 - Conflict]] — Hostile brothers; shadow projection
-- [[Solar Plexus Center]] — Emotional shadow (avoiding confrontation)
-- [[Root Center]] — Stress and pressure shadow
-- [[Undefined Centers]] — Where shadow conditioning accumulates
+- [[Gate 06 - Conflict]] — Hostile brothers; shadow projection
+- [[Solar Plexus]] — Emotional shadow (avoiding confrontation)
+- [[Root]] — Stress and pressure shadow
+- [[Centers]] — Where shadow conditioning accumulates
 
 ### Mythology & Fairy Tales
 - [[Greek Mythology]] — Dionysus, Hades, Medusa, dark doubles
@@ -818,16 +818,16 @@ The Shadow interacts dynamically with other archetypal structures:
 - [[Beauty and the Beast]] — Loving the shadow into transformation
 - [[Cinderella]] — The hostile sisters (shadow competition)
 - [[Hansel and Gretel]] — The devouring witch (shadow mother)
-- [[The Frog King]] — Rejected instinct (frog) becomes prince
+- The Frog King — Rejected instinct (frog) becomes prince
 
 ### The Window (I-Ching)
-- [[Hexagram 29 - The Abysmal]] — Danger, descent into the pit
-- [[Hexagram 51 - Shock]] — Sudden confrontation with shadow
-- [[Hexagram 36 - Darkening of the Light]] — Hiding one's light (shadow work in adversity)
+- Hexagram 29 - The Abysmal — Danger, descent into the pit
+- Hexagram 51 - Shock — Sudden confrontation with shadow
+- Hexagram 36 - Darkening of the Light — Hiding one's light (shadow work in adversity)
 
 ### Related Concepts
-- [[Projection]] — Primary mechanism of shadow operation
-- [[Active Imagination]] — Method for dialoguing with shadow
+- Projection — Primary mechanism of shadow operation
+- Active Imagination — Method for dialoguing with shadow
 - [[The Collective Unconscious]] — Source of archetypal shadow
 - [[Synchronicity]] — Shadow often appears via meaningful coincidence
 - [[The Transcendent Function]] — Ego-shadow tension births new consciousness

@@ -165,7 +165,7 @@ The Root:
 
 *The Root is the pressure to move—the adrenaline-fueled urgency that propels humanity forward, the stress that signals danger, the momentum that sustains evolution. For some, this pressure is reliable and consistent, a fixed drive to complete and transform. For others, it is amplified and borrowed, a constant rush to be free of urgency that paradoxically creates more stress. To honor the Root is to recognize that pressure, when correct, is fuel—but when amplified or chronic, it is burnout waiting to happen.*
 
-
+---
 ## Sources
 
 Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.

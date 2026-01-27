@@ -768,24 +768,24 @@ The Trickster appears in dreams with specific motifs:
 
 ### Jungian Archetypes
 - [[The Shadow]] — The Trickster mediates shadow material; brings the repressed to light
-- [[Folklore/Jungian Archetypes/The Hero]] — The Trickster is the hero's saboteur, teacher, and necessary complement
-- [[Folklore/Jungian Archetypes/The Anima]] — Often merges with Trickster energy (femme fatale, muse, witch)
-- [[Folklore/Jungian Archetypes/The Animus]] — Appears as the clever magician, Hermes-guide, trickster-intellect
-- [[Folklore/Jungian Archetypes/The Self]] — The Self contains the Trickster; wholeness embraces chaos
+- [[The Hero]] — The Trickster is the hero's saboteur, teacher, and necessary complement
+- [[The Anima]] — Often merges with Trickster energy (femme fatale, muse, witch)
+- [[The Animus]] — Appears as the clever magician, Hermes-guide, trickster-intellect
+- [[The Self]] — The Self contains the Trickster; wholeness embraces chaos
 - [[The Wise Old Man]] — The integrated Trickster becomes the Sacred Fool; the rigid Senex is deflated by Trickster
-- [[Folklore/Jungian Archetypes/The Great Mother]] — The Trickster violates the Mother's law (taboo-breaker) yet is also culture hero
-- [[Folklore/Jungian Archetypes/The Divine Child]] — Shares pre-moral innocence but Trickster adds cunning and disruption
-- [[Folklore/Jungian Archetypes/The Persona]] — The Trickster disrupts rigid persona; forces authenticity
+- [[The Great Mother]] — The Trickster violates the Mother's law (taboo-breaker) yet is also culture hero
+- [[The Divine Child]] — Shares pre-moral innocence but Trickster adds cunning and disruption
+- [[The Persona]] — The Trickster disrupts rigid persona; forces authenticity
 
 ### Hero's Journey Stages
 - [[The Call to Adventure]] — The Trickster as herald, disrupting the ordinary world
 - [[Refusal of the Call]] — Fear of Trickster chaos
 - [[Crossing the First Threshold]] — Trickster as psychopomp, guide across boundaries
-- [[The Road of Trials]] — Trickster tests, riddles, shapeshifting challenges
-- [[Meeting with the Goddess]] — Requires Trickster flexibility to navigate
-- [[Atonement with the Father]] — Requires Trickster humor to deflate authority inflation
-- [[The Ultimate Boon]] — Often stolen through Trickster cunning (Prometheus, Anansi)
-- [[The Return Threshold]] — Trickster guides return; integration of chaos and order
+- [[Tests, Allies, and Enemies]] — Trickster tests, riddles, shapeshifting challenges
+- [[The Reward]] — Requires Trickster flexibility to navigate
+- [[The Ordeal]] — Requires Trickster humor to deflate authority inflation
+- [[The Reward]] — Often stolen through Trickster cunning (Prometheus, Anansi)
+- The Return Threshold — Trickster guides return; integration of chaos and order
 
 ### Individuation Process
 - [[Ego Formation and Childhood]] — Trickster as curiosity, mischief, boundary-testing
@@ -796,22 +796,22 @@ The Trickster appears in dreams with specific motifs:
 - [[Integration and Wholeness]] — Sacred Fool; wry schizophrenia; humor as spiritual practice
 
 ### Alchemical Stages
-- [[Mercurius]] — The Trickster as alchemical agent; quicksilver; transformative chaos
+- Mercurius — The Trickster as alchemical agent; quicksilver; transformative chaos
 - [[Calcination]] — Trickster as fire that burns away rigidity
 - [[Dissolution]] — Trickster as water that dissolves boundaries
 - [[Fermentation]] — Chaotic putrefaction before resurrection
-- [[Coniunctio]] — Trickster as mediating agent between opposites
+- Coniunctio — Trickster as mediating agent between opposites
 
 ### Tarot
 - [[The Fool (0)]] — Zero Point, leap into unknown, divine madness, beginner's mind
-- [[The Magician]] — Hermes/Mercury, cunning intelligence, threshold mastery
-- [[The Devil]] — Dionysian possession, bondage to appetite, shadow Trickster
-- [[The Moon]] — Illusions, shapeshifting, the Trickster's realm of ambiguity
-- [[The Tower]] — Sudden disruption, Trickster as destroyer of false structures
-- [[The Wheel of Fortune]] — Fate as cosmic joke, the Trickster's unpredictability
+- [[The Magician (I)]] — Hermes/Mercury, cunning intelligence, threshold mastery
+- [[The Devil (XV)]] — Dionysian possession, bondage to appetite, shadow Trickster
+- [[The Moon (XVIII)]] — Illusions, shapeshifting, the Trickster's realm of ambiguity
+- [[The Tower (XVI)]] — Sudden disruption, Trickster as destroyer of false structures
+- [[Wheel of Fortune (X)]] — Fate as cosmic joke, the Trickster's unpredictability
 
 ### Astrology
-- [[Astrology/Planets/Mercury # ☿]] — Messenger, psychopomp, cunning, crossroads, shapeshifting
+- [[Mercury ☿]] — Messenger, psychopomp, cunning, crossroads, shapeshifting
 - [[Uranus ♅]] — Revolutionary chaos, sudden disruption, lightning bolt, paradigm shift
 - [[Gemini ♊]] — Duality, fluidity, multiplicity, the twins (light and dark)
 - [[Sagittarius ♐]] — The holy fool, the questing wanderer, philosophical humor
@@ -819,38 +819,38 @@ The Trickster appears in dreams with specific motifs:
 - [[11th House]] — Revolution, disruption of social order, collective chaos
 
 ### Human Design
-- [[Line 3 - Martyr]] — Trial and error, experimentation, "bonds made and broken"
-- [[Line 5 - Heretic]] — Projection field, savior/villain, disruptor
-- [[Gate 26 - Egoist/Trickster]] — Selling, cunning, manipulation through charm
-- [[Gate 21 - Control]] — The trickster of resources, controlling through strategy
-- [[Open Head Center]] — Mental chaos, inspiration from the unknown, shapeshifting thoughts
-- [[Open Ajna Center]] — Flexible thinking, multiple perspectives, no fixed truth
+- Line 3 - Martyr — Trial and error, experimentation, "bonds made and broken"
+- Line 5 - Heretic — Projection field, savior/villain, disruptor
+- [[Gate 26 - The Taming Power of the Great]] — Selling, cunning, manipulation through charm
+- [[Gate 21 - Biting Through]] — The trickster of resources, controlling through strategy
+- Open Head Center — Mental chaos, inspiration from the unknown, shapeshifting thoughts
+- Open Ajna Center — Flexible thinking, multiple perspectives, no fixed truth
 
 ### Mythology & Fairy Tales
 - [[Greek Mythology]] — Hermes, Dionysus, Odysseus, Prometheus
 - [[Norse Mythology]] — Loki, Odin as Wanderer
 - [[Egyptian Mythology]] — Set as chaos god, necessary destroyer
-- [[West African Mythology]] — Edshu/Legba, Anansi
+- West African Mythology — Edshu/Legba, Anansi
 - [[Native American Mythology]] — Coyote, Raven
-- [[Puss in Boots]] — Trickster cunning rewarded
-- [[The Golden Goose]] — Fool's openness unlocks treasure
-- [[The Brave Little Tailor]] — Creating reality through story and performance
+- Puss in Boots — Trickster cunning rewarded
+- The Golden Goose — Fool's openness unlocks treasure
+- The Brave Little Tailor — Creating reality through story and performance
 
 ### The Window (I-Ching)
-- [[Hexagram 25 - Innocence]] — Wu Wang, "without falsehood," spontaneous action
-- [[Hexagram 4 - Youthful Folly]] — The fool who stumbles into wisdom
-- [[Hexagram 61 - Inner Truth]] — Sincerity beyond convention, Sacred Fool
-- [[Gate 26]] — The Egoist/Trickster gate, selling and cunning
+- Hexagram 25 - Innocence — Wu Wang, "without falsehood," spontaneous action
+- Hexagram 4 - Youthful Folly — The fool who stumbles into wisdom
+- Hexagram 61 - Inner Truth — Sincerity beyond convention, Sacred Fool
+- [[Gate 26 - The Taming Power of the Great]] — The Egoist/Trickster gate, selling and cunning
 
 ### Related Concepts
-- [[Sacred Fool]] — Divine madness, holy idiot, Zen's beginner's mind
-- [[Puer Aeternus]] — Eternal boy, shadow Trickster, refusal to ground
-- [[Shapeshifting]] — Fluidity of identity, refusal of fixed form
-- [[Psychopomp]] — Guide between worlds, threshold-crosser
+- Sacred Fool — Divine madness, holy idiot, Zen's beginner's mind
+- Puer Aeternus — Eternal boy, shadow Trickster, refusal to ground
+- Shapeshifting — Fluidity of identity, refusal of fixed form
+- Psychopomp — Guide between worlds, threshold-crosser
 - [[Synchronicity]] — The universe as Trickster, cosmic jokes
-- [[Lila]] — Divine play, the cosmos as game
-- [[Zero Point]] — Fertile void, emptiness before manifestation
-- [[Wry Schizophrenia]] — Holding seriousness and absurdity simultaneously
+- Lila — Divine play, the cosmos as game
+- Zero Point — Fertile void, emptiness before manifestation
+- Wry Schizophrenia — Holding seriousness and absurdity simultaneously
 
 ---
 

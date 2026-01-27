@@ -15,9 +15,9 @@ verification_notes: "Fairy tale narratives accurate (Grimm, Perrault canon). Jun
 
 ## Overview
 
-**Beauty and the Beast** stands as one of the most psychologically profound fairy tales in the Western canon, encoding the essential pattern of [[Shadow]] integration and the reconciliation of Spirit with Instinct. At its core, the tale narrates the journey from fear-based rejection of the "animal" or "ugly" aspects of the psyche toward their conscious acceptance and redemption through love. The Beast represents repressed masculine instinctual nature—sexuality, aggression, embodied desire—held under an enchantment that separates the civilized Prince (conscious ego) from the bestial form (unconscious drives). Beauty represents the developing [[The Muse|Anima]], the soul-function capable of "seeing with the heart" rather than the eyes, whose capacity for relatedness transforms neurosis into wholeness.
+**Beauty and the Beast** stands as one of the most psychologically profound fairy tales in the Western canon, encoding the essential pattern of [[The Shadow]] integration and the reconciliation of Spirit with Instinct. At its core, the tale narrates the journey from fear-based rejection of the "animal" or "ugly" aspects of the psyche toward their conscious acceptance and redemption through love. The Beast represents repressed masculine instinctual nature—sexuality, aggression, embodied desire—held under an enchantment that separates the civilized Prince (conscious ego) from the bestial form (unconscious drives). Beauty represents the developing [[The Muse|Anima]], the soul-function capable of "seeing with the heart" rather than the eyes, whose capacity for relatedness transforms neurosis into wholeness.
 
-The tale's alchemical structure follows the **Coniunctio**, the Sacred Marriage of opposites: Solar King (Spirit, Logos, the Prince's higher nature) reunites with Lunar Queen (Soul, Eros, Beauty's compassionate receptivity) to birth the [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]]—the integrated Self. Unlike conquest narratives where the hero slays the dragon, this tale insists on **acceptance, tenderness, and the courage to love what appears monstrous**. The transformation occurs not through violence but through relationship, making it a feminine-mysteries counterpart to the [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Hero|Hero's Journey]].
+The tale's alchemical structure follows the **Coniunctio**, the Sacred Marriage of opposites: Solar King (Spirit, Logos, the Prince's higher nature) reunites with Lunar Queen (Soul, Eros, Beauty's compassionate receptivity) to birth the [[The Divine Child]]—the integrated Self. Unlike conquest narratives where the hero slays the dragon, this tale insists on **acceptance, tenderness, and the courage to love what appears monstrous**. The transformation occurs not through violence but through relationship, making it a feminine-mysteries counterpart to the [[The Hero]].
 
 **Developmental Context:** Typically emerges at the threshold of young adulthood (ages 16-25), particularly during the psychosexual maturation process when the unconscious masculine (for women) or one's own instinctual nature (for men) must be integrated rather than feared or projected.
 
@@ -118,7 +118,7 @@ The Beast's near-death and resurrection as the Prince follows the **solve et coa
 
 - **Solve (dissolution)** – The Beast dies; the old form (neurotic split) must be destroyed
 - **Coagula (coagulation)** – The Prince resurrects; the new form (integrated Self) is born
-- **The Coniunctio** – The marriage of Beauty and the Prince is the **Hieros Gamos**, the Sacred Marriage, producing the [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child|Divine Child]] (the Self)
+- **The Coniunctio** – The marriage of Beauty and the Prince is the **Hieros Gamos**, the Sacred Marriage, producing the [[The Divine Child]] (the Self)
 
 This is not metaphorical death—it is the **psychic death** required for rebirth. The Beast as shadow must "die" (cease being the rejected, split-off other) so the Prince (the integrated masculine) can emerge. Beauty's love is the **mercurial water**, the dissolving agent that allows the transformation.
 
@@ -211,21 +211,21 @@ This is the **alchemical wedding**, the *Coniunctio Oppositorum*, where **Solar 
 
 ### Tarot
 
-**[[Strength]] (Key VIII / XI)** – The woman gently closing the lion's jaws with flowers, not force. The same pattern: instinct (lion/Beast) tamed through love (flowers/Beauty), not violence. Strength represents the soul's capacity to integrate the animal nature through compassion and courage.
+**[[Strength (VIII)]] (Key VIII / XI)** – The woman gently closing the lion's jaws with flowers, not force. The same pattern: instinct (lion/Beast) tamed through love (flowers/Beauty), not violence. Strength represents the soul's capacity to integrate the animal nature through compassion and courage.
 
-**[[Temperance]] (Key XIV)** – The Royal Marriage, the alchemical mixing of opposites. The angel pouring water between vessels mirrors Beauty's tears dissolving the Beast's curse. Temperance is the process of reconciliation, the middle path between Spirit and Instinct.
+**[[Temperance (XIV)]] (Key XIV)** – The Royal Marriage, the alchemical mixing of opposites. The angel pouring water between vessels mirrors Beauty's tears dissolving the Beast's curse. Temperance is the process of reconciliation, the middle path between Spirit and Instinct.
 
-**[[The Lovers]] (Key VI)** – The conscious choice to unite opposites. Beauty's "I love you" is the Lovers' card enacted: the ego chooses relationship over safety, integration over separation.
+**[[The Lovers (VI)]] (Key VI)** – The conscious choice to unite opposites. Beauty's "I love you" is the Lovers' card enacted: the ego chooses relationship over safety, integration over separation.
 
-**[[Death]] (Key XIII)** – The Beast's death as necessary transformation. What appears as loss (the Beast) is actually the threshold to resurrection (the Prince).
+**[[Death (XIII)]] (Key XIII)** – The Beast's death as necessary transformation. What appears as loss (the Beast) is actually the threshold to resurrection (the Prince).
 
 ### Mythology
 
-**[[Psyche and Eros]]** – Near-identical pattern: Psyche must love Eros without seeing him, then loses him through betrayal (looking at him with a lamp), and must complete trials to reunite. Both tales encode the **soul's journey to love the divine masculine** (Eros, the Prince) hidden within the frightening or forbidden form.
+**Psyche and Eros** – Near-identical pattern: Psyche must love Eros without seeing him, then loses him through betrayal (looking at him with a lamp), and must complete trials to reunite. Both tales encode the **soul's journey to love the divine masculine** (Eros, the Prince) hidden within the frightening or forbidden form.
 
-**[[Hades and Persephone]]** – Beauty's descent into the Beast's castle mirrors Persephone's abduction to the underworld. Both women must **learn to love the lord of the unconscious** (Hades, the Beast) to become queens of their own depths.
+**Hades and Persephone** – Beauty's descent into the Beast's castle mirrors Persephone's abduction to the underworld. Both women must **learn to love the lord of the unconscious** (Hades, the Beast) to become queens of their own depths.
 
-**[[Orpheus and Eurydice]]** – The backward glance (Orpheus looking back, Beauty staying too long at her father's house) as the **failure of faith** that nearly destroys the beloved. Both tales warn against regression when on the threshold of integration.
+**Orpheus and Eurydice** – The backward glance (Orpheus looking back, Beauty staying too long at her father's house) as the **failure of faith** that nearly destroys the beloved. Both tales warn against regression when on the threshold of integration.
 
 ### Alchemy
 
@@ -246,9 +246,9 @@ This is the **alchemical wedding**, the *Coniunctio Oppositorum*, where **Solar 
 
 **[[The Idol]]** – The Beast as the positive instinctual masculine within the feminine psyche, requiring redemption through relationship.
 
-**[[The Alchemist]]** – The Prince revealed, the integrated totality, the goal of [[Individuation]].
+**[[The Alchemist]]** – The Prince revealed, the integrated totality, the goal of Individuation.
 
-**[[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]]** – The implicit "child" of the marriage, the new consciousness born from the union of opposites.
+**[[The Divine Child]]** – The implicit "child" of the marriage, the new consciousness born from the union of opposites.
 
 ### Human Design
 
@@ -320,25 +320,25 @@ This is the **alchemical wedding**, the *Coniunctio Oppositorum*, where **Solar 
 ## Cross-References
 
 #### Archetypal Figures
-[[The Shadow]] • [[The Muse]] • [[The Idol]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] • [[The Alchemist]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Hero]] • [[The Wise Old Man]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]]
+[[The Shadow]] • [[The Muse]] • [[The Idol]] • [[The Divine Child]] • [[The Alchemist]] • [[The Hero]] • [[The Wise Old Man]] • [[The Great Mother]]
 
 **Jungian Concepts:**
-[[Individuation]] • [[Shadow Integration]] • [[Coniunctio]] • [[Transcendent Function]] • [[Active Imagination]] • [[Projection]] • [[Syzygy]]
+Individuation • Shadow Integration • Coniunctio • [[The Transcendent Function]] • Active Imagination • Projection • Syzygy
 
 **Tarot Keys:**
-[[Strength]] • [[Temperance]] • [[The Lovers]] • [[Death]] • [[The Sun]] • [[The Star]] • [[The Empress]] • [[The Emperor]]
+[[Strength (VIII)]] • [[Temperance (XIV)]] • [[The Lovers (VI)]] • [[Death (XIII)]] • [[The Sun (XIX)]] • [[The Star (XVII)]] • [[The Empress (III)]] • [[The Emperor (IV)]]
 
 #### Alchemical Stages
-[[Nigredo]] • [[Albedo]] • [[Rubedo]] • [[Solve et Coagula]] • [[Philosopher's Stone]] • [[Hieros Gamos]]
+[[Nigredo]] • [[Albedo]] • [[Rubedo]] • Solve et Coagula • Philosopher's Stone • Hieros Gamos
 
 #### Mythological Parallels
-[[Psyche and Eros]] • [[Hades and Persephone]] • [[Orpheus and Eurydice]] • [[Bluebeard]] • [[East of the Sun, West of the Moon]] • [[The Frog Prince]]
+Psyche and Eros • Hades and Persephone • Orpheus and Eurydice • [[Bluebeard]] • East of the Sun, West of the Moon • [[Frog Prince]]
 
 #### Fairy Tale Motifs
-[[The Animal Bridegroom]] • [[The Enchanted Castle]] • [[The Curse and Redemption]] • [[The Sacrificial Daughter]] • [[The Three Sisters]] • [[The Magic Rose]]
+The Animal Bridegroom • [[The Enchanted Castle]] • The Curse and Redemption • [[The Sacrificial Daughter]] • [[The Three Sisters]] • [[The Magic Rose]]
 
 #### Human Design Connections
-[[Sacral Center]] • [[Emotional Authority]] • [[Tribal Circuitry]] • [[Gate 59 - Intimacy]] • [[Channel 27-50 - Preservation]]
+[[Sacral]] • [[Emotional Authority]] • Tribal Circuitry • [[Gate 59 - Dispersion]] • [[Channel 27-50 - Preservation]]
 
 #### Individuation Process
 [[Confrontation with Shadow]] • [[Encounter with Anima-Animus]] • [[Confrontation with the Self]] • [[Integration and Wholeness]]
@@ -347,7 +347,7 @@ This is the **alchemical wedding**, the *Coniunctio Oppositorum*, where **Solar 
 [[The Call to Adventure]] • [[Crossing the First Threshold]] • [[The Ordeal]] • [[The Resurrection]] • [[Return with the Elixir]]
 
 #### Related Tales
-[[Snow White]] • [[Sleeping Beauty]] • [[The Handless Maiden]] • [[The Juniper Tree]] • [[Allerleirauh]]
+[[Snow White]] • Sleeping Beauty • The Handless Maiden • The Juniper Tree • Allerleirauh
 
 ---
 

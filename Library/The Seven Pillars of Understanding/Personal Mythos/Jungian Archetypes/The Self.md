@@ -578,14 +578,14 @@ The Self is not an escape from life, but the **fullest engagement** with life. I
 ### Jungian Archetypes
 
 - [[The Shadow]] - The "apprentice-piece" of individuation; must be integrated before the Self can emerge
-- [[Folklore/Jungian Archetypes/The Anima]] - The bridge to the Self in men; the feminine soul-guide
-- [[Folklore/Jungian Archetypes/The Animus]] - The bridge to the Self in women; the masculine logos-principle
-- [[Folklore/Jungian Archetypes/The Hero]] - The ego's vehicle; must surrender dominance to serve the Self
-- [[Folklore/Jungian Archetypes/The Persona]] - The social mask; must be relativized for the Self to emerge
+- [[The Anima]] - The bridge to the Self in men; the feminine soul-guide
+- [[The Animus]] - The bridge to the Self in women; the masculine logos-principle
+- [[The Hero]] - The ego's vehicle; must surrender dominance to serve the Self
+- [[The Persona]] - The social mask; must be relativized for the Self to emerge
 - [[The Wise Old Man]] - A manifestation of the Self as superior insight and spirit
-- [[Folklore/Jungian Archetypes/The Divine Child]] - A manifestation of the Self as futurity and rebirth
-- [[Folklore/Jungian Archetypes/The Great Mother]] - The Self in its nourishing and devouring totality
-- [[Folklore/Jungian Archetypes/The Joker]] - The disruptor that forces ego-death and rebirth of the Self
+- [[The Divine Child]] - A manifestation of the Self as futurity and rebirth
+- [[The Great Mother]] - The Self in its nourishing and devouring totality
+- [[The Joker]] - The disruptor that forces ego-death and rebirth of the Self
 
 ### Hero's Journey Stages
 
@@ -613,26 +613,26 @@ The Self is not an escape from life, but the **fullest engagement** with life. I
 ### Tarot
 
 - [[The Fool (0)]] (0) - The Self as primordial potential
-- [[The Magician]] (I) - The Self as conscious will
-- [[The High Priestess]] (II) - The Self as hidden wisdom
-- [[The Sun]] (XIX) - The Self as conscious spirit and Divine Child
-- [[The World]] (XXI) - The Self as totality and completion
-- [[The Hermit]] (IX) - The Self as inner light and withdrawal
+- [[The Magician (I)]] (I) - The Self as conscious will
+- [[The High Priestess (II)]] (II) - The Self as hidden wisdom
+- [[The Sun (XIX)]] (XIX) - The Self as conscious spirit and Divine Child
+- [[The World (XXI)]] (XXI) - The Self as totality and completion
+- [[The Hermit (IX)]] (IX) - The Self as inner light and withdrawal
 
 ### Astrology
 
-- [[The Sun]] - Core identity and life force; the "Self" in natal astrology
+- [[The Sun (XIX)]] - Core identity and life force; the "Self" in natal astrology
 - [[Aquarius ♒]] - The Water Bearer; symbol of the coming Aeon and the Self
-- [[The Whole Chart]] - The Self as the totality of the natal pattern
-- [[Midheaven]] - The Self's calling and public expression
-- [[Ascendant]] - The Self's embodiment and appearance
+- The Whole Chart - The Self as the totality of the natal pattern
+- Midheaven - The Self's calling and public expression
+- [[Astrology]] - The Self's embodiment and appearance
 
 ### Human Design
 
 - [[G Center]] - The Magnetic Monopole; anchor of identity and the Self
-- [[Gate 10]] (Behavior of the Self) - Self-love and ethical behavior
-- [[Gate 25]] (Innocence) - Universal love and the spirit of the Self
-- [[The Bodygraph]] - The Self as the totality of the design
+- [[Gate 10 - Treading]] (Behavior of the Self) - Self-love and ethical behavior
+- [[Gate 25 - Innocence]] (Innocence) - Universal love and the spirit of the Self
+- [[The BodyGraph]] - The Self as the totality of the design
 
 ### Mythology & Fairy Tales
 
@@ -652,7 +652,7 @@ The Self is not an escape from life, but the **fullest engagement** with life. I
 ### Qabalah
 
 - [[Kether]] (The Crown) - The Self as primal unity and source
-- [[Tiphereth]] (Beauty) - The Self as the heart center and Higher Self
+- [[Tiphareth]] (Beauty) - The Self as the heart center and Higher Self
 - [[Yesod]] (The Foundation) - The bridge between ego and Self
 
 ### Related Concepts

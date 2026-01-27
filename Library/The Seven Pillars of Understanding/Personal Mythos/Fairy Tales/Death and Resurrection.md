@@ -15,14 +15,14 @@ verification_notes: "Fairy tale narratives accurate (Grimm, Perrault canon). Jun
 
 ## Overview
 
-**Death and Resurrection** stands as the most profound and universal motif in fairy tale literature, encoding the psyche's imperative truth: **consciousness cannot ascend without dying to its present form**. This is not metaphorical consolation but psychological law—the [[Ego]] must surrender its current structure, endure dissolution in darkness, and trust that form will reconstitute at a higher octave. The motif appears across all traditions with relentless consistency: **the whale's belly, the glass coffin, the dismembered body scattered and reassembled, the skeleton emerging from the lake to be fleshed with love**.
+**Death and Resurrection** stands as the most profound and universal motif in fairy tale literature, encoding the psyche's imperative truth: **consciousness cannot ascend without dying to its present form**. This is not metaphorical consolation but psychological law—the Ego must surrender its current structure, endure dissolution in darkness, and trust that form will reconstitute at a higher octave. The motif appears across all traditions with relentless consistency: **the whale's belly, the glass coffin, the dismembered body scattered and reassembled, the skeleton emerging from the lake to be fleshed with love**.
 
 Carl Jung recognized this pattern as the psychological substrate of the **[[Nigredo]]** (blackening) transitioning to **[[Albedo]]** (whitening)—the alchemical death of the prima materia before rebirth as purified essence. Joseph Campbell named it the **Night Sea Journey**, the hero's descent into the underworld from which return is never guaranteed. Clarissa Pinkola Estés identified it as the **Life/Death/Life cycle**, the wild feminine's knowledge that death is not ending but **changing of forms**—the snake sheds skin, the seed rots to sprout, the moon dies to be reborn.
 
 **Developmental Context:** This motif constellates most powerfully during **major life transitions**—adolescence (death of childhood), midlife (Saturn Return, ego collapse), elderhood (approaching literal death), and any crisis that shatters identity (divorce, illness, exile, spiritual emergency). The tale teaches: **do not panic when the old form dies. Feed the renewal process with trust rather than terror. The skeleton must be untangled before love can dance.**
 
 The Death and Resurrection motif operates at the intersection of:
-- **Jungian psychology**: Ego death, [[Shadow]] integration, encounter with [[The Alchemist]]
+- **Jungian psychology**: Ego death, [[The Shadow]] integration, encounter with [[The Alchemist]]
 - **Alchemy**: [[Nigredo]] (putrefaction, blackening) → [[Albedo]] (purification, whitening) → [[Rubedo]] (completion, reddening)
 - **Mysticism**: The Dark Night of the Soul, spiritual death preceding union with the divine
 - **Biology**: Metamorphosis (caterpillar → chrysalis → butterfly), cellular apoptosis (controlled death for organism's health)
@@ -39,7 +39,7 @@ This is not a comforting tale of "things get better." It is a **surgical instruc
 The **whale** (or great fish, sea monster, leviathan) appears across mythologies as the devouring maw that **swallows the hero whole**—Jonah in the Hebrew Bible, Pinocchio in Collodi's tale, the Inuit hero Raven in the whale's stomach retrieving fire. This is not predation but **gestation**: the hero enters the belly alive and emerges transformed.
 
 #### Psychological Meaning
-- **The whale is the [[Collective Unconscious]]** itself—vast, dark, containing all that was before ego-consciousness. To be swallowed is to return to the pre-differentiated state, the oceanic womb-tomb where boundaries dissolve.
+- **The whale is the Collective Unconscious** itself—vast, dark, containing all that was before ego-consciousness. To be swallowed is to return to the pre-differentiated state, the oceanic womb-tomb where boundaries dissolve.
 - **Three days/nights in darkness**: Biblical and folkloric repetition of this duration (Jonah, Christ in the tomb, Inanna in the underworld) marks the **minimum gestation period** for psychological death to complete. Less than three days and the ego aborts the process, clinging to remnants of the old form.
 - **Digestive acids**: The belly is not safe—the hero is being **broken down**, reduced to prima materia. Only when the old structure is dissolved can reconstitution begin.
 - **Expulsion onto shore**: The whale vomits the hero onto land—rebirth is **violent, involuntary**. The psyche cannot will itself into resurrection; it is **spat out** when the gestation completes.
@@ -56,7 +56,7 @@ The **whale** (or great fish, sea monster, leviathan) appears across mythologies
 - Set murders Osiris, cuts him into 14 pieces, scatters them across Egypt
 - Isis retrieves all pieces except the phallus (creative power lost to the underworld)
 - Reassembled, Osiris becomes Lord of the Dead—he cannot return to the living world but rules the realm of transformation
-- **Psychological Meaning**: The ego's fragmentation is **total**. Individuation requires retrieving each disowned piece ([[Shadow]], [[The Muse|Anima]], [[The Idol|Animus]], complexes), reassembling them into a coherent whole. The loss of the phallus signifies: **the resurrected self is not the old self restored but transformed**—creative power now serves the underworld (the unconscious), not the daylight world (ego-dominance).
+- **Psychological Meaning**: The ego's fragmentation is **total**. Individuation requires retrieving each disowned piece ([[The Shadow]], [[The Muse|Anima]], [[The Idol|Animus]], complexes), reassembling them into a coherent whole. The loss of the phallus signifies: **the resurrected self is not the old self restored but transformed**—creative power now serves the underworld (the unconscious), not the daylight world (ego-dominance).
 
 **Fitcher's Bird (Grimm 46):**
 - A sorcerer captures three sisters sequentially
@@ -80,7 +80,7 @@ The **glass coffin** appears in Snow White, Sleeping Beauty, and numerous varian
 **Alchemical Resonance:**
 - The glass is the **hermetically sealed vessel** (alchemical retort) where the prima materia undergoes transformation. Glass allows **observation** (the Prince can see Snow White's beauty even in death) but prevents **intervention**—the process cannot be rushed.
 - **Transparency**: Unlike the whale's opaque belly, the glass coffin makes death **visible**. This is the Albedo stage—after the Nigredo's blackness, the purified essence becomes apparent, luminous, **almost alive** but not yet animate.
-- **The Prince's kiss**: Not rescue but **recognition**. The masculine principle ([[The Idol]]) must see the soul's worth even in death-form, offer **breath** (spiritus, pneuma, life-force), and **claim** her as equal. The kiss is not possession but **conjugation**—the Animus and soul ([[The Muse]]) unite, completing the [[Coniunctio]].
+- **The Prince's kiss**: Not rescue but **recognition**. The masculine principle ([[The Idol]]) must see the soul's worth even in death-form, offer **breath** (spiritus, pneuma, life-force), and **claim** her as equal. The kiss is not possession but **conjugation**—the Animus and soul ([[The Muse]]) unite, completing the Coniunctio.
 
 **Psychological Dynamics:**
 - The glass coffin represents **depression, dissociation, or withdrawal** after trauma—the psyche "plays dead" to survive unbearable conditions (the stepmother's poison apple, the witch's curse, the father's incest). The person is **alive but not living**, visible to others ("She looks fine") but unreachable.
@@ -98,7 +98,7 @@ In Snow White, the **poisoned apple** is the stepmother's final, successful atta
 - **The red half/white half**: In some variants, the stepmother bites the white (safe) half; Snow White eats the red (poisoned). Red = blood, sexuality, menstruation, the **death of maidenhood**. White = innocence, purity, the **pre-sexual state**. The apple contains both; Snow White must integrate the red (become a woman) even though it "kills" the maiden.
 - **Willing consumption**: Snow White **chooses** to eat, despite warnings. This is not victimhood but **necessary complicity**—the ego must **consent** to its death for transformation to occur. Forced death (murder) creates trauma; chosen death (initiation) creates wisdom.
 
-**Jungian Reading**: The stepmother is the **Terrible Mother**, the negative pole of the [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother|Great Mother]] archetype. She cannot tolerate Snow White's beauty (emerging selfhood, fertility, life-force) and must destroy it. The apple is the stepmother's **projection**—she offers Snow White her own poison (envy, vanity, competitiveness). Snow White's resurrection depends on **metabolizing the poison**—integrating the shadow the stepmother represents.
+**Jungian Reading**: The stepmother is the **Terrible Mother**, the negative pole of the [[The Great Mother]] archetype. She cannot tolerate Snow White's beauty (emerging selfhood, fertility, life-force) and must destroy it. The apple is the stepmother's **projection**—she offers Snow White her own poison (envy, vanity, competitiveness). Snow White's resurrection depends on **metabolizing the poison**—integrating the shadow the stepmother represents.
 
 ### The Grave/Underworld: Descent to the Roots
 
@@ -375,7 +375,7 @@ The body declines, friends and partners die, autonomy erodes (retirement, illnes
 - **The skeleton fully visible**: In youth, the skeleton is hidden under flesh; in age, the bones emerge (thin skin, visible joints, the skull pressing against the face). This is the **Life/Death/Life truth**—you are already halfway skeleton. Will you flee, or dance?
 
 **The Resurrection:**
-Elderhood's resurrection is **not physical return to youth** but **spiritual ripening**—becoming the Wise Old Man or Wise Old Woman ([[The Wise Old Man]], [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] in Crone aspect). The elder who has **untangled the skeleton**, faced death without panic, and accepted the Life/Death/Life cycle becomes the **Mentor** for younger generations, the one who can say: *"I have died many times. This is how you endure it."*
+Elderhood's resurrection is **not physical return to youth** but **spiritual ripening**—becoming the Wise Old Man or Wise Old Woman ([[The Wise Old Man]], [[The Great Mother]] in Crone aspect). The elder who has **untangled the skeleton**, faced death without panic, and accepted the Life/Death/Life cycle becomes the **Mentor** for younger generations, the one who can say: *"I have died many times. This is how you endure it."*
 
 #### The Gift
 Elders who resurrect spiritually offer the community:
@@ -394,7 +394,7 @@ Elders who resurrect spiritually offer the community:
 
 ### The Night Sea Journey: Ego Dissolution in the Collective Unconscious
 
-Jung borrowed the term **Night Sea Journey** from Leo Frobenius's work on solar myths, applying it to the ego's descent into the [[Collective Unconscious]]—the vast, dark, primordial **waters** that precede and exceed individual consciousness.
+Jung borrowed the term **Night Sea Journey** from Leo Frobenius's work on solar myths, applying it to the ego's descent into the Collective Unconscious—the vast, dark, primordial **waters** that precede and exceed individual consciousness.
 
 **The Mythological Template:**
 - **Ra's nightly voyage** (Egyptian): The sun-god's barque sails through the Duat (underworld), confronting Apophis (chaos serpent). Each night, Ra is **swallowed by the sky-goddess Nut** (the whale's belly), travels through her body (digestion, dissolution), and is **birthed at dawn** from her womb-mouth. The sunrise is **resurrection**—the same sun but renewed, having defeated chaos.
@@ -849,40 +849,40 @@ A man loses his father suddenly. He hooks the skeleton (his own mortality surfac
 
 ## Cross-References
 #### Archetypal Figures
-[[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] • [[The Alchemist]] • [[The Idol]] • [[The Muse]] • [[The Shadow]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] • [[The Wise Old Man]] • [[The Nightmare]] • [[The Changeling]]
+[[The Great Mother]] • [[The Alchemist]] • [[The Idol]] • [[The Muse]] • [[The Shadow]] • [[The Divine Child]] • [[The Wise Old Man]] • [[The Nightmare]] • [[The Changeling]]
 
 **Jungian Concepts:**
-[[Collective Unconscious]] • [[Individuation]] • [[Shadow Integration]] • [[Coniunctio]] • [[Syzygy]] • [[Transcendent Function]] • [[Active Imagination]] • [[Ego-Self Axis]]
+Collective Unconscious • Individuation • Shadow Integration • Coniunctio • Syzygy • [[The Transcendent Function]] • Active Imagination • Ego-Self Axis
 
 #### Alchemical Stages
-[[Nigredo]] • [[Albedo]] • [[Citrinitas]] • [[Rubedo]] • [[Solve et Coagula]] • [[Prima Materia]] • [[Philosopher's Stone]] • [[Mortificatio]] • [[Putrefaction]]
+[[Nigredo]] • [[Albedo]] • [[Citrinitas]] • [[Rubedo]] • Solve et Coagula • Prima Materia • Philosopher's Stone • Mortificatio • Putrefaction
 
 **Tarot Keys:**
-[[Death]] (XIII) • [[Judgment]] (XX) • [[The Tower]] (XVI) • [[The Hanged Man]] (XII) • [[The Star]] (XVII) • [[Temperance]] (XIV) • [[The Moon]] (XVIII)
+[[Death (XIII)]] (XIII) • [[Judgement (XX)]] (XX) • [[The Tower (XVI)]] (XVI) • [[The Hanged Man (XII)]] (XII) • [[The Star (XVII)]] (XVII) • [[Temperance (XIV)]] (XIV) • [[The Moon (XVIII)]] (XVIII)
 
 #### Mythological Parallels
-[[Inanna's Descent]] • [[Persephone and Demeter]] • [[Psyche and Eros]] • [[Osiris Dismemberment]] • [[Orpheus and Eurydice]] • [[Dionysus]] • [[Jonah and the Whale]] • [[Christ's Resurrection]]
+Inanna's Descent • Persephone and Demeter • Psyche and Eros • [[Osiris Dismemberment]] • Orpheus and Eurydice • Dionysus • [[Jonah and the Whale]] • Christ's Resurrection
 
 #### Fairy Tale Motifs
-[[The Poisoned Apple]] • [[The Glass Coffin]] • [[The Forbidden Chamber]] • [[The Helpful Animal]] • [[The Magic Object]] • [[The Impossible Task]] • [[The Recognition Token]]
+[[The Poisoned Apple]] • The Glass Coffin • [[The Forbidden Chamber]] • The Helpful Animal • The Magic Object • The Impossible Task • The Recognition Token
 
 **Related Fairy Tales:**
-[[Snow White]] • [[Sleeping Beauty]] • [[Hansel and Gretel]] • [[Bluebeard]] • [[The Juniper Tree]] • [[Fitcher's Bird]] • [[The Two Brothers]] • [[Rapunzel]] • [[Beauty and the Beast]]
+[[Snow White]] • Sleeping Beauty • [[Hansel and Gretel]] • [[Bluebeard]] • The Juniper Tree • Fitcher's Bird • [[The Two Brothers]] • [[Rapunzel]] • [[Beauty and the Beast]]
 
 **Hero's Journey / Individuation Process:**
 [[The Ordeal]] • [[The Reward]] • [[Confrontation with Shadow]] • [[Confrontation with the Self]] • [[Integration and Wholeness]] • [[Return with the Elixir]] • [[The Resurrection]]
 
 **Human Design:**
-[[Spleen Center]] • [[Emotional Authority]] • [[Sacral Center]] • [[G-Center]] • [[Gate 28]] • [[Gate 50]] • [[Gate 36]]
+[[Spleen]] • [[Emotional Authority]] • [[Sacral]] • [[G Center]] • [[Gate 28 - Preponderance of the Great]] • [[Gate 50 - The Cauldron]] • [[Gate 36 - Darkening of the Light]]
 
 **I-Ching / The Window:**
-[[Hexagram 29 - The Abysmal]] • [[Hexagram 5 - Waiting]] • [[Hexagram 24 - Return]] • [[Hexagram 47 - Oppression]] • [[Hexagram 50 - The Caldron]]
+Hexagram 29 - The Abysmal • Hexagram 5 - Waiting • Hexagram 24 - Return • Hexagram 47 - Oppression • Hexagram 50 - The Caldron
 
 **Astrology:**
 [[Pluto ♇]] • [[Saturn ♄]] • [[8th House]] • [[Scorpio ♏]] • [[12th House]]
 
 **Angelology:**
-[[Azrael]] • [[Metatron]] • [[Samael]]
+Azrael • [[Metatron]] • [[Samael]]
 
 ---
 

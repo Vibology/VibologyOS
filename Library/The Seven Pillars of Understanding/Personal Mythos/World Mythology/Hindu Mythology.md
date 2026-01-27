@@ -958,14 +958,14 @@ This is controversial but psychologically valid: individuation in the West requi
 ## Cross-References
 
 ### Jungian Archetypes
-- [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Hero]] (Rama, Arjuna, Hanuman)
+- [[The Hero]] (Rama, Arjuna, Hanuman)
 - [[The Shadow]] (Ravana, Kauravas, Asuras, Kali)
 - [[The Muse]] (Sita, Radha, Kali, Durga, Lakshmi, Saraswati, Parvati)
 - [[The Idol]] (Krishna, Shiva, Rama, Vishnu)
-- [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] (Kali, Parvati, Durga, Earth Goddess)
+- [[The Great Mother]] (Kali, Parvati, Durga, Earth Goddess)
 - [[The Wise Old Man]] (Vishwamitra, Vyasa, Krishna as teacher)
-- [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Joker]] (Krishna as trickster, Hanuman)
-- [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] (Bal Krishna, infant Hanuman)
+- [[The Joker]] (Krishna as trickster, Hanuman)
+- [[The Divine Child]] (Bal Krishna, infant Hanuman)
 - [[The Alchemist]] (Atman, Brahman, Vishnu, Shiva)
 - [[The Nightmare]] (Demons guarding Lanka, Kaliya serpent)
 - [[The Changeling]] (Maya, Maricha as golden deer, Hanuman)
@@ -995,43 +995,43 @@ This is controversial but psychologically valid: individuation in the West requi
 
 ### Tarot
 - [[The Fool (0)]] (Krishna's Lila, divine play)
-- [[The Magician]] (Krishna as cosmic creator-teacher)
-- [[The High Priestess]] (Saraswati, Kali as mystery)
-- [[The Emperor]] (Rama as dharmic king)
-- [[The Hierophant]] (Guru, spiritual teacher)
-- [[The Lovers]] (Krishna-Radha, Shiva-Shakti)
-- [[The Chariot]] (Arjuna's chariot, Krishna as driver)
-- [[Strength]] (Durga slaying demons, Hanuman's devotion)
-- [[The Hermit]] (Shiva in meditation)
-- [[The Wheel of Fortune]] (Samsara, cyclical time, Yugas)
-- [[The Hanged Man]] (Yogic inversion, Shiva's asceticism)
-- [[Death]] (Kali, Shiva's Tandava, ego-death)
-- [[Temperance]] (Karma Yoga, balance of action and detachment)
-- [[The Devil]] (Maya, attachment, Ravana's desire)
-- [[The Tower]] (Kundalini awakening, ego-structures collapsing)
-- [[The Star]] (Lakshmi's blessing, grace after ordeal)
-- [[The Moon]] (Maya, illusion, the unconscious)
-- [[The Sun]] (Krishna's Vishvarupa, illumination)
-- [[Judgment]] (Moksha, liberation, karmic resolution)
-- [[The World]] (Atman-Brahman unity, wholeness)
+- [[The Magician (I)]] (Krishna as cosmic creator-teacher)
+- [[The High Priestess (II)]] (Saraswati, Kali as mystery)
+- [[The Emperor (IV)]] (Rama as dharmic king)
+- [[The Hierophant (V)]] (Guru, spiritual teacher)
+- [[The Lovers (VI)]] (Krishna-Radha, Shiva-Shakti)
+- [[The Chariot (VII)]] (Arjuna's chariot, Krishna as driver)
+- [[Strength (VIII)]] (Durga slaying demons, Hanuman's devotion)
+- [[The Hermit (IX)]] (Shiva in meditation)
+- [[Wheel of Fortune (X)]] (Samsara, cyclical time, Yugas)
+- [[The Hanged Man (XII)]] (Yogic inversion, Shiva's asceticism)
+- [[Death (XIII)]] (Kali, Shiva's Tandava, ego-death)
+- [[Temperance (XIV)]] (Karma Yoga, balance of action and detachment)
+- [[The Devil (XV)]] (Maya, attachment, Ravana's desire)
+- [[The Tower (XVI)]] (Kundalini awakening, ego-structures collapsing)
+- [[The Star (XVII)]] (Lakshmi's blessing, grace after ordeal)
+- [[The Moon (XVIII)]] (Maya, illusion, the unconscious)
+- [[The Sun (XIX)]] (Krishna's Vishvarupa, illumination)
+- [[Judgement (XX)]] (Moksha, liberation, karmic resolution)
+- [[The World (XXI)]] (Atman-Brahman unity, wholeness)
 
 ### Astrology
 - [[Jupiter ♃]] (Vishnu as expansion, dharma, grace)
 - [[Saturn ♄]] (Shiva as time, limitation, destruction-transformation)
 - [[Venus ♀]] (Lakshmi, Radha as beauty, love, abundance)
 - [[Mars ♂]] (Durga, Hanuman as warrior energy)
-- [[Astrology/Planets/Mercury # ☿]] (Krishna as trickster, teacher, communicator)
+- [[Mercury ☿]] (Krishna as trickster, teacher, communicator)
 - [[Moon ☽]] (Shakti, the feminine, the unconscious)
 - [[Sun ☉]] (Rama as solar hero, consciousness, dharma)
 - [[Pluto ♇]] (Kali as death, transformation, underworld)
 - [[Neptune ♆]] (Maya, illusion, dissolution into Brahman)
 
 ### Human Design
-- [[Gate 2]] (Direction of the Self) = Atman seeking Brahman
-- [[Gate 25]] (Innocence) = Krishna's Lila, divine play
-- [[Gate 36]] (Crisis/Darkening of Light) = Kali Yuga, necessary descent
-- [[Gate 55]] (Spirit/Abundance) = Lakshmi's blessing
-- [[Gate 63]] (Doubt/After Completion) = Maya, questioning illusion
+- [[Gate 02 - The Receptive]] (Direction of the Self) = Atman seeking Brahman
+- [[Gate 25 - Innocence]] (Innocence) = Krishna's Lila, divine play
+- [[Gate 36 - Darkening of the Light]] (Crisis/Darkening of Light) = Kali Yuga, necessary descent
+- [[Gate 55 - Abundance]] (Spirit/Abundance) = Lakshmi's blessing
+- [[Gate 63 - After Completion]] (Doubt/After Completion) = Maya, questioning illusion
 
 ---
 

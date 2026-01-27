@@ -16,7 +16,7 @@ verification_notes: "Campbell's monomyth[^1] framework (12-stage Hero's Journey)
 
 Meeting the Mentor represents the **activation of the Wise Old Man/Woman archetype** within the psyche—the moment when the hero encounters external wisdom that will become internalized guidance. In Campbell's monomyth[^1], this is Stage 4, positioned after the [[Refusal of the Call]] and before [[Crossing the First Threshold]]. It marks the **bridge between doubt and commitment**, between the Ordinary World's paralysis and the Special World's demands.
 
-Jung's concept of[^2] the **[[Wise Old Man]]** provides the psychological substrate. This archetype represents the capacity for wisdom, reflection, and insight that transcends the ego's limited perspective. The Mentor is not merely a teacher but a **manifestation of the [[Self]]**—the suprapersonal guide that appears precisely when the ego can no longer navigate alone.
+Jung's concept of[^2] the **[[The Wise Old Man]]** provides the psychological substrate. This archetype represents the capacity for wisdom, reflection, and insight that transcends the ego's limited perspective. The Mentor is not merely a teacher but a **manifestation of the [[The Self]]**—the suprapersonal guide that appears precisely when the ego can no longer navigate alone.
 
 In *The Archetypes and the Collective Unconscious*, Jung writes:[^2]
 
@@ -44,7 +44,7 @@ The Mentor appears across mythological traditions with remarkable consistency:
 
 **1. Greek Mythology**
 - **Athena to Odysseus**: The goddess provides counsel, disguises, and strategic wisdom throughout the *Odyssey*. She does not fight his battles but ensures he has the clarity to fight them himself.
-- **Chiron to Heroes**: The wounded centaur trains Achilles, Heracles, Jason, Asclepius—teaching combat, medicine, music. Chiron embodies the **Wounded Healer**—the best Mentors have survived their own [[Ordeal]].
+- **Chiron to Heroes**: The wounded centaur trains Achilles, Heracles, Jason, Asclepius—teaching combat, medicine, music. Chiron embodies the **Wounded Healer**—the best Mentors have survived their own [[The Ordeal]].
 - **Mentor to Telemachus**: In Homer's *Odyssey*, Athena disguises herself as "Mentor" (literally "advisor") to guide Odysseus's son. The word itself becomes synonymous with wise guidance.
 
 **2. Arthurian Legend**
@@ -61,7 +61,7 @@ The Mentor appears across mythological traditions with remarkable consistency:
 
 **5. Eastern Traditions**
 - **The Buddha's Teachers**: Before enlightenment, Siddhartha studied under two meditation masters—Alara Kalama and Udaka Ramaputta—who taught him *jhana* states. Their teachings were essential but incomplete; the Buddha had to surpass them to achieve *nibbana*.
-- **Krishna to Arjuna**: In the *Bhagavad Gita*, Krishna serves as Arjuna's charioteer and spiritual guide during the [[Ordeal]] of the Kurukshetra war. Krishna does not fight; he teaches *dharma* (right action).
+- **Krishna to Arjuna**: In the *Bhagavad Gita*, Krishna serves as Arjuna's charioteer and spiritual guide during the [[The Ordeal]] of the Kurukshetra war. Krishna does not fight; he teaches *dharma* (right action).
 
 **6. Indigenous Traditions**
 - **The Shaman as Mentor**: In many Indigenous cultures, the elder shaman initiates the younger into spirit-walking, plant medicine, and the invisible realms. The teaching is not intellectual but **experiential**—the Mentor guides the first vision quest but does not enter the vision.
@@ -85,7 +85,7 @@ Fairy tales encode the Mentor archetype in compressed, symbolic form:
 
 ### The Mentor's Limitation: The Gift and the Departure
 
-A defining feature of the Mentor: **they cannot accompany the hero into the [[Ordeal]]**.
+A defining feature of the Mentor: **they cannot accompany the hero into the [[The Ordeal]]**.
 
 **Why the Mentor Must Leave**:
 1. **Existential Necessity**: The hero must internalize the teaching. If the Mentor remains, dependency persists—the hero stays a student, never becomes an adept.
@@ -107,22 +107,22 @@ Psychologically, the Mentor corresponds to:
 
 **Adolescence (12-18)**: The adolescent rejects parental Mentors, seeking new guides—coaches, artists, rebels, cult figures. This is the psyche's attempt to **individuate** from the family matrix. Healthy adolescence finds Mentors who challenge the old order without annihilating it.
 
-**Young Adulthood (18-30)**: The [[Saturn Return]] (ages 28-30) often brings a crisis Mentor—therapist, sponsor, spiritual teacher—who appears when the inherited identity structure collapses. This Mentor helps the individual discern *their* path versus the path expected by family/culture.
+**Young Adulthood (18-30)**: The [[Saturn ♄]] (ages 28-30) often brings a crisis Mentor—therapist, sponsor, spiritual teacher—who appears when the inherited identity structure collapses. This Mentor helps the individual discern *their* path versus the path expected by family/culture.
 
 **Midlife (35-50)**: At midlife, the individual may *become* the Mentor to younger seekers. Jung's *"confrontation with the unconscious"* (his breakdown at age 38) forced him to mentor *himself*—dialogue with inner figures (Philemon, Salome) as internalized guides.
 
-**Elderhood (60+)**: The elder internalizes the Mentor fully—no longer needing external teachers, they draw wisdom from the [[Self]]. The task shifts: *be* the Mentor for the next generation.
+**Elderhood (60+)**: The elder internalizes the Mentor fully—no longer needing external teachers, they draw wisdom from the [[The Self]]. The task shifts: *be* the Mentor for the next generation.
 
 ## Archetypal Cast
 | **System** | **Primary Correspondence** | **Symbolic Resonance** | **Psychological Function** |
 |------------|---------------------------|------------------------|----------------------------|
 | **Tarot** | [[The Hierophant (V)]]<br>[[The Hermit (IX)]]<br>[[Temperance (XIV)]] | Hierophant: Tradition, teaching, initiation<br>Hermit: Solitary wisdom, inner light<br>Temperance: Alchemical guidance, balance | The Hierophant transmits lineage knowledge; the Hermit models self-reliance; Temperance teaches integration of opposites |
-| **Astrology** | [[Jupiter ♃]]<br>[[Chiron]]<br>[[9th House]]<br>[[Sagittarius ♐]] | Jupiter: Benevolent teacher, expansion, philosophy<br>Chiron: Wounded healer, teaching through suffering<br>9th House: Higher learning, gurus, pilgrimages<br>Sagittarius: Quest for meaning, archery toward truth | Jupiter expands the hero's worldview; Chiron teaches that wounds become medicine; 9th House draws the seeker toward wisdom; Sagittarius aims at the distant target |
+| **Astrology** | [[Jupiter ♃]]<br>[[Astrology]]<br>[[9th House]]<br>[[Sagittarius ♐]] | Jupiter: Benevolent teacher, expansion, philosophy<br>Chiron: Wounded healer, teaching through suffering<br>9th House: Higher learning, gurus, pilgrimages<br>Sagittarius: Quest for meaning, archery toward truth | Jupiter expands the hero's worldview; Chiron teaches that wounds become medicine; 9th House draws the seeker toward wisdom; Sagittarius aims at the distant target |
 | **Human Design** | **Projector Type**<br>**Gate 50 (The Cauldron)**<br>**Gate 4 (Youthful Folly)**<br>**Defined Ajna Center** | Projector: Natural guide, sees others deeply<br>Gate 50: Values, elders, laws forged in crisis<br>Gate 4: Answering questions, not giving unsolicited advice<br>Ajna: Mental clarity, conceptual wisdom | Projectors guide without forcing; Gate 50 transmits ancestral/cultural values; Gate 4 teaches through inquiry; Ajna provides conceptual frameworks |
 | **I-Ching** | **Hexagram 4 (Meng / Youthful Folly)**<br>**Hexagram 20 (Guan / Contemplation)**<br>**Hexagram 26 (Ta Ch'u / The Taming Power of the Great)** | Hex 4: Student seeking teacher, teacher requiring sincerity<br>Hex 20: The sage observing, presence as teaching<br>Hex 26: Accumulation of wisdom, restraint before release | The I-Ching teaches: true Mentors do not impose but *respond* to genuine seeking; wisdom is transmitted through presence as much as words |
 | **Qabalah** | **Chokmah (Wisdom)**<br>**Chesed (Mercy)**<br>**Path 12 (The Magician)**<br>**Da'at (Knowledge)** | Chokmah: Primordial wisdom, the Wise Father<br>Chesed: Jupiter-ruled mercy, benevolent teacher<br>Magician: Transmission of hermetic secrets<br>Da'at: Hidden knowledge, the Abyss crossed | Chokmah is the cosmic Mentor (wisdom beyond ego); Chesed gives freely; the Magician initiates into mysteries; Da'at represents gnosis earned through descent |
 | **Angelology** | [[Metatron]]<br>[[Raziel]]<br>**Holy Guardian Angel**<br>[[Sandalphon]] | Metatron: Scribe, teacher of humanity, transformed Enoch<br>Raziel: Angel of mysteries, keeper of secrets<br>HGA: Personal guide in Thelemic tradition<br>Sandalphon: Brother of Metatron, prayers carried upward | These angels serve as intermediaries between human and divine—Metatron teaches cosmic law; Raziel imparts hidden knowledge; the HGA guides the individual's unique path |
-| **Jungian Archetypes** | [[The Wise Old Man]]<br>[[The Wise Old Woman]]<br>[[The Sage]]<br>[[Folklore/Jungian Archetypes/The Self]] (projected) | Wise Old Man: Merlin, Gandalf, Obi-Wan<br>Wise Old Woman: Baba Yaga, Fairy Godmother, Hecate<br>Sage: The philosopher, hermit, elder<br>Self: The Mentor as external manifestation of inner totality | The Mentor is the [[Self]] projected outward before it can be integrated inward. The hero must eventually *become* their own Mentor |[^2]
+| **Jungian Archetypes** | [[The Wise Old Man]]<br>[[The Wise Old Man]]<br>[[The Wise Old Man]]<br>[[The Self]] (projected) | Wise Old Man: Merlin, Gandalf, Obi-Wan<br>Wise Old Woman: Baba Yaga, Fairy Godmother, Hecate<br>Sage: The philosopher, hermit, elder<br>Self: The Mentor as external manifestation of inner totality | The Mentor is the [[The Self]] projected outward before it can be integrated inward. The hero must eventually *become* their own Mentor |[^2]
 
 ## Practical Application
 
@@ -151,7 +151,7 @@ Unlike earlier stages where action is paramount, Meeting the Mentor demands **re
 Not everyone who offers to teach is a true Mentor. Red flags:
 - **Demands dependency**: *"You will always need me"* (true Mentors aim to make themselves obsolete)
 - **Seeks adulation**: The teaching becomes about the teacher's ego, not the student's growth
-- **No track record**: Claims wisdom without evidence of their own [[Ordeal]] survived
+- **No track record**: Claims wisdom without evidence of their own [[The Ordeal]] survived
 - **Monetization without boundaries**: Charging exorbitant fees, creating artificial scarcity, weaponizing "energy exchange"
 - **Sexual/romantic entanglement**: Crossing boundaries under guise of "tantric teaching" or "sacred union"
 
@@ -182,7 +182,7 @@ Not everyone who offers to teach is a true Mentor. Red flags:
 The Mentor's teaching must be **tested** in the Special World. Integration demands:
 
 **1. Apply the Teaching Under Pressure**
-- The talisman or mantra the Mentor provides will be needed at the [[Ordeal]]. Do not wait until crisis to practice it—rehearse now.
+- The talisman or mantra the Mentor provides will be needed at the [[The Ordeal]]. Do not wait until crisis to practice it—rehearse now.
 - Example: If the Mentor taught you breathwork for anxiety, practice it daily *before* the panic attack, so the body knows the pattern when terror strikes.
 
 **2. Teach What You Have Learned**
@@ -195,7 +195,7 @@ The Mentor's teaching must be **tested** in the Special World. Integration deman
 - Integration: *"My Mentor was human. They gave what they could. I take what serves and release what does not."*
 
 **4. Become Your Own Mentor**
-- The final stage of Mentorship is **self-mentoring**—accessing the [[Wise Old Man]]/[[Wise Old Woman]] within.
+- The final stage of Mentorship is **self-mentoring**—accessing the [[The Wise Old Man]]/Wise Old Woman within.
 - Practice: In moments of confusion, ask: *"What does the wisest part of me know?"* Listen. Trust.
 
 ### Relationships During and After Meeting the Mentor
@@ -226,13 +226,13 @@ In Campbell's 12-stage monomyth, Meeting the Mentor (Stage 4) occurs **after the
 
 **The Mentor's Relationship to Other Stages**:
 - The **Call** may come from the Mentor (Gandalf recruiting Bilbo, Obi-Wan delivering Leia's message to Luke).
-- The **Tests, Allies, Enemies** stage (Stage 6) applies the Mentor's teaching—each trial is a rehearsal for the [[Ordeal]].
+- The **Tests, Allies, Enemies** stage (Stage 6) applies the Mentor's teaching—each trial is a rehearsal for the [[The Ordeal]].
 - The **Ordeal** (Stage 8) occurs in the Mentor's absence—the teaching must be **internalized**, not externally enforced.
 - The **Return** (Stage 12) may include the hero becoming a Mentor to others, completing the cycle.
 
 ### 4.2 Jungian Depth Psychology: The Mentor as Projected Self[^2]
 
-Jung would interpret the Mentor not as a mere external teacher but as a **manifestation of the [[Self]]**—the suprapersonal center of the psyche that the ego cannot yet access directly[^2].
+Jung would interpret the Mentor not as a mere external teacher but as a **manifestation of the [[The Self]]**—the suprapersonal center of the psyche that the ego cannot yet access directly[^2].
 
 **The Wise Old Man Archetype**:
 In *Archetypes and the Collective Unconscious* (CW 9i[^2]), Jung describes the Wise Old Man as a personification of **meaning, reflection, and insight**:
@@ -240,7 +240,7 @@ In *Archetypes and the Collective Unconscious* (CW 9i[^2]), Jung describes the W
 > "The old man represents knowledge, reflection, insight, wisdom, cleverness, and intuition on the one hand, and on the other, moral qualities such as goodwill and readiness to help, which make his 'spiritual' character sufficiently plain."
 
 **Why the Mentor Appears Externally First**:
-- The ego cannot tolerate the **numinosity** of the [[Self]]—it is too overwhelming, too total.
+- The ego cannot tolerate the **numinosity** of the [[The Self]]—it is too overwhelming, too total.
 - The psyche projects the Self onto an external figure (teacher, guide, guru) so the ego can *relate* to it without being annihilated.
 - As the hero matures, the projection is **withdrawn**—the Mentor is recognized as a carrier of the hero's own potential wisdom.
 
@@ -258,7 +258,7 @@ Not all "wise old men" are benign. Jung warns of the **Mephistophelian Mentor**�
 In Greek mythology, Chiron is a centaur—half-man, half-horse—accidentally wounded by Heracles with a poisoned arrow. The wound is incurable (Chiron is immortal), so he suffers eternally. Yet he becomes the **greatest teacher** of heroes—training Achilles, Asclepius, Jason, and others.
 
 **Psychological Meaning**:
-- **The best Mentors have survived their own [[Ordeal]]**. They teach not from abstract knowledge but from *lived experience*.
+- **The best Mentors have survived their own [[The Ordeal]]**. They teach not from abstract knowledge but from *lived experience*.
 - The "wound" is what qualifies the Mentor—they have faced darkness, failure, or suffering and integrated it.
 - Chiron eventually relinquishes his immortality to end his suffering—the Mentor must **die** (literally or symbolically) so the student can surpass them.
 
@@ -365,7 +365,7 @@ Fairy tales encode the Mentor as:
 
 ### 4.7 The Mentor and the Anima/Animus: Contrasexual Teaching
 
-When the Mentor is the **opposite gender** from the hero, they often function as [[Anima]] (for male heroes) or [[Animus]] (for female heroes)—awakening the inner opposite.
+When the Mentor is the **opposite gender** from the hero, they often function as [[The Anima]] (for male heroes) or [[The Animus]] (for female heroes)—awakening the inner opposite.
 
 **Examples**:
 
@@ -386,7 +386,7 @@ When the Mentor is the **opposite gender** from the hero, they often function as
 
 ### 4.8 The Talisman: The Mentor's Gift as Psychological Anchor
 
-The Mentor often provides a **talisman**—an object, teaching, or mantra that the hero carries into the [[Ordeal]].
+The Mentor often provides a **talisman**—an object, teaching, or mantra that the hero carries into the [[The Ordeal]].
 
 **Talismans in Mythology**:
 
@@ -436,7 +436,7 @@ In many myths, the Mentor **dies** to ensure the hero cannot regress into depend
 - Mufasa's death at Simba's childhood forces Simba into exile and eventual return. The Mentor's ghost (in the stars, in Rafiki's teaching) activates when Simba is ready.
 
 **Psychological Meaning**:
-- The Mentor's death is the **withdrawal of the projection**—the hero can no longer rely on external wisdom and must access the [[Self]] directly.
+- The Mentor's death is the **withdrawal of the projection**—the hero can no longer rely on external wisdom and must access the [[The Self]] directly.
 - Grief is the **initiation fee**—the pain of loss forces maturation.
 
 **Shadow**: When the Mentor dies before the teaching is complete, the hero may freeze in **unresolved grief**, unable to proceed. Therapy often involves completing the interrupted Mentorship symbolically (writing letters to the dead, imagining their guidance).
@@ -508,7 +508,7 @@ Sometimes the Mentor is not an individual but a **lineage, tradition, or body of
 The final stage of the Mentor dynamic: **the student becomes the teacher**.
 
 **When Are You Ready to Mentor?**
-- You have survived your own [[Ordeal]] and integrated the lessons.
+- You have survived your own [[The Ordeal]] and integrated the lessons.
 - You can teach from **experience**, not merely from books.
 - You can **honor the student's autonomy**—you do not need them to stay dependent.
 - You have done your **shadow work**—you will not unconsciously wound those you teach.
@@ -523,7 +523,7 @@ The final stage of the Mentor dynamic: **the student becomes the teacher**.
 
 **The Shadow of Mentoring**:
 - **Power imbalance**: The Mentor-student dynamic is inherently unequal. Do not exploit it.
-- **Projection**: Students will project [[Wise Old Man]]/[[Wise Old Woman]] onto you. Do not identify with it—you are human, not a god.
+- **Projection**: Students will project [[The Wise Old Man]]/Wise Old Woman onto you. Do not identify with it—you are human, not a god.
 - **Burnout**: Mentoring is energy-intensive. You cannot pour from an empty cup.
 
 **Integration**: The mature Mentor knows they are a **conduit**, not the source. The wisdom flows through them, not from them.
@@ -590,23 +590,23 @@ Western heroic narratives privilege the **masculine Mentor** (Obi-Wan, Gandalf).
 
 ### Jungian Archetypes[^2]
 - [[The Wise Old Man]]: The archetypal Mentor—Merlin, Gandalf, Obi-Wan. Represents wisdom, reflection, insight that transcends the ego's limited perspective.
-- [[The Wise Old Woman]]: Baba Yaga, Fairy Godmother, Hecate. The feminine form of archetypal wisdom—intuitive, cyclical, connected to earth and ancestors.
-- [[The Sage]]: The philosopher, hermit, elder. The Mentor in contemplative mode—teaching through presence and reflection rather than action.
-- [[Folklore/Jungian Archetypes/The Self]]: The Mentor is the [[Self]] projected outward before the ego can access it directly. As the hero matures, the Mentor is internalized[^2].
+- [[The Wise Old Man]]: Baba Yaga, Fairy Godmother, Hecate. The feminine form of archetypal wisdom—intuitive, cyclical, connected to earth and ancestors.
+- [[The Wise Old Man]]: The philosopher, hermit, elder. The Mentor in contemplative mode—teaching through presence and reflection rather than action.
+- [[The Self]]: The Mentor is the [[The Self]] projected outward before the ego can access it directly. As the hero matures, the Mentor is internalized[^2].
 - [[The Senex]]: The shadow of the Wise Old Man—rigid, dogmatic, life-denying. The Mentor who no longer serves growth but enforces stagnation.
-- [[The Crone]]: The post-menopausal woman who no longer serves reproductive function and thus gains power, wisdom, and freedom. The Mentor as liberated elder.
-- [[The Magician]]: The archetype of knowledge, initiation, and transformation. The Mentor who teaches not only skills but **mysteries**.
+- The Crone: The post-menopausal woman who no longer serves reproductive function and thus gains power, wisdom, and freedom. The Mentor as liberated elder.
+- [[The Magician (I)]]: The archetype of knowledge, initiation, and transformation. The Mentor who teaches not only skills but **mysteries**.
 
 ### Hero's Journey Stages
 - [[The Call to Adventure]]: Often delivered by the Mentor (Gandalf recruiting Bilbo, Obi-Wan showing Luke Leia's hologram). The Mentor may *initiate* the journey.
 - [[Refusal of the Call]]: The Mentor appears *after* the Refusal to overcome the hero's doubt and provide the tools/permission needed to proceed.
 - [[Crossing the First Threshold]]: The Mentor grants permission to cross; their blessing makes the transition possible.
-- [[Tests, Allies, Enemies]]: The Mentor's teaching is applied in practice—each test is a rehearsal for the [[Ordeal]].
+- [[Tests, Allies, and Enemies]]: The Mentor's teaching is applied in practice—each test is a rehearsal for the [[The Ordeal]].
 - [[Approach to the Inmost Cave]]: The Mentor may accompany the hero to the threshold of the Ordeal but cannot enter the cave itself.
 - [[The Ordeal]]: The Mentor is absent—the hero must face death alone. The Mentor's teaching (talisman, mantra, skill) sustains them.
 - [[The Reward]]: The hero retrieves the boon, proving the Mentor's teaching was sound.
-- [[The Road Back]]: The hero may return to the Mentor to report success or to grieve the Mentor's death.
-- [[Resurrection]]: The hero becomes their own Mentor—the teaching is fully internalized.
+- The Road Back: The hero may return to the Mentor to report success or to grieve the Mentor's death.
+- [[The Resurrection]]: The hero becomes their own Mentor—the teaching is fully internalized.
 - [[Return with the Elixir]]: The hero may become a Mentor to others, completing the cycle.
 
 ### Tarot
@@ -618,7 +618,7 @@ Western heroic narratives privilege the **masculine Mentor** (Obi-Wan, Gandalf).
 
 ### Astrology
 - [[Jupiter ♃]]: The planet of expansion, philosophy, and benevolent teaching. Jupiter transits often bring Mentors into one's life.
-- [[Chiron]]: The wounded healer. Chiron transits and the Chiron Return (age 50-51) activate both wounding and the capacity to mentor others from that wound.
+- [[Astrology]]: The wounded healer. Chiron transits and the Chiron Return (age 50-51) activate both wounding and the capacity to mentor others from that wound.
 - [[9th House]]: The house of higher learning, pilgrimage, gurus, and foreign travel. Planets in the 9th indicate the seeker's relationship to Mentors and teachings.
 - [[Sagittarius ♐]]: The sign of the quest for meaning, ruled by Jupiter. Sagittarius energy seeks Mentors, philosophies, and truths "beyond the horizon."
 - [[Saturn ♄]]: The Mentor as taskmaster and initiator. Saturn teaches through limitation, discipline, and accountability—wisdom earned through constraint.
@@ -653,16 +653,16 @@ Western heroic narratives privilege the **masculine Mentor** (Obi-Wan, Gandalf).
 - [[Michael]]: The warrior archangel. Michael mentors through courage, protection, and the will to stand against darkness.
 
 ### Folklore and Mythology
-- [[Folklore/Jungian Archetypes/The Threshold Guardian[^1]]]: Often confused with the Mentor, but distinct—the Guardian *tests* before the threshold; the Mentor *prepares* for what lies beyond[^2].
-- [[The Trickster]]: Sometimes the Trickster (Loki, Coyote, Hermes) serves as a chaotic Mentor—teaching through disruption, paradox, and rule-breaking.
-- [[Folklore/Jungian Archetypes/The Shapeshifter]]: The Mentor who appears in many forms—animal, human, god. Teaches that reality is fluid, not fixed[^2].
-- [[The Herald]]: Announces the Call; sometimes overlaps with the Mentor if the Herald also provides guidance (Obi-Wan as both Herald and Mentor to Luke).
-- [[The Underworld]]: Some Mentors (Hecate, Persephone as Queen) guide heroes through descent—teaching that death is not the end but a passage.
+- Threshold Guardian: Often confused with the Mentor, but distinct—the Guardian *tests* before the threshold; the Mentor *prepares* for what lies beyond[^2].
+- [[The Joker]]: Sometimes the Trickster (Loki, Coyote, Hermes) serves as a chaotic Mentor—teaching through disruption, paradox, and rule-breaking.
+- [[The Shapeshifter]]: The Mentor who appears in many forms—animal, human, god. Teaches that reality is fluid, not fixed[^2].
+- [[The Threshold Guardian]]: Announces the Call; sometimes overlaps with the Mentor if the Herald also provides guidance (Obi-Wan as both Herald and Mentor to Luke).
+- The Underworld: Some Mentors (Hecate, Persephone as Queen) guide heroes through descent—teaching that death is not the end but a passage.
 
 ### Alchemy
 - [[The Alchemist]]: The Mentor in alchemical tradition—teaching the *Magnum Opus*, the transmutation of lead (unrefined psyche) into gold (individuated Self).
-- [[The Hermetic Tradition]]: *"As above, so below."* The Mentor teaches correspondence—that the macrocosm (cosmos) and microcosm (individual) mirror each other.
-- [[The Philosopher's Stone]]: The Mentor's ultimate teaching—the method by which base matter (ego) is transmuted into the Stone (the [[Self]]).
+- The Hermetic Tradition: *"As above, so below."* The Mentor teaches correspondence—that the macrocosm (cosmos) and microcosm (individual) mirror each other.
+- The Philosopher's Stone: The Mentor's ultimate teaching—the method by which base matter (ego) is transmuted into the Stone (the [[The Self]]).
 
 ### Modern Psychology
 - **Transference (Freud/Jung)**: The client projects parental or archetypal figures onto the therapist. The therapist as Mentor must navigate this projection without exploiting it.

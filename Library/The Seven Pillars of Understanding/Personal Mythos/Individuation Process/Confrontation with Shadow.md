@@ -295,15 +295,15 @@ A **real person** who has descended into their own underworld and returned with 
 
 **Jungian Archetypes:**
 - [[The Shadow]] (primary archetype of this stage—complete entry with personal vs collective distinction)
-- [[Folklore/Jungian Archetypes/The Hero]] (must "die" in the Ordeal to be reborn)
-- [[Folklore/Jungian Archetypes/The Persona]] (relativized, revealed as partial truth)
-- [[Folklore/Jungian Archetypes/The Anima]] (contaminated by shadow until integration occurs)
-- [[Folklore/Jungian Archetypes/The Animus]] (contaminated by shadow until integration occurs)
-- [[Folklore/Jungian Archetypes/The Great Mother]] (terrible aspect—devouring, death-dealing)
+- [[The Hero]] (must "die" in the Ordeal to be reborn)
+- [[The Persona]] (relativized, revealed as partial truth)
+- [[The Anima]] (contaminated by shadow until integration occurs)
+- [[The Animus]] (contaminated by shadow until integration occurs)
+- [[The Great Mother]] (terrible aspect—devouring, death-dealing)
 
 **Hero's Journey:**
 - [[The Ordeal]] (central crisis, ego-death, supreme test)
-- [[The Road Back]] (returning from underworld with new knowledge)
+- The Road Back (returning from underworld with new knowledge)
 
 #### Individuation Process
 - [[Persona Development]] (Stage 2—the structure that must now be dissolved)
@@ -317,10 +317,10 @@ A **real person** who has descended into their own underworld and returned with 
 - [[Albedo]] (follows this—purification, soul-work)
 
 **Tarot:**
-- [[XIII - Death]] (transformation, ego-death, necessary ending)
-- [[XV - The Devil]] (shadow possession, bondage to repressed)
-- [[XVIII - The Moon]] (unconscious, shadow realm, illusion vs reality)
-- [[XVI - The Tower]] (shattering of Persona, violent revelation)
+- [[Death (XIII)]] (transformation, ego-death, necessary ending)
+- [[The Devil (XV)]] (shadow possession, bondage to repressed)
+- [[The Moon (XVIII)]] (unconscious, shadow realm, illusion vs reality)
+- [[The Tower (XVI)]] (shattering of Persona, violent revelation)
 
 **Astrology:**
 - [[Pluto ♇]] (death, rebirth, shadow, transformation, underworld)
@@ -331,17 +331,17 @@ A **real person** who has descended into their own underworld and returned with 
 - [[Pluto Square Pluto]] (age 40-42—generational crisis)
 
 **Human Design:**
-- [[Root Center]] (pressure to transform, fear as motivator)
-- [[Solar Plexus Center]] (emotional wave, depth, shadow emotions)
-- [[Spleen Center]] (existential fears, survival instincts)
-- [[Gate 51]] (Shock—initiatory crisis)
-- [[Gate 36]] (Crisis—emotional turbulence as growth)
+- [[Root]] (pressure to transform, fear as motivator)
+- [[Solar Plexus]] (emotional wave, depth, shadow emotions)
+- [[Spleen]] (existential fears, survival instincts)
+- [[Gate 51 - The Arousing]] (Shock—initiatory crisis)
+- [[Gate 36 - Darkening of the Light]] (Crisis—emotional turbulence as growth)
 
 #### Mythology
 - [[Greek Mythology]] (Persephone's abduction, Orpheus' descent)
 - [[Mesopotamian Mythology]] (Inanna's descent to Ereshkigal)
 - [[Dante's Divine Comedy]] (*Inferno*—circles of hell as shadow aspects)
-- [[Christian Mythology]] (Christ's Harrowing of Hell, descent before resurrection)
+- Christian Mythology (Christ's Harrowing of Hell, descent before resurrection)
 
 **Fairy Tales:**
 - [[Beauty and the Beast]] (Beast as shadow—rejected but needed)
@@ -349,14 +349,14 @@ A **real person** who has descended into their own underworld and returned with 
 - [[The Two Brothers]] (light/dark twins must reconcile)
 
 **Related Concepts:**
-- [[Enantiodromia]] (reversal into opposite)
-- [[Midlife Crisis]] (cultural term for this stage)
-- [[Projection]] (seeing one's shadow in others)
-- [[Active Imagination]] (method for shadow dialogue)
+- Enantiodromia (reversal into opposite)
+- Midlife Crisis (cultural term for this stage)
+- Projection (seeing one's shadow in others)
+- Active Imagination (method for shadow dialogue)
 - [[Moral Inflation]] (identifying as "all good")
 - [[Shadow Possession]] (overwhelmed by repressed contents)
 - [[Scapegoating]] (collective shadow projection)
-- [[Dark Night of the Soul]] (mystical parallel to Nigredo)
+- Dark Night of the Soul (mystical parallel to Nigredo)
 
 ---
 

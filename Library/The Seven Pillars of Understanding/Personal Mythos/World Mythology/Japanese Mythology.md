@@ -841,11 +841,11 @@ Shinto cosmology maps the **individuation process** with precision:
 - [[The Shadow]] (Susanoo, oni, yokai, destructive chaos)
 - [[The Muse]] (Izanami, Kushinada, Uzume, embodied feminine wisdom)
 - [[The Idol]] (Izanagi, Yamato Takeru, heroic masculine)
-- [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] (Izanami as creator, Uka-no-Mitama as nurturer)
+- [[The Great Mother]] (Izanami as creator, Uka-no-Mitama as nurturer)
 - [[The Wise Old Man]] (Omoikane, ancestral kami, elder wisdom)
-- [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Joker]] (Susanoo as trickster, yokai, kitsune shapeshifters)
-- [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] (Leech-Child, infant Susanoo, potential awaiting form)
-- [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Hero]] (Yamato Takeru, Susanoo redeemed, dragon-slayer)
+- [[The Joker]] (Susanoo as trickster, yokai, kitsune shapeshifters)
+- [[The Divine Child]] (Leech-Child, infant Susanoo, potential awaiting form)
+- [[The Hero]] (Yamato Takeru, Susanoo redeemed, dragon-slayer)
 - [[The Nightmare]] (Torii gates, Shikome, boulder of Yomi)
 
 ### Hero's Journey
@@ -855,7 +855,7 @@ Shinto cosmology maps the **individuation process** with precision:
 - [[Tests, Allies, and Enemies]] (Roosters, offerings, gods cooperating)
 - [[The Ordeal]] (Mirror held up, Self confronts own radiance)
 - [[The Reward]] (Light returns, meaning restored)
-- [[The Road Back]] (Susanoo descends to Izumo, shadow integration begins)
+- The Road Back (Susanoo descends to Izumo, shadow integration begins)
 - [[The Resurrection]] (Orochi slain, sword retrieved, shadow redeemed)
 - [[Return with the Elixir]] (Sacred Treasures unified, culture founded on wholeness)
 
@@ -883,23 +883,23 @@ Shinto cosmology maps the **individuation process** with precision:
 
 ### Tarot
 - [[The Fool (0)]] (Susanoo's wild innocence before maturity)
-- [[The High Priestess]] (Izanami as Queen of the Underworld, lunar mysteries)
-- [[The Empress]] (Izanami as creator, Great Mother)
-- [[The Emperor]] (Izanagi establishing cosmic order)
-- [[The Hierophant]] (Shinto priesthood, ritual transmission)
-- [[The Lovers]] (Izanagi/Izanami, coniunctio, syzygy)
-- [[The Chariot]] (Yamato Takeru's heroic quests)
-- [[Strength]] (Susanoo slaying Orochi, shadow integrated through valor)
-- [[The Hermit]] (Amaterasu in cave, withdrawal for self-reflection)
-- [[The Wheel of Fortune]] (Life-death cycle, Izanami's curse/Izanagi's promise)
-- [[Death]] (Izanami's descent to Yomi, transformation through mortality)
-- [[Temperance]] (Misogi purification, restoring balance)
-- [[The Tower]] (Susanoo's rampage, boundaries violated, chaos erupting)
-- [[The Star]] (Amaterasu emerging, hope restored after darkness)
-- [[The Moon]] (Tsukuyomi, lunar mysteries, the unconscious)
-- [[The Sun]] (Amaterasu, solar radiance, Self-recognition)
-- [[Judgment]] (Harae, purification, restoration of original clarity)
-- [[The World]] (Three Sacred Treasures integrated, wholeness achieved)
+- [[The High Priestess (II)]] (Izanami as Queen of the Underworld, lunar mysteries)
+- [[The Empress (III)]] (Izanami as creator, Great Mother)
+- [[The Emperor (IV)]] (Izanagi establishing cosmic order)
+- [[The Hierophant (V)]] (Shinto priesthood, ritual transmission)
+- [[The Lovers (VI)]] (Izanagi/Izanami, coniunctio, syzygy)
+- [[The Chariot (VII)]] (Yamato Takeru's heroic quests)
+- [[Strength (VIII)]] (Susanoo slaying Orochi, shadow integrated through valor)
+- [[The Hermit (IX)]] (Amaterasu in cave, withdrawal for self-reflection)
+- [[Wheel of Fortune (X)]] (Life-death cycle, Izanami's curse/Izanagi's promise)
+- [[Death (XIII)]] (Izanami's descent to Yomi, transformation through mortality)
+- [[Temperance (XIV)]] (Misogi purification, restoring balance)
+- [[The Tower (XVI)]] (Susanoo's rampage, boundaries violated, chaos erupting)
+- [[The Star (XVII)]] (Amaterasu emerging, hope restored after darkness)
+- [[The Moon (XVIII)]] (Tsukuyomi, lunar mysteries, the unconscious)
+- [[The Sun (XIX)]] (Amaterasu, solar radiance, Self-recognition)
+- [[Judgement (XX)]] (Harae, purification, restoration of original clarity)
+- [[The World (XXI)]] (Three Sacred Treasures integrated, wholeness achieved)
 
 ### Astrology
 - [[Sun ☉]] (Amaterasu, solar consciousness, original radiance)
@@ -912,18 +912,18 @@ Shinto cosmology maps the **individuation process** with precision:
 - [[Uranus ♅]] (Susanoo's lightning disruption, sudden change, revolution)
 
 ### Human Design
-- [[Gate 51]] (The Arousing/Shock) = Susanoo's storm, initiation through chaos
-- [[Gate 36]] (Darkening of the Light) = Amaterasu in cave, crisis of meaning
-- [[Gate 35]] (Progress) = Uzume's dance, forward movement through embodied joy
-- [[Gate 55]] (Abundance) = Amaterasu's light returning, restoration of flow
-- [[Gate 29]] (The Abysmal) = Yomi descent, commitment to the depths
+- [[Gate 51 - The Arousing]] (The Arousing/Shock) = Susanoo's storm, initiation through chaos
+- [[Gate 36 - Darkening of the Light]] (Darkening of the Light) = Amaterasu in cave, crisis of meaning
+- [[Gate 35 - Progress]] (Progress) = Uzume's dance, forward movement through embodied joy
+- [[Gate 55 - Abundance]] (Abundance) = Amaterasu's light returning, restoration of flow
+- [[Gate 29 - The Abysmal]] (The Abysmal) = Yomi descent, commitment to the depths
 
 ### Folklore & Jungian Psychology
 - [[The Shadow]] (Oni, yokai, Susanoo unleashed)
-- [[The Trickster]] (Kitsune, tanuki, shapeshifters, boundary-crossers)
-- [[Sacred Marriage]] (Izanagi/Izanami, Susanoo/Kushinada, coniunctio)
+- [[The Joker]] (Kitsune, tanuki, shapeshifters, boundary-crossers)
+- Sacred Marriage (Izanagi/Izanami, Susanoo/Kushinada, coniunctio)
 - [[Katabasis]] (Izanagi's Yomi descent, hero's underworld journey)
-- [[Psychopomp]] (Ancestral kami, torii as threshold, guiding souls)
+- Psychopomp (Ancestral kami, torii as threshold, guiding souls)
 
 ---
 

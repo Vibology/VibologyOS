@@ -67,7 +67,7 @@ Horses represent **instinctual drives**—sexual energy, life force, the power t
 
 ### Within Personal Mythos
 - **Greek Mythology Overview:** [[Greek Mythology]]
-- **Related Deities:** [[Zeus]] (brother), [[Hades]] (brother), [[Amphitrite]] (wife)
+- **Related Deities:** [[Zeus]] (brother), [[Hades]] (brother), Amphitrite (wife)
 
 ### Cross-System Integration
 - **[[Astrology]]:** [[Neptune ♆]] as planetary embodiment

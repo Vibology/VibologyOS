@@ -152,7 +152,7 @@ For all Types, the Spleen:
 
 *The Spleen is the ancient guardian—the quiet, instinctual knowing that protects life without fanfare or explanation. It speaks once, softly, in the present moment, and does not repeat. For some, this knowing is reliable and consistent. For others, it is amplified and must be discerned from fear. To honor the Spleen is to trust the body's first knowing, to act spontaneously without hesitation, and to release what no longer supports survival, health, and vitality.*
 
-
+---
 ## Sources
 
 Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.

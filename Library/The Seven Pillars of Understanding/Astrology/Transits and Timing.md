@@ -124,7 +124,6 @@ What are you resisting *right now*—and is it possible that the resistance itse
 Transits teach that you cannot control the weather. You can only **learn to navigate** it—and in that navigation, discover whether you are the puppet or the sailor.
 
 ---
-
 ## Sources
 
 - Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Jovian Archive (transits as neutrino programming, deconditioning process)

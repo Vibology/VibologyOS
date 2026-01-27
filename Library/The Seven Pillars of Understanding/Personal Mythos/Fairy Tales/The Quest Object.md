@@ -15,9 +15,9 @@ verification_notes: "Fairy tale narratives accurate (Grimm, Perrault canon). Jun
 
 ## Overview
 
-**The Quest Object** is one of the most universal and psychologically potent motifs in fairy tale, myth, and alchemy—the **hard-to-attain treasure** that represents [[Folklore/Jungian Archetypes/The Self|the Self]], wholeness, or the missing value that restores meaning to life. Whether it appears as the **Golden Ball** ([[Frog Prince]]), the **Holy Grail** ([[Parzival]]), the **Water of Life**, the **Golden Fleece**, the **Philosopher's Stone**, or the **Pearl of Great Price**, the Quest Object functions psychologically as **the goal that mobilizes the libido**, pulling the hero out of stasis, comfort, or the nursery into the perilous adventure of [[Individuation Process|individuation]].
+**The Quest Object** is one of the most universal and psychologically potent motifs in fairy tale, myth, and alchemy—the **hard-to-attain treasure** that represents [[The Self]], wholeness, or the missing value that restores meaning to life. Whether it appears as the **Golden Ball** ([[Frog Prince]]), the **Holy Grail** (Parzival), the **Water of Life**, the **Golden Fleece**, the **Philosopher's Stone**, or the **Pearl of Great Price**, the Quest Object functions psychologically as **the goal that mobilizes the libido**, pulling the hero out of stasis, comfort, or the nursery into the perilous adventure of [[Individuation Process|individuation]].
 
-Unlike ordinary objects, the Quest Object is **numinous**—it glows, it shines, it calls. It is always **difficult to reach**: hidden in the abyss, guarded by a dragon, locked behind seven doors, concealed in the underworld, or obtainable only through impossible trials. This difficulty is not arbitrary but **psychologically necessary**—the treasure represents the [[Folklore/Jungian Archetypes/The Self|Self]], and the Self can only be won through confrontation with the [[Folklore/Jungian Archetypes/The Shadow|shadow]], descent into the unconscious, and the surrender of ego inflation.
+Unlike ordinary objects, the Quest Object is **numinous**—it glows, it shines, it calls. It is always **difficult to reach**: hidden in the abyss, guarded by a dragon, locked behind seven doors, concealed in the underworld, or obtainable only through impossible trials. This difficulty is not arbitrary but **psychologically necessary**—the treasure represents the [[The Self]], and the Self can only be won through confrontation with the [[The Shadow]], descent into the unconscious, and the surrender of ego inflation.
 
 **Marie-Louise von Franz** describes the Quest Object as the "center that gives meaning to the chaos"—the organizing principle around which the fragmented psyche can cohere. **Joseph Campbell** identifies it as the **Ultimate Boon** of [[Folklore/Hero's Journey/The Call to Adventure|the Hero's Journey]]—the treasure consciousness brings back from the unconscious to renew life. The Quest Object is not an end in itself but a **symbol**—what it represents (wholeness, Self, God-image, the missing piece of soul) is the true goal.
 
@@ -81,7 +81,7 @@ The **Holy Grail** (from Arthurian legend, Wolfram von Eschenbach's *Parzival*, 
 - **Self-sustaining** – Provides nourishment, never empties; the Self as source of endless renewal
 - **Invisible to the unworthy** – Only the pure, the wounded, or the fool can see or attain it
 
-The Grail represents **the Self as the God-image within**—the ultimate organizing center, the source of meaning, the goal of the spiritual quest. It is always **hard to find**: hidden in the Grail Castle, revealed only at certain moments, lost if the seeker fails to ask the right question ([[Parzival]]'s failure: he does not ask, "What ails thee?" to the Wounded King).
+The Grail represents **the Self as the God-image within**—the ultimate organizing center, the source of meaning, the goal of the spiritual quest. It is always **hard to find**: hidden in the Grail Castle, revealed only at certain moments, lost if the seeker fails to ask the right question (Parzival's failure: he does not ask, "What ails thee?" to the Wounded King).
 
 **Von Franz's reading:** The Grail is the **feminine vessel of transformation**, the container that holds and transforms suffering. It is the Anima (soul) in her highest form, the mediator between ego and Self. The hero must ask the **compassionate question**—not conquer, but witness and ask.
 
@@ -237,7 +237,7 @@ Psychological meaning: **The life force (libido) you need is guarded by instinct
 
 ### The Holy Grail: The Treasure That Requires the Right Question
 
-[[Parzival]] sees the Grail procession and the suffering Grail King (Amfortas) but, trained to "not ask too many questions," remains silent. The Grail vanishes; he has failed.
+Parzival sees the Grail procession and the suffering Grail King (Amfortas) but, trained to "not ask too many questions," remains silent. The Grail vanishes; he has failed.
 
 **Quest pattern:**
 1. **Vision** – The Grail appears (the Self calls)
@@ -577,13 +577,13 @@ Psychologically: **The Self (the Grail) is not conquered but revealed. It appear
 ## Internal Links: Cross-References
 
 ### Jungian Archetypes
-- [[Folklore/Jungian Archetypes/The Self]] – The Quest Object as symbol of the Self; wholeness, the God-image within
-- [[Folklore/Jungian Archetypes/The Shadow]] – The dragon, the guardian of the treasure; must be confronted to claim the boon
-- [[Folklore/Jungian Archetypes/The Hero]] – The quester; ego seeking the Self, mobilized by the Call
-- [[Folklore/Jungian Archetypes/The Anima]] – The feminine treasure (the Maiden, the Grail as vessel); soul-image to be integrated
-- [[Folklore/Jungian Archetypes/The Animus]] – The masculine treasure (the Prince, the Sword); inner authority to be claimed
-- [[Folklore/Jungian Archetypes/The Wise Old Man]] – The guide who points to the treasure; mentor, supernatural aid
-- [[Folklore/Jungian Archetypes/The Great Mother]] – The dragon in her devouring aspect; the abyss that swallows and guards the treasure
+- [[The Self]] – The Quest Object as symbol of the Self; wholeness, the God-image within
+- [[The Shadow]] – The dragon, the guardian of the treasure; must be confronted to claim the boon
+- [[The Hero]] – The quester; ego seeking the Self, mobilized by the Call
+- [[The Anima]] – The feminine treasure (the Maiden, the Grail as vessel); soul-image to be integrated
+- [[The Animus]] – The masculine treasure (the Prince, the Sword); inner authority to be claimed
+- [[The Wise Old Man]] – The guide who points to the treasure; mentor, supernatural aid
+- [[The Great Mother]] – The dragon in her devouring aspect; the abyss that swallows and guards the treasure
 
 ### Hero's Journey Stages (Campbell)
 - [[Folklore/Hero's Journey/The Call to Adventure]] – The Quest Object calls; the ball rolls away, the vision appears
@@ -607,7 +607,7 @@ Psychologically: **The Self (the Grail) is not conquered but revealed. It appear
 - [[Folklore/Fairy Tales/Beauty and the Beast]] – The Beast as the treasure; the shadow integrated becomes the Prince (the Self)
 - [[Folklore/Fairy Tales/Snow White]] – Snow White as the treasure (the innocent Self); the glass coffin, the awakening kiss
 - [[Folklore/Fairy Tales/Cinderella]] – The ball (the initiation), the slipper (the proof of identity), the Prince (the Self)
-- [[Folklore/Fairy Tales/Rapunzel]] – Rapunzel herself as the treasure; the soul locked in the tower, freed through love and ordeal
+- [[Rapunzel]] – Rapunzel herself as the treasure; the soul locked in the tower, freed through love and ordeal
 - [[Folklore/Fairy Tales/Hansel and Gretel]] – The treasure (jewels from the witch's house); shadow confronted, boon claimed
 - [[Folklore/Fairy Tales/The Two Brothers]] – The Water of Life, the healing apples; multiple Quest Objects in stages
 
@@ -619,9 +619,9 @@ Psychologically: **The Self (the Grail) is not conquered but revealed. It appear
 - [[Folklore/Alchemical Stages/Coniunctio]] – The sacred marriage; the union of opposites that produces the treasure (the stone, the child)
 
 ### Tarot
-- [[The Tarot/Major Arcana/00 - The Fool|The Fool]] – Beginning the quest; trust, innocence, the leap toward the treasure
-- [[The Tarot/Major Arcana/01 - The Magician|The Magician]] – "As above, so below"; the treasure (the Self) is both within and without
-- [[The Tarot/Major Arcana/07 - The Chariot|The Chariot]] – The hero's vehicle; moving toward the treasure with will and control
+- [[The Fool (0)]] – Beginning the quest; trust, innocence, the leap toward the treasure
+- [[The Magician|The Magician]] – "As above, so below"; the treasure (the Self) is both within and without
+- [[The Chariot|The Chariot]] – The hero's vehicle; moving toward the treasure with will and control
 - [[Ace of Cups|Ace of Cups]] – The Grail offered; the treasure of love, the Self as overflowing abundance
 - [[Ace of Pentacles|Ace of Pentacles]] – The golden coin, the earthly treasure; the Self embodied in the world
 - [[The World (XXI)|The World]] – The ultimate Quest Object; wholeness, the mandala, the Self achieved
@@ -641,18 +641,18 @@ Psychologically: **The Self (the Grail) is not conquered but revealed. It appear
 - [[G Center|G Center]] – Identity, direction, love; the Self as the organizing center, the treasure of "I am"
 - [[Human Design/Gates/Gate 1 - The Creative|Gate 1 - The Creative]] – Self-expression, uniqueness; the treasure of your authentic contribution
 - [[Human Design/Gates/Gate 2 - The Receptive|Gate 2 - The Receptive]] – The feminine vessel, the Grail; receiving the treasure as grace
-- [[Gate 25 - Innocence|Gate 25 - Innocence]] – Love of the Self, universal love; the treasure of the Divine Child within
-- [[Gate 10 - Treading|Gate 10 - Treading]] – Behavior of the Self, embodiment; living the treasure authentically
+- [[Gate 25 - Innocence]] – Love of the Self, universal love; the treasure of the Divine Child within
+- [[Gate 10 - Treading]] – Behavior of the Self, embodiment; living the treasure authentically
 
 ### Mythology & Related Concepts
-- [[Folklore/World Mythology/Greek Mythology|Greek Mythology]] – The Golden Fleece, the Golden Apples, Prometheus' fire; heroic Quest Objects
-- [[Folklore/World Mythology/Norse Mythology|Norse Mythology]] – The mead of poetry, the ring of power (cursed treasure), Odin's sacrifice for runes
-- [[Folklore/World Mythology/Celtic Mythology|Celtic Mythology]] – The cauldron of plenty, the Grail legends, the Salmon of Wisdom
+- [[Greek Mythology]] – The Golden Fleece, the Golden Apples, Prometheus' fire; heroic Quest Objects
+- [[Norse Mythology]] – The mead of poetry, the ring of power (cursed treasure), Odin's sacrifice for runes
+- [[Celtic Mythology]] – The cauldron of plenty, the Grail legends, the Salmon of Wisdom
 - [[Seraphim|Seraphim]] – The burning ones, the treasure of divine fire; proximity to the Source
 - [[The Tarot/The Tree of Life (Qabalah)|Qabalah]] – Keter (the crown, the ultimate treasure), the lightning flash descending, the path of return
 - [[The Collective Unconscious]] – The treasure buried in the shared psychic depths
-- [[The Personal Myth]] – Your unique Quest Object, the treasure only you can find
-- [[Libido]] – Psychic energy mobilized by the Quest Object; what calls you forward
+- [[Personal Mythos]] – Your unique Quest Object, the treasure only you can find
+- Libido – Psychic energy mobilized by the Quest Object; what calls you forward
 - [[Inflation]] – Ego identifying with the treasure (the Self); "I am the Grail" vs. "I serve the Grail"
 
 ---

@@ -302,11 +302,11 @@ A **whole human being** who has shifted the center of gravity from ego to Self, 
 ## Cross-References
 
 **Jungian Archetypes:**
-- [[Folklore/Jungian Archetypes/The Self]] (primary archetype of this stage—totality, wholeness, God-image)
+- [[The Self]] (primary archetype of this stage—totality, wholeness, God-image)
 - [[The Shadow]] (integrated into the Self)
-- [[Folklore/Jungian Archetypes/The Anima]] (united with Animus in the Self)
-- [[Folklore/Jungian Archetypes/The Animus]] (united with Anima in the Self)
-- [[Folklore/Jungian Archetypes/The Divine Child]] (product of the Coniunctio, the realized Self)
+- [[The Anima]] (united with Animus in the Self)
+- [[The Animus]] (united with Anima in the Self)
+- [[The Divine Child]] (product of the Coniunctio, the realized Self)
 - [[The Wise Old Man]] (projection of the Self as guide)
 
 **Hero's Journey:**
@@ -320,14 +320,14 @@ A **whole human being** who has shifted the center of gravity from ego to Self, 
 
 #### Alchemical Stages
 - [[Rubedo]] (primary operation of this stage—reddening, sacred marriage)
-- [[Coniunctio]] (union of opposites, King and Queen united)
+- Coniunctio (union of opposites, King and Queen united)
 - [[Nigredo]] (Stage 3—death of ego-inflation)
 - [[Albedo]] (Stage 4—purification, soul-work)
 
 **Tarot:**
-- [[XXI - The World]] (completion, wholeness, the Self realized)
-- [[VI - The Lovers]] (union of opposites, sacred choice)
-- [[X - Wheel of Fortune]] (fate, the Self's teleological movement)
+- [[The World (XXI)]] (completion, wholeness, the Self realized)
+- [[The Lovers (VI)]] (union of opposites, sacred choice)
+- [[Wheel of Fortune (X)]] (fate, the Self's teleological movement)
 - [[The Fool (0)]] (return to innocence at higher octave)
 
 **Astrology:**
@@ -337,31 +337,31 @@ A **whole human being** who has shifted the center of gravity from ego to Self, 
 - [[Uranus ♅]] (individuation crisis, sudden awakening to Self)
 
 **Human Design:**
-- [[G-Center]] (Self, direction, love, identity—the magnetic monopole)
-- [[Ajna Center]] (awareness, conceptual clarity, certainty)
-- [[Gate 25]] (Spirit of the Self, Universal Love, innocence)
-- [[Gate 1]] (Creative Power, the Self's will)
+- [[G Center]] (Self, direction, love, identity—the magnetic monopole)
+- [[Ajna]] (awareness, conceptual clarity, certainty)
+- [[Gate 25 - Innocence]] (Spirit of the Self, Universal Love, innocence)
+- [[Gate 01 - The Creative]] (Creative Power, the Self's will)
 
 #### Mythology
-- [[Christian Mythology]] (Christ as Anthropos, God-Man)
+- Christian Mythology (Christ as Anthropos, God-Man)
 - [[Hindu Mythology]] (Atman-Brahman, Tat Tvam Asi)
 - [[Buddhist Cosmology]] (Buddha Nature, enlightenment)
-- [[Alchemical Tradition]] (Philosopher's Stone, Lapis, Rebis)
+- Alchemical Tradition (Philosopher's Stone, Lapis, Rebis)
 
 **Fairy Tales:**
-- [[The Spirit in the Bottle]] (encountering the numinous Self)
-- [[The Water of Life]] (the Self's healing elixir)
-- [[The Golden Bird]] (the Self's treasure)
+- The Spirit in the Bottle (encountering the numinous Self)
+- The Water of Life (the Self's healing elixir)
+- The Golden Bird (the Self's treasure)
 
 **Related Concepts:**
-- [[Ego-Self Axis]] (relationship between ego and totality)
+- Ego-Self Axis (relationship between ego and totality)
 - [[Inflation]] (ego identifying with Self = megalomania)
 - [[Mandala]] (symbol of the Self, wholeness)
 - [[God-Image]] (the Self as experienced divine)
 - [[Teleology]] (sense of purpose, destiny, direction)
 - [[Synchronicity]] (the Self's manifestation in matter)
-- [[Unus Mundus]] (One World—spirit and matter continuous)
-- [[Philosopher's Stone]] (Lapis—the realized Self)
+- Unus Mundus (One World—spirit and matter continuous)
+- Philosopher's Stone (Lapis—the realized Self)
 
 ---
 

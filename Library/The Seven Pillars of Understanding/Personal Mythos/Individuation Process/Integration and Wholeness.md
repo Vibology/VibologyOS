@@ -302,11 +302,11 @@ A **completed human being** who has lived the full arc from birth to death **con
 ## Cross-References
 
 **Jungian Archetypes:**
-- [[Folklore/Jungian Archetypes/The Self]] (fully realized, embodied, transparent)
+- [[The Self]] (fully realized, embodied, transparent)
 - [[The Wise Old Man]] (elder as mentor, guide, meaning-giver)
-- [[The Wise Old Woman]] (crone, wisdom-keeper, death-midwife)
+- [[The Wise Old Man]] (crone, wisdom-keeper, death-midwife)
 - [[The Shadow]] (fully integrated, acknowledged without shame)
-- [[Folklore/Jungian Archetypes/The Joker]] (cosmic humor, the final laugh)
+- [[The Joker]] (cosmic humor, the final laugh)
 - [[The Ancestor]] (mediator between living and dead)
 
 **Hero's Journey:**
@@ -319,15 +319,15 @@ A **completed human being** who has lived the full arc from birth to death **con
 - (Stage 6 completes the circle—ego returns to Self consciously)
 
 #### Alchemical Stages
-- [[Coagulatio]] (primary operation of this stage—crystallization, fixation)
+- Coagulatio (primary operation of this stage—crystallization, fixation)
 - [[Rubedo]] (Stage 5—sacred marriage producing the Stone)
-- [[Philosopher's Stone]] (Lapis—the imperishable, crystallized Self)
+- Philosopher's Stone (Lapis—the imperishable, crystallized Self)
 
 **Tarot:**
-- [[IX - The Hermit]] (solitude, inner light, wisdom transmission)
-- [[XXI - The World]] (completion, wholeness, the cosmic dance)
-- [[XIII - Death]] (transition, transformation, letting go)
-- [[IV - The Emperor]] (structure, authority, legacy, the built kingdom)
+- [[The Hermit (IX)]] (solitude, inner light, wisdom transmission)
+- [[The World (XXI)]] (completion, wholeness, the cosmic dance)
+- [[Death (XIII)]] (transition, transformation, letting go)
+- [[The Emperor (IV)]] (structure, authority, legacy, the built kingdom)
 
 **Astrology:**
 - [[Saturn ♄]] (time, mortality, mastery, the great teacher)
@@ -336,30 +336,30 @@ A **completed human being** who has lived the full arc from birth to death **con
 - [[12th House]] (dissolution, mysticism, preparation for death, the womb and tomb)
 
 **Human Design:**
-- [[Root Center]] (pressure released, no more hurry, stillness)
-- [[Head Center]] (inspiration flows freely, cosmic questions)
-- [[Gate 32]] (Continuity—knowing what endures beyond death)
-- [[Gate 61]] (Inner Truth—mystery realized)
+- [[Root]] (pressure released, no more hurry, stillness)
+- [[Head]] (inspiration flows freely, cosmic questions)
+- [[Gate 32 - Duration]] (Continuity—knowing what endures beyond death)
+- [[Gate 61 - Inner Truth]] (Inner Truth—mystery realized)
 
 #### Mythology
 - [[Norse Mythology]] (Odin's self-sacrifice on Yggdrasil)
 - [[Buddhist Cosmology]] (Buddha's Parinirvana, conscious extinction)
-- [[Christian Mythology]] (Christ's willing death, resurrection body)
+- Christian Mythology (Christ's willing death, resurrection body)
 - [[Greek Mythology]] (Socrates' acceptance, Oedipus at Colonus)
 
 **Fairy Tales:**
-- [[The Handless Maiden]] (restoration in old age, wholeness through suffering)
-- [[The Water of Life]] (elder healed by next generation's quest)
+- The Handless Maiden (restoration in old age, wholeness through suffering)
+- The Water of Life (elder healed by next generation's quest)
 - [[Iron Hans]] (wild man becomes wise mentor)
 
 **Related Concepts:**
 - [[Ego Integrity vs. Despair]] (Erikson's final crisis)
-- [[Unus Mundus]] (One World—spirit and matter continuous)
+- Unus Mundus (One World—spirit and matter continuous)
 - [[Lapis Philosophorum]] (Philosopher's Stone—crystallized Self)
 - [[Generativity]] (creating and mentoring for the next generation)
 - [[Life Review]] (integrating memories, finding coherence)
-- [[Conscious Death]] (dying as transition, not annihilation)
-- [[Ancestor]] (mediating between living and dead)
+- Conscious Death (dying as transition, not annihilation)
+- Ancestor (mediating between living and dead)
 - [[Diamond Body]] (imperishable, crystallized essence)
 
 ---

@@ -17,7 +17,7 @@ verification_notes: "Fairy tale narratives accurate (Grimm, Perrault canon). Jun
 
 **Snow White** (German: *Schneewittchen*) stands as one of the Western canon's most harrowing and psychologically dense fairy tales, encoding the **archetypal conflict between the aging feminine and the emergent maiden**—the collision of senescent consciousness with new life, the Mother's refusal to yield to the Daughter. At its mythopoetic core, the tale narrates the perilous passage through **puberty and early adolescence** (ages 12-18), when the young woman must survive the **devouring mother complex**, endure a symbolic death-in-life (the glass coffin), and awaken to mature consciousness through the intervention of the higher masculine ([[The Idol|Animus]] as spiritual Logos rather than instinctual Beast).
 
-The **Evil Queen** is the negative pole of [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]]—the senescent, envious, narcissistic mother who cannot bear the daughter's blossoming. Her weapon is the **magic mirror**, a symbol of the rigidified ego and frozen persona that reflects only surface appearance, incapable of perceiving soul or essence. The mirror is cold Logos severed from Eros, the objective gaze turned malignant through vanity. When the mirror declares Snow White "fairer," the Queen enacts the **matrophagic reversal**: instead of nurturing the new generation, she seeks to devour it, to consume its vitality and beauty to stave off her own death.
+The **Evil Queen** is the negative pole of [[The Great Mother]]—the senescent, envious, narcissistic mother who cannot bear the daughter's blossoming. Her weapon is the **magic mirror**, a symbol of the rigidified ego and frozen persona that reflects only surface appearance, incapable of perceiving soul or essence. The mirror is cold Logos severed from Eros, the objective gaze turned malignant through vanity. When the mirror declares Snow White "fairer," the Queen enacts the **matrophagic reversal**: instead of nurturing the new generation, she seeks to devour it, to consume its vitality and beauty to stave off her own death.
 
 Snow White's survival depends on **withdrawal and dormancy**—the flight into the forest, the refuge with the seven dwarfs (pre-sexual, vegetative helpers of the Earth Mother), and finally the **glass coffin** (suspended animation, psychic preservation in non-conducting isolation). The tale insists that **premature awakening is fatal**: the poisoned apple represents false knowledge, sexuality offered before the ego is ready, consciousness forced too soon. Snow White must "sleep" until her inner Self matures sufficiently to withstand the full light of day.
 
@@ -55,13 +55,13 @@ The Prince proposes; Snow White accepts. At their wedding, the Evil Queen arrive
 
 ### The Evil Queen – The Senescent Mother / Negative Great Mother
 
-The Evil Queen is the **devouring pole of [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]]**—the mother who cannot relinquish her throne, who perceives the daughter's emergence not as natural succession but as **existential threat**. She embodies:
+The Evil Queen is the **devouring pole of [[The Great Mother]]**—the mother who cannot relinquish her throne, who perceives the daughter's emergence not as natural succession but as **existential threat**. She embodies:
 
 - **Senescent consciousness** – The aging feminine refusing to yield, clinging to youth and beauty as identity
 - **Narcissistic vanity** – Identity fused with appearance, with being "fairest"
 - **Envy as ontological** – Not petty jealousy but **archetypal envy**, the old order's rage against the new
 - **Matrophagy** – The mother devouring the daughter to preserve herself (psychological cannibalism)
-- **Shadow of [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]]** – Where the Good Mother nurtures and releases, the Dark Mother suffocates and consumes
+- **Shadow of [[The Great Mother]]** – Where the Good Mother nurtures and releases, the Dark Mother suffocates and consumes
 
 The Queen's **three murder attempts** follow an escalating pattern:
 1. **Constriction** (the laced bodice) – Suffocation, inability to breathe, the daughter's life-force strangled
@@ -332,23 +332,23 @@ The tale asks mothers: **Can you celebrate your daughter's blossoming, or does i
 
 ### Tarot
 
-**[[Death]] (Key XIII)** – The necessary death of the old form (childhood, the Queen's reign) to allow the new (womanhood, Snow White's queenship). The Queen's refusal of Death leads to her destruction; Snow White's acceptance (the death-sleep) leads to resurrection.
+**[[Death (XIII)]] (Key XIII)** – The necessary death of the old form (childhood, the Queen's reign) to allow the new (womanhood, Snow White's queenship). The Queen's refusal of Death leads to her destruction; Snow White's acceptance (the death-sleep) leads to resurrection.
 
-**[[The High Priestess]] (Key II)** – The withdrawal to inner knowledge, the lunar mysteries, the "sleep" that is actually profound interior work. Snow White in the glass coffin embodies the High Priestess: silent, still, gestating the Self in secret.
+**[[The High Priestess (II)]] (Key II)** – The withdrawal to inner knowledge, the lunar mysteries, the "sleep" that is actually profound interior work. Snow White in the glass coffin embodies the High Priestess: silent, still, gestating the Self in secret.
 
-**[[The Empress]] (Key III)** – Snow White's potential, the fertile feminine waiting to bloom. The Queen is the Empress's shadow—the feminine that has become sterile, rigid, refusing to nurture the new.
+**[[The Empress (III)]] (Key III)** – Snow White's potential, the fertile feminine waiting to bloom. The Queen is the Empress's shadow—the feminine that has become sterile, rigid, refusing to nurture the new.
 
-**[[The Tower]] (Key XVI)** – The Queen's collapse when the mirror changes its answer. The false structure (ego fused with persona) is struck by lightning (truth), and the old order falls.
+**[[The Tower (XVI)]] (Key XVI)** – The Queen's collapse when the mirror changes its answer. The false structure (ego fused with persona) is struck by lightning (truth), and the old order falls.
 
-**[[The Sun]] (Key XIX)** – The Prince as solar consciousness, the light that breaks the lunar spell. Snow White's awakening is the Sun card enacted: emergence from darkness, resurrection, the triumph of life over death.
+**[[The Sun (XIX)]] (Key XIX)** – The Prince as solar consciousness, the light that breaks the lunar spell. Snow White's awakening is the Sun card enacted: emergence from darkness, resurrection, the triumph of life over death.
 
 ### Mythology
 
-**[[Persephone and Demeter]]** – The mother-daughter separation, the daughter's descent into the underworld (the forest, the glass coffin), and the eventual return. But in Snow White, the mother is not the grieving Demeter but the **envious Demeter**, the mother who causes the daughter's descent rather than mourning it.
+**Persephone and Demeter** – The mother-daughter separation, the daughter's descent into the underworld (the forest, the glass coffin), and the eventual return. But in Snow White, the mother is not the grieving Demeter but the **envious Demeter**, the mother who causes the daughter's descent rather than mourning it.
 
-**[[Inanna's Descent]]** – The descent through seven gates (Snow White's seven dwarfs, seven years of latency), the death-hanging on the hooks (the glass coffin), and the resurrection through external intervention (Inanna's sister sends rescue; Snow White's Prince provides the jolt).
+**Inanna's Descent** – The descent through seven gates (Snow White's seven dwarfs, seven years of latency), the death-hanging on the hooks (the glass coffin), and the resurrection through external intervention (Inanna's sister sends rescue; Snow White's Prince provides the jolt).
 
-**[[Aphrodite and Psyche]]** – Jealousy between elder goddess (Aphrodite) and mortal maiden (Psyche). Aphrodite's envy of Psyche's beauty mirrors the Queen's envy of Snow White. Both tales encode the **elder feminine's rage at being surpassed**.
+**Aphrodite and Psyche** – Jealousy between elder goddess (Aphrodite) and mortal maiden (Psyche). Aphrodite's envy of Psyche's beauty mirrors the Queen's envy of Snow White. Both tales encode the **elder feminine's rage at being surpassed**.
 
 ### Alchemy
 
@@ -364,15 +364,15 @@ The tale asks mothers: **Can you celebrate your daughter's blossoming, or does i
 
 ### Jungian Archetypes
 
-**[[The Shadow]]** – The Queen as the shadow of [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]], the dark pole that devours rather than nurtures.
+**[[The Shadow]]** – The Queen as the shadow of [[The Great Mother]], the dark pole that devours rather than nurtures.
 
 **[[The Idol]]** – The Prince as the higher masculine, the spiritual Logos, the solar consciousness that awakens the dormant feminine.
 
-**[[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]]** – Snow White at her birth (wished into being by three symbolic elements: white, red, black) is the Divine Child, the Self in potential.
+**[[The Divine Child]]** – Snow White at her birth (wished into being by three symbolic elements: white, red, black) is the Divine Child, the Self in potential.
 
 **[[The Alchemist]]** – Snow White's eventual queenship, the integrated totality that emerges after surviving the mother's envy and the death-sleep.
 
-**[[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]]** – The Queen as the Terrible Mother; the absent Good Mother (Snow White's biological mother, who dies); the dwarfs as surrogate Earth Mother figures.
+**[[The Great Mother]]** – The Queen as the Terrible Mother; the absent Good Mother (Snow White's biological mother, who dies); the dwarfs as surrogate Earth Mother figures.
 
 ### Human Design
 
@@ -466,22 +466,22 @@ Psychologically, this is the **ego's death when it refuses transformation**: the
 
 ## Cross-References
 #### Archetypal Figures
-[[The Shadow]] • [[The Muse]] • [[The Idol]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] • [[The Alchemist]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Hero]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] • [[The Wise Old Man]] • [[The Nightmare]]
+[[The Shadow]] • [[The Muse]] • [[The Idol]] • [[The Divine Child]] • [[The Alchemist]] • [[The Hero]] • [[The Great Mother]] • [[The Wise Old Man]] • [[The Nightmare]]
 
 **Jungian Concepts:**
-[[Individuation]] • [[Shadow Integration]] • [[Coniunctio]] • [[Transcendent Function]] • [[Active Imagination]] • [[Projection]] • [[Ego-Self Axis]] • [[Persona Development]]
+Individuation • Shadow Integration • Coniunctio • [[The Transcendent Function]] • Active Imagination • Projection • Ego-Self Axis • [[Persona Development]]
 
 **Tarot Keys:**
-[[Death]] • [[The High Priestess]] • [[The Empress]] • [[The Tower]] • [[The Sun]] • [[Strength]] • [[Temperance]] • [[The Lovers]]
+[[Death (XIII)]] • [[The High Priestess (II)]] • [[The Empress (III)]] • [[The Tower (XVI)]] • [[The Sun (XIX)]] • [[Strength (VIII)]] • [[Temperance (XIV)]] • [[The Lovers (VI)]]
 
 #### Alchemical Stages
-[[Nigredo]] • [[Albedo]] • [[Rubedo]] • [[Solve et Coagula]] • [[Calcination]] • [[Dissolution]] • [[Coagulation]]
+[[Nigredo]] • [[Albedo]] • [[Rubedo]] • Solve et Coagula • [[Calcination]] • [[Dissolution]] • [[Coagulation]]
 
 #### Mythological Parallels
-[[Persephone and Demeter]] • [[Inanna's Descent]] • [[Aphrodite and Psyche]] • [[Sleeping Beauty]] • [[The Handless Maiden]] • [[Bluebeard]]
+Persephone and Demeter • Inanna's Descent • Aphrodite and Psyche • Sleeping Beauty • The Handless Maiden • [[Bluebeard]]
 
 #### Fairy Tale Motifs
-[[The Wicked Stepmother]] • [[The Magic Mirror]] • [[The Poisoned Gift]] • [[The Seven as Cycle]] • [[The Glass Coffin]] • [[The Awakening Kiss]] • [[The Animal Helpers]]
+[[The Wicked Stepmother]] • The Magic Mirror • The Poisoned Gift • [[The Seven as Cycle]] • The Glass Coffin • The Awakening Kiss • The Animal Helpers
 
 #### Individuation Process
 [[Confrontation with Shadow]] • [[Encounter with Anima-Animus]] • [[Confrontation with the Self]] • [[Integration and Wholeness]] • [[Ego Formation and Childhood]]
@@ -490,7 +490,7 @@ Psychologically, this is the **ego's death when it refuses transformation**: the
 [[The Call to Adventure]] • [[Crossing the First Threshold]] • [[The Ordeal]] • [[The Resurrection]] • [[Return with the Elixir]]
 
 #### Related Tales
-[[Beauty and the Beast]] • [[Sleeping Beauty]] • [[Cinderella]] • [[Rapunzel]] • [[The Handless Maiden]] • [[East of the Sun, West of the Moon]]
+[[Beauty and the Beast]] • Sleeping Beauty • [[Cinderella]] • [[Rapunzel]] • The Handless Maiden • East of the Sun, West of the Moon
 
 ---
 

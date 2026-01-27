@@ -586,7 +586,7 @@ The chamber's teaching coagulates into **practical wisdom**:
 
 ### The Tower (XVI): The Shattering Revelation
 
-**[[The Tower]]** is the direct Tarot parallel to the chamber's revelation—the moment when false structures are shattered by lightning-strike truth. The Tower depicts a edifice struck by divine lightning, its crown blown off, figures falling from windows—**catastrophic disruption** revealing what was built on lies.
+**[[The Tower (XVI)]]** is the direct Tarot parallel to the chamber's revelation—the moment when false structures are shattered by lightning-strike truth. The Tower depicts a edifice struck by divine lightning, its crown blown off, figures falling from windows—**catastrophic disruption** revealing what was built on lies.
 
 **Correspondences with the Chamber:**
 - **False Structure:** The Tower is the marriage/relationship built on the predator's deception
@@ -611,7 +611,7 @@ The chamber *is* the Tower moment. The wife enters assuming she can wash the blo
 
 ### The High Priestess (II): The Secret Behind the Veil
 
-**[[The High Priestess]]** represents **hidden knowledge, the mystery behind the veil, the secret not yet revealed**. She is the guardian of the threshold between conscious and unconscious, the keeper of what is known but not spoken.
+**[[The High Priestess (II)]]** represents **hidden knowledge, the mystery behind the veil, the secret not yet revealed**. She is the guardian of the threshold between conscious and unconscious, the keeper of what is known but not spoken.
 
 **Correspondences with the Chamber:**
 - **The Veil:** The locked door—what is hidden from view
@@ -860,10 +860,10 @@ This is the mark of mature consciousness—living not in denial or naivety, but 
 ### Jungian Archetypes
 - [[The Shadow]]
 - [[The Idol]]
-- [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Persona]]
+- [[The Persona]]
 - [[The Alchemist]]
 - [[The Nightmare]]
-- [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Hero]]
+- [[The Hero]]
 
 ### Alchemical Stages
 - [[Nigredo]]
@@ -877,7 +877,7 @@ This is the mark of mature consciousness—living not in denial or naivety, but 
 - [[Approach to the Inmost Cave]]
 - [[The Ordeal]]
 - [[The Reward]]
-- [[The Road Back]]
+- The Road Back
 
 ### Fairy Tales
 - [[Bluebeard]]
@@ -889,12 +889,12 @@ This is the mark of mature consciousness—living not in denial or naivety, but 
 - [[Cinderella]]
 
 ### Tarot
-- [[The Tower]]
-- [[The High Priestess]]
-- [[Death]]
-- [[The Devil]]
-- [[The Moon]]
-- [[The Star]]
+- [[The Tower (XVI)]]
+- [[The High Priestess (II)]]
+- [[Death (XIII)]]
+- [[The Devil (XV)]]
+- [[The Moon (XVIII)]]
+- [[The Star (XVII)]]
 
 ### Individuation Process
 - [[Confrontation with Shadow]]

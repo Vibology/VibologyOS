@@ -138,7 +138,7 @@ Coagulation is the *rarest* alchemical operation because it requires *all prior 
    - Example: The meditator who no longer sits formally because mindfulness has coagulated into every action.
 
 4. **Rare Early Coagulation (童子, "Divine Child"):**
-   - Some individuals seem to be "born wise"—the [[Folklore/Jungian Archetypes/The Divine Child]] archetype. They exhibit integrated selfhood unusually early. This is either reincarnational memory (esoteric view) or genetic/environmental precocity (psychological view). Regardless, it is Coagulation manifesting young.
+   - Some individuals seem to be "born wise"—the [[The Divine Child]] archetype. They exhibit integrated selfhood unusually early. This is either reincarnational memory (esoteric view) or genetic/environmental precocity (psychological view). Regardless, it is Coagulation manifesting young.
 
 **Key Point:** Coagulation is not "achieved" through effort. It *happens* when the psyche has completed its work. It is grace, not willpower.
 
@@ -350,7 +350,7 @@ Coagulation is the *final stage* of psychological development—the realization 
   - True Coagulation is extremely rare in youth because the ego is still forming. However, certain children exhibit "old soul" qualities—precocious wisdom, embodied compassion. This may be:
     - **Genetic/Environmental:** Secure attachment, wise parenting, early exposure to depth.
     - **Reincarnational (Esoteric View):** The soul carries wisdom from prior lives, coagulated from previous individuation.
-  - Example: [[Folklore/Jungian Archetypes/The Divine Child]] archetype—the Buddha as a child, pointing to heaven and earth, declaring "I alone am the world-honored one."
+  - Example: [[The Divine Child]] archetype—the Buddha as a child, pointing to heaven and earth, declaring "I alone am the world-honored one."
 
 - **Young Adulthood (20-40) - Partial Coagulation:**
   - Some aspects of the Self may coagulate early (e.g., a career calling becomes fixed, a life purpose clarifies, a committed relationship solidifies). But *full* Coagulation (the entire Self realized) is rare before midlife.
@@ -559,16 +559,16 @@ Common dream motifs:
 - **[[Distillation]]:**
   - Distillation purifies the essence (separates spirit from matter). Coagulation *reunites* them—the purified spirit descends back into matter. Distillation is ascent; Coagulation is descent.
 
-- **[[Sublimation]]:**
+- **Sublimation:**
   - Sublimation elevates matter into spirit. Coagulation brings spirit back into matter. They are mirror operations—one lifts, one grounds. The alchemical work requires *both*.
 
 #### Archetypal Constellation
 
 When Coagulation is active, the following archetypes are often present:
-- **[[Folklore/Jungian Archetypes/The Self]]** - The center and circumference realized
-- **[[The Wise Old Man]]** or **[[Folklore/Jungian Archetypes/The Great Mother]]** - The elder wisdom now embodied in the individual
-- **[[Folklore/Jungian Archetypes/The Divine Child]]** - New life born from the union
-- **[[The Hermaphrodite]]** - Masculine and feminine integrated (the stone)
+- **[[The Self]]** - The center and circumference realized
+- **[[The Wise Old Man]]** or **[[The Great Mother]]** - The elder wisdom now embodied in the individual
+- **[[The Divine Child]]** - New life born from the union
+- **The Hermaphrodite** - Masculine and feminine integrated (the stone)
 
 ### 12. The Gift of Integration
 
@@ -613,11 +613,11 @@ Coagulation is the realization of this totality—*lived*, not theorized.
 ## Cross-References
 
 ### Related Archetypes
-- [[Folklore/Jungian Archetypes/The Self]] - The center and circumference, fully realized in Coagulation
+- [[The Self]] - The center and circumference, fully realized in Coagulation
 - [[The Wise Old Man]] - The elder who has embodied wisdom (coagulated knowledge)
-- [[Folklore/Jungian Archetypes/The Great Mother]] - Earth as the womb where spirit solidifies
-- [[Folklore/Jungian Archetypes/The Divine Child]] - New life born from the union of opposites
-- [[The Hermaphrodite]] - Masculine and feminine integrated (the stone)
+- [[The Great Mother]] - Earth as the womb where spirit solidifies
+- [[The Divine Child]] - New life born from the union of opposites
+- The Hermaphrodite - Masculine and feminine integrated (the stone)
 
 ### Related Alchemical Operations
 - [[Calcination]] - Fire destroys the false; Earth (Coagulation) builds the true
@@ -626,20 +626,20 @@ Coagulation is the realization of this totality—*lived*, not theorized.
 - [[Conjunction]] - Fire unites; Earth makes the union permanent
 - [[Fermentation]] - Putrefaction and new life; Coagulation stabilizes the wine
 - [[Distillation]] - Ascent of spirit; Coagulation is the descent back into matter
-- [[Sublimation]] - Matter elevated to spirit; Coagulation is spirit embodied in matter
+- Sublimation - Matter elevated to spirit; Coagulation is spirit embodied in matter
 - [[Rubedo]] (see Four Colors entry when created) - The Reddening, the final alchemical color
 
 ### Related Hero's Journey Stages
 - [[Return with the Elixir]] - Bringing the boon back to the ordinary world (Coagulation)
-- [[Freedom to Live]] - Living fully in both sacred and mundane (Unus Mundus)
-- [[The Road Back]] - The return journey where vision becomes action
+- [[Return with the Elixir]] - Living fully in both sacred and mundane (Unus Mundus)
+- The Road Back - The return journey where vision becomes action
 - [[The Resurrection]] - Final death/rebirth at the threshold (Coagulation as rebirth)
 
 ### Related Tarot
-- [[The World]] - Completion, wholeness, the Self realized (Major Arcana)
-- [[The Sun]] - Radiant embodiment, vitality incarnate (Major Arcana)
-- [[Judgment]] - Resurrection in the flesh, the call answered (Major Arcana)
-- [[The Empress]] - Earth mother, fertility, matter as sacred (Major Arcana)
+- [[The World (XXI)]] - Completion, wholeness, the Self realized (Major Arcana)
+- [[The Sun (XIX)]] - Radiant embodiment, vitality incarnate (Major Arcana)
+- [[Judgement (XX)]] - Resurrection in the flesh, the call answered (Major Arcana)
+- [[The Empress (III)]] - Earth mother, fertility, matter as sacred (Major Arcana)
 - [[Four of Wands]] - Foundations established, home built, celebration of completion
 - [[Ten of Pentacles]] - Legacy, wealth embodied, the stone passed down
 
@@ -654,10 +654,10 @@ Coagulation is the realization of this totality—*lived*, not theorized.
 - [[10th House]] - House of legacy, public embodiment of authority
 
 ### Related Human Design
-- [[Sacral Center]] - Life force defined (vitality embodied)
+- [[Sacral]] - Life force defined (vitality embodied)
 - [[Self-Projected Authority]] - Inner knowing fixed in the body (G-Center speaking directly)
-- [[Generators]] - Sacral response as embodied wisdom (spontaneous right action)
-- [[Manifestors]] - Impact made manifest, initiating Coagulation in the collective
+- Generators - Sacral response as embodied wisdom (spontaneous right action)
+- Manifestors - Impact made manifest, initiating Coagulation in the collective
 
 ### Related Angelology
 - [[Sandalphon]] - Angel of Earth, grounding prayer into manifest reality
@@ -665,15 +665,15 @@ Coagulation is the realization of this totality—*lived*, not theorized.
 - [[Thrones]] - The order that stabilizes divine will in the cosmos
 
 ### Related Folklore & Mythology
-- [[Folklore/Jungian Archetypes/The Divine Child]] - Born wisdom (Coagulation manifesting young)
-- [[The Philosopher's Stone]] (when created) - The goal of all alchemy
-- [[The Hieros Gamos]] (when created) - Sacred marriage made flesh
-- [[The Unus Mundus]] (when created) - One World, spirit and matter unified
+- [[The Divine Child]] - Born wisdom (Coagulation manifesting young)
+- The Philosopher's Stone (when created) - The goal of all alchemy
+- The Hieros Gamos (when created) - Sacred marriage made flesh
+- The Unus Mundus (when created) - One World, spirit and matter unified
 
 ### Related I-Ching
-- [[Hexagram 2 - K'un (The Receptive)]] - Pure Earth, yielding that manifests
-- [[Hexagram 11 - T'ai (Peace)]] - Heaven and Earth in harmony, Coagulation as cosmic balance
-- [[Hexagram 15 - Ch'ien (Modesty)]] - Embodied humility, the stone without inflation
+- Hexagram 2 - K'un (The Receptive) - Pure Earth, yielding that manifests
+- Hexagram 11 - T'ai (Peace) - Heaven and Earth in harmony, Coagulation as cosmic balance
+- Hexagram 15 - Ch'ien (Modesty) - Embodied humility, the stone without inflation
 
 ---
 

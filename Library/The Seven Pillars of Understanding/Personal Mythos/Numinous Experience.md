@@ -32,8 +32,8 @@ Jung adopted the concept to describe encounters with archetypal forces from [[Th
 
 - [[The Collective Unconscious]]
 - [[Synchronicity]]
-- [[Mystical Union]]
-- [[Theosis]]
+- Mystical Union
+- Theosis
 
 ---
 

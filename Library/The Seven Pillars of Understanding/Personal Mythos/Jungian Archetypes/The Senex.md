@@ -59,7 +59,7 @@ jungian_function: The Wise Elder—earned authority, discipline, structure, and 
 ## Cross-References
 
 ### Within Personal Mythos
-- **[[Puer/Puella]]:** The opposing archetype—eternal youth vs. wise age
+- **Puer/Puella:** The opposing archetype—eternal youth vs. wise age
 - **[[The Wise Old Man]]:** Related archetype; more spiritual/archetypal than psychological
 
 ### Cross-System Integration

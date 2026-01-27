@@ -601,14 +601,14 @@ The Eleusinian grain = the Philosopher's Stone—the simple, eternal truth revea
 ## Cross-References
 
 ### Jungian Archetypes
-- [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Hero]] (Heracles, Theseus, Perseus)
+- [[The Hero]] (Heracles, Theseus, Perseus)
 - [[The Shadow]] (Dionysus, Titans, monsters)
 - [[The Muse]] (Persephone, Psyche, Aphrodite, Athena)
 - [[The Idol]] (Zeus, Apollo, Hermes)
-- [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] (Demeter, Hera, Gaia, Medusa)
+- [[The Great Mother]] (Demeter, Hera, Gaia, Medusa)
 - [[The Wise Old Man]] (Chiron, Tiresias, Nestor)
-- [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Joker]] (Hermes as Trickster)
-- [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] (infant Zeus, baby Hermes)
+- [[The Joker]] (Hermes as Trickster)
+- [[The Divine Child]] (infant Zeus, baby Hermes)
 - [[The Alchemist]] (Zeus limited by Moira, Eleusinian grain)
 - [[The Nightmare]] (Sphinx, Cerberus, guardians of Hades)
 - [[The Changeling]] (Proteus, Metis, Circe)
@@ -638,18 +638,18 @@ The Eleusinian grain = the Philosopher's Stone—the simple, eternal truth revea
 
 ### Tarot
 - [[The Fool (0)]] (Dionysian innocence, divine madness)
-- [[The Magician]] (Hermes as psychopomp, trickster)
-- [[The High Priestess]] (Persephone as Queen of Underworld)
-- [[The Emperor]] (Zeus as sovereign)
-- [[The Hierophant]] (Mystery tradition initiator)
-- [[The Lovers]] (Psyche and Eros)
-- [[Strength]] (Heracles)
-- [[The Hanged Man]] (Odin's sacrifice, Prometheus bound)
-- [[Death]] (Persephone's abduction, Hades)
-- [[The Tower]] (Hubris meeting Nemesis)
-- [[The Star]] (Hope after ordeal, Pandora's jar)
-- [[The Sun]] (Apollo's light, consciousness)
-- [[The World]] (Completion of the journey, Psyche's immortality)
+- [[The Magician (I)]] (Hermes as psychopomp, trickster)
+- [[The High Priestess (II)]] (Persephone as Queen of Underworld)
+- [[The Emperor (IV)]] (Zeus as sovereign)
+- [[The Hierophant (V)]] (Mystery tradition initiator)
+- [[The Lovers (VI)]] (Psyche and Eros)
+- [[Strength (VIII)]] (Heracles)
+- [[The Hanged Man (XII)]] (Odin's sacrifice, Prometheus bound)
+- [[Death (XIII)]] (Persephone's abduction, Hades)
+- [[The Tower (XVI)]] (Hubris meeting Nemesis)
+- [[The Star (XVII)]] (Hope after ordeal, Pandora's jar)
+- [[The Sun (XIX)]] (Apollo's light, consciousness)
+- [[The World (XXI)]] (Completion of the journey, Psyche's immortality)
 
 ### Astrology
 - [[Zeus]] as [[Jupiter ♃]] (expansion, sovereignty, spirit)
@@ -657,15 +657,15 @@ The Eleusinian grain = the Philosopher's Stone—the simple, eternal truth revea
 - [[Artemis]] as [[Moon ☽]] (unconscious, instinct, maiden)
 - [[Aphrodite]] as [[Venus ♀]] (love, beauty, eros)
 - [[Ares]] as [[Mars ♂]] (aggression, warfare, drive)
-- [[Hermes]] as [[Astrology/Planets/Mercury # ☿]] (communication, trickster, psychopomp)
-- [[Cronus]] as [[Saturn ♄]] (time, limitation, senex)
+- [[Hermes]] as [[Mercury ☿]] (communication, trickster, psychopomp)
+- Cronus as [[Saturn ♄]] (time, limitation, senex)
 - [[Hades]] as [[Pluto ♇]] (underworld, transformation, death/rebirth)
 - [[Poseidon]] as [[Neptune ♆]] (ocean, dissolution, unconscious depths)
 
 ### Human Design
-- [[Gate 51]] (The Arousing/Shock) = Zeus's thunderbolt, initiation
-- [[Gate 25]] (Innocence) = Dionysian ecstasy, divine madness
-- [[Gate 64]] (Before Completion) = Persephone before return, threshold
+- [[Gate 51 - The Arousing]] (The Arousing/Shock) = Zeus's thunderbolt, initiation
+- [[Gate 25 - Innocence]] (Innocence) = Dionysian ecstasy, divine madness
+- [[Gate 64 - Before Completion]] (Before Completion) = Persephone before return, threshold
 
 ---
 

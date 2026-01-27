@@ -184,7 +184,7 @@ The Rubedo is not a single event but the *culmination* of the individuation proc
 | **Fairy Tale Motifs** | Beauty and Beast married, Sleeping Beauty crowned, Cinderella at the ball, Frog Prince transformed, Return with Elixir |
 | **Alchemical Symbols** | Red sun (*Sol Rubeus*), Philosopher's Stone, crowned androgyne (Rebis), phoenix in flames, red rose, ruby, blood and gold, red tincture |
 | **Hero's Journey Stage** | [[Return with the Elixir]] (Stage 12 - living the wisdom), [[The Reward]] (Stage 9 - claiming the boon), [[The Resurrection]] (Stage 11 - final transformation) |
-| **Tarot Correspondence** | [[The Sun]] (vitality, life, wholeness), [[The World]] (completion, integration), [[Temperance]] (union of opposites), [[Judgement]] (resurrection, rebirth) |
+| **Tarot Correspondence** | [[The Sun (XIX)]] (vitality, life, wholeness), [[The World (XXI)]] (completion, integration), [[Temperance (XIV)]] (union of opposites), [[Judgement (XX)]] (resurrection, rebirth) |
 | **I-Ching Hexagram** | 11 - Peace (T'ai), 63 - After Completion (Chi Chi), 14 - Possession in Great Measure (Ta Yu) |
 | **Astrology** | Sun (life, vitality, Self), Jupiter (expansion, wisdom, benevolence), 9th House (wisdom, philosophy), 10th House (mastery, authority), Leo (solar radiance) |
 | **Zodiac Signs** | Leo (solar, regal, creative), Sagittarius (wisdom, teaching, philosophy), Aries (vitality, life force) |
@@ -206,7 +206,7 @@ The Rubedo is unmistakable—but not dramatic. It feels like *rightness*:
 - **Service:** You are no longer driven by ego needs (status, approval, achievement). You serve—your family, your community, your vocation—from wholeness, not lack.
 - **Humor and Lightness:** You can laugh at yourself. The ego is no longer defended—it serves the Self. There is playfulness, ease, and joy.
 - **Acceptance of Paradox:** You hold opposites without collapsing them. Life and death, light and shadow, joy and sorrow—all are integrated. You do not need to "fix" or "resolve" the tension.
-- **Living Your Myth:** You know your unique story (your [[Personal Myth]]) and you *live* it. You are not imitating anyone—you are being yourself, fully.
+- **Living Your Myth:** You know your unique story (your [[Personal Mythos]]) and you *live* it. You are not imitating anyone—you are being yourself, fully.
 - **Presence:** You are *here*—embodied, grounded, present. Not dissociated, not spiritually bypassing, not transcendent. *Here*.
 - **Wisdom Without Inflation:** You know what you know, but you do not claim to be "enlightened" or "special." Humility and wisdom coexist.
 
@@ -386,7 +386,7 @@ The feminine must integrate the repulsive animus (the frog). The act of love (ki
 
 - **Midlife (35-50 years):** If the midlife Nigredo is consciously endured, the Albedo and Citrinitas may follow. By the late 40s or 50s, the *first signs* of Rubedo may emerge—integrity, acceptance, living authentically.
 
-- **Mature Adulthood (50-60 years):** The Rubedo may fully constellate here. The person has integrated shadow (Nigredo), soul (Albedo), and spirit (Citrinitas). They live their unique myth—the [[Personal Myth]]—in the world. They are whole, vital, and in service.
+- **Mature Adulthood (50-60 years):** The Rubedo may fully constellate here. The person has integrated shadow (Nigredo), soul (Albedo), and spirit (Citrinitas). They live their unique myth—the [[Personal Mythos]]—in the world. They are whole, vital, and in service.
 
 - **Elderhood (60+ years):** **The Rubedo phase.** The elder who has done the work becomes a living embodiment of wisdom. They are:
   - No longer driven by ego needs (status, approval, achievement)
@@ -442,7 +442,7 @@ In Campbell's monomyth, the **Rubedo corresponds to the final stages**:
   - The Citrinitas phase. The Self is encountered as the true center. The ego realizes it is *not* the center—it is the servant.
 
 - **Phase 6: Integration and Wholeness (Elderhood 60+):**
-  - **This is the Rubedo phase.** The ego serves the Self. The individual lives their unique myth ([[Personal Myth]]). Shadow, soul, and spirit are integrated. The person is whole—not perfect, but *complete*.
+  - **This is the Rubedo phase.** The ego serves the Self. The individual lives their unique myth ([[Personal Mythos]]). Shadow, soul, and spirit are integrated. The person is whole—not perfect, but *complete*.
   - The Rubedo elder:
     - Lives authentically (no persona mask)
     - Serves from wholeness (not from wounds)
@@ -622,7 +622,7 @@ When the ego serves the Self—when the work of Nigredo, Albedo, and Citrinitas 
    - The ego is no longer defended—it can laugh at itself. The Rubedo person holds life lightly, playfully. They do not take themselves too seriously. Humor is the sign of integration.
 
 7. **Living the Personal Myth:**
-   - The Rubedo person knows their unique story (their [[Personal Myth]]) and *lives* it. They are not imitating anyone—they are being themselves, fully. This is the incarnation of the Self—the myth made flesh.
+   - The Rubedo person knows their unique story (their [[Personal Mythos]]) and *lives* it. They are not imitating anyone—they are being themselves, fully. This is the incarnation of the Self—the myth made flesh.
 
 8. **Acceptance of Mortality:**
    - The Rubedo person accepts that the body will age and die. This is not tragic—it is reality. Death is met consciously, without terror. The ego dissolves into the Self, and death is the final Rubedo—the return to the One.
@@ -655,7 +655,7 @@ The Rubedo is the lived experience of the Self—the center and the circumferenc
 - [[Conjunction]] - The union that creates the Rubedo
 - [[Fermentation]] - The death and resurrection that precedes Rubedo
 - [[Distillation]] - The purification before final fixation
-- [[Projection]] - The final operation—the stone is cast into the world (Rubedo lived)
+- Projection - The final operation—the stone is cast into the world (Rubedo lived)
 
 ### Related Alchemical Colors
 - [[Nigredo]] - The blackening: death that precedes resurrection (Rubedo)
@@ -663,13 +663,13 @@ The Rubedo is the lived experience of the Self—the center and the circumferenc
 - [[Citrinitas]] - The yellowing: wisdom that is embodied in Rubedo
 
 ### Related Archetypes
-- [[Folklore/Jungian Archetypes/The Self]] - The Rubedo is the Self realized
-- [[Folklore/Jungian Archetypes/The Wise Old Man]] - The Rubedo elder, embodied wisdom
-- [[Folklore/Jungian Archetypes/The Great Mother]] - The nurturing, life-giving aspect of Rubedo
-- [[Folklore/Jungian Archetypes/The Divine Child]] - The *filius philosophorum*, fruit of the Rubedo union
-- [[Folklore/Jungian Archetypes/The Hero]] - Returns with the Elixir (Rubedo as completion)
-- [[Folklore/Jungian Archetypes/The Anima]] - The White Queen who unites with the Red King
-- [[Folklore/Jungian Archetypes/The Animus]] - The Red King who unites with the White Queen
+- [[The Self]] - The Rubedo is the Self realized
+- [[The Wise Old Man]] - The Rubedo elder, embodied wisdom
+- [[The Great Mother]] - The nurturing, life-giving aspect of Rubedo
+- [[The Divine Child]] - The *filius philosophorum*, fruit of the Rubedo union
+- [[The Hero]] - Returns with the Elixir (Rubedo as completion)
+- [[The Anima]] - The White Queen who unites with the Red King
+- [[The Animus]] - The Red King who unites with the White Queen
 
 ### Related Individuation Stages
 - [[Integration and Wholeness]] - Phase 6 of individuation (Rubedo phase)
@@ -681,15 +681,15 @@ The Rubedo is the lived experience of the Self—the center and the circumferenc
 - [[Return with the Elixir]] - The Rubedo as homecoming, wisdom lived
 - [[The Resurrection]] - The final transformation before return (Rubedo)
 - [[The Reward]] - The boon claimed after the Ordeal (transition to Rubedo)
-- [[The Road Back]] - The challenge of returning to the world (Rubedo embodiment)
+- The Road Back - The challenge of returning to the world (Rubedo embodiment)
 
 ### Related Tarot
-- [[The Sun]] - Vitality, life, wholeness, the Rubedo sun
-- [[The World]] - Completion, integration, the dance of wholeness
-- [[Temperance]] - The alchemical angel, union of opposites (prepares for Rubedo)
-- [[Judgement]] - Resurrection, rebirth, the call to Rubedo
-- [[The Lovers]] - The Sacred Marriage (Hieros Gamos), the union that creates Rubedo
-- [[Strength]] - Integration of instinct and spirit (Rubedo as tamed fire)
+- [[The Sun (XIX)]] - Vitality, life, wholeness, the Rubedo sun
+- [[The World (XXI)]] - Completion, integration, the dance of wholeness
+- [[Temperance (XIV)]] - The alchemical angel, union of opposites (prepares for Rubedo)
+- [[Judgement (XX)]] - Resurrection, rebirth, the call to Rubedo
+- [[The Lovers (VI)]] - The Sacred Marriage (Hieros Gamos), the union that creates Rubedo
+- [[Strength (VIII)]] - Integration of instinct and spirit (Rubedo as tamed fire)
 
 ### Related Astrology
 - [[Sun ☉]] - The Rubedo planet: life, vitality, consciousness, Self
@@ -698,12 +698,12 @@ The Rubedo is the lived experience of the Self—the center and the circumferenc
 - [[Sagittarius ♐]] - Wisdom, philosophy, teaching (Rubedo as service)
 - [[9th House]] - Wisdom, philosophy, meaning (Rubedo consciousness)
 - [[10th House]] - Mastery, authority, public service (Rubedo embodied in world)
-- [[Chiron]] - The wounded healer (shadow integrated, Rubedo compassion)
+- [[Astrology]] - The wounded healer (shadow integrated, Rubedo compassion)
 
 ### Related Human Design
 - [[Defined Sacral]] - Life force embodied (Rubedo vitality)
 - [[Defined G-Center]] - Identity fixed, Self embodied (Rubedo center)
-- [[Channel 10-20]] - The Channel of Awakening/Being (Rubedo as living the Self)
+- Channel 10-20 - The Channel of Awakening/Being (Rubedo as living the Self)
 - [[Channel 51-25]] - Initiation (the shock that brings Rubedo)
 - [[Manifesting Generator]] - Vitality in action (Rubedo as embodied service)
 - [[Manifestor]] - Initiating (the Rubedo elder who initiates the new)
@@ -715,15 +715,15 @@ The Rubedo is the lived experience of the Self—the center and the circumferenc
 - [[Sandalphon]] - Earth embodiment (Rubedo as spirit fixed in matter)
 
 ### Related Mythology
-- [[Christian Mythology]] (when created) - Christ resurrected, Pentecost fire
+- Christian Mythology (when created) - Christ resurrected, Pentecost fire
 - [[Egyptian Mythology]] (when created) - Osiris crowned, Red Crown of sovereignty
 - [[Greek Mythology]] (when created) - Dionysus resurrected, Persephone as Queen
 - [[Hindu Mythology]] (when created) - Shiva-Shakti union, Kundalini at crown
 
 ### Related Folklore
 - Fairy tales of marriage and coronation: Beauty and Beast, Sleeping Beauty, Cinderella, Frog Prince
-- [[The Personal Myth]] (when created) - How Rubedo appears as living your unique story
-- [[The Sacred Marriage]] (when created) - The Hieros Gamos as psychological union
+- [[Personal Mythos]] (when created) - How Rubedo appears as living your unique story
+- The Sacred Marriage (when created) - The Hieros Gamos as psychological union
 
 ### Related I-Ching
 - Hexagram 11 - Peace (T'ai): Heaven and Earth united, the Rubedo harmony

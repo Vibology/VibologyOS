@@ -84,13 +84,13 @@ Psychologically, the Resurrection corresponds to:
 ## Archetypal Cast
 | **System** | **Primary Correspondence** | **Symbolic Resonance** | **Psychological Function** |
 |------------|---------------------------|------------------------|----------------------------|
-| **Tarot** | [[Judgment (XX)]]<br>[[The World (XXI)]]<br>[[The Sun (XIX)]] | Judgment: Resurrection, the angel's call, rising from the grave<br>World: Completion, integration, Master of Two Worlds<br>Sun: Vitality, rebirth, new life radiating outward | The final integration—answering the call to rise, embodying wholeness, radiating the transformation publicly |
-| **Astrology** | **0° Aries (Spring Equinox)**<br>[[Pluto ♇]] completing cycle<br>[[Jupiter ♃]] return (12-year)<br>[[Chiron]] return (50-year) | Aries: Rebirth, new cycle, emergence from winter death<br>Pluto: Completion of death/rebirth, full integration<br>Jupiter: Expansion after completion of cycle<br>Chiron: The Wounded Healer returns, ready to serve from the wound | Astrological returns mark Resurrection moments—proof the cycle completed, transformation locked in, new phase begins |
+| **Tarot** | [[Judgement (XX)]]<br>[[The World (XXI)]]<br>[[The Sun (XIX)]] | Judgment: Resurrection, the angel's call, rising from the grave<br>World: Completion, integration, Master of Two Worlds<br>Sun: Vitality, rebirth, new life radiating outward | The final integration—answering the call to rise, embodying wholeness, radiating the transformation publicly |
+| **Astrology** | **0° Aries (Spring Equinox)**<br>[[Pluto ♇]] completing cycle<br>[[Jupiter ♃]] return (12-year)<br>[[Astrology]] return (50-year) | Aries: Rebirth, new cycle, emergence from winter death<br>Pluto: Completion of death/rebirth, full integration<br>Jupiter: Expansion after completion of cycle<br>Chiron: The Wounded Healer returns, ready to serve from the wound | Astrological returns mark Resurrection moments—proof the cycle completed, transformation locked in, new phase begins |
 | **Human Design** | **Living as True Self**<br>**Deconditioning Complete**<br>**Gate 63** (After Completion)<br>**Gate 24** (Rationalization/Return) | True Self: Aligned with Type/Strategy/Authority permanently<br>Deconditioning: No longer reactive to old patterns<br>Gate 63: After completion, careful maintenance<br>Gate 24: Return to the beginning with wisdom | The Resurrection in HD terms is **embodied design**—no longer experimenting but **being** your Type consistently, even under pressure |
 | **I-Ching** | **Hexagram 24 (Fu / Return)**<br>**Hexagram 63 (Chi Chi / After Completion)**<br>**Hexagram 11 (T'ai / Peace)** | Fu: The turning point solidifies, light returns after darkness<br>After Completion: Vigilance after success—maintain transformation<br>Peace: Heaven and Earth in harmony, integration complete | The I-Ching warns: Resurrection is not the end but a **new beginning**. What is won must be carefully tended or it will slip away |
 | **Qabalah** | **Tiphareth (Beauty)**<br>**Kether (Crown) reflecting in Malkuth (Earth)**<br>Path 26 (The Devil to Tiphareth) | Tiphareth: The Reborn Self, Christ consciousness, harmonized center<br>Kether → Malkuth: Divine light fully grounded in matter<br>Path 26: Liberation from bondage, ascent to Beauty | The Resurrection is **Tiphareth consciousness**—the ego aligned with the Higher Self, functioning in the world as integrated being |
 | **Angelology** | [[Metatron]] (The Transformed Human)<br>[[Sandalphon]] (Grounding Divine Light)<br>[[Michael]] (Victory) | Metatron: Enoch became Metatron—human transformed into angel, proof transformation is possible<br>Sandalphon: Brings heaven to earth, embodies prayer<br>Michael: Victory over the dragon, triumphant return | Metatron is the archetypal Resurrection—the human who crossed to divinity and remained. Michael is the warrior's return, victorious |
-| **Jungian Archetypes** | [[Folklore/Jungian Archetypes/The Self]] (Fully Conscious)<br>[[The Reborn God]]<br>[[The Individuated Self]]<br>[[The Master of Two Worlds]] | Self: Ego and unconscious in dialogue, not war<br>Reborn God: Osiris, Christ, Dionysus—death overcome<br>Individuated Self: Wholeness embodied, no longer split<br>Master of Two Worlds: Can navigate ordinary and extraordinary | The Resurrection is **individuation proven**. The Self is no longer theoretical; it is lived, embodied, stable even under duress |[^2]
+| **Jungian Archetypes** | [[The Self]] (Fully Conscious)<br>The Reborn God<br>The Individuated Self<br>The Master of Two Worlds | Self: Ego and unconscious in dialogue, not war<br>Reborn God: Osiris, Christ, Dionysus—death overcome<br>Individuated Self: Wholeness embodied, no longer split<br>Master of Two Worlds: Can navigate ordinary and extraordinary | The Resurrection is **individuation proven**. The Self is no longer theoretical; it is lived, embodied, stable even under duress |[^2]
 
 ## Practical Application
 
@@ -197,7 +197,7 @@ The Resurrection is the **climax** in narrative structure—the final battle, th
 
 ### 4.2 Jungian Depth Psychology: The Resurrection as Ego-Self Integration[^2]
 
-Jung would frame the Resurrection as the moment when the **ego and [[Self]] achieve stable dialogue**—the axis is restored, but now the ego serves the Self consciously[^2].
+Jung would frame the Resurrection as the moment when the **ego and [[The Self]] achieve stable dialogue**—the axis is restored, but now the ego serves the Self consciously[^2].
 
 In *Mysterium Coniunctionis* (CW 14[^2]), Jung describes the final stage of individuation:
 
@@ -296,7 +296,7 @@ Fairy tales encode the Resurrection as **spell-breaking**—the moment the curse
 
 **"Beauty and the Beast"**: The Beast's near-death (Ordeal—he is dying of heartbreak after Beauty leaves) is reversed by Beauty's declaration of love (Resurrection). The curse breaks; Beast becomes prince. But the Resurrection is **relational**—Beauty had to transform (learn to see beyond appearances) for the Beast to transform. Mutual Resurrection.
 
-**"The Frog Prince"**: The princess must kiss the frog (or in some versions, throw him against the wall—symbolic violence as breakthrough). Her willingness to **engage** the repulsive (her [[Shadow]]) breaks the spell. The frog becomes prince. The Resurrection is the **integration of the rejected**.
+**"The Frog Prince"**: The princess must kiss the frog (or in some versions, throw him against the wall—symbolic violence as breakthrough). Her willingness to **engage** the repulsive (her [[The Shadow]]) breaks the spell. The frog becomes prince. The Resurrection is the **integration of the rejected**.
 
 **Psychological Function**: These tales teach that transformation requires both **time** (the sleep, the coffin, the separation) and **catalyst** (the kiss, the declaration, the touch). The Resurrection is not automatic—it requires **conscious choice** to complete the cycle.
 
@@ -346,7 +346,7 @@ The unconscious stages Resurrections to signal integration is progressing:
 **Common Resurrection Dream Motifs**:
 1. **Rising from Water/Grave**: Emerging from underground, underwater, or enclosed space—breath, light, life returning.
 2. **Phoenix Imagery**: Consumed by flames, reborn from ashes—the eternal return.
-3. **Reunion with Guides**: The [[Mentor]] or divine figure who was absent during Ordeal returns, affirming: *"You have passed the test."*
+3. **Reunion with Guides**: The [[The Wise Old Man]] or divine figure who was absent during Ordeal returns, affirming: *"You have passed the test."*
 4. **Crowning/Robing**: Being dressed in royal garments, crowned, anointed—public recognition of transformation.
 5. **Bridge Crossing**: Walking across a bridge from dark to light, from chaos to order—the return threshold made literal.
 6. **Child or Infant**: The dream-ego holding a newborn—the resurrected self, the divine child, the fruit of the Ordeal.
@@ -381,7 +381,7 @@ The hero's task during collective Resurrection: **embody the transformation**—
 
 ### 4.11 The Resurrection and the Mentor: The Student Becomes Peer
 
-A defining feature of the Resurrection: the [[Mentor]] relationship **shifts**.
+A defining feature of the Resurrection: the [[The Wise Old Man]] relationship **shifts**.
 
 **Why the Mentor Returns**:
 1. **Witnessing**: The Mentor could not enter the Ordeal, but they can **witness** the Resurrection. Their affirmation locks in the transformation.
@@ -461,7 +461,7 @@ For non-binary and transgender individuals, the Resurrection often centers on **
 
 **Psychological Function**: The Resurrection is the **threshold between private and public**—the transformation is no longer secret. The test: *"Can I be fully myself in the world, or only in protected spaces?"*
 
-**Archetypal Resonance**: [[Dionysus]] (androgyny, boundary dissolution, ecstatic rebirth), [[Metatron]] (transformed human), [[Folklore/Jungian Archetypes/The Shapeshifter]] (fluid identity)[^2].
+**Archetypal Resonance**: Dionysus (androgyny, boundary dissolution, ecstatic rebirth), [[Metatron]] (transformed human), [[The Shapeshifter]] (fluid identity)[^2].
 
 ### Cultural Context
 
@@ -474,23 +474,23 @@ The future of the Resurrection archetype may be **gender-integrative**—recogni
 ## Cross-References
 
 ### Jungian Archetypes[^2]
-- [[Folklore/Jungian Archetypes/The Self]]: The Resurrection is the Self made **manifest**—no longer theoretical but embodied, functional, stable. The ego serves the Self; the Self guides the ego[^2].
-- [[The Reborn God]]: Osiris, Christ, Dionysus—gods who die and return. The Resurrection archetype is the Reborn God incarnate in the human psyche.
-- [[The Individuated Self]]: Jung's term for wholeness achieved. The Resurrection is individuation **proven**—the integration holds under pressure.
-- [[The Master of Two Worlds]]: Campbell's term, Jung's equivalent is the individual who can navigate **conscious and unconscious** without losing balance.
-- [[The Anima and Animus]]: Post-Resurrection, the contrasexual forces are integrated, not projected. The hero can access both masculine and feminine energies fluidly.
+- [[The Self]]: The Resurrection is the Self made **manifest**—no longer theoretical but embodied, functional, stable. The ego serves the Self; the Self guides the ego[^2].
+- The Reborn God: Osiris, Christ, Dionysus—gods who die and return. The Resurrection archetype is the Reborn God incarnate in the human psyche.
+- The Individuated Self: Jung's term for wholeness achieved. The Resurrection is individuation **proven**—the integration holds under pressure.
+- The Master of Two Worlds: Campbell's term, Jung's equivalent is the individual who can navigate **conscious and unconscious** without losing balance.
+- [[The Anima]]: Post-Resurrection, the contrasexual forces are integrated, not projected. The hero can access both masculine and feminine energies fluidly.
 
 ### Hero's Journey Stages
 - [[The Ordeal]]: The first death—private, internal. The Resurrection is the second death—public, external. Both are required.
 - [[The Reward]]: The Reward is the boon seized post-Ordeal. The Resurrection proves you can **keep** the Reward—integrate it, embody it, not lose it when tested.
-- [[The Road Back]]: The journey home begins. The Resurrection is the **final test** on that road—proof you can cross the threshold without losing what was gained.
+- The Road Back: The journey home begins. The Resurrection is the **final test** on that road—proof you can cross the threshold without losing what was gained.
 - [[Return with the Elixir]]: The Resurrection proves you are **ready** to give the Elixir. Service cannot happen until transformation is stable.
 - [[Crossing the First Threshold]]: The initial commitment to journey. The Resurrection is the **return threshold**—structurally parallel, but in reverse.
 - [[Meeting the Mentor]]: The Mentor prepares for the Ordeal. Post-Resurrection, the Mentor witnesses and blesses, then the relationship shifts to peer.
-- [[Tests, Allies, Enemies]]: Practice runs for the Ordeal. The Resurrection is the **final exam**—all lessons applied simultaneously.
+- [[Tests, Allies, and Enemies]]: Practice runs for the Ordeal. The Resurrection is the **final exam**—all lessons applied simultaneously.
 
 ### Tarot
-- [[Judgment (XX)]]: The resurrection card—angel calls, graves open, souls rise. The Resurrection is Judgment embodied: answering the call to new life.
+- [[Judgement (XX)]]: The resurrection card—angel calls, graves open, souls rise. The Resurrection is Judgment embodied: answering the call to new life.
 - [[The World (XXI)]]: Completion, wholeness, Master of Two Worlds. The Resurrection leads directly to the World—integration complete.
 - [[The Sun (XIX)]]: Vitality, rebirth, radiant life. Post-Resurrection, the Sun energy returns—joy, creativity, embodied presence.
 - [[Death (XIII)]]: The Ordeal's card. Resurrection is the **aftermath** of Death—new life emerging from the bones.
@@ -501,7 +501,7 @@ The future of the Resurrection archetype may be **gender-integrative**—recogni
 - [[Pluto ♇]]: Lord of death/rebirth. Pluto transits often trigger Ordeals; Pluto **completing** its cycle is Resurrection—transformation locked in.
 - [[Saturn ♄]]: Taskmaster, test-giver. Saturn Return (ages 28-30, 58-60) often includes Resurrection moments—proof you've matured, integrated the lessons.
 - [[Jupiter ♃]]: Expansion, beneficence. Jupiter return (every 12 years) can mark Resurrection—rewards after long effort, blessings after trials.
-- [[Chiron]]: The Wounded Healer. Chiron return (age 50) is often a Resurrection—the wound becomes medicine, service begins.
+- [[Astrology]]: The Wounded Healer. Chiron return (age 50) is often a Resurrection—the wound becomes medicine, service begins.
 - **0° Aries (Spring Equinox)**: The Sun's Resurrection—light returns, new cycle, emergence from winter death. The astrological template for all Resurrections.
 - [[8th House]]: House of death/rebirth. Planets transiting out of the 8th often signal Resurrection—integration complete, new life phase.
 
@@ -538,17 +538,17 @@ The future of the Resurrection archetype may be **gender-integrative**—recogni
 - [[Gabriel]]: The messenger. Gabriel announces Resurrections—*"You have been transformed. Now go forth and proclaim it."* Gabriel is the herald of rebirth.
 
 ### Folklore and Mythology
-- [[The Phoenix]]: The ultimate Resurrection symbol—consumed by flames, reborn from ashes. The cycle is eternal: death, fire, rebirth. The Resurrection is phoenixian.
+- The Phoenix: The ultimate Resurrection symbol—consumed by flames, reborn from ashes. The cycle is eternal: death, fire, rebirth. The Resurrection is phoenixian.
 - [[The Dying and Rising God]]: Osiris, Dionysus, Christ, Tammuz, Adonis—gods who die and return. The Resurrection archetype is this pattern incarnate in human life.
-- [[The Underworld]]: The Ordeal involves descent into the Underworld (Hades, Duat, Xibalba, Hel). The Resurrection is **ascent**—climbing back to light, life, the living.
+- The Underworld: The Ordeal involves descent into the Underworld (Hades, Duat, Xibalba, Hel). The Resurrection is **ascent**—climbing back to light, life, the living.
 - [[The Hero's Return]]: Every hero must return. The Resurrection is the **proof** they can cross back without losing themselves.
-- [[The Grail]]: The object of the quest. The Ordeal is the moment of finding; the Resurrection is proving you can **carry it home** without spilling it.
+- The Grail: The object of the quest. The Ordeal is the moment of finding; the Resurrection is proving you can **carry it home** without spilling it.
 
 ### Alchemy
 - [[Rubedo]] (Reddening): The final alchemical stage. The Resurrection is the Rubedo—embodied gold, the Philosopher's Stone, spirit and matter wed.
 - [[Coagulation]]: The alchemical operation corresponding to Resurrection—dissolved substance reconstitutes at higher order. Lead is now gold.
-- [[The Philosopher's Stone]]: The goal of the Great Work. The Resurrection **is** the Stone—transmutation complete, integration embodied.
-- [[Solve et Coagula]]: Dissolve (Ordeal) and coagulate (Resurrection). The alchemical maxim describes the two-death pattern.
+- The Philosopher's Stone: The goal of the Great Work. The Resurrection **is** the Stone—transmutation complete, integration embodied.
+- Solve et Coagula: Dissolve (Ordeal) and coagulate (Resurrection). The alchemical maxim describes the two-death pattern.
 - [[The Chemical Wedding]]: The union of opposites—King and Queen, Sun and Moon, masculine and feminine. The Resurrection consummates the wedding—wholeness embodied.
 
 ### Modern Psychology

@@ -516,43 +516,43 @@ The psyche's response: **Anxiety, depression, addiction**—the return of the re
 
 ## Cross-References
 #### Archetypal Figures
-[[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Hero]] • [[The Muse]] • [[The Idol]] • [[The Shadow]] • [[The Alchemist]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] • [[The Wise Old Man]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] • [[The Nightmare]]
+[[The Hero]] • [[The Muse]] • [[The Idol]] • [[The Shadow]] • [[The Alchemist]] • [[The Great Mother]] • [[The Wise Old Man]] • [[The Divine Child]] • [[The Nightmare]]
 
 **Jungian Concepts:**
-[[Individuation]] • [[Shadow Integration]] • [[Active Imagination]] • [[Transcendent Function]] • [[Projection]] • [[Inflation]] • [[Syzygy]] • [[Quaternary]]
+Individuation • Shadow Integration • Active Imagination • [[The Transcendent Function]] • Projection • [[Inflation]] • Syzygy • [[Quaternary]]
 
 **Tarot Keys:**
-[[The Hanged Man]] • [[Strength]] • [[The Star]] • [[Death]] • [[Temperance]] • [[The Hermit]] • [[The Tower]] • [[The World]]
+[[The Hanged Man (XII)]] • [[Strength (VIII)]] • [[The Star (XVII)]] • [[Death (XIII)]] • [[Temperance (XIV)]] • [[The Hermit (IX)]] • [[The Tower (XVI)]] • [[The World (XXI)]]
 
 #### Alchemical Stages
-[[Nigredo]] • [[Albedo]] • [[Citrinitas]] • [[Rubedo]] • [[Solve et Coagula]] • [[Coniunctio]] • [[Iteratio]] • [[Philosopher's Stone]]
+[[Nigredo]] • [[Albedo]] • [[Citrinitas]] • [[Rubedo]] • Solve et Coagula • Coniunctio • Iteratio • Philosopher's Stone
 
 #### Mythological Parallels
-[[Psyche and Eros]] • [[Inanna's Descent]] • [[Heracles]] • [[Persephone]] • [[Orpheus and Eurydice]] • [[The Odyssey]] • [[The Epic of Gilgamesh]]
+Psyche and Eros • Inanna's Descent • [[Heracles]] • [[Persephone]] • Orpheus and Eurydice • [[The Odyssey]] • [[The Epic of Gilgamesh]]
 
 #### Fairy Tale Motifs
-[[The Animal Bridegroom]] • [[The Impossible Task]] • [[The Helpful Animals]] • [[The Descent to the Underworld]] • [[The Sacred Number Three]] • [[The Jealous Goddess]]
+The Animal Bridegroom • The Impossible Task • [[The Helpful Animals]] • [[The Descent to the Underworld]] • [[The Sacred Number Three]] • [[The Jealous Goddess]]
 
 #### Related Tales
-[[Beauty and the Beast]] • [[Cinderella]] • [[Vasilisa the Beautiful]] • [[The Handless Maiden]] • [[The Six Swans]] • [[The Twelve Brothers]] • [[East of the Sun, West of the Moon]]
+[[Beauty and the Beast]] • [[Cinderella]] • Vasilisa the Beautiful • The Handless Maiden • The Six Swans • The Twelve Brothers • East of the Sun, West of the Moon
 
 #### Individuation Process
 [[Ego Formation and Childhood]] • [[Confrontation with Shadow]] • [[Encounter with Anima-Animus]] • [[Confrontation with the Self]] • [[Integration and Wholeness]]
 
 #### Hero's Journey Stages
-[[The Call to Adventure]] • [[Crossing the First Threshold]] • [[Tests, Allies, and Enemies]] • [[The Ordeal]] • [[The Reward]] • [[The Road Back]] • [[The Resurrection]] • [[Return with the Elixir]]
+[[The Call to Adventure]] • [[Crossing the First Threshold]] • [[Tests, Allies, and Enemies]] • [[The Ordeal]] • [[The Reward]] • The Road Back • [[The Resurrection]] • [[Return with the Elixir]]
 
 #### Human Design Connections
-[[Sacral Center]] • [[Emotional Authority]] • [[Splenic Authority]] • [[Tribal Circuitry]] • [[Individual Circuitry]] • [[Gate 50 - Values]] • [[Channel 27-50 - Preservation]]
+[[Sacral]] • [[Emotional Authority]] • [[Splenic Authority]] • Tribal Circuitry • Individual Circuitry • [[Gate 50 - The Cauldron]] • [[Channel 27-50 - Preservation]]
 
 **Astrological Correspondences:**
-[[Saturn ♄]] • [[Pluto ♇]] • [[Chiron]] • [[The Twelfth House]] • [[The Eighth House]] • [[Saturn Return]] • [[Pluto Transits]]
+[[Saturn ♄]] • [[Pluto ♇]] • [[Astrology]] • [[12th House]] • [[8th House]] • [[Saturn ♄]] • [[Pluto ♇]]
 
 **World Mythology:**
 [[Greek Mythology]] • [[Norse Mythology]] • [[Egyptian Mythology]] • [[Mesopotamian Mythology]] • [[Hindu Mythology]] • [[Buddhist Cosmology]]
 
 **Folklore Themes:**
-[[Initiation Rites]] • [[Death and Rebirth]] • [[The Descent Motif]] • [[The Sacred Marriage]] • [[Patience and Endurance]] • [[Instinct Over Intellect]]
+Initiation Rites • [[Death and Rebirth]] • [[The Descent Motif]] • The Sacred Marriage • [[Patience and Endurance]] • [[Instinct Over Intellect]]
 
 ---
 

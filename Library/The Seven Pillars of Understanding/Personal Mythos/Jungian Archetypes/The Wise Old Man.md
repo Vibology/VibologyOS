@@ -787,30 +787,30 @@ The Wise Old Man interacts dynamically with other archetypal structures:
 ## Cross-References
 
 ### Jungian Archetypes
-- [[Folklore/Jungian Archetypes/The Hero]] — The Senex is the mentor and guide; the Hero must claim Senex authority
+- [[The Hero]] — The Senex is the mentor and guide; the Hero must claim Senex authority
 - [[The Shadow]] — The Senex provides wisdom for shadow integration; shadow Senex is the tyrant
-- [[Folklore/Jungian Archetypes/The Anima]] — Feminine soul-image; Senex and Anima appear together (logos and eros)
-- [[Folklore/Jungian Archetypes/The Animus]] — In women, often appears as Senex (council of wise men, inner voice)
-- [[Folklore/Jungian Archetypes/The Self]] — The Senex is a partial manifestation of the Self (logos/spirit aspect)
-- [[Folklore/Jungian Archetypes/The Great Mother]] — Senex (spirit/logos) vs. Mother (matter/eros)—complementary opposites
-- [[Folklore/Jungian Archetypes/The Divine Child]] — The Senex protects and mentors the Child; shadow Senex devours the Child
-- [[The Trickster]] — The Senex's playful shadow; shatters rigidity
-- [[Folklore/Jungian Archetypes/The Persona]] — The Senex provides wisdom to balance Persona inflation
+- [[The Anima]] — Feminine soul-image; Senex and Anima appear together (logos and eros)
+- [[The Animus]] — In women, often appears as Senex (council of wise men, inner voice)
+- [[The Self]] — The Senex is a partial manifestation of the Self (logos/spirit aspect)
+- [[The Great Mother]] — Senex (spirit/logos) vs. Mother (matter/eros)—complementary opposites
+- [[The Divine Child]] — The Senex protects and mentors the Child; shadow Senex devours the Child
+- [[The Joker]] — The Senex's playful shadow; shatters rigidity
+- [[The Persona]] — The Senex provides wisdom to balance Persona inflation
 - [[The Syzygy]] — The sacred marriage requires the Senex's blessing
 
 ### Puer-Senex Polarity
-- [[Puer Aeternus]] — Eternal Youth; the Senex's complementary opposite
-- [[Kronos Devouring His Children]] — Mythological image of shadow Senex (tyranny, refusal of renewal)
-- [[The Fisher King]] — The wounded Senex who holds the treasure but cannot heal
-- [[Peter Pan Syndrome]] — Refusal to integrate Senex (arrested development)
+- Puer Aeternus — Eternal Youth; the Senex's complementary opposite
+- Kronos Devouring His Children — Mythological image of shadow Senex (tyranny, refusal of renewal)
+- The Fisher King — The wounded Senex who holds the treasure but cannot heal
+- Peter Pan Syndrome — Refusal to integrate Senex (arrested development)
 
 ### Hero's Journey Stages
 - [[The Call to Adventure]] — The Senex may issue the call
 - [[Meeting the Mentor]] — The Senex as helper who provides magic object or wisdom
 - [[Crossing the First Threshold]] — The Senex as psychopompos (guide between worlds)
-- [[The Road of Trials]] — The Senex withdraws; hero faces trials alone
-- [[Atonement with the Father]] — Confronting the shadow Senex (tyrannical father)
-- [[The Ultimate Boon]] — The Senex bestows the treasure (wisdom, power, blessing)
+- [[Tests, Allies, and Enemies]] — The Senex withdraws; hero faces trials alone
+- [[The Ordeal]] — Confronting the shadow Senex (tyrannical father)
+- [[The Reward]] — The Senex bestows the treasure (wisdom, power, blessing)
 - [[Return with the Elixir]] — The Hero becomes the Senex (transmits wisdom to next generation)
 
 ### Individuation Process
@@ -826,55 +826,55 @@ The Wise Old Man interacts dynamically with other archetypal structures:
 - [[Albedo]] — Purification of the Senex (releasing ego attachment)
 - [[Citrinitas]] — Dawn of solar consciousness (wisdom illuminates psyche)
 - [[Rubedo]] — Embodied Senex (wisdom incarnated in life)
-- [[Philosopher's Stone]] — The integrated Senex; transformation of lead into gold
+- Philosopher's Stone — The integrated Senex; transformation of lead into gold
 
 ### Tarot
-- [[The Hermit]] — The Senex at the peak of wisdom; solitary reflection
-- [[The Hierophant]] — Spiritual authority, tradition, teacher
-- [[The Emperor]] — The king; positive Senex (just ruler) or shadow Senex (tyrant)
+- [[The Hermit (IX)]] — The Senex at the peak of wisdom; solitary reflection
+- [[The Hierophant (V)]] — Spiritual authority, tradition, teacher
+- [[The Emperor (IV)]] — The king; positive Senex (just ruler) or shadow Senex (tyrant)
 - [[The Fool (0)]] — The Puer; Senex's complementary opposite
-- [[The Magician]] — The young magician (Puer); becomes the Senex (Hermit) through the journey
-- [[Judgement]] — The final reckoning; the Senex prepares for death
-- [[The World]] — Completion of the cycle; the integrated Senex
+- [[The Magician (I)]] — The young magician (Puer); becomes the Senex (Hermit) through the journey
+- [[Judgement (XX)]] — The final reckoning; the Senex prepares for death
+- [[The World (XXI)]] — Completion of the cycle; the integrated Senex
 
 ### Astrology
 - [[Saturn ♄]] — The Senex planet; structure, time, limitation, wisdom, test
 - [[Capricorn ♑]] — The Senex sign; mastery, authority, discipline, legacy
 - [[10th House]] — Vocation, public authority, legacy
-- [[Saturn Return]] — Ages 28-30 and 58-60; Senex initiations
-- [[Chiron]] — The wounded healer; the Senex who teaches from his own wound
+- [[Saturn ♄]] — Ages 28-30 and 58-60; Senex initiations
+- [[Astrology]] — The wounded healer; the Senex who teaches from his own wound
 - [[Jupiter ♃]] — The benevolent Senex (wisdom, expansion) vs. Saturn (limitation, discipline)
 
 ### Human Design
 - [[Gate 61 - Inner Truth]] — Penetrating knowing, inspiration from within (Senex wisdom)
 - [[Gate 50 - The Cauldron]] — Values, tradition, guardianship (Senex as keeper of culture)
-- [[Line 6 - Role Model]] — The elder, the wisdom keeper, the one who has "seen enough"
-- [[Gate 4 - Youthful Folly]] — The student seeking the master (Senex as teacher)
-- [[Ajna Center]] — Mental authority; the Senex function of discrimination and insight
-- [[Defined Head Center]] — Inspiration and knowing (the Senex voice)
+- Line 6 - Role Model — The elder, the wisdom keeper, the one who has "seen enough"
+- [[Gate 04 - Youthful Folly]] — The student seeking the master (Senex as teacher)
+- [[Ajna]] — Mental authority; the Senex function of discrimination and insight
+- [[Head]] — Inspiration and knowing (the Senex voice)
 
 ### Mythology & Fairy Tales
 - [[Greek Mythology]] — Hermes Trismegistus, Chiron, Kronos, Tiresias
 - [[Norse Mythology]] — Odin, Mimir, the Wild Huntsman
 - [[Egyptian Mythology]] — Thoth, Ptah, Imhotep
-- [[Arthurian Legend]] — Merlin, the Fisher King
-- [[The Water of Life]] — The helpful dwarf (Senex) who guides the humble son
-- [[The Spirit in the Bottle]] — The hermetic vessel; containing and mastering the Senex
-- [[Rumpelstiltskin]] — The wicked magician (shadow Senex)
+- Arthurian Legend — Merlin, the Fisher King
+- The Water of Life — The helpful dwarf (Senex) who guides the humble son
+- The Spirit in the Bottle — The hermetic vessel; containing and mastering the Senex
+- Rumpelstiltskin — The wicked magician (shadow Senex)
 
 ### The Window (I-Ching)
-- [[Hexagram 20 - Contemplation]] — Observation, perspective, the view from above (Senex wisdom)
-- [[Hexagram 61 - Inner Truth]] — Penetrating insight, the capacity to discern truth
-- [[Hexagram 4 - Youthful Folly]] — The student seeking the master; the Senex as teacher
-- [[Hexagram 26 - The Taming Power of the Great]] — Accumulated wisdom, restraint, mastery
+- Hexagram 20 - Contemplation — Observation, perspective, the view from above (Senex wisdom)
+- Hexagram 61 - Inner Truth — Penetrating insight, the capacity to discern truth
+- Hexagram 4 - Youthful Folly — The student seeking the master; the Senex as teacher
+- Hexagram 26 - The Taming Power of the Great — Accumulated wisdom, restraint, mastery
 
 ### Related Concepts
 - [[Logos]] — The ordering principle; the Senex function
-- [[Eros]] — The relatedness principle; the Anima function (complementary to Senex)
-- [[The Superior Personality]] — Jung's term for the Self's representative (Senex)
-- [[Active Imagination]] — Method for dialoguing with the Senex (Jung's Philemon)
+- Eros — The relatedness principle; the Anima function (complementary to Senex)
+- The Superior Personality — Jung's term for the Self's representative (Senex)
+- Active Imagination — Method for dialoguing with the Senex (Jung's Philemon)
 - [[The Transcendent Function]] — Holding the tension between opposites (Puer-Senex, ego-Senex)
-- [[Projection]] — The Senex projected onto mentors, fathers, gurus
+- Projection — The Senex projected onto mentors, fathers, gurus
 - [[Inflation]] — Ego identifying with the Senex archetype (tyranny, dogmatism)
 - [[The Collective Unconscious]] — Source of archetypal Senex images
 

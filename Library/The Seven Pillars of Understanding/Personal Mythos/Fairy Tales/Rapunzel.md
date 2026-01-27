@@ -360,29 +360,29 @@ The masculine journey is **from heroic inflation (the Prince) to wounding (the b
 
 ### Tarot
 
-**[[The Tower]] (Key XVI)** – The destruction of false security. Rapunzel's tower is not struck by lightning (as in the Tarot card) but destroyed by the Witch's discovery of the Prince. Both images encode the **violent rupture** of an illusory safety, the necessary catastrophe that forces liberation.
+**[[The Tower (XVI)]] (Key XVI)** – The destruction of false security. Rapunzel's tower is not struck by lightning (as in the Tarot card) but destroyed by the Witch's discovery of the Prince. Both images encode the **violent rupture** of an illusory safety, the necessary catastrophe that forces liberation.
 
-**[[The High Priestess]] (Key II)** – The virgin in the sanctuary, holding secret knowledge. Rapunzel in the tower is the High Priestess in captivity: she has developed inner wisdom (the song, the voice) but cannot act, cannot descend into embodiment. The High Priestess must eventually become the Empress (mother, creator, embodied life).
+**[[The High Priestess (II)]] (Key II)** – The virgin in the sanctuary, holding secret knowledge. Rapunzel in the tower is the High Priestess in captivity: she has developed inner wisdom (the song, the voice) but cannot act, cannot descend into embodiment. The High Priestess must eventually become the Empress (mother, creator, embodied life).
 
-**[[The Hermit]] (Key IX)** – The wanderer in the desert/wilderness, seeking light in darkness. Both Rapunzel and the Prince become Hermits: she in the desert (exile), he in the forest (blindness). The Hermit represents the **solitary initiation** that strips away the persona and reveals the essential self.
+**[[The Hermit (IX)]] (Key IX)** – The wanderer in the desert/wilderness, seeking light in darkness. Both Rapunzel and the Prince become Hermits: she in the desert (exile), he in the forest (blindness). The Hermit represents the **solitary initiation** that strips away the persona and reveals the essential self.
 
-**[[The Moon]] (Key XVIII)** – Illusion, confusion, the dark night. The Prince's blindness and wandering are the Moon's territory: navigating by instinct, not sight, trusting the unconscious path, enduring the howling of the wild.
+**[[The Moon (XVIII)]] (Key XVIII)** – Illusion, confusion, the dark night. The Prince's blindness and wandering are the Moon's territory: navigating by instinct, not sight, trusting the unconscious path, enduring the howling of the wild.
 
-**[[The Star]] (Key XVII)** – Healing waters, hope after darkness. Rapunzel's tears restoring the Prince's sight mirror the Star's waters: the feminine's capacity to heal, restore, and renew after the catastrophe (Tower) and the dark night (Moon).
+**[[The Star (XVII)]] (Key XVII)** – Healing waters, hope after darkness. Rapunzel's tears restoring the Prince's sight mirror the Star's waters: the feminine's capacity to heal, restore, and renew after the catastrophe (Tower) and the dark night (Moon).
 
 ### Mythology
 
-**[[Persephone and Demeter]]** – The mother-daughter myth par excellence. Demeter (the mother) refuses to release Persephone (the daughter) until Hades (the masculine/underworld) abducts her. Rapunzel's imprisonment by the Witch mirrors Demeter's possessive love; Rapunzel's union with the Prince (and subsequent exile) mirrors Persephone's descent to Hades. Both daughters must **separate from the mother** to become queens of their own realms.
+**Persephone and Demeter** – The mother-daughter myth par excellence. Demeter (the mother) refuses to release Persephone (the daughter) until Hades (the masculine/underworld) abducts her. Rapunzel's imprisonment by the Witch mirrors Demeter's possessive love; Rapunzel's union with the Prince (and subsequent exile) mirrors Persephone's descent to Hades. Both daughters must **separate from the mother** to become queens of their own realms.
 
-**[[Psyche and Eros]]** – Psyche's betrayal (lighting the lamp to see Eros) and subsequent exile mirror Rapunzel's innocent revelation (mentioning the Prince) and banishment. Both women must **endure trials in separation** from the beloved masculine before reunion. Both tales encode the **necessity of ordeal** to transform romantic fantasy into mature love.
+**Psyche and Eros** – Psyche's betrayal (lighting the lamp to see Eros) and subsequent exile mirror Rapunzel's innocent revelation (mentioning the Prince) and banishment. Both women must **endure trials in separation** from the beloved masculine before reunion. Both tales encode the **necessity of ordeal** to transform romantic fantasy into mature love.
 
-**[[Danaë]]** – The Greek princess locked in a tower (or bronze chamber) by her father to prevent prophecy. Zeus enters as golden rain, impregnating her. Danaë gives birth to Perseus in captivity, then is exiled in a chest on the sea. The motif of **tower imprisonment + secret union + exile** parallels Rapunzel's arc.
+**Danaë** – The Greek princess locked in a tower (or bronze chamber) by her father to prevent prophecy. Zeus enters as golden rain, impregnating her. Danaë gives birth to Perseus in captivity, then is exiled in a chest on the sea. The motif of **tower imprisonment + secret union + exile** parallels Rapunzel's arc.
 
 **[[Sleeping Beauty (Briar Rose)]]** – Another tower/castle imprisonment tale, where the princess is frozen in time (sleep, not captivity) until the masculine awakens her. Both encode the **suspended animation** of the feminine psyche awaiting the Animus's arrival to trigger development.
 
 ### Alchemy
 
-**[[Separatio]]** – The alchemical stage of **separation, cutting, division**. The cutting of Rapunzel's hair and her exile from the tower enact the Separatio: the violent rupture of the mother-daughter bond, the severing of the umbilical cord, the necessary division that allows individuation.
+**Separatio** – The alchemical stage of **separation, cutting, division**. The cutting of Rapunzel's hair and her exile from the tower enact the Separatio: the violent rupture of the mother-daughter bond, the severing of the umbilical cord, the necessary division that allows individuation.
 
 **[[Nigredo]]** – The blackening, the dark night, the putrefaction. Both Rapunzel's desert exile and the Prince's blindness are Nigredo: the descent into darkness, deprivation, and dissolution that precedes transformation.
 
@@ -390,7 +390,7 @@ The masculine journey is **from heroic inflation (the Prince) to wounding (the b
 
 **[[Rubedo]]** – The reddening, the reunion, the sacred marriage. Rapunzel's tears healing the Prince, their reunion, and their return to the kingdom represent the **Rubedo**, the final stage where opposites unite in mature, embodied love.
 
-**[[Coniunctio]]** – The sacred marriage. The Prince (Solar King, masculine consciousness) and Rapunzel (Lunar Queen, feminine soul) unite after suffering and separation, producing the **Divine Child** (the twins, the Self).
+**Coniunctio** – The sacred marriage. The Prince (Solar King, masculine consciousness) and Rapunzel (Lunar Queen, feminine soul) unite after suffering and separation, producing the **Divine Child** (the twins, the Self).
 
 ### Jungian Archetypes
 
@@ -400,19 +400,19 @@ The masculine journey is **from heroic inflation (the Prince) to wounding (the b
 
 **[[The Idol]]** – The Prince as the bridging Animus, offering the daughter a path out of the mother's world, but requiring wounding and transformation to become a mature psychic function.
 
-**[[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]]** – The Witch as the **Terrible Mother** aspect: the womb that becomes the tomb, the mother who devours rather than releases.
+**[[The Great Mother]]** – The Witch as the **Terrible Mother** aspect: the womb that becomes the tomb, the mother who devours rather than releases.
 
-**[[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]]** – The twins as the **integrated Self**, the fruit of the Animus-Anima union, born in exile (the unconscious) and brought to the kingdom (conscious integration).
+**[[The Divine Child]]** – The twins as the **integrated Self**, the fruit of the Animus-Anima union, born in exile (the unconscious) and brought to the kingdom (conscious integration).
 
-**[[The Puella Aeterna]]** – Rapunzel as the eternal girl, frozen at puberty, trapped in fantasy and inner life, unable to engage with embodied reality—until the exile forces her into maturation.
+**The Puella Aeterna** – Rapunzel as the eternal girl, frozen at puberty, trapped in fantasy and inner life, unable to engage with embodied reality—until the exile forces her into maturation.
 
 ### Human Design
 
-**[[Sacral Center]]** – Rapunzel's pregnancy and childbirth represent the **Sacral's life-force energy** coming online: sexuality, creativity, generativity. The tower (mother complex) suppresses the Sacral; the Prince awakens it; the desert demands it (survival, motherhood).
+**[[Sacral]]** – Rapunzel's pregnancy and childbirth represent the **Sacral's life-force energy** coming online: sexuality, creativity, generativity. The tower (mother complex) suppresses the Sacral; the Prince awakens it; the desert demands it (survival, motherhood).
 
 **[[Emotional Authority]]** – The tale honors the **emotional wave**: Rapunzel's initial fear of the Prince, gradual warmth, love, betrayal, despair, years of separation, and finally tears of reunion. This is the Emotional Authority's process: **clarity through time and feeling**.
 
-**[[Gate 59: Intimacy]]** – The破坏 of barriers (the tower, the hair, the mother's control) to allow true intimacy, sexuality, and the merging that produces new life (the twins).
+**[[Gate 59 - Dispersion]]** – The破坏 of barriers (the tower, the hair, the mother's control) to allow true intimacy, sexuality, and the merging that produces new life (the twins).
 
 **[[Channel 27-50: Preservation]]** – The mother's bargain (Channel 27-50: preservation of life at all costs) leads to Rapunzel's imprisonment. The Witch "preserves" Rapunzel (keeps her safe, alive, controlled) but prevents her from **living**. True preservation requires **release**, not possession.
 
@@ -506,34 +506,34 @@ The masculine journey is **from heroic inflation (the Prince) to wounding (the b
 
 ## Cross-References
 #### Archetypal Figures
-[[The Shadow]] • [[The Muse]] • [[The Idol]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] • [[The Alchemist]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] • [[The Terrible Mother]] • [[The Puella Aeterna]] • [[The Wild Woman]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Hero]]
+[[The Shadow]] • [[The Muse]] • [[The Idol]] • [[The Divine Child]] • [[The Alchemist]] • [[The Great Mother]] • The Terrible Mother • The Puella Aeterna • [[The Wild Woman]] • [[The Hero]]
 
 **Jungian Concepts:**
-[[Individuation]] • [[Shadow Integration]] • [[Mother Complex]] • [[Negative Mother]] • [[Coniunctio]] • [[Transcendent Function]] • [[Syzygy]] • [[Active Imagination]] • [[Projection]]
+Individuation • Shadow Integration • Mother Complex • [[Negative Mother]] • Coniunctio • [[The Transcendent Function]] • Syzygy • Active Imagination • Projection
 
 **Tarot Keys:**
-[[The Tower]] • [[The High Priestess]] • [[The Hermit]] • [[The Moon]] • [[The Star]] • [[Strength]] • [[Temperance]] • [[The Empress]]
+[[The Tower (XVI)]] • [[The High Priestess (II)]] • [[The Hermit (IX)]] • [[The Moon (XVIII)]] • [[The Star (XVII)]] • [[Strength (VIII)]] • [[Temperance (XIV)]] • [[The Empress (III)]]
 
 #### Alchemical Stages
-[[Nigredo]] • [[Albedo]] • [[Rubedo]] • [[Separatio]] • [[Solve et Coagula]] • [[Coniunctio]] • [[Philosopher's Stone]] • [[Hieros Gamos]]
+[[Nigredo]] • [[Albedo]] • [[Rubedo]] • Separatio • Solve et Coagula • Coniunctio • Philosopher's Stone • Hieros Gamos
 
 #### Mythological Parallels
-[[Persephone and Demeter]] • [[Psyche and Eros]] • [[Danaë]] • [[Sleeping Beauty]] • [[Bluebeard]] • [[The Handless Maiden]]
+Persephone and Demeter • Psyche and Eros • Danaë • Sleeping Beauty • [[Bluebeard]] • The Handless Maiden
 
 #### Fairy Tale Motifs
-[[The Tower Imprisonment]] • [[The Golden Hair]] • [[The Devouring Mother]] • [[The Secret Lover]] • [[The Exile and Return]] • [[The Healing Tears]] • [[The Divine Twins]]
+[[The Tower Imprisonment]] • [[The Golden Hair]] • The Devouring Mother • [[The Secret Lover]] • [[The Exile and Return]] • [[The Healing Tears]] • [[The Divine Twins]]
 
 #### Human Design Connections
-[[Sacral Center]] • [[Emotional Authority]] • [[Gate 59 - Intimacy]] • [[Channel 27-50 - Preservation]] • [[Tribal Circuitry]]
+[[Sacral]] • [[Emotional Authority]] • [[Gate 59 - Dispersion]] • [[Channel 27-50 - Preservation]] • Tribal Circuitry
 
 #### Individuation Process
 [[Ego Formation and Childhood]] • [[Persona Development]] • [[Confrontation with Shadow]] • [[Encounter with Anima-Animus]] • [[Integration and Wholeness]]
 
 #### Hero's Journey Stages
-[[The Call to Adventure]] • [[Refusal of the Call]] • [[Crossing the First Threshold]] • [[The Ordeal]] • [[The Road Back]] • [[The Resurrection]]
+[[The Call to Adventure]] • [[Refusal of the Call]] • [[Crossing the First Threshold]] • [[The Ordeal]] • The Road Back • [[The Resurrection]]
 
 #### Related Tales
-[[Beauty and the Beast]] • [[Snow White]] • [[Sleeping Beauty]] • [[The Handless Maiden]] • [[The Juniper Tree]] • [[Allerleirauh]] • [[Cinderella]]
+[[Beauty and the Beast]] • [[Snow White]] • Sleeping Beauty • The Handless Maiden • The Juniper Tree • Allerleirauh • [[Cinderella]]
 
 ---
 

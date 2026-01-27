@@ -149,7 +149,7 @@ The Sacral is also the source of **[[Sacral Authority]]**[^4] (for Generators wi
 
 *The Sacral is the life force of the planet—the sustainable motor that builds, creates, and sustains. For Generators, it is the source of vitality, response, and mastery. For non-Sacral Types, it is the reminder that not all energy is renewable, and that rest is not weakness but wisdom. To honor the Sacral is to recognize that work, when correct, is not depletion but fulfillment, and that the body knows what it has energy for before the mind can explain why.*
 
-
+---
 ## Sources
 
 Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.

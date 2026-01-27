@@ -1060,14 +1060,14 @@ The **grain of wheat** in the Eleusinian mysteries = the **lotus in the mud** in
 ## Cross-References
 
 ### Jungian Archetypes
-- [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Hero]] (Siddhartha's journey from prince to Buddha)
+- [[The Hero]] (Siddhartha's journey from prince to Buddha)
 - [[The Shadow]] (Mara, the Three Poisons, wrathful deities)
 - [[The Muse]] (Tara, Prajnaparamita, Mara's daughters, Sujata)
 - [[The Idol]] (Buddha, Manjushri, Avalokiteshvara)
-- [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] (Tara, Earth Goddess, Kuan Yin)
+- [[The Great Mother]] (Tara, Earth Goddess, Kuan Yin)
 - [[The Wise Old Man]] (The ascetic, the Buddha as teacher, Dharma masters)
-- [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Joker]] (Mara as trickster-adversary)
-- [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] (Siddhartha at birth, miraculous conception)
+- [[The Joker]] (Mara as trickster-adversary)
+- [[The Divine Child]] (Siddhartha at birth, miraculous conception)
 - [[The Alchemist]] (Buddha-nature, rigpa, dharmakaya, Nirvana)
 - [[The Nightmare]] (Mara, the demons, the tests on the path)
 - [[The Changeling]] (Mara's transformations, the Six Realms as fluid states)
@@ -1098,43 +1098,43 @@ The **grain of wheat** in the Eleusinian mysteries = the **lotus in the mud** in
 - [[Norse Mythology]] (Odin's self-sacrifice parallels Buddha's renunciation)
 - [[Egyptian Mythology]] (Osiris dismemberment parallels ego dissolution)
 - [[Hindu Mythology]] (Karma, samsara, moksha origins)
-- [[Christian Mysticism]] (Desert Fathers, kenosis, Christ's temptation parallels Mara)
+- Christian Mysticism (Desert Fathers, kenosis, Christ's temptation parallels Mara)
 
 ### Tarot
 - [[The Fool (0)]] (Beginner's mind, openness to the path)
-- [[The Magician]] (Manjushri, skillful means, upaya)
-- [[The High Priestess]] (Prajnaparamita, the perfection of wisdom)
-- [[The Hierophant]] (The Buddha as teacher, the Dharma)
-- [[The Lovers]] (Union of wisdom and compassion)
-- [[The Hermit]] (Siddhartha's solitude, renunciation, the ascetic path)
-- [[Strength]] (Taming the Three Poisons, gentle discipline)
-- [[The Hanged Man]] (Ego suspension, letting go, the Middle Way)
-- [[Death]] (Impermanence, the Chikhai Bardo, ego dissolution)
-- [[Temperance]] (The Middle Way, balance of extremes)
-- [[The Devil]] (Mara, attachment, the Three Poisons)
-- [[The Tower]] (Sudden awakening, the A&P event, samsara collapsing)
-- [[The Star]] (Bodhisattva compassion, hope after dark night)
-- [[The Moon]] (The Bardo visions, illusion, projection)
-- [[The Sun]] (Enlightenment, clarity, Buddha-nature)
-- [[Judgment]] (Awakening, recognition, the call to liberation)
-- [[The World]] (Nirvana, completion, the unconditioned)
+- [[The Magician (I)]] (Manjushri, skillful means, upaya)
+- [[The High Priestess (II)]] (Prajnaparamita, the perfection of wisdom)
+- [[The Hierophant (V)]] (The Buddha as teacher, the Dharma)
+- [[The Lovers (VI)]] (Union of wisdom and compassion)
+- [[The Hermit (IX)]] (Siddhartha's solitude, renunciation, the ascetic path)
+- [[Strength (VIII)]] (Taming the Three Poisons, gentle discipline)
+- [[The Hanged Man (XII)]] (Ego suspension, letting go, the Middle Way)
+- [[Death (XIII)]] (Impermanence, the Chikhai Bardo, ego dissolution)
+- [[Temperance (XIV)]] (The Middle Way, balance of extremes)
+- [[The Devil (XV)]] (Mara, attachment, the Three Poisons)
+- [[The Tower (XVI)]] (Sudden awakening, the A&P event, samsara collapsing)
+- [[The Star (XVII)]] (Bodhisattva compassion, hope after dark night)
+- [[The Moon (XVIII)]] (The Bardo visions, illusion, projection)
+- [[The Sun (XIX)]] (Enlightenment, clarity, Buddha-nature)
+- [[Judgement (XX)]] (Awakening, recognition, the call to liberation)
+- [[The World (XXI)]] (Nirvana, completion, the unconditioned)
 
 ### Astrology
 - [[Jupiter ♃]] (Expansive wisdom, Dharma teachings)
 - [[Saturn ♄]] (Karma, discipline, the Middle Way's structure)
 - [[Neptune ♆]] (Dissolution, formless realms, the oceanic Deva state)
 - [[Pluto ♇]] (Ego death, Bardo, transformation through crisis)
-- [[Chiron]] (The wounded healer, the Buddha recognizing suffering)
+- [[Astrology]] (The wounded healer, the Buddha recognizing suffering)
 
 ### Human Design
-- [[Gate 61]] (Inner Truth) = Vipassana insight, direct knowing
-- [[Gate 63]] (After Completion) = Post-enlightenment integration
-- [[Gate 64]] (Before Completion) = The threshold before awakening
-- [[Channel 10-20]] (Awakening) = Buddha-nature recognition
+- [[Gate 61 - Inner Truth]] (Inner Truth) = Vipassana insight, direct knowing
+- [[Gate 63 - After Completion]] (After Completion) = Post-enlightenment integration
+- [[Gate 64 - Before Completion]] (Before Completion) = The threshold before awakening
+- Channel 10-20 (Awakening) = Buddha-nature recognition
 
 ### Related Systems
 - [[The I-Ching]] (Book of Changes parallels impermanence teaching)
-- [[Qabalah]] (Tree of Life parallels the graduated path, Ten Sephiroth as stages)
+- Qabalah (Tree of Life parallels the graduated path, Ten Sephiroth as stages)
 - [[Angelology]] (Bodhisattvas as "angelic" intermediaries)
 - [[The Window]] (Contemporary archetypal resonance with Buddhist themes)
 

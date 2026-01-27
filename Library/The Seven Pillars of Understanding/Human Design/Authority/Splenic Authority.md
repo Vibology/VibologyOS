@@ -11,11 +11,6 @@ grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
 verification_notes: "Individual verification complete. Core mechanics (Spleen Center source, below Emotional, Sacral, Ego, Self-Projected hierarchy, Instantaneous knowing principle) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
 # Splenic Authority
-
----
-
-
-
 *The Intelligence of the Now*
 
 ---
@@ -163,6 +158,7 @@ Individuals with Splenic Authority bring:
 
 *Splenic Authority is the intelligence of the present moment—a quiet, ancient knowing that speaks once and does not repeat. It is the body's guardian, attuned to survival and health, and it requires absolute presence and trust. To honor the Spleen is to live spontaneously, to act without hesitation, and to trust that the body's first knowing is the truest knowing.*
 
+---
 ## Sources
 
 Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.

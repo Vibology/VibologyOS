@@ -833,14 +833,14 @@ The **Grail/Cauldron** is the **alembic**—the vessel where all operations occu
 ## Cross-References
 
 ### Jungian Archetypes
-- [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Hero]] (Parzival, Arthur, Lugh, Cú Chulainn)
+- [[The Hero]] (Parzival, Arthur, Lugh, Cú Chulainn)
 - [[The Shadow]] (Morrigan, Fomorians, Mordred, Balor)
 - [[The Muse]] (Sovereignty Goddess, Brigid, Grail Bearer, Lady of the Lake)
 - [[The Idol]] (Dagda, Lugh, Merlin)
-- [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] (Danu, Morrigan, Brigid, Land as Goddess)
+- [[The Great Mother]] (Danu, Morrigan, Brigid, Land as Goddess)
 - [[The Wise Old Man]] (Merlin, Trevrizent, Dagda)
-- [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Joker]] (Merlin as Trickster, Morrigan as Shapeshifter)
-- [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] (Lugh hidden from Balor, Parzival naive)
+- [[The Joker]] (Merlin as Trickster, Morrigan as Shapeshifter)
+- [[The Divine Child]] (Lugh hidden from Balor, Parzival naive)
 - [[The Alchemist]] (Grail, Cauldron, Round Table, Arthur in Avalon)
 - [[The Nightmare]] (Doorkeeper at Tara, Sidhe entrance)
 - [[The Changeling]] (Morrigan, Merlin, Lady of the Lake)
@@ -868,8 +868,8 @@ The **Grail/Cauldron** is the **alembic**—the vessel where all operations occu
 - [[Albedo]] (Imbolc, Brigid's flame, purification of quest)
 - [[Citrinitas]] (Lughnasadh, Lugh's victory, the Question asked)
 - [[Rubedo]] (Beltane, Sacred Marriage, Grail attained, land healed)
-- [[Coniunctio]] (Beltane, King and Land united, Grail and King)
-- [[Mortificatio]] (Samhain, death of year, sacrifice of grain)
+- Coniunctio (Beltane, King and Land united, Grail and King)
+- Mortificatio (Samhain, death of year, sacrifice of grain)
 
 ### World Mythology
 - [[Greek Mythology]] (Eleusinian grain parallels Cauldron, Hermes parallels Merlin)
@@ -881,23 +881,23 @@ The **Grail/Cauldron** is the **alembic**—the vessel where all operations occu
 
 ### Tarot
 - [[The Fool (0)]] (Parzival naive, Merlin's madness)
-- [[The Magician]] (Merlin as psychopomp, shapeshifter)
-- [[The High Priestess]] (Sovereignty Goddess, Grail Bearer)
-- [[The Empress]] (Brigid, Land as Mother)
-- [[The Emperor]] (Arthur as King, Dagda as All-Father)
-- [[The Hierophant]] (Trevrizent, Druid initiation)
-- [[The Lovers]] (Beltane, Sacred Marriage)
-- [[The Hermit]] (Merlin in forest, Trevrizent the hermit, Wounded King)
-- [[Strength]] (Lugh's mastery, sovereignty granted)
-- [[The Hanged Man]] (Wounded King, sacrificed god, time suspended)
-- [[Death]] (Samhain, Morrigan, transformation)
-- [[Temperance]] (Cauldron mixing, alchemical vessel)
-- [[The Tower]] (Camelot's fall, Balor's eye destroyed)
-- [[The Star]] (Grail, Cauldron, hope after Waste Land)
-- [[The Moon]] (Otherworld, time distortion, Morrigan)
-- [[The Sun]] (Lugh, Lughnasadh, sovereignty claimed)
-- [[Judgement]] (Asking the Question, consciousness)
-- [[The World]] (Round Table, integration, Grail attained)
+- [[The Magician (I)]] (Merlin as psychopomp, shapeshifter)
+- [[The High Priestess (II)]] (Sovereignty Goddess, Grail Bearer)
+- [[The Empress (III)]] (Brigid, Land as Mother)
+- [[The Emperor (IV)]] (Arthur as King, Dagda as All-Father)
+- [[The Hierophant (V)]] (Trevrizent, Druid initiation)
+- [[The Lovers (VI)]] (Beltane, Sacred Marriage)
+- [[The Hermit (IX)]] (Merlin in forest, Trevrizent the hermit, Wounded King)
+- [[Strength (VIII)]] (Lugh's mastery, sovereignty granted)
+- [[The Hanged Man (XII)]] (Wounded King, sacrificed god, time suspended)
+- [[Death (XIII)]] (Samhain, Morrigan, transformation)
+- [[Temperance (XIV)]] (Cauldron mixing, alchemical vessel)
+- [[The Tower (XVI)]] (Camelot's fall, Balor's eye destroyed)
+- [[The Star (XVII)]] (Grail, Cauldron, hope after Waste Land)
+- [[The Moon (XVIII)]] (Otherworld, time distortion, Morrigan)
+- [[The Sun (XIX)]] (Lugh, Lughnasadh, sovereignty claimed)
+- [[Judgement (XX)]] (Asking the Question, consciousness)
+- [[The World (XXI)]] (Round Table, integration, Grail attained)
 - [[Ace of Cups]] (Grail appearing, Cauldron offered)
 - [[Four of Cups]] (Parzival's first failure, refusing the vision)
 - [[Knight of Cups]] (Grail Knight, questing for the vessel)
@@ -911,23 +911,23 @@ The **Grail/Cauldron** is the **alembic**—the vessel where all operations occu
 - [[Saturn ♄]] (Balor the senex, time, limitation, death)
 - [[Neptune ♆]] (Otherworld, Avalon, dissolution of boundaries)
 - [[Pluto ♇]] (Morrigan, death/rebirth, Samhain, underworld)
-- [[Chiron]] (Wounded King, wounded healer)
+- [[Astrology]] (Wounded King, wounded healer)
 
 ### Human Design
-- [[Gate 63]] (After Completion/Doubt) = Asking the Question
-- [[Gate 64]] (Before Completion) = Quest not yet fulfilled, Waste Land
-- [[Gate 4]] (Youthful Folly) = Parzival naive, the Fool's journey
-- [[Gate 23]] (Splitting Apart) = Camelot's fall, fragmentation
-- [[Gate 51]] (The Arousing/Shock) = Samhain, sudden awakening
-- [[Gate 27]] (Nourishment) = Dagda's Cauldron, inexhaustible source
-- [[Gate 50]] (The Cauldron) = Grail/Cauldron as vessel of transformation
+- [[Gate 63 - After Completion]] (After Completion/Doubt) = Asking the Question
+- [[Gate 64 - Before Completion]] (Before Completion) = Quest not yet fulfilled, Waste Land
+- [[Gate 04 - Youthful Folly]] (Youthful Folly) = Parzival naive, the Fool's journey
+- [[Gate 23 - Splitting Apart]] (Splitting Apart) = Camelot's fall, fragmentation
+- [[Gate 51 - The Arousing]] (The Arousing/Shock) = Samhain, sudden awakening
+- [[Gate 27 - Nourishment]] (Nourishment) = Dagda's Cauldron, inexhaustible source
+- [[Gate 50 - The Cauldron]] (The Cauldron) = Grail/Cauldron as vessel of transformation
 
 ### I-Ching (via The Window)
-- [[Hexagram 3]] (Difficulty at Beginning) = Parzival's first failure
-- [[Hexagram 48]] (The Well) = Grail, Cauldron, source
-- [[Hexagram 50]] (The Cauldron) = Vessel of transformation
-- [[Hexagram 63]] (After Completion) = Grail attained, land healed
-- [[Hexagram 64]] (Before Completion) = Quest ongoing, threshold
+- Hexagram 3 (Difficulty at Beginning) = Parzival's first failure
+- Hexagram 48 (The Well) = Grail, Cauldron, source
+- Hexagram 50 (The Cauldron) = Vessel of transformation
+- Hexagram 63 (After Completion) = Grail attained, land healed
+- Hexagram 64 (Before Completion) = Quest ongoing, threshold
 
 ---
 

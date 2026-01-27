@@ -999,17 +999,17 @@ Death is transformation, not annihilation. The Self (Ra, Osiris, Akh) is indestr
 ## Cross-References
 
 ### Jungian Archetypes
-- [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Hero]] (Horus avenging Osiris, restoring Ma'at)
+- [[The Hero]] (Horus avenging Osiris, restoring Ma'at)
 - [[The Shadow]] (Set, Apep, demons of the Duat)
 - [[The Muse]] (Isis, Hathor, Nut, Sekhmet)
 - [[The Idol]] (Ra, Osiris, Thoth)
-- [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] (Isis as healer, Sekhmet as destroyer, Nut as container)
+- [[The Great Mother]] (Isis as healer, Sekhmet as destroyer, Nut as container)
 - [[The Wise Old Man]] (Thoth as scribe, measurer, keeper of truth)
-- [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] (Horus born from Isis and resurrected Osiris)
+- [[The Divine Child]] (Horus born from Isis and resurrected Osiris)
 - [[The Alchemist]] (Ra as solar consciousness, Osiris as immortal Self, Akh as transfigured spirit)
 - [[The Nightmare]] (Demons at gates of Duat, Anubis at threshold of death)
 - [[The Changeling]] (Isis transforming into kite, Set as chaos)
-- [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Persona]] (Pharaoh as public role, mediator between gods and humans)
+- [[The Persona]] (Pharaoh as public role, mediator between gods and humans)
 
 ### Hero's Journey
 - [[The Call to Adventure]] (Ra's nightly descent, soul's death)
@@ -1017,7 +1017,7 @@ Death is transformation, not annihilation. The Self (Ra, Osiris, Akh) is indestr
 - [[Meeting the Mentor]] (Anubis, Thoth, Isis guiding the soul)
 - [[Return with the Elixir]] (Becoming Akh, Horus as pharaoh, Ra emerging at dawn)
 - [[Tests, Allies, and Enemies]] (Twelve hours of the Duat, demons and protective gods)
-- [[The Road Back]] (Ra's ascent from hour 7-12)
+- The Road Back (Ra's ascent from hour 7-12)
 
 ### Individuation Process
 - [[Confrontation with Shadow]] (Set's violence, Apep's chaos, demons of Duat)
@@ -1030,9 +1030,9 @@ Death is transformation, not annihilation. The Self (Ra, Osiris, Akh) is indestr
 - [[Albedo]] (Isis reassembling Osiris, mummification, passing the Weighing)
 - [[Citrinitas]] (Ra's ascent toward dawn, Thoth recording favorable verdict)
 - [[Rubedo]] (Ra emerging as Khepri, Horus donning Red Crown, becoming Akh)
-- [[Mortificatio]] (Osiris's death, mummification)
-- [[Separatio]] (Dismemberment of Osiris into pieces)
-- [[Coagulatio]] (Isis reassembling the body)
+- Mortificatio (Osiris's death, mummification)
+- Separatio (Dismemberment of Osiris into pieces)
+- Coagulatio (Isis reassembling the body)
 
 ### World Mythology
 - [[Greek Mythology]] (Osiris parallels Dionysus Zagreus, Isis parallels Demeter, Duat parallels Hades)
@@ -1042,17 +1042,17 @@ Death is transformation, not annihilation. The Self (Ra, Osiris, Akh) is indestr
 - [[Mesopotamian Mythology]] (Inanna's descent to underworld, Dumuzi/Tammuz as dying god)
 
 ### Tarot
-- [[The High Priestess]] (Isis, keeper of mysteries, magic)
-- [[The Emperor]] (Horus as pharaoh, sovereign order)
-- [[The Hierophant]] (Thoth, keeper of wisdom and law)
-- [[The Lovers]] (Osiris and Isis, sacred marriage)
-- [[Death]] (Osiris as Lord of the Dead, transformation not annihilation)
-- [[Temperance]] (Ma'at, balance, cosmic order)
-- [[The Tower]] (Set's destruction of Osiris, necessary chaos)
-- [[The Star]] (Isis as star goddess, hope after ordeal)
-- [[The Sun]] (Ra, solar consciousness, renewal)
-- [[Judgment]] (Weighing of the Heart, resurrection of the dead)
-- [[The World]] (Akh, wholeness, completion of the journey)
+- [[The High Priestess (II)]] (Isis, keeper of mysteries, magic)
+- [[The Emperor (IV)]] (Horus as pharaoh, sovereign order)
+- [[The Hierophant (V)]] (Thoth, keeper of wisdom and law)
+- [[The Lovers (VI)]] (Osiris and Isis, sacred marriage)
+- [[Death (XIII)]] (Osiris as Lord of the Dead, transformation not annihilation)
+- [[Temperance (XIV)]] (Ma'at, balance, cosmic order)
+- [[The Tower (XVI)]] (Set's destruction of Osiris, necessary chaos)
+- [[The Star (XVII)]] (Isis as star goddess, hope after ordeal)
+- [[The Sun (XIX)]] (Ra, solar consciousness, renewal)
+- [[Judgement (XX)]] (Weighing of the Heart, resurrection of the dead)
+- [[The World (XXI)]] (Akh, wholeness, completion of the journey)
 
 ### Astrology
 - [[Sun ☉]] (Ra, solar Self, consciousness)
@@ -1080,17 +1080,17 @@ Death is transformation, not annihilation. The Self (Ra, Osiris, Akh) is indestr
 - [[Sandalphon]] (Anubis as psychopomp, guide of souls)
 
 ### Human Design
-- [[Gate 42]] (Completion, the Field of Reeds, becoming Akh)
-- [[Gate 23]] (Assimilation, speaking words of power)
-- [[Gate 51]] (Shock, Set's disruption, necessary chaos)
-- [[Sacral Center]] (Osiris as fertility god, life force)
+- [[Gate 42 - Increase]] (Completion, the Field of Reeds, becoming Akh)
+- [[Gate 23 - Splitting Apart]] (Assimilation, speaking words of power)
+- [[Gate 51 - The Arousing]] (Shock, Set's disruption, necessary chaos)
+- [[Sacral]] (Osiris as fertility god, life force)
 - [[Solar Plexus]] (Emotional wave, Ra's daily cycle)
 
 ### I-Ching / The Window
-- [[Hexagram 36]] (Darkening of the Light, Ra's descent into Duat)
-- [[Hexagram 24]] (Return, Ra emerging at dawn, resurrection)
-- [[Hexagram 5]] (Waiting, the soul in the Duat awaiting judgment)
-- [[Hexagram 29]] (The Abysmal, the Duat, navigating danger)
+- Hexagram 36 (Darkening of the Light, Ra's descent into Duat)
+- Hexagram 24 (Return, Ra emerging at dawn, resurrection)
+- Hexagram 5 (Waiting, the soul in the Duat awaiting judgment)
+- Hexagram 29 (The Abysmal, the Duat, navigating danger)
 
 ---
 

@@ -839,16 +839,16 @@ Wait like Ilya when:
 ## Cross-References
 
 - [[The Shadow]] — Veles as underworld wisdom, Koschei as dissociated complex
-- [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Great Mother]] — Mokosh as positive earth, Baba Yaga as Terrible Mother
+- [[The Great Mother]] — Mokosh as positive earth, Baba Yaga as Terrible Mother
 - [[The Muse]] — Rusalki as dangerous projection, Frog Princess as transformation
-- [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Hero]] — Ivan Tsarevich, Ilya-Muromyets, Sadko as questers
-- [[The Trickster]] — Veles, Leshy, the Gray Wolf as boundary-crossers
-- [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] — Yarilo as spring/eros/puer
+- [[The Hero]] — Ivan Tsarevich, Ilya-Muromyets, Sadko as questers
+- [[The Joker]] — Veles, Leshy, the Gray Wolf as boundary-crossers
+- [[The Divine Child]] — Yarilo as spring/eros/puer
 - [[The Alchemist]] — Firebird as impossible treasure, Svantovit as mandala
 - [[The Wise Old Man]] — Baba Yaga in teaching aspect, the Gray Wolf as guide
 - [[Individuation Process]] — Slavic myths as initiation stages
-- [[Hero's Journey]] — Slavic quests as monomyth variants
-- [[Alchemical Stages]] — Vasilisa's journey as complete opus
+- [[The Hero's Journey]] — Slavic quests as monomyth variants
+- [[Personal Mythos]] — Vasilisa's journey as complete opus
 - [[Greek Mythology]] — Comparison: conquest (Greek) vs. submission (Slavic)
 - [[Norse Mythology]] — Comparison: World Tree, thunder god, death mysteries
 - [[Hindu Mythology]] — Comparison: Kali/Baba Yaga as Terrible Mother, Maya/frog skin illusion
@@ -857,15 +857,15 @@ Wait like Ilya when:
 - [[The High Priestess (Tarot)]] — Baba Yaga as gateway, threshold
 - [[The Moon (Tarot)]] — Rusalki as illusion, dangerous anima projection
 - [[The Star (Tarot)]] — Vasilisa's doll as hope/guidance
-- [[Nigredo (Alchemy)]] — Baba Yaga's hut, the Black Rider, Morana's winter
-- [[Albedo (Alchemy)]] — Washing linen, the White Rider, purification tasks
+- Nigredo (Alchemy) — Baba Yaga's hut, the Black Rider, Morana's winter
+- Albedo (Alchemy) — Washing linen, the White Rider, purification tasks
 - [[Rubedo (Alchemy)]] — Fire-skull, the Red Rider, Firebird as completion
 - [[Saturn (Astrology)]] — Baba Yaga as tests/maturity, Koschei as rigidity
 - [[Pluto (Astrology)]] — Veles as underworld, transformation through descent
 - [[Moon (Astrology)]] — Mokosh as earth/instinct, Rusalki as anima
-- [[Gate 29 (HD)]] — Baba Yaga's ordeal, commitment to the abyss
-- [[Gate 39 (HD)]] — Koschei as provocation, breaking the complex
-- [[Gate 59 (HD)]] — Rusalki as intimacy/breakthrough, dispersing projection
+- [[Gate 29 - The Abysmal]] — Baba Yaga's ordeal, commitment to the abyss
+- [[Gate 39 - Obstruction]] — Koschei as provocation, breaking the complex
+- [[Gate 59 - Dispersion]] — Rusalki as intimacy/breakthrough, dispersing projection
 
 ## Sources
 **Jungian Analytical Psychology:**

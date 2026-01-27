@@ -164,8 +164,8 @@ The Citrinitas is the stage of **mature insight**—the development of a philoso
 | **Mythological Examples** | Golden Fleece, Apollo (sun god), Buddha's golden body, Taoist Golden Flower, Transfiguration of Christ, Odin's runes, Golden Apples of Idunn |
 | **Fairy Tale Motifs** | Rumplestiltskin (premature gold), Beauty seeing the Beast's golden heart, the golden goose, the philosopher's stone forming, the dawn breaking |
 | **Alchemical Symbols** | Dawn (*Aurora*), yellow sulfur (philosophical), ripe fruit, honey, golden flower, rising sun, yellow rose, wheat harvest, phoenix stirring |
-| **Hero's Journey Stage** | [[The Reward]] (Stage 9 - the boon is claimed), [[The Road Back]] (Stage 10 - returning with wisdom), [[Meeting the Mentor]] (Stage 4 - the Wise Old Man appears) |
-| **Tarot Correspondence** | [[The Sun]] (enlightenment, clarity, wisdom), [[The Hermit]] (the Wise Old Man with his lantern), [[Temperance]] (the alchemical union), [[The Star]] (hope, the dawn after darkness) |
+| **Hero's Journey Stage** | [[The Reward]] (Stage 9 - the boon is claimed), The Road Back (Stage 10 - returning with wisdom), [[Meeting the Mentor]] (Stage 4 - the Wise Old Man appears) |
+| **Tarot Correspondence** | [[The Sun (XIX)]] (enlightenment, clarity, wisdom), [[The Hermit (IX)]] (the Wise Old Man with his lantern), [[Temperance (XIV)]] (the alchemical union), [[The Star (XVII)]] (hope, the dawn after darkness) |
 | **I-Ching Hexagram** | 1 - The Creative (Ch'ien, the light-giving power), 24 - Return (Fu, the turning point), 61 - Inner Truth (Chung Fu, insight) |
 | **Astrology** | Sun (consciousness, identity, purpose), Jupiter (wisdom, philosophy, expansion), 9th House (philosophy, higher meaning, wisdom traditions), Sagittarius (the philosopher, the seeker) |
 | **Zodiac Signs** | Sagittarius (wisdom, philosophy, search for meaning), Leo (solar consciousness, creative expression), Virgo (the harvest, discrimination, ripening) |
@@ -589,29 +589,29 @@ The Citrinitas is the making of the Self conscious. It is the ripening of wisdom
 
 ### Related Archetypes
 - [[The Wise Old Man]] - The primary archetype of Citrinitas (male)
-- [[Folklore/Jungian Archetypes/The Wise Old Woman]] (when created) - The primary archetype of Citrinitas (female)
+- Wise Old Woman (when created) - The primary archetype of Citrinitas (female)
 - [[The Alchemist]] - Beginning to appear in Citrinitas
-- [[Folklore/Jungian Archetypes/The Hero]] - Claims the boon (Citrinitas treasure) after the Ordeal
-- [[Folklore/Jungian Archetypes/The Divine Child]] - The golden child born from the alchemical union
+- [[The Hero]] - Claims the boon (Citrinitas treasure) after the Ordeal
+- [[The Divine Child]] - The golden child born from the alchemical union
 - [[The Senex]] (when created) - The wise elder, the Saturn archetype in its positive form
 
 ### Related Individuation Stages
 - [[Confrontation with the Self]] - Phase 5 of individuation (primary Citrinitas phase)
-- [[Encounter with Anima and Animus]] - Phase 4 (Albedo-Citrinitas transition)
+- [[Encounter with Anima-Animus]] - Phase 4 (Albedo-Citrinitas transition)
 - [[Integration and Wholeness]] - Phase 6 (Citrinitas-Rubedo transition)
 
 ### Related Hero's Journey Stages
 - [[The Reward]] - The hero claims the boon (Citrinitas moment)
-- [[The Road Back]] - The hero returns with wisdom
+- The Road Back - The hero returns with wisdom
 - [[Return with the Elixir]] - The hero shares the golden wisdom with the community
 - [[Meeting the Mentor]] - The Wise Old Man/Woman appears to guide the hero
 
 ### Related Tarot
-- [[The Sun]] - The primary Citrinitas card (enlightenment, clarity, wisdom)
-- [[The Hermit]] - The Wise Old Man with his lantern (seeking/offering wisdom)
-- [[Temperance]] - The alchemical union (Conjunction) that produces the yellowing
-- [[The Star]] - Hope, the dawn after darkness (transition from Albedo to Citrinitas)
-- [[Wheel of Fortune]] - Jupiter/expansion (philosophical attitude)
+- [[The Sun (XIX)]] - The primary Citrinitas card (enlightenment, clarity, wisdom)
+- [[The Hermit (IX)]] - The Wise Old Man with his lantern (seeking/offering wisdom)
+- [[Temperance (XIV)]] - The alchemical union (Conjunction) that produces the yellowing
+- [[The Star (XVII)]] - Hope, the dawn after darkness (transition from Albedo to Citrinitas)
+- [[Wheel of Fortune (X)]] - Jupiter/expansion (philosophical attitude)
 
 ### Related Astrology
 - [[Sun ☉]] - The solar principle (consciousness, identity, purpose)
@@ -622,11 +622,11 @@ The Citrinitas is the making of the Self conscious. It is the ripening of wisdom
 - [[Saturn ♄]] (positive aspect) - The wise elder (not the restrictor, but the teacher)
 
 ### Related Human Design
-- [[G-Center]] - Identity, direction, higher purpose (the golden center)
-- [[Ajna Center]] - Conceptualization, wisdom, mental authority
-- [[Gate 61]] - Inner Truth (psychic knowing, Citrinitas insight)
-- [[Gate 4]] - Youthful Folly / Mental Solutions (the mind seeking wisdom)
-- [[Gate 11]] - Ideas (the light of insight)
+- [[G Center]] - Identity, direction, higher purpose (the golden center)
+- [[Ajna]] - Conceptualization, wisdom, mental authority
+- [[Gate 61 - Inner Truth]] - Inner Truth (psychic knowing, Citrinitas insight)
+- [[Gate 04 - Youthful Folly]] - Youthful Folly / Mental Solutions (the mind seeking wisdom)
+- [[Gate 11 - Peace]] - Ideas (the light of insight)
 
 ### Related Angelology
 - [[Tzadkiel]] - Sephirah Chesed (Jupiter, mercy, expansion, wisdom)
@@ -635,20 +635,20 @@ The Citrinitas is the making of the Self conscious. It is the ripening of wisdom
 
 ### Related Mythology
 - [[Greek Mythology]] (when created) - Apollo, Golden Fleece, Athena's birth
-- [[Chinese Mythology]] (when created) - Yellow Emperor, Golden Flower
+- Chinese Mythology (when created) - Yellow Emperor, Golden Flower
 - [[Hindu Mythology]] (when created) - Hiranyagarbha, Buddha's golden body
 - [[Egyptian Mythology]] (when created) - Eye of Ra, Khepri (dawn god)
 - [[Norse Mythology]] (when created) - Golden Apples of Idunn, Odin's wisdom
 
 ### Related Folklore
 - Fairy tales of wisdom: Rumplestiltskin (false gold), Beauty and the Beast (golden heart), the golden goose
-- [[The Personal Myth]] (when created) - How Citrinitas appears in individual life story
+- [[Personal Mythos]] (when created) - How Citrinitas appears in individual life story
 - [[The Elder Initiation]] (when created) - Becoming the Wise Old Man/Woman
 
 ### Related Esoteric Traditions
-- [[Qabalah]] (when created) - Tiphareth (the golden sun center, the heart of the Tree)
-- [[Taoism]] (when created) - The Golden Flower, the Immortal Embryo
-- [[Buddhism]] (when created) - The golden body, enlightenment as ripening
+- Qabalah (when created) - Tiphareth (the golden sun center, the heart of the Tree)
+- Taoism (when created) - The Golden Flower, the Immortal Embryo
+- Buddhism (when created) - The golden body, enlightenment as ripening
 
 ---
 

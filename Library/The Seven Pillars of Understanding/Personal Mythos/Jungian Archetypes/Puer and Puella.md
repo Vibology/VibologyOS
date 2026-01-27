@@ -63,7 +63,7 @@ James Hillman's *Puer Papers* (building on Jung and Marie-Louise von Franz) desc
 
 - **[[The Divine Child]]:** The archetypal form; Puer/Puella is the psychological manifestation
 - **[[The Senex]]:** The opposing archetype—eternal youth vs. wise elder
-- **[[Inner Child]]:** Related but distinct; Inner Child is wounded/playful self, Puer is archetypal spirit
+- **Inner Child:** Related but distinct; Inner Child is wounded/playful self, Puer is archetypal spirit
 
 ---
 
@@ -72,7 +72,7 @@ James Hillman's *Puer Papers* (building on Jung and Marie-Louise von Franz) desc
 ### Within Personal Mythos
 - **[[The Divine Child]]:** Archetypal foundation
 - **[[The Senex]]:** Opposing polarity
-- **[[Inner Child]]:** Psychological counterpart
+- **Inner Child:** Psychological counterpart
 
 ### Cross-System Integration
 - **[[Astrology]]:** [[5th House]], [[Leo ♌]], [[Sun ☉]]

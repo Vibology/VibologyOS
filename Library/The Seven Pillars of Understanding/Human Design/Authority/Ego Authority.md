@@ -12,11 +12,6 @@ grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
 verification_notes: "Individual verification complete. Core mechanics (Heart Center source, below Emotional hierarchy, Willpower principle) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
 # Ego Authority
-
----
-
-
-
 *The Intelligence of Willpower*
 
 ---
@@ -112,7 +107,6 @@ Ego Authority can appear in:
 This is a **rare configuration**, as most Manifestors and Projectors have Emotional or Splenic Authority.
 
 ---
-
 ## Common Pitfalls
 
 ### 1. Confusing Will with "Should"
@@ -132,7 +126,6 @@ Ego Authority is designed to prioritize **self-interest** (what serves your mate
 Projectors with Ego Authority must wait for invitations, but not all invitations are correct. The question "What do I want for myself?" filters invitations through the will.
 
 ---
-
 ## The Gift of Ego Authority
 
 Individuals with Ego Authority bring:
@@ -142,7 +135,6 @@ Individuals with Ego Authority bring:
 - **Willful Clarity** — They know what they want and are not apologetic about it
 
 ---
-
 ## Cross-References
 
 - **Heart Center:** See [[Heart]] for the mechanical basis of Ego Authority
@@ -151,7 +143,6 @@ Individuals with Ego Authority bring:
 - **Tarot:** [[The Emperor (IV)]] (willful sovereignty), [[The Chariot (VII)]] (commitment and control)
 
 ---
-
 ## Strategy Integration
 ### For Those with Ego Authority
 
@@ -173,6 +164,7 @@ Individuals with Ego Authority bring:
 ---
 
 *Ego Authority is the intelligence of the will—the recognition that your desires, commitments, and self-interest are not weaknesses but your compass. To know what you want and to honor it without apology is the practice of Ego Authority. The world will ask you to sacrifice your will for duty, for others, for "the right thing," but your Authority demands that you ask first: "What do I want for myself?"*
+
 
 ## Sources
 

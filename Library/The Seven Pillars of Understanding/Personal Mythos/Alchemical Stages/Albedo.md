@@ -185,8 +185,8 @@ The Albedo typically follows a period of intense Nigredo—it is the recovery, t
 | **Mythological Examples** | Persephone's return, Psyche's tasks, Isis gathering Osiris, Christ's baptism/resurrection, Inanna's ascent, Orpheus emerging |
 | **Fairy Tale Motifs** | Snow White awakened, Cinderella washed and transformed, Rapunzel's healing tears, Sleeping Beauty's awakening, Frog Prince's kiss |
 | **Alchemical Symbols** | White swan, white rose, white dove (*columba*), silver mirror, Moon, dawn, baptism, washing in water, separation of milk |
-| **Hero's Journey Stage** | [[The Reward]] (Stage 9 - clarity after ordeal), [[The Road Back]] (Stage 10 - return with insight), [[Meeting the Mentor]] (Stage 4 - soul-guide appears) |
-| **Tarot Correspondence** | [[The Star]] (hope, clarity after crisis), [[Temperance]] (purification, alchemy), [[The High Priestess]] (lunar wisdom, reflection), [[The Moon]] (soul-image, Anima/Animus), [[Judgement]] (resurrection, awakening) |
+| **Hero's Journey Stage** | [[The Reward]] (Stage 9 - clarity after ordeal), The Road Back (Stage 10 - return with insight), [[Meeting the Mentor]] (Stage 4 - soul-guide appears) |
+| **Tarot Correspondence** | [[The Star (XVII)]] (hope, clarity after crisis), [[Temperance (XIV)]] (purification, alchemy), [[The High Priestess (II)]] (lunar wisdom, reflection), [[The Moon (XVIII)]] (soul-image, Anima/Animus), [[Judgement (XX)]] (resurrection, awakening) |
 | **I-Ching Hexagram** | 20 - Contemplation (Kuan), 61 - Inner Truth (Chung Fu), 37 - The Family (Chia Jen - Anima/Animus dynamics) |
 | **Astrology** | Moon (soul, Anima, reflection), Venus (Anima, beauty, love), Neptune (dissolution into spirit), 7th House (projection of Anima/Animus onto partner), 12th House (spiritual purification) |
 | **Zodiac Signs** | Cancer (Moon's domain, soul, nurturing), Libra (balance, objectivity, differentiation), Pisces (dissolution, spiritual purification) |
@@ -618,9 +618,9 @@ The Albedo is the stage of objective cognition. Without it, the final union (Rub
 ### Related Archetypes
 - [[The Muse]] - The soul-image in men (primary Albedo archetype)
 - [[The Idol]] - The soul-image in women (primary Albedo archetype)
-- [[Folklore/Jungian Archetypes/The Wise Old Man]] - The mentor, the guide (Albedo teacher)
-- [[Folklore/Jungian Archetypes/The Great Mother]] - The nurturing mother (Albedo as return to the good mother after the devouring mother of Nigredo)
-- [[Folklore/Jungian Archetypes/The Divine Child]] - The purified, innocent self (Albedo recovery of essence)
+- [[The Wise Old Man]] - The mentor, the guide (Albedo teacher)
+- [[The Great Mother]] - The nurturing mother (Albedo as return to the good mother after the devouring mother of Nigredo)
+- [[The Divine Child]] - The purified, innocent self (Albedo recovery of essence)
 
 ### Related Individuation Stages
 - [[Encounter with Anima-Animus]] (when created) - Phase 4 of individuation (primary Albedo phase)
@@ -629,18 +629,18 @@ The Albedo is the stage of objective cognition. Without it, the final union (Rub
 
 ### Related Hero's Journey Stages
 - [[The Reward]] - The boon claimed after the Ordeal (Albedo gift)
-- [[The Road Back]] - The return journey with insight (Albedo passage)
+- The Road Back - The return journey with insight (Albedo passage)
 - [[Meeting the Mentor]] - The guide who provides clarity (Albedo figure)
 - [[Return with the Elixir]] - The final return (transition from Albedo to Rubedo)
 - [[The Resurrection]] - The final purification before return
 
 ### Related Tarot
-- [[The Star]] - Hope, clarity after crisis (Albedo as recovery)
-- [[Temperance]] - Purification, alchemy, balance (Albedo as mixing/separating)
-- [[The High Priestess]] - Lunar wisdom, reflection, soul (Albedo consciousness)
-- [[The Moon]] - Anima/Animus, soul-image, reflection (Albedo planet)
-- [[Judgement]] - Resurrection, awakening, objective assessment (Albedo as seeing clearly)
-- [[The Lovers]] - Choice, discrimination, Anima/Animus projection (Albedo relationship)
+- [[The Star (XVII)]] - Hope, clarity after crisis (Albedo as recovery)
+- [[Temperance (XIV)]] - Purification, alchemy, balance (Albedo as mixing/separating)
+- [[The High Priestess (II)]] - Lunar wisdom, reflection, soul (Albedo consciousness)
+- [[The Moon (XVIII)]] - Anima/Animus, soul-image, reflection (Albedo planet)
+- [[Judgement (XX)]] - Resurrection, awakening, objective assessment (Albedo as seeing clearly)
+- [[The Lovers (VI)]] - Choice, discrimination, Anima/Animus projection (Albedo relationship)
 
 ### Related Astrology
 - [[Moon ☽]] (when created) - The Albedo planet (soul, reflection, cycles)
@@ -652,11 +652,11 @@ The Albedo is the stage of objective cognition. Without it, the final union (Rub
 - [[Libra ♎]] (when created) - Balance, objectivity, differentiation
 
 ### Related Human Design
-- [[Sacral Center]] (when created) - Life force purified and clarified
-- [[Emotional Solar Plexus]] (when created) - Emotional clarity over time (wave resolution)
+- [[Sacral]] (when created) - Life force purified and clarified
+- [[Solar Plexus]] (when created) - Emotional clarity over time (wave resolution)
 - [[G Center]] (when created) - Identity, love, direction (soul integration)
-- [[Gate 13]] (when created) - The Listener (reflective witness, Albedo objectivity)
-- [[Gate 61]] (when created) - Inner Truth (knowing, clarity, insight)
+- [[Gate 13 - The Fellowship of Man]] (when created) - The Listener (reflective witness, Albedo objectivity)
+- [[Gate 61 - Inner Truth]] (when created) - Inner Truth (knowing, clarity, insight)
 
 ### Related Angelology
 - [[Tzadkiel]] - Sephirah Chesed (mercy, grace, purification)
@@ -667,17 +667,17 @@ The Albedo is the stage of objective cognition. Without it, the final union (Rub
 ### Related Mythology
 - [[Greek Mythology]] (when created) - Persephone's return, Psyche's tasks, Orpheus ascending
 - [[Egyptian Mythology]] (when created) - Isis gathering Osiris, Weighing of the Heart
-- [[Christian Mysticism]] (when created) - Baptism, Resurrection, Mary Magdalene's recognition
+- Christian Mysticism (when created) - Baptism, Resurrection, Mary Magdalene's recognition
 - [[Hindu Mythology]] (when created) - Ganga purification, Shiva's stillness
 
 ### Related Folklore
 - Fairy tales of awakening: Snow White, Sleeping Beauty, Cinderella, Rapunzel, Frog Prince
-- [[The Personal Myth]] (when created) - How Albedo appears in individual life story
+- [[Personal Mythos]] (when created) - How Albedo appears in individual life story
 
 ### Related Processes
 - [[Individuation Process]] (when created) - The overall journey (Albedo as Phase 4)
 - [[The Transcendent Function]] (when created) - The union of opposites (Albedo as preparation)
-- [[Active Imagination]] (when created) - The practice of engaging Anima/Animus consciously
+- Active Imagination (when created) - The practice of engaging Anima/Animus consciously
 
 ---
 

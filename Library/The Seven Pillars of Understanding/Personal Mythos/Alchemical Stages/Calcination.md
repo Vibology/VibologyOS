@@ -525,9 +525,9 @@ Calcination is the fire that makes the darkness conscious. It is disagreeable. I
 
 ### Related Archetypes
 - [[The Shadow]] - The repressed material that erupts as fire
-- [[Folklore/Jungian Archetypes/The Hero]] - The one who must endure the Ordeal (Calcination)
+- [[The Hero]] - The one who must endure the Ordeal (Calcination)
 - [[The Wise Old Man]] - The one who has survived the fire and guides others
-- [[The Phoenix]] (see [[Folklore/Jungian Archetypes/The Divine Child]] for rebirth motif)
+- The Phoenix (see [[The Divine Child]] for rebirth motif)
 - [[Persona Development]] - What Calcination destroys (see Individuation Process)
 
 ### Related Alchemical Operations
@@ -541,9 +541,9 @@ Calcination is the fire that makes the darkness conscious. It is disagreeable. I
 - [[Crossing the First Threshold]] - Entering the furnace consciously
 
 ### Related Tarot
-- [[The Tower]] - Lightning fire destroying false structures (Major Arcana)
-- [[The Devil]] - Fire of attachment and bondage (Major Arcana)
-- [[Judgment]] - The purifying fire of resurrection (Major Arcana)
+- [[The Tower (XVI)]] - Lightning fire destroying false structures (Major Arcana)
+- [[The Devil (XV)]] - Fire of attachment and bondage (Major Arcana)
+- [[Judgement (XX)]] - The purifying fire of resurrection (Major Arcana)
 - [[Ace of Wands]] - Elemental fire, creative destruction
 - [[Ten of Wands]] - Burnout, carrying too much (fire exhausted)
 
@@ -557,9 +557,9 @@ Calcination is the fire that makes the darkness conscious. It is disagreeable. I
 - [[8th House]] - House of death, transformation, and crisis
 
 ### Related Human Design
-- [[Emotional Solar Plexus]] - The wave as emotional fire
-- [[Root Center]] - Pressure and stress as fire
-- [[Gate 51]] - Shock and initiation (fire of awakening)
+- [[Solar Plexus]] - The wave as emotional fire
+- [[Root]] - Pressure and stress as fire
+- [[Gate 51 - The Arousing]] - Shock and initiation (fire of awakening)
 
 ### Related Angelology
 - [[Seraphim]] - The "burning ones," closest to divine fire
@@ -568,7 +568,7 @@ Calcination is the fire that makes the darkness conscious. It is disagreeable. I
 ### Related Folklore & Mythology
 - [[Greek Mythology]] (when created) - Phoenix, Prometheus, Hephaestus
 - [[Hindu Mythology]] (when created) - Agni, Shiva, Kali, Tapas
-- [[The Personal Myth]] (when created) - How Calcination appears in the individual's life story
+- [[Personal Mythos]] (when created) - How Calcination appears in the individual's life story
 
 ---
 

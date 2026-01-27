@@ -589,40 +589,40 @@ In **elderhood**, the Two Brothers motif becomes a question of **reconciliation*
 ## Cross-References
 
 #### Archetypal Figures
-[[The Shadow]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Hero]] • [[The Alchemist]] • [[The Muse]] • [[The Idol]] • [[The Wise Old Man]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Divine Child]] • [[The Seven Pillars of Understanding/The Window/The Twelve Archetypes/The Persona]] • [[The Syzygy]]
+[[The Shadow]] • [[The Hero]] • [[The Alchemist]] • [[The Muse]] • [[The Idol]] • [[The Wise Old Man]] • [[The Divine Child]] • [[The Persona]] • [[The Syzygy]]
 
 **Jungian Concepts:**
-[[Individuation]] • [[Shadow Integration]] • [[Projection]] • [[Coniunctio]] • [[Transcendent Function]] • [[Active Imagination]] • [[Compensatory Function]] • [[Ego-Self Axis]]
+Individuation • Shadow Integration • Projection • Coniunctio • [[The Transcendent Function]] • Active Imagination • Compensatory Function • Ego-Self Axis
 
 **Tarot Keys:**
-[[The Lovers]] • [[The Devil]] • [[Death]] • [[Temperance]] • [[The Tower]] • [[The Moon]] • [[Judgment]] • [[The Hermit]]
+[[The Lovers (VI)]] • [[The Devil (XV)]] • [[Death (XIII)]] • [[Temperance (XIV)]] • [[The Tower (XVI)]] • [[The Moon (XVIII)]] • [[Judgement (XX)]] • [[The Hermit (IX)]]
 
 #### Alchemical Stages
-[[Nigredo]] • [[Albedo]] • [[Rubedo]] • [[Separatio]] • [[Solve et Coagula]] • [[Coniunctio]] • [[Philosopher's Stone]] • [[Chemical Wedding]]
+[[Nigredo]] • [[Albedo]] • [[Rubedo]] • Separatio • Solve et Coagula • Coniunctio • Philosopher's Stone • Chemical Wedding
 
 #### Mythological Parallels
-[[Egyptian Mythology]] (Osiris and Set) • [[Greek Mythology]] (Castor and Pollux) • [[Norse Mythology]] (Baldur and Höðr) • [[Native American Mythology]] (Twin Heroes) • [[Biblical Mythology]] (Cain and Abel, Jacob and Esau)
+[[Egyptian Mythology]] (Osiris and Set) • [[Greek Mythology]] (Castor and Pollux) • [[Norse Mythology]] (Baldur and Höðr) • [[Native American Mythology]] (Twin Heroes) • Biblical Mythology (Cain and Abel, Jacob and Esau)
 
 #### Fairy Tale Motifs
-[[Beauty and the Beast]] • [[The Frog King]] • [[Sleeping Beauty]] • [[Cinderella]] • [[The Dragon-Slayer]] • [[The Golden Bird]] • [[The Animal Bridegroom]]
+[[Beauty and the Beast]] • The Frog King • Sleeping Beauty • [[Cinderella]] • The Dragon-Slayer • The Golden Bird • The Animal Bridegroom
 
 #### Human Design Connections
-[[Gate 6 - Conflict]] • [[Open Centers]] • [[Not-Self]] • [[Channel 10-20 - Awakening]] • [[Channel 27-50 - Preservation]] • [[Solar Plexus Center]] • [[Emotional Authority]]
+[[Gate 06 - Conflict]] • Open Centers • [[Strategy]] • [[Channel 10-20 - Awakening]] • [[Channel 27-50 - Preservation]] • [[Solar Plexus]] • [[Emotional Authority]]
 
 #### Individuation Process
 [[Ego Formation and Childhood]] • [[Persona Development]] • [[Confrontation with Shadow]] • [[Encounter with Anima-Animus]] • [[Confrontation with the Self]] • [[Integration and Wholeness]]
 
 #### Hero's Journey Stages
-[[The Call to Adventure]] • [[Crossing the First Threshold]] • [[The Road of Trials]] • [[The Ordeal]] • [[Atonement with the Father]] • [[The Resurrection]] • [[Return with the Elixir]]
+[[The Call to Adventure]] • [[Crossing the First Threshold]] • [[Tests, Allies, and Enemies]] • [[The Ordeal]] • [[The Ordeal]] • [[The Resurrection]] • [[Return with the Elixir]]
 
 **Astrological Correspondences:**
-[[Gemini ♊]] • [[Astrology/Planets/Mercury # ☿]] • [[Saturn ♄]] • [[Pluto ♇]] • [[8th House]] • [[Nodes of the Moon]] • [[South Node]] • [[North Node]]
+[[Gemini ♊]] • [[Mercury ☿]] • [[Saturn ♄]] • [[Pluto ♇]] • [[8th House]] • [[Nodes of the Moon]] • [[Astrology]] • [[Astrology]]
 
 **I-Ching Hexagrams:**
-[[Hexagram 38 - Opposition]] • [[Hexagram 31 - Influence]] • [[Hexagram 29 - The Abysmal]]
+Hexagram 38 - Opposition • Hexagram 31 - Influence • Hexagram 29 - The Abysmal
 
 #### Related Tales
-[[Hansel and Gretel]] • [[Snow White]] • [[The Handless Maiden]] • [[Bluebeard]] • [[East of the Sun, West of the Moon]] • [[The Juniper Tree]]
+[[Hansel and Gretel]] • [[Snow White]] • The Handless Maiden • [[Bluebeard]] • East of the Sun, West of the Moon • The Juniper Tree
 
 ---
 

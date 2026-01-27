@@ -11,11 +11,6 @@ grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
 verification_notes: "Individual verification complete. Core mechanics (G Center Center source, Projectors only hierarchy, Truth through voice principle) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
 # Self-Projected Authority
-
----
-
-
-
 *The Intelligence of the Voice*
 
 ---
@@ -183,6 +178,7 @@ ed Identity** — They know who they are through speaking
 
 *Self-Projected Authority is the intelligence of the voice—the recognition that your truth is not known until it is spoken, heard, and recognized through sound. To speak is to know, and to listen to yourself is to witness your own becoming. The sounding board is not your guide but your mirror, and in the resonance of your own voice, you hear who you are and where you are meant to go.*
 
+---
 ## Sources
 
 Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
