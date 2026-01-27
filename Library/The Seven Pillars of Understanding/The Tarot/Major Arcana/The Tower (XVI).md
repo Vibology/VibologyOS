@@ -87,7 +87,7 @@ The fall is from Netzach to Hod—from the realm of *desire* into the realm of *
 
 The Tower is attributed to **[[Mars ♂]]**, the red planet, the god of war, destruction, force, conquest, and—crucially—**fertility**. Mars is not merely destructive; Mars is the force that *breaks open the seed* so the sprout can emerge. Mars tears down the old to make room for the new.
 
-Mars is the blade, the lightning bolt, the battering ram. Mars is **sudden, violent, irresistible force**. Where Saturn (associated with [[The Devil]]) is slow constriction and crystallization, Mars is explosive rupture. Mars does not negotiate—Mars *acts*.
+Mars is the blade, the lightning bolt, the battering ram. Mars is **sudden, violent, irresistible force**. Where Saturn (associated with [[The Devil (XV)]]) is slow constriction and crystallization, Mars is explosive rupture. Mars does not negotiate—Mars *acts*.
 
 In Roman mythology, Mars is both the god of war and the god of agriculture, protector of the fields. This dual nature is crucial: **destruction and fertility are inseparable**. The old growth must be cut down for the new crop to flourish. The Tower is Mars as sacred warrior, demolishing what must fall so life can continue.
 
@@ -115,7 +115,7 @@ The Rider-Waite depiction of The Tower is stark and unambiguous:
 
   In psychological terms, the two figures represent the **dual modes of consciousness**—the conscious and the subconscious, the ego and the shadow, the solar and the lunar. Both are "crowned" (both claim authority), but both are overthrown by the Primal Will. The Tower is the moment when *all* of the personality's structures—both the acknowledged and the denied—are demolished.
 
-  The figures fall **headfirst**, arms outstretched—echoing the posture of [[The Hanged Man]], but inverted. The Hanged Man hangs willingly, waiting; the Tower's figures fall involuntarily, propelled by force. This is surrender by necessity rather than choice.
+  The figures fall **headfirst**, arms outstretched—echoing the posture of [[The Hanged Man (XII)]], but inverted. The Hanged Man hangs willingly, waiting; the Tower's figures fall involuntarily, propelled by force. This is surrender by necessity rather than choice.
 
 - **The 22 Falling Yods (Flames)**: Around the Tower, **22 Yods** (the Hebrew letter *yod*, which looks like a flame or teardrop) fall like sparks or raindrops. The Yod is the **primordial letter**, the "hand of God," the smallest letter that contains all others. The 22 Yods represent:
   - The **22 letters of the Hebrew alphabet**—the divine language, the building blocks of creation.
@@ -144,7 +144,7 @@ The Tower embodies these paradoxes:
 
 4. **Catastrophe is liberation**: What feels like disaster is often the only path to freedom. The ego experiences The Tower as catastrophe; the Self experiences it as release.
 
-5. **The Tower must fall so the Star can shine**: After the Tower comes [[The Star]]—healing, hope, grace. But the Tower *must* fall first. You cannot skip this step.
+5. **The Tower must fall so the Star can shine**: After the Tower comes [[The Star (XVII)]]—healing, hope, grace. But the Tower *must* fall first. You cannot skip this step.
 
 ### The Kings of Edom: Unbalanced Universes
 
@@ -202,10 +202,10 @@ The gift of integration: **Trusting the process of destruction**. The integrated
 ## Cross-References
 - **Adjacent Major Arcana**: [[The Devil (XV)]] ← → [[The Star (XVII)]]
 - **Planetary**: [[Mars ♂]]
-- **Path**: [[Path 27 - Netzach to Hod]]
-- **Hebrew Letter**: [[Peh]]
-- **Thematic Groupings**: [[The Destruction Cards]] | [[Ego-Shattering]] | [[Liberation through Catastrophe]]
-- **Cross-References**: [[Tower of Babel]], [[Kings of Edom]], [[Lightning Flash]], [[Shiva]], [[Solomon's Temple]]
+- **Path**: Path 27 - Netzach to Hod
+- **Hebrew Letter**: Peh
+- **Thematic Groupings**: The Destruction Cards | Ego-Shattering | Liberation through Catastrophe
+- **Cross-References**: Tower of Babel, Kings of Edom, Lightning Flash, Shiva, Solomon's Temple
 
 ---
 

@@ -303,33 +303,33 @@ The question is not whether you will be wounded—openness to life guarantees wo
 
 ### Sephirotic Connections
 - [[Binah]] - The third Sephirah: Understanding, the Dark Mother, form and limitation
-- [[Threes of the Tarot]] - All four Threes as expressions of Binah
+- Threes of the Tarot - All four Threes as expressions of Binah
 
 ### Planetary and Zodiacal
 - [[Saturn ♄]] - The planet of limitation, time, karma, and hard lessons
 - [[Libra ♎]] - The sign of relationship, balance, partnership
-- [[Saturn in Libra]] - The specific combination of these energies (Saturn exalted)
+- Saturn in Libra - The specific combination of these energies (Saturn exalted)
 
 ### Elemental and Suit
-- [[Air Element]] - The realm of mind and discrimination
-- [[Swords Suit Overview]] - The journey of the intellect
+- Air Element - The realm of mind and discrimination
+- Swords Suit Overview - The journey of the intellect
 
 ### Thematic Groupings
-- [[Cards of Grief and Loss]] - Heartbreak, mourning, separation
-- [[Cards of Initiation]] - Suffering that transforms
-- [[Cards of Truth]] - Painful clarity, disillusionment
+- Cards of Grief and Loss - Heartbreak, mourning, separation
+- Cards of Initiation - Suffering that transforms
+- Cards of Truth - Painful clarity, disillusionment
 
 ### Cross-System References
-- [[Dark Night of the Soul]] - St. John of the Cross, spiritual desolation
-- [[Sacred Heart]] - The pierced heart of Christ
-- [[Mortificatio]] - Alchemical death, the decay that precedes rebirth
-- [[I Ching Hexagram 47]] - Oppression/Exhaustion: the time of endurance
+- Dark Night of the Soul - St. John of the Cross, spiritual desolation
+- Sacred Heart - The pierced heart of Christ
+- Mortificatio - Alchemical death, the decay that precedes rebirth
+- I Ching Hexagram 47 - Oppression/Exhaustion: the time of endurance
 
 ### Psychological
-- [[Grief]] - The process of mourning what is lost
-- [[Disillusionment]] - The painful gift of seeing clearly
-- [[The Wounded Healer]] - The archetype of transformation through suffering
-- [[Shadow]] - What is revealed when the heart is pierced
+- Grief - The process of mourning what is lost
+- Disillusionment - The painful gift of seeing clearly
+- The Wounded Healer - The archetype of transformation through suffering
+- [[The Shadow]] - What is revealed when the heart is pierced
 
 ---
 

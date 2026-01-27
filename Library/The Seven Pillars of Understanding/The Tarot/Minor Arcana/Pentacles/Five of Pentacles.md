@@ -299,41 +299,41 @@ The invitation of the Five is to *turn around*, to *knock*, to *ask*. The door m
 
 ### Sephirotic Connections
 - [[Geburah]] - The fifth Sephirah: Severity, judgment, correction, strength through discipline
-- [[Fives of the Tarot]] - All four Fives as expressions of Geburah
+- Fives of the Tarot - All four Fives as expressions of Geburah
 
 ### Planetary and Astrological
-- [[Astrology/Planets/Mercury # ☿]] - The planet of communication, commerce, movement, the mind
+- [[Mercury ☿]] - The planet of communication, commerce, movement, the mind
 - [[Taurus ♉]] - The sign of stability, security, material comfort, the body
-- [[Mercury in Taurus]] - Disruption of stability through restless change
-- [[First Decan of Taurus]] - The promise of spring abundance disrupted
+- Mercury in Taurus - Disruption of stability through restless change
+- First Decan of Taurus - The promise of spring abundance disrupted
 
 ### Elemental and Suit
-- [[Earth Element]] - The realm of matter and manifestation (here in crisis)
-- [[Pentacles Suit Overview]] - The journey of embodiment and material mastery
-- [[Earth Cards]] - All cards attributed to the Earth element
-- [[Assiah]] - The Material World, realm of security (here lost)
+- Earth Element - The realm of matter and manifestation (here in crisis)
+- Pentacles Suit Overview - The journey of embodiment and material mastery
+- Earth Cards - All cards attributed to the Earth element
+- Assiah - The Material World, realm of security (here lost)
 
 ### Thematic Groupings
-- [[Cards of Hardship]] - Suffering, loss, crisis, the dark night
-- [[Cards of Exclusion]] - Being outside while others are inside
-- [[Cards of Humility]] - The need to ask for help
-- [[Cards of Faith Tested]] - Spiritual crisis through material loss
+- Cards of Hardship - Suffering, loss, crisis, the dark night
+- Cards of Exclusion - Being outside while others are inside
+- Cards of Humility - The need to ask for help
+- Cards of Faith Tested - Spiritual crisis through material loss
 
 ### Cross-System References
-- [[Job]] - The test of faith in suffering
-- [[The Prodigal Son]] - Outside the father's house, must return
-- [[Dark Night of the Soul]] - St. John of the Cross, spiritual purification through loss
-- [[I Ching Hexagram 47]] - Oppression: hardship is real but not permanent
-- [[Pride and Shame]] - The psychological barriers to receiving help
+- Job - The test of faith in suffering
+- The Prodigal Son - Outside the father's house, must return
+- Dark Night of the Soul - St. John of the Cross, spiritual purification through loss
+- I Ching Hexagram 47 - Oppression: hardship is real but not permanent
+- Pride and Shame - The psychological barriers to receiving help
 
 ### Court and Archetypal
 - [[King of Pentacles]] - The one who gives help; the sanctuary inside
 
 ### Psychological
-- [[The Ego]] - Identity through loss, the self beyond circumstances
+- [[The Self]] - Identity through loss, the self beyond circumstances
 - [[Pride]] - The refusal to ask for help
-- [[Shame]] - The belief that you do not deserve help
-- [[Victim Identity]] - Defining the self through suffering
+- Shame - The belief that you do not deserve help
+- Victim Identity - Defining the self through suffering
 - [[Humility]] - The capacity to receive
 
 ---

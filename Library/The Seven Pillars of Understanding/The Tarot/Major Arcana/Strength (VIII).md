@@ -155,12 +155,12 @@ TBD
 - [[The Fool (0)]] - The innocent who must learn mastery
 - [[The Magician (I)]] - The will that directs power
 - [[The Chariot (VII)]] - The complementary path of command
-- [[Teth - Hebrew Letters in Tarot]]
-- [[Kabbalistic Paths - Balancing Chesed and Geburah]]
-- [[Leo and the Sun in Esoteric Systems]]
-- [[Kundalini - The Serpent Fire]]
-- [[Cards of Mastery and Self-Control]]
-- [[The Integration of Shadow]]
+- Teth - Hebrew Letters in Tarot
+- Kabbalistic Paths - Balancing Chesed and Geburah
+- Leo and the Sun in Esoteric Systems
+- Kundalini - The Serpent Fire
+- Cards of Mastery and Self-Control
+- The Integration of Shadow
 
 ---
 

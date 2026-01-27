@@ -104,11 +104,11 @@ TBD
 ## Cross-References
 - [[The Magician (I)]] - The One that follows Zero
 - [[The World (XXI)]] - The completion that returns to beginning
-- [[Aleph - Hebrew Letters in Tarot]]
-- [[Kabbalistic Paths - The Supernal Triangle]]
-- [[Air Element Cards]]
-- [[Cards of New Beginnings]]
-- [[The Fool's Journey - Full Major Arcana Sequence]]
+- Aleph - Hebrew Letters in Tarot
+- Kabbalistic Paths - The Supernal Triangle
+- Air Element Cards
+- Cards of New Beginnings
+- The Fool's Journey - Full Major Arcana Sequence
 
 ---
 

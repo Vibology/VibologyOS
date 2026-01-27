@@ -169,34 +169,34 @@ The teaching: Hoarding creates scarcity. Generosity creates abundance. When you 
 - [[Queen of Swords]] - Nurturing clear thought, intellectual discernment (air)
 
 ### Court Card Progressions
-- [[Queens of the Tarot]] - All four Queens as expressions of Water (nurturing, receptive power)
-- [[Pentacles Court Cards]] - Page → Knight → Queen → King (progression of material mastery)
+- Queens of the Tarot - All four Queens as expressions of Water (nurturing, receptive power)
+- Pentacles Court Cards - Page → Knight → Queen → King (progression of material mastery)
 
 ### Elemental Correspondences
-- [[Water Element]] - Emotion, nurturing, intuition, flow
-- [[Earth Element]] - Manifestation, resources, body, practicality
-- [[Water of Earth]] - Emotion nurturing matter, love made tangible
+- Water Element - Emotion, nurturing, intuition, flow
+- Earth Element - Manifestation, resources, body, practicality
+- Water of Earth - Emotion nurturing matter, love made tangible
 - [[Taurus ♉]] - Fixed earth, sensual abundance, fertile ground
 - [[Virgo ♍]] - Mutable earth, practical care, service through tending
 - [[Capricorn ♑]] - Cardinal earth, structured provision, mastery of resources
 
 ### Thematic Groupings
-- [[Cards of Nurturing]] - Care, provision, creating conditions for growth
-- [[Cards of Abundance]] - Wealth as overflow, generosity, plenty
-- [[Cards of the Earth Mother]] - Feminine principle in material form
-- [[Cards of Embodiment]] - Body wisdom, sensual presence, grounded being
+- Cards of Nurturing - Care, provision, creating conditions for growth
+- Cards of Abundance - Wealth as overflow, generosity, plenty
+- Cards of the Earth Mother - Feminine principle in material form
+- Cards of Embodiment - Body wisdom, sensual presence, grounded being
 
 ### Cross-System References
-- [[Demeter]] - Greek goddess of harvest and grain
-- [[The Alchemical Garden]] - Soul cultivation through attentive labor
-- [[Folklore/Jungian Archetypes/The Great Mother]] - Jung's archetype of nourishing and devouring feminine
-- [[Generosity as Spiritual Practice]] - Giving as path to abundance
+- Demeter - Greek goddess of harvest and grain
+- The Alchemical Garden - Soul cultivation through attentive labor
+- [[The Great Mother]] - Jung's archetype of nourishing and devouring feminine
+- Generosity as Spiritual Practice - Giving as path to abundance
 
 ### Psychological
-- [[The Great Mother Archetype]] - Nurturing and devouring poles of the maternal
-- [[Embodied Wisdom]] - Knowing through senses, body's intelligence
-- [[Generative Care]] - Nurturing that empowers, not entraps
-- [[Smothering]] - Shadow: using care as control
+- The Great Mother Archetype - Nurturing and devouring poles of the maternal
+- Embodied Wisdom - Knowing through senses, body's intelligence
+- Generative Care - Nurturing that empowers, not entraps
+- Smothering - Shadow: using care as control
 
 ---
 *"The Queen who sits in the garden does not count her coins—she watches what grows, and shares the harvest."*

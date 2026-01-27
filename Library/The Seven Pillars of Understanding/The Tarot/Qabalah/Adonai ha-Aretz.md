@@ -34,7 +34,7 @@ In Qabalistic practice, Adonai ha-Aretz is vibrated when grounding spiritual wor
 
 - [[Malkuth]] — The Sephirah governed by Adonai ha-Aretz
 - [[Sandalphon]] — The Archangel of Malkuth
-- [[Ashim]] / [[Ishim]] — The angelic order of Malkuth
+- Ashim / [[Ishim]] — The angelic order of Malkuth
 - [[Tree of Life]] — The complete Sephirotic structure
 
 ---

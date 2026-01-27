@@ -281,40 +281,40 @@ The question the Two asks is not "How can I make everything stop moving?" but "H
 
 ### Sephirotic Connections
 - [[Chokmah]] - The second Sephirah: Wisdom, dynamic force, the first differentiation
-- [[Twos of the Tarot]] - All four Twos as expressions of Chokmah
+- Twos of the Tarot - All four Twos as expressions of Chokmah
 
 ### Planetary and Astrological
 - [[Jupiter ♃]] - The planet of expansion, optimism, and abundance
 - [[Capricorn ♑]] - The sign of structure, ambition, and mastery
-- [[Jupiter in Capricorn]] - Expansion through structure, sustainable growth
-- [[First Decan of Capricorn]] - The initiatory phase of the climb
+- Jupiter in Capricorn - Expansion through structure, sustainable growth
+- First Decan of Capricorn - The initiatory phase of the climb
 
 ### Elemental and Suit
-- [[Earth Element]] - The realm of matter and manifestation
-- [[Pentacles Suit Overview]] - The journey of embodiment and material mastery
-- [[Earth Cards]] - All cards attributed to the Earth element
-- [[Assiah]] - The Material World, realm of action and flux
+- Earth Element - The realm of matter and manifestation
+- Pentacles Suit Overview - The journey of embodiment and material mastery
+- Earth Cards - All cards attributed to the Earth element
+- Assiah - The Material World, realm of action and flux
 
 ### Thematic Groupings
-- [[Cards of Balance]] - Equilibrium, polarity, the holding of opposites
-- [[Cards of Change and Flux]] - Adaptation, movement, dynamic stability
-- [[Cards of Multitasking]] - Managing multiple priorities simultaneously
-- [[Cards of Play and Joy]] - Delight found in skillful mastery
+- Cards of Balance - Equilibrium, polarity, the holding of opposites
+- Cards of Change and Flux - Adaptation, movement, dynamic stability
+- Cards of Multitasking - Managing multiple priorities simultaneously
+- Cards of Play and Joy - Delight found in skillful mastery
 
 ### Cross-System References
-- [[Taijitu]] - The yin-yang symbol: dynamic balance of opposites
-- [[Heraclitus]] - "Everything flows"; the river of change
-- [[The Juggler Archetype]] - Medieval symbol of mastery in complexity
-- [[I Ching Hexagram 32]] - Duration: endurance through adaptability
+- Taijitu - The yin-yang symbol: dynamic balance of opposites
+- Heraclitus - "Everything flows"; the river of change
+- The Juggler Archetype - Medieval symbol of mastery in complexity
+- I Ching Hexagram 32 - Duration: endurance through adaptability
 - [[The Transcendent Function]] - Jungian synthesis of opposites
 
 ### Court and Archetypal
 - [[Knight of Pentacles]] - The mature expression of Earth's patient, methodical energy (contrast to the Two's dynamic energy)
 
 ### Psychological
-- [[The Ego]] - The conscious self managing polarities
-- [[Holding Opposites]] - The capacity to honor tension without collapsing into one pole
-- [[Both/And Consciousness]] - Integration rather than choice
+- [[The Self]] - The conscious self managing polarities
+- Holding Opposites - The capacity to honor tension without collapsing into one pole
+- Both/And Consciousness - Integration rather than choice
 
 ---
 *"Balance is not found in stillness—it is found in the skillful dance with change."*

@@ -333,34 +333,34 @@ The Ace of Cups teaches: **You are not the source of love, but you are the vesse
 
 ### Sephirotic Connections
 - [[Kether]] - The first Sephirah: Crown, source, unity
-- [[Aces of the Tarot]] - All four Aces as expressions of Kether
-- [[Briah]] - The Creative World, realm of Archangels
+- Aces of the Tarot - All four Aces as expressions of Kether
+- Briah - The Creative World, realm of Archangels
 
 ### Elemental and Suit
-- [[Water Element]] - The realm of emotion and relationship
-- [[Cups Suit Overview]] - The journey of the emotional life
-- [[Water Cards]] - All cards attributed to the Water element
+- Water Element - The realm of emotion and relationship
+- Cups Suit Overview - The journey of the emotional life
+- Water Cards - All cards attributed to the Water element
 
 ### Thematic Groupings
-- [[Cards of Beginning and Initiation]] - Starting points, new chapters
-- [[Cards of Love and Relationship]] - The heart's journey
-- [[The Gift Cards]] - Divine offerings that must be accepted
-- [[Kether Across the Four Worlds]] - How the Crown manifests in each element
+- Cards of Beginning and Initiation - Starting points, new chapters
+- Cards of Love and Relationship - The heart's journey
+- The Gift Cards - Divine offerings that must be accepted
+- Kether Across the Four Worlds - How the Crown manifests in each element
 
 ### Cross-System References
-- [[The Holy Grail]] - The sacred vessel of Arthurian legend
-- [[Baptism]] - The sacrament of new life through water
-- [[Vas Hermeticum]] - The alchemical vessel of transformation
-- [[I Ching Hexagram 29]] - K'an, The Abysmal (Water)
-- [[Ganges]] - Sacred river, heavenly water made earthly
+- The Holy Grail - The sacred vessel of Arthurian legend
+- Baptism - The sacrament of new life through water
+- Vas Hermeticum - The alchemical vessel of transformation
+- I Ching Hexagram 29 - K'an, The Abysmal (Water)
+- Ganges - Sacred river, heavenly water made earthly
 
 ### Court and Archetypal
 - [[Queen of Cups]] - The mature expression of Water's receptive mastery
 - [[King of Cups]] - Water's emotional sovereignty
 
 ### Psychological
-- [[Anima]] - The inner feminine, soul-guide to the depths
-- [[Individuation]] - The call to feel as well as think
+- [[The Anima]] - The inner feminine, soul-guide to the depths
+- [[Individuation Process]] - The call to feel as well as think
 
 ---
 

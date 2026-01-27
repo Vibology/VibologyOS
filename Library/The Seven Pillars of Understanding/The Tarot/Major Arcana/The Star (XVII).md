@@ -20,7 +20,7 @@ verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 
 According to Waite's *Pictorial Key to the Tarot*, The Star signifies *loss, theft, privation, and abandonment*—but also, paradoxically, *hope and bright prospects*. This dual meaning captures the card's essence: The Star appears **after catastrophe**, in the moment when everything has been stripped away. She is hope not as naive optimism but as **openness to renewal** after devastation.
 
-The Golden Dawn titles this card "The Daughter of the Firmament" and "The Dweller Between the Waters." The Star is the mediator, the bridge, the one who stands at the threshold between the Waters Above (the spiritual realm) and the Waters Below (the material realm). She pours the "Water of Life" from both realms, irrigating the parched earth after [[The Tower]]'s destruction.
+The Golden Dawn titles this card "The Daughter of the Firmament" and "The Dweller Between the Waters." The Star is the mediator, the bridge, the one who stands at the threshold between the Waters Above (the spiritual realm) and the Waters Below (the material realm). She pours the "Water of Life" from both realms, irrigating the parched earth after [[The Tower (XVI)]]'s destruction.
 
 In divinatory practice, The Star appears **after crisis**, offering the promise that what was destroyed can be rebuilt on a truer foundation. She signals: *Begin again. The ground is fertile. You have been emptied—now you can be filled.* The Star is not a guarantee of success but an **invitation to faith**—the faith that comes not from belief but from willingness to receive.
 
@@ -154,7 +154,7 @@ The Star embodies these paradoxes:
 
 ### The Tzaddi/Heh Attribution Debate
 
-A notorious controversy in Tarot occultism: Aleister Crowley, in his *Book of Thoth*, declared that **"Tzaddi is not the Star"** and swapped the Hebrew letter attributions of The Star and [[The Emperor]].
+A notorious controversy in Tarot occultism: Aleister Crowley, in his *Book of Thoth*, declared that **"Tzaddi is not the Star"** and swapped the Hebrew letter attributions of The Star and [[The Emperor (IV)]].
 
 **Traditional Attribution:**
 - The Star (XVII) = Tzaddi = Aquarius
@@ -217,12 +217,12 @@ The gift of integration: **Faith as openness**. The integrated Star recognizes t
 
 ## Cross-References
 - **Adjacent Major Arcana**: [[The Tower (XVI)]] ← → [[The Moon (XVIII)]]
-- **Element/Modality**: [[Aquarius ♒]] | [[Fixed Air]]
+- **Element/Modality**: [[Aquarius ♒]] | Fixed Air
 - **Planetary**: [[Saturn ♄]] (traditional ruler) | [[Uranus ♅]] (modern ruler) | [[Venus ♀]] (as the Star itself)
-- **Path**: [[Path 28 - Netzach to Yesod]]
-- **Hebrew Letter**: [[Tzaddi]]
-- **Thematic Groupings**: [[Hope and Renewal]] | [[Post-Traumatic Growth]] | [[The Waters of Life]]
-- **Cross-References**: [[Lucifer]], [[Pandora]], [[Isis]], [[Aquarius the Water-Bearer]], [[Creative Imagination]]
+- **Path**: Path 28 - Netzach to Yesod
+- **Hebrew Letter**: Tzaddi
+- **Thematic Groupings**: Hope and Renewal | Post-Traumatic Growth | The Waters of Life
+- **Cross-References**: [[Lucifer]], Pandora, [[Isis]], Aquarius the Water-Bearer, Creative Imagination
 
 ---
 

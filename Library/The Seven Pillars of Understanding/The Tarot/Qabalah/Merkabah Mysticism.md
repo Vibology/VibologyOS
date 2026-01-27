@@ -26,11 +26,11 @@ Merkabah practice involved intense meditation, fasting, prayer, and recitation o
 
 ## Cross-References
 
-- [[Ezekiel's Vision]]
+- Ezekiel's Vision
 - [[The Chariot (VII)]]
 - [[Cherubim]]
 - [[Metatron]]
-- [[Throne]]
+- Throne
 
 ---
 

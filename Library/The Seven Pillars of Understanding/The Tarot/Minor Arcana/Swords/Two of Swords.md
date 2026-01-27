@@ -314,33 +314,33 @@ The Two of Swords is not the answer. It is the space in which the answer might b
 
 ### Sephirotic Connections
 - [[Chokmah]] - The second Sephirah: Wisdom, differentiation, the father
-- [[Twos of the Tarot]] - All four Twos as expressions of Chokmah
+- Twos of the Tarot - All four Twos as expressions of Chokmah
 
 ### Planetary and Zodiacal
 - [[Moon ☽]] - The emotional, instinctual, unconscious nature
 - [[Libra ♎]] - The sign of balance, justice, relationship
-- [[Moon in Libra]] - The specific combination of these energies
+- Moon in Libra - The specific combination of these energies
 
 ### Elemental and Suit
-- [[Air Element]] - The realm of mind and discrimination
-- [[Swords Suit Overview]] - The journey of the intellect
+- Air Element - The realm of mind and discrimination
+- Swords Suit Overview - The journey of the intellect
 
 ### Thematic Groupings
-- [[Cards of Stalemate and Impasse]] - Blocked energy, suspended action
-- [[Cards of Choice and Decision]] - The crossroads, the weighing
-- [[Cards of Avoidance]] - Defense mechanisms, not-seeing
+- Cards of Stalemate and Impasse - Blocked energy, suspended action
+- Cards of Choice and Decision - The crossroads, the weighing
+- Cards of Avoidance - Defense mechanisms, not-seeing
 
 ### Cross-System References
-- [[Ma'at]] - Egyptian goddess of truth, justice, and cosmic balance
-- [[The Middle Way]] - Buddhist teaching on avoiding extremes
-- [[Judgment of Solomon]] - The sword that divides, wisdom in conflict
-- [[I Ching Hexagram 6]] - Conflict: the cautious halt
+- Ma'at - Egyptian goddess of truth, justice, and cosmic balance
+- The Middle Way - Buddhist teaching on avoiding extremes
+- Judgment of Solomon - The sword that divides, wisdom in conflict
+- I Ching Hexagram 6 - Conflict: the cautious halt
 
 ### Psychological
-- [[The Problem of Opposites]] - Jung's framework for psychic tension
-- [[Transcendent Function]] - The emergence of the third thing
-- [[Defense Mechanisms]] - Intellectualization, avoidance, repression
-- [[Anima]] - The inner feminine, the feeling function
+- The Problem of Opposites - Jung's framework for psychic tension
+- Transcendent Function - The emergence of the third thing
+- Defense Mechanisms - Intellectualization, avoidance, repression
+- [[The Anima]] - The inner feminine, the feeling function
 
 ---
 

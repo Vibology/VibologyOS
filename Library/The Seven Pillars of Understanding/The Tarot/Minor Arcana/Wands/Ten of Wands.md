@@ -392,42 +392,42 @@ The teaching: **Completion is not the goal. Liberation is.** If you complete the
 
 ### Sephirotic Connections
 - [[Malkuth]] - The tenth Sephirah: Kingdom, material world, completion in form
-- [[Cards of Malkuth]] - All cards attributed to the sphere of the Kingdom
-- [[Tens of the Tarot]] - The ten as completion, return to unity (1+0=1), manifestation
-- [[The Four Worlds]] - Atziluth (spirit) manifesting in Malkuth (matter) creates paradox
+- Cards of Malkuth - All cards attributed to the sphere of the Kingdom
+- Tens of the Tarot - The ten as completion, return to unity (1+0=1), manifestation
+- The Four Worlds - Atziluth (spirit) manifesting in Malkuth (matter) creates paradox
 
 ### Planetary and Astrological
 - [[Saturn ♄]] - The planet of limitation, restriction, duty, burden, time, the Taskmaster
 - [[Sagittarius ♐]] - The mutable fire sign: freedom, quest, expansion, vision
-- [[Saturn in Sagittarius]] - Restriction crushing freedom, duty oppressing the quest
-- [[First Decan of Capricorn]] - Alternate attribution, emphasizing Saturn's domicile
+- Saturn in Sagittarius - Restriction crushing freedom, duty oppressing the quest
+- First Decan of Capricorn - Alternate attribution, emphasizing Saturn's domicile
 
 ### Elemental and Suit
-- [[Fire Element]] - The realm of will and creative action
-- [[Wands Suit Overview]] - The journey of the creative impulse from spark to ash
-- [[Fire at Malkuth]] - How Fire manifests as oppression when forced into dense matter
-- [[Oppressed Fire]] - Fire that cannot burn freely, spirit weighted by manifestation
-- [[Atziluth]] - The World of Pure Spirit attempting to incarnate in Kingdom
+- Fire Element - The realm of will and creative action
+- Wands Suit Overview - The journey of the creative impulse from spark to ash
+- Fire at Malkuth - How Fire manifests as oppression when forced into dense matter
+- Oppressed Fire - Fire that cannot burn freely, spirit weighted by manifestation
+- Atziluth - The World of Pure Spirit attempting to incarnate in Kingdom
 
 ### Thematic Groupings
-- [[Cards of Burden and Oppression]] - Carrying too much, crushing responsibility
-- [[Cards of Unsustainability]] - Workloads that cannot be maintained, pending collapse
-- [[Cards of Completion and Cost]] - The price of manifestation, success that imprisons
-- [[Cards of Release and Liberation]] - The wisdom to set down what no longer serves
+- Cards of Burden and Oppression - Carrying too much, crushing responsibility
+- Cards of Unsustainability - Workloads that cannot be maintained, pending collapse
+- Cards of Completion and Cost - The price of manifestation, success that imprisons
+- Cards of Release and Liberation - The wisdom to set down what no longer serves
 
 ### Cross-System and Mythological References
-- [[Atlas Bearing the Sky]] - The Titan condemned to carry the world, eternal burden
-- [[Christ Carrying the Cross]] - The ultimate burden-bearer, redemptive suffering
-- [[The Second Arrow]] - Buddhist teaching: self-inflicted suffering added to necessary pain
-- [[Heracles's Twelfth Labor]] - The final impossible task, completion at unbearable cost
-- [[Wu Wei]] - Taoist effortless action, the opposite of the Ten's strained effort
+- Atlas Bearing the Sky - The Titan condemned to carry the world, eternal burden
+- Christ Carrying the Cross - The ultimate burden-bearer, redemptive suffering
+- The Second Arrow - Buddhist teaching: self-inflicted suffering added to necessary pain
+- Heracles's Twelfth Labor - The final impossible task, completion at unbearable cost
+- Wu Wei - Taoist effortless action, the opposite of the Ten's strained effort
 
 ### Psychological and Archetypal
-- [[Ego Inflation and Savior Complex]] - Believing you are indispensable, refusing to delegate
-- [[The Persona as Prison]] - Identity subsumed by role, the mask become self
-- [[Burnout]] - Complete depletion of resources, collapse under self-imposed burden
-- [[Martyrdom]] - Suffering as currency, burden as proof of virtue
-- [[The Wisdom to Release]] - Knowing when to set down what no longer serves
+- Ego Inflation and Savior Complex - Believing you are indispensable, refusing to delegate
+- The Persona as Prison - Identity subsumed by role, the mask become self
+- Burnout - Complete depletion of resources, collapse under self-imposed burden
+- Martyrdom - Suffering as currency, burden as proof of virtue
+- The Wisdom to Release - Knowing when to set down what no longer serves
 
 ### Court and Related
 - [[King of Wands]] - The mature sovereign who has learned to delegate, to lead without crushing himself
@@ -435,10 +435,10 @@ The teaching: **Completion is not the goal. Liberation is.** If you complete the
 - [[Knight of Wands]] - The questing adventurer before the burden of manifestation crushes
 
 ### Paradoxes and Mysteries
-- [[Oppression as Completion]] - How the final card depicts burden, not triumph
-- [[The Cost of Manifestation]] - Spirit forced into matter becomes weight
-- [[Success as Prison]] - Achievement that enslaves rather than liberates
-- [[The Burden That Must Be Laid Down]] - What are you carrying that is not yours?
+- Oppression as Completion - How the final card depicts burden, not triumph
+- The Cost of Manifestation - Spirit forced into matter becomes weight
+- Success as Prison - Achievement that enslaves rather than liberates
+- The Burden That Must Be Laid Down - What are you carrying that is not yours?
 
 ---
 

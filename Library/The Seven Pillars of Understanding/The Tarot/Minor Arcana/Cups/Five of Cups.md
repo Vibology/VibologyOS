@@ -361,31 +361,31 @@ The Lord of Loss in Pleasure is also the lord of what survives loss. The two cup
 
 ### Sephirotic Connections
 - [[Geburah]] - The fifth Sephirah: Severity, judgment, corrective force
-- [[Cards of Geburah]] - All Fives across the suits
+- Cards of Geburah - All Fives across the suits
 
 ### Planetary and Astrological
 - [[Mars ♂]] - The planet: aggression, will, the cutting force
 - [[Scorpio ♏]] - The Scorpion: depth, transformation, the underworld
-- [[Mars in Scorpio]] - Martial energy at maximum depth, the penetrating wound
-- [[First Decan of Scorpio]] - The initial descent into Scorpionic territory
+- Mars in Scorpio - Martial energy at maximum depth, the penetrating wound
+- First Decan of Scorpio - The initial descent into Scorpionic territory
 
 ### Elemental and Suit
-- [[Water Element]] - The realm of emotion and the unconscious
-- [[Cups Suit Overview]] - The journey of the heart
-- [[Water Cards]] - All cards attributed to the Water element
-- [[Briah]] - The Creative World, realm of formation and emotion
+- Water Element - The realm of emotion and the unconscious
+- Cups Suit Overview - The journey of the heart
+- Water Cards - All cards attributed to the Water element
+- Briah - The Creative World, realm of formation and emotion
 
 ### Thematic Groupings
-- [[Cards of Grief]] - Mourning, loss, the necessary descent
-- [[Cards of Transformation]] - Death-rebirth, mortificatio, the phoenix cycle
-- [[Cards of the Underworld]] - Descent, shadow work, the journey below
+- Cards of Grief - Mourning, loss, the necessary descent
+- Cards of Transformation - Death-rebirth, mortificatio, the phoenix cycle
+- Cards of the Underworld - Descent, shadow work, the journey below
 
 ### Cross-System References
-- [[Inanna's Descent]] - The Sumerian goddess's journey to the underworld
-- [[Dark Night of the Soul]] - St. John of the Cross's mystical purgation
-- [[I Ching Hexagram 47]] - Oppression/Exhaustion, the depleted lake
-- [[Book of Job]] - Biblical archetype of loss and restoration
-- [[Kubler-Ross Grief Model]] - The depression stage in grief processing
+- Inanna's Descent - The Sumerian goddess's journey to the underworld
+- Dark Night of the Soul - St. John of the Cross's mystical purgation
+- I Ching Hexagram 47 - Oppression/Exhaustion, the depleted lake
+- Book of Job - Biblical archetype of loss and restoration
+- Kubler-Ross Grief Model - The depression stage in grief processing
 
 ### Court and Archetypal
 - [[Queen of Cups]] - The mature water nature that has integrated loss
@@ -393,9 +393,9 @@ The Lord of Loss in Pleasure is also the lord of what survives loss. The two cup
 
 ### Psychological
 - [[The Shadow]] - Grief as shadow experience, the descent into darkness
-- [[Anima and Animus]] - Loss of projection, retrieval of the soul-image
-- [[Individuation]] - Loss as catalyst for psychological development
-- [[Mortificatio]] - Alchemical death, the necessary dissolution
+- [[The Anima]] - Loss of projection, retrieval of the soul-image
+- [[Individuation Process]] - Loss as catalyst for psychological development
+- Mortificatio - Alchemical death, the necessary dissolution
 
 ---
 

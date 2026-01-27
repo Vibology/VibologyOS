@@ -301,41 +301,41 @@ The invitation is to give freely and receive gratefully, to recognize interdepen
 
 ### Sephirotic Connections
 - [[Tiphareth]] - The sixth Sephirah: Beauty, harmony, balance, the heart
-- [[Sixes of the Tarot]] - All four Sixes as expressions of Tiphareth
+- Sixes of the Tarot - All four Sixes as expressions of Tiphareth
 
 ### Planetary and Astrological
 - [[Moon ☽]] - The planet of cycles, intuition, nurturance, emotion
 - [[Taurus ♉]] - The sign of material stability, abundance, sensory pleasure
-- [[Moon in Taurus]] - Intuitive generosity grounded in material abundance
-- [[Second Decan of Taurus]] - The heart of spring abundance
+- Moon in Taurus - Intuitive generosity grounded in material abundance
+- Second Decan of Taurus - The heart of spring abundance
 
 ### Elemental and Suit
-- [[Earth Element]] - The realm of matter and manifestation
-- [[Pentacles Suit Overview]] - The journey of embodiment and material mastery
-- [[Earth Cards]] - All cards attributed to the Earth element
-- [[Assiah]] - The Material World, realm of resources and exchange
+- Earth Element - The realm of matter and manifestation
+- Pentacles Suit Overview - The journey of embodiment and material mastery
+- Earth Cards - All cards attributed to the Earth element
+- Assiah - The Material World, realm of resources and exchange
 
 ### Thematic Groupings
-- [[Cards of Generosity]] - Giving, sharing, circulation of resources
-- [[Cards of Power Dynamics]] - Hierarchy, authority, who decides
-- [[Cards of Balance Restored]] - Equilibrium after crisis
-- [[Cards of Justice]] - Fairness, discernment, who receives what
+- Cards of Generosity - Giving, sharing, circulation of resources
+- Cards of Power Dynamics - Hierarchy, authority, who decides
+- Cards of Balance Restored - Equilibrium after crisis
+- Cards of Justice - Fairness, discernment, who receives what
 
 ### Cross-System References
-- [[The Widow's Mite]] - True generosity: giving from poverty, not abundance
-- [[Tzedakah]] - Jewish concept of charity as justice, not optional kindness
-- [[I Ching Hexagram 42]] - Increase: the upper enriching the lower
-- [[Savior Complex]] - The shadow of giving: control through charity
-- [[Interdependence]] - We are all both givers and receivers
+- The Widow's Mite - True generosity: giving from poverty, not abundance
+- Tzedakah - Jewish concept of charity as justice, not optional kindness
+- I Ching Hexagram 42 - Increase: the upper enriching the lower
+- Savior Complex - The shadow of giving: control through charity
+- Interdependence - We are all both givers and receivers
 
 ### Court and Archetypal
 - [[King of Pentacles]] - The mature master who gives wisely and generously
 
 ### Psychological
-- [[The Ego]] - Navigating power, abundance, and relationship
-- [[Shame]] - The wound of receiving, the belief that needing = weakness
+- [[The Self]] - Navigating power, abundance, and relationship
+- Shame - The wound of receiving, the belief that needing = weakness
 - [[Gratitude]] - Receiving with grace, without subservience
-- [[Empowerment vs. Dependency]] - Does giving liberate or bind?
+- Empowerment vs. Dependency - Does giving liberate or bind?
 
 ---
 *"The gift that creates dependency is not generosity—it is control dressed in kindness."*

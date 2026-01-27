@@ -179,31 +179,31 @@ The teaching: True dynasty is not control but covenant. You build not to possess
 
 ### Sephirotic Connections
 - [[Malkuth]] - The tenth Sephirah: Kingdom, the material world itself
-- [[Tens of the Tarot]] - All four Tens as expressions of Malkuth
+- Tens of the Tarot - All four Tens as expressions of Malkuth
 
 ### Planetary and Astrological
-- [[Astrology/Planets/Mercury # ☿]] - The planet of commerce, communication, systems
+- [[Mercury ☿]] - The planet of commerce, communication, systems
 - [[Virgo ♍]] - The sign of precision, service, material mastery
-- [[Mercury in Virgo]] - Commerce perfected, systems at peak efficiency
-- [[Third Decan of Virgo]] - The culmination of the Virgo journey
+- Mercury in Virgo - Commerce perfected, systems at peak efficiency
+- Third Decan of Virgo - The culmination of the Virgo journey
 
 ### Thematic Groupings
-- [[Cards of Legacy]] - What endures beyond the individual
-- [[Cards of Family]] - Bonds across generations
-- [[Cards of Generativity]] - Building for those who come after
-- [[Cards of Dynasty]] - Structures that outlast their creators
+- Cards of Legacy - What endures beyond the individual
+- Cards of Family - Bonds across generations
+- Cards of Generativity - Building for those who come after
+- Cards of Dynasty - Structures that outlast their creators
 
 ### Cross-System References
-- [[The Tree of Life]] - Qabalistic blueprint made manifest in material reality
-- [[Generativity vs. Stagnation]] - Erikson's final developmental stage
-- [[Stewardship]] - Wealth as covenant, not possession
-- [[The Elder as Archive]] - Wisdom transmitted through presence
+- The Tree of Life - Qabalistic blueprint made manifest in material reality
+- Generativity vs. Stagnation - Erikson's final developmental stage
+- Stewardship - Wealth as covenant, not possession
+- The Elder as Archive - Wisdom transmitted through presence
 
 ### Psychological
-- [[Generativity]] - Care for future generations
-- [[Legacy Consciousness]] - Thinking beyond individual lifespan
-- [[Dynasty as Prison]] - Shadow: inheritance that traps rather than frees
-- [[Wealth as Control]] - Shadow: using legacy to manipulate
+- Generativity - Care for future generations
+- Legacy Consciousness - Thinking beyond individual lifespan
+- Dynasty as Prison - Shadow: inheritance that traps rather than frees
+- Wealth as Control - Shadow: using legacy to manipulate
 
 ---
 *"The truest wealth is not counted in coins, but in the generations that thrive because you tended the garden."*

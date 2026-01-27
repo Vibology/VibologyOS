@@ -339,31 +339,31 @@ The Lord of Illusory Success becomes the lord of *actual* success when the dream
 
 ### Sephirotic Connections
 - [[Netzach]] - The seventh Sephirah: Victory, emotion, imagination
-- [[Cards of Netzach]] - All Sevens across the suits
+- Cards of Netzach - All Sevens across the suits
 
 ### Planetary and Astrological
 - [[Venus ♀]] - The planet: love, beauty, desire, attraction
 - [[Scorpio ♏]] - The Scorpion: depth, intensity, obsession
-- [[Venus in Scorpio]] - Desire intensified, beauty in shadow
-- [[Third Decan of Scorpio]] - The final passage, preparing for emergence
+- Venus in Scorpio - Desire intensified, beauty in shadow
+- Third Decan of Scorpio - The final passage, preparing for emergence
 
 ### Elemental and Suit
-- [[Water Element]] - The realm of emotion and the unconscious
-- [[Cups Suit Overview]] - The journey of the heart
-- [[Water Cards]] - All cards attributed to the Water element
-- [[Briah]] - The Creative World, realm of formation and emotion
+- Water Element - The realm of emotion and the unconscious
+- Cups Suit Overview - The journey of the heart
+- Water Cards - All cards attributed to the Water element
+- Briah - The Creative World, realm of formation and emotion
 
 ### Thematic Groupings
-- [[Cards of Illusion]] - Fantasy, glamour, the astral mirage
-- [[Cards of Choice]] - Decision, commitment, the weight of options
-- [[Cards of Temptation]] - Seduction, desire, the test of discernment
+- Cards of Illusion - Fantasy, glamour, the astral mirage
+- Cards of Choice - Decision, commitment, the weight of options
+- Cards of Temptation - Seduction, desire, the test of discernment
 
 ### Cross-System References
-- [[The Astral Plane]] - Occult geography, the realm of thought-forms
-- [[Maya]] - Hindu veil of illusion, the world of appearances
-- [[I Ching Hexagram 28]] - Preponderance of the Great, excess without foundation
-- [[Temptation of Christ]] - Desert visions, the refusal of false power
-- [[Buddhist Bhava-Tanha]] - Craving for becoming, attachment to possibility
+- The Astral Plane - Occult geography, the realm of thought-forms
+- Maya - Hindu veil of illusion, the world of appearances
+- I Ching Hexagram 28 - Preponderance of the Great, excess without foundation
+- Temptation of Christ - Desert visions, the refusal of false power
+- Buddhist Bhava-Tanha - Craving for becoming, attachment to possibility
 
 ### Court and Archetypal
 - [[Page of Cups]] - The imaginative water nature, dreaming without discernment
@@ -372,8 +372,8 @@ The Lord of Illusory Success becomes the lord of *actual* success when the dream
 ### Psychological
 - [[Active Imagination]] - Jung's technique, imagination as tool
 - [[Inflation]] - Identifying with unconscious contents
-- [[Anima and Animus]] - The soul-image as seducer or guide
-- [[Individuation]] - The need to ground vision in reality
+- [[The Anima]] - The soul-image as seducer or guide
+- [[Individuation Process]] - The need to ground vision in reality
 
 ---
 

@@ -173,12 +173,12 @@ TBD
 - [[The Magician (I)]] - The will that must be guided by wisdom
 - [[The High Priestess (II)]] - His esoteric complement, the inner mystery
 - [[The Lovers (VI)]] - The choice his teaching presents
-- [[Vau - Hebrew Letters in Tarot]]
-- [[Kabbalistic Paths - Chokmah to Chesed]]
-- [[Taurus in Esoteric Systems]]
-- [[The Guru Archetype]]
-- [[Cards of Teaching and Tradition]]
-- [[Sacred Marriage and Alliance]]
+- Vau - Hebrew Letters in Tarot
+- Kabbalistic Paths - Chokmah to Chesed
+- Taurus in Esoteric Systems
+- The Guru Archetype
+- Cards of Teaching and Tradition
+- Sacred Marriage and Alliance
 
 ---
 

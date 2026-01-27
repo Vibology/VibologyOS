@@ -81,7 +81,7 @@ Both are valid; they serve complementary functions. Pathworking provides structu
 - [[The Tarot]] — System overview
 - [[The Fool's Journey]] — The Major Arcana as narrative progression
 - [[Active Imagination]] — Jung's parallel technique
-- [[Qabalah]] — The Tree of Life framework
+- Qabalah — The Tree of Life framework
 - [[Divination]] — Reading rather than journeying
 
 ---

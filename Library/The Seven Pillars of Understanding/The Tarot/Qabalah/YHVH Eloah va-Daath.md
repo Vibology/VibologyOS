@@ -38,7 +38,7 @@ This divine name uniquely incorporates **Daath** (Knowledge/the Abyss), suggesti
 - [[Tiphareth]] — The Sephirah governed by YHVH Eloah va-Daath
 - [[Michael]] or [[Raphael]] — Archangels associated with Tiphareth
 - [[Daath]] — The hidden Sephirah referenced in the name
-- [[Malachim]] — The angelic order of Tiphareth
+- Malachim — The angelic order of Tiphareth
 
 ---
 

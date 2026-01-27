@@ -161,12 +161,12 @@ TBD
 - [[The High Priestess (II)]] - The lunar gnosis that guides the chariot
 - [[The Lovers (VI)]] - The complementary descent from Binah
 - [[Strength (VIII)]] - The gentle power complementing command
-- [[Cheth - Hebrew Letters in Tarot]]
-- [[Kabbalistic Paths - Binah to Geburah]]
-- [[Cancer and the Moon in Esoteric Systems]]
-- [[The Merkabah - Throne Chariot Mysticism]]
-- [[Cards of Victory and Conquest]]
-- [[Ego Development Before Transcendence]]
+- Cheth - Hebrew Letters in Tarot
+- Kabbalistic Paths - Binah to Geburah
+- Cancer and the Moon in Esoteric Systems
+- The Merkabah - Throne Chariot Mysticism
+- Cards of Victory and Conquest
+- Ego Development Before Transcendence
 
 ---
 

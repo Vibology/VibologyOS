@@ -364,42 +364,42 @@ Perfected work is not the end. It is the foundation for the next ascent.
 
 ### Sephirotic Connections
 - [[Chesed]] - The fourth Sephirah: Mercy, abundance, benevolent order
-- [[Cards of Chesed]] - All Fours across the suits
+- Cards of Chesed - All Fours across the suits
 
 ### Planetary and Astrological
 - [[Venus ♀]] - The goddess: love, beauty, harmony, pleasure
 - [[Aries ♈]] - The Ram: pioneer, initiator, cardinal fire
-- [[Venus in Aries]] - Passionate harmony, energized beauty
-- [[Third Decan of Aries]] - Aries yielding to Taurus, fire to earth
+- Venus in Aries - Passionate harmony, energized beauty
+- Third Decan of Aries - Aries yielding to Taurus, fire to earth
 
 ### Elemental and Suit
-- [[Fire Element]] - The realm of will and creative action
-- [[Wands Suit Overview]] - The journey of the creative impulse
-- [[Fire Cards]] - All cards attributed to the Fire element
-- [[Atziluth]] - The World of Pure Spirit, realm of divine names
+- Fire Element - The realm of will and creative action
+- Wands Suit Overview - The journey of the creative impulse
+- Fire Cards - All cards attributed to the Fire element
+- Atziluth - The World of Pure Spirit, realm of divine names
 
 ### Thematic Groupings
-- [[Cards of Celebration]] - Joy, festival, ritual honoring
-- [[Cards of Completion]] - Finishing, arrival, perfected work
-- [[Cards of Home and Stability]] - Foundation, dwelling, haven
-- [[Cards of Marriage and Union]] - Partnership, sacred marriage, *hieros gamos*
+- Cards of Celebration - Joy, festival, ritual honoring
+- Cards of Completion - Finishing, arrival, perfected work
+- Cards of Home and Stability - Foundation, dwelling, haven
+- Cards of Marriage and Union - Partnership, sacred marriage, *hieros gamos*
 
 ### Cross-System References
-- [[Sukkot]] - Jewish harvest festival, temporary dwelling as sacred practice
-- [[Panathenaea]] - Greek festival honoring Athena
-- [[Roman Triumph]] - Victorious procession, public celebration
-- [[Harvest Festivals]] - Cross-cultural gratitude and rest after labor
-- [[I Ching Hexagram 11]] - Peace, prosperity, right relationship
+- Sukkot - Jewish harvest festival, temporary dwelling as sacred practice
+- Panathenaea - Greek festival honoring Athena
+- Roman Triumph - Victorious procession, public celebration
+- Harvest Festivals - Cross-cultural gratitude and rest after labor
+- I Ching Hexagram 11 - Peace, prosperity, right relationship
 
 ### Court and Archetypal
 - [[King of Wands]] - The mature sovereign who celebrates his kingdom
 - [[Queen of Wands]] - The confident hostess, the one who welcomes community
 
 ### Psychological
-- [[Sabbath and Rest]] - Psychological consolidation, integration time
-- [[Chesed as Benevolent King]] - Mercy, generosity, healthy authority
-- [[Individuation]] - Building the inner temple, creating psychic structure
-- [[Temenos]] - Sacred enclosure where transformation occurs
+- Sabbath and Rest - Psychological consolidation, integration time
+- Chesed as Benevolent King - Mercy, generosity, healthy authority
+- [[Individuation Process]] - Building the inner temple, creating psychic structure
+- Temenos - Sacred enclosure where transformation occurs
 
 ---
 

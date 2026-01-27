@@ -338,39 +338,39 @@ The Lord of Blended Pleasure is waiting for you to taste the fourth cup—the on
 
 ### Sephirotic Connections
 - [[Chesed]] - The fourth Sephirah: Mercy, abundance, benevolent order
-- [[Cards of Chesed]] - All Fours across the suits
+- Cards of Chesed - All Fours across the suits
 
 ### Planetary and Astrological
 - [[Moon ☽]] - The luminary: emotion, cycles, reflection, the unconscious
 - [[Cancer ♋]] - The Crab: home, security, emotional depth, the shell
-- [[Moon in Cancer]] - Emotional depth in its home sign, maximum interiority
-- [[Third Decan of Cancer]] - Cancer culminating, preparing for Leo
+- Moon in Cancer - Emotional depth in its home sign, maximum interiority
+- Third Decan of Cancer - Cancer culminating, preparing for Leo
 
 ### Elemental and Suit
-- [[Water Element]] - The realm of emotion and the unconscious
-- [[Cups Suit Overview]] - The journey of the heart
-- [[Water Cards]] - All cards attributed to the Water element
-- [[Briah]] - The Creative World, realm of formation and emotion
+- Water Element - The realm of emotion and the unconscious
+- Cups Suit Overview - The journey of the heart
+- Water Cards - All cards attributed to the Water element
+- Briah - The Creative World, realm of formation and emotion
 
 ### Thematic Groupings
-- [[Cards of Withdrawal]] - Solitude, contemplation, turning inward
-- [[Cards of Discontent]] - Dissatisfaction as signal, restlessness as compass
-- [[Cards of Missed Opportunity]] - The gift unrecognized, the call refused
+- Cards of Withdrawal - Solitude, contemplation, turning inward
+- Cards of Discontent - Dissatisfaction as signal, restlessness as compass
+- Cards of Missed Opportunity - The gift unrecognized, the call refused
 
 ### Cross-System References
-- [[Acedia]] - The noonday demon, spiritual torpor
-- [[Jonah]] - The prophet who refused the call
-- [[I Ching Hexagram 29]] - The Abysmal, water repeated, depth without movement
-- [[Buddhist Attachment]] - The subtle attachment to comfort
+- Acedia - The noonday demon, spiritual torpor
+- Jonah - The prophet who refused the call
+- I Ching Hexagram 29 - The Abysmal, water repeated, depth without movement
+- Buddhist Attachment - The subtle attachment to comfort
 
 ### Court and Archetypal
 - [[Queen of Cups]] - The mature water nature that has integrated feeling
 - [[Knight of Cups]] - The quest that might break the stagnation
 
 ### Psychological
-- [[Anima and Animus]] - The soul-image offering the fourth cup
-- [[Ego and Self]] - The Self's dissatisfaction with ego-comfort
-- [[Individuation]] - The restlessness that signals readiness for the next stage
+- [[The Anima]] - The soul-image offering the fourth cup
+- Ego and Self - The Self's dissatisfaction with ego-comfort
+- [[Individuation Process]] - The restlessness that signals readiness for the next stage
 - [[The Shadow]] - Dissatisfaction as shadow projection vs. genuine signal
 
 ---

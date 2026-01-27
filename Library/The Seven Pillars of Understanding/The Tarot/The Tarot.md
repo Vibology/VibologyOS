@@ -22,7 +22,7 @@ The **Tarot** is a symbolic language encoded in 78 archetypal images, operating 
 - **A psychological mirror** — Reflecting the archetypal structures of the collective unconscious
 - **A meditative focus** — Each card a gateway to visionary pathworking and inner transformation
 
-Unlike systems revealed through scrying (like [[Enochian System Overview|Enochian magic]]) or transmitted through lineage (like [[Human Design]]), the Tarot emerged **gradually** through medieval Europe, accruing layers of meaning from playing cards, Christian mysticism, Hermetic philosophy, and Qabalistic wisdom. Its genius lies in its **adaptability**—the cards speak through multiple paradigms while retaining their essential archetypal truth.
+Unlike systems revealed through scrying (like Enochian magic) or transmitted through lineage (like [[Human Design]]), the Tarot emerged **gradually** through medieval Europe, accruing layers of meaning from playing cards, Christian mysticism, Hermetic philosophy, and Qabalistic wisdom. Its genius lies in its **adaptability**—the cards speak through multiple paradigms while retaining their essential archetypal truth.
 
 **The 78 Cards:**
 - **22 Major Arcana** (Trump cards) — The soul's journey through archetypal initiations
@@ -99,7 +99,7 @@ Each suit contains four court cards representing **elemental personalities** or 
 | **Knight** (or Prince in Thoth) | Air of Element | Movement, quest, dynamic action | Youthful masculine, volatile |
 | **Page** (or Princess in Thoth) | Earth of Element | Learning, embodiment, grounding | Youthful feminine, potential |
 
-**Enochian Correspondence:** The 16 Court Cards map directly to the 16 sub-angles of [[The Four Watchtowers]] in Enochian magic (DuQuette 2008, Ch. 26).
+**Enochian Correspondence:** The 16 Court Cards map directly to the 16 sub-angles of The Four Watchtowers in Enochian magic (DuQuette 2008, Ch. 26).
 
 ### The Numbered Cards (40 Total)
 
@@ -642,10 +642,10 @@ Tarot does not predict a fixed future—it **illuminates the present** with such
 - [[Judgement (XX)]] | [[The World (XXI)]]
 
 ### Minor Arcana Suits
-- [[Wands]] — Fire, creativity, will (14 cards: Ace-Ten, 4 Courts)
-- [[Cups]] — Water, emotion, intuition (14 cards)
-- [[Swords]] — Air, intellect, conflict (14 cards)
-- [[Pentacles]] — Earth, material, embodiment (14 cards)
+- Wands — Fire, creativity, will (14 cards: Ace-Ten, 4 Courts)
+- Cups — Water, emotion, intuition (14 cards)
+- Swords — Air, intellect, conflict (14 cards)
+- Pentacles — Earth, material, embodiment (14 cards)
 
 ### Qabalistic Framework
 - [[Tree of Life]] — The ten Sephiroth and twenty-two Paths
@@ -664,10 +664,10 @@ Tarot does not predict a fixed future—it **illuminates the present** with such
 - [[The Magdalene Path]] — Feminine mysteries and sacred devotion
 
 ### Practice and Application
-- [[Spreads]] — Celtic Cross, Tree of Life, custom layouts
+- Spreads — Celtic Cross, Tree of Life, custom layouts
 - [[Pathworking]] — Visionary journeys through the Major Arcana
-- [[Qabalistic Meditation]] — Contemplation of the Sephiroth and Paths
-- [[Divination Ethics]] — Responsible reading practices
+- Qabalistic Meditation — Contemplation of the Sephiroth and Paths
+- Divination Ethics — Responsible reading practices
 
 ---
 

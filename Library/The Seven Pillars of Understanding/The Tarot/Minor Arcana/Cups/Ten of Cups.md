@@ -230,9 +230,9 @@ When the Ten of Cups emerges in reading or contemplation, consider:
 - [[Ace of Cups]] - The new beginning seeded by the Ten's completion
 - [[Two of Cups]] - The partnership that the Ten has matured
 - [[Five of Cups]] - The grief that the Ten has survived
-- [[Coniunctio]] - The alchemical marriage realized in relationship
-- [[The Rainbow]] - Covenant symbolism, the promise after the flood
-- [[Individuation]] - The process that culminates in relational wholeness
+- Coniunctio - The alchemical marriage realized in relationship
+- The Rainbow - Covenant symbolism, the promise after the flood
+- [[Individuation Process]] - The process that culminates in relational wholeness
 
 ---
 

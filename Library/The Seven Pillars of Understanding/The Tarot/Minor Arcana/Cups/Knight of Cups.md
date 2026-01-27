@@ -231,13 +231,13 @@ When the Knight of Cups emerges in reading or contemplation, consider:
 - [[Page of Cups]] - The receptive stage that precedes the Knight's active quest
 - [[Queen of Cups]] - The mastery the Knight may mature into
 - [[King of Cups]] - The sovereign relationship with emotion the Knight may achieve
-- [[Animus]] - The inner masculine figure the Knight can represent
-- [[The Holy Grail]] - The sacred object of the Knight's quest
-- [[Percival]] - The Grail Knight who must learn through failure
+- [[The Animus]] - The inner masculine figure the Knight can represent
+- The Holy Grail - The sacred object of the Knight's quest
+- Percival - The Grail Knight who must learn through failure
 - [[Knight of Wands]] - The fire-Knight, the Knight of adventure and will
 - [[Knight of Swords]] - The air-Knight, the Knight of truth and intellect
-- [[Courtly Love]] - The medieval tradition the Knight embodies
-- [[Astrology/Planets/Mercury # ☿]] - The messenger god whose wings adorn the Knight's helm
+- Courtly Love - The medieval tradition the Knight embodies
+- [[Mercury ☿]] - The messenger god whose wings adorn the Knight's helm
 
 ---
 

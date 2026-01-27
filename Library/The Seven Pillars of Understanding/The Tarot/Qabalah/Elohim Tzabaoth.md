@@ -36,7 +36,7 @@ Hod represents the **organizing intellect** that gives structure to the emotiona
 
 - [[Hod]] — The Sephirah governed by Elohim Tzabaoth
 - [[Michael]] or [[Raphael]] — Archangels associated with Hod
-- [[Bene Elohim]] — The angelic order of Hod
+- Bene Elohim — The angelic order of Hod
 - [[YHVH Tzabaoth]] — The complementary divine name at Netzach
 
 ---

@@ -279,38 +279,38 @@ The Seven asks: **Can you be patient without being passive? Can you trust withou
 
 ### Sephirotic Connections
 - [[Netzach]] - The seventh Sephirah: Victory through endurance, perseverance
-- [[Sevens of the Tarot]] - All four Sevens as expressions of Netzach
+- Sevens of the Tarot - All four Sevens as expressions of Netzach
 
 ### Planetary and Astrological
 - [[Saturn ♄]] - The planet of time, discipline, limitation, the slow teacher
 - [[Taurus ♉]] - The sign of material growth, patience, fruition
-- [[Saturn in Taurus]] - Disciplined cultivation, slow reliable growth
-- [[Third Decan of Taurus]] - Late spring, harvest approaching but not yet arrived
+- Saturn in Taurus - Disciplined cultivation, slow reliable growth
+- Third Decan of Taurus - Late spring, harvest approaching but not yet arrived
 
 ### Elemental and Suit
-- [[Earth Element]] - The realm of matter and manifestation
-- [[Pentacles Suit Overview]] - The journey of embodiment and material mastery
-- [[Earth Cards]] - All cards attributed to the Earth element
-- [[Assiah]] - The Material World, realm of cultivation and harvest
+- Earth Element - The realm of matter and manifestation
+- Pentacles Suit Overview - The journey of embodiment and material mastery
+- Earth Cards - All cards attributed to the Earth element
+- Assiah - The Material World, realm of cultivation and harvest
 
 ### Thematic Groupings
-- [[Cards of Patience]] - Waiting, trust in process, endurance
-- [[Cards of Assessment]] - Reflection, evaluation, taking stock
-- [[Cards of Delayed Reward]] - Effort and result separated by time
-- [[Cards of the Final Stretch]] - The temptation to quit just before success
+- Cards of Patience - Waiting, trust in process, endurance
+- Cards of Assessment - Reflection, evaluation, taking stock
+- Cards of Delayed Reward - Effort and result separated by time
+- Cards of the Final Stretch - The temptation to quit just before success
 
 ### Cross-System References
-- [[Parable of the Sower]] - Some seeds take time; trust the good soil
-- [[Alchemical Nigredo]] - The dark night before transformation completes
-- [[Chop Wood, Carry Water]] - Zen teaching on daily practice as path
-- [[I Ching Hexagram 5]] - Waiting: patience brings success
-- [[The Valley of Despair]] - The 70-80% point where most quit
+- Parable of the Sower - Some seeds take time; trust the good soil
+- Alchemical Nigredo - The dark night before transformation completes
+- Chop Wood, Carry Water - Zen teaching on daily practice as path
+- I Ching Hexagram 5 - Waiting: patience brings success
+- The Valley of Despair - The 70-80% point where most quit
 
 ### Psychological
-- [[The Ego]] - Between effort and result, managing doubt
-- [[Chronic Dissatisfaction]] - The shadow of never being satisfied
-- [[Patience]] - Active waiting, not passive resignation
-- [[Trust in Process]] - Faith that growth is happening even when unseen
+- [[The Self]] - Between effort and result, managing doubt
+- Chronic Dissatisfaction - The shadow of never being satisfied
+- Patience - Active waiting, not passive resignation
+- Trust in Process - Faith that growth is happening even when unseen
 
 ---
 *"The harvest comes not when you will it, but when the season is ripe."*

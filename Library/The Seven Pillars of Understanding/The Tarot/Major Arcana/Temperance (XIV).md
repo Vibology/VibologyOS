@@ -194,12 +194,12 @@ The gift of integration: **Learning when to act and when to wait**. Temperance d
 
 ## Cross-References
 - **Adjacent Major Arcana**: [[Death (XIII)]] ← → [[The Devil (XV)]]
-- **Element/Modality**: [[Sagittarius ♐]] | [[Mutable Fire]]
+- **Element/Modality**: [[Sagittarius ♐]] | Mutable Fire
 - **Planetary**: [[Jupiter ♃]]
-- **Path**: [[Path 25 - Yesod to Tiphareth]]
-- **Hebrew Letter**: [[Samekh]]
-- **Thematic Groupings**: [[The Alchemical Path]] | [[Balance and Integration]] | [[The Dark Night]]
-- **Cross-References**: [[Artemis]], [[Archangel Michael]], [[Solve et Coagula]], [[Transcendent Function]]
+- **Path**: Path 25 - Yesod to Tiphareth
+- **Hebrew Letter**: Samekh
+- **Thematic Groupings**: The Alchemical Path | Balance and Integration | The Dark Night
+- **Cross-References**: [[Artemis]], Archangel Michael, Solve et Coagula, Transcendent Function
 
 ---
 

@@ -385,41 +385,41 @@ The card does not answer this question. It simply presents the figure on the bat
 
 ### Sephirotic Connections
 - [[Chokmah]] - The second Sephirah: Wisdom, the Supernal Father
-- [[Cards of Chokmah]] - All Twos across the suits
+- Cards of Chokmah - All Twos across the suits
 
 ### Planetary and Astrological
 - [[Mars ♂]] - The warrior god: action, aggression, courage
 - [[Aries ♈]] - The Ram: pioneer, initiator, cardinal fire
-- [[Mars in Aries]] - The warrior in his native sign, pure initiative
-- [[First Decan of Aries]] - The purest expression of Aries energy
+- Mars in Aries - The warrior in his native sign, pure initiative
+- First Decan of Aries - The purest expression of Aries energy
 
 ### Elemental and Suit
-- [[Fire Element]] - The realm of will and creative action
-- [[Wands Suit Overview]] - The journey of the creative impulse
-- [[Fire Cards]] - All cards attributed to the Fire element
-- [[Atziluth]] - The World of Pure Spirit, realm of divine names
+- Fire Element - The realm of will and creative action
+- Wands Suit Overview - The journey of the creative impulse
+- Fire Cards - All cards attributed to the Fire element
+- Atziluth - The World of Pure Spirit, realm of divine names
 
 ### Thematic Groupings
-- [[Cards of Authority and Leadership]] - Sovereignty, dominion, command
-- [[Cards of Strategic Vision]] - Planning, seeing the whole field
-- [[Cards of Choice and Decision]] - Thresholds, crossroads, commitment
-- [[Cards of Ambition]] - Drive, expansion, conquest
+- Cards of Authority and Leadership - Sovereignty, dominion, command
+- Cards of Strategic Vision - Planning, seeing the whole field
+- Cards of Choice and Decision - Thresholds, crossroads, commitment
+- Cards of Ambition - Drive, expansion, conquest
 
 ### Cross-System References
-- [[Alexander the Great]] - The conqueror at the edge of the known world
-- [[Julius Caesar]] - Crossing the Rubicon, the die is cast
-- [[Wu Wei]] - Action through non-action, strategic stillness
-- [[I Ching Hexagram 13]] - Fellowship with others, leadership through vision
-- [[Tower of Babel]] - The shadow of ambition unchecked
+- Alexander the Great - The conqueror at the edge of the known world
+- Julius Caesar - Crossing the Rubicon, the die is cast
+- Wu Wei - Action through non-action, strategic stillness
+- I Ching Hexagram 13 - Fellowship with others, leadership through vision
+- Tower of Babel - The shadow of ambition unchecked
 
 ### Court and Archetypal
 - [[King of Wands]] - The mature sovereign of Fire
 - [[Knight of Wands]] - Fire's dynamic, questing aspect
 
 ### Psychological
-- [[Animus]] - The inner masculine principle of will and authority
-- [[Individuation]] - Claiming sovereignty over your life
-- [[Ego as Sovereign]] - Healthy ego function as administrator
+- [[The Animus]] - The inner masculine principle of will and authority
+- [[Individuation Process]] - Claiming sovereignty over your life
+- Ego as Sovereign - Healthy ego function as administrator
 
 ---
 

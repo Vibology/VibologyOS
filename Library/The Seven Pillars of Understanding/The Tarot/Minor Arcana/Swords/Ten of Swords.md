@@ -314,33 +314,33 @@ Lie down. Let the swords finish their work. The night is almost over.
 
 ### Sephirotic Connections
 - [[Malkuth]] - The tenth Sephirah: Kingdom, manifestation, completion
-- [[Tens of the Tarot]] - All four Tens as expressions of Malkuth
+- Tens of the Tarot - All four Tens as expressions of Malkuth
 
 ### Planetary and Zodiacal
 - [[Sun ☉]] - The principle of vitality, consciousness, and illumination
 - [[Gemini ♊]] - The sign of duality, communication, and fragmentation
-- [[Sun in Gemini]] - The specific combination of these energies
+- Sun in Gemini - The specific combination of these energies
 
 ### Elemental and Suit
-- [[Air Element]] - The realm of mind and discrimination
-- [[Swords Suit Overview]] - The journey of the intellect, complete
+- Air Element - The realm of mind and discrimination
+- Swords Suit Overview - The journey of the intellect, complete
 
 ### Thematic Groupings
-- [[Cards of Ending and Death]] - Completion, finality, the end of cycles
-- [[Cards of Rock Bottom]] - Complete defeat that enables renewal
-- [[Cards of Dawn]] - The light that follows darkness
+- Cards of Ending and Death - Completion, finality, the end of cycles
+- Cards of Rock Bottom - Complete defeat that enables renewal
+- Cards of Dawn - The light that follows darkness
 
 ### Cross-System References
-- [[The Crucifixion]] - Death that precedes resurrection
+- The Crucifixion - Death that precedes resurrection
 - [[Nigredo]] - The alchemical blackening, putrefaction
-- [[I Ching Hexagram 23]] - Splitting Apart: complete collapse
-- [[Osiris]] - The dismembered god who is reborn
+- I Ching Hexagram 23 - Splitting Apart: complete collapse
+- Osiris - The dismembered god who is reborn
 
 ### Psychological
-- [[Ego Death]] - The dissolution of identity structure
-- [[Rock Bottom]] - The turning point of total defeat
-- [[The Night Before Dawn]] - Despair that precedes breakthrough
-- [[Surrender]] - The cessation of struggle
+- Ego Death - The dissolution of identity structure
+- Rock Bottom - The turning point of total defeat
+- The Night Before Dawn - Despair that precedes breakthrough
+- Surrender - The cessation of struggle
 
 ---
 

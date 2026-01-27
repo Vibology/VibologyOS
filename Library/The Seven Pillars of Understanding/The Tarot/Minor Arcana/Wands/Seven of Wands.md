@@ -436,43 +436,43 @@ The Seven of Wands teaches: **Sometimes the greatest victory is simply not yield
 
 ### Sephirotic Connections
 - [[Netzach]] - The seventh Sephirah: Victory/Firmness, endurance, Group Mind, instinct
-- [[Cards of Netzach]] - All cards attributed to the sphere of Venus/Victory
-- [[Sevens of the Tarot]] - The seven as number of the individual, the seeker, the one who stands apart
-- [[The Astral Triangle]] - Netzach, Hod, Yesod: the realm of Personality
+- Cards of Netzach - All cards attributed to the sphere of Venus/Victory
+- Sevens of the Tarot - The seven as number of the individual, the seeker, the one who stands apart
+- The Astral Triangle - Netzach, Hod, Yesod: the realm of Personality
 
 ### Planetary and Astrological
 - [[Mars ♂]] - The warrior planet: aggression, assertion, will, courage, conflict
 - [[Leo ♌]] - The fixed fire sign: courage, pride, sovereignty, creative mastery
-- [[Mars in Leo]] - Strategic courage, leonine pride, holding ground with dignity
-- [[First Decan of Leo]] - The specific zodiacal section (00°-10° Leo)
+- Mars in Leo - Strategic courage, leonine pride, holding ground with dignity
+- First Decan of Leo - The specific zodiacal section (00°-10° Leo)
 
 ### Elemental and Suit
-- [[Fire Element]] - The realm of will and creative action
-- [[Wands Suit Overview]] - The journey of the creative impulse
-- [[Fire at Netzach]] - How Fire manifests as defense and endurance
-- [[Fixed Fire]] - Fire that holds position rather than advancing
-- [[Atziluth]] - The World of Pure Spirit, realm of divine names
+- Fire Element - The realm of will and creative action
+- Wands Suit Overview - The journey of the creative impulse
+- Fire at Netzach - How Fire manifests as defense and endurance
+- Fixed Fire - Fire that holds position rather than advancing
+- Atziluth - The World of Pure Spirit, realm of divine names
 
 ### Thematic Groupings
-- [[Cards of Defense and Boundary]] - Protecting position, asserting limits, saying No
-- [[Cards of Solitary Stand]] - Standing alone, individuation against collective
-- [[Cards of Strategic Advantage]] - High ground, positioning, using terrain
-- [[Cards of Courage Under Fire]] - Valor, fortitude, endurance under pressure
+- Cards of Defense and Boundary - Protecting position, asserting limits, saying No
+- Cards of Solitary Stand - Standing alone, individuation against collective
+- Cards of Strategic Advantage - High ground, positioning, using terrain
+- Cards of Courage Under Fire - Valor, fortitude, endurance under pressure
 
 ### Cross-System and Mythological References
-- [[Leonidas at Thermopylae]] - The strategic defense, holding the pass, lone stand against many
-- [[Celtic Fianna]] - Warriors defending sacred ground, honor above survival
-- [[Norse Berserkers]] - Battle-fury, living flame from Odin, Spirit of Primal Fire
-- [[Roman Military Discipline]] - "Hold the line," fortitude, refusing to break formation
-- [[Navaho Red Wands of War]] - Defending sacred boundaries, ceremonial staffs
-- [[Wu Wei and Non-Contention]] - Taoist principle: winning by not yielding, strength in stillness
+- Leonidas at Thermopylae - The strategic defense, holding the pass, lone stand against many
+- Celtic Fianna - Warriors defending sacred ground, honor above survival
+- Norse Berserkers - Battle-fury, living flame from Odin, Spirit of Primal Fire
+- Roman Military Discipline - "Hold the line," fortitude, refusing to break formation
+- Navaho Red Wands of War - Defending sacred boundaries, ceremonial staffs
+- Wu Wei and Non-Contention - Taoist principle: winning by not yielding, strength in stillness
 
 ### Psychological and Archetypal
-- [[Ego Boundary Defense]] - Asserting identity, protecting integrity against collective pressure
-- [[Individuation and Standing Alone]] - Separation from collective, becoming oneself
-- [[The Group Mind]] - Netzach's shadow: collective pressure to conform, undifferentiated consciousness
-- [[Defensive Rigidity]] - Shadow expression: paranoia, stubbornness, fortress mentality
-- [[Fortitude]] - Cardinal virtue: endurance under hardship, standing firm under pressure
+- Ego Boundary Defense - Asserting identity, protecting integrity against collective pressure
+- Individuation and Standing Alone - Separation from collective, becoming oneself
+- The Group Mind - Netzach's shadow: collective pressure to conform, undifferentiated consciousness
+- Defensive Rigidity - Shadow expression: paranoia, stubbornness, fortress mentality
+- Fortitude - Cardinal virtue: endurance under hardship, standing firm under pressure
 
 ### Court and Related
 - [[King of Wands]] - The mature sovereign: stable authority, established mastery
@@ -480,9 +480,9 @@ The Seven of Wands teaches: **Sometimes the greatest victory is simply not yield
 - [[Queen of Wands]] - The magnetic authority: Venus energy in receptive form
 
 ### Paradoxes and Mysteries
-- [[Netzach as Venus, Mars Acting Through]] - How the warrior (Mars) expresses Venus's victory through endurance
-- [[High Ground as Sacred Ground]] - The literal and metaphorical elevation
-- [[The Mismatched Shoes]] - Caught in transition, internal instability amid external strength
+- Netzach as Venus, Mars Acting Through - How the warrior (Mars) expresses Venus's victory through endurance
+- High Ground as Sacred Ground - The literal and metaphorical elevation
+- The Mismatched Shoes - Caught in transition, internal instability amid external strength
 
 ---
 

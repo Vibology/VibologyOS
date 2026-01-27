@@ -325,33 +325,33 @@ Trust the passage.
 
 ### Sephirotic Connections
 - [[Tiphareth]] - The sixth Sephirah: Beauty, harmony, the center
-- [[Sixes of the Tarot]] - All four Sixes as expressions of Tiphareth
+- Sixes of the Tarot - All four Sixes as expressions of Tiphareth
 
 ### Planetary and Zodiacal
-- [[Astrology/Planets/Mercury # ☿]] - The planet of communication, travel, and guidance
+- [[Mercury ☿]] - The planet of communication, travel, and guidance
 - [[Aquarius ♒]] - The sign of detachment, vision, and the future
-- [[Mercury in Aquarius]] - The specific combination of these energies
+- Mercury in Aquarius - The specific combination of these energies
 
 ### Elemental and Suit
-- [[Air Element]] - The realm of mind and discrimination
-- [[Swords Suit Overview]] - The journey of the intellect
+- Air Element - The realm of mind and discrimination
+- Swords Suit Overview - The journey of the intellect
 
 ### Thematic Groupings
-- [[Cards of Transition and Passage]] - Movement, journey, threshold
-- [[Cards of Recovery]] - Healing after crisis
-- [[Cards of the Guide]] - Helpers, ferrymen, psychopomps
+- Cards of Transition and Passage - Movement, journey, threshold
+- Cards of Recovery - Healing after crisis
+- Cards of the Guide - Helpers, ferrymen, psychopomps
 
 ### Cross-System References
-- [[Charon]] - The ferryman of Greek mythology
-- [[The Exodus]] - Crossing the sea, leaving bondage
-- [[I Ching Hexagram 59]] - Dispersion: crossing the great water
-- [[Night Sea Journey]] - The mythic descent and return
+- Charon - The ferryman of Greek mythology
+- The Exodus - Crossing the sea, leaving bondage
+- I Ching Hexagram 59 - Dispersion: crossing the great water
+- Night Sea Journey - The mythic descent and return
 
 ### Psychological
-- [[Liminality]] - The threshold state, betwixt and between
-- [[The Psychopomp]] - The guide of souls
-- [[Transition]] - The process of moving between states
-- [[Integration]] - Carrying the past without being trapped by it
+- Liminality - The threshold state, betwixt and between
+- The Psychopomp - The guide of souls
+- Transition - The process of moving between states
+- Integration - Carrying the past without being trapped by it
 
 ---
 

@@ -159,12 +159,12 @@ TBD
 - [[The Magician (I)]] - The will that commits to union
 - [[The High Priestess (II)]] - The feminine principle receiving divine inspiration
 - [[The Hierophant (V)]] - The authority who blesses the union
-- [[Zayin - Hebrew Letters in Tarot]]
-- [[Kabbalistic Paths - Binah to Tiphareth]]
-- [[Gemini in Esoteric Systems]]
-- [[The Sacred Marriage - Hieros Gamos]]
-- [[Alchemical Conjunction]]
-- [[Cards of Union and Choice]]
+- Zayin - Hebrew Letters in Tarot
+- Kabbalistic Paths - Binah to Tiphareth
+- Gemini in Esoteric Systems
+- The Sacred Marriage - Hieros Gamos
+- Alchemical Conjunction
+- Cards of Union and Choice
 
 ---
 

@@ -307,34 +307,34 @@ This is not easy to believe in the middle of the night. But it may be true.
 
 ### Sephirotic Connections
 - [[Yesod]] - The ninth Sephirah: Foundation, the Moon, dreams, the unconscious
-- [[Nines of the Tarot]] - All four Nines as expressions of Yesod
+- Nines of the Tarot - All four Nines as expressions of Yesod
 
 ### Planetary and Zodiacal
 - [[Mars ♂]] - The planet of aggression, war, and drive
 - [[Gemini ♊]] - The sign of duality, thought, and communication
-- [[Mars in Gemini]] - The specific combination of these energies
+- Mars in Gemini - The specific combination of these energies
 
 ### Elemental and Suit
-- [[Air Element]] - The realm of mind and discrimination
-- [[Swords Suit Overview]] - The journey of the intellect
+- Air Element - The realm of mind and discrimination
+- Swords Suit Overview - The journey of the intellect
 
 ### Thematic Groupings
-- [[Cards of Mental Suffering]] - Anxiety, despair, the tormented mind
-- [[Cards of the Night]] - Darkness, insomnia, nightmare
-- [[Cards of Self-Cruelty]] - The mind attacking itself
+- Cards of Mental Suffering - Anxiety, despair, the tormented mind
+- Cards of the Night - Darkness, insomnia, nightmare
+- Cards of Self-Cruelty - The mind attacking itself
 
 ### Cross-System References
-- [[Dark Night of the Soul]] - The profane night that does not transform
-- [[Gethsemane]] - The night of waiting, of anguish
-- [[I Ching Hexagram 29]] - The Abysmal: repeated danger, the pit
-- [[Dukkha]] - Buddhist truth of suffering
+- Dark Night of the Soul - The profane night that does not transform
+- Gethsemane - The night of waiting, of anguish
+- I Ching Hexagram 29 - The Abysmal: repeated danger, the pit
+- Dukkha - Buddhist truth of suffering
 
 ### Psychological
-- [[The Harsh Superego]] - The inner critic as torturer
-- [[Rumination]] - Obsessive negative thinking
-- [[Intrusive Thoughts]] - Unwanted mental content
-- [[Anxiety and Insomnia]] - The sleepless mind
-- [[Trauma]] - The wound that keeps returning
+- The Harsh Superego - The inner critic as torturer
+- Rumination - Obsessive negative thinking
+- Intrusive Thoughts - Unwanted mental content
+- Anxiety and Insomnia - The sleepless mind
+- Trauma - The wound that keeps returning
 
 ---
 

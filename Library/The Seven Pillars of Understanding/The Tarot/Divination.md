@@ -90,7 +90,7 @@ Tarot divination operates on the principle of **synchronicity**—the meaningful
 - [[Pathworking]] — Cards as doorways rather than oracles
 - [[The Fool's Journey]] — Narrative context for Major Arcana
 - [[Active Imagination]] — Jung's technique for unconscious dialogue
-- [[I-Ching]] — Parallel oracular system
+- I-Ching — Parallel oracular system
 
 ---
 

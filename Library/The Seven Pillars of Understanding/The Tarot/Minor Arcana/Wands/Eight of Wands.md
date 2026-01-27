@@ -444,43 +444,43 @@ The Eight of Wands teaches: **There are moments when you must release control an
 
 ### Sephirotic Connections
 - [[Hod]] - The eighth Sephirah: Splendor/Glory, intellect, form, communication, Mercury's sphere
-- [[Cards of Hod]] - All cards attributed to the sphere of Mercury/Splendor
-- [[Eights of the Tarot]] - The eight as number of manifestation, structure in motion, the octave
-- [[The Astral Triangle]] - Netzach, Hod, Yesod: the realm of Personality
+- Cards of Hod - All cards attributed to the sphere of Mercury/Splendor
+- Eights of the Tarot - The eight as number of manifestation, structure in motion, the octave
+- The Astral Triangle - Netzach, Hod, Yesod: the realm of Personality
 
 ### Planetary and Astrological
-- [[Astrology/Planets/Mercury # ☿]] - The messenger planet: communication, speed, intellect, travel, trickster
+- [[Mercury ☿]] - The messenger planet: communication, speed, intellect, travel, trickster
 - [[Sagittarius ♐]] - The mutable fire sign: the quest, the arrow, philosophy, far-ranging thought
-- [[Mercury in Sagittarius]] - Restless intellect, intuitive leaps, communication across distance, bluntness
-- [[Second Decan of Sagittarius]] - The specific zodiacal section (10°-20° Sagittarius)
+- Mercury in Sagittarius - Restless intellect, intuitive leaps, communication across distance, bluntness
+- Second Decan of Sagittarius - The specific zodiacal section (10°-20° Sagittarius)
 
 ### Elemental and Suit
-- [[Fire Element]] - The realm of will and creative action
-- [[Wands Suit Overview]] - The journey of the creative impulse
-- [[Fire at Hod]] - How Fire manifests as swiftness, communication, transmission
-- [[Mutable Fire]] - Fire that moves rather than holds position, adaptable flame
-- [[Atziluth]] - The World of Pure Spirit, realm of divine names
+- Fire Element - The realm of will and creative action
+- Wands Suit Overview - The journey of the creative impulse
+- Fire at Hod - How Fire manifests as swiftness, communication, transmission
+- Mutable Fire - Fire that moves rather than holds position, adaptable flame
+- Atziluth - The World of Pure Spirit, realm of divine names
 
 ### Thematic Groupings
-- [[Cards of Swiftness and Velocity]] - Rapid movement, acceleration, speed
-- [[Cards of Communication]] - Messages, transmission, speech, the word in flight
-- [[Cards of Flow and Momentum]] - Effortless action, riding the current, trusting the process
-- [[Cards Without Human Figures]] - Impersonal forces, transpersonal energy, process over person
+- Cards of Swiftness and Velocity - Rapid movement, acceleration, speed
+- Cards of Communication - Messages, transmission, speech, the word in flight
+- Cards of Flow and Momentum - Effortless action, riding the current, trusting the process
+- Cards Without Human Figures - Impersonal forces, transpersonal energy, process over person
 
 ### Cross-System and Mythological References
-- [[Hermes Psychopompos]] - The swift messenger, god of communication and travel
-- [[Sagittarian Archetype]] - The Archer's arrow, aim and release, faith in trajectory
-- [[Odin's Spear Gungnir]] - The spear that never misses, inevitability, the word that shapes reality
-- [[Parable of the Poison Arrow]] - Buddhist teaching: the arrow is already in flight, act now
-- [[The Caduceus of Mercury]] - Balanced communication, healing, swift mediation
-- [[Spear of Lugh]] - Celtic fiery spear, never misses, must be kept in water or it burns everything
+- Hermes Psychopompos - The swift messenger, god of communication and travel
+- Sagittarian Archetype - The Archer's arrow, aim and release, faith in trajectory
+- Odin's Spear Gungnir - The spear that never misses, inevitability, the word that shapes reality
+- Parable of the Poison Arrow - Buddhist teaching: the arrow is already in flight, act now
+- The Caduceus of Mercury - Balanced communication, healing, swift mediation
+- Spear of Lugh - Celtic fiery spear, never misses, must be kept in water or it burns everything
 
 ### Psychological and Archetypal
-- [[Irruption of the Unconscious]] - Content breaking through into consciousness suddenly
-- [[Flow State]] - Action and awareness merged, effortless effort, absorption in activity
+- Irruption of the Unconscious - Content breaking through into consciousness suddenly
+- Flow State - Action and awareness merged, effortless effort, absorption in activity
 - [[Synchronicity]] - Meaningful coincidence, the unconscious communicating through the world
-- [[Haste and Recklessness]] - Shadow expression: acting without thinking, communication breakdown
-- [[Burnout from Velocity]] - The cost of sustained speed, depletion, inability to rest
+- Haste and Recklessness - Shadow expression: acting without thinking, communication breakdown
+- Burnout from Velocity - The cost of sustained speed, depletion, inability to rest
 
 ### Court and Related
 - [[Knight of Wands]] - The questing adventurer: Fire in dynamic motion, similar velocity
@@ -488,10 +488,10 @@ The Eight of Wands teaches: **There are moments when you must release control an
 - [[King of Wands]] - The mature sovereign: Fire stabilized, wisdom to know when to release
 
 ### Paradoxes and Mysteries
-- [[Fire Without a Body]] - Disembodied will, transpersonal energy, motion as pure process
-- [[The Absence of the Human Figure]] - The only numbered Minor card with no person, impersonal force
-- [[The Irreversibility of Communication]] - Once sent, the message cannot be recalled
-- [[Swiftness as Gift and Danger]] - Velocity as power and as risk, speed without discernment
+- Fire Without a Body - Disembodied will, transpersonal energy, motion as pure process
+- The Absence of the Human Figure - The only numbered Minor card with no person, impersonal force
+- The Irreversibility of Communication - Once sent, the message cannot be recalled
+- Swiftness as Gift and Danger - Velocity as power and as risk, speed without discernment
 
 ---
 

@@ -294,32 +294,32 @@ The knight who cannot stop is either a hero or a casualty—and often, he is bot
 - [[Knight of Pentacles]] - Fire of Earth: practical action, steady progress
 
 ### Elemental Connections
-- [[Air Element]] - The realm of mind and discrimination
-- [[Air of Air]] - The specific combination: pure mental force
-- [[The Knights]] - All four Knights as active expressions of their elements
+- Air Element - The realm of mind and discrimination
+- Air of Air - The specific combination: pure mental force
+- The Knights - All four Knights as active expressions of their elements
 
 ### Archetypal and Developmental
-- [[Folklore/Jungian Archetypes/The Hero]] - The archetype of the one who conquers
-- [[The Warrior]] - The one trained for battle
-- [[Mushin]] - No-mind: action without hesitation
-- [[The Charging Bull]] - Momentum that cannot be easily stopped
+- [[The Hero]] - The archetype of the one who conquers
+- The Warrior - The one trained for battle
+- Mushin - No-mind: action without hesitation
+- The Charging Bull - Momentum that cannot be easily stopped
 
 ### Thematic Groupings
-- [[Cards of Speed and Aggression]] - Swift action, charging forward
-- [[Cards of Intellectual Combat]] - Debate, argument, mental warfare
-- [[Cards of Decisiveness]] - The moment of commitment
+- Cards of Speed and Aggression - Swift action, charging forward
+- Cards of Intellectual Combat - Debate, argument, mental warfare
+- Cards of Decisiveness - The moment of commitment
 
 ### Cross-System References
-- [[St. George]] - The knight who slays the dragon
-- [[The Valkyries]] - Choosers of the slain, decisive force
-- [[I Ching Hexagram 51]] - The Arousing: shock, thunder, decisive action
-- [[Samurai Mushin]] - No-mind in combat
+- St. George - The knight who slays the dragon
+- The Valkyries - Choosers of the slain, decisive force
+- I Ching Hexagram 51 - The Arousing: shock, thunder, decisive action
+- Samurai Mushin - No-mind in combat
 
 ### Psychological
-- [[The Hero Archetype]] - The ego's journey to prove itself
-- [[The Thinking Function]] - Jung's typology: logic dominant
-- [[Intellectual Courage]] - The willingness to speak difficult truths
-- [[Momentum]] - The physics and psychology of forward motion
+- The Hero Archetype - The ego's journey to prove itself
+- The Thinking Function - Jung's typology: logic dominant
+- Intellectual Courage - The willingness to speak difficult truths
+- Momentum - The physics and psychology of forward motion
 
 ---
 

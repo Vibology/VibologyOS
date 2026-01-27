@@ -366,42 +366,42 @@ The Five of Wands is the test: *Can you tell the difference?*
 
 ### Sephirotic Connections
 - [[Geburah]] - The fifth Sephirah: Severity, judgment, Mars's sphere
-- [[Cards of Geburah]] - All Fives across the suits
+- Cards of Geburah - All Fives across the suits
 
 ### Planetary and Astrological
 - [[Saturn ♄]] - The taskmaster: limitation, discipline, time, maturation
 - [[Leo ♌]] - The Lion: creativity, pride, self-expression, leadership
-- [[Saturn in Leo]] - Restriction blocking exuberance, pressure building
-- [[First Decan of Leo]] - The purest Leo energy, most eager to shine
+- Saturn in Leo - Restriction blocking exuberance, pressure building
+- First Decan of Leo - The purest Leo energy, most eager to shine
 
 ### Elemental and Suit
-- [[Fire Element]] - The realm of will and creative action
-- [[Wands Suit Overview]] - The journey of the creative impulse
-- [[Fire Cards]] - All cards attributed to the Fire element
-- [[Atziluth]] - The World of Pure Spirit, realm of divine names
+- Fire Element - The realm of will and creative action
+- Wands Suit Overview - The journey of the creative impulse
+- Fire Cards - All cards attributed to the Fire element
+- Atziluth - The World of Pure Spirit, realm of divine names
 
 ### Thematic Groupings
-- [[Cards of Conflict and Challenge]] - Struggle, competition, testing
-- [[Cards of Competition]] - Agon, proving ground, rivalry
-- [[Cards of Disruption]] - Breaking peace, introducing chaos
-- [[The Fives]] - Crisis, instability, the difficult middle
+- Cards of Conflict and Challenge - Struggle, competition, testing
+- Cards of Competition - Agon, proving ground, rivalry
+- Cards of Disruption - Breaking peace, introducing chaos
+- The Fives - Crisis, instability, the difficult middle
 
 ### Cross-System References
-- [[Agon]] - Greek concept of contest as path to excellence
-- [[Calcinatio]] - Alchemical purification through fire and friction
-- [[Dukkha]] - Buddhist teaching on suffering and friction
-- [[I Ching Hexagram 6]] - Conflict, the danger of prolonged struggle
-- [[Roman Gladiators]] - Combat as spectacle and training
+- Agon - Greek concept of contest as path to excellence
+- Calcinatio - Alchemical purification through fire and friction
+- Dukkha - Buddhist teaching on suffering and friction
+- I Ching Hexagram 6 - Conflict, the danger of prolonged struggle
+- Roman Gladiators - Combat as spectacle and training
 
 ### Court and Archetypal
 - [[Knight of Wands]] - Fire's questing, competitive aspect
-- [[The Harsh Teacher]] - Geburah archetype, demanding excellence
+- The Harsh Teacher - Geburah archetype, demanding excellence
 
 ### Psychological
-- [[Friction as Growth]] - Resistance as teacher, challenge as path
-- [[Geburah as Harsh Teacher]] - The demanding father, the pruning blade
-- [[Individuation]] - Multiple selves in conflict, need for integration
-- [[Healthy Competition]] - Agon vs. destructive rivalry
+- Friction as Growth - Resistance as teacher, challenge as path
+- Geburah as Harsh Teacher - The demanding father, the pruning blade
+- [[Individuation Process]] - Multiple selves in conflict, need for integration
+- Healthy Competition - Agon vs. destructive rivalry
 
 ---
 

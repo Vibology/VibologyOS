@@ -158,12 +158,12 @@ TBD
 - [[The Fool (0)]] - The wanderer who must learn to rule
 - [[The Empress (III)]] - His consort and source of creative power
 - [[The Hierophant (V)]] - The spiritual authority complementing temporal power
-- [[Heh - Hebrew Letters in Tarot]]
-- [[Kabbalistic Paths - Chokmah to Tiphareth]]
-- [[Aries and Mars in Esoteric Systems]]
-- [[The Animus Archetype]]
-- [[Cards of Authority and Structure]]
-- [[The Sacred Kingship]]
+- Heh - Hebrew Letters in Tarot
+- Kabbalistic Paths - Chokmah to Tiphareth
+- Aries and Mars in Esoteric Systems
+- The Animus Archetype
+- Cards of Authority and Structure
+- The Sacred Kingship
 
 ---
 

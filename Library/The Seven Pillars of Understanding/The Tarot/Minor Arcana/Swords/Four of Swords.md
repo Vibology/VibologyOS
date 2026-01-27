@@ -308,33 +308,33 @@ The rest is not the end. It is the preparation for what comes next.
 
 ### Sephirotic Connections
 - [[Chesed]] - The fourth Sephirah: Mercy, benevolent ordering, stability
-- [[Fours of the Tarot]] - All four Fours as expressions of Chesed
+- Fours of the Tarot - All four Fours as expressions of Chesed
 
 ### Planetary and Zodiacal
 - [[Jupiter ♃]] - The planet of expansion, wisdom, and benevolence
 - [[Libra ♎]] - The sign of balance, harmony, and peace
-- [[Jupiter in Libra]] - The specific combination of these energies
+- Jupiter in Libra - The specific combination of these energies
 
 ### Elemental and Suit
-- [[Air Element]] - The realm of mind and discrimination
-- [[Swords Suit Overview]] - The journey of the intellect
+- Air Element - The realm of mind and discrimination
+- Swords Suit Overview - The journey of the intellect
 
 ### Thematic Groupings
-- [[Cards of Rest and Recovery]] - Healing, respite, withdrawal
-- [[Cards of Sanctuary]] - Protected space, sacred pause
-- [[Cards of Strategy]] - Wise action, tactical thinking
+- Cards of Rest and Recovery - Healing, respite, withdrawal
+- Cards of Sanctuary - Protected space, sacred pause
+- Cards of Strategy - Wise action, tactical thinking
 
 ### Cross-System References
-- [[The Sabbath]] - Sacred rest, the seventh day
-- [[Temenos]] - Jung's concept of sacred, protected space
-- [[I Ching Hexagram 52]] - Keeping Still: the mountain, meditation
-- [[Samadhi]] - Yogic absorption, the still mind
+- The Sabbath - Sacred rest, the seventh day
+- Temenos - Jung's concept of sacred, protected space
+- I Ching Hexagram 52 - Keeping Still: the mountain, meditation
+- Samadhi - Yogic absorption, the still mind
 
 ### Psychological
-- [[Regression]] - Healthy retreat to the depths for restoration
-- [[Sanctuary]] - The protected space for transformation
+- Regression - Healthy retreat to the depths for restoration
+- Sanctuary - The protected space for transformation
 - [[The Hero's Journey]] - The descent phase, incubation before return
-- [[Contemplation]] - Active stillness, meditative awareness
+- Contemplation - Active stillness, meditative awareness
 
 ---
 

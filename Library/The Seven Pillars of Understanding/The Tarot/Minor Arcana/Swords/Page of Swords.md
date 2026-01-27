@@ -282,32 +282,32 @@ The sword is not a toy, but it is also not a trophy to be admired from a distanc
 - [[Page of Pentacles]] - Earth of Earth: pure manifestation, the diligent student
 
 ### Elemental Connections
-- [[Air Element]] - The realm of mind and discrimination
-- [[Earth Element]] - The practical, manifesting, stabilizing force
-- [[Earth of Air]] - The specific combination: practical intelligence
+- Air Element - The realm of mind and discrimination
+- Earth Element - The practical, manifesting, stabilizing force
+- Earth of Air - The specific combination: practical intelligence
 
 ### Developmental and Archetypal
-- [[The Puer Aeternus]] - The eternal youth, the one who won't mature
-- [[The Investigator]] - The detective, the one who gathers information
-- [[The Student]] - The learner, the beginner, the apprentice
-- [[The Messenger]] - Hermes, Mercury, the carrier of information
+- The Puer Aeternus - The eternal youth, the one who won't mature
+- The Investigator - The detective, the one who gathers information
+- The Student - The learner, the beginner, the apprentice
+- The Messenger - Hermes, Mercury, the carrier of information
 
 ### Thematic Groupings
-- [[Cards of Investigation]] - Gathering information, examining, watching
-- [[Cards of Youth]] - The Pages as the young, the beginners
-- [[Cards of Vigilance]] - Watchfulness, alertness, awareness
+- Cards of Investigation - Gathering information, examining, watching
+- Cards of Youth - The Pages as the young, the beginners
+- Cards of Vigilance - Watchfulness, alertness, awareness
 
 ### Cross-System References
-- [[Hermes/Mercury]] - The divine messenger, the trickster god
-- [[I Ching Hexagram 4]] - Youthful Folly: the student seeking knowledge
-- [[Athena's Owl]] - The bird of vigilance and wisdom
+- Hermes/Mercury - The divine messenger, the trickster god
+- I Ching Hexagram 4 - Youthful Folly: the student seeking knowledge
+- Athena's Owl - The bird of vigilance and wisdom
 - [[The Fool (0)]] - The innocent who begins to think
 
 ### Psychological
-- [[Critical Thinking]] - The development of logical, independent thought
-- [[The Thinking Function]] - Jung's typology: the analytical faculty
-- [[Intellectual Curiosity]] - The drive to know, to understand
-- [[Beginner's Mind]] - The fresh perspective, uncorrupted by experience
+- Critical Thinking - The development of logical, independent thought
+- The Thinking Function - Jung's typology: the analytical faculty
+- Intellectual Curiosity - The drive to know, to understand
+- Beginner's Mind - The fresh perspective, uncorrupted by experience
 
 ---
 

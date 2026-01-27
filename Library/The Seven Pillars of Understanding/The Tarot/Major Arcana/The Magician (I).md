@@ -130,12 +130,12 @@ TBD
 ## Cross-References
 - [[The Fool (0)]] - The breath that becomes the word
 - [[The High Priestess (II)]] - The complementary path on the Pillar of Form
-- [[Beth - Hebrew Letters in Tarot]]
-- [[Kabbalistic Paths - Supernal Triangle]]
-- [[Mercury in Esoteric Systems]]
-- [[The Four Elemental Tools]]
-- [[Cards of Manifestation and Will]]
-- [[The Magician in Alchemy]]
+- Beth - Hebrew Letters in Tarot
+- Kabbalistic Paths - Supernal Triangle
+- Mercury in Esoteric Systems
+- The Four Elemental Tools
+- Cards of Manifestation and Will
+- The Magician in Alchemy
 
 ---
 

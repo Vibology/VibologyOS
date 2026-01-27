@@ -318,37 +318,37 @@ The sword liberates when it is wielded with wisdom. The Queen who has lost every
 - [[Queen of Pentacles]] - Water of Earth: nurturing manifestation, the sustainer
 
 ### Elemental Connections
-- [[Air Element]] - The realm of mind and discrimination
-- [[Water Element]] - The realm of emotion and depth
-- [[Water of Air]] - The specific combination: emotional intelligence
-- [[The Queens]] - All four Queens as receptive masters of their elements
+- Air Element - The realm of mind and discrimination
+- Water Element - The realm of emotion and depth
+- Water of Air - The specific combination: emotional intelligence
+- The Queens - All four Queens as receptive masters of their elements
 
 ### Archetypal and Developmental
-- [[The Widow]] - The one who has lost and survived
-- [[The Wise Woman]] - The elder who sees clearly
-- [[The Therapist]] - The one who holds space for truth
-- [[Emotional Intelligence]] - The integration of feeling and thinking
-- [[The Liberator]] - The one who frees others through clarity
+- The Widow - The one who has lost and survived
+- The Wise Woman - The elder who sees clearly
+- The Therapist - The one who holds space for truth
+- Emotional Intelligence - The integration of feeling and thinking
+- The Liberator - The one who frees others through clarity
 
 ### Thematic Groupings
-- [[Cards of Perception]] - Clear sight, pattern recognition
-- [[Cards of Loss and Wisdom]] - Suffering that becomes understanding
-- [[Cards of Communication]] - Speech that liberates or wounds
-- [[Cards of Integration]] - Heart and mind united
+- Cards of Perception - Clear sight, pattern recognition
+- Cards of Loss and Wisdom - Suffering that becomes understanding
+- Cards of Communication - Speech that liberates or wounds
+- Cards of Integration - Heart and mind united
 
 ### Cross-System References
-- [[Athena]] - Goddess of wisdom and strategic warfare
-- [[Kali Ma]] - The destroyer of illusion
-- [[I Ching Hexagram 61]] - Inner Truth: sincerity and honest communication
-- [[The Crone]] - The wise woman archetype
-- [[The Widow Archetype]] - Loss as portal to perception
+- Athena - Goddess of wisdom and strategic warfare
+- Kali Ma - The destroyer of illusion
+- I Ching Hexagram 61 - Inner Truth: sincerity and honest communication
+- The Crone - The wise woman archetype
+- The Widow Archetype - Loss as portal to perception
 
 ### Psychological
-- [[Folklore/Jungian Archetypes/The Animus]] - Jung's concept of logos in the feminine
-- [[Emotional Intelligence]] - Thinking and feeling united
-- [[Grief as Teacher]] - Loss that clarifies rather than embitters
-- [[The Therapist Archetype]] - The one who helps others see clearly
-- [[Integrated Thinking Function]] - Mind that includes heart
+- [[The Animus]] - Jung's concept of logos in the feminine
+- Emotional Intelligence - Thinking and feeling united
+- Grief as Teacher - Loss that clarifies rather than embitters
+- The Therapist Archetype - The one who helps others see clearly
+- Integrated Thinking Function - Mind that includes heart
 
 ---
 

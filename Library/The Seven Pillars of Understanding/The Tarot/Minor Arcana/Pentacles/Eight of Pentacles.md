@@ -112,31 +112,31 @@ The shadow is perfectionism (work without completion) or workaholism (craft as e
 
 ### Sephirotic Connections
 - [[Hod]] - The eighth Sephirah: Splendor, intellect, pattern, form
-- [[Eights of the Tarot]] - All four Eights as expressions of Hod
+- Eights of the Tarot - All four Eights as expressions of Hod
 
 ### Planetary and Astrological
 - [[Sun ☉]] - The planet of vitality, mastery, creative self-expression
 - [[Virgo ♍]] - The sign of precision, analysis, service, perfection
-- [[Sun in Virgo]] - Creative force channeled into meticulous craft
-- [[First Decan of Virgo]] - The beginning of harvest season, work perfected
+- Sun in Virgo - Creative force channeled into meticulous craft
+- First Decan of Virgo - The beginning of harvest season, work perfected
 
 ### Thematic Groupings
-- [[Cards of Mastery]] - Excellence through practice
-- [[Cards of Work and Craft]] - Skill, employment, professional competence
-- [[Cards of Flow State]] - Absorption in focused activity
-- [[Cards of Repetition as Path]] - Practice as spiritual discipline
+- Cards of Mastery - Excellence through practice
+- Cards of Work and Craft - Skill, employment, professional competence
+- Cards of Flow State - Absorption in focused activity
+- Cards of Repetition as Path - Practice as spiritual discipline
 
 ### Cross-System References
-- [[The 10,000 Hour Rule]] - Mastery through sustained practice
-- [[Flow State]] - Csikszentmihalyi's optimal experience
-- [[Kata]] - Japanese concept of form perfected through repetition
-- [[Opus]] - Alchemical work as transformation of self through matter
+- The 10,000 Hour Rule - Mastery through sustained practice
+- Flow State - Csikszentmihalyi's optimal experience
+- Kata - Japanese concept of form perfected through repetition
+- Opus - Alchemical work as transformation of self through matter
 
 ### Psychological
-- [[Flow State]] - Optimal experience, self forgotten in focused work
-- [[Deliberate Practice]] - Focused repetition with feedback
-- [[Workaholism]] - Shadow: craft as escape from intimacy
-- [[Perfectionism]] - Shadow: detail obsession preventing completion
+- Flow State - Optimal experience, self forgotten in focused work
+- Deliberate Practice - Focused repetition with feedback
+- Workaholism - Shadow: craft as escape from intimacy
+- Perfectionism - Shadow: detail obsession preventing completion
 
 ---
 *"The master is not the one who knows the most—it is the one who practices longest."*

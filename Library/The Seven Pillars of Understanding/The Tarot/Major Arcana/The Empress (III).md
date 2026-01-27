@@ -159,12 +159,12 @@ TBD
 - [[The Magician (I)]] - The will that fertilizes her creativity
 - [[The High Priestess (II)]] - Her sister-path of unmanifest potential
 - [[The Emperor (IV)]] - Her consort of structure and order
-- [[Daleth - Hebrew Letters in Tarot]]
-- [[Kabbalistic Paths - The Supernal Triangle]]
-- [[Venus in Esoteric Systems]]
-- [[The Great Mother Archetype]]
-- [[Cards of Fertility and Abundance]]
-- [[The Persephone Mysteries]]
+- Daleth - Hebrew Letters in Tarot
+- Kabbalistic Paths - The Supernal Triangle
+- Venus in Esoteric Systems
+- The Great Mother Archetype
+- Cards of Fertility and Abundance
+- The Persephone Mysteries
 
 ---
 

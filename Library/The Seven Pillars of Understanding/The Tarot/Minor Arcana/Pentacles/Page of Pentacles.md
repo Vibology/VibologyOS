@@ -153,33 +153,33 @@ The teaching: Mastery is not the end of learning but its intensification. The tr
 - [[Page of Swords]] - Curious about ideas and truth (air)
 
 ### Court Card Progressions
-- [[Pages of the Tarot]] - All four Pages as expressions of elemental Earth (youth, study, messages)
-- [[Pentacles Court Cards]] - Page → Knight → Queen → King (progression of material mastery)
+- Pages of the Tarot - All four Pages as expressions of elemental Earth (youth, study, messages)
+- Pentacles Court Cards - Page → Knight → Queen → King (progression of material mastery)
 
 ### Elemental Correspondences
-- [[Earth Element]] - Manifestation, stability, practicality, embodiment
-- [[Earth of Earth]] - The densest materiality, grounded presence
+- Earth Element - Manifestation, stability, practicality, embodiment
+- Earth of Earth - The densest materiality, grounded presence
 - [[Taurus ♉]] - Fixed earth, sensual embodiment, patient accumulation
 - [[Virgo ♍]] - Mutable earth, analytical precision, practical service
 - [[Capricorn ♑]] - Cardinal earth, structured ambition, mastery through discipline
 
 ### Thematic Groupings
-- [[Cards of Learning]] - Study, apprenticeship, skill development
-- [[Cards of Opportunity]] - New beginnings, thresholds, potential
-- [[Cards of Embodiment]] - Body awareness, physical presence, incarnation
-- [[Cards of Vocational Calling]] - Work as sacred, discovering your craft
+- Cards of Learning - Study, apprenticeship, skill development
+- Cards of Opportunity - New beginnings, thresholds, potential
+- Cards of Embodiment - Body awareness, physical presence, incarnation
+- Cards of Vocational Calling - Work as sacred, discovering your craft
 
 ### Cross-System References
-- [[Puer Aeternus]] - The eternal youth, in earth form (grounded, practical)
-- [[Apprenticeship]] - Learning through observation and practice
-- [[Beginner's Mind]] - Zen concept of open, humble learning
-- [[Vocational Calling]] - Work as expression of soul
+- Puer Aeternus - The eternal youth, in earth form (grounded, practical)
+- Apprenticeship - Learning through observation and practice
+- Beginner's Mind - Zen concept of open, humble learning
+- Vocational Calling - Work as expression of soul
 
 ### Psychological
-- [[Beginner's Mind]] - The humility and openness that makes learning possible
-- [[Embodiment]] - Inhabiting the body fully, psychological work made physical
-- [[Vocational Calling]] - Discovering the work you are meant to do
-- [[Perpetual Studenthood]] - Shadow: learning as defense against action
+- Beginner's Mind - The humility and openness that makes learning possible
+- Embodiment - Inhabiting the body fully, psychological work made physical
+- Vocational Calling - Discovering the work you are meant to do
+- Perpetual Studenthood - Shadow: learning as defense against action
 
 ---
 *"The student who gazes at the coin is not greedy—he is learning the grammar of value."*

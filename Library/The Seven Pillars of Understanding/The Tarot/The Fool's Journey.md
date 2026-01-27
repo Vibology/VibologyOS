@@ -99,7 +99,7 @@ The 21 numbered Major Arcana (excluding The Fool, who travels through them) divi
 - [[The Tarot]] — System overview
 - [[Individuation Process]] — Jung's parallel framework
 - [[Pathworking]] — Traveling the paths experientially
-- [[Hero's Journey]] — Campbell's monomyth structure
+- [[The Hero's Journey]] — Campbell's monomyth structure
 - [[Divination]] — Using the cards oracularily
 
 ---

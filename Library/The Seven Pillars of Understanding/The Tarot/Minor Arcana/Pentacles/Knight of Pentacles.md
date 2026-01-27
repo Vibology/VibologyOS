@@ -169,34 +169,34 @@ The teaching: Most people quit not because the work is hard but because they can
 - [[Knight of Swords]] - Mental urgency, cutting through, intellectual battle (air)
 
 ### Court Card Progressions
-- [[Knights of the Tarot]] - All four Knights as expressions of Air (active energy in motion)
-- [[Pentacles Court Cards]] - Page → Knight → Queen → King (progression of material mastery)
+- Knights of the Tarot - All four Knights as expressions of Air (active energy in motion)
+- Pentacles Court Cards - Page → Knight → Queen → King (progression of material mastery)
 
 ### Elemental Correspondences
-- [[Air Element]] - Intellect, planning, movement, strategy
-- [[Earth Element]] - Manifestation, stability, practicality, labor
-- [[Air of Earth]] - Intellect directing matter, systematic action
+- Air Element - Intellect, planning, movement, strategy
+- Earth Element - Manifestation, stability, practicality, labor
+- Air of Earth - Intellect directing matter, systematic action
 - [[Taurus ♉]] - Fixed earth, persistent embodiment, unstoppable endurance
 - [[Virgo ♍]] - Mutable earth, methodical precision, work as service
 - [[Capricorn ♑]] - Cardinal earth, disciplined ambition, climbing the mountain
 
 ### Thematic Groupings
-- [[Cards of Persistence]] - Sustained effort, endurance, commitment
-- [[Cards of Reliability]] - Integrity, follow-through, doing what you said
-- [[Cards of Methodical Progress]] - Slow, steady, systematic advancement
-- [[Cards of Labor]] - Work as spiritual practice, the sacred mundane
+- Cards of Persistence - Sustained effort, endurance, commitment
+- Cards of Reliability - Integrity, follow-through, doing what you said
+- Cards of Methodical Progress - Slow, steady, systematic advancement
+- Cards of Labor - Work as spiritual practice, the sacred mundane
 
 ### Cross-System References
-- [[The Tortoise and the Hare]] - Fable of persistence over speed
-- [[Ox-Herding Pictures]] - Zen stages of training the wild mind
-- [[Cathedral Builders]] - Labor beyond one lifetime, work as offering
-- [[Marathon vs. Sprint]] - Endurance athletics as metaphor for life
+- The Tortoise and the Hare - Fable of persistence over speed
+- Ox-Herding Pictures - Zen stages of training the wild mind
+- Cathedral Builders - Labor beyond one lifetime, work as offering
+- Marathon vs. Sprint - Endurance athletics as metaphor for life
 
 ### Psychological
 - [[Integrity]] - Doing what you said you would do
-- [[Consistency Over Intensity]] - Sustainable practice beats periodic brilliance
-- [[The Value of Boring]] - Most transformation is un-dramatic
-- [[Persistence as Wisdom]] - The capacity to endure the unglamorous middle
+- Consistency Over Intensity - Sustainable practice beats periodic brilliance
+- The Value of Boring - Most transformation is un-dramatic
+- Persistence as Wisdom - The capacity to endure the unglamorous middle
 
 ---
 *"The knight who charges wins the battle. The knight who plows wins the war."*

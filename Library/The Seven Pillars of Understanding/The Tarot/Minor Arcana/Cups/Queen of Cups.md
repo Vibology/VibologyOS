@@ -222,12 +222,12 @@ When the Queen of Cups emerges in reading or contemplation, consider:
 - [[Page of Cups]] - The beginning stage the Queen has mastered
 - [[Knight of Cups]] - The active expression the Queen has integrated
 - [[Ace of Cups]] - The pure overflow that the Queen can contain
-- [[Anima]] - The inner feminine the Queen embodies at highest level
-- [[Sophia]] - The wisdom figure the Queen represents
-- [[The Unconscious]] - The realm the Queen navigates with mastery
-- [[Empathy]] - The core capacity the Queen embodies
+- [[The Anima]] - The inner feminine the Queen embodies at highest level
+- Sophia - The wisdom figure the Queen represents
+- The Unconscious - The realm the Queen navigates with mastery
+- Empathy - The core capacity the Queen embodies
 - [[Queen of Wands]] - The fire-Queen, the Queen of creative presence
-- [[Water Element]] - The element the Queen rules in double measure
+- Water Element - The element the Queen rules in double measure
 
 ---
 

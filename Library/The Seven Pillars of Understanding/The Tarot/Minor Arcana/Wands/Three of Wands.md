@@ -364,42 +364,42 @@ The Sun does not force the plants to grow. It simply shines, day after day, with
 
 ### Sephirotic Connections
 - [[Binah]] - The third Sephirah: Understanding, the Great Mother, form
-- [[Cards of Binah]] - All Threes across the suits
+- Cards of Binah - All Threes across the suits
 
 ### Planetary and Astrological
 - [[Sun ☉]] - The life-giver: vitality, confidence, self-expression
 - [[Aries ♈]] - The Ram: pioneer, initiator, cardinal fire
-- [[Sun in Aries]] - Solar vitality in pioneering action
-- [[Second Decan of Aries]] - Aries tempered by Sun's steady light
+- Sun in Aries - Solar vitality in pioneering action
+- Second Decan of Aries - Aries tempered by Sun's steady light
 
 ### Elemental and Suit
-- [[Fire Element]] - The realm of will and creative action
-- [[Wands Suit Overview]] - The journey of the creative impulse
-- [[Fire Cards]] - All cards attributed to the Fire element
-- [[Atziluth]] - The World of Pure Spirit, realm of divine names
+- Fire Element - The realm of will and creative action
+- Wands Suit Overview - The journey of the creative impulse
+- Fire Cards - All cards attributed to the Fire element
+- Atziluth - The World of Pure Spirit, realm of divine names
 
 ### Thematic Groupings
-- [[Cards of Enterprise and Commerce]] - Trade, investment, ventures
-- [[Cards of Patience and Waiting]] - Active trust, allowing process
-- [[Cards of Expansion]] - Growth, reaching outward, new territories
-- [[Cards of Established Strength]] - Solid foundation, confidence
+- Cards of Enterprise and Commerce - Trade, investment, ventures
+- Cards of Patience and Waiting - Active trust, allowing process
+- Cards of Expansion - Growth, reaching outward, new territories
+- Cards of Established Strength - Solid foundation, confidence
 
 ### Cross-System References
-- [[Marco Polo]] - The merchant adventurer, Silk Road traders
-- [[Parable of the Talents]] - Investment and return, risk and reward
-- [[Three Treasures (Taoism)]] - Jing, Qi, Shen integrated
-- [[I Ching Hexagram 14]] - Possession in Great Measure, supreme success
-- [[Odysseus]] - Ships at sea, hoping for homecoming
+- Marco Polo - The merchant adventurer, Silk Road traders
+- Parable of the Talents - Investment and return, risk and reward
+- Three Treasures (Taoism) - Jing, Qi, Shen integrated
+- I Ching Hexagram 14 - Possession in Great Measure, supreme success
+- Odysseus - Ships at sea, hoping for homecoming
 
 ### Court and Archetypal
 - [[King of Wands]] - The mature sovereign of Fire, established in power
 - [[Queen of Wands]] - The confident, radiant feminine Fire
 
 ### Psychological
-- [[Active Waiting]] - Engaged presence during process
-- [[Binah as Great Mother]] - Feminine wisdom of patience and gestation
-- [[Individuation]] - Trusting the Self's timing and intelligence
-- [[Ego and Release of Control]] - Healthy delegation and faith
+- Active Waiting - Engaged presence during process
+- Binah as Great Mother - Feminine wisdom of patience and gestation
+- [[Individuation Process]] - Trusting the Self's timing and intelligence
+- Ego and Release of Control - Healthy delegation and faith
 
 ---
 

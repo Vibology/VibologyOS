@@ -162,12 +162,12 @@ TBD
 - [[The High Priestess (II)]] - The feminine complement of withdrawal
 - [[The Lovers (VI)]] - The choice that leads to solitary path
 - [[Wheel of Fortune (X)]] - The return to engagement after withdrawal
-- [[Yod - Hebrew Letters in Tarot]]
-- [[Kabbalistic Paths - Chesed to Tiphareth]]
-- [[Virgo and Mercury in Esoteric Systems]]
-- [[The Desert Fathers and Hermit Tradition]]
-- [[Cards of Wisdom and Solitude]]
-- [[The Intelligence of Will]]
+- Yod - Hebrew Letters in Tarot
+- Kabbalistic Paths - Chesed to Tiphareth
+- Virgo and Mercury in Esoteric Systems
+- The Desert Fathers and Hermit Tradition
+- Cards of Wisdom and Solitude
+- The Intelligence of Will
 
 ---
 

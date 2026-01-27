@@ -318,33 +318,33 @@ But the lock—the lock may be open.
 
 ### Sephirotic Connections
 - [[Hod]] - The eighth Sephirah: Splendor, intellect, Mercury
-- [[Eights of the Tarot]] - All four Eights as expressions of Hod
+- Eights of the Tarot - All four Eights as expressions of Hod
 
 ### Planetary and Zodiacal
 - [[Jupiter ♃]] - The planet of expansion, possibility, and abundance
 - [[Gemini ♊]] - The sign of duality, communication, and mental agility
-- [[Jupiter in Gemini]] - The specific combination of these energies (detriment)
+- Jupiter in Gemini - The specific combination of these energies (detriment)
 
 ### Elemental and Suit
-- [[Air Element]] - The realm of mind and discrimination
-- [[Swords Suit Overview]] - The journey of the intellect
+- Air Element - The realm of mind and discrimination
+- Swords Suit Overview - The journey of the intellect
 
 ### Thematic Groupings
-- [[Cards of Imprisonment and Restriction]] - Bondage, limitation, feeling trapped
-- [[Cards of Self-Imposed Limitation]] - The prison we build ourselves
-- [[Cards of Crisis]] - The moments that demand breakthrough
+- Cards of Imprisonment and Restriction - Bondage, limitation, feeling trapped
+- Cards of Self-Imposed Limitation - The prison we build ourselves
+- Cards of Crisis - The moments that demand breakthrough
 
 ### Cross-System References
-- [[Plato's Cave]] - Shadows mistaken for reality
-- [[Avidya]] - Buddhist concept of ignorance that binds
-- [[I Ching Hexagram 39]] - Obstruction: the blocked path
-- [[Prometheus Bound]] - Punishment that precedes liberation
+- Plato's Cave - Shadows mistaken for reality
+- Avidya - Buddhist concept of ignorance that binds
+- I Ching Hexagram 39 - Obstruction: the blocked path
+- Prometheus Bound - Punishment that precedes liberation
 
 ### Psychological
-- [[Learned Helplessness]] - The belief that escape is impossible
-- [[Cognitive Distortions]] - The thinking errors that create mental prisons
-- [[Anxiety]] - The experience of threat exceeding danger
-- [[The Cage of the Mind]] - Thought patterns as prison bars
+- Learned Helplessness - The belief that escape is impossible
+- Cognitive Distortions - The thinking errors that create mental prisons
+- Anxiety - The experience of threat exceeding danger
+- The Cage of the Mind - Thought patterns as prison bars
 
 ---
 

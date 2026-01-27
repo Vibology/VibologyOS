@@ -303,41 +303,41 @@ The invitation is to *loosen the grip*—not to abandon security, but to hold it
 
 ### Sephirotic Connections
 - [[Chesed]] - The fourth Sephirah: Mercy, abundance, benevolent order (here solidified into possession)
-- [[Fours of the Tarot]] - All four Fours as expressions of Chesed
+- Fours of the Tarot - All four Fours as expressions of Chesed
 
 ### Planetary and Astrological
 - [[Sun ☉]] - The planet of vitality, sovereignty, and self-expression
 - [[Capricorn ♑]] - The sign of structure, authority, and material mastery
-- [[Sun in Capricorn]] - Creative force solidified into established authority
-- [[Third Decan of Capricorn]] - The summit, the throne secured
+- Sun in Capricorn - Creative force solidified into established authority
+- Third Decan of Capricorn - The summit, the throne secured
 
 ### Elemental and Suit
-- [[Earth Element]] - The realm of matter and manifestation
-- [[Pentacles Suit Overview]] - The journey of embodiment and material mastery
-- [[Earth Cards]] - All cards attributed to the Earth element
-- [[Assiah]] - The Material World, realm of security and possession
+- Earth Element - The realm of matter and manifestation
+- Pentacles Suit Overview - The journey of embodiment and material mastery
+- Earth Cards - All cards attributed to the Earth element
+- Assiah - The Material World, realm of security and possession
 
 ### Thematic Groupings
-- [[Cards of Security]] - Foundation, stability, protection
-- [[Cards of Hoarding]] - Clinging, control, inability to release
-- [[Cards of Boundaries]] - Knowing what is yours, defending your ground
-- [[Cards of Material Power]] - Authority, status, wealth
+- Cards of Security - Foundation, stability, protection
+- Cards of Hoarding - Clinging, control, inability to release
+- Cards of Boundaries - Knowing what is yours, defending your ground
+- Cards of Material Power - Authority, status, wealth
 
 ### Cross-System References
-- [[King Midas]] - The curse of the golden touch
-- [[Smaug]] - The dragon's hoard, wealth without use
-- [[Ebenezer Scrooge]] - The miser before redemption
-- [[I Ching Hexagram 26]] - The Taming Power of the Great: accumulation must become expression
-- [[The Scarcity Complex]] - The fear that there is not enough
+- King Midas - The curse of the golden touch
+- Smaug - The dragon's hoard, wealth without use
+- Ebenezer Scrooge - The miser before redemption
+- I Ching Hexagram 26 - The Taming Power of the Great: accumulation must become expression
+- The Scarcity Complex - The fear that there is not enough
 
 ### Court and Archetypal
 - [[King of Pentacles]] - The evolved form: security with generosity, authority with stewardship
 
 ### Psychological
-- [[The Ego]] - Identity through possession, the self as fortress
-- [[Shadow]] - What you defend against becomes you
-- [[Scarcity Mindset]] - The belief that there is not enough
-- [[Boundaries]] - Healthy protection vs. rigid walls
+- [[The Self]] - Identity through possession, the self as fortress
+- [[The Shadow]] - What you defend against becomes you
+- Scarcity Mindset - The belief that there is not enough
+- Boundaries - Healthy protection vs. rigid walls
 
 ---
 *"The king who sits on his hoard is not wealthy—he is only a dragon in human form."*

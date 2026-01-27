@@ -163,12 +163,12 @@ TBD
 - [[The Fool (0)]] - The ox that Lamed's goad directs
 - [[Wheel of Fortune (X)]] - The karmic law Justice enacts
 - [[Judgement (XX)]] - The final weighing after the journey
-- [[Lamed - Hebrew Letters in Tarot]]
-- [[Kabbalistic Paths - Geburah to Tiphareth]]
-- [[Libra and Venus in Esoteric Systems]]
-- [[Maat - Egyptian Justice Goddess]]
-- [[Karma and Cosmic Law]]
-- [[The Faithful Intelligence]]
+- Lamed - Hebrew Letters in Tarot
+- Kabbalistic Paths - Geburah to Tiphareth
+- Libra and Venus in Esoteric Systems
+- Maat - Egyptian Justice Goddess
+- Karma and Cosmic Law
+- The Faithful Intelligence
 
 ---
 

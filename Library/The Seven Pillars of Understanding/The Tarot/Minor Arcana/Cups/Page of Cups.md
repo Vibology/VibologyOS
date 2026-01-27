@@ -211,12 +211,12 @@ When the Page of Cups emerges in reading or contemplation, consider:
 - [[Knight of Cups]] - The romantic quester the Page may become
 - [[Queen of Cups]] - The emotional mastery the Page may eventually achieve
 - [[King of Cups]] - The sovereign relationship with feeling the Page may grow into
-- [[Puer Aeternus]] - The archetype of eternal youth that the Page embodies
-- [[The Unconscious]] - The depths from which the fish arises
+- Puer Aeternus - The archetype of eternal youth that the Page embodies
+- The Unconscious - The depths from which the fish arises
 - [[Active Imagination]] - The technique for engaging content like the fish in the cup
 - [[Page of Wands]] - The fire-Page, the Page's complementary opposite
-- [[Water Element]] - The element the Page is learning to ground
-- [[Earth Element]] - The Page's primary elemental quality
+- Water Element - The element the Page is learning to ground
+- Earth Element - The Page's primary elemental quality
 
 ---
 

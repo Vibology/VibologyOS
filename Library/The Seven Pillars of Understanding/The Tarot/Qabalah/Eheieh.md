@@ -38,7 +38,7 @@ In Qabalistic practice, Eheieh is vibrated when working with Kether—invoking t
 - [[Kether]] — The Sephirah governed by Eheieh
 - [[Metatron]] — The Archangel who bears this name
 - [[Tree of Life]] — The complete Sephirotic structure
-- [[Chaioth ha-Qadesh]] — The angelic order of Kether
+- Chaioth ha-Qadesh — The angelic order of Kether
 
 ---
 

@@ -294,33 +294,33 @@ The truly wise know that some swords should be dropped. Some arguments should be
 
 ### Sephirotic Connections
 - [[Geburah]] - The fifth Sephirah: Severity, judgment, necessary destruction
-- [[Fives of the Tarot]] - All four Fives as expressions of Geburah
+- Fives of the Tarot - All four Fives as expressions of Geburah
 
 ### Planetary and Zodiacal
 - [[Venus ♀]] - The planet of love, harmony, and relationship
 - [[Aquarius ♒]] - The sign of detachment, intellect, and the collective
-- [[Venus in Aquarius]] - The specific combination of these energies (detriment)
+- Venus in Aquarius - The specific combination of these energies (detriment)
 
 ### Elemental and Suit
-- [[Air Element]] - The realm of mind and discrimination
-- [[Swords Suit Overview]] - The journey of the intellect
+- Air Element - The realm of mind and discrimination
+- Swords Suit Overview - The journey of the intellect
 
 ### Thematic Groupings
-- [[Cards of Conflict and Strife]] - Battle, argument, competition
-- [[Cards of Hollow Victory]] - Winning that feels like losing
-- [[Cards of Isolation]] - Standing alone, the cost of dominance
+- Cards of Conflict and Strife - Battle, argument, competition
+- Cards of Hollow Victory - Winning that feels like losing
+- Cards of Isolation - Standing alone, the cost of dominance
 
 ### Cross-System References
-- [[Pyrrhic Victory]] - The win that costs more than it gains
-- [[The Art of War]] - Sun Tzu's wisdom on when not to fight
-- [[I Ching Hexagram 6]] - Conflict: stop halfway
-- [[Cain and Abel]] - The ultimate hollow victory
+- Pyrrhic Victory - The win that costs more than it gains
+- The Art of War - Sun Tzu's wisdom on when not to fight
+- I Ching Hexagram 6 - Conflict: stop halfway
+- Cain and Abel - The ultimate hollow victory
 
 ### Psychological
-- [[Intellectual Defense Mechanisms]] - Rationalization, intellectualization
-- [[Narcissism]] - The need to dominate, to be right
-- [[Shadow]] - The cruelty hidden beneath cleverness
-- [[The Ego]] - Its victories and its costs
+- Intellectual Defense Mechanisms - Rationalization, intellectualization
+- Narcissism - The need to dominate, to be right
+- [[The Shadow]] - The cruelty hidden beneath cleverness
+- [[The Self]] - Its victories and its costs
 
 ---
 

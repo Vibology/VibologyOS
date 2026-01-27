@@ -334,31 +334,31 @@ The Two of Cups does not promise that love is easy. It promises that love is *po
 
 ### Sephirotic Connections
 - [[Chokmah]] - The second Sephirah: Wisdom, the Supernal Father
-- [[Cards of Chokmah]] - All Twos across the suits
+- Cards of Chokmah - All Twos across the suits
 
 ### Planetary and Astrological
 - [[Venus ♀]] - The planet of love, beauty, and relationship
 - [[Cancer ♋]] - The sign of home, nurturing, and emotional depth
-- [[Venus in Cancer]] - Love seeking shelter and emotional safety
-- [[First Decan of Cancer]] - The most tender expression of the sign
+- Venus in Cancer - Love seeking shelter and emotional safety
+- First Decan of Cancer - The most tender expression of the sign
 
 ### Elemental and Suit
-- [[Water Element]] - The realm of emotion and intuition
-- [[Cups Suit Overview]] - The journey of the feeling function
-- [[Water Cards]] - All cards attributed to the Water element
+- Water Element - The realm of emotion and intuition
+- Cups Suit Overview - The journey of the feeling function
+- Water Cards - All cards attributed to the Water element
 
 ### Thematic Groupings
-- [[Cards of Love and Relationship]] - Union, partnership, connection
-- [[Cards of Pledge and Commitment]] - Vows, promises, sacred bonds
-- [[The Alchemical Marriage]] - *Coniunctio* across the Tarot
-- [[Healing and Wholeness]] - The Caduceus and the Transcendent Function
+- Cards of Love and Relationship - Union, partnership, connection
+- Cards of Pledge and Commitment - Vows, promises, sacred bonds
+- The Alchemical Marriage - *Coniunctio* across the Tarot
+- Healing and Wholeness - The Caduceus and the Transcendent Function
 
 ### Cross-System References
-- [[Hieros Gamos]] - The sacred marriage archetype
-- [[I Ching Hexagram 31]] - Influence and mutual attraction
-- [[Anima and Animus]] - Jung's soul-images
+- Hieros Gamos - The sacred marriage archetype
+- I Ching Hexagram 31 - Influence and mutual attraction
+- [[The Anima]] - Jung's soul-images
 - [[The Transcendent Function]] - Jung's third-thing principle
-- [[Syzygy]] - The divine pair within
+- Syzygy - The divine pair within
 
 ### Court and Archetypal
 - [[Queen of Cups]] - The mature expression of Water's receptivity

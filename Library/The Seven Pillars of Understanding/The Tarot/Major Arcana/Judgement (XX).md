@@ -190,12 +190,12 @@ The gift of integration: **The capacity to review your life with compassion and 
 
 ## Cross-References
 - **Adjacent Major Arcana**: [[The Sun (XIX)]] ← → [[The World (XXI)]]
-- **Element**: [[Fire]]
+- **Element**: Fire
 - **Planetary**: [[Pluto ♇]]
-- **Path**: [[Path 31 - Malkuth to Hod]]
-- **Hebrew Letter**: [[Shin]]
-- **Thematic Groupings**: [[Resurrection and Rebirth]] | [[The Final Reckoning]] | [[Integration of the Self]]
-- **Cross-References**: [[Michael]], [[Osiris]], [[Phoenix]], [[Weighing of the Heart]], [[Aeon of Horus]]
+- **Path**: Path 31 - Malkuth to Hod
+- **Hebrew Letter**: Shin
+- **Thematic Groupings**: Resurrection and Rebirth | The Final Reckoning | Integration of the Self
+- **Cross-References**: [[Michael]], Osiris, Phoenix, Weighing of the Heart, Aeon of Horus
 
 ---
 

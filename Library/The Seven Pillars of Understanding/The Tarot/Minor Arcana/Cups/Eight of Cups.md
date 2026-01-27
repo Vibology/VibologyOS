@@ -358,40 +358,40 @@ The Lord of Abandoned Success knows that some successes must be abandoned for gr
 
 ### Sephirotic Connections
 - [[Hod]] - The eighth Sephirah: Splendor, intellect, pattern recognition
-- [[Cards of Hod]] - All Eights across the suits
+- Cards of Hod - All Eights across the suits
 
 ### Planetary and Astrological
 - [[Saturn ♄]] - The planet: limitation, time, discipline, renunciation
 - [[Pisces ♓]] - The Fish: dissolution, transcendence, the ocean
-- [[Saturn in Pisces]] - Structured dissolution, wise withdrawal
-- [[First Decan of Pisces]] - The initial entry into Piscean waters
+- Saturn in Pisces - Structured dissolution, wise withdrawal
+- First Decan of Pisces - The initial entry into Piscean waters
 
 ### Elemental and Suit
-- [[Water Element]] - The realm of emotion and the unconscious
-- [[Cups Suit Overview]] - The journey of the heart
-- [[Water Cards]] - All cards attributed to the Water element
-- [[Briah]] - The Creative World, realm of formation and emotion
+- Water Element - The realm of emotion and the unconscious
+- Cups Suit Overview - The journey of the heart
+- Water Cards - All cards attributed to the Water element
+- Briah - The Creative World, realm of formation and emotion
 
 ### Thematic Groupings
-- [[Cards of Departure]] - Leaving, journeying, walking away
-- [[Cards of Renunciation]] - Surrender, release, letting go
-- [[Cards of the Spiritual Path]] - The quest for meaning beyond achievement
+- Cards of Departure - Leaving, journeying, walking away
+- Cards of Renunciation - Surrender, release, letting go
+- Cards of the Spiritual Path - The quest for meaning beyond achievement
 
 ### Cross-System References
-- [[Buddha's Renunciation]] - Leaving the palace for enlightenment
-- [[Desert Fathers]] - Christian withdrawal to the wilderness
-- [[I Ching Hexagram 33]] - Retreat, strategic withdrawal
-- [[Sufi Fana]] - Annihilation of ego, return to source
-- [[Dante's Dark Wood]] - The journey that begins with being lost
+- Buddha's Renunciation - Leaving the palace for enlightenment
+- Desert Fathers - Christian withdrawal to the wilderness
+- I Ching Hexagram 33 - Retreat, strategic withdrawal
+- Sufi Fana - Annihilation of ego, return to source
+- Dante's Dark Wood - The journey that begins with being lost
 
 ### Court and Archetypal
-- [[The Hermit]] - The Major Arcana figure who walks alone
+- [[The Hermit (IX)]] - The Major Arcana figure who walks alone
 - [[King of Cups]] - The mature water nature that has integrated loss and departure
 
 ### Psychological
-- [[Ego and Self]] - The ego's surrender to the Self's demands
-- [[Midlife Transition]] - The crisis of meaning after success
-- [[Individuation]] - The journey toward wholeness that requires leaving the familiar
+- Ego and Self - The ego's surrender to the Self's demands
+- Midlife Transition - The crisis of meaning after success
+- [[Individuation Process]] - The journey toward wholeness that requires leaving the familiar
 - [[The Hero's Journey]] - Departure, initiation, return
 
 ---

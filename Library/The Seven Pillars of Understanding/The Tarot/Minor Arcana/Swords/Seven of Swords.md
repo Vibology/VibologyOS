@@ -310,33 +310,33 @@ The effort is unstable. The question is whether you're using instability strateg
 
 ### Sephirotic Connections
 - [[Netzach]] - The seventh Sephirah: Victory, endurance, desire
-- [[Sevens of the Tarot]] - All four Sevens as expressions of Netzach
+- Sevens of the Tarot - All four Sevens as expressions of Netzach
 
 ### Planetary and Zodiacal
 - [[Moon ☽]] - The emotional, instinctual, fluctuating nature
 - [[Aquarius ♒]] - The sign of detachment, intellect, and unconventionality
-- [[Moon in Aquarius]] - The specific combination of these energies
+- Moon in Aquarius - The specific combination of these energies
 
 ### Elemental and Suit
-- [[Air Element]] - The realm of mind and discrimination
-- [[Swords Suit Overview]] - The journey of the intellect
+- Air Element - The realm of mind and discrimination
+- Swords Suit Overview - The journey of the intellect
 
 ### Thematic Groupings
-- [[Cards of Strategy and Cunning]] - Indirect action, cleverness
-- [[Cards of Deception]] - Lies, concealment, hidden truth
-- [[Cards of the Trickster]] - Boundary-crossing, rule-breaking
+- Cards of Strategy and Cunning - Indirect action, cleverness
+- Cards of Deception - Lies, concealment, hidden truth
+- Cards of the Trickster - Boundary-crossing, rule-breaking
 
 ### Cross-System References
-- [[The Trickster Archetype]] - Hermes, Loki, Coyote, Anansi
-- [[The Art of War]] - Sun Tzu's wisdom on indirect strategy
-- [[I Ching Hexagram 36]] - Darkening of the Light: necessary concealment
-- [[Odysseus]] - The man of many turns, the hero of cunning
+- The Trickster Archetype - Hermes, Loki, Coyote, Anansi
+- The Art of War - Sun Tzu's wisdom on indirect strategy
+- I Ching Hexagram 36 - Darkening of the Light: necessary concealment
+- Odysseus - The man of many turns, the hero of cunning
 
 ### Psychological
-- [[The Trickster]] - Jung's archetype of boundary-crossing
+- The Trickster - Jung's archetype of boundary-crossing
 - [[The Shadow]] - The unconscious's clever evasions
-- [[Deception]] - The psychology of lies and concealment
-- [[Adaptation]] - The capacity to shift strategies
+- Deception - The psychology of lies and concealment
+- Adaptation - The capacity to shift strategies
 
 ---
 

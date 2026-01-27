@@ -327,35 +327,35 @@ The Ace of Wands teaches: **You are not the source, but you are the instrument.*
 
 ### Sephirotic Connections
 - [[Kether]] - The first Sephirah: Crown, source, unity
-- [[Aces of the Tarot]] - All four Aces as expressions of Kether
+- Aces of the Tarot - All four Aces as expressions of Kether
 
 ### Elemental and Suit
-- [[Fire Element]] - The realm of will and creative action
-- [[Wands Suit Overview]] - The journey of the creative impulse
-- [[Fire Cards]] - All cards attributed to the Fire element
-- [[Atziluth]] - The World of Pure Spirit, realm of divine names
+- Fire Element - The realm of will and creative action
+- Wands Suit Overview - The journey of the creative impulse
+- Fire Cards - All cards attributed to the Fire element
+- Atziluth - The World of Pure Spirit, realm of divine names
 
 ### Thematic Groupings
-- [[Cards of Beginning and Initiation]] - Starting points, new chapters
-- [[Cards of Creative Force]] - Will, making, building
-- [[The Gift Cards]] - Divine offerings that must be accepted
-- [[Kether Across the Four Worlds]] - How the Crown manifests in each element
+- Cards of Beginning and Initiation - Starting points, new chapters
+- Cards of Creative Force - Will, making, building
+- The Gift Cards - Divine offerings that must be accepted
+- Kether Across the Four Worlds - How the Crown manifests in each element
 
 ### Cross-System References
-- [[Fiat Lux]] - "Let there be light": the first creative act
-- [[Axis Mundi]] - The World Tree, cosmic center
+- Fiat Lux - "Let there be light": the first creative act
+- Axis Mundi - The World Tree, cosmic center
 - [[Prometheus]] - The fire-bringer, theft of divine creative power
-- [[Kundalini]] - The serpent fire, spiritual awakening
-- [[I Ching Hexagram 1]] - The Creative: pure yang force
-- [[Libido (Jung)]] - Psychic energy, life force
+- Kundalini - The serpent fire, spiritual awakening
+- I Ching Hexagram 1 - The Creative: pure yang force
+- Libido (Jung) - Psychic energy, life force
 
 ### Court and Archetypal
 - [[King of Wands]] - The mature expression of Fire's creative sovereignty
 - [[Knight of Wands]] - Fire's questing, dynamic aspect
 
 ### Psychological
-- [[Animus]] - The inner masculine creative principle
-- [[Individuation]] - The call to conscious self-creation
+- [[The Animus]] - The inner masculine creative principle
+- [[Individuation Process]] - The call to conscious self-creation
 
 ---
 

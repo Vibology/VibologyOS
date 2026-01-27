@@ -154,12 +154,12 @@ TBD
 - [[The Hermit (IX)]] - The withdrawal before the new cycle
 - [[Justice (XI)]] - The karmic law the Wheel enacts
 - [[The World (XXI)]] - The completion the Wheel promises
-- [[Kaph - Hebrew Letters in Tarot]]
-- [[Kabbalistic Paths - Chesed to Netzach]]
-- [[Jupiter in Esoteric Systems]]
-- [[The Wheel of the Year]]
-- [[Karma and Cyclic Law]]
-- [[The Intelligence of Conciliation]]
+- Kaph - Hebrew Letters in Tarot
+- Kabbalistic Paths - Chesed to Netzach
+- Jupiter in Esoteric Systems
+- The Wheel of the Year
+- Karma and Cyclic Law
+- The Intelligence of Conciliation
 
 ---
 

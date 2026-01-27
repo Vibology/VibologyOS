@@ -312,40 +312,40 @@ The question the Three asks is not "How can I skip to mastery?" but "Am I willin
 
 ### Sephirotic Connections
 - [[Binah]] - The third Sephirah: Understanding, form, structure, the Great Mother
-- [[Threes of the Tarot]] - All four Threes as expressions of Binah
+- Threes of the Tarot - All four Threes as expressions of Binah
 
 ### Planetary and Astrological
 - [[Mars ♂]] - The planet of energy, action, and disciplined force
 - [[Capricorn ♑]] - The sign of structure, ambition, and enduring achievement
-- [[Mars in Capricorn]] - Constructive force, energy yoked to structure
-- [[Second Decan of Capricorn]] - The middle phase of the climb
+- Mars in Capricorn - Constructive force, energy yoked to structure
+- Second Decan of Capricorn - The middle phase of the climb
 
 ### Elemental and Suit
-- [[Earth Element]] - The realm of matter and manifestation
-- [[Pentacles Suit Overview]] - The journey of embodiment and material mastery
-- [[Earth Cards]] - All cards attributed to the Earth element
-- [[Assiah]] - The Material World, realm of action and construction
+- Earth Element - The realm of matter and manifestation
+- Pentacles Suit Overview - The journey of embodiment and material mastery
+- Earth Cards - All cards attributed to the Earth element
+- Assiah - The Material World, realm of action and construction
 
 ### Thematic Groupings
-- [[Cards of Craftsmanship and Skill]] - Mastery through practice
-- [[Cards of Collaboration]] - Teamwork, integration of perspectives
-- [[Cards of Work and Labor]] - Employment, recognition, productive effort
-- [[Cards of Building]] - Construction, structure, patient accumulation
+- Cards of Craftsmanship and Skill - Mastery through practice
+- Cards of Collaboration - Teamwork, integration of perspectives
+- Cards of Work and Labor - Employment, recognition, productive effort
+- Cards of Building - Construction, structure, patient accumulation
 
 ### Cross-System References
-- [[Freemasonry]] - The Master Mason and the building of the temple
-- [[Medieval Guilds]] - Apprenticeship, journeyman work, and mastery
-- [[The Great Work]] - Alchemical slow transmutation
-- [[I Ching Hexagram 18]] - Work on what has been spoiled: restoration through effort
-- [[The Cathedral Builders]] - Multigenerational collaborative projects
+- Freemasonry - The Master Mason and the building of the temple
+- Medieval Guilds - Apprenticeship, journeyman work, and mastery
+- The Great Work - Alchemical slow transmutation
+- I Ching Hexagram 18 - Work on what has been spoiled: restoration through effort
+- The Cathedral Builders - Multigenerational collaborative projects
 
 ### Court and Archetypal
 - [[King of Pentacles]] - The mature master who has completed the work the Three begins
 
 ### Psychological
-- [[Individuation]] - The daily work of becoming whole
-- [[The Ego]] - Developing competence through disciplined practice
-- [[Integration of Body, Mind, Spirit]] - Wholeness through collaboration of parts
+- [[Individuation Process]] - The daily work of becoming whole
+- [[The Self]] - Developing competence through disciplined practice
+- Integration of Body, Mind, Spirit - Wholeness through collaboration of parts
 
 ---
 *"The cathedral is not built in a day, nor by a single hand—but stone by stone, through collaboration and craft."*

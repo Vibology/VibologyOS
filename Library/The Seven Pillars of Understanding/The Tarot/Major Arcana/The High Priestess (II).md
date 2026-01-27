@@ -154,12 +154,12 @@ TBD
 - [[The Fool (0)]] - The primal breath that enters her temple
 - [[The Magician (I)]] - Her complementary path of Will
 - [[The Empress (III)]] - The door through which her consciousness enters form
-- [[Gimel - Hebrew Letters in Tarot]]
-- [[Kabbalistic Paths - Crossing the Abyss]]
-- [[The Moon in Esoteric Systems]]
-- [[The Pillars of the Temple]]
-- [[Shekinah and the Divine Feminine]]
-- [[Cards of Mystery and Hidden Knowledge]]
+- Gimel - Hebrew Letters in Tarot
+- Kabbalistic Paths - Crossing the Abyss
+- The Moon in Esoteric Systems
+- The Pillars of the Temple
+- Shekinah and the Divine Feminine
+- Cards of Mystery and Hidden Knowledge
 
 ---
 

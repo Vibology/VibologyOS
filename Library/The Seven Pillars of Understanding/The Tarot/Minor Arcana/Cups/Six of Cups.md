@@ -350,31 +350,31 @@ The Lord of Pleasure is the pleasure of remembering well—neither clinging nor 
 
 ### Sephirotic Connections
 - [[Tiphareth]] - The sixth Sephirah: Beauty, harmony, the heart-center
-- [[Cards of Tiphareth]] - All Sixes across the suits
+- Cards of Tiphareth - All Sixes across the suits
 
 ### Planetary and Astrological
-- [[The Sun]] - The luminary: consciousness, vitality, illumination
+- [[The Sun (XIX)]] - The luminary: consciousness, vitality, illumination
 - [[Scorpio ♏]] - The Scorpion: depth, transformation, the underworld
-- [[Sun in Scorpio]] - Light descending into depth, consciousness in shadow
-- [[Second Decan of Scorpio]] - The middle passage through Scorpionic territory
+- Sun in Scorpio - Light descending into depth, consciousness in shadow
+- Second Decan of Scorpio - The middle passage through Scorpionic territory
 
 ### Elemental and Suit
-- [[Water Element]] - The realm of emotion and the unconscious
-- [[Cups Suit Overview]] - The journey of the heart
-- [[Water Cards]] - All cards attributed to the Water element
-- [[Briah]] - The Creative World, realm of formation and emotion
+- Water Element - The realm of emotion and the unconscious
+- Cups Suit Overview - The journey of the heart
+- Water Cards - All cards attributed to the Water element
+- Briah - The Creative World, realm of formation and emotion
 
 ### Thematic Groupings
-- [[Cards of Memory]] - Nostalgia, the past, remembrance
-- [[Cards of Innocence]] - Childhood, purity, openness
-- [[Cards of Generosity]] - Giving, sharing, overflow
+- Cards of Memory - Nostalgia, the past, remembrance
+- Cards of Innocence - Childhood, purity, openness
+- Cards of Generosity - Giving, sharing, overflow
 
 ### Cross-System References
-- [[Garden of Eden]] - Paradise, innocence before the Fall
-- [[Platonic Anamnesis]] - Learning as remembering, knowledge as recovery
-- [[I Ching Hexagram 58]] - The Joyous, the lake, natural pleasure
-- [[Proust's Madeleine]] - Involuntary memory, the past triggered by sensation
-- [[Buddhist Dependent Arising]] - The present arising from the past
+- Garden of Eden - Paradise, innocence before the Fall
+- Platonic Anamnesis - Learning as remembering, knowledge as recovery
+- I Ching Hexagram 58 - The Joyous, the lake, natural pleasure
+- Proust's Madeleine - Involuntary memory, the past triggered by sensation
+- Buddhist Dependent Arising - The present arising from the past
 
 ### Court and Archetypal
 - [[Page of Cups]] - The youthful, imaginative water nature
@@ -383,8 +383,8 @@ The Lord of Pleasure is the pleasure of remembering well—neither clinging nor 
 ### Psychological
 - [[The Inner Child]] - The childlike aspects of the psyche, creativity and wonder
 - [[Puer and Puella]] - The archetype of eternal youth, potential and its shadow
-- [[Individuation]] - Memory as resource for psychological development
-- [[Collective Unconscious]] - Personal memory connecting to archetypal memory
+- [[Individuation Process]] - Memory as resource for psychological development
+- Collective Unconscious - Personal memory connecting to archetypal memory
 
 ---
 

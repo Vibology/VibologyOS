@@ -214,8 +214,8 @@ When the Nine of Cups emerges in reading or contemplation, consider:
 - [[Ten of Cups]] - The completion that follows the Nine's fulfillment
 - [[Four of Cups]] - The discontent that the Nine has healed
 - [[Seven of Cups]] - The illusions that the Nine has clarified
-- [[The Moon]] - Yesod's planetary ruler, the reflective consciousness
-- [[Holy Grail]] - The mythic resonance of the wish-granting cup
+- [[The Moon (XVIII)]] - Yesod's planetary ruler, the reflective consciousness
+- Holy Grail - The mythic resonance of the wish-granting cup
 
 ---
 

@@ -332,35 +332,35 @@ The question the Ace asks is not "Will you accept clarity?" but "How will you us
 
 ### Sephirotic Connections
 - [[Kether]] - The first Sephirah: Crown, source, unity
-- [[Aces of the Tarot]] - All four Aces as expressions of Kether
+- Aces of the Tarot - All four Aces as expressions of Kether
 
 ### Elemental and Suit
-- [[Air Element]] - The realm of mind and discrimination
-- [[Swords Suit Overview]] - The journey of the intellect
-- [[Air Cards]] - All cards attributed to the Air element
-- [[Yetzirah]] - The Formative World, realm of angels and formation
+- Air Element - The realm of mind and discrimination
+- Swords Suit Overview - The journey of the intellect
+- Air Cards - All cards attributed to the Air element
+- Yetzirah - The Formative World, realm of angels and formation
 
 ### Thematic Groupings
-- [[Cards of Clarity and Truth]] - Mental breakthrough, insight
-- [[Cards of Decision]] - Choice, judgment, discrimination
-- [[The Gift Cards]] - Divine offerings that must be accepted
-- [[Kether Across the Four Worlds]] - How the Crown manifests in each element
+- Cards of Clarity and Truth - Mental breakthrough, insight
+- Cards of Decision - Choice, judgment, discrimination
+- The Gift Cards - Divine offerings that must be accepted
+- Kether Across the Four Worlds - How the Crown manifests in each element
 
 ### Cross-System References
 - [[Logos]] - The Word, the principle of rational order
-- [[Excalibur]] - The sword of the rightful king
-- [[Flaming Sword of Eden]] - The guardian of the Tree of Life
-- [[I Ching Hexagram 57]] - The Gentle/Penetrating: wind, subtle force
-- [[Discriminating Consciousness]] - The birth of the ego through distinction
+- Excalibur - The sword of the rightful king
+- Flaming Sword of Eden - The guardian of the Tree of Life
+- I Ching Hexagram 57 - The Gentle/Penetrating: wind, subtle force
+- Discriminating Consciousness - The birth of the ego through distinction
 
 ### Court and Archetypal
 - [[King of Swords]] - The mature expression of Air's intellectual sovereignty
 - [[Queen of Swords]] - Air's receptive mastery of clarity and perception
 
 ### Psychological
-- [[Animus]] - The inner principle of logos and discrimination
-- [[Individuation]] - The capacity to distinguish self from shadow
-- [[The Thinking Function]] - Jung's typology: the discriminating faculty
+- [[The Animus]] - The inner principle of logos and discrimination
+- [[Individuation Process]] - The capacity to distinguish self from shadow
+- The Thinking Function - Jung's typology: the discriminating faculty
 
 ---
 

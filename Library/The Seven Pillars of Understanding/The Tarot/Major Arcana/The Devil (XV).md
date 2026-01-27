@@ -106,7 +106,7 @@ The Rider-Waite depiction of The Devil is one of the most misunderstood in the d
 
 - **The Inverted Torch**: In the Devil's **left hand** (the sinister side, the side of the unconscious), he holds a **torch pointed downward**, toward the earth. This is the *inverted light*—consciousness directed not toward illumination but toward *raw, destructive power*. The torch is also a phallic symbol, representing sexual energy disconnected from love, used for domination rather than creation.
 
-- **The Right Hand Raised in Blessing (or Curse)**: The Devil's **right hand** is raised in a gesture that mimics benediction—but it is a mockery of blessing. The fingers form the sign of esotericism, but inverted. Where [[The Hierophant]] blesses with conscious authority, The Devil "blesses" with unconscious compulsion.
+- **The Right Hand Raised in Blessing (or Curse)**: The Devil's **right hand** is raised in a gesture that mimics benediction—but it is a mockery of blessing. The fingers form the sign of esotericism, but inverted. Where [[The Hierophant (V)]] blesses with conscious authority, The Devil "blesses" with unconscious compulsion.
 
 - **The Chains Around the Necks of the Figures**: Two **naked human figures**—male and female—stand on a pedestal beneath The Devil, each with a **loose chain** around their neck attached to the pedestal. This is the crucial detail: **the chains are loose enough to remove**. The figures are not locked in place—they *choose* to remain. The chains symbolize the **illusion of bondage**: the belief that "I have no choice," when in fact the choice has always been present.
 
@@ -120,7 +120,7 @@ The Rider-Waite depiction of The Devil is one of the most misunderstood in the d
 
 - **The Pedestal (Half-Cube Altar)**: The figures stand on a **half-cube pedestal**, a platform that is only *half* of a full cube. This symbolizes that the **average person's understanding of the universe is only half-complete**—a limited, material-only perspective of the full "cube" of reality. The full cube would include both the material (the visible half) and the spiritual (the invisible half). The Devil's realm is the realm of *half-truth*: the belief that matter is all that exists.
 
-- **The Black Background**: The background is **black**, not the luminous darkness of potential (as in [[The High Priestess]]) but the **void of ignorance**, the absence of light. There is no horizon, no landscape, no context—only the Devil, the figures, and the chains. This is the claustrophobic world of material obsession: there is nothing beyond this.
+- **The Black Background**: The background is **black**, not the luminous darkness of potential (as in [[The High Priestess (II)]]) but the **void of ignorance**, the absence of light. There is no horizon, no landscape, no context—only the Devil, the figures, and the chains. This is the claustrophobic world of material obsession: there is nothing beyond this.
 
 ### Core Paradoxes and Mysteries
 
@@ -199,12 +199,12 @@ The gift of integration: **The Devil is redeemed when he is *seen***. Not conque
 
 ## Cross-References
 - **Adjacent Major Arcana**: [[Temperance (XIV)]] ← → [[The Tower (XVI)]]
-- **Element/Modality**: [[Capricorn ♑]] | [[Cardinal Earth]]
+- **Element/Modality**: [[Capricorn ♑]] | Cardinal Earth
 - **Planetary**: [[Saturn ♄]] (ruler) | [[Mars ♂]] (exalted)
-- **Path**: [[Path 26 - Tiphareth to Hod]]
-- **Hebrew Letter**: [[Ayin]]
-- **Thematic Groupings**: [[The Shadow Cards]] | [[Bondage and Liberation]] | [[Material vs. Spiritual]]
-- **Cross-References**: [[Pan]], [[Baphomet]], [[Gnostic Demiurge]], [[Dweller on the Threshold]], [[The Lovers]]
+- **Path**: Path 26 - Tiphareth to Hod
+- **Hebrew Letter**: Ayin
+- **Thematic Groupings**: The Shadow Cards | Bondage and Liberation | Material vs. Spiritual
+- **Cross-References**: Pan, Baphomet, Gnostic Demiurge, Dweller on the Threshold, [[The Lovers (VI)]]
 
 ---
 

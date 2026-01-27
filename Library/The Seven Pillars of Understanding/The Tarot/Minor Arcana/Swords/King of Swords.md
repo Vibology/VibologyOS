@@ -321,37 +321,37 @@ The just King knows when to wield the sword and when to sheathe it. The tyrant k
 - [[King of Pentacles]] - Fire of Earth: material authority, the builder king
 
 ### Elemental Connections
-- [[Air Element]] - The realm of mind and discrimination
-- [[Fire Element]] - The realm of will and command
-- [[Fire of Air]] - The specific combination: sovereign intellect
-- [[The Kings]] - All four Kings as sovereign masters of their elements
+- Air Element - The realm of mind and discrimination
+- Fire Element - The realm of will and command
+- Fire of Air - The specific combination: sovereign intellect
+- The Kings - All four Kings as sovereign masters of their elements
 
 ### Archetypal and Developmental
-- [[The Father]] - The patriarch who teaches through logic
-- [[The Judge]] - The one who renders verdict
-- [[The King]] - Sovereign authority and command
-- [[The Lawgiver]] - The one who establishes order
-- [[The General]] - Strategic command
+- The Father - The patriarch who teaches through logic
+- The Judge - The one who renders verdict
+- The King - Sovereign authority and command
+- The Lawgiver - The one who establishes order
+- The General - Strategic command
 
 ### Thematic Groupings
-- [[Cards of Authority]] - Power, command, sovereignty
-- [[Cards of Judgment]] - Verdict, decision, consequence
-- [[Cards of Law]] - Rules, boundaries, order
-- [[Cards of Intellect]] - Mind, logic, strategy
+- Cards of Authority - Power, command, sovereignty
+- Cards of Judgment - Verdict, decision, consequence
+- Cards of Law - Rules, boundaries, order
+- Cards of Intellect - Mind, logic, strategy
 
 ### Cross-System References
-- [[Solomon]] - The wise king whose judgment reveals truth
-- [[Odin]] - The Allfather: wisdom and authority
-- [[Maat]] - Egyptian goddess of truth and justice
-- [[The Emperor]] - Major Arcana: structure and authority
-- [[I Ching Hexagram 13]] - Fellowship: organizing through principle
+- Solomon - The wise king whose judgment reveals truth
+- Odin - The Allfather: wisdom and authority
+- Maat - Egyptian goddess of truth and justice
+- [[The Emperor (IV)]] - Major Arcana: structure and authority
+- I Ching Hexagram 13 - Fellowship: organizing through principle
 
 ### Psychological
-- [[The Father Archetype]] - Jung's concept of logos and law
-- [[The Superego]] - Internalized authority and conscience
+- The Father Archetype - Jung's concept of logos and law
+- The Superego - Internalized authority and conscience
 - [[The Senex]] - The wise elder who provides structure
-- [[Sovereign Intellect]] - Mind brought to full command
-- [[Authority vs Tyranny]] - The line between service and domination
+- Sovereign Intellect - Mind brought to full command
+- Authority vs Tyranny - The line between service and domination
 
 ---
 

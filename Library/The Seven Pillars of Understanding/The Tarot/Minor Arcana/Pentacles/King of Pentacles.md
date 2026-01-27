@@ -171,34 +171,34 @@ The teaching: The King who hoards is not king at all—he is prisoner of his hoa
 - [[King of Swords]] - Intellectual mastery, judicial authority (air)
 
 ### Court Card Progressions
-- [[Kings of the Tarot]] - All four Kings as expressions of Fire (sovereign authority)
-- [[Pentacles Court Cards]] - Page → Knight → Queen → King (progression of material mastery)
+- Kings of the Tarot - All four Kings as expressions of Fire (sovereign authority)
+- Pentacles Court Cards - Page → Knight → Queen → King (progression of material mastery)
 
 ### Elemental Correspondences
-- [[Fire Element]] - Will, creativity, sovereignty, active force
-- [[Earth Element]] - Manifestation, resources, structure, endurance
-- [[Fire of Earth]] - Will manifesting as tangible structure
+- Fire Element - Will, creativity, sovereignty, active force
+- Earth Element - Manifestation, resources, structure, endurance
+- Fire of Earth - Will manifesting as tangible structure
 - [[Taurus ♉]] - Fixed earth, immovable strength, patient accumulation
 - [[Virgo ♍]] - Mutable earth, intelligent organization, practical mastery
 - [[Capricorn ♑]] - Cardinal earth, executive power, disciplined sovereignty
 
 ### Thematic Groupings
-- [[Cards of Mastery]] - Excellence, sovereignty, competence
-- [[Cards of Building]] - Creating systems, structures, enterprises
-- [[Cards of Generative Power]] - Authority used to serve, not dominate
-- [[Cards of Material Success]] - Wealth, prosperity, tangible achievement
+- Cards of Mastery - Excellence, sovereignty, competence
+- Cards of Building - Creating systems, structures, enterprises
+- Cards of Generative Power - Authority used to serve, not dominate
+- Cards of Material Success - Wealth, prosperity, tangible achievement
 
 ### Cross-System References
-- [[The Philosopher's Stone]] - Alchemical completion, spirit made matter
-- [[King Solomon]] - Wisdom manifesting as righteous prosperity
-- [[The Master Builder]] - Creating structures that serve beyond one lifetime
-- [[Generative vs. Extractive Power]] - Building versus hoarding
+- The Philosopher's Stone - Alchemical completion, spirit made matter
+- King Solomon - Wisdom manifesting as righteous prosperity
+- The Master Builder - Creating structures that serve beyond one lifetime
+- Generative vs. Extractive Power - Building versus hoarding
 
 ### Psychological
-- [[Executive Function]] - The capacity to organize, plan, execute
-- [[The Provider-Father Archetype]] - Masculine principle as builder and teacher
-- [[Workaholism]] - Shadow: defining self entirely by productivity
-- [[The Midas Curse]] - Shadow: everything becomes gold, including what should live
+- Executive Function - The capacity to organize, plan, execute
+- The Provider-Father Archetype - Masculine principle as builder and teacher
+- Workaholism - Shadow: defining self entirely by productivity
+- The Midas Curse - Shadow: everything becomes gold, including what should live
 
 ---
 *"The king who builds a kingdom that outlasts him is wealthier than the emperor who hoards gold that will be scattered when he dies."*

@@ -168,7 +168,7 @@ Death is the nigredo of the soul: the dark night, the dissolution, the descent i
 
 ### Psychological and Jungian Depth
 
-In Jungian terms, Death represents **ego-death**—the dissolution of the false self so the [[Self]] can emerge. The ego is the personality structure, the "I" that believes it is the center. Death is the recognition that *the ego is not the center*—it is a temporary construct, a vehicle for consciousness, not consciousness itself.
+In Jungian terms, Death represents **ego-death**—the dissolution of the false self so the [[The Self]] can emerge. The ego is the personality structure, the "I" that believes it is the center. Death is the recognition that *the ego is not the center*—it is a temporary construct, a vehicle for consciousness, not consciousness itself.
 
 Jung called this process *mortificatio*—the alchemical death, the blackening, the phase when "all that is not essential is burned away." Mortificatio is painful because the ego *experiences it as annihilation*. But from the Self's perspective, it is liberation.
 
@@ -193,12 +193,12 @@ The gift of integration: **Learning to let go with grace**. Death teaches that *
 
 ## Cross-References
 - **Adjacent Major Arcana**: [[The Hanged Man (XII)]] ← → [[Temperance (XIV)]]
-- **Element/Modality**: [[Scorpio ♏]] | [[Fixed Water]]
+- **Element/Modality**: [[Scorpio ♏]] | Fixed Water
 - **Planetary**: [[Mars ♂]] | [[Pluto ♇]]
-- **Path**: [[Path 24 - Netzach to Tiphareth]]
-- **Hebrew Letter**: [[Nun]]
-- **Thematic Groupings**: [[The Transformation Cards]] | [[Death and Rebirth]] | [[The Alchemical Path]]
-- **Cross-References**: [[Osiris]], [[Kali]], [[Phoenix]], [[Mortificatio]], [[Nigredo]]
+- **Path**: Path 24 - Netzach to Tiphareth
+- **Hebrew Letter**: Nun
+- **Thematic Groupings**: The Transformation Cards | Death and Rebirth | The Alchemical Path
+- **Cross-References**: Osiris, Kali, Phoenix, Mortificatio, [[Nigredo]]
 
 ---
 

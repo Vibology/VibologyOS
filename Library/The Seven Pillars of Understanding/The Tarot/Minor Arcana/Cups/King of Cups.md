@@ -214,12 +214,12 @@ When the King of Cups emerges in reading or contemplation, consider:
 - [[Page of Cups]] - The beginning stage the King has mastered
 - [[Knight of Cups]] - The active expression the King has integrated and transcended
 - [[Ace of Cups]] - The pure overflow that the King can direct
-- [[Animus]] - The inner masculine the King embodies at highest level
-- [[Fire Element]] - The King's primary element, the directing will
-- [[Water Element]] - The element the King has achieved sovereignty over
+- [[The Animus]] - The inner masculine the King embodies at highest level
+- Fire Element - The King's primary element, the directing will
+- Water Element - The element the King has achieved sovereignty over
 - [[King of Wands]] - The fire-King, the King of creative command
-- [[Alchemy]] - The transformation the King performs with emotional material
-- [[Emotional Intelligence]] - The core capacity the King embodies
+- Alchemy - The transformation the King performs with emotional material
+- Emotional Intelligence - The core capacity the King embodies
 
 ---
 

@@ -316,39 +316,39 @@ The paradox: to truly celebrate with others, you must first know who you are cel
 
 ### Sephirotic Connections
 - [[Binah]] - The third Sephirah: Understanding, the Great Mother
-- [[Cards of Binah]] - All Threes across the suits
+- Cards of Binah - All Threes across the suits
 
 ### Planetary and Astrological
-- [[Astrology/Planets/Mercury # ☿]] - The planet of communication and connection
+- [[Mercury ☿]] - The planet of communication and connection
 - [[Cancer ♋]] - The sign of home, nurturing, and belonging
-- [[Mercury in Cancer]] - Communication that nurtures and includes
-- [[Second Decan of Cancer]] - The most sociable expression of the sign
+- Mercury in Cancer - Communication that nurtures and includes
+- Second Decan of Cancer - The most sociable expression of the sign
 
 ### Elemental and Suit
-- [[Water Element]] - The realm of emotion and relationship
-- [[Cups Suit Overview]] - The journey of the feeling function
-- [[Water Cards]] - All cards attributed to the Water element
+- Water Element - The realm of emotion and relationship
+- Cups Suit Overview - The journey of the feeling function
+- Water Cards - All cards attributed to the Water element
 
 ### Thematic Groupings
-- [[Cards of Celebration]] - Joy, festivity, communal gathering
-- [[Cards of Friendship]] - Non-romantic love and connection
-- [[Cards of Abundance]] - Harvest, plenty, overflow
-- [[The Feminine Collective]] - Sisterhood, women's circles, the Triple Goddess
+- Cards of Celebration - Joy, festivity, communal gathering
+- Cards of Friendship - Non-romantic love and connection
+- Cards of Abundance - Harvest, plenty, overflow
+- The Feminine Collective - Sisterhood, women's circles, the Triple Goddess
 
 ### Cross-System References
-- [[The Three Graces]] - Charites, goddesses of charm and celebration
-- [[The Harvest Festival]] - Ritual celebration of abundance
-- [[I Ching Hexagram 58]] - Tui, The Joyous (Lake)
-- [[Triple Goddess]] - Maiden, Mother, Crone
+- The Three Graces - Charites, goddesses of charm and celebration
+- The Harvest Festival - Ritual celebration of abundance
+- I Ching Hexagram 58 - Tui, The Joyous (Lake)
+- Triple Goddess - Maiden, Mother, Crone
 
 ### Court and Archetypal
 - [[Queen of Cups]] - The mature expression of Water's nurturing depth
 - [[Page of Cups]] - The youthful expression of emotional openness
 
 ### Psychological
-- [[Belonging]] - The need for community without self-loss
-- [[The Return]] - The hero's reintegration with community
-- [[Individuation]] - The journey that must be shared
+- Belonging - The need for community without self-loss
+- The Return - The hero's reintegration with community
+- [[Individuation Process]] - The journey that must be shared
 
 ---
 

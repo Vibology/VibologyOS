@@ -418,43 +418,43 @@ The Nine of Wands teaches: **Your scars are not proof of weakness. They are proo
 
 ### Sephirotic Connections
 - [[Yesod]] - The ninth Sephirah: Foundation, astral realm, storehouse of images, Moon's sphere
-- [[Cards of Yesod]] - All cards attributed to the sphere of Foundation
-- [[Nines of the Tarot]] - The nine as threshold, near-completion, the ninth hour
-- [[The Astral Triangle]] - Netzach, Hod, Yesod: the realm of Personality
+- Cards of Yesod - All cards attributed to the sphere of Foundation
+- Nines of the Tarot - The nine as threshold, near-completion, the ninth hour
+- The Astral Triangle - Netzach, Hod, Yesod: the realm of Personality
 
 ### Planetary and Astrological
 - [[Moon ☽]] - The luminary of emotion, memory, protection, cycles, the unconscious
 - [[Sagittarius ♐]] - The mutable fire sign: the quest, the arrow, philosophy, the far horizon
-- [[Moon in Sagittarius]] - Emotional restlessness, questing for security, optimism scarred by experience
-- [[Third Decan of Sagittarius]] - The specific zodiacal section (20°-30° Sagittarius)
+- Moon in Sagittarius - Emotional restlessness, questing for security, optimism scarred by experience
+- Third Decan of Sagittarius - The specific zodiacal section (20°-30° Sagittarius)
 
 ### Elemental and Suit
-- [[Fire Element]] - The realm of will and creative action
-- [[Wands Suit Overview]] - The journey of the creative impulse
-- [[Fire at Yesod]] - How Fire manifests as depletion, recovery, defensive consolidation
-- [[Tempered Fire]] - Fire that has learned caution, defensive rather than aggressive
-- [[Atziluth]] - The World of Pure Spirit, realm of divine names
+- Fire Element - The realm of will and creative action
+- Wands Suit Overview - The journey of the creative impulse
+- Fire at Yesod - How Fire manifests as depletion, recovery, defensive consolidation
+- Tempered Fire - Fire that has learned caution, defensive rather than aggressive
+- Atziluth - The World of Pure Spirit, realm of divine names
 
 ### Thematic Groupings
-- [[Cards of Resilience and Endurance]] - Surviving adversity, strength through wounding
-- [[Cards of Vigilance and Defense]] - Guarding resources, watchfulness, defensive positioning
-- [[Cards of Recovery and Integration]] - Healing from trauma, tending wounds, consolidation
-- [[Cards of Threshold and Liminality]] - The pause before completion, the ninth hour, near-end
+- Cards of Resilience and Endurance - Surviving adversity, strength through wounding
+- Cards of Vigilance and Defense - Guarding resources, watchfulness, defensive positioning
+- Cards of Recovery and Integration - Healing from trauma, tending wounds, consolidation
+- Cards of Threshold and Liminality - The pause before completion, the ninth hour, near-end
 
 ### Cross-System and Mythological References
-- [[Odin's Nine Nights]] - Hanging on Yggdrasil, ordeal for wisdom, sacrifice for knowledge
-- [[Heracles's Ninth Labor]] - Near-completion but depleted, exhaustion at threshold
-- [[The Ninth Paramita (Bala)]] - Buddhist strength/power, resilience earned through trial
-- [[The Wounded King]] - Fisher King guarding the Grail, wounded but functional, waiting for healing
-- [[Fudoshin]] - Japanese "immovable mind," unshakable spirit, centered calm amid adversity
-- [[Kintsugi]] - Japanese art of golden repair, strength through visible scars
+- Odin's Nine Nights - Hanging on Yggdrasil, ordeal for wisdom, sacrifice for knowledge
+- Heracles's Ninth Labor - Near-completion but depleted, exhaustion at threshold
+- The Ninth Paramita (Bala) - Buddhist strength/power, resilience earned through trial
+- The Wounded King - Fisher King guarding the Grail, wounded but functional, waiting for healing
+- Fudoshin - Japanese "immovable mind," unshakable spirit, centered calm amid adversity
+- Kintsugi - Japanese art of golden repair, strength through visible scars
 
 ### Psychological and Archetypal
-- [[Post-Traumatic Growth]] - Resilience, wisdom, healthy boundaries emerging from trauma
-- [[Post-Traumatic Stress]] - Hyper-vigilance, paranoia, identification with woundedness
-- [[Ego Defensive Structures]] - Walls built for protection that can become prisons
-- [[The Wounded Healer]] - Strength to guide others through pain you have survived yourself
-- [[Integration of Trauma]] - Tending wounds, acknowledging damage, transforming scars into wisdom
+- Post-Traumatic Growth - Resilience, wisdom, healthy boundaries emerging from trauma
+- Post-Traumatic Stress - Hyper-vigilance, paranoia, identification with woundedness
+- Ego Defensive Structures - Walls built for protection that can become prisons
+- The Wounded Healer - Strength to guide others through pain you have survived yourself
+- Integration of Trauma - Tending wounds, acknowledging damage, transforming scars into wisdom
 
 ### Court and Related
 - [[King of Wands]] - The mature sovereign who has integrated all trials, wisdom of experience
@@ -462,10 +462,10 @@ The Nine of Wands teaches: **Your scars are not proof of weakness. They are proo
 - [[Queen of Wands]] - The magnetic authority who balances power with care for self
 
 ### Paradoxes and Mysteries
-- [[Strength Through Wounding]] - True strength is not invulnerability but resilience
-- [[Vigilance vs. Imprisonment]] - When does the wall that protects become the wall that confines?
-- [[Recovery vs. Stagnation]] - Necessary pause or permanent paralysis?
-- [[The Ninth Hour]] - The threshold just before completion, the hardest moment of the journey
+- Strength Through Wounding - True strength is not invulnerability but resilience
+- Vigilance vs. Imprisonment - When does the wall that protects become the wall that confines?
+- Recovery vs. Stagnation - Necessary pause or permanent paralysis?
+- The Ninth Hour - The threshold just before completion, the hardest moment of the journey
 
 ---
 

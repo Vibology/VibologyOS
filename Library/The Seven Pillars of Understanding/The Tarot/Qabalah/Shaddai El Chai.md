@@ -36,7 +36,7 @@ Yesod channels the combined energies of the upper Sephiroth into [[Malkuth]]. Sh
 
 - [[Yesod]] — The Sephirah governed by Shaddai El Chai
 - [[Gabriel]] — The Archangel of Yesod
-- [[Kerubim]] — The angelic order of Yesod
+- Kerubim — The angelic order of Yesod
 - [[Tree of Life]] — The complete Sephirotic structure
 
 ---

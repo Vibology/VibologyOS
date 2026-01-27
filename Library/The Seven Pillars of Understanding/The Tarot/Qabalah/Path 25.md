@@ -34,7 +34,7 @@ This path is associated with [[Temperance (XIV)|Temperance]], the card of alchem
 - [[Tiphareth]]
 - [[Temperance (XIV)]]
 - [[Sagittarius ♐]]
-- [[The Arrow]]
+- The Arrow
 
 ---
 

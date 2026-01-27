@@ -217,12 +217,12 @@ The Moon is also the recognition that **not all knowledge is conscious**. The bo
 
 ## Cross-References
 - **Adjacent Major Arcana**: [[The Star (XVII)]] ← → [[The Sun (XIX)]]
-- **Element/Modality**: [[Pisces ♓]] | [[Mutable Water]]
+- **Element/Modality**: [[Pisces ♓]] | Mutable Water
 - **Planetary**: [[Jupiter ♃]] (traditional ruler) | [[Neptune ♆]] (modern ruler)
-- **Path**: [[Path 29 - Netzach to Malkuth]]
-- **Hebrew Letter**: [[Qoph]]
-- **Thematic Groupings**: [[The Unconscious]] | [[The Dark Night]] | [[Illusion and Projection]]
-- **Cross-References**: [[Anubis]], [[Kephera]], [[Hecate]], [[Artemis]], [[The High Priestess]]
+- **Path**: Path 29 - Netzach to Malkuth
+- **Hebrew Letter**: Qoph
+- **Thematic Groupings**: The Unconscious | The Dark Night | Illusion and Projection
+- **Cross-References**: Anubis, Kephera, Hecate, [[Artemis]], [[The High Priestess (II)]]
 
 ---
 

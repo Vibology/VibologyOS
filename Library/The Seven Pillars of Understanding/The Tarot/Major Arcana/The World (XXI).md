@@ -197,10 +197,10 @@ The gift of integration: **The capacity to celebrate completion while remaining 
 ## Cross-References
 - **Adjacent Major Arcana**: [[Judgement (XX)]] ← → [[The Fool (0)]] (the return to beginning)
 - **Planetary**: [[Saturn ♄]]
-- **Path**: [[Path 32 - Yesod to Malkuth]]
-- **Hebrew Letter**: [[Tau]]
-- **Thematic Groupings**: [[Completion and Synthesis]] | [[The Dance of Creation]] | [[The Mandala of the Self]]
-- **Cross-References**: [[Anima Mundi]], [[Sophia]], [[Isis]], [[Shiva Nataraja]], [[The Mandala]], [[Wheel of Fortune]]
+- **Path**: Path 32 - Yesod to Malkuth
+- **Hebrew Letter**: Tau
+- **Thematic Groupings**: Completion and Synthesis | The Dance of Creation | The Mandala of the Self
+- **Cross-References**: Anima Mundi, Sophia, [[Isis]], Shiva Nataraja, The Mandala, [[Wheel of Fortune (X)]]
 
 ---
 

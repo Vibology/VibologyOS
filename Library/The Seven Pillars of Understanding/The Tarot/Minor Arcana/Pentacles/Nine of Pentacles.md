@@ -182,31 +182,31 @@ The teaching: True abundance is internal. The garden is a *reflection* of your c
 
 ### Sephirotic Connections
 - [[Yesod]] - The ninth Sephirah: Foundation, lunar sphere, executive power
-- [[Nines of the Tarot]] - All four Nines as expressions of Yesod
+- Nines of the Tarot - All four Nines as expressions of Yesod
 
 ### Planetary and Astrological
 - [[Venus ♀]] - The planet of beauty, pleasure, refinement, attraction
 - [[Virgo ♍]] - The sign of discernment, discipline, practical service
-- [[Venus in Virgo]] - Refinement earned through discipline
-- [[Second Decan of Virgo]] - Beauty perfected through attention to detail
+- Venus in Virgo - Refinement earned through discipline
+- Second Decan of Virgo - Beauty perfected through attention to detail
 
 ### Thematic Groupings
-- [[Cards of Self-Sufficiency]] - Independence and wholeness
-- [[Cards of Earned Abundance]] - Success through your own effort
-- [[Cards of Refined Pleasure]] - Cultivated taste and discernment
-- [[Cards of Solitude]] - Alone but not lonely
+- Cards of Self-Sufficiency - Independence and wholeness
+- Cards of Earned Abundance - Success through your own effort
+- Cards of Refined Pleasure - Cultivated taste and discernment
+- Cards of Solitude - Alone but not lonely
 
 ### Cross-System References
-- [[Falconry]] - Partnership with wildness, instinct trained as ally
-- [[The Vineyard as Symbol]] - Cultivation, patience, harvest
-- [[Individuation]] - Jung's process of becoming whole
-- [[The Self-Made Archetype]] - Success through your own intelligence and effort
+- Falconry - Partnership with wildness, instinct trained as ally
+- The Vineyard as Symbol - Cultivation, patience, harvest
+- [[Individuation Process]] - Jung's process of becoming whole
+- The Self-Made Archetype - Success through your own intelligence and effort
 
 ### Psychological
-- [[Self-Sufficiency]] - Wholeness that does not require external validation
-- [[Solitary Contentment]] - The capacity to be alone without loneliness
-- [[Refined Discernment]] - Knowing what is truly valuable
-- [[Isolation as Defense]] - Shadow: using independence to avoid intimacy
+- Self-Sufficiency - Wholeness that does not require external validation
+- Solitary Contentment - The capacity to be alone without loneliness
+- Refined Discernment - Knowing what is truly valuable
+- Isolation as Defense - Shadow: using independence to avoid intimacy
 
 ---
 *"The woman in the garden did not inherit her wealth—she grew it, vine by vine, through patient labor and disciplined joy."*

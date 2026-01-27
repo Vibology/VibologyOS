@@ -310,35 +310,35 @@ The question the Ace asks is not "Will you accept material abundance?" but "How 
 
 ### Sephirotic Connections
 - [[Kether]] - The first Sephirah: Crown, source, unity
-- [[Aces of the Tarot]] - All four Aces as expressions of Kether
+- Aces of the Tarot - All four Aces as expressions of Kether
 
 ### Elemental and Suit
-- [[Earth Element]] - The realm of matter and manifestation
-- [[Pentacles Suit Overview]] - The journey of embodiment
-- [[Earth Cards]] - All cards attributed to the Earth element
-- [[Assiah]] - The Material World, realm of action and manifestation
+- Earth Element - The realm of matter and manifestation
+- Pentacles Suit Overview - The journey of embodiment
+- Earth Cards - All cards attributed to the Earth element
+- Assiah - The Material World, realm of action and manifestation
 
 ### Thematic Groupings
-- [[Cards of Abundance]] - Prosperity, wealth, material success
-- [[Cards of Health and Body]] - Physical vitality, embodiment
-- [[The Gift Cards]] - Divine offerings that must be accepted
-- [[Kether Across the Four Worlds]] - How the Crown manifests in each element
+- Cards of Abundance - Prosperity, wealth, material success
+- Cards of Health and Body - Physical vitality, embodiment
+- The Gift Cards - Divine offerings that must be accepted
+- Kether Across the Four Worlds - How the Crown manifests in each element
 
 ### Cross-System References
-- [[The Philosopher's Stone]] - Alchemical perfection of matter
-- [[Manna from Heaven]] - Divine provision in the wilderness
-- [[The Parable of the Talents]] - Use the gift or lose it
-- [[I Ching Hexagram 2]] - The Receptive: earth, nourishment, embodiment
-- [[The Cornucopia]] - Inexhaustible abundance
+- The Philosopher's Stone - Alchemical perfection of matter
+- Manna from Heaven - Divine provision in the wilderness
+- The Parable of the Talents - Use the gift or lose it
+- I Ching Hexagram 2 - The Receptive: earth, nourishment, embodiment
+- The Cornucopia - Inexhaustible abundance
 
 ### Court and Archetypal
 - [[King of Pentacles]] - The mature expression of Earth's mastery and stewardship
 - [[Queen of Pentacles]] - Earth's nurturing abundance and practical wisdom
 
 ### Psychological
-- [[Individuation]] - The descent of the Self into embodied life
-- [[The Sensation Function]] - Jung's typology: presence and embodiment
-- [[Embodiment]] - The sacred nature of incarnation
+- [[Individuation Process]] - The descent of the Self into embodied life
+- The Sensation Function - Jung's typology: presence and embodiment
+- Embodiment - The sacred nature of incarnation
 
 ---
 *"The seed of gold is not wealth—it is the promise of wealth, if you are willing to tend the garden."*

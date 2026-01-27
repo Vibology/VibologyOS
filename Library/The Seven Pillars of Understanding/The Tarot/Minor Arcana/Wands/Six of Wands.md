@@ -404,42 +404,42 @@ The integrated Six knows: *I am not the laurel wreath. I am the one who was wort
 
 ### Sephirotic Connections
 - [[Tiphareth]] - The sixth Sephirah: Beauty, the Mediating Intelligence, the Higher Self
-- [[Cards of Tiphareth]] - All cards attributed to the heart of the Tree
-- [[Sixes of the Tarot]] - The six as number of harmony and integration
+- Cards of Tiphareth - All cards attributed to the heart of the Tree
+- Sixes of the Tarot - The six as number of harmony and integration
 
 ### Planetary and Astrological
 - [[Jupiter ♃]] - The Greater Benefic: expansion, benevolence, wisdom, good fortune
 - [[Leo ♌]] - The fixed fire sign: royalty, creativity, pride, generosity
-- [[Jupiter in Leo]] - Radiant success, natural authority, leadership through inspiration
-- [[Third Decan of Leo]] - The specific zodiacal section (20°-30° Leo)
+- Jupiter in Leo - Radiant success, natural authority, leadership through inspiration
+- Third Decan of Leo - The specific zodiacal section (20°-30° Leo)
 
 ### Elemental and Suit
-- [[Fire Element]] - The realm of will and creative action
-- [[Wands Suit Overview]] - The journey of the creative impulse
-- [[Fire at Tiphareth]] - How Fire manifests at the heart of the Tree
-- [[Atziluth]] - The World of Pure Spirit, realm of divine names
+- Fire Element - The realm of will and creative action
+- Wands Suit Overview - The journey of the creative impulse
+- Fire at Tiphareth - How Fire manifests at the heart of the Tree
+- Atziluth - The World of Pure Spirit, realm of divine names
 
 ### Thematic Groupings
-- [[Cards of Victory and Triumph]] - Success, recognition, achievement
-- [[Cards of Public Recognition]] - Being seen and honored by the community
-- [[Cards of the Hero's Return]] - Completing the journey and bringing the boon
-- [[Cards of Grace and Established Strength]] - Success that flows naturally
+- Cards of Victory and Triumph - Success, recognition, achievement
+- Cards of Public Recognition - Being seen and honored by the community
+- Cards of the Hero's Return - Completing the journey and bringing the boon
+- Cards of Grace and Established Strength - Success that flows naturally
 
 ### Cross-System and Mythological References
-- [[Nike]] - Greek goddess of victory, bestower of the laurel crown
-- [[Laurel Symbolism]] - Victory, immortality, Apollo, poetic inspiration
-- [[Roman Triumph]] - The ceremonial procession honoring victorious generals
-- [[Osiris Triumphing]] - The resurrected god conquering death and winter
-- [[Odin as Spirit of Primal Fire]] - Norse god granting victory to warriors
-- [[Cúchulainn and Battle-Frenzy]] - Celtic hero's sacred combat state
+- Nike - Greek goddess of victory, bestower of the laurel crown
+- Laurel Symbolism - Victory, immortality, Apollo, poetic inspiration
+- Roman Triumph - The ceremonial procession honoring victorious generals
+- Osiris Triumphing - The resurrected god conquering death and winter
+- Odin as Spirit of Primal Fire - Norse god granting victory to warriors
+- Cúchulainn and Battle-Frenzy - Celtic hero's sacred combat state
 - [[The Hero's Journey]] - Separation, ordeal, return with the boon
 
 ### Psychological and Archetypal
-- [[Hero Archetype]] - The one who separates, undergoes ordeal, returns transformed
-- [[Ego-Self Relationship]] - The integrated ego serving the Higher Self
-- [[Recognition Dynamics]] - The need to be seen, mirrored, valued
-- [[Grandiosity vs Humility]] - The balance between healthy pride and inflation
-- [[Imposter Syndrome]] - The shadow expression of refusing the laurel wreath
+- Hero Archetype - The one who separates, undergoes ordeal, returns transformed
+- Ego-Self Relationship - The integrated ego serving the Higher Self
+- Recognition Dynamics - The need to be seen, mirrored, valued
+- Grandiosity vs Humility - The balance between healthy pride and inflation
+- Imposter Syndrome - The shadow expression of refusing the laurel wreath
 
 ### Court and Related
 - [[King of Wands]] - The mature sovereign embodiment of Fire's creative mastery
