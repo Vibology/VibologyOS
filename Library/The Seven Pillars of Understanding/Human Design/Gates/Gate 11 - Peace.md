@@ -326,8 +326,8 @@ Gate 11 teaches that **authentic ideas cannot be forced or manufactured**. When 
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 11 - Peace]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 11 - Obscurity to Light]] — Richard Rudd's shadow-gift-siddhi framework for Gate 11
-- [[The High Priestess (Tarot)]] — Resonance with hidden knowledge and esoteric wisdom
-- [[Chokmah (Qabalah)]] — The Sephirah of Wisdom, pure ideation
+- [[The High Priestess (II)]] — Resonance with hidden knowledge and esoteric wisdom
+- [[Chokmah]] — The Sephirah of Wisdom, pure ideation
 
 ### Thematic Collections
 - Gates of the Ajna Center — All gates within the Mind/Conceptualization center
@@ -336,13 +336,13 @@ Gate 11 teaches that **authentic ideas cannot be forced or manufactured**. When 
 - Gates of Mutation — Gates carrying the mutative, empowering frequency
 
 ### Archetypal and Mythological
-- [[The Visionary Archetype]] — The pattern of seeing beyond current reality
+- The Visionary Archetype — The pattern of seeing beyond current reality
 - [[Jung's Thinking Function]] — The mental capacity for conceptualization and analysis
 - [[The Hermit (IX)]] — Solitude as necessary for wisdom and insight
 
 ### Biological and Somatic
 - [[Ajna]] — The center of mind, conceptualization, and mental awareness
-- [[Pituitary Gland]] — The biological correlation for the Ajna Center
+- Pituitary Gland — The biological correlation for the Ajna Center
 - [[Mental Pressure Systems]] — How mental gates create cognitive pressure or clarity
 
 ### Practical Application

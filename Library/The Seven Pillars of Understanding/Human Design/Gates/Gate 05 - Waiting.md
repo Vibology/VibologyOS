@@ -351,7 +351,7 @@ Gate 5 teaches that **timing is everything**. When the individual honors their S
 
 ### Archetypal and Mythological
 - [[The Keeper of Cycles]] — Archetypal pattern of honoring natural rhythms
-- [[The Crone (Archetype)]] — The wise elder who knows the seasons
+- The Crone (Archetype) — The wise elder who knows the seasons
 - [[The Hunter (Universal Symbol)]] — Waiting with focused readiness
 - [[The Harvest (Universal Symbol)]] — Reaping what has been sown when timing is correct
 

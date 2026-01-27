@@ -347,7 +347,7 @@ Gate 3 teaches that **mutation is not easy, and it shouldn't be**. When the indi
 - [[Gates of Innovation]] — Gates specifically related to bringing forth the new
 
 ### Archetypal and Mythological
-- [[The Birth Archetype]] — The psychological and creative act of bringing forth new life
+- The Birth Archetype — The psychological and creative act of bringing forth new life
 - [[Nigredo (Alchemy)]] — The blackening stage, necessary chaos before transformation
 - [[The Storm (Universal Symbol)]] — Chaos that clears the way for new weather
 - [[The Seed (Universal Symbol)]] — Life pushing through earth, difficulty at emergence

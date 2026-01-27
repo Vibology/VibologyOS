@@ -330,7 +330,7 @@ Gate 62 teaches that **details matter**. When the individual honors their voice 
 - [[Gate 11 - Peace]] — Ideas for the collective (Ajna)
 - [[Gate 16 - Enthusiasm]] — Skills and mastery (Throat)
 - [[Gate 17 - Following]] — Opinions and perspectives (Ajna)
-- [[Gate 18 - Work on the Decayed]] — Correction (Spleen)
+- [[Gate 18 - Work on What Has Been Spoilt]] — Correction (Spleen)
 - [[Gate 20 - Contemplation]] — The now (Throat)
 - [[Gate 24 - The Return]] — Rationalization (Ajna)
 - [[Gate 31 - Influence]] — Leading through influence (Throat)
@@ -356,8 +356,8 @@ Gate 62 teaches that **details matter**. When the individual honors their voice 
 - [[Gates of Detail]] — Gates related to precision and organization
 
 ### Archetypal and Mythological
-- [[The Scribe Archetype]] — Pattern of recording and naming
-- [[The Cataloger Archetype]] — Organization through detail
+- The Scribe Archetype — Pattern of recording and naming
+- The Cataloger Archetype — Organization through detail
 - [[Mercury (Mythology)]] — God of communication and intellect
 - [[Thoth (Egyptian Mythology)]] — God of writing and knowledge
 

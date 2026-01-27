@@ -338,14 +338,14 @@ Gate 4 teaches that **the mind is a beautiful tool for understanding, not for de
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 4 - Youthful Folly]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 04 - Intolerance to Forgiveness]] — Richard Rudd's shadow-gift-siddhi framework for Gate 4
-- [[The Fool (Tarot)]] — Resonance with inexperience and potential
+- [[The Fool (0)]] — Resonance with inexperience and potential
 - [[Da'at (Qabalah)]] — Knowledge as provisional understanding
 - Mercury — Planet of mental formulation and communication
 
 ### Thematic Collections
 - Gates of the Ajna Center — All mental awareness gates
 - Collective Circuit Gates — All gates within the Collective stream
-- [[Gates of Pattern Recognition]] — Gates specifically related to seeing and organizing patterns
+- Gates of Pattern Recognition — Gates specifically related to seeing and organizing patterns
 - [[Gates of Mental Pressure]] — Gates carrying the pressure to understand
 
 ### Archetypal and Mythological

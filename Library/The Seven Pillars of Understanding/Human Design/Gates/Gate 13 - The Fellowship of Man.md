@@ -335,14 +335,14 @@ Gate 13 teaches that **listening is a sacred act**. When the individual honors t
 - [[Gates of Universal Patterns]] — Gates that recognize collective themes
 
 ### Archetypal and Mythological
-- [[The Witness Archetype]] — The pattern of observing without intervention
+- The Witness Archetype — The pattern of observing without intervention
 - [[The Collective Unconscious (Jung)]] — Universal patterns shared across humanity
 - [[Chiron (Astrology)]] — The wounded healer who witnesses suffering
 
 ### Biological and Somatic
 - [[G Center]] — The center of identity, direction, and love
 - Magnetic Monopole — Ra's term for the orientation mechanism in the G Center
-- [[Liver (Biology)]] — The organ associated with the G Center and emotional processing
+- Liver (Biology) — The organ associated with the G Center and emotional processing
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework

@@ -325,26 +325,26 @@ Gate 15 teaches that **true love is acceptance of the full spectrum**. When the 
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 15 - Modesty]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 15 - Dullness to Florescence]] — Richard Rudd's shadow-gift-siddhi framework for Gate 15
-- [[Temperance (Tarot)]] — Resonance with balancing extremes
-- [[Yesod (Qabalah)]] — The Foundation that balances all forces
-- [[Venus (Astrology)]] — The planet of love and attraction
+- [[Temperance (XIV)]] — Resonance with balancing extremes
+- [[Yesod]] — The Foundation that balances all forces
+- [[Venus ♀]] — The planet of love and attraction
 
 ### Thematic Collections
 - Gates of the G Center — All eight gates within the Identity/Direction center
 - Collective Circuit Gates — All gates within the Collective stream
 - [[Gates of Love and Acceptance]] — Gates specifically related to inclusive humanity
-- [[Gates of Pattern Recognition]] — Gates that recognize and share patterns
+- Gates of Pattern Recognition — Gates that recognize and share patterns
 
 ### Archetypal and Mythological
-- [[The Wanderer Archetype]] — The pattern of experiencing all paths
-- [[The Mystic Archetype]] — One who has walked all extremes and judges none
+- The Wanderer Archetype — The pattern of experiencing all paths
+- The Mystic Archetype — One who has walked all extremes and judges none
 - [[Shadow Integration (Jung)]] — The process of accepting all aspects of psyche
 - [[The Middle Way (Buddhism)]] — Balance between extremes
 
 ### Biological and Somatic
 - [[G Center]] — The center of identity, direction, and love
 - Magnetic Monopole — Ra's term for the orientation mechanism in the G Center
-- [[Liver (Biology)]] — The organ associated with the G Center
+- Liver (Biology) — The organ associated with the G Center
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework

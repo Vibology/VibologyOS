@@ -333,10 +333,10 @@ Gate 30 teaches that **desire is not the enemy—unconscious desire is**. When t
 - [[I-Ching Hexagram 30 - The Clinging Fire]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 30 - Desire to Rapture]] — Richard Rudd's shadow-gift-siddhi framework
 - [[The Devil (Tarot)]] — Archetypal bondage and desire
-- [[The Lovers (Tarot)]] — The choice to engage with desire
-- [[Tiphereth (Qabalah)]] — The sphere of Beauty and emotional heart
+- [[The Lovers (VI)]] — The choice to engage with desire
+- [[Tiphareth]] — The sphere of Beauty and emotional heart
 - [[Netzach (Qabalah)]] — The sphere of Victory and Desire
-- [[Venus (Astrology)]] — The planet of love and desire
+- [[Venus ♀]] — The planet of love and desire
 - [[Neptune (Astrology)]] — The planet of longing and fantasy
 
 ### Thematic Collections
@@ -346,8 +346,8 @@ Gate 30 teaches that **desire is not the enemy—unconscious desire is**. When t
 - [[Gates of Emotional Wisdom]] — Gates that learn through feeling
 
 ### Archetypal and Mythological
-- [[The Lover Archetype]] — The one who desires and clings
-- [[The Seeker Archetype]] — The one who longs for experience
+- The Lover Archetype — The one who desires and clings
+- The Seeker Archetype — The one who longs for experience
 - [[Aphrodite/Venus (Mythology)]] — Goddess of love, desire, and beauty
 - [[Eros Function (Psychology)]] — The drive toward connection and clinging
 

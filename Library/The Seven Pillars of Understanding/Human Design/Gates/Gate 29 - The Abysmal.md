@@ -334,11 +334,11 @@ Gate 29 teaches that **true commitment is responsive, not obligatory**. When the
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 29 - The Abysmal]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 29 - Half-Heartedness to Devotion]] — Richard Rudd's shadow-gift-siddhi framework
-- [[The Hanged Man (Tarot)]] — Archetypal suspension and commitment to ordeal
-- [[Temperance (Tarot)]] — Sustained alchemical commitment
+- [[The Hanged Man (XII)]] — Archetypal suspension and commitment to ordeal
+- [[Temperance (XIV)]] — Sustained alchemical commitment
 - Binah (Qabalah) — The sphere of Understanding and depth
-- [[Pluto (Astrology)]] — The planet of depth and transformation
-- [[Moon (Astrology)]] — The planet of emotional commitment
+- [[Pluto ♇]] — The planet of depth and transformation
+- [[Moon ☽]] — The planet of emotional commitment
 
 ### Thematic Collections
 - Gates of the Sacral Center — All gates within the Life Force center
@@ -347,10 +347,10 @@ Gate 29 teaches that **true commitment is responsive, not obligatory**. When the
 - [[Gates of Depth and Experience]] — Gates that navigate the abyss
 
 ### Archetypal and Mythological
-- [[The Pilgrim Archetype]] — The one who commits to the journey
-- [[The Devotee Archetype]] — Sacred commitment and perseverance
+- The Pilgrim Archetype — The one who commits to the journey
+- The Devotee Archetype — Sacred commitment and perseverance
 - [[Katabasis]] — The descent into the underworld
-- [[Persephone (Greek Mythology)]] — The journey into the abyss and return
+- Persephone (Greek mythology) — The journey into the abyss and return
 
 ### Biological and Somatic
 - [[Sacral]] — The center of life force and response

@@ -308,7 +308,7 @@ Gate 26 teaches that **true influence is service, not ego**. When the individual
 ### Sequential Connections (Within Ego Center Gates)
 - [[Gate 21 - Biting Through]] — Control and enforcement
 - [[Gate 40 - Deliverance]] — Willpower to provide and rest
-- [[Gate 51 - Shock]] — Competitive willpower and initiation
+- [[Gate 51 - The Arousing]] — Competitive willpower and initiation
 
 ### Channel Connections
 - [[Channel 26-44 - Surrender]] — The full electromagnetic connection from ego-memory (Heart) to instinctual-memory (Spleen)
@@ -317,7 +317,7 @@ Gate 26 teaches that **true influence is service, not ego**. When the individual
 ### Circuit Connections (Tribal Ego)
 - [[Gate 21 - Biting Through]] — Control and resource enforcement
 - [[Gate 40 - Deliverance]] — Willpower through provision
-- [[Gate 51 - Shock]] — Competitive ego and initiation
+- [[Gate 51 - The Arousing]] — Competitive ego and initiation
 
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 26 - The Taming Power of the Great]] — The source hexagram and traditional I-Ching interpretation
@@ -335,8 +335,8 @@ Gate 26 teaches that **true influence is service, not ego**. When the individual
 - [[Gates of Influence and Persuasion]] — Gates that sell, convince, and guide
 
 ### Archetypal and Mythological
-- [[The Trickster Archetype]] — The cunning figure who influences through cleverness
-- [[The Historian Archetype]] — The keeper of tribal memory
+- The Trickster Archetype — The cunning figure who influences through cleverness
+- The Historian Archetype — The keeper of tribal memory
 - [[Hermes/Mercury (Mythology)]] — God of commerce, communication, and trickery
 - [[The Senex (Jung)]] — The wise elder who holds historical authority
 

@@ -317,7 +317,7 @@ Gate 41 teaches that **fantasy is sacred fuel**. When the individual honors thei
 
 ### Channel Connections
 - [[Channel 41-30 - Recognition]] — The full electromagnetic connection from fantasy (Root) to emotional recognition (Solar Plexus)
-- [[Gate 30 - Clinging Fire]] — The harmonic partner that recognizes which experiences are worth pursuing
+- [[Gate 30 - The Clinging Fire]] — The harmonic partner that recognizes which experiences are worth pursuing
 
 ### Circuit Connections (Collective Abstract - Sensing)
 - [[Gate 36 - Darkening of the Light]] — Emotional exploration through crisis
@@ -329,8 +329,8 @@ Gate 41 teaches that **fantasy is sacred fuel**. When the individual honors thei
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 41 - Decrease]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 41 - Expectation to Ecstasy]] — Richard Rudd's shadow-gift-siddhi framework for Gate 41
-- [[The Star (Tarot)]] — Resonance with hope and anticipation
-- [[Yesod (Qabalah)]] — Foundation, imagination, astral realm
+- [[The Star (XVII)]] — Resonance with hope and anticipation
+- [[Yesod]] — Foundation, imagination, astral realm
 
 ### Thematic Collections
 - Gates of the Root Center — All nine gates within the Pressure center
@@ -339,7 +339,7 @@ Gate 41 teaches that **fantasy is sacred fuel**. When the individual honors thei
 - [[Gates of Emotional Anticipation]] — Gates related to future feeling states
 
 ### Archetypal and Mythological
-- [[The Dreamer Archetype]] — Jungian archetypal pattern of imagining future possibilities
+- The Dreamer Archetype — Jungian archetypal pattern of imagining future possibilities
 - [[Longing and Desire]] — Psychological themes of anticipation
 - [[The Moon (Astrology)]] — Emotional tides and anticipatory longing
 

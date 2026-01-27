@@ -306,7 +306,7 @@ Gate 48 teaches that **depth is sacred**. When the individual honors their insti
 ## Cross-References
 
 ### Sequential Connections (Within Spleen Center Gates)
-- [[Gate 18 - Work on What Has Been Spoiled]] — Correction and tribal improvement
+- [[Gate 18 - Work on What Has Been Spoilt]] — Correction and tribal improvement
 - [[Gate 28 - Preponderance of the Great]] — Risk-taking and struggle for purpose
 - [[Gate 32 - Duration]] — Continuity and transformation
 - [[Gate 44 - Coming to Meet]] — Pattern recognition for survival
@@ -321,13 +321,13 @@ Gate 48 teaches that **depth is sacred**. When the individual honors their insti
 - [[Gate 04 - Youthful Folly]] — Mental formulation
 - [[Gate 11 - Peace]] — Mental attunement
 - [[Gate 17 - Following]] — Mental pattern recognition
-- [[Gate 18 - Work on What Has Been Spoiled]] — Correction
+- [[Gate 18 - Work on What Has Been Spoilt]] — Correction
 - [[Gate 46 - Pushing Upward]] — Love of the body and embodiment
 
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 48 - The Well]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 48 - Inadequacy to Wisdom]] — Richard Rudd's shadow-gift-siddhi framework for Gate 48
-- [[The Star (Tarot)]] — Resonance with inexhaustible source
+- [[The Star (XVII)]] — Resonance with inexhaustible source
 - Hod (Qabalah) — Splendor, intellectual depth
 
 ### Thematic Collections
@@ -337,13 +337,13 @@ Gate 48 teaches that **depth is sacred**. When the individual honors their insti
 - [[Gates of Instinctual Awareness]] — Gates that provide survival knowing
 
 ### Archetypal and Mythological
-- [[The Well-Keeper Archetype]] — Guardian of communal resources
+- The Well-Keeper Archetype — Guardian of communal resources
 - [[The Infinite Source]] — Mythological wells and springs that never run dry
 - [[Ceres (Astrology)]] — Nurturance and resource management
 
 ### Biological and Somatic
 - [[Spleen]] — The center of survival, instinct, and health
-- [[Lymphatic System]] — The biological mechanism of deep immune reserves
+- Lymphatic System — The biological mechanism of deep immune reserves
 - [[Resource Assessment]] — Instinctual knowing of adequacy
 
 ### Practical Application

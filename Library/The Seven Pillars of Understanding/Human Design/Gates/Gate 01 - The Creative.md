@@ -329,7 +329,7 @@ Gate 1 teaches that **authentic identity is expressed through unique creativity*
 - [[I-Ching Hexagram 1 - The Creative]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 01 - Entropy to Beauty]] — Richard Rudd's shadow-gift-siddhi framework for Gate 1
 - [[The Magician (Tarot)]] — Resonance with initiating creative force
-- [[Kether (Qabalah)]] — The Crown, primal point of manifestation
+- [[Kether]] — The Crown, primal point of manifestation
 
 ### Thematic Collections
 - Gates of the G Center — All eight gates within the Identity/Direction center
@@ -338,15 +338,15 @@ Gate 1 teaches that **authentic identity is expressed through unique creativity*
 - [[Gates of Creative Expression]] — Gates specifically related to bringing forth new forms
 
 ### Archetypal and Mythological
-- [[The Creator Archetype]] — Jungian archetypal pattern of bringing forth new realities
+- The Creator Archetype — Jungian archetypal pattern of bringing forth new realities
 - [[Individuation Process]] — Jung's concept of becoming who one is meant to be
 - [[The Dragon (Chinese Mythology)]] — Symbol of Hexagram 1 in I-Ching tradition
-- [[Prometheus (Greek Mythology)]] — The bringer of creative fire to humanity
+- Prometheus (Greek mythology) — The bringer of creative fire to humanity
 
 ### Biological and Somatic
 - [[G Center]] — The center of identity, direction, and love
 - Magnetic Monopole — Ra's term for the orientation mechanism in the G Center
-- [[Liver (Biology)]] — The organ associated with the G Center
+- Liver (Biology) — The organ associated with the G Center
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework

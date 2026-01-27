@@ -346,10 +346,10 @@ Gate 16 teaches that **true mastery is earned through dedication**. When the ind
 - [[Gates of Practice and Repetition]] — Gates that honor sustained dedication
 
 ### Archetypal and Mythological
-- [[The Craftsperson Archetype]] — The pattern of mastery through practice
-- [[Hephaestus (Greek Mythology)]] — The god of craft, forge, and skilled labor
+- The Craftsperson Archetype — The pattern of mastery through practice
+- Hephaestus (Greek mythology) — The god of craft, forge, and skilled labor
 - [[The Practice Path (Buddhism)]] — Sustained repetition as spiritual discipline
-- [[The Muses (Greek Mythology)]] — Inspiration that emerges through dedicated practice
+- The Muses (Greek mythology) — Inspiration that emerges through dedicated practice
 
 ### Biological and Somatic
 - [[Throat]] — The center of manifestation, communication, and action

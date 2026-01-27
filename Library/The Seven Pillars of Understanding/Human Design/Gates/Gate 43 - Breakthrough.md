@@ -328,7 +328,7 @@ Gate 43 teaches that **unique knowing is sacred**. When the individual honors th
 - [[I-Ching Hexagram 43 - Breakthrough]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 43 - Deafness to Epiphany]] — Richard Rudd's shadow-gift-siddhi framework for Gate 43
 - [[The Tower (XVI)]] — Resonance with sudden revelation and breakthrough
-- [[Chokmah (Qabalah)]] — Wisdom, sudden illumination
+- [[Chokmah]] — Wisdom, sudden illumination
 
 ### Thematic Collections
 - Gates of the Ajna Center — All seven gates within the Awareness center
@@ -337,14 +337,14 @@ Gate 43 teaches that **unique knowing is sacred**. When the individual honors th
 - [[Gates of Insight]] — Gates specifically related to unique knowing
 
 ### Archetypal and Mythological
-- [[The Genius Archetype]] — Jungian archetypal pattern of unique knowing
-- [[Prometheus (Greek Mythology)]] — The bringer of breakthrough knowledge
+- The Genius Archetype — Jungian archetypal pattern of unique knowing
+- Prometheus (Greek mythology) — The bringer of breakthrough knowledge
 - [[Uranus (Astrology)]] — Sudden revelation and mental mutation
 
 ### Biological and Somatic
 - [[Ajna]] — The center of mental awareness and conceptualization
 - [[Inner Ear]] — The biological organ associated with Gate 43
-- [[Pituitary Gland]] — The master gland of the Ajna Center
+- Pituitary Gland — The master gland of the Ajna Center
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework

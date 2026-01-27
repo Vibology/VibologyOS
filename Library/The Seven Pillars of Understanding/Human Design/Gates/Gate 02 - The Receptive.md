@@ -334,9 +334,9 @@ Gate 2 teaches that **direction is not something to be found—it is something t
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 2 - The Receptive]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 02 - Dislocation to Unity]] — Richard Rudd's shadow-gift-siddhi framework for Gate 2
-- [[The High Priestess (Tarot)]] — Resonance with receptive knowing
+- [[The High Priestess (II)]] — Resonance with receptive knowing
 - Binah (Qabalah) — The Great Mother, receptive understanding
-- [[Chokmah (Qabalah)]] — Wisdom emerging through receptivity
+- [[Chokmah]] — Wisdom emerging through receptivity
 
 ### Thematic Collections
 - Gates of the G Center — All eight gates within the Identity/Direction center
@@ -353,7 +353,7 @@ Gate 2 teaches that **direction is not something to be found—it is something t
 ### Biological and Somatic
 - [[G Center]] — The center of identity, direction, and love
 - Magnetic Monopole — Ra's term for the orientation mechanism in the G Center
-- [[Liver (Biology)]] — The organ associated with the G Center
+- Liver (Biology) — The organ associated with the G Center
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework

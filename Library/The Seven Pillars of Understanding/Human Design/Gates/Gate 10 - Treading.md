@@ -338,14 +338,14 @@ Gate 10 teaches that **loving oneself is expressed through behavior**. When the 
 ### Circuit Connections (Integration/Centering)
 - [[Gate 25 - Innocence]] — Spirit of self, universal love (G Center)
 - [[Gate 46 - The Determination of the Self]] — Embodiment and physical experience (G Center)
-- [[Gate 51 - Shock]] — Initiation and competitive individualism (Heart/Ego)
+- [[Gate 51 - The Arousing]] — Initiation and competitive individualism (Heart/Ego)
 - [[Gate 55 - Abundance]] — Emotional depth and spirit (Solar Plexus)
 
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 10 - Treading]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 10 - Self-Obsession to Being]] — Richard Rudd's shadow-gift-siddhi framework for Gate 10
 - [[The Sun (Tarot)]] — Resonance with natural radiance and authenticity
-- [[Tiphereth (Qabalah)]] — Beauty, harmony, and the balanced self
+- [[Tiphareth]] — Beauty, harmony, and the balanced self
 - [[The Sun (Astrology)]] — Planet of identity and self-expression
 
 ### Thematic Collections

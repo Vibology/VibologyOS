@@ -345,7 +345,7 @@ Gate 36 teaches that **darkness is not pathology—it is necessity**. When the i
 - [[Gates of Compassion]] — Empathy through suffering
 
 ### Archetypal and Mythological
-- [[The Wounded Healer Archetype]] — Compassion through personal suffering
+- The Wounded Healer Archetype — Compassion through personal suffering
 - [[The Dark Night of the Soul]] — Spiritual crisis as transformation
 - [[Descent into the Underworld]] — The hero's journey through darkness
 

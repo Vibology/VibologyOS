@@ -338,7 +338,7 @@ Gate 38 teaches that **opposition preserves integrity**. When the individual hon
 - [[Gates of Integrity]] — Preserving truth through opposition
 
 ### Archetypal and Mythological
-- [[The Warrior Archetype]] — Standing for principle through opposition
+- The Warrior Archetype — Standing for principle through opposition
 - [[The Lone Fighter]] — Preserving integrity in solitude
 - [[Honour and Combat]] — Ethical struggle
 

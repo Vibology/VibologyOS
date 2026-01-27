@@ -318,7 +318,7 @@ Gate 57 teaches that **the body knows**. When the individual honors their Spleni
 ## Cross-References
 
 ### Sequential Connections (Within Spleen Center Gates)
-- [[Gate 18 - Work on the Decayed]] — Correction and perfection
+- [[Gate 18 - Work on What Has Been Spoilt]] — Correction and perfection
 - [[Gate 28 - The Game Player]] — Struggle for purpose
 - [[Gate 32 - Continuity]] — Instinct for what endures
 - [[Gate 44 - Coming to Meet]] — Instinctive memory of patterns
@@ -348,8 +348,8 @@ Gate 57 teaches that **the body knows**. When the individual honors their Spleni
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 57 - The Gentle]] — Source hexagram and traditional interpretation
 - [[Gene Keys 57 - Unease to Clarity]] — Shadow-gift-siddhi framework
-- [[The High Priestess (Tarot)]] — Resonance with intuition and hidden knowing
-- [[Yesod (Qabalah)]] — Foundation, subconscious knowing
+- [[The High Priestess (II)]] — Resonance with intuition and hidden knowing
+- [[Yesod]] — Foundation, subconscious knowing
 
 ### Thematic Collections
 - Gates of the Spleen Center — All gates within Intuition center
@@ -358,10 +358,10 @@ Gate 57 teaches that **the body knows**. When the individual honors their Spleni
 - [[Gates of Survival]] — Gates related to safety and health
 
 ### Archetypal and Mythological
-- [[The Clairaudient Archetype]] — Pattern of hearing truth
-- [[The Oracle Archetype]] — Knowing without knowing how
+- The Clairaudient Archetype — Pattern of hearing truth
+- The Oracle Archetype — Knowing without knowing how
 - [[Mercury (Mythology)]] — Messenger god, quick perception
-- [[Artemis (Greek Mythology)]] — Goddess of intuitive knowing and protection
+- Artemis (Greek mythology) — Goddess of intuitive knowing and protection
 
 ### Biological and Somatic
 - [[Spleen]] — Intuition, survival, health, now

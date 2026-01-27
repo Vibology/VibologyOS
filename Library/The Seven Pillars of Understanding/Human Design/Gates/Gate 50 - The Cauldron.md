@@ -306,7 +306,7 @@ Gate 50 teaches that **values are sacred**. When the individual honors their ins
 ## Cross-References
 
 ### Sequential Connections (Within Spleen Center Gates)
-- [[Gate 18 - Work on What Has Been Spoiled]] — Correction and tribal improvement
+- [[Gate 18 - Work on What Has Been Spoilt]] — Correction and tribal improvement
 - [[Gate 28 - Preponderance of the Great]] — Risk-taking and struggle for purpose
 - [[Gate 32 - Duration]] — Continuity and transformation
 - [[Gate 44 - Coming to Meet]] — Pattern recognition for survival
@@ -338,7 +338,7 @@ Gate 50 teaches that **values are sacred**. When the individual honors their ins
 - [[Gates of Preservation]] — Gates that protect tribal integrity
 
 ### Archetypal and Mythological
-- [[The Guardian Archetype]] — Jungian archetypal pattern of custodianship
+- The Guardian Archetype — Jungian archetypal pattern of custodianship
 - [[The Lawgiver]] — Figures who establish and maintain law (Moses, Hammurabi)
 - Saturn — Law, structure, responsibility
 

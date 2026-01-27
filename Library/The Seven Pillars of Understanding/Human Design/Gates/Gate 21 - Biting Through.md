@@ -308,7 +308,7 @@ Gate 21 teaches that **true power is justified power**. When the individual hono
 ### Sequential Connections (Within Ego Center Gates)
 - [[Gate 26 - The Taming Power of the Great]] — The Egoist/Trickster, memory as resource
 - [[Gate 40 - Deliverance]] — Willpower to provide and rest, aloneness as strength
-- [[Gate 51 - Shock]] — Competitive willpower, initiation through shock
+- [[Gate 51 - The Arousing]] — Competitive willpower, initiation through shock
 
 ### Channel Connections
 - [[Channel 21-45 - The Money Line]] — The full electromagnetic connection from control (Ego) to tribal voice (Throat)
@@ -317,16 +317,16 @@ Gate 21 teaches that **true power is justified power**. When the individual hono
 ### Circuit Connections (Tribal Ego)
 - [[Gate 26 - The Taming Power of the Great]] — Ego willpower through memory and influence
 - [[Gate 40 - Deliverance]] — Ego willpower through provision and rest
-- [[Gate 51 - Shock]] — Ego willpower through competition and initiation
+- [[Gate 51 - The Arousing]] — Ego willpower through competition and initiation
 
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 21 - Biting Through]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 21 - Control to Valour]] — Richard Rudd's shadow-gift-siddhi framework for Gate 21
 - [[Justice (Tarot)]] — Archetypal enforcement and cosmic balance
-- [[The Emperor (Tarot)]] — Sovereign control and material authority
+- [[The Emperor (IV)]] — Sovereign control and material authority
 - Geburah (Qabalah) — The Sephirah of Severity and disciplined power
 - [[Mars (Astrology)]] — The planet of action, enforcement, and will
-- [[Pluto (Astrology)]] — The planet of power, transformation, and control
+- [[Pluto ♇]] — The planet of power, transformation, and control
 
 ### Thematic Collections
 - [[Gates of the Ego Center]] — All gates within the Willpower center
@@ -335,9 +335,9 @@ Gate 21 teaches that **true power is justified power**. When the individual hono
 - [[Gates of Material Survival]] — Gates that manage resources and physical security
 
 ### Archetypal and Mythological
-- [[The King Archetype]] — The sovereign who controls the realm
-- [[The Warrior Archetype]] — The enforcer who protects and defends
-- [[Athena (Greek Mythology)]] — Goddess of strategic warfare and just authority
+- The King Archetype — The sovereign who controls the realm
+- The Warrior Archetype — The enforcer who protects and defends
+- Athena (Greek mythology) — Goddess of strategic warfare and just authority
 - [[The Hunter/Huntress]] — The primal archetype of control over resources
 
 ### Biological and Somatic

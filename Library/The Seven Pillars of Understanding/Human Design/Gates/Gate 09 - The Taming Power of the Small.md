@@ -341,7 +341,7 @@ Gate 9 teaches that **power lies in the small**. When the individual honors thei
 - [[I-Ching Hexagram 9 - The Taming Power of the Small]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 09 - Inertia to Invincibility]] — Richard Rudd's shadow-gift-siddhi framework for Gate 9
 - [[The Hermit (IX)]] — Resonance with focused solitude and patient refinement
-- [[Yesod (Qabalah)]] — Foundation built through accumulation
+- [[Yesod]] — Foundation built through accumulation
 - Mercury — Planet of detail and precision
 - Saturn — Planet of patience, mastery, and sustained effort
 

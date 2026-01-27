@@ -321,13 +321,13 @@ Gate 47 teaches that **mental pressure is sacred**. When the individual honors t
 - [[Gate 04 - Youthful Folly]] — Mental formulation
 - [[Gate 11 - Peace]] — Mental attunement
 - [[Gate 17 - Following]] — Mental pattern recognition
-- [[Gate 18 - Work on What Has Been Spoiled]] — Correction
+- [[Gate 18 - Work on What Has Been Spoilt]] — Correction
 - [[Gate 48 - The Well]] — Depth of resources
 
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 47 - Oppression]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 47 - Oppression to Transfiguration]] — Richard Rudd's shadow-gift-siddhi framework for Gate 47
-- [[The Hanged Man (Tarot)]] — Resonance with surrender and realization through constraint
+- [[The Hanged Man (XII)]] — Resonance with surrender and realization through constraint
 - Binah (Qabalah) — Understanding, structure, contemplative gestation
 
 ### Thematic Collections
@@ -337,7 +337,7 @@ Gate 47 teaches that **mental pressure is sacred**. When the individual honors t
 - [[Gates of Transmutation]] — Gates that transform oppression into clarity
 
 ### Archetypal and Mythological
-- [[The Contemplative Archetype]] — Jungian archetypal pattern of deep mental processing
+- The Contemplative Archetype — Jungian archetypal pattern of deep mental processing
 - [[The Alchemist]] — Transforming base confusion into golden understanding
 - Saturn — Constraint, limitation, karmic realization
 

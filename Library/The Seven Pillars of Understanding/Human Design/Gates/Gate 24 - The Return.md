@@ -331,7 +331,7 @@ Gate 24 teaches that **true understanding requires patience and trust in mental 
 - [[Judgment (Tarot)]] — Return, renewal, and awakening
 - Hod (Qabalah) — The Sephirah of Intellect and mental splendor
 - Mercury — The planet of thinking and mental processing
-- [[Moon (Astrology)]] — The planet of cycles and rhythms
+- [[Moon ☽]] — The planet of cycles and rhythms
 
 ### Thematic Collections
 - Gates of the Ajna Center — All gates within the Mental Awareness center
@@ -340,14 +340,14 @@ Gate 24 teaches that **true understanding requires patience and trust in mental 
 - [[Gates of Renewal and Cycling]] — Gates that operate through repetition and return
 
 ### Archetypal and Mythological
-- [[The Philosopher Archetype]] — The figure who thinks deeply over time
-- [[The Contemplative Archetype]] — The one who withdraws to understand
+- The Philosopher Archetype — The figure who thinks deeply over time
+- The Contemplative Archetype — The one who withdraws to understand
 - [[Hermes Trismegistus]] — The alchemical philosopher of mental transformation
 - [[The Thinking Function (Jung)]] — Psychological rationalization and mental processing
 
 ### Biological and Somatic
 - [[Ajna]] — The center of mental awareness and conceptualization
-- [[Pituitary Gland]] — Master gland regulating cycles and rhythms
+- Pituitary Gland — Master gland regulating cycles and rhythms
 - [[Mental Cycling and Sleep]] — The relationship between thinking and rest
 
 ### Practical Application

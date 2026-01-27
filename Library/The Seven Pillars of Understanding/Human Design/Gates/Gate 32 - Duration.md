@@ -343,20 +343,20 @@ Gate 32 teaches that **endurance is not rigidity—it is adaptive wisdom**. When
 - [[Gates of Fear]] — Splenic gates carrying survival-based fear awareness
 
 ### Archetypal and Mythological
-- [[The Conservator Archetype]] — Preserving what is valuable through strategic caution
+- The Conservator Archetype — Preserving what is valuable through strategic caution
 - [[The Fear of Annihilation]] — Jungian theme of survival anxiety and existential fear
 - [[The Wise Elder]] — Tribal wisdom earned through experience and failure
 
 ### Biological and Somatic
 - [[Spleen]] — The center of survival, intuition, and immune response
-- [[Lymphatic System]] — The biological network associated with the Spleen Center
+- Lymphatic System — The biological network associated with the Spleen Center
 - [[Splenic Authority]] — Immediate, spontaneous intuitive knowing
 
 ### Practical Application
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - Defined vs. Undefined Centers — Understanding fixed vs. variable energy in the bodygraph
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
-- [[Tribal vs. Individual vs. Collective]] — Distinguishing the three streams of circuitry
+- Tribal vs. Individual vs. Collective — Distinguishing the three streams of circuitry
 
 ---
 

@@ -304,7 +304,7 @@ Gate 60 teaches that **limitation is the doorway to mutation**. When the individ
 ## Cross-References
 
 ### Sequential Connections (Within Root Center Gates)
-- [[Gate 38 - The Fighter]] — Opposition and struggle for meaning
+- [[Gate 38 - Opposition]] — Opposition and struggle for meaning
 - [[Gate 39 - Obstruction]] — Provocation and emotional depth
 - [[Gate 41 - Decrease]] — Contraction and fantasy
 - [[Gate 52 - Keeping Still]] — Stillness and focus
@@ -331,7 +331,7 @@ Gate 60 teaches that **limitation is the doorway to mutation**. When the individ
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 60 - Limitation]] — Source hexagram and traditional interpretation
 - [[Gene Keys 60 - Limitation to Justice]] — Shadow-gift-siddhi framework
-- [[Temperance (Tarot)]] — Resonance with balance and alchemical process
+- [[Temperance (XIV)]] — Resonance with balance and alchemical process
 - Geburah (Qabalah) — Severity, discipline, necessary constraint
 
 ### Thematic Collections
@@ -341,10 +341,10 @@ Gate 60 teaches that **limitation is the doorway to mutation**. When the individ
 - Gates of Mutation — Gates related to evolutionary change
 
 ### Archetypal and Mythological
-- [[The Realist Archetype]] — Pattern of clear-eyed acceptance
-- [[The Mutant Archetype]] — Evolution through constraint
+- The Realist Archetype — Pattern of clear-eyed acceptance
+- The Mutant Archetype — Evolution through constraint
 - [[Saturn (Mythology)]] — God of limitation and time
-- [[Prometheus (Greek Mythology)]] — Mutation through acceptance of constraint
+- Prometheus (Greek mythology) — Mutation through acceptance of constraint
 
 ### Biological and Somatic
 - [[Root]] — Pressure, adrenaline, fuel, stress response
@@ -355,7 +355,7 @@ Gate 60 teaches that **limitation is the doorway to mutation**. When the individ
 - Strategy and [[Authority]] — Decision-making framework
 - Defined vs. Undefined Centers — Fixed vs. variable energy
 - The 7-Year Deconditioning Cycle — Returning to authentic design
-- [[Pressure Centers]] — Root and Head as fuel generators
+- Pressure Centers — Root and Head as fuel generators
 
 ---
 

@@ -342,14 +342,14 @@ Gate 18 teaches that **integrity requires vigilant correction**. When the indivi
 - [[Gates of Authority Challenge]] — Gates that question and correct power structures
 
 ### Archetypal and Mythological
-- [[The Reformer Archetype]] — The pattern of challenging corruption
-- [[Themis (Greek Mythology)]] — Goddess of divine law and order
+- The Reformer Archetype — The pattern of challenging corruption
+- Themis (Greek mythology) — Goddess of divine law and order
 - [[The Prophetic Tradition (Abrahamic)]] — Challenging kings and corruption in the name of justice
 - [[Kali (Hindu Mythology)]] — Destroyer of corruption and decay
 
 ### Biological and Somatic
 - [[Spleen]] — The center of survival and immune function
-- [[Lymphatic System]] — The biological correlation for the Spleen Center
+- Lymphatic System — The biological correlation for the Spleen Center
 - [[Immune Response]] — How the body recognizes and eliminates toxicity
 
 ### Practical Application

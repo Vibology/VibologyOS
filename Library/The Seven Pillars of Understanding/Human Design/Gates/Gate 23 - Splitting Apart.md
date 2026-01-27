@@ -344,9 +344,9 @@ Gate 23 teaches that **true knowing requires assimilation and the courage to spe
 - Gates of Mutation — Gates that introduce new possibilities
 
 ### Archetypal and Mythological
-- [[The Hermit Archetype]] — The figure who withdraws to know
-- [[The Outsider Archetype]] — The one who stands apart from consensus
-- [[Prometheus (Greek Mythology)]] — Bringing fire (knowing) to humanity, suffering for truth
+- The Hermit Archetype — The figure who withdraws to know
+- The Outsider Archetype — The one who stands apart from consensus
+- Prometheus (Greek mythology) — Bringing fire (knowing) to humanity, suffering for truth
 - [[The Thinking Function (Jung)]] — Psychological discrimination and structure
 
 ### Biological and Somatic

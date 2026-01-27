@@ -311,7 +311,7 @@ Gate 55 teaches that **spirit is the source of abundance**. When the individual 
 ### Sequential Connections (Within Solar Plexus Gates)
 - [[Gate 06 - Conflict]] — Emotional intimacy and friction
 - [[Gate 22 - Grace]] — Emotional openness and listening
-- [[Gate 30 - Clinging Fire]] — Emotional desire and recognition
+- [[Gate 30 - The Clinging Fire]] — Emotional desire and recognition
 - [[Gate 36 - Darkening of the Light]] — Emotional crisis and adventure
 - [[Gate 37 - The Family]] — Emotional bargains and community
 - [[Gate 49 - Revolution]] — Emotional principles of acceptance/rejection
@@ -335,7 +335,7 @@ Gate 55 teaches that **spirit is the source of abundance**. When the individual 
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 55 - Abundance]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 55 - Victimisation to Freedom]] — Richard Rudd's shadow-gift-siddhi framework
-- [[The Star (Tarot)]] — Resonance with hope and emotional renewal
+- [[The Star (XVII)]] — Resonance with hope and emotional renewal
 - [[Netzach (Qabalah)]] — The sephira of victory, desire, and emotional depth
 
 ### Thematic Collections
@@ -345,9 +345,9 @@ Gate 55 teaches that **spirit is the source of abundance**. When the individual 
 - [[Gates of Freedom]] — Gates related to liberation through feeling
 
 ### Archetypal and Mythological
-- [[The Mystic Archetype]] — Pattern of spiritual and emotional depth
+- The Mystic Archetype — Pattern of spiritual and emotional depth
 - [[Jupiter (Mythology)]] — The Roman god of abundance and expansion
-- [[Dionysus (Greek Mythology)]] — The god of emotional ecstasy and spirit
+- Dionysus (Greek mythology) — The god of emotional ecstasy and spirit
 - [[The Cup (Symbolism)]] — Universal symbol of receptivity and emotional fullness
 
 ### Biological and Somatic

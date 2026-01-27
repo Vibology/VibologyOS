@@ -330,7 +330,7 @@ Gate 45 teaches that **rulership is sacred service**. When the individual honors
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 45 - Gathering Together]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 45 - Dominance to Liberation]] — Richard Rudd's shadow-gift-siddhi framework for Gate 45
-- [[The Emperor (Tarot)]] — Resonance with authority and structure
+- [[The Emperor (IV)]] — Resonance with authority and structure
 - Chesed (Qabalah) — Mercy, benevolent rulership
 
 ### Thematic Collections
@@ -340,7 +340,7 @@ Gate 45 teaches that **rulership is sacred service**. When the individual honors
 - [[Gates of Resource Management]] — Gates focused on material security
 
 ### Archetypal and Mythological
-- [[The Sovereign Archetype]] — Jungian archetypal pattern of rulership
+- The Sovereign Archetype — Jungian archetypal pattern of rulership
 - [[The Benevolent King/Queen]] — Mythological figures of wise governance
 - [[The Sun (Astrology)]] — Centralized authority and vitality
 
@@ -353,7 +353,7 @@ Gate 45 teaches that **rulership is sacred service**. When the individual honors
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - Defined vs. Undefined Centers — Understanding fixed vs. variable energy in the bodygraph
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
-- [[Tribal vs. Individual vs. Collective]] — Distinguishing the three streams of the bodygraph
+- Tribal vs. Individual vs. Collective — Distinguishing the three streams of the bodygraph
 
 ---
 

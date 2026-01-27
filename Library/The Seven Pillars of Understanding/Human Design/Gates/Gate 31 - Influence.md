@@ -337,23 +337,23 @@ Gate 31 teaches that **authentic leadership is service, not status**. When the i
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 31 - Influence]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 31 - Arrogance to Humility]] — Richard Rudd's shadow-gift-siddhi framework for Gate 31
-- [[The Emperor (Tarot)]] — Resonance with established authority and structure
+- [[The Emperor (IV)]] — Resonance with established authority and structure
 - Chesed (Qabalah) — Mercy, benevolent structure, the merciful king
 
 ### Thematic Collections
 - Gates of the Throat Center — All eleven gates within the manifestation center
 - Collective Circuit Gates — All gates within the Collective stream (Logic and Abstract)
 - [[Gates of Leadership]] — Gates specifically related to guiding and influencing others
-- [[Gates of Pattern Recognition]] — Gates carrying the Logic Circuit's pattern-seeing function
+- Gates of Pattern Recognition — Gates carrying the Logic Circuit's pattern-seeing function
 
 ### Archetypal and Mythological
-- [[The King/Queen Archetype]] — Jungian archetypal pattern of leadership and sovereignty
+- The King/Queen Archetype — Jungian archetypal pattern of leadership and sovereignty
 - [[Democratic Leadership]] — Modern political structures reflected in HD mechanics
 - [[The Wise Elder]] — Leadership earned through experience and pattern accuracy
 
 ### Biological and Somatic
 - [[Throat]] — The center of manifestation and expression
-- [[Thyroid]] — The gland associated with the Throat Center's metabolic regulation
+- Thyroid — The gland associated with the Throat Center's metabolic regulation
 - [[Voice and Vocal Cords]] — The biological instrument of Gate 31's influence
 
 ### Practical Application

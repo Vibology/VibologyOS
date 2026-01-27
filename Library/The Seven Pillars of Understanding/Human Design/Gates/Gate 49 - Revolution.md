@@ -312,7 +312,7 @@ Gate 49 teaches that **revolution is sacred**. When the individual honors their 
 ### Sequential Connections (Within Solar Plexus Center Gates)
 - [[Gate 06 - Conflict]] — Emotional intimacy through friction
 - [[Gate 22 - Grace]] — Emotional openness and surrender
-- [[Gate 30 - Clinging Fire]] — Emotional recognition of experience
+- [[Gate 30 - The Clinging Fire]] — Emotional recognition of experience
 - [[Gate 36 - Darkening of the Light]] — Emotional exploration through crisis
 - [[Gate 37 - The Family]] — Emotional bargaining and agreements
 - [[Gate 55 - Abundance]] — Emotional spirit and fullness
@@ -341,9 +341,9 @@ Gate 49 teaches that **revolution is sacred**. When the individual honors their 
 - [[Gates of Emotional Sensitivity]] — Gates carrying emotional awareness
 
 ### Archetypal and Mythological
-- [[The Revolutionary Archetype]] — Jungian archetypal pattern of transformative destruction
+- The Revolutionary Archetype — Jungian archetypal pattern of transformative destruction
 - [[Death and Rebirth Myths]] — Universal cycles of ending and renewal
-- [[Pluto (Astrology)]] — Death, rebirth, fundamental transformation
+- [[Pluto ♇]] — Death, rebirth, fundamental transformation
 
 ### Biological and Somatic
 - [[Solar Plexus]] — The center of emotional wave and sensitivity

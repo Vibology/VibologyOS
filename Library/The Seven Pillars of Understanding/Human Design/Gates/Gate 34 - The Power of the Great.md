@@ -343,7 +343,7 @@ Gate 34 teaches that **power is only great when it serves**. When the individual
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 34 - The Power of the Great]] — The source hexagram
 - [[Gene Keys 34 - Force to Majesty]] — Shadow-gift-siddhi framework
-- [[Strength (Tarot)]] — Power as mastery, not domination
+- [[Strength (VIII)]] — Power as mastery, not domination
 - Geburah (Qabalah) — Severity, strength, disciplined power
 
 ### Thematic Collections

@@ -311,7 +311,7 @@ Gate 54 teaches that **ambition is sacred when aligned**. When the individual ho
 ### Sequential Connections (Within Root Center Gates)
 - [[Gate 52 - Keeping Still]] — The pressure to pause and assess
 - [[Gate 53 - Development]] — The pressure to start new cycles
-- [[Gate 38 - The Fighter]] — The pressure to struggle for purpose
+- [[Gate 38 - Opposition]] — The pressure to struggle for purpose
 - [[Gate 39 - Obstruction]] — The pressure to provoke emotion and spirit
 - [[Gate 41 - Decrease]] — The initiating fuel of desire and fantasy
 - [[Gate 58 - The Joyous]] — The pressure to perfect and correct
@@ -342,9 +342,9 @@ Gate 54 teaches that **ambition is sacred when aligned**. When the individual ho
 - [[Gates of Transformation]] — Gates related to change and evolution
 
 ### Archetypal and Mythological
-- [[The Climber Archetype]] — Universal pattern of striving and ascent
+- The Climber Archetype — Universal pattern of striving and ascent
 - [[Saturn (Mythology)]] — The Roman god of time, achievement, and authority
-- [[Icarus (Greek Mythology)]] — The cautionary tale of ambition without wisdom
+- Icarus (Greek mythology) — The cautionary tale of ambition without wisdom
 - [[The Ladder (Symbolism)]] — Universal symbol of ascension and hierarchy
 
 ### Biological and Somatic

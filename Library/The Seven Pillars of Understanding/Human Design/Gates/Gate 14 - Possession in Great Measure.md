@@ -322,12 +322,12 @@ Gate 14 teaches that **true power is earned through sustained work**. When the i
 - [[Gate 20 - Contemplation]] — Awareness of the now (Throat)
 - [[Gate 25 - Innocence]] — Spirit of the self (G Center)
 - [[Gate 34 - The Power of the Great]] — Pure Sacral power
-- [[Gate 51 - Shock]] — Ego willpower and shock
+- [[Gate 51 - The Arousing]] — Ego willpower and shock
 
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 14 - Possession in Great Measure]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 14 - Compromise to Bounteousness]] — Richard Rudd's shadow-gift-siddhi framework for Gate 14
-- [[Strength (Tarot)]] — Resonance with mastery through gentle power
+- [[Strength (VIII)]] — Resonance with mastery through gentle power
 - Geburah (Qabalah) — The Sephirah of Strength and disciplined power
 - [[The Sun (Astrology)]] — The source of vitality and creative life force
 
@@ -338,8 +338,8 @@ Gate 14 teaches that **true power is earned through sustained work**. When the i
 - [[Gates of Power and Resources]] — Gates that build and manage energy and capability
 
 ### Archetypal and Mythological
-- [[The Master Archetype]] — The pattern of perfecting a craft
-- [[Hephaestus (Greek Mythology)]] — The craftsman god, master of forge and skill
+- The Master Archetype — The pattern of perfecting a craft
+- Hephaestus (Greek mythology) — The craftsman god, master of forge and skill
 - [[The Competence Drive (Psychology)]] — The human need for efficacy and capability
 
 ### Biological and Somatic

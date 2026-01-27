@@ -338,10 +338,10 @@ Gate 6 teaches that **intimacy requires friction**. When the individual honors t
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 6 - Conflict]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 06 - Conflict to Peace]] — Richard Rudd's shadow-gift-siddhi framework for Gate 6
-- [[The Lovers (Tarot)]] — Resonance with intimate union and choice
+- [[The Lovers (VI)]] — Resonance with intimate union and choice
 - [[Gevurah (Qabalah)]] — Severity, boundaries, and strength
 - [[Mars (Astrology)]] — Planet of assertion, conflict, and defense
-- [[Venus (Astrology)]] — Planet of love, bonding, and intimacy
+- [[Venus ♀]] — Planet of love, bonding, and intimacy
 
 ### Thematic Collections
 - Gates of the Solar Plexus Center — All emotional awareness gates

@@ -306,7 +306,7 @@ Gate 40 teaches that **provision requires rest**. When the individual honors the
 - [[Gate 21 - Biting Through]] — Control, the hunter/huntress
 - [[Gate 26 - The Taming Power of the Great]] — The egoist, memory
 - [[Gate 40 - Deliverance]] — Provision and rest
-- [[Gate 51 - Shock]] — Initiation and shock (if considering G Center gates with Ego connection)
+- [[Gate 51 - The Arousing]] — Initiation and shock (if considering G Center gates with Ego connection)
 
 ### Channel Connections
 - [[Channel 37-40 - Community]] — Emotional friendship to willful provision
@@ -335,7 +335,7 @@ Gate 40 teaches that **provision requires rest**. When the individual honors the
 - [[Gates of Aloneness]] — Solitary restoration
 
 ### Archetypal and Mythological
-- [[The Provider Archetype]] — Working to ensure survival
+- The Provider Archetype — Working to ensure survival
 - [[Work-Rest Balance]] — Sustainable will through rhythm
 - [[Aloneness as Restoration]] — Solitude as necessity
 
@@ -348,7 +348,7 @@ Gate 40 teaches that **provision requires rest**. When the individual honors the
 - Strategy and [[Authority]] — HD decision-making
 - Defined vs. Undefined Centers — Fixed vs. variable energy
 - The 7-Year Deconditioning Cycle — Returning to design
-- [[Tribal vs. Individual vs. Collective]] — Distinguishing streams
+- Tribal vs. Individual vs. Collective — Distinguishing streams
 
 ---
 

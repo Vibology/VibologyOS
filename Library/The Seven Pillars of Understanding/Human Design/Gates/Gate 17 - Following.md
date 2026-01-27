@@ -331,7 +331,7 @@ Gate 17 teaches that **true authority comes from service to patterns**. When the
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 17 - Following]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 17 - Opinion to Omniscience]] — Richard Rudd's shadow-gift-siddhi framework for Gate 17
-- [[The Emperor (Tarot)]] — Resonance with organizational structure and law
+- [[The Emperor (IV)]] — Resonance with organizational structure and law
 - Hod (Qabalah) — The Sephirah of pattern recognition and intellectual form
 - Mercury — The planet of intellect and communication
 
@@ -339,17 +339,17 @@ Gate 17 teaches that **true authority comes from service to patterns**. When the
 - Gates of the Ajna Center — All gates within the awareness/conceptualization center
 - Collective Circuit Gates — All gates within the Collective stream
 - [[Gates of Mental Organization]] — Gates specifically related to framework formation
-- [[Gates of Pattern Recognition]] — Gates that observe and organize patterns
+- Gates of Pattern Recognition — Gates that observe and organize patterns
 
 ### Archetypal and Mythological
-- [[The Observer Archetype]] — The pattern of sustained attention and framework formation
-- [[Athena (Greek Mythology)]] — Goddess of wisdom, strategy, and intelligent organization
+- The Observer Archetype — The pattern of sustained attention and framework formation
+- Athena (Greek mythology) — Goddess of wisdom, strategy, and intelligent organization
 - [[The Witness (Buddhism)]] — Awareness that observes without attachment
 - [[Confucian Virtue]] — Service to patterns through ethical observation
 
 ### Biological and Somatic
 - [[Ajna]] — The center of awareness and mental processing
-- [[Pituitary Gland]] — The biological correlation for the Ajna Center
+- Pituitary Gland — The biological correlation for the Ajna Center
 - [[Mental Processing]] — How the Ajna formulates frameworks and opinions
 
 ### Practical Application

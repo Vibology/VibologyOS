@@ -328,10 +328,10 @@ Gate 27 teaches that **true caring is responsive and sustainable**. When the ind
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 27 - Nourishment]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 27 - Selfishness to Selflessness]] — Richard Rudd's shadow-gift-siddhi framework
-- [[The Empress (Tarot)]] — Archetypal nurturer and provider
-- [[Strength (Tarot)]] — Gentle power and caring
+- [[The Empress (III)]] — Archetypal nurturer and provider
+- [[Strength (VIII)]] — Gentle power and caring
 - Binah (Qabalah) — The Great Mother sphere
-- [[Moon (Astrology)]] — The planet of nurturing and emotional care
+- [[Moon ☽]] — The planet of nurturing and emotional care
 - [[Ceres (Astrology)]] — The asteroid of harvest and caretaking
 
 ### Thematic Collections
@@ -341,8 +341,8 @@ Gate 27 teaches that **true caring is responsive and sustainable**. When the ind
 - [[Gates of Responsibility]] — Gates that take care of and protect others
 
 ### Archetypal and Mythological
-- [[The Great Mother Archetype]] — The nurturing and devouring mother
-- [[The Caretaker Archetype]] — The one who provides and sustains
+- The Great Mother Archetype — The nurturing and devouring mother
+- The Caretaker Archetype — The one who provides and sustains
 - [[Demeter/Ceres (Mythology)]] — Goddess of harvest, nourishment, and mothering
 - [[The Nourishing Function (Psychology)]] — The capacity to sustain life
 

@@ -326,8 +326,8 @@ Gate 64 teaches that **confusion is sacred**. When the individual honors their p
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 64 - Before Completion]] — Source hexagram and traditional interpretation
 - [[Gene Keys 64 - Confusion to Illumination]] — Shadow-gift-siddhi framework
-- [[The Fool (Tarot)]] — Resonance with infinite potential and the unknown
-- [[Kether (Qabalah)]] — Crown, source, unmanifest potential
+- [[The Fool (0)]] — Resonance with infinite potential and the unknown
+- [[Kether]] — Crown, source, unmanifest potential
 
 ### Thematic Collections
 - Gates of the Head Center — All gates within Inspiration center
@@ -336,10 +336,10 @@ Gate 64 teaches that **confusion is sacred**. When the individual honors their p
 - [[Gates of Imagination]] — Gates related to creative abstraction
 
 ### Archetypal and Mythological
-- [[The Dreamer Archetype]] — Pattern of symbolic processing
-- [[The Visionary Archetype]] — Seeing patterns through imagination
+- The Dreamer Archetype — Pattern of symbolic processing
+- The Visionary Archetype — Seeing patterns through imagination
 - [[Neptune (Mythology)]] — God of the deep, dreams, dissolution
-- [[Morpheus (Greek Mythology)]] — God of dreams and forms
+- Morpheus (Greek mythology) — God of dreams and forms
 
 ### Biological and Somatic
 - [[Head]] — Inspiration, mental pressure, cosmic questions
@@ -350,7 +350,7 @@ Gate 64 teaches that **confusion is sacred**. When the individual honors their p
 - Strategy and [[Authority]] — Decision-making framework
 - Defined vs. Undefined Centers — Fixed vs. variable energy
 - The 7-Year Deconditioning Cycle — Returning to authentic design
-- [[Pressure Centers]] — Root and Head as fuel generators
+- Pressure Centers — Root and Head as fuel generators
 
 ---
 

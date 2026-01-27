@@ -311,7 +311,7 @@ Gate 53 teaches that **beginnings are sacred**. When the individual honors their
 ### Sequential Connections (Within Root Center Gates)
 - [[Gate 52 - Keeping Still]] — The pressure to pause and assess (complementary to Gate 53's beginning)
 - [[Gate 54 - The Marrying Maiden]] — The pressure to rise up and achieve
-- [[Gate 38 - The Fighter]] — The pressure to struggle for purpose
+- [[Gate 38 - Opposition]] — The pressure to struggle for purpose
 - [[Gate 39 - Obstruction]] — The pressure to provoke emotion and spirit
 - [[Gate 41 - Decrease]] — The initiating fuel of desire and fantasy
 - [[Gate 58 - The Joyous]] — The pressure to perfect and correct
@@ -328,7 +328,7 @@ Gate 53 teaches that **beginnings are sacred**. When the individual honors their
 - [[Gate 56 - The Wanderer]] — Storytelling and stimulation (Throat)
 - [[Gate 35 - Progress]] — Emotional crisis and experience (Solar Plexus)
 - [[Gate 36 - Darkening of the Light]] — Emotional intensity and adventure (Solar Plexus)
-- [[Gate 30 - Clinging Fire]] — Emotional desire and recognition (Solar Plexus)
+- [[Gate 30 - The Clinging Fire]] — Emotional desire and recognition (Solar Plexus)
 - [[Gate 41 - Decrease]] — Fantasy and desire (Root)
 - [[Gate 42 - Increase]] — Completion and maturation (Sacral)
 - [[Gate 29 - The Abysmal]] — Commitment and perseverance (Sacral)
@@ -337,8 +337,8 @@ Gate 53 teaches that **beginnings are sacred**. When the individual honors their
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 53 - Development]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 53 - Immaturity to Superabundance]] — Richard Rudd's shadow-gift-siddhi framework
-- [[The Fool (Tarot)]] — Resonance with new beginnings and innocent starts
-- [[Kether (Qabalah)]] — The Crown, the first emanation and source of all cycles
+- [[The Fool (0)]] — Resonance with new beginnings and innocent starts
+- [[Kether]] — The Crown, the first emanation and source of all cycles
 
 ### Thematic Collections
 - Gates of the Root Center — All nine gates within the Pressure/Stress center
@@ -347,9 +347,9 @@ Gate 53 teaches that **beginnings are sacred**. When the individual honors their
 - [[Gates of Development]] — Gates related to growth and maturation
 
 ### Archetypal and Mythological
-- [[The Puer Aeternus Archetype]] — Jungian archetypal pattern of eternal youth
+- The Puer Aeternus Archetype — Jungian archetypal pattern of eternal youth
 - [[Jupiter (Mythology)]] — The Roman god of expansion and growth
-- [[Persephone (Greek Mythology)]] — The goddess of cycles, beginnings, and returns
+- Persephone (Greek mythology) — The goddess of cycles, beginnings, and returns
 - [[The Seed (Symbolism)]] — Universal symbol of beginning and potential
 
 ### Biological and Somatic

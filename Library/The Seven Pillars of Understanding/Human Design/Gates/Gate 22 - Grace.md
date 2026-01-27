@@ -327,11 +327,11 @@ Gate 22 teaches that **true grace is not performance but presence**. When the in
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 22 - Grace]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 22 - Dishonour to Grace]] — Richard Rudd's shadow-gift-siddhi framework for Gate 22
-- [[The Empress (Tarot)]] — Archetypal beauty, receptivity, and nurturing presence
-- [[Temperance (Tarot)]] — Alchemical balance and grace
-- [[Tiphereth (Qabalah)]] — The Sephirah of Beauty and harmonic balance
-- [[Venus (Astrology)]] — The planet of love, beauty, and social grace
-- [[Moon (Astrology)]] — The planet of emotional receptivity and sensitivity
+- [[The Empress (III)]] — Archetypal beauty, receptivity, and nurturing presence
+- [[Temperance (XIV)]] — Alchemical balance and grace
+- [[Tiphareth]] — The Sephirah of Beauty and harmonic balance
+- [[Venus ♀]] — The planet of love, beauty, and social grace
+- [[Moon ☽]] — The planet of emotional receptivity and sensitivity
 
 ### Thematic Collections
 - Gates of the Solar Plexus Center — All gates within the Emotional Awareness center
@@ -340,9 +340,9 @@ Gate 22 teaches that **true grace is not performance but presence**. When the in
 - [[Gates of Social Navigation]] — Gates that facilitate connection and interaction
 
 ### Archetypal and Mythological
-- [[The Host/Hostess Archetype]] — The figure who creates space through presence
-- [[The Listener Archetype]] — The one who hears without needing to fix
-- [[Hestia (Greek Mythology)]] — Goddess of the hearth, hospitality, and gracious presence
+- The Host/Hostess Archetype — The figure who creates space through presence
+- The Listener Archetype — The one who hears without needing to fix
+- Hestia (Greek mythology) — Goddess of the hearth, hospitality, and gracious presence
 - [[The Feeling Function (Jung)]] — Psychological evaluation through emotional tone
 
 ### Biological and Somatic

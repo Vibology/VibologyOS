@@ -304,7 +304,7 @@ Gate 58 teaches that **dissatisfaction is fuel, not failure**. When the individu
 ## Cross-References
 
 ### Sequential Connections (Within Root Center Gates)
-- [[Gate 38 - The Fighter]] — Opposition and struggle for meaning
+- [[Gate 38 - Opposition]] — Opposition and struggle for meaning
 - [[Gate 39 - Obstruction]] — Provocation and emotional depth
 - [[Gate 41 - Decrease]] — Contraction and fantasy
 - [[Gate 52 - Keeping Still]] — Stillness and focus
@@ -314,7 +314,7 @@ Gate 58 teaches that **dissatisfaction is fuel, not failure**. When the individu
 
 ### Channel Connections
 - [[Channel 58-18 - Judgment]] — Root to Spleen (correction and perfection)
-- [[Gate 18 - Work on the Decayed]] — Correction of patterns (Spleen Center)
+- [[Gate 18 - Work on What Has Been Spoilt]] — Correction of patterns (Spleen Center)
 
 ### Circuit Connections (Collective Logic)
 - [[Gate 04 - Youthful Folly]] — Formulation of mental answers (Ajna)
@@ -323,7 +323,7 @@ Gate 58 teaches that **dissatisfaction is fuel, not failure**. When the individu
 - [[Gate 11 - Peace]] — Ideas for the collective (Ajna)
 - [[Gate 16 - Enthusiasm]] — Skills and mastery (Throat)
 - [[Gate 17 - Following]] — Opinions and perspectives (Ajna)
-- [[Gate 18 - Work on the Decayed]] — Correction (Spleen)
+- [[Gate 18 - Work on What Has Been Spoilt]] — Correction (Spleen)
 - [[Gate 20 - Contemplation]] — The now (Throat)
 - [[Gate 24 - The Return]] — Rationalization (Ajna)
 - [[Gate 31 - Influence]] — Leading through influence (Throat)
@@ -339,7 +339,7 @@ Gate 58 teaches that **dissatisfaction is fuel, not failure**. When the individu
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 58 - The Joyous]] — Source hexagram and traditional interpretation
 - [[Gene Keys 58 - Dissatisfaction to Bliss]] — Shadow-gift-siddhi framework
-- [[Strength (Tarot)]] — Resonance with vitality harnessed
+- [[Strength (VIII)]] — Resonance with vitality harnessed
 - [[Malkuth (Qabalah)]] — Kingdom, manifestation, grounded reality
 
 ### Thematic Collections
@@ -349,10 +349,10 @@ Gate 58 teaches that **dissatisfaction is fuel, not failure**. When the individu
 - [[Gates of Correction]] — Gates related to pattern refinement
 
 ### Archetypal and Mythological
-- [[The Craftsman Archetype]] — Pattern of refinement and mastery
-- [[The Critic Archetype]] — Discernment through judgment
+- The Craftsman Archetype — Pattern of refinement and mastery
+- The Critic Archetype — Discernment through judgment
 - [[Mars (Mythology)]] — God of drive and action
-- [[Hephaestus (Greek Mythology)]] — God of craft and perfection through work
+- Hephaestus (Greek mythology) — God of craft and perfection through work
 
 ### Biological and Somatic
 - [[Root]] — Pressure, adrenaline, fuel, stress response
@@ -363,7 +363,7 @@ Gate 58 teaches that **dissatisfaction is fuel, not failure**. When the individu
 - Strategy and [[Authority]] — Decision-making framework
 - Defined vs. Undefined Centers — Fixed vs. variable energy
 - The 7-Year Deconditioning Cycle — Returning to authentic design
-- [[Pressure Centers]] — Root and Head as fuel generators
+- Pressure Centers — Root and Head as fuel generators
 
 ---
 

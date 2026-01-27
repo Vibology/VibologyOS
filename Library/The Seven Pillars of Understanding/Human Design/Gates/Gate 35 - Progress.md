@@ -336,8 +336,8 @@ Gate 35 teaches that **progress requires movement**. When the individual honors 
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 35 - Progress]] — The source hexagram
 - [[Gene Keys 35 - Hunger to Boundlessness]] — Shadow-gift-siddhi framework
-- [[The Fool (Tarot)]] — Adventure, new experience
-- [[Chokmah (Qabalah)]] — Wisdom through exploration
+- [[The Fool (0)]] — Adventure, new experience
+- [[Chokmah]] — Wisdom through exploration
 
 ### Thematic Collections
 - Gates of the Throat Center — All eleven gates
@@ -347,7 +347,7 @@ Gate 35 teaches that **progress requires movement**. When the individual honors 
 
 ### Biological and Somatic
 - [[Throat]] — Manifestation and expression
-- [[Thyroid]] — Metabolic regulation
+- Thyroid — Metabolic regulation
 - [[Voice]] — Expression of hunger
 
 ### Practical Application

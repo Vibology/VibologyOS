@@ -325,12 +325,12 @@ Gate 19 teaches that **true sensitivity honors interdependence without losing se
 - [[Gate 40 - Deliverance]] — Tribal aloneness and restoration (Ego)
 - [[Gate 45 - Gathering Together]] — Tribal rulership (Throat)
 - [[Gate 50 - The Cauldron]] — Tribal values (Spleen)
-- [[Gate 51 - Shock]] — Individual ego willpower (Ego)
+- [[Gate 51 - The Arousing]] — Individual ego willpower (Ego)
 
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 19 - Approach]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 19 - Co-dependence to Sacrifice]] — Richard Rudd's shadow-gift-siddhi framework for Gate 19
-- [[The Empress (Tarot)]] — Resonance with nurturing and abundance
+- [[The Empress (III)]] — Resonance with nurturing and abundance
 - Chesed (Qabalah) — The Sephirah of mercy and loving-kindness
 - [[The Moon (Astrology)]] — The body that governs needs and nurturing
 
@@ -341,8 +341,8 @@ Gate 19 teaches that **true sensitivity honors interdependence without losing se
 - [[Gates of Resource Exchange]] — Gates that govern tribal support
 
 ### Archetypal and Mythological
-- [[The Caretaker Archetype]] — The pattern of nurturing and support
-- [[Demeter (Greek Mythology)]] — Goddess of harvest and nourishment
+- The Caretaker Archetype — The pattern of nurturing and support
+- Demeter (Greek mythology) — Goddess of harvest and nourishment
 - [[The Bodhisattva (Buddhism)]] — The enlightened being who approaches all with compassion
 - [[Mother Teresa (Historical)]] — Embodiment of approaching the suffering with sensitivity
 

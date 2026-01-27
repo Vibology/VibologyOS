@@ -340,7 +340,7 @@ Gate 7 teaches that **leadership is a role, not an identity**. When the individu
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 7 - The Army]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 07 - Division to Virtue]] — Richard Rudd's shadow-gift-siddhi framework for Gate 7
-- [[The Emperor (Tarot)]] — Resonance with structure, order, and authority
+- [[The Emperor (IV)]] — Resonance with structure, order, and authority
 - Chesed (Qabalah) — Mercy, benevolent authority
 - Saturn — Planet of structure, authority, and roles
 
@@ -351,7 +351,7 @@ Gate 7 teaches that **leadership is a role, not an identity**. When the individu
 - [[Gates of Role and Identity]] — Gates carrying the capacity to recognize one's place in the collective
 
 ### Archetypal and Mythological
-- [[The King Archetype]] — The ruler who serves the people
+- The King Archetype — The ruler who serves the people
 - [[The General (Military Leadership)]] — Strategic guidance of collective action
 - [[The Steward (Leadership as Service)]] — Authority as responsibility
 - [[The Army (Organized Collective)]] — Disciplined action guided by leadership

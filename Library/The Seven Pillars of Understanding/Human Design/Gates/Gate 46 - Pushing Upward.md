@@ -322,13 +322,13 @@ Gate 46 teaches that **the body is sacred**. When the individual honors their lo
 - [[Gate 04 - Youthful Folly]] — Mental formulation
 - [[Gate 11 - Peace]] — Mental attunement
 - [[Gate 17 - Following]] — Mental recognition of patterns
-- [[Gate 18 - Work on What Has Been Spoiled]] — Correction
+- [[Gate 18 - Work on What Has Been Spoilt]] — Correction
 - [[Gate 48 - The Well]] — Depth of resources
 
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 46 - Pushing Upward]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 46 - Seriousness to Ecstasy]] — Richard Rudd's shadow-gift-siddhi framework for Gate 46
-- [[The Empress (Tarot)]] — Resonance with embodied abundance
+- [[The Empress (III)]] — Resonance with embodied abundance
 - [[Malkuth (Qabalah)]] — Kingdom, physical manifestation
 
 ### Thematic Collections
@@ -338,13 +338,13 @@ Gate 46 teaches that **the body is sacred**. When the individual honors their lo
 - [[Gates of Serendipity]] — Gates that create synchronistic encounters
 
 ### Archetypal and Mythological
-- [[The Lover Archetype]] — Jungian archetypal pattern of embodied celebration
+- The Lover Archetype — Jungian archetypal pattern of embodied celebration
 - [[The Sensate Function]] — Jung's typology of physical presence
-- [[Venus (Astrology)]] — Love and physical pleasure
+- [[Venus ♀]] — Love and physical pleasure
 
 ### Biological and Somatic
 - [[G Center]] — The center of identity, direction, and love
-- [[Liver (Biology)]] — The organ of physical vitality
+- Liver (Biology) — The organ of physical vitality
 - [[Embodied Presence]] — Somatic awareness and incarnation
 
 ### Practical Application

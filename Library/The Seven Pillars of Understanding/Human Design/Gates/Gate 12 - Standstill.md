@@ -324,7 +324,7 @@ Gate 12 teaches that **not all action is progress**. When the individual honors 
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 12 - Standstill]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 12 - Vanity to Purity]] — Richard Rudd's shadow-gift-siddhi framework for Gate 12
-- [[The Hanged Man (Tarot)]] — Resonance with sacred suspension and standstill
+- [[The Hanged Man (XII)]] — Resonance with sacred suspension and standstill
 - Binah (Qabalah) — The Sephirah of Understanding and divine limitation
 - Saturn — The planet of boundaries, time, and necessary restraint
 
@@ -335,7 +335,7 @@ Gate 12 teaches that **not all action is progress**. When the individual honors 
 - [[Gates of Caution and Restraint]] — Gates that articulate boundaries and "no"
 
 ### Archetypal and Mythological
-- [[The Guardian Archetype]] — The pattern of protecting through discernment
+- The Guardian Archetype — The pattern of protecting through discernment
 - [[The Senex (Old Man)]] — Jungian archetype of Saturn, wisdom through limitation
 - [[Kronos/Saturn (Mythology)]] — The deity of time, harvest, and necessary endings
 

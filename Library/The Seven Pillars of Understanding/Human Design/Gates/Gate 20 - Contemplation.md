@@ -353,7 +353,7 @@ Gate 20 teaches that **true power is presence**. When the individual honors thei
 - [[I-Ching Hexagram 20 - Contemplation]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 20 - Superficiality to Presence]] — Richard Rudd's shadow-gift-siddhi framework for Gate 20
 - [[Judgment (Tarot)]] — Resonance with awakening and recognition
-- [[Kether (Qabalah)]] — The Crown, pure point of presence
+- [[Kether]] — The Crown, pure point of presence
 - [[Mercury/Sun (Astrology)]] — Communication/identity expressed through the now
 
 ### Thematic Collections
@@ -363,7 +363,7 @@ Gate 20 teaches that **true power is presence**. When the individual honors thei
 - [[Gates of Existential Recognition]] — Gates that embody lived truth
 
 ### Archetypal and Mythological
-- [[The Witness Archetype]] — The pattern of observing without judgment
+- The Witness Archetype — The pattern of observing without judgment
 - [[The Buddha (Buddhism)]] — Awakening through presence
 - [[Eckhart Tolle (Contemporary)]] — Teacher of present-moment awareness
 - [[The Eternal Now (Philosophy)]] — The collapse of time into presence

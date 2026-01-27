@@ -306,7 +306,7 @@ Gate 44 teaches that **memory is sacred**. When the individual honors their inst
 ## Cross-References
 
 ### Sequential Connections (Within Spleen Center Gates)
-- [[Gate 18 - Work on What Has Been Spoiled]] — Correction and tribal improvement
+- [[Gate 18 - Work on What Has Been Spoilt]] — Correction and tribal improvement
 - [[Gate 28 - Preponderance of the Great]] — Risk-taking and struggle for purpose
 - [[Gate 32 - Duration]] — Continuity and transformation
 - [[Gate 48 - The Well]] — Depth of resources and tribal knowledge
@@ -331,11 +331,11 @@ Gate 44 teaches that **memory is sacred**. When the individual honors their inst
 ### Thematic Collections
 - Gates of the Spleen Center — All seven gates within the Survival center
 - Tribal Circuit Gates — All gates within the Tribal stream
-- [[Gates of Pattern Recognition]] — Gates related to memory and recognition
+- Gates of Pattern Recognition — Gates related to memory and recognition
 - [[Gates of Survival Instinct]] — Gates that protect tribal well-being
 
 ### Archetypal and Mythological
-- [[The Guardian Archetype]] — Jungian archetypal pattern of protection through memory
+- The Guardian Archetype — Jungian archetypal pattern of protection through memory
 - [[Ancestral Memory]] — Collective unconscious patterns
 - Saturn — Time, structure, karmic memory
 
@@ -348,7 +348,7 @@ Gate 44 teaches that **memory is sacred**. When the individual honors their inst
 - Strategy and [[Authority]] — The foundational Human Design decision-making framework
 - Defined vs. Undefined Centers — Understanding fixed vs. variable energy in the bodygraph
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
-- [[Tribal vs. Individual vs. Collective]] — Distinguishing the three streams of the bodygraph
+- Tribal vs. Individual vs. Collective — Distinguishing the three streams of the bodygraph
 
 ---
 

@@ -339,7 +339,7 @@ Gate 39 teaches that **obstruction serves growth**. When the individual honors t
 - [[Gates of Spirit]] — Accessing emotional depth
 
 ### Archetypal and Mythological
-- [[The Trickster Archetype]] — Disruption as awakening
+- The Trickster Archetype — Disruption as awakening
 - [[The Provocateur]] — Challenge that serves growth
 - [[Sacred Disruption]] — Obstruction as teacher
 

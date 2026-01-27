@@ -311,7 +311,7 @@ Gate 52 teaches that **stillness is not weakness; it is wisdom**. When the indiv
 ### Sequential Connections (Within Root Center Gates)
 - [[Gate 53 - Development]] — The pressure to start new cycles (complementary to Gate 52's stillness)
 - [[Gate 54 - The Marrying Maiden]] — The pressure to rise up and achieve
-- [[Gate 38 - The Fighter]] — The pressure to struggle for purpose
+- [[Gate 38 - Opposition]] — The pressure to struggle for purpose
 - [[Gate 39 - Obstruction]] — The pressure to provoke emotion and spirit
 - [[Gate 41 - Decrease]] — The initiating fuel of desire and fantasy
 - [[Gate 58 - The Joyous]] — The pressure to perfect and correct
@@ -327,14 +327,14 @@ Gate 52 teaches that **stillness is not weakness; it is wisdom**. When the indiv
 - [[Gate 17 - Following]] — Opinions and organizational thinking (Ajna)
 - [[Gate 62 - Preponderance of the Small]] — Detail and naming (Throat)
 - [[Gate 16 - Enthusiasm]] — Depth and skill through repetition (Throat)
-- [[Gate 18 - Work on the Decayed]] — Correction and perfection (Spleen)
+- [[Gate 18 - Work on What Has Been Spoilt]] — Correction and perfection (Spleen)
 - [[Gate 58 - The Joyous]] — Vitality and insatiability for improvement (Root)
 - [[Gate 09 - Focus of the Small]] — Concentration and detail (Sacral)
 
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 52 - Keeping Still]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 52 - Stress to Stillness]] — Richard Rudd's shadow-gift-siddhi framework for Gate 52
-- [[The Hanged Man (Tarot)]] — Resonance with voluntary suspension and waiting
+- [[The Hanged Man (XII)]] — Resonance with voluntary suspension and waiting
 - Binah (Qabalah) — The sephira of understanding, form, and containment
 
 ### Thematic Collections
@@ -344,9 +344,9 @@ Gate 52 teaches that **stillness is not weakness; it is wisdom**. When the indiv
 - [[Gates of Assessment]] — Gates related to evaluation and pattern recognition
 
 ### Archetypal and Mythological
-- [[The Sage Archetype]] — Jungian archetypal pattern of wisdom through observation
+- The Sage Archetype — Jungian archetypal pattern of wisdom through observation
 - [[Saturn (Mythology)]] — The Roman god of time, discipline, and limitation
-- [[Kronos (Greek Mythology)]] — The Greek god of time and harvest
+- Kronos (Greek mythology) — The Greek god of time and harvest
 - [[The Mountain (Symbolism)]] — Universal symbol of stillness, immovability, and endurance
 
 ### Biological and Somatic

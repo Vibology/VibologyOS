@@ -336,9 +336,9 @@ Gate 51 teaches that **courage is the foundation of individuation**. When the in
 - [[Gates of Initiation]] — Gates specifically related to being first, pioneering, risking
 
 ### Archetypal and Mythological
-- [[The Warrior Archetype]] — Jungian archetypal pattern of courage and initiation
+- The Warrior Archetype — Jungian archetypal pattern of courage and initiation
 - [[Mars (Mythology)]] — The Roman god of war and action
-- [[Ares (Greek Mythology)]] — The Greek god of battle and competitive spirit
+- Ares (Greek mythology) — The Greek god of battle and competitive spirit
 - [[Thor (Norse Mythology)]] — The thunder god whose hammer shocks and protects
 
 ### Biological and Somatic

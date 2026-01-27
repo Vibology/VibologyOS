@@ -324,7 +324,7 @@ Gate 42 teaches that **completion is sacred**. When the individual honors their 
 
 ### Circuit Connections (Collective Abstract - Sensing)
 - [[Gate 41 - Decrease]] — The initiating fantasy pressure
-- [[Gate 30 - Clinging Fire]] — Emotional recognition of experience
+- [[Gate 30 - The Clinging Fire]] — Emotional recognition of experience
 - [[Gate 36 - Darkening of the Light]] — Emotional exploration through crisis
 - [[Gate 22 - Grace]] — Emotional openness and surrender
 - [[Gate 37 - The Family]] — Emotional bargaining and agreements
@@ -342,7 +342,7 @@ Gate 42 teaches that **completion is sacred**. When the individual honors their 
 - [[Gates of Cyclical Growth]] — Gates that honor natural rhythms
 
 ### Archetypal and Mythological
-- [[The Completer Archetype]] — Jungian archetypal pattern of bringing things to wholeness
+- The Completer Archetype — Jungian archetypal pattern of bringing things to wholeness
 - [[Cycles and Seasons]] — Natural rhythms of growth and completion
 - [[Jupiter (Astrology)]] — Expansion and benevolent completion
 

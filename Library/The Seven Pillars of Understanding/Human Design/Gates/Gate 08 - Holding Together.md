@@ -346,7 +346,7 @@ Gate 8 teaches that **creative contribution is not about being the best—it is 
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 8 - Holding Together]] — The source hexagram and traditional I-Ching interpretation
 - [[Gene Keys 08 - Mediocrity to Exquisiteness]] — Richard Rudd's shadow-gift-siddhi framework for Gate 8
-- [[Strength (Tarot)]] — Resonance with authentic power through gentle expression
+- [[Strength (VIII)]] — Resonance with authentic power through gentle expression
 - Hod (Qabalah) — Splendor, glory, and the manifestation of beauty
 - Mercury — Planet of expression and communication
 

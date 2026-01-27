@@ -330,8 +330,8 @@ Gate 61 teaches that **inner truth cannot be forced**. When the individual honor
 ### Cross-System Correspondences
 - [[I-Ching Hexagram 61 - Inner Truth]] — Source hexagram and traditional interpretation
 - [[Gene Keys 61 - Psychosis to Sanctity]] — Shadow-gift-siddhi framework
-- [[The High Priestess (Tarot)]] — Resonance with hidden knowing
-- [[Kether (Qabalah)]] — Crown, source, unknowable divine
+- [[The High Priestess (II)]] — Resonance with hidden knowing
+- [[Kether]] — Crown, source, unknowable divine
 
 ### Thematic Collections
 - Gates of the Head Center — All gates within Inspiration center
@@ -340,10 +340,10 @@ Gate 61 teaches that **inner truth cannot be forced**. When the individual honor
 - [[Gates of Inspiration]] — Gates related to spontaneous knowing
 
 ### Archetypal and Mythological
-- [[The Mystic Archetype]] — Pattern of direct knowing
-- [[The Seer Archetype]] — Revelation through vision
+- The Mystic Archetype — Pattern of direct knowing
+- The Seer Archetype — Revelation through vision
 - [[Neptune (Mythology)]] — God of the deep, the mysterious
-- [[Oracle of Delphi (Greek Mythology)]] — Inspiration through divine pressure
+- Oracle of Delphi (Greek mythology) — Inspiration through divine pressure
 
 ### Biological and Somatic
 - [[Head]] — Inspiration, mental pressure, cosmic questions
@@ -354,7 +354,7 @@ Gate 61 teaches that **inner truth cannot be forced**. When the individual honor
 - Strategy and [[Authority]] — Decision-making framework
 - Defined vs. Undefined Centers — Fixed vs. variable energy
 - The 7-Year Deconditioning Cycle — Returning to authentic design
-- [[Pressure Centers]] — Root and Head as fuel generators
+- Pressure Centers — Root and Head as fuel generators
 
 ---
 

@@ -322,7 +322,7 @@ Gate 63 teaches that **doubt serves truth**. When the individual honors their pr
 - [[Gate 11 - Peace]] — Ideas for the collective (Ajna)
 - [[Gate 16 - Enthusiasm]] — Skills and mastery (Throat)
 - [[Gate 17 - Following]] — Opinions and perspectives (Ajna)
-- [[Gate 18 - Work on the Decayed]] — Correction (Spleen)
+- [[Gate 18 - Work on What Has Been Spoilt]] — Correction (Spleen)
 - [[Gate 20 - Contemplation]] — The now (Throat)
 - [[Gate 24 - The Return]] — Rationalization (Ajna)
 - [[Gate 31 - Influence]] — Leading through influence (Throat)
@@ -348,8 +348,8 @@ Gate 63 teaches that **doubt serves truth**. When the individual honors their pr
 - [[Gates of Questioning]] — Gates related to doubt and verification
 
 ### Archetypal and Mythological
-- [[The Skeptic Archetype]] — Pattern of productive doubt
-- [[The Scientist Archetype]] — Verification through testing
+- The Skeptic Archetype — Pattern of productive doubt
+- The Scientist Archetype — Verification through testing
 - [[Saturn (Mythology)]] — God of time and testing
 - [[Diogenes (Greek Philosophy)]] — Cynic who questioned all patterns
 
@@ -362,7 +362,7 @@ Gate 63 teaches that **doubt serves truth**. When the individual honors their pr
 - Strategy and [[Authority]] — Decision-making framework
 - Defined vs. Undefined Centers — Fixed vs. variable energy
 - The 7-Year Deconditioning Cycle — Returning to authentic design
-- [[Pressure Centers]] — Root and Head as fuel generators
+- Pressure Centers — Root and Head as fuel generators
 
 ---
 

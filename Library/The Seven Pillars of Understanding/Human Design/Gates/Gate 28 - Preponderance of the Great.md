@@ -332,7 +332,7 @@ Gate 28 teaches that **life's meaning is found in the struggle itself, not in pe
 - [[The Tower (XVI)]] — Necessary destruction and struggle
 - Geburah (Qabalah) — The Sephirah of Severity and war
 - [[Mars (Astrology)]] — The planet of action and warrior energy
-- [[Pluto (Astrology)]] — The planet of death, transformation, and depth
+- [[Pluto ♇]] — The planet of death, transformation, and depth
 
 ### Thematic Collections
 - Gates of the Spleen Center — All gates within the Instinctual Awareness center
@@ -341,14 +341,14 @@ Gate 28 teaches that **life's meaning is found in the struggle itself, not in pe
 - [[Gates of Existential Awareness]] — Gates that confront impermanence and meaning
 
 ### Archetypal and Mythological
-- [[The Warrior Archetype]] — The fighter who struggles for purpose
+- The Warrior Archetype — The fighter who struggles for purpose
 - [[The Existentialist]] — The philosopher who confronts meaninglessness
-- [[Achilles (Greek Mythology)]] — The warrior who chose glory over longevity
-- [[Sisyphus (Greek Mythology)]] — The eternal struggle as meaning itself
+- Achilles (Greek mythology) — The warrior who chose glory over longevity
+- Sisyphus (Greek mythology) — The eternal struggle as meaning itself
 
 ### Biological and Somatic
 - [[Spleen]] — The center of instinctual awareness and survival
-- [[Lymphatic System]] — Defense and immune response
+- Lymphatic System — Defense and immune response
 - [[Existential Anxiety]] — Fear manifesting in the body as urgency
 
 ### Practical Application
