@@ -70,12 +70,13 @@ Library/
 Synthesis/
   General/        - Universal archetypal patterns, teaching demos
   Themed Collections/
-Consultations/    - Client work (chart data, readings)
 .archive/         - Deprecated files
 .commands/        - Procedural instructions
 ```
 
-**Library size:** 643 files across 7 pillars (as of 2026-01-20)
+**Client work:** Consultations folder resides in `~/Business/Consultations/` (separate from synthesis engine)
+
+**Library size:** 747 files across 7 pillars (as of 2026-01-27)
 
 ## 8. Personas
 

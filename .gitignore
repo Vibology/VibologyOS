@@ -16,9 +16,8 @@ Thumbs.db
 # API tokens and secrets
 .env
 
-# Consultation files (kept in separate private repo)
-# These should not be committed to VibologyOS
-🤝 Consultations/
+# Note: Consultations folder has been moved to ~/Business/Consultations/
+# (separate from VibologyOS synthesis engine)
 
 # Large cache files
 *.cache

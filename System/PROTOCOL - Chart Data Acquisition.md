@@ -1,7 +1,7 @@
 ---
 tags: [system, protocol, data-integrity, astrology, human-design]
 date_created: 2026-01-15
-date_updated: 2026-01-17
+date_updated: 2026-01-27
 ---
 
 # Protocol: Chart Data Acquisition
@@ -316,7 +316,7 @@ python get_transit_data.py --return-planet chiron --natal-position 29.40 --start
 **File Organization:**
 
 ```
-🤝 Consultations/
+~/Business/Consultations/
 └── [Client Name or Entity ID]/
     ├── astrology.json              # Natal chart (PERMANENT)
     ├── humandesign.json            # HD bodygraph (PERMANENT)
@@ -452,7 +452,7 @@ The `calculate_chart.sh` wrapper script automatically activates the virtual envi
   --pretty > humandesign.json
 
 # Example: Full calculation for Joe Lewis
-cd "🤝 Consultations/Joe Lewis"
+cd "~/Business/Consultations/Joe Lewis"
 
 "../../◈ System/Scripts/calculate_chart.sh" astrology \
   --name "Joe Lewis" \
@@ -532,6 +532,7 @@ pkill -f "uvicorn humandesign"
 
 ## Version History
 
+- **2026-01-27:** Updated Consultations folder references to `~/Business/Consultations/`. Client data now stored outside VibologyOS repository.
 - **2026-01-17:** **CRITICAL UPDATE - Transit Calculation Requirement Emphasized.** Added "THE CARDINAL RULE: ALWAYS CALCULATE TRANSITS" section with explicit examples of wrong vs. correct approach. Updated Phase 2b language to make transit calculation NON-NEGOTIABLE for any timing-related questions. This update addresses a protocol violation in the initial Joe Lewis synthesis where vague timing language was used instead of calculated transits. ALL FUTURE SYNTHESIS WORK MUST CALCULATE TRANSITS WHEN TIMING IS INVOLVED.
 - **2026-01-17:** Virtual environment setup. Created `.venv/` in VibologyOS root, `requirements.txt` for dependency management, `calculate_chart.sh` wrapper script for automatic venv activation. Updated all Quick Reference examples. Addresses dependency persistence issues after system updates (PEP 668 compliance).
 - **2026-01-16:** Major revision. Added geolocation verification (`verify_geolocation.py`), transit calculation (`get_transit_data.py`), verification checklist template, updated file organization. Response to transit data hallucination issue in Szilvia Williams synthesis.

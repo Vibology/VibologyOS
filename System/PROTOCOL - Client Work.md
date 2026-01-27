@@ -1,7 +1,7 @@
 ---
 tags: [system, protocol, client-work, privacy, synthesis]
 date_created: 2026-01-19
-date_updated: 2026-01-19
+date_updated: 2026-01-27
 status: Active
 ---
 
@@ -246,7 +246,7 @@ Rationale: PDF design involves aesthetic choices (fonts, layout, colors, graphic
 ### 4.1 File Organization Standard
 
 ```
-Consultations/[Full Name]/
+~/Business/Consultations/[Full Name]/
 ├── astrology.json           (permanent - natal)
 ├── humandesign.json         (permanent - natal)
 ├── [Reference PDFs]         (permanent - external charts)
@@ -269,7 +269,7 @@ Consultations/[Full Name]/
 **After completing a client reading:**
 
 ```bash
-git add "Consultations/[Client Name]/"
+git add "~/Business/Consultations/[Client Name]/"
 git commit -m "Complete [SW] synthesis: [brief description]
 
 - Systems: Astrology + Human Design [+ transits if applicable]
@@ -299,7 +299,7 @@ If errors are discovered after delivery:
 **Client-requested deletion:**
 
 1. Confirm deletion request in writing
-2. Remove client folder from `Consultations/`
+2. Remove client folder from `~/Business/Consultations/`
 3. Remove from git history (if required): `git filter-branch` or BFG
 4. Confirm deletion to client
 5. Log deletion date (without client details) in audit log
@@ -313,7 +313,7 @@ If errors are discovered after delivery:
 ### Tier 1: Full Name (Limited Use)
 
 **Where Full Name Appears:**
-- Consultation folder name (`Consultations/Szilvia Williams/`)
+- Consultation folder name (`~/Business/Consultations/Szilvia Williams/`)
 - PDF greeting/header ("Dear Szilvia,")
 - Direct client communication
 
@@ -388,7 +388,7 @@ If errors are discovered after delivery:
 □ Collect birth data (date, time, location, precision)
 □ Document questions (primary, secondary, context)
 □ Assign Entity ID
-□ Create folder: Consultations/[Full Name]/
+□ Create folder: ~/Business/Consultations/[Full Name]/
 □ Run geolocation verification
 □ Calculate astrology.json
 □ Calculate humandesign.json
@@ -421,6 +421,7 @@ VI.  Closing (Practical guidance, next steps)
 
 ## Version History
 
+- **2026-01-27:** Updated all Consultations folder references to `~/Business/Consultations/`. Client work now resides outside VibologyOS repository.
 - **2026-01-19:** Initial protocol created. Formalizes workflow from Szilvia Williams and Joe Lewis synthesis work. Addresses Process Gap #5.
 
 ---
