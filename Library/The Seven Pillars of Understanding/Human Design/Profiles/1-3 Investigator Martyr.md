@@ -149,11 +149,11 @@ The 1/3 brings:
 
 ## Cross-References
 
-- **Right Angle Cross:** See [[Incarnation Cross]] for personal destiny themes
+- **Right Angle Cross:** See [[Incarnation Crosses]] for personal destiny themes
 - **Line 1:** Introspection and foundation
 - **Line 3:** Adaptation and experimentation
-- **Jungian Parallel:** The [[Hero's Journey]]—trials that forge knowledge
-- **Tarot:** [[The Hermit]] (Line 1 investigation) and [[The Fool (0)]] (Line 3 leaping into experience)
+- **Jungian Parallel:** The Hero's Journey—trials that forge knowledge
+- **Tarot:** [[The Hermit (IX)]] (Line 1 investigation) and [[The Fool (0)]] (Line 3 leaping into experience)
 
 ---
 

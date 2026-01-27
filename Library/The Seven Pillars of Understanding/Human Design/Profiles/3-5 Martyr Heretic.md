@@ -153,11 +153,11 @@ The 3/5 brings:
 
 ## Cross-References
 
-- **Right Angle Cross:** See [[Incarnation Cross]] for personal destiny themes
+- **Right Angle Cross:** See [[Incarnation Crosses]] for personal destiny themes
 - **Line 3:** Adaptation and experimentation
 - **Line 5:** Universalization and reputation
-- **Jungian Parallel:** The [[Trickster]] who breaks rules to reveal truth
-- **Tarot:** [[The Fool (0)]] (Line 3 leaping) and [[The Tower]] (Line 5 breaking systems)
+- **Jungian Parallel:** The Trickster who breaks rules to reveal truth
+- **Tarot:** [[The Fool (0)]] (Line 3 leaping) and [[The Tower (XVI)]] (Line 5 breaking systems)
 
 ---
 

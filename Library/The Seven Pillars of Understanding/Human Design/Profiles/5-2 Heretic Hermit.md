@@ -154,11 +154,11 @@ The 5/2 brings:
 
 ## Cross-References
 
-- **Left Angle Cross:** See [[Incarnation Cross]] for trans-personal karma themes
+- **Left Angle Cross:** See [[Incarnation Crosses]] for trans-personal karma themes
 - **Line 5:** Universalization and reputation
 - **Line 2:** Projection and natural talent
-- **Jungian Parallel:** The [[Hermit]] who emerges only when the inner call is clear
-- **Tarot:** [[The Hermit]] (Line 2 solitude), [[The Hierophant]] (Line 5 universal teaching)
+- **Jungian Parallel:** The [[The Hermit (IX)]] who emerges only when the inner call is clear
+- **Tarot:** [[The Hermit (IX)]] (Line 2 solitude), [[The Hierophant (V)]] (Line 5 universal teaching)
 
 ---
 

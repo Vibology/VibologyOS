@@ -154,11 +154,11 @@ The 5/1 brings:
 
 ## Cross-References
 
-- **Left Angle Cross:** See [[Incarnation Cross]] for trans-personal karma themes
+- **Left Angle Cross:** See [[Incarnation Crosses]] for trans-personal karma themes
 - **Line 5:** Universalization and reputation
 - **Line 1:** Introspection and foundation
-- **Jungian Parallel:** The [[Hero]] who rescues, backed by the [[Wise Old Man]]'s knowledge
-- **Tarot:** [[The Emperor]] (Line 5 authority), [[The Hermit]] (Line 1 investigation)
+- **Jungian Parallel:** The Hero who rescues, backed by the [[The Wise Old Man]]'s knowledge
+- **Tarot:** [[The Emperor (IV)]] (Line 5 authority), [[The Hermit (IX)]] (Line 1 investigation)
 
 ---
 

@@ -177,11 +177,11 @@ The 4/6 brings:
 
 ## Cross-References
 
-- **Right Angle Cross:** See [[Incarnation Cross]] for personal destiny themes
+- **Right Angle Cross:** See [[Incarnation Crosses]] for personal destiny themes
 - **Line 4:** Externalization and network
 - **Line 6:** Transition and role modeling
 - **Jungian Parallel:** The [[Individuation Process]]—connection, withdrawal, integration
-- **Tarot:** [[The Hierophant]] (Line 4 teaching the network), [[The Hermit]] (Stage 2 withdrawal), [[The World]] (Stage 3 integration)
+- **Tarot:** [[The Hierophant (V)]] (Line 4 teaching the network), [[The Hermit (IX)]] (Stage 2 withdrawal), [[The World (XXI)]] (Stage 3 integration)
 
 ---
 

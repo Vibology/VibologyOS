@@ -146,11 +146,11 @@ The 1/4 brings:
 
 ## Cross-References
 
-- **Right Angle Cross:** See [[Incarnation Cross]] for personal destiny themes
+- **Right Angle Cross:** See [[Incarnation Crosses]] for personal destiny themes
 - **Line 1:** Introspection and foundation
 - **Line 4:** Externalization and network
-- **Jungian Parallel:** The [[Wise Old Man]] within the tribe
-- **Tarot:** [[The Hermit]] (Line 1 investigation) and [[The Hierophant]] (Line 4 teaching the network)
+- **Jungian Parallel:** The [[The Wise Old Man]] within the tribe
+- **Tarot:** [[The Hermit (IX)]] (Line 1 investigation) and [[The Hierophant (V)]] (Line 4 teaching the network)
 
 ---
 

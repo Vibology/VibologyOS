@@ -147,11 +147,11 @@ The 2/4 brings:
 
 ## Cross-References
 
-- **Right Angle Cross:** See [[Incarnation Cross]] for personal destiny themes
+- **Right Angle Cross:** See [[Incarnation Crosses]] for personal destiny themes
 - **Line 2:** Projection and natural talent
 - **Line 4:** Externalization and network
-- **Jungian Parallel:** The [[Hermit]] called into the world by necessity
-- **Tarot:** [[The Hermit]] (Line 2 solitude) and [[The Hierophant]] (Line 4 teaching the network)
+- **Jungian Parallel:** The [[The Hermit (IX)]] called into the world by necessity
+- **Tarot:** [[The Hermit (IX)]] (Line 2 solitude) and [[The Hierophant (V)]] (Line 4 teaching the network)
 
 ---
 

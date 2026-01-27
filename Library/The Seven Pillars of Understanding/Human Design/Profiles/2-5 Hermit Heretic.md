@@ -149,11 +149,11 @@ The 2/5 brings:
 
 ## Cross-References
 
-- **Right Angle Cross:** See [[Incarnation Cross]] for personal destiny themes
+- **Right Angle Cross:** See [[Incarnation Crosses]] for personal destiny themes
 - **Line 2:** Projection and natural talent
 - **Line 5:** Universalization and reputation
-- **Jungian Parallel:** The [[Savior]] archetype and the burden of projection
-- **Tarot:** [[The Hermit]] (Line 2 solitude) and [[The Hierophant]] (Line 5 universal teaching)
+- **Jungian Parallel:** The Savior archetype and the burden of projection
+- **Tarot:** [[The Hermit (IX)]] (Line 2 solitude) and [[The Hierophant (V)]] (Line 5 universal teaching)
 
 ---
 

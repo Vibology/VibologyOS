@@ -153,11 +153,11 @@ The 4/1 brings:
 
 ## Cross-References
 
-- **Juxtaposition Cross:** See [[Incarnation Cross]] for fixed-fate themes
+- **Juxtaposition Cross:** See [[Incarnation Crosses]] for fixed-fate themes
 - **Line 4:** Externalization and network
 - **Line 1:** Introspection and foundation
-- **Jungian Parallel:** The [[Wise Old Man]] on a fixed quest
-- **Tarot:** [[The Hierophant]] (teaching foundational knowledge), [[The Chariot]] (fixed direction)
+- **Jungian Parallel:** The [[The Wise Old Man]] on a fixed quest
+- **Tarot:** [[The Hierophant (V)]] (teaching foundational knowledge), [[The Chariot (VII)]] (fixed direction)
 
 ---
 

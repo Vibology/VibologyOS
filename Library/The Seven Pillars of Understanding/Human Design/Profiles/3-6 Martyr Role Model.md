@@ -179,11 +179,11 @@ The 3/6 brings:
 
 ## Cross-References
 
-- **Right Angle Cross:** See [[Incarnation Cross]] for personal destiny themes
+- **Right Angle Cross:** See [[Incarnation Crosses]] for personal destiny themes
 - **Line 3:** Adaptation and experimentation
 - **Line 6:** Transition and role modeling
 - **Jungian Parallel:** The [[Individuation Process]]—chaos, withdrawal, integration
-- **Tarot:** [[The Fool (0)]] (Line 3 leaping), [[The Hermit]] (Stage 2 withdrawal), [[The World]] (Stage 3 integration)
+- **Tarot:** [[The Fool (0)]] (Line 3 leaping), [[The Hermit (IX)]] (Stage 2 withdrawal), [[The World (XXI)]] (Stage 3 integration)
 
 ---
 

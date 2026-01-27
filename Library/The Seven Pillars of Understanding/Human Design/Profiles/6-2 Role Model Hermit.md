@@ -181,11 +181,11 @@ The 6/2 brings:
 
 ## Cross-References
 
-- **Left Angle Cross:** See [[Incarnation Cross]] for trans-personal karma themes
+- **Left Angle Cross:** See [[Incarnation Crosses]] for trans-personal karma themes
 - **Line 6:** Transition and role modeling
 - **Line 2:** Projection and natural talent
-- **Jungian Parallel:** The [[Wise Old Man]] / [[Wise Woman]] on the mountain
-- **Tarot:** [[The Hermit]] (Line 2 solitude and Line 6 on the roof), [[The World]] (Stage 3 integration)
+- **Jungian Parallel:** The [[The Wise Old Man]] / Wise Woman on the mountain
+- **Tarot:** [[The Hermit (IX)]] (Line 2 solitude and Line 6 on the roof), [[The World (XXI)]] (Stage 3 integration)
 
 ---
 
