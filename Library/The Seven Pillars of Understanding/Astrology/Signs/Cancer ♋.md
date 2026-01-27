@@ -141,7 +141,7 @@ Shadow: The 4th House can also represent **ancestral wounds**, unmetabolized fam
 
 ---
 ## Psychological Depth
-Cancer represents **belonging**—the primal need for connection to clan, to home, to the matrix from which the individual emerged. In Jungian terms, Cancer is the **[[Great Mother]] in her protective aspect**: the womb, the breast, the safe haven.
+Cancer represents **belonging**—the primal need for connection to clan, to home, to the matrix from which the individual emerged. In Jungian terms, Cancer is the **[[The Great Mother]] in her protective aspect**: the womb, the breast, the safe haven.
 
 Psychologically, strong Cancer placement correlates with:
 - Emotional attunement and empathic sensitivity
@@ -153,7 +153,7 @@ Psychologically, strong Cancer placement correlates with:
 Afflicted Cancer manifests as:
 - Enmeshment and codependency (no boundary between self and other)
 - Emotional manipulation (guilt as control, love as obligation)
-- The [[Shadow]] of the Devouring Mother: love that suffocates rather than liberates
+- The [[The Shadow]] of the Devouring Mother: love that suffocates rather than liberates
 - Clinging to the past, inability to release outgrown attachments
 - Emotional reactivity, the inability to distinguish past trauma from present reality
 - Martyrdom (self-sacrifice without boundaries, suffering as identity)
@@ -221,7 +221,7 @@ The Crab teaches that vulnerability is not weakness. It is the **courage to be s
 - [[Moon ☽]] — Cancer's ruler, instinct and somatic intelligence
 - [[4th House]] — Cancer's natural domain, home and ancestry
 - [[The Chariot (Tarot)]] — Key VII, mastery through emotional containment
-- [[Great Mother]] — Jungian archetype, nurturance and devouring
+- [[The Great Mother]] — Jungian archetype, nurturance and devouring
 - [[Human Design]] — G-Center (identity, love, direction)
 - [[Jupiter ♃]] — Exalted in Cancer, benevolent protection
 - [[Saturn ♄]] — Detriment in Cancer, structure clashing with fluidity

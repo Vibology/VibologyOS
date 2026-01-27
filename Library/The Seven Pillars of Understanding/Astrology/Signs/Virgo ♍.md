@@ -60,7 +60,7 @@ In traditional agrarian cycles, Virgo governs the **grain harvest**, the preserv
 ---
 ## Planetary Ruler: Mercury as Precision Instrument
 
-**[[Astrology/Planets/Mercury # ☿]]** — The messenger here serves as analyst, as the mind that organizes chaos into system[^1].
+**[[Mercury ☿]]** — The messenger here serves as analyst, as the mind that organizes chaos into system[^1].
 
 Mercury in Virgo is in both **domicile** (Night House) and **exaltation** (15°)—the highest expression of the mercurial function[^2]. This is Mercury as **precision instrument**: not scattering information ([[Gemini ♊]]) but *curating* it, separating signal from noise. Where Mercury in Gemini asks "What else?", Mercury in Virgo asks "What matters?"—and then refines, discards, perfects.
 
@@ -69,8 +69,8 @@ Mercury in Virgo is in both **domicile** (Night House) and **exaltation** (15°)
 
 | Dignity | Planet | Degree | Significance |
 |---------|--------|--------|--------------|
-| **Domicile** | [[Astrology/Planets/Mercury # ☿]][^1] | — | Mercury rules (Night House); analytical precision, discernment, signal-to-noise filtering |
-| **Exaltation** | [[Astrology/Planets/Mercury # ☿]][^2] | 15° | The highest expression of mercurial intelligence—mastery through detail |
+| **Domicile** | [[Mercury ☿]][^1] | — | Mercury rules (Night House); analytical precision, discernment, signal-to-noise filtering |
+| **Exaltation** | [[Mercury ☿]][^2] | 15° | The highest expression of mercurial intelligence—mastery through detail |
 | **Detriment** | [[Jupiter ♃]][^4] | — | Expansion constrained by analysis; faith questioned by reason |
 | **Fall** | [[Venus ♀]][^5] | 27° | Pleasure diminished by perfectionism; beauty scrutinized into flaw |
 
@@ -82,7 +82,7 @@ The **Mercury exaltation at 15° Virgo** is the point where intellect becomes *c
 Each sign is divided into three **decans** of 10° each, ruled by different planets that shade the sign's expression.
 
 ### First Decan (0°-10° Virgo): Sun (Virgo of Virgo)
-**Ruled by:** [[Sun ☉]] (Chaldean) or [[Astrology/Planets/Mercury # ☿]] (triplicity)
+**Ruled by:** [[Sun ☉]] (Chaldean) or [[Mercury ☿]] (triplicity)
 
 The purest expression of Virgo: **discernment, analysis, the devotion to craft**. This decan is the perfectionist, the one who cannot rest until the work is flawless. The Sun here brings pride to precision—not arrogance, but the quiet satisfaction of work done well. The shadow is self-criticism—the inner voice that sees only what is wrong, never what is right.
 
@@ -92,7 +92,7 @@ The purest expression of Virgo: **discernment, analysis, the devotion to craft**
 The **aesthetic** face of Virgo: refinement made beautiful, service made graceful. Venus here softens the Virgoan harshness, bringing appreciation for the *process* of refinement, not just the result. This decan is the artisan who makes function beautiful, the healer whose care is gentle. The shadow is Venus in fall (27°)—the critic who cannot receive pleasure, who sees the flaw in every gift.
 
 ### Third Decan (20°-30° Virgo): Mercury (Virgo of Taurus)
-**Ruled by:** [[Astrology/Planets/Mercury # ☿]] (Chaldean)
+**Ruled by:** [[Mercury ☿]] (Chaldean)
 
 The **mastery** face of Virgo: the craftsman who has refined their skill into second nature, the analyst who sees patterns instantly. Mercury here (approaching exaltation at 15°) brings **systematic intelligence**—the capacity to organize complexity into elegant simplicity. This decan is the expert, the one whose precision has become effortless. The shadow is obsession—analysis that never ends, refinement that prevents completion.
 
@@ -111,7 +111,7 @@ The integration of this axis is **compassionate service**: analyzing without jud
 
 ---
 ## Psychological Depth
-Virgo represents **the sacred in service**—the recognition that care for detail is a spiritual discipline. In Jungian terms, Virgo is the **[[Wise Old Man]] in apprentice form**: the one who seeks mastery not for glory but for the sake of the work itself.
+Virgo represents **the sacred in service**—the recognition that care for detail is a spiritual discipline. In Jungian terms, Virgo is the **[[The Wise Old Man]] in apprentice form**: the one who seeks mastery not for glory but for the sake of the work itself.
 
 Psychologically, strong Virgo placement correlates with:
 - Analytical precision and attention to detail
@@ -123,7 +123,7 @@ Afflicted Virgo manifests as:
 - Perfectionism and self-criticism (paralysis by analysis)
 - Obsessive-compulsive patterns (control as defense against chaos)
 - Hypochondria and health anxiety (the body as problem to be solved)
-- The [[Shadow]] of the Critic: judgment that wounds rather than heals
+- The [[The Shadow]] of the Critic: judgment that wounds rather than heals
 
 The Virgo journey is learning that *perfection is not the goal*—refinement is. And refinement never ends. Eventually, the analyst must surrender to the mystery ([[Pisces ♓]]). The task is to serve without martyrdom, to critique without cruelty, to refine without believing that flawlessness is attainable.
 
@@ -134,7 +134,7 @@ How each planet expresses when placed in Virgo, emphasizing precision, discernme
 
 - **[[Sun ☉]] in Virgo:** Identity anchored in craft and service, self-worth derived from competence. The one who defines themselves through what they *do* well. Shadow: self-criticism, never feeling "good enough."
 - **[[Moon ☽]] in Virgo:** Emotional security through order and routine, instinctive need to analyze and improve. The caretaker who shows love through fixing. Shadow: anxious nurturance, emotional unavailability disguised as helpfulness.
-- **[[Astrology/Planets/Mercury # ☿]] in Virgo (Domicile and Exaltation at 15°):** Analytical brilliance, precision of thought, systematic intelligence. The mind that sees flaws and solutions simultaneously. Shadow: overthinking, analysis paralysis, critical harshness.
+- **[[Mercury ☿]] in Virgo (Domicile and Exaltation at 15°):** Analytical brilliance, precision of thought, systematic intelligence. The mind that sees flaws and solutions simultaneously. Shadow: overthinking, analysis paralysis, critical harshness.
 - **[[Venus ♀]] in Virgo (Fall at 27°):** Love expressed through service, beauty found in functionality. The partner who shows affection through acts of care. Shadow: perfectionism in relationships, inability to receive love without critique.
 - **[[Mars ♂]] in Virgo:** Action refined into technique, desire channeled into craft. The warrior who fights through precision, the athlete who masters form. Shadow: nitpicking aggression, passive-aggressive criticism.
 - **[[Jupiter ♃]] in Virgo (Detriment):** Faith tested by reason, expansion constrained by analysis. The believer who needs evidence, the optimist who sees what could go wrong. Shadow: cynicism, inability to trust without proof.
@@ -187,9 +187,9 @@ In esoteric anatomy, Virgo governs the **intestines** (discernment, the body's c
 ---
 ## Cross-System Resonances
 
-- **[[Tarot]]:** The Hermit (Key IX) — Withdrawal for the sake of refinement, the inner light that guides through discernment
+- **[[The Tarot]]:** The Hermit (Key IX) — Withdrawal for the sake of refinement, the inner light that guides through discernment
 - **[[The Window]]:** Seduction (contemporary face: the one who sees potential and calls it forth)
-- **[[Jungian Archetypes]]:** The Healer, The Craftsman, [[Wise Old Man]] (apprentice phase)
+- **[[Jungian Archetypes]]:** The Healer, The Craftsman, [[The Wise Old Man]] (apprentice phase)
 - **[[Human Design]]:** Spleen Center (survival intelligence, in-the-moment awareness, somatic discernment)
 - **Qabalah:** The letter **Yod** (the hand, the instrument of work); the path of precision
 - **Element Tradition:** Mutable Earth (Soil, adaptable foundation that nourishes growth)
@@ -198,11 +198,11 @@ In esoteric anatomy, Virgo governs the **intestines** (discernment, the body's c
 ## Cross-References
 
 - **Signs:** [[Leo ♌]] (celebration that Virgo refines), [[Pisces ♓]] (polarity—dissolution vs. discernment), [[Taurus ♉]] (earth as embodiment), [[Capricorn ♑]] (earth as structure)
-- **Planets:** [[Astrology/Planets/Mercury # ☿]] (ruler and exaltation at 15°), [[Jupiter ♃]] (detriment), [[Venus ♀]] (fall at 27°)
+- **Planets:** [[Mercury ☿]] (ruler and exaltation at 15°), [[Jupiter ♃]] (detriment), [[Venus ♀]] (fall at 27°)
 - **Houses:** [[6th House]] (natural affinity—service, health, daily work)
 - **Modalities:** [[Mutable Signs]] (adapting, distributing, refining energy)
 - **Elements:** [[Earth Signs]] (grounding, practical expression)
-- **Themes:** [[Shadow]] (perfectionism, criticism), [[Wise Old Man]] (mastery through apprenticeship), [[Individuation]] (learning when to analyze, when to surrender)
+- **Themes:** [[The Shadow]] (perfectionism, criticism), [[The Wise Old Man]] (mastery through apprenticeship), [[Individuation]] (learning when to analyze, when to surrender)
 
 ---
 ## Interpretation Guide

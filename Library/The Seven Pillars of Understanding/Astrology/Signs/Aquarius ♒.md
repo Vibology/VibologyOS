@@ -140,7 +140,7 @@ Where the **[[5th House]]** (Leo) is the individual's creative expression, the 1
 
 ---
 ## Psychological Depth
-Aquarius represents **the collective psyche**—the recognition that consciousness is not private property but a shared field. In Jungian terms, Aquarius is the **[[Collective Unconscious]]** made conscious: the archetypes, the myths, the patterns that structure human experience across culture and time.
+Aquarius represents **the collective psyche**—the recognition that consciousness is not private property but a shared field. In Jungian terms, Aquarius is the **[[The Collective Unconscious]]** made conscious: the archetypes, the myths, the patterns that structure human experience across culture and time.
 
 Psychologically, strong Aquarius placement correlates with:
 - Humanitarian vision and egalitarian values
@@ -150,7 +150,7 @@ Psychologically, strong Aquarius placement correlates with:
 Afflicted Aquarius manifests as:
 - Emotional coldness and dissociation (the collective without the personal)
 - Ideological rigidity (the vision becomes dogma)
-- The [[Shadow]] of the Fanatic: sacrifice of the individual for the abstract collective
+- The [[The Shadow]] of the Fanatic: sacrifice of the individual for the abstract collective
 
 The **Aquarius wound** is the terror of ordinariness—the fear that if you are not special, revolutionary, ahead of your time, you have no value. The native with strong Aquarius often exiles themselves from human warmth, believing that connection equals conformity, that intimacy is the death of innovation.
 
@@ -201,7 +201,7 @@ Aquarius's shadow is **fanaticism disguised as humanitarianism**—the revolutio
 ---
 ## Cross-System Resonances
 
-- **[[Tarot]]:** The Star (Key XVII) — Hope, the vision of the future, the download from the cosmos
+- **[[The Tarot]]:** The Star (Key XVII) — Hope, the vision of the future, the download from the cosmos
 - **[[The Window]]:** Adventure (contemporary face: the innovator, the network builder)
 - **[[Jungian Archetypes]]:** The Collective Unconscious, The Revolutionary
 - **[[Human Design]]:** Head Center (inspiration, mental pressure)
@@ -220,8 +220,8 @@ The Water Bearer teaches that the future is not elsewhere. It is **here**, waiti
 - [[Uranus ♅]] — Aquarius's modern ruler, revolution and innovation
 - [[Leo ♌]] — Polarity axis, the individual to Aquarius's collective
 - [[11th House]] — Natural domain, community and collective vision
-- [[Collective Unconscious]] — Jungian archetype, shared human patterns
-- [[The Star (Tarot)]] — Key XVII, hope and future vision
+- [[The Collective Unconscious]] — Jungian archetype, shared human patterns
+- [[The Star (XVII)|The Star]] — Key XVII, hope and future vision
 - [[Head Center]] — Human Design inspiration and mental pressure
 
 ---

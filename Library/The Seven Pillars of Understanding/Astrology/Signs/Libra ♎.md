@@ -21,7 +21,7 @@ verification_notes: "Individual verification complete. Traditional dignities (Ve
 
 Libra is **The Balancer**—the principle of **equilibrium**, the recognition that self exists only in relationship to other. Where [[Virgo ♍]] refines the individual, Libra **reflects**—revealing that identity is not intrinsic but *relational*, forged in the space between "I" and "You."
 
-In the esoteric tradition, Libra is **Magic**—not as superstition, but as the alchemical truth that *union creates the third*. The marriage of opposites does not erase difference but births something new: the [[Transcendent Function]].
+In the esoteric tradition, Libra is **Magic**—not as superstition, but as the alchemical truth that *union creates the third*. The marriage of opposites does not erase difference but births something new: the [[The Transcendent Function]].
 
 ---
 ## Glyph & Symbolism
@@ -126,7 +126,7 @@ Where the **[[1st House]]** (Aries) is the self in isolation, the 7th House is t
 
 ---
 ## Psychological Depth
-Libra represents **the mirror of relationship**—the other as the screen onto which the [[Shadow]] is projected. In Jungian terms, Libra is the **[[Syzygy]]**: the union of opposites (anima/animus, masculine/feminine) that catalyzes [[Individuation]].
+Libra represents **the mirror of relationship**—the other as the screen onto which the [[The Shadow]] is projected. In Jungian terms, Libra is the **[[Syzygy]]**: the union of opposites (anima/animus, masculine/feminine) that catalyzes [[Individuation]].
 
 Psychologically, strong Libra placement correlates with:
 - Diplomatic skill and social grace
@@ -136,7 +136,7 @@ Psychologically, strong Libra placement correlates with:
 Afflicted Libra manifests as:
 - Codependency and loss of self (identity consumed by the other)
 - People-pleasing and conflict avoidance (peace at any cost)
-- The [[Shadow]] of the False Diplomat: manipulation disguised as harmony
+- The [[The Shadow]] of the False Diplomat: manipulation disguised as harmony
 
 The **Libra wound** is the terror of aloneness—the fear that without the other's gaze, the self ceases to exist. The native with strong Libra often contorts themselves into whatever shape the other desires, afraid that if they reveal their true needs, they will be abandoned.
 
@@ -185,7 +185,7 @@ Libra's shadow is **codependency disguised as love**—the one who loses themsel
 ---
 ## Cross-System Resonances
 
-- **[[Tarot]]:** Justice (Key XI) — Impartiality, consequence, the weighing of the soul
+- **[[The Tarot]]:** Justice (Key XI) — Impartiality, consequence, the weighing of the soul
 - **[[The Window]]:** Magic (contemporary face: the alchemist, the mediator)
 - **[[Jungian Archetypes]]:** The Syzygy (union of opposites), The Diplomat
 - **[[Human Design]]:** G-Center (love, direction, identity in relationship)

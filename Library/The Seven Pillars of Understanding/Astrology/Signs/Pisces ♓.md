@@ -78,8 +78,8 @@ The natural world reflects this: the snow melts, the rivers swell, the earth bec
 |---------|------|-------|-------|-------|--------------|
 | **Domicile** | [[Jupiter ♃]] (traditional), [[Neptune ♆]] (modern) | — | — | 12th | Winter's Thaw (Feb 19-Mar 20) |
 | **Exaltation** | [[Venus ♀]][^2] | — | 27° | — | Love as dissolution and empathy |
-| **Detriment** | [[Astrology/Planets/Mercury # ☿]][^3] | — | — | — | Intellect clashes with boundlessness |
-| **Fall** | [[Astrology/Planets/Mercury # ☿]][^3] | — | — | — | Rational mind overwhelmed by oceanic feeling |
+| **Detriment** | [[Mercury ☿]][^3] | — | — | — | Intellect clashes with boundlessness |
+| **Fall** | [[Mercury ☿]][^3] | — | — | — | Rational mind overwhelmed by oceanic feeling |
 
 [^2]: Ptolemy, *Tetrabiblos*, Book 1 (Venus exalted in Pisces at 27°)
 [^3]: Lilly, *Christian Astrology*, Book 1; Ptolemy, *Tetrabiblos*, Book 1 (Mercury in detriment and fall in Pisces, opposite its domiciles Gemini and Virgo)
@@ -154,7 +154,7 @@ Shadow: The 12th House can also represent **escapism, addiction, and the loss of
 
 ---
 ## Psychological Depth
-Pisces represents **the oceanic experience**—the pre-verbal, pre-egoic state of fusion with the whole. In Jungian terms, Pisces is the **[[Collective Unconscious]] in its most numinous aspect**: the mystical encounter that dissolves the boundaries of the personal psyche.
+Pisces represents **the oceanic experience**—the pre-verbal, pre-egoic state of fusion with the whole. In Jungian terms, Pisces is the **[[The Collective Unconscious]] in its most numinous aspect**: the mystical encounter that dissolves the boundaries of the personal psyche.
 
 Psychologically, strong Pisces placement correlates with:
 - Empathic sensitivity and boundary permeability
@@ -166,7 +166,7 @@ Psychologically, strong Pisces placement correlates with:
 Afflicted Pisces manifests as:
 - Boundary dissolution and loss of self (fusion without autonomy)
 - Escapism and addiction (dissolution as avoidance of pain)
-- The [[Shadow]] of the Victim: suffering as identity, martyrdom as defense
+- The [[The Shadow]] of the Victim: suffering as identity, martyrdom as defense
 - Spiritual bypassing (the use of transcendence to avoid incarnation)
 - Delusion and fantasy (the inability to distinguish dream from reality)
 - Codependency (the need to merge, the terror of separation)
@@ -237,11 +237,11 @@ The two fish teach that there is no arrival. There is only the **current**—and
 - [[Jupiter ♃]] — Pisces' traditional ruler, faith and expansion
 - [[Neptune ♆]] — Pisces' modern ruler, dissolution and mysticism
 - [[12th House]] — Pisces' natural domain, the unconscious and transcendence
-- [[The Moon (Tarot)]] — Key XVIII, illusion and the path through the unconscious
-- [[Collective Unconscious]] — Jungian concept, the oceanic source
+- [[The Moon (XVIII)|The Moon]] — Key XVIII, illusion and the path through the unconscious
+- [[The Collective Unconscious]] — Jungian concept, the oceanic source
 - [[Human Design]] — Solar Plexus (emotional wave), Root Center (pressure to release)
 - [[Venus ♀]] — Exalted in Pisces, love as universal compassion
-- [[Astrology/Planets/Mercury # ☿]] — Detriment/Fall in Pisces, intellect overwhelmed by the imaginal
+- [[Mercury ☿]] — Detriment/Fall in Pisces, intellect overwhelmed by the imaginal
 
 ---
 

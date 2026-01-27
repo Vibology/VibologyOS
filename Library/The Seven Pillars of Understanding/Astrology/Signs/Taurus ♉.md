@@ -84,7 +84,7 @@ The **Moon's exaltation at 3° Taurus** is one of astrology's most tender dignit
 Each sign is divided into three **decans** of 10° each, ruled by different planets that shade the sign's expression.
 
 ### First Decan (0°-10° Taurus): Venus-Mercury (Taurus of Taurus)
-**Ruled by:** [[Venus ♀]] (Chaldean) or [[Astrology/Planets/Mercury # ☿]] (triplicity)
+**Ruled by:** [[Venus ♀]] (Chaldean) or [[Mercury ☿]] (triplicity)
 
 The purest expression of Taurus: **embodied beauty, sensory delight, the garden tended with love**. This decan is the artist, the chef, the lover of fine things. The energy is gentle, receptive, magnetizing what it desires through sheer presence. The shadow is indulgence—pleasure pursued to the point of stagnation, the body worshipped but never challenged.
 
@@ -113,7 +113,7 @@ The integration of this axis is **conscious stewardship**: building what is wort
 
 ---
 ## Psychological Depth
-Taurus represents **embodied presence**—the capacity to *be here now*, to trust the body's wisdom, to resist the cultural pressure to transcend matter. In Jungian terms, Taurus is the **[[Great Mother]] in her nourishing aspect**: the earth that feeds, the body that sustains.
+Taurus represents **embodied presence**—the capacity to *be here now*, to trust the body's wisdom, to resist the cultural pressure to transcend matter. In Jungian terms, Taurus is the **[[The Great Mother]] in her nourishing aspect**: the earth that feeds, the body that sustains.
 
 Psychologically, strong Taurus placement correlates with:
 - Patience and endurance (slow to start, slower to stop)
@@ -125,7 +125,7 @@ Afflicted Taurus manifests as:
 - Stubbornness and resistance to change (the Bull digs in)
 - Materialism as defense (accumulation without enjoyment)
 - Sensory excess (gluttony, sloth, addiction to comfort)
-- The [[Shadow]] of Inertia: refusal to move even when the ground is crumbling
+- The [[The Shadow]] of Inertia: refusal to move even when the ground is crumbling
 
 The Taurus journey is learning that *form is not fixed*—even the mountain erodes. What is built must eventually be transformed ([[Scorpio ♏]]). The task is to savor embodiment without clinging to it, to build without believing the structure is eternal.
 
@@ -136,7 +136,7 @@ How each planet expresses when placed in Taurus, emphasizing sensory embodiment,
 
 - **[[Sun ☉]] in Taurus:** Identity anchored in material reality, embodied presence, self-worth derived from tangible creation. The builder of lasting form, the one who savors existence. Shadow: rigidity, resistance to growth.
 - **[[Moon ☽]] in Taurus (Exalted at 3°):** Emotional security through physical comfort, instinctive need for stability, nourishment as love language. The mother who feeds, the child who knows they are safe. Shadow: possessive attachment, fear of change.
-- **[[Astrology/Planets/Mercury # ☿]] in Taurus:** Thought slowed and deepened, practical intelligence, speech measured and deliberate. The mind that learns through repetition, that values common sense over abstraction. Shadow: mental rigidity, stubbornness of opinion.
+- **[[Mercury ☿]] in Taurus:** Thought slowed and deepened, practical intelligence, speech measured and deliberate. The mind that learns through repetition, that values common sense over abstraction. Shadow: mental rigidity, stubbornness of opinion.
 - **[[Venus ♀]] in Taurus (Domicile):** Sensual pleasure, aesthetic discernment, love as embodied devotion. The lover of beauty, the one who creates sanctuary. Shadow: vanity, possessiveness, indulgence.
 - **[[Mars ♂]] in Taurus (Detriment):** Desire constrained by patience, action slowed but made enduring. The warrior who fights not with fury but with inexhaustible stamina. Shadow: passive aggression, suppressed rage, explosive violence when finally provoked.
 - **[[Jupiter ♃]] in Taurus:** Abundance made tangible, growth through accumulation, faith expressed as generosity. The philanthropist, the one who shares their harvest. Shadow: excess, greed disguised as generosity.
@@ -190,9 +190,9 @@ In esoteric anatomy, Taurus governs the **throat** (manifestation, the voice tha
 ---
 ## Cross-System Resonances
 
-- **[[Tarot]]:** The Hierophant (Key V) — Tradition, embodied teaching, the sacred within form
+- **[[The Tarot]]:** The Hierophant (Key V) — Tradition, embodied teaching, the sacred within form
 - **[[The Window]]:** The Joker (contemporary face: the trickster who knows the game is temporary)
-- **[[Jungian Archetypes]]:** [[Great Mother]] (nourishment, embodiment), The Builder
+- **[[Jungian Archetypes]]:** [[The Great Mother]] (nourishment, embodiment), The Builder
 - **[[Human Design]]:** Throat Center (manifestation, bringing inner value into form); Gate 27 (Nourishment)
 - **Qabalah:** The letter **Vav** (the nail, the connector); the path between Wisdom and Understanding
 - **Element Tradition:** Fixed Earth (Mountain, enduring foundation)
@@ -205,7 +205,7 @@ In esoteric anatomy, Taurus governs the **throat** (manifestation, the voice tha
 - **Houses:** [[2nd House]] (natural affinity—resources, self-worth, embodiment)
 - **Modalities:** [[Fixed Signs]] (sustaining, enduring energy)
 - **Elements:** [[Earth Signs]] (grounding, material expression)
-- **Themes:** [[Shadow]] (inertia, possessiveness), [[Great Mother]] (nourishing archetype), [[Individuation]] (learning when to hold, when to release)
+- **Themes:** [[The Shadow]] (inertia, possessiveness), [[The Great Mother]] (nourishing archetype), [[Individuation]] (learning when to hold, when to release)
 
 ---
 ## Interpretation Guide

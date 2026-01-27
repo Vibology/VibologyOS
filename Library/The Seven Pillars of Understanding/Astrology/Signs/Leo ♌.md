@@ -158,7 +158,7 @@ Psychologically, strong Leo placement correlates with:
 Afflicted Leo manifests as:
 - Narcissism and attention-seeking (collapsed solar will)
 - Arrogance and domination (inflated solar ego)
-- The [[Shadow]] of the False King: rule through performance rather than substance
+- The [[The Shadow]] of the False King: rule through performance rather than substance
 - Creative blockage (the artist who cannot create without validation)
 
 **The Leo Complex (Jungian):**
@@ -208,7 +208,7 @@ In esoteric anatomy, Leo governs the **heart** (the seat of courage, the organ o
 ---
 ## Cross-System Resonances
 
-- **[[Tarot]]:** Strength (Key VIII) — Mastery through love, the taming of the beast through presence
+- **[[The Tarot]]:** Strength (Key VIII) — Mastery through love, the taming of the beast through presence
 - **[[The Window]]:** Leadership (contemporary face: the influencer, the performer)
 - **[[Jungian Archetypes]]:** The Hero, The King
 - **[[Human Design]]:** Ego/Heart Center (willpower, self-esteem, commitment)
@@ -228,7 +228,7 @@ The Lion teaches that you do not need to dim your light to make others comfortab
 - [[Aquarius ♒]] — Leo's polarity, the axis of self and collective
 - [[5th House]] — Leo's natural domain, creativity and joy
 - [[Strength (Tarot)]] — Key VIII, mastery through presence
-- [[Hero (Jungian)]] — The archetype of triumph and self-recognition
+- [[The Hero]] — The archetype of triumph and self-recognition
 - [[King (Jungian)]] — The sovereign archetype, earned authority
 - [[Fire Element]] — Leo as Fixed Fire, sustained radiance
 - [[Fixed Modality]] — Leo as sustainer, the bonfire that endures

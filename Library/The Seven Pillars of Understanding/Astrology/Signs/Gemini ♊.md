@@ -49,7 +49,7 @@ Gemini is **Mutable Air**—the breeze that carries pollen, the rumor that sprea
 ---
 ## Planetary Ruler
 
-**[[Astrology/Planets/Mercury # ☿]]** — The swift-footed messenger, the psychopomp who crosses all boundaries[^1].
+**[[Mercury ☿]]** — The swift-footed messenger, the psychopomp who crosses all boundaries[^1].
 
 Mercury in Gemini is in his **domicile** (Day House)—pure communication, unencumbered by judgment (Virgo) or grand narrative (Sagittarius). This is Mercury as **trickster**: playful, amoral, interested not in truth but in *transmission*. Did the message arrive? Then the work is done.
 
@@ -123,7 +123,7 @@ Where the **[[9th House]]** (Sagittarius) seeks distant horizons and grand meani
 
 ---
 ## Psychological Depth
-Gemini represents **cognitive flexibility**—the capacity to hold multiple perspectives simultaneously without collapsing into one. In Jungian terms, Gemini is the **[[Trickster]]**: the archetype that destabilizes fixed meanings, that reveals the arbitrary nature of all categories.
+Gemini represents **cognitive flexibility**—the capacity to hold multiple perspectives simultaneously without collapsing into one. In Jungian terms, Gemini is the **[[The Joker]]**: the archetype that destabilizes fixed meanings, that reveals the arbitrary nature of all categories.
 
 Psychologically, strong Gemini placement correlates with:
 - Intellectual curiosity and mental agility
@@ -133,7 +133,7 @@ Psychologically, strong Gemini placement correlates with:
 Afflicted Gemini manifests as:
 - Scatteredness and lack of depth (breadth without penetration)
 - Duplicity and evasion (the mask becomes the face)
-- The [[Shadow]] of the Gossip: language as weapon, information as power
+- The [[The Shadow]] of the Gossip: language as weapon, information as power
 
 The **Gemini wound** is the terror of stillness—the fear that if you stop moving, stop talking, stop gathering new information, the self will dissolve. The native with strong Gemini often fills silence with noise, afraid that without distraction, the void will emerge.
 
@@ -177,12 +177,12 @@ Gemini's shadow is **scatteredness without coherence**—the collector of fragme
 - **Fragmentation:** The self split into so many versions that no coherent identity remains
 - **Nervousness:** Anxiety disguised as intellectual curiosity; the mind that cannot rest
 
-**Integration:** The mature Gemini knows that **multiplicity is a gift, not a curse**—but only when the Twins remain in dialogue with each other. The goal is not to collapse into singularity but to allow the dance between poles to generate something new: the [[Transcendent Function]].
+**Integration:** The mature Gemini knows that **multiplicity is a gift, not a curse**—but only when the Twins remain in dialogue with each other. The goal is not to collapse into singularity but to allow the dance between poles to generate something new: the [[The Transcendent Function]].
 
 ---
 ## Cross-System Resonances
 
-- **[[Tarot]]:** The Lovers (Key VI) — Choice, duality, the union of opposites
+- **[[The Tarot]]:** The Lovers (Key VI) — Choice, duality, the union of opposites
 - **[[The Window]]:** The Shape (contemporary face: the shapeshifter, the adapter)
 - **[[Jungian Archetypes]]:** The Trickster, the Herald
 - **[[Human Design]]:** Ajna Center (conceptualization, mental pattern-making)
@@ -198,11 +198,11 @@ The Twins teach that duality is not a problem to be solved but a **generative te
 ---
 
 **Cross-References:**
-- [[Astrology/Planets/Mercury # ☿]] — Gemini's ruler, the messenger and trickster
+- [[Mercury ☿]] — Gemini's ruler, the messenger and trickster
 - [[Sagittarius ♐]] — Polarity axis, synthesis to Gemini's analysis
 - [[3rd House]] — Natural domain, communication and learning
-- [[Trickster]] — Jungian archetype, destabilizer of fixed meanings
-- [[The Lovers (Tarot)]] — Key VI, choice and duality
+- [[The Joker]] — Jungian archetype, destabilizer of fixed meanings
+- [[The Lovers (VI)|The Lovers]] — Key VI, choice and duality
 - [[Ajna Center]] — Human Design conceptual mind
 - [[Virgo ♍]] — Mercury's other domicile, analysis applied to refinement
 

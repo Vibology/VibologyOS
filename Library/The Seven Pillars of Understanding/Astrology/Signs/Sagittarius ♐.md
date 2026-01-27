@@ -46,7 +46,7 @@ Sagittarius is **Mutable Fire**—the wildfire that spreads, the spark that jump
 
 Jupiter in Sagittarius is in his **domicile** (Day House, also called the Joy of Jupiter)—fully expressed as the philosopher-king, the wanderer who gathers wisdom from every land and returns to teach. This is Jupiter as **faith in the larger pattern**, as the recognition that chaos resolves into order when viewed from sufficient height.
 
-**Detriment:** [[Astrology/Planets/Mercury # ☿]] — Analysis, detail, and data collection are antithetical to Sagittarius' hunger for the big picture[^2]. Mercury in Sagittarius struggles with precision; the mind leaps to conclusions before gathering all the facts.
+**Detriment:** [[Mercury ☿]] — Analysis, detail, and data collection are antithetical to Sagittarius' hunger for the big picture[^2]. Mercury in Sagittarius struggles with precision; the mind leaps to conclusions before gathering all the facts.
 
 **Exaltation/Fall:** Sagittarius has no traditional planetary exaltation or fall[^3]. Esoterically, the **South Node** (Dragon's Tail) is exalted at 3° Sagittarius, encoding the wisdom that must be *shared* rather than hoarded.
 
@@ -158,7 +158,7 @@ Psychologically, strong Sagittarius placement correlates with:
 Afflicted Sagittarius manifests as:
 - Dogmatism and ideological rigidity (truth as weapon)
 - Restlessness without direction (flight from commitment)
-- The [[Shadow]] of the False Prophet: grandiose vision without grounding
+- The [[The Shadow]] of the False Prophet: grandiose vision without grounding
 - Spiritual bypassing: using optimism to avoid difficult emotions
 
 **The Sagittarius Complex (Jungian):**
@@ -207,7 +207,7 @@ In esoteric anatomy, Sagittarius governs the **thighs** (the muscles that propel
 
 ## Cross-System Resonances
 
-- **[[Tarot]]:** Temperance (Key XIV) — Synthesis, the alchemical marriage of opposites
+- **[[The Tarot]]:** Temperance (Key XIV) — Synthesis, the alchemical marriage of opposites
 - **[[The Window]]:** The Jump (contemporary face: the risk-taker, the visionary)
 - **[[Jungian Archetypes]]:** The Hero (on the journey), The Sage
 - **[[Human Design]]:** Throat Center (manifestation of vision into speech)
@@ -227,7 +227,7 @@ The Archer teaches that the arrow cannot return to the bow. Once released, you a
 - [[Gemini ♊]] — Sagittarius' polarity, the axis of meaning and data
 - [[9th House]] — Sagittarius' natural domain, the quest for meaning
 - [[Temperance (Tarot)]] — Key XIV, alchemical synthesis
-- [[Hero (Jungian)]] — The archetype of the journey, the quest
+- [[The Hero]] — The archetype of the journey, the quest
 - [[Sage (Jungian)]] — The wisdom archetype, earned truth
 - [[Fire Element]] — Sagittarius as Mutable Fire, the spreading flame
 - [[Mutable Modality]] — Sagittarius as distributor, the wandering prophet

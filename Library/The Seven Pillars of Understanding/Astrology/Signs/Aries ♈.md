@@ -158,7 +158,7 @@ Psychologically, strong Aries placement correlates with:
 Afflicted Aries manifests as:
 - Impulsivity without foresight (the Ram charges off the cliff)
 - Aggression as defense (attack before being attacked)
-- The [[Shadow]] of the Tyrant: domination through force
+- The [[The Shadow]] of the Tyrant: domination through force
 - Narcissistic wounding: the self that cannot see the other
 
 **The Aries Complex (Jungian):**
@@ -208,7 +208,7 @@ In esoteric anatomy, Aries governs the **head** (the crown of the self, the firs
 ---
 ## Cross-System Resonances
 
-- **[[Tarot]]:** The Emperor (Key IV) — Authority, leadership, the masculine principle in its ordering aspect
+- **[[The Tarot]]:** The Emperor (Key IV) — Authority, leadership, the masculine principle in its ordering aspect
 - **[[The Window]]:** The Maverick (contemporary face: the rule-breaker, the pioneer)
 - **[[Jungian Archetypes]]:** The Hero (threshold crossing, the quest begins)
 - **[[Human Design]]:** Ego/Heart Center (willpower, self-assertion)
@@ -227,8 +227,8 @@ The Ram teaches that the greatest risk is not failure but **hesitation**—the r
 - [[Libra ♎]] — Aries' polarity, the axis of I and We
 - [[Sun ☉]] — Exalted in Aries, the will in action
 - [[1st House]] — Aries' natural domain, the body and identity
-- [[The Emperor (Tarot)]] — Key IV, masculine authority
-- [[Hero (Jungian)]] — The archetype of threshold crossing
+- [[The Emperor (IV)|The Emperor]] — Key IV, masculine authority
+- [[The Hero]] — The archetype of threshold crossing
 - [[Fire Element]] — Aries as Cardinal Fire, the initiating spark
 - [[Cardinal Modality]] — Aries as season-starter, the beginning of spring
 

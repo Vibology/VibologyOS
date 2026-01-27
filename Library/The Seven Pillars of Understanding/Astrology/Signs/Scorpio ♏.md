@@ -142,7 +142,7 @@ Shadow: The 8th House can also represent **obsession, compulsion, and the abuse 
 
 ---
 ## Psychological Depth
-Scorpio represents **Shadow work**—the willingness to face what has been disowned, repressed, or denied. In Jungian terms, Scorpio is the **descent into the unconscious**: the voluntary confrontation with the [[Shadow]] so that it may be integrated rather than projected.
+Scorpio represents **Shadow work**—the willingness to face what has been disowned, repressed, or denied. In Jungian terms, Scorpio is the **descent into the unconscious**: the voluntary confrontation with the [[The Shadow]] so that it may be integrated rather than projected.
 
 Psychologically, strong Scorpio placement correlates with:
 - Psychological depth and penetration
@@ -154,7 +154,7 @@ Psychologically, strong Scorpio placement correlates with:
 Afflicted Scorpio manifests as:
 - Obsession and compulsion (possession by the shadow)
 - Manipulation and control (power as defense against vulnerability)
-- The [[Shadow]] of the Tyrant: destruction without regeneration
+- The [[The Shadow]] of the Tyrant: destruction without regeneration
 - Paranoia and distrust (the belief that all others are threats)
 - Self-destruction (the sting turned inward, the scorpion devouring itself)
 - Addiction (the use of intensity to escape numbness)
@@ -224,7 +224,7 @@ The Scorpion teaches that there is **light within the darkness**—but you canno
 - [[Pluto ♇]] — Scorpio's modern ruler, underworld lord and transformer
 - [[8th House]] — Scorpio's natural domain, death and shared resources
 - [[Death (Tarot)]] — Key XIII, transformation and harvest
-- [[Shadow]] — Jungian archetype, the repressed and disowned
+- [[The Shadow]] — Jungian archetype, the repressed and disowned
 - [[Human Design]] — Sacral Center (life force), Solar Plexus (emotional wave)
 - [[Venus ♀]] — Detriment in Scorpio, desire clashing with death
 - [[Moon ☽]] — Fall in Scorpio, emotion overwhelmed by intensity

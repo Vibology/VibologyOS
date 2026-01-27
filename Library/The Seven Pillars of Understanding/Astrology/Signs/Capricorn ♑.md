@@ -113,7 +113,7 @@ The integration of this axis is **compassionate leadership**: building with care
 
 ---
 ## Psychological Depth
-Capricorn represents **the mature ego**—the self that has survived initiation and emerged with competence. In Jungian terms, Capricorn is the **[[Wise Old Man]]**: the archetype that offers structure, discipline, and the hard-won wisdom of experience.
+Capricorn represents **the mature ego**—the self that has survived initiation and emerged with competence. In Jungian terms, Capricorn is the **[[The Wise Old Man]]**: the archetype that offers structure, discipline, and the hard-won wisdom of experience.
 
 Psychologically, strong Capricorn placement correlates with:
 - Discipline and sustained effort
@@ -125,7 +125,7 @@ Afflicted Capricorn manifests as:
 - Workaholism and emotional coldness (structure without warmth)
 - Authoritarianism and rigidity (fear disguised as control)
 - Achievement addiction (worth measured only by success)
-- The [[Shadow]] of the Tyrant: rule through domination rather than service
+- The [[The Shadow]] of the Tyrant: rule through domination rather than service
 
 The Capricorn journey is learning that *mastery is not the goal*—it is the prerequisite for service. Eventually, the Elder must descend from the mountain and teach ([[Cancer ♋]]). The task is to build without becoming imprisoned by the structure, to lead without becoming cruel, to achieve without losing the capacity for tenderness.
 
@@ -136,7 +136,7 @@ How each planet expresses when placed in Capricorn, emphasizing discipline, stru
 
 - **[[Sun ☉]] in Capricorn:** Identity anchored in achievement and mastery, self-worth derived from competence. The builder of legacy, the one who measures worth by what endures. Shadow: emotional coldness, worth contingent on success.
 - **[[Moon ☽]] in Capricorn (Detriment):** Emotional security through control and achievement, instinct subordinated to duty. The parent who provides but cannot nurture, the child who learned early to be an adult. Shadow: emotional unavailability, depression masked as discipline.
-- **[[Astrology/Planets/Mercury # ☿]] in Capricorn:** Thought disciplined and strategic, communication pragmatic and efficient. The mind that plans decades ahead, that values results over theory. Shadow: cynicism, inability to imagine beyond the probable.
+- **[[Mercury ☿]] in Capricorn:** Thought disciplined and strategic, communication pragmatic and efficient. The mind that plans decades ahead, that values results over theory. Shadow: cynicism, inability to imagine beyond the probable.
 - **[[Venus ♀]] in Capricorn:** Love expressed through commitment and provision, beauty found in endurance. The partner who builds a life together, the lover who shows up year after year. Shadow: transactional love, affection withheld until "earned."
 - **[[Mars ♂]] in Capricorn (Exalted at 28°):** Action refined through patience, desire channeled into sustained achievement. The warrior who wins through strategy, the athlete who masters through discipline. Shadow: ruthless ambition, the end justifying any means.
 - **[[Jupiter ♃]] in Capricorn (Fall at 15°):** Faith tested by reality, expansion constrained by consequence. The optimist who learns through failure, the believer who demands proof. Shadow: pessimism, collapse of meaning under the weight of structure.
@@ -189,9 +189,9 @@ In esoteric anatomy, Capricorn governs the **knees** (the joints that allow asce
 ---
 ## Cross-System Resonances
 
-- **[[Tarot]]:** The Devil (Key XV) — Bondage, material attachment, the test of sovereignty; also The World (Key XXI) — mastery achieved, the completion of the climb
+- **[[The Tarot]]:** The Devil (Key XV) — Bondage, material attachment, the test of sovereignty; also The World (Key XXI) — mastery achieved, the completion of the climb
 - **[[The Window]]:** The Sage (contemporary face: the elder, the mentor)
-- **[[Jungian Archetypes]]:** [[Wise Old Man]], The Elder, The Father (archetypal authority)
+- **[[Jungian Archetypes]]:** [[The Wise Old Man]], The Elder, The Father (archetypal authority)
 - **[[Human Design]]:** Root Center (pressure, the drive to evolve); the pressure to achieve and endure
 - **Qabalah:** The letter **Ayin** (the eye that sees from the summit); the path of manifestation
 - **Element Tradition:** Cardinal Earth (Mountain, the initiating foundation upon which civilization stands)
@@ -204,7 +204,7 @@ In esoteric anatomy, Capricorn governs the **knees** (the joints that allow asce
 - **Houses:** [[10th House]] (natural affinity—career, public standing, legacy)
 - **Modalities:** [[Cardinal Signs]] (initiating, building energy)
 - **Elements:** [[Earth Signs]] (grounding, structural expression)
-- **Themes:** [[Shadow]] (tyranny, workaholism), [[Wise Old Man]] (earned mastery), [[Individuation]] (learning when to climb, when to descend)
+- **Themes:** [[The Shadow]] (tyranny, workaholism), [[The Wise Old Man]] (earned mastery), [[Individuation]] (learning when to climb, when to descend)
 
 ---
 ## Interpretation Guide
