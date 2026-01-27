@@ -38,7 +38,7 @@ The opposition is **"perfect hatred"**[^2]—two planets facing each other acros
 
 [^2]: Lilly, *Christian Astrology*, Book 2 (opposition as "perfect hatred or enmity"; Ptolemy classifies as "discordant")
 
-**Psychological Function:** The opposition is the **[[Shadow]] made visible**—what you reject in yourself, you encounter in the other.
+**Psychological Function:** The opposition is the **[[The Shadow]] made visible**—what you reject in yourself, you encounter in the other.
 
 ---
 ### △ Trine (120°)
@@ -54,7 +54,7 @@ The trine is an aspect of **"perfect love"**[^3]—connecting planets in the sam
 ### □ Square (90°)
 **Archetypal Meaning:** Tension, crisis, the ordeal that forges character.
 
-The square is **"imperfect enmity"**[^4]—two planets at cross-purposes, each demanding incompatible responses. This is the aspect of the [[Cardinal Cross]]: the pressure to *act*, to resolve, to build despite resistance. Squares show difficulty but not impossibility.[^4] Squares are uncomfortable, but they are the primary engine of development.
+The square is **"imperfect enmity"**[^4]—two planets at cross-purposes, each demanding incompatible responses. This is the aspect of the Cardinal Cross: the pressure to *act*, to resolve, to build despite resistance. Squares show difficulty but not impossibility.[^4] Squares are uncomfortable, but they are the primary engine of development.
 
 [^4]: Lilly, *Christian Astrology*, Book 2 (square as "imperfect enmity"; Ptolemy classifies as "discordant")
 
@@ -110,7 +110,7 @@ Aspects are the **conversations** between planetary archetypes within the psyche
 - **Tension** (squares, oppositions): where growth is demanded through crisis
 - **Fusion** (conjunctions): where differentiation has not occurred—or where synthesis is achieved
 
-In Jungian terms, hard aspects (square, opposition) correlate with [[Shadow]] material: the parts of self that must be *worked* rather than expressed naturally. Soft aspects (trine, sextile) correlate with the integrated ego—but if over-relied upon, they can become defenses against growth.
+In Jungian terms, hard aspects (square, opposition) correlate with [[The Shadow]] material: the parts of self that must be *worked* rather than expressed naturally. Soft aspects (trine, sextile) correlate with the integrated ego—but if over-relied upon, they can become defenses against growth.
 
 ---
 ## Esoteric Significance

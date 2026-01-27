@@ -229,11 +229,7 @@ The Archer teaches that the arrow cannot return to the bow. Once released, you a
 - [[Temperance (XIV)|Temperance]] — Key XIV, alchemical synthesis
 - [[The Hero]] — The archetype of the journey, the quest
 - [[The Wise Old Man|The Sage]] — The wisdom archetype, earned truth
-- Fire Element — Sagittarius as Mutable Fire, the spreading flame
-- Mutable Modality — Sagittarius as distributor, the wandering prophet
-
 ---
-
 ## Sources
 [^1]: Lilly, *Christian Astrology*, Book 1: Jupiter rules Sagittarius (Day House); Sagittarius is also the Joy of Jupiter
 [^2]: Lilly, *Christian Astrology*, Book 1: Mercury in detriment (opposite Gemini)

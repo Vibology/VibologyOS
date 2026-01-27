@@ -88,9 +88,9 @@ Interpretation proceeds through layers:
 
 - [[Astrology]] — System overview
 - [[Transits and Timing]] — Ongoing planetary movement relative to the natal chart
-- [[Houses]] — The twelve life domains
-- [[Planets]] — The planetary archetypes
-- [[Signs]] — The twelve zodiacal modes
+- Houses — The twelve life domains
+- Planets — The planetary archetypes
+- Signs — The twelve zodiacal modes
 - [[Aspects]] — Angular relationships
 
 ---

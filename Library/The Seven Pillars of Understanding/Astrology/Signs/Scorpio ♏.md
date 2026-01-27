@@ -230,7 +230,6 @@ The Scorpion teaches that there is **light within the darkness**—but you canno
 - [[Moon ☽]] — Fall in Scorpio, emotion overwhelmed by intensity
 
 ---
-
 ## Sources
 [^1]: Lilly, *Christian Astrology*, Book 1: Mars rules Scorpio (Night House); Scorpio is also the Joy of Mars
 [^2]: Lilly, *Christian Astrology*, Book 1; Ptolemy, *Tetrabiblos*, Book 1: Scorpio as Fixed Water (cold, phlegmatic)

@@ -215,7 +215,6 @@ The Capricorn question is not "Am I successful?" but "Am I building something th
 The Goat-Fish teaches that the climb is sacred—but the peak is not the destination. The work is to **return** and teach what was learned in the ascent.
 
 ---
-
 ## Sources
 [^1]: Lilly, *Christian Astrology*, Book 1: Saturn rules Capricorn (Night House)
 [^2]: Lilly, *Christian Astrology*, Book 1; Ptolemy, *Tetrabiblos*, Book 1: Capricorn as Cardinal Earth (cold and dry, melancholy)

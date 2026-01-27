@@ -244,7 +244,6 @@ The two fish teach that there is no arrival. There is only the **current**—and
 - [[Mercury ☿]] — Detriment/Fall in Pisces, intellect overwhelmed by the imaginal
 
 ---
-
 ## Sources
 
 - Lilly, William. *Christian Astrology*. Book 1 (planetary dignities, zodiacal anatomy, house correspondences)

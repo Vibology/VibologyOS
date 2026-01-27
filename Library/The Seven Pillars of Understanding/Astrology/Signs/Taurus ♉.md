@@ -216,7 +216,6 @@ The Taurus question is not "Do I have enough?" but "Am I savoring what I have, o
 The Bull teaches that the body is not the enemy of the soul. It is the **instrument** through which the soul tastes the world.
 
 ---
-
 ## Sources
 [^1]: Lilly, *Christian Astrology*, Book 1: Venus rules Taurus (Night House)
 [^2]: Lilly, *Christian Astrology*, Book 1; Ptolemy, *Tetrabiblos*, Book 1: Moon exalted in Taurus at 3°

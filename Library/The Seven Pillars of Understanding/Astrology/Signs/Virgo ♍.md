@@ -213,7 +213,6 @@ The Virgo question is not "Am I good enough?" but "Am I willing to tend this wor
 The Maiden teaches that service is not sacrifice. It is the **joy of care**—and that joy does not require recognition.
 
 ---
-
 ## Sources
 [^1]: Lilly, *Christian Astrology*, Book 1: Mercury rules Virgo (Night House)
 [^2]: Lilly, *Christian Astrology*, Book 1: Mercury exalted in Virgo at 15° (unique case where ruler = exaltation)

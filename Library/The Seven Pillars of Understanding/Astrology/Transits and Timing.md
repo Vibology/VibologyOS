@@ -64,7 +64,7 @@ Psychologically, Jupiter transits bring:
 
 **Archetype:** The Revolutionary, the Side Track
 
-The **Uranus Opposition** occurs at the midpoint of Uranus's 84-year cycle. This is the transition from the first half of life (ego-building) to the second half (soul-work). For [[9-centered beings]] (post-1781 humanity), the Uranus Opposition marks the beginning of **true maturity**—the moment when the individual stops living for external validation and begins to differentiate.
+The **Uranus Opposition** occurs at the midpoint of Uranus's 84-year cycle. This is the transition from the first half of life (ego-building) to the second half (soul-work). For 9-centered beings (post-1781 humanity), the Uranus Opposition marks the beginning of **true maturity**—the moment when the individual stops living for external validation and begins to differentiate.
 
 Psychologically, this transit brings:
 - **Crisis of meaning** (What was I building, and for whom?)
@@ -87,7 +87,7 @@ In the [[Human Design]] framework, transits are the **Not-Self conditioning fiel
 **Strategy:**
 1. **Track transits** to your natal chart and BodyGraph
 2. **Observe** the themes they activate—but do not act impulsively
-3. **Wait** for your [[Strategy and Authority]] to confirm the correct response
+3. **Wait** for your [[Strategy]] to confirm the correct response
 
 The goal is not to escape transits but to **use them consciously**: to recognize when you are being swept by the "neutrino weather" versus when you are responding from your true nature.
 
@@ -96,7 +96,7 @@ The goal is not to escape transits but to **use them consciously**: to recognize
 
 When a planet goes **retrograde**, its motion appears to reverse from Earth's perspective. Esoterically, retrogrades are **review cycles**—periods when the planet's themes move *inward* rather than outward.
 
-- **[[Astrology/Planets/Mercury # ☿]] Retrograde:** Review of communication, contracts, mental patterns
+- **[[Mercury ☿]] Retrograde:** Review of communication, contracts, mental patterns
 - **[[Venus ♀]] Retrograde:** Review of values, relationships, self-worth
 - **[[Mars ♂]] Retrograde:** Review of desire, action, anger
 
@@ -105,7 +105,7 @@ Retrogrades do not "break" things—they **reveal** what was already fragile.
 ---
 ## Psychological Significance: Individuation Through Time
 
-Carl Jung's concept of **[[Individuation]]**[^2] is fundamentally a *temporal process*—the soul unfolds according to its own rhythm, not the ego's demands. Transits are the **celestial clock** that marks this unfolding:
+Carl Jung's concept of **[[Individuation Process]]**[^2] is fundamentally a *temporal process*—the soul unfolds according to its own rhythm, not the ego's demands. Transits are the **celestial clock** that marks this unfolding:
 
 [^2]: Jung, C.G. *Collected Works* (CW 9i, CW 17) - Individuation as the lifelong process of psychological integration
 
