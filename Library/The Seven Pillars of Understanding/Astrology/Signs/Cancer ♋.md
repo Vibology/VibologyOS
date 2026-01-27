@@ -220,7 +220,7 @@ The Crab teaches that vulnerability is not weakness. It is the **courage to be s
 - [[Capricorn ♑]] — Cancer's polarity, structure and earned authority
 - [[Moon ☽]] — Cancer's ruler, instinct and somatic intelligence
 - [[4th House]] — Cancer's natural domain, home and ancestry
-- [[The Chariot (Tarot)]] — Key VII, mastery through emotional containment
+- [[The Chariot (VII)|The Chariot]] — Key VII, mastery through emotional containment
 - [[The Great Mother]] — Jungian archetype, nurturance and devouring
 - [[Human Design]] — G-Center (identity, love, direction)
 - [[Jupiter ♃]] — Exalted in Cancer, benevolent protection
@@ -228,7 +228,6 @@ The Crab teaches that vulnerability is not weakness. It is the **courage to be s
 - [[Mars ♂]] — Fall in Cancer, assertion through protection
 
 ---
-
 ## Sources
 [^1]: Lilly, *Christian Astrology*, Book 1: Moon rules Cancer (sole house)
 [^2]: Lilly, *Christian Astrology*, Book 1; Ptolemy, *Tetrabiblos*, Book 1: Cancer as Cardinal Water (cold and moist, phlegmatic), solstitial sign

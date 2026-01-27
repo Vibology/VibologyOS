@@ -226,7 +226,7 @@ The Archer teaches that the arrow cannot return to the bow. Once released, you a
 - [[Jupiter ♃]] — Sagittarius' ruler, expansion and synthesis
 - [[Gemini ♊]] — Sagittarius' polarity, the axis of meaning and data
 - [[9th House]] — Sagittarius' natural domain, the quest for meaning
-- [[Temperance (Tarot)]] — Key XIV, alchemical synthesis
+- [[Temperance (XIV)|Temperance]] — Key XIV, alchemical synthesis
 - [[The Hero]] — The archetype of the journey, the quest
 - [[The Wise Old Man|The Sage]] — The wisdom archetype, earned truth
 - Fire Element — Sagittarius as Mutable Fire, the spreading flame

@@ -229,8 +229,6 @@ The Ram teaches that the greatest risk is not failure but **hesitation**—the r
 - [[1st House]] — Aries' natural domain, the body and identity
 - [[The Emperor (IV)|The Emperor]] — Key IV, masculine authority
 - [[The Hero]] — The archetype of threshold crossing
-- Fire Element — Aries as Cardinal Fire, the initiating spark
-- Cardinal Modality — Aries as season-starter, the beginning of spring
 
 ---
 ## Sources

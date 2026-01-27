@@ -203,7 +203,7 @@ The Twins teach that duality is not a problem to be solved but a **generative te
 - [[3rd House]] — Natural domain, communication and learning
 - [[The Joker]] — Jungian archetype, destabilizer of fixed meanings
 - [[The Lovers (VI)|The Lovers]] — Key VI, choice and duality
-- [[Ajna Center]] — Human Design conceptual mind
+- [[Ajna]] — Human Design conceptual mind
 - [[Virgo ♍]] — Mercury's other domicile, analysis applied to refinement
 
 ---

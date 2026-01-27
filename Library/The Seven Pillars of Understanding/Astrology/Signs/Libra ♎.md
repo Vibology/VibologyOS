@@ -207,7 +207,7 @@ The Scales teach that justice is not sameness. It is **right relationship**—an
 - [[Saturn ♄]] — Exalted in Libra, justice as cosmic law
 - [[The Syzygy]] — Jungian union of opposites, marriage as individuation
 - [[Justice (XI)|Justice]] — Key XI, the weighing of consequence
-- [[G-Center]] — Human Design love and identity in relationship
+- [[G Center]] — Human Design love and identity in relationship
 
 ---
 
