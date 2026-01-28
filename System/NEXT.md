@@ -1,6 +1,6 @@
 # Current Work Context
 
-**Last Updated:** 2026-01-27
+**Last Updated:** 2026-01-28
 **System Status:** Library complete and verified; repository cleaned
 **Current Phase:** Ready for synthesis and client work
 
@@ -81,6 +81,14 @@ VibologyOS/
 ---
 
 ## Session History
+
+**2026-01-28:** Human Design API bodygraph renderer improvements
+- Replaced PNG triangle images with native SVG paths for exaltation/detriment symbols
+- Fixed triangle vertical centering (separate viewBox dimensions for each triangle type)
+- Implemented width compensation for equal border padding (exaltation vs detriment)
+- Fixed critical API bug: `int(hours)` → `float(hours)` causing incorrect moon calculations
+- Triangles now render at 8pt with proper positioning (10px from visible panel borders)
+- Documented Gate 23.4 detriment discrepancy in EXALTATION_ERRATA.md
 
 **2026-01-27:** Major repository cleanup and health assessment
 - Comprehensive library audit (747 files, 99.9% cross-refs, 0 dead links)
