@@ -28,7 +28,7 @@ except ImportError:
 
 def get_chart_data(name: str, year: int, month: int, day: int,
                    hour: int, minute: int, lat: float, lng: float,
-                   timezone: str = None) -> dict:
+                   timezone: str = None, city: str = None, nation: str = None) -> dict:
     """
     Calculate full astrological chart using Swiss Ephemeris.
 
@@ -38,6 +38,8 @@ def get_chart_data(name: str, year: int, month: int, day: int,
         hour, minute: Birth time (local time)
         lat, lng: Geographic coordinates
         timezone: Optional IANA timezone (e.g., "America/New_York")
+        city: Optional city name (for display in charts)
+        nation: Optional nation code (for display in charts)
 
     Returns:
         Dictionary with full chart data
@@ -50,9 +52,12 @@ def get_chart_data(name: str, year: int, month: int, day: int,
         day=day,
         hour=hour,
         minute=minute,
+        city=city,
+        nation=nation,
         lat=lat,
         lng=lng,
-        tz_str=timezone
+        tz_str=timezone,
+        online=False  # Don't try to look up city from coordinates
     )
 
     # Extract planet data
@@ -142,6 +147,8 @@ def main():
     parser.add_argument('--lat', type=float, required=True, help='Latitude')
     parser.add_argument('--lng', type=float, required=True, help='Longitude')
     parser.add_argument('--timezone', help='IANA timezone (e.g., America/New_York)')
+    parser.add_argument('--city', help='City name (for display in chart graphics)')
+    parser.add_argument('--nation', help='Nation code, e.g., US, GB (for display in chart graphics)')
     parser.add_argument('--pretty', action='store_true', help='Pretty-print JSON output')
 
     args = parser.parse_args()
@@ -173,7 +180,9 @@ def main():
             minute=args.minute,
             lat=args.lat,
             lng=args.lng,
-            timezone=args.timezone
+            timezone=args.timezone,
+            city=args.city,
+            nation=args.nation
         )
 
         if args.pretty:
