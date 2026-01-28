@@ -118,10 +118,42 @@ If client provides external chart PDFs or reports:
 
 ## Phase 2: Synthesis Work
 
-### 2.1 Reading Structure
+Client synthesis work falls into two categories: **Initial Reports** (foundational portraits for new clients) and **Targeted Readings** (question-specific synthesis for ongoing work).
 
-All client readings follow this section structure:
+### 2.1 Initial Client Report (New Clients)
 
+The Initial Client Report is the foundational document for new client work. It establishes a comprehensive archetypal portrait before addressing specific questions.
+
+**Purpose:** Map the client's core patterns across:
+- **Astrology** — Luminaries, planetary positions, angles, major aspects
+- **Human Design** — Type, Authority, Profile, Definition, Incarnation Cross, key gates/channels
+- **Personal Mythos** — Resonant archetypes, mythological parallels, developmental stage
+
+**When to Use:** First engagement with a new client, OR when a returning client requests a comprehensive overview rather than targeted synthesis.
+
+**Template:** `System/Templates/_TEMPLATE - Initial Client Report.md`
+
+**Sections:**
+```
+I.    The Invitation (framing)
+II.   Data Foundation (Scribe voice - raw mechanics)
+III.  The Solar Story (Sun/Conscious HD)
+IV.   The Lunar Landscape (Moon/Emotional architecture)
+V.    The Persona and Path (Ascendant/Profile)
+VI.   The Incarnation Cross (Life purpose)
+VII.  Archetypal Resonance (Personal Mythos integration)
+VIII. Shadow Cartography (Growth edges)
+IX.   Practical Wisdom (Strategy, timing, integration)
+X.    The Open Question (What remains unknown)
+```
+
+### 2.2 Targeted Readings (Specific Questions)
+
+For clients with specific questions—life transitions, decisions, timing, relationship dynamics—use a focused synthesis structure.
+
+**Template:** `Synthesis/General/_TEMPLATE - Cross-System Synthesis.md`
+
+**Sections:**
 ```
 I.   Header & Greeting
 II.  Introduction & Reading Overview
@@ -137,19 +169,17 @@ V.   Cross-System Synthesis
 VI.  Closing & Next Steps
 ```
 
-**Use Template:** `◈ System/Templates/_TEMPLATE - Client Reading.md`
+### 2.3 Word Count Guidance
 
-### 2.2 Word Count Guidance
-
-| Reading Type | Target Length | Typical Time |
-|--------------|---------------|--------------|
-| Focused (1 question) | 1,500-3,000 words | - |
-| Standard (natal + questions) | 4,000-6,000 words | - |
-| Comprehensive (full synthesis) | 6,000-8,000+ words | - |
+| Reading Type | Target Length |
+|--------------|---------------|
+| Initial Report (comprehensive) | 6,000-10,000 words |
+| Standard (natal + questions) | 4,000-6,000 words |
+| Focused (1 question) | 1,500-3,000 words |
 
 **Quality over quantity.** A focused 2,000-word reading that addresses the question clearly is better than an 8,000-word dump of generic information.
 
-### 2.3 Voice & Quality Standards
+### 2.4 Voice & Quality Standards
 
 **Voice:** The Weaver persona (scholarly, evocative, numinous)
 
@@ -169,7 +199,7 @@ VI.  Closing & Next Steps
 - Prescriptive life advice (legal/medical/financial)
 - AI clichés, filler, or conversational padding
 
-### 2.4 Cross-System Integration
+### 2.5 Cross-System Integration
 
 When synthesizing across systems:
 
@@ -178,7 +208,7 @@ When synthesizing across systems:
 - Note divergence points (where systems offer different perspectives)
 - Articulate the "Third Meaning" that emerges from integration
 
-### 2.5 Verification During Synthesis
+### 2.6 Verification During Synthesis
 
 **While writing:**
 
@@ -421,7 +451,7 @@ VI.  Closing (Practical guidance, next steps)
 
 ## Version History
 
-- **2026-01-27:** Updated all Consultations folder references to `~/Business/Consultations/`. Client work now resides outside VibologyOS repository.
+- **2026-01-27:** Added Initial Client Report template (`_TEMPLATE - Initial Client Report.md`) as comprehensive archetypal portrait for new clients. Restructured Phase 2 to distinguish between Initial Reports and Targeted Readings. Updated Consultations folder references to `~/Business/Consultations/`.
 - **2026-01-19:** Initial protocol created. Formalizes workflow from Szilvia Williams and Joe Lewis synthesis work. Addresses Process Gap #5.
 
 ---
