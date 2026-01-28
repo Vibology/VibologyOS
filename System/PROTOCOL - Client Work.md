@@ -1,7 +1,7 @@
 ---
 tags: [system, protocol, client-work, privacy, synthesis]
 date_created: 2026-01-19
-date_updated: 2026-01-27
+date_updated: 2026-01-28
 status: Active
 ---
 
@@ -88,17 +88,19 @@ Follow `PROTOCOL - Chart Data Acquisition.md` completely:
 
 1. **Geolocation Verification** - `verify_geolocation.py`
 2. **Astrology Natal Chart** - `get_astro_data.py`
-3. **Human Design Chart** - `get_hd_data.py`
-4. **Transits** (if timing questions) - `get_transit_data.py`
+3. **Human Design Chart Data** - `get_hd_data.py`
+4. **Human Design Bodygraph Visualization** - Generate `bodygraph.svg`
+5. **Transits** (if timing questions) - `get_transit_data.py`
 
 ### 1.2 Quality Gate
 
 **DO NOT proceed to Phase 2 until:**
 
 - [ ] Geolocation verified with timezone and DST status
-- [ ] Astrology.json generated and spot-checked
-- [ ] Humandesign.json generated and spot-checked
-- [ ] Transits.json generated (if timing questions exist)
+- [ ] astrology.json generated and spot-checked
+- [ ] humandesign.json generated and spot-checked
+- [ ] bodygraph.svg generated (scalable vector graphic)
+- [ ] transits.json generated (if timing questions exist)
 - [ ] User verification completed for any unusual data
 
 **If birth time is unknown:**
@@ -277,8 +279,10 @@ Rationale: PDF design involves aesthetic choices (fonts, layout, colors, graphic
 
 ```
 ~/Business/Consultations/[Full Name]/
-├── astrology.json           (permanent - natal)
-├── humandesign.json         (permanent - natal)
+├── astrology.json           (permanent - natal chart data)
+├── humandesign.json         (permanent - HD chart data)
+├── bodygraph.svg            (permanent - HD visualization, SVG format)
+├── natal_chart.svg          (permanent - astrology visualization, if generated)
 ├── [Reference PDFs]         (permanent - external charts)
 └── YYYY-MM-DD_[Reading]/
     ├── location_verification.json
@@ -290,7 +294,8 @@ Rationale: PDF design involves aesthetic choices (fonts, layout, colors, graphic
 
 **Rationale:**
 
-- **Natal data at root** - `astrology.json` and `humandesign.json` are permanent; they apply to all future readings for this client
+- **Natal data and visualizations at root** - `astrology.json`, `humandesign.json`, and `bodygraph.svg` are permanent; they apply to all future readings for this client
+- **SVG format for visualizations** - Scalable vector graphics ensure quality at any size, clean import into Pages/design tools, professional print quality
 - **Transit data in subfolder** - Transits are specific to the questions and date range of each synthesis
 - **Each reading gets dated subfolder** - Allows multiple readings over time with clear versioning
 
@@ -422,6 +427,7 @@ If errors are discovered after delivery:
 □ Run geolocation verification
 □ Calculate astrology.json
 □ Calculate humandesign.json
+□ Generate bodygraph.svg (SVG format)
 □ Calculate transits.json (if timing questions)
 □ Verify data quality
 □ Begin synthesis
@@ -451,6 +457,7 @@ VI.  Closing (Practical guidance, next steps)
 
 ## Version History
 
+- **2026-01-28:** Added bodygraph.svg generation to Phase 1 workflow. Updated Quality Gate, File Organization, and New Client Checklist to include SVG visualization as standard deliverable format.
 - **2026-01-27:** Added Initial Client Report template (`_TEMPLATE - Initial Client Report.md`) as comprehensive archetypal portrait for new clients. Restructured Phase 2 to distinguish between Initial Reports and Targeted Readings. Updated Consultations folder references to `~/Business/Consultations/`.
 - **2026-01-19:** Initial protocol created. Formalizes workflow from Szilvia Williams and Joe Lewis synthesis work. Addresses Process Gap #5.
 

@@ -1,7 +1,7 @@
 ---
 tags: [system, protocol, data-integrity, astrology, human-design]
 date_created: 2026-01-15
-date_updated: 2026-01-27
+date_updated: 2026-01-28
 ---
 
 # Protocol: Chart Data Acquisition
@@ -237,6 +237,51 @@ python get_hd_data.py \
 - Defined/Undefined Centers
 - Channels and Gates
 - Variables
+
+#### Human Design Bodygraph Visualization
+
+After generating `humandesign.json`, generate the bodygraph SVG for visual reference:
+
+```bash
+cd ~/VibologyOS
+source .venv/bin/activate
+
+python3 -c "
+import json
+import sys
+sys.path.insert(0, 'System/humandesign_api/src')
+
+from humandesign.services.chart_renderer import generate_bodygraph_image
+
+# Load the chart data
+with open('humandesign.json', 'r') as f:
+    chart_data = json.load(f)
+
+# Generate bodygraph as SVG (default format)
+svg_bytes = generate_bodygraph_image(chart_data, fmt='svg', include_panels=True, include_summary=False)
+
+# Write to file
+with open('bodygraph.svg', 'wb') as f:
+    f.write(svg_bytes)
+
+print('Bodygraph SVG saved to: bodygraph.svg')
+"
+```
+
+**Output:** `bodygraph.svg` - Scalable vector graphic showing:
+- Defined/undefined centers with luminous glow effects
+- Active channels (all rendered, including split-aspect patterns)
+- Gate numbers with activation-type indicators:
+  - **Red/black split border**: Both design and personality aspects
+  - **Full red border**: Design-only activation
+  - **Full black border**: Personality-only activation
+- Design and Personality side panels with planetary activations
+
+**Format rationale:** SVG is preferred over PNG for:
+- Scalability without quality loss
+- Clean import into Pages/design tools
+- Smaller file size for archival
+- Professional print quality
 
 ### Phase 2b: Calculate Transits (MANDATORY for ANY Timing-Related Questions)
 
@@ -532,6 +577,7 @@ pkill -f "uvicorn humandesign"
 
 ## Version History
 
+- **2026-01-28:** Added bodygraph SVG generation step in Phase 2 (Human Design Natal Chart section). Documented activation-type indicators (split-aspect gates visible via colored borders). SVG is now the standard format for bodygraph visualizations.
 - **2026-01-27:** Updated Consultations folder references to `~/Business/Consultations/`. Client data now stored outside VibologyOS repository.
 - **2026-01-17:** **CRITICAL UPDATE - Transit Calculation Requirement Emphasized.** Added "THE CARDINAL RULE: ALWAYS CALCULATE TRANSITS" section with explicit examples of wrong vs. correct approach. Updated Phase 2b language to make transit calculation NON-NEGOTIABLE for any timing-related questions. This update addresses a protocol violation in the initial Joe Lewis synthesis where vague timing language was used instead of calculated transits. ALL FUTURE SYNTHESIS WORK MUST CALCULATE TRANSITS WHEN TIMING IS INVOLVED.
 - **2026-01-17:** Virtual environment setup. Created `.venv/` in VibologyOS root, `requirements.txt` for dependency management, `calculate_chart.sh` wrapper script for automatic venv activation. Updated all Quick Reference examples. Addresses dependency persistence issues after system updates (PEP 668 compliance).
