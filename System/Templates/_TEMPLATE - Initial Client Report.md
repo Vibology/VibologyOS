@@ -19,6 +19,7 @@ Before writing the report:
    python3 System/Scripts/get_astro_data.py \
      --name "Name" --year YYYY --month M --day D \
      --hour H --minute M --lat LAT --lng LNG \
+     --city "City" --nation "US" \
      --timezone "IANA/Timezone" --pretty > astrology.json
 
    # Human Design (start API if needed: cd System/humandesign_api && uvicorn humandesign.api:app --port 9021 &)
@@ -30,7 +31,7 @@ Before writing the report:
 3. **Generate graphics:**
    ```bash
    # Natal chart (Kerykeion generates in current directory)
-   python3 -c "from kerykeion import AstrologicalSubject, KerykeionChartSVG; s = AstrologicalSubject('Name', YYYY, M, D, H, M, lat=LAT, lng=LNG, tz_str='TZ'); KerykeionChartSVG(s).makeSVG()"
+   python3 -c "from kerykeion import AstrologicalSubject, KerykeionChartSVG; s = AstrologicalSubject('Name', YYYY, M, D, H, M, city='City', nation='US', lat=LAT, lng=LNG, tz_str='TZ', online=False); KerykeionChartSVG(s).makeSVG()"
 
    # Bodygraph (via chart renderer)
    python3 << 'EOF'
