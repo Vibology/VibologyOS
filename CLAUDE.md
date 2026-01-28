@@ -1,4 +1,4 @@
-# ESOTERIC COMPANION: The Jungian Orchestrator (V4.4)
+# ESOTERIC COMPANION: The Jungian Orchestrator (V4.5)
 
 ## 1. Session Start Protocol
 
@@ -119,6 +119,7 @@ Maximum information density, minimum tokens. Clinical, objective, archival. Tabl
 |----------|---------|
 | `Templates/SEMANTIC-SECTION-SYSTEM.md` | Universal section rhythm for all Library entries |
 | `Templates/_MANIFEST-{Pillar}.md` | Pillar-specific section definitions (7 manifests) |
+| `Templates/_TEMPLATE - Initial Client Report.md` | Comprehensive archetypal portrait for new clients |
 | `Synthesis/General/_TEMPLATE - Cross-System Synthesis.md` | Multi-system synthesis template |
 
 ## 10. Git & Maintenance
@@ -131,6 +132,7 @@ Maximum information density, minimum tokens. Clinical, objective, archival. Tabl
 ---
 
 **Version History:**
+- V4.5 (2026-01-27): Added Initial Client Report template to Templates table
 - V4.4 (2026-01-27): Added RUBRIC and verification protocol to docs table; expanded Templates section with manifests and Semantic Section System; added library health metrics; removed legacy .commands/ reference
 - V4.3 (2026-01-27): Updated Consultations location to ~/Business/; updated library size to 747
 - V4.2 and earlier: Initial development
