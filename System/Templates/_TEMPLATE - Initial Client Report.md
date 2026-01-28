@@ -1,319 +1,186 @@
----
-tags: [synthesis, client-work, initial-report]
-entity_id: {Client initials or code}
-date_created: YYYY-MM-DD
-scope: Client
-birth_data:
-  date: YYYY-MM-DD
-  time: "HH:MM"
-  location: "City, Country"
-  coordinates: "lat, lng"
-  timezone: "IANA/Timezone"
-  time_known: true
-systems_integrated: [Astrology, Human Design, Personal Mythos]
----
+# Initial Client Report Template
 
-# Initial Client Report: {entity_id}
+**Purpose:** Comprehensive archetypal portrait for new clients, synthesizing Western astrology, Human Design, and archetypal psychology.
 
-*An archetypal portrait synthesizing natal astrology, Human Design mechanics, and mythological resonance.*
+**Output location:** `~/Business/Consultations/{Client Name}/`
 
 ---
 
-## I. The Invitation
+## Pre-Generation Checklist
 
-{Open with 2-3 paragraphs addressing the client directly. What brings them to this work? What does an "archetypal portrait" offer? Frame this as a map, not a verdict—a tool for self-understanding, not a fixed identity.
+Before writing the report:
 
-Acknowledge what can and cannot be known from birth data alone. The chart shows patterns and potentials; the client alone knows how these have manifested in lived experience.}
+1. **Gather birth data:** Date, time (exact if possible), location
+2. **Calculate charts:**
+   ```bash
+   cd ~/VibologyOS && source .venv/bin/activate
 
----
+   # Astrology
+   python3 System/Scripts/get_astro_data.py \
+     --name "Name" --year YYYY --month M --day D \
+     --hour H --minute M --lat LAT --lng LNG \
+     --timezone "IANA/Timezone" --pretty > astrology.json
 
-## II. Data Foundation
+   # Human Design (start API if needed: cd System/humandesign_api && uvicorn humandesign.api:app --port 9021 &)
+   python3 System/Scripts/get_hd_data.py \
+     --name "Name" --year YYYY --month M --day D \
+     --hour H --minute M --lat LAT --lng LNG --pretty > humandesign.json
+   ```
 
-{This section presents the raw mechanics. Clinical, tabular, Scribe-voice. Interpretation comes later.}
+3. **Generate graphics:**
+   ```bash
+   # Natal chart (Kerykeion generates in current directory)
+   python3 -c "from kerykeion import AstrologicalSubject, KerykeionChartSVG; s = AstrologicalSubject('Name', YYYY, M, D, H, M, lat=LAT, lng=LNG, tz_str='TZ'); KerykeionChartSVG(s).makeSVG()"
 
-### Astrological Natal Chart
-
-#### The Luminaries and Ascendant
-
-| Body | Sign | Degree | House | Dignity |
-|------|------|--------|-------|---------|
-| Sun ☉ | | | | |
-| Moon ☽ | | | | |
-| Ascendant | | | — | — |
-
-#### Planetary Positions
-
-| Planet | Sign | Degree | House | Dignity | Retrograde |
-|--------|------|--------|-------|---------|------------|
-| Mercury ☿ | | | | | |
-| Venus ♀ | | | | | |
-| Mars ♂ | | | | | |
-| Jupiter ♃ | | | | | |
-| Saturn ♄ | | | | | |
-| Uranus ♅ | | | | | |
-| Neptune ♆ | | | | | |
-| Pluto ♇ | | | | | |
-| Chiron ⚷ | | | | | |
-| North Node ☊ | | | | | |
-
-#### Major Aspects
-
-| Aspect | Orb | Nature |
-|--------|-----|--------|
-| {Planet} {aspect symbol} {Planet} | | {Harmonious/Dynamic} |
-
-#### Chart Signature
-
-- **Dominant Element:** {Fire/Earth/Air/Water}
-- **Dominant Modality:** {Cardinal/Fixed/Mutable}
-- **Chart Shape:** {Bowl/Bucket/Splay/Bundle/etc.}
-- **Standout Patterns:** {Stellium, T-Square, Grand Trine, etc.}
-
----
-
-### Human Design Bodygraph
-
-#### Core Mechanics
-
-| Attribute | Value |
-|-----------|-------|
-| Type | {Generator/Manifesting Generator/Projector/Manifestor/Reflector} |
-| Strategy | {Wait to Respond/Wait for Invitation/Inform/Wait Lunar Cycle} |
-| Authority | {Sacral/Emotional/Splenic/Ego/Self-Projected/Mental/Lunar} |
-| Profile | {X/Y} |
-| Definition | {Single/Split/Triple Split/Quadruple Split/No Definition} |
-| Incarnation Cross | {Right/Left/Juxtaposition Angle Cross of X} |
-
-#### Defined Centers
-
-| Center | Status | Theme |
-|--------|--------|-------|
-| Head | | Inspiration/Pressure |
-| Ajna | | Conceptualization |
-| Throat | | Manifestation/Communication |
-| G/Identity | | Direction/Love/Identity |
-| Heart/Ego | | Willpower/Value |
-| Sacral | | Life Force/Sexuality |
-| Solar Plexus | | Emotion/Clarity |
-| Spleen | | Intuition/Immune/Time |
-| Root | | Adrenaline/Pressure |
-
-#### Key Gates and Channels
-
-**Conscious Sun Gate:** Gate {X} — {Name}
-**Conscious Earth Gate:** Gate {X} — {Name}
-**Unconscious Sun Gate:** Gate {X} — {Name}
-**Unconscious Earth Gate:** Gate {X} — {Name}
-
-**Defined Channels:**
-- Channel {X-Y}: {Name} — {Brief description}
+   # Bodygraph (via chart renderer)
+   python3 << 'EOF'
+   import json, sys
+   sys.path.insert(0, '/home/joe/VibologyOS/System/humandesign_api/src')
+   from humandesign.services.chart_renderer import generate_bodygraph_image
+   with open("humandesign.json") as f: hd = json.load(f)
+   chart_data = {
+       "general": {
+           "energy_type": hd["type"]["energy_type"],
+           "strategy": hd["type"]["strategy"],
+           "inner_authority": hd["authority"]["inner_authority"],
+           "profile": hd["profile"]["profile"],
+           "inc_cross": hd["profile"]["incarnation_cross"],
+           "definition": hd["definition"]["definition_type"],
+           "defined_centers": hd["definition"]["defined_centers"],
+           "variables": hd.get("variables", {})
+       },
+       "gates": {"prs": {"Planets": hd["gates"]["personality"]}, "des": {"Planets": hd["gates"]["design"]}},
+       "channels": hd.get("channels", [])
+   }
+   with open("bodygraph.png", "wb") as f: f.write(generate_bodygraph_image(chart_data, fmt='png'))
+   EOF
+   ```
 
 ---
 
-## III. The Solar Story
+## Report Style Guidelines
 
-{Weaver voice begins here. This section interprets the Sun placement as the core identity theme.}
+**DO:**
+- Write in accessible, plain English
+- Address the client directly ("you," "your")
+- Explain technical terms when first used
+- Frame insights as patterns and possibilities, not fixed verdicts
+- Include the graphic files by reference
 
-### The Conscious Mission
-
-{Synthesize the Sun sign, house, and aspects. What is this soul here to express? How does the Human Design Conscious Sun Gate speak to the same theme?
-
-Draw from Library entries: [[{Sun Sign}]], [[Gate {X}]].
-
-Look for convergence or tension between systems. Where they agree, confidence increases. Where they diverge, complexity emerges—hold both.}
-
-### The Unconscious Foundation
-
-{The Earth sign and HD Unconscious Sun represent what grounds and supports the mission. Often less visible to the individual but sensed by others.}
-
----
-
-## IV. The Lunar Landscape
-
-{The Moon and emotional centers reveal the inner life, needs, and vulnerability.}
-
-### Emotional Architecture
-
-{Moon sign, house, aspects. What does this soul need to feel safe? How do they process emotion?
-
-Cross-reference with Solar Plexus definition (or openness) in Human Design. An open Solar Plexus with a Water Moon creates a very different experience than a defined Solar Plexus with a Fire Moon.
-
-Draw from: [[{Moon Sign}]], [[Solar Plexus Center]].}
-
-### The Not-Self Signature
-
-{Based on HD Type, what does the Not-Self look like for this person? Frustration, bitterness, anger, disappointment? How might Moon patterns amplify or soothe this?}
+**DO NOT:**
+- Use YAML frontmatter
+- Use wikilinks (no double brackets)
+- Use excessive jargon without explanation
+- Make definitive predictions
+- Include technical data tables beyond a simple summary
 
 ---
 
-## V. The Persona and Path
+## Report Structure
 
-{Ascendant and HD Profile reveal how the person meets the world and learns through life.}
+```markdown
+# Initial Report: {Client Name}
 
-### The Rising Mask
+*A portrait of your cosmic blueprint, synthesizing Western astrology, Human Design, and archetypal psychology.*
 
-{Ascendant sign and any planets conjunct. First impressions, survival strategy, the face shown to strangers.
-
-Draw from: [[{Ascendant Sign}]].}
-
-### The Profile Arc
-
-{HD Profile (e.g., 3/5) as a life learning path. How do the two lines interact? What is the person's role in the collective story?
-
-Draw from: [[Profile {X/Y}]].}
-
-### Synthesis: Persona Integration
-
-{Where Ascendant and Profile align or create productive tension. The Ascendant is the mask; the Profile is how the mask gets worn through time.}
+**Birth Data:** {Month Day, Year} at {Time} in {City, State/Country}
 
 ---
 
-## VI. The Incarnation Cross
+## Your Charts
 
-{The HD Incarnation Cross as life purpose theme.}
-
-### The Cross Configuration
-
-{Name the cross and its four gates. What is the life theme this configuration encodes?
-
-Draw from: [[{Incarnation Cross Name}]].}
-
-### Astrological Parallels
-
-{Do the nodal axis, Sun/Moon, or other astrological factors echo the Cross theme? The North Node often speaks to similar territory as the Incarnation Cross—evolution toward purpose.}
+Your natal chart and bodygraph are included with this report:
+- **natal_chart.svg** — Your astrological birth chart showing planetary positions
+- **bodygraph.png** — Your Human Design bodygraph showing energy centers and channels
 
 ---
 
-## VII. Archetypal Resonance
+## The Invitation
 
-{Personal Mythos integration. Which archetypes, myths, or fairy tales illuminate this chart?}
-
-### Primary Archetypes
-
-{Based on the chart, which Jungian archetypes appear most activated?
-
-Consider:
-- Sun sign/house → Hero archetype variant
-- Moon sign/house → Anima/Animus quality
-- Saturn placement → Senex/Threshold Guardian
-- Venus/Mars → Lover, Warrior, Shapeshifter
-- Neptune/Pluto → Transformative archetypes
-
-Draw from: [[The Hero]], [[The Shadow]], [[The Anima]], etc.}
-
-### Mythological Parallels
-
-{Which cultural myths or fairy tales resonate with this configuration?
-
-A person with strong Pluto-Moon aspects might find resonance in [[Inanna's Descent]] or [[Persephone]]. Someone with a stellium in the 12th house might recognize themselves in tales of the [[Handless Maiden]] or monastery seekers.
-
-Draw from World Mythology and Fairy Tales sections.}
-
-### The Hero's Journey Placement
-
-{Where might this person be in their own Hero's Journey? This is speculative without life context, but the chart can suggest:
-- Saturn Return timing → Ordeal, Resurrection
-- Nodal axis emphasis → Call to Adventure, Crossing Threshold
-- Heavy 12th house → Ordinary World (unconscious), or Road Back (integration)
-
-Draw from: [[The Hero's Journey]].}
+{2-3 paragraphs framing what this report offers. Not a verdict but a map. The client has lived these patterns—only they know how the symbols have manifested.}
 
 ---
 
-## VIII. Shadow Cartography
+## The Core Pattern
 
-{Every chart contains shadow material. Name it with compassion.}
-
-### Planetary Shadow
-
-{Squares, oppositions, planets in detriment or fall, retrograde signatures. Where are the growth edges?
-
-Frame as: "This configuration suggests a potential struggle with..." not "You have a problem with..."}
-
-### Not-Self Conditioning
-
-{Open/undefined centers in HD. Where is this person vulnerable to taking in others' energy and mistaking it for their own?
-
-Draw from relevant Center entries.}
-
-### The Unlived Life
-
-{What might be suppressed or undeveloped? Often found in the 12th house, South Node, or undefined HD centers. Not pathology—potential that awaits integration.}
+| Category | Your Configuration |
+|----------|-------------------|
+| **Sun Sign** | {Sign} ({Degree}) in the {House} House |
+| **Moon Sign** | {Sign} ({Degree}) in the {House} House |
+| **Rising Sign** | {Sign} ({Degree}) |
+| **Human Design Type** | {Type} |
+| **Strategy** | {Strategy} |
+| **Authority** | {Authority} |
+| **Profile** | {Profile} |
+| **Life Theme** | {Incarnation Cross} |
 
 ---
 
-## IX. Practical Wisdom
+## Part 1: Your Solar Story — What You're Here to Express
 
-{Translate archetypal insight into lived guidance.}
-
-### Strategy and Authority
-
-{Reiterate the HD Strategy and Authority as the core decision-making tool. This is the most practical gift Human Design offers.}
-
-### Timing Considerations
-
-{Note any current or upcoming transits of significance:
-- Saturn transits to natal planets
-- Progressed Moon phase
-- Eclipse contacts
-
-This requires transit calculation—include only if requested or obviously relevant.}
-
-### Integration Pathways
-
-{Based on the synthesis, what practices might serve this person?
-- Shadow work with specific archetypes
-- Contemplation on specific myths or tales
-- HD experiment recommendations
-- Astrological remediation (if appropriate to your practice)}
+{Interpret Sun sign, house, and HD Conscious Sun gate. What is the conscious life mission? Use accessible language. Explain what Aquarius or Capricorn or whatever sign MEANS in practical terms.}
 
 ---
 
-## X. The Open Question
+## Part 2: Your Emotional Landscape — What You Need to Feel Safe
 
-{End with what remains unknown. A good reading opens doors rather than closing them.}
-
-{What would you want to know from the client to deepen this portrait? What can only be understood through conversation and lived experience?
-
-Leave space for the client's own knowing to complete the picture.}
+{Interpret Moon sign, house, and emotional center definition (or openness). How does this person process emotion? What do they need to feel secure?}
 
 ---
 
-## Cross-References
+## Part 3: Your Public Face — How Others First Experience You
 
-### Astrology
-- [[{Sun Sign}]]
-- [[{Moon Sign}]]
-- [[{Ascendant Sign}]]
-- {Add relevant planet entries}
-
-### Human Design
-- [[{Type}]]
-- [[{Authority}]]
-- [[Profile {X/Y}]]
-- [[{Incarnation Cross}]]
-- {Add relevant Gate and Channel entries}
-
-### Personal Mythos
-- [[{Primary Archetype}]]
-- [[{Resonant Myth or Tale}]]
-- {Add relevant entries}
+{Interpret Rising sign, any planets conjunct Ascendant, and HD Profile. How do they meet the world? What's the first impression they give?}
 
 ---
 
-## Verification Notes
+## Part 4: Your Life Theme — What You're Here to Do
 
-- Astrology data source: `astrology.json` calculated {date}
-- Human Design data source: `humandesign.json` calculated {date}
-- Cross-checked against: {secondary source if used}
-- Discrepancies noted: {any issues}
+{Interpret HD Incarnation Cross and astrological North Node. The overarching life purpose. Connect the systems where they converge.}
 
 ---
 
-## Changelog
+## Part 5: Your Archetypes — The Mythic Patterns at Work
 
-- **YYYY-MM-DD:** Initial report created
+{Which archetypes and myths resonate with this configuration? Name 3-4 and explain why in accessible terms. Hero's Journey placement if relevant.}
+
+---
+
+## Part 6: The Shadow Territory — Growth Edges
+
+{Challenging aspects, planets in detriment/fall, open centers that create conditioning vulnerability. Frame as invitations for growth, not defects.}
+
+---
+
+## Part 7: Practical Guidance
+
+{Strategy and Authority explained in plain terms. Specific recommendations for working with open centers, challenging aspects, etc.}
+
+---
+
+## The Open Question
+
+{End with what remains unknown. What would conversation with the client reveal? Leave space for their lived experience to complete the picture.}
+
+---
+
+## Verification
+
+- Astrology calculated: {Date} via Kerykeion/Swiss Ephemeris
+- Human Design calculated: {Date} via humandesign_api/Swiss Ephemeris
 
 ---
 
 *"The privilege of a lifetime is to become who you truly are." — C.G. Jung*
+```
+
+---
+
+## Files Generated
+
+For each client report, the folder should contain:
+- `astrology.json` — Raw natal chart data (permanent)
+- `humandesign.json` — Raw HD data (permanent)
+- `natal_chart.svg` — Astrological chart graphic
+- `bodygraph.png` — Human Design bodygraph graphic
+- `Initial Client Report.md` — The synthesis document
