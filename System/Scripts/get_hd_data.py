@@ -118,26 +118,46 @@ def get_planet_dignity(planet_name: str, gate: int, line: int, exaltations_data:
 
 # Two-tier fixing system: "self-fixing" vs "global fixing" planets.
 # Self-fixing (personal) planets stamp dignity at the Design snapshot permanently.
-# Global (ambient) planets only show dignity if still in the same gate.line at birth.
+# Global (ambient) planets only show dignity if still in the same gate.line at birth,
+# OR if the planet went retrograde (longitude decreased from Design to Personality).
+# Retrograde motion preserves the Design imprint; direct motion breaks the fixing.
 GLOBAL_FIXING_PLANETS = {"Jupiter", "Saturn", "Uranus", "Neptune", "Pluto", "North Node", "South Node"}
 
 
 def build_personality_fixing_environment(personality_planets: list, exaltations_data: dict) -> dict:
     """
-    Build a lookup of gate.line positions occupied by global planets at birth.
+    Build a lookup of global planet positions at birth.
 
-    Returns dict mapping planet_name -> (gate, line) for global planets only.
+    Returns dict mapping planet_name -> (gate, line, lon) for global planets only.
     """
     positions = {}
     for planet in personality_planets:
         name = planet.get('Planet', '').replace('_', ' ')
         if name in GLOBAL_FIXING_PLANETS:
-            positions[name] = (planet.get('Gate'), planet.get('Line'))
+            positions[name] = (planet.get('Gate'), planet.get('Line'), planet.get('Lon'))
     return positions
 
 
+def _is_retrograde(design_lon: float, personality_lon: float) -> bool:
+    """
+    Determine if a planet went retrograde between Design and Personality snapshots.
+
+    Retrograde = zodiacal longitude decreased (planet moved backward).
+    Handles 360° wrap-around (e.g., Design 2° → Personality 358° = retrograde).
+    """
+    if design_lon is None or personality_lon is None:
+        return False
+    delta = personality_lon - design_lon
+    # Normalize to [-180, 180] to handle wrap-around
+    if delta > 180:
+        delta -= 360
+    elif delta < -180:
+        delta += 360
+    return delta < 0
+
+
 def get_design_planet_dignity(
-    planet_name: str, gate: int, line: int,
+    planet_name: str, gate: int, line: int, design_lon: float,
     exaltations_data: dict, personality_global_positions: dict
 ) -> str:
     """
@@ -147,8 +167,9 @@ def get_design_planet_dignity(
         Standard handshake — if the planet matches the fixing planet, dignity applies.
 
     Global planets (Jupiter, Saturn, Uranus, Neptune, Pluto, Nodes):
-        Dignity only applies if the same planet is still in the same gate.line
-        at the Personality (birth) moment.
+        Dignity applies if the planet is in the same gate.line at birth,
+        OR if the planet went retrograde between Design and Personality.
+        Direct (forward) motion breaks the fixing.
 
     Returns:
         "exalted", "detriment", or None
@@ -162,13 +183,23 @@ def get_design_planet_dignity(
     if normalized_planet not in GLOBAL_FIXING_PLANETS:
         return get_planet_dignity(planet_name, gate, line, exaltations_data)
 
-    # Global planets: check if still in same gate.line at birth
-    personality_pos = personality_global_positions.get(normalized_planet)
-    if personality_pos != (gate, line):
-        return None  # Global planet moved — fixing lost
+    # Global planets: check position at birth
+    personality_data = personality_global_positions.get(normalized_planet)
+    if personality_data is None:
+        return None  # Planet not found in Personality data
 
-    # Planet is still in same position at birth — standard handshake applies
-    return get_planet_dignity(planet_name, gate, line, exaltations_data)
+    prs_gate, prs_line, prs_lon = personality_data
+
+    # Same gate.line at birth — fixing holds
+    if (prs_gate, prs_line) == (gate, line):
+        return get_planet_dignity(planet_name, gate, line, exaltations_data)
+
+    # Different position — check retrograde: backward motion preserves fixing
+    if _is_retrograde(design_lon, prs_lon):
+        return get_planet_dignity(planet_name, gate, line, exaltations_data)
+
+    # Direct motion — fixing lost
+    return None
 
 
 def get_hd_chart(
@@ -261,8 +292,10 @@ def get_hd_chart(
         planet_name = planet.get('Planet')
         gate = planet.get('Gate')
         line = planet.get('Line')
+        design_lon = planet.get('Lon')
         dignity = get_design_planet_dignity(
-            planet_name, gate, line, exaltations_data, personality_global_positions
+            planet_name, gate, line, design_lon,
+            exaltations_data, personality_global_positions
         )
         planet['dignity'] = dignity
 
