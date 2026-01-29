@@ -254,37 +254,32 @@ python get_hd_data.py \
 - `"detriment"` - Planet is in detriment in this gate.line
 - `null` - No dignity status for this placement
 
-#### Human Design Bodygraph Visualization
+#### Chart Visualizations (Bodygraph and Natal Chart)
 
-After generating `humandesign.json`, generate the bodygraph SVG for visual reference:
+After generating `humandesign.json` and `astrology.json`, generate chart visualizations:
 
 ```bash
 cd ~/VibologyOS
 source .venv/bin/activate
 
-python3 -c "
-import json
-import sys
-sys.path.insert(0, 'System/humandesign_api/src')
-
-from humandesign.services.chart_renderer import generate_bodygraph_image
-
-# Load the chart data
-with open('humandesign.json', 'r') as f:
-    chart_data = json.load(f)
-
-# Generate bodygraph as SVG (default format)
-svg_bytes = generate_bodygraph_image(chart_data, fmt='svg', include_panels=True, include_summary=False)
-
-# Write to file
-with open('bodygraph.svg', 'wb') as f:
-    f.write(svg_bytes)
-
-print('Bodygraph SVG saved to: bodygraph.svg')
-"
+# Generate both bodygraph.svg and natal chart SVG
+python3 System/Scripts/generate_chart_visuals.py --output-dir ~/Business/Consultations/ClientName/
 ```
 
-**Output:** `bodygraph.svg` - Scalable vector graphic showing:
+**Alternative usage:**
+```bash
+# Generate in current directory (if JSON files are in pwd)
+python3 System/Scripts/generate_chart_visuals.py
+
+# Generate only bodygraph
+python3 System/Scripts/generate_chart_visuals.py --bodygraph-only
+
+# Generate only natal chart
+python3 System/Scripts/generate_chart_visuals.py --natal-only
+```
+
+**Outputs:**
+- `bodygraph.svg` - HD bodygraph showing:
 - Defined/undefined centers with luminous glow effects
 - Active channels (all rendered, including split-aspect patterns)
 - Gate numbers with activation-type indicators:
@@ -292,8 +287,9 @@ print('Bodygraph SVG saved to: bodygraph.svg')
   - **Full red border**: Design-only activation
   - **Full black border**: Personality-only activation
 - Design and Personality side panels with planetary activations
+- `{Name} - Natal Chart.svg` - Astrological natal chart with planetary positions, houses, aspects
 
-**Format rationale:** SVG is preferred over PNG for:
+**Format rationale:** SVG is the required format for all chart visualizations:
 - Scalability without quality loss
 - Clean import into Pages/design tools
 - Smaller file size for archival
