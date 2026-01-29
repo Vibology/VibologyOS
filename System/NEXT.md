@@ -82,7 +82,22 @@ VibologyOS/
 
 ## Session History
 
-**2026-01-28:** Human Design API bodygraph renderer improvements
+**2026-01-28 (PM):** Split-aspect gate indicators and dignity data integration
+- Implemented split-aspect gate indicators via colored borders on gate circles:
+  - Red/black split border: both design and personality aspects
+  - Full red border: design-only activation
+  - Full black border: personality-only activation
+- Changed default bodygraph export format from PNG to SVG for scalability
+- Added exaltation/detriment dignity data to `get_hd_data.py` script:
+  - Each planet now includes `dignity` field ("exalted", "detriment", or null)
+  - Supports synthesis protocol requirement for traceable claims
+- Updated protocols:
+  - Chart Data Acquisition: Added bodygraph SVG generation step
+  - Client Work: Added bodygraph.svg to workflow and file organization
+- Generated Szilvia Williams' bodygraph.svg with all new features
+- All changes pushed to humandesign_api and VibologyOS repositories
+
+**2026-01-28 (AM):** Human Design API bodygraph renderer improvements
 - Replaced PNG triangle images with native SVG paths for exaltation/detriment symbols
 - Fixed triangle vertical centering (separate viewBox dimensions for each triangle type)
 - Implemented width compensation for equal border padding (exaltation vs detriment)
