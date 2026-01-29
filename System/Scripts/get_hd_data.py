@@ -15,7 +15,7 @@ Prerequisites:
     - humandesign_api running on localhost:9021
     - HD_API_TOKEN set in environment or .env file
 
-Output: JSON to stdout with full HD chart data
+Output: JSON to stdout with full HD chart data including exaltation/detriment dignities
 """
 
 import argparse
@@ -24,6 +24,7 @@ import os
 import sys
 from datetime import datetime
 from urllib.parse import urlencode
+from pathlib import Path
 
 try:
     import httpx
@@ -61,6 +62,55 @@ def check_api_health(base_url: str) -> bool:
         return response.status_code == 200
     except Exception:
         return False
+
+
+def load_exaltations_data() -> dict:
+    """Load exaltations/detriments reference data."""
+    # Look for the file in humandesign_api/src/humandesign/data/
+    script_dir = Path(__file__).parent
+    exaltations_path = script_dir / '..' / 'humandesign_api' / 'src' / 'humandesign' / 'data' / 'exaltations_detriments.json'
+
+    try:
+        with open(exaltations_path, 'r') as f:
+            return json.load(f)
+    except Exception as e:
+        print(f"Warning: Could not load exaltations data: {e}", file=sys.stderr)
+        return {}
+
+
+def get_planet_dignity(planet_name: str, gate: int, line: int, exaltations_data: dict) -> str:
+    """
+    Determine if a planet is exalted or in detriment for a given gate.line.
+
+    Args:
+        planet_name: Planet name (e.g., "Sun", "North_Node")
+        gate: Gate number
+        line: Line number
+        exaltations_data: Loaded exaltations reference dict
+
+    Returns:
+        "exalted", "detriment", or None
+    """
+    if not exaltations_data or gate is None or line is None:
+        return None
+
+    key = f"{gate}.{line}"
+    entry = exaltations_data.get(key)
+    if not entry:
+        return None
+
+    # Normalize planet name for matching (remove underscores, handle variations)
+    normalized_planet = planet_name.replace('_', ' ')
+
+    # Check exaltation
+    if entry.get('exaltation') == normalized_planet:
+        return 'exalted'
+
+    # Check detriment
+    if entry.get('detriment') == normalized_planet:
+        return 'detriment'
+
+    return None
 
 
 def get_hd_chart(
@@ -130,6 +180,27 @@ def get_hd_chart(
     channels_data = api_data.get('channels', {})
     gates_data = api_data.get('gates', {})
 
+    # Load exaltations data for dignity lookup
+    exaltations_data = load_exaltations_data()
+
+    # Add dignity to personality gates
+    personality_planets = gates_data.get('prs', {}).get('Planets', [])
+    for planet in personality_planets:
+        planet_name = planet.get('Planet')
+        gate = planet.get('Gate')
+        line = planet.get('Line')
+        dignity = get_planet_dignity(planet_name, gate, line, exaltations_data)
+        planet['dignity'] = dignity
+
+    # Add dignity to design gates
+    design_planets = gates_data.get('des', {}).get('Planets', [])
+    for planet in design_planets:
+        planet_name = planet.get('Planet')
+        gate = planet.get('Gate')
+        line = planet.get('Line')
+        dignity = get_planet_dignity(planet_name, gate, line, exaltations_data)
+        planet['dignity'] = dignity
+
     chart_data = {
         'meta': {
             'name': name,
@@ -161,8 +232,8 @@ def get_hd_chart(
         'variables': general.get('variables', {}),
         'channels': channels_data.get('Channels', []),
         'gates': {
-            'personality': gates_data.get('prs', {}).get('Planets', []),
-            'design': gates_data.get('des', {}).get('Planets', [])
+            'personality': personality_planets,
+            'design': design_planets
         },
         'planets': {
             'personality': api_data.get('personality', {}),
