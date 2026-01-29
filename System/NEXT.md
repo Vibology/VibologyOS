@@ -1,7 +1,7 @@
 # Current Work Context
 
-**Last Updated:** 2026-01-28
-**System Status:** Library complete and verified; repository cleaned
+**Last Updated:** 2026-01-28 (Evening)
+**System Status:** Library complete and verified; HD dignity data architecture defined
 **Current Phase:** Ready for synthesis and client work
 
 ---
@@ -31,7 +31,7 @@
 
 ```
 VibologyOS/
-├── CLAUDE.md (V4.4)
+├── CLAUDE.md (V4.6)
 ├── Library/ (747 files)
 ├── Synthesis/General/ (template only - ready for new work)
 ├── System/
@@ -61,6 +61,10 @@ VibologyOS/
 - Jungian concepts (12 stubs) — Synchronicity, Transcendent Function, etc.
 - Practice guides (10 stubs) — LBRP, Pathworking, etc.
 
+**Deferred:** Gate dignity data (exaltation/detriment tables)
+- Awaiting errata stabilization before adding to 64 gate entries
+- Currently tracked in `humandesign_api/EXALTATION_DETRIMENT_ERRATA.md`
+
 ### 3. New Synthesis Work
 - `Synthesis/General/` ready for new pieces
 - Template: `_TEMPLATE - Cross-System Synthesis.md`
@@ -72,15 +76,30 @@ VibologyOS/
 
 | Document | Purpose |
 |----------|---------|
-| `CLAUDE.md` | Core governance (V4.4) |
+| `CLAUDE.md` | Core governance (V4.6) |
 | `PROTOCOL - Client Work.md` | Full client workflow |
 | `PROTOCOL - Chart Data Acquisition.md` | Chart calculation |
 | `RUBRIC - Library Content Standard.md` | Quality tiers |
+| `humandesign_api/EXALTATION_DETRIMENT_ERRATA.md` | Dignity data corrections log |
 | `INDEX - System Documentation.md` | Full docs navigation |
 
 ---
 
 ## Session History
+
+**2026-01-28 (Evening):** Dignity data architecture decision
+- Evaluated whether to include exaltation/detriment data in Library gate entries
+- **Decision:** Do not add structured dignity tables to Library entries yet
+  - API JSON (`exaltations_detriments.json`) remains computational source of truth
+  - Errata document tracks corrections as discovered through real chart work
+  - Library entries retain interpretive content without raw dignity tables
+  - Revisit when errata stabilizes (after 20-30 more charts without new errors)
+- Discussed systematic verification approach (Sun transit schedule for all 384 gate/lines)
+  - Feasible but unnecessary given organic verification through client work
+  - Each chart naturally verifies 13 gate/line combinations
+- Key learning: Chart arrow notation now understood
+  - Left/right arrows = Variables (Digestion, Environment, Perspective, Motivation)
+  - Up/down arrows = Dignity indicators (exaltation ↑ / detriment ↓)
 
 **2026-01-28 (PM):** Split-aspect gate indicators and dignity data integration
 - Implemented split-aspect gate indicators via colored borders on gate circles:
