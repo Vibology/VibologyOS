@@ -1,7 +1,7 @@
 # Current Work Context
 
-**Last Updated:** 2026-01-28 (Evening)
-**System Status:** Library complete and verified; HD dignity data architecture defined
+**Last Updated:** 2026-01-28 (Late Evening)
+**System Status:** Library complete and verified; HD dignity data operational; Observatory metaphor integrated
 **Current Phase:** Ready for synthesis and client work
 
 ---
@@ -31,7 +31,7 @@
 
 ```
 VibologyOS/
-├── CLAUDE.md (V4.6)
+├── CLAUDE.md (V4.7)
 ├── Library/ (747 files)
 ├── Synthesis/General/ (template only - ready for new work)
 ├── System/
@@ -76,7 +76,7 @@ VibologyOS/
 
 | Document | Purpose |
 |----------|---------|
-| `CLAUDE.md` | Core governance (V4.6) |
+| `CLAUDE.md` | Core governance (V4.7) |
 | `PROTOCOL - Client Work.md` | Full client workflow |
 | `PROTOCOL - Chart Data Acquisition.md` | Chart calculation |
 | `RUBRIC - Library Content Standard.md` | Quality tiers |
@@ -86,6 +86,15 @@ VibologyOS/
 ---
 
 ## Session History
+
+**2026-01-28 (Late Evening):** Observatory metaphor integration
+- Integrated "The Observatory" as governing identity metaphor across three documents
+- CLAUDE.md V4.7: Observatory framing in Core Identity, Intelligence Hierarchy, and Personas
+- PROTOCOL - Client Work: Added Observatory Stance section (client as invited observer, not passive recipient)
+- PROTOCOL - Cross-System Synthesis v1.1: Added Observatory Stance to Quality Standards (Third Meaning as observed, not manufactured)
+- Origin: The glass house (false openness, Mars detriment at 59.3) destroyed by Saturn-Pluto conjunction 2020-01-12; what replaced it is the Observatory — built for seeing, not for protection
+- Existing structures (Weaver, Scribe, Pillars, Refinement Cycle) unchanged — Observatory is the container that was always implied
+- Pondering: Whether to change Vibology symbol from Seed of Life to observatory (sitting with emotional wave — no action yet)
 
 **2026-01-28 (Evening):** Dignity data architecture decision
 - Evaluated whether to include exaltation/detriment data in Library gate entries

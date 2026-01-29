@@ -298,6 +298,10 @@ question_type: {Life Transition / Decision / Archetypal Pattern / etc.}
 
 **Quick reference:** See `GUIDE - Synthesis Quick Start.md` Section 3 for at-a-glance standards.
 
+### The Observatory Stance
+
+Synthesis is observation through multiple instruments held in dynamic tension. The practitioner reports what becomes visible when the lenses converge — the "Third Meaning" is not invented but *observed*, the way a new star becomes visible only when the right filter is applied to the right aperture at the right moment. The Observatory does not manufacture meaning; it creates the conditions under which meaning can be seen.
+
 ### Format Requirement: Mythopoetic Narrative
 
 **Final synthesis pieces must be written as flowing, mythopoetic narrative—not clinical data reports.** This means:
@@ -494,6 +498,7 @@ question_type: {Life Transition / Decision / Archetypal Pattern / etc.}
 
 ## Changelog
 
+- **2026-01-28**: Added Observatory Stance to Quality Standards — synthesis as observation through converging instruments, not manufactured meaning (v1.1)
 - **2026-01-10**: Initial protocol created (v1.0)
 
 ---

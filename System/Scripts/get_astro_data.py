@@ -102,6 +102,8 @@ def get_chart_data(name: str, year: int, month: int, day: int,
             'birth_date': f"{year}-{month:02d}-{day:02d}",
             'birth_time': f"{hour:02d}:{minute:02d}",
             'coordinates': {'lat': lat, 'lng': lng},
+            'city': city,
+            'nation': nation,
             'timezone': subject.tz_str if hasattr(subject, 'tz_str') else timezone,
             'calculation_timestamp': datetime.now(dt_timezone.utc).isoformat(),
             'engine': 'kerykeion/pyswisseph'

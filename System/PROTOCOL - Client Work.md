@@ -9,6 +9,10 @@ status: Active
 
 This protocol standardizes the workflow for client synthesis work, ensuring consistency, data integrity, and appropriate privacy handling across all client engagements.
 
+## The Observatory Stance
+
+The client experience is an Observatory visit. The practitioner does not deliver pronouncements from behind a curtain — they bring the client to the instruments and help them see the mechanics for themselves. Every claim is traceable to calculated data; every insight is offered as "here is what the instruments show" rather than "spirit told me." This is the antithesis of the [[open Ajna]] trap: no borrowed certainty, no authority to defer to. The Observatory invites the client into the seeing.
+
 ## Core Principles
 
 1. **Data Integrity First** - No synthesis begins until chart data is calculated and verified
@@ -457,7 +461,7 @@ VI.  Closing (Practical guidance, next steps)
 
 ## Version History
 
-- **2026-01-28:** Added bodygraph.svg generation to Phase 1 workflow. Updated Quality Gate, File Organization, and New Client Checklist to include SVG visualization as standard deliverable format.
+- **2026-01-28:** Added Observatory Stance framing section — client work as transparent observation, not pronouncement. Added bodygraph.svg generation to Phase 1 workflow. Updated Quality Gate, File Organization, and New Client Checklist to include SVG visualization as standard deliverable format.
 - **2026-01-27:** Added Initial Client Report template (`_TEMPLATE - Initial Client Report.md`) as comprehensive archetypal portrait for new clients. Restructured Phase 2 to distinguish between Initial Reports and Targeted Readings. Updated Consultations folder references to `~/Business/Consultations/`.
 - **2026-01-19:** Initial protocol created. Formalizes workflow from Szilvia Williams and Joe Lewis synthesis work. Addresses Process Gap #5.
 
