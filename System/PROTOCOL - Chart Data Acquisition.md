@@ -235,8 +235,13 @@ python get_hd_data.py \
 - Incarnation Cross
 - Definition Type
 - Defined/Undefined Centers
-- Channels and Gates
+- Channels and Gates (with exaltation/detriment dignity for each planet)
 - Variables
+
+**Note on Exaltations/Detriments:** Each planet in the gates arrays includes a `dignity` field with values:
+- `"exalted"` - Planet is exalted in this gate.line
+- `"detriment"` - Planet is in detriment in this gate.line
+- `null` - No dignity status for this placement
 
 #### Human Design Bodygraph Visualization
 
@@ -577,7 +582,9 @@ pkill -f "uvicorn humandesign"
 
 ## Version History
 
-- **2026-01-28:** Added bodygraph SVG generation step in Phase 2 (Human Design Natal Chart section). Documented activation-type indicators (split-aspect gates visible via colored borders). SVG is now the standard format for bodygraph visualizations.
+- **2026-01-28:**
+  - Added bodygraph SVG generation step in Phase 2 (Human Design Natal Chart section). Documented activation-type indicators (split-aspect gates visible via colored borders). SVG is now the standard format for bodygraph visualizations.
+  - Updated `get_hd_data.py` to include exaltation/detriment dignity data in chart JSON. Each planet now has a `dignity` field ("exalted", "detriment", or null) for synthesis traceability.
 - **2026-01-27:** Updated Consultations folder references to `~/Business/Consultations/`. Client data now stored outside VibologyOS repository.
 - **2026-01-17:** **CRITICAL UPDATE - Transit Calculation Requirement Emphasized.** Added "THE CARDINAL RULE: ALWAYS CALCULATE TRANSITS" section with explicit examples of wrong vs. correct approach. Updated Phase 2b language to make transit calculation NON-NEGOTIABLE for any timing-related questions. This update addresses a protocol violation in the initial Joe Lewis synthesis where vague timing language was used instead of calculated transits. ALL FUTURE SYNTHESIS WORK MUST CALCULATE TRANSITS WHEN TIMING IS INVOLVED.
 - **2026-01-17:** Virtual environment setup. Created `.venv/` in VibologyOS root, `requirements.txt` for dependency management, `calculate_chart.sh` wrapper script for automatic venv activation. Updated all Quick Reference examples. Addresses dependency persistence issues after system updates (PEP 668 compliance).
