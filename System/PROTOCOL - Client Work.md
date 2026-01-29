@@ -9,6 +9,17 @@ status: Active
 
 This protocol standardizes the workflow for client synthesis work, ensuring consistency, data integrity, and appropriate privacy handling across all client engagements.
 
+## Protocol Scope
+
+This protocol governs the **client-facing workflow** from intake through delivery:
+- Client communication and intake
+- Question documentation and context gathering
+- Privacy handling and entity ID assignment
+- Synthesis work orchestration and delivery
+- Archival, git commits, and data retention
+
+**Technical calculation details** (chart data, transits, geolocation verification, error handling) are governed by `PROTOCOL - Chart Data Acquisition.md`.
+
 ## The Observatory Stance
 
 The client experience is an Observatory visit. The practitioner does not deliver pronouncements from behind a curtain — they bring the client to the instruments and help them see the mechanics for themselves. Every claim is traceable to calculated data; every insight is offered as "here is what the instruments show" rather than "spirit told me." This is the antithesis of the [[open Ajna]] trap: no borrowed certainty, no authority to defer to. The Observatory invites the client into the seeing.
@@ -58,9 +69,9 @@ Document the client's questions clearly before beginning synthesis:
 | Question Type | Data Required | Protocol Triggered |
 |---------------|---------------|-------------------|
 | Natal analysis only | Astrology + HD natal | Standard |
-| Timing questions | + Transits | Calculate transits MANDATORY |
+| **Timing questions** | **+ Transits** | **⚠️ MANDATORY** - Calculate transits BEFORE synthesis (see Chart Data Acquisition CARDINAL RULE) |
 | Career/relationship | + Relevant houses | Extended analysis |
-| Life transition | + Transits + Profile timing | Full transit workup |
+| **Life transition** | **+ Transits + Profile timing** | **⚠️ MANDATORY** - Full transit workup required |
 
 ### 0.3 Entity ID Assignment
 
@@ -88,13 +99,17 @@ Before proceeding, confirm:
 
 ### 1.1 Reference Existing Protocol
 
+> **⚠️ CRITICAL DEPENDENCY**
+>
+> Phase 1 Data Acquisition is NOT a summary. You MUST open and follow `PROTOCOL - Chart Data Acquisition.md` completely. The reference below is a workflow marker, not a substitute for the technical protocol.
+
 Follow `PROTOCOL - Chart Data Acquisition.md` completely:
 
 1. **Geolocation Verification** - `verify_geolocation.py`
-2. **Astrology Natal Chart** - `get_astro_data.py`
+2. **Astrology Natal Chart** - `get_astro_data.py` (with `--city` and `--nation` for chart rendering)
 3. **Human Design Chart Data** - `get_hd_data.py`
 4. **Human Design Bodygraph Visualization** - Generate `bodygraph.svg`
-5. **Transits** (if timing questions) - `get_transit_data.py`
+5. **Transits** (if timing questions) - `get_transit_data.py` (see CARDINAL RULE in Chart Data Acquisition)
 
 ### 1.2 Quality Gate
 
@@ -461,6 +476,7 @@ VI.  Closing (Practical guidance, next steps)
 
 ## Version History
 
+- **2026-01-29:** Protocol streamlining: Added Protocol Scope section clarifying workflow vs. technical boundaries. Strengthened transit mandate emphasis in Phase 0.2 with ⚠️ MANDATORY flags. Added critical dependency warning box in Phase 1.1. Established this protocol as canonical source for birth data specifications (Phase 0.1) and file organization (Phase 4.1). Added city/nation note to Phase 1.1 astrology reference for proper chart rendering.
 - **2026-01-28:** Added Observatory Stance framing section — client work as transparent observation, not pronouncement. Added bodygraph.svg generation to Phase 1 workflow. Updated Quality Gate, File Organization, and New Client Checklist to include SVG visualization as standard deliverable format.
 - **2026-01-27:** Added Initial Client Report template (`_TEMPLATE - Initial Client Report.md`) as comprehensive archetypal portrait for new clients. Restructured Phase 2 to distinguish between Initial Reports and Targeted Readings. Updated Consultations folder references to `~/Business/Consultations/`.
 - **2026-01-19:** Initial protocol created. Formalizes workflow from Szilvia Williams and Joe Lewis synthesis work. Addresses Process Gap #5.

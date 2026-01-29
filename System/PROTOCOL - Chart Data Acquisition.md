@@ -8,6 +8,17 @@ date_updated: 2026-01-28
 
 This protocol ensures **chart data integrity** for all synthesis work involving Astrology and Human Design. It addresses Process Gap #1 (critical data integrity issues) and incorporates lessons learned from the Szilvia Williams synthesis audit.
 
+## Protocol Scope
+
+This protocol governs **technical chart calculation and data integrity**:
+- Calculation tool usage, scripts, and command syntax
+- Data verification methodology and spot-checking
+- Error handling and troubleshooting (API failures, geocoding issues)
+- Transit calculation mandates (THE CARDINAL RULE)
+- Environment setup and dependency management
+
+**Client workflow and synthesis** (intake, question documentation, privacy, delivery, archival) are governed by `PROTOCOL - Client Work.md`.
+
 ## Core Principle
 
 **NEVER hallucinate or infer astronomical data.** Every planetary position, every transit date, every timing claim MUST be calculated using verified tools and traceable to a source JSON file.
@@ -145,16 +156,16 @@ curl -s http://127.0.0.1:9021/health | python3 -m json.tool
 
 ### Phase 1: Gather Birth Data (Scribe Mode)
 
-Required information from user:
-- **Name** (or entity_id for privacy)
+**Birth data collection is governed by `PROTOCOL - Client Work.md` Phase 0.1**, which defines:
+- Required fields (name, date, time, location)
+- Time precision levels (Exact, Approximate, Rectified, Unknown)
+- Implications for chart calculation
+
+**For chart calculation purposes, you need:**
+- **Name** (for identification in output files)
 - **Birth Date:** Year, Month, Day
 - **Birth Time:** Hour, Minute (local time at birth location)
-- **Birth Location:** City, Country (or precise coordinates)
-
-**If birth time is unknown:**
-- Astrology: Can calculate Sun, Moon sign (approximate), outer planets
-- Human Design: Cannot calculate accurately (Type, Profile, Gates depend on precise time)
-- **Action:** Flag as "time-sensitive data unavailable" in synthesis
+- **Birth Location:** City, Country (for geolocation verification and chart rendering)
 
 ### Phase 1b: Geolocation Verification (MANDATORY)
 
@@ -363,26 +374,20 @@ python get_transit_data.py --return-planet chiron --natal-position 29.40 --start
 
 ### Phase 4: Save Data Files
 
-**File Organization:**
+**File organization is governed by `PROTOCOL - Client Work.md` Phase 4.1**, which defines:
+- Canonical directory structure for client folders
+- Permanent vs. synthesis-specific file placement
+- Rationale for SVG format visualizations
+- Git commit protocols
 
-```
-~/Business/Consultations/
-└── [Client Name or Entity ID]/
-    ├── astrology.json              # Natal chart (PERMANENT)
-    ├── humandesign.json            # HD bodygraph (PERMANENT)
-    ├── [Reference PDFs]            # External reference docs
-    └── YYYY-MM-DD_[Synthesis_Name]/
-        ├── location_verification.json   # Geolocation verification
-        ├── transits.json                # Calculated transit data
-        ├── Verification_Checklist.md    # Completed checklist
-        └── Synthesis.md                 # Final synthesis output
-```
+**Output from this protocol:**
+- `astrology.json` - Natal chart data with city/nation metadata
+- `humandesign.json` - HD chart data with dignity annotations
+- `bodygraph.svg` - HD bodygraph visualization (SVG format)
+- `location_verification.json` - Geolocation verification (if performed)
+- `transits.json` - Transit calculations (if timing questions exist)
 
-**Rationale:**
-- `astrology.json` and `humandesign.json` are **permanent** natal data - always relevant
-- Transit data is **synthesis-specific** - calculated for the questions asked
-- Each synthesis gets its own subfolder with all supporting calculations
-- Verification checklist ensures traceability
+Place these files according to Client Work Protocol Phase 4.1 structure.
 
 ---
 
@@ -461,19 +466,21 @@ If errors discovered after synthesis is complete:
 
 ---
 
-## Integration with Synthesis Protocol
+## Integration with Client Work Protocol
 
-**Mandatory sequence:**
+This protocol is **Phase 1 (Data Acquisition)** of the Client Work Protocol workflow.
 
-1. **Phase 0:** Gather birth data from user
+**Mandatory sequence within this protocol:**
+
+1. **Phase 1:** Gather birth data (see Client Work Phase 0.1 for specifications)
 2. **Phase 1b:** Verify geolocation (BEFORE any calculations)
-3. **Phase 2:** Calculate natal charts
-4. **Phase 2b:** Calculate transits (if timing questions exist)
-5. **Phase 3:** User verification
-6. **Phase 4:** Save data files
-7. **THEN:** Begin Weaver mode / synthesis
+3. **Phase 2:** Calculate natal charts (astrology, HD, bodygraph visualization)
+4. **Phase 2b:** Calculate transits (MANDATORY if timing questions — see THE CARDINAL RULE)
+5. **Phase 3:** Verification and user spot-check
+6. **Phase 4:** Save data files (structure per Client Work Phase 4.1)
+7. **Return to Client Work Protocol** → Phase 2 (Synthesis Work)
 
-**Rule:** Do NOT enter synthesis mode until all data acquisition phases are complete and verified.
+**Critical Rule:** Do NOT proceed to synthesis (Client Work Phase 2) until all data acquisition phases are complete and verified per Quality Gate checklist.
 
 ---
 
@@ -582,9 +589,11 @@ pkill -f "uvicorn humandesign"
 
 ## Version History
 
+- **2026-01-29:** Protocol streamlining: Added Protocol Scope section clarifying technical vs. workflow boundaries. Removed duplicate birth data collection (now references Client Work Phase 0.1). Removed duplicate file organization structure (now references Client Work Phase 4.1). Renamed "Integration with Synthesis Protocol" to "Integration with Client Work Protocol" with clearer handoff sequence. Maintains technical authority for calculations, verification, and THE CARDINAL RULE while delegating workflow concerns to Client Work.
 - **2026-01-28:**
   - Added bodygraph SVG generation step in Phase 2 (Human Design Natal Chart section). Documented activation-type indicators (split-aspect gates visible via colored borders). SVG is now the standard format for bodygraph visualizations.
   - Updated `get_hd_data.py` to include exaltation/detriment dignity data in chart JSON. Each planet now has a `dignity` field ("exalted", "detriment", or null) for synthesis traceability.
+  - Fixed `get_astro_data.py` to store city/nation in JSON meta output for proper natal chart rendering.
 - **2026-01-27:** Updated Consultations folder references to `~/Business/Consultations/`. Client data now stored outside VibologyOS repository.
 - **2026-01-17:** **CRITICAL UPDATE - Transit Calculation Requirement Emphasized.** Added "THE CARDINAL RULE: ALWAYS CALCULATE TRANSITS" section with explicit examples of wrong vs. correct approach. Updated Phase 2b language to make transit calculation NON-NEGOTIABLE for any timing-related questions. This update addresses a protocol violation in the initial Joe Lewis synthesis where vague timing language was used instead of calculated transits. ALL FUTURE SYNTHESIS WORK MUST CALCULATE TRANSITS WHEN TIMING IS INVOLVED.
 - **2026-01-17:** Virtual environment setup. Created `.venv/` in VibologyOS root, `requirements.txt` for dependency management, `calculate_chart.sh` wrapper script for automatic venv activation. Updated all Quick Reference examples. Addresses dependency persistence issues after system updates (PEP 668 compliance).
