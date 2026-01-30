@@ -97,6 +97,17 @@ Once acquired, scan and add to Grimoire for source-grounded expansion.
 
 ## Session History
 
+**2026-01-30 (Night):** Offerings page development — structure, content drafting, visual identity
+- Brainstormed Offerings menu structure: established four service categories
+- Named flagship multi-system offering **Archetypal Portrait** (charts + synthesis + Tarot/Oracle)
+- Resolved pillar integration: Angelology and Magdalene Path are **practitioner-depth** systems (inform how you read, not what you present); Jungian/Personal Mythos is the interpretive language; four client-facing systems (Astrology, HD, Tarot, Window)
+- Drafted and finalized **Astrology** page content (Jung quote, natal + transit services, written report emphasis)
+- Drafted and finalized **Human Design** page content (Ra quote, Foundation/Cross/Relationship/Transit readings)
+- Drafted and finalized **Tarot & Oracle** page content (Jung quote, Tarot/Oracle/Combined readings, Window Cards as proprietary companion system)
+- **Visual identity cohesion:** Established site-wide image palette (dark teal base, amber/gold accents, cinematic depth). Re-generated HD and Astrology featured images to match. Generated Tarot & Oracle image (card + Elder Futhark runestones). All images now visually consistent.
+- Generated blank bodygraph SVGs (with/without gate numbers) via humandesign_api renderer for image generation reference
+- **Remaining:** Archetypal Portrait page content and featured image still to draft
+
 **2026-01-30 (Evening):** Practitioner's Ethics — from IHDS stance to ethics statement
 - Explored mechanical basis for rejecting institutional certification while valuing education
 - Discovered the **Four-Channel Learning Model** — all four defined channels (34-57, 6-59, 5-15, 29-46) form a complete learning sequence: Logic evaluates, Abstract commits to experience, Tribal seeks interpersonal transmission, Integration retains sovereign authority over application
