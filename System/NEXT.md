@@ -97,6 +97,20 @@ Once acquired, scan and add to Grimoire for source-grounded expansion.
 
 ## Session History
 
+**2026-01-30 (Evening):** Practitioner's Ethics — from IHDS stance to ethics statement
+- Explored mechanical basis for rejecting institutional certification while valuing education
+- Discovered the **Four-Channel Learning Model** — all four defined channels (34-57, 6-59, 5-15, 29-46) form a complete learning sequence: Logic evaluates, Abstract commits to experience, Tribal seeks interpersonal transmission, Integration retains sovereign authority over application
+- Identified that Tribal channel (6-59) has been underfed — Collective side (building, systematizing) heavily active, interpersonal learning hunger recognized
+- Articulated the **Synthesis Principle**: learn each system's language independently (Hellenistic astrology, Jungian psychology), perform synthesis in the Observatory rather than inheriting someone else's
+- Evaluated Library's astrological tradition: Traditional (Hellenistic/Medieval) foundations with Jungian-Psychological integration — "Archetypal Traditional" or "Psycho-Traditional"
+- Researched potential astrology mentors: Brennan, Demetra George, Elenbaas, Liz Greene, Austin Coppock
+- Evaluated Chris Brennan's course bundle (Hellenistic + Electional + Professional) — language, application, craft. No synthesis imposed. Live webinars provide Tribal dimension. Not a final decision — wave processing.
+- Distinguished **objective certification** (competence) from **subjective certification** (allegiance) — reusable evaluation tool
+- Document evolved from IHDS stance → learning model → practitioner's ethics statement
+- Saved as `~/Personal/Biography/The Practitioner's Ethics — Mechanical Basis for a Rigorous Practice.md`
+- **Drafted public Ethics page for Vibology website** — 11 ethical standards including clarity over comfort, rigor over vibes, no spiritual bypassing, transparency of method, client authority, lived experience as credential, no determinism, confidentiality and consent, scope of practice, non-discrimination. Published to Ghost.
+- CLAUDE.md updated to V4.8 (added Practitioner's Design section §3)
+
 **2026-01-30:** HD foundation assessment and IHDS decision
 - Audited entire HD library (345 files) against Living Your Design curriculum
 - Confirmed strong mechanical coverage (Types, Strategy, Authority, Centers, Gates, Channels, Profiles, Crosses, Variables all complete)
