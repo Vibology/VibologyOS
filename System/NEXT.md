@@ -1,8 +1,8 @@
 # Current Work Context
 
-**Last Updated:** 2026-01-28 (Late Evening)
-**System Status:** Library complete and verified; HD dignity data operational; Observatory metaphor integrated
-**Current Phase:** Ready for synthesis and client work
+**Last Updated:** 2026-01-30
+**System Status:** Library complete; dignity data corrections applied; protocols streamlined; chart workflow validated
+**Current Phase:** Foundation-building — still on the roof, still in observation
 
 ---
 
@@ -54,16 +54,26 @@ VibologyOS/
 - Library verified and cross-referenced
 - Follow `PROTOCOL - Client Work.md`
 
-### 2. Library Expansion (Optional)
-**Stub files available for expansion:**
+### 2. Library Expansion
+
+**Pending: IHDS Foundation Sequence Materials**
+Acquiring LYD manual ($50) and planning foundation course sequence (LYD $300, Rave ABCs $400, Rave Cartography $750). Library updates for HD foundational material are **on hold** until source texts are in hand. Known gaps to address with those sources:
+- **Definition Types** — Single, Split, Triple-Split, Quadruple-Split (no file exists; flagged in BodyGraph.md)
+- **Projector Subcategories** — Classic, Energy, Mental (not in Projector.md)
+- **Deconditioning** — Stub exists, needs expansion
+- **Unknown-unknowns** — LYD curriculum likely covers experiential/pedagogical material not represented in Ra's reference texts
+
+Once acquired, scan and add to Grimoire for source-grounded expansion.
+
+**Stub files available for expansion (existing material):**
 - Qabalah subsystem (35 stubs) — Sephiroth, Divine Names, Tree of Life
 - Mythology deities (16 stubs) — archetypal anchors
 - Jungian concepts (12 stubs) — Synchronicity, Transcendent Function, etc.
 - Practice guides (10 stubs) — LBRP, Pathworking, etc.
 
-**Deferred:** Gate dignity data (exaltation/detriment tables)
-- Awaiting errata stabilization before adding to 64 gate entries
-- Currently tracked in `humandesign_api/EXALTATION_DETRIMENT_ERRATA.md`
+**Recently addressed:** Gate dignity data corrections
+- Three errors fixed (26.2, 47.3, 59.6) and verified in Abbey Lewis chart
+- Future additions tracked in `humandesign_api/EXALTATION_DETRIMENT_ERRATA.md`
 
 ### 3. New Synthesis Work
 - `Synthesis/General/` ready for new pieces
@@ -86,6 +96,34 @@ VibologyOS/
 ---
 
 ## Session History
+
+**2026-01-30:** HD foundation assessment and IHDS decision
+- Audited entire HD library (345 files) against Living Your Design curriculum
+- Confirmed strong mechanical coverage (Types, Strategy, Authority, Centers, Gates, Channels, Profiles, Crosses, Variables all complete)
+- Identified three concrete gaps: Definition Types, Projector Subcategories, Deconditioning detail
+- Queried Grimoire — confirmed Ra's source texts cover Projector subtypes (Classic/Energy/Mental) and Generator subtypes (Pure/MG); Manifestors and Reflectors have no formal subcategories
+- **Decision (processed through emotional wave):** Purchase LYD manual and complete IHDS foundation sequence (LYD, Rave ABCs, Rave Cartography) as source material — but decline further IHDS certification. The Observatory is not built inside someone else's institution.
+- **Stance reminder:** Open Root wants to rush toward readiness. Open Heart says credentialing equals legitimacy. Both are Not-Self conditioning. Strategy and Authority override both. Still building. Still on the roof.
+
+**2026-01-29 (Evening):** Chart workflow validation and protocol streamlining
+- **Dignity data fixes:** Corrected three errors in exaltations_detriments.json
+  - 26.2: North Node now exalted (was Sun)
+  - 47.3: Sun now in detriment (was Mars)
+  - 59.6: Mercury detriment now null/unknown (was Mercury)
+- **Chart rendering improvements:**
+  - Added city/nation to astrology.json meta output (fixes "Greenwich, GB" default)
+  - Created `generate_chart_visuals.py` script for consistent SVG generation
+  - Script handles both bodygraph and natal chart in single command
+- **Protocol streamlining:** Removed redundancy between Client Work and Chart Data Acquisition
+  - Added Protocol Scope sections clarifying workflow vs. technical boundaries
+  - Eliminated duplicate file organization and birth data sections
+  - Strengthened transit calculation mandate with ⚠️ MANDATORY flags
+  - Reduced duplicate content by ~30 lines while maintaining clarity
+- **Workflow validation:**
+  - Tested complete new-client workflow with John Smith (birth data → full chart package)
+  - Phrasing "New Client [Name], birth data [details]" successfully triggers full protocol
+  - Generated Abbey Lewis Initial Client Report (6,200 words) following template
+- **Result:** Chart generation workflow is production-ready; protocols are leaner and clearer
 
 **2026-01-28 (Late Evening):** Observatory metaphor integration
 - Integrated "The Observatory" as governing identity metaphor across three documents
