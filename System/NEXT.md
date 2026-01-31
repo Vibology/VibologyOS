@@ -108,8 +108,12 @@ Once acquired, scan and add to Grimoire for source-grounded expansion.
 - Generated blank bodygraph SVGs (with/without gate numbers) via humandesign_api renderer for image generation reference
 - Drafted and finalized **Archetypal Portrait** page content (Anaïs Nin quote, three-movement structure: Architecture/Synthesis/Living Moment, two-session delivery model, prerequisite note for non-first-time clients, "Table of Contents for the story of You" closing)
 - Featured image generated: open book with converging geometric systems rising from pages
-- Drafted **Recommended Reading** page content (Mahler quote, four client-facing systems, affiliate disclosure, sources from Esoteric Grimoire only)
-- **Full visual identity audit and cohesion pass:** Re-generated About (observatory), Ethics (scales), and Human Design (bodygraph) images to match established palette. All 8 featured images now share consistent teal/amber/illustrated style. Visual language documented in `~/Business/Website/STYLE-GUIDE.md`
+- Drafted **Recommended Reading** page content (Mahler quote, five sections: Archetypal Psychology, Astrology, Human Design, Tarot, The Window — sources from Esoteric Grimoire only)
+  - Excluded Rave I'Ching and Line Companion due to known dignity data errors
+  - Added Archetypal Psychology section (Jung MDR, Campbell, von Franz)
+  - Considering Chetan Parkyn's *Human Design* and *The Book of Lines* for future addition (pending acquisition and Grimoire inclusion)
+  - Amazon affiliate links deferred until site has traffic
+- **Full visual identity audit and cohesion pass:** Re-generated About (observatory), Ethics (scales), Human Design (bodygraph), and FAQ (compass) images to match established palette. All 8 featured images now share consistent teal/amber/illustrated style. Visual language documented in `~/Business/Website/STYLE-GUIDE.md`
 - **All four Offerings pages + Recommended Reading complete and published to Ghost**
 
 **2026-01-30 (Evening):** Practitioner's Ethics — from IHDS stance to ethics statement
