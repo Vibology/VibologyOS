@@ -106,7 +106,9 @@ Once acquired, scan and add to Grimoire for source-grounded expansion.
 - Drafted and finalized **Tarot & Oracle** page content (Jung quote, Tarot/Oracle/Combined readings, Window Cards as proprietary companion system)
 - **Visual identity cohesion:** Established site-wide image palette (dark teal base, amber/gold accents, cinematic depth). Re-generated HD and Astrology featured images to match. Generated Tarot & Oracle image (card + Elder Futhark runestones). All images now visually consistent.
 - Generated blank bodygraph SVGs (with/without gate numbers) via humandesign_api renderer for image generation reference
-- **Remaining:** Archetypal Portrait page content and featured image still to draft
+- Drafted and finalized **Archetypal Portrait** page content (Anaïs Nin quote, three-movement structure: Architecture/Synthesis/Living Moment, two-session delivery model, prerequisite note for non-first-time clients, "Table of Contents for the story of You" closing)
+- Featured image generated: open book with converging geometric systems rising from pages
+- **All four Offerings pages complete and published to Ghost**
 
 **2026-01-30 (Evening):** Practitioner's Ethics — from IHDS stance to ethics statement
 - Explored mechanical basis for rejecting institutional certification while valuing education
