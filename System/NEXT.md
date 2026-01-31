@@ -108,7 +108,9 @@ Once acquired, scan and add to Grimoire for source-grounded expansion.
 - Generated blank bodygraph SVGs (with/without gate numbers) via humandesign_api renderer for image generation reference
 - Drafted and finalized **Archetypal Portrait** page content (Anaïs Nin quote, three-movement structure: Architecture/Synthesis/Living Moment, two-session delivery model, prerequisite note for non-first-time clients, "Table of Contents for the story of You" closing)
 - Featured image generated: open book with converging geometric systems rising from pages
-- **All four Offerings pages complete and published to Ghost**
+- Drafted **Recommended Reading** page content (Mahler quote, four client-facing systems, affiliate disclosure, sources from Esoteric Grimoire only)
+- **Full visual identity audit and cohesion pass:** Re-generated About (observatory), Ethics (scales), and Human Design (bodygraph) images to match established palette. All 8 featured images now share consistent teal/amber/illustrated style. Visual language documented in `~/Business/Website/STYLE-GUIDE.md`
+- **All four Offerings pages + Recommended Reading complete and published to Ghost**
 
 **2026-01-30 (Evening):** Practitioner's Ethics — from IHDS stance to ethics statement
 - Explored mechanical basis for rejecting institutional certification while valuing education
