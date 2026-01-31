@@ -36,7 +36,7 @@ Before writing the report:
    # Bodygraph (via chart renderer)
    python3 << 'EOF'
    import json, sys
-   sys.path.insert(0, '/home/joe/VibologyOS/System/humandesign_api/src')
+   sys.path.insert(0, 'System/humandesign_api/src')
    from humandesign.services.chart_renderer import generate_bodygraph_image
    with open("humandesign.json") as f: hd = json.load(f)
    chart_data = {

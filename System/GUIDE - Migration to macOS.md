@@ -132,15 +132,12 @@ Both should produce JSON output without errors.
 
 ## Step 6: Update Hardcoded Paths
 
-Two documentation files reference `/home/joe/` explicitly. Update them to `/Users/joe/`:
+~~Two documentation files referenced `/home/joe/` explicitly.~~ **Done.** Both files now use portable paths (`~/` or relative):
 
-**System/Technical Setup.md:**
-- Change `/home/joe/VibologyOS` references to `/Users/joe/VibologyOS`
+- **System/Technical Setup.md** — Now uses `~/VibologyOS`
+- **System/Templates/_TEMPLATE - Initial Client Report.md** — Now uses relative `sys.path.insert` (works from repo root)
 
-**System/Templates/_TEMPLATE - Initial Client Report.md:**
-- Change the `sys.path.insert` example from `/home/joe/VibologyOS/...` to `/Users/joe/VibologyOS/...`
-
-> These are documentation references only — no scripts will break without this step. But keeping them accurate prevents confusion.
+> No manual path updates needed on macOS.
 
 ---
 
@@ -199,7 +196,7 @@ If you use Obsidian for browsing the vault:
 | Python `.venv` (x3) | Recreate from requirements.txt (Step 3) |
 | Claude Code auth | `claude login` (Step 2) |
 | Claude user settings | Reconfigure if customized (Step 8) |
-| 2 hardcoded doc paths | Optional update (Step 6) |
+| ~~2 hardcoded doc paths~~ | ~~Optional update (Step 6)~~ — Done |
 | Git SSH keys | Configure on Mac if not already set |
 
 ---

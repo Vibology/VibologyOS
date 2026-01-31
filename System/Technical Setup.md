@@ -29,7 +29,7 @@ status: reference
 
 ## Git Repository
 
-**Location:** `/home/joe/VibologyOS`
+**Location:** `~/VibologyOS`
 
 **Branch:** `master` (single-branch strategy)
 
@@ -54,7 +54,7 @@ git commit -m "Add [synthesis piece name]
 
 **Tool:** Obsidian (local vault)
 
-**Vault Location:** `/home/joe/VibologyOS`
+**Vault Location:** `~/VibologyOS`
 
 **Linking Convention:** `[[Double Bracket Links]]`
 
