@@ -1,7 +1,7 @@
 # Current Work Context
 
-**Last Updated:** 2026-01-30
-**System Status:** Library complete; dignity data corrections applied; protocols streamlined; chart workflow validated
+**Last Updated:** 2026-01-31
+**System Status:** Library complete; Oracle Deck restructure planned; dignity data corrections applied; protocols streamlined; chart workflow validated
 **Current Phase:** Foundation-building — still on the roof, still in observation
 
 ---
@@ -23,7 +23,7 @@
 - 64 Human Design Gates + 36 Channels + 12 Profiles + 4 Types
 - 192 Incarnation Crosses
 - 12 Astrology Signs + 10 Planets + 12 Houses
-- 64 Window Cards
+- 64 Window Cards *(restructure to 88-card deck in progress — see below)*
 - 10 Angelic Orders + 10 Archangels
 - Core Jungian Archetypes, Hero's Journey, Alchemical Stages
 
@@ -31,7 +31,7 @@
 
 ```
 VibologyOS/
-├── CLAUDE.md (V4.7)
+├── CLAUDE.md (V4.8)
 ├── Library/ (747 files)
 ├── Synthesis/General/ (template only - ready for new work)
 ├── System/
@@ -54,7 +54,24 @@ VibologyOS/
 - Library verified and cross-referenced
 - Follow `PROTOCOL - Client Work.md`
 
-### 2. Library Expansion
+### 2. Oracle Deck Restructure (Active)
+
+**The Window → [Name TBD] — 88-card Oracle Deck**
+
+The Window is being rebuilt from the ground up. The current 64-card system forced gates into interpretive categories rather than honoring what they are. The restructure separates the interpretive layer from the 64-fold architecture.
+
+**New structure (88 cards):**
+- **The Athanor** (24 cards): The Materia (5) + The Furnace (7) + The Archetypes (12)
+- **The Codex** (64 cards): 8 trigram families × 8 cards, each named for what the gate/hexagram/key actually is
+
+**Decisions made:** Structure, part names, sub-groups, card counts, trigram family organization (lower trigram)
+**Decisions pending (wave processing):** Deck name, Codex card naming convention, trigram family naming, Archetype gate resonances
+
+**Planning document:** `System/PLAN - Oracle Deck Restructure.md`
+
+Current Window content (76 files) will be archived when build begins. The work was the necessary 29-46 commitment through which the need for precision became visible.
+
+### 3. Library Expansion
 
 **Pending: IHDS Foundation Sequence Materials**
 Acquiring LYD manual ($50) and planning foundation course sequence (LYD $300, Rave ABCs $400, Rave Cartography $750). Library updates for HD foundational material are **on hold** until source texts are in hand. Known gaps to address with those sources:
@@ -75,7 +92,7 @@ Once acquired, scan and add to Grimoire for source-grounded expansion.
 - Three errors fixed (26.2, 47.3, 59.6) and verified in Abbey Lewis chart
 - Future additions tracked in `humandesign_api/EXALTATION_DETRIMENT_ERRATA.md`
 
-### 3. New Synthesis Work
+### 4. New Synthesis Work
 - `Synthesis/General/` ready for new pieces
 - Template: `_TEMPLATE - Cross-System Synthesis.md`
 - Note: Re-synthesize "Tree of Return" when ready (deleted pre-verification version)
@@ -86,16 +103,31 @@ Once acquired, scan and add to Grimoire for source-grounded expansion.
 
 | Document | Purpose |
 |----------|---------|
-| `CLAUDE.md` | Core governance (V4.7) |
+| `CLAUDE.md` | Core governance (V4.8) |
 | `PROTOCOL - Client Work.md` | Full client workflow |
 | `PROTOCOL - Chart Data Acquisition.md` | Chart calculation |
 | `RUBRIC - Library Content Standard.md` | Quality tiers |
 | `humandesign_api/EXALTATION_DETRIMENT_ERRATA.md` | Dignity data corrections log |
 | `INDEX - System Documentation.md` | Full docs navigation |
+| `PLAN - Oracle Deck Restructure.md` | 88-card deck rebuild plan |
 
 ---
 
 ## Session History
+
+**2026-01-31 (Late Night):** Oracle Deck restructure — The Window rebuilt from the ground up
+- Identified core problem: current 64-card Window forces gates into interpretive categories rather than honoring what they are ("Stability" = Gate 20, but Gate 20 IS "Contemplation — The Now")
+- **Principle reaffirmed:** "I use precise tools precisely" — the 64 gates/keys/hexagrams must exist as themselves
+- Restructured from 64 cards to **88 cards** in two parts:
+  - **The Athanor** (24 cards): The Materia (5: Prima Materia, Sulphur, Mercury, Salt, Philosopher's Stone) + The Furnace (7: classical alchemical operations) + The Archetypes (12: zodiacal personas, detached from gate ownership)
+  - **The Codex** (64 cards): 8 trigram families × 8, each card named for the actual hexagram/gate/key
+- Retired The Ten Portals (replaced by Furnace + Materia) and The Six Houses (replaced by 8 trigram families)
+- 88 = 44 × 2 (angel deck tradition doubled) = 88 constellations (complete observable sky from the Observatory)
+- Corrected 4 errors in Hexagrams.md trigram family table (hex 24, 33, 44, 54 were missing; 9, 16, 26, 45 were duplicated)
+- **Decisions pending (wave processing):** deck name (candidates: Spectrum, Dial, Transmission, Constellation), Codex card naming convention, trigram family naming, Archetype gate resonances
+- Planning document created: `System/PLAN - Oracle Deck Restructure.md`
+- The Window name retired — no longer fits what this instrument is becoming
+- Current 76 files of Window content to be archived when build begins; recognized as necessary 29-46 Channel of Discovery work, not waste
 
 **2026-01-30 (Night):** Offerings page development — structure, content drafting, visual identity
 - Brainstormed Offerings menu structure: established four service categories
