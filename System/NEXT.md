@@ -56,7 +56,7 @@ VibologyOS/
 
 ### 2. Oracle Deck Restructure (Active)
 
-**The Window → [Name TBD] — 88-card Oracle Deck**
+**The Window → The Astrolabe — 88-card Oracle Deck**
 
 The Window is being rebuilt from the ground up. The current 64-card system forced gates into interpretive categories rather than honoring what they are. The restructure separates the interpretive layer from the 64-fold architecture.
 
@@ -65,7 +65,11 @@ The Window is being rebuilt from the ground up. The current 64-card system force
 - **The Codex** (64 cards): 8 trigram families × 8 cards, each named for what the gate/hexagram/key actually is
 
 **Decisions made:** Structure, part names, sub-groups, card counts, trigram family organization (lower trigram)
-**Decisions pending (wave processing):** Deck name, Codex card naming convention, trigram family naming, Archetype gate resonances
+**All Phase 0 decisions resolved (2026-02-03):**
+- Deck name: **The Astrolabe** (Greek *astrolabon*, "star-taker")
+- Card naming: I-Ching hexagram name, best English translation (1-2 words); 13 reworked from Wilhelm
+- Trigram families: English image names (Heaven, Earth, Thunder, Water, Mountain, Wind, Fire, Lake)
+- Archetype gate resonances: Full detachment — Archetypes are zodiacal/Jungian only; gates belong to the Codex
 
 **Planning document:** `System/PLAN - Oracle Deck Restructure.md`
 
@@ -198,6 +202,13 @@ Once acquired, scan and add to Grimoire for source-grounded expansion.
 - Origin: The glass house (false openness, Mars detriment at 59.3) destroyed by Saturn-Pluto conjunction 2020-01-12; what replaced it is the Observatory — built for seeing, not for protection
 - Existing structures (Weaver, Scribe, Pillars, Refinement Cycle) unchanged — Observatory is the container that was always implied
 - Pondering: Whether to change Vibology symbol from Seed of Life to observatory (sitting with emotional wave — no action yet)
+
+**2026-02-03:** Oracle Deck — all Phase 0 decisions resolved
+- **Deck name:** The Astrolabe (Greek *astrolabon*, "star-taker") — ancient observatory instrument; "a universe in your hand"
+- **Card naming convention:** I-Ching hexagram name as primary, best English translation, 1-2 words. 13 names reworked from Wilhelm: Emergence (3), Accretion (9), Fellowship (13), Bounty (14), Remedy (18), Amassing (26), Overwhelm (28), Clinging Fire (30), Might (34), Wounded Light (36), Encountering (44), Marrying Maiden (54), Overstep (62)
+- **Trigram family naming:** English image names (Heaven, Earth, Thunder, Water, Mountain, Wind, Fire, Lake); Chinese/symbol as correspondences
+- **Archetype gate resonances:** Full detachment — Archetypes are zodiacal/Jungian figures only; all gate correspondences belong exclusively to the 64 Codex cards
+- Phase 0 complete. Ready for Phase 1 (Archive & Restructure) when the wave settles.
 
 **2026-01-28 (Evening):** Dignity data architecture decision
 - Evaluated whether to include exaltation/detriment data in Library gate entries

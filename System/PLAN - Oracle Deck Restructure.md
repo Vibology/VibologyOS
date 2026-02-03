@@ -7,7 +7,7 @@ status: Active
 
 # Oracle Deck Restructure Plan
 
-*From The Window (64 cards) to [Name TBD] (88 cards)*
+*From The Window (64 cards) to The Astrolabe (88 cards)*
 
 ---
 
@@ -35,50 +35,50 @@ The current 64-card Window system attempts to be two things simultaneously: the 
 | Codex organization | 8 trigram families × 8 cards | 2026-01-31 |
 | Current content | Archive (76 files); work was necessary step, not waste | 2026-01-31 |
 | Rename deck | Yes — The Window no longer fits post-restructure | 2026-01-31 |
+| Deck name | **The Astrolabe** — Greek *astrolabon*, "star-taker." Ancient instrument modeling the celestial sphere; "a universe in your hand." | 2026-02-03 |
+| Codex card naming | I-Ching hexagram name (best English translation); HD/Gene Keys as correspondences. 1-2 words per name. 13 reworked from Wilhelm. | 2026-02-03 |
+| Trigram family naming | English image names: Heaven, Earth, Thunder, Water, Mountain, Wind, Fire, Lake. Chinese/symbol as correspondences. | 2026-02-03 |
+| Archetype gate resonances | Full detachment. Archetypes are zodiacal/Jungian only; all gate correspondences belong to the Codex. | 2026-02-03 |
 
 ---
 
 ## Open Decisions
 
-### 1. Deck Name
-The Window is retired. Candidates:
+### ~~1. Deck Name~~ — RESOLVED
 
-| Name | Logic | Resonance |
-|------|-------|-----------|
-| The Spectrum | Light through the Athanor's fire, broken into 88 frequencies | Observatory-native; scientific precision |
-| The Dial | Tuning into frequencies; 88 stations | 1980s-resonant (radio/TV); active engagement |
-| The Transmission | Ancient patterns transmitted through contemporary instruments | Implies source (ancient) and medium (modern) |
-| The Constellation | 88 constellations = complete observable sky | Direct mirror of 88-card structure; Observatory-native |
-| [Other] | — | — |
+**The Astrolabe** — Greek *astrolabon*, "star-taker." The definitive instrument of ancient observatories. A flat, portable model of the entire celestial sphere held in the hands and rotated to the observer's moment. 88 cards as a universe in your hand.
 
-### 2. Codex Card Naming Convention
-Each Codex card needs a primary name. The I-Ching, Human Design, and Gene Keys each name the same hexagram differently:
+### ~~2. Codex Card Naming Convention~~ — RESOLVED
 
-| System | Example (Hex 1) | Example (Hex 3) | Character |
-|--------|-----------------|-----------------|-----------|
-| I-Ching | The Creative | Difficulty at the Beginning | Oldest; foundational; the hexagram's actual identity |
-| HD Gate | Self-Expression | Ordering | Mechanical; keynote-focused |
-| Gene Key Gift | Freshness | Innovation | Transformational; Gift-frequency name |
+**I-Ching hexagram name as primary**, best available English translation (not locked to Wilhelm). HD gate keynote and Gene Key Shadow/Gift/Siddhi appear as correspondences on each card. Target: 1-2 words per card name.
 
-**Recommendation:** I-Ching hexagram name as primary (honors the source), with HD gate keynote and Gene Key Shadow/Gift/Siddhi as correspondences on each card. This follows the principle: *use precise tools precisely* — the hexagram name IS the hexagram.
+Thirteen names reworked from Wilhelm for clarity, flow, or faithfulness to the Chinese:
 
-### 3. Trigram Family Naming
-How to name the 8 Codex families:
+| Hex | Wilhelm | Astrolabe Name | Rationale |
+|-----|---------|---------------|-----------|
+| 3 | Difficulty at the Beginning | **Emergence** | 屯 = pushing through; one word captures the struggle of arising |
+| 9 | The Taming Power of the Small | **Accretion** | 小畜 = small accumulation; gradual, natural buildup |
+| 13 | The Fellowship of Man | **Fellowship** | Simplified; removes dated gendered language |
+| 14 | Possession in Great Measure | **Bounty** | 大有 = great having; fullness radiating outward |
+| 18 | Work on What Has Been Spoilt | **Remedy** | 蠱 = decay/correction; names both the act and the solution |
+| 26 | The Taming Power of the Great | **Amassing** | 大畜 = great accumulation; deliberate gathering of force |
+| 28 | Preponderance of the Great | **Overwhelm** | 大過 = great exceeding; past the breaking point |
+| 30 | The Clinging Fire | **Clinging Fire** | Wilhelm without article; 離 = clinging + fire/radiance |
+| 34 | The Power of the Great | **Might** | 大壯 = great strength; inherent, undeniable power |
+| 36 | Darkening of the Light | **Wounded Light** | 明夷 = brightness wounded/hidden |
+| 44 | Coming to Meet | **Encountering** | Huang; 姤 = meeting/encountering |
+| 54 | The Marrying Maiden | **Marrying Maiden** | Dropped article only |
+| 62 | Preponderance of the Small | **Overstep** | 小過 = small exceeding; slight too-far |
 
-| Option | Example |
-|--------|---------|
-| English image name | Family of Heaven, Family of Thunder |
-| Chinese name (pinyin) | Qián Family, Zhèn Family |
-| Nature name | Family of Heaven, Family of the Arousing |
-| Dual name | Heaven (Qián), Thunder (Zhèn) |
+All remaining 51 hexagram names retain Wilhelm's translation (already 1-2 words).
 
-### 4. Archetype Gate Resonances
-The Archetypes are detached from specific gate *ownership* — The Hero no longer IS Gate 34. But do they retain gate *resonances* (non-exclusive correspondences noted on the card)?
+### ~~3. Trigram Family Naming~~ — RESOLVED
 
-| Option | Implication |
-|--------|-------------|
-| Full detachment | Archetypes are pure zodiacal/Jungian; no gate references |
-| Resonance noted | Archetypes note "resonates with Gate X" without claiming it |
+**English image names:** Family of Heaven, Family of Earth, Family of Thunder, Family of Water, Family of Mountain, Family of Wind, Family of Fire, Family of Lake. Chinese name (pinyin) and trigram symbol (☰ ☷ ☳ ☵ ☶ ☴ ☲ ☱) appear as correspondences within each card. Same principle as card naming — the image IS the identity; other systems annotate.
+
+### ~~4. Archetype Gate Resonances~~ — RESOLVED
+
+**Full detachment.** The 12 Archetypes carry no gate references — they are zodiacal and Jungian figures only. All gate/hexagram/Gene Key correspondences belong exclusively to the 64 Codex cards. Clean separation: the Athanor is the interpretive lens (archetypes, alchemy, elements), the Codex is the 64-fold architecture (gates, hexagrams, Gene Keys).
 
 ---
 
@@ -150,7 +150,7 @@ The lower trigram represents the **inner/foundational energy** — what drives f
 
 ### The Eight Families — Complete Card Listing
 
-> **Note:** Hexagram names follow Wilhelm/Huang translations. Gene Keys show Shadow → Gift → Siddhi. Family assignments by lower trigram verified against I-Ching structure. Four errors in original Hexagrams.md corrected (hex 24, 33, 44, 54 were missing; hex 9, 16, 26, 45 were duplicated).
+> **Note:** Hexagram names follow I-Ching tradition, best available English translation (Wilhelm as default, with Huang/Karcher/others where Wilhelm is unwieldy). 13 names reworked for the Astrolabe — see resolved decision §2 above. Gene Keys show Shadow → Gift → Siddhi. Family assignments by lower trigram verified against I-Ching structure. Four errors in original Hexagrams.md corrected (hex 24, 33, 44, 54 were missing; hex 9, 16, 26, 45 were duplicated).
 
 #### Family of Heaven (☰ Qián) — The Creative Foundation
 
@@ -158,11 +158,11 @@ The lower trigram represents the **inner/foundational energy** — what drives f
 |-----|------|-------------|-------------------------------------|
 | 1 | 1 | The Creative | Entropy → Freshness → Beauty |
 | 5 | 5 | Waiting | Impatience → Patience → Timelessness |
-| 9 | 9 | The Taming Power of the Small | Inertia → Determination → Invincibility |
+| 9 | 9 | Accretion | Inertia → Determination → Invincibility |
 | 11 | 11 | Peace | Obscurity → Idealism → Light |
-| 14 | 14 | Possession in Great Measure | Compromise → Competence → Bounteousness |
-| 26 | 26 | The Taming Power of the Great | Pride → Artfulness → Invisibility |
-| 34 | 34 | The Power of the Great | Force → Strength → Majesty |
+| 14 | 14 | Bounty | Compromise → Competence → Bounteousness |
+| 26 | 26 | Amassing | Pride → Artfulness → Invisibility |
+| 34 | 34 | Might | Force → Strength → Majesty |
 | 43 | 43 | Breakthrough | Deafness → Insight → Epiphany |
 
 #### Family of Earth (☷ Kūn) — The Receptive Foundation
@@ -184,7 +184,7 @@ The lower trigram represents the **inner/foundational energy** — what drives f
 |-----|------|-------------|-------------------------------------|
 | 17 | 17 | Following | Opinion → Far-Sightedness → Omniscience |
 | 24 | 24 | The Return | Addiction → Invention → Silence |
-| 28 | 28 | Preponderance of the Great | Purposelessness → Totality → Immortality |
+| 28 | 28 | Overwhelm | Purposelessness → Totality → Immortality |
 | 32 | 32 | Duration | Failure → Preservation → Veneration |
 | 40 | 40 | Deliverance | Exhaustion → Resolve → Divine Will |
 | 46 | 46 | Pushing Upward | Seriousness → Delight → Ecstasy |
@@ -195,10 +195,10 @@ The lower trigram represents the **inner/foundational energy** — what drives f
 
 | Hex | Gate | I-Ching Name | Gene Keys (Shadow → Gift → Siddhi) |
 |-----|------|-------------|-------------------------------------|
-| 3 | 3 | Difficulty at the Beginning | Chaos → Innovation → Innocence |
+| 3 | 3 | Emergence | Chaos → Innovation → Innocence |
 | 7 | 7 | The Army | Division → Guidance → Virtue |
 | 29 | 29 | The Abysmal | Half-Heartedness → Commitment → Devotion |
-| 36 | 36 | Darkening of the Light | Turbulence → Humanity → Compassion |
+| 36 | 36 | Wounded Light | Turbulence → Humanity → Compassion |
 | 49 | 49 | Revolution | Reaction → Revolution → Rebirth |
 | 55 | 55 | Abundance | Victimisation → Freedom → Freedom |
 | 60 | 60 | Limitation | Limitation → Realism → Justice |
@@ -221,13 +221,13 @@ The lower trigram represents the **inner/foundational energy** — what drives f
 
 | Hex | Gate | I-Ching Name | Gene Keys (Shadow → Gift → Siddhi) |
 |-----|------|-------------|-------------------------------------|
-| 18 | 18 | Work on What Has Been Spoilt | Judgement → Integrity → Perfection |
+| 18 | 18 | Remedy | Judgement → Integrity → Perfection |
 | 21 | 21 | Biting Through | Control → Authority → Valour |
 | 25 | 25 | Innocence | Constriction → Acceptance → Universal Love |
 | 27 | 27 | Nourishment | Selfishness → Altruism → Selflessness |
 | 37 | 37 | The Family | Weakness → Equality → Tenderness |
 | 42 | 42 | Increase | Expectation → Detachment → Celebration |
-| 44 | 44 | Coming to Meet | Interference → Teamwork → Synarchy |
+| 44 | 44 | Encountering | Interference → Teamwork → Synarchy |
 | 57 | 57 | The Gentle | Unease → Intuition → Clarity |
 
 #### Family of Fire (☲ Lí) — The Clinging Foundation
@@ -236,8 +236,8 @@ The lower trigram represents the **inner/foundational energy** — what drives f
 |-----|------|-------------|-------------------------------------|
 | 4 | 4 | Youthful Folly | Intolerance → Understanding → Forgiveness |
 | 6 | 6 | Conflict | Conflict → Diplomacy → Peace |
-| 13 | 13 | The Fellowship of Man | Discord → Discernment → Empathy |
-| 30 | 30 | The Clinging Fire | Desire → Lightness → Rapture |
+| 13 | 13 | Fellowship | Discord → Discernment → Empathy |
+| 30 | 30 | Clinging Fire | Desire → Lightness → Rapture |
 | 50 | 50 | The Cauldron | Corruption → Equilibrium → Harmony |
 | 56 | 56 | The Wanderer | Distraction → Enrichment → Intoxication |
 | 59 | 59 | Dispersion | Dishonesty → Intimacy → Transparency |
@@ -252,9 +252,9 @@ The lower trigram represents the **inner/foundational energy** — what drives f
 | 31 | 31 | Influence | Arrogance → Leadership → Humility |
 | 39 | 39 | Obstruction | Provocation → Dynamism → Liberation |
 | 47 | 47 | Oppression | Oppression → Transmutation → Transfiguration |
-| 54 | 54 | The Marrying Maiden | Greed → Aspiration → Ascension |
+| 54 | 54 | Marrying Maiden | Greed → Aspiration → Ascension |
 | 58 | 58 | The Joyous | Dissatisfaction → Vitality → Bliss |
-| 62 | 62 | Preponderance of the Small | Intellect → Precision → Impeccability |
+| 62 | 62 | Overstep | Intellect → Precision → Impeccability |
 
 ---
 
@@ -299,11 +299,11 @@ Move to `.archive/Library/The Window/` preserving directory structure:
 - [ ] Resolve Archetype gate resonance question
 - [ ] Finalize this plan
 
-### Phase 1: Archive & Restructure
-- [ ] Archive current Window content (76 files)
-- [ ] Create new directory structure
-- [ ] Update manifest template
-- [ ] Update pillar overview file
+### Phase 1: Archive & Restructure — COMPLETE (2026-02-03)
+- [x] Archive current Window content (76 files → `.archive/Library/The Window/`)
+- [x] Create new directory structure (`Library/.../The Astrolabe/`)
+- [x] Update manifest template (`_MANIFEST-The Astrolabe.md`)
+- [x] Create pillar overview file (`The Astrolabe.md`)
 
 ### Phase 2: Build The Athanor (24 cards)
 - [ ] Build The Materia (5 cards): Prima Materia, Sulphur, Mercury, Salt, Philosopher's Stone
@@ -333,8 +333,8 @@ Move to `.archive/Library/The Window/` preserving directory structure:
 ## Proposed Directory Structure
 
 ```
-Library/The Seven Pillars of Understanding/[Deck Name]/
-├── [Deck Name].md (Overview)
+Library/The Seven Pillars of Understanding/The Astrolabe/
+├── The Astrolabe.md (Overview)
 ├── The Athanor/
 │   ├── The Materia/
 │   │   ├── Prima Materia.md
@@ -359,6 +359,7 @@ Library/The Seven Pillars of Understanding/[Deck Name]/
 │   ├── Family of Heaven/
 │   │   ├── 01 - The Creative.md
 │   │   ├── 05 - Waiting.md
+│   │   ├── 09 - Accretion.md
 │   │   ├── ... (8 total)
 │   │   └── 43 - Breakthrough.md
 │   ├── Family of Earth/
