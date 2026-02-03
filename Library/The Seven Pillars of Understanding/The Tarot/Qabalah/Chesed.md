@@ -18,7 +18,7 @@ expansion_needed: true
 
 ## Overview
 
-**Chesed** (Hebrew: חסד, "Mercy" or "Lovingkindness") is the fourth Sephira on the [[Tree of Life]]—the first Sephira below the Abyss, representing the **organized, benevolent expression** of divine force in the manifest world. Chesed is the archetypal King on his throne: generous, expansive, lawgiving, and abundant.
+**Chesed** (Hebrew: חסד, "Mercy" or "Lovingkindness") is the fourth Sephira on the [[The Tree of Life]]—the first Sephira below the Abyss, representing the **organized, benevolent expression** of divine force in the manifest world. Chesed is the archetypal King on his throne: generous, expansive, lawgiving, and abundant.
 
 Associated with Jupiter, Chesed embodies growth, prosperity, and the magnanimous dispensation of blessing. It is mercy without the necessary correction of [[Geburah]]—pure expansion before restriction.
 
@@ -66,7 +66,7 @@ In the [[Heptarchia Mystica]], Chesed corresponds to **Bornogo**, the Jupiter Ki
 
 ## Cross-References
 
-- [[Tree of Life]] — The complete structure
+- [[The Tree of Life]] — The complete structure
 - [[Sephiroth]] — All ten emanations
 - [[Geburah]] — Severity, Chesed's necessary balance
 - [[Tzadkiel]] — The archangel of Chesed

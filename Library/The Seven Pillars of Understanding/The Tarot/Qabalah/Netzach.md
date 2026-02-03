@@ -18,7 +18,7 @@ expansion_needed: true
 
 ## Overview
 
-**Netzach** (Hebrew: נצח, "Victory" or "Eternity") is the seventh Sephira on the [[Tree of Life]]—the sphere of emotion, desire, passion, and the creative arts. Associated with Venus, Netzach represents the **force of attraction**, the power of feeling that draws things together, and the triumph of beauty over entropy.
+**Netzach** (Hebrew: נצח, "Victory" or "Eternity") is the seventh Sephira on the [[The Tree of Life]]—the sphere of emotion, desire, passion, and the creative arts. Associated with Venus, Netzach represents the **force of attraction**, the power of feeling that draws things together, and the triumph of beauty over entropy.
 
 Netzach is the realm of nature spirits, artistic inspiration, romantic love, and the instinctual drives that animate life. It is "victory" not through combat but through **attraction**—the power that makes existence worth continuing.
 
@@ -66,7 +66,7 @@ In the [[Heptarchia Mystica]], Netzach corresponds to **Bnapsen**, the Venus Kin
 
 ## Cross-References
 
-- [[Tree of Life]] — The complete structure
+- [[The Tree of Life]] — The complete structure
 - [[Sephiroth]] — All ten emanations
 - [[Hod]] — Splendor, Netzach's intellectual balance
 - [[Haniel]] — The archangel of Netzach

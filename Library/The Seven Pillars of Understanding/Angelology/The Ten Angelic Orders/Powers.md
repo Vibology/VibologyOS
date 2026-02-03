@@ -605,7 +605,7 @@ To integrate the Powers is to become the **sacred warrior**—the one who defend
 
 ### Qabalistic System
 - [[Geburah]] — Fifth Sephira, Strength/Severity, the Powers' domain
-- [[Tree of Life]] — The map of divine emanation
+- [[The Tree of Life]] — The map of divine emanation
 - [[Chesed]] — Fourth Sephira, Mercy, the Dominations' domain (balances Geburah)
 - [[Tiphareth]] — Sixth Sephira, Beauty, the Virtues' domain (synthesizes Chesed and Geburah)
 - [[Binah]] — Third Sephira, Understanding, the Thrones' domain (transmits law to Geburah)

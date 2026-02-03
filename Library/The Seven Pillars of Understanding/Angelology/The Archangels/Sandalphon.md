@@ -976,7 +976,7 @@ Invoke Sandalphon when you need:
 - [[Angelology and Human Design Integration]]
 
 ### Cross-System Integration
-- **Qabalah:** [[Malkuth]] | [[Tree of Life]] | [[Adonai ha-Aretz]] | [[Ishim]] | [[Kether]] | [[Yesod]] | [[Tiphareth]] | [[Hod]] | [[Netzach]]
+- **Qabalah:** [[Malkuth]] | [[The Tree of Life]] | [[Adonai ha-Aretz]] | [[Ishim]] | [[Kether]] | [[Yesod]] | [[Tiphareth]] | [[Hod]] | [[Netzach]]
 - **Tarot:** [[The World (XXI)|The World]] (XXI) | Princesses (Pages) | [[Ten of Pentacles]] | [[Ace of Pentacles]] | [[The Hanged Man (XII)|The Hanged Man]] (surrender)
 - **Astrology:** Earth | [[Taurus ♉]] | [[Capricorn ♑]] | [[Virgo ♍]] | [[Saturn ♄]]
 - **Human Design:** [[Root|Root Center]] | [[Gate 58 - The Joyous|Gate 58]] | [[Gate 38 - Opposition|Gate 38]] | [[Gate 54 - The Marrying Maiden|Gate 54]]

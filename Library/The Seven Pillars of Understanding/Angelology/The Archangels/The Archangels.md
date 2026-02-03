@@ -247,7 +247,7 @@ For comprehensive treatment of each archangel, see their individual entries:
 - [[The Three Triads]] — Organizational structure of the hierarchy
 
 ### Qabalistic Framework
-- [[Tree of Life]] — The ten Sephiroth and their archangelic governors
+- [[The Tree of Life]] — The ten Sephiroth and their archangelic governors
 - [[Kether]] | [[Chokmah]] | [[Binah]] — Supernal Triad
 - [[Chesed]] | [[Geburah]] | [[Tiphareth]] — Ethical Triangle
 - [[Netzach]] | [[Hod]] | [[Yesod]] — Astral Triangle

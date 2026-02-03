@@ -110,7 +110,7 @@ Raziel does not appear to the masses. He does not announce to nations or fight d
 
 ### Chokmah: The First Emanation of Consciousness
 
-In the structure of the [[Tree of Life]], **[[Chokmah]]** is the **Supernal Father**, the masculine potency that emerges from the undifferentiated unity of [[Kether]]. Where Kether is the Crown (the "I AM"), Chokmah is the *first movement*—the explosive outpouring of divine energy, the primal "YES" of existence.
+In the structure of the [[The Tree of Life]], **[[Chokmah]]** is the **Supernal Father**, the masculine potency that emerges from the undifferentiated unity of [[Kether]]. Where Kether is the Crown (the "I AM"), Chokmah is the *first movement*—the explosive outpouring of divine energy, the primal "YES" of existence.
 
 Wang describes Chokmah's attributes in *The Qabalistic Tarot* using titles including "The Great Stimulator," "The Supernal Father," and "The First Positive," describing it as "Dynamic Outpouring Energy, Unorganized and Uncompensated." He links Chokmah to the Logos, noting that "Yah is the Divine Ideal Wisdom."
 
@@ -697,7 +697,7 @@ The danger of invoking Raziel is **spiritual inflation**—the ego's tendency to
 - [[Michael]] — Archangel of Tiphareth, the Solar Heart
 - [[Gabriel]] — Archangel of Yesod, the Lunar Messenger
 - [[Raphael]] — Archangel of Tiphareth (Healing aspect)
-- [[Tree of Life]] — The Qabalistic map of divine emanation
+- [[The Tree of Life]] — The Qabalistic map of divine emanation
 - [[Thrones|Auphanim]] — The Wheels, angelic order of Chokmah
 - [[Seraphim]] — First angelic order, pure adoration
 - [[The Tarot|Tarot]] — The Twos and Kings correspond to Raziel

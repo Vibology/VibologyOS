@@ -275,7 +275,7 @@ Begin with the fundamentals—understand Planets, Signs, and Houses individually
 - [[Human Design]] — The bodygraph as astro-genetic imprint
 - [[The Tarot]] — Qabalistic and astrological correspondences in the cards
 - [[Seven-Coordinate Navigation]] — Astrology as temporal/ambient coordinate
-- [[Tree of Life]] — Planetary and zodiacal Sephirotic correspondences
+- [[The Tree of Life]] — Planetary and zodiacal Sephirotic correspondences
 
 ---
 

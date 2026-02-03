@@ -18,7 +18,7 @@ expansion_needed: true
 
 ## Overview
 
-**Tiphareth** (Hebrew: תפארת, "Beauty") is the sixth Sephira on the [[Tree of Life]]—the central point where all paths converge, the heart of the Tree, the place of harmony and integration. Associated with the Sun, Tiphareth represents the **reconciliation of opposites**: mercy and severity, above and below, force and form.
+**Tiphareth** (Hebrew: תפארת, "Beauty") is the sixth Sephira on the [[The Tree of Life]]—the central point where all paths converge, the heart of the Tree, the place of harmony and integration. Associated with the Sun, Tiphareth represents the **reconciliation of opposites**: mercy and severity, above and below, force and form.
 
 Tiphareth is the Christ center, the place of the sacrificed god, the son who mediates between the divine Father/Mother above and the human kingdom below. It is beauty not as mere aesthetics but as **harmony**—the proportion that emerges when all forces are balanced.
 
@@ -66,7 +66,7 @@ In the [[Heptarchia Mystica]], Tiphareth corresponds to **Carmara**, the Sun Kin
 
 ## Cross-References
 
-- [[Tree of Life]] — The complete structure
+- [[The Tree of Life]] — The complete structure
 - [[Sephiroth]] — All ten emanations
 - [[Michael]] — Archangel of Tiphareth (solar attribution)
 - [[Raphael]] — Archangel of Tiphareth (healing attribution)

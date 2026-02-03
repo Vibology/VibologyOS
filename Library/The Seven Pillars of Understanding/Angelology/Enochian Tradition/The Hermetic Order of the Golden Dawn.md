@@ -59,7 +59,7 @@ The Golden Dawn transformed [[John Dee and Edward Kelley]]'s raw material into a
 
 ## The Grade System
 
-The Golden Dawn organized its teachings into grades corresponding to the [[Tree of Life]]:
+The Golden Dawn organized its teachings into grades corresponding to the [[The Tree of Life]]:
 
 **Outer Order (Golden Dawn):**
 - Neophyte (0=0)
@@ -82,7 +82,7 @@ The Golden Dawn organized its teachings into grades corresponding to the [[Tree 
 - [[Enochian Tradition]] — The system they systematized
 - [[John Dee and Edward Kelley]] — Original receivers of Enochian revelation
 - [[Aleister Crowley]] — Controversial member who later developed Thelema
-- [[Tree of Life]] — Structure underlying the grade system
+- [[The Tree of Life]] — Structure underlying the grade system
 - [[The Four Watchtowers]] — Central to Golden Dawn Enochian practice
 
 ---

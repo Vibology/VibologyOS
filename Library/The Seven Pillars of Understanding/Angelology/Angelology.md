@@ -307,7 +307,7 @@ The goal is not to *become* an angel but to **participate in angelic consciousne
 - [[Metatron]] | [[Sandalphon]] | [[Raziel]] | [[Tzaphkiel]] | [[Tzadkiel]] | [[Kamael]] | [[Haniel]]
 
 ### Cross-System Integration
-- **Qabalah**: [[Tree of Life]] | [[Sephiroth]] | [[Qlippoth]]
+- **Qabalah**: [[The Tree of Life]] | [[Sephiroth]] | [[Qlippoth]]
 - **Tarot**: [[Temperance (XIV)]] (Michael) | [[The High Priestess (II)]] (Gabriel) | [[The Lovers (VI)]] (Raphael) | [[Judgement (XX)]]
 - **Astrology**: [[Sun ☉]] (Michael/Raphael) | [[Moon ☽]] (Gabriel) | [[Mercury ☿]] (Michael/Raphael) | [[Venus ♀]] (Haniel) | [[Mars ♂]] (Kamael) | [[Jupiter ♃]] (Tzadkiel) | [[Saturn ♄]] (Tzaphkiel)
 - **Human Design**: [[Head]] | [[Ajna]] | [[Throat]] | [[G Center]] | [[Heart]] | [[Solar Plexus]] | [[Spleen]] | [[Sacral]] | [[Root]]

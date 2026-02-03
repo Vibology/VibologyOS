@@ -559,7 +559,7 @@ To integrate the Thrones is to become the **sacred container**—the womb, the t
 
 ### Qabalistic System
 - [[Binah]] — Third Sephira, Understanding, the Great Sea, Divine Mother
-- [[Tree of Life]] — The map of divine emanation
+- [[The Tree of Life]] — The map of divine emanation
 - [[Kether]] — First Sephira, Crown, the Seraphim's domain
 - [[Chokmah]] — Second Sephira, Wisdom, the Cherubim's domain
 - [[Chesed]] — Fourth Sephira, Mercy, the Dominations' domain (balances Binah's severity)

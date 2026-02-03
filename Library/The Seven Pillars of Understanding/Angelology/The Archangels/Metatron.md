@@ -535,7 +535,7 @@ Metatron is the guide of the greatest threshold—the passage from human to divi
 - [[Angelology and Human Design Integration]] (Metatron corresponds to Head Center)
 
 ### Cross-System Integration
-- **Qabalah:** [[Kether]] | [[Tree of Life]] | [[Eheieh]] | [[Ain Soph Aur]] | [[Middle Pillar]]
+- **Qabalah:** [[Kether]] | [[The Tree of Life]] | [[Eheieh]] | [[Ain Soph Aur]] | [[Middle Pillar]]
 - **Tarot:** [[The Fool (0)]] | [[Ace of Wands]] | [[Ace of Cups]] | [[Ace of Swords]] | [[Ace of Pentacles]] | [[Judgement (XX)|Judgment]]
 - **Astrology:** Primum Mobile | Precession of the Equinoxes
 - **Human Design:** [[Head|Head Center]] | [[Gate 64 - Before Completion|Gate 64]] | [[Gate 61 - Inner Truth|Gate 61]]

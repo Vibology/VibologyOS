@@ -18,7 +18,7 @@ expansion_needed: true
 
 ## Overview
 
-**The Abyss** is the metaphysical chasm on the [[Tree of Life]] that separates the **Supernal Triangle** (Kether, Chokmah, Binah) from the seven lower Sephiroth. It represents the **ontological divide** between:
+**The Abyss** is the metaphysical chasm on the [[The Tree of Life]] that separates the **Supernal Triangle** (Kether, Chokmah, Binah) from the seven lower Sephiroth. It represents the **ontological divide** between:
 
 - The **unmanifest divine** (above) and **manifested creation** (below)
 - **Pure Being** and **individuated existence**

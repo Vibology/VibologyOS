@@ -1154,7 +1154,7 @@ This is Raphael's initiatic question. Every wound, when met consciously, reveals
 - [[Hod]] (Splendor, Mercury, intellect, communication, magic)
 - [[YHVH Eloah va-Daath]] (Divine Name of Tiphareth—The Lord God of Knowledge)
 - [[Elohim Tzabaoth]] (Divine Name of Hod—God of Hosts)
-- [[Tree of Life]] (Raphael's position on the central and left pillars)
+- [[The Tree of Life]] (Raphael's position on the central and left pillars)
 - [[Middle Pillar|The Middle Pillar]] (Tiphareth as the solar heart on the axis of consciousness)
 - [[Four Worlds]] (Raphael's manifestation across Atziluth/Briah/Yetzirah/Assiah)
 
@@ -1365,7 +1365,7 @@ Steiner also teaches that Archangels are involved in **individual human karma an
 - [[Hod]] (Splendor, Mercury, intellect, communication, magic)
 - [[YHVH Eloah va-Daath]] (Divine Name of Tiphareth—The Lord God of Knowledge)
 - [[Elohim Tzabaoth]] (Divine Name of Hod—God of Hosts)
-- [[Tree of Life]] (Raphael's position on the central and left pillars)
+- [[The Tree of Life]] (Raphael's position on the central and left pillars)
 - [[Middle Pillar|The Middle Pillar]] (Tiphareth as the solar heart on the axis of consciousness)
 - [[Four Worlds]] (Raphael's manifestation across Atziluth/Briah/Yetzirah/Assiah)
 

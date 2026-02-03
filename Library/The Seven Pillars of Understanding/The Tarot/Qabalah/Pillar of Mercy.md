@@ -18,7 +18,7 @@ expansion_needed: true
 
 ## Overview
 
-The **Pillar of Mercy** (Hebrew: עמוד החסד, *Ammud ha-Chesed*) is the right-hand column of the [[Tree of Life]], containing the Sephiroth that embody expansive, merciful, and masculine qualities:
+The **Pillar of Mercy** (Hebrew: עמוד החסד, *Ammud ha-Chesed*) is the right-hand column of the [[The Tree of Life]], containing the Sephiroth that embody expansive, merciful, and masculine qualities:
 
 | Sephirah | Name | Quality |
 |----------|------|---------|
@@ -41,7 +41,7 @@ The Pillar of Mercy represents **force without form**—the expansive, creative,
 
 ## Cross-References
 
-- [[Tree of Life]] — The complete structure
+- [[The Tree of Life]] — The complete structure
 - [[Middle Pillar]] — The pillar of equilibrium
 - [[Chesed]] — The primary Sephirah of mercy
 - [[Tzadkiel]] — Archangel of Chesed

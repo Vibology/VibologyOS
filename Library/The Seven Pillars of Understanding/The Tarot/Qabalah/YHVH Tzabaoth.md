@@ -37,7 +37,7 @@ Where [[Elohim Tzabaoth]] at Hod commands through form and intellect, YHVH Tzaba
 - [[Netzach]] — The Sephirah governed by YHVH Tzabaoth
 - [[Haniel]] — The Archangel of Netzach
 - [[Elohim Tzabaoth]] — The complementary divine name at Hod
-- [[Tree of Life]] — The complete Sephirotic structure
+- [[The Tree of Life]] — The complete Sephirotic structure
 
 ---
 

@@ -43,7 +43,7 @@ The term derives from the Hebrew root *sh-k-n* (שכן), "to dwell," as in the T
 - [[Malkuth]] — The Sephirah where the Shekinah dwells
 - [[Sandalphon]] — The Archangel who serves the Shekinah
 - [[Gabriel]] — Mediator of the Shekinah's descent
-- [[Tree of Life]] — The complete Qabalistic structure
+- [[The Tree of Life]] — The complete Qabalistic structure
 
 ---
 

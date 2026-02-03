@@ -391,7 +391,7 @@ The system demands **humility, discipline, and relentless self-honesty**. It is 
 - [[John Dee and Edward Kelley]] — Historical context and angelic sessions
 
 ### Qabalistic Framework
-- [[Tree of Life]] — Integration of Aethyrs with Sephiroth
+- [[The Tree of Life]] — Integration of Aethyrs with Sephiroth
 - [[Daath]] — The Abyss and the 10th Aethyr
 - [[Kether]] | [[Malkuth]] — The poles of the Aethyric ascent
 

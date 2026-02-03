@@ -18,7 +18,7 @@ expansion_needed: true
 
 ## Overview
 
-The **Pillar of Severity** (also called the **Black Pillar** or **Pillar of Form**) is the left pillar of the [[Tree of Life]], consisting of three Sephiroth:
+The **Pillar of Severity** (also called the **Black Pillar** or **Pillar of Form**) is the left pillar of the [[The Tree of Life]], consisting of three Sephiroth:
 
 1. [[Binah]] (Understanding) — The Great Mother, form, limitation, the womb
 2. [[Geburah]] (Severity) — Judgment, destruction, Mars, the warrior

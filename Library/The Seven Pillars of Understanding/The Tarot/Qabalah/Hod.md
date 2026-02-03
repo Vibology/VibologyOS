@@ -18,7 +18,7 @@ expansion_needed: true
 
 ## Overview
 
-**Hod** (Hebrew: הוד, "Splendor" or "Glory") is the eighth Sephira on the [[Tree of Life]]—the sphere of intellect, communication, language, and ceremonial magic. Associated with Mercury, Hod represents the **organizing mind** that gives structure to the emotional impulses of [[Netzach]], translating feeling into form, inspiration into technique.
+**Hod** (Hebrew: הוד, "Splendor" or "Glory") is the eighth Sephira on the [[The Tree of Life]]—the sphere of intellect, communication, language, and ceremonial magic. Associated with Mercury, Hod represents the **organizing mind** that gives structure to the emotional impulses of [[Netzach]], translating feeling into form, inspiration into technique.
 
 Hod is the realm of magic as **technology**—the learned forms, words of power, and ceremonial structures that channel raw force into directed effect. It is "splendor" as the radiance of intellect illuminating the mysteries.
 
@@ -66,7 +66,7 @@ In the [[Heptarchia Mystica]], Hod corresponds to **Babalel**, the Mercury King 
 
 ## Cross-References
 
-- [[Tree of Life]] — The complete structure
+- [[The Tree of Life]] — The complete structure
 - [[Sephiroth]] — All ten emanations
 - [[Netzach]] — Victory, Hod's emotional balance
 - [[Michael]] or [[Raphael]] — Archangels of Hod

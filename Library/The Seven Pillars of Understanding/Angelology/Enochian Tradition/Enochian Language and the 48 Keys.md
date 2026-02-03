@@ -585,7 +585,7 @@ The language is not to be learned like French or Spanish—it is to be **embodie
 - [[John Dee and Edward Kelley]] — Historical context of the revelation
 
 ### Qabalistic Framework
-- [[Tree of Life]] — Potential correspondences with the 21 letters
+- [[The Tree of Life]] — Potential correspondences with the 21 letters
 - [[Kether]] — The source of divine language
 - [[Chokmah]] — The Logos, the Word
 

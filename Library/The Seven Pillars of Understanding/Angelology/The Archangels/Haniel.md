@@ -78,7 +78,7 @@ Haniel's function is to ensure that creation is not merely functional but **love
 
 ### Qabalistic Context
 
-In the structure of the [[Tree of Life]], **[[Netzach]]** is the seventh Sephirah, positioned on the **Pillar of Mercy** (the right-hand pillar of expansion, grace, and love). Where [[Hod]] (the eighth Sephirah, on the Pillar of Severity) is the sphere of **form, intellect, and pattern**, Netzach is the sphere of **force, feeling, and vitality**.
+In the structure of the [[The Tree of Life]], **[[Netzach]]** is the seventh Sephirah, positioned on the **Pillar of Mercy** (the right-hand pillar of expansion, grace, and love). Where [[Hod]] (the eighth Sephirah, on the Pillar of Severity) is the sphere of **form, intellect, and pattern**, Netzach is the sphere of **force, feeling, and vitality**.
 
 Wang, citing Dion Fortune's *The Mystical Qabalah*, describes Netzach as the sphere that "represents instincts and emotions" and the "group mind of humanity," contrasting it with the rational sphere of Hod (Wang, p. 98, 100).
 
@@ -644,7 +644,7 @@ If the "love" leads to **loss of self**, it is not Haniel but the Qlippothic she
 - [[Michael]] — Archangel of Hod (some systems), the Sword of Discrimination
 - [[Gabriel]] — Archangel of Yesod, the Lunar Messenger
 - [[Sandalphon]] — Archangel of Malkuth, the Prince of Prayer
-- [[Tree of Life]] — The Qabalistic map of divine emanation
+- [[The Tree of Life]] — The Qabalistic map of divine emanation
 - [[Spleen|Spleen Center]] — Human Design center of intuition and vitality
 - Gene Keys — 57th Gene Key (Unease/Intuition/Clarity)
 - [[Jungian Archetypes|Jungian Psychology]] — Anima archetype, Eros principle

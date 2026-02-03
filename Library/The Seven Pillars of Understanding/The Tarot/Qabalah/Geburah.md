@@ -18,7 +18,7 @@ expansion_needed: true
 
 ## Overview
 
-**Geburah** (Hebrew: גבורה, "Severity" or "Strength") is the fifth Sephira on the [[Tree of Life]]—the necessary counterbalance to [[Chesed]]'s mercy. Geburah is the Warrior, the Judge, the surgeon who cuts away what must be removed. Associated with Mars, it embodies discipline, judgment, and the destruction that serves creation.
+**Geburah** (Hebrew: גבורה, "Severity" or "Strength") is the fifth Sephira on the [[The Tree of Life]]—the necessary counterbalance to [[Chesed]]'s mercy. Geburah is the Warrior, the Judge, the surgeon who cuts away what must be removed. Associated with Mars, it embodies discipline, judgment, and the destruction that serves creation.
 
 Geburah is not evil—it is **necessary limitation**. Without severity, mercy becomes indulgence; without judgment, love becomes enabling. Geburah prunes the tree so it may bear fruit.
 
@@ -66,7 +66,7 @@ In the [[Heptarchia Mystica]], Geburah corresponds to **Baligon**, the Mars King
 
 ## Cross-References
 
-- [[Tree of Life]] — The complete structure
+- [[The Tree of Life]] — The complete structure
 - [[Sephiroth]] — All ten emanations
 - [[Chesed]] — Mercy, Geburah's necessary balance
 - [[Kamael]] — The archangel of Geburah

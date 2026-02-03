@@ -478,7 +478,7 @@ The individual becomes a **channel** through which divine will flows into the wo
 - [[Angelology and Human Design Integration]]
 
 ### Cross-System Integration
-- **Qabalah:** [[Hod]] | [[Tree of Life]] | [[Elohim Tzabaoth]] | [[Mercury ☿]] | [[Sephiroth]]
+- **Qabalah:** [[Hod]] | [[The Tree of Life]] | [[Elohim Tzabaoth]] | [[Mercury ☿]] | [[Sephiroth]]
 - **Tarot:** [[The Lovers (VI)|The Lovers]] | [[Temperance (XIV)|Temperance]] | [[Judgement (XX)|Judgment]]
 - **Astrology:** [[Mercury ☿]] | [[Gemini ♊]] | [[Virgo ♍]]
 - **Human Design:** [[Sacral|Sacral Center]] | [[Gate 05 - Waiting|Gate 5]] | [[Gate 14 - Possession in Great Measure|Gate 14]] | [[Gate 29 - The Abysmal|Gate 29]] | [[Generator]] | Manifesting Generator

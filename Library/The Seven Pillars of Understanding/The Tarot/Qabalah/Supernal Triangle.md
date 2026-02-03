@@ -18,7 +18,7 @@ expansion_needed: true
 
 ## Overview
 
-The **Supernal Triangle** consists of the three highest Sephiroth on the [[Tree of Life]], existing "above the Abyss" ([[Daath]]) in a realm of pure divine unity:
+The **Supernal Triangle** consists of the three highest Sephiroth on the [[The Tree of Life]], existing "above the Abyss" ([[Daath]]) in a realm of pure divine unity:
 
 | Sephirah | Name | Function |
 |----------|------|----------|
@@ -45,7 +45,7 @@ The Abyss (associated with [[Daath]]) separates the Supernal Triangle from the s
 
 - [[Kether]], [[Chokmah]], [[Binah]] — The three Supernals
 - [[Daath]] — The Abyss between Supernals and lower Sephiroth
-- [[Tree of Life]] — The complete structure
+- [[The Tree of Life]] — The complete structure
 
 ---
 

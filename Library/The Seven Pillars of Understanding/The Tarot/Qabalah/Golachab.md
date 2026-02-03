@@ -35,7 +35,7 @@ In psychological terms, Golachab represents the **shadow of righteous anger**: r
 - [[Geburah]] — The Sephirah whose shadow Golachab represents
 - [[Kamael]] — The Archangel of Geburah (light aspect)
 - [[Samael]] — Sometimes associated with Geburah's severity
-- [[Tree of Life]] — The complete Qabalistic structure
+- [[The Tree of Life]] — The complete Qabalistic structure
 
 ---
 

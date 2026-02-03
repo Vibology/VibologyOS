@@ -21,7 +21,7 @@ translation: Limitless Light
 
 ## Overview
 
-**Ain Soph Aur** (Hebrew: אין סוף אור, "Limitless Light") is the third and final of the **Three Veils of Negative Existence** that precede the emanation of [[Kether]] on the [[Tree of Life]]. The three veils are:
+**Ain Soph Aur** (Hebrew: אין סוף אור, "Limitless Light") is the third and final of the **Three Veils of Negative Existence** that precede the emanation of [[Kether]] on the [[The Tree of Life]]. The three veils are:
 
 1. **Ain** (אין) — "Nothing" — Absolute negation, the unmanifest
 2. **Ain Soph** (אין סוף) — "Without Limit" — Infinite potential
@@ -34,7 +34,7 @@ Ain Soph Aur represents the **threshold between non-existence and existence**—
 ## Cross-References
 
 - [[Kether]] — The first Sephirah, emanating from Ain Soph Aur
-- [[Tree of Life]] — The complete Sephirotic structure
+- [[The Tree of Life]] — The complete Sephirotic structure
 - [[Metatron]] — The Archangel of Kether, closest to Ain Soph Aur
 
 ---

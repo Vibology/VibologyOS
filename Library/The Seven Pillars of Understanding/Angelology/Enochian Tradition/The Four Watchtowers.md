@@ -503,7 +503,7 @@ The Watchtowers are not abstract philosophy—they are a **functional tool** for
 ### Cross-System Integration
 - [[The Tarot]] — Court Card correspondences
 - [[Astrology]] — Zodiacal attributions of sub-angles
-- [[Tree of Life]] — Four Worlds and elemental correspondence
+- [[The Tree of Life]] — Four Worlds and elemental correspondence
 - [[Human Design]] — Center-element parallels
 
 ---

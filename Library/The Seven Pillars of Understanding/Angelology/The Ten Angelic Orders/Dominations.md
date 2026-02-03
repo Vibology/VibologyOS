@@ -587,7 +587,7 @@ To integrate the Dominations is to become the **inner king/queen**—the soverei
 
 ### Qabalistic System
 - [[Chesed]] — Fourth Sephira, Mercy, the Great Father, sphere of the Dominations
-- [[Tree of Life]] — The map of divine emanation
+- [[The Tree of Life]] — The map of divine emanation
 - [[Binah]] — Third Sephira, Understanding, the Thrones' domain (immediately above Chesed)
 - [[Geburah]] — Fifth Sephira, Strength, the Powers' domain (balances Chesed's mercy)
 - [[Tiphareth]] — Sixth Sephira, Beauty, the Virtues' domain (receives Chesed's flow)

@@ -18,7 +18,7 @@ expansion_needed: true
 
 ## Overview
 
-**Kether** (Hebrew: כתר, "Crown") is the first and highest Sephira on the [[Tree of Life]]—the initial point of emanation where Ein Sof (the Infinite) first condenses into something that can be apprehended. It represents **pure being**, **divine will**, and the **source** from which all other Sephiroth flow.
+**Kether** (Hebrew: כתר, "Crown") is the first and highest Sephira on the [[The Tree of Life]]—the initial point of emanation where Ein Sof (the Infinite) first condenses into something that can be apprehended. It represents **pure being**, **divine will**, and the **source** from which all other Sephiroth flow.
 
 Kether is essentially unknowable. It is not a thing but the **potentiality of all things**—the dimensionless point before extension, the silent breath before speech, the unity before differentiation.
 
@@ -69,7 +69,7 @@ In the [[Enochian Tradition]], the **1st Aethyr (LIL)** corresponds to Kether—
 
 ## Cross-References
 
-- [[Tree of Life]] — The complete structure
+- [[The Tree of Life]] — The complete structure
 - [[Sephiroth]] — All ten emanations
 - [[Metatron]] — The archangel of Kether
 - [[Malkuth]] — The Kingdom (Kether's reflection)

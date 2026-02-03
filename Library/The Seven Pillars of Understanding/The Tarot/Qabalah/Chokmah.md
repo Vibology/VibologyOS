@@ -18,7 +18,7 @@ expansion_needed: true
 
 ## Overview
 
-**Chokmah** (Hebrew: חכמה, "Wisdom") is the second Sephira on the [[Tree of Life]]—the first emanation from [[Kether]] that introduces differentiation into unity. If Kether is the dimensionless point, Chokmah is the **line**—pure force extending outward, the first movement, the creative impulse before it takes form.
+**Chokmah** (Hebrew: חכמה, "Wisdom") is the second Sephira on the [[The Tree of Life]]—the first emanation from [[Kether]] that introduces differentiation into unity. If Kether is the dimensionless point, Chokmah is the **line**—pure force extending outward, the first movement, the creative impulse before it takes form.
 
 Chokmah is the **supernal Father**, the active masculine principle that projects creative energy toward [[Binah]] (the Mother) for shaping. It is the Logos—the divine Word that speaks creation into being.
 
@@ -66,7 +66,7 @@ In the [[Enochian Tradition]], Chokmah corresponds to the **2nd-3rd Aethyrs (ARN
 
 ## Cross-References
 
-- [[Tree of Life]] — The complete structure
+- [[The Tree of Life]] — The complete structure
 - [[Sephiroth]] — All ten emanations
 - [[Kether]] — The Crown above Chokmah
 - [[Binah]] — Understanding, Chokmah's complement

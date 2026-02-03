@@ -17,7 +17,7 @@ verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983, De Angeles 2006,
 The **Tarot** is a symbolic language encoded in 78 archetypal images, operating simultaneously as:
 
 - **A divination system** — Revealing hidden patterns, future trajectories, and unconscious dynamics
-- **A Qabalistic map** — Encoding the [[Tree of Life]]'s ten Sephiroth and twenty-two Paths
+- **A Qabalistic map** — Encoding the [[The Tree of Life]]'s ten Sephiroth and twenty-two Paths
 - **An initiatory sequence** — The "Legend of the Soul" from innocence ([[The Fool (0)]]) to completion ([[The World (XXI)]])
 - **A psychological mirror** — Reflecting the archetypal structures of the collective unconscious
 - **A meditative focus** — Each card a gateway to visionary pathworking and inner transformation
@@ -648,7 +648,7 @@ Tarot does not predict a fixed future—it **illuminates the present** with such
 - Pentacles — Earth, material, embodiment (14 cards)
 
 ### Qabalistic Framework
-- [[Tree of Life]] — The ten Sephiroth and twenty-two Paths
+- [[The Tree of Life]] — The ten Sephiroth and twenty-two Paths
 - [[Kether]] | [[Chokmah]] | [[Binah]] — Supernal Triad
 - [[Chesed]] | [[Geburah]] | [[Tiphareth]] — Ethical Triangle
 - [[Netzach]] | [[Hod]] | [[Yesod]] — Astral Triangle

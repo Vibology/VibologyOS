@@ -389,7 +389,7 @@ For comprehensive treatment of each order, see their individual entries:
 - Individual named Archangels: [[Michael]] | [[Gabriel]] | [[Raphael]] | [[Uriel]] | [[Metatron]] | [[Sandalphon]] | [[Tzadkiel]] | [[Kamael]] | [[Haniel]] | [[Raziel]] | [[Tzaphkiel]]
 
 ### Qabalistic Framework
-- [[Tree of Life]] — The ten Sephiroth
+- [[The Tree of Life]] — The ten Sephiroth
 - [[Kether]] | [[Chokmah]] | [[Binah]] — Supernal Triad
 - [[Chesed]] | [[Geburah]] | [[Tiphareth]] — Ethical Triangle
 - [[Netzach]] | [[Hod]] | [[Yesod]] — Astral Triangle

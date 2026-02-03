@@ -738,7 +738,7 @@ The Virtues teach the middle way:
 - [[Gabriel]] (Archangel of the Moon, messenger of grace)
 
 ### Qabalistic Integration
-- [[Tree of Life]]
+- [[The Tree of Life]]
 - [[Tiphareth]] (Beauty, the Heart, the sixth Sephira)
 - [[Chesed]] (Mercy, the fourth Sephira, to the right of Tiphareth)
 - [[Geburah]] (Severity, the fifth Sephira, to the left of Tiphareth)

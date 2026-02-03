@@ -850,7 +850,7 @@ For those who consciously align with Cherubic intelligence, a vow may be taken (
 - [[Angelology and Human Design Integration]]
 
 ### Qabalah
-- [[Tree of Life]]
+- [[The Tree of Life]]
 - [[Kether]] (Crown, unity, source of emanation)
 - [[Chokmah]] (Wisdom, the Cherubim's Sephirah)
 - [[Binah]] (Understanding, form-giving, the Thrones' Sephirah)

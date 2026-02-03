@@ -658,7 +658,7 @@ The Aethyrs are not a doctrine to believe but a **journey to undertake**. They d
 - [[John Dee and Edward Kelley]] — Historical context of the revelation
 
 ### Qabalistic Framework
-- [[Tree of Life]] — Sephirotic correspondences
+- [[The Tree of Life]] — Sephirotic correspondences
 - [[Kether]] — The Crown (Aethyrs 3-1)
 - [[Chokmah]] — Wisdom (Aethyrs 6-4)
 - [[Binah]] — Understanding (Aethyrs 9-7)

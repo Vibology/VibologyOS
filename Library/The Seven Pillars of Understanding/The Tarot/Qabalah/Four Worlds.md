@@ -27,7 +27,7 @@ The **Four Worlds** (Hebrew: ארבע עולמות, *Arba Olamot*) are the four 
 | **Yetzirah** | יצירה | Formation | Air | Swords |
 | **Assiah** | עשיה | Action/Making | Earth | Pentacles |
 
-Each world contains its own complete [[Tree of Life]], and the Four Worlds together form a **Jacob's Ladder** of interconnected Trees, with the Malkuth of one world becoming the Kether of the next.
+Each world contains its own complete [[The Tree of Life]], and the Four Worlds together form a **Jacob's Ladder** of interconnected Trees, with the Malkuth of one world becoming the Kether of the next.
 
 ---
 
@@ -49,7 +49,7 @@ The world of **action and matter**, where patterns become physical reality. Asso
 
 ## Cross-References
 
-- [[Tree of Life]] — The structure replicated in each world
+- [[The Tree of Life]] — The structure replicated in each world
 - [[Sephiroth]] — The ten emanations in each world
 - [[The Tarot]] — The four suits correspond to the Four Worlds
 

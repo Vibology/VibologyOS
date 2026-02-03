@@ -725,7 +725,7 @@ To integrate Tzadkiel is to become the **generous king**—the one who blesses, 
 ### Qabalah
 
 - **[[Chesed]]** — Fourth Sephira, Mercy, Loving-kindness, the Sphere of Abundance
-- **[[Tree of Life]]** — The map of divine emanation; Chesed is the fourth sphere
+- **[[The Tree of Life]]** — The map of divine emanation; Chesed is the fourth sphere
 - **[[Pillar of Mercy]]** — Right-hand pillar: Chokmah-Chesed-Netzach
 - **[[Dominations]]** — Angelic order of Chesed, commanded by Tzadkiel
 - **[[Jupiter ♃]]** — Planetary attribution of Chesed

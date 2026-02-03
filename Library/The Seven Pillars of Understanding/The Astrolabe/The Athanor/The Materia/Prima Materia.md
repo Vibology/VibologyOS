@@ -33,7 +33,7 @@ Jung mapped prima materia to the **unconscious contents** that surface at the th
 
 ### Qabalistic Resonance
 
-On the [[Tree of Life]], prima materia resonates with [[Kether]] in its aspect as Ain Soph Aur — the limitless light before differentiation into the Sephiroth. It is also the raw material of [[Malkuth]], the Kingdom, where spirit descends into the densest matter. The alchemical work moves between these poles: taking the chaos of Malkuth and raising it, or taking the pure potential of Kether and grounding it.
+On the [[The Tree of Life]], prima materia resonates with [[Kether]] in its aspect as Ain Soph Aur — the limitless light before differentiation into the Sephiroth. It is also the raw material of [[Malkuth]], the Kingdom, where spirit descends into the densest matter. The alchemical work moves between these poles: taking the chaos of Malkuth and raising it, or taking the pure potential of Kether and grounding it.
 
 ### Elemental Identity
 

@@ -784,7 +784,7 @@ To integrate the Principalities is to become the **conscious participant in coll
 
 ### Qabalistic System
 - [[Netzach]] — Seventh Sephira, Victory/Eternity, the Life Force
-- [[Tree of Life]] — The map of divine emanation
+- [[The Tree of Life]] — The map of divine emanation
 - [[Hod]] — Eighth Sephira, Splendor, the Archangels' domain (balances Netzach)
 - [[Chesed]] — Fourth Sephira, Mercy, the Dominations' domain (above Netzach on the right pillar)
 - [[Yesod]] — Ninth Sephira, Foundation, the Angels' domain (below Netzach)

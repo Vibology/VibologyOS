@@ -77,7 +77,7 @@ Kamael's function is **purgation**—the removal of the diseased, the eliminatio
 
 ### Qabalistic Context
 
-In the structure of the [[Tree of Life]], **[[Geburah]]** is the **Left Pillar of Severity**, the balancing force to [[Chesed]] (Mercy/Expansion) on the Right Pillar. Where Chesed is the benevolent king who gives freely, Geburah is the stern judge who *withholds*, who says "No," who establishes boundaries through force.
+In the structure of the [[The Tree of Life]], **[[Geburah]]** is the **Left Pillar of Severity**, the balancing force to [[Chesed]] (Mercy/Expansion) on the Right Pillar. Where Chesed is the benevolent king who gives freely, Geburah is the stern judge who *withholds*, who says "No," who establishes boundaries through force.
 
 In Qabalistic teaching, Geburah is understood as the sphere of Mars, of the warrior, of the surgeon—where diseased tissue is cut away, where the useless branch is pruned. It is not cruelty but *necessity*. Without Geburah, Chesed becomes sentimentality and weakness. Without the sword, there can be no justice.
 
@@ -671,7 +671,7 @@ If the act leaves you feeling *inflated* (powerful, superior, righteous in a gra
 - [[Chesed]] — The balancing sphere of Mercy
 - [[Tiphareth]] — The solar center that mediates Kamael's severity
 - [[Binah]] — The Supernal Mother, source of the Left Pillar
-- [[Tree of Life]] — The Qabalistic map of divine emanation
+- [[The Tree of Life]] — The Qabalistic map of divine emanation
 
 ### Archangelic Hierarchy
 - [[Metatron]] — Archangel of Kether, the Crown

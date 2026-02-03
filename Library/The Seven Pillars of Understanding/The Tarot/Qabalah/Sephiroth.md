@@ -17,7 +17,7 @@ expansion_needed: true
 
 ## Overview
 
-The **Sephiroth** (singular: Sephira) are the ten emanations or attributes through which Ein Sof (the Infinite) reveals itself and creates the physical and metaphysical realms. They are the "vessels" that receive and transmit divine light, forming the structure of the [[Tree of Life]].
+The **Sephiroth** (singular: Sephira) are the ten emanations or attributes through which Ein Sof (the Infinite) reveals itself and creates the physical and metaphysical realms. They are the "vessels" that receive and transmit divine light, forming the structure of the [[The Tree of Life]].
 
 The word "Sephiroth" derives from the Hebrew root ספר (saphar), meaning "to count" or "to tell"—the Sephiroth are the numbers through which God "counts" creation into being.
 
@@ -69,7 +69,7 @@ Physical reality, the body, the manifest world—the Kingdom where all above cry
 
 ## Cross-References
 
-- [[Tree of Life]] — The complete diagram
+- [[The Tree of Life]] — The complete diagram
 - [[Qlippoth]] — The shadow/fallen Sephiroth
 - [[Angelology]] — The Nine Orders mapped to Sephiroth
 - [[The Three Triads]] — Sephiroth organized by function

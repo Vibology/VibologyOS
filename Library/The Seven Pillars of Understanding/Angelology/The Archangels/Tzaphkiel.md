@@ -668,7 +668,7 @@ To integrate Tzaphkiel is to become the **sacred womb**—the one who holds, wit
 ### Qabalah
 
 - **[[Binah]]** — Third Sephira, Understanding, Great Sea, Divine Mother, Great Mother, Womb of Creation
-- **[[Tree of Life]]** — The map of divine emanation; Binah is the third sphere
+- **[[The Tree of Life]]** — The map of divine emanation; Binah is the third sphere
 - **[[Supernal Triangle]]** — Kether-Chokmah-Binah, the realm above the Abyss
 - **[[Thrones]]** — Angelic order of Binah, commanded by Tzaphkiel
 - **[[Saturn ♄]]** — Planetary attribution of Binah

@@ -719,7 +719,7 @@ Listen.
 - [[Michael]] | [[Raphael]] | [[Uriel]] (other Archangels often invoked alongside guardian angels)
 
 ### Qabalistic Integration
-- [[Tree of Life]]
+- [[The Tree of Life]]
 - [[Yesod]] (Foundation, the ninth Sephira, the Angels' dwelling)
 - [[Malkuth]] (Kingdom, the tenth Sephira, physical world)
 - [[Shaddai El Chai]] (Divine Name of Yesod)

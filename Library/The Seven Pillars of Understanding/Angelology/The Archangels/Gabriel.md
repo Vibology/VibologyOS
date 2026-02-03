@@ -710,7 +710,7 @@ If the "message" leads to **inflation, fear, or ego-serving action**, it is not 
 - [[Haniel]] — Archangel of Netzach, the Prince of Love
 - [[Michael]] — Archangel of Hod (some systems), the Sword of Discrimination
 - [[Sandalphon]] — Archangel of Malkuth, the Weaver of Prayer
-- [[Tree of Life]] — The Qabalistic map of divine emanation
+- [[The Tree of Life]] — The Qabalistic map of divine emanation
 - [[Sacral]] Center — Human Design center of life force and generative power
 - Gene Keys — 37th Gene Key (Weakness/Equality/Tenderness)
 - [[Jungian Archetypes|Jungian Psychology]] — Collective unconscious, archetypes, Anima/Animus

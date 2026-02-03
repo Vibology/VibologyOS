@@ -18,7 +18,7 @@ expansion_needed: true
 
 ## Overview
 
-**Daath** (Hebrew: דעת, "Knowledge") is the hidden or "phantom" Sephira on the [[Tree of Life]]—not counted among the ten [[Sephiroth]] yet occupying a crucial position between the Supernal Triad (Kether, Chokmah, Binah) and the lower seven Sephiroth. It represents the **Abyss**—the terrifying void that separates divine consciousness from human experience.
+**Daath** (Hebrew: דעת, "Knowledge") is the hidden or "phantom" Sephira on the [[The Tree of Life]]—not counted among the ten [[Sephiroth]] yet occupying a crucial position between the Supernal Triad (Kether, Chokmah, Binah) and the lower seven Sephiroth. It represents the **Abyss**—the terrifying void that separates divine consciousness from human experience.
 
 Daath is not a Sephira in the proper sense but a **gateway**, a **wound**, or a **veil**. It marks the place where the Tree was shattered (Shevirat HaKelim) and where the aspirant must surrender all certainty to cross into supernal awareness.
 
@@ -60,7 +60,7 @@ From a Jungian perspective, Daath represents the **Dark Night of the Soul**—th
 
 ## Cross-References
 
-- [[Tree of Life]] — The complete structure
+- [[The Tree of Life]] — The complete structure
 - [[Sephiroth]] — The ten emanations
 - [[Kether]] — The Supernal crown above the Abyss
 - [[Qlippoth]] — The shadow side of the Tree

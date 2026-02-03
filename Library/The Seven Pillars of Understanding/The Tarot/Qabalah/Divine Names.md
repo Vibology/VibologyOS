@@ -18,7 +18,7 @@ expansion_needed: true
 
 ## Overview
 
-The **Divine Names** (Hebrew: *Shemot HaKodesh*, שמות הקודש) are the sacred appellations of God associated with each of the ten [[Sephiroth]] on the [[Tree of Life]]. Each name represents a specific **divine attribute** or **mode of divine action** in the world.
+The **Divine Names** (Hebrew: *Shemot HaKodesh*, שמות הקודש) are the sacred appellations of God associated with each of the ten [[Sephiroth]] on the [[The Tree of Life]]. Each name represents a specific **divine attribute** or **mode of divine action** in the world.
 
 The names include the **Tetragrammaton** (YHVH), Elohim, Adonai, Shaddai, and others. Proper pronunciation and invocation of these names is central to Qabalistic ritual, meditation, and pathworking.
 
@@ -26,7 +26,7 @@ The names include the **Tetragrammaton** (YHVH), Elohim, Adonai, Shaddai, and ot
 
 ## Cross-References
 
-- [[Tree of Life]]
+- [[The Tree of Life]]
 - [[Sephiroth]]
 - [[Kether]]
 - [[Four Worlds]]

@@ -232,7 +232,7 @@ You are not here to rush. The pressure you feel is not yours—it belongs to the
 - [[Spleen]] | [[Sacral]] | [[Root]]
 
 ### Qabalah
-- [[Tree of Life]] | [[Kether]] | [[Chokmah]] | [[Binah]] | [[Chesed]] | [[Geburah]] | [[Tiphareth]] | [[Netzach]] | [[Hod]] | [[Yesod]]
+- [[The Tree of Life]] | [[Kether]] | [[Chokmah]] | [[Binah]] | [[Chesed]] | [[Geburah]] | [[Tiphareth]] | [[Netzach]] | [[Hod]] | [[Yesod]]
 
 ---
 

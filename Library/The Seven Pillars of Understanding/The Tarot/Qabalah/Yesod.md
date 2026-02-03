@@ -18,7 +18,7 @@ expansion_needed: true
 
 ## Overview
 
-**Yesod** (Hebrew: יסוד, "Foundation") is the ninth Sephira on the [[Tree of Life]]—the sphere of the astral plane, dreams, the unconscious, and the subtle foundation upon which physical reality rests. Associated with the Moon, Yesod represents the **receptive, reflective, fluctuating** realm between mind and matter.
+**Yesod** (Hebrew: יסוד, "Foundation") is the ninth Sephira on the [[The Tree of Life]]—the sphere of the astral plane, dreams, the unconscious, and the subtle foundation upon which physical reality rests. Associated with the Moon, Yesod represents the **receptive, reflective, fluctuating** realm between mind and matter.
 
 Yesod is the "treasure house of images"—the repository of all psychic impressions, the realm accessed in dreams, visions, and astral projection. It is the foundation because [[Malkuth]] (physical reality) is built upon and shaped by the patterns stored in Yesod.
 
@@ -66,7 +66,7 @@ In the [[Heptarchia Mystica]], Yesod corresponds to **Hagonel**, the Moon King i
 
 ## Cross-References
 
-- [[Tree of Life]] — The complete structure
+- [[The Tree of Life]] — The complete structure
 - [[Sephiroth]] — All ten emanations
 - [[Malkuth]] — Kingdom, built upon Yesod's foundation
 - [[Gabriel]] — The archangel of Yesod

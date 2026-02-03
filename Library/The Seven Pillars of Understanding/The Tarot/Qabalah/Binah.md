@@ -18,7 +18,7 @@ expansion_needed: true
 
 ## Overview
 
-**Binah** (Hebrew: בינה, "Understanding") is the third Sephira on the [[Tree of Life]]—the great Mother who receives the creative force of [[Chokmah]] and gives it form. If Chokmah is the line, Binah is the **plane**—the first container, the womb of creation, the primordial sea from which all differentiated forms emerge.
+**Binah** (Hebrew: בינה, "Understanding") is the third Sephira on the [[The Tree of Life]]—the great Mother who receives the creative force of [[Chokmah]] and gives it form. If Chokmah is the line, Binah is the **plane**—the first container, the womb of creation, the primordial sea from which all differentiated forms emerge.
 
 Binah is **restrictive** in the most sacred sense: she defines, limits, and shapes the unlimited force of the Father into something that can manifest. She is associated with Saturn—time, structure, the necessary limitations that make existence possible.
 
@@ -66,7 +66,7 @@ In the [[Enochian Tradition]], Binah corresponds to the **7th-9th Aethyrs (DEO, 
 
 ## Cross-References
 
-- [[Tree of Life]] — The complete structure
+- [[The Tree of Life]] — The complete structure
 - [[Sephiroth]] — All ten emanations
 - [[Kether]] — The Crown above
 - [[Chokmah]] — Wisdom, Binah's complement

@@ -657,7 +657,7 @@ This is the Seraphim's gift: the **dissolution of the illusion of separation**.
 - [[Lucifer]] (fallen Seraph, the shadow of the highest)
 
 ### Qabalistic Integration
-- [[Tree of Life]]
+- [[The Tree of Life]]
 - [[Kether]] (The Crown, the Seraphim's Sephira)
 - [[Chokmah]] (Wisdom, the Cherubim's Sephira)
 - [[Binah]] (Understanding, the Thrones' Sephira)

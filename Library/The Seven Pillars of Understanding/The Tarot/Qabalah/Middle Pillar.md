@@ -18,7 +18,7 @@ expansion_needed: true
 
 ## Overview
 
-The **Middle Pillar** (also called the **Pillar of Mildness** or **Pillar of Equilibrium**) is the central column of the [[Tree of Life]], containing the Sephiroth that balance Mercy and Severity:
+The **Middle Pillar** (also called the **Pillar of Mildness** or **Pillar of Equilibrium**) is the central column of the [[The Tree of Life]], containing the Sephiroth that balance Mercy and Severity:
 
 | Sephirah | Name | Function |
 |----------|------|----------|
@@ -40,7 +40,7 @@ In Golden Dawn practice, the **Middle Pillar Exercise** is a foundational medita
 
 ## Cross-References
 
-- [[Tree of Life]] — The complete structure
+- [[The Tree of Life]] — The complete structure
 - [[Pillar of Mercy]] — The right pillar (Chesed, Netzach, Chokmah)
 - [[Tiphareth]] — The heart of the Middle Pillar
 - [[Michael]] — Archangel associated with Tiphareth

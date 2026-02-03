@@ -17,7 +17,7 @@ expansion_needed: true
 
 ## Overview
 
-The **Qlippoth** (Hebrew: קליפות, singular Qlippah, meaning "shells" or "husks") are the shadow or inverted aspects of the [[Sephiroth]]—the realms of unbalanced force that exist as the "other side" of the [[Tree of Life]]. They represent divine energy that has become distorted, excessive, or cut off from its source.
+The **Qlippoth** (Hebrew: קליפות, singular Qlippah, meaning "shells" or "husks") are the shadow or inverted aspects of the [[Sephiroth]]—the realms of unbalanced force that exist as the "other side" of the [[The Tree of Life]]. They represent divine energy that has become distorted, excessive, or cut off from its source.
 
 In Qabalistic cosmology, the Qlippoth are not simply "evil" but **necessary counterweights**—the shells that remain when the light withdraws, the forms that persist after spirit departs. They are the consequence of the **shattering of the vessels** (Shevirat HaKelim) in which the original Sephiroth could not contain the divine light.
 
@@ -67,7 +67,7 @@ Qlippothic work is traditionally considered **dangerous**:
 ## Cross-References
 
 - [[Sephiroth]] — The light/day aspects
-- [[Tree of Life]] — The complete structure
+- [[The Tree of Life]] — The complete structure
 - [[The Shadow]] — Jungian parallel
 - [[Confrontation with Shadow]] — Integration process
 

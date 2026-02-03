@@ -18,7 +18,7 @@ expansion_needed: true
 
 ## Overview
 
-**Malkuth** (Hebrew: מלכות, "Kingdom") is the tenth and final Sephira on the [[Tree of Life]]—the point where all divine emanations crystallize into physical reality. It represents **the manifest world**, **the body**, **the Earth**, and **the completion** of the creative process that began in [[Kether]].
+**Malkuth** (Hebrew: מלכות, "Kingdom") is the tenth and final Sephira on the [[The Tree of Life]]—the point where all divine emanations crystallize into physical reality. It represents **the manifest world**, **the body**, **the Earth**, and **the completion** of the creative process that began in [[Kether]].
 
 Malkuth is not merely "material" in the reductive sense. It is the **sacred vessel** that receives and contains all the energies of the upper Sephiroth—the Kingdom where the divine actually dwells.
 
@@ -67,7 +67,7 @@ The shadow of Malkuth is **Lilith** (or Nahemoth, "Whisperers")—representing t
 
 ## Cross-References
 
-- [[Tree of Life]] — The complete structure
+- [[The Tree of Life]] — The complete structure
 - [[Sephiroth]] — All ten emanations
 - [[Kether]] — The Crown (Malkuth's polar complement)
 - [[Sandalphon]] — The archangel of Malkuth

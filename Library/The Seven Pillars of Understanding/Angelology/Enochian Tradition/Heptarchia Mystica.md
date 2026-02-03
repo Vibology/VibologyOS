@@ -424,7 +424,7 @@ The Heptarchia is the **training ground** of Enochian magic. Those who learn to 
 ### Cross-System Integration
 - [[The Tarot]] — Planetary Major Arcana correspondences
 - [[Astrology]] — Planetary timing and invocation
-- [[Tree of Life]] — Sephirotic-planetary mapping
+- [[The Tree of Life]] — Sephirotic-planetary mapping
 
 ---
 ## Sources
