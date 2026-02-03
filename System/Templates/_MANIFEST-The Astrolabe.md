@@ -79,6 +79,10 @@ card_name: ""
 alchemical_principle: ""
 
 status: [Complete/Draft/Stub]
+verified: true
+verification_date: YYYY-MM-DD
+verification_source: ""
+grimoire_source: ""
 ```
 
 ### Athanor: Furnace Cards (7)
@@ -92,6 +96,10 @@ operation: ""
 sequence: {1-7}
 
 status: [Complete/Draft/Stub]
+verified: true
+verification_date: YYYY-MM-DD
+verification_source: ""
+grimoire_source: ""
 ```
 
 ### Athanor: Archetype Cards (12)
@@ -105,6 +113,10 @@ zodiac_sign: ""
 cultural_icon: ""
 
 status: [Complete/Draft/Stub]
+verified: true
+verification_date: YYYY-MM-DD
+verification_source: ""
+grimoire_source: ""
 ```
 
 ---

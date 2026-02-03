@@ -7,6 +7,10 @@ card_name: "Mercury"
 alchemical_principle: "Spirit — connection, fluidity, mediation"
 
 status: Complete
+verified: true
+verification_date: 2026-02-03
+verification_source: "Paracelsus Archidoxis; Jung CW 6, CW 13; Edinger Anatomy of the Psyche"
+grimoire_source: "Paracelsus Hermetic and Alchemical Writings, Jung CW 6 (Psychological Types), Jung CW 13 (Spirit Mercurius), Edinger Anatomy of the Psyche"
 ---
 # Mercury
 *The volatile principle — spirit that mediates between above and below, the fluid intelligence that connects opposites.*

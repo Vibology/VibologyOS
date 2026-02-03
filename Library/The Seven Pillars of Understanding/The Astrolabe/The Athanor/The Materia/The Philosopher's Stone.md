@@ -7,6 +7,10 @@ card_name: "The Philosopher's Stone"
 alchemical_principle: "The perfected result; integration"
 
 status: Complete
+verified: true
+verification_date: 2026-02-03
+verification_source: "Jung CW 12, CW 14; Edinger Ego and Archetype; von Franz Alchemy"
+grimoire_source: "Jung CW 12, Jung CW 14, Edinger Ego and Archetype, von Franz Alchemy, Fabricius Alchemy"
 ---
 # The Philosopher's Stone
 *The *lapis philosophorum* — not a thing to be found but a state to be lived, the completion of the Great Work.*

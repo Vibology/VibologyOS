@@ -7,6 +7,10 @@ card_name: "Prima Materia"
 alchemical_principle: "The undifferentiated beginning; raw potential"
 
 status: Complete
+verified: true
+verification_date: 2026-02-03
+verification_source: "Jung CW 12, CW 14; Edinger Anatomy of the Psyche; von Franz Alchemy"
+grimoire_source: "Jung CW 12 (Psychology and Alchemy), Jung CW 14 (Mysterium Coniunctionis), Edinger Anatomy of the Psyche, von Franz Alchemy"
 ---
 # Prima Materia
 *The first matter — chaos before form, the uncarved block, the raw substance that enters the work.*
