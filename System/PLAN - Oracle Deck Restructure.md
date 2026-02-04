@@ -1,13 +1,16 @@
 ---
 tags: [system, planning, oracle-deck, restructure]
-system: The Window
+system: The Astrolabe
 date_created: 2026-01-31
-status: Active
+date_completed: 2026-02-03
+status: Build Complete — Integration Pending
 ---
 
 # Oracle Deck Restructure Plan
 
 *From The Window (64 cards) to The Astrolabe (88 cards)*
+
+**STATUS: Phases 0-3 Complete (2026-02-03)** — All 88 cards built and verified. Phase 4 (Integration) remains.
 
 ---
 
@@ -292,12 +295,12 @@ Move to `.archive/Library/The Window/` preserving directory structure:
 
 ## Build Phases
 
-### Phase 0: Planning & Open Decisions
-- [ ] Resolve deck name
-- [ ] Resolve Codex card naming convention
-- [ ] Resolve trigram family naming convention
-- [ ] Resolve Archetype gate resonance question
-- [ ] Finalize this plan
+### Phase 0: Planning & Open Decisions — COMPLETE (2026-02-03)
+- [x] Resolve deck name
+- [x] Resolve Codex card naming convention
+- [x] Resolve trigram family naming convention
+- [x] Resolve Archetype gate resonance question
+- [x] Finalize this plan
 
 ### Phase 1: Archive & Restructure — COMPLETE (2026-02-03)
 - [x] Archive current Window content (76 files → `.archive/Library/The Window/`)
@@ -305,20 +308,20 @@ Move to `.archive/Library/The Window/` preserving directory structure:
 - [x] Update manifest template (`_MANIFEST-The Astrolabe.md`)
 - [x] Create pillar overview file (`The Astrolabe.md`)
 
-### Phase 2: Build The Athanor (24 cards)
-- [ ] Build The Materia (5 cards): Prima Materia, Sulphur, Mercury, Salt, Philosopher's Stone
-- [ ] Build The Furnace (7 cards): Calcination through Coagulation
-- [ ] Rebuild The Archetypes (12 cards): detach from gates, strengthen zodiacal/Jungian identity
+### Phase 2: Build The Athanor (24 cards) — COMPLETE (2026-02-03)
+- [x] Build The Materia (5 cards): Prima Materia, Sulphur, Mercury, Salt, Philosopher's Stone
+- [x] Build The Furnace (7 cards): Calcination through Coagulation
+- [x] Rebuild The Archetypes (12 cards): detach from gates, strengthen zodiacal/Jungian identity
 
-### Phase 3: Build The Codex (64 cards)
-- [ ] Build Family of Heaven (8 cards)
-- [ ] Build Family of Earth (8 cards)
-- [ ] Build Family of Thunder (8 cards)
-- [ ] Build Family of Water (8 cards)
-- [ ] Build Family of Mountain (8 cards)
-- [ ] Build Family of Wind (8 cards)
-- [ ] Build Family of Fire (8 cards)
-- [ ] Build Family of Lake (8 cards)
+### Phase 3: Build The Codex (64 cards) — COMPLETE (2026-02-03)
+- [x] Build Family of Heaven (8 cards)
+- [x] Build Family of Earth (8 cards)
+- [x] Build Family of Thunder (8 cards)
+- [x] Build Family of Water (8 cards)
+- [x] Build Family of Mountain (8 cards)
+- [x] Build Family of Wind (8 cards)
+- [x] Build Family of Fire (8 cards)
+- [x] Build Family of Lake (8 cards)
 
 ### Phase 4: Integration
 - [ ] Update CLAUDE.md (pillar name, structure, description)
