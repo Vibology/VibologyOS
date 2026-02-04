@@ -1,0 +1,40 @@
+{
+  "55": {
+    "1": {
+      "exaltation_planets": ["Jupiter"],
+      "detriment_planets": ["Venus"],
+      "juxtaposition_planets": [],
+      "no_polarity": false
+    },
+    "2": {
+      "exaltation_planets": ["Venus"],
+      "detriment_planets": ["Earth"],
+      "juxtaposition_planets": [],
+      "no_polarity": false
+    },
+    "3": {
+      "exaltation_planets": ["Saturn"],
+      "detriment_planets": ["Mars"],
+      "juxtaposition_planets": [],
+      "no_polarity": false
+    },
+    "4": {
+      "exaltation_planets": ["Jupiter"],
+      "detriment_planets": ["Mars"],
+      "juxtaposition_planets": [],
+      "no_polarity": false
+    },
+    "5": {
+      "exaltation_planets": ["Uranus"],
+      "detriment_planets": ["Sun"],
+      "juxtaposition_planets": [],
+      "no_polarity": false
+    },
+    "6": {
+      "exaltation_planets": ["Saturn"],
+      "detriment_planets": ["Moon"],
+      "juxtaposition_planets": [],
+      "no_polarity": false
+    }
+  }
+}
