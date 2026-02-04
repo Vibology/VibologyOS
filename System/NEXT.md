@@ -1,7 +1,7 @@
 # Current Work Context
 
-**Last Updated:** 2026-01-31
-**System Status:** Library complete; Oracle Deck restructure planned; dignity data corrections applied; protocols streamlined; chart workflow validated
+**Last Updated:** 2026-02-04
+**System Status:** Library complete; Oracle Deck Phase 3 complete (88 cards built); dignity data extraction in progress (32/64 gates complete)
 **Current Phase:** Foundation-building — still on the roof, still in observation
 
 ---
@@ -92,9 +92,14 @@ Once acquired, scan and add to Grimoire for source-grounded expansion.
 - Jungian concepts (12 stubs) — Synchronicity, Transcendent Function, etc.
 - Practice guides (10 stubs) — LBRP, Pathworking, etc.
 
-**Recently addressed:** Gate dignity data corrections
-- Three errors fixed (26.2, 47.3, 59.6) and verified in Abbey Lewis chart
-- Future additions tracked in `humandesign_api/EXALTATION_DETRIMENT_ERRATA.md`
+**Active work:** Complete dignity data extraction from IHDS source (2011 edition)
+- Extracting all 384 line exaltations/detriments from "The Definitive Book of Human Design"
+- Progress: 32/64 gates complete (192/384 lines = 50%)
+- Manual entry workflow established (PDF glyphs → structured JSON)
+- Individual gate files: `gate_1_complete.json` through `gate_32_complete.json`
+- Will merge into comprehensive `exaltations_detriments.json` when complete
+- Previous corrections: Three errors fixed (26.2, 47.3, 59.6) verified in Abbey Lewis chart
+- Errata tracking: `humandesign_api/EXALTATION_DETRIMENT_ERRATA.md`
 
 ### 4. New Synthesis Work
 - `Synthesis/General/` ready for new pieces
@@ -118,6 +123,32 @@ Once acquired, scan and add to Grimoire for source-grounded expansion.
 ---
 
 ## Session History
+
+**2026-02-04:** Dignity data extraction — building comprehensive source of truth
+- **Objective:** Extract all 384 line exaltations/detriments from IHDS 2011 source PDF to replace incomplete/erroneous data
+- **Process established:**
+  - Converted 68-page PDF to PNG images for visual glyph reading
+  - Attempted automated extraction: failed (glyphs corrupt during text extraction, even from images)
+  - Established manual workflow: user reads planetary glyphs from PDF → provides data → Claude structures as JSON
+- **Progress:** Completed Gates 1-32 (192/384 lines = 50% - halfway point reached)
+- **Special cases identified:** 2 "no polarity" lines so far (Gate 5 Line 6, Gate 25 Line 4)
+- **Commits:** Individual gate JSON files committed as completed for granular version control
+- **Break point:** User's open Head and Ajna needed rest after intensive mental processing
+- **Next session:** Resume with Gate 33, continue through Gate 64, then merge all data into final `exaltations_detriment.json`
+
+**2026-02-03:** Oracle Deck build complete — Phases 0-3 finished, all 88 cards created
+- **The Astrolabe** — 88-card oracle deck fully built (24 Athanor + 64 Codex)
+- **Phase 0:** All foundational decisions finalized (deck name, card naming, trigram families, archetype detachment)
+- **Phase 1:** Archived old Window structure (76 files → `.archive/Library/The Window/`)
+- **Phase 2:** Built The Athanor (24 cards complete)
+  - The Materia (5): Prima Materia, Sulphur, Mercury, Salt, Philosopher's Stone
+  - The Furnace (7): Calcination, Dissolution, Separation, Conjunction, Fermentation, Distillation, Coagulation
+  - The Archetypes (12): Zodiacal personas detached from gate ownership
+- **Phase 3:** Built The Codex (64 cards, all 8 trigram families complete)
+  - Family of Heaven (8), Earth (8), Thunder (8), Water (8), Mountain (8), Wind (8), Fire (8), Lake (8)
+  - Each card named for actual I-Ching hexagram (e.g., Gate 15 = "Modesty", Gate 47 = "Oppression")
+- **Status:** Build complete; integration/usage phase (Phase 4) pending
+- **Planning document updated:** `System/PLAN - Oracle Deck Restructure.md` marked "Build Complete — Integration Pending"
 
 **2026-01-31 (Late Night):** Oracle Deck restructure — The Window rebuilt from the ground up
 - Identified core problem: current 64-card Window forces gates into interpretive categories rather than honoring what they are ("Stability" = Gate 20, but Gate 20 IS "Contemplation — The Now")
