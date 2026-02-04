@@ -1,0 +1,46 @@
+{
+  "1": {
+    "6": {
+      "exaltation_planets": [],
+      "detriment_planets": [],
+      "juxtaposition_planets": [],
+      "no_polarity": false,
+      "notes": "No planets mentioned - no fixing"
+    },
+    "5": {
+      "exaltation_planets": ["Mars"],
+      "detriment_planets": ["Uranus"],
+      "juxtaposition_planets": [],
+      "no_polarity": false,
+      "notes": "Explicitly stated: Mars exalted, Uranus in detriment"
+    },
+    "4": {
+      "exaltation_planets": ["Earth"],
+      "detriment_planets": [],
+      "juxtaposition_planets": [],
+      "no_polarity": false,
+      "notes": "Earth exalted explicitly. Detriment description present but no planet named."
+    },
+    "3": {
+      "exaltation_planets": ["Mars"],
+      "detriment_planets": [],
+      "juxtaposition_planets": [],
+      "no_polarity": false,
+      "notes": "Mars exalted explicitly. Detriment description mentions 'Material forces' but no planet named."
+    },
+    "2": {
+      "exaltation_planets": ["Venus"],
+      "detriment_planets": [],
+      "juxtaposition_planets": [],
+      "no_polarity": false,
+      "notes": "Venus exalted explicitly. Detriment symbol 'V' present but no planet named. Glyph '(f'' (Mars symbol) appears at line start but unclear relationship."
+    },
+    "1": {
+      "exaltation_planets": ["Moon"],
+      "detriment_planets": [],
+      "juxtaposition_planets": [],
+      "no_polarity": false,
+      "notes": "Moon exalted explicitly (glyph ':D'). Detriment symbol 'V' with glyph 'JtI' present but planet not named in text."
+    }
+  }
+}

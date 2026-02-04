@@ -103,6 +103,7 @@ def add_dignities_to_planets(
     - No polarity detection
     - Juxtaposition (star glyph or double fixing)
     - Harmonic fixing (channel partner planets)
+    - Gate-level fixing (planet present anywhere in same gate)
     - Two-tier fixing for Design global planets
     """
     if not calculate_dignity_func or not dignity_data:
@@ -122,6 +123,17 @@ def add_dignities_to_planets(
                 planet.get('Lon')
             )
 
+    # Build gate-level planet presence (Quantum synthesis)
+    # Maps gate number -> set of planet names present in that gate
+    all_planets = personality_planets + design_planets
+    gate_level_planets = {}
+    for planet in all_planets:
+        gate = planet.get('Gate')
+        planet_name = planet.get('Planet', '').replace('_', ' ')
+        if gate not in gate_level_planets:
+            gate_level_planets[gate] = set()
+        gate_level_planets[gate].add(planet_name)
+
     # Add dignity to personality planets (always self-fixing)
     for planet in personality_planets:
         planet_name = planet.get('Planet')
@@ -129,11 +141,15 @@ def add_dignities_to_planets(
         line = planet.get('Line')
         ch_gate = planet.get('Ch_Gate', 0)
 
-        # Find harmonic planet
+        # Find harmonic planet (check both Design and Personality for cross-aspect channels)
         harmonic_gate = ch_gate if ch_gate and ch_gate != 0 else None
-        harmonic_planet = find_planet_at_gate(personality_planets, harmonic_gate) if harmonic_gate else None
+        harmonic_planet = None
+        if harmonic_gate:
+            harmonic_planet = find_planet_at_gate(personality_planets, harmonic_gate)
+            if not harmonic_planet:
+                harmonic_planet = find_planet_at_gate(design_planets, harmonic_gate)
 
-        # Calculate dignity
+        # Calculate dignity (direct + harmonic fixing)
         result = calculate_dignity_func(
             gate=gate,
             line=line,
@@ -144,6 +160,25 @@ def add_dignities_to_planets(
         )
 
         state = result.get("state")
+
+        # If neutral, check gate-level fixing (Quantum synthesis)
+        if state == "neutral" and str(gate) in dignity_data and str(line) in dignity_data[str(gate)]:
+            line_data = dignity_data[str(gate)][str(line)]
+            exaltation_planets = line_data.get('exaltation_planets', [])
+            detriment_planets = line_data.get('detriment_planets', [])
+
+            # Check if any required planet exists anywhere in this gate
+            planets_in_gate = gate_level_planets.get(gate, set())
+            for exalt_planet in exaltation_planets:
+                if exalt_planet in planets_in_gate:
+                    state = "exalted"
+                    break
+            if state == "neutral":
+                for detrim_planet in detriment_planets:
+                    if detrim_planet in planets_in_gate:
+                        state = "detriment"
+                        break
+
         planet['dignity'] = state if state != "neutral" else None
 
     # Add dignity to design planets (with two-tier fixing for global planets)
@@ -155,9 +190,13 @@ def add_dignities_to_planets(
         ch_gate = planet.get('Ch_Gate', 0)
         normalized_planet = planet_name.replace('_', ' ')
 
-        # Find harmonic planet
+        # Find harmonic planet (check both Design and Personality for cross-aspect channels)
         harmonic_gate = ch_gate if ch_gate and ch_gate != 0 else None
-        harmonic_planet = find_planet_at_gate(design_planets, harmonic_gate) if harmonic_gate else None
+        harmonic_planet = None
+        if harmonic_gate:
+            harmonic_planet = find_planet_at_gate(design_planets, harmonic_gate)
+            if not harmonic_planet:
+                harmonic_planet = find_planet_at_gate(personality_planets, harmonic_gate)
 
         # For self-fixing planets: standard calculation
         if normalized_planet not in GLOBAL_FIXING_PLANETS:
@@ -170,6 +209,24 @@ def add_dignities_to_planets(
                 dignity_data=dignity_data
             )
             state = result.get("state")
+
+            # If neutral, check gate-level fixing
+            if state == "neutral" and str(gate) in dignity_data and str(line) in dignity_data[str(gate)]:
+                line_data = dignity_data[str(gate)][str(line)]
+                exaltation_planets = line_data.get('exaltation_planets', [])
+                detriment_planets = line_data.get('detriment_planets', [])
+
+                planets_in_gate = gate_level_planets.get(gate, set())
+                for exalt_planet in exaltation_planets:
+                    if exalt_planet in planets_in_gate:
+                        state = "exalted"
+                        break
+                if state == "neutral":
+                    for detrim_planet in detriment_planets:
+                        if detrim_planet in planets_in_gate:
+                            state = "detriment"
+                            break
+
             planet['dignity'] = state if state != "neutral" else None
             continue
 
@@ -202,6 +259,24 @@ def add_dignities_to_planets(
                 dignity_data=dignity_data
             )
             state = result.get("state")
+
+            # If neutral, check gate-level fixing
+            if state == "neutral" and str(gate) in dignity_data and str(line) in dignity_data[str(gate)]:
+                line_data = dignity_data[str(gate)][str(line)]
+                exaltation_planets = line_data.get('exaltation_planets', [])
+                detriment_planets = line_data.get('detriment_planets', [])
+
+                planets_in_gate = gate_level_planets.get(gate, set())
+                for exalt_planet in exaltation_planets:
+                    if exalt_planet in planets_in_gate:
+                        state = "exalted"
+                        break
+                if state == "neutral":
+                    for detrim_planet in detriment_planets:
+                        if detrim_planet in planets_in_gate:
+                            state = "detriment"
+                            break
+
             planet['dignity'] = state if state != "neutral" else None
         else:
             planet['dignity'] = None
