@@ -90,6 +90,136 @@ def find_planet_at_gate(planets_list: list, gate: int):
     return None
 
 
+def has_line_color_resonance(line: int, color: int) -> bool:
+    """
+    Check if Line and Color are in Resonance or Harmony (The Fixing Rule).
+
+    Planetary fixing only displays if there's resonance or harmony between Line and Color:
+    - Resonance: Line number = Color number (e.g., Line 4 + Color 4)
+    - Harmony: Lower/Upper trigram pairs (Line 1↔4, Line 2↔5, Line 3↔6)
+    - Dissonance: Neither resonance nor harmony → fixing is "washed out"
+
+    This is used by advanced calculation engines (MMI, Jovian Archive, Human.Design).
+    """
+    # Resonance: same number
+    if line == color:
+        return True
+
+    # Harmony: lower/upper trigram pairs
+    harmony_pairs = {
+        (1, 4), (4, 1),  # Line 1 ↔ Line 4
+        (2, 5), (5, 2),  # Line 2 ↔ Line 5
+        (3, 6), (6, 3),  # Line 3 ↔ Line 6
+    }
+    if (line, color) in harmony_pairs:
+        return True
+
+    # Dissonance: neither resonance nor harmony
+    return False
+
+
+def calculate_dignity_complete(
+    planet_data: dict,
+    all_planets: list,
+    harmonic_planet_data: dict,
+    dignity_data: dict
+) -> str:
+    """
+    Calculate dignity using complete IHDS algorithm.
+
+    Rule Priority:
+    1. Gate-Level Fixing (Quantum Synthesis) - bypasses all other rules
+    2. Juxtaposition Attempt (opposite polarities) - dissonance causes failure → neutral
+    3. Single Polarity (direct OR harmonic) - shows symbol regardless of dissonance
+
+    Key Insight:
+    - Dissonance affects EXPERIENCE (quality/stability), not DISPLAY
+    - Exception: Juxtaposition attempts with dissonance collapse to neutral ("failed juxtaposition")
+
+    Returns: "exalted", "detriment", "juxtaposed", or "neutral"
+    """
+    gate = planet_data.get('Gate')
+    line = planet_data.get('Line')
+    color = planet_data.get('Color')
+    planet = planet_data.get('Planet', '').replace('_', ' ')
+
+    # Validate inputs
+    if not gate or not line:
+        return "neutral"
+
+    gate_str = str(gate)
+    line_str = str(line)
+
+    if gate_str not in dignity_data or line_str not in dignity_data[gate_str]:
+        return "neutral"
+
+    line_data = dignity_data[gate_str][line_str]
+
+    # Check no_polarity flag
+    if line_data.get('no_polarity', False):
+        return "neutral"
+
+    exaltation_planets = line_data.get('exaltation_planets', [])
+    detriment_planets = line_data.get('detriment_planets', [])
+    juxtaposition_planets = line_data.get('juxtaposition_planets', [])
+
+    # LEVEL 1: Gate-Level Fixing (highest priority, bypasses everything)
+    # Check if required planet exists elsewhere in this gate (different line or aspect)
+    for p in all_planets:
+        if p.get('Gate') == gate and p is not planet_data:  # Different activation in same gate
+            p_name = p.get('Planet', '').replace('_', ' ')
+            if p_name in exaltation_planets:
+                return "exalted"  # Gate-level fixing
+            if p_name in detriment_planets:
+                return "detriment"  # Gate-level fixing
+
+    # LEVEL 2 & 3: Check Direct and Harmonic Fixing
+    # (Planet presence = display, regardless of dissonance for single polarity)
+
+    # Check direct fixing
+    direct_exalted = planet in exaltation_planets
+    direct_detriment = planet in detriment_planets
+    direct_juxtaposed = planet in juxtaposition_planets
+
+    # Check harmonic fixing
+    harmonic_exalted = False
+    harmonic_detriment = False
+    harmonic_juxtaposed = False
+
+    if harmonic_planet_data:
+        harmonic_planet = harmonic_planet_data.get('Planet', '').replace('_', ' ')
+        harmonic_exalted = harmonic_planet in exaltation_planets
+        harmonic_detriment = harmonic_planet in detriment_planets
+        harmonic_juxtaposed = harmonic_planet in juxtaposition_planets
+
+    # Check for explicit juxtaposition (star glyph in data)
+    if direct_juxtaposed or harmonic_juxtaposed:
+        return "juxtaposed"
+
+    # Check for juxtaposition attempt (opposite polarities: exaltation + detriment)
+    attempting_juxtaposition = False
+    if (direct_exalted and harmonic_detriment) or (direct_detriment and harmonic_exalted):
+        attempting_juxtaposition = True
+
+    # Failed Juxtaposition Rule:
+    # If attempting juxtaposition with dissonance → collapse to neutral
+    if attempting_juxtaposition:
+        has_dissonance = color is not None and not has_line_color_resonance(line, color)
+        if has_dissonance:
+            return "neutral"  # Failed juxtaposition - cannot hold tension
+        else:
+            return "juxtaposed"  # Successful juxtaposition
+
+    # Single Polarity Fixing: Show symbol regardless of dissonance
+    # (Dissonance affects quality/experience, not display)
+    if direct_exalted or harmonic_exalted:
+        return "exalted"
+    if direct_detriment or harmonic_detriment:
+        return "detriment"
+
+    return "neutral"
+
+
 def add_dignities_to_planets(
     personality_planets: list,
     design_planets: list,
@@ -99,14 +229,17 @@ def add_dignities_to_planets(
     """
     Add dignity information to planet dictionaries using the comprehensive IHDS algorithm.
 
-    This includes:
+    This implements the complete three-level dignity hierarchy:
+    1. Gate-Level Fixing (Quantum Synthesis) - bypasses dissonance completely
+    2. Direct Fixing - with Sun Override for dissonance
+    3. Harmonic Fixing - dissonance at receiving position always suppresses
+
+    Also includes:
     - No polarity detection
     - Juxtaposition (star glyph or double fixing)
-    - Harmonic fixing (channel partner planets)
-    - Gate-level fixing (planet present anywhere in same gate)
     - Two-tier fixing for Design global planets
     """
-    if not calculate_dignity_func or not dignity_data:
+    if not dignity_data:
         return
 
     # Two-tier fixing constants
@@ -123,61 +256,35 @@ def add_dignities_to_planets(
                 planet.get('Lon')
             )
 
-    # Build gate-level planet presence (Quantum synthesis)
-    # Maps gate number -> set of planet names present in that gate
+    # Combine all planets for gate-level fixing
     all_planets = personality_planets + design_planets
-    gate_level_planets = {}
-    for planet in all_planets:
-        gate = planet.get('Gate')
-        planet_name = planet.get('Planet', '').replace('_', ' ')
-        if gate not in gate_level_planets:
-            gate_level_planets[gate] = set()
-        gate_level_planets[gate].add(planet_name)
 
     # Add dignity to personality planets (always self-fixing)
     for planet in personality_planets:
-        planet_name = planet.get('Planet')
-        gate = planet.get('Gate')
-        line = planet.get('Line')
         ch_gate = planet.get('Ch_Gate', 0)
 
-        # Find harmonic planet (check both Design and Personality for cross-aspect channels)
-        harmonic_gate = ch_gate if ch_gate and ch_gate != 0 else None
-        harmonic_planet = None
-        if harmonic_gate:
-            harmonic_planet = find_planet_at_gate(personality_planets, harmonic_gate)
-            if not harmonic_planet:
-                harmonic_planet = find_planet_at_gate(design_planets, harmonic_gate)
+        # Find harmonic planet data (check both Design and Personality for cross-aspect channels)
+        harmonic_planet_data = None
+        if ch_gate and ch_gate != 0:
+            # Check design side first
+            for p in design_planets:
+                if p.get('Gate') == ch_gate:
+                    harmonic_planet_data = p
+                    break
+            # If not found, check personality side
+            if not harmonic_planet_data:
+                for p in personality_planets:
+                    if p.get('Gate') == ch_gate and p is not planet:
+                        harmonic_planet_data = p
+                        break
 
-        # Calculate dignity (direct + harmonic fixing)
-        result = calculate_dignity_func(
-            gate=gate,
-            line=line,
-            active_planet=planet_name,
-            harmonic_gate=harmonic_gate,
-            harmonic_planet=harmonic_planet,
+        # Calculate dignity using comprehensive three-level hierarchy
+        state = calculate_dignity_complete(
+            planet_data=planet,
+            all_planets=all_planets,
+            harmonic_planet_data=harmonic_planet_data,
             dignity_data=dignity_data
         )
-
-        state = result.get("state")
-
-        # If neutral, check gate-level fixing (Quantum synthesis)
-        if state == "neutral" and str(gate) in dignity_data and str(line) in dignity_data[str(gate)]:
-            line_data = dignity_data[str(gate)][str(line)]
-            exaltation_planets = line_data.get('exaltation_planets', [])
-            detriment_planets = line_data.get('detriment_planets', [])
-
-            # Check if any required planet exists anywhere in this gate
-            planets_in_gate = gate_level_planets.get(gate, set())
-            for exalt_planet in exaltation_planets:
-                if exalt_planet in planets_in_gate:
-                    state = "exalted"
-                    break
-            if state == "neutral":
-                for detrim_planet in detriment_planets:
-                    if detrim_planet in planets_in_gate:
-                        state = "detriment"
-                        break
 
         planet['dignity'] = state if state != "neutral" else None
 
@@ -190,43 +297,29 @@ def add_dignities_to_planets(
         ch_gate = planet.get('Ch_Gate', 0)
         normalized_planet = planet_name.replace('_', ' ')
 
-        # Find harmonic planet (check both Design and Personality for cross-aspect channels)
-        harmonic_gate = ch_gate if ch_gate and ch_gate != 0 else None
-        harmonic_planet = None
-        if harmonic_gate:
-            harmonic_planet = find_planet_at_gate(design_planets, harmonic_gate)
-            if not harmonic_planet:
-                harmonic_planet = find_planet_at_gate(personality_planets, harmonic_gate)
+        # Find harmonic planet data (check both Design and Personality for cross-aspect channels)
+        harmonic_planet_data = None
+        if ch_gate and ch_gate != 0:
+            # Check design side first
+            for p in design_planets:
+                if p.get('Gate') == ch_gate and p is not planet:
+                    harmonic_planet_data = p
+                    break
+            # If not found, check personality side
+            if not harmonic_planet_data:
+                for p in personality_planets:
+                    if p.get('Gate') == ch_gate:
+                        harmonic_planet_data = p
+                        break
 
         # For self-fixing planets: standard calculation
         if normalized_planet not in GLOBAL_FIXING_PLANETS:
-            result = calculate_dignity_func(
-                gate=gate,
-                line=line,
-                active_planet=planet_name,
-                harmonic_gate=harmonic_gate,
-                harmonic_planet=harmonic_planet,
+            state = calculate_dignity_complete(
+                planet_data=planet,
+                all_planets=all_planets,
+                harmonic_planet_data=harmonic_planet_data,
                 dignity_data=dignity_data
             )
-            state = result.get("state")
-
-            # If neutral, check gate-level fixing
-            if state == "neutral" and str(gate) in dignity_data and str(line) in dignity_data[str(gate)]:
-                line_data = dignity_data[str(gate)][str(line)]
-                exaltation_planets = line_data.get('exaltation_planets', [])
-                detriment_planets = line_data.get('detriment_planets', [])
-
-                planets_in_gate = gate_level_planets.get(gate, set())
-                for exalt_planet in exaltation_planets:
-                    if exalt_planet in planets_in_gate:
-                        state = "exalted"
-                        break
-                if state == "neutral":
-                    for detrim_planet in detriment_planets:
-                        if detrim_planet in planets_in_gate:
-                            state = "detriment"
-                            break
-
             planet['dignity'] = state if state != "neutral" else None
             continue
 
@@ -250,33 +343,12 @@ def add_dignities_to_planets(
             is_retrograde = delta < 0
 
         if same_position or is_retrograde:
-            result = calculate_dignity_func(
-                gate=gate,
-                line=line,
-                active_planet=planet_name,
-                harmonic_gate=harmonic_gate,
-                harmonic_planet=harmonic_planet,
+            state = calculate_dignity_complete(
+                planet_data=planet,
+                all_planets=all_planets,
+                harmonic_planet_data=harmonic_planet_data,
                 dignity_data=dignity_data
             )
-            state = result.get("state")
-
-            # If neutral, check gate-level fixing
-            if state == "neutral" and str(gate) in dignity_data and str(line) in dignity_data[str(gate)]:
-                line_data = dignity_data[str(gate)][str(line)]
-                exaltation_planets = line_data.get('exaltation_planets', [])
-                detriment_planets = line_data.get('detriment_planets', [])
-
-                planets_in_gate = gate_level_planets.get(gate, set())
-                for exalt_planet in exaltation_planets:
-                    if exalt_planet in planets_in_gate:
-                        state = "exalted"
-                        break
-                if state == "neutral":
-                    for detrim_planet in detriment_planets:
-                        if detrim_planet in planets_in_gate:
-                            state = "detriment"
-                            break
-
             planet['dignity'] = state if state != "neutral" else None
         else:
             planet['dignity'] = None
