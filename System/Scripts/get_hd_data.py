@@ -64,142 +64,147 @@ def check_api_health(base_url: str) -> bool:
         return False
 
 
-def load_exaltations_data() -> dict:
-    """Load exaltations/detriments reference data."""
-    # Look for the file in humandesign_api/src/humandesign/data/
+def load_dignity_module():
+    """Import the dignity calculation module from humandesign_api."""
     script_dir = Path(__file__).parent
-    exaltations_path = script_dir / '..' / 'humandesign_api' / 'src' / 'humandesign' / 'data' / 'exaltations_detriments.json'
+    api_src_path = script_dir / '..' / 'humandesign_api' / 'src'
+
+    # Add to path if not already there
+    api_src_str = str(api_src_path.resolve())
+    if api_src_str not in sys.path:
+        sys.path.insert(0, api_src_str)
 
     try:
-        with open(exaltations_path, 'r') as f:
-            return json.load(f)
-    except Exception as e:
-        print(f"Warning: Could not load exaltations data: {e}", file=sys.stderr)
-        return {}
+        from humandesign.features.dignity import calculate_dignity, load_dignity_data
+        return calculate_dignity, load_dignity_data
+    except ImportError as e:
+        print(f"Warning: Could not import dignity module: {e}", file=sys.stderr)
+        return None, None
 
 
-def get_planet_dignity(planet_name: str, gate: int, line: int, exaltations_data: dict) -> str:
-    """
-    Determine if a planet is exalted or in detriment for a given gate.line.
-
-    Simple handshake check: does the planet match the fixing planet for this line?
-    Used for Personality activations and self-fixing Design activations.
-
-    Args:
-        planet_name: Planet name (e.g., "Sun", "North_Node")
-        gate: Gate number
-        line: Line number
-        exaltations_data: Loaded exaltations reference dict
-
-    Returns:
-        "exalted", "detriment", or None
-    """
-    if not exaltations_data or gate is None or line is None:
-        return None
-
-    key = f"{gate}.{line}"
-    entry = exaltations_data.get(key)
-    if not entry:
-        return None
-
-    # Normalize planet name for matching (remove underscores, handle variations)
-    normalized_planet = planet_name.replace('_', ' ')
-
-    # Check exaltation
-    if entry.get('exaltation') == normalized_planet:
-        return 'exalted'
-
-    # Check detriment
-    if entry.get('detriment') == normalized_planet:
-        return 'detriment'
-
+def find_planet_at_gate(planets_list: list, gate: int):
+    """Find which planet activates a specific gate."""
+    for planet in planets_list:
+        if planet.get('Gate') == gate:
+            return planet.get('Planet')
     return None
 
 
-# Two-tier fixing system: "self-fixing" vs "global fixing" planets.
-# Self-fixing (personal) planets stamp dignity at the Design snapshot permanently.
-# Global (ambient) planets only show dignity if still in the same gate.line at birth,
-# OR if the planet went retrograde (longitude decreased from Design to Personality).
-# Retrograde motion preserves the Design imprint; direct motion breaks the fixing.
-GLOBAL_FIXING_PLANETS = {"Jupiter", "Saturn", "Uranus", "Neptune", "Pluto", "North Node", "South Node"}
-
-
-def build_personality_fixing_environment(personality_planets: list, exaltations_data: dict) -> dict:
+def add_dignities_to_planets(
+    personality_planets: list,
+    design_planets: list,
+    calculate_dignity_func,
+    dignity_data: dict
+):
     """
-    Build a lookup of global planet positions at birth.
+    Add dignity information to planet dictionaries using the comprehensive IHDS algorithm.
 
-    Returns dict mapping planet_name -> (gate, line, lon) for global planets only.
+    This includes:
+    - No polarity detection
+    - Juxtaposition (star glyph or double fixing)
+    - Harmonic fixing (channel partner planets)
+    - Two-tier fixing for Design global planets
     """
-    positions = {}
+    if not calculate_dignity_func or not dignity_data:
+        return
+
+    # Two-tier fixing constants
+    GLOBAL_FIXING_PLANETS = {"Jupiter", "Saturn", "Uranus", "Neptune", "Pluto", "North Node", "South Node"}
+
+    # Build personality global positions for Design two-tier fixing
+    personality_global_positions = {}
     for planet in personality_planets:
         name = planet.get('Planet', '').replace('_', ' ')
         if name in GLOBAL_FIXING_PLANETS:
-            positions[name] = (planet.get('Gate'), planet.get('Line'), planet.get('Lon'))
-    return positions
+            personality_global_positions[name] = (
+                planet.get('Gate'),
+                planet.get('Line'),
+                planet.get('Lon')
+            )
 
+    # Add dignity to personality planets (always self-fixing)
+    for planet in personality_planets:
+        planet_name = planet.get('Planet')
+        gate = planet.get('Gate')
+        line = planet.get('Line')
+        ch_gate = planet.get('Ch_Gate', 0)
 
-def _is_retrograde(design_lon: float, personality_lon: float) -> bool:
-    """
-    Determine if a planet went retrograde between Design and Personality snapshots.
+        # Find harmonic planet
+        harmonic_gate = ch_gate if ch_gate and ch_gate != 0 else None
+        harmonic_planet = find_planet_at_gate(personality_planets, harmonic_gate) if harmonic_gate else None
 
-    Retrograde = zodiacal longitude decreased (planet moved backward).
-    Handles 360° wrap-around (e.g., Design 2° → Personality 358° = retrograde).
-    """
-    if design_lon is None or personality_lon is None:
-        return False
-    delta = personality_lon - design_lon
-    # Normalize to [-180, 180] to handle wrap-around
-    if delta > 180:
-        delta -= 360
-    elif delta < -180:
-        delta += 360
-    return delta < 0
+        # Calculate dignity
+        result = calculate_dignity_func(
+            gate=gate,
+            line=line,
+            active_planet=planet_name,
+            harmonic_gate=harmonic_gate,
+            harmonic_planet=harmonic_planet,
+            dignity_data=dignity_data
+        )
 
+        state = result.get("state")
+        planet['dignity'] = state if state != "neutral" else None
 
-def get_design_planet_dignity(
-    planet_name: str, gate: int, line: int, design_lon: float,
-    exaltations_data: dict, personality_global_positions: dict
-) -> str:
-    """
-    Determine dignity for a Design-side activation using the two-tier fixing rule.
+    # Add dignity to design planets (with two-tier fixing for global planets)
+    for planet in design_planets:
+        planet_name = planet.get('Planet')
+        gate = planet.get('Gate')
+        line = planet.get('Line')
+        design_lon = planet.get('Lon')
+        ch_gate = planet.get('Ch_Gate', 0)
+        normalized_planet = planet_name.replace('_', ' ')
 
-    Self-fixing planets (Sun, Earth, Moon, Mercury, Venus, Mars):
-        Standard handshake — if the planet matches the fixing planet, dignity applies.
+        # Find harmonic planet
+        harmonic_gate = ch_gate if ch_gate and ch_gate != 0 else None
+        harmonic_planet = find_planet_at_gate(design_planets, harmonic_gate) if harmonic_gate else None
 
-    Global planets (Jupiter, Saturn, Uranus, Neptune, Pluto, Nodes):
-        Dignity applies if the planet is in the same gate.line at birth,
-        OR if the planet went retrograde between Design and Personality.
-        Direct (forward) motion breaks the fixing.
+        # For self-fixing planets: standard calculation
+        if normalized_planet not in GLOBAL_FIXING_PLANETS:
+            result = calculate_dignity_func(
+                gate=gate,
+                line=line,
+                active_planet=planet_name,
+                harmonic_gate=harmonic_gate,
+                harmonic_planet=harmonic_planet,
+                dignity_data=dignity_data
+            )
+            state = result.get("state")
+            planet['dignity'] = state if state != "neutral" else None
+            continue
 
-    Returns:
-        "exalted", "detriment", or None
-    """
-    if not exaltations_data or gate is None or line is None:
-        return None
+        # For global planets: check two-tier fixing
+        personality_data = personality_global_positions.get(normalized_planet)
+        if personality_data is None:
+            planet['dignity'] = None
+            continue
 
-    normalized_planet = planet_name.replace('_', ' ')
+        prs_gate, prs_line, prs_lon = personality_data
 
-    # Self-fixing planets: standard handshake (same as Personality)
-    if normalized_planet not in GLOBAL_FIXING_PLANETS:
-        return get_planet_dignity(planet_name, gate, line, exaltations_data)
+        # Check if fixing holds (same gate.line or retrograde)
+        same_position = (prs_gate, prs_line) == (gate, line)
+        is_retrograde = False
+        if design_lon is not None and prs_lon is not None:
+            delta = prs_lon - design_lon
+            if delta > 180:
+                delta -= 360
+            elif delta < -180:
+                delta += 360
+            is_retrograde = delta < 0
 
-    # Global planets: check position at birth
-    personality_data = personality_global_positions.get(normalized_planet)
-    if personality_data is None:
-        return None  # Planet not found in Personality data
-
-    prs_gate, prs_line, prs_lon = personality_data
-
-    # Same gate.line at birth — fixing holds
-    if (prs_gate, prs_line) == (gate, line):
-        return get_planet_dignity(planet_name, gate, line, exaltations_data)
-
-    # Different position — check retrograde: backward motion preserves fixing
-    if _is_retrograde(design_lon, prs_lon):
-        return get_planet_dignity(planet_name, gate, line, exaltations_data)
-
-    # Direct motion — fixing lost
-    return None
+        if same_position or is_retrograde:
+            result = calculate_dignity_func(
+                gate=gate,
+                line=line,
+                active_planet=planet_name,
+                harmonic_gate=harmonic_gate,
+                harmonic_planet=harmonic_planet,
+                dignity_data=dignity_data
+            )
+            state = result.get("state")
+            planet['dignity'] = state if state != "neutral" else None
+        else:
+            planet['dignity'] = None
 
 
 def get_hd_chart(
@@ -269,35 +274,20 @@ def get_hd_chart(
     channels_data = api_data.get('channels', {})
     gates_data = api_data.get('gates', {})
 
-    # Load exaltations data for dignity lookup
-    exaltations_data = load_exaltations_data()
+    # Load dignity calculation module and data
+    calculate_dignity_func, load_dignity_data_func = load_dignity_module()
+    dignity_data = load_dignity_data_func() if load_dignity_data_func else {}
 
-    # Add dignity to personality gates (simple handshake — always self-fixing)
+    # Add dignity to personality and design planets
     personality_planets = gates_data.get('prs', {}).get('Planets', [])
-    for planet in personality_planets:
-        planet_name = planet.get('Planet')
-        gate = planet.get('Gate')
-        line = planet.get('Line')
-        dignity = get_planet_dignity(planet_name, gate, line, exaltations_data)
-        planet['dignity'] = dignity
-
-    # Build personality fixing environment for global planet checks
-    personality_global_positions = build_personality_fixing_environment(
-        personality_planets, exaltations_data
-    )
-
-    # Add dignity to design gates (two-tier: self-fixing vs global fixing)
     design_planets = gates_data.get('des', {}).get('Planets', [])
-    for planet in design_planets:
-        planet_name = planet.get('Planet')
-        gate = planet.get('Gate')
-        line = planet.get('Line')
-        design_lon = planet.get('Lon')
-        dignity = get_design_planet_dignity(
-            planet_name, gate, line, design_lon,
-            exaltations_data, personality_global_positions
-        )
-        planet['dignity'] = dignity
+
+    add_dignities_to_planets(
+        personality_planets,
+        design_planets,
+        calculate_dignity_func,
+        dignity_data
+    )
 
     chart_data = {
         'meta': {
