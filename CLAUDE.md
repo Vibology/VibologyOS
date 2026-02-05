@@ -79,6 +79,35 @@ cd System/humandesign_api && uvicorn humandesign.api:app --host 127.0.0.1 --port
 
 See `PROTOCOL - Chart Data Acquisition.md` for full workflow.
 
+### Chart Generation Protocol (CRITICAL — Never Deviate)
+
+**NEVER create custom scripts for chart generation. Use protocol tools ONLY.**
+
+**Standard Workflow:**
+```bash
+# 1. Calculate chart data (stdout → file with protocol names)
+python3 System/Scripts/get_hd_data.py [args] > humandesign.json
+python3 System/Scripts/get_astro_data.py [args] > astrology.json
+
+# 2. Generate visualization (reads humandesign.json → writes bodygraph.svg)
+bash System/Scripts/generate_bodygraph_svg.sh [folder]
+# OR: python3 System/Scripts/generate_chart_visuals.py --output-dir [folder]
+```
+
+**Prohibited Actions:**
+- ❌ Custom filenames (joe_human_design.json, chart.json, client_hd.json, etc.)
+- ❌ Creating temporary generation scripts (generate_bodygraph.py, make_chart.py, etc.)
+- ❌ PNG/JPG formats (bodygraphs are ALWAYS SVG)
+- ❌ Saving visualizations outside source data folder
+
+**Required Standards:**
+- ✅ Input: `humandesign.json` in target directory (never custom names)
+- ✅ Output: `bodygraph.svg` in same directory as JSON source
+- ✅ Format: SVG only (scalable, archival quality, professional print)
+- ✅ Location: Same folder as source data (personal: `~/Personal/Biography/`, clients: `~/Business/Consultations/[ClientName]/`)
+
+**Why this matters:** Protocol compliance ensures data integrity, traceability, and compatibility with all downstream tools. Custom scripts and filenames break the system.
+
 ## 5. The Refinement Cycle (Fetch → Refine → Commit)
 
 - **Phase 1 (Fetch/Scribe):** Pull raw data from NotebookLM. Clinical, objective, tabular.
