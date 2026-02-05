@@ -1,22 +1,22 @@
 # Current Work Context
 
-**Last Updated:** 2026-02-04
-**System Status:** Library complete; **Oracle Deck canonized** (The Astrolabe — 88 cards production-ready); dignity data extraction COMPLETE (64/64 gates, 384/384 lines); **comprehensive dignity calculation IMPLEMENTED** (juxtaposition, harmonic fixing, star symbols)
+**Last Updated:** 2026-02-05
+**System Status:** Library complete; **Oracle Deck canonized** (The Astrolabe — 88 cards production-ready); dignity data extraction COMPLETE (64/64 gates, 384/384 lines); **comprehensive dignity calculation IMPLEMENTED** (juxtaposition, harmonic fixing, star symbols); **Angelology expansion COMPLETE** (Heywood 1635 integrated—5 new/enhanced entries)
 **Current Phase:** Foundation-building — still on the roof, still in observation
 
 ---
 
 ## System Health Summary
 
-### Library (747 files)
+### Library (751 files)
 
 | Metric | Value |
 |--------|-------|
-| Total Files | 747 |
+| Total Files | 751 |
 | Cross-References Coverage | 99.9% |
 | Dead Wikilinks | 0 |
 | YAML Compliance | 100% |
-| Stub Files | 96 (intentional scaffolding) |
+| Stub Files | 95 (intentional scaffolding) |
 
 **All core practice content is 100% complete:**
 - 78 Tarot cards (Major + Minor Arcana)
@@ -24,7 +24,12 @@
 - 192 Incarnation Crosses
 - 12 Astrology Signs + 10 Planets + 12 Houses
 - 64 Window Cards *(restructure to 88-card deck in progress — see below)*
-- 10 Angelic Orders + 10 Archangels
+- **14 Archangels** (Iophiel added 2026-02-05)
+- **12 Zodiacal Angels** (new — 2026-02-05)
+- **9 Orders of Fallen Angels** (new — 2026-02-05)
+- **Lucifugi Classification** (light-fleeing spirits, new — 2026-02-05)
+- **Lucifer** (expanded from stub — 2026-02-05)
+- 10 Angelic Orders
 - Core Jungian Archetypes, Hero's Journey, Alchemical Stages
 
 ### Repository Structure
@@ -134,6 +139,65 @@ Once acquired, scan and add to Grimoire for source-grounded expansion.
 ---
 
 ## Session History
+
+**2026-02-05 (Task #4-5):** Angelology expansion COMPLETE — all 5 Heywood tasks finished
+- **Task #4: Lucifugi - The Light-Fleeing Spirits** (new entry, 4 subcategories)
+  - **Subterranean Spirits (Cobali)** — Mine demons, mountain dwarves, named entities (Annebergius, Snebergius), earthquake causation
+  - **Treasure-Guarding Spirits** — Hoarding demons, phantasmal wealth, cautionary tales (Botcher of Basill, King Cabades, Faustus/Agrippa)
+  - **Domestic & Folkloric Spirits** — Kottri/Kibaldi, Pugs, Hob-goblins, Robin Good-fellow, Fairies; kitchen poltergeists and haunted houses
+  - **The Buttry-Sprite** — Parable of the Cook; spirits that feed on ill-gotten goods, starve on honest gain
+  - Biblical foundation: Isaiah 13:21 & 34:11 (Zijm, Ijim, Satyrs in desolate places)
+  - Discernment table: criteria for distinguishing good angels from evil spirits (forms, actions, physical markers, Cross response)
+  - Jungian parallels: domestication of the demonic, Shadow at household scale, saboteur archetype, greed complexes
+  - Contemporary manifestations: modern Cobali (toxic hustle culture), treasure-guardians (crypto schemes), domestic spirits (smart home surveillance)
+  - 16 footnotes, full Heywood Book 9 citations
+- **Task #5: Lucifer enhancement** (expanded from stub to comprehensive treatise)
+  - **Three-Fold Essence** — Greatness, Wisdom, Beauty mirroring the Trinity (correspondence table)
+  - **Pre-eminence above Archangels** — Ranked above Michael, Raphael, Gabriel; unique *sui generis* position
+  - **Cause of the Fall** — Pride and envy against the Incarnation (God taking human flesh, not angelic); five "I will" declarations (Isaiah 14:13-14)
+  - **Duration of Glory** — Only six days (Creation's span) before rebellion triggered by revelation of Incarnation
+  - **War in Heaven** — Michael's challenge ("Who is like God?"), spiritual weapons (Affection & Consent), Lucifer's defeat (Revelation 12:7-9)
+  - **Three Offenders Structure** — Satan (Malice vs. Holy Spirit, unpardonable), Adam (Weakness vs. Father, pardonable), Eve (Ignorance vs. Son, pardonable)
+  - **Lucifer vs. Satan** — Name change, post-fall titles (Dragon, Beelzebub, Devil, Prince of this World, Belial)
+  - **Qabalistic Position** — Da'at (knowledge that separates), Thaumiel (Qlippoth of Kether, dual contending forces)
+  - **Jungian Analysis** — Inflation, ego-Self identification, envy of the Incarnate, the Luciferian personality (brilliance without humility)
+  - Integration practices: recognize source vs. vessel, bow to Incarnation, distinguish malice from weakness, ask Michael's question
+  - 26 footnotes (Heywood Book 6 + Jung CW 7)
+- **Result:** Angelology pillar now complete with Renaissance demonology (Heywood 1635) integrated alongside traditional sources (Pseudo-Dionysius, Davidson, Wang)
+- **Library expansion:** 750 → 751 files (1 new entry + 1 stub expansion)
+- **Full series completion:** 5/5 Heywood tasks finished
+  1. ✓ Iophiel (Archangel of Monotheistic Illumination)
+  2. ✓ The Nine Orders of Fallen Angels (systematic demonic hierarchy)
+  3. ✓ The Twelve Zodiacal Angels (astrology-angelology bridge)
+  4. ✓ Lucifugi (tertiary light-fleeing spirits classification)
+  5. ✓ Lucifer (comprehensive pre-fall theology and Shadow analysis)
+
+**2026-02-05 (Tasks #1-3):** Angelology Library expansion — Heywood source material integrated
+- **Objective:** Extract unique angelological content from Thomas Heywood's *The Hierarchie of the Blessed Angells* (1635) to expand Angelology pillar
+- **Source acquisition:**
+  - Replaced corrupted OCR text file with clean XML from Text Creation Partnership (GitHub repository A03207)
+  - 2.2MB TEI-encoded scholarly transcription (27,158 lines) — far superior to original 1.3MB single-line OCR file
+  - Full text available under CC0 1.0 Universal license (public domain)
+- **Completed extractions (3 of 5 tasks):**
+  1. **Iophiel.md** — New archangel entry (not in existing library)
+     - Archangel of Monotheistic Illumination presiding over Heywood Book 2
+     - Corresponds to Cherubim order and Chokmah (Wisdom) on Tree of Life
+     - Function: Illuminates Divine Unity, expels false understanding
+     - 8 footnotes citing Heywood Book 2 + supporting sources (Wang, Davidson, Ezekiel)
+     - Complete YAML frontmatter, Chokmah attributes table, Jungian parallels, invocation practices
+  2. **The Nine Orders of Fallen Angels.md** — Complete demonic hierarchy (parallel to angelic nine orders)
+     - Systematic classification from Heywood Book 7 (Camael), lines 18543-18594
+     - Nine orders with princes: Beelzebub (false gods), Python (lies), Belial (wrath), Asmodeus (accusation), Sathan (fraud), Merasin (weather), Abaddon (war), Astaroth (spies), Maimon (temptation)
+     - Each order analyzed: function, domain, modern manifestations, Jungian parallels, shadow aspects
+     - 12 footnotes, complete theological implications section, integration/discernment practices
+  3. **The Twelve Zodiacal Angels.md** — Complete zodiacal correspondence system (not in existing library)
+     - Extracted from Heywood Book 5 (Haniel), lines 10036-10087
+     - Twelve princes organized by four quaternions (fire/earth/water/air): Malkhidael (Aries), Asmodes (Taurus), Ambriel (Gemini), Manuel (Cancer), Varchiel (Leo), Hamabiel (Virgo), Zaniel (Libra), Barchiel (Scorpio), Adnachiel (Sagittarius), Hannuel (Capricorn), Cabriel (Aquarius), Varchiel (Pisces)
+     - Full astrological correspondences: ruling planets, tribes of Israel, body parts, Tarot, qualities mediated
+     - 14 footnotes, integration practices (birth chart as angelic map, transit invocations, seasonal attunement)
+- **Citation methodology:** All entries use proper Markdown footnote format (`[^1]`, `[^2]`, etc.) per Library standards (RUBRIC - Library Content Standard.md)
+- **Library expansion:** 747 → 750 files (3 new Angelology entries)
+- **Cross-pillar integration:** Zodiacal Angels entry creates direct bridge between Angelology and Astrology pillars
 
 **2026-02-04 (Night - Final):** Personal chart analysis and bodygraph generation
 - Generated bodygraph.svg from ~/Personal/Biography/humandesign.json (protocol compliance verified)

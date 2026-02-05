@@ -13,7 +13,6 @@ expansion_needed: true
 > **Note:** This entry is a structural stub. Core framework established; detailed content pending.
 
 ---
-
 ## Overview
 
 **Vibology** is the integrated framework that unifies seven esoteric wisdom traditions into a single navigational system for consciousness. The name evokes both "vibration" (the energetic substrate of reality) and "logos" (systematic knowledge)—the marriage of felt experience and structural understanding.
@@ -21,7 +20,6 @@ expansion_needed: true
 At its core, Vibology rests on a fundamental premise: **no single wisdom tradition captures the whole truth**. Each tradition—Astrology, Human Design, Tarot, Angelology, Personal Mythos, The Window, and The Magdalene Path—offers a unique coordinate for mapping consciousness. Together, they create **triangulated gnosis**: verified insight that emerges only through cross-system synthesis.
 
 ---
-
 ## Core Principles
 
 ### 1. Anima et Algorithm
@@ -62,7 +60,6 @@ This is not coincidence but **structural correspondence**—different lenses vie
 *See: [[The Blueprint - 444 Architecture]]*
 
 ---
-
 ## The Seven Pillars
 
 | Pillar | Primary Question | Unique Contribution |
@@ -76,7 +73,6 @@ This is not coincidence but **structural correspondence**—different lenses vie
 | [[The Window]] | How do ancient patterns manifest today? | Contemporary translation |
 
 ---
-
 ## Methodology
 
 ### Fetch → Refine → Commit
@@ -92,7 +88,6 @@ Using multiple systems to verify insight:
 - Synthesis produces insight no single system could reveal
 
 ---
-
 ## Cross-References
 
 - [[Anima et Algorithm]] — The foundational paradigm
