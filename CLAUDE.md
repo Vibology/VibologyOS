@@ -66,14 +66,13 @@ python3 System/Scripts/get_astro_data.py \
   --hour H --minute M --lat LAT --lng LNG \
   --timezone "America/New_York" --pretty > astrology.json
 
-# Human Design (requires HD API running on port 9021)
+# Human Design (API auto-starts if not running)
 python3 System/Scripts/get_hd_data.py \
   --name "Name" --year YYYY --month M --day D \
-  --hour H --minute M --lat LAT --lng LNG --pretty > humandesign.json
-
-# Start HD API if needed
-cd System/humandesign_api && uvicorn humandesign.api:app --host 127.0.0.1 --port 9021 &
+  --hour H --minute M --place "City, Country" --pretty > humandesign.json
 ```
+
+**IMPORTANT:** For Human Design, always use `--place "City, Country"` format (e.g., "New York, USA" or "Kaposvar, Hungary"). The API geocodes the location and determines timezone automatically. The script will start the HD API if not already running.
 
 **Required from user:** Birth date, time, location. **Not required:** Pre-calculated charts.
 

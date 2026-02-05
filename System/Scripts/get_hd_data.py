@@ -7,13 +7,9 @@ Usage:
     python get_hd_data.py --name "Name" --year 1990 --month 6 --day 15 \
                           --hour 12 --minute 0 --place "New York, USA"
 
-    # Or with coordinates instead of place name:
-    python get_hd_data.py --name "Name" --year 1990 --month 6 --day 15 \
-                          --hour 12 --minute 0 --lat 40.7128 --lng -74.0060
-
 Prerequisites:
-    - humandesign_api running on localhost:9021
-    - HD_API_TOKEN set in environment or .env file
+    - HD_API_TOKEN set in environment or .env file (optional)
+    - Script will automatically start the API if not running
 
 Output: JSON to stdout with full HD chart data including exaltation/detriment dignities
 """
@@ -21,7 +17,9 @@ Output: JSON to stdout with full HD chart data including exaltation/detriment di
 import argparse
 import json
 import os
+import subprocess
 import sys
+import time
 from datetime import datetime
 from urllib.parse import urlencode
 from pathlib import Path
@@ -61,6 +59,53 @@ def check_api_health(base_url: str) -> bool:
         response = httpx.get(f"{base_url}/health", timeout=5.0)
         return response.status_code == 200
     except Exception:
+        return False
+
+
+def start_api_server(port: int = 9021) -> bool:
+    """
+    Start the HD API server if not already running.
+
+    Returns:
+        True if server started successfully or is already running
+        False if startup failed
+    """
+    script_dir = Path(__file__).parent
+    api_dir = script_dir / '..' / 'humandesign_api'
+    api_dir = api_dir.resolve()
+
+    if not api_dir.exists():
+        print(f"Error: humandesign_api directory not found at {api_dir}", file=sys.stderr)
+        return False
+
+    # Start the API in the background
+    try:
+        print(f"Starting HD API on port {port}...", file=sys.stderr)
+
+        # Start uvicorn in the background
+        process = subprocess.Popen(
+            ['uvicorn', 'humandesign.api:app', '--host', '127.0.0.1', '--port', str(port)],
+            cwd=str(api_dir),
+            stdout=subprocess.DEVNULL,
+            stderr=subprocess.DEVNULL,
+            start_new_session=True  # Detach from parent process
+        )
+
+        # Wait up to 10 seconds for API to be ready
+        for i in range(20):
+            time.sleep(0.5)
+            if check_api_health(f"http://127.0.0.1:{port}"):
+                print(f"HD API started successfully (PID: {process.pid})", file=sys.stderr)
+                return True
+
+        print("Error: API started but health check failed", file=sys.stderr)
+        return False
+
+    except FileNotFoundError:
+        print("Error: uvicorn not found. Install with: pip install uvicorn", file=sys.stderr)
+        return False
+    except Exception as e:
+        print(f"Error starting API: {e}", file=sys.stderr)
         return False
 
 
@@ -358,8 +403,7 @@ def get_hd_chart(
     name: str,
     year: int, month: int, day: int,
     hour: int, minute: int,
-    place: str = None,
-    lat: float = None, lng: float = None,
+    place: str,
     base_url: str = DEFAULT_API_URL
 ) -> dict:
     """
@@ -369,8 +413,7 @@ def get_hd_chart(
         name: Subject name (for identification)
         year, month, day: Birth date
         hour, minute: Birth time (local time)
-        place: Place name (e.g., "New York, USA") - uses geocoding
-        lat, lng: Geographic coordinates (alternative to place)
+        place: Place name (e.g., "New York, USA" or "Kaposvar, Hungary")
         base_url: API base URL
 
     Returns:
@@ -385,15 +428,8 @@ def get_hd_chart(
         'day': day,
         'hour': hour,
         'minute': minute,
+        'place': place
     }
-
-    if place:
-        params['place'] = place
-    elif lat is not None and lng is not None:
-        # humandesign_api requires place string, construct one
-        params['place'] = f"{lat},{lng}"
-    else:
-        raise ValueError("Either 'place' or both 'lat' and 'lng' must be provided")
 
     # Make API request
     headers = {
@@ -491,9 +527,7 @@ def main():
     parser.add_argument('--day', type=int, required=True, help='Birth day (1-31)')
     parser.add_argument('--hour', type=int, required=True, help='Birth hour (0-23)')
     parser.add_argument('--minute', type=int, default=0, help='Birth minute (0-59)')
-    parser.add_argument('--place', help='Birth place (e.g., "New York, USA")')
-    parser.add_argument('--lat', type=float, help='Latitude (alternative to --place)')
-    parser.add_argument('--lng', type=float, help='Longitude (alternative to --place)')
+    parser.add_argument('--place', required=True, help='Birth place (e.g., "New York, USA" or "Kaposvar, Hungary")')
     parser.add_argument('--api-url', default=DEFAULT_API_URL, help='API base URL')
     parser.add_argument('--pretty', action='store_true', help='Pretty-print JSON output')
     parser.add_argument('--check', action='store_true', help='Only check API health')
@@ -510,22 +544,20 @@ def main():
             sys.exit(1)
 
     # Validate inputs
-    if not args.place and (args.lat is None or args.lng is None):
-        print("Error: Either --place or both --lat and --lng must be provided", file=sys.stderr)
-        sys.exit(1)
-
     if not (1800 <= args.year <= 2399):
         print(f"Error: Year {args.year} outside valid range (1800-2399)", file=sys.stderr)
         sys.exit(1)
 
-    # Check API availability
+    # Ensure API is running (start if needed)
     if not check_api_health(args.api_url):
-        print(json.dumps({
-            'error': 'HD API not reachable',
-            'url': args.api_url,
-            'hint': 'Start the API with: cd humandesign_api && uvicorn humandesign.api:app --port 9021'
-        }), file=sys.stderr)
-        sys.exit(1)
+        print("HD API not running, attempting to start...", file=sys.stderr)
+        if not start_api_server():
+            print(json.dumps({
+                'error': 'Failed to start HD API',
+                'url': args.api_url,
+                'hint': 'Try manually: cd System/humandesign_api && uvicorn humandesign.api:app --port 9021'
+            }), file=sys.stderr)
+            sys.exit(1)
 
     try:
         chart_data = get_hd_chart(
@@ -536,8 +568,6 @@ def main():
             hour=args.hour,
             minute=args.minute,
             place=args.place,
-            lat=args.lat,
-            lng=args.lng,
             base_url=args.api_url
         )
 
