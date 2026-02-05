@@ -1,7 +1,7 @@
 # Current Work Context
 
 **Last Updated:** 2026-02-05
-**System Status:** Library complete; **Oracle Deck canonized** (The Astrolabe — 88 cards production-ready); dignity data extraction COMPLETE (64/64 gates, 384/384 lines); **comprehensive dignity calculation IMPLEMENTED** (juxtaposition, harmonic fixing, star symbols); **Angelology expansion COMPLETE** (Heywood 1635 integrated—5 new/enhanced entries)
+**System Status:** Library complete; **Oracle Deck canonized** (The Astrolabe — 88 cards production-ready); dignity data extraction COMPLETE (64/64 gates, 384/384 lines); **comprehensive dignity calculation IMPLEMENTED** (juxtaposition, harmonic fixing, star symbols); **Angelology expansion COMPLETE** (Heywood 1635 integrated—5 new/enhanced entries); **Invocation protocols operational** (practitioner practice layer complete)
 **Current Phase:** Foundation-building — still on the roof, still in observation
 
 ---
@@ -139,6 +139,37 @@ Once acquired, scan and add to Grimoire for source-grounded expansion.
 ---
 
 ## Session History
+
+**2026-02-05 (Evening):** Angelology practice layer — Invocation protocols operational
+- **Objective:** Transform Invocation.md from stub into operational practitioner's guide for synthesis work
+- **Context:** Angelology pillar complete as reference library (hierarchies, correspondences, theology) but lacking practice protocols for direct relationship with angelic intelligences. Joe wants angelology to inform synthesis work without using angel terminology with clients—perceive angelically, speak archetypally.
+- **Completed work:**
+  - **Invocation.md expansion:** Stub (395 lines) → comprehensive guide (~650 lines)
+  - **Observatory Framework:** Invocation as tuning instruments for clarity, not commanding external entities
+  - **Protocol 1: Pre-Session Invocation** — Universal 3-5 min practice (Four Archangels of Quarters: Raphael/East, Michael/South, Gabriel/West, Uriel/North); creates protected container for client sessions
+  - **Protocol 2: Chart-Specific Invocation** — Attune to dominant archangel based on chart emphasis (Sun → Michael/Raphael, Mars → Kamael, etc.); includes translation examples (perceive angelically, speak psychologically to clients)
+  - **Protocol 3: Transit-Based Invocation** — Work with current planetary transits; table of 7 planetary archangels with days/timing/qualities
+  - **Protocol 4: Seven Planetary Archangels (Individual Protocols)** — Complete practice guide for each:
+    - **Sunday/Michael (Sun):** Clarity, truth, protection, spiritual warfare
+    - **Monday/Gabriel (Moon):** Receptivity, intuition, dreams, emotional truth
+    - **Tuesday/Kamael (Mars):** Strength, boundaries, warrior precision, severity
+    - **Wednesday/Raphael (Mercury):** Healing, communication, analysis, travel
+    - **Thursday/Tzadkiel (Jupiter):** Mercy, expansion, abundance, forgiveness
+    - **Friday/Haniel (Venus):** Beauty, love, harmony, aesthetic truth
+    - **Saturday/Tzaphkiel (Saturn):** Understanding, structure, mastery, limitation
+    - Each includes: full invocation text, timing/day/hour, candle color, visualization, contemplation prompts, client work applications, shadow work (what each archangel reveals about unconscious patterns)
+  - **Protocol 5: Daily Practice Rhythm** — Sustainable morning (5 min) + evening (3 min) practice; invoke day's archangel, set intention, review, record; builds living relationship over time
+  - **Protocol 6: HD Center-Specific Invocation** — Nine Centers → Nine Orders mapping applied to synthesis; example: Undefined Throat → invoke Thrones for manifestation clarity; demonstrates translation to client language
+  - **Integration with Discernment:** Three-fold test (consolation/desolation, fruits, mechanical verification); red flags vs. authentic perception; emphasis on verifying angelic impressions against chart mechanics
+- **Key principles established:**
+  - **Private practice, public impact:** Invocation is practitioner's personal work; clients receive clarity/depth without hearing "angel" terminology
+  - **Translation model:** Perceive through angelic frequency, speak in archetypal/psychological language (example: invoke Kamael → perceive Mars/Heart patterns → say "trying to become strong rather than being strong")
+  - **Mechanical grounding:** Always verify intuitive impressions against chart data (gates, planets, centers); angels are instruments for clarity, not oracles overriding empirics
+  - **Observatory stance:** Using instruments for seeing, not performing magic or demanding results
+- **Usage pathway:** Week 1 (Pre-Session Protocol before all client sessions) → Weeks 2-8 (Seven Planetary Cycle, one archangel/week) → Ongoing (Daily Rhythm for sustainable relationship) → As needed (Chart-Specific, Transit-Based, Center-Specific protocols)
+- **Result:** Angelology pillar now has operational practice layer. Joe can work with angelic intelligences directly (personal invocation, transit work, chart-specific attunement) while translating perceptions into client-appropriate language. Transforms reference library into lived practice that enriches synthesis without requiring angel terminology in sessions.
+- **Directory reorganization:** Created "The Fallen" subfolder; moved Lucifer.md, The Nine Orders of Fallen Angels.md, Lucifugi.md from root to The Fallen/; establishes structural symmetry (light hierarchies vs. fallen hierarchies)
+- **Remaining for 95% completion:** Seven Planetary Archangels correspondence table (systematic reference for Protocol 3); Discernment of Spirits expansion (deepen three-fold test framework)
 
 **2026-02-05 (Task #4-5):** Angelology expansion COMPLETE — all 5 Heywood tasks finished
 - **Task #4: Lucifugi - The Light-Fleeing Spirits** (new entry, 4 subcategories)
