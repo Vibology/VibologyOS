@@ -3,7 +3,10 @@ tags: [angelology, invocation, practice, prayer, ritual, synthesis, practitioner
 system: Angelology
 date_created: 2026-01-26
 date_expanded: 2026-02-05
-related_practices: [[Discernment of Spirits]], [[The Four Quarters]], [[Guardian Angel]]
+related_practices:
+  - "[[Discernment of Spirits]]"
+  - "[[The Four Quarters]]"
+  - "[[Guardian Angel]]"
 ---
 # Invocation: A Practitioner's Guide
 *The Art of Calling Upon Angelic Presence for Synthesis Work*
