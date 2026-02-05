@@ -1,7 +1,7 @@
 # Current Work Context
 
 **Last Updated:** 2026-02-04
-**System Status:** Library complete; Oracle Deck Phase 3 complete (88 cards built); dignity data extraction COMPLETE (64/64 gates, 384/384 lines); **comprehensive dignity calculation IMPLEMENTED** (juxtaposition, harmonic fixing, star symbols)
+**System Status:** Library complete; **Oracle Deck canonized** (The Astrolabe — 88 cards production-ready); dignity data extraction COMPLETE (64/64 gates, 384/384 lines); **comprehensive dignity calculation IMPLEMENTED** (juxtaposition, harmonic fixing, star symbols)
 **Current Phase:** Foundation-building — still on the roof, still in observation
 
 ---
@@ -36,14 +36,15 @@ VibologyOS/
 ├── Synthesis/General/ (template only - ready for new work)
 ├── System/
 │   ├── NEXT.md (this file)
-│   ├── Protocols (6 active)
+│   ├── Protocols (7 active)
 │   ├── Templates (manifests + semantic system)
-│   ├── Scripts (6 essential chart tools)
+│   ├── Scripts (7 essential chart tools)
 │   └── Audit Logs/
-└── .archive/ (historical records)
+└── .archive/ (64 KB - NEXT.md archive only)
 ```
 
 **Client work:** `~/Business/Consultations/`
+**Repository size:** ~126 MB (optimized from 219 MB)
 
 ---
 
@@ -54,26 +55,27 @@ VibologyOS/
 - Library verified and cross-referenced
 - Follow `PROTOCOL - Client Work.md`
 
-### 2. Oracle Deck Restructure (Active)
+### 2. Oracle Deck — The Astrolabe (Canon)
 
-**The Window → The Astrolabe — 88-card Oracle Deck**
+**The Astrolabe — 88-card Oracle Deck (Production-Ready)**
 
-The Window is being rebuilt from the ground up. The current 64-card system forced gates into interpretive categories rather than honoring what they are. The restructure separates the interpretive layer from the 64-fold architecture.
+The Window was rebuilt from the ground up. The previous 64-card system forced gates into interpretive categories rather than honoring what they are. The Astrolabe separates the interpretive layer from the 64-fold architecture.
 
-**New structure (88 cards):**
+**Structure (88 cards):**
 - **The Athanor** (24 cards): The Materia (5) + The Furnace (7) + The Archetypes (12)
 - **The Codex** (64 cards): 8 trigram families × 8 cards, each named for what the gate/hexagram/key actually is
 
-**Decisions made:** Structure, part names, sub-groups, card counts, trigram family organization (lower trigram)
-**All Phase 0 decisions resolved (2026-02-03):**
+**All Phase 0-3 decisions finalized:**
 - Deck name: **The Astrolabe** (Greek *astrolabon*, "star-taker")
 - Card naming: I-Ching hexagram name, best English translation (1-2 words); 13 reworked from Wilhelm
 - Trigram families: English image names (Heaven, Earth, Thunder, Water, Mountain, Wind, Fire, Lake)
 - Archetype gate resonances: Full detachment — Archetypes are zodiacal/Jungian only; gates belong to the Codex
+- All 88 cards built and cross-referenced (Phase 3 complete 2026-02-03)
 
+**Status:** Canonized 2026-02-04. Current Astrolabe synthesis is production-ready.
 **Planning document:** `System/PLAN - Oracle Deck Restructure.md`
 
-Current Window content (76 files) will be archived when build begins. The work was the necessary 29-46 commitment through which the need for precision became visible.
+Old Window content (76 files) archived at `.archive/Library/The Window/`. The work was the necessary 29-46 commitment through which the need for precision became visible.
 
 ### 3. Library Expansion
 
@@ -99,15 +101,16 @@ Once acquired, scan and add to Grimoire for source-grounded expansion.
   - Individual gate files: `gate_1_complete.json` through `gate_64_complete.json` (committed for granular version control)
   - Merged into comprehensive `exaltations_detriments.json` for humandesign_api
   - Special cases documented: 3 no polarity lines (5.6, 25.4, 54.4), 6 partial polarity lines (37.1, 47.5, 47.6, 54.5, 57.3, 58.2)
-  - Replaces previous incomplete/erroneous dignity data
-  - Errata tracking: `humandesign_api/EXALTATION_DETRIMENT_ERRATA.md`
+  - Source: JSON data from Definitive Book (authoritative)
 - **Implementation:** Full IHDS algorithm with juxtaposition & harmonic fixing (see session history 2026-02-04 Evening)
-  - New comprehensive calculation module: `humandesign_api/src/humandesign/features/dignity.py`
+  - Comprehensive calculation module: `humandesign_api/src/humandesign/features/dignity.py`
   - Four dignity states: exalted, detriment, juxtaposed (⭐), neutral
   - Harmonic fixing: channel partner planets affect each other
   - Juxtaposition detection: star glyph OR double fixing (opposite polarities)
+  - Gate-level fixing and failed juxtaposition rules (see `System/Scripts/get_hd_data.py`)
   - Unit tests: 18 tests passing (no polarity, harmonic fixing, juxtaposition, partial polarity)
   - Production-ready: bodygraph rendering, client script, API integration complete
+  - **Code cleanup (2026-02-04 Night):** Removed 74 lines of incorrect two-tier fixing and retrograde detection assumptions from `chart_renderer.py`
 
 ### 4. New Synthesis Work
 - `Synthesis/General/` ready for new pieces
@@ -123,14 +126,55 @@ Once acquired, scan and add to Grimoire for source-grounded expansion.
 | `CLAUDE.md` | Core governance (V4.8) |
 | `PROTOCOL - Client Work.md` | Full client workflow |
 | `PROTOCOL - Chart Data Acquisition.md` | Chart calculation |
+| `PROTOCOL - Chart Generation.md` | Bodygraph generation protocol |
 | `RUBRIC - Library Content Standard.md` | Quality tiers |
-| `humandesign_api/EXALTATION_DETRIMENT_ERRATA.md` | Dignity data corrections log |
 | `INDEX - System Documentation.md` | Full docs navigation |
 | `PLAN - Oracle Deck Restructure.md` | 88-card deck rebuild plan |
 
 ---
 
 ## Session History
+
+**2026-02-04 (Late Evening/Night):** Repository optimization, protocol enforcement, and code cleanup
+- **Bodygraph visual rollback:** Removed alchemical symbols from panel headers, changed "Persona" to "Personality", reduced header font size by 2px
+  - Submodule commit: e70e76e (humandesign_api)
+  - Parent commit: b53c104 (VibologyOS)
+- **Chart Generation Protocol enforcement:** Implemented defense-in-depth to prevent future protocol deviations
+  - **Cognitive guardrail:** Updated `CLAUDE.md` with explicit Chart Generation Protocol section
+    - Prohibited: custom filenames, temporary scripts, PNG/JPG formats
+    - Required: humandesign.json → bodygraph.svg (always SVG format)
+  - **Mechanical guardrail:** Created `System/Scripts/generate_bodygraph_svg.sh` wrapper script
+    - Validates humandesign.json exists before generation
+    - Enforces protocol-compliant naming and output location
+    - User's personal chart renamed to `~/Personal/Biography/humandesign.json` (protocol-compliant)
+- **Comprehensive archive cleanup:** Reduced repository archive from 93 MB to 64 KB (99.93% reduction)
+  - Deleted completed extraction project: `.archive/dignity_extraction_2026-02` (91 MB)
+  - Deleted migrated Window content: `.archive/Library/The Window/` (1.1 MB - already rebuilt as The Astrolabe)
+  - Deleted completed system plans: `.archive/System/` (332 KB - Personal Mythos, Angelology expansions complete)
+  - Deleted temporary prima materia files: `.archive/prima_materia/` (52 KB)
+  - Retained only: `.archive/NEXT-archive-2026-01-27.md` (64 KB - historical session log)
+- **Repository optimization:** Removed binary font files from git tracking
+  - Removed `Library/Fonts/Symbola.ttf` (2.3 MB) and `Library/Fonts/NotoSansSymbols[wght].ttf` (222 KB)
+  - Added `*.ttf` and `*.otf` to `.gitignore` (rely on system fonts)
+  - Moved misplaced documentation to correct System/ location
+  - **Result:** Repository size reduced from 219 MB to ~126 MB (42.5% reduction)
+- **Obsolete dignity documentation cleanup:**
+  - Deleted `System/Human Design API Logic and Planetary Fixes.md` (superseded by working implementation in `get_hd_data.py`)
+  - Deleted `System/humandesign_api/EXALTATION_DETRIMENT_ERRATA.md` (incorrect discoveries: two-tier fixing, retrograde rules)
+  - Removed 74 lines of incorrect code from `chart_renderer.py`:
+    - Deleted GLOBAL_FIXING_PLANETS constant
+    - Deleted build_personality_fixing_environment() function
+    - Deleted _is_retrograde() function
+    - Deleted get_design_planet_dignity() wrapper function
+  - **Retained correct extra rules:** Gate-level fixing and failed juxtaposition logic in `get_hd_data.py` (working as designed)
+  - Submodule commit: 0ed9950 (humandesign_api)
+  - Parent commit: 02c9b0b (VibologyOS)
+- **Oracle Deck canonization:** User confirmed current Astrolabe synthesis is production-ready
+  - All 88 cards (24 Athanor + 64 Codex) finalized
+  - Window → Astrolabe migration complete
+- **Repository health:** All changes committed and pushed successfully
+  - 7 commits total across session (5 humandesign_api submodule, 2 parent repo)
+  - Git status clean, protocols enforced, code streamlined
 
 **2026-02-04 (Evening):** Comprehensive dignity calculation IMPLEMENTED — full IHDS algorithm with juxtaposition & harmonic fixing
 - **Objective:** Implement complete dignity calculation algorithm from "Human Design API Logic and Planetary Fixes.md"
