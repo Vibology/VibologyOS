@@ -35,6 +35,8 @@ The keynote is **role-based leadership for collective order**. This is the G Cen
 |-----------|----------------|
 | **Gate Number** | 7 |
 | **I-Ching Hexagram** | 7 - ䷆ The Army / Leading |
+| **Astrological Span** | 13°15'00" Leo - 18°52'30" Leo |
+| **I-Ching Trigram** | Water (☵) - Depth, danger, the abyss |
 | **Center** | G Center (Identity, Direction, Love) |
 | **Circuitry** | Collective - Logic Circuit (Understanding) |
 | **Channel** | 7-31 (The Alpha) - G to Throat |

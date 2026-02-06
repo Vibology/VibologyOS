@@ -35,6 +35,8 @@ The keynote is **ordering through challenge**. This is the Sacral's capacity to 
 |-----------|----------------|
 | **Gate Number** | 3 |
 | **I-Ching Hexagram** | 3 - ䷂ Difficulty at the Beginning / Sprouting |
+| **Astrological Span** | 26°22'30" Aries - 02°00'00" Taurus |
+| **I-Ching Trigram** | Thunder (☳) - Arousing, shock, movement |
 | **Center** | Sacral (Life Force, Fertility, Response) |
 | **Circuitry** | Individual - Knowing Circuit (Mutation) |
 | **Channel** | 3-60 (Mutation) - Sacral to Root |

@@ -35,6 +35,8 @@ The keynote is **creative contribution through individual style**. This is the T
 |-----------|----------------|
 | **Gate Number** | 8 |
 | **I-Ching Hexagram** | 8 - ䷇ Holding Together / Union |
+| **Astrological Span** | 24°30'00" Taurus - 00°07'30" Gemini |
+| **I-Ching Trigram** | Earth (☷) - Receptive, yielding, grounding |
 | **Center** | Throat (Manifestation, Voice, Action) |
 | **Circuitry** | Individual - Knowing Circuit (Mutation) |
 | **Channel** | 1-8 (Inspiration) - G to Throat |

@@ -35,6 +35,8 @@ The keynote is **direction through receptivity**. Unlike Gate 1's initiating cre
 | -------------------- | ------------------------------------------------------------------------------------------ |
 | **Gate Number**      | 2                                                                                          |
 | **I-Ching Hexagram** | 2 - ䷁ The Receptive / The Receptive Earth                                                  |
+| **Astrological Span** | 13°15'00" Taurus - 18°52'30" Taurus |
+| **I-Ching Trigram** | Earth (☷) - Receptive, yielding, grounding |
 | **Center**           | G Center (Identity, Direction, Love)                                                       |
 | **Circuitry**        | Individual - Knowing Circuit (Mutation)                                                    |
 | **Channel**          | 2-14 (The Beat) - G to Sacral                                                              |

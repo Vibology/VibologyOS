@@ -35,6 +35,8 @@ The keynote is **behavior as self-love**. This is the G Center's capacity to kno
 |-----------|----------------|
 | **Gate Number** | 10 |
 | **I-Ching Hexagram** | 10 - ䷉ Treading / Conduct |
+| **Astrological Span** | 28°15'00" Sagittarius - 03°52'30" Capricorn |
+| **I-Ching Trigram** | Lake (☱) - Joyous, open, expressive |
 | **Center** | G Center (Identity, Direction, Love) |
 | **Circuitry** | Integration / Centering Circuit |
 | **Channels** | 10-20 (Awakening), 10-34 (Exploration), 10-57 (Perfected Form) |

@@ -35,6 +35,8 @@ The keynote is **formulization through mental agility**. This is the Ajna's capa
 |-----------|----------------|
 | **Gate Number** | 4 |
 | **I-Ching Hexagram** | 4 - ䷃ Youthful Folly / Inexperience |
+| **Astrological Span** | 18°52'30" Leo - 24°30'00" Leo |
+| **I-Ching Trigram** | Water (☵) - Depth, danger, the abyss |
 | **Center** | Ajna (Mental Awareness, Conceptualization) |
 | **Circuitry** | Collective - Logic Circuit (Understanding) |
 | **Channel** | 4-63 (Logic) - Ajna to Head |

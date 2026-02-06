@@ -35,6 +35,8 @@ The keynote is **potential fulfilled through detailed attention**. This is the S
 |-----------|----------------|
 | **Gate Number** | 9 |
 | **I-Ching Hexagram** | 9 - ䷈ The Taming Power of the Small / Small Accumulation |
+| **Astrological Span** | 05°45'00" Sagittarius - 11°22'30" Sagittarius |
+| **I-Ching Trigram** | Heaven (☰) - Pure yang, creative force doubled |
 | **Center** | Sacral (Life Force, Fertility, Response) |
 | **Circuitry** | Collective - Logic Circuit (Understanding) |
 | **Channel** | 9-52 (Concentration) - Sacral to Root |
