@@ -876,7 +876,7 @@ Wait like Ilya when:
 **Primary Slavic/Eastern European Sources:**
 Core mythological narratives (cosmology, pantheon, and folk tales) are drawn from Slavic and Eastern European folklore including Russian fairy tales (Vasilisa, Firebird), Polish legends, Baltic mythology (Latvian, Lithuanian), and Carpathian traditions. Primary collections include Afanasyev's *Russian Fairy Tales* and regional folklore compendiums. These oral traditions preserve pre-Christian Slavic mythology and inform the archetypal framework.
 
-#### Vibrology Synthesis
-All Jungian archetypal analysis (interpreting Slavic myths through the lens of Shadow, Anima/Animus, Self, Individuation, etc.) represents scholarly synthesis rather than traditional Slavic understanding. Cross-system correspondences (Tarot, Astrology, Alchemy, Human Design, Qabalah) are Vibrology's integrative framework, not part of the original Slavic tradition. The alchemical correlations (Baba Yaga's trials as Nigredo, Firebird as Rubedo) apply Western hermetic symbolism to Slavic narrative patterns.
+#### Vibology Synthesis
+All Jungian archetypal analysis (interpreting Slavic myths through the lens of Shadow, Anima/Animus, Self, Individuation, etc.) represents scholarly synthesis rather than traditional Slavic understanding. Cross-system correspondences (Tarot, Astrology, Alchemy, Human Design, Qabalah) are Vibology's integrative framework, not part of the original Slavic tradition. The alchemical correlations (Baba Yaga's trials as Nigredo, Firebird as Rubedo) apply Western hermetic symbolism to Slavic narrative patterns.
 
 ---

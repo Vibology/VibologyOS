@@ -897,7 +897,7 @@ Jung: *"The alchemical vessel is the psyche itself. The fire is suffering. The w
 **Primary Taoist Sources:**
 Core mythological narratives (cosmology, pantheon, immortals, and alchemical practices) are drawn from canonical Taoist sources including the *Tao Te Ching* (Laozi), *Zhuangzi*, *I Ching* (Book of Changes), *Neiye* (Inward Training), and texts of religious Taoism (*Daozang*). These texts span philosophical and religious Taoist traditions and inform the archetypal framework.
 
-#### Vibrology Synthesis
-All Jungian archetypal analysis (interpreting Taoist myths through the lens of Shadow, Anima/Animus, Self, Individuation, etc.) represents scholarly synthesis rather than traditional Taoist understanding. Cross-system correspondences (Tarot, Astrology, Western Alchemy, Human Design, Qabalah) are Vibrology's integrative framework, not part of the original Taoist tradition. Jung's *Secret of the Golden Flower* commentary explicitly bridges Taoist internal alchemy with Western depth psychology, but the broader cross-system correlations drawn here are modern interpretive additions.
+#### Vibology Synthesis
+All Jungian archetypal analysis (interpreting Taoist myths through the lens of Shadow, Anima/Animus, Self, Individuation, etc.) represents scholarly synthesis rather than traditional Taoist understanding. Cross-system correspondences (Tarot, Astrology, Western Alchemy, Human Design, Qabalah) are Vibology's integrative framework, not part of the original Taoist tradition. Jung's *Secret of the Golden Flower* commentary explicitly bridges Taoist internal alchemy with Western depth psychology, but the broader cross-system correlations drawn here are modern interpretive additions.
 
 ---

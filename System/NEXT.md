@@ -203,7 +203,7 @@ Acquiring LYD manual ($50) and planning foundation course sequence (LYD $300, Ra
   - Batch 4: General Angels (3/3) — Guardian Angel, Angels of Judgment, Angels of Fire
   - Batch 5: Enochian Tradition (3/3) — Aleister Crowley, Liber Loagaeth, The Hermetic Order of the Golden Dawn
 - **Roadmap status:** Tier 3 Item #19 Angelology **COMPLETE**
-- **Next available:** Mythology deity stubs (16), Vibrology overview stubs, other practice/overview stubs (9)
+- **Next available:** Mythology deity stubs (16), Vibology overview stubs, other practice/overview stubs (9)
 
 **2026-02-06 (Continued - Late Night):** Angelology General Angels batch — **3 foundational concepts expanded** (Tier 3 Angelology progress: 13 of 16 stubs complete, 81%)
 - **Batch scope:** General Angels subdirectory (3 core angelic concepts accessible to all practitioners)
@@ -219,7 +219,7 @@ Acquiring LYD manual ($50) and planning foundation course sequence (LYD $300, Ra
 - **Library expansion:** No new files (expansions only); 768 files maintained
 - **Stub count:** 40 → 37 (3 stubs eliminated: Guardian Angel, Angels of Judgment, Angels of Fire)
 - **Roadmap status:** Tier 3 Item #19 Angelology progress — 13 of 16 Angelology stubs complete (81%). Batches complete: Ritual & Practice (5/5), Archangels (3/3), Angelic Orders (2/2), General Angels (3/3). Remaining: Enochian Tradition (3 stubs: Aleister Crowley, Liber Loagaeth, Hermetic Order of the Golden Dawn)
-- **Next available:** Complete Tier 3 Angelology (3 Enochian stubs), mythology deity stubs (16), Vibrology overviews, other practice/overview stubs (9)
+- **Next available:** Complete Tier 3 Angelology (3 Enochian stubs), mythology deity stubs (16), Vibology overviews, other practice/overview stubs (9)
 
 **2026-02-06 (Final Session - Late Night):** Angelic Orders foundational entries — **2 critical stubs expanded** (Tier 3 Angelology progress: 10 of 15 stubs complete)
 - **Batch scope:** The Ten Angelic Orders subdirectory (2 foundational overview/synthesis entries)
@@ -233,7 +233,7 @@ Acquiring LYD manual ($50) and planning foundation course sequence (LYD $300, Ra
 - **Library expansion:** No new files (expansions only); 766 → 768 files (corrected count from verification)
 - **Stub count:** 42 → 40 (2 stubs eliminated: Ishim, The Celestial Hierarchy)
 - **Roadmap status:** Tier 3 Item #19 Angelology progress — 10 of 15 Angelology stubs complete (5 Ritual & Practice + 3 Archangels + 2 Angelic Orders done). Remaining: 3 Enochian Tradition, 2 Other (Guardian Angel, Angels of Judgment)
-- **Next available:** Continue Tier 3 Angelology (5 stubs remaining), mythology deity stubs (16), Vibrology overviews, other practice/overview stubs (12)
+- **Next available:** Continue Tier 3 Angelology (5 stubs remaining), mythology deity stubs (16), Vibology overviews, other practice/overview stubs (12)
 
 **2026-02-06 (Continued - Late Night):** Jungian Concepts expansion — **Tier 2 Roadmap Item #10 COMPLETE** (7/7 stubs)
 - **Objective:** Expand 7 foundational Jungian concept stubs (Tier 2 Item #10 — highest-value library work available after Tier 1 complete)
@@ -252,7 +252,7 @@ Acquiring LYD manual ($50) and planning foundation course sequence (LYD $300, Ra
 - **Library expansion:** No new files (expansions only); 766 files maintained
 - **Stub count:** 54 → 47 (7 stubs eliminated)
 - **Roadmap status:** Tier 2 Item #10 COMPLETE (7 Jungian stubs). Items 5-9 already complete (Astrology Hellenistic). Items 11-12 on hold (pending IHDS sources). **All available Tier 2 work DONE.**
-- **Next available:** Tier 3 Item #19 (16 mythology deity stubs), Item #20 (Vibrology overview stubs), remaining Angelology stubs (15), other practice/overview stubs (12)
+- **Next available:** Tier 3 Item #19 (16 mythology deity stubs), Item #20 (Vibology overview stubs), remaining Angelology stubs (15), other practice/overview stubs (12)
 
 **2026-02-06 (Late Night Session 3):** Angelology Archangels batch — **3 archangel stubs expanded** (Tier 3 Item #19 Angelology progress: 8 of 15 stubs complete)
 - **Batch scope:** The Archangels subdirectory (3 high-visibility foundational entries)
@@ -265,7 +265,7 @@ Acquiring LYD manual ($50) and planning foundation course sequence (LYD $300, Ra
 - **Library expansion:** No new files (expansions only); 766 files maintained
 - **Stub count:** 45 → 42 (3 stubs eliminated: Seven Angels Who Stand Before Throne, Four Archangels of Quarters, Samael)
 - **Roadmap status:** Tier 3 Item #19 Angelology progress — 8 of 15 Angelology stubs complete (5 Ritual & Practice + 3 Archangels done). Remaining: 2 Angelic Orders (Ishim, The Celestial Hierarchy — now expanded), 3 Enochian Tradition, 2 Other (Guardian Angel, Angels of Judgment)
-- **Next available:** Continue Tier 3 Angelology (7 stubs remaining), mythology deity stubs (16), Vibrology overviews, other practice/overview stubs
+- **Next available:** Continue Tier 3 Angelology (7 stubs remaining), mythology deity stubs (16), Vibology overviews, other practice/overview stubs
 
 **2026-02-06 (Late Night Session 2):** Angelology Ritual & Practice batch — **5 stubs expanded** (Tier 3 Item #19 Angelology progress: 5 of 15 stubs eliminated)
 - **Batch scope:** Ritual & Practice subdirectory (5 operational protocols for practitioners)
@@ -280,7 +280,7 @@ Acquiring LYD manual ($50) and planning foundation course sequence (LYD $300, Ra
 - **Library expansion:** No new files (expansions only); 766 files maintained
 - **Stub count:** 47 → 45 (2 stubs eliminated: Invocation of Raphael, Prayer for Healing)
 - **Roadmap status:** Tier 3 Item #19 Angelology progress — 5 of 15 Angelology stubs complete (Ritual & Practice batch done). Remaining: 3 Archangels, 2 Angelic Orders, 3 Enochian Tradition, 3 Other
-- **Next available:** Continue Tier 3 Angelology (10 stubs remaining), mythology deity stubs (16), Vibrology overviews, other practice/overview stubs (12)
+- **Next available:** Continue Tier 3 Angelology (10 stubs remaining), mythology deity stubs (16), Vibology overviews, other practice/overview stubs (12)
 
 **2026-02-06 (Late Night):** HD Definition Types expansion — **Tier 1 Roadmap Item #1 COMPLETE**
 - **Objective:** Expand highest-priority stub (Definition Types) — every chart has one, currently undocumented

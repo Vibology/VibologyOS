@@ -1161,7 +1161,7 @@ The **grain of wheat** in the Eleusinian mysteries = the **lotus in the mud** in
 **Primary Buddhist Sources:**
 Core cosmological narratives (Six Realms, Wheel of Life, Bardo states, and enlightenment path) are drawn from canonical Buddhist sources including Pali Canon (Suttas), Abhidhamma, Mahayana sutras, and Tibetan Buddhist texts (*Bardo Thodol*/Tibetan Book of the Dead). These teachings span Theravada, Mahayana, and Vajrayana Buddhist traditions and inform the archetypal framework.
 
-#### Vibrology Synthesis
-All Jungian archetypal analysis (interpreting Buddhist cosmology through the lens of Shadow, Anima/Animus, Self, Individuation, etc.) represents scholarly synthesis rather than traditional Buddhist understanding. Cross-system correspondences (Tarot, Astrology, Alchemy, Human Design, Qabalah) are Vibrology's integrative framework, not part of the original Buddhist tradition. The alchemical correlations (Bardo as Nigredo, Enlightenment as Rubedo) apply Western hermetic symbolism to Buddhist liberation teachings. Buddhist psychology deeply influenced Western depth psychology, but the explicit connections drawn here are modern interpretive additions.
+#### Vibology Synthesis
+All Jungian archetypal analysis (interpreting Buddhist cosmology through the lens of Shadow, Anima/Animus, Self, Individuation, etc.) represents scholarly synthesis rather than traditional Buddhist understanding. Cross-system correspondences (Tarot, Astrology, Alchemy, Human Design, Qabalah) are Vibology's integrative framework, not part of the original Buddhist tradition. The alchemical correlations (Bardo as Nigredo, Enlightenment as Rubedo) apply Western hermetic symbolism to Buddhist liberation teachings. Buddhist psychology deeply influenced Western depth psychology, but the explicit connections drawn here are modern interpretive additions.
 
 ---

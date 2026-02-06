@@ -1054,7 +1054,7 @@ This is controversial but psychologically valid: individuation in the West requi
 **Primary Hindu Sources:**
 Core mythological narratives (cosmology, Trimurti, avatars, and dharmic epics) are drawn from canonical Hindu sources including the Vedas, Upanishads (especially Katha Upanishad), *Bhagavad Gita*, *Ramayana*, *Mahabharata*, Puranas, and Tantric texts. These scriptures span millennia of Hindu philosophical and religious tradition and inform the archetypal framework.
 
-#### Vibrology Synthesis
-All Jungian archetypal analysis (interpreting Hindu myths through the lens of Shadow, Anima/Animus, Self, Individuation, etc.) represents scholarly synthesis rather than traditional Hindu understanding. Cross-system correspondences (Tarot, Astrology, Alchemy, Human Design, Qabalah) are Vibrology's integrative framework, not part of the original Hindu tradition. The alchemical correlations (Kundalini as transmutation, chakras as stages) apply Western hermetic symbolism to Hindu yogic practices. Hindu philosophy's Atman-Brahman unity and Maya influenced Western depth psychology, but the explicit connections drawn here are modern interpretive additions.
+#### Vibology Synthesis
+All Jungian archetypal analysis (interpreting Hindu myths through the lens of Shadow, Anima/Animus, Self, Individuation, etc.) represents scholarly synthesis rather than traditional Hindu understanding. Cross-system correspondences (Tarot, Astrology, Alchemy, Human Design, Qabalah) are Vibology's integrative framework, not part of the original Hindu tradition. The alchemical correlations (Kundalini as transmutation, chakras as stages) apply Western hermetic symbolism to Hindu yogic practices. Hindu philosophy's Atman-Brahman unity and Maya influenced Western depth psychology, but the explicit connections drawn here are modern interpretive additions.
 
 ---

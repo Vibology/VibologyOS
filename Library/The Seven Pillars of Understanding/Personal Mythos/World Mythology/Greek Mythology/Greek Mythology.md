@@ -690,7 +690,7 @@ The Eleusinian grain = the Philosopher's Stone—the simple, eternal truth revea
 **Primary Greek Sources:**
 Core mythological narratives (Theogony, Titanomachy, Olympian pantheon, hero cycles, tragic patterns, and Mystery traditions) are drawn from canonical ancient Greek sources including Hesiod's *Theogony*, Homer's *Iliad* and *Odyssey*, Greek tragedies (Aeschylus, Sophocles, Euripides), Orphic hymns, and Eleusinian mystery traditions. These sources are part of the Western literary canon and inform the archetypal framework.
 
-#### Vibrology Synthesis
-All Jungian archetypal analysis (interpreting Greek myths through the lens of Shadow, Anima/Animus, Self, Individuation, etc.) represents scholarly synthesis rather than ancient Greek understanding. Cross-system correspondences (Tarot, Astrology, Alchemy, Human Design, Qabalah) are Vibrology's integrative framework, not part of the original mythological tradition. The alchemical correlations (Nigredo, Albedo, Citrinitas, Rubedo) apply Renaissance hermetic symbolism to Greek narrative patterns.
+#### Vibology Synthesis
+All Jungian archetypal analysis (interpreting Greek myths through the lens of Shadow, Anima/Animus, Self, Individuation, etc.) represents scholarly synthesis rather than ancient Greek understanding. Cross-system correspondences (Tarot, Astrology, Alchemy, Human Design, Qabalah) are Vibology's integrative framework, not part of the original mythological tradition. The alchemical correlations (Nigredo, Albedo, Citrinitas, Rubedo) apply Renaissance hermetic symbolism to Greek narrative patterns.
 
 ---
