@@ -16,7 +16,7 @@
 | Cross-References Coverage | 99.9% |
 | Dead Wikilinks | 0 |
 | YAML Compliance | 100% |
-| Stub Files | 40 (intentional scaffolding) |
+| Stub Files | 37 (intentional scaffolding) |
 
 **All core practice content is 100% complete:**
 - 78 Tarot cards (Major + Minor Arcana)
@@ -137,12 +137,12 @@ Old Window content (76 files) archived at `.archive/Library/The Window/`. The wo
 **Pending: IHDS Foundation Sequence Materials**
 Acquiring LYD manual ($50) and planning foundation course sequence (LYD $300, Rave ABCs $400, Rave Cartography $750). Library updates for HD foundational material are **on hold** until source texts are in hand.
 
-**Stub files available for expansion (40 remaining):**
+**Stub files available for expansion (37 remaining):**
 - ~~Qabalah subsystem (32 files) — COMPLETE, 0 stubs (Batches 1-4: 2026-02-06)~~
 - ~~Jungian concepts (7 stubs) — COMPLETE 2026-02-06~~
 - Mythology deities (16 stubs) — archetypal anchors
-- Angelology practice/reference (5 stubs) — Guardian Angel, Enochian entries, etc.
-- Other practice/overview stubs (12) — Pathworking, Divination, Hero's Journey, etc.
+- Angelology Enochian Tradition (3 stubs) — Aleister Crowley, Liber Loagaeth, Hermetic Order of the Golden Dawn
+- Other practice/overview stubs (9) — Pathworking, Divination, Hero's Journey, etc.
 
 **Dignity system: COMPLETE (2026-02-04)**
 - **Data extraction:** All 384 line exaltations/detriments extracted from "The Definitive Book of Human Design" (IHDS 2011 edition)
@@ -184,6 +184,22 @@ Acquiring LYD manual ($50) and planning foundation course sequence (LYD $300, Ra
 ---
 
 ## Session History
+
+**2026-02-06 (Continued - Late Night):** Angelology General Angels batch — **3 foundational concepts expanded** (Tier 3 Angelology progress: 13 of 16 stubs complete, 81%)
+- **Batch scope:** General Angels subdirectory (3 core angelic concepts accessible to all practitioners)
+- **Scribe fetches successful:** 3 NotebookLM queries (Esoteric Grimoire — Davidson, DuQuette, Wang, Zohar, biblical sources)
+  - Query 1: Angels of Fire (Seraphim, biblical theophanies, Michael/Uriel/Nathaniel, elemental symbolism)
+  - Query 2: Angels of Judgment (Michael psychopomp/scales, Kamael Geburah, Samael Angel of Death, Powers order, Geburah-Chesed balance)
+  - Query 3: Guardian Angels (Thelemic HGA, DuQuette/Crowley, Knowledge and Conversation, Tiphareth, True Will, Higher Self) — supplemented with scriptural references and traditional doctrine
+- **Weaver phase complete — 3 entries expanded:**
+  1. **Guardian Angel.md** (35 → 301 lines) — Traditional religious doctrine (Christian/Jewish maggidim/Islamic Kiraman Katibin), scriptural foundations (Matthew 18:10 children's angels behold Father, Psalm 91:11 angelic protection, Hebrews 1:14 ministering spirits, Acts 12:15 angel doppelgänger), Catholic doctrine (Feast October 2, de fide belief, one angel per person from birth), Thelemic Holy Guardian Angel (DuQuette: Higher Self/Silent Self not external entity, Crowley's Magick as conformity with Will, HGA as personified True Will), Knowledge and Conversation (Tiphareth contact, adepthood, divine authority), Abramelin operation (6-18 months purification, daily prayers, personality balancing, HGA reveals True Name), Jungian interpretation (Self archetype, ego-Self axis, danger of inflation), invocation practices (traditional prayer, Liber Samekh solar ritual, active imagination), psychoid reality (neither purely psychological nor ontological). 11 footnotes.
+  2. **Angels of Judgment.md** (53 → 304 lines) — Michael as psychopomp (benevolent angel of death, disputes with Satan over Moses' body), scales iconography (weighing merits vs sins, parallels Egyptian Anubis/Maat), Tarot Judgment card (Key XX, Shin/Fire, Michael blows trumpet, resurrection not condemnation), dragon-slayer (Revelation 12:7-9, cosmic disorder expelled), Kamael (Geburah Severity executor, 12,000 angels of destruction, tried to prevent Moses receiving Torah, chief of Powers, Mars/red/sword), unbalanced Geburah becomes tyranny (Wang: evil as unbalanced force, Chesed-Geburah axis, Tiphareth harmonizes), Samael (Venom of God, Angel of Death/Accuser/Satan unified per Bava Batra 16a, Zohar: Sitra Achra king with Lilith, End of All Flesh, cosmic informer, necessary shadow), Powers order (6th Dionysian, cosmic police stopping demons, maintaining heavenly pathways), psychological shadow (inner tyrant/superego, projection of judgment, healthy vs pathological severity). 12 footnotes.
+  3. **Angels of Fire.md** (52 → 340 lines) — Seraphim (burning ones, fire/love/light, Isaiah 6:1-7 six-winged beings crying Holy Holy Holy, live coal purifying Isaiah's lips, fiery serpents Numbers 21:6, consuming love as flame), biblical fire theophanies (burning bush Exodus 3 angel in flames not consuming, pillar of fire Exodus 13 leading Israel, Mount Sinai Exodus 24 consuming fire unapproachable, Deuteronomy 4:24 God as consuming fire, Isaiah's coal, Pentecost Acts 2:3 tongues of fire/Holy Spirit/glossolalia), Michael (Ruler of Solar Fire, South quarter LBRP, red robes/flaming sword, solar Tiphareth and warrior Mars dual nature), Uriel (Fire of God/Light of God, Regent of the Sun, thunder/terror, intellectual illumination/gnosis), Nathaniel (lord over fire, saved seven from Baal's fire 1 Kings 18, Elijah calling fire 2 Kings 1), Ishim/Ashim (Souls of Fire Psalm 104:4, fire and snow composition, fire=spirit/snow=matter paradox in Malkuth), Zohar fire symbolism (ascending flame two lights: white Chesed steady/blue-black Geburah consuming, holy fire devouring lower judgment fire), elemental correspondences (South/Summer/Noon, purification/transformation/presence/judgment, refiner's fire Malachi 3:2-3), ritual use (altar flame, LBRP Michael invocation, fire offerings transmuting matter to spirit). 13 footnotes.
+- **Result:** All 3 General Angels entries comprehensive (~300-340 lines each), heavily cross-referenced, source-verified, foundational for practitioners across traditions
+- **Library expansion:** No new files (expansions only); 768 files maintained
+- **Stub count:** 40 → 37 (3 stubs eliminated: Guardian Angel, Angels of Judgment, Angels of Fire)
+- **Roadmap status:** Tier 3 Item #19 Angelology progress — 13 of 16 Angelology stubs complete (81%). Batches complete: Ritual & Practice (5/5), Archangels (3/3), Angelic Orders (2/2), General Angels (3/3). Remaining: Enochian Tradition (3 stubs: Aleister Crowley, Liber Loagaeth, Hermetic Order of the Golden Dawn)
+- **Next available:** Complete Tier 3 Angelology (3 Enochian stubs), mythology deity stubs (16), Vibrology overviews, other practice/overview stubs (9)
 
 **2026-02-06 (Final Session - Late Night):** Angelic Orders foundational entries — **2 critical stubs expanded** (Tier 3 Angelology progress: 10 of 15 stubs complete)
 - **Batch scope:** The Ten Angelic Orders subdirectory (2 foundational overview/synthesis entries)
