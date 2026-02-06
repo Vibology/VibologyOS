@@ -35,6 +35,8 @@ The keynote here is that **power serves best when it empowers**, not dominates. 
 |-----------|----------------|
 | **Gate Number** | 34 |
 | **I-Ching Hexagram** | 34 - ䷡ The Power of the Great / Great Vigor |
+| **Astrological Span** | 00°07'30" Sagittarius - 05°45'00" Sagittarius |
+| **I-Ching Trigram** | Heaven (☰) - Pure yang, creative force doubled |
 | **Center** | Sacral (Life Force, Sexual Energy, Generative Power) |
 | **Circuitry** | Integration / Centering (Individual Empowerment) |
 | **Channels** | 34-57 (Power), 34-20 (Charisma), 34-10 (Treading) |
@@ -257,11 +259,32 @@ Richard Rudd's Gene Keys framework provides a shadow-gift-siddhi progression for
 
 The progression from Force to Majesty is the journey of Gate 34: from raw power to empowering strength to sacred presence.
 
-### Astrology: Mars and the Sun (If Applicable)
+### Astrology: Sagittarius 00°07'30" - 05°45'00" (Opening Fire)
 
-In the Rave I-Ching, Gate 34 corresponds to specific astrological degrees. While individual charts vary, Gate 34 resonates with **Mars** (action, assertion, power) and **the Sun** (vitality, life-force, core identity).
+Gate 34 occupies the **opening degrees of Sagittarius**, immediately following the transition from Scorpio's death/rebirth intensity. These degrees represent Sagittarius's **initial burst of expansive power**—the archer's arrow released after Scorpio's transformation.
 
-If an individual has Mars or the Sun in Gate 34, their **power expression** is central to their design—they are here to learn how to wield power in service.
+**Scorpio-Sagittarius cusp significance:**
+- **From death to rebirth:** Scorpio's final degrees complete transformation through intensity; Sagittarius's opening degrees initiate expansion through power. Gate 34 bridges this transition through **regenerated life-force**—power born from having died and been reborn (Scorpio) now expressing through confident action (Sagittarius).
+- **Heaven trigram resonance:** Gate 34 belongs to the Heaven trigram (☰)—pure yang, doubled creative force. In early Sagittarius, this becomes **expansive yang power**—Jupiter's optimistic strength combined with yang's initiatory drive.
+- **Jupiter's domain:** Sagittarius is ruled by Jupiter, planet of expansion, abundance, and confidence. Gate 34 in Sag embodies Jupiter's gift: **power that expands rather than contracts**, strength that opens possibility rather than forcing control.
+
+**Mars-Sun resonance:**
+- **Mars in Sagittarius:** Fiery, expansive action. The warrior-philosopher who fights for truth and expansion. Gate 34 channels Mars's power through Jupiter's vision.
+- **Sun in Sagittarius:** Radiant life-force expressing through adventure and meaning-seeking. Gate 34 becomes the **power to manifest purpose**.
+
+**Planetary activations in Gate 34:**
+- **Sun in Gate 34:** Life purpose involves embodying and empowering through pure Sacral strength. Identity expressed through powerful presence.
+- **Mars in Gate 34:** Drive and assertion through inexhaustible energy. The capacity to act powerfully without depletion.
+- **Jupiter in Gate 34:** Expansion through empowerment. Natural abundance of life-force used to inspire others.
+- **Moon in Gate 34 (Design):** Emotional power cycles. Instinctive capacity to respond with strength when timing is correct.
+
+**Line-by-line astrological progression** (00°07'30" - 05°45'00" Sagittarius):
+- **Line 1** (00°07'30" - 01°03'45" Sag): The Bully—raw power entering Sagittarius, not yet refined
+- **Line 2** (01°03'45" - 02°00'00" Sag): Momentum—Jupiter's gift of sustained forward motion
+- **Line 3** (02°00'00" - 02°56'15" Sag): Machismo—trial-and-error with power expression
+- **Line 4** (02°56'15" - 03°52'30" Sag): Triumph—power refined into victory through wisdom
+- **Line 5** (03°52'30" - 04°48'45" Sag): Annihilation—projection field expecting total power
+- **Line 6** (04°48'45" - 05°45'00" Sag): Common Sense—mature Sagittarian wisdom, power with discernment
 
 ### Tarot: Strength (Resonance, Not Direct Correlation)
 

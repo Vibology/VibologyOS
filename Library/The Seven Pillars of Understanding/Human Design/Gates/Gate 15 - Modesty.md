@@ -242,9 +242,28 @@ Richard Rudd's Gene Keys framework provides a shadow-gift-siddhi progression for
 
 The progression from Dullness to Florescence is the journey of Gate 15: from flattened fear to radiant acceptance.
 
-### Astrology: Venus (If Applicable)
+### Astrology: Gemini 28°15'00" - Cancer 03°52'30" (Threshold of Feeling)
 
-In the Rave I-Ching, Gate 15 resonates with **Venus**—the planet of love, attraction, and values. If an individual has their Venus in Gate 15, their **values and relationships** (Venus themes) are expressed through love of humanity's diversity, attraction to all patterns without judgment.
+Gate 15 spans the **cusp between Gemini and Cancer**—the transition from Mercury's airy intellect to the Moon's watery emotion. These are **threshold degrees** where mental curiosity transforms into emotional empathy.
+
+**Gemini-Cancer cusp significance:**
+- **From thinking to feeling:** Gemini's final degrees represent the completion of mental exploration; Cancer's opening degrees initiate emotional immersion. Gate 15 bridges this transition through **experiential understanding**—living humanity's extremes (Gemini's curiosity) to cultivate compassionate feeling (Cancer's empathy).
+- **Mountain trigram resonance:** Gate 15 belongs to the Mountain trigram (☶)—stillness, keeping still. At the Gemini-Cancer cusp, this becomes the **stillness that allows feeling to emerge**—pausing mental activity to sense the emotional truth.
+- **Mercury-Moon synthesis:** This cusp synthesizes Mercury (Gemini's ruler: communication, diversity, patterns) with the Moon (Cancer's ruler: emotion, nurturing, belonging). Gate 15 embodies both: recognizing humanity's patterns (Mercury) through feeling them (Moon).
+
+**Planetary activations in Gate 15:**
+- **Sun in Gate 15:** Life purpose involves embodying humanity's full spectrum and loving it. Identity expressed through inclusive compassion.
+- **Venus in Gate 15:** Love of humanity through experiential understanding. Magnetic attraction through having lived extremes without judgment.
+- **Moon in Gate 15:** Emotional resonance with all human patterns. Nurturing through acceptance of diversity.
+- **Mercury in Gate 15:** Pattern recognition across human behavior. Communication grounded in experiential wisdom.
+
+**Line-by-line astrological progression** (28°15'00" Gemini - 03°52'30" Cancer):
+- **Line 1** (28°15'00" - 29°11'15" Gemini): Duty—late Gemini's mental responsibility
+- **Line 2** (29°11'15" - 00°07'30" Cancer): Influence—crossing the cusp, mental patterns becoming emotional impact
+- **Line 3** (00°07'30" - 01°03'45" Cancer): Ego Inflation—trial-and-error in early Cancer's emotional waters
+- **Line 4** (01°03'45" - 02°00'00" Cancer): The Wallflower—emotional stillness, observing from the periphery
+- **Line 5** (02°00'00" - 02°56'15" Cancer): Sensitivity—Moon's domain, heightened feeling
+- **Line 6** (02°56'15" - 03°52'30" Cancer): Self-Defense—protecting emotional boundaries in early Cancer
 
 ### Tarot: Temperance (Resonance, Not Direct Correlation)
 
