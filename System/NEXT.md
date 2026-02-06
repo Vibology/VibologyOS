@@ -1,18 +1,18 @@
 # Current Work Context
 
-**Last Updated:** 2026-02-05
-**System Status:** Library complete; **Astrology Hellenistic Expansion Tiers 1 & 2 COMPLETE** (Tier 1: Planetary Condition, Lots, Natal Chart; Tier 2: Triplicity Rulers, Reception, Planetary Phases & Retrograde, Annual Profections, Lunar Nodes — all from Brennan source); **Oracle Deck canonized** (The Astrolabe — 88 cards production-ready); dignity data extraction COMPLETE (64/64 gates, 384/384 lines); **comprehensive dignity calculation IMPLEMENTED** (juxtaposition, harmonic fixing, star symbols); **Angelology pillar 95% COMPLETE** (Heywood 1635 integrated, invocation protocols operational, Seven Planetary Archangels table complete, Discernment of Spirits comprehensive testing framework complete); **The Magdalene Path practitioner protocols COMPLETE** (Contemplative Prayer comprehensive guide, Practitioner Protocols operational, Daily Practice Quick Reference ready)
+**Last Updated:** 2026-02-06
+**System Status:** Library complete; **Astrology Hellenistic Expansion ALL TIERS COMPLETE** (Tier 1: Planetary Condition, Lots, Natal Chart; Tier 2: Triplicity Rulers, Reception, Planetary Phases & Retrograde, Annual Profections, Lunar Nodes; Tier 3: Terms & Bounds, Traditional Decans, Zodiacal Releasing, Firdaria, Primary Directions — all from Brennan/Lilly/Ptolemy sources); **Oracle Deck canonized** (The Astrolabe — 88 cards production-ready); dignity data extraction COMPLETE (64/64 gates, 384/384 lines); **comprehensive dignity calculation IMPLEMENTED** (juxtaposition, harmonic fixing, star symbols); **Angelology pillar 95% COMPLETE** (Heywood 1635 integrated, invocation protocols operational, Seven Planetary Archangels table complete, Discernment of Spirits comprehensive testing framework complete); **The Magdalene Path practitioner protocols COMPLETE** (Contemplative Prayer comprehensive guide, Practitioner Protocols operational, Daily Practice Quick Reference ready)
 **Current Phase:** Foundation-building — still on the roof, still in observation
 
 ---
 
 ## System Health Summary
 
-### Library (760 files)
+### Library (765 files)
 
 | Metric | Value |
 |--------|-------|
-| Total Files | 760 |
+| Total Files | 765 |
 | Cross-References Coverage | 99.9% |
 | Dead Wikilinks | 0 |
 | YAML Compliance | 100% |
@@ -110,15 +110,15 @@ Old Window content (76 files) archived at `.archive/Library/The Window/`. The wo
 | 11 | HD | Projector Subcategories (Classic/Energy/Mental) | Low | Low-Med — pending IHDS source |
 | 12 | HD | Deconditioning expansion | Medium | Medium — practice entry, not just concept |
 
-**Tier 3: Long-Term Scaffolding**
+**Tier 3: Long-Term Scaffolding** *(Astrology items 13-17 COMPLETE)*
 
 | # | Pillar | Item | Effort | Impact |
 |---|--------|------|--------|--------|
-| 13 | Astrology | Terms/Bounds (Egyptian terms table, dignity assessment) | Medium | Low-Med — finest grain of traditional dignity |
-| 14 | Astrology | Traditional Decans (Egyptian/Chaldean rulers alongside current system) | Medium | Low — current decan sections exist but use modern psychological framing |
-| 15 | Astrology | Zodiacal Releasing (Valens timing technique) | Medium | Medium — advanced; Brennan course would inform |
-| 16 | Astrology | Firdaria | Low | Low — currently orphaned reference in overview |
-| 17 | Astrology | Primary Directions (classical predictive technique) | Medium | Low-Med — Hellenistic equivalent of progressions |
+| ~~13~~ | ~~Astrology~~ | ~~Terms/Bounds~~ | ~~Medium~~ | ~~COMPLETE 2026-02-06~~ |
+| ~~14~~ | ~~Astrology~~ | ~~Traditional Decans~~ | ~~Medium~~ | ~~COMPLETE 2026-02-06~~ |
+| ~~15~~ | ~~Astrology~~ | ~~Zodiacal Releasing~~ | ~~Medium~~ | ~~COMPLETE 2026-02-06~~ |
+| ~~16~~ | ~~Astrology~~ | ~~Firdaria~~ | ~~Low~~ | ~~COMPLETE 2026-02-06~~ |
+| ~~17~~ | ~~Astrology~~ | ~~Primary Directions~~ | ~~Medium~~ | ~~COMPLETE 2026-02-06~~ |
 | 18 | Tarot/Qabalah | 35 Qabalah stubs (Sephiroth, Paths, Divine Names) | Large | Enriches depth; not blocking practice |
 | 19 | Personal Mythos | 17 deity stubs (Greek/Egyptian/Mesopotamian) | Large | Reference value; not blocking synthesis |
 | 20 | Core Foundations | Vibology overview entries (stubs) | Medium | Articulates meta-framework |
@@ -133,7 +133,7 @@ Old Window content (76 files) archived at `.archive/Library/The Window/`. The wo
 - **Qabalah source texts** — would ground Sephiroth/Path expansion beyond framework stubs
 
 **Source Available:**
-- **Chris Brennan, *Hellenistic Astrology: The Study of Fate and Fortune*** — being uploaded to Esoteric Grimoire chapter-by-chapter (700-page PDF required splitting; single upload and ~150-page chunks both failed). Upload in progress as of 2026-02-06. Covers Lots, planetary condition, profections, zodiacal releasing, triplicity, bounds/terms, traditional decans, reception. Primary source for all Astrology roadmap items (Tiers 1-3). **Astrology expansion blocked until upload complete.**
+- **Chris Brennan, *Hellenistic Astrology: The Study of Fate and Fortune*** — Fully uploaded to Esoteric Grimoire (chapter-by-chapter). **All Astrology roadmap items (Tiers 1-3) COMPLETE.** Brennan source fully utilized for: Lots, Planetary Condition, Natal Chart methodology, Triplicity Rulers, Reception, Planetary Phases & Retrograde, Annual Profections, Lunar Nodes, Terms & Bounds, Traditional Decans, Zodiacal Releasing, Primary Directions. Firdaria sourced from Lilly (Brennan notes it's Persian/Medieval, not Hellenistic).
 
 **Pending: IHDS Foundation Sequence Materials**
 Acquiring LYD manual ($50) and planning foundation course sequence (LYD $300, Rave ABCs $400, Rave Cartography $750). Library updates for HD foundational material are **on hold** until source texts are in hand.
@@ -184,6 +184,19 @@ Acquiring LYD manual ($50) and planning foundation course sequence (LYD $300, Ra
 ---
 
 ## Session History
+
+**2026-02-06 (Evening):** Hellenistic Expansion — **Tier 3 COMPLETE** (5/5 items) — **ALL TIERS DONE**
+- **Scribe fetches successful:** 4 NotebookLM queries (Brennan Ch 1, 8, 18; Lilly Book III Ch CLXVI)
+- **Weaver phase complete — 5 entries written:**
+  1. **Terms and Bounds.md** (NEW, ~208 lines) — Complete Egyptian terms table (all 12 signs, Dorotheus source). Chaldean and Ptolemaic alternative systems. Bound lord in practice: dignity assessment, Chariot connection, distributions as time lord technique, Master of the Nativity, Alcocoden/length of life. Jungian depth (bound lord as complex mediating ego and archetypal field). Malefics at sign boundaries as threshold guardians. 10 footnotes.
+  2. **Traditional Decans.md** (NEW, ~189 lines) — Complete Chaldean face table (all 36 decans). Egyptian asterism origins (c. 2100 BCE) and Hellenistic synthesis. Triplicity-based alternative system documented with divergence analysis. Face as 5th/weakest dignity (quasi-dignity preventing peregrination). Morphē tradition (Hephaestio's physical appearance descriptions). Persona as Jungian parallel. 8 footnotes.
+  3. **Zodiacal Releasing.md** (NEW, ~223 lines) — Complete sign period table (planetary years, Capricorn 27-year exception). Four nested time levels (years/months/weeks/days). Angular triads from Fortune (major peaks at 1st and 10th signs). Loosing of the bond (sundesmon luseis) — Schwarzenegger 2003 example. Fortune vs. Spirit releasing. Foreshadowing principle (Valens). 13 footnotes.
+  4. **Firdaria.md** (NEW, ~193 lines) — Lilly's septennial system (equal 7-year periods, Chaldean order, day/night tables). Standard medieval variable-year system (Abu Ma'shar, complete day/night tables with cumulative ages). Sub-period mechanics. Historical context (Persian/Medieval, not Hellenistic — Brennan Ch 5). 4 footnotes.
+  5. **Primary Directions.md** (NEW, ~203 lines) — Circumambulations (peripatos). Significators/promissors. Ptolemy's key (1° = 1 year). Direct/converse directions (oriental/occidental quadrants). Distributions (directing through bounds, Distributor as Time Lord). Length of life (Hyleg/Alcochoden/Anaereta). Timing technique hierarchy table. 13 footnotes.
+- **Astrology.md updated:** Added all 5 new entries to pillar navigation
+- **Library expansion:** 760 → 765 files (5 new entries)
+- **Hellenistic Expansion COMPLETE:** Tier 1 (3/3) + Tier 2 (5/5) + Tier 3 (5/5) = 13/13 items across 3 tiers. The entire Astrology Hellenistic roadmap is finished — from Planetary Condition through Primary Directions.
+- **Cleanup:** Removed stale Library Analysis.rtf session artifact
 
 **2026-02-05 (New Session):** Hellenistic Expansion — **Tier 2 COMPLETE** (5/5 items)
 - **Scribe fetches successful:** 5 NotebookLM queries across Brennan Ch 7, 8, 14, 15, 17
