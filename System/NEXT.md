@@ -1,18 +1,18 @@
 # Current Work Context
 
-**Last Updated:** 2026-02-06
-**System Status:** Library complete; **Astrology Hellenistic Expansion Tier 1 COMPLETE** (Planetary Condition, Lots, Natal Chart methodology — all from Brennan source); **Oracle Deck canonized** (The Astrolabe — 88 cards production-ready); dignity data extraction COMPLETE (64/64 gates, 384/384 lines); **comprehensive dignity calculation IMPLEMENTED** (juxtaposition, harmonic fixing, star symbols); **Angelology pillar 95% COMPLETE** (Heywood 1635 integrated, invocation protocols operational, Seven Planetary Archangels table complete, Discernment of Spirits comprehensive testing framework complete); **The Magdalene Path practitioner protocols COMPLETE** (Contemplative Prayer comprehensive guide, Practitioner Protocols operational, Daily Practice Quick Reference ready)
+**Last Updated:** 2026-02-05
+**System Status:** Library complete; **Astrology Hellenistic Expansion Tiers 1 & 2 COMPLETE** (Tier 1: Planetary Condition, Lots, Natal Chart; Tier 2: Triplicity Rulers, Reception, Planetary Phases & Retrograde, Annual Profections, Lunar Nodes — all from Brennan source); **Oracle Deck canonized** (The Astrolabe — 88 cards production-ready); dignity data extraction COMPLETE (64/64 gates, 384/384 lines); **comprehensive dignity calculation IMPLEMENTED** (juxtaposition, harmonic fixing, star symbols); **Angelology pillar 95% COMPLETE** (Heywood 1635 integrated, invocation protocols operational, Seven Planetary Archangels table complete, Discernment of Spirits comprehensive testing framework complete); **The Magdalene Path practitioner protocols COMPLETE** (Contemplative Prayer comprehensive guide, Practitioner Protocols operational, Daily Practice Quick Reference ready)
 **Current Phase:** Foundation-building — still on the roof, still in observation
 
 ---
 
 ## System Health Summary
 
-### Library (755 files)
+### Library (760 files)
 
 | Metric | Value |
 |--------|-------|
-| Total Files | 755 |
+| Total Files | 760 |
 | Cross-References Coverage | 99.9% |
 | Dead Wikilinks | 0 |
 | YAML Compliance | 100% |
@@ -185,6 +185,19 @@ Acquiring LYD manual ($50) and planning foundation course sequence (LYD $300, Ra
 
 ## Session History
 
+**2026-02-05 (New Session):** Hellenistic Expansion — **Tier 2 COMPLETE** (5/5 items)
+- **Scribe fetches successful:** 5 NotebookLM queries across Brennan Ch 7, 8, 14, 15, 17
+- **Weaver phase complete — 5 entries written:**
+  1. **Triplicity Rulers.md** (NEW, ~220 lines) — Complete Dorothean triplicity scheme (day/night/cooperating rulers for all 4 elements). Ptolemy's modification (water triplicity, no cooperating ruler). Sect light assessment technique for eminence (Brennan Ch 15). Three life periods (first/middle/final third). Jungian depth (archetypal support structure). 8 footnotes.
+  2. **Reception.md** (NEW, ~240 lines) — Guest-host relationship (hypodochē). Exchange of signs (enallasso/mutual reception). Domicile, exaltation, bounds, and mixed exchange types. Aspect requirement for effective reception. Counteraction (antanalusis) as maltreatment mitigation. Eminence connection (Valens: Ascendant ruler + Fortune lord exchange). Time Lord application (Dorotheus). 6 footnotes.
+  3. **Planetary Phases and Retrograde.md** (NEW, ~300 lines) — Complete synodic cycle tables for superior and inferior planets. Stations (first/second). Morning/evening star (oriental/occidental) with gender and timing effects. Apparent speed (additive/subtractive). Under the beams, heliacal rising/setting. Retrograde as Hellenistic debility (Paulus: "impotent"; Valens: "weakened," "illusory"). Mercury sect-switching. 10 footnotes.
+  4. **Annual Profections.md** (NEW, ~280 lines) — Full age-house table (12-year cycle, all ages through 95). Lord of the Year technique and condition assessment. Transit filtering principle (Valens: "only examine ingresses of time-lords"). Profecting from Lots, Moon, sect light. Monthly/daily sub-annual profections. Historical sources (Valens Anthology IV-VI, Dorotheus, Ptolemy). 9 footnotes.
+  5. **Lunar Nodes.md** (NEW, ~280 lines) — Traditional framing ONLY. Ascending Node (anabibazōn = increase) / Descending Node (katabibazōn = decrease). Rhetorius's system (North Node amplifies benefics AND malefics; South Node diminishes both — favorable with malefics). Eclipse mechanics and Valens's inception warnings. Explicit "What the Nodes Are Not" section (not soul-purpose, not karmic, not evolutionary). 7 footnotes.
+- **Astrology.md updated:** Added all 5 new entries to pillar navigation
+- **Library expansion:** 755 → 760 files (5 new entries)
+- **Tier 2 roadmap status:** All 5 items COMPLETE (Triplicity Rulers, Reception, Planetary Phases & Retrograde, Annual Profections, Lunar Nodes)
+- **Hellenistic Expansion progress:** Tier 1 (3/3) + Tier 2 (5/5) = 8/8 complete. Tier 3 available (Terms/Bounds, Traditional Decans, Zodiacal Releasing, Firdaria, Primary Directions)
+
 **2026-02-06 (Continued):** Hellenistic Expansion — **Tier 1 COMPLETE** (3/3 items)
 - **Brennan uploads confirmed working** — all chapter-by-chapter uploads to Esoteric Grimoire operational
 - **Scribe fetches successful:** 4 NotebookLM queries across Brennan Ch 7, 9, 14, 16-18
@@ -197,7 +210,7 @@ Acquiring LYD manual ($50) and planning foundation course sequence (LYD $300, Ra
 - **Astrology.md updated:** Added Natal Chart, Planetary Condition, and Lots to pillar navigation section
 - **Library expansion:** 753 → 755 files (2 new entries + 1 stub expansion)
 - **Tier 1 roadmap status:** All 3 items COMPLETE (Planetary Condition, Lots, Natal Chart expansion)
-- **Next available work:** Tier 2 items (Lunar Nodes, Annual Profections, Reception, Triplicity Rulers, Retrograde Mechanics)
+- **Next available work:** Tier 3 items (Terms/Bounds, Traditional Decans, Zodiacal Releasing, Firdaria, Primary Directions) or other pillar work
 
 **2026-02-06 (Earlier):** Hellenistic Expansion — Scribe phase initiated, Brennan upload in progress
 - **Tier 1 work order decided:** Planetary Condition (Ch 14) → Lots (Ch 16) → Natal Chart expansion

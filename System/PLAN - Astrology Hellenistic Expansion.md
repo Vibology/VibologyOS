@@ -1,7 +1,7 @@
 # PLAN — Astrology Hellenistic Expansion
 
 **Created:** 2026-02-05
-**Status:** Active — Tier 1 COMPLETE (3/3 items)
+**Status:** Active — Tier 1 COMPLETE (3/3 items), Tier 2 COMPLETE (5/5 items)
 **Primary Source:** Chris Brennan, *Hellenistic Astrology: The Study of Fate and Fortune* (in Esoteric Grimoire)
 
 ---
@@ -116,6 +116,12 @@ The existing pillar already reflects this — planet/sign/house entries sourced 
 | 2026-02-06 | **Lots** | COMPLETE | New entry (~350 lines). Scribe fetch from Brennan Ch 16-18 via NotebookLM. Covers: Fortune, Spirit, Fortune-Spirit polarity, Seven Hermetic Lots (all formulas), Lot of Basis, Lot of Exaltation, derived houses from Fortune, Place of Acquisition, interpretation methodology (4-step), profections from Lots, Zodiacal Releasing connection, reversal controversy. 12 footnotes. |
 | 2026-02-06 | **Natal Chart expansion** | COMPLETE | Stub (91 lines) → comprehensive entry (~300 lines). Hellenistic delineation methodology: 8-step reading protocol (sect → chart ruler → luminaries → condition → dignities → lots → synthesis → timing). Integrates new Planetary Condition and Lots entries. Psychological depth, shadow expression. 4 footnotes. |
 | 2026-02-06 | Astrology.md updated | — | Added Natal Chart, Planetary Condition, and Lots to pillar navigation |
+| 2026-02-05 | **Triplicity Rulers** | COMPLETE | New entry (~220 lines). Scribe fetch from Brennan Ch 8, 15. Standard Dorothean scheme (day/night/cooperating rulers for all 4 elements), Ptolemy's modification, sect light assessment for eminence, three life periods, Jungian depth. 8 footnotes. |
+| 2026-02-05 | **Reception** | COMPLETE | New entry (~240 lines). Scribe fetch from Brennan Ch 14. Hypodochē (guest-host relationship), exchange of signs (enallasso), domicile/exaltation/bounds exchange, counteraction (antanalusis), aspect requirement, eminence connection (Valens), Time Lord application. 6 footnotes. |
+| 2026-02-05 | **Planetary Phases and Retrograde** | COMPLETE | New entry (~300 lines). Scribe fetch from Brennan Ch 7. Complete synodic cycle (superior and inferior planets), stations, morning/evening star (oriental/occidental), apparent speed (additive/subtractive), under the beams/heliacal rising/setting, retrograde as Hellenistic debility (Paulus, Valens), Mercury sect-switching. 10 footnotes. |
+| 2026-02-05 | **Annual Profections** | COMPLETE | New entry (~280 lines). Scribe fetch from Brennan Ch 17. Full age-house table (12-year cycle), Lord of the Year technique, transit filtering principle (Valens), profecting from Lots/Moon/sect light, monthly/daily sub-annual profections, historical sources. 9 footnotes. |
+| 2026-02-05 | **Lunar Nodes** | COMPLETE | New entry (~280 lines). Scribe fetch from Brennan Ch 7. Traditional framing ONLY (increase/decrease, NOT evolutionary soul-purpose). Ascending Node (anabibazōn) / Descending Node (katabibazōn), Rhetorius's benefic/malefic assignment, eclipse mechanics, Valens's inception warnings, explicit "What the Nodes Are Not" section. 7 footnotes. |
+| 2026-02-05 | Astrology.md updated | — | Added Triplicity Rulers, Reception, Planetary Phases, Annual Profections, Lunar Nodes to pillar navigation |
 
 ---
 

@@ -254,12 +254,17 @@ Both matter. The Ascendant = *how* you move through the world (your vehicle, you
 
 The Astrology pillar contains:
 - **[[Natal Chart]]** — The Hellenistic delineation methodology (sect → condition → dignities → lots → timing)
-- **10 Planets** — From Sun to Pluto, plus Lunar Nodes
+- **10 Planets** — From Sun to Pluto
+- **[[Lunar Nodes]]** — Ascending/Descending Node: increase, decrease, eclipse axis
 - **12 Signs** — Aries through Pisces, elemental and modal analysis
 - **12 Houses** — Life domains from identity (1st) to dissolution (12th)
 - **[[Aspects]]** — Geometric relationships and their meanings
 - **[[Planetary Condition]]** — Cazimi, combust, under the beams, bonification, maltreatment, hayz
+- **[[Triplicity Rulers]]** — Day/night/cooperating rulers by element; sect light assessment for eminence
+- **[[Reception]]** — Mutual reception, exchange of signs, counteraction through celestial hospitality
+- **[[Planetary Phases and Retrograde]]** — Synodic cycle, stations, visibility, morning/evening star, apparent speed
 - **[[Lots]]** — Fortune, Spirit, and the Seven Hermetic Lots (Arabic Parts)
+- **[[Annual Profections]]** — Lord of the Year, twelve-year cycle, transit filtering
 - **[[Transits and Timing]]** — How current sky activates natal chart
 - **Global Cycles** — Collective archetypal markers
 
