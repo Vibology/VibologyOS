@@ -35,6 +35,8 @@ The keynote is **friction as the mechanism of intimacy**. This is the Solar Plex
 |-----------|----------------|
 | **Gate Number** | 6 |
 | **I-Ching Hexagram** | 6 - ䷅ Conflict / Contention |
+| **Astrological Span** | 22°37'30" Virgo - 28°15'00" Virgo |
+| **I-Ching Trigram** | Water (☵) - Depth, danger, the abyss |
 | **Center** | Solar Plexus (Emotional Awareness, Spirit) |
 | **Circuitry** | Tribal - Defense Circuit (Support) |
 | **Channel** | 6-59 (Mating) - Solar Plexus to Sacral |
@@ -249,11 +251,29 @@ Richard Rudd's Gene Keys framework provides a shadow-gift-siddhi progression for
 
 The progression from Conflict to Peace is the journey of Gate 6: from destructive friction to skillful navigation to the recognition that all intimacy requires friction to deepen.
 
-### Astrology: Venus (Intimacy and Relating) and Mars (Conflict and Assertion)
+### Astrology: Virgo 22°37'30" - 28°15'00" (Critical Degrees of Refinement)
 
-While the Rave I-Ching has specific astrological correspondences, Gate 6's **intimacy and friction dynamic** resonates with both **Venus** (love, bonding, intimacy) and **Mars** (assertion, conflict, boundaries).
+Gate 6 occupies the **final degrees of Virgo**, the sign of analysis, discernment, and refinement. These are **critical degrees**—the completion phase of Virgo's journey, where all that has been analyzed must now be integrated or released.
 
-If an individual has Venus or Mars activating Gate 6, their relationships may involve **passionate friction**, requiring emotional maturity to navigate.
+**Virgo's signature:** The impulse to perfect, to discern, to refine through criticism. In Gate 6, this manifests as **emotional discernment**—the capacity to analyze relationship dynamics and apply friction as a tool for intimacy refinement.
+
+**Significance of terminal Virgo degrees:**
+- **Completion energy:** The final 6° of Virgo represent the harvest of Virgo's analytical work. In Gate 6, this becomes the recognition that intimacy cannot be perfected through analysis alone—friction is necessary.
+- **Transition to Libra:** Gate 6 ends at 28°15' Virgo, just before the shift to Libra (partnership, balance, relating). This places Gate 6 at the **threshold**—Virgo's solo refinement preparing for Libra's relational work.
+- **Mars/Venus resonance:** While Gate 6's friction dynamic resonates with both **Mars** (conflict, assertion) and **Venus** (intimacy, bonding), its Virgo placement adds **Mercury's discernment**—the capacity to analyze conflict rather than simply react to it.
+
+**Planetary activations in Gate 6:**
+- **Sun in Gate 6:** Life purpose involves learning to navigate intimacy through friction. Identity refined through relationship conflict.
+- **Venus in Gate 6:** Love expressed through emotional honesty and boundary-setting. Attraction to friction as a deepening force.
+- **Mars in Gate 6:** Assertion through emotional friction. The warrior who fights for intimacy rather than against it.
+
+**Line-by-line astrological progression** (22°37'30" - 28°15'00" Virgo):
+- **Line 1** (22°37'30" - 23°33'45"): Early critical Virgo—learning when to retreat from unrefined conflict
+- **Line 2** (23°33'45" - 24°30'00"): Strategic engagement—Virgo's analytical precision applied to friction
+- **Line 3** (24°30'00" - 25°26'15"): Allegiance tested—trial-and-error in the heart of critical degrees
+- **Line 4** (25°26'15" - 26°22'30"): Triumph through refinement—conflict as transformative tool
+- **Line 5** (26°22'30" - 27°18'45"): Arbitration—Mercury's gift of mediation in late Virgo
+- **Line 6** (27°18'45" - 28°15'00"): The Peacemaker—Virgo's completion, peace through discernment
 
 ### Tarot: The Lovers (Resonance, Not Direct Correlation)
 

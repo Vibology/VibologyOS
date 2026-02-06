@@ -35,6 +35,8 @@ The keynote here is **intimacy through penetration**. This is the Sacral Center'
 |-----------|----------------|
 | **Gate Number** | 59 |
 | **I-Ching Hexagram** | 59 - ䷺ Dispersion / Wind over Water |
+| **Astrological Span** | 00°07'30" Virgo - 05°45'00" Virgo |
+| **I-Ching Trigram** | Water (☵) - Depth, danger, the abyss |
 | **Center** | Sacral - Life Force, Sexuality, Work, Response |
 | **Circuitry** | Tribal - Defense Circuit (Support, Intimacy, Bargaining) |
 | **Channels** | 59-6 (Mating - The Channel of Intimacy) |
@@ -240,11 +242,30 @@ Richard Rudd's Gene Keys framework provides a shadow-gift-siddhi progression for
 
 The progression from Dishonesty to Transparency is the journey of Gate 59: from manipulative sexuality to authentic intimacy to boundary-less unity.
 
-### Astrology: Venus and Mars (Resonance)
+### Astrology: Virgo 00°07'30" - 05°45'00" (Opening Degrees of Analysis)
 
-Gate 59 resonates astrologically with **Venus** (the planet of attraction and bonding) and **Mars** (the planet of sexual drive and pursuit). While individual charts vary, Gate 59's energy mirrors the Venusian capacity to **attract intimacy** and the Martian drive to **penetrate barriers**.
+Gate 59 occupies the **opening degrees of Virgo**, immediately following the transition from Leo. These degrees represent Virgo's **initial impulse to analyze, discern, and refine**—applied here to intimacy and bonding.
 
-If an individual has **Venus or Mars in Gate 59**, their sexuality and intimacy capacity are central. They are here to embody the question: "With whom do I bond, and is that intimacy correct?"
+**Virgo's signature:** The drive to perfect through analysis, to discern what serves from what depletes. In Gate 59, this manifests as **sexual discernment**—the biological capacity to sense who is correct to bond with and who is not.
+
+**Significance of opening Virgo degrees:**
+- **Transition from Leo to Virgo:** Gate 59 begins at 00°07'30" Virgo—just after the shift from Leo (radiant self-expression, personal creativity) to Virgo (service, analysis, refinement). This places Gate 59 at the threshold where **personal expression transforms into selective bonding**.
+- **Virgo's analytical sexuality:** Early Virgo degrees bring Mercury's discrimination to Gate 59's sexual energy. This is not indiscriminate bonding—it is **biologically intelligent selection** of correct intimacy bonds.
+- **Venus/Mars resonance:** Gate 59 resonates with both **Venus** (attraction, bonding, fertility) and **Mars** (sexual drive, penetration, pursuit). In Virgo, both planets are conditioned by Mercury's discernment—attraction refined through analysis.
+
+**Planetary activations in Gate 59:**
+- **Sun in Gate 59:** Life purpose involves learning correct intimacy and sexual expression. Identity refined through bonding selection.
+- **Venus in Gate 59:** Love and attraction expressed through biological discernment. Natural capacity to sense correct bonds.
+- **Mars in Gate 59:** Sexual drive filtered through analytical awareness. The warrior who chooses intimacy wisely.
+- **Mars in Gate 59 (detriment):** Note that Mars is in its detriment in Virgo—sexual drive may be **overthought, analyzed to paralysis**, or expressed through excessive caution.
+
+**Line-by-line astrological progression** (00°07'30" - 05°45'00" Virgo):
+- **Line 1** (00°07'30" - 01°03'45"): The Preemptive Strike—entering Virgo with strategic intimacy
+- **Line 2** (01°03'45" - 02°00'00"): Shyness—Mercury's hesitation, analyzing before bonding
+- **Line 3** (02°00'00" - 02°56'15"): Openness—trial and error in early Virgo's discernment phase
+- **Line 4** (02°56'15" - 03°52'30"): Brotherhood/Sisterhood—bonding through shared service
+- **Line 5** (03°52'30" - 04°48'45"): Femme Fatale/Casanova—magnetic attraction in Virgo's refinement
+- **Line 6** (04°48'45" - 05°45'00"): One Night Stand—completion of initial Virgo bonding phase
 
 ### Tarot: The Lovers (Resonance)
 

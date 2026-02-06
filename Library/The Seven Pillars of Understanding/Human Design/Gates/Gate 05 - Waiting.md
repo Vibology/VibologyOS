@@ -35,6 +35,8 @@ The keynote is **fixed patterns and rhythm**. This is the Sacral's capacity to r
 |-----------|----------------|
 | **Gate Number** | 5 |
 | **I-Ching Hexagram** | 5 - ䷄ Waiting / Nourishment |
+| **Astrological Span** | 11°22'30" Sagittarius - 17°00'00" Sagittarius |
+| **I-Ching Trigram** | Heaven (☰) - Pure yang, creative force doubled |
 | **Center** | Sacral (Life Force, Fertility, Response) |
 | **Circuitry** | Collective - Logic Circuit (Understanding) |
 | **Channel** | 5-15 (Rhythm) - Sacral to G Center |
@@ -245,11 +247,30 @@ Richard Rudd's Gene Keys framework provides a shadow-gift-siddhi progression for
 
 The progression from Impatience to Timelessness is the journey of Gate 5: from restless forcing to patient alignment to the recognition that there is no such thing as "too late" or "too early"—only the eternal rhythm of now.
 
-### Astrology: Saturn (Timing and Cycles)
+### Astrology: Sagittarius 11°22'30" - 17°00'00" (Philosophical Patience)
 
-While the Rave I-Ching has specific astrological correspondences, Gate 5's **rhythmic quality** resonates with **Saturn**—the planet of timing, cycles, structure, and the wisdom that comes from honoring natural law.
+Gate 5 occupies the **mid-degrees of Sagittarius**, the sign of expansion, philosophy, faith, and the quest for meaning. These degrees represent Sagittarius's journey from enthusiastic exploration toward **wisdom through experience**.
 
-If an individual has Saturn activating Gate 5, their relationship to rhythm may involve **lessons in patience**, learning through the consequences of impatience, and ultimately mastering the art of correct timing.
+**Sagittarius's signature:** The archer aiming toward distant horizons, seeking truth through expansion and adventure. In Gate 5, this manifests as **patience for the journey**—the recognition that truth, fertility, and harvest cannot be rushed but must unfold in their natural rhythm.
+
+**Significance of mid-Sagittarius degrees:**
+- **Jupiter's domain:** Sagittarius is ruled by Jupiter, planet of expansion, abundance, and timing. Gate 5 in Sag embodies Jupiter's wisdom: **growth follows natural cycles**, not forced effort.
+- **Faith through waiting:** Mid-Sagittarius degrees cultivate **philosophical patience**—waiting becomes not mere passivity but an act of faith that the correct timing will reveal itself.
+- **Heaven trigram resonance:** Gate 5 belongs to the Heaven trigram (☰)—pure yang, creative force. In Sagittarius, this becomes the **creative patience** that trusts the universe's unfolding.
+
+**Planetary activations in Gate 5:**
+- **Sun in Gate 5:** Life purpose involves mastering natural rhythms and correct timing. Identity expressed through patient alignment with cycles.
+- **Jupiter in Gate 5:** Expansion through patience. Natural attunement to abundance cycles and harvest timing.
+- **Saturn in Gate 5:** The master teacher of rhythm. Learning patience through the consequences of impatience. Karmic lessons in honoring natural law.
+- **Neptune in Gate 5 (exalted in Design):** Mystical attunement to cosmic rhythms. Intuitive sensing of correct timing beyond rational understanding.
+
+**Line-by-line astrological progression** (11°22'30" - 17°00'00" Sagittarius):
+- **Line 1** (11°22'30" - 12°18'45"): Perseverance—early mid-Sag, building patience through sustained effort
+- **Line 2** (12°18'45" - 13°15'00"): Inner Peace—Jupiter's gift of serenity while waiting
+- **Line 3** (13°15'00" - 14°11'15"): Compulsiveness—trial-and-error with impatience vs. rhythm
+- **Line 4** (14°11'15" - 15°07'30"): The Hunter—strategic patience, waiting for the correct moment to act
+- **Line 5** (15°07'30" - 16°03'45"): Joy—the recognition that waiting itself can be pleasurable
+- **Line 6** (16°03'45" - 17°00'00"): Yielding—mature Sagittarian wisdom, surrendering to natural timing
 
 ### Tarot: The Hermit (Resonance, Not Direct Correlation)
 

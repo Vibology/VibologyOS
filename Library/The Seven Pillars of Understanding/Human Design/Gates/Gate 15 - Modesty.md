@@ -35,6 +35,8 @@ The keynote here is **love through experiential understanding**. This is the G C
 |-----------|----------------|
 | **Gate Number** | 15 |
 | **I-Ching Hexagram** | 15 - ䷎ Modesty / Humility |
+| **Astrological Span** | 28°15'00" Gemini - 03°52'30" Cancer |
+| **I-Ching Trigram** | Mountain (☶) - Stillness, keeping still |
 | **Center** | G Center (Identity, Direction, Love) |
 | **Circuitry** | Collective - Logic Circuit (Pattern Recognition) |
 | **Channel** | 15-5 (Rhythm) - G to Sacral |
