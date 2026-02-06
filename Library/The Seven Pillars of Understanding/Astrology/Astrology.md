@@ -263,6 +263,7 @@ The Astrology pillar contains:
 - **[[Triplicity Rulers]]** — Day/night/cooperating rulers by element; sect light assessment for eminence
 - **[[Reception]]** — Mutual reception, exchange of signs, counteraction through celestial hospitality
 - **[[Planetary Phases and Retrograde]]** — Synodic cycle, stations, visibility, morning/evening star, apparent speed
+- **[[Terms and Bounds]]** — Egyptian terms table, finest grain of traditional dignity, bound lord as Time Lord
 - **[[Lots]]** — Fortune, Spirit, and the Seven Hermetic Lots (Arabic Parts)
 - **[[Annual Profections]]** — Lord of the Year, twelve-year cycle, transit filtering
 - **[[Transits and Timing]]** — How current sky activates natal chart
