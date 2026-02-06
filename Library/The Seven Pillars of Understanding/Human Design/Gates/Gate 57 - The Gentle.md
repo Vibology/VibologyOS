@@ -35,6 +35,8 @@ The keynote here is **intuitive clarity in the present**. This is the Spleen Cen
 |-----------|----------------|
 | **Gate Number** | 57 |
 | **I-Ching Hexagram** | 57 - ䷸ The Gentle / Wind |
+| **Astrological Span** | 15°07'30" Libra - 20°45'00" Libra |
+| **I-Ching Trigram** | Wind (☴) - Gentle penetration, submissiveness |
 | **Center** | Spleen - Intuition, Survival, Health, Now |
 | **Circuitry** | Individual - Knowing Circuit (Mutation through Intuitive Awareness) |
 | **Channels** | 57-10 (Perfected Form), 57-20 (Brainwave), 57-34 (Power) |
@@ -250,11 +252,30 @@ Richard Rudd's Gene Keys framework provides a shadow-gift-siddhi progression for
 
 The progression from Unease to Clarity is the journey of Gate 57: from anxious doubt to spontaneous knowing.
 
-### Astrology: Mercury and Neptune (Resonance)
+### Astrology: Libra 15°07'30" - 20°45'00" (Balanced Intuition)
 
-Gate 57 resonates astrologically with **Mercury** (the planet of perception and communication) and **Neptune** (the planet of intuition and subtle knowing). While individual charts vary, Gate 57's energy mirrors the Mercurial capacity to **perceive quickly** and the Neptunian depth of **intuitive awareness**.
+Gate 57 occupies the **mid-degrees of Libra**, the sign of balance, discernment, and refined perception. These degrees represent Libra's capacity to **weigh and discern truth**—applied here to intuitive clarity in the present moment.
 
-If an individual has **Mercury or Neptune in Gate 57**, their intuitive capacity is central. They are here to embody the question: "Can I trust what I hear in the now?"
+**Libra's signature:** The scales seeking equilibrium, the capacity to perceive subtle imbalances and adjust. In Gate 57, this manifests as **acoustic intuition**—the Spleen's ability to "hear" what is correct or dangerous through subtle frequency shifts.
+
+**Significance of mid-Libra degrees:**
+- **Venus's domain:** Libra is ruled by Venus, planet of beauty, harmony, and refined perception. Gate 57 in Libra becomes **aesthetic intuition**—sensing correctness through what feels harmonious versus discordant.
+- **Wind trigram resonance:** Gate 57 belongs to the Wind trigram (☴)—gentle penetration, submissiveness. In Libra, wind becomes **refined air**—Mercury's mental clarity softened by Venus's grace, creating intuitive whispers rather than mental noise.
+- **Cardinal air balance:** Mid-Libra embodies cardinal air's capacity to **initiate through perception**. Gate 57's intuition is not passive reception but active discernment—penetrating through superficiality to hear truth.
+
+**Planetary activations in Gate 57:**
+- **Sun in Gate 57:** Life purpose involves trusting intuitive clarity in the now. Identity expressed through penetrating awareness.
+- **Mercury in Gate 57:** Enhanced acoustic perception. Communication rooted in intuitive knowing rather than mental processing.
+- **Neptune in Gate 57:** Mystical intuition. Direct access to subtle frequencies beyond rational comprehension.
+- **Pluto in Gate 57 (Personality detriment):** Intuition shadowed by fear of the unknown. Learning to trust spontaneous knowing despite resistance to transformation.
+
+**Line-by-line astrological progression** (15°07'30" - 20°45'00" Libra):
+- **Line 1** (15°07'30" - 16°03'45"): Confusion—early mid-Libra, learning to distinguish intuition from mental noise
+- **Line 2** (16°03'45" - 17°00'00"): Cleansing—Venus's gift of purifying perception
+- **Line 3** (17°00'00" - 17°56'15"): Acuteness—trial-and-error sharpening intuitive discernment
+- **Line 4** (17°56'15" - 18°52'30"): The Director—using intuition to guide others toward correct timing
+- **Line 5** (18°52'30" - 19°48'45"): Progression—intuitive clarity building momentum
+- **Line 6** (19°48'45" - 20°45'00"): Utilization—mature Libran wisdom, intuition in service
 
 ### Tarot: The High Priestess (Resonance)
 

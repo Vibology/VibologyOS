@@ -240,11 +240,28 @@ Richard Rudd's Gene Keys framework provides a shadow-gift-siddhi progression for
 
 The progression from Half-Heartedness to Devotion is the journey of Gate 29: from reluctant engagement to sacred perseverance.
 
-### Astrology: Pluto and Moon (Resonance)
+### Astrology: Leo 24°30'00" - Virgo 00°07'30" (Threshold of Service)
 
-In archetypal astrology, Gate 29 resonates with **Pluto** (the planet of depth, transformation, and the underworld/abyss) and **Moon** (emotional commitment, nurturing, and sustained engagement). Both speak to the **capacity to dive deep and endure**.
+Gate 29 spans the **cusp between Leo and Virgo**—the transition from the Sun's radiant self-expression to Mercury's analytical service. These are **threshold degrees** where creative fire transforms into committed work.
 
-If an individual has Gate 29 activated by their Pluto or Moon placement in their Rave Chart, their **transformation and emotional nature** (Pluto/Moon) are expressed through deep commitment and perseverance.
+**Leo-Virgo cusp significance:**
+- **From performance to perseverance:** Leo's final degrees complete the solar journey of self-expression; Virgo's opening degrees initiate the work of refinement through service. Gate 29 bridges this transition through **Sacral commitment**—saying yes (Leo's generosity) to experiences that require sustained effort (Virgo's dedication).
+- **Water trigram at fire-earth cusp:** Gate 29 belongs to the Water trigram (☵)—the abyss, danger, depth. At the Leo-Virgo cusp, water becomes the **deep commitment** that allows creative fire (Leo) to transform into practical service (Virgo).
+- **Sun-Mercury synthesis:** This cusp synthesizes the Sun (Leo's ruler: vitality, radiance, willpower) with Mercury (Virgo's ruler: analysis, discrimination, work). Gate 29 embodies both: **willful commitment** (Sun) refined through discernment (Mercury).
+
+**Planetary activations in Gate 29:**
+- **Sun in Gate 29:** Life purpose involves deep commitment to meaningful experiences. Identity expressed through perseverance.
+- **Moon in Gate 29:** Instinctive knowing about what to commit to. Emotional cycles of engagement and completion.
+- **Saturn in Gate 29 (Design):** Karmic lessons through commitment. Learning to persevere through difficulty without abandoning the path.
+- **Pluto in Gate 29:** Transformation through abyssal commitment. The capacity to say yes to death/rebirth experiences.
+
+**Line-by-line astrological progression** (24°30'00" Leo - 00°07'30" Virgo):
+- **Line 1** (24°30'00" - 25°26'15" Leo): The Draftee—late Leo, committed despite resistance
+- **Line 2** (25°26'15" - 26°22'30" Leo): Assessment—Sun's discernment before committing
+- **Line 3** (26°22'30" - 27°18'45" Leo): Evaluation—trial-and-error at Leo's completion
+- **Line 4** (27°18'45" - 28°15'00" Leo): Directness—final Leo degrees, honest commitment
+- **Line 5** (28°15'00" - 29°11'15" Virgo): Overreach—crossing into Virgo, over-commitment to service
+- **Line 6** (29°11'15" - 00°07'30" Virgo): Confusion—early Virgo, analyzing commitment patterns
 
 ### Tarot: The Hanged Man (Atu XII) and Temperance (Atu XIV)
 

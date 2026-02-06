@@ -238,11 +238,28 @@ Richard Rudd's Gene Keys framework provides a shadow-gift-siddhi progression for
 
 The progression from Seriousness to Ecstasy is the journey of Gate 46: from controlling the body to celebrating it as sacred.
 
-### Astrology: Venus (Love and Physical Pleasure)
+### Astrology: Virgo 28°15'00" - Libra 03°52'30" (Embodied Grace)
 
-In astrological terms, Gate 46 resonates with **Venus**—the planet of love, beauty, and physical pleasure. Venus represents **the capacity to appreciate and enjoy physical form**.
+Gate 46 spans the **cusp between Virgo and Libra**—the transition from Mercury's practical refinement to Venus's aesthetic harmony. These are **threshold degrees** where analytical service transforms into graceful embodiment.
 
-If an individual has their Venus in Gate 46, their **love nature** is designed to manifest through embodiment. They are here to love the body and experience beauty through physical presence.
+**Virgo-Libra cusp significance:**
+- **From perfection to presence:** Virgo's final degrees complete the work of physical refinement; Libra's opening degrees initiate the experience of graceful being. Gate 46 bridges this transition through **love of the body**—appreciating physical form (Virgo's attention to detail) without judgment (Libra's acceptance).
+- **Wind trigram at earth-air cusp:** Gate 46 belongs to the Wind trigram (☴)—gentle penetration, organic growth. At the Virgo-Libra cusp, wind becomes **the breath of embodied life**—Mercury's awareness (Virgo) softened into Venus's delight (Libra).
+- **Mercury-Venus synthesis:** This cusp synthesizes Mercury (Virgo's ruler: analysis, health, body awareness) with Venus (Libra's ruler: beauty, love, pleasure). Gate 46 embodies both: **intelligent embodiment** (Mercury) experienced through delight (Venus).
+
+**Planetary activations in Gate 46:**
+- **Sun in Gate 46:** Life purpose involves celebrating physical existence. Identity expressed through embodied presence.
+- **Venus in Gate 46:** Love of the body and physical experience. Natural serendipity through inhabiting form with delight.
+- **Moon in Gate 46:** Instinctive love of physicality. Emotional cycles reflected in bodily awareness.
+- **North Node in Gate 46 (Design):** Evolutionary path involves learning to fully inhabit the body. Serendipity increases as embodiment deepens.
+
+**Line-by-line astrological progression** (28°15'00" Virgo - 03°52'30" Libra):
+- **Line 1** (28°15'00" - 29°11'15" Virgo): Being Discovered—late Virgo, body awareness attracting recognition
+- **Line 2** (29°11'15" - 00°07'30" Libra): Genius—crossing into Libra, embodied brilliance
+- **Line 3** (00°07'30" - 01°03'45" Libra): Projection—early Libra, others projecting onto physical presence
+- **Line 4** (01°03'45" - 02°00'00" Libra): Impact—Venus's domain, body creating relational impact
+- **Line 5** (02°00'00" - 02°56'15" Libra): Influence—embodied magnetism drawing opportunities
+- **Line 6** (02°56'15" - 03°52'30" Libra): Integrity—mature embodiment with grace and wisdom
 
 ### Tarot: The Empress (Embodied Abundance)
 
