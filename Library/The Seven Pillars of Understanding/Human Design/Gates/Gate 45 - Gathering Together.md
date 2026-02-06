@@ -246,11 +246,15 @@ In astrological terms, Gate 45 resonates with the **Sun's** centralizing functio
 
 If an individual has their Sun in Gate 45, their **life purpose** is to embody rulership—to speak with authority about resource management and gather people around shared survival interests.
 
-### Tarot: The Emperor (Structure and Authority)
+### Tarot: The Chariot (Canonical Correspondence - Ra Uru Hu)
 
-While Human Design does not map 1:1 to Tarot, Gate 45 resonates with **The Emperor** (Atu IV)—the figure of established authority, rulership, and structure. The Emperor governs, creates laws, and manages resources for the benefit of the kingdom.
+According to Ra Uru Hu's teaching documented by Eleanor Haspel-Portner (2003), Gate 45 corresponds to **The Chariot** (Atu VII / Key 7) in the Major Arcana. This is not thematic resonance but canonical correspondence from Ra's 1998 transmission.
 
-Both speak to the capacity to **rule, structure, and gather** with authority.
+**The Chariot's essence:** Directed will, mastery through discipline, harnessing opposing forces toward unified purpose. The charioteer controls the black and white sphinxes—conflict channeled into forward movement.
+
+**Gate 45's mechanics:** Gathering Together—the voice of tribal rulership and resource management. The Throat gate that gathers the tribe around shared material interests, speaking with authority about allocation and survival.
+
+**Convergence:** Gate 45's tribal gathering requires The Chariot's **mastery of opposing forces**. To rule is to harness competing interests—individual desires versus collective need, present consumption versus future security. The Chariot does not suppress opposition but **channels it** toward victory; Gate 45 does not deny tribal politics but **manages them** toward prosperity. Both teach that **leadership is disciplined will**—the capacity to direct diverse energies toward unified material success. Channel 45-21 (Money) embodies The Chariot's will to control resources through strategic direction.
 
 ### Qabalah: Chesed (Mercy - Benevolent Rulership)
 

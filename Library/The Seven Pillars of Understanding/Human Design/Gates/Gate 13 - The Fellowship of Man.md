@@ -246,11 +246,15 @@ The progression from Discord to Empathy is the journey of Gate 13: from overwhel
 
 In the Rave I-Ching, Gate 13 corresponds to specific astrological degrees. While individual charts vary, Gate 13 resonates with **Jupiter**—the planet of expansion, wisdom, and the capacity to synthesize many experiences into universal understanding. If an individual has their Jupiter in Gate 13, their **Jupiter function** (growth, teaching, philosophy) involves listening to the collective and sharing what they've learned.
 
-### Tarot: The Hierophant (Resonance, Not Direct Correlation)
+### Tarot: The Sun (Canonical Correspondence - Ra Uru Hu)
 
-While Human Design does not map 1:1 to Tarot, Gate 13 resonates with **The Hierophant** (Atu V)—the figure who **holds tradition, hears confession, and transmits collective wisdom**. The Hierophant is the keeper of sacred memory, the one who witnesses and teaches.
+According to Ra Uru Hu's teaching documented by Eleanor Haspel-Portner (2003), Gate 13 corresponds to **The Sun** (Atu XIX / Key 19) in the Major Arcana. This is not thematic resonance but canonical correspondence from Ra's 1998 transmission.
 
-Both speak to the capacity to **hold collective memory and share it** when the time is right.
+**The Sun's essence:** Radiant clarity, illumination, the light that reveals all things without judgment. The Sun shines equally on saint and sinner, illuminating universal truth.
+
+**Gate 13's mechanics:** The listener—capacity to witness and hold the stories of human experience. The G Center gate that receives collective memory through the Collective Sharing Circuit, recognizing universal patterns across individual narratives.
+
+**Convergence:** Gate 13's listening requires The Sun's **illuminating presence**. The witness shines light on all human experience without discriminating—hearing stories of darkness and light with equal clarity. The Sun reveals truth through radiant presence; Gate 13 reveals universal patterns through compassionate listening. Both operate through **non-judgmental illumination**—seeing all, loving all. Line 1 (Empathy) and Line 6 (Optimism) embody The Sun's radiant acceptance. The listener becomes the light that allows others to see their own stories as part of humanity's larger tapestry.
 
 ### Qabalah: Chesed (Mercy)
 

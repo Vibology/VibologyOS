@@ -251,11 +251,15 @@ In the Rave I-Ching, Gate 2 corresponds to specific astrological degrees. While 
 
 If an individual has their Moon (unconscious, body) in Gate 2, their **deep bodily knowing** is oriented through receptivity. They may not consciously "know" their direction, but their body will pull them toward it.
 
-### Tarot: The High Priestess (Resonance, Not Direct Correlation)
+### Tarot: The Tower (Canonical Correspondence - Ra Uru Hu)
 
-While Human Design does not map 1:1 to Tarot, Gate 2 resonates with **The High Priestess** (Atu II)—the figure seated between the pillars, **receptive to the mysteries** that move through her. She does not seek; she receives. She does not act; she allows.
+According to Ra Uru Hu's teaching documented by Eleanor Haspel-Portner (2003), Gate 2 corresponds to **The Tower** (Atu XVI / Key 16) in the Major Arcana. This is not thematic resonance but canonical correspondence from Ra's 1998 transmission.
 
-Both speak to the capacity to **receive wisdom, direction, or knowing** from the depths without needing to control or force it.
+**The Tower's essence:** Sudden revelation, destruction of false structures, lightning strike that shatters illusion. The tower built on false foundation must fall so truth can be seen.
+
+**Gate 2's mechanics:** The Driver, the Higher Self—receptivity to one's own geometry, allowing direction to emerge from within rather than seeking it externally. The capacity to receive directional impulses through the magnetic monopole.
+
+**Convergence:** Gate 2's receptive direction requires The Tower's **destruction of false paths**. When conditioned ideas about "where one should go" are shattered (The Tower), the individual can finally receive their authentic geometry. The Tower strips away mental constructs, leaving only the body's truth—the magnetic monopole's pull. Both teach that **true direction emerges only when false structures collapse**, when the individual stops forcing a path and allows their geometry to orient them. The shock of The Tower creates the opening for Gate 2's receptive clarity.
 
 ### Qabalah: Chokmah (Wisdom) and Binah (Understanding)
 

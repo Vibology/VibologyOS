@@ -266,11 +266,15 @@ Gate 12 occupies the **final degrees of Gemini**, the sign of communication, cur
 - **Line 5** (26°22'30" - 27°18'45"): The Pragmatist—practical restraint in late Gemini
 - **Line 6** (27°18'45" - 28°15'00"): Transformation—Gemini's completion, caution becoming wisdom
 
-### Tarot: The Hanged Man (Resonance, Not Direct Correlation)
+### Tarot: Strength (Canonical Correspondence - Ra Uru Hu)
 
-While Human Design does not map 1:1 to Tarot, Gate 12 resonates with **The Hanged Man** (Atu XII)—the figure suspended in standstill, waiting, sacrificing forward momentum for deeper perspective. The Hanged Man teaches that **inaction can be sacred**, that suspension opens vision.
+According to Ra Uru Hu's teaching documented by Eleanor Haspel-Portner (2003), Gate 12 corresponds to **Strength** (Atu VIII / Key 8) in the Major Arcana. This is not thematic resonance but canonical correspondence from Ra's 1998 transmission.
 
-Both speak to the capacity to **endure standstill without forcing movement**, to trust the wisdom of pause.
+**Strength's essence:** Quiet power, gentle mastery, the capacity to tame the lion through calm presence rather than force. Strength is restraint that does not shout.
+
+**Gate 12's mechanics:** The mutative voice of caution—articulating "no," "wait," or "not yet" when collective momentum demands action. The Throat gate that expresses standstill and restraint within the Individual Knowing Circuit.
+
+**Convergence:** Gate 12's caution requires Strength's **gentle power**. The voice of restraint is not aggressive refusal but **calm, centered "no"** that comes from inner strength rather than fear. Strength tames the lion (collective pressure to act) through quiet presence; Gate 12 articulates standstill without being consumed by others' momentum. Both teach that **true power lies in restraint**, that the capacity to say "wait" with grace requires more strength than blind action. Line 1 (The Monk) and Line 6 (Transformation) embody Strength's wisdom that stillness is sacred power.
 
 ### Qabalah: Binah (Understanding)
 

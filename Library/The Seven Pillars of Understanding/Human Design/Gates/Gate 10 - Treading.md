@@ -259,11 +259,15 @@ While the Rave I-Ching has specific astrological correspondences, Gate 10's **be
 
 If an individual has their Sun in Gate 10, their **life purpose** is to embody authentic behavior, to be themselves without apology, and to inspire others through natural example.
 
-### Tarot: The Sun (Resonance, Not Direct Correlation)
+### Tarot: Temperance (Canonical Correspondence - Ra Uru Hu)
 
-While Human Design does not map 1:1 to Tarot, Gate 10 resonates with **The Sun** (Atu XIX)—the card of **natural radiance, authenticity, and the joy of being oneself**. The Sun does not perform; it simply shines.
+According to Ra Uru Hu's teaching documented by Eleanor Haspel-Portner (2003), Gate 10 corresponds to **Temperance** (Atu XIV / Key 14) in the Major Arcana. This is not thematic resonance but canonical correspondence from Ra's 1998 transmission.
 
-Both speak to the **necessity of authentic self-expression**—being oneself is not arrogance; it is natural law.
+**Temperance's essence:** Balance, moderation, the alchemical mixing of opposites. The angel pours water between cups—blending extremes into harmonious whole.
+
+**Gate 10's mechanics:** Behavior of the self—the underlying code of how one moves through the world, interacts with others, and expresses natural way of being. Love of oneself manifested through authentic behavior.
+
+**Convergence:** Gate 10's behavioral authenticity requires Temperance's **balance between extremes**. Natural behavior emerges not from rigid consistency but from **modulating response to context**—knowing when to be modest (Line 1), when to withdraw (Line 2), when to be opportunistic (Line 4). Both teach that **authentic self-expression is the art of balanced response**, not fixed performance. Temperance's mixing of elements mirrors Gate 10's capacity to embody diverse behavioral patterns while maintaining core self-love. The key is moderation—being oneself without inflation or self-betrayal.
 
 ### Qabalah: Tiphereth (Beauty and Balanced Self)
 

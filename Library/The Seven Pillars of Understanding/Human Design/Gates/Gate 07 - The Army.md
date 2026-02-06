@@ -256,11 +256,15 @@ While the Rave I-Ching has specific astrological correspondences, Gate 7's **lea
 
 If an individual has Saturn activating Gate 7, their leadership may involve **lessons in authority**, learning to wield power without tyranny, and mastering the art of guiding the collective.
 
-### Tarot: The Emperor (Resonance, Not Direct Correlation)
+### Tarot: Death (Canonical Correspondence - Ra Uru Hu)
 
-While Human Design does not map 1:1 to Tarot, Gate 7 resonates with **The Emperor** (Atu IV)—the figure of **structure, order, and authority**. The Emperor rules not through force but through clarity of role and the capacity to organize chaos into functional systems.
+According to Ra Uru Hu's teaching documented by Eleanor Haspel-Portner (2003), Gate 7 corresponds to **Death** (Atu XIII / Key 13) in the Major Arcana. This is not thematic resonance but canonical correspondence from Ra's 1998 transmission.
 
-Both speak to the **necessity of leadership**—the collective requires guidance, and certain individuals are designed to provide it.
+**Death's essence:** Transformation through endings, the necessary dissolution that precedes rebirth. The reaper who clears what has served its time so new forms can emerge.
+
+**Gate 7's mechanics:** The role of self in collective leadership—the power behind the throne, organizing and guiding the collective. Leadership as provisional role, not permanent identity. Line 4 (The Abdicator) embodies the wisdom to step down when the role is complete.
+
+**Convergence:** Gate 7's leadership requires Death's **understanding that all roles must end**. True leadership serves the collective's evolution, not the leader's ego—and evolution requires endings. The general (Line 5) must know when the campaign is complete; the administrator (Line 6) must recognize when structures have outlived their function. Both teach that **effective leadership includes the wisdom to die to the role**, to allow transformation rather than clinging to authority. Gate 7 through Death becomes leadership that serves life by honoring endings.
 
 ### Qabalah: Chesed (Mercy and Benevolent Authority)
 

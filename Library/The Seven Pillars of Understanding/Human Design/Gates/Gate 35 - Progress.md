@@ -246,9 +246,15 @@ The progression from Hunger to Boundlessness is the journey of Gate 35: from cra
 
 Gate 35 resonates with **Jupiter** (expansion, growth, adventure) and **Sagittarius** (the seeker, the explorer, the philosopher-adventurer).
 
-### Tarot: The Fool (Resonance, Not Direct Correlation)
+### Tarot: The Hermit (Canonical Correspondence - Ra Uru Hu)
 
-While Human Design does not map 1:1 to Tarot, Gate 35 resonates with **The Fool** (Atu 0)—the figure stepping off the cliff into new experience, the hunger for journey, the trust in adventure.
+According to Ra Uru Hu's teaching documented by Eleanor Haspel-Portner (2003), Gate 35 corresponds to **The Hermit** (Atu IX / Key 9) in the Major Arcana. This is not thematic resonance but canonical correspondence from Ra's 1998 transmission.
+
+**The Hermit's essence:** Solitary seeking, the lantern of inner wisdom gained through withdrawal and experience. The sage who has journeyed alone and brings light from that journey.
+
+**Gate 35's mechanics:** Progress—the hunger for new experience, the voice that says "I feel" through lived emotional journey. The Throat gate that articulates experiential wisdom within the Collective Sensing Circuit.
+
+**Convergence:** Gate 35's hunger for experience requires The Hermit's **solitary journey**. Progress is not group movement but **individual adventure** that enriches the collective. The Hermit withdraws to climb the mountain alone, then brings the light back; Gate 35 seeks new experience independently, then shares what was felt and learned. Both teach that **authentic progress requires solo journey**—the wisdom to pursue experience alone before sharing its lessons. Channel 35-36 (Transitoriness) embodies The Hermit's transient path—moving through emotional landscapes to gather experiential knowing.
 
 ### Qabalah: Chokmah (Wisdom)
 

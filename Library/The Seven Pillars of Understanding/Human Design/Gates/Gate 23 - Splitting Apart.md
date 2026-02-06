@@ -248,11 +248,15 @@ In archetypal astrology, Gate 23 resonates with **Mercury** (the planet of commu
 
 If an individual has Gate 23 activated by their Mercury or Uranus placement in their Rave Chart, their **communication and insight** (Mercury/Uranus) are expressed through individual knowing and mutative articulation.
 
-### Tarot: The Hermit (Atu IX) and The Tower (Atu XVI)
+### Tarot: Justice (Canonical Correspondence - Ra Uru Hu)
 
-While Human Design does not map 1:1 to Tarot, Gate 23 resonates with **The Hermit** (Atu IX)—the figure who withdraws to know truth and then brings that light to others—and **The Tower** (Atu XVI)—the structure that must be destroyed for truth to emerge.
+According to Ra Uru Hu's teaching documented by Eleanor Haspel-Portner (2003), Gate 23 corresponds to **Justice** (Atu XI / Key 11) in the Major Arcana. This is not thematic resonance but canonical correspondence from Ra's 1998 transmission.
 
-Both speak to the capacity to **break down illusion** and articulate what is revealed.
+**Justice's essence:** Discernment, balance, the sword that cuts through to truth. Justice weighs, measures, and articulates what is real versus what is illusion.
+
+**Gate 23's mechanics:** Splitting Apart—the Individual Knowing Circuit's capacity to assimilate information, break down complexity, and articulate knowing in digestible form. The mutative voice that says "this is what I know, when I know it."
+
+**Convergence:** Gate 23's assimilation requires Justice's **discerning blade**. To articulate knowing, one must first **split apart** what is true from what is false, separate wheat from chaff. Justice does not judge morally but **discriminates precisely**; Gate 23 does not explain everything but speaks only what has been fully assimilated. Both teach that **truth emerges through discernment**—the capacity to weigh, measure, and articulate only what can be known with certainty. The sword of Justice is Gate 23's splitting apart—cutting away illusion to reveal core knowing.
 
 ### Qabalah: Binah (Understanding)
 

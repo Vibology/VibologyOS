@@ -247,11 +247,15 @@ In the Rave I-Ching, Gate 33 corresponds to specific astrological degrees. While
 
 If an individual has Mercury Retrograde in Gate 33, their **communication style** may involve processing internally before speaking, needing privacy to formulate thoughts, and sharing stories that emerge from contemplation rather than immediate response.
 
-### Tarot: The Hermit (Resonance, Not Direct Correlation)
+### Tarot: The Lovers (Canonical Correspondence - Ra Uru Hu)
 
-While Human Design does not map 1:1 to Tarot, Gate 33 resonates with **The Hermit** (Atu IX)—the figure who withdraws to the mountaintop, carrying the lantern of inner truth, descending only when the light is ready to be shared.
+According to Ra Uru Hu's teaching documented by Eleanor Haspel-Portner (2003), Gate 33 corresponds to **The Lovers** (Atu VI / Key 6) in the Major Arcana. This is not thematic resonance but canonical correspondence from Ra's 1998 transmission.
 
-Both speak to the **necessity of solitude** for the emergence of wisdom, and the eventual return with insight.
+**The Lovers' essence:** Choice, relationship, the decision to unite or separate. The angel presides over the union that requires conscious decision—not compulsion but willing commitment.
+
+**Gate 33's mechanics:** Privacy—the strategic retreat to process experience, reflect on memory, and choose what to share. The Throat gate that says "I remember" but only when privacy ends and sharing begins.
+
+**Convergence:** Gate 33's retreat requires The Lovers' **understanding of choice in relationship**. Privacy is not isolation—it is the conscious decision to **withdraw from collective engagement** to preserve the integrity of memory. The Lovers teach that true union requires separation first—one must know oneself alone before joining with another. Gate 33 retreats to process what has been experienced (Channel 13-33), then chooses when to share that memory. Both teach that **authentic sharing requires privacy first**—the wisdom to retreat, reflect, and decide what aspects of experience serve collective understanding.
 
 ### Qabalah: Binah (Understanding)
 

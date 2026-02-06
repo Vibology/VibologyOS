@@ -246,11 +246,15 @@ The progression from Indifference to Mastery is the journey of Gate 16: from apa
 
 In the Rave I-Ching, Gate 16 resonates with **Jupiter**—the planet of expansion, growth, and enrichment. If an individual has their Jupiter in Gate 16, their **growth and expansion** (Jupiter themes) occur through skill development, through the enrichment that comes from dedicated practice.
 
-### Tarot: The Hierophant (Resonance, Not Direct Correlation)
+### Tarot: The High Priestess (Canonical Correspondence - Ra Uru Hu)
 
-While Human Design does not map 1:1 to Tarot, Gate 16 resonates with **The Hierophant** (Atu V)—the figure who transmits tradition through ritual and practice, who honors the path of mastery through repetition and dedication to form.
+According to Ra Uru Hu's teaching documented by Eleanor Haspel-Portner (2003), Gate 16 corresponds to **The High Priestess** (Atu II / Key 2) in the Major Arcana. This is not thematic resonance but canonical correspondence from Ra's 1998 transmission.
 
-Both speak to the capacity to **learn through structured practice**, to honor tradition and technique as pathways to mastery.
+**The High Priestess's essence:** Hidden knowledge, intuitive mastery, the keeper of mysteries. She sits between pillars—the guardian of that which must be earned through devoted practice.
+
+**Gate 16's mechanics:** Skills and talents developed through repetition—the Throat gate that manifests expertise through consistent practice within the Collective Logic Circuit. Enthusiasm born of competence.
+
+**Convergence:** Gate 16's mastery through repetition requires The High Priestess's **understanding that true knowledge is veiled**. Skills are not acquired through single effort but through **devoted, repetitive practice** that gradually reveals deeper layers. The High Priestess guards mysteries until the seeker has proven readiness through dedication; Gate 16 builds skill until unconscious competence emerges. Both teach that **mastery is initiation**—each repetition takes you deeper behind the veil, revealing knowledge that cannot be taught, only earned through practice.
 
 ### Qabalah: Hod (Splendor/Glory)
 

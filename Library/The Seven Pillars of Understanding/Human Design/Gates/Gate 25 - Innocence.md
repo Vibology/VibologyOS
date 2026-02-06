@@ -248,11 +248,15 @@ In archetypal astrology, Gate 25 resonates with **Neptune** (the planet of unive
 
 If an individual has Gate 25 activated by their Neptune or Venus placement in their Rave Chart, their **spirituality and love** (Neptune/Venus) are expressed through innocence and Universal Love.
 
-### Tarot: The Fool (Atu 0) and The Star (Atu XVII)
+### Tarot: The Moon (Canonical Correspondence - Ra Uru Hu)
 
-While Human Design does not map 1:1 to Tarot, Gate 25 resonates with **The Fool** (Atu 0)—the innocent wanderer aligned with divine will, stepping without fear—and **The Star** (Atu XVII)—the figure of hope, Universal Love, and spiritual renewal.
+According to Ra Uru Hu's teaching documented by Eleanor Haspel-Portner (2003), Gate 25 corresponds to **The Moon** (Atu XVIII / Key 18) in the Major Arcana. This is not thematic resonance but canonical correspondence from Ra's 1998 transmission.
 
-Both speak to the capacity to **trust existence and love unconditionally**.
+**The Moon's essence:** Instinctual innocence, navigating by inner light through darkness. The path between towers leads through shadow, yet the innocent spirit walks it without fear—not through ignorance but through trust in what cannot be seen.
+
+**Gate 25's mechanics:** The spirit of the self—innocence as alignment with universal love. The G Center's capacity to move through life's darkness (disease, suffering, chaos) while maintaining innocent trust in existence.
+
+**Convergence:** Gate 25's innocence requires The Moon's **trust in instinct over intellect**. The Moon illuminates the unconscious path; Gate 25 walks it without needing rational assurance. Both navigate by **inner light when outer sight fails**. Innocence is not naivety—it is the wisdom to trust the spirit's guidance through territories the mind cannot map. The Moon's dog and wolf (tame and wild instinct) mirror Gate 25's capacity to love universally without discrimination. Both teach that **true innocence is instinctual faith** in existence's benevolence, even when walking through darkness.
 
 ### Qabalah: Tiphereth (Beauty/Harmony)
 

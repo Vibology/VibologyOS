@@ -265,9 +265,15 @@ Gate 15 spans the **cusp between Gemini and Cancer**—the transition from Mercu
 - **Line 5** (02°00'00" - 02°56'15" Cancer): Sensitivity—Moon's domain, heightened feeling
 - **Line 6** (02°56'15" - 03°52'30" Cancer): Self-Defense—protecting emotional boundaries in early Cancer
 
-### Tarot: Temperance (Resonance, Not Direct Correlation)
+### Tarot: The Devil (Canonical Correspondence - Ra Uru Hu)
 
-While Human Design does not map 1:1 to Tarot, Gate 15 resonates with **Temperance** (Atu XIV)—the figure who balances extremes by pouring water between vessels, harmonizing fire and water, earth and heaven. Both speak to the capacity to **hold opposites in dynamic equilibrium**.
+According to Ra Uru Hu's teaching documented by Eleanor Haspel-Portner (2003), Gate 15 corresponds to **The Devil** (Atu XV / Key 15) in the Major Arcana. This is not thematic resonance but canonical correspondence from Ra's 1998 transmission.
+
+**The Devil's essence:** Bondage to extremes, material attachment, shadow integration. The chained figures who could free themselves but don't—the recognition that we experience extremes by choice, not compulsion.
+
+**Gate 15's mechanics:** Love of humanity through experiencing the full spectrum of behavioral patterns—the G Center's capacity to embody extremes while maintaining equilibrium. The Collective Logic Circuit gate that loves humanity by living its diversity.
+
+**Convergence:** Gate 15's experience of extremes finds its shadow teacher in The Devil. While often interpreted as purely negative, The Devil teaches that **engaging with extremes is how we learn what they are**—we must chain ourselves to experience the bondage, then recognize we hold the key. Gate 15 loves humanity precisely because it has lived the extremes others judge—addiction and sobriety, wealth and poverty, virtue and vice. Line 3 (Ego Inflation) and Line 5 (Sensitivity) embody The Devil's teaching: extremes inflate the ego until we recognize the chains are self-imposed. Both teach that **freedom comes through experiencing bondage consciously**, that loving all patterns requires having lived them.
 
 ### Qabalah: Yesod (Foundation)
 

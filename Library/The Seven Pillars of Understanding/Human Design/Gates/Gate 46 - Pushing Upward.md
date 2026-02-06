@@ -263,11 +263,15 @@ Gate 46 spans the **cusp between Virgo and Libra**—the transition from Mercury
 - **Line 5** (02°00'00" - 02°56'15" Libra): Influence—embodied magnetism drawing opportunities
 - **Line 6** (02°56'15" - 03°52'30" Libra): Integrity—mature embodiment with grace and wisdom
 
-### Tarot: The Empress (Embodied Abundance)
+### Tarot: The Star (Canonical Correspondence - Ra Uru Hu)
 
-While Human Design does not map 1:1 to Tarot, Gate 46 resonates with **The Empress** (Atu III)—the figure of embodied abundance, physical fertility, and love of the material world. The Empress represents **the celebration of incarnation**.
+According to Ra Uru Hu's teaching documented by Eleanor Haspel-Portner (2003), Gate 46 corresponds to **The Star** (Atu XVII / Key 17) in the Major Arcana. This is not thematic resonance but canonical correspondence from Ra's 1998 transmission.
 
-Both speak to the capacity to **love physical form** and to experience abundance through embodied presence.
+**The Star's essence:** Hope, guidance, being in the right place. The naked figure pours water onto earth and into pool—grounded presence creating flow and renewal.
+
+**Gate 46's mechanics:** Love of the body—the G Center's determination to be fully present in physical form. Serendipity through embodiment, being exactly where one needs to be because one inhabits the body completely.
+
+**Convergence:** Gate 46's embodied presence requires The Star's **naked authenticity**. The Star figure is unclothed—no artifice, fully present in natural form. She pours water (life force) onto earth (body), demonstrating **grounded spiritual presence**. Gate 46 loves being in the body, creating serendipitous encounters through physical presence. Both teach that **the body is the guiding star**—when fully inhabited, it places you exactly where you need to be. The Star's hope is embodied trust; Gate 46's serendipity is somatic guidance. Channel 46-29 (Discovery) embodies The Star's gift of stumbling upon exactly what's needed through bodily presence.
 
 ### Qabalah: Malkuth (Kingdom - Physical Manifestation)
 

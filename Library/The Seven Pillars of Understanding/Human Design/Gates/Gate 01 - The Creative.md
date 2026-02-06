@@ -247,11 +247,15 @@ In the Rave I-Ching, Gate 1 corresponds to specific astrological degrees. While 
 
 If an individual has their Sun in Gate 1, their **life purpose** (Sun = conscious identity) is to express unique creative direction. They are here to embody the question: "What is mine to create that has never been created before?"
 
-### Tarot: The Magician (Resonance, Not Direct Correlation)
+### Tarot: The Hanged Man (Canonical Correspondence - Ra Uru Hu)
 
-While Human Design does not map 1:1 to Tarot, Gate 1 resonates with **The Magician** (Atu I)—the figure who channels creative force from the infinite (Heaven/Spirit) into manifestation (Earth/Form). The Magician's gesture ("As above, so below") mirrors Gate 1's bridging of identity (G Center) with expression (via Gate 8, Throat).
+According to Ra Uru Hu's teaching documented by Eleanor Haspel-Portner (2003), Gate 1 corresponds to **The Hanged Man** (Atu XII / Key 12) in the Major Arcana. This is not thematic resonance but canonical correspondence from Ra's 1998 transmission.
 
-Both speak to the capacity to **initiate, create, and bring forth** from the well of individual will.
+**The Hanged Man's essence:** Suspension, surrender to higher perspective, sacrifice of ego to receive vision. The figure hangs inverted—willingly sacrificing forward momentum to gain illumination.
+
+**Gate 1's mechanics:** The primal creative force in the G Center—"I am" seeking expression without limitation. Pure initiating power through individual direction.
+
+**Convergence:** The creative force of Gate 1 requires the Hanged Man's **surrender** to receive direction authentically. True creation emerges not through forcing will but through suspending ego and allowing inspiration to move through the vessel. The individual's creative direction comes when they cease grasping and allow themselves to see from an inverted perspective—trusting that aloneness and withdrawal (Line 4) open the channel for unprecedented creative vision. Both teach that **the greatest creative power comes through willing suspension of control**.
 
 ### Qabalah: Kether (The Crown)
 

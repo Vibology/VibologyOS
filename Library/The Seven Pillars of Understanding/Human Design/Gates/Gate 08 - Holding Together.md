@@ -257,11 +257,15 @@ While the Rave I-Ching has specific astrological correspondences, Gate 8's **cre
 
 If an individual has Mercury activating Gate 8, their creative expression may be **quick, versatile, and communicative**, though requiring alignment with G Center direction to avoid scattered expression.
 
-### Tarot: Strength (Resonance, Not Direct Correlation)
+### Tarot: The Hierophant (Canonical Correspondence - Ra Uru Hu)
 
-While Human Design does not map 1:1 to Tarot, Gate 8 resonates with **Strength** (Atu VIII, in some decks XI)—the card of **quiet, authentic power** expressed through gentle mastery. Strength does not force or dominate; it expresses naturally, and that itself is the contribution.
+According to Ra Uru Hu's teaching documented by Eleanor Haspel-Portner (2003), Gate 8 corresponds to **The Hierophant** (Atu V / Key 5) in the Major Arcana. This is not thematic resonance but canonical correspondence from Ra's 1998 transmission.
 
-Both speak to the **power of authentic expression**—the voice that does not shout but is heard nonetheless.
+**The Hierophant's essence:** The bridge between divine and human, the teacher who translates spiritual truth into communicable form. The priest who makes sacred knowledge accessible through structured transmission.
+
+**Gate 8's mechanics:** Contribution through unique creative expression—the Throat gate that gives voice to individual creative direction (Gate 1). The capacity to hold together (individual and collective) through authentic style that serves group goals.
+
+**Convergence:** Gate 8's creative contribution mirrors The Hierophant's **function as translator and bridge**. Where The Hierophant brings celestial wisdom into earthly form, Gate 8 brings individual creative direction (G Center) into manifest expression (Throat). Both serve as **conduits** rather than sources—The Hierophant channels divine teaching; Gate 8 channels creative direction. Line 2 (Service) and Line 6 (Communion) embody this bridging function. Both teach that **authentic expression is sacred service**, that unique style contributes to collective goals by making the invisible visible.
 
 ### Qabalah: Hod (Splendor and Expression)
 

@@ -249,11 +249,15 @@ Gate 56 resonates astrologically with **Mercury** (the planet of communication, 
 
 If an individual has their **Mercury in Gate 56**, their communication style is narrative, stimulating, and experiential. They are here to embody the question: "What stories am I here to share?"
 
-### Tarot: The Fool (Resonance)
+### Tarot: Wheel of Fortune (Canonical Correspondence - Ra Uru Hu)
 
-While Human Design does not map 1:1 to Tarot, Gate 56 resonates with **The Fool** (Atu 0)—the eternal wanderer, the traveler who learns through experience. Both speak to the **journey as teacher** and the necessity of sharing what is learned.
+According to Ra Uru Hu's teaching documented by Eleanor Haspel-Portner (2003), Gate 56 corresponds to **Wheel of Fortune** (Atu X / Key 10) in the Major Arcana. This is not thematic resonance but canonical correspondence from Ra's 1998 transmission.
 
-The Fool's journey mirrors Gate 56's wandering—both accumulate wisdom through transience and share it through presence.
+**Wheel of Fortune's essence:** Cycles, fortune, the turning wheel that brings varied experience. The sphinx at the top, creatures ascending and descending—constant change and rotation.
+
+**Gate 56's mechanics:** The Wanderer—storytelling through transience, stimulating the collective through narrative of diverse experience. The Throat gate that says "I believe" through tales gathered from the wheel's turning.
+
+**Convergence:** Gate 56's wandering requires the Wheel of Fortune's **acceptance of constant change**. The storyteller accumulates tales precisely because the wheel turns—each rotation brings new experience worth narrating. The Wheel brings fortune and misfortune; Gate 56 transforms both into **compelling story**. Both teach that **wisdom emerges from cycles**—the wanderer who has ridden the wheel up and down, gathering stories at each turn, enriching the collective through varied experience. Channel 11-56 (Curiosity) embodies the Wheel's gift: curiosity about what the next turn will bring, then stimulating others with stories of what was found.
 
 ### Qabalah: Hod (Splendor)
 

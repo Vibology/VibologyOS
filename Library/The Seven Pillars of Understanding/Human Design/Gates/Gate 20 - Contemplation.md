@@ -263,11 +263,15 @@ The progression from Superficiality to Presence is the journey of Gate 20: from 
 
 In the Rave I-Ching, Gate 20 can resonate with **Mercury** (communication, expression) or **the Sun** (conscious identity). If an individual has their Mercury in Gate 20, their **communication** expresses present-moment awareness. If the Sun, their **life purpose** involves embodying and expressing the now.
 
-### Tarot: Judgment (Resonance, Not Direct Correlation)
+### Tarot: The Empress (Canonical Correspondence - Ra Uru Hu)
 
-While Human Design does not map 1:1 to Tarot, Gate 20 resonates with **Judgment** (Atu XX)—the recognition of truth in the moment, the call to awaken, the capacity to see clearly and act from that vision.
+According to Ra Uru Hu's teaching documented by Eleanor Haspel-Portner (2003), Gate 20 corresponds to **The Empress** (Atu III / Key 3) in the Major Arcana. This is not thematic resonance but canonical correspondence from Ra's 1998 transmission.
 
-Both speak to the capacity to **recognize truth and manifest from that recognition**, to awaken to what is.
+**The Empress's essence:** Abundant presence, fertile awareness, grounded in the now. She embodies rather than abstracts—fully present to what is, not what was or will be.
+
+**Gate 20's mechanics:** Contemplation in the now—the Throat gate of present-moment awareness and recognition. The voice that articulates "I am here, I see this, I speak this truth NOW."
+
+**Convergence:** Gate 20's contemplation requires The Empress's **embodied presence**. Where masculine awareness transcends, The Empress grounds into immediate sensory reality. Gate 20 articulates awareness of the now—not analyzing past or planning future, but **speaking from pure present recognition**. The Empress is fertility and abundance *in this moment*; Gate 20 is the voice that recognizes and declares what exists *right now*. Both teach that **truth lives only in the present**—contemplation is not thought but immediate aware presence made vocal.
 
 ### Qabalah: Kether (The Crown)
 
