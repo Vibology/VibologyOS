@@ -8,15 +8,15 @@
 
 ## System Health Summary
 
-### Library (766 files)
+### Library (768 files)
 
 | Metric | Value |
 |--------|-------|
-| Total Files | 766 |
+| Total Files | 768 |
 | Cross-References Coverage | 99.9% |
 | Dead Wikilinks | 0 |
 | YAML Compliance | 100% |
-| Stub Files | 45 (intentional scaffolding) |
+| Stub Files | 40 (intentional scaffolding) |
 
 **All core practice content is 100% complete:**
 - 78 Tarot cards (Major + Minor Arcana)
@@ -38,7 +38,7 @@
 ```
 VibologyOS/
 ├── CLAUDE.md (V4.8)
-├── Library/ (747 files)
+├── Library/ (768 files)
 ├── Synthesis/General/ (template only - ready for new work)
 ├── System/
 │   ├── NEXT.md (this file)
@@ -137,11 +137,11 @@ Old Window content (76 files) archived at `.archive/Library/The Window/`. The wo
 **Pending: IHDS Foundation Sequence Materials**
 Acquiring LYD manual ($50) and planning foundation course sequence (LYD $300, Rave ABCs $400, Rave Cartography $750). Library updates for HD foundational material are **on hold** until source texts are in hand.
 
-**Stub files available for expansion (55 remaining):**
+**Stub files available for expansion (40 remaining):**
 - ~~Qabalah subsystem (32 files) — COMPLETE, 0 stubs (Batches 1-4: 2026-02-06)~~
+- ~~Jungian concepts (7 stubs) — COMPLETE 2026-02-06~~
 - Mythology deities (16 stubs) — archetypal anchors
-- Jungian concepts (12 stubs) — Synchronicity, Transcendent Function, etc.
-- Angelology practice/reference (15 stubs) — LBRP, Guardian Angel, Enochian entries, etc.
+- Angelology practice/reference (5 stubs) — Guardian Angel, Enochian entries, etc.
 - Other practice/overview stubs (12) — Pathworking, Divination, Hero's Journey, etc.
 
 **Dignity system: COMPLETE (2026-02-04)**
@@ -185,6 +185,20 @@ Acquiring LYD manual ($50) and planning foundation course sequence (LYD $300, Ra
 
 ## Session History
 
+**2026-02-06 (Final Session - Late Night):** Angelic Orders foundational entries — **2 critical stubs expanded** (Tier 3 Angelology progress: 10 of 15 stubs complete)
+- **Batch scope:** The Ten Angelic Orders subdirectory (2 foundational overview/synthesis entries)
+- **Scribe fetches successful:** 2 NotebookLM queries (Esoteric Grimoire — Davidson, Wang, Aquinas, Dante, Maimonides)
+  - Query 1: Ishim/Ashim in Jewish and Qabalistic angelology (Hebrew etymology, Malkuth relationship, souls of fire, righteous souls/prophets, Davidson/Wang sources, Dionysian comparison)
+  - Query 2: Pseudo-Dionysius's Celestial Hierarchy (5th century context, Neoplatonic influences, nine orders/three triads, divine illumination doctrine, standardization via Aquinas/Dante, Qabalistic ten-fold relationship)
+- **Weaver phase complete — 2 entries expanded:**
+  1. **Ishim.md** (49 → 195 lines) — The Tenth Order completing Qabalistic Tree correspondence. Dual etymology (Ishim = "Men/Personages" emphasizing human origin; Ashim = "Flames/Souls of Fire" emphasizing spiritual function). Fire and snow composition (Davidson: paradoxical union of opposites in Malkuth). Prophetic mediation (Maimonides: angels who speak to prophets and mediate visions to human intellect). Souls of the Just Made Perfect (Wang: righteous souls elevated to angelic status — Enoch, Elijah, patriarchs, prophets). Tenth order vs. Dionysian nine-fold (Qabalistic completion for immanence, spirit incarnate in matter). Archangel: Sandalphon (Prince of Prayer). Human Design: Sacral Center (embodied spiritual power). Jungian: Individuated Self made transparent to spirit. 9 footnotes.
+  2. **The Celestial Hierarchy.md** (50 → 290 lines) — Pseudo-Dionysius's foundational 5th/6th-century treatise establishing nine orders in three triads. Historical context (apostolic pseudonym, Neoplatonic synthesis, medieval authority). Proclus influence (chain of being, emanation doctrine, hierarchical mediation). Divine illumination doctrine (each order receives/purifies/transforms/transmits light downward). Nine orders detailed: First Triad/Counselors (Seraphim/Cherubim/Thrones contemplate divine essence), Second Triad/Governors (Dominations/Virtues/Powers govern cosmic order), Third Triad/Messengers (Principalities/Archangels/Angels execute in material world). Standardization via Aquinas (*Summa Theologica*) and Dante (*Paradiso* 28-29). Qabalistic ten-fold extension (Golden Dawn added Ishim for Malkuth to complete Tree correspondence). Sephirotic mapping variations documented. Truth transcending authorship (anonymous Neoplatonist forger shaped Christian liturgy/contemplation for millennium). 15 footnotes.
+- **Result:** Both foundational entries comprehensive (~195-290 lines each), heavily cross-referenced, source-verified, providing essential context for entire Angelic Orders system
+- **Library expansion:** No new files (expansions only); 766 → 768 files (corrected count from verification)
+- **Stub count:** 42 → 40 (2 stubs eliminated: Ishim, The Celestial Hierarchy)
+- **Roadmap status:** Tier 3 Item #19 Angelology progress — 10 of 15 Angelology stubs complete (5 Ritual & Practice + 3 Archangels + 2 Angelic Orders done). Remaining: 3 Enochian Tradition, 2 Other (Guardian Angel, Angels of Judgment)
+- **Next available:** Continue Tier 3 Angelology (5 stubs remaining), mythology deity stubs (16), Vibrology overviews, other practice/overview stubs (12)
+
 **2026-02-06 (Continued - Late Night):** Jungian Concepts expansion — **Tier 2 Roadmap Item #10 COMPLETE** (7/7 stubs)
 - **Objective:** Expand 7 foundational Jungian concept stubs (Tier 2 Item #10 — highest-value library work available after Tier 1 complete)
 - **Scribe fetches successful:** 2 NotebookLM queries (Esoteric Grimoire — Jung CW 7/8/9i/12/14, von Franz, Huxley, Pauli-Jung Letters)
@@ -203,6 +217,19 @@ Acquiring LYD manual ($50) and planning foundation course sequence (LYD $300, Ra
 - **Stub count:** 54 → 47 (7 stubs eliminated)
 - **Roadmap status:** Tier 2 Item #10 COMPLETE (7 Jungian stubs). Items 5-9 already complete (Astrology Hellenistic). Items 11-12 on hold (pending IHDS sources). **All available Tier 2 work DONE.**
 - **Next available:** Tier 3 Item #19 (16 mythology deity stubs), Item #20 (Vibrology overview stubs), remaining Angelology stubs (15), other practice/overview stubs (12)
+
+**2026-02-06 (Late Night Session 3):** Angelology Archangels batch — **3 archangel stubs expanded** (Tier 3 Item #19 Angelology progress: 8 of 15 stubs complete)
+- **Batch scope:** The Archangels subdirectory (3 high-visibility foundational entries)
+- **Scribe fetches successful:** 1 NotebookLM query (Esoteric Grimoire) covering all 3 archangel topics
+- **Weaver phase complete — 3 entries expanded:**
+  1. **The Seven Angels Who Stand Before the Throne.md** (~57 → ~420 lines) — Presence Angels dwelling in immediate divine presence, Tobit 12:15 (Raphael identifies as one of seven), Revelation 8:2 (seven angels with seven trumpets), 1 Enoch 20 complete enumeration (Uriel/Raphael/Raguel/Michael/Saraqael/Gabriel/Remiel with functions), variant lists across traditions (Jewish/Rabbinic: Aniel/Kafziel/Zadkiel; Pseudo-Dionysian: Chamuel/Jophiel/Zadkiel; Islamic four archangels; Golden Dawn Seven Planetary system), relationship to seven planetary spheres (Ptolemaic cosmos, soul descent/ascent receiving/shedding planetary qualities), seven trumpets apocalyptic function (Rev 8-11: one-third destruction sequence, dismantling old creation), why seven (completeness in process, dynamic wholeness), Four vs. Seven distinction (Four = elemental/spatial, Seven = planetary/temporal), relationship to lower orders (Michael commands Virtues, Gabriel governs Archangels, etc.), practical sevenfold invocation protocol, Observatory lens (Seven as coordinate system for psychoid navigation), 12 footnotes
+  2. **The Four Archangels of the Quarters.md** (~53 → ~440 lines) — Elemental guardians system (Raphael East/Air/yellow, Michael South/Fire/red, Gabriel West/Water/blue, Uriel North/Earth/green), why these four specifically (elemental correspondence vs. planetary Seven, Four Living Creatures Ezekiel 1/Revelation 4 correspondence: Man/Lion/Eagle/Bull = Aquarius/Leo/Scorpio/Taurus fixed signs), LBRP body-centered invocation ("Before me Raphael, Behind me Gabriel, On my right hand Michael, On my left hand Uriel"), variant attributions across traditions (Golden Dawn standard, Heptameron placing Michael East/Raphael West/Gabriel North/Uriel South for solar theology primacy, Dürer engraving, Hebraic body-centered portable system Michael right/Gabriel left/Uriel front/Raphael back), relationship to Enochian Watchtowers (Four elemental Tables with Kings/hierarchies beneath archangels), historical development (Babylonian four wind gods, Egyptian Four Sons of Horus, Merkabah mysticism, medieval grimoires, Golden Dawn synthesis), elemental balance function (quaternary prevents neurotic one-sidedness), Jungian four functions parallel (Thinking/Intuition/Feeling/Sensation = Air/Fire/Water/Earth), practical simple and elaborate forms, Observatory lens (Four as perceptual grid organizing experience), 12 footnotes
+  3. **Samael.md** (~56 → ~440 lines) — "Venom of God" complex ambiguous figure (archangel AND adversary simultaneously), etymology (*sam* poison + *el* God = toxic agent destroying corruption, pharmakos poison/medicine paradox), Samael vs. Kamael Geburah attribution controversy (Kamael = holy balanced severity in Seven Planetary system, Samael = unbalanced severity divorced from Chesed/mercy, shadow of Geburah), Talmudic/Midrashic sources (Angel of Death *Malach HaMavet*, Bava Batra 16a equating Satan/evil inclination/Angel of Death as one, Pirkei de-Rabbi Eliezer Samael rode serpent in Eden, "kiss of death" *mitah b'neshika* for righteous), Zoharic sources (Samael and Lilith dark marriage as Sitra Achra king/queen vs. God-Shekinah holy union, "chief of Seraphim" before fall through pride/envy, ruler of Qlippoth retaining angelic name/power), Samael-Satan identification controversy (sources equating vs. distinguishing, Satan as role/function vs. Samael as specific angel), Mars planetary correspondence (holy Kamael surgeon/warrior vs. demonic Samael destroyer/tyrant), Samael in Qlippothic system (ruler of Golachab Geburah's Qlippah, Asmodeus connection), psychological Shadow function (Jung on Satan as necessary counterforce, repressed rage/unenforced boundaries/denied severity requiring integration to transform Samael into Kamael), when to work with Samael (advanced practice only, clear warnings: NOT for beginners, requires magical training/psychological stability/supervision/clear intention, legitimate reasons: shadow work/death work/boundary setting/dismantling false structures, simplified invocation protocol with LBRP protection), Observatory lens (Samael as diagnostic shadow revealing ego denials: repressed rage/unenforced boundaries/death denial/false mercy), 12 footnotes
+- **Result:** All 3 archangel entries comprehensive (~420-440 lines each), heavily cross-referenced, source-verified, foundational for understanding angelic hierarchy
+- **Library expansion:** No new files (expansions only); 766 files maintained
+- **Stub count:** 45 → 42 (3 stubs eliminated: Seven Angels Who Stand Before Throne, Four Archangels of Quarters, Samael)
+- **Roadmap status:** Tier 3 Item #19 Angelology progress — 8 of 15 Angelology stubs complete (5 Ritual & Practice + 3 Archangels done). Remaining: 2 Angelic Orders (Ishim, The Celestial Hierarchy — now expanded), 3 Enochian Tradition, 2 Other (Guardian Angel, Angels of Judgment)
+- **Next available:** Continue Tier 3 Angelology (7 stubs remaining), mythology deity stubs (16), Vibrology overviews, other practice/overview stubs
 
 **2026-02-06 (Late Night Session 2):** Angelology Ritual & Practice batch — **5 stubs expanded** (Tier 3 Item #19 Angelology progress: 5 of 15 stubs eliminated)
 - **Batch scope:** Ritual & Practice subdirectory (5 operational protocols for practitioners)
