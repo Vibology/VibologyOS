@@ -44,6 +44,8 @@ The keynote here is **opposition as preservation**—the individual fights not t
 | **Gene Keys** | Shadow: Struggle / Gift: Perseverance / Siddhi: Honour |
 | **Harmonic Gate** | Gate 28 (Preponderance of the Great - Spleen) |
 | **Codon Ring** | Ring of Trials (Gates 17, 21, 38, 51) |
+| **Astrological Span** | 09°30'00" Capricorn - 15°07'30" Capricorn |
+| **I-Ching Trigram** | Lake (☱) - Joyous, reflective, gathering |
 
 ## I-Ching Hexagram Analysis
 

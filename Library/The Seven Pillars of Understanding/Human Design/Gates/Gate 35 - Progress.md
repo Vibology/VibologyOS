@@ -44,6 +44,8 @@ The keynote here is **hunger as spiritual necessity**—the need for new experie
 | **Gene Keys** | Shadow: Hunger / Gift: Adventure / Siddhi: Boundlessness |
 | **Harmonic Gate** | Gate 36 (Darkening of the Light - Solar Plexus) |
 | **Codon Ring** | Ring of Matter (Gates 12, 15, 22, 35, 45) |
+| **Astrological Span** | 11°22'30" Gemini - 17°00'00" Gemini |
+| **I-Ching Trigram** | Earth (☷) - Receptive, yielding, grounding force |
 
 ## I-Ching Hexagram Analysis
 

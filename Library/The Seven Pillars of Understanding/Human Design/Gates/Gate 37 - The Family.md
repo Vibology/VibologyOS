@@ -44,6 +44,8 @@ The keynote here is **equality through exchange**—friendship is not one-sided 
 | **Gene Keys** | Shadow: Weakness / Gift: Equality / Siddhi: Tenderness |
 | **Harmonic Gate** | Gate 40 (Deliverance - Heart/Ego) |
 | **Codon Ring** | Ring of Prosperity (Gates 32, 42, 50, 54) |
+| **Astrological Span** | 05°45'00" Pisces - 11°22'30" Pisces |
+| **I-Ching Trigram** | Fire (☲) - Radiance, illumination, clinging |
 
 ## I-Ching Hexagram Analysis
 

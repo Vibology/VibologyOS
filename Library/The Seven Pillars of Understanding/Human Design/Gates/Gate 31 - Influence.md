@@ -44,6 +44,8 @@ The keynote here is **influence through friction**. Leadership emerges when the 
 | **Gene Keys** | Shadow: Arrogance / Gift: Leadership / Siddhi: Humility |
 | **Harmonic Gate** | Gate 7 (The Army - G Center) |
 | **Codon Ring** | Ring of Seeking (Gates 31, 41, 61, 63) |
+| **Astrological Span** | 02°00'00" Leo - 07°37'30" Leo |
+| **I-Ching Trigram** | Mountain (☶) - Stillness, keeping still, meditation |
 
 ## I-Ching Hexagram Analysis
 

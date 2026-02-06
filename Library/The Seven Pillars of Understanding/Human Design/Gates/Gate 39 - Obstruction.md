@@ -44,6 +44,8 @@ The keynote here is **obstruction as value**—what blocks us provokes us to go 
 | **Gene Keys** | Shadow: Provocation / Gift: Dynamism / Siddhi: Liberation |
 | **Harmonic Gate** | Gate 55 (Abundance - Solar Plexus) |
 | **Codon Ring** | Ring of Humanity (Gates 15, 36, 39, 52) |
+| **Astrological Span** | 09°30'00" Cancer - 15°07'30" Cancer |
+| **I-Ching Trigram** | Mountain (☶) - Stillness, keeping still, meditation |
 
 ## I-Ching Hexagram Analysis
 

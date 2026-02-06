@@ -44,6 +44,8 @@ The keynote here is **strategic retreat**—not cowardice or avoidance, but the 
 | **Gene Keys** | Shadow: Forgetting / Gift: Mindfulness / Siddhi: Revelation |
 | **Harmonic Gate** | Gate 13 (The Fellowship of Man - G Center) |
 | **Codon Ring** | Ring of No Return (Gates 20, 33, 44, 63) |
+| **Astrological Span** | 07°37'30" Leo - 13°15'00" Leo |
+| **I-Ching Trigram** | Mountain (☶) - Stillness, keeping still, meditation |
 
 ## I-Ching Hexagram Analysis
 

@@ -44,6 +44,8 @@ The keynote here is **the paradox of duration**: the only thing that endures is 
 | **Gene Keys** | Shadow: Failure / Gift: Preservation / Siddhi: Veneration |
 | **Harmonic Gate** | Gate 54 (Ambition - Root) |
 | **Codon Ring** | Ring of Prosperity (Gates 32, 42, 50, 54) |
+| **Astrological Span** | 20°45'00" Libra - 26°22'30" Libra |
+| **I-Ching Trigram** | Wind (☴) - Gentle, penetrating, dispersing |
 
 ## I-Ching Hexagram Analysis
 

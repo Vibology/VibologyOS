@@ -44,6 +44,8 @@ The keynote here is **deliverance as transition**—the moment when struggle (wo
 | **Gene Keys** | Shadow: Exhaustion / Gift: Resolve / Siddhi: Divine Will |
 | **Harmonic Gate** | Gate 37 (The Family - Solar Plexus) |
 | **Codon Ring** | Ring of Seeking (Gates 20, 34, 40, 51) |
+| **Astrological Span** | 05°45'00" Virgo - 11°22'30" Virgo |
+| **I-Ching Trigram** | Water (☵) - Abysmal, deep, dangerous |
 
 ## I-Ching Hexagram Analysis
 
