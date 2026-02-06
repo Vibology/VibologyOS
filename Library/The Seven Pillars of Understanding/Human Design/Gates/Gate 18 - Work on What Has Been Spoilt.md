@@ -44,6 +44,8 @@ The keynote here is **vigilant correction balanced with fear of authority**. Thi
 | **Gene Keys** | Shadow: Judgement / Gift: Integrity / Siddhi: Perfection |
 | **Harmonic Gate** | Gate 58 (The Joyous - Root) |
 | **Codon Ring** | Ring of Seeking (Gates 14, 18, 34, 43) |
+| **Astrological Span** | 03°52'30" Libra - 09°30'00" Libra |
+| **I-Ching Trigram** | Wind (☴) - Gentle, penetrating, dispersing |
 
 ## I-Ching Hexagram Analysis
 

@@ -44,6 +44,8 @@ The keynote here is **existential awareness in the now**. This is the Throat Cen
 | **Gene Keys** | Shadow: Superficiality / Gift: Self Assurance / Siddhi: Presence |
 | **Harmonic Gates** | Gate 10 (Treading - G Center), Gate 34 (Power of the Great - Sacral), Gate 57 (The Gentle - Spleen) |
 | **Codon Ring** | Ring of Seeking (Gates 14, 18, 20, 34, 43) |
+| **Astrological Span** | 00°07'30" Gemini - 05°45'00" Gemini |
+| **I-Ching Trigram** | Earth (☷) - Receptive, yielding, grounding force |
 
 ## I-Ching Hexagram Analysis
 

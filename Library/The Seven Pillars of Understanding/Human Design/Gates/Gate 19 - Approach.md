@@ -44,6 +44,8 @@ The keynote here is **pressure to approach with sensitivity to needs**. This is 
 | **Gene Keys** | Shadow: Co-dependence / Gift: Sensitivity / Siddhi: Sacrifice |
 | **Harmonic Gate** | Gate 49 (Revolution - Solar Plexus) |
 | **Codon Ring** | Ring of Humanity (Gates 19, 22, 36, 37) |
+| **Astrological Span** | 13°15'00" Taurus - 18°52'30" Taurus |
+| **I-Ching Trigram** | Lake (☱) - Joyous, reflective, gathering |
 
 ## I-Ching Hexagram Analysis
 

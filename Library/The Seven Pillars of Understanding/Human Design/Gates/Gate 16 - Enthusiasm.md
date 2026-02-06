@@ -44,6 +44,8 @@ The keynote here is **talent through repetition**. This is the Throat Center's c
 | **Gene Keys** | Shadow: Indifference / Gift: Versatility / Siddhi: Mastery |
 | **Harmonic Gate** | Gate 48 (The Well - Spleen) |
 | **Codon Ring** | Ring of Miracles (Gates 16, 35, 45, 12) |
+| **Astrological Span** | 05°45'00" Taurus - 11°22'30" Taurus |
+| **I-Ching Trigram** | Earth (☷) - Receptive, yielding, grounding force |
 
 ## I-Ching Hexagram Analysis
 

@@ -44,6 +44,8 @@ The keynote is **power as resource for empowerment**. This is the Sacral's capac
 | **Gene Keys** | Shadow: Compromise / Gift: Competence / Siddhi: Bounteousness |
 | **Harmonic Gate** | Gate 2 (The Receptive - G Center) |
 | **Codon Ring** | Ring of Seeking (Gates 14, 34, 43, 51) |
+| **Astrological Span** | 24°30'00" Scorpio - 00°07'30" Sagittarius |
+| **I-Ching Trigram** | Heaven (☰) - Pure yang, creative force doubled |
 
 ## I-Ching Hexagram Analysis
 

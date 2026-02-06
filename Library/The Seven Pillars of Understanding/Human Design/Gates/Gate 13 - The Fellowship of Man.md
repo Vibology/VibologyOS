@@ -44,6 +44,8 @@ The keynote is **listening as witness to the collective**. This is the G Center'
 | **Gene Keys** | Shadow: Discord / Gift: Discernment / Siddhi: Empathy |
 | **Harmonic Gate** | Gate 33 (Privacy - Throat) |
 | **Codon Ring** | Ring of Illusion (Gates 1, 2, 7, 13) |
+| **Astrological Span** | 13°15'00" Aquarius - 18°52'30" Aquarius |
+| **I-Ching Trigram** | Fire (☲) - Radiance, illumination, clinging |
 
 ## I-Ching Hexagram Analysis
 

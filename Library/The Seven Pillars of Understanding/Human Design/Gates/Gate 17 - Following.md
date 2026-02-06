@@ -44,6 +44,8 @@ The keynote here is **mental organization through service to patterns**. This is
 | **Gene Keys** | Shadow: Opinion / Gift: Far-Sightedness / Siddhi: Omniscience |
 | **Harmonic Gate** | Gate 62 (Preponderance of the Small - Throat) |
 | **Codon Ring** | Ring of No Return (Gates 3, 17, 24, 27) |
+| **Astrological Span** | 03°52'30" Aries - 09°30'00" Aries |
+| **I-Ching Trigram** | Thunder (☳) - Arousing, movement, shock |
 
 ## I-Ching Hexagram Analysis
 
