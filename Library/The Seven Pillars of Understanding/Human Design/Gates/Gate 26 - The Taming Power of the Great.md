@@ -44,6 +44,8 @@ The keynote is **maximization of memory applied to nurturing continuity**. Gate 
 | **Gene Keys** | Shadow: Pride / Gift: Artfulness / Siddhi: Invisibility |
 | **Harmonic Gate** | Gate 44 (Coming to Meet - Spleen Center) |
 | **Codon Ring** | Ring of Prosperity (Gates 26, 44, 45, 50) |
+| **Astrological Span** | 26°22'30" Sagittarius - 02°00'00" Capricorn |
+| **I-Ching Trigram** | Heaven (☰) - Pure yang, creative force doubled |
 
 ## I-Ching Hexagram Analysis
 

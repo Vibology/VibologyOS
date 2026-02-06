@@ -44,6 +44,8 @@ The keynote is **enhancement of quality and substance of activities through cari
 | **Gene Keys** | Shadow: Selfishness / Gift: Altruism / Siddhi: Selflessness |
 | **Harmonic Gate** | Gate 50 (The Cauldron - Spleen Center) |
 | **Codon Ring** | Ring of Prosperity (Gates 26, 27, 44, 50) |
+| **Astrological Span** | 02°00'00" Taurus - 07°37'30" Taurus |
+| **I-Ching Trigram** | Thunder (☳) - Arousing, movement, shock |
 
 ## I-Ching Hexagram Analysis
 

@@ -44,6 +44,8 @@ The keynote is **the perfection of action through uncontrived and spontaneous na
 | **Gene Keys** | Shadow: Constriction / Gift: Acceptance / Siddhi: Universal Love |
 | **Harmonic Gate** | Gate 51 (Shock - Heart/Ego Center) |
 | **Codon Ring** | Ring of Light (Gates 25, 46, 51, 64) |
+| **Astrological Span** | 28°15'00" Pisces - 03°52'30" Aries |
+| **I-Ching Trigram** | Thunder (☳) - Arousing, movement, shock |
 
 ## I-Ching Hexagram Analysis
 

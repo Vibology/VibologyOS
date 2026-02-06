@@ -44,6 +44,8 @@ The keynote is **the natural and spontaneous process of transformation and renew
 | **Gene Keys** | Shadow: Addiction / Gift: Invention / Siddhi: Silence |
 | **Harmonic Gate** | Gate 61 (Inner Truth - Head Center) |
 | **Codon Ring** | Ring of Trials (Gates 21, 24, 38, 48) |
+| **Astrological Span** | 07°37'30" Taurus - 13°15'00" Taurus |
+| **I-Ching Trigram** | Thunder (☳) - Arousing, movement, shock |
 
 ## I-Ching Hexagram Analysis
 

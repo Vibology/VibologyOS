@@ -44,6 +44,8 @@ The keynote is **freedom recognized as an illusion and limitation accepted as a 
 | **Gene Keys** | Shadow: Desire / Gift: Lightness / Siddhi: Rapture |
 | **Harmonic Gate** | Gate 41 (Decrease - Root Center) |
 | **Codon Ring** | Ring of Life-Death (Gates 29, 30, 41, 42) |
+| **Astrological Span** | 24°30'00" Aquarius - 00°07'30" Pisces |
+| **I-Ching Trigram** | Fire (☲) - Radiance, illumination, clinging |
 
 ## I-Ching Hexagram Analysis
 

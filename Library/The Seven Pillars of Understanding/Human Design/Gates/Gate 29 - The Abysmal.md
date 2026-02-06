@@ -44,6 +44,8 @@ The keynote is **the deep within the deep**. Gate 29 does not commit superficial
 | **Gene Keys** | Shadow: Half-Heartedness / Gift: Commitment / Siddhi: Devotion |
 | **Harmonic Gate** | Gate 46 (The Serendipity - G Center) |
 | **Codon Ring** | Ring of Life-Death (Gates 29, 30, 41, 42) |
+| **Astrological Span** | 24°30'00" Leo - 00°07'30" Virgo |
+| **I-Ching Trigram** | Water (☵) - Abysmal, deep, dangerous |
 
 ## I-Ching Hexagram Analysis
 

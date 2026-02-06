@@ -44,6 +44,8 @@ The keynote is **assimilation**. Gate 23 does not speak immediately—it waits f
 | **Gene Keys** | Shadow: Complexity / Gift: Simplicity / Siddhi: Quintessence |
 | **Harmonic Gate** | Gate 43 (Breakthrough - Ajna Center) |
 | **Codon Ring** | Ring of Seeking (Gates 14, 23, 34, 43) |
+| **Astrological Span** | 18°52'30" Taurus - 24°30'00" Taurus |
+| **I-Ching Trigram** | Earth (☷) - Receptive, yielding, grounding force |
 
 ## I-Ching Hexagram Analysis
 

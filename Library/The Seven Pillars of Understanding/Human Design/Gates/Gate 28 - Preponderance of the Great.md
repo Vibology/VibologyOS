@@ -44,6 +44,8 @@ The keynote is **transitoriness of power and influence**. Gate 28 knows that not
 | **Gene Keys** | Shadow: Purposelessness / Gift: Totality / Siddhi: Immortality |
 | **Harmonic Gate** | Gate 38 (Opposition - Root Center) |
 | **Codon Ring** | Ring of Trials (Gates 21, 28, 38, 48) |
+| **Astrological Span** | 02°00'00" Scorpio - 07°37'30" Scorpio |
+| **I-Ching Trigram** | Wind (☴) - Gentle, penetrating, dispersing |
 
 ## I-Ching Hexagram Analysis
 

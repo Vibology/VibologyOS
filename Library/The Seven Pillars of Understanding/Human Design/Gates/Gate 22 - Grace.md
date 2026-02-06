@@ -44,6 +44,8 @@ The keynote is **grace under pressure**. Gate 22 does not seek to solve problems
 | **Gene Keys** | Shadow: Dishonour / Gift: Graciousness / Siddhi: Grace |
 | **Harmonic Gate** | Gate 12 (Caution - Throat Center) |
 | **Codon Ring** | Ring of Illusion (Gates 22, 36, 37, 63) |
+| **Astrological Span** | 17°00'00" Pisces - 22°37'30" Pisces |
+| **I-Ching Trigram** | Fire (☲) - Radiance, illumination, clinging |
 
 ## I-Ching Hexagram Analysis
 

@@ -44,6 +44,8 @@ The keynote is **justified and necessary power**. Gate 21 does not seek control 
 | **Gene Keys** | Shadow: Control / Gift: Authority / Siddhi: Valour |
 | **Harmonic Gate** | Gate 45 (The Gatherer - Throat Center) |
 | **Codon Ring** | Ring of Trials (Gates 21, 38, 48, 54) |
+| **Astrological Span** | 09°30'00" Aries - 15°07'30" Aries |
+| **I-Ching Trigram** | Thunder (☳) - Arousing, movement, shock |
 
 ## I-Ching Hexagram Analysis
 
