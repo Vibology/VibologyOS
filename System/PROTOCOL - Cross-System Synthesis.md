@@ -157,6 +157,7 @@ For each relevant system, collect **raw data** without interpretation:
 - Defined/open centers, channels, gates
 - Profile line (especially for 4/6, 6/2 timing)
 - Current transit gates if applicable
+- **Astrological gate correspondence** (consult `System/Reference/The HD Synthesis Index.pdf` for precise degree-to-gate/line mapping)
 
 **Tarot:**
 - Cards drawn (if divinatory)
@@ -494,10 +495,53 @@ Synthesis is observation through multiple instruments held in dynamic tension. T
 
 **Output:** Synthesis piece providing exact timing windows (astrological), decision-making strategy (HD), action readiness assessment (I-Ching/Tarot), and step-by-step launch plan.
 
+### Scenario 5: Precise Astrology-HD Transit Synthesis (Using Synthesis Index)
+
+**Question:** "Saturn is transiting 20° Virgo — how does this activate my Human Design, and what does the convergence mean?"
+
+**Systems to integrate:**
+- **Astrology** - Saturn position, natal aspects, transit timing, Saturn's lessons
+- **Human Design** - Precise gate/line activation via Synthesis Index
+- **I-Ching** - Hexagram wisdom for the activated gate
+
+**Workflow using Synthesis Index:**
+
+1. **Consult Synthesis Index** (`System/Reference/The HD Synthesis Index.pdf`)
+   - Saturn at 20°00' Virgo falls in Water trigram section
+   - Locate exact gate/line: **Gate 47, Line 3** (17°00'00" - 22°37'30" Virgo)
+   - Gate 47.3 specific span: 18°52'30" - 19°48'45" Virgo
+   - Note: Gate 47.3 has **exalted Saturn** (capacity to recognize self-imposed mental pressure)
+
+2. **Gather Prima Materia:**
+   - **Astrology:** Saturn = teacher, structure, limitation, mastery through discipline
+   - **HD Gate 47:** Mental pressure and realization (Ajna), Collective Understanding Circuit
+   - **HD Line 3:** Self-Oppression (exalted Saturn: wisdom to recognize self-imposed vs. necessary pressure)
+   - **I-Ching Hex 47:** Oppression / Exhaustion — counsel: inner resourcefulness when external resources fail
+
+3. **Identify Convergence:**
+   - Saturn (cosmic teacher through constraint) activates Gate 47 (mental oppression seeking realization)
+   - **At Line 3 with Saturn exaltation** = double-reinforced theme
+   - Convergence point: "Learning to distinguish necessary mental work from self-imposed suffering"
+
+4. **Third Meaning:**
+   - Saturn's transit through Gate 47.3 is **teaching discernment about mental pressure**
+   - The exaltation suggests this is a **mastery opportunity**, not punishment
+   - Trial-and-error (Line 3) becomes the method: experimenting with releasing vs. sustaining contemplation
+   - Transit asks: "Which mental pressures serve my growth, and which oppress without purpose?"
+
+5. **Practical Application:**
+   - Track Saturn's exact degree progression through Gate 47 (months-long transit)
+   - When Saturn hits 20°00' Virgo (Gate 47.3): journal on self-imposed vs. necessary mental work
+   - Experiment with releasing chronic overthinking while maintaining productive contemplation
+   - Expect breakthrough insights around 21°41'15" Virgo (Line 4 threshold: "Repression" → constructive pressure management)
+
+**Output:** Synthesis piece showing exact mechanical convergence (Saturn + Gate 47.3 exaltation), timing windows for each line activation, and somatic practices for working with the transit. Demonstrates **precision synthesis** impossible without degree-to-gate mapping.
+
 ---
 
 ## Changelog
 
+- **2026-02-06**: Added Synthesis Index reference to Step 2 (Gather Prima Materia) — enables precise astrology-to-gate/line conversion for HD synthesis work. Reference document now available at `System/Reference/The HD Synthesis Index.pdf` (v1.2)
 - **2026-01-28**: Added Observatory Stance to Quality Standards — synthesis as observation through converging instruments, not manufactured meaning (v1.1)
 - **2026-01-10**: Initial protocol created (v1.0)
 
