@@ -269,6 +269,7 @@ The Astrology pillar contains:
 - **[[Annual Profections]]** — Lord of the Year, twelve-year cycle, transit filtering
 - **[[Zodiacal Releasing]]** — Life chapters from Fortune and Spirit; peak periods, loosing of the bond (Valens)
 - **[[Firdaria]]** — Planetary chapters of a life; septennial (Lilly) and variable-year (Abu Ma'shar) systems
+- **[[Primary Directions]]** — Classical predictive technique; circumambulations, distributions, length of life (Hyleg/Alcochoden)
 - **[[Transits and Timing]]** — How current sky activates natal chart
 - **Global Cycles** — Collective archetypal markers
 
