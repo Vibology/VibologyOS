@@ -2,7 +2,7 @@
 tags: [vibology, astrology, overview]
 system: Astrology
 date_created: 2026-01-08
-date_updated: 2026-01-23
+date_updated: 2026-02-06
 source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
@@ -20,7 +20,7 @@ Astrology does not claim that planets *cause* events through mechanical force, b
 The natal chart—a snapshot of the sky at the moment of birth—is not a deterministic blueprint but a **symbolic map of potential**. It reveals:
 - The **ambient field** at the soul's incarnation
 - The **archetypal forces** active in the psyche
-- The **evolutionary pressures** shaping the life journey
+- The **developmental tensions** shaping the life journey
 - The **timing cycles** when certain themes ripen or activate
 
 Astrology is one of humanity's oldest sciences, practiced for over 4,000 years across Mesopotamia, Egypt, Greece, India, Persia, China, and the Islamic Golden Age. It was the foundation of astronomy, medicine, and natural philosophy—only in the post-Enlightenment West was it severed from "legitimate" knowledge. Yet it endures because it speaks to something astronomy cannot: the **meaning** of the heavens, not merely their mechanics.
@@ -63,7 +63,7 @@ Astrology is not a monolithic system—it has evolved through distinct historica
 - **Philosophy:** Planets as archetypal forces within the psyche, emphasis on *self-knowledge* and *choice*, therapeutic lens
 - **Strengths:** Accessible, empowering, integrates depth psychology
 
-**VibologyOS Philosophy:** We honor **traditional foundations first** (essential dignities, sect, mythological grounding) but synthesize modern psychological insights where they deepen understanding. Traditional astrology provides the grammar and structure; modern astrology provides the therapeutic and evolutionary context. Both are necessary.
+**VibologyOS Philosophy:** We honor **traditional foundations first** (essential dignities, sect, mythological grounding) and synthesize Jungian archetypal psychology where it deepens understanding. Traditional astrology provides the grammar and structure; Jungian psychology provides the depth-psychological lens. The tradition is **Traditional Archetypal** — Hellenistic technique with archetypal interpretation, not evolutionary astrology.
 
 ---
 ## The Logic of Correspondences
@@ -96,7 +96,7 @@ Symbolic techniques (secondary progressions, solar arc directions) that unfold t
 When a transiting planet returns to its natal position (e.g., Saturn Return at age 29-30, Jupiter Return every 12 years), a **archetypal reset** occurs—a new cycle begins.
 
 ### Collective Cycles
-Slow-moving outer planets (Uranus, Neptune, Pluto) mark **generational themes** and collective evolutionary pressures. The Pluto in Scorpio generation (1984-1995) carries different soul curriculum than Pluto in Sagittarius (1995-2008).
+Slow-moving outer planets (Uranus, Neptune, Pluto) mark **generational themes** and collective archetypal pressures. The Pluto in Scorpio generation (1984-1995) carries different collective psychological imprints than Pluto in Sagittarius (1995-2008).
 
 ### Precession and Aeons
 The **Precession of the Equinoxes**—the 26,000-year wobble of Earth's axis—shifts the backdrop of the zodiac against the constellations, marking vast ages (Age of Pisces → Age of Aquarius). This is the largest temporal cycle astrology tracks.
@@ -127,7 +127,7 @@ Within the [[Vibology]] framework, **Astrology** provides the **temporal coordin
 
 **Example:** A [[Generator]] (HD) experiences a Saturn Return (Astrology) while drawing [[The Tower (XVI)]] (Tarot)—three systems converging on a single theme: *the collapse of false structures to reveal authentic power*. Each system offers a distinct lens on the same archetypal event.
 
-Astrology also provides the **ambient field** context: What was the cosmic weather at birth? What evolutionary pressures shaped the soul's incarnation? The chart is not a prison but a **map of the territory**—revealing the landscape the soul chose to navigate.
+Astrology also provides the **ambient field** context: What was the cosmic weather at birth? What archetypal conditions shaped the incarnation? The chart is not a prison but a **map of the territory** — revealing the landscape the individual navigates.
 
 ---
 ## Historical Development: From Mesopotamia to Modernity
@@ -253,12 +253,15 @@ Both matter. The Ascendant = *how* you move through the world (your vehicle, you
 ## Navigating This Pillar
 
 The Astrology pillar contains:
+- **[[Natal Chart]]** — The Hellenistic delineation methodology (sect → condition → dignities → lots → timing)
 - **10 Planets** — From Sun to Pluto, plus Lunar Nodes
 - **12 Signs** — Aries through Pisces, elemental and modal analysis
 - **12 Houses** — Life domains from identity (1st) to dissolution (12th)
 - **[[Aspects]]** — Geometric relationships and their meanings
+- **[[Planetary Condition]]** — Cazimi, combust, under the beams, bonification, maltreatment, hayz
+- **[[Lots]]** — Fortune, Spirit, and the Seven Hermetic Lots (Arabic Parts)
 - **[[Transits and Timing]]** — How current sky activates natal chart
-- **Global Cycles** — Collective evolutionary markers
+- **Global Cycles** — Collective archetypal markers
 
 Each entry includes:
 - Traditional foundations (essential dignities, sect, mythology)

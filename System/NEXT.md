@@ -1,18 +1,18 @@
 # Current Work Context
 
-**Last Updated:** 2026-02-05
-**System Status:** Library complete; **Oracle Deck canonized** (The Astrolabe — 88 cards production-ready); dignity data extraction COMPLETE (64/64 gates, 384/384 lines); **comprehensive dignity calculation IMPLEMENTED** (juxtaposition, harmonic fixing, star symbols); **Angelology pillar 95% COMPLETE** (Heywood 1635 integrated, invocation protocols operational, Seven Planetary Archangels table complete, Discernment of Spirits comprehensive testing framework complete); **The Magdalene Path practitioner protocols COMPLETE** (Contemplative Prayer comprehensive guide, Practitioner Protocols operational, Daily Practice Quick Reference ready)
+**Last Updated:** 2026-02-06
+**System Status:** Library complete; **Astrology Hellenistic Expansion Tier 1 COMPLETE** (Planetary Condition, Lots, Natal Chart methodology — all from Brennan source); **Oracle Deck canonized** (The Astrolabe — 88 cards production-ready); dignity data extraction COMPLETE (64/64 gates, 384/384 lines); **comprehensive dignity calculation IMPLEMENTED** (juxtaposition, harmonic fixing, star symbols); **Angelology pillar 95% COMPLETE** (Heywood 1635 integrated, invocation protocols operational, Seven Planetary Archangels table complete, Discernment of Spirits comprehensive testing framework complete); **The Magdalene Path practitioner protocols COMPLETE** (Contemplative Prayer comprehensive guide, Practitioner Protocols operational, Daily Practice Quick Reference ready)
 **Current Phase:** Foundation-building — still on the roof, still in observation
 
 ---
 
 ## System Health Summary
 
-### Library (753 files)
+### Library (755 files)
 
 | Metric | Value |
 |--------|-------|
-| Total Files | 753 |
+| Total Files | 755 |
 | Cross-References Coverage | 99.9% |
 | Dead Wikilinks | 0 |
 | YAML Compliance | 100% |
@@ -78,21 +78,65 @@ The Window was rebuilt from the ground up. The previous 64-card system forced ga
 - Archetype gate resonances: Full detachment — Archetypes are zodiacal/Jungian only; gates belong to the Codex
 - All 88 cards built and cross-referenced (Phase 3 complete 2026-02-03)
 
-**Status:** Canonized 2026-02-04. Current Astrolabe synthesis is production-ready.
-**Planning document:** `System/PLAN - Oracle Deck Restructure.md`
+**Status:** Canonized 2026-02-04. Production-ready.
 
 Old Window content (76 files) archived at `.archive/Library/The Window/`. The work was the necessary 29-46 commitment through which the need for precision became visible.
 
 ### 3. Library Expansion
 
-**Pending: IHDS Foundation Sequence Materials**
-Acquiring LYD manual ($50) and planning foundation course sequence (LYD $300, Rave ABCs $400, Rave Cartography $750). Library updates for HD foundational material are **on hold** until source texts are in hand. Known gaps to address with those sources:
-- **Definition Types** — Single, Split, Triple-Split, Quadruple-Split (no file exists; flagged in BodyGraph.md)
-- **Projector Subcategories** — Classic, Energy, Mental (not in Projector.md)
-- **Deconditioning** — Stub exists, needs expansion
-- **Unknown-unknowns** — LYD curriculum likely covers experiential/pedagogical material not represented in Ra's reference texts
+**Astrological Tradition:** Traditional Archetypal / Psycho-Astrology — Hellenistic foundations (Ptolemy, Valens, Dorotheus) with Jungian archetypal synthesis (Greene, Sasportas). NOT evolutionary astrology. Existing planet/sign/house entries are sourced from Lilly/Ptolemy with sect fully integrated — the traditional grammar is solid. Gaps below are techniques, not foundations.
 
-Once acquired, scan and add to Grimoire for source-grounded expansion.
+#### Prioritized Development Roadmap
+
+**Tier 1: Gaps That Affect Client Work**
+
+| # | Pillar | Item | Effort | Impact |
+|---|--------|------|--------|--------|
+| 1 | HD | Definition Types (Single/Split/Triple/Quad) | Low | High — every chart has one; undocumented |
+| 2 | Astrology | Lots (Lot of Fortune, Lot of Spirit) | Medium | High — core Hellenistic technique; completely absent |
+| 3 | Astrology | Planetary Condition (cazimi, combust, under the beams, hayz, bonification, maltreatment) | Medium | High — fundamental to traditional planetary assessment; absent |
+| 4 | Astrology | Natal Chart expansion (Hellenistic reading methodology) | Medium | Medium — 90-line stub; should teach sect → condition → dignities → lots → timing |
+
+**Tier 2: Deepening Practice**
+
+| # | Pillar | Item | Effort | Impact |
+|---|--------|------|--------|--------|
+| 5 | Astrology | Lunar Nodes (traditional: increase/decrease, eclipses, bonification) | Medium | Medium — important but not the interpretive spine it is in evolutionary astrology |
+| 6 | Astrology | Annual Profections (Lord of the Year protocol) | Low-Med | Medium — mentioned in overview, needs working protocol |
+| 7 | Astrology | Reception (mutual reception, generosity, enmity) | Low | Medium — fundamental traditional planetary relationship; absent |
+| 8 | Astrology | Triplicity Rulers (day/night table, usage) | Low | Medium — mentioned but not developed |
+| 9 | Astrology | Retrograde mechanics (stations, speed, visibility — traditional framing) | Low-Med | Medium — affects ~30% of placements |
+| 10 | Personal Mythos | 7 Jungian stubs (Synchronicity, Transcendent Function, Inflation, Ego-Death, Collective Unconscious, Psychoid Archetype, Craftsman) | Medium | Medium — foundational Jungian concepts |
+| 11 | HD | Projector Subcategories (Classic/Energy/Mental) | Low | Low-Med — pending IHDS source |
+| 12 | HD | Deconditioning expansion | Medium | Medium — practice entry, not just concept |
+
+**Tier 3: Long-Term Scaffolding**
+
+| # | Pillar | Item | Effort | Impact |
+|---|--------|------|--------|--------|
+| 13 | Astrology | Terms/Bounds (Egyptian terms table, dignity assessment) | Medium | Low-Med — finest grain of traditional dignity |
+| 14 | Astrology | Traditional Decans (Egyptian/Chaldean rulers alongside current system) | Medium | Low — current decan sections exist but use modern psychological framing |
+| 15 | Astrology | Zodiacal Releasing (Valens timing technique) | Medium | Medium — advanced; Brennan course would inform |
+| 16 | Astrology | Firdaria | Low | Low — currently orphaned reference in overview |
+| 17 | Astrology | Primary Directions (classical predictive technique) | Medium | Low-Med — Hellenistic equivalent of progressions |
+| 18 | Tarot/Qabalah | 35 Qabalah stubs (Sephiroth, Paths, Divine Names) | Large | Enriches depth; not blocking practice |
+| 19 | Personal Mythos | 17 deity stubs (Greek/Egyptian/Mesopotamian) | Large | Reference value; not blocking synthesis |
+| 20 | Core Foundations | Vibology overview entries (stubs) | Medium | Articulates meta-framework |
+| 21 | Synthesis | First synthesis pieces (Tree of Return, others) | Variable | The practice of synthesizing is the point |
+
+**Removed from roadmap:**
+- ~~Chiron~~ — not present in traditional/Hellenistic astrology (discovered 1977); deprioritized
+- ~~Progressions~~ — medieval/modern technique; Primary Directions (Hellenistic equivalent) in Tier 3
+
+**Source-Dependent (On Hold):**
+- **IHDS Foundation Materials** (LYD manual, courses) — Definition Types, Projector Subcategories, Deconditioning depth, experiential material
+- **Qabalah source texts** — would ground Sephiroth/Path expansion beyond framework stubs
+
+**Source Available:**
+- **Chris Brennan, *Hellenistic Astrology: The Study of Fate and Fortune*** — being uploaded to Esoteric Grimoire chapter-by-chapter (700-page PDF required splitting; single upload and ~150-page chunks both failed). Upload in progress as of 2026-02-06. Covers Lots, planetary condition, profections, zodiacal releasing, triplicity, bounds/terms, traditional decans, reception. Primary source for all Astrology roadmap items (Tiers 1-3). **Astrology expansion blocked until upload complete.**
+
+**Pending: IHDS Foundation Sequence Materials**
+Acquiring LYD manual ($50) and planning foundation course sequence (LYD $300, Rave ABCs $400, Rave Cartography $750). Library updates for HD foundational material are **on hold** until source texts are in hand.
 
 **Stub files available for expansion (existing material):**
 - Qabalah subsystem (35 stubs) — Sephiroth, Divine Names, Tree of Life
@@ -135,11 +179,44 @@ Once acquired, scan and add to Grimoire for source-grounded expansion.
 | `PROTOCOL - Chart Generation.md` | Bodygraph generation protocol |
 | `RUBRIC - Library Content Standard.md` | Quality tiers |
 | `INDEX - System Documentation.md` | Full docs navigation |
-| `PLAN - Oracle Deck Restructure.md` | 88-card deck rebuild plan |
+| `PLAN - Astrology Hellenistic Expansion.md` | Hellenistic technique roadmap (Brennan source) |
 
 ---
 
 ## Session History
+
+**2026-02-06 (Continued):** Hellenistic Expansion — **Tier 1 COMPLETE** (3/3 items)
+- **Brennan uploads confirmed working** — all chapter-by-chapter uploads to Esoteric Grimoire operational
+- **Scribe fetches successful:** 4 NotebookLM queries across Brennan Ch 7, 9, 14, 16-18
+  - Planetary Condition: 2 fetches (solar phases, bonification/maltreatment, overcoming, enclosure, counteraction, hayz, planetary phases, engagement/adherence, spear-bearing, void of course)
+  - Lots: 2 fetches (Fortune/Spirit formulas, Seven Hermetic Lots, derived houses, Lot of Basis/Exaltation, reversal controversy, profections/zodiacal releasing from Lots)
+- **Weaver phase complete — 3 entries written:**
+  1. **Planetary Condition.md** (NEW, ~350 lines) — Complete Hellenistic condition assessment framework. Solar phases (under beams 15°, cazimi 1°/16', chariot mitigation), bonification (7 conditions with Greek terms), maltreatment (7 conditions), overcoming/domination (dexter square from 10th sign), enclosure, counteraction (mutual reception + benefic intervention + sect), hayz (3 conditions), planetary phase, spear-bearing, void of course. Jungian depth (archetype under siege), shadow, interpretation protocol. 16 footnotes citing Brennan, Antiochus/Porphyry/Rhetorius, Paul of Alexandria.
+  2. **Lots.md** (NEW, ~350 lines) — Complete Lot system. Fortune (body/material, day/night formulas), Spirit (soul/action, reversed formula), Fortune-Spirit polarity (fate vs. will, Moon vs. Sun). Seven Hermetic Lots table (all formulas from Paulus). Lot of Basis, Lot of Exaltation. Derived house system from Fortune (Place of Acquisition = 11th). 4-step interpretation methodology (sign → house → aspects → lord). Timing connections (profections from Lots, zodiacal releasing). Reversal controversy (Ptolemy vs. consensus). Jungian depth (Fortune as unconscious/given, Spirit as ego's work). 12 footnotes citing Brennan, Valens, Paulus, Dorotheus.
+  3. **Natal Chart.md** (EXPANDED, stub 91 → ~300 lines) — Hellenistic delineation methodology. 8-step reading protocol: sect → chart ruler → luminaries → planetary condition → dignities → lots → synthesis → timing. Integrates both new entries. Components section enhanced (sect column, Lots as calculated points). Psychological depth (Ascendant as persona, Sun as individuation drive, aspects as complex dialogues). 4 footnotes.
+- **Astrology.md updated:** Added Natal Chart, Planetary Condition, and Lots to pillar navigation section
+- **Library expansion:** 753 → 755 files (2 new entries + 1 stub expansion)
+- **Tier 1 roadmap status:** All 3 items COMPLETE (Planetary Condition, Lots, Natal Chart expansion)
+- **Next available work:** Tier 2 items (Lunar Nodes, Annual Profections, Reception, Triplicity Rulers, Retrograde Mechanics)
+
+**2026-02-06 (Earlier):** Hellenistic Expansion — Scribe phase initiated, Brennan upload in progress
+- **Tier 1 work order decided:** Planetary Condition (Ch 14) → Lots (Ch 16) → Natal Chart expansion
+- **Brennan source issue:** Initial upload to Esoteric Grimoire contained only cover image + 1 diagram (700-page PDF too large for single NotebookLM source). Splitting into ~150-page chunks also failed. Chapter-by-chapter upload in progress — frontmatter + Ch 1 confirmed working. Remaining chapters being uploaded individually.
+- **Splitting strategy:** 5 natural divisions identified (Ch 1-6 History, Ch 7-9 Planets/Signs/Aspects, Ch 10-13 Houses/Rulers, Ch 14-18 Techniques/Timing, Back Matter). Uploading chapter-by-chapter within these groups.
+- **Scribe fetch attempted:** NotebookLM fell back to Ptolemy/Lilly (useful but not Brennan's systematic framework). Paused until Brennan text is fully available.
+- **Resumed after user confirmed all Brennan chapters uploaded successfully**
+
+**2026-02-05 (New Session):** Astrological tradition clarified — roadmap priorities adjusted
+- **User correction:** Interested in Hellenistic/Traditional Archetypal Astrology (Psycho-Astrology with Jungian frameworks), NOT Evolutionary Astrology
+- **Astrology pillar audit:** Confirmed strong traditional foundations already present (sect fully integrated, essential dignities thorough, Whole Sign houses adopted, Ptolemy/Lilly/Valens cited). Identified absent Hellenistic techniques: Lots/Arabic Parts, Planetary Condition terms, Reception, Triplicity development, Zodiacal Releasing
+- **Roadmap restructured:**
+  - Promoted to Tier 1: Lots (Lot of Fortune/Spirit — completely absent, core Hellenistic), Planetary Condition (cazimi/combust/hayz — absent)
+  - Demoted: Lunar Nodes from Tier 1 → Tier 2 (reframed traditionally: increase/decrease, not evolutionary soul-purpose)
+  - Removed: Chiron (not in traditional astrology, discovered 1977), Progressions deprioritized (Primary Directions is Hellenistic equivalent, Tier 3)
+  - Added Tier 2: Annual Profections protocol, Reception, Triplicity Rulers
+  - Added Tier 3: Terms/Bounds, Traditional Decans, Zodiacal Releasing, Firdaria, Primary Directions
+- **Astrology.md updated:** Replaced 5 instances of "evolutionary" framing with traditional/archetypal language; added explicit statement: "Traditional Archetypal — Hellenistic technique with archetypal interpretation, not evolutionary astrology"
+- **Brennan courses:** Identified as primary source for Hellenistic expansion (Lots, Profections, Zodiacal Releasing, planetary condition depth)
 
 **2026-02-05 (Late Night - Continued):** Qabalah folder reorganization — flat structure → architectural hierarchy
 - **Objective:** Reorganize unstructured Qabalah folder (32 files, flat directory) into hierarchical system reflecting Tree of Life architecture

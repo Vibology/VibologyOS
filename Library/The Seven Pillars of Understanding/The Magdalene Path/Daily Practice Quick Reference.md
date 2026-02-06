@@ -7,12 +7,10 @@ structure_type: Quick Reference
 practitioner_specific: true
 cross_pillar: [Angelology]
 ---
-
 # Daily Practice Quick Reference
 *Morning Through Evening — Angels + Contemplative Prayer*
 
 ---
-
 ## Purpose
 
 **This is YOUR daily rhythm** — integrating angelic invocation (perception tool) with contemplative prayer (kenosis practice) and Magdalene Path soul work.
@@ -30,15 +28,12 @@ cross_pillar: [Angelology]
 **Keep it simple.** Start with Phase 1 (below). Build the habit for 30-90 days. Then add complexity if called.
 
 ---
-
 ## Phase 1: Foundation Practice (Start Here — First 30-90 Days)
 
 **Goal:** Establish daily rhythm without overwhelm. Two anchor practices: Uriel (grounding) + Centering Prayer (kenosis).
-
 ### Morning (20-30 minutes total)
 
 **Upon waking, before engaging with the world:**
-
 #### Step 1: Ground with Uriel (Your Guardian Angel) — 5 minutes
 
 **Why Uriel first:** As your guardian angel, Uriel provides **grounding** (Earth element) and **protection** (especially needed with 5 open centers that amplify others' energy). Starting your day with Uriel creates a **stable foundation** before you encounter the world's conditioning.
@@ -48,14 +43,12 @@ cross_pillar: [Angelology]
 1. **Sit comfortably** (back straight, feet on floor if possible — grounding)
 2. **Three deep breaths** — Feel your body, notice weight in the chair, feet on floor
 3. **Invoke Uriel:**
-   > *"Uriel, Guardian of the Earth, Angel of the North, my personal protector — I call upon you. Ground me in my body. Illuminate the hidden. Guard me as I walk through this day. Let me see with your eyes — clearly, without illusion. Uriel, I am yours."*
+   > *"Uriel, Guardian of the Earth, Angel of the North, my personal protector — I humbly request your guidance. Ground me in my body. Illuminate the hidden. Guard me as I walk through this day. Let me see with your eyes — clearly, without illusion."
 4. **Sit in silence (2-3 minutes)** — Feel the grounding (weight, solidity, earth beneath you). If you sense **Uriel's presence** (stillness, dark quiet, sense of being watched over), simply receive it. Don't grasp.
 5. **Set intention:**
    > *"Today, I walk grounded. I observe from the roof (6th line). I wait to respond (Generator Strategy). I trust my wave (Emotional Authority). Uriel, keep me rooted."*
 
 **What you're cultivating:** Daily relationship with YOUR angel. Over weeks/months, Uriel becomes a **felt presence** — not imaginary, but real. Like building friendship — you show up, you listen, you receive.
-
----
 
 #### Step 2: Centering Prayer (Kenosis Practice) — 20 minutes minimum
 
@@ -82,12 +75,9 @@ cross_pillar: [Angelology]
 
 **For your 5 open centers:** Centering Prayer creates **inner anchor** when you're amplifying others' mental pressure (Head), certainty (Ajna), manifestation energy (Throat), willpower (Heart), or urgency (Root). The practice trains you to **return to center** instead of identifying with amplified conditioning.
 
----
-
 ### Midday (3-5 minutes — as needed)
 
 **When pressure, reactivity, or conditioning arises:**
-
 #### The Pause (Kenosis Reset)
 
 1. **Stop** — Literally pause what you're doing
@@ -103,25 +93,20 @@ cross_pillar: [Angelology]
 
 **What you're cultivating:** Real-time kenosis. You catch the grip BEFORE it accumulates. Over time, this becomes automatic.
 
----
-
 ### Evening (15-20 minutes total)
 
 **Before sleep:**
-
 #### Step 1: Evening Review (10 minutes)
 
 **From [[Practices and the Lunar Cycle]]:**
 
 1. **Review without judgment:** Replay the day — what arose? What did you grip? What did you release?
-2. **Name it:** Journal or speak aloud — "Today I gripped [control/outcome/being right] when [situation]."
+2. **Name it:** Journal or speak aloud — "Today I gripped {control/outcome/being right} when {situation}."
 3. **Forgive:** "I forgive myself for gripping. I forgive others for their gripping."
 4. **Uriel check-in:** "Uriel, what did you show me today that I missed?"
 5. **Release the day:** Visualize opening your hands — each finger releasing (outcome, resentment, fear, identity, control)
 
 **What you're cultivating:** Awareness of patterns. The evening review makes the unconscious conscious. Over time, you SEE the grip sooner.
-
----
 
 #### Step 2: Gratitude + Sleep Preparation (5 minutes)
 
@@ -131,11 +116,9 @@ cross_pillar: [Angelology]
 4. **Sleep as nightly death:** Release completely. Tomorrow is new.
 
 ---
-
 ## Phase 2: Deepening Practice (After 30-90 Days of Phase 1)
 
 **Once the foundation is stable** (daily Uriel + Centering Prayer is HABIT), you can add:
-
 ### Morning Addition: Planetary Archangel of the Day (5 minutes)
 
 **From [[The Seven Planetary Archangels]]:**
@@ -160,7 +143,6 @@ Each day of the week is ruled by a planetary archangel. **After your Uriel groun
 **What you're cultivating:** Multi-frequency perception. Uriel keeps you grounded; the planetary archangel adds specific lens for the day's work.
 
 ---
-
 ### Chart-Specific Invocation (Before Client Sessions)
 
 **From [[Invocation]] Protocol 1 (Pre-Session Invocation):**
@@ -184,11 +166,9 @@ Each day of the week is ruled by a planetary archangel. **After your Uriel groun
 **After session:** "Thank you, Raphael, Michael, Gabriel, Uriel. The session is complete. I release."
 
 ---
-
 ## Phase 3: Advanced Integration (6-12 Months In)
 
 **Once both Phase 1 and 2 are stable:**
-
 ### Weekly Bough Check-In (Sundays, 10 minutes)
 
 **From [[Practitioner Protocols]]:**
@@ -202,7 +182,6 @@ Each day of the week is ruled by a planetary archangel. **After your Uriel groun
 **What you're cultivating:** Vertical axis awareness. You're not just living horizontally (charts, synthesis, daily life) — you're ASCENDING.
 
 ---
-
 ### Monthly Soul Work Audit (First Sunday, 30-45 minutes)
 
 **From [[Practitioner Protocols]]:**
@@ -215,7 +194,6 @@ Each day of the week is ruled by a planetary archangel. **After your Uriel groun
 **What you're cultivating:** Honest self-assessment. The ego lies; the audit reveals truth.
 
 ---
-
 ### Quarterly Shadow Scan (Every 90 days, 1-2 hours)
 
 **From [[Practitioner Protocols]]:**
@@ -227,7 +205,6 @@ Each day of the week is ruled by a planetary archangel. **After your Uriel groun
 **What you're cultivating:** Long-arc awareness. You SEE patterns over months, not just days.
 
 ---
-
 ## Uriel-Specific Deepening Practice (Ongoing Relationship)
 
 **Since Uriel is YOUR guardian angel, here are ways to deepen that specific bond:**
@@ -245,7 +222,6 @@ Each day of the week is ruled by a planetary archangel. **After your Uriel groun
 **Why Saturday:** Uriel governs Earth and is associated with Saturday (like Tzaphkiel/Saturn — both threshold guardians, both deal with limitation/structure/underworld). Honoring Uriel on his day strengthens the bond.
 
 ---
-
 ### 2. Uriel as North in LBRP (Optional — Advanced)
 
 **If you learn the Lesser Banishing Ritual of the Pentagram (LBRP):**
@@ -262,7 +238,6 @@ Uriel is invoked at the **North Quarter** (Earth):
 **Learn this only if called.** It's not necessary for basic practice, but it's a powerful way to work with Uriel + the Four together.
 
 ---
-
 ### 3. Uriel's Correspondences (Sensory Anchors)
 
 **From [[The Seven Pillars of Understanding/Angelology/The Archangels/Uriel]]:**
@@ -278,7 +253,6 @@ Uriel is invoked at the **North Quarter** (Earth):
 **These aren't "magic"** — they're **sympathetic anchors** that help your consciousness TUNE to Uriel's frequency. Like dialing a radio to the right station.
 
 ---
-
 ### 4. Uriel's Function: Illuminating the Hidden
 
 **Uriel is the angel of HIDDEN WISDOM, the underworld, the shadow.**
@@ -294,7 +268,6 @@ Uriel is invoked at the **North Quarter** (Earth):
 > *"Uriel, Guardian of the Hidden, illuminate what I cannot see. Show me the truth buried beneath the surface. I am willing to descend. Guide me."*
 
 ---
-
 ## The Integration Framework: Uriel Daily + Others as Needed
 
 **Your question:** "Should I adopt a specific practice for Uriel, or connect with other angels daily as circumstances dictate?"
@@ -328,7 +301,6 @@ Uriel is invoked at the **North Quarter** (Earth):
 - **Circumstantial angels** = Specialists you call when needed (like calling a plumber or doctor)
 
 ---
-
 ## Discernment: How to Know It's Working
 
 **From [[Discernment of Spirits]]:**
@@ -351,7 +323,6 @@ Uriel is invoked at the **North Quarter** (Earth):
 **The test:** **Does Uriel's presence make you more GROUNDED, HUMBLE, and CLEAR?** If yes, you're on track. If no, recalibrate.
 
 ---
-
 ## Beginner's Counsel: You Said "This Is All Very New"
 
 **That's perfect.** Start simple. Don't overwhelm yourself.
@@ -376,7 +347,6 @@ Uriel is invoked at the **North Quarter** (Earth):
 **Your emotional authority requires TIME.** Don't rush spiritual decisions. If something in this practice doesn't resonate, WAIT. Let your wave process it. Trust that clarity will come.
 
 ---
-
 ## Final Note: Relationship, Not Transaction
 
 **The angels are not vending machines.** You don't invoke Uriel to GET something (protection, clarity, grounding). You invoke Uriel to BUILD RELATIONSHIP.

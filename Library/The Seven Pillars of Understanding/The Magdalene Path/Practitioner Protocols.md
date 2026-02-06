@@ -6,12 +6,10 @@ category: Practice
 structure_type: Personal Protocols
 practitioner_specific: true
 ---
-
 # Practitioner Protocols
 *Weekly, Monthly, and Quarterly Audits for The Magdalene Path*
 
 ---
-
 ## Purpose
 
 **This document is FOR YOU—the practitioner walking The Magdalene Path.**
@@ -34,7 +32,6 @@ Unlike [[Practices and the Lunar Cycle]] (which provides daily/lunar rhythms for
 5. **HD Mechanics Integration** (ongoing) — How does your specific design inform your path?
 
 ---
-
 ## Weekly Bough Check-In
 
 **Frequency:** Every Sunday evening (or your designated "Sabbath")
@@ -68,8 +65,6 @@ Unlike [[Practices and the Lunar Cycle]] (which provides daily/lunar rhythms for
 **Journal prompt:**
 *"This week, I am at the [___] Bough. The evidence is: [specific patterns, struggles, or breakthroughs that confirm this]."*
 
----
-
 ### Step 2: Name the Guardian (3 minutes)
 
 Each bough has a **Guardian** (shadow/power) you must confront. **What is blocking your ascent this week?**
@@ -88,8 +83,6 @@ Each bough has a **Guardian** (shadow/power) you must confront. **What is blocki
 **Journal prompt:**
 *"The Guardian I'm facing this week is [___]. It shows up as: [specific behavior, thought pattern, or fear]."*
 
----
-
 ### Step 3: The Apophatic Practice (2 minutes)
 
 **The teaching from Gospel of Mary:** At each bough, the soul must practice **apophasis** (negation)—denying the Guardian power over you.
@@ -98,8 +91,6 @@ Each bough has a **Guardian** (shadow/power) you must confront. **What is blocki
 > *"[Guardian], I deny you. You have no part in me. I am not [judgment/ignorance/arrogance/fear]. I release my grip on [what this Guardian represents]. I open my hands."*
 
 **This is not affirmation** (positive thinking). **This is kenosis**—active release of the false self structure the Guardian represents.
-
----
 
 ### Weekly Pattern Recognition
 
@@ -129,7 +120,6 @@ Each bough has a **Guardian** (shadow/power) you must confront. **What is blocki
 **This is spiritual inflation.** You cannot skip boughs. If you think you're at Seventh/Eighth Bough but your daily life shows arrogance, reactivity, judgment → **you're lying to yourself.** Return to honest assessment.
 
 ---
-
 ## Monthly Soul Work Audit
 
 **Frequency:** First Sunday of each month (or New Moon)
@@ -163,8 +153,6 @@ Each bough has a **Guardian** (shadow/power) you must confront. **What is blocki
 2. *"What I'm afraid will happen if I open my hand: [___]"*
 3. *"One thing I can release this month: [___]"*
 
----
-
 ### Part 2: Singleness Integration Check (10 minutes)
 
 **[[The Magdalene Path#Singleness Ihidaya Inner Wholeness|Singleness]] (ihidaya) is interior wholeness—the integration of masculine/feminine, vertical/horizontal, conscious/unconscious.**
@@ -192,8 +180,6 @@ Each bough has a **Guardian** (shadow/power) you must confront. **What is blocki
 **Journal prompt:**
 *"The area where I'm most divided (not Single) this month is: [___]. The work is: [___]."*
 
----
-
 ### Part 3: Relational Health Check (10 minutes, if in partnership)
 
 **If you're practicing the Fifth Way (conscious love in committed partnership), assess the relational dynamic:**
@@ -217,8 +203,6 @@ Each bough has a **Guardian** (shadow/power) you must confront. **What is blocki
 **Journal prompt:**
 *"The relational pattern that needs kenosis this month is: [___]."*
 
----
-
 ### Part 4: [[Contemplative Prayer]] Consistency (5 minutes)
 
 **Track your actual practice, not your aspiration:**
@@ -239,8 +223,6 @@ Each bough has a **Guardian** (shadow/power) you must confront. **What is blocki
 - **Any obstacles arising?** (Dryness, Dark Night, distractions)
 - **Next depth?** (Extend duration? Add second session? Explore Teresa's stages?)
 
----
-
 ### Part 5: Integration Action (5 minutes)
 
 **Based on this month's audit, what is ONE concrete action?**
@@ -253,7 +235,6 @@ Each bough has a **Guardian** (shadow/power) you must confront. **What is blocki
 **Write it down. Calendar it. Do it.**
 
 ---
-
 ## Quarterly Shadow Scan
 
 **Frequency:** Every 90 days (seasonal shifts: Spring Equinox, Summer Solstice, Autumn Equinox, Winter Solstice)
@@ -283,8 +264,6 @@ Each bough has a **Guardian** (shadow/power) you must confront. **What is blocki
 - **Feel it fully**—body sensations, not just mental story
 - **Then** practice kenosis: *"I release my grip on this. I open my hands."*
 
----
-
 #### Shadow 2: The Penitent Whore Distortion
 
 **Definition:** Internalizing the patriarchal myth—believing sexuality is "sinful" and must be "redeemed" through suffering
@@ -302,8 +281,6 @@ Each bough has a **Guardian** (shadow/power) you must confront. **What is blocki
 - Read Bourgeault on **A = E × K** (Agape = Eros × Kenosis)—divine love is not separate from passion; it's passion transformed by self-emptying
 - Work with a therapist or somatic practitioner if body shame is deep
 
----
-
 #### Shadow 3: Codependency Disguised as Sacred Union
 
 **Definition:** Entering partnership seeking **completion** from the other, calling it "Bridal Chamber" when it's egoic fusion
@@ -320,8 +297,6 @@ Each bough has a **Guardian** (shadow/power) you must confront. **What is blocki
 - **Do the singleness work FIRST** (therapy, shadow work, embodiment practices)
 - If already in partnership: create space for individual development (separate practices, alone time, therapy)
 - Revisit [[The Bridal Chamber and Sacred Union]] — qualification is wholeness, not neediness
-
----
 
 #### Shadow 4: Premature Abyss Crossing
 
@@ -366,8 +341,6 @@ Each bough has a **Guardian** (shadow/power) you must confront. **What is blocki
 **Monthly check:**
 *"This quarter, whose mental pressure did I take on as my own? [___]"*
 
----
-
 #### Undefined Ajna: Pressure to Be Certain
 
 **Mechanics:**
@@ -387,8 +360,6 @@ Each bough has a **Guardian** (shadow/power) you must confront. **What is blocki
 
 **Monthly check:**
 *"This quarter, where did I seek mental certainty instead of trusting my wave? [___]"*
-
----
 
 #### Undefined Throat: Pressure to Initiate/Speak/Manifest
 
@@ -410,8 +381,6 @@ Each bough has a **Guardian** (shadow/power) you must confront. **What is blocki
 **Monthly check:**
 *"This quarter, where did I speak/act from pressure rather than authentic response? [___]"*
 
----
-
 #### Undefined Heart: Pressure to Prove Worth
 
 **Mechanics:**
@@ -431,8 +400,6 @@ Each bough has a **Guardian** (shadow/power) you must confront. **What is blocki
 
 **Monthly check:**
 *"This quarter, where did I practice to prove worth instead of genuine devotion? [___]"*
-
----
 
 #### Undefined Root: Pressure to Rush/Complete/Get It Done
 
@@ -454,8 +421,6 @@ Each bough has a **Guardian** (shadow/power) you must confront. **What is blocki
 **Monthly check:**
 *"This quarter, where did I rush instead of trusting the timing? [___]"*
 
----
-
 ### Part 3: Quarterly Recommitment (10 minutes)
 
 **Based on this shadow scan:**
@@ -470,7 +435,6 @@ Each bough has a **Guardian** (shadow/power) you must confront. **What is blocki
 **Write it. Date it. Review it in 90 days.**
 
 ---
-
 ## Relational Practice Protocols (Fifth Way)
 
 **If you're in committed partnership practicing the Fifth Way:**
@@ -492,8 +456,6 @@ These are **ongoing practices** (not timed to weekly/monthly/quarterly), but you
 
 **Why this works:** Daily micro-kenosis prevents accumulation of resentment, control, or defensive patterns. You practice vulnerability in real-time.
 
----
-
 ### Protocol 2: Weekly Substituted Love Practice (15 minutes)
 
 **Once per week (Sunday evening or your designated time):**
@@ -509,8 +471,6 @@ These are **ongoing practices** (not timed to weekly/monthly/quarterly), but you
 4. **Close together:** Brief silence or prayer
 
 **The Abler Soul:** This creates a "third term"—a unified field of consciousness greater than either individual. Over time, this becomes the **Wedding Garment** (resurrection body built through kenotic love).
-
----
 
 ### Protocol 3: Monthly Bridal Chamber Check-In (30 minutes)
 
@@ -537,7 +497,6 @@ These are **ongoing practices** (not timed to weekly/monthly/quarterly), but you
 **Based on this check-in, what needs kenosis in our relationship this month?**
 
 ---
-
 ## Integration with Your HD Mechanics (4/6 Generator)
 
 **Your specific design creates a unique path through The Magdalene Path:**
@@ -556,8 +515,6 @@ These are **ongoing practices** (not timed to weekly/monthly/quarterly), but you
 **Monthly check:**
 *"This month, where did I initiate instead of waiting to respond?"*
 
----
-
 ### Your Authority: Emotional (Solar Plexus Defined)
 
 **Decision-making: Wait through your emotional wave for clarity**
@@ -573,8 +530,6 @@ These are **ongoing practices** (not timed to weekly/monthly/quarterly), but you
 
 **Monthly check:**
 *"This month, did I honor my wave in spiritual decisions, or did I rush?"*
-
----
 
 ### Your Profile: 4/6 Opportunist Role Model
 
@@ -601,8 +556,6 @@ These are **ongoing practices** (not timed to weekly/monthly/quarterly), but you
 **Monthly check:**
 *"Am I honoring my 6th line observation phase, or am I rushing to model/teach before integration is complete?"*
 
----
-
 ### Your Defined Centers: Solar Plexus, Sacral, Spleen, G-Center
 
 **Solar Plexus (Emotional Authority):** Covered above—wait through your wave
@@ -617,7 +570,6 @@ These are **ongoing practices** (not timed to weekly/monthly/quarterly), but you
 - G-Center direction (soul path)
 
 ---
-
 ## Final Note: Private Practice, Public Fruit
 
 **Everything in this document is FOR YOU.**
