@@ -342,9 +342,10 @@ Gate 35 teaches that **progress requires movement**. When the individual honors 
 - Gate 56 - The Wanderer — Stimulation
 
 ### Cross-System Correspondences
+- **Tarot (Canonical):** [[The Hermit (IX)]] — Ra Uru Hu's 1998 transmission (see Tarot file for full synthesis)
 - I-Ching Hexagram 35 - Progress — The source hexagram
 - Gene Keys 35 - Hunger to Boundlessness — Shadow-gift-siddhi framework
-- [[The Fool (0)]] — Adventure, new experience
+- [[The Fool (0)]] — Thematic resonance with adventure and new experience
 - [[Chokmah]] — Wisdom through exploration
 
 ### Thematic Collections

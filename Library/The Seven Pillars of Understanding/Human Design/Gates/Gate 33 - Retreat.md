@@ -345,9 +345,10 @@ Gate 33 teaches that **wisdom requires distance**. When the individual honors th
 - Gate 56 - The Wanderer — Storytelling and stimulation (Throat)
 
 ### Cross-System Correspondences
+- **Tarot (Canonical):** [[The Lovers (VI)]] — Ra Uru Hu's 1998 transmission (see Tarot file for full synthesis)
 - I-Ching Hexagram 33 - Retreat — The source hexagram and traditional I-Ching interpretation
 - Gene Keys 33 - Forgetting to Revelation — Richard Rudd's shadow-gift-siddhi framework for Gate 33
-- [[The Hermit (IX)]] — Resonance with solitary withdrawal and inner light
+- [[The Hermit (IX)]] — Thematic resonance with solitary withdrawal and inner light
 - Binah (Qabalah) — Understanding, the womb of contemplation
 
 ### Thematic Collections

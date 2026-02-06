@@ -334,9 +334,10 @@ Gate 45 teaches that **rulership is sacred service**. When the individual honors
 - Gate 51 - The Arousing — Competition and tribal hierarchy
 
 ### Cross-System Correspondences
+- **Tarot (Canonical):** [[The Chariot (VII)]] — Ra Uru Hu's 1998 transmission (see Tarot file for full synthesis)
 - I-Ching Hexagram 45 - Gathering Together — The source hexagram and traditional I-Ching interpretation
 - Gene Keys 45 - Dominance to Liberation — Richard Rudd's shadow-gift-siddhi framework for Gate 45
-- [[The Emperor (IV)]] — Resonance with authority and structure
+- [[The Emperor (IV)]] — Thematic resonance with authority and structure
 - Chesed (Qabalah) — Mercy, benevolent rulership
 
 ### Thematic Collections

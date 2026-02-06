@@ -346,9 +346,10 @@ Gate 56 teaches that **stories are sacred**. When the individual honors their st
 - Gate 33 - Retreat — Memory storage and sharing (Throat)
 
 ### Cross-System Correspondences
+- **Tarot (Canonical):** [[Wheel of Fortune (X)]] — Ra Uru Hu's 1998 transmission (see Tarot file for full synthesis)
 - I-Ching Hexagram 56 - The Wanderer — The source hexagram and traditional I-Ching interpretation
 - Gene Keys 56 - Distraction to Intoxication — Richard Rudd's shadow-gift-siddhi framework
-- [[The Fool (0)]] — Resonance with wandering and experiential learning
+- [[The Fool (0)]] — Thematic resonance with wandering and experiential learning
 - Hod (Qabalah) — The sephira of communication and narrative
 
 ### Thematic Collections

@@ -348,9 +348,10 @@ Gate 12 teaches that **not all action is progress**. When the individual honors 
 - Gate 25 - Innocence — Spirit of self (G Center)
 
 ### Cross-System Correspondences
+- **Tarot (Canonical):** [[Strength (VIII)]] — Ra Uru Hu's 1998 transmission (see Tarot file for full synthesis)
 - I-Ching Hexagram 12 - Standstill — The source hexagram and traditional I-Ching interpretation
 - Gene Keys 12 - Vanity to Purity — Richard Rudd's shadow-gift-siddhi framework for Gate 12
-- [[The Hanged Man (XII)]] — Resonance with sacred suspension and standstill
+- [[The Hanged Man (XII)]] — Thematic resonance with sacred suspension and standstill
 - Binah (Qabalah) — The Sephirah of Understanding and divine limitation
 - Saturn — The planet of boundaries, time, and necessary restraint
 

@@ -294,6 +294,5 @@ This is The Magician's **iterative mastery**—not one perfect act but continuou
 - Crowley, Aleister. *The Book of Thoth*. New York: Samuel Weiser, Inc., 1974. (Originally published in *The Equinox*, Vol. III, No. V, 1944) — Referenced via Wang 1983
 
 ### Vibology Synthesis Notes
-
 Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---
