@@ -44,6 +44,8 @@ The keynote here is **pressure of doubt**. This is the Head Center's capacity to
 | **Gene Keys** | Shadow: Doubt / Gift: Inquiry / Siddhi: Truth |
 | **Harmonic Gates** | Gate 4 (Formulation - Ajna) |
 | **Codon Ring** | Ring of Light (Gates 61, 62, 63, 64) |
+| **Astrological Span** | 11°22'30" Pisces - 17°00'00" Pisces |
+| **I-Ching Trigram** | Fire (☲) - Radiance, illumination, clinging |
 
 ## I-Ching Hexagram Analysis
 

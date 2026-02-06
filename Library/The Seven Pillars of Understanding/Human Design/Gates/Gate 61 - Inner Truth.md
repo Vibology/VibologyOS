@@ -44,6 +44,8 @@ The keynote here is **pressure to know mystery**. This is the Head Center's capa
 | **Gene Keys** | Shadow: Psychosis / Gift: Inspiration / Siddhi: Sanctity |
 | **Harmonic Gates** | Gate 24 (Rationalization - Ajna) |
 | **Codon Ring** | Ring of Light (Gates 61, 62, 63, 64) |
+| **Astrological Span** | 20°45'00" Capricorn - 26°22'30" Capricorn |
+| **I-Ching Trigram** | Lake (☱) - Joy, openness, stimulation |
 
 ## I-Ching Hexagram Analysis
 

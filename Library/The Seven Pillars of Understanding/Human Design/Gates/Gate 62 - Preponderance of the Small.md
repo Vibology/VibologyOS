@@ -44,6 +44,8 @@ The keynote here is **detail and naming**. This is the Throat Center's capacity 
 | **Gene Keys** | Shadow: Intellect / Gift: Precision / Siddhi: Impeccability |
 | **Harmonic Gates** | Gate 17 (Opinions - Ajna) |
 | **Codon Ring** | Ring of Light (Gates 61, 62, 63, 64) |
+| **Astrological Span** | 20°45'00" Cancer - 26°22'30" Cancer |
+| **I-Ching Trigram** | Mountain (☶) - Stillness, meditation, stopping |
 
 ## I-Ching Hexagram Analysis
 

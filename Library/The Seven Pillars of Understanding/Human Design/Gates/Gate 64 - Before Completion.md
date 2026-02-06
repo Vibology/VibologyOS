@@ -44,6 +44,8 @@ The keynote here is **pressure of confusion**. This is the Head Center's capacit
 | **Gene Keys** | Shadow: Confusion / Gift: Imagination / Siddhi: Illumination |
 | **Harmonic Gates** | Gate 47 (Oppression - Ajna) |
 | **Codon Ring** | Ring of Light (Gates 61, 62, 63, 64) |
+| **Astrological Span** | 11°22'30" Virgo - 17°00'00" Virgo |
+| **I-Ching Trigram** | Water (☵) - Depth, danger, the abyss |
 
 ## I-Ching Hexagram Analysis
 
