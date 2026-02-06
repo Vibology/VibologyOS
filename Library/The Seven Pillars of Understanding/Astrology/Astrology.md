@@ -267,6 +267,7 @@ The Astrology pillar contains:
 - **[[Traditional Decans]]** — The thirty-six faces: Chaldean face table, fifth dignity level, Egyptian origins
 - **[[Lots]]** — Fortune, Spirit, and the Seven Hermetic Lots (Arabic Parts)
 - **[[Annual Profections]]** — Lord of the Year, twelve-year cycle, transit filtering
+- **[[Zodiacal Releasing]]** — Life chapters from Fortune and Spirit; peak periods, loosing of the bond (Valens)
 - **[[Transits and Timing]]** — How current sky activates natal chart
 - **Global Cycles** — Collective archetypal markers
 
