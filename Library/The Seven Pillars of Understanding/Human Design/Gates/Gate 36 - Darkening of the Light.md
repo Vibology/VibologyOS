@@ -247,12 +247,6 @@ The progression from Turbulence to Compassion is the journey of Gate 36: from ch
 
 Gate 36 resonates with **Neptune** (dissolution, crisis, compassion) and **Pisces** (the mystic, the wounded healer, suffering as path to divine empathy).
 
-### Tarot: The Moon (Resonance, Not Direct Correlation)
-
-While Human Design does not map 1:1 to Tarot, Gate 36 resonates with **The Moon** (Atu XVIII)—the card of darkness, illusion, the night journey through the valley, the descent that precedes dawn.
-
-Both speak to **navigating darkness without losing the inner light**.
-
 ### Qabalah: Binah (Understanding) and the Dark Night
 
 Gate 36 resonates with **Binah** (Understanding)—the Supernal Mother, the womb of darkness where understanding gestates. The "Dark Night of the Soul" (St. John of the Cross) is a Gate 36 experience: descending into darkness to emerge with divine compassion.

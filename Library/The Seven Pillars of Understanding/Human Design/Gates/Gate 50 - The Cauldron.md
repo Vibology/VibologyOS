@@ -246,12 +246,6 @@ In astrological terms, Gate 50 resonates with **Saturn**—the planet of law, st
 
 If an individual has their Saturn in Gate 50, their **karmic lessons** involve learning to uphold values with wisdom, balancing preservation with adaptation.
 
-### Tarot: Justice (Balance and Law)
-
-While Human Design does not map 1:1 to Tarot, Gate 50 resonates with **Justice** (Atu VIII/XI)—the figure holding scales and sword, representing **balance, law, and accountability**. Justice embodies **the application of values** to ensure equilibrium.
-
-Both speak to the capacity to **uphold law** and to create structures that serve collective well-being.
-
 ### Qabalah: Chesed (Mercy - Benevolent Law)
 
 If we map the Spleen Center to the Qabalistic Tree of Life in this context, Gate 50 resonates with **Chesed** (Mercy)—the sphere of benevolent rulership and generous law. Chesed is the **good king** who rules with compassion and just values.

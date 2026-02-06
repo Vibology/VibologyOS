@@ -246,12 +246,6 @@ The progression from Opinion to Omniscience is the journey of Gate 17: from reac
 
 In the Rave I-Ching, Gate 17 resonates with **Mercury**—the planet of communication, intellect, and mental organization. If an individual has their Mercury in Gate 17, their **thinking and communication** (Mercury themes) are expressed through pattern-based opinion formation.
 
-### Tarot: The Emperor (Resonance, Not Direct Correlation)
-
-While Human Design does not map 1:1 to Tarot, Gate 17 resonates with **The Emperor** (Atu IV)—the figure who organizes reality through structure and law, who serves the patterns of manifestation through intelligent framework.
-
-Both speak to the capacity to **organize through observation**, to create structure that honors what is rather than imposing personal will.
-
 ### Qabalah: Hod (Splendor/Glory)
 
 If we map the Ajna Center to the Qabalistic Tree of Life, Gate 17 resonates with **Hod** (Splendor)—the sphere of form, pattern recognition, and intellectual organization. Hod is the mental capacity to see patterns and formulate frameworks that serve manifestation.

@@ -252,12 +252,6 @@ While the Rave I-Ching has specific astrological correspondences for each gate, 
 
 If an individual has Uranus activating Gate 3, their innovations may be **sudden, radical, and disruptive**, requiring strong Sacral grounding to sustain.
 
-### Tarot: The Tower (Resonance, Not Direct Correlation)
-
-While Human Design does not map 1:1 to Tarot, Gate 3 resonates with **The Tower** (Atu XVI)—the card of **necessary destruction** that precedes rebuilding. The Tower represents the chaos that clears away false structures, creating space for new, truer forms to emerge.
-
-Both speak to the inevitability of **difficulty in transformation**—the old must be dismantled for the new to arise.
-
 ### Qabalah: Binah (Understanding Through Limitation)
 
 If we map Gate 3 to the Qabalistic Tree of Life, it resonates with **Binah** (Understanding)—the Sephirah that takes the pure creative impulse and **gives it form through limitation**. Binah is the Great Mother who receives the seed and gestates it through difficulty into manifestation.

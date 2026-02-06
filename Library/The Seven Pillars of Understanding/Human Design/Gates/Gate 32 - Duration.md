@@ -251,12 +251,6 @@ In the Rave I-Ching, Gate 32 corresponds to specific astrological degrees. While
 
 If an individual has their Saturn in Gate 32, their **karmic lesson** may involve learning to trust in continuity, to distinguish wise caution from paralyzing fear, to build structures that endure through adaptation rather than rigidity.
 
-### Tarot: The Four of Pentacles (Resonance, Not Direct Correlation)
-
-While Human Design does not map 1:1 to Tarot, Gate 32 resonates with **The Four of Pentacles**—the figure holding tightly to resources, the tension between conservation and hoarding, the question of when to preserve and when to invest.
-
-Both speak to the **fear of material failure** and the need to balance conservation with flow.
-
 ### Qabalah: Geburah (Severity/Discernment)
 
 If we map the Tribal Ego Circuit to the Qabalistic Tree of Life, it resonates with **Geburah** (Severity)—the fifth Sephirah, representing discernment, pruning, and the removal of what does not serve. Gate 32's fear of failure is a form of Geburic discernment: knowing what will endure requires ruthlessly assessing what will not.

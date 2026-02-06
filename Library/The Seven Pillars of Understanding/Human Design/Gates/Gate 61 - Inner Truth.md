@@ -248,12 +248,6 @@ Gate 61 resonates astrologically with **Neptune** (the planet of mystery, inspir
 
 If an individual has **Neptune or Uranus in Gate 61**, their relationship with inner truth is central. They are here to embody the question: "Can I sustain the pressure of mystery without forcing answers?"
 
-### Tarot: The High Priestess (Resonance)
-
-While Human Design does not map 1:1 to Tarot, Gate 61 resonates with **The High Priestess** (Atu II)—the card of hidden knowing, the veil between conscious and unconscious, and the capacity to know without knowing how. Both speak to the **pressure to penetrate mystery**.
-
-The High Priestess's silence mirrors Gate 61's inner truth—both are forces of unspoken revelation.
-
 ### Qabalah: Kether (Crown)
 
 If we map the Head Center to the Qabalistic Tree of Life, Gate 61 resonates with **Kether** (Crown, First Emanation, Source)—the sephira of cosmic origin and the unknowable divine. Gate 61, as pressure to know mystery, embodies Kether's capacity to **inspire without revealing fully**.

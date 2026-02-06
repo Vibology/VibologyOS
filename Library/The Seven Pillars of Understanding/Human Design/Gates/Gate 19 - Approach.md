@@ -246,12 +246,6 @@ The progression from Co-dependence to Sacrifice is the journey of Gate 19: from 
 
 In the Rave I-Ching, Gate 19 resonates with **the Moon**—the body that governs tides, cycles, needs, and nurturing. If an individual has their Moon in Gate 19, their **emotional needs and nurturing instincts** (Moon themes) are expressed through pressure to approach and be needed.
 
-### Tarot: The Empress (Resonance, Not Direct Correlation)
-
-While Human Design does not map 1:1 to Tarot, Gate 19 resonates with **The Empress** (Atu III)—the figure who nurtures, provides, and approaches all beings with sensitivity to their needs, ensuring abundance through care.
-
-Both speak to the capacity to **nurture through approach**, to recognize needs and respond with resources.
-
 ### Qabalah: Chesed (Mercy)
 
 If we map the Root Center to the Qabalistic Tree of Life, Gate 19 resonates with **Chesed** (Mercy)—the sphere of loving-kindness, generosity, and approach without judgment. Chesed gives without condition, approaches all beings with care.

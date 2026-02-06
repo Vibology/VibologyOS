@@ -248,12 +248,6 @@ In archetypal astrology, Gate 27 resonates with **Moon** (the planet of nurturin
 
 If an individual has Gate 27 activated by their Moon placement in their Rave Chart, their **emotional nature and nurturing instinct** (Moon) are expressed through tribal caring and responsible provision.
 
-### Tarot: The Empress (Atu III) and Strength (Atu VIII)
-
-While Human Design does not map 1:1 to Tarot, Gate 27 resonates with **The Empress** (Atu III)—the archetypal mother who nourishes all—and **Strength** (Atu VIII)—the gentle power that cares for and tames the wild.
-
-Both speak to the capacity to **provide sustainably** and care with strength.
-
 ### Qabalah: Binah (Understanding/The Great Mother)
 
 If we map the Sacral Center to the Qabalistic Tree of Life, Gate 27 resonates with **Binah** (Understanding/The Great Mother)—the sphere of nurturing receptivity, the womb that provides and protects.

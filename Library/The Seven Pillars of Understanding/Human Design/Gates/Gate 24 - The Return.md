@@ -248,12 +248,6 @@ In archetypal astrology, Gate 24 resonates with **Mercury** (the planet of think
 
 If an individual has Gate 24 activated by their Mercury or Moon placement in their Rave Chart, their **thinking and emotional rhythms** (Mercury/Moon) are expressed through rationalization and mental renewal.
 
-### Tarot: The Hermit (Atu IX) and Judgment (Atu XX)
-
-While Human Design does not map 1:1 to Tarot, Gate 24 resonates with **The Hermit** (Atu IX)—the figure who withdraws to think and contemplate—and **Judgment** (Atu XX)—the return, renewal, and awakening to new understanding.
-
-Both speak to the capacity to **think deeply in solitude** and emerge transformed.
-
 ### Qabalah: Hod (Splendor/Intellect)
 
 If we map the Ajna Center to the Qabalistic Tree of Life, Gate 24 resonates with **Hod** (Splendor/Intellect)—the sphere of mental processing, repetition, and the cycles of thought that lead to understanding.

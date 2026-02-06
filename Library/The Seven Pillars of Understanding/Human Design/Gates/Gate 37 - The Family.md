@@ -247,10 +247,6 @@ The progression from Weakness to Tenderness is the journey of Gate 37: from code
 
 Gate 37 resonates with **Venus** (bonding, relationship, reciprocity) and **Libra** (fairness, balance, partnership).
 
-### Tarot: The Lovers and Two of Cups (Resonance, Not Direct Correlation)
-
-While Human Design does not map 1:1 to Tarot, Gate 37 resonates with **The Lovers** (Atu VI—partnership, union, choice) and **Two of Cups** (emotional bonding, mutual exchange).
-
 ### Qabalah: Chesed (Mercy) and Netzach (Victory)
 
 Gate 37 resonates with **Chesed** (Mercy—benevolent structure, the merciful king) and **Netzach** (Victory—endurance, lasting relationship). Tribal bonding requires both mercy (forgiveness, support) and endurance (sustained reciprocity).

@@ -246,12 +246,6 @@ In astrological terms, Gate 41 resonates with the **Moon's** anticipatory qualit
 
 If an individual has their Moon in Gate 41, their **emotional body** is designed to fuel new experience through imagination. They are here to feel into possibility.
 
-### Tarot: The Star (Hope and Anticipation)
-
-While Human Design does not map 1:1 to Tarot, Gate 41 resonates with **The Star** (Atu XVII)—the card of hope, anticipation, and the imagination of future possibility. The Star pours water (emotion) onto land and sea, symbolizing the **flow of anticipation** into both conscious and unconscious realms.
-
-Both speak to the capacity to **dream, hope, and anticipate** without demanding that reality conform.
-
 ### Qabalah: Yesod (Foundation of Imagination)
 
 If we map the Root Center to the Qabalistic Tree of Life, it resonates with **Yesod** (Foundation)—the sphere of the Moon, the astral realm, and the **imagination**. Yesod is the realm where forms are held in potential before manifestation.

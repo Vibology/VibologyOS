@@ -243,10 +243,6 @@ The progression from Provocation to Liberation is the journey of Gate 39: from c
 
 Gate 39 resonates with **Uranus** (disruption, provocation, awakening) and **Aquarius** (the rebel, the challenger, the iconoclast).
 
-### Tarot: The Tower (Resonance, Not Direct Correlation)
-
-While Human Design does not map 1:1 to Tarot, Gate 39 resonates with **The Tower** (Atu XVI)—the lightning strike, the disruption that awakens, the obstruction that shatters illusion.
-
 ### Qabalah: Geburah (Severity) and Hod (Splendor)
 
 Gate 39 resonates with **Geburah** (Severity—the disruption that serves truth) and **Hod** (Splendor—the mind provoked into new understanding).

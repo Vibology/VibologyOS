@@ -244,12 +244,6 @@ Gate 58 resonates astrologically with **Mars** (the planet of drive and action) 
 
 If an individual has **Mars or Saturn in Gate 58**, their vitality is central. They are here to embody the question: "How do I correct without destroying? How do I perfect without losing joy?"
 
-### Tarot: Strength (Resonance)
-
-While Human Design does not map 1:1 to Tarot, Gate 58 resonates with **Strength** (Atu VIII or XI depending on system)—the card of vitality channeled, the lion tamed not through force but through gentle insistence. Both speak to the **capacity to harness raw energy for higher purpose**.
-
-Strength's quiet mastery mirrors Gate 58's challenge—how to direct insatiable vitality toward correction without being consumed by it.
-
 ### Qabalah: Malkuth (Foundation in Matter)
 
 If we map the Root Center to the Qabalistic Tree of Life, Gate 58 resonates with **Malkuth** (Kingdom, Earth, Manifestation)—the sephira of grounded reality where imperfection is visible and correction is possible. Gate 58, as pressure to perfect, embodies Malkuth's capacity to **see what is and work toward what could be**.

@@ -272,12 +272,6 @@ Gate 5 occupies the **mid-degrees of Sagittarius**, the sign of expansion, philo
 - **Line 5** (15°07'30" - 16°03'45"): Joy—the recognition that waiting itself can be pleasurable
 - **Line 6** (16°03'45" - 17°00'00"): Yielding—mature Sagittarian wisdom, surrendering to natural timing
 
-### Tarot: The Hermit (Resonance, Not Direct Correlation)
-
-While Human Design does not map 1:1 to Tarot, Gate 5 resonates with **The Hermit** (Atu IX)—the figure who withdraws to await the correct timing, trusting that **the light will reveal the path when the moment is ripe**. The Hermit does not force the journey; the Hermit waits for illumination.
-
-Both speak to the **necessity of patience**—not all action is immediate, and that is wisdom, not weakness.
-
 ### Qabalah: Binah (Understanding Through Time)
 
 If we map Gate 5 to the Qabalistic Tree of Life, it resonates with **Binah** (Understanding)—the Sephirah of time, cycles, and the Great Mother who gestates all forms through the correct rhythm. Binah teaches that **all manifestation requires time**.

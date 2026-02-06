@@ -246,12 +246,6 @@ In astrological terms, Gate 48 resonates with **Ceres**—the asteroid of nurtur
 
 If an individual has their Ceres in Gate 48, their **nurturance style** is designed to manifest through depth assessment—providing when adequate, withholding when resources need renewal.
 
-### Tarot: The Star (Inexhaustible Source)
-
-While Human Design does not map 1:1 to Tarot, Gate 48 resonates with **The Star** (Atu XVII)—the figure pouring water from two vessels, representing **the inexhaustible source** that sustains. The Star embodies **hope and deep resources**.
-
-Both speak to the capacity to **draw from deep reserves** and to trust that the well provides.
-
 ### Qabalah: Hod (Splendor - Intellectual Depth)
 
 If we map the Spleen Center to the Qabalistic Tree of Life in this context, Gate 48 resonates with **Hod** (Splendor)—the sphere of intellect, analysis, and the **depth of understanding**. Hod is where knowledge is organized and made accessible.

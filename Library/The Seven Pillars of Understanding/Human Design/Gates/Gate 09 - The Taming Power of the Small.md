@@ -253,12 +253,6 @@ While the Rave I-Ching has specific astrological correspondences, Gate 9's **foc
 
 If an individual has Mercury or Saturn activating Gate 9, their capacity for focus may be pronounced, though requiring Sacral grounding to avoid mental obsession or over-discipline.
 
-### Tarot: The Hermit (Resonance, Not Direct Correlation)
-
-While Human Design does not map 1:1 to Tarot, Gate 9 resonates with **The Hermit** (Atu IX)—the figure who withdraws to focus on the light, **patiently refining wisdom through solitary concentration**. The Hermit does not rush; he accumulates understanding step by step.
-
-Both speak to the **necessity of focused solitude**—mastery requires withdrawal from distraction and patient attention to the small.
-
 ### Qabalah: Yesod (Foundation Through Accumulation)
 
 If we map Gate 9 to the Qabalistic Tree of Life, it resonates with **Yesod** (Foundation)—the Sephirah that receives all influences from above and consolidates them into stable foundation. Yesod is built through accumulation, not through dramatic transformation.

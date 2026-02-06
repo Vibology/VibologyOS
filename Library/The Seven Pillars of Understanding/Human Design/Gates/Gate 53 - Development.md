@@ -249,12 +249,6 @@ Gate 53 resonates astrologically with **Jupiter** (the planet of expansion, grow
 
 If an individual has their **Jupiter in Gate 53**, their relationship with beginnings, growth, and expansion becomes a central life theme. They are here to embody the question: "What new cycle is calling to be started?"
 
-### Tarot: The Fool (Resonance)
-
-While Human Design does not map 1:1 to Tarot, Gate 53 resonates with **The Fool** (Atu 0)—the card of new beginnings, innocence, and the leap into the unknown. Both speak to the **courage to start** without knowing the outcome.
-
-The Fool's step off the cliff mirrors Gate 53's beginning—both are acts of faith that the path will reveal itself.
-
 ### Qabalah: Kether (The Crown)
 
 If we map the Root Center to the Qabalistic Tree of Life, Gate 53 resonates with **Kether** (The Crown, the first emanation)—the sephira of beginnings, the point from which all manifestation flows. Gate 53, as the pressure to start, embodies Kether's capacity to **initiate the creative process**.

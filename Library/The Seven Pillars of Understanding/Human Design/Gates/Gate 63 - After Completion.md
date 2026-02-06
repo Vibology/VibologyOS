@@ -248,12 +248,6 @@ Gate 63 resonates astrologically with **Mercury** (the planet of thinking and qu
 
 If an individual has **Mercury or Saturn in Gate 63**, their relationship with doubt is central. They are here to embody the question: "How do I question without destroying, and verify without needing absolute certainty?"
 
-### Tarot: The Hermit (Resonance)
-
-While Human Design does not map 1:1 to Tarot, Gate 63 resonates with **The Hermit** (Atu IX)—the card of questioning, seeking truth through solitary inquiry, and the lantern of verification. Both speak to the **capacity to question in service to truth**.
-
-The Hermit's lamp mirrors Gate 63's doubt—both illuminate what others accept in darkness.
-
 ### Qabalah: Binah (Understanding)
 
 If we map the Head Center to the Qabalistic Tree of Life, Gate 63 resonates with **Binah** (Understanding, Saturn, Form)—the sephira of structure, limitation, and understanding through testing. Gate 63, as pressure to doubt, embodies Binah's capacity to **question until truth is verified**.

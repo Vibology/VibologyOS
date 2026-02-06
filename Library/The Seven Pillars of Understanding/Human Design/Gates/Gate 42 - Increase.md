@@ -250,12 +250,6 @@ In astrological terms, Gate 42 resonates with **Jupiter's** expansive quality—
 
 If an individual has their Jupiter in Gate 42, their **growth principle** is designed to manifest through completing experiences. They are here to maximize life's cycles.
 
-### Tarot: The World (Completion and Wholeness)
-
-While Human Design does not map 1:1 to Tarot, Gate 42 resonates with **The World** (Atu XXI)—the card of completion, fulfillment, and the conclusion of a cycle. The World represents the **integration of experience** and the readiness to begin anew.
-
-Both speak to the capacity to **finish, integrate, and celebrate** before moving forward.
-
 ### Qabalah: Malkuth (Kingdom - Material Completion)
 
 If we map the Sacral Center to the Qabalistic Tree of Life, it resonates with **Malkuth** (Kingdom)—the final emanation, the sphere of material manifestation and completion. Malkuth is where all higher principles are **brought to fruition** in physical reality.

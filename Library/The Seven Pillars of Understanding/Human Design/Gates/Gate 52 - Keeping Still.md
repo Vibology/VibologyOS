@@ -249,12 +249,6 @@ Gate 52 resonates astrologically with **Saturn** (the planet of discipline, rest
 
 If an individual has their **Saturn in Gate 52**, their relationship with time, discipline, and restraint becomes a central life theme. They are here to embody the question: "What am I willing to wait for?"
 
-### Tarot: The Hanged Man (Resonance)
-
-While Human Design does not map 1:1 to Tarot, Gate 52 resonates with **The Hanged Man** (Atu XII)—the card of voluntary suspension, waiting, and seeing from a new perspective. Both speak to the **wisdom of pause** and the necessity of stillness for deeper understanding.
-
-The Hanged Man's inverted position mirrors Gate 52's mountain—both are forces that resist the collective demand for action, choosing instead to wait until the right moment reveals itself.
-
 ### Qabalah: Binah (Understanding)
 
 If we map the Root Center to the Qabalistic Tree of Life, Gate 52 resonates with **Binah** (Understanding, Saturn, the Great Mother)—the sephira of form, limitation, and the patience required for manifestation. Gate 52, as the pressure to pause, embodies Binah's capacity to **contain chaos long enough for order to emerge**.

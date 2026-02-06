@@ -248,12 +248,6 @@ In archetypal astrology, Gate 21 resonates with **Mars** (the warrior, the enfor
 
 If an individual has Gate 21 activated by their Mars or Pluto placement in their Rave Chart, their **action and power** (Mars) or **transformation and control** (Pluto) are expressed through tribal resource management and enforcement.
 
-### Tarot: Justice (Atu VIII) and The Emperor (Atu IV)
-
-While Human Design does not map 1:1 to Tarot, Gate 21 resonates with **Justice** (Atu VIII)—the figure who enforces balance and administers consequences—and **The Emperor** (Atu IV)—the sovereign who controls the material realm and establishes order.
-
-Both speak to the capacity to **wield authority justly** and manage the material world through enforcement.
-
 ### Qabalah: Geburah (Severity/Strength)
 
 If we map the Ego Center to the Qabalistic Tree of Life, Gate 21 resonates with **Geburah** (Severity/Strength)—the sphere of power, discipline, destruction of what does not serve, and the enforcement of cosmic justice.

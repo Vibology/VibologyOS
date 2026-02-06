@@ -248,12 +248,6 @@ In archetypal astrology, Gate 30 resonates with **Venus** (the planet of desire,
 
 If an individual has Gate 30 activated by their Venus or Neptune placement in their Rave Chart, their **love and longing** (Venus/Neptune) are expressed through intense desire and emotional clinging.
 
-### Tarot: The Devil (Atu XV) and The Lovers (Atu VI)
-
-While Human Design does not map 1:1 to Tarot, Gate 30 resonates with **The Devil** (Atu XV)—the recognition of bondage and desire, the chains we cling to—and **The Lovers** (Atu VI)—the choice to engage with desire, the commitment to experience.
-
-Both speak to the capacity to **cling to experience with awareness** of limitation and fate.
-
 ### Qabalah: Tiphereth (Beauty) and Netzach (Victory/Desire)
 
 If we map the Solar Plexus Center to the Qabalistic Tree of Life, Gate 30 resonates with **Tiphereth** (Beauty/Harmony—the emotional heart) and **Netzach** (Victory/Desire—the sphere of passion, emotion, and clinging to experience).

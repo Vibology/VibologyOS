@@ -246,12 +246,6 @@ In astrological terms, Gate 47 resonates with **Saturn**—the planet of constra
 
 If an individual has their Saturn in Gate 47, their **karmic lessons** involve learning to transmute mental pressure into wisdom, accepting that realization comes through contemplation.
 
-### Tarot: The Hanged Man (Surrender and Perspective)
-
-While Human Design does not map 1:1 to Tarot, Gate 47 resonates with **The Hanged Man** (Atu XII)—the figure suspended, under pressure, yet achieving enlightenment through surrender. The Hanged Man represents **realization through constraint**.
-
-Both speak to the capacity to **transform oppression into understanding** through contemplative surrender.
-
 ### Qabalah: Binah (Understanding - The Great Mother)
 
 If we map the Ajna Center to the Qabalistic Tree of Life, it resonates with **Binah** (Understanding)—the sphere of form, structure, and deep comprehension. Binah is the **Great Mother** who gestates understanding through time.

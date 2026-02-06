@@ -256,12 +256,6 @@ While the Rave I-Ching has specific astrological correspondences, Gate 4's **men
 
 If an individual has Mercury activating Gate 4, their mental formulations may be **quick, versatile, and communicative**, though requiring grounding in experience to avoid superficiality.
 
-### Tarot: The Fool (Resonance, Not Direct Correlation)
-
-While Human Design does not map 1:1 to Tarot, Gate 4 resonates with **The Fool** (Atu 0)—the figure stepping into the unknown, **innocent and inexperienced**, yet full of potential. The Fool does not know where the path leads, but steps forward anyway.
-
-Both speak to the **necessity of inexperience**—one cannot learn without first not-knowing.
-
 ### Qabalah: Chokmah (Wisdom) and Da'at (Knowledge)
 
 If we map Gate 4 to the Qabalistic Tree of Life, it resonates with **Da'at** (Knowledge)—the "invisible" Sephirah that bridges understanding and wisdom. Da'at is where formulas emerge, where patterns crystallize, but it is also **provisional**, capable of dissolution.

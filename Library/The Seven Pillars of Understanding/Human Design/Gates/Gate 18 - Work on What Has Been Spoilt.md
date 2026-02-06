@@ -246,12 +246,6 @@ The progression from Judgement to Perfection is the journey of Gate 18: from cri
 
 In the Rave I-Ching, Gate 18 resonates with **Saturn**—the planet of structure, authority, limitation, and correction through time. If an individual has their Saturn in Gate 18, their **lessons and tests** (Saturn themes) involve learning to challenge authority wisely and work toward integrity.
 
-### Tarot: Justice (Resonance, Not Direct Correlation)
-
-While Human Design does not map 1:1 to Tarot, Gate 18 resonates with **Justice** (Atu VIII/XI)—the figure who weighs truth and corruption, who restores balance through careful discernment and corrective action.
-
-Both speak to the capacity to **recognize imbalance and work toward restoration**, to uphold integrity through vigilant awareness.
-
 ### Qabalah: Geburah (Severity/Strength)
 
 If we map the Spleen Center to the Qabalistic Tree of Life, Gate 18 resonates with **Geburah** (Severity)—the sphere of correction, discipline, and the necessary destruction of what has decayed. Geburah cuts away corruption to restore balance.

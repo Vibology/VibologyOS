@@ -248,12 +248,6 @@ In archetypal astrology, Gate 28 resonates with **Mars** (the warrior, the fight
 
 If an individual has Gate 28 activated by their Mars or Pluto placement in their Rave Chart, their **action and transformation** (Mars/Pluto) are expressed through meaningful struggle and risk-taking.
 
-### Tarot: Death (Atu XIII) and The Tower (Atu XVI)
-
-While Human Design does not map 1:1 to Tarot, Gate 28 resonates with **Death** (Atu XIII)—the awareness of impermanence and transformation—and **The Tower** (Atu XVI)—the necessary destruction that creates space for new meaning.
-
-Both speak to the capacity to **embrace transience and struggle** as paths to significance.
-
 ### Qabalah: Geburah (Severity/Strength)
 
 If we map the Spleen Center to the Qabalistic Tree of Life, Gate 28 resonates with **Geburah** (Severity/Strength)—the sphere of destruction, war, and the necessary fight against stagnation.

@@ -249,12 +249,6 @@ Gate 55 resonates astrologically with **Jupiter** (the planet of abundance, expa
 
 If an individual has their **Jupiter or Neptune in Gate 55**, their relationship with emotional abundance becomes a central life theme. They are here to embody the question: "What is the source of my spirit?"
 
-### Tarot: The Star (Resonance)
-
-While Human Design does not map 1:1 to Tarot, Gate 55 resonates with **The Star** (Atu XVII)—the card of hope, spiritual abundance, and emotional renewal. Both speak to the **richness of spirit** that arises after crisis.
-
-The Star's pouring water mirrors Gate 55's emotional flow—both are forces of emotional abundance shared freely.
-
 ### Qabalah: Netzach (Victory)
 
 If we map the Solar Plexus Center to the Qabalistic Tree of Life, Gate 55 resonates with **Netzach** (Victory, Venus, Emotional Depth)—the sephira of feeling, desire, and emotional richness. Gate 55, as the emotional spirit, embodies Netzach's capacity to **experience life emotionally**.

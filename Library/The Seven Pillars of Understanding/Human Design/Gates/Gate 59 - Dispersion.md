@@ -267,12 +267,6 @@ Gate 59 occupies the **opening degrees of Virgo**, immediately following the tra
 - **Line 5** (03°52'30" - 04°48'45"): Femme Fatale/Casanova—magnetic attraction in Virgo's refinement
 - **Line 6** (04°48'45" - 05°45'00"): One Night Stand—completion of initial Virgo bonding phase
 
-### Tarot: The Lovers (Resonance)
-
-While Human Design does not map 1:1 to Tarot, Gate 59 resonates with **The Lovers** (Atu VI)—the card of union, choice, and the dissolution of separation through bonding. Both speak to the **capacity to choose intimacy** and the vulnerability required to merge with another.
-
-The Lovers' choice mirrors Gate 59's challenge—who is correct to bond with?
-
 ### Qabalah: Yesod (Foundation)
 
 If we map the Sacral Center to the Qabalistic Tree of Life, Gate 59 resonates with **Yesod** (Foundation, Moon, Sexuality)—the sephira of generative force and the foundation of creation. Gate 59, as sexual/intimate energy, embodies Yesod's capacity to **generate through union**.

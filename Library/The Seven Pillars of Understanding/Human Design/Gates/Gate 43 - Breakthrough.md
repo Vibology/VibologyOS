@@ -246,12 +246,6 @@ In astrological terms, Gate 43 resonates with **Uranus**—the planet of sudden 
 
 If an individual has their Uranus in Gate 43, their **revolutionary impulse** is designed to manifest through unique insights. They are here to break through mental conventions.
 
-### Tarot: The Tower (Breakthrough and Revelation)
-
-While Human Design does not map 1:1 to Tarot, Gate 43 resonates with **The Tower** (Atu XVI)—the card of sudden revelation, breakthrough, and the collapse of false mental structures. The Tower represents the **lightning strike of truth** that shatters illusion.
-
-Both speak to the capacity to **break through, reveal, and restructure** understanding.
-
 ### Qabalah: Chokmah (Wisdom - Sudden Illumination)
 
 If we map the Ajna Center to the Qabalistic Tree of Life, it resonates with **Chokmah** (Wisdom)—the sphere of sudden illumination, the flash of insight, and the creative spark. Chokmah is the **primordial point of knowing** before conceptualization.

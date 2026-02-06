@@ -244,12 +244,6 @@ Gate 60 resonates astrologically with **Saturn** (the planet of limitation, disc
 
 If an individual has **Saturn or Uranus in Gate 60**, their relationship with limitation is central. They are here to embody the question: "How do I accept constraints without collapsing, and transcend them without denying reality?"
 
-### Tarot: Temperance (Resonance)
-
-While Human Design does not map 1:1 to Tarot, Gate 60 resonates with **Temperance** (Atu XIV)—the card of balance, moderation, and the alchemical process of working within limitation to create transformation. Both speak to the **capacity to work with constraint as creative force**.
-
-Temperance's measured pouring mirrors Gate 60's pulse—the rhythm of give and take, constraint and release.
-
 ### Qabalah: Geburah (Severity)
 
 If we map the Root Center to the Qabalistic Tree of Life, Gate 60 resonates with **Geburah** (Severity, Mars, Discipline)—the sephira of necessary constraint and the pruning that allows growth. Gate 60, as limitation pressure, embodies Geburah's capacity to **cut away excess and define form through boundary**.

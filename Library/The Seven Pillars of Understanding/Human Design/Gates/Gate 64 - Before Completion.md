@@ -248,12 +248,6 @@ Gate 64 resonates astrologically with **Neptune** (the planet of dreams, imagina
 
 If an individual has **Neptune in Pisces** or **strong Neptune/Pisces influence in Gate 64**, their relationship with confusion and imagination is central. They are here to embody the question: "How do I honor confusion without forcing clarity?"
 
-### Tarot: The Fool (Resonance)
-
-While Human Design does not map 1:1 to Tarot, Gate 64 resonates with **The Fool** (Atu 0)—the card of infinite potential, the journey not yet complete, the step into the unknown. Both speak to the **capacity to exist in the not-yet-finished**.
-
-The Fool's precipice mirrors Gate 64's confusion—both stand before completion, trusting the pattern will reveal itself.
-
 ### Qabalah: Kether (Crown)
 
 If we map the Head Center to the Qabalistic Tree of Life, Gate 64 resonates with **Kether** (Crown, First Emanation, Infinite Potential)—the sephira of the unmanifest, the not-yet-formed, the source before differentiation. Gate 64, as pressure to make sense, embodies Kether's capacity to **hold all potential before pattern emerges**.

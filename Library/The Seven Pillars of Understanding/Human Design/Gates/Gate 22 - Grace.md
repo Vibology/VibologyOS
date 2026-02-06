@@ -248,12 +248,6 @@ In archetypal astrology, Gate 22 resonates with **Venus** (the planet of beauty,
 
 If an individual has Gate 22 activated by their Venus or Moon placement in their Rave Chart, their **relationships and emotional expression** (Venus/Moon) are expressed through grace, listening, and social presence.
 
-### Tarot: The Empress (Atu III) and Temperance (Atu XIV)
-
-While Human Design does not map 1:1 to Tarot, Gate 22 resonates with **The Empress** (Atu III)—the figure of beauty, receptivity, and nurturing presence—and **Temperance** (Atu XIV)—the alchemist who blends opposing forces with grace and balance.
-
-Both speak to the capacity to **create harmony through presence** and emotional intelligence.
-
 ### Qabalah: Tiphereth (Beauty)
 
 If we map the Solar Plexus Center to the Qabalistic Tree of Life, Gate 22 resonates with **Tiphereth** (Beauty/Harmony)—the sphere of balance, solar consciousness, and the integration of opposing forces through grace.

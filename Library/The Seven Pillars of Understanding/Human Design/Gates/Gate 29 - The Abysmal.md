@@ -265,12 +265,6 @@ Gate 29 spans the **cusp between Leo and Virgo**—the transition from the Sun's
 - **Line 5** (28°15'00" - 29°11'15" Virgo): Overreach—crossing into Virgo, over-commitment to service
 - **Line 6** (29°11'15" - 00°07'30" Virgo): Confusion—early Virgo, analyzing commitment patterns
 
-### Tarot: The Hanged Man (Atu XII) and Temperance (Atu XIV)
-
-While Human Design does not map 1:1 to Tarot, Gate 29 resonates with **The Hanged Man** (Atu XII)—the figure suspended in the abyss, committing to the ordeal—and **Temperance** (Atu XIV)—the alchemist who sustains commitment over time to achieve transformation.
-
-Both speak to the capacity to **endure and commit through difficulty**.
-
 ### Qabalah: Binah (Understanding)
 
 If we map the Sacral Center to the Qabalistic Tree of Life, Gate 29 resonates with **Binah** (Understanding)—the sphere of receptivity, depth, and the capacity to gestate wisdom through sustained commitment.

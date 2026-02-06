@@ -275,12 +275,6 @@ Gate 6 occupies the **final degrees of Virgo**, the sign of analysis, discernmen
 - **Line 5** (26°22'30" - 27°18'45"): Arbitration—Mercury's gift of mediation in late Virgo
 - **Line 6** (27°18'45" - 28°15'00"): The Peacemaker—Virgo's completion, peace through discernment
 
-### Tarot: The Lovers (Resonance, Not Direct Correlation)
-
-While Human Design does not map 1:1 to Tarot, Gate 6 resonates with **The Lovers** (Atu VI)—the card of **intimate choice, union, and the friction that arises when two become one**. The Lovers must navigate desire, boundaries, and alignment.
-
-Both speak to the **necessity of friction in intimacy**—union is not merger without boundaries; it is the dance of closeness and distance.
-
 ### Qabalah: Gevurah (Severity and Boundaries)
 
 If we map Gate 6 to the Qabalistic Tree of Life, it resonates with **Gevurah** (Severity, Strength)—the Sephirah of boundaries, discipline, and the necessary "cutting away" that refines and strengthens.

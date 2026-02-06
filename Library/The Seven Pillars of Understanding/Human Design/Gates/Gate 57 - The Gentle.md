@@ -277,12 +277,6 @@ Gate 57 occupies the **mid-degrees of Libra**, the sign of balance, discernment,
 - **Line 5** (18°52'30" - 19°48'45"): Progression—intuitive clarity building momentum
 - **Line 6** (19°48'45" - 20°45'00"): Utilization—mature Libran wisdom, intuition in service
 
-### Tarot: The High Priestess (Resonance)
-
-While Human Design does not map 1:1 to Tarot, Gate 57 resonates with **The High Priestess** (Atu II)—the card of intuition, hidden knowing, and the veil between conscious and unconscious. Both speak to the **capacity to know without knowing how**.
-
-The High Priestess's silence mirrors Gate 57's whisper—both are forces of subtle, unspoken truth.
-
 ### Qabalah: Yesod (Foundation)
 
 If we map the Spleen Center to the Qabalistic Tree of Life, Gate 57 resonates with **Yesod** (Foundation, Moon, Subconscious)—the sephira of instinctual knowing and the foundation of manifestation. Gate 57, as acoustic intuition, embodies Yesod's capacity to **know through feeling rather than thinking**.

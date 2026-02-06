@@ -249,12 +249,6 @@ Gate 54 resonates astrologically with **Saturn** (the planet of ambition, achiev
 
 If an individual has their **Saturn in Gate 54**, their relationship with ambition, success, and social position becomes a central life theme. They are here to embody the question: "What am I willing to work for?"
 
-### Tarot: The Chariot (Resonance)
-
-While Human Design does not map 1:1 to Tarot, Gate 54 resonates with **The Chariot** (Atu VII)—the card of willpower, drive, and controlled ambition. Both speak to the **necessity of directed effort** for advancement.
-
-The Chariot's victory through focused will mirrors Gate 54's ascension—both require strategy, discipline, and the courage to pursue elevation.
-
 ### Qabalah: Netzach (Victory)
 
 If we map the Root Center to the Qabalistic Tree of Life, Gate 54 resonates with **Netzach** (Victory, Venus, Desire)—the sephira of ambition, desire, and the drive to achieve. Gate 54, as the pressure to rise, embodies Netzach's capacity to **pursue victory through strategic effort**.

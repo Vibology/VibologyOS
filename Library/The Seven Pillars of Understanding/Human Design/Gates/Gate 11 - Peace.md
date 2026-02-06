@@ -246,12 +246,6 @@ The progression from Obscurity to Light is the journey of Gate 11: from mental c
 
 In the Rave I-Ching, Gate 11 corresponds to specific astrological degrees. While individual charts vary, Gate 11 is often associated with **Mercury**—the planet of mind, communication, and ideation. If an individual has their Mercury in Gate 11, their **mental function** (Mercury = conscious thinking) is to generate unique, mutative ideas. They are here to conceptualize paradigm-shifting insights.
 
-### Tarot: The High Priestess (Resonance, Not Direct Correlation)
-
-While Human Design does not map 1:1 to Tarot, Gate 11 resonates with **The High Priestess** (Atu II)—the figure who holds **hidden knowledge, esoteric wisdom, and the capacity to see beyond the veil**. The High Priestess does not speak all that she knows; she holds the mystery. Similarly, Gate 11 holds ideas that may never be fully expressed, and there is peace in that withholding.
-
-Both speak to the capacity to **know without needing to manifest**, to hold visions without attachment to outcome.
-
 ### Qabalah: Chokmah (Wisdom)
 
 If we map the Ajna Center to the Qabalistic Tree of Life, it resonates with **Chokmah** (Wisdom)—the second Sephirah, the sphere of pure ideation, the first differentiation of the divine into form. Gate 11, as the source of Individual ideas, embodies the descent of Chokmah's wisdom into the individual mind.

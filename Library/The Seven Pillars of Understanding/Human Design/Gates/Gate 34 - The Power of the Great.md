@@ -286,12 +286,6 @@ Gate 34 occupies the **opening degrees of Sagittarius**, immediately following t
 - **Line 5** (03°52'30" - 04°48'45" Sag): Annihilation—projection field expecting total power
 - **Line 6** (04°48'45" - 05°45'00" Sag): Common Sense—mature Sagittarian wisdom, power with discernment
 
-### Tarot: Strength (Resonance, Not Direct Correlation)
-
-While Human Design does not map 1:1 to Tarot, Gate 34 resonates with **Strength** (Atu VIII or XI depending on system)—the figure gently closing the lion's mouth, power expressed as mastery rather than domination.
-
-Both speak to **power in service**, strength without violence, majesty without force.
-
 ### Qabalah: Geburah (Severity/Strength)
 
 If we map the Sacral Center to the Qabalistic Tree of Life, Gate 34 resonates with **Geburah** (Severity/Strength)—the fifth Sephirah, representing power, discipline, and the sword that cuts away what does not serve. Gate 34 is Geburic power in the Sacral motor—strength that empowers through discernment.

@@ -249,12 +249,6 @@ Gate 51 resonates astrologically with **Mars** (the planet of will, action, and 
 
 If an individual has their **Mars in Gate 51**, their action style is competitive, courageous, and crisis-responsive. They are here to embody the question: "What am I willing to initiate, even if I must go alone?"
 
-### Tarot: The Tower (Resonance)
-
-While Human Design does not map 1:1 to Tarot, Gate 51 resonates profoundly with **The Tower** (Atu XVI)—the card of sudden upheaval, divine shock, and the destruction of false structures. Both speak to the **necessity of disruption** for transformation.
-
-The Tower's lightning strike mirrors Gate 51's thunder—both are forces that cannot be controlled, only integrated. The individual with Gate 51 learns to become the Tower: to shock the system intentionally rather than be shocked unconsciously.
-
 ### Qabalah: Geburah (Severity)
 
 If we map the Heart Center to the Qabalistic Tree of Life, it resonates with **Geburah** (Severity, Strength, Mars)—the sephira of willpower, judgment, and the destruction of the unworthy. Gate 51, as the initiating shock, embodies Geburah's capacity to **cut away the false** and **initiate the necessary**.

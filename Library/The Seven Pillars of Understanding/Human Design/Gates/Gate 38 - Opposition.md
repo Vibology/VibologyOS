@@ -243,10 +243,6 @@ The progression from Struggle to Honour is the journey of Gate 38: from meaningl
 
 Gate 38 resonates with **Mars** (combat, assertion, fight) and **Aries** (the warrior, the pioneer, the one who opposes obstacles).
 
-### Tarot: The Seven of Wands (Resonance, Not Direct Correlation)
-
-While Human Design does not map 1:1 to Tarot, Gate 38 resonates with **Seven of Wands**—the figure standing alone on the hill, defending against opposition, the lone fighter.
-
 ### Qabalah: Geburah (Severity)
 
 Gate 38 resonates with **Geburah** (Severity)—the fifth Sephirah, representing the sword that cuts, the warrior's discipline, the opposition that preserves truth by severing falsehood.

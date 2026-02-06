@@ -247,10 +247,6 @@ The progression from Exhaustion to Divine Will is the journey of Gate 40: from d
 
 Gate 40 resonates with **Saturn** (discipline, work, responsibility) and **Capricorn** (the provider, the builder, the one who works for legacy).
 
-### Tarot: The Four of Pentacles and The Hermit (Resonance, Not Direct Correlation)
-
-While Human Design does not map 1:1 to Tarot, Gate 40 resonates with **Four of Pentacles** (material provision, holding resources) and **The Hermit** (withdrawal to aloneness, solitary restoration).
-
 ### Qabalah: Chesed (Mercy) and Geburah (Severity)
 
 Gate 40 resonates with **Chesed** (Mercy—benevolent provision) and **Geburah** (Severity—the discipline to cut ties when provision is not reciprocated).

@@ -248,12 +248,6 @@ In archetypal astrology, Gate 26 resonates with **Saturn** (the planet of memory
 
 If an individual has Gate 26 activated by their Saturn or Mercury placement in their Rave Chart, their **memory and communication** (Saturn/Mercury) are expressed through tribal influence and sales.
 
-### Tarot: The Hierophant (Atu V) and The Magician (Atu I)
-
-While Human Design does not map 1:1 to Tarot, Gate 26 resonates with **The Hierophant** (Atu V)—the keeper of tradition and historical memory—and **The Magician** (Atu I)—the trickster who uses skill and persuasion to influence.
-
-Both speak to the capacity to **wield memory and influence** for tribal continuity.
-
 ### Qabalah: Chesed (Mercy/Memory)
 
 If we map the Ego Center to the Qabalistic Tree of Life, Gate 26 resonates with **Chesed** (Mercy/Memory)—the sphere of benevolent accumulation, generosity born of historical wisdom, and kingly authority.

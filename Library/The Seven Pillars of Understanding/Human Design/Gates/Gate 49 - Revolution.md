@@ -250,12 +250,6 @@ In astrological terms, Gate 49 resonates with **Pluto**—the planet of death, r
 
 If an individual has their Pluto in Gate 49, their **transformative power** is designed to manifest through emotional sensitivity to injustice. They are here to revolutionize tribal structures.
 
-### Tarot: Death (Transformation and Rebirth)
-
-While Human Design does not map 1:1 to Tarot, Gate 49 resonates with **Death** (Atu XIII)—the card of transformation, endings, and rebirth. Death represents the **necessary destruction** that precedes renewal.
-
-Both speak to the capacity to **end what must end** and to trust that transformation serves life.
-
 ### Qabalah: Geburah (Severity - Destructive Mercy)
 
 If we map the Solar Plexus Center to the Qabalistic Tree of Life in this context, Gate 49 resonates with **Geburah** (Severity)—the sphere of judgment, destruction, and the **cutting away of what is unjust**. Geburah is destructive mercy—destroying to protect.

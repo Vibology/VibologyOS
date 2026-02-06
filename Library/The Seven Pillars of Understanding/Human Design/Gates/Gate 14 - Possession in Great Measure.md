@@ -246,12 +246,6 @@ The progression from Compromise to Bounteousness is the journey of Gate 14: from
 
 In the Rave I-Ching, Gate 14 corresponds to specific astrological degrees. Gate 14 resonates with **the Sun**—the source of vitality, creative power, and life force. If an individual has their Sun in Gate 14, their **life purpose** (Sun = conscious identity) involves mastering a craft and using that mastery to empower others.
 
-### Tarot: Strength (Resonance, Not Direct Correlation)
-
-While Human Design does not map 1:1 to Tarot, Gate 14 resonates with **Strength** (Atu VIII/XI)—the figure who demonstrates **mastery through gentle power**, taming the lion not through force but through competence and grace.
-
-Both speak to the capacity to **wield power without domination**, to master through sustained effort and humility.
-
 ### Qabalah: Geburah (Severity/Strength)
 
 If we map the Sacral Center to the Qabalistic Tree of Life, Gate 14 resonates with **Geburah** (Severity/Strength)—the sphere of power, discipline, and the capacity to cut away what does not serve in pursuit of mastery.

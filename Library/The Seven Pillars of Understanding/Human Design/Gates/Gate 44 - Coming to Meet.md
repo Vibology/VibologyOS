@@ -246,12 +246,6 @@ In astrological terms, Gate 44 resonates with **Saturn's** function as keeper of
 
 If an individual has their Saturn in Gate 44, their **karmic lessons** involve learning to use survival memory wisely, without becoming trapped in the past.
 
-### Tarot: The Hermit (Memory and Wisdom)
-
-While Human Design does not map 1:1 to Tarot, Gate 44 resonates with **The Hermit** (Atu IX)—the figure who carries the lamp of memory, illuminating the path based on past experience. The Hermit represents **wisdom through reflection** on what has been.
-
-Both speak to the capacity to **remember, recognize, and guide** based on historical patterns.
-
 ### Qabalah: Binah (Understanding - The Great Mother)
 
 If we map the Spleen Center to the Qabalistic Tree of Life, it resonates with **Binah** (Understanding)—the sphere of form, structure, and memory. Binah is the **Great Mother** who holds all that has been, providing context and protection.
