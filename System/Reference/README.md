@@ -176,6 +176,208 @@ When planetary positions and gate activations converge at the exact degree, the 
 
 ---
 
+## Tarot in Human Design
+
+**File:** `Tarot in Human Design.pdf`
+**Source:** Eleanor Haspel-Portner, Ph.D — Unified Life Sciences lecture (August 17, 2003)
+**Authority:** Ra Uru Hu teaching (1998 transmission from "the Voice")
+**Pages:** 18
+**Status:** Authoritative canonical correspondence
+
+### What It Is
+
+This document presents the **canonical mapping between the 22 Major Arcana of the Tarot and the Human Design bodygraph**, as revealed to Ra Uru Hu. It shows:
+
+- **Direct gate-to-card correspondences:** Specific Major Arcana keys mapped to exact gates
+- **Bodygraph pathway:** Two spiraling paths (counterclockwise and clockwise) through the centers
+- **Qabalistic integration:** How the Tarot Keys align with the Tree of Life within the bodygraph
+- **Center-specific placements:** All Major Arcana occur in Ajna, Throat, G-Center, and Sacral
+- **Archetypal layering:** How Tarot adds symbolic depth to gate mechanics
+
+### Why It Matters
+
+This document **refutes the common assumption that Tarot and Human Design don't map directly**. It provides:
+
+1. **Canonical correspondence:** Ra Uru Hu's authoritative teaching on Tarot-HD integration (not speculative resonance)
+2. **Cross-system synthesis:** Enables Tarot symbolism to deepen gate interpretation with archetypal precision
+3. **Library correction:** Many gate entries contain Tarot references that should align with this mapping
+4. **Client work enhancement:** Tarot-literate practitioners can bridge both systems mechanically
+5. **Archetypal verification:** Confirms or corrects thematic resonances with canonical authority
+
+### Complete Tarot-Gate Correspondence Table
+
+| Tarot Key | Gate/Center | Tarot Key | Gate/Center |
+|-----------|-------------|-----------|-------------|
+| **0 - The Fool** | Ajna & Sacral Centers | **11 - Justice** | Gate 23 |
+| **1 - The Magician** | Gate 62 | **12 - The Hanged Man** | Gate 1 |
+| **2 - The High Priestess** | Gate 16 | **13 - Death** | Gate 7 |
+| **3 - The Empress** | Gate 20 | **14 - Temperance** | Gate 10 |
+| **4 - The Emperor** | Gate 31 | **15 - The Devil** | Gate 15 |
+| **5 - The Hierophant** | Gate 8 | **16 - The Tower** | Gate 2 |
+| **6 - The Lovers** | Gate 33 | **17 - The Star** | Gate 46 |
+| **7 - The Chariot** | Gate 45 | **18 - The Moon** | Gate 25 |
+| **8 - Strength** | Gate 12 | **19 - The Sun** | Gate 13 |
+| **9 - The Hermit** | Gate 35 | **20 - Judgment** | G-Center (all gates) |
+| **10 - Wheel of Fortune** | Gate 56 | **21 - The World** | Ajna & Sacral Centers |
+
+### Structure Overview
+
+**Two Spiral Paths:**
+
+1. **Counterclockwise Path (Ajna → G-Center → Sacral):**
+   - Begins: Gate 17 → Gate 62 (Throat)
+   - Continues through: Gates 16, 20, 31, 8, 33, 45, 12, 35, 56, 23, 8, 1, 7, 10, 15, 2, 46, 25, 13
+   - Ends: G-Center (Key 20) → Gate 15 → Sacral (Gate 5)
+   - **Represents:** Inner unfolding process of consciousness development
+
+2. **Clockwise Path (Sacral → G-Center → Throat → Ajna):**
+   - Begins: Gate 5 → Gate 15 (G-Center)
+   - Continues through: Gates 2, 46, 25, 13, 1, 7, 10, 15, 2, G-Center (Key 20), 1, 8, 31, 20, 16, 62, 23, 56, 35, 12, 45, 33, 62
+   - Ends: Gate 17 (Ajna)
+   - **Represents:** Consciousness transforming into human thought and cognition
+
+**Double Helix Structure:**
+- The two paths trace a DNA-like spiral, showing the relationship between inner process and outer manifestation
+- Connects to the Qabalistic Tree of Life and Cube of Space
+- Links the Mammalian Matrix (sleep/dream states) with the Human Matrix (waking consciousness)
+
+### How to Use
+
+#### 1. **Correcting Gate Entry Tarot References**
+
+When reviewing gate entries in `Library/The Seven Pillars of Understanding/Human Design/Gates/`:
+
+**Check existing Tarot references against canonical mapping:**
+
+Example corrections needed:
+- Gate 51 currently references "The Tower" → **Incorrect** (Tower = Gate 2)
+- Gate 58 currently references "Strength" → **Incorrect** (Strength = Gate 12)
+- Gate 60 references "Temperance" → **Close but imprecise** (Temperance = Gate 10)
+
+**Add canonical correspondence to Cross-System Synthesis section:**
+
+```markdown
+### Tarot: The Magician (Gate 62)
+
+According to Ra Uru Hu's teaching documented by Eleanor Haspel-Portner (2003), Gate 62 corresponds to **The Magician** (Atu I / Key 1) in the Major Arcana. This is not thematic resonance but canonical correspondence.
+
+**The Magician's essence:** "As above, so below" — translation between realms, naming, manifesting through word. The Magician takes archetypal forces and gives them form through language and will.
+
+**Gate 62's mechanics:** The voice of detail, naming, organizing facts — "I think." Preponderance of the Small through precise articulation.
+
+**Convergence:** Both The Magician and Gate 62 share the core function of **translation and manifestation through precise naming**. The Magician translates spiritual force into material form; Gate 62 translates abstract patterns into named facts. Mercury (communication, detail) governs both.
+```
+
+#### 2. **Gate Entry Enhancement Template**
+
+For gates WITH canonical Tarot correspondence, add this section after I-Ching Hexagram Analysis:
+
+```markdown
+### Tarot: [Card Name] (Canonical Correspondence)
+
+**Ra Uru Hu Teaching:** Gate [X] corresponds to **[Card Name]** (Atu [Roman] / Key [Number]) according to the 1998 transmission documented by Eleanor Haspel-Portner.
+
+**Archetypal Essence:** [Brief card meaning from Qabalistic/BOTA tradition]
+
+**Mechanical Convergence:** [How the card's symbolism aligns with gate mechanics]
+
+**Cross-Reference:** See `System/Reference/Tarot in Human Design.pdf` pages [X-X] for pathway context.
+```
+
+For gates WITHOUT canonical Tarot correspondence, continue using thematic resonance but clarify:
+
+```markdown
+### Tarot: [Card Name] (Thematic Resonance)
+
+While Gate [X] does not have a canonical Tarot correspondence in Ra Uru Hu's teaching, it resonates thematically with **[Card Name]**...
+
+**Note:** This is thematic resonance, not mechanical correspondence. See `System/Reference/Tarot in Human Design.pdf` for canonical mappings.
+```
+
+#### 3. **Client Chart Synthesis**
+
+When synthesizing a chart with Tarot correspondences:
+
+1. **Identify activated gates** from HD chart
+2. **Map to Tarot Keys** using canonical table above
+3. **Layer archetypal meaning** from Tarot onto mechanical gate function
+4. **Note special activations:**
+   - G-Center gates = Judgment (Key 20) influence
+   - Ajna/Sacral = Fool (Key 0) and World (Key 21) bridging consciousness and manifestation
+
+**Example:**
+
+Client has **Gate 62 (Personality Sun)**:
+- Mechanical: Voice of detail, precision, naming facts
+- Tarot (Canonical): The Magician — manifestation through word, "As above, so below"
+- Synthesis: "Your Personality Sun in Gate 62 makes you a natural Magician with language — you manifest understanding by naming it precisely. The Magician's gift of translation between realms expresses through your capacity to articulate details that reveal patterns."
+
+#### 4. **Cross-System Synthesis Protocol Integration**
+
+When following `PROTOCOL - Cross-System Synthesis.md`:
+
+**Step 2 (Gather Prima Materia) — Add Tarot Layer:**
+
+**Tarot Section:**
+- Check if any activated gates have canonical Tarot correspondences
+- Note the archetypal theme from the corresponding Major Arcana
+- Research Qabalistic associations (Hebrew letter, path on Tree of Life, astrological attribution)
+- **Convergence point:** How does the Tarot archetype deepen understanding of the gate's mechanical function?
+
+**Example Synthesis:**
+- **Gate 16 activated** (Skills, Enthusiasm)
+- **Tarot:** The High Priestess (Key 2)
+- **Qabalah:** Gimel (ג), Path between Kether and Tiphareth, Moon
+- **Convergence:** The High Priestess's lunar receptivity and skill in navigating hidden knowledge aligns with Gate 16's capacity to master skills through depth and repetition. The unconscious mastery (High Priestess) manifests through practiced enthusiasm (Gate 16).
+
+### Integration with Existing Protocols
+
+**Referenced by:**
+- `PROTOCOL - Cross-System Synthesis.md` — Prima Materia gathering (Tarot as additional layer)
+- `GUIDE - Synthesis Quick Start.md` — Archetypal integration examples
+
+**Supports:**
+- Library gate entry enhancement (canonical Tarot correspondences)
+- Client chart readings (Tarot-HD bridge for archetypal depth)
+- Teaching synthesis (demonstrating multi-system convergence with authority)
+- Correcting speculative Tarot references with canonical mappings
+
+**Requires correction in:**
+- Multiple gate entries currently contain incorrect or speculative Tarot references
+- Future systematic review needed to align all gate Tarot sections with canonical mapping
+
+### Important Notes
+
+**Canonical vs. Resonance:**
+- This is **Ra Uru Hu's direct teaching**, not Eleanor Haspel-Portner's interpretation
+- The mapping was revealed to Ra in 1998 by "the Voice" (same source as HD system)
+- Any Tarot reference in gate entries should specify: **canonical correspondence** (if in this table) or **thematic resonance** (if not)
+
+**Pathway Context Matters:**
+- Cards don't exist in isolation — their position on the counterclockwise or clockwise spiral adds meaning
+- The G-Center acts as a pivot point (Judgment/Key 20)
+- The Fool (Key 0) and World (Key 21) bridge Ajna and Sacral, showing consciousness-manifestation axis
+
+**Limitations:**
+- Only the 22 Major Arcana are mapped (Minor Arcana are not addressed)
+- Not all 64 gates have Tarot correspondences (Major Arcana only occupy specific gates in Ajna, Throat, G-Center, Sacral)
+- The document presents one valid layout but acknowledges other arrangements are possible
+
+**BOTA Integration:**
+- Eleanor Haspel-Portner studied Builders of the Adytum (BOTA) Tarot system
+- The correspondences use Rider-Waite deck imagery (with BOTA permission noted)
+- Qabalistic attributions follow Paul Foster Case tradition
+
+### Observatory Stance
+
+The Tarot-HD correspondence is not interpretation — it is **revealed structure**. Like discovering that the bodygraph and the Qabalistic Tree of Life share mathematical foundations, this mapping was transmitted rather than deduced.
+
+The Observatory's role is to **observe the correspondence without forcing meaning**. When a gate's mechanics and its canonical Tarot card converge in symbolism, the "Third Meaning" emerges from the overlap. When they diverge, that tension is also data — the archetype and the mechanism offer different lenses on the same human experience.
+
+This is not about making Tarot "fit" Human Design or vice versa. It is about recognizing that both systems describe the same territory from different observational positions. The correspondence reveals **where they're pointing at the same landmarks**.
+
+---
+
 ## Future Reference Materials
 
 As additional authoritative lookup tools are acquired, they will be documented here:
