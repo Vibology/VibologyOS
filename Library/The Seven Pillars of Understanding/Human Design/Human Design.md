@@ -163,6 +163,7 @@ This is not transcendence. It is **alignment**—the recognition that you are a 
 - **Types:** [[Manifestor]], [[Generator]], [[Projector]], [[Reflector]]
 - **Centers:** [[Sacral]], [[Throat]], [[Solar Plexus]], [[Ajna]], [[Spleen]], [[Heart]], [[G Center]], [[Root]], [[Head]]
 - **Strategy & Authority:** [[Strategy]], [[Emotional Authority]], [[Sacral Authority]], [[Splenic Authority]]
+- **Definition:** [[Definition]] — Internal communication architecture (Single, Split, Triple, Quad)
 - **Profiles:** [[3-5 Martyr Heretic]], [[6-2 Role Model Hermit]], and ten others
 
 ### Cross-System Integration

@@ -1,22 +1,22 @@
 # Current Work Context
 
 **Last Updated:** 2026-02-06
-**System Status:** Library complete; **Astrology Hellenistic Expansion ALL TIERS COMPLETE** (Tier 1: Planetary Condition, Lots, Natal Chart; Tier 2: Triplicity Rulers, Reception, Planetary Phases & Retrograde, Annual Profections, Lunar Nodes; Tier 3: Terms & Bounds, Traditional Decans, Zodiacal Releasing, Firdaria, Primary Directions — all from Brennan/Lilly/Ptolemy sources); **Qabalah subsystem COMPLETE** (32 files, 0 stubs — 4 batches: Structural Foundations, Divine Names, Ten Sephiroth, Shadow System/Paths/Specialized/Overview); **Oracle Deck canonized** (The Astrolabe — 88 cards production-ready); dignity data extraction COMPLETE (64/64 gates, 384/384 lines); **comprehensive dignity calculation IMPLEMENTED** (juxtaposition, harmonic fixing, star symbols); **Angelology pillar 95% COMPLETE** (Heywood 1635 integrated, invocation protocols operational, Seven Planetary Archangels table complete, Discernment of Spirits comprehensive testing framework complete); **The Magdalene Path practitioner protocols COMPLETE** (Contemplative Prayer comprehensive guide, Practitioner Protocols operational, Daily Practice Quick Reference ready)
+**System Status:** Library complete; **Astrology Hellenistic Expansion ALL TIERS COMPLETE** (Tier 1: Planetary Condition, Lots, Natal Chart; Tier 2: Triplicity Rulers, Reception, Planetary Phases & Retrograde, Annual Profections, Lunar Nodes; Tier 3: Terms & Bounds, Traditional Decans, Zodiacal Releasing, Firdaria, Primary Directions — all from Brennan/Lilly/Ptolemy sources); **Qabalah subsystem COMPLETE** (32 files, 0 stubs — 4 batches: Structural Foundations, Divine Names, Ten Sephiroth, Shadow System/Paths/Specialized/Overview); **Oracle Deck canonized** (The Astrolabe — 88 cards production-ready); dignity data extraction COMPLETE (64/64 gates, 384/384 lines); **comprehensive dignity calculation IMPLEMENTED** (juxtaposition, harmonic fixing, star symbols); **Angelology pillar 95% COMPLETE** (Heywood 1635 integrated, invocation protocols operational, Seven Planetary Archangels table complete, Discernment of Spirits comprehensive testing framework complete); **The Magdalene Path practitioner protocols COMPLETE** (Contemplative Prayer comprehensive guide, Practitioner Protocols operational, Daily Practice Quick Reference ready); **HD Definition Types COMPLETE** (Single/Split/Triple/Quad — comprehensive Library entry operational)
 **Current Phase:** Foundation-building — still on the roof, still in observation
 
 ---
 
 ## System Health Summary
 
-### Library (765 files)
+### Library (766 files)
 
 | Metric | Value |
 |--------|-------|
-| Total Files | 765 |
+| Total Files | 766 |
 | Cross-References Coverage | 99.9% |
 | Dead Wikilinks | 0 |
 | YAML Compliance | 100% |
-| Stub Files | 55 (intentional scaffolding) |
+| Stub Files | 54 (intentional scaffolding) |
 
 **All core practice content is 100% complete:**
 - 78 Tarot cards (Major + Minor Arcana)
@@ -88,11 +88,11 @@ Old Window content (76 files) archived at `.archive/Library/The Window/`. The wo
 
 #### Prioritized Development Roadmap
 
-**Tier 1: Gaps That Affect Client Work**
+**Tier 1: Gaps That Affect Client Work** *(Item #1 COMPLETE)*
 
 | # | Pillar | Item | Effort | Impact |
 |---|--------|------|--------|--------|
-| 1 | HD | Definition Types (Single/Split/Triple/Quad) | Low | High — every chart has one; undocumented |
+| ~~1~~ | ~~HD~~ | ~~Definition Types~~ | ~~Low~~ | ~~COMPLETE 2026-02-06~~ |
 | 2 | Astrology | Lots (Lot of Fortune, Lot of Spirit) | Medium | High — core Hellenistic technique; completely absent |
 | 3 | Astrology | Planetary Condition (cazimi, combust, under the beams, hayz, bonification, maltreatment) | Medium | High — fundamental to traditional planetary assessment; absent |
 | 4 | Astrology | Natal Chart expansion (Hellenistic reading methodology) | Medium | Medium — 90-line stub; should teach sect → condition → dignities → lots → timing |
@@ -184,6 +184,28 @@ Acquiring LYD manual ($50) and planning foundation course sequence (LYD $300, Ra
 ---
 
 ## Session History
+
+**2026-02-06 (Late Night):** HD Definition Types expansion — **Tier 1 Roadmap Item #1 COMPLETE**
+- **Objective:** Expand highest-priority stub (Definition Types) — every chart has one, currently undocumented
+- **Scribe fetches successful:** 2 NotebookLM queries (Esoteric Grimoire — Definitive Book Section 5 & 6)
+  - Query 1: All 5 Definition types (Single/Simple Split/Triple Split/Quad Split/No Definition), population percentages, psychological characteristics, decision-making patterns, relationship dynamics, bridging Gates conditioning
+  - Query 2: Channel mechanics creating Definition, Type correlations, specific bridging examples (Henry Miller Gate 62, Stephen Hawking wide split), dependency vs. transformation in relationships
+- **Weaver phase complete:**
+  - **Definition.md** (NEW, ~440 lines) — Comprehensive Library entry covering internal communication architecture
+    - **Five Definition types detailed:** Single (41%, self-contained autonomy), Simple Split (46%, "You complete me" dynamic), Triple Split (11%, need for variety/public spaces), Quad Split (0.5%, fixed/slow processors), No Definition (Reflector, lunar rhythm)
+    - **Channel mechanics:** How gates create definition, continuous circuit vs. islands, Single Definition with multiple channels vs. Split with few channels
+    - **Bridging Gates psychology:** Conditioning trap (mind obsesses over "missing pieces"), specific examples (Gate 62 Detail, Gate 20 Presence, Channel 34-20 Charisma), liberation through Strategy/Authority
+    - **Relationship dynamics:** Dependency trap vs. healthy bridging, public spaces as aura-sampling environments for Splits, Triple Split need for multiple perspectives (not infidelity), Quad Split need for time/patience
+    - **Type correlations:** Reflectors always No Definition, Quad Splits almost always Generators/MGs (statistical requirement for 8-9 defined Centers), Manifestors often strong central column
+    - **Jungian depth:** Single Definition as integrated Self (unus mundus), Simple Split as Syzygy projection (Anima/Animus), Triple Split as fragmented psyche requiring multiple archetypal perspectives (Transcendent Function insufficient), Quad Split as lifelong individuation requiring all four psychological functions, Shadow as bridging Gates (disowned parts projected onto others)
+    - **Observatory lens:** Definition as architectural truth (not wound to heal), honoring structure vs. fighting it
+    - 10 footnotes citing Definitive Book Sections 5 & 6 (Henry Miller, Stephen Hawking examples, population stats, mechanics, relationship patterns)
+    - Complete cross-references (Centers, Channels, Strategy, Authority, Types, Jungian parallels)
+- **Human Design.md updated:** Added Definition to "Within Human Design" cross-references section
+- **Library expansion:** 765 → 766 files (1 new entry)
+- **Stub count:** 55 → 54
+- **Roadmap status:** Tier 1 Item #1 COMPLETE (Definition Types)
+- **Next available Tier 1 work:** Items 2-4 already complete (Lots, Planetary Condition, Natal Chart). All Tier 1 HD work DONE. Remaining Tier 1 items are Astrology (already complete). Tier 2 available: Jungian stubs (#10), Projector Subcategories (#11, pending IHDS source), Deconditioning expansion (#12, pending IHDS source)
 
 **2026-02-06 (Night):** Qabalah Batch 4 — **ALL QABALAH STUBS COMPLETE** (32/32 files, 0 stubs remaining)
 - **Batch 4 scope:** Final 8 stubs expanded (5 planned + 3 missed overview files discovered)
