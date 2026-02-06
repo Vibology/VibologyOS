@@ -44,6 +44,8 @@ The keynote here is **insatiable vitality**. This is the Root Center's capacity 
 | **Gene Keys** | Shadow: Dissatisfaction / Gift: Vitality / Siddhi: Bliss |
 | **Harmonic Gates** | Gate 18 (Correction - Spleen) |
 | **Codon Ring** | Ring of Water (Gates 58, 38, 54, 61) |
+| **Astrological Span** | 03°52'30" Capricorn - 09°30'00" Capricorn |
+| **I-Ching Trigram** | Lake (☱) - Joy, openness, stimulation |
 
 ## I-Ching Hexagram Analysis
 

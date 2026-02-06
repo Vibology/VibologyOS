@@ -44,6 +44,8 @@ The keynote here is **initiation of cycles**. This is the Root Center's pressure
 | **Gene Keys** | Shadow: Immaturity / Gift: Expansion / Siddhi: Superabundance |
 | **Harmonic Gate** | Gate 42 (Increase - Sacral) |
 | **Codon Ring** | Ring of Trials (Gates 52, 39, 53, 54) |
+| **Astrological Span** | 15°07'30" Cancer - 20°45'00" Cancer |
+| **I-Ching Trigram** | Mountain (☶) - Stillness, meditation, stopping |
 
 ## I-Ching Hexagram Analysis
 

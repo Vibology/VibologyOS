@@ -44,6 +44,8 @@ The keynote here is **individual initiative through ego strength**. This is the 
 | **Gene Keys** | Shadow: Agitation / Gift: Initiative / Siddhi: Awakening |
 | **Harmonic Gate** | Gate 25 (Innocence - G Center) |
 | **Codon Ring** | Ring of Fire (Gates 51, 21, 40, 38) |
+| **Astrological Span** | 15°07'30" Aries - 20°45'00" Aries |
+| **I-Ching Trigram** | Thunder (☳) - Arousing, initiative, shock |
 
 ## I-Ching Hexagram Analysis
 

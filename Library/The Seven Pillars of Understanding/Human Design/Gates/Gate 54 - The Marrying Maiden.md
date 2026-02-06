@@ -44,6 +44,8 @@ The keynote here is **ambition as biological pressure**. This is the Root Center
 | **Gene Keys** | Shadow: Greed / Gift: Aspiration / Siddhi: Ascension |
 | **Harmonic Gate** | Gate 32 (Continuity - Spleen) |
 | **Codon Ring** | Ring of Trials (Gates 52, 39, 53, 54) |
+| **Astrological Span** | 15°07'30" Capricorn - 20°45'00" Capricorn |
+| **I-Ching Trigram** | Lake (☱) - Joy, openness, stimulation |
 
 ## I-Ching Hexagram Analysis
 

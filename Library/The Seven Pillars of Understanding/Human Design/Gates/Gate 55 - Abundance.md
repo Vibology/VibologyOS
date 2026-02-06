@@ -44,6 +44,8 @@ The keynote here is **spirit as the source of abundance**. This is the Solar Ple
 | **Gene Keys** | Shadow: Victimisation / Gift: Freedom / Siddhi: Freedom (doubled) |
 | **Harmonic Gate** | Gate 39 (Obstruction - Root) |
 | **Codon Ring** | Ring of Alchemy (Gates 55, 59, 6, 22) |
+| **Astrological Span** | 00°07'30" Pisces - 05°45'00" Pisces |
+| **I-Ching Trigram** | Fire (☲) - Radiance, illumination, clinging |
 
 ## I-Ching Hexagram Analysis
 

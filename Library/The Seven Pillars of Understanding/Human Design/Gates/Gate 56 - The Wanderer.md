@@ -44,6 +44,8 @@ The keynote here is **stimulation through narrative**. This is the Throat Center
 | **Gene Keys** | Shadow: Distraction / Gift: Enrichment / Siddhi: Intoxication |
 | **Harmonic Gate** | Gate 11 (Peace - Ajna) |
 | **Codon Ring** | Ring of Seeking (Gates 56, 60, 12, 23) |
+| **Astrological Span** | 26°22'30" Cancer - 02°00'00" Leo |
+| **I-Ching Trigram** | Mountain (☶) - Stillness, meditation, stopping |
 
 ## I-Ching Hexagram Analysis
 

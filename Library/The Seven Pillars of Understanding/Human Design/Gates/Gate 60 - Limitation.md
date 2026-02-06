@@ -44,6 +44,8 @@ The keynote here is **the pulse**. This is the Root Center's capacity to generat
 | **Gene Keys** | Shadow: Limitation / Gift: Realism / Siddhi: Justice |
 | **Harmonic Gates** | Gate 3 (Ordering Chaos - Sacral) |
 | **Codon Ring** | Ring of Trials (Gates 60, 56, 3, 27) |
+| **Astrological Span** | 26°22'30" Capricorn - 02°00'00" Aquarius |
+| **I-Ching Trigram** | Lake (☱) - Joy, openness, stimulation |
 
 ## I-Ching Hexagram Analysis
 

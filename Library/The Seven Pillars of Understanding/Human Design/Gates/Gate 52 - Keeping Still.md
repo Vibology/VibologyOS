@@ -44,6 +44,8 @@ The keynote here is **stillness under pressure**. This is the Root Center's capa
 | **Gene Keys** | Shadow: Stress / Gift: Restraint / Siddhi: Stillness |
 | **Harmonic Gate** | Gate 9 (Focus of the Small - Sacral) |
 | **Codon Ring** | Ring of Trials (Gates 52, 39, 53, 54) |
+| **Astrological Span** | 03°52'30" Cancer - 09°30'00" Cancer |
+| **I-Ching Trigram** | Mountain (☶) - Stillness, meditation, stopping |
 
 ## I-Ching Hexagram Analysis
 
