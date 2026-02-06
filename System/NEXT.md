@@ -16,7 +16,7 @@
 | Cross-References Coverage | 99.9% |
 | Dead Wikilinks | 0 |
 | YAML Compliance | 100% |
-| Stub Files | 54 (intentional scaffolding) |
+| Stub Files | 47 (intentional scaffolding) |
 
 **All core practice content is 100% complete:**
 - 78 Tarot cards (Major + Minor Arcana)
@@ -101,12 +101,12 @@ Old Window content (76 files) archived at `.archive/Library/The Window/`. The wo
 
 | # | Pillar | Item | Effort | Impact |
 |---|--------|------|--------|--------|
-| 5 | Astrology | Lunar Nodes (traditional: increase/decrease, eclipses, bonification) | Medium | Medium — important but not the interpretive spine it is in evolutionary astrology |
-| 6 | Astrology | Annual Profections (Lord of the Year protocol) | Low-Med | Medium — mentioned in overview, needs working protocol |
-| 7 | Astrology | Reception (mutual reception, generosity, enmity) | Low | Medium — fundamental traditional planetary relationship; absent |
-| 8 | Astrology | Triplicity Rulers (day/night table, usage) | Low | Medium — mentioned but not developed |
-| 9 | Astrology | Retrograde mechanics (stations, speed, visibility — traditional framing) | Low-Med | Medium — affects ~30% of placements |
-| 10 | Personal Mythos | 7 Jungian stubs (Synchronicity, Transcendent Function, Inflation, Ego-Death, Collective Unconscious, Psychoid Archetype, Craftsman) | Medium | Medium — foundational Jungian concepts |
+| ~~5~~ | ~~Astrology~~ | ~~Lunar Nodes~~ | ~~Medium~~ | ~~COMPLETE 2026-02-05~~ |
+| ~~6~~ | ~~Astrology~~ | ~~Annual Profections~~ | ~~Low-Med~~ | ~~COMPLETE 2026-02-05~~ |
+| ~~7~~ | ~~Astrology~~ | ~~Reception~~ | ~~Low~~ | ~~COMPLETE 2026-02-05~~ |
+| ~~8~~ | ~~Astrology~~ | ~~Triplicity Rulers~~ | ~~Low~~ | ~~COMPLETE 2026-02-05~~ |
+| ~~9~~ | ~~Astrology~~ | ~~Retrograde mechanics~~ | ~~Low-Med~~ | ~~COMPLETE 2026-02-05~~ |
+| ~~10~~ | ~~Personal Mythos~~ | ~~7 Jungian stubs~~ | ~~Medium~~ | ~~COMPLETE 2026-02-06~~ |
 | 11 | HD | Projector Subcategories (Classic/Energy/Mental) | Low | Low-Med — pending IHDS source |
 | 12 | HD | Deconditioning expansion | Medium | Medium — practice entry, not just concept |
 
@@ -184,6 +184,25 @@ Acquiring LYD manual ($50) and planning foundation course sequence (LYD $300, Ra
 ---
 
 ## Session History
+
+**2026-02-06 (Continued - Late Night):** Jungian Concepts expansion — **Tier 2 Roadmap Item #10 COMPLETE** (7/7 stubs)
+- **Objective:** Expand 7 foundational Jungian concept stubs (Tier 2 Item #10 — highest-value library work available after Tier 1 complete)
+- **Scribe fetches successful:** 2 NotebookLM queries (Esoteric Grimoire — Jung CW 7/8/9i/12/14, von Franz, Huxley, Pauli-Jung Letters)
+  - Query 1: Synchronicity, Transcendent Function, Inflation, Ego-Death, Collective Unconscious (5 concepts)
+  - Query 2: Psychoid Archetype, The Craftsman (2 concepts)
+- **Weaver phase complete — 7 entries expanded (stub → comprehensive):**
+  1. **Synchronicity.md** (42 → ~300 lines) — Acausal connecting principle, Jung-Pauli collaboration, I-Ching experiments (summer 1920), astrological marriage experiment (483 couples), quantum parallels (entanglement/observer effect), unus mundus (One World), divination systems as psychoid sampling, synchronicity intensification (crisis/individuation/numinous/collective), pathology warning (over-reading/paranoia/ideas of reference in schizophrenia). 12 footnotes.
+  2. **The Transcendent Function.md** (39 → ~320 lines) — Union of opposites, third thing (symbol/lysis) emerges, Jung's 1916 essay, Hegelian dialectic comparison (symbolic vs. conceptual), mechanics (confrontation/holding tension/symbol emergence), practical methods (active imagination, artistic expression, dream work, mandala creation), neurological basis (interhemispheric integration/corpus callosum), central mechanism of individuation, failure modes (repression/identification/splitting), Observatory lens (Third Meaning methodology). 16 footnotes.
+  3. **Inflation.md** (42 → ~330 lines) — Ego identifies with archetypal forces, grandiosity/hubris compensated by inferiority, von Franz on "silly inflation" (Great Mother example), stages (encounter/identification/grandiosity/shadow compensation/collapse/integration or repeat), relationship to narcissism (comparison table), messianic/spiritual/intellectual forms, inflation in esoteric communities (meditation/psychedelics/channeling dangers), remedy (humility/ego-Self axis/mandala), Observatory lens (instrument error — practitioner mistaking self for instruments). 13 footnotes.
+  4. **Ego-Death.md** (44 → ~360 lines) — Dissolution of separate self, psychological vs. spiritual (Jung's relativization vs. mystical annihilation), Freud's "oceanic feeling" (infantile regression critique, Jung's counter), Buddhist anatta (five aggregates, cessation/nirodha, Jung's warning on premature Western dissolution), dangers (psychosis if ego too weak, spiritual bypass, Dark Night despair), alchemical parallel (mortificatio/nigredo → albedo/citrinitas/rubedo), integration practices (grounding/ordinary tasks/journaling/community/patience), esoteric initiation (Qabalah Abyss, Christian mystical death, Shamanic dismemberment), Observatory lens (recalibration event). 17 footnotes.
+  5. **The Collective Unconscious.md** (39 → ~350 lines) — Deepest psyche layer shared by all humans, three-layer model (consciousness/personal unconscious/collective unconscious), archetypes as contents (archetype per se vs. archetypal image), evidence (schizophrenic hallucinations with mythological motifs, cross-cultural mythology parallels, dreams with no personal source, spontaneous mandala production), archetypes vs. instincts (psychic counterpart to biological, image-making side), Plato's Forms relationship (similarities/differences — dynamic numinous forces vs. static abstract Ideas), myths as collective dream, critique and reception (transpersonal support, evolutionary psychology critique, Jung's response on inherited potentials), Observatory lens (shared field from which divination systems draw). 16 footnotes.
+  6. **Psychoid Archetype.md** (71 → ~330 lines) — Where psyche and matter meet, spectrum model (spirit/image ↔ psychoid archetype ↔ instinct/body), Jung's CW 8 technical development, Pauli-Jung dialogue (quantum physics parallels, wave function/measurement, observer effect), unus mundus (One World — undifferentiated unity before psyche/matter split), alchemical prima materia, synchronicity foundation (inner/outer both from psychoid layer), divination mechanics (sampling psychoid where inner/outer continuous), angels/spirits as psychoid realities (neither purely psychological nor spiritual), perennial philosophy connections (non-duality, Tao, Brahman, Ain Soph, The One), Observatory lens (psychoid as instrument ground, paradox holding). 13 footnotes.
+  7. **The Craftsman.md** (88 → ~380 lines) — Mastery through repetition and discipline, work as sacred practice, mythological forms (Hephaestus/Vulcan wounded smith — rejection→forge→mastery, turning wound to gift; Daedalus labyrinth architect — craft as creation and trap, skill without wisdom; Ptah Egyptian creator — thought/word/form, logos principle), mastery seven-year cycle (Gene Keys: identification/repetition, cellular absorption, skill→versatility transcendence), Taoist woodcarver Ch'ing (Huxley: self-naughting/kenosis until craftsman-material unified, seeing stand in wood), opus contra naturam (alchemy as craft, Jung's psychological interpretation), shadow Craftsman (perfectionism paralyzes, work as relational escape, rigidity, ego identification with output), astrological correspondences (6th House, Virgo, Mercury, Saturn), HD Generator alignment (defined Sacral, sustainable work energy), Observatory lens (instrument builder, embodied skill through ten thousand hours). 15 footnotes.
+- **Result:** All 7 foundational Jungian concepts now comprehensive (~300-380 lines each), heavily cross-referenced, source-verified
+- **Library expansion:** No new files (expansions only); 766 files maintained
+- **Stub count:** 54 → 47 (7 stubs eliminated)
+- **Roadmap status:** Tier 2 Item #10 COMPLETE (7 Jungian stubs). Items 5-9 already complete (Astrology Hellenistic). Items 11-12 on hold (pending IHDS sources). **All available Tier 2 work DONE.**
+- **Next available:** Tier 3 Item #19 (16 mythology deity stubs), Item #20 (Vibrology overview stubs), remaining Angelology stubs (15), other practice/overview stubs (12)
 
 **2026-02-06 (Late Night):** HD Definition Types expansion — **Tier 1 Roadmap Item #1 COMPLETE**
 - **Objective:** Expand highest-priority stub (Definition Types) — every chart has one, currently undocumented
