@@ -248,11 +248,17 @@ Gate 62 resonates astrologically with **Mercury** (the planet of communication a
 
 If an individual has **Mercury in Virgo** or **strong Virgo/Mercury influence in Gate 62**, their detail work is central. They are here to embody the question: "How do I name facts without losing them in noise?"
 
-### Tarot: The Magician (Resonance)
+### Tarot: The Magician (Canonical Correspondence)
 
-While Human Design does not map 1:1 to Tarot, Gate 62 resonates with **The Magician** (Atu I)—the card of naming, manifesting through word, and organizing the elements of reality. Both speak to the **capacity to name what is and bring it into form**.
+**Ra Uru Hu Teaching:** According to the 1998 transmission documented by Eleanor Haspel-Portner, Gate 62 corresponds to **[[The Magician (I)]]** (Atu I / Key 1) in the Major Arcana. This is canonical correspondence, not thematic resonance.
 
-The Magician's "As above, so below" mirrors Gate 62's naming—language creates reality by organizing perception.
+**The Magician's essence:** "As above, so below"—translation between realms, naming, manifesting through word. The Magician takes archetypal forces and gives them form through language and will.
+
+**Gate 62's mechanics:** The voice of detail, naming, organizing facts—"I think." Preponderance of the Small through precise articulation.
+
+**Convergence:** Both The Magician and Gate 62 share the core function of **translation and manifestation through precise naming**. The Magician translates spiritual force into material form; Gate 62 translates abstract patterns into named facts. Mercury (communication, detail) governs both.
+
+**Cross-Reference:** See `System/Reference/Tarot in Human Design.pdf` for complete pathway context and [[The Magician (I)]] for full archetypal synthesis.
 
 ### Qabalah: Hod (Splendor)
 
