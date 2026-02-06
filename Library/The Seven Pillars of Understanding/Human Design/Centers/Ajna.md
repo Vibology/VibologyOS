@@ -122,13 +122,68 @@ The Ajna:
 All Types must learn to **trust their Authority**, not their Ajna, for decision-making.
 
 ---
+## Cross-System Synthesis: Tarot
+
+### The Fool (Key 0) & The World (Key 21): The Consciousness Gateway
+
+**Ra Uru Hu Teaching:** According to the 1998 transmission documented by Eleanor Haspel-Portner, **The Fool (Key 0)** and **The World (Key 21)** both correspond to the **Ajna and Sacral Centers**, not to individual gates. These two cards—the alpha and omega of the Fool's Journey—bridge the axis of **consciousness (Ajna) and manifestation (Sacral)**.
+
+#### The Fool (Key 0): Beginning of Mental Awareness
+
+**Archetypal Essence (Qabalistic):**
+- Hebrew letter: Aleph (א) - "Ox," primal breath
+- Path: Kether to Chokmah (Crown to Wisdom on the Tree of Life)
+- Element: Air
+- Astrological: Uranus (sudden awakening, divine inspiration)
+- **Core meaning:** Infinite potential, the leap into the unknown, trust in the unmanifest
+
+**Ajna Connection:**
+The Fool represents the **leap into conceptualization**—the moment before thought crystallizes into fixed perspective. In the Ajna, The Fool is:
+- **Pre-conceptual awareness:** The mind before it decides what to think
+- **Openness to inspiration:** Receptivity to mental pressure from the [[Head]]
+- **Beginner's mind:** The undefined Ajna's natural state of not-knowing
+
+The Fool in the Ajna says: *"I do not yet know, and that is the beginning of all understanding."*
+
+#### The World (Key 21): Completion of Mental Integration
+
+**Archetypal Essence (Qabalistic):**
+- Hebrew letter: Tau (ת) - "Cross," final manifestation
+- Path: Yesod to Malkuth (Foundation to Kingdom on the Tree of Life)
+- Element: Earth
+- Astrological: Saturn (crystallization, completion, mastery through time)
+- **Core meaning:** Integration, wholeness, the dance of completion
+
+**Ajna Connection:**
+The World represents **conceptual mastery**—the mind that has integrated multiple perspectives into coherent understanding. In the Ajna, The World is:
+- **Mental wholeness:** The defined Ajna's consistent processing brought to maturity
+- **Integration of opposites:** The capacity to hold paradox without mental anxiety
+- **Completion of a cycle of understanding:** Not final truth, but the end of one thought-loop before the next Fool's leap
+
+The World in the Ajna says: *"I have thought this through completely, and now I am ready to begin again."*
+
+#### The Ajna-Sacral Axis: Consciousness ↔ Manifestation
+
+The Fool and World mapping to both **Ajna (consciousness) and Sacral (life force)** reveals a fundamental principle:
+- **The Ajna thinks; the Sacral responds**
+- **The Fool leaps (Ajna inspiration → Sacral response)**
+- **The World integrates (Ajna mastery ← Sacral embodiment)**
+
+This is the **double helix spiral** Eleanor Haspel-Portner describes: consciousness flowing down into manifestation (counterclockwise path) and life force transforming into thought (clockwise path).
+
+**For those with defined Ajna:** The Fool reminds you that certainty is a starting point, not an end. The World honors your consistent processing while inviting you to complete cycles and leap again.
+
+**For those with undefined Ajna:** The Fool is your natural state—embrace not-knowing as wisdom. The World shows that integration is possible even without fixed mental patterns; you complete understanding through *experience* (Sacral), not fixed thought.
+
+---
 ## Cross-References
 
 - **Head Center:** See [[Head]] for the source of mental pressure
 - **Throat Center:** See [[Throat]] for where the Ajna's concepts are articulated
 - **Authority:** See [[Strategy]] for why the mind is not Inner Authority
 - **Jungian Parallel:** The Mind as observer, not director
-- **Tarot:** [[The High Priestess (II)]] (mental awareness), [[The Magician (I)]] (conceptualization)
+- **Tarot (Canonical):** [[The Fool (0)]] and [[The World (XXI)]] — See "Cross-System Synthesis: Tarot" above
+- **Reference:** See `System/Reference/Tarot in Human Design.pdf` for complete pathway context
 
 ---
 ## Strategy Integration

@@ -119,13 +119,82 @@ The Sacral is also the source of **[[Sacral Authority]]**[^4] (for Generators wi
 - Decision-making through immediate gut response ("uh-huh" / "uhn-un")
 
 ---
+## Cross-System Synthesis: Tarot
+
+### The Fool (Key 0) & The World (Key 21): The Manifestation Gateway
+
+**Ra Uru Hu Teaching:** According to the 1998 transmission documented by Eleanor Haspel-Portner, **The Fool (Key 0)** and **The World (Key 21)** both correspond to the **Ajna and Sacral Centers**, not to individual gates. These two cards—the alpha and omega of the Fool's Journey—bridge the axis of **consciousness (Ajna) and manifestation (Sacral)**.
+
+#### The Fool (Key 0): Beginning of Life Force Response
+
+**Archetypal Essence (Qabalistic):**
+- Hebrew letter: Aleph (א) - "Ox," primal breath
+- Path: Kether to Chokmah (Crown to Wisdom on the Tree of Life)
+- Element: Air
+- Astrological: Uranus (sudden awakening, spontaneous response)
+- **Core meaning:** Infinite potential, the leap into the unknown, trust in the unmanifest
+
+**Sacral Connection:**
+The Fool represents the **leap into response**—the moment before the Sacral says "uh-huh" or "uhn-un," the pre-cognitive knowing of the gut. In the Sacral, The Fool is:
+- **Pre-response awareness:** The moment before energy commits
+- **Spontaneous life force:** The Sacral's willingness to leap without mental justification
+- **Beginner's energy:** Every "yes" is a leap into unknown work, unknown creation, unknown manifestation
+
+The Fool in the Sacral says: *"I do not know where this work will lead, but my gut says yes—and that is enough."*
+
+#### The World (Key 21): Completion of Life Force Mastery
+
+**Archetypal Essence (Qabalistic):**
+- Hebrew letter: Tau (ת) - "Cross," final manifestation
+- Path: Yesod to Malkuth (Foundation to Kingdom on the Tree of Life)
+- Element: Earth
+- Astrological: Saturn (crystallization, completion, mastery through sustained effort)
+- **Core meaning:** Integration, wholeness, the dance of completion
+
+**Sacral Connection:**
+The World represents **mastery through sustained engagement**—the Generator's journey from first response to final satisfaction. In the Sacral, The World is:
+- **Embodied completion:** Work brought to wholeness through persistent Sacral engagement
+- **Integration of life force:** The Sacral's power not scattered but focused into mastery
+- **The dance of satisfaction:** The World card's central figure dances—this is the Generator who has responded correctly and now celebrates the work made manifest
+
+The World in the Sacral says: *"I have built this, sustained this, mastered this—and now I am complete and ready to respond again."*
+
+#### The Ajna-Sacral Axis: Consciousness ↔ Manifestation
+
+The Fool and World mapping to both **Ajna (consciousness) and Sacral (life force)** reveals the Generator's fundamental alchemy:
+- **The Fool leaps:** Consciousness (Ajna inspiration) meets life force (Sacral response) = spontaneous "uh-huh"
+- **The World integrates:** Consciousness (Ajna understanding) is grounded through life force (Sacral mastery) = satisfaction
+
+This is the **double helix spiral** Eleanor Haspel-Portner describes:
+- **Counterclockwise (inner process):** Consciousness descends into the Sacral, becoming life force
+- **Clockwise (outer manifestation):** Life force rises into consciousness, becoming understanding
+
+**For Generators (defined Sacral):**
+- **The Fool** is your daily reality: every Sacral response is a leap of faith. You don't *know* why you respond; you just do. Trust that.
+- **The World** is your eventual satisfaction: when you respond correctly and sustain engagement, mastery and completion emerge not through force but through *correct use of life force*.
+
+**For non-Sacral Types (undefined Sacral):**
+- **The Fool** reminds you that the leap is not yours to make—you observe Generators leaping, you do not imitate their response.
+- **The World** shows that completion comes differently for you: not through sustained Sacral engagement but through *wisdom about when to engage and when to rest*.
+
+#### The Sacral and The Fool's Journey
+
+Generators are the **living embodiment of The Fool's Journey made manifest**:
+- The Fool (0) = Each new response, each new project, each new day
+- Keys 1-20 = The work itself, the challenges, the mastery
+- The World (21) = Satisfaction, completion, and readiness for the next Fool's leap
+
+The Sacral doesn't *think* about this journey; it *lives* it. "Uh-huh" = The Fool's leap. "Satisfaction" = The World's dance.
+
+---
 ## Cross-References
 
 - **Generator Type:** See [[Generator]] for the mechanics of Sacral life force
 - **Sacral Authority:** See [[Sacral Authority]] for decision-making through gut response
 - **Motor Centers:** See [[Solar Plexus]], [[Heart]], [[Root]] for the other motors
 - **Jungian Parallel:** [[The Anima]] (life-giving, generative force)
-- **Tarot:** [[The Empress (III)]] (fertile abundance), [[Strength (VIII)]] (sustained engagement)
+- **Tarot (Canonical):** [[The Fool (0)]] and [[The World (XXI)]] — See "Cross-System Synthesis: Tarot" above
+- **Reference:** See `System/Reference/Tarot in Human Design.pdf` for complete pathway context
 
 ---
 ## Strategy Integration

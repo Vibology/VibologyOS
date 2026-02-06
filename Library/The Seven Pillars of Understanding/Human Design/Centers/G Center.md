@@ -117,12 +117,71 @@ For all other Types, the G Center:
 - **Provides a sense of self and direction** that informs but does not dictate
 
 ---
+## Cross-System Synthesis: Tarot
+
+### Judgement (Key 20): The Identity Pivot
+
+**Ra Uru Hu Teaching:** According to the 1998 transmission documented by Eleanor Haspel-Portner, **Judgement (Key 20)** corresponds to **all gates in the G Center**, not to a single gate. This is the only Major Arcana card that maps to an entire center, revealing the G-Center's role as the **pivotal point of identity** around which the entire Fool's Journey spirals.
+
+#### Judgement (Key 20): Awakening to the Self
+
+**Archetypal Essence (Qabalistic):**
+- Hebrew letter: Shin (ש) - "Tooth," fire of transformation
+- Path: Hod to Malkuth (Splendor to Kingdom on the Tree of Life)
+- Element: Fire
+- Astrological: Pluto (death/rebirth, transformation, calling forth)
+- **Core meaning:** The moment of recognition, the call to rise, final judgment and integration of all previous experience
+
+**G-Center Connection:**
+Judgement represents the **awakening of identity**—the moment when the Self recognizes itself. In the G-Center, Judgement is:
+- **The call of direction:** The Magnetic Monopole summoning you to your trajectory
+- **Recognition of the Self:** Not ego-identity (Heart Center) but archetypal Self (G-Center)
+- **Integration of all previous gates:** The G-Center as the hub through which all energy flows and is witnessed
+
+The Judgement card traditionally depicts figures rising from graves at the sound of an angel's trumpet—this is the **awakening to one's true identity**, the recognition of *who you are* beneath all conditioning.
+
+#### The G-Center as Pivot Point
+
+Eleanor Haspel-Portner describes the G-Center as the **central pivot** of both the counterclockwise and clockwise spiral paths through the bodygraph:
+- **Counterclockwise path:** Consciousness descends from Ajna through the G-Center to Sacral
+- **Clockwise path:** Life force rises from Sacral through the G-Center to Ajna
+- **Judgement stands at the center:** The witness, the Self that observes the entire journey
+
+This structural position reveals why Judgement energizes **all G-Center gates**:
+- **Gate 1:** Creative identity ("I create, therefore I am")
+- **Gate 2:** Direction through receptivity
+- **Gate 7:** Leadership and self-direction
+- **Gate 10:** Love of self (self-acceptance)
+- **Gate 13:** The listener (identity through witnessing others' stories)
+- **Gate 15:** Love of humanity (extremes that define)
+- **Gate 25:** Innocence (identity through spirit)
+- **Gate 46:** Love of the body (identity through embodiment)
+
+Each gate is a facet of the Self being called forth by Judgement's trumpet.
+
+#### Judgment and the Magnetic Monopole
+
+The Judgement card's **calling forth** directly parallels the Magnetic Monopole's function:
+- The Monopole **geometrically pulls you along your trajectory** (not through will, but through magnetic attraction)
+- Judgement **calls you to rise into your true identity** (not through choice, but through recognition)
+- Both operate through **inevitable unfolding**, not personal effort
+
+**For those with defined G Center:** Judgement confirms that your fixed identity is not static but *ever-being-recognized*. The call is constant; you are always rising into who you already are.
+
+**For those with undefined G Center:** Judgement reveals that even without fixed identity, the call still sounds. You rise into different Selves in different contexts—each awakening is valid, none is final. The G-Center's fluidity means you answer the call *many times, in many forms*.
+
+#### The Angel's Trumpet: Self-Projected Authority
+
+For Projectors with Self-Projected Authority (G-to-Throat), Judgement's trumpet *is their own voice*. They hear their identity and direction by speaking it aloud—the sound of their own voice is the angel calling them home to themselves.
+
+---
 ## Cross-References
 
 - **Self-Projected Authority:** See [[Self-Projected Authority]] for Projectors with G-to-Throat connection
 - **Magnetic Monopole:** The geometric force that pulls you along your path
 - **Jungian Parallel:** [[The Self]] (not ego, but archetypal identity)
-- **Tarot:** [[The Lovers (VI)]] (identity through relationship), [[The World (XXI)]] (completion of self)
+- **Tarot (Canonical):** [[Judgement (XX)]] — See "Cross-System Synthesis: Tarot" above for all G-Center gates
+- **Reference:** See `System/Reference/Tarot in Human Design.pdf` for complete pathway context
 
 ---
 ## Strategy Integration

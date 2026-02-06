@@ -192,10 +192,128 @@ The gift of integration: **The capacity to celebrate completion while remaining 
 
 ---
 
+## Cross-System Synthesis: Human Design
+
+### The World in the Bodygraph: Ajna & Sacral Centers
+
+**Ra Uru Hu Teaching:** According to the 1998 transmission documented by Eleanor Haspel-Portner, **The World (Key 21)** corresponds to both the **[[Ajna]]** and **[[Sacral]]** Centers in Human Design—not to a single gate, but to the entire **consciousness-manifestation axis** (shared with [[The Fool (0)]]).
+
+#### The World as Omega Point: Completion Before New Beginning
+
+The World's placement at both Ajna (mental awareness center) and Sacral (life force motor) reveals the archetypal moment of **completion through integration**:
+
+**In the Ajna (Consciousness):**
+- The World is **conceptual mastery**—the mind that has integrated multiple perspectives into coherent understanding
+- Not final truth, but **the end of one thought-loop** before the next Fool's leap
+- The defined Ajna's consistent processing brought to maturity; the undefined Ajna's integration through experience
+
+**In the Sacral (Life Force):**
+- The World is **mastery through sustained engagement**—the Generator's journey from first response to final satisfaction
+- Work brought to wholeness through persistent Sacral commitment
+- The dance of satisfaction: work completed, energy spent correctly, readiness for the next response
+
+#### Tau (Cross) and the Human Design Cross of Incarnation
+
+The Hebrew letter Tau (ת) means "cross" or "seal"—the mark of completion. In Human Design, every chart has an **Incarnation Cross** (the four gates activated by Sun/Earth at Personality and Design). The World as Tau is:
+
+- **Your Cross fully embodied:** Living your purpose not as aspiration but as *fact*
+- **The signature of your life:** What you came to complete, to seal, to mark
+- **The intersection of vertical and horizontal:** Spirit (Design/unconscious) meets matter (Personality/conscious)
+
+When you live aligned to your Cross through Strategy and Authority, you embody The World—you become the dance within the wreath, the cosmic signature made flesh.
+
+#### Saturn and the Deconditioning Process
+
+The World is attributed to **Saturn**—the Lord of Time, the Great Tester, the principle of mastery through limitation. In Human Design:
+
+**Saturn's 28-29 Year Cycles:**
+- **Saturn Return (age 28-30):** First completion—the Not-Self conditioning reaches peak, the call to begin deconditioning
+- **Second Saturn Return (age 58-60):** Second completion—wisdom through experience, the fruits of living correctly
+
+The World is the **harvest of Saturn cycles**:
+- You cannot skip the work (Saturn demands proof)
+- You cannot force completion (Saturn operates on cosmic time, not ego time)
+- **Liberation through limitation:** Accepting your Type, Strategy, Authority = the wreath that liberates
+
+#### The Cosmic Dancer and the Generator's Satisfaction
+
+The central figure in The World is the **Cosmic Dancer**—movement, flow, creative expression. In Human Design, this is the **Generator in Satisfaction**:
+
+**The Generator Embodied as The World:**
+- **Sacral response honored:** Every "uh-huh" and "uhn-un" respected—the dance follows the gut, not the mind
+- **Persistent engagement:** Building, sustaining, mastering through correct use of life force
+- **Satisfaction achieved:** The Sacral's motor energy spent correctly, work completed, wholeness felt
+
+The Dancer's crossed legs form the number **4** (the four elements, matter grounded). Generators are the **4-cornered foundation** of humanity—66% of the population, the sustainable motor that builds civilization. The World dances *because Generators respond correctly*.
+
+**For non-Sacral Types (Manifestors, Projectors, Reflectors):**
+The World shows completion through **non-Sacral paths**:
+- **Manifestors:** Completion through initiation honored—informing creates peace, impact made
+- **Projectors:** Completion through recognition earned—invitations received, systems mastered, success achieved
+- **Reflectors:** Completion through lunar cycle honored—28-day wisdom integrated, surprise becomes teaching
+
+#### The Two Wands: Bi-Polar Energy Currents
+
+The Dancer holds **two wands**—positive/negative poles, active/passive currents. In Human Design:
+
+**Definition Types:**
+- **Single Definition:** One continuous energy flow—the wands held together, unified current
+- **Split Definition:** Two separate energy flows—the wands held apart, bridged through environment or transits
+- **Triple/Quadruple Split:** Multiple energy flows—the wands coordinate many currents into the dance
+
+The World integrates *all definition types*—whether your energy flows as one stream or many, the dance remains whole.
+
+#### The Four Kerubim and the Four Types
+
+The wreath is surrounded by **four fixed signs of the zodiac** (often depicted as angel, eagle, lion, bull—representing Aquarius, Scorpio, Leo, Taurus). These are the **four Kerubim**, the four stable powers. In Human Design, these map to the **four Types**:
+
+1. **Aquarius (Angel/Human)** — **Reflectors** (lunar, collective mirror, sampling humanity)
+2. **Scorpio (Eagle)** — **Projectors** (penetrating insight, seeing systems, guiding from above)
+3. **Leo (Lion)** — **Manifestors** (solar, initiatory power, leadership through impact)
+4. **Taurus (Bull)** — **Generators** (earth, sustainable force, building through response)
+
+The World contains all four Types—the wreath (completion) requires the contribution of all four corners.
+
+#### The Wreath: The Ajna-Sacral Completion Cycle
+
+The **wreath** (the oval/mandorla surrounding the Dancer) represents:
+- **The Ajna-Sacral axis integrated:** Consciousness and manifestation no longer separate but unified
+- **The double helix spiral completed:** Counterclockwise (inner) and clockwise (outer) paths merge
+- **The zero of The Fool now filled:** The circle that contained infinite potential now contains *lived experience*
+
+Eleanor Haspel-Portner describes The Fool and The World together as the **alpha and omega** of the consciousness-manifestation axis:
+- **The Fool (0):** The leap before understanding—"I don't know yet, but I respond/conceptualize anyway"
+- **The World (21):** The integration after experience—"I have lived it, sustained it, understood it—now I am complete"
+
+#### The World and Type Signature
+
+Each Type has a **Signature** (the feeling-state of correct alignment):
+- **Generators:** Satisfaction (The World's dance—work completed correctly)
+- **Manifestors:** Peace (The World's stillness—impact made, informing honored)
+- **Projectors:** Success (The World's recognition—invitation answered, systems mastered)
+- **Reflectors:** Surprise (The World's 28-day completion—lunar cycle honored, wisdom integrated)
+
+The World is the **embodiment of your Type's Signature**—not as fleeting feeling but as *sustained state*. You live in The World when your Signature is your default.
+
+#### The Pause Before the Next Fool's Leap
+
+The World is **not an ending**—it is the pause, the breath, the moment of integration before the cycle begins again. In Human Design:
+
+- **Completion of one cycle = readiness for the next response/invitation/initiation**
+- **Mastery of one expression = openness to new gates activating through transits**
+- **Saturn Return = not retirement but re-beginning with wisdom**
+
+The Generator who completes a project (The World) immediately asks: "What's next for me to respond to?" The Sacral doesn't retire—it waits for the next "uh-huh." The Ajna that masters one conceptual framework remains open to the next mental pressure from the Head.
+
+The World's final teaching: **Completion is preparation. Integration is readiness. The dance never stops—it spirals.**
+
+**Cross-Reference:** See `System/Reference/Tarot in Human Design.pdf` for The World's position on the double helix spiral pathway through the bodygraph (Omega point opposite The Fool's Alpha).
+
 ---
 
 ## Cross-References
-- **Adjacent Major Arcana**: [[Judgement (XX)]] ← → [[The Fool (0)]] (the return to beginning)
+- **Adjacent Major Arcana**: [[Judgement (XX)]] ← → [[The Fool (0)]] (the return to beginning; shares Ajna-Sacral correspondence)
+- **Human Design (Canonical):** [[Ajna]] Center and [[Sacral]] Center — See "Cross-System Synthesis: Human Design" above
 - **Planetary**: [[Saturn ♄]]
 - **Path**: Path 32 - Yesod to Malkuth
 - **Hebrew Letter**: Tau

@@ -220,6 +220,35 @@ This document **refutes the common assumption that Tarot and Human Design don't 
 | **9 - The Hermit** | Gate 35 | **20 - Judgment** | G-Center (all gates) |
 | **10 - Wheel of Fortune** | Gate 56 | **21 - The World** | Ajna & Sacral Centers |
 
+### Gate-Specific vs. Center-Level Mappings
+
+**Critical distinction:** Of the 22 Major Arcana, **19 map to specific individual gates** while **3 map to entire centers**:
+
+#### 19 Gate-Specific Correspondences (Keys 1-19)
+
+Keys 1 through 19 (The Magician through The Sun) each correspond to a single, specific gate. These represent archetypal forces manifesting through precise genetic mechanics.
+
+#### 3 Center-Level Correspondences (Keys 0, 20, 21)
+
+Three cards operate at the center level, representing broader structural functions:
+
+| Card | Center(s) | Structural Role |
+|------|-----------|-----------------|
+| **Key 0 - The Fool** | Ajna & Sacral | Alpha point - Journey's beginning, bridging consciousness (Ajna) and life force (Sacral) |
+| **Key 20 - Judgment** | G-Center (all gates) | Central pivot - Identity and direction, the Self witnessing the entire journey |
+| **Key 21 - The World** | Ajna & Sacral | Omega point - Journey's completion, integration of consciousness and manifestation |
+
+**Why this matters:**
+- **Gates** = specific mechanics (19 cards provide archetypal depth to individual gate functions)
+- **Centers** = energetic functions (3 cards describe broader consciousness/identity/life-force operations)
+- **The Fool/World axis** (Keys 0 & 21) spans the **consciousness ↔ manifestation bridge** (Ajna-Sacral)
+- **Judgment** (Key 20) occupies the **identity center** (G-Center), the pivot point of self-awareness
+
+When enhancing Library entries:
+- **Gate files** (64 gates) → Only 19 have canonical Tarot correspondences
+- **Center files** (Ajna, G-Center, Sacral) → Document the 3 center-level correspondences
+- **Tarot Major Arcana files** → 19 link to specific gates, 3 link to entire centers
+
 ### Structure Overview
 
 **Two Spiral Paths:**
@@ -360,7 +389,9 @@ When following `PROTOCOL - Cross-System Synthesis.md`:
 
 **Limitations:**
 - Only the 22 Major Arcana are mapped (Minor Arcana are not addressed)
-- Not all 64 gates have Tarot correspondences (Major Arcana only occupy specific gates in Ajna, Throat, G-Center, Sacral)
+- Only 19 of the 22 Major Arcana map to specific individual gates (Keys 1-19)
+- The remaining 3 Major Arcana map to entire centers: The Fool & World (Ajna/Sacral), Judgment (G-Center)
+- 45 of 64 gates have no canonical Tarot correspondence (only gates in Ajna, Throat, G-Center, Sacral have correspondences)
 - The document presents one valid layout but acknowledges other arrangements are possible
 
 **BOTA Integration:**
