@@ -35,6 +35,8 @@ The keynote is **caution as mutative articulation**. This is the Throat's capaci
 |-----------|----------------|
 | **Gate Number** | 12 |
 | **I-Ching Hexagram** | 12 - ䷋ Standstill / Stagnation |
+| **Astrological Span** | 22°37'30" Gemini - 28°15'00" Gemini |
+| **I-Ching Trigram** | Earth (☷) - Receptive, yielding, grounding |
 | **Center** | Throat (Manifestation, Action, Communication) |
 | **Circuitry** | Individual - Knowing Circuit (Mutation) |
 | **Channel** | 12-22 (Openness) - Throat to Solar Plexus |
@@ -240,9 +242,29 @@ Richard Rudd's Gene Keys framework provides a shadow-gift-siddhi progression for
 
 The progression from Vanity to Purity is the journey of Gate 12: from ego-driven obstruction to sacred discernment.
 
-### Astrology: Saturn (If Applicable)
+### Astrology: Gemini 22°37'30" - 28°15'00" (Cautious Communication)
 
-In the Rave I-Ching, Gate 12 corresponds to specific astrological degrees. While individual charts vary, Gate 12 resonates with **Saturn**—the planet of boundaries, limitation, structure, and time. If an individual has their Saturn in Gate 12, their **Saturn function** (karmic lessons, maturation) involves learning when to say "no," when to articulate restraint, and how to honor natural cycles of standstill.
+Gate 12 occupies the **final degrees of Gemini**, the sign of communication, curiosity, and mental agility. These are **critical degrees**—the completion of Gemini's journey, where mental exploration must pause before transformation.
+
+**Gemini's signature:** The messenger, the communicator, the one who asks questions and distributes information. In Gate 12, this manifests as **cautionary communication**—the voice that says "wait" or "not yet" when others rush to speak or act.
+
+**Significance of terminal Gemini degrees:**
+- **Completion energy:** The final 6° of Gemini represent Mercury's journey completing its cycle of information gathering. In Gate 12, this becomes the recognition that **not all information should be immediately communicated**—discernment precedes expression.
+- **Transition to Cancer:** Gate 12 ends at 28°15' Gemini, just before the shift to Cancer (emotion, nurturing, protection). This places Gate 12 at the **threshold**—Gemini's mental caution preparing for Cancer's emotional sensitivity.
+- **Earth trigram at air's end:** Gate 12 belongs to the Earth trigram (☷)—receptive, yielding, grounding. In terminal Gemini, Earth becomes the **grounding force** that slows Mercury's rapid mental movement, creating healthy hesitation.
+
+**Planetary activations in Gate 12:**
+- **Sun in Gate 12 (Design exalted):** Life purpose involves articulating mutative caution. The exalted Sun amplifies the power of discerning "no" as a creative force.
+- **Mercury in Gate 12:** Communication rooted in careful discernment. The messenger who knows when silence serves better than speech.
+- **Saturn in Gate 12:** Mastery of restraint and boundaries. Learning when caution protects versus when it prevents necessary mutation.
+
+**Line-by-line astrological progression** (22°37'30" - 28°15'00" Gemini):
+- **Line 1** (22°37'30" - 23°33'45"): The Monk—entering critical Gemini, withdrawal for contemplation
+- **Line 2** (23°33'45" - 24°30'00"): Purification—Mercury's refinement, clearing false communication
+- **Line 3** (24°30'00" - 25°26'15"): Egoist—trial-and-error with self-serving caution
+- **Line 4** (25°26'15" - 26°22'30"): The Prophet—articulating caution that serves the collective
+- **Line 5** (26°22'30" - 27°18'45"): The Pragmatist—practical restraint in late Gemini
+- **Line 6** (27°18'45" - 28°15'00"): Transformation—Gemini's completion, caution becoming wisdom
 
 ### Tarot: The Hanged Man (Resonance, Not Direct Correlation)
 

@@ -35,6 +35,8 @@ The keynote here is **self-expression through creative direction**. This is the 
 |-----------|----------------|
 | **Gate Number** | 1 |
 | **I-Ching Hexagram** | 1 - ䷀ The Creative / The Creative Heaven |
+| **Astrological Span** | 13°15'00" Scorpio - 18°52'30" Scorpio |
+| **I-Ching Trigram** | Heaven (☰) - Pure yang, creative force doubled |
 | **Center** | G Center (Identity, Direction, Love) |
 | **Circuitry** | Individual - Knowing Circuit (Mutation) |
 | **Channel** | 1-8 (Inspiration) - G to Throat |

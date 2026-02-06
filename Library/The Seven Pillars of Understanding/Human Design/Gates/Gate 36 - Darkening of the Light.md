@@ -35,6 +35,8 @@ The keynote here is that **darkness is cyclical, not permanent**—the emotional
 |-----------|----------------|
 | **Gate Number** | 36 |
 | **I-Ching Hexagram** | 36 - ䷣ Darkening of the Light / The Wounding of the Bright |
+| **Astrological Span** | 22°37'30" Pisces - 28°15'00" Pisces |
+| **I-Ching Trigram** | Fire (☲) - Radiance, illumination, clinging |
 | **Center** | Solar Plexus (Emotional Awareness, Spirit) |
 | **Circuitry** | Collective - Abstract/Sensing Circuit (Experience) |
 | **Channel** | 35-36 (Transitoriness) - Solar Plexus to Throat |
