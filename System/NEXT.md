@@ -1,7 +1,7 @@
 # Current Work Context
 
 **Last Updated:** 2026-02-06
-**System Status:** Library complete; **Astrology Hellenistic Expansion ALL TIERS COMPLETE** (Tier 1: Planetary Condition, Lots, Natal Chart; Tier 2: Triplicity Rulers, Reception, Planetary Phases & Retrograde, Annual Profections, Lunar Nodes; Tier 3: Terms & Bounds, Traditional Decans, Zodiacal Releasing, Firdaria, Primary Directions — all from Brennan/Lilly/Ptolemy sources); **Oracle Deck canonized** (The Astrolabe — 88 cards production-ready); dignity data extraction COMPLETE (64/64 gates, 384/384 lines); **comprehensive dignity calculation IMPLEMENTED** (juxtaposition, harmonic fixing, star symbols); **Angelology pillar 95% COMPLETE** (Heywood 1635 integrated, invocation protocols operational, Seven Planetary Archangels table complete, Discernment of Spirits comprehensive testing framework complete); **The Magdalene Path practitioner protocols COMPLETE** (Contemplative Prayer comprehensive guide, Practitioner Protocols operational, Daily Practice Quick Reference ready)
+**System Status:** Library complete; **Astrology Hellenistic Expansion ALL TIERS COMPLETE** (Tier 1: Planetary Condition, Lots, Natal Chart; Tier 2: Triplicity Rulers, Reception, Planetary Phases & Retrograde, Annual Profections, Lunar Nodes; Tier 3: Terms & Bounds, Traditional Decans, Zodiacal Releasing, Firdaria, Primary Directions — all from Brennan/Lilly/Ptolemy sources); **Qabalah subsystem COMPLETE** (32 files, 0 stubs — 4 batches: Structural Foundations, Divine Names, Ten Sephiroth, Shadow System/Paths/Specialized/Overview); **Oracle Deck canonized** (The Astrolabe — 88 cards production-ready); dignity data extraction COMPLETE (64/64 gates, 384/384 lines); **comprehensive dignity calculation IMPLEMENTED** (juxtaposition, harmonic fixing, star symbols); **Angelology pillar 95% COMPLETE** (Heywood 1635 integrated, invocation protocols operational, Seven Planetary Archangels table complete, Discernment of Spirits comprehensive testing framework complete); **The Magdalene Path practitioner protocols COMPLETE** (Contemplative Prayer comprehensive guide, Practitioner Protocols operational, Daily Practice Quick Reference ready)
 **Current Phase:** Foundation-building — still on the roof, still in observation
 
 ---
@@ -16,7 +16,7 @@
 | Cross-References Coverage | 99.9% |
 | Dead Wikilinks | 0 |
 | YAML Compliance | 100% |
-| Stub Files | 95 (intentional scaffolding) |
+| Stub Files | 55 (intentional scaffolding) |
 
 **All core practice content is 100% complete:**
 - 78 Tarot cards (Major + Minor Arcana)
@@ -119,7 +119,7 @@ Old Window content (76 files) archived at `.archive/Library/The Window/`. The wo
 | ~~15~~ | ~~Astrology~~ | ~~Zodiacal Releasing~~ | ~~Medium~~ | ~~COMPLETE 2026-02-06~~ |
 | ~~16~~ | ~~Astrology~~ | ~~Firdaria~~ | ~~Low~~ | ~~COMPLETE 2026-02-06~~ |
 | ~~17~~ | ~~Astrology~~ | ~~Primary Directions~~ | ~~Medium~~ | ~~COMPLETE 2026-02-06~~ |
-| 18 | Tarot/Qabalah | 35 Qabalah stubs (Sephiroth, Paths, Divine Names) | Large | Enriches depth; not blocking practice |
+| ~~18~~ | ~~Tarot/Qabalah~~ | ~~32 Qabalah entries~~ | ~~Large~~ | ~~COMPLETE 2026-02-06 (Batches 1-4)~~ |
 | 19 | Personal Mythos | 17 deity stubs (Greek/Egyptian/Mesopotamian) | Large | Reference value; not blocking synthesis |
 | 20 | Core Foundations | Vibology overview entries (stubs) | Medium | Articulates meta-framework |
 | 21 | Synthesis | First synthesis pieces (Tree of Return, others) | Variable | The practice of synthesizing is the point |
@@ -130,7 +130,6 @@ Old Window content (76 files) archived at `.archive/Library/The Window/`. The wo
 
 **Source-Dependent (On Hold):**
 - **IHDS Foundation Materials** (LYD manual, courses) — Definition Types, Projector Subcategories, Deconditioning depth, experiential material
-- **Qabalah source texts** — would ground Sephiroth/Path expansion beyond framework stubs
 
 **Source Available:**
 - **Chris Brennan, *Hellenistic Astrology: The Study of Fate and Fortune*** — Fully uploaded to Esoteric Grimoire (chapter-by-chapter). **All Astrology roadmap items (Tiers 1-3) COMPLETE.** Brennan source fully utilized for: Lots, Planetary Condition, Natal Chart methodology, Triplicity Rulers, Reception, Planetary Phases & Retrograde, Annual Profections, Lunar Nodes, Terms & Bounds, Traditional Decans, Zodiacal Releasing, Primary Directions. Firdaria sourced from Lilly (Brennan notes it's Persian/Medieval, not Hellenistic).
@@ -138,11 +137,12 @@ Old Window content (76 files) archived at `.archive/Library/The Window/`. The wo
 **Pending: IHDS Foundation Sequence Materials**
 Acquiring LYD manual ($50) and planning foundation course sequence (LYD $300, Rave ABCs $400, Rave Cartography $750). Library updates for HD foundational material are **on hold** until source texts are in hand.
 
-**Stub files available for expansion (existing material):**
-- Qabalah subsystem (35 stubs) — Sephiroth, Divine Names, Tree of Life
+**Stub files available for expansion (55 remaining):**
+- ~~Qabalah subsystem (32 files) — COMPLETE, 0 stubs (Batches 1-4: 2026-02-06)~~
 - Mythology deities (16 stubs) — archetypal anchors
 - Jungian concepts (12 stubs) — Synchronicity, Transcendent Function, etc.
-- Practice guides (10 stubs) — LBRP, Pathworking, etc.
+- Angelology practice/reference (15 stubs) — LBRP, Guardian Angel, Enochian entries, etc.
+- Other practice/overview stubs (12) — Pathworking, Divination, Hero's Journey, etc.
 
 **Dignity system: COMPLETE (2026-02-04)**
 - **Data extraction:** All 384 line exaltations/detriments extracted from "The Definitive Book of Human Design" (IHDS 2011 edition)
@@ -184,6 +184,24 @@ Acquiring LYD manual ($50) and planning foundation course sequence (LYD $300, Ra
 ---
 
 ## Session History
+
+**2026-02-06 (Night):** Qabalah Batch 4 — **ALL QABALAH STUBS COMPLETE** (32/32 files, 0 stubs remaining)
+- **Batch 4 scope:** Final 8 stubs expanded (5 planned + 3 missed overview files discovered)
+- **Shadow System (2 entries):**
+  1. **Qlippoth.md** (76 → 150 lines) — Shevirat HaKelim origin, complete Qlippothic Tree with detailed descriptions for all 10 Qlippoth, Three Veils of Anti-Existence (Tohu/Bohu/Chasek), Sitra Achra (Zoharic Other Side), Tikkun (spark retrieval), psychological interpretation (each Qlippah as specific failure mode), Observatory diagnostic approach. 6 footnotes.
+  2. **Golachab.md** (43 → 165 lines) — Mars without wisdom: Geburah's immune function vs. Golachab's inversion. Asmodeus as demonic prince (Book of Tobit). Five of Swords as Golachab card. Psychological shadow: inner tyrant, perfectionism, contempt, compulsive boundary enforcement. Chesed-Geburah axis as diagnostic. Spark retrieval protocol (name distortion → restore mercy axis → redirect fire → ground in body). 5 footnotes.
+- **Paths (1 entry):**
+  3. **Path 25 — Samekh.md** (41 → 158 lines) — Arrow from Yesod to Tiphareth. Intelligence of Probation (Sefer Yetzirah). Hebrew letter mysteries (Samekh as closed circle, divine support). The journey: leaving lunar self-image, enduring Sagittarian testing, arriving at solar consciousness. Temperance XIV symbolism (the pouring, the arrow). Sagittarius correspondence (centaur integration, Jupiter rulership, mutable fire). Transcendent function as Jungian parallel. 6 footnotes.
+- **Specialized Concepts (2 entries):**
+  4. **Shekinah.md** (51 → 160 lines) — Talmudic origins (Megillah 29a, divine accompaniment in exile). Zohar's Queen-King mythology (sacred marriage/Zivvug, Shabbat as weekly reunion). Lurianic exile (Shekinah scattered among Qlippoth). Malkuth as dwelling place. Sacred marriage at four levels (cosmological, liturgical, personal, messianic). Sophia and feminine divine parallels (Proverbs 8, Magdalene). Anima-as-Sophia (Jung's four stages). 8 footnotes.
+  5. **Merkabah Mysticism.md** (37 → 187 lines) — Ezekiel 1 (four Chayot, Ophanim, firmament, Throne). Hekhalot literature (seven palaces with guardian tests, sixth palace water-that-is-not-water). Four who entered Pardes (Ben Azzai died, Ben Zoma mad, Acher heretical, Akiva safe). Practices (fasting, head-between-knees, divine names). Relationship to later Qabalah (experience → map). Active imagination as Jungian parallel. 8 footnotes.
+- **Overview files (3 entries — discovered as missed stubs from earlier batches):**
+  6. **The Tree of Life.md** (81 → 168 lines) — Master overview: Sephiroth table with pillar assignments, Three Pillars, 22 Paths, Supernal Triangle and Abyss, source traditions (Sefer Yetzirah, Zohar, Luria, Hermetic Qabalah), Jungian correspondence table. 5 footnotes.
+  7. **Sephiroth.md** (79 → 185 lines) — Triple etymology (count/tell/shine). Three triads (Supernal, Ethical, Astral). Lightning Flash and Serpent of Wisdom. Pairs and polarities. Divine Names table. Complete Minor Arcana correspondence table (40 cards). Qlippothic shadow table. 4 footnotes.
+  8. **Four Worlds.md** (59 → 152 lines) — Tetragrammaton correspondence (YHVH = Atziluth/Briah/Yetzirah/Assiah). Each world detailed with Geburah as thread (Name → Archangel → Angels → Planet). Jacob's Ladder (nested Trees). Four color scales (King/Queen/Prince/Princess). Jungian parallels (Self → archetypes → personal unconscious → consciousness). 7 footnotes.
+- **Qabalah subsystem complete:** 32 files across 7 subdirectories (Overview/4, Sephiroth/10, Divine Names/6, Pillars and Structures/6, Paths/1, Shadow System/2, Specialized Concepts/3). All expanded from stubs, all verified, all with footnotes and cross-references.
+- **Library stub count:** 95 → 55 (32 Qabalah stubs eliminated across Batches 1-4)
+- **Roadmap item #18 COMPLETE**
 
 **2026-02-06 (Evening):** Hellenistic Expansion — **Tier 3 COMPLETE** (5/5 items) — **ALL TIERS DONE**
 - **Scribe fetches successful:** 4 NotebookLM queries (Brennan Ch 1, 8, 18; Lilly Book III Ch CLXVI)
