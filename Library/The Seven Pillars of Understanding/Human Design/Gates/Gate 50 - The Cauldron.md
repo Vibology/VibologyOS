@@ -44,6 +44,8 @@ The keynote here is **values as protection**. The I-Ching name "The Cauldron" re
 | **Gene Keys** | Shadow: Corruption / Gift: Equilibrium / Siddhi: Harmony |
 | **Harmonic Gate** | Gate 27 (Nourishment - Sacral) |
 | **Codon Ring** | Ring of Gaia (Gates 27, 50, 3, 42) |
+| **Astrological Span** | 26°22'30" Libra - 02°00'00" Scorpio |
+| **I-Ching Trigram** | Wind (☴) - Gentle, penetrating, dispersing |
 
 ## I-Ching Hexagram Analysis
 

@@ -44,6 +44,8 @@ The keynote here is **emotional sensitivity to injustice**. The I-Ching name "Re
 | **Gene Keys** | Shadow: Reaction / Gift: Revolution / Siddhi: Rebirth |
 | **Harmonic Gate** | Gate 19 (Approach - Root) |
 | **Codon Ring** | Ring of Light (Gates 64, 47, 6, 37) |
+| **Astrological Span** | 18°52'30" Aquarius - 24°30'00" Aquarius |
+| **I-Ching Trigram** | Fire (☲) - Radiance, illumination, clinging |
 
 ## I-Ching Hexagram Analysis
 

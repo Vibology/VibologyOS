@@ -44,6 +44,8 @@ The keynote here is **depth and adequacy**. The I-Ching name "The Well" reflects
 | **Gene Keys** | Shadow: Inadequacy / Gift: Resourcefulness / Siddhi: Wisdom |
 | **Harmonic Gate** | Gate 16 (Enthusiasm - Throat) |
 | **Codon Ring** | Ring of Matter (Gates 16, 48, 9, 5) |
+| **Astrological Span** | 09°30'00" Libra - 15°07'30" Libra |
+| **I-Ching Trigram** | Wind (☴) - Gentle, penetrating, dispersing |
 
 ## I-Ching Hexagram Analysis
 

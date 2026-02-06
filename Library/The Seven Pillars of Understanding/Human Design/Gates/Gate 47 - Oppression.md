@@ -44,6 +44,8 @@ The keynote here is **mental oppression seeking liberation**. The I-Ching name "
 | **Gene Keys** | Shadow: Oppression / Gift: Transmutation / Siddhi: Transfiguration |
 | **Harmonic Gate** | Gate 64 (Before Completion - Head) |
 | **Codon Ring** | Ring of Light (Gates 64, 47, 6, 37) |
+| **Astrological Span** | 17°00'00" Virgo - 22°37'30" Virgo |
+| **I-Ching Trigram** | Water (☵) - Abysmal, deep, dangerous |
 
 ## I-Ching Hexagram Analysis
 

@@ -44,6 +44,8 @@ The keynote here is **mutation through revelation**. This is the Ajna's pressure
 | **Gene Keys** | Shadow: Deafness / Gift: Insight / Siddhi: Epiphany |
 | **Harmonic Gate** | Gate 23 (Splitting Apart - Throat) |
 | **Codon Ring** | Ring of Divinity (Gates 23, 43, 14, 34) |
+| **Astrological Span** | 18°52'30" Scorpio - 24°30'00" Scorpio |
+| **I-Ching Trigram** | Heaven (☰) - Pure yang, creative force doubled |
 
 ## I-Ching Hexagram Analysis
 

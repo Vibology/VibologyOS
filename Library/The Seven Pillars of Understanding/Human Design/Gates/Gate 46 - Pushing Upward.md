@@ -44,6 +44,8 @@ The keynote here is **serendipity through embodiment**. When the individual love
 | **Gene Keys** | Shadow: Seriousness / Gift: Delight / Siddhi: Ecstasy |
 | **Harmonic Gate** | Gate 29 (The Abysmal - Sacral) |
 | **Codon Ring** | Ring of Prosperity (Gates 26, 44, 11, 46) |
+| **Astrological Span** | 28°15'00" Virgo - 03°52'30" Libra |
+| **I-Ching Trigram** | Wind (☴) - Gentle, penetrating, dispersing |
 
 ## I-Ching Hexagram Analysis
 

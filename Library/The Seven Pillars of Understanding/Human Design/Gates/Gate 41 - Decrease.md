@@ -44,6 +44,8 @@ The keynote here is **contraction before expansion**. The I-Ching name "Decrease
 | **Gene Keys** | Shadow: Expectation / Gift: Anticipation / Siddhi: Ecstasy |
 | **Harmonic Gate** | Gate 30 (Clinging Fire - Solar Plexus) |
 | **Codon Ring** | Ring of Seeking (Gates 30, 41) |
+| **Astrological Span** | 02°00'00" Aquarius - 07°37'30" Aquarius |
+| **I-Ching Trigram** | Lake (☱) - Joyous, reflective, gathering |
 
 ## I-Ching Hexagram Analysis
 

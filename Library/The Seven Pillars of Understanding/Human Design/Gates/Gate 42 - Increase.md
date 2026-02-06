@@ -44,6 +44,8 @@ The keynote here is **expansion after contraction**. The I-Ching name "Increase"
 | **Gene Keys** | Shadow: Expectation / Gift: Detachment / Siddhi: Celebration |
 | **Harmonic Gate** | Gate 53 (Development - Root) |
 | **Codon Ring** | Ring of Alchemy (Gates 42, 53, 3, 27) |
+| **Astrological Span** | 20°45'00" Aries - 26°22'30" Aries |
+| **I-Ching Trigram** | Thunder (☳) - Arousing, movement, shock |
 
 ## I-Ching Hexagram Analysis
 

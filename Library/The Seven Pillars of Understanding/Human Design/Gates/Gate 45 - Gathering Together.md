@@ -44,6 +44,8 @@ The keynote here is **gathering through authority**. The I-Ching name "Gathering
 | **Gene Keys** | Shadow: Dominance / Gift: Communion / Siddhi: Liberation |
 | **Harmonic Gate** | Gate 21 (Biting Through - Ego) |
 | **Codon Ring** | Ring of No Return (Gates 21, 45, 26, 22) |
+| **Astrological Span** | 17°00'00" Gemini - 22°37'30" Gemini |
+| **I-Ching Trigram** | Earth (☷) - Receptive, yielding, grounding force |
 
 ## I-Ching Hexagram Analysis
 
