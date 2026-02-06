@@ -5,7 +5,6 @@ date_created: 2026-01-26
 status: stub
 expansion_needed: true
 ---
-
 # The BodyGraph
 *Visual Map of Human Differentiation*
 

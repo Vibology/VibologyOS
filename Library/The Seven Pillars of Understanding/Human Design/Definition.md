@@ -59,7 +59,6 @@ Single Definitions are *designed* for autonomy. They do not require a partner to
 
 **Jungian Parallel:** The integrated Self—wholeness achieved through internal reconciliation of opposites rather than projection onto the external world. Single Definitions embody the alchemical *unus mundus* (one world) within their own circuitry.
 
----
 ### 2. Simple Split Definition (46% of the population)
 
 **The Architecture:** Two separate areas of definition that are not connected to each other.[^3]
@@ -84,7 +83,6 @@ This is the classic **"You complete me"** design. Simple Splits are designed to 
 
 **Jungian Parallel:** The search for the [[Syzygy]]—the contrasexual soul image (Anima/Animus) projected onto the partner. Jung warned that this projection, if not integrated, creates dependency: "One does not become enlightened by imagining figures of light, but by making the darkness conscious." Simple Splits must learn to hold the tension of their internal divide without collapsing into the other as savior.
 
----
 ### 3. Triple Split Definition (11% of the population)
 
 **The Architecture:** Three separate, disconnected areas of definition.[^3]
@@ -103,7 +101,6 @@ This is not infidelity—it is mechanical necessity. A Triple Split in a monogam
 
 **Jungian Parallel:** The fragmented psyche requiring multiple archetypal perspectives to achieve temporary integration. Jung's concept of the [[Transcendent Function]]—the reconciliation of opposites through a third position—is insufficient for Triple Splits; they require *multiple* third positions, a rotating kaleidoscope of bridging energies.
 
----
 ### 4. Quadruple Split Definition (0.5% of the population)
 
 **The Architecture:** Four separate areas of definition. This is exceptionally rare and implies that 8 or 9 Centers are defined.[^8]
@@ -122,7 +119,6 @@ Quadruple Splits need trusted confidants and considerable patience from others. 
 
 **Jungian Parallel:** The fully individuated Self requiring integration of all four psychological functions (Thinking, Feeling, Sensation, Intuition) before action. Jung described individuation as a lifelong process; for Quad Splits, this is not metaphor but mechanical reality.
 
----
 ### 5. No Definition ([[Reflector]])
 
 **The Architecture:** No defined Centers. All nine Centers are open, sampling the energy of others.
@@ -199,7 +195,6 @@ Definition is not destiny—it is structure. The quality of your life depends no
 [^10]: *The Definitive Book of Human Design*, Section Six — Bridging Gates as primary conditioning source; mind obsesses over missing pieces believing they are "what you need to become"
 
 ---
-
 ## See Also
 - [[Centers]] — The nine energy hubs whose configuration creates Definition
 - [[Channels]] — The connecting circuits that determine Definition architecture
