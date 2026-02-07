@@ -137,7 +137,7 @@ Another Shadow trap: rejecting ambition entirely. If desire to rise is greed, th
 - [[Root]] — Pressure, stress, adrenaline; the drive to act and transform
 - [[Tribal Circuit]] — Survival through right relationship to resources, position, community
 - [[Netzach]] — Qabalistic sphere of desire, passion, drive toward achievement
-- [[Anima-Animus]] — Jungian soul-image; projection of completion onto other or path
+- [[Encounter with Anima-Animus]] — Jungian soul-image; projection of completion onto other or path
 
 ---
 

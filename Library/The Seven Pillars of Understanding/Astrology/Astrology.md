@@ -117,9 +117,9 @@ The twelve life domains (1st through 12th), determined by the Earth's rotation. 
 Geometric relationships between planets (conjunction, opposition, trine, square, sextile) that reveal how archetypal forces relate—whether in harmony, conflict, or creative tension.
 
 ---
-## Role in [[Vibology]]
+## Role in [[Core Foundations of Vibology|Vibology]]
 
-Within the [[Vibology]] framework, **Astrology** provides the **temporal coordinate**:
+Within the [[Core Foundations of Vibology|Vibology]] framework, **Astrology** provides the **temporal coordinate**:
 
 - **[[Human Design]]** maps the *fixed* incarnation imprint (Type, Strategy, Authority, defined Centers)
 - **[[The Tarot]]** reads the *present moment* and immediate trajectory

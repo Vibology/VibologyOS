@@ -15,7 +15,7 @@ category: Navigational Framework
 
 > *Vibology Synthesis: The Seven-Coordinate Navigation framework and the Seven Pillars structure are original integrations. Individual pillar content traces to sources in the Esoteric Grimoire.*
 
-**Seven-Coordinate Navigation** is the navigational framework of [[Vibology]]—the recognition that consciousness cannot be adequately mapped from a single perspective. Like triangulating a position requires multiple reference points, **understanding the soul's journey** requires viewing it through multiple coordinate systems simultaneously.
+**Seven-Coordinate Navigation** is the navigational framework of [[Core Foundations of Vibology|Vibology]]—the recognition that consciousness cannot be adequately mapped from a single perspective. Like triangulating a position requires multiple reference points, **understanding the soul's journey** requires viewing it through multiple coordinate systems simultaneously.
 
 Each of the **Seven Pillars** provides a distinct vantage point:
 - **Where you came from** (origin)

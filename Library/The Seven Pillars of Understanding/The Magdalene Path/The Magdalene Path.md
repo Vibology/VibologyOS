@@ -15,7 +15,7 @@ category: Overview
 
 > *Vibology Synthesis: The following framework integrates Bourgeault's Magdalene scholarship with the Seven Pillars system.*
 
-**The Magdalene Path** is the **vertical axis** (Z-axis) of the [[Seven-Coordinate Navigation]] system—the unifying **soul ascent principle** that integrates and illuminates all other wisdom traditions within [[Vibology]]. While the six horizontal pillars ([[Angelology]], [[Astrology]], Folklore, [[Human Design]], [[The Tarot]], [[The Astrolabe]]) provide structural frameworks for understanding consciousness, The Magdalene Path provides the **Anima**—the inward quest, the compass, the validation through embodied experience.
+**The Magdalene Path** is the **vertical axis** (Z-axis) of the [[Seven-Coordinate Navigation]] system—the unifying **soul ascent principle** that integrates and illuminates all other wisdom traditions within [[Core Foundations of Vibology|Vibology]]. While the six horizontal pillars ([[Angelology]], [[Astrology]], Folklore, [[Human Design]], [[The Tarot]], [[The Astrolabe]]) provide structural frameworks for understanding consciousness, The Magdalene Path provides the **Anima**—the inward quest, the compass, the validation through embodied experience.
 
 **The Central Teaching:** The path to divine union is not through transcendence **away from** the body, but through radical **embodiment**—the marriage of spirit and matter, consciousness and form, masculine and feminine within the individual soul. This is the **Fifth Way** or the **Path of Conscious Love** (Bourgeault, 109), characterized by three core practices:
 

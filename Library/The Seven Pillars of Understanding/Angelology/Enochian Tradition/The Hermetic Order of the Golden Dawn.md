@@ -344,7 +344,7 @@ The Golden Dawn is the **institutionalization of individuation**—a structured 
 - [[Daath]] — The Abyss; the gap crossed between 7=4 and 8=3
 - [[Individuation Process]] — The Jungian process the Golden Dawn grade system maps
 - [[Active Imagination]] — Jungian technique; Golden Dawn ritual as structured imaginative engagement
-- [[Self]] — The Holy Guardian Angel as Jungian Self-encounter
+- [[The Self]] — The Holy Guardian Angel as Jungian Self-encounter
 
 ---
 

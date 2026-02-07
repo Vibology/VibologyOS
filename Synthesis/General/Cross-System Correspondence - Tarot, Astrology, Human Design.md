@@ -256,12 +256,12 @@ The Observatory stance: **All three instruments are calibrated correctly. When t
 - [[Judgement (XX)]] — Pivot point, G-Center (all gates)
 - [[The World (XXI)]] — Omega point, Ajna-Sacral axis
 - [[Gate 13 - The Fellowship of Man]] — Example of triple convergence (Sun/Aquarius/Listener)
-- [[Gate 62 - Details]] — Example of triple convergence (Mercury/Taurus/Details)
-- [[Gate 33 - Privacy]] — Example of productive divergence (Gemini Lovers/Leo Privacy)
+- [[Gate 62 - Preponderance of the Small]] — Example of triple convergence (Mercury/Taurus/Details)
+- [[Gate 33 - Retreat]] — Example of productive divergence (Gemini Lovers/Leo Privacy)
 
 **Protocols:**
-- [[PROTOCOL - Cross-System Synthesis.md]] — Multi-pillar integration methodology
-- [[PROTOCOL - Chart Data Acquisition.md]] — Verification using Synthesis Index
+- [[PROTOCOL - Cross-System Synthesis]] — Multi-pillar integration methodology
+- [[PROTOCOL - Chart Data Acquisition]] — Verification using Synthesis Index
 
 **Reference:**
 - `System/Reference/The HD Synthesis Index.pdf` — Zodiacal gate positions (IHDS canonical)

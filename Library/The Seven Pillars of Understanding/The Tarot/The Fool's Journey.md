@@ -651,7 +651,7 @@ Before the Magician's will, there is the Fool's pure **openness**—the void pre
 The Fool is **consciousness itself**, watching the journey unfold. In every reading, the querent is the Fool.
 
 **3. The Trickster:**
-The Fool disrupts, questions, plays. He is the **divine idiot** who speaks truth because he is unbound by convention (Jungian [[Trickster]] archetype).
+The Fool disrupts, questions, plays. He is the **divine idiot** who speaks truth because he is unbound by convention (Jungian [[The Trickster]] archetype).
 
 **4. The Eternal Return:**
 Reaching the World, the soul becomes the Fool again—ready to leap into the next unknown. The journey is **spiral, not linear**.
@@ -738,7 +738,7 @@ Reaching the World, the soul becomes the Fool again—ready to leap into the nex
 ### Cross-Pillar Integration
 - [[Individuation Process]] — Jung's parallel framework (Personal Mythos)
 - [[The Hero's Journey]] — Campbell's monomyth structure (Personal Mythos)
-- [[The Alchemical Process]] — Transformation stages (Personal Mythos)
+- [[Alchemical Stages]] — Transformation stages (Personal Mythos)
 - [[Confrontation with Shadow]] — Jungian shadow work (Personal Mythos)
 - [[The Anima]] and [[The Animus]] — Inner opposites (Personal Mythos)
 - [[The Self]] — Jungian wholeness archetype (Personal Mythos)

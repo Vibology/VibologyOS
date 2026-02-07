@@ -130,7 +130,7 @@ This is not astrology (though it uses planetary positions). Astrology describes 
 
 Human Design is the **individual coordinate** in the Seven Pillars of VibologyOS. It answers the question: *How does the universal pattern (I-Ching, Tarot, Astrology) express through this specific vehicle?*
 
-Within [[Vibology]], Human Design serves as:
+Within [[Core Foundations of Vibology|Vibology]], Human Design serves as:
 1. **Mechanical Specificity** — The precise differentiation of the individual from collective patterns
 2. **Embodied Navigation** — Strategy and Authority as practical tools for decision-making
 3. **Integration Point** — The anchor connecting [[The Blueprint - 444 Architecture|the 64-fold architecture]] to somatic experience

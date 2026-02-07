@@ -174,6 +174,26 @@ CAT9_MISC = [
     ("Zaphkiel", "Tzaphkiel"),
 ]
 
+# Cat 10: Round 2 mechanical fixes
+CAT10_ROUND2 = [
+    # Gate name corrections
+    ("Gate 33 - Privacy", "Gate 33 - Retreat"),
+    ("Gate 62 - Details", "Gate 62 - Preponderance of the Small"),
+    # Tarot naming
+    ("Death (Card XIII)", "Death (XIII)"),
+    ("Judgment", "Judgement (XX)"),
+    # Jungian naming
+    ("Self", "The Self"),
+    ("Encounter with Animus", "Encounter with Anima-Animus"),
+    ("Anima-Animus", "Encounter with Anima-Animus"),
+    ("Trickster", "The Trickster"),
+    # Alchemical
+    ("The Alchemical Process", "Alchemical Stages"),
+    # Protocol links (strip .md extension)
+    ("PROTOCOL - Cross-System Synthesis.md", "PROTOCOL - Cross-System Synthesis"),
+    ("PROTOCOL - Chart Data Acquisition.md", "PROTOCOL - Chart Data Acquisition"),
+]
+
 
 # ──────────────────────────────────────────────────────────────────────
 # REGEX BUILDERS
@@ -344,6 +364,17 @@ def build_all_rules() -> list[tuple[str, str, re.Pattern, str]]:
             continue
         pat, repl = build_standard_rule(dead, correct)
         rules.append(("Cat9-Misc", dead, pat, repl))
+
+    # Cat 10: Round 2 — exact match for short names, standard for longer ones
+    for dead, correct in CAT10_ROUND2:
+        if dead == correct:
+            continue
+        # Short single-word targets need exact matching
+        if len(dead.split()) <= 2 and not dead.startswith("Gate") and not dead.startswith("PROTOCOL"):
+            pat, repl = build_exact_rule(dead, correct)
+        else:
+            pat, repl = build_standard_rule(dead, correct)
+        rules.append(("Cat10-Round2", dead, pat, repl))
 
     return rules
 

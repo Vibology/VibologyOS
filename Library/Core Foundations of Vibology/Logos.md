@@ -177,7 +177,7 @@ Greene connects the sign of Leo and the god Apollo to the "realm of Logos," repr
 
 ### Within Core Foundations
 - [[Anima et Algorithm]] — The marriage of Logos (Algorithm) and Eros (Anima)
-- [[Vibology]] — The philosophical framework for navigating Logos and Eros
+- [[Core Foundations of Vibology|Vibology]] — The philosophical framework for navigating Logos and Eros
 - [[Seven-Coordinate Navigation]] — Logos across seven systems
 - [[Techgnosis]] — Logos in the digital age
 

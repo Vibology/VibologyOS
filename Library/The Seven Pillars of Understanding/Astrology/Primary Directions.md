@@ -168,7 +168,7 @@ The distinction between direct and converse directions — one for rising planet
 
 ### Cross-Pillar
 - [[Individuation Process]] — The directed arc as individuation over time; rising quadrant as ego-building, setting quadrant as return
-- [[Death (Card XIII)]] — Tarot's image of the Anaereta — the encounter that ends one phase and begins another
+- [[Death (XIII)]] — Tarot's image of the Anaereta — the encounter that ends one phase and begins another
 - [[Wheel of Fortune (X)]] — The rotation of the celestial sphere as fortune's wheel turning through directed arcs
 
 ---

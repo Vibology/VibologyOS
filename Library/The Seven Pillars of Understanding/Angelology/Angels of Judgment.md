@@ -261,7 +261,7 @@ This is **Kamael in service to Chesed**—the loving parent who sets boundaries,
 
 ### Tarot Correspondence
 
-- [[Judgment]] (Key XX) — Michael's trumpet, resurrection, spiritual awakening
+- [[Judgement (XX)]] (Key XX) — Michael's trumpet, resurrection, spiritual awakening
 - [[The Tower (XVI)]] (Key XVI, Mars/Geburah) — Necessary destruction, false structures collapse
 - [[Justice (XI)]] (Key XI or VIII, Libra) — The scales, equilibrium, karmic balance
 
