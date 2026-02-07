@@ -189,6 +189,121 @@ The gift of integration: **Learning to let go with grace**. Death teaches that *
 
 ---
 
+## Cross-System Synthesis: Human Design
+
+### Death in the Bodygraph: Gate 7 (The Army / Role of the Self)
+
+**Ra Uru Hu Teaching:** According to the 1998 transmission documented by Eleanor Haspel-Portner, **Death (Key 13)** corresponds to **[[Gate 07 - The Army]]** in Human Design—the gate of **The Army** (or **Role of the Self**), located in the G Center.
+
+#### Nun (The Fish) and the Role That Must End
+
+The Hebrew letter **Nun (נ)** means "Fish"—the creature that swims in the depths, the seed that sprouts through death. Death as Nun represents **transformation through endings**—the necessary dissolution that precedes rebirth, the willingness to die to what was so something new can emerge.
+
+In Human Design, Gate 7 is **the role of self in collective leadership**—not the glory of being in front, but the power behind the throne, the strategist who guides and organizes. Death as Nun reveals that **both require surrender of form**: the fish must dive into the abyss to transform; the leader must release the role when the time comes.
+
+**The Fish That Dies to Sprout and the Role That Ends:**
+- Death teaches that transformation requires endings—the seed must rot to sprout, the form must dissolve for essence to emerge
+- Gate 7 teaches that all roles are provisional—leadership is service, not identity, and must be relinquished when complete (Line 4: The Abdicator)
+- Both embody Nun's teaching: **life emerges through death**—the fish descends into darkness before swimming toward light; the leader steps down so renewal can occur
+
+**Death wields the scythe to clear what has served its time.** Gate 7 Line 4 (The Abdicator, exalted Saturn) embodies the wisdom to step down from leadership when the role is complete. Both are fundamentally about **the understanding that clinging to form prevents transformation**.
+
+#### Scorpio and Provisional Leadership
+
+Death is attributed to **Scorpio**—Fixed Water, the sign of death and rebirth, transformation through intensity and descent into hidden depths. Gate 7 sits in the **G Center** within the **Collective Logic Circuit**—the role-based leadership that organizes and guides the collective.
+
+**Scorpio's Paradox in Gate 7:**
+- **Fixed Yet Impermanent:** Scorpio is Fixed Water (intensity, depth), yet Death teaches impermanence; Gate 7 is G Center (identity, direction) yet teaches roles are provisional—both hold the tension between stability and necessary change
+- **Power Through Surrender:** Scorpio wields Pluto's transformative power by destroying form; Gate 7 wields leadership by knowing when to abdicate—both teach that true power includes the capacity to release it
+- **Death as Service:** Scorpio's sting serves life through endings; Gate 7's leadership serves the collective through guidance—both understand that authority exists to serve evolution, not ego
+- **The Descent:** Scorpio dives into the underworld; Gate 7 Line 4 descends from authority—both recognize that transformation requires going down before rising renewed
+
+The convergence: Death requires **surrender to what must end** (the form, the identity, the role); Gate 7 requires **recognition of role as provisional** (leadership as temporary service). Both demand **release without clinging**.
+
+#### Imaginative Intelligence and Leadership as Death
+
+Death represents **the Imaginative Intelligence** (Sepher Yetzirah, Path 24)—the recognition that the Higher Self withdraws its projection, dissolving the personality form so consciousness can return to source and emerge renewed. Gate 7 represents **leadership that serves collective evolution through provisional role**.
+
+**The Convergence:**
+- **Death:** The personality dissolves when the form has served—attachment to identity prevents rebirth
+- **Gate 7:** The leader abdicates when the role is complete—clinging to authority prevents collective renewal
+- **Synthesis:** Both teach that **transformation requires death of form, not essence**. Death's skeleton reveals the indestructible structure; Gate 7's provisional role reveals that leadership serves life when it knows how to end.
+
+**Channel 7-31: The Alpha (Leadership)**
+
+Gate 7 forms **Channel 7-31 (The Alpha)** when connected to Gate 31 (Influence) in the Throat:
+- **Gate 7 (G Center):** "I know my role in guiding the collective"—identity through provisional leadership
+- **Gate 31 (Throat):** Influence—the voice that leads through recognized authority
+- **The Channel:** Natural leadership—those who step into authority when called and step aside when complete
+
+**Death's teaching:** The form must die so the essence can be reborn—clinging to what was prevents what will be. Gate 7's teaching: The role must end when its service is complete—clinging to authority prevents collective evolution.
+
+The skeleton Death reveals (the indestructible framework) operates like Gate 7's provisional role—both show that **what survives endings is essential**. The role is not the self; the form is not the spirit. Death strips away what is temporary to reveal what endures.
+
+#### The Scythe and The Abdicator
+
+Death carries a **scythe**—the reaper's tool that cuts down what has ripened, harvesting life when the cycle is complete. The scythe is **impartial, inevitable, necessary**—it cuts without judgment, clearing the field so new seeds can be planted.
+
+**Gate 7 Line 4: The Abdicator** carries the same wisdom:
+- **Exalted (Saturn):** The wisdom to step down from leadership when the role is complete, relinquishing authority with grace
+- **Detriment (Mars):** Abandoning leadership prematurely, fleeing responsibility, or refusing to step into the role when needed
+
+**Both Serve Through Ending:**
+- **Death:** The scythe cuts what must fall—king and child, priest and maiden—so the field can be renewed
+- **Gate 7 Line 4:** The leader steps down when the role is complete—not through failure but through wisdom—so the collective can evolve
+- **Convergence:** Neither clings to power or form. Death doesn't preserve; the Abdicator doesn't grasp. Both trust that **endings serve life**.
+
+The Sepher Yetzirah calls Death's path the "Imaginative Intelligence" because form is imagination (the Higher Self's projection), and death is the withdrawal that enables re-projection. Gate 7's Gift (Gene Keys) is **Guidance**—the capacity to lead with clarity and service, recognizing that all authority is borrowed and must be returned.
+
+#### The Provisional Nature of All Roles
+
+Death embodies the teaching that **all forms are temporary**—the king's crown falls, the prelate bows, the child and maiden must yield. No station, no identity, no achievement exempts one from transformation. Gate 7 embodies the teaching that **all roles are provisional**—leadership is service, not possession, and must be released when the time comes.
+
+**Gate 7's Six Lines as Death's Instruction:**
+1. **Line 1 (Authoritarian):** Sometimes leadership requires decisive clarity—but even this must end when the situation changes
+2. **Line 2 (The Democrat):** Sometimes leadership requires consensus—but even this must yield when the collective's needs shift
+3. **Line 3 (The Anarchist):** Sometimes structures must be dismantled—recognizing that endings enable renewal
+4. **Line 4 (The Abdicator):** The wisdom to step down when complete—Death's core teaching embodied in leadership
+5. **Line 5 (The General):** Strategic leadership serves the collective—but the campaign must eventually end
+6. **Line 6 (The Administrator):** Organizational wisdom—but systems too must dissolve when they outlive function
+
+Each line recognizes that **leadership serves life by honoring endings**. The authoritarian must yield to the democrat; the general must step aside for the administrator; the administrator must recognize when the system itself has died.
+
+#### Type-Specific Expressions
+
+**Defined G Center (with Gate 7):**
+- Death who **embodies provisional role consistently**—knows when to lead and when to abdicate
+- Identity includes understanding that all roles serve temporarily
+- Shadow: Clinging to leadership beyond its appropriate lifespan (refusing Death's call)
+
+**Undefined G Center (with Gate 7):**
+- Death who **samples leadership through others**—learns endings through witnessing transitions
+- Identity remains fluid, teaching that roles are not self
+- Gift: Deep wisdom about impermanence—never mistaking role for essence
+
+**Single Definition (as in Joe's chart):**
+- Complete connection within oneself—Gate 7's role clarity operates as unified field
+- Death's transformation occurs through internal surrender, not external pressure
+- The leader who serves by knowing when to die to the role
+
+**Channel 7-31 Defined:**
+- Complete leadership cycle—role clarity (Gate 7) + influential voice (Gate 31)
+- Natural authority that knows when to speak, when to guide, when to step aside
+- The Alpha who serves by embodying Death's teaching: power includes the wisdom to release it
+
+#### Leadership as Mortificatio
+
+Death corresponds to the alchemical stage of **putrefaction** (nigredo)—the blackening, the decay that precedes gold. Jung called this *mortificatio*—the death of the ego so the Self can emerge. Gate 7's highest expression (Gene Keys Siddhi: **Virtue**) is leadership as embodiment of principle, not personality—the leader who has died to ego and serves universal law.
+
+**The Progression from Division to Virtue:**
+- **Shadow: Division** (Gene Keys)—fragmented collective through poor or ego-driven leadership, refusal to release authority
+- **Gift: Guidance**—skillful leadership that serves the whole, recognizes role as provisional
+- **Siddhi: Virtue**—leadership as embodied principle, the ruler who has died to self and serves only truth
+
+This is Death's journey: from clinging to form (reversed Death—stagnation, refusal to change) to surrender (upright Death—transformation) to recognition that **what dies was never real** (only the false self dissolves; essence endures).
+
+**Cross-Reference:** See `System/Reference/Tarot in Human Design.pdf` for Death's position on the spiral pathway through the bodygraph (G Center region).
+
 ---
 
 ## Cross-References
@@ -199,6 +314,7 @@ The gift of integration: **Learning to let go with grace**. Death teaches that *
 - **Hebrew Letter**: Nun
 - **Thematic Groupings**: The Transformation Cards | Death and Rebirth | The Alchemical Path
 - **Cross-References**: Osiris, Kali, Phoenix, Mortificatio, [[Nigredo]]
+- **Human Design (Canonical):** [[Gate 07 - The Army]] (Role of the Self / Leadership) — See "Cross-System Synthesis: Human Design" above
 
 ---
 

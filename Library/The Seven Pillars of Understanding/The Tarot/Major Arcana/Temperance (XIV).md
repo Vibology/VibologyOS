@@ -190,6 +190,155 @@ The gift of integration: **Learning when to act and when to wait**. Temperance d
 
 ---
 
+## Cross-System Synthesis: Human Design
+
+### Temperance in the Bodygraph: Gate 10 (Treading / Behavior of the Self)
+
+**Ra Uru Hu Teaching:** According to the 1998 transmission documented by Eleanor Haspel-Portner, **Temperance (Key 14)** corresponds to **[[Gate 10 - Treading]]** in Human Design—the gate of **Treading** (or **Behavior of the Self**), located in the G Center.
+
+#### Samekh (The Prop) and Self-Love as Foundation
+
+The Hebrew letter **Samekh (ס)** means "Prop" or "Support"—the scaffolding that holds something during the alchemical transformation, the container that preserves life while the work unfolds. Temperance as Samekh represents **patient moderation**—the capacity to sustain tension between opposites without premature resolution, the willingness to wait while transformation occurs.
+
+In Human Design, Gate 10 is **the underlying code of behavior**—how one naturally moves through the world, interacts with others, and expresses authentic self. Temperance as Samekh reveals that **both require self-love as foundation**: the alchemical vessel must be strong enough to hold the volatile mixture; the self must love itself enough to behave authentically.
+
+**The Prop That Sustains and the Behavior That Honors:**
+- Temperance teaches that transformation requires containment—the vessel (Samekh) holds opposing forces together while they combine into something new
+- Gate 10 teaches that authentic behavior requires self-love—honoring one's natural way of being without conforming to collective expectations
+- Both embody Samekh's teaching: **support enables synthesis**—the prop prevents collapse during the ordeal; self-love prevents behavioral betrayal during social pressure
+
+**Temperance pours between vessels with perfect control.** Gate 10 navigates life like treading on the tiger's tail—natural, precise behavior that moves through danger effortlessly. Both are fundamentally about **the moderation that emerges from loving oneself enough to be authentic**.
+
+#### Sagittarius and Behavioral Integration
+
+Temperance is attributed to **Sagittarius**—Mutable Fire, the centaur archer, the sign of synthesis between animal instinct and human consciousness. Gate 10 sits in the **G Center** within the **Integration / Centering Circuit**—the behavioral identity that operates through self-love and empowerment.
+
+**Sagittarius's Paradox in Gate 10:**
+- **Fire Moderated:** Sagittarius is Mutable Fire (adaptable but intense); Temperance teaches moderation of fire; Gate 10 teaches natural behavior that adapts without betraying core self—all three balance flexibility with authenticity
+- **The Centaur's Integration:** Sagittarius unites horse (instinct) and human (reason); Temperance blends opposites; Gate 10 embodies authentic behavior that honors both natural impulse and social context
+- **Jupiter's Expansion Through Restraint:** Sagittarius ruled by Jupiter seeks growth through wisdom; Temperance expands through patient synthesis; Gate 10 grows through behavioral self-love—all teach that **true expansion requires discipline**
+- **The Aimed Arrow:** Sagittarius draws the bow back before releasing; Temperance holds tension during the alchemical work; Gate 10 knows when to engage and when to withdraw (Line 2: The Hermit)—all understand that **timing is essential**
+
+The convergence: Temperance requires **patience during the work** (sustaining tension without premature resolution); Gate 10 requires **self-love during interaction** (honoring natural behavior without performing for approval). Both demand **moderation without self-betrayal**.
+
+#### Intelligence of Probation and Behavioral Authenticity
+
+Temperance represents **the Intelligence of Probation** (Sepher Yetzirah, Path 25)—the test of whether the personality can integrate spiritual energies without fragmenting, the ordeal of waiting for the alchemical work to complete. Gate 10 represents **behavioral authenticity that emerges from self-love**.
+
+**The Convergence:**
+- **Temperance:** The test is patience—can the aspirant wait for the work to complete without forcing? Can opposing forces be held in tension until synthesis emerges?
+- **Gate 10:** The test is self-love—can the individual honor their natural behavior without conforming? Can authenticity be sustained despite collective pressure?
+- **Synthesis:** Both teach that **integration requires internal support**. Temperance's vessel (Samekh) must be strong enough to contain the mixture; Gate 10's self-regard must be solid enough to withstand conditioning. Neither works through violence or force—both operate through **patient moderation in service of wholeness**.
+
+**Gate 10's Three Channels: Integration Through Moderation**
+
+Gate 10 forms three channels depending on connection point:
+- **Channel 10-20 (Awakening):** Behavioral identity to present-moment awareness (Throat)—being oneself in the now, awakened to authentic expression
+- **Channel 10-34 (Exploration):** Behavioral identity to Sacral power—strength to follow convictions, power to be authentic despite resistance
+- **Channel 10-57 (Perfected Form):** Behavioral identity to Splenic intuition—knowing instantly how to behave for survival and well-being
+
+**Temperance's teaching:** Opposing forces must be blended with precision—not too much fire, not too much water, but the exact proportion required for transformation. Gate 10's teaching: Behavioral authenticity requires modulation—knowing when to be modest (Line 1), when to withdraw (Line 2), when to be opportunistic (Line 4), when to be heretic (Line 5).
+
+Both operate through **the art of balanced response**: Temperance adjusts the mixture; Gate 10 adapts behavior—but neither betrays essence. The water still flows; the self remains authentic.
+
+#### The Two Vessels and Behavioral Flexibility
+
+Temperance holds **two chalices**, pouring liquid between them—the circulation of energy between levels, the blending of high and low, solar and lunar, conscious and unconscious. The water flows upward (defying gravity), demonstrating that **alchemical work transcends natural law through conscious modulation**.
+
+**Gate 10's Six Lines as Temperance's Instruction:**
+1. **Line 1 (Modesty):** Authentic behavior begins with humility—neither inflation nor self-effacement, but honest self-presentation (Temperance's balance)
+2. **Line 2 (The Hermit):** Sometimes integration requires withdrawal—honoring natural rhythms of engagement and retreat (Temperance's patience)
+3. **Line 3 (The Martyr):** Learning when generosity serves versus when it depletes—behavioral sacrifice from authenticity versus martyrdom from conditioning (Temperance's discernment)
+4. **Line 4 (The Opportunist):** Strategic behavior that recognizes beneficial moments for interaction—neither forcing nor avoiding (Temperance's timing)
+5. **Line 5 (The Heretic):** Behavior that challenges norms when authentic—revolutionary naturalness that doesn't conform (Temperance's creative synthesis)
+6. **Line 6 (The Role Model):** Inspiring through being, not teaching—embodying authentic behavior so completely it becomes example (Temperance's completed work)
+
+Each line demonstrates **moderation through diversity**: authentic behavior isn't rigidly consistent but **modulates according to context while maintaining core self-love**. Like Temperance pouring between vessels, Gate 10 flows between behavioral expressions—modest here, opportunistic there, hermetic when needed—all variations of the same authentic self.
+
+#### The Alchemical Vessel and Self-Regard
+
+Temperance's fundamental mystery is the **vessel itself** (Samekh, the prop/container)—the crucible that must be strong enough to hold opposing forces during their volatile combination. Too weak, and the vessel shatters from internal pressure. Too rigid, and the transformation cannot occur.
+
+**Gate 10's Self-Love as Alchemical Vessel:**
+- The G Center radiates **identity and direction**—the magnetic monopole that orients the self through life
+- Gate 10 specifically holds **self-regard**—the capacity to love oneself enough to honor natural behavior
+- This self-love functions like Temperance's vessel: it **contains authenticity during social pressure**
+
+**The Test of Probation Applied to Behavior:**
+- Temperance (Path 25: "Intelligence of Probation") asks: Can you wait for the work to complete without forcing the process?
+- Gate 10 asks: Can you love yourself enough to behave authentically even when collective norms pressure conformity?
+- Both test **the strength of internal support** during external challenge
+
+When self-love is weak (Gate 10 Shadow: Self-Obsession or its opposite, self-betrayal), behavior fragments—the individual performs different personas in different contexts, losing coherence. Like a cracked alchemical vessel, the work cannot complete because the container cannot hold the tension.
+
+When self-love is solid (Gate 10 Gift: Naturalness), behavior remains authentic across contexts—the individual modulates expression while maintaining essence. Like Temperance's sealed vessel, the transformation proceeds safely because the container is sound.
+
+#### The Androgynous Angel and Behavioral Integration
+
+Temperance appears as an **androgynous figure**—the hermaphrodite, the *rebis* of alchemy, the union of masculine and feminine within a single being. This represents **psychological wholeness**: the integration of all polarities (active/receptive, solar/lunar, assertive/yielding) within one authentic self.
+
+**Gate 10 as Behavioral Wholeness:**
+- Line 1 (Modesty) + Line 5 (Heretic) = Humility and revolutionary expression both authentic
+- Line 2 (Hermit) + Line 4 (Opportunist) = Withdrawal and strategic engagement both natural
+- Line 3 (Martyr) + Line 6 (Role Model) = Generosity and leadership both from self-love
+
+The paradox: authentic behavior contains **apparent contradictions** that are actually **modulations of wholeness**. The hermit who is also opportunistic. The modest individual who challenges norms when necessary. The martyr who models healthy boundaries.
+
+Temperance doesn't destroy fire or water—she blends them. Gate 10 doesn't reject any behavioral possibility—it expresses them all as context requires, **all unified by self-love**.
+
+#### Treading on the Tiger's Tail
+
+The I-Ching image for Gate 10 is **treading on the tiger's tail without being bitten**—moving through danger with such natural, precise behavior that harm never arrives. This isn't recklessness but **alignment with what is**—when behavior is authentic, even threatening situations resolve.
+
+**Temperance's Corresponding Teaching:**
+- The alchemical work involves **dangerous forces** (fire and water, which normally destroy each other)
+- Success requires **perfect moderation**—not too much of either element
+- The angel's calm expression shows confidence: when the mixture is correct, there is no danger
+- One foot on land, one in water—standing in the liminal threshold without falling into either extreme
+
+Both teach: **Authenticity is protection**. Natural behavior navigates danger effortlessly (tiger doesn't bite). Correct proportion prevents catastrophe (vessel doesn't explode). The safety comes not from armor but from **alignment with truth**.
+
+#### Type-Specific Expressions
+
+**Defined G Center (with Gate 10):**
+- Temperance who **knows their natural behavior consistently**—the vessel is solid, self-love is stable
+- Behavioral identity operates from internal foundation, not external validation
+- Shadow: Behavioral rigidity masking as "authenticity" (refusing to modulate despite context)
+
+**Undefined G Center (with Gate 10 transiting):**
+- Temperance who **samples behavior through others**—learning moderation by experiencing many styles
+- Identity remains fluid, teaching that the vessel itself is impermanent
+- Gift: Deep understanding that authentic behavior doesn't require fixed form—the synthesis itself becomes the teaching
+
+**Channel 10-20 Defined:**
+- Complete integration of behavioral identity and present-moment awareness
+- Temperance who **mixes opposites in real-time**—responding authentically moment by moment
+- Awakening: conscious of one's natural behavior as it unfolds
+
+**Channel 10-34 Defined:**
+- Complete integration of behavioral identity and Sacral power
+- Temperance who has **strength to maintain authenticity** against external pressure
+- Following convictions: the vessel strong enough to hold volatile forces without compromise
+
+**Channel 10-57 Defined:**
+- Complete integration of behavioral identity and Splenic intuition
+- Temperance who **knows instantly** what behavior serves survival and well-being
+- Perfected form: spontaneous correctness—the alchemical synthesis occurs naturally
+
+#### The Dark Night and Deconditioning
+
+Temperance's Golden Dawn attribution includes "a Dark Night of the Soul"—the testing period where one enters the tunnel believing light awaits, but must walk through darkness first. This is the **frustration of lack of visible progress** while the alchemical work unfolds invisibly.
+
+**Gate 10's 7-Year Deconditioning Cycle:**
+- **Years 1-2 (Awareness):** Noticing when behavior is authentic versus performed—recognizing the difference between self-love and self-obsession or self-betrayal
+- **Years 3-4 (Experimentation):** Testing natural behavioral patterns—discovering what happens when authenticity is honored versus adapted
+- **Years 5-6 (Refinement):** Developing naturalness—learning when to be modest, when hermetic, when opportunistic, when heretic
+- **Year 7 (Integration):** Behavioral authenticity aligns with Strategy and Authority—moving from self-obsession to naturalness to **Being** (Gene Keys Siddhi)
+
+Both processes require **patience during invisible transformation**. Temperance demands waiting for the synthesis to emerge. Gate 10 demands loving oneself through the deconditioning years when authentic behavior feels awkward or provokes resistance. Neither offers instant results—both are **the slow work of becoming whole**.
+
+**Cross-Reference:** See `System/Reference/Tarot in Human Design.pdf` for Temperance's position on the spiral pathway through the bodygraph (G Center region).
+
 ---
 
 ## Cross-References
@@ -200,6 +349,7 @@ The gift of integration: **Learning when to act and when to wait**. Temperance d
 - **Hebrew Letter**: Samekh
 - **Thematic Groupings**: The Alchemical Path | Balance and Integration | The Dark Night
 - **Cross-References**: [[Artemis]], Archangel Michael, Solve et Coagula, Transcendent Function
+- **Human Design (Canonical):** [[Gate 10 - Treading]] (Behavior of the Self / Self-Love) — See "Cross-System Synthesis: Human Design" above
 
 ---
 
