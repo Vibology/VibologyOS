@@ -120,7 +120,7 @@ Old Window content (76 files) archived at `.archive/Library/The Window/`. The wo
 | ~~16~~ | ~~Astrology~~ | ~~Firdaria~~ | ~~Low~~ | ~~COMPLETE 2026-02-06~~ |
 | ~~17~~ | ~~Astrology~~ | ~~Primary Directions~~ | ~~Medium~~ | ~~COMPLETE 2026-02-06~~ |
 | ~~18~~ | ~~Tarot/Qabalah~~ | ~~32 Qabalah entries~~ | ~~Large~~ | ~~COMPLETE 2026-02-06 (Batches 1-4)~~ |
-| 19 | Personal Mythos | 16 deity stubs (15/16 COMPLETE — 1 Greek Olympian pending) | Large | Reference value; not blocking synthesis |
+| ~~19~~ | ~~Personal Mythos~~ | ~~16 deity stubs~~ | ~~Large~~ | ~~COMPLETE 2026-02-06 (All deities expanded)~~ |
 | 20 | Core Foundations | Vibology overview entries (stubs) | Medium | Articulates meta-framework |
 | 21 | Synthesis | First synthesis pieces (Tree of Return, others) | Variable | The practice of synthesizing is the point |
 
@@ -137,14 +137,14 @@ Old Window content (76 files) archived at `.archive/Library/The Window/`. The wo
 **Pending: IHDS Foundation Sequence Materials**
 Acquiring LYD manual ($50) and planning foundation course sequence (LYD $300, Rave ABCs $400, Rave Cartography $750). Library updates for HD foundational material are **on hold** until source texts are in hand.
 
-**Stub files available for expansion (16 remaining):**
+**Stub files available for expansion (0 remaining — ALL COMPLETE):**
 - ~~Qabalah subsystem (32 files) — COMPLETE, 0 stubs (Batches 1-4: 2026-02-06)~~
 - ~~Jungian concepts (7 stubs) — COMPLETE 2026-02-06~~
 - ~~Jungian archetypes (5 stubs) — COMPLETE 2026-02-06 (Imago Dei, Syzygy, Inner Child, Puer/Puella, Senex)~~
 - ~~Foundational entries (4 stubs) — COMPLETE 2026-02-06 (Core Foundations, BodyGraph, Deconditioning, Channels)~~
 - ~~Tarot overview (3 stubs) — COMPLETE 2026-02-06 (Divination, Fool's Journey, Pathworking)~~
 - ~~Personal Mythos practice/overview (4 stubs) — COMPLETE 2026-02-07 (Active Imagination, Numinous Experience, Heart Chakra Meditation, Hero's Journey)~~
-- Mythology deities (16 → 1 remaining) — **15/16 COMPLETE 2026-02-06** (Egyptian 3/3 ✅, Mesopotamian 1/1 ✅, Specialized 4/4 ✅, Greek Olympians 7/8: Zeus, Poseidon, Hades, Apollo, Artemis, Hermes, Aphrodite complete; Ares pending)
+- ~~Mythology deities (16 → 0 remaining) — **16/16 COMPLETE 2026-02-06** (Egyptian 3/3 ✅, Mesopotamian 1/1 ✅, Specialized 4/4 ✅, Greek Olympians 8/8 ✅: Zeus, Poseidon, Hades, Apollo, Artemis, Hermes, Aphrodite, Ares — ALL COMPLETE)~~
 
 **Dignity system: COMPLETE (2026-02-04)**
 - **Data extraction:** All 384 line exaltations/detriments extracted from "The Definitive Book of Human Design" (IHDS 2011 edition)
