@@ -103,6 +103,20 @@ The **Not-Self** expression of the undefined Heart is:
 
 The undefined Heart must learn that **worth is not earned through proof**—it is intrinsic, even when the ego cannot feel it consistently.
 
+> [!tip] Not-Self Mind Talk
+> - *"I better do this because if I don't, I won't be worthy."*
+> - *"I have to be in control."*
+> - *"I have to be brave."*
+> - *"I have to pump myself up so I feel worthy and good about myself and then others will see my value."*
+> - *"I have to be loyal so that others will see how valuable I am and so that I can prove to myself how valuable I am."*
+> - *"Well, if I just tell it like this and make this promise, they will see how wonderful I am."*
+> - *"If I show them how trustworthy I am, they will like me."*
+> - *"They think I can do this so I better prove to them that I can."*
+> - *"If I am in control, I can prove my worth."*
+> - *"I'm not a good wife, lover, friend, son, daughter, mother or father unless I prove it."*
+>
+> — Bunnell, *Living Your Design Student Manual*, p. 88
+
 ---
 ## The Heart as a Motor
 

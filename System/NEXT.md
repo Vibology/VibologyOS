@@ -80,7 +80,7 @@ VibologyOS/
 | # | Pillar | Item | Status |
 |---|--------|------|--------|
 | 11 | HD | Projector Subcategories (Classic/Energy/Mental) | **Complete** — added from LYD Student Manual |
-| 12 | HD | Deconditioning expansion | On hold — pending IHDS source |
+| 12 | HD | Deconditioning expansion | **Partial** — Not-Self Mind Talk callouts added to all 9 centers (LYD source); deeper deconditioning mechanics pending advanced IHDS materials |
 | 21 | Synthesis | First synthesis pieces | Ready when called |
 
 **Source-Dependent (On Hold):**

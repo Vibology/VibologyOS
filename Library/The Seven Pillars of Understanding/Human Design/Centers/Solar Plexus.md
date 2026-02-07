@@ -101,6 +101,18 @@ The **Not-Self** expression of the undefined Solar Plexus is:
 
 The undefined Solar Plexus must learn that **emotional intensity is not theirs** and that confrontation, when necessary, is not violence.
 
+> [!tip] Not-Self Mind Talk
+> - *"I don't want to go there because I don't want to deal with the confrontation."*
+> - *"Let's go here because there won't be any confrontation to deal with."*
+> - *"Let's not say that because it might upset that person."*
+> - *"Let's say it like this to soften the potential confrontation."*
+> - *"Let's be really nice and smile a lot so they like me."*
+> - *"There is no point in going there because I might be disappointed or be rejected."*
+> - *"It's not worth it. I'm afraid it won't work out, so why bother."*
+> - *"I'm afraid to tell the truth because I don't want to hurt his/her feelings."*
+>
+> — Bunnell, *Living Your Design Student Manual*, pp. 88–89
+
 ---
 ## The Solar Plexus as Motor
 

@@ -95,6 +95,21 @@ The **Not-Self** expression of the undefined G Center is:
 
 The undefined G must learn that **fluidity is not deficiency**—they are designed to sample many identities, not fixate on one.
 
+> [!tip] Not-Self Mind Talk
+> - *"Who am I?"*
+> - *"Where should I go to find out who I am?"*
+> - *"Who can show me?"*
+> - *"Who am I going to love?"*
+> - *"Who is going to love me?"*
+> - *"How do I find them? Where can I find them?"*
+> - *"What am I going to do with my life?"*
+> - *"Where should I go to figure out what to do with my life? Is it there? Is it here?"*
+> - *"Do I feel lost?"*
+> - *"Let's go here because I might find something that will show me who I am or what to do with my life."*
+> - *"Let's have a relationship with this person because I will get a sense of who I am."*
+>
+> — Bunnell, *Living Your Design Student Manual*, pp. 87–88
+
 ---
 ## The Magnetic Monopole
 

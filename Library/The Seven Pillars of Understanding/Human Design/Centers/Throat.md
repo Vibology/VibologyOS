@@ -92,6 +92,17 @@ The **Not-Self** expression of the undefined Throat is:
 
 The undefined Throat must learn to **speak only when there is something to say**, not to prove they exist.
 
+> [!tip] Not-Self Mind Talk
+> - *"Where should I go so that I can get the attention I want?"*
+> - *"Is anyone noticing me? If I say this, then I will be noticed."*
+> - *"If I initiate this conversation, I will get the attention I deserve."*
+> - *"I better say something because this silence is making me uncomfortable."*
+> - *"What should I manifest?"*
+> - *"I better manifest something."*
+> - *"What or who will I become in life?"*
+>
+> — Bunnell, *Living Your Design Student Manual*, p. 87
+
 ---
 ## The Throat and Manifestation
 

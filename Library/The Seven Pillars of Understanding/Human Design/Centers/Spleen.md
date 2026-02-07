@@ -102,6 +102,16 @@ The **Not-Self** expression of the undefined Spleen is:
 
 The undefined Spleen must learn to **trust the flow of life** and release what no longer serves.
 
+> [!tip] Not-Self Mind Talk
+> - *"Let's not do that because it makes me insecure or because I'm afraid or I feel fearful every time I think about doing that thing."*
+> - *"Let's not say that because it might upset that person."*
+> - *"I'm afraid that I will feel inadequate if I do that."*
+> - *"I'm not going to do that because I might fail."*
+> - *"I'm afraid of doing that because I'm afraid of what the outcome will be or what the future will bring or I'm afraid of the responsibility or the criticism."*
+> - *"I can't do that because I might lose my connection with that person. She might leave."*
+>
+> — Bunnell, *Living Your Design Student Manual*, p. 88
+
 ---
 ## Splenic Authority: The Intelligence of the Now
 

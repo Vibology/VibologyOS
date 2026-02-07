@@ -92,6 +92,21 @@ The **Not-Self** expression of the undefined Ajna is:
 
 The undefined Ajna must learn to **honor uncertainty** as wisdom, not weakness.
 
+> [!tip] Not-Self Mind Talk
+> - *"I better figure this out; we have to figure this out."*
+> - *"What should I do with my life? I've got to figure out what to do with my life."*
+> - *"Where is my next move?"*
+> - *"I am certain that..."*
+> - *"I have to figure out life because it feels futile."*
+> - *"I have to know the answer."*
+> - *"I have to put order to my life to get rid of the chaos."*
+> - *"I have to make this new idea a reality in my life."*
+> - *"I better not share this because people are going to think I'm weird or strange."*
+> - *"I'm not going to share my opinion because I don't want to be challenged."*
+> - *"I have to be ready for the challenge. What am I going to say?"*
+>
+> — Bunnell, *Living Your Design Student Manual*, p. 87
+
 ---
 ## The Ajna is NOT an Authority
 

@@ -100,6 +100,25 @@ The **Not-Self** expression of the undefined Root is:
 
 The undefined Root must learn that **pressure is not theirs** and that rushing does not create freedom.
 
+> [!tip] Not-Self Mind Talk
+> - *"What am I going to do to make my life better?"*
+> - *"Where is my purpose?"*
+> - *"I have to achieve something in my life."*
+> - *"I better hurry up and get this done."*
+> - *"I have to start something new now."*
+> - *"How can I get past this limitation?"*
+> - *"What am I going to focus on?"*
+> - *"I need something to focus on."*
+> - *"I need to be needed."*
+> - *"Who needs me? Where can I go to be needed?"*
+> - *"Where is my passion? What am I passionate about?"*
+> - *"I feel like a new experience."*
+> - *"I have to hurry up and initiate a new experience."*
+> - *"I don't want to waste any time."*
+> - *"I have to get this done today."*
+>
+> — Bunnell, *Living Your Design Student Manual*, p. 89
+
 ---
 ## The Root as Motor
 

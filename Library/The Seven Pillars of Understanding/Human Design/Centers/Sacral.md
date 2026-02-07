@@ -99,6 +99,23 @@ The **Not-Self** expression of the undefined Sacral is:
 
 The undefined Sacral must learn to **rest before exhaustion**, not after collapse.
 
+> [!tip] Not-Self Mind Talk
+> - *"Let's keep working. We really need to get this done."*
+> - *"We need to say yes to that; otherwise we might miss out on something."*
+> - *"I can keep going. Let me just get a cup of coffee."*
+> - *"We can do that too. Not a problem."*
+> - *"We're not tired yet. I don't want to take a nap or lie down – there's too much to do."*
+> - *"Let's take care of that for them."*
+> - *"I have to do it myself."*
+> - *"Let's go find a mate."*
+> - *"Who can we take care of?"*
+> - *"Life is juicy; who wants to say no?"*
+> - *"Yes, we are doing all the work, but then someone has to do it."*
+> - *"I don't think it's enough yet."*
+> - *"Boundaries? What boundaries?"*
+>
+> — Bunnell, *Living Your Design Student Manual*, p. 88
+
 ---
 ## The Sacral as the Only Sustainable Motor
 

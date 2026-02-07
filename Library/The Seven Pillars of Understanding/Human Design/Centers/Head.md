@@ -93,6 +93,15 @@ The **Not-Self** expression of the undefined Head is:
 
 The undefined Head must learn to **discern which questions are theirs** and release mental pressure that does not serve them.
 
+> [!tip] Not-Self Mind Talk
+> - *"I need to find something inspiring."*
+> - *"Maybe if I follow this teacher or go there, I'll find something inspiring."*
+> - *"I need to find an answer to my questions. Where can I go to find the answers?"*
+> - *"Who has the answers? I've got to understand this and/or make sense of this."*
+> - *"Whom can I talk to in order to find the answers?"*
+>
+> — Bunnell, *Living Your Design Student Manual*, p. 87
+
 ---
 ## Relationship to Type & Authority
 
