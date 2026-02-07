@@ -22,13 +22,13 @@ title: Lord of Blended Pleasure
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, the Four of Cups signifies **weariness, disgust, aversion, imaginary vexations, as if the wine of this world had caused satiety only**. When the Four of Cups appears upright, it speaks to the peculiar melancholy of one who has been given much but feels little—the discontent that arises not from lack but from surfeit.
+According to Waite's *Pictorial Key to the Tarot*, the Four of Cups signifies **weariness, disgust, aversion, imaginary vexations, as if the wine of this world had caused satiety only**. [^1] When the Four of Cups appears upright, it speaks to the peculiar melancholy of one who has been given much but feels little—the discontent that arises not from lack but from surfeit.
 
-The Golden Dawn titles this card the **"Lord of Blended Pleasure"**—a name that captures the essential paradox. The pleasure is *blended*, meaning mixed, impure, diluted with dissatisfaction. This is not the pure joy of the Three of Cups (Abundance), nor the devastation of the Five (Loss in Pleasure). This is the intermediate state where pleasure has become *routine*, where gratitude has curdled into ennui.
+The Golden Dawn titles this card the **"Lord of Blended Pleasure"** [^2]—a name that captures the essential paradox. The pleasure is *blended*, meaning mixed, impure, diluted with dissatisfaction. This is not the pure joy of the Three of Cups (Abundance), nor the devastation of the Five (Loss in Pleasure). This is the intermediate state where pleasure has become *routine*, where gratitude has curdled into ennui.
 
-The card is attributed to **Moon in Cancer**—the Moon in its own domicile, the sign it rules. This is the Moon at maximum strength, which in the emotional realm creates *too much* interiority. Cancer is the sign of home, security, the shell; the Moon is the principle of reflection, cycles, and the unconscious. Together, they create a figure so deeply immersed in emotional comfort that the comfort itself becomes stagnation.
+The card is attributed to **Moon in Cancer** [^3]—the Moon in its own domicile, the sign it rules. This is the Moon at maximum strength, which in the emotional realm creates *too much* interiority. Cancer is the sign of home, security, the shell; the Moon is the principle of reflection, cycles, and the unconscious. Together, they create a figure so deeply immersed in emotional comfort that the comfort itself becomes stagnation.
 
-The card represents **Chesed (Mercy) in Briah (the World of Formation/Emotion)**. Chesed, the fourth Sephirah, is the sphere of benevolence, abundance, and lawful order. But here in the watery world of Briah—the realm of emotions and the unconscious—Chesed's abundance becomes overwhelming. There is *too much* to feel, and so the psyche retreats into numbness.
+The card represents **Chesed (Mercy) in Briah (the World of Formation/Emotion)**. [^4] Chesed, the fourth Sephirah, is the sphere of benevolence, abundance, and lawful order. But here in the watery world of Briah—the realm of emotions and the unconscious—Chesed's abundance becomes overwhelming. There is *too much* to feel, and so the psyche retreats into numbness.
 
 The number **Four** in Qabalah represents stability, structure, foundation. In the suit of Cups (Water, emotions), Four creates *emotional stability*—but stability can become stagnation. The Four of Cups is the moment when the soul has achieved a settled emotional state and discovered that settlement is not the same as fulfillment.
 
@@ -36,7 +36,7 @@ This is one of the most psychologically complex cards in the Tarot. It depicts n
 
 The Four of Cups is associated with **acedia** (spiritual sloth), the "noonday demon" of the Desert Fathers—that peculiar torpor that descends when all external needs are met but the soul remains hungry. It is also associated with the midlife crisis (archetypally, not chronologically), depression without obvious cause, and the restlessness that signals the soul's demand for *more*.
 
-When the Four of Cups appears **reversed**, Waite notes: **novelty, presage, new instruction, new relations**. The reversal breaks the stagnation. Something new enters—a person, an opportunity, a perspective—that disrupts the comfortable numbness and forces engagement with life again.
+When the Four of Cups appears **reversed**, Waite notes: **novelty, presage, new instruction, new relations**. [^5] The reversal breaks the stagnation. Something new enters—a person, an opportunity, a perspective—that disrupts the comfortable numbness and forces engagement with life again.
 
 The key teaching: **Comfort is not the same as fulfillment.** The soul that has achieved safety may discover that safety is not enough—and this discovery, though painful, is the beginning of the next journey.
 
@@ -376,6 +376,14 @@ The Lord of Blended Pleasure is waiting for you to taste the fourth cup—the on
 ---
 
 *"The soul that is bored in paradise is not ungrateful—it is being called to climb the mountain."*
+
+## Footnotes
+
+[^1]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meaning for the Four of Cups.
+[^2]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Lord of Blended Pleasure" for the Four of Cups.
+[^3]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Moon in Cancer decan attribution for the Four of Cups.
+[^4]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Chesed in Briah Sephirotic placement for the Four of Cups.
+[^5]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meaning for the Four of Cups.
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

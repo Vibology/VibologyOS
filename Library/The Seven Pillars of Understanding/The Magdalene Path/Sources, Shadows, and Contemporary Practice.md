@@ -81,11 +81,11 @@ This entry maps the **sources**, identifies the **shadows**, and charts the **co
 
 ### Wisdom Gospels (2nd-3rd Century CE)
 
-The **Nag Hammadi Library** (discovered 1945 in Egypt) preserves early Christian texts rejected by the Orthodox Church as "heretical." These texts reveal a **different Christianity**—mystical, non-hierarchical, and centered on **gnosis** (direct knowing) rather than faith alone. Karen King argues that "there was no such thing as Gnosticism" as a monolithic religion—the term was created by early heresy-hunters to define their own orthodoxy (King, cited in Bourgeault).
+The **Nag Hammadi Library** (discovered 1945 in Egypt) preserves early Christian texts rejected by the Orthodox Church as "heretical." These texts reveal a **different Christianity**—mystical, non-hierarchical, and centered on **gnosis** (direct knowing) rather than faith alone. Karen King argues that "there was no such thing as Gnosticism" as a monolithic religion—the term was created by early heresy-hunters to define their own orthodoxy[^1] (King, cited in Bourgeault).
 
 #### **Gospel of Mary (2nd Century):**
 
-Preserved in the Berlin Gnostic Codex (BG 8502,1); the original Greek text dates to the first half of the 2nd century (King, *The Gospel of Mary of Magdala*, 2003; cited in Bourgeault).
+Preserved in the Berlin Gnostic Codex (BG 8502,1); the original Greek text dates to the first half of the 2nd century[^2] (King, *The Gospel of Mary of Magdala*, 2003; cited in Bourgeault).
 
 **Surviving Fragments:**
 - Mary Magdalene receives **private teaching** from Jesus after his resurrection
@@ -157,7 +157,7 @@ Even after the Wisdom gospels were suppressed, the **Magdalene current** persist
 
 **Bernard of Clairvaux (12th Century):** (Bourgeault cites him throughout)
 - Founder of "monastic love mysticism" and the Cistercian "school of love"
-- Wrote 86 sermons on the Song of Songs, arguing that eros is the touchstone of spiritual transformation
+- Wrote 86 sermons on the Song of Songs[^4], arguing that eros is the touchstone of spiritual transformation
 
 > *[Contextual reference—not verified in Esoteric Grimoire:]*
 
@@ -182,7 +182,7 @@ Even after the Wisdom gospels were suppressed, the **Magdalene current** persist
 
 **594 CE - Pope Gregory I's Homily 33:**
 
-Pope Gregory I delivers a homily conflating **three separate women** into one (Bourgeault, 2010):
+Pope Gregory I delivers a homily conflating **three separate women** into one[^3] (Bourgeault, 2010):
 
 1. **Mary Magdalene** (follower, first witness to resurrection, seven demons cast out)
 2. **The "sinful woman"** who anoints Jesus' feet (Luke 7:36-50, unnamed)
@@ -362,7 +362,7 @@ Bourgeault **synthesizes**:
 - See [[The Bridal Chamber and Sacred Union|The Bridal Chamber and Sacred Union]]
 
 **Kenosis (Self-Emptying):**
-- Following Philippians 2:5-8, Bourgeault teaches **kenosis** as the core Christian practice
+- Following Philippians 2:5-8, Bourgeault teaches **kenosis**[^5] as the core Christian practice
 - Letting go of grasping, control, and egoic agendas—creating space for the Divine
 - See [[Kenosis - The Path of Self-Emptying|Kenosis - The Path of Self-Emptying]]
 
@@ -489,6 +489,15 @@ Those with **[[Emotional Authority]]** (Solar Plexus defined) must **wait throug
 
 ---
 
+## Footnotes
+
+[^1]: Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010) — citing Karen King's argument that "Gnosticism" was a category created by early heresy-hunters, not a monolithic religion
+[^2]: King, *The Gospel of Mary of Magdala: Jesus and the First Woman Apostle* (2003); cited in Bourgeault — dating the Gospel of Mary to the first half of the 2nd century CE
+[^3]: Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010) — Pope Gregory I's Homily 33 (594 CE) conflating Mary Magdalene, the "sinful woman" of Luke 7, and Mary of Bethany
+[^4]: Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010) — citing Bernard of Clairvaux's 86 sermons on the Song of Songs and his "school of love" teaching that eros is the touchstone of spiritual transformation
+[^5]: Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010), p. 114 — kenosis as "nonclinging" or "letting be," derived from Philippians 2:5-8
+
+---
 ## Sources
 
 Bourgeault, Cynthia. *The Meaning of Mary Magdalene: Discovering the Woman at the Heart of Christianity*. Boston: Shambhala, 2010.

@@ -14,7 +14,7 @@ category: Mystical Concept
 
 ## Core Teaching
 
-The **Dark Night of the Soul** (*Noche Oscura del Alma*) is the name given by the 16th-century Spanish mystic **St. John of the Cross** to the most devastating and most transformative phase of the contemplative path: the period when **all consolation is withdrawn** — divine presence becomes absence, prayer becomes silence, meaning becomes void — and the soul, stripped of every support (intellectual, emotional, spiritual), is left in a darkness so complete that it cannot even be sure it has not been abandoned by God entirely.
+The **Dark Night of the Soul** (*Noche Oscura del Alma*) is the name given by the 16th-century Spanish mystic **St. John of the Cross**[^1] to the most devastating and most transformative phase of the contemplative path: the period when **all consolation is withdrawn** — divine presence becomes absence, prayer becomes silence, meaning becomes void — and the soul, stripped of every support (intellectual, emotional, spiritual), is left in a darkness so complete that it cannot even be sure it has not been abandoned by God entirely.
 
 This is not depression (though it may resemble it). This is not doubt (though doubt accompanies it). This is not punishment (though it feels like punishment). The Dark Night is a **purgative process** — the soul's most profound transformation, accomplished not through what the soul does but through what is done *to* it in the silence and the dark.
 
@@ -80,9 +80,9 @@ The fire metaphor is central: **the same fire that causes the pain is producing 
 
 ### The Contemplative Tradition (Christian)
 
-- **Teresa of Avila** — Describes analogous states in the *Interior Castle*, particularly the sixth and seventh mansions: the soul's suffering before the spiritual marriage
+- **Teresa of Avila** — Describes analogous states in the *Interior Castle*[^2], particularly the sixth and seventh mansions: the soul's suffering before the spiritual marriage
 - **Meister Eckhart** — *Gelassenheit* (releasement): the radical letting-go of all attachment, including attachment to God as concept
-- **The Cloud of Unknowing** (14th century) — The anonymous English mystic's teaching that God is met not through knowledge but through a "cloud of unknowing" that obscures the intellect
+- **The Cloud of Unknowing** (14th century)[^3] — The anonymous English mystic's teaching that God is met not through knowledge but through a "cloud of unknowing" that obscures the intellect
 
 ### Buddhism: Dukkha and the Dissolution of Self
 
@@ -102,7 +102,7 @@ The Dark Night belongs to the universal pattern of **katabasis** — the descent
 
 ### The Dark Night as Individuation Crisis
 
-Jung recognized in the Dark Night the pattern he called the **confrontation with the unconscious** — the moment when the ego's relationship to the Self is radically reorganized:
+Jung recognized in the Dark Night the pattern he called the **confrontation with the unconscious**[^4] — the moment when the ego's relationship to the Self is radically reorganized:
 
 > *"I know that this process inevitably comes to a standstill... The dream state and the state of diminished consciousness are themselves the indispensable conditions for the germination and growth of the Self."* — Jung, CW 14, §778
 
@@ -168,6 +168,15 @@ The Dark Night may be occurring when:
 
 ---
 
+## Footnotes
+
+[^1]: St. John of the Cross, *The Dark Night* (*Noche Oscura*) — the definitive text describing the two nights (senses and spirit) as purgative phases of the contemplative path
+[^2]: Teresa of Avila, *The Interior Castle* (1577) — the sixth and seventh mansions describe the soul's suffering and final union (spiritual marriage) that parallels the Dark Night
+[^3]: *The Cloud of Unknowing* (14th century) — anonymous English mystic's via negativa teaching that God is met through unknowing, not through intellectual comprehension
+[^4]: Jung, *Collected Works*, Vol. 14, paragraph 778 — the confrontation with the unconscious as a "standstill" that is the necessary condition for the growth of the Self
+[^5]: Underhill, *Mysticism* (1911) — comprehensive scholarly treatment of the Dark Night as it appears across the Christian mystical tradition
+
+---
 ## Sources
 
 **Primary Mystical Sources:**
@@ -178,7 +187,7 @@ The Dark Night may be occurring when:
 - Meister Eckhart, Sermons — *Gelassenheit* and the ground of the soul
 
 **Cross-Tradition:**
-- Underhill, E. *Mysticism* (1911) — comprehensive treatment of the Dark Night across traditions
+- Underhill, E. *Mysticism* (1911)[^5] — comprehensive treatment of the Dark Night across traditions
 - McGinn, B. *The Foundations of Mysticism* — scholarly history of Christian mysticism
 - Kornfield, J. *After the Ecstasy, the Laundry* — Buddhist parallels to the Dark Night
 

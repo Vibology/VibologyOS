@@ -60,15 +60,15 @@ The alchemical image is **Sublimatio**—the elevation of base matter into refin
 
 ### The Hexagram (I-Ching)
 
-Hexagram 31, *Xián* (Influence / Mutual Attraction), shows Lake above Mountain—the youngest daughter above the youngest son, yin above yang, creating the image of attraction through complementarity. Wilhelm emphasizes that influence here is mutual and earned: "To take a maiden to wife brings good fortune" because both parties choose freely, neither dominates. The teaching is that those who would lead must first demonstrate capacity through service, discipline, and pattern. The Nuclear Hexagram is 44 (Coming to Meet), revealing that beneath influence lies encounter—leadership emerges from meeting the collective where it is.
+Hexagram 31, *Xián* (Influence / Mutual Attraction), shows Lake above Mountain—the youngest daughter above the youngest son, yin above yang, creating the image of attraction through complementarity.[^1] Wilhelm emphasizes that influence here is mutual and earned: "To take a maiden to wife brings good fortune" because both parties choose freely, neither dominates. The teaching is that those who would lead must first demonstrate capacity through service, discipline, and pattern. The Nuclear Hexagram is 44 (Coming to Meet), revealing that beneath influence lies encounter—leadership emerges from meeting the collective where it is.
 
 ### The Gate (Human Design)
 
-Gate 31 in the Throat provides the voice of democratic leadership—"I Lead (or not)." Ra Uru Hu taught this gate as the recognition that influence must be earned through demonstrated competence, not claimed through ego. When connected to Gate 7 in the G Center, the 7-31 Channel creates *The Alpha*—leadership emerging from identity, the capacity to guide through being rather than doing. The shadow: arrogance, assuming authority without earning it, leading from ego rather than service. The gift: leadership grounded in pattern, the voice that speaks only when it has something worth saying, influence that emerges naturally from demonstrated capacity. The teaching: true leaders create followers by invitation, never by force.
+Gate 31 in the Throat provides the voice of democratic leadership—"I Lead (or not)." Ra Uru Hu taught this gate as the recognition that influence must be earned through demonstrated competence, not claimed through ego.[^2] When connected to Gate 7 in the G Center, the 7-31 Channel creates *The Alpha*—leadership emerging from identity, the capacity to guide through being rather than doing. The shadow: arrogance, assuming authority without earning it, leading from ego rather than service. The gift: leadership grounded in pattern, the voice that speaks only when it has something worth saying, influence that emerges naturally from demonstrated capacity. The teaching: true leaders create followers by invitation, never by force.
 
 ### The Gene Keys
 
-- **Shadow: Arrogance** — Assuming authority without earning it; ego posturing as leadership. The Shadow manifests as the leader who demands respect rather than earns it, who speaks without listening, who confuses position with competence. This is the manager who leads by title not skill, the teacher who performs knowledge without embodying wisdom, the influencer who accumulates followers without transforming lives. Arrogance is insecurity masked as certainty—the desperate need to be recognized as leader because deep down you fear you're not. The wound: believing that to influence is to dominate, that leadership requires force.
+- **Shadow: Arrogance**[^3] — Assuming authority without earning it; ego posturing as leadership. The Shadow manifests as the leader who demands respect rather than earns it, who speaks without listening, who confuses position with competence. This is the manager who leads by title not skill, the teacher who performs knowledge without embodying wisdom, the influencer who accumulates followers without transforming lives. Arrogance is insecurity masked as certainty—the desperate need to be recognized as leader because deep down you fear you're not. The wound: believing that to influence is to dominate, that leadership requires force.
 
 - **Gift: Leadership** — Natural authority emerging from demonstrated pattern and service. Leadership operates through embodiment—you have walked the path you're guiding others on, you have tested the pattern you're advocating, you have earned the right to speak through discipline. The gift is the leader people follow by choice, whose presence creates order without oppression, whose voice shapes direction because it speaks truth grounded in experience. Leadership is not position but *resonance*—others align with you because your pattern works, because your service proves care, because your stillness provides anchor.
 
@@ -141,6 +141,13 @@ Another Shadow trap: abdicating leadership entirely. If influence risks arroganc
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 31 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 31 mechanics, Throat
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Arrogance / Leadership / Humility
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 31: Influence

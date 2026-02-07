@@ -22,11 +22,11 @@ title: Lord of Material Gain
 
 ---
 ## Traditional Symbolism
-According to Waite's *Pictorial Key to the Tarot*, the Nine of Pentacles signifies **complete realization of material gain, inheritance, good faith, prudence, discernment**. Waite describes: **"A woman, with a bird upon her wrist, stands amidst a great abundance of grapevines in the garden of a manorial house. It is a wide domain, suggesting plenty in all things."** The upright card speaks to **self-sufficiency, refined abundance, the capacity to enjoy what one has earned through disciplined effort**.
-The Golden Dawn titles this card the **"Lord of Material Gain"** and attributes it to **Venus in Virgo**, the second decan of the mutable earth sign. This is the planet of beauty, pleasure, and refinement (Venus) manifesting through the sign of discipline, discernment, and practical service (Virgo). The result is **cultivated abundance**—not inherited wealth but self-made prosperity, earned through intelligent effort and refined through disciplined taste.
+According to Waite's *Pictorial Key to the Tarot*, the Nine of Pentacles signifies **complete realization of material gain, inheritance, good faith, prudence, discernment**. [^1] Waite describes: **"A woman, with a bird upon her wrist, stands amidst a great abundance of grapevines in the garden of a manorial house. It is a wide domain, suggesting plenty in all things."** The upright card speaks to **self-sufficiency, refined abundance, the capacity to enjoy what one has earned through disciplined effort**.
+The Golden Dawn titles this card the **"Lord of Material Gain"** [^2] and attributes it to **Venus in Virgo** [^3], the second decan of the mutable earth sign. This is the planet of beauty, pleasure, and refinement (Venus) manifesting through the sign of discipline, discernment, and practical service (Virgo). The result is **cultivated abundance**—not inherited wealth but self-made prosperity, earned through intelligent effort and refined through disciplined taste.
 The card represents **financial independence and self-possession**—the moment when material success has been achieved *not through luck or inheritance* but through your own capacity, intelligence, and sustained effort. This is not the collaborative mastery of the Three of Pentacles or the repetitive practice of the Eight—this is the Nine, the harvest enjoyed in solitary contentment. You have built this garden; you enjoy it fully; you are complete within yourself.
 This is a profoundly positive card in questions of financial independence, career success, or self-sufficiency. It indicates that you have achieved a level of material security that allows you to *enjoy* life—not merely survive but thrive. You have worked with discipline and discernment, and the fruits are now yours to savor. The Nine promises that abundance earned through your own effort is deeply satisfying—sweeter than any inheritance, more secure than any gift.
-When the Nine of Pentacles appears **reversed**, Waite identifies meanings of **roguery, deception, voided project, bad faith**. The reversal suggests the abundance is threatened or illusory, the self-sufficiency becomes isolation, the refinement curdles into snobbery, or the material success was achieved through questionable means. The Golden Dawn reversal indicates "material gain achieved through loss of integrity; wealth that isolates; abundance that cannot be shared."
+When the Nine of Pentacles appears **reversed**, Waite identifies meanings of **roguery, deception, voided project, bad faith**. [^4] The reversal suggests the abundance is threatened or illusory, the self-sufficiency becomes isolation, the refinement curdles into snobbery, or the material success was achieved through questionable means. The Golden Dawn reversal indicates "material gain achieved through loss of integrity; wealth that isolates; abundance that cannot be shared." [^5]
 The key teaching: **You are allowed to enjoy what you have built**. The Nine of Pentacles offers permission to claim your harvest without apology, to stand in your garden and savor the fruits of disciplined effort. Self-sufficiency is not selfishness. Solitary contentment is not isolation. You have earned this abundance—now enjoy it fully.
 ---
 
@@ -210,6 +210,14 @@ The teaching: True abundance is internal. The garden is a *reflection* of your c
 
 ---
 *"The woman in the garden did not inherit her wealth—she grew it, vine by vine, through patient labor and disciplined joy."*
+
+## Footnotes
+
+[^1]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meaning for the Nine of Pentacles.
+[^2]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Lord of Material Gain" for the Nine of Pentacles.
+[^3]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Venus in Virgo decan attribution for the Nine of Pentacles.
+[^4]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meaning for the Nine of Pentacles.
+[^5]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn reversal interpretation for the Nine of Pentacles.
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

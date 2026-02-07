@@ -20,7 +20,7 @@ source_verified: Esoteric Grimoire
 
 ---
 ## Ra's Definition
-According to Ra Uru Hu, the **Channel of Charisma** (also called **The Channel of Being Busy** or **Thoughts Must Become Deeds**) is the **only pure Manifesting Generator channel in Human Design**. This channel connects the **Throat Center** (manifestation) directly to the **Sacral Center** (life force), creating an **immediate, unmediated bridge from awareness to action**.
+According to Ra Uru Hu, the **Channel of Charisma** (also called **The Channel of Being Busy** or **Thoughts Must Become Deeds**) is the **only pure Manifesting Generator channel in Human Design**[^1]. This channel connects the **Throat Center** (manifestation) directly to the **Sacral Center** (life force)[^2], creating an **immediate, unmediated bridge from awareness to action**.
 
 Ra taught that this channel embodies the archetype of **perpetual motion**—the individual who must be **busy in the now**, who experiences restlessness when stagnant, and who thrives when engaged in multiple simultaneous activities. This is not the considered reflection of the Collective, nor the mutative shock of the Individual—this is **Integration energy**: existential action, being present, and responding to life with immediate engagement.
 
@@ -103,7 +103,7 @@ This is the energy of the **perpetual responder**—someone who doesn't pause to
 ---
 ## Circuitry Analysis
 
-The Channel 20-34 is part of the **Integration Circuit**, which is **not** categorized within the three main circuit groups (Individual, Tribal, Collective). Integration circuitry is concerned with **self-empowerment, survival, and being fully present in one's own life**.
+The Channel 20-34 is part of the **Integration Circuit**[^3], which is **not** categorized within the three main circuit groups (Individual, Tribal, Collective). Integration circuitry is concerned with **self-empowerment, survival, and being fully present in one's own life**.
 
 ### The Integration Circuit's Function
 
@@ -118,7 +118,7 @@ Channel 20-34 contributes to this by:
 
 **Why This Creates Manifesting Generators:**
 
-The **Sacral (motor) to Throat (manifestation)** connection creates the capacity to **respond and act in rapid succession**. This is why Manifesting Generators are the **multi-taskers**, the ones who can juggle multiple projects, pivot quickly, and skip steps that others need. The 20-34 channel **doesn't wait**—it responds NOW.
+The **Sacral (motor) to Throat (manifestation)** connection creates the capacity to **respond and act in rapid succession**[^4]. This is why Manifesting Generators are the **multi-taskers**, the ones who can juggle multiple projects, pivot quickly, and skip steps that others need. The 20-34 channel **doesn't wait**—it responds NOW.
 
 **Note:** This is NOT the same as the Manifestor's capacity to initiate independently. The 20-34 still operates through **Sacral response**—but once the response happens, **action is immediate**.
 
@@ -153,7 +153,7 @@ The individual has **pure power** but lacks the awareness to know WHEN to act. P
 ---
 ## Biological and Somatic Dimension
 
-The Channel 20-34 bridges the **throat/thyroid** (Gate 20, Throat Center) and the **sacral/ovaries-testes** (Gate 34, Sacral Center).
+The Channel 20-34 bridges the **throat/thyroid** (Gate 20, Throat Center) and the **sacral/ovaries-testes** (Gate 34, Sacral Center)[^5].
 
 ### Physiological Signature
 
@@ -319,6 +319,14 @@ When they honor the Sacral's rhythm—responding fully, pivoting freely, resting
 - Manifesting [[Generator]] — The only pure MG channel
 - Gene Keys — Shadow/Gift/Siddhi framework
 - [[The Chariot (VII)]] — Harnessed power in motion
+
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 20-34 as the only pure Manifesting Generator channel in the bodygraph
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 20-34 connecting Throat Center directly to Sacral Center
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 20-34 placement within the Integration Circuit (distinct from Individual, Tribal, and Collective)
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Sacral motor to Throat manifestation connection creating Manifesting Generator mechanics (respond and act in rapid succession)
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Biological association of Throat Center with thyroid and Sacral Center with ovaries/testes
 
 ## Sources
 **Primary Source:**

@@ -60,15 +60,15 @@ Peace teaches that **ideation is not obligation**. The mind generates countless 
 
 ### The Hexagram (I-Ching)
 
-Earth above Heaven—the image of complementary forces in harmony. The Image: *"Heaven and earth unite: the image of Peace. Thus the ruler divides and completes the course of heaven and earth, and so aids the people."* When creative force (ideas) is grounded by receptivity (mental capacity to hold concepts), peace results.
+Earth above Heaven—the image of complementary forces in harmony. The Image: *"Heaven and earth unite: the image of Peace. Thus the ruler divides and completes the course of heaven and earth, and so aids the people."*[^1] When creative force (ideas) is grounded by receptivity (mental capacity to hold concepts), peace results.
 
 ### The Gate (Human Design)
 
-Gate 11 resides in the Ajna Center, the seat of conceptualization. This is not logical reasoning or collective knowledge but **Individual mental mutation**—ideas that break paradigms. The Individual Knowing Circuit operates on a different frequency, bringing concepts that may seem obscure or impractical until their time arrives. Mental peace comes from **not forcing ideas into premature expression**.
+Gate 11 resides in the Ajna Center, the seat of conceptualization.[^2] This is not logical reasoning or collective knowledge but **Individual mental mutation**—ideas that break paradigms. The Individual Knowing Circuit operates on a different frequency, bringing concepts that may seem obscure or impractical until their time arrives. Mental peace comes from **not forcing ideas into premature expression**.
 
 ### The Gene Keys
 
-**Shadow: Obscurity** — Ideas so abstract or esoteric that they cannot be communicated. Lost in mental fog, unable to discern valuable concepts from fantasy.
+**Shadow: Obscurity**[^3] — Ideas so abstract or esoteric that they cannot be communicated. Lost in mental fog, unable to discern valuable concepts from fantasy.
 
 **Gift: Idealism** — The capacity to hold visionary concepts, to envision what could be. Mental frameworks that inspire without demanding immediate manifestation.
 
@@ -136,6 +136,13 @@ The conditioning pattern: "My ideas must be expressed/understood/validated" or "
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 11 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 11 mechanics, Ajna (Mind)
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Obscurity / Idealism / Light
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 11: Peace

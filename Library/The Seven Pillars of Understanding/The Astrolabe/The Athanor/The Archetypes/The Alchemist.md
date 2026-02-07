@@ -23,7 +23,7 @@ The Alchemist represents the archetypal **individuated wholeness**—the transce
 
 The Alchemist is not ego or persona but **Jung's ultimate realization**—the one who has integrated anima and animus, shadow and light, individual and collective, into unified expression so unique it becomes universal. Prince is not man or woman, Black or white, sacred or profane—he is **totality**, the breakthrough that restructures what it means to be human.
 
-In Jung's framework, The Self (which The Alchemist embodies) is the central archetype—**the totality of the psyche including both conscious and unconscious elements, the organizing principle toward which individuation moves**. The Self is not achieved through effort alone but through the mysterious cooperation of consciousness with forces larger than itself. It is both the goal and the guide of the individuation process.
+In Jung's framework, The Self (which The Alchemist embodies) is the central archetype—**the totality of the psyche including both conscious and unconscious elements, the organizing principle toward which individuation moves**.[^1] The Self is not achieved through effort alone but through the mysterious cooperation of consciousness with forces larger than itself. It is both the goal and the guide of the individuation process.
 
 The Alchemist appears when **individuation demands breakthrough**, when wholeness requires mutation, when the question becomes: "What limiting category must I shatter to become wholly myself?" This is the archetype of completed integration.
 
@@ -58,7 +58,7 @@ The Symbol (⚥) he adopted (1993-2000): combining male (♂) and female (♀) i
 
 Jung spent decades working toward understanding The Self—the archetype of wholeness, the "God-image" in the psyche, the organizing center toward which all individuation moves. The Self is paradoxical: it is both the totality you already are (unconscious wholeness) and the goal you're moving toward (conscious integration).
 
-The alchemical symbolism Jung explored extensively: the *opus* (great work) transforms *prima materia* (raw potential) through stages until the *lapis philosophorum* (philosopher's stone) emerges—not new substance but original matter fully realized. The Alchemist is the one who completes this work.
+The alchemical symbolism Jung explored extensively: the *opus* (great work) transforms *prima materia* (raw potential) through stages until the *lapis philosophorum* (philosopher's stone) emerges—not new substance but original matter fully realized.[^2] The Alchemist is the one who completes this work.
 
 In the Astrolabe system, The Alchemist stands as the destination: The Hero's journey leads here, The Divine Child carries this as seed, The Muse and Idol integrate within this, The Shape dissolves into this. All archetypal work serves individuation—the emergence of The Alchemist.
 
@@ -99,6 +99,13 @@ In the Astrolabe system, The Alchemist stands as the destination: The Hero's jou
 - [[Return with the Elixir]] — Final stage of Hero's Journey
 
 ---
+## Footnotes
+
+[^1]: Jung, *The Archetypes and the Collective Unconscious* (CW 9i, Princeton, 1969) — The Self as central archetype and totality of the psyche (§43-67)
+[^2]: Jung, *Mysterium Coniunctionis* (CW 14, Princeton, 1963) — alchemical opus as metaphor for individuation; prima materia through lapis philosophorum (§1-41)
+[^3]: Edinger, *Ego and Archetype* (Shambhala, 1992) — The Self as totality and goal of individuation (Chapter 7)
+
+---
 ## Sources
 
 Jung, C.G. *The Archetypes and the Collective Unconscious* (CW 9i). Princeton University Press, 1969.
@@ -108,6 +115,6 @@ Jung, C.G. *Mysterium Coniunctionis* (CW 14). Princeton University Press, 1963.
 - §1-41: The components of the coniunctio; alchemical union
 
 Edinger, Edward. *Ego and Archetype: Individuation and the Religious Function of the Psyche*. Shambhala, 1992.
-- Chapter 7: The Self as totality
+- Chapter 7: The Self as totality[^3]
 
 ---

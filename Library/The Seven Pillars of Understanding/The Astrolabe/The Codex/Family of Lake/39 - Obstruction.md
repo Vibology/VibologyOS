@@ -60,15 +60,15 @@ The alchemical image is **Mortificatio**—the death process that precedes rebir
 
 ### The Hexagram (I-Ching)
 
-Hexagram 39, *Jiǎn* (Obstruction / Hardship), shows Water above Mountain—danger placed over stillness, creating the image of impassable terrain. The mountain blocks forward movement; the water above makes retreat treacherous. This is the moment where conventional approaches fail and innovation becomes necessity. Wilhelm teaches that the superior man does not waste energy fighting immovable obstacles but instead "turns attention to himself"—using obstruction as invitation to internal transformation. The Nuclear Hexagram is 64 (Before Completion), revealing that beneath obstruction lies perpetual becoming—the work is never finished; resistance is ongoing.
+Hexagram 39, *Jiǎn* (Obstruction / Hardship), shows Water above Mountain—danger placed over stillness, creating the image of impassable terrain.[^1] The mountain blocks forward movement; the water above makes retreat treacherous. This is the moment where conventional approaches fail and innovation becomes necessity. Wilhelm teaches that the superior man does not waste energy fighting immovable obstacles but instead "turns attention to himself"—using obstruction as invitation to internal transformation. The Nuclear Hexagram is 64 (Before Completion), revealing that beneath obstruction lies perpetual becoming—the work is never finished; resistance is ongoing.
 
 ### The Gate (Human Design)
 
-Gate 39 in the Root provides the pressure to provoke—to use obstruction deliberately as tool for testing depth and forcing innovation. Ra Uru Hu taught this gate as recognizing "the value of obstruction"—hardship is not punishment but catalyst. When connected to Gate 55 in the Solar Plexus, the 39-55 Channel creates *Emoting*—the capacity to provoke emotional response, to test through friction, to discover what persists through resistance. The shadow: provocation as aggression, creating obstacles compulsively, mistaking conflict for intimacy. The gift: dynamism, the capacity to respond to resistance with creativity rather than collapse. The teaching: obstacles reveal character; what you do when blocked shows who you are.
+Gate 39 in the Root provides the pressure to provoke—to use obstruction deliberately as tool for testing depth and forcing innovation. Ra Uru Hu taught this gate as recognizing "the value of obstruction"—hardship is not punishment but catalyst.[^2] When connected to Gate 55 in the Solar Plexus, the 39-55 Channel creates *Emoting*—the capacity to provoke emotional response, to test through friction, to discover what persists through resistance. The shadow: provocation as aggression, creating obstacles compulsively, mistaking conflict for intimacy. The gift: dynamism, the capacity to respond to resistance with creativity rather than collapse. The teaching: obstacles reveal character; what you do when blocked shows who you are.
 
 ### The Gene Keys
 
-- **Shadow: Provocation** — Creating or escalating conflict compulsively; mistaking friction for aliveness. The Shadow manifests as the person who picks fights to feel engaged, who creates drama because stillness feels like death, who tests relationships by pushing people away to see if they'll return. This is the partner who provokes to confirm they're loved, the employee who resists every directive to maintain sense of autonomy, the activist whose outrage becomes identity rather than strategy. Provocation is fear masked as strength—the desperate need to know you matter by seeing your impact, even when that impact is destructive.
+- **Shadow: Provocation**[^3] — Creating or escalating conflict compulsively; mistaking friction for aliveness. The Shadow manifests as the person who picks fights to feel engaged, who creates drama because stillness feels like death, who tests relationships by pushing people away to see if they'll return. This is the partner who provokes to confirm they're loved, the employee who resists every directive to maintain sense of autonomy, the activist whose outrage becomes identity rather than strategy. Provocation is fear masked as strength—the desperate need to know you matter by seeing your impact, even when that impact is destructive.
 
 - **Gift: Dynamism** — The capacity to respond to obstruction with creativity and innovation. Dynamism recognizes that blockage is information—when the usual path is closed, new approaches become visible. The gift is the person who thrives under constraint, who innovates when resources are limited, who discovers breakthrough precisely because conventional solutions failed. Dynamism is not aggression but *responsive power*—the martial artist who uses opponent's force as fuel, the entrepreneur who builds empire from necessity, the artist who creates masterwork within limitation.
 
@@ -141,6 +141,13 @@ Another Shadow trap: collapse in face of obstruction. If every obstacle feels in
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 39 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 39 mechanics, Root
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Provocation / Dynamism / Liberation
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 39: Obstruction

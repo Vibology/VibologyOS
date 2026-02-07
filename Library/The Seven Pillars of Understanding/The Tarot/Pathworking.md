@@ -19,7 +19,7 @@ verification_source: "Esoteric Grimoire (Wang 1983, DuQuette 2008); Golden Dawn 
 
 **Pathworking** is a visionary meditation practice in which the practitioner imaginatively travels the **paths** of the [[The Tree of Life|Qabalistic Tree of Life]], using Tarot imagery as the doorway. Each of the 22 Major Arcana corresponds to one of the 22 paths connecting the ten [[Sephiroth]]; pathworking uses these images as **portals for inner exploration**.
 
-Unlike passive visualization or guided meditation, pathworking is an **active encounter**—the practitioner enters the symbolic landscape and allows autonomous experiences to unfold, similar to Jung's [[Active Imagination]] but within the structured framework of Qabalistic cosmology (Wang 1983, p. 34; DuQuette 2008, Ch. 27).
+Unlike passive visualization or guided meditation, pathworking is an **active encounter**—the practitioner enters the symbolic landscape and allows autonomous experiences to unfold, similar to Jung's [[Active Imagination]] but within the structured framework of Qabalistic cosmology [^1] (Wang 1983, p. 34; DuQuette 2008, Ch. 27).
 
 **Three Purposes of Pathworking:**
 
@@ -31,7 +31,7 @@ Unlike passive visualization or guided meditation, pathworking is an **active en
 Pathworking is not "making up a story" or fantasizing. When properly entered, the practitioner encounters **autonomous symbolic content**—images, beings, teachings that arise from the [[The Collective Unconscious|collective unconscious]] and speak through the language of Qabalah (Wang 1983).
 
 **Historical Lineage:**
-Pathworking emerged from the **Hermetic Order of the Golden Dawn** (1888-1900s), where it was central to the initiatory curriculum. Members would ritually "walk" specific paths corresponding to their grade of initiation (DuQuette 2008, Ch. 27). **Dion Fortune** (1890-1946), trained in the Golden Dawn's Inner Order, refined and popularized pathworking in her writings (*The Mystical Qabalah*, *The Cosmic Doctrine*), making it accessible beyond ceremonial lodge structures.
+Pathworking emerged from the **Hermetic Order of the Golden Dawn** (1888-1900s), where it was central to the initiatory curriculum. Members would ritually "walk" specific paths corresponding to their grade of initiation [^2] (DuQuette 2008, Ch. 27). **Dion Fortune** (1890-1946), trained in the Golden Dawn's Inner Order, refined and popularized pathworking in her writings (*The Mystical Qabalah*, *The Cosmic Doctrine*), making it accessible beyond ceremonial lodge structures [^3].
 
 ---
 
@@ -51,7 +51,7 @@ The Tree of Life consists of:
 - **Attributed to astrological forces** (7 planets, 12 zodiac signs, 3 elements)
 
 **Function:**
-Each Path represents a **transformational journey** between two states of consciousness (Sephiroth). Walking a path means **experientially traversing** that transformation—not intellectually understanding it, but **living it** (Wang 1983, p. 34).
+Each Path represents a **transformational journey** between two states of consciousness (Sephiroth). Walking a path means **experientially traversing** that transformation—not intellectually understanding it, but **living it** [^5] (Wang 1983, p. 34).
 
 ### Tarot as Doorway
 
@@ -126,7 +126,7 @@ Before entering the path, **internalize its symbolic language**:
 
 **Banishing Ritual (Recommended):**
 Perform a protective ritual to clear psychic space. Traditional options:
-- **Lesser Banishing Ritual of the Pentagram (LBRP)** — Golden Dawn standard (DuQuette 2008)
+- **Lesser Banishing Ritual of the Pentagram (LBRP)** — Golden Dawn standard [^4] (DuQuette 2008)
 - **Simple Cross and Circle:** Visualize a cross of light extending in six directions, then a sphere of protection around you
 - **Spoken Invocation:** "I banish all that does not serve the highest good. I call upon [Archangel of Sephirah] to guard this sacred work."
 
@@ -722,7 +722,7 @@ Members performed pathworking as **ritual meditation**—alone or in temple sett
 ## Relationship to Ceremonial Magic
 
 **Pathworking as Initiation:**
-In ceremonial magic, pathworking is not escapism but **real initiation**—the astral journey is considered as valid (and sometimes more potent) than physical ritual (DuQuette 2008).
+In ceremonial magic, pathworking is not escapism but **real initiation**—the astral journey is considered as valid (and sometimes more potent) than physical ritual [^6] (DuQuette 2008).
 
 **Integration with Ritual:**
 Advanced practitioners combine pathworking with:
@@ -788,6 +788,17 @@ In the Western esoteric tradition, the ultimate goal is **union with the divine*
 - [[Invocation]] — Calling upon beings for guidance (Angelology)
 - [[Discernment of Spirits]] — Testing visions (Angelology)
 - [[The Collective Unconscious]] — Source of archetypal imagery (Personal Mythos)
+
+---
+
+## Footnotes
+
+[^1]: Wang, Robert, *The Qabalistic Tarot* (Samuel Weiser, 1983), p. 34; DuQuette, Lon Milo, *Enochian Vision Magick* (Weiser Books, 2008), Ch. 27 — pathworking as active encounter within Qabalistic framework, distinct from passive visualization
+[^2]: DuQuette, Lon Milo, *Enochian Vision Magick* (Weiser Books, 2008), Ch. 27 — Golden Dawn origin of pathworking as grade-specific initiatory practice
+[^3]: Wang, Robert, *The Qabalistic Tarot* (Samuel Weiser, 1983); Fortune, Dion, *The Mystical Qabalah* (Williams & Norgate, 1935) — Dion Fortune's refinement and popularization of pathworking beyond ceremonial lodge settings
+[^4]: DuQuette, Lon Milo, *Enochian Vision Magick* (Weiser Books, 2008) — the Lesser Banishing Ritual of the Pentagram as standard Golden Dawn protective practice
+[^5]: Wang, Robert, *The Qabalistic Tarot* (Samuel Weiser, 1983), p. 34 — paths as experiential transformational journeys between Sephirotic states
+[^6]: DuQuette, Lon Milo, *Enochian Vision Magick* (Weiser Books, 2008) — astral pathworking as valid initiation in ceremonial magic tradition
 
 ---
 

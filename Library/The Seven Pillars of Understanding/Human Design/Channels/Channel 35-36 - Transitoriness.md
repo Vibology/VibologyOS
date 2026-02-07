@@ -20,9 +20,9 @@ source_verified: Esoteric Grimoire
 
 ---
 ## Ra's Definition
-According to Ra Uru Hu, the **Channel of Transitoriness** is the **emotional experience channel**—the drive to experience **everything** through the lens of the emotional wave, learning through **crisis, change, and transition**. This channel connects the **Solar Plexus** (emotional awareness) to the **Throat** (manifestation), creating the **voice of feeling and experience**.
+According to Ra Uru Hu, the **Channel of Transitoriness** is the **emotional experience channel**—the drive to experience **everything** through the lens of the emotional wave, learning through **crisis, change, and transition**[^1]. This channel connects the **Solar Plexus** (emotional awareness) to the **Throat** (manifestation), creating the **voice of feeling and experience**.
 
-Ra taught that this channel embodies the **need for change and new experience**—not from boredom, but from the understanding that **wisdom comes through experience, not theory**. This is the "jack of all trades"—the one who tastes everything, learns through crisis, and shares the emotional lessons through voice.
+Ra taught that this channel embodies the **need for change and new experience**—not from boredom, but from the understanding that **wisdom comes through experience, not theory**[^5]. This is the "jack of all trades"—the one who tastes everything, learns through crisis, and shares the emotional lessons through voice.
 
 **"The 35-36 is the experiential being. They don't learn from books—they learn from living. They must experience it, feel it, go through the crisis, and then they can speak about it. This is 'I feel'—the voice of the emotional wave in action."** — Ra Uru Hu
 
@@ -36,12 +36,12 @@ The keynote is **transitoriness**—the understanding that all experience is tem
 | **Channel Number** | 35-36 |
 | **Channel Name** | Transitoriness / Jack of All Trades |
 | **Centers** | Solar Plexus ↔ Throat |
-| **Circuitry** | Collective (Sensing/Abstract Circuit) |
-| **Type** | Manifested (Emotional—must wait through wave before acting) |
+| **Circuitry** | Collective (Sensing/Abstract Circuit)[^2] |
+| **Type** | Manifested (Emotional—must wait through wave before acting)[^3] |
 | **Keynote** | Jack of All Trades / Experiential Learning Through Change |
 | **Function** | To learn through diverse experiences and share emotional wisdom |
 | **Gates** | Gate 35 (Progress/Change), Gate 36 (Darkening of the Light/Crisis) |
-| **Biology** | Solar plexus/nervous system (emotion), throat/thyroid (voice) |
+| **Biology** | Solar plexus/nervous system (emotion), throat/thyroid (voice)[^4] |
 | **Electromagnetic Theme** | Emotional experience voiced and shared |
 | **Gene Keys** | Shadow: Hunger/Turbulence → Gift: Adventure/Humanity → Siddhi: Boundlessness/Compassion |
 | **Not-Self Pattern** | Restless change-seeking, emotional crisis addiction, speaking before the wave clears |
@@ -109,6 +109,14 @@ When aligned (waiting through the wave, informing before initiating), the 35-36 
 - [[Throat]] — Voice and manifestation
 - Collective Sensing Circuit — Experience-based abstract learning
 - [[Emotional Authority]] — Waiting through the wave for clarity
+
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 35-36 as the emotional experience channel: learning through crisis and transition
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 35-36 classified within the Collective Sensing (Abstract) Circuit
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Manifested channel type: Solar Plexus motor connected to Throat for emotional manifestation
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Biological correlations: Solar Plexus to nervous system, Throat to thyroid and parathyroid
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Jack of all trades keynote: wisdom through direct experiential engagement rather than theory
 
 ## Sources
 **Primary Source:**

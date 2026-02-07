@@ -60,15 +60,15 @@ Waiting teaches that **correct timing is everything**. The clouds must be full b
 
 ### The Hexagram (I-Ching)
 
-Water above Heaven—the image of nourishment building. The Image: *"Clouds rise up to heaven: the image of Waiting. Thus the superior man eats and drinks, is joyous and of good cheer."* The one who truly waits does not fret—they find joy, knowing that the harvest will come in its season.
+Water above Heaven—the image of nourishment building. The Image: *"Clouds rise up to heaven: the image of Waiting. Thus the superior man eats and drinks, is joyous and of good cheer."*[^1] The one who truly waits does not fret—they find joy, knowing that the harvest will come in its season.
 
 ### The Gate (Human Design)
 
-Gate 5 resides in the Sacral Center, the motor of life force. This is not mental patience but **somatic rhythm**—the body knows when to rest, when to gestate, when to respond. Waiting here is the Sacral's capacity to honor natural timing rather than forcing action prematurely. This gate operates in the Logic Circuit, bringing **pattern recognition** to rhythm.
+Gate 5 resides in the Sacral Center, the motor of life force.[^2] This is not mental patience but **somatic rhythm**—the body knows when to rest, when to gestate, when to respond. Waiting here is the Sacral's capacity to honor natural timing rather than forcing action prematurely. This gate operates in the Logic Circuit, bringing **pattern recognition** to rhythm.
 
 ### The Gene Keys
 
-**Shadow: Impatience** — The compulsion to force action before timing is correct, breaking rhythm and disrupting cycles.
+**Shadow: Impatience**[^3] — The compulsion to force action before timing is correct, breaking rhythm and disrupting cycles.
 
 **Gift: Patience** — The capacity to attune to natural timing, trusting the body's wisdom and the patterns of life.
 
@@ -135,6 +135,13 @@ The conditioning pattern: "I must act now" or "Waiting is weakness." This create
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 5 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 5 mechanics, Sacral
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Impatience / Patience / Timelessness
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 5: Waiting

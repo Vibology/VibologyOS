@@ -58,15 +58,15 @@ Splitting Apart carries the frequency of **simplicity through assimilation**—t
 
 ### The Hexagram (I-Ching)
 
-Mountain above Earth—the image of erosion, the mountain crumbling, the solid form peeling away. Wilhelm's Judgment: *"Splitting Apart. It does not further one to go anywhere."* This is a time of breakdown, of allowing what is no longer correct to fall away. What remains after the splitting is essence, truth, foundation.
+Mountain above Earth—the image of erosion, the mountain crumbling, the solid form peeling away. Wilhelm's Judgment: *"Splitting Apart. It does not further one to go anywhere."*[^1] This is a time of breakdown, of allowing what is no longer correct to fall away. What remains after the splitting is essence, truth, foundation.
 
 ### The Gate (Human Design)
 
-Gate 23 resides in the Throat Center, the voice of individual knowing. This is **assimilation expressed**—the capacity to break down complex insight until it becomes simple, then articulate that simplicity. The Individual Knowing Circuit is amoral—it does not conform to collective morality or tribal loyalty. Gate 23 speaks what it knows, and whether others accept or reject it is irrelevant. This is the voice of mutation.
+Gate 23 resides in the Throat Center, the voice of individual knowing.[^2] This is **assimilation expressed**—the capacity to break down complex insight until it becomes simple, then articulate that simplicity. The Individual Knowing Circuit is amoral—it does not conform to collective morality or tribal loyalty. Gate 23 speaks what it knows, and whether others accept or reject it is irrelevant. This is the voice of mutation.
 
 ### The Gene Keys
 
-**Shadow: Complexity** — The individual is overwhelmed by information, unable to assimilate or express insight clearly. They speak before understanding, creating confusion.
+**Shadow: Complexity**[^3] — The individual is overwhelmed by information, unable to assimilate or express insight clearly. They speak before understanding, creating confusion.
 
 **Gift: Simplicity** — The capacity to break complex knowing into essential clarity. The voice that expresses insight in ways others can receive.
 
@@ -135,6 +135,13 @@ The conditioning pattern: "If I explain it in detail, they'll understand" or "Co
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 23 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 23 mechanics, Throat (Manifestation)
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Complexity / Simplicity / Quintessence
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 23: Splitting Apart

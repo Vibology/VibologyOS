@@ -20,15 +20,15 @@ elemental_formula: Water of Air
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, the Queen of Swords signifies **widowhood, female sadness and embarrassment, absence, sterility, mourning, privation, separation**. The card depicts a queen seated on a throne, sword upraised, often with one hand extended—representing intellectual mastery earned through loss, the capacity for clear perception born from grief, and the wisdom that comes when everything inessential has been stripped away. When the Queen of Swords appears upright, it speaks to the realm of perceptive intelligence—the mind that sees clearly *because* it has felt deeply, clarity earned through sorrow rather than granted by fortune.
+According to Waite's *Pictorial Key to the Tarot*, the Queen of Swords signifies **widowhood, female sadness and embarrassment, absence, sterility, mourning, privation, separation**.[^1] The card depicts a queen seated on a throne, sword upraised, often with one hand extended—representing intellectual mastery earned through loss, the capacity for clear perception born from grief, and the wisdom that comes when everything inessential has been stripped away. When the Queen of Swords appears upright, it speaks to the realm of perceptive intelligence—the mind that sees clearly *because* it has felt deeply, clarity earned through sorrow rather than granted by fortune.
 
-In the court card hierarchy, Queens represent the **Water** (or receptive/mastery) element of their suit—the internalizing, deepening, mastering principle. The Queen of Swords is therefore **Water of Air**: emotion grounding intellect, feeling tempering thought, the heart that has learned to think and the mind that has learned to feel. This is the counselor, the therapist, the wise woman—the one who speaks truth without cruelty because she knows the weight of words.
+In the court card hierarchy, Queens represent the **Water** (or receptive/mastery) element of their suit—the internalizing, deepening, mastering principle. The Queen of Swords is therefore **Water of Air**:[^2] emotion grounding intellect, feeling tempering thought, the heart that has learned to think and the mind that has learned to feel. This is the counselor, the therapist, the wise woman—the one who speaks truth without cruelty because she knows the weight of words.
 
 The card represents **emotional intelligence**—the capacity to perceive clearly while honoring feeling, to speak truth while maintaining compassion, to wield the discriminating mind without becoming cold. The Queen of Swords is brilliant, perceptive, and often right—but unlike the Knight who charges ahead, the Queen has learned to pause, to consider, to temper clarity with wisdom.
 
 In readings, the Queen of Swords can represent a person (often an air sign—Gemini, Libra, Aquarius—who has known loss) or a situation requiring clear perception without emotional collapse, honest communication without cruelty, or the wisdom that comes from having survived difficulty. The card says: *see clearly, speak truthfully, but do not confuse honesty with cruelty*. The sword liberates; it need not wound.
 
-When the Queen of Swords appears **reversed**, Waite identifies meanings of **malice, bigotry, artifice, prudery, bale, deceit**. The reversal often indicates that the Queen's clarity has become cruelty, her detachment has become coldness, or her grief has curdled into bitterness. The reversed Queen may represent someone who uses "honesty" as a weapon, who mistakes coldness for strength, or whose loss has hardened her heart rather than deepened her wisdom.
+When the Queen of Swords appears **reversed**, Waite identifies meanings of **malice, bigotry, artifice, prudery, bale, deceit**.[^3] The reversal often indicates that the Queen's clarity has become cruelty, her detachment has become coldness, or her grief has curdled into bitterness. The reversed Queen may represent someone who uses "honesty" as a weapon, who mistakes coldness for strength, or whose loss has hardened her heart rather than deepened her wisdom.
 
 The key teaching: **Clarity need not be cruel**. The Queen of Swords is the most perceptive court card, but this perception must be tempered with compassion, or it becomes merely another form of violence.
 
@@ -353,6 +353,12 @@ The sword liberates when it is wielded with wisdom. The Queen who has lost every
 ---
 
 *"The Queen who has lost everything has nothing left to defend—and therefore, she can see everything clearly."*
+
+## Footnotes
+
+[^1]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meanings for the Queen of Swords
+[^2]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — elemental formula Water of Air for the Queen of Swords court card
+[^3]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meanings for the Queen of Swords
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

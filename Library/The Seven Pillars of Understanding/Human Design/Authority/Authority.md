@@ -14,7 +14,7 @@ verification_notes: "Hub article synthesizing individual Authority entries. Hier
 ---
 ## Overview
 
-**Authority** in Human Design is the body's inner intelligence for determining what is correct—the somatic compass that reveals truth when [[Strategy]] has positioned you properly. Where Strategy governs *how* you engage with life's opportunities, Authority determines *what* is true for you within that engagement.
+**Authority** in Human Design is the body's inner intelligence for determining what is correct—the somatic compass that reveals truth when [[Strategy]] has positioned you properly.[^1] Where Strategy governs *how* you engage with life's opportunities, Authority determines *what* is true for you within that engagement.
 
 Authority is not mental. The mind thinks, analyzes, compares, and worries—but it is not designed to make decisions for your life. The mind's correct role is **Outer Authority**: witnessing, articulating, offering perspective to others. **Inner Authority**—the decision-making intelligence that guides your own life—belongs to the body.
 
@@ -23,7 +23,7 @@ Each Authority type corresponds to a specific defined Center (or configuration o
 ---
 ## The Authority Hierarchy
 
-Human Design establishes a strict **hierarchy of Authority** based on Center definition. If multiple potential Authority centers are defined, only the highest in the hierarchy operates as your decision-making intelligence:
+Human Design establishes a strict **hierarchy of Authority** based on Center definition.[^2] If multiple potential Authority centers are defined, only the highest in the hierarchy operates as your decision-making intelligence:
 
 | Rank | Authority | Source | Principle |
 |------|-----------|--------|-----------|
@@ -45,9 +45,9 @@ Human Design establishes a strict **hierarchy of Authority** based on Center def
 
 **Source:** Defined [[Solar Plexus]] Center
 **Compatible Types:** [[Manifestor]], [[Generator]], [[Projector]]
-**Population:** ~50% of humanity
+**Population:** ~50% of humanity[^3]
 
-The most common Authority. Decisions emerge through the **emotional wave**—an oscillating biochemical process of hope and pain that must complete before clarity appears. The core principle: **"There is no truth in the now."** Wait for the wave to settle into calm waters, where the decision feels consistent regardless of emotional state.
+The most common Authority. Decisions emerge through the **emotional wave**—an oscillating biochemical process of hope and pain that must complete before clarity appears. The core principle: **"There is no truth in the now."**[^4] Wait for the wave to settle into calm waters, where the decision feels consistent regardless of emotional state.
 
 → [[Emotional Authority]]
 
@@ -59,7 +59,7 @@ The most common Authority. Decisions emerge through the **emotional wave**—an 
 **Compatible Types:** [[Generator]], Manifesting Generator
 **Population:** ~35% of humanity
 
-The intelligence of immediate, non-verbal response. The Sacral speaks in guttural sounds—**"uh-huh"** (yes, energy available) or **"uhn-un"** (no, energy not available)—before the mind can intervene. Requires an external stimulus (a yes/no question, an offer) to activate.
+The intelligence of immediate, non-verbal response. The Sacral speaks in guttural sounds—**"uh-huh"** (yes, energy available) or **"uhn-un"** (no, energy not available)—before the mind can intervene.[^5] Requires an external stimulus (a yes/no question, an offer) to activate.
 
 → [[Sacral Authority]]
 
@@ -117,9 +117,9 @@ Also called **Environmental Authority** or **No Inner Authority**. The mind thin
 
 **Source:** No defined Centers (complete openness)
 **Compatible Types:** [[Reflector]] only
-**Population:** ~1% of humanity
+**Population:** ~1% of humanity[^6]
 
-The rarest Authority, belonging to the rarest Type. With no fixed definition, Reflectors are designed to **sample the full spectrum** of energy over a complete lunar cycle (approximately 28 days). Major decisions require waiting through this cycle, allowing the Moon's transit to activate each Gate sequentially and reveal what is consistently correct.
+The rarest Authority, belonging to the rarest Type. With no fixed definition, Reflectors are designed to **sample the full spectrum** of energy over a complete lunar cycle (approximately 28 days).[^7] Major decisions require waiting through this cycle, allowing the Moon's transit to activate each Gate sequentially and reveal what is consistently correct.
 
 → [[Reflector]]
 
@@ -148,7 +148,7 @@ The practice of living according to your Authority is the heart of **[[Deconditi
 The experiment is simple:
 1. Learn your Authority
 2. Follow it for every decision (small and large)
-3. Observe the results over time (Ra Uru Hu suggested a 7-year experiment)
+3. Observe the results over time (Ra Uru Hu suggested a 7-year experiment)[^8]
 
 As you trust Authority over mind, the **Signature** of your Type emerges—Peace (Manifestor), Satisfaction (Generator), Success (Projector), Surprise (Reflector)—confirming alignment with your design.
 
@@ -177,6 +177,18 @@ As you trust Authority over mind, the **Signature** of your Type emerges—Peace
 ---
 
 *Authority is the body's answer to the mind's endless question: "But how do I know?" The mind knows through logic, comparison, and analysis—but these tools are not designed for the irreducible particularity of your life. The body knows differently: through wave and response, instinct and will, voice and environment. To trust Authority is to recognize that you are not a mind piloting a body but a body expressing consciousness—and the body already knows how to move correctly. Your only task is to listen.*
+
+---
+## Footnotes
+
+[^1]: Ra Uru Hu & Lynda Bunnell, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Authority as the body's decision-making intelligence, distinct from mental processing
+[^2]: Ra Uru Hu & Lynda Bunnell, *The Definitive Book of Human Design* (Jovian Archive, 2011) — The strict Authority hierarchy based on Center definition priority
+[^3]: Ra Uru Hu & Lynda Bunnell, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Approximately 50% of humanity has Emotional Authority
+[^4]: Ra Uru Hu & Lynda Bunnell, *The Definitive Book of Human Design* (Jovian Archive, 2011) — "There is no truth in the now" as the defining principle of Emotional Authority
+[^5]: Ra Uru Hu & Lynda Bunnell, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Sacral Authority operates through guttural sounds: "uh-huh" (yes) and "uhn-un" (no)
+[^6]: Ra Uru Hu & Lynda Bunnell, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Reflectors comprise approximately 1% of the population
+[^7]: Ra Uru Hu & Lynda Bunnell, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Lunar Authority requires sampling the full 28-day lunar transit through all 64 Gates
+[^8]: Ra Uru Hu & Lynda Bunnell, *The Definitive Book of Human Design* (Jovian Archive, 2011) — The 7-year deconditioning experiment as the recommended timeframe for testing Strategy and Authority
 
 ---
 ## Sources

@@ -20,13 +20,13 @@ source_verified: Esoteric Grimoire
 
 ---
 ## Ra's Definition
-According to Ra Uru Hu, the **Channel of Preservation** is the **custodian of the tribe**—the energy that **nurtures, protects, and maintains values** to ensure the survival and well-being of the collective. This channel connects the **Sacral** (life-force energy) to the **Spleen** (instinctive awareness), creating a bridge between **sustainable work** and **survival intelligence**.
+According to Ra Uru Hu, the **Channel of Preservation** is the **custodian of the tribe**—the energy that **nurtures, protects, and maintains values** to ensure the survival and well-being of the collective[^1]. This channel connects the **Sacral** (life-force energy) to the **Spleen** (instinctive awareness), creating a bridge between **sustainable work** and **survival intelligence**.
 
 Ra taught that this channel is fundamentally about **caring for others**—not from emotional sentimentality, but from **instinctive tribal responsibility**. This is the energy of the parent, the caregiver, the guardian who ensures the tribe has what it needs to survive and thrive.
 
 **"The 27-50 is the caretaker. It's the one who says, 'I will feed you, I will protect you, I will uphold the values that keep us safe.' This is not love—it's responsibility. This is the energy that built families, communities, and civilizations through the simple act of caring for the next generation."** — Ra Uru Hu
 
-The keynote here is **custodianship**—the capacity to care, nurture, and maintain through sustainable Sacral work guided by Splenic instinct.
+The keynote here is **custodianship**—the capacity to care, nurture, and maintain through sustainable Sacral work guided by Splenic instinct[^5].
 
 ---
 ## Core Correspondences
@@ -36,12 +36,12 @@ The keynote here is **custodianship**—the capacity to care, nurture, and maint
 | **Channel Number** | 27-50 |
 | **Channel Name** | Preservation / The Channel of Custodianship |
 | **Centers** | Sacral ↔ Spleen |
-| **Circuitry** | Tribal (Defense Circuit) |
-| **Type** | Generated (Pure Generator or part of MG definition) |
+| **Circuitry** | Tribal (Defense Circuit)[^2] |
+| **Type** | Generated (Pure Generator or part of MG definition)[^3] |
 | **Keynote** | Custodianship / Nurturing and Preservation |
 | **Function** | To care for, nurture, and preserve tribal values and well-being |
 | **Gates** | Gate 27 (Nourishment/Caring), Gate 50 (The Cauldron/Values) |
-| **Biology** | Sacral (life-force, reproduction), spleen (immune system, instinct) |
+| **Biology** | Sacral (life-force, reproduction), spleen (immune system, instinct)[^4] |
 | **Electromagnetic Theme** | Life-force energy channeled into instinctive caring and preservation |
 | **Gene Keys** | Shadow: Selfishness/Corruption → Gift: Altruism/Equilibrium → Siddhi: Selflessness/Harmony |
 | **Not-Self Pattern** | Over-nurturing, martyrdom, caring without Sacral response, immune depletion |
@@ -444,6 +444,14 @@ This is the essence of the Tribal Defense Circuit: **protecting the tribe's futu
 - Defined vs. Undefined Centers — Understanding fixed vs. variable caring energy
 - The 7-Year Deconditioning Cycle — Returning to sustainable caring
 - Tribal Dynamics — Understanding caring, values, and tribal responsibility
+
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 27-50 as the tribal custodian: nurturing, protecting, and maintaining values
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 27-50 classified within the Tribal Defense Circuit
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Generated channel type: Sacral-to-Spleen motor-to-awareness connection
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Biological correlations: Sacral to reproductive life-force, Spleen to immune system and instinct
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Keynote of custodianship: sustainable Sacral caring guided by Splenic survival intelligence
 
 ## Sources
 **Primary Source:**

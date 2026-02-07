@@ -51,7 +51,7 @@ es, transits, mechanics), Angelology maps **how consciousness steps down** throu
 > *Vibology Synthesis: The following correspondences are original integrations.*
 
 - **Human Design:** The nine angelic orders map onto the nine centers of the BodyGraph
-- **Tarot:** Major Arcana correspond to paths on the Tree of Life connecting Sephiroth (Wang, *Qabalistic Tarot*)
+- **Tarot:** Major Arcana correspond to paths on the Tree of Life connecting Sephiroth[^1]
 - **Astrology:** The seven classical planets correspond to the seven planetary archangels
 
 #### Key Texts (in Esoteric Grimoire)
@@ -87,8 +87,8 @@ Astrology provides **timing**—the "when" and "where" of cosmic patterns. It an
 **Primary Question:** *What archetypal story am I living?*
 
 #### What It Maps
-- The Hero's Journey (Campbell's monomyth in 12 stages)
-- The Individuation Process (Jungian psychological development in 6 stages)
+- The Hero's Journey (Campbell's monomyth in 12 stages)[^2]
+- The Individuation Process (Jungian psychological development in 6 stages)[^3]
 - Jungian Archetypes (Hero, Shadow, Anima/Animus, Self, Trickster, Great Mother, Wise Old Man, etc.)
 - Fairy tales as initiatory templates
 - World mythology (Norse, Greek, Hindu, Buddhist, Native American, Slavic) as universal patterns
@@ -119,7 +119,7 @@ Personal Mythos provides **narrative structure**—the recognition that your lif
 - Incarnation Cross (life purpose derived from Sun/Earth gates)
 
 #### Unique Contribution
-Human Design provides **mechanical precision**—not vague archetypes but exact calculations based on birth time and location. It answers: *"How does my specific vehicle operate? What is my unique decision-making authority?"*
+Human Design provides **mechanical precision**—not vague archetypes but exact calculations based on birth time and location.[^4] It answers: *"How does my specific vehicle operate? What is my unique decision-making authority?"*
 
 **Cross-System Integration:**
 - **I-Ching:** The 64 gates are the 64 hexagrams mapped onto the BodyGraph
@@ -457,6 +457,15 @@ Until then: navigate with all seven.
 *"The soul's position cannot be known from a single coordinate. Like a ship at sea requires latitude and longitude, the pilgrim requires seven dimensions to know where they stand, where they came from, and where they are going. The seven pillars are not separate paths—they are seven views of the One Path."*
 
 ---
+## Footnotes
+
+[^1]: Wang, Robert. *The Qabalistic Tarot* (Samuel Weiser, 1983) — the 22 Major Arcana as paths on the Tree of Life connecting Sephiroth.
+[^2]: Campbell, Joseph. *The Hero with a Thousand Faces* (Princeton University Press, 2004) — the monomyth structure of departure, initiation, and return.
+[^3]: Jung, C.G. *Memories, Dreams, Reflections* (Pantheon Books, 1963) — the Individuation Process as psychological development toward wholeness.
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — precise BodyGraph calculations based on birth time and location determining Type, Authority, and Profile.
+
+---
+
 ## Sources
 
 **The Seven Pillars Framework:** Vibology Synthesis (original integration)

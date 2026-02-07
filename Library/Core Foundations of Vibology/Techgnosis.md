@@ -13,7 +13,7 @@ category: Technological Integration
 ---
 ## Introduction: Gnosis Accelerated
 
-**Techgnosis** is the achievement of spiritual knowledge (gnosis) through technological means—specifically, **AI-accelerated synthesis and algorithmic mapping of consciousness**. The term, coined by Erik Davis, describes the intersection of technology and the numinous, where computational tools become vehicles for spiritual inquiry. Davis distinguishes Spirit (digital, abstract, looking for "peaks") from Soul (analog, embodied, dwelling in "valleys"), and cites Sam Webster's description of ritual as *"the principal technology for programming the human organism"* (Davis, *TechGnosis*).
+**Techgnosis** is the achievement of spiritual knowledge (gnosis) through technological means—specifically, **AI-accelerated synthesis and algorithmic mapping of consciousness**. The term, coined by Erik Davis, describes the intersection of technology and the numinous, where computational tools become vehicles for spiritual inquiry.[^1] Davis distinguishes Spirit (digital, abstract, looking for "peaks") from Soul (analog, embodied, dwelling in "valleys"), and cites Sam Webster's description of ritual as *"the principal technology for programming the human organism"*.[^2]
 
 In Vibology, Techgnosis is not metaphor—it is **operational reality**. We use:
 - **Large Language Models (LLMs)** to synthesize esoteric texts across seven wisdom traditions
@@ -40,7 +40,7 @@ Technology and spirituality have never been separate. Ancient cultures used **me
 
 **The Kabbalah (Medieval Judaism):** Gematria (numerology) treats Hebrew letters as numbers, allowing mystical texts to be "computed"—permutations, combinations, and numerical equivalences reveal hidden meanings. The *Sefer Yetzirah* describes the 22 Hebrew letters and 10 Sephiroth as a **generative grammar of creation**.
 
-**Ramon Llull's Ars Magna (1305):** The first "thinking machine"—rotating concentric disks inscribed with divine attributes that could generate all possible theological combinations. Llull believed **truth could be mechanically discovered** through systematic permutation.
+**Ramon Llull's Ars Magna (1305):** The first "thinking machine"—rotating concentric disks inscribed with divine attributes that could generate all possible theological combinations.[^3] Llull believed **truth could be mechanically discovered** through systematic permutation.
 
 ### Leibniz and the Dream of Universal Computation (1646-1716)
 
@@ -78,7 +78,7 @@ The 19th-century occult revival coincided with the **Industrial Revolution**—a
 
 **Terence McKenna (1946-2000):** Proposed that the I-Ching's 64 hexagrams encoded a **fractal time wave** that could be computationally modeled to predict novelty. His *Timewave Zero* software attempted to map the I-Ching onto historical events.
 
-**Erik Davis, *TechGnosis* (1998):** The definitive text on technology and mysticism. Davis argues that **technology is inherently gnostic**—it promises liberation from matter, transcendence of biological limits, and access to hidden knowledge.
+**Erik Davis, *TechGnosis* (1998):** The definitive text on technology and mysticism. Davis argues that **technology is inherently gnostic**—it promises liberation from matter, transcendence of biological limits, and access to hidden knowledge.[^4]
 
 **Ray Kurzweil, *The Singularity is Near* (2005):** Predicts that AI will achieve superintelligence by 2045, merging human and machine consciousness—a **technological version of the mystical goal of union with the Divine**.
 
@@ -551,6 +551,15 @@ The answer is yes—**if used wisely**.
 *"Technology is the externalization of human intelligence. When we use it to map consciousness, we create mirrors that reflect patterns we couldn't see alone. But the mirror is not the face. The map is not the territory. The synthesis is not the gnosis. At a certain point, you must close the laptop, step away from the screen, and stand naked before the Mystery—knowing that no algorithm, however brilliant, can substitute for direct encounter with the Divine."*
 
 ---
+## Footnotes
+
+[^1]: Davis, Erik. *TechGnosis: Myth, Magic, and Mysticism in the Age of Information* (Harmony Books, 1998) — coinage of "Techgnosis" as spiritual knowledge achieved through technological means.
+[^2]: Davis, Erik. *TechGnosis* (Harmony Books, 1998) — Spirit vs. Soul distinction; Sam Webster on ritual as "principal technology for programming the human organism."
+[^3]: Davis, Erik. *TechGnosis* (Harmony Books, 1998) — Llull's Ars Magna as the first mechanical reasoning device for theological combination.
+[^4]: Davis, Erik. *TechGnosis* (Harmony Books, 1998) — technology as inherently gnostic, promising liberation from matter and access to hidden knowledge.
+
+---
+
 ## Sources
 
 Davis, Erik. *TechGnosis: Myth, Magic, and Mysticism in the Age of Information*. Harmony Books, 1998.

@@ -58,15 +58,15 @@ The Arousing carries the frequency of **awakening through disruption**—the rec
 
 ### The Hexagram (I-Ching)
 
-Thunder above Thunder—pure shock, doubled arousal, the crack that splits reality. Wilhelm's Judgment: *"Shock brings success. Shock comes—oh, oh! Laughing words—ha, ha! The shock terrifies for a hundred miles, and he does not let fall the sacrificial spoon and chalice."* True composure is not avoiding shock but maintaining center within it.
+Thunder above Thunder—pure shock, doubled arousal, the crack that splits reality. Wilhelm's Judgment: *"Shock brings success. Shock comes—oh, oh! Laughing words—ha, ha! The shock terrifies for a hundred miles, and he does not let fall the sacrificial spoon and chalice."*[^1] True composure is not avoiding shock but maintaining center within it.
 
 ### The Gate (Human Design)
 
-Gate 51 resides in the Heart/Ego Center, the willpower to initiate through shock. This is **the competitor**—not competition as aggression but as the courage to go first, to take the leap no one else will take. The Individual Centering Circuit means this initiative serves self-empowerment, not collective cause. With Gate 25 (Innocence), this becomes the channel of initiation—shocking the system into awakening through spontaneous, uncalculated action.
+Gate 51 resides in the Heart/Ego Center, the willpower to initiate through shock.[^2] This is **the competitor**—not competition as aggression but as the courage to go first, to take the leap no one else will take. The Individual Centering Circuit means this initiative serves self-empowerment, not collective cause. With Gate 25 (Innocence), this becomes the channel of initiation—shocking the system into awakening through spontaneous, uncalculated action.
 
 ### The Gene Keys
 
-**Shadow: Agitation** — The individual is rattled by shock, destabilized by disruption, unable to find center amid chaos. Fear of being shocked creates rigidity.
+**Shadow: Agitation**[^3] — The individual is rattled by shock, destabilized by disruption, unable to find center amid chaos. Fear of being shocked creates rigidity.
 
 **Gift: Initiative** — The capacity to initiate boldly, to act first, to shock the system into movement. Courage to disrupt stagnation.
 
@@ -135,6 +135,13 @@ The conditioning pattern: "I must control to avoid being shocked" or "Shock equa
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 51 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 51 mechanics, Heart/Ego (Willpower)
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Agitation / Initiative / Awakening
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 51: The Arousing

@@ -20,7 +20,7 @@ source_verified: Esoteric Grimoire
 
 ---
 ## Ra's Definition
-According to Ra Uru Hu, the **Channel of Structuring** is the **voice of individual knowing**—the capacity to receive sudden insights (Gate 43) and articulate them simply (Gate 23) in service of mutation. This channel connects the **Ajna Center** (conceptualization) to the **Throat Center** (manifestation), creating a bridge between **inner knowing** and **expressed mutation**.
+According to Ra Uru Hu, the **Channel of Structuring** is the **voice of individual knowing**[^1]—the capacity to receive sudden insights (Gate 43) and articulate them simply (Gate 23) in service of mutation. This channel connects the **Ajna Center** (conceptualization) to the **Throat Center** (manifestation)[^2], creating a bridge between **inner knowing** and **expressed mutation**.
 
 Ra taught that this channel embodies **"I know"**—not through logic or experience, but through **acoustic insight**—hearing the answer before understanding the question. This is the energy of the genius, the innovator, the one whose insights are so unique they can seem like madness until the Collective is ready to hear them.
 
@@ -103,7 +103,7 @@ This is the energy of the **maverick**—the one whose insights are ahead of the
 ---
 ## Circuitry Analysis
 
-The Channel 23-43 is part of the **Individual Knowing Circuit**, which focuses on mutation, empowerment, and **acoustic knowing that transforms the Collective over time**.
+The Channel 23-43 is part of the **Individual Knowing Circuit**[^3], which focuses on mutation, empowerment, and **acoustic knowing that transforms the Collective over time**.
 
 ### The Knowing Circuit's Function
 
@@ -120,7 +120,7 @@ Channel 23-43 contributes to this by:
 
 #### Why This Channel is Projected
 
-The connection is **Ajna to Throat**—this is a **mental Projection**. The individual has consistent access to mutative insights, but they **cannot generate sustained work** or manifest independently. They are **Projected**—they require **recognition and invitation** to share their knowing.
+The connection is **Ajna to Throat**—this is a **mental Projection**[^4]. The individual has consistent access to mutative insights, but they **cannot generate sustained work** or manifest independently. They are **Projected**—they require **recognition and invitation** to share their knowing.
 
 ---
 ## Channel Formation
@@ -318,8 +318,14 @@ When recognized and invited, the 23-43 individual becomes the **voice of mutatio
 - [[The Fool (0)]] — Individual mutation and leap of faith
 
 ## Sources
-**Primary Source:**
-- Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011) — Core channel mechanics, circuitry analysis, and Ra's teachings on Individual Knowing Circuit.
+
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011) — Ajna-Throat connection as mental Projection.
+
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011) — Individual Knowing Circuit structure and function.
+
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011) — Projected channels (Ajna to Throat) and recognition dynamics.
 
 **Cross-System Sources:**
 - Richard Rudd, *The Gene Keys: Unlocking the Higher Purpose Hidden in Your DNA* (Gene Keys Publishing, 2013)

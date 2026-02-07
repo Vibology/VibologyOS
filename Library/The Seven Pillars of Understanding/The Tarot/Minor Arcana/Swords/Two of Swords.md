@@ -23,17 +23,17 @@ title: Lord of Peace Restored
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, the Two of Swords signifies **conformity, courage, concord in a state of arms, friendship, affection, intimacy; also tenderness, affection, confidence**. The card depicts balance—but balance achieved through *holding*, through *maintaining position*, rather than through resolution. When the Two of Swords appears upright, it speaks to the realm of temporary truce—the moment when opposing forces have reached equilibrium, but that equilibrium requires constant effort to sustain.
+According to Waite's *Pictorial Key to the Tarot*, the Two of Swords signifies **conformity, courage, concord in a state of arms, friendship, affection, intimacy; also tenderness, affection, confidence**.[^1] The card depicts balance—but balance achieved through *holding*, through *maintaining position*, rather than through resolution. When the Two of Swords appears upright, it speaks to the realm of temporary truce—the moment when opposing forces have reached equilibrium, but that equilibrium requires constant effort to sustain.
 
-The Golden Dawn titles this card the **"Lord of Peace Restored"** and attributes it to **Moon in Libra**—the emotional, instinctual nature (Moon) operating through the sign of balance and relationship (Libra). This is peace, yes—but peace *restored*, implying a prior state of conflict. The peace is conditional; it exists because both sides have agreed to stop fighting, not because the underlying conflict has been resolved.
+The Golden Dawn titles this card the **"Lord of Peace Restored"**[^2] and attributes it to **Moon in Libra**—the emotional, instinctual nature (Moon) operating through the sign of balance and relationship (Libra). This is peace, yes—but peace *restored*, implying a prior state of conflict. The peace is conditional; it exists because both sides have agreed to stop fighting, not because the underlying conflict has been resolved.
 
-Qabalisticallt, this is **Chokmah in Yetzirah**—Wisdom (the second Sephirah, the principle of differentiation) expressing through the Formative World of Air and intellect. But here, Wisdom manifests as the recognition that *some conflicts cannot be resolved through force*—they can only be held in balance, at least for now.
+Qabalisticallt, this is **Chokmah in Yetzirah**—Wisdom (the second Sephirah, the principle of differentiation) expressing through the Formative World of Air and intellect.[^4] But here, Wisdom manifests as the recognition that *some conflicts cannot be resolved through force*—they can only be held in balance, at least for now.
 
 The card represents the **necessary pause between strife and resolution**. It is not the final answer, but the breathing space that allows answers to emerge. The blindfolded woman does not see the solution—but she is creating the conditions under which the solution might appear.
 
 This is a complex card in readings. It indicates that a truce has been reached—tension is held in check, conflicting parties have agreed to cease hostilities. But the Two of Swords also warns that this is not true peace. The swords are still drawn. The blindfold is still on. The fundamental conflict remains.
 
-When the Two of Swords appears **reversed**, Waite identifies **imposture, duplicity, falsehood, disloyalty, treachery**. The reversed Two speaks to the truce broken—the peace that was never genuine, the balance that collapses because one party never intended to honor it. Alternatively, the reversed Two may indicate that the blindfold has been forcibly removed, and the querent must now face what they have been avoiding.
+When the Two of Swords appears **reversed**, Waite identifies **imposture, duplicity, falsehood, disloyalty, treachery**.[^3] The reversed Two speaks to the truce broken—the peace that was never genuine, the balance that collapses because one party never intended to honor it. Alternatively, the reversed Two may indicate that the blindfold has been forcibly removed, and the querent must now face what they have been avoiding.
 
 The key teaching: **Peace Restored is not Peace Achieved**. The Two of Swords buys time, but time alone does not resolve conflict. Eventually, a choice must be made. Eventually, the blindfold must come off.
 
@@ -117,7 +117,7 @@ The Rider-Waite image of the Two of Swords is one of the most psychologically ri
 
 #### The Blindfolded Woman
 
-A **woman** sits with a white blindfold covering her eyes. This is the central and most striking image of the card.
+A **woman** sits with a white blindfold covering her eyes.[^5] This is the central and most striking image of the card.
 
 The **woman** represents:
 - **The soul**: In Tarot symbolism, female figures often represent the receptive, feeling nature
@@ -345,6 +345,14 @@ The Two of Swords is not the answer. It is the space in which the answer might b
 ---
 
 *"The truce that preserves both swords may also preserve the war."*
+
+## Footnotes
+
+[^1]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meanings for the Two of Swords
+[^2]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Lord of Peace Restored" and Chokmah in Yetzirah attribution
+[^3]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meanings for the Two of Swords
+[^4]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Chokmah in Yetzirah Qabalistic placement and Moon in Libra planetary attribution
+[^5]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — Rider-Waite image description: blindfolded woman with crossed swords
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

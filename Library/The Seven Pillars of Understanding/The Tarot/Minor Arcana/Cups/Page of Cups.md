@@ -21,21 +21,21 @@ title: Princess of the Waters, Lotus of the Palace of the Floods
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, the Page of Cups depicts **"a fair, pleasing, somewhat effeminate page, of studious and intent aspect, contemplates a fish rising from a cup to look at him. It is the picture of the mind taking form."** The upright meaning is given as: **"Fair young man, one impelled to render service and with whom the Querent will be connected; a studious youth; news, message; application, reflection, meditation; also these things directed to business."**
+According to Waite's *Pictorial Key to the Tarot*, the Page of Cups depicts **"a fair, pleasing, somewhat effeminate page, of studious and intent aspect, contemplates a fish rising from a cup to look at him. It is the picture of the mind taking form."** [^1] The upright meaning is given as: **"Fair young man, one impelled to render service and with whom the Querent will be connected; a studious youth; news, message; application, reflection, meditation; also these things directed to business."**
 
 This is the **Herald of the Heart**—not the heart's full expression (that is the Knight or Queen), but the *first stirring* of emotional awareness. The Page stands at the threshold between feeling and expression, between intuition and art, between the unconscious depths and conscious recognition. Something has surfaced from below, and the Page is *paying attention*.
 
-The Golden Dawn titles this card the **"Princess of the Waters, Lotus of the Palace of the Floods"** (also called "Throne of the Ace of Cups"). The title is evocative: the Page is the *throne*—the seat, the vessel, the container—for the Ace's pure emotional outpouring. Where the Ace is the divine overflow, the Page is the ground where that grace first *lands* and takes tentative form. The lotus imagery is significant: the lotus emerges from muddy waters, pure and unstained. The Page of Cups represents the capacity to receive emotional and intuitive gifts from the depths *without being contaminated* by them.
+The Golden Dawn titles this card the **"Princess of the Waters, Lotus of the Palace of the Floods"** [^2] (also called "Throne of the Ace of Cups"). The title is evocative: the Page is the *throne*—the seat, the vessel, the container—for the Ace's pure emotional outpouring. Where the Ace is the divine overflow, the Page is the ground where that grace first *lands* and takes tentative form. The lotus imagery is significant: the lotus emerges from muddy waters, pure and unstained. The Page of Cups represents the capacity to receive emotional and intuitive gifts from the depths *without being contaminated* by them.
 
 The fish emerging from the cup is the card's most striking symbol. In Christian symbolism, the fish (ichthys) represents Christ consciousness—the divine manifesting through water, the spirit that swims beneath the surface of ordinary life. In Jungian terms, the fish represents **content from the collective unconscious**—an archetypal image, a numinous symbol, something *other* than the ego that has risen from the depths to be witnessed. The Page does not recoil from this strange apparition; he *regards it with wonder*.
 
-The Golden Dawn tradition emphasizes that the Page of Cups represents **"sweetness, poetry, gentleness, kindness"** but also **"given to imagination and indolence."** The Page is sensitive, artistic, receptive—but lacks the Knight's direction, the Queen's mastery, the King's authority. The Page's emotional openness is a gift that must be *developed*, or it becomes mere sentimentality.
+The Golden Dawn tradition emphasizes that the Page of Cups represents **"sweetness, poetry, gentleness, kindness"** but also **"given to imagination and indolence."** [^3] The Page is sensitive, artistic, receptive—but lacks the Knight's direction, the Queen's mastery, the King's authority. The Page's emotional openness is a gift that must be *developed*, or it becomes mere sentimentality.
 
 The Page of Cups is favorable in contexts where **emotional sensitivity is needed**, when intuitive messages are arriving, when creative inspiration seeks expression, when gentleness and receptivity serve better than force. The Page appears when the psyche is *opening*—to art, to love, to the numinous. The question is: **Will you honor what has surfaced, or dismiss it as "just imagination"?**
 
 However, the Page also carries warnings: **sensitivity without direction becomes sentimentality**. The Page feels deeply but may lack the capacity to *do* anything with those feelings. The Page's rich inner life can become escape from outer engagement. The reversed or shadow Page is the "sensitive soul" who uses emotional depth as excuse for avoiding the demands of the world.
 
-When the Page of Cups appears **reversed**, Waite identifies: **"Taste, inclination, attachment, seduction, deception, artifice."** The reversed Page suggests that the emotional sensitivity has curdled into manipulation, that the "innocent" approach conceals self-interest, or that the imagination has become delusion rather than vision. The reversed Page can manifest as:
+When the Page of Cups appears **reversed**, Waite identifies: **"Taste, inclination, attachment, seduction, deception, artifice."** [^4] The reversed Page suggests that the emotional sensitivity has curdled into manipulation, that the "innocent" approach conceals self-interest, or that the imagination has become delusion rather than vision. The reversed Page can manifest as:
 - **Emotional manipulation**: Using sensitivity as a weapon, "reading" others to exploit them
 - **Sentimentality**: Wallowing in feeling without transforming it into action or art
 - **Escapism**: Retreating into fantasy rather than engaging reality
@@ -221,6 +221,13 @@ When the Page of Cups emerges in reading or contemplation, consider:
 ---
 
 *"Every great work of art begins with a Page who was willing to look at the fish and wonder what it meant."*
+
+## Footnotes
+
+[^1]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — description of the Page of Cups image and upright meaning.
+[^2]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title for the Page of Cups.
+[^3]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn characterization of the Page of Cups personality.
+[^4]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meaning for the Page of Cups.
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

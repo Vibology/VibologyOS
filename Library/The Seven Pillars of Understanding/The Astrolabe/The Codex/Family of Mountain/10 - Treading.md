@@ -60,15 +60,15 @@ The alchemical image is *Gold* in its native state—not refined through fire bu
 
 ### The Hexagram (I-Ching)
 
-Hexagram 10, *Lü* (Treading), places Heaven above Mountain—the Creative force treading upon stillness. The Judgment reads: "Treading upon the tail of the tiger. It does not bite the man. Success." The image is one of extreme danger met with correct conduct. Wilhelm emphasizes that treading is not boldness but *simplicity*—the plain, honest behavior that does not provoke. The weak (the person) engages the strong (the tiger/society) successfully through sincerity rather than strategy. The Image: "Heaven above, the lake below: The image of TREADING. Thus the superior man discriminates between high and low, and thereby fortifies the thinking of the people."
+Hexagram 10, *Lü* (Treading), places Heaven above Mountain—the Creative force treading upon stillness.[^1] The Judgment reads: "Treading upon the tail of the tiger. It does not bite the man. Success." The image is one of extreme danger met with correct conduct. Wilhelm emphasizes that treading is not boldness but *simplicity*—the plain, honest behavior that does not provoke. The weak (the person) engages the strong (the tiger/society) successfully through sincerity rather than strategy. The Image: "Heaven above, the lake below: The image of TREADING. Thus the superior man discriminates between high and low, and thereby fortifies the thinking of the people."
 
 ### The Gate (Human Design)
 
-Gate 10 in the G Center governs the behavioral expression of identity—how the self shows up in relationship with others. Ra Uru Hu taught that this gate carries "the love of the self"—not narcissism but the natural self-regard that allows authentic behavior. When connected to Gate 20 in the Throat, the 10-20 Channel creates *Awakening*—the empowerment to live in and express the present moment as oneself. When connected to Gate 34 in the Sacral, the 10-34 Channel creates *Exploration*—the power to follow one's nature wherever it leads. Without these channels, Gate 10 experiences identity but lacks the voice or force to live it publicly. The challenge: to trust that being yourself is enough, that natural behavior is the safest conduct.
+Gate 10 in the G Center governs the behavioral expression of identity—how the self shows up in relationship with others. Ra Uru Hu taught that this gate carries "the love of the self"—not narcissism but the natural self-regard that allows authentic behavior.[^2] When connected to Gate 20 in the Throat, the 10-20 Channel creates *Awakening*—the empowerment to live in and express the present moment as oneself. When connected to Gate 34 in the Sacral, the 10-34 Channel creates *Exploration*—the power to follow one's nature wherever it leads. Without these channels, Gate 10 experiences identity but lacks the voice or force to live it publicly. The challenge: to trust that being yourself is enough, that natural behavior is the safest conduct.
 
 ### The Gene Keys
 
-- **Shadow: Self-Obsession** — The collapse into narcissistic preoccupation; behavior becomes performance designed to secure validation. Self-obsession arises from the wound of believing you are not enough as you are. Every interaction becomes a referendum on worth. The exhaustion of maintaining a false self.
+- **Shadow: Self-Obsession**[^3] — The collapse into narcissistic preoccupation; behavior becomes performance designed to secure validation. Self-obsession arises from the wound of believing you are not enough as you are. Every interaction becomes a referendum on worth. The exhaustion of maintaining a false self.
 
 - **Gift: Naturalness** — Behavior arising spontaneously from being rather than from strategy. Naturalness is the tiger's tail not bitten because there is no pretense to provoke. Others relax around you because you are not demanding they validate a constructed persona. The gift is simplicity—what you are matches what you do.
 
@@ -143,6 +143,13 @@ Another Shadow trap: total withdrawal. If natural behavior triggers rejection (t
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 10 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 10 mechanics, G Center
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Self-Obsession / Naturalness / Being
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 10: Treading

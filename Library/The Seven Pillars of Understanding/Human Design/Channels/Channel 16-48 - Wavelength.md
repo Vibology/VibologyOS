@@ -20,7 +20,7 @@ source_verified: Esoteric Grimoire
 
 ---
 ## Ra's Definition
-According to Ra Uru Hu, the **Channel of Wavelength** is the **expression of talent through mastery**—the capacity to refine skill through repetition until depth emerges. This channel connects the **Throat Center** (manifestation) to the **Spleen Center** (instinct and health), creating a bridge between **articulated skill** and **somatic wisdom**.
+According to Ra Uru Hu, the **Channel of Wavelength** is the **expression of talent through mastery**[^1]—the capacity to refine skill through repetition until depth emerges. This channel connects the **Throat Center** (manifestation) to the **Spleen Center** (instinct and health)[^2], creating a bridge between **articulated skill** and **somatic wisdom**.
 
 Ra taught that this channel embodies the **art of enriching life** through harmonic channeling of energy—not through innovation or mutation, but through **practiced excellence**. This is the energy of the craftsperson, the musician, the athlete—those who become masters through dedicated repetition.
 
@@ -103,7 +103,7 @@ This is the energy of the **virtuoso**—not the revolutionary innovator, but th
 ---
 ## Circuitry Analysis
 
-The Channel 16-48 is part of the **Collective Understanding (Logic) Circuit**, which focuses on patterns, security, and **sharing knowledge for the benefit of the future**.
+The Channel 16-48 is part of the **Collective Understanding (Logic) Circuit**[^3], which focuses on patterns, security, and **sharing knowledge for the benefit of the future**.
 
 ### The Logic Circuit's Function
 
@@ -116,11 +116,11 @@ Channel 16-48 contributes to this by:
 - **Demonstrating mastery** through articulated skill (Gate 16)
 - **Accessing deep resources** that have been proven over time (Gate 48)
 
-**Visual/Optical Nature:** Logic Circuit channels are **visual**—they must SEE the pattern, the proof, the demonstration. This is why 16-48 individuals often teach by **showing**, not just telling.
+**Visual/Optical Nature:** Logic Circuit channels are **visual**—they must SEE the pattern, the proof, the demonstration[^5]. This is why 16-48 individuals often teach by **showing**, not just telling.
 
 #### Why This Channel is Projected
 
-The Throat connection is from the **Spleen** (non-motor), not from a motor center (Sacral, Solar Plexus, Ego, Root). Therefore, this channel **cannot generate sustained work** or manifest independently. It is **Projected**—it requires **recognition and invitation** to share its mastery.
+The Throat connection is from the **Spleen** (non-motor), not from a motor center (Sacral, Solar Plexus, Ego, Root). Therefore, this channel **cannot generate sustained work** or manifest independently. It is **Projected**[^4]—it requires **recognition and invitation** to share its mastery.
 
 ---
 ## Channel Formation
@@ -312,6 +312,14 @@ When recognized and invited, the 16-48 individual becomes the **living demonstra
 - [[Projector]] — Recognition, invitation, and guidance
 - Gene Keys — Shadow/Gift/Siddhi framework
 - [[The Magician (I)]] — Skill and channeled mastery
+
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 16-48 as the expression of talent through mastery and repetition
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 16-48 connects Throat Center (Gate 16) to Spleen Center (Gate 48)
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 16-48 placement within the Collective Understanding/Logic Circuit
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 16-48 classified as Projected (Spleen is non-motor center connecting to Throat)
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Collective Logic Circuit channels operate through visual/optical awareness
 
 ## Sources
 **Primary Source:**

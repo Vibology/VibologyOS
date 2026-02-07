@@ -19,7 +19,7 @@ tradition: Egyptian-Greek-Renaissance
 
 **Hermeticism** (also Hermetism) is the **foundational philosophical and spiritual framework** of the Western esoteric tradition — a body of teachings attributed to **Hermes Trismegistus** ("Thrice-Greatest Hermes"), a legendary figure who synthesizes the Greek god [[Hermes]] (messenger of the gods, patron of writing and magic) with the Egyptian god [[Thoth]] (lord of wisdom, inventor of writing, scribe of the gods). Whether Hermes Trismegistus was a historical person, a mythological composite, or a tradition personified, the texts attributed to him constitute the **philosophical DNA of Western occultism**, influencing alchemy, astrology, Qabalah, the Renaissance, Rosicrucianism, Freemasonry, and the modern esoteric revival.
 
-The core Hermetic texts — the **Corpus Hermeticum** (a collection of Greek philosophical dialogues, c. 1st-3rd century CE) and the **Emerald Tablet** (*Tabula Smaragdina*, of uncertain but probably Arabic origin, c. 6th-8th century CE) — present a vision of reality that is at once **cosmological, psychological, and spiritual**: the universe is a living, conscious whole; the human being is a microcosm of the macrocosm; knowledge of the self is knowledge of God; and the path to liberation is through **gnosis** — direct experiential knowledge of the divine structure of reality.
+The core Hermetic texts — the **Corpus Hermeticum** (a collection of Greek philosophical dialogues, c. 1st-3rd century CE) and the **Emerald Tablet** (*Tabula Smaragdina*, of uncertain but probably Arabic origin, c. 6th-8th century CE) — present a vision of reality that is at once **cosmological, psychological, and spiritual**:[^1] the universe is a living, conscious whole; the human being is a microcosm of the macrocosm; knowledge of the self is knowledge of God; and the path to liberation is through **gnosis** — direct experiential knowledge of the divine structure of reality.
 
 The **Emerald Tablet** condenses Hermetic philosophy into a single axiom that has echoed through two millennia of esoteric thought:
 
@@ -35,7 +35,7 @@ This principle of **correspondence** — the structural identity between macroco
 
 The **Corpus Hermeticum** consists of seventeen Greek dialogues (plus the Latin *Asclepius*) in which Hermes Trismegistus instructs his disciples — primarily his son **Tat** and the figure **Asclepius** — in the nature of God, the cosmos, the soul, and the path of spiritual ascent. The most important treatise is the **Poimandres** (CH I), which describes Hermes's vision of creation:
 
-The **Divine Mind** (*Nous*) creates through the **Word** (*Logos*); the Word brings forth the seven planetary governors who shape the material world; the primal **Human** (*Anthropos*), made in God's image, falls in love with Nature and descends into matter, becoming embodied. The human being is therefore **dual**: divine in origin, material in condition, and the purpose of the Hermetic path is to **reverse the fall** — to ascend through the planetary spheres, shedding the influences acquired in descent, until the soul returns to its divine source.
+The **Divine Mind** (*Nous*) creates through the **Word** (*Logos*); the Word brings forth the seven planetary governors who shape the material world; the primal **Human** (*Anthropos*), made in God's image, falls in love with Nature and descends into matter, becoming embodied.[^2] The human being is therefore **dual**: divine in origin, material in condition, and the purpose of the Hermetic path is to **reverse the fall** — to ascend through the planetary spheres, shedding the influences acquired in descent, until the soul returns to its divine source.
 
 ### The Emerald Tablet
 
@@ -54,7 +54,7 @@ The *Asclepius* (preserved in Latin, included with the Corpus) is notable for it
 
 ## The Seven Hermetic Principles
 
-Later Hermetic tradition (particularly *The Kybalion*, 1908, attributed to "Three Initiates") systematized Hermetic philosophy into seven principles. While *The Kybalion* is a modern text (not ancient), its formulations usefully organize Hermetic thought:
+Later Hermetic tradition (particularly *The Kybalion*, 1908, attributed to "Three Initiates") systematized Hermetic philosophy into seven principles.[^6] While *The Kybalion* is a modern text (not ancient), its formulations usefully organize Hermetic thought:
 
 1. **Mentalism** — "The All is Mind; the Universe is Mental." Reality is fundamentally consciousness.
 2. **Correspondence** — "As above, so below; as below, so above." The key to understanding any level of reality is to study its correspondence with other levels.
@@ -74,15 +74,15 @@ Hermeticism emerged from the cultural encounter between **Egyptian temple wisdom
 
 ### **The Renaissance Rediscovery**
 
-In 1460, a manuscript of the Corpus Hermeticum reached **Cosimo de' Medici** in Florence. He ordered **Marsilio Ficino** to translate it *before* finishing his translation of Plato — such was its perceived importance. Ficino believed (following the Church Father Lactantius) that Hermes Trismegistus was a historical figure who preceded Moses, making the Hermetica the oldest theology in the world.
+In 1460, a manuscript of the Corpus Hermeticum reached **Cosimo de' Medici** in Florence. He ordered **Marsilio Ficino** to translate it *before* finishing his translation of Plato — such was its perceived importance.[^3] Ficino believed (following the Church Father Lactantius) that Hermes Trismegistus was a historical figure who preceded Moses, making the Hermetica the oldest theology in the world.
 
 This belief — that Hermetic wisdom was the *prisca theologia* (ancient theology) from which all later traditions derived — electrified the Renaissance. It authorized the integration of Egyptian wisdom, Greek philosophy, Jewish Qabalah, and Christian theology into a single, unified esoteric vision. **Pico della Mirandola**, **Giordano Bruno**, and **Cornelius Agrippa** all built their work on Hermetic foundations.
 
-Frances Yates's landmark study *Giordano Bruno and the Hermetic Tradition* (1964) demonstrated that the Hermetic revival was a driving force behind the Renaissance — influencing not only magic and mysticism but the development of science itself.
+Frances Yates's landmark study *Giordano Bruno and the Hermetic Tradition* (1964) demonstrated that the Hermetic revival was a driving force behind the Renaissance — influencing not only magic and mysticism but the development of science itself.[^4]
 
 ### **Isaac Casaubon and the Dating Debate**
 
-In 1614, the classical scholar **Isaac Casaubon** demonstrated that the Corpus Hermeticum was not ancient Egyptian but Hellenistic Greek (1st-3rd century CE). This "debunking" damaged Hermeticism's authority in scholarly circles but did not diminish its influence in esoteric tradition, where the **teachings** mattered more than their historical provenance.
+In 1614, the classical scholar **Isaac Casaubon** demonstrated that the Corpus Hermeticum was not ancient Egyptian but Hellenistic Greek (1st-3rd century CE).[^5] This "debunking" damaged Hermeticism's authority in scholarly circles but did not diminish its influence in esoteric tradition, where the **teachings** mattered more than their historical provenance.
 
 ---
 
@@ -129,6 +129,17 @@ The belief that all truth derives from a single ancient source can produce a **h
 - **Angelology:** [[The Celestial Hierarchy|Celestial Hierarchy]] as Hermetic emanation theology
 - **Human Design:** The Rave Mandala as a modern Hermetic instrument — planetary positions imprinting the individual at birth
 - **Jungian:** [[Unus Mundus]] (the unified reality that Hermeticism affirms), [[Synchronicity]] (acausal correspondence as Hermetic principle in action)
+
+---
+
+## Footnotes
+
+[^1]: Copenhaver, B. *Hermetica* (Cambridge University Press, 1992) — the Corpus Hermeticum as Greek philosophical dialogues presenting a cosmological, psychological, and spiritual vision.
+[^2]: Copenhaver, B. *Hermetica* (Cambridge University Press, 1992) — the Poimandres (CH I): creation through Nous and Logos; the descent of Anthropos into matter.
+[^3]: Yates, F. *Giordano Bruno and the Hermetic Tradition* (1964) — Cosimo de' Medici ordering Ficino to translate the Corpus Hermeticum before Plato.
+[^4]: Yates, F. *Giordano Bruno and the Hermetic Tradition* (1964) — the Hermetic revival as a driving force behind the Renaissance, influencing science as well as mysticism.
+[^5]: Yates, F. *Giordano Bruno and the Hermetic Tradition* (1964) — Casaubon's 1614 redating of the Corpus Hermeticum to the Hellenistic period.
+[^6]: *The Kybalion* (1908) — modern systematization of Hermetic philosophy into seven principles (Mentalism, Correspondence, Vibration, Polarity, Rhythm, Cause and Effect, Gender).
 
 ---
 

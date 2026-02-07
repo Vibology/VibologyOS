@@ -19,13 +19,13 @@ source_verified: Esoteric Grimoire
 
 ---
 ## Ra's Definition
-According to Ra Uru Hu, **Channel 4-63** is the foundation of the **Collective Logic Circuit**—the mental awareness system designed to question patterns, test formulas, and ensure the sustainability of the collective's future. This channel connects the pressure to doubt and question (Gate 63 in the Head) with the capacity to formulate answers and solutions (Gate 4 in the Ajna).
+According to Ra Uru Hu, **Channel 4-63** is the foundation of the **Collective Logic Circuit**—the mental awareness system designed to question patterns, test formulas, and ensure the sustainability of the collective's future[^1]. This channel connects the pressure to doubt and question (Gate 63 in the Head) with the capacity to formulate answers and solutions (Gate 4 in the Ajna).
 
-Ra described this as the channel of **mental anxiety mixed with resolution**. The Head's Gate 63 generates relentless pressure to question: "Is this pattern reliable? Can we trust this?" The Ajna's Gate 4 responds by formulating logical answers—but those answers must be tested over time before they can be trusted.
+Ra described this as the channel of **mental anxiety mixed with resolution**[^4]. The Head's Gate 63 generates relentless pressure to question: "Is this pattern reliable? Can we trust this?" The Ajna's Gate 4 responds by formulating logical answers—but those answers must be tested over time before they can be trusted.
 
 **"Channel 4-63 is doubt seeking resolution. It's the scientific mind, the skeptical mind. It says: 'Show me the proof. Let me test this pattern before I accept it.' This is mental ease—but only after the doubt has been satisfied."** — Ra Uru Hu
 
-This is a **Projected Channel** (Head to Ajna, no motor connection), meaning it requires recognition and invitation to be properly received. The logical insights of the 4-63 individual are profound, but they can only influence when others are ready to hear them.
+This is a **Projected Channel** (Head to Ajna, no motor connection)[^2], meaning it requires recognition and invitation to be properly received. The logical insights of the 4-63 individual are profound, but they can only influence when others are ready to hear them.
 
 ---
 ## Core Correspondences Table
@@ -39,7 +39,7 @@ This is a **Projected Channel** (Head to Ajna, no motor connection), meaning it 
 | **Type** | Projected (Requires recognition/invitation) |
 | **Keynote** | Mental Ease Mixed with Doubt - The Skeptical Mind |
 | **I-Ching Hexagrams** | Hexagram 4 (Youthful Folly) + Hexagram 63 (After Completion) |
-| **Biological Connection** | Head (Pineal gland, mental pressure) to Ajna (Pituitary gland, conceptual processing) |
+| **Biological Connection** | Head (Pineal gland, mental pressure) to Ajna (Pituitary gland, conceptual processing)[^3] |
 | **Gene Keys** | Gate 4: Intolerance → Understanding → Forgiveness / Gate 63: Doubt → Inquiry → Truth |
 | **Harmonic Theme** | Doubt (63) resolved through logical formulation (4) |
 | **Not-Self Pattern** | Mental anxiety without resolution; forcing certainty prematurely; sharing insights uninvited |
@@ -191,7 +191,7 @@ Two logical minds. This can be:
 
 ---
 ## Strategy Integration
-Channel 4-63 does **not** carry Authority (it is not a motor or awareness center connection in the bodygraph Authority hierarchy). However, it profoundly influences **how Authority is expressed**.
+Channel 4-63 does **not** carry Authority (it is not a motor or awareness center connection in the bodygraph Authority hierarchy)[^5]. However, it profoundly influences **how Authority is expressed**.
 
 **For Projectors with Channel 4-63:**
 
@@ -377,6 +377,14 @@ Jung's process of individuation requires **questioning inherited patterns** (Gat
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - Honoring Doubt — Allowing questions to remain unanswered until tested
 - Pattern Testing — Verifying formulas over time
+
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 4-63 as the foundation of the Collective Logic Circuit
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Projected channel type: Head-to-Ajna with no motor connection
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Biological correlations: Head to pineal gland, Ajna to pituitary gland
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Keynote of mental ease mixed with doubt: Gate 63 pressure to question resolved by Gate 4 formulation
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Head-Ajna channels do not carry inner Authority in the bodygraph hierarchy
 
 ## Sources
 **Primary Source:**

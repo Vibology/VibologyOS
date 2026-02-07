@@ -60,15 +60,15 @@ The alchemical image is **Separatio**—the stage where unlike elements are dist
 
 ### The Hexagram (I-Ching)
 
-Hexagram 6, *Sòng* (Conflict), depicts Heaven above Water in traditional rendering, but Fire below in the Astrolabe alignment. The trigrams move in opposite directions: Heaven rises, Fire clings and illuminates. This creates natural tension—not as pathology but as the condition that tests relationship. Wilhelm's Image states: "Heaven and water go their opposite ways: the image of Conflict. Thus in all his transactions the superior man carefully considers the beginning." The teaching: conflict is inevitable when opposing forces meet, and how one enters determines how one exits. The Nuclear Hexagram is 37 (The Family), revealing that beneath conflict lies the need for tribal belonging—we fight because connection matters.
+Hexagram 6, *Sòng* (Conflict), depicts Heaven above Water in traditional rendering, but Fire below in the Astrolabe alignment.[^1] The trigrams move in opposite directions: Heaven rises, Fire clings and illuminates. This creates natural tension—not as pathology but as the condition that tests relationship. Wilhelm's Image states: "Heaven and water go their opposite ways: the image of Conflict. Thus in all his transactions the superior man carefully considers the beginning." The teaching: conflict is inevitable when opposing forces meet, and how one enters determines how one exits. The Nuclear Hexagram is 37 (The Family), revealing that beneath conflict lies the need for tribal belonging—we fight because connection matters.
 
 ### The Gate (Human Design)
 
-Gate 6 in the Solar Plexus governs the intuitive awareness of when to open and when to close emotionally. Ra Uru Hu taught this gate as "the diaphragm" that regulates intimacy—breathing in closeness, breathing out space. When connected to Gate 59 in the Sacral, the 6-59 Channel creates *Mating*—sexual energy to penetrate barriers meets emotional wisdom about with whom intimacy is correct. The shadow: conflict addiction or conflict avoidance, using friction to control or suppressing it to keep false peace. The gift: diplomacy, the capacity to navigate emotional friction in ways that deepen rather than destroy bond. The teaching: intimacy without conflict is superficial; friction tests who will stay when challenged.
+Gate 6 in the Solar Plexus governs the intuitive awareness of when to open and when to close emotionally. Ra Uru Hu taught this gate as "the diaphragm" that regulates intimacy—breathing in closeness, breathing out space.[^2] When connected to Gate 59 in the Sacral, the 6-59 Channel creates *Mating*—sexual energy to penetrate barriers meets emotional wisdom about with whom intimacy is correct. The shadow: conflict addiction or conflict avoidance, using friction to control or suppressing it to keep false peace. The gift: diplomacy, the capacity to navigate emotional friction in ways that deepen rather than destroy bond. The teaching: intimacy without conflict is superficial; friction tests who will stay when challenged.
 
 ### The Gene Keys
 
-- **Shadow: Conflict** — Destructive friction born of unresolved emotion, unspoken needs, or rigid boundaries. War within and war without. The Shadow manifests as the person who creates drama to feel alive, who confuses intensity with intimacy, or (the opposite) who suppresses all conflict and builds resentment until explosion. Conflict as weapon rather than tool—the partner who "wins" arguments but loses connection, the parent whose authority rests on force rather than trust.
+- **Shadow: Conflict**[^3] — Destructive friction born of unresolved emotion, unspoken needs, or rigid boundaries. War within and war without. The Shadow manifests as the person who creates drama to feel alive, who confuses intensity with intimacy, or (the opposite) who suppresses all conflict and builds resentment until explosion. Conflict as weapon rather than tool—the partner who "wins" arguments but loses connection, the parent whose authority rests on force rather than trust.
 
 - **Gift: Diplomacy** — The capacity to navigate emotional friction with intelligence, honesty, and grace. Diplomacy recognizes that conflict is information: it reveals misalignment, unmet needs, violated boundaries. The gift is the mediator who helps others find resolution, the partner who can fight fairly, the leader who addresses friction before it festers. Diplomacy knows that some conflicts are meant to be resolved; others are meant to clarify that the relationship should end. Both serve.
 
@@ -141,6 +141,13 @@ Another Shadow trap: conflict addiction. Using friction as the only way to feel 
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 6 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 6 mechanics, Solar Plexus
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Conflict / Diplomacy / Peace
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 6: Conflict

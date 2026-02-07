@@ -60,15 +60,15 @@ The alchemical image is *Putrefaction*—the stage where corrupt matter must be 
 
 ### The Hexagram (I-Ching)
 
-Hexagram 18, *Ku* (Work on What Has Been Spoiled), depicts Mountain above Wind—stagnation caused by the absence of movement. The Chinese character 蠱 originally depicted worms in a bowl—decay, corruption, what happens when attention lapses. Wilhelm's Judgment emphasizes careful timing: "Before the starting point, three days. After the starting point, three days"—deliberate preparation and integration are as important as the correction itself. The teaching: hasty repair creates new problems. The Image speaks of wind at the base of the mountain—gentle, persistent influence working to dislodge what has become stagnant.
+Hexagram 18, *Ku* (Work on What Has Been Spoiled), depicts Mountain above Wind—stagnation caused by the absence of movement.[^1] The Chinese character 蠱 originally depicted worms in a bowl—decay, corruption, what happens when attention lapses. Wilhelm's Judgment emphasizes careful timing: "Before the starting point, three days. After the starting point, three days"—deliberate preparation and integration are as important as the correction itself. The teaching: hasty repair creates new problems. The Image speaks of wind at the base of the mountain—gentle, persistent influence working to dislodge what has become stagnant.
 
 ### The Gate (Human Design)
 
-Gate 18 in the Spleen governs the intuitive recognition of what needs correction. Ra Uru Hu taught that this gate carries "the awareness of patterns"—the capacity to see what is wrong, what could be better, what requires fixing. When connected to Gate 58 in the Root, the 18-58 Channel creates *Judgment*—Spleen awareness meets Root pressure, generating both the insight to identify flaws and the fuel to correct them. The shadow: chronic criticism, perfectionism, inability to accept what-is because one is always focused on what-should-be. The challenge: to exercise corrective judgment with integrity rather than weaponizing it as attack.
+Gate 18 in the Spleen governs the intuitive recognition of what needs correction. Ra Uru Hu taught that this gate carries "the awareness of patterns"—the capacity to see what is wrong, what could be better, what requires fixing.[^2] When connected to Gate 58 in the Root, the 18-58 Channel creates *Judgment*—Spleen awareness meets Root pressure, generating both the insight to identify flaws and the fuel to correct them. The shadow: chronic criticism, perfectionism, inability to accept what-is because one is always focused on what-should-be. The challenge: to exercise corrective judgment with integrity rather than weaponizing it as attack.
 
 ### The Gene Keys
 
-- **Shadow: Judgement** — The collapse into chronic criticism; seeing only what is wrong, never what is right. Judgement as weapon rather than tool—the person who corrects others not to help but to elevate themselves, the perfectionist whose standards destroy rather than refine. The Shadow is the inner critic turned outward, contaminating every relationship with fault-finding.
+- **Shadow: Judgement**[^3] — The collapse into chronic criticism; seeing only what is wrong, never what is right. Judgement as weapon rather than tool—the person who corrects others not to help but to elevate themselves, the perfectionist whose standards destroy rather than refine. The Shadow is the inner critic turned outward, contaminating every relationship with fault-finding.
 
 - **Gift: Integrity** — The capacity to identify what is wrong *and correct it* with precision and care. Integrity recognizes that criticism without remedy is merely complaint. The gift is the surgeon who cuts only to heal, the editor who improves rather than destroys, the teacher who corrects with love. Integrity sees decay not as occasion for judgment but as invitation to repair—and has the discipline to do the work.
 
@@ -141,6 +141,13 @@ Another Shadow trap: passivity in the face of decay. If pointing out flaws has b
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 18 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 18 mechanics, Spleen
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Judgement / Integrity / Perfection
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 18: Work on What Has Been Spoiled

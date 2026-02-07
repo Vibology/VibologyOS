@@ -73,7 +73,7 @@ Unlike systems revealed through scrying (like Enochian magic) or transmitted thr
 | [[Judgement (XX)]] | Shin (ש) | Fire | Hod to Malkuth |
 | [[The World (XXI)]] | Tau (ת) | Saturn | Yesod to Malkuth |
 
-**Note:** The numbering of Strength (VIII) and Justice (XI) varies between traditions. The Golden Dawn/Thoth system (followed here) swaps them to align with astrological zodiacal order (Leo before Libra) (Wang 1983, p. 85; Waite 1910 uses traditional numbering).
+**Note:** The numbering of Strength (VIII) and Justice (XI) varies between traditions. The Golden Dawn/Thoth system (followed here) swaps them to align with astrological zodiacal order (Leo before Libra) [^6] (Wang 1983, p. 85; Waite 1910 uses traditional numbering).
 
 ### The 56 Minor Arcana
 
@@ -99,7 +99,7 @@ Each suit contains four court cards representing **elemental personalities** or 
 | **Knight** (or Prince in Thoth) | Air of Element | Movement, quest, dynamic action | Youthful masculine, volatile |
 | **Page** (or Princess in Thoth) | Earth of Element | Learning, embodiment, grounding | Youthful feminine, potential |
 
-**Enochian Correspondence:** The 16 Court Cards map directly to the 16 sub-angles of The Four Watchtowers in Enochian magic (DuQuette 2008, Ch. 26).
+**Enochian Correspondence:** The 16 Court Cards map directly to the 16 sub-angles of The Four Watchtowers in Enochian magic [^7] (DuQuette 2008, Ch. 26).
 
 ### The Numbered Cards (40 Total)
 
@@ -196,13 +196,13 @@ Each card exists simultaneously in all four worlds, though its primary expressio
 - Still primarily used for gaming, but esoteric interpretations began emerging
 
 **18th Century: The Occult Revival**
-- **Antoine Court de Gébelin** (1781) published *Le Monde Primitif*, claiming Tarot encoded ancient Egyptian wisdom (false, but influential)
-- **Jean-Baptiste Alliette (Etteilla)** (1791) created the first divination-specific Tarot deck
+- **Antoine Court de Gébelin** (1781) published *Le Monde Primitif*, claiming Tarot encoded ancient Egyptian wisdom (false, but influential) [^1]
+- **Jean-Baptiste Alliette (Etteilla)** (1791) created the first divination-specific Tarot deck [^2]
 - Tarot's association with **fortune-telling** solidified
 
 ### The Qabalistic Turn: Éliphas Lévi (1854)
 
-**Éliphas Lévi** (*Dogme et Rituel de la Haute Magie*, 1854–1856) made the **revolutionary claim** (Waite 1910 cites Lévi):
+**Éliphas Lévi** (*Dogme et Rituel de la Haute Magie*, 1854–1856) made the **revolutionary claim** [^3] (Waite 1910 cites Lévi):
 - The 22 Major Arcana correspond to the **22 Hebrew letters**
 - The Tarot encodes the Qabalistic Tree of Life
 - Each trump is a **Path** connecting Sephiroth
@@ -227,11 +227,11 @@ Each card exists simultaneously in all four worlds, though its primary expressio
 
 **1. Rider-Waite-Smith (RWS, 1909)**
 - **Creators:** Arthur Edward Waite (occultist), Pamela Colman Smith (artist) (Waite 1910)
-- **Innovation:** First deck to illustrate **all 78 cards** with scenic imagery (previous decks only illustrated trumps and courts) (Wang 1983, p. 19)
+- **Innovation:** First deck to illustrate **all 78 cards** with scenic imagery (previous decks only illustrated trumps and courts) [^4] (Wang 1983, p. 19)
 - **Style:** Accessible, symbolic, Christian-mystical overtones (Waite 1910)
 - **Influence:** Most widely used deck; template for hundreds of modern variants (De Angeles 2006)
 - **Strengths:** Intuitive imagery, strong for beginners (De Angeles 2006)
-- **Limitations:** Waite sanitized some Qabalistic elements (e.g., softened [[The Devil (XV)]]) (Wang 1983, p. 20)
+- **Limitations:** Waite sanitized some Qabalistic elements (e.g., softened [[The Devil (XV)]]) [^5] (Wang 1983, p. 20)
 
 **2. Thoth Tarot (1969)**
 - **Creators:** Aleister Crowley (occultist), Lady Frieda Harris (artist) (Wang 1983 cites Crowley)
@@ -672,6 +672,18 @@ Tarot does not predict a fixed future—it **illuminates the present** with such
 ---
 
 *"The Tarot is not a book of answers—it is a book of questions. Each card asks: 'Who are you in this moment? What are you avoiding? What have you forgotten?' The Fool does not seek the World—he becomes it, step by step, card by card, death by death, rebirth by rebirth. To read the Tarot is to read yourself. To master the Tarot is to know that there is no mastery—only the endless, sacred unfolding of the soul returning home."*
+
+---
+
+## Footnotes
+
+[^1]: Wang, Robert, *The Qabalistic Tarot* (Samuel Weiser, 1983), pp. 11-15 — Court de Gebelin's 1781 claim of Egyptian origins in *Le Monde Primitif*
+[^2]: Wang, Robert, *The Qabalistic Tarot* (Samuel Weiser, 1983), pp. 11-15 — Etteilla's 1791 creation of the first divination-specific Tarot deck
+[^3]: Waite, Arthur Edward, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — Levi's 1854-1856 mapping of the 22 Major Arcana to the 22 Hebrew letters
+[^4]: Wang, Robert, *The Qabalistic Tarot* (Samuel Weiser, 1983), p. 19 — RWS as first deck to illustrate all 78 cards with scenic imagery
+[^5]: Wang, Robert, *The Qabalistic Tarot* (Samuel Weiser, 1983), p. 20 — Waite's sanitization of certain Qabalistic elements in the RWS deck
+[^6]: Wang, Robert, *The Qabalistic Tarot* (Samuel Weiser, 1983), p. 85 — Golden Dawn swap of Strength (VIII) and Justice (XI) to align with zodiacal order
+[^7]: DuQuette, Lon Milo, *Enochian Vision Magick* (Weiser Books, 2008), Ch. 26 — Court Card correspondence to the 16 sub-angles of the Enochian Watchtowers
 
 ---
 

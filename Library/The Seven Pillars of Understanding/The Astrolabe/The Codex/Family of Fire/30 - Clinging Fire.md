@@ -60,15 +60,15 @@ The alchemical image is **Calcinatio**—the burning away of all that is not ess
 
 ### The Hexagram (I-Ching)
 
-Hexagram 30, *Lí* (The Clinging / Radiance), is the only hexagram besides 1, 2, 29, and 61 that is composed of the same trigram doubled—pure Fire above and below. This creates the image of brilliance sustained, but also dependency revealed: fire cannot exist without fuel. The clinging is not weakness but necessity. Wilhelm's teaching emphasizes care and perseverance—the fire must be tended to remain bright. The Nuclear Hexagram is 28 (Preponderance of the Great), revealing that beneath desire lies the risk of overwhelm—clinging can become consuming if not balanced with awareness.
+Hexagram 30, *Lí* (The Clinging / Radiance), is the only hexagram besides 1, 2, 29, and 61 that is composed of the same trigram doubled—pure Fire above and below.[^1] This creates the image of brilliance sustained, but also dependency revealed: fire cannot exist without fuel. The clinging is not weakness but necessity. Wilhelm's teaching emphasizes care and perseverance—the fire must be tended to remain bright. The Nuclear Hexagram is 28 (Preponderance of the Great), revealing that beneath desire lies the risk of overwhelm—clinging can become consuming if not balanced with awareness.
 
 ### The Gate (Human Design)
 
-Gate 30 in the Solar Plexus governs the capacity to feel deeply and desire intensely. Ra Uru Hu taught this gate as the recognition that "freedom is an illusion and limitation is fate"—we are bound by what we desire, and this bondage is what makes us human. When connected to Gate 41 in the Root, the 30-41 Channel creates *Recognition (Fantasy)*—emotional desire meets initiating pressure, creating the drive to begin new experiential cycles. The shadow: insatiable craving, addiction to intensity, burnout from chasing desire. The gift: lightness, feeling deeply without being consumed. The teaching: desire is not the enemy; unconscious desire is.
+Gate 30 in the Solar Plexus governs the capacity to feel deeply and desire intensely. Ra Uru Hu taught this gate as the recognition that "freedom is an illusion and limitation is fate"—we are bound by what we desire, and this bondage is what makes us human.[^2] When connected to Gate 41 in the Root, the 30-41 Channel creates *Recognition (Fantasy)*—emotional desire meets initiating pressure, creating the drive to begin new experiential cycles. The shadow: insatiable craving, addiction to intensity, burnout from chasing desire. The gift: lightness, feeling deeply without being consumed. The teaching: desire is not the enemy; unconscious desire is.
 
 ### The Gene Keys
 
-- **Shadow: Desire** — Insatiable craving, clinging compulsively to experience, suffering through attachment. The Shadow manifests as addiction (to substances, intensity, relationship, achievement), the endless hunger that no satisfaction can fill. Desire becomes treadmill: achieving one goal immediately reveals another lack. This is the consumer who never has enough, the romantic who serial-bonds seeking the next high, the seeker who collects experiences but never integrates them. The wound: believing that fulfillment exists outside the self.
+- **Shadow: Desire**[^3] — Insatiable craving, clinging compulsively to experience, suffering through attachment. The Shadow manifests as addiction (to substances, intensity, relationship, achievement), the endless hunger that no satisfaction can fill. Desire becomes treadmill: achieving one goal immediately reveals another lack. This is the consumer who never has enough, the romantic who serial-bonds seeking the next high, the seeker who collects experiences but never integrates them. The wound: believing that fulfillment exists outside the self.
 
 - **Gift: Lightness** — Feeling deeply without being consumed; accepting desire as fate without despair. Lightness recognizes that we are bound by wanting, and this recognition creates freedom *within* limitation. The gift is the lover who desires passionately while knowing all unions are temporary, the practitioner who commits fully to practice while accepting that mastery is endless, the person who feels intensely while holding feelings lightly. Lightness is not detachment but *aware engagement*—clinging with eyes open.
 
@@ -141,6 +141,13 @@ Another Shadow trap: spiritual bypassing of desire. Using "non-attachment" teach
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 30 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 30 mechanics, Solar Plexus
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Desire / Lightness / Rapture
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 30: The Clinging Fire

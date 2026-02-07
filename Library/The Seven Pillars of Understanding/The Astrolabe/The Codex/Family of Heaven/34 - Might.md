@@ -60,15 +60,15 @@ Might teaches that **power is only great when it serves**. Undirected power is m
 
 ### The Hexagram (I-Ching)
 
-Thunder above Heaven—the image of tremendous energetic force. The Image: *"Thunder in heaven above: The image of the Power of the Great. Thus the superior man does not tread upon paths that do not accord with established order."* Power is only great when it serves order, common good, and rightness. The ram must know when to butt and when to rest.
+Thunder above Heaven—the image of tremendous energetic force. The Image: *"Thunder in heaven above: The image of the Power of the Great. Thus the superior man does not tread upon paths that do not accord with established order."*[^1] Power is only great when it serves order, common good, and rightness. The ram must know when to butt and when to rest.
 
 ### The Gate (Human Design)
 
-Gate 34 resides in the Sacral Center, the motor of pure life-force. This is **power without agenda**—simply the energy of being alive, having the capacity to act. The Integration/Centering Circuit means this power empowers **through example of what becomes possible** when one is fully alive and aligned. This is not leadership—this is presence.
+Gate 34 resides in the Sacral Center, the motor of pure life-force.[^2] This is **power without agenda**—simply the energy of being alive, having the capacity to act. The Integration/Centering Circuit means this power empowers **through example of what becomes possible** when one is fully alive and aligned. This is not leadership—this is presence.
 
 ### The Gene Keys
 
-**Shadow: Force** — Power used destructively. Bullying, domination, momentum without direction. Exhausting energy without purpose, becoming busy without productivity.
+**Shadow: Force**[^3] — Power used destructively. Bullying, domination, momentum without direction. Exhausting energy without purpose, becoming busy without productivity.
 
 **Gift: Strength** — Power used to empower. The capacity to act decisively when action is correct, to defend what matters, to create safety and possibility through aligned force.
 
@@ -138,6 +138,13 @@ The conditioning pattern: "I must prove my power" or "Strength means domination.
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 34 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 34 mechanics, Sacral
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Force / Strength / Majesty
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 34: The Power of the Great

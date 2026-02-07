@@ -60,15 +60,15 @@ The alchemical image is *Separatio*—the stage where unlike elements must be di
 
 ### The Hexagram (I-Ching)
 
-Hexagram 38, *Kuei* (Opposition), places Fire above Mountain—divergent energies moving in opposition. The hexagram's structure shows the two trigrams pulling apart: Fire moves up, Mountain (as Earth's stillness) remains grounded. Wilhelm's Judgment: "OPPOSITION. In small matters, good fortune." The teaching is humility: opposition cannot be resolved through grand gestures or force of will, only through careful attention to small opportunities for alignment. The Image: "Above, fire; below, the lake. The image of OPPOSITION. Thus amid all fellowship the superior man retains his individuality." The superior one does not sacrifice selfhood for harmony but finds a way to remain distinct within relationship.
+Hexagram 38, *Kuei* (Opposition), places Fire above Mountain—divergent energies moving in opposition.[^1] The hexagram's structure shows the two trigrams pulling apart: Fire moves up, Mountain (as Earth's stillness) remains grounded. Wilhelm's Judgment: "OPPOSITION. In small matters, good fortune." The teaching is humility: opposition cannot be resolved through grand gestures or force of will, only through careful attention to small opportunities for alignment. The Image: "Above, fire; below, the lake. The image of OPPOSITION. Thus amid all fellowship the superior man retains his individuality." The superior one does not sacrifice selfhood for harmony but finds a way to remain distinct within relationship.
 
 ### The Gate (Human Design)
 
-Gate 38 in the Root governs the pressure to fight—not as pathology but as the fuel required to maintain individual integrity against collective homogenization. Ra Uru Hu taught that this gate carries "the struggle to find meaning"—the warrior who will not surrender unique truth even when the collective demands conformity. When connected to Gate 28 in the Spleen, the 38-28 Channel creates *Struggle*—the instinct to fight for what matters, risking survival itself for purpose. Without Gate 28, Gate 38 experiences pressure without direction; without Gate 38, Gate 28 lacks fuel for the fight. The challenge: to honor the struggle without becoming addicted to it, to fight *for* something rather than merely against.
+Gate 38 in the Root governs the pressure to fight—not as pathology but as the fuel required to maintain individual integrity against collective homogenization. Ra Uru Hu taught that this gate carries "the struggle to find meaning"—the warrior who will not surrender unique truth even when the collective demands conformity.[^2] When connected to Gate 28 in the Spleen, the 38-28 Channel creates *Struggle*—the instinct to fight for what matters, risking survival itself for purpose. Without Gate 28, Gate 38 experiences pressure without direction; without Gate 38, Gate 28 lacks fuel for the fight. The challenge: to honor the struggle without becoming addicted to it, to fight *for* something rather than merely against.
 
 ### The Gene Keys
 
-- **Shadow: Struggle** — The collapse into endless opposition for its own sake; fighting becomes identity rather than necessity. Struggle as exhausting, joyless repetition—the person who creates conflict in every situation because they do not know who they are without resistance. The Shadow is the martyr, the perpetual underdog, the one addicted to battle because peace feels like death.
+- **Shadow: Struggle**[^3] — The collapse into endless opposition for its own sake; fighting becomes identity rather than necessity. Struggle as exhausting, joyless repetition—the person who creates conflict in every situation because they do not know who they are without resistance. The Shadow is the martyr, the perpetual underdog, the one addicted to battle because peace feels like death.
 
 - **Gift: Perseverance** — The capacity to continue fighting *for meaning* even when the collective resists. Perseverance is not stubbornness but fierce commitment to truth as individually discovered. The gift knows when to fight and when to yield, but never yields on what is essential. This is the artist who refuses to compromise vision, the scientist who pursues unpopular research, the person who will not betray their nature for acceptance.
 
@@ -141,6 +141,13 @@ Another Shadow trap: surrender disguised as maturity. If the struggle has been t
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 38 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 38 mechanics, Root
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Struggle / Perseverance / Honor
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 38: Opposition

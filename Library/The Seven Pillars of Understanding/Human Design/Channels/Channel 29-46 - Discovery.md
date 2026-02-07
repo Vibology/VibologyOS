@@ -20,7 +20,7 @@ source_verified: Esoteric Grimoire
 
 ---
 ## Ra's Definition
-According to Ra Uru Hu, the **Channel of Discovery** is one of the three **Tantric channels**—channels that connect the Sacral directly to the G Center, creating a bridge between **life-force energy** and **spiritual direction**. This channel embodies the principle of **succeeding where others fail** through sheer **commitment, perseverance, and serendipity**.
+According to Ra Uru Hu, the **Channel of Discovery** is one of the three **Tantric channels**—channels that connect the Sacral directly to the G Center[^1], creating a bridge between **life-force energy** and **spiritual direction**. This channel embodies the principle of **succeeding where others fail** through sheer **commitment, perseverance, and serendipity**[^2].
 
 Ra taught that this channel is fundamentally about **saying "yes" to experience**—not cautiously, not strategically, but **wholeheartedly**. The individual with this channel discovers their purpose not through planning or logic, but through **committed engagement with life** and the serendipitous discoveries that emerge from total dedication.
 
@@ -36,12 +36,12 @@ The keynote here is **determination through commitment**—the capacity to persi
 | **Channel Number** | 29-46 |
 | **Channel Name** | Discovery / Succeeding Where Others Fail |
 | **Centers** | Sacral ↔ G (Identity) |
-| **Circuitry** | Collective (Sensing/Abstract Circuit) |
-| **Type** | Generated (Tantric—one of three Sacral-G connections) |
+| **Circuitry** | Collective (Sensing/Abstract Circuit)[^3] |
+| **Type** | Generated (Tantric—one of three Sacral-G connections)[^4] |
 | **Keynote** | Succeeding Where Others Fail / Serendipity Through Commitment |
 | **Function** | To discover purpose through committed perseverance and experience |
 | **Gates** | Gate 29 (The Abysmal/Perseverance), Gate 46 (Pushing Upward/Determination of Self) |
-| **Biology** | Sacral (life-force, sexual energy), liver/magnetic monopole (direction, identity) |
+| **Biology** | Sacral (life-force, sexual energy), liver/magnetic monopole (direction, identity)[^5] |
 | **Electromagnetic Theme** | Life-force energy channeled into committed pursuit of identity and purpose |
 | **Gene Keys** | Shadow: Half-Heartedness/Seriousness → Gift: Commitment/Delight → Siddhi: Devotion/Ecstasy |
 | **Not-Self Pattern** | Half-hearted commitment, quitting before discovery, saying "yes" without Sacral response |
@@ -452,6 +452,14 @@ This is the essence of the Tantric channels: **the life-force energy reveals ide
 - Defined vs. Undefined Centers — Understanding fixed vs. variable commitment energy
 - The 7-Year Deconditioning Cycle — Returning to aligned commitment
 - Tantric Practice — Understanding Sacral-G energy and sexual/creative force
+
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 29-46 as one of three Tantric channels connecting Sacral to G Center
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel keynote: succeeding where others fail through commitment and serendipity
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 29-46 classified within the Collective Sensing (Abstract) Circuit
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Generated Tantric channel type: Sacral-to-G Center life-force fueling identity
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Biological correlations: Sacral to sexual/reproductive energy, G Center to liver and magnetic monopole
 
 ## Sources
 **Primary Source:**

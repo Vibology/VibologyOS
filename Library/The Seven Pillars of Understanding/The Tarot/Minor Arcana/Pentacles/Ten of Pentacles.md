@@ -22,11 +22,11 @@ title: Lord of Wealth
 
 ---
 ## Traditional Symbolism
-According to Waite's *Pictorial Key to the Tarot*, the Ten of Pentacles signifies **gain, riches, family matters, archives, inheritance, dwelling**. Waite describes: **"A man and woman beneath an archway which gives entrance to a house and domain. They are accompanied by a child, who looks curiously at two dogs accosting an ancient personage seated in the foreground. The child's hand is on one of them."** The upright card speaks to **wealth that endures across generations, family legacy, material success that becomes structure and permanence**.
-The Golden Dawn titles this card the **"Lord of Wealth"** and attributes it to **Mercury in Virgo**, the third decan of the mutable earth sign. This is the planet of commerce, communication, and exchange (Mercury) perfected through the sign of precision, practicality, and material mastery (Virgo). The result is **culminated material force**—wealth so established it becomes dynasty, prosperity that serves multiple generations.
+According to Waite's *Pictorial Key to the Tarot*, the Ten of Pentacles signifies **gain, riches, family matters, archives, inheritance, dwelling**. [^1] Waite describes: **"A man and woman beneath an archway which gives entrance to a house and domain. They are accompanied by a child, who looks curiously at two dogs accosting an ancient personage seated in the foreground. The child's hand is on one of them."** The upright card speaks to **wealth that endures across generations, family legacy, material success that becomes structure and permanence**.
+The Golden Dawn titles this card the **"Lord of Wealth"** [^2] and attributes it to **Mercury in Virgo** [^3], the third decan of the mutable earth sign. This is the planet of commerce, communication, and exchange (Mercury) perfected through the sign of precision, practicality, and material mastery (Virgo). The result is **culminated material force**—wealth so established it becomes dynasty, prosperity that serves multiple generations.
 The card represents **generational abundance**—not merely personal success but *legacy*. This is the family business passed from parent to child, the estate that shelters generations, the wealth stewarded wisely so it endures. This is not the self-made prosperity of the Nine (solitary garden) but the Ten—abundance shared across time, structures that outlast the individual.
 This is a profoundly auspicious card in questions of family wealth, inheritance, real estate, or long-term security. It indicates that material success is not merely achieved but *established*—built into structures (home, business, trust) that will serve beyond your lifetime. The Ten promises permanence: what you build now will shelter those who come after.
-When the Ten of Pentacles appears **reversed**, Waite identifies meanings of **chance, fatality, loss, robbery**. The reversal suggests the dynasty collapses, the inheritance is squandered or stolen, the family system breaks down, or the burden of legacy becomes oppressive. The Golden Dawn reversal indicates "wealth lost through mismanagement; family discord; tradition that imprisons rather than supports."
+When the Ten of Pentacles appears **reversed**, Waite identifies meanings of **chance, fatality, loss, robbery**. [^4] The reversal suggests the dynasty collapses, the inheritance is squandered or stolen, the family system breaks down, or the burden of legacy becomes oppressive. The Golden Dawn reversal indicates "wealth lost through mismanagement; family discord; tradition that imprisons rather than supports." [^5]
 The key teaching: **True wealth serves generations**. The Ten of Pentacles invites you to think beyond your individual lifespan—to build structures that will endure, to steward abundance as covenant (received, built upon, passed forward), to recognize that the highest form of material success is that which nourishes those who come after you.
 ---
 
@@ -207,6 +207,14 @@ The teaching: True dynasty is not control but covenant. You build not to possess
 
 ---
 *"The truest wealth is not counted in coins, but in the generations that thrive because you tended the garden."*
+
+## Footnotes
+
+[^1]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meaning for the Ten of Pentacles.
+[^2]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Lord of Wealth" for the Ten of Pentacles.
+[^3]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Mercury in Virgo decan attribution for the Ten of Pentacles.
+[^4]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meaning for the Ten of Pentacles.
+[^5]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn reversal interpretation for the Ten of Pentacles.
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

@@ -60,15 +60,15 @@ The alchemical image is *Prima Materia in its pure state*—the original substan
 
 ### The Hexagram (I-Ching)
 
-Hexagram 25, *Wu Wang* (Innocence), places Heaven above Wind—the Creative force expressed through gentle persistence. The Chinese title 無妄 means "without falsehood" or "no error"—action that proceeds from truth rather than pretense. Wilhelm's Judgment makes a stark claim: innocence has supreme success; deviation from innocence brings misfortune. The teaching: the universe supports what is genuine, opposes what is false. The Image links innocence to *timeliness*—the kings who act "in harmony with the time" because they are not imposing personal will but responding to what the moment requires.
+Hexagram 25, *Wu Wang* (Innocence), places Heaven above Wind—the Creative force expressed through gentle persistence.[^1] The Chinese title 無妄 means "without falsehood" or "no error"—action that proceeds from truth rather than pretense. Wilhelm's Judgment makes a stark claim: innocence has supreme success; deviation from innocence brings misfortune. The teaching: the universe supports what is genuine, opposes what is false. The Image links innocence to *timeliness*—the kings who act "in harmony with the time" because they are not imposing personal will but responding to what the moment requires.
 
 ### The Gate (Human Design)
 
-Gate 25 in the G Center governs alignment with universal will—what Ra Uru Hu called "the spirit of the self moving in perfect harmony with its environment." This is not ego achievement but *ego surrender*: when the small self ceases striving and allows Higher Self to move through it, action becomes effortless and correct. When connected to Gate 51 in the Heart, the 25-51 Channel creates *Initiation*—the shaman's path where ego-death (often through shock) births direct contact with spirit. The challenge: to trust that surrender to higher will is more powerful than personal control, that innocence is strength rather than weakness.
+Gate 25 in the G Center governs alignment with universal will—what Ra Uru Hu called "the spirit of the self moving in perfect harmony with its environment.[^2]" This is not ego achievement but *ego surrender*: when the small self ceases striving and allows Higher Self to move through it, action becomes effortless and correct. When connected to Gate 51 in the Heart, the 25-51 Channel creates *Initiation*—the shaman's path where ego-death (often through shock) births direct contact with spirit. The challenge: to trust that surrender to higher will is more powerful than personal control, that innocence is strength rather than weakness.
 
 ### The Gene Keys
 
-- **Shadow: Constriction** — The collapse into ego control; clinging to personal agenda despite signals that the universe is asking for something else. Constriction is the refusal to flow—the person who forces outcomes, who cannot adapt, who experiences life as constant battle because they are swimming against the current. The Shadow is ego inflation masking as strength: "I know best" despite all evidence to the contrary.
+- **Shadow: Constriction**[^3] — The collapse into ego control; clinging to personal agenda despite signals that the universe is asking for something else. Constriction is the refusal to flow—the person who forces outcomes, who cannot adapt, who experiences life as constant battle because they are swimming against the current. The Shadow is ego inflation masking as strength: "I know best" despite all evidence to the contrary.
 
 - **Gift: Acceptance** — The capacity to surrender personal agenda and *accept what-is* as the starting point for right action. Acceptance is not passivity but alignment—releasing the need to control how things should be so that you can respond skillfully to how things are. The gift recognizes that the universe has its own intelligence, that Higher Will often knows better than ego will, that cooperating with reality is more effective than resisting it.
 
@@ -141,6 +141,13 @@ Another Shadow trap: passive surrender to circumstance. If ego control has faile
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 25 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 25 mechanics, G Center
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Constriction / Acceptance / Universal Love
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 25: Innocence

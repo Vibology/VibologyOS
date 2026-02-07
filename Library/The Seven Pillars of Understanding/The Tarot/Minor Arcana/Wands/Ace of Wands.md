@@ -20,17 +20,17 @@ title: Root of the Powers of Fire
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, the Ace of Wands signifies **creation, invention, enterprise, the powers which result in these; principle, beginning, source**. It can also indicate, per Waite, "money, fortune, inheritance." When the Ace of Wands appears upright, it speaks to the realm of pure creative potential—the moment when divine fire descends into the world and announces: *Begin*.
+According to Waite's *Pictorial Key to the Tarot*, the Ace of Wands signifies **creation, invention, enterprise, the powers which result in these; principle, beginning, source**.[^1] It can also indicate, per Waite, "money, fortune, inheritance." When the Ace of Wands appears upright, it speaks to the realm of pure creative potential—the moment when divine fire descends into the world and announces: *Begin*.
 
-The Golden Dawn titles this card the **"Root of the Powers of Fire"** and attributes it to **Kether in Atziluth**—the Crown (source of all emanation) expressing through the World of Pure Spirit. This is Fire before it becomes flame—the *principle* of combustion, not the combustion itself. It is the spark that contains the entire inferno, the seed that holds the forest.
+The Golden Dawn titles this card the **"Root of the Powers of Fire"**[^2] and attributes it to **Kether in Atziluth**—the Crown (source of all emanation) expressing through the World of Pure Spirit. This is Fire before it becomes flame—the *principle* of combustion, not the combustion itself. It is the spark that contains the entire inferno, the seed that holds the forest.
 
 The card represents the **primordial impulse to create**. It is not the created thing, but the *will to create*—the moment before action, the intake of breath before the shout, the cocked arm before the throw. All Aces represent the pure essence of their element in potential form, but the Ace of Wands is uniquely *initiatory*. It does not wait; it does not hesitate. When the Ace of Wands appears, the creative force is *available now*—and it will not remain available indefinitely. Fire consumes its fuel.
 
 This is a profoundly favorable card in questions of beginning, launching, creating, and initiating. It indicates that the energy required to start something new is present—the universe is offering you the match, the tinder is dry, and the conditions are right for ignition. However, the card demands *action*. The Ace of Wands does not sustain; it only initiates. If you do not channel this energy into form quickly, it will disperse or turn destructive.
 
-When the Ace of Wands appears **reversed**, Waite identifies **fall, decadence, ruin, perdition, to perish**—with the additional note: "a certain matter, also a card of birth, having to do with certain consequences." The reversed Ace speaks to creative energy that has turned inward or soured—inspiration that was not acted upon and has now curdled into frustration, regret, or self-destruction. The spark that should have ignited a creative fire instead consumes the bearer from within.
+When the Ace of Wands appears **reversed**, Waite identifies **fall, decadence, ruin, perdition, to perish**[^3]—with the additional note: "a certain matter, also a card of birth, having to do with certain consequences." The reversed Ace speaks to creative energy that has turned inward or soured—inspiration that was not acted upon and has now curdled into frustration, regret, or self-destruction. The spark that should have ignited a creative fire instead consumes the bearer from within.
 
-The Golden Dawn reversal suggests "force in too violent or too weak a form." This is crucial: the reversed Ace of Wands can manifest as either *too much fire* (manic destructiveness, impulsive recklessness, arson rather than forging) or *too little fire* (the spark dies before catching, the inspiration is stillborn, the creative impulse is aborted through fear or inertia). Either way, the generative potential is wasted.
+The Golden Dawn reversal suggests "force in too violent or too weak a form."[^4] This is crucial: the reversed Ace of Wands can manifest as either *too much fire* (manic destructiveness, impulsive recklessness, arson rather than forging) or *too little fire* (the spark dies before catching, the inspiration is stillborn, the creative impulse is aborted through fear or inertia). Either way, the generative potential is wasted.
 
 The key teaching: **The Ace of Wands is an offer, not a guarantee**. The creative force descends—but you must seize it, shape it, direct it. If you do not, the energy dissipates or turns against you. Fire does not wait.
 
@@ -360,6 +360,13 @@ The Ace of Wands teaches: **You are not the source, but you are the instrument.*
 ---
 
 *"All creation begins with a single spark—and the courage to let it catch fire."*
+
+## Footnotes
+
+[^1]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meanings for the Ace of Wands
+[^2]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Root of the Powers of Fire" and Kether in Atziluth attribution for the Ace of Wands
+[^3]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meanings for the Ace of Wands
+[^4]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn reversal interpretation for the Ace of Wands
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

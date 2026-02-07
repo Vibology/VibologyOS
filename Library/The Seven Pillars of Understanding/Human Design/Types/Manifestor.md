@@ -17,13 +17,13 @@ verification_notes: "Individual verification complete. Core mechanics (Motor-to-
 # Manifestor: The Initiator
 
 ## Ra's Definition
-The Manifestor possesses a **direct or indirect connection** between the [[Throat]] and one or more of the three motor centers ([[Heart]], [[Solar Plexus]], or [[Root]]), while conspicuously **lacking Sacral definition**. This mechanical configuration creates the only "pure doer" in the Human Design system—a being designed to initiate action without requiring external permission or response.
+The Manifestor possesses a **direct or indirect connection** between the [[Throat]] and one or more of the three motor centers ([[Heart]], [[Solar Plexus]], or [[Root]]), while conspicuously **lacking Sacral definition**.[^1] This mechanical configuration creates the only "pure doer" in the Human Design system—a being designed to initiate action without requiring external permission or response.
 
 ---
 
 ## Aura Mechanics
 
-The Manifestor's aura is **closed and repelling**, a protective energetic field that pushes outward rather than draws inward. This is not rejection but boundary: the aura serves to maintain independence and protect the Manifestor's capacity for autonomous action.
+The Manifestor's aura is **closed and repelling**,[^2] a protective energetic field that pushes outward rather than draws inward. This is not rejection but boundary: the aura serves to maintain independence and protect the Manifestor's capacity for autonomous action.
 
 Where the [[Generator]]'s aura envelops and draws life toward it, the Manifestor's aura announces: *I am here. I am moving. Make way.*
 
@@ -67,7 +67,7 @@ The Manifestor's Authority determines *what* they initiate; the Strategy determi
 
 ## Not-Self Theme: Anger
 
-**Anger** is the crystallized shadow of the uninformed Manifestor. It arises when:
+**Anger** is the crystallized shadow of the uninformed Manifestor.[^3] It arises when:
 - They are controlled or restricted
 - They meet resistance they did not anticipate
 - They are punished for initiating without informing
@@ -88,7 +88,7 @@ The Manifestor's journey is learning to **transform anger into peace** through c
 
 ## Signature: Peace
 
-**Peace** is the Manifestor's true north—a state of calm sovereignty achieved when they:
+**Peace** is the Manifestor's true north[^5]—a state of calm sovereignty achieved when they:
 - Inform before initiating
 - Follow their inner Authority
 - Accept their impact without apology
@@ -110,7 +110,7 @@ Peace is not passivity. It is the **absence of resistance**, both internal and e
 
 ## Population: ~9%
 
-Manifestors are the rarest of the energy Types (with [[Reflector]]s being the only smaller group). Their scarcity often creates:
+Manifestors are the rarest of the energy Types (~9% of the population),[^4] with [[Reflector]]s being the only smaller group. Their scarcity often creates:
 - Misunderstanding in a Generator-dominated world
 - Conditioning to "wait" or "ask permission" (counter to their design)
 - Isolation when they cannot find environments that honor their autonomy
@@ -146,6 +146,14 @@ The Manifestor's minority status is not accidental—their role is to **initiate
 ---
 
 *The Manifestor is the lightning strike—sudden, powerful, and impossible to predict. Their gift to the world is initiation itself: the courage to begin without waiting for permission, the clarity to move when inner truth calls, and the peace that comes from informing the world of their sovereign intent.*
+
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Manifestor defined by motor-to-Throat connection without Sacral definition
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Manifestor aura described as closed and repelling
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Anger as the Manifestor's Not-Self Theme
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Manifestors comprise approximately 9% of the population
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Peace as the Manifestor's Signature, confirming correct Strategy
 
 ## Sources
 

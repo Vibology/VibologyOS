@@ -23,7 +23,7 @@ The Shape represents the archetypal **collective shadow**—the silent, indestru
 
 The Shape is not individual person but **existential fact made visible**—the one who came home, who walks among us, who cannot be stopped because he is not your shadow but death itself. Michael Myers in the white mask is not human but **archetypal presence**: the killer who doesn't speak, doesn't hurry, doesn't explain, only returns. Again. And again. Not as invitation to integration but as **reminder of what exceeds human control**.
 
-In Jung's framework, The Shape corresponds to what Jung called **the objective psyche**—the layer of the unconscious that is not personal but collective, not acquired but inherited, not reducible to individual experience but shared by all humanity. Jung recognized that not all darkness is personal shadow waiting for integration; some represents transpersonal realities—death, entropy, the limits of consciousness—that must be acknowledged rather than absorbed.
+In Jung's framework, The Shape corresponds to what Jung called **the objective psyche**—the layer of the unconscious that is not personal but collective, not acquired but inherited, not reducible to individual experience but shared by all humanity.[^1] Jung recognized that not all darkness is personal shadow waiting for integration; some represents transpersonal realities—death, entropy, the limits of consciousness—that must be acknowledged rather than absorbed.
 
 The Shape appears when **the unassimilable manifests**, when you encounter what cannot be psychologized away, when the question becomes: "What am I trying to integrate that should instead be recognized, bounded, and met with ethical clarity?" This is the archetype of the irreducible.
 
@@ -56,9 +56,9 @@ John Carpenter deliberately called him "The Shape" in the script—not character
 
 ### Personal vs Collective Shadow
 
-Jung's crucial distinction: **personal shadow** consists of unlived personal potential—aspects of yourself denied, repressed, or unacknowledged. Personal shadow invites integration; working with it expands consciousness and wholeness.
+Jung's crucial distinction:[^2] **personal shadow** consists of unlived personal potential—aspects of yourself denied, repressed, or unacknowledged. Personal shadow invites integration; working with it expands consciousness and wholeness.
 
-**Collective shadow** consists of transpersonal darkness—death, evil, entropy as cosmic facts. These are not yours to integrate but to acknowledge. The danger is moral inflation: believing all darkness is personal work, attempting to "own" metaphysical realities, losing ethical discernment.
+**Collective shadow** consists of transpersonal darkness—death, evil, entropy as cosmic facts. These are not yours to integrate but to acknowledge. The danger is moral inflation: believing all darkness is personal work, attempting to "own" metaphysical realities, losing ethical discernment.[^3]
 
 The Shape teaches: **some darkness is not yours**. You are not reducible to death, entropy, or predation. These exist as facts of reality, but they are not you. Wisdom is knowing the difference.
 
@@ -96,6 +96,13 @@ The Shape teaches: **some darkness is not yours**. You are not reducible to deat
 - [[The Shadow]] — Jungian archetypal framework (Personal Mythos)
 - [[Pluto ♇]] — Planetary ruler of Scorpio; death and rebirth
 - [[Confrontation with Shadow]] — Distinguishing personal from collective
+
+---
+## Footnotes
+
+[^1]: Jung, *Aion* (CW 9ii, Princeton, 1959) — the shadow and the problem of evil; objective psyche (§13-19)
+[^2]: Jung, *Civilization in Transition* (CW 10, Princeton, 1964) — personal vs collective shadow in psychology (§572-585)
+[^3]: Neumann, *Depth Psychology and a New Ethic* (Shambhala, 1990) — scapegoat psychology and moral inflation (Chapter 3)
 
 ---
 ## Sources

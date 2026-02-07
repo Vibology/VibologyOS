@@ -21,21 +21,21 @@ title: Lord of the Waves and Waters, King of the Hosts of the Sea
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, the Knight of Cups represents **"arrival, approach—sometimes that of a messenger; advances, proposition, demeanor, invitation, incitement."** The upright meaning emphasizes: **"He is a graceful young man, but effeminate, something dreamy—one who might be easily seduced."** This is not disparagement but description: the Knight of Cups moves through the world with aesthetic sensibility rather than martial force, with romantic imagination rather than practical calculation.
+According to Waite's *Pictorial Key to the Tarot*, the Knight of Cups represents **"arrival, approach—sometimes that of a messenger; advances, proposition, demeanor, invitation, incitement."** [^1] The upright meaning emphasizes: **"He is a graceful young man, but effeminate, something dreamy—one who might be easily seduced."** This is not disparagement but description: the Knight of Cups moves through the world with aesthetic sensibility rather than martial force, with romantic imagination rather than practical calculation.
 
 The Rider-Waite-Smith image shows a knight in full armor riding a white horse at a gentle pace. Unlike the Knight of Swords (charging) or the Knight of Wands (galloping), this knight's horse walks slowly, almost meditatively. The knight holds a cup before him like a chalice, like a gift to be delivered, like a holy object in procession. His helmet bears wings (Mercury, communication, the messenger function). The landscape is peaceful—a river flows gently; no battle threatens.
 
 This is the **Grail Knight**—the romantic quester who rides not toward conquest but toward the beloved, not toward victory but toward meaning. Where the Knight of Wands seeks adventure and the Knight of Swords seeks truth, the Knight of Cups seeks *beauty*, *love*, and the *numinous*.
 
-The Golden Dawn titles this card the **"Lord of the Waves and Waters, King of the Hosts of the Sea"**—a title that emphasizes sovereignty over the emotional realm. The "Hosts of the Sea" evokes the countless creatures of the deep: the emotions, intuitions, fantasies, and dreams that populate the unconscious. The Knight has become their *lord*—not through domination but through *understanding*. He can navigate these waters; he knows their currents.
+The Golden Dawn titles this card the **"Lord of the Waves and Waters, King of the Hosts of the Sea"** [^2]—a title that emphasizes sovereignty over the emotional realm. The "Hosts of the Sea" evokes the countless creatures of the deep: the emotions, intuitions, fantasies, and dreams that populate the unconscious. The Knight has become their *lord*—not through domination but through *understanding*. He can navigate these waters; he knows their currents.
 
-The Golden Dawn tradition emphasizes that the Knight of Cups is **"graceful, poetic, venusian, indolent, but very easily led"**—a characterization that identifies both the Knight's gifts (grace, poetry, sensitivity) and vulnerabilities (passivity, susceptibility to influence). The Knight moves beautifully through emotional terrain but may lack the grounding to resist manipulation or the will to complete difficult journeys.
+The Golden Dawn tradition emphasizes that the Knight of Cups is **"graceful, poetic, venusian, indolent, but very easily led"** [^3]—a characterization that identifies both the Knight's gifts (grace, poetry, sensitivity) and vulnerabilities (passivity, susceptibility to influence). The Knight moves beautifully through emotional terrain but may lack the grounding to resist manipulation or the will to complete difficult journeys.
 
 The Knight of Cups is favorable in contexts where **romantic approach is needed**, when messages of love or invitation are arriving, when aesthetic sensitivity serves better than force, when the graceful rather than the direct path is called for. The Knight appears when something beautiful is *approaching*—a relationship, a creative opportunity, a spiritual opening. The question is: **Will you receive what is being offered?**
 
 However, the Knight also carries warnings: **idealism can become fantasy; romance can become seduction**. The reversed or shadow Knight is the smooth talker, the seducer who promises with no intention of fulfilling, the dreamer who rides eternally toward horizons he never reaches.
 
-When the Knight of Cups appears **reversed**, Waite identifies: **"Trickery, artifice, subtlety, swindling, duplicity, fraud."** The reversal darkens the romantic approach into manipulation. The cup that seemed offered in love is actually a trap. The graceful demeanor conceals self-serving intent. The reversed Knight can manifest as:
+When the Knight of Cups appears **reversed**, Waite identifies: **"Trickery, artifice, subtlety, swindling, duplicity, fraud."** [^4] The reversal darkens the romantic approach into manipulation. The cup that seemed offered in love is actually a trap. The graceful demeanor conceals self-serving intent. The reversed Knight can manifest as:
 - **The seducer**: One who uses romantic language and emotional intelligence to manipulate
 - **The con artist of the heart**: Promises of love or beauty that are never meant to be kept
 - **Perpetual pursuit without arrival**: The endless romantic who is always "falling in love" but never *being* in love
@@ -242,6 +242,13 @@ When the Knight of Cups emerges in reading or contemplation, consider:
 ---
 
 *"The Knight does not demand your heart—he simply shows you his, and waits to see if yours responds."*
+
+## Footnotes
+
+[^1]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meaning for the Knight of Cups.
+[^2]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title for the Knight of Cups.
+[^3]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn characterization of the Knight of Cups personality.
+[^4]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meaning for the Knight of Cups.
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

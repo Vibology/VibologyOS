@@ -13,7 +13,7 @@ category: Stages
 ---
 ## Core Teaching
 
-**The Eight Boughs of Ascent** are the core teaching of [[Mary Magdalene - Apostle and Beloved|Mary Magdalene]] as revealed in **The Gospel of the Beloved Companion** (Chapter 42)—a visionary text that preserves her instruction to the disciples on the soul's vertical journey from material bondage to divine union (de Quillan, Ch. 42).
+**The Eight Boughs of Ascent** are the core teaching of [[Mary Magdalene - Apostle and Beloved|Mary Magdalene]] as revealed in **The Gospel of the Beloved Companion** (Chapter 42)[^1]—a visionary text that preserves her instruction to the disciples on the soul's vertical journey from material bondage to divine union (de Quillan, Ch. 42).
 
 **The Structure:** The Master (Yeshua) presents a vision of a tree that exists within the self, which "does not change, summer or winter." The roots are in the earth (the body), the trunk extends through the five regions of humanity, and the crown reaches the heavens—the kingdom of the Spirit (de Quillan, Ch. 42). Unlike concentric spheres (as in traditional Gnosticism) or abstract stages, Mary presents the ascent as **climbing a Great Tree**:
 
@@ -602,7 +602,7 @@ Most souls **return**—descending the tree to serve, to teach, to bring the fru
 
 ### The Cross-Text Framework
 
-While **The Gospel of the Beloved Companion** uses the **Tree and Boughs** imagery, the **Gospel of Mary** (Nag Hammadi Library, discussed by Bourgeault) frames the ascent as passing **The Seven Powers of Wrath**. These represent the gravitational field of the "false self" or egoic attachment (Bourgeault, Ch. 5). These are complementary teachings.
+While **The Gospel of the Beloved Companion** uses the **Tree and Boughs** imagery, the **Gospel of Mary** (Nag Hammadi Library, discussed by Bourgeault) frames the ascent as passing **The Seven Powers of Wrath**. These represent the gravitational field of the "false self" or egoic attachment[^3] (Bourgeault, Ch. 5). These are complementary teachings.
 
 **The Four Great Powers** (Gospel of Mary, NHL):
 
@@ -731,14 +731,14 @@ The "voice of the world" is the **conditioned mind**—the accumulation of belie
 
 #### The Teaching
 
-In the text, Mary Magdalene asks the risen Jesus a specific technical question about the mechanics of visionary experience. Mary's Question: *"Lord, now does he who sees the vision see it through the soul or through the spirit?"* Jesus's Answer: *"He does not see through the soul nor through the spirit, but the mind [Nous] which is between the two—that is what sees the vision"* (Gospel of Mary, NHL; Bourgeault, Ch. 5).
+In the text, Mary Magdalene asks the risen Jesus a specific technical question about the mechanics of visionary experience. Mary's Question: *"Lord, now does he who sees the vision see it through the soul or through the spirit?"* Jesus's Answer: *"He does not see through the soul nor through the spirit, but the mind [Nous] which is between the two—that is what sees the vision"*[^2] (Gospel of Mary, NHL; Bourgeault, Ch. 5).
 
 **What the Nous Is:**
 
 - Greek: νοῦς (nous) - "Mind" or "Intellect," but not rational mind
 - **The organ of spiritual perception**—the *"eye of the heart"*—a *"mystical intertidal zone"* where divine spirit and human spirit completely interpenetrate (Bourgeault, Ch. 5)
 - A faculty of *"higher intelligence"* or *"integral knowing"* located between the soul and the spirit
-- A *"homing beacon"* or bridge between the visible and invisible realms (Bourgeault, Ch. 5)
+- A *"homing beacon"* or bridge between the visible and invisible realms[^4] (Bourgeault, Ch. 5)
 
 **How to Awaken the Nous:**
 
@@ -750,7 +750,7 @@ In the text, Mary Magdalene asks the risen Jesus a specific technical question a
 
 Jesus tells Mary: *"Blessed are you Mary, for you do not waver at the sight of me. How wonderful you are! For this is where the treasure lies—in... the nous"* (Gospel of Mary, NHL).
 
-Bourgeault interprets "not wavering" as the essential inner prerequisite for visionary seeing—remaining emotionally rock-steady and *"undisturbed"* by psychic excitation or craving. If the waters of the Nous are ruffled by fear or desire, the reflection of the imaginal realm is lost (Bourgeault, Ch. 5).
+Bourgeault interprets "not wavering" as the essential inner prerequisite for visionary seeing[^5]—remaining emotionally rock-steady and *"undisturbed"* by psychic excitation or craving. If the waters of the Nous are ruffled by fear or desire, the reflection of the imaginal realm is lost (Bourgeault, Ch. 5).
 
 ### 5. Shedding the Garments
 
@@ -1007,6 +1007,15 @@ The fruit of the higher boughs **nourishes** those at the lower boughs. Your cla
 
 ---
 
+## Footnotes
+
+[^1]: de Quillan, *The Gospel of the Beloved Companion* (CreateSpace, 2010), Ch. 42 — the vision of the Great Tree with eight boughs, including all fruits, guardians, and the apophatic method of ascent
+[^2]: Gospel of Mary, Berlin Gnostic Codex (BG 8502,1), 2nd century CE; Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010), Ch. 5 — the Nous teaching: spiritual perception occurs not through soul or spirit but through the nous "between the two"
+[^3]: Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010), Ch. 5 — the Seven Powers of Wrath as the "False Self System," the gravitational field of egoic attachment the soul must overcome
+[^4]: Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010), Ch. 5 — the Nous as "mystical intertidal zone," "homing beacon," and bridge between visible and invisible realms
+[^5]: Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010), Ch. 5 — "not wavering" as the prerequisite for visionary seeing, requiring emotional steadiness undisturbed by psychic excitation
+
+---
 ## Sources
 
 Bourgeault, Cynthia. *The Meaning of Mary Magdalene: Discovering the Woman at the Heart of Christianity*. Boston: Shambhala, 2010.

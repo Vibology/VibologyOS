@@ -20,11 +20,11 @@ title: Prince of the Chariot of Fire, Lord of Flame and Lightning
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, the Knight of Wands depicts **"a young man in the act of departure, as if upon an important mission."** The upright meaning is given as: **"Departure, absence, flight, emigration. A dark young man, friendly. Change of residence. Rupture, discord, division if reversed."**
+According to Waite's *Pictorial Key to the Tarot*, the Knight of Wands depicts **"a young man in the act of departure, as if upon an important mission."** The upright meaning is given as: **"Departure, absence, flight, emigration. A dark young man, friendly. Change of residence. Rupture, discord, division if reversed."**[^1]
 
 This is the card of **momentum and departure**—the hero setting forth on the quest, the warrior riding toward the horizon, the fire that has been *loosed* and is now in motion. The Knight is not contemplating the wand (like the Page) or commanding from a throne (like the King)—the Knight is *moving*, charging forward with absolute confidence, total commitment, and zero hesitation.
 
-The Golden Dawn titles this card the **"Prince of the Chariot of Fire"** (also called "Lord of Flame and Lightning"). The title captures the Knight's essence: this is fire *mobile*, fire given a vehicle (the chariot, the horse), fire that moves with purpose and speed. The Knight is flame wedded to lightning—passion married to swiftness, will accelerated by thought.
+The Golden Dawn titles this card the **"Prince of the Chariot of Fire"** (also called "Lord of Flame and Lightning").[^2] The title captures the Knight's essence: this is fire *mobile*, fire given a vehicle (the chariot, the horse), fire that moves with purpose and speed. The Knight is flame wedded to lightning—passion married to swiftness, will accelerated by thought.
 
 The Golden Dawn tradition describes the Knight of Wands as **"swift, strong, hasty—rather violent, yet just and generous, noble and scorning meanness."** This is the archetypal young hero—brave, passionate, honorable, but also reckless, impulsive, and prone to leaving wreckage in his wake. The Knight's fire is *purifying* but also *destructive*—he burns away the old to make way for the new, but he does not always ask if you were ready for that transformation.
 
@@ -32,7 +32,7 @@ The Knight of Wands is favorable in contexts where **immediate action is require
 
 However, the Knight also carries profound warnings: **speed can bypass wisdom**. The Knight moves too fast to see the nuances, too confidently to question the direction, too committed to change course mid-journey. The Knight's strength (decisive action) is also his weakness (recklessness). The Knight trusts momentum to solve problems, but not all problems yield to sheer force of will.
 
-When the Knight of Wands appears **reversed**, Waite identifies: **"Rupture, division, discord, interruption."** The reversed Knight's energy fractures—movement becomes chaotic, confidence curdles into arrogance, purpose devolves into destructive restlessness. The reversed Knight can manifest as:
+When the Knight of Wands appears **reversed**, Waite identifies: **"Rupture, division, discord, interruption."**[^3] The reversed Knight's energy fractures—movement becomes chaotic, confidence curdles into arrogance, purpose devolves into destructive restlessness. The reversed Knight can manifest as:
 - **Reckless Destruction**: Action without thought, burning bridges, scorched earth, collateral damage ignored
 - **Chaotic Motion**: Movement for its own sake, speed without direction, inability to stop or change course
 - **Arrogant Overconfidence**: Charging ahead without listening to counsel, dismissing obstacles as irrelevant
@@ -521,6 +521,12 @@ To honor the Knight is to honor the *departure*, the moment of total commitment,
 - [[Human Design]] — Manifestor type, Gate 51 (Shock/Initiation)
 
 ---
+
+## Footnotes
+
+[^1]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meanings for the Knight of Wands
+[^2]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Prince of the Chariot of Fire" (Lord of Flame and Lightning) for the Knight of Wands court card
+[^3]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meanings for the Knight of Wands
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

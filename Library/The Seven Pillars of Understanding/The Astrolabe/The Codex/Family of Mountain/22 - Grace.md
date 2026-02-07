@@ -60,15 +60,15 @@ The alchemical image is *Gold Leaf*—the precious metal beaten so thin it becom
 
 ### The Hexagram (I-Ching)
 
-Hexagram 22, *Bi* (Grace), depicts Fire at the base of the Mountain—evening light adorning the peak with color. The structure of the hexagram shows a single yin line at the top of the lower trigram, interrupting solid yang lines—a pattern that creates visual beauty through contrast. Wilhelm's Judgment: "GRACE has success. In small matters it is favorable to undertake something." Grace cannot force major transformation, but it excels in refinement, in making existing truth more approachable. The teaching: substance without beauty is crude; beauty without substance is empty. True grace unites both.
+Hexagram 22, *Bi* (Grace), depicts Fire at the base of the Mountain—evening light adorning the peak with color.[^1] The structure of the hexagram shows a single yin line at the top of the lower trigram, interrupting solid yang lines—a pattern that creates visual beauty through contrast. Wilhelm's Judgment: "GRACE has success. In small matters it is favorable to undertake something." Grace cannot force major transformation, but it excels in refinement, in making existing truth more approachable. The teaching: substance without beauty is crude; beauty without substance is empty. True grace unites both.
 
 ### The Gate (Human Design)
 
-Gate 22 in the Solar Plexus governs emotional openness and social grace—the quality of presence when engaging with others. Ra Uru Hu taught that this gate carries "the grace of the form"—how you show up aesthetically, energetically, emotionally. When connected to Gate 12 in the Throat, the 22-12 Channel creates *Openness*—the capacity to voice the mood, to bring others into emotional resonance through articulate feeling. Without Gate 12, Gate 22 experiences rich inner emotional states but lacks the verbal channel to share them gracefully. The challenge: to honor the emotional wave (neither forcing positivity nor wallowing in negativity) while presenting oneself with dignity.
+Gate 22 in the Solar Plexus governs emotional openness and social grace—the quality of presence when engaging with others. Ra Uru Hu taught that this gate carries "the grace of the form"—how you show up aesthetically, energetically, emotionally.[^2] When connected to Gate 12 in the Throat, the 22-12 Channel creates *Openness*—the capacity to voice the mood, to bring others into emotional resonance through articulate feeling. Without Gate 12, Gate 22 experiences rich inner emotional states but lacks the verbal channel to share them gracefully. The challenge: to honor the emotional wave (neither forcing positivity nor wallowing in negativity) while presenting oneself with dignity.
 
 ### The Gene Keys
 
-- **Shadow: Dishonour** — The collapse into shame; behavior or presentation that betrays one's own dignity. Dishonour manifests as vulgarity, crude expression, or conversely, false refinement that hides self-loathing. The Shadow is the wound of believing one is inherently graceless, unworthy of beauty.
+- **Shadow: Dishonour**[^3] — The collapse into shame; behavior or presentation that betrays one's own dignity. Dishonour manifests as vulgarity, crude expression, or conversely, false refinement that hides self-loathing. The Shadow is the wound of believing one is inherently graceless, unworthy of beauty.
 
 - **Gift: Graciousness** — The capacity to move through the world with elegance, to offer truth in forms that others can receive. Graciousness honors both substance and presentation. It is emotional intelligence expressed as comportment—knowing when to speak, when to stay silent, how to frame difficult truths with care. The gift is *social artistry*.
 
@@ -141,6 +141,13 @@ Another Shadow trap: aestheticism disconnected from truth—beauty for its own s
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 22 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 22 mechanics, Solar Plexus
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Dishonour / Graciousness / Grace
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 22: Grace

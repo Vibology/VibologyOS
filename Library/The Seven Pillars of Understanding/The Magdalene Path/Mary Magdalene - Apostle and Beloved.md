@@ -43,7 +43,7 @@ The New Testament mentions multiple Marys:
 
 ### Pope Gregory I's Conflation (594 CE)
 
-In **Homily 33** (594 CE), **Pope Gregory the Great** declared:
+In **Homily 33** (594 CE), **Pope Gregory the Great** declared[^1]:
 
 > "She whom Luke calls the sinful woman, whom John calls Mary [of Bethany], we believe to be the Mary from whom seven devils were ejected according to Mark. And what did these seven demons signify if not all the vices?"
 
@@ -150,7 +150,7 @@ Mary is commissioned to **announce the Good News** to the apostles—thus earnin
 
 ### The Gospel of Mary (2nd Century, Berlin Codex)
 
-Discovered in 1896, the **Gospel of Mary** (Coptic text, likely translated from Greek) presents Mary Magdalene as the disciple who **understands the nous** (mind/heart as organ of spiritual perception) and receives private teaching from Jesus. Preserved in the Berlin Gnostic Codex (BG 8502,1), the original Greek text dates to the first half of the 2nd century (King, *The Gospel of Mary of Magdala*, 2003; cited in Bourgeault).
+Discovered in 1896, the **Gospel of Mary** (Coptic text, likely translated from Greek) presents Mary Magdalene as the disciple who **understands the nous** (mind/heart as organ of spiritual perception) and receives private teaching from Jesus. Preserved in the Berlin Gnostic Codex (BG 8502,1), the original Greek text dates to the first half of the 2nd century[^2] (King, *The Gospel of Mary of Magdala*, 2003; cited in Bourgeault).
 
 **Key Passages:**
 
@@ -182,7 +182,7 @@ Mary recounts a vision Jesus gave her about the **soul's ascent through the seve
 
 ### The Gospel of Philip (3rd Century, Nag Hammadi)
 
-The **Gospel of Philip** (Coptic, from Nag Hammadi Codex II,3, discovered 1945) presents Mary Magdalene as Jesus' **koinonos** (κοινωνός) and introduces the **Bridal Chamber** as the central sacrament. The text is likely a translation of a Greek original written in the second half of the 3rd century CE, probably in Syria (Bourgeault, 107).
+The **Gospel of Philip** (Coptic, from Nag Hammadi Codex II,3, discovered 1945) presents Mary Magdalene as Jesus' **koinonos** (κοινωνός) and introduces the **Bridal Chamber** as the central sacrament[^3]. The text is likely a translation of a Greek original written in the second half of the 3rd century CE, probably in Syria (Bourgeault, 107).
 
 **Key Passages:**
 
@@ -231,7 +231,7 @@ Found in Nag Hammadi Codex II,2, the Gospel of Thomas is considered one of the e
 
 **Traditional Reading (Patriarchal):** Women must become like men to be saved.
 
-**Esoteric Reading:** Bourgeault interprets "male" (in Syriac/Aramaic usage) as referring to **singleness** (ihidaya)—internal wholeness, not a literal sex change but transformation into a "living spirit" or *anthropos* (Bourgeault, 97). Mary must **integrate** her inner masculine (logos, structure, direction) with her feminine (eros, flow, wisdom). This is not about gender but about **psychospiritual integration**.
+**Esoteric Reading:** Bourgeault interprets "male" (in Syriac/Aramaic usage) as referring to **singleness** (ihidaya)—internal wholeness, not a literal sex change but transformation into a "living spirit" or *anthropos*[^4] (Bourgeault, 97). Mary must **integrate** her inner masculine (logos, structure, direction) with her feminine (eros, flow, wisdom). This is not about gender but about **psychospiritual integration**.
 
 **The Teaching:** Only the **Single One** (ihidaya)—internally whole, masculine and feminine united—can "enter the Kingdom" (Bridal Chamber, Zenith).
 
@@ -240,7 +240,7 @@ Found in Nag Hammadi Codex II,2, the Gospel of Thomas is considered one of the e
 
 ### The Watchtower (Magdal-eder)
 
-**Etymology:** "Magdalene" likely derives from **Magdala** (tower). In Hebrew, *magdal-eder* means "tower of the flock" or "watchtower" (Micah 4:8).
+**Etymology:** "Magdalene" likely derives from **Magdala** (tower)[^5]. In Hebrew, *magdal-eder* means "tower of the flock" or "watchtower" (Micah 4:8).
 
 **Symbolic Meaning:**
 
@@ -362,6 +362,15 @@ Mary is the **model of the path**:
 
 ---
 
+## Footnotes
+
+[^1]: Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010) — Pope Gregory I's Homily 33 (594 CE) conflating Mary Magdalene, the "sinful woman," and Mary of Bethany into a single "penitent prostitute" figure
+[^2]: King, *The Gospel of Mary of Magdala: Jesus and the First Woman Apostle* (2003); cited in Bourgeault — dating the Gospel of Mary to the first half of the 2nd century CE
+[^3]: Gospel of Philip, Nag Hammadi Codex II,3, 3rd century CE — Mary as koinonos and the Bridal Chamber as central sacrament surpassing baptism and eucharist
+[^4]: Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010), p. 97 — interpretation of "make her male" (Gospel of Thomas, Logion 114) as ihidaya (singleness), not literal gender change
+[^5]: Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010) — etymological connection of "Magdalene" to Magdala (tower) and the Hebrew magdal-eder ("watchtower")
+
+---
 ## Sources
 
 Bourgeault, Cynthia. *The Meaning of Mary Magdalene: Discovering the Woman at the Heart of Christianity*. Boston: Shambhala, 2010.

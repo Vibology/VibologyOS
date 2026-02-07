@@ -21,21 +21,21 @@ title: Lord of the Waves and Waters, King of the Hosts of the Sea
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, the King of Cups represents **"Fair man, man of business, law or divinity, responsible, disposed to oblige the Querent; also equity, art and science, including those who profess science, law and art; creative intelligence."** The King embodies emotional mastery applied to the world—not the inner depth of the Queen, but the *outer authority* that comes from integrating feeling with will, intuition with action.
+According to Waite's *Pictorial Key to the Tarot*, the King of Cups represents **"Fair man, man of business, law or divinity, responsible, disposed to oblige the Querent; also equity, art and science, including those who profess science, law and art; creative intelligence."** [^1] The King embodies emotional mastery applied to the world—not the inner depth of the Queen, but the *outer authority* that comes from integrating feeling with will, intuition with action.
 
 The Rider-Waite-Smith image shows a mature king seated upon a stone throne that appears to float on turbulent waters. The sea around him churns—a ship tosses in the background, a fish leaps from the waves at his feet—yet the King remains utterly calm, unmoved, centered. In his right hand, he holds a short scepter (authority, direction, will); in his left, a golden cup (the emotional realm he rules). Around his neck hangs a fish amulet—the symbol of Christ consciousness, of the unconscious, of the living spirit within the waters.
 
 This is the **Compassionate Sovereign**—the one who has mastered emotion not by suppressing it, but by *understanding* it so thoroughly that it no longer overwhelms him. He feels the storm; he is not the storm. He rules the waters; he does not drown in them.
 
-The Golden Dawn titles this card the **"Lord of the Waves and Waters, King of the Hosts of the Sea"**—the same title as the Knight, which emphasizes that both are *lords* of the emotional realm, though in different ways. The Knight rides upon the waters (movement, quest, approach); the King *sits* upon them (sovereignty, stability, mastery). The "Hosts of the Sea" are the countless emotional currents, unconscious contents, and psychic forces that populate the water realm—and the King commands them.
+The Golden Dawn titles this card the **"Lord of the Waves and Waters, King of the Hosts of the Sea"** [^2]—the same title as the Knight, which emphasizes that both are *lords* of the emotional realm, though in different ways. The Knight rides upon the waters (movement, quest, approach); the King *sits* upon them (sovereignty, stability, mastery). The "Hosts of the Sea" are the countless emotional currents, unconscious contents, and psychic forces that populate the water realm—and the King commands them.
 
-The Golden Dawn tradition characterizes the King of Cups as **"graceful, poetic, but inclined to be idle and untruthful, yet very sensitive to external influences."** This paradoxical characterization identifies both the King's gifts (grace, poetry, sensitivity) and his shadow potential (idleness, deception, impressionability). The King's mastery can become *too comfortable*—a sovereignty that loses its edge, an authority that becomes manipulation rather than guidance.
+The Golden Dawn tradition characterizes the King of Cups as **"graceful, poetic, but inclined to be idle and untruthful, yet very sensitive to external influences."** [^3] This paradoxical characterization identifies both the King's gifts (grace, poetry, sensitivity) and his shadow potential (idleness, deception, impressionability). The King's mastery can become *too comfortable*—a sovereignty that loses its edge, an authority that becomes manipulation rather than guidance.
 
 The King of Cups is favorable in contexts where **emotional leadership is needed**, when decisions require both head and heart, when navigating complex interpersonal situations, when authority must be exercised with compassion. The King appears when you must lead others through emotional storms—or lead yourself. He is the water-sign man (Cancer, Scorpio, Pisces) at his most evolved.
 
 The floating throne is significant. Unlike the Queen's liminal position at water's edge, the King's throne is *in* the water—surrounded by it, floating upon it. He does not stand on dry land observing the sea; he is *in the midst* of emotional reality and maintains sovereignty there. This is harder than it looks.
 
-When the King of Cups appears **reversed**, Waite identifies: **"Dishonest, double-dealing man; roguery, exaction, injustice, vice, scandal, pillage, considerable loss."** The reversal corrupts the King's emotional intelligence into manipulation, his compassion into exploitation, his calm into coldness. The reversed King can manifest as:
+When the King of Cups appears **reversed**, Waite identifies: **"Dishonest, double-dealing man; roguery, exaction, injustice, vice, scandal, pillage, considerable loss."** [^4] The reversal corrupts the King's emotional intelligence into manipulation, his compassion into exploitation, his calm into coldness. The reversed King can manifest as:
 - **The emotional manipulator**: Using understanding of feelings to control others
 - **The dissociated ruler**: Appearing calm because he has disconnected from genuine feeling
 - **The double-dealer**: Saying what each person wants to hear, serving no one's real interests
@@ -224,6 +224,13 @@ When the King of Cups emerges in reading or contemplation, consider:
 ---
 
 *"The king who fears the ocean builds walls. The king who understands the ocean builds ships."*
+
+## Footnotes
+
+[^1]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meaning for the King of Cups.
+[^2]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title for the King of Cups.
+[^3]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn characterization of the King of Cups personality.
+[^4]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meaning for the King of Cups.
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

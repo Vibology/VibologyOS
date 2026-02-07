@@ -60,15 +60,15 @@ The alchemical image is *Coagulatio*—the process of solidification, the conden
 
 ### The Hexagram (I-Ching)
 
-Hexagram 60, *Chieh* (Limitation), depicts the natural boundaries that create productive constraint. Wilhelm's Judgment warns against "galling limitation"—restriction that denies life—while affirming that *appropriate* limitation "works supreme success." The Image of water above lake suggests depth contained—not blocked flow but channeled flow. The hexagram's structure (four yang lines, two yin) creates a natural balance between strength and receptivity. The teaching: limitation aligned with nature's rhythm sustains; limitation opposed to nature's rhythm strangles. The superior person examines each constraint: does it serve life or block it?
+Hexagram 60, *Chieh* (Limitation), depicts the natural boundaries that create productive constraint.[^1] Wilhelm's Judgment warns against "galling limitation"—restriction that denies life—while affirming that *appropriate* limitation "works supreme success." The Image of water above lake suggests depth contained—not blocked flow but channeled flow. The hexagram's structure (four yang lines, two yin) creates a natural balance between strength and receptivity. The teaching: limitation aligned with nature's rhythm sustains; limitation opposed to nature's rhythm strangles. The superior person examines each constraint: does it serve life or block it?
 
 ### The Gate (Human Design)
 
-Gate 60 in the Root Center carries "the frequency of mutation through constraint." Ra Uru Hu emphasized that this gate provides the *pulse*—the on/off, yes/no, rhythmic limitation that creates sustainable change. Mutation without constraint burns out; Gate 60 provides the necessary boundaries that allow innovation to stabilize. When connected to Gate 3 in the Sacral (Channel of Mutation), Root pressure combines with Sacral life force to birth new patterns. The pulse is biological: Gate 60 says "now" and "not now," creating the rhythm that allows emergence without chaos. The teaching: you transcend limitation not by escaping it but by accepting it as the structure within which evolution occurs.
+Gate 60 in the Root Center carries "the frequency of mutation through constraint.[^2]" Ra Uru Hu emphasized that this gate provides the *pulse*—the on/off, yes/no, rhythmic limitation that creates sustainable change. Mutation without constraint burns out; Gate 60 provides the necessary boundaries that allow innovation to stabilize. When connected to Gate 3 in the Sacral (Channel of Mutation), Root pressure combines with Sacral life force to birth new patterns. The pulse is biological: Gate 60 says "now" and "not now," creating the rhythm that allows emergence without chaos. The teaching: you transcend limitation not by escaping it but by accepting it as the structure within which evolution occurs.
 
 ### The Gene Keys
 
-- **Shadow: Limitation** — (Note: Shadow and card name share the same word, indicating the spectrum from prison to liberation.) Experienced as constraint without purpose; the cage rather than the container. Limitation as enemy, the obstacle to be overcome. This manifests as rebellion against all boundaries (which creates unsustainable chaos) or collapse under boundaries (which creates stagnation). The belief: "If only this limitation didn't exist, I could be free."
+- **Shadow: Limitation**[^3] — (Note: Shadow and card name share the same word, indicating the spectrum from prison to liberation.) Experienced as constraint without purpose; the cage rather than the container. Limitation as enemy, the obstacle to be overcome. This manifests as rebellion against all boundaries (which creates unsustainable chaos) or collapse under boundaries (which creates stagnation). The belief: "If only this limitation didn't exist, I could be free."
 
 - **Gift: Realism** — The recognition that limitation is not obstacle but structure; constraint is the ground of manifestation. Realism doesn't deny the ideal but recognizes the necessary steps and boundaries required to actualize it. This is the artist who accepts the canvas's edge, the musician who works within the scale, the parent who understands developmental stages. Realism transforms limitation from prison to palette.
 
@@ -141,6 +141,13 @@ Another Shadow trap: using "realism" as excuse for failure to evolve. "This is j
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 60 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 60 mechanics, Root
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Limitation / Realism / Justice
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 60: Limitation

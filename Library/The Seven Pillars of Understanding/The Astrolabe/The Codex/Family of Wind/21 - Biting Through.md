@@ -60,15 +60,15 @@ The alchemical image is *Separation*—the stage where impurities must be remove
 
 ### The Hexagram (I-Ching)
 
-Hexagram 21, *Shih Ho* (Biting Through), depicts Fire above Wind with a curious internal structure: strong yang lines above and below, a single yin line in the fourth position creating "something between the teeth." The hexagram *is* the image—jaws biting through obstruction. Wilhelm's Judgment emphasizes legal justice: "It is favorable to let justice be administered"—not personal revenge but lawful correction. The Image links thunder and lightning to clear penalties: law must be *enforced* to be meaningful. The teaching: when mediation fails, authority must act decisively to restore order.
+Hexagram 21, *Shih Ho* (Biting Through), depicts Fire above Wind with a curious internal structure: strong yang lines above and below, a single yin line in the fourth position creating "something between the teeth."[^1] The hexagram *is* the image—jaws biting through obstruction. Wilhelm's Judgment emphasizes legal justice: "It is favorable to let justice be administered"—not personal revenge but lawful correction. The Image links thunder and lightning to clear penalties: law must be *enforced* to be meaningful. The teaching: when mediation fails, authority must act decisively to restore order.
 
 ### The Gate (Human Design)
 
-Gate 21 in the Heart Center governs control of tribal resources and the authority to enforce tribal law. Ra Uru Hu taught that this gate is "the treasurer"—the one who manages material wealth and determines who deserves access. This includes the capacity for *punishment*—withdrawing resources, excluding members, enforcing consequences. When connected to Gate 45 in the Throat, the 21-45 Channel creates *Money*—the voice of material authority, the king/treasurer who says "yes, you may share in the wealth" or "no, you are excluded." The challenge: to exercise authority without collapsing into control, to enforce boundaries without becoming tyrannical.
+Gate 21 in the Heart Center governs control of tribal resources and the authority to enforce tribal law. Ra Uru Hu taught that this gate is "the treasurer"—the one who manages material wealth and determines who deserves access.[^2] This includes the capacity for *punishment*—withdrawing resources, excluding members, enforcing consequences. When connected to Gate 45 in the Throat, the 21-45 Channel creates *Money*—the voice of material authority, the king/treasurer who says "yes, you may share in the wealth" or "no, you are excluded." The challenge: to exercise authority without collapsing into control, to enforce boundaries without becoming tyrannical.
 
 ### The Gene Keys
 
-- **Shadow: Control** — The collapse into authoritarian domination; power wielded not for justice but for ego. Control is the tyrant who punishes to maintain superiority, the controller who cannot tolerate autonomy, the enforcer whose cruelty exceeds necessity. The Shadow is authority corrupted by insecurity—the person who hoards resources and punishes perceived threats because they fear losing power.
+- **Shadow: Control**[^3] — The collapse into authoritarian domination; power wielded not for justice but for ego. Control is the tyrant who punishes to maintain superiority, the controller who cannot tolerate autonomy, the enforcer whose cruelty exceeds necessity. The Shadow is authority corrupted by insecurity—the person who hoards resources and punishes perceived threats because they fear losing power.
 
 - **Gift: Authority** — The capacity to make and enforce decisions that serve the collective. Authority knows when to say no, when to exclude, when to punish—not from personal feeling but from clear assessment of what the tribe requires. The gift is the benevolent treasurer: generous with resources to those who contribute, firm in denial to those who exploit. Authority is control tempered by justice, power exercised with integrity.
 
@@ -141,6 +141,13 @@ Another Shadow trap: abdication of authority. If wielding power has resulted in 
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 21 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 21 mechanics, Heart (Ego/Will)
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Control / Authority / Valour
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 21: Biting Through

@@ -60,15 +60,15 @@ The alchemical image is *Vegetable Growth*—not the sudden transmutation of met
 
 ### The Hexagram (I-Ching)
 
-Hexagram 53, *Chien* (Development), places Wind above Mountain—gentle penetration (Wind) rooted in stillness (Mountain). The hexagram structure shows gradual ascent: yang lines building from bottom to top, yin lines interspersed, creating the image of step-by-step progress. Wilhelm's Judgment emphasizes ceremonial correctness: "The maiden is given in marriage"—not abduction, not impulsive union, but proper sequence honoring tradition. The teaching: significant transitions require protocol. The Image speaks of the tree on the mountain, growing slowly upward, its growth dignified and patient. Development is not dramatic; it is steady, almost invisible day-to-day, yet over years the sapling becomes the tree.
+Hexagram 53, *Chien* (Development), places Wind above Mountain—gentle penetration (Wind) rooted in stillness (Mountain).[^1] The hexagram structure shows gradual ascent: yang lines building from bottom to top, yin lines interspersed, creating the image of step-by-step progress. Wilhelm's Judgment emphasizes ceremonial correctness: "The maiden is given in marriage"—not abduction, not impulsive union, but proper sequence honoring tradition. The teaching: significant transitions require protocol. The Image speaks of the tree on the mountain, growing slowly upward, its growth dignified and patient. Development is not dramatic; it is steady, almost invisible day-to-day, yet over years the sapling becomes the tree.
 
 ### The Gate (Human Design)
 
-Gate 53 in the Root governs the pressure to begin new cycles *correctly*—honoring developmental sequence rather than rushing. Ra Uru Hu taught that this gate carries "the pressure to evolve"—but evolution as gradual unfolding, not sudden mutation. When connected to Gate 42 in the Sacral, the 53-42 Channel creates *Maturation*—the life force to sustain growth through completion, the commitment to finish what was started. Without Gate 42, Gate 53 experiences pressure to start but lacks fuel to mature; without Gate 53, Gate 42 completes things without proper beginning foundation. The challenge: to trust the timeline, to resist the cultural demand for instant results, to honor that maturity cannot be faked.
+Gate 53 in the Root governs the pressure to begin new cycles *correctly*—honoring developmental sequence rather than rushing. Ra Uru Hu taught that this gate carries "the pressure to evolve"—but evolution as gradual unfolding, not sudden mutation.[^2] When connected to Gate 42 in the Sacral, the 53-42 Channel creates *Maturation*—the life force to sustain growth through completion, the commitment to finish what was started. Without Gate 42, Gate 53 experiences pressure to start but lacks fuel to mature; without Gate 53, Gate 42 completes things without proper beginning foundation. The challenge: to trust the timeline, to resist the cultural demand for instant results, to honor that maturity cannot be faked.
 
 ### The Gene Keys
 
-- **Shadow: Immaturity** — The collapse into perpetual beginning without completion; starting things impulsively, abandoning them when the hard middle arrives. Immaturity is the refusal to honor developmental stages—wanting the result without the process, the flower without the root system. The Shadow is the person who remains perpetually adolescent, unwilling to submit to the discipline that maturation requires.
+- **Shadow: Immaturity**[^3] — The collapse into perpetual beginning without completion; starting things impulsively, abandoning them when the hard middle arrives. Immaturity is the refusal to honor developmental stages—wanting the result without the process, the flower without the root system. The Shadow is the person who remains perpetually adolescent, unwilling to submit to the discipline that maturation requires.
 
 - **Gift: Expansion** — The capacity to grow *through stages*, honoring each phase's lessons before moving to the next. Expansion is not explosive growth but steady, sustainable increase—the tree adding rings, the child mastering speech before reading, the artist developing craft year by year. The gift recognizes that *how* you begin determines *what* you become. Start correctly, and the foundation supports all future growth.
 
@@ -141,6 +141,13 @@ Another Shadow trap: paralysis by process. If development feels too slow, the de
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 53 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 53 mechanics, Root
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Immaturity / Expansion / Superabundance
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 53: Development

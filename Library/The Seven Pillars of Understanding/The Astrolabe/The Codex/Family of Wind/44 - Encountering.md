@@ -60,15 +60,15 @@ The alchemical image is *Mercurius*—quicksilver, the messenger god, the fluid 
 
 ### The Hexagram (I-Ching)
 
-Hexagram 44, *Kou* (Coming to Meet), depicts Heaven above Wind with a distinctive structure: five strong yang lines with a single yin line at the bottom—the image of feminine (yin) encountering masculine (yang), or weak approaching strong. Wilhelm's Judgment warns: "The maiden is powerful. One should not marry such a maiden." The teaching is not misogyny but pattern recognition: when something weak approaches powerfully (seductively, manipulatively), alertness is required. The Image speaks of the prince disseminating commands—the recognition that communication must be strategic, that messages must be crafted for their audience, that influence requires understanding patterns of reception.
+Hexagram 44, *Kou* (Coming to Meet), depicts Heaven above Wind with a distinctive structure: five strong yang lines with a single yin line at the bottom—the image of feminine (yin) encountering masculine (yang), or weak approaching strong.[^1] Wilhelm's Judgment warns: "The maiden is powerful. One should not marry such a maiden." The teaching is not misogyny but pattern recognition: when something weak approaches powerfully (seductively, manipulatively), alertness is required. The Image speaks of the prince disseminating commands—the recognition that communication must be strategic, that messages must be crafted for their audience, that influence requires understanding patterns of reception.
 
 ### The Gate (Human Design)
 
-Gate 44 in the Spleen governs intuitive alertness—the capacity to recognize patterns *in the moment* and respond appropriately. Ra Uru Hu taught that this gate is "the salesperson"—not in the pejorative sense but as the one who knows what message will resonate, who can read the room, who understands timing. When connected to Gate 26 in the Heart, the 44-26 Channel creates *Surrender*—Spleen recognition of patterns meets Heart's will to act on them, creating the messenger/salesperson/diplomat who knows what to say and has the authority to say it. The challenge: to use this power ethically, to recognize patterns without manipulating, to influence without interference.
+Gate 44 in the Spleen governs intuitive alertness—the capacity to recognize patterns *in the moment* and respond appropriately. Ra Uru Hu taught that this gate is "the salesperson"—not in the pejorative sense but as the one who knows what message will resonate, who can read the room, who understands timing.[^2] When connected to Gate 26 in the Heart, the 44-26 Channel creates *Surrender*—Spleen recognition of patterns meets Heart's will to act on them, creating the messenger/salesperson/diplomat who knows what to say and has the authority to say it. The challenge: to use this power ethically, to recognize patterns without manipulating, to influence without interference.
 
 ### The Gene Keys
 
-- **Shadow: Interference** — The collapse into manipulation; using pattern recognition to control rather than collaborate. Interference is the person who reads others' weaknesses and exploits them, who crafts messages to manipulate, who uses sales technique to coerce. The Shadow is the con artist, the narcissist who mirrors to hook, the person who treats every interaction as game to win. Pattern recognition weaponized.
+- **Shadow: Interference**[^3] — The collapse into manipulation; using pattern recognition to control rather than collaborate. Interference is the person who reads others' weaknesses and exploits them, who crafts messages to manipulate, who uses sales technique to coerce. The Shadow is the con artist, the narcissist who mirrors to hook, the person who treats every interaction as game to win. Pattern recognition weaponized.
 
 - **Gift: Teamwork** — The capacity to recognize patterns and *serve* them—to deliver the message that helps rather than harms, to use influence to align rather than exploit. Teamwork is the salesperson who genuinely serves the client's need, the diplomat who finds win-win, the messenger who speaks truth in ways that can be heard. The gift recognizes that influence is reciprocal: I help you, you help the tribe, the tribe helps me. Everyone wins when pattern recognition serves collective thriving.
 
@@ -141,6 +141,13 @@ Another Shadow trap: pattern recognition as paralysis. If one becomes too alert 
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 44 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 44 mechanics, Spleen
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Interference / Teamwork / Synarchy
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 44: Coming to Meet

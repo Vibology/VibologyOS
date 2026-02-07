@@ -15,14 +15,14 @@ verification_notes: "Individual verification complete. Core mechanics (Solar Ple
 
 ---
 ## Ra's Definition
-**Emotional Authority** is defined by a **defined [[Solar Plexus]] Center**, which takes precedence over all other authorities in the Human Design hierarchy. If your Solar Plexus is defined, you have Emotional Authority—regardless of what other centers are active in your chart.
+**Emotional Authority** is defined by a **defined [[Solar Plexus]] Center**, which takes precedence over all other authorities in the Human Design hierarchy.[^1] If your Solar Plexus is defined, you have Emotional Authority—regardless of what other centers are active in your chart.
 
-Approximately **half of humanity** has Emotional Authority, making it the most common decision-making intelligence in the world.
+Approximately **half of humanity** has Emotional Authority, making it the most common decision-making intelligence in the world.[^2]
 
 ---
 ## The Mechanics: The Emotional Wave
 
-Emotional Authority operates through an **oscillating biochemical wave** of hope and pain, expansion and contraction. This wave is not random emotion but a **neurochemical process** that must complete its cycle before clarity can emerge.
+Emotional Authority operates through an **oscillating biochemical wave** of hope and pain, expansion and contraction.[^3] This wave is not random emotion but a **neurochemical process** that must complete its cycle before clarity can emerge.
 
 ### The Three Phases of the Wave
 
@@ -35,7 +35,7 @@ The wave does not resolve into "positive" or "negative"—it resolves into **neu
 ---
 ## The Core Principle: "No Truth in the Now"
 
-The defining law of Emotional Authority is: **There is no truth in the now.**
+The defining law of Emotional Authority is: **There is no truth in the now.**[^4]
 
 In any given moment, the emotionally defined person is either:
 - **Above the line** (hopeful, optimistic, saying "yes" to everything)
@@ -92,9 +92,9 @@ Strategy positions you correctly; Emotional Authority reveals *what* is true onc
 Emotional Authority can appear in:
 - **Manifestors** (9% of population)
 - **Generators** (37% Pure + 33% Manifesting = 70% total)
-- **Projectors** (21% of population)
+- **Projectors** (21% of population)[^5]
 
-**Reflectors** (1%) do not have Emotional Authority, as they have no defined centers.
+**Reflectors** (1%) do not have Emotional Authority, as they have no defined centers.[^6]
 
 ---
 ## Common Pitfalls
@@ -149,6 +149,16 @@ Emotionally defined individuals bring:
 ---
 
 *Emotional Authority is the intelligence of the wave—the recognition that truth is not found in the intensity of the moment but in the calm that follows the storm. To wait for clarity is not weakness but wisdom, and to trust the wave is to honor the body's ancient knowing that all things must cycle before they can be seen whole.*
+
+---
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Solar Plexus Center takes precedence over all other authorities in the hierarchy
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Approximately 50% of humanity has Emotional Authority
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — The emotional wave as an oscillating biochemical process of hope and pain
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — "There is no truth in the now" as the core principle of Emotional Authority
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Type population statistics: Manifestors ~9%, Generators ~70%, Projectors ~21%
+[^6]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Reflectors (~1%) have no defined Centers and therefore cannot have Emotional Authority
 
 ---
 ## Sources

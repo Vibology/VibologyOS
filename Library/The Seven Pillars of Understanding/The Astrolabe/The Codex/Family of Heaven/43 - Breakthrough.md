@@ -60,15 +60,15 @@ Breakthrough teaches that **revelation requires preparation**. The pressure buil
 
 ### The Hexagram (I-Ching)
 
-Lake above Heaven—the image of accumulated pressure rising to breakthrough. The Image: *"The lake has risen up to heaven: The image of Breakthrough. Thus the superior man dispenses riches downward and refrains from resting on his virtue."* When breakthrough occurs, the insight must **pour forth**—it cannot remain contained.
+Lake above Heaven—the image of accumulated pressure rising to breakthrough. The Image: *"The lake has risen up to heaven: The image of Breakthrough. Thus the superior man dispenses riches downward and refrains from resting on his virtue."*[^1] When breakthrough occurs, the insight must **pour forth**—it cannot remain contained.
 
 ### The Gate (Human Design)
 
-Gate 43 resides in the Ajna Center, the seat of conceptualization and awareness. This is the gate of **the inner ear**—the capacity to hear what others cannot hear, to receive revelation from within rather than external authority. The Individual Knowing Circuit operates on a different frequency, bringing insights that may seem impractical or obscure until their time arrives.
+Gate 43 resides in the Ajna Center, the seat of conceptualization and awareness.[^2] This is the gate of **the inner ear**—the capacity to hear what others cannot hear, to receive revelation from within rather than external authority. The Individual Knowing Circuit operates on a different frequency, bringing insights that may seem impractical or obscure until their time arrives.
 
 ### The Gene Keys
 
-**Shadow: Deafness** — Unable to hear inner knowing. Trapped in conventional thinking, unable to receive revelation. Mental rigidity blocking breakthrough.
+**Shadow: Deafness**[^3] — Unable to hear inner knowing. Trapped in conventional thinking, unable to receive revelation. Mental rigidity blocking breakthrough.
 
 **Gift: Insight** — The sudden realization that restructures understanding. Mental breakthrough that reveals new possibilities, patterns, or truths.
 
@@ -137,6 +137,13 @@ The conditioning pattern: "I must understand everything logically" or "Insight s
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 43 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 43 mechanics, Ajna (Mind)
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Deafness / Insight / Epiphany
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 43: Breakthrough

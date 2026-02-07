@@ -13,7 +13,7 @@ category: Practice
 ---
 ## Core Teaching
 
-**The Bridal Chamber** (Greek: *nymphōn*) is the **holiest of holies** in [[The Magdalene Path]]—the sacred union of two **Single** (whole, integrated) beings that creates a "third term" or **Wedding Garment** (unified consciousness). It is the culmination of the **Fifth Way** (Path of Conscious Love) and surpasses baptism and eucharist as the central sacrament. The Gospel of Philip identifies it as the "Holy of Holies" (Gospel of Philip, Nag Hammadi Codex II,3).
+**The Bridal Chamber** (Greek: *nymphōn*) is the **holiest of holies** in [[The Magdalene Path]]—the sacred union of two **Single** (whole, integrated) beings that creates a "third term" or **Wedding Garment** (unified consciousness). It is the culmination of the **Fifth Way** (Path of Conscious Love) and surpasses baptism and eucharist as the central sacrament[^1]. The Gospel of Philip identifies it as the "Holy of Holies" (Gospel of Philip, Nag Hammadi Codex II,3).
 
 **The Central Teaching** (Gospel of Philip, NHL):
 
@@ -29,7 +29,7 @@ category: Practice
 - Alchemical marriage producing the **Wedding Garment** (Abler Soul)
 - Preparation for **Cosmic Service** (not personal bliss)
 
-**The Qualification:** Only those who have achieved **[[Kenosis - The Path of Self-Emptying|singleness]]** (ihidaya)—internal integration of masculine and feminine, no longer split or seeking—can enter the Bridal Chamber. The Gospel of Philip states: "Let not the Bridal Chamber be for animals, slaves, or harlots; but it is for free men and virgins." Bourgeault interprets "virginity" here not as physical celibacy, but as "singleness"—a state of inner integrity (Bourgeault, 97; Gospel of Philip, NHL). If you enter seeking validation or completion, it is merely "marriage," not sacred union.
+**The Qualification:** Only those who have achieved **[[Kenosis - The Path of Self-Emptying|singleness]]** (ihidaya)—internal integration of masculine and feminine, no longer split or seeking—can enter the Bridal Chamber. The Gospel of Philip states: "Let not the Bridal Chamber be for animals, slaves, or harlots; but it is for free men and virgins." Bourgeault interprets "virginity" here not as physical celibacy, but as "singleness"—a state of inner integrity[^2] (Bourgeault, 97; Gospel of Philip, NHL). If you enter seeking validation or completion, it is merely "marriage," not sacred union.
 
 ---
 ## Gospel Foundation
@@ -128,7 +128,7 @@ A Single being has **both** fully developed and **united**:
 - A man who has integrated his inner feminine: No longer rigid, controlling, or disconnected from feeling—he can yield, receive, flow
 - A woman who has integrated her inner masculine: No longer passive, chaotic, or directionless—she can act, structure, lead
 
-**The Symbol (Gospel of Thomas, Logion 22):**
+**The Symbol (Gospel of Thomas, Logion 22)[^3]:**
 
 > "When you make the two one, and when you make the inside like the outside and the outside like the inside, and the above like the below, and when you make the male and the female one and the same... then will you enter [the Kingdom]."
 
@@ -185,7 +185,7 @@ The "lead" of desire (grasping, wanting) is transmuted into the "gold" of love (
 
 **The Teaching (Cynthia Bourgeault, Ch. 12):**
 
-When two Single beings unite, they create a **"third term"**—a unified consciousness that is **not** the sum of two egos but something **new**. This is the **Wedding Garment** or **Abler Soul**. The term "Abler Soul" comes from John Donne's poem "A Valediction: Forbidding Mourning" (Bourgeault cites Donne, Ch. 12). The Wedding Garment is described as a "flesh within the flesh" or "resurrection body" built through kenotic love—it allows the consciousness developed in partnership to survive death as a permanent field of creative love (Bourgeault, Ch. 12).
+When two Single beings unite, they create a **"third term"**—a unified consciousness that is **not** the sum of two egos but something **new**. This is the **Wedding Garment** or **Abler Soul**. The term "Abler Soul" comes from John Donne's poem "A Valediction: Forbidding Mourning"[^4] (Bourgeault cites Donne, Ch. 12). The Wedding Garment is described as a "flesh within the flesh" or "resurrection body" built through kenotic love[^5]—it allows the consciousness developed in partnership to survive death as a permanent field of creative love (Bourgeault, Ch. 12).
 
 **The Mechanic:**
 
@@ -366,6 +366,15 @@ Jung's **Syzygy** (the divine couple—animus/anima united) parallels the Bridal
 
 ---
 
+## Footnotes
+
+[^1]: Gospel of Philip, Nag Hammadi Codex II,3, 3rd century CE — the Bridal Chamber identified as the "Holy of Holies," surpassing baptism and eucharist as the central sacrament
+[^2]: Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010), p. 97 — interpretation of "virginity" in the Gospel of Philip as ihidaya (singleness/inner integrity), not physical celibacy
+[^3]: Gospel of Thomas, Nag Hammadi Codex II,2, 1st-2nd century CE — Logion 22 on making "the two one" and integrating male and female as the condition for entering the Kingdom
+[^4]: Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010), Ch. 12 — citing John Donne's "A Valediction: Forbidding Mourning" as the source of the "Abler Soul" term
+[^5]: Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010), Ch. 12 — the Wedding Garment as "resurrection body" or "flesh within the flesh" built through kenotic love in partnership
+
+---
 ## Sources
 
 Bourgeault, Cynthia. *The Meaning of Mary Magdalene: Discovering the Woman at the Heart of Christianity*. Boston: Shambhala, 2010.

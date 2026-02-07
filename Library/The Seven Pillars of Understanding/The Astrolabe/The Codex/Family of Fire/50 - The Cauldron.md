@@ -60,15 +60,15 @@ The alchemical image is **The Athanor itself**—the furnace that transforms, th
 
 ### The Hexagram (I-Ching)
 
-Hexagram 50, *Dǐng* (The Cauldron), depicts Fire below Wind/Wood—wood fueling fire that heats the sacred vessel. In Chinese tradition, the cauldron held offerings to ancestors and cooked communal meals, making it both ritual object and practical tool. The hexagram teaches proper use of resources: wood serves fire, fire heats cauldron, cauldron nourishes tribe. Each stage requires care—bad fuel creates toxic smoke, cracked vessel spills what should nourish. Wilhelm's Judgment emphasizes success through proper maintenance. The Nuclear Hexagram is 63 (After Completion), revealing that values, when correctly maintained, create the foundation for all that follows.
+Hexagram 50, *Dǐng* (The Cauldron), depicts Fire below Wind/Wood—wood fueling fire that heats the sacred vessel.[^1] In Chinese tradition, the cauldron held offerings to ancestors and cooked communal meals, making it both ritual object and practical tool. The hexagram teaches proper use of resources: wood serves fire, fire heats cauldron, cauldron nourishes tribe. Each stage requires care—bad fuel creates toxic smoke, cracked vessel spills what should nourish. Wilhelm's Judgment emphasizes success through proper maintenance. The Nuclear Hexagram is 63 (After Completion), revealing that values, when correctly maintained, create the foundation for all that follows.
 
 ### The Gate (Human Design)
 
-Gate 50 in the Spleen governs instinctual awareness of tribal values—what preserves versus what threatens. Ra Uru Hu taught this gate as "the vessel that holds tribal law"—not moral philosophy but somatic knowing. When connected to Gate 27 in the Sacral, the 50-27 Channel creates *Preservation (Caring)*—values awareness meets caring action, creating the guardian who both knows and does. The shadow: corruption, allowing values to degrade for personal gain; or rigid moralism, enforcing values tyrannically. The gift: equilibrium, maintaining balanced values that preserve without oppressing. The teaching: values are not personal preferences; they are tribal agreements designed to ensure survival.
+Gate 50 in the Spleen governs instinctual awareness of tribal values—what preserves versus what threatens. Ra Uru Hu taught this gate as "the vessel that holds tribal law"—not moral philosophy but somatic knowing.[^2] When connected to Gate 27 in the Sacral, the 50-27 Channel creates *Preservation (Caring)*—values awareness meets caring action, creating the guardian who both knows and does. The shadow: corruption, allowing values to degrade for personal gain; or rigid moralism, enforcing values tyrannically. The gift: equilibrium, maintaining balanced values that preserve without oppressing. The teaching: values are not personal preferences; they are tribal agreements designed to ensure survival.
 
 ### The Gene Keys
 
-- **Shadow: Corruption** — The degradation of values for personal gain; allowing the sacred vessel to become polluted. Corruption manifests as the leader who exploits rather than serves, the guardian who compromises integrity for convenience, the system that claims to protect while actually extracting. This is values inverted: what should preserve instead destroys. The wound: believing that maintaining purity is too costly, that pragmatism justifies violation.
+- **Shadow: Corruption**[^3] — The degradation of values for personal gain; allowing the sacred vessel to become polluted. Corruption manifests as the leader who exploits rather than serves, the guardian who compromises integrity for convenience, the system that claims to protect while actually extracting. This is values inverted: what should preserve instead destroys. The wound: believing that maintaining purity is too costly, that pragmatism justifies violation.
 
 - **Gift: Equilibrium** — The capacity to maintain balanced values that preserve without oppressing. Equilibrium recognizes that tribal law must evolve without losing core principles, that adaptation and integrity are not opposites. The gift is the elder who updates rules to serve changing conditions while protecting what must remain constant, the leader who enforces boundaries with compassion rather than force. Equilibrium is the middle way between corruption (anything goes) and tyranny (nothing changes).
 
@@ -141,6 +141,13 @@ The underlying wound: believing either that values don't matter (nihilism leadin
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 50 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 50 mechanics, Spleen
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Corruption / Equilibrium / Harmony
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 50: The Cauldron

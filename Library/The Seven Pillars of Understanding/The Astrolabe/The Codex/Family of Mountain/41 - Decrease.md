@@ -60,15 +60,15 @@ The alchemical image is *Nigredo*—the blackening, the necessary dissolution th
 
 ### The Hexagram (I-Ching)
 
-Hexagram 41, *Sun* (Decrease), depicts Lake above Mountain—water flowing downward, the upper diminishing to nourish the lower. The hexagram is the inverse of Hexagram 42 (Increase), forming a complementary pair. Wilhelm's Judgment emphasizes sincerity: decrease is not loss if offered with right intention. The sacrifice of "two small bowls" contrasts with lavish offerings—what matters is *participation in the cycle*, not the scale of giving. The Image focuses on self-restraint: "controls his anger and restrains his instincts." Decrease begins internally, with the discipline to reduce desire, moderate impulse, create space.
+Hexagram 41, *Sun* (Decrease), depicts Lake above Mountain—water flowing downward, the upper diminishing to nourish the lower.[^1] The hexagram is the inverse of Hexagram 42 (Increase), forming a complementary pair. Wilhelm's Judgment emphasizes sincerity: decrease is not loss if offered with right intention. The sacrifice of "two small bowls" contrasts with lavish offerings—what matters is *participation in the cycle*, not the scale of giving. The Image focuses on self-restraint: "controls his anger and restrains his instincts." Decrease begins internally, with the discipline to reduce desire, moderate impulse, create space.
 
 ### The Gate (Human Design)
 
-Gate 41 in the Solar Plexus governs the emotional pressure to begin new cycles. Ra Uru Hu taught that this gate is "the start codon"—the genetic trigger for new experience. But crucially, it is *emotional* pressure, meaning it operates through the wave. The desire to begin arises, peaks, and subsides. To act at the peak (emotional high) is to launch into fantasy; to wait through the contraction (emotional low) is to discover what truly wants to begin. The 41-30 Channel creates a strange internal loop within the Solar Plexus, intensifying desire and mood. The challenge: to recognize that decrease (contraction, loss, ending) is not failure but the necessary reset before new experience can genuinely begin.
+Gate 41 in the Solar Plexus governs the emotional pressure to begin new cycles. Ra Uru Hu taught that this gate is "the start codon"—the genetic trigger for new experience.[^2] But crucially, it is *emotional* pressure, meaning it operates through the wave. The desire to begin arises, peaks, and subsides. To act at the peak (emotional high) is to launch into fantasy; to wait through the contraction (emotional low) is to discover what truly wants to begin. The 41-30 Channel creates a strange internal loop within the Solar Plexus, intensifying desire and mood. The challenge: to recognize that decrease (contraction, loss, ending) is not failure but the necessary reset before new experience can genuinely begin.
 
 ### The Gene Keys
 
-- **Shadow: Fantasy** — The collapse into imagined futures disconnected from present reality. Fantasy is desire without embodiment—the person who constantly plans new ventures, relationships, creations but never completes because the fantasy is always better than the work. The Shadow is escape: when present reality contracts, flee into imagined expansion. The result: a life of perpetual beginning without middle or end.
+- **Shadow: Fantasy**[^3] — The collapse into imagined futures disconnected from present reality. Fantasy is desire without embodiment—the person who constantly plans new ventures, relationships, creations but never completes because the fantasy is always better than the work. The Shadow is escape: when present reality contracts, flee into imagined expansion. The result: a life of perpetual beginning without middle or end.
 
 - **Gift: Anticipation** — The capacity to *wait through the contraction* while holding space for what wants to come. Anticipation is not fantasy but emotionally mature desire—recognizing that the pressure to begin is real yet must ripen before action. The gift is the gardener who feels the spring urge in February but waits until the ground thaws. Anticipation knows: decrease creates the space for increase.
 
@@ -141,6 +141,13 @@ Another Shadow trap: depression without renewal. If decrease is not honored as *
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 41 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 41 mechanics, Solar Plexus
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Fantasy / Anticipation / Emanation
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 41: Decrease

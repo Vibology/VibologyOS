@@ -21,11 +21,11 @@ title: Lord of Victory
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, the Six of Wands signifies **"A laurelled horseman bearing a staff adorned with a laurel crown; footmen with staves are at his side."** The upright meaning is given as: **"The card has been so designed that it can cover several significations; on the surface, it is a victor triumphing, but it is also great news, such as might be carried in state by the King's courier; it is expectation crowned with its own desire, the crown of hope, and so forth."**
+According to Waite's *Pictorial Key to the Tarot*, the Six of Wands signifies **"A laurelled horseman bearing a staff adorned with a laurel crown; footmen with staves are at his side."** The upright meaning is given as: **"The card has been so designed that it can cover several significations; on the surface, it is a victor triumphing, but it is also great news, such as might be carried in state by the King's courier; it is expectation crowned with its own desire, the crown of hope, and so forth."**[^1]
 
 This is a card of **earned triumph and public recognition**. The victory depicted is not abstract or private—it is *witnessed*, *celebrated*, and *affirmed by others*. The laurelled horseman rides elevated above the crowd, which reaches up toward him in acknowledgment. This is the moment when hard work is validated, when excellence is recognized, when the struggle of the Five resolves into the glory of the Six.
 
-The Golden Dawn titles this card the **"Lord of Victory"** and attributes it to **Tiphareth in Atziluth**—Beauty (the sixth Sephirah, the heart of the Tree of Life) expressing through the World of Pure Spirit. The planetary attribution is **Jupiter in Leo**: the benevolent expansion of Jupiter channeled through the regal, creative fire of Leo. This is success that is not merely functional, but *radiant*—success that shines, that inspires, that uplifts.
+The Golden Dawn titles this card the **"Lord of Victory"**[^2] and attributes it to **Tiphareth in Atziluth**—Beauty (the sixth Sephirah, the heart of the Tree of Life) expressing through the World of Pure Spirit. The planetary attribution is **Jupiter in Leo**:[^4] the benevolent expansion of Jupiter channeled through the regal, creative fire of Leo. This is success that is not merely functional, but *radiant*—success that shines, that inspires, that uplifts.
 
 The Golden Dawn tradition describes this card as representing **"success after strife, gain, victory, triumph through energy and industry in labour and in business."** The title "Lord of Victory" emphasizes that this is not accidental fortune but *earned mastery*—the natural result of applied will, disciplined effort, and creative excellence. Jupiter in Leo is a highly dignified placement astrologically, creating what the tradition calls **"Established Strength"**—a stable balance of outpouring force that manifests as success that feels both *deserved* and *graceful*.
 
@@ -33,7 +33,7 @@ The Six of Wands is favorable in nearly all contexts involving achievement, adva
 
 However, the card's meaning is contextual. In spiritual questions, it can indicate the danger of *ego-inflation*—the risk of confusing recognition with inherent superiority, of mistaking the laurel wreath for the self. The horseman is elevated, but he is still human; the crowd cheers, but crowds are fickle; the wreath is fresh, but it will wither. The Six of Wands is both culmination and threshold—the victory is real, but the journey continues.
 
-When the Six of Wands appears **reversed**, Waite identifies: **"Apprehension, fear, as of a victorious enemy at the gate; treachery, disloyalty, as of gates being opened to the enemy; also indefinite delay."** The reversed card speaks to the *shadow of success*: either the fear of achieving it (imposter syndrome, self-sabotage), the resentment of others who have achieved it (envy, bitterness), or the anxiety of losing it once attained (defensiveness, clinging).
+When the Six of Wands appears **reversed**, Waite identifies: **"Apprehension, fear, as of a victorious enemy at the gate; treachery, disloyalty, as of gates being opened to the enemy; also indefinite delay."**[^3] The reversed card speaks to the *shadow of success*: either the fear of achieving it (imposter syndrome, self-sabotage), the resentment of others who have achieved it (envy, bitterness), or the anxiety of losing it once attained (defensiveness, clinging).
 
 The Golden Dawn reversal suggests **"gain, but not necessarily permanent"** and warns of the pride that precedes the fall. The reversed Six can manifest as:
 - **Grandiosity**: Confusing recognition with inherent worth, becoming arrogant or dismissive
@@ -449,6 +449,13 @@ The integrated Six knows: *I am not the laurel wreath. I am the one who was wort
 ---
 
 *"True victory is not the defeat of others, but the fulfillment of your own potential—witnessed and affirmed by those who matter."*
+
+## Footnotes
+
+[^1]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meanings for the Six of Wands
+[^2]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Lord of Victory" and Tiphareth in Atziluth attribution for the Six of Wands
+[^3]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meanings for the Six of Wands
+[^4]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — planetary attribution of Jupiter in Leo for the Six of Wands
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

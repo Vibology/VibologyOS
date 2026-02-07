@@ -19,13 +19,13 @@ source_verified: Esoteric Grimoire
 
 ---
 ## Ra's Definition
-According to Ra Uru Hu, **Channel 11-56** is the channel of **storytelling and curiosity** within the Collective Abstract Circuit. This channel connects the Ajna's capacity to hold ideas and concepts (Gate 11, "Peace/Ideas") with the Throat's capacity to articulate and stimulate through narrative (Gate 56, "The Wanderer/Stimulation").
+According to Ra Uru Hu, **Channel 11-56** is the channel of **storytelling and curiosity** within the Collective Abstract Circuit. This channel connects the Ajna's capacity to hold ideas and concepts (Gate 11, "Peace/Ideas") with the Throat's capacity to articulate and stimulate through narrative (Gate 56, "The Wanderer/Stimulation")[^1].
 
 Ra described this as the channel of **The Searcher**—the one who seeks meaning through experience, then shares that meaning through story. Unlike the Logic Circuit's focus on patterns and formulas, the Abstract Circuit seeks **experiences** and reflects on them. The 11-56 individual is designed to gather diverse experiences, distill them into ideas, and share those ideas through compelling, stimulating narratives.
 
 **"Channel 11-56 is the Searcher. Gate 11 says, 'I have an idea about life, about meaning.' Gate 56 says, 'I will tell you a story that stimulates your thinking.' This is not teaching—it's sharing experience through metaphor, through narrative. 'I believe' this story matters."** — Ra Uru Hu
 
-This is a **Projected Channel** (Ajna to Throat, no motor connection), meaning it requires **recognition and invitation** to be properly received. The storytelling capacity of the 11-56 individual is profound, but it can only influence when others are ready to listen.
+This is a **Projected Channel** (Ajna to Throat, no motor connection)[^2], meaning it requires **recognition and invitation** to be properly received. The storytelling capacity of the 11-56 individual is profound, but it can only influence when others are ready to listen.
 
 ---
 ## Core Correspondences Table
@@ -72,7 +72,7 @@ When two people come together with complementary gates:
 
 **Ajna (Mental Awareness/Conceptualization) ↔ Throat (Manifestation/Expression)**
 
-The Ajna is the **biological processing center**—associated with the pituitary gland, the capacity to conceptualize, visualize, and formulate mental patterns.
+The Ajna is the **biological processing center**—associated with the pituitary gland, the capacity to conceptualize, visualize, and formulate mental patterns[^4].
 
 The Throat is the **manifestation center**—associated with the thyroid and parathyroid glands, metabolism, and the transformation of internal concepts into external expression (speech, story, stimulation).
 
@@ -94,7 +94,7 @@ Individuals with Channel 11-56 may feel:
 ---
 ## Circuitry Analysis
 
-Channel 11-56 belongs to the **Collective Sensing/Abstract Circuit**, characterized by:
+Channel 11-56 belongs to the **Collective Sensing/Abstract Circuit**[^3], characterized by:
 
 - **Focus on the past:** The Abstract Circuit reflects on experiences that have already happened.
 - **Visual/optical dominance:** The Abstract Circuit is **visual**—experiences are seen, remembered, and shared through images and metaphors.
@@ -188,7 +188,7 @@ Two Searchers, two storytellers. This can be:
 
 ---
 ## Strategy Integration
-Channel 11-56 does **not** carry Authority (it is not a motor or awareness center connection). However, it profoundly influences **how Authority is expressed**.
+Channel 11-56 does **not** carry Authority (it is not a motor or awareness center connection)[^5]. However, it profoundly influences **how Authority is expressed**.
 
 **For Projectors with Channel 11-56:**
 
@@ -375,6 +375,14 @@ Jung's process of individuation requires **reflecting on one's experiences and i
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - Waiting for Invitation to Share — Storytelling only when recognized
 - Searching and Reflecting — Gathering experiences and distilling meaning
+
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 11-56 connects Gate 11 (Peace/Ideas) in the Ajna with Gate 56 (The Wanderer/Stimulation) in the Throat
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 11-56 classified as a Projected channel (Ajna to Throat, no motor connection)
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 11-56 placement within the Collective Sensing/Abstract Circuit
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Ajna Center biological associations: pituitary gland, conceptualization, mental pattern formulation
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 11-56 does not carry Authority (non-motor, non-awareness center connection)
 
 ## Sources
 **Primary Source:**

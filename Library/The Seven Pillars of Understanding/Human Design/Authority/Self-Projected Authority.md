@@ -15,16 +15,16 @@ verification_notes: "Individual verification complete. Core mechanics (G Center 
 
 ---
 ## Ra's Definition
-**Self-Projected Authority** is defined by a **defined [[G Center]]** (Identity Center) connected to the [[Throat]] *without* any motors or higher authorities present (Solar Plexus, Sacral, Spleen, or Heart).
+**Self-Projected Authority** is defined by a **defined [[G Center]]** (Identity Center) connected to the [[Throat]] *without* any motors or higher authorities present (Solar Plexus, Sacral, Spleen, or Heart).[^1]
 
-Self-Projected Authority is **exclusive to [[Projector]]s**—it cannot appear in other Types.
+Self-Projected Authority is **exclusive to [[Projector]]s**—it cannot appear in other Types.[^2]
 
 ---
 ## The Mechanics: Hearing Your Own Voice
 
 Self-Projected Authority operates through the **sound of your own voice**. Truth is not known internally through sensation, emotion, or instinct—it is **heard externally** through the act of speaking.
 
-The G Center governs:
+The G Center governs:[^3]
 - **Identity** (who you are)
 - **Direction** (where you are going)
 - **Love** (who and what you are here for)
@@ -34,7 +34,7 @@ When the G Center is connected to the Throat, **identity and direction are artic
 ---
 ## The Core Principle: "You Must Hear Yourself Speak"
 
-The defining characteristic of Self-Projected Authority is that **truth is revealed through articulation**:
+The defining characteristic of Self-Projected Authority is that **truth is revealed through articulation**:[^4]
 - You do not know what is correct until you speak it
 - You hear your own clarity through the sound of your voice
 - The act of speaking is the mechanism of knowing
@@ -177,6 +177,14 @@ ed Identity** — They know who they are through speaking
 ---
 
 *Self-Projected Authority is the intelligence of the voice—the recognition that your truth is not known until it is spoken, heard, and recognized through sound. To speak is to know, and to listen to yourself is to witness your own becoming. The sounding board is not your guide but your mirror, and in the resonance of your own voice, you hear who you are and where you are meant to go.*
+
+---
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Self-Projected Authority defined by G Center to Throat without motors or higher authorities
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Self-Projected Authority exclusive to Projectors
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — G Center governs identity, direction, and love
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Self-Projected Authority operates through truth revealed via vocal articulation
 
 ---
 ## Sources

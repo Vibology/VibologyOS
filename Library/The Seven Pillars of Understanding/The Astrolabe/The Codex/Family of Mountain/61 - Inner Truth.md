@@ -60,15 +60,15 @@ The alchemical image is *Conjunction of Sol and Luna*—the sacred marriage of c
 
 ### The Hexagram (I-Ching)
 
-Hexagram 61, *Chung Fu* (Inner Truth), places Wind above Mountain—gentle penetration revealing what stillness conceals. The hexagram's internal structure is distinctive: two strong yang lines above and below, two yin lines in the center creating an "empty heart." This void is the space where truth lodges—not as possession but as *receptivity*. Wilhelm's Judgment mentions pigs and fishes: creatures without reason yet capable of responding to sincerity. The teaching: inner truth operates at levels deeper than intellect. The Image speaks of delaying executions—the recognition that certainty about another's guilt requires profound inner truth, not hasty judgment.
+Hexagram 61, *Chung Fu* (Inner Truth), places Wind above Mountain—gentle penetration revealing what stillness conceals.[^1] The hexagram's internal structure is distinctive: two strong yang lines above and below, two yin lines in the center creating an "empty heart." This void is the space where truth lodges—not as possession but as *receptivity*. Wilhelm's Judgment mentions pigs and fishes: creatures without reason yet capable of responding to sincerity. The teaching: inner truth operates at levels deeper than intellect. The Image speaks of delaying executions—the recognition that certainty about another's guilt requires profound inner truth, not hasty judgment.
 
 ### The Gate (Human Design)
 
-Gate 61 in the Head governs the pressure to *know*—not as accumulation of facts but as penetration of mystery. Ra Uru Hu taught that this gate carries "the capacity to know the unknowable"—the mysterious faculty by which inspiration arises. When connected to Gate 24 in the Ajna, the 61-24 Channel creates *Awareness*—Head pressure to understand meets Ajna's mental processing, creating the rationalization of mystery. Without Gate 24, Gate 61 experiences inspiration without capacity to think about it; without Gate 61, Gate 24 thinks about things that lack numinous depth. The challenge: to trust inner knowing even when you cannot prove it, to honor inspiration even when it cannot be justified to others.
+Gate 61 in the Head governs the pressure to *know*—not as accumulation of facts but as penetration of mystery. Ra Uru Hu taught that this gate carries "the capacity to know the unknowable"—the mysterious faculty by which inspiration arises.[^2] When connected to Gate 24 in the Ajna, the 61-24 Channel creates *Awareness*—Head pressure to understand meets Ajna's mental processing, creating the rationalization of mystery. Without Gate 24, Gate 61 experiences inspiration without capacity to think about it; without Gate 61, Gate 24 thinks about things that lack numinous depth. The challenge: to trust inner knowing even when you cannot prove it, to honor inspiration even when it cannot be justified to others.
 
 ### The Gene Keys
 
-- **Shadow: Psychosis** — The collapse when inner knowing becomes disconnected from reality testing. Psychosis is inspiration without grounding—the person who "knows" things that are not true, whose inner voice has no relationship to external reality. The Shadow is the conspiracy theorist, the delusional mystic, the one so committed to internal conviction that contradictory evidence is dismissed as conspiracy. Inner truth without outer feedback becomes madness.
+- **Shadow: Psychosis**[^3] — The collapse when inner knowing becomes disconnected from reality testing. Psychosis is inspiration without grounding—the person who "knows" things that are not true, whose inner voice has no relationship to external reality. The Shadow is the conspiracy theorist, the delusional mystic, the one so committed to internal conviction that contradictory evidence is dismissed as conspiracy. Inner truth without outer feedback becomes madness.
 
 - **Gift: Inspiration** — The capacity to *receive knowing* from depths that consciousness cannot access. Inspiration is the sudden arrival of insight, the answer that appears fully formed, the creative solution that bypasses linear problem-solving. The gift recognizes that truth comes *through* you, not *from* you. You are the receiver, not the source. Inspiration requires both receptivity (stillness) and openness to mystery (willingness not to know until you know).
 
@@ -141,6 +141,13 @@ Another Shadow trap: doubt as defense. If inspiration has been wrong before, the
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 61 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 61 mechanics, Head
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Psychosis / Inspiration / Sanctity
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 61: Inner Truth

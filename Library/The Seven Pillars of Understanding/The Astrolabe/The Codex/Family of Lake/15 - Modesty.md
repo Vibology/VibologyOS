@@ -60,15 +60,15 @@ The alchemical image is **Solve et Coagula**—dissolving rigid structures and a
 
 ### The Hexagram (I-Ching)
 
-Hexagram 15, *Qiān* (Modesty), shows Earth above Lake—the high brought low, the receptive placed over the joyous. This inverts expectation: the mountain (greatness) is hidden within the earth (humility), creating power that operates through understatement rather than display. Wilhelm's teaching emphasizes balance through yielding—reducing excess, augmenting deficiency, maintaining equilibrium. The Nuclear Hexagram is 40 (Deliverance), revealing that beneath modesty lies release—extremes liberate us from calcified patterns.
+Hexagram 15, *Qiān* (Modesty), shows Earth above Lake—the high brought low, the receptive placed over the joyous.[^1] This inverts expectation: the mountain (greatness) is hidden within the earth (humility), creating power that operates through understatement rather than display. Wilhelm's teaching emphasizes balance through yielding—reducing excess, augmenting deficiency, maintaining equilibrium. The Nuclear Hexagram is 40 (Deliverance), revealing that beneath modesty lies release—extremes liberate us from calcified patterns.
 
 ### The Gate (Human Design)
 
-Gate 15 in the G Center governs the capacity to embrace all human rhythms, all expressions, all extremes without collapsing into judgment. Ra Uru Hu taught this gate as "the Love of Humanity"—not sentimental love but transpersonal acceptance of the full spectrum of behavior. When connected to Gate 5 in the Sacral, the 5-15 Channel creates *Rhythm*—where 5 provides fixed habits and 15 supplies the flexibility to shift tempo when patterns no longer serve. The shadow: frantic avoidance of the ordinary, addiction to intensity, inability to rest. The gift: magnetic presence that draws life into natural flow. The teaching: extremes are not pathology but the pulse of aliveness.
+Gate 15 in the G Center governs the capacity to embrace all human rhythms, all expressions, all extremes without collapsing into judgment. Ra Uru Hu taught this gate as "the Love of Humanity"—not sentimental love but transpersonal acceptance of the full spectrum of behavior.[^2] When connected to Gate 5 in the Sacral, the 5-15 Channel creates *Rhythm*—where 5 provides fixed habits and 15 supplies the flexibility to shift tempo when patterns no longer serve. The shadow: frantic avoidance of the ordinary, addiction to intensity, inability to rest. The gift: magnetic presence that draws life into natural flow. The teaching: extremes are not pathology but the pulse of aliveness.
 
 ### The Gene Keys
 
-- **Shadow: Dullness** — The fear of ordinariness; the emptiness of lack of polarity. The Shadow manifests as frantic escape from the mundane—chasing intensity, creating drama, rejecting stillness because it feels like death. This is the person who cannot tolerate quiet, who equates lack of stimulation with lack of meaning, who exhausts themselves swinging between extremes without integration. Dullness is not the presence of the ordinary but *resistance to it*—the belief that life only counts when it's extraordinary.
+- **Shadow: Dullness**[^3] — The fear of ordinariness; the emptiness of lack of polarity. The Shadow manifests as frantic escape from the mundane—chasing intensity, creating drama, rejecting stillness because it feels like death. This is the person who cannot tolerate quiet, who equates lack of stimulation with lack of meaning, who exhausts themselves swinging between extremes without integration. Dullness is not the presence of the ordinary but *resistance to it*—the belief that life only counts when it's extraordinary.
 
 - **Gift: Magnetism** — Accepting the rhythm of life unlocks the aura's magnetic power. Magnetism operates at the frequency of the Schumann Resonance—Earth's electromagnetic heartbeat—creating a field that draws all life forms into coherence. The gift is the person whose presence creates flow, who moves between extremes with grace, who makes space for all rhythms without collapsing into chaos. Magnetism is transpersonal love: not attachment to individuals but resonance with the pattern that connects all living beings. This is the leader whose authority rests on acceptance rather than assertion.
 
@@ -141,6 +141,13 @@ Another Shadow trap: forced moderation. Using spiritual bypassing to suppress na
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 15 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 15 mechanics, G Center
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Dullness / Magnetism / Florescence
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 15: Modesty

@@ -58,15 +58,15 @@ Overwhelm carries the frequency of **totality through commitment**—the recogni
 
 ### The Hexagram (I-Ching)
 
-Wind above Thunder—the image of critical mass, the ridgepole bending under weight. Wilhelm's Judgment: *"Preponderance of the Great. The ridgepole sags to the breaking point. It furthers one to have somewhere to go. Success."* Movement is required—staying still means collapse; action offers possibility.
+Wind above Thunder—the image of critical mass, the ridgepole bending under weight. Wilhelm's Judgment: *"Preponderance of the Great. The ridgepole sags to the breaking point. It furthers one to have somewhere to go. Success."*[^1] Movement is required—staying still means collapse; action offers possibility.
 
 ### The Gate (Human Design)
 
-Gate 28 resides in the Spleen Center, the instinct for existential risk. This is **the warrior's awareness**—knowing that power is temporary, that influence fades, that death is certain, and yet choosing to fight for meaning. The Individual Knowing Circuit means this struggle serves personal purpose, not collective cause. With Gate 38 (Opposition), this becomes the channel of struggle—fighting for what matters despite opposition.
+Gate 28 resides in the Spleen Center, the instinct for existential risk.[^2] This is **the warrior's awareness**—knowing that power is temporary, that influence fades, that death is certain, and yet choosing to fight for meaning. The Individual Knowing Circuit means this struggle serves personal purpose, not collective cause. With Gate 38 (Opposition), this becomes the channel of struggle—fighting for what matters despite opposition.
 
 ### The Gene Keys
 
-**Shadow: Purposelessness** — The individual sees the transitoriness of all things and concludes nothing matters. Nihilism born from awareness of impermanence.
+**Shadow: Purposelessness**[^3] — The individual sees the transitoriness of all things and concludes nothing matters. Nihilism born from awareness of impermanence.
 
 **Gift: Totality** — The capacity to commit fully precisely because everything is temporary. Total engagement with life's game despite uncertain outcome.
 
@@ -135,6 +135,13 @@ The conditioning pattern: "Nothing lasts, so why bother?" or "If I can't win, I 
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 28 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 28 mechanics, Spleen (Instinctual Awareness)
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Purposelessness / Totality / Immortality
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 28: Preponderance of the Great

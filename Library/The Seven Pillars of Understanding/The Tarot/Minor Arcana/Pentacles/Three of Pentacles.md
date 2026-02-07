@@ -22,12 +22,12 @@ title: Lord of Material Works
 
 ---
 ## Traditional Symbolism
-According to Waite's *Pictorial Key to the Tarot*, the Three of Pentacles signifies **métier, trade, skilled labor**. More specifically, Waite notes: **"A sculptor at his work in a monastery. Compare the design which illustrates the Eight of Pentacles. The apprentice or amateur therein has received his reward and is now at work in earnest."** The upright card speaks to **renown, glory, approbation for skill**—work recognized and rewarded, competence acknowledged.
-The Golden Dawn titles this card the **"Lord of Material Works"** and attributes it to **Mars in Capricorn**, the second decan of the cardinal earth sign. This is the planet of energy, action, and disciplined force (Mars) channeled through the sign of structure, ambition, and enduring achievement (Capricorn). The result is **constructive force**—energy not scattered but *directed*, aggression transformed into productivity, willpower yoked to the patient work of building.
+According to Waite's *Pictorial Key to the Tarot*, the Three of Pentacles signifies **métier, trade, skilled labor**. [^1] More specifically, Waite notes: **"A sculptor at his work in a monastery. Compare the design which illustrates the Eight of Pentacles. The apprentice or amateur therein has received his reward and is now at work in earnest."** The upright card speaks to **renown, glory, approbation for skill**—work recognized and rewarded, competence acknowledged.
+The Golden Dawn titles this card the **"Lord of Material Works"** [^2] and attributes it to **Mars in Capricorn** [^3], the second decan of the cardinal earth sign. This is the planet of energy, action, and disciplined force (Mars) channeled through the sign of structure, ambition, and enduring achievement (Capricorn). The result is **constructive force**—energy not scattered but *directed*, aggression transformed into productivity, willpower yoked to the patient work of building.
 The card represents **work in process**—not the initial inspiration (Ace), not the juggling of priorities (Two), but the *middle phase* where skill is applied, collaboration occurs, and tangible results begin to emerge. The Three of Pentacles does not promise completion (that will come in the Ten), but it promises *progress*—the work is underway, competence is recognized, the structure is rising stone by stone.
 This is a fundamentally auspicious card in questions of career, craft, and all forms of skilled labor. It indicates that you have moved beyond beginner status—you are now a journeyman, trusted with real responsibility, collaborating with others on projects of substance. The work is demanding, but you are *capable*. The recognition may not yet be fame, but it is *respect*—those who matter see your competence and value your contribution.
-When the Three of Pentacles appears **reversed**, Waite identifies meanings of **mediocrity, pueritility, weakness**. The reversal suggests that the work is substandard, that skill has not been cultivated, or that the collaboration has broken down. The artist is treated as a child rather than a craftsman, or the craftsman behaves as a child—petulant, unwilling to take direction, unable to integrate feedback.
-The Golden Dawn reversal indicates "lack of skill; mediocre work; loss of reputation through poor craftsmanship." The energy of constructive building becomes *destructive* or merely *incompetent*. The mason builds crooked walls, the sculptor's work is rejected, the collaboration devolves into conflict. The reversed Three can also indicate *refusing to collaborate*—the lone wolf artist who insists on working in isolation, rejecting the necessary input of patron, teacher, or team.
+When the Three of Pentacles appears **reversed**, Waite identifies meanings of **mediocrity, pueritility, weakness**. [^4] The reversal suggests that the work is substandard, that skill has not been cultivated, or that the collaboration has broken down. The artist is treated as a child rather than a craftsman, or the craftsman behaves as a child—petulant, unwilling to take direction, unable to integrate feedback.
+The Golden Dawn reversal indicates "lack of skill; mediocre work; loss of reputation through poor craftsmanship." [^5] The energy of constructive building becomes *destructive* or merely *incompetent*. The mason builds crooked walls, the sculptor's work is rejected, the collaboration devolves into conflict. The reversed Three can also indicate *refusing to collaborate*—the lone wolf artist who insists on working in isolation, rejecting the necessary input of patron, teacher, or team.
 The key teaching: **Mastery is earned through disciplined, collaborative effort**. The Three of Pentacles offers the opportunity to build real skill—but you must do the work, accept feedback, and recognize that no cathedral is built by a single hand. If you cut corners, the structure will collapse. If you refuse collaboration, the vision will remain incomplete.
 ---
 
@@ -349,6 +349,14 @@ The question the Three asks is not "How can I skip to mastery?" but "Am I willin
 
 ---
 *"The cathedral is not built in a day, nor by a single hand—but stone by stone, through collaboration and craft."*
+
+## Footnotes
+
+[^1]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meaning for the Three of Pentacles.
+[^2]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Lord of Material Works" for the Three of Pentacles.
+[^3]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Mars in Capricorn decan attribution for the Three of Pentacles.
+[^4]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meaning for the Three of Pentacles.
+[^5]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn reversal interpretation for the Three of Pentacles.
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

@@ -19,13 +19,13 @@ source_verified: Esoteric Grimoire
 
 ---
 ## Ra's Definition
-According to Ra Uru Hu, **Channel 2-14** is one of the most potent expressions of **Individual power and direction**. This channel connects the G Center's sense of identity and direction (Gate 2, "The Driver") with the Sacral Center's raw life-force energy and power (Gate 14, "Possession in Great Measure").
+According to Ra Uru Hu, **Channel 2-14** is one of the most potent expressions of **Individual power and direction**. This channel connects the G Center's sense of identity and direction (Gate 2, "The Driver") with the Sacral Center's raw life-force energy and power (Gate 14, "Possession in Great Measure")[^1].
 
 Ra referred to this as the **Keeper of Keys**—the individual who holds access to resources, wealth, and the power to empower others through their unique direction. This is not Tribal wealth (shared resources) or Collective wealth (societal abundance). This is **individual power**—the capacity to accumulate, retain, and selectively share resources based on one's own direction.
 
 **"Channel 2-14 is Tantric. It fuels the Self. This is the energy to drive your own direction forward, to hold the keys to your own kingdom. And when you're correct, you hold keys that open doors for others—but only when you choose."** — Ra Uru Hu
 
-This is a **Generated Channel** (Sacral to G Center), meaning it carries sustainable, renewable life-force energy. It is also **Tantric**, meaning it is deeply connected to sexual energy, intimacy, and the slow, deliberate building of power over time.
+This is a **Generated Channel** (Sacral to G Center)[^2], meaning it carries sustainable, renewable life-force energy. It is also **Tantric**[^3], meaning it is deeply connected to sexual energy, intimacy, and the slow, deliberate building of power over time.
 
 ---
 ## Core Correspondences Table
@@ -73,7 +73,7 @@ When two people come together with complementary gates:
 
 **G Center (Identity/Direction) ↔ Sacral (Life Force/Sexuality)**
 
-The G Center is the **biological seat of identity**—associated with the liver, the magnetic monopole (orientation mechanism), and the sense of "I am" in space and time.
+The G Center is the **biological seat of identity**—associated with the liver, the magnetic monopole (orientation mechanism), and the sense of "I am" in space and time[^5].
 
 The Sacral is the **biological engine of life force**—associated with the ovaries/testes, reproductive energy, and the capacity to generate sustainable work and sexual vitality.
 
@@ -95,7 +95,7 @@ Individuals with Channel 2-14 may feel a **deep, steady pulse of energy** when a
 ---
 ## Circuitry Analysis
 
-Channel 2-14 belongs to the **Individual Knowing Circuit**, which is characterized by:
+Channel 2-14 belongs to the **Individual Knowing Circuit**[^4], which is characterized by:
 
 - **Mutation:** Bringing forth what has never existed before.
 - **Empowerment:** The Individual does not teach or lead—they empower others through their unique example.
@@ -373,6 +373,14 @@ Jung's process of individuation requires **reclaiming projected power**. The Cha
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - Electromagnetic Completion — How channels complete in relationships
 - Individual Empowerment vs. Collective Leadership — Distinguishing roles
+
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 2-14 connecting G Center (identity/direction) to Sacral Center (life force/power)
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 2-14 classified as a Generated Channel (Sacral-defined, sustainable energy)
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 2-14 as one of the three Tantric channels (Sacral-to-G Center connections: 2-14, 5-15, 29-46)
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 2-14 placement within the Individual Knowing Circuit
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — G Center biological association with liver and magnetic monopole orientation mechanism
 
 ## Sources
 **Primary Source:**

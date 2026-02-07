@@ -20,11 +20,11 @@ title: King of the Flame and the Lightning, Lord of the Flame and the Lightning
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, the King of Wands depicts **"a seated king holding a wand which is in leaf. He wears a crown and a lion-adorned robe."** The upright meaning is given as: **"Dark man, friendly, countryman, generally married, honest and conscientious. The card always signifies honesty, and may mean news concerning an unexpected heritage to fall in before very long. Reversed: Good, but severe; austere, yet tolerant."**
+According to Waite's *Pictorial Key to the Tarot*, the King of Wands depicts **"a seated king holding a wand which is in leaf. He wears a crown and a lion-adorned robe."** The upright meaning is given as: **"Dark man, friendly, countryman, generally married, honest and conscientious. The card always signifies honesty, and may mean news concerning an unexpected heritage to fall in before very long. Reversed: Good, but severe; austere, yet tolerant."**[^1]
 
 This is the card of **creative sovereignty and visionary command**—the man who has *mastered* fire, who does not merely wield creative will but *is* creative will embodied, who transforms reality through sheer force of integrated vision and action. The King is not examining (Page), not questing (Knight), not sustaining (Queen)—the King is *commanding*, *initiating*, *transforming*. He sits upon his throne not to rest but to *rule*—to direct creative force with mastery, purpose, and unwavering will.
 
-The Golden Dawn titles this card the **"King of the Flame and the Lightning"** (also called "Lord of the Flame and the Lightning"). The title captures the King's dual nature: he is both the *flame* (sustained, enduring fire—the forge, the sun) and the *lightning* (sudden, transformative fire—the bolt that changes everything in an instant). The King is fire in its most concentrated, most powerful, most conscious form.
+The Golden Dawn titles this card the **"King of the Flame and the Lightning"** (also called "Lord of the Flame and the Lightning").[^2] The title captures the King's dual nature: he is both the *flame* (sustained, enduring fire—the forge, the sun) and the *lightning* (sudden, transformative fire—the bolt that changes everything in an instant). The King is fire in its most concentrated, most powerful, most conscious form.
 
 The Golden Dawn tradition describes the King of Wands as **"Swift and strong, has great energy; noble and generous, impetuous, yet just. The symbol of an active, generous man, fiery in nature, but just in his dealings."** This is the King's paradox: he is *fierce* yet *just*, *impetuous* yet *noble*, *swift* yet *strategic*. The King's fire is not chaotic (Knight)—it is *directed*, *purposeful*, *mastered*. The King has learned to wield fire consciously, to command it rather than be consumed by it.
 
@@ -32,7 +32,7 @@ The King of Wands is favorable in contexts where **visionary leadership is requi
 
 However, the King also carries shadow potentials: **fire can tyrannize**. The King's confidence can become *arrogance*, his vision can become *rigid doctrine*, his leadership can become *domination*, his fire can *scorch* rather than illuminate. The shadow King demands obedience rather than inspiring followership, burns through people as fuel for his vision, confuses his will with universal truth, or collapses in burnout from unsustainable intensity.
 
-When the King of Wands appears **reversed**, Waite's interpretation is nuanced—the King remains "good" but becomes "severe" and "austere," yet retains "tolerance." The reversed King can manifest as:
+When the King of Wands appears **reversed**, Waite's interpretation is nuanced—the King remains "good" but becomes "severe" and "austere," yet retains "tolerance."[^3] The reversed King can manifest as:
 - **The Benevolent Tyrant**: Just in principle but harsh in execution, demands perfection, intolerant of weakness
 - **Rigidity**: The King's fire becomes *fixed*—unable to adapt, change course, or tolerate deviation from his vision
 - **Burnout**: The relentless creator who has exhausted himself, the sun that has burned too bright and now dims
@@ -535,6 +535,12 @@ To honor the King is to honor *creative sovereignty*, to claim your authority th
 - [[Human Design]] — Manifestor type, Gate 51 (Shock/Initiation)
 
 ---
+
+## Footnotes
+
+[^1]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meanings for the King of Wands
+[^2]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "King of the Flame and the Lightning" for the King of Wands court card
+[^3]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meanings for the King of Wands
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

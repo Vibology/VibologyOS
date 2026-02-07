@@ -18,7 +18,7 @@ verification_notes: "Individual verification complete. Overview of 4 Strategies 
 
 ---
 ## Ra's Definition
-**Strategy** is the practical tool for living your unique design without resistance. It is not a philosophy or aspiration but a **mechanical law**—the specific way your Type is designed to move through the world in alignment with its correct geometry.
+**Strategy** is the practical tool for living your unique design without resistance. It is not a philosophy or aspiration but a **mechanical law**[^1]—the specific way your Type is designed to move through the world in alignment with its correct geometry.
 
 Strategy aligns your vehicle (the BodyGraph) with its role in the totality. When followed correctly, it rewards you with your Type's **Signature** (peace, satisfaction, success, or surprise). When abandoned, it signals incorrectness through your **Not-Self Theme** (anger, frustration, bitterness, or disappointment).
 
@@ -39,7 +39,7 @@ Each [[Types]] has a unique Strategy:
 
 ### To Inform (Manifestor)
 
-The [[Manifestor]]'s closed and repelling aura creates unconscious resistance in others. **To Inform** transforms this resistance into transparency. Informing is not asking permission—it is **declaration**: "I am doing this."
+The [[Manifestor]]'s closed and repelling aura creates unconscious resistance in others.[^2] **To Inform** transforms this resistance into transparency. Informing is not asking permission—it is **declaration**: "I am doing this."
 
 When the Manifestor informs:
 - Others feel included rather than controlled
@@ -51,7 +51,7 @@ Informing is the Manifestor's recognition that power without communication becom
 
 ### To Wait to Respond (Generator)
 
-The [[Generator]]'s open and enveloping aura draws life toward them. **To Wait to Respond** means allowing opportunities to arrive rather than initiating from the mind. The Sacral responds with guttural sounds ("uh-huh" / "uhn-un") or body knowing (expansion/contraction).
+The [[Generator]]'s open and enveloping aura draws life toward them.[^3] **To Wait to Respond** means allowing opportunities to arrive rather than initiating from the mind. The Sacral responds with guttural sounds ("uh-huh" / "uhn-un") or body knowing (expansion/contraction).
 
 When the Generator responds:
 - The Sacral reveals what it has energy for
@@ -79,7 +79,7 @@ The Projector's challenge is **sacred passivity**: seeing solutions everywhere b
 
 ### To Wait a Full Lunar Cycle (Reflector)
 
-The [[Reflector]]'s completely undefined chart means they have no fixed decision-making center. **To Wait a Full Lunar Cycle** (28 days) allows them to sample every possible energetic configuration as the Moon transits all 64 gates.
+The [[Reflector]]'s completely undefined chart means they have no fixed decision-making center. **To Wait a Full Lunar Cycle** (28 days) allows them to sample every possible energetic configuration as the Moon transits all 64 gates.[^4]
 
 When the Reflector waits 28 days:
 - They experience the decision from every perspective
@@ -108,7 +108,7 @@ Together, they form the **dual key** to living in alignment:
 ---
 ## Strategy and the Mind
 
-One of Strategy's primary functions is to **liberate the mind** from decision-making. The mind is designed to be an **Outer Authority**—a tool for observing, articulating, and offering perspective to others—not an Inner Authority that decides for the self.
+One of Strategy's primary functions is to **liberate the mind** from decision-making. The mind is designed to be an **Outer Authority**—a tool for observing, articulating, and offering perspective to others—not an Inner Authority that decides for the self.[^5]
 
 When Strategy is followed:
 - The mind becomes a **passenger**, observing life unfold
@@ -157,7 +157,7 @@ These are the strategies of a Generator-majority world conditioned by capitalist
 
 ### The 7-Year Deconditioning Process
 
-Ra Uru Hu taught that full deconditioning requires **7 years**—one complete cellular regeneration cycle. This is not metaphor; it is biology. Every cell in your body (except neurons and some heart cells) replaces itself over approximately seven years.
+Ra Uru Hu taught that full deconditioning requires **7 years**—one complete cellular regeneration cycle.[^6] This is not metaphor; it is biology. Every cell in your body (except neurons and some heart cells) replaces itself over approximately seven years.
 
 **Year 1-2:** Mental resistance and doubt. The mind objects to Strategy's "illogical" mechanics.
 
@@ -219,6 +219,15 @@ Strategy is the spiritual practice of **alignment**—not through transcendence 
 ---
 
 *Strategy is the geometry of your unique movement through life—not a moral code but a mechanical law. When you honor your Strategy, you align with the current of your design, and life becomes less resistance and more resonance. The world does not change, but your relationship to it transforms: you stop fighting the river and learn to navigate its flow.*
+
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Strategy as mechanical law, not philosophy, governing each Type's correct engagement
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Manifestor aura described as closed and repelling, creating unconscious resistance in others
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Generator aura described as open and enveloping, designed to draw life toward them
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Reflector Strategy requires waiting a full 28-day lunar cycle through all 64 Gates
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — The mind's correct role as Outer Authority (witness and articulator), not Inner Authority
+[^6]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — The 7-year deconditioning process corresponding to one complete cellular regeneration cycle
 
 ## Sources
 

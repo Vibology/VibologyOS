@@ -58,15 +58,15 @@ Enthusiasm carries the frequency of **versatility through repetition**—the rec
 
 ### The Hexagram (I-Ching)
 
-Thunder above Earth—the image of energy resonating from the ground, creating harmonic waves that inspire alignment. Wilhelm's Judgment: *"Enthusiasm. It furthers one to install helpers and to set armies marching."* True enthusiasm arises from skill that has been earned, creating natural followership through competence rather than charisma.
+Thunder above Earth—the image of energy resonating from the ground, creating harmonic waves that inspire alignment. Wilhelm's Judgment: *"Enthusiasm. It furthers one to install helpers and to set armies marching."*[^1] True enthusiasm arises from skill that has been earned, creating natural followership through competence rather than charisma.
 
 ### The Gate (Human Design)
 
-Gate 16 resides in the Throat Center, the voice of practiced skill. This is **talent through repetition**—the capacity to express expertise that has been earned through dedicated practice. The Logic Circuit recognizes patterns: do it again, refine, repeat, master. Without Gate 48 (The Well) in the Spleen, this is skill without depth of resourcefulness. With the full channel, skill becomes reliable expertise.
+Gate 16 resides in the Throat Center, the voice of practiced skill.[^2] This is **talent through repetition**—the capacity to express expertise that has been earned through dedicated practice. The Logic Circuit recognizes patterns: do it again, refine, repeat, master. Without Gate 48 (The Well) in the Spleen, this is skill without depth of resourcefulness. With the full channel, skill becomes reliable expertise.
 
 ### The Gene Keys
 
-**Shadow: Indifference** — The individual refuses to do the work, expecting talent to emerge without practice. Laziness masquerading as casual genius.
+**Shadow: Indifference**[^3] — The individual refuses to do the work, expecting talent to emerge without practice. Laziness masquerading as casual genius.
 
 **Gift: Versatility** — The capacity to develop multiple skills through dedicated repetition. Mastery expressed through adaptability.
 
@@ -135,6 +135,13 @@ The conditioning pattern: "I should be good at this already" or "If I have to pr
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 16 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 16 mechanics, Throat (Manifestation)
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Indifference / Versatility / Mastery
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 16: Enthusiasm

@@ -32,7 +32,7 @@ Plotinus describes reality as emanating from a supreme principle through three p
 **1. The One (τὸ Ἕν, *to Hen*) / The Good**
 The absolute source of all being — **utterly transcendent**, beyond thought, beyond being, beyond predication. The One does not "create" through an act of will but **emanates** reality the way the sun emanates light or a spring emanates water: without diminishment, without intention, by the sheer superabundance of its nature. The One is not *a* being but the **ground of being** — it cannot be described, only approached through negation (*via negativa*) or through the direct experience of **henosis** (mystical union).
 
-> *"The One is all things and no one of them; the source of all things is not all things."* — Plotinus, *Enneads* V.2.1
+> *"The One is all things and no one of them; the source of all things is not all things."* — Plotinus, *Enneads* V.2.1[^1]
 
 **2. Nous (Νοῦς) / Divine Intellect**
 The first emanation from the One — **pure thought thinking itself**, containing all the Platonic Forms (Ideas) in their totality. Nous is the level of **intellectual apprehension**: it knows all things simultaneously, without sequence, without effort. The Forms within Nous are not abstract concepts but **living, intelligent beings** — the archetypes in their most primary mode of existence.
@@ -56,7 +56,7 @@ The great drama of Neoplatonic philosophy is the **return**: the soul's ascent b
 
 Plotinus describes this experience:
 
-> *"Many times it has happened: lifted out of the body into myself; becoming external to all other things and self-encentered; beholding a marvellous beauty; then, more than ever, assured of community with the loftiest order."* — Plotinus, *Enneads* IV.8.1
+> *"Many times it has happened: lifted out of the body into myself; becoming external to all other things and self-encentered; beholding a marvellous beauty; then, more than ever, assured of community with the loftiest order."* — Plotinus, *Enneads* IV.8.1[^5]
 
 ---
 
@@ -68,17 +68,17 @@ The founder. His *Enneads* (edited by his student Porphyry into six groups of ni
 
 ### Iamblichus (c. 245-325 CE)
 
-Iamblichus broke with Plotinus's purely philosophical approach, arguing that **theurgy** (ritual action, sacred rites) was necessary for the soul's ascent — not because the gods need ritual, but because **embodied souls** need sensory and symbolic mediation to access transcendent realities. This move opened the door for the integration of Neoplatonism with religious practice, mystery rites, and what would later become ceremonial magic.
+Iamblichus broke with Plotinus's purely philosophical approach, arguing that **theurgy** (ritual action, sacred rites) was necessary for the soul's ascent — not because the gods need ritual, but because **embodied souls** need sensory and symbolic mediation to access transcendent realities.[^3] This move opened the door for the integration of Neoplatonism with religious practice, mystery rites, and what would later become ceremonial magic.
 
 ### Proclus (412-485 CE)
 
-The great systematizer. Proclus's *Elements of Theology* formalized Neoplatonic metaphysics into rigorous propositions, establishing the triad of **remaining-procession-return** (*mone-proodos-epistrophe*) as the universal pattern: every being (1) remains in its source, (2) proceeds from its source into its own existence, and (3) returns to its source through desire for the Good.
+The great systematizer. Proclus's *Elements of Theology* formalized Neoplatonic metaphysics into rigorous propositions, establishing the triad of **remaining-procession-return** (*mone-proodos-epistrophe*) as the universal pattern:[^2] every being (1) remains in its source, (2) proceeds from its source into its own existence, and (3) returns to its source through desire for the Good.
 
 ### Pseudo-Dionysius the Areopagite (c. 5th-6th century CE)
 
 The anonymous Christian author who **Christianized Neoplatonism**, writing under the name of Paul's Athenian convert (Acts 17:34). His works — especially *The Celestial Hierarchy* and *The Mystical Theology* — translated the Neoplatonic emanation schema into Christian angelology and the *via negativa* into Christian mystical theology. The [[The Celestial Hierarchy|Celestial Hierarchy]] — the nine orders of angels arranged in three triads — is a direct application of Proclean Neoplatonism to Christian cosmology.
 
-> *"The purpose of the Hierarchy is the greatest possible assimilation to and union with God."* — Pseudo-Dionysius, *The Celestial Hierarchy*, III.2
+> *"The purpose of the Hierarchy is the greatest possible assimilation to and union with God."* — Pseudo-Dionysius, *The Celestial Hierarchy*, III.2[^4]
 
 ---
 
@@ -144,6 +144,16 @@ The emphasis on ascent (*epistrophe*) can become a refusal of descent (*proodos*
 - **The Magdalene Path:** [[The Eight Boughs of Ascent]] as the soul's return through levels; [[The Dark Night of the Soul]] as the passage through the Neoplatonic "darkness" beyond Nous
 - **Jungian:** [[The Self]] (the One), [[The Collective Unconscious]] (Nous), [[Unus Mundus]] (the unified ground), individuation as epistrophe
 - **Human Design:** The differentiation of the Self into 64 gates/384 lines as a modern emanation schema — the One (the Magnetic Monopole) expressing through multiplicity
+
+---
+
+## Footnotes
+
+[^1]: Plotinus, *Enneads* V.2.1 (trans. Armstrong, Loeb Classical Library) — the One as source of all things, beyond predication and being.
+[^2]: Proclus, *Elements of Theology* (trans. Dodds, E.R.) — the triad of remaining-procession-return (*mone-proodos-epistrophe*) as universal metaphysical pattern.
+[^3]: Iamblichus, *De Mysteriis* (trans. Clarke, Dillon, Hershbell) — theurgy as necessary for the soul's ascent because embodied souls require sensory and symbolic mediation.
+[^4]: Pseudo-Dionysius, *The Celestial Hierarchy* III.2 (trans. Luibheid) — the purpose of the angelic hierarchy as assimilation to and union with God.
+[^5]: Plotinus, *Enneads* IV.8.1 (trans. Armstrong, Loeb Classical Library) — Plotinus's first-person account of mystical union (henosis).
 
 ---
 

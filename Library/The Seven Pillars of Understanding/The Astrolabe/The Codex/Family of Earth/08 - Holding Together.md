@@ -58,15 +58,15 @@ Holding Together carries the frequency of **individual style as contribution**�
 
 ### The Hexagram (I-Ching)
 
-Water above Earth—the image of individual drops gathering into flowing water, collective force emerging from unity without loss of individuality. Wilhelm's Judgment: *"Holding Together brings good fortune. But let the oracle be consulted again to see if you possess sublimity, constancy, and perseverance; then there is no blame."* Union must be genuine, rooted in authentic alignment, not forced through external pressure.
+Water above Earth—the image of individual drops gathering into flowing water, collective force emerging from unity without loss of individuality. Wilhelm's Judgment: *"Holding Together brings good fortune. But let the oracle be consulted again to see if you possess sublimity, constancy, and perseverance; then there is no blame."*[^1] Union must be genuine, rooted in authentic alignment, not forced through external pressure.
 
 ### The Gate (Human Design)
 
-Gate 8 resides in the Throat Center, the voice of manifestation. This is **contribution through individual style**—the capacity to express unique creative direction in ways that inspire and empower the collective. The key is waiting to be invited. Individual Knowing does not push its expression on others; it offers through being, and those who resonate recognize its value.
+Gate 8 resides in the Throat Center, the voice of manifestation.[^2] This is **contribution through individual style**—the capacity to express unique creative direction in ways that inspire and empower the collective. The key is waiting to be invited. Individual Knowing does not push its expression on others; it offers through being, and those who resonate recognize its value.
 
 ### The Gene Keys
 
-**Shadow: Mediocrity** — The individual suppresses their unique style to fit collective expectations, becoming generic, derivative, inauthentic. Contribution loses its creative spark.
+**Shadow: Mediocrity**[^3] — The individual suppresses their unique style to fit collective expectations, becoming generic, derivative, inauthentic. Contribution loses its creative spark.
 
 **Gift: Style** — The capacity to express individuality with confidence and flair. Unique contribution that serves the group without sacrificing authenticity.
 
@@ -135,6 +135,13 @@ The conditioning pattern: "I must conform to be accepted" or "My unique style is
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 8 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 8 mechanics, Throat (Manifestation)
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Mediocrity / Style / Exquisiteness
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 8: Holding Together

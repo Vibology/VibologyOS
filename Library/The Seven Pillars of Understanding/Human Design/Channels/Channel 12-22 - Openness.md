@@ -21,9 +21,9 @@ source_verified: Esoteric Grimoire
 
 ---
 ## Ra's Definition
-According to Ra Uru Hu, the **Channel of Openness** (12-22) is the only **Individual Manifesting channel**—connecting the **Solar Plexus** (emotional motor) directly to the **Throat** (manifestation). This creates a design that can **initiate action through articulated mood**.
+According to Ra Uru Hu, the **Channel of Openness** (12-22) is the only **Individual Manifesting channel**[^1]—connecting the **Solar Plexus** (emotional motor) directly to the **Throat** (manifestation). This creates a design that can **initiate action through articulated mood**.
 
-Ra taught that this channel carries **mutation** and **melancholy**—the capacity to express something emotionally unique that has never been expressed before. This is not collective emotional processing (Abstract Circuit) nor tribal emotional bonding (Tribal Defense Circuit). This is **individual emotional spirit seeking voice**.
+Ra taught that this channel carries **mutation** and **melancholy**[^2]—the capacity to express something emotionally unique that has never been expressed before. This is not collective emotional processing (Abstract Circuit) nor tribal emotional bonding (Tribal Defense Circuit). This is **individual emotional spirit seeking voice**.
 
 **"The 12-22 is the channel of the artist, the poet, the mystic—anyone who must give voice to their mood. When the mood strikes, they speak. When it doesn't, they are silent. This is not a conversation; this is a declaration."** — Ra Uru Hu
 
@@ -44,7 +44,7 @@ Together, they form the electromagnetic bridge: **emotional spirit (22) articula
 | **Channel Name** | Openness (A Social Being) |
 | **Gates** | Gate 12 (Standstill/Caution - Throat) + Gate 22 (Grace/Openness - Solar Plexus) |
 | **Centers Connected** | Throat ↔ Solar Plexus |
-| **Circuitry** | Individual - Knowing Circuit (Mutation) |
+| **Circuitry** | Individual - Knowing Circuit (Mutation)[^3] |
 | **Type Created** | Manifesting (Solar Plexus motor to Throat) |
 | **Keynote** | Articulation of mood; social grace or disgrace |
 | **I-Ching Hexagrams** | Gate 12: Hexagram 12 (Standstill) / Gate 22: Hexagram 22 (Grace) |
@@ -99,7 +99,7 @@ The Channel of Openness connects the **Throat Center** (manifestation, expressio
 - This is not the logical voice (Gate 62), the collective voice (Gate 31), or the tribal voice (Gate 45). This is the **individual voice**, acoustically mutative.
 
 **Solar Plexus Center (Gate 22):**
-- The Solar Plexus is the **emotional motor** and one of the three **awareness centers** (alongside Spleen and Ajna).
+- The Solar Plexus is the **emotional motor** and one of the three **awareness centers** (alongside Spleen and Ajna)[^4].
 - Gate 22 in the Solar Plexus provides **emotional spirit**—openness to feeling, grace, the willingness to experience the emotional wave without resistance.
 - This is not tribal emotional bonding (Gates 6, 37, 49) nor collective emotional processing (Gates 30, 36, 35). This is **individual emotional clarity** emerging through time.
 
@@ -224,7 +224,7 @@ The Channel of Openness requires integration with **Human Design Strategy** (Typ
 - **Not-Self: Frustration and Anger.** Frustration (from incorrect response) + Anger (from uninformed initiation). The MG with 12-22 can experience both Not-Self signatures if strategy/authority are violated.
 
 **For all 12-22 individuals (regardless of Type):**
-- **Emotional Authority supersedes all other authorities.** Even if the individual has Sacral or Splenic defined, the Solar Plexus takes precedence. The wave must be honored.
+- **Emotional Authority supersedes all other authorities.** Even if the individual has Sacral or Splenic defined, the Solar Plexus takes precedence[^5]. The wave must be honored.
 - **No truth in the now:** The individual must resist the mind's demand for immediate clarity. Emotional authority requires **waiting**—sleeping on it, feeling through multiple cycles of the wave, allowing the mood to settle.
 - **Timing of expression:** The individual must discern **when** to speak. Not every mood requires articulation. The gift of Gate 12 is **discrimination**—knowing when to give voice and when to remain silent.
 
@@ -468,6 +468,14 @@ When the individual honors the wave, waits for clarity, and speaks only what is 
 - Channel 39-55 - Emoting (Individual emotional spirit)
 - Channel 35-36 - Transitoriness (Collective emotional expression)
 - Channel 30-41 - Recognition (Abstract emotional fuel)
+
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 12-22 as the only Individual Manifesting channel (Solar Plexus motor to Throat)
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Individual circuit channels carry themes of mutation and melancholy
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 12-22 placement within the Individual Knowing Circuit
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Solar Plexus as both emotional motor and awareness center, alongside Spleen and Ajna
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Emotional Authority hierarchy: Solar Plexus supersedes all other authorities when defined
 
 ## Sources
 **Primary Source:**

@@ -60,15 +60,15 @@ The alchemical image is **Coagulatio**—the solidification of volatile essence 
 
 ### The Hexagram (I-Ching)
 
-Hexagram 47, *Kùn* (Oppression / Exhaustion), shows Lake above Water—but the lake has no water, creating the image of exhaustion, depletion, confinement. Wilhelm interprets this as the moment when external resources are gone and only internal will remains. The teaching is that extremity forces realization—when you cannot escape the pressure, you must transform relationship to it. The Nuclear Hexagram is 38 (Opposition), revealing that beneath oppression lies necessary friction—sometimes understanding requires being trapped with the question.
+Hexagram 47, *Kùn* (Oppression / Exhaustion), shows Lake above Water—but the lake has no water, creating the image of exhaustion, depletion, confinement.[^1] Wilhelm interprets this as the moment when external resources are gone and only internal will remains. The teaching is that extremity forces realization—when you cannot escape the pressure, you must transform relationship to it. The Nuclear Hexagram is 38 (Opposition), revealing that beneath oppression lies necessary friction—sometimes understanding requires being trapped with the question.
 
 ### The Gate (Human Design)
 
-Gate 47 in the Ajna provides the mental pressure to conceptualize—to take confusing, chaotic, or painful experiences and transform them into coherent understanding. Ra Uru Hu taught this gate as working with past experience, often experienced as "mental headaches" or obsessive thinking until the realization arrives. When connected to Gate 64 in the Head, the 47-64 Channel creates *Abstraction*—the pressure to make sense (64) meeting the capacity to realize (47), creating breakthrough understanding. The shadow: mental oppression, obsessive thinking, getting trapped in confusion. The gift: transmutation, turning lead of experience into gold of insight. The teaching: confusion is not failure; it is the pressure that births realization.
+Gate 47 in the Ajna provides the mental pressure to conceptualize—to take confusing, chaotic, or painful experiences and transform them into coherent understanding. Ra Uru Hu taught this gate as working with past experience, often experienced as "mental headaches" or obsessive thinking until the realization arrives.[^2] When connected to Gate 64 in the Head, the 47-64 Channel creates *Abstraction*—the pressure to make sense (64) meeting the capacity to realize (47), creating breakthrough understanding. The shadow: mental oppression, obsessive thinking, getting trapped in confusion. The gift: transmutation, turning lead of experience into gold of insight. The teaching: confusion is not failure; it is the pressure that births realization.
 
 ### The Gene Keys
 
-- **Shadow: Oppression** — Mental pressure collapsing into suffering; confusion mistaken for inadequacy. The Shadow manifests as the person trapped in obsessive thinking, cycling through the same questions without resolution, experiencing mental confinement as torture. This is the overthinker paralyzed by analysis, the trauma survivor replaying painful memories seeking understanding that won't come, the student who studies endlessly but cannot synthesize. Oppression is resistance to the pressure—believing you should already understand, that confusion means something is wrong with you, that if you just think harder the answer will arrive.
+- **Shadow: Oppression**[^3] — Mental pressure collapsing into suffering; confusion mistaken for inadequacy. The Shadow manifests as the person trapped in obsessive thinking, cycling through the same questions without resolution, experiencing mental confinement as torture. This is the overthinker paralyzed by analysis, the trauma survivor replaying painful memories seeking understanding that won't come, the student who studies endlessly but cannot synthesize. Oppression is resistance to the pressure—believing you should already understand, that confusion means something is wrong with you, that if you just think harder the answer will arrive.
 
 - **Gift: Transmutation** — The alchemical capacity to transform confusion into clarity through sustained contemplation. Transmutation recognizes that realization cannot be forced but emerges when sufficient pressure meets patience. The gift is the person who sits with confusion without collapsing, who trusts that understanding will arrive in its own time, who uses mental pressure as container for transformation. This is the therapist who helps clients make sense of chaos, the philosopher who extracts meaning from suffering, the teacher who transmutes experience into wisdom. Transmutation is not escape from pressure but *productive use of confinement*.
 
@@ -141,6 +141,13 @@ Another Shadow trap: avoiding contemplation entirely. If thinking creates pressu
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 47 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 47 mechanics, Ajna
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Oppression / Transmutation / Transfiguration
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 47: Oppression

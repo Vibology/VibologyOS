@@ -23,17 +23,17 @@ title: Lord of Rest from Strife
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, the Four of Swords signifies **vigilance, retreat, solitude, hermit's repose, exile, tomb, and coffin**. Yet Waite also notes it can indicate "a bad card, but if reversed, a qualified success may be expected by the administration of affairs." The card walks a delicate line between the imagery of death and the promise of restoration. When the Four of Swords appears upright, it speaks to the realm of strategic withdrawal—the warrior who knows that sometimes the wisest move is to retreat, to rest, to wait.
+According to Waite's *Pictorial Key to the Tarot*, the Four of Swords signifies **vigilance, retreat, solitude, hermit's repose, exile, tomb, and coffin**.[^1] Yet Waite also notes it can indicate "a bad card, but if reversed, a qualified success may be expected by the administration of affairs." The card walks a delicate line between the imagery of death and the promise of restoration. When the Four of Swords appears upright, it speaks to the realm of strategic withdrawal—the warrior who knows that sometimes the wisest move is to retreat, to rest, to wait.
 
-The Golden Dawn titles this card the **"Lord of Rest from Strife"** and attributes it to **Jupiter in Libra**—the planet of benevolence, expansion, and wisdom operating through the sign of balance, harmony, and relationship. This is rest *earned*—not collapse, not defeat, but the deliberate cessation of struggle that allows recovery. Jupiter in Libra seeks peace through wisdom, not through conquest.
+The Golden Dawn titles this card the **"Lord of Rest from Strife"**[^2] and attributes it to **Jupiter in Libra**—the planet of benevolence, expansion, and wisdom operating through the sign of balance, harmony, and relationship. This is rest *earned*—not collapse, not defeat, but the deliberate cessation of struggle that allows recovery. Jupiter in Libra seeks peace through wisdom, not through conquest.
 
-Qabalistically, this is **Chesed in Yetzirah**—Mercy (the fourth Sephirah, the principle of abundance and ordered stability) expressing through the Formative World of Air and intellect. After the sorrow of the Three (Binah), Chesed offers respite. The mind that has been wounded is now given sanctuary. The battle is not over—but this engagement has concluded.
+Qabalistically, this is **Chesed in Yetzirah**—Mercy (the fourth Sephirah, the principle of abundance and ordered stability) expressing through the Formative World of Air and intellect.[^4] After the sorrow of the Three (Binah), Chesed offers respite. The mind that has been wounded is now given sanctuary. The battle is not over—but this engagement has concluded.
 
 The card represents the **wisdom of the pause**—the recognition that endless striving leads only to exhaustion, that strategic retreat is not the same as defeat, that rest is not laziness but preparation.
 
 In readings, the Four of Swords is almost always welcome after a period of difficulty. It indicates that the conflict has reached a stopping point—a truce, a sabbatical, a hospital stay, a meditation retreat. The querent is being invited (or compelled) to *stop*. This is not the time for action; it is the time for recovery.
 
-When the Four of Swords appears **reversed**, Waite identifies meanings of **wise administration, circumspection, economy, avarice, precaution, testament**. Interestingly, the reversal often *strengthens* the card's meaning—caution becomes even more emphasized, the need for careful management more urgent. The reversed Four may indicate emerging from rest, or the need for even deeper rest than currently being taken.
+When the Four of Swords appears **reversed**, Waite identifies meanings of **wise administration, circumspection, economy, avarice, precaution, testament**.[^3] Interestingly, the reversal often *strengthens* the card's meaning—caution becomes even more emphasized, the need for careful management more urgent. The reversed Four may indicate emerging from rest, or the need for even deeper rest than currently being taken.
 
 The key teaching: **Rest is not retreat—it is the gathering of strength**. The Four of Swords is the deep breath between battles, the sleep that heals wounds, the stillness in which wisdom is born.
 
@@ -118,7 +118,7 @@ The Rider-Waite image of the Four of Swords is unique in the deck—a scene of h
 
 #### The Recumbent Knight
 
-At the center of the card, a **knight in full armor** lies upon a stone slab, hands clasped in prayer, eyes closed. He is the effigy carved on a medieval tomb—but he is not dead.
+At the center of the card, a **knight in full armor** lies upon a stone slab, hands clasped in prayer, eyes closed.[^5] He is the effigy carved on a medieval tomb—but he is not dead.
 
 The **knight** represents:
 - **The warrior at rest**: One who has fought, who bears the marks of battle, who has earned the right to rest
@@ -339,6 +339,14 @@ The rest is not the end. It is the preparation for what comes next.
 ---
 
 *"Rest is not retreat—it is the gathering of strength for the next ascent."*
+
+## Footnotes
+
+[^1]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meanings for the Four of Swords
+[^2]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Lord of Rest from Strife" and Jupiter in Libra attribution
+[^3]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meanings for the Four of Swords
+[^4]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Chesed in Yetzirah Qabalistic placement and decan attribution
+[^5]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — Rider-Waite image description: recumbent knight on stone slab in prayer position
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

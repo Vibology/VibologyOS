@@ -23,21 +23,21 @@ title: Lord of Material Happiness
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, the Nine of Cups signifies **"concord, contentment, physical bien-être; also victory, success, advantage; satisfaction for the Querent or person for whom the consultation is made."** When the Nine of Cups appears upright, it speaks to the moment of genuine fulfillment—not the striving toward a goal, but the *arrival*. The wish has been granted. The cup is full. The hunger is, at last, satisfied.
+According to Waite's *Pictorial Key to the Tarot*, the Nine of Cups signifies **"concord, contentment, physical bien-être; also victory, success, advantage; satisfaction for the Querent or person for whom the consultation is made."** [^1] When the Nine of Cups appears upright, it speaks to the moment of genuine fulfillment—not the striving toward a goal, but the *arrival*. The wish has been granted. The cup is full. The hunger is, at last, satisfied.
 
 The figure in the Rider-Waite-Smith image sits with arms crossed, a satisfied smile upon his face. Behind him, nine golden cups are arranged in a perfect arc—a rainbow of abundance displayed rather than hoarded. His posture is one of ease and self-assurance: he has what he wanted, and he knows it. This is not the restless discontent of the Four of Cups, nor the illusory promises of the Seven—this is *genuine satisfaction*.
 
-The Golden Dawn titles this card the **"Lord of Material Happiness"**—a name that emphasizes the *earthly* nature of this fulfillment. The Nine of Cups is not spiritual ecstasy or transcendent union; it is the blessing of *getting what you asked for* in the material world. The wish fulfilled. The prayer answered. The effort rewarded.
+The Golden Dawn titles this card the **"Lord of Material Happiness"** [^2]—a name that emphasizes the *earthly* nature of this fulfillment. The Nine of Cups is not spiritual ecstasy or transcendent union; it is the blessing of *getting what you asked for* in the material world. The wish fulfilled. The prayer answered. The effort rewarded.
 
-The card is attributed to **Jupiter in Pisces**—the great benefic in its ancient domicile, the planet of expansion and abundance swimming in the waters of boundless generosity. Jupiter rules Pisces in traditional astrology (before Neptune's modern attribution), and this is Jupiter at its most generous: abundance without limit, blessings without condition, the cup that overflows not from chaos but from *grace*.
+The card is attributed to **Jupiter in Pisces** [^3]—the great benefic in its ancient domicile, the planet of expansion and abundance swimming in the waters of boundless generosity. Jupiter rules Pisces in traditional astrology (before Neptune's modern attribution), and this is Jupiter at its most generous: abundance without limit, blessings without condition, the cup that overflows not from chaos but from *grace*.
 
-The card represents **Yesod (Foundation) in Briah (the World of Emotion/Formation)**. Yesod, the ninth Sephirah, is the sphere of the Moon, of images, dreams, and the astral plane—the foundation upon which Malkuth (material reality) rests. In the emotional realm of Briah, Yesod manifests as **the crystallization of emotional fulfillment**—the dream made tangible, the wish given form, the image becoming reality.
+The card represents **Yesod (Foundation) in Briah (the World of Emotion/Formation)**. [^4] Yesod, the ninth Sephirah, is the sphere of the Moon, of images, dreams, and the astral plane—the foundation upon which Malkuth (material reality) rests. In the emotional realm of Briah, Yesod manifests as **the crystallization of emotional fulfillment**—the dream made tangible, the wish given form, the image becoming reality.
 
 The number **Nine** in Qabalah represents the culmination before completion—the penultimate stage, the moment of *near-perfection* before the final manifestation in Ten. The Nines across all suits represent the full expression of their element before it passes into material form: great strength (Wands), material happiness (Cups), cruelty (Swords), material gain (Pentacles). Nine is the number of the hermit's accomplishment, the sage's contentment, the harvest before the feast.
 
 This is the **"Wish Card"** of the Tarot—perhaps the most fortunate card in the entire deck for questions of personal desire. When the Nine of Cups appears, what you have hoped for is arriving or has already arrived. The universe has said *yes*.
 
-When the Nine of Cups appears **reversed**, Waite identifies: **"Truth, loyalty, liberty; but also mistakes, imperfections, etc."** The reversal complicates the blessing—perhaps the wish was granted but brought unexpected consequences, perhaps satisfaction curdled into smugness, or perhaps what you thought you wanted has revealed itself as insufficient for your deeper needs. The reversed Nine asks: *Was this really what you wanted? And if so, why doesn't it feel like enough?*
+When the Nine of Cups appears **reversed**, Waite identifies: **"Truth, loyalty, liberty; but also mistakes, imperfections, etc."** [^5] The reversal complicates the blessing—perhaps the wish was granted but brought unexpected consequences, perhaps satisfaction curdled into smugness, or perhaps what you thought you wanted has revealed itself as insufficient for your deeper needs. The reversed Nine asks: *Was this really what you wanted? And if so, why doesn't it feel like enough?*
 
 The key teaching: **Gratitude is the practice of recognizing that abundance is already here.** The Nine of Cups is not the promise of future blessing—it is the recognition that the blessing has *arrived*.
 
@@ -220,6 +220,14 @@ When the Nine of Cups emerges in reading or contemplation, consider:
 ---
 
 *"The wish fulfilled is not the end of the journey—it is the reward for having journeyed well. Now rest. Tomorrow, you may wish again."*
+
+## Footnotes
+
+[^1]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meaning for the Nine of Cups.
+[^2]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Lord of Material Happiness" for the Nine of Cups.
+[^3]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Jupiter in Pisces decan attribution for the Nine of Cups.
+[^4]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Yesod in Briah Sephirotic placement for the Nine of Cups.
+[^5]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meaning for the Nine of Cups.
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

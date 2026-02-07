@@ -58,15 +58,15 @@ Standstill carries the frequency of **discrimination as protection**—the capac
 
 ### The Hexagram (I-Ching)
 
-Heaven above Earth—the image of separation, of Heaven and Earth pulling apart rather than uniting. Wilhelm's Judgment: *"Standstill. Evil people do not further the perseverance of the superior man. The great departs; the small approaches."* This is a time of withdrawal, of holding one's position, of refusing to advance when the conditions are not correct.
+Heaven above Earth—the image of separation, of Heaven and Earth pulling apart rather than uniting. Wilhelm's Judgment: *"Standstill. Evil people do not further the perseverance of the superior man. The great departs; the small approaches."*[^1] This is a time of withdrawal, of holding one's position, of refusing to advance when the conditions are not correct.
 
 ### The Gate (Human Design)
 
-Gate 12 resides in the Throat Center, the voice of caution and restraint. This is **the power to articulate "not yet"**—to express discernment about timing, to say "no" when collective pressure demands "yes." Without Gate 22 (Grace) in the Solar Plexus, this caution remains unexpressed or unemotional, purely mental or mechanical. With the full channel, caution becomes emotionally articulated openness.
+Gate 12 resides in the Throat Center, the voice of caution and restraint.[^2] This is **the power to articulate "not yet"**—to express discernment about timing, to say "no" when collective pressure demands "yes." Without Gate 22 (Grace) in the Solar Plexus, this caution remains unexpressed or unemotional, purely mental or mechanical. With the full channel, caution becomes emotionally articulated openness.
 
 ### The Gene Keys
 
-**Shadow: Vanity** — The individual uses caution as a mask for fear, saying "no" to protect ego rather than serve truth. Discrimination becomes judgment, restraint becomes rigidity.
+**Shadow: Vanity**[^3] — The individual uses caution as a mask for fear, saying "no" to protect ego rather than serve truth. Discrimination becomes judgment, restraint becomes rigidity.
 
 **Gift: Discrimination** — The capacity to discern what is ready and what requires patience. Caution that protects mutation and serves correct timing.
 
@@ -135,6 +135,13 @@ The conditioning pattern: "I must protect myself by saying no" or "If I'm cautio
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 12 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 12 mechanics, Throat (Manifestation)
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Vanity / Discrimination / Purity
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 12: Standstill

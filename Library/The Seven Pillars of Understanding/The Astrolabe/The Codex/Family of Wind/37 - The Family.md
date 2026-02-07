@@ -60,15 +60,15 @@ The alchemical image is *Coniunctio in community form*—the sacred marriage mul
 
 ### The Hexagram (I-Ching)
 
-Hexagram 37, *Chia Jen* (The Family), depicts Fire above Wind—the light and warmth of the hearth sustained by wood (Wind) carefully tended. The structure emphasizes proper roles: Wilhelm notes that the hexagram highlights the woman's leadership within the family sphere, the man's in the outer world—not rigid gender roles but recognition that different domains require different strengths. The Judgment: "The perseverance of the woman brings good fortune." The Image links family to consistency: "substance in his words and duration in his way of life"—community requires members who keep agreements, who are reliable, whose word can be trusted.
+Hexagram 37, *Chia Jen* (The Family), depicts Fire above Wind—the light and warmth of the hearth sustained by wood (Wind) carefully tended.[^1] The structure emphasizes proper roles: Wilhelm notes that the hexagram highlights the woman's leadership within the family sphere, the man's in the outer world—not rigid gender roles but recognition that different domains require different strengths. The Judgment: "The perseverance of the woman brings good fortune." The Image links family to consistency: "substance in his words and duration in his way of life"—community requires members who keep agreements, who are reliable, whose word can be trusted.
 
 ### The Gate (Human Design)
 
-Gate 37 in the Solar Plexus governs the emotional foundation of tribal bonds. Ra Uru Hu taught that this gate is "friendship"—the deep loyalty and emotional commitment that binds families and communities. When connected to Gate 40 in the Heart, the 37-40 Channel creates *Community*—emotional willingness to belong (Gate 37) meets material willingness to work (Gate 40), creating the foundation of tribal survival. The challenge: to maintain individuality within community, to honor agreements without losing self, to balance emotional intimacy with healthy boundaries.
+Gate 37 in the Solar Plexus governs the emotional foundation of tribal bonds. Ra Uru Hu taught that this gate is "friendship"—the deep loyalty and emotional commitment that binds families and communities.[^2] When connected to Gate 40 in the Heart, the 37-40 Channel creates *Community*—emotional willingness to belong (Gate 37) meets material willingness to work (Gate 40), creating the foundation of tribal survival. The challenge: to maintain individuality within community, to honor agreements without losing self, to balance emotional intimacy with healthy boundaries.
 
 ### The Gene Keys
 
-- **Shadow: Weakness** — The collapse into dependency or dissolution of boundaries; either clinging to community out of fear of being alone, or refusing all belonging to protect fragile ego. Weakness is the inability to be both individual *and* member—the person who loses themselves in relationship or walls themselves off entirely. The Shadow is failed reciprocity: taking without giving (parasite) or giving without receiving (martyr).
+- **Shadow: Weakness**[^3] — The collapse into dependency or dissolution of boundaries; either clinging to community out of fear of being alone, or refusing all belonging to protect fragile ego. Weakness is the inability to be both individual *and* member—the person who loses themselves in relationship or walls themselves off entirely. The Shadow is failed reciprocity: taking without giving (parasite) or giving without receiving (martyr).
 
 - **Gift: Equality** — The capacity to enter relationship as distinct individual while honoring others as equals. Equality recognizes that different roles are not inferior/superior but *complementary*—each member brings unique gifts, each role matters, each person deserves respect. The gift is the healthy family: differentiated yet bonded, individuals who choose to belong because belonging enhances rather than diminishes them.
 
@@ -141,6 +141,13 @@ Another Shadow trap: agreement as control. If Gate 40's bargaining becomes manip
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 37 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 37 mechanics, Solar Plexus
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Weakness / Equality / Tenderness
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 37: The Family

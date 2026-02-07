@@ -23,15 +23,15 @@ title: Lord of Abundance
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, the Three of Cups signifies **"the conclusion of any matter in plenty, perfection, and merriment; happy issue, victory, fulfilment, solace, healing."** When reversed: **"expedition, dispatch, achievement, end—the excess in physical enjoyment, and the pleasures of the senses."** The card speaks to the realm of celebration, communal joy, and the fruition of emotional investment.
+According to Waite's *Pictorial Key to the Tarot*, the Three of Cups signifies **"the conclusion of any matter in plenty, perfection, and merriment; happy issue, victory, fulfilment, solace, healing."** [^1] When reversed: **"expedition, dispatch, achievement, end—the excess in physical enjoyment, and the pleasures of the senses."** The card speaks to the realm of celebration, communal joy, and the fruition of emotional investment.
 
-The Golden Dawn titles this card the **"Lord of Abundance"** and attributes it to **Mercury in Cancer**—the planet of communication, exchange, and connection expressing through the sign of home, nurturing, and emotional bonding. This is the exchange that *nourishes*—words that build family, communication that creates belonging, the sharing of emotional wealth that makes a house into a home. Mercury in Cancer does not speak to persuade or analyze, but to *include*—to bring others into the circle of warmth.
+The Golden Dawn titles this card the **"Lord of Abundance"** [^2] and attributes it to **Mercury in Cancer** [^3]—the planet of communication, exchange, and connection expressing through the sign of home, nurturing, and emotional bonding. This is the exchange that *nourishes*—words that build family, communication that creates belonging, the sharing of emotional wealth that makes a house into a home. Mercury in Cancer does not speak to persuade or analyze, but to *include*—to bring others into the circle of warmth.
 
-The card represents **Binah (Understanding) in Briah (the Creative World of Water)**. Binah, the third Sephirah on the Tree of Life, is the Great Mother—the principle of form, containment, and gestation. In Binah, the dynamic force of Chokmah (Wisdom) is received and given structure. The union of Two has produced fruit in Three. Where the Two of Cups was the pledge, the Three of Cups is the *result* of that pledge—not a child necessarily, but something created together: community, celebration, abundance shared.
+The card represents **Binah (Understanding) in Briah (the Creative World of Water)**. [^4] Binah, the third Sephirah on the Tree of Life, is the Great Mother—the principle of form, containment, and gestation. In Binah, the dynamic force of Chokmah (Wisdom) is received and given structure. The union of Two has produced fruit in Three. Where the Two of Cups was the pledge, the Three of Cups is the *result* of that pledge—not a child necessarily, but something created together: community, celebration, abundance shared.
 
 This is a profoundly favorable card in questions of friendship, celebration, creative collaboration, and emotional fulfillment. It indicates that what has been planted has come to harvest, and the harvest is so abundant it must be shared. The Three of Cups is the party after the wedding, the harvest festival after the labors of planting and tending, the moment when private joy becomes communal celebration.
 
-When the Three of Cups appears **reversed**, Waite notes **"expedition, dispatch, achievement, end"** along with **"excess in physical enjoyment, and the pleasures of the senses."** The Golden Dawn reversal suggests "pleasure turning to excess, a surfeit of indulgence." The reversed Three speaks to celebration that has tipped into hedonism—the party that never ends, the indulgence that becomes escape, the community that devolves into cliquishness. The shadow is *too much of a good thing*—joy consumed without restraint, pleasure pursued to avoid pain, belonging purchased at the cost of individuality.
+When the Three of Cups appears **reversed**, Waite notes **"expedition, dispatch, achievement, end"** along with **"excess in physical enjoyment, and the pleasures of the senses."** [^5] The Golden Dawn reversal suggests "pleasure turning to excess, a surfeit of indulgence." The reversed Three speaks to celebration that has tipped into hedonism—the party that never ends, the indulgence that becomes escape, the community that devolves into cliquishness. The shadow is *too much of a good thing*—joy consumed without restraint, pleasure pursued to avoid pain, belonging purchased at the cost of individuality.
 
 The key teaching: **Joy shared is joy multiplied—but joy without discernment becomes dissipation.** The Three of Cups asks: Is this celebration genuine, or is it performance? Is this community nourishing you, or is it a mask?
 
@@ -353,6 +353,14 @@ The paradox: to truly celebrate with others, you must first know who you are cel
 ---
 
 *"Joy hoarded spoils. Joy shared becomes a fountain that can never run dry."*
+
+## Footnotes
+
+[^1]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meaning for the Three of Cups.
+[^2]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Lord of Abundance" for the Three of Cups.
+[^3]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Mercury in Cancer decan attribution for the Three of Cups.
+[^4]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Binah in Briah Sephirotic placement for the Three of Cups.
+[^5]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meaning for the Three of Cups.
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

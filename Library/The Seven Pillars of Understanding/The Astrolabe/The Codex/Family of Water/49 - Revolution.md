@@ -60,15 +60,15 @@ The alchemical image is *Calcinatio*—the burning away of what is no longer via
 
 ### The Hexagram (I-Ching)
 
-Hexagram 49, *Ko* (Revolution/Molting), depicts the moment when transformation becomes inevitable. Wilhelm's Judgment: "REVOLUTION. On your own day you are believed. Supreme success, furthering through perseverance. Remorse disappears." The phrase "on your own day" is critical—revolution succeeds when timing aligns with necessity; attempted prematurely or belatedly, it fails. The Image of fire in the lake creates the pressure: water extinguishes fire yet fire evaporates water, generating steam—transformation through the meeting of opposites. The hexagram traditionally referred to the Mandate of Heaven in Chinese philosophy: when a ruler or system loses alignment with cosmic order, revolution becomes not just permissible but necessary. The new order must be established through clear principle, not through reactivity.
+Hexagram 49, *Ko* (Revolution/Molting), depicts the moment when transformation becomes inevitable.[^1] Wilhelm's Judgment: "REVOLUTION. On your own day you are believed. Supreme success, furthering through perseverance. Remorse disappears." The phrase "on your own day" is critical—revolution succeeds when timing aligns with necessity; attempted prematurely or belatedly, it fails. The Image of fire in the lake creates the pressure: water extinguishes fire yet fire evaporates water, generating steam—transformation through the meeting of opposites. The hexagram traditionally referred to the Mandate of Heaven in Chinese philosophy: when a ruler or system loses alignment with cosmic order, revolution becomes not just permissible but necessary. The new order must be established through clear principle, not through reactivity.
 
 ### The Gate (Human Design)
 
-Gate 49 in the Solar Plexus carries what Ra Uru Hu called "the frequency of emotional sensitivity to what must change." This is Tribal—concerned with family, community, support systems—and rooted in principles about how the tribe should function. Gate 49 feels viscerally when tribe violates its own values: the broken promise, the unspoken betrayal, the injustice that cannot be ignored. When connected to Gate 19 in the Root (Channel of Synthesis), emotional sensitivity combines with basic need—"We cannot continue this way; survival itself requires change." The teaching: revolution that emerges from principle rather than reaction has the power to transform sustainably. The challenge is timing—waiting for emotional clarity before initiating change.
+Gate 49 in the Solar Plexus carries what Ra Uru Hu called "the frequency of emotional sensitivity to what must change.[^2]" This is Tribal—concerned with family, community, support systems—and rooted in principles about how the tribe should function. Gate 49 feels viscerally when tribe violates its own values: the broken promise, the unspoken betrayal, the injustice that cannot be ignored. When connected to Gate 19 in the Root (Channel of Synthesis), emotional sensitivity combines with basic need—"We cannot continue this way; survival itself requires change." The teaching: revolution that emerges from principle rather than reaction has the power to transform sustainably. The challenge is timing—waiting for emotional clarity before initiating change.
 
 ### The Gene Keys
 
-- **Shadow: Reaction** — The impulse to overthrow driven by emotion rather than principle; reactive rebellion that destroys without building; revolution as trauma response. Reaction manifests as iconoclasm for its own sake, the adolescent rejection of all authority, or the wounded striking back without clear vision of what should replace the old.
+- **Shadow: Reaction**[^3] — The impulse to overthrow driven by emotion rather than principle; reactive rebellion that destroys without building; revolution as trauma response. Reaction manifests as iconoclasm for its own sake, the adolescent rejection of all authority, or the wounded striking back without clear vision of what should replace the old.
 
 - **Gift: Revolution** — The capacity to recognize when transformation is necessary and to initiate change aligned with genuine principle. Revolution emerges from emotional clarity about what serves life and what blocks it. This is the principled stand that says "No more"—not from bitterness but from love for what the tribe could become.
 
@@ -141,6 +141,13 @@ Another Shadow trap: refusing revolution when it's necessary. The emotional wave
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 49 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 49 mechanics, Solar Plexus
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Reaction / Revolution / Rebirth
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 49: Revolution (Molting)

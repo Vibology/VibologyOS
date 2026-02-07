@@ -19,13 +19,13 @@ source_verified: Esoteric Grimoire
 
 ---
 ## Ra's Definition
-According to Ra Uru Hu, **Channel 7-31** is the channel of **democratic leadership** within the Collective Logic Circuit. This channel connects the G Center's capacity to embody a leadership role (Gate 7, "The Army") with the Throat's capacity to articulate and influence that leadership (Gate 31, "Influence/Leading").
+According to Ra Uru Hu, **Channel 7-31** is the channel of **democratic leadership** within the Collective Logic Circuit[^1]. This channel connects the G Center's capacity to embody a leadership role (Gate 7, "The Army") with the Throat's capacity to articulate and influence that leadership (Gate 31, "Influence/Leading").
 
-Ra described this as the channel of the **Alpha**—not in the Tribal sense of dominance or control, but in the Collective sense of **elected leadership**. The 7-31 individual does not lead by force or birthright; they lead because the majority recognizes their capacity to guide the collective toward a sustainable future.
+Ra described this as the channel of the **Alpha**—not in the Tribal sense of dominance or control, but in the Collective sense of **elected leadership**[^3]. The 7-31 individual does not lead by force or birthright; they lead because the majority recognizes their capacity to guide the collective toward a sustainable future.
 
 **"Channel 7-31 is democratic leadership. Gate 7 says, 'I could lead.' Gate 31 says, 'I will lead—if you elect me.' This is not the Tribal chief or the Individual genius. This is the elected official, the chosen guide. Leadership is only correct when it is recognized and invited by the majority."** — Ra Uru Hu
 
-This is a **Projected Channel** (G Center to Throat, no motor connection), meaning it requires **recognition and invitation** to be properly received. The leadership capacity of the 7-31 individual is profound, but it can only function when others acknowledge and empower it.
+This is a **Projected Channel** (G Center to Throat, no motor connection)[^2], meaning it requires **recognition and invitation** to be properly received. The leadership capacity of the 7-31 individual is profound, but it can only function when others acknowledge and empower it.
 
 ---
 ## Core Correspondences Table
@@ -39,7 +39,7 @@ This is a **Projected Channel** (G Center to Throat, no motor connection), meani
 | **Type** | Projected (Requires recognition/invitation) |
 | **Keynote** | Leadership (Good or Bad) - Democratic Election |
 | **I-Ching Hexagrams** | Hexagram 7 (The Army) + Hexagram 31 (Influence) |
-| **Biological Connection** | G Center (Liver, magnetic monopole) to Throat (Thyroid, parathyroid) |
+| **Biological Connection** | G Center (Liver, magnetic monopole) to Throat (Thyroid, parathyroid)[^4] |
 | **Gene Keys** | Gate 7: Division → Guidance → Virtue / Gate 31: Arrogance → Leadership → Humility |
 | **Harmonic Theme** | Role of leadership (7) articulated through influence (31) |
 | **Not-Self Pattern** | Leading uninvited; arrogance; division; forcing influence; bitterness from lack of recognition |
@@ -186,7 +186,7 @@ Two leaders. This can be:
 
 ---
 ## Strategy Integration
-Channel 7-31 does **not** carry Authority (it is not a motor or awareness center connection). However, it profoundly influences **how Authority is expressed**.
+Channel 7-31 does **not** carry Authority (it is not a motor or awareness center connection)[^5]. However, it profoundly influences **how Authority is expressed**.
 
 **For Projectors with Channel 7-31:**
 
@@ -370,6 +370,14 @@ Jung's process of individuation requires **recognizing the difference between eg
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - Waiting for Recognition — Leading only when invited
 - Stepping Down — Releasing leadership when the role is complete
+
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 7-31 as the democratic leadership channel within the Collective Logic Circuit
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Projected channel type: G Center-to-Throat with no motor connection
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Alpha keynote: elected leadership by collective recognition, distinct from Tribal dominance
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Biological correlations: G Center to liver and magnetic monopole, Throat to thyroid and parathyroid
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — G-to-Throat channels do not carry inner Authority in the bodygraph hierarchy
 
 ## Sources
 **Primary Source:**

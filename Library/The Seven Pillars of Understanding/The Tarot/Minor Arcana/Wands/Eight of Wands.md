@@ -21,11 +21,11 @@ title: Lord of Swiftness
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, the Eight of Wands depicts **"The card represents motion through the immovable—a flight of wands through an open country; as they are on the descent, they do not signify a new intelligence, but swift communication or arrival of news of an unforeseen nature."** The upright meaning is given as: **"Activity in undertakings, the path of such activity, swiftness, as that of an express messenger; great haste, great hope, speed towards an end which promises assured felicity; generally, that which is on the move; also the arrows of love."**
+According to Waite's *Pictorial Key to the Tarot*, the Eight of Wands depicts **"The card represents motion through the immovable—a flight of wands through an open country; as they are on the descent, they do not signify a new intelligence, but swift communication or arrival of news of an unforeseen nature."** The upright meaning is given as: **"Activity in undertakings, the path of such activity, swiftness, as that of an express messenger; great haste, great hope, speed towards an end which promises assured felicity; generally, that which is on the move; also the arrows of love."**[^1]
 
 This is a card of **acceleration and trajectory**. Unlike the Seven, which held ground defensively, the Eight *releases*—eight wands fly diagonally across an open landscape, descending toward the earth. There is no human figure in the image; the wands themselves are the actors, the protagonists. This is motion freed from hesitation, communication unimpeded, energy traveling at velocity toward its inevitable destination.
 
-The Golden Dawn titles this card the **"Lord of Swiftness"** and attributes it to **Hod in Atziluth**—Splendor (the eighth Sephirah, meaning "Glory" or "Intellect") expressing through the World of Pure Spirit. The planetary attribution is **Mercury in Sagittarius**: the swift messenger planet Mercury channeling through the far-ranging, arrow-like fire sign Sagittarius. This creates what the tradition calls **"Mutable Fire"**—fire that moves, communicates, travels, does not hold position (like the Seven's fixed fire) but *flies*.
+The Golden Dawn titles this card the **"Lord of Swiftness"**[^2] and attributes it to **Hod in Atziluth**—Splendor (the eighth Sephirah, meaning "Glory" or "Intellect") expressing through the World of Pure Spirit. The planetary attribution is **Mercury in Sagittarius**:[^4] the swift messenger planet Mercury channeling through the far-ranging, arrow-like fire sign Sagittarius. This creates what the tradition calls **"Mutable Fire"**—fire that moves, communicates, travels, does not hold position (like the Seven's fixed fire) but *flies*.
 
 The Golden Dawn tradition emphasizes that the Eight represents **"too much force applied too suddenly"**—the phrase is crucial. The wands are not gently placed; they are *launched*, *shot*, *hurled*. The result is swiftness, yes—but also the potential for collision, for impact, for disruption. This is the archetype of **velocity without mediation**—the email sent in the heat of the moment, the decision made instantly, the message that arrives too fast to be softened or contextualized.
 
@@ -33,7 +33,7 @@ The Eight of Wands is favorable in contexts where **speed is essential**—when 
 
 However, the card also carries a warning: **speed can bypass discernment**. The wands are already in flight; there is no calling them back. What has been set in motion will land—but where? And with what effect? The Eight asks: "Are you moving toward something meaningful, or are you simply fleeing stillness? Is your velocity serving purpose, or is it mere restlessness?"
 
-When the Eight of Wands appears **reversed**, Waite identifies: **"Arrows of jealousy, internal dispute, stingings of conscience, quarrels; and in a domestic reading, the whole entirely may read: Domestic quarrels."** The reversed card speaks to **misdirected speed**—the swiftness turns inward (internal dispute) or sours (jealousy), the messages that should connect instead wound, the velocity that should liberate instead constrains. The reversed Eight can manifest as:
+When the Eight of Wands appears **reversed**, Waite identifies: **"Arrows of jealousy, internal dispute, stingings of conscience, quarrels; and in a domestic reading, the whole entirely may read: Domestic quarrels."**[^3] The reversed card speaks to **misdirected speed**—the swiftness turns inward (internal dispute) or sours (jealousy), the messages that should connect instead wound, the velocity that should liberate instead constrains. The reversed Eight can manifest as:
 - **Communication Breakdown**: Messages misunderstood, emails misinterpreted, speed creating confusion rather than clarity
 - **Haste Causing Harm**: Acting too quickly, speaking without thinking, the blurted word that cannot be retracted
 - **Stalled Momentum**: The wands frozen mid-flight, paralysis when speed is needed, the inability to act when the window is open
@@ -496,6 +496,13 @@ The Eight of Wands teaches: **There are moments when you must release control an
 ---
 
 *"The arrow does not question its flight—it simply flies. Trust your aim, release your grip, and let velocity carry you home."*
+
+## Footnotes
+
+[^1]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meanings for the Eight of Wands
+[^2]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Lord of Swiftness" and Hod in Atziluth attribution for the Eight of Wands
+[^3]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meanings for the Eight of Wands
+[^4]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — planetary attribution of Mercury in Sagittarius for the Eight of Wands
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

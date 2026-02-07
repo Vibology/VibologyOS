@@ -12,9 +12,9 @@ verified: true
 # Wait a Lunar Cycle: The Reflector's Strategy
 
 ## Ra's Definition
-**Wait a Lunar Cycle** is the [[Reflector]]'s strategy for achieving clarity in major decisions. With no fixed definition in their chart—all nine centers undefined—the Reflector has no consistent inner authority. Instead, they must sample **every possible energetic configuration** as the Moon transits all 64 gates over approximately 28 days.
+**Wait a Lunar Cycle** is the [[Reflector]]'s strategy for achieving clarity in major decisions. With no fixed definition in their chart—all nine centers undefined[^1]—the Reflector has no consistent inner authority. Instead, they must sample **every possible energetic configuration** as the Moon transits all 64 gates over approximately 28 days.
 
-The Reflector is the rarest Type (~1% of the population), designed to serve as a **mirror for community health**. Their completely open chart allows them to sample the energies around them, reflecting back what is present in their environment. This same openness that makes them sensitive also means they have no fixed point from which to decide—which is why the lunar cycle becomes their decision-making container.
+The Reflector is the rarest Type (~1% of the population),[^2] designed to serve as a **mirror for community health**. Their completely open chart allows them to sample the energies around them, reflecting back what is present in their environment. This same openness that makes them sensitive also means they have no fixed point from which to decide—which is why the lunar cycle becomes their decision-making container.
 
 The Reflector's central question is not "Who am I?" but **"Who am I today?"**—an acknowledgment that their experience shifts with the lunar transit and environmental field.
 
@@ -22,7 +22,7 @@ The Reflector's central question is not "Who am I?" but **"Who am I today?"**—
 
 ## The Aura: Resistant and Sampling
 
-The Reflector's aura is **resistant and sampling**—often described as having a **"Teflon" quality**. Unlike the [[Projector]]'s aura, which penetrates deeply and absorbs, the Reflector's aura samples the *surface* of others' energy fields without taking it in completely.
+The Reflector's aura is **resistant and sampling**—often described as having a **"Teflon" quality**.[^3] Unlike the [[Projector]]'s aura, which penetrates deeply and absorbs, the Reflector's aura samples the *surface* of others' energy fields without taking it in completely.
 
 ### The Teflon Effect
 
@@ -43,7 +43,7 @@ This is why Reflectors can be in many different environments and still maintain 
 
 ## The Mechanics: Lunar Transit as Authority
 
-The Moon moves through all 64 gates of the Human Design mandala in approximately **28.5 days**. As it transits, it temporarily **defines** different gates and channels in the Reflector's chart, creating ever-shifting energetic configurations.
+The Moon moves through all 64 gates of the Human Design mandala in approximately **28.5 days**.[^4] As it transits, it temporarily **defines** different gates and channels in the Reflector's chart, creating ever-shifting energetic configurations.
 
 ### Why the Lunar Cycle Works
 
@@ -125,7 +125,7 @@ This complete openness means:
 
 ### The Moon as Timer
 
-The Moon becomes the Reflector's **external clock**—the consistent cycle that creates rhythm in their otherwise fluid experience. The Moon's transit through each gate lasts approximately **10-11 hours**, meaning the Reflector experiences all 64 gates roughly **twice** during each 28-day cycle.
+The Moon becomes the Reflector's **external clock**—the consistent cycle that creates rhythm in their otherwise fluid experience. The Moon's transit through each gate lasts approximately **10-11 hours**,[^6] meaning the Reflector experiences all 64 gates roughly **twice** during each 28-day cycle.
 
 This is why waiting the full cycle matters: the second pass through each gate confirms (or contradicts) what was felt on the first pass.
 
@@ -180,7 +180,7 @@ No other Type has the completely undefined chart that requires external lunar ti
 
 In a fast-paced world, waiting 28 days feels impossibly slow. Reflectors under pressure may decide in days or hours, only to feel profound disappointment when the quick decision proves wrong.
 
-Ra's advice to Reflectors: **"Don't let the world rush you."** The world operates on Generator timing—immediate response, constant output. The Reflector's lunar rhythm is counter-cultural by design. Those who internalize the world's pace abandon their own.
+Ra's advice to Reflectors: **"Don't let the world rush you."**[^5] The world operates on Generator timing—immediate response, constant output. The Reflector's lunar rhythm is counter-cultural by design. Those who internalize the world's pace abandon their own.
 
 ### 2. Staying in Wrong Environments
 
@@ -268,6 +268,15 @@ For this reason, wise communities value their Reflectors—not as participants i
 ---
 
 *Wait a Lunar Cycle is the Reflector's patient discipline—the recognition that their completely open chart requires external rhythm to find clarity. In a world obsessed with instant decisions, the Reflector's 28-day process feels impossibly slow. But their wisdom cannot be rushed: it emerges through sampling every energetic configuration, filtering conditioning from truth, observing what remains consistent across the cycle. The disappointed Reflector has forgotten this; the surprised Reflector has learned to trust the Moon's rhythm as their own. When the Reflector honors their lunar cycle, they become the clearest mirror the community has—reflecting not distortion but truth, not sickness but possibility.*
+
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Reflectors defined by all nine Centers undefined
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Reflectors comprise approximately 1% of the population
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Reflector aura described as resistant and sampling ("Teflon quality")
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — The Moon transits all 64 Gates in approximately 28.5 days
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Ra's guidance to Reflectors on not internalizing Generator-majority world timing
+[^6]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Each Gate transit lasts approximately 10-11 hours
 
 ## Sources
 

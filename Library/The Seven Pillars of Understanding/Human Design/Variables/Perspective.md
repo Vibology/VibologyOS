@@ -16,7 +16,7 @@ verification_notes: "Variables mechanics verified against Grimoire. Advanced lay
 
 ## Introduction: The Lens of Consciousness
 
-**Perspective** is the third of the Four [[Variables]]—the **View** or cognitive lens through which the Personality filters and conceptualizes reality. It is calculated from the **Color** of the **Personality Nodes** (the conscious trajectory) and represents how the mind is designed to "see."
+**Perspective** is the third of the Four [[Variables]]—the **View** or cognitive lens through which the Personality filters and conceptualizes reality.[^1] It is calculated from the **Color** of the **Personality Nodes** (the conscious trajectory) and represents how the mind is designed to "see."
 
 **The Central Principle:** Perspective is **not** a belief system, worldview, or philosophical stance. It is the **mechanical filter** through which information enters consciousness and is organized into concepts.
 
@@ -51,7 +51,7 @@ In astrology, the **Lunar Nodes** represent trajectory:
 
 ### The Independent Variable
 
-The Nodes are called the **Independent Variable** because they operate as a **single system** linking Design (unconscious/body) and Personality (conscious/mind).
+The Nodes are called the **Independent Variable** because they operate as a **single system** linking Design (unconscious/body) and Personality (conscious/mind).[^3]
 
 **Mechanic:**
 1. The **body** must first be in the correct [[Environment]] (Design Nodes Color)
@@ -66,7 +66,7 @@ The Nodes are called the **Independent Variable** because they operate as a **si
 
 ### What is Distraction?
 
-**Distraction** is the Perspective equivalent of [[Motivation]]'s **Transference**. It occurs when the Personality Nodes fail to hold the correct Color frequency and instead "transfer" to the harmonic Color (1↔4, 2↔5, 3↔6).
+**Distraction** is the Perspective equivalent of [[Motivation]]'s **Transference**.[^2] It occurs when the Personality Nodes fail to hold the correct Color frequency and instead "transfer" to the harmonic Color (1↔4, 2↔5, 3↔6).
 
 **Mechanic:**
 - Colors move in **harmonics**: 1 and 4 are harmonic, 2 and 5 are harmonic, 3 and 6 are harmonic
@@ -279,7 +279,7 @@ The Nodes are called the **Independent Variable** because they operate as a **si
 
 ### Sequence: Perspective After Environment
 
-Perspective stabilizes **only** after the body is in the correct [[Environment]].
+Perspective stabilizes **only** after the body is in the correct [[Environment]].[^4]
 
 **Mechanic:**
 - **Design Nodes (Environment):** Where the **body** needs to be
@@ -350,7 +350,7 @@ A Right Color 1 being passively **absorbs** foundational details by being presen
 
 ### The Role of Perspective in Contribution
 
-When Perspective is operating correctly, it becomes your **Outer Authority**—the unique intelligence you offer the world.
+When Perspective is operating correctly, it becomes your **Outer Authority**—the unique intelligence you offer the world.[^5]
 
 **Inner Authority** (Strategy and [[Authority]]): How you make **decisions** for yourself
 **Outer Authority** (Perspective + [[Motivation]]): How you **contribute** to others
@@ -504,6 +504,14 @@ Perspective requires a full [[Human Design]] chart with **Tone/Color/Base** calc
 - [[Jungian Archetypes]] - Cognitive function parallels
 - [[The Astrolabe]] - Archetypal House resonances
 
+
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Perspective as the third Variable, the cognitive lens calculated from the Color of the Personality Nodes
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Distraction as the Not-Self mechanism at the Perspective level, transferring to the harmonic Color (1↔4, 2↔5, 3↔6)
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — The Nodes as the Independent Variable linking Design (Environment) and Personality (Perspective)
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Perspective stabilizes only when the body is in the correct Environment (Design Nodes)
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Correct Perspective becomes Outer Authority, the unique intelligence offered to others
 
 ## Sources
 

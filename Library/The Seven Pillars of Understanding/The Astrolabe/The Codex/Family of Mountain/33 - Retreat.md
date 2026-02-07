@@ -60,15 +60,15 @@ The alchemical image is *Dissolution followed by Coagulation*—the necessary wi
 
 ### The Hexagram (I-Ching)
 
-Hexagram 33, *Dun* (Retreat), depicts Heaven above Mountain—the Creative withdrawing behind stillness. The structure shows two yang lines at the bottom giving way to ascending yin—the image of dark forces rising, prompting the wise to retire. Wilhelm's Judgment: "RETREAT. Success. In what is small, perseverance furthers." The emphasis is strategic: retreat at the right time *is* success, not a failure to be excused. The teaching: there are battles won through refusal to fight. The Image: "Mountain under heaven: the image of RETREAT. Thus the superior man keeps the inferior man at a distance, not angrily but with reserve."
+Hexagram 33, *Dun* (Retreat), depicts Heaven above Mountain—the Creative withdrawing behind stillness.[^1] The structure shows two yang lines at the bottom giving way to ascending yin—the image of dark forces rising, prompting the wise to retire. Wilhelm's Judgment: "RETREAT. Success. In what is small, perseverance furthers." The emphasis is strategic: retreat at the right time *is* success, not a failure to be excused. The teaching: there are battles won through refusal to fight. The Image: "Mountain under heaven: the image of RETREAT. Thus the superior man keeps the inferior man at a distance, not angrily but with reserve."
 
 ### The Gate (Human Design)
 
-Gate 33 in the Throat governs the expression of privacy—the capacity to withdraw from public engagement and the wisdom to know when to do so. Ra Uru Hu taught that this gate carries "the retreat to privacy to reflect on experience"—not antisocial withdrawal but necessary metabolization time. When connected to Gate 13 in the G Center, the 33-13 Channel creates *The Prodigal*—the one who leaves, learns, and returns with the pattern distilled into wisdom. Without Gate 13, Gate 33 experiences the need for privacy but lacks the historical memory to give withdrawal its purpose. The challenge: to honor the rhythm of engagement and retreat without shame, to recognize that silence is not absence but preparation.
+Gate 33 in the Throat governs the expression of privacy—the capacity to withdraw from public engagement and the wisdom to know when to do so. Ra Uru Hu taught that this gate carries "the retreat to privacy to reflect on experience"—not antisocial withdrawal but necessary metabolization time.[^2] When connected to Gate 13 in the G Center, the 33-13 Channel creates *The Prodigal*—the one who leaves, learns, and returns with the pattern distilled into wisdom. Without Gate 13, Gate 33 experiences the need for privacy but lacks the historical memory to give withdrawal its purpose. The challenge: to honor the rhythm of engagement and retreat without shame, to recognize that silence is not absence but preparation.
 
 ### The Gene Keys
 
-- **Shadow: Forgetting** — The collapse into amnesia; losing track of one's own experience, lessons not metabolized, patterns repeated without learning. Forgetting manifests as living always in reaction, never pausing to reflect. The Shadow is the hamster wheel—constant activity without integration, exhaustion without wisdom.
+- **Shadow: Forgetting**[^3] — The collapse into amnesia; losing track of one's own experience, lessons not metabolized, patterns repeated without learning. Forgetting manifests as living always in reaction, never pausing to reflect. The Shadow is the hamster wheel—constant activity without integration, exhaustion without wisdom.
 
 - **Gift: Mindfulness** — The capacity to pause, withdraw, and *remember* what has been learned. Mindfulness is not meditation technique but the practice of metabolizing experience before moving forward. The gift is pattern recognition through reflection—seeing what the cycle taught, distilling wisdom from experience, returning to engagement with clarity rather than reactivity.
 
@@ -141,6 +141,13 @@ Another Shadow trap: forgetting as defense. If experience was painful, the mind 
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 33 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 33 mechanics, Throat
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Forgetting / Mindfulness / Revelation
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 33: Retreat

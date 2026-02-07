@@ -60,15 +60,15 @@ The alchemical image is *Rectificatio*—the process of repeated distillation th
 
 ### The Hexagram (I-Ching)
 
-Hexagram 7, *Shih* (The Army), depicts organized force under disciplined command. Wilhelm's Judgment reads: "THE ARMY. The army needs perseverance and a strong man. Good fortune without blame." The Image describes "water in the middle of the earth"—hidden reserves, deep resources held beneath the surface. The superior person "increases his masses by generosity toward the people"—leadership that nourishes rather than exploits. The hexagram warns against warfare for its own sake; force must serve higher order. The one yang line in the fifth place (the position of the ruler) leads five yin lines—the ideal ratio of strong guidance directing receptive masses.
+Hexagram 7, *Shih* (The Army), depicts organized force under disciplined command.[^1] Wilhelm's Judgment reads: "THE ARMY. The army needs perseverance and a strong man. Good fortune without blame." The Image describes "water in the middle of the earth"—hidden reserves, deep resources held beneath the surface. The superior person "increases his masses by generosity toward the people"—leadership that nourishes rather than exploits. The hexagram warns against warfare for its own sake; force must serve higher order. The one yang line in the fifth place (the position of the ruler) leads five yin lines—the ideal ratio of strong guidance directing receptive masses.
 
 ### The Gate (Human Design)
 
-Gate 7 in the G Center defines the role of the Self in guiding collective direction. Ra Uru Hu emphasized that this gate carries "the frequency of leadership through magnetic orientation"—not leadership that declares itself but leadership that is *recognized*. The G Center's function is geometrical: to hold a fixed point in space around which others can navigate. Gate 7 provides the clarity of "where we're going and why" that allows groups to organize coherently. When connected to Gate 31 in the Throat (Channel of the Alpha), this becomes recognized leading—the voice others naturally follow. Without Gate 31, Gate 7 may experience the frustration of having clear direction but no audience. The Shadow: trying to force leadership rather than waiting for recognition.
+Gate 7 in the G Center defines the role of the Self in guiding collective direction.[^2] Ra Uru Hu emphasized that this gate carries "the frequency of leadership through magnetic orientation"—not leadership that declares itself but leadership that is *recognized*. The G Center's function is geometrical: to hold a fixed point in space around which others can navigate. Gate 7 provides the clarity of "where we're going and why" that allows groups to organize coherently. When connected to Gate 31 in the Throat (Channel of the Alpha), this becomes recognized leading—the voice others naturally follow. Without Gate 31, Gate 7 may experience the frustration of having clear direction but no audience. The Shadow: trying to force leadership rather than waiting for recognition.
 
 ### The Gene Keys
 
-- **Shadow: Division** — The frequency of us/them, in-group/out-group, leader/follower as rigid separation. Leadership corrupted by ego; direction distorted by personal agenda. Division manifests as authoritarianism (I lead, you follow) or false democracy (no one should lead). Both block authentic guidance.
+- **Shadow: Division**[^3] — The frequency of us/them, in-group/out-group, leader/follower as rigid separation. Leadership corrupted by ego; direction distorted by personal agenda. Division manifests as authoritarianism (I lead, you follow) or false democracy (no one should lead). Both block authentic guidance.
 
 - **Gift: Guidance** — The capacity to hold clear direction that serves the whole. Guidance is magnetic rather than coercive; others align because the path forward is evident. The guide has walked ahead and returns to show the way, but does not force anyone to follow. Leadership as service to the pattern's unfolding.
 
@@ -141,6 +141,13 @@ Another Shadow trap: refusal of leadership when recognized. False humility that 
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 7 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 7 mechanics, G Center
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Division / Guidance / Virtue
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 7: The Army

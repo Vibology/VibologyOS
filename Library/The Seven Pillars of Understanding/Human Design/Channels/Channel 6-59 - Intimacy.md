@@ -19,13 +19,13 @@ source_verified: Esoteric Grimoire
 
 ---
 ## Ra's Definition
-According to Ra Uru Hu, **Channel 6-59** is the most fundamentally biological channel in the Human Design system—the **Mating Channel**. This channel connects the emotional Solar Plexus (Gate 6, Friction/Conflict) with the Sacral life force (Gate 59, Dispersion/Sexuality), creating the electromagnetic pull toward **intimacy, reproduction, and the breaking of barriers** between self and other.
+According to Ra Uru Hu, **Channel 6-59** is the most fundamentally biological channel in the Human Design system—the **Mating Channel**[^1]. This channel connects the emotional Solar Plexus (Gate 6, Friction/Conflict) with the Sacral life force (Gate 59, Dispersion/Sexuality), creating the electromagnetic pull toward **intimacy, reproduction, and the breaking of barriers** between self and other.
 
-Ra described Gate 59 as the **Aura Breaker**—the only gate in the bodygraph with the mechanical capacity to penetrate another person's aura and create the condition for deep intimacy. Gate 6 provides the emotional diaphragm that regulates this penetration, ensuring that friction leads to growth rather than destruction.
+Ra described Gate 59 as the **Aura Breaker**—the only gate in the bodygraph with the mechanical capacity to penetrate another person's aura and create the condition for deep intimacy[^2]. Gate 6 provides the emotional diaphragm that regulates this penetration, ensuring that friction leads to growth rather than destruction.
 
 **"Channel 6-59 is Mating. It's not romantic—it's biological. This is the drive to break through barriers, to merge, to create union. Gate 59 is the Aura Breaker—it penetrates. Gate 6 is the friction that determines whether that penetration leads to intimacy or conflict."** — Ra Uru Hu
 
-This is a **Generated Channel** (Sacral-defined), meaning it carries sustainable life-force energy—but it is also **emotionally defined**, meaning it operates on the wave. The individual with this channel experiences fluctuating emotional clarity around intimacy, sexuality, and reproduction.
+This is a **Generated Channel** (Sacral-defined), meaning it carries sustainable life-force energy—but it is also **emotionally defined**, meaning it operates on the wave[^5]. The individual with this channel experiences fluctuating emotional clarity around intimacy, sexuality, and reproduction.
 
 ---
 ## Core Correspondences Table
@@ -35,11 +35,11 @@ This is a **Generated Channel** (Sacral-defined), meaning it carries sustainable
 | **Channel** | 6-59 (Intimacy/Mating) |
 | **Gates** | Gate 6 (Conflict) ↔ Gate 59 (Dispersion/Sexuality) |
 | **Centers** | Solar Plexus (Emotion, Wave) ↔ Sacral (Life Force, Sexuality) |
-| **Circuitry** | Tribal - Defense Circuit (Support, Continuation) |
+| **Circuitry** | Tribal - Defense Circuit (Support, Continuation)[^3] |
 | **Type** | Generated (Sacral-defined, emotionally defined) |
 | **Keynote** | Focused on Reproduction - The Aura Breaker |
 | **I-Ching Hexagrams** | Hexagram 6 (Conflict) + Hexagram 59 (Dispersion) |
-| **Biological Connection** | Solar Plexus (Kidney-Pancreas, emotional regulation) to Sacral (Ovaries/Testes, reproductive energy) |
+| **Biological Connection** | Solar Plexus (Kidney-Pancreas, emotional regulation) to Sacral (Ovaries/Testes, reproductive energy)[^4] |
 | **Gene Keys** | Gate 6: Conflict → Diplomacy → Peace / Gate 59: Dishonesty → Intimacy → Transparency |
 | **Harmonic Theme** | Friction (6) regulating penetration and union (59) |
 | **Not-Self Pattern** | Forcing intimacy; avoiding friction; dishonesty in relationships; emotional impulsivity |
@@ -369,6 +369,14 @@ Jung's process of individuation requires **differentiation before integration**.
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - Honoring Friction — Using conflict to test and strengthen bonds
 - Waiting for Emotional Clarity — Riding the wave before committing
+
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 6-59 as the most fundamentally biological channel: the Mating Channel
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Gate 59 as the Aura Breaker: unique mechanical capacity to penetrate another's aura
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 6-59 classified within the Tribal Defense Circuit
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Biological correlations: Solar Plexus to kidney-pancreas complex, Sacral to ovaries/testes
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Generated channel with emotional definition: Sacral life-force operating through the emotional wave
 
 ## Sources
 **Primary Source:**

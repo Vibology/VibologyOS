@@ -60,15 +60,15 @@ The alchemical image is *Sublimatio*—the process where solid becomes vapor, wh
 
 ### The Hexagram (I-Ching)
 
-Hexagram 57, *Sun* (The Gentle), is one of eight doubled hexagrams—Wind repeated, intensifying its quality. Wind's nature is to penetrate gently but persistently: it enters through cracks, works beneath surfaces, influences without force. Wilhelm's Judgment emphasizes patience: "Success through what is small"—not dramatic intervention but sustained subtle influence. "It furthers one to have somewhere to go"—intuition requires direction; random awareness accomplishes nothing. The Image links gentle penetration to effective command: the superior one spreads influence gradually, carrying out undertakings through persistent gentle pressure rather than force.
+Hexagram 57, *Sun* (The Gentle), is one of eight doubled hexagrams—Wind repeated, intensifying its quality.[^1] Wind's nature is to penetrate gently but persistently: it enters through cracks, works beneath surfaces, influences without force. Wilhelm's Judgment emphasizes patience: "Success through what is small"—not dramatic intervention but sustained subtle influence. "It furthers one to have somewhere to go"—intuition requires direction; random awareness accomplishes nothing. The Image links gentle penetration to effective command: the superior one spreads influence gradually, carrying out undertakings through persistent gentle pressure rather than force.
 
 ### The Gate (Human Design)
 
-Gate 57 in the Spleen governs intuitive awareness—what Ra Uru Hu called "acoustic awareness," the frequency-based knowing that operates faster than thought. This gate hears what is not being said, senses what is not being shown, knows danger before logical mind can articulate why. When connected to Gate 20 in the Throat, the 57-20 Channel creates *The Brainwave*—Spleen intuition meets Throat expression, allowing spontaneous articulation of what is known in the moment. The challenge: to trust intuition even when it cannot be justified, to speak the knowing even when others demand proof, to act on subtle awareness despite collective pressure for logical certainty.
+Gate 57 in the Spleen governs intuitive awareness—what Ra Uru Hu called "acoustic awareness," the frequency-based knowing that operates faster than thought.[^2] This gate hears what is not being said, senses what is not being shown, knows danger before logical mind can articulate why. When connected to Gate 20 in the Throat, the 57-20 Channel creates *The Brainwave*—Spleen intuition meets Throat expression, allowing spontaneous articulation of what is known in the moment. The challenge: to trust intuition even when it cannot be justified, to speak the knowing even when others demand proof, to act on subtle awareness despite collective pressure for logical certainty.
 
 ### The Gene Keys
 
-- **Shadow: Unease** — The collapse into chronic anxiety; intuition experienced as threat rather than guidance. Unease is the person who senses danger everywhere, whose heightened awareness creates paranoia, who cannot relax because the body is always on alert. The Shadow is intuition without grounding: every subtle signal amplified into crisis, every whisper interpreted as warning. The result: exhaustion, isolation, the inability to trust what you know because knowing brings only dread.
+- **Shadow: Unease**[^3] — The collapse into chronic anxiety; intuition experienced as threat rather than guidance. Unease is the person who senses danger everywhere, whose heightened awareness creates paranoia, who cannot relax because the body is always on alert. The Shadow is intuition without grounding: every subtle signal amplified into crisis, every whisper interpreted as warning. The result: exhaustion, isolation, the inability to trust what you know because knowing brings only dread.
 
 - **Gift: Intuition** — The capacity to receive subtle awareness and *trust* it—to know without knowing how, to sense without evidence, to act on whispers that prove correct. Intuition is the gift of heightened receptivity used skillfully: you hear what others miss, you sense what is emerging, you recognize patterns before they fully manifest. The gift is the oracle who speaks truth before it arrives, the healer who senses illness before symptoms appear, the person whose "gut feeling" saves lives because they listened.
 
@@ -141,6 +141,13 @@ Another Shadow trap: intuition as performance. If one realizes intuitive awarene
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 57 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 57 mechanics, Spleen
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Unease / Intuition / Clarity
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 57: The Gentle

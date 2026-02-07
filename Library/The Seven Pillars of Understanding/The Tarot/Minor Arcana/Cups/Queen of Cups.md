@@ -21,21 +21,21 @@ title: Queen of the Thrones of the Waters
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, the Queen of Cups represents **"Good, fair woman; honest, devoted woman, who will do service to the Querent; loving intelligence, and hence the gift of vision; success, happiness, pleasure; also wisdom, virtue."** The Queen embodies the highest expression of water's nature: not the chaotic flood nor the stagnant pool, but the *deep, calm sea*—vast, clear, receptive, and profoundly alive.
+According to Waite's *Pictorial Key to the Tarot*, the Queen of Cups represents **"Good, fair woman; honest, devoted woman, who will do service to the Querent; loving intelligence, and hence the gift of vision; success, happiness, pleasure; also wisdom, virtue."** [^1] The Queen embodies the highest expression of water's nature: not the chaotic flood nor the stagnant pool, but the *deep, calm sea*—vast, clear, receptive, and profoundly alive.
 
 The Rider-Waite-Smith image shows a beautiful queen seated upon an ornate throne at the very edge of the sea. The waters around her are calm, reflective—mirror-still despite their depth. Her throne is decorated with undines (water spirits), seahorses, and scallop shells. In her hands, she holds a remarkable cup: elaborate, covered, unlike any other cup in the Tarot. Her gaze is turned toward this cup—contemplating it, communing with it, but not drinking from it. Her expression is serene, visionary, slightly distant—she sees beyond the visible.
 
 This is the **Mystic Mother**—the one whose emotional depth has become *wisdom*, whose feeling capacity has become *vision*, whose receptivity has become *healing presence*. She does not react to emotion; she *holds* it. She does not drown in the waters; she *rules* them.
 
-The Golden Dawn titles this card the **"Queen of the Thrones of the Waters"**—emphasizing both sovereignty (Queen) and stability (Throne) within the most fluid element. To have a "throne" in the waters is paradoxical: water flows, shifts, has no fixed form. Yet the Queen has found stability *within* flow, solidity *within* receptivity. Her throne does not resist the waters—it *floats*, anchored not by rigidity but by *depth*.
+The Golden Dawn titles this card the **"Queen of the Thrones of the Waters"** [^2]—emphasizing both sovereignty (Queen) and stability (Throne) within the most fluid element. To have a "throne" in the waters is paradoxical: water flows, shifts, has no fixed form. Yet the Queen has found stability *within* flow, solidity *within* receptivity. Her throne does not resist the waters—it *floats*, anchored not by rigidity but by *depth*.
 
-The Golden Dawn tradition characterizes the Queen of Cups as **"dreamy, imaginative, but not tending to action, possessed of good intuition, easily affected by other influences and therefore somewhat lacking in strength or determination."** This characterization identifies both the Queen's profound gifts (imagination, intuition, receptivity) and her potential weaknesses (passivity, impressionability, lack of outer drive). The Queen's mastery is *inner*; her kingdom is the psyche, not the world.
+The Golden Dawn tradition characterizes the Queen of Cups as **"dreamy, imaginative, but not tending to action, possessed of good intuition, easily affected by other influences and therefore somewhat lacking in strength or determination."** [^3] This characterization identifies both the Queen's profound gifts (imagination, intuition, receptivity) and her potential weaknesses (passivity, impressionability, lack of outer drive). The Queen's mastery is *inner*; her kingdom is the psyche, not the world.
 
 The Queen of Cups is favorable in contexts where **emotional wisdom is needed**, when intuition must guide where logic fails, when holding space matters more than taking action, when loving intelligence is the appropriate response. The Queen appears when depth is required—deep listening, deep feeling, deep seeing. She is the water-sign woman (Cancer, Scorpio, Pisces) at her most evolved.
 
 The covered cup is significant and unique. Every other cup in the Tarot is open; this one is sealed. What does the Queen guard? The tradition suggests the cup contains something *sacred*—holy water, the elixir of life, the secrets of the unconscious. The Queen knows when to open the vessel and when to keep it closed. Not all mysteries are meant for all eyes.
 
-When the Queen of Cups appears **reversed**, Waite identifies: **"The accounts vary; good woman; otherwise, distinguished woman but one not to be trusted; perverse woman; vice, dishonour, depravity."** The reversal corrupts the Queen's gifts: her emotional depth becomes manipulation; her intuition becomes delusion; her receptivity becomes boundary-lessness that harms both self and others. The reversed Queen can manifest as:
+When the Queen of Cups appears **reversed**, Waite identifies: **"The accounts vary; good woman; otherwise, distinguished woman but one not to be trusted; perverse woman; vice, dishonour, depravity."** [^4] The reversal corrupts the Queen's gifts: her emotional depth becomes manipulation; her intuition becomes delusion; her receptivity becomes boundary-lessness that harms both self and others. The reversed Queen can manifest as:
 - **Emotional manipulation**: Using empathic gifts to control rather than heal
 - **Enmeshment**: Unable to distinguish her own feelings from others', drowning in emotions not her own
 - **Spiritual bypassing**: Using intuition and "higher perspective" to avoid embodied reality
@@ -232,6 +232,13 @@ When the Queen of Cups emerges in reading or contemplation, consider:
 ---
 
 *"The deepest waters are the stillest—and in their stillness, they reflect the entire sky."*
+
+## Footnotes
+
+[^1]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meaning for the Queen of Cups.
+[^2]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title for the Queen of Cups.
+[^3]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn characterization of the Queen of Cups personality.
+[^4]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meaning for the Queen of Cups.
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

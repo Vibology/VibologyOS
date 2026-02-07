@@ -58,15 +58,15 @@ Gathering Together carries the frequency of **synergy through governance**—the
 
 ### The Hexagram (I-Ching)
 
-Lake above Earth—the image of water gathering in the basin, people assembling at the well, the tribe drawn to the central resource. Wilhelm's Judgment: *"Gathering Together. Success. The king approaches his temple. It furthers one to see the great man. This brings success. Perseverance furthers."* The ruler gathers not through force but through natural authority—those who need resources come to the one who can manage them.
+Lake above Earth—the image of water gathering in the basin, people assembling at the well, the tribe drawn to the central resource. Wilhelm's Judgment: *"Gathering Together. Success. The king approaches his temple. It furthers one to see the great man. This brings success. Perseverance furthers."*[^1] The ruler gathers not through force but through natural authority—those who need resources come to the one who can manage them.
 
 ### The Gate (Human Design)
 
-Gate 45 resides in the Throat Center, the voice of tribal rulership. This is **the gatherer king or queen**—the one who articulates how the tribe will manage its material resources. The Tribal Ego Circuit is about defense and survival; Gate 45 speaks with the authority of the Heart/Ego Center. When connected to Gate 21 (Biting Through), this becomes the voice of the treasurer, the one who controls resources and determines distribution.
+Gate 45 resides in the Throat Center, the voice of tribal rulership.[^2] This is **the gatherer king or queen**—the one who articulates how the tribe will manage its material resources. The Tribal Ego Circuit is about defense and survival; Gate 45 speaks with the authority of the Heart/Ego Center. When connected to Gate 21 (Biting Through), this becomes the voice of the treasurer, the one who controls resources and determines distribution.
 
 ### The Gene Keys
 
-**Shadow: Dominance** — The ruler becomes a tyrant, gathering through force or manipulation rather than natural authority. Power used to dominate rather than serve.
+**Shadow: Dominance**[^3] — The ruler becomes a tyrant, gathering through force or manipulation rather than natural authority. Power used to dominate rather than serve.
 
 **Gift: Synergy** — The capacity to gather people around shared material interests in ways that create mutual benefit. Leadership that serves collective survival.
 
@@ -136,6 +136,13 @@ The conditioning pattern: "I must control to feel secure" or "Power means making
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 45 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 45 mechanics, Throat (Manifestation)
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Dominance / Synergy / Communion
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 45: Gathering Together

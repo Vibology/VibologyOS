@@ -23,17 +23,17 @@ title: Lord of Ruin
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, the Ten of Swords signifies **pain, affliction, tears, sadness, desolation**. This is the most visually dramatic card in the Minor Arcana—a figure pierced by ten swords, lying face-down in what appears to be death. Yet Waite also notes: "It is not especially a card of violent death." When the Ten of Swords appears upright, it speaks to the realm of complete ending—the moment when the worst has finally happened, and therefore the worst is *over*.
+According to Waite's *Pictorial Key to the Tarot*, the Ten of Swords signifies **pain, affliction, tears, sadness, desolation**.[^1] This is the most visually dramatic card in the Minor Arcana—a figure pierced by ten swords, lying face-down in what appears to be death. Yet Waite also notes: "It is not especially a card of violent death." When the Ten of Swords appears upright, it speaks to the realm of complete ending—the moment when the worst has finally happened, and therefore the worst is *over*.
 
-The Golden Dawn titles this card the **"Lord of Ruin"** and attributes it to **Sun in Gemini**—the principle of vitality, consciousness, and illumination operating through the sign of duality, fragmentation, and mental agility. This is a painful combination: the Sun wants to shine, to unify, to bring clarity, but Gemini fragments that light into multiplicity, into internal contradiction, into collapse. The result is *ruin*—but not meaningless ruin. The Sun still rises, even as the old structure falls.
+The Golden Dawn titles this card the **"Lord of Ruin"**[^2] and attributes it to **Sun in Gemini**—the principle of vitality, consciousness, and illumination operating through the sign of duality, fragmentation, and mental agility. This is a painful combination: the Sun wants to shine, to unify, to bring clarity, but Gemini fragments that light into multiplicity, into internal contradiction, into collapse. The result is *ruin*—but not meaningless ruin. The Sun still rises, even as the old structure falls.
 
-Qabalistically, this is **Malkuth in Yetzirah**—Kingdom (the tenth Sephirah, the final crystallization, the material world) expressing through the Formative World of Air and intellect. Malkuth is the end of the journey—the point where the energy of the Tree has fully descended and manifested. In the suit of Swords, this complete manifestation appears as *complete defeat*. The mental cycle has exhausted itself. The thoughts have nowhere else to go.
+Qabalistically, this is **Malkuth in Yetzirah**—Kingdom (the tenth Sephirah, the final crystallization, the material world) expressing through the Formative World of Air and intellect.[^4] Malkuth is the end of the journey—the point where the energy of the Tree has fully descended and manifested. In the suit of Swords, this complete manifestation appears as *complete defeat*. The mental cycle has exhausted itself. The thoughts have nowhere else to go.
 
 The card represents the **ending that cannot be denied**—the collapse so total that there is no question of continuing. This is rock bottom. This is the moment when you finally stop falling, because you have hit the ground.
 
 In readings, the Ten of Swords indicates total defeat, complete failure, the end of a chapter. But paradoxically, it also indicates *relief*. The waiting is over. The feared event has happened. The uncertainty has resolved into certainty—certainty of ruin, yes, but certainty nonetheless. And on the horizon, the sun rises.
 
-When the Ten of Swords appears **reversed**, Waite identifies meanings of **advantage, profit, success, favor, but none of these are permanent; also power and authority**. The reversal suggests that the ruin is not total—that some fragment of power or structure remains, that the fall has been broken, that recovery may be beginning. But the reversal also warns: what remains is precarious.
+When the Ten of Swords appears **reversed**, Waite identifies meanings of **advantage, profit, success, favor, but none of these are permanent; also power and authority**.[^3] The reversal suggests that the ruin is not total—that some fragment of power or structure remains, that the fall has been broken, that recovery may be beginning. But the reversal also warns: what remains is precarious.
 
 The key teaching: **Some things must end completely before new things can begin**. The Ten of Swords is the death that precedes rebirth, the crucifixion that precedes resurrection, the darkest hour before dawn. It is not the end of the story—it is the end of a chapter.
 
@@ -345,6 +345,13 @@ Lie down. Let the swords finish their work. The night is almost over.
 ---
 
 *"The figure with ten swords in his back is finished—but the sun rising behind him says he is not yet done."*
+
+## Footnotes
+
+[^1]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meanings for the Ten of Swords
+[^2]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Lord of Ruin" and Sun in Gemini attribution
+[^3]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meanings for the Ten of Swords
+[^4]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Malkuth in Yetzirah Qabalistic placement and decan attribution
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

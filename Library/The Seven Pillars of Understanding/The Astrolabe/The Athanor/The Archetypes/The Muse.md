@@ -23,7 +23,7 @@ The Muse (or Anima, in Jungian parlance) represents the archetypal **feminine so
 
 The Muse is not abstract idealization but **embodied aesthetic**—the one who inhabits beauty fully, who wears makeup as soul-expression, who moves through the world with delight in physical form. Robert Smith in smeared lipstick and tousled hair is not performing femininity; he is **channeling the inner feminine**, the anima as Jung defined it, through bodily presence.
 
-In Jung's framework, The Muse is the **unconscious feminine in the male psyche**—the soul-image that mediates between ego and the collective unconscious. The Muse appears in dreams as the unknown woman, the mysterious beauty, the emotional guide. When integrated, The Muse grants access to feeling, intuition, and the capacity for relationship. When projected, she becomes the idealized figure onto whom all soul-longing is displaced.
+In Jung's framework, The Muse is the **unconscious feminine in the male psyche**—the soul-image that mediates between ego and the collective unconscious.[^1] The Muse appears in dreams as the unknown woman, the mysterious beauty, the emotional guide. When integrated, The Muse grants access to feeling, intuition, and the capacity for relationship. When projected, she becomes the idealized figure onto whom all soul-longing is displaced.
 
 The Muse appears when **beauty requires embodiment**, when the soul-image must be physically expressed, when the question becomes: "Can I love my body enough to let beauty move through it?" This is the archetype of embodied soul.
 
@@ -56,9 +56,9 @@ The cultural moment: 1980s Gothic romanticism as permission for masculine-identi
 
 ### The Anima in Jung
 
-Jung identified the Anima as appearing in four developmental stages: Eve (biological/instinctual), Helen (romantic/aesthetic), Mary (spiritual/devotional), Sophia (wisdom/integrated). The Muse card captures The Anima at the Helen stage—**aesthetic feminine who bridges inner and outer through embodied beauty**.
+Jung identified the Anima as appearing in four developmental stages: Eve (biological/instinctual), Helen (romantic/aesthetic), Mary (spiritual/devotional), Sophia (wisdom/integrated).[^2] The Muse card captures The Anima at the Helen stage—**aesthetic feminine who bridges inner and outer through embodied beauty**.
 
-The shadow is twofold: projection (seeking the soul-image only in external figures, never integrating it) or dissociation (rejecting the feminine soul-image, treating embodiment as burden rather than delight). The integration requires **loving the body enough to let soul move through it**—delight in incarnation, serendipity through presence.
+The shadow is twofold: projection (seeking the soul-image only in external figures, never integrating it) or dissociation (rejecting the feminine soul-image, treating embodiment as burden rather than delight).[^3] The integration requires **loving the body enough to let soul move through it**—delight in incarnation, serendipity through presence.
 
 > *Vibology Synthesis: The Muse appears when soul seeks physical expression. Love your body. Inhabit aesthetic presence. Let serendipity emerge from embodiment—you will be in the right place at the right time because you love being here, in flesh, fully present.*
 
@@ -94,6 +94,13 @@ The shadow is twofold: projection (seeking the soul-image only in external figur
 - [[The Anima]] — Jungian archetypal framework (Personal Mythos)
 - [[Venus ♀]] — Planetary ruler of Libra; beauty and relationship
 - [[Encounter with Anima-Animus]] — Integration stage in individuation
+
+---
+## Footnotes
+
+[^1]: Jung, *Two Essays on Analytical Psychology* (CW 7, Princeton, 1966) — Anima as soul-image mediating ego and collective unconscious (§296-340)
+[^2]: Jung, *The Archetypes and the Collective Unconscious* (CW 9i, Princeton, 1969) — four developmental stages of the Anima (§20-42)
+[^3]: Jung, Emma, *Animus and Anima* (Spring Publications, 1957) — projection and dissociation as Anima shadow patterns (Part I)
 
 ---
 ## Sources

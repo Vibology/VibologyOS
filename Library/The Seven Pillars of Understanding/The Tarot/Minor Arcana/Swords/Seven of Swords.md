@@ -23,17 +23,17 @@ title: Lord of Unstable Effort
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, the Seven of Swords signifies **design, attempt, wish, hope, confidence; also quarrelling, a plan that may fail, annoyance**. The image depicts a figure engaged in something covert, something strategic, something that may or may not succeed. When the Seven of Swords appears upright, it speaks to the realm of cunning—the mental agility that finds indirect paths to goals, the cleverness that compensates for lack of direct power.
+According to Waite's *Pictorial Key to the Tarot*, the Seven of Swords signifies **design, attempt, wish, hope, confidence; also quarrelling, a plan that may fail, annoyance**.[^1] The image depicts a figure engaged in something covert, something strategic, something that may or may not succeed. When the Seven of Swords appears upright, it speaks to the realm of cunning—the mental agility that finds indirect paths to goals, the cleverness that compensates for lack of direct power.
 
-The Golden Dawn titles this card the **"Lord of Unstable Effort"** and attributes it to **Moon in Aquarius**—the emotional, instinctual, fluctuating Moon operating through the detached, strategic, unconventional sign of Aquarius. This is a difficult combination: the Moon's instincts cannot trust Aquarius's cool calculations, and Aquarius's strategies are undermined by the Moon's changeability. The result is *effort that cannot sustain itself*—clever plans that collapse, strategies that shift before they can succeed.
+The Golden Dawn titles this card the **"Lord of Unstable Effort"**[^2] and attributes it to **Moon in Aquarius**—the emotional, instinctual, fluctuating Moon operating through the detached, strategic, unconventional sign of Aquarius. This is a difficult combination: the Moon's instincts cannot trust Aquarius's cool calculations, and Aquarius's strategies are undermined by the Moon's changeability. The result is *effort that cannot sustain itself*—clever plans that collapse, strategies that shift before they can succeed.
 
-Qabalistically, this is **Netzach in Yetzirah**—Victory (the seventh Sephirah, the principle of desire, endurance, and emotional triumph) expressing through the Formative World of Air and intellect. But here, Victory is compromised. The effort required to win is unstable, unreliable. Success may be achieved, but it cannot be held.
+Qabalistically, this is **Netzach in Yetzirah**—Victory (the seventh Sephirah, the principle of desire, endurance, and emotional triumph) expressing through the Formative World of Air and intellect.[^4] But here, Victory is compromised. The effort required to win is unstable, unreliable. Success may be achieved, but it cannot be held.
 
 The card represents the **shadow side of cleverness**—strategy without ethics, cunning without honor, intelligence employed for advantage rather than truth. The Seven of Swords is not necessarily wrong, but it is inherently *unstable*. What is won through stealth may be lost through exposure.
 
 In readings, the Seven of Swords often indicates that someone is being clever—perhaps the querent, perhaps someone around them. This cleverness may be necessary, or it may be deceptive. The card asks: are you using strategy for a legitimate purpose, or are you using it to avoid something you should face directly?
 
-When the Seven of Swords appears **reversed**, Waite identifies meanings of **good advice, counsel, instruction, slander, babbling**. The reversal often indicates that the clever plan has been discovered, that the deception has been exposed, or that the strategy has backfired. Alternatively, the reversed Seven may indicate good counsel—the strategy that *should* be employed, the clever solution that is being offered.
+When the Seven of Swords appears **reversed**, Waite identifies meanings of **good advice, counsel, instruction, slander, babbling**.[^3] The reversal often indicates that the clever plan has been discovered, that the deception has been exposed, or that the strategy has backfired. Alternatively, the reversed Seven may indicate good counsel—the strategy that *should* be employed, the clever solution that is being offered.
 
 The key teaching: **Cunning can win battles, but it cannot build trust**. The Seven of Swords may be necessary in the moment, but it is not a foundation for lasting success.
 
@@ -341,6 +341,13 @@ The effort is unstable. The question is whether you're using instability strateg
 ---
 
 *"The thief who steals five swords but leaves two behind wins the battle—but loses the war."*
+
+## Footnotes
+
+[^1]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meanings for the Seven of Swords
+[^2]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Lord of Unstable Effort" and Moon in Aquarius attribution
+[^3]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meanings for the Seven of Swords
+[^4]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Netzach in Yetzirah Qabalistic placement and decan attribution
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

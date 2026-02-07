@@ -17,7 +17,7 @@ verification_notes: "Individual verification complete. Core mechanics (Defined S
 # Generator: The Life Force
 
 ## Ra's Definition
-Generators are defined by a **defined [[Sacral]]**—the motor of sustainable life force energy. This single mechanical feature distinguishes them as the energetic majority of humanity, the builders and sustainers of civilization.
+Generators are defined by a **defined [[Sacral]]**—the motor of sustainable life force energy.[^1] This single mechanical feature distinguishes them as the energetic majority of humanity, the builders and sustainers of civilization.
 
 ### Two Subtypes
 
@@ -36,7 +36,7 @@ Defined Sacral motor connected **directly** to the Throat Center, creating a hyb
 
 ## Aura Mechanics
 
-The Generator's aura is **open and enveloping**, designed to draw life toward them so they can respond. Unlike the [[Manifestor]]'s closed and repelling field, the Generator's aura is magnetic—it pulls opportunities, people, and experiences into their energetic sphere.
+The Generator's aura is **open and enveloping**, designed to draw life toward them so they can respond.[^2] Unlike the [[Manifestor]]'s closed and repelling field, the Generator's aura is magnetic—it pulls opportunities, people, and experiences into their energetic sphere.
 
 This enveloping quality creates:
 - **Attraction** rather than initiation
@@ -53,7 +53,7 @@ The Generator does not need to hunt. The world comes to them. Their work is to *
 
 ### The Mechanics of Response
 
-A correct response originates from the **Sacral**, not the mind. The Sacral speaks in:
+A correct response originates from the **Sacral**, not the mind. The Sacral speaks in:[^3]
 - **Guttural sounds** ("uh-huh" for yes, "uhn-uhn" for no)
 - **Immediate body knowing** (expansion for yes, contraction for no)
 - **Non-verbal clarity** before mental interpretation
@@ -90,7 +90,7 @@ The Generator's Authority determines what they respond *to*; the Strategy ensure
 
 ## Not-Self Theme: Frustration
 
-**Frustration** is the Generator's somatic alarm—a signal that they have:
+**Frustration** is the Generator's somatic alarm[^4]—a signal that they have:
 - Initiated rather than responded
 - Said "yes" when the Sacral said "no"
 - Committed to work or relationships that do not satisfy
@@ -140,7 +140,7 @@ Satisfaction is not pleasure or happiness. It is **alignment**: the feeling of b
 
 ## Population: ~70%
 
-Generators comprise the **energetic majority** of humanity:
+Generators comprise the **energetic majority** of humanity:[^5]
 - **37% Pure Generators**
 - **33% Manifesting Generators**
 
@@ -183,6 +183,14 @@ The Generator-majority world is designed to *respond to life*, not force it into
 ---
 
 *The Generator is the heartbeat of humanity—the sustainable life force that builds, masters, and sustains the world. Their gift is not initiation but response, not force but magnetism, not endless striving but deep satisfaction found through work they love. When the Generator honors their Sacral, they become the living proof that fulfillment is not found by chasing, but by recognizing what is correct when it arrives.*
+
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Generator defined by the Sacral Center as motor of sustainable life force energy
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Generator aura described as open and enveloping
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Sacral response expressed through guttural sounds and immediate body knowing
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Frustration as the Generator's Not-Self Theme
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Generator population: ~37% Pure Generators, ~33% Manifesting Generators
 
 ## Sources
 

@@ -60,15 +60,15 @@ The alchemical image is **Separation**—the careful discernment of essence from
 
 ### The Hexagram (I-Ching)
 
-Hexagram 62, *Xiǎo Guò* (Preponderance of the Small / Small Exceeding), shows Thunder above Mountain—movement over stillness, but the image emphasizes small, careful movements rather than dramatic action. Wilhelm teaches that this hexagram warns against overreach—great undertakings fail here; small actions succeed. The four outer lines are yin (yielding), while the two inner lines are yang (firm), creating the image of **strength hidden within restraint**. The Nuclear Hexagram is 28 (Preponderance of the Great), revealing the paradox: beneath small exceeding lies capacity for great—but timing requires working small. The bird flying too high creates catastrophe; the bird remaining near ground survives.
+Hexagram 62, *Xiǎo Guò* (Preponderance of the Small / Small Exceeding), shows Thunder above Mountain—movement over stillness, but the image emphasizes small, careful movements rather than dramatic action.[^1] Wilhelm teaches that this hexagram warns against overreach—great undertakings fail here; small actions succeed. The four outer lines are yin (yielding), while the two inner lines are yang (firm), creating the image of **strength hidden within restraint**. The Nuclear Hexagram is 28 (Preponderance of the Great), revealing the paradox: beneath small exceeding lies capacity for great—but timing requires working small. The bird flying too high creates catastrophe; the bird remaining near ground survives.
 
 ### The Gate (Human Design)
 
-Gate 62 in the Throat provides the capacity to express patterns through precise detail—to name what you observe with careful language, to translate visual pattern (Ajna) into words (Throat) with accuracy. Ra Uru Hu taught this gate as "the power of details"—caution, patience, and precision producing excellence from limitation. When connected to Gate 17 in the Ajna, the 62-17 Channel creates *Acceptance*—opinions become organized (17) and expressed through specific language (62). The shadow: intellect divorced from experience, precision becoming pedantry, getting lost in details without synthesizing. The gift: precision, the capacity to name accurately. The teaching: language creates reality; to name something precisely is to give it form.
+Gate 62 in the Throat provides the capacity to express patterns through precise detail—to name what you observe with careful language, to translate visual pattern (Ajna) into words (Throat) with accuracy. Ra Uru Hu taught this gate as "the power of details"—caution, patience, and precision producing excellence from limitation.[^2] When connected to Gate 17 in the Ajna, the 62-17 Channel creates *Acceptance*—opinions become organized (17) and expressed through specific language (62). The shadow: intellect divorced from experience, precision becoming pedantry, getting lost in details without synthesizing. The gift: precision, the capacity to name accurately. The teaching: language creates reality; to name something precisely is to give it form.
 
 ### The Gene Keys
 
-- **Shadow: Intellect** — Thinking divorced from embodiment; precision collapsing into cold analysis. The Shadow manifests as the person trapped in the head, whose intellect becomes prison rather than tool, who can articulate patterns but cannot live them. This is the academic who knows everything but embodies nothing, the critic who dissects masterworks without creating, the analyst paralyzed by data unable to act. Intellect is the mind mistaking map for territory—believing that to understand something is to know it, that precision of language equals depth of experience.
+- **Shadow: Intellect**[^3] — Thinking divorced from embodiment; precision collapsing into cold analysis. The Shadow manifests as the person trapped in the head, whose intellect becomes prison rather than tool, who can articulate patterns but cannot live them. This is the academic who knows everything but embodies nothing, the critic who dissects masterworks without creating, the analyst paralyzed by data unable to act. Intellect is the mind mistaking map for territory—believing that to understand something is to know it, that precision of language equals depth of experience.
 
 - **Gift: Precision** — The capacity to name accurately, to express patterns with careful detail. Precision recognizes that language shapes reality—to name something correctly is to give it form, to articulate experience accurately is to make it transmissible. The gift is the person whose words land exactly, whose details illuminate rather than obscure, whose precision serves clarity. This is the poet who finds the one word that captures experience, the scientist whose nomenclature reveals structure, the teacher whose careful language transmits understanding. Precision is intellect in service to life—thinking that serves embodiment rather than replacing it.
 
@@ -141,6 +141,13 @@ Another Shadow trap: rejecting precision entirely. If intellect creates sufferin
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 62 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 62 mechanics, Throat
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Intellect / Precision / Impeccability
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 62: Preponderance of the Small

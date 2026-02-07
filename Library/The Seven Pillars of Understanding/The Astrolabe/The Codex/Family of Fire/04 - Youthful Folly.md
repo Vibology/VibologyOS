@@ -60,15 +60,15 @@ The alchemical image is **Nigredo**—the blackening, the stage of confusion and
 
 ### The Hexagram (I-Ching)
 
-Hexagram 4, *Méng* (Youthful Folly), depicts Mountain above Water in the traditional I-Ching, but in the Astrolabe system aligned with Fire below. The image is a spring at the mountain's base—fresh, inexperienced, but full of potential. The Chinese character 蒙 originally depicted worms in a bowl, but evolved to mean "covering" or "ignorance"—the state before knowledge emerges. Wilhelm's Judgment emphasizes timing: "Before the starting point, three days. After the starting point, three days." Mental formulas require preparation and integration—rushing creates confusion. The Image speaks of thoroughness: the superior man fosters character through careful attention to all that he does. Youthful folly is not recklessness; it is methodical experimentation.
+Hexagram 4, *Méng* (Youthful Folly), depicts Mountain above Water in the traditional I-Ching, but in the Astrolabe system aligned with Fire below.[^1] The image is a spring at the mountain's base—fresh, inexperienced, but full of potential. The Chinese character 蒙 originally depicted worms in a bowl, but evolved to mean "covering" or "ignorance"—the state before knowledge emerges. Wilhelm's Judgment emphasizes timing: "Before the starting point, three days. After the starting point, three days." Mental formulas require preparation and integration—rushing creates confusion. The Image speaks of thoroughness: the superior man fosters character through careful attention to all that he does. Youthful folly is not recklessness; it is methodical experimentation.
 
 ### The Gate (Human Design)
 
-Gate 4 in the Ajna governs the intuitive capacity to formulate answers despite uncertainty. Ra Uru Hu taught this gate as "mental ease mixed with doubt"—the mind creates frameworks, patterns, formulas, but it operates in the tension between not-knowing and the urgency to know. When connected to Gate 63 in the Head, the 4-63 Channel creates *Judgment*—mental pressure meets mental formulation, generating logical thinking. The shadow: mental anxiety, the mind that never stops seeking patterns. The gift: mental clarity through provisional frameworks, the capacity to create useful models without dogma. The challenge: recognizing that the mind is a tool for awareness, never for decision-making.
+Gate 4 in the Ajna governs the intuitive capacity to formulate answers despite uncertainty. Ra Uru Hu taught this gate as "mental ease mixed with doubt"—the mind creates frameworks, patterns, formulas, but it operates in the tension between not-knowing and the urgency to know.[^2] When connected to Gate 63 in the Head, the 4-63 Channel creates *Judgment*—mental pressure meets mental formulation, generating logical thinking. The shadow: mental anxiety, the mind that never stops seeking patterns. The gift: mental clarity through provisional frameworks, the capacity to create useful models without dogma. The challenge: recognizing that the mind is a tool for awareness, never for decision-making.
 
 ### The Gene Keys
 
-- **Shadow: Intolerance** — Rigidity around mental frameworks; believing "my way of understanding is the only way." The collapse into dogma, the refusal to accept other models. Intolerance manifests when the mind confuses its formulas with truth, when the map becomes more real than the territory. This is the fundamentalist, the ideologue, the one who weaponizes mental clarity as attack.
+- **Shadow: Intolerance**[^3] — Rigidity around mental frameworks; believing "my way of understanding is the only way." The collapse into dogma, the refusal to accept other models. Intolerance manifests when the mind confuses its formulas with truth, when the map becomes more real than the territory. This is the fundamentalist, the ideologue, the one who weaponizes mental clarity as attack.
 
 - **Gift: Understanding** — The capacity to create mental frameworks that illuminate without dogmatizing. Understanding recognizes that all formulas are provisional, useful approximations that serve until better patterns emerge. The gift is the teacher who explains clearly while holding knowledge lightly, the scientist who tests hypotheses without attachment to outcome. Understanding knows that youthful folly is eternal—we are always beginners in the face of mystery.
 
@@ -141,6 +141,13 @@ Another Shadow trap: mental paralysis. If all formulas are provisional, if knowl
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 4 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 4 mechanics, Ajna
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Intolerance / Understanding / Forgiveness
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 4: Youthful Folly

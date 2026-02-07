@@ -21,15 +21,15 @@ title: Root of the Powers of Air
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, the Ace of Swords signifies **triumph, the excessive degree in everything, conquest, triumph of force**. It is a card of **great force, in love as well as in hatred**. The power here is intellectual, cutting, decisive—and potentially devastating. When the Ace of Swords appears upright, it speaks to the realm of pure mental clarity—the moment when the discriminating mind awakens and announces: *I see.*
+According to Waite's *Pictorial Key to the Tarot*, the Ace of Swords signifies **triumph, the excessive degree in everything, conquest, triumph of force**.[^1] It is a card of **great force, in love as well as in hatred**. The power here is intellectual, cutting, decisive—and potentially devastating. When the Ace of Swords appears upright, it speaks to the realm of pure mental clarity—the moment when the discriminating mind awakens and announces: *I see.*
 
-The Golden Dawn titles this card the **"Root of the Powers of Air"** and attributes it to **Kether in Yetzirah**—the Crown (source of all emanation) expressing through the Formative World. This is Mind before it becomes thought—the *principle* of discrimination, not discrimination itself. It is the first cut that creates distinction, the primordial word that separates light from darkness.
+The Golden Dawn titles this card the **"Root of the Powers of Air"** and attributes it to **Kether in Yetzirah**[^2]—the Crown (source of all emanation) expressing through the Formative World. This is Mind before it becomes thought—the *principle* of discrimination, not discrimination itself. It is the first cut that creates distinction, the primordial word that separates light from darkness.
 
 The card represents the **primordial capacity to distinguish**. It is not the thought, but the *power to think*—the moment before judgment, the intake of breath before the word, the raised blade before the stroke. All Aces represent the pure essence of their element in potential form, but the Ace of Swords is uniquely *discriminating*. It does not blur; it does not blend. When the Ace of Swords appears, the mental clarity is *available now*—and it demands to be used. The sword that remains sheathed serves no purpose.
 
 This is a profoundly powerful card in questions of decision, clarity, truth-telling, and intellectual breakthrough. It indicates that the mental energy required to cut through confusion is present—the universe is offering you the blade, the target is visible, and the conditions are right for the stroke. However, the card demands *precision*. The Ace of Swords does not heal; it only cuts. If you do not wield this energy with care, it will wound indiscriminately.
 
-When the Ace of Swords appears **reversed**, Waite identifies meanings of **the same, but the results are disastrous; another account says—Loss, misery, poverty, ruin, possibly by the law, or false friends**. The reversed Ace speaks to mental energy that has turned destructive or fragmented—clarity that was not directed and has now become cruelty, obsession, or madness. The blade that should have cut through confusion instead cuts the wielder.
+When the Ace of Swords appears **reversed**, Waite identifies meanings of **the same, but the results are disastrous; another account says—Loss, misery, poverty, ruin, possibly by the law, or false friends**.[^3] The reversed Ace speaks to mental energy that has turned destructive or fragmented—clarity that was not directed and has now become cruelty, obsession, or madness. The blade that should have cut through confusion instead cuts the wielder.
 
 The Golden Dawn reversal suggests "weakness of intellect, disaster, the overthrow of all one's plans by a word or act." This is crucial: the reversed Ace of Swords can manifest as either *too much cutting* (cruelty disguised as truth, destruction of all one holds dear through over-analysis) or *too little clarity* (the mind clouds, confusion reigns, the capacity to see clearly is lost). Either way, the discriminating potential is wasted or weaponized.
 
@@ -163,7 +163,7 @@ The **gleaming blade** signifies:
 
 #### The Crown and Olive Branch
 
-At the tip of the sword, a **crown** encircles the blade, from which hang an **olive branch** (peace) and a **palm frond** (victory). This is unique to the Ace of Swords.
+At the tip of the sword, a **crown** encircles the blade, from which hang an **olive branch** (peace) and a **palm frond** (victory).[^4] This is unique to the Ace of Swords.
 
 The **crown** represents:
 - **Kether**: The Crown sephirah, source of all. The crown on the sword indicates that this mental power comes from the highest source.
@@ -184,7 +184,7 @@ Together, they signify: **The sword brings both peace and victory**—but only w
 
 #### The Yods: Falling Flames
 
-Around the sword, **six Yods** (Hebrew letter י, shaped like flames or seeds) descend through the air.
+Around the sword, **six Yods** (Hebrew letter י, shaped like flames or seeds) descend through the air.[^5]
 
 The **Yods** represent:
 - **Divine energy**: In Hebrew mysticism, the Yod is the first letter of the divine name (YHVH) and represents the spark of divine creative power.
@@ -365,6 +365,14 @@ The question the Ace asks is not "Will you accept clarity?" but "How will you us
 ---
 
 *"The sword that defends can also sever. Wield it with wisdom, or it will cut you as surely as your enemies."*
+
+## Footnotes
+
+[^1]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meanings for the Ace of Swords
+[^2]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title and Kether in Yetzirah attribution
+[^3]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meanings for the Ace of Swords
+[^4]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — Rider-Waite image description: crown, olive branch, and palm frond
+[^5]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Yod symbolism and descending flames in the Ace of Swords image
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

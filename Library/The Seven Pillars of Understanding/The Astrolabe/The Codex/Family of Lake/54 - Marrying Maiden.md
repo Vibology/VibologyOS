@@ -60,15 +60,15 @@ The alchemical image is **Sublimatio**—the elevation of base matter toward ref
 
 ### The Hexagram (I-Ching)
 
-Hexagram 54, *Guī Mèi* (The Marrying Maiden), shows Thunder above Lake—the youngest daughter (Lake) following the eldest son (Thunder), creating the image of improper union. In traditional Chinese culture, the "marrying maiden" refers to the concubine rather than the wife—the woman who enters marriage from subordinate position, seeking advancement through relationship. Wilhelm warns that undertakings based on desire for position alone bring misfortune—aspiration without love, ambition without consciousness. The Nuclear Hexagram is 53 (Development / Gradual Progress), revealing that beneath ambition lies sustainable advancement—transformation happens gradually, not through grasping.
+Hexagram 54, *Guī Mèi* (The Marrying Maiden), shows Thunder above Lake—the youngest daughter (Lake) following the eldest son (Thunder), creating the image of improper union.[^1] In traditional Chinese culture, the "marrying maiden" refers to the concubine rather than the wife—the woman who enters marriage from subordinate position, seeking advancement through relationship. Wilhelm warns that undertakings based on desire for position alone bring misfortune—aspiration without love, ambition without consciousness. The Nuclear Hexagram is 53 (Development / Gradual Progress), revealing that beneath ambition lies sustainable advancement—transformation happens gradually, not through grasping.
 
 ### The Gate (Human Design)
 
-Gate 54 in the Root provides the pressure to transform material and social conditions—the drive to rise up the ladder (social, economic, spiritual). Ra Uru Hu taught this gate as operating in both mundane and mystical contexts: the ambition for wealth and status, and the aspiration for enlightenment and cosmic connection. When connected to Gate 32 in the Spleen, the 54-32 Channel creates *Transformation*—the drive to improve (54) meeting instinctive recognition of sustainable patterns (32), creating capacity for material and spiritual advancement over time. The shadow: greed, compulsive climbing, using others as rungs on the ladder. The gift: aspiration, the sacred ambition that drives evolution. The teaching: desire to rise is natural; what matters is whether you climb on others' backs or lift as you ascend.
+Gate 54 in the Root provides the pressure to transform material and social conditions—the drive to rise up the ladder (social, economic, spiritual). Ra Uru Hu taught this gate as operating in both mundane and mystical contexts: the ambition for wealth and status, and the aspiration for enlightenment and cosmic connection.[^2] When connected to Gate 32 in the Spleen, the 54-32 Channel creates *Transformation*—the drive to improve (54) meeting instinctive recognition of sustainable patterns (32), creating capacity for material and spiritual advancement over time. The shadow: greed, compulsive climbing, using others as rungs on the ladder. The gift: aspiration, the sacred ambition that drives evolution. The teaching: desire to rise is natural; what matters is whether you climb on others' backs or lift as you ascend.
 
 ### The Gene Keys
 
-- **Shadow: Greed** — Insatiable hunger for more; ambition collapsing into compulsive acquisition. The Shadow manifests as the person who accumulates without satisfaction, who climbs endlessly without arriving, who sacrifices relationship for position. This is the executive who destroys health pursuing wealth, the spiritual seeker who collects teachings without embodying any, the social climber who uses people as stepping stones. Greed is the belief that fulfillment exists at the next level—if you just acquire more, achieve more, ascend higher, you will finally be enough. The wound: mistaking having for being.
+- **Shadow: Greed**[^3] — Insatiable hunger for more; ambition collapsing into compulsive acquisition. The Shadow manifests as the person who accumulates without satisfaction, who climbs endlessly without arriving, who sacrifices relationship for position. This is the executive who destroys health pursuing wealth, the spiritual seeker who collects teachings without embodying any, the social climber who uses people as stepping stones. Greed is the belief that fulfillment exists at the next level—if you just acquire more, achieve more, ascend higher, you will finally be enough. The wound: mistaking having for being.
 
 - **Gift: Aspiration** — Sacred ambition that drives evolution without destroying connection. Aspiration recognizes that desire to rise is natural—humans are wired to reach toward what they have not yet become. The gift is the person who climbs with consciousness, who improves their position while lifting others, who pursues advancement without sacrificing integrity. This is the leader who remembers where they came from, the mystic whose spiritual aspiration serves collective awakening, the entrepreneur who builds wealth while creating value. Aspiration is greed transformed by awareness—ambition in service to something larger than ego.
 
@@ -141,6 +141,13 @@ Another Shadow trap: rejecting ambition entirely. If desire to rise is greed, th
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 54 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 54 mechanics, Root
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Greed / Aspiration / Ascension
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 54: The Marrying Maiden

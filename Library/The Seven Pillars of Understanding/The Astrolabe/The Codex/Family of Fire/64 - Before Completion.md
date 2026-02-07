@@ -60,15 +60,15 @@ The alchemical image is **Nigredo completing its work**—the blackening before 
 
 ### The Hexagram (I-Ching)
 
-Hexagram 64, *Wèi Jì* (Before Completion), depicts Fire above Water—the cycle incomplete, elements not yet in harmony. This is the image of potential not yet actualized, the pattern not yet revealed. Wilhelm's Judgment warns against premature action: "if the little fox, after nearly completing the crossing, gets his tail in the water"—one misstep at the threshold undoes everything. The teaching: confusion resolves in its own timing; forcing conclusion before readiness creates false pattern. The Nuclear Hexagram is 63 (After Completion), revealing that the pattern already exists within confusion, simply not yet visible to consciousness.
+Hexagram 64, *Wèi Jì* (Before Completion), depicts Fire above Water—the cycle incomplete, elements not yet in harmony.[^1] This is the image of potential not yet actualized, the pattern not yet revealed. Wilhelm's Judgment warns against premature action: "if the little fox, after nearly completing the crossing, gets his tail in the water"—one misstep at the threshold undoes everything. The teaching: confusion resolves in its own timing; forcing conclusion before readiness creates false pattern. The Nuclear Hexagram is 63 (After Completion), revealing that the pattern already exists within confusion, simply not yet visible to consciousness.
 
 ### The Gate (Human Design)
 
-Gate 64 in the Head governs the mental pressure to abstract meaning from fragmented past experiences. Ra Uru Hu taught this gate as "Before Completion"—having all the pieces but not yet seeing how they fit together. When connected to Gate 47 in the Ajna, the 47-64 Channel creates *Abstraction (The Realized Being)*—Head pressure to make sense meets Ajna's capacity to process abstractions, generating insight through imagination rather than logic. The shadow: chronic confusion, mental overwhelm, never allowing patterns to complete. The gift: imagination, the capacity to bridge gaps through creative abstraction. The teaching: confusion honored becomes imagination; confusion forced becomes delusion.
+Gate 64 in the Head governs the mental pressure to abstract meaning from fragmented past experiences. Ra Uru Hu taught this gate as "Before Completion"—having all the pieces but not yet seeing how they fit together.[^2] When connected to Gate 47 in the Ajna, the 47-64 Channel creates *Abstraction (The Realized Being)*—Head pressure to make sense meets Ajna's capacity to process abstractions, generating insight through imagination rather than logic. The shadow: chronic confusion, mental overwhelm, never allowing patterns to complete. The gift: imagination, the capacity to bridge gaps through creative abstraction. The teaching: confusion honored becomes imagination; confusion forced becomes delusion.
 
 ### The Gene Keys
 
-- **Shadow: Confusion** — Mental chaos from demanding sense before pattern is ready; living perpetually in the not-yet-complete without allowing imagination to work. Confusion manifests as the person flooded by memories that don't cohere, overwhelmed by images that won't organize, stuck in analysis paralysis where understanding always remains one insight away. This is the mind that cannot rest in not-knowing, that needs immediate answers, that confuses confusion with failure rather than recognizing it as process.
+- **Shadow: Confusion**[^3] — Mental chaos from demanding sense before pattern is ready; living perpetually in the not-yet-complete without allowing imagination to work. Confusion manifests as the person flooded by memories that don't cohere, overwhelmed by images that won't organize, stuck in analysis paralysis where understanding always remains one insight away. This is the mind that cannot rest in not-knowing, that needs immediate answers, that confuses confusion with failure rather than recognizing it as process.
 
 - **Gift: Imagination** — The capacity to bridge confusion through creative abstraction; allowing images, dreams, and memories to reveal patterns when they're ready. Imagination recognizes that the mind's abstract function works differently than logic—it operates through symbol, metaphor, synthesis across time. The gift is the artist who sees patterns in chaos, the mystic whose visions organize fragmented experience, the thinker who trusts that understanding will emerge when consciousness has processed sufficiently. Imagination is faith in the abstracting process.
 
@@ -141,6 +141,13 @@ Another Shadow trap: escapism through imagination. Using fantasy to avoid realit
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 64 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 64 mechanics, Head
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Confusion / Imagination / Illumination
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 64: Before Completion

@@ -60,15 +60,15 @@ The alchemical image is *Separatio*—the discriminating function that distingui
 
 ### The Hexagram (I-Ching)
 
-Hexagram 63, *Chi Chi* (After Completion), depicts the moment when all elements have found their proper positions—fire rising above, water sinking below, natural order established. Yet the hexagram appears second-to-last in the sequence precisely because completion is never final—it is always the prelude to dissolution and renewal. Wilhelm's commentary emphasizes "thought of danger prevents danger"—vigilance must continue even after success. The Image describes the superior person who "thinks of misfortune and arms himself against it in advance." This is not paranoia but realism: the cycle always continues. The teaching: completion is a phase, not a destination; the wise person questions even achieved order.
+Hexagram 63, *Chi Chi* (After Completion), depicts the moment when all elements have found their proper positions—fire rising above, water sinking below, natural order established.[^1] Yet the hexagram appears second-to-last in the sequence precisely because completion is never final—it is always the prelude to dissolution and renewal. Wilhelm's commentary emphasizes "thought of danger prevents danger"—vigilance must continue even after success. The Image describes the superior person who "thinks of misfortune and arms himself against it in advance." This is not paranoia but realism: the cycle always continues. The teaching: completion is a phase, not a destination; the wise person questions even achieved order.
 
 ### The Gate (Human Design)
 
-Gate 63 in the Head Center carries "the pressure of doubt"—the mental drive to question, test, and verify patterns. Ra Uru Hu emphasized that this is *logical* doubt, not emotional insecurity. Gate 63 asks: "Does this pattern still hold? Are the assumptions still valid? Has the context shifted such that the old conclusion no longer serves?" When connected to Gate 4 in the Ajna (Channel of Logic), doubt becomes productive—the mental pressure to question combines with the formulation capacity to answer, creating the scientific method, philosophical inquiry, systematic debugging. Without Gate 4, Gate 63 experiences chronic doubt without resolution—the mind that questions everything but formulates nothing.
+Gate 63 in the Head Center carries "the pressure of doubt"—the mental drive to question, test, and verify patterns.[^2] Ra Uru Hu emphasized that this is *logical* doubt, not emotional insecurity. Gate 63 asks: "Does this pattern still hold? Are the assumptions still valid? Has the context shifted such that the old conclusion no longer serves?" When connected to Gate 4 in the Ajna (Channel of Logic), doubt becomes productive—the mental pressure to question combines with the formulation capacity to answer, creating the scientific method, philosophical inquiry, systematic debugging. Without Gate 4, Gate 63 experiences chronic doubt without resolution—the mind that questions everything but formulates nothing.
 
 ### The Gene Keys
 
-- **Shadow: Doubt** — Experienced as corrosive uncertainty; the mind that questions without building, deconstructs without creating. Doubt as paralysis: "How do I know this is right? What if I'm wrong?" The Shadow manifests as chronic second-guessing, inability to trust conclusions, or cynical skepticism that dismisses all claims to truth. The belief: "Nothing can be trusted; everything is suspect."
+- **Shadow: Doubt**[^3] — Experienced as corrosive uncertainty; the mind that questions without building, deconstructs without creating. Doubt as paralysis: "How do I know this is right? What if I'm wrong?" The Shadow manifests as chronic second-guessing, inability to trust conclusions, or cynical skepticism that dismisses all claims to truth. The belief: "Nothing can be trusted; everything is suspect."
 
 - **Gift: Inquiry** — The capacity to question productively; systematic investigation that tests patterns to refine them. Inquiry doesn't assume answers are false but verifies whether they remain true. This is the scientific mind, the philosopher's dialectic, the debugger who questions code to make it robust. Inquiry serves truth by subjecting claims to rigorous examination.
 
@@ -141,6 +141,13 @@ Another Shadow trap: premature certainty disguised as completion. The mind that 
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 63 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 63 mechanics, Head
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Doubt / Inquiry / Truth
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 63: After Completion

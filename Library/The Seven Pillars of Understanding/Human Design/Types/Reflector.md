@@ -18,7 +18,7 @@ verification_notes: "Individual verification complete. Core mechanics (All cente
 # Reflector: The Mirror
 
 ## Ra's Definition
-The Reflector has **no fixed definition**—all nine centers in their BodyGraph remain white (undefined). This complete openness is not vulnerability but **radical receptivity**: the Reflector is designed to sample, reflect, and evaluate the health of their environment without becoming conditioned by it.
+The Reflector has **no fixed definition**—all nine centers in their BodyGraph remain white (undefined).[^1] This complete openness is not vulnerability but **radical receptivity**: the Reflector is designed to sample, reflect, and evaluate the health of their environment without becoming conditioned by it.
 
 Where other Types have consistent, reliable energetic patterns, the Reflector is lunar—they cycle through every possible energetic configuration as the Moon transits the 64 gates over 28 days.
 
@@ -26,7 +26,7 @@ Where other Types have consistent, reliable energetic patterns, the Reflector is
 
 ## Aura Mechanics
 
-The Reflector's aura is **sampling and resistant**, often described as a "Teflon aura" that allows appraisal of the environment without taking frequencies in too deeply. Unlike:
+The Reflector's aura is **sampling and resistant**,[^2] often described as a "Teflon aura" that allows appraisal of the environment without taking frequencies in too deeply. Unlike:
 - The [[Generator]]'s enveloping aura (which draws life in)
 - The [[Manifestor]]'s repelling aura (which pushes outward)
 - The [[Projector]]'s penetrating aura (which focuses and reads)
@@ -75,7 +75,7 @@ Everyday decisions can be made more quickly, but anything with lasting consequen
 
 ## Authority: Lunar Authority
 
-The Reflector operates through **Lunar Authority**, which is not a defined center but a *process* of articulation and reflection over time.
+The Reflector operates through **Lunar Authority**,[^3] which is not a defined center but a *process* of articulation and reflection over time.
 
 ### How Lunar Authority Works
 
@@ -115,7 +115,7 @@ Disappointment is the Reflector's feedback loop, pointing them back to their Str
 
 ## Signature: Surprise
 
-**Surprise** is the Reflector's true north—a state of wonder and delight that arises when they:
+**Surprise** is the Reflector's true north[^4]—a state of wonder and delight that arises when they:
 - Witness authentic uniqueness in others (not homogenized conditioning)
 - Sample environments where diversity and health flourish
 - Experience the full spectrum of lunar clarity
@@ -137,7 +137,7 @@ Surprise is not shock or randomness. It is **the reward of sampling difference**
 
 ## Population: ~1%
 
-Reflectors are the **rarest Type**, comprising only 1% of humanity. This is not accident but design: their role is not to lead, build, or guide en masse, but to **reflect and evaluate** the collective from a place of lunar objectivity.
+Reflectors are the **rarest Type**, comprising only 1% of humanity.[^5] This is not accident but design: their role is not to lead, build, or guide en masse, but to **reflect and evaluate** the collective from a place of lunar objectivity.
 
 Their rarity creates:
 - Deep conditioning to "be like others" (often mistaken for Generators or Projectors)
@@ -178,6 +178,14 @@ The Reflector's challenge is accepting that their gift is **not to fit in** but 
 ---
 
 *The Reflector is the living mirror—the one who samples the world without becoming it, who reflects the health of community without taking on its sickness, who waits through the full lunar cycle to know what is true. Their gift is not in doing, guiding, or initiating, but in revealing: by their presence, they show us what we have become, and by their surprise, they remind us what is still possible.*
+
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Reflector defined by all nine Centers undefined
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Reflector aura described as sampling and resistant
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Lunar Authority as the Reflector's decision-making process over 28 days
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Surprise as the Reflector's Signature
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Reflectors comprise approximately 1% of the population
 
 ## Sources
 

@@ -19,13 +19,13 @@ source_verified: Esoteric Grimoire
 
 ---
 ## Ra's Definition
-According to Ra Uru Hu, **Channel 10-34** is one of the four **Integration Channels** that connect Gate 10 (Behavior of the Self) with motors or awareness centers to create **self-empowered individuation and survival**. This channel connects the G Center's sense of identity and self-love (Gate 10, "Treading") with the Sacral Center's pure, raw life-force power (Gate 34, "The Power of the Great").
+According to Ra Uru Hu, **Channel 10-34** is one of the four **Integration Channels** that connect Gate 10 (Behavior of the Self) with motors or awareness centers to create **self-empowered individuation and survival**. This channel connects the G Center's sense of identity and self-love (Gate 10, "Treading") with the Sacral Center's pure, raw life-force power (Gate 34, "The Power of the Great")[^1].
 
 Ra described this as the channel of **following one's convictions**. The individual with this channel has the Sacral energy to empower their authentic behavior, to explore life according to their own principles, and to live by their own rules—not the Collective's logic, the Tribe's traditions, or the Individual's mutation, but the **Self's convictions**.
 
 **"Channel 10-34 is self-love empowered. Gate 10 says, 'I love myself; this is how I behave.' Gate 34 says, 'I have the power to live by my convictions.' When you combine self-love with Sacral power, you become unstoppable. You explore life on your own terms."** — Ra Uru Hu
 
-This is a **Generated Channel** (Sacral-defined), meaning it carries sustainable, renewable life-force energy. Unlike Projected channels that require recognition, this channel has the **raw power** to empower the self directly.
+This is a **Generated Channel** (Sacral-defined)[^2], meaning it carries sustainable, renewable life-force energy. Unlike Projected channels that require recognition, this channel has the **raw power** to empower the self directly.
 
 ---
 ## Core Correspondences Table
@@ -74,7 +74,7 @@ When two people come together with complementary gates:
 
 The G Center is the **biological seat of identity**—associated with the liver, the magnetic monopole (orientation mechanism), and the sense of "I am" in space and time.
 
-The Sacral is the **biological engine of life force**—associated with the ovaries/testes, reproductive energy, and the capacity to generate sustainable work and sexual vitality.
+The Sacral is the **biological engine of life force**—associated with the ovaries/testes, reproductive energy, and the capacity to generate sustainable work and sexual vitality[^3].
 
 #### Biological Flow
 
@@ -94,7 +94,7 @@ Individuals with Channel 10-34 may feel:
 ---
 ## Circuitry Analysis
 
-Channel 10-34 belongs to the **Integration/Centering Channels**—a unique set of four channels that serve **self-empowerment and survival**.
+Channel 10-34 belongs to the **Integration/Centering Channels**[^4]—a unique set of four channels that serve **self-empowerment and survival**.
 
 **Integration Channels:**
 
@@ -112,7 +112,7 @@ The Integration channels are about **being oneself as a survival mechanism**. Wh
 ---
 ## Type Implications (Which Types Can Have This Channel)
 
-Channel 10-34 is a **Generated Channel** (Sacral-defined).
+Channel 10-34 is a **Generated Channel** (Sacral-defined)[^5].
 
 **Generators with Channel 10-34:**
 
@@ -366,6 +366,14 @@ Jung's process of individuation requires **living the Self's truth in the world*
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - Following Convictions — Living by one's own rules
 - Self-Empowerment as Survival — Being oneself as the foundation of Integration
+
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 10-34 connects Gate 10 (Behavior of the Self) with Gate 34 (Power of the Great) across G and Sacral Centers
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 10-34 classified as a Generated channel (Sacral-defined)
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Sacral Center biological associations: ovaries/testes, reproductive energy, sustainable life force
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 10-34 placement within the Integration/Centering Channels
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Generator Type created by Sacral definition through Channel 10-34
 
 ## Sources
 **Primary Source:**

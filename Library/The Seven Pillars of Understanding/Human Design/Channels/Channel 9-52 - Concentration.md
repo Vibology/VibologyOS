@@ -19,9 +19,9 @@ source_verified: Esoteric Grimoire
 
 ---
 ## Ra's Definition
-According to Ra Uru Hu, **Channel 9-52** is one of the three **Format Energy channels** in the Human Design system—the foundational pulses that structure time, energy, and cycles. This channel connects the Root's pressure for focused stillness (Gate 52, "Keeping Still") with the Sacral's capacity to concentrate life-force energy (Gate 9, "Taming Power of the Small").
+According to Ra Uru Hu, **Channel 9-52** is one of the three **Format Energy channels** in the Human Design system[^1]—the foundational pulses that structure time, energy, and cycles. This channel connects the Root's pressure for focused stillness (Gate 52, "Keeping Still") with the Sacral's capacity to concentrate life-force energy (Gate 9, "Taming Power of the Small").
 
-Ra described this as the channel of **determination and focus**. Unlike the Individual's mutative pulse (Channel 3-60) or the Collective Abstract's cyclical maturation (Channel 42-53), this is the **Collective Logic pulse**—the capacity to focus energy on detailed, specific tasks until patterns are mastered and perfected.
+Ra described this as the channel of **determination and focus**[^5]. Unlike the Individual's mutative pulse (Channel 3-60) or the Collective Abstract's cyclical maturation (Channel 42-53), this is the **Collective Logic pulse**—the capacity to focus energy on detailed, specific tasks until patterns are mastered and perfected.
 
 **"Channel 9-52 is Concentration. It's Format Energy—the pulse that says 'Focus here, now.' Gate 52 says 'Be still, wait for the right focus.' Gate 9 says 'Apply laser-like attention to the details.' This is the energy of mastery through repetition, through determined focus."** — Ra Uru Hu
 
@@ -35,12 +35,12 @@ This is a **Generated Channel** (Root to Sacral), meaning it carries sustainable
 | **Channel** | 9-52 (Concentration) |
 | **Gates** | Gate 9 (Taming Power of the Small) ↔ Gate 52 (Keeping Still) |
 | **Centers** | Root (Pressure, Stress) ↔ Sacral (Life Force, Sexuality) |
-| **Circuitry** | Collective - Logic/Understanding Circuit (Patterns, Future) |
+| **Circuitry** | Collective - Logic/Understanding Circuit (Patterns, Future)[^2] |
 | **Type** | Generated (Sacral-defined, pulsing energy) |
-| **Format Energy** | Yes (Creates cycles of focus and release) |
+| **Format Energy** | Yes (Creates cycles of focus and release)[^3] |
 | **Keynote** | Determination - Stillness to Concentrate Energy |
 | **I-Ching Hexagrams** | Hexagram 9 (Taming Power of the Small) + Hexagram 52 (Keeping Still) |
-| **Biological Connection** | Root (Adrenal system, stress response) to Sacral (Ovaries/Testes, reproductive energy) |
+| **Biological Connection** | Root (Adrenal system, stress response) to Sacral (Ovaries/Testes, reproductive energy)[^4] |
 | **Gene Keys** | Gate 9: Inertia → Determination → Invincibility / Gate 52: Stress → Restraint → Stillness |
 | **Harmonic Theme** | Stillness (52) enabling concentrated focus (9) |
 | **Not-Self Pattern** | Scattered focus; forcing concentration; ignoring the pulse; stress without release |
@@ -372,6 +372,14 @@ Jung's process of individuation requires **focused attention on the psyche's con
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - Honoring the Pulse — Learning to focus during "on" periods and rest during "off" periods
 - Mastery Through Rhythm — Perfecting skills through the cycle of concentration and stillness
+
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 9-52 as one of three Format Energy channels in the system
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 9-52 classified within the Collective Logic/Understanding Circuit
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Format Energy designation: foundational pulse creating cycles of focused concentration and release
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Biological correlations: Root to adrenal system, Sacral to ovaries/testes
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Keynote of determination: Collective Logic pulse for mastering details through sustained focused attention
 
 ## Sources
 **Primary Source:**

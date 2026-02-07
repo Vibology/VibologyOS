@@ -16,7 +16,7 @@ verification_notes: "Variables mechanics verified against Grimoire. Advanced lay
 
 ## Introduction: The "Why" Beneath All Behavior
 
-**Motivation** is the fourth and final of the Four [[Variables]]—the **underlying frequency** that drives the Personality/Mind. It is calculated from the **Color** of the **Personality Sun/Earth** (the conscious imprint at birth) and represents the deepest **"why"** beneath all conceptualizing and action.
+**Motivation** is the fourth and final of the Four [[Variables]]—the **underlying frequency** that drives the Personality/Mind.[^1] It is calculated from the **Color** of the **Personality Sun/Earth** (the conscious imprint at birth) and represents the deepest **"why"** beneath all conceptualizing and action.
 
 **The Central Principle:** Motivation is **not** conscious intention, goal, or desire. It is the **subconscious frequency** that powers the surface expression—the invisible current beneath the waves.
 
@@ -66,10 +66,10 @@ The **Earth** (opposite the Sun) represents:
 
 ### What is Transference?
 
-**Transference** is the primary distraction mechanism at the Motivation level. It occurs when the Magnetic Monopole fails to capture the correct Color frequency due to Not-Self conditioning, and consciousness **transfers** to the harmonic Color.
+**Transference** is the primary distraction mechanism at the Motivation level.[^2] It occurs when the Magnetic Monopole fails to capture the correct Color frequency due to Not-Self conditioning, and consciousness **transfers** to the harmonic Color.
 
 **The Mechanic:**
-- Colors move in **harmonics**: 1↔4, 2↔5, 3↔6
+- Colors move in **harmonics**: 1↔4, 2↔5, 3↔6[^3]
 - When not operating correctly (Strategy and [[Authority]] compromised, wrong [[Environment]], [[Determination]] misaligned), the Monopole cannot hold the correct Color
 - Consciousness **transfers** to the harmonic—creating a false Motivation
 
@@ -352,7 +352,7 @@ The **Earth** (opposite the Sun) represents:
 
 ### Sequence: Motivation Last
 
-Motivation is the **final flowering** of the Variable sequence. It stabilizes **only** after years of living:
+Motivation is the **final flowering** of the Variable sequence.[^4] It stabilizes **only** after years of living:
 1. Strategy and [[Authority]] (years 1-7)
 2. [[Determination]] (year 7+)
 3. [[Environment]] (year 14+)
@@ -369,7 +369,7 @@ Motivation is the **final flowering** of the Variable sequence. It stabilizes **
 - The being operates from their **authentic frequency**
 - Outer Authority (Perspective + Motivation) is fully expressed
 
-**No shortcuts.** Attempting to "operate from correct Motivation" while still in the Not-Self is mechanically impossible.
+**No shortcuts.** Attempting to "operate from correct Motivation" while still in the Not-Self is mechanically impossible.[^5]
 
 ---
 
@@ -493,6 +493,14 @@ Motivation requires a full [[Human Design]] chart with **Tone/Color/Base** calcu
 - [[Jungian Archetypes]] - The Self and individuation
 - [[Seraphim]] - Pure divine motivation
 
+
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Motivation as the fourth Variable, the underlying frequency driving the Personality/Mind, calculated from Personality Sun/Earth Color
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Transference as the primary distortion mechanism when the Magnetic Monopole fails to hold the correct Color frequency
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Harmonic Color pairs (1↔4, 2↔5, 3↔6) through which Transference operates
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Motivation as the final flowering of the Variable sequence, stabilizing only after years of correct Strategy, Authority, Determination, Environment, and Perspective
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Correct Motivation cannot be accessed from the Not-Self; requires all upstream Variables to be aligned
 
 ## Sources
 

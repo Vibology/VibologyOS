@@ -58,15 +58,15 @@ Pushing Upward carries the frequency of **delight through embodiment**—the rec
 
 ### The Hexagram (I-Ching)
 
-Earth above Thunder—the image of wood pushing upward through soil, gradual, natural ascent. Wilhelm's Judgment: *"Pushing Upward has supreme success. One must see the great man. Fear not. Departure toward the south brings good fortune."* Growth is organic, not forced. Movement is effortless when rooted in natural law.
+Earth above Thunder—the image of wood pushing upward through soil, gradual, natural ascent. Wilhelm's Judgment: *"Pushing Upward has supreme success. One must see the great man. Fear not. Departure toward the south brings good fortune."*[^1] Growth is organic, not forced. Movement is effortless when rooted in natural law.
 
 ### The Gate (Human Design)
 
-Gate 46 resides in the G Center, the love of being in form. This is **embodiment as spiritual practice**—being fully present in the body, loving physical experience, finding synchronicity through somatic presence. The Understanding Circuit means this demonstrates the perfection of physical form through lived experience. With Gate 29 (The Abysmal), this becomes the channel of discovery—succeeding where others fail through commitment to embodied experience.
+Gate 46 resides in the G Center, the love of being in form.[^2] This is **embodiment as spiritual practice**—being fully present in the body, loving physical experience, finding synchronicity through somatic presence. The Understanding Circuit means this demonstrates the perfection of physical form through lived experience. With Gate 29 (The Abysmal), this becomes the channel of discovery—succeeding where others fail through commitment to embodied experience.
 
 ### The Gene Keys
 
-**Shadow: Seriousness** — The individual rejects the body, viewing incarnation as burden. Life becomes heavy, joyless, a problem to be solved rather than an experience to be celebrated.
+**Shadow: Seriousness**[^3] — The individual rejects the body, viewing incarnation as burden. Life becomes heavy, joyless, a problem to be solved rather than an experience to be celebrated.
 
 **Gift: Delight** — The capacity to love being in a body, to find joy in physical experience, to celebrate incarnation. Serendipity through embodied presence.
 
@@ -135,6 +135,13 @@ The conditioning pattern: "The spiritual path requires transcending the body" or
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 46 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 46 mechanics, G Center (Identity)
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Seriousness / Delight / Ecstasy
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 46: Pushing Upward

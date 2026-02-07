@@ -60,15 +60,15 @@ The alchemical image is **Solutio**—the dissolution stage where rigid structur
 
 ### The Hexagram (I-Ching)
 
-Hexagram 59, *Huàn* (Dispersion), depicts Wind above Water in traditional rendering, Fire below in Astrolabe alignment. Wind moving across water disperses what was gathered, dissolves surface tension. The image teaches that rigidity must be released for flow to return, that walls (necessary for individual integrity) must temporarily open for union to occur. Wilhelm's Judgment connects dispersion with sacred approach: the king approaches the temple by releasing what separates. The Nuclear Hexagram is 27 (Nourishment), revealing that beneath intimacy lies the fundamental drive to nourish and be nourished through bonding.
+Hexagram 59, *Huàn* (Dispersion), depicts Wind above Water in traditional rendering, Fire below in Astrolabe alignment.[^1] Wind moving across water disperses what was gathered, dissolves surface tension. The image teaches that rigidity must be released for flow to return, that walls (necessary for individual integrity) must temporarily open for union to occur. Wilhelm's Judgment connects dispersion with sacred approach: the king approaches the temple by releasing what separates. The Nuclear Hexagram is 27 (Nourishment), revealing that beneath intimacy lies the fundamental drive to nourish and be nourished through bonding.
 
 ### The Gate (Human Design)
 
-Gate 59 in the Sacral governs the biological drive to create intimacy through penetration of aura boundaries. Ra Uru Hu taught this gate as "the aura breaker"—not romantic sentiment but raw sexual/intimate energy designed to dissolve the natural separation between individuals. When connected to Gate 6 in the Solar Plexus, the 6-59 Channel creates *Mating (Intimacy)*—Sacral energy to break barriers meets emotional wisdom about with whom bonding is correct. The shadow: dishonesty, using sexuality to manipulate or control; or indiscriminate bonding, breaking through any available wall. The gift: intimacy, the capacity to bond authentically with those who are correct. The teaching: penetration is power requiring consent and discernment.
+Gate 59 in the Sacral governs the biological drive to create intimacy through penetration of aura boundaries. Ra Uru Hu taught this gate as "the aura breaker"—not romantic sentiment but raw sexual/intimate energy designed to dissolve the natural separation between individuals.[^2] When connected to Gate 6 in the Solar Plexus, the 6-59 Channel creates *Mating (Intimacy)*—Sacral energy to break barriers meets emotional wisdom about with whom bonding is correct. The shadow: dishonesty, using sexuality to manipulate or control; or indiscriminate bonding, breaking through any available wall. The gift: intimacy, the capacity to bond authentically with those who are correct. The teaching: penetration is power requiring consent and discernment.
 
 ### The Gene Keys
 
-- **Shadow: Dishonesty** — Using sexuality or intimate energy to manipulate, deceive, or control. Dishonesty manifests as the seducer who breaks through boundaries not to create genuine bond but to extract (validation, resources, power), the person who performs intimacy while remaining defended, the lover who uses vulnerability as weapon. This is dispersion without integrity: walls dissolve but connection serves only one. The wound: believing that intimacy is conquest, that to penetrate is to possess.
+- **Shadow: Dishonesty**[^3] — Using sexuality or intimate energy to manipulate, deceive, or control. Dishonesty manifests as the seducer who breaks through boundaries not to create genuine bond but to extract (validation, resources, power), the person who performs intimacy while remaining defended, the lover who uses vulnerability as weapon. This is dispersion without integrity: walls dissolve but connection serves only one. The wound: believing that intimacy is conquest, that to penetrate is to possess.
 
 - **Gift: Intimacy** — The capacity to bond authentically, to dissolve barriers in service to genuine connection. Intimacy recognizes that penetration and reception are sacred acts requiring mutual consent, that vulnerability flows both directions. The gift is the lover who honors what they're allowed to access, the friend who can be deeply close while respecting boundaries, the partner who understands that true bonding preserves individuality rather than consuming it. Intimacy knows that walls serve until it's correct for them to fall.
 
@@ -141,6 +141,13 @@ Another Shadow trap: fear of intimacy masquerading as boundaries. Building walls
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 59 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 59 mechanics, Sacral
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Dishonesty / Intimacy / Transparency
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 59: Dispersion

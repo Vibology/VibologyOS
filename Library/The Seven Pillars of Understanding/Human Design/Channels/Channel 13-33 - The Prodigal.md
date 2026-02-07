@@ -21,9 +21,9 @@ source_verified: Esoteric Grimoire
 
 ---
 ## Ra's Definition
-According to Ra Uru Hu, the **Channel of the Prodigal** (13-33) is the **storytelling channel**—connecting the **G Center** (identity, direction, love) to the **Throat** (manifestation, expression). This creates a design that can **articulate collective experience through personal witness**.
+According to Ra Uru Hu, the **Channel of the Prodigal** (13-33) is the **storytelling channel**[^1]—connecting the **G Center** (identity, direction, love) to the **Throat** (manifestation, expression). This creates a design that can **articulate collective experience through personal witness**.
 
-Ra taught that this channel carries the **Abstract Circuit's** quality of **reflection**—the capacity to listen to life's experiences, withdraw to process them (retreat), and then return to share the distilled wisdom. This is not logical analysis (Logic Circuit) nor tribal bonding (Tribal Defense). This is **collective memory-keeping**.
+Ra taught that this channel carries the **Abstract Circuit's** quality of **reflection**[^2]—the capacity to listen to life's experiences, withdraw to process them (retreat), and then return to share the distilled wisdom. This is not logical analysis (Logic Circuit) nor tribal bonding (Tribal Defense). This is **collective memory-keeping**.
 
 **"The 13-33 is the channel of the historian, the storyteller, the witness. They listen to life (Gate 13), they withdraw to process (Gate 33), and then they return to tell the story. They are the keepers of collective experience."** — Ra Uru Hu
 
@@ -44,11 +44,11 @@ Together, they form the electromagnetic bridge: **listening (13) refined through
 | **Channel Name**           | The Prodigal (A Witness)                                                                    |
 | **Gates**                  | Gate 13 (The Listener - G Center) + Gate 33 (Privacy/Retreat - Throat)                      |
 | **Centers Connected**      | G (Identity) ↔ Throat                                                                       |
-| **Circuitry**              | Collective - Sensing/Abstract Circuit (Experience)                                          |
-| **Type Created**           | Projected (non-motor to Throat)                                                             |
+| **Circuitry**              | Collective - Sensing/Abstract Circuit (Experience)[^4]                                      |
+| **Type Created**           | Projected (non-motor to Throat)[^3]                                                         |
 | **Keynote**                | Witness consciousness; listening, withdrawing, sharing                                      |
 | **I-Ching Hexagrams**      | Gate 13: Hexagram 13 (Fellowship of Man) / Gate 33: Hexagram 33 (Retreat)                   |
-| **Biological Correlation** | Temporal lobe (memory storage), hippocampus (memory consolidation), speech centers          |
+| **Biological Correlation** | Temporal lobe (memory storage), hippocampus (memory consolidation), speech centers[^5]      |
 | **Gene Keys**              | Gate 13: Discord → Discernment → Empathy / Gate 33: Forgetting → Mindfulness → Revelation   |
 | **Harmonic Theme**         | Experience remembered and articulated                                                       |
 | **Shadow**                 | Forgetting what matters, speaking prematurely, isolation as defense                         |
@@ -453,6 +453,14 @@ When the 13-33 shares from full integration (adequate retreat, invitation honore
 - Channel 11-56 - Curiosity (Collective storytelling through ideas)
 - Channel 35-36 - Transitoriness (Collective emotional experience)
 - Channel 7-31 - The Alpha (Collective logical leadership)
+
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 13-33 as the storytelling channel connecting G Center to Throat
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 13-33 carries the Abstract Circuit quality of retrospective reflection
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 13-33 classified as Projected (non-motor to Throat connection)
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 13-33 placement within the Collective Sensing/Abstract Circuit
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Biological correlations of G Center and Throat Center in memory and speech processing
 
 ## Sources
 **Primary Source:**

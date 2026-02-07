@@ -22,11 +22,11 @@ title: Lord of Strife
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, the Five of Wands signifies **imitation, mimic warfare, as of youths who play at battle; hence a strenuous competition and struggle; an affair of honor or a quarrel** (lawsuits, obstacles, and many similar meanings). When the Five of Wands appears upright, it speaks to the realm of conflict, competition, and the disruption of harmony—the moment when peace is shattered and struggle begins anew.
+According to Waite's *Pictorial Key to the Tarot*, the Five of Wands signifies **imitation, mimic warfare, as of youths who play at battle; hence a strenuous competition and struggle; an affair of honor or a quarrel**[^1] (lawsuits, obstacles, and many similar meanings). When the Five of Wands appears upright, it speaks to the realm of conflict, competition, and the disruption of harmony—the moment when peace is shattered and struggle begins anew.
 
-The Golden Dawn titles this card the **"Lord of Strife"** and attributes it to **Saturn in Leo**—the planet of restriction, limitation, and discipline (Saturn) colliding with the sign of pride, creativity, and self-expression (Leo). This is an inherently tense combination: Saturn wants to constrain, to prune, to impose limits; Leo wants to shine, to create, to expand. The result is *volcanic pressure*—creative energy that cannot flow freely and therefore erupts in bursts of aggression, competition, or scattered effort.
+The Golden Dawn titles this card the **"Lord of Strife"**[^2] and attributes it to **Saturn in Leo**—the planet of restriction, limitation, and discipline (Saturn) colliding with the sign of pride, creativity, and self-expression (Leo). This is an inherently tense combination: Saturn wants to constrain, to prune, to impose limits; Leo wants to shine, to create, to expand. The result is *volcanic pressure*—creative energy that cannot flow freely and therefore erupts in bursts of aggression, competition, or scattered effort.
 
-The card represents **Geburah (Severity) in Atziluth (the World of Pure Spirit)**. Geburah, the fifth Sephirah, is the sphere of judgment, destruction, and necessary correction. It is Mars at its most martial—the surgeon's knife that cuts away disease, the warrior's discipline that imposes order through force, the pruning that precedes new growth. Geburah is often called "Strength" or "Power," but it is strength through severity, not mercy.
+The card represents **Geburah (Severity) in Atziluth (the World of Pure Spirit)**.[^4] Geburah, the fifth Sephirah, is the sphere of judgment, destruction, and necessary correction. It is Mars at its most martial—the surgeon's knife that cuts away disease, the warrior's discipline that imposes order through force, the pruning that precedes new growth. Geburah is often called "Strength" or "Power," but it is strength through severity, not mercy.
 
 The number **Five** in Qabalah represents disruption, challenge, and the introduction of imbalance. Where Four is stable and complete, Five is *unstable*—it breaks the symmetry, introduces conflict, creates tension. Five is the number that cannot rest—it demands resolution, either by moving to Six (reintegration) or collapsing back to Four (retreat to safety).
 
@@ -34,7 +34,7 @@ This card is often misunderstood as purely negative—"conflict is bad, avoid it
 
 However, the card carries a warning: *not all conflict is productive*. The figures in the Five of Wands are engaged in "mimic warfare"—they brandish wands, they shout, they jostle for position, but no blood is drawn. This is conflict that *could* sharpen skills and establish hierarchy, or it could simply waste energy in pointless struggle. The question is: *Is this strife forging you, or merely consuming you?*
 
-When the Five of Wands appears **reversed**, Waite identifies **litigation, disputes, trickery, contradiction**. The conflict becomes more formal, more entrenched—it moves from the field of play into the courtroom, from physical contest to legal or verbal warfare. The Golden Dawn reversal suggests "generous, but quarrelsome and violent" or "cruelty, destruction, and overbearing strength." The reversed Five can manifest as conflict that has lost all pretense of being constructive—it is now simply destructive, motivated by spite, fear, or the need to dominate.
+When the Five of Wands appears **reversed**, Waite identifies **litigation, disputes, trickery, contradiction**.[^3] The conflict becomes more formal, more entrenched—it moves from the field of play into the courtroom, from physical contest to legal or verbal warfare. The Golden Dawn reversal suggests "generous, but quarrelsome and violent" or "cruelty, destruction, and overbearing strength." The reversed Five can manifest as conflict that has lost all pretense of being constructive—it is now simply destructive, motivated by spite, fear, or the need to dominate.
 
 The key teaching: **Strife is the crucible. What emerges depends on whether you are being refined—or merely consumed.** The Five of Wands demands that you engage with resistance, but engage *consciously*, not reactively.
 
@@ -406,6 +406,13 @@ The Five of Wands is the test: *Can you tell the difference?*
 ---
 
 *"Strife is the crucible. What emerges depends on whether you are being refined—or merely consumed."*
+
+## Footnotes
+
+[^1]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meanings for the Five of Wands
+[^2]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Lord of Strife" and attribution of Saturn in Leo for the Five of Wands
+[^3]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meanings for the Five of Wands
+[^4]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — sephirotic placement of the Five of Wands as Geburah (Severity) in the world of Atziluth
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

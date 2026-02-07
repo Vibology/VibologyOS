@@ -23,17 +23,17 @@ title: Lord of Earned Success
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, the Six of Swords signifies **journey by water, route, way, envoy, commissionary, expedient**. Waite describes the scene as a ferryman carrying passengers to the farther shore, and notes that "the course is smooth." When the Six of Swords appears upright, it speaks to the realm of successful transition—the journey from difficulty toward something better, the passage that carries you away from strife toward calmer waters.
+According to Waite's *Pictorial Key to the Tarot*, the Six of Swords signifies **journey by water, route, way, envoy, commissionary, expedient**.[^1] Waite describes the scene as a ferryman carrying passengers to the farther shore, and notes that "the course is smooth." When the Six of Swords appears upright, it speaks to the realm of successful transition—the journey from difficulty toward something better, the passage that carries you away from strife toward calmer waters.
 
-The Golden Dawn titles this card the **"Lord of Earned Success"** and attributes it to **Mercury in Aquarius**—the planet of communication, travel, and intellect operating through the sign of detachment, vision, and the future. This is success that is *earned* through mental effort, through strategic thinking, through the wisdom to know when to leave. Mercury provides the guide; Aquarius provides the perspective that makes leaving possible.
+The Golden Dawn titles this card the **"Lord of Earned Success"**[^2] and attributes it to **Mercury in Aquarius**—the planet of communication, travel, and intellect operating through the sign of detachment, vision, and the future. This is success that is *earned* through mental effort, through strategic thinking, through the wisdom to know when to leave. Mercury provides the guide; Aquarius provides the perspective that makes leaving possible.
 
-Qabalistically, this is **Tiphareth in Yetzirah**—Beauty (the sixth Sephirah, the harmonizing center, the heart of the Tree) expressing through the Formative World of Air and intellect. Tiphareth is the place where all opposites are reconciled, where the competing forces of the Tree find balance. In the mental realm, this manifests as *intellectual harmony*—the mind that has found its way through conflict to resolution.
+Qabalistically, this is **Tiphareth in Yetzirah**—Beauty (the sixth Sephirah, the harmonizing center, the heart of the Tree) expressing through the Formative World of Air and intellect.[^4] Tiphareth is the place where all opposites are reconciled, where the competing forces of the Tree find balance. In the mental realm, this manifests as *intellectual harmony*—the mind that has found its way through conflict to resolution.
 
 The card represents the **wisdom of transition**—the recognition that some situations cannot be improved, only left behind. The Six of Swords is not victory in the sense of conquering an opponent; it is victory in the sense of *surviving* and *moving forward*.
 
 In readings, the Six of Swords is generally welcome—though its welcome is bittersweet. It indicates that you are leaving something behind, which may bring grief even as it brings relief. The journey is underway. The difficult situation is receding. Calmer waters lie ahead.
 
-When the Six of Swords appears **reversed**, Waite identifies meanings of **declaration, confession, publicity; also a proposal, love declaration**. These seem unrelated to the upright meanings, but the reversal often indicates a blocked or complicated passage—the journey that does not go smoothly, the escape that is discovered, the transition that is resisted.
+When the Six of Swords appears **reversed**, Waite identifies meanings of **declaration, confession, publicity; also a proposal, love declaration**.[^3] These seem unrelated to the upright meanings, but the reversal often indicates a blocked or complicated passage—the journey that does not go smoothly, the escape that is discovered, the transition that is resisted.
 
 The key teaching: **Sometimes the only way forward is away**. The Six of Swords honors the wisdom of leaving, the courage of transition, the faith required to be ferried toward an unknown shore.
 
@@ -356,6 +356,13 @@ Trust the passage.
 ---
 
 *"The swords you carry across the water are not for fighting—they are for remembering."*
+
+## Footnotes
+
+[^1]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meanings for the Six of Swords
+[^2]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Lord of Earned Success" and Mercury in Aquarius attribution
+[^3]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meanings for the Six of Swords
+[^4]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Tiphareth in Yetzirah Qabalistic placement and decan attribution
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

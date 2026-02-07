@@ -16,7 +16,7 @@ verification_notes: "Variables mechanics verified against Grimoire. Advanced lay
 
 ## Introduction: The First Transformation
 
-**Primary Health System (PHS)** is the practical application of the [[Determination]] Variable—the experimental approach to discovering and living your correct dietary regimen. It is the **first transformation** in the Variable sequence and the most **tangible entry point** for working with the deeper architecture of [[Human Design]].
+**Primary Health System (PHS)** is the practical application of the [[Determination]] Variable—the experimental approach to discovering and living your correct dietary regimen.[^1] It is the **first transformation** in the Variable sequence and the most **tangible entry point** for working with the deeper architecture of [[Human Design]].
 
 **The Central Claim:** Your brain and body are designed to be fueled in a **specific way**—not based on nutritional content (calories, macros, vitamins) but on the **conditions and circumstances** under which you eat. Correct dietary regimen, practiced consistently over **seven years**, produces measurable **brain differentiation**—heightened sensory acuity, sharper cognition, improved immune function, and longevity.
 
@@ -485,7 +485,10 @@ PHS consultations are typically high-investment ($200-$500+ per session) because
 
 ## Sources
 
-Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011) — Primary Health System (PHS) as the first transformation; dietary regimen based on Design Sun/Earth Color; seven-year cellular regeneration cycle and brain differentiation.
+
+**Additional Sources:**
+- Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
 - Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority
 
 **Verification Notes:**

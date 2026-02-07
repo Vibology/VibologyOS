@@ -12,7 +12,7 @@ category: Index
 
 ## Overview
 
-**Type** is the most fundamental distinction in Human Design—the broadest category determining how you are designed to engage with life. Your Type is determined by the configuration of defined Centers in your [[The BodyGraph|BodyGraph]], specifically the presence or absence of the [[Sacral]] Center and motor-to-[[Throat]] connections.
+**Type** is the most fundamental distinction in Human Design—the broadest category determining how you are designed to engage with life.[^1] Your Type is determined by the configuration of defined Centers in your [[The BodyGraph|BodyGraph]], specifically the presence or absence of the [[Sacral]] Center and motor-to-[[Throat]] connections.[^2]
 
 Type reveals not who you are but **how you operate**—your energetic mechanics, your correct way of engaging with opportunities, and the signature feeling that confirms you are living correctly.
 
@@ -26,7 +26,7 @@ Type reveals not who you are but **how you operate**—your energetic mechanics,
 | [[Generator]] | ~37% | Open, enveloping | Wait to Respond | Satisfaction | Frustration |
 | Manifesting Generator | ~33% | Open, enveloping | Wait to Respond, then Inform | Satisfaction | Frustration/Anger |
 | [[Projector]] | ~20% | Focused, absorbing | Wait for Invitation | Success | Bitterness |
-| [[Reflector]] | ~1% | Resistant, sampling | Wait a Lunar Cycle | Surprise | Disappointment |
+| [[Reflector]] | ~1% | Resistant, sampling | Wait a Lunar Cycle | Surprise | Disappointment |[^3]
 
 *Note: Manifesting Generators are a sub-type of Generator with Manifestor characteristics.*
 
@@ -121,6 +121,13 @@ Reflectors are the rarest Type—completely open, with no defined Centers. They 
 - [[The BodyGraph]] — Visual map showing Type configuration
 - [[Centers]] — The nine energy hubs determining Type
 - [[Deconditioning]] — The process of returning to your true Type
+
+---
+## Footnotes
+
+[^1]: Ra Uru Hu & Lynda Bunnell, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Type as the most fundamental mechanical distinction in Human Design
+[^2]: Ra Uru Hu & Lynda Bunnell, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Type determined by Sacral definition and motor-to-Throat connections
+[^3]: Ra Uru Hu & Lynda Bunnell, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Population statistics, aura types, Strategies, Signatures, and Not-Self Themes for all four Types
 
 ---
 ## Sources

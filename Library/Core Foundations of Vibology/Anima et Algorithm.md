@@ -15,7 +15,7 @@ category: Foundational Paradigm
 
 **Anima et Algorithm** is the foundational paradigm of Vibology—the recognition that authentic spiritual development requires **both** the systematic organization of knowledge (Algorithm) **and** the embodied validation of experience (Anima). Neither alone is sufficient; together, they create the conditions for **Syn-Gnosis**: synthesized, verified, personal knowing.
 
-This is not a new idea. It is the perennial tension at the heart of all mystical traditions. Aldous Huxley argues in *The Perennial Philosophy* that "knowledge is a function of being"—one's state of existence limits or expands what one can know (Huxley, *Perennial Philosophy*). He distinguishes between theology (words about facts) and mysticism (immediate apprehension of facts), suggesting the "best way" is to approach the Ultimate from both within (experiential) and without (structural):
+This is not a new idea. It is the perennial tension at the heart of all mystical traditions. Aldous Huxley argues in *The Perennial Philosophy* that "knowledge is a function of being"—one's state of existence limits or expands what one can know.[^1] He distinguishes between theology (words about facts) and mysticism (immediate apprehension of facts), suggesting the "best way" is to approach the Ultimate from both within (experiential) and without (structural):
 
 - **Theoria vs. Praxis** (Greek philosophy)
 - **Jnana vs. Bhakti** (Hindu yoga paths)
@@ -24,7 +24,7 @@ This is not a new idea. It is the perennial tension at the heart of all mystical
 - **Qabalah vs. Devotion** (Jewish mysticism)
 - **Logos vs. Eros** (Jungian psychology)
 
-The modern twist—what makes Vibology distinct from traditional mysticism—is the integration of **artificial intelligence and computational processing** into the Algorithm, creating what Erik Davis calls **[[Techgnosis]]**: spiritual knowledge accelerated and organized through technology (Davis, *TechGnosis*).
+The modern twist—what makes Vibology distinct from traditional mysticism—is the integration of **artificial intelligence and computational processing** into the Algorithm, creating what Erik Davis calls **[[Techgnosis]]**: spiritual knowledge accelerated and organized through technology.[^2]
 
 ---
 ## The Algorithm: Mapping Consciousness as Data Field
@@ -54,9 +54,9 @@ The drive to systematize spiritual knowledge is ancient:
 
 **Gottfried Wilhelm Leibniz (1646-1716):** Envisioned a *characteristica universalis*—a universal symbolic language that would encode all human knowledge—and a *calculus ratiocinator*, a mechanical calculator that could resolve philosophical disputes through computation. Leibniz wrote: *"When controversies arise, there will be no more need of disputation between two philosophers than between two accountants. For it will suffice to take their pencils in their hands, and say to each other: Let us calculate."*
 
-**Carl Jung (1875-1961):** Systematized the collective unconscious into **archetypes**, creating a taxonomy of psychic patterns. In *Memories, Dreams, Reflections*, Jung critiques "compartment psychology" where intellect is divorced from feeling, emphasizing that intellectual insight must be converted into an "ethical obligation" (lived action) to avoid the "negative effects of the unconscious" (Jung, *MDR*). The *Red Book* is experiential gnosis; *Psychological Types* and *Aion* are the algorithmic framework organizing that gnosis.
+**Carl Jung (1875-1961):** Systematized the collective unconscious into **archetypes**, creating a taxonomy of psychic patterns. In *Memories, Dreams, Reflections*, Jung critiques "compartment psychology" where intellect is divorced from feeling, emphasizing that intellectual insight must be converted into an "ethical obligation" (lived action) to avoid the "negative effects of the unconscious."[^3] The *Red Book* is experiential gnosis; *Psychological Types* and *Aion* are the algorithmic framework organizing that gnosis.
 
-**Ra Uru Hu (1948-2011):** Received [[Human Design]], which synthesizes the I-Ching, Qabalah, Chakras, and Astrology into a **64-gate mechanical blueprint** overlaid onto the body as a BodyGraph. Ra taught that the Mind (Personality) is designed for Outer Authority—collecting information and communicating perspectives—but cannot make correct personal decisions. The Body (Design) holds Inner Authority and is the vehicle for movement and experience. The system is just "fascinating information" until applied through the Experiment of Strategy and Authority (Ra Uru Hu, *Definitive Book of Human Design*). Human Design is pure Algorithm—a system so precise it can be rendered as software.
+**Ra Uru Hu (1948-2011):** Received [[Human Design]], which synthesizes the I-Ching, Qabalah, Chakras, and Astrology into a **64-gate mechanical blueprint** overlaid onto the body as a BodyGraph. Ra taught that the Mind (Personality) is designed for Outer Authority—collecting information and communicating perspectives—but cannot make correct personal decisions. The Body (Design) holds Inner Authority and is the vehicle for movement and experience. The system is just "fascinating information" until applied through the Experiment of Strategy and Authority.[^4] Human Design is pure Algorithm—a system so precise it can be rendered as software.
 
 ### The Algorithm in Vibology
 
@@ -106,7 +106,7 @@ In Vibology, we extend this definition: the Anima is not just the soul-image but
 
 ### The Anima as Inner Authority
 
-In [[Human Design]], this embodied knowing is called **[[Inner Authority and Strategy|Inner Authority]]**—the mechanism by which you make decisions **not through the mind** but through the body's intelligence. Ra Uru Hu teaches: *"The mind is not a trustworthy personal guidance system"*—it creates narratives and lies to maintain control. The solution: *"See the body as the solution, not as the problem"* (Ra Uru Hu, *Definitive Book*):
+In [[Human Design]], this embodied knowing is called **[[Inner Authority and Strategy|Inner Authority]]**—the mechanism by which you make decisions **not through the mind** but through the body's intelligence. Ra Uru Hu teaches: *"The mind is not a trustworthy personal guidance system"*—it creates narratives and lies to maintain control. The solution: *"See the body as the solution, not as the problem"*:[^5]
 
 - **Emotional Authority (Solar Plexus):** The strongest authority (53% of population). Operates on a biochemical wave of highs and lows. *"No truth in the now"*—one must wait for clarity over time until the wave levels out (Ra Uru Hu).
 
@@ -204,7 +204,7 @@ This is not dogma. This is **empirical mysticism**—gnosis grounded in reproduc
 ---
 ## The Role of Technology: Techgnosis
 
-The modern innovation in Vibology is the integration of **computational intelligence** into the Algorithm, creating what Erik Davis calls **[[Techgnosis]]**: spiritual knowledge accelerated through technology. Davis distinguishes Spirit (digital, abstract, looking for "peaks") from Soul (analog, embodied, dwelling in "valleys"), and cites Sam Webster's description of ritual as *"the principal technology for programming the human organism"*—bridging the gap by using structural techniques to trigger visceral, embodied spiritual experiences (Davis, *TechGnosis*).
+The modern innovation in Vibology is the integration of **computational intelligence** into the Algorithm, creating what Erik Davis calls **[[Techgnosis]]**: spiritual knowledge accelerated through technology. Davis distinguishes Spirit (digital, abstract, looking for "peaks") from Soul (analog, embodied, dwelling in "valleys"), and cites Sam Webster's description of ritual as *"the principal technology for programming the human organism"*—bridging the gap by using structural techniques to trigger visceral, embodied spiritual experiences.[^6]
 
 ### AI as the Accelerated Algorithm
 
@@ -367,6 +367,17 @@ When the Anima operates without Algorithm:
 *"The map is not the territory, but without a map, you wander lost. The compass is not the destination, but without a compass, you circle endlessly. Anima et Algorithm: the marriage of soul and system, the union that creates the pilgrim who knows both where they are going and how to verify they have arrived."*
 
 ---
+## Footnotes
+
+[^1]: Huxley, Aldous. *The Perennial Philosophy* (Harper & Brothers, 1945) — "knowledge is a function of being"; theology vs. mysticism distinction.
+[^2]: Davis, Erik. *TechGnosis: Myth, Magic, and Mysticism in the Age of Information* (Harmony Books, 1998) — Techgnosis as spiritual knowledge accelerated through technology.
+[^3]: Jung, C.G. *Memories, Dreams, Reflections* (Pantheon Books, 1963) — critique of "compartment psychology"; intellectual insight must convert to "ethical obligation."
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Mind as Outer Authority, Body as Inner Authority; the Experiment of Strategy and Authority.
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — "The mind is not a trustworthy personal guidance system"; "See the body as the solution, not as the problem."
+[^6]: Davis, Erik. *TechGnosis* (Harmony Books, 1998) — Spirit vs. Soul distinction; Sam Webster on ritual as "principal technology for programming the human organism."
+
+---
+
 ## Sources
 
 Davis, Erik. *TechGnosis: Myth, Magic, and Mysticism in the Age of Information*. Harmony Books, 1998.

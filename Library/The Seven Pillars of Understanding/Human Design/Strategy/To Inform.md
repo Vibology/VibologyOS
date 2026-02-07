@@ -14,7 +14,7 @@ verified: true
 ## Ra's Definition
 **To Inform** is the [[Manifestor]]'s strategy for moving through the world without creating unnecessary resistance. It is not asking permission—it is **declaration**: announcing intention before initiating action so that others are not caught off guard by the Manifestor's independent impact.
 
-The Manifestor is the only Type designed to initiate—to set things in motion without waiting for response, invitation, or lunar clarity. But this initiating power creates a problem: the Manifestor's closed and repelling aura naturally pushes others away, creating unconscious resistance. **Informing transforms this resistance into transparency.**
+The Manifestor is the only Type designed to initiate—to set things in motion without waiting for response, invitation, or lunar clarity.[^1] But this initiating power creates a problem: the Manifestor's closed and repelling aura naturally pushes others away, creating unconscious resistance.[^2] **Informing transforms this resistance into transparency.**
 
 ---
 
@@ -72,7 +72,7 @@ Manifestors who practice informing experience:
 - **Cleaner impact** — Initiations land without collateral damage
 - **Sustainable autonomy** — Independence that doesn't isolate
 
-The body knows when informing has been skipped. **Anger** arises—the Manifestor's Not-Self Theme—signaling that resistance is building from lack of transparency.
+The body knows when informing has been skipped. **Anger** arises—the Manifestor's Not-Self Theme[^5]—signaling that resistance is building from lack of transparency.
 
 ---
 
@@ -97,7 +97,7 @@ Informing without Authority leads to initiating incorrect actions. Authority wit
 
 ## Compatible Types
 
-**To Inform** is exclusive to the **[[Manifestor]]** (~9% of the population).
+**To Inform** is exclusive to the **[[Manifestor]]** (~9% of the population).[^3]
 
 No other Type has the closed aura that creates unconscious resistance, and no other Type is designed to initiate independently. Generators respond, Projectors wait for invitation, Reflectors wait a lunar cycle—only the Manifestor initiates, and only the Manifestor needs to inform.
 
@@ -111,7 +111,7 @@ The Manifestor's independent nature often leads them to simply act without infor
 
 ### 2. Asking Permission Instead of Informing
 
-Conditioned Manifestors often learn to ask permission as children (when their initiating nature was punished). But asking permission is not the same as informing. Permission-seeking gives others veto power over the Manifestor's autonomy; informing simply makes the aura transparent.
+Conditioned Manifestors often learn to ask permission as children (when their initiating nature was punished).[^4] But asking permission is not the same as informing. Permission-seeking gives others veto power over the Manifestor's autonomy; informing simply makes the aura transparent.
 
 ### 3. Informing After the Fact
 
@@ -180,6 +180,14 @@ When the Manifestor abandons their strategy:
 ---
 
 *To Inform is the Manifestor's bridge between power and connection—the recognition that autonomous action need not mean isolation. When the Manifestor informs, they transform their closed aura into a window, allowing others to see what's coming and prepare. This is not weakness or compromise; it is wisdom: the understanding that impact without transparency creates enemies, while declaration before action creates allies. Peace is not the absence of power but its correct expression.*
+
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — The Manifestor as the only Type designed to initiate action independently
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Manifestor aura described as closed and repelling, creating unconscious resistance
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Manifestors comprise approximately 9% of the population
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Manifestor children conditioned to ask permission rather than inform
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Anger as the Manifestor's Not-Self Theme, signaling abandoned Strategy
 
 ## Sources
 

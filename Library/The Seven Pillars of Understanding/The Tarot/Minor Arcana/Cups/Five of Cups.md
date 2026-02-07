@@ -22,19 +22,19 @@ title: Lord of Loss in Pleasure
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, the Five of Cups signifies **loss, but something remains; inheritance, patrimony, transmission; a card of inheritance, however, perhaps an unexpected gift**. When the Five of Cups appears upright, it speaks to the sting of genuine loss—not mere dissatisfaction (that was the Four), but *rupture*: something that was yours has been taken, spilled, lost.
+According to Waite's *Pictorial Key to the Tarot*, the Five of Cups signifies **loss, but something remains; inheritance, patrimony, transmission; a card of inheritance, however, perhaps an unexpected gift**. [^1] When the Five of Cups appears upright, it speaks to the sting of genuine loss—not mere dissatisfaction (that was the Four), but *rupture*: something that was yours has been taken, spilled, lost.
 
-The Golden Dawn titles this card the **"Lord of Loss in Pleasure"**—a name that captures the essential wound. Where the Three of Cups was Abundance and the Four was Blended Pleasure, the Five is *Loss in Pleasure*: the moment when joy itself becomes the source of grief. You loved, and now you mourn. The depth of your sorrow measures the depth of what you valued.
+The Golden Dawn titles this card the **"Lord of Loss in Pleasure"** [^2]—a name that captures the essential wound. Where the Three of Cups was Abundance and the Four was Blended Pleasure, the Five is *Loss in Pleasure*: the moment when joy itself becomes the source of grief. You loved, and now you mourn. The depth of your sorrow measures the depth of what you valued.
 
-The card is attributed to **Mars in Scorpio**—the red planet in its traditional domicile, the sign it rules alongside Pluto. This is Mars at maximum intensity: not the outward aggression of Aries, but the *inward* strike, the surgical wound that reaches the depths. Mars in Scorpio cuts deep and does not miss.
+The card is attributed to **Mars in Scorpio** [^3]—the red planet in its traditional domicile, the sign it rules alongside Pluto. This is Mars at maximum intensity: not the outward aggression of Aries, but the *inward* strike, the surgical wound that reaches the depths. Mars in Scorpio cuts deep and does not miss.
 
-The card represents **Geburah (Severity) in Briah (the World of Formation/Emotion)**. Geburah, the fifth Sephirah, is the sphere of judgment, contraction, and corrective destruction. It is the force that prunes the tree so new growth can occur. In the emotional realm of Briah, Geburah manifests as *loss*: the relationship that ends, the trust that shatters, the death that claims what was loved.
+The card represents **Geburah (Severity) in Briah (the World of Formation/Emotion)**. [^4] Geburah, the fifth Sephirah, is the sphere of judgment, contraction, and corrective destruction. It is the force that prunes the tree so new growth can occur. In the emotional realm of Briah, Geburah manifests as *loss*: the relationship that ends, the trust that shatters, the death that claims what was loved.
 
 The number **Five** in Qabalah represents disruption, instability, and the breaking of the Four's settled structure. Where Four creates foundation, Five *shakes* it. The Fives across all suits are cards of difficulty: strife (Wands), loss (Cups), defeat (Swords), worry (Pentacles). But difficulty is not the same as destruction—the Five breaks what was stagnant so that life can move again.
 
 This is one of the most emotionally direct cards in the Tarot. It depicts grief without apology, mourning without consolation. The figure in the card has lost something real; the spilled cups cannot be refilled. Yet the card also whispers: *look behind you*. Two cups remain. The bridge waits. The loss is not total—but first, you must mourn.
 
-When the Five of Cups appears **reversed**, Waite notes: **return of an old friend, recovery from a disease, alliances**. The reversal suggests that the mourning has reached its completion—not that grief disappears, but that the figure finally *turns around* and sees what remains.
+When the Five of Cups appears **reversed**, Waite notes: **return of an old friend, recovery from a disease, alliances**. [^5] The reversal suggests that the mourning has reached its completion—not that grief disappears, but that the figure finally *turns around* and sees what remains.
 
 The key teaching: **Grief is holy, but it is not meant to be eternal.** The Five of Cups honors the necessity of mourning while pointing toward the bridge that leads back to life.
 
@@ -400,6 +400,14 @@ The Lord of Loss in Pleasure is also the lord of what survives loss. The two cup
 ---
 
 *"Grief is holy—but it becomes a prison when you forget that the ground on which you stand is also the path forward."*
+
+## Footnotes
+
+[^1]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meaning for the Five of Cups.
+[^2]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Lord of Loss in Pleasure" for the Five of Cups.
+[^3]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Mars in Scorpio decan attribution for the Five of Cups.
+[^4]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Geburah in Briah Sephirotic placement for the Five of Cups.
+[^5]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meaning for the Five of Cups.
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

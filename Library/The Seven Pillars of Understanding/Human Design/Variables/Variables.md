@@ -16,7 +16,7 @@ verification_notes: "Variables mechanics verified against Grimoire. Advanced lay
 
 ## Introduction: The Architecture of Differentiation
 
-**Variables** represent the deepest layer of the [[Human Design]] system—the **Four Transformations** required to achieve unique differentiation and authentic awareness. While Strategy and [[Authority]] govern the decision-making mechanics of the vehicle, Variables reveal the **internal architecture** of consciousness itself: how you digest, where you thrive, what you see, and why you move.
+**Variables** represent the deepest layer of the [[Human Design]] system—the **Four Transformations** required to achieve unique differentiation and authentic awareness.[^1] While Strategy and [[Authority]] govern the decision-making mechanics of the vehicle, Variables reveal the **internal architecture** of consciousness itself: how you digest, where you thrive, what you see, and why you move.
 
 Variables are not accessible through mental effort or spiritual practice. They emerge **only** through the correct operation of the vehicle via Strategy and [[Authority]]. They are the flowering of a life lived correctly—the **reward** for surrendering the mind's control and allowing the form to lead.
 
@@ -37,10 +37,10 @@ These four calculations form **16 distinct Variable combinations**—the natural
 Variables emerged from the same eight-day encounter on Ibiza that produced the entire Human Design system. The **Voice** transmitted not only the surface mechanics (Types, Centers, Gates, Channels) but also the deep **substructure**—the Crystals of Consciousness and their internal architecture.
 
 **What was revealed:**
-- Two Crystals (Design and Personality) structure consciousness
+- Two Crystals (Design and Personality) structure consciousness[^2]
 - Each Crystal contains an internal hierarchy: **Tone** (inner architecture), **Color** (messenger frequency), **Base** (entry point)
 - The **Color** level—previously invisible to astrology and other systems—determines Variables
-- The 1781 mutation of the human visual cortex separated humanity into two distinct cognitive streams: **Strategic** (Left) and **Receptive** (Right)
+- The 1781 mutation of the human visual cortex separated humanity into two distinct cognitive streams: **Strategic** (Left) and **Receptive** (Right)[^3]
 
 ### The Rave Psychology Layer (2000s)
 
@@ -182,7 +182,7 @@ According to the revelation, humanity is in the process of a **400-year transiti
 
 ## The 16 Variable Combinations
 
-Since each of the four Variables can be either **Left (Strategic)** or **Right (Receptive)**, there are **2^4 = 16** possible permutations. These 16 combinations represent the **natural order** of human cognitive organization—distinct families that cannot be homogenized.
+Since each of the four Variables can be either **Left (Strategic)** or **Right (Receptive)**, there are **2^4 = 16** possible permutations.[^4] These 16 combinations represent the **natural order** of human cognitive organization—distinct families that cannot be homogenized.
 
 ### The Matrix
 
@@ -244,7 +244,7 @@ Variables are the **surface expression** of a deep substructure within the Cryst
 
 ### Strategy and Authority: The Prerequisite
 
-**The Rule:** Variables are **not accessible** without first surrendering to Strategy and [[Authority]].
+**The Rule:** Variables are **not accessible** without first surrendering to Strategy and [[Authority]].[^5]
 
 **Why?** The mind cannot manipulate Variables. Attempting to "eat correctly" or "be in the right Environment" from the Not-Self only creates further distortion. Variables emerge **naturally** when the vehicle operates correctly.
 
@@ -256,7 +256,7 @@ Variables are the **surface expression** of a deep substructure within the Cryst
 
 ### Type and Definition
 
-**Variables do not override Type.** A Quad Right Generator still waits to respond. A Quad Left Projector still waits for recognition. Variables describe the **internal cognitive architecture**, not the external interaction mechanics.
+**Variables do not override Type.**[^6] A Quad Right Generator still waits to respond. A Quad Left Projector still waits for recognition. Variables describe the **internal cognitive architecture**, not the external interaction mechanics.
 
 **Definition** (Single, Split, Triple, Quad) describes **energy flow** between Centers. Variables describe **consciousness flow** within the Crystals. These are parallel systems.
 
@@ -418,6 +418,15 @@ The [[The Astrolabe]] system's **House of the Land** (stability, foundation) res
 - I-Ching - The 64-fold hexagram substrate
 - [[The Blueprint - 444 Architecture]] - The shared 64-fold structure
 
+
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Variables as the Four Transformations representing the deepest layer of the Human Design system
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Two Crystals (Design and Personality) structuring consciousness with internal hierarchy of Tone, Color, and Base
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — The 1781 visual cortex mutation dividing humanity into Strategic (Left) and Receptive (Right) cognitive streams
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — 16 Variable combinations from Left/Right orientation across four Variables
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Variables not accessible without first living Strategy and Authority
+[^6]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Variables describe internal cognitive architecture and do not override Type mechanics
 
 ## Sources
 

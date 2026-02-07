@@ -22,11 +22,11 @@ title: Lord of Material Success
 
 ---
 ## Traditional Symbolism
-According to Waite's *Pictorial Key to the Tarot*, the Six of Pentacles signifies **presents, gifts, gratification**. More specifically: **a person in the guise of a merchant weighs money in a pair of scales and distributes it to the needy and distressed**. The upright card speaks to **success in material undertakings, prosperity, philanthropy, generosity**—but also the implicit power dynamics of charity.
-The Golden Dawn titles this card the **"Lord of Material Success"** and attributes it to **Moon in Taurus**, the second decan of the fixed earth sign. This is the planet of cycles, intuition, and emotional tides (Moon) manifesting through the sign of material stability, sensory pleasure, and accumulated wealth (Taurus). The result is **generous flow**—resources circulating from those who have to those who need, but with *emotional discernment*, not blind giving.
+According to Waite's *Pictorial Key to the Tarot*, the Six of Pentacles signifies **presents, gifts, gratification**. [^1] More specifically: **a person in the guise of a merchant weighs money in a pair of scales and distributes it to the needy and distressed**. The upright card speaks to **success in material undertakings, prosperity, philanthropy, generosity**—but also the implicit power dynamics of charity.
+The Golden Dawn titles this card the **"Lord of Material Success"** [^2] and attributes it to **Moon in Taurus** [^3], the second decan of the fixed earth sign. This is the planet of cycles, intuition, and emotional tides (Moon) manifesting through the sign of material stability, sensory pleasure, and accumulated wealth (Taurus). The result is **generous flow**—resources circulating from those who have to those who need, but with *emotional discernment*, not blind giving.
 The card represents **the restoration of balance after crisis**. The Five showed material hardship and the figures walking past the church door. The Six is *after they knocked*—the door opened, help arrived, resources are being shared. But note: this is not equality. The giver stands; the receivers kneel. The giver holds the scale; the receivers hold out empty hands. Generosity is present—but so is *hierarchy*.
 This is a profoundly important card in questions of giving and receiving, wealth and poverty, charity and justice. It indicates that resources are flowing again—the crisis of the Five is resolving. Someone who has abundance is sharing with someone who does not. But the card asks you to examine *how* the exchange is happening: Is it offered freely, or does it create obligation? Does it empower the receiver, or does it bind them to continued dependence? Is the giver generous, or controlling?
-When the Six of Pentacles appears **reversed**, Waite identifies meanings of **desire, cupidity, envy, jealousy, illusion**. The reversal can indicate several dynamics: the generosity becomes *manipulation* (gifts with strings attached), the receiver feels *resentment* (envy of the giver's power), or the giver becomes *stingy* (withholding what was previously shared). The Golden Dawn reversal suggests "unfairness in giving; charity used as control; resentment of those who have more."
+When the Six of Pentacles appears **reversed**, Waite identifies meanings of **desire, cupidity, envy, jealousy, illusion**. [^4] The reversal can indicate several dynamics: the generosity becomes *manipulation* (gifts with strings attached), the receiver feels *resentment* (envy of the giver's power), or the giver becomes *stingy* (withholding what was previously shared). The Golden Dawn reversal suggests "unfairness in giving; charity used as control; resentment of those who have more." [^5]
 The key teaching: **How you give matters as much as what you give**. The Six of Pentacles offers the opportunity to restore balance, to share abundance, to lift others from poverty—but if the giving comes from ego (to be seen as generous), or creates dependency (the receiver can never rise to equality), or reinforces hierarchy (reminding the poor of their place), then the gift becomes a chain.
 ---
 
@@ -339,6 +339,14 @@ The invitation is to give freely and receive gratefully, to recognize interdepen
 
 ---
 *"The gift that creates dependency is not generosity—it is control dressed in kindness."*
+
+## Footnotes
+
+[^1]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meaning for the Six of Pentacles.
+[^2]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Lord of Material Success" for the Six of Pentacles.
+[^3]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Moon in Taurus decan attribution for the Six of Pentacles.
+[^4]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meaning for the Six of Pentacles.
+[^5]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn reversal interpretation for the Six of Pentacles.
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

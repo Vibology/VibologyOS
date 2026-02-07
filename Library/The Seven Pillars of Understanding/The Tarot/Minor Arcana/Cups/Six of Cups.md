@@ -22,19 +22,19 @@ title: Lord of Pleasure
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, the Six of Cups signifies **new relations, new knowledge, new environment, and especially things and circumstances of the past; the beginning of steady increase and happiness**. When the Six of Cups appears upright, it speaks to the realm of memory and nostalgia—not the fixated grief of the Five, but the tender retrieval of what was loved.
+According to Waite's *Pictorial Key to the Tarot*, the Six of Cups signifies **new relations, new knowledge, new environment, and especially things and circumstances of the past; the beginning of steady increase and happiness**. [^1] When the Six of Cups appears upright, it speaks to the realm of memory and nostalgia—not the fixated grief of the Five, but the tender retrieval of what was loved.
 
-The Golden Dawn titles this card the **"Lord of Pleasure"**—a name that at first seems incongruous with the melancholy of memory. But this is *pleasure recovered*: the discovery that what you loved is not gone but *internalized*, that the past lives within you as a resource rather than a wound. After the Loss of Pleasure (Five), comes Pleasure itself (Six)—not new pleasure, but the realization that old pleasure is still accessible.
+The Golden Dawn titles this card the **"Lord of Pleasure"** [^2]—a name that at first seems incongruous with the melancholy of memory. But this is *pleasure recovered*: the discovery that what you loved is not gone but *internalized*, that the past lives within you as a resource rather than a wound. After the Loss of Pleasure (Five), comes Pleasure itself (Six)—not new pleasure, but the realization that old pleasure is still accessible.
 
-The card is attributed to **Sun in Scorpio**—an unusual combination: the luminary of consciousness and vitality descending into the sign of depth, shadow, and the underworld. This is light penetrating darkness, warmth reaching into cold places. The Sun in Scorpio does not deny Scorpio's depths; it *illuminates* them.
+The card is attributed to **Sun in Scorpio** [^3]—an unusual combination: the luminary of consciousness and vitality descending into the sign of depth, shadow, and the underworld. This is light penetrating darkness, warmth reaching into cold places. The Sun in Scorpio does not deny Scorpio's depths; it *illuminates* them.
 
-The card represents **Tiphareth (Beauty) in Briah (the World of Formation/Emotion)**. Tiphareth, the sixth Sephirah, is the harmonizing center of the Tree of Life—the heart that balances all opposites, the sphere of the Sun and the child. In the emotional realm of Briah, Tiphareth manifests as *harmony restored*: the beginning of healing after the Five's rupture.
+The card represents **Tiphareth (Beauty) in Briah (the World of Formation/Emotion)**. [^4] Tiphareth, the sixth Sephirah, is the harmonizing center of the Tree of Life—the heart that balances all opposites, the sphere of the Sun and the child. In the emotional realm of Briah, Tiphareth manifests as *harmony restored*: the beginning of healing after the Five's rupture.
 
 The number **Six** in Qabalah represents balance, harmony, and the integration of opposites. Where Five disrupts, Six *heals*. The Sixes across all suits are cards of recovery and rebalancing: victory (Wands), pleasure (Cups), science (Swords), success (Pentacles). Six is the number of the hexagram—two interlocking triangles, above and below united.
 
 This is one of the most gentle cards in the Tarot. It depicts not the peak of joy (that was the Three) nor the depths of sorrow (that was the Five), but the quiet contentment of *remembering well*. The children in the garden are not ecstatic; they are *peaceful*. The past is present, but as gift rather than burden.
 
-When the Six of Cups appears **reversed**, Waite notes: **the future, renewal; that which will come to pass presently**. The reversal shifts the temporal orientation—from past to future, from memory to anticipation. What the upright card finds in the past, the reversed card seeks in what is coming.
+When the Six of Cups appears **reversed**, Waite notes: **the future, renewal; that which will come to pass presently**. [^5] The reversal shifts the temporal orientation—from past to future, from memory to anticipation. What the upright card finds in the past, the reversed card seeks in what is coming.
 
 The key teaching: **The past is not a prison unless you try to live there. Remembered rightly, it is a wellspring.**
 
@@ -389,6 +389,14 @@ The Lord of Pleasure is the pleasure of remembering well—neither clinging nor 
 ---
 
 *"The past is not a prison unless you try to live there. Remembered rightly, it is a wellspring."*
+
+## Footnotes
+
+[^1]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meaning for the Six of Cups.
+[^2]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Lord of Pleasure" for the Six of Cups.
+[^3]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Sun in Scorpio decan attribution for the Six of Cups.
+[^4]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Tiphareth in Briah Sephirotic placement for the Six of Cups.
+[^5]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meaning for the Six of Cups.
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

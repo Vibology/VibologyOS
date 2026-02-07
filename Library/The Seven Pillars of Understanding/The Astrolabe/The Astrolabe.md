@@ -13,7 +13,7 @@ status: Draft
 
 The Astrolabe is an **88-card oracle deck** built in two parts: **The Athanor** (24 cards), which provides the interpretive and archetypal lens, and **The Codex** (64 cards), which maps the 64-fold architecture — I-Ching hexagrams, Human Design gates, Gene Keys — as it actually is.
 
-The name derives from the Greek *astrolabon*, "star-taker" — the ancient instrument that modeled the entire celestial sphere as a portable, operable tool held in the hands. Where the physical astrolabe rendered the sky navigable, this deck renders the archetypal field navigable: 88 cards spanning the complete observable territory, from alchemical first principles through the 64 hexagrams that structure all living pattern.
+The name derives from the Greek *astrolabon*, "star-taker"[^1] — the ancient instrument that modeled the entire celestial sphere as a portable, operable tool held in the hands. Where the physical astrolabe rendered the sky navigable, this deck renders the archetypal field navigable: 88 cards spanning the complete observable territory, from alchemical first principles through the 64 hexagrams that structure all living pattern.
 
 88 mirrors the 88 constellations mapping the complete observable sky.
 
@@ -73,9 +73,9 @@ The Archetypes are zodiacal and Jungian figures. They carry no gate assignments 
 
 *The observed field — the hexagrams as they actually are, organized by trigram family.*
 
-Each Codex card is named for its I-Ching hexagram (best available English translation, 1-2 words). Human Design gate keynotes and Gene Keys transformation arcs (Shadow → Gift → Siddhi) appear as correspondences on each card.
+Each Codex card is named for its I-Ching hexagram (best available English translation, 1-2 words).[^2] Human Design gate keynotes[^3] and Gene Keys transformation arcs (Shadow → Gift → Siddhi)[^4] appear as correspondences on each card.
 
-The 64 cards are organized into **8 families by lower trigram** — the inner/foundational energy that drives from beneath:
+The 64 cards are organized into **8 families by lower trigram**[^5] — the inner/foundational energy that drives from beneath:
 
 | Family | Trigram | Image | Character |
 |--------|---------|-------|-----------|
@@ -133,6 +133,15 @@ The principle governing its construction: **use precise tools precisely.** The 6
 - **[[Personal Mythos]]** — Jungian archetypes (12 Archetypes directly mapped)
 - **[[The Tarot]]** — Western divination tradition (structural parallels)
 - **[[Astrology]]** — Zodiac wheel (12 Archetypes mapped to signs)
+
+---
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1967) — etymology of "astrolabe" from Greek astronomical tradition paralleling the I-Ching's own function as portable cosmological instrument
+[^2]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1967) — hexagram names and English translations
+[^3]: Ra Uru Hu and Bunnell, *The Definitive Book of Human Design* (IHDS/Jovian Archive, 2011) — gate keynotes and center placements
+[^4]: Rudd, *Gene Keys* (Watkins, 2013) — Shadow/Gift/Siddhi transformation arc framework
+[^5]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1967) — trigram family structure organizing the 64 hexagrams by lower trigram
 
 ---
 ## Sources

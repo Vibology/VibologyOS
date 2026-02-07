@@ -20,13 +20,13 @@ source_verified: Esoteric Grimoire
 
 ---
 ## Ra's Definition
-According to Ra Uru Hu, the **Channel of Surrender** is the **master salesperson** of the Human Design system—the capacity to transmit tribal memory, manipulate patterns, and convince others to surrender to a particular version of reality. This channel connects the **Spleen** (instinctive awareness) to the **Heart (Ego) Center** (willpower), creating a bridge between **survival intelligence** and **material control**.
+According to Ra Uru Hu, the **Channel of Surrender** is the **master salesperson** of the Human Design system—the capacity to transmit tribal memory, manipulate patterns, and convince others to surrender to a particular version of reality[^1]. This channel connects the **Spleen** (instinctive awareness) to the **Heart (Ego) Center** (willpower), creating a bridge between **survival intelligence** and **material control**.
 
 Ra taught that this channel is not about personal surrender, but about **getting others to surrender** to your will, your product, your story, or your version of history. This is the channel of the **trickster, the marketer, the storyteller who bends reality** through selective memory and strategic presentation.
 
 **"The 26-44 is the great manipulator. It's not evil—it's tribal. The tribe survives through the one who can sell the vision, who can make the past look glorious, who can convince you that what they're offering is what you need. This is the channel that built civilizations—and empires."** — Ra Uru Hu
 
-The keynote here is **transmission through memory manipulation**—using instinctive awareness of patterns (Gate 44) combined with ego-driven control of narrative (Gate 26) to influence, persuade, and dominate.
+The keynote here is **transmission through memory manipulation**—using instinctive awareness of patterns (Gate 44) combined with ego-driven control of narrative (Gate 26) to influence, persuade, and dominate[^5].
 
 ---
 ## Core Correspondences
@@ -36,12 +36,12 @@ The keynote here is **transmission through memory manipulation**—using instinc
 | **Channel Number** | 26-44 |
 | **Channel Name** | Surrender / The Channel of the Transmitter |
 | **Centers** | Spleen ↔ Heart (Ego) |
-| **Circuitry** | Tribal (Ego Circuit) |
-| **Type** | Projected (no direct Throat connection) |
+| **Circuitry** | Tribal (Ego Circuit)[^2] |
+| **Type** | Projected (no direct Throat connection)[^3] |
 | **Keynote** | A Transmitter / Getting Others to Surrender |
 | **Function** | To transmit tribal memory, influence through persuasion, control narrative |
 | **Gates** | Gate 26 (Taming Power of the Great/The Egoist), Gate 44 (Coming to Meet/Alertness) |
-| **Biology** | Spleen (immune system, survival instinct), heart/thymus (willpower, promises) |
+| **Biology** | Spleen (immune system, survival instinct), heart/thymus (willpower, promises)[^4] |
 | **Electromagnetic Theme** | Instinctive memory empowered by ego to transmit and manipulate |
 | **Gene Keys** | Shadow: Pride/Interference → Gift: Artfulness/Teamwork → Siddhi: Invisibility/Synarchy |
 | **Not-Self Pattern** | Manipulating without invitation, ego-driven salesmanship, exhausting the will |
@@ -449,6 +449,14 @@ This is the essence of the Tribal Ego Circuit: **using willpower to serve the tr
 - The 7-Year Deconditioning Cycle — Returning to authentic tribal service
 - Ego Sustainability — Understanding the Ego's need for rest and conservation
 - Tribal Dynamics — Understanding bargains, promises, and tribal hierarchy
+
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 26-44 as the tribal transmitter: capacity to transmit memory and convince others to surrender
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 26-44 classified within the Tribal Ego Circuit
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Projected channel type: Spleen-to-Ego with no direct Throat connection
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Biological correlations: Spleen to immune system, Ego/Heart to thymus and willpower
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Keynote of transmission: Gate 44 instinctive pattern awareness combined with Gate 26 ego-driven narrative control
 
 ## Sources
 **Primary Source:**

@@ -23,17 +23,17 @@ title: Lord of Sorrow
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, the Three of Swords signifies **removal, absence, delay, division, rupture, dispersion**. It is, perhaps more than any other card in the deck, immediately recognizable in its meaning: the image of heartbreak, of pain made visible, of sorrow that cannot be hidden or denied. When the Three of Swords appears, it speaks to the realm of conscious grief—the moment when the wound is acknowledged, when the tears finally fall.
+According to Waite's *Pictorial Key to the Tarot*, the Three of Swords signifies **removal, absence, delay, division, rupture, dispersion**.[^1] It is, perhaps more than any other card in the deck, immediately recognizable in its meaning: the image of heartbreak, of pain made visible, of sorrow that cannot be hidden or denied. When the Three of Swords appears, it speaks to the realm of conscious grief—the moment when the wound is acknowledged, when the tears finally fall.
 
-The Golden Dawn titles this card the **"Lord of Sorrow"** and attributes it to **Saturn in Libra**—the planet of limitation, loss, and hard-won wisdom operating through the sign of relationship, partnership, and balance. This is not random suffering; it is *structural* suffering—the pain that comes when the very foundation of relationship is cracked, when what you built together is revealed to be insufficient.
+The Golden Dawn titles this card the **"Lord of Sorrow"**[^2] and attributes it to **Saturn in Libra**—the planet of limitation, loss, and hard-won wisdom operating through the sign of relationship, partnership, and balance. This is not random suffering; it is *structural* suffering—the pain that comes when the very foundation of relationship is cracked, when what you built together is revealed to be insufficient.
 
-Qabalistically, this is **Binah in Yetzirah**—Understanding (the third Sephirah, the Great Mother, the principle of form and limitation) expressing through the Formative World of Air and intellect. Binah is titled "the Dark Mother" for good reason: she gives form, but form implies *limitation*, and limitation implies *loss*. To understand is to grieve what understanding costs.
+Qabalistically, this is **Binah in Yetzirah**—Understanding (the third Sephirah, the Great Mother, the principle of form and limitation) expressing through the Formative World of Air and intellect.[^4] Binah is titled "the Dark Mother" for good reason: she gives form, but form implies *limitation*, and limitation implies *loss*. To understand is to grieve what understanding costs.
 
 The card represents the **necessary wound**—the cut that opens the heart to wisdom it could not have received while intact. This is not suffering for its own sake. This is suffering as initiation, as teacher, as the price of consciousness.
 
 In readings, the Three of Swords is rarely welcome—but it is often necessary. It indicates heartbreak, yes—betrayal, loss, separation, grief. But it also indicates that the grief is *conscious*. The pain is being felt, not repressed. The sorrow is being acknowledged, not denied. This is the first step toward healing.
 
-When the Three of Swords appears **reversed**, Waite identifies **mental alienation, error, loss, distraction, disorder, confusion**. The reversed Three speaks to grief that has gone wrong—pain that is denied and festers, or pain that fragments the mind because it cannot be integrated. The wound is not being honored; it is being weaponized, against self or other.
+When the Three of Swords appears **reversed**, Waite identifies **mental alienation, error, loss, distraction, disorder, confusion**.[^3] The reversed Three speaks to grief that has gone wrong—pain that is denied and festers, or pain that fragments the mind because it cannot be integrated. The wound is not being honored; it is being weaponized, against self or other.
 
 The key teaching: **Sorrow is not the enemy of wisdom—it is the doorway**. The Three of Swords hurts. It is meant to hurt. But the heart that can be pierced is the heart that was alive enough to love.
 
@@ -110,7 +110,7 @@ Binah in Yetzirah teaches: **Wisdom comes through suffering**. Not all wisdom, a
 - **The end of illusions about others**: Seeing people as they are, not as you wanted them to be
 - **Structural failure**: The collapse of the framework that held the relationship together
 
-Notably, **Saturn is exalted in Libra** in traditional astrology—this is actually one of Saturn's strongest placements. This suggests that the suffering of the Three of Swords is not mere cruelty; it is *appropriate*. The lessons being taught are precisely the lessons that need to be learned. The wound is not random—it is exact.
+Notably, **Saturn is exalted in Libra** in traditional astrology[^5]—this is actually one of Saturn's strongest placements. This suggests that the suffering of the Three of Swords is not mere cruelty; it is *appropriate*. The lessons being taught are precisely the lessons that need to be learned. The wound is not random—it is exact.
 
 ### The Rider-Waite Symbolism: A Deep Dive
 
@@ -334,6 +334,14 @@ The question is not whether you will be wounded—openness to life guarantees wo
 ---
 
 *"Only the heart that dares to love can be broken—and only the broken heart can be made whole."*
+
+## Footnotes
+
+[^1]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meanings for the Three of Swords
+[^2]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Lord of Sorrow" and Saturn in Libra attribution
+[^3]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meanings for the Three of Swords
+[^4]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Binah in Yetzirah Qabalistic placement and decan attribution
+[^5]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Saturn's exaltation in Libra as dignified placement for this decan
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

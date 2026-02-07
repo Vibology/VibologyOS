@@ -23,17 +23,17 @@ title: Lord of Despair and Cruelty
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, the Nine of Swords signifies **death, failure, miscarriage, delay, deception, disappointment, despair**. This is perhaps the most psychologically disturbing card in the Minor Arcana—an image of pure mental anguish, the torment of a mind that cannot find rest. When the Nine of Swords appears upright, it speaks to the realm of internalized suffering—the midnight crisis, the inescapable rumination, the thoughts that multiply in darkness.
+According to Waite's *Pictorial Key to the Tarot*, the Nine of Swords signifies **death, failure, miscarriage, delay, deception, disappointment, despair**.[^1] This is perhaps the most psychologically disturbing card in the Minor Arcana—an image of pure mental anguish, the torment of a mind that cannot find rest. When the Nine of Swords appears upright, it speaks to the realm of internalized suffering—the midnight crisis, the inescapable rumination, the thoughts that multiply in darkness.
 
-The Golden Dawn titles this card the **"Lord of Despair and Cruelty"** and attributes it to **Mars in Gemini**—the planet of aggression, violence, and war operating through the sign of thought, communication, and mental agility. This is a vicious combination: Mars's aggressive force is turned inward, fragmented by Gemini's duality, and becomes *thought as weapon*. The mind attacks itself, endlessly, without mercy.
+The Golden Dawn titles this card the **"Lord of Despair and Cruelty"**[^2] and attributes it to **Mars in Gemini**—the planet of aggression, violence, and war operating through the sign of thought, communication, and mental agility. This is a vicious combination: Mars's aggressive force is turned inward, fragmented by Gemini's duality, and becomes *thought as weapon*. The mind attacks itself, endlessly, without mercy.
 
-Qabalistically, this is **Yesod in Yetzirah**—Foundation (the ninth Sephirah, the lunar sphere of images, dreams, and the unconscious) expressing through the Formative World of Air and intellect. Yesod is the realm of dreams—both inspiring and nightmarish. When Yesod manifests through the suit of mental conflict, the result is *nightmare*: the unconscious producing images of fear that the conscious mind cannot escape.
+Qabalistically, this is **Yesod in Yetzirah**—Foundation (the ninth Sephirah, the lunar sphere of images, dreams, and the unconscious) expressing through the Formative World of Air and intellect.[^4] Yesod is the realm of dreams—both inspiring and nightmarish. When Yesod manifests through the suit of mental conflict, the result is *nightmare*: the unconscious producing images of fear that the conscious mind cannot escape.
 
 The card represents the **cruelty of the mind turned against itself**—thought as torturer, analysis as persecution, memory as weapon. The Nine of Swords is not primarily about external misfortune (though external events may trigger it); it is about the internal experience of being *attacked by your own thoughts*.
 
 In readings, the Nine of Swords indicates mental suffering—anxiety, insomnia, guilt, shame, obsessive worry, intrusive thoughts. It is the 3 AM terror, the spiral of "what if," the voice that whispers the worst possibilities until sleep becomes impossible. The card does not minimize this suffering; it acknowledges that mental pain can be as devastating as physical pain.
 
-When the Nine of Swords appears **reversed**, Waite identifies meanings of **imprisonment, suspicion, doubt, reasonable fear, shame**. The reversal can indicate that the fears may have some basis in reality (not merely psychological), or that the mental torment has deepened toward breakdown. Alternatively, the reversal may indicate the beginning of dawn—the worst has passed, and the despair is lifting.
+When the Nine of Swords appears **reversed**, Waite identifies meanings of **imprisonment, suspicion, doubt, reasonable fear, shame**.[^3] The reversal can indicate that the fears may have some basis in reality (not merely psychological), or that the mental torment has deepened toward breakdown. Alternatively, the reversal may indicate the beginning of dawn—the worst has passed, and the despair is lifting.
 
 The key teaching: **Not every thought is true, and not every voice in your head deserves belief**. The Nine of Swords is the card of mental cruelty, but it is also the card that reminds us: the mind that creates torment can also question it.
 
@@ -339,6 +339,13 @@ This is not easy to believe in the middle of the night. But it may be true.
 ---
 
 *"The mind that turns its sword against itself becomes both prisoner and executioner."*
+
+## Footnotes
+
+[^1]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meanings for the Nine of Swords
+[^2]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Lord of Despair and Cruelty" and Mars in Gemini attribution
+[^3]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meanings for the Nine of Swords
+[^4]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Yesod in Yetzirah Qabalistic placement and decan attribution
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

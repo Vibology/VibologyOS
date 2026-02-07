@@ -58,15 +58,15 @@ The Receptive carries the frequency of **directional receptivity**—the capacit
 
 ### The Hexagram (I-Ching)
 
-Earth below Earth—the image of pure receptive devotion. Wilhelm's Judgment: *"The Receptive brings about sublime success, furthering through the perseverance of a mare."* The superior man does not initiate or lead; he **receives the guidance** of the terrain and moves accordingly. The Receptive is not passive—it is active yielding, receptive power that holds space for what is correct to emerge.
+Earth below Earth—the image of pure receptive devotion. Wilhelm's Judgment: *"The Receptive brings about sublime success, furthering through the perseverance of a mare."*[^1] The superior man does not initiate or lead; he **receives the guidance** of the terrain and moves accordingly. The Receptive is not passive—it is active yielding, receptive power that holds space for what is correct to emerge.
 
 ### The Gate (Human Design)
 
-Gate 2 resides in the G Center, the seat of identity, direction, and love. This is **receptivity as the primal base determining response**—the Driver that orients the self without mental interference. The Receptive operates through the Individual Knowing Circuit, meaning it **empowers through being**, not through teaching or leading. When one is receptive to their geometry, direction reveals itself.
+Gate 2 resides in the G Center, the seat of identity, direction, and love.[^2] This is **receptivity as the primal base determining response**—the Driver that orients the self without mental interference. The Receptive operates through the Individual Knowing Circuit, meaning it **empowers through being**, not through teaching or leading. When one is receptive to their geometry, direction reveals itself.
 
 ### The Gene Keys
 
-**Shadow: Dislocation** — The individual is lost, disconnected from their geometry, seeking direction externally through others' guidance. Movement without orientation.
+**Shadow: Dislocation**[^3] — The individual is lost, disconnected from their geometry, seeking direction externally through others' guidance. Movement without orientation.
 
 **Gift: Orientation** — The capacity to know where one is going through receptive alignment with inner geometry. Direction felt as magnetic pull.
 
@@ -135,6 +135,13 @@ The conditioning pattern: "I need someone to tell me where to go" or "I don't tr
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 2 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 2 mechanics, G Center (Identity)
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Dislocation / Orientation / Unity
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 2: The Receptive

@@ -20,13 +20,13 @@ source_verified: Esoteric Grimoire
 
 ---
 ## Ra's Definition
-According to Ra Uru Hu, the **Channel of Struggle** (also known as **The Fighter**) is the Individual's capacity to **fight for meaning, purpose, and the preservation of individual integrity** through opposition and risk. This channel connects the **Spleen** (instinctive awareness) to the **Root** (pressure and drive), creating a bridge between **survival instinct** and **existential pressure**.
+According to Ra Uru Hu, the **Channel of Struggle** (also known as **The Fighter**) is the Individual's capacity to **fight for meaning, purpose, and the preservation of individual integrity** through opposition and risk[^1]. This channel connects the **Spleen** (instinctive awareness) to the **Root** (pressure and drive), creating a bridge between **survival instinct** and **existential pressure**.
 
 Ra taught that this channel is fundamentally about **the struggle to find purpose**—not meaning handed down by the collective or tribe, but **meaning discovered through personal challenge, risk, and opposition**. This is the energy of the fighter who will not surrender their uniqueness, even when the collective demands conformity.
 
 **"The 28-38 is the fighter. It's the one who says, 'I will struggle for what I believe is worth struggling for.' This is not about physical fighting—it's about the willingness to risk everything for purpose. This is the individual who would rather die being themselves than live as a copy."** — Ra Uru Hu
 
-The keynote here is **stubbornness**—the refusal to give up the fight for purpose, even when the odds are against you. This is acoustic knowing—a frequency-based awareness that something is worth the struggle, even if logic or emotion cannot explain why.
+The keynote here is **stubbornness**—the refusal to give up the fight for purpose, even when the odds are against you[^4]. This is acoustic knowing—a frequency-based awareness that something is worth the struggle, even if logic or emotion cannot explain why.
 
 ---
 ## Core Correspondences
@@ -36,12 +36,12 @@ The keynote here is **stubbornness**—the refusal to give up the fight for purp
 | **Channel Number** | 28-38 |
 | **Channel Name** | Struggle / The Fighter / Stubbornness |
 | **Centers** | Spleen ↔ Root |
-| **Circuitry** | Individual (Knowing Circuit) |
-| **Type** | Projected (no direct Throat connection) |
+| **Circuitry** | Individual (Knowing Circuit)[^2] |
+| **Type** | Projected (no direct Throat connection)[^3] |
 | **Keynote** | Stubbornness / The Struggle for Purpose |
 | **Function** | To fight for meaning through opposition, risk, and perseverance |
 | **Gates** | Gate 28 (Preponderance of the Great/The Game Player), Gate 38 (Opposition/The Fighter) |
-| **Biology** | Spleen (immune system, survival instinct), adrenals/root (pressure, adrenaline) |
+| **Biology** | Spleen (immune system, survival instinct), adrenals/root (pressure, adrenaline)[^5] |
 | **Electromagnetic Theme** | Instinctive survival awareness empowered by existential pressure to fight for purpose |
 | **Gene Keys** | Shadow: Purposelessness/Struggle → Gift: Totality/Perseverance → Siddhi: Immortality/Honour |
 | **Not-Self Pattern** | Struggling without invitation, fighting for the wrong causes, burnout from meaningless opposition |
@@ -443,6 +443,14 @@ This is the essence of the Individual Knowing Circuit: **empowering others throu
 - Defined vs. Undefined Centers — Understanding fixed vs. variable fighting energy
 - The 7-Year Deconditioning Cycle — Returning to purposeful struggle
 - Individual Empowerment — Understanding mutation and unique contribution
+
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 28-38 as the Individual capacity to fight for meaning and preserve individual integrity
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 28-38 classified within the Individual Knowing Circuit
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Projected channel type: Spleen-to-Root with no direct Throat connection
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Keynote of stubbornness: acoustic knowing-based refusal to surrender individual purpose
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Biological correlations: Spleen to immune system, Root to adrenal system and pressure response
 
 ## Sources
 **Primary Source:**

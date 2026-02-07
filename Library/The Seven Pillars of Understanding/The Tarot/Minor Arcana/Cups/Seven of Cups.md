@@ -22,19 +22,19 @@ title: Lord of Illusory Success
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, the Seven of Cups signifies **fairy favors, images of reflection, sentiment, imagination, things seen in the glass of contemplation; some attainment in these degrees, but nothing permanent or substantial is suggested**. When the Seven of Cups appears upright, it speaks to the realm of fantasy, illusion, and the seductive proliferation of possibilities—none of which are yet real.
+According to Waite's *Pictorial Key to the Tarot*, the Seven of Cups signifies **fairy favors, images of reflection, sentiment, imagination, things seen in the glass of contemplation; some attainment in these degrees, but nothing permanent or substantial is suggested**. [^1] When the Seven of Cups appears upright, it speaks to the realm of fantasy, illusion, and the seductive proliferation of possibilities—none of which are yet real.
 
-The Golden Dawn titles this card the **"Lord of Illusory Success"**—a name that captures the essential deception. Where the Six of Cups was genuine pleasure (remembered), the Seven is *imagined* pleasure (projected). The cups float in clouds; they are not grounded. The visions they contain are phantasms—some beautiful, some terrifying, all unreal.
+The Golden Dawn titles this card the **"Lord of Illusory Success"** [^2]—a name that captures the essential deception. Where the Six of Cups was genuine pleasure (remembered), the Seven is *imagined* pleasure (projected). The cups float in clouds; they are not grounded. The visions they contain are phantasms—some beautiful, some terrifying, all unreal.
 
-The card is attributed to **Venus in Scorpio**—the goddess of love and beauty in the sign of depth, intensity, and obsession. This is not Venus's comfortable home (that would be Taurus or Libra). In Scorpio, Venus becomes *obsessive*, her desires intensified to the point of distortion. What begins as attraction becomes fixation; what begins as appreciation becomes craving.
+The card is attributed to **Venus in Scorpio** [^3]—the goddess of love and beauty in the sign of depth, intensity, and obsession. This is not Venus's comfortable home (that would be Taurus or Libra). In Scorpio, Venus becomes *obsessive*, her desires intensified to the point of distortion. What begins as attraction becomes fixation; what begins as appreciation becomes craving.
 
-The card represents **Netzach (Victory) in Briah (the World of Formation/Emotion)**. Netzach, the seventh Sephirah, is the sphere of emotion, desire, and the creative imagination. But here in the watery realm of Briah, Netzach's victory becomes *illusory*—you imagine you have won, but you have only imagined.
+The card represents **Netzach (Victory) in Briah (the World of Formation/Emotion)**. [^4] Netzach, the seventh Sephirah, is the sphere of emotion, desire, and the creative imagination. But here in the watery realm of Briah, Netzach's victory becomes *illusory*—you imagine you have won, but you have only imagined.
 
 The number **Seven** in Qabalah represents completion of a cycle and the beginning of its exhaustion. The Sevens across all suits are cards of challenge: valour tested (Wands), illusion (Cups), futility (Swords), failure (Pentacles). Seven is the number of Venus, of the imagination, of the astral realm where thought takes form—but form without substance.
 
 This is one of the most psychologically complex cards in the Tarot. It depicts not crisis (that was the Five) nor healing (that was the Six), but *confusion*—the mind overwhelmed by its own creativity, unable to distinguish vision from fantasy, genuine calling from mere desire.
 
-When the Seven of Cups appears **reversed**, Waite notes: **desire, will, determination, project**. The reversal suggests that the fog is clearing—the figure is ready to *choose*, to commit to one path, to ground the fantasy in action.
+When the Seven of Cups appears **reversed**, Waite notes: **desire, will, determination, project**. [^5] The reversal suggests that the fog is clearing—the figure is ready to *choose*, to commit to one path, to ground the fantasy in action.
 
 The key teaching: **The dreamer who never wakes builds castles in the air. The visionary who acts builds castles on earth.**
 
@@ -378,6 +378,14 @@ The Lord of Illusory Success becomes the lord of *actual* success when the dream
 ---
 
 *"The dreamer who never wakes builds castles in the air. The visionary who acts builds castles on earth."*
+
+## Footnotes
+
+[^1]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meaning for the Seven of Cups.
+[^2]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Lord of Illusory Success" for the Seven of Cups.
+[^3]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Venus in Scorpio decan attribution for the Seven of Cups.
+[^4]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Netzach in Briah Sephirotic placement for the Seven of Cups.
+[^5]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meaning for the Seven of Cups.
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

@@ -23,7 +23,7 @@ The Persona represents the archetypal **theatrical self**—the artificially con
 
 The Persona is not deception but **strategic construction**—the recognition that the authentic self is too raw, too vulnerable for public consumption. David Bowie creates Ziggy, performs him, lives through him, and eventually must kill him. The Persona is the character we imagine in the contraction, the role we play in the expansion.
 
-In Jung's framework, The Persona is **the mask we wear for social adaptation**—the identity constructed to meet the world's expectations while protecting the inner self. Jung derived the term from Latin for "mask"—specifically the actor's mask in ancient theater. The Persona is necessary for social functioning but dangerous when mistaken for the true self. Jung warned: identify completely with the Persona and you lose contact with the unconscious; reject the Persona entirely and you become socially dysfunctional.
+In Jung's framework, The Persona is **the mask we wear for social adaptation**—the identity constructed to meet the world's expectations while protecting the inner self.[^1] Jung derived the term from Latin for "mask"—specifically the actor's mask in ancient theater. The Persona is necessary for social functioning but dangerous when mistaken for the true self. Jung warned: identify completely with the Persona and you lose contact with the unconscious; reject the Persona entirely and you become socially dysfunctional.
 
 The Persona appears when **identity is performance**, when the question becomes: "Who do I need to be for this stage? What mask serves this moment?" This is the archetype of conscious self-construction.
 
@@ -56,9 +56,9 @@ The genius—and the teaching—lies in **Ziggy's retirement**: "Ziggy played gu
 
 ### The Jungian Persona
 
-Jung's conception of the Persona emphasizes its necessity and its danger. The Persona allows us to function in society—the professional identity at work, the social self at parties, the role we play in different contexts. Without some Persona, we would be socially incoherent, bleeding raw authenticity in every interaction.
+Jung's conception of the Persona emphasizes its necessity and its danger.[^2] The Persona allows us to function in society—the professional identity at work, the social self at parties, the role we play in different contexts. Without some Persona, we would be socially incoherent, bleeding raw authenticity in every interaction.
 
-The shadow emerges through **identification**: believing you ARE the Persona, confusing mask with face, losing contact with the deeper self beneath performance. Jung observed clients who had lived so long through Persona that they no longer knew who they were without it—retirement shattering identity, role-loss creating existential crisis.
+The shadow emerges through **identification**: believing you ARE the Persona, confusing mask with face, losing contact with the deeper self beneath performance.[^3] Jung observed clients who had lived so long through Persona that they no longer knew who they were without it—retirement shattering identity, role-loss creating existential crisis.
 
 The integration requires **conscious relationship**: wearing the Persona skillfully, knowing it's constructed, removing it when appropriate. The mature Leo knows: I am not the star; I am the one who can perform stardom when the stage requires it.
 
@@ -97,6 +97,13 @@ The integration requires **conscious relationship**: wearing the Persona skillfu
 - [[The Persona]] — Jungian archetypal framework (Personal Mythos)
 - [[Sun ☉]] — Planetary ruler of Leo; conscious identity
 - [[Persona Development]] — Early individuation stage
+
+---
+## Footnotes
+
+[^1]: Jung, *Two Essays on Analytical Psychology* (CW 7, Princeton, 1966) — The Persona as mask for social adaptation (§240-295)
+[^2]: Jung, *The Archetypes and the Collective Unconscious* (CW 9i, Princeton, 1969) — Persona as archetypal structure (§221-258)
+[^3]: Campbell, *The Hero with a Thousand Faces* (Princeton, 1949) — the masks of God and man; identification with persona (Chapter 2)
 
 ---
 ## Sources

@@ -18,7 +18,7 @@ verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983, De Angeles 2006)
 
 **Divination** is the practice of using Tarot cards as an oracular instrument—drawing cards to gain insight into questions, situations, or the unfolding of time. Unlike [[Pathworking]] (which uses cards as doorways for inner journeying) or study (which analyzes symbolic correspondences), divination is the **dialogical encounter** between questioner, cards, and the imaginal realm.
 
-Tarot divination operates on the principle of **synchronicity**—the meaningful coincidence between inner psychological states and outer events (Carl Jung). The cards drawn are not "random" in the mechanistic sense but reflect the constellation of psychic forces active at the moment of the question. This is not fortune-telling in the sense of predicting a fixed, inevitable future, but rather **probability assessment and psychological mirroring**—revealing current trajectories, hidden dynamics, unconscious motivations, and potential outcomes (Waite 1910, Part II; De Angeles 2006).
+Tarot divination operates on the principle of **synchronicity**—the meaningful coincidence between inner psychological states and outer events (Carl Jung). The cards drawn are not "random" in the mechanistic sense but reflect the constellation of psychic forces active at the moment of the question. This is not fortune-telling in the sense of predicting a fixed, inevitable future, but rather **probability assessment and psychological mirroring**—revealing current trajectories, hidden dynamics, unconscious motivations, and potential outcomes [^1] (Waite 1910, Part II; De Angeles 2006).
 
 **Three Functions of Divination:**
 
@@ -44,7 +44,7 @@ It **is**:
 
 ### Synchronicity (Jung)
 
-**Carl Jung's Concept:** Synchronicity is an **acausal connecting principle**—meaningful coincidences that cannot be explained by cause and effect but reveal the interconnection of psyche and matter (Jung, *Synchronicity: An Acausal Connecting Principle*, 1952).
+**Carl Jung's Concept:** Synchronicity is an **acausal connecting principle**—meaningful coincidences that cannot be explained by cause and effect but reveal the interconnection of psyche and matter [^2] (Jung, *Synchronicity: An Acausal Connecting Principle*, 1952).
 
 **Application to Tarot:** The cards drawn "randomly" from a shuffled deck are not causally related to the querent's question, yet they frequently produce **meaningful resonance**. This suggests that the psyche and the physical act of drawing cards participate in a shared field of meaning (De Angeles 2006).
 
@@ -236,7 +236,7 @@ Thank the cards, the querent, and any invoked presence. Ground energy (eat, drin
 
 ### The Celtic Cross (10 Cards)
 
-**Origin:** Popularized by A.E. Waite (*The Pictorial Key to the Tarot*, 1910). The most widely used comprehensive spread.
+**Origin:** Popularized by A.E. Waite (*The Pictorial Key to the Tarot*, 1910) [^3]. The most widely used comprehensive spread.
 
 **Use Case:** Complex life questions, major decisions, holistic situation analysis.
 
@@ -602,26 +602,26 @@ Tarot originated as a **game** (not a divination tool) in 15th-century Northern 
 
 ### Phase 2: The Occult Revival (18th Century)
 
-**Antoine Court de Gébelin** (1781) falsely claimed Tarot encoded ancient Egyptian mysteries (*Le Monde Primitif*). Though historically inaccurate, this **transformed Tarot into an esoteric symbol system**.
+**Antoine Court de Gébelin** (1781) falsely claimed Tarot encoded ancient Egyptian mysteries (*Le Monde Primitif*) [^4]. Though historically inaccurate, this **transformed Tarot into an esoteric symbol system**.
 
 **Jean-Baptiste Alliette (Etteilla)** (1791) created the first **divination-specific deck**, establishing Tarot's association with fortune-telling.
 
 ### Phase 3: The Qabalistic Turn (19th Century)
 
-**Éliphas Lévi** (*Dogme et Rituel de la Haute Magie*, 1854–1856) mapped the 22 Major Arcana onto the 22 Hebrew letters and [[The Tree of Life|Qabalistic Tree of Life paths]]. This **elevated Tarot from folk divination to mystical initiation** (Wang 1983, pp. 11–15).
+**Éliphas Lévi** (*Dogme et Rituel de la Haute Magie*, 1854–1856) mapped the 22 Major Arcana onto the 22 Hebrew letters and [[The Tree of Life|Qabalistic Tree of Life paths]] [^5]. This **elevated Tarot from folk divination to mystical initiation** (Wang 1983, pp. 11–15).
 
 ### Phase 4: The Golden Dawn System (1888-1900s)
 
 The **Hermetic Order of the Golden Dawn** systematized Tarot into its initiatory curriculum:
 - **S.L. MacGregor Mathers** and **A.E. Waite** integrated astrology, elements, and Hebrew letters
-- **Arthur Edward Waite** (with artist Pamela Colman Smith) created the **Rider-Waite-Smith deck** (1909), the first to illustrate all 78 cards with scenic imagery (Waite 1910)
+- **Arthur Edward Waite** (with artist Pamela Colman Smith) created the **Rider-Waite-Smith deck** (1909), the first to illustrate all 78 cards with scenic imagery [^6] (Waite 1910)
 - **Aleister Crowley** (with Lady Frieda Harris) created the **Thoth Tarot** (1969), deepening Qabalistic integration (Wang 1983)
 
 **Legacy:** Modern Tarot divination inherits the Golden Dawn framework—Hebrew letters, Tree of Life paths, elemental dignities, structured spreads (Wang 1983; De Angeles 2006).
 
 ### Phase 5: Psychological Tarot (20th Century)
 
-**Carl Jung** legitimized Tarot as a **psychological tool** for accessing the collective unconscious. Jungian analysts and students (e.g., Sallie Nichols, Mary K. Greer) reframed Tarot as **individuation cartography** rather than fortune-telling (De Angeles 2006).
+**Carl Jung** legitimized Tarot as a **psychological tool** for accessing the collective unconscious. Jungian analysts and students (e.g., Sallie Nichols, Mary K. Greer) reframed Tarot as **individuation cartography** rather than fortune-telling [^7] (De Angeles 2006).
 
 ### Phase 6: Contemporary Diversification (21st Century)
 
@@ -776,6 +776,18 @@ The reader's task is not to command or pronounce but to **hold space for truth t
 - [[Individuation Process]] — Psychological development revealed in readings (Personal Mythos)
 - [[The Shadow]] — Projection and shadow work in divination (Personal Mythos)
 - Professional ethics frameworks (covered in this entry)
+
+---
+
+## Footnotes
+
+[^1]: Waite, Arthur Edward, *The Pictorial Key to the Tarot* (William Rider & Son, 1910), Part II — Tarot as probability assessment and psychological mirroring rather than fixed-future prediction
+[^2]: Jung, Carl Gustav, *Synchronicity: An Acausal Connecting Principle* (1952) — definition of synchronicity as acausal connecting principle; referenced via De Angeles 2006
+[^3]: Waite, Arthur Edward, *The Pictorial Key to the Tarot* (William Rider & Son, 1910), Part II — the Celtic Cross spread and its ten positional meanings
+[^4]: Wang, Robert, *The Qabalistic Tarot* (Samuel Weiser, 1983), pp. 11-15 — Court de Gebelin's 1781 false claim of Egyptian origins
+[^5]: Wang, Robert, *The Qabalistic Tarot* (Samuel Weiser, 1983), pp. 11-15 — Levi's 1854-1856 mapping of 22 Major Arcana to 22 Hebrew letters
+[^6]: Wang, Robert, *The Qabalistic Tarot* (Samuel Weiser, 1983), p. 19 — RWS as first deck to illustrate all 78 cards with scenic imagery
+[^7]: De Angeles, Ly, *Tarot Theory & Practice* (Llewellyn Worldwide, 2006) — Jungian reframing of Tarot as individuation cartography
 
 ---
 

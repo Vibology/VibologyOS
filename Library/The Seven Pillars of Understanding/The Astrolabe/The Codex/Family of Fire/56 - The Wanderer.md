@@ -60,15 +60,15 @@ The alchemical image is **Mercurius**—the quicksilver messenger, the principle
 
 ### The Hexagram (I-Ching)
 
-Hexagram 56, *Lǚ* (The Wanderer), depicts Fire above Mountain—brilliant clarity at the mountain's peak, visible from afar. This is the campfire that draws travelers, the storytelling circle, the transmission of wisdom through shared experience. The Wanderer represents **transience as teacher**: without permanent home, the traveler learns adaptability, discernment, and the art of finding meaning in temporary connections. Wilhelm's teaching emphasizes success through small steps and humble presence—grand gestures fail in transience; genuine sharing succeeds. The Nuclear Hexagram is 28 (Preponderance of the Great), revealing that wandering carries risk—to leave the familiar is to court danger, and stories preserve what is learned through those risks.
+Hexagram 56, *Lǚ* (The Wanderer), depicts Fire above Mountain—brilliant clarity at the mountain's peak, visible from afar.[^1] This is the campfire that draws travelers, the storytelling circle, the transmission of wisdom through shared experience. The Wanderer represents **transience as teacher**: without permanent home, the traveler learns adaptability, discernment, and the art of finding meaning in temporary connections. Wilhelm's teaching emphasizes success through small steps and humble presence—grand gestures fail in transience; genuine sharing succeeds. The Nuclear Hexagram is 28 (Preponderance of the Great), revealing that wandering carries risk—to leave the familiar is to court danger, and stories preserve what is learned through those risks.
 
 ### The Gate (Human Design)
 
-Gate 56 in the Throat governs the voice of experiential sharing—storytelling that stimulates understanding. Ra Uru Hu taught this gate as "I believe..."—not claiming truth but offering perspective wrapped in narrative. When connected to Gate 11 in the Ajna, the 11-56 Channel creates *Curiosity*—abstract ideas seeking articulation through story. The shadow: distraction, storytelling that scatters rather than enriches, talking without substance. The gift: enrichment, narrative that genuinely teaches and expands understanding. The teaching: the best stories are not told to entertain but to transmit wisdom the listener could not access through logic alone.
+Gate 56 in the Throat governs the voice of experiential sharing—storytelling that stimulates understanding. Ra Uru Hu taught this gate as "I believe.[^2].."—not claiming truth but offering perspective wrapped in narrative. When connected to Gate 11 in the Ajna, the 11-56 Channel creates *Curiosity*—abstract ideas seeking articulation through story. The shadow: distraction, storytelling that scatters rather than enriches, talking without substance. The gift: enrichment, narrative that genuinely teaches and expands understanding. The teaching: the best stories are not told to entertain but to transmit wisdom the listener could not access through logic alone.
 
 ### The Gene Keys
 
-- **Shadow: Distraction** — Storytelling that scatters attention, talking that leads nowhere, narrative without substance. The Shadow manifests as the person who cannot stop speaking, who overwhelms with tangents, who mistakes volume for value. Distraction is when the fire on the mountain becomes smoke without warmth—visible but not nourishing. This is the performer who needs audience more than audience needs message, the teacher who confuses information with wisdom, the friend whose stories serve self-aggrandizement rather than connection.
+- **Shadow: Distraction**[^3] — Storytelling that scatters attention, talking that leads nowhere, narrative without substance. The Shadow manifests as the person who cannot stop speaking, who overwhelms with tangents, who mistakes volume for value. Distraction is when the fire on the mountain becomes smoke without warmth—visible but not nourishing. This is the performer who needs audience more than audience needs message, the teacher who confuses information with wisdom, the friend whose stories serve self-aggrandizement rather than connection.
 
 - **Gift: Enrichment** — The capacity to share stories that genuinely expand understanding, that make the listener's world larger. Enrichment recognizes that narrative is teaching tool: wrapped in story, wisdom becomes accessible to those who would reject it as abstraction. The gift is the elder whose tales carry multiple layers, the teacher who illuminates through metaphor, the friend whose stories reveal patterns the listener can apply to their own life. Enrichment is fire that warms without burning—stimulating without overwhelming.
 
@@ -141,6 +141,13 @@ Another Shadow trap: withholding stories out of fear. Having experiences worth s
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 56 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 56 mechanics, Throat
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Distraction / Enrichment / Intoxication
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 56: The Wanderer

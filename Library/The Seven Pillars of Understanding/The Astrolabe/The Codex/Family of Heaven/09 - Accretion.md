@@ -60,15 +60,15 @@ Accretion teaches that **power lies in details**. The master is not born through
 
 ### The Hexagram (I-Ching)
 
-Wind above Heaven—the image of gentle refinement through persistent attention. The Image: *"The wind drives across heaven: the image of the Taming Power of the Small. Thus the superior man refines the outward aspect of his nature."* The superior man does not attempt grand transformation—they refine detail by detail, step by step.
+Wind above Heaven—the image of gentle refinement through persistent attention. The Image: *"The wind drives across heaven: the image of the Taming Power of the Small. Thus the superior man refines the outward aspect of his nature."*[^1] The superior man does not attempt grand transformation—they refine detail by detail, step by step.
 
 ### The Gate (Human Design)
 
-Gate 9 resides in the Sacral Center, the motor of sustained work capacity. This is the life force to **focus on details**—not everything at once, but steady concentration on what requires precision. This gate operates in the Logic Circuit, bringing **pattern recognition to focused effort**—the capacity to identify which details matter and which can be released.
+Gate 9 resides in the Sacral Center, the motor of sustained work capacity.[^2] This is the life force to **focus on details**—not everything at once, but steady concentration on what requires precision. This gate operates in the Logic Circuit, bringing **pattern recognition to focused effort**—the capacity to identify which details matter and which can be released.
 
 ### The Gene Keys
 
-**Shadow: Inertia** — The inability to begin or sustain focused work. Scattered attention, paralysis before the magnitude of what needs to be done.
+**Shadow: Inertia**[^3] — The inability to begin or sustain focused work. Scattered attention, paralysis before the magnitude of what needs to be done.
 
 **Gift: Determination** — The capacity to apply sustained focus, working patiently and persistently toward mastery. Small efforts accumulating into power.
 
@@ -136,6 +136,13 @@ The conditioning pattern: "I don't have time for details" or "Small work doesn't
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 9 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 9 mechanics, Sacral
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Inertia / Determination / Invincibility
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 9: Small Accumulation

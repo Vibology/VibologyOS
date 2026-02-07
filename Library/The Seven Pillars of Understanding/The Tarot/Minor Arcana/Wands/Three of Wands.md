@@ -22,11 +22,11 @@ title: Lord of Established Strength
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, the Three of Wands signifies **established strength, enterprise, effort, trade, commerce**, and specifically: "He has fulfilled his initial destiny and is looking out for the more." Waite notes that "the card also signifies cooperation in business, or the work of a well-ordered partnership." When the Three of Wands appears upright, it speaks to the realm of active expansion—the moment when strategic planning (Two) has become tangible execution, and the results are beginning to manifest.
+According to Waite's *Pictorial Key to the Tarot*, the Three of Wands signifies **established strength, enterprise, effort, trade, commerce**[^1], and specifically: "He has fulfilled his initial destiny and is looking out for the more." Waite notes that "the card also signifies cooperation in business, or the work of a well-ordered partnership." When the Three of Wands appears upright, it speaks to the realm of active expansion—the moment when strategic planning (Two) has become tangible execution, and the results are beginning to manifest.
 
-The Golden Dawn titles this card the **"Lord of Established Strength"** and attributes it to **Sun in Aries**—the Sun (vitality, confidence, self-expression, life-giving power) working through the pioneering sign of the Ram (Aries). This is fire that has found its proper form and now radiates with steady brilliance. Where Mars in Aries (Two of Wands) is aggressive and initiatory, Sun in Aries is confident and self-assured—the warrior has become the sovereign in the fullness of power.
+The Golden Dawn titles this card the **"Lord of Established Strength"**[^2] and attributes it to **Sun in Aries**—the Sun (vitality, confidence, self-expression, life-giving power) working through the pioneering sign of the Ram (Aries). This is fire that has found its proper form and now radiates with steady brilliance. Where Mars in Aries (Two of Wands) is aggressive and initiatory, Sun in Aries is confident and self-assured—the warrior has become the sovereign in the fullness of power.
 
-The card represents **Binah (Understanding) in Atziluth (the World of Pure Spirit)**. Binah, the third Sephirah, is the Great Mother, the principle of form and structure that receives the dynamic seed of Chokmah and shapes it into manifestation. Binah is limitation, boundary, the womb that contains. But here in the fiery world of Atziluth, Binah's structuring force is not restrictive—it is *creative structure*, the form that allows growth rather than constraining it.
+The card represents **Binah (Understanding) in Atziluth (the World of Pure Spirit)**.[^4] Binah, the third Sephirah, is the Great Mother, the principle of form and structure that receives the dynamic seed of Chokmah and shapes it into manifestation. Binah is limitation, boundary, the womb that contains. But here in the fiery world of Atziluth, Binah's structuring force is not restrictive—it is *creative structure*, the form that allows growth rather than constraining it.
 
 The number **Three** in Qabalah represents the first stable structure—the triangle, the triad. Where One is the point and Two is the line, Three is the *plane*, the first shape that can enclose space. Three is synthesis, the union of thesis and antithesis creating something new. In the Wands suit, the Three is the moment when the spark (Ace) and the strategy (Two) combine to produce *visible results*.
 
@@ -34,7 +34,7 @@ This is a profoundly favorable card in questions of enterprise, commerce, partne
 
 However, the card carries a note of suspension. Waite says the figure "is looking out for the more"—the harvest is not yet complete. You have done the necessary work, but you are not yet at the destination. The Three of Wands requires *patience*—not the passive waiting of inertia, but the active patience of the gardener who has planted seeds and now tends the field while the crops grow.
 
-When the Three of Wands appears **reversed**, Waite identifies **the end of troubles, suspension or cessation of adversity, toil and disappointment**. Curiously, the reversal here is somewhat *favorable*—it suggests that a period of difficulty is concluding. The Golden Dawn reversal suggests "pride, arrogance, and the power that is overbearing." The reversed Three can manifest as overconfidence that ignores warning signs, premature celebration before the harvest is secured, or the refusal to remain patient when patience is required.
+When the Three of Wands appears **reversed**, Waite identifies **the end of troubles, suspension or cessation of adversity, toil and disappointment**.[^3] Curiously, the reversal here is somewhat *favorable*—it suggests that a period of difficulty is concluding. The Golden Dawn reversal suggests "pride, arrogance, and the power that is overbearing." The reversed Three can manifest as overconfidence that ignores warning signs, premature celebration before the harvest is secured, or the refusal to remain patient when patience is required.
 
 The key teaching: **True strength is not proven in the act of doing, but in the confidence to wait after the doing is complete.** The Three of Wands is the card of *faith in what you have set in motion*.
 
@@ -404,6 +404,13 @@ The Sun does not force the plants to grow. It simply shines, day after day, with
 ---
 
 *"Strength is not proven in the act, but in the stillness that follows—when you trust what you have built to stand on its own."*
+
+## Footnotes
+
+[^1]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meanings for the Three of Wands
+[^2]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Lord of Established Strength" and attribution of Sun in Aries for the Three of Wands
+[^3]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meanings for the Three of Wands
+[^4]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — sephirotic placement of the Three of Wands as Binah (Understanding) in the world of Atziluth
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

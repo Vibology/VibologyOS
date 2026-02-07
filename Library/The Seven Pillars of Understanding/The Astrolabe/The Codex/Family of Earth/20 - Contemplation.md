@@ -58,15 +58,15 @@ Contemplation carries the frequency of **self-assurance born from presence**—t
 
 ### The Hexagram (I-Ching)
 
-Wind above Earth—the image of gentle observation, wind moving over the land and seeing all. Wilhelm's Judgment: *"Contemplation. The ablution has been made, but not yet the offering. Full of trust they look up to him."* True contemplation creates natural authority—when one is fully present, others recognize and respect that presence without needing words.
+Wind above Earth—the image of gentle observation, wind moving over the land and seeing all. Wilhelm's Judgment: *"Contemplation. The ablution has been made, but not yet the offering. Full of trust they look up to him."*[^1] True contemplation creates natural authority—when one is fully present, others recognize and respect that presence without needing words.
 
 ### The Gate (Human Design)
 
-Gate 20 resides in the Throat Center, the voice of existential awareness. This is **recognition in the now**—the capacity to see what is happening and speak it, embody it, manifest it. The Integration Circuit means this awareness empowers the individual, not the collective. Gate 20 does not teach presence; it lives presence, and that living becomes the example.
+Gate 20 resides in the Throat Center, the voice of existential awareness.[^2] This is **recognition in the now**—the capacity to see what is happening and speak it, embody it, manifest it. The Integration Circuit means this awareness empowers the individual, not the collective. Gate 20 does not teach presence; it lives presence, and that living becomes the example.
 
 ### The Gene Keys
 
-**Shadow: Superficiality** — The individual is scattered, distracted, unable to be fully present. They skim the surface of experience without recognizing depth.
+**Shadow: Superficiality**[^3] — The individual is scattered, distracted, unable to be fully present. They skim the surface of experience without recognizing depth.
 
 **Gift: Self Assurance** — The capacity to be fully here, now, and to know what is happening through direct recognition. Confidence born from presence.
 
@@ -137,6 +137,13 @@ The conditioning pattern: "The now is boring; the interesting stuff is elsewhere
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 20 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 20 mechanics, Throat (Manifestation)
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Superficiality / Self Assurance / Presence
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 20: Contemplation

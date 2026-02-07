@@ -19,13 +19,13 @@ source_verified: Esoteric Grimoire
 
 ---
 ## Ra's Definition
-According to Ra Uru Hu, **Channel 10-20** is the foundational channel of the **Integration Channels**—the four channels that connect Gate 10 (Behavior of the Self) with motors or awareness centers to create **self-empowered individuation and survival**. This channel connects the G Center's sense of identity and self-love (Gate 10, "Treading") with the Throat's capacity to express that self-love in the present moment (Gate 20, "Contemplation/The Now").
+According to Ra Uru Hu, **Channel 10-20** is the foundational channel of the **Integration Channels**—the four channels that connect Gate 10 (Behavior of the Self) with motors or awareness centers to create **self-empowered individuation and survival**. This channel connects the G Center's sense of identity and self-love (Gate 10, "Treading") with the Throat's capacity to express that self-love in the present moment (Gate 20, "Contemplation/The Now")[^1].
 
 Ra described this as the channel of **"I Am"**—the capacity to verbalize and embody one's authentic self in the now, without apology or explanation. This is **spiritual leadership** in the truest sense—not leading others, but being so fully oneself that others are awakened to their own authenticity.
 
 **"Channel 10-20 is 'I Am.' It's the voice of the Self. Gate 10 says, 'I love myself—this is how I behave.' Gate 20 says, 'I express that self-love in this moment.' When you love yourself and speak from that love, you awaken others simply by being."** — Ra Uru Hu
 
-This is a **Projected Channel** (G Center to Throat, no motor connection), meaning it requires **recognition and invitation** to be properly received. The awakening presence of the 10-20 individual is profound, but it can only influence when others are ready to see and honor it.
+This is a **Projected Channel** (G Center to Throat, no motor connection)[^2], meaning it requires **recognition and invitation** to be properly received. The awakening presence of the 10-20 individual is profound, but it can only influence when others are ready to see and honor it.
 
 ---
 ## Core Correspondences Table
@@ -35,7 +35,7 @@ This is a **Projected Channel** (G Center to Throat, no motor connection), meani
 | **Channel** | 10-20 (Awakening) |
 | **Gates** | Gate 10 (Treading) ↔ Gate 20 (Contemplation/The Now) |
 | **Centers** | G Center (Identity, Direction) ↔ Throat (Manifestation, Expression) |
-| **Circuitry** | Integration / Centering (Self-Empowerment, Survival) |
+| **Circuitry** | Integration / Centering (Self-Empowerment, Survival)[^3] |
 | **Type** | Projected (Requires recognition/invitation) |
 | **Keynote** | Commitment to Higher Principles - "I Am" Self-Love |
 | **I-Ching Hexagrams** | Hexagram 10 (Treading) + Hexagram 20 (Contemplation) |
@@ -72,7 +72,7 @@ When two people come together with complementary gates:
 
 **G Center (Identity/Direction) ↔ Throat (Manifestation/Expression)**
 
-The G Center is the **biological seat of identity**—associated with the liver, the magnetic monopole (orientation mechanism), and the sense of "I am" in space and time.
+The G Center is the **biological seat of identity**—associated with the liver, the magnetic monopole (orientation mechanism), and the sense of "I am" in space and time[^5].
 
 The Throat is the **manifestation center**—associated with the thyroid and parathyroid glands, metabolism, and the transformation of internal identity into external expression (speech, action, presence).
 
@@ -94,7 +94,7 @@ Individuals with Channel 10-20 may feel:
 ---
 ## Circuitry Analysis
 
-Channel 10-20 belongs to the **Integration/Centering Channels**—a unique set of four channels that do not belong to Individual, Collective, or Tribal streams. Instead, they serve **self-empowerment and survival**.
+Channel 10-20 belongs to the **Integration/Centering Channels**—a unique set of four channels that do not belong to Individual, Collective, or Tribal streams[^4]. Instead, they serve **self-empowerment and survival**.
 
 **Integration Channels:**
 
@@ -367,6 +367,14 @@ Jung's process of individuation is the journey to the Self. The Channel 10-20 in
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - Self-Love as Survival — Loving oneself as the foundation of Integration
 - Present-Moment Awareness — Living in the now
+
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 10-20 connects Gate 10 (Behavior of the Self) in the G Center with Gate 20 (Contemplation/The Now) in the Throat
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 10-20 classified as a Projected channel (G Center to Throat, no motor connection)
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 10-20 placement within the Integration/Centering Circuit
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Integration Channels as distinct from Individual, Collective, and Tribal circuit groups
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — G Center biological associations: liver, magnetic monopole, identity orientation
 
 ## Sources
 **Primary Source:**

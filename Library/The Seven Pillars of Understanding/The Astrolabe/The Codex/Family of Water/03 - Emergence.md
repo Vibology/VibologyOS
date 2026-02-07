@@ -60,15 +60,15 @@ The alchemical image is *Nigredo*—the blackening, the dissolution into primal 
 
 ### The Hexagram (I-Ching)
 
-Hexagram 3, *Chun* (Difficulty at the Beginning), depicts the moment of cosmic initiation—water above, water below, danger redoubled yet also potential redoubled. Wilhelm translates the Judgment: "DIFFICULTY AT THE BEGINNING works supreme success, furthering through perseverance. Nothing should be undertaken. It furthers one to appoint helpers." The emphasis is not on forcing order but on recognizing helpers—the natural forces already moving toward coherence—and aligning with them. The Image speaks of "clouds and thunder" filling the space between heaven and earth, the atmosphere pregnant with coming rain. Order is not absent; it is *germinal*.
+Hexagram 3, *Chun* (Difficulty at the Beginning), depicts the moment of cosmic initiation—water above, water below, danger redoubled yet also potential redoubled.[^1] Wilhelm translates the Judgment: "DIFFICULTY AT THE BEGINNING works supreme success, furthering through perseverance. Nothing should be undertaken. It furthers one to appoint helpers." The emphasis is not on forcing order but on recognizing helpers—the natural forces already moving toward coherence—and aligning with them. The Image speaks of "clouds and thunder" filling the space between heaven and earth, the atmosphere pregnant with coming rain. Order is not absent; it is *germinal*.
 
 ### The Gate (Human Design)
 
-Gate 3 in the Sacral Center governs the fundamental pulse of mutation. Ra Uru Hu taught that this gate carries "the frequency of confusion"—not as pathology but as the necessary state preceding breakthrough. The Sacral response (uh-huh/unh-uh) cuts through mental chaos with biological clarity: *this wants to live* or *this does not*. When connected to Gate 60 in the Root, the 3-60 Channel creates sustainable mutation—new patterns pulse into being through sheer life force, constrained and refined by limitation. Without Gate 60, Gate 3 experiences the chaos of new potential without the structure to birth it. The challenge: to trust the Sacral's knowing even when the mind sees only disorder.
+Gate 3 in the Sacral Center governs the fundamental pulse of mutation. Ra Uru Hu taught that this gate carries "the frequency of confusion"—not as pathology but as the necessary state preceding breakthrough.[^2] The Sacral response (uh-huh/unh-uh) cuts through mental chaos with biological clarity: *this wants to live* or *this does not*. When connected to Gate 60 in the Root, the 3-60 Channel creates sustainable mutation—new patterns pulse into being through sheer life force, constrained and refined by limitation. Without Gate 60, Gate 3 experiences the chaos of new potential without the structure to birth it. The challenge: to trust the Sacral's knowing even when the mind sees only disorder.
 
 ### The Gene Keys
 
-- **Shadow: Chaos** — The experience of overwhelming disorder; the terror of groundlessness; mental panic at the absence of clear pattern. Chaos as enemy rather than womb. The attempt to force premature order, which only deepens confusion.
+- **Shadow: Chaos**[^3] — The experience of overwhelming disorder; the terror of groundlessness; mental panic at the absence of clear pattern. Chaos as enemy rather than womb. The attempt to force premature order, which only deepens confusion.
 
 - **Gift: Innovation** — The capacity to navigate disorder with creative response; seeing potential patterns within chaos; allowing new forms to emerge organically. Innovation trusts the process of fumbling toward clarity. The Sacral knows before the mind understands.
 
@@ -141,6 +141,13 @@ Another Shadow trap: addiction to chaos itself. The Sacral keeps initiating with
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 3 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 3 mechanics, Sacral
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Chaos / Innovation / Innocence
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 3: Difficulty at the Beginning

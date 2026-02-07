@@ -20,9 +20,9 @@ source_verified: Esoteric Grimoire
 
 ---
 ## Ra's Definition
-According to Ra Uru Hu, the **Channel of Emoting** (also known as **Moodiness**) is the **most mutative emotional energy** in the Human Design system—the pressure-driven **individual spirit** that **provokes emotional transformation** through unpredictable moods and intensity. This channel connects the **Root** (pressure/drive) to the **Solar Plexus** (emotional awareness), creating the **individual emotional pulse**.
+According to Ra Uru Hu, the **Channel of Emoting** (also known as **Moodiness**) is the **most mutative emotional energy** in the Human Design system[^1]—the pressure-driven **individual spirit** that **provokes emotional transformation** through unpredictable moods and intensity. This channel connects the **Root** (pressure/drive) to the **Solar Plexus** (emotional awareness), creating the **individual emotional pulse**.
 
-Ra taught that this channel is fundamentally about **provoking spirit**—not collective emotional patterns, but **individual, mutative moods** that cannot be predicted or controlled. This is the "moody artist," the one whose emotional intensity is the catalyst for their own (and others') transformation.
+Ra taught that this channel is fundamentally about **provoking spirit**—not collective emotional patterns, but **individual, mutative moods** that cannot be predicted or controlled[^4]. This is the "moody artist," the one whose emotional intensity is the catalyst for their own (and others') transformation.
 
 **"The 39-55 is the spirit of the individual expressed emotionally. This is not about being happy or sad—it's about mood as a creative, mutative force. They provoke themselves and others through emotional intensity. This is 'I feel,' but individual—no one else can predict or understand their moods."** — Ra Uru Hu
 
@@ -36,12 +36,12 @@ The keynote is **moodiness**—the capacity to experience and express **unpredic
 | **Channel Number** | 39-55 |
 | **Channel Name** | Emoting / Moodiness |
 | **Centers** | Root ↔ Solar Plexus |
-| **Circuitry** | Individual (Knowing Circuit) |
-| **Type** | Projected (no direct Throat connection) |
+| **Circuitry** | Individual (Knowing Circuit)[^2] |
+| **Type** | Projected (no direct Throat connection)[^3] |
 | **Keynote** | Emoting / Provoking the Spirit |
 | **Function** | To provoke emotional transformation through individual moods |
 | **Gates** | Gate 39 (Obstruction/Provocation), Gate 55 (Abundance/Spirit) |
-| **Biology** | Root/adrenals (pressure), solar plexus/nervous system (emotion) |
+| **Biology** | Root/adrenals (pressure), solar plexus/nervous system (emotion)[^5] |
 | **Electromagnetic Theme** | Pressure-driven individual emotional intensity |
 | **Gene Keys** | Shadow: Provocation/Victimisation → Gift: Dynamism/Freedom → Siddhi: Liberation/Freedom (doubled) |
 | **Not-Self Pattern** | Mood addiction, emotional manipulation, blaming others for moods |
@@ -109,6 +109,14 @@ When recognized and aligned (not identifying with moods, waiting for clarity), t
 - [[Solar Plexus]] — Emotional awareness and wave
 - Individual Knowing Circuit — Mutation, uniqueness, acoustic knowing
 - [[Emotional Authority]] — Waiting through the wave for clarity
+
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 39-55 as the most mutative emotional energy in the system
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 39-55 classified within the Individual Knowing Circuit
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Projected channel type: Root-to-Solar Plexus with no direct Throat connection
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Individual emotional provocation: moods as mutative force distinct from collective emotional patterns
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Biological correlations: Root to adrenal system, Solar Plexus to nervous system and emotional processing
 
 ## Sources
 **Primary Source:**

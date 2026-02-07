@@ -19,13 +19,13 @@ source_verified: Esoteric Grimoire
 
 ---
 ## Ra's Definition
-According to Ra Uru Hu, **Channel 10-57** is one of the four **Integration Channels** that connect Gate 10 (Behavior of the Self) with motors or awareness centers to create **self-empowered individuation and survival**. This channel connects the G Center's sense of identity and self-love (Gate 10, "Treading") with the Spleen's intuitive awareness and survival instinct (Gate 57, "The Gentle/Intuitive Clarity").
+According to Ra Uru Hu, **Channel 10-57** is one of the four **Integration Channels** that connect Gate 10 (Behavior of the Self) with motors or awareness centers to create **self-empowered individuation and survival**. This channel connects the G Center's sense of identity and self-love (Gate 10, "Treading") with the Spleen's intuitive awareness and survival instinct (Gate 57, "The Gentle/Intuitive Clarity")[^1].
 
-Ra described this as the channel of **perfected form**—the capacity to survive through artistic, intuitive attunement to what is correct in the now. This is not survival through force, logic, or emotion—it is survival through **clarity, grace, and intuitive perfection**.
+Ra described this as the channel of **perfected form**[^2]—the capacity to survive through artistic, intuitive attunement to what is correct in the now. This is not survival through force, logic, or emotion—it is survival through **clarity, grace, and intuitive perfection**.
 
 **"Channel 10-57 is perfected form. Gate 10 says, 'I love myself; this is my behavior.' Gate 57 says, 'I intuitively know what is correct for survival in this moment.' When you combine self-love with intuitive clarity, you become an artist of life—surviving through beauty, through perfection of form."** — Ra Uru Hu
 
-This is a **Projected Channel** (G Center to Spleen, no motor connection), meaning it requires **recognition and invitation** to be properly received. The intuitive survival capacity of the 10-57 individual is profound, but it can only guide when others are ready to see and honor it.
+This is a **Projected Channel** (G Center to Spleen, no motor connection)[^3], meaning it requires **recognition and invitation** to be properly received. The intuitive survival capacity of the 10-57 individual is profound, but it can only guide when others are ready to see and honor it.
 
 ---
 ## Core Correspondences Table
@@ -74,7 +74,7 @@ When two people come together with complementary gates:
 
 The G Center is the **biological seat of identity**—associated with the liver, the magnetic monopole (orientation mechanism), and the sense of "I am" in space and time.
 
-The Spleen is the **biological guardian of survival**—associated with the immune system, lymphatic system, and the capacity for intuitive, in-the-moment awareness of health, danger, and well-being.
+The Spleen is the **biological guardian of survival**—associated with the immune system, lymphatic system, and the capacity for intuitive, in-the-moment awareness of health, danger, and well-being[^4].
 
 #### Biological Flow
 
@@ -184,7 +184,7 @@ Two intuitively guided beings. This can be:
 
 ---
 ## Strategy Integration
-Channel 10-57 **does** carry Authority for some Types (Splenic Authority, if no other authority centers are defined).
+Channel 10-57 **does** carry Authority for some Types (Splenic Authority, if no other authority centers are defined)[^5].
 
 **For Projectors with Channel 10-57:**
 
@@ -376,6 +376,14 @@ Jung's process of individuation requires **trusting the psyche's intuitive guida
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - Trusting Intuition — Acting on the Spleen's instant knowing
 - Perfected Form as Survival — Beauty and grace as the path to safety
+
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 10-57 connects Gate 10 (Behavior of the Self) with Gate 57 (Intuitive Clarity) across G and Spleen Centers
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 10-57 keynote as "perfected form" through intuitive attunement
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 10-57 classified as a Projected channel (G Center to Spleen, no motor connection)
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Spleen Center biological associations: immune system, lymphatic system, in-the-moment awareness
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Splenic Authority hierarchy when Channel 10-57 is defined
 
 ## Sources
 **Primary Source:**

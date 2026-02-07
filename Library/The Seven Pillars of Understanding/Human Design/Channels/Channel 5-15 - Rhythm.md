@@ -19,9 +19,9 @@ source_verified: Esoteric Grimoire
 
 ---
 ## Ra's Definition
-According to Ra Uru Hu, **Channel 5-15** is one of the three **Tantric channels** that connect the Sacral Center to the G Center, infusing identity and direction with life-force energy. This channel embodies the capacity to live in **natural rhythm**—to attune to the fixed patterns of existence (Gate 5) and express that attunement through balanced, loving behavior (Gate 15).
+According to Ra Uru Hu, **Channel 5-15** is one of the three **Tantric channels** that connect the Sacral Center to the G Center[^1], infusing identity and direction with life-force energy. This channel embodies the capacity to live in **natural rhythm**—to attune to the fixed patterns of existence (Gate 5) and express that attunement through balanced, loving behavior (Gate 15).
 
-Ra described this as the channel of **being in the flow**. Unlike the Individual's mutative pulse or the Tribal's immediate needs, the Collective Logic rhythm is about **universal patterns**—seasons, cycles, societal structures. The 5-15 individual is designed to wait for the right timing and then move with the natural flow of life.
+Ra described this as the channel of **being in the flow**[^5]. Unlike the Individual's mutative pulse or the Tribal's immediate needs, the Collective Logic rhythm is about **universal patterns**—seasons, cycles, societal structures. The 5-15 individual is designed to wait for the right timing and then move with the natural flow of life.
 
 **"Channel 5-15 is about rhythm. It's Tantric—sexual energy fueling the direction of the Self, but not for individual mutation or tribal survival. This is about living in harmony with the universal rhythm. When you're in the flow, everything aligns. When you're out of rhythm, everything resists."** — Ra Uru Hu
 
@@ -35,12 +35,12 @@ This is a **Generated Channel** (Sacral to G Center), meaning it carries sustain
 | **Channel** | 5-15 (Rhythm) |
 | **Gates** | Gate 5 (Waiting) ↔ Gate 15 (Modesty/Extremes) |
 | **Centers** | Sacral (Life Force, Sexuality) ↔ G Center (Identity, Direction) |
-| **Circuitry** | Collective - Logic/Understanding Circuit (Patterns, Future) |
+| **Circuitry** | Collective - Logic/Understanding Circuit (Patterns, Future)[^2] |
 | **Type** | Generated (Sacral-defined, sustainable energy) |
-| **Tantric Nature** | Yes (Sacral to G = sexual energy driving identity) |
+| **Tantric Nature** | Yes (Sacral to G = sexual energy driving identity)[^3] |
 | **Keynote** | Being in the Flow - Fixed Patterns and Universal Love |
 | **I-Ching Hexagrams** | Hexagram 5 (Waiting) + Hexagram 15 (Modesty) |
-| **Biological Connection** | Sacral (Ovaries/Testes, life force) to G Center (Liver, magnetic monopole) |
+| **Biological Connection** | Sacral (Ovaries/Testes, life force) to G Center (Liver, magnetic monopole)[^4] |
 | **Gene Keys** | Gate 5: Impatience → Patience → Timelessness / Gate 15: Dullness → Magnetism → Florescence |
 | **Harmonic Theme** | Waiting for rhythm (5) expressed through balanced extremes (15) |
 | **Not-Self Pattern** | Impatience; forcing timing; living out of rhythm; compromising balance for acceptance |
@@ -369,6 +369,14 @@ Jung's process of individuation requires **patience with the psyche's natural rh
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - Honoring Rhythm — Living in sync with natural cycles
 - Balanced Expression — Expressing extremes with humility
+
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 5-15 as one of three Tantric channels connecting Sacral to G Center
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 5-15 classified within the Collective Logic/Understanding Circuit
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Tantric designation: Sacral sexual energy directly fueling identity and direction through the G Center
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Biological correlations: Sacral to ovaries/testes, G Center to liver and magnetic monopole
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Keynote of being in the flow: attunement to fixed universal patterns and natural rhythms
 
 ## Sources
 **Primary Source:**

@@ -20,15 +20,15 @@ elemental_formula: Air of Air
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, the Knight of Swords signifies **skill, bravery, capacity, defense, address, enmity, wrath, war, destruction**. The card depicts a knight in full charge—sword raised, horse at gallop, clouds racing behind—representing intellectual force in full assertion, the mind that has decided and now acts with complete commitment. When the Knight of Swords appears upright, it speaks to the realm of decisive action—the moment when thought becomes deed, when clarity becomes crusade.
+According to Waite's *Pictorial Key to the Tarot*, the Knight of Swords signifies **skill, bravery, capacity, defense, address, enmity, wrath, war, destruction**.[^1] The card depicts a knight in full charge—sword raised, horse at gallop, clouds racing behind—representing intellectual force in full assertion, the mind that has decided and now acts with complete commitment. When the Knight of Swords appears upright, it speaks to the realm of decisive action—the moment when thought becomes deed, when clarity becomes crusade.
 
-In the court card hierarchy, Knights represent the **Fire** (or active/dynamic) element of their suit—the moving, asserting, aggressive principle. The Knight of Swords is therefore **Air of Air**: pure intellectual force, thought without restraint, logic taken to its extreme. This is the debater, the revolutionary, the warrior of ideas—the one who fights with words and concepts rather than physical weapons.
+In the court card hierarchy, Knights represent the **Fire** (or active/dynamic) element of their suit—the moving, asserting, aggressive principle. The Knight of Swords is therefore **Air of Air**:[^2] pure intellectual force, thought without restraint, logic taken to its extreme. This is the debater, the revolutionary, the warrior of ideas—the one who fights with words and concepts rather than physical weapons.
 
 The card represents **militant intelligence**—the capacity to cut through confusion with decisive action, to demolish weak arguments, to charge forward with absolute conviction. The Knight of Swords is brilliant, effective, and often right—but he is also dangerous, because his certainty leaves no room for doubt, his speed leaves no time for compassion.
 
 In readings, the Knight of Swords can represent a person (often air sign—Gemini, Libra, Aquarius—with strong assertive energy) or a situation requiring swift, decisive intellectual action. The card says: *the time for deliberation is over; now is the time to act*. But it also warns: speed without wisdom can destroy as easily as it liberates.
 
-When the Knight of Swords appears **reversed**, Waite identifies meanings of **imprudence, incapacity, extravagance**. The reversal often indicates that the Knight's speed has become recklessness, his clarity has become rigidity, or he has charged into a battle he cannot win. The reversed Knight may represent someone whose intellectual aggression has backfired, or a situation where hasty action has created more problems than it solved.
+When the Knight of Swords appears **reversed**, Waite identifies meanings of **imprudence, incapacity, extravagance**.[^3] The reversal often indicates that the Knight's speed has become recklessness, his clarity has become rigidity, or he has charged into a battle he cannot win. The reversed Knight may represent someone whose intellectual aggression has backfired, or a situation where hasty action has created more problems than it solved.
 
 The key teaching: **Clarity without compassion becomes cruelty**. The Knight of Swords is the most intellectually capable court card, but this capability must be tempered with wisdom, or it becomes mere domination.
 
@@ -324,6 +324,12 @@ The knight who cannot stop is either a hero or a casualty—and often, he is bot
 ---
 
 *"The Knight who charges without looking back is either a hero or a fool—and often both."*
+
+## Footnotes
+
+[^1]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meanings for the Knight of Swords
+[^2]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — elemental formula Air of Air for the Knight of Swords court card
+[^3]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meanings for the Knight of Swords
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

@@ -58,15 +58,15 @@ The Creative carries the frequency of **mutation**—the capacity to bring forth
 
 ### The Hexagram (I-Ching)
 
-Heaven above Heaven—the image of ceaseless creative motion. Wilhelm's Judgment: *"The Creative works sublime success, furthering through perseverance."* The superior man makes himself strong and untiring, recognizing that creative force requires **endurance and self-renewal**. The dragon (symbol of this hexagram) knows when to soar and when to rest.
+Heaven above Heaven—the image of ceaseless creative motion. Wilhelm's Judgment: *"The Creative works sublime success, furthering through perseverance."*[^1] The superior man makes himself strong and untiring, recognizing that creative force requires **endurance and self-renewal**. The dragon (symbol of this hexagram) knows when to soar and when to rest.
 
 ### The Gate (Human Design)
 
-Gate 1 resides in the G Center, the seat of identity and direction. This is the primal creative force individualized—not "What should I create?" but "What unique direction is mine to express?" The Creative operates through the Individual Knowing Circuit, meaning it **empowers through example**, not through teaching or leading.
+Gate 1 resides in the G Center, the seat of identity and direction.[^2] This is the primal creative force individualized—not "What should I create?" but "What unique direction is mine to express?" The Creative operates through the Individual Knowing Circuit, meaning it **empowers through example**, not through teaching or leading.
 
 ### The Gene Keys
 
-**Shadow: Entropy** — Creative potential collapsing into disorder, exhaustion, meaninglessness. The sense that nothing new can emerge.
+**Shadow: Entropy**[^3] — Creative potential collapsing into disorder, exhaustion, meaninglessness. The sense that nothing new can emerge.
 
 **Gift: Freshness** — The capacity to bring forth novelty, originality, vital newness. Creative expression that feels alive.
 
@@ -135,6 +135,13 @@ The conditioning pattern: "I must be creative to have value" or "If I'm not crea
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 1 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 1 mechanics, G Center (Identity)
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Entropy / Freshness / Beauty
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 1: The Creative

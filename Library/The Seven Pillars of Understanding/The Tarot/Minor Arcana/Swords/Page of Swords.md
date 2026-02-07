@@ -20,15 +20,15 @@ elemental_formula: Earth of Air
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, the Page of Swords signifies **authority, overseeing, secret service, vigilance, spying, examination**. The card depicts a young figure holding a sword, alert and watchful, representing intellectual awakening, the first stirrings of critical thought, and the capacity for investigation. When the Page of Swords appears upright, it speaks to the realm of mental readiness—the mind that is learning to question, to analyze, to observe before acting.
+According to Waite's *Pictorial Key to the Tarot*, the Page of Swords signifies **authority, overseeing, secret service, vigilance, spying, examination**.[^1] The card depicts a young figure holding a sword, alert and watchful, representing intellectual awakening, the first stirrings of critical thought, and the capacity for investigation. When the Page of Swords appears upright, it speaks to the realm of mental readiness—the mind that is learning to question, to analyze, to observe before acting.
 
-In the court card hierarchy, Pages represent the **Earth** element of their suit—the grounding, stabilizing, manifesting principle. The Page of Swords is therefore **Earth of Air**: thought made tangible, ideas given preliminary form, intelligence applied practically rather than abstractly. This is the student, the apprentice, the scout—the one who is learning the art of the mind.
+In the court card hierarchy, Pages represent the **Earth** element of their suit—the grounding, stabilizing, manifesting principle. The Page of Swords is therefore **Earth of Air**:[^2] thought made tangible, ideas given preliminary form, intelligence applied practically rather than abstractly. This is the student, the apprentice, the scout—the one who is learning the art of the mind.
 
 The card represents **intellectual curiosity and vigilance**—the awakening of discernment, the capacity to see through appearances, the first deployment of reason as a tool for navigating reality. The Page of Swords is not yet a master; he is a beginner. But he is alert, watchful, and learning quickly.
 
 In readings, the Page of Swords can represent a person (often young, often an air sign—Gemini, Libra, Aquarius) or a situation requiring vigilance, investigation, or intellectual engagement. The card says: *pay attention*. Things are not as they seem. Investigate before you commit.
 
-When the Page of Swords appears **reversed**, Waite identifies meanings of **unforeseen events, vigilance should be exercised; illness is possible**. The reversal often indicates that the Page's vigilance has become paranoia, his curiosity has become suspicion, or the information he gathers is unreliable. Alternatively, the reversed Page may represent someone who speaks too quickly, acts without sufficient investigation, or uses cleverness destructively.
+When the Page of Swords appears **reversed**, Waite identifies meanings of **unforeseen events, vigilance should be exercised; illness is possible**.[^3] The reversal often indicates that the Page's vigilance has become paranoia, his curiosity has become suspicion, or the information he gathers is unreliable. Alternatively, the reversed Page may represent someone who speaks too quickly, acts without sufficient investigation, or uses cleverness destructively.
 
 The key teaching: **The sword must be learned before it can be mastered**. The Page of Swords is the beginning of intellectual development—the first questions, the first observations, the first use of logic to navigate complexity. This is valuable, but it is not yet wisdom.
 
@@ -312,6 +312,12 @@ The sword is not a toy, but it is also not a trophy to be admired from a distanc
 ---
 
 *"The Page who wields the sword before he understands it cuts himself as often as his enemies."*
+
+## Footnotes
+
+[^1]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meanings for the Page of Swords
+[^2]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — elemental formula Earth of Air for the Page of Swords court card
+[^3]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meanings for the Page of Swords
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

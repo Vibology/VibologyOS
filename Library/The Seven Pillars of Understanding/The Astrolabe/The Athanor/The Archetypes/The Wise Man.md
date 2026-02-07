@@ -23,7 +23,7 @@ The Wise Man represents the archetypal **mentor who emerges from obscurity**—t
 
 The Wise Man is not perpetually available teacher but **solitary master with finite resources**—the one who says "I will train you" and also "now I rest alone." Miyagi works the bonsai garden, fixes Daniel-san's car, teaches through wax-on wax-off—but he also drinks sake alone, tends his grief privately, withdraws to restore.
 
-In Jung's framework, The Wise Man corresponds to the **Senex archetype**—the old man who has accumulated wisdom through experience and suffering, who offers guidance to younger consciousness, who represents meaning earned through life lived. Jung saw this figure appearing in dreams when the psyche needs direction—the inner guide who knows the way because he has walked it.
+In Jung's framework, The Wise Man corresponds to the **Senex archetype**—the old man who has accumulated wisdom through experience and suffering, who offers guidance to younger consciousness, who represents meaning earned through life lived.[^1] Jung saw this figure appearing in dreams when the psyche needs direction—the inner guide who knows the way because he has walked it.
 
 The Wise Man appears when **wisdom requires boundaries**, when teaching demands rest, when the question becomes: "Can I provide for others and still honor my need for aloneness?" This is the archetype of sustainable wisdom.
 
@@ -58,9 +58,9 @@ The mature mentor knows: deliverance requires both thunder (action that liberate
 
 ### The Wise Old Man in Jung
 
-Jung identified The Wise Old Man as appearing in dreams during moments when the ego needs guidance from deeper wisdom. This figure knows what the ego doesn't—having walked the path, having earned understanding through lived experience. He appears not to command but to counsel, not to rescue but to resource.
+Jung identified The Wise Old Man as appearing in dreams during moments when the ego needs guidance from deeper wisdom.[^2] This figure knows what the ego doesn't—having walked the path, having earned understanding through lived experience. He appears not to command but to counsel, not to rescue but to resource.
 
-The shadow is the Senex turned rigid—the old man who clings to outdated wisdom, who refuses to adapt, who depletes himself through inability to rest. The integration requires **flexibility within mastery**: knowing the craft deeply enough to teach it multiple ways, maintaining boundaries that sustain provision.
+The shadow is the Senex turned rigid—the old man who clings to outdated wisdom, who refuses to adapt, who depletes himself through inability to rest.[^3] The integration requires **flexibility within mastery**: knowing the craft deeply enough to teach it multiple ways, maintaining boundaries that sustain provision.
 
 > *Vibology Synthesis: The Wise Man appears when provision demands rhythm. Work with resolve. Teach with commitment. Then rest alone to restore capacity. Your aloneness is not abandonment—it is restoration that enables continued wisdom.*
 
@@ -96,6 +96,13 @@ The shadow is the Senex turned rigid—the old man who clings to outdated wisdom
 - [[The Wise Old Man]] — Jungian archetypal framework (Personal Mythos)
 - [[Mercury ☿]] — Planetary ruler of Virgo; discernment and craft
 - [[Meeting the Mentor]] — The Wise Man's role in the Hero's Journey
+
+---
+## Footnotes
+
+[^1]: Jung, *The Archetypes and the Collective Unconscious* (CW 9i, Princeton, 1969) — The Wise Old Man archetype (§398-415)
+[^2]: Campbell, *The Hero with a Thousand Faces* (Princeton, 1949) — the mentor as supernatural aid (Chapter 3)
+[^3]: von Franz, *The Interpretation of Fairy Tales* (Shambhala, 1996) — the old man as guide in folklore (Chapter 5)
 
 ---
 ## Sources

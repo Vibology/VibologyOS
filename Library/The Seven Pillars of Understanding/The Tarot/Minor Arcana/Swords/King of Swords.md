@@ -20,15 +20,15 @@ elemental_formula: Fire of Air
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, the King of Swords signifies **power, command, authority, militant intelligence, law and offices of the law**. The card depicts a king enthroned, sword upraised, often with an expression of stern judgment—representing intellectual mastery brought to full authority, the mind that does not merely observe or analyze but *commands*, and the will that directs thought toward governance and order. When the King of Swords appears upright, it speaks to the realm of sovereign intellect—the capacity to judge impartially, to enforce consequence, to wield the power of decision with clarity and without sentiment.
+According to Waite's *Pictorial Key to the Tarot*, the King of Swords signifies **power, command, authority, militant intelligence, law and offices of the law**.[^1] The card depicts a king enthroned, sword upraised, often with an expression of stern judgment—representing intellectual mastery brought to full authority, the mind that does not merely observe or analyze but *commands*, and the will that directs thought toward governance and order. When the King of Swords appears upright, it speaks to the realm of sovereign intellect—the capacity to judge impartially, to enforce consequence, to wield the power of decision with clarity and without sentiment.
 
-In the court card hierarchy, Kings represent the **Fire** (or active/commanding) element of their suit—the creative, authoritative, sovereign principle. The King of Swords is therefore **Fire of Air**: will commanding intellect, authority channeling thought, the creative force that establishes law and order through the power of the discriminating mind. This is the judge, the general, the lawgiver—the one who decides what shall be and enforces that decision.
+In the court card hierarchy, Kings represent the **Fire** (or active/commanding) element of their suit—the creative, authoritative, sovereign principle. The King of Swords is therefore **Fire of Air**:[^2] will commanding intellect, authority channeling thought, the creative force that establishes law and order through the power of the discriminating mind. This is the judge, the general, the lawgiver—the one who decides what shall be and enforces that decision.
 
 The card represents **intellectual authority**—the capacity to make hard decisions, to establish and enforce boundaries, to speak the verdict without wavering, to rule through principle rather than whim. The King of Swords is brilliant, decisive, and just—when integrated. But he is also capable of great cruelty if his authority becomes tyranny, his clarity becomes rigidity, or his detachment becomes coldness.
 
 In readings, the King of Swords can represent a person (often an air sign—Gemini, Libra, Aquarius—in a position of authority) or a situation requiring decisive judgment, clear boundaries, or the enforcement of consequences. The card says: *the time for deliberation is over; the verdict must be spoken*. Justice must be served, law must be upheld, clarity must command.
 
-When the King of Swords appears **reversed**, Waite identifies meanings of **cruelty, perversity, barbarity, perfidy, evil intention**. The reversal often indicates that the King's justice has become vengeance, his authority has become tyranny, or his intellect has been weaponized against the innocent. The reversed King may represent someone who uses law as a tool of oppression, who mistakes cruelty for strength, or whose detachment has calcified into inhumanity.
+When the King of Swords appears **reversed**, Waite identifies meanings of **cruelty, perversity, barbarity, perfidy, evil intention**.[^3] The reversal often indicates that the King's justice has become vengeance, his authority has become tyranny, or his intellect has been weaponized against the innocent. The reversed King may represent someone who uses law as a tool of oppression, who mistakes cruelty for strength, or whose detachment has calcified into inhumanity.
 
 The key teaching: **Authority without compassion is tyranny**. The King of Swords holds the power of judgment—but that power must be tempered by wisdom, or it becomes merely another form of violence.
 
@@ -356,6 +356,12 @@ The just King knows when to wield the sword and when to sheathe it. The tyrant k
 ---
 
 *"The King who rules by law without mercy becomes a tyrant. The King who rules by mercy without law becomes a fool. The just King knows when to wield each."*
+
+## Footnotes
+
+[^1]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meanings for the King of Swords
+[^2]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — elemental formula Fire of Air for the King of Swords court card
+[^3]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meanings for the King of Swords
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

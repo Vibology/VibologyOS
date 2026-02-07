@@ -23,7 +23,7 @@ The Hero represents the archetypal **pioneer of moral action**—the one who pos
 
 The Hero is not defined by invulnerability but by the **decision to act when action is needed**. This is the archetype of the first responder, the one whose power creates safety for others. Superman's moral compass—his refusal to abuse godlike power—transforms brute force into majesty.
 
-In Jung's archetypal framework, The Hero represents the ego in its highest function—**consciousness actively engaging with challenge to create transformation**. The Hero's journey is the fundamental pattern of individuation: separation from the ordinary world, confrontation with threshold guardians and shadow figures, acquisition of the boon (wisdom, power, treasure), and return to benefit the community.
+In Jung's archetypal framework, The Hero represents the ego in its highest function—**consciousness actively engaging with challenge to create transformation**.[^1] The Hero's journey is the fundamental pattern of individuation: separation from the ordinary world, confrontation with threshold guardians and shadow figures, acquisition of the boon (wisdom, power, treasure), and return to benefit the community.
 
 The Hero appears when **raw power seeks righteous direction**, when the individual must choose between dominance and empowerment, between force and strength. This is the call to adventure made personal—the moment when you recognize that you have the power to act and must decide how to wield it.
 
@@ -56,13 +56,13 @@ Superman's power could dominate, but he chooses service. This is the Hero's fund
 
 ### The Hero's Journey (Campbell)
 
-Joseph Campbell identified The Hero as the universal pattern: the ordinary person called to adventure, initiated through trials, transformed through ordeal, and returned with wisdom for the community. The Hero is not Superman because he is invulnerable; he is Hero because **he answers the call**.
+Joseph Campbell identified The Hero as the universal pattern: the ordinary person called to adventure, initiated through trials, transformed through ordeal, and returned with wisdom for the community.[^2] The Hero is not Superman because he is invulnerable; he is Hero because **he answers the call**.
 
 The stages of the journey—Call, Refusal, Mentor, Threshold, Ordeal, Boon, Return—map the process by which consciousness integrates challenge. The Hero archetype activates whenever this cycle begins: when you recognize that remaining in the ordinary world is no longer possible, that transformation requires risk, that the boon must be shared.
 
 ### Jungian Analysis
 
-Jung wrote extensively about The Hero as the ego's confrontation with the unconscious. The Hero battles dragons (instinctual shadow), rescues the anima (inner feminine wisdom), and returns with treasure (conscious integration of previously unconscious contents). The Hero is not the Self but the **ego strong enough to serve the Self's purposes**.
+Jung wrote extensively about The Hero as the ego's confrontation with the unconscious.[^3] The Hero battles dragons (instinctual shadow), rescues the anima (inner feminine wisdom), and returns with treasure (conscious integration of previously unconscious contents). The Hero is not the Self but the **ego strong enough to serve the Self's purposes**.
 
 The Hero's fatal flaw is hubris—believing that ego power is sufficient without humility before greater forces. Superman's kryptonite reminds: even supreme power has vulnerability. The mature Hero knows when to yield, when to ask for help, when force must give way to wisdom.
 
@@ -102,6 +102,13 @@ The Hero's fatal flaw is hubris—believing that ego power is sufficient without
 - [[The Call to Adventure]] — Beginning of the Hero's path
 - [[The Ordeal]] — The Hero's supreme test
 - [[Mars ♂]] — Planetary ruler of Aries; warrior energy
+
+---
+## Footnotes
+
+[^1]: Jung, *The Archetypes and the Collective Unconscious* (CW 9i, Princeton, 1969) — The Hero archetype as ego engaging with transformation (§259-305)
+[^2]: Campbell, *The Hero with a Thousand Faces* (Princeton, 1949) — the monomyth as universal heroic pattern (Chapter 1)
+[^3]: von Franz, *The Interpretation of Fairy Tales* (Shambhala, 1996) — The Hero as ego development confronting unconscious forces (Chapter 3)
 
 ---
 ## Sources

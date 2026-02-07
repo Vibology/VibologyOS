@@ -60,15 +60,15 @@ The alchemical image is *Mortificatio*—the death phase, the necessary blackeni
 
 ### The Hexagram (I-Ching)
 
-Hexagram 36, *Ming I* (Darkening of the Light), depicts the sun sinking beneath the earth—light wounded but not extinguished. Wilhelm's Judgment: "DARKENING OF THE LIGHT. In adversity it furthers one to be persevering." The Image counsels: "Thus does the superior man live with the great mass: he veils his light, yet still shines." The teaching is not to display brilliance when darkness prevails but to preserve the inner light through outer obscuration. The hexagram traditionally refers to the wise minister serving under a corrupt ruler—maintaining integrity internally while appearing unremarkable externally. The wound is the price of preserving light in dark times.
+Hexagram 36, *Ming I* (Darkening of the Light), depicts the sun sinking beneath the earth—light wounded but not extinguished.[^1] Wilhelm's Judgment: "DARKENING OF THE LIGHT. In adversity it furthers one to be persevering." The Image counsels: "Thus does the superior man live with the great mass: he veils his light, yet still shines." The teaching is not to display brilliance when darkness prevails but to preserve the inner light through outer obscuration. The hexagram traditionally refers to the wise minister serving under a corrupt ruler—maintaining integrity internally while appearing unremarkable externally. The wound is the price of preserving light in dark times.
 
 ### The Gate (Human Design)
 
-Gate 36 in the Solar Plexus carries what Ra Uru Hu called "the frequency of emotional crisis as the vehicle for experiential learning." This is not crisis as breakdown but crisis as breakthrough-in-disguise. The emotional wave moves from hope to pain and back—Gate 36 teaches that the pain phase contains essential information. The Shadow tries to avoid the low points (addiction, distraction, spiritual bypassing); the Gift remains present through the full cycle. When connected to Gate 35 in the Throat (Channel of Transitoriness), emotional experience becomes articulable teaching—the crisis transforms into story, and story transforms into wisdom others can use. The teaching: your wounds are not waste; they are the raw material of your humanity.
+Gate 36 in the Solar Plexus carries what Ra Uru Hu called "the frequency of emotional crisis as the vehicle for experiential learning.[^2]" This is not crisis as breakdown but crisis as breakthrough-in-disguise. The emotional wave moves from hope to pain and back—Gate 36 teaches that the pain phase contains essential information. The Shadow tries to avoid the low points (addiction, distraction, spiritual bypassing); the Gift remains present through the full cycle. When connected to Gate 35 in the Throat (Channel of Transitoriness), emotional experience becomes articulable teaching—the crisis transforms into story, and story transforms into wisdom others can use. The teaching: your wounds are not waste; they are the raw material of your humanity.
 
 ### The Gene Keys
 
-- **Shadow: Turbulence** — The experience of overwhelming emotional storm; crisis as chaos without meaning; the sense that pain is punishment or random cruelty. Turbulence manifests as emotional reactivity, victim consciousness, or numbing avoidance. The belief: "This shouldn't be happening."
+- **Shadow: Turbulence**[^3] — The experience of overwhelming emotional storm; crisis as chaos without meaning; the sense that pain is punishment or random cruelty. Turbulence manifests as emotional reactivity, victim consciousness, or numbing avoidance. The belief: "This shouldn't be happening."
 
 - **Gift: Humanity** — The recognition that crisis is universal; emotional turbulence connects rather than isolates. Humanity emerges when individual suffering is experienced as participation in the collective human condition. Your darkness makes you real, relatable, capable of genuine presence with others in theirs. The wound becomes the doorway to authentic connection.
 
@@ -141,6 +141,13 @@ Another Shadow trap: emotional bypassing disguised as spiritual maturity. "I've 
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 36 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 36 mechanics, Solar Plexus
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Turbulence / Humanity / Compassion
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 36: Darkening of the Light

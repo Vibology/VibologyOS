@@ -19,12 +19,12 @@ grimoire_source: "Esoteric Grimoire"
 
 **Qabalah** (Hebrew: קבלה, *qabbalah* — "that which is received") is the Jewish mystical tradition describing the structure of creation, the nature of divinity, and the relationship between the Infinite and the finite. Within [[The Tarot]] pillar, Qabalah provides the **architectural framework** — the scaffolding upon which the 78 cards are arranged, the map that transforms a deck of images into a coherent system of spiritual navigation.
 
-The Qabalah did not originate as a Tarot system. Its roots reach into Talmudic speculation on the *Ma'aseh Merkavah* (Work of the Chariot) and *Ma'aseh Bereshit* (Work of Creation), codified in the *Sefer Yetzirah* (3rd-6th century CE) and flowering in the *Zohar* (13th century, attributed to Shimon bar Yochai). The systematic mapping of Tarot onto the Qabalistic Tree came through the Western esoteric tradition — principally Eliphas Levi (1856), the [[The Hermetic Order of the Golden Dawn]] (1888), and their successors.
+The Qabalah did not originate as a Tarot system. Its roots reach into Talmudic speculation on the *Ma'aseh Merkavah* (Work of the Chariot) and *Ma'aseh Bereshit* (Work of Creation), codified in the *Sefer Yetzirah* (3rd-6th century CE) [^1] and flowering in the *Zohar* (13th century, attributed to Shimon bar Yochai) [^2]. The systematic mapping of Tarot onto the Qabalistic Tree came through the Western esoteric tradition — principally Eliphas Levi (1856), the [[The Hermetic Order of the Golden Dawn]] (1888), and their successors [^3].
 
 Three spellings reflect three distinct streams:
 - **Kabbalah** — The Jewish religious mystical tradition (Scholem, Idel)
 - **Cabala** — The Christian esoteric interpretation (Pico della Mirandola, Reuchlin)
-- **Qabalah** — The Hermetic/magical tradition used within the Golden Dawn and Western esotericism (Wang 1983, Fortune 1935)
+- **Qabalah** — The Hermetic/magical tradition used within the Golden Dawn and Western esotericism [^4] (Wang 1983, Fortune 1935)
 
 This library uses **Qabalah** to denote the Hermetic synthesis as it functions within the Tarot pillar — while honoring its Jewish origins and acknowledging that the esoteric tradition operates at a considerable distance from its rabbinical source.
 
@@ -132,6 +132,16 @@ The Qabalah is formally housed within the Tarot pillar because the two systems a
 
 ---
 
+## Footnotes
+
+[^1]: *Sefer Yetzirah* (3rd-6th century CE) — foundational text codifying the Sephiroth and Hebrew letter mysticism; dating range reflects scholarly uncertainty
+[^2]: *The Zohar* (13th century, attributed to Shimon bar Yochai) — the masterwork of Jewish mysticism in which Qabalistic cosmology flowers
+[^3]: Wang, Robert, *The Qabalistic Tarot* (Samuel Weiser, 1983), pp. 11-15 — Levi's 1856 mapping and the Golden Dawn's systematic Tarot-Tree correspondence
+[^4]: Wang, Robert, *The Qabalistic Tarot* (Samuel Weiser, 1983); Fortune, Dion, *The Mystical Qabalah* (Williams & Norgate, 1935) — the threefold spelling convention distinguishing Jewish, Christian, and Hermetic streams
+[^5]: Fortune, Dion, *The Mystical Qabalah* (Williams & Norgate, 1935) — paraphrased aphorism on the Tree of Life as soul-map
+
+---
+
 ## Sources
 
 - **Sefer Yetzirah** (3rd-6th century CE) — Foundational text on the Sephiroth and Hebrew letter mysticism
@@ -143,4 +153,4 @@ The Qabalah is formally housed within the Tarot pillar because the two systems a
 ---
 
 > *"The Tree of Life is not a map of the universe. It is a map of the soul encountering the universe."*
-> — Dion Fortune, *The Mystical Qabalah* (paraphrased)
+> — Dion Fortune, *The Mystical Qabalah* (paraphrased) [^5]

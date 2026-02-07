@@ -21,11 +21,11 @@ title: Lord of Valour
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, the Seven of Wands depicts **"A young man on a craggy eminence brandishing a staff; six other staves are raised towards him from below."** The upright meaning is given as: **"It is a card of valour, for, on the surface, six are attacking one, who has, however, the vantage position. On the intellectual plane, it signifies discussion, wordy strife; in business—negotiations, war of trade, barter, competition. It is further a card of success, for the combatant is on the top and his enemies may be unable to reach him."**
+According to Waite's *Pictorial Key to the Tarot*, the Seven of Wands depicts **"A young man on a craggy eminence brandishing a staff; six other staves are raised towards him from below."** The upright meaning is given as: **"It is a card of valour, for, on the surface, six are attacking one, who has, however, the vantage position. On the intellectual plane, it signifies discussion, wordy strife; in business—negotiations, war of trade, barter, competition. It is further a card of success, for the combatant is on the top and his enemies may be unable to reach him."**[^1]
 
 This is a card of **defiant defense and strategic courage**. Where the Six of Wands celebrated the victor riding through the crowd, the Seven shows the aftermath: *now that you have won, you must defend your position*. The figure stands alone on high ground, outnumbered but not outmatched. He has the advantage of elevation—both literally (the craggy hill) and symbolically (moral or strategic superiority). This is not offense but *defense*—not conquest but *preservation*.
 
-The Golden Dawn titles this card the **"Lord of Valour"** and attributes it to **Netzach in Atziluth**—Victory (the seventh Sephirah, meaning "Firmness" or "Eternity") expressing through the World of Pure Spirit. The planetary attribution is **Mars in Leo**: the warrior planet Mars channeling through the courageous, fixed fire sign Leo. This creates what the tradition calls **"Fixed Fire"**—fire that does not advance recklessly but *holds ground*, fire that burns steady rather than flickering.
+The Golden Dawn titles this card the **"Lord of Valour"**[^2] and attributes it to **Netzach in Atziluth**—Victory (the seventh Sephirah, meaning "Firmness" or "Eternity") expressing through the World of Pure Spirit. The planetary attribution is **Mars in Leo**:[^4] the warrior planet Mars channeling through the courageous, fixed fire sign Leo. This creates what the tradition calls **"Fixed Fire"**—fire that does not advance recklessly but *holds ground*, fire that burns steady rather than flickering.
 
 The Golden Dawn tradition emphasizes that the Seven represents **"valor, success, and yet opposition thereto."** The combatant has the vantage position—he is not losing, he is *defending*. But the defense is ongoing; the battle is not finished. This is **strategic endurance**, not dramatic triumph. It is the courage to stand firm when challenged, to hold the line when others would retreat, to defend a principle or position even when outnumbered or criticized.
 
@@ -33,7 +33,7 @@ The Seven of Wands is favorable in contexts where you must **defend what you hav
 
 However, the card also carries a warning: **not all battles are worth fighting**. The reversed or shadow expression asks: "Are you defending a genuine principle, or are you simply being stubborn? Is this high ground worth the cost of defending it?" The Seven can manifest as defensive rigidity—the person who fights every challenge as if their life depends on it, who cannot distinguish between real threats and minor disagreements.
 
-When the Seven of Wands appears **reversed**, Waite identifies: **"Perplexity, embarrassments, anxiety. It is also a card of indecision."** The reversed card speaks to the *collapse of confidence* in one's position. Perhaps the ground you thought was solid turns out to be shaky. Perhaps the opposition is more formidable than anticipated. Perhaps doubt undermines your will to resist. The reversed Seven can manifest as:
+When the Seven of Wands appears **reversed**, Waite identifies: **"Perplexity, embarrassments, anxiety. It is also a card of indecision."**[^3] The reversed card speaks to the *collapse of confidence* in one's position. Perhaps the ground you thought was solid turns out to be shaky. Perhaps the opposition is more formidable than anticipated. Perhaps doubt undermines your will to resist. The reversed Seven can manifest as:
 - **Indecision**: Unable to commit to defending your position, wavering between standing firm and retreating
 - **Overwhelm**: The attacks are too many, too sustained; you cannot hold the line
 - **Misplaced defensiveness**: Expending energy defending positions that don't actually matter
@@ -487,6 +487,13 @@ The Seven of Wands teaches: **Sometimes the greatest victory is simply not yield
 ---
 
 *"Courage is not the absence of doubt, but the willingness to stand firm when doubt whispers retreat."*
+
+## Footnotes
+
+[^1]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meanings for the Seven of Wands
+[^2]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Lord of Valour" and Netzach in Atziluth attribution for the Seven of Wands
+[^3]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meanings for the Seven of Wands
+[^4]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — planetary attribution of Mars in Leo for the Seven of Wands
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

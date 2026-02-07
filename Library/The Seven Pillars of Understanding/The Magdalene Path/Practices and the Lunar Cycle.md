@@ -33,11 +33,11 @@ category: Practice
 
 ### The Mechanics: Moon and Neutrino Field
 
-In **[[Human Design]]**, the Moon transits through all 64 gates approximately every 28 days (moving through one gate every ~11 hours). Ra Uru Hu taught that the Moon is the "Driving Force" of the design, representing what moves us. In the "Vertical Keys," he identified the Moon's keynote as "The Focus," noting it creates the strongest impression of any given moment (Ra Uru Hu, HD teachings).
+In **[[Human Design]]**, the Moon transits through all 64 gates approximately every 28 days (moving through one gate every ~11 hours). Ra Uru Hu taught that the Moon is the "Driving Force" of the design, representing what moves us[^1]. In the "Vertical Keys," he identified the Moon's keynote as "The Focus," noting it creates the strongest impression of any given moment (Ra Uru Hu, HD teachings).
 
 For those with **undefined Head and Ajna centers**, this creates a natural **research cycle**—the Moon's transit continuously "asks questions" through different gates. The 28-Day Lunar Cycle serves as a mechanical "bridge" used to sample specific frequencies (The Blueprint, HD source).
 
-**Ra Uru Hu's Personal Experiment:** Ra used a lunar ephemeris to track the Moon's movement through the gates, studying its impact on his undefined Solar Plexus center. This allowed him to distinguish between his own nature and planetary conditioning (Ra Uru Hu, HD teachings).
+**Ra Uru Hu's Personal Experiment[^3]:** Ra used a lunar ephemeris to track the Moon's movement through the gates, studying its impact on his undefined Solar Plexus center. This allowed him to distinguish between his own nature and planetary conditioning (Ra Uru Hu, HD teachings).
 
 **The Application to Magdalene Path:**
 
@@ -111,7 +111,7 @@ The lunar cycle is still valuable but operates differently:
 
 ### The Lunar Cycle for Reflectors
 
-**Reflectors** (no centers defined in Human Design) have a unique relationship with the lunar cycle—it is their **decision-making authority**. Because Reflectors have no fixed definition (no consistent inner "yes" or "no"), they have no reliable inner authority for immediate decisions (Ra Uru Hu, *The Definitive Book of Human Design*).
+**Reflectors** (no centers defined in Human Design) have a unique relationship with the lunar cycle—it is their **decision-making authority**. Because Reflectors have no fixed definition (no consistent inner "yes" or "no"), they have no reliable inner authority for immediate decisions[^2] (Ra Uru Hu, *The Definitive Book of Human Design*).
 
 **The Mechanism:** As the Moon travels through the mandala, it activates all 64 gates over approximately 28 days. This creates a consistent, repeating pattern of temporary definition for the Reflector, allowing them to filter the world and make decisions without being rushed or pressured (HD source texts).
 
@@ -393,7 +393,7 @@ The **North and South Nodes** of the Moon (Rahu and Ketu in Vedic astrology) rep
 
 ### Jungian Psychology: Active Imagination
 
-Jung's practice of **Active Imagination** (dialoguing with the unconscious) parallels the evening review and dream work—bringing the unconscious into conscious relationship. Clarissa Pinkola Estés describes teaching a form of "interactive trancing" proximate to Jung's active imagination, using this to produce "stones" (insights) that elucidate a client's psychic journey (Estés, *Women Who Run With the Wolves*).
+Jung's practice of **Active Imagination** (dialoguing with the unconscious) parallels the evening review and dream work—bringing the unconscious into conscious relationship. Clarissa Pinkola Estés describes teaching a form of "interactive trancing" proximate to Jung's active imagination[^4], using this to produce "stones" (insights) that elucidate a client's psychic journey (Estés, *Women Who Run With the Wolves*).
 
 ---
 ---
@@ -416,6 +416,14 @@ Jung's practice of **Active Imagination** (dialoguing with the unconscious) para
 
 ---
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — the Moon as "Driving Force" of the design with keynote "The Focus" in the Vertical Keys
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Reflector authority requires a full 28-day lunar cycle for decision-making due to absence of fixed definition
+[^3]: Ra Uru Hu, HD teachings — Ra's personal experiment tracking the Moon's transit through gates using a lunar ephemeris to distinguish personal nature from planetary conditioning
+[^4]: Estés, *Women Who Run With the Wolves* (Ballantine, 1992) — "interactive trancing" proximate to Jung's active imagination, producing "stones" (insights) from psychic journey work
+
+---
 ## Sources
 
 Ra Uru Hu. *The Definitive Book of Human Design*. Carlsbad: HDC Publishing, 2011.

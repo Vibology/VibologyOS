@@ -22,17 +22,17 @@ title: Lord of Dominion
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, the Two of Wands signifies **dominion, fortune, magnificence, realization of attained knowledge**, and specifically: "Between the alternative readings there is a card which is one of a sadness, a passion, an eager desire." Waite also notes that it can indicate "a merchant, a large emporium, wealth, power, pleasure" and speaks to the question of riches. When the Two of Wands appears upright, it speaks to the realm of established authority—the moment when creative potential (Ace) has been given direction and form, and now stands surveying the results.
+According to Waite's *Pictorial Key to the Tarot*, the Two of Wands signifies **dominion, fortune, magnificence, realization of attained knowledge**[^1], and specifically: "Between the alternative readings there is a card which is one of a sadness, a passion, an eager desire." Waite also notes that it can indicate "a merchant, a large emporium, wealth, power, pleasure" and speaks to the question of riches. When the Two of Wands appears upright, it speaks to the realm of established authority—the moment when creative potential (Ace) has been given direction and form, and now stands surveying the results.
 
-The Golden Dawn titles this card the **"Lord of Dominion"** and attributes it to **Mars in Aries**—the warrior god (Mars) acting through the pioneering, initiatory sign of the Ram (Aries). This is fire doubled, intensified, focused. Mars is the planet of action, aggression, courage, and conquest. Aries is the cardinal fire sign—the first burst of spring, the beginning of the zodiacal year, pure initiative. Together they create the archetype of the **sovereign**—one who has claimed territory and now holds dominion over it.
+The Golden Dawn titles this card the **"Lord of Dominion"**[^2] and attributes it to **Mars in Aries**—the warrior god (Mars) acting through the pioneering, initiatory sign of the Ram (Aries). This is fire doubled, intensified, focused. Mars is the planet of action, aggression, courage, and conquest. Aries is the cardinal fire sign—the first burst of spring, the beginning of the zodiacal year, pure initiative. Together they create the archetype of the **sovereign**—one who has claimed territory and now holds dominion over it.
 
-The card represents **Chokmah (Wisdom) in Atziluth (the World of Pure Spirit)**. Chokmah, the second Sephirah, is the first differentiation from unity—the Father principle, dynamic force, the initial thrust of will into form. In the fiery world of Atziluth, this manifests as **strategic vision**: the capacity to see the whole field, to understand where power lies, and to direct creative force with precision.
+The card represents **Chokmah (Wisdom) in Atziluth (the World of Pure Spirit)**.[^4] Chokmah, the second Sephirah, is the first differentiation from unity—the Father principle, dynamic force, the initial thrust of will into form. In the fiery world of Atziluth, this manifests as **strategic vision**: the capacity to see the whole field, to understand where power lies, and to direct creative force with precision.
 
 This is a profoundly favorable card in questions of authority, leadership, planning, and enterprise. It indicates that you have moved beyond the raw potential of the Ace into *established power*—you have built something, secured a position, gained influence. Now the question becomes: *What will you do with this dominion?* Will you consolidate and defend, or will you expand and conquer new territory?
 
 However, the card carries a note of tension. Waite speaks of "a sadness, a passion, an eager desire"—the Two of Wands is not content. It has achieved much, but achievement breeds ambition. The figure stands on the battlement and gazes outward, restless. The shadow of this card is the inability to enjoy what has been won, the compulsion to always be moving toward the next conquest.
 
-When the Two of Wands appears **reversed**, Waite identifies **surprise, wonder, enchantment, emotion, trouble, fear**. The reversed Two speaks to the loss of control—the strategic position is undermined, the authority is challenged, the careful plans are disrupted by unforeseen forces. What was dominion becomes doubt. The figure no longer stands confidently on the battlement but is knocked off-balance, surprised by forces they did not anticipate.
+When the Two of Wands appears **reversed**, Waite identifies **surprise, wonder, enchantment, emotion, trouble, fear**.[^3] The reversed Two speaks to the loss of control—the strategic position is undermined, the authority is challenged, the careful plans are disrupted by unforeseen forces. What was dominion becomes doubt. The figure no longer stands confidently on the battlement but is knocked off-balance, surprised by forces they did not anticipate.
 
 The Golden Dawn reversal suggests "influence restrained or perverted" and "timidity." The reversed Two of Wands can manifest as the leader who hesitates, the entrepreneur who will not take the next necessary risk, the general paralyzed by fear. Alternatively, it can indicate *dominion misused*—authority turned to tyranny, power wielded for ego rather than purpose.
 
@@ -424,6 +424,13 @@ The card does not answer this question. It simply presents the figure on the bat
 ---
 
 *"Authority is not inherited—it is claimed, and then perpetually re-earned."*
+
+## Footnotes
+
+[^1]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meanings for the Two of Wands
+[^2]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Lord of Dominion" and attribution of Mars in Aries for the Two of Wands
+[^3]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meanings for the Two of Wands
+[^4]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — sephirotic placement of the Two of Wands as Chokmah (Wisdom) in the world of Atziluth
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

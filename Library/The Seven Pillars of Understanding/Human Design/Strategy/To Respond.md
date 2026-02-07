@@ -14,7 +14,7 @@ verified: true
 ## Ra's Definition
 **To Respond** (also called "To Wait to Respond") is the [[Generator]]'s strategy for engaging with life correctly. Rather than initiating action from the mind, the Generator waits for external stimuli—questions, opportunities, encounters—and allows the [[Sacral]] to respond with its immediate, non-verbal knowing.
 
-The Generator's open and enveloping aura is designed to **magnetize** life toward them. They do not need to chase, hunt, or force. The world comes to them, and their work is to recognize what is correct when it arrives through the Sacral's response.
+The Generator's open and enveloping aura is designed to **magnetize** life toward them.[^1] They do not need to chase, hunt, or force. The world comes to them, and their work is to recognize what is correct when it arrives through the Sacral's response.
 
 ---
 
@@ -38,7 +38,7 @@ The Generator's challenge is **trusting the magnetism**—believing that correct
 
 ### The Sacral Sounds
 
-The Sacral speaks in **guttural, non-verbal sounds**:
+The Sacral speaks in **guttural, non-verbal sounds**:[^2]
 - **"Uh-huh"** (or rising tone) = Yes, energy is available
 - **"Uhn-un"** (or falling tone) = No, energy is not available
 
@@ -74,7 +74,7 @@ Generators who practice responding experience:
 - **Sustainable energy** — Life force committed only to what has Sacral agreement
 - **Deep satisfaction** — The Signature emerging from work they genuinely have energy for
 
-The body knows when response has been bypassed. **Frustration** arises—the Generator's Not-Self Theme—signaling that the mind initiated something the Sacral never agreed to.
+The body knows when response has been bypassed. **Frustration** arises—the Generator's Not-Self Theme[^4]—signaling that the mind initiated something the Sacral never agreed to.
 
 ---
 
@@ -108,7 +108,7 @@ The Sacral response is still necessary—but for Emotional Generators, it's the 
 
 ## Pure Generator vs. Manifesting Generator
 
-Both subtypes use the same strategy—To Respond—but the rhythm differs:
+Both subtypes use the same strategy—To Respond—but the rhythm differs:[^5]
 
 ### Pure Generator Response
 
@@ -134,7 +134,7 @@ Both are correct. The Pure Generator's patience and the MG's speed are both expr
 - **Pure Generators** (~37% of the population)
 - **Manifesting Generators** (~33% of the population)
 
-**Total:** ~70% of humanity uses this strategy.
+**Total:** ~70% of humanity uses this strategy.[^3]
 
 No other Type has the defined Sacral that enables response. The Generator-majority world is designed to respond to life, not force it into being.
 
@@ -220,6 +220,14 @@ When the Generator abandons their strategy:
 ---
 
 *To Respond is the Generator's alchemical law—the recognition that they are not designed to chase life but to magnetize it. Their open aura draws the world to them, and their Sacral knows immediately what is correct. The practice is trust: trusting that opportunities will arrive, trusting the body's knowing before the mind's interpretation, trusting that satisfaction emerges not from forcing but from responding to what genuinely has energy. When the Generator honors their Sacral, they become living proof that fulfillment is not found by hunting, but by recognizing what is correct when it arrives.*
+
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Generator aura as open and enveloping, designed to magnetize life
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Sacral response expressed through guttural sounds: "uh-huh" and "uhn-un"
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Generator population: ~37% Pure, ~33% Manifesting Generators (~70% total)
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Frustration as the Generator's Not-Self Theme
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Pure Generator vs. Manifesting Generator: same Strategy, different rhythm of response
 
 ## Sources
 

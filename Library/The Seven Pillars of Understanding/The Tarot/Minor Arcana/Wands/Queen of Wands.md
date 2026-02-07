@@ -20,11 +20,11 @@ title: Queen of the Thrones of Flame
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, the Queen of Wands depicts **"a seated woman holding a sunflower in her left hand and a wand in her right. A black cat crouches at her feet."** The upright meaning is given as: **"A dark woman, countrywoman, friendly, chaste, loving, honourable. If the card beside her signifies a man, she is well disposed towards him; if a woman, she is interested in the Querent. Also, love of money, or a certain success in business. Reversed: Good, economical, obliging, serviceable. Signifies also, but in certain positions, jealousy, deceit, infidelity—the opposition or good qualities to barbarism and evil."**
+According to Waite's *Pictorial Key to the Tarot*, the Queen of Wands depicts **"a seated woman holding a sunflower in her left hand and a wand in her right. A black cat crouches at her feet."** The upright meaning is given as: **"A dark woman, countrywoman, friendly, chaste, loving, honourable.[^1] If the card beside her signifies a man, she is well disposed towards him; if a woman, she is interested in the Querent. Also, love of money, or a certain success in business. Reversed: Good, economical, obliging, serviceable. Signifies also, but in certain positions, jealousy, deceit, infidelity—the opposition or good qualities to barbarism and evil."**[^3]
 
 This is the card of **embodied creative sovereignty**—the woman who has *become* her power, who does not merely wield fire but *is* fire made flesh, made warm, made sustaining. The Queen is not learning (Page), not questing (Knight), not commanding from a distance (King)—the Queen is *present*, *magnetic*, *radiant*. She sits upon her throne, and the world orbits her like planets around the sun.
 
-The Golden Dawn titles this card the **"Queen of the Thrones of Flame"**. The title is precise: the Queen is the *throne*—the seat, the foundation, the container—for fire. Where the Knight rides fire (Air of Fire), the Queen *holds* fire (Water of Fire), contains it, sustains it, directs it through her presence. The Queen is the hearth-fire, not the wildfire—the flame that warms the home, that cooks the food, that gathers the community. This fire does not rage chaotically; it burns *steadily*, *purposefully*, *enduringly*.
+The Golden Dawn titles this card the **"Queen of the Thrones of Flame"**.[^2] The title is precise: the Queen is the *throne*—the seat, the foundation, the container—for fire. Where the Knight rides fire (Air of Fire), the Queen *holds* fire (Water of Fire), contains it, sustains it, directs it through her presence. The Queen is the hearth-fire, not the wildfire—the flame that warms the home, that cooks the food, that gathers the community. This fire does not rage chaotically; it burns *steadily*, *purposefully*, *enduringly*.
 
 The Golden Dawn tradition describes the Queen of Wands as **"steady and resolute, generous and kind, but furious if attacked or injured."** This is the Queen's essence: she is *warm* but not soft, *welcoming* but not weak, *generous* but not naive. The Queen does not need to prove her strength by displaying aggression—but if you mistake her warmth for weakness, you will discover that the hearth-fire can become a bonfire.
 
@@ -519,6 +519,12 @@ To honor the Queen is to honor *embodied power*, to sit in your sovereignty with
 - [[Human Design]] — Manifestor type, Gate 51 (Shock/Initiation)
 
 ---
+
+## Footnotes
+
+[^1]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meanings for the Queen of Wands
+[^2]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Queen of the Thrones of Flame" for the Queen of Wands court card
+[^3]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meanings for the Queen of Wands
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

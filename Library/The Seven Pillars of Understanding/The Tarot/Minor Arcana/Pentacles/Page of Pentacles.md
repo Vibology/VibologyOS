@@ -20,11 +20,11 @@ zodiac_correspondence: Taurus, Virgo, Capricorn (earth signs)
 
 ---
 ## Traditional Symbolism
-According to Waite's *Pictorial Key to the Tarot*, the Page of Pentacles signifies **application, study, scholarship, reflection, news, messages concerning these**. Waite describes: **"A youthful figure, looking intently at the pentacle which hovers over his raised hands. He moves slowly, insensible of that which is about him."** The upright card speaks to **studious attention to the material world, practical learning, the careful examination of opportunity**.
-The Golden Dawn associates this Page with **Earth of Earth**—the elemental formula of materiality in its densest, most grounded form. This is not wealth achieved (King) or wealth manifesting (Queen) or wealth pursued (Knight)—this is **potential examined**, the seed before the growth, the student before the mastery.
+According to Waite's *Pictorial Key to the Tarot*, the Page of Pentacles signifies **application, study, scholarship, reflection, news, messages concerning these**. [^1] Waite describes: **"A youthful figure, looking intently at the pentacle which hovers over his raised hands. He moves slowly, insensible of that which is about him."** [^3] The upright card speaks to **studious attention to the material world, practical learning, the careful examination of opportunity**.
+The Golden Dawn associates this Page with **Earth of Earth** [^2]—the elemental formula of materiality in its densest, most grounded form. This is not wealth achieved (King) or wealth manifesting (Queen) or wealth pursued (Knight)—this is **potential examined**, the seed before the growth, the student before the mastery.
 The Page represents **the beginning of practical education**—apprenticeship, scholarship, vocational training. This is the moment when you recognize that the material world has laws, patterns, principles worth learning. Money is not just accumulated; it is *studied*. The body is not just inhabited; it is *understood*. Work is not just done; it is *learned*.
 This is a favorable card in questions of education, career beginnings, financial opportunity, or bodily awareness. It indicates that you are at the *threshold*—not yet skilled, but genuinely curious, willing to learn. The Page promises that patient attention to practical matters will yield fruit. Study the real; learn the craft; the mastery will come.
-When the Page of Pentacles appears **reversed**, Waite identifies meanings of **prodigality, dissipation, luxury, liberality**. The reversal suggests the studious attention becomes scattered or wasteful—the student who does not apply themselves, the apprentice who squanders opportunity, or the refusal to engage with practical realities. The Golden Dawn reversal indicates "unfavorable news; wastefulness; lack of application; inability to focus on the material."
+When the Page of Pentacles appears **reversed**, Waite identifies meanings of **prodigality, dissipation, luxury, liberality**. [^4] The reversal suggests the studious attention becomes scattered or wasteful—the student who does not apply themselves, the apprentice who squanders opportunity, or the refusal to engage with practical realities. The Golden Dawn reversal indicates "unfavorable news; wastefulness; lack of application; inability to focus on the material." [^5]
 The key teaching: **Wisdom begins with attention to what is**. The Page of Pentacles offers the path of practical learning: observe carefully, ask questions, respect the laws of matter and value, and build competence one lesson at a time.
 ---
 
@@ -183,6 +183,14 @@ The teaching: Mastery is not the end of learning but its intensification. The tr
 
 ---
 *"The student who gazes at the coin is not greedy—he is learning the grammar of value."*
+
+## Footnotes
+
+[^1]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meaning for the Page of Pentacles.
+[^2]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn Earth of Earth elemental formula for the Page of Pentacles.
+[^3]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — description of the Page of Pentacles image.
+[^4]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meaning for the Page of Pentacles.
+[^5]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn reversal interpretation for the Page of Pentacles.
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

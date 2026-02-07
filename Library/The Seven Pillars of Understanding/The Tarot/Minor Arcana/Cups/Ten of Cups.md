@@ -23,21 +23,21 @@ title: Lord of Perfected Success
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, the Ten of Cups signifies **"contentment, repose of the entire heart; the perfection of that state; also perfection of human love and friendship; if with several picture cards, a person who is taking charge of the Querent's interests; also the town, village, or country inhabited by the Querent."** When the Ten of Cups appears upright, it speaks to the moment of complete emotional fulfillment—not individual satisfaction (that was the Nine), but *shared* blessing. The family gathered. The home established. Love made manifest in the structures of daily life.
+According to Waite's *Pictorial Key to the Tarot*, the Ten of Cups signifies **"contentment, repose of the entire heart; the perfection of that state; also perfection of human love and friendship [^1]; if with several picture cards, a person who is taking charge of the Querent's interests; also the town, village, or country inhabited by the Querent."** When the Ten of Cups appears upright, it speaks to the moment of complete emotional fulfillment—not individual satisfaction (that was the Nine), but *shared* blessing. The family gathered. The home established. Love made manifest in the structures of daily life.
 
 The Rider-Waite-Smith image is among the most idyllic in the entire deck: a couple stands with arms raised toward a rainbow arc of ten cups in the sky. Their children dance nearby. A river flows peacefully through the landscape. A comfortable home rests in the background. This is not fantasy—this is *achieved reality*. The vision of happiness made concrete.
 
-The Golden Dawn titles this card the **"Lord of Perfected Success"**—and the title is precise. The Ten of Cups is not *approaching* success; it is not *hoping* for success; it is success *perfected*, completed, made permanent. This is the end of the journey—or rather, the *fruition* of the journey. What was sought has been found. What was built now stands.
+The Golden Dawn titles this card the **"Lord of Perfected Success"** [^2]—and the title is precise. The Ten of Cups is not *approaching* success; it is not *hoping* for success; it is success *perfected*, completed, made permanent. This is the end of the journey—or rather, the *fruition* of the journey. What was sought has been found. What was built now stands.
 
-The card is attributed to **Mars in Pisces**—an unusual combination that requires contemplation. Mars, the planet of will, assertion, and conflict, swims in the dissolving waters of Pisces, the sign of unity and transcendence. This is Mars *surrendered*—not defeated, but *offered up*. The warrior's will has been placed in service of love. The aggression that once divided now *protects*. Mars in Pisces is the guardian of the sacred, the defender of the family, the strength that serves gentleness.
+The card is attributed to **Mars in Pisces** [^3]—an unusual combination that requires contemplation. Mars, the planet of will, assertion, and conflict, swims in the dissolving waters of Pisces, the sign of unity and transcendence. This is Mars *surrendered*—not defeated, but *offered up*. The warrior's will has been placed in service of love. The aggression that once divided now *protects*. Mars in Pisces is the guardian of the sacred, the defender of the family, the strength that serves gentleness.
 
-The card represents **Malkuth (Kingdom) in Briah (the World of Emotion/Formation)**. Malkuth, the tenth Sephirah, is the final crystallization—spirit made fully manifest in matter, the Kingdom where all the higher forces finally *land*. In the emotional realm of Briah, Malkuth manifests as **the full materialization of emotional fulfillment**—love not as feeling only, but as *lived reality*: the home, the family, the community bound by genuine affection.
+The card represents **Malkuth (Kingdom) in Briah (the World of Emotion/Formation)**. [^4] Malkuth, the tenth Sephirah, is the final crystallization—spirit made fully manifest in matter, the Kingdom where all the higher forces finally *land*. In the emotional realm of Briah, Malkuth manifests as **the full materialization of emotional fulfillment**—love not as feeling only, but as *lived reality*: the home, the family, the community bound by genuine affection.
 
 The number **Ten** in Qabalah represents completion and also *the seed of new beginning*. The Tens across all suits mark the end of their elemental journey: perfected success (Cups), oppression (Wands), ruin (Swords), wealth (Pentacles). But every Ten also contains the Ace in potential—completion curves back into beginning. The Ten of Cups is the *full harvest* of emotional life, but it also plants seeds for the next cycle.
 
 This is the **"Happily Ever After"** card—but earned, not inherited. The couple in the card did not stumble into paradise; they *built* it, together, through years of work, conflict, reconciliation, and recommitment. The Ten of Cups is not a promise—it is a *reward*.
 
-When the Ten of Cups appears **reversed**, Waite identifies: **"Repose of the false heart, indignation, violence."** The reversal shatters the idyll—the family in conflict, the home disrupted, the vision of happiness exposed as illusion or destroyed by betrayal. The reversed Ten asks: *Was this ever real? Or were you mistaking the appearance of happiness for its substance?*
+When the Ten of Cups appears **reversed**, Waite identifies: **"Repose of the false heart, indignation, violence."** [^5] The reversal shatters the idyll—the family in conflict, the home disrupted, the vision of happiness exposed as illusion or destroyed by betrayal. The reversed Ten asks: *Was this ever real? Or were you mistaking the appearance of happiness for its substance?*
 
 The key teaching: **Love perfected is love that has survived its own imperfection.** The Ten of Cups is not innocent love—it is love that has been tested, refined, and proven. The rainbow appears *after* the storm.
 
@@ -237,6 +237,14 @@ When the Ten of Cups emerges in reading or contemplation, consider:
 ---
 
 *"Heaven is not a place you go when you die—it is what you create when you choose to love all the way down to the ground."*
+
+## Footnotes
+
+[^1]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meaning for the Ten of Cups.
+[^2]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Lord of Perfected Success" for the Ten of Cups.
+[^3]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Mars in Pisces decan attribution for the Ten of Cups.
+[^4]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Malkuth in Briah Sephirotic placement for the Ten of Cups.
+[^5]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meaning for the Ten of Cups.
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

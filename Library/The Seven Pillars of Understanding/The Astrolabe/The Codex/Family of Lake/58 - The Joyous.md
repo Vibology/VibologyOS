@@ -60,15 +60,15 @@ The alchemical image is **Circulatio**—the eternal circulation of refining, pe
 
 ### The Hexagram (I-Ching)
 
-Hexagram 58, *Duì* (The Joyous / The Lake), is one of only five hexagrams composed of the same trigram doubled—pure Lake above and below. This creates the image of joy reflecting itself, openness compounding, but also **stimulation without grounding**. Wilhelm emphasizes that true joy requires inner firmness and outer openness—the capacity to engage with delight while remaining anchored. The Nuclear Hexagram is 38 (Opposition), revealing that beneath pure joy lies necessary friction—correction emerges from recognizing what doesn't align.
+Hexagram 58, *Duì* (The Joyous / The Lake), is one of only five hexagrams composed of the same trigram doubled—pure Lake above and below.[^1] This creates the image of joy reflecting itself, openness compounding, but also **stimulation without grounding**. Wilhelm emphasizes that true joy requires inner firmness and outer openness—the capacity to engage with delight while remaining anchored. The Nuclear Hexagram is 38 (Opposition), revealing that beneath pure joy lies necessary friction—correction emerges from recognizing what doesn't align.
 
 ### The Gate (Human Design)
 
-Gate 58 in the Root provides the pressure to correct—to identify what's not working and improve it. Ra Uru Hu taught this gate as "the fuel for the love of life," the vital engagement that says "this could be better, let's make it so." When connected to Gate 18 in the Spleen, the 58-18 Channel creates *Judgment*—the pressure to correct (58) meeting the authority to challenge (18), creating the capacity to improve collective patterns. The shadow: dissatisfaction, chronic complaining, criticism without construction. The gift: vitality, the joyous pressure that drives perfection. The teaching: to love life is to engage with improving it; satisfaction without growth is stagnation.
+Gate 58 in the Root provides the pressure to correct—to identify what's not working and improve it. Ra Uru Hu taught this gate as "the fuel for the love of life," the vital engagement that says "this could be better, let's make it so.[^2]" When connected to Gate 18 in the Spleen, the 58-18 Channel creates *Judgment*—the pressure to correct (58) meeting the authority to challenge (18), creating the capacity to improve collective patterns. The shadow: dissatisfaction, chronic complaining, criticism without construction. The gift: vitality, the joyous pressure that drives perfection. The teaching: to love life is to engage with improving it; satisfaction without growth is stagnation.
 
 ### The Gene Keys
 
-- **Shadow: Dissatisfaction** — Chronic discontent; the inability to rest in what is. The Shadow manifests as the perfectionist who sees only flaws, the critic who complains without building, the restless spirit who can never enjoy because something is always wrong. This is the person whose standards are so high nothing meets them, whose love of improvement curdles into constant disappointment, whose vitality exhausts rather than enlivens. Dissatisfaction is vitality without purpose—pressure to correct disconnected from love of what's being corrected.
+- **Shadow: Dissatisfaction**[^3] — Chronic discontent; the inability to rest in what is. The Shadow manifests as the perfectionist who sees only flaws, the critic who complains without building, the restless spirit who can never enjoy because something is always wrong. This is the person whose standards are so high nothing meets them, whose love of improvement curdles into constant disappointment, whose vitality exhausts rather than enlivens. Dissatisfaction is vitality without purpose—pressure to correct disconnected from love of what's being corrected.
 
 - **Gift: Vitality** — Joyous pressure that drives collective improvement. Vitality recognizes that to love something is to want it to thrive, that correction serves evolution, that the pressure to perfect emerges from delight in life. The gift is the person whose criticism builds rather than destroys, whose standards inspire rather than shame, whose engagement with imperfection creates transformation. This is the coach who corrects with love, the designer who iterates toward beauty, the activist whose outrage fuels constructive action. Vitality is dissatisfaction transformed by purpose—the fuel that powers evolution.
 
@@ -142,6 +142,13 @@ Another Shadow trap: suppressing critical voice entirely. If correction creates 
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 58 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 58 mechanics, Root
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Dissatisfaction / Vitality / Bliss
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 58: The Joyous

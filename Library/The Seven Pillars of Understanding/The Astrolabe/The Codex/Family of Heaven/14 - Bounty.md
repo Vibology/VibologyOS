@@ -60,15 +60,15 @@ Bounty teaches that **power must serve**. Resources accumulated through skill be
 
 ### The Hexagram (I-Ching)
 
-Fire above Heaven—the image of power blazing in the sky, visible to all. The Image: *"Fire in heaven above: the image of Possession in Great Measure. Thus the superior man curbs evil and furthers good, and thereby obeys the benevolent will of heaven."* True possession is not hoarding but **mastery in service**.
+Fire above Heaven—the image of power blazing in the sky, visible to all. The Image: *"Fire in heaven above: the image of Possession in Great Measure. Thus the superior man curbs evil and furthers good, and thereby obeys the benevolent will of heaven."*[^1] True possession is not hoarding but **mastery in service**.
 
 ### The Gate (Human Design)
 
-Gate 14 resides in the Sacral Center, the motor of sustained work capacity. This is the life force to **master skills**—to develop competence through practice, discipline, and focused effort. The Individual Centering Circuit means this power serves **empowerment through being**—the example of what becomes possible when one masters a craft.
+Gate 14 resides in the Sacral Center, the motor of sustained work capacity.[^2] This is the life force to **master skills**—to develop competence through practice, discipline, and focused effort. The Individual Centering Circuit means this power serves **empowerment through being**—the example of what becomes possible when one masters a craft.
 
 ### The Gene Keys
 
-**Shadow: Compromise** — Giving up on mastery, settling for mediocrity, or depleting resources in service without sustainability. Power used poorly or not at all.
+**Shadow: Compromise**[^3] — Giving up on mastery, settling for mediocrity, or depleting resources in service without sustainability. Power used poorly or not at all.
 
 **Gift: Competence** — The capacity to master skills and manage resources efficiently. Power that empowers through demonstrated capability.
 
@@ -136,6 +136,13 @@ The conditioning pattern: "I must prove my worth through wealth" or "If I share 
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 14 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 14 mechanics, Sacral
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Compromise / Competence / Bounteousness
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 14: Possession in Great Measure

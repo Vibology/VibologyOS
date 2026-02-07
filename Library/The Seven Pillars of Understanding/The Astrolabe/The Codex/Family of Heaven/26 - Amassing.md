@@ -60,15 +60,15 @@ Amassing teaches that **history is power**. The one who remembers patterns, cycl
 
 ### The Hexagram (I-Ching)
 
-Mountain above Heaven—the image of memory restraining and refining power. The Image: *"Heaven within the mountain: the image of The Taming Power of the Great. Thus the superior man acquaints himself with many sayings of antiquity and many deeds of the past, in order to strengthen his character."* Memory makes one **wise through pattern recognition**.
+Mountain above Heaven—the image of memory restraining and refining power. The Image: *"Heaven within the mountain: the image of The Taming Power of the Great. Thus the superior man acquaints himself with many sayings of antiquity and many deeds of the past, in order to strengthen his character."*[^1] Memory makes one **wise through pattern recognition**.
 
 ### The Gate (Human Design)
 
-Gate 26 resides in the Heart (Ego) Center, the seat of willpower and material resources. This is not abstract knowledge but **memory of what sells, what works, what convinces**. The Tribal Ego Circuit uses this to ensure the tribe's material continuity. The trickster knows how to tell the right story at the right time to influence outcomes.
+Gate 26 resides in the Heart (Ego) Center, the seat of willpower and material resources.[^2] This is not abstract knowledge but **memory of what sells, what works, what convinces**. The Tribal Ego Circuit uses this to ensure the tribe's material continuity. The trickster knows how to tell the right story at the right time to influence outcomes.
 
 ### The Gene Keys
 
-**Shadow: Pride** — Arrogance about what one knows. Using memory to manipulate or deceive. Clinging to the past rigidly, refusing to adapt.
+**Shadow: Pride**[^3] — Arrogance about what one knows. Using memory to manipulate or deceive. Clinging to the past rigidly, refusing to adapt.
 
 **Gift: Artfulness** — The capacity to use memory skillfully—telling the right story, drawing on historical precedent, influencing with grace rather than force.
 
@@ -136,6 +136,13 @@ The conditioning pattern: "My version of history is the only truth" or "I can ma
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 26 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 26 mechanics, Heart (Ego)
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Pride / Artfulness / Invisibility
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 26: The Taming Power of the Great

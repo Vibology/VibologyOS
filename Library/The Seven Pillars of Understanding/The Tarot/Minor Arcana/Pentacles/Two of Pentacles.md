@@ -22,12 +22,12 @@ title: Lord of Harmonious Change
 
 ---
 ## Traditional Symbolism
-According to Waite's *Pictorial Key to the Tarot*, the Two of Pentacles signifies **recreation, amusement, diversion, news, messages in writing—as a rule, favorable notices**. When upright, the card speaks to **pleasant visits, agreeable correspondence, cheerful communication**. The figure's dance is one of joy and competence—he is not struggling, but playing, finding delight in the act of balance itself.
-The Golden Dawn titles this card the **"Lord of Harmonious Change"** and attributes it to **Jupiter in Capricorn**, the first decan of the earth sign of structure and ambition. This is the planet of expansion, optimism, and abundance (Jupiter) channeled through the sign of discipline, pragmatism, and material mastery (Capricorn). The result is **expansion with structure**—growth that does not collapse, ambition that does not overreach, abundance that is sustainable.
+According to Waite's *Pictorial Key to the Tarot*, the Two of Pentacles signifies **recreation, amusement, diversion, news, messages in writing—as a rule, favorable notices**. [^1] When upright, the card speaks to **pleasant visits, agreeable correspondence, cheerful communication**. The figure's dance is one of joy and competence—he is not struggling, but playing, finding delight in the act of balance itself.
+The Golden Dawn titles this card the **"Lord of Harmonious Change"** [^2] and attributes it to **Jupiter in Capricorn** [^3], the first decan of the earth sign of structure and ambition. This is the planet of expansion, optimism, and abundance (Jupiter) channeled through the sign of discipline, pragmatism, and material mastery (Capricorn). The result is **expansion with structure**—growth that does not collapse, ambition that does not overreach, abundance that is sustainable.
 The card represents **dynamic equilibrium**—the recognition that in the material world, balance is never static. Life moves; resources flow; circumstances shift. The Two of Pentacles does not promise stability through rigidity, but rather *stability through flexibility*. This is the bamboo that bends with the wind, the sailor who adjusts the sails to meet the changing tides, the dancer who finds center through constant motion.
 This is a fundamentally auspicious card in questions of practical management—whether financial, professional, or domestic. It indicates that you have the capacity to handle multiple demands simultaneously, that you can adapt to shifting circumstances without losing your footing. However, the card does not promise *ease*. The juggling requires skill, attention, and energy. The dance is exhilarating—but you cannot stop moving.
-When the Two of Pentacles appears **reversed**, Waite identifies meanings of **enforced gaiety, simulated enjoyment, literal sense, handwriting, composition, letters of exchange**. The reversal suggests that the cheerfulness has become forced, that the juggling is no longer playful but burdensome, that the balance is precarious or false.
-The Golden Dawn reversal indicates "trouble through change; instability; loss through fluctuation; difficulty in maintaining balance." The energy of harmonious change becomes *chaotic change*—the juggler drops the balls, the ships capsize, the dance becomes a stumble. The reversed Two can also indicate avoidance: the person who stays in constant motion to avoid facing what is stationary, who juggles endlessly to avoid committing to one thing.
+When the Two of Pentacles appears **reversed**, Waite identifies meanings of **enforced gaiety, simulated enjoyment, literal sense, handwriting, composition, letters of exchange**. [^4] The reversal suggests that the cheerfulness has become forced, that the juggling is no longer playful but burdensome, that the balance is precarious or false.
+The Golden Dawn reversal indicates "trouble through change; instability; loss through fluctuation; difficulty in maintaining balance." [^5] The energy of harmonious change becomes *chaotic change*—the juggler drops the balls, the ships capsize, the dance becomes a stumble. The reversed Two can also indicate avoidance: the person who stays in constant motion to avoid facing what is stationary, who juggles endlessly to avoid committing to one thing.
 The key teaching: **Balance in the material world is an active practice, not a passive state**. The Two of Pentacles offers the gift of adaptability—but you must *use* that gift. If you let the rhythm falter, the balance fails. If you try to hold still in a world that moves, you will fall.
 ---
 
@@ -318,6 +318,14 @@ The question the Two asks is not "How can I make everything stop moving?" but "H
 
 ---
 *"Balance is not found in stillness—it is found in the skillful dance with change."*
+
+## Footnotes
+
+[^1]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meaning for the Two of Pentacles.
+[^2]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Lord of Harmonious Change" for the Two of Pentacles.
+[^3]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Jupiter in Capricorn decan attribution for the Two of Pentacles.
+[^4]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meaning for the Two of Pentacles.
+[^5]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn reversal interpretation for the Two of Pentacles.
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

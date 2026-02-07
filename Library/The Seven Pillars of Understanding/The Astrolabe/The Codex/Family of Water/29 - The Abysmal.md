@@ -60,15 +60,15 @@ The alchemical image is *Solutio*—dissolution in the waters of the unconscious
 
 ### The Hexagram (I-Ching)
 
-Hexagram 29, *K'an* (The Abysmal), is one of the eight doubled hexagrams—a pure statement of the trigram's essence. Wilhelm's Judgment: "The Abysmal repeated. If you are sincere, you have success in your heart, and whatever you do succeeds." The paradox is complete: success comes *through* the abyss, not around it. The Image describes water flowing on uninterruptedly, filling every hollow before advancing—the teaching of relentless persistence. Danger exists, but the one who maintains sincerity of heart passes through. The yang line in the center (fourth position) represents the seed of light within the darkness—this is not blind stumbling but conscious engagement with depth.
+Hexagram 29, *K'an* (The Abysmal), is one of the eight doubled hexagrams—a pure statement of the trigram's essence.[^1] Wilhelm's Judgment: "The Abysmal repeated. If you are sincere, you have success in your heart, and whatever you do succeeds." The paradox is complete: success comes *through* the abyss, not around it. The Image describes water flowing on uninterruptedly, filling every hollow before advancing—the teaching of relentless persistence. Danger exists, but the one who maintains sincerity of heart passes through. The yang line in the center (fourth position) represents the seed of light within the darkness—this is not blind stumbling but conscious engagement with depth.
 
 ### The Gate (Human Design)
 
-Gate 29 in the Sacral Center carries what Ra Uru Hu called "the frequency of commitment to experience." This is not selective yes—choosing only pleasant experiences—but a Sacral response that says yes to depth even when difficulty is guaranteed. The teaching: you discover who you are through what you're willing to commit to fully. Gate 29 is the long-term relationship that stays through crisis, the spiritual path that continues through the dark night, the creative work that persists through years of obscurity. When connected to Gate 46 in the G Center (Channel of Discovery), Sacral commitment becomes the vehicle for discovering life direction. The challenge: the Sacral says yes *before* knowing the outcome; this requires trust in the response itself.
+Gate 29 in the Sacral Center carries what Ra Uru Hu called "the frequency of commitment to experience.[^2]" This is not selective yes—choosing only pleasant experiences—but a Sacral response that says yes to depth even when difficulty is guaranteed. The teaching: you discover who you are through what you're willing to commit to fully. Gate 29 is the long-term relationship that stays through crisis, the spiritual path that continues through the dark night, the creative work that persists through years of obscurity. When connected to Gate 46 in the G Center (Channel of Discovery), Sacral commitment becomes the vehicle for discovering life direction. The challenge: the Sacral says yes *before* knowing the outcome; this requires trust in the response itself.
 
 ### The Gene Keys
 
-- **Shadow: Half-Heartedness** — The inability to commit fully; always keeping one foot out the door; the hedged bet that protects ego but prevents depth. Half-heartedness manifests as serial quitting, diluted engagement, or going through motions without presence. The underlying fear: that total commitment means vulnerability to total loss.
+- **Shadow: Half-Heartedness**[^3] — The inability to commit fully; always keeping one foot out the door; the hedged bet that protects ego but prevents depth. Half-heartedness manifests as serial quitting, diluted engagement, or going through motions without presence. The underlying fear: that total commitment means vulnerability to total loss.
 
 - **Gift: Commitment** — The capacity to say yes fully and remain present through difficulty. Commitment doesn't guarantee outcomes but transforms through depth of engagement. This is the artist who finishes the difficult piece, the partner who stays through the shadow work, the seeker who continues the practice in spiritual dryness. Commitment creates the container for discovery.
 
@@ -141,6 +141,13 @@ Another Shadow trap: confusing commitment with stubbornness. Staying in situatio
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 29 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 29 mechanics, Sacral
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Half-Heartedness / Commitment / Devotion
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 29: The Abysmal (Water)

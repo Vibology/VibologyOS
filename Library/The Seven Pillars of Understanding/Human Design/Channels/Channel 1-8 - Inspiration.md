@@ -19,13 +19,13 @@ source_verified: Esoteric Grimoire
 
 ---
 ## Ra's Definition
-According to Ra Uru Hu, **Channel 1-8** is the bridge between the primal creative force (Gate 1 in the G Center) and the capacity to contribute that creativity to the collective (Gate 8 in the Throat). This is not a channel of teaching or leadership in the Collective sense—it is the **Individual capacity to inspire through unique creative expression**.
+According to Ra Uru Hu, **Channel 1-8** is the bridge between the primal creative force (Gate 1 in the G Center) and the capacity to contribute that creativity to the collective (Gate 8 in the Throat). This is not a channel of teaching or leadership in the Collective sense—it is the **Individual capacity to inspire through unique creative expression**[^1].
 
 Ra described this channel as the archetype of the **artist, the innovator, the creative genius** who must be heard. The individual with Channel 1-8 does not seek to conform to collective creative standards; they bring forth what has never been expressed before, and in doing so, they **empower others** through the sheer magnetic force of their authenticity.
 
 **"Channel 1-8 is about contribution. It says: 'I know I can contribute something unique.' But it's not about teaching—it's about being an example. The artist who paints not to instruct, but because the painting must exist."** — Ra Uru Hu
 
-This channel is **Projected**, meaning it requires recognition and invitation to be properly received. The creative contribution of the 1-8 individual is profound, but it can only flow when others are ready to see and honor it.
+This channel is **Projected**[^2], meaning it requires recognition and invitation to be properly received. The creative contribution of the 1-8 individual is profound, but it can only flow when others are ready to see and honor it.
 
 ---
 ## Core Correspondences Table
@@ -35,7 +35,7 @@ This channel is **Projected**, meaning it requires recognition and invitation to
 | **Channel** | 1-8 (Inspiration) |
 | **Gates** | Gate 1 (The Creative) ↔ Gate 8 (Holding Together) |
 | **Centers** | G Center (Identity, Direction) ↔ Throat (Manifestation, Expression) |
-| **Circuitry** | Individual - Knowing Circuit (Mutation, Empowerment) |
+| **Circuitry** | Individual - Knowing Circuit (Mutation, Empowerment)[^3] |
 | **Type** | Projected (Requires recognition/invitation) |
 | **Keynote** | Creative Role Model - "I know I can contribute" |
 | **I-Ching Hexagrams** | Hexagram 1 (The Creative) + Hexagram 8 (Holding Together) |
@@ -72,9 +72,9 @@ When two people come together with complementary gates, the channel activates in
 
 **G Center (Identity/Direction) ↔ Throat (Manifestation/Expression)**
 
-The G Center is the **biological seat of identity**—associated with the liver, the magnetic monopole (the orientation mechanism), and the sense of "I am" in space. It governs direction, love, and the capacity to know oneself.
+The G Center is the **biological seat of identity**—associated with the liver, the magnetic monopole (the orientation mechanism), and the sense of "I am" in space[^4]. It governs direction, love, and the capacity to know oneself.
 
-The Throat is the **manifestation center**—associated with the thyroid and parathyroid glands, metabolism, and the transformation of internal energy into external expression (speech, action, creation).
+The Throat is the **manifestation center**—associated with the thyroid and parathyroid glands, metabolism, and the transformation of internal energy into external expression (speech, action, creation)[^5].
 
 #### Biological Flow
 
@@ -384,6 +384,14 @@ This is the melancholy of the Individual: **to be oneself is to be alone**. But 
 - The 7-Year Deconditioning Cycle — The process of returning to authentic design
 - Electromagnetic Completion — How channels complete in relationships
 - Individual Empowerment vs. Collective Leadership — Distinguishing roles
+
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 1-8 as Individual Knowing Circuit channel for creative contribution
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 1-8 classified as a Projected channel (G Center to Throat, no motor connection)
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 1-8 placement within the Individual Knowing Circuit
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — G Center biological associations: liver, magnetic monopole, identity orientation
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Throat Center biological associations: thyroid, parathyroid, metabolic expression
 
 ## Sources
 **Primary Source:**

@@ -23,7 +23,7 @@ The Joker represents the archetypal **agent of chaos**—the wild archer whose h
 
 The Joker is not random but **purposefully chaotic**—the one who creates crisis to force change, who hungers for experience so intensely that stability becomes intolerable. "Why so serious?" is not joke but philosophical challenge: your order is pretense, your civilization is fragile, your progress requires my disruption.
 
-In Jung's framework, The Joker corresponds to the **Trickster archetype**—the boundary-crosser who violates taboos, inverts hierarchies, and forces consciousness to confront what it has excluded. The Trickster is both destroyer and creator; by breaking what has ossified, new possibilities emerge. Jung saw the Trickster as necessary medicine—the psyche's own corrective when order becomes tyranny.
+In Jung's framework, The Joker corresponds to the **Trickster archetype**—the boundary-crosser who violates taboos, inverts hierarchies, and forces consciousness to confront what it has excluded.[^1] The Trickster is both destroyer and creator; by breaking what has ossified, new possibilities emerge. Jung saw the Trickster as necessary medicine—the psyche's own corrective when order becomes tyranny.
 
 The Joker appears when **change demands chaos**, when progress requires destroying what no longer serves, when the question becomes: "What established order needs to burn so something new can rise?" This is the archetype of necessary destruction.
 
@@ -56,9 +56,9 @@ The film's philosophical depth: The Joker as **necessary disruptor** who exposes
 
 ### The Trickster Archetype
 
-The Trickster appears in mythology worldwide: Loki (Norse), Coyote (Native American), Anansi (West African), Hermes (Greek). Common threads: **boundary-crossing, rule-breaking, chaos-creating**—and through this disruption, new possibilities emerge. The Trickster steals fire, tricks the gods, violates taboos—and culture evolves because of it.
+The Trickster appears in mythology worldwide: Loki (Norse), Coyote (Native American), Anansi (West African), Hermes (Greek).[^2] Common threads: **boundary-crossing, rule-breaking, chaos-creating**—and through this disruption, new possibilities emerge. The Trickster steals fire, tricks the gods, violates taboos—and culture evolves because of it.
 
-Jung identified The Trickster as appearing when consciousness has become too rigid, too certain, too identified with order. The psyche produces the Trickster as **compensatory chaos**—medicine against stagnation. Sometimes the most loving act is the fire that burns what should have died long ago.
+Jung identified The Trickster as appearing when consciousness has become too rigid, too certain, too identified with order.[^3] The psyche produces the Trickster as **compensatory chaos**—medicine against stagnation. Sometimes the most loving act is the fire that burns what should have died long ago.
 
 > *Vibology Synthesis: The Joker appears when order has ossified, when progress demands disruption. Your hunger for new experience is the signal. Challenge pretense. Force evolution through crisis. This is not destruction for its own sake—this is necessary chaos serving transformation.*
 
@@ -94,6 +94,13 @@ Jung identified The Trickster as appearing when consciousness has become too rig
 - [[The Joker|The Trickster]] — Jungian/mythological chaos-bringer
 - [[Jupiter ♃]] — Planetary ruler of Sagittarius; expansion and excess
 - [[Tests, Allies, and Enemies]] — Where The Joker appears
+
+---
+## Footnotes
+
+[^1]: Jung, *The Archetypes and the Collective Unconscious* (CW 9i, Princeton, 1969) — On the Psychology of the Trickster-Figure (§456-488)
+[^2]: Radin, *The Trickster* (Schocken Books, 1972) — cross-cultural Trickster cycle in mythology (Introduction)
+[^3]: Hyde, *Trickster Makes This World* (Farrar, Straus and Giroux, 1998) — the Trickster as agent of cultural change (Chapter 1)
 
 ---
 ## Sources

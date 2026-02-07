@@ -23,7 +23,7 @@ The Idol represents the archetypal **masculine spirit channeled through the femi
 
 The Idol is not borrowed power but **internalized masculine force**—the one who wields assertion as naturally as breath, who uses strategic thinking as tool, who achieves total external authority through pattern mastery. Madonna doesn't ask permission; she articulates direction and the world aligns. "I lead" is not arrogance but recognition of earned authority.
 
-In Jung's framework, The Idol is the **unconscious masculine in the female psyche**—the spirit-image (Animus) that provides focus, direction, and the capacity for objective thought and decisive action. Where The Anima is feeling and soul, The Animus is thinking and spirit. Jung identified developmental stages of the Animus: from physical power (the athlete), to initiative and planning (the man of action), to the word (the professor), to meaning (the wise guide). Madonna demonstrates the fully developed Animus—strategic action wedded to articulated vision.
+In Jung's framework, The Idol is the **unconscious masculine in the female psyche**—the spirit-image (Animus) that provides focus, direction, and the capacity for objective thought and decisive action.[^1] Where The Anima is feeling and soul, The Animus is thinking and spirit. Jung identified developmental stages of the Animus: from physical power (the athlete), to initiative and planning (the man of action), to the word (the professor), to meaning (the wise guide). Madonna demonstrates the fully developed Animus—strategic action wedded to articulated vision.
 
 The Idol appears when **leadership demands strategic assertion**, when influence requires pattern recognition, when the question becomes: "What direction am I being called to articulate, and will I claim the authority to lead?" This is the archetype of earned authority.
 
@@ -56,9 +56,9 @@ The masculine force channeled through feminine form: Madonna wielding assertion,
 
 ### The Animus in Jung
 
-Jung and Emma Jung identified The Animus as the spirit-image that provides the female psyche with **capacity for focus, assertion, and objective analysis**. When integrated, The Animus grants access to strategic thinking, leadership capacity, and the ability to manifest vision in the external world. When projected, he becomes the idealized masculine figure onto whom all power is displaced.
+Jung and Emma Jung identified The Animus as the spirit-image that provides the female psyche with **capacity for focus, assertion, and objective analysis**.[^2] When integrated, The Animus grants access to strategic thinking, leadership capacity, and the ability to manifest vision in the external world. When projected, he becomes the idealized masculine figure onto whom all power is displaced.
 
-The developmental stages: power → action → word → wisdom. Madonna demonstrates full development—not just physical power or strategic action but **articulated vision serving cultural evolution**. Her influence is earned through pattern recognition communicated through art.
+The developmental stages: power → action → word → wisdom.[^3] Madonna demonstrates full development—not just physical power or strategic action but **articulated vision serving cultural evolution**. Her influence is earned through pattern recognition communicated through art.
 
 > *Vibology Synthesis: The Idol appears when leadership requires pattern recognition and strategic assertion. You see direction others miss. Articulate it. Your authority is earned through demonstrated mastery. Claim it without apology.*
 
@@ -94,6 +94,13 @@ The developmental stages: power → action → word → wisdom. Madonna demonstr
 - [[The Animus]] — Jungian archetypal framework (Personal Mythos)
 - [[Saturn ♄]] — Planetary ruler of Capricorn; structure and discipline
 - [[Encounter with Anima-Animus]] — Integration stage in individuation
+
+---
+## Footnotes
+
+[^1]: Jung, *Two Essays on Analytical Psychology* (CW 7, Princeton, 1966) — The Animus as spirit-image in the female psyche (§296-340)
+[^2]: Jung, Emma, *Animus and Anima* (Spring Publications, 1957) — The Animus as masculine principle providing focus and assertion (Part II)
+[^3]: Jung, *The Archetypes and the Collective Unconscious* (CW 9i, Princeton, 1969) — Animus developmental stages from power to wisdom (§20-42)
 
 ---
 ## Sources

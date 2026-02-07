@@ -16,9 +16,9 @@ verification_notes: "Variables mechanics verified against Grimoire. Advanced lay
 
 ## Introduction: The Vehicle's Natural Habitat
 
-**Environment** is the second of the Four [[Variables]]—the correct **physical surroundings** in which the body thrives, eliminates resistance, and attracts the correct people (allies). It is calculated from the **Color** of the **Design Nodes** (the unconscious trajectory) and becomes critical after the **Saturn cycle** (age 28-30).
+**Environment** is the second of the Four [[Variables]]—the correct **physical surroundings** in which the body thrives, eliminates resistance, and attracts the correct people (allies).[^1] It is calculated from the **Color** of the **Design Nodes** (the unconscious trajectory) and becomes critical after the **Saturn cycle** (age 28-30).
 
-**The Central Principle:** Environment is **not** a preference, aesthetic choice, or lifestyle aspiration. It is a **mechanical requirement** encoded in the Design Crystal at birth.
+**The Central Principle:** Environment is **not** a preference, aesthetic choice, or lifestyle aspiration. It is a **mechanical requirement** encoded in the Design Crystal at birth.[^2]
 
 Being in the **wrong Environment** creates friction, exhaustion, premature aging, and attracts the wrong people—those who drain or distract rather than support. Being in the **correct Environment** feels like "home"—effortless, nourishing, and magnetically aligned.
 
@@ -50,7 +50,7 @@ In astrology, the **Lunar Nodes** (North Node and South Node) represent the **ka
 
 ### Design Nodes vs. Personality Nodes
 
-**Design Nodes (Environment):** The **unconscious** trajectory—where the **body** is designed to be. Calculated from the Design (88° before birth) Nodes.
+**Design Nodes (Environment):** The **unconscious** trajectory—where the **body** is designed to be. Calculated from the Design (88° before birth) Nodes.[^3]
 
 **Personality Nodes (Perspective):** The **conscious** trajectory—how the **mind** is designed to see. Calculated from the Personality (birth) Nodes.
 
@@ -298,7 +298,7 @@ Landscape Environments are rooted in **natural, broader, or transitional** space
 
 ### Sequence: Environment After Determination
 
-Environment becomes relevant **after** the body has been cleaned and differentiated through correct [[Determination]] (dietary regimen).
+Environment becomes relevant **after** the body has been cleaned and differentiated through correct [[Determination]] (dietary regimen).[^5]
 
 **Why?** A clouded, undifferentiated brain cannot accurately perceive whether it's in the correct Environment. The body might feel uncomfortable anywhere because the internal system is misaligned. Only after PHS (Primary Health System) practice does the body gain the clarity to recognize: "This place feels right" or "This place feels wrong."
 
@@ -351,7 +351,7 @@ At the **Tonal level**, Environment (like all Variables) is divided into **Left 
 
 ### The Correct People Arrive
 
-One of the most profound claims of Environment teaching: **Being in the correct Environment ensures the correct people enter your life.**
+One of the most profound claims of Environment teaching: **Being in the correct Environment ensures the correct people enter your life.**[^4]
 
 **Mechanic:** Your Environment acts as a **filter**. When you're in the wrong Environment, you attract people who resonate with that wrong frequency—draining, distracting, or misaligned relationships. When you're in the correct Environment, you **magnetically attract** allies, partners, and collaborators who support your differentiation.
 
@@ -499,6 +499,14 @@ After age 30, if chronic exhaustion or "stuckness" persists, consider **relocati
 - [[Inner Authority and Strategy]] - The body's intelligence selecting correct space
 - [[The Blueprint - 444 Architecture]] - The 64-fold substrate
 
+
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Environment as the second of the Four Variables, governing correct physical surroundings
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Environment as a mechanical requirement encoded in the Design Crystal, not a preference or aesthetic choice
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Design Nodes calculated from the unconscious imprint (88 degrees before birth) determining the body's correct Environment
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Correct Environment acts as a filter ensuring the correct people (allies) enter your life
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Environment becomes relevant after Determination (dietary regimen) has differentiated the body
 
 ## Sources
 

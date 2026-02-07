@@ -13,15 +13,15 @@ category: Practice
 ---
 ## Core Teaching
 
-**Kenosis** (Greek: κένωσις, from *kenosein*, "to empty oneself") is the foundational practice of [[The Magdalene Path]]—the discipline of **letting go** of egoic grasping to create space for the Divine. Bourgeault defines kenosis not as ascetic renunciation or pushing away, but as "nonclinging" or "letting be"—the willingness to let things come and go without grabbing on (Bourgeault, 114; Ch. 9). It functions as a tool to cleanse the lens of perception rather than merely a moral virtue.
+**Kenosis** (Greek: κένωσις, from *kenosein*, "to empty oneself") is the foundational practice of [[The Magdalene Path]]—the discipline of **letting go** of egoic grasping to create space for the Divine. Bourgeault defines kenosis not as ascetic renunciation or pushing away, but as "nonclinging" or "letting be"—the willingness to let things come and go without grabbing on[^1] (Bourgeault, 114; Ch. 9). It functions as a tool to cleanse the lens of perception rather than merely a moral virtue.
 
-**The Paradox:** By emptying, you become full. By releasing control, you gain freedom. By dying to the false self, you are born into the true self. While Buddhism responds to "all form is emptiness" with nonattachment, Jesus's vision (as Bourgeault interprets it) is that letting go leads to *fullness* (*pleroma*) (Bourgeault, Ch. 9).
+**The Paradox:** By emptying, you become full. By releasing control, you gain freedom. By dying to the false self, you are born into the true self. While Buddhism responds to "all form is emptiness" with nonattachment, Jesus's vision (as Bourgeault interprets it) is that letting go leads to *fullness* (*pleroma*)[^2] (Bourgeault, Ch. 9).
 
 **Biblical Foundation (Philippians 2:5-8):**
 
 > "Let the same mind be in you that was in Christ Jesus, who, though he was in the form of God, did not regard equality with God as something to be exploited, but emptied himself [ἐκένωσεν - ekenosen], taking the form of a slave, being born in human likeness."
 
-**The Teaching:** Bourgeault identifies this passage as the "touchstone" of Jesus's path—his divine selfhood realized not through acquiring power, but through voluntary divestment (Bourgeault, Ch. 9). [[The Magdalene Path]] invites the same movement: emptying the egoic self to receive the Divine.
+**The Teaching:** Bourgeault identifies this passage as the "touchstone" of Jesus's path[^3]—his divine selfhood realized not through acquiring power, but through voluntary divestment (Bourgeault, Ch. 9). [[The Magdalene Path]] invites the same movement: emptying the egoic self to receive the Divine.
 
 ---
 ## Gospel Foundation
@@ -30,7 +30,7 @@ category: Practice
 
 ### Western Mysticism: The Dark Night
 
-Bourgeault references the "dark night of the spirit" when discussing the Bridal Chamber mystery in the Gospel of Philip (Bourgeault, Ch. 12). **Saint John of the Cross** (1542-1591) describes the **Dark Night of the Soul**—the purification process where God strips away all attachments, consolations, and egoic supports.
+Bourgeault references the "dark night of the spirit" when discussing the Bridal Chamber mystery in the Gospel of Philip (Bourgeault, Ch. 12). **Saint John of the Cross** (1542-1591) describes the **Dark Night of the Soul**[^4]—the purification process where God strips away all attachments, consolations, and egoic supports.
 
 **The Two Nights:**
 1. **Dark Night of the Senses** - Releasing attachment to pleasure, comfort, material things
@@ -104,7 +104,7 @@ Grasping creates **contraction**—the field of awareness narrows, possibilities
 
 ### The Seven Demons: What Must Be Emptied
 
-According to [[Mary Magdalene - Apostle and Beloved|Mary Magdalene's]] story (Luke 8:2), she had **seven demons** cast out. Esoterically, these correspond to the **Seven Powers of Wrath** encountered in the Gospel of Mary, where the soul faces the fourth power (Wrath) manifesting in seven forms (Gospel of Mary, Berlin Codex). These represent the **False Self System**—the egoic structures that must be emptied during [[The Eight Boughs of Ascent|the Lower Astral]]:
+According to [[Mary Magdalene - Apostle and Beloved|Mary Magdalene's]] story (Luke 8:2), she had **seven demons** cast out. Esoterically, these correspond to the **Seven Powers of Wrath** encountered in the Gospel of Mary[^5], where the soul faces the fourth power (Wrath) manifesting in seven forms (Gospel of Mary, Berlin Codex). These represent the **False Self System**—the egoic structures that must be emptied during [[The Eight Boughs of Ascent|the Lower Astral]]:
 
 **1. Craving (Attachment)**
 - **What It Is:** Insatiable wanting—"If I just get X, then I'll be happy"
@@ -344,6 +344,15 @@ The **[[Seraphim]]** (Burning Ones) represent the fire that **consumes**—kenos
 
 ---
 
+## Footnotes
+
+[^1]: Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010), p. 114, Ch. 9 — kenosis defined as "nonclinging" or "letting be," not ascetic renunciation
+[^2]: Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010), Ch. 9 — distinction between Buddhist emptiness (nonattachment) and Jesus's vision of kenosis leading to fullness (pleroma)
+[^3]: Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010), Ch. 9 — Philippians 2:5-8 identified as the "touchstone" of Jesus's kenotic path
+[^4]: Huxley, *The Perennial Philosophy* (Harper & Brothers, 1945) — St. John of the Cross on the "dark night" and the "prayer of simple regard"; see also Bourgeault, Ch. 12
+[^5]: Gospel of Mary, Berlin Gnostic Codex (BG 8502,1), 2nd century CE — the Seven Powers of Wrath as the False Self System that the ascending soul must confront
+
+---
 ## Sources
 
 Bourgeault, Cynthia. *The Meaning of Mary Magdalene: Discovering the Woman at the Heart of Christianity*. Boston: Shambhala, 2010.

@@ -22,11 +22,11 @@ title: Lord of Success Unfulfilled
 
 ---
 ## Traditional Symbolism
-According to Waite's *Pictorial Key to the Tarot*, the Seven of Pentacles signifies **ingenuity, growth, altercations respecting money**. More specifically, Waite notes: **"A young man, leaning on his staff, looks intently at seven pentacles attached to a clump of greenery on his right; one would say that these were his treasures and that his heart was there."** The upright card speaks to **modest gain after labor, patient cultivation, assessment of progress**—but also the anxiety of wondering whether the effort will prove worthwhile.
-The Golden Dawn titles this card the **"Lord of Success Unfulfilled"** and attributes it to **Saturn in Taurus**, the third decan of the fixed earth sign. This is the planet of discipline, limitation, and time (Saturn) manifesting through the sign of material growth, patient accumulation, and sensory fruition (Taurus). The result is **delayed success**—the harvest is visible, the work is nearly complete, but the *fulfillment* is not yet arrived. You can see the fruit on the tree, but it is not yet ripe.
+According to Waite's *Pictorial Key to the Tarot*, the Seven of Pentacles signifies **ingenuity, growth, altercations respecting money**. [^1] More specifically, Waite notes: **"A young man, leaning on his staff, looks intently at seven pentacles attached to a clump of greenery on his right; one would say that these were his treasures and that his heart was there."** The upright card speaks to **modest gain after labor, patient cultivation, assessment of progress**—but also the anxiety of wondering whether the effort will prove worthwhile.
+The Golden Dawn titles this card the **"Lord of Success Unfulfilled"** [^2] and attributes it to **Saturn in Taurus** [^3], the third decan of the fixed earth sign. This is the planet of discipline, limitation, and time (Saturn) manifesting through the sign of material growth, patient accumulation, and sensory fruition (Taurus). The result is **delayed success**—the harvest is visible, the work is nearly complete, but the *fulfillment* is not yet arrived. You can see the fruit on the tree, but it is not yet ripe.
 The card represents **the pause between effort and reward**—the liminal moment when you have invested significant time, energy, and resources, and now you must *wait* for the results to mature. The Seven of Pentacles does not promise failure, but it does not promise immediate success either. It promises *potential*—"almost there," "so close," "just a little longer." This is simultaneously hopeful and frustrating.
 This is a crucial card in questions of long-term projects, investments, career development, or any endeavor that requires sustained effort over time. It indicates that you are *in the middle*—past the initial excitement (Ace through Three), past the midpoint crisis (Five), but not yet at the completion (Ten). The work is 70-80% done. The results are *visible* but not yet *harvestable*. The question is: will you have the patience to see it through?
-When the Seven of Pentacles appears **reversed**, Waite identifies meanings of **anxiety about money, imprudence in speculation, loss through impatience**. The reversal can indicate several dynamics: you abandon the project *just* before success (premature quitting), you harvest too early (impatience destroying potential), or you become paralyzed by assessment (overthinking prevents action). The Golden Dawn reversal suggests "disappointment in gain; impatience leading to ruin; effort wasted through premature withdrawal."
+When the Seven of Pentacles appears **reversed**, Waite identifies meanings of **anxiety about money, imprudence in speculation, loss through impatience**. [^4] The reversal can indicate several dynamics: you abandon the project *just* before success (premature quitting), you harvest too early (impatience destroying potential), or you become paralyzed by assessment (overthinking prevents action). The Golden Dawn reversal suggests "disappointment in gain; impatience leading to ruin; effort wasted through premature withdrawal." [^5]
 The key teaching: **Most projects are abandoned in the final stretch**. The Seven of Pentacles is the test of *perseverance*—can you endure the space between planting and harvest? Can you trust that growth is happening even when you cannot see it accelerating? Can you resist the temptation to pull up the roots to check if they're growing?
 ---
 
@@ -314,6 +314,14 @@ The Seven asks: **Can you be patient without being passive? Can you trust withou
 
 ---
 *"The harvest comes not when you will it, but when the season is ripe."*
+
+## Footnotes
+
+[^1]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meaning for the Seven of Pentacles.
+[^2]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Lord of Success Unfulfilled" for the Seven of Pentacles.
+[^3]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Saturn in Taurus decan attribution for the Seven of Pentacles.
+[^4]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meaning for the Seven of Pentacles.
+[^5]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn reversal interpretation for the Seven of Pentacles.
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

@@ -12,7 +12,7 @@ verified: true
 # Wait for the Invitation: The Projector's Strategy
 
 ## Ra's Definition
-**Wait for the Invitation** is the [[Projector]]'s strategy for accessing recognition and empowerment. The Projector's penetrating aura reads others with surgical precision—but without invitation, this penetration feels invasive. Waiting for the invitation ensures that the Projector's gifts are received, valued, and properly resourced.
+**Wait for the Invitation** is the [[Projector]]'s strategy for accessing recognition and empowerment. The Projector's penetrating aura reads others with surgical precision[^1]—but without invitation, this penetration feels invasive. Waiting for the invitation ensures that the Projector's gifts are received, valued, and properly resourced.
 
 The Projector is not designed to work in the sustainable way Generators do, nor to initiate like Manifestors. They are designed to **guide**, **direct**, and **manage** energy—but only when formally invited to do so. Without invitation, their wisdom falls on deaf ears or worse, creates resistance and bitterness.
 
@@ -20,7 +20,7 @@ The Projector is not designed to work in the sustainable way Generators do, nor 
 
 ## The Mechanics: Recognition and Empowerment
 
-The Projector's aura is **focused and penetrating**—it naturally reads the other, seeing into their center with laser-like clarity. This is the Projector's gift: they can see what others cannot see about themselves, identify inefficiencies, recognize potential, and guide toward correct use of energy.
+The Projector's aura is **focused and penetrating**[^2]—it naturally reads the other, seeing into their center with laser-like clarity. This is the Projector's gift: they can see what others cannot see about themselves, identify inefficiencies, recognize potential, and guide toward correct use of energy.
 
 ### Why Invitation Works
 
@@ -71,7 +71,7 @@ Examples of formal invitations:
 
 ## The Domains That Require Invitation
 
-Projectors do not need invitation for everything. **Casual conversation, small decisions, and daily interactions** do not require formal recognition.
+Projectors do not need invitation for everything. **Casual conversation, small decisions, and daily interactions** do not require formal recognition.[^5]
 
 Invitation is required for the **big arenas**:
 - **Career/Work** — Jobs, roles, positions, projects
@@ -91,7 +91,7 @@ Projectors who wait for invitation experience:
 - **Success as confirmation** — The Signature emerges when gifts are valued
 - **Sustainable contribution** — Energy borrowed from others used correctly
 
-The body knows when invitation has been bypassed. **Bitterness** arises—the Projector's Not-Self Theme—signaling that they have offered guidance without invitation, or accepted an invitation that lacked true recognition.
+The body knows when invitation has been bypassed. **Bitterness** arises—the Projector's Not-Self Theme[^4]—signaling that they have offered guidance without invitation, or accepted an invitation that lacked true recognition.
 
 ---
 
@@ -118,7 +118,7 @@ Not every invitation is correct. Waiting for invitation does not mean accepting 
 
 ## Compatible Types
 
-**Wait for the Invitation** is exclusive to the **[[Projector]]** (~20% of the population).
+**Wait for the Invitation** is exclusive to the **[[Projector]]** (~20% of the population).[^3]
 
 No other Type has the focused, penetrating aura that requires invitation for correct engagement. Generators respond, Manifestors inform, Reflectors wait a lunar cycle—only the Projector waits for the formal invitation that grants access and recognition.
 
@@ -225,6 +225,14 @@ Being seen is prerequisite to invitation. Projectors can position themselves whe
 ---
 
 *Wait for the Invitation is the Projector's sacred discipline—the recognition that their penetrating gift requires formal opening to be received. In a world that values initiative, waiting feels like weakness. But the Projector's power is not in pushing but in precision: when they are truly invited, their guidance transforms systems, relationships, and lives. The invitation is not limitation but liberation—it ensures the Projector's wisdom lands where it is valued, empowered, and can create genuine success. The bitter Projector has forgotten this; the successful Projector has learned it through patient practice.*
+
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Projector aura described as penetrating, reading others with precision
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Projector aura as focused and penetrating
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Projectors comprise approximately 20% of the population
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Bitterness as the Projector's Not-Self Theme
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Invitation required only for major life arenas (career, love, major decisions), not daily interactions
 
 ## Sources
 

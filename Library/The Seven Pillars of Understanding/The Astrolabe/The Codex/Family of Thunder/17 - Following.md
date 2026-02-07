@@ -58,15 +58,15 @@ Following carries the frequency of **far-sightedness through humble observation*
 
 ### The Hexagram (I-Ching)
 
-Lake above Thunder—the image of calm following arousal, stillness after movement. Wilhelm's Judgment: *"Following has supreme success. Perseverance furthers. No blame."* True following creates the foundation for leadership—when you have served the pattern, you understand it well enough to organize it.
+Lake above Thunder—the image of calm following arousal, stillness after movement. Wilhelm's Judgment: *"Following has supreme success. Perseverance furthers. No blame."*[^1] True following creates the foundation for leadership—when you have served the pattern, you understand it well enough to organize it.
 
 ### The Gate (Human Design)
 
-Gate 17 resides in the Ajna Center, the mind that formulates opinions through pattern observation. This is **mental organization through service**—you cannot organize what you have not followed, cannot have an opinion about what you have not served. The Logic Circuit recognizes patterns; Gate 17 organizes those patterns into conceptual frameworks. With Gate 62 (Preponderance of the Small), opinions gain voice.
+Gate 17 resides in the Ajna Center, the mind that formulates opinions through pattern observation.[^2] This is **mental organization through service**—you cannot organize what you have not followed, cannot have an opinion about what you have not served. The Logic Circuit recognizes patterns; Gate 17 organizes those patterns into conceptual frameworks. With Gate 62 (Preponderance of the Small), opinions gain voice.
 
 ### The Gene Keys
 
-**Shadow: Opinion** — The individual forms opinions without observation, judging patterns they have not served. Mental arrogance masquerading as insight.
+**Shadow: Opinion**[^3] — The individual forms opinions without observation, judging patterns they have not served. Mental arrogance masquerading as insight.
 
 **Gift: Far-Sightedness** — The capacity to see patterns across time and context because one has followed them deeply enough to understand their movement.
 
@@ -135,6 +135,13 @@ The conditioning pattern: "I can understand without experiencing" or "My opinion
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 17 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 17 mechanics, Ajna (Mental Awareness)
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Opinion / Far-Sightedness / Omniscience
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 17: Following

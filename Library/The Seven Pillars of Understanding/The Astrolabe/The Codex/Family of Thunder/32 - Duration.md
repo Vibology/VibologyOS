@@ -58,15 +58,15 @@ Duration carries the frequency of **preservation through wise adaptation**—the
 
 ### The Hexagram (I-Ching)
 
-Wind above Thunder—the image of enduring through complementary forces. Wilhelm's Judgment: *"Duration. Success. No blame. Perseverance furthers. It furthers one to have somewhere to go."* What endures is not static but dynamically balanced—movement sustained through rhythm.
+Wind above Thunder—the image of enduring through complementary forces. Wilhelm's Judgment: *"Duration. Success. No blame. Perseverance furthers. It furthers one to have somewhere to go."*[^1] What endures is not static but dynamically balanced—movement sustained through rhythm.
 
 ### The Gate (Human Design)
 
-Gate 32 resides in the Spleen Center, the instinct for survival assessment. This is **the fear of failure**—will this strategy work? Will this investment pay off? Will this last? The Tribal Ego Circuit means this evaluation serves the tribe's material continuity. With Gate 54 (Ambition), this becomes the drive for transformation that serves survival. Duration evaluates; Ambition acts.
+Gate 32 resides in the Spleen Center, the instinct for survival assessment.[^2] This is **the fear of failure**—will this strategy work? Will this investment pay off? Will this last? The Tribal Ego Circuit means this evaluation serves the tribe's material continuity. With Gate 54 (Ambition), this becomes the drive for transformation that serves survival. Duration evaluates; Ambition acts.
 
 ### The Gene Keys
 
-**Shadow: Failure** — The individual is paralyzed by fear of failure, unable to act or adapt. Conservative instinct becomes rigid avoidance.
+**Shadow: Failure**[^3] — The individual is paralyzed by fear of failure, unable to act or adapt. Conservative instinct becomes rigid avoidance.
 
 **Gift: Preservation** — The capacity to evaluate wisely what serves continuity and what must change. Adaptive conservation that ensures survival.
 
@@ -135,6 +135,13 @@ The conditioning pattern: "If I don't try, I can't fail" or "What worked before 
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 32 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 32 mechanics, Spleen (Instinctual Awareness)
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Failure / Preservation / Veneration
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 32: Duration

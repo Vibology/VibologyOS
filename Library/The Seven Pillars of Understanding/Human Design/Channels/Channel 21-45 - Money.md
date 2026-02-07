@@ -20,7 +20,7 @@ source_verified: Esoteric Grimoire
 
 ---
 ## Ra's Definition
-According to Ra Uru Hu, the **Channel of Money** (also called **The Money Line**) is the **voice of tribal material authority**—the capacity to control resources (Gate 21) and gather the tribe around those resources (Gate 45). This channel connects the **Heart/Ego Center** (willpower) to the **Throat Center** (manifestation), creating the only **Manifesting channel in the Tribal Circuit**.
+According to Ra Uru Hu, the **Channel of Money** (also called **The Money Line**) is the **voice of tribal material authority**[^1]—the capacity to control resources (Gate 21) and gather the tribe around those resources (Gate 45). This channel connects the **Heart/Ego Center** (willpower) to the **Throat Center** (manifestation)[^2], creating the only **Manifesting channel in the Tribal Circuit**.
 
 Ra taught that this channel embodies **"I have"**—the declaration of material possession, the willpower to control resources, and the voice to gather others around those resources. This is not Individual creativity or Collective sharing—this is **tribal dominance**: the King, Queen, or Pasha who controls the tribe's wealth and distributes it according to tribal law.
 
@@ -103,7 +103,7 @@ This is the energy of the **tribal sovereign**—the one who controls the wealth
 ---
 ## Circuitry Analysis
 
-The Channel 21-45 is part of the **Tribal Ego Circuit**, which focuses on support, material security, and **creating sustainable bonds through bargains and resources**.
+The Channel 21-45 is part of the **Tribal Ego Circuit**[^3], which focuses on support, material security, and **creating sustainable bonds through bargains and resources**.
 
 ### The Tribal Circuit's Function
 
@@ -120,7 +120,7 @@ Channel 21-45 contributes to this by:
 
 **Why This Channel is Manifesting:**
 
-The Ego (a motor center) connects directly to the Throat (manifestation center). This creates **direct manifestation power**—the individual can **initiate action independently**. However, they must **inform** before acting to avoid resistance.
+The Ego (a motor center) connects directly to the Throat (manifestation center). This creates **direct manifestation power**[^4]—the individual can **initiate action independently**. However, they must **inform** before acting to avoid resistance.
 
 ---
 ## Channel Formation
@@ -153,7 +153,7 @@ The individual can **articulate "I have"** but lacks the willpower to actually c
 ---
 ## Biological and Somatic Dimension
 
-The Channel 21-45 bridges the **heart/thymus** (Gate 21, Ego Center) and the **throat/thyroid** (Gate 45, Throat Center).
+The Channel 21-45 bridges the **heart/thymus** (Gate 21, Ego Center) and the **throat/thyroid** (Gate 45, Throat Center)[^5].
 
 ### Physiological Signature
 
@@ -317,6 +317,14 @@ When recognized and invited, the 21-45 individual becomes the **benevolent sover
 - [[Manifestor]] — Informing, initiating, independence
 - Gene Keys — Shadow/Gift/Siddhi framework
 - [[The Emperor (IV)]] — Material authority and structure
+
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 21-45 as the voice of tribal material authority and the "Money Line"
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 21-45 connecting Heart/Ego Center to Throat Center
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 21-45 placement within the Tribal Ego Circuit
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 21-45 as Manifesting (Ego motor center connecting directly to Throat manifestation center)
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Biological association of Ego Center with heart/thymus and Throat Center with thyroid
 
 ## Sources
 **Primary Source:**

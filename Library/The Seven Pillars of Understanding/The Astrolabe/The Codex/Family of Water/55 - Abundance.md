@@ -60,15 +60,15 @@ The alchemical image is *Sublimatio*—the refinement of consciousness that reco
 
 ### The Hexagram (I-Ching)
 
-Hexagram 55, *Feng* (Abundance), depicts the sun at its zenith—the peak moment that cannot be sustained. Wilhelm's commentary emphasizes that the superior person maintains clarity *because* the peak is transitory: "When the sun stands at midday, it begins to set. When the moon is full, it begins to wane." The teaching is not to maximize pleasure during abundance but to recognize that the cycle *includes* both expansion and contraction. Clinging to the peak creates suffering; accepting the rhythm creates freedom. The hexagram appears during the summer solstice—longest day, after which light begins to decline. Yet this is not tragedy but natural rhythm.
+Hexagram 55, *Feng* (Abundance), depicts the sun at its zenith—the peak moment that cannot be sustained.[^1] Wilhelm's commentary emphasizes that the superior person maintains clarity *because* the peak is transitory: "When the sun stands at midday, it begins to set. When the moon is full, it begins to wane." The teaching is not to maximize pleasure during abundance but to recognize that the cycle *includes* both expansion and contraction. Clinging to the peak creates suffering; accepting the rhythm creates freedom. The hexagram appears during the summer solstice—longest day, after which light begins to decline. Yet this is not tragedy but natural rhythm.
 
 ### The Gate (Human Design)
 
-Gate 55 in the Solar Plexus governs emotional spirit—the mood/atmosphere one emanates regardless of circumstance. Ra Uru Hu taught that this gate determines whether you experience life as abundant or scarce *independent of actual resources*. Two people with identical conditions: one feels victimized (cup half empty), one feels free (cup half full). The difference is Gate 55's spirit. When connected to Gate 39 in the Root (Channel of Emoting), emotional spirit gains the pressure to provoke—the mood becomes infectious, shifting collective atmosphere. This is the artist whose melancholy beauty transforms others, the comedian whose spirit liberates through laughter. The teaching: you are not your circumstances; you are the spirit you bring to them.
+Gate 55 in the Solar Plexus governs emotional spirit—the mood/atmosphere one emanates regardless of circumstance. Ra Uru Hu taught that this gate determines whether you experience life as abundant or scarce *independent of actual resources*.[^2] Two people with identical conditions: one feels victimized (cup half empty), one feels free (cup half full). The difference is Gate 55's spirit. When connected to Gate 39 in the Root (Channel of Emoting), emotional spirit gains the pressure to provoke—the mood becomes infectious, shifting collective atmosphere. This is the artist whose melancholy beauty transforms others, the comedian whose spirit liberates through laughter. The teaching: you are not your circumstances; you are the spirit you bring to them.
 
 ### The Gene Keys
 
-- **Shadow: Victimisation** — The belief that external conditions determine internal state; the conviction that life is happening *to* you rather than *through* you. Victimisation perceives scarcity even in plenty, suffering even in ease. The emotional wave's valley becomes proof of cosmic injustice. The cup is always half empty because spirit identifies with lack.
+- **Shadow: Victimisation**[^3] — The belief that external conditions determine internal state; the conviction that life is happening *to* you rather than *through* you. Victimisation perceives scarcity even in plenty, suffering even in ease. The emotional wave's valley becomes proof of cosmic injustice. The cup is always half empty because spirit identifies with lack.
 
 - **Gift: Freedom** — The recognition that spirit remains free regardless of circumstance; the capacity to perceive abundance at any phase of the wave. Freedom doesn't deny the valley exists but refuses to let the valley define reality. This is the holocaust survivor who finds meaning in horror, the terminal patient who experiences grace. Spirit discovers it is not *subject to* the wave but *riding* it.
 
@@ -141,6 +141,13 @@ Another Shadow trap: manic clinging to the peak. Addiction to high states—whet
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 55 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 55 mechanics, Solar Plexus
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Victimisation / Freedom / Freedom
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 55: Abundance

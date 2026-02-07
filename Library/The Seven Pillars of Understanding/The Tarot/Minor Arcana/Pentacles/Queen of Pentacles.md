@@ -20,11 +20,11 @@ zodiac_correspondence: Taurus, Virgo, Capricorn (earth signs embodied)
 
 ---
 ## Traditional Symbolism
-According to Waite's *Pictorial Key to the Tarot*, the Queen of Pentacles signifies **opulence, generosity, magnificence, security, liberty**. Waite describes: **"The face suggests that of a dark woman, whose qualities might be summed up in the idea of greatness of soul; she has also the serious cast of intelligence; she contemplates her symbol and may see worlds therein."** The upright card speaks to **nurturing abundance, embodied generosity, the capacity to create and maintain material security through attentive care**.
-The Golden Dawn associates this Queen with **Water of Earth**—the elemental formula of *emotion channeling matter*, love grounding resources, care made tangible through provision. This is not abstract compassion (Queen of Cups) or intellectual planning (Queen of Swords) or passionate creativity (Queen of Wands)—this is **practical love**, the nurturing that *feeds*, shelters, grows, and sustains.
+According to Waite's *Pictorial Key to the Tarot*, the Queen of Pentacles signifies **opulence, generosity, magnificence, security, liberty**. [^1] Waite describes: **"The face suggests that of a dark woman, whose qualities might be summed up in the idea of greatness of soul; she has also the serious cast of intelligence; she contemplates her symbol and may see worlds therein."** [^3] The upright card speaks to **nurturing abundance, embodied generosity, the capacity to create and maintain material security through attentive care**.
+The Golden Dawn associates this Queen with **Water of Earth** [^2]—the elemental formula of *emotion channeling matter*, love grounding resources, care made tangible through provision. This is not abstract compassion (Queen of Cups) or intellectual planning (Queen of Swords) or passionate creativity (Queen of Wands)—this is **practical love**, the nurturing that *feeds*, shelters, grows, and sustains.
 The Queen represents **the Great Mother in material form**—the one who makes the bread, tends the hearth, manages the household with both competence and warmth. She ensures that abundance is not merely accumulated but *used* to nurture life. Resources in her hands become nourishment. Wealth becomes shelter. Matter becomes *mothering*.
 This is a profoundly positive card in questions of home, family, financial security, health, or any situation requiring grounded, practical care. It indicates that resources are being (or should be) stewarded with both competence and compassion. The Queen promises that when you tend what you have with love—body, home, garden, relationships, finances—it will flourish.
-When the Queen of Pentacles appears **reversed**, Waite identifies meanings of **evil, suspicion, suspense, fear, mistrust**. The reversal suggests the Queen's nurturing becomes smothering or manipulative, her generosity becomes control, her connection to matter becomes either greed (hoarding) or neglect (abandonment of the physical). The Golden Dawn reversal indicates "materialism; using provision to dominate; smothering care; neglect of the body or home."
+When the Queen of Pentacles appears **reversed**, Waite identifies meanings of **evil, suspicion, suspense, fear, mistrust**. [^4] The reversal suggests the Queen's nurturing becomes smothering or manipulative, her generosity becomes control, her connection to matter becomes either greed (hoarding) or neglect (abandonment of the physical). The Golden Dawn reversal indicates "materialism; using provision to dominate; smothering care; neglect of the body or home." [^5]
 The key teaching: **True wealth is generative, not hoarded**. The Queen of Pentacles invites you to sit in the garden, to tend what grows, to use your resources to nurture life—your own body, your relationships, your community. Abundance is not meant to be clutched but *shared*, not accumulated but *flowing*, like water nourishing earth.
 ---
 
@@ -200,6 +200,14 @@ The teaching: Hoarding creates scarcity. Generosity creates abundance. When you 
 
 ---
 *"The Queen who sits in the garden does not count her coins—she watches what grows, and shares the harvest."*
+
+## Footnotes
+
+[^1]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meaning for the Queen of Pentacles.
+[^2]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn Water of Earth elemental formula for the Queen of Pentacles.
+[^3]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — description of the Queen of Pentacles as contemplating her symbol.
+[^4]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meaning for the Queen of Pentacles.
+[^5]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn reversal interpretation for the Queen of Pentacles.
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

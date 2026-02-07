@@ -20,7 +20,7 @@ source_verified: Esoteric Grimoire
 
 ---
 ## Ra's Definition
-According to Ra Uru Hu, the **Channel of the Brainwave** (also called **The Penetrating** or **Intuition Speaking in the Now**) is one of the most **subtle and profound channels in Human Design**. This channel connects the **Spleen Center** (intuitive awareness) to the **Throat Center** (manifestation), creating the capacity for **intuition to speak directly in the present moment**.
+According to Ra Uru Hu, the **Channel of the Brainwave** (also called **The Penetrating** or **Intuition Speaking in the Now**) is one of the most **subtle and profound channels in Human Design**[^1]. This channel connects the **Spleen Center** (intuitive awareness) to the **Throat Center** (manifestation)[^2], creating the capacity for **intuition to speak directly in the present moment**.
 
 Ra taught that this channel embodies **acoustic clarity**—the ability to HEAR what needs to be said NOW, not through mental analysis or emotional processing, but through the **Spleen's instantaneous knowing**. This is Integration Circuit energy: immediate, existential, and entirely focused on **survival in the now**.
 
@@ -103,7 +103,7 @@ This is the energy of the **intuitive oracle**—someone who KNOWS what to say i
 ---
 ## Circuitry Analysis
 
-The Channel 20-57 is part of the **Integration Circuit**, with Gate 57 also connecting to the **Individual Knowing Circuit**. This creates a unique dynamic: **Integration** (presence, survival) meets **Individuation** (unique knowing, acoustic awareness).
+The Channel 20-57 is part of the **Integration Circuit**[^3], with Gate 57 also connecting to the **Individual Knowing Circuit**. This creates a unique dynamic: **Integration** (presence, survival) meets **Individuation** (unique knowing, acoustic awareness).
 
 ### The Integration Circuit's Function
 
@@ -125,7 +125,7 @@ Gate 57 is also part of the **Individual Knowing Circuit**, which means this cha
 
 #### Why This Channel is Projected
 
-The **Spleen (awareness center, non-motor) to Throat** connection creates a **Projected** channel—the individual cannot manifest independently. They must **wait for recognition** before their intuitive articulation is truly heard and valued. When unrecognized, their words fall flat; when recognized, their intuition becomes profound guidance.
+The **Spleen (awareness center, non-motor) to Throat** connection creates a **Projected** channel[^4]—the individual cannot manifest independently. They must **wait for recognition** before their intuitive articulation is truly heard and valued. When unrecognized, their words fall flat; when recognized, their intuition becomes profound guidance.
 
 ---
 ## Channel Formation
@@ -158,7 +158,7 @@ The individual has **acute intuition** but lacks the consistent voice to articul
 ---
 ## Biological and Somatic Dimension
 
-The Channel 20-57 bridges the **spleen/lymphatic system** (Gate 57, Spleen Center) and the **throat/thyroid** (Gate 20, Throat Center).
+The Channel 20-57 bridges the **spleen/lymphatic system** (Gate 57, Spleen Center) and the **throat/thyroid** (Gate 20, Throat Center)[^5].
 
 ### Physiological Signature
 
@@ -331,6 +331,14 @@ When recognized and invited, the 20-57 individual becomes the **intuitive oracle
 - [[Splenic Authority]] — Instantaneous, in-the-moment knowing
 - Gene Keys — Shadow/Gift/Siddhi framework
 - [[The High Priestess (II)]] — Intuitive knowing, inner voice
+
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 20-57 as the capacity for intuition to speak directly in the present moment
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 20-57 connecting Spleen Center (intuitive awareness) to Throat Center (manifestation)
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 20-57 placement within the Integration Circuit, with Gate 57 bridging to the Individual Knowing Circuit
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 20-57 classified as Projected (Spleen is awareness center, non-motor, connecting to Throat)
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Biological association of Spleen Center with lymphatic/immune system and Throat Center with thyroid
 
 ## Sources
 **Primary Source:**

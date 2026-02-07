@@ -20,7 +20,7 @@ source_verified: Esoteric Grimoire
 
 ---
 ## Ra's Definition
-According to Ra Uru Hu, the **Channel of Recognition** (also known as the **Channel of Fantasy**) is the **fuel of human desire**—the pressure-driven emotional energy that **initiates all new experiences** in the Abstract process. This channel connects the **Root** (pressure/drive) to the **Solar Plexus** (emotional awareness), creating the **start codon** of the emotional wave.
+According to Ra Uru Hu, the **Channel of Recognition** (also known as the **Channel of Fantasy**) is the **fuel of human desire**—the pressure-driven emotional energy that **initiates all new experiences** in the Abstract process[^1]. This channel connects the **Root** (pressure/drive) to the **Solar Plexus** (emotional awareness), creating the **start codon** of the emotional wave[^2].
 
 Ra taught that this channel embodies the **fantasy and expectation** that drives humanity forward—the desire for new experiences, new feelings, new possibilities. This is not logical planning or tribal need—it is **pure emotional longing**, the "what if?" that ignites the experiential cycle.
 
@@ -36,8 +36,8 @@ The keynote is **recognition of feelings**—the capacity to recognize desire, f
 | **Channel Number** | 30-41 |
 | **Channel Name** | Recognition / Fantasy / Focused Energy |
 | **Centers** | Root ↔ Solar Plexus |
-| **Circuitry** | Collective (Sensing/Abstract Circuit) |
-| **Type** | Projected (no direct Throat connection) |
+| **Circuitry** | Collective (Sensing/Abstract Circuit)[^3] |
+| **Type** | Projected (no direct Throat connection)[^4] |
 | **Keynote** | Recognition of Feelings / The Fuel of Desire |
 | **Function** | To initiate emotional experiences through desire, fantasy, and expectation |
 | **Gates** | Gate 30 (The Clinging Fire/Feelings), Gate 41 (Decrease/Contraction) |
@@ -52,7 +52,7 @@ The keynote is **recognition of feelings**—the capacity to recognize desire, f
 
 **Hexagram 30 (The Clinging Fire):** Fire above, Fire below—doubled emotional intensity, clinging to feeling. The capacity to hold onto emotional experience, to let it burn and illuminate.
 
-**Hexagram 41 (Decrease):** The **Start Codon** of the 64 hexagrams—the initiating pulse of desire. This is contraction before expansion, the hunger that initiates the search for fulfillment.
+**Hexagram 41 (Decrease):** The **Start Codon** of the 64 hexagrams—the initiating pulse of desire[^5]. This is contraction before expansion, the hunger that initiates the search for fulfillment.
 
 **Circuit Role:** In the Abstract Circuit, 30-41 is the **beginning**—desire initiates experience (41), feeling clings to the experience (30), and over time the wave plays out. Eventually, the channel leads to reflection (47-64) and maturation (42-53).
 
@@ -112,6 +112,14 @@ When recognized and invited, the 30-41 individual becomes the **initiator of col
 - [[Root]] — Pressure and drive
 - Collective Sensing Circuit — Experience-based learning
 - [[Emotional Authority]] — Decision-making through the emotional wave
+
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 30-41 as the initiating fuel for all new experiences in the Abstract process
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Gate 41 as the start codon of the emotional wave, connecting Root pressure to Solar Plexus
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 30-41 classified within the Collective Sensing (Abstract) Circuit
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Projected channel type: Root-to-Solar Plexus with no direct Throat connection
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Gate 41 (Decrease) designated as the Start Codon of the 64 hexagrams in the Human Design codon mapping
 
 ## Sources
 **Primary Source:**

@@ -22,12 +22,12 @@ title: Lord of Earthly Power
 
 ---
 ## Traditional Symbolism
-According to Waite's *Pictorial Key to the Tarot*, the Four of Pentacles signifies **the surety of possessions, cleaving to that which he has, gift, legacy, inheritance**. The upright card speaks to **gain, hoard, and possession**—material security achieved and defended. Waite notes the image depicts "a crowned figure on a throne, who holds a pentacle on his crown, binds another upon his breast, and has one under each foot." The figure is immobilized by his wealth, unable to move without losing what he guards.
-The Golden Dawn titles this card the **"Lord of Earthly Power"** and attributes it to **Sun in Capricorn**, the third decan of the cardinal earth sign. This is the planet of vitality, self-expression, and sovereignty (Sun) manifesting through the sign of structure, authority, and material achievement (Capricorn). The result is **established power**—authority consolidated, resources secured, position fortified. But power that is merely *held* rather than *used* becomes static, defensive, rigid.
+According to Waite's *Pictorial Key to the Tarot*, the Four of Pentacles signifies **the surety of possessions, cleaving to that which he has, gift, legacy, inheritance**. [^1] The upright card speaks to **gain, hoard, and possession**—material security achieved and defended. Waite notes the image depicts "a crowned figure on a throne, who holds a pentacle on his crown, binds another upon his breast, and has one under each foot." The figure is immobilized by his wealth, unable to move without losing what he guards.
+The Golden Dawn titles this card the **"Lord of Earthly Power"** [^2] and attributes it to **Sun in Capricorn** [^3], the third decan of the cardinal earth sign. This is the planet of vitality, self-expression, and sovereignty (Sun) manifesting through the sign of structure, authority, and material achievement (Capricorn). The result is **established power**—authority consolidated, resources secured, position fortified. But power that is merely *held* rather than *used* becomes static, defensive, rigid.
 The card represents **security achieved**—but at a cost. The Four of Pentacles does not promise comfort or ease; it promises *control*. You have built wealth, established authority, secured your position—and now you must *defend* it. The work of the Three (building) has paused; the fortress is complete. But the fortress that protects can also *imprison*. The question is: do you own your wealth, or does your wealth own you?
 This is a profoundly ambivalent card. In questions of financial security, it can indicate success—money saved, assets protected, a stable foundation. But in questions of flow, generosity, or psychological freedom, it warns of *rigidity*—the inability to give, to receive, to adapt, to grow. The Four asks: have you built a fortress to *live in*, or have you built a tomb to *die in*?
-When the Four of Pentacles appears **reversed**, Waite identifies meanings of **suspense, delay, opposition**. The reversal can indicate two opposite dynamics: either the security is *threatened* (the grip loosens involuntarily, the fortress is breached), or the grip is *released* (willingly or through exhaustion, the figure finally lets go).
-The Golden Dawn reversal suggests "loss through avarice; miserliness leading to isolation; the fortress becomes a prison." The energy of established power becomes *paranoia*, *stinginess*, or *collapse*. The reversed Four can also indicate *reckless spending*—the opposite extreme, where all security is abandoned and resources are squandered. Either way, the balance between security and flow is lost.
+When the Four of Pentacles appears **reversed**, Waite identifies meanings of **suspense, delay, opposition**. [^4] The reversal can indicate two opposite dynamics: either the security is *threatened* (the grip loosens involuntarily, the fortress is breached), or the grip is *released* (willingly or through exhaustion, the figure finally lets go).
+The Golden Dawn reversal suggests "loss through avarice; miserliness leading to isolation; the fortress becomes a prison." [^5] The energy of established power becomes *paranoia*, *stinginess*, or *collapse*. The reversed Four can also indicate *reckless spending*—the opposite extreme, where all security is abandoned and resources are squandered. Either way, the balance between security and flow is lost.
 The key teaching: **What you cling to, you cannot use**. The Four of Pentacles offers the opportunity to secure your foundation—but if you grasp too tightly, the resources become frozen, the wealth becomes burden, and the fortress becomes your cage. Security is meant to *support* life, not *replace* it.
 ---
 
@@ -341,6 +341,14 @@ The invitation is to *loosen the grip*—not to abandon security, but to hold it
 
 ---
 *"The king who sits on his hoard is not wealthy—he is only a dragon in human form."*
+
+## Footnotes
+
+[^1]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meaning for the Four of Pentacles.
+[^2]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Lord of Earthly Power" for the Four of Pentacles.
+[^3]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Sun in Capricorn decan attribution for the Four of Pentacles.
+[^4]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meaning for the Four of Pentacles.
+[^5]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn reversal interpretation for the Four of Pentacles.
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

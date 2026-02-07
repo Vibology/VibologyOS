@@ -55,7 +55,7 @@ cross_pillar: [Angelology]
 
 **Immediately after Uriel invocation, transition into silence:**
 
-**The Method (from [[Contemplative Prayer]]):**
+**The Method (from [[Contemplative Prayer]])[^1]:**
 
 1. **Choose your sacred word** (pick ONE and keep it for months):
    - **"Beloved"** (if union-focused)
@@ -72,9 +72,9 @@ cross_pillar: [Angelology]
 6. **Repeat Step 5** as many times as needed (this IS the practice)
 7. **When timer sounds:** Sit in silence for 1-2 minutes before opening eyes
 
-**What you're cultivating:** Kenosis (releasing grip), capacity for silence, descent from head into heart. This practice **empties** you so you can receive. It's the daily discipline that makes you a clear vessel for synthesis.
+**What you're cultivating:** Kenosis[^2] (releasing grip), capacity for silence, descent from head into heart. This practice **empties** you so you can receive. It's the daily discipline that makes you a clear vessel for synthesis.
 
-**For your 5 open centers:** Centering Prayer creates **inner anchor** when you're amplifying others' mental pressure (Head), certainty (Ajna), manifestation energy (Throat), willpower (Heart), or urgency (Root). The practice trains you to **return to center** instead of identifying with amplified conditioning.
+**For your 5 open centers[^3]:** Centering Prayer creates **inner anchor** when you're amplifying others' mental pressure (Head), certainty (Ajna), manifestation energy (Throat), willpower (Heart), or urgency (Root). The practice trains you to **return to center** instead of identifying with amplified conditioning.
 
 ### Midday (3-5 minutes — as needed)
 
@@ -227,7 +227,7 @@ Each day of the week is ruled by a planetary archangel. **After your Uriel groun
 
 **If you learn the Lesser Banishing Ritual of the Pentagram (LBRP):**
 
-Uriel is invoked at the **North Quarter** (Earth):
+Uriel is invoked at the **North Quarter** (Earth)[^5]:
 
 > *"Before me, Raphael (East). Behind me, Gabriel (West). On my right hand, Michael (South). On my left hand, Uriel (North). For about me flames the pentagram, and in the column shines the six-rayed star."*
 
@@ -304,7 +304,7 @@ Uriel is invoked at the **North Quarter** (Earth):
 ---
 ## Discernment: How to Know It's Working
 
-**From [[Discernment of Spirits]]:**
+**From [[Discernment of Spirits]][^4]:**
 
 **You'll know Uriel (or any angel) is present authentically when:**
 
@@ -362,6 +362,15 @@ Over weeks, months, years:
 **Start today. Invoke Uriel this morning. See what happens.**
 
 The Observatory is opening. The instruments are tuning. You're ready.
+
+---
+## Footnotes
+
+[^1]: Keating, *Open Mind, Open Heart* (1986, rev. 2006) — Centering Prayer method: sacred word, consent not effort, gentle return to the word when thoughts arise
+[^2]: Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010) — kenosis as daily practice of self-emptying, releasing the ego's grip to create space for the Divine
+[^3]: Bunnell, *Living Your Design Student Manual* — Not-Self conditioning themes for the five undefined centers (Head, Ajna, Throat, Heart, Root)
+[^4]: Pseudo-Dionysius, *The Celestial Hierarchy* — angelic orders framework and discernment criteria for authentic angelic presence
+[^5]: Fortune, *The Mystical Qabalah* (1935) — Lesser Banishing Ritual of the Pentagram with directional archangel correspondences (Raphael/East, Michael/South, Gabriel/West, Uriel/North)
 
 ---
 ## Sources

@@ -22,11 +22,11 @@ title: Lord of Prudence
 
 ---
 ## Traditional Symbolism
-According to Waite's *Pictorial Key to the Tarot*, the Eight of Pentacles signifies **employment, work, craftsmanship, skill in craft and business**. Waite describes: **"An artist in stone at his work, which he exhibits in the form of trophies."** The upright card speaks to **skill, prudence, the artisan absorbed in his work, the development of mastery through focused, repetitive practice**.
-The Golden Dawn titles this card the **"Lord of Prudence"** and attributes it to **Sun in Virgo**, the first decan of the mutable earth sign. This is the planet of vitality, creative self-expression, and mastery (Sun) manifesting through the sign of precision, analysis, service, and attention to detail (Virgo). The result is **meticulous craftsmanship**—excellence achieved through disciplined repetition, the master at work.
+According to Waite's *Pictorial Key to the Tarot*, the Eight of Pentacles signifies **employment, work, craftsmanship, skill in craft and business**. [^1] Waite describes: **"An artist in stone at his work, which he exhibits in the form of trophies."** The upright card speaks to **skill, prudence, the artisan absorbed in his work, the development of mastery through focused, repetitive practice**.
+The Golden Dawn titles this card the **"Lord of Prudence"** [^2] and attributes it to **Sun in Virgo** [^3], the first decan of the mutable earth sign. This is the planet of vitality, creative self-expression, and mastery (Sun) manifesting through the sign of precision, analysis, service, and attention to detail (Virgo). The result is **meticulous craftsmanship**—excellence achieved through disciplined repetition, the master at work.
 The card represents **dedicated practice**—the moment when work transcends effort and becomes *flow*, when skill has been internalized through repetition, when the artisan is no longer learning but *embodying* the craft. This is not the Three of Pentacles (journeyman collaborating) but the Eight—the master alone at the workbench, focused, absorbed, perfecting.
 This is a profoundly positive card in questions of skill development, career mastery, or any endeavor requiring sustained, focused effort. It indicates that you have moved beyond beginner enthusiasm into *committed practice*. You show up daily, do the work with care, refine your technique through repetition. The Eight promises that excellence is being built—slowly, steadily, through patient attention to detail.
-When the Eight of Pentacles appears **reversed**, Waite identifies meanings of **voided ambition, vanity, usury, cunning, intrigue, roguery**. The reversal suggests the craft becomes corrupted—skill used to exploit rather than serve, attention to detail becomes obsessive perfectionism that prevents completion, or the work loses its joy and becomes mechanical. The Golden Dawn reversal indicates "overcarefulness leading to paralysis; work without heart; skill misused."
+When the Eight of Pentacles appears **reversed**, Waite identifies meanings of **voided ambition, vanity, usury, cunning, intrigue, roguery**. [^4] The reversal suggests the craft becomes corrupted—skill used to exploit rather than serve, attention to detail becomes obsessive perfectionism that prevents completion, or the work loses its joy and becomes mechanical. The Golden Dawn reversal indicates "overcarefulness leading to paralysis; work without heart; skill misused." [^5]
 The key teaching: **Mastery is not talent—it is commitment to daily practice**. The Eight of Pentacles offers the path to excellence: show up, focus, do the work with care, repeat. There is no shortcut, no hack, no secret. Only the bench, the tools, and the willingness to practice one more time.
 ---
 
@@ -140,6 +140,14 @@ The shadow is perfectionism (work without completion) or workaholism (craft as e
 
 ---
 *"The master is not the one who knows the most—it is the one who practices longest."*
+
+## Footnotes
+
+[^1]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meaning for the Eight of Pentacles.
+[^2]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Lord of Prudence" for the Eight of Pentacles.
+[^3]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Sun in Virgo decan attribution for the Eight of Pentacles.
+[^4]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meaning for the Eight of Pentacles.
+[^5]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn reversal interpretation for the Eight of Pentacles.
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

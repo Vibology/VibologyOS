@@ -58,15 +58,15 @@ The Return carries the frequency of **invention through mental renewal**—the r
 
 ### The Hexagram (I-Ching)
 
-Earth above Thunder—the image of energy returning from beneath, renewal emerging from dormancy. Wilhelm's Judgment: *"The Return. Success. Going out and coming in without error. Friends come without blame."* The return is natural, effortless—life reasserts itself in its own timing.
+Earth above Thunder—the image of energy returning from beneath, renewal emerging from dormancy. Wilhelm's Judgment: *"The Return. Success. Going out and coming in without error. Friends come without blame."*[^1] The return is natural, effortless—life reasserts itself in its own timing.
 
 ### The Gate (Human Design)
 
-Gate 24 resides in the Ajna Center, the mind that rationalizes through cycling. This is **thinking that returns**—going over and over an idea until it transforms. The Individual Knowing Circuit means this mental process serves the self first, not the collective. You cannot force the return; you can only allow the mind to do its work. With Gate 61 (Inner Truth), the return is driven by deep pressure to know.
+Gate 24 resides in the Ajna Center, the mind that rationalizes through cycling.[^2] This is **thinking that returns**—going over and over an idea until it transforms. The Individual Knowing Circuit means this mental process serves the self first, not the collective. You cannot force the return; you can only allow the mind to do its work. With Gate 61 (Inner Truth), the return is driven by deep pressure to know.
 
 ### The Gene Keys
 
-**Shadow: Addiction** — The mind cycles compulsively, unable to let go, returning obsessively without transformation. Mental repetition as trap.
+**Shadow: Addiction**[^3] — The mind cycles compulsively, unable to let go, returning obsessively without transformation. Mental repetition as trap.
 
 **Gift: Invention** — The capacity for breakthrough insight that emerges from allowing the mind to cycle naturally. Repetition that leads to innovation.
 
@@ -135,6 +135,13 @@ The conditioning pattern: "If I just think about it one more time, I'll understa
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 24 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 24 mechanics, Ajna (Mental Awareness)
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Addiction / Invention / Silence
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 24: The Return

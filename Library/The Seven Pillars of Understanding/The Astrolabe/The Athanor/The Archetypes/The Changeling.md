@@ -23,7 +23,7 @@ The Changeling represents the archetypal **fluidity of form**—the terrifying a
 
 The Changeling is not transformation in the sense of metamorphosis (which has completion)—it is **perpetual beginning**. The Thing never finishes becoming; it starts, and starts, and starts again, assimilating and mimicking without ever arriving at a stable self. This is identity as process, not destination.
 
-In Jung's framework, The Changeling corresponds to the **mercurial quality of the unconscious**—the psychic contents that refuse stable form, that appear in dreams as figures who change identity mid-scene, who are simultaneously ally and enemy. Jung recognized this fluidity as essential to psychic life: the unconscious does not obey the law of non-contradiction; a figure can be mother and stranger, helpful and dangerous, simultaneously. The Changeling embodies this pre-logical multiplicity.
+In Jung's framework, The Changeling corresponds to the **mercurial quality of the unconscious**—the psychic contents that refuse stable form, that appear in dreams as figures who change identity mid-scene, who are simultaneously ally and enemy.[^1] Jung recognized this fluidity as essential to psychic life: the unconscious does not obey the law of non-contradiction; a figure can be mother and stranger, helpful and dangerous, simultaneously. The Changeling embodies this pre-logical multiplicity.
 
 The Changeling appears when **identity is in flux**, when the pressure to begin anew overwhelms the capacity to complete, when the question becomes: "Who am I now? And now? And now?" This is the archetype of perpetual becoming.
 
@@ -58,13 +58,13 @@ This is the Changeling at shadow frequency: **identity as contagion, adaptation 
 
 ### The Shapeshifter in Myth
 
-Folklore worldwide contains the changeling—the fairy child left in place of the stolen human infant, the creature that looks like your child but isn't. The changeling cannot be detected by appearance alone; only through testing (iron, fire, trickery) is the impostor revealed.
+Folklore worldwide contains the changeling—the fairy child left in place of the stolen human infant, the creature that looks like your child but isn't.[^3] The changeling cannot be detected by appearance alone; only through testing (iron, fire, trickery) is the impostor revealed.
 
 The shapeshifter appears in The Odyssey (Proteus), in Norse myth (Loki), in Native American trickster tales (Coyote, Raven). The common thread: **identity as fluid strategy rather than fixed essence**. The shapeshifter survives by becoming what the moment demands.
 
 ### Jungian Analysis
 
-Jung wrote extensively about the mercurial quality of unconscious contents—how dream figures refuse to stay stable, how the anima can appear as lover and destroyer in the same breath. This fluidity reflects the psyche's deeper truth: **consciousness creates the illusion of stable identity; the unconscious knows better**.
+Jung wrote extensively about the mercurial quality of unconscious contents—how dream figures refuse to stay stable, how the anima can appear as lover and destroyer in the same breath.[^2] This fluidity reflects the psyche's deeper truth: **consciousness creates the illusion of stable identity; the unconscious knows better**.
 
 The Changeling challenges the ego's need for fixed selfhood. In individuation, there comes a moment when the old identity dissolves and the new one has not yet formed. This liminal space is terrifying—"I am no longer who I was, but I don't yet know who I am becoming." The Changeling is the archetype that navigates this between-space.
 
@@ -105,6 +105,13 @@ The shadow is getting lost in perpetual becoming—never stabilizing long enough
 - [[The Shapeshifter]] — Jungian/mythological unstable forms
 - [[Mercury ☿]] — Planetary ruler of Gemini; communication and exchange
 - [[Tests, Allies, and Enemies]] — Where the shapeshifter appears
+
+---
+## Footnotes
+
+[^1]: Jung, *The Archetypes and the Collective Unconscious* (CW 9i, Princeton, 1969) — transformation symbolism and unstable archetypal forms (§427-453)
+[^2]: Jung, *The Structure and Dynamics of the Psyche* (CW 8, Princeton, 1969) — the mercurial quality of unconscious contents (§388-406)
+[^3]: von Franz, *The Interpretation of Fairy Tales* (Shambhala, 1996) — the changeling motif in folklore (Chapter 6)
 
 ---
 ## Sources

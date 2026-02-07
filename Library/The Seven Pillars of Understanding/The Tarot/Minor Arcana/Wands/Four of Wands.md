@@ -22,11 +22,11 @@ title: Lord of Perfected Work
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, the Four of Wands signifies **country life, haven of refuge, a species of domestic harvest-home, repose, concord, harmony, prosperity, peace**, and especially **the perfected work of these**. When the Four of Wands appears upright, it speaks to the realm of completion and celebration—the moment when labor yields its reward and community gathers to honor what has been built.
+According to Waite's *Pictorial Key to the Tarot*, the Four of Wands signifies **country life, haven of refuge, a species of domestic harvest-home, repose, concord, harmony, prosperity, peace**[^1], and especially **the perfected work of these**. When the Four of Wands appears upright, it speaks to the realm of completion and celebration—the moment when labor yields its reward and community gathers to honor what has been built.
 
-The Golden Dawn titles this card the **"Lord of Perfected Work"** and attributes it to **Venus in Aries**—the goddess of harmony, beauty, and love (Venus) expressing through the sign of the warrior and pioneer (Aries). This is a curious and powerful alchemy: Venus softens Aries's aggression, while Aries energizes Venus's receptivity. The result is fire brought into *form*—not the wild blaze of the Ace, but the hearth fire that warms the home, the festival bonfire around which the community dances.
+The Golden Dawn titles this card the **"Lord of Perfected Work"**[^2] and attributes it to **Venus in Aries**—the goddess of harmony, beauty, and love (Venus) expressing through the sign of the warrior and pioneer (Aries). This is a curious and powerful alchemy: Venus softens Aries's aggression, while Aries energizes Venus's receptivity. The result is fire brought into *form*—not the wild blaze of the Ace, but the hearth fire that warms the home, the festival bonfire around which the community dances.
 
-The card represents **Chesed (Mercy) in Atziluth (the World of Pure Spirit)**. Chesed, the fourth Sephirah, is the sphere of benevolence, abundance, and lawful order. It is associated with Jupiter—expansive, generous, the principle of grace and blessing. In the fiery world of Atziluth, Chesed manifests as **perfected structure**: the blueprint completed, the foundation solid, the vision made real.
+The card represents **Chesed (Mercy) in Atziluth (the World of Pure Spirit)**.[^4] Chesed, the fourth Sephirah, is the sphere of benevolence, abundance, and lawful order. It is associated with Jupiter—expansive, generous, the principle of grace and blessing. In the fiery world of Atziluth, Chesed manifests as **perfected structure**: the blueprint completed, the foundation solid, the vision made real.
 
 The number **Four** in Qabalah represents stability, structure, foundation. Where Three is the triangle (the first plane), Four is the *square* or the *tetrahedron*—the first stable three-dimensional form. Four is the number of the material world (four elements, four directions, four seasons), yet here in the spiritual suit of Wands, Four represents *spiritual stability*—the soul's structure, the inner temple.
 
@@ -34,7 +34,7 @@ This is one of the most joyful cards in the Tarot. It indicates that a significa
 
 The Four of Wands is associated with **weddings, harvest festivals, homecomings**, and any ritual that marks the transition from striving to arrival. It is the moment when you cross the threshold from wilderness into civilization, from labor into leisure, from becoming into being (at least temporarily—the journey will continue, but for now, you have arrived).
 
-When the Four of Wands appears **reversed**, Waite notes that the meanings remain harmonious: **prosperity, increase, felicity, beauty, embellishment**. Curiously, the Four of Wands is one of the few cards whose reversal does not significantly darken its meaning. The Golden Dawn suggests "completion delayed" or "celebration postponed," but the essential nature—perfected work, harmony, abundance—remains. The reversed Four may indicate that the celebration is quieter, more private, or that you are not yet ready to rest.
+When the Four of Wands appears **reversed**, Waite notes that the meanings remain harmonious: **prosperity, increase, felicity, beauty, embellishment**.[^3] Curiously, the Four of Wands is one of the few cards whose reversal does not significantly darken its meaning. The Golden Dawn suggests "completion delayed" or "celebration postponed," but the essential nature—perfected work, harmony, abundance—remains. The reversed Four may indicate that the celebration is quieter, more private, or that you are not yet ready to rest.
 
 The key teaching: **Completion is itself a form of creation.** To finish well, to honor what has been built, to celebrate with others—this is not mere indulgence but sacred work. The sabbath is as important as the labor.
 
@@ -404,6 +404,13 @@ Perfected work is not the end. It is the foundation for the next ascent.
 ---
 
 *"Perfected work is not the end of the journey—it is the foundation for the next ascent."*
+
+## Footnotes
+
+[^1]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meanings for the Four of Wands
+[^2]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Lord of Perfected Work" and attribution of Venus in Aries for the Four of Wands
+[^3]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meanings for the Four of Wands
+[^4]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — sephirotic placement of the Four of Wands as Chesed (Mercy) in the world of Atziluth
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

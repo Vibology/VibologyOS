@@ -86,7 +86,7 @@ Each bough has a **Guardian** (shadow/power) you must confront. **What is blocki
 
 ### Step 3: The Apophatic Practice (2 minutes)
 
-**The teaching from Gospel of Mary:** At each bough, the soul must practice **apophasis** (negation)—denying the Guardian power over you.
+**The teaching from Gospel of Mary[^1]:** At each bough, the soul must practice **apophasis** (negation)—denying the Guardian power over you.
 
 **Speak aloud or write:**
 > *"[Guardian], I deny you. You have no part in me. I am not [judgment/ignorance/arrogance/fear]. I release my grip on [what this Guardian represents]. I open my hands."*
@@ -275,11 +275,11 @@ Each bough has a **Guardian** (shadow/power) you must confront. **What is blocki
 - ☐ Do I view eros as "lower" and agape as "higher"? (This is Gnostic heresy, not Magdalene Path)
 - ☐ Am I punishing myself for past sexual choices, relationships, or desires?
 
-**If yes to any:** You've absorbed Pope Gregory's lie (594 CE conflation of Mary Magdalene with "sinful woman"). **The Magdalene tradition honors eros as pathway to gnosis.**
+**If yes to any:** You've absorbed Pope Gregory's lie[^3] (594 CE conflation of Mary Magdalene with "sinful woman"). **The Magdalene tradition honors eros as pathway to gnosis.**
 
 **Antidote:**
 - **Reclaim anointing** — Sexuality is sacred, not shameful
-- Read Bourgeault on **A = E × K** (Agape = Eros × Kenosis)—divine love is not separate from passion; it's passion transformed by self-emptying
+- Read Bourgeault on **A = E × K** (Agape = Eros × Kenosis)[^2]—divine love is not separate from passion; it's passion transformed by self-emptying
 - Work with a therapist or somatic practitioner if body shame is deep
 
 #### Shadow 3: Codependency Disguised as Sacred Union
@@ -523,7 +523,7 @@ These are **ongoing practices** (not timed to weekly/monthly/quarterly), but you
 **How this affects The Magdalene Path:**
 - **You CANNOT rush spiritual decisions** — Your emotional wave requires time
 - **Contemplative prayer supports your wave** — Creates spaciousness for clarity to emerge
-- **Dark Night of the Senses may feel like your wave** (don't conflate them—Dark Night is God withdrawing consolations; your wave is your design)
+- **Dark Night of the Senses may feel like your wave[^4]** (don't conflate them—Dark Night is God withdrawing consolations; your wave is your design)
 
 **Practice:**
 - Before making ANY significant spiritual commitment (retreat, teacher, practice shift), **wait through at least one full wave cycle** (could be days or weeks for you)
@@ -546,7 +546,7 @@ These are **ongoing practices** (not timed to weekly/monthly/quarterly), but you
 
 **6th Line:**
 - **If you're 30-50 (on the roof):** You're in **observation phase** — This is PERFECT for The Magdalene Path, which requires seeing clearly before modeling
-- **The Observatory itself mirrors your 6th line** — You're building a structure for SEEING, not for comfort
+- **The Observatory itself mirrors your 6th line[^5]** — You're building a structure for SEEING, not for comfort
 - **Don't rush to model/teach** before 50 — Your 6th line needs the full integration period
 
 **Your current phase (likely on the roof):**
@@ -589,6 +589,15 @@ Clients never see:
 - A practitioner who **sees clearly** (climbing the Boughs, not projecting their stage onto clients)
 
 **The Magdalene Path is YOUR vertical axis.** Walk it honestly. Track it rigorously. Let the fruit speak for itself.
+
+---
+## Footnotes
+
+[^1]: *The Gospel of Mary*, Berlin Gnostic Codex (BG 8502,1), 2nd century CE — the soul's apophatic confrontation with the Guardians (Powers of Wrath) at each stage of ascent
+[^2]: Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010), p. 114 — the formula Agape = Eros x Kenosis as the mechanics of divine love
+[^3]: Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010) — Pope Gregory I's Homily 33 (594 CE) creating the "penitent prostitute" myth by conflating three distinct women
+[^4]: John of the Cross, *Dark Night of the Soul* (1578-1579) — purgative stages of the Dark Night distinguished from ordinary emotional fluctuation
+[^5]: Ra Uru Hu & Bunnell, *The Definitive Book of Human Design* (HDC Publishing, 2011) — the 4/6 Profile three-part life: experimentation (0-30), observation on the roof (30-50), modeling (50+)
 
 ---
 ## Sources

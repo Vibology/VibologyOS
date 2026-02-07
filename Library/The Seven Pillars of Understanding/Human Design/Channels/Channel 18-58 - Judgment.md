@@ -20,7 +20,7 @@ source_verified: Esoteric Grimoire
 
 ---
 ## Ra's Definition
-According to Ra Uru Hu, the **Channel of Judgment** is the **relentless drive to correct and perfect patterns**—the capacity to see what needs improvement and the vitality to pursue excellence. This channel connects the **Root Center** (pressure/drive) to the **Spleen Center** (instinct/health), creating a bridge between **the pressure to perfect** and **the instinct to correct**.
+According to Ra Uru Hu, the **Channel of Judgment** is the **relentless drive to correct and perfect patterns**[^1]—the capacity to see what needs improvement and the vitality to pursue excellence. This channel connects the **Root Center** (pressure/drive) to the **Spleen Center** (instinct/health)[^2], creating a bridge between **the pressure to perfect** and **the instinct to correct**.
 
 Ra taught that this channel embodies **insatiability**—the recognition that nothing is ever truly perfect, and the drive to keep improving, refining, correcting. This is not criticism for its own sake—it is the **Logic Circuit's quality control mechanism**, ensuring that patterns serve the Collective's survival and wellbeing.
 
@@ -103,7 +103,7 @@ This is the energy of the **quality control specialist**—not content with "goo
 ---
 ## Circuitry Analysis
 
-The Channel 18-58 is part of the **Collective Understanding (Logic) Circuit**, which focuses on patterns, security, and **ensuring that what works continues to work**.
+The Channel 18-58 is part of the **Collective Understanding (Logic) Circuit**[^3], which focuses on patterns, security, and **ensuring that what works continues to work**.
 
 ### The Logic Circuit's Function
 
@@ -120,7 +120,7 @@ Channel 18-58 contributes to this by:
 
 #### Why This Channel is Projected
 
-Neither the Root nor the Spleen connects directly to the Throat. Therefore, this channel **cannot manifest correction** or sustain work continuously. It is **Projected**—it requires **recognition and invitation** to share its corrective insights effectively.
+Neither the Root nor the Spleen connects directly to the Throat. Therefore, this channel **cannot manifest correction** or sustain work continuously. It is **Projected**[^4]—it requires **recognition and invitation** to share its corrective insights effectively.
 
 ---
 ## Channel Formation
@@ -153,7 +153,7 @@ The individual has **vitality and drive** but lacks the instinctive discernment 
 ---
 ## Biological and Somatic Dimension
 
-The Channel 18-58 bridges the **root/adrenals** (Gate 58, Root Center) and the **spleen/lymphatic system** (Gate 18, Spleen Center).
+The Channel 18-58 bridges the **root/adrenals** (Gate 58, Root Center) and the **spleen/lymphatic system** (Gate 18, Spleen Center)[^5].
 
 ### Physiological Signature
 
@@ -312,6 +312,14 @@ When recognized and invited, the 18-58 individual becomes the **guardian of qual
 - [[Projector]] — Recognition, invitation, and guidance
 - Gene Keys — Shadow/Gift/Siddhi framework
 - [[Justice (XI)]] — Discernment and correction
+
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 18-58 as the relentless drive to correct and perfect patterns within the Logic Circuit
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 18-58 connecting Root Center to Spleen Center
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 18-58 placement within the Collective Understanding/Logic Circuit
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 18-58 classified as Projected (no direct Throat connection from Root or Spleen)
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Biological association of Root Center with adrenals and Spleen Center with lymphatic/immune system
 
 ## Sources
 **Primary Source:**

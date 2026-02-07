@@ -21,11 +21,11 @@ title: Lord of Oppression
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, the Ten of Wands depicts **"A man oppressed by the weight of the ten staves which he is carrying."** The upright meaning is given as: **"A card of many significances, and some of the readings cannot be harmonized. I have already allotted to the Tower card the attribute of catastrophe, which some writers on the Tarot have implied in this card. It should not be so understood. It is oppression rather, and the instinct of conservation in a state of weakness. In business: Difficulties and contradictions, if near a good card—sometimes even the ruin of a project. To a merchant: Perils, anxieties, toil, difficulties. A severe and perhaps improbable burden. Contrariety."**
+According to Waite's *Pictorial Key to the Tarot*, the Ten of Wands depicts **"A man oppressed by the weight of the ten staves which he is carrying."** The upright meaning is given as: **"A card of many significances, and some of the readings cannot be harmonized. I have already allotted to the Tower card the attribute of catastrophe, which some writers on the Tarot have implied in this card. It should not be so understood. It is oppression rather, and the instinct of conservation in a state of weakness. In business: Difficulties and contradictions, if near a good card—sometimes even the ruin of a project. To a merchant: Perils, anxieties, toil, difficulties. A severe and perhaps improbable burden. Contrariety."**[^1]
 
 This is a card of **overburdening and oppressive responsibility**. Where the Nine stood watchful but upright, the Ten is *bent under the load*—a figure carrying all ten wands, struggling toward a distant settlement, his face hidden by the burden, his back bowed, his movement labored. What began as creative fire (the Ace) has become **crude material force**—obligation, duty, the weight of success turned into imprisonment.
 
-The Golden Dawn titles this card the **"Lord of Oppression"** and attributes it to **Malkuth in Atziluth**—the Kingdom (the tenth Sephirah, the material world, the final manifestation) expressing through the World of Pure Spirit. The planetary attribution is **Saturn in Sagittarius**: the planet of limitation, restriction, duty, and structure (Saturn) crushing the sign of freedom, expansion, quest, and vision (Sagittarius). This creates an unbearable tension: **fire that wants to fly but is chained to earth**, spirit that wants to soar but is weighted down by matter.
+The Golden Dawn titles this card the **"Lord of Oppression"**[^2] and attributes it to **Malkuth in Atziluth**—the Kingdom (the tenth Sephirah, the material world, the final manifestation) expressing through the World of Pure Spirit. The planetary attribution is **Saturn in Sagittarius**:[^4] the planet of limitation, restriction, duty, and structure (Saturn) crushing the sign of freedom, expansion, quest, and vision (Sagittarius). This creates an unbearable tension: **fire that wants to fly but is chained to earth**, spirit that wants to soar but is weighted down by matter.
 
 The Golden Dawn tradition describes the Ten as representing **"cruelty, malice, revenge, injustice"**—but these qualities are not external attacks. They are the *cruelty* of the burden you impose on yourself, the *malice* of your own refusal to delegate, the *injustice* of carrying what is not yours to carry. This is Fire *oppressed*—not by enemy, not by fate, but by its own ambition, its own overreach, its own inability to release.
 
@@ -33,7 +33,7 @@ The Ten of Wands is *unfavorable* in nearly all contexts. It appears when you ha
 
 However, the card also contains a hidden gift: **the settlement is near**. The burden is oppressive, yes—but the destination is *visible*. If the figure can hold on just a little longer, or if he can finally choose to *set the wands down* and ask for help, completion is possible. The Ten is the moment of decision: *Will you break under this load, or will you finally release what you should never have carried in the first place?*
 
-When the Ten of Wands appears **reversed**, Waite identifies (ambiguously): **"Difficulties, intrigues, deception. Some authorities say loss, sacrifice."** The reversed card can manifest in multiple ways:
+When the Ten of Wands appears **reversed**, Waite identifies (ambiguously): **"Difficulties, intrigues, deception. Some authorities say loss, sacrifice."**[^3] The reversed card can manifest in multiple ways:
 - **The Burden Laid Down**: The oppression finally ends—you drop the wands, delegate the work, quit the job, abandon the project. Liberation, but possibly at great cost.
 - **Deception and Intrigue**: The burden is not what it seemed—hidden agendas, manipulation, the realization that you were carrying someone else's load under false pretenses.
 - **Collapse**: The strength finally fails, the body/mind/spirit breaks under the load, the enterprise falls apart because it was never sustainable.
@@ -443,6 +443,13 @@ The teaching: **Completion is not the goal. Liberation is.** If you complete the
 ---
 
 *"The destination is near. You can see the settlement. But you will not arrive whole unless you choose, now, to release what was never yours to carry in the first place."*
+
+## Footnotes
+
+[^1]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meanings for the Ten of Wands
+[^2]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Lord of Oppression" and Malkuth in Atziluth attribution for the Ten of Wands
+[^3]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meanings for the Ten of Wands
+[^4]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — planetary attribution of Saturn in Sagittarius for the Ten of Wands
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

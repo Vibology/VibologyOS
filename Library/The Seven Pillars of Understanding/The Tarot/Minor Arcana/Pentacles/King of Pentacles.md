@@ -20,11 +20,11 @@ zodiac_correspondence: Taurus, Virgo, Capricorn (earth signs as mastery)
 
 ---
 ## Traditional Symbolism
-According to Waite's *Pictorial Key to the Tarot*, the King of Pentacles signifies **valor, realization, intelligence, business aptitude, mathematical gifts, success in these respects**. Waite describes: **"The figure calls for no special description—it is conventional and thus expresses the message of the card."** The upright card speaks to **material mastery, executive power, the capacity to build enduring prosperity through disciplined intelligence and strategic action**.
-The Golden Dawn associates this King with **Fire of Earth**—the elemental formula of *will manifesting through matter*, creative force channeled into tangible results, sovereignty expressed as the power to *build*, not merely to rule. This is not abstract vision (King of Wands) or emotional wisdom (King of Cups) or intellectual authority (King of Swords)—this is **practical mastery**, the power to create systems that generate wealth, structures that endure, enterprises that serve.
+According to Waite's *Pictorial Key to the Tarot*, the King of Pentacles signifies **valor, realization, intelligence, business aptitude, mathematical gifts, success in these respects**. [^1] Waite describes: **"The figure calls for no special description—it is conventional and thus expresses the message of the card."** [^3] The upright card speaks to **material mastery, executive power, the capacity to build enduring prosperity through disciplined intelligence and strategic action**.
+The Golden Dawn associates this King with **Fire of Earth** [^2]—the elemental formula of *will manifesting through matter*, creative force channeled into tangible results, sovereignty expressed as the power to *build*, not merely to rule. This is not abstract vision (King of Wands) or emotional wisdom (King of Cups) or intellectual authority (King of Swords)—this is **practical mastery**, the power to create systems that generate wealth, structures that endure, enterprises that serve.
 The King represents **the sovereign of the material realm**—the one who has achieved mastery not through inheritance but through intelligence, discipline, and the capacity to make things *work*. He understands how money flows, how resources are organized, how businesses function, how wealth is created and sustained. And he uses this knowledge not merely to accumulate but to *build*—enterprises, institutions, legacies.
 This is an exceptionally favorable card in questions of business, finance, real estate, or any situation requiring executive competence and material wisdom. It indicates that you have (or are developing) the capacity to *master* the material world—to create wealth, to build systems, to manifest vision as tangible reality. The King promises that disciplined intelligence applied to practical matters yields enduring success.
-When the King of Pentacles appears **reversed**, Waite identifies meanings of **vice, weakness, ugliness, perversity, corruption, peril**. The reversal suggests the King's mastery becomes greed, his discipline becomes tyranny, his focus on success blinds him to meaning, or his power is used to dominate rather than serve. The Golden Dawn reversal indicates "avarice; using wealth to control; material success at the cost of soul; the Midas curse."
+When the King of Pentacles appears **reversed**, Waite identifies meanings of **vice, weakness, ugliness, perversity, corruption, peril**. [^4] The reversal suggests the King's mastery becomes greed, his discipline becomes tyranny, his focus on success blinds him to meaning, or his power is used to dominate rather than serve. The Golden Dawn reversal indicates "avarice; using wealth to control; material success at the cost of soul; the Midas curse." [^5]
 The key teaching: **True sovereignty is generative, not extractive**. The King of Pentacles invites you to step into mastery—not to hoard or dominate, but to *build* systems that generate prosperity for all. Real power creates wealth that flows; false power hoards wealth that stagnates. The King who builds kingdoms that outlast him is wealthier than the emperor who clutches gold that will be scattered when he dies.
 ---
 
@@ -202,6 +202,14 @@ The teaching: The King who hoards is not king at all—he is prisoner of his hoa
 
 ---
 *"The king who builds a kingdom that outlasts him is wealthier than the emperor who hoards gold that will be scattered when he dies."*
+
+## Footnotes
+
+[^1]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meaning for the King of Pentacles.
+[^2]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn Fire of Earth elemental formula for the King of Pentacles.
+[^3]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — description of the King of Pentacles as conventional figure.
+[^4]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meaning for the King of Pentacles.
+[^5]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn reversal interpretation for the King of Pentacles.
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

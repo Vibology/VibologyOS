@@ -58,15 +58,15 @@ Deliverance carries the frequency of **resolve through rhythm**—the recognitio
 
 ### The Hexagram (I-Ching)
 
-Water above Thunder—the image of storm breaking tension, deliverance from danger, release after pressure. Wilhelm's Judgment: *"Deliverance. The southwest furthers. If there is no longer anything where one has to go, return brings good fortune."* When the work is done, return to rest. When danger passes, withdraw.
+Water above Thunder—the image of storm breaking tension, deliverance from danger, release after pressure. Wilhelm's Judgment: *"Deliverance. The southwest furthers. If there is no longer anything where one has to go, return brings good fortune."*[^1] When the work is done, return to rest. When danger passes, withdraw.
 
 ### The Gate (Human Design)
 
-Gate 40 resides in the Heart/Ego Center, the will to provide and rest. This is **tribal provision through willpower**—working for the family, the business, the community, and then withdrawing to restore will through aloneness. The Tribal Ego Circuit means this rhythm serves collective survival. With Gate 37 (The Family), provision gains emotional connection; without it, this is work and rest without tribal bonding.
+Gate 40 resides in the Heart/Ego Center, the will to provide and rest.[^2] This is **tribal provision through willpower**—working for the family, the business, the community, and then withdrawing to restore will through aloneness. The Tribal Ego Circuit means this rhythm serves collective survival. With Gate 37 (The Family), provision gains emotional connection; without it, this is work and rest without tribal bonding.
 
 ### The Gene Keys
 
-**Shadow: Exhaustion** — The will that never rests, that provides without replenishing, that collapses from depletion. Giving without receiving.
+**Shadow: Exhaustion**[^3] — The will that never rests, that provides without replenishing, that collapses from depletion. Giving without receiving.
 
 **Gift: Resolve** — The capacity to work with commitment and rest with discipline. The rhythm of provision that sustains both giver and tribe.
 
@@ -135,6 +135,13 @@ The conditioning pattern: "If I rest, I'm selfish" or "My worth is measured by m
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 40 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 40 mechanics, Heart/Ego (Willpower)
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Exhaustion / Resolve / Divine Will
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 40: Deliverance

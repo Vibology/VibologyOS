@@ -23,17 +23,17 @@ title: Lord of Defeat
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, the Five of Swords signifies **degradation, destruction, revocation, infamy, dishonor, loss**. This is one of the most difficult cards in the Minor Arcana—a card of conflict that has turned toxic, of victory that tastes like ash, of defeat that humiliates. When the Five of Swords appears, it speaks to the realm of corrupted strife—the battle that should not have been fought, or the victory that cost more than it gained.
+According to Waite's *Pictorial Key to the Tarot*, the Five of Swords signifies **degradation, destruction, revocation, infamy, dishonor, loss**.[^1] This is one of the most difficult cards in the Minor Arcana—a card of conflict that has turned toxic, of victory that tastes like ash, of defeat that humiliates. When the Five of Swords appears, it speaks to the realm of corrupted strife—the battle that should not have been fought, or the victory that cost more than it gained.
 
-The Golden Dawn titles this card the **"Lord of Defeat"** and attributes it to **Venus in Aquarius**—the planet of love, harmony, and relationship operating through the sign of detachment, intellect, and the collective. This is a profoundly uncomfortable combination: Venus seeks connection, but Aquarius maintains distance. The result is *love made cold*, relationship reduced to intellectual chess, the beautiful corrupted by calculation.
+The Golden Dawn titles this card the **"Lord of Defeat"**[^2] and attributes it to **Venus in Aquarius**—the planet of love, harmony, and relationship operating through the sign of detachment, intellect, and the collective. This is a profoundly uncomfortable combination: Venus seeks connection, but Aquarius maintains distance. The result is *love made cold*, relationship reduced to intellectual chess, the beautiful corrupted by calculation.
 
-Qabalistically, this is **Geburah in Yetzirah**—Severity (the fifth Sephirah, the principle of judgment, destruction, and necessary force) expressing through the Formative World of Air and intellect. Geburah is the surgeon's knife, the warrior's blade, the corrective force that removes what is diseased. But here, Severity is expressed through thought—and thought can be cruel indeed.
+Qabalistically, this is **Geburah in Yetzirah**—Severity (the fifth Sephirah, the principle of judgment, destruction, and necessary force) expressing through the Formative World of Air and intellect.[^4] Geburah is the surgeon's knife, the warrior's blade, the corrective force that removes what is diseased. But here, Severity is expressed through thought—and thought can be cruel indeed.
 
 The card represents the **dark side of victory**—the win that destroys, the triumph that isolates, the argument won at the cost of the relationship. The Five of Swords asks: was it worth it?
 
 In readings, the Five of Swords is rarely welcome. It indicates defeat, dishonor, or hollow victory. Either you have been defeated—humiliated, stripped of your dignity—or you have "won" in a way that has cost you more than you gained. The smirking figure in the card holds the swords, but he stands alone. Everyone else has left.
 
-When the Five of Swords appears **reversed**, Waite identifies meanings of **burial, obsequies; also a sign of dishonest dealing**. The reversed Five deepens the loss—what was defeated is now being laid to rest. The funeral follows the battle. Alternatively, the reversal may indicate the exposure of dishonest tactics: the victory that seemed legitimate is revealed to have been won through cheating.
+When the Five of Swords appears **reversed**, Waite identifies meanings of **burial, obsequies; also a sign of dishonest dealing**.[^3] The reversed Five deepens the loss—what was defeated is now being laid to rest. The funeral follows the battle. Alternatively, the reversal may indicate the exposure of dishonest tactics: the victory that seemed legitimate is revealed to have been won through cheating.
 
 The key teaching: **Some victories are worse than defeat**. The Five of Swords is the card of the Pyrrhic victory—the win that destroys, the triumph that isolates, the argument that proves you right but leaves you alone.
 
@@ -325,6 +325,13 @@ The truly wise know that some swords should be dropped. Some arguments should be
 ---
 
 *"The victor who stands alone on a field of corpses has not won—he has merely outlasted."*
+
+## Footnotes
+
+[^1]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meanings for the Five of Swords
+[^2]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Lord of Defeat" and Venus in Aquarius attribution
+[^3]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meanings for the Five of Swords
+[^4]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Geburah in Yetzirah Qabalistic placement and decan attribution
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

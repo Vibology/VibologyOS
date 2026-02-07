@@ -27,7 +27,7 @@ This narrative lens reveals the Tarot as a **map of individuation**—parallel t
 3. **Circularity** — Reaching The World returns you to The Fool at a higher octave; the journey is spiral, not linear
 
 **Not a Rigid Path:**
-While the Journey provides a narrative scaffold, **real lives do not unfold in numbered order**. We cycle through phases, revisit earlier stages under new circumstances, and experience multiple archetypes simultaneously. The Journey is a **map**, not a prescription (De Angeles 2006).
+While the Journey provides a narrative scaffold, **real lives do not unfold in numbered order**. We cycle through phases, revisit earlier stages under new circumstances, and experience multiple archetypes simultaneously. The Journey is a **map**, not a prescription [^1] (De Angeles 2006).
 
 **The Fool as Constant:**
 [[The Fool (0)|The Fool]] (numbered 0) stands **outside the sequence**—both beginning and end, the eternal traveler who moves through all stages yet remains unbound by any. The Fool is:
@@ -48,7 +48,7 @@ The 21 numbered Major Arcana (excluding The Fool, who travels through them) divi
 
 **Overarching Theme:** The soul **descends into incarnation**, forms an ego, encounters archetypal parental figures, and achieves worldly mastery. This is the phase of **differentiation**—separating self from other, establishing identity, building competence (De Angeles 2006).
 
-**Psychological Parallel:** Childhood through early adulthood—ego formation, persona development, socialization, achievement (Wang 1983).
+**Psychological Parallel:** Childhood through early adulthood—ego formation, persona development, socialization, achievement [^2] (Wang 1983).
 
 **Qabalistic Parallel:** Descent from the Supernal Triad (Kether-Chokmah-Binah) toward the personal self (Tiphareth).
 
@@ -64,7 +64,7 @@ The 21 numbered Major Arcana (excluding The Fool, who travels through them) divi
 **Element:** Air (via Mercury)
 
 **The Archetype:**
-The **Magician** is the first act of conscious will—the moment the Fool (pure potential) says "**I can**" and reaches for the tools of manifestation. The Magician stands at the altar with the four elemental tools (Wand/Fire, Cup/Water, Sword/Air, Pentacle/Earth) and the infinity symbol overhead, signifying **mastery of the material plane through focused intention** (Waite 1910).
+The **Magician** is the first act of conscious will—the moment the Fool (pure potential) says "**I can**" and reaches for the tools of manifestation. The Magician stands at the altar with the four elemental tools (Wand/Fire, Cup/Water, Sword/Air, Pentacle/Earth) and the infinity symbol overhead, signifying **mastery of the material plane through focused intention** [^3] (Waite 1910).
 
 **Role in Journey:**
 The soul learns it has **agency**—thoughts become actions, will shapes reality. The Magician teaches that the universe is not random but **responsive to focused intention**. This is not yet wisdom (that comes later), but the **intoxicating discovery of power**.
@@ -192,7 +192,7 @@ The soul encounters **collective wisdom**—religion, philosophy, cultural teach
 **Element:** Air (via Gemini)
 
 **The Archetype:**
-The **Lovers** depicts a man and woman beneath an angel (Raphael), choosing union. In deeper esoteric traditions, this is the **alchemical marriage** (Waite 1910; Wang 1983). The card signifies **relationship, but more fundamentally, the act of choosing**—committing to one path means renouncing others.
+The **Lovers** depicts a man and woman beneath an angel (Raphael), choosing union. In deeper esoteric traditions, this is the **alchemical marriage** [^4] (Waite 1910; Wang 1983). The card signifies **relationship, but more fundamentally, the act of choosing**—committing to one path means renouncing others.
 
 **Role in Journey:**
 The soul faces its **first major choice**—which values to uphold, which path to walk, which partnerships to honor. The Lovers teaches that **freedom lies in commitment**, not endless options. This is also the **encounter with the Other** (beloved, partner, mirror).
@@ -260,7 +260,7 @@ The **culmination of the First Septenary**—the ego has been formed (Magician-E
 **Role in Journey:**
 The Chariot controlled through willpower; Strength integrates through **acceptance**. The soul learns that true power is not suppression but **befriending the shadow**, channeling passion without violence.
 
-**Note on Numbering:** Golden Dawn (and Thoth) swap Strength (VIII) and Justice (XI) to align with zodiacal order (Leo before Libra). Waite's RWS retains traditional numbering (Wang 1983, p. 85).
+**Note on Numbering:** Golden Dawn (and Thoth) swap Strength (VIII) and Justice (XI) to align with zodiacal order (Leo before Libra). Waite's RWS retains traditional numbering [^5] (Wang 1983, p. 85).
 
 **Shadow:** Weakness disguised as gentleness, enabling destructive behavior, repression of legitimate anger.
 
@@ -415,7 +415,7 @@ The Hanged Man suspended; Death **completes the dissolution**. What was clung to
 **Element:** Fire (via Sagittarius)
 
 **The Archetype:**
-**Temperance** (or "Art" in Thoth) depicts an angel pouring liquid between two cups, one foot on land, one in water, a golden path rising to mountains crowned with light. This is **the alchemical operation**—the mixing, tempering, integration of opposites into a third thing (Waite 1910; Wang 1983).
+**Temperance** (or "Art" in Thoth) depicts an angel pouring liquid between two cups, one foot on land, one in water, a golden path rising to mountains crowned with light. This is **the alchemical operation**—the mixing, tempering, integration of opposites into a third thing [^6] (Waite 1910; Wang 1983).
 
 **Role in Journey:**
 Death destroyed; Temperance **heals and reconstitutes**. The soul learns **the Middle Way**—not compromise (which weakens both sides) but **integration** (which births something new). This is the **union of conscious and unconscious, spirit and matter, above and below**.
@@ -620,7 +620,7 @@ The Sun revealed the Self; Judgement **calls it forth**. This is not karmic judg
 **Element:** Earth (via Saturn)
 
 **The Archetype:**
-The **World** depicts a dancing figure (androgynous, often female) within a laurel wreath, surrounded by the four living creatures of Ezekiel (eagle, bull, lion, angel—corresponding to the four fixed signs). This is **completion, integration, the sacred dance, the return home** (Waite 1910; Wang 1983).
+The **World** depicts a dancing figure (androgynous, often female) within a laurel wreath, surrounded by the four living creatures of Ezekiel (eagle, bull, lion, angel—corresponding to the four fixed signs). This is **completion, integration, the sacred dance, the return home** [^7] (Waite 1910; Wang 1983).
 
 **Role in Journey:**
 Judgement called the soul forth; the World **embodies the answer**. The journey is complete—not in the sense of "finished forever" but in the sense of **one full cycle traversed**. The Fool who leapt into the unknown has become the World—whole, integrated, dancing in the center of all things (De Angeles 2006).
@@ -742,6 +742,18 @@ Reaching the World, the soul becomes the Fool again—ready to leap into the nex
 - [[Confrontation with Shadow]] — Jungian shadow work (Personal Mythos)
 - [[The Anima]] and [[The Animus]] — Inner opposites (Personal Mythos)
 - [[The Self]] — Jungian wholeness archetype (Personal Mythos)
+
+---
+
+## Footnotes
+
+[^1]: De Angeles, Ly, *Tarot Theory & Practice* (Llewellyn Worldwide, 2006) — the Fool's Journey as map rather than prescription; lives do not unfold in numbered order
+[^2]: Wang, Robert, *The Qabalistic Tarot* (Samuel Weiser, 1983) — First Septenary as ego formation paralleling childhood through early adulthood
+[^3]: Waite, Arthur Edward, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — the Magician's four elemental tools and infinity symbol as mastery of material manifestation
+[^4]: Waite, Arthur Edward, *The Pictorial Key to the Tarot* (William Rider & Son, 1910); Wang, Robert, *The Qabalistic Tarot* (Samuel Weiser, 1983) — the Lovers as alchemical marriage in esoteric tradition
+[^5]: Wang, Robert, *The Qabalistic Tarot* (Samuel Weiser, 1983), p. 85 — Golden Dawn swap of Strength/Justice numbering to align with zodiacal order
+[^6]: Wang, Robert, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Temperance as alchemical operation integrating opposites; Thoth names it "Art"
+[^7]: Waite, Arthur Edward, *The Pictorial Key to the Tarot* (William Rider & Son, 1910); Wang, Robert, *The Qabalistic Tarot* (Samuel Weiser, 1983) — the World as completion, four Ezekiel creatures corresponding to fixed zodiacal signs
 
 ---
 

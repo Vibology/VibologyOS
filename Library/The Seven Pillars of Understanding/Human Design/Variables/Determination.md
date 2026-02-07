@@ -16,9 +16,9 @@ verification_notes: "Variables mechanics verified against Grimoire. Advanced lay
 
 ## Introduction: The Primary Health System
 
-**Determination** is the first of the Four [[Variables]]—the dietary regimen that correctly fuels the brain and body. It is calculated from the **Color** of the **Design Sun/Earth** (the unconscious imprint at birth) and forms the foundation of the **Primary Health System (PHS)**.
+**Determination** is the first of the Four [[Variables]]—the dietary regimen that correctly fuels the brain and body.[^1] It is calculated from the **Color** of the **Design Sun/Earth** (the unconscious imprint at birth) and forms the foundation of the **Primary Health System (PHS)**.
 
-**The Central Principle:** Determination is **not** about *what* you eat, but the **conditions and circumstances** under which you eat.
+**The Central Principle:** Determination is **not** about *what* you eat, but the **conditions and circumstances** under which you eat.[^2]
 
 This is the most counterintuitive aspect of PHS. We are conditioned to obsess over nutrition content—calories, macros, vitamins, superfoods. PHS says: **the "how" and "when" of eating matters more than the "what."** The same food eaten under correct vs. incorrect circumstances produces entirely different effects in the body.
 
@@ -54,7 +54,7 @@ In the 2000s, Ra began teaching **Rave Psychology** and **Primary Health System*
 
 Advanced practitioners trained in PHS use the **Tone/Color/Base matrix** (Advanced Imaging) to diagnose and prescribe specific regimens. This is not guesswork—it's a mechanical reading of the chart's substructure.
 
-**The Claim:** Correct dietary regimen, practiced consistently over **seven years**, produces measurable **brain differentiation**—heightened sensory awareness, sharper cognition, improved immune function, and longevity.
+**The Claim:** Correct dietary regimen, practiced consistently over **seven years**, produces measurable **brain differentiation**—heightened sensory awareness, sharper cognition, improved immune function, and longevity.[^3]
 
 ---
 
@@ -283,7 +283,7 @@ Advanced practitioners trained in PHS use the **Tone/Color/Base matrix** (Advanc
 
 ### The Seven-Year Cycle
 
-According to PHS teaching, correct dietary regimen produces **measurable brain differentiation** over a **seven-year cycle**.
+According to PHS teaching, correct dietary regimen produces **measurable brain differentiation** over a **seven-year cycle**.[^4]
 
 **Why seven years?** The body fully regenerates its cells approximately every seven years. Consistent correct eating allows the brain to **reorganize its neural pathways** according to its original design (Design Crystal imprint).
 
@@ -313,7 +313,7 @@ Determination (Color level) is the **surface expression** of deeper **Tonal arch
 
 ### Sequence: Determination First
 
-Determination is the **gateway** to the other Variables. You cannot access [[Environment]], [[Perspective]], or [[Motivation]] correctly without first cleaning the internal system through correct dietary regimen.
+Determination is the **gateway** to the other Variables.[^5] You cannot access [[Environment]], [[Perspective]], or [[Motivation]] correctly without first cleaning the internal system through correct dietary regimen.
 
 **Why?** The brain is the processing unit. If the brain is clouded by incorrect fueling, it cannot perceive the correct Environment, hold the correct Perspective, or operate from true Motivation. Everything downstream depends on the upstream differentiation.
 
@@ -456,6 +456,14 @@ Determination is the **gateway** to the other Variables. You cannot access [[Env
 - [[The Blueprint - 444 Architecture]] - The 64-fold substrate underlying Variables
 
 ---
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Determination as the first of the Four Variables, calculated from the Color of the Design Sun/Earth
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Determination governs conditions and circumstances of eating, not nutritional content
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Seven-year dietary regimen producing brain differentiation, heightened sensory acuity, and improved cognition
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Seven-year cycle corresponding to full cellular regeneration and neural pathway reorganization
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Determination as the gateway Variable; correct dietary regimen prerequisite for accessing Environment, Perspective, and Motivation
+
 ## Sources
 
 Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.

@@ -21,11 +21,11 @@ title: Lord of Great Strength
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, the Nine of Wands depicts **"The figure leans upon his staff and has an expectant look, as if awaiting an enemy. Behind are eight other wands—erect, in orderly disposition, like a palisade."** The upright meaning is given as: **"The card signifies strength in opposition. If attacked, the person will meet an onslaught boldly; and his build shews, that he may prove a formidable antagonist. With this main significance there are all its possible adjuncts—delay, suspension, adjournment."**
+According to Waite's *Pictorial Key to the Tarot*, the Nine of Wands depicts **"The figure leans upon his staff and has an expectant look, as if awaiting an enemy. Behind are eight other wands—erect, in orderly disposition, like a palisade."** The upright meaning is given as: **"The card signifies strength in opposition. If attacked, the person will meet an onslaught boldly; and his build shews, that he may prove a formidable antagonist. With this main significance there are all its possible adjuncts—delay, suspension, adjournment."**[^1]
 
 This is a card of **weary resilience and defensive vigilance**. Where the Eight flew freely through open air, the Nine has *landed*—and the cost of the journey is visible. The figure is wounded (bandaged head), exhausted (leaning on his staff for support), but still standing, still watchful, still *functional*. Behind him, eight wands stand upright like a defensive wall—a palisade, a barricade, protection against further assault.
 
-The Golden Dawn titles this card the **"Lord of Great Strength"** and attributes it to **Yesod in Atziluth**—Foundation (the ninth Sephirah, the astral realm, the storehouse of images and memory) expressing through the World of Pure Spirit. The planetary attribution is **Moon in Sagittarius**: the reflective, protective, cyclic lunar nature channeling through the expansive, risk-taking, questing fire sign Sagittarius. This creates a paradoxical energy: **the adventurer who has learned caution**, the seeker who now guards what has been gained, the fire that has been *tempered* by experience.
+The Golden Dawn titles this card the **"Lord of Great Strength"**[^2] and attributes it to **Yesod in Atziluth**—Foundation (the ninth Sephirah, the astral realm, the storehouse of images and memory) expressing through the World of Pure Spirit. The planetary attribution is **Moon in Sagittarius**:[^4] the reflective, protective, cyclic lunar nature channeling through the expansive, risk-taking, questing fire sign Sagittarius. This creates a paradoxical energy: **the adventurer who has learned caution**, the seeker who now guards what has been gained, the fire that has been *tempered* by experience.
 
 The Golden Dawn tradition emphasizes that the Nine represents **"tremendous and steady force that cannot be shaken"**—but this force is not the untested strength of the beginning of the journey. This is *hard-won* strength, *scarred* strength, the resilience that comes not from never falling but from *rising every time you fall*.
 
@@ -33,7 +33,7 @@ The Nine of Wands is favorable in contexts where **endurance and vigilance are r
 
 However, the card also carries a warning: **vigilance can become prison**. The figure *could* rest—the eight wands behind him form a protective barrier, the immediate threat has passed—but he does not. He *watches*, he *braces*, he *expects* the next attack. Is this wisdom born of experience, or is it *trauma* masquerading as preparedness? Has the wound healed, or has it become *identity*?
 
-When the Nine of Wands appears **reversed**, Waite identifies: **"Obstacles, adversity, calamity."** The reversed card speaks to **the collapse of defensive strength**—the vigilance that finally fails, the woundedness that becomes incapacitating, the exhaustion that can no longer be ignored. The reversed Nine can manifest as:
+When the Nine of Wands appears **reversed**, Waite identifies: **"Obstacles, adversity, calamity."**[^3] The reversed card speaks to **the collapse of defensive strength**—the vigilance that finally fails, the woundedness that becomes incapacitating, the exhaustion that can no longer be ignored. The reversed Nine can manifest as:
 - **Collapse from Exhaustion**: The body/mind/spirit finally gives out, the reserves are depleted, you cannot stand watch any longer
 - **Paranoia**: Every sound is a threat, every stranger is an enemy, hyper-vigilance that prevents rest or connection
 - **Identification with Victimhood**: The wound becomes identity—"I am someone who has been hurt"—preventing healing or forward movement
@@ -470,6 +470,13 @@ The Nine of Wands teaches: **Your scars are not proof of weakness. They are proo
 ---
 
 *"The wound is the place where the light enters you. But first, you must tend the wound, honor the scar, and choose whether it will define you or refine you."*
+
+## Footnotes
+
+[^1]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meanings for the Nine of Wands
+[^2]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Lord of Great Strength" and Yesod in Atziluth attribution for the Nine of Wands
+[^3]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meanings for the Nine of Wands
+[^4]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — planetary attribution of Moon in Sagittarius for the Nine of Wands
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

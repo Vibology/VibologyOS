@@ -17,7 +17,7 @@ verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
 ## Traditional Symbolism
 
-When The Fool appears ***upright*** in a reading, it speaks to the realm of pure potential and spiritual aspiration. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *folly, mania, extravagance, intoxication, delirium, frenzy*, and *bewrayment* (betrayal or exposure)(Waite 1910).
+When The Fool appears ***upright*** in a reading, it speaks to the realm of pure potential and spiritual aspiration. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *folly, mania, extravagance, intoxication, delirium, frenzy*, and *bewrayment* (betrayal or exposure).[^1]
 
 However, the Golden Dawn tradition offers a more nuanced interpretation. The card represents *idea, thought, and spirituality*—that which endeavors to rise above the material(Wang 1983). This is crucial: The Fool's meaning shifts dramatically depending on the nature of your question. 
 
@@ -193,6 +193,9 @@ The Fool doesn't *choose* where to step—he simply steps. The [[G Center]]'s Ma
 ---
 
 ## Sources
+
+[^1]: Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910. — Traditional upright meanings: folly, mania, extravagance, intoxication, delirium, frenzy, bewrayment; reversed meanings: negligence, absence, distribution, carelessness, apathy, nullity, vanity.
+
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
 - Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.

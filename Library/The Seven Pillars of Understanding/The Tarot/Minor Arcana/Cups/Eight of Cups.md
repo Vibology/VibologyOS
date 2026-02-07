@@ -22,19 +22,19 @@ title: Lord of Abandoned Success
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, the Eight of Cups signifies **the decline of a matter, or that a matter which has been thought to be important is really of slight consequence—either because of what follows, or because it has been replaced by something else**. When the Eight of Cups appears upright, it speaks to the moment of voluntary departure—walking away from what no longer nourishes, even when the world would call such leaving foolish.
+According to Waite's *Pictorial Key to the Tarot*, the Eight of Cups signifies **the decline of a matter, or that a matter which has been thought to be important is really of slight consequence [^1]—either because of what follows, or because it has been replaced by something else**. When the Eight of Cups appears upright, it speaks to the moment of voluntary departure—walking away from what no longer nourishes, even when the world would call such leaving foolish.
 
-The Golden Dawn titles this card the **"Lord of Abandoned Success"**—a name that captures the essential paradox. The cups are not empty; they are full. Nothing has been broken; nothing has been spilled. The figure walks away not from failure but from *success*—because success, once achieved, has revealed itself as insufficient for the soul's deeper hunger.
+The Golden Dawn titles this card the **"Lord of Abandoned Success"** [^2]—a name that captures the essential paradox. The cups are not empty; they are full. Nothing has been broken; nothing has been spilled. The figure walks away not from failure but from *success*—because success, once achieved, has revealed itself as insufficient for the soul's deeper hunger.
 
-The card is attributed to **Saturn in Pisces**—the planet of limitation, structure, and hard truth in the sign of dissolution, transcendence, and the infinite ocean. This is Saturn at its most spiritual: not building walls but *dissolving* them, not imposing structure but recognizing when structure has become a cage.
+The card is attributed to **Saturn in Pisces** [^3]—the planet of limitation, structure, and hard truth in the sign of dissolution, transcendence, and the infinite ocean. This is Saturn at its most spiritual: not building walls but *dissolving* them, not imposing structure but recognizing when structure has become a cage.
 
-The card represents **Hod (Splendor) in Briah (the World of Formation/Emotion)**. Hod, the eighth Sephirah, is the sphere of intellect, pattern, and communication—Mercury's domain. In the emotional realm of Briah, Hod manifests as the *recognition* that what has been built (emotionally, relationally) no longer serves the soul's trajectory. The mind perceives what the heart must act upon.
+The card represents **Hod (Splendor) in Briah (the World of Formation/Emotion)**. [^4] Hod, the eighth Sephirah, is the sphere of intellect, pattern, and communication—Mercury's domain. In the emotional realm of Briah, Hod manifests as the *recognition* that what has been built (emotionally, relationally) no longer serves the soul's trajectory. The mind perceives what the heart must act upon.
 
 The number **Eight** in Qabalah represents the realm of thought, pattern, and the intellectual recognition that precedes material change. The Eights across all suits are cards of movement and adjustment: swiftness (Wands), abandoned success (Cups), interference (Swords), prudence (Pentacles). Eight is the number that prepares for the final completion of Nine and Ten.
 
 This is one of the most spiritually significant cards in the Tarot. It depicts not crisis (that was the Five) nor confusion (that was the Seven), but *clarity*—the painful clarity that what you have is not what you need, and that staying would be a betrayal of your own becoming.
 
-When the Eight of Cups appears **reversed**, Waite notes: **great joy, happiness, feasting**. The reversal suggests either a return to pleasure (choosing to stay after all) or the discovery that what seemed necessary to leave can actually serve the deeper journey—the cups were not the problem; your relationship to them was.
+When the Eight of Cups appears **reversed**, Waite notes: **great joy, happiness, feasting**. [^5] The reversal suggests either a return to pleasure (choosing to stay after all) or the discovery that what seemed necessary to leave can actually serve the deeper journey—the cups were not the problem; your relationship to them was.
 
 The key teaching: **The cup that is full but does not nourish must be set down, no matter how beautiful it is.**
 
@@ -397,6 +397,14 @@ The Lord of Abandoned Success knows that some successes must be abandoned for gr
 ---
 
 *"The cup that is full but does not nourish must be set down, no matter how beautiful it is."*
+
+## Footnotes
+
+[^1]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meaning for the Eight of Cups.
+[^2]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Lord of Abandoned Success" for the Eight of Cups.
+[^3]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Saturn in Pisces decan attribution for the Eight of Cups.
+[^4]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Hod in Briah Sephirotic placement for the Eight of Cups.
+[^5]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meaning for the Eight of Cups.
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

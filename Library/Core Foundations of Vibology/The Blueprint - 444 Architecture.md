@@ -51,7 +51,7 @@ This is the **architecture of manifestation**—the blueprint by which conscious
 
 ### The I-Ching (c. 1000 BCE)
 
-**3,000 years earlier**, Chinese sages systematized the *I-Ching* (*Book of Changes*)—an oracle based on **binary permutations** (Huang, *The Complete I Ching*):
+**3,000 years earlier**, Chinese sages systematized the *I-Ching* (*Book of Changes*)—an oracle based on **binary permutations**:[^1]
 
 #### The Structure
 - **2** primordial forces: Yang (—) and Yin (- -)
@@ -65,7 +65,7 @@ Each hexagram represents an **archetypal situation**—a state of being, a phase
 
 ### The Convergence: Schonberger's Discovery (1973)
 
-In 1973, Dr. Martin Schonberger published *The I Ching and the Genetic Code: The Hidden Key to Life*, demonstrating the **structural correspondence** between DNA codons and I-Ching hexagrams:
+In 1973, Dr. Martin Schonberger published *The I Ching and the Genetic Code: The Hidden Key to Life*, demonstrating the **structural correspondence** between DNA codons and I-Ching hexagrams:[^5]
 
 #### The Mapping
 - Yang line (—) = Purine bases (Adenine, Guanine) = "strong" hydrogen bonds
@@ -87,7 +87,7 @@ In January 1987, Ra Uru Hu (Robert Alan Krakower) experienced a mystical revelat
 - **Astrology** (planetary positions activate gates)
 
 **The Innovation:**
-Ra mapped the **64 I-Ching hexagrams** onto the human body as **64 gates** distributed across **9 centers**, creating the **BodyGraph**—a visual representation of how cosmic patterns are encoded in the individual vehicle. As Ra teaches: *"The Hexagrams around the wheel have an association directly aligned with our genetic code, the codon... If you go down into the nucleus within the construct of the cell itself, down into its DNA, you find that everything is there"* (Ra Uru Hu, *The Definitive Book of Human Design*).
+Ra mapped the **64 I-Ching hexagrams** onto the human body as **64 gates** distributed across **9 centers**, creating the **BodyGraph**—a visual representation of how cosmic patterns are encoded in the individual vehicle. As Ra teaches: *"The Hexagrams around the wheel have an association directly aligned with our genetic code, the codon... If you go down into the nucleus within the construct of the cell itself, down into its DNA, you find that everything is there"*.[^2]
 
 **The Mechanism:**
 - At birth, planetary positions (in degrees 0-360° of the zodiac) activate specific gates
@@ -99,14 +99,14 @@ Ra mapped the **64 I-Ching hexagrams** onto the human body as **64 gates** distr
 
 ### Gene Keys: The Contemplative I-Ching (2009)
 
-Richard Rudd's **Gene Keys** (published 2009, refined through 2013) takes the 64 hexagrams and maps them onto a **shadow-gift-siddhi spectrum**. Rudd presents it as a *"codebook of consciousness"* designed to unlock the higher purpose hidden in your DNA, teaching that DNA is not a fixed blueprint but *"a fluid software that responds to your attitude and consciousness"* (Rudd, *The Gene Keys*).
+Richard Rudd's **Gene Keys** (published 2009, refined through 2013) takes the 64 hexagrams and maps them onto a **shadow-gift-siddhi spectrum**. Rudd presents it as a *"codebook of consciousness"* designed to unlock the higher purpose hidden in your DNA, teaching that DNA is not a fixed blueprint but *"a fluid software that responds to your attitude and consciousness"*.[^3]
 
 **The Framework:**
 - **Shadow:** The fear-based, reactive frequency—rooted in *"individual survival based on fear"* (Rudd)
 - **Gift:** The creative, responsive frequency (service, flow)—emerging when you accept the Shadow
 - **Siddhi:** The transcendent, divine frequency (enlightenment, liberation)
 
-Each of the 64 hexagrams contains all three frequencies. Rudd uses a gardening metaphor: *"The Shadow is the seed, the Gift is the flower and the Siddhi is the fruit"* (Rudd, *The Gene Keys*). Your "activation" (based on birth chart) determines which Gene Keys are **primary** in your journey, but all 64 are available.
+Each of the 64 hexagrams contains all three frequencies. Rudd uses a gardening metaphor: *"The Shadow is the seed, the Gift is the flower and the Siddhi is the fruit"*.[^4] Your "activation" (based on birth chart) determines which Gene Keys are **primary** in your journey, but all 64 are available.
 
 **The Contemplation:** Gene Keys is not mechanics (like HD)—it is **poetic mysticism**. Rudd teaches *Contemplation*—a *"playful but sustained method of ingesting the truths"* of the keys physically, emotionally, and mentally to alter your biochemistry (Rudd, *The Gene Keys*).
 
@@ -577,6 +577,16 @@ By the end of the contemplation period, the pattern is **embodied**—you don't 
 *"The Blueprint is not destiny—it is design. You are not the 64-fold structure; you are the consciousness experiencing it. The gates do not define you; they describe the vehicle through which you navigate existence. Know your design, honor your mechanics, but never forget: you are the one who chose this particular configuration before incarnation. The Blueprint is your gift to yourself—the precise instrument needed for the work you came to do."*
 
 ---
+## Footnotes
+
+[^1]: Huang, Alfred. *The Complete I Ching: The Definitive Translation* (Inner Traditions, 2010) — the I-Ching as binary oracle: 2 lines, 4 bigrams, 8 trigrams, 64 hexagrams.
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — hexagrams mapped onto the BodyGraph as gates; direct alignment between hexagrams and the genetic code.
+[^3]: Rudd, Richard. *The Gene Keys* (Watkins Publishing, 2013) — Gene Keys as "codebook of consciousness"; DNA as "fluid software that responds to your attitude and consciousness."
+[^4]: Rudd, Richard. *The Gene Keys* (Watkins Publishing, 2013) — the Shadow-Gift-Siddhi spectrum: "The Shadow is the seed, the Gift is the flower and the Siddhi is the fruit."
+[^5]: Schonberger, Martin. *The I Ching and the Genetic Code: The Hidden Key to Life* (1973) — first published demonstration of DNA codon / I-Ching hexagram structural correspondence.
+
+---
+
 ## Sources
 
 Huang, Alfred. *The Complete I Ching: The Definitive Translation*. Rochester, VT: Inner Traditions, 2010.

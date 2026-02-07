@@ -23,7 +23,7 @@ The Great Mother represents the archetypal **nurturer-warrior**—the one who fe
 
 The Great Mother is not passive caretaker or gentle nurturer alone—she merges the **life-giving aspect with the life-defending aspect**. Sarah Connor becomes the warrior-mother who prepares her son for apocalypse, who trains him to survive, who will sacrifice everything to ensure the tribe's continuity. This is nourishment as responsibility, caring as fierce protection.
 
-In Jung's framework, The Great Mother represents one of the primary archetypal images—**the source of life, sustenance, and shelter, but also the devouring force that can consume what it creates**. The Great Mother contains both the nurturing breast and the terrible jaws; she is womb and tomb. Sarah Connor embodies the protective face of this archetype—the mother who will kill to preserve her child, who transforms her own body into weapon to defend what she has birthed.
+In Jung's framework, The Great Mother represents one of the primary archetypal images—**the source of life, sustenance, and shelter, but also the devouring force that can consume what it creates**.[^1] The Great Mother contains both the nurturing breast and the terrible jaws; she is womb and tomb. Sarah Connor embodies the protective face of this archetype—the mother who will kill to preserve her child, who transforms her own body into weapon to defend what she has birthed.
 
 The Great Mother appears when **caring demands strength**, when nourishment requires discernment, when the question is not "will you provide?" but "for whom will you spend your life force?" This is the archetype of selective, fierce, sustainable caring.
 
@@ -56,13 +56,13 @@ This is the Great Mother at gift frequency: **nourishment through fierce boundar
 
 ### The Dual Nature (Neumann)
 
-Erich Neumann's *The Great Mother* maps the archetype's two faces: the Good Mother (nourishing, protecting, life-giving) and the Terrible Mother (devouring, imprisoning, death-dealing). Both belong to the same archetype. The mother who gives life can also withhold it; the womb that creates is also the tomb that contains.
+Erich Neumann's *The Great Mother* maps the archetype's two faces: the Good Mother (nourishing, protecting, life-giving) and the Terrible Mother (devouring, imprisoning, death-dealing).[^2] Both belong to the same archetype. The mother who gives life can also withhold it; the womb that creates is also the tomb that contains.
 
 Sarah Connor primarily expresses the Good Mother's protective aspect, but her capacity for violence reveals the Terrible Mother lurking beneath. She will destroy to preserve. This is not corruption but **the full spectrum of maternal power**: fierce love that includes the willingness to kill.
 
 ### Jungian Analysis
 
-Jung wrote of the Mother archetype as the first and most powerful imprint—the original relationship that shapes all subsequent bonds. The infant's survival depends entirely on the mother's nourishment; betrayal or abandonment at this stage is existential catastrophe.
+Jung wrote of the Mother archetype as the first and most powerful imprint—the original relationship that shapes all subsequent bonds.[^3] The infant's survival depends entirely on the mother's nourishment; betrayal or abandonment at this stage is existential catastrophe.
 
 The Great Mother as archetype extends beyond personal mother to include: the Earth itself (Gaia, Demeter), the Church (Mother Church), the nation (Motherland), any containing/nourishing structure. When activated, the archetype evokes **the longing to be held, fed, protected**—and the terror of being devoured, smothered, consumed.
 
@@ -102,6 +102,13 @@ Sarah Connor's relationship with John inverts the usual dependency: she prepares
 - [[The Great Mother]] — Jungian archetypal framework (Personal Mythos)
 - [[Venus ♀]] — Planetary ruler of Taurus; values and resources
 - [[Meeting the Mentor]] — The mother as first guide
+
+---
+## Footnotes
+
+[^1]: Jung, *The Archetypes and the Collective Unconscious* (CW 9i, Princeton, 1969) — The Mother archetype and its transformations (§148-198)
+[^2]: Neumann, *The Great Mother* (Princeton, 1955) — dual nature of the maternal archetype: Good Mother and Terrible Mother (Part I)
+[^3]: von Franz, *Shadow and Evil in Fairy Tales* (Shambhala, 1995) — The Terrible Mother in folklore (Chapter 4)
 
 ---
 ## Sources

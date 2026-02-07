@@ -15,7 +15,7 @@ category: Foundational Practice
 
 **Inner Authority and Strategy** constitute the practical methodology by which the [[Anima et Algorithm|Anima]] validates what the Algorithm presents. They are the **somatic decision-making mechanisms** that ensure you live your own design rather than the conditioned expectations of family, culture, or the strategic mind.
 
-This is the most radical claim of [[Human Design]]: **The mind is not your authority**. Ra Uru Hu teaches: *"The mind is not a trustworthy personal guidance system"*—it creates narratives and lies to maintain control, often masking the body's true nature. The solution: *"See the body as the solution, not as the problem"* (Ra Uru Hu, *Definitive Book of Human Design*).
+This is the most radical claim of [[Human Design]]: **The mind is not your authority**. Ra Uru Hu teaches: *"The mind is not a trustworthy personal guidance system"*—it creates narratives and lies to maintain control, often masking the body's true nature. The solution: *"See the body as the solution, not as the problem"*.[^1]
 
 Why is the mind unreliable? Because it operates on:
 - **Conditioning** (what you were taught you "should" do)
@@ -23,7 +23,7 @@ Why is the mind unreliable? Because it operates on:
 - **Comparison** (what others are doing)
 - **Future projection** (imagined outcomes rather than present resonance)
 
-Ra teaches that the Mind (Personality) is designed for Outer Authority—collecting information, measuring, and communicating perspectives—but cannot make correct personal decisions. The Body (Design) holds Inner Authority and is the vehicle for movement and experience. Strategy determines **how** you engage with opportunities; Authority determines **what** to say yes or no to (Ra Uru Hu).
+Ra teaches that the Mind (Personality) is designed for Outer Authority—collecting information, measuring, and communicating perspectives—but cannot make correct personal decisions. The Body (Design) holds Inner Authority and is the vehicle for movement and experience.[^2] Strategy determines **how** you engage with opportunities; Authority determines **what** to say yes or no to.
 
 Together, they form the **operational navigation system** for living as yourself.
 
@@ -40,7 +40,7 @@ Human Design recognizes **seven primary Authorities** (plus two rare variants), 
 
 #### How It Works
 
-This is the strongest authority. The Solar Plexus operates on a biochemical wave of highs and lows. Ra Uru Hu teaches: *"There is no truth in the now"*—decisions cannot be made in the moment. One must *"wait for clarity"* over time until the wave levels out (Ra Uru Hu, *Definitive Book*).
+This is the strongest authority. The Solar Plexus operates on a biochemical wave of highs and lows. Ra Uru Hu teaches: *"There is no truth in the now"*—decisions cannot be made in the moment. One must *"wait for clarity"* over time until the wave levels out.[^3]
 
 The Solar Plexus generates a **wave**—a continuous oscillation between hope and pain, excitement and disappointment, clarity and confusion. This is not moodiness; it is the **spirit's process of integrating experience**.
 
@@ -117,7 +117,7 @@ Sacral beings who honor their Authority become **generative powerhouses**—they
 
 #### How It Works
 
-The Spleen is the oldest awareness (survival instinct). It speaks quietly, spontaneously, and only once—it never repeats itself. If you ignore the instinct (a hunch or physical alert), it will not warn you again. It requires deep attention to the immediate moment (Ra Uru Hu, *Definitive Book*).
+The Spleen is the oldest awareness (survival instinct). It speaks quietly, spontaneously, and only once—it never repeats itself. If you ignore the instinct (a hunch or physical alert), it will not warn you again. It requires deep attention to the immediate moment.[^5]
 
 The Spleen says:
 - *"Turn left here."*
@@ -445,7 +445,7 @@ Each morning, ask:
 
 ### The Experiment
 
-Human Design is not belief—it is **experiment**. Ra Uru Hu taught that the system is just "fascinating information" until applied through the Experiment of Strategy and Authority, which aligns the mechanical knowledge with the actual life trajectory: *"If you live by your personal Strategy and Authority there is nothing to do - the doing happens and 'you' are not interfering"* and *"The moment your mind stops making decisions you actually get a life"* (Ra Uru Hu, *Definitive Book*).
+Human Design is not belief—it is **experiment**. Ra Uru Hu taught that the system is just "fascinating information" until applied through the Experiment of Strategy and Authority, which aligns the mechanical knowledge with the actual life trajectory: *"If you live by your personal Strategy and Authority there is nothing to do - the doing happens and 'you' are not interfering"* and *"The moment your mind stops making decisions you actually get a life"*.[^4]
 
 The only way to know if Authority and Strategy are correct is to **test them**:
 1. Make decisions according to Authority for 6 months
@@ -509,6 +509,16 @@ The third shadow: **fear of what Authority reveals**:
 *"The mind is a magnificent servant but a terrible master. Inner Authority returns sovereignty to the body—the only intelligence that knows, without thought, what is correct for you."*
 
 ---
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — "The mind is not a trustworthy personal guidance system"; "See the body as the solution, not as the problem."
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Mind as Outer Authority (information-gatherer) vs. Body as Inner Authority (decision-maker).
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Emotional Authority: "No truth in the now"; wait for clarity over the biochemical wave.
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — the Experiment of Strategy and Authority; "If you live by your personal Strategy and Authority there is nothing to do."
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Splenic Authority as the oldest awareness; speaks once and never repeats.
+
+---
+
 ## Sources
 
 Ra Uru Hu. *The Definitive Book of Human Design*. HDC Publishing, 2011.

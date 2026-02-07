@@ -19,9 +19,9 @@ status: comprehensive
 ## Overview
 ### Jung's Definition
 
-**The Senex** (Latin: "old man") is the Jungian archetype of the **Wise Elder**—the figure of earned authority, discipline, structure, and the wisdom that comes through limitation and time. The Senex is intimately connected to **Saturn** (Chronos) in astrological symbolism and represents the **mature masculine principle** that has integrated experience, suffering, and mortality into wisdom.
+**The Senex** (Latin: "old man") is the Jungian archetype of the **Wise Elder**—the figure of earned authority, discipline, structure, and the wisdom that comes through limitation and time. The Senex is intimately connected to **Saturn** (Chronos) in astrological symbolism[^1] and represents the **mature masculine principle** that has integrated experience, suffering, and mortality into wisdom.
 
-James Hillman, in *Puer Papers*, writes[^1]:
+James Hillman, in *Puer Papers*, writes[^2]:
 
 > "The senex is the principle of limitation, boundary, form, and law. He is time itself—the teacher, the tester, the one who says 'No' so that 'Yes' has meaning. Without the senex, the puer burns himself to ash. Without the puer, the senex becomes a tomb."
 
@@ -523,23 +523,23 @@ Hillman[^9]:
 
 ## Sources
 
-[^1]: Hillman, James. *Puer Papers*. Spring Publications, 1979.
+[^1]: Greene, Liz. *Saturn: A New Look at an Old Devil*. Samuel Weiser, 1976. — Saturn as archetypal ruler of the Senex; limitation, time, authority, and earned wisdom.
 
-[^2]: Hillman, James. *Puer Papers*. Spring Publications, 1979.
+[^2]: Hillman, James. *Puer Papers*. Spring Publications, 1979. — The Senex as principle of limitation, boundary, form, and law; the Senex-Puer polarity as complementary forces requiring integration.
 
-[^3]: Greene, Liz. *Saturn: A New Look at an Old Devil*. Samuel Weiser, 1976.
+[^3]: Greene, Liz. *Saturn: A New Look at an Old Devil*. Samuel Weiser, 1976. — Saturn as the just teacher who reveals what is real versus what is illusion.
 
-[^4]: Hillman, James. *Puer Papers*. Spring Publications, 1979.
+[^4]: Hillman, James. *Puer Papers*. Spring Publications, 1979. — The Senex as container enabling spirit to manifest rather than dissipate.
 
-[^5]: Greene, Liz. *Saturn: A New Look at an Old Devil*. Samuel Weiser, 1976.
+[^5]: Greene, Liz. *Saturn: A New Look at an Old Devil*. Samuel Weiser, 1976. — Saturn as the reality principle that removes illusion and leaves what is earned.
 
-[^6]: Jung, C.G. *The Archetypes and the Collective Unconscious*. Collected Works Vol. 9i. Princeton University Press. (Wise Old Man archetype)
+[^6]: Jung, C.G. *The Archetypes and the Collective Unconscious*. Collected Works Vol. 9i. Princeton University Press. — The Wise Old Man archetype appearing in desperate situations to offer superior insight, wisdom, and moral qualities.
 
-[^7]: Hillman, James. *Puer Papers*. Spring Publications, 1979.
+[^7]: Hillman, James. *Puer Papers*. Spring Publications, 1979. — The Senex as the principle that makes life meaningful through structure, endurance, and transmission.
 
-[^8]: Greene, Liz. *Saturn: A New Look at an Old Devil*. Samuel Weiser, 1976.
+[^8]: Greene, Liz. *Saturn: A New Look at an Old Devil*. Samuel Weiser, 1976. — Saturn as the schoolmaster who gives tests rather than gifts; wisdom and mastery earned through passing tests.
 
-[^9]: Hillman, James. *Puer Papers*. Spring Publications, 1979.
+[^9]: Hillman, James. *Puer Papers*. Spring Publications, 1979. — Form as vessel holding spirit; the Senex as crucible enabling transformation.
 
 **Additional References:**
 

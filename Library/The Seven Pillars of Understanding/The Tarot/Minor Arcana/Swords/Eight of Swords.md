@@ -23,17 +23,17 @@ title: Lord of Shortened Force
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, the Eight of Swords signifies **bad news, violent chagrin, crisis, censure, power in trammels, conflict, calumny; also sickness**. The image depicts a figure trapped, restricted, apparently helpless—yet, as Waite notes, "it is not a card of defeat." When the Eight of Swords appears upright, it speaks to the realm of mental imprisonment—the experience of being trapped that is often more severe in perception than in reality.
+According to Waite's *Pictorial Key to the Tarot*, the Eight of Swords signifies **bad news, violent chagrin, crisis, censure, power in trammels, conflict, calumny; also sickness**.[^1] The image depicts a figure trapped, restricted, apparently helpless—yet, as Waite notes, "it is not a card of defeat." When the Eight of Swords appears upright, it speaks to the realm of mental imprisonment—the experience of being trapped that is often more severe in perception than in reality.
 
-The Golden Dawn titles this card the **"Lord of Shortened Force"** (or "Lord of Interference") and attributes it to **Jupiter in Gemini**—the planet of expansion, possibility, and abundance operating through the sign of duality, communication, and mental agility. This is a difficult combination: Jupiter wants to grow, to expand, to see possibilities everywhere, but Gemini fragments that vision into competing perspectives, doubts, and endless analysis. The result is *force that cannot fully express itself*—power that is shortened, restricted, interfered with.
+The Golden Dawn titles this card the **"Lord of Shortened Force"** (or "Lord of Interference") and attributes it to **Jupiter in Gemini**[^2]—the planet of expansion, possibility, and abundance operating through the sign of duality, communication, and mental agility. This is a difficult combination: Jupiter wants to grow, to expand, to see possibilities everywhere, but Gemini fragments that vision into competing perspectives, doubts, and endless analysis. The result is *force that cannot fully express itself*—power that is shortened, restricted, interfered with.
 
-Qabalistically, this is **Hod in Yetzirah**—Splendor (the eighth Sephirah, the principle of intellect, pattern, and systematic thought) expressing through the Formative World of Air and mind. Hod is Mercury's sphere—the realm of thought, communication, and mental structure. In the mental world, this becomes *thought about thought*, mind observing mind, intellect analyzing intellect. The result can be brilliant clarity—or crippling self-consciousness.
+Qabalistically, this is **Hod in Yetzirah**[^4]—Splendor (the eighth Sephirah, the principle of intellect, pattern, and systematic thought) expressing through the Formative World of Air and mind. Hod is Mercury's sphere—the realm of thought, communication, and mental structure. In the mental world, this becomes *thought about thought*, mind observing mind, intellect analyzing intellect. The result can be brilliant clarity—or crippling self-consciousness.
 
 The card represents the **prison of the mind**—the experience of being trapped not by external circumstances alone, but by one's own thoughts, beliefs, fears, and assumptions about those circumstances. The Eight of Swords asks the crucial question: *how much of your prison is built of brick, and how much is built of thought?*
 
 In readings, the Eight of Swords indicates feeling stuck, trapped, or restricted. But it also indicates that the restriction may be less absolute than it appears. The querent feels helpless—but the card suggests that help (or self-liberation) may be more available than they can currently see.
 
-When the Eight of Swords appears **reversed**, Waite identifies meanings of **disquiet, difficulty, opposition; also treachery in the past, but the latter generally**. The reversal can indicate the deepening of the crisis (the trap becomes more real, or the consequences arrive), or it can indicate the beginning of liberation—the removal of the blindfold, the loosening of the bonds, the recognition that escape is possible.
+When the Eight of Swords appears **reversed**, Waite identifies meanings of **disquiet, difficulty, opposition; also treachery in the past, but the latter generally**.[^3] The reversal can indicate the deepening of the crisis (the trap becomes more real, or the consequences arrive), or it can indicate the beginning of liberation—the removal of the blindfold, the loosening of the bonds, the recognition that escape is possible.
 
 The key teaching: **The mind that believes itself trapped becomes the trap**. The Eight of Swords is both the prison and the key—the same faculty that creates the cage can recognize the cage and find the door.
 
@@ -349,6 +349,13 @@ But the lock—the lock may be open.
 ---
 
 *"The mind that believes itself trapped becomes the trap."*
+
+## Footnotes
+
+[^1]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meanings for the Eight of Swords
+[^2]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Lord of Shortened Force" and attribution of Jupiter in Gemini for the Eight of Swords
+[^3]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meanings for the Eight of Swords
+[^4]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — sephirotic placement of the Eight of Swords as Hod (Splendor) in the world of Yetzirah
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

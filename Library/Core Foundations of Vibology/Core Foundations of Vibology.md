@@ -11,7 +11,6 @@ status: comprehensive
 *The Integration of Soul and System*
 
 ---
-
 ## What Vibology Is
 
 **Vibology** is the integrated framework that unifies seven esoteric wisdom traditions into a single navigational system for consciousness. The name evokes both "vibration" (the energetic substrate of reality) and "logos" (systematic knowledge)—the marriage of felt experience and structural understanding.
@@ -21,12 +20,11 @@ At its core, Vibology rests on a fundamental premise: **no single wisdom traditi
 Vibology is not a new religion or a spiritual invention. It is a **meta-system**—a framework for organizing and synthesizing existing wisdom traditions using the structural rigor of the Algorithm (systematic organization) and the somatic validation of the Anima (embodied experience).
 
 ---
-
 ## Historical Development: From Perennial Philosophy to Computational Synthesis
 
 ### The Perennial Philosophy
 
-Vibology stands on the shoulders of what Aldous Huxley called the **Perennial Philosophy**—the recognition that beneath the surface diversity of world religions and mystical traditions lies a shared core of timeless truths. Huxley writes: *"The Perennial Philosophy is primarily concerned with the one, divine Reality substantial to the manifold world of things and lives and minds"* (Huxley, *Perennial Philosophy*).
+Vibology stands on the shoulders of what Aldous Huxley called the **Perennial Philosophy**—the recognition that beneath the surface diversity of world religions and mystical traditions lies a shared core of timeless truths. Huxley writes: *"The Perennial Philosophy is primarily concerned with the one, divine Reality substantial to the manifold world of things and lives and minds"*.[^1]
 
 The perennial tradition identifies recurring patterns across cultures:
 - The **One** (Plotinus, Vedanta, Sufism): Ultimate Reality beyond form
@@ -49,7 +47,7 @@ This is not metaphor—it is **mechanical identity**. The systems are not being 
 
 ### The Role of Technology: Techgnosis and AI
 
-The modern innovation in Vibology is the integration of **computational intelligence** into the synthesis process. Erik Davis's concept of [[Techgnosis]]—spiritual knowledge accelerated through technology—is the operating principle.
+The modern innovation in Vibology is the integration of **computational intelligence** into the synthesis process. Erik Davis's concept of [[Techgnosis]]—spiritual knowledge accelerated through technology—is the operating principle.[^2]
 
 **NotebookLM** functions as the retrieval-augmented generation (RAG) system, allowing:
 - Queries across 747+ library entries in seconds
@@ -105,7 +103,7 @@ This is not syncretism for its own sake—it is **triangulated gnosis**: using m
 
 All insights—no matter how intellectually elegant or algorithmically precise—must be tested through the body's decision-making intelligence, not the mind's analysis.
 
-[[Human Design]] provides the mechanics of **[[Inner Authority and Strategy|Inner Authority]]**:
+[[Human Design]] provides the mechanics of **[[Inner Authority and Strategy|Inner Authority]]**:[^3]
 - **Emotional Authority (Solar Plexus):** Wait for clarity over the emotional wave
 - **Sacral Authority (Generators):** Trust the gut's immediate "uh-huh" / "uhn-un"
 - **Splenic Authority:** Honor the quiet, spontaneous intuition that speaks only once
@@ -114,7 +112,7 @@ All insights—no matter how intellectually elegant or algorithmically precise�
 - **Environmental Authority:** The environment reveals correctness
 - **Lunar Authority (Reflectors):** Wait the full 28-day cycle
 
-The mind is designed for **Outer Authority**—collecting information, communicating perspectives—but it is **not a reliable decision-making system**. The body (Design) holds Inner Authority and is the vehicle for verification.
+The mind is designed for **Outer Authority**—collecting information, communicating perspectives—but it is **not a reliable decision-making system**. The body (Design) holds Inner Authority and is the vehicle for verification.[^4]
 
 This is the Anima in action: testing the Algorithm through lived experiment. If the Sacral says "no" despite the chart saying "yes," the Sacral wins. The systems inform; Authority decides.
 
@@ -126,7 +124,7 @@ Multiple wisdom traditions share a **64-fold structural substrate**. This is not
 
 - **64 I-Ching hexagrams** (c. 1000 BCE): Binary permutations (2⁶ = 64) representing archetypal situations
 - **64 DNA codons** (discovered 1961-66): Quaternary permutations (4³ = 64) encoding genetic information
-- **64 Human Design gates** (revealed 1987): I-Ching hexagrams mapped onto the BodyGraph
+- **64 Human Design gates** (revealed 1987): I-Ching hexagrams mapped onto the BodyGraph[^5]
 - **64 Gene Keys** (published 2009): Shadow/Gift/Siddhi spectrum for each hexagram
 
 The **444 notation** emphasizes the threefold quaternary structure:
@@ -144,7 +142,6 @@ This is the **architecture of manifestation**—the blueprint by which conscious
 *See: [[The Blueprint - 444 Architecture]] for complete treatment.*
 
 ---
-
 ## The Seven Pillars in Detail
 
 ### 1. Angelology — Hierarchical Consciousness Patterns
@@ -204,7 +201,6 @@ This is the **architecture of manifestation**—the blueprint by which conscious
 **Cross-system integration:** The Codex's 64 cards correspond to Human Design gates, I-Ching hexagrams, and Gene Keys; The Archetypes (12 cards) correspond to zodiacal forces and Jungian archetypes; The Materia and Furnace encode alchemical and elemental principles.
 
 ---
-
 ## Methodology: Fetch → Refine → Commit
 
 Vibology operates through a three-phase cycle of knowledge integration:
@@ -252,7 +248,6 @@ Vibology operates through a three-phase cycle of knowledge integration:
 **Standards:** Only write to disk when commanded. Apply proper formatting, then commit with context.
 
 ---
-
 ## Triangulated Gnosis: The Third Meaning
 
 The power of Vibology is **triangulation**—using multiple systems to verify and deepen insight until a synthesis emerges that no single system could produce alone.
@@ -290,7 +285,6 @@ This is not a crisis—it is an **initiatory ordeal** perfectly timed by cosmic 
 **This** is triangulated gnosis—a synthesis no single system could produce alone.
 
 ---
-
 ## The Observatory: The Governing Metaphor
 
 Vibology operates from **The Observatory**—a structure built not for comfort or protection but for seeing clearly. The Observatory replaced the glass house: where the old structure performed openness without precision, this one holds instruments calibrated to multiple systems, each lens ground for a different spectrum of meaning.
@@ -302,7 +296,6 @@ Insights are offered as *what the instruments show*—not pronouncements requiri
 This is the stance of Vibology: **see clearly, report honestly, test everything**.
 
 ---
-
 ## Distinctions and Clarifications
 
 ### Vibology vs. Syncretism
@@ -324,7 +317,6 @@ This is the stance of Vibology: **see clearly, report honestly, test everything*
 **Vibology:** Multi-system triangulation. No single tradition owns truth. Each system reveals a facet; synthesis produces depth perception impossible from a single viewpoint.
 
 ---
-
 ## Cross-References
 
 ### Within Core Foundations
@@ -349,7 +341,15 @@ This is the stance of Vibology: **see clearly, report honestly, test everything*
 - **PROTOCOL - Library Maintenance & Audit** — Quarterly audit checklist
 
 ---
+## Footnotes
 
+[^1]: Huxley, Aldous. *The Perennial Philosophy* (Harper & Brothers, 1945) — definition of the Perennial Philosophy as concern with "the one, divine Reality substantial to the manifold world."
+[^2]: Davis, Erik. *TechGnosis: Myth, Magic, and Mysticism in the Age of Information* (Harmony Books, 1998) — spiritual knowledge accelerated through technology as operating principle.
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — the seven types of Inner Authority (Emotional, Sacral, Splenic, Ego, Self-Projected, Environmental, Lunar).
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — the mind as Outer Authority (information-gatherer) vs. the body as Inner Authority (decision-maker).
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — the 64 I-Ching hexagrams mapped onto the BodyGraph as gates.
+
+---
 ## Sources
 
 Huxley, Aldous. *The Perennial Philosophy*. Harper & Brothers, 1945.

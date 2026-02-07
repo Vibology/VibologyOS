@@ -15,14 +15,14 @@ verification_notes: "Individual verification complete. Core mechanics (Spleen Ce
 
 ---
 ## Ra's Definition
-**Splenic Authority** is defined by a **defined [[Spleen]] Center** *without* a defined [[Solar Plexus]] or [[Sacral]]. If either of those centers is defined, they override the Spleen in the authority hierarchy.
+**Splenic Authority** is defined by a **defined [[Spleen]] Center** *without* a defined [[Solar Plexus]] or [[Sacral]].[^1] If either of those centers is defined, they override the Spleen in the authority hierarchy.
 
-Splenic Authority is the domain of **[[Manifestor]]s** and **[[Projector]]s**—the non-Sacral Types who require instantaneous, survival-based knowing.
+Splenic Authority is the domain of **[[Manifestor]]s** and **[[Projector]]s**—the non-Sacral Types who require instantaneous, survival-based knowing.[^4]
 
 ---
 ## The Mechanics: Existential Knowing in the Moment
 
-Splenic Authority operates through **instantaneous, non-repeating awareness** rooted in the body's survival intelligence. The Spleen is the oldest awareness center in the BodyGraph, responsible for:
+Splenic Authority operates through **instantaneous, non-repeating awareness** rooted in the body's survival intelligence. The Spleen is the oldest awareness center in the BodyGraph,[^2] responsible for:
 - **Health and well-being**
 - **Survival and safety**
 - **Instinctual recognition of danger or opportunity**
@@ -32,7 +32,7 @@ Splenic knowing arrives as a **single impulse**—a soft, subtle alert that spea
 ---
 ## The Core Principle: "It Only Speaks Once"
 
-The defining characteristic of Splenic Authority is its **ephemeral nature**:
+The defining characteristic of Splenic Authority is its **ephemeral nature**:[^3]
 - The Spleen speaks *in the moment*
 - It does not repeat its knowing
 - If you miss it, it does not return
@@ -97,7 +97,7 @@ Splenic Authority can appear in:
 - **Manifestors** (9% of population, subset with Splenic Authority)
 - **Projectors** (21% of population, subset with Splenic Authority)
 
-**Generators** cannot have Splenic Authority, as their defined Sacral overrides it.
+**Generators** cannot have Splenic Authority, as their defined Sacral overrides it.[^5]
 **Reflectors** cannot have Splenic Authority, as they have no defined centers.
 
 ---
@@ -157,6 +157,15 @@ Individuals with Splenic Authority bring:
 ---
 
 *Splenic Authority is the intelligence of the present moment—a quiet, ancient knowing that speaks once and does not repeat. It is the body's guardian, attuned to survival and health, and it requires absolute presence and trust. To honor the Spleen is to live spontaneously, to act without hesitation, and to trust that the body's first knowing is the truest knowing.*
+
+---
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Splenic Authority defined by Spleen Center without Solar Plexus or Sacral definition
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — The Spleen as the oldest awareness center in the BodyGraph
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Splenic knowing speaks once, in the moment, and does not repeat
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Splenic Authority available only to Manifestors and Projectors (non-Sacral Types)
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Generators' defined Sacral overrides Splenic Authority in the hierarchy
 
 ---
 ## Sources

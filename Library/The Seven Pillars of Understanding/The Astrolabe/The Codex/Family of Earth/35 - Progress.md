@@ -58,15 +58,15 @@ Progress carries the frequency of **adventure as spiritual necessity**—the rec
 
 ### The Hexagram (I-Ching)
 
-Fire above Earth—the image of the sun rising, light advancing across the land. Wilhelm's Judgment: *"Progress. The powerful prince is honored with horses in large numbers. In a single day he is granted audience three times."* Progress brings recognition, but it requires movement—advancing toward light, stepping into new territory.
+Fire above Earth—the image of the sun rising, light advancing across the land. Wilhelm's Judgment: *"Progress. The powerful prince is honored with horses in large numbers. In a single day he is granted audience three times."*[^1] Progress brings recognition, but it requires movement—advancing toward light, stepping into new territory.
 
 ### The Gate (Human Design)
 
-Gate 35 resides in the Throat Center, the voice of experiential feeling. This is **hunger for change**—the need for new experience as the foundation of progress. The Abstract/Sensing Circuit learns through feeling and reflection; without Gate 36 (Darkening of the Light) in the Solar Plexus, this hunger has no emotional depth, just craving without crisis. With the full channel, hunger becomes the drive to experience life's emotional spectrum.
+Gate 35 resides in the Throat Center, the voice of experiential feeling.[^2] This is **hunger for change**—the need for new experience as the foundation of progress. The Abstract/Sensing Circuit learns through feeling and reflection; without Gate 36 (Darkening of the Light) in the Solar Plexus, this hunger has no emotional depth, just craving without crisis. With the full channel, hunger becomes the drive to experience life's emotional spectrum.
 
 ### The Gene Keys
 
-**Shadow: Hunger** — The individual is insatiable, always seeking the next experience without digesting the current one. Craving without fulfillment.
+**Shadow: Hunger**[^3] — The individual is insatiable, always seeking the next experience without digesting the current one. Craving without fulfillment.
 
 **Gift: Adventure** — The capacity to embrace new experience as evolution, to move toward change with openness and curiosity. Progress as soul-making.
 
@@ -135,6 +135,13 @@ The conditioning pattern: "I need something new to feel alive" or "Staying still
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 35 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 35 mechanics, Throat (Manifestation)
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Hunger / Adventure / Boundlessness
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 35: Progress

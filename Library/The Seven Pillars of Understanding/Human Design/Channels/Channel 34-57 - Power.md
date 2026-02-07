@@ -20,9 +20,9 @@ source_verified: Esoteric Grimoire
 
 ---
 ## Ra's Definition
-According to Ra Uru Hu, the **Channel of Power** is the **Archetype of the Human**—the purest expression of **intuitive power** in the BodyGraph. This channel connects the **Sacral** (life-force) to the **Spleen** (instinctive awareness), creating the **most primal, immediate, survival-oriented energy** in Human Design.
+According to Ra Uru Hu, the **Channel of Power** is the **Archetype of the Human**—the purest expression of **intuitive power** in the BodyGraph[^1]. This channel connects the **Sacral** (life-force) to the **Spleen** (instinctive awareness), creating the **most primal, immediate, survival-oriented energy** in Human Design.
 
-Ra taught that this channel represents **pure power to empower**—not power over others, but **power that serves the common good** through instinctive, in-the-moment awareness. This is the frequency of the human being operating at peak survival intelligence—hearing danger, sensing opportunity, acting without hesitation.
+Ra taught that this channel represents **pure power to empower**—not power over others, but **power that serves the common good** through instinctive, in-the-moment awareness[^5]. This is the frequency of the human being operating at peak survival intelligence—hearing danger, sensing opportunity, acting without hesitation.
 
 **"The 34-57 is the Archetype. This is what it means to be human—sacral power guided by split-second intuitive awareness. This is acoustic—the frequency that hears, knows, and acts. This is power at its most pure."** — Ra Uru Hu
 
@@ -36,12 +36,12 @@ The keynote is **an archetype**—the living example of power aligned with intui
 | **Channel Number** | 34-57 |
 | **Channel Name** | Power / An Archetype |
 | **Centers** | Sacral ↔ Spleen |
-| **Circuitry** | Integration (not Tribal, Collective, or Individual—pure survival) |
+| **Circuitry** | Integration (not Tribal, Collective, or Individual—pure survival)[^2] |
 | **Type** | Generated |
 | **Keynote** | An Archetype / Pure Intuitive Power |
 | **Function** | To embody instinctive survival power that serves the collective |
 | **Gates** | Gate 34 (Power of the Great/Power), Gate 57 (The Gentle/Intuitive Clarity) |
-| **Biology** | Sacral (life-force), spleen (immune system, auditory intuition) |
+| **Biology** | Sacral (life-force), spleen (immune system, auditory intuition)[^4] |
 | **Electromagnetic Theme** | Life-force energy guided by split-second intuitive awareness |
 | **Gene Keys** | Shadow: Force/Unease → Gift: Strength/Intuition → Siddhi: Majesty/Clarity |
 | **Not-Self Pattern** | Using power to dominate, overriding intuition with mind, exhausting sacral energy |
@@ -56,7 +56,7 @@ The keynote is **an archetype**—the living example of power aligned with intui
 
 **Integration Circuit:** Unlike Tribal, Collective, or Individual circuits, **Integration channels** (10-20, 20-34, 10-57, 34-57) are about **pure self-empowerment and survival**—the foundation beneath all other circuits.
 
-**The Acoustic Nature:** This channel is **auditory/frequency-based**—it doesn't think, feel, or plan. It **hears danger, hears opportunity, and acts instantly**. This is survival intelligence at its purest.
+**The Acoustic Nature:** This channel is **auditory/frequency-based**—it doesn't think, feel, or plan. It **hears danger, hears opportunity, and acts instantly**[^3]. This is survival intelligence at its purest.
 
 ---
 ## Channel Formation and Dynamics
@@ -110,6 +110,14 @@ When aligned with Strategy and Authority (responding to intuition in the now), t
 - [[Spleen]] — Instinct and survival awareness
 - Integration Channels — Pure self-empowerment (10-20, 20-34, 10-57, 34-57)
 - [[Splenic Authority]] — In-the-now intuitive decision-making
+
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 34-57 designated as the Archetype of the Human: purest intuitive power
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Integration circuitry: distinct from Tribal, Collective, and Individual streams; pure self-empowerment and survival
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Acoustic/frequency-based awareness: Splenic intuition operates as auditory knowing in the now
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Biological correlations: Sacral to life-force energy, Spleen to immune system and auditory intuition
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Power to empower: designed to serve the common good rather than dominate others
 
 ## Sources
 **Primary Source:**

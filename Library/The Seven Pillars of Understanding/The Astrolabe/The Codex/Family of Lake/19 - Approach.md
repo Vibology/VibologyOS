@@ -60,15 +60,15 @@ The alchemical image is **Coniunctio**—the sacred marriage that only occurs wh
 
 ### The Hexagram (I-Ching)
 
-Hexagram 19, *Lín* (Approach), shows Earth above Lake—the receptive placed over the joyous, creating the image of abundance that invites participation. The two yang lines at the base are rising, suggesting growth and expansion, but Wilhelm warns that this growth has limits: "when the eighth month comes, there will be misfortune." All approach has seasons; sensitivity requires knowing when to advance and when to withdraw. The Nuclear Hexagram is 24 (Return), revealing that beneath approach lies cyclical rhythm—connection and separation as natural pulse.
+Hexagram 19, *Lín* (Approach), shows Earth above Lake—the receptive placed over the joyous, creating the image of abundance that invites participation.[^1] The two yang lines at the base are rising, suggesting growth and expansion, but Wilhelm warns that this growth has limits: "when the eighth month comes, there will be misfortune." All approach has seasons; sensitivity requires knowing when to advance and when to withdraw. The Nuclear Hexagram is 24 (Return), revealing that beneath approach lies cyclical rhythm—connection and separation as natural pulse.
 
 ### The Gate (Human Design)
 
-Gate 19 in the Root provides the pressure to be sensitive to basic needs—food, shelter, touch, belonging. Ra Uru Hu taught this gate as "the need to be wanted," the tribal survival mechanism that says "if the tribe doesn't want me, I die." When connected to Gate 49 in the Solar Plexus, the 19-49 Channel creates *Synthesis*—emotional sensitivity meeting pressure to approach, creating the capacity for intimacy, revolution, and bonding. The shadow: co-dependence, approaching from neediness, mistaking inclusion for identity. The gift: exquisite sensitivity that knows when touch is welcome, when distance is required, when the tribe will receive you. The teaching: wanting is not weakness; it is the mechanism through which we remain human.
+Gate 19 in the Root provides the pressure to be sensitive to basic needs—food, shelter, touch, belonging. Ra Uru Hu taught this gate as "the need to be wanted," the tribal survival mechanism that says "if the tribe doesn't want me, I die.[^2]" When connected to Gate 49 in the Solar Plexus, the 19-49 Channel creates *Synthesis*—emotional sensitivity meeting pressure to approach, creating the capacity for intimacy, revolution, and bonding. The shadow: co-dependence, approaching from neediness, mistaking inclusion for identity. The gift: exquisite sensitivity that knows when touch is welcome, when distance is required, when the tribe will receive you. The teaching: wanting is not weakness; it is the mechanism through which we remain human.
 
 ### The Gene Keys
 
-- **Shadow: Co-dependence** — The need to be wanted collapsing into addiction to others' approval. The Shadow manifests as the person who cannot tolerate being alone, who shapes identity around others' needs, who approaches compulsively even when not welcome because separation feels like death. This is the people-pleaser who abandons self to maintain connection, the partner who stays in toxic relationship because being unwanted is more terrifying than being harmed, the tribal member who sacrifices autonomy to remain included. The wound: believing that to be wanted is to have worth.
+- **Shadow: Co-dependence**[^3] — The need to be wanted collapsing into addiction to others' approval. The Shadow manifests as the person who cannot tolerate being alone, who shapes identity around others' needs, who approaches compulsively even when not welcome because separation feels like death. This is the people-pleaser who abandons self to maintain connection, the partner who stays in toxic relationship because being unwanted is more terrifying than being harmed, the tribal member who sacrifices autonomy to remain included. The wound: believing that to be wanted is to have worth.
 
 - **Gift: Sensitivity** — Exquisite attunement to when approach is welcome and when it violates. Sensitivity reads the field—knowing when someone needs touch, when they need space, when the tribe will receive you and when approaching will create rupture. The gift is the person who approaches with timing, who reaches out when needed and withdraws when appropriate, whose presence creates safety because they never violate boundaries. Sensitivity is not mind-reading but *felt resonance*—the capacity to sense what the moment requires.
 
@@ -141,6 +141,13 @@ Another Shadow trap: withdrawal as defense. If every approach risks rejection, t
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 19 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 19 mechanics, Root
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Co-dependence / Sensitivity / Sacrifice
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 19: Approach

@@ -60,15 +60,15 @@ The alchemical image is *Nutritio*—the feeding stage where the alchemical chil
 
 ### The Hexagram (I-Ching)
 
-Hexagram 27, *I* (Providing Nourishment), depicts Mountain above Wind with a distinctive structure: strong yang lines at top and bottom (upper and lower jaw) with four yin lines between (the open mouth). The hexagram *is* the image of the mouth—what receives and distributes nourishment. Wilhelm's Judgment emphasizes discernment: "Pay heed to the providing of nourishment and to what a man seeks to fill his own mouth with." The teaching: you are what you consume; care what you take in. The Image links nourishment to restraint: "careful of his words" (what comes out of the mouth) and "temperate in eating and drinking" (what goes in).
+Hexagram 27, *I* (Providing Nourishment), depicts Mountain above Wind with a distinctive structure: strong yang lines at top and bottom (upper and lower jaw) with four yin lines between (the open mouth).[^1] The hexagram *is* the image of the mouth—what receives and distributes nourishment. Wilhelm's Judgment emphasizes discernment: "Pay heed to the providing of nourishment and to what a man seeks to fill his own mouth with." The teaching: you are what you consume; care what you take in. The Image links nourishment to restraint: "careful of his words" (what comes out of the mouth) and "temperate in eating and drinking" (what goes in).
 
 ### The Gate (Human Design)
 
-Gate 27 in the Sacral governs the impulse to care—not as emotion but as *life force commitment* to sustaining what matters. Ra Uru Hu taught that this gate carries "the capacity to take responsibility for nourishing"—self, family, tribe, community. When connected to Gate 50 in the Spleen, the 27-50 Channel creates *Preservation*—Sacral caring meets Spleen discrimination, determining what nourishes the tribe and what threatens it. This is the guardian of values: who gets fed, what beliefs are supported, what behaviors are tolerated. The challenge: to care for self *and* others without collapsing into martyrdom or selfishness.
+Gate 27 in the Sacral governs the impulse to care—not as emotion but as *life force commitment* to sustaining what matters. Ra Uru Hu taught that this gate carries "the capacity to take responsibility for nourishing"—self, family, tribe, community.[^2] When connected to Gate 50 in the Spleen, the 27-50 Channel creates *Preservation*—Sacral caring meets Spleen discrimination, determining what nourishes the tribe and what threatens it. This is the guardian of values: who gets fed, what beliefs are supported, what behaviors are tolerated. The challenge: to care for self *and* others without collapsing into martyrdom or selfishness.
 
 ### The Gene Keys
 
-- **Shadow: Selfishness** — The collapse into taking without giving; hoarding nourishment, refusing responsibility for others. Selfishness is the person who feeds only themselves, who exploits communal resources without contributing, who demands care but offers none. The Shadow is the infantile state: "feed me, but I owe you nothing." Also: the inverted selfishness of the martyr who gives compulsively to avoid receiving, creating debt rather than reciprocity.
+- **Shadow: Selfishness**[^3] — The collapse into taking without giving; hoarding nourishment, refusing responsibility for others. Selfishness is the person who feeds only themselves, who exploits communal resources without contributing, who demands care but offers none. The Shadow is the infantile state: "feed me, but I owe you nothing." Also: the inverted selfishness of the martyr who gives compulsively to avoid receiving, creating debt rather than reciprocity.
 
 - **Gift: Altruism** — The capacity to nourish others *from overflow* rather than from depletion. Altruism recognizes that caring is reciprocal: I feed you, you feed the tribe, the tribe feeds me. The gift is sustainable care—feeding self adequately so that caring for others does not become self-destruction. Altruism is the mother who puts on her own oxygen mask first; the teacher who maintains boundaries; the leader who cares for the collective without martyring themselves.
 
@@ -141,6 +141,13 @@ Another Shadow trap: indiscriminate feeding. If one lacks the Spleen's discrimin
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 27 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 27 mechanics, Sacral
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Selfishness / Altruism / Selflessness
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 27: Providing Nourishment

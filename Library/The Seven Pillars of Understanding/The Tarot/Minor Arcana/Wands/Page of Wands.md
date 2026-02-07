@@ -20,11 +20,11 @@ title: Princess of the Shining Flame, Rose of the Palace of Fire
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, the Page of Wands depicts **"a young man standing in the act of proclamation. He is unknown but faithful, and his tidings are strange."** The upright meaning is given as: **"Dark young man, faithful, a lover, an envoy, a postman. Beside a man, he will bear favorable testimony concerning him. A dangerous rival, if followed by the Page of Cups. Has the chief qualities of his suit. He may signify family intelligence."**
+According to Waite's *Pictorial Key to the Tarot*, the Page of Wands depicts **"a young man standing in the act of proclamation. He is unknown but faithful, and his tidings are strange."** The upright meaning is given as: **"Dark young man, faithful, a lover, an envoy, a postman. Beside a man, he will bear favorable testimony concerning him. A dangerous rival, if followed by the Page of Cups. Has the chief qualities of his suit. He may signify family intelligence."**[^1]
 
 This is the **Herald of New Beginnings**—not the beginning itself (that is the Ace of Wands, the pure spark), but the *messenger who announces its arrival*. The Page stands alone in a barren landscape, holding a tall staff nearly as large as himself, gazing at it with fascination, wonder, and uncertainty. He wears traveling clothes—he is a wanderer, an envoy, one sent forth to carry news or explore new terrain.
 
-The Golden Dawn titles this card the **"Princess of the Shining Flame, Rose of the Palace of Fire"** (also called "Throne of the Ace of Wands"). The title is evocative: the Page is the *throne*—the seat, the vessel, the container—for the Ace's pure creative fire. Where the Ace is the lightning bolt, the Page is the ground where that lightning strikes and takes root. The Page is *potential being examined*—the moment when you hold a new idea, a new calling, a new creative impulse, and wonder: "What do I do with this?"
+The Golden Dawn titles this card the **"Princess of the Shining Flame, Rose of the Palace of Fire"**[^2] (also called "Throne of the Ace of Wands"). The title is evocative: the Page is the *throne*—the seat, the vessel, the container—for the Ace's pure creative fire. Where the Ace is the lightning bolt, the Page is the ground where that lightning strikes and takes root. The Page is *potential being examined*—the moment when you hold a new idea, a new calling, a new creative impulse, and wonder: "What do I do with this?"
 
 The Golden Dawn tradition emphasizes that the Page of Wands represents **"brilliant and daring, but unstable" energy**. The Page is young, enthusiastic, sincere—but lacks experience, discipline, and the wisdom that comes from failure. The Page's fire burns bright but may flicker out if not tended, if not fed, if not protected from the wind. This is **fire learning to walk**—the flame that can be nurtured into a bonfire or extinguished by the first rain.
 
@@ -32,7 +32,7 @@ The Page of Wands is favorable in contexts where **new creative projects are eme
 
 However, the Page also carries warnings: **immaturity can masquerade as inspiration**. The Page confuses enthusiasm with competence, excitement with commitment, the spark with the sustained flame. The Page starts many things but finishes few. The Page announces grand plans but lacks the stamina to see them through. The reversed or shadow Page is the eternal beginner who refuses to grow beyond the "starting something new" stage because the middle and end require perseverance, discipline, and the willingness to fail and learn.
 
-When the Page of Wands appears **reversed**, Waite identifies: **"Anecdotes, announcements, evil news. Also indecision and the instability which accompanies it."** The reversed Page suggests that the message is unwelcome, the enthusiasm is premature or misplaced, or the Page's energy is scattered and ineffective. The reversed Page can manifest as:
+When the Page of Wands appears **reversed**, Waite identifies: **"Anecdotes, announcements, evil news. Also indecision and the instability which accompanies it."**[^3] The reversed Page suggests that the message is unwelcome, the enthusiasm is premature or misplaced, or the Page's energy is scattered and ineffective. The reversed Page can manifest as:
 - **Bad News Delivered**: The messenger bearing unwelcome tidings—rejection letters, disappointments, opportunities that fall through
 - **Indecision and Scattered Energy**: Starting many things, finishing none; confusing motion with progress
 - **Immaturity**: Refusing to grow up, avoiding the hard work that follows initial enthusiasm
@@ -523,6 +523,12 @@ To honor the Page is to honor the beginning. And the beginning, however fragile,
 - [[Human Design]] — Manifestor type, Gate 51 (Shock/Initiation)
 
 ---
+
+## Footnotes
+
+[^1]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meanings for the Page of Wands
+[^2]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Princess of the Shining Flame, Rose of the Palace of Fire" for the Page of Wands court card
+[^3]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meanings for the Page of Wands
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

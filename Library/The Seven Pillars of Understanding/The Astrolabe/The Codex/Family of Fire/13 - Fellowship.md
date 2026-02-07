@@ -60,15 +60,15 @@ The alchemical image is **The Vessel**—the container that receives without jud
 
 ### The Hexagram (I-Ching)
 
-Hexagram 13, *Tóng Rén* (Fellowship with Men), depicts Heaven above Fire—fire rising toward heaven, visible to all. This is the image of universal fellowship: when clarity is shared openly, people naturally recognize common humanity. Wilhelm's Judgment emphasizes openness: "Fellowship with men in the open. Success." This is not tribal bonding (family, clan) but recognition that birth, death, love, loss, joy, suffering are shared by all. The Nuclear Hexagram is 44 (Coming to Meet), revealing that beneath listening lies the need for right timing and proper contact—not all stories are meant to be heard by everyone. Discernment protects the vessel.
+Hexagram 13, *Tóng Rén* (Fellowship with Men), depicts Heaven above Fire—fire rising toward heaven, visible to all.[^1] This is the image of universal fellowship: when clarity is shared openly, people naturally recognize common humanity. Wilhelm's Judgment emphasizes openness: "Fellowship with men in the open. Success." This is not tribal bonding (family, clan) but recognition that birth, death, love, loss, joy, suffering are shared by all. The Nuclear Hexagram is 44 (Coming to Meet), revealing that beneath listening lies the need for right timing and proper contact—not all stories are meant to be heard by everyone. Discernment protects the vessel.
 
 ### The Gate (Human Design)
 
-Gate 13 in the G Center governs the capacity to witness universal human experience through individual stories. Ra Uru Hu taught this gate as "The Listener"—not the counselor who advises, but the witness who holds space. When connected to Gate 33 in the Throat, the 13-33 Channel creates *The Prodigal*—the witness who, after listening to many stories over time, eventually shares what has been learned. The shadow: discord, hearing so many conflicting perspectives that inner peace fragments. The gift: discernment, knowing which stories illuminate universal patterns and which are noise. The teaching: listening is finite. The vessel must be protected through wise boundaries.
+Gate 13 in the G Center governs the capacity to witness universal human experience through individual stories. Ra Uru Hu taught this gate as "The Listener"—not the counselor who advises, but the witness who holds space.[^2] When connected to Gate 33 in the Throat, the 13-33 Channel creates *The Prodigal*—the witness who, after listening to many stories over time, eventually shares what has been learned. The shadow: discord, hearing so many conflicting perspectives that inner peace fragments. The gift: discernment, knowing which stories illuminate universal patterns and which are noise. The teaching: listening is finite. The vessel must be protected through wise boundaries.
 
 ### The Gene Keys
 
-- **Shadow: Discord** — Listening to so many conflicting stories that inner harmony is disrupted. The listener becomes fragmented, absorbing too many perspectives without maintaining center. Discord manifests as the therapist who takes on clients' pain, the friend who becomes everyone's confidant and loses their own voice, the empath who dissolves into others' experiences. The shadow is boundary collapse: "If I listen to everyone, I'll understand everything." But understanding comes through discernment, not accumulation.
+- **Shadow: Discord**[^3] — Listening to so many conflicting stories that inner harmony is disrupted. The listener becomes fragmented, absorbing too many perspectives without maintaining center. Discord manifests as the therapist who takes on clients' pain, the friend who becomes everyone's confidant and loses their own voice, the empath who dissolves into others' experiences. The shadow is boundary collapse: "If I listen to everyone, I'll understand everything." But understanding comes through discernment, not accumulation.
 
 - **Gift: Discernment** — The capacity to hear deeply while maintaining boundaries. Discernment recognizes that not all stories are yours to hold, that listening is service but not sacrifice. The gift is the counselor who witnesses without absorbing, the elder who has "heard it all" and can say "this is familiar; here's what I've learned," the historian who organizes collective memory into wisdom. Discernment knows when to open the vessel and when to seal it.
 
@@ -141,6 +141,13 @@ Another Shadow trap: selective listening that becomes judgment. If the vessel on
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 13 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 13 mechanics, G Center (Identity)
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Discord / Discernment / Empathy
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 13: Fellowship with Men

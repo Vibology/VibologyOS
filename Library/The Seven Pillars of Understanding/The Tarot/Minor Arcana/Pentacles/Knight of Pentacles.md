@@ -20,11 +20,11 @@ zodiac_correspondence: Taurus, Virgo, Capricorn (earth signs in motion)
 
 ---
 ## Traditional Symbolism
-According to Waite's *Pictorial Key to the Tarot*, the Knight of Pentacles signifies **utility, serviceableness, interest, responsibility, rectitude**. Waite describes: **"He sits his horse in the slow movement of labor, with a single pentacle displayed. He is useful, laborious, patient in the work he has to do."** The upright card speaks to **methodical progress, reliability, steady advance toward material goals through patient, consistent effort**.
-The Golden Dawn associates this Knight with **Air of Earth**—the elemental formula of *intellect directing matter*, thought channeled into practical, systematic action. This is not the charging warrior of the Knight of Wands or the romantic quester of the Knight of Cups—this is the **worker**, the one who understands that real achievement comes from showing up daily, plowing the field furrow by furrow until the work is complete.
+According to Waite's *Pictorial Key to the Tarot*, the Knight of Pentacles signifies **utility, serviceableness, interest, responsibility, rectitude**. [^1] Waite describes: **"He sits his horse in the slow movement of labor, with a single pentacle displayed. He is useful, laborious, patient in the work he has to do."** [^3] The upright card speaks to **methodical progress, reliability, steady advance toward material goals through patient, consistent effort**.
+The Golden Dawn associates this Knight with **Air of Earth** [^2]—the elemental formula of *intellect directing matter*, thought channeled into practical, systematic action. This is not the charging warrior of the Knight of Wands or the romantic quester of the Knight of Cups—this is the **worker**, the one who understands that real achievement comes from showing up daily, plowing the field furrow by furrow until the work is complete.
 The Knight represents **sustained effort and integrity**—doing what you said you would do, honoring commitments through action, valuing consistency over brilliance. This is not heroic in the conventional sense. There is no glory here, no dramatic charge. Only the steady, patient labor that actually *accomplishes* things.
 This is a favorable card in questions of long-term projects, career advancement through reliability, or any situation requiring sustained commitment. It indicates that success will come not through luck or genius but through *persistence*—showing up, doing the work, day after day, until the goal is achieved.
-When the Knight of Pentacles appears **reversed**, Waite identifies meanings of **inertia, idleness, repose of that kind, stagnation, placidity**. The reversal suggests the Knight's reliability becomes stubbornness, his patience becomes passivity, his methodical nature becomes an excuse for never completing anything. Movement without direction, labor without purpose, or chronic caution that prevents all progress.
+When the Knight of Pentacles appears **reversed**, Waite identifies meanings of **inertia, idleness, repose of that kind, stagnation, placidity**. [^4] The reversal suggests the Knight's reliability becomes stubbornness, his patience becomes passivity, his methodical nature becomes an excuse for never completing anything. Movement without direction, labor without purpose, or chronic caution that prevents all progress.
 The key teaching: **Some work cannot be hurried**. The Knight of Pentacles offers the wisdom of the plow: you cannot rush the furrow, you cannot cheat the field. You work at the pace the earth allows, consistently, reliably, until the field is ready for seed. This is not glamorous—but it is *necessary*.
 ---
 
@@ -200,6 +200,13 @@ The teaching: Most people quit not because the work is hard but because they can
 
 ---
 *"The knight who charges wins the battle. The knight who plows wins the war."*
+
+## Footnotes
+
+[^1]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meaning for the Knight of Pentacles.
+[^2]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn Air of Earth elemental formula for the Knight of Pentacles.
+[^3]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — description of the Knight of Pentacles image as patient laborer.
+[^4]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meaning for the Knight of Pentacles.
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

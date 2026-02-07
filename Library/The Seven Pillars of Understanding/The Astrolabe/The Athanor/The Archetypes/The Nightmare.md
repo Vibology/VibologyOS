@@ -23,7 +23,7 @@ The Nightmare represents the archetypal **gatekeeper between worlds**—the prov
 
 The Nightmare is not enemy but **necessary obstruction**—the one who appears when you approach transformation, who tests spirit through resistance, who asks: "Are you ready? Have you done the work? Can you face what waits on the other side?" Freddy in the dream world is the psyche's own defense mechanism: **if you haven't integrated your shadow, you cannot pass**.
 
-In Jung's framework, The Nightmare corresponds to the **psychic resistance that appears when consciousness approaches the unconscious**—the defenses erected to protect both consciousness from overwhelming material and the unconscious from premature invasion. Jung observed that individuation repeatedly meets such guardians: dreams become terrifying when the dreamer approaches material they're not ready to integrate. The guardian tests worthiness, not to exclude but to ensure readiness.
+In Jung's framework, The Nightmare corresponds to the **psychic resistance that appears when consciousness approaches the unconscious**—the defenses erected to protect both consciousness from overwhelming material and the unconscious from premature invasion.[^1] Jung observed that individuation repeatedly meets such guardians: dreams become terrifying when the dreamer approaches material they're not ready to integrate. The guardian tests worthiness, not to exclude but to ensure readiness.
 
 The Nightmare appears when **readiness must be tested**, when obstruction serves evolution, when the question becomes: "What am I being provoked to face before I can proceed?" This is the archetype of necessary challenge.
 
@@ -58,9 +58,9 @@ Nancy survives by **turning inward**: "I take back all the power I gave you." Th
 
 ### The Threshold Guardian in Myth
 
-Campbell's Hero's Journey identifies The Threshold Guardian as appearing at every major transition—the dragon at the cave, the monster at the bridge, the fear that guards the treasure. These figures test whether the hero is ready for transformation. They serve not by allowing easy passage but by **forcing readiness**.
+Campbell's Hero's Journey identifies The Threshold Guardian as appearing at every major transition—the dragon at the cave, the monster at the bridge, the fear that guards the treasure.[^2] These figures test whether the hero is ready for transformation. They serve not by allowing easy passage but by **forcing readiness**.
 
-Jung observed the same pattern in dreams: as consciousness approaches unconscious material, resistance appears. Nightmares intensify. Fear guards the threshold. Not as punishment but as protection—the psyche ensuring you're prepared for what you're about to encounter.
+Jung observed the same pattern in dreams: as consciousness approaches unconscious material, resistance appears.[^3] Nightmares intensify. Fear guards the threshold. Not as punishment but as protection—the psyche ensuring you're prepared for what you're about to encounter.
 
 > *Vibology Synthesis: The Nightmare appears when transformation requires testing. You are approaching threshold you're not yet ready to cross. Do not force through. Turn inward. Ask: "What readiness am I being asked to demonstrate?" The guardian serves by testing.*
 
@@ -96,6 +96,13 @@ Jung observed the same pattern in dreams: as consciousness approaches unconsciou
 - [[The Threshold Guardian]] — Jungian/mythological gatekeeper
 - [[Neptune ♆]] — Planetary ruler of Pisces; dreams and dissolution
 - [[Crossing the First Threshold]] — The narrative moment in Hero's Journey
+
+---
+## Footnotes
+
+[^1]: Jung, *The Archetypes and the Collective Unconscious* (CW 9i, Princeton, 1969) — dream symbolism and psychic resistance during individuation (§306-384)
+[^2]: Campbell, *The Hero with a Thousand Faces* (Princeton, 1949) — the Threshold Guardian at every major transition (Chapter 4)
+[^3]: von Franz, *Shadow and Evil in Fairy Tales* (Shambhala, 1995) — the guardian figure in folklore (Chapter 6)
 
 ---
 ## Sources

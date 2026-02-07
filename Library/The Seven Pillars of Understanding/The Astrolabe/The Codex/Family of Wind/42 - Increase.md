@@ -60,15 +60,15 @@ The alchemical image is *Multiplicatio*—the stage where the Philosopher's Ston
 
 ### The Hexagram (I-Ching)
 
-Hexagram 42, *I* (Increase), depicts Thunder above Wind—arousing movement above gentle penetration. This hexagram is the inverse of Hexagram 41 (Decrease): where 41 teaches contraction, 42 teaches expansion. But crucially, increase here is *earned* increase—not windfall but the natural overflow that comes from completing cycles. Wilhelm's Judgment encourages undertaking: "It furthers one to undertake something"—but the Image clarifies *what* to undertake: imitate good, correct faults. Increase comes from aligning with what works, releasing what doesn't, and finishing what you start.
+Hexagram 42, *I* (Increase), depicts Thunder above Wind—arousing movement above gentle penetration.[^1] This hexagram is the inverse of Hexagram 41 (Decrease): where 41 teaches contraction, 42 teaches expansion. But crucially, increase here is *earned* increase—not windfall but the natural overflow that comes from completing cycles. Wilhelm's Judgment encourages undertaking: "It furthers one to undertake something"—but the Image clarifies *what* to undertake: imitate good, correct faults. Increase comes from aligning with what works, releasing what doesn't, and finishing what you start.
 
 ### The Gate (Human Design)
 
-Gate 42 in the Sacral governs the life force to complete—not just begin but *finish*, not just try but *accomplish*. Ra Uru Hu taught that this gate carries "the ability to grow through the completion of cycles"—the recognition that starting ten things and finishing none teaches nothing, while starting one thing and seeing it through teaches everything. When connected to Gate 53 in the Root, the 42-53 Channel creates *Maturation*—the pressure to begin correctly (53) meets the life force to finish completely (42), creating sustainable growth. The challenge: to resist the cultural addiction to novelty and the emotional impatience that abandons projects midstream.
+Gate 42 in the Sacral governs the life force to complete—not just begin but *finish*, not just try but *accomplish*. Ra Uru Hu taught that this gate carries "the ability to grow through the completion of cycles"—the recognition that starting ten things and finishing none teaches nothing, while starting one thing and seeing it through teaches everything.[^2] When connected to Gate 53 in the Root, the 42-53 Channel creates *Maturation*—the pressure to begin correctly (53) meets the life force to finish completely (42), creating sustainable growth. The challenge: to resist the cultural addiction to novelty and the emotional impatience that abandons projects midstream.
 
 ### The Gene Keys
 
-- **Shadow: Expectation** — The collapse into demanding specific outcomes; growth becomes frustration when reality doesn't match fantasy. Expectation is the person who starts relationships/projects/ventures with fixed ideas of how they "should" unfold, then abandons them when reality deviates. The Shadow is attachment to result: "I will complete this only if it gives me what I want." The teaching is missed: growth comes from the *process* of completing, not the product.
+- **Shadow: Expectation**[^3] — The collapse into demanding specific outcomes; growth becomes frustration when reality doesn't match fantasy. Expectation is the person who starts relationships/projects/ventures with fixed ideas of how they "should" unfold, then abandons them when reality deviates. The Shadow is attachment to result: "I will complete this only if it gives me what I want." The teaching is missed: growth comes from the *process* of completing, not the product.
 
 - **Gift: Detachment** — The capacity to commit to completion *without* attachment to specific outcomes. Detachment is not indifference but *spaciousness*—finishing for the sake of finishing, learning for the sake of learning, growing because growth is what living things do. The gift is the gardener who tends the plant regardless of whether it produces the hoped-for fruit; the artist who completes the work regardless of critical response; the person who finishes because finishing is integrity.
 
@@ -141,6 +141,13 @@ Another Shadow trap: completion as compulsion. If one finishes things out of rig
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 42 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 42 mechanics, Sacral
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Expectation / Detachment / Celebration
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 42: Increase

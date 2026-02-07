@@ -15,9 +15,9 @@ verification_notes: "Individual verification complete. Core mechanics (Sacral Ce
 
 ---
 ## Ra's Definition
-**Sacral Authority** is defined by a **defined [[Sacral]]** *without* a defined [[Solar Plexus]]. If the Solar Plexus is defined, it overrides the Sacral, and the person has [[Emotional Authority]] instead.
+**Sacral Authority** is defined by a **defined [[Sacral]]** *without* a defined [[Solar Plexus]].[^1] If the Solar Plexus is defined, it overrides the Sacral, and the person has [[Emotional Authority]] instead.
 
-Sacral Authority is the exclusive domain of **[[Generator]]s** (both Pure and Manifesting Generators)—the only Types with a defined Sacral Center.
+Sacral Authority is the exclusive domain of **[[Generator]]s** (both Pure and Manifesting Generators)—the only Types with a defined Sacral Center.[^2]
 
 ---
 ## The Mechanics: Instantaneous Response
@@ -26,7 +26,7 @@ Sacral Authority operates through **immediate, non-verbal response** to external
 
 ### The Sacral as Motor
 
-The Sacral is a **motor center**, the source of sustainable life force energy. Its intelligence is not conceptual but **energetic**: it responds to what it has energy *for*, and what it does not.
+The Sacral is a **motor center**, the source of sustainable life force energy.[^3] Its intelligence is not conceptual but **energetic**: it responds to what it has energy *for*, and what it does not.
 
 When the Sacral says "yes," it is committing life force.
 When the Sacral says "no," it is withholding life force.
@@ -36,7 +36,7 @@ This is not preference or opinion—it is **mechanical truth**.
 ---
 ## The Core Sounds: "Uh-Huh" and "Uhn-Un"
 
-The Sacral speaks in **guttural, non-verbal sounds**:
+The Sacral speaks in **guttural, non-verbal sounds**:[^4]
 - **"Uh-huh"** (or "mmm") = Yes, energy available
 - **"Uhn-un"** (or "mm-mm") = No, energy not available
 
@@ -105,7 +105,7 @@ Sacral Authority appears *only* in:
 - **Pure Generators** (37% of population)
 - **Manifesting Generators** (33% of population)
 
-**Total:** ~70% of humanity has access to Sacral Authority (if their Solar Plexus is undefined).
+**Total:** ~70% of humanity has access to Sacral Authority (if their Solar Plexus is undefined).[^5]
 
 ---
 ## Common Pitfalls
@@ -166,6 +166,15 @@ Generators with Sacral Authority bring:
 ---
 
 *Sacral Authority is the intelligence of the body's life force—immediate, non-verbal, and unerring. It does not explain itself, justify its knowing, or wait for the mind's approval. To trust the Sacral is to trust that the body knows what it has energy for, and to honor that knowing is to live in correct use of your life force, building only what truly satisfies.*
+
+---
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Sacral Authority defined by Sacral Center without Solar Plexus definition
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Only Generators and Manifesting Generators have defined Sacral Centers
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — The Sacral as a motor center and source of sustainable life force energy
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Sacral response expressed through guttural sounds: "uh-huh" and "uhn-un"
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Generator population: ~37% Pure Generators, ~33% Manifesting Generators (~70% total)
 
 ---
 ## Sources

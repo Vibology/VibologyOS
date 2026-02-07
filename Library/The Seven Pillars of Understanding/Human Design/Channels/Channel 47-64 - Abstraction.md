@@ -20,9 +20,9 @@ source_verified: Esoteric Grimoire
 
 ---
 ## Ra's Definition
-According to Ra Uru Hu, the **Channel of Abstraction** is the **mental reflection channel** of the Abstract (Sensing) Circuit—the pressure-driven capacity to **make sense of past experiences** through mental processing, pattern recognition, and "aha" moments of clarity. This channel connects the **Head** (pressure to think) to the **Ajna** (mental awareness), creating the **mind that processes experience into understanding**.
+According to Ra Uru Hu, the **Channel of Abstraction** is the **mental reflection channel** of the Abstract (Sensing) Circuit—the pressure-driven capacity to **make sense of past experiences** through mental processing, pattern recognition, and "aha" moments of clarity[^1]. This channel connects the **Head** (pressure to think) to the **Ajna** (mental awareness), creating the **mind that processes experience into understanding**.
 
-Ra taught that this channel represents the **reflective mind**—not thinking about the future (Logic Circuit), not thinking for individual mutation (Knowing Circuit), but **thinking about what has already happened** to extract meaning, pattern, and wisdom.
+Ra taught that this channel represents the **reflective mind**—not thinking about the future (Logic Circuit), not thinking for individual mutation (Knowing Circuit), but **thinking about what has already happened** to extract meaning, pattern, and wisdom[^5].
 
 **"The 47-64 is the reflective mind. It looks back at experience and says, 'What does this mean? What's the pattern? What can we learn?' This is the 'aha' moment—suddenly the confusion clarifies, the pieces fit together, the image makes sense."** — Ra Uru Hu
 
@@ -36,12 +36,12 @@ The keynote is **mental activity mixed with clarity**—the process of moving fr
 | **Channel Number** | 47-64 |
 | **Channel Name** | Abstraction / Mental Activity Mixed with Clarity |
 | **Centers** | Head ↔ Ajna |
-| **Circuitry** | Collective (Sensing/Abstract Circuit) |
-| **Type** | Projected (no Throat connection) |
+| **Circuitry** | Collective (Sensing/Abstract Circuit)[^2] |
+| **Type** | Projected (no Throat connection)[^3] |
 | **Keynote** | Mental Activity Mixed with Clarity / Making Sense of the Past |
 | **Function** | To process past experiences into understanding and wisdom |
 | **Gates** | Gate 47 (Oppression/Realization), Gate 64 (Before Completion/Confusion) |
-| **Biology** | Head/pineal (mental pressure), ajna/pituitary (mental processing) |
+| **Biology** | Head/pineal (mental pressure), ajna/pituitary (mental processing)[^4] |
 | **Electromagnetic Theme** | Pressure-driven mental reflection on past experience |
 | **Gene Keys** | Shadow: Oppression/Confusion → Gift: Transmutation/Imagination → Siddhi: Transfiguration/Illumination |
 | **Not-Self Pattern** | Mental confusion, overthinking the past, sharing insights without invitation |
@@ -110,6 +110,14 @@ When recognized and invited, the 47-64 individual becomes the **wise reflector**
 - [[Ajna]] — Mental awareness and processing
 - Collective Sensing Circuit — Experience-based abstract learning
 - Projected Channels — Recognition and invitation required
+
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 47-64 as the Abstract Circuit's mental reflection channel for making sense of past experience
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 47-64 classified within the Collective Sensing (Abstract) Circuit
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Projected channel type: Head-to-Ajna with no Throat or motor connection
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Biological correlations: Head to pineal gland, Ajna to pituitary gland
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Abstract mind distinguished from Logic (future) and Individual (mutation): processes past experience into wisdom
 
 ## Sources
 **Primary Source:**

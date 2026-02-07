@@ -21,17 +21,17 @@ title: Root of the Powers of Water
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, the Ace of Cups signifies **"House of the true heart, joy, content, abode, nourishment, abundance, fertility; Holy Table, felicity hereof."** When reversed: **"House of the false heart, mutation, instability, revolution."** The card speaks to the realm of emotional and spiritual fulfillment—the moment when the heart is filled to overflowing with grace.
+According to Waite's *Pictorial Key to the Tarot*, the Ace of Cups signifies **"House of the true heart, joy, content, abode, nourishment, abundance, fertility; Holy Table, felicity hereof."** [^1] When reversed: **"House of the false heart, mutation, instability, revolution."** The card speaks to the realm of emotional and spiritual fulfillment—the moment when the heart is filled to overflowing with grace.
 
-The Golden Dawn titles this card the **"Root of the Powers of Water"** and attributes it to **Kether in Briah**—the Crown (source of all emanation) expressing through the Creative World of formation and feeling. This is Water before it flows—the *principle* of receptivity, not the receptivity itself. It is the wellspring that contains the entire ocean, the first tear that holds all grief and all joy.
+The Golden Dawn titles this card the **"Root of the Powers of Water"** [^2] and attributes it to **Kether in Briah**—the Crown (source of all emanation) expressing through the Creative World of formation and feeling. This is Water before it flows—the *principle* of receptivity, not the receptivity itself. It is the wellspring that contains the entire ocean, the first tear that holds all grief and all joy.
 
 The card represents the **primordial capacity for love and connection**. It is not love itself, but the *openness to love*—the moment before the heart opens, the held breath before the "yes," the empty cup raised to receive. All Aces represent the pure essence of their element in potential form, but the Ace of Cups is uniquely *receptive*. It does not act; it *receives*. When the Ace of Cups appears, the capacity for deep emotional and spiritual experience is *available now*—the chalice is offered, but you must choose to drink.
 
 This is a profoundly favorable card in questions of love, relationship, emotional healing, and spiritual awakening. It indicates that the heart is ready to open—the divine is offering you the cup of grace, and the conditions are right for emotional transformation. However, the card requires *surrender*. The Ace of Cups does not force; it only offers. If you cannot open your hands to receive, the gift passes by.
 
-When the Ace of Cups appears **reversed**, Waite identifies the **"House of the false heart"**—emotional instability, the inability to receive love, spiritual aridity. The reversed Ace speaks to a heart that has been wounded and closed, a capacity for love that has been blocked by fear, betrayal, or self-protection. The chalice is offered but the recipient refuses it, or takes it and finds it empty because they cannot trust what is given.
+When the Ace of Cups appears **reversed**, Waite identifies the **"House of the false heart"** [^3]—emotional instability, the inability to receive love, spiritual aridity. The reversed Ace speaks to a heart that has been wounded and closed, a capacity for love that has been blocked by fear, betrayal, or self-protection. The chalice is offered but the recipient refuses it, or takes it and finds it empty because they cannot trust what is given.
 
-The Golden Dawn reversal suggests **"force in too violent or too weak a form."** The reversed Ace of Cups can manifest as either *too much Water* (emotional flooding, codependency, loss of self in another, sentimentality) or *too little Water* (emotional numbness, inability to connect, cynicism about love, spiritual dryness). Either way, the receptive capacity is distorted.
+The Golden Dawn reversal suggests **"force in too violent or too weak a form."** [^4] The reversed Ace of Cups can manifest as either *too much Water* (emotional flooding, codependency, loss of self in another, sentimentality) or *too little Water* (emotional numbness, inability to connect, cynicism about love, spiritual dryness). Either way, the receptive capacity is distorted.
 
 The key teaching: **The Ace of Cups is an invitation, not a guarantee**. Grace is offered—but you must open yourself to receive it. If you cannot trust, cannot surrender, cannot let yourself be filled, the cup remains empty even when placed in your hands.
 
@@ -166,7 +166,7 @@ The **five streams** represent:
 
 #### The Descending Dove
 
-A **dove** descends toward the chalice, carrying in its beak a **Host** (the Eucharistic wafer marked with a cross). This Christian symbolism is unmistakable.
+A **dove** descends toward the chalice, carrying in its beak a **Host** (the Eucharistic wafer marked with a cross). [^5] This Christian symbolism is unmistakable.
 
 The **dove** represents:
 - **The Holy Spirit**: In Christian iconography, the dove is the third person of the Trinity—the spirit that descends upon the waters at creation, at baptism, at Pentecost.
@@ -365,6 +365,14 @@ The Ace of Cups teaches: **You are not the source of love, but you are the vesse
 ---
 
 *"The cup that is empty is already full—full of the space that makes receiving possible."*
+
+## Footnotes
+
+[^1]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meaning for the Ace of Cups.
+[^2]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title and Kether-in-Briah attribution for the Ace of Cups.
+[^3]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meaning for the Ace of Cups.
+[^4]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn reversal interpretation for the Ace of Cups.
+[^5]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — description of the dove and Host in the Rider-Waite-Smith image.
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

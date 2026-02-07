@@ -24,15 +24,15 @@ title: Lord of Love
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, the Two of Cups signifies **love, passion, friendship, affinity, union, concord, sympathy, and the interrelation of the sexes**. It can also indicate, per Waite, "a pledge" or "engagement." When the Two of Cups appears upright, it speaks to the realm of authentic connection—not infatuation or projection, but genuine recognition between two souls who choose to create a shared reality.
+According to Waite's *Pictorial Key to the Tarot*, the Two of Cups signifies **love, passion, friendship, affinity, union, concord, sympathy, and the interrelation of the sexes**. [^1] It can also indicate, per Waite, "a pledge" or "engagement." When the Two of Cups appears upright, it speaks to the realm of authentic connection—not infatuation or projection, but genuine recognition between two souls who choose to create a shared reality.
 
-The Golden Dawn titles this card the **"Lord of Love"** and attributes it to **Venus in Cancer**—the planet of love, beauty, and harmony expressing through the sign of home, nurturing, and emotional depth. This is love that seeks to *nest*, to build a dwelling place, to create a safe container for mutual vulnerability. Venus in Cancer is not the fiery passion of Venus in Aries, nor the aesthetic refinement of Venus in Libra—it is love that *feeds*, that shelters, that says, "I will care for you, and you will care for me."
+The Golden Dawn titles this card the **"Lord of Love"** [^2] and attributes it to **Venus in Cancer** [^3]—the planet of love, beauty, and harmony expressing through the sign of home, nurturing, and emotional depth. This is love that seeks to *nest*, to build a dwelling place, to create a safe container for mutual vulnerability. Venus in Cancer is not the fiery passion of Venus in Aries, nor the aesthetic refinement of Venus in Libra—it is love that *feeds*, that shelters, that says, "I will care for you, and you will care for me."
 
-The card represents **Chokmah (Wisdom) in Briah (the Creative World of Water)**. Chokmah, the second Sephirah on the Tree of Life, is the first differentiation from the absolute unity of Kether. It is the masculine principle—the "I AM" that recognizes itself as distinct. But here in the watery realm of Cups, Chokmah manifests not as isolated self-awareness, but as **recognition of the Other**. The Two of Cups is the moment when the self says, "I see you—and in seeing you, I become more fully myself."
+The card represents **Chokmah (Wisdom) in Briah (the Creative World of Water)**. [^4] Chokmah, the second Sephirah on the Tree of Life, is the first differentiation from the absolute unity of Kether. It is the masculine principle—the "I AM" that recognizes itself as distinct. But here in the watery realm of Cups, Chokmah manifests not as isolated self-awareness, but as **recognition of the Other**. The Two of Cups is the moment when the self says, "I see you—and in seeing you, I become more fully myself."
 
 This is a profoundly favorable card in questions of relationship, partnership, collaboration, and emotional healing. It indicates that a genuine bond is forming or has formed—one based on mutual respect, reciprocity, and authentic seeing. However, the card requires both parties to remain *differentiated*. The danger (explored in the shadow section) is fusion—losing the boundary between self and other in the name of love.
 
-When the Two of Cups appears **reversed**, Waite identifies **false heart, false love, folly, misunderstanding, and depravity**. The Golden Dawn reversal suggests "passion in excess, lust, dissipation, waste, silly actions, and error." The reversed Two of Cups speaks to connection that has become corrupted—love that is possessive rather than liberating, passion that is compulsive rather than nourishing, union that is codependent rather than mutual. The pledge is broken, or it was never genuine to begin with. The reflection in the Other's eyes becomes distorted, and what was sacred partnership degrades into performance, neediness, or exploitation.
+When the Two of Cups appears **reversed**, Waite identifies **false heart, false love, folly, misunderstanding, and depravity**. [^5] The Golden Dawn reversal suggests "passion in excess, lust, dissipation, waste, silly actions, and error." The reversed Two of Cups speaks to connection that has become corrupted—love that is possessive rather than liberating, passion that is compulsive rather than nourishing, union that is codependent rather than mutual. The pledge is broken, or it was never genuine to begin with. The reflection in the Other's eyes becomes distorted, and what was sacred partnership degrades into performance, neediness, or exploitation.
 
 The key teaching: **Love is an art of seeing clearly**. The Two of Cups demands that we distinguish between authentic connection (which requires two whole individuals choosing union) and fusion (which is the dissolution of self into the Other, or the colonization of the Other by the self).
 
@@ -367,6 +367,14 @@ The Two of Cups does not promise that love is easy. It promises that love is *po
 ---
 
 *"True love is not finding your other half—it is two whole people choosing to create a shared wholeness."*
+
+## Footnotes
+
+[^1]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meaning for the Two of Cups.
+[^2]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Lord of Love" for the Two of Cups.
+[^3]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Venus in Cancer decan attribution for the Two of Cups.
+[^4]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Chokmah in Briah Sephirotic placement for the Two of Cups.
+[^5]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meaning for the Two of Cups.
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

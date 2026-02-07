@@ -23,7 +23,7 @@ The Divine Child represents the archetypal **innocence that heals**—the pure, 
 
 The Divine Child is not naive ignorance but **sacred innocence**—the one who arrives helpless yet miraculous, who needs everything yet gives everything, whose frailty becomes the very foundation of tribal bonding. E.T. is dying, lost, powerless—and yet his presence creates the family, the bargain: "I'll protect you if you help me phone home."
 
-In Jung's framework, The Divine Child represents **the potential for wholeness, the seed of the Self that appears in conditions of crisis or transformation**. The Divine Child is born when the old order can no longer sustain itself—it is the new possibility emerging from exhausted forms. Jung wrote of the child archetype as simultaneously the most vulnerable and the most powerful, carrying the future within its small form.
+In Jung's framework, The Divine Child represents **the potential for wholeness, the seed of the Self that appears in conditions of crisis or transformation**.[^1] The Divine Child is born when the old order can no longer sustain itself—it is the new possibility emerging from exhausted forms. Jung wrote of the child archetype as simultaneously the most vulnerable and the most powerful, carrying the future within its small form.
 
 The Divine Child appears when **vulnerability creates connection**, when weakness becomes the foundation for equality, when the question is: "Can I allow myself to need? Can I let my frailty evoke care?"
 
@@ -64,11 +64,11 @@ Folklore contains the "wonder child" motif: the magical infant who arrives in po
 
 ### Jungian Analysis
 
-Jung's essay "The Psychology of the Child Archetype" (CW 9i, §259-305) identifies the child as appearing in dreams and visions during **transformation crises**—when the old personality structure is dying and the new one is being born. The child represents futurity, potential wholeness, the Self in seed form.
+Jung's essay "The Psychology of the Child Archetype" (CW 9i, §259-305)[^2] identifies the child as appearing in dreams and visions during **transformation crises**—when the old personality structure is dying and the new one is being born. The child represents futurity, potential wholeness, the Self in seed form.
 
 The child is both threatened (abandoned, exposed, endangered) and invincible (miraculous escapes, divine protection, eventual triumph). This paradox reflects the psyche's truth: **new life is always vulnerable and always contains the future**. The Divine Child must be protected because it carries what comes next.
 
-The shadow is remaining child—the *puer aeternus* who refuses to grow, who clings to innocence as avoidance of responsibility, who weaponizes vulnerability to manipulate care without reciprocity. The integration is allowing the child's wonder to mature into the adult's wisdom without losing the capacity for awe.
+The shadow is remaining child—the *puer aeternus*[^3] who refuses to grow, who clings to innocence as avoidance of responsibility, who weaponizes vulnerability to manipulate care without reciprocity. The integration is allowing the child's wonder to mature into the adult's wisdom without losing the capacity for awe.
 
 > *Vibology Synthesis: The Divine Child appears when vulnerability must be honored as foundation for connection. Your need creates the bargain that forms family. Allow yourself to be helpless. Allow others to care. Offer wonder in exchange for protection. The tribe emerges around the treasure that must be defended.*
 
@@ -104,6 +104,13 @@ The shadow is remaining child—the *puer aeternus* who refuses to grow, who cli
 - [[The Divine Child]] — Jungian archetypal framework (Personal Mythos)
 - [[Moon ☽]] — Planetary ruler of Cancer; emotional bonding
 - [[The Ordinary World]] — Where the child begins the journey
+
+---
+## Footnotes
+
+[^1]: Jung, *The Archetypes and the Collective Unconscious* (CW 9i, Princeton, 1969) — The Divine Child as seed of wholeness appearing in crisis (§259-305)
+[^2]: Jung, *The Archetypes and the Collective Unconscious* (CW 9i, Princeton, 1969) — "The Psychology of the Child Archetype" essay (§259-305)
+[^3]: von Franz, *Puer Aeternus* (Sigo Press, 1970) — the eternal child and refusal to mature (Part I)
 
 ---
 ## Sources

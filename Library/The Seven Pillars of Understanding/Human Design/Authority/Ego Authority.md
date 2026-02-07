@@ -16,7 +16,7 @@ verification_notes: "Individual verification complete. Core mechanics (Heart Cen
 
 ---
 ## Ra's Definition
-**Ego Authority** is defined by a **defined [[Heart]] Center** (also called the Ego or Will Center) *without* a defined [[Solar Plexus]], [[Sacral]], or [[Spleen]]. If any of those centers is defined, they override the Heart in the authority hierarchy.
+**Ego Authority** is defined by a **defined [[Heart]] Center** (also called the Ego or Will Center) *without* a defined [[Solar Plexus]], [[Sacral]], or [[Spleen]].[^1] If any of those centers is defined, they override the Heart in the authority hierarchy.
 
 Ego Authority is the domain of a small subset of **[[Manifestor]]s** and **[[Projector]]s**—those who make decisions through willpower, commitment, and self-interest.
 
@@ -26,13 +26,13 @@ Ego Authority is the domain of a small subset of **[[Manifestor]]s** and **[[Pro
 Ego Authority expresses differently depending on the Heart's connection:
 
 ### Ego-Manifested Authority
-- **Configuration:** [[Heart]] connected directly to the [[Throat]]
+- **Configuration:** [[Heart]] connected directly to the [[Throat]][^2]
 - **Type:** [[Manifestor]] only
 - **Mechanics:** Truth is discovered by **speaking it aloud in the moment**
 - **Somatic Experience:** You "blurt out" what you want; the act of speaking reveals your will
 
 ### Ego-Projected Authority
-- **Configuration:** [[Heart]] connected to the [[G Center]] (Identity)
+- **Configuration:** [[Heart]] connected to the [[G Center]] (Identity)[^3]
 - **Type:** [[Projector]] only
 - **Mechanics:** Truth is discovered by asking **"What do I want for myself?"** while waiting for an invitation
 - **Somatic Experience:** You articulate your desires through self-inquiry and dialogue
@@ -40,7 +40,7 @@ Ego Authority expresses differently depending on the Heart's connection:
 ---
 ## The Mechanics: Willpower and Commitment
 
-Ego Authority operates through the **will to commit**. The Heart Center governs:
+Ego Authority operates through the **will to commit**. The Heart Center governs:[^4]
 - **Material resources** (money, assets, possessions)
 - **Promises and agreements** (the capacity to commit and follow through)
 - **Self-worth and value** (knowing what you are worth)
@@ -90,7 +90,7 @@ Strategy positions you correctly; Ego Authority reveals *what* is correct for yo
 ---
 ## The Role of Rest
 
-The Heart Center is a **motor**, but it is not sustainable like the [[Sacral]]. Ego Authority requires:
+The Heart Center is a **motor**, but it is not sustainable like the [[Sacral]].[^5] Ego Authority requires:
 - **Deep rest** between commitments
 - **Honoring limits** (the Heart can exhaust if overused)
 - **Selective engagement** (committing only to what is truly desired, not to everything)
@@ -165,6 +165,14 @@ Individuals with Ego Authority bring:
 
 *Ego Authority is the intelligence of the will—the recognition that your desires, commitments, and self-interest are not weaknesses but your compass. To know what you want and to honor it without apology is the practice of Ego Authority. The world will ask you to sacrifice your will for duty, for others, for "the right thing," but your Authority demands that you ask first: "What do I want for myself?"*
 
+
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Ego Authority defined by Heart Center without Solar Plexus, Sacral, or Spleen definition
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Ego-Manifested Authority: Heart connected directly to Throat (Manifestor configuration)
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Ego-Projected Authority: Heart connected to G Center (Projector configuration)
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Heart Center governs willpower, material resources, promises, and self-worth
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Heart Center is a motor but lacks the Sacral's sustainable energy, requiring rest between commitments
 
 ## Sources
 

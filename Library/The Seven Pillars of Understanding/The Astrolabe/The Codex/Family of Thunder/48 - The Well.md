@@ -58,15 +58,15 @@ The Well carries the frequency of **resourcefulness through depth**—the recogn
 
 ### The Hexagram (I-Ching)
 
-Water above Thunder—the image of deep water drawn upward, the village well that sustains all. Wilhelm's Judgment: *"The Well. The town may be changed, but the well cannot be changed. It neither decreases nor increases."* True resource is not depleted by use; it is sustained by depth.
+Water above Thunder—the image of deep water drawn upward, the village well that sustains all. Wilhelm's Judgment: *"The Well. The town may be changed, but the well cannot be changed. It neither decreases nor increases."*[^1] True resource is not depleted by use; it is sustained by depth.
 
 ### The Gate (Human Design)
 
-Gate 48 resides in the Spleen Center, the instinct for resource assessment. This is **the fear of inadequacy**—will the foundation hold? Is there enough depth to sustain this? The Understanding Circuit means this awareness serves collective survival through pattern recognition. With Gate 16 (Enthusiasm), depth gains skilled expression—resourcefulness becomes demonstrable talent.
+Gate 48 resides in the Spleen Center, the instinct for resource assessment.[^2] This is **the fear of inadequacy**—will the foundation hold? Is there enough depth to sustain this? The Understanding Circuit means this awareness serves collective survival through pattern recognition. With Gate 16 (Enthusiasm), depth gains skilled expression—resourcefulness becomes demonstrable talent.
 
 ### The Gene Keys
 
-**Shadow: Inadequacy** — The individual fears there is never enough, that the well will run dry, that resources are insufficient. Fear of depth creates shallow engagement.
+**Shadow: Inadequacy**[^3] — The individual fears there is never enough, that the well will run dry, that resources are insufficient. Fear of depth creates shallow engagement.
 
 **Gift: Resourcefulness** — The capacity to assess depth accurately and trust that deep wells sustain. Finding creative solutions from existing resources.
 
@@ -135,6 +135,13 @@ The conditioning pattern: "I am not enough" or "There is never enough." This lea
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 48 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 48 mechanics, Spleen (Instinctual Awareness)
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Inadequacy / Resourcefulness / Wisdom
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 48: The Well

@@ -60,15 +60,15 @@ The alchemical image is *Fixatio*—the fixing of volatile elements into stable 
 
 ### The Hexagram (I-Ching)
 
-Hexagram 52, *Ken* (Keeping Still), is one of eight doubled hexagrams—the trigram repeated, intensifying its quality. Mountain doubled is immobility perfected. Wilhelm's Judgment emphasizes meditative withdrawal: "Keeping his back still"—the yogic metaphor for spine/awareness alignment, detachment from sensory input. "He goes into his courtyard and does not see his people"—not antisocial withdrawal but *concentration so complete that external distractions vanish*. The teaching: stillness is discipline. The Image warns against mental wandering: "does not permit his thoughts to go beyond his situation"—the mind that cannot be still perpetually escapes into fantasy, memory, worry. True stillness is *being here, now, unmoving*.
+Hexagram 52, *Ken* (Keeping Still), is one of eight doubled hexagrams—the trigram repeated, intensifying its quality.[^1] Mountain doubled is immobility perfected. Wilhelm's Judgment emphasizes meditative withdrawal: "Keeping his back still"—the yogic metaphor for spine/awareness alignment, detachment from sensory input. "He goes into his courtyard and does not see his people"—not antisocial withdrawal but *concentration so complete that external distractions vanish*. The teaching: stillness is discipline. The Image warns against mental wandering: "does not permit his thoughts to go beyond his situation"—the mind that cannot be still perpetually escapes into fantasy, memory, worry. True stillness is *being here, now, unmoving*.
 
 ### The Gate (Human Design)
 
-Gate 52 in the Root governs the capacity to remain still under pressure. Ra Uru Hu taught that this gate is "the gift of inaction"—the rare ability to *not respond* to stress with frantic activity. When connected to Gate 9 in the Sacral, the 52-9 Channel creates *Concentration*—the power to focus Sacral life force through Root discipline, sustaining attention on a single point until breakthrough occurs. Without Gate 9, Gate 52 feels pressure without focus; without Gate 52, Gate 9's detailed attention lacks the fuel to sustain. The challenge: to trust that stillness *is* action, that restraint is power, that sometimes doing nothing is the most strategic move.
+Gate 52 in the Root governs the capacity to remain still under pressure. Ra Uru Hu taught that this gate is "the gift of inaction"—the rare ability to *not respond* to stress with frantic activity.[^2] When connected to Gate 9 in the Sacral, the 52-9 Channel creates *Concentration*—the power to focus Sacral life force through Root discipline, sustaining attention on a single point until breakthrough occurs. Without Gate 9, Gate 52 feels pressure without focus; without Gate 52, Gate 9's detailed attention lacks the fuel to sustain. The challenge: to trust that stillness *is* action, that restraint is power, that sometimes doing nothing is the most strategic move.
 
 ### The Gene Keys
 
-- **Shadow: Stress** — The collapse under Root pressure into frantic, scattered activity. Stress is the inability to be still—the hamster wheel mind, the body that cannot rest, the person addicted to busyness as defense against facing what stillness would reveal. The Shadow is perpetual motion as escape, exhaustion as identity.
+- **Shadow: Stress**[^3] — The collapse under Root pressure into frantic, scattered activity. Stress is the inability to be still—the hamster wheel mind, the body that cannot rest, the person addicted to busyness as defense against facing what stillness would reveal. The Shadow is perpetual motion as escape, exhaustion as identity.
 
 - **Gift: Restraint** — The disciplined capacity to hold still despite pressure. Restraint is not repression but *strategic inaction*—knowing when not to act is as valuable as knowing when to act. The gift is the archer who holds the draw until the precise moment of release, the meditator who returns attention to breath ten thousand times without frustration. Restraint is mastery of attention: where you place awareness, energy follows.
 
@@ -142,6 +142,13 @@ Another Shadow trap: paralysis disguised as meditation. If action is too frighte
 
 ---
 
+## Footnotes
+
+[^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 52 judgment and image
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 52 mechanics, Root
+[^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Stress / Restraint / Stillness
+
+---
 ## Sources
 
 - Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 52: Keeping Still
