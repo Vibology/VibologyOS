@@ -3,6 +3,7 @@ tags: [astrology, houses, archetypal, succedent, friendship, community, hope, aq
 system: Astrology
 date_created: 2026-01-08
 date_updated: 2026-01-23
+verified: true
 house_number: 11
 house_type: Succedent
 natural_sign: Aquarius

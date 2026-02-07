@@ -8,6 +8,7 @@ modality: Cardinal
 ruler: Saturn
 polarity: Cancer
 house_affinity: 10th
+verified: true
 source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"

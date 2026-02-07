@@ -3,6 +3,7 @@ tags: [astrology, houses, archetypal, succedent, resources, values]
 system: Astrology
 date_created: 2026-01-08
 date_updated: 2026-01-23
+verified: true
 house_number: 2
 house_type: Succedent
 natural_sign: Taurus

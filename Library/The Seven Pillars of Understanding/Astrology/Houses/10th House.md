@@ -3,6 +3,7 @@ tags: [astrology, houses, archetypal, angular, vocation, midheaven, public-autho
 system: Astrology
 date_created: 2026-01-08
 date_updated: 2026-01-23
+verified: true
 house_number: 10
 house_type: Angular
 natural_sign: Capricorn

@@ -7,6 +7,7 @@ element: Water
 modality: Mutable
 ruler: Jupiter, Neptune
 polarity: Virgo
+verified: true
 source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos, Classical mythology)"

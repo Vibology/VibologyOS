@@ -3,6 +3,7 @@ tags: [astrology, houses, archetypal, angular, partnership, relationships, desce
 system: Astrology
 date_created: 2026-01-08
 date_updated: 2026-01-23
+verified: true
 house_number: 7
 house_type: Angular
 natural_sign: Libra

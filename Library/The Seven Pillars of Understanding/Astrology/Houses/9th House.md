@@ -3,6 +3,7 @@ tags: [astrology, houses, archetypal, cadent, philosophy, higher-learning, expan
 system: Astrology
 date_created: 2026-01-08
 date_updated: 2026-01-23
+verified: true
 house_number: 9
 house_type: Cadent
 natural_sign: Sagittarius

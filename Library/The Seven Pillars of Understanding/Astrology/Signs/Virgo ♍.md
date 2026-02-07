@@ -8,6 +8,7 @@ modality: Mutable
 ruler: Mercury
 polarity: Pisces
 house_affinity: 6th
+verified: true
 source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
