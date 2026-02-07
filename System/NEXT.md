@@ -15,8 +15,8 @@
 | Cross-References Coverage | 99.9% |
 | Dead Wikilinks | 5 (all `[[Relevant Entry]]` template placeholders) |
 | YAML Compliance | 100% |
-| Inline Footnotes Coverage | 98.4% (789/802 files) |
-| Complete Footnotes | 92.0% (738/802 files) |
+| **Inline Footnotes Coverage** | **100% (802/802 files)** |
+| Complete Footnotes | 90.5% (726/802 files) |
 | **Endmatter Standardization** | **100% (802/802 files)** |
 | Stub Files | 0 |
 
@@ -102,6 +102,7 @@ VibologyOS/
 
 | Milestone | Date | Scope |
 |-----------|------|-------|
+| Inline footnotes 100% coverage | 2026-02-07 | Fixed 14 files with orphaned definitions (7 Tarot Major Arcana, 6 HD overviews, 1 Astrology). Added inline [^N] citations connecting body content to sources. Result: 802/802 files (100%), 0 orphaned definitions |
 | Endmatter standardization 100% | 2026-02-07 | All 802 Library files standardized to scholarly format: ## Cross-References → --- → ## Notes → [^N]: citations → ---. Removed 11,278 lines of redundancy (duplicate Sources sections, Footnotes headers). 3 commits: Astrolabe 89, HD 346, All remaining 367 |
 | Inline footnotes 98.4% coverage | 2026-02-07 | 146 files added footnotes across 4 pillars (Tarot, HD, Angelology, Personal Mythos); 789/802 files now have inline citations |
 | References/Sources 100% coverage | 2026-02-07 | 67 files updated across 5 pillars; 802/802 files now have References or Sources sections |
@@ -139,6 +140,17 @@ VibologyOS/
 ---
 
 ## Session History
+
+**2026-02-07 (session 7, continued):** Inline footnotes 100% — fixed orphaned definitions
+- **Investigation:** User asked about 14 files without inline footnotes (orphaned definitions: sources listed but not cited inline)
+- **Breakdown:** 7 Tarot Major Arcana, 6 HD overview files, 1 Astrology overview
+- **Approach:** Added inline `[^1]`, `[^2]` citations at key introduction points and specific claims
+  - Tarot cards: Waite `[^1]` for traditional meanings, Wang `[^2]` for Qabalistic correspondences
+  - HD overviews: Ra Uru Hu `[^1]` at structural introduction points (Type definitions, Center architecture, Profile mechanics)
+  - Astrology: Fixed typo (`[^1]:` → `[^1]`), added Jung citation to Individuation reference
+- **Tool created:** `add_tarot_inline_citations.py` for batch Tarot processing
+- **Result:** 802/802 files (100.0%) have inline footnotes, 0 orphaned definitions
+- **Impact:** Inline footnote coverage: 98.4% → 100%
 
 **2026-02-07 (session 7):** Endmatter standardization — 100% Library coverage (802 files)
 - **Objective:** Eliminate duplicate Sources sections, apply scholarly "Notes" convention
