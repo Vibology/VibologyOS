@@ -141,15 +141,10 @@ Another Shadow trap: emotional bypassing disguised as spiritual maturity. "I've 
 
 ---
 
-## Footnotes
-
 [^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 36 judgment and image
+
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 36 mechanics, Solar Plexus
+
 [^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Turbulence / Humanity / Compassion
 
 ---
-## Sources
-
-- Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 36: Darkening of the Light
-- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 36 mechanics, Collective Sensing Circuit, 35-36 Channel
-- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Turbulence → Humanity → Compassion

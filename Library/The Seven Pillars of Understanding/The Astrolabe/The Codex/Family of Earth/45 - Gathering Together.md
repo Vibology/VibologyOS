@@ -136,15 +136,10 @@ The conditioning pattern: "I must control to feel secure" or "Power means making
 
 ---
 
-## Footnotes
-
 [^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 45 judgment and image
+
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 45 mechanics, Throat (Manifestation)
+
 [^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Dominance / Synergy / Communion
 
 ---
-## Sources
-
-- Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 45: Gathering Together
-- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 45 mechanics, Tribal Ego Circuit
-- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Dominance → Synergy → Communion

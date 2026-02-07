@@ -58,6 +58,7 @@ Coagulation produces the **Red Stone** (*lapis ruber*), the final form of the ph
 **Siddhi Vision:** Matter as Spirit. You realize coagulation was the secret hidden in the first operation: [[Prima Materia]] was always the philosopher's stone, waiting to be recognized. The raw chaos at the beginning and the crystallized gold at the end are the same substance, worked seven times, refined through fire and water and air and earth until matter becomes conscious of itself. The alchemist learns: there is no separation between spirit and flesh, between the eternal and the temporal, between the work and the worker. The stone you sought is the body you inhabit. The gold is your life. *Finis coronat opus* — the end crowns the work, and you are the crown. Coagulate: be what you are. The transformation is permanent.
 
 ---
+
 ## Cross-References
 
 ### Related Athanor Cards
@@ -80,25 +81,11 @@ Coagulation produces the **Red Stone** (*lapis ruber*), the final form of the ph
 - [[The Philosopher's Stone]] — The red stone, spirit fixed in matter permanently
 
 ---
-## Sources
-
-Edinger, Edward. *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy*. Open Court, 1985.
-- pp. 71-107: Coagulatio as embodiment, fixation of spirit in matter
-
-Jung, C.G. *Mysterium Coniunctionis* (CW 14). Princeton University Press, 1963.
-- §761: Coagulation as the Self made real, consciousness incarnate
-
-Edinger, Edward. *Ego and Archetype*. Shambhala, 1992.
-- p. 47: Coagulation as the birth of new form and meaning
-
-Jung, C.G. *Psychology and Alchemy* (CW 12). Princeton University Press, 1968.
-- §§334-338: The final fixation, solve et coagula complete
-
-von Franz, Marie-Louise. *Alchemy: An Introduction to the Symbolism and the Psychology*. Inner City Books, 1980.
-- Part III: Coagulation as completion of the opus
 
 [^1]: Edinger, *Anatomy of the Psyche*, p. 71
+
 [^2]: Jung, CW 14, §761
+
 [^3]: Edinger, *Ego and Archetype*, p. 47
 
 ---

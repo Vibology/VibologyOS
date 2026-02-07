@@ -141,15 +141,10 @@ Another Shadow trap: avoiding contemplation entirely. If thinking creates pressu
 
 ---
 
-## Footnotes
-
 [^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 47 judgment and image
+
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 47 mechanics, Ajna
+
 [^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Oppression / Transmutation / Transfiguration
 
 ---
-## Sources
-
-- Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 47: Oppression
-- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 47 mechanics, Ajna Center, 47-64 Channel
-- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Oppression → Transmutation → Transfiguration

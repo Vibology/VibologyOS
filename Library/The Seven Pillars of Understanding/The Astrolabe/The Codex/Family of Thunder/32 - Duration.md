@@ -135,15 +135,10 @@ The conditioning pattern: "If I don't try, I can't fail" or "What worked before 
 
 ---
 
-## Footnotes
-
 [^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 32 judgment and image
+
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 32 mechanics, Spleen (Instinctual Awareness)
+
 [^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Failure / Preservation / Veneration
 
 ---
-## Sources
-
-- Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 32: Duration
-- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 32 mechanics, Tribal Ego Circuit
-- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Failure → Preservation → Veneration

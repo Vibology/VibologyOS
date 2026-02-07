@@ -135,15 +135,10 @@ The conditioning pattern: "I must conform to be accepted" or "My unique style is
 
 ---
 
-## Footnotes
-
 [^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 8 judgment and image
+
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 8 mechanics, Throat (Manifestation)
+
 [^3]: Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Mediocrity / Style / Exquisiteness
 
 ---
-## Sources
-
-- Wilhelm/Baynes, *The I-Ching or Book of Changes* (Princeton, 1950) — Hexagram 8: Holding Together
-- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 8 mechanics, Individual Knowing Circuit
-- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) — Shadow/Gift/Siddhi: Mediocrity → Style → Exquisiteness

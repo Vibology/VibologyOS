@@ -78,6 +78,7 @@ In the Astrolabe system, The Alchemist stands as the destination: The Hero's jou
 **Siddhi Vision:** You embody pure wholeness—the recognition that The Self is not personal achievement but cosmic principle. You have transcended the question "who am I?" because you know: **I am totality expressing uniquely through this form**. You are eternal breakthrough: consciousness recognizing itself as infinite creativity refusing all limitation. At this frequency, becoming and being are one; individuation reveals what was always present.
 
 ---
+
 ## Cross-References
 
 ### Related Athanor Cards
@@ -99,22 +100,11 @@ In the Astrolabe system, The Alchemist stands as the destination: The Hero's jou
 - [[Return with the Elixir]] — Final stage of Hero's Journey
 
 ---
-## Footnotes
 
 [^1]: Jung, *The Archetypes and the Collective Unconscious* (CW 9i, Princeton, 1969) — The Self as central archetype and totality of the psyche (§43-67)
+
 [^2]: Jung, *Mysterium Coniunctionis* (CW 14, Princeton, 1963) — alchemical opus as metaphor for individuation; prima materia through lapis philosophorum (§1-41)
+
 [^3]: Edinger, *Ego and Archetype* (Shambhala, 1992) — The Self as totality and goal of individuation (Chapter 7)
-
----
-## Sources
-
-Jung, C.G. *The Archetypes and the Collective Unconscious* (CW 9i). Princeton University Press, 1969.
-- §43-67: Concerning the Self
-
-Jung, C.G. *Mysterium Coniunctionis* (CW 14). Princeton University Press, 1963.
-- §1-41: The components of the coniunctio; alchemical union
-
-Edinger, Edward. *Ego and Archetype: Individuation and the Religious Function of the Psyche*. Shambhala, 1992.
-- Chapter 7: The Self as totality[^3]
 
 ---

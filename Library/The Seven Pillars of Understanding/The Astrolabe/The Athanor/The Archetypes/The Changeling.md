@@ -86,6 +86,7 @@ The shadow is getting lost in perpetual becoming—never stabilizing long enough
 **Siddhi Vision:** You embody superabundance—the recognition that all forms are expressions of single source. You shapeshift not because you lack identity but because you **contain all identities**. You are the cosmic actor playing infinite roles, the divine artist experimenting with infinite mediums. Beginning is not failure to complete—it is the eternal creative impulse itself. At this frequency, shifting and stability are one movement.
 
 ---
+
 ## Cross-References
 
 ### Related Athanor Cards
@@ -107,22 +108,11 @@ The shadow is getting lost in perpetual becoming—never stabilizing long enough
 - [[Tests, Allies, and Enemies]] — Where the shapeshifter appears
 
 ---
-## Footnotes
 
 [^1]: Jung, *The Archetypes and the Collective Unconscious* (CW 9i, Princeton, 1969) — transformation symbolism and unstable archetypal forms (§427-453)
+
 [^2]: Jung, *The Structure and Dynamics of the Psyche* (CW 8, Princeton, 1969) — the mercurial quality of unconscious contents (§388-406)
+
 [^3]: von Franz, *The Interpretation of Fairy Tales* (Shambhala, 1996) — the changeling motif in folklore (Chapter 6)
-
----
-## Sources
-
-Jung, C.G. *The Archetypes and the Collective Unconscious* (CW 9i). Princeton University Press, 1969.
-- §427-453: Transformation symbolism and unstable forms
-
-Jung, C.G. *The Structure and Dynamics of the Psyche* (CW 8). Princeton University Press, 1969.
-- §388-406: The mercurial quality of unconscious contents
-
-von Franz, Marie-Louise. *The Interpretation of Fairy Tales*. Shambhala, 1996.
-- Chapter 6: The changeling motif in folklore
 
 ---

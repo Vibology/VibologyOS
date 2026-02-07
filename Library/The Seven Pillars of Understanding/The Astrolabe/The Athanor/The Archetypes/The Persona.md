@@ -78,6 +78,7 @@ The integration requires **conscious relationship**: wearing the Persona skillfu
 **Siddhi Vision:** You embody pure creativity—the recognition that consciousness itself is the ultimate performer, that the universe performs infinite identities for its own delight. You have transcended the question "which self is real?" because you know: **all are real, none are final, life itself is the play**. You are the cosmic performer who has realized that performing and being are not opposites but one movement.
 
 ---
+
 ## Cross-References
 
 ### Related Athanor Cards
@@ -99,22 +100,11 @@ The integration requires **conscious relationship**: wearing the Persona skillfu
 - [[Persona Development]] — Early individuation stage
 
 ---
-## Footnotes
 
 [^1]: Jung, *Two Essays on Analytical Psychology* (CW 7, Princeton, 1966) — The Persona as mask for social adaptation (§240-295)
+
 [^2]: Jung, *The Archetypes and the Collective Unconscious* (CW 9i, Princeton, 1969) — Persona as archetypal structure (§221-258)
+
 [^3]: Campbell, *The Hero with a Thousand Faces* (Princeton, 1949) — the masks of God and man; identification with persona (Chapter 2)
-
----
-## Sources
-
-Jung, C.G. *Two Essays on Analytical Psychology* (CW 7). Princeton University Press, 1966.
-- §240-295: The Persona and its relation to the psyche
-
-Jung, C.G. *The Archetypes and the Collective Unconscious* (CW 9i). Princeton University Press, 1969.
-- §221-258: Persona as archetypal structure
-
-Campbell, Joseph. *The Hero with a Thousand Faces*. Princeton University Press, 1949.
-- Chapter 2: The masks of God and man
 
 ---

@@ -78,6 +78,7 @@ The shadow is the Senex turned rigid—the old man who clings to outdated wisdom
 **Siddhi Vision:** You embody divine wisdom—provision that flows effortlessly because rest is complete. You are the cosmic master whose teaching liberates because exhaustion is impossible. You have transcended the struggle between self and service because you recognize both as one. Your work is the universe providing for itself; your rest is the universe restoring itself. Teaching and solitude are both expressions of wisdom flowing through form.
 
 ---
+
 ## Cross-References
 
 ### Related Athanor Cards
@@ -98,22 +99,11 @@ The shadow is the Senex turned rigid—the old man who clings to outdated wisdom
 - [[Meeting the Mentor]] — The Wise Man's role in the Hero's Journey
 
 ---
-## Footnotes
 
 [^1]: Jung, *The Archetypes and the Collective Unconscious* (CW 9i, Princeton, 1969) — The Wise Old Man archetype (§398-415)
+
 [^2]: Campbell, *The Hero with a Thousand Faces* (Princeton, 1949) — the mentor as supernatural aid (Chapter 3)
+
 [^3]: von Franz, *The Interpretation of Fairy Tales* (Shambhala, 1996) — the old man as guide in folklore (Chapter 5)
-
----
-## Sources
-
-Jung, C.G. *The Archetypes and the Collective Unconscious* (CW 9i). Princeton University Press, 1969.
-- §398-415: The Wise Old Man archetype
-
-Campbell, Joseph. *The Hero with a Thousand Faces*. Princeton University Press, 1949.
-- Chapter 3: The mentor as supernatural aid
-
-von Franz, Marie-Louise. *The Interpretation of Fairy Tales*. Shambhala, 1996.
-- Chapter 5: The old man as guide in folklore
 
 ---

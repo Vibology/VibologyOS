@@ -76,6 +76,7 @@ The shadow is twofold: projection (seeking the soul-image only in external figur
 **Siddhi Vision:** You embody pure aesthetic—the recognition that physical form is divine celebration. You are The Muse fully realized: consciousness delighting in its own incarnation, soul expressing infinite beauty through matter. Embodiment is no longer work but cosmic play. You manifest beauty effortlessly because you love being incarnate. At this frequency, body and soul are recognized as one—form is spirit celebrating itself.
 
 ---
+
 ## Cross-References
 
 ### Related Athanor Cards
@@ -96,22 +97,11 @@ The shadow is twofold: projection (seeking the soul-image only in external figur
 - [[Encounter with Anima-Animus]] — Integration stage in individuation
 
 ---
-## Footnotes
 
 [^1]: Jung, *Two Essays on Analytical Psychology* (CW 7, Princeton, 1966) — Anima as soul-image mediating ego and collective unconscious (§296-340)
+
 [^2]: Jung, *The Archetypes and the Collective Unconscious* (CW 9i, Princeton, 1969) — four developmental stages of the Anima (§20-42)
+
 [^3]: Jung, Emma, *Animus and Anima* (Spring Publications, 1957) — projection and dissociation as Anima shadow patterns (Part I)
-
----
-## Sources
-
-Jung, C.G. *The Archetypes and the Collective Unconscious* (CW 9i). Princeton University Press, 1969.
-- §20-42: The Syzygy: Anima and Animus
-
-Jung, C.G. *Two Essays on Analytical Psychology* (CW 7). Princeton University Press, 1966.
-- §296-340: Anima and Animus
-
-Jung, Emma. *Animus and Anima*. Spring Publications, 1957.
-- Part I: The Anima as soul-image
 
 ---

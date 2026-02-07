@@ -57,6 +57,7 @@ Sulphur is **Fire** — not the purifying fire of [[Calcination]] but *combustio
 **Siddhi Vision:** Fire as Love. You realize that all genuine desire is the soul's longing for wholeness — *eros* in its highest sense, the drive toward union with the Self. Purified Sulphur is no longer "your" passion; it is the universe's passion expressing through your particular form. The fire that burns is the fire that loves. Desire and devotion are one.
 
 ---
+
 ## Cross-References
 
 ### Related Athanor Cards
@@ -78,22 +79,11 @@ Sulphur is **Fire** — not the purifying fire of [[Calcination]] but *combustio
 - Libido — Jungian concept: psychic energy as driving force
 
 ---
-## Sources
-
-Paracelsus. *Opus Paramirum*. In *The Hermetic and Alchemical Writings of Paracelsus*, trans. A.E. Waite. James Elliott & Co., 1894.
-- Vol. I: The Tria Prima — Sulphur as active, fiery principle
-
-Jung, C.G. *Mysterium Coniunctionis* (CW 14). Princeton University Press, 1963.
-- §38: Sulphur as active consciousness and desire
-
-Jung, C.G. *Psychology and Alchemy* (CW 12). Princeton University Press, 1968.
-- §404: Sulphur and the ego's identification with libido
-
-Edinger, Edward. *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy*. Open Court, 1985.
-- Chapter on Tria Prima: Psychological meaning of Sulphur
 
 [^1]: Paracelsus, *Opus Paramirum*, Vol. I
+
 [^2]: Jung, CW 14, §38
+
 [^3]: Jung, CW 12, §404
 
 ---

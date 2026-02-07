@@ -84,6 +84,7 @@ Sarah Connor's relationship with John inverts the usual dependency: she prepares
 **Siddhi Vision:** You embody selfless nourishment—caring that flows from infinite source. You no longer choose between self and other because you recognize both as one. Your provision enhances all life, effortlessly. You have become the Great Mother in her cosmic aspect—the womb that births worlds, the breast that feeds galaxies. At this frequency, giving is receiving; nourishment is your nature.
 
 ---
+
 ## Cross-References
 
 ### Related Athanor Cards
@@ -104,22 +105,11 @@ Sarah Connor's relationship with John inverts the usual dependency: she prepares
 - [[Meeting the Mentor]] — The mother as first guide
 
 ---
-## Footnotes
 
 [^1]: Jung, *The Archetypes and the Collective Unconscious* (CW 9i, Princeton, 1969) — The Mother archetype and its transformations (§148-198)
+
 [^2]: Neumann, *The Great Mother* (Princeton, 1955) — dual nature of the maternal archetype: Good Mother and Terrible Mother (Part I)
+
 [^3]: von Franz, *Shadow and Evil in Fairy Tales* (Shambhala, 1995) — The Terrible Mother in folklore (Chapter 4)
-
----
-## Sources
-
-Jung, C.G. *The Archetypes and the Collective Unconscious* (CW 9i). Princeton University Press, 1969.
-- §148-198: The Mother archetype and its transformations
-
-Neumann, Erich. *The Great Mother: An Analysis of the Archetype*. Princeton University Press, 1955.
-- Part I: The dual nature of the maternal archetype
-
-von Franz, Marie-Louise. *Shadow and Evil in Fairy Tales*. Shambhala, 1995.
-- Chapter 4: The Terrible Mother in folklore
 
 ---

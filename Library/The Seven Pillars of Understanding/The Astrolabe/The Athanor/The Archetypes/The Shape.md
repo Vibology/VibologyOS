@@ -78,6 +78,7 @@ The Shape teaches: **some darkness is not yours**. You are not reducible to deat
 **Siddhi Vision:** You embody mature consciousness—the recognition that **not all shadow is yours**. The Shape serves divine order by marking boundaries: this far, no further. You have learned the teaching of humility: you are not reducible to entropy, death, or predation. These exist as facts of reality, but they are not you. What keeps returning is not asking for integration—it is teaching recognition. At this frequency, acknowledging limits is wisdom, not failure.
 
 ---
+
 ## Cross-References
 
 ### Related Athanor Cards
@@ -98,22 +99,11 @@ The Shape teaches: **some darkness is not yours**. You are not reducible to deat
 - [[Confrontation with Shadow]] — Distinguishing personal from collective
 
 ---
-## Footnotes
 
 [^1]: Jung, *Aion* (CW 9ii, Princeton, 1959) — the shadow and the problem of evil; objective psyche (§13-19)
+
 [^2]: Jung, *Civilization in Transition* (CW 10, Princeton, 1964) — personal vs collective shadow in psychology (§572-585)
+
 [^3]: Neumann, *Depth Psychology and a New Ethic* (Shambhala, 1990) — scapegoat psychology and moral inflation (Chapter 3)
-
----
-## Sources
-
-Jung, C.G. *Aion: Researches into the Phenomenology of the Self* (CW 9ii). Princeton University Press, 1959.
-- §13-19: The shadow and the problem of evil
-
-Jung, C.G. *Civilization in Transition* (CW 10). Princeton University Press, 1964.
-- §572-585: The shadow in collective psychology
-
-Neumann, Erich. *Depth Psychology and a New Ethic*. Shambhala, 1990.
-- Chapter 3: The scapegoat psychology and the old ethic
 
 ---

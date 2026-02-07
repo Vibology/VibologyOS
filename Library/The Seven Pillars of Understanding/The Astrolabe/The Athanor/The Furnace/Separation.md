@@ -58,6 +58,7 @@ Air — the blade, the breath, the space between things. In the body, separation
 **Siddhi Vision:** Differentiation as Love. You realize that separation was never about division — it was about *recognition*. To see clearly is to see what is. The boundaries you draw are not walls but *definitions*: this is you, that is me, and both are whole. The alchemist learns: consciousness is the knife that cuts cleanly, and what is cut cleanly can heal. Separation is not the opposite of union; it is union's precondition. You cannot join what was never distinguished. The divine discrimination says: "You are you. I am I. And we can meet."
 
 ---
+
 ## Cross-References
 
 ### Related Athanor Cards
@@ -79,25 +80,11 @@ Air — the blade, the breath, the space between things. In the body, separation
 - [[Albedo]] — Alchemical color: the whitening achieved through separation
 
 ---
-## Sources
-
-Edinger, Edward. *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy*. Open Court, 1985.
-- pp. 175-193: Separatio as discrimination, projection withdrawal, conscious clarity
-
-Jung, C.G. *Mysterium Coniunctionis* (CW 14). Princeton University Press, 1963.
-- §206: Separation as differentiation of Self from unconscious
-
-Edinger, Edward. *Ego and Archetype*. Shambhala, 1992.
-- p. 122: Projection withdrawal and shadow recognition through separation
-
-Jung, C.G. *Psychology and Alchemy* (CW 12). Princeton University Press, 1968.
-- §§428-438: Separation as necessary discrimination before reunion
-
-von Franz, Marie-Louise. *Alchemy: An Introduction to the Symbolism and the Psychology*. Inner City Books, 1980.
-- Part II: The operations, separatio as conscious differentiation
 
 [^1]: Edinger, *Anatomy of the Psyche*, p. 175
+
 [^2]: Jung, CW 14, §206
+
 [^3]: Edinger, *Ego and Archetype*, p. 122
 
 ---

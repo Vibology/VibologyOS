@@ -65,6 +65,7 @@ Most traditions identify the *Red Stone* as the true Philosopher's Stone — the
 **Siddhi Vision:** The Work Complete. You realize there was never a stone to find because you were always the stone — [[Prima Materia]] in its perfected form, the raw chaos refined into incorruptible essence. The beginning and the end were one. The *lapis* was not hidden in matter; matter *is* the *lapis* when consciousness inhabits it fully. The body is the stone. The life is the gold. The Great Work was the gift of being awake to what already is. *Finis coronat opus* — the end crowns the work, and the crown was always on your head.
 
 ---
+
 ## Cross-References
 
 ### Related Athanor Cards
@@ -86,26 +87,13 @@ Most traditions identify the *Red Stone* as the true Philosopher's Stone — the
 - [[Individuation Process]] — Jungian concept: the lifelong work of becoming whole
 
 ---
-## Sources
-
-Jung, C.G. *Psychology and Alchemy* (CW 12). Princeton University Press, 1968.
-- §334: The Philosopher's Stone as symbol of the Self
-
-Edinger, Edward. *Ego and Archetype*. Shambhala, 1992.
-- p. 228: The stone as lived wholeness, not object to possess
-
-Jung, C.G. *Mysterium Coniunctionis* (CW 14). Princeton University Press, 1963.
-- §§789-791: The stone as individuated Self, incorruptible essence
-
-von Franz, Marie-Louise. *Alchemy: An Introduction to the Symbolism and the Psychology*. Inner City Books, 1980.
-- p. 279: The stone's powers as psychological transformation
-
-Fabricius, Johannes. *Alchemy: The Medieval Alchemists and Their Royal Art*. Diamond Books, 1994.
-- Chapter on the Lapis: Historical descriptions and symbolism
 
 [^1]: Jung, CW 12, §334
+
 [^2]: Edinger, *Ego and Archetype*, p. 228
+
 [^3]: Jung, CW 14, §§789-791
+
 [^4]: von Franz, *Alchemy*, p. 279
 
 ---

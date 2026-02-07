@@ -58,6 +58,7 @@ Water — the solvent, the womb, the flood. In the body, dissolution is tears, s
 **Siddhi Vision:** Water as Womb. You realize dissolution was never about destruction — it was about *return*. The psyche returns to the undifferentiated state not to regress but to be reborn. The flood is the womb; the liquefaction is gestation. What seemed like loss was preparation. The alchemist learns: you cannot build the new from rigid ash. You must let the ash dissolve, become fluid, flow into new form. The water that drowns the ego births the Self. Solve: dissolve into everything, trusting you will coagulate as what you were always meant to be.
 
 ---
+
 ## Cross-References
 
 ### Related Athanor Cards
@@ -79,25 +80,11 @@ Water — the solvent, the womb, the flood. In the body, dissolution is tears, s
 - [[Nigredo]] — Alchemical color: the blackening completed by dissolution's flood
 
 ---
-## Sources
-
-Edinger, Edward. *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy*. Open Court, 1985.
-- pp. 47-69: Solutio as dissolution, regression, and emotional flooding
-
-Jung, C.G. *Psychology and Alchemy* (CW 12). Princeton University Press, 1968.
-- §334: Dissolution and the return to undifferentiated state
-
-Edinger, Edward. *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy*. Open Court, 1985.
-- p. 54: Emotional overwhelm as psychological solutio
-
-Jung, C.G. *Mysterium Coniunctionis* (CW 14). Princeton University Press, 1963.
-- §§175-199: Water as solvent, dissolution's role in transformation
-
-von Franz, Marie-Louise. *Alchemy: An Introduction to the Symbolism and the Psychology*. Inner City Books, 1980.
-- Part II: The operations, solutio as necessary liquefaction
 
 [^1]: Edinger, *Anatomy of the Psyche*, p. 47
+
 [^2]: Jung, CW 12, §334
+
 [^3]: Edinger, *Anatomy of the Psyche*, p. 54
 
 ---

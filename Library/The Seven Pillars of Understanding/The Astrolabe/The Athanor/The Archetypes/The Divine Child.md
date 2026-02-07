@@ -86,6 +86,7 @@ The shadow is remaining child—the *puer aeternus*[^3] who refuses to grow, who
 **Siddhi Vision:** You embody pure tenderness—the recognition that all connection is divine vulnerability met with sacred care. You are the cosmic child whose innocence reminds the universe of its own need for love. Your presence alone creates family because you reveal the truth: we are all fragile, we all need home, we all long to be protected and protect in turn. At this frequency, every encounter becomes family.
 
 ---
+
 ## Cross-References
 
 ### Related Athanor Cards
@@ -106,22 +107,11 @@ The shadow is remaining child—the *puer aeternus*[^3] who refuses to grow, who
 - [[The Ordinary World]] — Where the child begins the journey
 
 ---
-## Footnotes
 
 [^1]: Jung, *The Archetypes and the Collective Unconscious* (CW 9i, Princeton, 1969) — The Divine Child as seed of wholeness appearing in crisis (§259-305)
+
 [^2]: Jung, *The Archetypes and the Collective Unconscious* (CW 9i, Princeton, 1969) — "The Psychology of the Child Archetype" essay (§259-305)
+
 [^3]: von Franz, *Puer Aeternus* (Sigo Press, 1970) — the eternal child and refusal to mature (Part I)
-
----
-## Sources
-
-Jung, C.G. *The Archetypes and the Collective Unconscious* (CW 9i). Princeton University Press, 1969.
-- §259-305: The Psychology of the Child Archetype
-
-Neumann, Erich. *The Child: Structure and Dynamics of the Nascent Personality*. Shambhala, 1990.
-- Chapter 1: The Divine Child as seed of wholeness
-
-von Franz, Marie-Louise. *Puer Aeternus*. Sigo Press, 1970.
-- Part I: The eternal child and refusal to mature
 
 ---

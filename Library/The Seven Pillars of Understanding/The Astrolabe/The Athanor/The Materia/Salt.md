@@ -59,6 +59,7 @@ Salt is **Earth** — not the undifferentiated earth of [[Prima Materia]] but *c
 **Siddhi Vision:** Matter as Spirit. You realize the alchemical secret: there is no separation between body and soul, matter and consciousness, form and essence. Salt is not the opposite of spirit but *spirit's necessary completion* — the crystallization that makes the invisible visible, the Word made Flesh. The goal of the work was never to escape the body but to make the body *conscious*. When Salt is perfected, every cell is awake. The stone is in your bones.
 
 ---
+
 ## Cross-References
 
 ### Related Athanor Cards
@@ -80,22 +81,11 @@ Salt is **Earth** — not the undifferentiated earth of [[Prima Materia]] but *c
 - [[Coagulation]] — Alchemical operation: fixing the volatile into enduring form
 
 ---
-## Sources
-
-Paracelsus. *Opus Paramirum*. In *The Hermetic and Alchemical Writings of Paracelsus*, trans. A.E. Waite. James Elliott & Co., 1894.
-- Vol. I: Salt as body, the fixed principle of the Tria Prima
-
-Jung, C.G. *Mysterium Coniunctionis* (CW 14). Princeton University Press, 1963.
-- §346: Salt as spirit made visible, fixation in matter
-
-Jung, C.G. *Psychology and Alchemy* (CW 12). Princeton University Press, 1968.
-- §432: Salt as principle of realization and embodiment
-
-Edinger, Edward. *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy*. Open Court, 1985.
-- Chapter on Tria Prima: Salt as grounding and crystallization
 
 [^1]: Paracelsus, *Opus Paramirum*, Vol. I
+
 [^2]: Jung, CW 14, §346
+
 [^3]: Jung, CW 12, §432
 
 ---

@@ -58,6 +58,7 @@ Fermentation operates at the transition from [[Albedo]] (whitening) to [[Citrini
 **Siddhi Vision:** Spirit as Fire. You realize fermentation was never about making the work come alive — it was about recognizing that the work *was always alive*, and you were the matter it chose to animate. The philosopher's stone does not become conscious; consciousness *recognizes itself* in the stone. The dead mass was never dead; it was waiting. The alchemist learns: you are not the maker but the womb, not the fire but the fuel it consumes and transforms into light. What arrives in fermentation is not achievement but *birth*. The work breathes, and you remember: it was never yours.
 
 ---
+
 ## Cross-References
 
 ### Related Athanor Cards
@@ -80,25 +81,11 @@ Fermentation operates at the transition from [[Albedo]] (whitening) to [[Citrini
 - [[Rubedo]] — Alchemical color: the reddening that fermentation initiates
 
 ---
-## Sources
-
-Edinger, Edward. *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy*. Open Court, 1985.
-- pp. 221-233: Fermentatio as resurrection, arrival of living spirit
-
-Jung, C.G. *Psychology and Alchemy* (CW 12). Princeton University Press, 1968.
-- §448: Fermentation as numinous activation, inspiration
-
-Edinger, Edward. *Ego and Archetype*. Shambhala, 1992.
-- p. 289: The difference between knowing about and being known by the archetype
-
-Jung, C.G. *Mysterium Coniunctionis* (CW 14). Princeton University Press, 1963.
-- §§689-704: Fermentation as the spirit's descent into matter
-
-von Franz, Marie-Louise. *Alchemy: An Introduction to the Symbolism and the Psychology*. Inner City Books, 1980.
-- Part III: Fermentation as transition from white stone to red
 
 [^1]: Edinger, *Anatomy of the Psyche*, p. 221
+
 [^2]: Jung, CW 12, §448
+
 [^3]: Edinger, *Ego and Archetype*, p. 289
 
 ---

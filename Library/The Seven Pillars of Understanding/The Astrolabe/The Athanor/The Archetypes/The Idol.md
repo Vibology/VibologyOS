@@ -76,6 +76,7 @@ The developmental stages: power → action → word → wisdom.[^3] Madonna demo
 **Siddhi Vision:** You embody divine leadership—the recognition that authority is service to pattern, that influence is not personal power but collective evolution channeled through individual voice. You have transcended the question "am I worthy to lead?" because you know: **the pattern chooses the vessel**. You are eternal Animus: strategic spirit serving cosmic progression through receptive alignment. At this frequency, leading and following are one movement.
 
 ---
+
 ## Cross-References
 
 ### Related Athanor Cards
@@ -96,22 +97,11 @@ The developmental stages: power → action → word → wisdom.[^3] Madonna demo
 - [[Encounter with Anima-Animus]] — Integration stage in individuation
 
 ---
-## Footnotes
 
 [^1]: Jung, *Two Essays on Analytical Psychology* (CW 7, Princeton, 1966) — The Animus as spirit-image in the female psyche (§296-340)
+
 [^2]: Jung, Emma, *Animus and Anima* (Spring Publications, 1957) — The Animus as masculine principle providing focus and assertion (Part II)
+
 [^3]: Jung, *The Archetypes and the Collective Unconscious* (CW 9i, Princeton, 1969) — Animus developmental stages from power to wisdom (§20-42)
-
----
-## Sources
-
-Jung, C.G. *Two Essays on Analytical Psychology* (CW 7). Princeton University Press, 1966.
-- §296-340: The Animus as spirit-image
-
-Jung, C.G. *The Archetypes and the Collective Unconscious* (CW 9i). Princeton University Press, 1969.
-- §20-42: The Syzygy: Anima and Animus
-
-Jung, Emma. *Animus and Anima*. Spring Publications, 1957.
-- Part II: The Animus as masculine principle
 
 ---

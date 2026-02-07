@@ -78,6 +78,7 @@ Jung observed the same pattern in dreams: as consciousness approaches unconsciou
 **Siddhi Vision:** You embody mature passage—the recognition that guardian and threshold are one, that obstruction is initiation, that every test is the psyche strengthening itself. You have transcended the question "how do I defeat the guardian?" because you know: **the guardian dissolves when readiness is demonstrated**. You are eternal threshold: the boundary between worlds that tests all who would cross, the necessary challenge that serves liberation.
 
 ---
+
 ## Cross-References
 
 ### Related Athanor Cards
@@ -98,22 +99,11 @@ Jung observed the same pattern in dreams: as consciousness approaches unconsciou
 - [[Crossing the First Threshold]] — The narrative moment in Hero's Journey
 
 ---
-## Footnotes
 
 [^1]: Jung, *The Archetypes and the Collective Unconscious* (CW 9i, Princeton, 1969) — dream symbolism and psychic resistance during individuation (§306-384)
+
 [^2]: Campbell, *The Hero with a Thousand Faces* (Princeton, 1949) — the Threshold Guardian at every major transition (Chapter 4)
+
 [^3]: von Franz, *Shadow and Evil in Fairy Tales* (Shambhala, 1995) — the guardian figure in folklore (Chapter 6)
-
----
-## Sources
-
-Jung, C.G. *The Archetypes and the Collective Unconscious* (CW 9i). Princeton University Press, 1969.
-- §306-384: Dream symbolism and the individuation process
-
-Campbell, Joseph. *The Hero with a Thousand Faces*. Princeton University Press, 1949.
-- Chapter 4: The crossing of the first threshold
-
-von Franz, Marie-Louise. *Shadow and Evil in Fairy Tales*. Shambhala, 1995.
-- Chapter 6: The guardian figure in folklore
 
 ---

@@ -62,6 +62,7 @@ True distillation includes both: ascent *and* descent, repeated. The soul learns
 **Siddhi Vision:** Essence as Light. You realize distillation was never about escaping matter — it was about *refining* matter until it becomes transparent to spirit. The soul rises not to abandon the body but to see clearly, then returns to make the body luminous. The alchemist learns: the purest essence is not separate from the densest form; it is form *clarified*. Distillation is not transcendence; it is repeated descent into the same earth until the earth becomes light. The philosopher's stone is matter so refined it radiates. The work is complete when the ascent and the descent are one.
 
 ---
+
 ## Cross-References
 
 ### Related Athanor Cards
@@ -83,25 +84,11 @@ True distillation includes both: ascent *and* descent, repeated. The soul learns
 - [[Albedo]] — Alchemical color: the whitening perfected through distillation
 
 ---
-## Sources
-
-Edinger, Edward. *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy*. Open Court, 1985.
-- pp. 149-171: Distillatio as refinement through repetition, sublimatio
-
-Jung, C.G. *Psychology and Alchemy* (CW 12). Princeton University Press, 1968.
-- §334: Distillation as repeated return to material, refining consciousness
-
-Edinger, Edward. *Ego and Archetype*. Shambhala, 1992.
-- p. 163: The progression from knowing to understanding to wisdom through distillation
-
-Jung, C.G. *Mysterium Coniunctionis* (CW 14). Princeton University Press, 1963.
-- §§200-225: Sublimatio and distillatio, spirit rising from matter
-
-von Franz, Marie-Louise. *Alchemy: An Introduction to the Symbolism and the Psychology*. Inner City Books, 1980.
-- Part II: Distillation as purification through repeated cycles
 
 [^1]: Edinger, *Anatomy of the Psyche*, p. 149
+
 [^2]: Jung, CW 12, §334
+
 [^3]: Edinger, *Ego and Archetype*, p. 163
 
 ---

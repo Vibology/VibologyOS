@@ -58,6 +58,7 @@ Conjunction appears at the threshold between [[Albedo]] (whitening) and [[Citrin
 **Siddhi Vision:** The Divine Child. You realize conjunction was never about your personal wholeness — it was the universe's own union, the marriage of spirit and matter, the moment when the infinite becomes finite and remains infinite. The Self is born not from transcending the opposites but from *embodying* them fully. The King and Queen join, and their child is the stone: consciousness incarnate, the eternal made temporal, the One expressing as two and recognizing itself in the mirror. The work is complete and beginning again. Love is the force, and union is the form.
 
 ---
+
 ## Cross-References
 
 ### Related Athanor Cards
@@ -81,25 +82,11 @@ Conjunction appears at the threshold between [[Albedo]] (whitening) and [[Citrin
 - [[Citrinitas]] — Alchemical color: the yellowing that follows conjunction
 
 ---
-## Sources
-
-Edinger, Edward. *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy*. Open Court, 1985.
-- pp. 197-219: Coniunctio as sacred marriage, union of opposites
-
-Jung, C.G. *Mysterium Coniunctionis* (CW 14). Princeton University Press, 1963.
-- §1: The conjunction as central alchemical mystery, symbol of individuation
-
-Edinger, Edward. *Ego and Archetype*. Shambhala, 1992.
-- p. 226: Integration of anima/animus through conjunction
-
-Jung, C.G. *Psychology and Alchemy* (CW 12). Princeton University Press, 1968.
-- §§44-45: The royal marriage, King and Queen united
-
-von Franz, Marie-Louise. *Alchemy: An Introduction to the Symbolism and the Psychology*. Inner City Books, 1980.
-- Part III: Coniunctio as culmination of the separatio process
 
 [^1]: Edinger, *Anatomy of the Psyche*, p. 197
+
 [^2]: Jung, CW 14, §1
+
 [^3]: Edinger, *Ego and Archetype*, p. 226
 
 ---

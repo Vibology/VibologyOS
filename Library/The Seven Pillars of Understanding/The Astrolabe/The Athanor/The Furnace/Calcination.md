@@ -58,6 +58,7 @@ Fire — not the warmth of the hearth but the crucible's flame, the furnace that
 **Siddhi Vision:** Fire as Love. You realize that calcination was never about punishment or failure — it was the soul's fierce compassion, burning away what blocked the light. The ego dies a thousand deaths, and each death is a liberation. What you feared losing was the cage. What remains after the fire is the self that was always free. The alchemist learns: the furnace is not hell; it is the birthplace of the stone. Ash is holy.
 
 ---
+
 ## Cross-References
 
 ### Related Athanor Cards
@@ -78,25 +79,11 @@ Fire — not the warmth of the hearth but the crucible's flame, the furnace that
 - [[Nigredo]] — Alchemical color: the blackening stage that begins with calcination
 
 ---
-## Sources
-
-Edinger, Edward. *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy*. Open Court, 1985.
-- pp. 17-29: Calcinatio as ego death and purification through fire
-
-Jung, C.G. *Psychology and Alchemy* (CW 12). Princeton University Press, 1968.
-- §104: Fire as instrument of transformation, consciousness burning through neurosis
-
-Edinger, Edward. *Ego and Archetype*. Shambhala, 1992.
-- p. 148: Calcination and the destruction of the inflated persona
-
-Jung, C.G. *Mysterium Coniunctionis* (CW 14). Princeton University Press, 1963.
-- §§157-174: The alchemical fire and its psychological meaning
-
-von Franz, Marie-Louise. *Alchemy: An Introduction to the Symbolism and the Psychology*. Inner City Books, 1980.
-- Part II: The operations, calcination as beginning of the work
 
 [^1]: Edinger, *Anatomy of the Psyche*, p. 17
+
 [^2]: Jung, CW 12, §104
+
 [^3]: Edinger, *Ego and Archetype*, p. 148
 
 ---

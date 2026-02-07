@@ -59,6 +59,7 @@ Mercury is **Water** in its volatile aspect — not the dissolving water of [[Di
 **Siddhi Vision:** Spirit as Bridge. You realize that separation was always illusion — above and below, matter and consciousness, self and other were never truly apart. Mercury is not "your" capacity to mediate; it is the universe's own fluid intelligence, operating through your particular form. The trickster reveals himself as the divine messenger, and every act of translation becomes an act of love. *Solve et coagula*: dissolve and coagulate, forever.
 
 ---
+
 ## Cross-References
 
 ### Related Athanor Cards
@@ -80,22 +81,11 @@ Mercury is **Water** in its volatile aspect — not the dissolving water of [[Di
 - [[The Transcendent Function]] — Jungian concept: the psyche's capacity to hold opposites
 
 ---
-## Sources
-
-Paracelsus. *Archidoxis*. In *The Hermetic and Alchemical Writings of Paracelsus*, trans. A.E. Waite. James Elliott & Co., 1894.
-- Vol. I: Mercury as mediating spirit
-
-Jung, C.G. *The Spirit Mercurius* (CW 13). Princeton University Press, 1967.
-- §267: Mercurius duplex — the dual nature of alchemical Mercury
-
-Jung, C.G. *Psychological Types* (CW 6). Princeton University Press, 1971.
-- §828: The transcendent function as mediating principle
-
-Edinger, Edward. *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy*. Open Court, 1985.
-- Chapter on Tria Prima: Mercury as mediator and transformer
 
 [^1]: Paracelsus, *Archidoxis*, Vol. I
+
 [^2]: Jung, CW 13, §267
+
 [^3]: Jung, CW 6, §828
 
 ---

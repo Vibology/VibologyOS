@@ -55,6 +55,7 @@ Prima materia belongs to **Earth** in its most primal form — not cultivated so
 **Siddhi Vision:** Total permeability. You realize that nothing is outside the work — every scrap of chaos, every failure, every wound is raw material for transformation. The boundary between "spiritual" and "base" collapses. Prima materia is not a stage you pass through but a continuous return: the willingness to meet what arrives, exactly as it is, forever.
 
 ---
+
 ## Cross-References
 
 ### Related Athanor Cards
@@ -75,21 +76,9 @@ Prima materia belongs to **Earth** in its most primal form — not cultivated so
 - [[The Shadow]] — Jungian archetype: unconscious contents in raw form
 
 ---
-## Sources
-
-Jung, C.G. *Psychology and Alchemy* (CW 12). Princeton University Press, 1968.
-- §333: Prima materia as undifferentiated psychological content
-
-Jung, C.G. *Mysterium Coniunctionis* (CW 14). Princeton University Press, 1963.
-- §708: The alchemical attitude toward raw material
-
-Edinger, Edward. *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy*. Open Court, 1985.
-- Chapter 1: Prima materia and the beginning of the work
-
-von Franz, Marie-Louise. *Alchemy: An Introduction to the Symbolism and the Psychology*. Inner City Books, 1980.
-- Part I: The nature of prima materia
 
 [^1]: Jung, CW 12, §333
+
 [^2]: Jung, CW 14, §708
 
 ---

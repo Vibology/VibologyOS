@@ -125,6 +125,7 @@ The Astrolabe is the seventh pillar — the Observatory's own oracle instrument.
 The principle governing its construction: **use precise tools precisely.** The 64 hexagrams exist as themselves. The archetypes exist as themselves. The alchemical operations exist as themselves. Nothing is forced into a category it doesn't belong to.
 
 ---
+
 ## Cross-References
 
 - **[[Human Design]]** — Mechanical foundation (64 gates, centers, circuits)
@@ -135,36 +136,15 @@ The principle governing its construction: **use precise tools precisely.** The 6
 - **[[Astrology]]** — Zodiac wheel (12 Archetypes mapped to signs)
 
 ---
-## Footnotes
 
 [^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1967) — etymology of "astrolabe" from Greek astronomical tradition paralleling the I-Ching's own function as portable cosmological instrument
+
 [^2]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1967) — hexagram names and English translations
+
 [^3]: Ra Uru Hu and Bunnell, *The Definitive Book of Human Design* (IHDS/Jovian Archive, 2011) — gate keynotes and center placements
+
 [^4]: Rudd, *Gene Keys* (Watkins, 2013) — Shadow/Gift/Siddhi transformation arc framework
+
 [^5]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1967) — trigram family structure organizing the 64 hexagrams by lower trigram
 
 ---
-## Sources
-
-### Primary Sources (Uploaded to Esoteric Grimoire)
-
-**I-Ching:**
-- Huang, Alfred. *The Complete I Ching: The Definitive Translation by the Taoist Master Alfred Huang*. Rochester, VT: Inner Traditions, 1998.
-- Wilhelm, Richard and Baynes, Cary F. (Trans.). *The I Ching or Book of Changes*. Princeton, NJ: Princeton University Press, 1967. (Bollingen Series XIX)
-
-**Gene Keys:**
-- Rudd, Richard. *Gene Keys: Unlocking the Higher Purpose Hidden in Your DNA*. London: Watkins Publishing, 2013. (First published 2009)
-
-**Human Design:**
-- Ra Uru Hu. *The Human Design System: The Complete Rave I'Ching*. Diessen am Ammersee, Germany: Jovian Archive Corporation, 2001.
-- Ra Uru Hu and Bunnell, Lynda. *The Definitive Book of Human Design: The Science of Differentiation*. IHDS/Jovian Archive, 2011.
-
-### Vibology Synthesis Notes
-
-The Astrolabe is **Vibology Synthesis** — an original oracle instrument integrating:
-1. **64-fold architecture** from I-Ching, Human Design gates, and Gene Keys
-2. **Alchemical framework** (Materia and Furnace) as transformative lens
-3. **Zodiacal/Jungian archetypes** with 1980s contemporary cultural encoding
-4. **Trigram family organization** honoring the I-Ching's own structural logic
-
-The deck's predecessor, The Window, forced gates into interpretive categories. The Astrolabe separates the interpretive layer (Athanor) from the architectural layer (Codex), honoring what each system actually is.

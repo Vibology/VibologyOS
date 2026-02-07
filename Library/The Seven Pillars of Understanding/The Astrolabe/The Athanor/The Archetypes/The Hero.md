@@ -82,6 +82,7 @@ The Hero's fatal flaw is hubris—believing that ego power is sufficient without
 **Siddhi Vision:** You embody majesty—power so aligned with cosmic order that it requires no justification. Your presence alone transforms situations. You have become the one who treads only upon paths that accord with rightness. Force has dissolved into grace. At this frequency, you don't decide to help—helping is what you are.
 
 ---
+
 ## Cross-References
 
 ### Related Athanor Cards
@@ -104,22 +105,11 @@ The Hero's fatal flaw is hubris—believing that ego power is sufficient without
 - [[Mars ♂]] — Planetary ruler of Aries; warrior energy
 
 ---
-## Footnotes
 
 [^1]: Jung, *The Archetypes and the Collective Unconscious* (CW 9i, Princeton, 1969) — The Hero archetype as ego engaging with transformation (§259-305)
+
 [^2]: Campbell, *The Hero with a Thousand Faces* (Princeton, 1949) — the monomyth as universal heroic pattern (Chapter 1)
+
 [^3]: von Franz, *The Interpretation of Fairy Tales* (Shambhala, 1996) — The Hero as ego development confronting unconscious forces (Chapter 3)
-
----
-## Sources
-
-Jung, C.G. *The Archetypes and the Collective Unconscious* (CW 9i). Princeton University Press, 1969.
-- §259-305: The Hero archetype and its role in individuation
-
-Campbell, Joseph. *The Hero with a Thousand Faces*. Princeton University Press, 1949.
-- Chapter 1: The Hero's journey as universal pattern
-
-von Franz, Marie-Louise. *The Interpretation of Fairy Tales*. Shambhala, 1996.
-- Chapter 3: The Hero as ego development
 
 ---

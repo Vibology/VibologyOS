@@ -76,6 +76,7 @@ Jung identified The Trickster as appearing when consciousness has become too rig
 **Siddhi Vision:** You embody boundlessness—the recognition that chaos is cosmic play, that disruption serves creation, that The Joker is the universe delighting in its own capacity to exceed all boundaries. You have transcended the question "is chaos good or evil?" because you know: **progress requires the agent who refuses all limits**. You are eternal change incarnate, the cosmic function that ensures nothing ever ossifies into permanent form.
 
 ---
+
 ## Cross-References
 
 ### Related Athanor Cards
@@ -96,22 +97,11 @@ Jung identified The Trickster as appearing when consciousness has become too rig
 - [[Tests, Allies, and Enemies]] — Where The Joker appears
 
 ---
-## Footnotes
 
 [^1]: Jung, *The Archetypes and the Collective Unconscious* (CW 9i, Princeton, 1969) — On the Psychology of the Trickster-Figure (§456-488)
+
 [^2]: Radin, *The Trickster* (Schocken Books, 1972) — cross-cultural Trickster cycle in mythology (Introduction)
+
 [^3]: Hyde, *Trickster Makes This World* (Farrar, Straus and Giroux, 1998) — the Trickster as agent of cultural change (Chapter 1)
-
----
-## Sources
-
-Jung, C.G. *The Archetypes and the Collective Unconscious* (CW 9i). Princeton University Press, 1969.
-- §456-488: On the Psychology of the Trickster-Figure
-
-Radin, Paul. *The Trickster: A Study in American Indian Mythology*. Schocken Books, 1972.
-- Introduction: The Trickster cycle
-
-Hyde, Lewis. *Trickster Makes This World: Mischief, Myth, and Art*. Farrar, Straus and Giroux, 1998.
-- Chapter 1: The Trickster as agent of change
 
 ---
