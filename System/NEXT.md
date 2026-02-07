@@ -16,7 +16,7 @@
 | Cross-References Coverage | 99.9% |
 | Dead Wikilinks | 0 |
 | YAML Compliance | 100% |
-| Stub Files | 20 (intentional scaffolding) |
+| Stub Files | 16 (intentional scaffolding) |
 
 **All core practice content is 100% complete:**
 - 78 Tarot cards (Major + Minor Arcana)
@@ -137,15 +137,14 @@ Old Window content (76 files) archived at `.archive/Library/The Window/`. The wo
 **Pending: IHDS Foundation Sequence Materials**
 Acquiring LYD manual ($50) and planning foundation course sequence (LYD $300, Rave ABCs $400, Rave Cartography $750). Library updates for HD foundational material are **on hold** until source texts are in hand.
 
-**Stub files available for expansion (20 remaining):**
+**Stub files available for expansion (16 remaining):**
 - ~~Qabalah subsystem (32 files) — COMPLETE, 0 stubs (Batches 1-4: 2026-02-06)~~
 - ~~Jungian concepts (7 stubs) — COMPLETE 2026-02-06~~
 - ~~Jungian archetypes (5 stubs) — COMPLETE 2026-02-06 (Imago Dei, Syzygy, Inner Child, Puer/Puella, Senex)~~
 - ~~Foundational entries (4 stubs) — COMPLETE 2026-02-06 (Core Foundations, BodyGraph, Deconditioning, Channels)~~
 - ~~Tarot overview (3 stubs) — COMPLETE 2026-02-06 (Divination, Fool's Journey, Pathworking)~~
-- Mythology deities (17 stubs) — archetypal anchors (Egyptian 3, Mesopotamian 1, Greek 13)
-- Personal Mythos practice (3 stubs) — Active Imagination, Numinous Experience, Heart Chakra Meditation
-- Personal Mythos overview (1 stub) — The Hero's Journey
+- ~~Personal Mythos practice/overview (4 stubs) — COMPLETE 2026-02-07 (Active Imagination, Numinous Experience, Heart Chakra Meditation, Hero's Journey)~~
+- Mythology deities (16 stubs) — archetypal anchors (Egyptian 3, Greek 13)
 
 **Dignity system: COMPLETE (2026-02-04)**
 - **Data extraction:** All 384 line exaltations/detriments extracted from "The Definitive Book of Human Design" (IHDS 2011 edition)
@@ -187,6 +186,17 @@ Acquiring LYD manual ($50) and planning foundation course sequence (LYD $300, Ra
 ---
 
 ## Session History
+
+**2026-02-07 (Early Morning):** Personal Mythos Practice/Overview Expansion — **4 stubs → comprehensive** (16 stubs remaining)
+- **Batch scope:** Complete all remaining Personal Mythos practice and overview stubs
+- **Work completed:**
+  1. **Active Imagination.md** (87 → 658 lines) — Complete Jungian technique for conscious-unconscious dialogue. Historical development: Jung's Red Book period (1913-1916), Philemon encounter, systematization (CW 8/13/14). Theoretical foundation: Transcendent function, alchemy parallel, four-phase method (Preparation—setting vessel/ethical commitment/suspend rational critique, Invocation—letting image arise autonomously from dreams/moods/fantasy/body, Dialogue—engaging figures as real interlocutors with questions/negotiation/ethical boundaries, Integration—recording/reflection/ethical action/ritual embodiment). Distinctions from fantasy (autonomous vs. ego-directed), meditation (engage vs. quiet content), pathworking (spontaneous vs. structured), journaling (encountering Other vs. ego reflection). Safety protocols: suitable candidates (stable ego, psychological literacy, ethical maturity), contraindications (psychosis, borderline, suicidal ideation, substance use, spiritual inflation), working with guide. Common figures encountered: Shadow, Anima/Animus, Wise Old Man/Woman, Divine Child, Trickster, Self (with warnings against identification/inflation). Jung case examples (maiden/well, Philemon). Practical guidelines, shadow work (inflation, escapism, literalization, psychosis risk). Cross-system: Pathworking, Contemplative Prayer, Deconditioning. Jung CW citations, Red Book references, von Franz methodology verified.
+  2. **The Hero's Journey.md** (95 → 626 lines) — Complete Campbell monomyth framework. Historical development: Campbell's discovery (1940s), influences (Jung archetypes, Joyce, Zimmer, van Gennep rites of passage), publication impact, cultural influence (Star Wars, Vogler, Jungian therapy, spirituality). Three Acts with 12 stages detailed: Act I Departure (Ordinary World, Call to Adventure, Refusal of Call, Meeting Mentor, Crossing First Threshold), Act II Initiation (Road of Trials, Meeting Goddess/Temptress, Atonement with Father, Apotheosis/Ultimate Boon), Act III Return (Refusal of Return, Magic Flight, Crossing Return Threshold/Master of Two Worlds). Each stage with psychological meaning, mythological examples, life parallels, Campbell quotes. Heroine's Journey variation (Maureen Murdock 10-stage framework): feminist critique of patriarchal monomyth, emphasis on reclaiming feminine/healing mother-wound/integration vs. separation. Cross-system correspondences: Fool's Journey (Tarot), Deconditioning (HD), 30 Aethyrs (Angelology), planetary transits (Astrology). Practical application: recognizing heroic cycles, naming stage, identifying archetypes, honoring descent, preparing return. Shadow work: inflation, spiritual bypassing, literalism. Campbell verified, Jung archetypes cross-referenced, Murdock heroine's journey integrated.
+  3. **Numinous Experience.md** (40 → 440 lines) — Complete Otto/Jung framework for encounter with the holy. Rudolf Otto biography and context (*The Idea of the Holy*, 1917), response to rationalist theology. Mysterium tremendum et fascinans: three characteristics detailed (Tremendum—terror/awe/overwhelming, Majestas—majesty/absolute power/sovereignty, Fascinans—fascination/irresistible attraction/beauty). Numinous vs. moral distinction (holy ≠ good; sacred vs. ethical). Jung's appropriation: psychological vs. theological framing, numinous as archetypal encounter (Self, collective unconscious), big dreams/synchronicity/active imagination/crisis/transference as contexts. Forms of numinous experience: theophany (divine manifestation), nature epiphany (sacred wild), aesthetic numinosity (beauty as gateway), mystical union (ego-Self identity), dark numinosity (terror without consolation—Job, St. John of Cross, Mother Teresa). Integration vs. inflation: dismissal (deflation/betrayal of psyche), identification (inflation/psychosis), integration (middle way—validation/reflection/embodiment/witness/return to ordinary life). Pathology vs. genuine encounter discernment table. Shadow work: spiritual bypassing, addiction to peak experiences, literalism. Cross-system: Tarot (High Priestess, Star, World), Contemplative Prayer, Gate 25 HD. Otto verified, Jung CW 11 citations documented.
+  4. **Heart Chakra Meditation.md** (46 → 492 lines) — Complete Anahata practice guide. Yogic tradition: seven-chakra system table, Anahata as fourth/bridge (earth-heaven, personal-transpersonal), etymology ("unstruck sound"), symbolism (12-petaled lotus, interlocking triangles/Shatkona, air element, YAM mantra). Qualities of balanced/blocked/excessive heart chakra. Four meditation techniques detailed: Breath-Centered Heart Meditation (10-20 min protocol with preparation/breath into heart/expand field/rest), Metta/Loving-Kindness Meditation (15-30 min with self/benefactor/beloved/neutral/difficult person/all beings—Buddhist metta bhavana), Mantra Meditation YAM (10-20 min chanting aloud/silently), Heart-Brain Coherence (HeartMath technique 5-10 min with heart-focused breathing/activate positive feeling/sustain coherence). Signs of progress by timeframe (early/intermediate/advanced). Integration with other practices: Contemplative Prayer parallel, Jungian Eros/Logos/Anima-Animus/Syzygy, Tarot Tiphareth/Lovers/Temperance, HD G Center/Gate 25. Shadow work: spiritual bypassing (love-and-light trap), codependency/boundary dissolution, attachment disguised as love. Sat-Cakra-Nirupana verified, Metta Sutta sourced, HeartMath research (McCraty et al. 2009) cited, Davidson neuroplasticity study referenced.
+- **Quality standards met:** All 4 entries comprehensive (440-658 lines). Semantic Section System applied. Proper YAML frontmatter with verification. Extensive wikilinks. Sources cited (Jung CW, Otto 1917, Campbell 1949, Buddhist sources, yogic texts, HeartMath research). Footnotes for key claims.
+- **Stub count:** 20 → 16 (4 stubs eliminated: Active Imagination, The Hero's Journey, Numinous Experience, Heart Chakra Meditation)
+- **Next available:** Mythology deity stubs (16 remaining: Egyptian 3, Greek 13)
 
 **2026-02-06 (Post-Midnight):** Tarot Overview Expansion — **3 stubs → comprehensive** (20 stubs remaining)
 - **Batch scope:** Complete all remaining Tarot overview/practice stubs
