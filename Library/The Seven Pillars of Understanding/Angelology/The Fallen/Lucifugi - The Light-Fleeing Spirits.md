@@ -3,6 +3,7 @@ tags: [angelology, demonology, folklore, subterranean-spirits, fallen-angels, he
 system: Angelology
 related_figures: [[The Nine Orders of Fallen Angels]], [[Gabriel]]
 date_created: 2026-02-05
+verified: true
 ---
 
 # Lucifugi: The Light-Fleeing Spirits

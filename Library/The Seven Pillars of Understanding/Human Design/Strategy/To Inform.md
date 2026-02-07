@@ -6,6 +6,7 @@ compatible_types: [Manifestor]
 signature: Peace
 not_self_theme: Anger
 date_created: 2026-01-20
+verified: true
 ---
 
 # To Inform: The Manifestor's Strategy

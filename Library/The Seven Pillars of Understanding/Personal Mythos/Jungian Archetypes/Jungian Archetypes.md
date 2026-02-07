@@ -2,6 +2,7 @@
 tags: [folklore, jungian, archetype, collective-unconscious, overview]
 system: Personal Mythos
 date_created: 2026-01-26
+verified: true
 category: Index
 grimoire_source: "Jung Collected Works (CW 9i, 9ii)"
 ---

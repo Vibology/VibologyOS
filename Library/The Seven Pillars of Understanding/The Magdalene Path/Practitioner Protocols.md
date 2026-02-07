@@ -2,6 +2,7 @@
 tags: [magdalene-path, practice, protocols, audit, self-assessment, weekly-practice, monthly-practice, quarterly-practice, practitioner-only]
 system: The Magdalene Path
 date_created: 2026-02-05
+verified: true
 category: Practice
 structure_type: Personal Protocols
 practitioner_specific: true

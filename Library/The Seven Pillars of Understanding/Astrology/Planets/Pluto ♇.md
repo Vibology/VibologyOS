@@ -5,6 +5,7 @@ date_created: 2026-01-08
 glyph: ♇
 alchemical: Radioactive Nemesis
 source_verified: synthesis
+verified: true
 verification_date: 2026-01-23
 grimoire_source: "Greek/Roman mythology (Hades the Invisible, Pluto from ploutos 'riches', Persephone abduction), Modern psychological astrology (Liz Greene - Moira/Fate, Erinyes), Human Design"
 verification_notes: "Hades/Pluto mythology verified against Grimoire (underworld lord, hidden wealth, Persephone abduction). Modern astrological interpretations (rulership of Scorpio, retributive fate, death-rebirth cycle) verified. Human Design Pluto as Truth Teller (248-year cycle) verified. Liz Greene's Moira/Fates connection verified. Note: Pluto absent from traditional astrology (Lilly/Ptolemy) as it was discovered in 1930."

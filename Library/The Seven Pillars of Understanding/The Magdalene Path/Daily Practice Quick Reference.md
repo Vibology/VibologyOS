@@ -2,6 +2,7 @@
 tags: [magdalene-path, angelology, daily-practice, quick-reference, practitioner-only, centering-prayer, invocation, uriel, guardian-angel]
 system: The Magdalene Path
 date_created: 2026-02-05
+verified: true
 category: Practice
 structure_type: Quick Reference
 practitioner_specific: true

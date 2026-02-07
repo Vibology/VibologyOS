@@ -6,6 +6,7 @@ core_archetype: The Initiate / The Purified Ego
 themes: [initiation, purification, impossible-tasks, animal-helpers, patience, instinct-over-intellect, iteration, grounding, ego-death]
 date_created: 2026-01-18
 source_verified: synthesis
+verified: true
 verification_date: 2026-01-23
 grimoire_source: "Marie-Louise von Franz, Bruno Bettelheim, Jung CW, Grimm Brothers, Perrault"
 verification_notes: "Fairy tale narratives accurate (Grimm, Perrault canon). Jungian/depth psychological interpretations are scholarly synthesis per von Franz and Bettelheim. Archetypal pattern recognition (Shadow, Anima, Mother, etc.) applies Jung framework to folklore. Cross-system correspondences are original synthesis."

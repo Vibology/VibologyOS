@@ -2,7 +2,7 @@
 tags: [magdalene-path, dark-night, mysticism, contemplative, purgation, john-of-the-cross, suffering, transformation, kenosis]
 system: The Magdalene Path
 date_created: 2026-02-07
-verified: 2026-02-07
+verified: true
 verification_source: "Esoteric Grimoire (St. John of the Cross, Teresa of Avila, contemplative mysticism sources)"
 category: Mystical Concept
 ---

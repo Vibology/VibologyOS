@@ -3,7 +3,7 @@ tags: [magdalene-path, mary-magdalene, apostle, koinonos, sophia, witness, anoin
 system: The Magdalene Path
 date_created: 2026-01-18
 date_updated: 2026-01-24
-verified: 2026-01-24
+verified: true
 verification_source: Esoteric Grimoire
 category: Archetype
 ---

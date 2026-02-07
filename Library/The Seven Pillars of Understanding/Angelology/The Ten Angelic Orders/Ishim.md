@@ -4,7 +4,7 @@ system: Angelology
 subsystem: The Ten Angelic Orders
 date_created: 2026-01-26
 date_updated: 2026-02-06
-verified: 2026-02-06
+verified: true
 verification_source: Esoteric Grimoire
 verification_notes: Davidson, Wang, Maimonides sourced via NotebookLM
 category: Angelic Order

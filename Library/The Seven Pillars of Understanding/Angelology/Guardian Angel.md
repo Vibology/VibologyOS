@@ -3,7 +3,7 @@ tags: [angelology, guardian-angel, protection, providence, holy-guardian-angel, 
 system: Angelology
 date_created: 2026-01-26
 date_updated: 2026-02-06
-verified: 2026-02-06
+verified: true
 verification_source: Esoteric Grimoire
 verification_notes: DuQuette Enochian Vision Magick, Crowley Thelemic material, scriptural references
 category: Concept/Practice

@@ -1,6 +1,7 @@
 ---
 tags: [vibology, navigation, start]
 date_created: 2026-01-08
+verified: true
 date_updated: 2026-01-18
 ---
 # Welcome to the Vibology Library

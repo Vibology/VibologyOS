@@ -6,6 +6,7 @@ compatible_types: [Projector]
 signature: Success
 not_self_theme: Bitterness
 date_created: 2026-01-20
+verified: true
 ---
 
 # Wait for the Invitation: The Projector's Strategy

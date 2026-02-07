@@ -4,6 +4,7 @@ system: Angelology
 related_figures: [[Michael]], [[Seraphim]], [[The Nine Orders of Fallen Angels]], [[The Shadow]]
 related_concepts: [[Kether]], [[Qlippoth]], Pride, Envy
 date_created: 2026-01-26
+verified: true
 date_expanded: 2026-02-05
 ---
 

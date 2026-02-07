@@ -2,6 +2,7 @@
 tags: [vibology, the-astrolabe, overview, oracle-deck]
 system: The Astrolabe
 date_created: 2026-02-03
+verified: true
 status: Draft
 ---
 # The Astrolabe

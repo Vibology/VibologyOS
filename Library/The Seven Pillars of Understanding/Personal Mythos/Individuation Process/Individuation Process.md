@@ -2,6 +2,7 @@
 tags: [folklore, jungian, individuation, developmental-psychology, overview]
 system: Personal Mythos
 date_created: 2026-01-26
+verified: true
 category: Index
 grimoire_source: "Jung Collected Works (CW 7, 9i, 9ii, 12)"
 ---

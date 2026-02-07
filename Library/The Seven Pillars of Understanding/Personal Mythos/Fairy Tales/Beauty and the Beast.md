@@ -6,6 +6,7 @@ core_archetype: The Shadow Integration / Sacred Marriage
 themes: [acceptance, instinct-redemption, inner-beauty, eros, transformation, death-rebirth, masculine-feminine-union]
 date_created: 2026-01-18
 source_verified: synthesis
+verified: true
 verification_date: 2026-01-23
 grimoire_source: "Marie-Louise von Franz, Bruno Bettelheim, Jung CW, Grimm Brothers, Perrault"
 verification_notes: "Fairy tale narratives accurate (Grimm, Perrault canon). Jungian/depth psychological interpretations are scholarly synthesis per von Franz and Bettelheim. Archetypal pattern recognition (Shadow, Anima, Mother, etc.) applies Jung framework to folklore. Cross-system correspondences are original synthesis."

@@ -6,6 +6,7 @@ compatible_types: [Reflector]
 signature: Surprise
 not_self_theme: Disappointment
 date_created: 2026-01-20
+verified: true
 ---
 
 # Wait a Lunar Cycle: The Reflector's Strategy

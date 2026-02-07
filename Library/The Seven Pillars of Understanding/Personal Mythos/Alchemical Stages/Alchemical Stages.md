@@ -2,6 +2,7 @@
 tags: [folklore, alchemy, index, overview]
 system: Personal Mythos
 date_created: 2026-01-31
+verified: true
 category: Index
 grimoire_source: "Jung CW 12, CW 14; Edinger Anatomy of the Psyche; von Franz Alchemy"
 ---

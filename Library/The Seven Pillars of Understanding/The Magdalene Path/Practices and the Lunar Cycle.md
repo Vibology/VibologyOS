@@ -3,7 +3,7 @@ tags: [magdalene-path, practices, lunar-cycle, moon, rhythm, daily-practice, rel
 system: The Magdalene Path
 date_created: 2026-01-18
 date_updated: 2026-01-24
-verified: 2026-01-24
+verified: true
 verification_source: Esoteric Grimoire
 category: Practice
 ---

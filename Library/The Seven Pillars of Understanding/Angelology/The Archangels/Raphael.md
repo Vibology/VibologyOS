@@ -3,7 +3,7 @@ tags: [angelology, archangel, raphael, four-quarters, tiphareth]
 system: Angelology
 date_created: 2026-01-17
 date_updated: 2026-01-25
-verified: 2026-01-25
+verified: true
 verification_source: Esoteric Grimoire
 category: Individual Archangel
 archangel_name: Raphael

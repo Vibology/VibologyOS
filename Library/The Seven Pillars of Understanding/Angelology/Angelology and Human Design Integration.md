@@ -3,7 +3,7 @@ tags: [angelology, human-design, integration, consciousness-centers]
 system: Angelology
 date_created: 2026-01-17
 date_updated: 2026-01-24
-verified: 2026-01-24
+verified: true
 verification_source: Esoteric Grimoire
 category: Integration Teaching
 ---

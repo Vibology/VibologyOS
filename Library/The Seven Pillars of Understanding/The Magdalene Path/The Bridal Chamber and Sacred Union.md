@@ -3,7 +3,7 @@ tags: [magdalene-path, bridal-chamber, sacred-union, hieros-gamos, singleness, w
 system: The Magdalene Path
 date_created: 2026-01-18
 date_updated: 2026-01-24
-verified: 2026-01-24
+verified: true
 verification_source: Esoteric Grimoire
 category: Practice
 ---

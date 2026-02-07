@@ -2,6 +2,7 @@
 tags: [angelology, invocation, practice, prayer, ritual, synthesis, practitioner-practice]
 system: Angelology
 date_created: 2026-01-26
+verified: true
 date_expanded: 2026-02-05
 related_practices:
   - "[[Discernment of Spirits]]"

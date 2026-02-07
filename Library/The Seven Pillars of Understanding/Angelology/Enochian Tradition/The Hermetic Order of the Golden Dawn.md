@@ -3,6 +3,7 @@ tags: [angelology, enochian, golden-dawn, history, ceremonial-magic, grade-syste
 system: Angelology
 subsystem: Enochian
 date_created: 2026-01-26
+verified: true
 date_expanded: 2026-02-06
 status: complete
 ---

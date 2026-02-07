@@ -2,6 +2,7 @@
 tags: [human-design, centers, overview, bodygraph, energy-system]
 system: Human Design
 date_created: 2026-01-26
+verified: true
 category: Index
 ---
 

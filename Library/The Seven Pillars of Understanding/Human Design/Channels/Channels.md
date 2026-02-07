@@ -3,7 +3,7 @@ tags: [human-design, channels, definition, circuitry, electromagnetic, mechanics
 system: Human Design
 date_created: 2026-01-26
 date_updated: 2026-02-06
-verified: 2026-02-06
+verified: true
 verification_source: Definition.md, BodyGraph entry, Blueprint entry
 status: comprehensive
 ---
