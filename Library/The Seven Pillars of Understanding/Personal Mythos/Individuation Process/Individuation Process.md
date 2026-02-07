@@ -123,4 +123,12 @@ The **four colors** (*colores*) are Jung's primary alchemical model (CW 12, CW 1
 - [[Pathworking]] — Tarot's equivalent of inner journey work
 - [[The Fool's Journey]] — Tarot's archetypal individuation narrative
 
+## Sources
+
+- Jung, C.G. *Collected Works* Vol. 7: *Two Essays on Analytical Psychology* — Foundational treatment of individuation, ego-Self relationship, and the persona
+- Jung, C.G. *Collected Works* Vol. 9i: *The Archetypes and the Collective Unconscious* — Shadow, Anima/Animus, Self as structural stages of individuation
+- Jung, C.G. *Collected Works* Vol. 9ii: *Aion* — Further development of Self symbolism and the individuation process across the lifespan
+- Jung, C.G. *Collected Works* Vol. 12: *Psychology and Alchemy* — Alchemical parallel to individuation (four colors as stages of the opus)
+- Jung, C.G. *Collected Works* Vol. 14: *Mysterium Coniunctionis* — The *coniunctio* as culmination of the alchemical-individuation process
+
 ---

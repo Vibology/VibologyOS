@@ -378,3 +378,12 @@ Raphael is associated with **Mercury (Hermes)**, the god of alchemy, the psychop
 - [[Contemplative Prayer]] — Non-petitionary prayer (contrasted with invocation's direct address)
 - [[Active Imagination]] — Jungian technique; dialogue with Raphael as autonomous archetypal figure
 - [[Lesser Banishing Ritual of the Pentagram|Qabalistic Cross]] — Foundational alignment practice (vertical/horizontal axis establishment)
+
+---
+
+## Sources
+
+- Book of Tobit (Deuterocanonical/Apocryphal). Raphael disguised as Azarias guides Tobias, heals Tobit's blindness, self-identifies as one of seven angels before God's throne (Tobit 12:15).
+- Regardie, Israel. *The Golden Dawn*. Qabalistic correspondences, invocation structure, and ritual protocol for archangelic work.
+- *Heptameron* (attributed to Peter de Abano, c. 1496). Medieval grimoire placing Raphael in planetary and directional correspondences.
+- Agrippa, Heinrich Cornelius. *Three Books of Occult Philosophy* (1533). Planetary archangel attributions, Sephirotic correspondences.

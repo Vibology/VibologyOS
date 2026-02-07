@@ -266,3 +266,13 @@ Ritual is not superstition. The Four Quarters are the **grid lines** on the map 
 - [[Active Imagination]] — Requires protected space (Four Quarters provide containment)
 - [[The Self]] — Jungian wholeness symbol; quaternity as mandala/completeness
 - [[Individuation Process]] — Four Quarters as map of psychological development stages
+
+---
+
+## Sources
+
+- Regardie, Israel. *The Golden Dawn*. Standard quarter-element-archangel attributions (Raphael East/Air, Michael South/Fire, Gabriel West/Water, Uriel North/Earth) and LBRP ritual structure.
+- *Heptameron* (attributed to Peter de Abano, c. 1496). Medieval grimoire with variant directional attributions (Michael East, Raphael West).
+- Jewish liturgical tradition (*Bedtime Shema*). Body-centered archangelic invocation (right/left/front/back) from Hebraic amulet tradition.
+- Agrippa, Heinrich Cornelius. *Three Books of Occult Philosophy* (1533). Elemental correspondences and directional magic.
+- Jung, C.G. On the quaternity as symbol of wholeness and the four functions of consciousness (Thinking, Intuition, Feeling, Sensation).

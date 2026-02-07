@@ -179,3 +179,9 @@ When working with charts (astrological, Human Design, Tarot), synchronicity is t
 - [[Astrology]] — Divination system operating on synchronistic correspondence between celestial and terrestrial
 - [[The Astrolabe]] — I-Ching/Gene Keys system demonstrating synchronicity in practice
 - [[Human Design]] — Birth chart as synchronistic snapshot of archetypal field at moment of imprinting
+
+## Sources
+
+- Jung, C.G. *Collected Works* Vol. 8: *The Structure and Dynamics of the Psyche* — Primary treatment of synchronicity as acausal connecting principle; the quaternion (space, time, causality, synchronicity); psychoid layer; astrological marriage experiment; pathology of over-reading
+- Jung, C.G. Foreword to the *I-Ching* (Wilhelm/Baynes translation) — Chinese thought as synchronistic framework; the I-Ching as demonstration of meaningful coincidence
+- Meier, C.A. (ed.). *Atom and Archetype: The Pauli/Jung Letters 1932-1958* — Jung-Pauli dialogue on quantum parallels, the *unus mundus*, and the complementarity of psyche and matter

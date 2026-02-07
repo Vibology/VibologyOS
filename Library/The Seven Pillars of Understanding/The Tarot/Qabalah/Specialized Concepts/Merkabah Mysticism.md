@@ -185,3 +185,15 @@ The four who entered Pardes also serve as a permanent warning. The Observatory's
 [^6]: Gershom Scholem, *Major Trends in Jewish Mysticism* — The relationship between the seven Hekhalot and the later Sephirotic system; Merkabah mysticism as the experiential precursor to theoretical Qabalah.
 [^7]: Jung, CW 14 (*Mysterium Coniunctionis*) — Active imagination as the deliberate engagement with unconscious contents while maintaining consciousness; the parallels to visionary ascent traditions.
 [^8]: Jung, CW 9i (*The Archetypes and the Collective Unconscious*) — The dangers of premature encounter with the collective unconscious: inflation, fragmentation, psychotic dissolution.
+
+---
+
+## Sources
+
+- **Ezekiel 1:1-28** — The foundational vision of the Chariot (*Merkavah*): four living creatures, wheels within wheels, the firmament, the Throne of sapphire
+- **Hekhalot literature** — *Hekhalot Rabbati*, *Hekhalot Zutarti*, *Ma'aseh Merkavah*, *Sefer Hekhalot* (3 Enoch), *Shi'ur Qomah*; the seven palaces, guardian angels, and ascent practices
+- **Talmud, Hagigah 14b** — The four who entered *Pardes*: Ben Azzai, Ben Zoma, Acher, Rabbi Akiva
+- **Gershom Scholem, *Major Trends in Jewish Mysticism*** — The relationship between Merkabah mysticism and later Qabalah; the Hekhalot as experiential precursor to theoretical Sephirotic system
+- **Robert Wang, *The Qabalistic Tarot*** — The four Chayot as corresponding to the four elements, Tarot suits, and four worlds
+- **Jung, CW 14 (*Mysterium Coniunctionis*)** — Active imagination as parallel to visionary ascent traditions
+- **Jung, CW 9i (*The Archetypes and the Collective Unconscious*)** — The dangers of premature encounter with the collective unconscious

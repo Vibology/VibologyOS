@@ -117,3 +117,12 @@ The entire Library is a Hod structure — the intellectual framework through whi
 [^4]: Dion Fortune, *The Mystical Qabalah* — All ceremonial magic as belonging to Hod's jurisdiction; technique without Netzach's feeling produces "dead-letter ceremonial."
 [^5]: Wang, *The Qabalistic Tarot* — The Eight of Swords (Jupiter in Gemini) as Hod's shadow: the mind imprisoned by its own analysis, intellect as cage rather than tool.
 [^6]: Jung, CW 6 (*Psychological Types*) — The thinking function as the capacity to name, classify, and evaluate; logos as the ordering principle of consciousness.
+
+---
+
+## Sources
+
+- **The Zohar** — Netzach and Hod as the two supports of Tiphareth; Hod as the intellectual pole of the manifest Tree
+- **Robert Wang, *The Qabalistic Tarot*** — Hod's Mercury as Hermes the psychopomp; the Qabalah as a Hod operation; the Eight of Swords as Hod's shadow
+- **Dion Fortune, *The Mystical Qabalah*** — All ceremonial magic as belonging to Hod's jurisdiction; technique without feeling as "dead-letter ceremonial"
+- **Jung, CW 6 (*Psychological Types*)** — The thinking function as the capacity to name, classify, and evaluate

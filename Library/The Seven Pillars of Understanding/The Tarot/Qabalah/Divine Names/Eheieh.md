@@ -103,3 +103,13 @@ The burning bush is the perfect image: a fire that burns without consuming, a pr
 [^1]: Zohar — The doubled *Ehyeh* in Exodus 3:14 as referring to Kether (macrocosm) and its reflection in the lower Tree. *Asher* as the connecting mystery.
 [^2]: Wang, *The Qabalistic Tarot* — Eheieh as "likened in sound and meaning to the breath," the Divine Essence of Kether.
 [^3]: Jung, CW 9ii (*Aion*) — The Self as "the archetype of wholeness and the regulating center of the psyche," unknowable in itself, inferred from its effects.
+
+---
+
+## Sources
+
+- **The Zohar** — The doubled *Ehyeh* in Exodus 3:14 as referring to Kether and its reflection; *Asher* as the connecting mystery
+- **Sefer Yetzirah** — Kether as the first of the ten Sephiroth of Nothingness
+- **Robert Wang, *The Qabalistic Tarot*** — Eheieh as breath-like sound, the Divine Essence of Kether
+- **Jung, CW 9ii (*Aion*)** — The Self as archetype of wholeness, structural parallel to Kether/Eheieh
+- **Israel Regardie, *The Middle Pillar*** — Eheieh as the first name vibrated in the Middle Pillar Exercise

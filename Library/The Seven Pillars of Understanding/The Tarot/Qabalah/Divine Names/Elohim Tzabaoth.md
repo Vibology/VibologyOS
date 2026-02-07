@@ -108,3 +108,11 @@ The danger of unbalanced Hod — logos without eros — is what Jung identified 
 [^1]: Zohar — Netzach and Hod as the "supports of the central pillar" and the "source of prophecy," associated jointly with the title *Tzabaoth* (Hosts).
 [^2]: Zohar — Elohim as the name of God in judgment and separation. Genesis 1 uses *Elohim* throughout the creation narrative: "Elohim divided the light from the darkness" (1:4).
 [^3]: Jung, CW 6 (*Psychological Types*) — Thinking as a rational function that organizes experience according to logical principles; logos as the discriminating, structuring aspect of consciousness.
+
+---
+
+## Sources
+
+- **The Zohar** — Netzach and Hod as supports of the central pillar and source of prophecy; Elohim as the name of God in judgment and separation
+- **Jung, CW 6 (*Psychological Types*)** — The thinking function as parallel to Hod's intellectual-analytical principle
+- **Golden Dawn tradition** — Hod's attribution to Mercury and ceremonial magic; the LBRP and Hexagram Rituals as Hod operations

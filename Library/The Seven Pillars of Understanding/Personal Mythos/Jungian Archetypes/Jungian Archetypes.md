@@ -137,4 +137,9 @@ The Jungian archetypes correspond to patterns in other wisdom traditions:
 - Active Imagination — Jung's technique for archetype engagement
 - The Twelve Archetypes — The Window's contemporary archetypal system
 
+## Sources
+
+- Jung, C.G. *Collected Works* Vol. 9i: *The Archetypes and the Collective Unconscious* — Primary source for archetype theory, definitions of Shadow, Anima/Animus, Self, Hero, Great Mother, Wise Old Man, Divine Child, and Trickster
+- Jung, C.G. *Collected Works* Vol. 9ii: *Aion* — Extended treatment of Self symbolism and archetypal structures across history
+
 ---

@@ -139,3 +139,12 @@ The Library, the protocols, the instruments — all exist to serve this final de
 [^6]: Wang, *The Qabalistic Tarot* — The Tens as culmination and exhaustion: energy fully manifest with nowhere to go but back to the source.
 [^7]: Zohar — Lilith and Nahemoth ("Whisperers") as the Qlippothic aspect of Malkuth: matter experienced as exile, the world stripped of divine presence.
 [^8]: Jung, CW 16 (*The Practice of Psychotherapy*) — Individuation as ultimately requiring embodied living, not merely insight; "the goal is to become what one is" in the full reality of daily existence.
+
+---
+
+## Sources
+
+- **The Zohar** — Malkuth as *Kallah* (Bride) and *Shekinah* (Divine Presence); the sacred marriage of Tiphareth and Malkuth; Lilith/Nahemoth as the Qlippothic shadow
+- **Robert Wang, *The Qabalistic Tarot*** — Malkuth's four sub-quarters; the paradox of Malkuth as simultaneously lowest and highest; the Tens as culmination and exhaustion
+- **Dion Fortune, *The Mystical Qabalah*** — The myth of the "Fallen Daughter"; Malkuth's separation from the Supernal Mother and the Great Work of restoration
+- **Jung, CW 16 (*The Practice of Psychotherapy*)** — Individuation as requiring embodied living; integration of inner work into daily existence

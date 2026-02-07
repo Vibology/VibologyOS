@@ -116,3 +116,12 @@ This is why synthesis matters more than specialization. A reading that uses only
 [^3]: Wang, *The Qabalistic Tarot* — Tiphareth as the Sephirah of the dying and resurrecting god (Osiris, Christ, Adonis), the solar hero's cycle of descent and return.
 [^4]: Dion Fortune, *The Mystical Qabalah* — Tiphareth as the only Sephirah that communicates with all others; the mediating center of the Tree.
 [^5]: Jung, CW 9i (*The Archetypes and the Collective Unconscious*) — The Self appearing as mandala, divine child, royal marriage; the archetype of wholeness first encountered as numinous beauty.
+
+---
+
+## Sources
+
+- **The Zohar** — Tiphareth as *Zauir Anpin* ("Lesser Countenance"); the Son born of Chokmah and Binah; the Blessed Holy One as the revealed face of God
+- **Robert Wang, *The Qabalistic Tarot*** — Tiphareth as the Sephirah of the dying and resurrecting god (Osiris, Christ, Adonis); the solar hero's cycle
+- **Dion Fortune, *The Mystical Qabalah*** — Tiphareth as the only Sephirah communicating with all others; the mediating center and switching station of the Tree
+- **Jung, CW 9i (*The Archetypes and the Collective Unconscious*)** — The Self appearing as mandala, divine child, and royal marriage; the archetype of wholeness as numinous beauty

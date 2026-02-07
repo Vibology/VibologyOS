@@ -332,3 +332,14 @@ Integration requires the opposite Luciferian virtues: humility (Michael's questi
 [^25]: Heywood, *Hierarchie*, Book 6, lines 14637-14639.
 
 [^26]: Heywood, *Hierarchie*, Book 6, lines 14596-14599.
+
+---
+
+## Sources
+
+- Heywood, Thomas. *The Hierarchie of the Blessed Angells* (1635), Book 6. Primary source for Lucifer's pre-fall glory, the tri-partite Trinitarian nature, the war in Heaven, and the three offenders framework.
+- Isaiah 14:12-14. "How art thou fallen from heaven, O Lucifer" — the five "I will" statements and the fall of the Morning Star.
+- Ezekiel 28:12-15. The Covering Cherub, "stones of fire," and prelapsarian perfection (interpreted allegorically as applying to Lucifer).
+- Revelation 12:7-9. The war in Heaven; Michael and his angels cast down the Dragon and one-third of the heavenly host.
+- Jung, C.G. "The Relations Between the Ego and the Unconscious" (1928), CW 7. Ego-archetype identification as psychological parallel to Luciferian inflation.
+- Neumann, Erich, and von Franz, Marie-Louise. On the "Luciferian personality" pattern (brilliance without humility, vision without obedience).

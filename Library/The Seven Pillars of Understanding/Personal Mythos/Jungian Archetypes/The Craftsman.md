@@ -242,3 +242,11 @@ The Craftsman does not seek to *be* something (inflation)—they seek to *do* so
 - [[Individuation Process]] — The lifelong opus of psychic transformation
 - [[Nigredo]] — Alchemical blackening; Craftsman's material in raw, unrefined state
 - [[Coniunctio]] — Alchemical union; Craftsman and material unified (Ch'ing and the wood)
+
+## Sources
+
+- Jung, C.G. *Collected Works* Vol. 12: *Psychology and Alchemy* — Alchemy as projection of individuation onto matter; *opus contra naturam*; Philosopher's Stone as the Self
+- von Franz, Marie-Louise. *The Interpretation of Fairy Tales* and related lectures — Smiths and dwarfs as creative impulses in the unconscious; "inner dwarf" requiring a workshop
+- Huxley, Aldous. *The Perennial Philosophy* (1945) — Ch'ing the Woodcarver parable; self-naughting (*kenosis*) as prerequisite for sacred work
+- Davis, Erik. *Techgnosis: Myth, Magic, and Mysticism in the Age of Information* — Hephaestus/Vulcan as archetypal technician; technology as extension and amputation
+- Rudd, Richard. *Gene Keys* — 16th Gift (Versatility): mastery through identification and repetition; seven-year cellular cycle; transcendence of technique into versatility

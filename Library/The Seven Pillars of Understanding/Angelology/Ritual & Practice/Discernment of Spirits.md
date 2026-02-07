@@ -725,3 +725,15 @@ Use your instruments. Test what you see. Trust the process, not your ego. And wh
 [^3]: Teresa of Ávila. *The Interior Castle* (1577), particularly Sixth Dwelling Places (chapters on visions, locutions, raptures). Also *The Life of Teresa of Jesus* (1565), chapters 25-29 on testing visions. Teresa insisted on submission to spiritual directors and Church authority, even when her visions proved accurate—modeling humility over certainty.
 
 [^4]: John of the Cross. *Dark Night of the Soul* (1578-1579) and *Ascent of Mount Carmel* (1578-1583). John maps the purgative journey with precision: Dark Night of the Senses (beginners), Dark Night of the Spirit (proficients approaching union). His psychology of spiritual purification remains unmatched in Christian mysticism. Modern readers often conflate "dark night" with depression; John's framework is specifically about **purification through divine withdrawal of consolations**, not mental illness (though they can co-occur).
+
+---
+
+## Sources
+
+- Ignatius of Loyola. *The Spiritual Exercises of St. Ignatius* (1548). Rules for Discernment of Spirits (First Week and Second Week). Standard edition: Louis J. Puhl, SJ translation (1951).
+- Teresa of Avila. *The Interior Castle* (1577), Sixth Dwelling Places. Also *The Life of Teresa of Jesus* (1565), chapters 25-29 on testing visions.
+- John of the Cross. *Dark Night of the Soul* (1578-1579) and *Ascent of Mount Carmel* (1578-1583). Purgative journey and distinction between divine withdrawal and demonic desolation.
+- 1 Corinthians 12:10. Discernment of spirits as one of the nine gifts of the Holy Spirit.
+- 1 John 4:1-3. The command to test the spirits; the Incarnation test.
+- 2 Corinthians 11:14-15. Satan as angel of light; the false-light deception pattern.
+- Matthew 7:16-20. "By their fruits ye shall know them" — the fruit test for discernment.

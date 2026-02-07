@@ -361,3 +361,14 @@ Over weeks, months, years:
 **Start today. Invoke Uriel this morning. See what happens.**
 
 The Observatory is opening. The instruments are tuning. You're ready.
+
+---
+## Sources
+
+- Thomas Keating, *Open Mind, Open Heart* (1986, rev. 2006) — Centering Prayer method (sacred word, consent not effort, gentle return)
+- Cynthia Bourgeault, *The Meaning of Mary Magdalene* (2010) — Kenosis as daily practice, singleness (ihidaya), Bridal Chamber framework
+- Ra Uru Hu & Lynda Bunnell, *The Definitive Book of Human Design* (2011) — Open center conditioning mechanics, Generator Strategy, Emotional Authority wave
+- Lynda Bunnell, *Living Your Design Student Manual* — Not-Self themes for undefined centers (Head, Ajna, Throat, Heart, Root)
+- *The Gospel of Mary* — Ascent of the soul, apophatic confrontation with the Guardians
+- Pseudo-Dionysius, *The Celestial Hierarchy* — Angelic orders and the Four Quarters invocation framework
+- Dion Fortune, *The Mystical Qabalah* (1935) — Lesser Banishing Ritual of the Pentagram, directional archangel correspondences (Raphael/East, Michael/South, Gabriel/West, Uriel/North)

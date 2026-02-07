@@ -117,3 +117,12 @@ The victory of Netzach is not the suppression of desire but its **consecration**
 [^1]: Zohar — YHVH Tseva'ot as the "insignia of all His hosts, distinguished and supreme," the banner under which the celestial armies gather.
 [^2]: Sefer Yetzirah 1:1 — "Yah, the Eternal of Hosts" (*Yah YHVH Tzabaoth*) who engraved and created the world.
 [^3]: Jung, CW 6 (*Psychological Types*) — Feeling as a rational, evaluative function; CW 5 (*Symbols of Transformation*) — Eros as the psychic principle of connection and relating.
+
+---
+
+## Sources
+
+- **The Zohar** — YHVH Tseva'ot as the "insignia of all His hosts"; Netzach and Hod as the source of prophecy
+- **Sefer Yetzirah 1:1** — "Yah, the Eternal of Hosts" as the divine title opening the text; the hosts as creative energies deployed in world-making
+- **Jung, CW 6 (*Psychological Types*)** — The feeling function as parallel to Netzach's emotional-evaluative principle
+- **Jung, CW 5 (*Symbols of Transformation*)** — Eros as the psychic principle of connection and relating

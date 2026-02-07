@@ -120,3 +120,14 @@ This is the ground of intellectual humility. The Tree of Life, for all its preci
 [^7]: Zohar — Kether as "coeternal with Ein Sof," the "luster on high" arising within the Infinite.
 [^8]: Isaac Luria (1534-1572) — Doctrine of *tzimtzum* (divine contraction), developed by the Safed school and transmitted through Chaim Vital's *Etz Chaim*.
 [^9]: Jung, *Septem Sermones ad Mortuos* (1916) — "In the pleroma, nothing and everything is the same."
+
+---
+
+## Sources
+
+- **Sefer Yetzirah** — "Ten Sefirot out of nothing (*Belimah*)"; creation through engraving and carving from formlessness
+- **The Zohar** — The *botsina de-qardinuta* (spark of impenetrable darkness); *Ayin* as creative no-thingness; Kether as coeternal with Ein Sof
+- **Sefer ha-Bahir** — Primordial light existing before sun and stars; the light of Ain Soph Aur as radiance without source
+- **Robert Wang, *The Qabalistic Tarot*** — Systematization of the three veils as Ain, Ain Soph, Ain Soph Aur
+- **Isaac Luria** — *Tzimtzum* (divine contraction) creating the vacant space for creation; transmitted through Chaim Vital's *Etz Chaim*
+- **Jung, *Septem Sermones ad Mortuos*** — The *pleroma* as parallel to the undifferentiated fullness of the Three Veils

@@ -114,3 +114,12 @@ This is not mystical vagueness but epistemological precision: the most honest th
 [^2]: Sefer Yetzirah 1:1-7 — The "ten Sephiroth of Nothingness" (*belimah*), with the first path described as "Admirable or Hidden Intelligence," the light no creature can attain.
 [^3]: Wang, *The Qabalistic Tarot* — Kether as Primum Mobile, the first motion that sets all subsequent motion in operation; the dimensionless point within the circle.
 [^4]: Jung, CW 9ii (*Aion*) — The Self as "the archetype of wholeness and the regulating center of the psyche," unknowable in itself, inferred from its effects on ego-consciousness.
+
+---
+
+## Sources
+
+- **Sefer Yetzirah** — Kether as the "Admirable or Hidden Intelligence" (*Sekhel Mufla*); the first of the ten Sephiroth of Nothingness (*belimah*)
+- **The Zohar** — Kether as *Atika Kadisha* ("Holy Ancient One") and the "concealed of the concealed" (*temira de-khol temirin*); the point within the circle
+- **Robert Wang, *The Qabalistic Tarot*** — Kether as the Primum Mobile; the dimensionless point from which all motion originates
+- **Jung, CW 9ii (*Aion*)** — The Self as archetype of wholeness, unknowable in itself, inferred from its effects

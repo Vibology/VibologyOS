@@ -424,3 +424,17 @@ For those seeking a non-denominational, accessible daily practice:
 - [[Bedtime Shema]] — Jewish protective prayer invoking angelic guardianship (Raphael behind practitioner)
 - Psalms — Psalms 6, 41, 67, 102, 103 traditionally used in healing prayers
 - [[Anointing and Substituted Love]] — Sacramental use of oil as vehicle for grace (James 5:14-15 protocol)
+
+---
+
+## Sources
+
+- James 5:14-16. Foundational New Testament text for Christian healing prayer and anointing of the sick.
+- Psalms 6, 41, 67, 102, 103. Hebrew Bible psalms traditionally used in healing liturgy.
+- Book of Tobit (Deuterocanonical). Raphael as primary healing angel; teaches remedies, guides Tobias, heals Tobit's blindness.
+- Jewish liturgical tradition. *Mi Shebeirach* healing prayer; invocation of patriarchs and matriarchs for recovery.
+- Quran, Al-Isra 17:82. Verse of Healing in Islamic *Ruqyah* tradition.
+- Byrd, Randolph C. "Positive Therapeutic Effects of Intercessory Prayer in a Coronary Care Unit Population" (1988). Early intercessory prayer study.
+- Benson, Herbert et al. "Study of the Therapeutic Effects of Intercessory Prayer (STEP)" (2006). Largest intercessory prayer trial.
+- Regardie, Israel. *The Golden Dawn*. Qabalistic correspondences for Raphael and angelic healing invocation.
+- Jung, C.G. Collected Works, vol. 11 (*Psychology and Religion*). On illness as symbol, ego-Self alignment, and the unconscious as source of healing.

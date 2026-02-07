@@ -227,3 +227,9 @@ The transcendent function is not magic—it is the psyche's inherent capacity fo
 - [[Synchronicity]] — Emerges from same psychoid layer as transcendent function symbols
 - [[Numinous Experience]] — Often accompanies emergence of transcendent symbols
 - [[Definition]] — Human Design splits requiring "bridging" can be understood as seeking transcendent function (though limited for Triple/Quad Splits)
+
+## Sources
+
+- Jung, C.G. *Collected Works* Vol. 8: *The Structure and Dynamics of the Psyche* — Primary treatment of the transcendent function; thesis-antithesis-synthesis pattern; holding tension of opposites; symbol as spontaneous resolution; failure modes (repression, identification, splitting)
+- Jung, C.G. "The Transcendent Function" (1916, published 1958) — Original essay articulating the concept; response to Freud's reductive method; the psyche's autonomous synthetic capacity
+- Jung, C.G. *Memories, Dreams, Reflections* (1963) — Mandala creation during 1913-1920 confrontation with the unconscious; mandalas as symbols of the transcendent function in practice

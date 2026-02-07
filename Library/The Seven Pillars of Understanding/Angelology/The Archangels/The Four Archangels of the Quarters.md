@@ -314,3 +314,14 @@ The Observatory does not ask: *"Are the archangels real?"* It asks: *"What do th
 - [[Individuation Process]] — Quaternary balance prevents neurotic one-sidedness
 - [[Mandala]] — Fourfold symmetry as symbol of psychic wholeness
 - [[The Self]] — Center of mandala (practitioner as axis mundi)
+
+---
+
+## Sources
+
+- Regardie, Israel. *The Golden Dawn*. Canonical LBRP invocation, quarter-element-archangel attributions, and Watchtower correspondences.
+- *Heptameron* (attributed to Peter de Abano, c. 1496). Medieval variant attributions placing Michael in the East as solar prince.
+- Jewish liturgical tradition (*Bedtime Shema*). Body-centered archangelic system (Michael right, Gabriel left, Uriel front, Raphael back, Shekinah above).
+- Ezekiel 1:10 and Revelation 4. Four Living Creatures (Man, Lion, Eagle, Bull) as cherubim throne-bearers corresponding to the four archangels and fixed zodiac signs.
+- Agrippa, Heinrich Cornelius. *Three Books of Occult Philosophy* (1533). Elemental correspondences and directional angelology.
+- Jung, C.G. On the quaternity, four functions of consciousness, and the mandala as symbol of psychic wholeness.

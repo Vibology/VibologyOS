@@ -107,3 +107,12 @@ When this pillar dominates without the Pillar of Severity's counterbalance, the 
 [^2]: Zohar — Abraham as the patriarch of the right pillar, associated with Chesed, white, and water. Genesis 18 (hospitality to strangers) and Genesis 18:23-33 (pleading for Sodom) as archetypes of unlimited mercy.
 [^3]: 1 Kings 7:21 — "He set up the pillars at the vestibule of the temple; the pillar on the right he named Jachin, and the pillar on the left he named Boaz."
 [^4]: Jung, CW 7 (*Two Essays on Analytical Psychology*) — Inflation as the identification of ego with archetypal content, the "mana personality" inflated with transpersonal energy.
+
+---
+
+## Sources
+
+- **The Zohar** — Abraham as patriarch of the right pillar, associated with Chesed, white, and water; the pillar as the principle of anabolism and expansive force
+- **Robert Wang, *The Qabalistic Tarot*** — The Pillar of Mercy as the Pillar of Force, representing anabolism and creative expansion
+- **1 Kings 7:21** — Jachin ("He shall establish") as the right-hand pillar of Solomon's Temple
+- **Jung, CW 7 (*Two Essays on Analytical Psychology*)** — Inflation as the danger of unbalanced mercy; the "mana personality" as ego inflated with archetypal energy

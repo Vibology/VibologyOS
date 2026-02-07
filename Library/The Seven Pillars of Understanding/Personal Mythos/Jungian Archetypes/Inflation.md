@@ -215,3 +215,9 @@ Humility is not weakness—it is precision. The Observatory does not claim to be
 - [[Active Imagination]] — Method requiring careful boundaries to avoid inflation (practitioner is not the inner figures)
 - [[Lucifer]] — Archetypal image of inflation (angel who believed himself equal to God, leading to his fall)
 - [[The Tower (XVI)]] — Tarot card of sudden collapse following hubris and inflation
+
+## Sources
+
+- Jung, C.G. *Collected Works* Vol. 7: *Two Essays on Analytical Psychology* — Primary treatment of psychic inflation; ego identification with archetypal forces; inflation-deflation cycle; compensatory inferiority
+- Jung, C.G. *Collected Works* Vol. 9i: *The Archetypes and the Collective Unconscious* — Ego-Self boundary; mandala as image of proper ego-Self relationship; humility as remedy for inflation
+- von Franz, Marie-Louise. Lectures on inflation — "Silly inflation"; archetypal possession in spiritual communities; Great Mother identification example; boundary restoration as remedy

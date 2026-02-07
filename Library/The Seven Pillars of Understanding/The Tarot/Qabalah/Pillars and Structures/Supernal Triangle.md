@@ -125,3 +125,14 @@ The Abyss below the Supernals corresponds to the threshold between the ***person
 [^7]: Wang, *The Qabalistic Tarot* — Daath as the interface between Macrocosm and Microcosm, the "child" of Chokmah and Binah that is not counted among the ten.
 [^8]: Jung, CW 9ii (*Aion*) — The Self as "the archetype of wholeness and the regulating center of the psyche."
 [^9]: Jung, CW 12 (*Psychology and Alchemy*) — Warnings about the ego's encounter with numinous archetypal content, the risk of inflation and dissolution.
+
+---
+
+## Sources
+
+- **The Zohar** — Chokmah as the Primordial Point (*nekudah rishonah*); Binah as the Palace (*heikhal*); the river from Eden; Supernal Father (*Abba*) and Mother (*Imma*); Kether as *Attiqa Qaddisha*
+- **Sefer Yetzirah** — The foundational numerical framework of the ten Sephiroth; the Supernal Triad as the first three emanations
+- **Sefer ha-Bahir** — Early Kabbalistic imagery contributing to the Supernal dynamics
+- **Robert Wang, *The Qabalistic Tarot*** — Daath as interface between Macrocosm and Microcosm; the "child" of Chokmah and Binah
+- **Jung, CW 9ii (*Aion*)** — The Self as archetype of wholeness; Logos and Eros as complementary principles
+- **Jung, CW 12 (*Psychology and Alchemy*)** — The dangers of premature encounter with numinous archetypal content

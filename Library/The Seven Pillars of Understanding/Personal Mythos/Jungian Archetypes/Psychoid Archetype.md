@@ -245,3 +245,10 @@ The Observatory does not claim to know *how* the psychoid works (that remains my
 - [[Active Imagination]] — Method for consciously engaging psychoid layer
 - [[The Transcendent Function]] — Produces symbols from psychoid layer (neither purely conscious nor purely unconscious)
 - [[Ego-Death]] — Temporary return to unus mundus (dissolution of subject-object boundary)
+
+## Sources
+
+- Jung, C.G. *Collected Works* Vol. 8: *The Structure and Dynamics of the Psyche* — Primary development of the psychoid concept; spectrum model (spirit-psychoid-instinct); archetype *an sich*; theoretical foundation for synchronicity
+- Jung, C.G. *Collected Works* Vol. 14: *Mysterium Coniunctionis* — *Unus mundus* as alchemical concept of undifferentiated psyche-matter unity
+- Meier, C.A. (ed.). *Atom and Archetype: The Pauli/Jung Letters 1932-1958* — Jung-Pauli correspondence on quantum mechanics, consciousness, and the complementarity of psyche and matter
+- Huxley, Aldous. *The Perennial Philosophy* (1945) — Perennial philosophy framework; non-duality, macrocosm-microcosm, the One as parallels to the psychoid concept

@@ -206,3 +206,9 @@ Definition is not destiny—it is structure. The quality of your life depends no
 - [[The Shadow]] — Jungian parallel to the conditioning of bridging Gates
 - [[The Syzygy]] — Jungian parallel to the "You complete me" dynamic in Simple Splits
 - [[The Transcendent Function]] — Jungian reconciliation of opposites (insufficient for Triple/Quad Splits)
+
+## Sources
+
+- Ra Uru Hu & Lynda Bunnell, *The Definitive Book of Human Design* (2011), Sections Five & Six — Definition types, population statistics, bridging Gates, conditioning mechanics, relationship dynamics, Henry Miller example
+- Ra Uru Hu, *The Complete Rave I'Ching* — Gate-level mechanics underlying Channel and Definition formation
+- C.G. Jung, *Collected Works* — Shadow projection, Syzygy (Anima/Animus), Transcendent Function, and individuation as Jungian parallels to Definition mechanics

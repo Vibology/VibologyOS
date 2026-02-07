@@ -241,3 +241,10 @@ The collective unconscious speaks in symbols, myths, and dreams. The practitione
 - [[Astrology]] — System revealing archetypal patterns from collective field through planetary positions
 - [[The Tarot]] — Visual representation of archetypal sequence (Major Arcana as individuation map)
 - [[Human Design]] — 64 Gates as archetypal themes imprinted from collective unconscious at birth
+
+## Sources
+
+- Jung, C.G. *Collected Works* Vol. 7: *Two Essays on Analytical Psychology* — Three-layer model of the psyche (consciousness, personal unconscious, collective unconscious)
+- Jung, C.G. *Collected Works* Vol. 8: *The Structure and Dynamics of the Psyche* — Archetypes as psychic counterpart to biological instincts; "the archetype is the image of the instinct"; inherited potentials vs. stored content
+- Jung, C.G. *Collected Works* Vol. 9i: *The Archetypes and the Collective Unconscious* — Primary source for collective unconscious theory; archetype *per se* vs. archetypal image; Mithraic Liturgy case; spontaneous mandala production; relationship to Plato's Forms
+- Campbell, Joseph. *The Hero with a Thousand Faces* — Cross-cultural mythological parallels as evidence of shared archetypal substrate (Hero's Journey)

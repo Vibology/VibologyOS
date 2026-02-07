@@ -91,4 +91,12 @@ The nesting map above (which operations belong to which color) is a **Vibology s
 - [[The Fool's Journey]] — Tarot's parallel narrative of archetypal transformation
 - [[The Alchemist]] — Window archetype embodying individuated wholeness
 
+## Sources
+
+- Jung, C.G. *Collected Works* Vol. 12: *Psychology and Alchemy* — Primary framework for the four colors (Nigredo, Albedo, Citrinitas, Rubedo) and individual alchemical operations as psychological processes
+- Jung, C.G. *Collected Works* Vol. 14: *Mysterium Coniunctionis* — Extended treatment of alchemical symbolism, the *coniunctio*, and the relationship between alchemy and individuation
+- Edinger, Edward F. *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy* (1985) — Codified the seven alchemical operations as a systematic Jungian psychological model
+- Hauck, Dennis William. *The Emerald Tablet: Alchemy for Personal Transformation* (1999) — Synthesized laboratory and spiritual alchemy into the seven-step operational framework
+- von Franz, Marie-Louise. *Alchemy: An Introduction to the Symbolism and the Psychology* — Referenced individual operations without systematizing them into the seven-step sequence
+
 ---

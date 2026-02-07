@@ -281,3 +281,16 @@ The Observatory does not ask: *"Are the Seven real?"* It asks: *"What do the ins
 - [[Lesser Banishing Ritual of the Pentagram]] — Invokes four of the seven (elemental subset)
 - [[Invocation]] — General invocation protocols
 - Planetary Hours — Timing invocations by planetary rulership
+
+---
+
+## Sources
+
+- Tobit 12:15. Raphael's self-identification as one of seven holy angels who stand before God's glory.
+- Revelation 8:2-11:19. The seven angels receiving seven trumpets; apocalyptic judgment sequence.
+- 1 Enoch 20 (Book of Enoch, Ethiopian Orthodox canon). Complete enumeration of the seven with their cosmic domains.
+- Pseudo-Dionysius the Areopagite. *The Celestial Hierarchy* (5th-6th c.). Western angelological systematization influencing the seven-archangel list.
+- Davidson, Gustav. *A Dictionary of Angels* (1967). Comprehensive catalog of variant lists across Jewish, Christian, and Islamic traditions.
+- Zohar. Seven archangels as "seven eyes of the Lord" (Zechariah 4:10); correspondence with seven classical planets.
+- Regardie, Israel. *The Golden Dawn*. Seven Planetary Archangels system (Michael/Sun, Gabriel/Moon, Raphael/Mercury, Haniel/Venus, Kamael/Mars, Tzadkiel/Jupiter, Tzaphkiel/Saturn).
+- Agrippa, Heinrich Cornelius. *Three Books of Occult Philosophy* (1533). Planetary spheres and their angelic governors.

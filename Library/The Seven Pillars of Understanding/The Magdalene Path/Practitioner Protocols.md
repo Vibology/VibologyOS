@@ -588,3 +588,14 @@ Clients never see:
 - A practitioner who **sees clearly** (climbing the Boughs, not projecting their stage onto clients)
 
 **The Magdalene Path is YOUR vertical axis.** Walk it honestly. Track it rigorously. Let the fruit speak for itself.
+
+---
+## Sources
+
+- Cynthia Bourgeault, *The Meaning of Mary Magdalene* (2010) — Kenosis framework, singleness (ihidaya), Fifth Way (conscious love), Bridal Chamber, Abler Soul, A = E x K formula
+- *The Gospel of Mary* — Eight Boughs of Ascent, Guardians (wrath, ignorance, arrogance, the Deceiver), apophatic practice at each stage
+- *The Gospel of Philip* — Bridal Chamber sacrament, sacred union, "children of the light"
+- Ra Uru Hu & Lynda Bunnell, *The Definitive Book of Human Design* (2011) — Generator mechanics, Emotional Authority, 4/6 Profile three-part life, open center conditioning
+- Lynda Bunnell, *Living Your Design Student Manual* — Not-Self conditioning patterns for the five undefined centers (Head, Ajna, Throat, Heart, Root)
+- Teresa of Avila, *The Interior Castle* (1577) — Stages of prayer as parallel to Bough progression
+- John of the Cross, *Dark Night of the Soul* (1578-1579) — Purgative stages, distinction from emotional wave

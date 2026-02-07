@@ -124,3 +124,14 @@ The ten Divine Names can be understood as ten modes of the ***numinosum*** — O
 [^2]: Sefer Yetzirah 1:1 — "With thirty-two mysterious paths of Wisdom, Yah, the Eternal of Hosts, engraved and created His world."
 [^3]: Zohar — The Tetragrammaton YHVH as the structural formula of the Four Worlds: Yod (Father/Chokmah), He (Mother/Binah), Vav (Son/Tiphareth), He (Daughter/Malkuth).
 [^4]: Rudolf Otto, *The Idea of the Holy* (1917) — The *numinosum* as the experience of the "wholly other." Jung adopted the concept throughout CW 11 (*Psychology and Religion*).
+
+---
+
+## Sources
+
+- **The Zohar** — The Torah as a continuous Divine Name; the Tetragrammaton as structural formula of the Four Worlds
+- **Sefer Yetzirah** — "Thirty-two mysterious paths of Wisdom"; creation through ten Sephiroth and twenty-two letters
+- **Sefer ha-Bahir** — Early Kabbalistic source on the creative power of divine names and letters
+- **Rudolf Otto, *The Idea of the Holy*** — The *numinosum* concept adopted by Jung; the ten names as ten modes of numinous encounter
+- **Jung, CW 11 (*Psychology and Religion*)** — Otto's numinosum applied to psychological experience of the divine
+- **Golden Dawn tradition** — LBRP and Middle Pillar Exercise as practical frameworks for the vibration of divine names

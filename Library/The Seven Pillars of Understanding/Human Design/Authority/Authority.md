@@ -179,3 +179,10 @@ As you trust Authority over mind, the **Signature** of your Type emerges—Peace
 *Authority is the body's answer to the mind's endless question: "But how do I know?" The mind knows through logic, comparison, and analysis—but these tools are not designed for the irreducible particularity of your life. The body knows differently: through wave and response, instinct and will, voice and environment. To trust Authority is to recognize that you are not a mind piloting a body but a body expressing consciousness—and the body already knows how to move correctly. Your only task is to listen.*
 
 ---
+## Sources
+
+- Ra Uru Hu & Lynda Bunnell, *The Definitive Book of Human Design* (2011) — Authority hierarchy, mechanics, population statistics, and the 7-year deconditioning experiment
+- Ra Uru Hu, *The Complete Rave I'Ching* — Gate-level mechanics underlying Authority Center definitions
+- Lynda Bunnell, *Living Your Design Student Manual* — Practical guidance on Authority types and their application in daily decision-making
+
+---

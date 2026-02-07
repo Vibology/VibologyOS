@@ -142,3 +142,14 @@ The instruments in the Observatory are meant to *change the observer*. If you lo
 [^5]: Aleister Crowley, *The Vision and the Voice* (Liber 418), 10th Aethyr (ZAX) — The encounter with Choronzon in the Algerian desert, 1909.
 [^6]: Crowley — The "Black Brothers" who build a "Tower of Isolation" in the Abyss rather than dissolving through it.
 [^7]: Rudolf Otto, *The Idea of the Holy* (1917) — The *numinosum* as the experience of the "wholly other" (*mysterium tremendum et fascinans*), encountered by the ego as simultaneously terrifying and compelling. Jung adopted Otto's term throughout his work on religious experience.
+
+---
+
+## Sources
+
+- **Sefer Yetzirah** — "Ten and not nine, ten and not eleven"; the structural decree that excludes Daath from the counted Sephiroth
+- **The Zohar** — Daath as the conjunction of Chokmah and Binah; the child of the Supernal Father and Mother
+- **Robert Wang, *The Qabalistic Tarot*** — Daath as the interface between Macrocosm (Supernals) and Microcosm (lower Tree)
+- **Isaac Luria** — *Shevirat HaKelim* (Breaking of the Vessels); the Abyss as structural wound in the Tree
+- **Aleister Crowley, *The Vision and the Voice* (Liber 418)** — The 10th Aethyr (ZAX) and the encounter with Choronzon; the Black Brothers and the Tower of Isolation
+- **Rudolf Otto, *The Idea of the Holy*** — The *numinosum* as the experience of the "wholly other," adopted by Jung for his psychology of religion

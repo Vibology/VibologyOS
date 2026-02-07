@@ -553,3 +553,13 @@ What they receive is the **fruit** of your practice:
 - Archetypal wisdom
 
 The Observatory is more effective when all instruments are properly tuned. Invocation is one of those instruments. Use it well, use it privately, and let the quality of your synthesis speak for itself.
+
+---
+
+## Sources
+
+- Regardie, Israel. *The Golden Dawn*. Foundational ritual structures, Qabalistic correspondences, and archangelic invocation protocols.
+- Agrippa, Heinrich Cornelius. *Three Books of Occult Philosophy* (1533). Planetary archangel attributions, days, hours, and ceremonial framework.
+- Ignatius of Loyola. *The Spiritual Exercises* (1548). Rules for Discernment of Spirits; the three-fold test (consolation/desolation, fruits, verification).
+- Pseudo-Dionysius the Areopagite. *The Celestial Hierarchy* (5th-6th c.). Angelic orders and their functions within the hierarchical framework.
+- Davidson, Gustav. *A Dictionary of Angels* (1967). Comprehensive catalog of angelic names, offices, and correspondences.

@@ -158,3 +158,16 @@ The practitioner who understands the Shekinah does not need to *add* the sacred 
 [^6]: Zohar — Human sexual union as participation in the sacred marriage of the Holy One and the Shekinah, when sanctified by intention (*kavanah*).
 [^7]: Proverbs 8:22-31; Gnostic texts (*Pistis Sophia*, *On the Origin of the World*) — Sophia as the fallen feminine wisdom who must be retrieved; structural parallel to the exiled Shekinah.
 [^8]: Jung, CW 9i (*The Archetypes and the Collective Unconscious*) — The four stages of Anima development (Eve, Helen, Mary, Sophia); the highest Anima as mediator of the divine, corresponding to the Shekinah's function.
+
+---
+
+## Sources
+
+- **Talmud, Megillah 29a** — "Wherever Israel went into exile, the Shekinah went with them"; the foundational teaching of divine accompaniment
+- **The Zohar** — The Shekinah as feminine face of God; the Queen-Bride associated with Malkuth; the sacred marriage (*Zivvug*) of Tiphareth and Malkuth; human sexual union as participation in the divine marriage
+- **Isaac Luria, via Chaim Vital, *Etz Chaim*** — The exile of the Shekinah as cosmic consequence of the Shattering of the Vessels; Tikkun as retrieval of scattered sparks
+- **Solomon Alkabetz, *Lekha Dodi*** — The Friday evening hymn welcoming the Shekinah-as-Bride; Shabbat as weekly restoration of the sacred marriage
+- **Gershom Scholem, *Major Trends in Jewish Mysticism*** — Historical development of the Shekinah concept from Talmudic origins through Zoharic mythology
+- **Robert Wang, *The Qabalistic Tarot*** — The Shekinah's placement at Malkuth and the Tarot correspondences
+- **Proverbs 8:22-31; Gnostic texts (*Pistis Sophia*)** — Sophia as structural parallel to the exiled Shekinah
+- **Jung, CW 9i (*The Archetypes and the Collective Unconscious*)** — The four stages of Anima development; the highest Anima (Sophia) as mediator of the divine

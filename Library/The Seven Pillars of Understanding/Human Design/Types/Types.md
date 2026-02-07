@@ -122,3 +122,10 @@ Reflectors are the rarest Type—completely open, with no defined Centers. They 
 - [[Deconditioning]] — The process of returning to your true Type
 
 ---
+## Sources
+
+- Ra Uru Hu & Lynda Bunnell, *The Definitive Book of Human Design* (2011) — Four Types, aura mechanics, Strategy, Signature/Not-Self themes, population statistics
+- Lynda Bunnell, *Living Your Design Student Manual* — Type descriptions, Strategy application, and the distinction between Generator and Manifesting Generator
+- Chetan Parkyn, *Human Design: Discover the Person You Were Born to Be* (2009) — Accessible Type overviews and aura descriptions
+
+---

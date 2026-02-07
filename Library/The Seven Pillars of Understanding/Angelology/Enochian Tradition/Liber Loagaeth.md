@@ -291,3 +291,13 @@ Liber Loagaeth is the **collective unconscious made tangible**—a transmission 
 [^8]: Angelic statement "Then Commeth the End" re: Loagaeth's apocalyptic function.
 [^9]: Angelic claim Loagaeth is the Adamic language spoken before the Fall.
 [^10]: British Library Sloane MS 3189 and Cotton Appendix XLVI (fire-damaged).
+
+---
+
+## Sources
+
+- Dee, John. Original manuscripts: British Library Sloane MS 3189 and Cotton Appendix XLVI. Primary source for the 49 tables.
+- Peterson, Joseph. *John Dee's Five Books of Mystery* (2003). Scholarly edition of Dee's diaries with Loagaeth tables.
+- Laycock, Donald. *The Complete Enochian Dictionary* (1978, revised 2001). Linguistic analysis of Enochian; treats Loagaeth as largely incomprehensible.
+- James, Geoffrey. *The Enochian Evocation of Dr. John Dee* (1984). Includes partial Loagaeth tables.
+- DuQuette, Lon Milo. *Enochian Vision Magick*. Contextual analysis of Loagaeth within the broader Enochian system.

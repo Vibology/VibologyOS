@@ -115,3 +115,12 @@ The danger is the opposite: feeling so intensely that you project your own emoti
 [^3]: Dion Fortune, *The Mystical Qabalah* — All magical power originates in Netzach (emotion/desire); Hod provides only technique. Feeling is the engine; ritual is the vehicle.
 [^4]: Wang, *The Qabalistic Tarot* — The Seven of Cups (Venus in Scorpio) as Netzach's characteristic expression: desire fragmented into illusory possibilities.
 [^5]: Jung, CW 9ii (*Aion*) — Eros as the principle of relatedness and feeling; the anima/animus as mediator between ego and unconscious through emotional connection.
+
+---
+
+## Sources
+
+- **The Zohar** — Netzach and Hod as the two supports of Tiphareth; YHVH Tzabaoth and the hosts as the forces of nature, beauty, and desire
+- **Robert Wang, *The Qabalistic Tarot*** — Netzach's Venus as the vital force of nature; the Seven of Cups as Netzach's characteristic expression
+- **Dion Fortune, *The Mystical Qabalah*** — All magical power originating in Netzach (emotion/desire); feeling as the engine of magical practice
+- **Jung, CW 9ii (*Aion*)** — Eros as the principle of relatedness; the anima/animus as mediator between ego and unconscious

@@ -117,3 +117,13 @@ The danger is mistaking the flash for the finished work. Chokmah without Binah i
 [^4]: Sefer ha-Bahir — Wisdom as an inexhaustible spring, the Father's nature as boundless giving.
 [^5]: Wang, *The Qabalistic Tarot* — Chokmah's attribution to the entire Zodiac as undifferentiated vital force, the "Great Stimulator."
 [^6]: Jung, CW 9ii (*Aion*) — The Logos principle as the masculine capacity to discriminate, order, and make meaning; complementary to Eros.
+
+---
+
+## Sources
+
+- **Sefer Yetzirah** — Chokmah as the "Illuminating Intelligence" (*Sekhel Mazchir*); the "depth of beginning"
+- **The Zohar** — Chokmah as *Abba* (Father); the Primordial Point; *be-reshit* ("with Wisdom He created")
+- **Sefer ha-Bahir** — Wisdom as an inexhaustible spring; the Father's nature as boundless giving
+- **Robert Wang, *The Qabalistic Tarot*** — Chokmah's attribution to the entire Zodiac as undifferentiated vital force
+- **Jung, CW 9ii (*Aion*)** — The Logos principle as the masculine capacity to discriminate, order, and make meaning

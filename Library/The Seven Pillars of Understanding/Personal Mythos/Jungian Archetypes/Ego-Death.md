@@ -233,3 +233,11 @@ The practitioner who has integrated ego-death no longer clings to the ego (infla
 - [[Numinous Experience]] — Often accompanies or triggers ego-death
 - [[Active Imagination]] — Method requiring functional ego to engage unconscious (too much dissolution prevents practice)
 - [[The Shadow]] — Must be confronted before ego-death; premature dissolution without shadow work leads to psychosis or inflation
+
+## Sources
+
+- Jung, C.G. *Collected Works* Vol. 9i: *The Archetypes and the Collective Unconscious* — Ego dissolution as *abaissement du niveau mental*; dangers of ego annihilation; psychosis risk; ego-Self relationship
+- Jung, C.G. *Collected Works* Vol. 12: *Psychology and Alchemy* — Alchemical *mortificatio*/Nigredo as symbolic ego-death; Dark Night as confrontation with the abyss; Albedo/Rubedo as rebirth sequence
+- Freud, Sigmund. *Civilization and Its Discontents* (1930) — "Oceanic feeling" as ego-boundary dissolution; interpretation as regression to infantile narcissism
+- St. John of the Cross. *Dark Night of the Soul* — Mystical tradition of spiritual desolation following ego-dissolution
+- Buddhist canonical sources — *Anatta* (no-self) doctrine; five aggregates (*skandhas*); cessation (*nirodha*) as dissolution of separate selfhood

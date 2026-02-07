@@ -163,3 +163,14 @@ This is shadow work at its most precise: not "embrace your anger" but "your ange
 [^3]: Book of Tobit 3:8 — Asmodeus as the demon who kills Sarah's seven husbands; the Persian *Aeshma Daeva* ("demon of fury") as the traditional prince of Golachab.
 [^4]: Jung, CW 9ii (*Aion*) — The Shadow as containing genuine qualities in distorted form; integration requiring the retrieval of the quality from within the distortion.
 [^5]: Dion Fortune — The Chesed-Geburah axis as the fundamental balance of mercy and severity on the Tree; their mutual dependence and the pathologies of their separation.
+
+---
+
+## Sources
+
+- **The Zohar** — Geburah as the root of all evil when separated from Chesed; the Qlippothic shells as born from the unbalanced left side
+- **Robert Wang, *The Qabalistic Tarot*** — The Qlippoth of Geburah as severity disconnected from purpose; Mars energy as destructive rather than corrective
+- **Dion Fortune, *The Mystical Qabalah*** — Geburah as the immune system of the Tree; the Chesed-Geburah axis and the pathologies of their separation
+- **Book of Tobit** — Asmodeus as the demonic prince of Golachab; the Persian *Aeshma Daeva* tradition
+- **Isaac Luria** — The Tikkun (Repair) principle applied to Qlippothic retrieval of trapped sparks
+- **Jung, CW 9ii (*Aion*)** — The Shadow as containing genuine qualities in distorted form; integration requiring retrieval of quality from within distortion

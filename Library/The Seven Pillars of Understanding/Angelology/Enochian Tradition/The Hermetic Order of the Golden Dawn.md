@@ -366,3 +366,14 @@ The Golden Dawn is the **institutionalization of individuation**—a structured 
 [^14]: The 1900-1903 schism: Crowley affair, Mathers vs. London, Westcott scandal.
 [^15]: Golden Dawn influence on Wicca, Tarot, ceremonial magic, psychological occultism.
 [^16]: Rider-Waite Tarot (1909) as Golden Dawn-derived mass-market deck.
+
+---
+
+## Sources
+
+- Regardie, Israel. *The Golden Dawn* (1937-40). Complete published rituals of the Hermetic Order, including LBRP, grade ceremonies, and Enochian material.
+- Howe, Ellic. *The Magicians of the Golden Dawn* (1972). Historical account of the order's founding, members, and schism.
+- Gilbert, R.A. *The Golden Dawn: Twilight of the Magicians* (1983). Scholarly history of the order and its successor organizations.
+- King, Francis. *Ritual Magic in England* (1970). Contextualizes the Golden Dawn within English occult tradition.
+- Fortune, Dion. *The Mystical Qabalah* (1935). Key Golden Dawn-derived work on Qabalistic theory and psychological occultism.
+- DuQuette, Lon Milo. *Enochian Vision Magick*. Analysis of Golden Dawn systematization of Dee's Enochian materials.

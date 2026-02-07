@@ -53,3 +53,7 @@ Before diving into any pillar, these five entries establish the framework:
 
 *"The Algorithm maps the territory. The Anima walks the path."*
 
+---
+## Sources
+
+*This file serves as a navigation index and does not draw from primary sources.*

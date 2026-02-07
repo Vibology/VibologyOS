@@ -117,3 +117,12 @@ The danger is confusing the image with the insight — taking the dream literall
 [^4]: Dion Fortune, *The Mystical Qabalah* — Yesod as the "machinery of the unconscious mind," the hidden mechanism transmitting upper-Tree patterns into daily life; the most deceptive Sephirah.
 [^5]: Wang, *The Qabalistic Tarot* — The Nine of Cups and Nine of Swords as the bright and dark faces of Yesod: fulfilled desire and nocturnal anguish, both operating through astral imagery.
 [^6]: Jung, CW 7 (*Two Essays on Analytical Psychology*) — The personal unconscious as the layer of complexes, repressed material, and dream-images between ego-consciousness and the collective unconscious.
+
+---
+
+## Sources
+
+- **The Zohar** — Yesod as the *Tzaddik* ("Righteous One"), the Foundation of the World (Proverbs 10:25); the Covenant (*Brit*) as sacred link between upper and lower Trees
+- **Robert Wang, *The Qabalistic Tarot*** — Yesod as the Astral Light of Eliphas Levi; the Nine of Cups and Nine of Swords as bright and dark faces of Yesod
+- **Dion Fortune, *The Mystical Qabalah*** — Yesod as the "machinery of the unconscious mind"; the most deceptive Sephirah requiring discernment
+- **Jung, CW 7 (*Two Essays on Analytical Psychology*)** — The personal unconscious as the layer of complexes and dream-images between ego and collective unconscious

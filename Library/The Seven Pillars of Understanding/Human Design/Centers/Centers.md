@@ -120,3 +120,10 @@ The wisdom of Human Design lies in recognizing that undefined Centers are not we
 - [[Channels]] — Connections between Centers
 
 ---
+## Sources
+
+- Ra Uru Hu & Lynda Bunnell, *The Definitive Book of Human Design* (2011) — Nine Center system, biological correlations, defined vs. undefined mechanics
+- Ra Uru Hu, *The Complete Rave I'Ching* — Gate placements within each Center
+- Lynda Bunnell, *Living Your Design Student Manual* — Center themes, Not-Self conditioning patterns, and the "schools of wisdom" framework for undefined Centers
+
+---

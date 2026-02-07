@@ -279,3 +279,14 @@ Sleep is not unconsciousness—it is **deep consciousness**, where the instrumen
 - [[The Shadow]] — Nocturnal dangers as shadow material; archangels prevent overwhelming
 - [[Lucifer]] / [[Lilith]] — Night demons warded by Bedtime Shema
 - [[Active Imagination]] — Dream work enhanced by pre-sleep angelic invocation
+
+---
+
+## Sources
+
+- Talmud, Tractate *Berakhot* 60b. Blessings for transitional moments; sleep as one-sixtieth of death.
+- Deuteronomy 6:4. The Shema as central declaration of Jewish faith.
+- Psalm 91. The psalm of protection, traditionally recited as part of the Bedtime Shema.
+- Zohar and medieval Kabbalistic literature. Nocturnal dangers, Lilith as night demon, four archangels as guardians, Shekinah as protective canopy.
+- Jewish liturgical tradition (*Siddur*). Standard text of the *Kriat Shema al HaMitah* including angelic invocation and confession.
+- Jung, C.G. On the psychoid layer and ego-dissolution during sleep. Psychological interpretation of the protective function.

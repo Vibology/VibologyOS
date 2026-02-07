@@ -719,3 +719,15 @@ Across all Christian mystical traditions, contemplative prayer follows a **three
 [^5]: John of the Cross. *Dark Night of the Soul* (1578–1579). John distinguishes the Dark Night of the Senses (Book I) from the Dark Night of the Spirit (Book II). The "loving advertence to God" quote is from *Dark Night*, Book II, Chapter 13. Standard edition: *The Collected Works of St. John of the Cross* (trans. Kieran Kavanaugh and Otilio Rodriguez, 1991).
 
 [^6]: Thomas Keating. *Open Mind, Open Heart: The Contemplative Dimension of the Gospel* (1986, revised 2006). This is the foundational Centering Prayer text. Keating and Pennington developed the method in the 1970s at St. Joseph's Abbey (Spencer, MA) based on *The Cloud of Unknowing* and John of the Cross. Contemplative Outreach (founded 1984) teaches Centering Prayer globally.
+
+## Sources
+
+- Benedicta Ward (trans.), *The Sayings of the Desert Fathers: The Alphabetical Collection* (1975) — Desert Fathers and Mothers teachings, monologic prayer origins
+- Laura Swan, *The Forgotten Desert Mothers* (2001) — Recovery of the Ammas' contemplative teachings
+- John Cassian, *Conferences* (c. 420 CE) — Abba Isaac on purity of heart and the foundations of contemplative prayer
+- Anonymous, *The Cloud of Unknowing* (c. 1370; trans. Carmen Acevedo Butcher, 2009) — Apophatic mysticism, the sacred word method
+- Teresa of Avila, *The Interior Castle* (1577; trans. Kieran Kavanaugh & Otilio Rodriguez, 1980) — Seven mansions, Prayer of Quiet, stages of infused contemplation
+- John of the Cross, *Dark Night of the Soul* (1578-1579; trans. Kavanaugh & Rodriguez, 1991) — Purgative stages, Dark Night of the Senses and Spirit
+- Thomas Keating, *Open Mind, Open Heart* (1986, rev. 2006) — Centering Prayer method and modern contemplative recovery
+- *The Philokalia* — Hesychast tradition, stages of the Jesus Prayer, prayer of the heart
+- Cynthia Bourgeault, *The Meaning of Mary Magdalene* (2010) — Non-dual Christianity, kenosis framework, Magdalene Path integration

@@ -136,3 +136,14 @@ The **Transcendent Function** — Jung's term for the psyche's capacity to hold 
 [^3]: Israel Regardie, *The Middle Pillar* (1938) — Systematized the exercise for modern practitioners, drawing on Golden Dawn oral tradition and Qabalistic correspondences.
 [^4]: The Qabalah-chakra correspondence is a modern synthesis (primarily Regardie, Dion Fortune). Traditional Kabbalists and Hindu/Buddhist practitioners did not map these systems onto each other; the parallel is structural, not historical.
 [^5]: Jung, CW 8 (*The Structure and Dynamics of the Psyche*) — The Transcendent Function as the psyche's self-regulating capacity to produce a "third" from the tension of opposites.
+
+---
+
+## Sources
+
+- **The Zohar** — Jacob as patriarch of the Middle Pillar, associated with Tiphareth and Truth (*Emet*); the harmonization of Abraham's Chesed and Isaac's Gevurah
+- **Sefer Yetzirah** — The ten Sephiroth as the structural basis for the pillar system
+- **Israel Regardie, *The Middle Pillar*** — Systematization of the Middle Pillar Exercise from Golden Dawn oral tradition; Qabalah-chakra correspondences
+- **Dion Fortune, *The Mystical Qabalah*** — The structural parallel between the Qabalistic Middle Pillar and the Hindu chakra system
+- **Golden Dawn tradition** — The "Path of the Arrow" as the direct Middle Pillar ascent from Malkuth to Kether
+- **Jung, CW 8 (*The Structure and Dynamics of the Psyche*)** — The Transcendent Function as parallel to the Middle Pillar's balancing principle

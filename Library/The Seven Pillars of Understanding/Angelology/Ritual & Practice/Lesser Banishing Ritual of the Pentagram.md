@@ -289,3 +289,12 @@ Ritual is not superstition—it is technology. The LBRP is the **on switch** for
 - [[Kether]] — Sephira of crown/source, top point in Qabalistic Cross
 - [[The Hermetic Order of the Golden Dawn]] — Origin of the LBRP in late 19th century
 - [[Psychoid Archetype]] — Theoretical framework explaining how ritual affects reality
+
+---
+
+## Sources
+
+- Regardie, Israel. *The Golden Dawn* (1937-40). Standard published LBRP protocol, Qabalistic Cross, pentagram formulations, and archangel invocation.
+- Crowley, Aleister. *Liber O vel Manus et Sagittae* (Liber O). Thelemic variation of the LBRP and pentagram rituals.
+- Hermetic Order of the Golden Dawn. Original ritual papers (Outer Order curriculum). Foundational source for the LBRP as daily practice.
+- Jung, C.G. On the four functions of consciousness and the mandala as symbol of wholeness. Psychological interpretation of the quaternary ritual structure.
