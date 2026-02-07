@@ -134,7 +134,47 @@ The Qabalah is formally housed within the Tarot pillar because the two systems a
 
 ## Cross-References
 
-*See related entries within this pillar.*
+### Core Qabalah Entries
+- [[The Tree of Life]] — The central glyph and map of emanation
+- [[Sephiroth]] — The ten divine emanations (overview)
+- [[Divine Names]] — The names of God at each Sephirah
+- [[Four Worlds]] — Atziluth, Briah, Yetzirah, Assiah
+
+### The Ten Sephiroth
+- [[Kether]] — Crown, the first emanation
+- [[Chokmah]] — Wisdom, the supernal father
+- [[Binah]] — Understanding, the supernal mother
+- [[Chesed]] — Mercy, loving expansion
+- [[Geburah]] — Severity, strength and restriction
+- [[Tiphareth]] — Beauty, the solar heart
+- [[Netzach]] — Victory, desire and emotion
+- [[Hod]] — Splendor, intellect and form
+- [[Yesod]] — Foundation, the astral mirror
+- [[Malkuth]] — Kingdom, the material world
+
+### Structure and Paths
+- [[Pillar of Mercy]] — Right pillar, expansion
+- [[Pillar of Severity]] — Left pillar, restriction
+- [[Middle Pillar]] — Central pillar, balance and ascent
+- [[Supernal Triangle]] — Kether-Chokmah-Binah
+- [[The Abyss]] — The gulf between supernal and lower
+- [[Daath]] — The non-Sephirah, hidden knowledge
+
+### Shadow System
+- [[Qlippoth]] — The shells, shadow side of the Tree
+- [[The Shadow]] — Jungian shadow as Qlippothic encounter
+
+### Specialized Concepts
+- [[Ain Soph Aur]] — The limitless light beyond Kether
+- [[Merkabah Mysticism]] — Throne chariot mysticism
+- [[Shekinah]] — The feminine presence of God
+
+### Cross-Pillar Connections
+- [[Angelology]] — Archangels and orders for each Sephirah
+- [[Astrology]] — Planetary and zodiacal correspondences
+- [[The Tarot]] — Major Arcana as the 22 Paths
+- [[Personal Mythos]] — Individuation as Tree ascent
+- [[The Magdalene Path]] — Middle Pillar contemplative practice
 
 ---
 
