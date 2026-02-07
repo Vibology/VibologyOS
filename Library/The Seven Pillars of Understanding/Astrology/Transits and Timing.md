@@ -16,7 +16,7 @@ verification_notes: "Overview file on transits and timing techniques. Content is
 
 **Transits** are the real-time movement of planets through the zodiac, creating angular relationships (aspects) to natal positions. Where the natal chart is the **blueprint**, transits are the **weather**—the conditioning field that activates, tests, or reveals latent potentials.
 
-In [[Human Design]], transits are described as "local programming agents"[^1]: they carry information via the neutrino stream, temporarily activating gates and centers in the BodyGraph. Transits do not *cause* events—they **reveal** what is already present, waiting for the right conditions to emerge.
+In [[Human Design]], transits are described as "local programming agents"[^1]—they carry information via the neutrino stream, temporarily activating gates and centers in the BodyGraph. Transits do not *cause* events—they **reveal** what is already present, waiting for the right conditions to emerge.
 
 ## Cross-References
 
@@ -25,7 +25,7 @@ In [[Human Design]], transits are described as "local programming agents"[^1]: t
 - [[Natal Chart]] — The birth chart that transits activate
 - [[Human Design]] — Neutrino weather, planetary conditioning
 - [[The Shadow]] — Challenging transits surface shadow material
-- [[Individuation Process]] — Transits as timing for psychological work
+- [[Individuation Process]] — Transits as timing for psychological work[^2]
 
 ---
 

@@ -18,7 +18,7 @@ verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, The Devil signifies *ravage, violence, vehemence, extraordinary efforts, force, and fatality; that which is predestined but not necessarily evil*. This is a crucial distinction: The Devil is not **evil** but **ignorance**—the misperception that matter is prison rather than vehicle.
+According to Waite's *Pictorial Key to the Tarot*, The Devil signifies *ravage, violence, vehemence, extraordinary efforts, force, and fatality; that which is predestined but not necessarily evil*.[^1] This is a crucial distinction: The Devil is not **evil** but **ignorance**—the misperception that matter is prison rather than vehicle.
 
 The Golden Dawn titles this card "The Lord of the Gates of Matter" and "The Child of the Forces of Time." The Devil is the guardian of the threshold, the gatekeeper who stands at the boundary between the material and the spiritual. He represents **material temptation, obsession, and the bondage to form**. He is described as a "stabilizing extreme" on the Tree of Life—the counterbalance to the heights of spiritual aspiration.
 
@@ -26,7 +26,7 @@ In divinatory practice, The Devil appears when **attachment has become compulsio
 
 **Context shapes interpretation**: In spiritual questions, The Devil indicates identification with the material self, the forgetting that "you are not the body." In material questions, it signals addiction, compulsion, toxic attachment, or the ruthless pursuit of ambition at the cost of soul. The Devil is the CEO who sacrifices family for empire, the addict who chooses the substance over life, the lover who mistakes possession for love.
 
-**Reversed**, Waite identifies The Devil with *evil fatality, weakness, pettiness, blindness*—the reversed card intensifies the shadow aspects. It is not liberation but *deepening delusion*: the inability to see that you are enslaved, or the petty tyrannies of the small-minded ego. The reversed Devil is the person who insists "I can stop anytime" while tightening their own chains.
+**Reversed**, Waite identifies The Devil with *evil fatality, weakness, pettiness, blindness*—the reversed card intensifies the shadow aspects.[^1] It is not liberation but *deepening delusion*: the inability to see that you are enslaved, or the petty tyrannies of the small-minded ego. The reversed Devil is the person who insists "I can stop anytime" while tightening their own chains.
 
 The core teaching: **What you resist, persists. What you integrate, liberates.** The Devil is not conquered by denial but by recognition: *Ah. This is my shadow. This is what I have disowned. Now I can choose.*
 

@@ -13,7 +13,7 @@ category: Index
 
 ## Overview
 
-**Profile** is the costume you wear in this life—the archetypal role you play in the drama of existence. Determined by the lines of your Personality Sun/Earth (conscious) and Design Sun/Earth (unconscious), Profile describes *how* you are designed to interact with the world and fulfill your purpose.
+**Profile** is the costume you wear in this life—the archetypal role you play in the drama of existence.[^1] Determined by the lines of your Personality Sun/Earth (conscious) and Design Sun/Earth (unconscious), Profile describes *how* you are designed to interact with the world and fulfill your purpose.
 
 There are **12 Profiles** formed from combinations of the six lines:
 

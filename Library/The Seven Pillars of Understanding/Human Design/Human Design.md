@@ -23,7 +23,7 @@ The system operates on a singular premise: **the mind is not your decision-maker
 ---
 ## Origins: The Revelation
 
-Human Design emerged in 1987 through **Ra Uru Hu** (born Robert Alan Krakower), who reported a sustained mystical experience on the island of Ibiza. Over eight days and nights, he received what he described as "The Voice"—a transmission that dictated the mechanical structure of human consciousness.
+Human Design emerged in 1987 through **Ra Uru Hu** (born Robert Alan Krakower), who reported a sustained mystical experience on the island of Ibiza.[^1] Over eight days and nights, he received what he described as "The Voice"—a transmission that dictated the mechanical structure of human consciousness.
 
 The Voice did not speak in poetic metaphor or spiritual platitude. It spoke in **mechanics**: neutrino streams, genetic gates, planetary activations, energy centers. The transmission synthesized four ancient knowledge streams:
 1. **The I-Ching** (64 hexagrams → 64 Gates)
@@ -42,12 +42,12 @@ Human Design operates through seven interrelated mechanical layers:
 
 ### 1. The Four Types
 
-The **Type** is determined by the configuration of defined Centers, specifically the presence or absence of the [[Sacral]] and motor-to-[[Throat]] connections. Type reveals *how* you are designed to engage with life:
+The **Type** is determined by the configuration of defined Centers, specifically the presence or absence of the [[Sacral]] and motor-to-[[Throat]] connections.[^1] Type reveals *how* you are designed to engage with life:
 
 - **[[Manifestor]]** (~9%) — Motor to Throat, no Sacral. Designed to **initiate**. Strategy: To Inform.
 - **[[Generator]]** (~70% total: 37% Pure, 33% Manifesting) — Defined Sacral. Designed to **respond** and sustain. Strategy: To Wait to Respond.
 - **[[Projector]]** (~21%) — Undefined Sacral, no motor-to-Throat. Designed to **guide** energy. Strategy: To Wait for the Invitation.
-- **[[Reflector]]** (~1%) — No defined Centers. Designed to **mirror** and evaluate. Strategy: To Wait a Full Lunar Cycle (28 days).
+- **[[Reflector]]** (~1%) — No defined Centers. Designed to **mirror** and evaluate. Strategy: To Wait a Full Lunar Cycle (28 days).[^1]
 
 Type is not identity—it is mechanical function. The Generator is not "better" than the Projector; they are differently configured vehicles designed for complementary roles.
 

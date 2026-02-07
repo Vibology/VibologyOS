@@ -18,7 +18,7 @@ verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, The Tower signifies *misery, distress, indigence, adversity, calamity, disgrace, desolation, and ruin*. This is specifically the card of **unforeseen catastrophe**—the lightning strike that comes without warning, the sudden collapse of what seemed solid.
+According to Waite's *Pictorial Key to the Tarot*, The Tower signifies *misery, distress, indigence, adversity, calamity, disgrace, desolation, and ruin*.[^1] This is specifically the card of **unforeseen catastrophe**—the lightning strike that comes without warning, the sudden collapse of what seemed solid.
 
 The Golden Dawn titles this card "The Lord of the Hosts of the Mighty" and **"The House of God"** (*Migdal Elohim* in Hebrew). This is a paradoxical title for a card depicting destruction—but it points to the card's deeper meaning: **the destruction is divine**. The Tower is called the "House of God" because it is God's lightning that strikes, God's will that shatters the false structure. The destruction is not random chaos but **sacred demolition**—the clearing away of what was built on illusion so that truth can be established.
 
@@ -26,7 +26,7 @@ In divinatory practice, The Tower appears when **collapse is imminent—and nece
 
 **Context profoundly shapes meaning**: In spiritual questions, The Tower represents ego-death, the breaking of identification with the persona, the moment when "who you thought you were" is revealed as construct. In material questions, it signals bankruptcy, divorce, job loss, the demolition of external structures. But always, the Tower's destruction is **liberation disguised as catastrophe**.
 
-**Reversed**, Waite identifies The Tower with *the same adversity in a lesser degree*, along with *oppression, imprisonment, and tyranny*. The reversed Tower suggests that the structure has not yet fallen but *should*—or that the destruction is being resisted, prolonging suffering. It can also indicate petty tyrannies, small-scale oppressions, the prison that has become normalized.
+**Reversed**, Waite identifies The Tower with *the same adversity in a lesser degree*, along with *oppression, imprisonment, and tyranny*.[^1] The reversed Tower suggests that the structure has not yet fallen but *should*—or that the destruction is being resisted, prolonging suffering. It can also indicate petty tyrannies, small-scale oppressions, the prison that has become normalized.
 
 The core teaching: **The Tower does not destroy what is true. She destroys what is false—and what is false always falls.**
 

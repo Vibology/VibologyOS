@@ -18,7 +18,7 @@ verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, The Hanged Man signifies *wisdom, circumspection, discernment, trials, sacrifice, intuition, divination, and prophecy*. This is not the willing sacrifice of the mystic but the **enforced suspension**—a state imposed upon the soul when forward motion must cease entirely.
+According to Waite's *Pictorial Key to the Tarot*, The Hanged Man signifies *wisdom, circumspection, discernment, trials, sacrifice, intuition, divination, and prophecy*.[^1] This is not the willing sacrifice of the mystic but the **enforced suspension**—a state imposed upon the soul when forward motion must cease entirely.
 
 The Golden Dawn titles this card "The Spirit of the Mighty Waters," pointing to the baptismal ordeal: immersion in universal consciousness through the dissolution of ego-control. This is not drowning but **initiation by surrender**—the recognition that some thresholds cannot be crossed by will alone.
 
@@ -26,7 +26,7 @@ In divinatory practice, The Hanged Man appears when *struggling makes the situat
 
 **Context matters profoundly**: In spiritual questions, The Hanged Man heralds mystical awakening through ordeal (the "dark night" that precedes illumination). In material questions, it signals delay, suspension of plans, or the necessity of releasing control over outcomes. The card does not promise comfort—it promises *transformation through immobilization*.
 
-**Reversed**, Waite identifies *selfishness* and preoccupation with the "body politic"—the profane rather than sacred dimension of sacrifice. The reversed Hanged Man is stuckness without meaning: suspension that produces only bitterness rather than revelation. It is martyrdom as identity, suffering weaponized as currency, or passive-aggressive withdrawal disguised as surrender.
+**Reversed**, Waite identifies *selfishness* and preoccupation with the "body politic"—the profane rather than sacred dimension of sacrifice.[^1] The reversed Hanged Man is stuckness without meaning: suspension that produces only bitterness rather than revelation. It is martyrdom as identity, suffering weaponized as currency, or passive-aggressive withdrawal disguised as surrender.
 
 The core gift of The Hanged Man is this: **what cannot be reached by climbing must be found by hanging**. The inverted perspective reveals what the upright world cannot see.
 

@@ -18,7 +18,7 @@ verification_notes: "Individual verification complete. Core mechanics (Line 4, L
 
 ## The Costume of Purpose
 
-The **4/1 Opportunist Investigator** is the **fixed fate** archetype—the "train on a track" whose life trajectory is **rigid and unchangeable**. They are influential experts who communicate specific foundational knowledge through a loyal network.
+The **4/1 Opportunist Investigator** is the **fixed fate** archetype—the "train on a track" whose life trajectory is **rigid and unchangeable**.[^1] They are influential experts who communicate specific foundational knowledge through a loyal network.
 
 This is the **Juxtaposition Profile**, the only fixed-fate profile. It acts as a bridge between personal (Right Angle) and trans-personal (Left Angle) destinies.
 

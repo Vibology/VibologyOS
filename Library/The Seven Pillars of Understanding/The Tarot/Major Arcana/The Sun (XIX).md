@@ -18,7 +18,7 @@ verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, The Sun signifies *material happiness, fortunate marriage, and contentment*. This is the card of **success, clarity, and uncomplicated joy**—the moment when the darkness lifts, when confusion gives way to certainty, when struggle yields to victory.
+According to Waite's *Pictorial Key to the Tarot*, The Sun signifies *material happiness, fortunate marriage, and contentment*.[^1] This is the card of **success, clarity, and uncomplicated joy**—the moment when the darkness lifts, when confusion gives way to certainty, when struggle yields to victory.
 
 The Golden Dawn titles this card "The Lord of the Fire of the World." The Sun is the **Splendor of the Material World**, the highest level of human intellect, the consciousness that has passed through all ordeals and emerges radiant, clarified, whole. The Sun represents **direct illumination**—not reflected light (like The Moon) but the original source, the light that shines from within.
 
@@ -26,7 +26,7 @@ In divinatory practice, The Sun appears when **the ordeal is complete**. She sig
 
 **Context profoundly shapes meaning**: In spiritual questions, The Sun represents the integration of the Self, the union of opposites, the recognition that spirit and matter are not opposed. In material questions, it signals success, happiness, fortunate outcomes, the blessing of circumstances aligning. The Sun is the "yes"—unambiguous, uncomplicated, radiant.
 
-**Reversed**, Waite identifies The Sun with *the same blessings in a lesser degree*. The reversed Sun is not disaster but *diminishment*: joy with a shadow, success with a caveat, light obscured by clouds. It can also indicate **solar inflation**—identifying so completely with the light that the shadow is denied, using radiance as a weapon, the narcissism of the enlightened ego.
+**Reversed**, Waite identifies The Sun with *the same blessings in a lesser degree*.[^1] The reversed Sun is not disaster but *diminishment*: joy with a shadow, success with a caveat, light obscured by clouds. It can also indicate **solar inflation**—identifying so completely with the light that the shadow is denied, using radiance as a weapon, the narcissism of the enlightened ego.
 
 The core teaching: **The Sun does not earn its light. It is light—and in being light, it gives permission for all else to shine.**
 

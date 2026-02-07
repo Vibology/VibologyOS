@@ -18,7 +18,7 @@ verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, The World signifies *assured success, recompense, voyage, route, emigration, flight, and change of place*. This is the card of **completion, fulfillment, and cosmic synthesis**—the moment when the journey ends and the soul arrives at wholeness.
+According to Waite's *Pictorial Key to the Tarot*, The World signifies *assured success, recompense, voyage, route, emigration, flight, and change of place*.[^1] This is the card of **completion, fulfillment, and cosmic synthesis**—the moment when the journey ends and the soul arrives at wholeness.
 
 The Golden Dawn titles this card "The Great One of the Night of Time." The World is the **synthesis of all matter**, the **Kingdom itself** (Malkuth) in its perfected form. The "Night of Time" refers to the primordial darkness before creation, the original potential from which all forms emerge—and to which all forms return. The World is the moment when the cosmos, having completed its cycle, returns to the Night of its origin, carrying all that was learned, all that was integrated, all that was made conscious.
 
@@ -26,7 +26,7 @@ In divinatory practice, The World appears when **a cycle completes**. She signal
 
 **Context profoundly shapes meaning**: In spiritual questions, The World represents the culmination of individuation, the integration of the Self, the recognition of one's place in the cosmic order. In material questions, it signals success, travel, completion of projects, favorable outcomes, the sense that everything has come together. The World is the "yes"—the cosmic affirmation, the recognition that you have done what you came to do.
 
-**Reversed**, Waite identifies The World with *inertia, fixity, stagnation, and permanence*. The reversed World is **completion that becomes trap**—the refusal to move beyond the achievement, the clinging to the accomplished state, the fear of the next cycle. It can also indicate incompletion masquerading as completion, success that feels hollow, the arrival that does not satisfy.
+**Reversed**, Waite identifies The World with *inertia, fixity, stagnation, and permanence*.[^1] The reversed World is **completion that becomes trap**—the refusal to move beyond the achievement, the clinging to the accomplished state, the fear of the next cycle. It can also indicate incompletion masquerading as completion, success that feels hollow, the arrival that does not satisfy.
 
 The core teaching: **The World is not the destination. It is the pause before the next leap—the breath before The Fool steps off the cliff once more.**
 

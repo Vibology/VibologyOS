@@ -18,7 +18,7 @@ verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, The Moon signifies *hidden enemies, danger, calumny, darkness, terror, deception, occult forces, and error*. This is the card of **illusion, confusion, and the treachery of appearances**—the moment when you cannot trust your perception, when the path ahead is shrouded in fog, when the familiar becomes strange.
+According to Waite's *Pictorial Key to the Tarot*, The Moon signifies *hidden enemies, danger, calumny, darkness, terror, deception, occult forces, and error*.[^1] This is the card of **illusion, confusion, and the treachery of appearances**—the moment when you cannot trust your perception, when the path ahead is shrouded in fog, when the familiar becomes strange.
 
 The Golden Dawn titles this card "The Ruler of Flux and Reflux" and "The Child of the Sons of the Mighty." The Moon governs the **tides of consciousness**, the ebb and flow of the Astral Light, the shifting cycles that underlie the material world. She is the ruler of *change*, of instability, of the constant fluctuation between poles. The Moon is **watery, mutable, deceptive**—her light is borrowed (reflected from the Sun), her shapes constantly shift (waxing and waning), her influence is indirect (pulling the tides, disturbing dreams, stirring the unconscious).
 
@@ -26,7 +26,7 @@ In divinatory practice, The Moon appears when **you are in the fog**. She signal
 
 **Context profoundly shapes meaning**: In spiritual questions, The Moon represents the "Dark Night of the Soul," the descent into the unconscious, the confrontation with the personal and collective Shadow. In material questions, it signals deception, confusion, unclear situations, the need to wait for more information. The Moon is not a card of action but of **patience and discernment**.
 
-**Reversed**, Waite identifies The Moon with *instability, inconstancy, silence, and lesser degrees of deception or error*. The reversed Moon suggests that the worst of the confusion is passing, that clarity is beginning to emerge—or conversely, that the person has *given up trying to see clearly* and has resigned themselves to the fog.
+**Reversed**, Waite identifies The Moon with *instability, inconstancy, silence, and lesser degrees of deception or error*.[^1] The reversed Moon suggests that the worst of the confusion is passing, that clarity is beginning to emerge—or conversely, that the person has *given up trying to see clearly* and has resigned themselves to the fog.
 
 The core teaching: **The Moon does not create illusion. She reveals the illusions you already carry—and forces you to walk through them.**
 

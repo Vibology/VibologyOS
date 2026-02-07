@@ -18,15 +18,15 @@ verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 
 ## Traditional Symbolism
 
-According to Waite's *Pictorial Key to the Tarot*, Death signifies *end, mortality, destruction, and corruption*. In practical divination, it denotes "for a man, the loss of a benefactor; for a woman, many contrarieties; for a maid, failure of marriage projects." This is not annihilation but **transformation through annihilation**—the end of one cycle so another can begin.
+According to Waite's *Pictorial Key to the Tarot*, Death signifies *end, mortality, destruction, and corruption*.[^1] In practical divination, it denotes "for a man, the loss of a benefactor; for a woman, many contrarieties; for a maid, failure of marriage projects."[^1] This is not annihilation but **transformation through annihilation**—the end of one cycle so another can begin.
 
-The Golden Dawn gives Death two titles: "The Child of the Great Transformers" and "The Lord of the Gate of Death." Death is the threshold guardian, the gatekeeper between states of being. The "Great Transformers" are the cosmic forces that dismantle outworn forms so new life can emerge. Death is their child—their instrument, their scythe.
+The Golden Dawn gives Death two titles: "The Child of the Great Transformers" and "The Lord of the Gate of Death."[^2] Death is the threshold guardian, the gatekeeper between states of being. The "Great Transformers" are the cosmic forces that dismantle outworn forms so new life can emerge. Death is their child—their instrument, their scythe.
 
 In divinatory practice, Death rarely indicates literal physical death. It signals **the death of a form**: the end of a relationship, a job, an identity, a way of being. Death appears when a chapter is closing—whether you are ready or not. The card declares: *Let go. What you were is no longer sufficient for what you are becoming.*
 
 **Context profoundly shapes the reading**: In spiritual questions, Death heralds ego-death, the dissolution of false self-structures, the dark night that precedes illumination. In material questions, it signals unavoidable endings—the bankruptcy, the divorce, the departure. Death does not negotiate. She takes what she takes.
 
-**Reversed**, Waite identifies *inertia, sleep, lethargy, petrifaction, somnambulism, and hope destroyed*. The reversed Death is stagnation: the refusal to release what is dead, clinging to the corpse, paralysis in the face of necessary change. It is also the nihilistic despair that sees death as *the end* rather than *the transition*—hope destroyed because one cannot see beyond the dissolution to the resurrection that follows.
+**Reversed**, Waite identifies *inertia, sleep, lethargy, petrifaction, somnambulism, and hope destroyed*.[^1] The reversed Death is stagnation: the refusal to release what is dead, clinging to the corpse, paralysis in the face of necessary change. It is also the nihilistic despair that sees death as *the end* rather than *the transition*—hope destroyed because one cannot see beyond the dissolution to the resurrection that follows.
 
 The core teaching: **What must die, dies**. The only variable is whether you consent or resist. Consent brings alchemy; resistance brings suffering.
 

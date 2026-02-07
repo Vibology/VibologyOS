@@ -13,7 +13,7 @@ category: Index
 
 ## Overview
 
-The **Nine Centers** are the energy hubs of the Human Design BodyGraph, corresponding to biological systems and psychological functions. Derived from the Hindu-Brahmin chakra system and synthesized with Kabbalistic and astrological frameworks, the Centers represent the primary nodes through which life force circulates.
+The **Nine Centers** are the energy hubs of the Human Design BodyGraph, corresponding to biological systems and psychological functions.[^1] Derived from the Hindu-Brahmin chakra system and synthesized with Kabbalistic and astrological frameworks, the Centers represent the primary nodes through which life force circulates.
 
 Each Center governs specific themes—mental pressure, emotional chemistry, identity, willpower, communication, instinct, vitality, and drive. Centers are either **defined** (colored in) or **undefined** (white), determining whether that energy operates as a consistent, reliable force or as a receptive, sampling intelligence.
 

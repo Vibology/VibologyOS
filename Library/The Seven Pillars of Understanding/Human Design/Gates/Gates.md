@@ -11,7 +11,7 @@ category: Index
 ---
 ## Overview
 
-The **64 Gates** are the fundamental building blocks of Human Design, corresponding directly to the 64 hexagrams of the I-Ching and the 64 codons of human DNA. Each Gate represents a specific archetypal theme—a frequency of consciousness that manifests as particular gifts, challenges, and life patterns.
+The **64 Gates** are the fundamental building blocks of Human Design, corresponding directly to the 64 hexagrams of the I-Ching and the 64 codons of human DNA.[^1] Each Gate represents a specific archetypal theme—a frequency of consciousness that manifests as particular gifts, challenges, and life patterns.
 
 Gates are activated by planetary positions at two critical moments:
 - **Design (Unconscious):** ~88 days before birth, when the soul enters the body

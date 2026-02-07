@@ -16,7 +16,7 @@ verification_notes: "Variables mechanics verified against Grimoire. Advanced lay
 
 ## Introduction: Below the Surface
 
-**Tone, Color, and Base** represent the **internal substructure** of the Crystals of Consciousness—the layers of architecture beneath the surface [[Variables]] ([[Determination]], [[Environment]], [[Perspective]], [[Motivation]]).
+**Tone, Color, and Base** represent the **internal substructure** of the Crystals of Consciousness—the layers of architecture beneath the surface [[Variables]] ([[Determination]], [[Environment]], [[Perspective]], [[Motivation]]).[^1]
 
 #### The Structure
 - **Variables** (surface layer) = What you see in practical application
