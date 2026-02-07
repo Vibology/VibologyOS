@@ -352,6 +352,10 @@ Gate 40 teaches that **provision requires rest**. When the individual honors the
 
 *"True provision is not self-sacrifice—it is the sacred rhythm of work and rest, giving and receiving, service and restoration."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

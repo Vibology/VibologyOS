@@ -358,6 +358,10 @@ Gate 32 teaches that **endurance is not rigidity—it is adaptive wisdom**. When
 
 *"What endures is not what refuses to change—it is what adapts wisely to the truth of each moment."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

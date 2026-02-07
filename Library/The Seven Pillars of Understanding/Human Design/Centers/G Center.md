@@ -219,6 +219,13 @@ For Projectors with Self-Projected Authority (G-to-Throat), Judgement's trumpet 
 *The G Center is the seat of the Self—the place where identity, direction, and love converge. For some, it is a fixed compass, always pointing true north. For others, it is a mirror, reflecting the environment and becoming anew in each context. To honor the G is to recognize that knowing who you are—or not knowing—is both sacred, and that the Magnetic Monopole pulls you along your path whether you understand it or not.*
 
 ---
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — G Center biological correlation to the liver and blood; definition statistics: 57% defined, 43% undefined.
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Classification of the G Center as the identity center (seat of identity, direction, and love).
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Self-Projected Authority as exclusive to Projectors with G-to-Throat connection.
+
+---
 ## Sources
 
 Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.

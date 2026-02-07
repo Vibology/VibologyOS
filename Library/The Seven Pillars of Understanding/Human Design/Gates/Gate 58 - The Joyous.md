@@ -365,6 +365,10 @@ Gate 58 teaches that **dissatisfaction is fuel, not failure**. When the individu
 
 *"The joy is not in perfection achieved, but in the vitality of pursuing it. Correct what serves. Release the rest."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

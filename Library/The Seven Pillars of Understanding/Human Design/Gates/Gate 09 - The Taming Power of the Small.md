@@ -369,6 +369,10 @@ Gate 9 teaches that **power lies in the small**. When the individual honors thei
 
 *"Invincibility is not born in a moment—it is built through patient accumulation of small, focused efforts."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

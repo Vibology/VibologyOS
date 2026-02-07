@@ -352,6 +352,10 @@ Gate 43 teaches that **unique knowing is sacred**. When the individual honors th
 
 *"True insight cannot be taught or learned—it can only be revealed. When the inner ear opens, breakthrough occurs, and the world is seen anew."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

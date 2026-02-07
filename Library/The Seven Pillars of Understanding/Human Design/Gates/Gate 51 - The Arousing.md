@@ -352,6 +352,10 @@ Gate 51 teaches that **courage is the foundation of individuation**. When the in
 
 *"True courage is not the absence of fear—it is the willingness to act despite the shock, to initiate despite the unknown, to leap when the spirit demands it."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

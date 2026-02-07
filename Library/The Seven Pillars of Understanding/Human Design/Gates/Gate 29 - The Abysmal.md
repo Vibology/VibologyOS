@@ -380,6 +380,10 @@ Gate 29 teaches that **true commitment is responsive, not obligatory**. When the
 
 *"The abyss is deep, but commitment is deeper—say yes when your body confirms, and persevere through darkness to discover the wisdom that serves all."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

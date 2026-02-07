@@ -354,6 +354,10 @@ Gate 37 teaches that **friendship requires reciprocity**. When the individual ho
 
 *"True friendship is not born of neediness—it emerges from the recognition that we serve each other through fair and tender reciprocity."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

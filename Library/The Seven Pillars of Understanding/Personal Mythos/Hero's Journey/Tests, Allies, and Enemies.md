@@ -621,6 +621,11 @@ The future of this archetype may be **gender-integrative**—recognizing that te
 **Final Reflection**: Tests, Allies, and Enemies is the **preparation phase**—the training ground where the hero learns who they are, who serves their quest, and who opposes it. This stage does not demand the ego's death (that is the Ordeal's province), but it demands **differentiation**: self from other, ally from enemy, truth from illusion. The hero who navigates this stage with discernment, humility, and courage will enter the Inmost Cave **ready**. The hero who bypasses or fails these trials will enter unprepared—and the Ordeal will exact a brutal price.
 
 
+## Footnotes
+
+[^1]: Joseph Campbell, *The Hero with a Thousand Faces* (Princeton University Press, 1949) — monomyth framework, 12-stage Hero's Journey structure, the Road of Trials, and direct quotations on Tests, Allies, and Enemies as Stage 6.
+[^2]: C.G. Jung, *The Collected Works of C.G. Jung*, particularly Vol. 9i *The Archetypes and the Collective Unconscious* (Shadow projection, Anima/Animus as Shapeshifter, differentiation), Vol. 9ii *Aion* (ego-Self dynamics), and Vol. 5 *Symbols of Transformation* (the transcendent function, fellowship as psychic structure) — Jungian archetypal framework linking tests, allies, and enemies to the individuation process.
+
 ## Sources
 
 - Campbell, Joseph. *The Hero with a Thousand Faces*. Princeton University Press, 1949.

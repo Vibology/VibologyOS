@@ -353,6 +353,10 @@ Gate 50 teaches that **values are sacred**. When the individual honors their ins
 
 *"The cauldron that nourishes the tribe must be kept pure through wise custodianship. When we uphold values from instinct rather than ego, we become guardians of collective well-being, preserving without oppressing."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

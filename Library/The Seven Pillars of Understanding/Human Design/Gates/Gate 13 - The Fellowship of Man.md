@@ -360,6 +360,10 @@ Gate 13 teaches that **listening is a sacred act**. When the individual honors t
 
 *"To witness another's story without needing to fix it—this is the most sacred gift we can offer."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

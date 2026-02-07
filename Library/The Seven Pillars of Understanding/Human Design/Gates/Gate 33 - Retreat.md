@@ -377,6 +377,10 @@ Gate 33 teaches that **wisdom requires distance**. When the individual honors th
 
 *"Wisdom is not born in the noise of the collective—it gestates in the silence of solitude and emerges when the time is right."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

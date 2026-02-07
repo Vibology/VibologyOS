@@ -176,6 +176,12 @@ The 1/3 brings:
 ---
 
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — 1/3 classified as Right Angle Profile with personal destiny trajectory
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Line 1 mechanics: introspective foundation, driven to investigate until secure
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Line 3 mechanics: adaptive trial-and-error learning, discovery through direct experience
+
 ## Sources
 
 Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.

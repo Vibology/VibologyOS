@@ -362,6 +362,10 @@ Gate 30 teaches that **desire is not the enemy—unconscious desire is**. When t
 
 *"Desire is fate, not failure—cling to experience with awareness, and discover that limitation itself is the gateway to rapture."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

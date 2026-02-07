@@ -184,6 +184,13 @@ The 5/1 brings:
 *The 5/1 is The General—the authoritative leader projected upon by strangers to rescue, backed by deep foundational knowledge. They are seductive, drawing people in with their projected power, and they are burdened by universal expectation. Their gift is practical solutions grounded in research, and their challenge is managing a reputation that depends on delivering results. Strangers project savior status; intimates see the human. The 5/1's life is the balance between universal projection and foundational authority, between being The General and being human.*
 
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — 5/1 Profile as "The General" archetype, projected upon by strangers to rescue
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — 5/1 classified as Left Angle Profile with trans-personal karma trajectory
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Line 5 mechanics: universalizing projection field, reputation dependence, savior/charlatan dynamic
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Line 1 mechanics: introspective foundation, driven to investigate until secure
+
 ## Sources
 
 Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.

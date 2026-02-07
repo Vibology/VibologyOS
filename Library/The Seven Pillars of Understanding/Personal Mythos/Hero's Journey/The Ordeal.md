@@ -562,6 +562,11 @@ The future of the Ordeal archetype may be **gender-integrative**—recognizing t
 
 
 
+## Footnotes
+
+[^1]: Joseph Campbell, *The Hero with a Thousand Faces* (Princeton University Press, 1949) — monomyth framework, 12-stage Hero's Journey structure, and direct quotations on the Ordeal as Stage 8, the supreme test and assimilation of the opposite.
+[^2]: C.G. Jung, *The Collected Works of C.G. Jung*, particularly Vol. 12 *Psychology and Alchemy* (Nigredo, mortificatio, alchemical death-rebirth), Vol. 9i *The Archetypes and the Collective Unconscious* (Shadow confrontation, Self as annihilating totality), Vol. 9ii *Aion* (ego-Self axis rupture), and *The Red Book* (Jung's own confrontation with the unconscious) — Jungian archetypal framework linking the Ordeal to the individuation crisis.
+
 ## Sources
 
 - Campbell, Joseph. *The Hero with a Thousand Faces*. Princeton University Press, 1949.

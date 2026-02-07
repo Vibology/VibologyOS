@@ -358,6 +358,10 @@ Gate 17 teaches that **true authority comes from service to patterns**. When the
 
 *"True authority is earned through service—by observing patterns long enough to understand them, by following deeply enough to lead wisely."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

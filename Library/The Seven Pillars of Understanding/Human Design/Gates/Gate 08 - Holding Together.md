@@ -384,6 +384,10 @@ Gate 8 teaches that **creative contribution is not about being the best—it is 
 
 *"Your unique voice is not vanity—it is the universe celebrating its own diversity."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

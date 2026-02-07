@@ -378,6 +378,10 @@ Gate 7 teaches that **leadership is a role, not an identity**. When the individu
 
 *"True leadership is not the assertion of self—it is the embodiment of role in service of the whole."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

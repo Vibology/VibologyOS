@@ -364,6 +364,10 @@ Gate 1 teaches that **authentic identity is expressed through unique creativity*
 
 *"True creativity is not an act of will—it is the surrender to what seeks to be born through you."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

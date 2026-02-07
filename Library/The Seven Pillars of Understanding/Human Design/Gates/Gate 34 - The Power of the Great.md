@@ -383,6 +383,10 @@ Gate 34 teaches that **power is only great when it serves**. When the individual
 
 *"True power is not in domination—it is in the capacity to empower all that it touches."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

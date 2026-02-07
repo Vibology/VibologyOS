@@ -393,6 +393,10 @@ Gate 57 teaches that **the body knows**. When the individual honors their Spleni
 
 *"The whisper speaks once. Trust it. The body knows what the mind cannot prove."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

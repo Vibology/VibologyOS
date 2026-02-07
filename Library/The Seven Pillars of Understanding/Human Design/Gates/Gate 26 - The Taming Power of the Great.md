@@ -351,6 +351,10 @@ Gate 26 teaches that **true influence is service, not ego**. When the individual
 
 *"True influence serves the tribe, not the ego—memory wielded artfully ensures continuity, while memory wielded proudly becomes manipulation."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

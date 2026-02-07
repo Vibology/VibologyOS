@@ -381,6 +381,10 @@ Gate 12 teaches that **not all action is progress**. When the individual honors 
 
 *"The sacred 'no' is not refusal—it is protection. The wise 'wait' is not stagnation—it is preparation."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

@@ -389,6 +389,10 @@ Gate 20 teaches that **true power is presence**. When the individual honors thei
 
 *"True presence is not performed—it is lived. The now is not a concept but a body, a breath, a voice that arises naturally from being fully here."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

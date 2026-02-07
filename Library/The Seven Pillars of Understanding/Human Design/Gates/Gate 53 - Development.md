@@ -363,6 +363,10 @@ Gate 53 teaches that **beginnings are sacred**. When the individual honors their
 
 *"Every beginning is a sacred act—the seed breaking open, the first breath, the dawn. To start is to participate in the eternal renewal of life itself."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

@@ -354,6 +354,10 @@ Gate 41 teaches that **fantasy is sacred fuel**. When the individual honors thei
 
 *"Fantasy is not escape from reality—it is the fuel that propels us toward new reality. When held lightly, it becomes the sacred anticipation of what seeks to emerge."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

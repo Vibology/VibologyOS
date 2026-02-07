@@ -384,6 +384,10 @@ Gate 62 teaches that **details matter**. When the individual honors their voice 
 
 *"Details are not trivial. They are the foundation of all patterns. Name what matters. Release the rest."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

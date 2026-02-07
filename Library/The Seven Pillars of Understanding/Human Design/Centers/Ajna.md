@@ -222,6 +222,15 @@ This is the **double helix spiral** Eleanor Haspel-Portner describes: consciousn
 *The Ajna is the mind's eye—the seat of conceptualization, the processor of mental pressure, the weaver of theories and perspectives. But it is not the knower of truth. It thinks, but it does not decide. To honor the Ajna is to use the mind as a tool for observation and articulation, not as the master of your life.*
 
 ---
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Ajna Center biological correlation to the anterior and posterior pituitary glands.
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Classification of the Ajna as an awareness center (not a motor or authority).
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Ajna definition statistics: ~47% defined, ~53% undefined.
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — The Ajna operates "over all time" (past, present, future), distinguishing it from present-moment awareness centers.
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — The mind as Outer Authority (valuable for others) but not Inner Authority (not reliable for personal decisions).
+
+---
 ## Sources
 
 Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.

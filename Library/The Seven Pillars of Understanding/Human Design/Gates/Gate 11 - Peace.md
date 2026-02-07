@@ -351,6 +351,10 @@ Gate 11 teaches that **authentic ideas cannot be forced or manufactured**. When 
 
 *"True peace is not the absence of ideas, but the freedom to hold them without attachment."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

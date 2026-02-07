@@ -357,6 +357,10 @@ Gate 60 teaches that **limitation is the doorway to mutation**. When the individ
 
 *"Limitation is not punishment. It is the pulse. Accept the constraint. Discover the doorway. Mutation awaits."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

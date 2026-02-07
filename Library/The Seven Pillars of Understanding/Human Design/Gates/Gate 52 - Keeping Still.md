@@ -360,6 +360,10 @@ Gate 52 teaches that **stillness is not weakness; it is wisdom**. When the indiv
 
 *"The mountain does not move because it is weak—it does not move because it is wise. Stillness is not the absence of power; it is power held in perfect restraint."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

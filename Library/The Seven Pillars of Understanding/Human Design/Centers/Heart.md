@@ -173,6 +173,13 @@ For all Types, the Heart:
 *The Heart is the will to commit—the ego strength that promises and delivers, the material mastery that knows worth and manages resources. For some, the will is a reliable engine, always ready to commit. For others, the will is borrowed, inconsistent, and must be protected from proving and improving. To honor the Heart is to recognize that worth is not earned but intrinsic, and that commitment, when freely given, is the highest power of the ego.*
 
 ---
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Heart Center biological correlation to heart, stomach, thymus gland, and gall bladder
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Heart Center classified as a motor center (one of four)
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Heart Center definition statistics (37% defined, 63% undefined)
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Ego Authority for Manifestors (Ego-Manifested) and Projectors (Ego-Projected)
+
 ## Sources
 
 Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.

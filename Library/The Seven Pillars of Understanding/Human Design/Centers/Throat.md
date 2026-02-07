@@ -170,6 +170,14 @@ The Throat has **eleven gates**, more than any other center. Each gate represent
 *The Throat is the Town Square—the place where all energy converges to be spoken, manifested, and brought into being. It is the bridge between inner truth and outer expression, the transformer of potential into action. To honor the Throat is to speak with purpose, to manifest with alignment, and to recognize that not all voices need to be heard at all times.*
 
 ---
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Throat Center biological correlation to the thyroid and parathyroid glands.
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Classification of the Throat as the manifestation center where all energy moves to be expressed.
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Throat definition statistics: ~72% defined, ~28% undefined.
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Manifestation requires motor energy (Sacral, Solar Plexus, Heart, or Root) connected to the Throat.
+
+---
 ## Sources
 
 Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.

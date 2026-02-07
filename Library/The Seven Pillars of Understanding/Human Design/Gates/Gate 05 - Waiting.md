@@ -386,6 +386,10 @@ Gate 5 teaches that **timing is everything**. When the individual honors their S
 
 *"Patience is not the absence of action—it is the presence of trust in natural timing."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

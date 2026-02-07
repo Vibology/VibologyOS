@@ -351,6 +351,10 @@ Gate 21 teaches that **true power is justified power**. When the individual hono
 
 *"True authority does not demand obedience—it commands respect through service, and enforces boundaries with clarity, not cruelty."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

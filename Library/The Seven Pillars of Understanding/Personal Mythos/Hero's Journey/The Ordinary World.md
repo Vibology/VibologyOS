@@ -578,6 +578,11 @@ The future of the Ordinary World archetype may be **gender-integrative**—honor
 **Final Reflection**: The Ordinary World is not the enemy. It is the **ground** from which all flight occurs, the home to which all journeys return, the baseline that makes transformation legible. To despise it is to misunderstand the monomyth—the hero does not escape the Ordinary World forever but **redeems** it, bringing the elixir back to heal what was once deadening. The mature psyche honors the Ordinary World's gifts (safety, identity, community) while remaining awake to the [[The Self]]'s summons when it comes. For the Call **will** come—not once, but many times across a lifetime. And each time, the question is the same: *Will I answer?*
 
 
+## Footnotes
+
+[^1]: Joseph Campbell, *The Hero with a Thousand Faces* (Princeton University Press, 1949) — monomyth framework, 12-stage Hero's Journey structure, and direct quotations on the Ordinary World as Stage 1, the commonplace life, and the threshold of adventure.
+[^2]: C.G. Jung, *The Collected Works of C.G. Jung*, particularly Vol. 9i *The Archetypes and the Collective Unconscious* (Persona, Shadow, Self, Divine Child), Vol. 9ii *Aion* (ego-Persona identification), and *Memories, Dreams, Reflections* (Jung's midlife crisis as Ordinary World shattered) — Jungian archetypal framework linking the Ordinary World to Persona-dominated consciousness before individuation.
+
 ## Sources
 
 - Campbell, Joseph. *The Hero with a Thousand Faces*. Princeton University Press, 1949.

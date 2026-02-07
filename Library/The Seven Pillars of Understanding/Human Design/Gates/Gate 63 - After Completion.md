@@ -364,6 +364,10 @@ Gate 63 teaches that **doubt serves truth**. When the individual honors their pr
 
 *"Doubt is not the enemy of truth. It is the guardian. Question to verify, not to destroy."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

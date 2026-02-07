@@ -564,6 +564,11 @@ The future of the Resurrection archetype may be **gender-integrative**—recogni
 **Final Reflection**: The Resurrection is not escape from death but **proof** you survived it. Where the Ordeal asked, *"Can you die?"*, the Resurrection asks, *"Can you live—truly live—as the one who died and returned?"* This is the penultimate stage, the climax, the moment when transformation becomes **irreversible**. The hero can no longer return to who they were. The old life is ashes. The new life is **fire**—radiant, embodied, ready to serve. The Resurrection is the **incarnation** of all that was learned in darkness—now walking in the light, visible, witnessed, **real**.
 
 
+## Footnotes
+
+[^1]: Joseph Campbell, *The Hero with a Thousand Faces* (Princeton University Press, 1949) — monomyth framework, 12-stage Hero's Journey structure, and direct quotations on the Resurrection as Stage 11, the Return Threshold, and Master of Two Worlds.
+[^2]: C.G. Jung, *The Collected Works of C.G. Jung*, particularly Vol. 14 *Mysterium Coniunctionis* (ego-Self integration, permanent individuation), Vol. 12 *Psychology and Alchemy* (Rubedo, coagulation, incarnation of the Stone), and Vol. 9i *The Archetypes and the Collective Unconscious* (Self made manifest, Anima integration) — Jungian archetypal framework linking the Resurrection to stable ego-Self dialogue and embodied wholeness.
+
 ## Sources
 
 - Campbell, Joseph. *The Hero with a Thousand Faces*. Princeton University Press, 1949.

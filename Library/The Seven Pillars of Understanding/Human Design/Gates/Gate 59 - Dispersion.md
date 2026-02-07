@@ -379,6 +379,10 @@ Gate 59 teaches that **intimacy is sacred**. When the individual honors their se
 
 *"Intimacy is not possession. It is the courage to dissolve barriers and bond with those who are correct for you."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

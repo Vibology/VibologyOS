@@ -366,6 +366,10 @@ Gate 4 teaches that **the mind is a beautiful tool for understanding, not for de
 
 *"True understanding embraces uncertainty. The wisest mind knows it is forever young, forever learning."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

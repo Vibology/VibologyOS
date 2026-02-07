@@ -618,6 +618,11 @@ The future of the threshold archetype may be **integrative**—recognizing that 
 **Final Reflection**: Crossing the First Threshold is the hero's declaration: *"I choose transformation over safety. I enter the unknown because the known can no longer hold me."* This is the moment when preparation ends and the real journey begins. Beyond this point, there is no return to innocence—only the spiral descent into depth, the confrontation with what has been avoided, and the eventual resurrection as something more whole than what was lost. The threshold is not the destination; it is the **irrevocable beginning**.
 
 
+## Footnotes
+
+[^1]: Campbell, Joseph. *The Hero with a Thousand Faces* (Princeton University Press, 1949) — monomyth framework, threshold crossing as Stage 5, Threshold Guardian archetype, and Belly of the Whale imagery
+[^2]: Jung, C.G. *The Collected Works of C.G. Jung*, Vols. 9i (*The Archetypes and the Collective Unconscious*), 12 (*Psychology and Alchemy*) — threshold as boundary between conscious and unconscious, Shadow as Threshold Guardian, individuation through repeated threshold crossings, Ego-Self axis, archetypal resonance of Hermes/Dionysus
+
 ## Sources
 
 - Campbell, Joseph. *The Hero with a Thousand Faces*. Princeton University Press, 1949.

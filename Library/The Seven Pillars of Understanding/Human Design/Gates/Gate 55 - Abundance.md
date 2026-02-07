@@ -361,6 +361,10 @@ Gate 55 teaches that **spirit is the source of abundance**. When the individual 
 
 *"Abundance is not what you have—it is what you are. The spirit that knows itself as full is full, regardless of circumstance."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

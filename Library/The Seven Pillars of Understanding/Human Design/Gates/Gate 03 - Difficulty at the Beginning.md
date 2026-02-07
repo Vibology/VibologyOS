@@ -364,6 +364,10 @@ Gate 3 teaches that **mutation is not easy, and it shouldn't be**. When the indi
 
 *"All innovation is born in chaos. Do not resist the difficulty—it is the sacred labor of the new."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

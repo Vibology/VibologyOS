@@ -355,6 +355,10 @@ Gate 38 teaches that **opposition preserves integrity**. When the individual hon
 
 *"True opposition is not aggression—it is the sacred act of preserving integrity against the forces that would dissolve it."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

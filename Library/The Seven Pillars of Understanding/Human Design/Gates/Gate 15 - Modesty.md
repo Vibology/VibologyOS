@@ -383,6 +383,10 @@ Gate 15 teaches that **true love is acceptance of the full spectrum**. When the 
 
 *"True love of humanity is not tolerance—it is the lived recognition that all patterns are sacred, because you have walked them yourself."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

@@ -607,6 +607,11 @@ The future of the Call archetype may be **gender-integrative**—recognizing tha
 **Final Reflection**: The Call to Adventure is not optional—it is the [[The Self]]'s insistence on growth. You may refuse it, defer it, misinterpret it, but it will return. The question is not *whether* you will be Called, but *how you will respond*. Will you heed the summons consciously, or will the psyche impose transformation through crisis? The hero's path begins with a single choice: to listen when the Call rings out, to trust the mystery it announces, and to step—however trembling—toward the unknown.
 
 
+## Footnotes
+
+[^1]: Joseph Campbell, *The Hero with a Thousand Faces* (Princeton University Press, 1949) — monomyth framework, 12-stage Hero's Journey structure, and direct quotations on the Call to Adventure as Stage 2 and the herald's summons.
+[^2]: C.G. Jung, *The Collected Works of C.G. Jung*, particularly Vol. 9i *The Archetypes and the Collective Unconscious* (Self as orchestrator, Shadow eruption, Anima/Animus projection), and *Memories, Dreams, Reflections* (Jung's own Call) — Jungian archetypal framework linking the Call to the Self's teleological demand for individuation.
+
 ## Sources
 
 - Campbell, Joseph. *The Hero with a Thousand Faces*. Princeton University Press, 1949.

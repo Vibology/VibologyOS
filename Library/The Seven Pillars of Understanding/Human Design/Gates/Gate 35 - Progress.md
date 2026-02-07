@@ -368,6 +368,10 @@ Gate 35 teaches that **progress requires movement**. When the individual honors 
 
 *"True progress is not the accumulation of experience—it is the integration of wisdom gained through the adventure of living."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

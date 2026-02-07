@@ -350,6 +350,10 @@ Gate 44 teaches that **memory is sacred**. When the individual honors their inst
 
 *"The past is not a prison—it is a teacher. When memory is honored without attachment, it becomes the guardian of the present, protecting without controlling."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

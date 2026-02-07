@@ -385,6 +385,10 @@ Gate 6 teaches that **intimacy requires friction**. When the individual honors t
 
 *"True intimacy is not the absence of friction—it is the willingness to stay present through the fire."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

@@ -185,6 +185,13 @@ The Root:
 *The Root is the pressure to move—the adrenaline-fueled urgency that propels humanity forward, the stress that signals danger, the momentum that sustains evolution. For some, this pressure is reliable and consistent, a fixed drive to complete and transform. For others, it is amplified and borrowed, a constant rush to be free of urgency that paradoxically creates more stress. To honor the Root is to recognize that pressure, when correct, is fuel—but when amplified or chronic, it is burnout waiting to happen.*
 
 ---
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Root Center biological correlation to adrenal system and stress hormones (cortisol, adrenaline)
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Root Center dual classification as both a pressure center and a motor center
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Root Center definition statistics (~60% defined, ~40% undefined)
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — nine gates of the Root Center and their distinct evolutionary pressures
+
 ## Sources
 
 Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.

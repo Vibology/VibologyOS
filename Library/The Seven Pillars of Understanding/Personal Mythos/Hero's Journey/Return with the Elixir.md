@@ -749,6 +749,12 @@ And when you have given all you came to give, when your cup is poured out and yo
 Until then: **Offer the Elixir. Tend the well. Trust the spiral. Serve.**
 
 
+## Footnotes
+
+[^1]: Joseph Campbell, *The Hero with a Thousand Faces* (Princeton University Press, 1949) — monomyth framework, 12-stage Hero's Journey structure, Master of Two Worlds, Freedom to Live, and direct quotations on the Return with the Elixir as Stage 12.
+[^2]: C.G. Jung, *The Collected Works of C.G. Jung*, particularly Vol. 9i *The Archetypes and the Collective Unconscious* (Self, Wise Old Man/Woman, Divine Child), Vol. 9ii *Aion* (individuated Self in service), and *Memories, Dreams, Reflections* — Jungian archetypal framework linking the Elixir to individuation's collective purpose.
+[^3]: "The Water of Life" — fairy tale motif (Grimm, ATU 551) in which the hero retrieves miraculous healing water from a supernatural source to restore the dying king, a widespread folk narrative encoding the Elixir archetype.
+
 ## Sources
 
 - Campbell, Joseph. *The Hero with a Thousand Faces*. Princeton University Press, 1949.

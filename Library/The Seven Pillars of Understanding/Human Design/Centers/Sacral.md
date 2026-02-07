@@ -236,6 +236,13 @@ The Sacral doesn't *think* about this journey; it *lives* it. "Uh-huh" = The Foo
 *The Sacral is the life force of the planet—the sustainable motor that builds, creates, and sustains. For Generators, it is the source of vitality, response, and mastery. For non-Sacral Types, it is the reminder that not all energy is renewable, and that rest is not weakness but wisdom. To honor the Sacral is to recognize that work, when correct, is not depletion but fulfillment, and that the body knows what it has energy for before the mind can explain why.*
 
 ---
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Sacral Center biological correlation to ovaries and testes; definition statistics (66% defined as Generators, 34% undefined as non-energy Types)
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Sacral Center classified as the only sustainable motor in the BodyGraph
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — defined Sacral as the defining feature of Generator Type (Pure and Manifesting)
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Sacral Authority as immediate gut response decision-making for Generators without defined Solar Plexus
+
 ## Sources
 
 Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.

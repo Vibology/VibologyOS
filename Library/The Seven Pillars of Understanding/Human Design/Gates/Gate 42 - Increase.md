@@ -357,6 +357,10 @@ Gate 42 teaches that **completion is sacred**. When the individual honors their 
 
 *"Completion is not the destination—it is the sacred act of bringing experience to wholeness. When held without attachment, every ending becomes a celebration."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

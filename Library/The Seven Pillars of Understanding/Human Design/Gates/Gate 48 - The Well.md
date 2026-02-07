@@ -352,6 +352,10 @@ Gate 48 teaches that **depth is sacred**. When the individual honors their insti
 
 *"The well is never truly empty—it is connected to infinite source. When we trust our depth and share from fullness, the collective is sustained and wisdom flows endlessly."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

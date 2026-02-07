@@ -356,6 +356,10 @@ Gate 39 teaches that **obstruction serves growth**. When the individual honors t
 
 *"True provocation is not cruelty—it is the sacred challenge that awakens spirit from its slumber."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

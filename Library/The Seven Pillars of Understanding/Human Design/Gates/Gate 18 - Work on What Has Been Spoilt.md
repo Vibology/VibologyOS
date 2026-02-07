@@ -358,6 +358,10 @@ Gate 18 teaches that **integrity requires vigilant correction**. When the indivi
 
 *"True integrity does not judge decay—it recognizes corruption with compassion and works persistently toward restoration, serving wholeness with love."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

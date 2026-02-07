@@ -611,6 +611,11 @@ The future of the Refusal archetype is **gender-integrative**—honoring that ev
 
 
 
+## Footnotes
+
+[^1]: Campbell, Joseph. *The Hero with a Thousand Faces* (Princeton University Press, 1949) — monomyth framework, Refusal as Stage 3, conversion of adventure into its negative, escalation when Call is denied
+[^2]: Jung, C.G. *The Collected Works of C.G. Jung*, Vols. 5 (*Symbols of Transformation*), 9i (*The Archetypes and the Collective Unconscious*), 12 (*Psychology and Alchemy*) — Refusal as neurosis, Persona rigidity, ego-Self tension, Shadow as unlived life, calcination as psychological destruction of ego attachments, archetypal resonance of Hermes/Dionysus
+
 ## Sources
 
 - Campbell, Joseph. *The Hero with a Thousand Faces*. Princeton University Press, 1949.

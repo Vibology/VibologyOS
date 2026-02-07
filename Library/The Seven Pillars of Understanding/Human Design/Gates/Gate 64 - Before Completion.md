@@ -352,6 +352,10 @@ Gate 64 teaches that **confusion is sacred**. When the individual honors their p
 
 *"Confusion is sacred. Imagination is the bridge. Trust the pattern to complete itself in its own timing."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

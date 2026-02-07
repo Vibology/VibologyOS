@@ -380,6 +380,10 @@ Gate 56 teaches that **stories are sacred**. When the individual honors their st
 
 *"The best stories are not told to entertain—they are told to enrich. The wanderer's tale becomes the tribe's wisdom."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

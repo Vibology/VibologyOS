@@ -356,6 +356,10 @@ Gate 22 teaches that **true grace is not performance but presence**. When the in
 
 *"True grace is not the performance of charm—it is the sacred presence that sees beauty in the mundane and listens without needing to fix."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

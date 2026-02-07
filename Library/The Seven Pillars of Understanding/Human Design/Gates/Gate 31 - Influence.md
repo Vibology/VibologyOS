@@ -368,6 +368,10 @@ Gate 31 teaches that **authentic leadership is service, not status**. When the i
 
 *"True leadership is not the possession of power—it is the recognition of pattern in service to the whole."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

@@ -358,6 +358,10 @@ Gate 54 teaches that **ambition is sacred when aligned**. When the individual ho
 
 *"True ascension is not measured by how high you climb, but by how many you lift on the way up."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

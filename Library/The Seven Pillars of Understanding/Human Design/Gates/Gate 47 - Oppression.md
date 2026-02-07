@@ -352,6 +352,10 @@ Gate 47 teaches that **mental pressure is sacred**. When the individual honors t
 
 *"Mental oppression is not punishment—it is the pressure that forges understanding. When held with patience, confusion transforms into clarity, and the mind becomes a vessel for realization."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

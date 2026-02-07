@@ -356,6 +356,10 @@ Gate 49 teaches that **revolution is sacred**. When the individual honors their 
 
 *"Revolution is not destruction—it is sacred transformation. When we wait for emotional clarity and act from principle, we become agents of rebirth, honoring endings as gateways to new life."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes

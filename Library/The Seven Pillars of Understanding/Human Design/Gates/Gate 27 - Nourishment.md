@@ -357,6 +357,10 @@ Gate 27 teaches that **true caring is responsive and sustainable**. When the ind
 
 *"True nourishment flows from abundance and response—care wisely, honor your limits, and those you feed will thrive."*
 
+## Footnotes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
+
 ## Sources
 
 - Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
