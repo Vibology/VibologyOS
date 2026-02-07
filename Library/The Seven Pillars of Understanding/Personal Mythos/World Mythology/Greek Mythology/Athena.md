@@ -57,7 +57,7 @@ The founding myth of **Athens** itself centers on a contest between Athena and [
 
 ### Athena and Odysseus
 
-Athena's most sustained mythological relationship is with [[Odysseus]] in Homer's *Odyssey*. She is his patron, protector, and co-conspirator — the goddess who recognizes in him a mind like her own. When they finally meet openly in Book 13, both are disguised, both lying, and both delighted by the other's cunning:
+Athena's most sustained mythological relationship is with Odysseus in Homer's *Odyssey*. She is his patron, protector, and co-conspirator — the goddess who recognizes in him a mind like her own. When they finally meet openly in Book 13, both are disguised, both lying, and both delighted by the other's cunning:
 
 > *"Two of a kind, we are, contrivers both. Among all men you are the best in counsel and speech, and I among all the gods am famous for wisdom and cunning."* — *Odyssey* 13.296-299
 
@@ -73,7 +73,7 @@ In Ovid's *Metamorphoses*, the mortal weaver **Arachne** boasts that her craft e
 
 ### Athena and Medusa
 
-The story of **Medusa** further reveals Athena's relationship with the primal feminine. In most versions, Medusa was either born a Gorgon or transformed into one after being violated by [[Poseidon]] in Athena's temple. Athena punished Medusa (not Poseidon) by turning her beautiful hair into serpents and her gaze into stone. Later, Athena guided [[Perseus]] to slay Medusa and then mounted the Gorgon's head on her own **aegis**.
+The story of **Medusa** further reveals Athena's relationship with the primal feminine. In most versions, Medusa was either born a Gorgon or transformed into one after being violated by [[Poseidon]] in Athena's temple. Athena punished Medusa (not Poseidon) by turning her beautiful hair into serpents and her gaze into stone. Later, Athena guided Perseus to slay Medusa and then mounted the Gorgon's head on her own **aegis**.
 
 **Archetypal reading:** The Gorgon is the **terrible face of the archaic feminine** — the pre-Olympian, chthonic, serpent-goddess energy that preceded patriarchal civilization. Athena's wearing of the Gorgon's head suggests she has **integrated** this primordial power without being consumed by it — she carries the horror as a weapon rather than being destroyed by it. Yet the myth also reveals that Athena **punishes the victim** (Medusa) rather than the perpetrator (Poseidon), showing how the "father's daughter" archetype can perpetuate patriarchal violence against other women while believing herself just.
 
@@ -141,27 +141,27 @@ The Athena archetype is active when you:
 
 ### Athena in the Natal Chart
 - **Asteroid Pallas Athena (2)** — Her placement by sign, house, and aspect shows where and how your strategic intelligence operates
-- **[[Mercury]]** in aspect to **[[Saturn]]** — The structured, disciplined mind; thinking as craft
-- **[[Virgo]]** and **6th house** emphasis — The artisan, the one who perfects through practice
-- **[[Capricorn]]** — Athena's civic dimension; wisdom applied to institutional structures
+- **[[Mercury]]** in aspect to **[[Saturn ♄|Saturn]]** — The structured, disciplined mind; thinking as craft
+- **[[Virgo ♍|Virgo]]** and **6th house** emphasis — The artisan, the one who perfects through practice
+- **[[Capricorn ♑|Capricorn]]** — Athena's civic dimension; wisdom applied to institutional structures
 
 ---
 
 ## Cross-References
 
 ### Within Personal Mythos
-- **Family:** Daughter of [[Zeus]] (born from his head). Half-sister to [[Apollo]], [[Artemis]], [[Ares]], [[Hermes]], [[Persephone]], [[Hephaestus]], [[Dionysus]]
-- **Rivals/Contrasts:** [[Ares]] (brute force vs. strategy), [[Poseidon]] (contest for Athens), [[Aphrodite]] (logos vs. eros), [[Arachne]] (mortal challenger)
-- **Allies:** [[Odysseus]] (heroic intelligence), [[Perseus]] (Gorgon quest), [[Heracles]]
+- **Family:** Daughter of [[Zeus]] (born from his head). Half-sister to [[Apollo]], [[Artemis]], [[Ares]], [[Hermes]], [[Persephone]], Hephaestus, Dionysus
+- **Rivals/Contrasts:** [[Ares]] (brute force vs. strategy), [[Poseidon]] (contest for Athens), [[Aphrodite]] (logos vs. eros), Arachne (mortal challenger)
+- **Allies:** Odysseus (heroic intelligence), Perseus (Gorgon quest), Heracles
 - **Virgin Goddess Triad:** [[Artemis]] (autonomous instinct), Athena (autonomous intellect), [[Hestia]] (autonomous interiority)
-- **Shadow figures:** [[Medusa]], Arachne
+- **Shadow figures:** Medusa, Arachne
 
 ### Cross-System Integration
-- **Astrology:** [[Mercury]], [[Saturn]], [[Virgo]], [[Capricorn]], [[Libra]] (justice); asteroid Pallas Athena (2)
-- **Tarot:** [[The High Priestess]] (hidden wisdom), [[Justice]] (divine order), [[The Magician]] (applied intelligence)
+- **Astrology:** [[Mercury]], [[Saturn ♄|Saturn]], [[Virgo ♍|Virgo]], [[Capricorn ♑|Capricorn]], [[Libra ♎|Libra]] (justice); asteroid Pallas Athena (2)
+- **Tarot:** [[The High Priestess (II)|The High Priestess]] (hidden wisdom), [[Justice (XI)|Justice]] (divine order), [[The Magician (I)|The Magician]] (applied intelligence)
 - **Qabalah:** [[Binah]] (Understanding — the Great Mother in her structuring aspect)
-- **Human Design:** [[Gate 62 - The Preponderance of the Small]] (naming, detail), [[Gate 48 - The Well]] (depth of knowledge), [[The Ajna Center]] (conceptualization)
-- **Angelology:** [[Archangel Michael]] (strategic warrior, defender of order)
+- **Human Design:** [[Gate 62 - Preponderance of the Small]] (naming, detail), [[Gate 48 - The Well]] (depth of knowledge), [[Ajna|The Ajna Center]] (conceptualization)
+- **Angelology:** [[Michael|Archangel Michael]] (strategic warrior, defender of order)
 - **Comparative Mythology:** [[Isis]] (magical wisdom), [[Thoth]] (intellectual mastery), Minerva (Roman), Saraswati (Hindu), Brigid (Celtic)
 
 ---

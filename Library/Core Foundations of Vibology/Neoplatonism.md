@@ -19,7 +19,7 @@ tradition: Greco-Roman-Late Antique
 
 **Neoplatonism** is the philosophical tradition founded by **Plotinus** (204-270 CE) that became the **dominant intellectual framework of late antiquity** and the **philosophical backbone of Western esotericism**. It synthesized Plato's metaphysics with elements of Aristotle, Stoicism, and Pythagorean number-mysticism into a comprehensive vision of reality as a **hierarchical emanation from an utterly transcendent source** (the One/the Good) through successive levels of being (Nous/Intellect, Soul, Nature, Matter), with the possibility of **return** (*epistrophe*) — the soul's ascent back through these levels to reunion with its source.
 
-Neoplatonism is not merely a historical philosophy but the **operating system of Western esoteric cosmology**. The [[Celestial Hierarchy]] of [[Angelology]], the emanation structure of the Qabalistic [[The Tree of Life|Tree of Life]], the planetary spheres of traditional [[Astrology]], and the principle of correspondence that underlies [[Hermeticism]] all derive from or are deeply shaped by Neoplatonic metaphysics. To understand any of these systems at depth is to understand Neoplatonism.
+Neoplatonism is not merely a historical philosophy but the **operating system of Western esoteric cosmology**. The [[The Celestial Hierarchy|Celestial Hierarchy]] of [[Angelology]], the emanation structure of the Qabalistic [[The Tree of Life|Tree of Life]], the planetary spheres of traditional [[Astrology]], and the principle of correspondence that underlies [[Hermeticism]] all derive from or are deeply shaped by Neoplatonic metaphysics. To understand any of these systems at depth is to understand Neoplatonism.
 
 ---
 
@@ -76,7 +76,7 @@ The great systematizer. Proclus's *Elements of Theology* formalized Neoplatonic 
 
 ### Pseudo-Dionysius the Areopagite (c. 5th-6th century CE)
 
-The anonymous Christian author who **Christianized Neoplatonism**, writing under the name of Paul's Athenian convert (Acts 17:34). His works — especially *The Celestial Hierarchy* and *The Mystical Theology* — translated the Neoplatonic emanation schema into Christian angelology and the *via negativa* into Christian mystical theology. The [[Celestial Hierarchy]] — the nine orders of angels arranged in three triads — is a direct application of Proclean Neoplatonism to Christian cosmology.
+The anonymous Christian author who **Christianized Neoplatonism**, writing under the name of Paul's Athenian convert (Acts 17:34). His works — especially *The Celestial Hierarchy* and *The Mystical Theology* — translated the Neoplatonic emanation schema into Christian angelology and the *via negativa* into Christian mystical theology. The [[The Celestial Hierarchy|Celestial Hierarchy]] — the nine orders of angels arranged in three triads — is a direct application of Proclean Neoplatonism to Christian cosmology.
 
 > *"The purpose of the Hierarchy is the greatest possible assimilation to and union with God."* — Pseudo-Dionysius, *The Celestial Hierarchy*, III.2
 
@@ -88,7 +88,7 @@ The anonymous Christian author who **Christianized Neoplatonism**, writing under
 
 The **emanation schema** (the One → Nous → Soul → Nature → Matter) provides the metaphysical structure for multiple pillar systems:
 
-- **[[Angelology]]:** The [[Celestial Hierarchy]] (Pseudo-Dionysius) — nine angelic orders in three triads, each mediating divine light to the level below — is directly Neoplatonic. The angels are the Neoplatonic *henads* and *intellects* Christianized.
+- **[[Angelology]]:** The [[The Celestial Hierarchy|Celestial Hierarchy]] (Pseudo-Dionysius) — nine angelic orders in three triads, each mediating divine light to the level below — is directly Neoplatonic. The angels are the Neoplatonic *henads* and *intellects* Christianized.
 - **[[Qabalah]]:** The [[The Tree of Life|Tree of Life]] as an emanation diagram — [[Kether]] (the One), [[Chokmah]]-[[Binah]] (Nous), the six sephiroth of [[Tiphareth]] (Soul), [[Malkuth]] (Matter) — maps closely onto the Neoplatonic hypostases.
 - **[[Astrology]]:** The planetary spheres as levels of emanation — the soul descends through the seven spheres at birth, acquiring planetary qualities, and ascends back through them at death.
 
@@ -136,8 +136,8 @@ The emphasis on ascent (*epistrophe*) can become a refusal of descent (*proodos*
 - [[Logos]] (the Neoplatonic Nous as the divine Logos)
 
 ### Cross-System Integration
-- **Angelology:** [[Celestial Hierarchy]] (directly Neoplatonic — Pseudo-Dionysius), [[Angelic Orders]] (the emanation of divine intelligence through hierarchical levels)
-- **Qabalah:** [[The Tree of Life]] (emanation from [[Kether]] to [[Malkuth]]), [[Ain Soph]] (the limitless — equivalent to the One beyond the One)
+- **Angelology:** [[The Celestial Hierarchy|Celestial Hierarchy]] (directly Neoplatonic — Pseudo-Dionysius), [[The Ten Angelic Orders|Angelic Orders]] (the emanation of divine intelligence through hierarchical levels)
+- **Qabalah:** [[The Tree of Life]] (emanation from [[Kether]] to [[Malkuth]]), [[Ain Soph Aur|Ain Soph]] (the limitless — equivalent to the One beyond the One)
 - **Astrology:** The **planetary spheres** as Neoplatonic levels of emanation; the soul's descent and ascent through the signs
 - **Tarot:** Pathworking as the Neoplatonic return; [[The Fool (0)]] as the soul before descent; [[The World (XXI)]] as the completed return
 - **Alchemy:** The Great Work as the transformation of matter through its return to spirit — the Neoplatonic *epistrophe* in laboratory and soul

@@ -130,10 +130,10 @@ The Hecate archetype is active when you:
 
 ### Hecate in the Natal Chart
 - **Asteroid Hecate (100)** — Where you encounter crossroads, liminality, and hidden knowledge
-- **[[The Moon]]** (especially dark moon phases) — Hecate's celestial body
-- **[[Pluto]]** / **[[Scorpio]]** — The underworld, transformation through death and rebirth
+- **[[Moon ☽|The Moon]]** (especially dark moon phases) — Hecate's celestial body
+- **[[Pluto ♇|Pluto]]** / **[[Scorpio ♏|Scorpio]]** — The underworld, transformation through death and rebirth
 - **[[12th House]]** — The house of the hidden, the unconscious, what lies behind the threshold
-- **[[Neptune]]** — The liminal, the boundary-dissolving, the unseen
+- **[[Neptune ♆|Neptune]]** — The liminal, the boundary-dissolving, the unseen
 
 ---
 
@@ -142,13 +142,13 @@ The Hecate archetype is active when you:
 ### Within Personal Mythos
 - **Companions:** [[Persephone]] (attendant in the underworld), [[Demeter]] (co-witness to the abduction)
 - **Related figures:** [[Hades]] (underworld lord), [[Hermes]] (fellow psychopomp and crossroads god), [[Artemis]] (fellow torch-bearer, sometimes conflated)
-- **Shadow mirrors:** [[Medusa]] (the terrible feminine face), [[Lilith]] (the demonized dark feminine)
+- **Shadow mirrors:** Medusa (the terrible feminine face), [[Lilith]] (the demonized dark feminine)
 
 ### Cross-System Integration
-- **Astrology:** [[The Moon]] (dark phase), [[Pluto]], [[Scorpio]], [[12th House]], [[Neptune]]
-- **Tarot:** [[The Moon (XVIII)]] (the liminal, the path between towers), [[The High Priestess]] (hidden knowledge, the veil), [[The Hermit]] (the torchbearer in darkness)
-- **Qabalah:** [[Yesod]] (the threshold between material and astral), [[The Path of the Moon]]
-- **Human Design:** [[The Spleen Center]] (intuitive awareness, survival instinct, fear gates)
+- **Astrology:** [[Moon ☽|The Moon]] (dark phase), [[Pluto ♇|Pluto]], [[Scorpio ♏|Scorpio]], [[12th House]], [[Neptune ♆|Neptune]]
+- **Tarot:** [[The Moon (XVIII)]] (the liminal, the path between towers), [[The High Priestess (II)|The High Priestess]] (hidden knowledge, the veil), [[The Hermit (IX)|The Hermit]] (the torchbearer in darkness)
+- **Qabalah:** [[Yesod]] (the threshold between material and astral), The Path of the Moon
+- **Human Design:** [[Spleen|The Spleen Center]] (intuitive awareness, survival instinct, fear gates)
 - **Angelology:** Liminal figures between orders; the threshold guardians
 - **Alchemical Stages:** [[Nigredo]] (the dark phase where Hecate's torches illuminate the prima materia)
 - **Comparative Mythology:** [[Isis]] (magical power), Ereshkigal (Sumerian underworld queen), Kali (Hindu dark mother), Cerridwen (Celtic cauldron keeper)

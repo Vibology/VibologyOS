@@ -121,7 +121,7 @@ The unus mundus becomes experientially accessible when you:
 ### Cross-System Integration
 - **Astrology:** The natal chart as a **mandala of the unus mundus** — the moment of birth as a synchronistic crystallization of cosmic and individual patterns. The doctrine of correspondence ("as above, so below") is the astrological expression of the unus mundus.
 - **Tarot:** [[The World (XXI)]] (the final card, the completion of the cycle, the participation in cosmic wholeness)
-- **Qabalah:** [[Kether]] (the Crown — the first emanation, the point of unity before differentiation), [[Ain Soph]] (the limitless — the ground before the Tree)
+- **Qabalah:** [[Kether]] (the Crown — the first emanation, the point of unity before differentiation), [[Ain Soph Aur|Ain Soph]] (the limitless — the ground before the Tree)
 - **Human Design:** The **Rave Mandala** as a map of the unus mundus in individual expression — the neutrino stream as the physical medium through which the unified field imprints the individual
 - **The Magdalene Path:** The unio mystica — the soul's marriage with God as the Magdalene tradition's expression of the third coniunctio
 - **Hermeticism:** *"As above, so below; as within, so without"* — the Hermetic axiom as the foundational statement of the unus mundus

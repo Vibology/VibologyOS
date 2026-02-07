@@ -543,7 +543,7 @@ The zodiacal angels are **not you**—they are **forces working through you**, a
 - **Qabalah:** [[Chokmah]] (Mazloth—the Zodiac as second Sephirah) | [[The Tree of Life]]
 - **Tarot:** The twelve court cards (each corresponding to a zodiacal decan) | Major Arcana cards ruled by signs
 - **Human Design:** The twelve zodiacal gates in the BodyGraph (e.g., Gate 51 = Aries 21.8°-26.8°)
-- **Jungian Psychology:** [[Psychological Types]] | [[The Collective Unconscious]] | [[Psychoid Archetype]]
+- **Jungian Psychology:** [[The Four Functions|Psychological Types]] | [[The Collective Unconscious]] | [[Psychoid Archetype]]
 - **Mythology:** Twelve Labors of Hercules (each labor = zodiacal initiation) | Twelve Olympians | Twelve Tribes of Israel | Twelve Apostles
 
 ---

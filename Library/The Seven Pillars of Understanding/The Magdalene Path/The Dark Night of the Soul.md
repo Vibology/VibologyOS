@@ -158,9 +158,9 @@ The Dark Night may be occurring when:
 - [[Practitioner Protocols]] (guidance for practitioners encountering the Night)
 
 ### Cross-System Integration
-- **Astrology:** [[Saturn]] transits (especially Saturn return, Saturn conjunct Moon/Sun), [[Pluto]] transits (death-rebirth), [[12th House]] (dissolution, surrender)
+- **Astrology:** [[Saturn ♄|Saturn]] transits (especially Saturn return, Saturn conjunct Moon/Sun), [[Pluto ♇|Pluto]] transits (death-rebirth), [[12th House]] (dissolution, surrender)
 - **Tarot:** [[The Moon (XVIII)]] (the path through darkness), [[The Hermit (IX)]] (solitary illumination), [[Death (XIII)]] (the necessary ending), [[The Hanged Man (XII)]] (the inverted perspective, willing surrender)
-- **Qabalah:** The path from [[Malkuth]] to [[Yesod]] through the 32nd Path (the first crossing of the abyss); the greater crossing from [[Chesed]] to [[Binah]] through [[Da'ath]] (the Abyss proper)
+- **Qabalah:** The path from [[Malkuth]] to [[Yesod]] through the 32nd Path (the first crossing of the abyss); the greater crossing from [[Chesed]] to [[Binah]] through [[Daath|Da'ath]] (the Abyss proper)
 - **Alchemical Stages:** [[Nigredo]] (the blackening), [[Albedo]] (the purification through emptiness), *calcinatio* (the burning)
 - **Human Design:** Transits that de-condition open centers — the experience of undefined centers being stripped of their borrowed identity
 - **Jungian:** [[Ego-Death]], [[Nigredo]], [[The Shadow]] (the Night confronts the spiritual shadow), [[The Self]] (what is revealed when the ego dissolves)

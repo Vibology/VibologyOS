@@ -56,7 +56,7 @@ In every Greek city-state, a **prytaneum** (public hearth) was maintained with a
 
 ### Hestia and Dionysus: The Exchange of Seats
 
-In a late tradition, when [[Dionysus]] was admitted to Olympus as the twelfth god, Hestia **quietly yielded her seat** to him and took her place at the central hearth instead. This exchange is symbolically profound: Hestia traded **prestige** (a seat at the table of the twelve) for **centrality** (the fire at the center of the room). Dionysus brings ecstasy, dissolution, and the breaking of boundaries; Hestia provides the **stable center** that prevents dissolution from becoming chaos.
+In a late tradition, when Dionysus was admitted to Olympus as the twelfth god, Hestia **quietly yielded her seat** to him and took her place at the central hearth instead. This exchange is symbolically profound: Hestia traded **prestige** (a seat at the table of the twelve) for **centrality** (the fire at the center of the room). Dionysus brings ecstasy, dissolution, and the breaking of boundaries; Hestia provides the **stable center** that prevents dissolution from becoming chaos.
 
 **Archetypal reading:** This exchange mirrors a psychological truth: **the centered self can yield without loss**. Hestia does not need the throne because she *is* the center. The ego that is grounded in the Self does not require external validation or position — it can make way for others without being diminished. This is the difference between humility (Hestia) and humiliation (the loss of self).
 
@@ -118,10 +118,10 @@ The Hestia archetype is active when you:
 
 ### Hestia in the Natal Chart
 - **Asteroid Vesta (4)** — Shows where you tend the sacred flame, where you need focus and devotion, where you may sacrifice relationship for sacred work
-- **[[The Moon]]** in earth signs — The grounded, embodied feminine
+- **[[Moon ☽|The Moon]]** in earth signs — The grounded, embodied feminine
 - **[[4th House]]** — Home, foundation, the innermost self
-- **[[Cancer]]** — Domesticity, nurturing, the container
-- **[[Virgo]]** — Sacred service, the daily practice, the devotional ordinary
+- **[[Cancer ♋|Cancer]]** — Domesticity, nurturing, the container
+- **[[Virgo ♍|Virgo]]** — Sacred service, the daily practice, the devotional ordinary
 
 ---
 
@@ -134,10 +134,10 @@ The Hestia archetype is active when you:
 - **Complement:** [[Hermes]] (also a god of the home — the herm at the doorway, the threshold; Hestia and Hermes are paired as interior/exterior guardians)
 
 ### Cross-System Integration
-- **Astrology:** [[The Moon]], [[Cancer]], [[4th House]], [[Virgo]], [[Saturn]] (structure, containment); asteroid Vesta (4)
-- **Tarot:** [[The Hermit (IX)]] (solitary wisdom, the inner flame), [[The High Priestess]] (the still, receptive feminine), [[The Star (XVII)]] (quiet devotion)
+- **Astrology:** [[Moon ☽|The Moon]], [[Cancer ♋|Cancer]], [[4th House]], [[Virgo ♍|Virgo]], [[Saturn ♄|Saturn]] (structure, containment); asteroid Vesta (4)
+- **Tarot:** [[The Hermit (IX)]] (solitary wisdom, the inner flame), [[The High Priestess (II)|The High Priestess]] (the still, receptive feminine), [[The Star (XVII)]] (quiet devotion)
 - **Qabalah:** [[Malkuth]] (the Kingdom — the hearth of the Tree), [[Tiphareth]] (the central sun, the still center)
-- **Human Design:** [[The G Center]] (identity, direction, love — the magnetic center), [[Gate 2 - The Receptive]] (direction of the Self)
+- **Human Design:** [[G Center|The G Center]] (identity, direction, love — the magnetic center), [[Gate 02 - The Receptive]] (direction of the Self)
 - **Angelology:** The Seraphim (the "burning ones" who attend the divine throne — fire as devotion)
 - **The Magdalene Path:** [[Contemplative Prayer]] (Hestia's practice of presence as spiritual path), [[Kenosis - The Path of Self-Emptying]] (yielding the seat without loss)
 - **Jungian:** [[The Self]] (the still center), [[Mandala]] (the round hearth), [[The Transcendent Function]] (the fire that transforms without consuming)

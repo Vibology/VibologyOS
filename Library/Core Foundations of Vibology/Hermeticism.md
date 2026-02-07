@@ -96,7 +96,7 @@ The principle of correspondence — **"as above, so below"** — is the foundati
 - **Tarot/Qabalah** — The Tree of Life is a Hermetic map of reality, with paths of correspondence connecting all levels from Kether to Malkuth.
 - **Alchemy** — The Great Work (opus) is the Hermetic path of transformation: matter and spirit are transmuted together because they are aspects of the One Thing.
 - **Human Design** — The neutrino stream as the physical medium of cosmic imprinting maps directly to the Hermetic principle that the planets (above) shape the individual (below) at the moment of birth.
-- **Angelology** — The [[Celestial Hierarchy]] is a Hermetic emanation schema: divine intelligence flows downward through orders of beings, each level corresponding to the one above and below.
+- **Angelology** — The [[The Celestial Hierarchy|Celestial Hierarchy]] is a Hermetic emanation schema: divine intelligence flows downward through orders of beings, each level corresponding to the one above and below.
 - **Personal Mythos** — Mythology as the human psyche's expression of cosmic patterns: the gods correspond to archetypes, archetypes correspond to planetary forces, all participate in the One.
 - **The Magdalene Path** — The mystical ascent through the planetary spheres (Poimandres) parallels the soul's ascent through the stages of contemplation.
 
@@ -122,11 +122,11 @@ The belief that all truth derives from a single ancient source can produce a **h
 - [[Neoplatonism]] (the philosophical framework most closely allied with Hermeticism)
 
 ### Cross-System Integration
-- **Astrology:** The entire system rests on Hermetic correspondence; [[The Planets]], [[The Houses]], [[The Signs]]
+- **Astrology:** The entire system rests on Hermetic correspondence; The Planets, The Houses, The Signs
 - **Tarot:** [[The Magician (I)]] (Hermes as the first card, the channel between above and below)
-- **Qabalah:** [[The Tree of Life]] (the Hermetic map of emanation), [[The Emerald Tablet]] as compressed Qabalistic teaching
+- **Qabalah:** [[The Tree of Life]] (the Hermetic map of emanation), The Emerald Tablet as compressed Qabalistic teaching
 - **Alchemy:** The entire alchemical tradition is a Hermetic practice — [[Nigredo]], [[Albedo]], [[Rubedo]] as the stages of the Hermetic opus
-- **Angelology:** [[Celestial Hierarchy]] as Hermetic emanation theology
+- **Angelology:** [[The Celestial Hierarchy|Celestial Hierarchy]] as Hermetic emanation theology
 - **Human Design:** The Rave Mandala as a modern Hermetic instrument — planetary positions imprinting the individual at birth
 - **Jungian:** [[Unus Mundus]] (the unified reality that Hermeticism affirms), [[Synchronicity]] (acausal correspondence as Hermetic principle in action)
 

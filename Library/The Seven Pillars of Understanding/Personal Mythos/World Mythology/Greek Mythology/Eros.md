@@ -123,9 +123,9 @@ The Eros archetype is active when you:
 
 ### Eros in the Natal Chart
 - **Asteroid Eros (433)** — Shows where and how erotic desire, passion, and the longing for union express in your life
-- **[[Venus]]** — The personal experience of love and desire
-- **[[Mars]]** — The initiating, pursuing dimension of eros
-- **[[Pluto]]** — The transformative, obsessive depth of eros
+- **[[Venus ♀|Venus]]** — The personal experience of love and desire
+- **[[Mars ♂|Mars]]** — The initiating, pursuing dimension of eros
+- **[[Pluto ♇|Pluto]]** — The transformative, obsessive depth of eros
 - **[[Aphrodite]]** as mother; Venus-Mars aspects — the interplay of desire and action
 - **[[5th House]]** — Romance, creative expression, pleasure
 - **[[8th House]]** — Eros in its transformative, death-and-rebirth dimension
@@ -137,13 +137,13 @@ The Eros archetype is active when you:
 ### Within Personal Mythos
 - **Family:** Son of [[Aphrodite]] (Olympian tradition) or primordial force alongside Chaos and Gaia (Hesiod/Orphic). Father by Psyche of Voluptas (Pleasure)
 - **Related:** [[Aphrodite]] (mother/counterpart), Psyche (beloved/soul), [[Ares]] (father in some traditions)
-- **Parallels:** [[Hermes]] (fellow messenger between realms), [[Dionysus]] (ecstatic dissolution of boundaries)
+- **Parallels:** [[Hermes]] (fellow messenger between realms), Dionysus (ecstatic dissolution of boundaries)
 
 ### Cross-System Integration
-- **Astrology:** [[Venus]], [[Mars]], [[Pluto]], [[5th House]], [[8th House]], [[Scorpio]], [[Libra]]; asteroid Eros (433)
+- **Astrology:** [[Venus ♀|Venus]], [[Mars ♂|Mars]], [[Pluto ♇|Pluto]], [[5th House]], [[8th House]], [[Scorpio ♏|Scorpio]], [[Libra ♎|Libra]]; asteroid Eros (433)
 - **Tarot:** [[The Lovers (VI)]] (the choice, the union), [[The Devil (XV)]] (desire in bondage), [[The Star (XVII)]] (the hope of union)
 - **Qabalah:** [[Netzach]] (Victory — the sphere of Venus and desire), [[Tiphareth]]-[[Yesod]] path (the descent of beauty into formation)
-- **Human Design:** [[The Sacral Center]] (life force, eros as generative response), [[Gate 59 - Dispersion]] (intimacy, breaking barriers)
+- **Human Design:** [[Sacral|The Sacral Center]] (life force, eros as generative response), [[Gate 59 - Dispersion]] (intimacy, breaking barriers)
 - **Jungian:** [[The Anima]], [[The Animus]], [[The Syzygy]], [[Coniunctio]], [[The Self]]
 - **Alchemical:** [[Rubedo]] (the reddening — eros as the final fire of transformation)
 - **The Magdalene Path:** [[The Magdalene Path]] (eros as the vertical axis of spiritual ascent — Diotima's ladder)

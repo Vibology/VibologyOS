@@ -127,10 +127,10 @@ The Hera archetype is active when you:
 
 ### Hera in the Natal Chart
 - **Asteroid Hera (103)** or **Juno (3)** — Shows partnership patterns, what you need in committed relationship, where jealousy and sovereignty issues arise
-- **[[Venus]]-[[Saturn]] aspects** — Commitment, fidelity, the serious approach to love
+- **[[Venus ♀|Venus]]-[[Saturn ♄|Saturn]] aspects** — Commitment, fidelity, the serious approach to love
 - **[[7th House]]** emphasis — The house of marriage and partnership (Hera's domain)
-- **[[Libra]]** — The sign of partnership, balance, and the sacred dyad
-- **[[Cancer]]** — The protective, nurturing dimension of Hera's archetype
+- **[[Libra ♎|Libra]]** — The sign of partnership, balance, and the sacred dyad
+- **[[Cancer ♋|Cancer]]** — The protective, nurturing dimension of Hera's archetype
 
 ---
 
@@ -138,16 +138,16 @@ The Hera archetype is active when you:
 
 ### Within Personal Mythos
 - **Family:** Sister-wife of [[Zeus]]. Sister of [[Poseidon]], [[Hades]], [[Demeter]], [[Hestia]]. Mother of [[Ares]], Hephaestus, Hebe, Eileithyia
-- **Rivals:** [[Aphrodite]] (different approach to love), [[Heracles]] (the rival son), all Zeus's lovers
+- **Rivals:** [[Aphrodite]] (different approach to love), Heracles (the rival son), all Zeus's lovers
 - **Contrasts:** [[Artemis]] (autonomy vs. commitment), [[Athena]] (intellect vs. relationship), [[Aphrodite]] (desire vs. covenant)
 - **Parallels:** [[Persephone]] (queen of the underworld as Hera is queen of Olympus)
 
 ### Cross-System Integration
-- **Astrology:** [[Venus]], [[Saturn]], [[Cancer]], [[Libra]], [[7th House]]; asteroid Juno (3)
-- **Tarot:** [[The Empress]] (sovereign feminine), [[Justice]] (the sacred contract), [[The Hierophant]] (sacred vows)
+- **Astrology:** [[Venus ♀|Venus]], [[Saturn ♄|Saturn]], [[Cancer ♋|Cancer]], [[Libra ♎|Libra]], [[7th House]]; asteroid Juno (3)
+- **Tarot:** [[The Empress (III)|The Empress]] (sovereign feminine), [[Justice (XI)|Justice]] (the sacred contract), [[The Hierophant (V)|The Hierophant]] (sacred vows)
 - **Qabalah:** [[Chesed]] (mercy, benevolence, the expansive principle in relationship)
-- **Human Design:** [[Gate 59 - Dispersion]] (intimacy, breaking down barriers), [[The Sacral Center]] (life force in relationship)
-- **Angelology:** [[Archangel Chamuel]] (love and relationship)
+- **Human Design:** [[Gate 59 - Dispersion]] (intimacy, breaking down barriers), [[Sacral|The Sacral Center]] (life force in relationship)
+- **Angelology:** Archangel Chamuel (love and relationship)
 - **Comparative Mythology:** [[Isis]] (faithful wife), Frigg (Norse queen), Parvati (Hindu)
 - **Jungian:** [[The Syzygy]] (divine pair), [[Coniunctio]] (sacred marriage), [[The Animus]] (the inner masculine she must reclaim)
 

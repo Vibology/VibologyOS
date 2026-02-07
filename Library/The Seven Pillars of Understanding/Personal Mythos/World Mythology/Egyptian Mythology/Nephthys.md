@@ -122,10 +122,10 @@ The Nephthys archetype is active when you:
 4. **Claim your name** — "Lady of the House" — what is *your* house? Not your husband's, not your sister's, not your brother's. What domain is specifically yours? Name it and inhabit it.
 
 ### Nephthys in the Natal Chart
-- **[[The Moon]]** (dark phase, hidden aspect) — The invisible feminine, the part of the emotional self that operates unseen
-- **[[Neptune]]** / **[[12th House]]** — Dissolution, the hidden, what is sacrificed or surrendered
-- **[[Scorpio]]** — Death, the hidden, the capacity to be with what others cannot bear
-- **[[Cancer]]** — The "Lady of the House," the domestic threshold
+- **[[Moon ☽|The Moon]]** (dark phase, hidden aspect) — The invisible feminine, the part of the emotional self that operates unseen
+- **[[Neptune ♆|Neptune]]** / **[[12th House]]** — Dissolution, the hidden, what is sacrificed or surrendered
+- **[[Scorpio ♏|Scorpio]]** — Death, the hidden, the capacity to be with what others cannot bear
+- **[[Cancer ♋|Cancer]]** — The "Lady of the House," the domestic threshold
 - **[[4th House]]-[[8th House]] axis** — Home and death, the private inner world and the underworld
 
 ---
@@ -138,11 +138,11 @@ The Nephthys archetype is active when you:
 - **Parallels:** [[Hecate]] (liminal goddess, threshold guardian), [[Persephone]] (queen of the dead, the feminine who dwells between worlds)
 
 ### Cross-System Integration
-- **Astrology:** [[The Moon]] (dark phase), [[Neptune]], [[12th House]], [[Scorpio]], [[Cancer]], [[4th House]]
-- **Tarot:** [[The High Priestess]] (the hidden feminine), [[The Moon (XVIII)]] (the liminal, the unseen), [[Death (XIII)]] (the transition she presides over)
+- **Astrology:** [[Moon ☽|The Moon]] (dark phase), [[Neptune ♆|Neptune]], [[12th House]], [[Scorpio ♏|Scorpio]], [[Cancer ♋|Cancer]], [[4th House]]
+- **Tarot:** [[The High Priestess (II)|The High Priestess]] (the hidden feminine), [[The Moon (XVIII)]] (the liminal, the unseen), [[Death (XIII)]] (the transition she presides over)
 - **Qabalah:** [[Binah]] (the Great Mother in her dark aspect — the Sea of Sorrow), [[Yesod]] (the threshold between material and astral)
-- **Human Design:** [[The Spleen Center]] (intuitive awareness, the body's knowledge of death and survival)
-- **Angelology:** [[Archangel Azrael]] (the angel of death, the compassionate witness at the threshold)
+- **Human Design:** [[Spleen|The Spleen Center]] (intuitive awareness, the body's knowledge of death and survival)
+- **Angelology:** Archangel Azrael (the angel of death, the compassionate witness at the threshold)
 - **Alchemical Stages:** [[Nigredo]] (the dark phase of mourning), the *mortificatio* (the death that Nephthys witnesses and tends)
 - **Jungian:** [[The Shadow]] (the feminine shadow), [[The Anima]] (the dark anima, the invisible feminine), [[The Syzygy]] (the quaternio of Osiris-Isis-Set-Nephthys)
 

@@ -118,10 +118,10 @@ The coniunctio is active when you:
 - **Mythological:** [[Hera]] and [[Zeus]] (the wounded *hieros gamos*), [[Isis]] and [[Osiris]] (resurrection through sacred union), [[Eros]] and Psyche (the soul's marriage with desire)
 
 ### Cross-System Integration
-- **Astrology:** [[Venus]]-[[Mars]] conjunctions, [[The Sun]]-[[The Moon]] (Sol-Luna), [[7th House]] (the partnership axis), [[Libra]] (balance of opposites)
+- **Astrology:** [[Venus ♀|Venus]]-[[Mars ♂|Mars]] conjunctions, [[Sun ☉|The Sun]]-[[Moon ☽|The Moon]] (Sol-Luna), [[7th House]] (the partnership axis), [[Libra ♎|Libra]] (balance of opposites)
 - **Tarot:** [[The Lovers (VI)]] (the conscious choice of union), [[Temperance (XIV)]] (the alchemical blending), [[The World (XXI)]] (completion, the integrated Self)
 - **Qabalah:** [[Tiphareth]] (the central union), the [[Binah]]-[[Chokmah]] syzygy (the supernal parents)
-- **Human Design:** [[Channel 6-59 - Mating]] (intimacy as genetic imperative), [[The G Center]] (love and direction as unified field)
+- **Human Design:** [[Channel 6-59 - Intimacy|Channel 6-59 - Mating]] (intimacy as genetic imperative), [[G Center|The G Center]] (love and direction as unified field)
 - **The Magdalene Path:** The sacred union as the vertical axis — eros and agape meeting in the heart
 - **Angelology:** The [[Seraphim]] (the burning ones, love as the highest form of union with the divine)
 

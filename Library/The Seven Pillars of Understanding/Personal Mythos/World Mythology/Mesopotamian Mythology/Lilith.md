@@ -39,7 +39,7 @@ This story encodes the **central paradox of Lilith**: her autonomy is punished, 
 
 ### Qabalistic Lilith
 
-In the **Zohar** and later Qabalistic tradition, Lilith occupies a specific position in the shadow-side of the [[The Tree of Life|Tree of Life]] — the **[[Qliphoth]]** (the "shells" or "husks" of unholy emanation). She is the consort of **Samael** (the "poison of God," the chief of the fallen angels) and together they form the **infernal syzygy** — the shadow-marriage that mirrors the divine union of the Holy One and the Shekhinah.
+In the **Zohar** and later Qabalistic tradition, Lilith occupies a specific position in the shadow-side of the [[The Tree of Life|Tree of Life]] — the **[[Qlippoth|Qliphoth]]** (the "shells" or "husks" of unholy emanation). She is the consort of **Samael** (the "poison of God," the chief of the fallen angels) and together they form the **infernal syzygy** — the shadow-marriage that mirrors the divine union of the Holy One and the Shekhinah.
 
 Lilith's Qabalistic function is to represent the **dark feminine** that the patriarchal Tree excludes: the sexuality that is autonomous rather than procreative, the femininity that is powerful rather than receptive, the night that is alive with its own wisdom rather than merely the absence of day. She is assigned to the *Qliphah* of **Gamaliel** ("The Obscene Ones") opposite [[Yesod]] — the shadow of the foundation, the distortion of the sexual-generative center.
 
@@ -124,11 +124,11 @@ The Lilith archetype is active when you:
 - **Archetypes:** [[The Great Mother]] (in her terrible aspect), [[The Anima]] (in her dark, autonomous form)
 
 ### Cross-System Integration
-- **Astrology:** **Black Moon Lilith** (lunar apogee), asteroid Lilith (1181); [[Scorpio]], [[Pluto]], [[8th House]], [[12th House]]
-- **Tarot:** [[The High Priestess]] (the hidden feminine knowledge), [[The Moon (XVIII)]] (the nocturnal, the shadow world), [[The Devil (XV)]] (bondage and liberation of instinct)
-- **Qabalah:** [[Qliphoth]] (the shadow Tree), Gamaliel (opposite [[Yesod]]), [[Malkuth]] (the exiled Shekhinah as Lilith's cosmic parallel)
-- **Human Design:** [[The Sacral Center]] (generative/sexual life force), the Black Moon calculation in the HD system
-- **Angelology:** [[The Fallen Angels]], Samael (Lilith's consort), the three binding angels (Senoy, Sansenoy, Semangelof)
+- **Astrology:** **Black Moon Lilith** (lunar apogee), asteroid Lilith (1181); [[Scorpio ♏|Scorpio]], [[Pluto ♇|Pluto]], [[8th House]], [[12th House]]
+- **Tarot:** [[The High Priestess (II)|The High Priestess]] (the hidden feminine knowledge), [[The Moon (XVIII)]] (the nocturnal, the shadow world), [[The Devil (XV)]] (bondage and liberation of instinct)
+- **Qabalah:** [[Qlippoth|Qliphoth]] (the shadow Tree), Gamaliel (opposite [[Yesod]]), [[Malkuth]] (the exiled Shekhinah as Lilith's cosmic parallel)
+- **Human Design:** [[Sacral|The Sacral Center]] (generative/sexual life force), the Black Moon calculation in the HD system
+- **Angelology:** [[The Nine Orders of Fallen Angels|The Fallen Angels]], Samael (Lilith's consort), the three binding angels (Senoy, Sansenoy, Semangelof)
 - **The Magdalene Path:** Mary Magdalene as the **reclaimed Lilith** — the feminine figure demonized by tradition and later recognized as the beloved disciple
 
 ---

@@ -120,12 +120,12 @@ Enantiodromia may be occurring when you:
 ### Within Personal Mythos
 - **Jungian concepts:** [[The Shadow]] (the accumulated opposite), [[The Transcendent Function]] (the alternative to enantiodromia), [[Coniunctio]] (the conscious version of what enantiodromia achieves unconsciously), [[Inflation]] (the one-sidedness that triggers reversal)
 - **Archetypes:** [[The Persona]] (the conscious mask that triggers its opposite), [[Puer and Puella]] ↔ [[The Senex]] (the classic enantiodromia pair: eternal youth and rigid age)
-- **Mythological:** [[Set]] (the opposite that erupts against the ordered king), [[Dionysus]] (the return of the repressed in Greek religion)
+- **Mythological:** [[Set]] (the opposite that erupts against the ordered king), Dionysus (the return of the repressed in Greek religion)
 
 ### Cross-System Integration
-- **Astrology:** [[Saturn]]-[[Uranus]] cycles (structure vs. revolution), [[Pluto]] transits (forced confrontation with the opposite), the opposition aspect (180°)
-- **Tarot:** [[The Tower (XVI)]] (the sudden destruction of the one-sided structure), [[The Wheel of Fortune (X)]] (the cyclic reversal), [[Death (XIII)]] (the involuntary ending that precedes new beginning)
-- **Human Design:** [[Gate 24 - Return]] (the turning point, the return of the repressed), [[The Rave Mandala]] (the wheel of gates as a cycle of opposites)
+- **Astrology:** [[Saturn ♄|Saturn]]-[[Uranus ♅|Uranus]] cycles (structure vs. revolution), [[Pluto ♇|Pluto]] transits (forced confrontation with the opposite), the opposition aspect (180°)
+- **Tarot:** [[The Tower (XVI)]] (the sudden destruction of the one-sided structure), [[Wheel of Fortune (X)|The Wheel of Fortune]] (the cyclic reversal), [[Death (XIII)]] (the involuntary ending that precedes new beginning)
+- **Human Design:** [[Gate 24 - The Return]] (the turning point, the return of the repressed), The Rave Mandala (the wheel of gates as a cycle of opposites)
 - **Alchemical:** The transition from [[Nigredo]] to [[Albedo]] (the blackening that produces the whitening), the *circulatio* (the cycling of opposites in the alchemical vessel)
 - **I-Ching:** Hexagram 24 (*Fu* — Return/The Turning Point) — the return of the light after its maximum diminution
 

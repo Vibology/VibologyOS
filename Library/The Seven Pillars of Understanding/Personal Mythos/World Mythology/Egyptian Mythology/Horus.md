@@ -123,11 +123,11 @@ The Horus archetype is active when you:
 4. **The offering to the father** — What has your struggle taught you? Offer that insight to what came before — to the tradition, the lineage, the ancestors. Horus redeems Osiris by giving him sight.
 
 ### Horus in the Natal Chart
-- **[[The Sun]]** — Solar kingship, identity, the seat of authority
-- **[[Leo]]** / **[[5th House]]** — The royal sign, creative self-expression, the divine child
-- **[[Mars]]** — The warrior aspect, the drive to assert and conquer
-- **[[Aries]]** — The initiating force, the champion who goes first
-- **[[Jupiter]]** — Rightful sovereignty, expansion, the benevolent king
+- **[[Sun ☉|The Sun]]** — Solar kingship, identity, the seat of authority
+- **[[Leo ♌|Leo]]** / **[[5th House]]** — The royal sign, creative self-expression, the divine child
+- **[[Mars ♂|Mars]]** — The warrior aspect, the drive to assert and conquer
+- **[[Aries ♈|Aries]]** — The initiating force, the champion who goes first
+- **[[Jupiter ♃|Jupiter]]** — Rightful sovereignty, expansion, the benevolent king
 
 ---
 
@@ -139,11 +139,11 @@ The Horus archetype is active when you:
 - **Parallels:** [[Apollo]] (solar god, order), [[Ares]] (martial god — though Horus's warfare is righteous where Ares's is chaotic)
 
 ### Cross-System Integration
-- **Astrology:** [[The Sun]], [[Leo]], [[Mars]], [[Aries]], [[5th House]], [[Jupiter]]
+- **Astrology:** [[Sun ☉|The Sun]], [[Leo ♌|Leo]], [[Mars ♂|Mars]], [[Aries ♈|Aries]], [[5th House]], [[Jupiter ♃|Jupiter]]
 - **Tarot:** [[The Sun (XIX)]] (solar triumph), [[Strength (VIII)]] or [[Justice (XI)]] (righteous authority), [[The Chariot (VII)]] (the warrior who masters opposing forces)
 - **Qabalah:** [[Tiphareth]] (the solar center, the son on the Tree), [[Geburah]] (strength, martial power, justice)
-- **Human Design:** [[The G Center]] (identity, direction, the magnetic monopole), [[Gate 1 - The Creative]] (self-expression, the creative force)
-- **Angelology:** [[Archangel Michael]] (the warrior of light who defeats the dragon/chaos), [[Archangel Raphael]] (the healer — the Wedjat restoration)
+- **Human Design:** [[G Center|The G Center]] (identity, direction, the magnetic monopole), [[Gate 01 - The Creative]] (self-expression, the creative force)
+- **Angelology:** [[Michael|Archangel Michael]] (the warrior of light who defeats the dragon/chaos), [[Raphael|Archangel Raphael]] (the healer — the Wedjat restoration)
 - **Alchemical Stages:** [[Rubedo]] (the reddening, the return of the solar king), the philosopher's gold
 - **Jungian:** [[The Hero]], [[The Divine Child]], [[The Shadow]] (Horus-Set dyad), [[The Self]] (the Eye of Horus as symbol of psychic wholeness)
 

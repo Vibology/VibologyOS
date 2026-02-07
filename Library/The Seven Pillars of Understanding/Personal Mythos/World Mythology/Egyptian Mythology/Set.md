@@ -114,10 +114,10 @@ The Set archetype is active when you:
 4. **The eighty-year contest** — Accept that the struggle between your ordered self and your chaotic self is not a battle to be won once but a **lifelong negotiation**. The goal is not Set's destruction but his reassignment.
 
 ### Set in the Natal Chart
-- **[[Mars]]** — Aggression, assertion, the capacity for destruction and defense
-- **[[Pluto]]** — The shadow, transformation through destruction, power struggles
-- **[[Aries]]** / **[[Scorpio]]** — Martial energy in its initiating (Aries) and transformative (Scorpio) forms
-- **[[Saturn]]** — The adversary, limitation, the force that tests
+- **[[Mars ♂|Mars]]** — Aggression, assertion, the capacity for destruction and defense
+- **[[Pluto ♇|Pluto]]** — The shadow, transformation through destruction, power struggles
+- **[[Aries ♈|Aries]]** / **[[Scorpio ♏|Scorpio]]** — Martial energy in its initiating (Aries) and transformative (Scorpio) forms
+- **[[Saturn ♄|Saturn]]** — The adversary, limitation, the force that tests
 - **[[8th House]]** — Death, power, the hidden, the underworld domain Set shares with Osiris
 
 ---
@@ -131,11 +131,11 @@ The Set archetype is active when you:
 - **Shadow dyad:** [[Osiris]]-Set as the foundational Egyptian shadow pair
 
 ### Cross-System Integration
-- **Astrology:** [[Mars]], [[Pluto]], [[Aries]], [[Scorpio]], [[Saturn]], [[8th House]]
+- **Astrology:** [[Mars ♂|Mars]], [[Pluto ♇|Pluto]], [[Aries ♈|Aries]], [[Scorpio ♏|Scorpio]], [[Saturn ♄|Saturn]], [[8th House]]
 - **Tarot:** [[The Tower (XVI)]] (sudden destruction of the old order), [[The Devil (XV)]] (bondage to the shadow), [[Death (XIII)]] (transformation through destruction)
-- **Qabalah:** [[Qliphoth]] (the shadow side of the Tree), [[Geburah]] (severity, martial power — the sephirah that most closely mirrors Set's function)
-- **Human Design:** [[Gate 38 - Opposition]] (the fighter, the one who struggles for meaning), [[Gate 28 - The Preponderance of the Great]] (the game player, risk and death)
-- **Angelology:** [[The Fallen Angels]] (the adversarial principle), [[Samael]] (the "poison of God," the necessary adversary)
+- **Qabalah:** [[Qlippoth|Qliphoth]] (the shadow side of the Tree), [[Geburah]] (severity, martial power — the sephirah that most closely mirrors Set's function)
+- **Human Design:** [[Gate 38 - Opposition]] (the fighter, the one who struggles for meaning), [[Gate 28 - Preponderance of the Great]] (the game player, risk and death)
+- **Angelology:** [[The Nine Orders of Fallen Angels|The Fallen Angels]] (the adversarial principle), [[Samael]] (the "poison of God," the necessary adversary)
 - **Alchemical Stages:** [[Nigredo]] (the darkening that Set's murder initiates), *calcinatio* (the burning of the prima materia in the desert's heat)
 - **Jungian:** [[The Shadow]] (the definitive mythos), [[Enantiodromia]] (the reversal: demonized Set becomes Ra's defender)
 - **Comparative:** Typhon (Greek), Loki (Norse), Ahriman (Zoroastrian), Satan (Judeo-Christian shadow trajectory)

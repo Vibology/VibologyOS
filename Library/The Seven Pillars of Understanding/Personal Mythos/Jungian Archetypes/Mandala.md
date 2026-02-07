@@ -125,11 +125,11 @@ The mandala is active when you:
 - **Mythology:** [[Hestia]] (the round hearth as mandala), the [[Horus]] Eye (Wedjat as circular wholeness)
 
 ### Cross-System Integration
-- **Astrology:** The **natal chart** itself is a mandala — circle divided by the cross of the horizon and meridian, with the twelve houses as quaternary subdivisions. [[The Sun]] at center.
+- **Astrology:** The **natal chart** itself is a mandala — circle divided by the cross of the horizon and meridian, with the twelve houses as quaternary subdivisions. [[Sun ☉|The Sun]] at center.
 - **Tarot:** [[The World (XXI)]] (the dancing figure within the wreath — the mandala of completion), the tarot spread itself as mandala
 - **Qabalah:** [[The Tree of Life]] as vertical mandala, the **Rose Cross** as circular mandala
-- **Human Design:** The **[[BodyGraph]]** as a mandala of the Self — a geometric representation of individual wholeness with defined center and peripheral gates
-- **Angelology:** The [[Celestial Hierarchy]] as concentric circles around the divine center
+- **Human Design:** The **[[The BodyGraph|BodyGraph]]** as a mandala of the Self — a geometric representation of individual wholeness with defined center and peripheral gates
+- **Angelology:** The [[The Celestial Hierarchy|Celestial Hierarchy]] as concentric circles around the divine center
 - **The Magdalene Path:** The labyrinth as walking mandala; [[Contemplative Prayer]] as the mandala of attention
 - **I-Ching:** The circular arrangement of 64 hexagrams (the Wen Wang sequence) as mandala of all possible states
 

@@ -134,11 +134,11 @@ The Demeter archetype is active when you:
 
 ### Demeter in the Natal Chart
 - **Asteroid Demeter (1108)** or **Ceres (1)** — Shows where and how you nurture, where you experience loss and renewal, your relationship with mothering and being mothered
-- **[[The Moon]]** — The archetypal mother; Demeter's emotional landscape
-- **[[Cancer]]** — Nurturing, protection, the home as sacred space
+- **[[Moon ☽|The Moon]]** — The archetypal mother; Demeter's emotional landscape
+- **[[Cancer ♋|Cancer]]** — Nurturing, protection, the home as sacred space
 - **[[4th House]]** — Roots, home, the mother, the foundation
-- **[[Virgo]]** — Demeter's harvest aspect; the grain goddess; service and practical nurturing
-- **[[Scorpio]]** / **[[8th House]]** — The underworld dimension; death, transformation, what is hidden
+- **[[Virgo ♍|Virgo]]** — Demeter's harvest aspect; the grain goddess; service and practical nurturing
+- **[[Scorpio ♏|Scorpio]]** / **[[8th House]]** — The underworld dimension; death, transformation, what is hidden
 
 ---
 
@@ -151,13 +151,13 @@ The Demeter archetype is active when you:
 - **Contrasts:** [[Athena]] (mind vs. earth), [[Aphrodite]] (eros vs. maternal love), [[Artemis]] (wild nature vs. cultivated nature)
 
 ### Cross-System Integration
-- **Astrology:** [[The Moon]], [[Cancer]], [[Virgo]], [[4th House]], [[8th House]]; asteroid Ceres (1)
-- **Tarot:** [[The Empress]] (the fertile mother), [[Death]] (the Persephone descent), [[The High Priestess]] (the Eleusinian mystery)
+- **Astrology:** [[Moon ☽|The Moon]], [[Cancer ♋|Cancer]], [[Virgo ♍|Virgo]], [[4th House]], [[8th House]]; asteroid Ceres (1)
+- **Tarot:** [[The Empress (III)|The Empress]] (the fertile mother), [[Death (XIII)|Death]] (the Persephone descent), [[The High Priestess (II)|The High Priestess]] (the Eleusinian mystery)
 - **Qabalah:** [[Binah]] (the Great Mother, the Sea of Sorrow), [[Malkuth]] (the physical earth, the Kingdom)
-- **Human Design:** [[The Sacral Center]] (life force, generative power), [[Gate 46 - Pushing Upward]] (love of the body), [[Channel 29-46 - Discovery]] (the body in the world)
-- **Angelology:** [[Archangel Uriel]] (earth, harvest, wisdom of embodiment)
+- **Human Design:** [[Sacral|The Sacral Center]] (life force, generative power), [[Gate 46 - Pushing Upward]] (love of the body), [[Channel 29-46 - Discovery]] (the body in the world)
+- **Angelology:** [[Uriel|Archangel Uriel]] (earth, harvest, wisdom of embodiment)
 - **Alchemical Stages:** [[Nigredo]] (the dark phase of loss), [[Albedo]] (the purification through grief), the grain as *prima materia*
-- **Hero's Journey:** [[The Descent]] (katabasis), [[The Return]] (with the boon of knowledge)
+- **Hero's Journey:** The Descent (katabasis), The Return (with the boon of knowledge)
 
 ---
 

@@ -121,10 +121,10 @@ The Osiris archetype is active when you:
 4. **The Horus activation** — After grieving, after the underworld sojourn: What is the Horus in your life? What active, forward-looking, world-engaging energy is being born from your descent?
 
 ### Osiris in the Natal Chart
-- **[[Pluto]]** — Death, transformation, the underworld; the planet most directly associated with the Osiris mystery
-- **[[Scorpio]]** / **[[8th House]]** — Death-rebirth, shared resources, the hidden realm
-- **[[The Moon]]** in its dark phase — The death of the light before its return
-- **[[Saturn]]** — The lord of endings, the keeper of time, the final judgment
+- **[[Pluto ♇|Pluto]]** — Death, transformation, the underworld; the planet most directly associated with the Osiris mystery
+- **[[Scorpio ♏|Scorpio]]** / **[[8th House]]** — Death-rebirth, shared resources, the hidden realm
+- **[[Moon ☽|The Moon]]** in its dark phase — The death of the light before its return
+- **[[Saturn ♄|Saturn]]** — The lord of endings, the keeper of time, the final judgment
 - **[[12th House]]** — Dissolution, the unseen realm, sacrifice
 
 ---
@@ -137,11 +137,11 @@ The Osiris archetype is active when you:
 - **Parallels:** [[Hades]] (lord of the underworld), Dionysus (dismembered god), [[Persephone]] (descent and return)
 
 ### Cross-System Integration
-- **Astrology:** [[Pluto]], [[Scorpio]], [[8th House]], [[Saturn]], [[12th House]]
+- **Astrology:** [[Pluto ♇|Pluto]], [[Scorpio ♏|Scorpio]], [[8th House]], [[Saturn ♄|Saturn]], [[12th House]]
 - **Tarot:** [[Death (XIII)]] (transformation through dissolution), [[Judgement (XX)]] (the resurrection, the weighing), [[The Hanged Man (XII)]] (the suspended, inverted king)
 - **Qabalah:** [[Tiphareth]] (the sacrificed god at the center of the Tree), [[Malkuth]]-[[Kether]] axis (death as the gateway from kingdom to crown)
-- **Human Design:** [[Gate 36 - The Darkening of the Light]] (crisis as turning point), [[Gate 29 - The Abysmal]] (depth, commitment through darkness)
-- **Angelology:** [[Archangel Azrael]] (angel of death), [[Archangel Michael]] (the weigher of souls)
+- **Human Design:** [[Gate 36 - Darkening of the Light]] (crisis as turning point), [[Gate 29 - The Abysmal]] (depth, commitment through darkness)
+- **Angelology:** Archangel Azrael (angel of death), [[Michael|Archangel Michael]] (the weigher of souls)
 - **Alchemical Stages:** [[Nigredo]] (the darkening, the death of the prima materia), *separatio* (the dismemberment), *coagulatio* (the reassembly)
 - **Jungian:** [[The Shadow]] (Set as Osiris's shadow), [[Ego-Death]] (the necessary dissolution)
 - **Comparative:** [[Demeter]]-[[Persephone]] cycle (seasonal death and return), Inanna's descent, Christ's passion
