@@ -101,6 +101,7 @@ The trans-personal karma of this cross is worked out through partnership. The in
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 07 - The Army]]
 - [[Gate 13 - The Fellowship of Man]]
@@ -129,10 +130,8 @@ The trans-personal karma of this cross is worked out through partnership. The in
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The leader who bonds is the leader who transforms. Influence flows through relationship, and wisdom is received only when trust has been established."*

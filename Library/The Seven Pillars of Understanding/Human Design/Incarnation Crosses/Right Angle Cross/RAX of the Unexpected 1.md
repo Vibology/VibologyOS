@@ -96,6 +96,7 @@ The Initiation context asks: "What unexpected experiences must initiate us towar
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 27 - Nourishment]]
 - [[Gate 28 - Preponderance of the Great]]
@@ -117,10 +118,8 @@ The Initiation context asks: "What unexpected experiences must initiate us towar
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The unexpected does not ask permission—it initiates, and in initiating, it expands the capacity to care."*

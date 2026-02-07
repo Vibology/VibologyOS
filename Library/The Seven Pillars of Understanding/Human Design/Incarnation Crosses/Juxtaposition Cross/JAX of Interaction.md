@@ -100,6 +100,7 @@ Ra emphasizes "influence without being influenced"—these individuals must main
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 07 - The Army]]
 - [[Gate 13 - The Fellowship of Man]]
@@ -126,10 +127,8 @@ Ra emphasizes "influence without being influenced"—these individuals must main
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Interaction does not merely lead—they guide through listening while remaining sovereign, accepting diversity as the very material from which collective direction emerges."*

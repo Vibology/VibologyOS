@@ -96,6 +96,7 @@ Gate 48's well of understanding is applied to **partnership and connection**. Th
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 48 - The Well]]
 - [[Gate 21 - Biting Through]]
@@ -119,10 +120,8 @@ Gate 48's well of understanding is applied to **partnership and connection**. Th
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"Depth in service of relationship—the understanding that provokes workable solutions."*

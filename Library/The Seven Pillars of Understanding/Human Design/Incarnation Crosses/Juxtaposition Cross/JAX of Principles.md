@@ -100,6 +100,7 @@ Human rights emerges as a common theme because Gate 49's sensitivity to tribal b
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 49 - Revolution]]
 - [[Gate 04 - Youthful Folly]]
@@ -126,10 +127,8 @@ Human rights emerges as a common theme because Gate 49's sensitivity to tribal b
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Principles does not merely believe—they feel in their body what must be defended, and marshal every resource to make that defense possible."*

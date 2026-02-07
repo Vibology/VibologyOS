@@ -99,6 +99,7 @@ Ra emphasizes the combination of self-interest and service—furthering ambition
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 48 - The Well]]
 - [[Gate 21 - Biting Through]]
@@ -123,10 +124,8 @@ Ra emphasizes the combination of self-interest and service—furthering ambition
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Depth does not merely know—they offer genuine substance that helps others begin transformative journeys, their ambition served through service."*

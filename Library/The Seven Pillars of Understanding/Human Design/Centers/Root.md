@@ -156,6 +156,7 @@ The Root:
 - **Fuels nine different life processes** — Each gate's pressure drives a unique evolutionary theme
 
 ---
+
 ## Cross-References
 
 - **Motor Centers:** See [[Sacral]], [[Solar Plexus]], [[Heart]] for the other motors
@@ -185,23 +186,15 @@ The Root:
 *The Root is the pressure to move—the adrenaline-fueled urgency that propels humanity forward, the stress that signals danger, the momentum that sustains evolution. For some, this pressure is reliable and consistent, a fixed drive to complete and transform. For others, it is amplified and borrowed, a constant rush to be free of urgency that paradoxically creates more stress. To honor the Root is to recognize that pressure, when correct, is fuel—but when amplified or chronic, it is burnout waiting to happen.*
 
 ---
-## Footnotes
+
+## Notes
 
 [^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Root Center biological correlation to adrenal system and stress hormones (cortisol, adrenaline)
+
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Root Center dual classification as both a pressure center and a motor center
+
 [^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Root Center definition statistics (~60% defined, ~40% undefined)
+
 [^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — nine gates of the Root Center and their distinct evolutionary pressures
 
-## Sources
-
-Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
-- Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority
-
-**Verification Notes:**
-- Human Design system synthesizes I-Ching (64 hexagrams → 64 Gates), Astrology (planetary activations), Kabbalah/Tree of Life (Sephiroth → 9 Centers), and Hindu-Brahmin Chakra system
-- Ra Uru Hu received the system in 1987 on Ibiza; he systematized and taught it, but did not "create" it
-- All mechanical definitions verified against *The Definitive Book of Human Design* (2011)
-- Cross-system correspondences (Jungian, Tarot, Qabalah) marked as Vibology Synthesis where applicable
-
 ---
-

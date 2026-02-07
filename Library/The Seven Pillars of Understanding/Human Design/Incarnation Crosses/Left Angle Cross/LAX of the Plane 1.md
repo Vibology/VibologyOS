@@ -103,6 +103,7 @@ Ra's keynote speaks of "the vagaries of humanity (good/bad/ugly)"—this cross h
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 36 - Darkening of the Light]]
 - [[Gate 06 - Conflict]]
@@ -126,10 +127,8 @@ Ra's keynote speaks of "the vagaries of humanity (good/bad/ugly)"—this cross h
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The mundane plane is not what hides the light—it is what the light has become, waiting to be recognized."*

@@ -100,6 +100,7 @@ Ra's keynote emphasizes "using information to assume positions of power or autho
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 64 - Before Completion]]
 - [[Gate 63 - After Completion]]
@@ -123,10 +124,8 @@ Ra's keynote emphasizes "using information to assume positions of power or autho
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one who interprets the past holds the keys to the future—may they be worthy of the trust."*

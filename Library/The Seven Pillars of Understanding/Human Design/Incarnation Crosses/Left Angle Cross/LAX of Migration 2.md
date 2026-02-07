@@ -100,6 +100,7 @@ Ra's keynote emphasizes "wanting to bring progress, development, and change to t
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 40 - Deliverance]]
 - [[Gate 37 - The Family]]
@@ -124,10 +125,8 @@ Ra's keynote emphasizes "wanting to bring progress, development, and change to t
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"To migrate is not to leave—it is to expand the territory of belonging."*

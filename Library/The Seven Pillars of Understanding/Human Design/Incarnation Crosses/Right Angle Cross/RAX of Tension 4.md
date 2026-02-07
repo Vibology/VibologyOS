@@ -96,6 +96,7 @@ Gate 38's fight is oriented toward **meaning and purpose**. The opposition is cr
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 38 - Opposition]]
 - [[Gate 39 - Obstruction]]
@@ -119,10 +120,8 @@ Gate 38's fight is oriented toward **meaning and purpose**. The opposition is cr
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"Struggle as alchemy—the creative depth that knows opposition provokes spirit and purpose."*

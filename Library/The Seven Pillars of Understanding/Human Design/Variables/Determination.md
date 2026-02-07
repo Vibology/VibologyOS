@@ -434,8 +434,8 @@ Determination is the **gateway** to the other Variables.[^5] You cannot access [
 
 ---
 
-
 ## Cross-References
+
 ### Core Variables
 - [[Variables]] - Introduction to all four Variables
 - [[Environment]] - The second transformation (physical surroundings)
@@ -456,25 +456,17 @@ Determination is the **gateway** to the other Variables.[^5] You cannot access [
 - [[The Blueprint - 444 Architecture]] - The 64-fold substrate underlying Variables
 
 ---
-## Footnotes
+
+## Notes
 
 [^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Determination as the first of the Four Variables, calculated from the Color of the Design Sun/Earth
+
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Determination governs conditions and circumstances of eating, not nutritional content
+
 [^3]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Seven-year dietary regimen producing brain differentiation, heightened sensory acuity, and improved cognition
+
 [^4]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Seven-year cycle corresponding to full cellular regeneration and neural pathway reorganization
+
 [^5]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Determination as the gateway Variable; correct dietary regimen prerequisite for accessing Environment, Perspective, and Motivation
 
-## Sources
-
-Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
-- Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority
-
-**Verification Notes:**
-- Human Design system synthesizes I-Ching (64 hexagrams → 64 Gates), Astrology (planetary activations), Kabbalah/Tree of Life (Sephiroth → 9 Centers), and Hindu-Brahmin Chakra system
-- Ra Uru Hu received the system in 1987 on Ibiza; he systematized and taught it, but did not "create" it
-- Variables represent advanced layer of HD system: Four Transformations (Determination, Environment, Perspective, Motivation) calculated from Color/Tone/Base
-- Variable mechanics verified against *The Definitive Book of Human Design* (2011); detailed implementation marked as educational synthesis
-- Cross-system correspondences (Jungian, Tarot, Qabalah) marked as Vibology Synthesis where applicable
-
 ---
-

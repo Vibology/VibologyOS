@@ -101,6 +101,7 @@ Ra emphasizes "unjust laws"—these individuals feel the wrong in structures, th
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 03 - Difficulty at the Beginning]]
 - [[Gate 50 - The Cauldron]]
@@ -128,10 +129,8 @@ Ra emphasizes "unjust laws"—these individuals feel the wrong in structures, th
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Mutation does not merely change things—they strategically transform unjust structures, seeking the influence necessary to make evolution possible."*

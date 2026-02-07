@@ -100,6 +100,7 @@ Ra emphasizes "questions which have not yet been asked"—these individuals are 
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 01 - The Creative]]
 - [[Gate 02 - The Receptive]]
@@ -125,10 +126,8 @@ Ra emphasizes "questions which have not yet been asked"—these individuals are 
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Self Expression does not merely create—they answer questions not yet asked, providing creative solutions for transformations the collective hasn't even begun to imagine."*

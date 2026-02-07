@@ -147,23 +147,18 @@ The Manifestor's minority status is not accidental—their role is to **initiate
 
 *The Manifestor is the lightning strike—sudden, powerful, and impossible to predict. Their gift to the world is initiation itself: the courage to begin without waiting for permission, the clarity to move when inner truth calls, and the peace that comes from informing the world of their sovereign intent.*
 
-## Footnotes
+---
+
+## Notes
 
 [^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Manifestor defined by motor-to-Throat connection without Sacral definition
+
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Manifestor aura described as closed and repelling
+
 [^3]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Anger as the Manifestor's Not-Self Theme
+
 [^4]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Manifestors comprise approximately 9% of the population
+
 [^5]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Peace as the Manifestor's Signature, confirming correct Strategy
-
-## Sources
-
-Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
-- Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority
-
-**Verification Notes:**
-- Human Design system synthesizes I-Ching (64 hexagrams → 64 Gates), Astrology (planetary activations), Kabbalah/Tree of Life (Sephiroth → 9 Centers), and Hindu-Brahmin Chakra system
-- Ra Uru Hu received the system in 1987 on Ibiza; he systematized and taught it, but did not "create" it
-- All mechanical definitions verified against *The Definitive Book of Human Design* (2011)
-- Cross-system correspondences (Jungian, Tarot, Qabalah) marked as Vibology Synthesis where applicable
 
 ---

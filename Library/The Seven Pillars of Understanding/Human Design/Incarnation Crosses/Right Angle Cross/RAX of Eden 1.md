@@ -96,6 +96,7 @@ The Eden archetype poses the eternal question: "What must be risked to truly kno
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 36 - Darkening of the Light]]
 - [[Gate 06 - Conflict]]
@@ -114,10 +115,8 @@ The Eden archetype poses the eternal question: "What must be risked to truly kno
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"Eden is not a place to return to—it is a state to be consciously transcended through the wisdom of experience."*

@@ -101,6 +101,7 @@ Ra calls them "seers"—not mystical visionaries but pattern perceivers, those w
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 44 - Coming to Meet]]
 - [[Gate 24 - The Return]]
@@ -127,10 +128,8 @@ Ra calls them "seers"—not mystical visionaries but pattern perceivers, those w
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Alertness does not merely perceive—they see patterns across time, sensing where we've been and where we're headed, offering guidance to those wise enough to pay attention."*

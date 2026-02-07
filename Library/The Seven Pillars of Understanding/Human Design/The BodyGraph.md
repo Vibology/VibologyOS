@@ -377,7 +377,7 @@ The BodyGraph describes the **vehicle**, not the **driver**. You are the conscio
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu. *The Definitive Book of Human Design*. HDC Publishing, 2011. BodyGraph as mechanical blueprint; differentiation, not uniformity.
 
@@ -394,5 +394,3 @@ The BodyGraph describes the **vehicle**, not the **driver**. You are the conscio
 [^7]: Ra Uru Hu. *The Definitive Book of Human Design*. Section Six: Public spaces (coffee shops, malls) as aura-sampling environments for Splits.
 
 ---
-
-*"The BodyGraph is not who you are—it is the vehicle you chose. Read it as a mechanic reads an engine schematic: with precision, without judgment, and with the understanding that the driver is not the car. Know your design, honor your mechanics, and live the experiment."*

@@ -100,6 +100,7 @@ The combination of intuition (57), mystery (61), and detail (62) creates shocks 
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 51 - The Arousing]]
 - [[Gate 57 - The Gentle]]
@@ -126,10 +127,8 @@ The combination of intuition (57), mystery (61), and detail (62) creates shocks 
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Shock does not merely disrupt—they deliver lightning strikes of intuitive truth, breaking through complacency with precision that cannot be argued with."*

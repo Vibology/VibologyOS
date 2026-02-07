@@ -96,6 +96,7 @@ The question posed: "What breaks through?" The answer: intuitive truth delivered
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 51 - The Arousing]]
 - [[Gate 57 - The Gentle]]
@@ -116,10 +117,8 @@ The question posed: "What breaks through?" The answer: intuitive truth delivered
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"Penetration does not ask permission—it arrives, and everything is different."*

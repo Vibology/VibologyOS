@@ -369,16 +369,8 @@ Gate 2 teaches that **direction is not something to be found—it is something t
 
 ---
 
-*"Direction is not found—it is received. Trust your geometry to orient you."*
-
-## Footnotes
+## Notes
 
 [^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
-
-## Sources
-
-- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
-- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
-- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
 
 ---

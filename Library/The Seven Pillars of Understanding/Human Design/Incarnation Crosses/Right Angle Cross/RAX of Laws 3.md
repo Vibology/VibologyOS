@@ -96,6 +96,7 @@ The Duality context asks: "How must our laws evolve to serve authentic connectio
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 50 - The Cauldron]]
 - [[Gate 03 - Difficulty at the Beginning]]
@@ -117,10 +118,8 @@ The Duality context asks: "How must our laws evolve to serve authentic connectio
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The law that serves bonding is not carved in stone but written in living relationship."*

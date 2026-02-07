@@ -99,6 +99,7 @@ The "untested individual knowing" quality suggests that this Explainer must work
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 04 - Youthful Folly]]
 - [[Gate 49 - Revolution]]
@@ -119,10 +120,8 @@ The "untested individual knowing" quality suggests that this Explainer must work
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The explainer bonds through the patient work of being understood."*

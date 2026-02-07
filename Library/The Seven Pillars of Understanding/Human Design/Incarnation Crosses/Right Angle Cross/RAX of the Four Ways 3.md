@@ -100,6 +100,7 @@ The Four Ways (3) poses the eternal question: "What is worth the tribe's investm
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 44 - Coming to Meet]]
 - [[Gate 24 - The Return]]
@@ -121,10 +122,8 @@ The Four Ways (3) poses the eternal question: "What is worth the tribe's investm
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The Four Ways smells what approaches—and ponders whether the tribe should meet it or let it pass."*

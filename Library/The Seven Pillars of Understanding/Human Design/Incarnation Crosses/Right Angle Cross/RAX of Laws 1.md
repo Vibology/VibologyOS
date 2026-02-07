@@ -96,6 +96,7 @@ The Initiation context asks: "What principles must guide our ordering?" The answ
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 03 - Difficulty at the Beginning]]
 - [[Gate 50 - The Cauldron]]
@@ -117,10 +118,8 @@ The Initiation context asks: "What principles must guide our ordering?" The answ
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The art of law is not the elimination of chaos, but the revelation of the order already implicit within it."*

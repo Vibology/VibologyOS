@@ -96,6 +96,7 @@ The Duality context asks: "What unexpected bonds must we accept?" The answer eme
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 28 - Preponderance of the Great]]
 - [[Gate 27 - Nourishment]]
@@ -117,10 +118,8 @@ The Duality context asks: "What unexpected bonds must we accept?" The answer eme
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The unexpected responsibility does not ask if you are ready—it asks only if you will answer, and in answering, you become the example."*

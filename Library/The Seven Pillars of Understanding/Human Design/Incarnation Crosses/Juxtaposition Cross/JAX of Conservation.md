@@ -100,6 +100,7 @@ Ra emphasizes "wary risk takers"—these individuals are not fearful but prudent
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 32 - Duration]]
 - [[Gate 42 - Increase]]
@@ -126,10 +127,8 @@ Ra emphasizes "wary risk takers"—these individuals are not fearful but prudent
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Conservation does not merely keep—they steward with vision, preserving what has lasting value so future generations inherit something worth receiving."*

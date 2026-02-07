@@ -100,6 +100,7 @@ The Four Ways (1) poses the eternal question: "How does thinking evolve consciou
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 24 - The Return]]
 - [[Gate 44 - Coming to Meet]]
@@ -121,10 +122,8 @@ The Four Ways (1) poses the eternal question: "How does thinking evolve consciou
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The Four Ways returns again and again—not because it forgets, but because each return reveals what was invisible before."*

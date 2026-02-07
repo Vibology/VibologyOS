@@ -100,6 +100,7 @@ Ra emphasizes the risk-taking and the personal nature—"their own story." These
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 56 - The Wanderer]]
 - [[Gate 60 - Limitation]]
@@ -126,10 +127,8 @@ Ra emphasizes the risk-taking and the personal nature—"their own story." These
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Stimulation does not merely seek excitement—they risk for meaning, accumulate experience worth telling, and find release in sharing stories that address what it means to be alive."*

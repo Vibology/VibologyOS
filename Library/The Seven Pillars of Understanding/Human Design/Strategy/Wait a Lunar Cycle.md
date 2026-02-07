@@ -269,24 +269,20 @@ For this reason, wise communities value their Reflectors—not as participants i
 
 *Wait a Lunar Cycle is the Reflector's patient discipline—the recognition that their completely open chart requires external rhythm to find clarity. In a world obsessed with instant decisions, the Reflector's 28-day process feels impossibly slow. But their wisdom cannot be rushed: it emerges through sampling every energetic configuration, filtering conditioning from truth, observing what remains consistent across the cycle. The disappointed Reflector has forgotten this; the surprised Reflector has learned to trust the Moon's rhythm as their own. When the Reflector honors their lunar cycle, they become the clearest mirror the community has—reflecting not distortion but truth, not sickness but possibility.*
 
-## Footnotes
+---
+
+## Notes
 
 [^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Reflectors defined by all nine Centers undefined
+
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Reflectors comprise approximately 1% of the population
+
 [^3]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Reflector aura described as resistant and sampling ("Teflon quality")
+
 [^4]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — The Moon transits all 64 Gates in approximately 28.5 days
+
 [^5]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Ra's guidance to Reflectors on not internalizing Generator-majority world timing
+
 [^6]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Each Gate transit lasts approximately 10-11 hours
-
-## Sources
-
-Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
-- Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority
-
-**Verification Notes:**
-- Human Design system synthesizes I-Ching (64 hexagrams → 64 Gates), Astrology (planetary activations), Kabbalah/Tree of Life (Sephiroth → 9 Centers), and Hindu-Brahmin Chakra system
-- Ra Uru Hu received the system in 1987 on Ibiza; he systematized and taught it, but did not "create" it
-- All mechanical definitions verified against *The Definitive Book of Human Design* (2011)
-- Cross-system correspondences (Jungian, Tarot, Qabalah) marked as Vibology Synthesis where applicable
 
 ---

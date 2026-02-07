@@ -471,8 +471,8 @@ Motivation requires a full [[Human Design]] chart with **Tone/Color/Base** calcu
 
 ---
 
-
 ## Cross-References
+
 ### Core Variables
 - [[Variables]] - Introduction to all four Variables
 - [[Determination]] - The first transformation (dietary regimen)
@@ -493,26 +493,18 @@ Motivation requires a full [[Human Design]] chart with **Tone/Color/Base** calcu
 - [[Jungian Archetypes]] - The Self and individuation
 - [[Seraphim]] - Pure divine motivation
 
-
-## Footnotes
-
-[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Motivation as the fourth Variable, the underlying frequency driving the Personality/Mind, calculated from Personality Sun/Earth Color
-[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Transference as the primary distortion mechanism when the Magnetic Monopole fails to hold the correct Color frequency
-[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Harmonic Color pairs (1↔4, 2↔5, 3↔6) through which Transference operates
-[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Motivation as the final flowering of the Variable sequence, stabilizing only after years of correct Strategy, Authority, Determination, Environment, and Perspective
-[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Correct Motivation cannot be accessed from the Not-Self; requires all upstream Variables to be aligned
-
-## Sources
-
-Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
-- Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority
-
-**Verification Notes:**
-- Human Design system synthesizes I-Ching (64 hexagrams → 64 Gates), Astrology (planetary activations), Kabbalah/Tree of Life (Sephiroth → 9 Centers), and Hindu-Brahmin Chakra system
-- Ra Uru Hu received the system in 1987 on Ibiza; he systematized and taught it, but did not "create" it
-- Variables represent advanced layer of HD system: Four Transformations (Determination, Environment, Perspective, Motivation) calculated from Color/Tone/Base
-- Variable mechanics verified against *The Definitive Book of Human Design* (2011); detailed implementation marked as educational synthesis
-- Cross-system correspondences (Jungian, Tarot, Qabalah) marked as Vibology Synthesis where applicable
-
 ---
 
+## Notes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Motivation as the fourth Variable, the underlying frequency driving the Personality/Mind, calculated from Personality Sun/Earth Color
+
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Transference as the primary distortion mechanism when the Magnetic Monopole fails to hold the correct Color frequency
+
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Harmonic Color pairs (1↔4, 2↔5, 3↔6) through which Transference operates
+
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Motivation as the final flowering of the Variable sequence, stabilizing only after years of correct Strategy, Authority, Determination, Environment, and Perspective
+
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Correct Motivation cannot be accessed from the Not-Self; requires all upstream Variables to be aligned
+
+---

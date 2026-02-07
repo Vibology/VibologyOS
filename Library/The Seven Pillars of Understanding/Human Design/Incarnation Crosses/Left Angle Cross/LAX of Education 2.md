@@ -102,6 +102,7 @@ The Quarter of Mutation asks: "What needs to change? What can be transformed?" F
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 11 - Peace]]
 - [[Gate 12 - Standstill]]
@@ -126,10 +127,8 @@ The Quarter of Mutation asks: "What needs to change? What can be transformed?" F
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"Teaching is the most profound thing humans do—not because it transfers information but because it transforms consciousness, expressing the inexpressible through the integration of ideas, caution, embodiment, and love."*

@@ -100,6 +100,7 @@ The Channel 1-2 (Keeper of the Keys) forms between Design Sun and Earth—the ax
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 33 - Retreat]]
 - [[Gate 19 - Approach]]
@@ -125,10 +126,8 @@ The Channel 1-2 (Keeper of the Keys) forms between Design Sun and Earth—the ax
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Retreat does not merely withdraw—they create sanctuaries where direction can be received and creativity can flow, understanding that beauty and security are prerequisites for the soul's work."*

@@ -96,6 +96,7 @@ The fuel (Gate 58) is specifically oriented toward **civilizational patterns**. 
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 52 - Keeping Still]]
 - [[Gate 58 - The Joyous]]
@@ -117,10 +118,8 @@ The fuel (Gate 58) is specifically oriented toward **civilizational patterns**. 
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"Responsibility made joyful—the still center from which civilizational patterns are corrected."*

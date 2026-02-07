@@ -96,6 +96,7 @@ The mutative quality demands that planning serve genuine change. Planning poses 
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 09 - The Taming Power of the Small]]
 - [[Gate 16 - Enthusiasm]]
@@ -117,10 +118,8 @@ The mutative quality demands that planning serve genuine change. Planning poses 
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The transformative perfectionist knows that rushing mutation produces only chaos—true transformation emerges when enthusiasm is tempered by the patient focus that allows all aspects to be carefully considered."*

@@ -99,6 +99,7 @@ Both Head gates (64/63) create mental pressure that flows to the Sacral (9) for 
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 09 - The Taming Power of the Small]]
 - [[Gate 16 - Enthusiasm]]
@@ -123,10 +124,8 @@ Both Head gates (64/63) create mental pressure that flows to the Sacral (9) for 
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Focus does not merely attend—they inspire the collective to concentrate on what genuinely matters for its future, transforming scattered attention into purposeful direction."*

@@ -96,6 +96,7 @@ The question posed: "What is the illusion?" The answer: that process is more imp
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 42 - Increase]]
 - [[Gate 32 - Duration]]
@@ -117,10 +118,8 @@ The question posed: "What is the illusion?" The answer: that process is more imp
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The illusion dissolves when the cycle completes—and completion reveals what was real all along."*

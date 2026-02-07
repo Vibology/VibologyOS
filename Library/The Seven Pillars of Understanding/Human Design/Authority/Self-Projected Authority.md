@@ -147,6 +147,7 @@ ed Identity** — They know who they are through speaking
 - **Guidance Through Dialogue** — They clarify direction by talking it out
 
 ---
+
 ## Cross-References
 
 - **G Center:** See [[G Center]] for the mechanical basis of Self-Projected Authority
@@ -179,23 +180,15 @@ ed Identity** — They know who they are through speaking
 *Self-Projected Authority is the intelligence of the voice—the recognition that your truth is not known until it is spoken, heard, and recognized through sound. To speak is to know, and to listen to yourself is to witness your own becoming. The sounding board is not your guide but your mirror, and in the resonance of your own voice, you hear who you are and where you are meant to go.*
 
 ---
-## Footnotes
+
+## Notes
 
 [^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Self-Projected Authority defined by G Center to Throat without motors or higher authorities
+
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Self-Projected Authority exclusive to Projectors
+
 [^3]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — G Center governs identity, direction, and love
+
 [^4]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Self-Projected Authority operates through truth revealed via vocal articulation
-
----
-## Sources
-
-Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
-- Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority
-
-**Verification Notes:**
-- Human Design system synthesizes I-Ching (64 hexagrams → 64 Gates), Astrology (planetary activations), Kabbalah/Tree of Life (Sephiroth → 9 Centers), and Hindu-Brahmin Chakra system
-- Ra Uru Hu received the system in 1987 on Ibiza; he systematized and taught it, but did not "create" it
-- All mechanical definitions verified against *The Definitive Book of Human Design* (2011)
-- Cross-system correspondences (Jungian, Tarot, Qabalah) marked as Vibology Synthesis where applicable
 
 ---

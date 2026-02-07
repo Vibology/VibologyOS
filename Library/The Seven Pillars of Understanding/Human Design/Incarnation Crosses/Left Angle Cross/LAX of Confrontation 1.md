@@ -102,6 +102,7 @@ The Quarter of Civilization asks: "What can be built? What form can this take?" 
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 45 - Gathering Together]]
 - [[Gate 26 - The Taming Power of the Great]]
@@ -126,10 +127,8 @@ The Quarter of Civilization asks: "What can be built? What form can this take?" 
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The confrontation for rulership is not personal ambition—it is trans-personal service: ensuring that in times of crisis, those who govern are those capable of leading the tribe through darkness."*

@@ -366,14 +366,10 @@ Gate 45 teaches that **rulership is sacred service**. When the individual honors
 
 *"True rulership is not domination—it is communion. The sovereign who liberates rather than controls becomes the center around which the tribe naturally gathers."*
 
-## Footnotes
+---
+
+## Notes
 
 [^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate mechanics, keynotes, and direct quotes
-
-## Sources
-
-- Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) - Gate mechanics, biology, keynotes
-- Richard Rudd, *The Gene Keys* (Gene Keys Publishing, 2009) - Shadow/Gift/Siddhi spectrum
-- Wilhelm/Baynes translation, *The I-Ching or Book of Changes* (Princeton University Press, 1950) - Hexagram wisdom
 
 ---

@@ -99,6 +99,7 @@ The "busyness" Ra mentions is characteristic of this cross. Power in service cre
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 34 - The Power of the Great]]
 - [[Gate 20 - Contemplation]]
@@ -125,10 +126,8 @@ The "busyness" Ra mentions is characteristic of this cross. Power in service cre
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Power does not merely force—they display charisma in service of community, learning when to engage and when to withdraw so the power sustains rather than burns."*

@@ -96,6 +96,7 @@ The question posed: "How does language build form?" The answer: by giving precis
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 62 - Preponderance of the Small]]
 - [[Gate 61 - Inner Truth]]
@@ -117,10 +118,8 @@ The question posed: "How does language build form?" The answer: by giving precis
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"To name a thing truly is to free it—and to free those who encounter it."*

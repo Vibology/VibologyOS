@@ -99,6 +99,7 @@ Society needs what they carry, but society's tendency to normalize threatens it.
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 01 - The Creative]]
 - [[Gate 02 - The Receptive]]
@@ -124,10 +125,8 @@ Society needs what they carry, but society's tendency to normalize threatens it.
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The Defiant who protects difference does not hide from society—they stand visible, magnetic, attracting those who need to witness that uniqueness can survive, that mutation cannot be erased."*

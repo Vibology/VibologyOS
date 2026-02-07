@@ -101,6 +101,7 @@ Ra's phrase "consequences commensurate with the crime" captures the function. Th
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 50 - The Cauldron]]
 - [[Gate 03 - Difficulty at the Beginning]]
@@ -128,10 +129,8 @@ Ra's phrase "consequences commensurate with the crime" captures the function. Th
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Values does not merely enforce—they ensure law serves justice, softening severity where needed so consequences match the wrong rather than exceeding it."*

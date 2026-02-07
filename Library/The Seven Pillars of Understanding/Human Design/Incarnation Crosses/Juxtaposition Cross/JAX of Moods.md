@@ -100,6 +100,7 @@ The "need for depth" reflects Gate 55's spiritual hunger—this is not shallow e
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 55 - Abundance]]
 - [[Gate 59 - Dispersion]]
@@ -125,10 +126,8 @@ The "need for depth" reflects Gate 55's spiritual hunger—this is not shallow e
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Moods does not transcend emotion—they descend into it, finding at the depths what the surface-dwellers will never know: that spirit lives in feeling."*

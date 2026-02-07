@@ -104,6 +104,7 @@ The emphasis on practicality is crucial: Gate 18's correction must actually work
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 18 - Work on What Has Been Spoilt]]
 - [[Gate 17 - Following]]
@@ -125,10 +126,8 @@ The emphasis on practicality is crucial: Gate 18's correction must actually work
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"True therapy disturbs complacency with beguiling innocence—challenging what isn't working so practically that healing cannot be avoided."*

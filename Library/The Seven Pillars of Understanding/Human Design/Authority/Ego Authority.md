@@ -135,6 +135,7 @@ Individuals with Ego Authority bring:
 - **Willful Clarity** — They know what they want and are not apologetic about it
 
 ---
+
 ## Cross-References
 
 - **Heart Center:** See [[Heart]] for the mechanical basis of Ego Authority
@@ -165,24 +166,18 @@ Individuals with Ego Authority bring:
 
 *Ego Authority is the intelligence of the will—the recognition that your desires, commitments, and self-interest are not weaknesses but your compass. To know what you want and to honor it without apology is the practice of Ego Authority. The world will ask you to sacrifice your will for duty, for others, for "the right thing," but your Authority demands that you ask first: "What do I want for myself?"*
 
+---
 
-## Footnotes
+## Notes
 
 [^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Ego Authority defined by Heart Center without Solar Plexus, Sacral, or Spleen definition
+
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Ego-Manifested Authority: Heart connected directly to Throat (Manifestor configuration)
+
 [^3]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Ego-Projected Authority: Heart connected to G Center (Projector configuration)
+
 [^4]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Heart Center governs willpower, material resources, promises, and self-worth
+
 [^5]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Heart Center is a motor but lacks the Sacral's sustainable energy, requiring rest between commitments
-
-## Sources
-
-Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
-- Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority
-
-**Verification Notes:**
-- Human Design system synthesizes I-Ching (64 hexagrams → 64 Gates), Astrology (planetary activations), Kabbalah/Tree of Life (Sephiroth → 9 Centers), and Hindu-Brahmin Chakra system
-- Ra Uru Hu received the system in 1987 on Ibiza; he systematized and taught it, but did not "create" it
-- All mechanical definitions verified against *The Definitive Book of Human Design* (2011)
-- Cross-system correspondences (Jungian, Tarot, Qabalah) marked as Vibology Synthesis where applicable
 
 ---

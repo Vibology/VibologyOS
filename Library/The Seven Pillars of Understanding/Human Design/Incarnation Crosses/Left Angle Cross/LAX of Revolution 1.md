@@ -101,6 +101,7 @@ The trans-personal nature means others are essential to the purpose. The Revolut
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 49 - Revolution]]
 - [[Gate 04 - Youthful Folly]]
@@ -130,10 +131,8 @@ The trans-personal nature means others are essential to the purpose. The Revolut
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"Revolution without resources is impotent; resources without principle are corrupt. The revolutionary who transforms understands that material sharing is the foundation of social peace."*

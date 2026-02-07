@@ -99,6 +99,7 @@ The "charismatic" quality emerges from the Channel 20-34 (Charisma) that forms b
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 30 - The Clinging Fire]]
 - [[Gate 29 - The Abysmal]]
@@ -123,10 +124,8 @@ The "charismatic" quality emerges from the Channel 20-34 (Charisma) that forms b
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Fates does not walk toward destiny—they are carried by it, their fire and power serving a trajectory they cannot refuse and should not attempt to."*

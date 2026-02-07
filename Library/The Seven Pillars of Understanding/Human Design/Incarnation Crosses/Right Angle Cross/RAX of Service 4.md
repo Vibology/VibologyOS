@@ -96,6 +96,7 @@ Gate 58's vitality is oriented toward **challenging the norm**. The joy isn't pa
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 58 - The Joyous]]
 - [[Gate 52 - Keeping Still]]
@@ -117,10 +118,8 @@ Gate 58's vitality is oriented toward **challenging the norm**. The joy isn't pa
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"Joy in the work of transformation—vital delight applied to the service of societal mutation."*

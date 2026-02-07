@@ -329,6 +329,7 @@ The Channel 2-14 individual must learn to **hold power without grasping** and **
 Jung's process of individuation requires **reclaiming projected power**. The Channel 2-14 individual's task is to recognize that **no one else holds the keys to their direction**—they do. When they reclaim their power and fuel their unique path, they become whole.
 
 ---
+
 ## Cross-References
 
 ### Channel and Gate Connections
@@ -374,25 +375,18 @@ Jung's process of individuation requires **reclaiming projected power**. The Cha
 - Electromagnetic Completion — How channels complete in relationships
 - Individual Empowerment vs. Collective Leadership — Distinguishing roles
 
-## Footnotes
-
-[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 2-14 connecting G Center (identity/direction) to Sacral Center (life force/power)
-[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 2-14 classified as a Generated Channel (Sacral-defined, sustainable energy)
-[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 2-14 as one of the three Tantric channels (Sacral-to-G Center connections: 2-14, 5-15, 29-46)
-[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 2-14 placement within the Individual Knowing Circuit
-[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — G Center biological association with liver and magnetic monopole orientation mechanism
-
-## Sources
-**Primary Source:**
-- Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
-
-**Cross-System Sources:**
-- Richard Rudd, *The Gene Keys: Unlocking the Higher Purpose Hidden in Your DNA* (Gene Keys Publishing, 2013)
-- Alfred Huang, *The Complete I Ching: The Definitive Translation* (Inner Traditions, 1998)
-
-**Verification Note:**
-All channel mechanics, circuitry analysis, and Ra's teachings are sourced from *The Definitive Book of Human Design* (2011). Gene Keys correspondences are from Rudd (2013). I-Ching hexagram correlations are from Huang (1998). Cross-system synthesis (Tarot, Qabalah, Jungian psychology) and biological/somatic interpretations represent **Vibology Synthesis**—integrations drawing upon verified HD mechanics but extending into archetypal and interdisciplinary correspondences.
-
 ---
 
-*"The keys to the kingdom are already in your hands. Fuel your own direction."*
+## Notes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 2-14 connecting G Center (identity/direction) to Sacral Center (life force/power)
+
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 2-14 classified as a Generated Channel (Sacral-defined, sustainable energy)
+
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 2-14 as one of the three Tantric channels (Sacral-to-G Center connections: 2-14, 5-15, 29-46)
+
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 2-14 placement within the Individual Knowing Circuit
+
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — G Center biological association with liver and magnetic monopole orientation mechanism
+
+---

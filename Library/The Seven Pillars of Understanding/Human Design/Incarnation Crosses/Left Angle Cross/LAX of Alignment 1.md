@@ -104,6 +104,7 @@ The 5/1, 5/2, 6/2, and 6/3 profiles associated with Left Angle Crosses bring the
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 27 - Nourishment]]
 - [[Gate 28 - Preponderance of the Great]]
@@ -129,10 +130,8 @@ The 5/1, 5/2, 6/2, and 6/3 profiles associated with Left Angle Crosses bring the
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The moment of transition is also the moment of opportunity. Those who know how to take advantage of the unexpected become guides for others seeking their proper alignment."*

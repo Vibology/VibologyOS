@@ -98,6 +98,7 @@ Venus's influence colors this with beauty: tradition is offered gracefully, not 
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 47 - Oppression]]
 - [[Gate 22 - Grace]]
@@ -119,10 +120,8 @@ Venus's influence colors this with beauty: tradition is offered gracefully, not 
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The legitimate sovereign borrows from the past with discernment—tradition in service of love, not control."*

@@ -101,6 +101,7 @@ The trans-personal nature means the building serves others. The Industry does no
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 30 - The Clinging Fire]]
 - [[Gate 29 - The Abysmal]]
@@ -128,10 +129,8 @@ The trans-personal nature means the building serves others. The Industry does no
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The human dynamo builds not for accumulation but for experience. Through committed work, the fire of desire becomes the foundation of humanity's progress."*

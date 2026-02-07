@@ -96,6 +96,7 @@ The placement in Initiation suggests this is foundational consciousness work: be
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 63 - After Completion]]
 - [[Gate 64 - Before Completion]]
@@ -116,10 +117,8 @@ The placement in Initiation suggests this is foundational consciousness work: be
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"Consciousness is not found through more experience, but through questioning what experience means—while flowing with life's natural rhythms."*

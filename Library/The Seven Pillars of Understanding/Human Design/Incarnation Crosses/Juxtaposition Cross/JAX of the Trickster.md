@@ -100,6 +100,7 @@ The Channel 45-26 (Surrender) forms between Personality Sun and Earth—the full
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 26 - The Taming Power of the Great]]
 - [[Gate 45 - Gathering Together]]
@@ -125,10 +126,8 @@ The Channel 45-26 (Surrender) forms between Personality Sun and Earth—the full
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The Trickster does not merely deceive—they market transformation to those who don't know they need it, opening doors to the unusual and offbeat for the inexperienced."*

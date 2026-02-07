@@ -100,6 +100,7 @@ The Channel 35-36 would connect to Gate 36 (Crisis), but here Gate 35 stands alo
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 35 - Progress]]
 - [[Gate 05 - Waiting]]
@@ -126,10 +127,8 @@ The Channel 35-36 would connect to Gate 36 (Crisis), but here Gate 35 stands alo
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Experience does not merely live—they demonstrate that consciousness transforms through the lived journey, influencing others to embrace experience as sacred path."*

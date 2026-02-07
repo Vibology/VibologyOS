@@ -100,6 +100,7 @@ Ra emphasizes "put the brakes on the Collective's run-away progress." These indi
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 40 - Deliverance]]
 - [[Gate 37 - The Family]]
@@ -126,10 +127,8 @@ Ra emphasizes "put the brakes on the Collective's run-away progress." These indi
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Denial does not merely refuse—they hold out stubbornly until the bargain is just, serving as necessary brake on progress that hasn't earned its momentum."*

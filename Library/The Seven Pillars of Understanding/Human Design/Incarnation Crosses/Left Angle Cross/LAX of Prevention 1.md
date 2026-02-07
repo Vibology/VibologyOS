@@ -102,6 +102,7 @@ Profiles 5/1, 5/2, 6/2, and 6/3 carry this cross, each bringing their unique tra
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 15 - Modesty]]
 - [[Gate 10 - Treading]]
@@ -125,10 +126,8 @@ Profiles 5/1, 5/2, 6/2, and 6/3 carry this cross, each bringing their unique tra
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"To prevent is not to condemn—it is to love humanity enough to share what you have learned from the patterns that fail."*

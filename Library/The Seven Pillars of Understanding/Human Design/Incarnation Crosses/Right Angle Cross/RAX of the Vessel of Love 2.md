@@ -96,6 +96,7 @@ The Vessel of Love (2) archetype poses the eternal question: "How do we love hum
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 15 - Modesty]]
 - [[Gate 10 - Treading]]
@@ -114,10 +115,8 @@ The Vessel of Love (2) archetype poses the eternal question: "How do we love hum
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The Vessel of Love (2) knows that the greatest service to humanity is becoming fully oneself—for diversity is love in action."*

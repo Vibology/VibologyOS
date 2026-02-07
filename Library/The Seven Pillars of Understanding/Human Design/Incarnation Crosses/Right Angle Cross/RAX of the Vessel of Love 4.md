@@ -96,6 +96,7 @@ The Vessel of Love (4) archetype poses the eternal question: "How do we change t
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 10 - Treading]]
 - [[Gate 15 - Modesty]]
@@ -114,10 +115,8 @@ The Vessel of Love (4) archetype poses the eternal question: "How do we change t
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The Vessel of Love (4) knows the paradox: the most selfless act is becoming fully oneself—for self-love is the seed of all love."*

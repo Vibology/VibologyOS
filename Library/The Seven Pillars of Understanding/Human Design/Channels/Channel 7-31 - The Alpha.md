@@ -328,6 +328,7 @@ The Channel 7-31 individual must learn to **lead only when invited** and **step 
 Jung's process of individuation requires **recognizing the difference between ego and Self**. The Channel 7-31 individual's task is to lead from the Self (collective service) rather than the ego (personal power). When they do, leadership becomes sacred.
 
 ---
+
 ## Cross-References
 
 ### Channel and Gate Connections
@@ -371,25 +372,18 @@ Jung's process of individuation requires **recognizing the difference between eg
 - Waiting for Recognition — Leading only when invited
 - Stepping Down — Releasing leadership when the role is complete
 
-## Footnotes
-
-[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 7-31 as the democratic leadership channel within the Collective Logic Circuit
-[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Projected channel type: G Center-to-Throat with no motor connection
-[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Alpha keynote: elected leadership by collective recognition, distinct from Tribal dominance
-[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Biological correlations: G Center to liver and magnetic monopole, Throat to thyroid and parathyroid
-[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — G-to-Throat channels do not carry inner Authority in the bodygraph hierarchy
-
-## Sources
-**Primary Source:**
-- Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
-
-**Cross-System Sources:**
-- Richard Rudd, *The Gene Keys: Unlocking the Higher Purpose Hidden in Your DNA* (Gene Keys Publishing, 2013)
-- Alfred Huang, *The Complete I Ching: The Definitive Translation* (Inner Traditions, 1998)
-
-**Verification Note:**
-All channel mechanics, circuitry analysis, and Ra's teachings are sourced from *The Definitive Book of Human Design* (2011). Gene Keys correspondences are from Rudd (2013). I-Ching hexagram correlations are from Huang (1998). Cross-system synthesis (Tarot, Qabalah, Jungian psychology) and biological/somatic interpretations represent **Vibology Synthesis**—integrations drawing upon verified HD mechanics but extending into archetypal and interdisciplinary correspondences.
-
 ---
 
-*"I lead because you recognize me. And when you no longer do, I step down."*
+## Notes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 7-31 as the democratic leadership channel within the Collective Logic Circuit
+
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Projected channel type: G Center-to-Throat with no motor connection
+
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Alpha keynote: elected leadership by collective recognition, distinct from Tribal dominance
+
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Biological correlations: G Center to liver and magnetic monopole, Throat to thyroid and parathyroid
+
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — G-to-Throat channels do not carry inner Authority in the bodygraph hierarchy
+
+---

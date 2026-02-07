@@ -96,6 +96,7 @@ The Sphinx (3) poses the eternal question: "What gives one the right to lead?" T
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 07 - The Army]]
 - [[Gate 13 - The Fellowship of Man]]
@@ -114,10 +115,8 @@ The Sphinx (3) poses the eternal question: "What gives one the right to lead?" T
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The Sphinx leads not by commanding the future, but by honoring the past and trusting the bonds that make direction possible."*

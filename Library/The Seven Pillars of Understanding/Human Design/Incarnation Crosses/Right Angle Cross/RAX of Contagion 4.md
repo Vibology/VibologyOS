@@ -98,6 +98,7 @@ The contagion spreads through the example of power wisely wielded. Others witnes
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 14 - Possession in Great Measure]]
 - [[Gate 08 - Holding Together]]
@@ -120,10 +121,8 @@ The contagion spreads through the example of power wisely wielded. Others witnes
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The mutative Contagion transforms power into purpose—accumulating not to possess but to empower humanity's becoming."*

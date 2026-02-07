@@ -98,6 +98,7 @@ The mutation is profound: humanity has long assumed that Individual power leads 
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 34 - The Power of the Great]]
 - [[Gate 20 - Contemplation]]
@@ -122,10 +123,8 @@ The mutation is profound: humanity has long assumed that Individual power leads 
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The Synthesizer of Duality does not transcend the dilemma—they embody its resolution, demonstrating in their very being that charisma need not be selfish, that communal love need not sacrifice the self."*

@@ -411,8 +411,8 @@ The Not-Self mind resists this. It wants to be "flexible," "adaptive," "open to 
 
 ---
 
-
 ## Cross-References
+
 ### Core Variables
 - [[Variables]] - Introduction to all four Variables
 - [[Determination]] - Dietary regimen (Design Sun/Earth Color)
@@ -434,23 +434,10 @@ The Not-Self mind resists this. It wants to be "flexible," "adaptive," "open to 
 - Qabalah - Tree of Life emanation parallels
 - [[Jungian Archetypes]] - Fixed patterns in consciousness
 
+---
 
+## Notes
 
 [^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011) — Variables (tone, color, base) as advanced hd mechanics.
 
 ---
-
-## Sources
-
-Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
-- Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority
-
-**Verification Notes:**
-- Human Design system synthesizes I-Ching (64 hexagrams → 64 Gates), Astrology (planetary activations), Kabbalah/Tree of Life (Sephiroth → 9 Centers), and Hindu-Brahmin Chakra system
-- Ra Uru Hu received the system in 1987 on Ibiza; he systematized and taught it, but did not "create" it
-- Variables represent advanced layer of HD system: Four Transformations (Determination, Environment, Perspective, Motivation) calculated from Color/Tone/Base
-- Variable mechanics verified against *The Definitive Book of Human Design* (2011); detailed implementation marked as educational synthesis
-- Cross-system correspondences (Jungian, Tarot, Qabalah) marked as Vibology Synthesis where applicable
-
----
-

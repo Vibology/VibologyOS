@@ -96,6 +96,7 @@ The civilizing quality demands that planning produce results. Planning poses the
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 16 - Enthusiasm]]
 - [[Gate 09 - The Taming Power of the Small]]
@@ -117,10 +118,8 @@ The civilizing quality demands that planning produce results. Planning poses the
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The master craftsperson knows that true progress is not achieved through shortcuts—it emerges from enthusiastic identification with the right work and the focused patience to master its every detail."*

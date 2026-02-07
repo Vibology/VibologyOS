@@ -98,6 +98,7 @@ The contagion spreads through the example of total commitment. Others witness so
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 29 - The Abysmal]]
 - [[Gate 30 - The Clinging Fire]]
@@ -120,10 +121,8 @@ The contagion spreads through the example of total commitment. Others witness so
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The bonding Contagion enters fully—not to gain or achieve, but because commitment itself is the fulfillment being sought."*

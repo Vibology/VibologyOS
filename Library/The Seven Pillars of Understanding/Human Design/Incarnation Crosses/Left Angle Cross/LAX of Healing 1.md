@@ -100,6 +100,7 @@ The "medicine" in Ra's keynote encompasses all forms of healing intervention—p
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 25 - Innocence]]
 - [[Gate 46 - Pushing Upward]]
@@ -121,10 +122,8 @@ The "medicine" in Ra's keynote encompasses all forms of healing intervention—p
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The healer does not force restoration—they embody the love of being alive so fully that others remember their own capacity for wholeness."*

@@ -104,6 +104,7 @@ Profiles 5/1, 5/2, 6/2, and 6/3 carry this cross, each bringing their unique tra
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 10 - Treading]]
 - [[Gate 15 - Modesty]]
@@ -127,10 +128,8 @@ Profiles 5/1, 5/2, 6/2, and 6/3 carry this cross, each bringing their unique tra
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The power to prevent is the power to transform—wield it with love, and it liberates; wield it with fear, and it oppresses."*

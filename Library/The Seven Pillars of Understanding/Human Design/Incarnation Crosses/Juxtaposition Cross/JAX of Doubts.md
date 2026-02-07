@@ -100,6 +100,7 @@ Ra calls them "bright, convincing and influential"—this is not mere contrarian
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 63 - After Completion]]
 - [[Gate 64 - Before Completion]]
@@ -125,10 +126,8 @@ Ra calls them "bright, convincing and influential"—this is not mere contrarian
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Doubts does not undermine—they strengthen by questioning, selling others on the truth that unexamined conclusions are the most dangerous kind."*

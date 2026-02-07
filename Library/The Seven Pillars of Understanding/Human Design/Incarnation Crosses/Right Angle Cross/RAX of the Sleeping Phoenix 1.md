@@ -96,6 +96,7 @@ The initiatory quality demands that spirit be sought actively, even if the trans
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 55 - Abundance]]
 - [[Gate 59 - Dispersion]]
@@ -116,10 +117,8 @@ The initiatory quality demands that spirit be sought actively, even if the trans
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The Phoenix sleeps not from exhaustion but from gestation—awaiting the moment when spirit, sought through love and bonding, ignites the transformation that cannot be rushed."*

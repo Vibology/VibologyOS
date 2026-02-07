@@ -99,6 +99,7 @@ The "potential depth/solutions" points to Gate 48. These individuals have genuin
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 52 - Keeping Still]]
 - [[Gate 58 - The Joyous]]
@@ -123,10 +124,8 @@ The "potential depth/solutions" points to Gate 48. These individuals have genuin
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Stillness does not merely wait—they concentrate so deeply that networks form around their presence, influence building through the magnetic power of genuine depth."*

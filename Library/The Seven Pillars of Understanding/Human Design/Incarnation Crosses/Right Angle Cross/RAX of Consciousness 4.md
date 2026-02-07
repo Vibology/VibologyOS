@@ -98,6 +98,7 @@ Hades' influence gives this cross depth: consciousness here is not surface aware
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 05 - Waiting]]
 - [[Gate 35 - Progress]]
@@ -118,10 +119,8 @@ Hades' influence gives this cross depth: consciousness here is not surface aware
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"Consciousness at its deepest is not thought but rhythm—the body's knowing of when to move and when to wait."*

@@ -100,6 +100,7 @@ The combination of Head (61) and Throat (62) creates a direct pressure-expressio
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 62 - Preponderance of the Small]]
 - [[Gate 61 - Inner Truth]]
@@ -127,10 +128,8 @@ The combination of Head (61) and Throat (62) creates a direct pressure-expressio
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Detail does not merely specify—they articulate truth with precision, building structures where every particular matters in service of law and values."*

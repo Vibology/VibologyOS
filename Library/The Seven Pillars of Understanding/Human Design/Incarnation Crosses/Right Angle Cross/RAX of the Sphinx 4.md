@@ -96,6 +96,7 @@ The Sphinx (4) poses the eternal question: "What will endure beyond me?" The ans
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 01 - The Creative]]
 - [[Gate 02 - The Receptive]]
@@ -114,10 +115,8 @@ The Sphinx (4) poses the eternal question: "What will endure beyond me?" The ans
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The Sphinx creates not to be remembered, but because true direction demands expression—and in that expression, transformation endures."*

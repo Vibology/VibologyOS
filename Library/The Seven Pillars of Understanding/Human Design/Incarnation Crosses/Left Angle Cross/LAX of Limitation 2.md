@@ -99,6 +99,7 @@ The 5/1, 5/2, 6/2, and 6/3 profiles associated with Left Angle Crosses bring the
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 32 - Duration]]
 - [[Gate 42 - Increase]]
@@ -123,10 +124,8 @@ The 5/1, 5/2, 6/2, and 6/3 profiles associated with Left Angle Crosses bring the
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"To see impermanence clearly is to know what is worth building. Those who assess duration correctly become the guides for all who wish to create something that lasts."*

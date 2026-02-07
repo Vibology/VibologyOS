@@ -98,6 +98,7 @@ Alcyone's influence suggests leadership that illuminates: the graceful ruler bri
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 22 - Grace]]
 - [[Gate 47 - Oppression]]
@@ -119,10 +120,8 @@ Alcyone's influence suggests leadership that illuminates: the graceful ruler bri
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The sovereign who listens rules longest—for their kingdom is built on understanding, not subjugation."*

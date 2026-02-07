@@ -96,6 +96,7 @@ The question posed: "How does material transformation serve spiritual awakening?
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 54 - The Marrying Maiden]]
 - [[Gate 53 - Development]]
@@ -116,10 +117,8 @@ The question posed: "How does material transformation serve spiritual awakening?
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The ladder leads upward—but the lightning strikes down."*

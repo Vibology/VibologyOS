@@ -99,6 +99,7 @@ The blind spot—"everything except themselves"—is crucial wisdom. Correction 
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 18 - Work on What Has Been Spoilt]]
 - [[Gate 17 - Following]]
@@ -123,10 +124,8 @@ The blind spot—"everything except themselves"—is crucial wisdom. Correction 
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Correction does not merely criticize—they transform, turning flaws into refinement, though wisdom comes when they turn that same discernment upon themselves."*

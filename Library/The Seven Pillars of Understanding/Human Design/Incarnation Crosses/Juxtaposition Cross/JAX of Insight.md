@@ -99,6 +99,7 @@ Ra emphasizes "a select group"—not everyone can hear individual knowing. These
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 43 - Breakthrough]]
 - [[Gate 23 - Splitting Apart]]
@@ -124,10 +125,8 @@ Ra emphasizes "a select group"—not everyone can hear individual knowing. These
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Insight does not merely perceive—they break through to unique knowing and persist in articulating it to the select few who can receive what will transform them."*

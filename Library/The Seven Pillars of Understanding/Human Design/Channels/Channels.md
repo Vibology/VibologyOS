@@ -331,12 +331,10 @@ From the Observatory, Channels are not aspirational goals or spiritual ideals. T
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu. *The Definitive Book of Human Design*. Section Five: Channel as quantum of definition; consistent life force flow; both Gates must be activated.
 
 [^2]: Ra Uru Hu. *The Definitive Book of Human Design*. Section Six: Hanging gates create electromagnetic attraction; not-self creates dependency; correct relationships are nourishing.
 
 ---
-
-*"Channels are the circuitry of your vehicle—the fixed pathways through which life force flows. You cannot change them, add to them, or remove them. You can only honor them. Live your Channels through Strategy and Authority, and they become gifts. Resist them, and they become prisons. The architecture is given. How you inhabit it is the experiment."*

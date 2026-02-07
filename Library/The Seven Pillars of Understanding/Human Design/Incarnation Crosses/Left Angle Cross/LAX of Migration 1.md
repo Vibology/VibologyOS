@@ -100,6 +100,7 @@ The "greener pastures" in Ra's keynote are not about dissatisfaction but about e
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 37 - The Family]]
 - [[Gate 40 - Deliverance]]
@@ -124,10 +125,8 @@ The "greener pastures" in Ra's keynote are not about dissatisfaction but about e
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one who migrates is not fleeing—they are carrying the fire of one hearth to kindle the next."*

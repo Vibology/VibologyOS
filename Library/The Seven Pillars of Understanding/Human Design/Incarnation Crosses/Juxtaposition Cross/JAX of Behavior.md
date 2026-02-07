@@ -99,6 +99,7 @@ The shadow edge is clear: "quick to organize or challenge that of others" can be
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 10 - Treading]]
 - [[Gate 15 - Modesty]]
@@ -124,10 +125,8 @@ The shadow edge is clear: "quick to organize or challenge that of others" can be
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Behavior does not merely act—they model authenticity while correcting, understanding that how one behaves transforms the standards by which others measure themselves."*

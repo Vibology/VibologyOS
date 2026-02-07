@@ -99,6 +99,7 @@ Ra emphasizes "controlling how and to whom"—this is not stingy but wise. Not e
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 58 - The Joyous]]
 - [[Gate 52 - Keeping Still]]
@@ -123,10 +124,8 @@ Ra emphasizes "controlling how and to whom"—this is not stingy but wise. Not e
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Vitality does not merely energize—they control the flow of their highly sought-after life force, understanding that wise distribution sustains the source that everyone needs."*

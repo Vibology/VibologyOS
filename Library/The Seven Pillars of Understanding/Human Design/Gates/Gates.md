@@ -137,6 +137,7 @@ Each Gate name in Human Design derives from its corresponding I-Ching hexagram, 
 | [[Gate 60 - Limitation]] | Acceptance | Mutation pressure |
 
 ---
+
 ## Cross-References
 
 - [[Human Design]] — System overview
@@ -147,15 +148,8 @@ Each Gate name in Human Design derives from its corresponding I-Ching hexagram, 
 
 ---
 
+## Notes
+
 [^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011) — The 64 gates as hexagram activations.
-
----
-
-## Sources
-
-- Ra Uru Hu, *The Complete Rave I'Ching* — Gate names, themes, line descriptions, and Center placements
-- Ra Uru Hu & Lynda Bunnell, *The Definitive Book of Human Design* (2011) — Gate mechanics, Channel formation, Design/Personality activation timing
-- *I-Ching (Book of Changes)* — The 64 hexagrams and six-line structure underlying the Gate system
-- Richard Rudd, *Gene Keys* (2009) — Expanded archetypal commentary on the 64 Gates through Shadow, Gift, and Siddhi frequencies
 
 ---

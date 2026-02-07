@@ -100,6 +100,7 @@ Ra's keynote emphasizes "turning people's attention toward the plight of those w
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 47 - Oppression]]
 - [[Gate 22 - Grace]]
@@ -122,10 +123,8 @@ Ra's keynote emphasizes "turning people's attention toward the plight of those w
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"Informing as art is not performance—it is the grace of making truth receivable."*

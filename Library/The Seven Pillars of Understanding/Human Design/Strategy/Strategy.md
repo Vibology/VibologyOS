@@ -192,6 +192,7 @@ Following Strategy requires:
 Strategy is the spiritual practice of **alignment**—not through transcendence or bypassing, but through embodiment of your unique mechanical truth.
 
 ---
+
 ## Cross-References
 
 - **Types:** See [[Manifestor]], [[Generator]], [[Projector]], [[Reflector]] for Type-specific Strategies
@@ -220,24 +221,20 @@ Strategy is the spiritual practice of **alignment**—not through transcendence 
 
 *Strategy is the geometry of your unique movement through life—not a moral code but a mechanical law. When you honor your Strategy, you align with the current of your design, and life becomes less resistance and more resonance. The world does not change, but your relationship to it transforms: you stop fighting the river and learn to navigate its flow.*
 
-## Footnotes
+---
+
+## Notes
 
 [^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Strategy as mechanical law, not philosophy, governing each Type's correct engagement
+
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Manifestor aura described as closed and repelling, creating unconscious resistance in others
+
 [^3]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Generator aura described as open and enveloping, designed to draw life toward them
+
 [^4]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Reflector Strategy requires waiting a full 28-day lunar cycle through all 64 Gates
+
 [^5]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — The mind's correct role as Outer Authority (witness and articulator), not Inner Authority
+
 [^6]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — The 7-year deconditioning process corresponding to one complete cellular regeneration cycle
-
-## Sources
-
-Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
-- Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority
-
-**Verification Notes:**
-- Human Design system synthesizes I-Ching (64 hexagrams → 64 Gates), Astrology (planetary activations), Kabbalah/Tree of Life (Sephiroth → 9 Centers), and Hindu-Brahmin Chakra system
-- Ra Uru Hu received the system in 1987 on Ibiza; he systematized and taught it, but did not "create" it
-- All mechanical definitions verified against *The Definitive Book of Human Design* (2011)
-- Cross-system correspondences (Jungian, Tarot, Qabalah) marked as Vibology Synthesis where applicable
 
 ---

@@ -99,6 +99,7 @@ Both Head gates (63/64) create powerful mental pressure, which flows down to the
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 16 - Enthusiasm]]
 - [[Gate 09 - The Taming Power of the Small]]
@@ -123,10 +124,8 @@ Both Head gates (63/64) create powerful mental pressure, which flows down to the
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Experimentation does not merely try things—they enthuse others into shared testing, building networks of collective discovery."*

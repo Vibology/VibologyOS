@@ -98,6 +98,7 @@ Jupiter's expansive influence fits perfectly: these are individuals who expand c
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 35 - Progress]]
 - [[Gate 05 - Waiting]]
@@ -118,10 +119,8 @@ Jupiter's expansive influence fits perfectly: these are individuals who expand c
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"True experience becomes wisdom when shared with patience—the invitation to adventure, not the demand for it."*

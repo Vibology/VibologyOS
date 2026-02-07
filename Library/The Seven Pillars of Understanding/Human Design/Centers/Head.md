@@ -122,6 +122,7 @@ The Head has three gates, each with a distinct flavor of mental pressure[^4]:
 3. **Gate 63** — Pressure to question and doubt (logic seeking proof)
 
 ---
+
 ## Cross-References
 
 - **Ajna Center:** See [[Ajna]] for where Head pressure is conceptualized
@@ -150,23 +151,15 @@ The Head has three gates, each with a distinct flavor of mental pressure[^4]:
 *The Head Center is the pressure to wonder—the ancient impulse to question existence, to seek meaning, to demand answers from the void. It does not answer; it only asks. And in that asking, it drives the mind forward, restless and relentless, until the mystery reveals itself or the question dissolves into silence.*
 
 ---
-## Footnotes
+
+## Notes
 
 [^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Head Center biological correlation to pineal gland
+
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Head Center classified as a pressure center
+
 [^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Head Center definition statistics (30% defined, 70% undefined)
+
 [^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — three gates of the Head Center (64, 61, 63) and their distinct mental pressure themes
 
-## Sources
-
-Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
-- Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority
-
-**Verification Notes:**
-- Human Design system synthesizes I-Ching (64 hexagrams → 64 Gates), Astrology (planetary activations), Kabbalah/Tree of Life (Sephiroth → 9 Centers), and Hindu-Brahmin Chakra system
-- Ra Uru Hu received the system in 1987 on Ibiza; he systematized and taught it, but did not "create" it
-- All mechanical definitions verified against *The Definitive Book of Human Design* (2011)
-- Cross-system correspondences (Jungian, Tarot, Qabalah) marked as Vibology Synthesis where applicable
-
 ---
-

@@ -98,6 +98,7 @@ The teaching is clear: uncertainty requires both right spirit and right resource
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 08 - Holding Together]]
 - [[Gate 14 - Possession in Great Measure]]
@@ -121,10 +122,8 @@ The teaching is clear: uncertainty requires both right spirit and right resource
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one who steps into uncertainty does not know the outcome—but they know that without spirit and resources aligned, the attempt cannot be made. They gather both, and then they try."*

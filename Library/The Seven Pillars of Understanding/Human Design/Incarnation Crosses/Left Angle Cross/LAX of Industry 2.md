@@ -101,6 +101,7 @@ The trans-personal karma of this cross is worked out through the bonds formed wi
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 29 - The Abysmal]]
 - [[Gate 30 - The Clinging Fire]]
@@ -128,10 +129,8 @@ The trans-personal karma of this cross is worked out through the bonds formed wi
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The unconscious charismatic shines without knowing they shine. Through the right commitments, their enormous power becomes the beacon that draws others into transformative relationship."*

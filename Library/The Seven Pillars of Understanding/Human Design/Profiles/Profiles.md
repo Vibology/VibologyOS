@@ -92,14 +92,8 @@ A 1/3 and a 5/1 with the same Incarnation Cross will fulfill similar themes thro
 
 ---
 
+## Notes
+
 [^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011) — The 12 profiles as archetypal life themes.
-
----
-
-## Sources
-
-- Ra Uru Hu & Lynda Bunnell, *The Definitive Book of Human Design* (2011) — 12 Profile combinations, line themes, three-part life of the 6th line, Right Angle / Juxtaposition / Left Angle geometry
-- Ra Uru Hu, *The Complete Rave I'Ching* — Line-level mechanics underlying Profile derivation from Sun/Earth positions
-- Chetan Parkyn, *Human Design: Discover the Person You Were Born to Be* (2009) — Accessible Profile descriptions and practical applications
 
 ---

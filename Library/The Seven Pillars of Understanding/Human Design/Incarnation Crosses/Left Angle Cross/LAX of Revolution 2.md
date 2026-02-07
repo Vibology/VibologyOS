@@ -101,6 +101,7 @@ The trans-personal karma of this cross is worked out through the bonds formed wi
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 04 - Youthful Folly]]
 - [[Gate 49 - Revolution]]
@@ -130,10 +131,8 @@ The trans-personal karma of this cross is worked out through the bonds formed wi
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The gatekeeper of revolution holds both the reasons and the resources. Through bonded discernment, they determine which transformations will be funded into reality."*

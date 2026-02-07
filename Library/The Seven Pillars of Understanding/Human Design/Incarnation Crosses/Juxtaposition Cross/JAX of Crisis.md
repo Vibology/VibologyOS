@@ -101,6 +101,7 @@ The "love for themselves and humanity" is crucial. Without self-love (Gate 10), 
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 36 - Darkening of the Light]]
 - [[Gate 06 - Conflict]]
@@ -126,10 +127,8 @@ The "love for themselves and humanity" is crucial. Without self-love (Gate 10), 
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Crisis does not flee the dark—they enter it with love for self and humanity, returning with understanding that elevates all who hear their report."*

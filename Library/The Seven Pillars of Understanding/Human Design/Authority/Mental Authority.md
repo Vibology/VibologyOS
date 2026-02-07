@@ -156,6 +156,7 @@ Individuals with Mental Authority bring:
 - **Sampling Wisdom** — They gather data from environments and people to inform decisions
 
 ---
+
 ## Cross-References
 
 - **Open Centers:** See [[Sacral]], [[Solar Plexus]], [[Spleen]], [[Heart]], [[G Center]], [[Root]] for the mechanics of openness
@@ -188,24 +189,17 @@ Individuals with Mental Authority bring:
 *Mental Authority is the intelligence of the environment—the recognition that truth is not found within but sampled from without. The mind is not your guide but your instrument, and clarity emerges not from thinking harder but from speaking, listening, and sensing the world around you. To trust the environment is to trust that your openness is not weakness but wisdom, and that the counsel of others and the feel of a space will reveal what your mind cannot.*
 
 ---
-## Footnotes
+
+## Notes
 
 [^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Mental Authority defined by no centers below the Throat
+
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Mental Authority exclusive to Projectors
+
 [^3]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Mental Authority operates without an internal decision-making center
+
 [^4]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Mental Authority Projectors have only Head, Ajna, and/or Throat defined
+
 [^5]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — The mind's correct role is thinking and Outer Authority, not decision-making
-
----
-## Sources
-
-Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
-- Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority
-
-**Verification Notes:**
-- Human Design system synthesizes I-Ching (64 hexagrams → 64 Gates), Astrology (planetary activations), Kabbalah/Tree of Life (Sephiroth → 9 Centers), and Hindu-Brahmin Chakra system
-- Ra Uru Hu received the system in 1987 on Ibiza; he systematized and taught it, but did not "create" it
-- All mechanical definitions verified against *The Definitive Book of Human Design* (2011)
-- Cross-system correspondences (Jungian, Tarot, Qabalah) marked as Vibology Synthesis where applicable
 
 ---

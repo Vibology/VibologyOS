@@ -102,6 +102,7 @@ The Quarter of Mutation asks: "What needs to change? What can be transformed?" F
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 26 - The Taming Power of the Great]]
 - [[Gate 45 - Gathering Together]]
@@ -126,10 +127,8 @@ The Quarter of Mutation asks: "What needs to change? What can be transformed?" F
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The greatest confrontation is not with external authority but with one's own reluctance to change—the powerful ego forces that resist the very transformation they create."*

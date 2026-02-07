@@ -99,6 +99,7 @@ Ra's saints comparison emphasizes both the beauty and the danger. These individu
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 29 - The Abysmal]]
 - [[Gate 30 - The Clinging Fire]]
@@ -124,10 +125,8 @@ Ra's saints comparison emphasizes both the beauty and the danger. These individu
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Commitment does not merely agree—they say yes with their whole being and sustain that yes through every trial, inspiring others through the demonstration of complete devotion."*

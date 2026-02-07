@@ -104,6 +104,7 @@ The "details about absolute laws" Ra mentions are the specific articulations (Ga
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 61 - Inner Truth]]
 - [[Gate 62 - Preponderance of the Small]]
@@ -128,10 +129,8 @@ The "details about absolute laws" Ra mentions are the specific articulations (Ga
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The Obscuration that transforms is not darkness but depth—seeing so far into the mystery that universal laws become visible as precise details."*

@@ -104,6 +104,7 @@ The "drawing attention" Ra mentions is not self-aggrandizement but **trans-perso
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 56 - The Wanderer]]
 - [[Gate 60 - Limitation]]
@@ -128,10 +129,8 @@ The "drawing attention" Ra mentions is not self-aggrandizement but **trans-perso
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The Distraction that builds civilization is not scattered attention but gathered wisdom—wandering that knows exactly where it needs to arrive."*

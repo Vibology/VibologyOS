@@ -96,6 +96,7 @@ The duality quality demands that transformation serve the bond. The Phoenix pose
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 59 - Dispersion]]
 - [[Gate 55 - Abundance]]
@@ -116,10 +117,8 @@ The duality quality demands that transformation serve the bond. The Phoenix pose
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The fertile phoenix knows that some fires cannot be kindled alone—the greatest transformations require the shelter of intimate bonding and the courage to create together."*

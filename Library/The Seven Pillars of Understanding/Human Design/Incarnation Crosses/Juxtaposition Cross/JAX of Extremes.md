@@ -99,6 +99,7 @@ Ra notes they are "unaware" of their corrective function. This is crucial—they
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 15 - Modesty]]
 - [[Gate 10 - Treading]]
@@ -123,10 +124,8 @@ Ra notes they are "unaware" of their corrective function. This is crucial—they
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Extremes does not merely differ—they shine light on what needs correcting simply by being themselves, their unusual rhythm revealing where patterns have become rigid."*

@@ -98,6 +98,7 @@ The perpetual outsider quality suggests one who serves civilization precisely by
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 23 - Splitting Apart]]
 - [[Gate 43 - Breakthrough]]
@@ -118,10 +119,8 @@ The perpetual outsider quality suggests one who serves civilization precisely by
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The outsider explains not to enter, but to enrich what they choose to remain outside of."*

@@ -100,6 +100,7 @@ The storytelling dimension (Gate 56) ensures that completed journeys become tran
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 42 - Increase]]
 - [[Gate 32 - Duration]]
@@ -126,10 +127,8 @@ The storytelling dimension (Gate 56) ensures that completed journeys become tran
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Completion does not merely finish—they honor cycles by bringing them to their natural end, running the marathon long after the crowd has dispersed."*

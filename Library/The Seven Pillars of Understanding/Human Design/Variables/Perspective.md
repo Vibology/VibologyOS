@@ -482,8 +482,8 @@ Perspective requires a full [[Human Design]] chart with **Tone/Color/Base** calc
 
 ---
 
-
 ## Cross-References
+
 ### Core Variables
 - [[Variables]] - Introduction to all four Variables
 - [[Determination]] - The first transformation (dietary regimen)
@@ -504,26 +504,18 @@ Perspective requires a full [[Human Design]] chart with **Tone/Color/Base** calc
 - [[Jungian Archetypes]] - Cognitive function parallels
 - [[The Astrolabe]] - Archetypal House resonances
 
-
-## Footnotes
-
-[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Perspective as the third Variable, the cognitive lens calculated from the Color of the Personality Nodes
-[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Distraction as the Not-Self mechanism at the Perspective level, transferring to the harmonic Color (1↔4, 2↔5, 3↔6)
-[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — The Nodes as the Independent Variable linking Design (Environment) and Personality (Perspective)
-[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Perspective stabilizes only when the body is in the correct Environment (Design Nodes)
-[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Correct Perspective becomes Outer Authority, the unique intelligence offered to others
-
-## Sources
-
-Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
-- Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority
-
-**Verification Notes:**
-- Human Design system synthesizes I-Ching (64 hexagrams → 64 Gates), Astrology (planetary activations), Kabbalah/Tree of Life (Sephiroth → 9 Centers), and Hindu-Brahmin Chakra system
-- Ra Uru Hu received the system in 1987 on Ibiza; he systematized and taught it, but did not "create" it
-- Variables represent advanced layer of HD system: Four Transformations (Determination, Environment, Perspective, Motivation) calculated from Color/Tone/Base
-- Variable mechanics verified against *The Definitive Book of Human Design* (2011); detailed implementation marked as educational synthesis
-- Cross-system correspondences (Jungian, Tarot, Qabalah) marked as Vibology Synthesis where applicable
-
 ---
 
+## Notes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Perspective as the third Variable, the cognitive lens calculated from the Color of the Personality Nodes
+
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Distraction as the Not-Self mechanism at the Perspective level, transferring to the harmonic Color (1↔4, 2↔5, 3↔6)
+
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — The Nodes as the Independent Variable linking Design (Environment) and Personality (Perspective)
+
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Perspective stabilizes only when the body is in the correct Environment (Design Nodes)
+
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Correct Perspective becomes Outer Authority, the unique intelligence offered to others
+
+---

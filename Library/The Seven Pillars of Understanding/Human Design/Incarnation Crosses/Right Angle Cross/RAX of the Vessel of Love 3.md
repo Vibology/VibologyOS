@@ -96,6 +96,7 @@ The Vessel of Love (3) archetype poses the eternal question: "What does love fee
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 46 - Pushing Upward]]
 - [[Gate 25 - Innocence]]
@@ -114,10 +115,8 @@ The Vessel of Love (3) archetype poses the eternal question: "What does love fee
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The Vessel of Love (3) teaches that the highest spiritual act may simply be: being here, in this body, fully alive to this moment."*

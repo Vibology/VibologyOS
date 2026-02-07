@@ -99,6 +99,7 @@ The "adrenalized energy" comes from both Root gates (38/39). These individuals a
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 38 - Opposition]]
 - [[Gate 39 - Obstruction]]
@@ -124,10 +125,8 @@ The "adrenalized energy" comes from both Root gates (38/39). These individuals a
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Opposition does not merely fight—they challenge with intuitive precision, forcing others to substantiate their claims or admit they cannot, serving transformation through demand."*

@@ -161,6 +161,7 @@ Purpose is not something to chase. It **reveals itself** through correct living.
 ---
 
 ## Cross-References
+
 ### Cross Geometries
 - **Right Angle Crosses** — Personal destiny (64 variations)
 - **Left Angle Crosses** — Transpersonal destiny (64 variations)
@@ -174,10 +175,8 @@ Purpose is not something to chase. It **reveals itself** through correct living.
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The Incarnation Cross is the ultimate signature of your incarnation. It's not what you do—it's what you are here to become."* — Ra Uru Hu

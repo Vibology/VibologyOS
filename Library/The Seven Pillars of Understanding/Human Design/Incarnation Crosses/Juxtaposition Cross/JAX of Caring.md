@@ -100,6 +100,7 @@ The inclusion of self-care is crucial. These individuals must retreat (Gate 33),
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 27 - Nourishment]]
 - [[Gate 28 - Preponderance of the Great]]
@@ -126,10 +127,8 @@ The inclusion of self-care is crucial. These individuals must retreat (Gate 33),
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Caring does not merely nurture others—they care about everything, including themselves, finding in this universal concern the meaning that makes life worth sustaining."*

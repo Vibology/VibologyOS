@@ -98,6 +98,7 @@ The dedication is to efficiency—not mechanical efficiency but evolutionary eff
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 43 - Breakthrough]]
 - [[Gate 23 - Splitting Apart]]
@@ -122,10 +123,8 @@ The dedication is to efficiency—not mechanical efficiency but evolutionary eff
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The Subtle Dedicant does not announce transformation—they plant it, quietly, in the soil of another's mind, and trust that mutation will find its own way to the light."*

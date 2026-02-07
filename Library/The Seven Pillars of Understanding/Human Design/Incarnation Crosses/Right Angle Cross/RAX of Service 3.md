@@ -96,6 +96,7 @@ Gate 18's correction instinct is oriented toward **relational spoilage**—the w
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 18 - Work on What Has Been Spoilt]]
 - [[Gate 17 - Following]]
@@ -117,10 +118,8 @@ Gate 18's correction instinct is oriented toward **relational spoilage**—the w
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"Correcting the archetypes—service to humanity through the perfection of relational patterns."*

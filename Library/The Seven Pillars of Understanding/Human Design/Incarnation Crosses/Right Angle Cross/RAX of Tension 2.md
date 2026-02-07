@@ -96,6 +96,7 @@ Gate 39's provocation is oriented toward **leadership and purpose**. The obstruc
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 39 - Obstruction]]
 - [[Gate 38 - Opposition]]
@@ -119,10 +120,8 @@ Gate 39's provocation is oriented toward **leadership and purpose**. The obstruc
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"Provocation as service—the tension that awakens talent, leadership, and spirit in others."*

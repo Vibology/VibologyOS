@@ -100,6 +100,7 @@ Ra emphasizes "vocal inflection"—this is not about content alone but about the
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 12 - Standstill]]
 - [[Gate 11 - Peace]]
@@ -125,10 +126,8 @@ Ra emphasizes "vocal inflection"—this is not about content alone but about the
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Articulation does not merely speak—they voice truth with such timing and quality that listeners are moved toward their own unique becoming."*

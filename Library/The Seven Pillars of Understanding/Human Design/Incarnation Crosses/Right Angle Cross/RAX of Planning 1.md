@@ -96,6 +96,7 @@ The initiatory quality demands that planning begin with clear thinking. Planning
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 37 - The Family]]
 - [[Gate 40 - Deliverance]]
@@ -117,10 +118,8 @@ The initiatory quality demands that planning begin with clear thinking. Planning
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The true planner understands that every lasting institution is built on fair bargains—agreements that honor both the need to belong and the need to be alone."*

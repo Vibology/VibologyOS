@@ -103,6 +103,7 @@ The endeavors Ra describes—"communal, business, or scientific structures"—al
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 21 - Biting Through]]
 - [[Gate 48 - The Well]]
@@ -126,10 +127,8 @@ The endeavors Ra describes—"communal, business, or scientific structures"—al
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The endeavor succeeds not through force alone, but through the wisdom to gather depth, the ambition to rise, and the courage to begin again."*

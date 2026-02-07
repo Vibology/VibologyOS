@@ -100,6 +100,7 @@ Ra emphasizes "change what is known/accepted"—this is not knowledge accumulati
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 61 - Inner Truth]]
 - [[Gate 62 - Preponderance of the Small]]
@@ -126,10 +127,8 @@ Ra emphasizes "change what is known/accepted"—this is not knowledge accumulati
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Thinking does not merely contemplate—they pursue truth deep enough to change what is known, their detailed insight transforming the very foundations of collective understanding."*

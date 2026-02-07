@@ -99,6 +99,7 @@ Ra identifies the connection between "melancholic spirit" and "financial securit
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 14 - Possession in Great Measure]]
 - [[Gate 08 - Holding Together]]
@@ -123,10 +124,8 @@ Ra identifies the connection between "melancholic spirit" and "financial securit
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Empowering does not merely possess—they resource transformation, navigating the intimate connection between spirit, security, and the material backing that makes change possible."*

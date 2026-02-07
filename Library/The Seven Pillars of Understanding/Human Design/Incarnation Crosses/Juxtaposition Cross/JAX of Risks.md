@@ -100,6 +100,7 @@ Ra identifies two motivations: "to get what they need" and "to find purpose and 
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 28 - Preponderance of the Great]]
 - [[Gate 27 - Nourishment]]
@@ -126,10 +127,8 @@ Ra identifies two motivations: "to get what they need" and "to find purpose and 
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Risks does not merely gamble—they push limits purposefully, seeking through risk what cannot be found in safety: meaning, survival, the aliveness that makes the game worth playing."*

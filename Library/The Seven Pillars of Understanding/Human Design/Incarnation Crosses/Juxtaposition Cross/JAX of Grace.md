@@ -99,6 +99,7 @@ Ra identifies them as "potent mutative agents"—the Individual circuitry gives 
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 22 - Grace]]
 - [[Gate 47 - Oppression]]
@@ -123,10 +124,8 @@ Ra identifies them as "potent mutative agents"—the Individual circuitry gives 
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Grace does not merely attend—they receive with such quality that what enters them is transformed, returned to the world as art and meaning."*

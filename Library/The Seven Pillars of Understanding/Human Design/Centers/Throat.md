@@ -142,6 +142,7 @@ The Throat Center determines **how** energy is expressed, but not **what** is co
 The Throat has **eleven gates**, more than any other center. Each gate represents a unique way of communicating or manifesting.
 
 ---
+
 ## Cross-References
 
 - **Motor Centers:** See [[Sacral]], [[Solar Plexus]], [[Heart]], [[Root]] for the sources of manifestation energy
@@ -170,24 +171,15 @@ The Throat has **eleven gates**, more than any other center. Each gate represent
 *The Throat is the Town Square—the place where all energy converges to be spoken, manifested, and brought into being. It is the bridge between inner truth and outer expression, the transformer of potential into action. To honor the Throat is to speak with purpose, to manifest with alignment, and to recognize that not all voices need to be heard at all times.*
 
 ---
-## Footnotes
+
+## Notes
 
 [^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Throat Center biological correlation to the thyroid and parathyroid glands.
+
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Classification of the Throat as the manifestation center where all energy moves to be expressed.
+
 [^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Throat definition statistics: ~72% defined, ~28% undefined.
+
 [^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Manifestation requires motor energy (Sacral, Solar Plexus, Heart, or Root) connected to the Throat.
 
 ---
-## Sources
-
-Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
-- Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority
-
-**Verification Notes:**
-- Human Design system synthesizes I-Ching (64 hexagrams → 64 Gates), Astrology (planetary activations), Kabbalah/Tree of Life (Sephiroth → 9 Centers), and Hindu-Brahmin Chakra system
-- Ra Uru Hu received the system in 1987 on Ibiza; he systematized and taught it, but did not "create" it
-- All mechanical definitions verified against *The Definitive Book of Human Design* (2011)
-- Cross-system correspondences (Jungian, Tarot, Qabalah) marked as Vibology Synthesis where applicable
-
----
-

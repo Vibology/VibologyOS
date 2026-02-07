@@ -100,6 +100,7 @@ Ra emphasizes "test the boundaries of each limitation." These individuals don't 
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 60 - Limitation]]
 - [[Gate 56 - The Wanderer]]
@@ -126,10 +127,8 @@ Ra emphasizes "test the boundaries of each limitation." These individuals don't 
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Limitation does not merely accept bounds—they maximize the potential hidden within them, testing boundaries while caring for self and others through the struggle."*

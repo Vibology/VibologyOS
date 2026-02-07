@@ -99,6 +99,7 @@ Ra emphasizes "repeating"—the insight may need to be stated many ways, many ti
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 23 - Splitting Apart]]
 - [[Gate 43 - Breakthrough]]
@@ -124,10 +125,8 @@ Ra emphasizes "repeating"—the insight may need to be stated many ways, many ti
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Assimilation does not merely speak insight—they repeat it in new forms until what was strange becomes familiar to those with grace enough to listen."*

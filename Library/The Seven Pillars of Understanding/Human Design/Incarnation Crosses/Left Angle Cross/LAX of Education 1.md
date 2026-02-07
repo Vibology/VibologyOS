@@ -102,6 +102,7 @@ The Quarter of Civilization asks: "What can be built? What form can this take?" 
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 12 - Standstill]]
 - [[Gate 11 - Peace]]
@@ -126,10 +127,8 @@ The Quarter of Civilization asks: "What can be built? What form can this take?" 
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The effective lecturer teaches not through volume of words but through the integration of cautious speech, innocent spirit, and embodied presence—seeking not audiences but graceful listeners who can receive."*

@@ -216,19 +216,12 @@ The Projector's challenge is learning to value their **insight** over output, th
 
 *The Projector is the seer in a world of doers—the one who reads the patterns no one else notices, who offers the guidance that transforms chaos into order. Their gift is not in the doing but in the seeing, not in initiation but in recognition. When the Projector waits for the correct invitation, they become the living proof that wisdom, not force, is the highest power.*
 
-## Sources
+---
+
+## Notes
 
 [^1]: Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
-- Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority
 
 [^2]: Lynda Bunnell. *Living Your Design Student Manual*. International Human Design School, Jovian Archive Corporation, 2006/2010.
-- IHDS foundation curriculum. Source for Projector subcategory definitions (Classic, Energy, Mental), pp. 117–118. Based on the work of Ra Uru Hu.
-
-**Verification Notes:**
-- Human Design system synthesizes I-Ching (64 hexagrams → 64 Gates), Astrology (planetary activations), Kabbalah/Tree of Life (Sephiroth → 9 Centers), and Hindu-Brahmin Chakra system
-- Ra Uru Hu received the system in 1987 on Ibiza; he systematized and taught it, but did not "create" it
-- All mechanical definitions verified against *The Definitive Book of Human Design* (2011)
-- Projector subcategories verified against *Living Your Design Student Manual* (Bunnell, 2006/2010)
-- Cross-system correspondences (Jungian, Tarot, Qabalah) marked as Vibology Synthesis where applicable
 
 ---

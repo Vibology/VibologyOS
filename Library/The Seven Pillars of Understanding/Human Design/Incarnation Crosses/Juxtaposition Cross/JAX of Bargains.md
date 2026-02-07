@@ -100,6 +100,7 @@ Ra describes them as "warm-hearted"—this is not manipulative deal-making but g
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 37 - The Family]]
 - [[Gate 40 - Deliverance]]
@@ -126,10 +127,8 @@ Ra describes them as "warm-hearted"—this is not manipulative deal-making but g
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The Bargainer does not merely negotiate—they feel what each party truly needs and craft agreements that leave everyone more whole than before."*

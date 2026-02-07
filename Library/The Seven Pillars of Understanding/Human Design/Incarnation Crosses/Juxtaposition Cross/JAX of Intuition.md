@@ -100,6 +100,7 @@ Ra emphasizes "break you open"—this is not gentle guidance but penetrating int
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 57 - The Gentle]]
 - [[Gate 51 - The Arousing]]
@@ -127,10 +128,8 @@ Ra emphasizes "break you open"—this is not gentle guidance but penetrating int
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Intuition does not merely sense—they break others open with penetrating knowing, creating the conditions for truth to enter where it could not before."*

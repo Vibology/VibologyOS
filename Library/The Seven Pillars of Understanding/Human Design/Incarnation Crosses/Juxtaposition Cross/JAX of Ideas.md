@@ -100,6 +100,7 @@ Ra notes they are "often fixed in a single direction." The abundance of ideas do
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 11 - Peace]]
 - [[Gate 12 - Standstill]]
@@ -126,10 +127,8 @@ Ra notes they are "often fixed in a single direction." The abundance of ideas do
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Ideas does not merely think—they collect universal concepts and transmit them prophetically, becoming teachers whose direction transforms those who receive."*

@@ -98,6 +98,7 @@ The dedication is to change itself—explaining insights that further evolution,
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 23 - Splitting Apart]]
 - [[Gate 43 - Breakthrough]]
@@ -122,10 +123,8 @@ The dedication is to change itself—explaining insights that further evolution,
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The Dedicated Teacher does not teach because they must—they teach because others must receive, because the insight seeks assimilation, because knowledge incomplete in one mind seeks completion in many."*

@@ -399,6 +399,7 @@ Channel 26-44 teaches that **influence is most powerful when invited**. When the
 This is the essence of the Tribal Ego Circuit: **using willpower to serve the tribe, not the self**.
 
 ---
+
 ## Cross-References
 
 ### Sequential Connections (Within Tribal Ego Circuit)
@@ -450,25 +451,18 @@ This is the essence of the Tribal Ego Circuit: **using willpower to serve the tr
 - Ego Sustainability — Understanding the Ego's need for rest and conservation
 - Tribal Dynamics — Understanding bargains, promises, and tribal hierarchy
 
-## Footnotes
-
-[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 26-44 as the tribal transmitter: capacity to transmit memory and convince others to surrender
-[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 26-44 classified within the Tribal Ego Circuit
-[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Projected channel type: Spleen-to-Ego with no direct Throat connection
-[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Biological correlations: Spleen to immune system, Ego/Heart to thymus and willpower
-[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Keynote of transmission: Gate 44 instinctive pattern awareness combined with Gate 26 ego-driven narrative control
-
-## Sources
-**Primary Source:**
-- Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
-
-**Cross-System Sources:**
-- Richard Rudd, *The Gene Keys: Unlocking the Higher Purpose Hidden in Your DNA* (Gene Keys Publishing, 2013)
-- Alfred Huang, *The Complete I Ching: The Definitive Translation* (Inner Traditions, 1998)
-
-**Verification Note:**
-All channel mechanics, circuitry analysis, and Ra's teachings are sourced from *The Definitive Book of Human Design* (2011). Gene Keys correspondences are from Rudd (2013). I-Ching hexagram correlations are from Huang (1998). Cross-system synthesis (Tarot, Qabalah, Jungian psychology) and biological/somatic interpretations represent **Vibology Synthesis**—integrations drawing upon verified HD mechanics but extending into archetypal and interdisciplinary correspondences.
-
 ---
 
-*"The greatest influence is not forced—it is invited. The master transmitter knows that memory serves best when offered, not imposed."*
+## Notes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 26-44 as the tribal transmitter: capacity to transmit memory and convince others to surrender
+
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 26-44 classified within the Tribal Ego Circuit
+
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Projected channel type: Spleen-to-Ego with no direct Throat connection
+
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Biological correlations: Spleen to immune system, Ego/Heart to thymus and willpower
+
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Keynote of transmission: Gate 44 instinctive pattern awareness combined with Gate 26 ego-driven narrative control
+
+---

@@ -96,6 +96,7 @@ The Civilization context asks: "What unexpected leaders must emerge to give form
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 31 - Influence]]
 - [[Gate 41 - Decrease]]
@@ -117,10 +118,8 @@ The Civilization context asks: "What unexpected leaders must emerge to give form
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The unexpected hero does not seek the role—the role seeks them, and in accepting it, they become what civilization needs."*

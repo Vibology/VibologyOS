@@ -100,6 +100,7 @@ The 5/1, 5/2, 6/2, and 6/3 profiles associated with Left Angle Crosses bring the
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 50 - The Cauldron]]
 - [[Gate 03 - Difficulty at the Beginning]]
@@ -125,10 +126,8 @@ The 5/1, 5/2, 6/2, and 6/3 profiles associated with Left Angle Crosses bring the
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"To challenge tradition is not to destroy it—it is to project what it might become. The utopian wish-maker holds the tension between what is and what could be, transforming values through relationship."*

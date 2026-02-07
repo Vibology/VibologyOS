@@ -101,6 +101,7 @@ Ra's phrase "bridge the loss of innocence" captures the function. These individu
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 06 - Conflict]]
 - [[Gate 36 - Darkening of the Light]]
@@ -127,10 +128,8 @@ Ra's phrase "bridge the loss of innocence" captures the function. These individu
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Conflict does not merely fight—they navigate friction as pathway to intimacy, creating companionship through shared crisis that others avoid."*

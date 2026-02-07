@@ -107,6 +107,7 @@ Ra's phrase "essential and inspired information which others need or want to hea
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 57 - The Gentle]]
 - [[Gate 51 - The Arousing]]
@@ -131,10 +132,8 @@ Ra's phrase "essential and inspired information which others need or want to hea
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The reluctant oracle carries essential truth not to broadcast but to be found—and when sought, to speak with intuitive precision what the seeker needs to hear."*

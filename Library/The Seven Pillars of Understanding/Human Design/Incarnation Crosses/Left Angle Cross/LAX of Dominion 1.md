@@ -100,6 +100,7 @@ Ra's keynote reveals the shadow potential: "capable of creating doubt and confus
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 63 - After Completion]]
 - [[Gate 64 - Before Completion]]
@@ -123,10 +124,8 @@ Ra's keynote reveals the shadow potential: "capable of creating doubt and confus
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"True dominion is not taken through confusion—it is earned through the wisdom that emerges when doubt has done its sacred work."*

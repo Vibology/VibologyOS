@@ -102,6 +102,7 @@ The trans-personal karma of this cross is worked out through sexual and romantic
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 59 - Dispersion]]
 - [[Gate 55 - Abundance]]
@@ -130,10 +131,8 @@ The trans-personal karma of this cross is worked out through sexual and romantic
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"Through the lessons of love and sexuality, awakened through spirit and refined through skilled attention, wisdom emerges that can transform how others experience intimate bonding."*

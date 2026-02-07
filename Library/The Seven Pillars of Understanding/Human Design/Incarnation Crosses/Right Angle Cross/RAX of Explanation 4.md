@@ -99,6 +99,7 @@ The "root of understanding" quality suggests that this Explainer gets to the fou
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 43 - Breakthrough]]
 - [[Gate 23 - Splitting Apart]]
@@ -119,10 +120,8 @@ The "root of understanding" quality suggests that this Explainer gets to the fou
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The revolutionary knower explains not to inform, but to transform."*

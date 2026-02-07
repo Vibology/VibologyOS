@@ -104,6 +104,7 @@ The 5/1, 5/2, 6/2, and 6/3 profiles associated with Left Angle Crosses bring the
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 03 - Difficulty at the Beginning]]
 - [[Gate 50 - The Cauldron]]
@@ -129,10 +130,8 @@ The 5/1, 5/2, 6/2, and 6/3 profiles associated with Left Angle Crosses bring the
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"True altruism is not mere kindness—it is the capacity to see and create new orderings that genuinely improve life. The seduction of the wish-maker lies in their influence toward better possibilities."*

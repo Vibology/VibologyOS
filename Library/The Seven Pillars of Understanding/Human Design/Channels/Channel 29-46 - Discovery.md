@@ -401,6 +401,7 @@ Channel 29-46 teaches that **discovery happens through committed experience, not
 This is the essence of the Tantric channels: **the life-force energy reveals identity and direction when aligned with response**.
 
 ---
+
 ## Cross-References
 
 ### Sequential Connections (Within Collective Abstract Circuit)
@@ -453,25 +454,18 @@ This is the essence of the Tantric channels: **the life-force energy reveals ide
 - The 7-Year Deconditioning Cycle — Returning to aligned commitment
 - Tantric Practice — Understanding Sacral-G energy and sexual/creative force
 
-## Footnotes
-
-[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 29-46 as one of three Tantric channels connecting Sacral to G Center
-[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel keynote: succeeding where others fail through commitment and serendipity
-[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 29-46 classified within the Collective Sensing (Abstract) Circuit
-[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Generated Tantric channel type: Sacral-to-G Center life-force fueling identity
-[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Biological correlations: Sacral to sexual/reproductive energy, G Center to liver and magnetic monopole
-
-## Sources
-**Primary Source:**
-- Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
-
-**Cross-System Sources:**
-- Richard Rudd, *The Gene Keys: Unlocking the Higher Purpose Hidden in Your DNA* (Gene Keys Publishing, 2013)
-- Alfred Huang, *The Complete I Ching: The Definitive Translation* (Inner Traditions, 1998)
-
-**Verification Note:**
-All channel mechanics, circuitry analysis, and Ra's teachings are sourced from *The Definitive Book of Human Design* (2011). Gene Keys correspondences are from Rudd (2013). I-Ching hexagram correlations are from Huang (1998). Cross-system synthesis (Tarot, Qabalah, Jungian psychology) and biological/somatic interpretations represent **Vibology Synthesis**—integrations drawing upon verified HD mechanics but extending into archetypal and interdisciplinary correspondences.
-
 ---
 
-*"Discovery is not found in the mind—it is found in the body, through committed experience. Say 'yes' when the Sacral responds, and life reveals what you could never have planned."*
+## Notes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 29-46 as one of three Tantric channels connecting Sacral to G Center
+
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel keynote: succeeding where others fail through commitment and serendipity
+
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 29-46 classified within the Collective Sensing (Abstract) Circuit
+
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Generated Tantric channel type: Sacral-to-G Center life-force fueling identity
+
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Biological correlations: Sacral to sexual/reproductive energy, G Center to liver and magnetic monopole
+
+---

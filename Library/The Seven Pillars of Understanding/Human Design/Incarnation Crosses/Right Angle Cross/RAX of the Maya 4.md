@@ -96,6 +96,7 @@ The question posed: "How does one think about the unknowable without going mad?"
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 61 - Inner Truth]]
 - [[Gate 62 - Preponderance of the Small]]
@@ -117,10 +118,8 @@ The question posed: "How does one think about the unknowable without going mad?"
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The illusion is not that we think—it is that thinking alone can resolve the mystery. Wisdom is knowing when to speak and when to stand in silence before the unknowable."*

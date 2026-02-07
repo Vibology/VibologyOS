@@ -100,6 +100,7 @@ The keynote is **being driven**—the relentless pressure to transform one's pos
 When recognized and invited, the 32-54 individual becomes the **strategic advisor** who guides the tribe's advancement without reckless risk. Their fear of failure becomes **instinctive preservation**, and their ambition becomes **noble aspiration** serving the collective, ultimately leading to **Veneration and Ascension**—respect that transcends material hierarchy.
 
 ---
+
 ## Cross-References
 
 - [[Gate 32 - Duration]] — Continuity, adaptation, fear of failure
@@ -111,25 +112,18 @@ When recognized and invited, the 32-54 individual becomes the **strategic adviso
 - Tribal Ego Circuit — Channels of material support and hierarchy
 - Projected Channels — Recognition and invitation required
 
-## Footnotes
-
-[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 32-54 as the tribal drive for advancement through strategic ambition
-[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 32-54 classified within the Tribal Ego Circuit
-[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Projected channel type: Root-to-Spleen with no direct Throat connection
-[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Fear of failure as the driving mechanism: cautious, conservative advancement guided by Splenic instinct
-[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Biological correlations: Root to adrenal system, Spleen to immune system and survival instinct
-
-## Sources
-**Primary Source:**
-- Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
-
-**Cross-System Sources:**
-- Richard Rudd, *The Gene Keys: Unlocking the Higher Purpose Hidden in Your DNA* (Gene Keys Publishing, 2013)
-- Alfred Huang, *The Complete I Ching: The Definitive Translation* (Inner Traditions, 1998)
-
-**Verification Note:**
-All channel mechanics, circuitry analysis, and Ra's teachings are sourced from *The Definitive Book of Human Design* (2011). Gene Keys correspondences are from Rudd (2013). I-Ching hexagram correlations are from Huang (1998). Cross-system synthesis (Tarot, Qabalah, Jungian psychology) and biological/somatic interpretations represent **Vibology Synthesis**—integrations drawing upon verified HD mechanics but extending into archetypal and interdisciplinary correspondences.
-
 ---
 
-*"True transformation is invited, not forced. The one who waits to be recognized rises higher than the one who climbs without permission."*
+## Notes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 32-54 as the tribal drive for advancement through strategic ambition
+
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 32-54 classified within the Tribal Ego Circuit
+
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Projected channel type: Root-to-Spleen with no direct Throat connection
+
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Fear of failure as the driving mechanism: cautious, conservative advancement guided by Splenic instinct
+
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Biological correlations: Root to adrenal system, Spleen to immune system and survival instinct
+
+---

@@ -96,6 +96,7 @@ The Civilization context asks: "What stories must we tell to build enduring form
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 56 - The Wanderer]]
 - [[Gate 60 - Limitation]]
@@ -117,10 +118,8 @@ The Civilization context asks: "What stories must we tell to build enduring form
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The storyteller who shapes civilization carries both the magic and the weight of collective dreams."*

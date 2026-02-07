@@ -100,6 +100,7 @@ Ra's phrase "subject to the ego's interpretation/manipulation" is honest rather 
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 64 - Before Completion]]
 - [[Gate 63 - After Completion]]
@@ -125,10 +126,8 @@ Ra's phrase "subject to the ego's interpretation/manipulation" is honest rather 
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Confusion does not merely remember—they hold tribal memory knowing it's always interpreted, transmitting history with the humility of acknowledged perspective."*

@@ -221,23 +221,18 @@ When the Generator abandons their strategy:
 
 *To Respond is the Generator's alchemical law—the recognition that they are not designed to chase life but to magnetize it. Their open aura draws the world to them, and their Sacral knows immediately what is correct. The practice is trust: trusting that opportunities will arrive, trusting the body's knowing before the mind's interpretation, trusting that satisfaction emerges not from forcing but from responding to what genuinely has energy. When the Generator honors their Sacral, they become living proof that fulfillment is not found by hunting, but by recognizing what is correct when it arrives.*
 
-## Footnotes
+---
+
+## Notes
 
 [^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Generator aura as open and enveloping, designed to magnetize life
+
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Sacral response expressed through guttural sounds: "uh-huh" and "uhn-un"
+
 [^3]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Generator population: ~37% Pure, ~33% Manifesting Generators (~70% total)
+
 [^4]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Frustration as the Generator's Not-Self Theme
+
 [^5]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Pure Generator vs. Manifesting Generator: same Strategy, different rhythm of response
-
-## Sources
-
-Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
-- Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority
-
-**Verification Notes:**
-- Human Design system synthesizes I-Ching (64 hexagrams → 64 Gates), Astrology (planetary activations), Kabbalah/Tree of Life (Sephiroth → 9 Centers), and Hindu-Brahmin Chakra system
-- Ra Uru Hu received the system in 1987 on Ibiza; he systematized and taught it, but did not "create" it
-- All mechanical definitions verified against *The Definitive Book of Human Design* (2011)
-- Cross-system correspondences (Jungian, Tarot, Qabalah) marked as Vibology Synthesis where applicable
 
 ---

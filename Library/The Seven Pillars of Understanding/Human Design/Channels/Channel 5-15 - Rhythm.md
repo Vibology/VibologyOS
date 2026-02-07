@@ -325,6 +325,7 @@ The Channel 5-15 individual must learn to **trust the rhythm of life**. The gard
 Jung's process of individuation requires **patience with the psyche's natural rhythms** (Gate 5) and **balanced expression of all aspects of the Self** (Gate 15). The Channel 5-15 individual's task is to wait for the right timing and then express their direction with love and humility.
 
 ---
+
 ## Cross-References
 
 ### Channel and Gate Connections
@@ -370,25 +371,18 @@ Jung's process of individuation requires **patience with the psyche's natural rh
 - Honoring Rhythm — Living in sync with natural cycles
 - Balanced Expression — Expressing extremes with humility
 
-## Footnotes
-
-[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 5-15 as one of three Tantric channels connecting Sacral to G Center
-[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 5-15 classified within the Collective Logic/Understanding Circuit
-[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Tantric designation: Sacral sexual energy directly fueling identity and direction through the G Center
-[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Biological correlations: Sacral to ovaries/testes, G Center to liver and magnetic monopole
-[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Keynote of being in the flow: attunement to fixed universal patterns and natural rhythms
-
-## Sources
-**Primary Source:**
-- Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
-
-**Cross-System Sources:**
-- Richard Rudd, *The Gene Keys: Unlocking the Higher Purpose Hidden in Your DNA* (Gene Keys Publishing, 2013)
-- Alfred Huang, *The Complete I Ching: The Definitive Translation* (Inner Traditions, 1998)
-
-**Verification Note:**
-All channel mechanics, circuitry analysis, and Ra's teachings are sourced from *The Definitive Book of Human Design* (2011). Gene Keys correspondences are from Rudd (2013). I-Ching hexagram correlations are from Huang (1998). Cross-system synthesis (Tarot, Qabalah, Jungian psychology) and biological/somatic interpretations represent **Vibology Synthesis**—integrations drawing upon verified HD mechanics but extending into archetypal and interdisciplinary correspondences.
-
 ---
 
-*"Patience is not passive. It is the active attunement to the rhythm of life."*
+## Notes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 5-15 as one of three Tantric channels connecting Sacral to G Center
+
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 5-15 classified within the Collective Logic/Understanding Circuit
+
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Tantric designation: Sacral sexual energy directly fueling identity and direction through the G Center
+
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Biological correlations: Sacral to ovaries/testes, G Center to liver and magnetic monopole
+
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Keynote of being in the flow: attunement to fixed universal patterns and natural rhythms
+
+---

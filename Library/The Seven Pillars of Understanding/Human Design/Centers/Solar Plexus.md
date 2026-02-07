@@ -142,6 +142,7 @@ For those with Emotional Authority[^4]:
 - Clarity emerges in the **plateau**, not the high or low
 
 ---
+
 ## Cross-References
 
 - **Emotional Authority:** See [[Emotional Authority]] for decision-making through the wave
@@ -172,23 +173,15 @@ For those with Emotional Authority[^4]:
 *The Solar Plexus is the wave—the oscillating rhythm of hope and pain, expansion and contraction, intimacy and solitude. For some, the wave is internal and consistent, a biochemical tide that must be ridden to stillness. For others, the wave is external and amplified, a sensitivity to the emotional climate that reveals what others cannot see. To honor the Solar Plexus is to recognize that emotion is intelligence, not chaos, and that clarity is found not in the drama of the wave but in the calm that follows.*
 
 ---
-## Footnotes
+
+## Notes
 
 [^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Solar Plexus biological correlation to kidney, bladder, pancreas, lungs, and nervous system; definition statistics (53% defined, 47% undefined)
+
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Solar Plexus dual classification as both an awareness center and a motor center
+
 [^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Solar Plexus as the highest Authority in Human Design; if defined, Emotional Authority overrides all other authorities
+
 [^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Emotional Authority mechanics: no truth in the now, decisions made over time by riding the wave to stillness
 
-## Sources
-
-Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
-- Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority
-
-**Verification Notes:**
-- Human Design system synthesizes I-Ching (64 hexagrams → 64 Gates), Astrology (planetary activations), Kabbalah/Tree of Life (Sephiroth → 9 Centers), and Hindu-Brahmin Chakra system
-- Ra Uru Hu received the system in 1987 on Ibiza; he systematized and taught it, but did not "create" it
-- All mechanical definitions verified against *The Definitive Book of Human Design* (2011)
-- Cross-system correspondences (Jungian, Tarot, Qabalah) marked as Vibology Synthesis where applicable
-
 ---
-

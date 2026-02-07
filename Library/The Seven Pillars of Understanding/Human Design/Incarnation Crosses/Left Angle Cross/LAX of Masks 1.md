@@ -101,6 +101,7 @@ The trans-personal nature means others are essential to the purpose. The Masks d
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 13 - The Fellowship of Man]]
 - [[Gate 07 - The Army]]
@@ -129,10 +130,8 @@ The trans-personal nature means others are essential to the purpose. The Masks d
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The mask is not deception—it is the vessel that allows radical truth to be received. Those who would guide must first be recognized as guides."*

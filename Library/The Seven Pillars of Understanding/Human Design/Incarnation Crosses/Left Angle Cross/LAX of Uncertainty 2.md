@@ -98,6 +98,7 @@ The mutation is in the exchange itself—resources given transform not just the 
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 14 - Possession in Great Measure]]
 - [[Gate 08 - Holding Together]]
@@ -121,10 +122,8 @@ The mutation is in the exchange itself—resources given transform not just the 
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The provider who transforms through giving does not offer charity—they offer security that dissolves barriers, that creates the ground on which another's spirit can finally stand."*

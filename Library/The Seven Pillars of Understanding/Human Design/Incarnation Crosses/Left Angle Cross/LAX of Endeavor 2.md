@@ -105,6 +105,7 @@ Jupiter's realm emphasizes expansion through relationship. The self-created work
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 48 - The Well]]
 - [[Gate 21 - Biting Through]]
@@ -128,10 +129,8 @@ Jupiter's realm emphasizes expansion through relationship. The self-created work
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The self-publisher knows: some depths require sovereign control to express—not from ego, but because the depth itself demands undiluted offering."*

@@ -461,8 +461,8 @@ PHS consultations are typically high-investment ($200-$500+ per session) because
 
 ---
 
-
 ## Cross-References
+
 ### Core Variables
 - [[Variables]] - Introduction to all four Variables
 - [[Determination]] - Comprehensive treatment of all six dietary regimens
@@ -482,21 +482,10 @@ PHS consultations are typically high-investment ($200-$500+ per session) because
 - [[Inner Authority and Strategy]] - Somatic intelligence guiding dietary choices
 - [[The Blueprint - 444 Architecture]] - The 64-fold substrate
 
+---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (Carlsbad, CA: HDC Publishing, 2011) — Primary Health System (PHS) as the first transformation; dietary regimen based on Design Sun/Earth Color; seven-year cellular regeneration cycle and brain differentiation.
 
-**Additional Sources:**
-- Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
-- Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority
-
-**Verification Notes:**
-- Human Design system synthesizes I-Ching (64 hexagrams → 64 Gates), Astrology (planetary activations), Kabbalah/Tree of Life (Sephiroth → 9 Centers), and Hindu-Brahmin Chakra system
-- Ra Uru Hu received the system in 1987 on Ibiza; he systematized and taught it, but did not "create" it
-- Variables represent advanced layer of HD system: Four Transformations (Determination, Environment, Perspective, Motivation) calculated from Color/Tone/Base
-- Variable mechanics verified against *The Definitive Book of Human Design* (2011); detailed implementation marked as educational synthesis
-- Cross-system correspondences (Jungian, Tarot, Qabalah) marked as Vibology Synthesis where applicable
-
 ---
-

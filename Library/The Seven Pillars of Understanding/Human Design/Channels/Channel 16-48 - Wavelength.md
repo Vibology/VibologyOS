@@ -300,6 +300,7 @@ The Channel 16-48 embodies the **archetype of the Master Craftsperson**—the on
 When recognized and invited, the 16-48 individual becomes the **living demonstration of excellence**—their mastery enriches the Collective, inspiring others to dedicate themselves to their own practices. When they honor the need for recognition and release the fear of inadequacy, **Versatility and Resourcefulness** replace scattered effort, and eventually **Mastery and Wisdom** emerge—the perfection of skill that appears effortless but is built on years of devoted repetition.
 
 ---
+
 ## Cross-References
 
 - [[Gate 16 - Enthusiasm]] — Skills, talent, harmonic energy
@@ -313,25 +314,18 @@ When recognized and invited, the 16-48 individual becomes the **living demonstra
 - Gene Keys — Shadow/Gift/Siddhi framework
 - [[The Magician (I)]] — Skill and channeled mastery
 
-## Footnotes
-
-[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 16-48 as the expression of talent through mastery and repetition
-[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 16-48 connects Throat Center (Gate 16) to Spleen Center (Gate 48)
-[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 16-48 placement within the Collective Understanding/Logic Circuit
-[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 16-48 classified as Projected (Spleen is non-motor center connecting to Throat)
-[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Collective Logic Circuit channels operate through visual/optical awareness
-
-## Sources
-**Primary Source:**
-- Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
-
-**Cross-System Sources:**
-- Richard Rudd, *The Gene Keys: Unlocking the Higher Purpose Hidden in Your DNA* (Gene Keys Publishing, 2013)
-- Alfred Huang, *The Complete I Ching: The Definitive Translation* (Inner Traditions, 1998)
-
-**Verification Note:**
-All channel mechanics, circuitry analysis, and Ra's teachings are sourced from *The Definitive Book of Human Design* (2011). Gene Keys correspondences are from Rudd (2013). I-Ching hexagram correlations are from Huang (1998). Cross-system synthesis (Tarot, Qabalah, Jungian psychology) and biological/somatic interpretations represent **Vibology Synthesis**—integrations drawing upon verified HD mechanics but extending into archetypal and interdisciplinary correspondences.
-
 ---
 
-*"Talent is not given—it is earned through repetition. Depth is not shallow—it is drawn from the well of dedicated practice. Mastery is not performative—it is the gift of recognition shared."*
+## Notes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 16-48 as the expression of talent through mastery and repetition
+
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 16-48 connects Throat Center (Gate 16) to Spleen Center (Gate 48)
+
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 16-48 placement within the Collective Understanding/Logic Circuit
+
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 16-48 classified as Projected (Spleen is non-motor center connecting to Throat)
+
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Collective Logic Circuit channels operate through visual/optical awareness
+
+---

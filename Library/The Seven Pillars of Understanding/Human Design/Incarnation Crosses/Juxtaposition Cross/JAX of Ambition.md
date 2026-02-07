@@ -100,6 +100,7 @@ Ra identifies "fear of failure" not as weakness but as design. These individuals
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 54 - The Marrying Maiden]]
 - [[Gate 53 - Development]]
@@ -126,10 +127,8 @@ Ra identifies "fear of failure" not as weakness but as design. These individuals
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Ambition does not merely strive—they rise through conservative, completing effort, their fear of failure ensuring only viable transformations are pursued."*

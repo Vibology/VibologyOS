@@ -183,24 +183,16 @@ The 5/1 brings:
 
 *The 5/1 is The General—the authoritative leader projected upon by strangers to rescue, backed by deep foundational knowledge. They are seductive, drawing people in with their projected power, and they are burdened by universal expectation. Their gift is practical solutions grounded in research, and their challenge is managing a reputation that depends on delivering results. Strangers project savior status; intimates see the human. The 5/1's life is the balance between universal projection and foundational authority, between being The General and being human.*
 
-
-## Footnotes
-
-[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — 5/1 Profile as "The General" archetype, projected upon by strangers to rescue
-[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — 5/1 classified as Left Angle Profile with trans-personal karma trajectory
-[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Line 5 mechanics: universalizing projection field, reputation dependence, savior/charlatan dynamic
-[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Line 1 mechanics: introspective foundation, driven to investigate until secure
-
-## Sources
-
-Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
-- Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority
-
-**Verification Notes:**
-- Human Design system synthesizes I-Ching (64 hexagrams → 64 Gates), Astrology (planetary activations), Kabbalah/Tree of Life (Sephiroth → 9 Centers), and Hindu-Brahmin Chakra system
-- Ra Uru Hu received the system in 1987 on Ibiza; he systematized and taught it, but did not "create" it
-- All mechanical definitions verified against *The Definitive Book of Human Design* (2011)
-- Cross-system correspondences (Jungian, Tarot, Qabalah) marked as Vibology Synthesis where applicable
-
 ---
 
+## Notes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — 5/1 Profile as "The General" archetype, projected upon by strangers to rescue
+
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — 5/1 classified as Left Angle Profile with trans-personal karma trajectory
+
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Line 5 mechanics: universalizing projection field, reputation dependence, savior/charlatan dynamic
+
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Line 1 mechanics: introspective foundation, driven to investigate until secure
+
+---

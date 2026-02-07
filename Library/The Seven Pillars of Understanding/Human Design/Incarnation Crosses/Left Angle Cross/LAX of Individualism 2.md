@@ -104,6 +104,7 @@ Profiles 5/1, 5/2, 6/2, and 6/3 carry this cross, each bringing their unique tra
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 38 - Opposition]]
 - [[Gate 39 - Obstruction]]
@@ -127,10 +128,8 @@ Profiles 5/1, 5/2, 6/2, and 6/3 carry this cross, each bringing their unique tra
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The pure individual does not try to change you—they simply keep becoming themselves, and that is provocation enough."*

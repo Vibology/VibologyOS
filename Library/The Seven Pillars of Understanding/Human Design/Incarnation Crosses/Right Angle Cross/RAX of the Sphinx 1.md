@@ -96,6 +96,7 @@ The Sphinx poses the eternal question: "What is the purpose of remembering?" The
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 13 - The Fellowship of Man]]
 - [[Gate 07 - The Army]]
@@ -114,10 +115,8 @@ The Sphinx poses the eternal question: "What is the purpose of remembering?" The
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The Sphinx holds the mystery—not to withhold it, but because some truths can only be discovered through witnessing."*

@@ -304,6 +304,7 @@ The Channel 23-43 embodies the **archetype of the Maverick and the Prophet**—t
 When recognized and invited, the 23-43 individual becomes the **voice of mutation**—their insights transform the Collective's understanding, creating new patterns and possibilities. When they honor the need for recognition and timing, **Simplicity and Insight** replace complexity and deafness, and eventually **Quintessence and Epiphany** emerge—the perfect knowing expressed with perfect clarity at the perfect time.
 
 ---
+
 ## Cross-References
 
 - [[Gate 23 - Splitting Apart]] — Assimilation, simplicity, amoral knowing
@@ -317,7 +318,9 @@ When recognized and invited, the 23-43 individual becomes the **voice of mutatio
 - Gene Keys — Shadow/Gift/Siddhi framework
 - [[The Fool (0)]] — Individual mutation and leap of faith
 
-## Sources
+---
+
+## Notes
 
 [^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011) — Core channel mechanics, circuitry analysis, and Ra's teachings on Individual Knowing Circuit.
 
@@ -327,13 +330,4 @@ When recognized and invited, the 23-43 individual becomes the **voice of mutatio
 
 [^4]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011) — Projected channels (Ajna to Throat) and recognition dynamics.
 
-**Cross-System Sources:**
-- Richard Rudd, *The Gene Keys: Unlocking the Higher Purpose Hidden in Your DNA* (Gene Keys Publishing, 2013)
-- Alfred Huang, *The Complete I Ching: The Definitive Translation* (Inner Traditions, 1998)
-
-**Verification Note:**
-All channel mechanics, circuitry analysis, and Ra's teachings are sourced from *The Definitive Book of Human Design* (2011). Gene Keys correspondences are from Rudd (2013). I-Ching hexagram correlations are from Huang (1998). Cross-system synthesis (Tarot, Qabalah, Jungian psychology) and biological/somatic interpretations represent **Vibology Synthesis**—integrations drawing upon verified HD mechanics but extending into archetypal and interdisciplinary correspondences.
-
 ---
-
-*"I know, therefore I speak—but only when invited. Complexity obscures—simplicity reveals. Genius is not superiority—it is timing. Mutation is not rebellion—it is evolution's whisper heard early."*

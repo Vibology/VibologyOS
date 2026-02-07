@@ -98,6 +98,7 @@ Jupiter's expansive influence amplifies the scope: these rulers build large, gat
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 45 - Gathering Together]]
 - [[Gate 26 - The Taming Power of the Great]]
@@ -119,10 +120,8 @@ Jupiter's expansive influence amplifies the scope: these rulers build large, gat
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"Power offered is power earned—the true sovereign is recognized before they are crowned."*

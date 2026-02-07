@@ -100,6 +100,7 @@ The duality is not contradiction—it is synthesis. The individual is simultaneo
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 20 - Contemplation]]
 - [[Gate 34 - The Power of the Great]]
@@ -124,10 +125,8 @@ The duality is not contradiction—it is synthesis. The individual is simultaneo
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The Bridge-Builder of Duality does not choose between power and belonging—they embody both, impressive in their industry, trustworthy in their bargains, demonstrating that the Individual and the Tribe can share the same life."*

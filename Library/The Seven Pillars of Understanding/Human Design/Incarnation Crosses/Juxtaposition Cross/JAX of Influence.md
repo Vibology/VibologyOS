@@ -101,6 +101,7 @@ Ra emphasizes the intentionality—these individuals deliberately use their capa
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 31 - Influence]]
 - [[Gate 41 - Decrease]]
@@ -128,10 +129,8 @@ Ra emphasizes the intentionality—these individuals deliberately use their capa
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Influence does not merely lead—they intentionally deploy mind, experience, and memory to persuade, building reliable authority through demonstrated consistency."*

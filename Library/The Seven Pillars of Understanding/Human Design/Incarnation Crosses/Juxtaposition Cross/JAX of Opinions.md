@@ -99,6 +99,7 @@ The purpose is not to win arguments but to "provoke you to expose/examine your s
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 17 - Following]]
 - [[Gate 18 - Work on What Has Been Spoilt]]
@@ -124,10 +125,8 @@ The purpose is not to win arguments but to "provoke you to expose/examine your s
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Opinions does not merely judge—they provoke, using their views as catalysts for others to examine what they have avoided examining."*

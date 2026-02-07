@@ -98,6 +98,7 @@ Hades' influence gives this cross power: the promise of a better tomorrow carrie
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 26 - The Taming Power of the Great]]
 - [[Gate 45 - Gathering Together]]
@@ -119,10 +120,8 @@ Hades' influence gives this cross power: the promise of a better tomorrow carrie
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The alchemist-ruler transforms promise into reality—marketing not what could be, but what will be through their leadership."*

@@ -99,6 +99,7 @@ Ra identifies the "push-pull" tension. These individuals are deeply needed by th
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 20 - Contemplation]]
 - [[Gate 34 - The Power of the Great]]
@@ -125,10 +126,8 @@ Ra identifies the "push-pull" tension. These individuals are deeply needed by th
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of the Now does not merely exist in present time—they serve their community through powerful presence, navigating the eternal dance between belonging and necessary solitude."*

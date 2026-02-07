@@ -96,6 +96,7 @@ The Eden (2) archetype poses the eternal question: "How do we make suffering mea
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 12 - Standstill]]
 - [[Gate 11 - Peace]]
@@ -114,10 +115,8 @@ The Eden (2) archetype poses the eternal question: "How do we make suffering mea
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The artist of Eden transforms the unbearable into the beautiful—not to escape it, but to honor it."*

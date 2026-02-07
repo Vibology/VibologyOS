@@ -478,8 +478,8 @@ After age 30, if chronic exhaustion or "stuckness" persists, consider **relocati
 
 ---
 
-
 ## Cross-References
+
 ### Core Variables
 - [[Variables]] - Introduction to all four Variables
 - [[Determination]] - The first transformation (dietary regimen)
@@ -499,26 +499,18 @@ After age 30, if chronic exhaustion or "stuckness" persists, consider **relocati
 - [[Inner Authority and Strategy]] - The body's intelligence selecting correct space
 - [[The Blueprint - 444 Architecture]] - The 64-fold substrate
 
-
-## Footnotes
-
-[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Environment as the second of the Four Variables, governing correct physical surroundings
-[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Environment as a mechanical requirement encoded in the Design Crystal, not a preference or aesthetic choice
-[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Design Nodes calculated from the unconscious imprint (88 degrees before birth) determining the body's correct Environment
-[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Correct Environment acts as a filter ensuring the correct people (allies) enter your life
-[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Environment becomes relevant after Determination (dietary regimen) has differentiated the body
-
-## Sources
-
-Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
-- Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority
-
-**Verification Notes:**
-- Human Design system synthesizes I-Ching (64 hexagrams → 64 Gates), Astrology (planetary activations), Kabbalah/Tree of Life (Sephiroth → 9 Centers), and Hindu-Brahmin Chakra system
-- Ra Uru Hu received the system in 1987 on Ibiza; he systematized and taught it, but did not "create" it
-- Variables represent advanced layer of HD system: Four Transformations (Determination, Environment, Perspective, Motivation) calculated from Color/Tone/Base
-- Variable mechanics verified against *The Definitive Book of Human Design* (2011); detailed implementation marked as educational synthesis
-- Cross-system correspondences (Jungian, Tarot, Qabalah) marked as Vibology Synthesis where applicable
-
 ---
 
+## Notes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Environment as the second of the Four Variables, governing correct physical surroundings
+
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Environment as a mechanical requirement encoded in the Design Crystal, not a preference or aesthetic choice
+
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Design Nodes calculated from the unconscious imprint (88 degrees before birth) determining the body's correct Environment
+
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Correct Environment acts as a filter ensuring the correct people (allies) enter your life
+
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Environment becomes relevant after Determination (dietary regimen) has differentiated the body
+
+---

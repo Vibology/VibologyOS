@@ -96,6 +96,7 @@ The Eden (3) archetype poses the eternal question: "Can love survive the truth?"
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 06 - Conflict]]
 - [[Gate 36 - Darkening of the Light]]
@@ -114,10 +115,8 @@ The Eden (3) archetype poses the eternal question: "Can love survive the truth?"
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"Eden (3) knows the secret: the garden was never about innocence—it was about what we build together after we've lost it."*

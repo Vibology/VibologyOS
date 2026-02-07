@@ -136,6 +136,7 @@ Generators with Sacral Authority bring:
 - **Magnetic Presence** — Their correct responses draw opportunities to them
 
 ---
+
 ## Cross-References
 
 - **Sacral Center:** See [[Sacral]] for the mechanical basis of Sacral Authority
@@ -168,24 +169,17 @@ Generators with Sacral Authority bring:
 *Sacral Authority is the intelligence of the body's life force—immediate, non-verbal, and unerring. It does not explain itself, justify its knowing, or wait for the mind's approval. To trust the Sacral is to trust that the body knows what it has energy for, and to honor that knowing is to live in correct use of your life force, building only what truly satisfies.*
 
 ---
-## Footnotes
+
+## Notes
 
 [^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Sacral Authority defined by Sacral Center without Solar Plexus definition
+
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Only Generators and Manifesting Generators have defined Sacral Centers
+
 [^3]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — The Sacral as a motor center and source of sustainable life force energy
+
 [^4]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Sacral response expressed through guttural sounds: "uh-huh" and "uhn-un"
+
 [^5]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Generator population: ~37% Pure Generators, ~33% Manifesting Generators (~70% total)
-
----
-## Sources
-
-Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
-- Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority
-
-**Verification Notes:**
-- Human Design system synthesizes I-Ching (64 hexagrams → 64 Gates), Astrology (planetary activations), Kabbalah/Tree of Life (Sephiroth → 9 Centers), and Hindu-Brahmin Chakra system
-- Ra Uru Hu received the system in 1987 on Ibiza; he systematized and taught it, but did not "create" it
-- All mechanical definitions verified against *The Definitive Book of Human Design* (2011)
-- Cross-system correspondences (Jungian, Tarot, Qabalah) marked as Vibology Synthesis where applicable
 
 ---

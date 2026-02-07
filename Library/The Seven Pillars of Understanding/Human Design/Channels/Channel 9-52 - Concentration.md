@@ -328,6 +328,7 @@ The Channel 9-52 individual must learn to **honor the pulse as the path to maste
 Jung's process of individuation requires **focused attention on the psyche's contents** (Gate 9) while also **honoring the need for stillness and integration** (Gate 52). The Channel 9-52 individual's task is to concentrate on the work of becoming whole, then to rest in stillness, allowing the work to integrate.
 
 ---
+
 ## Cross-References
 
 ### Channel and Gate Connections
@@ -373,25 +374,18 @@ Jung's process of individuation requires **focused attention on the psyche's con
 - Honoring the Pulse — Learning to focus during "on" periods and rest during "off" periods
 - Mastery Through Rhythm — Perfecting skills through the cycle of concentration and stillness
 
-## Footnotes
-
-[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 9-52 as one of three Format Energy channels in the system
-[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 9-52 classified within the Collective Logic/Understanding Circuit
-[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Format Energy designation: foundational pulse creating cycles of focused concentration and release
-[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Biological correlations: Root to adrenal system, Sacral to ovaries/testes
-[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Keynote of determination: Collective Logic pulse for mastering details through sustained focused attention
-
-## Sources
-**Primary Source:**
-- Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
-
-**Cross-System Sources:**
-- Richard Rudd, *The Gene Keys: Unlocking the Higher Purpose Hidden in Your DNA* (Gene Keys Publishing, 2013)
-- Alfred Huang, *The Complete I Ching: The Definitive Translation* (Inner Traditions, 1998)
-
-**Verification Note:**
-All channel mechanics, circuitry analysis, and Ra's teachings are sourced from *The Definitive Book of Human Design* (2011). Gene Keys correspondences are from Rudd (2013). I-Ching hexagram correlations are from Huang (1998). Cross-system synthesis (Tarot, Qabalah, Jungian psychology) and biological/somatic interpretations represent **Vibology Synthesis**—integrations drawing upon verified HD mechanics but extending into archetypal and interdisciplinary correspondences.
-
 ---
 
-*"Mastery is not constant effort. It is the rhythm of focus and stillness."*
+## Notes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 9-52 as one of three Format Energy channels in the system
+
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 9-52 classified within the Collective Logic/Understanding Circuit
+
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Format Energy designation: foundational pulse creating cycles of focused concentration and release
+
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Biological correlations: Root to adrenal system, Sacral to ovaries/testes
+
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Keynote of determination: Collective Logic pulse for mastering details through sustained focused attention
+
+---

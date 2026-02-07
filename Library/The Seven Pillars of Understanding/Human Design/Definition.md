@@ -181,34 +181,33 @@ From the Observatory, Definition is not a wound to heal or a limitation to overc
 Definition is not destiny—it is structure. The quality of your life depends not on *what* Definition you have, but on whether you honor it or fight it.
 
 ---
-## Footnotes
+
+## Cross-References
+
+*See related entries within this pillar.*
+
+---
+
+## Notes
 
 [^1]: *The Definitive Book of Human Design*, Section Five — The Quantum of Channel activation and continuous life force flow
+
 [^2]: *The Definitive Book of Human Design*, Section Six — Henry Miller example: Simple Split requiring Gate 62 (Detail) to bridge Head/Ajna to Throat/Spleen/Root
+
 [^3]: *The Definitive Book of Human Design*, Section Five — Single Definition (41%), Simple Split (46%), Triple Split (11%), Quad Split (0.5%) population statistics and basic mechanics
+
 [^4]: *The Definitive Book of Human Design*, Section Five — Simple Split processing time and impulsive decision regret patterns
+
 [^5]: *The Definitive Book of Human Design*, Section Six — "You complete me" dynamic, dependency vs. healthy bridging relationships
+
 [^6]: *The Definitive Book of Human Design*, Section Six — Public spaces (coffee shops, malls) as aura-sampling environments for Splits to bridge without attachment
+
 [^7]: *The Definitive Book of Human Design*, Section Five — Triple Split impatience, aggression, and need for variety/movement; relational stagnation when confined to one person
+
 [^8]: *The Definitive Book of Human Design*, Section Five — Quad Split rigidity, slow processing, need for time and trusted confidants
+
 [^9]: *The Definitive Book of Human Design*, Section Five & Six — Type and Definition correlations; Quad Splits statistically require 8-9 defined Centers (almost always Generators/MGs)
+
 [^10]: *The Definitive Book of Human Design*, Section Six — Bridging Gates as primary conditioning source; mind obsesses over missing pieces believing they are "what you need to become"
 
 ---
-## See Also
-- [[Centers]] — The nine energy hubs whose configuration creates Definition
-- [[Channels]] — The connecting circuits that determine Definition architecture
-- [[Strategy]] — How to engage with life according to your Type
-- [[Authority]] — How to make decisions within your Definition structure
-- [[The BodyGraph]] — The visual map showing Definition patterns
-- [[Reflector]] — The only Type with No Definition
-- [[Generator]] — The Type most commonly found with Simple Split Definition
-- [[The Shadow]] — Jungian parallel to the conditioning of bridging Gates
-- [[The Syzygy]] — Jungian parallel to the "You complete me" dynamic in Simple Splits
-- [[The Transcendent Function]] — Jungian reconciliation of opposites (insufficient for Triple/Quad Splits)
-
-## Sources
-
-- Ra Uru Hu & Lynda Bunnell, *The Definitive Book of Human Design* (2011), Sections Five & Six — Definition types, population statistics, bridging Gates, conditioning mechanics, relationship dynamics, Henry Miller example
-- Ra Uru Hu, *The Complete Rave I'Ching* — Gate-level mechanics underlying Channel and Definition formation
-- C.G. Jung, *Collected Works* — Shadow projection, Syzygy (Anima/Animus), Transcendent Function, and individuation as Jungian parallels to Definition mechanics

@@ -96,6 +96,7 @@ The question posed: "What begins civilization?" The answer: someone with the pre
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 53 - Development]]
 - [[Gate 54 - The Marrying Maiden]]
@@ -116,10 +117,8 @@ The question posed: "What begins civilization?" The answer: someone with the pre
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The happiest initiator is the one who has learned that beginning is itself the completion."*

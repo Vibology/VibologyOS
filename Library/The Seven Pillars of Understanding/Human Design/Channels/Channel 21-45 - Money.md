@@ -304,6 +304,7 @@ The Channel 21-45 embodies the **archetype of the Sovereign**—the King or Quee
 When recognized and invited, the 21-45 individual becomes the **benevolent sovereign**—their material control creates security, their gathering creates education and unity. When they honor the need to inform and release the need to hoard, **Authority and Synergy** replace domination, and eventually **Valour and Communion** emerge—fearless, selfless use of power that gathers the tribe into true unity.
 
 ---
+
 ## Cross-References
 
 - [[Gate 21 - Biting Through]] — Control, the Hunter/Huntress, justified force
@@ -318,25 +319,18 @@ When recognized and invited, the 21-45 individual becomes the **benevolent sover
 - Gene Keys — Shadow/Gift/Siddhi framework
 - [[The Emperor (IV)]] — Material authority and structure
 
-## Footnotes
-
-[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 21-45 as the voice of tribal material authority and the "Money Line"
-[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 21-45 connecting Heart/Ego Center to Throat Center
-[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 21-45 placement within the Tribal Ego Circuit
-[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 21-45 as Manifesting (Ego motor center connecting directly to Throat manifestation center)
-[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Biological association of Ego Center with heart/thymus and Throat Center with thyroid
-
-## Sources
-**Primary Source:**
-- Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
-
-**Cross-System Sources:**
-- Richard Rudd, *The Gene Keys: Unlocking the Higher Purpose Hidden in Your DNA* (Gene Keys Publishing, 2013)
-- Alfred Huang, *The Complete I Ching: The Definitive Translation* (Inner Traditions, 1998)
-
-**Verification Note:**
-All channel mechanics, circuitry analysis, and Ra's teachings are sourced from *The Definitive Book of Human Design* (2011). Gene Keys correspondences are from Rudd (2013). I-Ching hexagram correlations are from Huang (1998). Cross-system synthesis (Tarot, Qabalah, Jungian psychology) and biological/somatic interpretations represent **Vibology Synthesis**—integrations drawing upon verified HD mechanics but extending into archetypal and interdisciplinary correspondences.
-
 ---
 
-*"Control is not tyranny—it is responsibility. Gathering is not dominance—it is education. Material authority is not greed—it is the willingness to provide. 'I have' is not hoarding—it is the declaration of abundance shared."*
+## Notes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 21-45 as the voice of tribal material authority and the "Money Line"
+
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 21-45 connecting Heart/Ego Center to Throat Center
+
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 21-45 placement within the Tribal Ego Circuit
+
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 21-45 as Manifesting (Ego motor center connecting directly to Throat manifestation center)
+
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Biological association of Ego Center with heart/thymus and Throat Center with thyroid
+
+---

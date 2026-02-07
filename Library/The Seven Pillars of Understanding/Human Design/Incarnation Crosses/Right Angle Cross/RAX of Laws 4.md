@@ -96,6 +96,7 @@ The Mutation context asks: "What must be preserved even as everything transforms
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 60 - Limitation]]
 - [[Gate 56 - The Wanderer]]
@@ -117,10 +118,8 @@ The Mutation context asks: "What must be preserved even as everything transforms
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The deepest transformation honors what came before even as it becomes something entirely new."*

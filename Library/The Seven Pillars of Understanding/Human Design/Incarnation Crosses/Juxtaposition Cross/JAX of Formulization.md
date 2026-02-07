@@ -100,6 +100,7 @@ Ra emphasizes the inspiring quality—these formulas don't merely organize but e
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 04 - Youthful Folly]]
 - [[Gate 49 - Revolution]]
@@ -126,10 +127,8 @@ Ra emphasizes the inspiring quality—these formulas don't merely organize but e
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Formulization does not merely think—they create empowering patterns, frameworks that give others the structure needed to move in directions they couldn't find alone."*

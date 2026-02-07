@@ -100,6 +100,7 @@ The 5/1, 5/2, 6/2, and 6/3 profiles associated with Left Angle Crosses bring the
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 44 - Coming to Meet]]
 - [[Gate 24 - The Return]]
@@ -124,10 +125,8 @@ The 5/1, 5/2, 6/2, and 6/3 profiles associated with Left Angle Crosses bring the
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"To keep the past alive is not nostalgia—it is survival. Those who ponder incarnation's meaning and connect others to ancestral wisdom become guides for the journey every soul must make."*

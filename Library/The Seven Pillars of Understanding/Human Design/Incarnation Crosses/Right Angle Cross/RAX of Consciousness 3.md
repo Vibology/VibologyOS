@@ -98,6 +98,7 @@ Venus's influence colors this with grace: the meaning-making is offered as gift,
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 64 - Before Completion]]
 - [[Gate 63 - After Completion]]
@@ -118,10 +119,8 @@ Venus's influence colors this with grace: the meaning-making is offered as gift,
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"To help another make sense of their past is one of the deepest bonds—consciousness in service of love."*

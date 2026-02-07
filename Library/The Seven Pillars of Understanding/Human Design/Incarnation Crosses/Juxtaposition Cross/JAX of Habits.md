@@ -100,6 +100,7 @@ Ra emphasizes the paradox: habits enable change. The consistency creates a stabl
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 05 - Waiting]]
 - [[Gate 35 - Progress]]
@@ -126,10 +127,8 @@ Ra emphasizes the paradox: habits enable change. The consistency creates a stabl
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Habits does not merely repeat—they maintain rhythms that create the stable ground from which transformation can safely launch, their consistency enabling rather than preventing change."*

@@ -439,7 +439,7 @@ This is not a prescription for rigidity. Each stage **emerges naturally** from t
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu. Various lectures and writings. Seven-year cellular renewal cycle; deconditioning as subtraction, not addition; timeline of Recognition, Resistance, Integration, Embodiment.
 
@@ -452,5 +452,3 @@ This is not a prescription for rigidity. Each stage **emerges naturally** from t
 [^5]: Chetan Parkyn. *The Book of Destinies: Discover the Life You Were Born to Live*. HarperElixir, 2016. Deconditioning as waking to the storyline; conditioning as living a discordant version of someone else's life; return to the destiny encoded in the Incarnation Cross.
 
 ---
-
-*"Deconditioning is not about becoming better. It is about becoming yourself. For seven years, you peel away the layers of who you thought you should be—the voices of parents, culture, trauma, fear. What remains is not perfection. It is authenticity. And authenticity, lived through Strategy and Authority, is the only 'success' that matters."*

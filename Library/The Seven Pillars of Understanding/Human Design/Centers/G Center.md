@@ -190,6 +190,7 @@ The Judgement card's **calling forth** directly parallels the Magnetic Monopole'
 For Projectors with Self-Projected Authority (G-to-Throat), Judgement's trumpet *is their own voice*. They hear their identity and direction by speaking it aloud—the sound of their own voice is the angel calling them home to themselves.
 
 ---
+
 ## Cross-References
 
 - **Self-Projected Authority:** See [[Self-Projected Authority]] for Projectors with G-to-Throat connection
@@ -219,23 +220,13 @@ For Projectors with Self-Projected Authority (G-to-Throat), Judgement's trumpet 
 *The G Center is the seat of the Self—the place where identity, direction, and love converge. For some, it is a fixed compass, always pointing true north. For others, it is a mirror, reflecting the environment and becoming anew in each context. To honor the G is to recognize that knowing who you are—or not knowing—is both sacred, and that the Magnetic Monopole pulls you along your path whether you understand it or not.*
 
 ---
-## Footnotes
+
+## Notes
 
 [^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — G Center biological correlation to the liver and blood; definition statistics: 57% defined, 43% undefined.
+
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Classification of the G Center as the identity center (seat of identity, direction, and love).
+
 [^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Self-Projected Authority as exclusive to Projectors with G-to-Throat connection.
 
 ---
-## Sources
-
-Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
-- Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority
-
-**Verification Notes:**
-- Human Design system synthesizes I-Ching (64 hexagrams → 64 Gates), Astrology (planetary activations), Kabbalah/Tree of Life (Sephiroth → 9 Centers), and Hindu-Brahmin Chakra system
-- Ra Uru Hu received the system in 1987 on Ibiza; he systematized and taught it, but did not "create" it
-- All mechanical definitions verified against *The Definitive Book of Human Design* (2011)
-- Cross-system correspondences (Jungian, Tarot, Qabalah) marked as Vibology Synthesis where applicable
-
----
-

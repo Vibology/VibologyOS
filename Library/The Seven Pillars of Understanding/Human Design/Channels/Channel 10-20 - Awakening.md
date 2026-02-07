@@ -326,6 +326,7 @@ The Channel 10-20 individual must learn that **self-love is not self-obsession**
 Jung's process of individuation is the journey to the Self. The Channel 10-20 individual's task is to **be the Self**—to love it, to express it, to live it in each moment.
 
 ---
+
 ## Cross-References
 
 ### Channel and Gate Connections
@@ -368,25 +369,18 @@ Jung's process of individuation is the journey to the Self. The Channel 10-20 in
 - Self-Love as Survival — Loving oneself as the foundation of Integration
 - Present-Moment Awareness — Living in the now
 
-## Footnotes
-
-[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 10-20 connects Gate 10 (Behavior of the Self) in the G Center with Gate 20 (Contemplation/The Now) in the Throat
-[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 10-20 classified as a Projected channel (G Center to Throat, no motor connection)
-[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 10-20 placement within the Integration/Centering Circuit
-[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Integration Channels as distinct from Individual, Collective, and Tribal circuit groups
-[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — G Center biological associations: liver, magnetic monopole, identity orientation
-
-## Sources
-**Primary Source:**
-- Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
-
-**Cross-System Sources:**
-- Richard Rudd, *The Gene Keys: Unlocking the Higher Purpose Hidden in Your DNA* (Gene Keys Publishing, 2013)
-- Alfred Huang, *The Complete I Ching: The Definitive Translation* (Inner Traditions, 1998)
-
-**Verification Note:**
-All channel mechanics, circuitry analysis, and Ra's teachings are sourced from *The Definitive Book of Human Design* (2011). Gene Keys correspondences are from Rudd (2013). I-Ching hexagram correlations are from Huang (1998). Cross-system synthesis (Tarot, Qabalah, Jungian psychology) and biological/somatic interpretations represent **Vibology Synthesis**—integrations drawing upon verified HD mechanics but extending into archetypal and interdisciplinary correspondences.
-
 ---
 
-*"I Am. Not because I prove it, but because I simply am."*
+## Notes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 10-20 connects Gate 10 (Behavior of the Self) in the G Center with Gate 20 (Contemplation/The Now) in the Throat
+
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 10-20 classified as a Projected channel (G Center to Throat, no motor connection)
+
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 10-20 placement within the Integration/Centering Circuit
+
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Integration Channels as distinct from Individual, Collective, and Tribal circuit groups
+
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — G Center biological associations: liver, magnetic monopole, identity orientation
+
+---

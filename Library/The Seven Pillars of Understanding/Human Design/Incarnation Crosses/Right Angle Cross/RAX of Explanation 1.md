@@ -99,6 +99,7 @@ The itinerant quality suggests one who travels—not geographically, but concept
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 49 - Revolution]]
 - [[Gate 04 - Youthful Folly]]
@@ -119,10 +120,8 @@ The itinerant quality suggests one who travels—not geographically, but concept
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The prophet explains not to convince, but to illuminate what necessity demands."*

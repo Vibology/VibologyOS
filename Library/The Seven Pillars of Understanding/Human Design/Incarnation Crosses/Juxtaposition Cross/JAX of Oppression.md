@@ -99,6 +99,7 @@ The Channel 12-22 (Openness) forms between Design Sun and Personality Earth—th
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 47 - Oppression]]
 - [[Gate 22 - Grace]]
@@ -123,10 +124,8 @@ The Channel 12-22 (Openness) forms between Design Sun and Personality Earth—th
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Oppression does not merely suffer—they alchemize experience into understanding, then articulate new concepts that replace what no longer serves."*

@@ -100,6 +100,7 @@ The Four Ways (4) poses the eternal question: "What does it mean to truly provid
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 19 - Approach]]
 - [[Gate 33 - Retreat]]
@@ -121,10 +122,8 @@ The Four Ways (4) poses the eternal question: "What does it mean to truly provid
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The Four Ways feels what is needed—and through four distinct modes of knowing, finds the way to provide."*

@@ -98,6 +98,7 @@ The innocence in Ra's keynote is essential: the Contagion does not set out to ch
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 30 - The Clinging Fire]]
 - [[Gate 29 - The Abysmal]]
@@ -120,10 +121,8 @@ The innocence in Ra's keynote is essential: the Contagion does not set out to ch
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The Contagion does not try to infect—it simply burns with such authentic fire that others cannot help but be ignited."*

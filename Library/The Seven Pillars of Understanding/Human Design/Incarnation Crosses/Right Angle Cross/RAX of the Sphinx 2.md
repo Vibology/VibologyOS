@@ -96,6 +96,7 @@ The Sphinx (2) poses the eternal question: "How does direction manifest into for
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 02 - The Receptive]]
 - [[Gate 01 - The Creative]]
@@ -114,10 +115,8 @@ The Sphinx (2) poses the eternal question: "How does direction manifest into for
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The Sphinx receives what must become—and through trust, direction takes form."*

@@ -100,6 +100,7 @@ The keynote is **moodiness**—the capacity to experience and express **unpredic
 When recognized and aligned (not identifying with moods, waiting for clarity), the 39-55 individual becomes the **free spirit**—the one whose emotional intensity is a **creative, mutative force** rather than a source of suffering. They embody **Dynamism and Freedom**, and ultimately **Liberation**—complete freedom from emotional identification, allowing spirit to flow unobstructed.
 
 ---
+
 ## Cross-References
 
 - [[Gate 39 - Obstruction]] — Provocation, Root pressure to obstruct and transform
@@ -110,25 +111,18 @@ When recognized and aligned (not identifying with moods, waiting for clarity), t
 - Individual Knowing Circuit — Mutation, uniqueness, acoustic knowing
 - [[Emotional Authority]] — Waiting through the wave for clarity
 
-## Footnotes
-
-[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 39-55 as the most mutative emotional energy in the system
-[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 39-55 classified within the Individual Knowing Circuit
-[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Projected channel type: Root-to-Solar Plexus with no direct Throat connection
-[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Individual emotional provocation: moods as mutative force distinct from collective emotional patterns
-[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Biological correlations: Root to adrenal system, Solar Plexus to nervous system and emotional processing
-
-## Sources
-**Primary Source:**
-- Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
-
-**Cross-System Sources:**
-- Richard Rudd, *The Gene Keys: Unlocking the Higher Purpose Hidden in Your DNA* (Gene Keys Publishing, 2013)
-- Alfred Huang, *The Complete I Ching: The Definitive Translation* (Inner Traditions, 1998)
-
-**Verification Note:**
-All channel mechanics, circuitry analysis, and Ra's teachings are sourced from *The Definitive Book of Human Design* (2011). Gene Keys correspondences are from Rudd (2013). I-Ching hexagram correlations are from Huang (1998). Cross-system synthesis (Tarot, Qabalah, Jungian psychology) and biological/somatic interpretations represent **Vibology Synthesis**—integrations drawing upon verified HD mechanics but extending into archetypal and interdisciplinary correspondences.
-
 ---
 
-*"Moods are not you—they are the spirit moving through you. Do not identify, do not resist, and freedom emerges."*
+## Notes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 39-55 as the most mutative emotional energy in the system
+
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 39-55 classified within the Individual Knowing Circuit
+
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Projected channel type: Root-to-Solar Plexus with no direct Throat connection
+
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Individual emotional provocation: moods as mutative force distinct from collective emotional patterns
+
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Biological correlations: Root to adrenal system, Solar Plexus to nervous system and emotional processing
+
+---

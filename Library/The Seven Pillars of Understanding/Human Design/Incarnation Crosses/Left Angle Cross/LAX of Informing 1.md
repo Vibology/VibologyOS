@@ -100,6 +100,7 @@ Ra's keynote emphasizes "mutating through teaching what is new." This is Individ
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 22 - Grace]]
 - [[Gate 47 - Oppression]]
@@ -122,10 +123,8 @@ Ra's keynote emphasizes "mutating through teaching what is new." This is Individ
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"To inform is not to instruct—it is to embody what is new so completely that others cannot help but be transformed."*

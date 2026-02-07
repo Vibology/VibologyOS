@@ -100,6 +100,7 @@ The Four Ways (2) poses the eternal question: "What becomes of experience when g
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 33 - Retreat]]
 - [[Gate 19 - Approach]]
@@ -121,10 +122,8 @@ The Four Ways (2) poses the eternal question: "What becomes of experience when g
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The Four Ways retreats not to hide, but to honor what experience requires before it can be given away."*

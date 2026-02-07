@@ -99,6 +99,7 @@ Ra emphasizes both the potency and the moodiness. These individuals carry intens
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 39 - Obstruction]]
 - [[Gate 38 - Opposition]]
@@ -124,10 +125,8 @@ Ra emphasizes both the potency and the moodiness. These individuals carry intens
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Provocation does not merely disturb—they use shock and obstruction with intuitive precision, understanding that their moods and challenges serve the awakening of others."*

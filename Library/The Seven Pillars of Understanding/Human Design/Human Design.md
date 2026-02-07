@@ -157,6 +157,7 @@ Over time, deconditioning occurs: the body remembers its original intelligence, 
 This is not transcendence. It is **alignment**—the recognition that you are a vehicle designed to move in a specific way, and when you honor that design, life becomes less resistance and more resonance.
 
 ---
+
 ## Cross-References
 
 ### Within Human Design
@@ -200,20 +201,10 @@ Human Design is mechanics, not philosophy. It does not tell you *who you should 
 
 *Human Design is the map of differentiation—the precise schematic of how your vehicle is designed to navigate the totality. It does not promise enlightenment or transcendence. It offers something more valuable: the recognition that your body already knows how to move correctly, and the mind's job is not to control but to witness. To live your Design is not to follow rules but to honor mechanics. And in that honoring, the Signature emerges—not as achievement but as confirmation that you have stopped fighting the current and learned, at last, to flow.*
 
-
-[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011) — All human design mechanics (types, centers, channels, gates, profiles, strategy, authority).
-
 ---
 
-## Sources
+## Notes
 
-Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
-- Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority
-
-**Verification Notes:**
-- Human Design system synthesizes I-Ching (64 hexagrams → 64 Gates), Astrology (planetary activations), Kabbalah/Tree of Life (Sephiroth → 9 Centers), and Hindu-Brahmin Chakra system
-- Ra Uru Hu received the system in 1987 on Ibiza; he systematized and taught it, but did not "create" it
-- All mechanical definitions verified against *The Definitive Book of Human Design* (2011)
-- Cross-system correspondences (Jungian, Tarot, Qabalah) marked as Vibology Synthesis where applicable
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011) — All human design mechanics (types, centers, channels, gates, profiles, strategy, authority).
 
 ---

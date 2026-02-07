@@ -96,6 +96,7 @@ The question posed: "What makes a bond worth preserving?" The answer: the spleni
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 32 - Duration]]
 - [[Gate 42 - Increase]]
@@ -117,10 +118,8 @@ The question posed: "What makes a bond worth preserving?" The answer: the spleni
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"True partnership is built on knowing what endures—and completing what deserves to grow."*

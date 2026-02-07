@@ -102,6 +102,7 @@ The trans-personal nature means these pleasures are shared. The Spirit does not 
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 55 - Abundance]]
 - [[Gate 59 - Dispersion]]
@@ -130,10 +131,8 @@ The trans-personal nature means these pleasures are shared. The Spirit does not 
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"Spirit is not found by denying the body but by celebrating it. Through creativity, good food, and intimate companionship, the soul finds its abundance."*

@@ -104,6 +104,7 @@ The "extraordinary discovery" Ra mentions emerges when the obscure details are p
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 62 - Preponderance of the Small]]
 - [[Gate 61 - Inner Truth]]
@@ -128,10 +129,8 @@ The "extraordinary discovery" Ra mentions emerges when the obscure details are p
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The master of Obscuration learns that every detail is a door—leading either deeper into the labyrinth or finally into the light."*

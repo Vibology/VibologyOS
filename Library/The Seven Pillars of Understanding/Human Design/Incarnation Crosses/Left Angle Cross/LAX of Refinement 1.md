@@ -104,6 +104,7 @@ The "beauty that heals" Ra mentions distinguishes this from mere decoration—th
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 33 - Retreat]]
 - [[Gate 19 - Approach]]
@@ -127,10 +128,8 @@ The "beauty that heals" Ra mentions distinguishes this from mere decoration—th
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"Refinement recognizes that survival without beauty is mere existence—that the home which heals is not only protected but made beautiful."*

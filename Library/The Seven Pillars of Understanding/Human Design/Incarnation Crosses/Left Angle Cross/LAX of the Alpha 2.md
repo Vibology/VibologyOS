@@ -105,6 +105,7 @@ The "promised land" Ra mentions is the destination of the dream—not a fixed pl
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 41 - Decrease]]
 - [[Gate 31 - Influence]]
@@ -130,10 +131,8 @@ The "promised land" Ra mentions is the destination of the dream—not a fixed pl
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The Alpha of transformation seduces through dream—making the unknown so compelling that others willingly follow into territory that transforms them."*

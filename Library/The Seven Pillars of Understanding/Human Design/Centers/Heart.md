@@ -143,6 +143,7 @@ For all Types, the Heart:
 - **Does not guarantee worth**—worth is intrinsic, not determined by definition
 
 ---
+
 ## Cross-References
 
 - **Ego Authority:** See [[Ego Authority]] for decision-making through willpower
@@ -173,23 +174,15 @@ For all Types, the Heart:
 *The Heart is the will to commit—the ego strength that promises and delivers, the material mastery that knows worth and manages resources. For some, the will is a reliable engine, always ready to commit. For others, the will is borrowed, inconsistent, and must be protected from proving and improving. To honor the Heart is to recognize that worth is not earned but intrinsic, and that commitment, when freely given, is the highest power of the ego.*
 
 ---
-## Footnotes
+
+## Notes
 
 [^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Heart Center biological correlation to heart, stomach, thymus gland, and gall bladder
+
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Heart Center classified as a motor center (one of four)
+
 [^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Heart Center definition statistics (37% defined, 63% undefined)
+
 [^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Ego Authority for Manifestors (Ego-Manifested) and Projectors (Ego-Projected)
 
-## Sources
-
-Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
-- Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority
-
-**Verification Notes:**
-- Human Design system synthesizes I-Ching (64 hexagrams → 64 Gates), Astrology (planetary activations), Kabbalah/Tree of Life (Sephiroth → 9 Centers), and Hindu-Brahmin Chakra system
-- Ra Uru Hu received the system in 1987 on Ibiza; he systematized and taught it, but did not "create" it
-- All mechanical definitions verified against *The Definitive Book of Human Design* (2011)
-- Cross-system correspondences (Jungian, Tarot, Qabalah) marked as Vibology Synthesis where applicable
-
 ---
-

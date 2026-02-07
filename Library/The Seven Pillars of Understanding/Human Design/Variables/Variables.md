@@ -391,8 +391,8 @@ The [[The Astrolabe]] system's **House of the Land** (stability, foundation) res
 
 ---
 
-
 ## Cross-References
+
 ### Core Variables
 - [[Determination]] - The dietary regimen Variable
 - [[Environment]] - The physical surroundings Variable
@@ -418,27 +418,20 @@ The [[The Astrolabe]] system's **House of the Land** (stability, foundation) res
 - I-Ching - The 64-fold hexagram substrate
 - [[The Blueprint - 444 Architecture]] - The shared 64-fold structure
 
-
-## Footnotes
-
-[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Variables as the Four Transformations representing the deepest layer of the Human Design system
-[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Two Crystals (Design and Personality) structuring consciousness with internal hierarchy of Tone, Color, and Base
-[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — The 1781 visual cortex mutation dividing humanity into Strategic (Left) and Receptive (Right) cognitive streams
-[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — 16 Variable combinations from Left/Right orientation across four Variables
-[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Variables not accessible without first living Strategy and Authority
-[^6]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Variables describe internal cognitive architecture and do not override Type mechanics
-
-## Sources
-
-Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
-- Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority
-
-**Verification Notes:**
-- Human Design system synthesizes I-Ching (64 hexagrams → 64 Gates), Astrology (planetary activations), Kabbalah/Tree of Life (Sephiroth → 9 Centers), and Hindu-Brahmin Chakra system
-- Ra Uru Hu received the system in 1987 on Ibiza; he systematized and taught it, but did not "create" it
-- Variables represent advanced layer of HD system: Four Transformations (Determination, Environment, Perspective, Motivation) calculated from Color/Tone/Base
-- Variable mechanics verified against *The Definitive Book of Human Design* (2011); detailed implementation marked as educational synthesis
-- Cross-system correspondences (Jungian, Tarot, Qabalah) marked as Vibology Synthesis where applicable
-
 ---
 
+## Notes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Variables as the Four Transformations representing the deepest layer of the Human Design system
+
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Two Crystals (Design and Personality) structuring consciousness with internal hierarchy of Tone, Color, and Base
+
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — The 1781 visual cortex mutation dividing humanity into Strategic (Left) and Receptive (Right) cognitive streams
+
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — 16 Variable combinations from Left/Right orientation across four Variables
+
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Variables not accessible without first living Strategy and Authority
+
+[^6]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Variables describe internal cognitive architecture and do not override Type mechanics
+
+---

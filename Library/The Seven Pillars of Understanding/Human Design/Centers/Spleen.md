@@ -134,6 +134,7 @@ For all Types, the Spleen:
 - **Operates in the now** (not over time like Emotional or Lunar Authority)
 
 ---
+
 ## Cross-References
 
 - **Splenic Authority:** See [[Splenic Authority]] for decision-making through instinct
@@ -163,23 +164,15 @@ For all Types, the Spleen:
 *The Spleen is the ancient guardian—the quiet, instinctual knowing that protects life without fanfare or explanation. It speaks once, softly, in the present moment, and does not repeat. For some, this knowing is reliable and consistent. For others, it is amplified and must be discerned from fear. To honor the Spleen is to trust the body's first knowing, to act spontaneously without hesitation, and to release what no longer supports survival, health, and vitality.*
 
 ---
-## Footnotes
+
+## Notes
 
 [^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Spleen Center biological correlation to lymphatic system, spleen, and T-cells
+
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Spleen Center classified as an awareness center, the oldest and most primal intelligence in the BodyGraph
+
 [^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Spleen Center definition statistics (~55% defined, ~45% undefined)
+
 [^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Splenic Authority as instantaneous, in-the-moment knowing for Manifestors and Projectors without higher authorities
 
-## Sources
-
-Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
-- Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority
-
-**Verification Notes:**
-- Human Design system synthesizes I-Ching (64 hexagrams → 64 Gates), Astrology (planetary activations), Kabbalah/Tree of Life (Sephiroth → 9 Centers), and Hindu-Brahmin Chakra system
-- Ra Uru Hu received the system in 1987 on Ibiza; he systematized and taught it, but did not "create" it
-- All mechanical definitions verified against *The Definitive Book of Human Design* (2011)
-- Cross-system correspondences (Jungian, Tarot, Qabalah) marked as Vibology Synthesis where applicable
-
 ---
-

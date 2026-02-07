@@ -96,6 +96,7 @@ This is tension in service of **supervision and guidance**. The policing functio
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 21 - Biting Through]]
 - [[Gate 48 - The Well]]
@@ -119,10 +120,8 @@ This is tension in service of **supervision and guidance**. The policing functio
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"Tension in service of structure—the boundary guardian who creates productive friction."*

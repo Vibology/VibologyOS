@@ -332,6 +332,7 @@ The Channel 11-56 individual must learn that **stories are invitations, not impo
 Jung's process of individuation requires **reflecting on one's experiences and integrating them into narrative**. The Channel 11-56 individual's task is to search for meaning (Gate 11) and share that meaning through story (Gate 56), enriching both themselves and the collective.
 
 ---
+
 ## Cross-References
 
 ### Channel and Gate Connections
@@ -376,25 +377,18 @@ Jung's process of individuation requires **reflecting on one's experiences and i
 - Waiting for Invitation to Share — Storytelling only when recognized
 - Searching and Reflecting — Gathering experiences and distilling meaning
 
-## Footnotes
-
-[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 11-56 connects Gate 11 (Peace/Ideas) in the Ajna with Gate 56 (The Wanderer/Stimulation) in the Throat
-[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 11-56 classified as a Projected channel (Ajna to Throat, no motor connection)
-[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 11-56 placement within the Collective Sensing/Abstract Circuit
-[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Ajna Center biological associations: pituitary gland, conceptualization, mental pattern formulation
-[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 11-56 does not carry Authority (non-motor, non-awareness center connection)
-
-## Sources
-**Primary Source:**
-- Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
-
-**Cross-System Sources:**
-- Richard Rudd, *The Gene Keys: Unlocking the Higher Purpose Hidden in Your DNA* (Gene Keys Publishing, 2013)
-- Alfred Huang, *The Complete I Ching: The Definitive Translation* (Inner Traditions, 1998)
-
-**Verification Note:**
-All channel mechanics, circuitry analysis, and Ra's teachings are sourced from *The Definitive Book of Human Design* (2011). Gene Keys correspondences are from Rudd (2013). I-Ching hexagram correlations are from Huang (1998). Cross-system synthesis (Tarot, Qabalah, Jungian psychology) and biological/somatic interpretations represent **Vibology Synthesis**—integrations drawing upon verified HD mechanics but extending into archetypal and interdisciplinary correspondences.
-
 ---
 
-*"I believe this story matters. Not because I know it's true, but because I lived it and reflected on it."*
+## Notes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 11-56 connects Gate 11 (Peace/Ideas) in the Ajna with Gate 56 (The Wanderer/Stimulation) in the Throat
+
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 11-56 classified as a Projected channel (Ajna to Throat, no motor connection)
+
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 11-56 placement within the Collective Sensing/Abstract Circuit
+
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Ajna Center biological associations: pituitary gland, conceptualization, mental pattern formulation
+
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 11-56 does not carry Authority (non-motor, non-awareness center connection)
+
+---

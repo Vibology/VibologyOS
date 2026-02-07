@@ -96,6 +96,7 @@ The mutative quality demands that transformation serve something beyond the self
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 34 - The Power of the Great]]
 - [[Gate 20 - Contemplation]]
@@ -116,10 +117,8 @@ The mutative quality demands that transformation serve something beyond the self
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"When the Phoenix finally wakes in the Quarter of Mutation, its fire does not consume—it illuminates, transforming all who are drawn to its light."*

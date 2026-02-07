@@ -96,6 +96,7 @@ The Eden (4) archetype poses the eternal question: "What can we learn from the f
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 11 - Peace]]
 - [[Gate 12 - Standstill]]
@@ -114,10 +115,8 @@ The Eden (4) archetype poses the eternal question: "What can we learn from the f
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"Eden (4) has eaten the fruit and digested it—now they write the cookbook for those still hungry for knowledge."*

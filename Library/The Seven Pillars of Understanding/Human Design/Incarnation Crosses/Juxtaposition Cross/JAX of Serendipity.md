@@ -100,6 +100,7 @@ Ra emphasizes "correct commitments to experience (plus hard work)"—this is not
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 46 - Pushing Upward]]
 - [[Gate 25 - Innocence]]
@@ -124,10 +125,8 @@ Ra emphasizes "correct commitments to experience (plus hard work)"—this is not
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Serendipity does not merely luck into fortune—they cultivate it through embodied presence, hard work, and joyful engagement with the miracle of being alive."*

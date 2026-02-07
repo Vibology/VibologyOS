@@ -101,6 +101,7 @@ Ra identifies them as "bright, intellectual but incredibly fixed"—the returnin
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 24 - The Return]]
 - [[Gate 44 - Coming to Meet]]
@@ -127,10 +128,8 @@ Ra identifies them as "bright, intellectual but incredibly fixed"—the returnin
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Rationalization does not merely think—they integrate, bridging past and future, logic and experience, until individual knowing becomes collectively translatable."*

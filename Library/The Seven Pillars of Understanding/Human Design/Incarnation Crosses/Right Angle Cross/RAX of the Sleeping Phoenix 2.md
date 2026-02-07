@@ -96,6 +96,7 @@ The civilizing quality demands that transformation serve collective building. Th
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 20 - Contemplation]]
 - [[Gate 34 - The Power of the Great]]
@@ -116,10 +117,8 @@ The civilizing quality demands that transformation serve collective building. Th
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The charismatic builder does not pause for transformation—they build the temple first, and the fire ignites when the form is ready to receive it."*

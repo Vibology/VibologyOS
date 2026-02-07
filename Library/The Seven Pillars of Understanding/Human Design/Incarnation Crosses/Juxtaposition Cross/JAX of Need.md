@@ -100,6 +100,7 @@ The Channel 1-2 (Keeper of the Keys) forms between Design Sun and Earth—the fu
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 19 - Approach]]
 - [[Gate 33 - Retreat]]
@@ -125,10 +126,8 @@ The Channel 1-2 (Keeper of the Keys) forms between Design Sun and Earth—the fu
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Need does not merely want—they sense what is truly needed, create beauty to satisfy it, and share that beauty with the intimate circle who will receive it most fully."*

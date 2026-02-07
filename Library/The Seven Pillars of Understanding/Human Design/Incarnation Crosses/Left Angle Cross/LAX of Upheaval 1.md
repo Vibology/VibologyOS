@@ -102,6 +102,7 @@ The purpose of the upheaval is clear: "to redirect humanity in healthy direction
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 17 - Following]]
 - [[Gate 18 - Work on What Has Been Spoilt]]
@@ -123,10 +124,8 @@ The purpose of the upheaval is clear: "to redirect humanity in healthy direction
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The upheaval is not chaos—it is the precision of disruption, destabilizing what has calcified so that life can flow in healthier directions."*

@@ -100,6 +100,7 @@ Ra emphasizes these individuals are "highly sought after"—their capacity to en
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 53 - Development]]
 - [[Gate 54 - The Marrying Maiden]]
@@ -126,10 +127,8 @@ Ra emphasizes these individuals are "highly sought after"—their capacity to en
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Beginnings does not merely start—they initiate cycles with full awareness of what completion requires, valued for their capacity to energize transformations that actually reach fruition."*

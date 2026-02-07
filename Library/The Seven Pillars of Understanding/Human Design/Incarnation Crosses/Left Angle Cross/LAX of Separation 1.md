@@ -101,6 +101,7 @@ The Quarter of Civilization asks: "What can be built? What form can this take?" 
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 35 - Progress]]
 - [[Gate 05 - Waiting]]
@@ -125,10 +126,8 @@ The Quarter of Civilization asks: "What can be built? What form can this take?" 
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"Living together separately is not failure of community—it is its most graceful expression: unity that honors the irreducible diversity of human experience."*

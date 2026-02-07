@@ -98,6 +98,7 @@ The contagion here spreads through the example of what has been constructed. Oth
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 08 - Holding Together]]
 - [[Gate 14 - Possession in Great Measure]]
@@ -120,10 +121,8 @@ The contagion here spreads through the example of what has been constructed. Oth
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The civilizing Contagion builds not to possess but to demonstrate—showing through form what humanity might become."*

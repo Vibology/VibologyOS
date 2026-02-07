@@ -100,6 +100,7 @@ The combination of Root gates (58/52) provides the energy foundation: the pressu
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 25 - Innocence]]
 - [[Gate 46 - Pushing Upward]]
@@ -124,10 +125,8 @@ The combination of Root gates (58/52) provides the energy foundation: the pressu
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Innocence does not merely feel happy—they embody the truth that joy is possible, and their presence grants permission for others to pursue their own."*

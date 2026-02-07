@@ -99,6 +99,7 @@ The depth (Gate 48) is crucial: these individuals are not shallow controllers bu
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 21 - Biting Through]]
 - [[Gate 48 - The Well]]
@@ -124,10 +125,8 @@ The depth (Gate 48) is crucial: these individuals are not shallow controllers bu
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Control does not seize power for its own sake—they take charge because innovation requires coordinated effort, and new beginnings need directed resources."*

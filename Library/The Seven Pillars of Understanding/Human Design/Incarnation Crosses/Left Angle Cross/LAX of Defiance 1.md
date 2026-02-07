@@ -97,6 +97,7 @@ The trans-personal nature means this defiance is never just about the individual
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 02 - The Receptive]]
 - [[Gate 01 - The Creative]]
@@ -122,10 +123,8 @@ The trans-personal nature means this defiance is never just about the individual
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The Defiant does not rebel for rebellion's sake—they follow a direction the collective cannot see, and in doing so, free others to seek their own."*

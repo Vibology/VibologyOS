@@ -101,6 +101,7 @@ Ra's keynote speaks of "enjoying their work"—this is crucial. The material cel
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 06 - Conflict]]
 - [[Gate 36 - Darkening of the Light]]
@@ -124,10 +125,8 @@ Ra's keynote speaks of "enjoying their work"—this is crucial. The material cel
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"To entice others into loving life is not to deny its darkness—it is to have walked through the dark and found that the light was worth the journey."*

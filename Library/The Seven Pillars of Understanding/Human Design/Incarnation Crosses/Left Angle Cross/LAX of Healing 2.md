@@ -102,6 +102,7 @@ The "focused, committed connection" implies that casual encounters may not activ
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 46 - Pushing Upward]]
 - [[Gate 25 - Innocence]]
@@ -123,10 +124,8 @@ The "focused, committed connection" implies that casual encounters may not activ
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The rarest healing happens not through technique but through the alchemy of genuine meeting—universal love flowing through two bodies committed to presence."*

@@ -101,6 +101,7 @@ Ra's "virtual reality" reference captures the modern application—these individ
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 41 - Decrease]]
 - [[Gate 31 - Influence]]
@@ -128,10 +129,8 @@ Ra's "virtual reality" reference captures the modern application—these individ
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Fantasy does not merely dream—they recognize trends and imagine futures, their pattern-informed vision influencing others toward transformations not yet visible."*

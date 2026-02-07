@@ -104,6 +104,7 @@ The "fulfillment of purpose" Ra mentions is not separate from the beauty—they 
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 19 - Approach]]
 - [[Gate 33 - Retreat]]
@@ -127,10 +128,8 @@ The "fulfillment of purpose" Ra mentions is not separate from the beauty—they 
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The Refinement that transforms recognizes that alignment is not separate from beauty—that to move correctly through life is to live as art."*

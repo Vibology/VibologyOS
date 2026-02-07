@@ -100,6 +100,7 @@ The spiritual dimension (Gate 55) elevates the strategy beyond mere connecting. 
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 59 - Dispersion]]
 - [[Gate 55 - Abundance]]
@@ -125,10 +126,8 @@ The spiritual dimension (Gate 55) elevates the strategy beyond mere connecting. 
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Strategy does not merely connect—they see what barriers prevent bonding and craft approaches that dissolve them, serving as matchmakers for connections that carry spiritual meaning."*

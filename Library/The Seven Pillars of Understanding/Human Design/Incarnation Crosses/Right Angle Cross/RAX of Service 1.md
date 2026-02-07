@@ -96,6 +96,7 @@ This is service rooted in **comprehension**: understanding what it means to be h
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 17 - Following]]
 - [[Gate 18 - Work on What Has Been Spoilt]]
@@ -117,10 +118,8 @@ This is service rooted in **comprehension**: understanding what it means to be h
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"Service through understanding—the logical mind applied to the perfection of human patterns."*

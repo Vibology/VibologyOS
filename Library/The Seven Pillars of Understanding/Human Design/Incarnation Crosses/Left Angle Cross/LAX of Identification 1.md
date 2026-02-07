@@ -100,6 +100,7 @@ The Quarter of Civilization asks: "What can be built? What form can this take?" 
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 16 - Enthusiasm]]
 - [[Gate 09 - The Taming Power of the Small]]
@@ -123,10 +124,8 @@ The Quarter of Civilization asks: "What can be built? What form can this take?" 
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The trans-personal skill becomes the stock others invest in—not through salesmanship, but through the undeniable demonstration of practiced mastery."*

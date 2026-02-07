@@ -100,6 +100,7 @@ The keynote is **a part seeking a whole**—the recognition that we are interdep
 When recognized and invited, the 37-40 individual becomes the **foundation of tribal support**—the one who creates **fair, sustainable bargains** that hold communities together. They embody **Equality and Resolve**, and ultimately **Tenderness and Divine Will**—community as an expression of sacred, balanced interdependence.
 
 ---
+
 ## Cross-References
 
 - [[Gate 37 - The Family]] — Friendship, emotional bonds, tribal warmth
@@ -111,25 +112,18 @@ When recognized and invited, the 37-40 individual becomes the **foundation of tr
 - Tribal Ego Circuit — Channels of support and provision
 - [[Emotional Authority]] — Waiting through the wave before committing
 
-## Footnotes
-
-[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 37-40 as the bargain of tribal support: emotional agreement creating community
-[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 37-40 classified within the Tribal Ego Circuit
-[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Projected channel type: Solar Plexus-to-Ego with no direct Throat connection
-[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Keynote of a part seeking a whole: mutual interdependence as the foundation of tribal survival
-[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Biological correlations: Solar Plexus to nervous system, Heart/Ego to thymus and willpower
-
-## Sources
-**Primary Source:**
-- Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
-
-**Cross-System Sources:**
-- Richard Rudd, *The Gene Keys: Unlocking the Higher Purpose Hidden in Your DNA* (Gene Keys Publishing, 2013)
-- Alfred Huang, *The Complete I Ching: The Definitive Translation* (Inner Traditions, 1998)
-
-**Verification Note:**
-All channel mechanics, circuitry analysis, and Ra's teachings are sourced from *The Definitive Book of Human Design* (2011). Gene Keys correspondences are from Rudd (2013). I-Ching hexagram correlations are from Huang (1998). Cross-system synthesis (Tarot, Qabalah, Jungian psychology) and biological/somatic interpretations represent **Vibology Synthesis**—integrations drawing upon verified HD mechanics but extending into archetypal and interdisciplinary correspondences.
-
 ---
 
-*"Community is a bargain—fair exchange of care and provision. Honor the bargain, rest when needed, and the tribe thrives."*
+## Notes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 37-40 as the bargain of tribal support: emotional agreement creating community
+
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 37-40 classified within the Tribal Ego Circuit
+
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Projected channel type: Solar Plexus-to-Ego with no direct Throat connection
+
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Keynote of a part seeking a whole: mutual interdependence as the foundation of tribal survival
+
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Biological correlations: Solar Plexus to nervous system, Heart/Ego to thymus and willpower
+
+---

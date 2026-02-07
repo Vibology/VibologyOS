@@ -104,6 +104,7 @@ The "art form" Ra mentions distinguishes this from mere entertainment—this is 
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 60 - Limitation]]
 - [[Gate 56 - The Wanderer]]
@@ -128,10 +129,8 @@ The "art form" Ra mentions distinguishes this from mere entertainment—this is 
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The magician's true trick is not hiding reality but revealing it—using distraction to show what becomes visible only when the obvious is obscured."*

@@ -96,6 +96,7 @@ The Mutation context asks: "What unexpected leadership must emerge to transform 
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 41 - Decrease]]
 - [[Gate 31 - Influence]]
@@ -117,10 +118,8 @@ The Mutation context asks: "What unexpected leadership must emerge to transform 
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The unexpected leader does not choose the transformation—they are chosen by it, and in being chosen, they set the trends that others follow."*

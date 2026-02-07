@@ -96,6 +96,7 @@ The duality quality demands that planning honor relationship. Planning poses the
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 40 - Deliverance]]
 - [[Gate 37 - The Family]]
@@ -117,10 +118,8 @@ The duality quality demands that planning honor relationship. Planning poses the
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The supported builder knows that the right bargain is not a limitation but a foundation—only when agreements are clear can true building begin."*

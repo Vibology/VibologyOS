@@ -100,6 +100,7 @@ The keynote is **transitoriness**—the understanding that all experience is tem
 When aligned (waiting through the wave, informing before initiating), the 35-36 individual becomes the **experiential teacher**—the one who has lived through many transitions, navigated many crises, and **speaks the emotional truth** that comes only from direct experience. They embody **Adventure and Humanity**, and ultimately **Boundlessness and Compassion**—infinite openness born from navigating all emotional terrains.
 
 ---
+
 ## Cross-References
 
 - [[Gate 35 - Progress]] — Change, new experience, hunger for growth
@@ -110,25 +111,18 @@ When aligned (waiting through the wave, informing before initiating), the 35-36 
 - Collective Sensing Circuit — Experience-based abstract learning
 - [[Emotional Authority]] — Waiting through the wave for clarity
 
-## Footnotes
-
-[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 35-36 as the emotional experience channel: learning through crisis and transition
-[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 35-36 classified within the Collective Sensing (Abstract) Circuit
-[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Manifested channel type: Solar Plexus motor connected to Throat for emotional manifestation
-[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Biological correlations: Solar Plexus to nervous system, Throat to thyroid and parathyroid
-[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Jack of all trades keynote: wisdom through direct experiential engagement rather than theory
-
-## Sources
-**Primary Source:**
-- Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011)
-
-**Cross-System Sources:**
-- Richard Rudd, *The Gene Keys: Unlocking the Higher Purpose Hidden in Your DNA* (Gene Keys Publishing, 2013)
-- Alfred Huang, *The Complete I Ching: The Definitive Translation* (Inner Traditions, 1998)
-
-**Verification Note:**
-All channel mechanics, circuitry analysis, and Ra's teachings are sourced from *The Definitive Book of Human Design* (2011). Gene Keys correspondences are from Rudd (2013). I-Ching hexagram correlations are from Huang (1998). Cross-system synthesis (Tarot, Qabalah, Jungian psychology) and biological/somatic interpretations represent **Vibology Synthesis**—integrations drawing upon verified HD mechanics but extending into archetypal and interdisciplinary correspondences.
-
 ---
 
-*"Change is the only constant. Crisis is the teacher. And when the wave clears, wisdom speaks."*
+## Notes
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 35-36 as the emotional experience channel: learning through crisis and transition
+
+[^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Channel 35-36 classified within the Collective Sensing (Abstract) Circuit
+
+[^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Manifested channel type: Solar Plexus motor connected to Throat for emotional manifestation
+
+[^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Biological correlations: Solar Plexus to nervous system, Throat to thyroid and parathyroid
+
+[^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Jack of all trades keynote: wisdom through direct experiential engagement rather than theory
+
+---

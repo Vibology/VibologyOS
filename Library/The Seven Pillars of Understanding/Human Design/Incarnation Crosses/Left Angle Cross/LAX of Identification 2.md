@@ -102,6 +102,7 @@ The Quarter of Mutation asks: "What needs to change? What can be transformed?" F
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 09 - The Taming Power of the Small]]
 - [[Gate 16 - Enthusiasm]]
@@ -125,10 +126,8 @@ The Quarter of Mutation asks: "What needs to change? What can be transformed?" F
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"Mental stability emerges not from eliminating doubt, but from knowing precisely where to focus skill in order to address it—transforming impasse into pathway."*

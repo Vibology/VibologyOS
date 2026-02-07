@@ -99,6 +99,7 @@ Ra emphasizes the crisis dimension. These individuals may not seek leadership in
 ---
 
 ## Cross-References
+
 ### The Four Gates
 - [[Gate 45 - Gathering Together]]
 - [[Gate 26 - The Taming Power of the Great]]
@@ -125,10 +126,8 @@ Ra emphasizes the crisis dimension. These individuals may not seek leadership in
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Ra Uru Hu, *Incarnation Crosses by Profile* lecture series; cross keynotes from *The Definitive Book of Human Design* (Jovian Archive, 2011)
 
 ---
-
-*"The one of Possession does not merely gather—they step into leadership when crisis calls, ruling through difficulty with the resources and authority needed to carry the tribe through."*
