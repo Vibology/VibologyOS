@@ -94,7 +94,7 @@ The Shape teaches: **some darkness is not yours**. You are not reducible to deat
 ### Cross-Pillar Synthesis
 - [[Scorpio ♏]] — Astrological death and transformation
 - [[The Shadow]] — Jungian archetypal framework (Personal Mythos)
-- [[Pluto]] — Planetary ruler of Scorpio; death and rebirth
+- [[Pluto ♇]] — Planetary ruler of Scorpio; death and rebirth
 - [[Confrontation with Shadow]] — Distinguishing personal from collective
 
 ---

@@ -103,7 +103,7 @@ The shadow is getting lost in perpetual becoming—never stabilizing long enough
 ### Cross-Pillar Synthesis
 - [[Gemini ♊]] — Astrological twins and duality
 - [[The Shapeshifter]] — Jungian/mythological unstable forms
-- [[Mercury]] — Planetary ruler of Gemini; communication and exchange
+- [[Mercury ☿]] — Planetary ruler of Gemini; communication and exchange
 - [[Tests, Allies, and Enemies]] — Where the shapeshifter appears
 
 ---

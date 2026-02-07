@@ -92,7 +92,7 @@ Jung identified The Trickster as appearing when consciousness has become too rig
 ### Cross-Pillar Synthesis
 - [[Sagittarius ♐]] — Astrological archer and philosopher
 - [[The Trickster]] — Jungian/mythological chaos-bringer
-- [[Jupiter]] — Planetary ruler of Sagittarius; expansion and excess
+- [[Jupiter ♃]] — Planetary ruler of Sagittarius; expansion and excess
 - [[Tests, Allies, and Enemies]] — Where The Joker appears
 
 ---

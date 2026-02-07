@@ -92,7 +92,7 @@ The developmental stages: power → action → word → wisdom. Madonna demonstr
 ### Cross-Pillar Synthesis
 - [[Capricorn ♑]] — Astrological ambition and mastery
 - [[The Animus]] — Jungian archetypal framework (Personal Mythos)
-- [[Saturn]] — Planetary ruler of Capricorn; structure and discipline
+- [[Saturn ♄]] — Planetary ruler of Capricorn; structure and discipline
 - [[Encounter with Animus]] — Integration stage in individuation
 
 ---

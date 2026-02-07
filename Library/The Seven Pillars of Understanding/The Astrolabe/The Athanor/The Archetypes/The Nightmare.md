@@ -94,7 +94,7 @@ Jung observed the same pattern in dreams: as consciousness approaches unconsciou
 ### Cross-Pillar Synthesis
 - [[Pisces ♓]] — Astrological mystic and dissolver of boundaries
 - [[The Threshold Guardian]] — Jungian/mythological gatekeeper
-- [[Neptune]] — Planetary ruler of Pisces; dreams and dissolution
+- [[Neptune ♆]] — Planetary ruler of Pisces; dreams and dissolution
 - [[Crossing the First Threshold]] — The narrative moment in Hero's Journey
 
 ---

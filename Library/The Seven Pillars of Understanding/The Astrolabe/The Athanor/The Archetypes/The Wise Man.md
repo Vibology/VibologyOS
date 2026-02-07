@@ -94,7 +94,7 @@ The shadow is the Senex turned rigid—the old man who clings to outdated wisdom
 ### Cross-Pillar Synthesis
 - [[Virgo ♍]] — Astrological service and precision
 - [[The Wise Old Man]] — Jungian archetypal framework (Personal Mythos)
-- [[Mercury]] — Planetary ruler of Virgo; discernment and craft
+- [[Mercury ☿]] — Planetary ruler of Virgo; discernment and craft
 - [[Meeting the Mentor]] — The Wise Man's role in the Hero's Journey
 
 ---

@@ -101,7 +101,7 @@ The Hero's fatal flaw is hubris—believing that ego power is sufficient without
 - [[The Hero]] — Jungian archetypal framework (Personal Mythos pillar)
 - [[The Call to Adventure]] — Beginning of the Hero's path
 - [[The Ordeal]] — The Hero's supreme test
-- [[Mars]] — Planetary ruler of Aries; warrior energy
+- [[Mars ♂]] — Planetary ruler of Aries; warrior energy
 
 ---
 ## Sources

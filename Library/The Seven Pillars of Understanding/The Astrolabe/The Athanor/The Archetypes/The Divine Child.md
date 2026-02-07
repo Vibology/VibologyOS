@@ -102,7 +102,7 @@ The shadow is remaining child—the *puer aeternus* who refuses to grow, who cli
 ### Cross-Pillar Synthesis
 - [[Cancer ♋]] — Astrological nurturer and home-seeker
 - [[The Divine Child]] — Jungian archetypal framework (Personal Mythos)
-- [[The Moon]] — Planetary ruler of Cancer; emotional bonding
+- [[The Moon ☽]] — Planetary ruler of Cancer; emotional bonding
 - [[The Ordinary World]] — Where the child begins the journey
 
 ---
