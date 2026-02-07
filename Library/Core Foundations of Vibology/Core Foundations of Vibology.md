@@ -16,7 +16,7 @@ status: comprehensive
 
 **Vibology** is the integrated framework that unifies seven esoteric wisdom traditions into a single navigational system for consciousness. The name evokes both "vibration" (the energetic substrate of reality) and "logos" (systematic knowledge)—the marriage of felt experience and structural understanding.
 
-At its core, Vibology rests on a fundamental premise: **no single wisdom tradition captures the whole truth**. Each tradition—[[Angelology]], [[Astrology]], [[Personal Mythos]], [[Human Design]], [[The Magdalene Path]], [[The Tarot]], and [[The Window]]—offers a unique coordinate for mapping consciousness. Together, they create **triangulated gnosis**: verified insight that emerges only through cross-system synthesis.
+At its core, Vibology rests on a fundamental premise: **no single wisdom tradition captures the whole truth**. Each tradition—[[Angelology]], [[Astrology]], [[Personal Mythos]], [[Human Design]], [[The Magdalene Path]], [[The Tarot]], and [[The Astrolabe]]—offers a unique coordinate for mapping consciousness. Together, they create **triangulated gnosis**: verified insight that emerges only through cross-system synthesis.
 
 Vibology is not a new religion or a spiritual invention. It is a **meta-system**—a framework for organizing and synthesizing existing wisdom traditions using the structural rigor of the Algorithm (systematic organization) and the somatic validation of the Anima (embodied experience).
 
@@ -93,7 +93,7 @@ Consciousness cannot be adequately mapped from a single perspective. Like triang
 | [[Human Design]] | How am I mechanically designed? | Precision mechanics of individual differentiation |
 | [[The Magdalene Path]] | What is the vertical trajectory? | Unifying core; sacred feminine ascent |
 | [[The Tarot]] | What archetypal force is active? | Qabalistic pathways and visual symbols |
-| [[The Window]] | How do ancient patterns manifest today? | Contemporary I-Ching and Gene Keys translation |
+| [[The Astrolabe]] | What archetypal pattern is constellated? | 88-card oracle deck: The Athanor (24) + The Codex (64) |
 
 **The Magdalene Path** is the **unifying vertical axis**—the single trajectory that integrates all other pillars into one journey of soul ascent from Malkuth (matter) to Kether (spirit). The other six provide horizontal coordinates (different perspectives on the same terrain).
 
@@ -195,13 +195,13 @@ This is the **architecture of manifestation**—the blueprint by which conscious
 
 **Cross-system integration:** Each Major Arcana card corresponds to a path on the Tree of Life; cards correspond to planets, signs, and decans; Major Arcana as visual representations of Jungian archetypes.
 
-### 7. The Window — Contemporary Archetypal Resonance
+### 7. The Astrolabe — Oracle of Archetypal Navigation
 
-**What it maps:** The 64 I-Ching hexagrams as archetypal situations, the Gene Keys (shadow/gift/siddhi framework), contemporary synthesis of ancient wisdom.
+**What it maps:** An 88-card oracle deck combining archetypal forces (The Athanor: 24 cards) with the 64-fold pattern of transformation (The Codex: 64 cards organized by I-Ching trigram families).
 
-**Unique contribution:** **Contemporary translation**—taking ancient I-Ching wisdom and Gene Keys framework and making them accessible for modern practitioners. Answers: *"How does this 3,000-year-old hexagram apply to my life today?"*
+**Unique contribution:** **Precision archetypal cartography**—The Astrolabe separates the interpretive layer (Materia, Furnace, Archetypes) from the underlying 64-fold architecture (gates/hexagrams/keys), honoring what each element actually is rather than forcing gates into artificial categories. The deck name evokes the ancient navigational instrument that measured celestial positions—here, measuring the position of consciousness within archetypal space.
 
-**Cross-system integration:** The 64 gates are the 64 hexagrams; the shadow/gift/siddhi triad for each hexagram; the 64 hexagrams mapped to 360° of the zodiac.
+**Cross-system integration:** The Codex's 64 cards correspond to Human Design gates, I-Ching hexagrams, and Gene Keys; The Archetypes (12 cards) correspond to zodiacal forces and Jungian archetypes; The Materia and Furnace encode alchemical and elemental principles.
 
 ---
 
@@ -279,7 +279,7 @@ The power of Vibology is **triangulation**—using multiple systems to verify an
 
 **Angelology:** You're working with **Geburah** (Severity/Strength) and the [[Powers]]—the cosmic surgeon cutting away what does not serve. Invoke [[Kamael]] (archangel of Mars/Geburah) for the courage to face the destruction without resistance.
 
-**The Window:** Hexagram 23 (剝 Splitting Apart) is active—the structure is collapsing, but this creates space for new growth. The shadow is victimhood; the gift is surrender; the siddhi is knowing that the foundation (earth) remains even when the structure falls.
+**The Astrolabe:** The Codex reveals Hexagram 23 (剝 Splitting Apart)—the structure is collapsing, but this creates space for new growth. The shadow is victimhood; the gift is surrender; the siddhi is knowing that the foundation (earth) remains even when the structure falls.
 
 **The Magdalene Path:** This is a **vertical initiation**—a forced ascent from Malkuth (material security, external identity) toward Tiphareth (the Heart, authentic Self). The false self is being dismantled so the true Self can emerge.
 
@@ -341,7 +341,7 @@ This is the stance of Vibology: **see clearly, report honestly, test everything*
 - [[Human Design]] — Mechanical configuration and somatic authority
 - [[The Magdalene Path]] — Vertical soul ascent and sacred feminine
 - [[The Tarot]] — Qabalistic pathways and archetypal visualization
-- [[The Window]] — Contemporary I-Ching and Gene Keys framework
+- [[The Astrolabe]] — 88-card oracle deck (The Athanor + The Codex)
 
 ### Methodology
 - **PROTOCOL - Cross-System Synthesis** — Complete methodology for multi-system integration
