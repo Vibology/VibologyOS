@@ -144,6 +144,16 @@ VibologyOS/
 
 ## Session History
 
+**2026-02-07 (session 9):** Prima materia verification — Astrology pillar (1/27 complete)
+- **Objective:** Achieve "supreme confidence" in library validity through systematic primary source verification
+- **Standard established:** Complete content using primary sources (Brennan's *Hellenistic Astrology*, Lilly's *Christian Astrology*, Ptolemy), then apply both `verified: true` and `source_verified: true` YAML flags
+- **NotebookLM grimoire:** "Esoteric Grimoire" notebook confirmed to contain Brennan's Hellenistic Astrology
+- **Files completed (1/27):**
+  - **Aspects.md:** Added complete content for all 5 major aspects (Conjunction, Sextile, Square, Trine, Opposition) with traditional interpretations, Hellenistic orbs, psychological synthesis, plus sections on Orbs and Application, Benefic vs. Malefic Aspects, Minor Aspects. Verified against Brennan + Lilly sources with 9 inline footnotes.
+- **YAML updates:** Added `verified: true`, `source_verified: true`, `verification_date: 2026-02-07`, `grimoire_source` with full source list, `verification_notes` documenting scope
+- **Files remaining (26):** Astrology.md (overview), 12 Signs, 12 Houses, Transits and Timing.md
+- **Impact:** 23/50 → 24/50 Astrology files with `source_verified: true` (48% → 48%; note: Aspects.md already had flag but was incomplete stub)
+
 **2026-02-07 (session 8):** Practitioner-specific content separated — VibologyOS is now pure reference
 - **Objective:** Separate practitioner-specific content from universal reference library
 - **Files moved to ~/Personal/Practice/:**
