@@ -98,6 +98,7 @@ VibologyOS/
 
 | Milestone | Date | Scope |
 |-----------|------|-------|
+| LYD Student Manual integration | 2026-02-07 | Projector subcategories (#11), Not-Self Mind Talk callouts x9 centers (#12 partial) |
 | Category B entries complete | 2026-02-07 | 19 entries: Greek 6, Egyptian 4, Jungian 5, Cross-Pillar 4 |
 | Dead link maintenance (4 rounds) | 2026-02-07 | ~749 → 5 (all template placeholders). Round 4: 19 entries + 173 alias fixes |
 | Astrolabe oracle deck canonized | 2026-02-04 | 88 cards production-ready |
@@ -130,6 +131,12 @@ VibologyOS/
 ---
 
 ## Session History
+
+**2026-02-07 (session 3):** IHDS LYD Student Manual integration
+- **Source:** Lynda Bunnell, *Living Your Design Student Manual* (IHDS/Jovian Archive, 2006/2010)
+- **Projector Subcategories (#11 — COMPLETE):** Added Classic/Energy/Mental mechanical definitions to Projector.md with authority options, sourced from LYD pp. 117–118. Roadmap item #11 closed.
+- **Not-Self Mind Talk (#12 — PARTIAL):** Added `[!tip] Not-Self Mind Talk` callouts to all 9 center entries (Head, Ajna, Throat, G, Heart, Sacral, Spleen, Solar Plexus, Root) with verbatim inner monologue from LYD pp. 87–89. 86 total examples across 9 centers. Deeper deconditioning mechanics still pending advanced IHDS materials.
+- **Assessment:** LYD is an introductory text — adequate for subcategories and Not-Self examples, insufficient for advanced deconditioning depth.
 
 **2026-02-07 (session 2):** Category B entries + round 4 dead link fixes — 70 → 5
 - **Objective:** Create all 20 Category B entries identified in dead link analysis; fix resulting alias dead links
