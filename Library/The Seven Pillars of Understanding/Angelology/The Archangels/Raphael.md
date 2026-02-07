@@ -42,7 +42,7 @@ Raphael is unique among the Four Quarters Archangels for his **dual nature**: he
 
 The etymology of *Raphael* is straightforward compared to the ambiguities surrounding names like *Metatron* or *Sandalphon*, yet it carries profound theological weight:
 
-1. **Hebrew Root: רפא (*Rafa*)** — "To heal, to mend, to restore"
+1.[^1] **Hebrew Root: רפא (*Rafa*)** — "To heal, to mend, to restore"
    - Used in Exodus 15:26: *"I am YHVH who heals you"* (*Ani YHVH Rofe'echa*)
    - The healing is not merely physical but **ontological**—a restoration to wholeness, to alignment with divine order
 
@@ -1423,6 +1423,11 @@ Steiner also teaches that Archangels are involved in **individual human karma an
 
 
 ---
+
+[^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967) — Raphael as 'God has healed,' archangel of Healing and Mercury.
+
+---
+
 ## Sources
 
 **Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.

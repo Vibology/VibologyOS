@@ -60,7 +60,7 @@ To encounter Domination consciousness is to experience **benevolent authority**�
 ---
 ## Biblical and Scriptural Foundation
 
-The Dominations are explicitly named in the New Testament as one of the celestial hierarchies, though their function is described more through theological implication than direct narrative appearance.
+The Dominations are explicitly named in the New Testament as one of the celestial hierarchies, though their function is described more through theological implication than direct narrative appearance.[^1]
 
 ### Scriptural References
 
@@ -637,6 +637,11 @@ To integrate the Dominations is to become the **inner king/queen**—the soverei
 - Chesed and Jupiter - The Expansive Father (Potential synthesis) — Qabalah + Astrology integration
 - The G-Center as Throne - Sovereignty in Human Design (Potential synthesis) — HD + Angelology + Qabalah
 - Authority vs. Tyranny - The Domination Paradox (Potential synthesis) — Angelology + Jungian psychology + Astrology
+
+---
+
+
+[^1]: Pseudo-Dionysius, *The Celestial Hierarchy* (6th century) — Dominations as angels of divine lordship.
 
 ---
 

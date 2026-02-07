@@ -27,7 +27,7 @@ hd_center: Sacral Center (embodied spiritual power)
 
 ## Essence
 
-The **Ishim** (Hebrew: אישים, "Men" or "Personages"; also **Ashim**, אשים, "Flames" or "Souls of Fire") are the **tenth and lowest angelic order** in the Qabalistic hierarchy, associated with **[[Malkuth]]** (Kingdom), the tenth Sephirah on the Tree of Life. They represent the **completion of the divine emanation** into physical form—the angels who stand at the threshold between spirit and matter, mediating between the purely angelic orders above and embodied humanity below.
+The **Ishim** (Hebrew: אישים, "Men" or "Personages"; also **Ashim**, אשים, "Flames" or "Souls of Fire") are the **tenth and lowest angelic order** in the Qabalistic hierarchy, associated with **[[Malkuth]]** (Kingdom), the tenth Sephirah on the Tree of Life.[^1] They represent the **completion of the divine emanation** into physical form—the angels who stand at the threshold between spirit and matter, mediating between the purely angelic orders above and embodied humanity below.
 
 Unlike the nine Dionysian orders, which descend from pure spirit toward material creation, the Ishim occupy a unique position: they are **sanctified humanity elevated to angelic status**—the "beautiful souls of just men" (Davidson), the prophets and righteous ones who have completed the journey of earthly incarnation and now serve as spiritual foundations of the material world. Robert Wang calls them the "Order of Blessed Souls" or "Souls of the Just made Perfect" (Wang, p. 115).
 
@@ -170,6 +170,11 @@ Heywood's work emphasizes the **gradation of illumination** flowing downward thr
 - **Human Design:** [[Manifestor]] initiate; Generators (Ishim) respond and sustain
 - **Tarot:** [[The World (XXI)]] (Key 21, Malkuth) — Completion of the journey
 - **Alchemy:** Fixation — Spirit made permanent in matter
+
+---
+
+
+[^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967) — Ishim as 'Souls of Fire,' angelic order of Malkuth.
 
 ---
 

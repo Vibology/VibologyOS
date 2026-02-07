@@ -29,7 +29,7 @@ The Seraphim are **love without object**. They do not love *something*—they *a
 
 ### Biblical Foundation: Isaiah's Vision
 
-The Seraphim appear most famously in **Isaiah 6:1-7**, one of the most numinous passages in all of scripture. The prophet Isaiah, in the year King Uzziah died (circa 740 BCE), has a vision of the LORD seated on a throne, high and exalted:
+The Seraphim appear most famously in **Isaiah 6:1-7**, one of the most numinous passages in all of scripture.[^1] The prophet Isaiah, in the year King Uzziah died (circa 740 BCE), has a vision of the LORD seated on a throne, high and exalted:
 
 > *"Above him were seraphim, each with six wings: With two wings they covered their faces, with two they covered their feet, and with two they were flying. And they were calling to one another: 'Holy, holy, holy is the LORD Almighty; the whole earth is full of his glory.' At the sound of their voices the doorposts and thresholds shook and the temple was filled with smoke."* (Isaiah 6:2-4, NIV)
 
@@ -711,6 +711,11 @@ This is the Seraphim's gift: the **dissolution of the illusion of separation**.
 - Dark Night of the Soul (the purifying fire)
 - [[Contemplative Prayer]]
 - [[Pathworking|Qabalistic Pathworking]]
+
+---
+
+
+[^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967) and Pseudo-Dionysius, *The Celestial Hierarchy* (6th century) — Seraphim as highest angelic order of divine love.
 
 ---
 

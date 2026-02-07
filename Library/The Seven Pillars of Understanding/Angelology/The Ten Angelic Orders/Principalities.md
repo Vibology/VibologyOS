@@ -31,7 +31,7 @@ The Principalities are **princes**—not in the sense of domination, but in the 
 
 ### The Principality as Collective Guardian
 
-Unlike the **Angels** (Order 9), who attend to individuals, or the **Archangels** (Order 8), who carry specific divine messages and embody archetypal forces, the Principalities operate at the level of the **collective**. They are the guardians of:
+Unlike the **Angels** (Order 9), who attend to individuals, or the **Archangels** (Order 8), who carry specific divine messages and embody archetypal forces, the Principalities operate at the level of the **collective**.[^1] They are the guardians of:
 
 - **Nations and kingdoms** — The "Angel of Israel," the "Genius of Rome," the "Spirit of a people"
 - **Religions and spiritual movements** — The guiding intelligence behind Christianity, Islam, Buddhism, etc.
@@ -833,6 +833,11 @@ To integrate the Principalities is to become the **conscious participant in coll
 ### Cross-System Synthesis
 - Venus and the Spleen Center (Potential synthesis) — Astrology + HD integration of belonging consciousness
 - The Guardian of Nations (Potential synthesis) — Angelology + Qabalah + Jungian integration of collective consciousness
+
+---
+
+
+[^1]: Pseudo-Dionysius, *The Celestial Hierarchy* (6th century) — Principalities as angels of nations and groups.
 
 ---
 

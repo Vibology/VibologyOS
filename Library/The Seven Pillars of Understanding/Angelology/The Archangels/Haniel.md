@@ -43,7 +43,7 @@ The name **Haniel** (חניאל) derives from:
 
 Thus: **"Grace of God"** or **"Glory of God"**
 
-Haniel is the intelligence through which divine grace becomes tangible—the beauty that calls forth devotion, the love that binds beings together, the fertility of the natural world.
+Haniel is the intelligence through which divine grace becomes tangible—the beauty that calls forth devotion, the love that binds beings together, the fertility of the natural world.[^1]
 
 ### Grimoire Foundation: The Angel of Venus
 
@@ -657,6 +657,11 @@ If the "love" leads to **loss of self**, it is not Haniel but the Qlippothic she
 - [[YHVH Tzabaoth]] — Divine name of Netzach, "Lord of Hosts"
 
 ---
+
+[^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967) — Haniel as 'Grace of God,' archangel of Netzach.
+
+---
+
 ## Sources
 ### Primary Sources
 

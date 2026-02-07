@@ -53,7 +53,7 @@ B I T O M
 - **NANTA** — Earth (North)
 - **BITOM** — Fire (South)
 
-**Invocation:** These names are vibrated before any Watchtower work to establish unity and balance across the four elements.
+**Invocation:** These names are vibrated before any Watchtower work to establish unity and balance across the four elements.[^1]
 
 ### Directional and Elemental Attributions
 
@@ -507,6 +507,11 @@ The Watchtowers are not abstract philosophy—they are a **functional tool** for
 - [[Human Design]] — Center-element parallels
 
 ---
+
+[^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967).
+
+---
+
 ## Sources
 ### Primary Sources
 

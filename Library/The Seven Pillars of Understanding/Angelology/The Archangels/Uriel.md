@@ -43,7 +43,7 @@ The Hebrew name **Uri'el** (אוריאל) is composed of:
 - Light/Fire = **אור** (*Or*)
 - God = **אל** (*El*)
 
-Thus: **"Fire of God"** or **"Light of God"** or **"God is my Light."**
+Thus: **"Fire of God"** or **"Light of God"** or **"God is my Light.[^1]"**
 
 This name is profoundly paradoxical when paired with Uriel's earthly attribution. How can the angel of Earth be named "Fire"? The answer lies in understanding the nature of **chthonic fire**—not the ascending, purifying fire of the Seraphim or Michael's solar flame, but the **fire within the earth**: volcanic, subterranean, transformative through pressure and heat. This is the fire that turns carbon into diamond, the fire of the forge, the fire of **alchemical transmutation** that works through **embodiment**, not transcendence.
 
@@ -776,6 +776,11 @@ Uriel does not announce himself with visions of light or celestial music (that i
 
 
 ---
+
+[^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967) — Uriel as 'Fire of God,' archangel of Earth and Wisdom.
+
+---
+
 ## Sources
 ### Primary Sources
 

@@ -21,7 +21,7 @@ In the Qabalistic tradition, Éliphas Lévi writes: *"Angels collect the divine 
 ---
 ## The Celestial Hierarchy: Pseudo-Dionysius
 
-The foundational text of Christian Angelology is **Pseudo-Dionysius the Areopagite's *The Celestial Hierarchy***, written in the 6th century (Davidson, *A Dictionary of Angels*). Pseudo-Dionysius systematized the angelic orders into **Nine Choirs** organized into **Three Triads**, each triad representing a distinct mode of relationship to the Divine (Pseudo-Dionysius, *Celestial Hierarchies*; Davidson, *A Dictionary of Angels*):
+The foundational text of Christian Angelology is **Pseudo-Dionysius the Areopagite's *The Celestial Hierarchy***, written in the 6th century (Davidson, *A Dictionary of Angels*).[^1] Pseudo-Dionysius systematized the angelic orders into **Nine Choirs** organized into **Three Triads**, each triad representing a distinct mode of relationship to the Divine (Pseudo-Dionysius, *Celestial Hierarchies*; Davidson, *A Dictionary of Angels*):
 
 ### The Three Triads
 
@@ -318,6 +318,11 @@ The goal is not to *become* an angel but to **participate in angelic consciousne
 *"The angelic hierarchies are not distant forces. They are the very breath of God, descending through infinite gradations until they touch the human soul. To know them is to know the architecture of your own becoming."*
 
 ---
+
+[^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967).
+
+---
+
 ## Sources
 
 Agrippa, Heinrich Cornelius. *The Occult Philosophy* (Three Books of Occult Philosophy). 1531.

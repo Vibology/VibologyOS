@@ -44,7 +44,7 @@ The name *Gavri'el* (גבריאל) is constructed from two Hebrew roots:
 - **Gever** (גבר) — "strength, might, hero, warrior" (masculine power in service to the divine)
 - **El** (אל) — "God"
 
-Thus Gabriel is *"God is my Strength"* or *"Strength of God"*—the intelligence through which divine power is **announced, revealed, made known**. This is not the martial strength of Michael (the sword) but the **strength of conviction, of clarity, of the word that cannot be un-heard**. Gabriel's strength is the strength of **truth delivered at the appointed hour**, the strength of the message that changes everything.
+Thus Gabriel is *"God is my Strength"* or *"Strength of God"*—the intelligence through which divine power is **announced, revealed, made known**.[^1] This is not the martial strength of Michael (the sword) but the **strength of conviction, of clarity, of the word that cannot be un-heard**. Gabriel's strength is the strength of **truth delivered at the appointed hour**, the strength of the message that changes everything.
 
 In Islamic tradition, Gabriel is known as **Jibril** (جبريل), the angel who delivered the Qur'an to the Prophet Muhammad over 23 years—making Gabriel the mediator of the entire Islamic revelation. In Christianity, Gabriel is the angel who announced the birth of John the Baptist to Zechariah and the birth of Jesus to Mary—making Gabriel the herald of the Incarnation itself.
 
@@ -731,6 +731,11 @@ If the "message" leads to **inflation, fear, or ego-serving action**, it is not 
 - Psychopomp — Guide of souls between worlds
 
 ---
+
+[^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967) — Gabriel as 'Strength of God,' archangel of Annunciation, Mercy, and Revelation.
+
+---
+
 ## Sources
 ### Primary Sources
 

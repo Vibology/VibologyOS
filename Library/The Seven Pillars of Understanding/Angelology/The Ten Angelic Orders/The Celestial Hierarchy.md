@@ -36,7 +36,7 @@ The Dionysian system provided the conceptual framework for Thomas Aquinas, Dante
 
 ### The Nine Orders in Three Triads
 
-The Dionysian hierarchy organizes the angels into **three triads** of three orders each. The flow of illumination is **strictly hierarchical**: God illuminates the **First Triad**, which in turn purifies, illuminates, and perfects the **Second Triad**, which then transmits to the **Third Triad**. Each triad mediates between the realm above and below, creating a **cascading transmission** of divine light from unity to multiplicity.
+The Dionysian hierarchy organizes the angels into **three triads** of three orders each.[^1] The flow of illumination is **strictly hierarchical**: God illuminates the **First Triad**, which in turn purifies, illuminates, and perfects the **Second Triad**, which then transmits to the **Third Triad**. Each triad mediates between the realm above and below, creating a **cascading transmission** of divine light from unity to multiplicity.
 
 | **Triad** | **Orders** | **Function** | **Focus** |
 |-----------|------------|--------------|-----------|
@@ -263,6 +263,11 @@ Both systems agree on the **structure**: divine light emanates downward through 
 - **Tarot:** [[The Fool's Journey|The Major Arcana]] as descent from Fool (Kether) to World (Malkuth)
 - **Human Design:** [[Centers]] as energy receivers and transformers
 - **Alchemy:** [[Separation]] and [[Coagulation]] — Spirit descending into matter, matter ascending into spirit
+
+---
+
+
+[^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967).
 
 ---
 

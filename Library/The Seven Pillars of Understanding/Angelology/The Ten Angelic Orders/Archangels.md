@@ -33,7 +33,7 @@ The Archangels are **mediators of mediation**—they receive divine decrees from
 
 ### The Function of the Archangel: Announcement and Summons
 
-The Archangels do not govern abstract principles or oversee impersonal forces. They **speak to individuals**, calling them by name, summoning them to participate in divine purpose. Every Archangelic message is both **gift and demand**—grace freely offered, but requiring response.
+The Archangels do not govern abstract principles or oversee impersonal forces.[^1] They **speak to individuals**, calling them by name, summoning them to participate in divine purpose. Every Archangelic message is both **gift and demand**—grace freely offered, but requiring response.
 
 When Gabriel appears to Mary (Luke 1:26-38) with the Annunciation—*"Hail, favored one! The Lord is with you"*—he is not making a suggestion. He is **announcing reality**. Mary's "yes" (*"Behold, I am the handmaid of the Lord; let it be to me according to your word"*) is the human consent that allows divine will to incarnate, but Gabriel's message is the **initiating force**, the declaration that rearranges the cosmos.
 
@@ -483,6 +483,11 @@ The individual becomes a **channel** through which divine will flows into the wo
 - **Astrology:** [[Mercury ☿]] | [[Gemini ♊]] | [[Virgo ♍]]
 - **Human Design:** [[Sacral|Sacral Center]] | [[Gate 05 - Waiting|Gate 5]] | [[Gate 14 - Possession in Great Measure|Gate 14]] | [[Gate 29 - The Abysmal|Gate 29]] | [[Generator]] | Manifesting Generator
 - **Jungian Psychology:** Vocation | [[Individuation Process|Individuation]] | [[The Self]] | The Voice | Numinous Encounter
+
+---
+
+
+[^1]: Pseudo-Dionysius, *The Celestial Hierarchy* (6th century) — Archangels as divine messengers.
 
 ---
 

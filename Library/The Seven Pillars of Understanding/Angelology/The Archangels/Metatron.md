@@ -37,7 +37,7 @@ Metatron is unique among the Archangels for two reasons: first, he is the **only
 
 ### The Name: Beside the Throne
 
-The etymology of *Metatron* is debated among scholars. Unlike other Archangelic names (Michael = "Who is as God?", Gabriel = "God is my strength"), Metatron's name does not follow the standard Hebrew theophoric pattern (ending in *-el*). Several theories exist:
+The etymology of *Metatron* is debated among scholars.[^1] Unlike other Archangelic names (Michael = "Who is as God?", Gabriel = "God is my strength"), Metatron's name does not follow the standard Hebrew theophoric pattern (ending in *-el*). Several theories exist:
 
 1. **Greek Origin:** From *meta* (after/beyond) + *thronos* (throne) = "One who serves behind the throne" or "Beside the throne"
 2. **Latin Origin:** From *metator* (guide/measurer) = "The one who measures and guides" (Davidson, *A Dictionary of Angels*)
@@ -545,6 +545,11 @@ Metatron is the guide of the greatest threshold—the passage from human to divi
 
 
 ---
+
+[^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967) — Metatron as 'Lesser YHVH,' scribe and Kether archangel.
+
+---
+
 ## Sources
 
 **Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.

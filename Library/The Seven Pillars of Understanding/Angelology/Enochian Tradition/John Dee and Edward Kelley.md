@@ -388,7 +388,7 @@ Together, they form a **syzygy** (union of opposites), necessary for the work:
 
 **Danger:** Trusting authority (angelic or otherwise) without discernment
 
-**Lesson:** Even devout seekers can be deceived. Spiritual maturity requires **integration of Shadow**, not just piety.
+**Lesson:** Even devout seekers can be deceived.[^1] Spiritual maturity requires **integration of Shadow**, not just piety.
 
 ### Kelley's Shadow: The Exploiter
 
@@ -433,6 +433,11 @@ Their work endures because it **speaks to something real**—whether that "real"
 - [[The Fool (0)]] — Kelley as Trickster, chaos and revelation
 - [[The Wise Old Man]] — Dee's archetype
 - [[The Shadow]] — Kelley's role as shadow-bearer
+
+---
+
+
+[^1]: Lon Milo DuQuette, *Enochian Vision Magick: An Introduction and Practical Guide to the Magick of Dr. John Dee and Edward Kelley* (Weiser Books, 2008).
 
 ---
 

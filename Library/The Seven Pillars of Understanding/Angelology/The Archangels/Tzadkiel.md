@@ -45,7 +45,7 @@ The name **Tzadkiel** (צדקיאל) breaks down as:
 
 Thus: **"Righteousness of God"** or **"Justice of God"**
 
-This is not the harsh justice of retribution—this is **restorative justice**, the justice that seeks to make whole, to heal, to restore right relationship. *Tzedek* in Hebrew encompasses both justice and righteousness, the understanding that true justice is not punitive but **corrective and generous**.
+This is not the harsh justice of retribution—this is **restorative justice**, the justice that seeks to make whole, to heal, to restore right relationship.[^1] *Tzedek* in Hebrew encompasses both justice and righteousness, the understanding that true justice is not punitive but **corrective and generous**.
 
 ### Biblical Foundation: The Blessing of Abraham
 
@@ -1011,6 +1011,11 @@ Choose one person (including yourself) to **forgive this week**. Mercy is not we
 
 
 ---
+
+[^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967) — Tzadkiel as 'Righteousness of God,' archangel of Chesed.
+
+---
+
 ## Sources
 
 **Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.

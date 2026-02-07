@@ -26,7 +26,7 @@ The **Cherubim** (Hebrew: *Kerubim*, from Akkadian *karibu*; Qabalistic choir na
 
 ### Pseudo-Dionysius: The Celestial Hierarchy
 
-Pseudo-Dionysius the Areopagite places the Cherubim in the First Triad as the second highest order. Gustav Davidson notes that they "excel in knowledge" and serve as the bearers of God's throne, personifications of divine wisdom. Davidson cites Pseudo-Dionysius's teaching that the Cherubim possess the capacity to contemplate divine splendor and to communicate wisdom downward through the hierarchical chain.
+Pseudo-Dionysius the Areopagite places the Cherubim in the First Triad as the second highest order.[^1] Gustav Davidson notes that they "excel in knowledge" and serve as the bearers of God's throne, personifications of divine wisdom. Davidson cites Pseudo-Dionysius's teaching that the Cherubim possess the capacity to contemplate divine splendor and to communicate wisdom downward through the hierarchical chain.
 
 The Cherubim do not merely *receive* divine wisdom—they **overflow** with it, transmitting knowledge downward through the hierarchical chain. They are the first intelligence to *organize* the pure fire of the Seraphim into patterns, structures, and intelligible forms. Where the Seraphim are pure *being*, the Cherubim are pure *knowing*.
 
@@ -902,6 +902,11 @@ For those who consciously align with Cherubic intelligence, a vow may be taken (
 - [[Synchronicity]] (Meaningful coincidence, pattern recognition)
 - Chakra System (Ajna Chakra, third eye, inner vision)
 - Mythology (Tetramorphs, Lamassu, Four Mahārājas, Four Sons of Horus)
+
+---
+
+
+[^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967) and Pseudo-Dionysius, *The Celestial Hierarchy* (6th century) — Cherubim as guardians of divine wisdom.
 
 ---
 

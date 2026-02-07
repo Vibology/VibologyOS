@@ -58,7 +58,7 @@ To encounter Throne consciousness is to meet the **unyielding stability of divin
 ---
 ## Biblical and Scriptural Foundation
 
-The Thrones appear less explicitly in scripture than the Seraphim or Cherubim, but their function is implied throughout biblical theology as the **foundation of divine judgment and cosmic order**.
+The Thrones appear less explicitly in scripture than the Seraphim or Cherubim, but their function is implied throughout biblical theology as the **foundation of divine judgment and cosmic order**.[^1]
 
 ### Scriptural Allusions
 
@@ -603,6 +603,11 @@ To integrate the Thrones is to become the **sacred container**—the womb, the t
 ### Cross-System Synthesis
 - Saturn Return at 29 (Synthesis piece) — Astrology + HD + Tarot integration of Throne/Saturn initiation
 - The Throat as Manifestation Gateway (Potential synthesis) — HD + Angelology + Qabalah
+
+---
+
+
+[^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967) and Pseudo-Dionysius, *The Celestial Hierarchy* (6th century) — Thrones as bearers of divine justice.
 
 ---
 

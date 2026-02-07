@@ -43,7 +43,7 @@ Each triad contains **three orders**, creating a **3×3 matrix** (nine orders to
 
 ### The Nature of the First Triad
 
-The First Triad dwells in the **immediate presence of God**. They do not mediate divine will to lower orders or to humanity—they **are** the divine will, contemplating and radiating the primal light without distortion. Pseudo-Dionysius writes: *"The first hierarchy of the heavenly beings is purified and illuminated and perfected by being filled directly from the Divine Source. They are established in the presence of God and are purified by the primal light itself, illuminated by the first emanation of divine knowledge"* (Pseudo-Dionysius, *The Celestial Hierarchy*; Davidson, *A Dictionary of Angels*).
+The First Triad dwells in the **immediate presence of God**.[^1] They do not mediate divine will to lower orders or to humanity—they **are** the divine will, contemplating and radiating the primal light without distortion. Pseudo-Dionysius writes: *"The first hierarchy of the heavenly beings is purified and illuminated and perfected by being filled directly from the Divine Source. They are established in the presence of God and are purified by the primal light itself, illuminated by the first emanation of divine knowledge"* (Pseudo-Dionysius, *The Celestial Hierarchy*; Davidson, *A Dictionary of Angels*).
 
 These orders do not "act" in the way we understand action. Their **being is their function**. To be a Seraph is to *burn* with divine love; to be a Cherub is to *whirl* with divine wisdom; to be a Throne is to *uphold* divine justice. They have no separate will, no ego, no personal agenda—they are **transparency itself**, refracting the light of God without adding or subtracting from it.
 
@@ -236,6 +236,11 @@ To engage the Third Triad is to **listen to intuition, follow synchronicity, and
 ---
 
 *"The Three Triads are the ladder of divine descent and human ascent. In descending, God becomes the world. In ascending, the world becomes God. The angels are the rungs."*
+
+---
+
+
+[^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967).
 
 ---
 

@@ -44,7 +44,7 @@ These functions, when **balanced by mercy** ([[Chesed]]), produce **Tiphareth** 
 
 ### Geburah-Chesed Axis
 
-The **Tree of Life** maintains balance through the interaction of opposing Sephiroth. Geburah (Severity, Strength, Judgment) on the **Left Pillar** must be tempered by Chesed (Mercy, Love, Grace) on the **Right Pillar**:
+The **Tree of Life** maintains balance through the interaction of opposing Sephiroth.[^1] Geburah (Severity, Strength, Judgment) on the **Left Pillar** must be tempered by Chesed (Mercy, Love, Grace) on the **Right Pillar**:
 
 | **Chesed (Mercy)** | **Tiphareth (Harmony)** | **Geburah (Severity)** |
 |--------------------|-------------------------|------------------------|
@@ -278,6 +278,11 @@ This is **Kamael in service to Chesed**—the loving parent who sets boundaries,
 - **Human Design:** [[Spleen]] (survival instinct, immune function, discernment)
 - **Alchemy:** [[Separation]] (solutio—dissolving false structures before recrystallization)
 - **Personal Mythos:** [[The Hero's Journey]] (Trial, Ordeal—the testing function of Samael/Kamael)
+
+---
+
+
+[^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967).
 
 ---
 

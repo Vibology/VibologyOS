@@ -59,7 +59,7 @@ The name **Mikha'el** (מיכאל) is constructed as a **rhetorical question**:
 
 Thus: **"Who is like God?"** or **"Who is as God?"**
 
-The question is **rhetorical**—it implies its own answer: **"No one."** This is not a question seeking information; it is a **proclamation of divine uniqueness and supremacy**.
+The question is **rhetorical**—it implies its own answer: **"No one.[^1]"** This is not a question seeking information; it is a **proclamation of divine uniqueness and supremacy**.
 
 In the biblical context, Michael's name is a **rebuke to pride and inflation**:
 - It answers the serpent's lie in Eden: *"You will be like God"* (*Genesis 3:5*) — Michael's name declares: "No, you will not."
@@ -892,6 +892,11 @@ This is **Michael's teaching**—humility (recognizing you are not God) and purp
 
 
 ---
+
+[^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967) — Michael as 'Who is like God,' archangel of Protection, War, and Sun.
+
+---
+
 ## Sources
 ### Primary Sources
 

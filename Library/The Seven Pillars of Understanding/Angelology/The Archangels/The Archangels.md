@@ -32,7 +32,7 @@ This overview addresses the **second sense**—the eleven named Archangels who s
 ---
 ## The Eleven Archangels of the Sephiroth
 
-In the Qabalistic tradition, each of the ten Sephiroth (and sometimes Daath, the hidden eleventh) is governed by an Archangel who embodies that sphere's intelligence and mediates its function to creation. These are not merely "members" of Order 8—they are **princes of the celestial realm**, wielding authority comparable to or exceeding the highest orders.
+In the Qabalistic tradition, each of the ten Sephiroth (and sometimes Daath, the hidden eleventh) is governed by an Archangel who embodies that sphere's intelligence and mediates its function to creation.[^1] These are not merely "members" of Order 8—they are **princes of the celestial realm**, wielding authority comparable to or exceeding the highest orders.
 
 | Archangel | Hebrew | Sephirah | Sphere | Element | Function |
 |-----------|--------|----------|--------|---------|----------|
@@ -265,6 +265,11 @@ For comprehensive treatment of each archangel, see their individual entries:
 *"The Archangels are not merely cosmic functionaries. They are the living intelligence of divine attributes, the personal faces of impersonal forces, the voices through which the Infinite speaks to the finite. To know them is to recognize that the universe is not a cold mechanism but a living conversation between Creator and creation."*
 
 ---
+
+[^1]: Pseudo-Dionysius, *The Celestial Hierarchy* (6th century) — Archangels as divine messengers.
+
+---
+
 ## Sources
 
 Davidson, Gustav. *A Dictionary of Angels: Including the Fallen Angels*. New York: Free Press, 1967.

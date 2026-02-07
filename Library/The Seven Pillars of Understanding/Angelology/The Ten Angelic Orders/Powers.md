@@ -62,7 +62,7 @@ To encounter Power consciousness is to meet the **unyielding strength of cosmic 
 ---
 ## Biblical and Scriptural Foundation
 
-The Powers are less explicitly named in scripture than the Seraphim or Cherubim, but their function—**opposition to chaos and defense of cosmic order**—permeates biblical theology.
+The Powers are less explicitly named in scripture than the Seraphim or Cherubim, but their function—**opposition to chaos and defense of cosmic order**—permeates biblical theology.[^1]
 
 ### Scriptural Allusions
 
@@ -653,6 +653,11 @@ To integrate the Powers is to become the **sacred warrior**—the one who defend
 ### Cross-System Synthesis
 - Mars and the Heart Center (Potential synthesis) — Astrology + HD integration of martial consciousness
 - The Sword of Discrimination (Potential synthesis) — Qabalah + Tarot + Jungian integration of discernment
+
+---
+
+
+[^1]: Pseudo-Dionysius, *The Celestial Hierarchy* (6th century) — Powers as angels of cosmic order.
 
 ---
 

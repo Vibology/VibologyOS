@@ -50,7 +50,7 @@ The revelations unfolded over four years:
 **1583-1584:** Reception of Liber Loagaeth (49 mystical tables)
 **1584-1585:** Revelation of the Great Table (Watchtowers), the 48 Calls, and the 30 Aethyrs
 
-The angels insisted that this knowledge was being restored to humanity after millennia of loss—that Enochian was the language used by the patriarch **Enoch** before his ascension.
+The angels insisted that this knowledge was being restored to humanity after millennia of loss—that Enochian was the language used by the patriarch **Enoch** before his ascension.[^1]
 
 ---
 ## The Three Core Systems
@@ -402,6 +402,11 @@ The system demands **humility, discipline, and relentless self-honesty**. It is 
 - [[The Hero's Journey]] — Monomythic structure in the 30 Aethyrs
 
 ---
+
+[^1]: Lon Milo DuQuette, *Enochian Vision Magick: An Introduction and Practical Guide to the Magick of Dr. John Dee and Edward Kelley* (Weiser Books, 2008).
+
+---
+
 ## Sources
 ### Primary Sources
 

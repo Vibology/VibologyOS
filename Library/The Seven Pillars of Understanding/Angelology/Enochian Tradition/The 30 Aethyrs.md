@@ -35,7 +35,7 @@ Unlike most mystical systems (which ascend from 1 to higher numbers), the Aethyr
 - **30 (TEX)** — The outermost sphere, closest to material manifestation
 - **1 (LIL)** — The innermost sphere, the throne of divine unity
 
-This reflects the Enochian cosmology: the divine emanates **outward** from unity (LIL) into multiplicity (TEX). The magician's journey **reverses this flow**, ascending from fragmentation back to source.
+This reflects the Enochian cosmology: the divine emanates **outward** from unity (LIL) into multiplicity (TEX).[^1] The magician's journey **reverses this flow**, ascending from fragmentation back to source.
 
 ### The 91 Governors
 
@@ -673,6 +673,11 @@ The Aethyrs are not a doctrine to believe but a **journey to undertake**. They d
 - [[Astrology]] — Potential zodiacal correspondences
 
 ---
+
+[^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967).
+
+---
+
 ## Sources
 ### Primary Sources
 

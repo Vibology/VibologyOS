@@ -31,7 +31,7 @@ The Angels are **not** inferior because they are lowest—they are *humble*. The
 
 ### The Guardian Angel Tradition
 
-The concept of the **guardian angel**—the idea that every human soul has a personal angelic companion assigned from birth to death—is central to the Angelic order. This is not merely Christian sentimentality; it is rooted in ancient tradition.
+The concept of the **guardian angel**—the idea that every human soul has a personal angelic companion assigned from birth to death—is central to the Angelic order.[^1] This is not merely Christian sentimentality; it is rooted in ancient tradition.
 
 In **Exodus 23:20-21**, God tells Moses: *"See, I am sending an angel ahead of you to guard you along the way and to bring you to the place I have prepared. Pay attention to him and listen to what he says."*
 
@@ -762,6 +762,11 @@ Listen.
 - Subtle Listening (the art of hearing the quiet voice)
 - [[Synchronicity]] (meaningful coincidence, angelic guidance)
 - Discernment (distinguishing true guidance from ego)
+
+---
+
+
+[^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967).
 
 ---
 

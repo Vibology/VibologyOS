@@ -54,7 +54,7 @@ The **Sigillum Dei Aemeth** (Seal of God's Truth) is a large wax disc, approxima
 
 Within the central heptagon are seven mystical names of God, revealed by the angels:
 
-1. **Sabathiel** (or variations in manuscript)
+1.[^1] **Sabathiel** (or variations in manuscript)
 2. **Zedekieil**
 3. **Madimiel**
 4. **Semeliel**
@@ -427,6 +427,11 @@ The Heptarchia is the **training ground** of Enochian magic. Those who learn to 
 - [[The Tree of Life]] — Sephirotic-planetary mapping
 
 ---
+
+[^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967).
+
+---
+
 ## Sources
 ### Primary Sources
 

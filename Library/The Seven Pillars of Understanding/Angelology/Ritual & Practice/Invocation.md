@@ -95,7 +95,7 @@ Each [[The Archangels|Archangel]] governs specific domains:
 
 ## Cautions
 
-- **Discernment:** Not every spiritual impression is angelic. Test spirits against tradition and conscience. (See [[Discernment of Spirits]])
+- **Discernment:** Not every spiritual impression is angelic.[^1] Test spirits against tradition and conscience. (See [[Discernment of Spirits]])
 - **Balance:** Invocation supplements but does not replace practical action and psychological work.
 - **Humility:** Avoid inflation from spiritual experiences. The goal is service, not spiritual status.
 - **Mechanical grounding:** Always verify intuitive impressions against chart mechanics (gates, planets, centers). Angelic insight enriches synthesis; it does not replace it.
@@ -554,6 +554,11 @@ What they receive is the **fruit** of your practice:
 - Archetypal wisdom
 
 The Observatory is more effective when all instruments are properly tuned. Invocation is one of those instruments. Use it well, use it privately, and let the quality of your synthesis speak for itself.
+
+---
+
+
+[^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967).
 
 ---
 

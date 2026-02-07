@@ -62,7 +62,7 @@ The Enochian alphabet consists of 21 characters, each with:
 | **X** | Fam | "fam" | X | 200 |
 | **Z** | Gisa | "gee-sa" | Z | 300 |
 
-**Note:** Some traditions include additional letters or variations (e.g., a 22nd letter for "Th"), but the 21-letter system is canonical per Dee's original manuscripts.
+**Note:** Some traditions include additional letters or variations (e.[^1]g., a 22nd letter for "Th"), but the 21-letter system is canonical per Dee's original manuscripts.
 
 ### Phonetic Characteristics
 
@@ -595,6 +595,11 @@ The language is not to be learned like French or Spanish—it is to be **embodie
 - [[Jungian Archetypes]] — The language as a bridge to the collective unconscious
 
 ---
+
+[^1]: Lon Milo DuQuette, *Enochian Vision Magick: An Introduction and Practical Guide to the Magick of Dr. John Dee and Edward Kelley* (Weiser Books, 2008).
+
+---
+
 ## Sources
 ### Primary Sources
 

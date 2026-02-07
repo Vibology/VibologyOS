@@ -74,7 +74,7 @@ This category encompasses several specific orders and named angels:
 
 ### 1. The Seraphim: The Burning Ones
 
-The **[[Seraphim]]** (singular: *Seraph*; Hebrew: שרפים) are the **highest order** of the celestial hierarchy, whose name literally means **"Burning Ones"** or **"Fiery Serpents"** (Gustav Davidson).
+The **[[Seraphim]]** (singular: *Seraph*; Hebrew: שרפים) are the **highest order** of the celestial hierarchy, whose name literally means **"Burning Ones"** or **"Fiery Serpents"** (Gustav Davidson).[^1]
 
 **Gustav Davidson** defines them as:
 
@@ -316,6 +316,11 @@ In ancient practice (and some modern ceremonial magic), **fire offerings** (ince
 - **Tarot:** [[The Sun (XIX)]] (Key XIX, Tiphareth), [[The Tower (XVI)]] (Key XVI, Geburah lightning)
 - **Alchemy:** [[Calcination]] (first operation—burning away impurities), **Red King** (Sol, solar fire)
 - **Human Design:** [[Emotional Authority]] (Solar Plexus wave—fire rising and falling)
+
+---
+
+
+[^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967).
 
 ---
 

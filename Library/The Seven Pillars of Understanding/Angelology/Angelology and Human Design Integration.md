@@ -181,7 +181,7 @@ The **Root Center** is the seat of **Angelic consciousness**—the guardians of 
 The vertical structure of the BodyGraph mirrors the vertical structure of the angelic hierarchy:
 
 **From Root to Head: The Ascent of Consciousness**
-1. **Root (Angels):** Pressure initiates movement
+1.[^1] **Root (Angels):** Pressure initiates movement
 2. **Sacral (Archangels):** Life force responds to invitation
 3. **Spleen (Principalities):** Intuition discerns what belongs
 4. **Solar Plexus (Virtues):** Emotion integrates experience
@@ -237,6 +237,11 @@ You are not here to rush. The pressure you feel is not yours—it belongs to the
 ---
 
 *"The BodyGraph is not a diagram. It is a map of the angelic hierarchy within you. To know your design is to know which angels you carry."*
+
+---
+
+
+[^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967).
 
 ---
 

@@ -32,7 +32,7 @@ In the **Qabalistic** integration of this system, the ten orders align with the 
 ---
 ## The Three Triads
 
-The traditional **Christian Dionysian hierarchy** organizes nine orders into three triads based on their proximity to God and their primary function. The **Qabalistic system** extends this to ten orders by adding the Ishim for Malkuth:
+The traditional **Christian Dionysian hierarchy** organizes nine orders into three triads based on their proximity to God and their primary function.[^1] The **Qabalistic system** extends this to ten orders by adding the Ishim for Malkuth:
 
 ### First Triad: The Counselors (Orders 1-3)
 **Proximity:** Immediate presence of God
@@ -404,6 +404,11 @@ For comprehensive treatment of each order, see their individual entries:
 ---
 
 *"The ten orders are not a bureaucracy of heaven but a living organism of divine intelligence. Each order participates in the great work of transmitting divine light from the Source to the world, ensuring that every level of creation—from the highest angel to the humblest human—receives exactly the illumination it can bear. To know the orders is to understand the architecture of grace."*
+
+---
+
+
+[^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967).
 
 ---
 

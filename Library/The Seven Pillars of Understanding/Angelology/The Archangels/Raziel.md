@@ -37,7 +37,7 @@ The Hebrew name **Razi'el** (רזיאל) is composed of:
 - **Raz** (רז) — "secret, mystery" (Aramaic loanword in Hebrew)
 - **El** (אל) — "God"
 
-Thus: **"Secret of God,"** **"Mystery of God,"** or **"Herald of Deity."**
+Thus: **"Secret of God,"** **"Mystery of God,"** or **"Herald of Deity.[^1]"**
 
 Unlike other archangelic names ending in *-el* (Michael, Gabriel, Raphael), which describe *actions* or *qualities* of God, Raziel's name points to *hiddenness*—the knowledge that is concealed, the wisdom accessible only to the initiated. His very name is an invocation of the esoteric, the gnostic, the occult (meaning "hidden," not "evil").
 
@@ -715,6 +715,11 @@ The danger of invoking Raziel is **spiritual inflation**—the ego's tendency to
 
 
 ---
+
+[^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967) — Raziel as 'Secret of God,' archangel of Chokmah and mysteries.
+
+---
+
 ## Sources
 
 **Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.

@@ -32,7 +32,7 @@ The Virtues are **unshakable strength** in service of divine will. They do not f
 ---
 ### The Virtue as Miraculous Power
 
-The term "Virtue" in this context does not mean moral goodness (though that is implied). The Latin *virtus* and Greek *dynamis* both mean **power, strength, capacity, efficacy**—especially *supernatural* power. In the Gospels, when Jesus heals the woman with the issue of blood, he says, *"I perceive that virtue is gone out of me"* (Luke 8:46, KJV)—meaning power, life force, healing energy.
+The term "Virtue" in this context does not mean moral goodness (though that is implied).[^1] The Latin *virtus* and Greek *dynamis* both mean **power, strength, capacity, efficacy**—especially *supernatural* power. In the Gospels, when Jesus heals the woman with the issue of blood, he says, *"I perceive that virtue is gone out of me"* (Luke 8:46, KJV)—meaning power, life force, healing energy.
 
 The Virtues are this **virtue**—the divine power that flows from God through the angelic orders into the material world, performing acts that cannot be explained by natural law. They are the **grace** (Greek: *charis*, "gift, favor, freely given power") that makes the impossible possible.
 
@@ -799,6 +799,11 @@ The Virtues teach the middle way:
 - [[Discernment of Spirits]]
 - Grace as Unearned Gift
 - Miracles and Divine Intervention
+
+---
+
+
+[^1]: Pseudo-Dionysius, *The Celestial Hierarchy* (6th century) — Virtues as angels of miracles and manifestation.
 
 ---
 

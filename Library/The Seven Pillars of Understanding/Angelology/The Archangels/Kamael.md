@@ -40,7 +40,7 @@ The name **Kamael** (כמאל) is typically translated as:
 - **"Severity of God"** (emphasizing the Geburah attribution)
 - **"God's Champion"** (the warrior aspect)
 
-Kamael's name reflects his function: the one who sees with divine clarity and acts with divine severity, cutting away all that does not serve the sacred.
+Kamael's name reflects his function: the one who sees with divine clarity and acts with divine severity, cutting away all that does not serve the sacred.[^1]
 
 ### Apocryphal Foundation: The Angel Who Wrestled Jacob
 
@@ -735,6 +735,11 @@ If the act leaves you feeling *inflated* (powerful, superior, righteous in a gra
 
 
 ---
+
+[^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967) — Kamael as 'Severity of God,' archangel of Geburah.
+
+---
+
 ## Sources
 
 **Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.

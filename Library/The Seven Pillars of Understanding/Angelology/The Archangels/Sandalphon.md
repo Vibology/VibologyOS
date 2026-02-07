@@ -39,7 +39,7 @@ Yet where Metatron ascended to the highest heights—dwelling in **Kether** (the
 
 ### The Name: Co-Brother
 
-The name **Sandalphon** (סנדלפון) is anomalous in the angelic lexicon. Traditional Archangelic names are compounds ending in *-el* (אל), the Hebrew word for "God"—*Mikha-el* ("Who is as God?"), *Gavri-el* ("Strength of God"), *Rafa-el* ("God heals"), *Uri-el* ("Light of God"). Sandalphon breaks this pattern.
+The name **Sandalphon** (סנדלפון) is anomalous in the angelic lexicon.[^1] Traditional Archangelic names are compounds ending in *-el* (אל), the Hebrew word for "God"—*Mikha-el* ("Who is as God?"), *Gavri-el* ("Strength of God"), *Rafa-el* ("God heals"), *Uri-el* ("Light of God"). Sandalphon breaks this pattern.
 
 The most common interpretation traces the name to the **Greek** *sym-adelphos* (συνάδελφος), meaning **"co-brother"** or **"fellow sibling"**—a reference to his twinship with Metatron. This Greek origin suggests that Sandalphon's name entered Jewish mysticism during the **Hellenistic period**, when Greek and Hebrew cosmologies interpenetrated.
 
@@ -988,6 +988,11 @@ Invoke Sandalphon when you need:
 
 
 ---
+
+[^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967) — Sandalphon as twin of Metatron, archangel of Malkuth.
+
+---
+
 ## Sources
 ### Primary Sources
 

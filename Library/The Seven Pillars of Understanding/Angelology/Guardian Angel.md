@@ -18,7 +18,7 @@ scriptural_foundation: Matthew 18:10, Psalm 91:11, Hebrews 1:14, Acts 12:15
 
 ## Essence
 
-The **Guardian Angel** is a theological and mystical concept found across multiple religious and esoteric traditions: the belief that each human soul is assigned a **personal angelic protector** who guides, guards, and intercedes on behalf of the individual throughout life—and in some traditions, beyond death into the afterlife.
+The **Guardian Angel** is a theological and mystical concept found across multiple religious and esoteric traditions: the belief that each human soul is assigned a **personal angelic protector** who guides, guards, and intercedes on behalf of the individual throughout life—and in some traditions, beyond death into the afterlife.[^1]
 
 This concept appears in three distinct but related forms:
 
@@ -273,6 +273,11 @@ Jung's method for contacting the inner guardian:
 - **Tarot:** [[The Sun (XIX)]] (Key XIX, Tiphareth), [[Temperance (XIV)]] (Key XIV, the angel as mediator)
 - **Human Design:** [[Strategy]] and [[Authority]] — following inner guidance (parallel to True Will)
 - **Alchemy:** The Philosophical Mercury — the inner guide through the Great Work
+
+---
+
+
+[^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967).
 
 ---
 

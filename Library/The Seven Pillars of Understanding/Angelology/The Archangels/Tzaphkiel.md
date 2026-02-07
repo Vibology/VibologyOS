@@ -45,7 +45,7 @@ The name **Tzaphkiel** (צפקיאל) breaks down as:
 
 Thus: **"Beholder of God"** or **"Contemplation of God"**
 
-This is not the active vision of the Cherubim's whirling wisdom—this is the **sustained, unwavering gaze** of Understanding. Tzaphkiel does not glance; Tzaphkiel **beholds**.
+This is not the active vision of the Cherubim's whirling wisdom—this is the **sustained, unwavering gaze** of Understanding.[^1] Tzaphkiel does not glance; Tzaphkiel **beholds**.
 
 ### Apocryphal Foundation: The Throne of God
 
@@ -963,6 +963,11 @@ Trust the answer will come when the time is right.
 
 
 ---
+
+[^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967) — Tzaphkiel as 'Contemplation of God,' archangel of Binah.
+
+---
+
 ## Sources
 
 **Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.
