@@ -16,7 +16,7 @@
 | Cross-References Coverage | 99.9% |
 | Dead Wikilinks | 0 |
 | YAML Compliance | 100% |
-| Stub Files | 23 (intentional scaffolding) |
+| Stub Files | 20 (intentional scaffolding) |
 
 **All core practice content is 100% complete:**
 - 78 Tarot cards (Major + Minor Arcana)
@@ -137,14 +137,14 @@ Old Window content (76 files) archived at `.archive/Library/The Window/`. The wo
 **Pending: IHDS Foundation Sequence Materials**
 Acquiring LYD manual ($50) and planning foundation course sequence (LYD $300, Rave ABCs $400, Rave Cartography $750). Library updates for HD foundational material are **on hold** until source texts are in hand.
 
-**Stub files available for expansion (23 remaining):**
+**Stub files available for expansion (20 remaining):**
 - ~~Qabalah subsystem (32 files) — COMPLETE, 0 stubs (Batches 1-4: 2026-02-06)~~
 - ~~Jungian concepts (7 stubs) — COMPLETE 2026-02-06~~
 - ~~Jungian archetypes (5 stubs) — COMPLETE 2026-02-06 (Imago Dei, Syzygy, Inner Child, Puer/Puella, Senex)~~
 - ~~Foundational entries (4 stubs) — COMPLETE 2026-02-06 (Core Foundations, BodyGraph, Deconditioning, Channels)~~
+- ~~Tarot overview (3 stubs) — COMPLETE 2026-02-06 (Divination, Fool's Journey, Pathworking)~~
 - Mythology deities (17 stubs) — archetypal anchors (Egyptian 3, Mesopotamian 1, Greek 13)
 - Personal Mythos practice (3 stubs) — Active Imagination, Numinous Experience, Heart Chakra Meditation
-- Tarot overview (3 stubs) — Divination, Fool's Journey, Pathworking
 - Personal Mythos overview (1 stub) — The Hero's Journey
 
 **Dignity system: COMPLETE (2026-02-04)**
@@ -187,6 +187,16 @@ Acquiring LYD manual ($50) and planning foundation course sequence (LYD $300, Ra
 ---
 
 ## Session History
+
+**2026-02-06 (Post-Midnight):** Tarot Overview Expansion — **3 stubs → comprehensive** (20 stubs remaining)
+- **Batch scope:** Complete all remaining Tarot overview/practice stubs
+- **Work completed:**
+  1. **Divination.md** (97 → 803 lines) — Complete Tarot reading methodology. Theoretical foundations: synchronicity (Jung), projective hypothesis, archetypal resonance, divinatory trance. Eight-step reading process: preparation, question formulation, spread selection, drawing/laying cards, initial impressions, interpretation (positional meaning + card archetypal meaning + synthesis), narrative weaving, integration/delivery. Five major spreads with full instructions: Celtic Cross (10 positions detailed, example interpretation), Tree of Life Spread (10 Sephiroth positions), Three-Card Spread (4 layout variations), Relationship Spread (7 positions), Horseshoe Spread (7 positions), Year Ahead Spread (13 cards). Reversals methodology: three schools (blocked energy, shadow expression, internalized), arguments for/against using reversals. Reading dynamics: reading for self (advantages/challenges/best practices), reading for others (responsibilities, skills, power dynamics, boundaries), group readings. Professional ethics: six-point code (do no harm, respect autonomy, maintain boundaries, practice competence, charge fairly, cultivate humility), red flags to avoid (fear-mongering, dependency creation, certainty claims, third-party manipulation). Historical development: five phases from playing cards (14th century) to contemporary diversification. Shadow work: spiritual bypassing, dependency/compulsion, projection, ego inflation (reader's shadow). Building divinatory skill (beginner/intermediate/advanced protocols). Sample reading protocol (30-minute structure).
+  2. **The Fool's Journey.md** (107 → 771 lines) — Complete narrative framework for 22 Major Arcana as individuation map. Three Septenaries structure: First (I-VII Realm of Consciousness—ego formation, worldly engagement), Second (VIII-XIV Realm of Soul—shadow work, moral development, ego death/rebirth), Third (XV-XXI Realm of Spirit—cosmic forces, spiritual apotheosis). All 22 cards analyzed individually with: Stage name, Hebrew letter/meaning, Path on Tree, Astrological attribution, Archetype description, Role in Journey, Jungian parallel, Shadow aspect, Tradition variations (RWS gentle psychological vs. Thoth alchemical intensity vs. Marseille archetypal purity). The Fool's position as 0 (potential, witness, trickster, eternal return—outside septenary sequence). Parallel to Jung's Individuation Process (table mapping Journey phases to individuation stages). Variations across Tarot traditions analyzed. Cross-references to Qabalah, Hero's Journey, Alchemical Process.
+  3. **Pathworking.md** (89 → 820 lines) — Complete visionary meditation practice for traveling the 22 Qabalistic paths. Theoretical foundations: 22 Paths structure (numbered 11-32, Hebrew letters, Major Arcana, astrological forces), Tarot as doorway, comparison with Active Imagination (structure vs. spontaneity). Four-phase protocol: Preparation (10-15 min—path selection with beginner/intermediate/advanced recommendations, study correspondences, purify/protect space with banishing ritual, enter meditative state, set intention), Journey (20-40 min—visualize starting Sephirah, approach Tarot card as doorway, pass through gateway, allow landscape to unfold autonomously, engage beings/tests/symbols, journey toward ending Sephirah), Return (5-10 min—retrace steps consciously, ground thoroughly, close ritual space), Integration (immediate journaling, symbolic reflection, apply insights to waking life, wait 2-4 weeks before repeating same path). All 22 individual path protocols: Hebrew letter, astrological attribution, Sephiroth connection, experience description, typical landscape/beings/teaching/challenge, safety notes. Safety considerations: psychological readiness (when NOT to attempt), grounding protocols, emergency return procedure, working with guide. Historical development: Golden Dawn initiatory curriculum (1888-1900s), Dion Fortune innovations (psychological integration, guided pathworkings, warnings against reckless upper-path work), contemporary practice. Relationship to ceremonial magic: pathworking as real initiation, integration with invocations/talismans/scrying, the Great Work. Shadow work: spiritual bypassing, ego inflation, psychosis risk (ungrounded practice), addiction to astral.
+- **Quality standards met:** All 3 entries comprehensive (771-820 lines). Semantic Section System applied. Proper YAML frontmatter with verification fields. Extensive wikilinks. Sources cited (Wang 1983, Waite 1910, De Angeles 2006, DuQuette 2008).
+- **Stub count:** 23 → 20 (3 stubs eliminated: Divination, The Fool's Journey, Pathworking)
+- **Next available:** Mythology deity stubs (17), Personal Mythos practice stubs (3), The Hero's Journey (1)
 
 **2026-02-06 (Late Evening):** Foundational and Jungian Archetypes expansion — **9 stubs → comprehensive** (23 stubs remaining)
 - **Batch scope:** Critical foundational entries + advanced Jungian archetypes (Tier 3 progress)
