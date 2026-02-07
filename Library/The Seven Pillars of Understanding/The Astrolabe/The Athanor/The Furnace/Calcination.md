@@ -80,6 +80,8 @@ Fire — not the warmth of the hearth but the crucible's flame, the furnace that
 
 ---
 
+## Notes
+
 [^1]: Edinger, *Anatomy of the Psyche*, p. 17
 
 [^2]: Jung, CW 12, §104

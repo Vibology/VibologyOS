@@ -138,6 +138,8 @@ The conditioning pattern: "I must prove my power" or "Strength means domination.
 
 ---
 
+## Notes
+
 [^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 34 judgment and image
 
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 34 mechanics, Sacral

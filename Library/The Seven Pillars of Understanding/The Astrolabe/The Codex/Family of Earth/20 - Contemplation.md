@@ -137,6 +137,8 @@ The conditioning pattern: "The now is boring; the interesting stuff is elsewhere
 
 ---
 
+## Notes
+
 [^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 20 judgment and image
 
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 20 mechanics, Throat (Manifestation)

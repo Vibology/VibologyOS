@@ -141,6 +141,8 @@ Another Shadow trap: rejecting precision entirely. If intellect creates sufferin
 
 ---
 
+## Notes
+
 [^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 62 judgment and image
 
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 62 mechanics, Throat

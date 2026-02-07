@@ -135,6 +135,8 @@ The conditioning pattern: "If I don't try, I can't fail" or "What worked before 
 
 ---
 
+## Notes
+
 [^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 32 judgment and image
 
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 32 mechanics, Spleen (Instinctual Awareness)

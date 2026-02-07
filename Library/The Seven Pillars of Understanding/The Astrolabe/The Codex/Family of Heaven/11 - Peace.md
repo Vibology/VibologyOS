@@ -136,6 +136,8 @@ The conditioning pattern: "My ideas must be expressed/understood/validated" or "
 
 ---
 
+## Notes
+
 [^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 11 judgment and image
 
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 11 mechanics, Ajna (Mind)

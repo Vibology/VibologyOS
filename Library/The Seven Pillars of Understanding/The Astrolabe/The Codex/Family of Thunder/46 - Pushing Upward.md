@@ -135,6 +135,8 @@ The conditioning pattern: "The spiritual path requires transcending the body" or
 
 ---
 
+## Notes
+
 [^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 46 judgment and image
 
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 46 mechanics, G Center (Identity)

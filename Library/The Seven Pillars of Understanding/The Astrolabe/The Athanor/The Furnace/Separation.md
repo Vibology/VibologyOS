@@ -81,6 +81,8 @@ Air — the blade, the breath, the space between things. In the body, separation
 
 ---
 
+## Notes
+
 [^1]: Edinger, *Anatomy of the Psyche*, p. 175
 
 [^2]: Jung, CW 14, §206

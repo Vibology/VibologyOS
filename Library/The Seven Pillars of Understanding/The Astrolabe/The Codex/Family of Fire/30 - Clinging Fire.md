@@ -141,6 +141,8 @@ Another Shadow trap: spiritual bypassing of desire. Using "non-attachment" teach
 
 ---
 
+## Notes
+
 [^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 30 judgment and image
 
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 30 mechanics, Solar Plexus

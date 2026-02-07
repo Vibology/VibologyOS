@@ -141,6 +141,8 @@ Another Shadow trap: depression without renewal. If decrease is not honored as *
 
 ---
 
+## Notes
+
 [^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 41 judgment and image
 
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 41 mechanics, Solar Plexus

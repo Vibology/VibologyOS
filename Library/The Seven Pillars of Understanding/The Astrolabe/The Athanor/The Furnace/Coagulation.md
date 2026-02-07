@@ -82,6 +82,8 @@ Coagulation produces the **Red Stone** (*lapis ruber*), the final form of the ph
 
 ---
 
+## Notes
+
 [^1]: Edinger, *Anatomy of the Psyche*, p. 71
 
 [^2]: Jung, CW 14, §761

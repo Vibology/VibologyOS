@@ -98,6 +98,8 @@ Jung identified The Trickster as appearing when consciousness has become too rig
 
 ---
 
+## Notes
+
 [^1]: Jung, *The Archetypes and the Collective Unconscious* (CW 9i, Princeton, 1969) — On the Psychology of the Trickster-Figure (§456-488)
 
 [^2]: Radin, *The Trickster* (Schocken Books, 1972) — cross-cultural Trickster cycle in mythology (Introduction)

@@ -137,6 +137,8 @@ The principle governing its construction: **use precise tools precisely.** The 6
 
 ---
 
+## Notes
+
 [^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1967) — etymology of "astrolabe" from Greek astronomical tradition paralleling the I-Ching's own function as portable cosmological instrument
 
 [^2]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1967) — hexagram names and English translations

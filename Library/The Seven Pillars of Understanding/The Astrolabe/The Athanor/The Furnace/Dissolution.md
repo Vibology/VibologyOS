@@ -81,6 +81,8 @@ Water — the solvent, the womb, the flood. In the body, dissolution is tears, s
 
 ---
 
+## Notes
+
 [^1]: Edinger, *Anatomy of the Psyche*, p. 47
 
 [^2]: Jung, CW 12, §334

@@ -77,6 +77,8 @@ Prima materia belongs to **Earth** in its most primal form — not cultivated so
 
 ---
 
+## Notes
+
 [^1]: Jung, CW 12, §333
 
 [^2]: Jung, CW 14, §708

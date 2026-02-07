@@ -141,6 +141,8 @@ Another Shadow trap: pattern recognition as paralysis. If one becomes too alert 
 
 ---
 
+## Notes
+
 [^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 44 judgment and image
 
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 44 mechanics, Spleen

@@ -141,6 +141,8 @@ Another Shadow trap: collapse in face of obstruction. If every obstacle feels in
 
 ---
 
+## Notes
+
 [^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 39 judgment and image
 
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 39 mechanics, Root

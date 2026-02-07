@@ -135,6 +135,8 @@ The conditioning pattern: "If I rest, I'm selfish" or "My worth is measured by m
 
 ---
 
+## Notes
+
 [^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 40 judgment and image
 
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 40 mechanics, Heart/Ego (Willpower)

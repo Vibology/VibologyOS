@@ -141,6 +141,8 @@ Another Shadow trap: withholding stories out of fear. Having experiences worth s
 
 ---
 
+## Notes
+
 [^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 56 judgment and image
 
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 56 mechanics, Throat

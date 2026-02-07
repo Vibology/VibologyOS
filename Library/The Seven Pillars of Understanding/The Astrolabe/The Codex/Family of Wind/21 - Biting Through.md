@@ -141,6 +141,8 @@ Another Shadow trap: abdication of authority. If wielding power has resulted in 
 
 ---
 
+## Notes
+
 [^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 21 judgment and image
 
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 21 mechanics, Heart (Ego/Will)

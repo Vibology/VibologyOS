@@ -100,6 +100,8 @@ The shadow is the Senex turned rigid—the old man who clings to outdated wisdom
 
 ---
 
+## Notes
+
 [^1]: Jung, *The Archetypes and the Collective Unconscious* (CW 9i, Princeton, 1969) — The Wise Old Man archetype (§398-415)
 
 [^2]: Campbell, *The Hero with a Thousand Faces* (Princeton, 1949) — the mentor as supernatural aid (Chapter 3)

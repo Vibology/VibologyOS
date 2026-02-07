@@ -141,6 +141,8 @@ Another Shadow trap: addiction to chaos itself. The Sacral keeps initiating with
 
 ---
 
+## Notes
+
 [^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 3 judgment and image
 
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 3 mechanics, Sacral

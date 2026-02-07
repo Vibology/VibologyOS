@@ -101,6 +101,8 @@ In the Astrolabe system, The Alchemist stands as the destination: The Hero's jou
 
 ---
 
+## Notes
+
 [^1]: Jung, *The Archetypes and the Collective Unconscious* (CW 9i, Princeton, 1969) — The Self as central archetype and totality of the psyche (§43-67)
 
 [^2]: Jung, *Mysterium Coniunctionis* (CW 14, Princeton, 1963) — alchemical opus as metaphor for individuation; prima materia through lapis philosophorum (§1-41)

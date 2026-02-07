@@ -106,6 +106,8 @@ Sarah Connor's relationship with John inverts the usual dependency: she prepares
 
 ---
 
+## Notes
+
 [^1]: Jung, *The Archetypes and the Collective Unconscious* (CW 9i, Princeton, 1969) — The Mother archetype and its transformations (§148-198)
 
 [^2]: Neumann, *The Great Mother* (Princeton, 1955) — dual nature of the maternal archetype: Good Mother and Terrible Mother (Part I)

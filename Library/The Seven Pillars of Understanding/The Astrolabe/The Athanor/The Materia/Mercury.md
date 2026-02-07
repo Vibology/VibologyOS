@@ -82,6 +82,8 @@ Mercury is **Water** in its volatile aspect — not the dissolving water of [[Di
 
 ---
 
+## Notes
+
 [^1]: Paracelsus, *Archidoxis*, Vol. I
 
 [^2]: Jung, CW 13, §267

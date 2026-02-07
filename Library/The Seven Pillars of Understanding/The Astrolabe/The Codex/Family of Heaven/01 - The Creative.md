@@ -135,6 +135,8 @@ The conditioning pattern: "I must be creative to have value" or "If I'm not crea
 
 ---
 
+## Notes
+
 [^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 1 judgment and image
 
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 1 mechanics, G Center (Identity)

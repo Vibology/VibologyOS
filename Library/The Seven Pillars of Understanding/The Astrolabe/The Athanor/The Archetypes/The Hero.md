@@ -106,6 +106,8 @@ The Hero's fatal flaw is hubris—believing that ego power is sufficient without
 
 ---
 
+## Notes
+
 [^1]: Jung, *The Archetypes and the Collective Unconscious* (CW 9i, Princeton, 1969) — The Hero archetype as ego engaging with transformation (§259-305)
 
 [^2]: Campbell, *The Hero with a Thousand Faces* (Princeton, 1949) — the monomyth as universal heroic pattern (Chapter 1)

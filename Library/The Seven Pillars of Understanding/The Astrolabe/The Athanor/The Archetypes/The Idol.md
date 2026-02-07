@@ -98,6 +98,8 @@ The developmental stages: power → action → word → wisdom.[^3] Madonna demo
 
 ---
 
+## Notes
+
 [^1]: Jung, *Two Essays on Analytical Psychology* (CW 7, Princeton, 1966) — The Animus as spirit-image in the female psyche (§296-340)
 
 [^2]: Jung, Emma, *Animus and Anima* (Spring Publications, 1957) — The Animus as masculine principle providing focus and assertion (Part II)

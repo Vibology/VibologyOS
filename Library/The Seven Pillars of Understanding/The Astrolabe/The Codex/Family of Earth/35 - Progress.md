@@ -135,6 +135,8 @@ The conditioning pattern: "I need something new to feel alive" or "Staying still
 
 ---
 
+## Notes
+
 [^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 35 judgment and image
 
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 35 mechanics, Throat (Manifestation)

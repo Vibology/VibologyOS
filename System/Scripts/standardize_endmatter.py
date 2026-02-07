@@ -4,9 +4,10 @@ Standardize endmatter structure across Library files.
 
 Target structure:
 1. ## Cross-References → {content} → ---
-2. [^1]: source citation (footnotes ARE the sources) → ---
+2. ## Notes → [^1]: citation, [^2]: citation... → ---
 
-NO separate "## Sources" section - that would duplicate the footnote citations.
+Notes section contains full bibliographic citations in footnote format.
+No separate "## Sources" section needed.
 """
 
 import re
@@ -165,9 +166,7 @@ def build_standardized_endmatter(cross_refs: str, footnotes: str) -> str:
 
     Structure:
     1. ## Cross-References + content + separator
-    2. Footnote definitions (NO header - these ARE the sources) + separator
-
-    NO separate Sources section.
+    2. ## Notes + footnote definitions (scholarly citation format) + separator
     """
     parts = []
 
@@ -179,9 +178,9 @@ def build_standardized_endmatter(cross_refs: str, footnotes: str) -> str:
 
     parts.append("---")
 
-    # 2. Footnotes (these ARE the sources)
+    # 2. Notes (scholarly term for endnotes/citations)
     if footnotes:
-        parts.append(footnotes)
+        parts.append(f"## Notes\n\n{footnotes}")
 
     # 3. Final separator
     parts.append("---")

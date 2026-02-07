@@ -83,6 +83,8 @@ Conjunction appears at the threshold between [[Albedo]] (whitening) and [[Citrin
 
 ---
 
+## Notes
+
 [^1]: Edinger, *Anatomy of the Psyche*, p. 197
 
 [^2]: Jung, CW 14, §1

@@ -135,6 +135,8 @@ The conditioning pattern: "I am not enough" or "There is never enough." This lea
 
 ---
 
+## Notes
+
 [^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 48 judgment and image
 
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 48 mechanics, Spleen (Instinctual Awareness)

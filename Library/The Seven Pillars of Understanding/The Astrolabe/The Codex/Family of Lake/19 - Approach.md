@@ -141,6 +141,8 @@ Another Shadow trap: withdrawal as defense. If every approach risks rejection, t
 
 ---
 
+## Notes
+
 [^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 19 judgment and image
 
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 19 mechanics, Root

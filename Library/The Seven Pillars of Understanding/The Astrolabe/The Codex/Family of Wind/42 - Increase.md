@@ -141,6 +141,8 @@ Another Shadow trap: completion as compulsion. If one finishes things out of rig
 
 ---
 
+## Notes
+
 [^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 42 judgment and image
 
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 42 mechanics, Sacral

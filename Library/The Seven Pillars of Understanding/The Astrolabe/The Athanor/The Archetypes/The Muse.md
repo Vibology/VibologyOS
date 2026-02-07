@@ -98,6 +98,8 @@ The shadow is twofold: projection (seeking the soul-image only in external figur
 
 ---
 
+## Notes
+
 [^1]: Jung, *Two Essays on Analytical Psychology* (CW 7, Princeton, 1966) — Anima as soul-image mediating ego and collective unconscious (§296-340)
 
 [^2]: Jung, *The Archetypes and the Collective Unconscious* (CW 9i, Princeton, 1969) — four developmental stages of the Anima (§20-42)

@@ -85,6 +85,8 @@ True distillation includes both: ascent *and* descent, repeated. The soul learns
 
 ---
 
+## Notes
+
 [^1]: Edinger, *Anatomy of the Psyche*, p. 149
 
 [^2]: Jung, CW 12, §334

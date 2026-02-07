@@ -100,6 +100,8 @@ The Shape teaches: **some darkness is not yours**. You are not reducible to deat
 
 ---
 
+## Notes
+
 [^1]: Jung, *Aion* (CW 9ii, Princeton, 1959) — the shadow and the problem of evil; objective psyche (§13-19)
 
 [^2]: Jung, *Civilization in Transition* (CW 10, Princeton, 1964) — personal vs collective shadow in psychology (§572-585)

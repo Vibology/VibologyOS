@@ -101,6 +101,8 @@ The integration requires **conscious relationship**: wearing the Persona skillfu
 
 ---
 
+## Notes
+
 [^1]: Jung, *Two Essays on Analytical Psychology* (CW 7, Princeton, 1966) — The Persona as mask for social adaptation (§240-295)
 
 [^2]: Jung, *The Archetypes and the Collective Unconscious* (CW 9i, Princeton, 1969) — Persona as archetypal structure (§221-258)

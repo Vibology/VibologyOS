@@ -135,6 +135,8 @@ The conditioning pattern: "Nothing lasts, so why bother?" or "If I can't win, I 
 
 ---
 
+## Notes
+
 [^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 28 judgment and image
 
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 28 mechanics, Spleen (Instinctual Awareness)

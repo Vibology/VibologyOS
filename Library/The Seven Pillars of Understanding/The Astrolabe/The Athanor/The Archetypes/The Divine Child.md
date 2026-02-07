@@ -108,6 +108,8 @@ The shadow is remaining child—the *puer aeternus*[^3] who refuses to grow, who
 
 ---
 
+## Notes
+
 [^1]: Jung, *The Archetypes and the Collective Unconscious* (CW 9i, Princeton, 1969) — The Divine Child as seed of wholeness appearing in crisis (§259-305)
 
 [^2]: Jung, *The Archetypes and the Collective Unconscious* (CW 9i, Princeton, 1969) — "The Psychology of the Child Archetype" essay (§259-305)

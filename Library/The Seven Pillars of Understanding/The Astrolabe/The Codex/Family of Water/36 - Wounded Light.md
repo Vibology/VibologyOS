@@ -141,6 +141,8 @@ Another Shadow trap: emotional bypassing disguised as spiritual maturity. "I've 
 
 ---
 
+## Notes
+
 [^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 36 judgment and image
 
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 36 mechanics, Solar Plexus

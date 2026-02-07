@@ -135,6 +135,8 @@ The conditioning pattern: "I must control to avoid being shocked" or "Shock equa
 
 ---
 
+## Notes
+
 [^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 51 judgment and image
 
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 51 mechanics, Heart/Ego (Willpower)

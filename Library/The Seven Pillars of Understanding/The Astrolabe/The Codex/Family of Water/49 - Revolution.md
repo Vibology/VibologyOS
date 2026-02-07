@@ -141,6 +141,8 @@ Another Shadow trap: refusing revolution when it's necessary. The emotional wave
 
 ---
 
+## Notes
+
 [^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 49 judgment and image
 
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 49 mechanics, Solar Plexus

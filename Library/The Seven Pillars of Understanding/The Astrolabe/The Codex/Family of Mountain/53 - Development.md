@@ -141,6 +141,8 @@ Another Shadow trap: paralysis by process. If development feels too slow, the de
 
 ---
 
+## Notes
+
 [^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 53 judgment and image
 
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 53 mechanics, Root

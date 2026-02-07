@@ -82,6 +82,8 @@ Salt is **Earth** — not the undifferentiated earth of [[Prima Materia]] but *c
 
 ---
 
+## Notes
+
 [^1]: Paracelsus, *Opus Paramirum*, Vol. I
 
 [^2]: Jung, CW 14, §346

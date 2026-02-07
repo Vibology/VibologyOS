@@ -136,6 +136,8 @@ The conditioning pattern: "I must prove my worth through wealth" or "If I share 
 
 ---
 
+## Notes
+
 [^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 14 judgment and image
 
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 14 mechanics, Sacral

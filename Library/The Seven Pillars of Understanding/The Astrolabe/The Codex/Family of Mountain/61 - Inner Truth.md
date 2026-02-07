@@ -141,6 +141,8 @@ Another Shadow trap: doubt as defense. If inspiration has been wrong before, the
 
 ---
 
+## Notes
+
 [^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 61 judgment and image
 
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 61 mechanics, Head

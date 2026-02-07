@@ -141,6 +141,8 @@ Another Shadow trap: using "realism" as excuse for failure to evolve. "This is j
 
 ---
 
+## Notes
+
 [^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 60 judgment and image
 
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 60 mechanics, Root

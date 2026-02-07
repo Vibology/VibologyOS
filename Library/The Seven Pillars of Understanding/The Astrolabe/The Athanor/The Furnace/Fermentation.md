@@ -82,6 +82,8 @@ Fermentation operates at the transition from [[Albedo]] (whitening) to [[Citrini
 
 ---
 
+## Notes
+
 [^1]: Edinger, *Anatomy of the Psyche*, p. 221
 
 [^2]: Jung, CW 12, §448

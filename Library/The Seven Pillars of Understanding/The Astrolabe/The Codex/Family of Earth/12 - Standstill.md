@@ -135,6 +135,8 @@ The conditioning pattern: "I must protect myself by saying no" or "If I'm cautio
 
 ---
 
+## Notes
+
 [^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 12 judgment and image
 
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 12 mechanics, Throat (Manifestation)

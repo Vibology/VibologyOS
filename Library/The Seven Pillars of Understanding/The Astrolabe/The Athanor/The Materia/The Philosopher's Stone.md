@@ -88,6 +88,8 @@ Most traditions identify the *Red Stone* as the true Philosopher's Stone — the
 
 ---
 
+## Notes
+
 [^1]: Jung, CW 12, §334
 
 [^2]: Edinger, *Ego and Archetype*, p. 228

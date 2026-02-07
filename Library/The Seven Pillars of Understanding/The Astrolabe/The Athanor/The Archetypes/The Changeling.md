@@ -109,6 +109,8 @@ The shadow is getting lost in perpetual becoming—never stabilizing long enough
 
 ---
 
+## Notes
+
 [^1]: Jung, *The Archetypes and the Collective Unconscious* (CW 9i, Princeton, 1969) — transformation symbolism and unstable archetypal forms (§427-453)
 
 [^2]: Jung, *The Structure and Dynamics of the Psyche* (CW 8, Princeton, 1969) — the mercurial quality of unconscious contents (§388-406)

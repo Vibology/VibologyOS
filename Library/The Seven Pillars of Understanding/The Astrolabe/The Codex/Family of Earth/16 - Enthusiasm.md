@@ -135,6 +135,8 @@ The conditioning pattern: "I should be good at this already" or "If I have to pr
 
 ---
 
+## Notes
+
 [^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 16 judgment and image
 
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 16 mechanics, Throat (Manifestation)

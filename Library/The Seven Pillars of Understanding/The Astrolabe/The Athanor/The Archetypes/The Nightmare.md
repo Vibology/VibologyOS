@@ -100,6 +100,8 @@ Jung observed the same pattern in dreams: as consciousness approaches unconsciou
 
 ---
 
+## Notes
+
 [^1]: Jung, *The Archetypes and the Collective Unconscious* (CW 9i, Princeton, 1969) — dream symbolism and psychic resistance during individuation (§306-384)
 
 [^2]: Campbell, *The Hero with a Thousand Faces* (Princeton, 1949) — the Threshold Guardian at every major transition (Chapter 4)

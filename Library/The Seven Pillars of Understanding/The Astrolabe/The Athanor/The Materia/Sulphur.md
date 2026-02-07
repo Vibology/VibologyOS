@@ -80,6 +80,8 @@ Sulphur is **Fire** — not the purifying fire of [[Calcination]] but *combustio
 
 ---
 
+## Notes
+
 [^1]: Paracelsus, *Opus Paramirum*, Vol. I
 
 [^2]: Jung, CW 14, §38

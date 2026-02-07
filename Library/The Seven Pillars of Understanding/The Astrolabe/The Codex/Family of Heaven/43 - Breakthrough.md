@@ -137,6 +137,8 @@ The conditioning pattern: "I must understand everything logically" or "Insight s
 
 ---
 
+## Notes
+
 [^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 43 judgment and image
 
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 43 mechanics, Ajna (Mind)

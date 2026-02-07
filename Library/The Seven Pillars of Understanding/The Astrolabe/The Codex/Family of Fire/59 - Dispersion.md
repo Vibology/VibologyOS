@@ -141,6 +141,8 @@ Another Shadow trap: fear of intimacy masquerading as boundaries. Building walls
 
 ---
 
+## Notes
+
 [^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 59 judgment and image
 
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 59 mechanics, Sacral

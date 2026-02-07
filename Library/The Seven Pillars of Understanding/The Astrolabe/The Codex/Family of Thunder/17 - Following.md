@@ -135,6 +135,8 @@ The conditioning pattern: "I can understand without experiencing" or "My opinion
 
 ---
 
+## Notes
+
 [^1]: Wilhelm/Baynes, *The I Ching or Book of Changes* (Princeton, 1950) — Hexagram 17 judgment and image
 
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (Jovian Archive, 2011) — Gate 17 mechanics, Ajna (Mental Awareness)
