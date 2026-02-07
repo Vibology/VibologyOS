@@ -16,7 +16,7 @@ category: Jungian Concept
 
 ## What the Four Functions Are
 
-The **Four Functions** are Jung's model of the four fundamental ways consciousness orients itself to experience. Described in *Psychological Types* (CW 6, 1921), they represent the **basic operations** the psyche uses to perceive and evaluate reality. Every individual has access to all four, but they develop unevenly — one becomes **dominant** (the "superior function"), its opposite becomes the **inferior function** (the least developed, most unconscious, most problematic), and the remaining two serve as **auxiliary** functions.
+The **Four Functions** are Jung's model of the four fundamental ways consciousness orients itself to experience.[^1] Described in *Psychological Types* (CW 6, 1921), they represent the **basic operations** the psyche uses to perceive and evaluate reality. Every individual has access to all four, but they develop unevenly — one becomes **dominant** (the "superior function"), its opposite becomes the **inferior function** (the least developed, most unconscious, most problematic), and the remaining two serve as **auxiliary** functions.
 
 The four functions are organized into two pairs of opposites:
 
@@ -137,6 +137,11 @@ To identify your function hierarchy, ask:
 - **Qabalah:** The four worlds — **Atziluth** (intuition/fire), **Briah** (feeling/water), **Yetzirah** (thinking/air), **Assiah** (sensation/earth)
 - **Human Design:** The four motor centers (Sacral, Solar Plexus, Heart, Root) as energy-function analogues; the open/defined center dynamic mirrors superior/inferior function
 - **I-Ching:** The four bigrams (old yin, young yang, old yang, young yin) as the quaternary principle
+
+---
+
+
+[^1]: C.G. Jung, *Collected Works* (Bollingen Series XX, Princeton University Press) — Jungian archetypal psychology.
 
 ---
 

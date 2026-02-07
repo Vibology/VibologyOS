@@ -32,7 +32,7 @@ Jung identified the hostile brothers motif as a **projection of the internal psy
 
 ### The Shared Origin
 
-The brothers are **twins** or siblings born of the same womb—a single psyche divided at birth or shortly after. This shared origin is essential: they are **not strangers** but fragments of an original unity. In Egyptian myth, Osiris and Set are brothers, sons of the sky goddess Nut. In Genesis, Cain and Abel are the first sons of Adam and Eve, born into the same fallen world. In alchemy, the **Red King and White King** (Sulphur and Mercury) are depicted as brothers who must war before they can marry.
+The brothers are **twins** or siblings born of the same womb—a single psyche divided at birth or shortly after.[^1] This shared origin is essential: they are **not strangers** but fragments of an original unity. In Egyptian myth, Osiris and Set are brothers, sons of the sky goddess Nut. In Genesis, Cain and Abel are the first sons of Adam and Eve, born into the same fallen world. In alchemy, the **Red King and White King** (Sulphur and Mercury) are depicted as brothers who must war before they can marry.
 
 The **womb** or **common source** represents the **uroboric unconscious**—the undifferentiated prima materia before the Ego emerges. The moment of **birth or separation** is the beginning of consciousness itself: the psyche splits into "I" (Ego) and "Not-I" (Shadow). What the Ego identifies with becomes the Light Brother; what it rejects becomes the Dark Brother.
 
@@ -649,6 +649,11 @@ With him, you are whole.
 ---
 
 *The petrified hero awaits rescue. The Dark Brother descends. Wholeness is restored.*
+
+---
+
+
+[^1]: Grimm Brothers, *The Complete Fairy Tales* and Marie-Louise von Franz, *The Interpretation of Fairy Tales* (Shambhala, 1970) — Jungian analysis of archetypal patterns in fairy tales.
 
 ---
 

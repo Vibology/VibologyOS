@@ -30,7 +30,7 @@ The tale narrates a young woman's marriage to a wealthy, mysterious man with a d
 
 ## Plot Summary
 
-A wealthy nobleman with an unsettling **blue beard** seeks a wife among the daughters of a neighboring family. Despite his riches and courtly manners, no woman will marry him—his appearance is strange, and rumors circulate about his previous wives, all of whom have mysteriously vanished. Through lavish hospitality and seductive charm, he convinces the youngest daughter to accept his proposal.
+A wealthy nobleman with an unsettling **blue beard** seeks a wife among the daughters of a neighboring family.[^1] Despite his riches and courtly manners, no woman will marry him—his appearance is strange, and rumors circulate about his previous wives, all of whom have mysteriously vanished. Through lavish hospitality and seductive charm, he convinces the youngest daughter to accept his proposal.
 
 Shortly after their marriage, Bluebeard announces he must leave on a journey. He gives his young wife the keys to every room in the castle, granting her full access to his wealth—**except one chamber**, marked by a small key. **"You may enter every room but this one,"** he commands. **"If you disobey, my anger will be terrible."**
 
@@ -609,6 +609,11 @@ Bluebeard is the **necessary counterpoint** to Beauty and the Beast. Together, t
 The bloodstained key is the mark of **consciousness that cannot be reversed**. Once you see the corpses, you must choose: **Obedience or survival. Innocence or life.**
 
 **The brothers are coming. Call them. Let them kill what must be killed. And live.**
+
+---
+
+
+[^1]: Grimm Brothers, *The Complete Fairy Tales* and Marie-Louise von Franz, *The Interpretation of Fairy Tales* (Shambhala, 1970) — Jungian analysis of archetypal patterns in fairy tales.
 
 ---
 

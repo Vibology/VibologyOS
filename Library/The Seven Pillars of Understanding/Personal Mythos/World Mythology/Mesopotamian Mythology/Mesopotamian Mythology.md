@@ -18,7 +18,7 @@ core_theme: Ego emergence from Uroboric chaos, descent to underworld as individu
 
 ## Overview
 
-Mesopotamian mythology represents the archetypal drama of **consciousness violently cutting itself free from the Uroboric unconscious**—the primal split between order and chaos, Sky and Earth, Ego and Mother. The Enuma Elish creation myth is the foundational narrative of **matricide as cosmogenesis**: Marduk slays Tiamat (the salt-water chaos dragon) and splits her corpse to create Heaven and Earth. This is not moral evil but psychological necessity—the Ego *must* sever from the Great Mother to establish differentiated consciousness.
+Mesopotamian mythology represents the archetypal drama of **consciousness violently cutting itself free from the Uroboric unconscious**—the primal split between order and chaos, Sky and Earth, Ego and Mother.[^1] The Enuma Elish creation myth is the foundational narrative of **matricide as cosmogenesis**: Marduk slays Tiamat (the salt-water chaos dragon) and splits her corpse to create Heaven and Earth. This is not moral evil but psychological necessity—the Ego *must* sever from the Great Mother to establish differentiated consciousness.
 
 Unlike the gradual Olympian emergence in Greek myth, Mesopotamian consciousness is born in *violence*. Tiamat is not merely defeated; she is *dismembered*, her body becoming the cosmos itself. Jung recognized this as the Ego's primal terror: "To become conscious is to commit the original sin—to separate from the unity of the unconscious and bear the burden of individuation."
 
@@ -823,6 +823,11 @@ Mesopotamian mythology dramatizes the **Ego's violent emergence from the Uroboro
 *"In the beginning, the gods were not separate from the world; they were the world. Tiamat was the salt sea, and Apsu the fresh water, and from their mingling came all things. To become conscious, Marduk had to murder his mother and build the sky from her corpse. This is not myth. This is the story of every human who has ever opened their eyes."*
 
 — Adaptation of Enuma Elish, Tablet IV
+
+
+[^1]: Mesopotamian mythological texts (Sumerian, Akkadian, Babylonian).
+
+---
 
 ## Sources
 **Jungian Analytical Psychology:**

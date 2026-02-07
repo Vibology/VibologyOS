@@ -48,7 +48,7 @@ The number three appears across esoteric traditions as the **number of dynamic m
 - **Astrology:** Cardinal, Fixed, Mutable (the three modalities of manifestation)
 
 The trials occur in **threes** because the psyche must move through:
-1. **First Trial:** Encounter (the ego meets the impossible task, realizes its inadequacy)
+1.[^1] **First Trial:** Encounter (the ego meets the impossible task, realizes its inadequacy)
 2. **Second Trial:** Surrender (the ego accepts help from the unconscious/instinct)
 3. **Third Trial:** Integration (the ego consciously partners with the unconscious, no longer resisting)
 
@@ -554,6 +554,11 @@ The Animal Bridegroom • The Impossible Task • The Helpful Animals • The De
 
 **Folklore Themes:**
 Initiation Rites • Death and Rebirth • The Descent Motif • The Sacred Marriage • Patience and Endurance • Instinct Over Intellect
+
+---
+
+
+[^1]: Grimm Brothers, *The Complete Fairy Tales* and Marie-Louise von Franz, *The Interpretation of Fairy Tales* (Shambhala, 1970) — Jungian analysis of archetypal patterns in fairy tales.
 
 ---
 

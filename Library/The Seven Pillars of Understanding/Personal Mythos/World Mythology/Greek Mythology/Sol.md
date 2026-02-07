@@ -50,7 +50,7 @@ To return to the east during the night, Helios sails in a **golden cup** or **ba
 
 ### The All-Seeing Eye: Cosmic Witness
 
-As the god of light, **Sol sees and knows everything**. He is the **"cosmic spy"**—the omniscient observer whose gaze penetrates all secrets:
+As the god of light, **Sol sees and knows everything**.[^1] He is the **"cosmic spy"**—the omniscient observer whose gaze penetrates all secrets:
 
 - **Aphrodite and Ares:** Helios revealed to **Hephaestus** that his wife Aphrodite was committing adultery with Ares, leading to the famous episode where Hephaestus trapped the lovers in an invisible net and exposed them to the mockery of the gods.
 
@@ -326,6 +326,11 @@ Astrologically, Sol corresponds to the **[[Sun ☉]]**—the most important plac
 **[[Angelology]]:**
 - **Michael** — Archangel of the Sun, solar warrior, defender of cosmic order
 - **Solar Intelligence (Tiphareth)** — The mediating consciousness that balances the Tree of Life
+
+---
+
+
+[^1]: Classical Greek sources (Hesiod, Homer, Homeric Hymns) and mythological encyclopedias.
 
 ---
 

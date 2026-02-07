@@ -30,7 +30,7 @@ The motif's shadow dimension reveals itself in **obsessive spinning**—the neur
 
 ### The Spinning Wheel – Rotatio and Circulation
 
-The **spinning wheel** represents the alchemical operation of **Rotatio**—the circular movement that transforms base matter into refined essence. Unlike linear progression, spinning is **cyclical, repetitive, meditative**, engaging the hands while allowing the mind to enter the liminal state between consciousness and unconsciousness. This is the zone of **active imagination**, where fantasies can be "fixed" (made stable, brought into form) rather than remaining ephemeral.
+The **spinning wheel** represents the alchemical operation of **Rotatio**—the circular movement that transforms base matter into refined essence.[^1] Unlike linear progression, spinning is **cyclical, repetitive, meditative**, engaging the hands while allowing the mind to enter the liminal state between consciousness and unconsciousness. This is the zone of **active imagination**, where fantasies can be "fixed" (made stable, brought into form) rather than remaining ephemeral.
 
 **Psychologically:**
 - **The wheel's rotation** = The circulation of psychic energy (libido) through the conscious-unconscious circuit
@@ -399,6 +399,11 @@ The **Bean Nighe** (Washer Woman) appears at rivers, washing the bloodstained cl
 - [[Synchronicity]] – The web of wyrd, acausal connection
 - Active Imagination – The trance state of spinning, hands busy while unconscious surfaces
 - [[The Transcendent Function]] – Weaving conscious and unconscious into new synthesis
+
+---
+
+
+[^1]: Grimm Brothers, *The Complete Fairy Tales* and Marie-Louise von Franz, *The Interpretation of Fairy Tales* (Shambhala, 1970) — Jungian analysis of archetypal patterns in fairy tales.
 
 ---
 

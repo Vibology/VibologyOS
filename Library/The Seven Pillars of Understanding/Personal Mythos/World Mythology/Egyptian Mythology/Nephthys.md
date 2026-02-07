@@ -45,7 +45,7 @@ Her sacred associations:
 
 ### Nephthys and the Mourning of Osiris
 
-In every version of the Osiris myth, Nephthys **abandons her husband [[Set]]** to join [[Isis]] in mourning [[Osiris]]. The two sisters search for the body together, reassemble the pieces together, and perform the funerary rites together. The Lamentations of Isis and Nephthys (a temple liturgical text) records their paired songs of grief:
+In every version of the Osiris myth, Nephthys **abandons her husband [[Set]]** to join [[Isis]] in mourning [[Osiris]].[^1] The two sisters search for the body together, reassemble the pieces together, and perform the funerary rites together. The Lamentations of Isis and Nephthys (a temple liturgical text) records their paired songs of grief:
 
 > *"Come to your house, come to your house, O Beautiful One! Come to your house... Your sisters are beside you, guarding your bier, calling to you in weeping."*
 
@@ -145,6 +145,11 @@ The Nephthys archetype is active when you:
 - **Angelology:** Archangel Azrael (the angel of death, the compassionate witness at the threshold)
 - **Alchemical Stages:** [[Nigredo]] (the dark phase of mourning), the *mortificatio* (the death that Nephthys witnesses and tends)
 - **Jungian:** [[The Shadow]] (the feminine shadow), [[The Anima]] (the dark anima, the invisible feminine), [[The Syzygy]] (the quaternio of Osiris-Isis-Set-Nephthys)
+
+---
+
+
+[^1]: Egyptian mythological texts and Plutarch, *Isis and Osiris*.
 
 ---
 

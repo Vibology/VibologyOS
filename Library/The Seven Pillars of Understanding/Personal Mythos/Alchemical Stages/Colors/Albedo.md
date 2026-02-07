@@ -30,7 +30,7 @@ psychological_function: Purification, objectivity, soul-image integration, refle
 ## Overview
 ### Jungian Definition
 
-The **Albedo** is the second alchemical stage, representing the purification and clarification that follows the descent into darkness. After the ego has been dissolved in the [[Nigredo]], the Albedo is the process of separating consciousness from the unconscious, soul from body, spirit from matter. In *Mysterium Coniunctionis* (CW 14), Jung describes the Albedo as the essential differentiation phase:
+The **Albedo** is the second alchemical stage, representing the purification and clarification that follows the descent into darkness.[^1] After the ego has been dissolved in the [[Nigredo]], the Albedo is the process of separating consciousness from the unconscious, soul from body, spirit from matter. In *Mysterium Coniunctionis* (CW 14), Jung describes the Albedo as the essential differentiation phase:
 
 > "The natural function of the animus (as well as of the anima) is to remain in [their] place between individual consciousness and the collective unconscious... The animus and the anima should function as a bridge, or a door, leading to the images of the collective unconscious."
 > — C.G. Jung, *Memories, Dreams, Reflections* / CW 9ii
@@ -687,6 +687,11 @@ The Albedo is the stage of objective cognition. Without it, the final union (Rub
 
 *"The soul is washed in the dew of heaven and emerges white, pure, ready for the final work."*
 — Alchemical maxim (echoing the promise: after the Nigredo's death, the Albedo's purification; after the Albedo's clarity, the Rubedo's wholeness)
+
+---
+
+
+[^1]: C.G. Jung, *Collected Works* Vol. 12: *Psychology and Alchemy* (Princeton University Press) — Albedo as whitening, purification stage following Nigredo.
 
 ---
 

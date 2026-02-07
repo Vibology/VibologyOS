@@ -24,7 +24,7 @@ psychological_task: Shifting center from ego to Self, recognizing ego as servant
 
 In *Two Essays on Analytical Psychology* (CW 7), *Aion* (CW 9ii), and *Psychology and Alchemy* (CW 12), Jung defines the Self as **the totality of the psyche**—a reality **supraordinate to the conscious ego**:
 
-> "The self is a quantity that is supraordinate to the conscious ego. It embraces not only the conscious but also the unconscious psyche... the self is our life's goal, for it is the completest expression of that fateful combination we call individuality." (*Two Essays*, CW 7, ¶405)
+> "The self is a quantity that is supraordinate to the conscious ego.[^1] It embraces not only the conscious but also the unconscious psyche... the self is our life's goal, for it is the completest expression of that fateful combination we call individuality." (*Two Essays*, CW 7, ¶405)
 
 > "The self is not only the centre but also the whole circumference which embraces both conscious and unconscious; it is the centre of this totality, just as the ego is the centre of consciousness." (*Psychology and Alchemy*, CW 12, ¶44)
 
@@ -375,6 +375,11 @@ A **whole human being** who has shifted the center of gravity from ego to Self, 
 *"The self is not only the centre but also the whole circumference which embraces both conscious and unconscious; it is the centre of this totality, just as the ego is the centre of consciousness."*
 
 — C.G. Jung, *Psychology and Alchemy* (CW 12, ¶44)
+
+---
+
+
+[^1]: Primary sources listed in References section.
 
 ---
 

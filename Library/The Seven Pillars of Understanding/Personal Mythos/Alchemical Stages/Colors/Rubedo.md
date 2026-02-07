@@ -30,7 +30,7 @@ psychological_function: Incarnation, embodiment, wisdom made flesh, living the p
 ## Overview
 ### Jungian Definition
 
-The **Rubedo** is Jung's alchemical culmination—the realization of the Self and the lived experience of wholeness. In *Psychology and Alchemy* (CW 12), Jung identifies the Rubedo as the final stage where spirit is "fixed" in matter, where the transcendent function becomes embodied in daily life:
+The **Rubedo** is Jung's alchemical culmination—the realization of the Self and the lived experience of wholeness.[^1] In *Psychology and Alchemy* (CW 12), Jung identifies the Rubedo as the final stage where spirit is "fixed" in matter, where the transcendent function becomes embodied in daily life:
 
 > "The self is not only the centre but also the whole circumference which embraces both conscious and unconscious; it is the centre of this totality, just as the ego is the centre of the conscious mind."
 > — C.G. Jung, *Psychology and Alchemy* (CW 12, par. 444)
@@ -738,6 +738,11 @@ The Rubedo is the lived experience of the Self—the center and the circumferenc
 
 *"The gold I have found is not in the mines, but in the heart. The stone I have forged is not in the vessel, but in the soul. The work I have completed is not on the mountain, but in the world."*
 — Alchemical teaching (echoing the promise: the Rubedo is wisdom made flesh, spirit fixed in matter, the Self lived in the ordinary world)
+
+---
+
+
+[^1]: C.G. Jung, *Collected Works* Vol. 12: *Psychology and Alchemy* (Princeton University Press) — Rubedo as reddening, final stage of integration and wholeness.
 
 ---
 

@@ -40,7 +40,7 @@ The *Pyramid Texts* (c. 2400 BCE) — the oldest religious texts in the world �
 
 ### The Murder by Set
 
-Osiris ruled Egypt as a just and beloved king, teaching humanity the arts of agriculture, wine-making, law, and religion. His brother **[[Set]]** (god of chaos, storms, and the desert) burned with jealousy. In the most famous version (Plutarch's *De Iside et Osiride*), Set had a magnificent chest built to Osiris's exact measurements and offered it as a prize at a banquet: whoever fit the chest perfectly would receive it. When Osiris lay down inside, Set and his conspirators slammed the lid, sealed it with molten lead, and cast it into the Nile.
+Osiris ruled Egypt as a just and beloved king, teaching humanity the arts of agriculture, wine-making, law, and religion.[^1] His brother **[[Set]]** (god of chaos, storms, and the desert) burned with jealousy. In the most famous version (Plutarch's *De Iside et Osiride*), Set had a magnificent chest built to Osiris's exact measurements and offered it as a prize at a banquet: whoever fit the chest perfectly would receive it. When Osiris lay down inside, Set and his conspirators slammed the lid, sealed it with molten lead, and cast it into the Nile.
 
 **Archetypal reading:** The chest/coffin is the **container of death** — the enclosure that the ego cannot escape through its own power. Set's method is significant: he uses **deception and precise measurement** (not brute force) to trap Osiris, suggesting that death comes through the very structure that defined the king's identity. The chest fits perfectly because it *was made for him* — death is not accidental but intrinsic to the form.
 
@@ -145,6 +145,11 @@ The Osiris archetype is active when you:
 - **Alchemical Stages:** [[Nigredo]] (the darkening, the death of the prima materia), *separatio* (the dismemberment), *coagulatio* (the reassembly)
 - **Jungian:** [[The Shadow]] (Set as Osiris's shadow), [[Ego-Death]] (the necessary dissolution)
 - **Comparative:** [[Demeter]]-[[Persephone]] cycle (seasonal death and return), Inanna's descent, Christ's passion
+
+---
+
+
+[^1]: Plutarch, *Isis and Osiris* — Osiris as god of death, resurrection, and vegetation.
 
 ---
 

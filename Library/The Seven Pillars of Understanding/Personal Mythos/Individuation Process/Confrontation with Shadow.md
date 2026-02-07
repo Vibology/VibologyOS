@@ -24,7 +24,7 @@ psychological_task: Integration of repressed, unlived, and rejected aspects of p
 
 In *Aion* (CW 9ii), Jung defines the Shadow as **a moral problem that challenges the whole ego-personality**:
 
-> "The shadow is a moral problem that challenges the whole ego-personality, for no one can become conscious of the shadow without considerable moral effort. To become conscious of it involves recognizing the dark aspects of the personality as present and real. This act is the essential condition for any kind of self-knowledge." (*Aion*, CW 9ii, ¶14)
+> "The shadow is a moral problem that challenges the whole ego-personality, for no one can become conscious of the shadow without considerable moral effort.[^1] To become conscious of it involves recognizing the dark aspects of the personality as present and real. This act is the essential condition for any kind of self-knowledge." (*Aion*, CW 9ii, ¶14)
 
 The Shadow is **everything in the psyche that the ego has rejected, repressed, or failed to recognize as part of itself**. It is the "dark brother," the unlived life, the road not taken. Jung distinguishes between:
 
@@ -370,6 +370,11 @@ A **real person** who has descended into their own underworld and returned with 
 *"One does not become enlightened by imagining figures of light, but by making the darkness conscious."*
 
 — C.G. Jung, *Psychology and Alchemy* (CW 13, ¶335)
+
+---
+
+
+[^1]: Primary sources listed in References section.
 
 ---
 

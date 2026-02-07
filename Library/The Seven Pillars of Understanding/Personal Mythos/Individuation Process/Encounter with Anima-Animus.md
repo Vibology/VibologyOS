@@ -24,7 +24,7 @@ psychological_task: Relating to contrasexual soul-image, withdrawing projections
 
 In *Aion* (CW 9ii) and *Two Essays* (CW 7), Jung defines the Anima (in men) and Animus (in women) as **the soul-image**, the internal representation of the contrasexual archetype that mediates between the ego and the collective unconscious:
 
-> "The natural function of the animus (as well as of the anima) is to remain in [their] place between individual consciousness and the collective unconscious... The animus and the anima should function as a bridge, or a door." (*Aion*, CW 9ii, ¶33)
+> "The natural function of the animus (as well as of the anima) is to remain in [their] place between individual consciousness and the collective unconscious.[^1].. The animus and the anima should function as a bridge, or a door." (*Aion*, CW 9ii, ¶33)
 
 > "Every man carries within him the eternal image of woman... This image is fundamentally unconscious, an hereditary factor of primordial origin... an imprint or 'archetype' of all the ancestral experiences of the female." (*The Development of Personality*, CW 17, ¶338)
 
@@ -383,6 +383,11 @@ A **soul-connected individual** who has built the bridge between ego and unconsc
 *"Every man carries within him the eternal image of woman... This image is fundamentally unconscious, an hereditary factor of primordial origin... an imprint or 'archetype' of all the ancestral experiences of the female."*
 
 — C.G. Jung, *The Development of Personality* (CW 17, ¶338)
+
+---
+
+
+[^1]: Primary sources listed in References section.
 
 ---
 

@@ -32,7 +32,7 @@ The **thirteenth godmother** (or uninvited fairy, excluded goddess, forgotten na
 
 ### The Sleep / Death-in-Life
 
-The most common form of the curse is **enchanted sleep**—Briar Rose (Sleeping Beauty) pricking her finger on the spindle and falling into a hundred-year slumber, Snow White in the glass coffin, the seven brothers turned to swans who can only become human for fifteen minutes each night. This is **psychic petrification**: the individual is neither fully alive nor fully dead, frozen at the moment of wounding.
+The most common form of the curse is **enchanted sleep**—Briar Rose (Sleeping Beauty) pricking her finger on the spindle and falling into a hundred-year slumber, Snow White in the glass coffin, the seven brothers turned to swans who can only become human for fifteen minutes each night.[^1] This is **psychic petrification**: the individual is neither fully alive nor fully dead, frozen at the moment of wounding.
 
 **Symbolically, the sleep represents:**
 
@@ -696,6 +696,11 @@ When the curse is consciously engaged and the spell is broken, the following gif
 *"The sleeping beauty does not wake because the prince arrives. She wakes because she is ready, and the prince is the sign that readiness has arrived."*
 
 — Alchemical Wisdom
+
+---
+
+
+[^1]: Grimm Brothers, *The Complete Fairy Tales* and Marie-Louise von Franz, *The Interpretation of Fairy Tales* (Shambhala, 1970) — Jungian analysis of archetypal patterns in fairy tales.
 
 ---
 

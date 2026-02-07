@@ -24,7 +24,7 @@ psychological_task: Adaptation to collective, establishing social role
 
 In *Two Essays on Analytical Psychology* (CW 7) and *The Archetypes and the Collective Unconscious* (CW 9i), Jung defines the Persona as **the individual's system of adaptation to the world**—the mask worn to navigate society:
 
-> "The persona... is the individual's system of adaptation to, or the manner he assumes in dealing with, the world... One could say, with a little exaggeration, that the persona is that which in reality one is not, but which oneself as well as others think one is." (CW 7, ¶305 / CW 9i, ¶221)
+> "The persona.[^1].. is the individual's system of adaptation to, or the manner he assumes in dealing with, the world... One could say, with a little exaggeration, that the persona is that which in reality one is not, but which oneself as well as others think one is." (CW 7, ¶305 / CW 9i, ¶221)
 
 The Persona is **not inherently pathological**—it is a **necessary compromise** between the individual and the collective. Every profession, social role, and relationship requires a certain mask. The doctor must embody competence and authority; the parent must project stability and care; the employee must demonstrate reliability and skill.
 
@@ -346,6 +346,11 @@ A **functional Persona** that serves the Self's aims—a mask that can be worn w
 *"We cannot live the afternoon of life according to the program of life's morning; for what was great in the morning will be little at evening, and what in the morning was true will at evening have become a lie."*
 
 — C.G. Jung, *The Stages of Life* (CW 8, ¶784)
+
+---
+
+
+[^1]: Primary sources listed in References section.
 
 ---
 

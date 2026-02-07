@@ -28,7 +28,7 @@ The tale's alchemical structure follows the **Mortificatio** (death through viol
 
 ## Plot Summary (Grimm Version)
 
-A young **Princess** plays by a spring in the forest with her most treasured possession: a **golden ball**, which she tosses and catches with delight. One day, the ball slips from her hands and falls into the deep well. The Princess weeps inconsolably—she has lost her "sun," her perfect golden toy, her symbol of childhood wholeness.
+A young **Princess** plays by a spring in the forest with her most treasured possession: a **golden ball**, which she tosses and catches with delight.[^1] One day, the ball slips from her hands and falls into the deep well. The Princess weeps inconsolably—she has lost her "sun," her perfect golden toy, her symbol of childhood wholeness.
 
 A **Frog** emerges from the water and asks why she weeps. When she explains, the Frog offers a bargain: **"I will retrieve your ball if you promise to let me be your companion—to eat from your plate, drink from your cup, and sleep in your bed."** The Princess, desperate and disbelieving, agrees thoughtlessly, certain the Frog cannot leave the water.
 
@@ -495,6 +495,11 @@ The tale concludes with the Sacred Marriage (Coniunctio), the union of Princess 
 **Tarot Sequence:** The Sun (golden ball) → The Moon (descent into well) → The Tower (throw against wall) → The Lovers (sacred marriage).
 
 **Core Insight:** The repulsive transforms when confronted. What the ego finds loathsome often contains trapped vitality (the Prince within the Frog). Touching, even violently rejecting, the shadow releases the positive energy imprisoned within. Sometimes you must throw the Frog against the wall—not out of cruelty, but out of the **aliveness of genuine emotion**—to shatter the neurotic shell and free the consciousness trapped inside.
+
+---
+
+
+[^1]: Grimm Brothers, *The Complete Fairy Tales* and Marie-Louise von Franz, *The Interpretation of Fairy Tales* (Shambhala, 1970) — Jungian analysis of archetypal patterns in fairy tales.
 
 ---
 

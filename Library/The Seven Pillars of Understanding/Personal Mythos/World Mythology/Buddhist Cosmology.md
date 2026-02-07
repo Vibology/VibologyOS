@@ -18,7 +18,7 @@ core_theme: Liberation from suffering through awareness
 
 ## Overview
 
-Buddhist cosmology represents the archetypal drama of **consciousness awakening from the illusion of separate self**—the gradual, often painful recognition that the ego is neither permanent nor substantial, and that liberation arises through direct insight into the nature of mind. The Six Realms are not geographical locations but psychological states; the Wheel of Life (Bhavachakra) is not a cosmological map but a phenomenology of conditioned existence; the Buddha is not a deity but the awakened potential within every sentient being.
+Buddhist cosmology represents the archetypal drama of **consciousness awakening from the illusion of separate self**—the gradual, often painful recognition that the ego is neither permanent nor substantial, and that liberation arises through direct insight into the nature of mind.[^1] The Six Realms are not geographical locations but psychological states; the Wheel of Life (Bhavachakra) is not a cosmological map but a phenomenology of conditioned existence; the Buddha is not a deity but the awakened potential within every sentient being.
 
 Jung recognized Buddhism as "a psychology without the unconscious"—an Eastern parallel to depth psychology that approaches the psyche through meditation rather than analysis. The Buddhist path maps the journey from **ignorance (avidya)** to **awakening (bodhi)**—from identification with ego to recognition of the Self beyond personal identity.
 
@@ -1152,6 +1152,11 @@ The **grain of wheat** in the Eleusinian mysteries = the **lotus in the mud** in
 — Zen Master Linji (Lin-chi)
 
 *(Meaning: Do not cling even to the teaching. The Buddha you can conceptualize is not the true Buddha. Liberation is beyond all forms.)*
+
+
+[^1]: Primary sources listed in References section.
+
+---
 
 ## Sources
 **Jungian Analytical Psychology:**

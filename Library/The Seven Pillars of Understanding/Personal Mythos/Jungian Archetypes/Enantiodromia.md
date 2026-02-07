@@ -38,7 +38,7 @@ Jung recognized this as a **psychological law**: the psyche, like nature, abhors
 
 The process follows a characteristic pattern:
 
-1. **One-sidedness develops** — The ego identifies with one quality, value, or archetype while rejecting its opposite. The ascetic rejects the body. The rationalist rejects feeling. The dutiful child rejects rebellion. The devoted spouse suppresses desire.
+1.[^1] **One-sidedness develops** — The ego identifies with one quality, value, or archetype while rejecting its opposite. The ascetic rejects the body. The rationalist rejects feeling. The dutiful child rejects rebellion. The devoted spouse suppresses desire.
 
 2. **Unconscious compensation** — The rejected opposite does not vanish but becomes an autonomous complex in the unconscious, gaining energy proportional to the ego's rejection. The more rigidly the conscious position is held, the more energy the opposite accumulates.
 
@@ -128,6 +128,11 @@ Enantiodromia may be occurring when you:
 - **Human Design:** [[Gate 24 - The Return]] (the turning point, the return of the repressed), The Rave Mandala (the wheel of gates as a cycle of opposites)
 - **Alchemical:** The transition from [[Nigredo]] to [[Albedo]] (the blackening that produces the whitening), the *circulatio* (the cycling of opposites in the alchemical vessel)
 - **I-Ching:** Hexagram 24 (*Fu* — Return/The Turning Point) — the return of the light after its maximum diminution
+
+---
+
+
+[^1]: C.G. Jung, *Collected Works* (Bollingen Series XX, Princeton University Press) — Jungian archetypal psychology.
 
 ---
 

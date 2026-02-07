@@ -29,7 +29,7 @@ psychological_function: Reconciliation, synthesis, hieros gamos
 ## Overview
 ### Jungian Definition
 
-Carl Jung understood **Conjunction** as the **sacred marriage** (*hieros gamos*) of opposites—the reconciliation of masculine and feminine, conscious and unconscious, spirit and matter within the psyche. In *Mysterium Coniunctionis* (CW 14), his final and most comprehensive work on alchemy, Jung writes:
+Carl Jung understood **Conjunction** as the **sacred marriage** (*hieros gamos*) of opposites—the reconciliation of masculine and feminine, conscious and unconscious, spirit and matter within the psyche.[^1] In *Mysterium Coniunctionis* (CW 14), his final and most comprehensive work on alchemy, Jung writes:
 
 > "The coniunctio oppositorum in the guise of Sol and Luna, the supreme opposites, is so outstanding a feature in alchemy that it would be tedious to cite instances. It is the central mystery, and in so far as it is the aim of the work, the whole work is the coniunctio."
 > — C.G. Jung, *Mysterium Coniunctionis* (CW 14, par. 1)
@@ -664,6 +664,11 @@ When the opposites unite—when the ego surrenders to partnership with the contr
 
 *"The soul is composed of the union of opposites."*
 — C.G. Jung
+
+---
+
+
+[^1]: Edward F. Edinger, *Anatomy of the Psyche* (Open Court, 1985) — Conjunction as union of opposites.
 
 ---
 

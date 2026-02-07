@@ -58,7 +58,7 @@ The result was not cultural erasure but **creative survival**. Yoruba Orishas me
 
 ### The Supreme Being: Olodumare / Bondye
 
-In Yoruba cosmology, **Olodumare** (also Olorun, "Owner of Heaven") is the **remote, unknowable Supreme Being**—the source of all *ashe* (vital force, spiritual power). Olodumare does not intervene in human affairs, does not demand worship, and cannot be represented. In Haitian Vodou, this figure becomes **Bondye** ("Good God")—the ultimate, unreachable divinity.
+In Yoruba cosmology, **Olodumare** (also Olorun, "Owner of Heaven") is the **remote, unknowable Supreme Being**—the source of all *ashe* (vital force, spiritual power).[^1] Olodumare does not intervene in human affairs, does not demand worship, and cannot be represented. In Haitian Vodou, this figure becomes **Bondye** ("Good God")—the ultimate, unreachable divinity.
 
 **Psychological Meaning:** Olodumare is the **Unknowable Self**—Jung's *Deus Absconditus*, the God beyond all images. This is not the personal Self of individuation but the **cosmic Self**—the totality that exceeds human comprehension. The ego does not relate to Olodumare; it relates to the **Orishas/Lwa**, who mediate the divine.
 
@@ -950,6 +950,11 @@ The **Middle Passage as Alchemical Vessel:** Slavery was horrific—but the trad
 *"We are not the descendants of enslaved people. We are the descendants of people who survived enslavement."*
 
 — Dr. Joy DeGruy, *Post Traumatic Slave Syndrome*
+
+
+[^1]: Primary sources listed in References section.
+
+---
 
 ## Sources
 **Jungian Analytical Psychology:**

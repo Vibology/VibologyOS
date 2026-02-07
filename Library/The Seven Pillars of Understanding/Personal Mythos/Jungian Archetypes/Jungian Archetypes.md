@@ -24,7 +24,7 @@ Jung distinguished between the **archetype itself** (unknowable, a priori patter
 
 ## The Major Archetypes
 
-Jung identified several core archetypes that appear universally in myths, dreams, and psychological development. These are not exhaustive—the collective unconscious contains infinite archetypal potentials—but they represent the most commonly encountered figures in the individuation process.
+Jung identified several core archetypes that appear universally in myths, dreams, and psychological development.[^1] These are not exhaustive—the collective unconscious contains infinite archetypal potentials—but they represent the most commonly encountered figures in the individuation process.
 
 ### Structural Archetypes
 
@@ -137,6 +137,11 @@ The Jungian archetypes correspond to patterns in other wisdom traditions:
 - [[Confrontation with the Self]] — Stage 5 of individuation
 - Active Imagination — Jung's technique for archetype engagement
 - The Twelve Archetypes — The Window's contemporary archetypal system
+
+
+[^1]: C.G. Jung, *Collected Works* (Bollingen Series XX, Princeton University Press) — Jungian archetypal psychology.
+
+---
 
 ## Sources
 

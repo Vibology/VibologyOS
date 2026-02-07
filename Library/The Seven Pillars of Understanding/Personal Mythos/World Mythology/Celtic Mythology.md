@@ -18,7 +18,7 @@ core_theme: Quest for Wholeness, Sacred Marriage with the Land, Otherworld as Co
 
 ## Overview
 
-Celtic mythology represents the archetypal drama of **the psyche's relationship with the invisible realms**—the Otherworld as Collective Unconscious, the Quest for the Grail as individuation, the Sacred Marriage with Sovereignty as integration with the Self. Unlike Greek mythology's emphasis on ego emergence, Celtic myth speaks to **permeability between worlds**, the recognition that consciousness and unconscious interpenetrate at every threshold: twilight, liminal seasons, thin places, fairy mounds.
+Celtic mythology represents the archetypal drama of **the psyche's relationship with the invisible realms**—the Otherworld as Collective Unconscious, the Quest for the Grail as individuation, the Sacred Marriage with Sovereignty as integration with the Self.[^1] Unlike Greek mythology's emphasis on ego emergence, Celtic myth speaks to **permeability between worlds**, the recognition that consciousness and unconscious interpenetrate at every threshold: twilight, liminal seasons, thin places, fairy mounds.
 
 The Celtic tradition offers no clear boundary between mortal and divine, living and dead, waking and dreaming. The **Tuatha Dé Danann** (People of the Goddess Danu) are not distant Olympians but inhabitants of the **Sidhe** (pronounced "shee")—the hollow hills, the burial mounds, the Otherworld that exists *alongside* this world, accessible through portals in consciousness.
 
@@ -941,6 +941,11 @@ The **Grail/Cauldron** is the **alembic**—the vessel where all operations occu
 *"The question is the cure. When the ego learns to ask—not demand, not grasp, but ask with humility and compassion—the Grail appears. Not because it was hidden, but because the asker has finally become capable of seeing what was always present."*
 
 — Marie-Louise von Franz, *The Grail Legend*
+
+
+[^1]: Primary sources listed in References section.
+
+---
 
 ## Sources
 **Jungian Analytical Psychology:**

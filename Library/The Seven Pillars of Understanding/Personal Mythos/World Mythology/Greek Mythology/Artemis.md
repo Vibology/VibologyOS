@@ -47,7 +47,7 @@ Her shadow is **ruthlessness, isolation, and the inability to integrate with civ
 
 ### Birth on Delos: The First-Born Helper
 
-Artemis and her twin brother [[Apollo]] were born to **Leto**, a Titaness, and [[Zeus]]. **Hera**, Zeus's jealous wife, pursued Leto relentlessly, forbidding any land to give her refuge. Leto wandered the earth, pregnant and in labor, rejected everywhere by fear of Hera's wrath. Finally, the floating island of **Ortygia** (later renamed **Delos**) consented to receive her.
+Artemis and her twin brother [[Apollo]] were born to **Leto**, a Titaness, and [[Zeus]].[^1] **Hera**, Zeus's jealous wife, pursued Leto relentlessly, forbidding any land to give her refuge. Leto wandered the earth, pregnant and in labor, rejected everywhere by fear of Hera's wrath. Finally, the floating island of **Ortygia** (later renamed **Delos**) consented to receive her.
 
 The **Homeric Hymn to Apollo** (3) describes the birth:
 
@@ -418,6 +418,11 @@ Astrologically, Artemis corresponds to the **[[Moon ☽]]**—especially the moo
 - **Hecate** — Lunar goddess of crossroads, magic, and the underworld (darker, more chthonic than Artemis, but shares lunar wildness)
 - **Skadi** (Norse) — Goddess of winter, hunting, mountains, independence (Norse Artemis—autonomous, wild, fierce)
 - **Durga/Kali** (Hindu) — The fierce mother who protects by destroying (similar to Artemis's protector-destroyer duality, but more explicitly maternal)
+
+---
+
+
+[^1]: Homeric *Hymn to Artemis* and classical sources — Artemis as virgin goddess of hunt, wilderness, and moon.
 
 ---
 

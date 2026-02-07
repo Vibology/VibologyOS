@@ -47,7 +47,7 @@ When the Olympians defeated the Titans in the Titanomachy, the three brothers—
 - **Poseidon:** The sea and all waters (instinct, emotion, the present-tense surge of affect)
 - **Hades:** The underworld and the realm of the dead (shadow, the past, the invisible laws)
 
-The **earth** and **Mount Olympus** were held in common.
+The **earth** and **Mount Olympus** were held in common.[^1]
 
 This tripartite division encodes the **structure of the psyche**:
 
@@ -431,6 +431,11 @@ Astrologically, Hades corresponds to **[[Pluto ♇]]**, the planet of death, tra
 - **Ereshkigal** (Mesopotamian) — Queen of the underworld, sister-shadow to Inanna
 - **Hel** (Norse) — Goddess of the underworld (Helheim), daughter of Loki
 - **Yama** (Hindu/Buddhist) — Lord of death, judge and psychopomp
+
+---
+
+
+[^1]: Homer, *Iliad* and *Odyssey*, and classical sources — Hades as god of the underworld and lord of the dead.
 
 ---
 

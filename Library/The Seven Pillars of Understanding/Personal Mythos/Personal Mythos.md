@@ -18,7 +18,7 @@ entry_type: capstone-synthesis
 ---
 ## Overview: The Mythos That Is Yours Alone
 
-Your life is not a random sequence of events happening to a meaningless self. Your life is a **Personal Mythos**—a unique story woven from eternal patterns, a singular expression of archetypal forces, a myth that has never been told before and will never be told again in quite the same way.
+Your life is not a random sequence of events happening to a meaningless self.[^1] Your life is a **Personal Mythos**—a unique story woven from eternal patterns, a singular expression of archetypal forces, a myth that has never been told before and will never be told again in quite the same way.
 
 **Personal Mythos** is the synthesis of everything this pillar offers: the recognition that you are simultaneously living a **universal story** (the patterns encoded in myth, archetype, and fairy tale that repeat across cultures and centuries) and an **absolutely particular story** (the one-time-only narrative that is your irreplaceable life).
 
@@ -815,6 +815,11 @@ That answer—moment by moment, choice by choice, crisis by crisis, integration 
 - INDEX - Personal Mythos Master List
 - Seven-Coordinate Navigation
 - RUBRIC - Library Content Standard
+
+---
+
+
+[^1]: Primary sources listed in References section.
 
 ---
 

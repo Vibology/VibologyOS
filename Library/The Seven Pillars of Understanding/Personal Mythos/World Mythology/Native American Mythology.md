@@ -55,7 +55,7 @@ Jung recognized Indigenous worldviews as retaining what the West has lost: **par
 
 ### The Emergence: Birth from the Earth
 
-Many Indigenous creation stories describe **emergence from underground worlds** through successive levels into the present world. The Navajo (Diné) tradition speaks of four or five worlds ascended, each representing a stage of development—from insect beings to animal people to humans, each migration prompted by imbalance or conflict requiring resolution in the next realm.
+Many Indigenous creation stories describe **emergence from underground worlds** through successive levels into the present world.[^1] The Navajo (Diné) tradition speaks of four or five worlds ascended, each representing a stage of development—from insect beings to animal people to humans, each migration prompted by imbalance or conflict requiring resolution in the next realm.
 
 **Psychological Meaning:** This is not linear evolution but **spiral development**—consciousness emerging from the depths (unconscious) while maintaining connection to the source. The underground worlds are not "overcome" but remain present, accessible through ceremony, dreams, and vision. Unlike the Greek Titanomachy (violent overthrow of the old order), emergence is *transformation that carries the past forward*.
 
@@ -849,6 +849,11 @@ Jung: *"The Indian's relationship to his gods is not one of belief but of experi
 ---
 
 **Acknowledgment:** This entry honors the teachings of Indigenous scholars and knowledge keepers who have chosen to share publicly. It is offered in the spirit of cross-cultural understanding and archetypal recognition, not appropriation. May it serve the healing of the relational consciousness so desperately needed in our time.
+
+
+[^1]: Primary sources listed in References section.
+
+---
 
 ## Sources
 **Jungian Analytical Psychology:**

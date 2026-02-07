@@ -26,7 +26,7 @@ The tale's alchemical structure follows the **Calcinatio**—the burning, the re
 
 ## Plot Summary
 
-A woodcutter and his wife (in some versions, a stepmother) live in desperate poverty with their two children, **Hansel and Gretel**. Unable to feed the family, the wife convinces the reluctant father to abandon the children deep in the forest. Hansel overhears the plan and fills his pockets with **white pebbles** that shine in the moonlight. The next day, as the parents lead them into the woods, Hansel secretly drops pebbles along the path. When the parents abandon them, the children follow the pebbles home by moonlight.
+A woodcutter and his wife (in some versions, a stepmother) live in desperate poverty with their two children, **Hansel and Gretel**.[^1] Unable to feed the family, the wife convinces the reluctant father to abandon the children deep in the forest. Hansel overhears the plan and fills his pockets with **white pebbles** that shine in the moonlight. The next day, as the parents lead them into the woods, Hansel secretly drops pebbles along the path. When the parents abandon them, the children follow the pebbles home by moonlight.
 
 The stepmother, enraged, demands the father try again. This time, Hansel is locked in and cannot gather pebbles. He takes **bread** instead, dropping crumbs to mark the path. But **the birds eat the breadcrumbs**, and the children are truly lost. After wandering for three days, starving, they encounter a miraculous house made of **gingerbread, cake, and sugar-pane windows**.
 
@@ -525,6 +525,11 @@ Abandonment in the Forest • The Devouring Witch • The Gingerbread House • 
 
 #### Related Tales
 [[Beauty and the Beast]] • [[Snow White]] • Sleeping Beauty • Little Red Riding Hood • The Juniper Tree • The Handless Maiden • Baba Yaga • Vasilisa the Beautiful
+
+---
+
+
+[^1]: Grimm Brothers, *The Complete Fairy Tales* and Marie-Louise von Franz, *The Interpretation of Fairy Tales* (Shambhala, 1970) — Jungian analysis of archetypal patterns in fairy tales.
 
 ---
 

@@ -18,7 +18,7 @@ core_theme: Return to the Source, Wu Wei, Yin-Yang Integration
 
 ## Overview
 
-Taoist mythology represents the archetypal drama of **consciousness returning to the Source**—the paradoxical journey of non-doing (wu wei) that leads to wholeness, the alchemical transformation of ego into the Diamond Body, and the recognition that the Tao that can be named is not the eternal Tao. Where Greek mythology charts the **emergence** of consciousness from the unconscious, Taoism teaches the **return** to the undifferentiated Source while maintaining differentiated awareness—what Jung called the "conscious assimilation of the unconscious."
+Taoist mythology represents the archetypal drama of **consciousness returning to the Source**—the paradoxical journey of non-doing (wu wei) that leads to wholeness, the alchemical transformation of ego into the Diamond Body, and the recognition that the Tao that can be named is not the eternal Tao.[^1] Where Greek mythology charts the **emergence** of consciousness from the unconscious, Taoism teaches the **return** to the undifferentiated Source while maintaining differentiated awareness—what Jung called the "conscious assimilation of the unconscious."
 
 The Tao is simultaneously the Nameless (the Self before all naming, the Unus Mundus) and the Named (the 10,000 beings, the manifest world). Taoist practice does not seek to **conquer** the unconscious (like the Greek hero slaying monsters) but to **align** with it through wu wei (effortless action), to allow the natural intelligence of the psyche to unfold without ego interference.
 
@@ -888,6 +888,11 @@ Jung: *"The alchemical vessel is the psyche itself. The fire is suffering. The w
 *"The Tao is like a well: used but never used up. It is like the eternal void: filled with infinite possibilities."*
 
 — Lao Tzu, *Tao Te Ching*, Chapter 4
+
+
+[^1]: Primary sources listed in References section.
+
+---
 
 ## Sources
 **Jungian Analytical Psychology:**

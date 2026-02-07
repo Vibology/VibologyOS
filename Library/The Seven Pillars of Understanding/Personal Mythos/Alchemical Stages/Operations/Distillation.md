@@ -29,7 +29,7 @@ psychological_function: Purification, refinement, conscious application of wisdo
 ## Overview
 ### Jungian Definition
 
-Carl Jung understood **Distillation** as the alchemical process of *circulation*—the repeated ascent and descent of psychic content that purifies consciousness through iteration. In *Mysterium Coniunctionis* (CW 14), he describes the alchemical process of distillation as symbolic of the refinement of consciousness:
+Carl Jung understood **Distillation** as the alchemical process of *circulation*—the repeated ascent and descent of psychic content that purifies consciousness through iteration.[^1] In *Mysterium Coniunctionis* (CW 14), he describes the alchemical process of distillation as symbolic of the refinement of consciousness:
 
 > "The distillation is a circulation of the subtle from the gross, a repeated ascent and descent. It is the work of Hermes, the psychopomp who travels between upper and lower worlds."
 > — C.G. Jung, *Mysterium Coniunctionis* (CW 14, par. 406)
@@ -630,6 +630,11 @@ When the psyche embraces the work of circulation—when insights are patiently b
 *"As above, so below." Not as a metaphysical statement, but as a daily practice. What you receive in meditation, bring to your marriage. What you learn in therapy, test in your work. What you dream at night, examine in the morning light. This is Distillation.*
 
 *The soul is the alembic. The Self is the fire beneath. Consciousness is the dew that falls, again and again, until the vessel is filled with light.*
+
+---
+
+
+[^1]: Edward F. Edinger, *Anatomy of the Psyche* (Open Court, 1985) — Distillation as purification through repeated heating and cooling.
 
 ---
 

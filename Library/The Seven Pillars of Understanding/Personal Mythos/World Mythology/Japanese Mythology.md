@@ -18,7 +18,7 @@ core_theme: Emergence from chaos, purification, death-rebirth cycle, divine ligh
 
 ## Overview
 
-Japanese Shinto mythology presents the archetypal drama of **consciousness emerging from formless chaos**—the slow solidification of the ego-island from the oily ocean of the unconscious, the necessary descent into death's realm, and the cyclical return of solar consciousness from the cave of depression. Unlike the Greek emphasis on heroic struggle against fate, Shinto cosmology frames existence as perpetual **purification** (*harae*)—the cleansing of *tsumi* (pollution, not sin) to restore original luminosity.
+Japanese Shinto mythology presents the archetypal drama of **consciousness emerging from formless chaos**—the slow solidification of the ego-island from the oily ocean of the unconscious, the necessary descent into death's realm, and the cyclical return of solar consciousness from the cave of depression.[^1] Unlike the Greek emphasis on heroic struggle against fate, Shinto cosmology frames existence as perpetual **purification** (*harae*)—the cleansing of *tsumi* (pollution, not sin) to restore original luminosity.
 
 The Shinto pantheon operates through **kami**—numinous presences inhabiting natural phenomena, ancestors, and archetypal forces. Kami are not transcendent gods ruling from above but **immanent spirits woven through matter**—the sacred revealing itself in mountain, waterfall, thunder, and stone. This is animism in its most psychologically sophisticated form: the recognition that the archetypes of the collective unconscious manifest through the natural world.
 
@@ -937,6 +937,11 @@ Shinto cosmology maps the **individuation process** with precision:
 *"In Shinto, the gods are not distant but near—in the waterfall, the ancient tree, the stone. The kami dwell where numinosity breaks through. To honor them is not worship but recognition: the sacred is always present, waiting to be seen."*
 
 — Motohisa Yamakage, *The Essence of Shinto*
+
+
+[^1]: Primary sources listed in References section.
+
+---
 
 ## Sources
 **Jungian Analytical Psychology:**

@@ -59,7 +59,7 @@ Aphrodite is beauty that compels worship, desire that disrupts order, love that 
 
 The birth of Aphrodite is recounted in Hesiod's *Theogony* (lines 188-206):
 
-> *"The genitals, cut off with adamant and thrown from the land into the surging sea, were carried for a long time on the waves. White foam arose from the immortal flesh, and in it grew a maiden. First she approached holy Cythera, and from there she came to sea-girt Cyprus. There she stepped ashore, a dread and beautiful goddess, and grass grew beneath her slender feet. Her name is Aphrodite among men and gods, because she was nurtured in foam (*aphros*), and also Cytherea, because she reached Cythera."*
+> *"The genitals, cut off with adamant and thrown from the land into the surging sea, were carried for a long time on the waves.[^1] White foam arose from the immortal flesh, and in it grew a maiden. First she approached holy Cythera, and from there she came to sea-girt Cyprus. There she stepped ashore, a dread and beautiful goddess, and grass grew beneath her slender feet. Her name is Aphrodite among men and gods, because she was nurtured in foam (*aphros*), and also Cytherea, because she reached Cythera."*
 
 The myth encodes the castration of **Uranus** (Sky) by his son **Kronos**, an act of primal rebellion. Gaia (Earth) had borne many children to Uranus, but he refused to let them be born, pushing them back into her womb. Gaia, in pain, fashioned a great sickle and gave it to Kronos, who ambushed his father, castrated him, and cast the severed genitals into the sea.
 
@@ -432,6 +432,11 @@ Astrologically, Aphrodite corresponds to **[[Venus ♀]]**—planet of love, bea
 - **Astarte** (Phoenician) — Love and fertility goddess, syncretized with Aphrodite in Cyprus
 - **Hathor** (Egyptian) — Goddess of love, beauty, music, joy, pleasure, sexuality (cow-eared, associated with mirrors)
 - **Freya** (Norse) — Goddess of love, beauty, fertility, magic, warfare (Aphrodite + Artemis + warrior aspects)
+
+---
+
+
+[^1]: Hesiod, *Theogony* and Homeric *Hymn to Aphrodite* — Aphrodite as goddess of love, beauty, and desire.
 
 ---
 

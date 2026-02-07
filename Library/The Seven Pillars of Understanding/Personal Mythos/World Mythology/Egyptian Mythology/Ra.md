@@ -39,7 +39,7 @@ In Jungian terms, Ra represents **solar consciousness**—the ego at its most be
 
 ### Creation: The Self-Generated God
 
-In the beginning, there was only **Nun**—the dark, infinite, formless waters of non-existence. Within Nun, Ra came into being as **Atum** ("the All" and "the None"). He willed himself into existence, appearing first as the **benben stone**, the primordial mound that rose from the waters—the first solid ground, the axis mundi. This sacred stone, venerated at Heliopolis, became the prototype for every obelisk: the ray of sunlight made stone, the creative word made matter.
+In the beginning, there was only **Nun**—the dark, infinite, formless waters of non-existence.[^1] Within Nun, Ra came into being as **Atum** ("the All" and "the None"). He willed himself into existence, appearing first as the **benben stone**, the primordial mound that rose from the waters—the first solid ground, the axis mundi. This sacred stone, venerated at Heliopolis, became the prototype for every obelisk: the ray of sunlight made stone, the creative word made matter.
 
 Ra (as Atum) created the first gods without a female consort. In one account, he **masturbated**, bringing forth Shu and Tefnut from his own seed—an act of pure self-sufficiency. In another version, he **sneezed** or **spat** them forth, making creation a pneumatic act (breath, word, spirit). Shu and Tefnut then generated **Geb** (Earth) and **Nut** (Sky), who in turn birthed Osiris, Isis, Set, and Nephthys—the Ennead (nine primary gods).
 
@@ -309,6 +309,11 @@ When you feel mocked, diminished, or your authority challenged:
 - **[[Qabalah]]:** **Tiphareth** (Beauty, the heart of the Tree, the solar center, Christ-consciousness, the reconciling principle), Sun card's path
 - **[[Human Design]]:** [[Sun ☉]] (70% of chart definition—the core identity), [[Throat]] (manifestation, speaking/creating), solar transits
 - **[[Angelology]]:** [[Michael]] (solar archangel, defender against chaos, parallels Ra's Apophis battle), [[Michael|Solar Archangel]]
+
+---
+
+
+[^1]: Egyptian mythological texts and Plutarch, *Isis and Osiris*.
 
 ---
 

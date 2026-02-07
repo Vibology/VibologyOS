@@ -51,7 +51,7 @@ Her sacred symbols:
 
 ### The Rape of Persephone and the Eleusinian Mystery
 
-The *Homeric Hymn to Demeter* tells the foundational narrative: [[Persephone]] (Demeter's daughter by [[Zeus]]) is gathering flowers in a meadow when the earth opens and [[Hades]], lord of the underworld, seizes her and drags her below. Zeus had secretly consented to this abduction. Demeter hears her daughter's screams but cannot find her — no god will tell her the truth.
+The *Homeric Hymn to Demeter* tells the foundational narrative: [[Persephone]] (Demeter's daughter by [[Zeus]]) is gathering flowers in a meadow when the earth opens and [[Hades]], lord of the underworld, seizes her and drags her below.[^1] Zeus had secretly consented to this abduction. Demeter hears her daughter's screams but cannot find her — no god will tell her the truth.
 
 For **nine days** Demeter wanders the earth with torches, neither eating nor drinking, searching for her lost daughter. On the tenth day, **Helios** (the all-seeing Sun) reveals the truth: Hades took Persephone with Zeus's permission. Demeter's grief transforms into **rage**. She withdraws from Olympus, disguises herself as an old woman, and comes to **Eleusis**, where she is received by the royal family and becomes nurse to their infant prince **Demophon**.
 
@@ -158,6 +158,11 @@ The Demeter archetype is active when you:
 - **Angelology:** [[Uriel|Archangel Uriel]] (earth, harvest, wisdom of embodiment)
 - **Alchemical Stages:** [[Nigredo]] (the dark phase of loss), [[Albedo]] (the purification through grief), the grain as *prima materia*
 - **Hero's Journey:** The Descent (katabasis), The Return (with the boon of knowledge)
+
+---
+
+
+[^1]: Classical Greek sources (Hesiod, Homer, Homeric Hymns) and mythological encyclopedias.
 
 ---
 

@@ -44,7 +44,7 @@ Unlike [[Inanna]], who descends **voluntarily** to meet her shadow sister Ereshk
 
 The **Homeric Hymn to Demeter** (lines 1-90) recounts the abduction with stark beauty:
 
-**Kore** (the maiden Persephone) wanders in a meadow with the daughters of Ocean, gathering flowers—roses, crocuses, violets, irises, hyacinths. The earth itself conspires in her abduction: **Zeus** (her father and Hades's brother) has arranged for a special flower to bloom—the **narcissus** (a hundred-headed bloom of intoxicating fragrance). When Kore reaches for it, **the earth gapes wide**.
+**Kore** (the maiden Persephone) wanders in a meadow with the daughters of Ocean, gathering flowers—roses, crocuses, violets, irises, hyacinths.[^1] The earth itself conspires in her abduction: **Zeus** (her father and Hades's brother) has arranged for a special flower to bloom—the **narcissus** (a hundred-headed bloom of intoxicating fragrance). When Kore reaches for it, **the earth gapes wide**.
 
 From the abyss erupts **Hades** in his golden chariot drawn by immortal horses. He seizes her, and despite her screaming protests, drags her down into the underworld. The earth closes above her. No one witnesses the abduction except:
 - **Hecate** (in her cave, hears the cry but does not see)
@@ -410,6 +410,11 @@ If you are the **mother** (Demeter):
 - **[[Qabalah]]:** **Malkuth** (earthly realm, grain, seasons), **Yesod** (lunar foundation, gateway to underworld), **Death card path** (Nun, water/transformation between Netzach and Tiphareth)
 - **[[Human Design]]:** [[Gate 36 - Darkening of the Light]] (Crisis/Darkening of the Light—descent into shadow, emotional depth), [[Solar Plexus]] (wave, depth, seasonal rhythms), [[Gate 55 - Abundance]] (Abundance/Spirit—emotional peaks and depths, seasonal mood)
 - **[[Angelology]]:** [[Gabriel|Lunar Archangel]] (emotional cycles, underworld), psychopomp angels (Hermes parallel)
+
+---
+
+
+[^1]: Homeric *Hymn to Demeter* — Persephone's abduction and descent to underworld.
 
 ---
 

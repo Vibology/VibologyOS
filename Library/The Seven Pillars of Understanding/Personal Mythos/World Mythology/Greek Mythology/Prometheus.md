@@ -49,7 +49,7 @@ Prometheus is also the archetypal **introverted thinker** (Jung's typology)—th
 
 ### The Creation of Humanity
 
-In several versions of the myth (Hesiod, Apollodorus, Ovid), **Prometheus creates humanity from clay and water**. He shapes the first humans in the image of the gods (or as another account says, he makes them stand upright, able to gaze at the stars—distinguishing them from animals). **Athena** (goddess of wisdom and craft), who favored Prometheus, breathed life (pneuma, spirit) into the clay forms.
+In several versions of the myth (Hesiod, Apollodorus, Ovid), **Prometheus creates humanity from clay and water**.[^1] He shapes the first humans in the image of the gods (or as another account says, he makes them stand upright, able to gaze at the stars—distinguishing them from animals). **Athena** (goddess of wisdom and craft), who favored Prometheus, breathed life (pneuma, spirit) into the clay forms.
 
 This makes Prometheus not merely humanity's benefactor but our **creator**—the divine craftsman who fashioned consciousness from earth. The gods did not create humans in this account; a Titan did. We are **not Olympian work but Titanic work**—born from the old order, not the new.
 
@@ -438,6 +438,11 @@ If you are **Epimethean** (extraverted, reactive, adaptive):
 - **Mary Shelley, *Frankenstein; or, The Modern Prometheus*** (1818) — science as Promethean hubris
 - **Goethe, Byron, Camus** — Promethean themes in literature
 - **Technological revolution** — the "Promethean age" of human mastery over nature
+
+---
+
+
+[^1]: Hesiod, *Theogony* and Aeschylus, *Prometheus Bound* — Prometheus as fire-bringer and rebel consciousness.
 
 ---
 

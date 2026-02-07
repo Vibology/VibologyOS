@@ -24,7 +24,7 @@ psychological_task: Preparation for death, wisdom transmission, becoming ancesto
 
 In *Memories, Dreams, Reflections*, Jung reflects on the totality of his life with the image of a plant:
 
-> "Life has always seemed to me like a plant that lives on its rhizome. Its true life is invisible, hidden in the rhizome. The part that appears above ground lasts only a single summer... What we see is the blossom, which passes. The rhizome remains." (*MDR*, Prologue)
+> "Life has always seemed to me like a plant that lives on its rhizome.[^1] Its true life is invisible, hidden in the rhizome. The part that appears above ground lasts only a single summer... What we see is the blossom, which passes. The rhizome remains." (*MDR*, Prologue)
 
 The **rhizome** is the **Self**—the invisible, eternal ground from which the visible life emerges. In elderhood, the task is to **identify with the rhizome, not the blossom**. The ego (the flower) will fade, but the Self (the root) endures.
 
@@ -374,6 +374,11 @@ A **completed human being** who has lived the full arc from birth to death **con
 *"My life is a story of the self-realization of the unconscious. Everything in the unconscious seeks outward manifestation, and the personality too desires to evolve out of its unconscious conditions."*
 
 — C.G. Jung, *Memories, Dreams, Reflections* (Prologue)
+
+---
+
+
+[^1]: Primary sources listed in References section.
 
 ---
 

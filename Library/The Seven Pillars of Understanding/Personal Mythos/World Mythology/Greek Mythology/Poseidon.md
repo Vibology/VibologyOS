@@ -43,7 +43,7 @@ When the Olympians defeated the Titans in the Titanomachy, [[Zeus]], **Poseidon*
 - **Poseidon:** The sea and all waters (the emotional depths, instinctual force)
 - **Hades:** The underworld and the realm of the dead (the shadow, the ancestors, the unconscious past)
 
-The **earth** and **Mount Olympus** were held in common, accessible to all three brothers.
+The **earth** and **Mount Olympus** were held in common, accessible to all three brothers.[^1]
 
 This division encodes the **tripartite structure of consciousness**:
 
@@ -399,6 +399,11 @@ Astrologically, Poseidon corresponds to **[[Neptune ♆]]**, though this identif
 - **Yam** (Canaanite) — Sea god, chaos deity, enemy of Baal
 - **Manannan mac Lir** (Celtic) — Irish sea god, ruler of the Otherworld
 - **Aegir** (Norse) — Giant who personifies the sea
+
+---
+
+
+[^1]: Classical Greek sources (Hesiod, Homer, Homeric Hymns) and mythological encyclopedias.
 
 ---
 

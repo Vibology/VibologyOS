@@ -39,7 +39,7 @@ This historical trajectory — from **necessary power** to **absolute evil** —
 
 ### The Murder of Osiris
 
-Set's defining act is the **murder and dismemberment of [[Osiris]]** — the archetypal fratricide. In Plutarch's account, Set, consumed by envy of his brother's beloved kingship, constructs a magnificent chest to Osiris's exact measurements. At a banquet, he offers the chest to whoever fits it perfectly. When Osiris lies down inside, Set and seventy-two conspirators seal the lid with molten lead and cast it into the Nile. Later, discovering that [[Isis]] has recovered the body, Set tears Osiris into **fourteen pieces** and scatters them across Egypt.
+Set's defining act is the **murder and dismemberment of [[Osiris]]** — the archetypal fratricide.[^1] In Plutarch's account, Set, consumed by envy of his brother's beloved kingship, constructs a magnificent chest to Osiris's exact measurements. At a banquet, he offers the chest to whoever fits it perfectly. When Osiris lies down inside, Set and seventy-two conspirators seal the lid with molten lead and cast it into the Nile. Later, discovering that [[Isis]] has recovered the body, Set tears Osiris into **fourteen pieces** and scatters them across Egypt.
 
 **Archetypal reading:** Set's envy is the **shadow's resentment of the persona** — the repressed, chaotic dimension of the personality that watches the ordered, socially approved self receive all the praise and power. The chest that fits Osiris perfectly is the persona itself: the social identity that appears beautiful but becomes a coffin when it excludes the shadow. The dismemberment is the shadow's ultimate assault: if the persona will not make room for chaos, chaos will destroy the persona's coherence entirely.
 
@@ -139,6 +139,11 @@ The Set archetype is active when you:
 - **Alchemical Stages:** [[Nigredo]] (the darkening that Set's murder initiates), *calcinatio* (the burning of the prima materia in the desert's heat)
 - **Jungian:** [[The Shadow]] (the definitive mythos), [[Enantiodromia]] (the reversal: demonized Set becomes Ra's defender)
 - **Comparative:** Typhon (Greek), Loki (Norse), Ahriman (Zoroastrian), Satan (Judeo-Christian shadow trajectory)
+
+---
+
+
+[^1]: Egyptian mythological texts and Plutarch, *Isis and Osiris*.
 
 ---
 

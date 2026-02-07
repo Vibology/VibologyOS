@@ -41,7 +41,7 @@ From a Jungian perspective, Apollo represents **ego-consciousness at its best**:
 
 ### Birth on Delos: The Wandering Mother and the Floating Island
 
-Apollo and his twin sister [[Artemis]] were born to **Leto**, a Titaness, and [[Zeus]]. **Hera**, Zeus's jealous wife, pursued Leto relentlessly, forbidding any land to give her refuge. Leto wandered the earth, pregnant and in labor, rejected everywhere by fear of Hera's wrath.
+Apollo and his twin sister [[Artemis]] were born to **Leto**, a Titaness, and [[Zeus]].[^1] **Hera**, Zeus's jealous wife, pursued Leto relentlessly, forbidding any land to give her refuge. Leto wandered the earth, pregnant and in labor, rejected everywhere by fear of Hera's wrath.
 
 Finally, the floating island of **Ortygia** (later renamed **Delos**, "The Shining One") consented to receive her. Delos was not fixed to the earth—it drifted on the sea—and thus was not subject to Hera's decree. Leto, clasping a **palm tree** (or an olive tree, depending on the source), gave birth first to Artemis, who immediately assisted in the birth of her brother Apollo.
 
@@ -406,6 +406,11 @@ Astrologically, Apollo corresponds to the **[[Sun ☉]]**—the core identity, t
 - **Helios/Sol** — The older sun god (physical sun disk), later conflated with Apollo
 - **Lugh** (Celtic) — Solar deity, god of light, arts, and skills
 - **Balder** (Norse) — God of light, beauty, and purity
+
+---
+
+
+[^1]: Homeric *Hymn to Apollo* and classical sources — Apollo as god of light, music, prophecy, and rational order.
 
 ---
 

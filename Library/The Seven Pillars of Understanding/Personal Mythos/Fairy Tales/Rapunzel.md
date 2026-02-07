@@ -28,7 +28,7 @@ The core motif—**golden hair as psychic bridge**—reveals Rapunzel's unconsci
 
 ## Plot Summary
 
-A pregnant woman develops an irresistible craving for **rapunzel** (a leafy green vegetable, sometimes called rampion) growing in the walled garden of a powerful **Witch** or **Enchantress**. The craving becomes so intense she believes she will die without it. Her husband, desperate to save her, steals into the garden by night and takes the rapunzel. The Witch catches him and offers a terrible bargain: "Take all the rapunzel you need, but when the child is born, you will give her to me."
+A pregnant woman develops an irresistible craving for **rapunzel** (a leafy green vegetable, sometimes called rampion) growing in the walled garden of a powerful **Witch** or **Enchantress**.[^1] The craving becomes so intense she believes she will die without it. Her husband, desperate to save her, steals into the garden by night and takes the rapunzel. The Witch catches him and offers a terrible bargain: "Take all the rapunzel you need, but when the child is born, you will give her to me."
 
 The terrified couple agrees. When the daughter is born, the Witch claims her, naming her **Rapunzel** after the plant that sealed her fate. At age **twelve**—the threshold of puberty—the Witch locks Rapunzel in a tall **tower** in the forest, a tower with no door and no stairs, only a single high window. To visit her prisoner, the Witch calls out:
 
@@ -535,6 +535,11 @@ The Tower Imprisonment • The Golden Hair • The Devouring Mother • The Secr
 
 #### Related Tales
 [[Beauty and the Beast]] • [[Snow White]] • Sleeping Beauty • The Handless Maiden • The Juniper Tree • Allerleirauh • [[Cinderella]]
+
+---
+
+
+[^1]: Grimm Brothers, *The Complete Fairy Tales* and Marie-Louise von Franz, *The Interpretation of Fairy Tales* (Shambhala, 1970) — Jungian analysis of archetypal patterns in fairy tales.
 
 ---
 

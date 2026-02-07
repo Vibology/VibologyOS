@@ -46,7 +46,7 @@ As the planet Venus, she is both **morning star** (virgin warrior, autonomous, r
 
 ### The Descent of Inanna to the Underworld
 
-This is Inanna's central myth, preserved in Sumerian cuneiform tablets and translated by Samuel Noah Kramer and Diane Wolkstein. It is the **archetypal katabasis** (descent to the underworld)—the template for every initiatory journey into darkness.
+This is Inanna's central myth, preserved in Sumerian cuneiform tablets and translated by Samuel Noah Kramer and Diane Wolkstein.[^1] It is the **archetypal katabasis** (descent to the underworld)—the template for every initiatory journey into darkness.
 
 **The Opening:**
 Inanna, Queen of Heaven and Earth, "opens her ear to the Great Below." She abandons her seven temples in the seven cities of Sumer and prepares to descend to the underworld—the realm of her older sister **Ereshkigal**, the "Lady of the Great Place Below," Queen of the Dead.
@@ -453,6 +453,11 @@ If you recognize Inanna's pattern of consuming partners:
 ### Mythology and Literature
 - **Dying-and-Rising Gods:** Dumuzi/Tammuz, Adonis, Attis, Osiris (consorts who descend and return)
 - **Venus Traditions:** Astarte (Phoenician), Ashtoreth (Hebrew), Al-Uzza (pre-Islamic Arabian), Aphrodite (Greek), Venus (Roman)
+
+---
+
+
+[^1]: *The Descent of Inanna* (Sumerian myth, c. 1900-1600 BCE) — Inanna's descent to the underworld and return.
 
 ---
 

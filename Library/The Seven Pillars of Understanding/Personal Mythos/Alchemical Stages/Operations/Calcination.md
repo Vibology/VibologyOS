@@ -29,7 +29,7 @@ psychological_function: Destruction of ego defenses, burning away attachments
 ## Overview
 ### Jungian Definition
 
-Carl Jung understood **Calcination** as the fiery ordeal that initiates the alchemical transformation—the necessary destruction that precedes rebirth. In *Psychology and Alchemy* (CW 12), he writes of the alchemical fire as both literal (the furnace) and metaphorical (the heat of psychological crisis):
+Carl Jung understood **Calcination** as the fiery ordeal that initiates the alchemical transformation—the necessary destruction that precedes rebirth.[^1] In *Psychology and Alchemy* (CW 12), he writes of the alchemical fire as both literal (the furnace) and metaphorical (the heat of psychological crisis):
 
 > "The heat of the fire has a spiritualizing effect... It is the hidden fire, the *ignis noster*, that transforms the base matter into the lapis. This fire is not an ordinary fire but a spiritual fire, the fire of passion, of suffering, of divine frenzy."
 > — C.G. Jung, *Psychology and Alchemy* (CW 12, par. 334)
@@ -578,6 +578,11 @@ Calcination is the fire that makes the darkness conscious. It is disagreeable. I
 
 *"What the caterpillar calls the end of the world, the master calls a butterfly."*
 — Richard Bach (modern proverb echoing alchemical wisdom)
+
+---
+
+
+[^1]: Edward F. Edinger, *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy* (Open Court, 1985) — Calcination as burning away ego structures through fire.
 
 ---
 

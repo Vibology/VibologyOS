@@ -19,7 +19,7 @@ collective_unconscious: Universal pattern of loving the rejected to reveal the d
 ## Overview
 ### Core Symbolism
 
-The **Transformation and Animal Bride/Groom** motif is among the most psychologically profound patterns in world folklore. At its heart lies a paradox that defines the human condition: **the loathly, rejected, or monstrous contains the prince or princess**—the divine spirit is hidden within what consciousness finds repugnant, terrifying, or unacceptable.
+The **Transformation and Animal Bride/Groom** motif is among the most psychologically profound patterns in world folklore.[^1] At its heart lies a paradox that defines the human condition: **the loathly, rejected, or monstrous contains the prince or princess**—the divine spirit is hidden within what consciousness finds repugnant, terrifying, or unacceptable.
 
 This is not metaphor. It is **structural law** of the psyche.
 
@@ -1527,6 +1527,11 @@ The beast is the prince.
 The soul cannot be possessed—only loved.
 
 **To integrate this motif is to become whole.**
+
+---
+
+
+[^1]: Grimm Brothers, *The Complete Fairy Tales* and Marie-Louise von Franz, *The Interpretation of Fairy Tales* (Shambhala, 1970) — Jungian analysis of archetypal patterns in fairy tales.
 
 ---
 

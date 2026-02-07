@@ -30,7 +30,7 @@ psychological_function: Ego death, shadow integration, putrefaction, descent
 ## Overview
 ### Jungian Definition
 
-The **Nigredo** is Jung's most frequently cited alchemical stage, representing the initial descent into the unconscious—the confrontation with the Shadow and the death of the ego's inflated structures. In *Psychology and Alchemy* (CW 12), Jung identifies the Nigredo as the essential starting point of all psychological transformation:
+The **Nigredo** is Jung's most frequently cited alchemical stage, representing the initial descent into the unconscious—the confrontation with the Shadow and the death of the ego's inflated structures.[^1] In *Psychology and Alchemy* (CW 12), Jung identifies the Nigredo as the essential starting point of all psychological transformation:
 
 > "The Nigredo, or blackening, is the initial state, the decomposition of the prima materia (original matter). It represents the chaotic, unconscious condition that must be endured before any transformation can begin. This is the state of *massa confusa* (confused mass), where all distinctions dissolve."
 > — C.G. Jung, *Psychology and Alchemy* (CW 12, par. 334)
@@ -665,6 +665,11 @@ The Nigredo is the making of the darkness conscious. It is painful. It is unavoi
 
 *"In the midst of winter, I found there was, within me, an invincible summer."*
 — Albert Camus (echoing the alchemical promise: after the Nigredo, the Albedo; after the blackness, the light)
+
+---
+
+
+[^1]: C.G. Jung, *Collected Works* Vol. 12: *Psychology and Alchemy* (Princeton University Press, par. 334) — Nigredo as blackening, decomposition of prima materia, psychological death preceding transformation.
 
 ---
 

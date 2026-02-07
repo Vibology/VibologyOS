@@ -17,7 +17,7 @@ themes: [negative-mother-complex, abandonment, cruelty, envy, severance, initiat
 
 ## Overview
 
-The **Wicked Stepmother** is one of fairy tales' most psychologically precise motifs—a figure of cruelty, envy, and rejection who paradoxically functions as the **engine of individuation**. She is not the biological mother but the **replacement mother**, the false caretaker whose hostility **severs the child from the paradisal womb** and forces the perilous journey into consciousness. Where the Good Mother nurtures and holds, the Wicked Stepmother **rejects and expels**—and it is precisely this rejection that catalyzes transformation.
+The **Wicked Stepmother** is one of fairy tales' most psychologically precise motifs—a figure of cruelty, envy, and rejection who paradoxically functions as the **engine of individuation**.[^1] She is not the biological mother but the **replacement mother**, the false caretaker whose hostility **severs the child from the paradisal womb** and forces the perilous journey into consciousness. Where the Good Mother nurtures and holds, the Wicked Stepmother **rejects and expels**—and it is precisely this rejection that catalyzes transformation.
 
 Marie-Louise von Franz and Clarissa Pinkola Estés identify the Wicked Stepmother as the **negative pole of the Great Mother archetype**: the mother who does not support development but **sabotages** it, the voice that shames rather than encourages, the force that wants to keep the ego unconscious or destroy its emerging vitality. She is the **Shadow Mother**—the internalized critic who undermines creative efforts, the "too-good" mother who suddenly turns hostile when the child begins to individuate, the envious feminine who cannot tolerate another's blossoming.
 
@@ -863,6 +863,11 @@ She was never the queen.
 *"The Wicked Stepmother is not the villain of the story. She is the story's engine. Without her cruelty, no transformation. Without her rejection, no journey. She is the necessary antagonist whose very hostility forces the soul to claim its throne."*
 
 — Synthesis, The Wicked Stepmother as alchemical Separatio
+
+---
+
+
+[^1]: Grimm Brothers, *The Complete Fairy Tales* and Marie-Louise von Franz, *The Interpretation of Fairy Tales* (Shambhala, 1970) — Jungian analysis of archetypal patterns in fairy tales.
 
 ---
 

@@ -30,7 +30,7 @@ psychological_function: Wisdom, ripening, spiritualization, philosophical outloo
 ## Overview
 ### Jungian Definition
 
-The **Citrinitas** is Jung's most overlooked alchemical stage, yet he emphasized its critical importance as the transition from lunar (unconscious) to solar (conscious) wisdom. In *Psychology and Alchemy* (CW 12), Jung identifies Citrinitas as the stage where the **Wise Old Man or Wise Old Woman archetype** emerges from the depths:
+The **Citrinitas** is Jung's most overlooked alchemical stage, yet he emphasized its critical importance as the transition from lunar (unconscious) to solar (conscious) wisdom.[^1] In *Psychology and Alchemy* (CW 12), Jung identifies Citrinitas as the stage where the **Wise Old Man or Wise Old Woman archetype** emerges from the depths:
 
 > "Citrinitas is the stage of 'yellowing' or 'dawning'—the first appearance of the sun after the darkness of Nigredo and the moonlight of Albedo. It represents the spiritualization of matter, the moment when the psyche recognizes its own intrinsic value independent of external validation."
 > — C.G. Jung, *Psychology and Alchemy* (CW 12, par. 334)
@@ -658,6 +658,11 @@ The Citrinitas is the making of the Self conscious. It is the ripening of wisdom
 
 *"The golden flower blooms when the heart opens to its own light—not the light borrowed from others, but the light that has been gestating in the darkness all along."*
 — Taoist Alchemical Teaching (echoing Jung: the gold is *revealed*, not created)
+
+---
+
+
+[^1]: C.G. Jung, *Collected Works* Vol. 12: *Psychology and Alchemy* (Princeton University Press) — Citrinitas as yellowing, solar consciousness emerging.
 
 ---
 

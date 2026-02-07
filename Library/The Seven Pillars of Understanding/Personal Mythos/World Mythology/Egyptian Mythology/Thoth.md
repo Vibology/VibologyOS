@@ -40,7 +40,7 @@ In Jungian terms, Thoth embodies the **transcendent function**—the mediating p
 
 ### The Invention of Writing and the Gift of Extra Days
 
-In primordial time, the year consisted of exactly **360 days** (12 months × 30 days). The sky goddess **Nut** and the earth god **Geb** were lovers, but **Ra**, jealous or threatened by prophecy, forbade Nut to give birth on any day of the year. Nut was pregnant with five divine children but could not deliver them—she was locked in eternal gestation.
+In primordial time, the year consisted of exactly **360 days** (12 months × 30 days).[^1] The sky goddess **Nut** and the earth god **Geb** were lovers, but **Ra**, jealous or threatened by prophecy, forbade Nut to give birth on any day of the year. Nut was pregnant with five divine children but could not deliver them—she was locked in eternal gestation.
 
 Thoth, the wisest of gods, devised a plan. He challenged **Khonsu**, the moon god, to a game of *senet* (an ancient Egyptian board game similar to chess). Thoth wagered that he could win a fraction of the moon's light. Game after game, Thoth won, accumulating enough lunar light to create **five extra days**—the *epagomenal days* (Greek: *epagomenai*, "added on")—which existed outside the 360-day solar year.
 
@@ -325,6 +325,11 @@ When facing a deadlock between two positions (inner or outer conflict):
 - *Emerald Tablet* ("As above, so below"—Hermetic axiom attributed to Thoth-Hermes)
 - *Book of Thoth* (mythical Tarot origin—Etteilla, Lévi, Crowley claims)
 - **Alchemy** (Hermetic art—transmutation as spiritual and material process)
+
+---
+
+
+[^1]: Egyptian sources and *Hermetica* — Thoth as god of wisdom, writing, and magic.
 
 ---
 

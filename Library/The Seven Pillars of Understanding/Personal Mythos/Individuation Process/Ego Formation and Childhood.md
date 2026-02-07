@@ -22,7 +22,7 @@ psychological_task: Differentiation of subject from object
 ## Overview
 ### Jung's Theory of Childhood Consciousness
 
-In *The Structure and Dynamics of the Psyche* (CW 8), Jung establishes that **consciousness is not innate but arises from the unconscious** as a secondary phenomenon. He writes:
+In *The Structure and Dynamics of the Psyche* (CW 8), Jung establishes that **consciousness is not innate but arises from the unconscious** as a secondary phenomenon.[^1] He writes:
 
 > "Consciousness is phylogenetically and ontogenetically a secondary phenomenon. It is time this obvious fact were grasped at last... Consciousness began its evolution from an animal-like state which seems to us unconscious, and the same process of differentiation is repeated in every child." (CW 8, ¶342)
 
@@ -325,6 +325,11 @@ A **coherent Ego** capable of observing the world without being overwhelmed by i
 *"The participation mystique, that is, the primitive unconscious identity of the child with its parents, causes the child to feel the conflicts of the parents, and to suffer from them as if they were its own troubles."*
 
 — C.G. Jung, *The Development of Personality* (CW 17, ¶84)
+
+---
+
+
+[^1]: Primary sources listed in References section.
 
 ---
 

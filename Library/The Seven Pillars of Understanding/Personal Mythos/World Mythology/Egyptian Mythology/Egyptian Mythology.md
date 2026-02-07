@@ -17,7 +17,7 @@ core_theme: Resurrection and cosmic order
 
 ## Overview
 
-Egyptian mythology represents the archetypal drama of **death and resurrection**—the eternal cycle of dissolution and reconstitution, the soul's journey through the darkness of the Duat to emerge transformed at dawn. Where Greek myth maps the Ego's differentiation from the unconscious, Egyptian myth maps the **Self's continuity beyond death**—the recognition that consciousness is indestructible, that what appears as ending is transformation.
+Egyptian mythology represents the archetypal drama of **death and resurrection**—the eternal cycle of dissolution and reconstitution, the soul's journey through the darkness of the Duat to emerge transformed at dawn.[^1] Where Greek myth maps the Ego's differentiation from the unconscious, Egyptian myth maps the **Self's continuity beyond death**—the recognition that consciousness is indestructible, that what appears as ending is transformation.
 
 The Egyptian pantheon functions as a **psycho-cosmological system**: Ra as the solar Self making its daily journey through the underworld, Osiris as the dying-and-rising god of vegetation and resurrection, Isis as the Great Mother whose magic restores life, Horus as the Divine Child avenging his father and claiming sovereignty, Set as the necessary Shadow whose violence both destroys and protects, Thoth as the Logos recording truth, Anubis as the psychopomp guiding souls through transformation.
 
@@ -1104,6 +1104,11 @@ Death is transformation, not annihilation. The Self (Ra, Osiris, Akh) is indestr
 *"The dead man is Osiris, and Osiris is the grain which is sown in the earth and which sprouts forth again after death. He is the eternal renewal of life, the principle of fertility which is destroyed and yet is never destroyed."*
 
 — C.G. Jung, *Symbols of Transformation*
+
+
+[^1]: Egyptian mythological texts and Plutarch, *Isis and Osiris*.
+
+---
 
 ## Sources
 **Jungian Analytical Psychology:**

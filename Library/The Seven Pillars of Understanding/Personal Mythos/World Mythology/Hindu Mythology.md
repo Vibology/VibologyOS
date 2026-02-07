@@ -18,7 +18,7 @@ core_theme: The play of consciousness and liberation
 
 ## Overview
 
-Hindu mythology represents the archetypal drama of **consciousness playing with itself**—the eternal dance of Maya (cosmic illusion) and Lila (divine play), the cyclical manifestation and dissolution of worlds, and the soul's journey from ignorance to liberation. The gods are not separate entities but **expressions of a single underlying reality** (Brahman)—personified aspects of the psyche's infinite creative potential.
+Hindu mythology represents the archetypal drama of **consciousness playing with itself**—the eternal dance of Maya (cosmic illusion) and Lila (divine play), the cyclical manifestation and dissolution of worlds, and the soul's journey from ignorance to liberation.[^1] The gods are not separate entities but **expressions of a single underlying reality** (Brahman)—personified aspects of the psyche's infinite creative potential.
 
 Jung recognized Hindu mythology as perhaps the most psychologically sophisticated religious system in human history: "The Indian believes that the Self is the only real, eternal thing, and that the Ego is Maya, illusion." Where Western myth dramatizes the Ego's emergence from the unconscious (Greece) or its redemption through grace (Christianity), Hindu myth begins with the premise that the Ego *itself* is the problem—the fundamental misidentification of consciousness with limited form.
 
@@ -1045,6 +1045,11 @@ This is controversial but psychologically valid: individuation in the West requi
 *"The Self cannot be found by going forward or backward. It is not 'out there' or 'in here'—it is the ground upon which both stand."*
 
 — Upanishadic teaching, adapted
+
+
+[^1]: Primary sources listed in References section.
+
+---
 
 ## Sources
 **Jungian Analytical Psychology:**

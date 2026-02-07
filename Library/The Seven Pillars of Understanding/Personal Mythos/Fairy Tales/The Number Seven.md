@@ -40,7 +40,7 @@ Von Franz writes: *"Seven represents the process of evolution, while eight repre
 
 ### Seven as the Number of Time and Evolution
 
-Seven is the **temporal number**, the measure of **becoming** rather than being. Unlike three (synthesis, completion in the moment) or four (grounded stability, spatial wholeness), seven unfolds **across time**, requiring patience, endurance, and faith that the process will complete.
+Seven is the **temporal number**, the measure of **becoming** rather than being.[^1] Unlike three (synthesis, completion in the moment) or four (grounded stability, spatial wholeness), seven unfolds **across time**, requiring patience, endurance, and faith that the process will complete.
 
 **The seven-day week** (found across Near Eastern, Abrahamic, and Indo-European cultures) reflects the **rhythm of creation**: six days of labor, one day of rest. The Sabbath (seventh day) is not mere cessation but **sacred pause**, the integration point where the work of the six is metabolized and sanctified. Seven is rest-in-motion, the stillness at the center of the cycle that allows the next cycle to begin.
 
@@ -594,6 +594,11 @@ Seven Chakras • Kundalini • The Seven Heavens • [[Buddhist Cosmology]] •
 
 **Numerical Symbolism:**
 The Number Three • The Number Four • The Number Eight • The Number Twelve • The Ogdoad • The Quaternary • Sacred Geometry
+
+---
+
+
+[^1]: Grimm Brothers, *The Complete Fairy Tales* and Marie-Louise von Franz, *The Interpretation of Fairy Tales* (Shambhala, 1970) — Jungian analysis of archetypal patterns in fairy tales.
 
 ---
 

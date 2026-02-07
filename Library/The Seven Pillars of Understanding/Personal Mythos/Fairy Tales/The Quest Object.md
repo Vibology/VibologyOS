@@ -39,7 +39,7 @@ The **golden ball** (from [[Frog Prince]]) is the archetypal Quest Object of **c
 - **Plaything** – The innocent joy of childhood before the shadow intrudes
 - **Lost into the well** – The descent of psychic energy into the unconscious (puberty, trauma, loss of innocence)
 
-The golden ball represents the **ego's original wholeness** that is inevitably lost—childhood ends, innocence is shattered, the self-as-center descends into the depths. The quest is to **retrieve it**, but it cannot be reclaimed without cost. The [[Frog Prince|Frog]] (instinct, shadow, sexuality) must be integrated; the ball comes back, but the Princess is no longer alone—she must share her treasure with the unconscious.
+The golden ball represents the **ego's original wholeness** that is inevitably lost—childhood ends, innocence is shattered, the self-as-center descends into the depths.[^1] The quest is to **retrieve it**, but it cannot be reclaimed without cost. The [[Frog Prince|Frog]] (instinct, shadow, sexuality) must be integrated; the ball comes back, but the Princess is no longer alone—she must share her treasure with the unconscious.
 
 Psychologically: **You cannot return to childhood's golden perfection, but you can retrieve the energy (libido) locked in the unconscious by integrating what you rejected.**
 
@@ -674,6 +674,11 @@ The treasure is **what you are missing**—the value, the meaning, the piece of 
 *The ball has fallen into the well. The Frog has appeared with the offer. Will you make the bargain? Will you confront the dragon? Will you ask the question that heals?*
 
 *The treasure is waiting. The quest is calling.*
+
+---
+
+
+[^1]: Grimm Brothers, *The Complete Fairy Tales* and Marie-Louise von Franz, *The Interpretation of Fairy Tales* (Shambhala, 1970) — Jungian analysis of archetypal patterns in fairy tales.
 
 ---
 

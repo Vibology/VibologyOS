@@ -26,7 +26,7 @@ The tale's alchemical structure follows the **Coniunctio**, the Sacred Marriage 
 
 ## Plot Summary
 
-A wealthy merchant falls into poverty. Hearing that one of his ships has returned, he travels to reclaim his fortune, asking his three daughters what gifts they desire. The elder two request jewels and gowns; **Beauty** (often named Belle) asks only for a rose. The merchant's journey proves fruitless—his wealth is lost. Returning home through a winter storm, he stumbles upon an enchanted castle where invisible servants provide food and shelter. In the morning, he plucks a rose from the garden for Beauty.
+A wealthy merchant falls into poverty.[^1] Hearing that one of his ships has returned, he travels to reclaim his fortune, asking his three daughters what gifts they desire. The elder two request jewels and gowns; **Beauty** (often named Belle) asks only for a rose. The merchant's journey proves fruitless—his wealth is lost. Returning home through a winter storm, he stumbles upon an enchanted castle where invisible servants provide food and shelter. In the morning, he plucks a rose from the garden for Beauty.
 
 The **Beast** appears, enraged: "I have given you hospitality, and you repay me by stealing what I love most." The merchant begs for his life, explaining the rose was for his daughter. The Beast offers a terrible bargain: the merchant may go free if one of his daughters comes willingly to live in the castle. If none will come, the merchant must return to die.
 
@@ -349,6 +349,11 @@ The Animal Bridegroom • The Enchanted Castle • The Curse and Redemption • 
 
 #### Related Tales
 [[Snow White]] • Sleeping Beauty • The Handless Maiden • The Juniper Tree • Allerleirauh
+
+---
+
+
+[^1]: Grimm Brothers, *The Complete Fairy Tales* and Marie-Louise von Franz, *The Interpretation of Fairy Tales* (Shambhala, 1970) — Jungian analysis of archetypal patterns in fairy tales.
 
 ---
 

@@ -53,7 +53,7 @@ His shadow is **deceit, manipulation, and the amorality of pure cleverness**. He
 
 ### The Birth and the First Day: Infant Trickster
 
-Hermes was born in a cave on **Mount Cyllene** in Arcadia to **Maia**, one of the Pleiades (daughters of Atlas), and [[Zeus]]. The **Homeric Hymn to Hermes** describes his miraculous first day:
+Hermes was born in a cave on **Mount Cyllene** in Arcadia to **Maia**, one of the Pleiades (daughters of Atlas), and [[Zeus]].[^1] The **Homeric Hymn to Hermes** describes his miraculous first day:
 
 > *"Born at dawn, by midday he was playing the lyre, and by evening he had stolen the cattle of far-shooting Apollo."*
 
@@ -382,6 +382,11 @@ Astrologically, Hermes corresponds to **[[Mercury ☿]]**—planet of communicat
 - **Anubis** (Egyptian) — Psychopomp, guide of souls, guardian of thresholds
 - **Eshu/Elegba** (Yoruba) — Guardian of crossroads, trickster, messenger between humans and orishas
 - **Coyote, Raven, Anansi, Monkey King** — Trickster archetypes across cultures
+
+---
+
+
+[^1]: Homeric *Hymn to Hermes* — Hermes as trickster, messenger, guide of souls.
 
 ---
 

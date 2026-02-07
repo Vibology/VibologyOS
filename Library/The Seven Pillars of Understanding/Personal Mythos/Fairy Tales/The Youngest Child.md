@@ -30,7 +30,7 @@ The motif addresses the psychological necessity of **valuing one's own "foolishn
 
 ### The Number Three and the Youngest
 
-The motif typically involves **three siblings**—most often **three brothers**, though the pattern appears with sisters or mixed-gender configurations. The number **three** is archetypal:
+The motif typically involves **three siblings**—most often **three brothers**, though the pattern appears with sisters or mixed-gender configurations.[^1] The number **three** is archetypal:
 
 - **Thesis, Antithesis, Synthesis** (Hegelian triad)
 - **Conscious, Personal Unconscious, Collective Unconscious** (Jungian topography)
@@ -676,6 +676,11 @@ Von Franz's final word (from *Shadow and Evil in Fairy Tales*, p. 50):
 The Youngest Child does not conquer the unconscious. He **bows to it, serves it, receives from it**. And in that surrender, he becomes king.
 
 This is the [[Integration and Wholeness|path of individuation]]: not the triumph of the ego but the **coronation of the fool**—the despised made sacred, the last made first, the stone the builders rejected becoming the cornerstone of the psyche's wholeness.
+
+---
+
+
+[^1]: Grimm Brothers, *The Complete Fairy Tales* and Marie-Louise von Franz, *The Interpretation of Fairy Tales* (Shambhala, 1970) — Jungian analysis of archetypal patterns in fairy tales.
 
 ---
 

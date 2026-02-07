@@ -24,7 +24,7 @@ Individuation is not self-improvement or ego-inflation. It is the ego's **relati
 
 ## The Six Stages
 
-The individuation process unfolds through six developmental stages, each associated with specific psychological tasks and archetypal encounters. These stages are not strictly linear—one may revisit earlier stages throughout life—but they represent a general progression from unconscious unity to conscious wholeness.
+The individuation process unfolds through six developmental stages, each associated with specific psychological tasks and archetypal encounters.[^1] These stages are not strictly linear—one may revisit earlier stages throughout life—but they represent a general progression from unconscious unity to conscious wholeness.
 
 The first two stages are **pre-opus**: necessary ego development that must occur before the alchemical work proper can begin. The *opus* itself — the conscious encounter with the unconscious — unfolds through stages 3–6, mapped to the four [[Alchemical Stages|alchemical colors]].
 
@@ -123,6 +123,11 @@ The **four colors** (*colores*) are Jung's primary alchemical model (CW 12, CW 1
 - Active Imagination — Jung's technique for conscious-unconscious dialogue
 - [[Pathworking]] — Tarot's equivalent of inner journey work
 - [[The Fool's Journey]] — Tarot's archetypal individuation narrative
+
+
+[^1]: C.G. Jung, *Collected Works* Vol. 7: *Two Essays on Analytical Psychology* (Princeton University Press) — Individuation as the process of psychological integration and self-realization.
+
+---
 
 ## Sources
 

@@ -38,7 +38,7 @@ In Jungian terms, Isis embodies [[The Great Mother]] in her fullness—the life-
 
 ### The Murder and Resurrection of Osiris
 
-After Osiris civilized Egypt, teaching agriculture and law, his jealous brother **Set** (god of chaos, desert, and violence) conspired to murder him. Set fashioned a beautiful coffer (sarcophagus) precisely fitted to Osiris's measurements and held a feast, announcing that whoever fit perfectly inside the chest would receive it as a gift. When Osiris lay down inside, Set and his accomplices slammed the lid shut, sealed it, and cast it into the Nile.
+After Osiris civilized Egypt, teaching agriculture and law, his jealous brother **Set** (god of chaos, desert, and violence) conspired to murder him.[^1] Set fashioned a beautiful coffer (sarcophagus) precisely fitted to Osiris's measurements and held a feast, announcing that whoever fit perfectly inside the chest would receive it as a gift. When Osiris lay down inside, Set and his accomplices slammed the lid shut, sealed it, and cast it into the Nile.
 
 The coffer floated downstream and across the Mediterranean to **Byblos** (Phoenicia), where it washed ashore. A tamarisk tree grew around the chest, enclosing it completely within its trunk. The king of Byblos, marveling at the tree's rapid growth, cut it down and used it as a pillar to support his palace—unknowingly enshrining Osiris's corpse within.
 
@@ -256,6 +256,11 @@ When someone you love is "dismembered" by life (addiction, trauma, fragmentation
 - **[[Human Design]]:** [[Gate 27 - Nourishment]] (Nourishing—caring for the tribe), [[Gate 50 - The Cauldron]] (The Cauldron—values and rules that protect), [[Solar Plexus]] (the ocean of feeling, the mother's emotional body)
 - **[[Angelology]]:** [[Gabriel]] (announcement, lunar mysteries, protection), [[Gabriel|Lunar Archangel]] (emotional/psychic realm)
 - **Mystery Traditions:** Eleusinian Mysteries (Demeter-Persephone parallel), Isiac Mysteries (Apuleius's *The Golden Ass*), Hermetic tradition (Isis-Sophia-Mary lineage)
+
+---
+
+
+[^1]: Plutarch, *Isis and Osiris* (c. 100 CE) — Isis as great mother goddess and magician.
 
 ---
 

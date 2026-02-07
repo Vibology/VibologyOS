@@ -29,7 +29,7 @@ psychological_function: Death and resurrection, inspiration, transcendent functi
 ## Overview
 ### Jungian Definition
 
-Carl Jung understood **Fermentation** as the paradoxical operation in which death becomes the womb of new life—where the hard-won integration achieved in [[Conjunction]] must "die" to be spiritually resurrected. In *Psychology and Alchemy* (CW 12), Jung describes this stage as the point where the ego realizes it is not the master:
+Carl Jung understood **Fermentation** as the paradoxical operation in which death becomes the womb of new life—where the hard-won integration achieved in [[Conjunction]] must "die" to be spiritually resurrected.[^1] In *Psychology and Alchemy* (CW 12), Jung describes this stage as the point where the ego realizes it is not the master:
 
 > "The unconscious is a process, and the psyche is transformed or developed by the relationship of the ego to the contents of the unconscious."
 > — C.G. Jung, *Memories, Dreams, Reflections*
@@ -641,6 +641,11 @@ Fermentation is dangerous. The unconscious, stirred, can overwhelm the ego (psyc
 
 *"Unless a grain of wheat falls into the earth and dies, it remains just a single grain; but if it dies, it bears much fruit."*
 — John 12:24 (The Gospel formula for Fermentation)
+
+---
+
+
+[^1]: Edward F. Edinger, *Anatomy of the Psyche* (Open Court, 1985) — Fermentation as spiritual inspiration following putrefaction.
 
 ---
 

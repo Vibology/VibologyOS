@@ -29,7 +29,7 @@ psychological_function: Release of emotion, dissolution of rigid structures
 ## Overview
 ### Jungian Definition
 
-Carl Jung understood **Dissolution** as the necessary descent into the waters of the unconscious—the regression that follows the fire of [[Calcination]]. Where fire burns away the [[The Persona]], water dissolves what remains. In *Psychology and Alchemy* (CW 12), Jung writes of the alchemical waters as both womb and tomb:
+Carl Jung understood **Dissolution** as the necessary descent into the waters of the unconscious—the regression that follows the fire of [[Calcination]].[^1] Where fire burns away the [[The Persona]], water dissolves what remains. In *Psychology and Alchemy* (CW 12), Jung writes of the alchemical waters as both womb and tomb:
 
 > "Water is the commonest symbol for the unconscious... The lake in the valley is the unconscious, which lies, as it were, underneath consciousness, so that it is often referred to as the 'subconscious,' usually with the pejorative connotation of an inferior consciousness."
 > — C.G. Jung, *Psychology and Alchemy* (CW 12, par. 21)
@@ -642,6 +642,11 @@ Dissolution *is* making the darkness conscious. The waters are dark, cold, terri
 
 *"The cure for anything is salt water: sweat, tears, or the sea."*
 — Isak Dinesen
+
+---
+
+
+[^1]: Edward F. Edinger, *Anatomy of the Psyche* (Open Court, 1985) — Dissolution as softening rigid structures through water.
 
 ---
 

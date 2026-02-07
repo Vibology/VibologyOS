@@ -15,7 +15,7 @@ grimoire_source: "Jung CW 12, CW 14; Edinger Anatomy of the Psyche; von Franz Al
 
 The alchemical tradition describes transformation through two distinct but interlocking classification systems:
 
-**The Four Colors (*Colores*)** describe what happens to the matter — the observable phenomenology of transformation. These are the macro stages of the *opus*, the chapters of the work. Jung adopted this framework directly (CW 12, CW 14), and it forms his primary alchemical model for [[Individuation Process|individuation]].
+**The Four Colors (*Colores*)** describe what happens to the matter — the observable phenomenology of transformation.[^1] These are the macro stages of the *opus*, the chapters of the work. Jung adopted this framework directly (CW 12, CW 14), and it forms his primary alchemical model for [[Individuation Process|individuation]].
 
 **The Seven Operations (*Operationes*)** describe what the alchemist does to the matter — the procedural techniques applied at each stage. Jung referenced individual operations throughout his work (*calcinatio*, *solutio*, *coagulatio*) but never systematized them into a single sequence. The seven-operation model was codified by later scholars, particularly Edward Edinger (*Anatomy of the Psyche*) and Dennis William Hauck (*The Emerald Tablet*).
 
@@ -91,6 +91,11 @@ The nesting map above (which operations belong to which color) is a **Vibology s
 - [[Individuation Process]] — The psychological process that alchemy symbolically encodes
 - [[The Fool's Journey]] — Tarot's parallel narrative of archetypal transformation
 - [[The Alchemist]] — Window archetype embodying individuated wholeness
+
+
+[^1]: C.G. Jung, *Collected Works* Vol. 12: *Psychology and Alchemy* (Princeton University Press) — Alchemical transformation stages.
+
+---
 
 ## Sources
 

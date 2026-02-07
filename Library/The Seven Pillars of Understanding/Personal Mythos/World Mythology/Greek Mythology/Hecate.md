@@ -50,7 +50,7 @@ Her sacred symbols:
 
 ### Hecate and the Search for Persephone
 
-In the *Homeric Hymn to Demeter*, Hecate plays a critical role: she is one of only two deities who heard [[Persephone]]'s cries when [[Hades]] abducted her. She comes to [[Demeter]] carrying **twin torches** and tells her: "I heard the cry, but I did not see who took her." She then accompanies Demeter to **Helios**, who reveals the truth. After Persephone's return, Hecate becomes her **constant companion** — her attendant and guide in the transition between the upper and lower worlds.
+In the *Homeric Hymn to Demeter*, Hecate plays a critical role: she is one of only two deities who heard [[Persephone]]'s cries when [[Hades]] abducted her.[^1] She comes to [[Demeter]] carrying **twin torches** and tells her: "I heard the cry, but I did not see who took her." She then accompanies Demeter to **Helios**, who reveals the truth. After Persephone's return, Hecate becomes her **constant companion** — her attendant and guide in the transition between the upper and lower worlds.
 
 **Archetypal reading:** Hecate is the **witness to the descent** — she hears the cry but does not intervene, because the descent must happen. Her role is not to prevent the katabasis but to **accompany the one who undergoes it**, bearing light into darkness. She becomes Persephone's companion precisely because she is the goddess of transitions: she can navigate between worlds, holding presence at the threshold where others fear to stand. This is the role of the **psychopomp** — not the rescuer but the guide.
 
@@ -152,6 +152,11 @@ The Hecate archetype is active when you:
 - **Angelology:** Liminal figures between orders; the threshold guardians
 - **Alchemical Stages:** [[Nigredo]] (the dark phase where Hecate's torches illuminate the prima materia)
 - **Comparative Mythology:** [[Isis]] (magical power), Ereshkigal (Sumerian underworld queen), Kali (Hindu dark mother), Cerridwen (Celtic cauldron keeper)
+
+---
+
+
+[^1]: Classical Greek sources (Hesiod, Homer, Homeric Hymns) and mythological encyclopedias.
 
 ---
 

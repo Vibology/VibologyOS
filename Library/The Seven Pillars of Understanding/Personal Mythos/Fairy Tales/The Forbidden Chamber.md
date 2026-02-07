@@ -17,7 +17,7 @@ primary_source: Bluebeard (Perrault, 1697)
 
 ## Overview
 
-The **Forbidden Chamber** is one of the most psychologically potent motifs in fairy tale literature, encoding the archetypal moment when naïve consciousness confronts the predatory shadow it has been forbidden to see. The motif appears most powerfully in **[[Bluebeard]]**, where a young wife discovers the dismembered corpses of her husband's previous wives in a locked room she was commanded never to enter. The chamber represents **the darkest corner of the psyche where the carnage of the soul is hidden**—the place where creative potential goes to die when consciousness refuses to look.
+The **Forbidden Chamber** is one of the most psychologically potent motifs in fairy tale literature, encoding the archetypal moment when naïve consciousness confronts the predatory shadow it has been forbidden to see.[^1] The motif appears most powerfully in **[[Bluebeard]]**, where a young wife discovers the dismembered corpses of her husband's previous wives in a locked room she was commanded never to enter. The chamber represents **the darkest corner of the psyche where the carnage of the soul is hidden**—the place where creative potential goes to die when consciousness refuses to look.
 
 This is not the redeemable shadow of unlived potential, the territory of [[Beauty and the Beast]] where love transforms the beast. This is **unredeemable evil**—the [[The Idol|Animus]] as murderer, the voice that kills rather than guides, the force that works **contra naturam** (against nature). The Forbidden Chamber is the psychic basement where dreams rot, where vitality is butchered, where the self bleeds energy into relationships, beliefs, or patterns that devour rather than nourish.
 
@@ -930,6 +930,11 @@ This is the mark of mature consciousness—living not in denial or naivety, but 
 - Jung, C.G. *Mysterium Coniunctionis* (CW 14)
 - Jung, C.G. *Two Essays on Analytical Psychology* (CW 7)
 - Jung, C.G. *Answer to Job* (CW 11)
+
+
+[^1]: Grimm Brothers, *The Complete Fairy Tales* and Marie-Louise von Franz, *The Interpretation of Fairy Tales* (Shambhala, 1970) — Jungian analysis of archetypal patterns in fairy tales.
+
+---
 
 ## Sources
 ### Primary Texts

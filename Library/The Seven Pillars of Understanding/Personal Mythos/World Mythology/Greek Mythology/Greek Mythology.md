@@ -17,7 +17,7 @@ core_theme: Architecture of the Ego, differentiation from unconscious
 
 ## Overview
 
-Greek mythology represents the archetypal drama of **consciousness emerging from the unconscious**—the slow, painful differentiation of the Ego from the Great Mother and the establishment of a relationship with the Self. The Olympians are not mere gods but psychic functions: Zeus as sovereign spirit, Apollo as solar consciousness, Dionysus as ecstatic shadow, Athena as strategic wisdom, Hermes as the boundary-crosser between worlds.
+Greek mythology represents the archetypal drama of **consciousness emerging from the unconscious**—the slow, painful differentiation of the Ego from the Great Mother and the establishment of a relationship with the Self.[^1] The Olympians are not mere gods but psychic functions: Zeus as sovereign spirit, Apollo as solar consciousness, Dionysus as ecstatic shadow, Athena as strategic wisdom, Hermes as the boundary-crosser between worlds.
 
 Jung recognized the Greek pantheon as a "projection of the contents of the collective unconscious onto the heavens." The myths are symbolic narratives of the psyche's structure and dynamics—ego inflation (hubris), compensatory fate (nemesis), descent into the unconscious (katabasis), and the sacred marriage of opposites (hieros gamos).
 
@@ -679,6 +679,11 @@ The Eleusinian grain = the Philosopher's Stone—the simple, eternal truth revea
 *"The gods have become diseases; Zeus no longer rules Olympus but rather the solar plexus, and produces curious specimens for the doctor's consulting room."*
 
 — C.G. Jung, *Commentary on "The Secret of the Golden Flower"*
+
+
+[^1]: Classical Greek sources (Hesiod, Homer, Homeric Hymns) and mythological encyclopedias.
+
+---
 
 ## Sources
 **Jungian Analytical Psychology:**

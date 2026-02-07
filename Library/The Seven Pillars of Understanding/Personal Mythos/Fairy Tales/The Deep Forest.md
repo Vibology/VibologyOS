@@ -40,7 +40,7 @@ The forest is the **geographical projection of the unconscious**—vast, dark, l
 - **Non-human intelligence** – Trees, animals, spirits operate according to laws older than human consciousness
 - **Time becomes circular** – Not the linear time of civilization (clock, calendar, progress) but the **cyclic time of nature** (seasons, tides, moons)
 
-**Von Franz:** *"The forest is the place where the light of consciousness does not reach. It is the realm of the unknown, the unintegrated, the yet-to-be-born. One enters the forest when the conscious attitude has failed."*
+**Von Franz:** *"The forest is the place where the light of consciousness does not reach.[^1] It is the realm of the unknown, the unintegrated, the yet-to-be-born. One enters the forest when the conscious attitude has failed."*
 
 ### Getting Lost – The Dissolution of Orientation
 
@@ -638,6 +638,11 @@ Uroboros • Prima Materia • Temenos • Dark Night of the Soul • Via Negati
 ---
 
 *The forest is the great teacher. Enter often. Return transformed.*
+
+---
+
+
+[^1]: Grimm Brothers, *The Complete Fairy Tales* and Marie-Louise von Franz, *The Interpretation of Fairy Tales* (Shambhala, 1970) — Jungian analysis of archetypal patterns in fairy tales.
 
 ---
 

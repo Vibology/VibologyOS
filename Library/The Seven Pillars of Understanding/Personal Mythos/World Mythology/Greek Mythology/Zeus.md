@@ -51,7 +51,7 @@ This hidden childhood encodes a critical archetypal pattern: **the future king m
 
 ### The Titanomachy: Overthrowing the Father
 
-When Zeus reached manhood, he received aid from **Metis** (Wisdom), who gave Kronos an emetic potion. Kronos vomited up the stone (which was later set up at Delphi as a sacred marker) and then, in reverse order, all five of Zeus's siblings: Poseidon, Hades, Hera, Demeter, Hestia. They emerged fully grown, having matured within Kronos's belly.
+When Zeus reached manhood, he received aid from **Metis** (Wisdom), who gave Kronos an emetic potion.[^1] Kronos vomited up the stone (which was later set up at Delphi as a sacred marker) and then, in reverse order, all five of Zeus's siblings: Poseidon, Hades, Hera, Demeter, Hestia. They emerged fully grown, having matured within Kronos's belly.
 
 Zeus rallied his siblings and declared war on the Titans. The **Titanomachy** lasted ten years, with neither side gaining decisive advantage. The turning point came when Zeus descended to **Tartarus** (the deepest abyss beneath the underworld) and freed the **Cyclopes** and the **Hecatoncheires** ("Hundred-Handed Ones")—primordial beings whom Ouranos had imprisoned and whom Kronos had kept chained.
 
@@ -422,6 +422,11 @@ Astrologically, Zeus corresponds to **[[Jupiter ♃]]**, the Greater Benefic:
 - **Indra** (Hindu) — Thunderbolt-wielding king of gods, slayer of the serpent Vritra
 - **Thor** (Norse) — Thunder god, protector of humanity and cosmic order
 - **Perun** (Slavic) — Thunder god, oak tree sacred animal
+
+---
+
+
+[^1]: Hesiod, *Theogony* (c. 700 BCE) and Homer, *Iliad* and *Odyssey* — Classical sources for Zeus as sky-father and king of gods.
 
 ---
 

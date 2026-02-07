@@ -35,7 +35,7 @@ Diana's mythological essence lies in her fierce independence, her mastery of ins
 
 ### The Sacred Grove of Nemi: Diana's Mirror
 
-The most famous and archaic cult of Diana was located at **Lake Nemi** in the Alban hills, a sylvan landscape known poetically as *Speculum Dianae* ("Diana's Mirror"). This sanctuary served as a common place of worship for the Latin confederacy long before Rome's dominance, and its ritual practices preserved elements of immemorial antiquity.
+The most famous and archaic cult of Diana was located at **Lake Nemi** in the Alban hills, a sylvan landscape known poetically as *Speculum Dianae* ("Diana's Mirror").[^1] This sanctuary served as a common place of worship for the Latin confederacy long before Rome's dominance, and its ritual practices preserved elements of immemorial antiquity.
 
 #### The Rex Nemorensis: The King of the Wood
 
@@ -261,6 +261,11 @@ Those with prominent Cancer, Sagittarius, Aries, or Scorpio placements may find 
 **[[Angelology]]:**
 - **Gabriel** — Archangel of the Moon, messenger of divine light (resonates with Diana Lucina)
 - **Lunar Intelligence (Yesod)** — Governs cycles, tides, and the transition between celestial influence and earthly manifestation
+
+---
+
+
+[^1]: Classical Greek sources (Hesiod, Homer, Homeric Hymns) and mythological encyclopedias.
 
 ---
 

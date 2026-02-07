@@ -52,7 +52,7 @@ Ares's most famous relationship is his affair with **[[Aphrodite]]** (goddess of
 
 ### The Affair with Aphrodite: Caught in the Golden Net
 
-Ares's most famous myth is his adulterous affair with **[[Aphrodite]]**, goddess of love and beauty, who was married to **Hephaestus** (the lame smith-god). The affair encodes the union of **war and love, violence and beauty, aggression and desire**—the recognition that **eros and aggression are not opposites but companions, even lovers**.
+Ares's most famous myth is his adulterous affair with **[[Aphrodite]]**, goddess of love and beauty, who was married to **Hephaestus** (the lame smith-god).[^1] The affair encodes the union of **war and love, violence and beauty, aggression and desire**—the recognition that **eros and aggression are not opposites but companions, even lovers**.
 
 Hephaestus, suspecting the affair, crafted an **invisible golden net** so fine it could not be seen or broken. He placed it over Aphrodite's bed, and when Ares and Aphrodite lay together, the net sprang shut, trapping them *in flagrante delicto*. Hephaestus summoned all the Olympians to witness the humiliation—**Beauty and War, naked and entwined, exposed to the gods' laughter**.
 
@@ -399,6 +399,11 @@ Astrologically, Ares corresponds to **[[Mars ♂]]**—planet of aggression, ass
 - **Skanda/Kartikeya** (Hindu) — God of war, commander of divine armies, disciplined warrior (not chaotic like Ares)
 - **Sekhmet** (Egyptian) — Lioness goddess of war, rage, bloodlust (feminine Ares energy)
 - **Morrigan** (Celtic) — Goddess of war, death, sovereignty, often appears as crow on battlefield
+
+---
+
+
+[^1]: Classical Greek sources (Hesiod, Homer, Homeric Hymns) and mythological encyclopedias.
 
 ---
 

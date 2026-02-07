@@ -16,7 +16,7 @@ category: Jungian Concept
 
 ## What the Unus Mundus Is
 
-The **Unus Mundus** (Latin: "One World") is Jung's term for the hypothetical **unified reality underlying both psyche and matter** — the common ground from which consciousness and the physical world both emerge, and to which they both ultimately belong. It is the deepest concept in Jungian psychology, representing the point where depth psychology, physics, and mystical philosophy converge on a single insight: **mind and matter are not separate substances but two aspects of one underlying reality**.
+The **Unus Mundus** (Latin: "One World") is Jung's term for the hypothetical **unified reality underlying both psyche and matter** — the common ground from which consciousness and the physical world both emerge, and to which they both ultimately belong.[^1] It is the deepest concept in Jungian psychology, representing the point where depth psychology, physics, and mystical philosophy converge on a single insight: **mind and matter are not separate substances but two aspects of one underlying reality**.
 
 Jung derived the term from the 16th-century alchemist **Gerhard Dorn** (Gerardus Dorneus), who described the final stage of the alchemical opus as the union of the purified individual with the *unus mundus* — the original, undivided world-ground that existed before the separation into spirit and matter, subject and object:
 
@@ -126,6 +126,11 @@ The unus mundus becomes experientially accessible when you:
 - **The Magdalene Path:** The unio mystica — the soul's marriage with God as the Magdalene tradition's expression of the third coniunctio
 - **Hermeticism:** *"As above, so below; as within, so without"* — the Hermetic axiom as the foundational statement of the unus mundus
 - **I-Ching:** The Tao as the Chinese expression of the unus mundus — the undifferentiated ground from which yin and yang emerge
+
+---
+
+
+[^1]: C.G. Jung, *Collected Works* (Bollingen Series XX, Princeton University Press) — Jungian archetypal psychology.
 
 ---
 

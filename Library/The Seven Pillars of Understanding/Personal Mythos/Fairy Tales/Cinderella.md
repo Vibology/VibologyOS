@@ -28,7 +28,7 @@ The **Russian variant, Vasilisa the Beautiful**, offers the most psychologically
 
 ### Phase 1: Death of the Good Mother
 
-A beloved mother lies dying. She calls her young daughter to her bedside and gives her a **wooden doll**, saying: *"Keep this with you always. When you are in trouble, give the doll food and drink, and ask its counsel. It will help you."* The mother dies, and the child is left with her grieving father and the doll hidden in her pocket.
+A beloved mother lies dying.[^1] She calls her young daughter to her bedside and gives her a **wooden doll**, saying: *"Keep this with you always. When you are in trouble, give the doll food and drink, and ask its counsel. It will help you."* The mother dies, and the child is left with her grieving father and the doll hidden in her pocket.
 
 Time passes. The father remarries—a widow with two daughters of her own. The **stepmother and stepsisters** immediately turn on the girl, heaping upon her every degrading task: hauling water, tending fires, scrubbing floors, cooking meals. They mock her, dress her in rags, and force her to sleep by the **hearth in the ashes**. She becomes "Cinderella" (from *cinder*), the ash-girl, the one covered in soot and grime. Her **father**, though present, is psychically absent—unable or unwilling to intervene.
 
@@ -617,6 +617,11 @@ The Dead Mother • The Helpful Animal • The Impossible Task • The Magic Obj
 
 **I-Ching / The Window:**
 Hexagram 5 - Waiting • Hexagram 29 - The Abysmal • Hexagram 37 - The Family • Hexagram 50 - The Caldron
+
+---
+
+
+[^1]: Grimm Brothers, *The Complete Fairy Tales* and Marie-Louise von Franz, *The Interpretation of Fairy Tales* (Shambhala, 1970) — Jungian analysis of archetypal patterns in fairy tales.
 
 ---
 

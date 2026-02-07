@@ -45,7 +45,7 @@ His sacred symbols:
 
 ### The Hidden Child
 
-After [[Osiris]]'s murder by [[Set]], [[Isis]] conceived Horus with her resurrected husband and fled to the **papyrus marshes of Chemmis** (the Delta), where she raised the divine child in hiding. The infant Horus was constantly threatened: scorpions stung him, serpents attacked him, illness assailed him. Isis's magic and the protection of the marshes kept him alive. This period of concealment — the god-child hidden in the reeds, vulnerable yet destined for kingship — is one of the most resonant images in Egyptian religion.
+After [[Osiris]]'s murder by [[Set]], [[Isis]] conceived Horus with her resurrected husband and fled to the **papyrus marshes of Chemmis** (the Delta), where she raised the divine child in hiding.[^1] The infant Horus was constantly threatened: scorpions stung him, serpents attacked him, illness assailed him. Isis's magic and the protection of the marshes kept him alive. This period of concealment — the god-child hidden in the reeds, vulnerable yet destined for kingship — is one of the most resonant images in Egyptian religion.
 
 **Archetypal reading:** The hidden child is [[The Divine Child]] archetype in its purest form: the new consciousness that is born from the death of the old order, that must be protected during its vulnerable phase before it can claim its power. The marshes (liminal, watery, between land and river) represent the **unconscious** — the hidden, protected space where new psychic content gestates before it is ready to enter consciousness. Every genuine transformation has a "marshes" phase: the period after the old identity has died and the new one is not yet strong enough to act.
 
@@ -146,6 +146,11 @@ The Horus archetype is active when you:
 - **Angelology:** [[Michael|Archangel Michael]] (the warrior of light who defeats the dragon/chaos), [[Raphael|Archangel Raphael]] (the healer — the Wedjat restoration)
 - **Alchemical Stages:** [[Rubedo]] (the reddening, the return of the solar king), the philosopher's gold
 - **Jungian:** [[The Hero]], [[The Divine Child]], [[The Shadow]] (Horus-Set dyad), [[The Self]] (the Eye of Horus as symbol of psychic wholeness)
+
+---
+
+
+[^1]: Egyptian mythological texts and Plutarch, *Isis and Osiris*.
 
 ---
 

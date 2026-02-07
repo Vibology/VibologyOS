@@ -18,7 +18,7 @@ core_theme: Initiation through Impossible Tasks, Confrontation with the Terrible
 
 ## Overview
 
-Slavic and Eastern European mythology presents the archetypal drama of **initiation through confrontation with the Terrible Mother**—the psyche's necessary encounter with the devouring, ambiguous feminine to retrieve the fire of consciousness. Unlike the Greek emphasis on ego-heroic conquest, the Slavic tradition teaches that **the Great Mother (Baba Yaga) cannot be conquered**—she can only be approached with humility, fed, obeyed, and honored. Those who bring her gifts and complete impossible tasks receive her blessing; those who come with arrogance are devoured.
+Slavic and Eastern European mythology presents the archetypal drama of **initiation through confrontation with the Terrible Mother**—the psyche's necessary encounter with the devouring, ambiguous feminine to retrieve the fire of consciousness.[^1] Unlike the Greek emphasis on ego-heroic conquest, the Slavic tradition teaches that **the Great Mother (Baba Yaga) cannot be conquered**—she can only be approached with humility, fed, obeyed, and honored. Those who bring her gifts and complete impossible tasks receive her blessing; those who come with arrogance are devoured.
 
 The Slavic pantheon reflects a profound **dualism**: Perun (thunder/sky father) above the World Tree and Veles (underworld/cattle god) beneath it; Byelobog (White God of light) and Chernobog (Black God of darkness); the living realm (Yav) suspended between the celestial (Prav) and the underworld (Nav). This is not Manichean rejection of darkness but recognition that **wholeness requires both**—the Devil's handful of mud is necessary for creation.
 
@@ -867,6 +867,11 @@ Wait like Ilya when:
 - [[Gate 29 - The Abysmal]] — Baba Yaga's ordeal, commitment to the abyss
 - [[Gate 39 - Obstruction]] — Koschei as provocation, breaking the complex
 - [[Gate 59 - Dispersion]] — Rusalki as intimacy/breakthrough, dispersing projection
+
+
+[^1]: Primary sources listed in References section.
+
+---
 
 ## Sources
 **Jungian Analytical Psychology:**

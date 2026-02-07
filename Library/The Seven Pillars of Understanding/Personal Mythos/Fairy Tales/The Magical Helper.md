@@ -58,7 +58,7 @@ Across mythologies, the Magical Helper appears in **humble or repulsive forms** 
 - **Native American tales:** The trickster-helper (Coyote, Raven, Rabbit) appears foolish or weak but carries secret power
 - **Christian hagiography:** Christ as the beggar at the gate; angels disguised as strangers (Hebrews 13:2: "Some have entertained angels unawares")
 
-This is the **test of discrimination**: Can the ego recognize the sacred beneath the profane? Can it honor the mouse, the frog, the beggar, the doll—or does it seek aid only from the overtly powerful? The protagonist who **treats the humble Helper with respect** (shares bread with the mouse, keeps the promise to the frog, feeds the doll) receives supernatural aid. The one who scorns the Helper (the proud sisters in countless tales) is abandoned to their own inadequate resources.
+This is the **test of discrimination**: Can the ego recognize the sacred beneath the profane? Can it honor the mouse, the frog, the beggar, the doll—or does it seek aid only from the overtly powerful? The protagonist who **treats the humble Helper with respect** (shares bread with the mouse, keeps the promise to the frog, feeds the doll) receives supernatural aid.[^1] The one who scorns the Helper (the proud sisters in countless tales) is abandoned to their own inadequate resources.
 
 ### The Helper's Reciprocity Requirement
 
@@ -706,6 +706,11 @@ The Doll • The Helpful Animal • The Impossible Task • The Fairy Godmother 
 
 **World Mythology:**
 [[Greek Mythology]] • [[Native American Mythology]] • [[Celtic Mythology]] • [[Buddhist Cosmology]] • [[Norse Mythology]] • [[Hindu Mythology]]
+
+---
+
+
+[^1]: Grimm Brothers, *The Complete Fairy Tales* and Marie-Louise von Franz, *The Interpretation of Fairy Tales* (Shambhala, 1970) — Jungian analysis of archetypal patterns in fairy tales.
 
 ---
 

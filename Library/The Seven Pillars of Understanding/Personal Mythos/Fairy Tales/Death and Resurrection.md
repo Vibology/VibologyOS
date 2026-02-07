@@ -37,7 +37,7 @@ This is not a comforting tale of "things get better." It is a **surgical instruc
 
 ### The Whale's Belly: Gestation in Darkness
 
-The **whale** (or great fish, sea monster, leviathan) appears across mythologies as the devouring maw that **swallows the hero whole**—Jonah in the Hebrew Bible, Pinocchio in Collodi's tale, the Inuit hero Raven in the whale's stomach retrieving fire. This is not predation but **gestation**: the hero enters the belly alive and emerges transformed.
+The **whale** (or great fish, sea monster, leviathan) appears across mythologies as the devouring maw that **swallows the hero whole**—Jonah in the Hebrew Bible, Pinocchio in Collodi's tale, the Inuit hero Raven in the whale's stomach retrieving fire.[^1] This is not predation but **gestation**: the hero enters the belly alive and emerges transformed.
 
 #### Psychological Meaning
 - **The whale is the Collective Unconscious** itself—vast, dark, containing all that was before ego-consciousness. To be swallowed is to return to the pre-differentiated state, the oceanic womb-tomb where boundaries dissolve.
@@ -884,6 +884,11 @@ Hexagram 29 - The Abysmal • Hexagram 5 - Waiting • Hexagram 24 - Return • 
 
 **Angelology:**
 Azrael • [[Metatron]] • [[Samael]]
+
+---
+
+
+[^1]: Grimm Brothers, *The Complete Fairy Tales* and Marie-Louise von Franz, *The Interpretation of Fairy Tales* (Shambhala, 1970) — Jungian analysis of archetypal patterns in fairy tales.
 
 ---
 

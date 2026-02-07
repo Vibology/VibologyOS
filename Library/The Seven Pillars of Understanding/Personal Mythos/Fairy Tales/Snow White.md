@@ -30,7 +30,7 @@ The **Prince's kiss** (or in earlier versions, the jolting that dislodges the ap
 
 ## Plot Summary
 
-A Queen sits sewing by a window framed in ebony, watching snowflakes fall. She pricks her finger; three drops of blood fall onto the snow. She wishes for a daughter "as white as snow, as red as blood, and as black as ebony." Her wish is granted, but she dies in childbirth. The King remarries.
+A Queen sits sewing by a window framed in ebony, watching snowflakes fall.[^1] She pricks her finger; three drops of blood fall onto the snow. She wishes for a daughter "as white as snow, as red as blood, and as black as ebony." Her wish is granted, but she dies in childbirth. The King remarries.
 
 The new **Queen** is breathtakingly beautiful but vain and cruel. She possesses a **magic mirror** to which she asks daily: *"Mirror, mirror, on the wall, who is the fairest of them all?"* The mirror always answers: *"You, my Queen, are the fairest."*
 
@@ -492,6 +492,11 @@ Persephone and Demeter • Inanna's Descent • Aphrodite and Psyche • Sleepin
 
 #### Related Tales
 [[Beauty and the Beast]] • Sleeping Beauty • [[Cinderella]] • [[Rapunzel]] • The Handless Maiden • East of the Sun, West of the Moon
+
+---
+
+
+[^1]: Grimm Brothers, *The Complete Fairy Tales* and Marie-Louise von Franz, *The Interpretation of Fairy Tales* (Shambhala, 1970) — Jungian analysis of archetypal patterns in fairy tales.
 
 ---
 

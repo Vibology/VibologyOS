@@ -18,7 +18,7 @@ core_theme: Will and transformation through sacrifice
 
 ## Overview
 
-Norse mythology represents the archetypal drama of **will confronting fate**—the conscious assertion of sovereignty against the inexorable tide of cosmic dissolution. Where Greek myth dramatizes the ego's emergence from the unconscious, Norse myth confronts the harder truth: consciousness is temporary, Ragnarök is inevitable, and the only meaningful question is *how* one meets the end.
+Norse mythology represents the archetypal drama of **will confronting fate**—the conscious assertion of sovereignty against the inexorable tide of cosmic dissolution.[^1] Where Greek myth dramatizes the ego's emergence from the unconscious, Norse myth confronts the harder truth: consciousness is temporary, Ragnarök is inevitable, and the only meaningful question is *how* one meets the end.
 
 The Aesir and Vanir are not celestial administrators but **embodied archetypal forces**: Odin as the Wise Old Man pursuing gnosis at any cost, Thor as the Hero wielding strength without subtlety, Loki as the Trickster whose chaos catalyzes transformation, Frigg as the Great Mother who sees all fates but cannot alter them, Freyja as the Anima in her erotic-shamanic power, Hel as the Shadow of death accepted, Baldr as the Divine Child whose death initiates the world's ending.
 
@@ -972,6 +972,11 @@ Jung: *"Odin is the god of poets, the dead, and the hanged—those who have pass
 *"Odin does not want to be saved; he wants to know. And for that knowledge, he will hang from the world tree, sacrifice his eye, wander in disguise among mortals, and face the wolf at Ragnarök. The price of consciousness is the willingness to die for it."*
 
 — Paraphrase of Jungian understanding of Odinic consciousness
+
+
+[^1]: Primary sources listed in References section.
+
+---
 
 ## Sources
 **Jungian Analytical Psychology:**
