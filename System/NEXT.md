@@ -80,11 +80,10 @@ VibologyOS/
 | # | Pillar | Item | Status |
 |---|--------|------|--------|
 | 11 | HD | Projector Subcategories (Classic/Energy/Mental) | **Complete** — added from LYD Student Manual |
-| 12 | HD | Deconditioning expansion | **Partial** — Not-Self Mind Talk callouts added to all 9 centers (LYD source); deeper deconditioning mechanics pending advanced IHDS materials |
+| 12 | HD | Deconditioning expansion | **Complete** — Nine Wisdom Poles, hierarchy of conditioning, Four Transformations (PHS/Environment/Perspective/Motivation), Parkyn framing. Sources: Definitive Book, LYD Manual, Book of Destinies |
 | 21 | Synthesis | First synthesis pieces | Ready when called |
 
-**Source-Dependent (On Hold):**
-- **IHDS Foundation Materials** (LYD manual, courses) — Definition Types complete; Projector Subcategories complete (LYD source); Deconditioning depth pending (LYD insufficient — needs advanced IHDS materials)
+**All Library roadmap items complete.** Only remaining path is #21 (Synthesis), which is creative work initiated when ready.
 
 **Astrological Tradition:** Traditional Archetypal / Psycho-Astrology — Hellenistic foundations (Ptolemy, Valens, Dorotheus) with Jungian archetypal synthesis (Greene, Sasportas). NOT evolutionary astrology. All Hellenistic technique tiers (1-3) complete from Brennan source.
 
@@ -98,6 +97,7 @@ VibologyOS/
 
 | Milestone | Date | Scope |
 |-----------|------|-------|
+| Deconditioning expansion complete (#12) | 2026-02-07 | Wisdom Poles x9 centers, hierarchy of conditioning, Four Transformations section (PHS→Environment→Perspective→Motivation), Parkyn framing callout. Sources: Definitive Book, LYD, Book of Destinies |
 | LYD Student Manual integration | 2026-02-07 | Projector subcategories (#11), Not-Self Mind Talk callouts x9 centers (#12 partial) |
 | Category B entries complete | 2026-02-07 | 19 entries: Greek 6, Egyptian 4, Jungian 5, Cross-Pillar 4 |
 | Dead link maintenance (4 rounds) | 2026-02-07 | ~749 → 5 (all template placeholders). Round 4: 19 entries + 173 alias fixes |
@@ -131,6 +131,19 @@ VibologyOS/
 ---
 
 ## Session History
+
+**2026-02-07 (session 4):** Deconditioning expansion — roadmap item #12 closed
+- **Source query:** NotebookLM Esoteric Grimoire — queried The Definitive Book of Human Design (Bunnell/Ra), Chetan Parkyn's Book of Destinies, LYD Student Manual, Ra's Complete Guide
+- **Assessment:** Grimoire sources more than adequate — Definitive Book provides full mechanical depth (cellular biology, center wisdom, PHS, Four Transformations); Parkyn provides complementary narrative/archetypal framing; LYD provided introductory layer (already used in session 3)
+- **Additions to Deconditioning.md:**
+  - **Nine Wisdom Poles table** — Not-Self → Wisdom transformation for each undefined center (what each center *becomes* when deconditioned)
+  - **Hierarchy of conditioning note** — open Centers > undefined Centers > split definitions > single definition (LYD source)
+  - **"Beyond the Seven-Year Cycle: The Four Transformations" section** — PHS (Year 7+), Environment (Year 14+), Perspective (Year 21+), Motivation (Year 21+); the Twenty-One Year Arc
+  - **Parkyn framing callout** — mechanics (Ra) vs. storyline (Parkyn)
+  - **Cross-references** expanded to include all Variables entries
+  - **Sources** expanded: [^3] LYD, [^4] Definitive Book, [^5] Book of Destinies
+- **Dead links:** 5 (unchanged — all template placeholders). No new dead links introduced.
+- **Roadmap item #12:** CLOSED. All Library expansion roadmap items now complete. Only #21 (Synthesis) remains — creative work, not infrastructure.
 
 **2026-02-07 (session 3):** IHDS LYD Student Manual integration
 - **Source:** Lynda Bunnell, *Living Your Design Student Manual* (IHDS/Jovian Archive, 2006/2010)

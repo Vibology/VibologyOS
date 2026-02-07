@@ -1,10 +1,10 @@
 ---
-tags: [human-design, deconditioning, practice, transformation, seven-year-cycle]
+tags: [human-design, deconditioning, practice, transformation, seven-year-cycle, variables, phs]
 system: Human Design
 date_created: 2026-01-26
-date_updated: 2026-02-06
-verified: 2026-02-06
-verification_source: Definition.md, Centers entries, Sacral.md
+date_updated: 2026-02-07
+verified: 2026-02-07
+verification_source: The Definitive Book of Human Design (Bunnell/Ra), Living Your Design Student Manual (Bunnell), The Book of Destinies (Parkyn), Definition.md, Centers entries
 status: comprehensive
 ---
 
@@ -120,6 +120,9 @@ The primary sites of conditioning are your **undefined Centers**—the white are
 | **[[Spleen]]** | Holding on to what isn't healthy | Staying in bad relationships, jobs, or habits out of fear | Remaining in a toxic relationship because "at least it's familiar" |
 | **[[Root]]** | Always in a hurry | Constant urgency; pressure to act NOW; stress addiction | Responding to every notification immediately, unable to sit still |
 
+> [!note] Hierarchy of Conditioning
+> Not all conditioning is equal. **Open Centers** (no gates activated) are more deeply conditioned than **undefined Centers** (some gates activated but no complete channel) — the completely open Center has no fixed reference point at all and takes in everything without filter. Beyond Centers, **split definitions** create conditioning around the bridging gates, as the mind seeks to "complete" the circuit through others. The hierarchy: open Centers (deepest) → undefined Centers → split definitions → single definition (least)[^3].
+
 **How Conditioning Works:**
 
 When a Center is undefined, you **do not have consistent access** to that energy. Instead, you **sample** it from others and the environment. The undefined Center **amplifies** what it takes in, creating the illusion that *"this is who I am."*
@@ -140,6 +143,26 @@ When a Center is undefined, you **do not have consistent access** to that energy
 2. **Do not make decisions** from the amplified state
 3. **Wait** until you're alone and the amplification clears
 4. **Make decisions** from your actual Authority, not the open Center
+
+### The Nine Wisdom Poles: What Opens When Conditioning Releases
+
+Deconditioning does not merely remove the Not-Self — it reveals the **wisdom** latent in each undefined Center. The same openness that creates vulnerability to conditioning becomes, through consistent Strategy and Authority, a source of profound discernment[^4].
+
+| Center | Not-Self Pattern | Wisdom (Deconditioned) |
+|--------|-----------------|----------------------|
+| **[[Head]]** | Obsessing over questions that aren't yours | Enjoying inspiration without pressure to act on it; discerning who and what is truly inspiring |
+| **[[Ajna]]** | Pretending to be mentally certain | Enjoying mental flexibility; comfortable saying "I don't know"; appreciating multiple perspectives |
+| **[[Throat]]** | Trying to attract attention | Remaining silent until the correct moment; realizing you attract attention naturally without effort |
+| **[[G Center]]** | Searching for identity and direction | Letting the environment and life show you the way; comfortable not knowing "who" you are |
+| **[[Heart]]** | Trying to prove yourself | Realizing you have nothing to prove; ceasing to make promises; discerning where willpower is healthy |
+| **[[Sacral]]** | Not knowing when enough is enough | Recognizing when to stop and rest; wisdom about who has energy and who does not |
+| **[[Spleen]]** | Holding on to what isn't healthy | Intuitively sensing what is healthy; confronting fears rather than letting them dictate decisions |
+| **[[Solar Plexus]]** | Avoiding confrontation and truth | Observing the emotional climate without identifying with it; becoming a barometer for the emotional health of others |
+| **[[Root]]** | Always in a hurry | Using pressure productively or letting it pass; distinguishing between healthy pressure and other people's stress |
+
+**The paradox:** The undefined Centers that cause the most suffering in the Not-Self become the greatest sources of wisdom once deconditioned. The open Head that tortured you with irrelevant questions becomes a refined instrument for discerning genuine inspiration. The open Heart that drove you to overcommit becomes a precise gauge of where willpower is healthy and where it is not.
+
+This is why Ra called the undefined Centers **"schools"** — they are where you learn, not who you are[^4].
 
 ### The Conditioned Mind: Authority Usurped
 
@@ -347,6 +370,49 @@ Major transits (Saturn return, Pluto transits, Uranus opposition) can **force de
 
 ---
 
+## Beyond the Seven-Year Cycle: The Four Transformations
+
+The basic deconditioning process — living Strategy and Authority for seven years — addresses the **surface mechanics**: correct decision-making, releasing Not-Self patterns, allowing the body to renew. But Ra taught that this is only the **foundation**. Beyond it lies the deeper architecture of the **Four Transformations**, each building on the last[^4].
+
+### The Sequence
+
+| Transformation | Variable | Timeline | What Changes |
+|---------------|----------|----------|-------------|
+| **1. Dietary Regimen** | [[Determination]] | Year 7+ | How you fuel the body; brain differentiation begins |
+| **2. Correct Environment** | [[Environment]] | Year 14+ | Where the body is placed; longevity and correct relationships |
+| **3. Correct Perspective** | [[Perspective]] | Year 21+ | How the mind sees; Outer Authority stabilizes |
+| **4. True Motivation** | [[Motivation]] | Year 21+ | What drives you; transference dissolves |
+
+### The First Transformation: Primary Health System
+
+After seven years of Strategy and Authority, the body is ready for [[Primary Health System|PHS]] — the experiment of eating according to your genetic **Color** (one of six dietary regimens determined by the Design Sun/Earth). This is not nutrition in the conventional sense. It concerns the **conditions and circumstances** of eating — sequential vs. mixed, hot vs. cold, calm vs. stimulated, light vs. dark[^4].
+
+**Why it matters for deconditioning:** PHS addresses conditioning at the **cellular level**. Strategy and Authority stop the mind from making wrong decisions. PHS goes deeper — it cleans the body's internal environment so the brain can **physically differentiate**, reorganizing neural pathways according to the Design Crystal's original architecture.
+
+### The Second Transformation: Environment
+
+Once the internal system is clean (correct eating), the body gains the sensitivity to recognize its correct **external environment** — the physical surroundings in which resistance dissolves and the correct people arrive. There are six archetypal Environments ([[Environment|Caves, Markets, Kitchens, Mountains, Valleys, Shores]]), each determined by the Design Nodes. After the Saturn cycle (age 28–30), being in the wrong Environment accelerates deterioration; being in the correct one protects longevity[^4].
+
+### The Third and Fourth: Perspective and Motivation
+
+When the body is in the correct Environment, the mind naturally settles into its correct **[[Perspective]]** — the cognitive lens through which it is designed to see. Simultaneously, true **[[Motivation]]** emerges, replacing the Not-Self's transference patterns. Together, these constitute the mind's **Outer Authority** — the unique intelligence you offer others, distinct from the Inner Authority by which you make decisions for yourself[^4].
+
+### The Twenty-One Year Arc
+
+The full deconditioning arc spans roughly **twenty-one years** — three complete cellular renewal cycles:
+
+- **Years 1–7:** Strategy and Authority — the body stops making wrong decisions; first cellular renewal
+- **Years 7–14:** PHS — the body is fueled correctly; brain differentiation begins; second cellular renewal
+- **Years 14–21:** Environment — the body is placed correctly; correct relationships arrive; third cellular renewal
+- **Year 21+:** Perspective and Motivation stabilize — the mind becomes a reliable Outer Authority
+
+This is not a prescription for rigidity. Each stage **emerges naturally** from the one before it. You do not "do" PHS until Strategy and Authority are stable. You do not seek your Environment until PHS has cleaned the internal system. The sequence is mechanical, not aspirational.
+
+> [!note] Chetan Parkyn's Framing
+> Where Ra emphasizes the **cellular mechanics** of deconditioning (seven-year renewal, PHS, brain differentiation), Chetan Parkyn frames the process as **waking up to your storyline** — recognizing the discordant version of someone else's life you've been living and returning to the destiny encoded in your [[Incarnation Crosses|Incarnation Cross]][^5]. Both perspectives are valid: Ra describes the *how* (mechanics), Parkyn describes the *what* (the life that awaits).
+
+---
+
 ## Cross-References
 
 ### Within Human Design
@@ -355,6 +421,15 @@ Major transits (Saturn return, Pluto transits, Uranus opposition) can **force de
 - [[The BodyGraph]] — Visual map showing defined vs. undefined
 - [[Definition]] — How splits create conditioning around bridging Gates
 - [[Strategy]] — Type-specific engagement with life
+
+### The Four Transformations
+- [[Variables]] — Overview of the advanced variable system
+- [[Primary Health System]] — The first transformation: correct dietary regimen
+- [[Environment]] — The second transformation: correct physical surroundings
+- [[Perspective]] — The third transformation: correct cognitive lens
+- [[Motivation]] — The fourth transformation: true underlying drive
+- [[Determination]] — The six dietary Colors
+- [[Tone - Color - Base]] — The substructure underlying all Variables
 
 ### Cross-System Integration
 - [[Individuation Process]] — Jungian parallel to deconditioning (becoming yourself)
@@ -369,6 +444,12 @@ Major transits (Saturn return, Pluto transits, Uranus opposition) can **force de
 [^1]: Ra Uru Hu. Various lectures and writings. Seven-year cellular renewal cycle; deconditioning as subtraction, not addition; timeline of Recognition, Resistance, Integration, Embodiment.
 
 [^2]: Ra Uru Hu. *The Definitive Book of Human Design*. "The mind is not a trustworthy personal guidance system." Mind as Outer Authority (information processor) vs. Inner Authority (decision-maker).
+
+[^3]: Lynda Bunnell. *Living Your Design Student Manual*. IHDS/Jovian Archive, 2006/2010. Not-Self Mind Talk for nine Centers; hierarchy of conditioning (open centers > undefined centers > splits).
+
+[^4]: Lynda Bunnell and Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. HDC Publishing, 2011. Center wisdom poles, Strategy and Authority as catalyst of transformation, Passenger consciousness, PHS and the Four Transformations as advanced deconditioning layers.
+
+[^5]: Chetan Parkyn. *The Book of Destinies: Discover the Life You Were Born to Live*. HarperElixir, 2016. Deconditioning as waking to the storyline; conditioning as living a discordant version of someone else's life; return to the destiny encoded in the Incarnation Cross.
 
 ---
 
